@@ -10,7 +10,7 @@ VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1986/005 r. 30(3) 30.1.1986
+LN. 1986/005 r. 30(3) 30.1.1986 1986/013 rr. 2(1), 70(4), 73A, 84 1.3.1986
 
 Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
@@ -64,7 +64,7 @@ Subsidiary [1958.04.01]
 
 PART IV. LAMPS AND REFLECTORS.
 
-65.  Obligatory lamps. 66.  Obligatory reflectors. 67. Restriction on number and nature of lamps. 68.  Flashing lights. 69.  Multi-purpose lamps. 70.  Position of obligatory front lamps. 71.  Position of dual-purpose lamp. 72.  Character of front lamp. 73.  Markings of electric bulbs.
+65.  Obligatory lamps. 66.  Obligatory reflectors. 67. Restriction on number and nature of lamps. 68.  Flashing lights. 69.  Multi-purpose lamps. 70.  Position of obligatory front lamps. 71.  Position of dual-purpose lamp. 72.  Character of front lamp. 73.  Markings of electric bulbs. 73A. Lighting during the hours of darkness.
 
 Rear Lamps.
 
