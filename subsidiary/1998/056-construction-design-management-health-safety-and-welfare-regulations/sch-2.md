@@ -326,25 +326,7 @@ Subsidiary 1998/056 1956-12 Scaffolding and ladders.
 
 (5) Mobile scaffolding must be secured against spontaneous movements.
 
-Lifting equipment.
-
-19.(1)  All lifting devices and accessories, including their component parts, attachments, anchorings and supports, must be –
-
-(a) properly designed and constructed and sufficiently strong for the use to which they are put;
-
-(b) correctly installed and used;
-
-(c) maintained in good working order;
-
-(d) checked and subjected to periodic tests and inspections in accordance with current legislation; and
-
-(e) operated by qualified workers who have received appropriate training.
-
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 (2)  All lifting devices and accessories must clearly display their maximum load values.
-
-(3)  Lifting equipment and accessories may not be used for other than their intended purposes.
+19. Revoked
 
 Evacuating and materials-handling vehicles and machinery.
 
@@ -358,7 +340,9 @@ Evacuating and materials-handling vehicles and machinery.
 
 (2) Drivers and operators of excavating and materials-handling vehicles and machinery must be specially trained.
 
-(3) Preventive measures must be taken to ensure that excavating and materials-handling vehicles and machinery do not fall into the excavations or into water.
+Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
+
+Subsidiary 1998/056 1956-12 (3) Preventive measures must be taken to ensure that excavating and materials-handling vehicles and machinery do not fall into the excavations or into water.
 
 (4) Where appropriate,   excavating   machinery   and  materials- handling machinery must be fitted with structures to protect the driver against being crushed if the machine overturns, and against falling objects.
 
@@ -374,9 +358,7 @@ Installations, machinery and equipment.
 
 (d) operated by workers who have received appropriate training.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 (2) Installations and equipment under pressure must be checked and subjected to regular tests and inspections in accordance with current legislation.
+(2) Installations and equipment under pressure must be checked and subjected to regular tests and inspections in accordance with current legislation.
 
 Excavations, wells, underground works, tunnels and earthwork.
 
@@ -390,7 +372,9 @@ Excavations, wells, underground works, tunnels and earthwork.
 
 (d) to enable workers to reach safety in the event of fire or inrush of water or materials.
 
-(2) Before excavation starts, measures must be taken to identify and reduce to a minimum any hazard due to underground cables and other distribution systems.
+Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
+
+Subsidiary 1998/056 1956-12 (2) Before excavation starts, measures must be taken to identify and reduce to a minimum any hazard due to underground cables and other distribution systems.
 
 (3) Safe routes into and out of the excavation must be provided.
 
@@ -406,9 +390,7 @@ Demolition work.
 
 Metal or concrete frameworks, shutterings and heavy prefabricated components.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 24.(1) Metal or concrete frameworks and their components, shutterings, prefabricated components or temporary supports, and buttresses must be erected and dismantled only under the supervision of a competent person.
+24.(1) Metal or concrete frameworks and their components, shutterings, prefabricated components or temporary supports, and buttresses must be erected and dismantled only under the supervision of a competent person.
 
 (2) Adequate precautions must be taken to protect workers against risks arising from the temporary fragility or instability of a structure.
 
@@ -422,7 +404,9 @@ Cofferdams and caissons.
 
 (b) appropriately equipped so that workers can gain shelter in the event of an irruption of water.
 
-(2) The construction, installation, transformation or dismantling of a cofferdam or caisson must take place only under the supervision of a competent person.
+Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
+
+Subsidiary 1998/056 1956-12 (2) The construction, installation, transformation or dismantling of a cofferdam or caisson must take place only under the supervision of a competent person.
 
 (3) All cofferdams and caissons must be inspected by a competent person at regular intervals.
 
@@ -434,9 +418,7 @@ Work on roofs.
 
 Final provisions.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 27.  If special situations so dictate, the classification of the minimum requirements set out in this Part of this Schedule are not to be regarded as binding.
+27.  If special situations so dictate, the classification of the minimum requirements set out in this Part of this Schedule are not to be regarded as binding.
 
 28.  The obligations laid down in this Schedule apply wherever required by the features of the construction site, the activity, the circumstances or a hazard. For the purposes of this Schedule”rooms” covers, inter alia, hutted accommodation.
 
