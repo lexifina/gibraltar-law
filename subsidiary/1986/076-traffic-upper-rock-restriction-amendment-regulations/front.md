@@ -1,25 +1,19 @@
-Traffic TRAFFIC (UPPER ROCK RESTRICTION) (AMENDMENT) REGULATIONS, 1986
+Subsidiary Legislation made under s.89.
 
-2005-26
+Traffic (Upper Rock Restriction)(Amendment) Regulations, 1986
 
-Subsidiary 1986/076 Regulations made or deemed to have been made under s.89.
+LN.1986/076
 
-TRAFFIC (UPPER ROCK RESTRICTION) (AMENDMENT) REGULATIONS, 1986
+Commencement 11.8.1986
 
-(LN. 1986/076)
+Amending enactments Relevant current provisions Commencement date LN. 1989/034 rr. 2, 4(6), 4A, Sch. 2 1.10.1989
 
-11.8.1986
+_______________________
 
-__________________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. Restriction. 4. Exemption. 5. Penalties. 6. Exceptions. 7. Revocation.
+1. Title and commencement. 2. Interpretation. 3. Restriction. 4. Exemption. 4A. Vehicle plates. 5. Penalties. 6. Exceptions. 7. Revocation.
 
 FIRST SCHEDULE. Restricted Area
-
-SECOND SCHEDULE. Application for Exemption Certificate.
-
-Traffic TRAFFIC (UPPER ROCK RESTRICTION) (AMENDMENT) REGULATIONS, 1986
