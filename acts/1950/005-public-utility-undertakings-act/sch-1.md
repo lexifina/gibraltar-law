@@ -26,29 +26,13 @@ Public Utility Undertakings
 
 (ii) Summer period (April to October inclusive) : - restrictions to be imposed at the Government's discretion as for winter period if necessary: Charge 4.5p per unit and in addition thereto there shall be paid a charge to be known as the Standing Additional charge of £3 per calendar month.
 
-Fuel cost adjustment
+Flexible Cost Adjustment Formula.
 
-(1) If on the last delivery of fuel oils in any month the average weighted cost of such oils delivered at King's Bastion bas increased by more than 5 per cent over the price of £64.85 per metric tonne, there shall be added to the price of each unit of electricity consumed the sum of 0.00028 pence for
+The price set out in this Schedule of a unit of electricity supplied shall be adjusted upwards or downwards by such amount or by such method as the Governor, having regard to the fluctuating cost of generating or supplying electricity, may by rules prescribe.
 
 Public Utility Undertakings
 
-1950-05 each penny that the average weighted cost per metric tonne has increased over the sum of £64 .85 and such addition shall apply in respect of each unit consumed in the accounting period which includes the first day of the month next following such delivery and every accounting period thereafter.
-
-(2)  Where any. addition to the cost per unit of electricity consumed bas been made by reason of the provision of sub-paragraph (1) no further addition in cost per unit of electricity consumed shall be made, notwithstanding that the average weighted cost of delivery of the fuel oils shall have further increased, unless or until such average weighted cost bas increased by a further 5 per cent or more over the average weighted cost of £64.85 when the price of each unit of electricity shall be further increased in accordance with the provisions of sub-paragraph (1).
-
-(3)  The provisions of sub-paragraph (2) shall also apply in relation to each further increase of 5 per cent over the average weighted cost of £64.85 after the first and second increases provided for in sub-paragraphs (1) and (2).
-
-(4)  If the average weighted cost of the fuel oils bas increased so that the price of each unit of electricity bas been increased in accordance with the provisions of sub-paragraph (1), (2) or (3) and thereafter the average weighted cost of such oils decreases the addition to the price of each unit of electricity shall be calculated on the average weighted cost of the oils on the last delivery:
-
-Provided however that notwithstanding that the average weighted cost of such oils may have fallen below £64.85 per metric tonne the price of each unit of electricity shall not be reduced below the rates set out in this Schedule.
-
-(5)  For the purposes of sub-paragraphs (1) to (4) of this item-
-
-(a)  "Fuel oils" means thin fuel oil and marine diesel oil;
-
-(b) "Average weighted cost" means 90 per cent of the cost of thin fuel oil per metric tonne plus I0 per cent of the cost of marine diesel oil per metric tonne.
-
-Connection Charge £5.
+1950-05
 
 Discontinuation of supply:
 
@@ -56,9 +40,7 @@ Where a supply of electricity has been discontinued under section 10 of the Act,
 
 Summer Air-Conditioning Tariff:
 
-Public Utility Undertakings
-
-1950-05 Energy sold for air-conditioning to be charged for under the provisions of Tariff No 6B provided that the consumer arranges the wiring of the circuits involved to enable separate metering. The following definitions shall form part of the Schedule of Tariffs:
+Energy sold for air-conditioning to be charged for under the provisions of Tariff No 6B provided that the consumer arranges the wiring of the circuits involved to enable separate metering. The following definitions shall form part of the Schedule of Tariffs:
 
 Unit
 
@@ -80,15 +62,15 @@ Month (or quarter)
 
 Month (or quarter) means the period comprised between the date any meter is read for the purpose of the account and the date it was read during the month (or quarter) immediately preceding.
 
-Consumer
+Public Utility Undertakings
+
+1950-05 Consumer
 
 Consumer means any authority, company, person or body of persons supplied or entitled to be supplied with electrical energy by the Government.
 
 Domestic consumer
 
-Public Utility Undertakings
-
-1950-05 Domestic consumer means a consumer who uses electrical energy for lighting, heating, cooling, refrigeration, cooking or other purposes for the household and domestic reasons of one family with dependants.
+Domestic consumer means a consumer who uses electrical energy for lighting, heating, cooling, refrigeration, cooking or other purposes for the household and domestic reasons of one family with dependants.
 
 Business, commercial and general consumer
 
