@@ -6,9 +6,15 @@ Principal Act
 
 Act. No. 1991-11 Commencement 9.5.1991 Assent 9.5.1991
 
-__________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF SECTIONS.
+Act.  1992-08 ss. 5(1)(d)(e)(f), (4), 10(1) (d)(e)(f),(2),3(a) and (6)
+
+9.7.1992
+
+Nature Protection
+
+1991-11 ARRANGEMENT OF SECTIONS.
 
 PART I. PRELIMINARY.
 
@@ -22,18 +28,16 @@ PROTECTION OF WILD BIRDS, WILD ANIMALS AND WILD PLANTS.
 
 PART III. NATURE CONSERVATION.
 
-18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Nature Conservancy Council. 21. Wildlife Warden. 22. Offences by bodies corporate etc.
-
-Nature Protection
-
-1991-11 23. Amendment to Schedules. 24. Regulations. 25. Amendment to Animals and Birds Act.
+18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Nature Conservancy Council. 21. Wildlife Warden. 22. Offences by bodies corporate etc. 23. Amendment to Schedules. 24. Regulations. 25. Amendment to Animals and Birds Act.
 
 SCHEDULE 1 – SPECIFIED WILD ANIMALS.
 
 SCHEDULE 2 – EXCLUDED PLANTS.
 
-SCHEDULE 3 – ENDANGERED WILD BIRDS, WILD ANIMALS AND WILD PLANTS.
+Nature Protection
+
+1991-11 SCHEDULE 3 – ENDANGERED WILD BIRDS, WILD ANIMALS AND WILD PLANTS.
 
 Nature Protection
 
-1991-11 AN ACT TO PROVIDE FOR THE PROTECTION OF WILD BIRDS, ANIMALS AND PLANTS AND FOR THE DESIGNATION AND PRESERVATION OF PROTECTED AREAS FOR THE PURPOSE OF NATURE CONSERVATION AND MATTERS INCIDENTAL THERETO.
+1991-11 AN ACT  TO  PROVIDE FOR THE PROTECTION OF WILD BIRDS, ANIMALS AND PLANTS AND FOR THE DESIGNATION AND PRESERVATION OF PROTECTED AREAS FOR THE PURPOSE OF NATURE CONSERVATION AND MATTERS INCIDENTAL THERETO.
