@@ -50,6 +50,14 @@ Port PORT RULES
 
 1960-16
 
+Subsidiary 1960.08.11 1987/097 rr. 117B(1), (5)-(6), 117J(1), Sch. 2A
+
+4.6.1987
+
+Port PORT RULES
+
+1960-16
+
 Subsidiary 1960.08.11 ARRANGEMENT OF RULES.
 
 Rule
