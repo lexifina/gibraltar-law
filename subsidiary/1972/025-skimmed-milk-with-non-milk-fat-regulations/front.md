@@ -14,6 +14,8 @@ Amending enactments Relevant current provisions Commencement date
 
 1978/064 Schs. 2 and 3.
 
+1988/003 reg. 3. 1.2.1988
+
 Food and Drugs SKIMMED MILK WITH NON-MILK FAT REGULATIONS
 
 1964-07
