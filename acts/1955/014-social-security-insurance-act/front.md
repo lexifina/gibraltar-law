@@ -64,6 +64,8 @@ LN. 1981/106 s. 20, Sch.2
 
 1983/101 s. 20, Schs.1-2
 
+1984/090 s. 20(a), Sch.2 25.12.1984
+
 Social Security (Insurance)
 
 1955-14
@@ -744,7 +746,7 @@ Increase of old age pension.
 
 20. Subject to the provisions of this Act the weekly rate of an old age pension shall be increased by the amount set out in the third column of Parts I, III and V of Schedule 2 for any period during which the beneficiary-
 
-(a) if a man is residing with or is wholly or mainly maintaining his wife who is not over pensionable age and who is not engaged in any gainful occupation from which her weekly earnings exceed £19.30; or
+(a) if a man is residing with or is wholly or mainly maintaining his wife who is not over pensionable age and who is not engaged in any gainful occupation from which her weekly earnings exceed £20.30; or
 
 (b) if a woman, is residing with and is and has been for not less than ten years wholly or mainly maintaining her husband who is not over pensionable age and who is and has been during this period permanently incapable of self-support.
 
@@ -1372,27 +1374,27 @@ Weekly Basic Rate. Increases for wife or adult dependant where payable. Increase
 
 £ £ £ 1. Widow’s Benefit
 
-(a) Widow’s Allowance 45.90 - 5.70 (b) Widowed Mother’s Allowance
+(a) Widow’s Allowance 48.20 - 6.00 (b) Widowed Mother’s Allowance
 
-38.50
-
--
-
-*5.70 (c) Widow’s Pension 38.50 - - 1A. Widower’s Pension (incapable of self-support)
-
-38.50
+40.60
 
 -
 
-5.70 2.  Guardian’s Allowance 9.90 - - 3.  Old Age Pension:
+*6.00 (c) Widow’s Pension 40.60 - - 1A. Widower’s Pension (incapable of self-support)
+
+40.60
+
+-
+
+6.00 2.  Guardian’s Allowance 10.40 - - 3.  Old Age Pension:
 
 (a) Where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive; or where the pension is payable to a man who ispermanently incapable of self-support by virtue of his wife’s insurance, and she is alive.
 
-19.30
+20.30
 
 -
 
-5.70 (b) In any other case. 38.50 18.30 5.70
+6.00 (b) In any other case. 40.60 20.30 6.00
 
 *Except in the case of a Widowed Mother’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
 
