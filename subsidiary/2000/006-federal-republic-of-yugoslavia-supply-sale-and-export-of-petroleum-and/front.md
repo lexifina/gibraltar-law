@@ -1,0 +1,23 @@
+European Communities THE FEDERAL REPUBLIC OF YUGOSLAVIA (SUPPLY, SALE AND EXPORT OF PETROLEUM AND PETROLEUM PRODUCTS) (PENALTIES AND LICENCES) REGULATIONS, 1999 Subsidiary 2000/006 1972-18 Regulations made under s.4(3).
+
+THE FEDERAL REPUBLIC OF YUGOSLAVIA (SUPPLY, SALE AND EXPORT OF PETROLEUM AND PETROLEUM PRODUCTS) (PENALTIES AND LICENCES) REGULATIONS, 1999
+
+(LN. 2000/006)
+
+26.11.1999
+
+Amending enactments Relevant current provisions Commencement date None
+
+EU Legislation/International Agreements involved: Regulation (EC) NO. 2111/1999
+
+___________________________
+
+ARRANGEMENT OF REGULATIONS.
+
+Regulation 1. Title and commencement. 2. Interpretation. 3. Breaches of the EC Regulation. 4. Requests for authorisation. 5. Penalties and proceedings. 6. Revocation.
+
+SCHEDULE Council Regulation (EC) NO. 2111/1999 OF 4 October 1999
+
+European Communities THE FEDERAL REPUBLIC OF YUGOSLAVIA (SUPPLY, SALE AND EXPORT OF PETROLEUM AND PETROLEUM PRODUCTS) (PENALTIES AND LICENCES) REGULATIONS, 1999 Subsidiary 2000/006 1972-18
+
+European Communities THE FEDERAL REPUBLIC OF YUGOSLAVIA (SUPPLY, SALE AND EXPORT OF PETROLEUM AND PETROLEUM PRODUCTS) (PENALTIES AND LICENCES) REGULATIONS, 1999 Subsidiary 2000/006 1972-18 Title and commencement.
