@@ -9,3 +9,7 @@ PUBLIC HEALTH (PROVISION OF HEARSES) RULES, 1995
 (LN. 1995/037)
 
 14.3.1995
+
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2005/058 Sch. 1 1.4.2005

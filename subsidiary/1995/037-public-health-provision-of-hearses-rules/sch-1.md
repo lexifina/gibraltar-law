@@ -8,4 +8,4 @@ Charge per funeral
 
 1. When empty coffin is also delivered by hearse
 
-£20 2 When empty coffin is not delivered by hearse £15
+£40 2 When empty coffin is not delivered by hearse £30
