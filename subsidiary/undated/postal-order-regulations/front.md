@@ -24,7 +24,7 @@ Amending enactments Relevant current provisions Commencement date 7.5.1969 – L
 
 1977/077 –
 
-1979/045 – 1980/040 – 1980/145 – 1982/039 Sch.
+1979/045 – 1980/040 – 1980/145 – 1982/039 Sch. 1985/063 Sch. 21.5.1985
 
 Post Office POSTAL ORDER REGULATIONS
 
