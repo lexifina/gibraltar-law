@@ -20,7 +20,7 @@ Remarks.
 
 Signature Address Occupation Date
 
-NOTE. –This testimonial is to be sent to the secretary. ___________
+NOTE. –This testimonial is to be sent to the secretary.
 
 FORM 2.
 
@@ -32,11 +32,11 @@ Confidential.
 
 To the Nurses and Midwives Registration Board.
 
-Medical and Health NURSES REGISTRATION REGULATIONS
+I hereby certify that I have known
 
-Subsidiary 1964.05.26 1997-25 I hereby certify that I have known
+personally  for
 
-personally  for years, and that he/she has discharged his/her professional duties at all times in such a manner as to enable me to recommend him/her for registration by the Board, and that he/she is of good moral character.
+years, and that he/she has discharged his/her professional duties at all times in such a manner as to enable me to recommend him/her for registration by the Board, and that he/she is of good moral character.
 
 Remarks.
 
@@ -68,10 +68,6 @@ To the Nursing Board.
 
 3. .................................................... (State whether married, single, widower or widow. If married or widow, give maiden name.)
 
-Medical and Health NURSES REGISTRATION REGULATIONS
-
-Subsidiary 1964.05.26 1997-25
-
 4. ................................................... (Full permanent postal address.)
 
 hereby request the Nurses and Midwives Registration Board to enter my name upon the Part of the Register for
@@ -86,7 +82,7 @@ under the Seal of the said Council.
 
 I am further prepared to produce such evidence as the Board may require to establish my identity and good character.
 
-Date ................... Signature ..................... ____________
+Date ................... Signature .....................
 
 FORM 3B.
 
@@ -106,11 +102,7 @@ To the Nursing Board.
 
 3. ................................................... (State whether married, single, widower or widow. If married or widow, give maiden name.)
 
-4. ..................................................
-
-Medical and Health NURSES REGISTRATION REGULATIONS
-
-Subsidiary 1964.05.26 1997-25 (Full permanent postal address.)
+4. .................................................. (Full permanent postal address.)
 
 hereby request the Nurses and Midwives Registration Board to enter my name upon the Part of the Register for
 
@@ -123,7 +115,3 @@ I forward herewith particulars of my training and certificate which I have recei
 I am further prepared to produce such evidence as the Board may require to establish my identity and good character and to undergo any examination upon any subject or subjects which the Board may consider necessary in accordance with the provisions of section 15 of the Act.
 
 Date ................... Signature .....................
-
-Medical and Health NURSES REGISTRATION REGULATIONS
-
-Subsidiary 1964.05.26 1997-25

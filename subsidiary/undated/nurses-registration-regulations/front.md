@@ -1,30 +1,26 @@
-Medical and Health NURSES REGISTRATION REGULATIONS
+Subsidiary Legislation made under the Nurses Registration Act (1964-04), saved and deemed to have been made under s.36.
 
-Subsidiary 1964.05.26 1997-25 Regulations made under the Nurses Registration Act (Act. 1964-04), saved and deemed to have been made under s.36.
-
-NURSES REGISTRATION REGULATIONS
+Nurses Registration Regulations
 
 (1964.05.26)
 
-29.5.1964
+Commencement 29.5.1964
 
 Amending enactments Relevant current provisions Commencement date
 
 LN. 1976/133
 
-1988/003 r.3 31.3.1988
+1988/003 r. 3 31.3.1988 1997/110 rr. 2, 3A, 5-9, 9A-9C, Sch.1A 16.10.1997
 
-Medical and Health NURSES REGISTRATION REGULATIONS
-
-Subsidiary 1964.05.26 1997-25 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title. 2. Interpretation. 3. Revoked. 4. Forms.
+1. Title. 2. Interpretation. 3. Revoked. 3A. Roll of Pupil Nurses. 4. Forms.
 
 PART I. CONDITION OF ADMISSION TO REGISTER.
 
-5. Examinations. 6. Entrance fee. 7. Deposit of certificates. 8. Training certificate. 9. Board may dispense with documents.
+5. Interpretation. 6. Age of entry. 7. Educational requirements for admission to Parts I-VII of the Register. 8. Length of training for admission to Parts I, III, V and VII of the Register. 9. Training for admission to Parts I, II, V and VII of the Register. 9A. Special provisions relating to the admission to Parts I, III, V or VII of the Register. 9B. Interruption of training. 9C. Examinations.
 
 PART II. REMOVAL FROM THE REGISTER.
 
@@ -32,14 +28,14 @@ PART II. REMOVAL FROM THE REGISTER.
 
 PART III. RESTORATION TO REGISTER.
 
-18. Restoration to register. 19. Fee on restoration. 20. Notifications to and from England, etc. 21. Restoration in England, etc. 22. Application to nurses registered in England, etc.
+18. Restoration to register. 19. Fee on restoration. 20. Notifications to and from England, etc.
+
+21. Restoration in England, etc. 22. Application to nurses registered in England, etc.
 
 PART IV. PROCEDURE OF BOARD AND COMMITTEES.
 
-23. Convening of meetings. 24. Notice of meetings.
+23. Convening of meetings. 24. Notice of meetings. 25. Quorum. 26. Minutes. 27. Voting. 28. Motions. 29. Notices of motion.
 
-Medical and Health NURSES REGISTRATION REGULATIONS
+SCHEDULE 1. FORMS
 
-Subsidiary 1964.05.26 1997-25 25. Quorum. 26. Minutes. 27. Voting. 28. Motions. 29. Notices of motion.
-
-Medical and Health NURSES REGISTRATION REGULATIONS
+SCHEDULE 1A. INSTRUCTION PROGRAMME FOR NURSES EDUCATION LEADING TO REGISTRATION

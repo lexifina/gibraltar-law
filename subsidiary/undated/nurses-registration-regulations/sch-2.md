@@ -10,9 +10,7 @@ To
 
 of
 
-Take notice that the charge (or charges) against you, particulars of which are set forth below, has/have been brought to the notice of the Board, and that the Board proposes to investigate such charge(s) at a meeting to be held at the office of the Board, at           a.m./p.m. on the
-
-20    , and to determine whether you should be removed from the register.
+Take notice that the charge (or charges) against you, particulars of which are set forth below, has/have been brought to the notice of the Board, and that the Board proposes to investigate such charge(s) at a meeting to be held at the office of the Board, at           a.m./p.m. on the 20    , and to determine whether you should be removed from the register.
 
 Particulars of Charge(s).
 
