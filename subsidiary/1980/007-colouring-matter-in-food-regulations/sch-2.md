@@ -16,12 +16,6 @@ Inorganic impurities
 
 Each diluent shall not contain–
 
-Food and Drugs COLOURING MATTER IN FOOD REGULATIONS
-
-1964-07
-
-Subsidiary 1980/007
-
 (a)  more than 5 milligrams per kilogram of arsenic;
 
 (b)  more than 20 milligrams per kilogram of lead;
@@ -30,16 +24,10 @@ Subsidiary 1980/007
 
 PART III. PURITY CRITERIA APPLICABLE TO PERMITTED SOLVENTS WHICH ARE PERMITTED DILUENTS.
 
-Each permitted solvent shall comply with the specification specified in relation thereto in Schedule 1 to the Solvents in Food Regulations, 1985, and  so far as is not otherwise provided by that specification shall not contain–
+Each permitted solvent shall comply with the specification specified in relation thereto in Schedule 1 to the Solvents in Food Regulations, 1987, and so far as is not otherwise provided by that specification shall not contain–
 
 (a)  more than 2 milligrams per kilogram of arsenic;
 
 (b)  more than 10 milligrams per kilogram of lead;
 
 (c)  more than 100 milligrams per kilogram of any of the following substances, namely antimony, copper, chromium, zinc or barium sulphate, or more than 200 milligrams per kilogram of any combination of those substances.
-
-Food and Drugs COLOURING MATTER IN FOOD REGULATIONS
-
-1964-07
-
-Subsidiary 1980/007

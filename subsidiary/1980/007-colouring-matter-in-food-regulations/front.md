@@ -1,24 +1,16 @@
-Food and Drugs COLOURING MATTER IN FOOD REGULATIONS
+Subsidiary Legislation made under ss. 6, 8 and 58.
 
-1964-07
+Colouring Matter in Food Regulations
 
-Subsidiary 1980/007 Regulations made under sections 6, 8 and 58.
+LN.1980/007
 
-COLOURING MATTER IN FOOD REGULATIONS
-
-(LN. 1980/007)
-
-3.1.1980
+Commencement 3.1.1980
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1987/040 rr. 2(1), 6(1), 9, 11(2), Sch. 1 1.8.1987
+LN. 1987/040 rr. 2(1), 6(1), 9, 11(2), Sch. 1 1.8.1987 1990/072 r. 5(2), Schs. 1-3 1.7.1990
 
-Food and Drugs COLOURING MATTER IN FOOD REGULATIONS
-
-1964-07
-
-Subsidiary 1980/007 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -29,7 +21,3 @@ SCHEDULE 1.
 SCHEDULE 2.
 
 SCHEDULE 3.
-
-SCHEDULE 4.
-
-Food and Drugs COLOURING MATTER IN FOOD REGULATIONS
