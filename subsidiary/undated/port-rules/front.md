@@ -54,7 +54,7 @@ Subsidiary 1960.08.11 1987/097 rr. 117B(1), (5)-(6), 117J(1), Sch. 2A
 
 4.6.1987 1987/112 rr. 2, 117A-117O, Sch. 2A 16.7.1987 1987/135 Sch. 4 1.1.1988 1988/161 Sch. 4 29.12.1988 1991/033 Sch. 4 1.4.1990 1990/190 rr. 12A, 102A, Sch. 4 1.1.1991 1991/206 rr. 36-37, 47(1A), 49(2), 66, 76, 112, 116, (3), 151, 170, 173.
 
-7.11.1991 1991/221 r. 82 12.12.1991 1992/097 r. 12A(2)(c) 9.7.1992 1992/147 Sch. 4 1.8.1992 “ rr. 31, 110, 19.11.1992 “ Sch. 4 1.1.1993 1995/142 r. 2(2). 29.11.1995 1996/078 Sch. 4 25.7.1996 1996/086 Sch. 6 5.9.1996 1999/004 Sch. 4 14.1.1999 1999/009 r. 20A. 28.1.1999
+7.11.1991 1991/221 r. 82 12.12.1991 1992/097 r. 12A(2)(c) 9.7.1992 1992/147 Sch. 4 1.8.1992 “ rr. 31, 110, 19.11.1992 “ Sch. 4 1.1.1993 1995/142 r. 2(2). 29.11.1995 1996/078 Sch. 4 25.7.1996 1996/086 Sch. 6 5.9.1996 1999/004 Sch. 4 14.1.1999 1999/009 r. 20A. 28.1.1999 2000/051 r. 172A, Schs. 4, 5A a 1.8.2000
 
 Port PORT RULES
 
@@ -146,7 +146,7 @@ Subsidiary 1960.08.11 170. Offences and penalty.
 
 PART VII.–PORT CHARGES.
 
-171.  Port charges. 172.  Exemption.
+171.  Port charges. 172.  Exemption. 172A. Partial exemptions.
 
 PART VIII.–CONTINUING OFFENCES.
 
@@ -163,6 +163,8 @@ SCHEDULE 3. Dangerous or Inflammable Goods.
 SCHEDULE 4. Port Dues.
 
 SCHEDULE 5. Vessels which may be exempted from payment; of Tonnage Dues.
+
+SCHEDULE 5A Vessels which may be partially exempted from payments of tonnage dues.
 
 SCHEDULE 6. Prohibited Anchorage Areas.
 
