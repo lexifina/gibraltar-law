@@ -1,29 +1,19 @@
-Food and Drugs SWEETENERS  IN FOOD REGULATIONS, 1987
+Subsidiary Legislation made under ss. 6, 8 and 58.
 
-1964-07
+Sweeteners in Food Regulations 1987
 
-Subsidiary 1987/045 Regulations made under sections 6, 8 and 58.
+LN.1987/045
 
-SWEETENERS  IN FOOD REGULATIONS, 1987
+Commencement 1.8.1987
 
-(LN. 1987/045)
+Amending enactments Relevant current provisions Commencement date
 
-1.8.1987
+LN. 1990/064 r. 2, Sch.1 1.7.1990
 
-EU Legislation/International Agreements involved:
-
-Directive 74/329/EEC Directive 78/663/EEC
-
-____________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
 1. Title and Commencement. 2. Interpretation. 3. Exemptions.
 
-4. Sale and importation  of  food containing  added sweeteners. 5. Sale, importation and advertisement  of sweeteners. 6. Food for babies and young children. 7. Labelling provisions. 8. Condemnation of food. 9. Penalties. 10. Application of various sections of the Act. 11. Revocation.
-
-SCHEDULE 1.
-
-Food and Drugs SWEETENERS  IN FOOD REGULATIONS, 1987
+4. Sale and importation of food containing added sweeteners. 5. Sale, importation and advertisement of sweeteners. 6. Food for babies and young children. 7. Labelling provisions. 8. Condemnation of food. 9. Penalties. 10. Application of various sections of the Act. 11. Revocation.
