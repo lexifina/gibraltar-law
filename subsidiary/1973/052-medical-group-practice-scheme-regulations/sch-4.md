@@ -4,7 +4,7 @@ FORM OF MEDICAL CARD.
 
 Regulation 7.
 
-GOVERNMENT OF GIBRALTAR MEDICAL GROUP PRACTICE SCHEME. Surname Name InsuranceNo. Address Date of Birth Particulars of children and dependants of insured  person within the same household. Name Surname Age .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... Note : Please notify any change of address or family composition.
+GIBRALTAR HEALTH AUTHORITY MEDICAL GROUP PRACTICE SCHEME. Surname Name InsuranceNo. Address Date of Birth Particulars of children and dependants of insured  person within the same household. Name Surname Age .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... Note : Please notify any change of address or family composition.
 
 DISTRICT MEDICAL SERVICE. Surname I/C No. Other names Address
 
