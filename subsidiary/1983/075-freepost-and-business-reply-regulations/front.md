@@ -12,7 +12,9 @@ FREEPOST AND BUSINESS REPLY REGULATIONS
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1985/023 r. 15(a), Sch. 3 7.2.1985
+LN. 1985/023 r. 15(a), Sch. 3 7.2.1985 1999/036 rr. 3(1), (2)(c), 4(c), 5(c), 7(a), 11(a), (g), 13A to 13C, 14(1), (2), 16, 17(1). Schs. 3, 4, 5
+
+15.4.1999
 
 Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
 
@@ -61,5 +63,9 @@ SCHEDULE 1.
 SCHEDULE 2.
 
 SCHEDULE 3.
+
+SCHEDULE 4.
+
+SCHEDULE 5.
 
 Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
