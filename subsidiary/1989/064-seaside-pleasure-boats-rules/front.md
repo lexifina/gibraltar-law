@@ -10,9 +10,15 @@ SEASIDE PLEASURE BOATS RULES 1989
 
 11.8.1989
 
-_____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF RULES.
+LN. 1990/079 r. 10 28.6.1990
+
+Public Health SEASIDE PLEASURE BOATS RULES 1989
+
+1950-07
+
+Subsidiary 1989/064 ARRANGEMENT OF RULES.
 
 Rule
 
