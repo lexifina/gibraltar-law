@@ -10,9 +10,11 @@ Act. No. 1990-45 Commencement (LN.1992/121) 10.9.1992
 
 Assent 15.11.1990
 
-__________________________
+Amending enactments Relevant current provisions Commencement date LN. 1993/023 Sch. 18.2.1993
 
-ARRANGEMENT OF SECTIONS.
+Gibraltar  Coinage (ECU)
+
+1990-45 ARRANGEMENT OF SECTIONS.
 
 Section
 
