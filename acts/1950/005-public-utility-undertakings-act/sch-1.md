@@ -80,6 +80,4 @@ Industrial consumer
 
 Industrial consumer means a consumer engaged in an extractive or manufacturing industry and on whose premises electricity is used for the most part for the purpose of a mine, quarry-pit, factory, works, foundry, mill, refinery, pumping plant, ship building or repair and/or for motive power or for electro-chemical or electro-thermal process.
 
-Public Utility Undertakings
-
-1950-05
+___________________________
