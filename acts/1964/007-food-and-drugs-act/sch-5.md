@@ -26,9 +26,11 @@ PROVISIONS AS TO MANNER IN WHICH SAMPLES TAKEN OR PURCHASED FOR ANALYSIS ARE TO 
 
 (b)  any sample of cream.
 
+(2) If the sample was taken from a container appearing to the officer to show the name and address (being an address in Gibraltar) of any person as
+
 Food and Drugs
 
-1964-07 (2) If the sample was taken from a container appearing to the officer to show the name and address (being an address in Gibraltar) of any person as purveyor of the milk, or as the person who put the milk into the container, the officer shall give the part of the sample to that person.
+1964-07 purveyor of the milk, or as the person who put the milk into the container, the officer shall give the part of the sample to that person.
 
 (3) If the sample was taken at a dairy the officer shall give the part of the sample to the occupier of the dairy.
 

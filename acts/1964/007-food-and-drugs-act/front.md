@@ -6,21 +6,17 @@ FOOD AND DRUGS ACT
 
 Principal Act
 
-Act. No.  1964-07 Commencement 21.8.1964
-
-Assent 15.5.1964
+Act. No.  1964-07 Commencement 21.8.1964 Assent 15.5.1964
 
 Amending enactments Relevant current provisions Commencement date Order of 25.11.1969 ss.6(1) and (2), 8(1), 13(1), 15(4) 23(1) and (3), 27 and 58
 
 Regs of 28.5.1970 ss.2(1), 10(1), 12(1), 13(3), 14(1) and (2), 15(1), 16(2) and 4, 17, 20(2), 21, 24,(1), 30, 31, 32(1), (3) and (4), 33, 34(1), 35(3), 36(4), 39, 40, 41(1), 42(1), 50(3), 53, 55, 56(1), 59- 63 and Sch.2
 
-Acts.1972-05 ss.16(4), 43(1) and (3)
+Acts.1972-05 ss.16(4), 43(1) and (3) 1976-22 ss.2(1), 15(1) and Sch. 6 1978-16 ss.18 and 18A 1984-07 ss. 2(1), 6(1), 16(4), 18(1), 18A(1) & (3), 21(1), 23(1) & (2), 24(1), 25(4), 26(2), (5) & (8), 27, 29, 41, 43(1) & (3), 44,, 44A,  46, 58, 58A and Sch. 2
 
-1976-22 ss.2(1), 15(1) and Sch. 6
+1.7.1984 1987-34 ss. 2, 15, 16, 17, 18A, 20, 21, 31(2) and 39
 
-1978-16 ss.18 and 18A 1984-07 ss. 2(1), 6(1), 16(4), 18(1), 18A(1) & (3), 21(1), 23(1) & (2), 24(1), 25(4), 26(2), (5) & (8), 27, 29, 41, 43(1) & (3), 44,, 44A,  46, 58, 58A and Sch. 2
-
-1.7.1984
+1.2.1988
 
 English Source: Food and Drugs Act 1955 (4 & 5 Eliz. 2 c.16)
 
@@ -36,7 +32,7 @@ PART I. GENERAL PROVISIONS AS TO FOOD AND DRUGS.
 
 Composition and labelling of food and drugs.
 
-3. Offences in connection with preparation and sale of injurious foods and adulterated drugs. 4. General protection for purchasers of food and drugs. 5. Defences available in proceedings under section 4. 6. Regulations as to composition of food, etc. 7. False labelling or advertisement of food or drug. 8. Regulations as to labelling and description of food.
+3.Offences in connection with preparation and sale of injurious foods and adulterated drugs. 4.General protection for purchasers of food and drugs. 5.Defences available in proceedings under section 4. 6.Regulations as to composition of food, etc. 7.False labelling or advertisement of food or drug. 8.Regulations as to labelling and description of food.
 
 food unfit for human consumption.
 
@@ -56,9 +52,11 @@ Special provisions as to sale, etc., of particular  foods.
 
 Food poisoning.
 
+20.  Cases of food poisoning to be notified.
+
 Food and Drugs
 
-1964-07 20.  Cases of food poisoning to be notified. 21. Inspection and control of infected food.
+1964-07 21. Inspection and control of infected food.
 
 PART II. MILK, DAIRIES AND CREAM SUBSTITUTES.
 
@@ -82,11 +80,11 @@ Sampling and analysis.
 
 Enforcement.
 
-41.  Power to enter premises.
+41.  Power to enter premises. 42.  Power to enter ships, aircraft, vehicles, etc. 43.  Persons obstructing execution of Act.
 
 Food and Drugs
 
-1964-07 42.  Power to enter ships, aircraft, vehicles, etc. 43.  Persons obstructing execution of Act.
+1964-07
 
 Legal proceedings.
 
@@ -112,13 +110,11 @@ SCHEDULE 2.
 
 Refusal and cancellation of registration of dairymen and dairies.
 
-Food and Drugs
-
-1964-07
-
 SCHEDULE 3.
 
-Diseases of cows or goats to which section 25 applies.
+Food and Drugs
+
+1964-07 Diseases of cows or goats to which section 25 applies.
 
 SCHEDULE 4. Form of certificate  to be given by the public analyst in pursuance of section 35.
 

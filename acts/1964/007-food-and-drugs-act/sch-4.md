@@ -10,7 +10,9 @@ I the undersigned, public analyst for Gibraltar, hereby certify that on the day 
 
 ,20       a sample marked (2) and measuring (or weighing)(3)
 
-was submitted by you to me as a sample of for analysis.
+was submitted by you to me as a sample of
+
+for analysis.
 
 I further certify that the sample has been analysed by me, or under my direction, and as a result of the analysis I am of the opinion that:–(4)
 
@@ -34,11 +36,11 @@ Notes.
 
 (4) Here the analyst should specify the result of the analysis in the light of the provisions of the Food and Drugs Act.
 
-(5) Here the analyst may insert at his discretion his opinion whether the analysis indicates any addition, abstraction, or deficiency or the presence of foreign matter or other defect and whether the nature, substance or qualify is thereby affected; any physical, chemical or other properties bearing on the nature, substance or qualify of the article; whether the article is
+(5) Here the analyst may insert at his discretion his opinion whether the analysis indicates any addition, abstraction, or deficiency or the presence of foreign matter or other defect and whether the nature, substance or qualify is thereby affected; any physical, chemical or other properties bearing on the nature, substance or qualify of the article; whether the article is injurious to health or unfit for human consumption; whether and in what
 
 Food and Drugs
 
-1964-07 injurious to health or unfit for human consumption; whether and in what respect a label or description or any advertisement relating to the sample is incorrect or misleading; and he may add any other observations he may consider relevant.
+1964-07 respect a label or description or any advertisement relating to the sample is incorrect or misleading; and he may add any other observations he may consider relevant.
 
 (These notes are for guidance only and do not form part of the Certificate).
 

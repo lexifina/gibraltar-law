@@ -18,9 +18,11 @@ DAIRYMEN.
 
 4. A person aggrieved by the decision of the Government under this Part of this Schedule to refuse to register him, or to cancel his registration, may appeal to the magistrates’ court.
 
+5. The court before whom a person registered as a dairyman is convicted of an offence under any of the provisions relating to milk in this Act, or under
+
 Food and Drugs
 
-1964-07 5. The court before whom a person registered as a dairyman is convicted of an offence under any of the provisions relating to milk in this Act, or under any regulations made under this Act, may, in addition to any other punishment, cancel his registration as such.
+1964-07 any regulations made under this Act, may, in addition to any other punishment, cancel his registration as such.
 
 6. Where under this Part of this Schedule a person’s application for registration is refused, or his registration is cancelled, he shall not be liable for any breach of contract for the purchase of further supplies of milk from any person, if the refusal or cancellation was due to the quality of the milk supplied by that person.
 
