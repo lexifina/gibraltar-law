@@ -1,0 +1,35 @@
+Price Control
+
+1966-32
+
+PRICE CONTROL ACT
+
+Principal Act
+
+Act. No. 1966-32 Commencement 30.12.1966
+
+Assent 29.12.1966
+
+Amending enactment Relevant current provisions Commencement date Acts.   1967-10 ss. 5(2) and 12 (3) 1967-18 ss. 2(1), 3, 4, 5(1) and 10 1968-35 s. 11 1969-26 s. 2(2) 1974-05 s. 3A
+
+1976-03 ss. 3(2) and (3) and 4
+
+1978-03 Sch.
+
+1979-17 ss. 2-5
+
+1980-02 ss. 2(1), 3(1), (2) and (3), 11 and 15
+
+Price Control
+
+1966-32 ARRANGEMENT OF SECTIONS.
+
+Section
+
+1. Short title. 2. Interpretation. 3. Power of Minister to fix maximum prices and charges generally. 3A. Repealed. 4. Power of Governor to fix maximum prices or charges in specific cases. 5. Powers to require information and to enter and search. 5A. Repealed. 5B. Repealed. 5C. Repealed. 6. Records to be kept and preserved and invoices to be supplied. 7. Offences by corporations. 8. Defence for employee. 9. Prohibition of holding up of stocks. 10. Exhibition of notices by retailers. 11. Display of prices of any supplies or class of supplies. 12. Delivery of receipts. 13. Saving for auction sales. 14. Penalties. 15. Appointments and rules.
+
+SCHEDULE
+
+Price Control
+
+1966-32 AN ACT TO MAKE PROVISION FOR THE CONTROL OF  CHARGES AND PRICES FOR CERTAIN SUPPLIES AND SERVICES AND FOR MATTERS CONNECTED THEREWITH.
