@@ -10,7 +10,7 @@ MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
 
 Amending enactments Relevant current provisions Commencement date
 
-LNs.1988/085 r.5(2) 1.2.1988
+LNs.1988/085 r.5(2) 1.2.1988 1998/047 r.3(4) and Sch. 25.6.1998
 
 Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
 
@@ -19,5 +19,7 @@ Subsidiary 1987/142 1997-25 ARRANGEMENT OF REGULATIONS
 Regulation
 
 1. Title and commencement. 2. Interpretation. 3. Medicinal products which may only be supplied on prescription. 4. Form of prescription. 5. Provisions as to supply on prescription. 6. Register of prescriptions. 7. Exemptions for Emergency Sale of Supplies. 8. Offences and penalty.
+
+SCHEDULE Substances which if included in medicinal products make those products prescription only medicines.
 
 Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
