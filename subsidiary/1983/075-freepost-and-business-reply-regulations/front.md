@@ -10,9 +10,15 @@ FREEPOST AND BUSINESS REPLY REGULATIONS
 
 1.10.1983
 
-______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN. 1985/023 r. 15(a), Sch. 3 7.2.1985
+
+Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
+
+1961-10
+
+Subsidiary 1983/075 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -36,12 +42,6 @@ Business Reply Service.
 
 13A. Criteria for design. 13B. Provisional numbers. 13C. Form of design.
 
-Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
-
-1961-10
-
-Subsidiary 1983/075
-
 Payment.
 
 14. Postage and fees. 15. Accounts and payment .
@@ -49,6 +49,12 @@ Payment.
 Miscellaneous.
 
 16. No redirection. 17. Waiver of fees for charitable and religious organizations. 18. Recovery of debts.
+
+Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
+
+1961-10
+
+Subsidiary 1983/075
 
 SCHEDULE 1.
 
