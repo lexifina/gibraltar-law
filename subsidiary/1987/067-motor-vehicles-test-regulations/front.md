@@ -14,7 +14,7 @@ Amending enactments Relevant current Provisions Commencem ent date LN.   1988/02
 
 24.7.1997 1997/140 rr. 3(c) and 6(c) 17.11.1997 1998/021 rr.6(a) & (b), 7, 13(1A), Sch.2 and Sch.3
 
-5.3.1998 2001/048 r. 37(1), (1A) and (1B) 17.5.2001
+5.3.1998 2001/048 r. 37(1), (1A) and (1B) 17.5.2001 2005/122 rr. 37(1), (1A), (1B), (3) and (4) 1.5.2004
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
