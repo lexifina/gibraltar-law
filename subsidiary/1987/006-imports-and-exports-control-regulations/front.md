@@ -10,7 +10,7 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
@@ -140,7 +140,7 @@ Subsidiary 1987/006 9. Subject to the provisions of regulations 7 and 8, no good
 
 Restrictions on exports to South Africa.
 
-10. Notwithstanding anything contained in regulations 7 and 8, no arms or military equipment may be exported to the Republic of South Africa.
+10. Notwithstanding anything contained in regulations 7 and 8, no arms or military equipment may be exported to the Republic of South Africa or to any other destination where to do so, would be a contravention of an embargo imposed by a resolution of the Security Council of the United Nations.
 
 Conditions of export licences.
 
@@ -166,7 +166,13 @@ Saving.
 
 Saving.
 
-14. Nothing in these Regulations shall be deemed to authorize the importation or exportation without licence of any goods of which the importation or exportation is prohibited, restricted or regulated under any other Act.
+14. Nothing in these Regulations shall be deemed to authorize the importation or exportation without licence of any goods of which the
+
+Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
+
+1986-21
+
+Subsidiary 1987/006 importation or exportation is prohibited, restricted or regulated under any other Act.
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 

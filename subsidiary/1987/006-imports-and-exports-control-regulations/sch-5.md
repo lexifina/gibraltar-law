@@ -30,7 +30,9 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS 1987.
 
 APPLICATION FOR IMPORT LICENCE.
 
-Application to Customs I/We .......................................... hereby apply for permission to place an order with Messrs :....................of...................... for the importation of the following goods.
+Application to Customs
+
+I/We .......................................... hereby apply for permission to place an order with Messrs :....................of...................... for the importation of the following goods.
 
 Bags/Cases/Et c Quantity Commodity and Brand Exportin g country Countries of origin or manufactur e Unit s per case Net Weight of unit Total Net Weight: kg Total Value C.I.F. £
 
@@ -40,13 +42,13 @@ The goods are required for and payment therefore will be effected as follows:- l
 
 IMPORT LICENCE PERMIT The placing of the above order is accordingly authorised subject to the conditions appearing below.
 
-No. ............................... Date.....................  Collector of Customs CONDITIO NS: 1. Goods to be despatched within     months from date of permit.
+No. ............................... Date.....................  Collector of Customs CONDITIO 1. Goods to be despatched within     months
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006
+Subsidiary 1987/006 NS: from date of permit.
 
 2. Distribution on arrival to be subject to requirements of the Authorising Officer.
 
