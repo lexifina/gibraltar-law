@@ -10,7 +10,7 @@ Act. No. 1958-02 Commencement 21.3.1958
 
 Enactment 14.3.1958
 
-Amending enactments Relevant current provisions Commencement date Acts 1962-08 s. 98 1968-07 ss. 14, 97 and 98 1973-20 ss. 14 and 97
+Amending enactments Relevant current provisions Commencement date Acts 1962-08 s. 98 1968-07 ss. 14, 97 and 98 1973-20 ss. 14 and 97 1984-08 s. 98 29.6.1984
 
 English sources
 
@@ -98,7 +98,7 @@ PART IV. PROMISSORY NOTES.
 
 PART V. SUPPLEMENTARY.
 
-95. Good faith. 96. Signature. 97. Computation of time. 98. Effect of public and bank holidays on bills. 99. When noting equivalent to protest. 100.  Protest when notary not accessible. 101.  Dividend warrants may be crossed. 102.  Saving.
+95. Good faith. 96. Signature. 97. Computation of time. 98. Effect of non-business days on bills. 99. When noting equivalent to protest. 100.  Protest when notary not accessible. 101.  Dividend warrants may be crossed. 102.  Saving.
 
 SCHEDULE.
 
