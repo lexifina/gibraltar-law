@@ -8,7 +8,11 @@ TAXIS (CITY SERVICE AND CRUISE TERMINAL) REGULATIONS 1999
 
 (LN. 1999/092)
 
-4.8.1999 for rr. 1, 2, and 4
+4.8.1999 for rr. 1, 2, and 4 23.3.2000 for rr. 3
+
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2000/027 r. 3 (1) to (5) 23.3.2000
 
 ________________________
 
