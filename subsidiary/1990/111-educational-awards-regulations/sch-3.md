@@ -34,9 +34,9 @@ Subsidiary 1990/111 1974-11 "residual income'' means the balance of gross income
 
 “statutory award” means any award bestowed or grant paid under the Education Act, or any analogous grant which is paid directly or indirectly by monies provided by the Government.
 
-2. (1) In any case in which the residual income is less than £5000 the parental contribution shall be nil.
+2. (1) In any case in which the residual income is less than £6000 the parental contribution shall be nil.
 
-(2) Subject to sub-paragraph (3), the parental contribution shall be £1 for every complete £10 in any case in which the residual income exceeds £5000.
+(2) Subject to sub-paragraph (3), the parental contribution shall be £1 for every complete £10 in any case in which the residual income exceeds £6000.
 
 (3) For any year in which more than one child of the parent holds a statutory award  the parental contribution for each student shall be such proportion of the parental contribution, ascertained in accordance with this Part, as the Minister considers just.
 
@@ -68,7 +68,7 @@ Subsidiary 1990/111 1974-11 of the beneficiary, the amount so paid or applied sh
 
 PART 3. INCOME OF SPOUSE.
 
-In any case where a student is married or, where the student marries after the start of a course, immediately on marriage, the contribution of the spouse shall be £1 for every complete £10 by which the total income from all sources of the spouse exceeds £5000.
+In any case where a student is married or, where the student marries after the start of a course, immediately on marriage, the contribution of the spouse shall be £1 for every complete £10 by which the total income from all sources of the spouse exceeds £6000.
 
 Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
 
