@@ -8,7 +8,7 @@ EMPLOYMENT (MATERNITY AND HEALTH AND SAFETY) REGULATIONS, 1996
 
 1.1.1996
 
-__________________________
+Amending enactments Relevant current provisions Commencement date LNs. 1999/162 rr. 2-4, 6, 7(2), 8(1) 5.7.1999
 
 Transposing: Directive 89/391/EEC Directive 92/85/EEC
 
