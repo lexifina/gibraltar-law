@@ -8,7 +8,7 @@ CONDITIONS OF EMPLOYMENT (LICENSED NON-RESIDENTIAL ESTABLISHMENTS) ORDER, 1986
 
 1.6.1986
 
-Amending enactments Relevant current provisions Commencement date LN. 1986/100 Paras. 4(1)-(2), 5(3), 6(1), 7-8 20.10.1986
+Amending enactments Relevant current provisions Commencement date LN. 1986/100 Paras. 4(1)-(2), 5(3), 6(1), 7-8 20.10.1986 1987/095 Paras. 4(1), 8 6.4.1987
 
 Employment CONDITIONS OF EMPLOYMENT (LICENSED NON-RESIDENTIAL ESTABLISHMENTS) ORDER, 1986
 
