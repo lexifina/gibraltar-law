@@ -16,6 +16,8 @@ Regs of 28.5.1970 rr. 31(2) and 32
 
 LNs.  1976/133 Sch.
 
+1988/003 rr. 25, 27(3) and 32 31.3.1988
+
 Medical and Health MIDWIVES REGULATIONS
 
 Subsidiary 1948.03.24 1997-25 ARRANGEMENT OF REGULATIONS.
