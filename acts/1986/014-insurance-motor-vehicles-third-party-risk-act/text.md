@@ -14,7 +14,7 @@ Acts.  1988-27 ss.2(2), 2(3), 4(1), 4(2), 13(1), 13(1A), 13(1B), 13(2), 13(4A), 
 
 31.12.1988 1997-07 ss. 2(1), 4(1)(a), 4(1)(b), 4(1A), 4(2), 4(3), 8, 9(1), 15(1) and 15(2),
 
-1.6.1997
+1.6.1997 1998-50 s. 4(1B) 24.12.1998
 
 EU Legislation/International Agreements involved: Directive 72/166/EEC Directive 84/5/EEC Directive 90/232/EEC
 
@@ -138,6 +138,8 @@ Insurance (Motor Vehicles) (Third Party Risk)
 
 (ii) if it would give higher cover, the law which would be applicable under this Act if the place where the vehicle was used when that event occurred were in Gibraltar;
 
+(1B) Any document or certificate of motor vehicle insurance issued in a member State or relevant foreign State, shall be presumed, unless the contrary is shown, to comply with the provisions of subsection (1A)(a) above, in compliance with the terms of Council Directive 90/232/EEC.
+
 (2) The policy shall not, by virtue of subsection (1), be required, in respect of the use of the vehicle on a road in Gibraltar –
 
 (a) to cover liability other than passenger liability  in respect of the death arising out of and in the course of his employment, of a person in the employment of a person insured by the policy or of  bodily injury or damage to property  sustained by such a person arising out of and in the course of his employment; or
@@ -160,11 +162,13 @@ Insurance (Motor Vehicles) (Third Party Risk)
 
 Issue, delivery and surrender of certificates of insurance.
 
-5.(1) A policy of insurance shall be of no effect for the purposes of this Act unless and until there is delivered by the insurer to the person by whom the policy is effected a certificate of insurance in the prescribed form and containing such particulars of any conditions subject to which the policy is issued and of any other matters as may be prescribed.
+5.(1) A policy of insurance shall be of no effect for the purposes of this Act unless and until there is delivered by the insurer to the person by whom
 
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 (2) Where a certificate has been delivered under this section and the policy to which it relates is cancelled by mutual consent or by virtue of any provisions in the policy, the person to whom the certificate was delivered shall, within 7 days from the taking effect of the cancellation, surrender the certificate to the insurer, or if the certificate has been lost or destroyed, make a statutory declaration to that effect and deliver it forthwith to the insurer.
+1986-14 the policy is effected a certificate of insurance in the prescribed form and containing such particulars of any conditions subject to which the policy is issued and of any other matters as may be prescribed.
+
+(2) Where a certificate has been delivered under this section and the policy to which it relates is cancelled by mutual consent or by virtue of any provisions in the policy, the person to whom the certificate was delivered shall, within 7 days from the taking effect of the cancellation, surrender the certificate to the insurer, or if the certificate has been lost or destroyed, make a statutory declaration to that effect and deliver it forthwith to the insurer.
 
 (3) Where a certificate has been delivered under this section and the policy to which it relates is suspended or ceases to have effect otherwise than by the effluxion of time, in circumstances in which the provisions of subsection (2) of this section do not apply, the person to whom the certificate was delivered shall, within 7 days from the suspension or cessation of the policy, surrender the certificate to the insurer and the insurer shall not issue a new policy or certificate in respect of the motor vehicle or vehicles to which the said first mentioned policy relates unless and until the certificates issued in respect of that policy have been returned to the insurer or the insurer is satisfied that such certificates have been lost or destroyed and a statutory declaration to that effect has been delivered to him.
 
@@ -180,11 +184,13 @@ Issue of fresh certificates.
 
 Notification of ineffective policies.
 
-7.(1) Where a policy ceases to be effective otherwise than with the consent of the person to whom it was issued, or by the effluxion of time, or by reason of that person’s death, the insurer shall forthwith notify the fact in writing to the Licensing Authority for the purposes of the Traffic Act, stating the date on which the policy ceased to be effective and shall deliver a copy of such notification to the person to whom the policy has been issued:
+7.(1) Where a policy ceases to be effective otherwise than with the consent of the person to whom it was issued, or by the effluxion of time, or by reason of that person’s death, the insurer shall forthwith notify the fact in writing to the Licensing Authority for the purposes of the Traffic Act,
 
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 Provided that notification need not be made if the certificate of insurance had been surrendered to the insurer on or before the date on which the policy ceased to be effective.
+1986-14 stating the date on which the policy ceased to be effective and shall deliver a copy of such notification to the person to whom the policy has been issued:
+
+Provided that notification need not be made if the certificate of insurance had been surrendered to the insurer on or before the date on which the policy ceased to be effective.
 
 (2) Any insurer who fails to comply with the requirements of this section is guilty of an offence and is liable, on summary conviction, to a fine not exceeding £50.
 
@@ -208,11 +214,11 @@ shall on being so required by a police officer, give his name and address and th
 
 (b) it was produced there as soon as was reasonably practicable, or
 
-(c) it was not reasonably practicable for it to be produced there before the day on which the proceedings were commenced.
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 (4) In this section “owner”, in relation to a vehicle which is the subject of a hiring agreement, includes each party to the agreement.
+1986-14 (c) it was not reasonably practicable for it to be produced there before the day on which the proceedings were commenced.
+
+(4) In this section “owner”, in relation to a vehicle which is the subject of a hiring agreement, includes each party to the agreement.
 
 Duty of driver in case of accident involving injury to another.
 
@@ -228,11 +234,13 @@ Duty of owner of motor vehicle.
 
 11. It shall be the duty of the owner of a motor vehicle to give such information as he may be required by or on behalf of the Commissioner of Police to give for the purpose of determining whether the vehicle was or was not being driven in contravention of section 3 on any occasion when the driver was required under sections 8 and 9 to produce the relevant certificate of insurance, and any person who fails to comply with the requirements of this section is guilty of an offence.
 
-Production of insurance on entering Gibraltar.
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 12.(1)  Any person appointed by the Governor by notice in the Gazette (hereinafter referred to as an appointed person) may require a person having custody of any vehicle–
+1986-14
+
+Production of insurance on entering Gibraltar.
+
+12.(1)  Any person appointed by the Governor by notice in the Gazette (hereinafter referred to as an appointed person) may require a person having custody of any vehicle–
 
 (a) which is normally based-
 
@@ -252,13 +260,11 @@ when entering Gibraltar, to produce evidence that any loss or injury which may b
 
 (5) Where a police officer has reasonable cause to suspect the driver of a vehicle of having committed an offence under this section, the police officer may detain the vehicle, and for that purpose may give a direction specifying an appropriate person and direction the vehicle to be removed by that person to such place and subject to such conditions as are specified in the direction; and the prohibition shall not apply to the removal of the vehicle in accordance with that direction.
 
-(6) Where under subsection (5) of this section a police officer–
-
-(a) detains a motor vehicle drawing a trailer, or
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14
+1986-14 (6) Where under subsection (5) of this section a police officer–
+
+(a) detains a motor vehicle drawing a trailer, or
 
 (b) detains a trailer drawn by a motor vehicle,
 
@@ -280,11 +286,11 @@ then, for the purpose of securing the removal of the trailer, he may also (in a 
 
 (9) A person who–
 
-(a) uses a vehicle or causes or permits a vehicle to be used in contravention of a prohibition imposed under subsection (2); or
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 (b) refuses, neglects or otherwise fails to comply in a reasonable time with any direction given under this section,
+1986-14 (a) uses a vehicle or causes or permits a vehicle to be used in contravention of a prohibition imposed under subsection (2); or
+
+(b) refuses, neglects or otherwise fails to comply in a reasonable time with any direction given under this section,
 
 is guilty of an offence and is liable, on summary conviction, to a fine not exceeding £50.
 
@@ -306,11 +312,9 @@ Duty of insurers to satisfy judgments against persons insured against third part
 
 then, notwithstanding that the insurer may be entitled to avoid or cancel, or may have avoided or cancelled, the policy, the insurer shall, subject to the provisions of this section, pay to the persons entitled to the benefit of the judgement–
 
-(a) as regards liability in respect of death or bodily injury, any sum payable under the judgment  in respect of the liability, together with any sum which, by virtue of any enactment relating to
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 interest on judgments, is payable in respect of interest on that sum;
+1986-14 (a) as regards liability in respect of death or bodily injury, any sum payable under the judgment  in respect of the liability, together with any sum which, by virtue of any enactment relating to interest on judgments, is payable in respect of interest on that sum;
 
 (b) as regards liability in respect of damage to property, any sum required to be paid under subsection (1A); and
 
@@ -328,11 +332,11 @@ Insurance (Motor Vehicles) (Third Party Risk)
 
 whichever is the less, unless not less than £250,000, has already been paid under the policy in respect of such damage (in which case nothing is payable).
 
-(1B) In subsection (1) (ii) “excluded liability” means a liability in respect of the death of, or bodily injury to, or damage to the property of any person who, at the time of the use which gave rise to the liability, was allowing himself to be carried in or upon the vehicle and knew or had reason to believe that the vehicle had been stolen or unlawfully taken, not being a person who did not know and had no reason to believe that the vehicle had been stolen or unlawfully taken until after the commencement of his journey
+(1B) In subsection (1) (ii) “excluded liability” means a liability in respect of the death of, or bodily injury to, or damage to the property of any person who, at the time of the use which gave rise to the liability, was allowing himself to be carried in or upon the vehicle and knew or had reason to
 
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 and could not reasonably have been expected to have alighted from the vehicle.
+1986-14 believe that the vehicle had been stolen or unlawfully taken, not being a person who did not know and had no reason to believe that the vehicle had been stolen or unlawfully taken until after the commencement of his journey and could not reasonably have been expected to have alighted from the vehicle.
 
 In this subsection the reference to a person being carried in or upon a vehicle includes a reference to a person entering or getting on to, or alighting from the vehicle.
 
@@ -350,11 +354,11 @@ In this subsection the reference to a person being carried in or upon a vehicle 
 
 (iii) either before or after the happening of the said event, but within the said period of fourteen days, the insurer has commenced proceedings under this Act in respect of the failure to surrender the certificate of insurance.
 
-(3) No sum shall be payable by an insurer under the foregoing provisions of this section, if, in an action commenced before, or within three months after, the commencement of the proceedings in which the judgment was given, he has obtained a declaration that, apart from any provision contained in the policy, he is entitled to avoid it on the ground that it was
+(3) No sum shall be payable by an insurer under the foregoing provisions of this section, if, in an action commenced before, or within three
 
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 obtained by the non-disclosure of a material fact, or by a representation of fact which was false in some material particular, or, if he has avoided the policy on that ground, that he was entitled so to do apart from any provision contained in it:
+1986-14 months after, the commencement of the proceedings in which the judgment was given, he has obtained a declaration that, apart from any provision contained in the policy, he is entitled to avoid it on the ground that it was obtained by the non-disclosure of a material fact, or by a representation of fact which was false in some material particular, or, if he has avoided the policy on that ground, that he was entitled so to do apart from any provision contained in it:
 
 Provided that an insurer who has obtained such a declaration as aforesaid in an action shall not thereby become entitled to the benefit of this subsection as respects any judgment obtained in proceedings commenced before the commencement of that action unless before, or within seven days after, the commencement of that action he has given notice thereof to the person who is the plaintiff in the said proceedings specifying the non- disclosure or false representation on which he proposes to rely; and a person to whom notice of such an action is so given shall be entitled, if he thinks fit, to be made a party thereto.
 
@@ -372,11 +376,11 @@ Provided that an insurer who has obtained such a declaration as aforesaid in an 
 
 (b) “liability covered by the terms of the policy” means a liability which is covered by the policy or which would be so covered but for the fact that the insurer is entitled to avoid or cancel, or has avoided or cancelled, the policy.
 
-False statements.
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 14. Any person who makes a false statement or withholds any material information for the purpose of obtaining the issue of a certificate of insurance under this Act is guilty of an offence.
+1986-14 False statements.
+
+14. Any person who makes a false statement or withholds any material information for the purpose of obtaining the issue of a certificate of insurance under this Act is guilty of an offence.
 
 Duty to give information as to insurance where claim is made.
 
@@ -394,11 +398,13 @@ Evidence of insurance on application for motor vehicle licence.
 
 16.Any person applying for a motor vehicle licence under the Traffic Act, or the renewal of such a licence, shall deposit with the Licensing Authority either–
 
-(a) a certificate of insurance indicating that on the date when the licence comes into operation there will be in force the necessary policy of insurance in relation to the use of the motor vehicle by the applicant or by other persons on his order or with his permission and such further evidence as may be necessary to establish that the certificate relates to such use ; or
+(a) a certificate of insurance indicating that on the date when the licence comes into operation there will be in force the necessary policy of insurance in relation to the use of the motor vehicle by the applicant or by other persons on his order or
 
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 (b) evidence that section 3 does not apply to the motor vehicle at a time when it is being driven under the owner’s control.
+1986-14 with his permission and such further evidence as may be necessary to establish that the certificate relates to such use ; or
+
+(b) evidence that section 3 does not apply to the motor vehicle at a time when it is being driven under the owner’s control.
 
 Bankruptcy etc. of insured persons not to affect claims by third parties.
 
@@ -420,11 +426,13 @@ Avoidance of certain exceptions to policies and of certain agreements etc. as to
 
 (b) the condition of the vehicle; or
 
-(c) the number of persons that the vehicle carries; or
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 (d) the weight or physical characteristics of the goods that the vehicle carries; or
+1986-14
+
+(c) the number of persons that the vehicle carries; or
+
+(d) the weight or physical characteristics of the goods that the vehicle carries; or
 
 (e) the times at which or the areas within which the vehicle is used; or
 
@@ -444,11 +452,11 @@ Provided that nothing in this subsection shall require an insurer to pay any sum
 
 Provided that nothing in this subsection shall be taken to render void any provision in a policy requiring the person insured to pay to the insurer any sums which the latter may have become liable to pay under the policy and which have been applied to the satisfaction of the claims of third parties.
 
-(3)  Where a person uses a motor vehicle in circumstances such that under section 3 of this Act there is required to be in force in relation to his use of it such a policy of insurance as is mentioned in subsection (1) of that section, then, if any other person is carried in or upon the vehicle while the user is so using it, any antecedent agreement or understanding between them (whether intended to be legally binding or not) shall be of no effect so far as it purports or might be held –
+(3)  Where a person uses a motor vehicle in circumstances such that under section 3 of this Act there is required to be in force in relation to his use of it such a policy of insurance as is mentioned in subsection (1) of that section, then, if any other person is carried in or upon the vehicle while the
 
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14
+1986-14 user is so using it, any antecedent agreement or understanding between them (whether intended to be legally binding or not) shall be of no effect so far as it purports or might be held –
 
 (a) to negative or restrict any such liability of the user in respect of persons carried in or upon the vehicle as is required by section 4 of this Act to be covered by a policy of insurance; or
 
@@ -472,11 +480,13 @@ For the purposes of this subsection references to a person being carried in or u
 
 (iii) use of the vehicle for specified purposes of a business or commercial character,
 
-then, for the purposes of that policy so far as it relates to such liabilities as are required to be covered by a policy under section 4 of this Act, the use of a vehicle on a journey in the course of which one or more passengers are carried at separate fares shall, if the conditions specified in subsection (6) below are satisfied, be treated as falling within that restriction or as not falling within that exclusion, as the case may be.
+then, for the purposes of that policy so far as it relates to such liabilities as are required to be covered by a policy under section 4 of this Act, the use of a vehicle on a journey in the course of which one or more passengers are carried at separate fares shall, if the conditions specified in subsection (6)
 
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 (6) The conditions referred to in subsection (5) above are –
+1986-14 below are satisfied, be treated as falling within that restriction or as not falling within that exclusion, as the case may be.
+
+(6) The conditions referred to in subsection (5) above are –
 
 (a) the vehicle is not adapted to carry more than eight passengers and is not a motor cycle;
 
@@ -502,11 +512,9 @@ Keeping of records by insurers.
 
 Unauthorised insurers.
 
-20.  Except as otherwise provided for in this Act, any person issuing or renewing a policy of insurance in Gibraltar for the purposes of this Act, not being an approved motor vehicle insurer, is guilty of an offence and is
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14 liable, on conviction on indictment, to imprisonment for 2 years and to a fine or on summary conviction to a fine of £5,000.
+1986-14 20.  Except as otherwise provided for in this Act, any person issuing or renewing a policy of insurance in Gibraltar for the purposes of this Act, not being an approved motor vehicle insurer, is guilty of an offence and is liable, on conviction on indictment, to imprisonment for 2 years and to a fine or on summary conviction to a fine of £5,000.
 
 21.(1)  The Governor may make rules –
 
@@ -530,11 +538,9 @@ Transitional provisions.
 
 24.(1)  Any policy issued or renewed or any certificate of insurance delivered prior to the coming into operation of this Act and any policy issued or renewed or any certificate of insurance delivered during the period ending with the 31st October 1986 by a person approved by the Governor for the purposes of the Insurance (Motor Vehicles) (Third Party Risks) Act, or by a person authorised to carry on motor vehicle insurance business under the Insurance Companies Act complying in all respects with the provisions of the Insurance (Motor Vehicles) (Third Party Risks) Act before its repeal by section 23 of this Act, shall be deemed to comply with the requirements of this Act.
 
-(2) Any policy to which subsection (1) of this section shall, unless it has been cancelled, suspended, surrendered or otherwise ceased to have affect, remain valid for the purposes of this Act for a maximum period of 12 months from the date of the issue or renewal of the policy.
-
 Insurance (Motor Vehicles) (Third Party Risk)
 
-1986-14
+1986-14 (2) Any policy to which subsection (1) of this section shall, unless it has been cancelled, suspended, surrendered or otherwise ceased to have affect, remain valid for the purposes of this Act for a maximum period of 12 months from the date of the issue or renewal of the policy.
 
 (3) Nothing in this section shall affect–
 
