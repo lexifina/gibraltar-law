@@ -38,9 +38,7 @@ Notice of Accident or Dangerous Occurrence. (Sections 71 and 72)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Factories FACTORIES (FORMS) REGULATIONS
-
-Subsidiary 1956.11.08-2 1956-12 8. Occupation of injured person at time of accident. . . . . . . . . . . . . . . . . . . . .
+8. Occupation of injured person at time of accident. . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -55,7 +53,3 @@ Date. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Signature of Occupier.
 
 FOR OFFICIAL USE ONLY Accident No. Date of Investigation Remarks
-
-Factories FACTORIES (FORMS) REGULATIONS
-
-Subsidiary 1956.11.08-2 1956-12

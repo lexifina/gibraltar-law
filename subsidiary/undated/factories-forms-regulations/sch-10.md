@@ -26,10 +26,6 @@ PART 1.
 
 Page 1
 
-Factories FACTORIES (FORMS) REGULATIONS
-
-Subsidiary 1956.11.08-2 1956-12
-
 GENERAL
 
 Name of occupier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -70,11 +66,7 @@ Period of disablement
 
 PART III
 
-Page 6.
-
-Factories FACTORIES (FORMS) REGULATIONS
-
-Subsidiary 1956.11.08-2 1956-12 CASES OF POISONING OR DISEASE
+Page 6. CASES OF POISONING OR DISEASE
 
 Date of Notice to
 
@@ -84,7 +76,7 @@ Sex
 
 Age
 
-Occupation
+Occupatio n
 
 Disease
 
@@ -101,7 +93,3 @@ PAINTING WHITEWASHING, ETC.
 Dates
 
 Parts Painted, Whitewashed, etc. Name and address of person by whom the work was done Day Month Year Parts Treatment
-
-Factories FACTORIES (FORMS) REGULATIONS
-
-Subsidiary 1956.11.08-2 1956-12
