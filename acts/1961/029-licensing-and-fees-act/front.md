@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Notices of 30.
 
 Licensing and Fees
 
-1961-29 Act. 1980-21 s.29A 1981-05 Sch.2 LN. 1981/122 Sch.2 1982/063 – 1982/083 Sch.2 1982/110 Sch.2 Act. 1983-11 ss.2, 29B, 29C and Sch.1 LN. 1983/111 Sch.1 and 2 1984/061 Sch. 2 5.7.1984
+1961-29 Act. 1980-21 s.29A 1981-05 Sch.2 LN. 1981/122 Sch.2 1982/063 – 1982/083 Sch.2 1982/110 Sch.2 Act. 1983-11 ss.2, 29B, 29C and Sch.1 LN. 1983/111 Sch.1 and 2 1984/061 Sch. 2 5.7.1984 1985/041 Sch. 2 1.4.1985
 
 Licensing and Fees
 
