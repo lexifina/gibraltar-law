@@ -8,7 +8,7 @@ Principal Act
 
 Act. No. 1931-10 Commencement 18.1.1932 Assent 28.12. 1931
 
-Amending Enactment Relevant current provisions Commencement date Act. 1935-08 – 1954-16 ss. 2, 5, 8, 9 Order of 14.10.1969 s. 5(1)
+Amending Enactment Relevant current provisions Commencement date Act. 1935-08 – 1954-16 ss. 2, 5, 8, 9 Order of 14.10.1969 s. 5(1) Act. 1991-21 s. 9 18.7.1991
 
 English sources: Petroleum (Consolidation) Act 1928 (18 & 19 Geo.5 c.32)
 
