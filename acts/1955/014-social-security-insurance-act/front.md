@@ -68,7 +68,7 @@ LN. 1981/106 s. 20, Sch.2
 
 Social Security (Insurance)
 
-1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988 Act. 1988-10 s. 29(2) 23.6.1988
+1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988 Act. 1988-10 s. 29(2) 23.6.1988 1988-23 ss. 2(1), 29(1), 52(1)-(3) 24.11.1988
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -152,7 +152,7 @@ PART IV.–MISCELLANEOUS AND GENERAL.
 
 Application to special classes of persons.
 
-46. Crown servants. 47. Members of the Gibraltar Regiment. 48. Married women. 49. Reciprocal agreements with United Kingdom, dominions, and foreign countries. 50. Repealed. 51. Transitional provisions as to death grant. 52. Yearly review of contributions, benefits, etc
+46. Crown servants. 47. Members of the Gibraltar Regiment. 48. Married women. 49. Reciprocal agreements with United Kingdom, dominions, and foreign countries. 50. Repealed. 51. Transitional provisions as to death grant. 52. Review of contributions, benefits, etc.
 
 SCHEDULE 1. Combined Social Insurance and Other Contribution Rates
 
@@ -176,6 +176,8 @@ Interpretation.
 
 2. (1)  In this Act, unless the context otherwise requires,–
 
+“an actuary” means a Fellow of the Institute of Actuaries or the Faculty of Actuaries of Great Britain;
+
 “beneficiary”, in relation to any benefit, means a person entitled to that benefit;
 
 “benefit” means benefit under this Act;
@@ -192,11 +194,9 @@ Interpretation.
 
 “employer’s contribution” means a contribution payable by a person otherwise than as an insured person;
 
-“employed person” means a person occupied in employment being employment under a contract of service or in employment by or
-
 Social Security (Insurance)
 
-1955-14 under the Government and includes apprentices and learners under agreement whether written or oral and whether express or implied;
+1955-14 “employed person” means a person occupied in employment being employment under a contract of service or in employment by or under the Government and includes apprentices and learners under agreement whether written or oral and whether express or implied;
 
 “employed contributor’s employment” means any employment by virtue whereof an insured person is an employed person;
 
@@ -222,15 +222,15 @@ Social Security (Insurance)
 
 (b)  a person exercising functions in Gibraltar as an ordained minister of religion or as a member of a religious order, who is not an employed person;
 
+"the Minister" means the Minister responsible for the administration of this Act;
+
 (2)  For the purposes of this Act the expression “child” means a person under the age of–
-
-(a)  fifteen years; or
-
-(b)  nineteen years and over the age of fifteen years who is receiving full time instruction at any university, college, school, or other educational establishment.
 
 Social Security (Insurance)
 
-1955-14
+1955-14 (a)  fifteen years; or
+
+(b)  nineteen years and over the age of fifteen years who is receiving full time instruction at any university, college, school, or other educational establishment.
 
 (3)  For the purposes of this Act each of the following shall be treated as constituting a family, that is to say-
 
@@ -252,11 +252,11 @@ Where a child could otherwise be treated as included at the same time in one fam
 
 (d)  an illegitimate child shall not be treated as being issue of the child’s father;
 
-(e)  references to the parents, a parent, the father or the mother of a child, or to an illegitimate child shall be construed in accordance with the foregoing provisions of this subsection.
-
 Social Security (Insurance)
 
-1955-14 (5)  For the purposes of this Act, two persons shall not be deemed to have ceased to reside together by reason of any temporary absence of either or both of them, and in particular by reason of any such absence at school or while receiving medical treatment as an in-patient in a hospital or similar institution.
+1955-14 (e)  references to the parents, a parent, the father or the mother of a child, or to an illegitimate child shall be construed in accordance with the foregoing provisions of this subsection.
+
+(5)  For the purposes of this Act, two persons shall not be deemed to have ceased to reside together by reason of any temporary absence of either or both of them, and in particular by reason of any such absence at school or while receiving medical treatment as an in-patient in a hospital or similar institution.
 
 (6)  For the purposes of this Act –
 
@@ -280,11 +280,13 @@ Description of insured persons.
 
 (b)  either self-employed or in insurable employment under the Social Security (Employment Injuries Insurance) Act,
 
-shall be insured under this Act and shall thereafter continue throughout his life to be so insured.
-
 Social Security (Insurance)
 
-1955-14 (2)  Provision may be made by regulations for modifying the application of this Act to persons who are insured under the provisions of the United Kingdom’s Social Security Act, 1975.
+1955-14
+
+shall be insured under this Act and shall thereafter continue throughout his life to be so insured.
+
+(2)  Provision may be made by regulations for modifying the application of this Act to persons who are insured under the provisions of the United Kingdom’s Social Security Act, 1975.
 
 (3)  Provision may be made by regulations for modifying the application of this Act in relation to cases where it appears to the Governor desirable by reason of the nature or circumstances of a person’s employment or otherwise, and such regulations may in particular provide–
 
@@ -306,11 +308,9 @@ Source of funds.
 
 (b)  Every self-employed person of the classes set out in the first column of Part II of Schedule 1 shall be liable to pay weekly contributions at the rates set out in the second column of that Part.
 
-(3)  Regulations may provide that where an insured person ceases to be a self-employed person or an employed person at a time when he satisfies such other conditions as may be prescribed, he may elect to pay such contributions as may be prescribed.
-
 Social Security (Insurance)
 
-1955-14
+1955-14 (3)  Regulations may provide that where an insured person ceases to be a self-employed person or an employed person at a time when he satisfies such other conditions as may be prescribed, he may elect to pay such contributions as may be prescribed.
 
 (4)  Subject to the provisions of this Act and of any regulations, no person shall be entitled to pay any contribution thereunder other than a contribution which he is liable to pay.
 
@@ -334,13 +334,11 @@ then that employment shall, in relation to that week, be disregarded for the pur
 
 (3)  Regulations may provide for disregarding for the purposes of this section any employment in which a person engages or continues to be engaged solely or mainly for the purpose of acquiring or preserving a right or a larger right to benefit.
 
-Crediting of contributions.
-
-6. Regulations may provide for crediting contributions to insured persons for–
-
 Social Security (Insurance)
 
-1955-14
+1955-14 Crediting of contributions.
+
+6. Regulations may provide for crediting contributions to insured persons for–
 
 (a)  periods of unemployment or of incapacity for work;
 
@@ -360,11 +358,13 @@ Contributions of employed persons and employers.
 
 Provided that any such regulations shall provide that–
 
-(a)  where the insured person does not receive any wages or other pecuniary remuneration in respect of an employed contributor’s employment either from the employer or from any other person, the employer shall not be entitled to recover the amount of any such contribution from him; and
+(a)  where the insured person does not receive any wages or other pecuniary remuneration in respect of an employed contributor’s employment either from the employer or from any other
 
 Social Security (Insurance)
 
-1955-14 (b)  where the insured person does receive any such wages or remuneration from the employer, the employer shall not be entitled to recover any such contribution otherwise than by deductions from the wages or remuneration.
+1955-14 person, the employer shall not be entitled to recover the amount of any such contribution from him; and
+
+(b)  where the insured person does receive any such wages or remuneration from the employer, the employer shall not be entitled to recover any such contribution otherwise than by deductions from the wages or remuneration.
 
 General provisions as to payment and collection of contributions, etc.
 
@@ -380,11 +380,11 @@ General provisions as to payment and collection of contributions, etc.
 
 (e) (without prejudice to any other remedy) for the recovery, on prosecutions brought under or by virtue of this Act, of contributions under this Act or under the Social Security (Employment Injuries Insurance) Act.
 
-(2)  Where under regulations made by virtue of subsection (1) contributions under this Act, with or without contributions under the Social Security (Employment Injuries Insurance) Act, are payable by means of adhesive stamps, those stamps (hereafter in this Act referred to as "insurance stamps") shall be prepared and issued in such manner as the Governor may direct; and the Governor may provide for the sale of insurance stamps through any post office.
+(2)  Where under regulations made by virtue of subsection (1) contributions under this Act, with or without contributions under the Social Security (Employment Injuries Insurance) Act, are payable by means of adhesive stamps, those stamps (hereafter in this Act referred to as "insurance
 
 Social Security (Insurance)
 
-1955-14
+1955-14 stamps") shall be prepared and issued in such manner as the Governor may direct; and the Governor may provide for the sale of insurance stamps through any post office.
 
 (3)  Regulations made by virtue of this section providing for the payment of contributions, at the option of the persons liable to pay, either-
 
@@ -410,13 +410,11 @@ PART II.–BENEFIT.
 
 Preliminary.
 
-10. Descriptions and rates of benefit and contribution conditions.
-
-(1)  Benefit shall be of the following descriptions:–
-
 Social Security (Insurance)
 
-1955-14
+1955-14 10. Descriptions and rates of benefit and contribution conditions.
+
+(1)  Benefit shall be of the following descriptions:–
 
 (a)  maternity grants;
 
@@ -446,11 +444,11 @@ Social Security (Insurance)
 
 Residence or contribution conditions for increased rates of benefit.
 
-10A.(1) Subject to the provisions of this Act, where a person entitled to a benefit at any of the rates specified in-
-
 Social Security (Insurance)
 
-1955-14 (a) the second column of Part I, II, III, IV of Schedule 2;
+1955-14 10A.(1) Subject to the provisions of this Act, where a person entitled to a benefit at any of the rates specified in-
+
+(a) the second column of Part I, II, III, IV of Schedule 2;
 
 (b) the third column of Part I or III of Schedule 2; or
 
@@ -480,11 +478,9 @@ Provided that she shall not be entitled to a maternity grant by virtue of both o
 
 (2)  Except where regulations otherwise provide, a woman shall not be entitled to a maternity grant in respect of a confinement if on the date of the confinement she is outside Gibraltar or the Campo district.
 
-(3)  A woman confined of twins or a greater number of children shall, if the other conditions for payment of a maternity grant are satisfied in respect of the confinement, be entitled to a maternity grant for each of them.
-
 Social Security (Insurance)
 
-1955-14
+1955-14 (3)  A woman confined of twins or a greater number of children shall, if the other conditions for payment of a maternity grant are satisfied in respect of the confinement, be entitled to a maternity grant for each of them.
 
 (4)  Regulations may modify the provisions of this section with a view to making the grant payable, if the woman’s claim indicates that she so desires, by virtue of a certificate that it is to be expected that she will be confined.
 
@@ -508,11 +504,9 @@ Widow’s Benefit.
 
 (b) in the case of a widowed mother's allowance, if the widow has a family which includes a child who, or children one of whom, either was at the husband's death a child of his family or is a son or daughter of theirs;
 
-(c) in the case of a widow's pension, if (subject to section 14) at the husband's death he and the widow had been married for not less than one year and she was over the age of forty but under pensionable age.
-
 Social Security (Insurance)
 
-1955-14
+1955-14 (c) in the case of a widow's pension, if (subject to section 14) at the husband's death he and the widow had been married for not less than one year and she was over the age of forty but under pensionable age.
 
 (2) The period for which widow's benefit is payable to a widow shall be-
 
@@ -538,11 +532,11 @@ she shall for any subsequent period have the same right (if any) to a widow's pe
 
 (2)  Where a widow, in relation to whom neither the conditions for a widow's pension nor the alternative conditions contained in subsection (1) are satisfied, ceases to be entitled to a widow's allowance or to a widowed mother's allowance at a time when she is pregnant by her late husband, she shall, for the remainder of the period of that pregancy, have the same right (if any) to a widow's pension in respect of her marriage to the husband as if the said conditions were satisfied.
 
-(3)  Regulations may provide that, where a widow, in relation to whom neither the conditions for a widow's pension nor the alternative conditions contained in subsection (1) are satisfied, would but for the regulations cease
-
 Social Security (Insurance)
 
-1955-14 to be entitled to widow's benefit at a time when she is by reason of any infirmity incapable of self-support and is under pensionable age, she shall, for any subsequent period during which she is incapable of self-support by reason of that infirmity have the same right (if any) to a widow's pension in respect of the marriage in respect of which she was entitled to a widow's benefit as if the said conditions were satisfied.
+1955-14
+
+(3)  Regulations may provide that, where a widow, in relation to whom neither the conditions for a widow's pension nor the alternative conditions contained in subsection (1) are satisfied, would but for the regulations cease to be entitled to widow's benefit at a time when she is by reason of any infirmity incapable of self-support and is under pensionable age, she shall, for any subsequent period during which she is incapable of self-support by reason of that infirmity have the same right (if any) to a widow's pension in respect of the marriage in respect of which she was entitled to a widow's benefit as if the said conditions were satisfied.
 
 (4)  Where a widow is entitled to a widow's pension by virtue of subsection (3) but ceases to be so entitled at a time when-
 
@@ -564,13 +558,11 @@ Widower's pension.
 
 Provided that the pension shall not be payable for any period after his death or remarriage or for any period during which he is cohabiting with a woman as her husband.
 
-(2)  In this section the expression "wife" in relation to a man who has been married more than once. refers only to his last wife.
-
-Guardian’s Allowance.
-
 Social Security (Insurance)
 
-1955-14
+1955-14 (2)  In this section the expression "wife" in relation to a man who has been married more than once. refers only to his last wife.
+
+Guardian’s Allowance.
 
 Guardian’s Allowance.
 
@@ -604,11 +596,11 @@ Old Age Pensions.
 
 Special provisions as to men.
 
-l6A.(1) Subject to the provisions of this Act, a man who is over pensionable age shall be entitled to an old age pension by virtue of the insurance of his wife, being a wife-
-
 Social Security (Insurance)
 
-1955-14 (a) to whom he is married at the time when he attains that age; or
+1955-14 l6A.(1) Subject to the provisions of this Act, a man who is over pensionable age shall be entitled to an old age pension by virtue of the insurance of his wife, being a wife-
+
+(a) to whom he is married at the time when he attains that age; or
 
 (b) in respect of whose death he was immediately before attaining that age entitled to widower's pension; or
 
@@ -630,11 +622,13 @@ Provided that, if a widower entitled to an old age pension by virtue of his wife
 
 (3)  A man shall not be entitled for the same period to more than one old age pension, but if he would be so entitled but for this provision may, on such occasions and in such manner as may be prescribed, choose which he shall be entitled to.
 
-(4)  Where immediately before attaining pensionable age a man is a widower not entitled to widower's benefit, he may elect that, in calculating for the purpose of his right to an old age pension by virtue of his own insurance the yearly average or the contributions paid by or credited to him, there shall be treated as so paid or credited either-
+(4)  Where immediately before attaining pensionable age a man is a widower not entitled to widower's benefit, he may elect that, in calculating
 
 Social Security (Insurance)
 
-1955-14 (a) for each contribution year falling wholly or partly before his wife's death; or
+1955-14 for the purpose of his right to an old age pension by virtue of his own insurance the yearly average or the contributions paid by or credited to him, there shall be treated as so paid or credited either-
+
+(a) for each contribution year falling wholly or partly before his wife's death; or
 
 (b) for each contribution year falling wholly or partly during the period of their marriage,
 
@@ -658,11 +652,11 @@ Special provisions as to women.
 
 Provided that any woman who immediately before attaining pensionable age had established title to a widow's pension under section 13(1) shall on attaining pensionable age be entitled to an old age pension at the equivalent rate of her widow's pension entitlement, notwithstanding that her deceased husband had not satisfied the relevant contribution conditions in respect of such an old age pension.
 
-(2)  Subject to the provisions of this Act, an old age pension payable to a woman by virtue of her husband's insurance shall commence from the date on which the provisions of subsection (1) are satisfied in relation to the pension and shall be payable for life:
-
 Social Security (Insurance)
 
-1955-14 Provided that, if a widow entitled to an old age pension by virtue of her late husband's insurance remarries, the pension shall not be payable for any subsequent period.
+1955-14 (2)  Subject to the provisions of this Act, an old age pension payable to a woman by virtue of her husband's insurance shall commence from the date on which the provisions of subsection (1) are satisfied in relation to the pension and shall be payable for life:
+
+Provided that, if a widow entitled to an old age pension by virtue of her late husband's insurance remarries, the pension shall not be payable for any subsequent period.
 
 (3)  A woman shall not be entitled for the same period to more than one old age pension, but if she would be so entitled but for this provision may, on such occasions and in such manner as may be prescribed, choose which she shall be entitled to.
 
@@ -682,13 +676,13 @@ Death grant.
 
 (a)  he has reasonably incurred or reasonably intends to incur, in connection with the deceased’s death, expenses to which this section applies; and
 
-(b)  the deceased either himself satisfied the relevant contribution conditions, or was at death the husband, wife, widower, widow or a child of the family, of a person satisfying those conditions, or a child who–
-
-(i) had, immediately before the death of some person satisfying those conditions, been a child of the family of that other person; or
+(b)  the deceased either himself satisfied the relevant contribution conditions, or was at death the husband, wife, widower, widow
 
 Social Security (Insurance)
 
-1955-14
+1955-14 or a child of the family, of a person satisfying those conditions, or a child who–
+
+(i) had, immediately before the death of some person satisfying those conditions, been a child of the family of that other person; or
 
 (ii) was a posthumous son or daughter of a man satisfying those conditions.
 
@@ -708,13 +702,13 @@ Social Security (Insurance)
 
 (b)  no such death grant has been paid,
 
-and where any sum is paid under this subsection in respect of any person’s burial or cremation any death grant subsequently paid in respect of his death shall be reduced by the amount of that sum.
+Social Security (Insurance)
+
+1955-14 and where any sum is paid under this subsection in respect of any person’s burial or cremation any death grant subsequently paid in respect of his death shall be reduced by the amount of that sum.
 
 (6)  Not more than one person shall be entitled to a death grant in respect of the same death; and regulations may make provision–
 
-Social Security (Insurance)
-
-1955-14 (a)  as to the priority of two or more claimants satisfying the conditions for receipt of the grant in respect of the same death; and
+(a)  as to the priority of two or more claimants satisfying the conditions for receipt of the grant in respect of the same death; and
 
 (b)  for suspending proceedings on any claim where there is reason to suppose that another claim may be or may have been made in respect of the same death by a person having a prior right by virtue of the foregoing paragraph.
 
@@ -734,11 +728,11 @@ Provided that increases for children at the rates set out in the fourth column o
 
 (3)  In the case of an old age pension-
 
-(a) where a man and his wife are both entitled to a pension by virtue of either his or her insurance, they shall not both be entitled for the same period to an increase under this section in respect of the same child or to increase in respect of more than four children;
-
 Social Security (Insurance)
 
-1955-14 (b) for any reference in subsection (2) to the day for which benefit is claimed there shall be substituted a reference to pensionable age.
+1955-14 (a) where a man and his wife are both entitled to a pension by virtue of either his or her insurance, they shall not both be entitled for the same period to an increase under this section in respect of the same child or to increase in respect of more than four children;
+
+(b) for any reference in subsection (2) to the day for which benefit is claimed there shall be substituted a reference to pensionable age.
 
 (4)  Where, but for subsection (3)(a), a man and his wife would both be entitled to an increase of an old age pension under this section, regulations may make provision as to their priority.
 
@@ -756,13 +750,13 @@ Partial satisfaction of contribution conditions.
 
 (2)  Regulations under this section shall provide that benefit payable by virtue of any such regulations shall be payable at a rate, or shall be of an amount, less than that specified in Schedule 2, and the rate or amount prescribed by the regulations may vary with the extent to which the contribution conditions are satisfied:
 
-Provided that the amount of any increase of benefit in respect of a child shall be the same as if the relevant contribution conditions had been fully satisfied.
-
-Miscellaneous provisions as to benefit.
-
 Social Security (Insurance)
 
 1955-14
+
+Provided that the amount of any increase of benefit in respect of a child shall be the same as if the relevant contribution conditions had been fully satisfied.
+
+Miscellaneous provisions as to benefit.
 
 Claims and notices.
 
@@ -786,11 +780,13 @@ and any claim for benefit under the Social Security (Employment Injuries Insuran
 
 Disqualification or suspension for absence abroad or imprisonment.
 
-23.(1) Except where regulations otherwise provide, a person shall be disqualified for receiving any benefit, and an increase of benefit shall not be payable in respect of any person as the beneficiary’s wife or husband, for any period during which that person–
-
 Social Security (Insurance)
 
-1955-14 (a)  is absent from Gibraltar or the Campo district; or
+1955-14
+
+23.(1) Except where regulations otherwise provide, a person shall be disqualified for receiving any benefit, and an increase of benefit shall not be payable in respect of any person as the beneficiary’s wife or husband, for any period during which that person–
+
+(a)  is absent from Gibraltar or the Campo district; or
 
 (b)  is undergoing imprisonment or detention in legal custody.
 
@@ -812,13 +808,11 @@ Overlapping benefits, etc.
 
 (2)  Where but for regulations made by virtue of paragraph (a) of subsection (1), two persons would be entitled to an increase of benefit in respect of a third person, regulations may make provisions as to their priority.
 
-Disqualifications, etc., to be disregarded for certain purposes.
-
-25. Regulations may provide that a person who would be entitled to any benefit but for the operation of either section 23 or 24 or of any other provision of this Act disqualifying him for the receipt of that benefit shall be treated as if entitled thereto for the purpose of any rights or obligations
-
 Social Security (Insurance)
 
-1955-14 under this Part (whether of himself or any other person) which depend on his being so entitled, other than the right to payment of that benefit.
+1955-14 Disqualifications, etc., to be disregarded for certain purposes.
+
+25. Regulations may provide that a person who would be entitled to any benefit but for the operation of either section 23 or 24 or of any other provision of this Act disqualifying him for the receipt of that benefit shall be treated as if entitled thereto for the purpose of any rights or obligations under this Part (whether of himself or any other person) which depend on his being so entitled, other than the right to payment of that benefit.
 
 Benefit to be inalienable.
 
@@ -842,13 +836,13 @@ and by reason thereof that person has lost, in whole or in part, any maternity g
 
 (4)  Proceedings under this section may, notwithstanding any enactment to the contrary, be brought at any time within one year after the date on which the employed person or his wife or widow, but for the failure or neglect of the employer, would have been entitled to receive the benefit lost.
 
-Provisions as to maintenance and incapacity for self-support.
-
-28.(1)  Regulations may provide for determining the circumstances in which a person is or is not to be deemed for the purposes of this Part, to be wholly or mainly maintaining another person.
-
 Social Security (Insurance)
 
 1955-14
+
+Provisions as to maintenance and incapacity for self-support.
+
+28.(1)  Regulations may provide for determining the circumstances in which a person is or is not to be deemed for the purposes of this Part, to be wholly or mainly maintaining another person.
 
 (2)  Regulations under subsection (1) may provide, for the purpose of the provisions relating to an increase of benefit in respect of a husband, wife or other adult dependant, that where-
 
@@ -866,11 +860,45 @@ Finance.
 
 Social insurance Fund.
 
-29.(1) For the purpose of this Act, there shall be established, under the control and management of the Director, a fund called “the Social Insurance Fund,” into which shall be paid all contributions payable under this Act by employers and insured persons and all moneys received by the Government of Gibraltar from time to time by way of grants from Her Majesty's Government in the United Kingdom in aid of the Social Insurance Fund and out of which shall be paid all claims for benefit under this Act or for unemployment benefit under the Social Security (Non-Contributory Benefits and Unemployment Insurance) Act, including, notwithstanding the provisions of section 5 of the European Communities Act, claims for such benefits payable by reason of Gibraltar’s obligations under the Regulations of the Council of the European Communities on the application of social security schemes to employed persons and their families moving within the Community and, subject to the provisions of subsection (5) of this section, all expenses incurred with the administration of this Act.
+29.(1) In the place of the Social Insurance Fund (hereinafter called the "old Fund") there are established-
+
+(a) a Social Insurance (Pensions) Fund (hereinafter called the "Pension Fund") out of which there shall be paid all claims under this Act for-
+
+(i) old age pensions;
 
 Social Security (Insurance)
 
 1955-14
+
+(ii) widows' benefits;
+
+(iii) guardians' allowances;
+
+(iv) widowers' pensions, and
+
+(b) a Social Insurance (Short Term Benefit) Fund (hereinafter called the "Short Term Benefits Fund") out of which there shall be paid all claims for-
+
+(a) maternity and death grants under this Act; and
+
+(b) unemployment and other benefits payable under the Social Security (Non-Contributory Benefits and Unemployment Insurance) Act.
+
+(lA) In addition to the payments mentioned in subsection (1) there shall be paid out of either Fund the costs of the administration of their respective revenues and liabilities in such proportions as the Minister may by notice in the Gazette determine.
+
+(1B) Notwithstanding the provisions of section 5 of the European Communities Act, claims for benefits payable by reason of Gibraltar's obligations under the regulations of the European Communities concerning the application of social security schemes to employed persons and their families moving within the Community, shall be paid as follows-
+
+(a) if such claims are in the nature of pensions, benefits or allowances mentioned in subsection (1)(a) they shall be paid out of the Pension Fund;
+
+(b) if such claims are in the nature of the grants or benefits mentioned in subsection (1)(b) they shall be paid out of the Short Term Benefits Fund.
+
+(1C) The funds and other assets, if any, standing to the credit of the old Fund shall be apportioned between, and shall vest in, the Pension Fund and the Short Term Benefits Fund, in such proportions as the Governor, on the advice of an actuary, and subject to the approval by resolution of the House of Assembly, may by order in the Gazette determine.
+
+(1D) The contributions and other revenues which, but for the provisions of subsection (1) would be payable to the old Fund, shall be payable to the Pension Fund and the Short Term Benefits Fund in such proportions as the Minister may by notice in the Gazette determine.
+
+Social Security (Insurance)
+
+1955-14 (1E) The provisions of this Act with respect to the management, audit and other matters of administration of the old Fund shall apply in a like manner to the Pension Fund and the Short Term Benefits Fund.
+
+(1F) The references in this Act or in any other law to the Social Insurance Fund shall be taken as references to the Pension Fund or the Short Term Benefits Fund according to the nature of the business in each particular case.
 
 (2)  Repealed.
 
@@ -896,11 +924,13 @@ Social Insurance Advisory committee.
 
 (2)  The provisions of Schedule 4 shall have effect with respect to the constitution of the Committee and other matters relating to the Committee.
 
-(3)  The Director may from time to time refer to the Committee for consideration and advice such questions relating to the operation of this Act as he thinks fit (including questions as to the advisability of amending this Act).
-
 Social Security (Insurance)
 
-1955-14 (4)  The Director shall furnish the Committee with such information as they may reasonably require for the proper discharge of their functions under this Act.
+1955-14
+
+(3)  The Director may from time to time refer to the Committee for consideration and advice such questions relating to the operation of this Act as he thinks fit (including questions as to the advisability of amending this Act).
+
+(4)  The Director shall furnish the Committee with such information as they may reasonably require for the proper discharge of their functions under this Act.
 
 Determination of claims and questions by Director.
 
@@ -924,13 +954,15 @@ Constitution of Appeal Board.
 
 (c)  a person deemed to be representative of the interests of employers of insured persons.
 
-(3)  The Governor may also appoint supplementary members of the Board having the respective qualifications prescribed in subsection (2) to surrogate the chairman or other member of the Board as occasion may require.
-
-(4)  The Board shall not be competent to decide any question or appeal unless all members are present and give their opinion thereon.
+(3)  The Governor may also appoint supplementary members of the Board having the respective qualifications prescribed in subsection (2) to
 
 Social Security (Insurance)
 
-1955-14 (5)  Subject to any regulation in that behalf the Board may regulate its proceedings in such manner as it thinks fit.
+1955-14 surrogate the chairman or other member of the Board as occasion may require.
+
+(4)  The Board shall not be competent to decide any question or appeal unless all members are present and give their opinion thereon.
+
+(5)  Subject to any regulation in that behalf the Board may regulate its proceedings in such manner as it thinks fit.
 
 (6)  The Governor shall appoint a secretary to the Board.
 
@@ -952,13 +984,13 @@ Appeals to the Board.
 
 Appeal to Supreme Court.
 
-35.(1)  Any person aggrieved by the decision of the Board on any question of law or on any question of mixed fact and law may appeal to the Supreme Court.
+Social Security (Insurance)
+
+1955-14 35.(1)  Any person aggrieved by the decision of the Board on any question of law or on any question of mixed fact and law may appeal to the Supreme Court.
 
 (2)  On an appeal the Supreme Court may give such directions and make such decisions in the matter as it thinks proper, including directions as to the costs of the appeal.
 
-Social Security (Insurance)
-
-1955-14 (3)  The Board shall be entitled to appear and be heard on any appeal, either by counsel or in person by any member of the Board.
+(3)  The Board shall be entitled to appear and be heard on any appeal, either by counsel or in person by any member of the Board.
 
 Review.
 
@@ -978,15 +1010,15 @@ Administration of benefit.
 
 (a)  notwithstanding anything in this Act, for adjusting the commencement and termination of benefit, or of changes in the rate of benefit, so that payments shall not be made in respect of periods less than a week or at different rates for different parts of a week;
 
-(b)  for extinguishing the right to any sum payable by way of benefit where payment thereof is not obtained within thirteen weeks or such shorter period as may be prescribed from the time at which that sum is receivable in accordance with regulations.
-
-(3)  Regulations may also provide–
-
-(a)  for enabling a person to be appointed to exercise, on behalf of a claimant or beneficiary who is a child or who may be or become unable for the time being to act, any right or power which the claimant or beneficiary may be entitled to exercise
+(b)  for extinguishing the right to any sum payable by way of benefit where payment thereof is not obtained within thirteen weeks or such shorter period as may be prescribed from the
 
 Social Security (Insurance)
 
-1955-14 under this Act, and for authorizing a person so appointed to receive and deal with any sum payable by way of benefit on behalf of the claimant or beneficiary;
+1955-14 time at which that sum is receivable in accordance with regulations.
+
+(3)  Regulations may also provide–
+
+(a)  for enabling a person to be appointed to exercise, on behalf of a claimant or beneficiary who is a child or who may be or become unable for the time being to act, any right or power which the claimant or beneficiary may be entitled to exercise under this Act, and for authorizing a person so appointed to receive and deal with any sum payable by way of benefit on behalf of the claimant or beneficiary;
 
 (b)  in connection with the death of any person, for enabling a claim for benefit to be made or proceeded with in his name, for authorizing payment or distribution of benefit to or amongst persons claiming as his personal representatives, legatees, next of kin or creditors (or, in cases of illegitimacy of deceased persons, to or amongst others) and for dispensing with strict proof of the title of persons so claiming.
 
@@ -1004,13 +1036,13 @@ Interim payments, arrears and repayments.
 
 (a)  for the suspension of benefit where it appears to the Director that there is or may be a question whether the conditions for receipt thereof in accordance with an award are or were fulfilled or whether the award ought to be revised;
 
-(b)  as to the date from which any decision on a review is to have effect or to be deemed to have had effect;
-
-(c)  for treating any benefit paid to any person under an award or by virtue of any provision of the regulations, which it is subsequently decided was not payable, as properly paid or as paid on account of any other benefit which it is decided was payable to him, or for the repayment of any such benefit and
-
 Social Security (Insurance)
 
-1955-14 the recovery thereof by deduction from other benefit or otherwise;
+1955-14
+
+(b)  as to the date from which any decision on a review is to have effect or to be deemed to have had effect;
+
+(c)  for treating any benefit paid to any person under an award or by virtue of any provision of the regulations, which it is subsequently decided was not payable, as properly paid or as paid on account of any other benefit which it is decided was payable to him, or for the repayment of any such benefit and the recovery thereof by deduction from other benefit or otherwise;
 
 (d)  for treating benefit paid to one person in respect of another as being a child of the family, or the wife or husband or an adult dependant, of the first-mentioned person as having been properly paid for any period, notwithstanding that under regulations relating to overlapping benefits it is not payable for that period by reason of a subsequent decision either–
 
@@ -1026,15 +1058,15 @@ Recovery of sums by deduction from benefit.
 
 Inspectors.
 
-40.(1)  For the purposes of this Act, the Governor may appoint such inspectors as he may determine.
+Social Security (Insurance)
+
+1955-14 40.(1)  For the purposes of this Act, the Governor may appoint such inspectors as he may determine.
 
 (2) An inspector appointed under this Act, shall, for the purposes of the execution of this Act, have power to do all or any of the following things, namely–
 
 (a)  to enter at all reasonable times any premises or place liable to inspection under this section;
 
-Social Security (Insurance)
-
-1955-14 (b)  to make such examination and inquiry as may be necessary for ascertaining whether the provisions of this Act are being or have been complied with in any such premises or place;
+(b)  to make such examination and inquiry as may be necessary for ascertaining whether the provisions of this Act are being or have been complied with in any such premises or place;
 
 (c)  to examine, either alone or in the presence of any other person, as he thinks fit, with respect to any matters under this Act on which he may reasonably require information, every person whom he finds in any such premises or place, or whom he has reasonable cause to believe to be or to have been an insured person, and to require every such person to be so examined;
 
@@ -1048,13 +1080,13 @@ Social Security (Insurance)
 
 (b)  refuses or neglects to answer any question or to furnish any information or to produce any document when required so to do under this section, is guilty of an offence and is liable on summary conviction to a fine of £50 in the case of a first offence under this subsection and of £250 in the case of a second or subsequent such offence:
 
-Provided that no one shall be required under this section to answer any questions or to give any evidence tending to incriminate himself.
+Social Security (Insurance)
+
+1955-14 Provided that no one shall be required under this section to answer any questions or to give any evidence tending to incriminate himself.
 
 (5)  For the purposes of subsection (4) an offence shall be deemed not to be a first offence if the offender has previously been found guilty of an offence against the provisions of the Social Security (Employment Injuries Insurance) Act, which relate to inspectors, and for the purposes of the provisions of that Act an offence shall not be deemed to be a first offence if the offender has previously been found guilty of an offence against subsection (4) of this section.
 
-Social Security (Insurance)
-
-1955-14 (6)  Every inspector shall be furnished with a certificate of his appointment, and on applying for admission to any premises or place for the purposes of this Act shall, if so required, produce such certificate.
+(6)  Every inspector shall be furnished with a certificate of his appointment, and on applying for admission to any premises or place for the purposes of this Act shall, if so required, produce such certificate.
 
 (7)  The premises and places liable to inspection under this section are any premises or places where an inspector appointed under this Act has reasonable grounds for supposing that any persons are self-employed or employed, except that they do not include any private dwelling-house not used by or by permission of the occupier for the purposes of a trade or business.
 
@@ -1072,13 +1104,15 @@ be entitled to obtain a copy, certified under the hand of the custodian, of the 
 
 (2A) Any certified copy obtained under subsection (2) shall be retained by the Director.
 
+Social Security (Insurance)
+
+1955-14
+
 (3)  Requisitions for the purposes of subsection (2) shall be in such form and contain such particulars as may from time to time be specified by the Registrar, and suitable forms thereof shall, on request, be supplied without charge by the Registrar.
 
 (4)  In this section the word “Registrar” means either the Registrar of Births and Deaths appointed under the Births and Deaths Registration Act, or the Marriage Registrar, appointed under the Marriage Act, as the case may be.
 
-Social Security (Insurance)
-
-1955-14 Exemption from stamp duty.
+Exemption from stamp duty.
 
 42. Stamp duty shall not be chargeable upon such documents used in connection with business under this Act as may be specified in Schedule 5.
 
@@ -1100,13 +1134,15 @@ General provisions as to offences and penalties.
 
 is guilty of an offence and is liable on summary conviction to imprisonment for three months and to a fine of £400.
 
-(2)  Regulations may provide for the recovery on summary conviction of monetary penalties in respect of any offence under this Act, being a contravention of or failure to comply with regulations, so however, that such penalties shall not exceed £50 for each offence or, where the offence consists of continuing any such contravention or failure after conviction thereof, £10 together with a further £10 for each day on which it is so continued.
-
-(3)  Where an offence against this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any negligence on the part of, any director, manager, secretary or other officer of the body corporate, he as well as the body corporate shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(2)  Regulations may provide for the recovery on summary conviction of monetary penalties in respect of any offence under this Act, being a contravention of or failure to comply with regulations, so however, that such penalties shall not exceed £50 for each offence or, where the offence
 
 Social Security (Insurance)
 
-1955-14 (4)  In this section the expression “insurance card” means any card issued under regulations for the purpose of the payment of contributions by affixing insurance stamps thereto; and in any proceedings under subsection (1) with respect to used stamps, a stamp shall be deemed to have been used if it has been affixed to an insurance card or cancelled or defaced in any way whatsoever and whether it has actually been used for the purpose of payment of a contribution or not.
+1955-14 consists of continuing any such contravention or failure after conviction thereof, £10 together with a further £10 for each day on which it is so continued.
+
+(3)  Where an offence against this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any negligence on the part of, any director, manager, secretary or other officer of the body corporate, he as well as the body corporate shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(4)  In this section the expression “insurance card” means any card issued under regulations for the purpose of the payment of contributions by affixing insurance stamps thereto; and in any proceedings under subsection (1) with respect to used stamps, a stamp shall be deemed to have been used if it has been affixed to an insurance card or cancelled or defaced in any way whatsoever and whether it has actually been used for the purpose of payment of a contribution or not.
 
 (5)  Nothing in this section shall be construed as preventing the Director from recovering by means of civil proceedings any sums due to the Fund.
 
@@ -1120,15 +1156,15 @@ General provisions as to prosecutions under Act.
 
 (4)  For the purposes of subsection (3) a certificate, purporting to be signed by or on behalf of the Attorney-General as to the date on which such evidence came to his knowledge shall be conclusive evidence thereof.
 
-(5)  In any proceedings for an offence against this Act, the wife of the accused shall be competent to give evidence, whether for or against the accused:
+Social Security (Insurance)
+
+1955-14 (5)  In any proceedings for an offence against this Act, the wife of the accused shall be competent to give evidence, whether for or against the accused:
 
 Provided that the wife or husband shall not be compellable either to give evidence or, in giving evidence, to disclose any communication made to her or him during the marriage by the accused.
 
 Civil proceedings to recover sums due to fund.
 
-Social Security (Insurance)
-
-1955-14 45.(1)  All sums due to the Fund shall be recoverable as debts due to the Crown, and without prejudice to any other remedy may be recovered by the Director summarily as a civil debt.
+45.(1)  All sums due to the Fund shall be recoverable as debts due to the Crown, and without prejudice to any other remedy may be recovered by the Director summarily as a civil debt.
 
 (2)  Proceedings for the summary recovery as civil debts of sums due to the Fund may, notwithstanding anything in any law to the contrary, be brought at any time within three years from the time when the matter complained of arose.
 
@@ -1146,15 +1182,13 @@ Members of the Gibraltar Regiment.
 
 47.(1)  Subject to any prescribed exceptions, any person who, being over school leaving age and under pensionable age, is serving as a member of the Royal Gibraltar Regiment shall, notwithstanding that he does not fulfil the conditions of section 3, be an insured person, and any such person while he is serving as aforesaid shall, in respect of his membership of that Regiment, be an employed person.
 
-(2)  Without prejudice to the generality of any other power to make regulations, the Governor may make regulations modifying in such manner, subject to the foregoing provisions of this section, as he thinks proper the provisions of this Act, in their application in relation to persons who are or have been members of the Royal Gibraltar Regiment.
+Social Security (Insurance)
+
+1955-14 (2)  Without prejudice to the generality of any other power to make regulations, the Governor may make regulations modifying in such manner, subject to the foregoing provisions of this section, as he thinks proper the provisions of this Act, in their application in relation to persons who are or have been members of the Royal Gibraltar Regiment.
 
 Married women.
 
-48. Without prejudice to the generality of any other power to make regulations, the Governor may make regulations modifying in such manner
-
-Social Security (Insurance)
-
-1955-14 as he thinks proper the provisions of this Act in their application in relation to married women, and in relation to women who have been married and during their marriage were affected by any such regulations.
+48. Without prejudice to the generality of any other power to make regulations, the Governor may make regulations modifying in such manner as he thinks proper the provisions of this Act in their application in relation to married women, and in relation to women who have been married and during their marriage were affected by any such regulations.
 
 Reciprocal agreements with United Kingdom, dominions, and foreign countries.
 
@@ -1170,6 +1204,10 @@ Reciprocal agreements with United Kingdom, dominions, and foreign countries.
 
 (d)  for making any necessary financial adjustments by payments into or out of the Fund.
 
+Social Security (Insurance)
+
+1955-14
+
 50. Revoked.
 
 Transitional provisions as to death grants.
@@ -1178,35 +1216,19 @@ Transitional provisions as to death grants.
 
 (2)  Repealed.
 
-Social Security (Insurance)
+Review of contributions, benefits, etc.
 
-1955-14
-
-Yearly review of contributions, benefits, etc.
-
-52.(1)  The Minister shall, at such time as shall seem to him appropriate, in respect of each year review the sums specified in the following section and Schedules to this Act-
+52.(1)  The Minister shall, at such time as shall seem to him appropriate, review the sums specified in the following section and Schedules to this Act-
 
 Section 20;
 
 Schedule 1, Parts I and II;
 
-Schedule 2, Parts V and VI;
+Schedule 2, Parts V and VI.
 
-And shall advice the Governor thereon.
+(2)  The Minister may, by order amend the sum specified in section 20 and the sums payable under those Parts of the Schedules specified in subsection (1).
 
-(2)  For the purposes of advising on the rates of old age pension set out in the second column of Part V of Schedule 2, the Minister shall have regard to the general level of earnings and prices in Gibraltar in such manner as he thinks fit.
-
-(3) The governor may, by order, amend the sum specified in section 20 and the sums payable under thos Parts of the Schedules specified in subsection (1): and in so doing shall consider the advice of the Minister and shall take into account as he considers appropriate the nature, rate or amount of the sum or benefit in question:
-
-Provided that the rate at which old age pension shall be payable under Part V shall no be less than the percentage of the figure of average weekly earnings of weekly-paid, full0time adult male persons employed in Gibraltar shown in the latest available employment survey conducted under the provisions of the Statistics Act as follows:-
-
-(a) (i) Where the pension to a woman by virtue of a husband’s insurance and he is alive; or
-
-(ii) where the pension is payable to a man who is permanently incapable of self support, by virtue of his wife’s insurance and she is alive, 16 2/3%.
-
-(b) in any other case, 33 1/3%
-
-(4)  No order shall be made under this section unless it has been approved by resolution of the House of Assembly.
+(3) No order increasing the weekly rate of contributions shall be made under this section unless it has been approved by resolution of the House of Assembly.
 
 Social Security (Insurance)
 
