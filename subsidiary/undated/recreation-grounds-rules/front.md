@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Rules of 9.8.1
 
 Act. 1972-05 r. 21
 
-LN. 1986/037 rr. 17(iA)-(iB), 21 1.5.1986 1990/036 r. 13, (a)-(b), Sch. 28.4.1990 1990/066 rr. 13(b), 20(1), Sch. 31.5.1990 1990/129 r. 13(b) 20.9.1990
+LN. 1986/037 rr. 17(iA)-(iB), 21 1.5.1986 1990/036 r. 13, (a)-(b), Sch. 28.4.1990 1990/066 rr. 13(b), 20(1), Sch. 31.5.1990 1990/129 r. 13(b) 20.9.1990 1990/139 r. 13(b), Sch. 25.10.1990
 
 Public Health RECREATION GROUNDS RULES
 
