@@ -1,23 +1,17 @@
-Newspapers NEWSPAPERS (FEES) REGULATIONS
+Subsidiary Legislation made under s.15.
 
-1946-12
+Newspapers (Fees) Regulations
 
-Subsidiary 1946.11.01 Regulations made under s. 15
+1946.11.01
 
-NEWSPAPERS (FEES) REGULATIONS
+Commencement 1.11.1946
 
-(1946.11.01)
+Amending enactments Relevant current provisions Commencement date LN. 1992/009 Sch. 13.2.1992
 
-1.11.1946
+___________________________
 
-_________________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
 1. Title. 2. Fees to be paid.
-
-SCHEDULE. Fees
-
-Newspapers NEWSPAPERS (FEES) REGULATIONS
