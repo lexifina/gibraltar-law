@@ -32,13 +32,9 @@ Address of applicant. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-I apply for an order under section 48(2) of the Drug Trafficking Offences Act, 1995 for the continued detention of the above cash.
-
 * With letters, parcels, containers, etc. insert names and address of sender and addressee, if known.
 
-Drug Trafficking Offences DRUG TRAFFICKING (DETENTION AND FORFEITURE OF CASH) RULES, 1995
-
-Subsidiary 1995/062 1995-06
+I apply for an order under section 48(2) of the Drug Trafficking Offences Act, 1995 for the continued detention of the above cash.
 
 I will state upon oath that–
 
@@ -62,57 +58,73 @@ Note:
 
 A copy of this application must be given to the person from whom the cash was seized. The justice of the peace who considers this application will require the facts alleged in it to be sworn under oath and may require the applicant to answer any questions under oath. The justice may require any statement in response by the person from whom the cash was seized to be given underoath. CUS 202
 
-Drug Trafficking Offences DRUG TRAFFICKING (DETENTION AND FORFEITURE OF CASH) RULES, 1995
-
-Subsidiary 1995/062 1995-06
-
 FORM B
 
-DRUG TRAFFICKING OFFENCES ACT 1995
+DRUG TRAFFICKING OFFENCES ACT, 1995
 
-ORDER FOR CONTINUED DETENTION OF SEIZED CASH (SECTION 48 (2))
+ORDER FOR CONTINUED DETENTION OF SEIZED CASH (SECTION 48(2))
 
 Gibraltar Magistrates’ Court
 
-Date ................................................................................................... *Person from whom cash seized .................................................. *Address ........................................................................................... ............................................................................................................ Amount seized .................................................................................. Date of seizure ................................................................................. Time of seizure ................................................................................ Place of seizure ............................................................................... Name of applicant ............................................................................ After hearing oral evidence from the applicant and/or representations from ............................................(name), being the person from whom the cash was seized.
+Date. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Decision:
++Person from whom cash was seized: . . . . . . . . . . . . . . . . . . . .
 
-It is ordered that the above-mentioned cash be further detained for a period of ...................................(state period up to a maximum of three months) from the date of this order or until its release may be sooner directed.
++Address: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Notice of this order must be given forthwith by the applicant to any person appearing to him to be affected by it. Such notice shall be in the form set out overleaf and shall be accompanied by a copy of this order.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Justice of the Peace Date..........................
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-*With letters, parcels, containers, etc. insert name and address of sender and/or addressee, if known. CUS 203
+Amount seized (*estimated): . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Drug Trafficking Offences DRUG TRAFFICKING (DETENTION AND FORFEITURE OF CASH) RULES, 1995
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Subsidiary 1995/062 1995-06
+at (time) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Drug Trafficking Offences DRUG TRAFFICKING (DETENTION AND FORFEITURE OF CASH) RULES, 1995
+on (date) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Subsidiary 1995/062 1995-06
+at (place) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Name of applicant: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
++ With letters, parcels, containers etc insert names of sender and addressee, if known. * Delete as necessary
+
+After hearing oral evidence from the applicant / *representations from . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (name) who is the person from whom the cash was seized.
+
+Decision
+
+The above cash is to be detained for . . . . . . . . . . . . . . . . . . . . . . (state period of up to three months) from the date of this order or until release is directed (if sooner).
+
+Notice of this order
+
+The applicant must immediately send a copy of this order to anyone affected by it, accompanied by a notice in the form set out below.
+
+Justice of the Peace. Date: . . . . . . . . . .
+
+Further detention under Section 48(2) of the Drug Trafficking Offences  Act, 1995. Date of order Oral evidence from applicant/ *representations from person from whom cash has been seized
+
+Period of detention (up to 3 months)
+
+Justice of the Peace
+
+CUS 203
 
 NOTICE TO PERSONS AFFECTED BY ORDER FOR CONTINUED DETENTION OF SEIZED CASH
 
-Cash in the sum of ..........................................................(amount) was seized on ......................(date  and  time) At .........................................................................................(place) From .....................................................(person  from  whom  received), and on ...............................................(date of order)
-
-An order was made under section 48 (2) of the Drug Trafficking Offences Act 1995 authorising the continued detention of the cash for a period of ................................(state  period).
+Cash in the sum of . . . . . . . . . . . . . . . . . . . .(amount) was seized on . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (date and time) at . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   (place) from . . . . . . . . . . . . . . . . . . . . . . .(person from whom received), and on . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (date of order) an order was made under section 48(2) of the Drug Trafficking Offences Act, 1995 authorising the continued detention of the cash for a period of . . . . . . . . . . . . . . . . . . . . . . . . (state period).
 
 A copy of the order is enclosed with this notice.
 
-You are being given notice of the order because it appears that you may be affected by it.  You may be able to apply for the release of the cash under section 48 (6) of the Drug Trafficking Offences Act 1995.
+You are being given notice of the order because it appears that you may be affected by it. You may be able to apply for the release of the cash under section 48(6) of the Drug Trafficking Offences Act, 1995.
 
-At the end of the above-mentioned period of detention an application may be made for the further detention of the cash.   You will be notified by the court if such an application is made, or if any other person makes an application to the court for release of the cash.
+At the end of the above-mentioned period of detention, an application may be made for the further detention of the cash. You will be notified by the court if such an application is made, or if any other person makes an application to the court for release of the cash.
 
-Signed ..................................... Date .........................................
+Signed. . . . . . . . . . . . .
 
-CUS 204
+Date . . . . . . . . . . . . . .
 
-Drug Trafficking Offences DRUG TRAFFICKING (DETENTION AND FORFEITURE OF CASH) RULES, 1995
-
-Subsidiary 1995/062 1995-06
+CUS 204”
 
 FORM C
 
@@ -142,10 +154,6 @@ To: The Clerk to the Magistrates’ Court.
 
 CUS 205
 
-Drug Trafficking Offences DRUG TRAFFICKING (DETENTION AND FORFEITURE OF CASH) RULES, 1995
-
-Subsidiary 1995/062 1995-06
-
 FORM D
 
 DRUG TRAFFICKING OFFENCES ACT, 1995
@@ -172,10 +180,6 @@ Justice of the Peace
 
 CUS 206
 
-Drug Trafficking Offences DRUG TRAFFICKING (DETENTION AND FORFEITURE OF CASH) RULES, 1995
-
-Subsidiary 1995/062 1995-06
-
 FORM E
 
 DRUG TRAFFICKING OFFENCES ACT, 1995
@@ -196,16 +200,12 @@ Address of applicant. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 I apply for an order under section 49(1) of the Drug Trafficking Offences Act, 1995 for the forfeiture of cash in the sum of . . . . . . . . . . . . . . . . . . . . . . .(amount) seized on. . . . . . . . . . . . . . . . . . . . . . (date and time) from . . . . . . . . . . . . . . . . . . . . . . . . . (person from whom seized), together with any interest accruing thereon pursuant to section 48 of the Drug Trafficking Offences Act, 1995 on the grounds that the said cash–
 
-*(a) directly or indirectly represents any person’s proceeds of  drug trafficking, and/or
+*(a) directly or indirectly represents any person’s proceeds of drug trafficking, and/or
 
-*(b) is intended by any person for use in drug trafficking .
+*(b) is intended by any person for use in drug trafficking.
 
 To:The Clerk to the Magistrates’ Court.
 
 CUS 207
 
 * Delete as necessary
-
-Drug Trafficking Offences DRUG TRAFFICKING (DETENTION AND FORFEITURE OF CASH) RULES, 1995.
-
-Subsidiary 1995/062 1995-06
