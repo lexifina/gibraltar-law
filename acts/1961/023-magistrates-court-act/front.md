@@ -24,7 +24,7 @@ Act. 1971-19 –
 
 1975-15 s. 6 (4)
 
-LN. 1977/012 – Act. 1978-06 – 1980-04 s. 9(4) 1983-12 – 1983-48 –
+LN. 1977/012 – Act. 1978-06 – 1980-04 s. 9(4) 1983-12 – 1983-48 – 1988-35 s. 68A 15.12.1988
 
 Rules of court made under s.69 and other powers appear under the title Supreme Court.
 
@@ -242,7 +242,7 @@ PART VI.–CASES STATED
 
 PART VII.–MISCELLANEOUS
 
-65. Limitation. 66. Legal representation. 67. Defects in processes. 68. Remission of fees. 69. Rules of court.
+65. Limitation. 66. Legal representation. 67. Defects in processes. 68. Remission of fees. 68A. Offences of contempt of Magistrates’ Court. 69. Rules of court.
 
 Magistrates’ Court
 
