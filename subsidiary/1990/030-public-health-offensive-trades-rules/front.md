@@ -1,21 +1,17 @@
-Public Health PUBLIC HEALTH (OFFENSIVE TRADES) RULES 1990
+Subsidiary Legislation made under s.95.
 
-1950-07
+Public Health (Offensive Trades) Rules 1990
 
-Subsidiary 1990/030 Rules made under s.95 of the Public Health Act.
+LN.1990/030
 
-PUBLIC HEALTH (OFFENSIVE TRADES) RULES 1990
+Commencement 22.3.1990
 
-(LN. 1990/030)
+Amending enactments Relevant current provisions Commencement date
 
-22.3.1990
+LN.  1994/083 r. 3(a) 18.8.1994
 
-________________________
-
-ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES
 
 Rule
 
 1. Title. 2. Application. 3. Prevention and limitation of noxious or injurious effects.
-
-Public Health PUBLIC HEALTH (OFFENSIVE TRADES) RULES 1990
