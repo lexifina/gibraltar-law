@@ -14,7 +14,7 @@ Amending enactment Relevant current provisions Commencement date
 
 Act. 1972-06 ss. 24(4), 30(2)
 
-1973-23 1976-15 ss. 2, 5(1), 21(2), 30, 39, 48(1)
+1973-23 1976-15 ss. 2, 5(1), 21(2), 30, 39, 48(1) 1984-08 s. 65(2) 29.6.1984
 
 Rules made under s.68 and other powers appear under the title Supreme Court.
 
