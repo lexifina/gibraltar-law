@@ -10,7 +10,7 @@ SHOPS (DAYS AND TIMES OF OPENING) REGULATIONS, 1990
 
 22.11.1990
 
-Amending enactments Relevant current provisions Commencement date LN. 1990/179 r. 9 and Sch. 22.11.1990 1991/212 r. 9(5) and Sch. 21.11.1991
+Amending enactments Relevant current provisions Commencement date LN. 1990/179 r. 9 and Sch. 22.11.1990 1991/212 r. 9(5) and Sch. 21.11.1991 1996/048 r. 2 4.4.1996
 
 Shop Hours SHOPS (DAYS AND TIMES OF OPENING) REGULATIONS, 1990
 
