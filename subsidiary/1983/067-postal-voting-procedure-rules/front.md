@@ -14,6 +14,8 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1983/106 r. 12(1), (2), Sch.
 
+1987/146 r. 5(1), (5), Sch. 5.11.1987
+
 Parliament POSTAL VOTING (PROCEDURE) RULES
 
 1950-15

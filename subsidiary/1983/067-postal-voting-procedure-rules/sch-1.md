@@ -1,16 +1,14 @@
-SCHEDULE. Rule 5(4). FORM I.
+SCHEDULE.
+
+Rule 5(4). FORM I.
 
 GIBRALTAR PARLIAMENT ACT.
 
-APPLICATION TO BE REGISTERED AS A POSTAL VOTER AT THE                              ELECTION ON. . . . . . . . . . . . . . . . . .
+APPLICATION TO BE REGISTERED AS A POSTAL VOTER AT  ELECTION   ON. . . . . . . . . . . . . . . . . .
 
 (Please complete in BLOCK LETTERS)
 
-I, (full name) of (full postal address in Gibraltar) being registered as an elector in the register of electors hereby apply to be treated as a postal voter at the election. . . . . . . . .. . . . . . . . . . . . .  because I am unable on polling day to go in person to the polling station allotted to me owing to-
-
-*(a) my being ouside Gibraltar on a full-time/part-time course of study (please specify) at (please specify university or college of further education) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(b) my being outside Gibraltar for health reasons,
-
-*(c) my being ouside Gibraltar for purposes connected with my employment or business within Gibraltar.
+I, (full name ) of (full postal address in Gibraltar) being registered as an elector with electoral  registration number . . . . . . .* in the register of electors hereby apply to be treated as a postal voter at the election. . . . . . . . .. . . . . . . . . . . . .  because I am unable on polling day to go in person to the polling station allotted to me owing to my temporary absence from Gibraltar.
 
 Address to which ballot paper is to be sent. . . . . . . . . . . . . . . . . .
 
@@ -30,47 +28,7 @@ Relationship to applicant. . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signature . . . . . . . . . . . . . . . . . .   Date .. . . . . . . . . . . . . . . . .
 
-Parliament POSTAL VOTING (PROCEDURE) RULES
-
-1950-15
-
-Subsidiary 1983/067 * Delete whichever is inapplicable.
-
-Parliament POSTAL VOTING (PROCEDURE) RULES
-
-1950-15
-
-Subsidiary 1983/067
-
-Rule 5(5).
-
-FORM II.
-
-GIBRALTAR PARLIAMENT ACT.
-
-APPLICATION TO BE REGISTERED AS A POSTAL VOTER AT THE                              ELECTION ON. . . . . . . . . . . . . . . . . .
-
-(Please complete in BLOCK LETTERS)
-
-I, (full name) of (full postal address) being registered as an elector and numbered (registration number) in the register of electors hereby apply to be registered as a postal voter at the election on. . . . . . . . .. . . . . . . . . . . . . because I shall be unable on polling day to go in person to the polling station allotted to me owing to my being outside Gibraltar *(1) by reason of leave, vacation or holiday or *(2) for health reasons or *(3) for purposes connected with my employment or business within Gibraltar..
-
-Address to which ballot paper is to be sent. . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Signature . . . . . . . . . . . . . . . . . .   Date .. . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-* Delete whichever is inapplicable.
-
-Certificate To be completed by the returning officer in the presence of the applicant.
-
-I certify that the statement above was made before me, on the day of                          19      .
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . Signature of Returning Officer.
-
-Note: The application must be completed and signed by the applicant before the returning officer who shall complete the certificate in the presence of the applicant.
+* Electoral registration number to be inserted in the case of persons making their application in Gibraltar.
 
 Parliament POSTAL VOTING (PROCEDURE) RULES
 
