@@ -1,22 +1,16 @@
-Landlord and Tenant LANDLORD AND TENANT  (RESERVE  FUNDS) REGULATIONS, 1987
+Subsidiary Legislation made under s.81(b).
 
-1983-49 Subsidiary 1987/032 Regulations made under s.81(b).
+Landlord and Tenant (Reserve Funds) Regulations, 1987
 
-LANDLORD AND TENANT  (RESERVE  FUNDS) REGULATIONS, 1987
+LN.1987/032
 
-(LN. 1987/032)
-
-1.4.1987
+Commencement 1.4.1987
 
 Amending enactments Relevant current provisions Commencement date
 
-LNs. 1992/060 rr. 4(1), 5(1), (2) and (3), 6(1), (2), 9
+LN. 1992/060 rr. 4(1), 5(1)-(3), 6(1)-(2), 9 1.4.1987 “ rr. 7-9 30.4.1992
 
-1.4.1987
-
-______________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
