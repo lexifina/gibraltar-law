@@ -26,13 +26,13 @@ PART II.
 
 10.00 2. The fee payable to the Director in respect of an application for a renewal of a permit under regulation 7
 
-5.00
+5.00 3.The fee payable to the Director in respect of a notification or application under regulation 15A
+
+20.00
 
 Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
 
-Subsidiary 1994/023 1932-16
-
-PART III.
+Subsidiary 1994/023 1932-16 PART III.
 
 £ The fee payable to the Director in respect of the issue of a replacement certificate under regulation 10(3)
 
