@@ -22,7 +22,7 @@ Act. 1977-31 s.5(3), (6)
 
 1991-12 ss. 6(1), (4), 9, 23(2), 39(1), 44(3), 45(3), 58(1)(a), (2)(f)-(g), (3)- (4), 59(5), 64, 65(2)-(3), 73(2)- (3), 77(1), 78(1)-(3), (6), 79(1), 81(1)-(2), 82-84
 
-17.8.1995 LN. 1996/010 ss. 6(1), (6), 58(2)(g)-(h) 25.1.1996 1996/032 s. 80(2A) 29.2.1996 Act. 1997-01 ss. 6(1), (6), 94-104, Sch.1A 1.6.1997 1997-22 ss. 105-112, Sch. 1B 5.11.1998
+17.8.1995 LN. 1996/010 ss. 6(1), (6), 58(2)(g)-(h) 25.1.1996 1996/032 s. 80(2A) 29.2.1996 Act. 1997-01 ss. 6(1), (6), 94-104, Sch.1A 1.6.1997 1997-22 ss. 105-112, Sch. 1B 5.11.1998 1999-16 ss. 27-30, 60(1), (3), 62(1)(c)(iii) 29.7.1999
 
 Transposing: Directive 86/188/EEC Directive 87/217/EEC Directive 89/391/EEC
 
@@ -54,7 +54,7 @@ PART V. SAFETY (GENERAL PROVISIONS).
 
 Factories
 
-1956-12 24. Vessels containing dangerous liquids. 25. Self-acting machines. 26. Training and supervision of inexperienced workers. 27. Hoists and lifts. 28. Chains, ropes and lifting tackle. 29. Cranes and other lifting machines. 30. Register of chains, ropes and lifting tackle, and lifting machines. 31. Safe means of access and safe place of employment. 32. Precautions in places where dangerous fumes are liable to be present. 33. Precautions with respect to explosive or inflammable dust, gas, vapour or substance. 34. Steam boilers. 35. Steam receivers and steam containers. 36. Air receivers. 37. Exceptions as to steam boilers, steam receivers and steam containers, and air receivers. 38. Precautions as to water-sealed gasholders. 39. Means of escape in case of fire. 40. Regulations as to means of escape and fire fighting equipment. 41. Safety provisions in case of fire. 42. Instructions as to use of means of escape in case of fire. 43. Power of Governor to require special safety arrangements for the prevention of accidents. 44. Power of court to make orders as to dangerous conditions and practices. 45. Power of court to make orders as to dangerous factory. 46. Appeal from orders made on complaint.
+1956-12 24. Vessels containing dangerous liquids. 25. Self-acting machines. 26. Training and supervision of inexperienced workers. 27. Repealed. 28. Repealed. 29. Repealed. 30. Repealed. 31. Safe means of access and safe place of employment. 32. Precautions in places where dangerous fumes are liable to be present. 33. Precautions with respect to explosive or inflammable dust, gas, vapour or substance. 34. Steam boilers. 35. Steam receivers and steam containers. 36. Air receivers. 37. Exceptions as to steam boilers, steam receivers and steam containers, and air receivers. 38. Precautions as to water-sealed gasholders. 39. Means of escape in case of fire. 40. Regulations as to means of escape and fire fighting equipment. 41. Safety provisions in case of fire. 42. Instructions as to use of means of escape in case of fire. 43. Power of Governor to require special safety arrangements for the prevention of accidents. 44. Power of court to make orders as to dangerous conditions and practices. 45. Power of court to make orders as to dangerous factory. 46. Appeal from orders made on complaint.
 
 PART VI. WELFARE (GENERAL PROVISIONS).
 
