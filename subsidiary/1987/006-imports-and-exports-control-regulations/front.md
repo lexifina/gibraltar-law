@@ -10,7 +10,7 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995 1995/103 Sch. 1 6.7.1995 1995/114 r. 6A, Sch. 2 16.8.1995
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995 1995/103 Sch. 1 6.7.1995 1995/114 r. 6A, Sch. 2 16.8.1995 1999/165 r. 9 2.12.1999
 
 Transposing: Directive 92/3/Euratom
 
@@ -144,7 +144,11 @@ Subsidiary 1987/006
 
 Licences to export other goods.
 
-9. Subject to the provisions of regulations 7 and 8, no goods shall be exported except under and in accordance with a licence granted by the Collector.
+9. (1) Subject to the provisions of regulations 7 and 8 above, and to subsection (2) below, no goods shall be exported except under and in accordance with a licence granted by the Collector.
+
+(2) Goods which have been the subject of a declaration made under Customs Regime Code E3, of Appendix XI of Volume 1 of the Integrated Tariff may be exported without licence to any country.
+
+(3) In this regulation, “Integrated Tariff” means the Integrated Tariff of Gibraltar published as a sixth supplement to the Gazette under authority of the Import Duty (Integrated Tariff) Regulations 1992.
 
 Restrictions on exports to South Africa.
 
@@ -154,17 +158,17 @@ Conditions of export licences.
 
 11. An export licence granted under regulation 9–
 
-(a) shall be personal to the person named therein and shall not be transferred or assigned without the permission of the Collector;
+Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
+
+1986-21
+
+Subsidiary 1987/006 (a) shall be personal to the person named therein and shall not be transferred or assigned without the permission of the Collector;
 
 (b) may be subject to all or any of the conditions set out in Schedule 5, as the Collector may think fit.
 
 Radioactive waste.
 
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006 11A. Notwithstanding anything contained therein, regulations 7 to 11 shall not apply to radioactive waste, within the meaning of the Transfrontier Shipment of Radioactive Waste Regulations, 1995 where an authorisation has been granted for a shipment thereof under those Regulations.
+11A. Notwithstanding anything contained therein, regulations 7 to 11 shall not apply to radioactive waste, within the meaning of the Transfrontier Shipment of Radioactive Waste Regulations, 1995 where an authorisation has been granted for a shipment thereof under those Regulations.
 
 Appeals.
 
