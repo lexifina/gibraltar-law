@@ -1,8 +1,4 @@
-Leisure Areas (Licensing)
-
-2001-24
-
-LEISURE AREAS (LICENSING) ACT 2001
+Leisure Areas (Licensing) Act 2001
 
 Principal Act
 
@@ -10,9 +6,11 @@ Act. No. 2001-24 Commencement 2.8.2001
 
 Assent 2.8.2001
 
-____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF SECTIONS.
+Act. 2001-30 ss. 5(1), (2)(b)-(c), (5), 8(1) 30.11.2001
+
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -48,11 +46,7 @@ PART IV. REGULATION OF EXTERNAL AREAS AND CATERING SERVICES OF RELEVANT ESTABLIS
 
 9.
 
-Licences for the sale of food, drink and intoxicating liquor in relevant establishments. 10. External areas. 11. Grant or refusal of applications under section 9.
-
-Leisure Areas (Licensing)
-
-2001-24 12. Grant or refusal of applications under section 10. 13. Hours of business of licensed premises. 14. Failure to abide by conditions of licence.
+Licences for the sale of food, drink and intoxicating liquor in relevant establishments. 10. External areas. 11. Grant or refusal of applications under section 9. 12. Grant or refusal of applications under section 10. 13. Hours of business of licensed premises. 14. Failure to abide by conditions of licence.
 
 PART V. COMMON PROVISIONS.
 
@@ -62,7 +56,9 @@ Register of licence. 16.
 
 Issue of licences. 17.
 
-Period covered by licences. 18.
+Period covered by licences.
+
+18.
 
 Cancellation, withdrawal or revocation of licences. 19.
 
@@ -98,6 +94,4 @@ Fees and charges recoverable summarily. 32.
 
 Regulations.
 
-Leisure Areas (Licensing)
-
-2001-24 AN ACT TO MAKE SPECIAL PROVISION FOR THE LICENSING AND REGULATION OF PLACES OF PUBLIC ENTERTAINMENT, PLACES WHERE FOOD, DRINK OR INTOXICATING LIQUOR ARE SOLD OR CONSUMED, AND FOR MATTERS CONNECTED THERETO, IN CERTAIN AREAS OF GIBRALTAR.
+AN ACT TO MAKE SPECIAL PROVISION FOR THE LICENSING AND REGULATION OF PLACES OF PUBLIC ENTERTAINMENT, PLACES WHERE FOOD, DRINK OR INTOXICATING LIQUOR ARE SOLD OR CONSUMED, AND FOR MATTERS CONNECTED THERETO, IN CERTAIN AREAS OF GIBRALTAR.
