@@ -30,7 +30,7 @@ L.N. 1976/073 r. 5
 
 1982/029 r .5(2)
 
-1984/004 r. 5(2) 2.4.1984 1984/098 r. 5(2) 29.11.1984 1985/130 r. 5(2) 28.11.1985 1987/013 r. 5(2) 15.1.1987 1987/151 r. 5(2) 26.11.1987 1988/028 r. 34(3) 18.2.1988 1988/100 r. 5(2) 27.10.1988 1990/084 r. 5(2) 5.7.1990
+1984/004 r. 5(2) 2.4.1984 1984/098 r. 5(2) 29.11.1984 1985/130 r. 5(2) 28.11.1985 1987/013 r. 5(2) 15.1.1987 1987/151 r. 5(2) 26.11.1987 1988/028 r. 34(3) 18.2.1988 1988/100 r. 5(2) 27.10.1988 1990/084 r. 5(2) 5.7.1990 1991/138 rr. 12(1)-(2), 20(1)-(2) 18.7.1991
 
 EU Legislation/International Agreements involved: Directive 94/63/EC Directive 2009/126/EC
 
@@ -46,7 +46,7 @@ Rule.
 
 1. Title. 2. Interpretation.
 
-PART I. – GENERAL PROVISIONS RELATING TO PETROLEUM SHIPS, HULKS AND LIGHTERS.
+PART I. – GENERAL PROVISIONS RELATING TO PETROLEUM SHIPS, HULKS AND LIGHTERS AND OTHER SHIPS.
 
 3. Person in charge of petroleum ship. 4. Marks for petroleum ships. 5. Firemen to attend berthing of petroleum ships. 6. Inspection by Captain of the Port.
 
@@ -58,7 +58,7 @@ Rules for Loading or Discharge of Petroleum Spirit applicable to Petroleum Ships
 
 10. Rules as to loading or discharge.
 
-Rules for Loading or Discharge of Petroleum Spirit applicable to Petroleum Ships, Lighter and Hulks.
+Rules for Loading or Discharge of Petroleum Spirit applicable to Petroleum Ships, Hulks, Lighters and other Ships.
 
 11. Yachts, etc., may bunker at Waterport. 12. Restriction as to loading. 13. Petroleum spirit to be loaded or discharged speedily. 14. Pipes to be free from leakage. 15. Removal of landed petroleum. 16. Leaky packages. 17. Smoking. 18. Fires and lights not to be used on quay. 19. Precautions against fire. 20. Saving.
 
