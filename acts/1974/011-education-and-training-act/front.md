@@ -1,8 +1,8 @@
-Education
+Education and Training
 
 1974-11
 
-EDUCATION ACT
+EDUCATION AND TRAINING ACT
 
 Principal Act
 
@@ -14,11 +14,11 @@ Amending enactments Relevant current provisions Commencement date Acts. 1976-24 
 
 1.2.1988 1990-25 ss. 50 and 73(1) and (2) 7.6.1990 1997-25 ss. 2(1), 54(1), 56(1) and (5), 58(1) and 59
 
-21.8.1997
+21.8.1997 2001-18 ss. 1, 82(1) and (1A) 31.10.2002
 
 English sources: None cited
 
-Education
+Education and Training
 
 1974-11 ARRANGEMENT OF SECTIONS
 
@@ -42,7 +42,7 @@ PART IV. THE STATUTORY SYSTEM OF EDUCATION.
 
 18. Stages of educational system. 19. Provision of primary and secondary schools. 20. Powers to establish primary and secondary schools. 21. Use of school premises. 22. School committees. 23. Appointment, dismissal and transfer of teachers. 24. Appointment of headteachers. 25. Power of suspension.
 
-Education
+Education and Training
 
 1974-11 26. Secular instruction in Government schools. 27. General duties relating to further education. 28. Powers to establish institutions of further education. 29. Committees for colleges of further education. 30. Revision of facilities for recreation, etc.
 
@@ -66,7 +66,7 @@ PART IX. COMPULSORY EDUCATION.
 
 49.  Compulsory school age. 50. Duty of parents to secure the education of their children.
 
-Education
+Education and Training
 
 1974-11 51.  School attendance orders. 52.  Duty of parents to secure regular attendance of registered pupils. 53.  Penalties.
 
@@ -82,7 +82,7 @@ PART XII. MISCELLANEOUS.
 
 73. Fees. 74. General power of inspection of schools. 75. Inspection of Government schools. 76. Powers of Minister as to educational research. 77. Power of the Director as to educational conferences. 78. Power to accept gifts for educational purposes. 79. Reports and returns. 80. Information relating to births and deaths. 81. Provision as to transport. 82. Regulations. 83. Offences and penalties.
 
-Education
+Education and Training
 
 1974-11 84. Provisions as to evidence. 85. Service of notices. 86. Saving as to persons of unsound mind and persons detained by order of a court.
 
@@ -98,4 +98,4 @@ Part II. Committee for College of Further Education.
 
 Part III. Management of Schools and Colleges. A : Instrument of Management. B : Articles of Management.
 
-Education
+Education and Training
