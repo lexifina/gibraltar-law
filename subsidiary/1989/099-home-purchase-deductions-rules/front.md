@@ -12,7 +12,9 @@ HOME PURCHASE (DEDUCTIONS) RULES, 1989
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.1990/078 r.2(2)(c) and (4) 28.6.1990 1992/021 rr. 2, 2A, 3, 6(1), (3) and (4) 1.7.1991 1993/090 rr.2(2)(d) and 2A(d) 1.5.1993 1992/022 r.2(1) 1.7.1993
+LN.1990/078 r.2(2)(c) and (4) 28.6.1990 1992/021 rr. 2, 2A, 3, 6(1), (3) and (4) 1.7.1991 1993/090 rr.2(2)(d) and 2A(d) 1.5.1993 1992/022 r.2(1) 1.7.1993 2002/039 rr. 2(1)(i), (ii), (2)(e) and (2A), 2A(1)(i) and (ii)
+
+1.7.2002
 
 _________________________
 
