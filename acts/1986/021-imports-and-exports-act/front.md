@@ -26,7 +26,7 @@ Imports and Exports
 
 1986-21 1993-23 ss. 8(2)-(7), 9(2) 9.12.1993 1995-04 ss. 2(1), 15(b)(ii), (c), 80(b)(ii), (c)
 
-9.3.1995 1997-34 s. 91 13.11.1997 1996-07 s. 119A 14.1.1999
+9.3.1995 1997-34 s. 91 13.11.1997 1996-07 s. 119A 14.1.1999 2001-15 ss. 91A-91B 6.6.2001
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -156,7 +156,7 @@ PART VIII. SPECIAL PROVISIONS RELATING TO WINES, SPIRITS AND TOBACCO.
 
 Imports and Exports
 
-1986-21 89. Owner may take samples. 90. Repealed. 91.   Repealed.
+1986-21 89. Owner may take samples. 90. Repealed. 91.  Repealed. 91A. Export of tobacco by sea and air. 91B. Exports by land.
 
 PART IX. MISCELLANEOUS.
 
@@ -174,11 +174,13 @@ Procedure in Respect of Offences, Recovery of Duties and Fees, etc.
 
 Offences and Penalties.
 
-102. Importing dutiable goods with intent. 103. Importing concealed goods, etc. 104.  Unloading, etc. with intent. 105. Fraudulent evasion of duty, etc. 106. Unlawful possession of dutiable goods. 107. Assaulting or resisting customs officers. 108. Obstructing customs officers, etc. 109. Giving false information. 110. Counterfeiting documents, etc. 111. Breaking seals, etc. 112. Forfeiture of ship jettisoning cargo, etc. 113. Unlawful opening of stores. 114. Other offences relating to storage. 115. Offences by corporations. 116.  Assessment of ad valorem penalties. 117. General penalty.
+102. Importing dutiable goods with intent. 103. Importing concealed goods, etc. 104.  Unloading, etc. with intent. 105. Fraudulent evasion of duty, etc. 106. Unlawful possession of dutiable goods. 107. Assaulting or resisting customs officers. 108. Obstructing customs officers, etc. 109. Giving false information. 110. Counterfeiting documents, etc. 111. Breaking seals, etc. 112. Forfeiture of ship jettisoning cargo, etc. 113. Unlawful opening of stores. 114. Other offences relating to storage. 115. Offences by corporations. 116.  Assessment of ad valorem penalties.
 
 Imports and Exports
 
-1986-21 Rewards.
+1986-21 117. General penalty.
+
+Rewards.
 
 118. Rewards.
 
@@ -210,11 +212,11 @@ PART XII REPEAL.
 
 SCHEDULE 1.
 
-CUSTOMS TARIFF
-
 Imports and Exports
 
-1986-21 SCHEDULE 2. Revoked by 1990-01
+1986-21 CUSTOMS TARIFF
+
+SCHEDULE 2. Revoked by 1990-01
 
 SCHEDULE 3. Provisions relating to forfeiture.
 
