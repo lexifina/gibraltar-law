@@ -22,17 +22,13 @@ Labelling of permitted preservatives
 
 3.  The figures and the letters in any statement to which the preceding paragraph applies–
 
-Food and Drugs PRESERVATIVES IN FOOD REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/042 (a) shall be in characters of uniform colour and size (being not less than 1.5 millimetres in height for a label on a container of which the greatest dimension does not exceed 12 centimetres, and not less than 3 millimetres in height for a label on a container of which the greatest dimension exceeds 12 centimetres), but so that the initial letter of any word may be taller than any other letter in the word;
+(a) shall be in characters of uniform colour and size (being not less than 1.5 millimetres in height for a label on a container of which the greatest dimension does not exceed 12 centimetres, and not less than 3 millimetres in height for a label on a container of which the greatest dimension exceeds 12 centimetres), but so that the initial letter of any word may be taller than any other letter in the word;
 
 (b) shall appear on a contrasting ground, so however that where there is no ground other than such as is provided by a transparent container and the contents of that container are visible behind the letters, those contents shall be taken to be the ground for the purposes of this paragraph;
 
 (c) shall be within a surrounding line and no other written or pictorial matter shall appear within that line.
 
-4.(1)   There shall be printed on each document to which  paragraph (c) of the proviso to regulation 4(1)  refers a true statement–
+4.(1)   There shall be printed on each document to which regulation 4(4) refers a true statement–
 
 (a) of the common or usual name or an appropriate designation of the food to which the document relates;
 
@@ -50,20 +46,8 @@ Subsidiary 1987/042 (a) shall be in characters of uniform colour and size (being
 
 (c) shall be within a surrounding line and no other written or pictorial matter shall appear within that line.
 
-Food and Drugs PRESERVATIVES IN FOOD REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/042
-
 6. For the purpose of this Schedule-
 
 (a) the height of any lower case letter shall be taken to the x-height thereof, disregarding any ascender or descender thereof;
 
 (b) any requirement that figures or letters shall be of uniform height, colour or size, shall be construed as being subject to the saving that any inconsiderable variation in height, colour or size, as the case may be, may be disregarded.
-
-Food and Drugs PRESERVATIVES IN FOOD REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/042

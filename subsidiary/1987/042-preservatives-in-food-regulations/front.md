@@ -1,20 +1,18 @@
-Food and Drugs PRESERVATIVES IN FOOD REGULATIONS, 1987
+Subsidiary Legislation made under ss. 6, 8 and 58.
 
-1964-07
+Preservatives in Food Regulations, 1987
 
-Subsidiary 1987/042 Regulations made under sections 6, 8 and 58.
+LN.1987/042
 
-PRESERVATIVES IN FOOD REGULATIONS, 1987
+Commencement 1.8.1987
 
-(LN. 1987/042)
+Amending enactments Relevant current provisions Commencement date
 
-1.8.1987
+1990/071 regs. 2-4, 6-7, 9, 11, Schs.1-2 1.7.1990
 
-EU Legislation/International Agreements involved: Directive 65/66/EEC
+Transposing: Directive 65/66/EEC
 
-_______________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -33,7 +31,3 @@ SCHEDULE 3.
 SCHEDULE 4.
 
 SCHEDULE 5.
-
-SCHEDULE 6.
-
-Food and Drugs PRESERVATIVES IN FOOD REGULATIONS, 1987
