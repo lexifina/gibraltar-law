@@ -8,9 +8,15 @@ VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
 [1958.04.01]
 
-_____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS
+LN. 1986/005 r. 30(3) 30.1.1986
+
+Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
+
+2005-26
+
+Subsidiary [1958.04.01] ARRANGEMENT OF REGULATIONS
 
 Regulation.
 
@@ -22,13 +28,13 @@ PART I. MOTOR VEHICLES
 
 Motor Vehicles Generally
 
-4. Construction. 5. Ability to reverse. 6. Dimensions. 7. Oversized vehicles to be marked. 8. Weight to be marked. 9. Maximum weight. 10. Maximum weights on heavy traffic roads. 11. Weight restrictions on specified roads. 12. Restrictions on container traffic. 13. Distribution of weight. 14. Springs. 15. Tracks. 16. Condition of tyres and tracks. 17. Brakes. 18. Parking brake. 19. Stop lights. 20. Direction indicators. 21. Speed indicator.
+4. Construction. 5. Ability to reverse. 6. Dimensions. 7. Oversized vehicles to be marked. 8. Weight to be marked. 9. Maximum weight. 10. Maximum weights on heavy traffic roads. 11. Weight restrictions on specified roads. 12. Restrictions on container traffic. 13. Distribution of weight. 14. Springs. 15. Tracks. 16. Condition of tyres and tracks. 17. Brakes. 18. Parking brake. 19. Stop lights. 20. Direction indicators. 21. Speed indicator. 22. Maintenance of speed indicator. 23. View to front. 24. Mirrors. 25. Maintenance of glass. 26. Safety glass. 27. Windscreen wipers. 28. Maintenance of brakes, steering gear and wind-screen wiper. 29. Warning instruments. 30. Silencers and exhaust pipes. 31. Maintenance of vehicles so as not to emit smoke, etc. 32. Excessive noise from faulty adjustment, etc.
 
 Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
 2005-26
 
-Subsidiary [1958.04.01] 22. Maintenance of speed indicator. 23. View to front. 24. Mirrors. 25. Maintenance of glass. 26. Safety glass. 27. Windscreen wipers. 28. Maintenance of brakes, steering gear and wind-screen wiper. 29. Warning instruments. 30. Silencers and exhaust pipes. 31. Maintenance of vehicles so as not to emit smoke, etc. 32. Excessive noise from faulty adjustment, etc. 33. Wings. 34. Mascots.
+Subsidiary [1958.04.01] 33. Wings. 34. Mascots.
 
 Special Provisions relating to all Public Serice Vehicles
 
@@ -42,15 +48,17 @@ Special Provisions relating to Motor Cycles.
 
 55.  Sidecars on motor cycles.
 
-Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
-
-2005-26
-
-Subsidiary [1958.04.01] PART II. HORSE DRAWN VEHICLES
+PART II. HORSE DRAWN VEHICLES
 
 56. Identification number on hackney carriages. 57. Owner's name on vehicles other than hackney carriages. 58. Brakes on horse-drawn vehicles. 59. Use of serreta. 60. Shaft rests to be provided.
 
 PART III. BICYCLES.
+
+Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
+
+2005-26
+
+Subsidiary [1958.04.01]
 
 61.  Brakes on bicycles. 62.  Efficiency of braking systems. 63.  Exemptions. 64.  Powers of police officers.
 
@@ -68,11 +76,7 @@ Obligatory Reflectors.
 
 Exceptions.
 
-Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
-
-2005-26
-
-Subsidiary [1958.04.01] 80.  Vehicles drawn or propelled by hand. 81.  Stationary vehicles. 82.  Vehicles brought temporarily into Gibraltar. 83.  Existing vehicles.
+80.  Vehicles drawn or propelled by hand. 81.  Stationary vehicles. 82.  Vehicles brought temporarily into Gibraltar. 83.  Existing vehicles.
 
 Penalty
 
