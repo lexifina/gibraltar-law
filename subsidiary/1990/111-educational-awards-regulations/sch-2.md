@@ -6,9 +6,9 @@ STUDENT’S REQUIREMENTS.
 
 PART I–ORDINARY MAINTENANCE.
 
-1. Rate for any establishment within the City of London or the Metropolitan Police District – £3422.
+1. Rate for any establishment within the City of London or the Metropolitan Police District – £3430.
 
-2. Rate for any other establishment in the United Kingdom £2783.
+2. Rate for any other establishment in the United Kingdom £2790.
 
 Note: This Part represents the student’s annual requirements for his maintenance in respect of his attendance at the course during term.
 
@@ -44,13 +44,13 @@ Subsidiary 1990/111 1974-11 establishment and thereby incurs necessary travellin
 
 8. Where the course of study requires the student to study at an establishment abroad for at least one term the following rates are substituted for those set out in Part I of this Schedule–
 
-(a) if the establishment is in Finland, Japan, Norway or the United States of America – £4300;
+(a) if the establishment is in Finland, Japan, Norway or the United States of America – £4309;
 
-(b)  if the establishment is in Austria, Canada, Denmark, France, the Federal Republic of Germany, the Republic of Ireland, The Netherlands, Sweden or Switzerland – £3789;
+(b)  if the establishment is in Austria, Canada, Denmark, France, the Federal Republic of Germany, the Republic of Ireland, The Netherlands, Sweden or Switzerland – £3799;
 
-(c) if the establishment is in Belgium, Hong Kong, Indonesia, Italy, Luxembourg or the Union of the Soviet Socialist Republics – £3285;
+(c) if the establishment is in Belgium, Hong Kong, Indonesia, Italy, Luxembourg or the Union of the Soviet Socialist Republics – £3292;
 
-(d) if the establishment is in any other country (other than the United Kingdom) – £2783.
+(d) if the establishment is in any other country (other than the United Kingdom) – £2790.
 
 Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
 
