@@ -10,7 +10,9 @@ Act. No. 1981-15 Commencement 1.9.1981
 
 Assent 23.7.1981
 
-Amending enactments Relevant current provisions Commencement date Acts. 1981-18 s.13 1983-15 s.15A 1984-04 ss.10(2)(c)(i) and 10(3)(a) 19.4.1984
+Amending enactments Relevant current provisions Commencement date Acts. 1981-18 s.13 1983-15 s.15A 1984-04 ss.10(2)(c)(i) and 10(3)(a) 19.4.1984 1985-03 ss.15B, 15C, 15D, 15E, 15F, 15G and 15H
+
+24.1.1985
 
 Development Aid
 
@@ -32,11 +34,19 @@ Issue of Licences.
 
 Benefits under Licences.
 
-14. Relief of gains and profits from income tax. 15. Relief of dividends from income tax. 15A.  Relief from import duty.
+14. Relief of gains and profits from income tax. 15. Relief of dividends from income tax. 15A.  Relief from import duty. 15B.  Rating relief for residential hereditaments in development projects. 15C. Rating Relief for non residential hereditaments in development projects. 15D. 15E.
+
+15F.
+
+15G. 15H.
 
 Miscellaneous Provisions.
 
-16. Cancellation of licences. 17. Applications for review. 18. Publication of decisions. 19. Power of Commissioner to defer assessment. 20. Regulations. 21. Repealed. 22-23. Repealed
+16. Cancellation of licences. 17. Applications for review. 18. Publication of decisions. 19. Power of Commissioner to defer assessment.
+
+Development Aid
+
+1981-15 20. Regulations. 21. Repealed. 22-23. Repealed
 
 Development Aid
 
