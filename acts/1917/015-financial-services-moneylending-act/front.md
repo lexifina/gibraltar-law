@@ -20,6 +20,10 @@ Acts. 1934- 27 ss. 2, 3(2), (5), 4, 10-13, 15, 17-18, Sch.
 
 1983-12 s. 12(1)
 
+1995-15 ss. 4, 5(1)(3), 12, 13(1), 16, 17, 19(2)
+
+1.2.1996
+
 English Sources
 
 Betting and Loans (Infants) Act 1892 (55 & 56 Vict.c.4) Money-Lenders Act 1900 (63 & 64 Vict.c.51) Money-Lenders Act 1901 (1 & 2 Geo.5 c.38) Money-Lenders Act 1927 (17 & 18 Geo.5 c.21)
