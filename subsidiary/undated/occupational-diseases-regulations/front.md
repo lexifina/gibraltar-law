@@ -16,6 +16,8 @@ Regs of 14.10.1954 rr. 6(3), 7(3), and 15(1)
 
 LN. 1980/079 rr. 2(1), 3 and 3A and Sch.1
 
+2000/057 Sch. 1 3.8.2000
+
 Social Security (Employment Injuries Insurance) OCCUPATIONAL DISEASES REGULATIONS
 
 1952-10
@@ -274,29 +276,29 @@ Social Security (Employment Injuries Insurance) OCCUPATIONAL DISEASES REGULATION
 
 1952-10
 
-Subsidiary 1952.06.26-4 or any of its homologues. (j)  Tetrachlorethane The use or handling of, or exposure to the fumes of, or vapour containing, tetrachlorethane. (k)  Tri-cresyl phosphate The use or handling of, or exposure to the fumes of, or vapour containing, tri-cresyl phosphate. (l)  Tri-phenyl phosphate The use or handling of, or exposure to the fumes of, or vapour containing, tri-phenyl phosphate. (m)  Diethylene Dioxide (dioxan) The use or handling of, or exposure to the fumes of, or vapour containing, diethylene dioxide (dioxan). (n)  Methyl-bromide The use or handling of, or exposure to the fumes of, or vapour containing, methyl bromide. (o) Chlorinated naphthalene (excluding the condition known as chlor-acne) The use or handling of, or exposure to the fumes of, or dust or vapour containing, chlorinated naphthalene. (p)  Nickel carbonyl Exposure to nickel carbonyl gas. (q)  Nitrous fumes The use or handling of nitric acid or exposure to nitrous fumes. (r)  Beryllium The use or handling of, or exposure to the fumes, dust or vapour of, beryllium, or a compound of beryllium, or a substance containing beryllium. 2.  Anthrax The handling of wool, hair, bristles, hides or skins or other animal products or residues or contact with animals infected with anthrax. 3.  Glanders Contact with equine animals or their carcasses.
+Subsidiary 1952.06.26-4 or any of its homologues. (j)  Tetrachlorethane The use or handling of, or exposure to the fumes of, or vapour containing, tetrachlorethane. (k)  Tri-cresyl phosphate The use or handling of, or exposure to the fumes of, or vapour containing, tri-cresyl phosphate. (l)  Tri-phenyl phosphate The use or handling of, or exposure to the fumes of, or vapour containing, tri-phenyl phosphate. (m)  Diethylene Dioxide (dioxan) The use or handling of, or exposure to the fumes of, or vapour containing, diethylene dioxide (dioxan). (n)  Methyl-bromide The use or handling of, or exposure to the fumes of, or vapour containing, methyl bromide. (o) Chlorinated naphthalene (excluding the condition known as chlor-acne) The use or handling of, or exposure to the fumes of, or dust or vapour containing, chlorinated naphthalene. (p)  Nickel carbonyl Exposure to nickel carbonyl gas. (q)  Nitrous fumes The use or handling of nitric acid or exposure to nitrous fumes. (r)  Beryllium The use or handling of, or exposure to the fumes, dust or vapour of, beryllium, or a compound of beryllium, or a substance containing beryllium. (s)  Halogen derivatives of hydrocarbons of the aliphatic series. The use or handling of, or exposure to the fumes, dust or vapour containing halogen derivatives of hydrocarbons of the aliphatic series. 2.  Anthrax The handling, loading and unloading or transport of merchandise or of animal carcasses or parts of such carcasses including hides, hoofs and horns or work in connection with animals infected with anthrax. 3.  Glanders Contact with equine animals or their carcasses.
 
-Any occupation involving:- 4.  Infection by leptospira ictero-haemorrhagiae Work in rat-infested places. 4.  Ankylostomiasis Work in or about a quarry or underground working. 6.(a)  Ulceration of the corneal surface of the eye;
+Any occupation involving:- 4.  Infection by leptospira ictero-haemorrhagiae Work in rat-infested places. 4.  Ankylostomiasis Work in or about a quarry or underground working. 6.(a)  Ulceration of the corneal surface of the eye; The use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including
+
+Social Security (Employment Injuries Insurance) OCCUPATIONAL DISEASES REGULATIONS
+
+1952-10
+
+Subsidiary 1952.06.26-4
 
 (b)  localised new growth of the skin papillomatous or keratotic;
 
-(c)  epitheliomatous cancer The use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
-
-Social Security (Employment Injuries Insurance) OCCUPATIONAL DISEASES REGULATIONS
-
-1952-10
-
-Subsidiary 1952.06.26-4 or ulceration of the skin, due in any case to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances. 7.(a)  Chrome ulceration
+(c)  epitheliomatous cancer or ulceration of the skin, due in any case to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances. paraffin), soot or any compound, product, or residue of any of these substances. 7.(a)  Chrome ulceration
 
 (b)  Inflammation or ulceration of the skin or of the mucous membrane of the upper respiratory passages or mouth produced by dust, liquid or vapour (including the condition known as chlor-acne but excluding chrome ulceration) The use or handling of chromic acid, chromate or bichromate of ammonium, potassium, sodium, or zinc, or any preparation or solution containing any of these substances.
 
-Exposure to dust, liquid or vapour. 8.  Inflammation, ulceration or malignant disease of the skin or subcutaneous tissues of the bones, or leukaemia, or anaemia of the aplastic type, due to X-rays, ionizing particles, radium or other radio-active substances or inflammation of the skin due to other forms of radiant energy. Exposure to X-rays, ionising particles, radium or other radio-active substance or other forms of radiant energy. 9.  Cataract produced by exposure to the glare of, or rays from, molten glass or molten red-hot metal. Frequent or prolonged exposure to the glare of, or rays from, molten glass or molten red- hot metal. 10.  Compressed air illness Subjection to compressed air. 11.  Telegraphist’s cramp The use of Morse-key telegraphic instruments for prolonged periods. 12.  Writer’s cramp Handwriting for prolonged periods. 13.  Subcutaneous cellulitis of the hand (Beat hand) Manual labour causing severe or prolonged friction or pressure on the hand. 14.  Subcutaneous cellulitis or acute bursitis arising at or Manual labour causing severe or prolonged friction or pressure at or about the knee.
+Exposure to dust, liquid or vapour. 8.  Pathological manifestations due to x- rays, radium or other radioactive substances. Exposure to X-rays, ionising particles, radium or other radio-active substance or other forms of radiant energy. 9.  Cataract produced by exposure to the glare of, or rays from, molten glass or molten red-hot metal. Frequent or prolonged exposure to the glare of, or rays from, molten glass or molten red- hot metal. 10.  Compressed air illness Subjection to compressed air. 11.  Telegraphist’s cramp The use of Morse-key telegraphic instruments for prolonged periods. 12.  Writer’s cramp Handwriting for prolonged periods. 13.  Subcutaneous cellulitis of the hand (Beat hand) Manual labour causing severe or prolonged friction or pressure on the hand. 14.  Subcutaneous cellulitis or acute bursitis arising at or about the knee (Beat knee). Manual labour causing severe or prolonged friction or pressure at or about the knee.
 
 Social Security (Employment Injuries Insurance) OCCUPATIONAL DISEASES REGULATIONS
 
 1952-10
 
-Subsidiary 1952.06.26-4 about the knee (Beat knee). 15.  Subcutaneous cellulitis or acute bursitis arising at or about the elbow (Beat elbow). Manual labour causing severe or prolonged friction or pressure at or about the elbow. 16.  Inflammation of the synovial lining of the wrist joint and tendon sheaths. Manual labour, or frequent or repeated movements of the hand or wrist. 17.  Miner’s nystagmus. Work in or about a mine or underground working. 18.  Viral hepatitis. (a)  Close and frequent contact with human blood or human blood products; or
+Subsidiary 1952.06.26-4 15.  Subcutaneous cellulitis or acute bursitis arising at or about the elbow (Beat elbow). Manual labour causing severe or prolonged friction or pressure at or about the elbow. 16.  Inflammation of the synovial lining of the wrist joint and tendon sheaths. Manual labour, or frequent or repeated movements of the hand or wrist. 17.  Miner’s nystagmus. Work in or about a mine or underground working. 18.  Viral hepatitis. (a)  Close and frequent contact with human blood or human blood products; or
 
 (b)  Close and frequent contact with a source of viral hepatitis infection by reason of employment in the medical treatment or nursing of a person or persons suffering from viral hepatitis, or in a service auxiliary to such treatment or nursing. 19.  Tuberculosis. Close and frequent contact with a source or sources of tuberculous infection by reason of employment–
 
@@ -308,6 +310,6 @@ Subsidiary 1952.06.26-4 about the knee (Beat knee). 15.  Subcutaneous cellulitis
 
 (d)  as a laboratory worker, pathologist or person taking part in or assisting at post- mortem examinations of human remains where the occupation involves working with material which is a source or tuberculous infection.
 
-PART II.
+PART II. OCCUPATION IN RESPECT OF WHICH PNEUMOCONIOSIS IS PRESCRIBED.
 
 Social Security (Employment Injuries Insurance) OCCUPATIONAL DISEASES REGULATIONS
