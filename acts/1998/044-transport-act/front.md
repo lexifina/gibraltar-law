@@ -8,6 +8,8 @@ Principal Act
 
 Act. No. 1998-44 Commencement s 69 4.8.1999
 
+7.9.2000
+
 Assent
 
 3.9.1998
