@@ -12,7 +12,7 @@ HOME PURCHASE (DEDUCTIONS) RULES, 1989
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.1990/078 r.2(2)(c) and (4) 28.6.1990
+LN.1990/078 r.2(2)(c) and (4) 28.6.1990 1992/021 rr. 2, 2A, 3, 6(1), (3) and (4) 1.7.1991
 
 _________________________
 
@@ -20,6 +20,6 @@ ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title. 2. Deduction for payments towards house purchase. 3. Carry over of relief. 4. Joint ownership. 5. Provisional refund. 6. Forfeiture of deduction. 7. Repeal of section 26A of the Act.
+1. Title. 2. Deduction for payments towards house purchase for own residential occupation. 2A. Deductions for payments towards house purchase for child’s residential occupation. 3. Carry over of relief. 4. Joint ownership. 5. Provisional refund. 6. Forfeiture of deduction. 7. Repeal of section 26A of the Act.
 
 Income Tax HOME PURCHASE (DEDUCTIONS) RULES, 1989
