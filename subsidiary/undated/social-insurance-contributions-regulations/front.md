@@ -32,7 +32,7 @@ reg. of 19.5.1966 – LN. 1973/062 – 1974/111 rr. 4(6), 11(1A), (3), 13, 14(2)
 
 1982/085 –
 
-1983/103 r. 20 1984/093 r. 20 1.1.1985 1985/139 rr. 14, 20 1.1.1986 1986/123 rr. 11(6)(a), Sch. 1.9.1986 “ r. 20 1.1.1987
+1983/103 r. 20 1984/093 r. 20 1.1.1985 1985/139 rr. 14, 20 1.1.1986 1986/123 rr. 11(6)(a), Sch. 1.9.1986 “ r. 20 1.1.1987 1987/167 r. 20 1.1.1988 1988/105 r. 11A 1.1.1988
 
 Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
 
@@ -54,7 +54,7 @@ PART II.–CONTRIBUTIONS.
 
 PART III.–CREDITS.
 
-10. Unemployment. 11. Credits for incapacity. 12. Unemployment and incapacity in same week. 13. Widows. 14. Full-time education, unpaid apprenticeship and training. 15. Maternity. 16. Pre-entry credits. 17. Contributions and credits to be taken into account.
+10. Unemployment. 11. Credits for incapacity. 11A. Contribution credits for unemployed over 60 years of age. 12. Unemployment and incapacity in same week. 13. Widows. 14. Full-time education, unpaid apprenticeship and training. 15. Maternity. 16. Pre-entry credits. 17. Contributions and credits to be taken into account.
 
 PART IV.–ARREARS.
 
