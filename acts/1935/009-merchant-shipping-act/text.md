@@ -14,7 +14,9 @@ Amending enactment Relevant current provisions Commencement date Act. 1950-11 s.
 
 Merchant Shipping
 
-1935-09
+1935-09 2002-24 ss. 2(1), 3A-3H, 132A- 132R, 181(g)(h), 183-184, 223A. Schs. 1A, 3
+
+1.3.2003
 
 Notes: Rules of court made under s.148 and under other powers appear under the title Supreme Court.
 
