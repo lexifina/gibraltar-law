@@ -14,14 +14,14 @@ Post Office POSTAL ORDER REGULATIONS
 
 Subsidiary 1961.10.10-2
 
-25p to £1
+50p and £1
 
-28p
+28p £2 to £4
 
-£2 to £10
+46p £5 to £10
 
-85p
+66p £15
 
-£20
+78p £20
 
-78p.
+90p
