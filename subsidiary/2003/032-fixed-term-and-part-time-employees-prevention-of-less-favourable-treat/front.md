@@ -1,0 +1,47 @@
+Employment THE FIXED-TERM EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
+
+1932-16
+
+Subsidiary 2003/032 Regulations made under s.86.
+
+THE FIXED-TERM EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
+
+(LN. 2003/032)
+
+1.4.2003
+
+________________________
+
+Implementing: Directive 1999/70/EC
+
+Employment THE FIXED-TERM EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
+
+1932-16
+
+Subsidiary 2003/032 ARRANGEMENT OF REGULATIONS.
+
+Regulation
+
+PART I GENERAL AND INTERPRETATION
+
+1. Title, commencement and interpretation. 2. Comparable employees.
+
+PART II RIGHTS AND REMEDIES
+
+3. Less favourable treatment of fixed-term employees. 4. Objective justification. 5. Right to receive a written statement of reasons for less favourable treatment. 6. Unfair dismissal and the right not to be subjected to detriment. 7. Complaints to industrial tribunals etc. 8. Successive fixed-term contracts. 9. Right to receive written statement of change.
+
+PART III MISCELLANEOUS
+
+10. Liability of employers and principals.
+
+PART IV SPECIAL CLASSES OF PERSON
+
+11. Crown employment. 12. Government training schemes etc. 13. Agency workers. 14. Apprenticeship.
+
+SCHEDULE 1 WORKFORCE AGREEMENTS
+
+Employment THE FIXED-TERM EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
+
+1932-16
+
+Subsidiary 2003/032 In exercise of his powers under section 86 of the Employment Act, and all other enabling powers, and in order to implement Council Directive 1999/70/EC concerning the framework agreement on fixed term work, the Minister has made the following regulations–
