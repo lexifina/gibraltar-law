@@ -20,9 +20,11 @@ Acts. 1985-11 ss. 16, 22(1) and (4), 23(6)(a), 26(4)(b), 29(3), 30(1), 80A, 81(b
 
 1.7.1985 1985-17 ss.1(2), 22 and 83 1.7.1985 1985-27 ss.62(3), 69 and Sch.5 1.1.1986 1987-22 s.33(9) 29.10.1987 1988-38 ss. 4A and 79A 15.12.1988 1989-29 ss.3(1)(b) and (c), 22, 35, 36A and 69(2A)
 
-10.8.1989 1990-32 ss.5 and 22(3) 1.11.1990
+10.8.1989 1990-32 ss.5 and 22(3) 1.11.1990 1991-37 ss.2(1), 3(1)(a), (b)(i) and (iii) and (c), (2), (3) and (4), 5(1) and (2), 6(2), 18(3)(a)(ii) and (11), 23(3) and (6), 25(2), 27(2) and (4)(c), 28, 29(3) and (4), 32(2), 33(6), 38(3) and (4), 42, 81(f) and (g), Sch.1, Sch. 6 and Sch. 7
 
-1 Notice of Commencement LN. 1985/124
+2.4.19922
+
+1 Notice of Commencement LN. 1985/124 2 Notice of Commencement LN. 1992/047
 
 Landlord and Tenant
 
@@ -67,5 +69,9 @@ SCHEDULE 3. Provisions for the purpose of Part IV where the immediate landlord i
 SCHEDULE 4. Transitional provisions.
 
 SCHEDULE 5. Recovery of business premises.
+
+SCHEDULE 6. Tenant's liability to repairs
+
+SCHEDULE 7. Furniture to be provided if property is let furnished
 
 Landlord and Tenant

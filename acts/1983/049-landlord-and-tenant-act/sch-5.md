@@ -31,3 +31,7 @@ Landlord and Tenant
 4. In addition to the compensation payable under paragraphs 2 and 3 of this Part of this Schedule, the court may, in any particular case where the tenant has at his own expense during the current tenancy effected structural alterations of a permanent nature to the holding, order that for the purpose of section 49(2) additional compensation not exceeding 3 times the net annual value of the holding or 5/6 of the actual annual rental payable under the current tenancy (whichever is the greater) shall also be payable by the landlord to the tenant.
 
 5. In this Part of this Schedule, references to the net annual value and to the actual rental value are references to such values at the date on which the application for the grant of the new tenancy is determined.
+
+Landlord and Tenant
+
+1983-49
