@@ -40,6 +40,8 @@ Act. 1983-20 s. 9(1A)
 
 LN. 1983/100 Schs. 2-3
 
+1984/096 Sch. 2 25.12.1984
+
 English Source National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
 Social Security (Non-Contributory Benefits and Unemployment Insurance)

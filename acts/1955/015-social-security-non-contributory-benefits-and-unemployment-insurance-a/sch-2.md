@@ -10,17 +10,17 @@ RETIREMENT PENSIONS. Section 6 and 7
 
 (b) in any other case
 
-£15.60
+£16.40
 
-£31.00
+£32.60
 
 -
 
-£15.60
+£16.40
 
-£5.70
+£6.00
 
-£5.70
+£6.00
 
 Social Security (Non-Contributory Benefits and Unemployment Insurance)
 
