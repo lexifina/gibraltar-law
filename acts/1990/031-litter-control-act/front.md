@@ -12,7 +12,7 @@ Enactment 30.5.1990
 
 Assent 14.6.1990
 
-Amending enactment Relevant current provisions Commencement date L.N. 1991/023 Sch. 1 31.1.1991
+Amending enactment Relevant current provisions Commencement date L.N. 1991/023 Sch. 1 31.1.1991 Act. 1991-09 s. 4(e), 5(7), Sch. 2 9. 5.1991
 
 Litter Control
 
