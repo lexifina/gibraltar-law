@@ -8,9 +8,11 @@ HANDICAPPED CHILDREN (ASSESSMENT PANEL) REGULATIONS
 
 11.8.1977
 
-_________________________
+Amending enactments Relevant current provisions Commencement date LN. 1988/003 r.3 1.2.1988
 
-ARRANGEMENT OF REGULATIONS
+Education and Training HANDICAPPED CHILDREN (ASSESSMENT PANEL) REGULATIONS
+
+Subsidiary 1977/110 1974-11 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
