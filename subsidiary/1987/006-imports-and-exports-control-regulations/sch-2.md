@@ -12,7 +12,7 @@ PART I.
 
 PART II.
 
-1. Butter. 2. Flour. 3. Frozen meat except as a constituent of another whole product. 4. Lard (Compound). 5. Margarine. 6. Milk. 7. Edible cooking oil. 8. Sugar. 9. Potatoes. 10. Eggs. 11. Fresh fruit, fresh vegetables and fresh fish. 12. Mineral and table waters. 13 Goat's milt cheese. 14. Untoasted and leavened brown or white bread, in whole loaves, sliced loaves or rolls except as a constituent of another whole product. 15. Bread and roll making dough, whether fresh or frozen.
+1. Butter. 2. Flour. 3. Frozen meat except as a constituent of another whole product. 4. Lard (Compound). 5. Margarine. 6. Milk. 7. Edible cooking oil. 8. Sugar. 9. Potatoes. 10. Eggs. 11. Fresh fruit, fresh vegetables and fresh fish. 12. Mineral and table waters. 13 Omitted. 14. Untoasted and leavened brown or white bread, in whole loaves, sliced loaves or rolls except as a constituent of another whole product. 15. Bread and roll making dough, whether fresh or frozen.
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
