@@ -14,6 +14,8 @@ Act. 1968-34 s. 13(1), Sch. 1969-29 s. 3A, Sch.
 
 1973-31 s. 13(1)
 
+1990-47 s. 13(1) 15.11.1990
+
 English sources
 
 Poor Prisoners’ Defence Act 1930 (20 & 21 Geo.5 c.32) Summary Jurisdiction (Appeals) Act 1933 (23 & 24 Geo.5 c.38) Legal Aid and Advice Act 1949 (12, 13 & 14 Geo.6 c.51)
@@ -182,9 +184,9 @@ Legal aid and Assistance
 
 Financial conditions of legal assistance.
 
-13. (1)  Subject to this Part legal assistance shall be available for any person whose income does not exceed £750 a year:
+13. (1)  Subject to this Part legal assistance shall be available for any person whose income does not exceed £5,000 a year or such other figure as the Governor may specify by notice in the Gazette:
 
-Provided that a person shall be refused legal assistance if he has a capital of more than £350 unless it appears that he cannot afford to proceed without legal assistance.
+Provided that a person shall be refused legal assistance if he has a capital of more than £350 or such other figure as the Government may specify by notice in the Gazette unless it appears that he cannot afford to proceed without legal assistance.
 
 (2)  Where a person receives legal assistance in connection with any proceedings–
 
@@ -198,11 +200,9 @@ Application and grant of legal assistance.
 
 14.(1) Application for legal assistance in connection with any proceedings shall be made in writing to the Registrar.
 
-(2)  A person applying for legal assistance may, in his application therefor, select from the panel a solicitor or barrister to represent him in the
-
 Legal aid and Assistance
 
-1960-23 proceedings if a certificate is issued to him under subsection (4). If no such selection is made, the Registrar shall select a solicitor or barrister from the panel to represent the person so applying if such a certificate is issued to him.
+1960-23 (2)  A person applying for legal assistance may, in his application therefor, select from the panel a solicitor or barrister to represent him in the proceedings if a certificate is issued to him under subsection (4). If no such selection is made, the Registrar shall select a solicitor or barrister from the panel to represent the person so applying if such a certificate is issued to him.
 
 (3)  The Registrar shall refer the application to a solicitor or barrister on the panel, who shall not be the person selected by the applicant or, as the case may be, by the Registrar under subsection (2), nor a person in the same firm as the person so selected. The solicitor or barrister to whom the application is referred shall investigate the merits of the applicant’s case and report thereon to the Registrar.
 
@@ -218,11 +218,11 @@ Provided that this subsection shall not prejudice the rights of a solicitor or b
 
 (2)  Subject to this Part, a solicitor or barrister acting for a person receiving legal assistance shall be paid fees and costs for so acting out of the Consolidated Fund in accordance with such scale as may be prescribed in accordance with section 19.
 
-(3)  Nothing in this section shall prejudice paragraph (b) of section 12(5) and in particular subsection (2) of this section shall not affect the sums recoverable by virtue of an order for costs made in favour of a person who has received legal assistance or of an agreement for costs so made which provides for taxation.
+(3)  Nothing in this section shall prejudice paragraph (b) of section 12(5) and in particular subsection (2) of this section shall not affect the sums recoverable by virtue of an order for costs made in favour of a person who
 
 Legal aid and Assistance
 
-1960-23
+1960-23 has received legal assistance or of an agreement for costs so made which provides for taxation.
 
 Adaptation of rights to indemnity.
 
@@ -242,11 +242,11 @@ the right to be indemnified shall be treated for the purposes of subsection (3) 
 
 (5)  Nothing in subsections (3) and (4) shall be taken as depriving any person or body of persons of the protection of any law or, save as provided in subsection (4), as conferring any larger right to recover money for the benefit of the Consolidated Fund in respect of any expenses than the person receiving legal assistance would have had if the expenses had been incurred by him.
 
-(6)  When under subsection (3) a person’s right to be indemnified against expenses incurred in connection with any proceedings inures for the benefit of the Consolidated Fund, any sum recovered for the benefit of the Consolidated Fund shall be deducted from the total of all sums payable out
+(6)  When under subsection (3) a person’s right to be indemnified against expenses incurred in connection with any proceedings inures for the benefit
 
 Legal aid and Assistance
 
-1960-23 of the Consolidated Fund in respect of such proceedings and the balance remaining shall be the maximum recoverable from such person under the provisions of section 17(4).
+1960-23 of the Consolidated Fund, any sum recovered for the benefit of the Consolidated Fund shall be deducted from the total of all sums payable out of the Consolidated Fund in respect of such proceedings and the balance remaining shall be the maximum recoverable from such person under the provisions of section 17(4).
 
 Award of costs.
 
@@ -266,7 +266,9 @@ Power of Chief Justice to make rules.
 
 Legal aid and Assistance
 
-1960-23 18. (1)  Subject to the provisions of section 19, the Chief Justice may make such rules as appear to him necessary or desirable for giving effect to this Part or for preventing abuses thereof.
+1960-23
+
+18. (1)  Subject to the provisions of section 19, the Chief Justice may make such rules as appear to him necessary or desirable for giving effect to this Part or for preventing abuses thereof.
 
 (2)  Without prejudice to the generality of subsection (1) or any other provision in this Act authorizing the making of rules, such rules may–
 
