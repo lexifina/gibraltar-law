@@ -20,6 +20,8 @@ LN. 1974/045 rr.6(3) and 11 and Sch.1
 
 1981/064 r.7
 
+1985/064 Sch. 1 1.7.1985
+
 Markets, Street Traders and Pedlars STREET TRADERS AND PEDLARS RULES
 
 1953-13
