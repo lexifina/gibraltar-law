@@ -10,7 +10,7 @@ SEASHORE RULES
 
 2.8.1968
 
-Amending enactments Relevant current provisions Commencement date Regs of 28.5.1970 LN. 1971/100 r. 9 Act. 1972-05 r. 17 LN. 1974/058 rr. 3-4, 14-15 1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989 1989/065 r. 7A 11.8.1989 1991/049 r. 17 4.4.1991
+Amending enactments Relevant current provisions Commencement date Regs of 28.5.1970 LN. 1971/100 r. 9 Act. 1972-05 r. 17 LN. 1974/058 rr. 3-4, 14-15 1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989 1989/065 r. 7A 11.8.1989 1991/049 r. 17 4.4.1991 1991/063 r. 9(1) 18.4.1991
 
 Public Health SEASHORE RULES
 
@@ -88,17 +88,13 @@ Noisy instruments.
 
 Prohibition on dogs.
 
-9. (1) The owner of a dog, and any person in charge of a dog, shall not allow such dog to be on the seashore –
+9. (1)  No person shall cause or suffer any dog belonging to him or being in his charge to be on the seashore at any time.
 
 Public Health SEASHORE RULES
 
 1950-07
 
-Subsidiary 1968.07.04 (a) at any time on any day during the period from the last Saturday in April to the first Sunday in October (inclusive) in any year;
-
-(b) between 10 am and 7.30 pm on any other day.". Dated this 4th day of February, 1988.
-
-(2)  Any dog in respect of which an offence is being committed under this rule may (in the absence of the owner or other person having the custody thereof) be seized and impounded as a stray animal under section 24 of the Animals and Birds Act.
+Subsidiary 1968.07.04 (2)  Any dog in respect of which an offence is being committed under this rule may (in the absence of the owner or other person having the custody thereof) be seized and impounded as a stray animal under section 24 of the Animals and Birds Act.
 
 Broken glass, etc.
 
@@ -126,14 +122,12 @@ Paddling pools.
 
 Wilfully obstructing police officers, etc.
 
-16. No person shall on the seashore wilfully obstruct, disturb or interrupt any police officer or other officer of the Government in the proper discharge
+16. No person shall on the seashore wilfully obstruct, disturb or interrupt any police officer or other officer of the Government in the proper discharge of his duties or any person employed by the Government in the proper execution of any work connected with the improvement, maintenance or regulation of the seashore.
+
+Penalty.
 
 Public Health SEASHORE RULES
 
 1950-07
 
-Subsidiary 1968.07.04 of his duties or any person employed by the Government in the proper execution of any work connected with the improvement, maintenance or regulation of the seashore.
-
-Penalty.
-
-17. A person who offends against any provision of these Rules is liable on summary conviction to a fine at level 3 on the standard scale.
+Subsidiary 1968.07.04 17. A person who offends against any provision of these Rules is liable on summary conviction to a fine at level 3 on the standard scale.
