@@ -30,7 +30,7 @@ Acts. 1889-07 s. 36
 
 1.7.1986 1991-19 ss. 6, 8, 10(2), 11, 12, 13(3), 16(4), 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 35(1), (3), 36(3), 37, 39(3)
 
-18.7.1991
+18.7.1991 1993-22 ss. 10, 11 and 13(1) 16.12.1993
 
 English and Scottish sources
 
@@ -64,7 +64,7 @@ Registration of Births.
 
 10.
 
-Information concerning birth to be given to the Registrar. 11.
+Information concerning birth, by whom to be supplied. 11.
 
 Requisition by Registrar of information. 12.
 
