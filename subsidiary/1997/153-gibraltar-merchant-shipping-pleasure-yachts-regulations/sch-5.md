@@ -1,0 +1,17 @@
+SCHEDULE 5 Regulation 21 ENTRY OF PROVISIONAL REGISTRATION AND PROVISIONAL CERTIFICATE OF REGISTRY
+
+Particulars to be recorded on the Register in respect of a provisional registration. (Items marked * to be included in a Provisional Certificate of Registry)
+
+1. Pleasure yacht’s name* or, in the case of a pleasure yacht under construction proposed name 2. Pleasure yacht’s Official Number* 3. Type of pleasure yacht and material of construction* 4. Approximate dimensions of pleasure yacht* 5. Particulars of engines and number of engines* (in the case of a pleasure yacht under construction, if known) 6. Hull number* or, in the case of a pleasure yacht under construction, yachtbuilder’s Newbuild No or Yard No. 7. Approximate gross and net tonnage* 8. Estimated maximum speed* 9. Country of build* 10. Year of build* or, in case of a pleasure yacht under construction, date of keel laying 11. Name and address of pleasure yacht builder* 12. Owner’s(s’) name*, address*, nationality* and occupation 13. Number of shares held in pleasure yacht by each owner* 14. Date and place of purchase of pleasure yacht by owner(s)* (except in the case of pleasure yacht under construction) 15. Number of Provisional Certificate of Registry* 16. Date registered* 17. Date of Issue of Certificate of Provisional Registry* 18. Date of expiration of Certificate of Provisional Registry* 19. Details of representative person and registered agent (if any, in the case of pleasure yacht under construction)
+
+Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
+
+1995-12
+
+Subsidiary 1997/153 20. Details of bill(s) of sale or, in the case of a pleasure yacht under construction, yacht building contract recorded 21. Mortgages and related instruments recorded under regulations 50 and 51
+
+Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
+
+1995-12
+
+Subsidiary 1997/153
