@@ -1,21 +1,19 @@
-Gibraltar Development Corporation GIBRALTAR DEVELOPMENT CORPORATION (EMPLOYER’S INSOLVENCY FUND) RULES, 1991.
+Subsidiary Legislation made under s.23.
 
-Subsidiary 1991/169 1990-16 Rules made under s.23.
+Gibraltar Development Corporation (Employer’s Insolvency Fund) Rules, 1991
 
-GIBRALTAR DEVELOPMENT CORPORATION (EMPLOYER’S INSOLVENCY FUND) RULES, 1991
+LN.1991/169
 
-(LN. 1991/169)
+Commencement 22.8.1991
 
-22.8.1991
+Amending enactments Relevant current provisions Commencement date
 
-______________________________
+LN. 1993/026 r. 5 18.2.1993
 
-ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES
 
 Rule
 
 1. Title. 2. Establishment of the Fund. 3. Revenue of the Fund. 4. Expenditure of the Fund. 5. Investment. 6. Annual accounts.
 
-Gibraltar Development Corporation GIBRALTAR DEVELOPMENT CORPORATION (EMPLOYER’S INSOLVENCY FUND) RULES, 1991.
-
-Subsidiary 1991/169 1990-16 In exercise of the powers conferred on it by Section 23 of the Gibraltar Development Corporation Act 1990, the Gibraltar Development Corporation has made following Rules—
+In exercise of the powers conferred on it by Section 23 of the Gibraltar Development Corporation Act 1990, the Gibraltar Development Corporation has made following Rules—
