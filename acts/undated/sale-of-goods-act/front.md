@@ -1,22 +1,18 @@
-Sale of Goods
-
-1895-20
-
-SALE OF GOODS ACT
+Sale of Goods Act
 
 Principal Act
 
-Act. No.  1895-20 Commencement 26.9.1895 Assent 26.9.1895
+Act. No. 1895-20 Commencement 26.9.1895 Assent 26.9.1895
 
-Amending enactments Relevant current provisions Commencement date 1971-19 - 1972-01 ss. 13(3) and 36 1975-34 ss. 2, 1, 15(2), 16, 55, 55A and 60(4)
+Amending enactments Relevant current provisions Commencement date 1971-19 - 1972-01 ss. 13(3), 36 1975-34 ss. 1, 2, 15(2), 16, 55, 55A, 60(4) 1990-07 s. 16A 13.12.19901
 
 English source
 
 Sale of Goods Act 1893 (56 & 57 Vict. c 71) Supply of Goods (Implied Terms) Act 1973 (1973 c13).
 
-Sale of Goods
+1 Notice of Commencement – LN. 1990/172
 
-1895-20 ARRANGEMENT OF SECTIONS
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -40,19 +36,17 @@ The Price.
 
 Conditions and Warranties.
 
-12. Stipulations as to time. 13. When condition to be treated as warranty. 14. Implied undertaking as to title, etc. 15. Sale by description. 16. Implied conditions as to quality or fitness.
+12. Stipulations as to time. 13. When condition to be treated as warranty. 14. Implied undertaking as to title, etc. 15. Sale by description. 16. Implied conditions as to quality or fitness. 16A. Sale of Toys.
 
 Sale of Sample.
 
 17. Sale by sample.
 
-PART II. EFFECTS OF THE CONTRACT. Transfer of Property as between Seller and Buyer.
+PART II. EFFECTS OF THE CONTRACT.
 
-18. Goods must be ascertained.
+Transfer of Property as between Seller and Buyer.
 
-Sale of Goods
-
-1895-20 19. Property passes when intended to pass. 20. Rules for ascertaining intention. 21. Reservation of right of disposal. 22. Risk prima facie passes with property.
+18. Goods must be ascertained. 19. Property passes when intended to pass. 20. Rules for ascertaining intention. 21. Reservation of right of disposal. 22. Risk prima facie passes with property.
 
 Transfer of Title.
 
@@ -62,7 +56,7 @@ PART III. PERFORMANCE OF THE CONTRACT.
 
 28. Duties of seller and buyer. 29. Payment and delivery are concurrent conditions. 30. Rules as to delivery. 31. Delivery of wrong quantity. 32. Instalment deliveries. 33. Delivery to carrier. 34. Risk where goods are delivered at distant place. 35. Buyer's right of examining the goods. 36. Acceptance. 37. Buyer not bound to return rejected goods. 38. Liability of buyer for neglecting or refusing delivery of goods.
 
-PART  IV. RIGHTS OF UNPAID SELLER AGAINST THE GOODS.
+PART IV. RIGHTS OF UNPAID SELLER AGAINST THE GOODS.
 
 39. Unpaid seller defined. 40. Unpaid seller's rights.
 
@@ -75,10 +69,6 @@ Stoppage in transitu.
 44. Right of stoppage in transitu. 45. Duration of transit. 46. How stoppage in transitu is effected.
 
 Re-sale by Buyer or Seller.
-
-Sale of Goods
-
-1895-20
 
 47. Effect of sub-sale or pledge by buyer. 48. Sale not generally rescinded by lien or stoppage in transitu.
 
@@ -93,5 +83,3 @@ Remedies of the Buyer.
 PART VI. SUPPLEMENTARY.
 
 55. Exclusion of implied terms and conditions. 56. Reasonable time a question of fact. 57. Rights, etc., enforceable by action. 58. Auction sales. 59. Payment into court when breach of warranty alleged. 60. Savings.
-
-Sale of Goods
