@@ -46,10 +46,10 @@ Full rate of grant payable
 
 PART V
 
-(1) (2) (3) (4) Yearly average of contributions paid or credited
+(1) (2) (3) (4) Yearly Average of Contributions paid or Credited
 
-Full rate of grant payable £72.00 £54.00 £36.00
+Full rate of Grant Payable payable
 
-£ £ £ 30-44 54.00 40.50 27.00 13-29 36.00 27.00 18.00
+£350 30-44 £263 13-29 £175
 
 ___________________________
