@@ -10,7 +10,7 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
@@ -94,13 +94,13 @@ Licences for particular goods.
 
 Authorities for issue of licences.
 
-5.(1)  The Financial and Development Secretary may grant licences in respect of goods specified in Part 1 of Schedule 2.
+5.(1)  The Collector may grant licences in respect of goods specified in Part 1 of Schedule 2.
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006 (2) The Consumer Protection Officer may grant licences in respect of goods specified in Part II of Schedule 2.
+Subsidiary 1987/006 (2) The Collector may grant licences in respect of goods specified in Part II of Schedule 2.
 
 Conditions of import licences.
 

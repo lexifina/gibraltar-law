@@ -28,9 +28,9 @@ Form I/E 1.
 
 IMPORTS AND EXPORTS (CONTROL) REGULATIONS 1987.
 
-APPLICATION FOR IMPORT LICENCE.
+APPLICATION FOR IMPORT LICENCE. Original** Duplicate**
 
-Application to Customs
+Application in duplicate to **Financial and Development Secretary Customs/Consumer Protection Officer
 
 I/We .......................................... hereby apply for permission to place an order with Messrs :....................of...................... for the importation of the following goods.
 
@@ -40,15 +40,13 @@ The goods are required for and payment therefore will be effected as follows:- l
 
 ..................................................................................................................... (insert here method and currency in which payment will be made) I/We undertake to place the above order as soon as the application is sanctioned, and to notify you if it is cancelled or suspended, or if intimation is received that it cannot be fulfilled. DECLARATION: I/We the undersigned do hereby declare the above information to be correct to the best of my/our knowledge and belief. Date ...............19 Signature ................................................... **Agent/Wholesaler/Shipchandler/Retailer**
 
-IMPORT LICENCE PERMIT The placing of the above order is accordingly authorised subject to the conditions appearing below.
-
-No. ............................... Date.....................  Collector of Customs CONDITIO 1. Goods to be despatched within     months
+IMPORT LICENCE PERMIT The placing of the above order is accordingly authorised subject to the conditions appearing
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006 NS: from date of permit.
+Subsidiary 1987/006 below. Financial and Development Secretary** No. ............................... Date.....................  Consumer Protection Officer CONDITIO NS: 1. Goods to be despatched within     months from date of permit.
 
 2. Distribution on arrival to be subject to requirements of the Authorising Officer.
 

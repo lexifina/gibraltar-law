@@ -12,7 +12,19 @@ PART I.
 
 PART II.
 
-1. Butter. 2. Flour. 3. Frozen meat except as a constituent of another whole product. 4. Lard (Compound). 5. Margarine. 6. Milk. 7. Edible cooking oil. 8. Sugar. 9. Potatoes. 10. Eggs. 11. Fresh fruit, fresh vegetables and fresh fish. 12. Mineral and table waters. 13 Omitted. 14. Untoasted and leavened brown or white bread, in whole loaves, sliced loaves or rolls except as a constituent of another whole product. 15. Bread and roll making dough, whether fresh or frozen.
+1 and 2 Revoked by 1991/101.
+
+3. Frozen meat except as a constituent of another whole product.
+
+4 to 10 Revoked by 1991/101.
+
+11. Fresh fruit, fresh vegetables and fresh fish.
+
+12 and 13 Revoked by 1991/101.
+
+14. Untoasted and leavened brown or white bread, in whole loaves, sliced loaves or rolls except as a constituent of another whole product.
+
+15. Bread and roll making dough, whether fresh or frozen.
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
