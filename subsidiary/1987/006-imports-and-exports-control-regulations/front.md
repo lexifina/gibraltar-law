@@ -10,7 +10,7 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
