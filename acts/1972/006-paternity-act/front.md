@@ -1,0 +1,25 @@
+Paternity
+
+1972-06
+
+PATERNITY ACT
+
+Principal Act
+
+Act. No. 1972-06* Commencement 1.4.1973
+
+Assent 11.5.1972
+
+* Enacted as Part III of the Family Law Reform Act 1972 (Act. 1972-06)
+
+English source: Family Reform Act 1969 (1969 c.46)
+
+________________________
+
+ARRANGEMENT OF SECTIONS.
+
+Section
+
+1. Short title. 2. Interpretation. 3. Power of court to require use of blood tests. 4. Consents required for taking of blood samples. 5. Regulations. 6. Failure to comply with direction. 7. Penalty for personation.
+
+Paternity
