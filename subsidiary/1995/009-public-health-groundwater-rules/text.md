@@ -1,28 +1,22 @@
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
+Subsidiary Legislation made under s.70.
 
-1950-07
+Public Health (Groundwater) Rules, 1995
 
-Subsidiary 1995/009 Rules made under s.70.
+LN.1995/009
 
-PUBLIC HEALTH (GROUNDWATER) RULES, 1995
+Commencement 19.1.1995
 
-(LN. 1995/009)
+Amending enactments Relevant current provisions Commencement date
 
-19.1.1995
-
-____________________________________
+LN. 2004/003 r. 11A 8.1.2004
 
 ARRANGEMENT OF RULES
 
 Rule
 
-1. Title. 2. Interpretation and application. 3. Conditions for the issue of authorisations. 4. Ground water management. 5. Application for authorisation. 6. Ability to comply with terms and conditions. 7. Duration of authorisation etc. 8. Monitoring. 9. Inventory. 10. Provision of information to the Government. 11. Cross-Frontier information and consultation. 12. Unauthorised discharges. 13. Discretion of competent authority. 14. Offences in respect of false or misleading information.
+1. Title. 2. Interpretation and application. 3. Conditions for the issue of authorisations. 4. Ground water management. 5. Application for authorisation. 6. Ability to comply with terms and conditions. 7. Duration of authorisation etc. 8. Monitoring. 9. Inventory. 10. Provision of information to the Government. 11. Cross-Frontier information and consultation. 11A.  Indirect Discharges 12. Unauthorised discharges. 13. Discretion of competent authority. 14. Offences in respect of false or misleading information.
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 Title.
+Title.
 
 I. These Rules may be cited as the Public Health (Groundwater) Rules, 1995.
 
@@ -50,11 +44,7 @@ Interpretation and application.
 
 (3) These Rules do not apply to–
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 (a) discharges of domestic effluents in isolated dwellings not connected to a sewerage system and situated outside areas protected for the abstraction of water for human consumption;
+(a) discharges of domestic effluents in isolated dwellings not connected to a sewerage system and situated outside areas protected for the abstraction of water for human consumption;
 
 (b) discharges which the competent authority is satisfied on the evidence of persons recognized by the competent authority as qualified for the purpose contain substances in List I or List 2 in a quantity and concentration so small as to obviate any present or future danger of deterioration in the quality of the receiving groundwater;
 
@@ -80,13 +70,7 @@ unless it is accompanied by–
 
 (b) the prescribed fee.
 
-(2) Without prejudice to any other requirements prescribed in these Rules, the prior investigation referred to in sub-rule (1) shall include examination of the hydrogeological conditions of the area concerned, the possible purifying powers of the soil and sub-soil and the risk of pollution
-
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 and alteration of the quality of the groundwater from the discharge and shall establish whether the discharge of substances into groundwater is a satisfactory solution from the point of view of the environment.
+(2) Without prejudice to any other requirements prescribed in these Rules, the prior investigation referred to in sub-rule (1) shall include examination of the hydrogeological conditions of the area concerned, the possible purifying powers of the soil and sub-soil and the risk of pollution and alteration of the quality of the groundwater from the discharge and shall establish whether the discharge of substances into groundwater is a satisfactory solution from the point of view of the environment.
 
 (3) The competent authority shall not issue an authorisation in any case within sub-rule (1) unless it is satisfied that the groundwater, and in particular its quality, will undergo the requisite surveillance, which, if so required by the authorisation, shall be undertaken by a person recognized by the authority as qualified for the purpose.
 
@@ -96,17 +80,13 @@ Subsidiary 1995/009 and alteration of the quality of the groundwater from the di
 
 (i) the presence of that substance once discharged into groundwater will not impede exploitation of ground resources; and
 
-(ii)all technical precautions are in place and the applicant has the ability to operate those precautions to ensure that no substance in List I can reach other aquatic systems or harm other ecosystems; and
+(ii) all technical precautions are in place and the applicant has the ability to operate those precautions to ensure that no substance in List I can reach other aquatic systems or harm other ecosystems; and
 
 (b) where the competent authority is not satisfied, on the evidence submitted of the prior investigation, that the groundwater which may be effected by such discharge is permanently unsuitable for other uses, especially domestic and agricultural, it may only issue an authorisation if that authorisation is made subject to such conditions as the authority, in the light of the evidence of the investigation, is satisfied will ensure the observance of all technical precautions necessary to prevent any discharges into groundwater of substances in List 1.
 
 (5) In any case within sub-rule (1)(b) or (d), any authorisation issued by the competent authority shall be issued subject to such conditions as the authority, on the evidence submitted to it of the prior investigation, is satisfied will ensure the observance of all technical precautions for preventing groundwater pollution by substances in List 2.
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 (6) Where in any case within sub-rule (1)(a) or (b) the competent authority issues an authorisation such authorisation shall be issued op such terms and subject to such conditions as specify–
+(6) Where in any case within sub-rule (1)(a) or (b) the competent authority issues an authorisation such authorisation shall be issued op such terms and subject to such conditions as specify–
 
 (a) the place where any disposal or tipping which might lead to a discharge into groundwater of any substances in List 1 or List 2 is to be done;
 
@@ -128,19 +108,13 @@ Subsidiary 1995/009 (6) Where in any case within sub-rule (1)(a) or (b) the comp
 
 (c) the essential precautions which must be taken, paying particular attention to the nature and concentrations of the substances present in the effluents, the characteristics of the receiving environment and the proximity of the water catchment areas, in particular those for drinking, thermal and mineral water;
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009
-
 (d) the maximum quantity of a substance in List I or List 2 permissible in the effluent during one or more specified periods of time and the appropriate requirements as to the concentration of those substances;
 
 (e) the arrangements enabling effluents discharged into groundwater to be monitored;
 
 (f) if necessary, the measures, which the authority may require to be undertaken by a person recognized by the competent authority as qualified for the purpose, for monitoring the groundwater, and in particular its quality.
 
-(8) Where the competent authority has received evidence from prior investigation that all technical precautions are in place the competent authority may issue an authorisation in respect of discharges by way of re- injection into the same aquifer of water used for geothermal purposes, water pumped out of mines and quarries or water pumped out of civil engineering works.
+(8) Where the competent authority has received evidence from prior investigation that all technical precautions are in place the competent authority may issue an authorisation in respect of discharges by way of re-injection into the same aquifer of water used for geothermal purposes, water pumped out of mines and quarries or water pumped out of civil engineering works.
 
 Groundwater management.
 
@@ -158,11 +132,7 @@ Application for authorisation.
 
 5. (1) An application for an authorisation under rule 3 or 4 shall–
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 (a) be in writing and in the form, if any, specified by the competent authority;
+(a) be in writing and in the form, if any, specified by the competent authority;
 
 (b) contain all the information necessary for the authority to determine the application.
 
@@ -178,15 +148,9 @@ Subsidiary 1995/009 (a) be in writing and in the form, if any, specified by the 
 
 (5) Where the competent authority occurs costs in making a proper determination of an application or in establishing the terms of an authorisation or the conditions to which an automations subject, it may charge, in addition to the prescribed fee, an additional fee to be calculated in accordance with the provisions of this rule.
 
-(6) The additional fee referred to in sub-rule (5) shall not exceed the sum of the costs reasonably incurred by the competent authority and, where the costs are incurred in respect of more than one applicant, the amount to be charged to each applicant shall be the total cost divided by the number of applicants in respect of whose applications the costs have been incurred, taking account of the substances in respect of which authorisation is sought and the costs in respect of each substance.
+(6)  The additional fee referred to in sub-rule (5) shall not exceed the sum of the costs reasonably incurred by the competent authority and, where the costs are incurred in respect of more than one applicant, the amount to be charged to each applicant shall be the total cost divided by the number of applicants in respect of whose applications the costs have been incurred, taking account of the substances in respect of which authorisation is sought and the costs in respect of each substance.
 
-(7) Where, in the opinion of the competent authority, the authority can properly determine an application or establish the terms of an authorisation or the conditions to which an authorisation is subject only by engaging
-
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 specialists and consultants, the cost of such specialists and consultants shall be included in the additional fee referred to in sub-rule(5).
+(7) Where, in the opinion of the competent authority, the authority can properly determine an application or establish the terms of an authorisation or the conditions to which an authorisation is subject only by engaging specialists and consultants, the cost of such specialists and consultants shall be included in the additional fee referred to in sub-rule(5).
 
 (8) The competent authority may determine the cost of employing an officer, including a public officer, for any period on work appropriate to his grade by reference to the average cost to it of employing officers of his grade for that period.
 
@@ -204,17 +168,11 @@ Subsidiary 1995/009 specialists and consultants, the cost of such specialists an
 
 (b) the establishing by the authority of the terms or conditions of an authorisation, or
 
-(c) the monitoring of groundwater,
-
-means the carrying out of those functions in a manner likely to ensure so far as possible the protection of groundwater from pollution in accordance with the Directive.
+(c) the monitoring of groundwater, means the carrying out of those functions in a manner likely to ensure so far as possible the protection of groundwater from pollution in accordance with the Directive.
 
 Ability to comply with terms and conditions.
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 6. (1) No authorisation shall be issued under these Rules unless the competent authority is satisfied that the applicant is able to comply with the terms and conditions of–
+6. (1) No authorisation shall be issued under these Rules unless the competent authority is satisfied that the applicant is able to comply with the terms and conditions of–
 
 (a) the Directive relevant to that authorisation, and
 
@@ -242,13 +200,7 @@ Duration of authorisation etc.
 
 (2) The provisions of these Rules in respect of an application for an authorisation shall apply to an application to renew an authorisation.
 
-(3) Where for the purpose of satisfying the relevant requirements of the Directive or these Rules the competent authority is of the opinion that it is necessary to amend the terms or conditions of an authorisation, the authority
-
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 shall by notice so advise the person to whom the authorisation was issued, and the authorisation is thereby so amended.
+(3) Where for the purpose of satisfying the relevant requirements of the Directive or these Rules the competent authority is of the opinion that it is necessary to amend the terms or conditions of an authorisation, the authority shall by notice so advise the person to whom the authorisation was issued, and the authorisation is thereby so amended.
 
 (4) Where by virtue of subsection (3) an authorisation is amended the provisions of rule 6 shall apply as if the references in that rule to an authorisation were references to an amended authorisation.
 
@@ -276,17 +228,11 @@ such fee to be calculated in accordance with this rule.
 
 (3) The fee referred to in sub-rule (2) shall not exceed the sum of the costs reasonably incurred by the competent authority in undertaking monitoring required by sub-rule (1), and where a fee is charged to more that one person the sum of the costs incurred shall be divided between those persons in proportion to their number and the number of substances in List 1 and List 2 in respect of which an unauthorised discharge has been made or in respect of which an authorisation has been granted and, where this is relevant, the costs incurred in monitoring in respect of each substance discharged or in respect of which a discharge has been authorised.
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
+(4)  Where, in the opinion of the competent authority, the authority can properly carry out its functions under this rule only by engaging specialists or consultants to monitor as required by sub-rule (1) the cost of such specialists or consultants shall be included in the fee payable under this rule.
 
-1950-07
+(5)  The competent authority may determine the cost of employing an officer, including a public officer, for any period on work appropriate to his grade by reference to the average cost of employing officers of his grade for that period.
 
-Subsidiary 1995/009
-
-(4) Where, in the opinion of the competent authority, the authority can properly carry out its functions under this rule only by engaging specialists or consultants to monitor as required by sub-rule (1) the cost of such specialists or consultants shall be included in the fee payable under this rule.
-
-(5) The competent authority may determine the cost of employing an officer, including a public officer, for any period on work appropriate to his grade by reference to the average cost of employing officers of his grade for that period.
-
-(6) When requiring payment under this rule, the competent authority shall send or give to the person liable to make a payment a detailed statement of the work done and the costs incurred, and where a fee payable under this rule remains due for a period in excess of one month, the authority–
+(6)  When requiring payment under this rule, the competent authority shall send or give to the person liable to make a payment a detailed statement of the work done and the costs incurred, and where a fee payable under this rule remains due for a period in excess of one month, the authority–
 
 (a) may recover the fee under the provision of the Act as a civil debt;
 
@@ -306,17 +252,23 @@ Provision of information to the Government.
 
 (3) The Commission and the competent authorities of member states, their officials and other servants and agents shall not disclose information acquired by them pursuant to these Rules or the Directive and of a kind covered by the obligation of professional secrecy.
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 (4)  The provisions of sub-rules (2) and (3) shall not prevent publication of general information of surveys which do not contain information relating to particular undertakings or associations of undertakings.
+(4)  The provisions of sub-rules (2) and (3) shall not prevent publication of general information of surveys which do not contain information relating to particular undertakings or associations of undertakings.
 
 Cross-Frontier information and consultation.
 
 11. (1) Where the competent authority intends to issue an authorisation for a discharge which may enter transfrontier groundwater the authority shall in inform the relevant authority of the neighbouring state.
 
-(2) At the request of the competent authority or the relevant authority of the neighbouring state and prior to the issue by the competent authority of the authorisation referred to in sub-rule (1) consultation shall be held in which the Commission may participate.
+(2) At the request of the competent authority or the relevant authority of the neighbouring state and prior to the issue by the competent authority of the authorisation referred to in sub- rule (1) consultation shall be held in which the Commission may participate.
+
+Indirect Discharges
+
+11A.(1)  Where a person is proposing to undertake or is undertaking an activity on or in the ground which may lead to either an indirect discharge of any substance in List 1 or the pollution of groundwater as a result of an indirect discharge of any substance in List 2 the competent authority shall serve a notice in writing–
+
+(a) prohibiting him from carrying out that activity, or
+
+(b) authorising that activity subject to such conditions as are specified in the notice.
+
+(2)  A person who carries out an activity in contravention of a notice issued under sub-rule (1) is guilty of an offence and shall be liable on summary conviction to a fine at level 1 on the standard scale in respect of a first conviction and to a fine at level 2 on the standard scale or for a term of imprisonment not exceeding 3 months in respect of a second or subsequent conviction.
 
 Unauthorised discharges.
 
@@ -330,13 +282,9 @@ Discretion of competent authority.
 
 Offences in respect of false or misleading information.
 
-14(1)  Where–
+14.(1)  Where–
 
-Public Health PUBLIC HEALTH (GROUNDWATER) RULES, 1995
-
-1950-07
-
-Subsidiary 1995/009 (a) for the purpose of making an application under these Rules, or
+(a) for the purpose of making an application under these Rules, or
 
 (b) required by the competent authority to provide information in accordance with these Rules, or
 
