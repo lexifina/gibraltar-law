@@ -8,7 +8,9 @@ Principal Act Commencement Listed below Act. No. 1987-34 Assent 24.12.1987
 
 Commencement dates Legal Notice No. Relevant provisions 18.2.1985 1987/1731 Paras.15 and 16(a) of the Sch. 24.12.1987 1987/173 ss. 1-5, 6(2)(b)-(d), 7, 9-10, 13-15, 19, 23, 25(5) 1.2.1988 1987/173 25(1), Sch. (other than paras. 13-22, 26) 31.3.1988 1987/173 Rest (save para. 31 of the Sch.) 12.1.1989 1989/004 Para. 31 of the Sch.
 
-Amending enactment Relevant current provisions Commencement date Act. 1989-07 s.14(5) 2.3.1989 1989-39 s.15(1) 1.4.1989
+Amending enactment Relevant current provisions Commencement date Act. 1989-07 s.14(5) 2.3.1989 1989-39 s.15(1) 1.4.1989 1997-25 ss. 2, 3(1)(c), 4(2), 5(4), 6(2)(b)(ii), 10, 10(1), (2), (3) & (4), 11(1)(a), (1)(b), (1)(g), & (2), 12(2) and 14(2) and Sch.
+
+21.8.1997
 
 1 Notice of Corrigendum (LN.1988/022)
 
@@ -18,7 +20,7 @@ Medical (Gibraltar Health Authority)
 
 Section.
 
-1. Title and commencement. 2. Interpretation. 3. Establishment of Gibraltar Health Authority. 4. Authority to be body corporate. 5. Meetings and proceedings. 6. Duties of the Authority. 7. Powers of the Authority. 8. Discharge of functions by the Authority. 9. Standing orders. 10. Appointment of General Manager. 11. Management Board. 12. Professional advisory committees. 13. Financial duty of the Authority. 14. Establishment and operation of general fund. 15. Accounts and auditing. 16. Power of Authority to engage in fund-raising activities. 17. Financial year. 18. Power of Accountant-General to make payments. 19. No personal liability to attach to members. 20. Proceedings on failure of Authority to perform its duties. 21. Restriction on execution. 22. Acquisition of land compulsorily. 23. Exemption from taxes, etc. 24. Transfer of property. 25. Consequential modifications and amendments.
+1. Title and commencement. 2. Interpretation. 3. Establishment of Gibraltar Health Authority. 4. Authority to be body corporate. 5. Meetings and proceedings. 6. Duties of the Authority. 7. Powers of the Authority. 8. Discharge of functions by the Authority. 9. Standing orders. 10. Appointment of Chief Executive. 11. Management Board. 12. Professional advisory committees. 13. Financial duty of the Authority. 14. Establishment and operation of general fund. 15. Accounts and auditing. 16. Power of Authority to engage in fund-raising activities. 17. Financial year. 18. Power of Accountant-General to make payments. 19. No personal liability to attach to members. 20. Proceedings on failure of Authority to perform its duties. 21. Restriction on execution. 22. Acquisition of land compulsorily. 23. Exemption from taxes, etc. 24. Transfer of property. 25. Consequential modifications and amendments.
 
 THE SCHEDULE. Consequential modifications and amendments.
 
