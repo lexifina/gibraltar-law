@@ -16,7 +16,11 @@ PART II.
 
 3. Frozen meat except as a constituent of another whole product.
 
-4 to 10 Revoked by 1991/101.
+4 to 8 Revoked by 1991/101.
+
+9. Potatoes.
+
+10. Eggs.
 
 11. Fresh fruit, fresh vegetables and fresh fish.
 
