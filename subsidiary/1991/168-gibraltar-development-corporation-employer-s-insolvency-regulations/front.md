@@ -8,7 +8,7 @@ GIBRALTAR DEVELOPMENT CORPORATION (EMPLOYER’S INSOLVENCY) REGULATIONS, 1991
 
 22.8.1991
 
-Amending enactments Relevant current provisions Commencement date LNs.1991/195 r. 4(6)(b) and (9) 24.10.1991
+Amending enactments Relevant current provisions Commencement date LNs.1991/195 r. 4(6)(b) and (9) 24.10.1991 1992/093 r.6(1) 9.7.1992
 
 Gibraltar Development Corporation GIBRALTAR DEVELOPMENT CORPORATION (EMPLOYER’S INSOLVENCY) REGULATIONS, 1991.
 
