@@ -6,11 +6,15 @@ DISABLEMENT GRATUITY Section 15 (6)
 
 (2) Amount of gratuity (3) Degree of disablement per centum (4) Amount of gratuity
 
-(1) Degree of disablement per centum (2) Amount of gratuity (3) Degree of disablement per centum (4) Amount of gratuity
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
 
 £
 
-£ 1 330 18 3050 2 480 19 3200 3 630 20 3360 4 790 21 3500 5 950 22. 3680 6 1090 23 3850 7 1250 24 4000 8 1400 25. 4160 y 1560 26. 4300.. 10 1710 27 4460 11 1880 28 4630 12 2050 29 4780 13 2210 30 4930 14 2390 31 5080 15 2560 32 5240 16 2710 33 5400 17 2880 34 5550
+440 640 840 1,050 1,260 1,450 1,660 1,860 2,070 2,270 2,500 2,730 2,940 3,180 3,400 3,600 3,830
+
+18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 £
+
+4,060 4,260 4,470 4,650 4,890 5,120 5,320 5,530 5,720 5,930 6,160 6,360 6,560 6,760 6,970 7,180 7,380
 
 Social Security (Employment Injuries Insurance)
 

@@ -4,9 +4,21 @@ RATES OF DISABLEMENT PENSION
 
 Section 15 (7) (a)
 
-WEEKLY RATES 1. 2. 3. Degree of Persons who have Persons who have disablement attained the attained the per centum age of 18. age of 15 but are
+Weekly Rates
 
-under 18. 100 55.70 42.70 95 54.30 40.90 90 51.50 38.60 85 48.60 36.50 80 45.60 34.40 75 42.80 32.10 70 40.00 30.00 65 37.30 28.00 60 34.30 25.90 55 31.50 23.80 50 28.50 21.60 45 25.90 ' 19A0 40 22.90 17:40 35 20.10 15.00
+1. Degree of disablement per centum
+
+2. Persons who have attained the age of 18 3. Persons who have attained the age of 15 but are under 18
+
+100 95 90 85 80 75 70 65 60 55 50 45 40 35
+
+£
+
+75.60 72.20 68.50 64.60 60.60 56.90 53.20 49.60 45.60 41.90 38.00 34.40 30.40 26.70
+
+£
+
+56.70 54.40 51.30 48.50 45.70 42.70 39.90 37.20 34.40 31.70 28.70 25.80 23.10 20.00
 
 Social Security (Employment Injuries Insurance)
 
