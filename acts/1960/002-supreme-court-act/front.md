@@ -52,13 +52,15 @@ Acts. 1971-14 s.28(2)
 
 1983-48 s.36
 
-1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987
+1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
 The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
 
-English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
+Supreme Court
+
+1960-02 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
 Supreme Court
 
