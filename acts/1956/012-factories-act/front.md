@@ -22,9 +22,9 @@ Act. 1977-31 s.5(3), (6)
 
 1991-12 ss. 6(1), (4), 9, 23(2), 39(1), 44(3), 45(3), 58(1)(a), (2)(f)-(g), (3)- (4), 59(5), 64, 65(2)-(3), 73(2)- (3), 77(1), 78(1)-(3), (6), 79(1), 81(1)-(2), 82-84
 
-17.8.1995 LN. 1996/010 ss. 6(1), (6), 58(2)(g)-(h) 25.1.1996 1996/032 s. 80(2A) 29.2.1996 Act. 1997-01 ss. 6(1), (6), 94-104, Sch.1A 1.6.1997
+17.8.1995 LN. 1996/010 ss. 6(1), (6), 58(2)(g)-(h) 25.1.1996 1996/032 s. 80(2A) 29.2.1996 Act. 1997-01 ss. 6(1), (6), 94-104, Sch.1A 1.6.1997 1997-22 ss. 105-112, Sch. 1B 5.11.1998
 
-Transposing: Directive 86/188/EEC Directive 89/391/EEC
+Transposing: Directive 86/188/EEC Directive 87/217/EEC Directive 89/391/EEC
 
 Factories
 
@@ -96,15 +96,21 @@ PART XIII. PROTECTION OF WORKERS FROM THE RISKS RELATED TO THE EXPOSURE TO NOISE
 
 94. Disapplication of duties. 95. Assessment of exposure. 96. Assessment records. 97. Reduction of risk of hearing damage. 98. Reduction of noise exposure. 99. Ear Protection. 100. Ear protection zones. 101. Maintenance and use of equipment. 102. Provision of information to employees. 103. Duties of employers regarding places of work and articles for use at work. 104. Exemptions.
 
+PART XIV. PREVENTION AND REDUCTION OF ASBESTOS FIBRE DISCHARGES.
+
+105. Interpretation. 106. Relevant authorisations. 107. Prevention and reduction of pollution by asbestos discharges into the natural environment. 108. Airborne discharges. 109. Manufacture of asbestos cement.
+
+Factories
+
+1956-12 110. Manufacture of asbestos paper and board. 111. Monitoring for compliance: effluent. 112. Monitoring for compliance: airborne discharges.
+
 SCHEDULE 1. Particulars to be submitted by occupier or intending occupier of a factory.
 
 SCHEDULE 1A. Part I - Daily personal exposure of employees Part II - Weekly average of daily personal noise exposure of employees Part III - Compulsory sign demarcating ear protection zones
 
+SCHEDULE 1B. Method of sampling analysis of air discharges.
+
 SCHEDULE 2. Processes requiring provision of suitable goggles or effective screens.
-
-Factories
-
-1956-12
 
 SCHEDULE 3. Particulars to be submitted by occupier of premises (other than a factory) in which a steam boiler is used.
 
