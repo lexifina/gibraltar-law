@@ -8,7 +8,7 @@ CONDITIONS OF EMPLOYMENT (TRANSPORT CONTRACTING UNDERTAKINGS) ORDER, 1990
 
 12.7.1990
 
-Amending enactments Relevant current provisions Commencement date LNs. 1992/113 Sch. 31.8.1992 1996/074 Sch. 24.6.1996
+Amending enactments Relevant current provisions Commencement date LNs. 1992/113 Sch. 31.8.1992 1996/074 Sch. 24.6.1996 1997/143 Sch. 1.12.1997
 
 Employment CONDITIONS OF EMPLOYMENT (TRANSPORT CONTRACTING UNDERTAKINGS) ORDER, 1990
 

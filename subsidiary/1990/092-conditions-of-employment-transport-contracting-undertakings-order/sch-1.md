@@ -1,3 +1,3 @@
 SCHEDULE
 
-Grade Remuneration Labourer £148.98 Driver Delivery man (B Class licence) £168.09 Driver Delivery man (C Class licence) £173.16 Articulator Driver £179.01
+Grade Remuneration Labourer £152.10 Driver Delivery man (B Class licence) £171.06 Driver Delivery man (C Class licence) £177.06 Articulator Driver £182.91
