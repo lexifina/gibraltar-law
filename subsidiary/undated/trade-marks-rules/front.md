@@ -10,7 +10,7 @@ TRADE MARKS RULES
 
 7.1.1949
 
-Amending enactments Relevant current provisions Commencement date LN. 1971/008 – 1971/049 r. 8(1) 1985/037 r. 8(1). 1.4.1985
+Amending enactments Relevant current provisions Commencement date LN. 1971/008 – 1971/049 r. 8(1) 1985/037 r. 8(1). 1.4.1985 1988/031 r. 8(2). 25.2.1988
 
 Trade Marks TRADE MARKS RULES
 
