@@ -8,9 +8,11 @@ EMPLOYMENT (SICK PAY) ORDER
 
 1.2.1974
 
-_________________________
+Amending enactments Relevant current provisions Commencement date LN. 1986/060 Para. 3(c) 12.6.1986
 
-ARRANGEMENT OF PARAGRAPHS
+Employment EMPLOYMENT (SICK PAY) ORDER
+
+Subsidiary 1974/004 1932-16 ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 
