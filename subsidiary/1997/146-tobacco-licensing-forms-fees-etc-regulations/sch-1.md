@@ -464,34 +464,16 @@ is hereby licensed pursuant to Section 13 of the Tobacco Act 1997 for the purpos
 
 PART II
 
-The words appearing below in this Part of this Form shall be inscribed on the reverse side of Form 5B: and the words are -
+SHORT FORM TOBACCO TRANSPORTATION LICENCE
 
-“1. This licence remains valid only for as long as the holder has a valid wholesale or retail licence issued under the Tobacco Act or as a duly licensed road transport contractor.
-
-2. This licence is not transferable;
-
-3. This licence shall, at all times, be clearly displayed on the right hand side of the windscreen of the vehicle to which this licence relates.
-
-4. When transporting cigarettes in a commercial quantity the driver of the vehicle must be in possession of either -
-
-(a) an invoice in respect of cigarettes being delivered to the purchaser showing the name and address of the vendor
+The front of the Short Form Tobacco Transportation Licence shall be as follows-
 
 Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
 1997-34
 
-Subsidiary 1997/146 and the purchaser and the brand, description and quantities of such cigarettes, or
+Subsidiary 1997/146
 
-(b) a delivery order, signed by the warehouseman from which the cigarettes are being transported showing the name and address of the owner of the cigarettes, the place to which the cigarettes have been delivered and the brand, description and quantity of such cigarettes.
+The back of the Short Form Tobacco Transportation Licence shall be as follows-
 
-5. This licence relates only to the motor vehicle specified herein;
-
-6. This licence shall stand revoked and shall cease to be valid if there is a change of ownership, wholly or partly, of the motor vehicle to which it relates.
-
-7. This licence is subject to annual renewal subject to the discretion of the Collector of Customs upon written application prior to its expiry.
-
-Date:
-
-Signed:
-
-Collector of Customs.
+Is hereby licensed pursuant to section 13 of the Tobacco Ordinance 1997 for the purposes of transporting cigarettes in Gibraltar according to the provisions of the Tobacco Ordinance 1997 and of the long form of the licence.
