@@ -10,7 +10,7 @@ Act. No. 1974-11 Commencement 26.4.1974
 
 Assent 28.4.1974
 
-Amending enactments Relevant current provisions Commencement date Acts. 1976-24 s. 73 1982-33 ss. 31, 82(1) and 83
+Amending enactments Relevant current provisions Commencement date Acts. 1976-24 s. 73 1982-33 ss. 31, 82(1) and 83 1984-01 s. 73(1), (2A), (2B) and (2C) 30.4.1984
 
 English sources: None cited
 
