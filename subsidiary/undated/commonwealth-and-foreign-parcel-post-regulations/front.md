@@ -38,11 +38,13 @@ LN. 1971/011 regs. 7 and 15-17
 
 1.6.1987 1990/005 rr Headings: Part I and Part IV. Sch.1 - Part II  2, 4(1)(5), 25 – 29 and Part
 
+2.1.1990
+
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
 1961-10
 
-Subsidiary 1961.12.19-2 III 2.1.1990
+Subsidiary 1961.12.19-2 III 1990/023 Sch. 1- Part I(a) and Part II. 1.3.1990
 
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
