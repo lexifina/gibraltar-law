@@ -13,13 +13,3 @@ CONSENT REQUIRED TO THE MARRIAGE OF A MINOR.
 Marriage
 
 1948-36 alive . court been deprived of the custody of the minor, the person to whom the custody of the minor has been committed by order of the court. 2. If the mother of the minor is dead. the guardian appointed by the mother.
-
-Marriage
-
-1948-36
-
-Authorisations issued under section 4(1)
-
-AUTHORIZATIONS OF THE REGISTRATION OF BUILDINGS FOR THE SOLEMNIZATION OF MIRRIAGES.
-
-Date or reference Name of Building 23.6.1951 Cathedral Parish Hall 3.6.1955 Central Hall, South Barracks 14.8.1958 St Michael’s Church, North Front 6.4.1961 St. Theresa’s Church GN. 325/1975 Bethel Tabernacle GN. 119/1976 The Shrine of Our Lady of Europe GN. 666/1980 The Kingdom Hall, Jehovah’s Witnesses
