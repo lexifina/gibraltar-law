@@ -20,6 +20,8 @@ LN. 1974/112 regs. 4(1), and 5(1) and Sch.
 
 1980/138 reg.7 and Sch.
 
+1985/141 Sch. 6.1.1986
+
  Contains saving provisions.
 
 Social Security (Insurance) INSURABILITY AND SPECIAL CLASSES REGULATIONS
@@ -142,12 +144,10 @@ Employments or Self-Employments to be Disregarded (1) Exceptions (2) 1. Employme
 
 (a)  for the purpose of the employer's trade or business; or
 
-(b)  for the purpose of any game or recreation where the person employed is engaged or paid through a club. 2. Deleted.
-
-3. Employment or self-employment (not being employment or self- employment specified in the next succeeding paragraph) of a person by any one employer or in a self- employed capacity on any day or days in any contribution week on which that person renders service in that employment or self-employment where such services are rendered for less than four hours in that week. 3. None 4. Employment or self-employment of a person in cleaning or other domestic work by any one employer or in a self-employed capacity on any day or days in any contribution week on which that person renders services in that employment or self- employment where such services are rendered for less than eight hours in 4. None.
+(b)  for the purpose of any game or recreation where the person employed is engaged or paid through a club. 2. Employment or self-employment (not being employment or self- employment specified in the next succeeding paragraph) of a person by any one employer or in a self- employed capacity on any day or days in any contribution week on which that person renders service in that employment or self-employment where such services are rendered for less than fifteen hours in that week. 2. None 3. Employment or self-employment of a person in cleaning or other domestic work by any one employer or in a self-employed capacity on any day or days in any contribution week on which that person renders services in that employment or self- employment where such services are rendered for less than fifteen hours in that week. 3. None.
 
 Social Security (Insurance) INSURABILITY AND SPECIAL CLASSES REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-7 that week. 5. Employment as a fountain attendant by or under the Government of Gibraltar. 5. Any person in employment specified in paragraph 5 of the first column where remuneration in respect of such employment is 75p or more a week.
+Subsidiary 1955.08.04-7 4. Employment as a fountain attendant by or under the Government of Gibraltar. 4. Any person in employment specified in paragraph 4 of the first column where remuneration in respect of such employment is 75p or more a week.
