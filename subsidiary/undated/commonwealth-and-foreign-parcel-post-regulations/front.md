@@ -36,7 +36,13 @@ LN. 1971/011 regs. 7 and 15-17
 
 1.4.1984 1985/034 r. 16(1) and (3)(a) and Sch. 2 1.4.1985 1986/015 rr. 15, 17(1)(h)(i). Schs. 1 and 3 1.3.1986 1987/033 Sch. 1 1.3.1987 1987/092 rr. 16(1)(3)(a), 17(1)(e)(ii). Sch.2 and 3
 
-1.6.1987
+1.6.1987 1990/005 rr Headings: Part I and Part IV. Sch.1 - Part II  2, 4(1)(5), 25 – 29 and Part
+
+Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
+
+1961-10
+
+Subsidiary 1961.12.19-2 III 2.1.1990
 
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
@@ -50,7 +56,7 @@ Regulation
 
 PART I RATES OF POSTAGE AND GENERAL CONDITIONS.
 
-4. Rates of postage. 5. Prohibitions. 6. Packing. 7. Limits of weight and size. 8. Posting. 9. Payment of postage and fees. 10. Treatment of irregular parcels. 11. Delivery. 12. Undeliverable parcels. 13. Air parcels.
+4. Rates of postage and fees. 5. Prohibitions. 6. Packing. 7. Limits of weight and size. 8. Posting. 9. Payment of postage and fees. 10. Treatment of irregular parcels. 11. Delivery. 12. Undeliverable parcels. 13. Air parcels.
 
 PART II. POSTAL FACILITIES.
 
@@ -64,13 +70,15 @@ PART III. GENERAL.
 
 24. Remission of postage and fees.
 
-SCHEDULE 1. PART I - PARCEL POST RATES (SURFACE). PART II - PARCEL POST RATES (AIRMAIL).
+PART IV. DATAPOST SERVICE
 
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
 1961-10
 
-Subsidiary 1961.12.19-2
+Subsidiary 1961.12.19-2 25. General Provisions. 26. Labelling etc. 27. Conditions. 28. Compensation. 29. Restriction of application of regulations to datapost packets.
+
+SCHEDULE 1. PART I - PARCEL POST RATES (SURFACE). PART II - PARCEL POST RATES (AIRMAIL). PART III - DATAPOST FEES.
 
 SCHEDULE 2. CASH ON DELIVERY PARCELS.
 
