@@ -52,7 +52,7 @@ Acts. 1971-14 s.28(2)
 
 1983-48 s.36
 
-1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987 1988-35 ss. 17, 17A, 17B, 20, 21, and 36A. 15.12.1988
+1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987 1988-35 ss. 17, 17A, 17B, 20, 21, and 36A. 15.12.1988 1997-25 s. 20(q) 21.8.1997
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
