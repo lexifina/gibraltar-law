@@ -10,9 +10,15 @@ PRIVATE LETTER BOX REGULATIONS
 
 22.12.1961
 
-__________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN. 1985/024 r. 8. 1.4.1985
+
+Post Office PRIVATE LETTER BOX REGULATIONS
+
+1961-10
+
+Subsidiary 1961.12.22-1 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
