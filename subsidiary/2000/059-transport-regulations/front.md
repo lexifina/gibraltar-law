@@ -14,7 +14,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1)(3), 118(1)(c)(3), 124A(1) to (9)
 
-22.9.2000 2000/082 Sch. 1 (16) and (17). 26.10.2000 2000/090 r. 118(1)(d) 30.11.2000
+22.9.2000 2000/082 Sch. 1 (16) and (17). 26.10.2000 2000/090 r. 118(1)(d) 30.11.2000 2003/066 rr. 38-40, 124A, 64A, 116(1), 117(1) and Sch. 1 Form 2.
+
+29.5.2003
 
 Transport TRANSPORT REGULATIONS 2000
 
@@ -68,7 +70,7 @@ PART IV
 
 SAFETY OF PUBLIC SERVICE VEHICLES
 
-37. Construction and age 38. Wheels and tyres. 39. Exhaust fumes. 40. Wiring. 41. Fire extinguishers 42. Luggage carrier 43. Cleanliness 44. Number of passengers 45. Obstruction of drivers 46. Refuelling 47. Carriage of explosives 48. Ventilation.
+37. Construction and age 38. revoked 39. revoked 40. revoked 41. Fire extinguishers 42. Luggage carrier 43. Cleanliness 44. Number of passengers 45. Obstruction of drivers 46. Refuelling 47. Carriage of explosives 48. Ventilation.
 
 PROVISIONS APPLICABLE TO BUSES
 
@@ -86,17 +88,17 @@ REGULATIONS OF PASSENGER TRANSPORT VEHICLES
 
 TAXIS
 
-64. Distinguishing marks 65. Use of concessioned taxis 66. Plying or standing for hire on highway. 67. Availability of taxis 68. Refusing or neglecting to be hired 69. Only fare paying passenger to sit along-side driver 70. No unreasonable stopping 71. Notice to be displayed 72. Passenger refusing to pay fare 73. Passenger damaging taxi 74. Taxis to be fitted with taximeters 75. Use of taximeters 76. Taximeters not to be tampered with 77. Fares for hire by distance and time 78. Maximum fares
+64. Distinguishing marks 64A. Advertising on taxis 65. Use of concessioned taxis 66. Plying or standing for hire on highway. 67. Availability of taxis 68. Refusing or neglecting to be hired 69. Only fare paying passenger to sit along-side driver 70. No unreasonable stopping 71. Notice to be displayed 72. Passenger refusing to pay fare 73. Passenger damaging taxi 74. Taxis to be fitted with taximeters 75. Use of taximeters 76. Taximeters not to be tampered with 77. Fares for hire by distance and time 78. Maximum fares
 
 ROUTE BUSES
 
-79. Information to be shown in route buses 80. Direction board 81. Fares 82. Drivers and conductors to speak English 83. General duties of drivers and conductors 84. Specific duties of route bus drivers 85. Specific duties of route bus conductors
+79. Information to be shown in route buses 80. Direction board 81. Fares 82. Drivers and conductors to speak English 83. General duties of drivers and conductors 84. Specific duties of route bus drivers
 
 Transport TRANSPORT REGULATIONS 2000
 
 1998-44
 
-Subsidiary 2000/059 86. Conduct of passengers 87. Power to drivers and conductors 88. Luggage to be carried free
+Subsidiary 2000/059 85. Specific duties of route bus conductors 86. Conduct of passengers 87. Power to drivers and conductors 88. Luggage to be carried free
 
 SELF-DRIVE HIRE CARS
 
@@ -126,7 +128,9 @@ Transport TRANSPORT REGULATIONS 2000
 
 1998-44
 
-Subsidiary 2000/059 110. Power of Board to impose conditions 111. Conditions of sightseeing tour licences 112. Conditions on Guide licences
+Subsidiary 2000/059
+
+110. Power of Board to impose conditions 111. Conditions of sightseeing tour licences 112. Conditions on Guide licences
 
 LICENSING PROVISIONS: MISCELLANEOUS & FINAL
 
@@ -142,7 +146,7 @@ PART VIII
 
 FINAL PROVISIONS
 
-118. Miscellaneous duties 119. General duties of Transport Inspector 120. Obstruction of Transport Inspector 121. Complaints procedure 122. Lost property 123. Penalties. 124. Punishment by way of fixed penalty. 124A. Appeals. 125. Revocation
+118. Miscellaneous duties 119. General duties of Transport Inspector 120. Obstruction of Transport Inspector 121. Complaints procedure 122. Lost property 123. Penalties. 124. Punishment by way of fixed penalty. 124A. revoked 125. Revocation
 
 SCHEDULE 1
 
@@ -160,7 +164,9 @@ Transport TRANSPORT REGULATIONS 2000
 
 1998-44
 
-Subsidiary 2000/059 Form 6: Application for self-drive operator’s licence
+Subsidiary 2000/059
+
+Form 6: Application for self-drive operator’s licence
 
 Form 7: Self-drive operator’s licence
 
