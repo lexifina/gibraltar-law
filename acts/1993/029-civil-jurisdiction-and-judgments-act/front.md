@@ -12,9 +12,11 @@ Assent 16.12.1993
 
 Amending enactments Relevant current provisions Commencement date Act. 1997-27 ss.3, 5(6), Sch.1, 2 and 3 5.11.1998 2004-15 ss. 2(1), (3), (6), 3, 16(1)(b) and (c), 17(1)(a) and (b), 17(3)(a) and (b), (3A), 18(2), 21(4)(a), 22(2), 32(1), (2), (3)(a), (b), (e) and (g), 38, Part V and Sch. 10
 
-21.7.2004
+21.7.2004 2005-07 ss. 2(1), (5), 6, 7, 9(1), (3), (4), (5), 10(1), (2), 32(1), (2), 39(1) Sch. 10 paras 1-6,
 
-Implementing: Regulation (EC) No. 44/2001
+17.2.2005
+
+Implementing: Regulation (EC) No. 44/2001 Regulation (EC) No. 2201/2003
 
 International Agreements involved: Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters The Accession Convention The 1982 Accession Convention The 1989 Accession Convention The Brussels Conventions The Hague Convention The Lugano Convention
 
@@ -44,7 +46,7 @@ Civil Jurisdiction and Judgments
 
 1993-29
 
-24. Domicile of individuals. 25. Domicile and seat of a corporation or association. 26. Seat of a corporation or association for purposes of Article 16(2) and related provisions. 27. Persons deemed to be domiciled in Gibraltar for certain purposes. 28. Domicile of  Trusts. 29. Domicile and seat of the Crown. 30. Modifications occasioned by decisions of European Court as to meaning or effect of Conventions. 31. Availability of legal assistance. 32. Matters for which rules of court may provide. 33. Saving of powers to stay, sist, strike out or dismiss proceedings. 34. Application to Crown. 35. Amendments to the Maintenance Orders (Reciprocal Enforcement) Act. 36. Amendment to the Magistrates’ Court Act. 37. Amendment to the Judgments (Reciprocal Enforcement) Act. 38. Application of the Regulation.
+24. Domicile of individuals. 25. Domicile and seat of a corporation or association. 26. Seat of a corporation or association for purposes of Article 16(2) and related provisions. 27. Persons deemed to be domiciled in Gibraltar for certain purposes. 28. Domicile of  Trusts. 29. Domicile and seat of the Crown. 30. Modifications occasioned by decisions of European Court as to meaning or effect of Conventions. 31. Availability of legal assistance. 32. Matters for which rules of court may provide. 33. Saving of powers to stay, sist, strike out or dismiss proceedings. 34. Application to Crown. 35. Amendments to the Maintenance Orders (Reciprocal Enforcement) Act. 36. Amendment to the Magistrates’ Court Act. 37. Amendment to the Judgments (Reciprocal Enforcement) Act. 38. Application of the Regulation. 38A. Application of Regulation 2201/2003 – jurisdiction and the recognition and enforcement of judgments in matrimonial and parental responsibility matters.
 
 PART V JURISDICTION AND THE ENFORCEMENT OF JUDGMENTS BETWEEN THE UNITED KINGDOM AND GIBRALTAR
 
@@ -62,17 +64,19 @@ SCHEDULE 5. Text of Titles VI and VII of the 1989 Accession Convention.
 
 SCHEDULE 6. Text of the Lugano Convention.
 
-SCHEDULE 7. Amendments to the Maintenance Orders (Reciprocal Enforcement) Act.
-
 Civil Jurisdiction and Judgments
 
 1993-29
+
+SCHEDULE 7. Amendments to the Maintenance Orders (Reciprocal Enforcement) Act.
 
 SCHEDULE 8. Amendments to the Magistrates ‘Court Act.
 
 SCHEDULE 9. Amendments to the Judgments (Reciprocal Enforcement) Act.
 
 SCHEDULE 10 Application of the Regulation
+
+SCHEDULE 11 APPLICATION OF REGULATION 2201/2003 Jurisdiction and the recognition and enforcement of judgments in matrimonial and parental responsibility matters.
 
 Civil Jurisdiction and Judgments
 

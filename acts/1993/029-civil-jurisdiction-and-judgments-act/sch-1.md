@@ -120,7 +120,7 @@ in Portugal: Article 65 (1) (c) and 65 (2) and 65A (c) of the Code of Civil Proc
 
 (b)  the presence within the United Kingdom of property belonging  to the defendant; or
 
-(c)  the seizure by the plaintiff of  property situated in the  United Kingdom.
+(c)  the seizure by the plaintiff of  property situated in the United Kingdom.
 
 ARTICLE 4
 
