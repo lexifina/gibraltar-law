@@ -1,24 +1,22 @@
-Bills of Exchange
-
-1958-02
-
-BILLS OF EXCHANGE ACT
+Bills of Exchange Act
 
 Principal Act
 
-Act. No. 1958-02 Commencement 21.3.1958
+Act. No. 1958-02 Commencement 21.3.1958 Assent 14.3.1958
 
-Enactment 14.3.1958
+Amending enactments Relevant current provisions Commencement date
 
-Amending enactments Relevant current provisions Commencement date Acts 1962-08 s. 98 1968-07 ss. 14, 97 and 98 1973-20 ss. 14 and 97 1984-08 s. 98 29.6.1984
+Act. 1962-08 s. 98
 
-English sources
+1968-07 ss. 14, 97-98
 
-Bank Holidays Act 1871 (34 & 35 Vict, c.17) Bills of Exchange Act 1882 (45 & 46 Vict. c.61)
+1973-20 ss. 14, 97
 
-Bills of Exchange
+1984-08 s. 98 29.6.1984 1992-13 ss. 80, 81A, 86(2)(a) 24.12.1992
 
-1958-02 ARRANGEMENT OF SECTIONS
+English sources: Bank Holidays Act 1871 (34 & 35 Vict, c.17) Bills of Exchange Act 1882 (45 & 46 Vict. c.61)
+
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -38,11 +36,7 @@ Capacity and Authority of Parties.
 
 The Consideration for a Bill.
 
-27. Value and holder for value.
-
-Bills of Exchange
-
-1958-02 28. Accommodation bill or party. 29. Holder in due course. 30. Presumption of value and good faith.
+27. Value and holder for value. 28. Accommodation bill or party. 29. Holder in due course. 30. Presumption of value and good faith.
 
 Negotiation of Bills.
 
@@ -50,7 +44,7 @@ Negotiation of Bills.
 
 General Duties of the Holder.
 
-39. When presentment for acceptance is necessary. 40. Time for presenting bill payable after sight. 41. Rules as to presentment for acceptance, and excuses for non- presentment. 42. Non-acceptance. 43. Dishonour by non-acceptance and its consequences. 44. Duties as to qualified acceptances. 45. Rules as to presentment for payment. 46. Excuses for delay or non-presentment for payment. 47. Dishonour by non-payment. 48. Notice of dishonour and effect of non-notice. 49. Rules as to notice of dishonour. 50. Excuses for non-notice and delay. 51. Noting or protest of bill. 52. Duties of holder as regards drawee or acceptor.
+39. When presentment for acceptance is necessary. 40. Time for presenting bill payable after sight. 41. Rules as to presentment for acceptance, and excuses for non-presentment. 42. Non-acceptance. 43. Dishonour by non-acceptance and its consequences. 44. Duties as to qualified acceptances. 45. Rules as to presentment for payment. 46. Excuses for delay or non-presentment for payment. 47. Dishonour by non-payment. 48. Notice of dishonour and effect of non-notice. 49. Rules as to notice of dishonour. 50. Excuses for non-notice and delay. 51. Noting or protest of bill. 52. Duties of holder as regards drawee or acceptor.
 
 Liabilities of Parties.
 
@@ -58,11 +52,9 @@ Liabilities of Parties.
 
 Discharge of Bill.
 
-59. Payment in due course. 60. Banker paying demand draft whereon indorsement is forged.
+59. Payment in due course.
 
-Bills of Exchange
-
-1958-02 61. Acceptor the holder at maturity. 62. Express waiver. 63. Cancellation. 64. Alteration of bill.
+60. Banker paying demand draft whereon indorsement is forged. 61. Acceptor the holder at maturity. 62. Express waiver. 63. Cancellation. 64. Alteration of bill.
 
 Acceptance and Payment for Honour.
 
@@ -86,11 +78,9 @@ PART III. CHEQUES ON A BANKER AND CERTAIN OTHER INSTRUMENTS.
 
 Crossed Cheques.
 
-76. General and special crossings defined. 77. Crossing by drawer or after issue. 78. Crossing a material part of cheque. 79. Duties of banker as to crossed cheques. 80. Protection to banker and drawer where cheque is crossed. 81. Effect of crossing on holder. 82. Application of certain provisions of the Act to instruments not being bills of exchange. 83. Protection of bankers paying unindorsed or irregularly indorsed cheques, etc. 84. Rights of bankers collecting cheques not indorsed by holders.
+76. General and special crossings defined. 77. Crossing by drawer or after issue. 78. Crossing a material part of cheque. 79. Duties of banker as to crossed cheques. 80. Protection to banker and drawer where cheque is crossed. 81. Effect of crossing on holder. 81A. Non transferable cheques. 82. Application of certain provisions of the Act to instruments not being bills of exchange. 83. Protection of bankers paying unindorsed or irregularly indorsed cheques, etc.
 
-Bills of Exchange
-
-1958-02 85. Unindorsed cheques as evidence of payment. 86. Protection of bankers collecting payment of cheques, etc. 87. Saving.
+84. Rights of bankers collecting cheques not indorsed by holders. 85. Unindorsed cheques as evidence of payment. 86. Protection of bankers collecting payment of cheques, etc. 87. Saving.
 
 PART IV. PROMISSORY NOTES.
 
@@ -104,6 +94,4 @@ SCHEDULE.
 
 Form of protest which may be used when the services of a notary cannot be obtained.
 
-Bills of Exchange
-
-1958-02 AN ACT RELATING TO BILLS OF EXCHANGE, CHEQUES,  AND PROMISSORY NOTES.
+AN ACT RELATING TO BILLS OF EXCHANGE, CHEQUES, AND PROMISSORY NOTES.
