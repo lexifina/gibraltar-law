@@ -12,7 +12,7 @@ Assent 30.10.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-1998-38 ss 22(1)(a)(b), 9 (1)(3)(5), 13(3) 13.8.1998 1999-12 ss. 2, 6(e)(3)(6)(7), 7(1), 8, 9(4), 11, 12, 13(7)(8), 14, 17A to 17D and 18 6.5.1999
+1998-38 ss 22(1)(a)(b), 9 (1)(3)(5), 13(3) 13.8.1998 1999-12 ss. 2, 6(e)(3)(6)(7), 7(1), 8, 9(4), 11, 12, 13(7)(8), 14, 17A to 17D and 18 6.5.1999 2001-16 ss. 2, 11A to 11E 6.6.2001
 
 Tobacco
 
@@ -30,7 +30,7 @@ PART II LICENSING OF SALES OF TOBACCO
 
 PART III IMPORTATION AND EXPORTATION OF TOBACCO
 
-9. Importation of cigarettes. 10. Power of Collector of Customs to prohibit or restrict imports of tobacco. 11. Exportation of cigarettes.
+9. Importation of cigarettes. 10. Power of Collector of Customs to prohibit or restrict imports of tobacco. 11. Exportation of cigarettes. 11A. Establishment of Special Zones. 11B. Application of Part III and IV in Special Zones. 11C. Offences of requesting or procuring the exportation of cigarettes. 11D. Preventive powers of enforcement of police and customs officers. 11E. Offence of concealing cigarettes.
 
 PART IV STORAGE AND TRANSPORTATION OF TOBACCO
 
@@ -38,11 +38,11 @@ PART IV STORAGE AND TRANSPORTATION OF TOBACCO
 
 PART V PENALTIES AND ENFORCEMENT
 
-15. Penalties. 16. Forfeiture. 17. Provisions as to detention and seizure of goods. 17A. Power of arrest. 17B. Power to require information. 17C. Power to enter and search premises etc. 17D. Power to search persons. 18. Protection of officers in relation to the exercise of powers under this Part.
+15. Penalties. 16. Forfeiture. 17. Provisions as to detention and seizure of goods. 17A. Power of arrest.
 
 Tobacco
 
-1997-34 19. Evidence. 20. Exceptions. 21. Restriction on the institution of proceedings. 22. Returns. 23. Keeping and inspection of records. 24. Power to make regulations.
+1997-34 17B. Power to require information. 17C. Power to enter and search premises etc. 17D. Power to search persons. 18. Protection of officers in relation to the exercise of powers under this Part. 19. Evidence. 20. Exceptions. 21. Restriction on the institution of proceedings. 22. Returns. 23. Keeping and inspection of records. 24. Power to make regulations.
 
 PART VI REPEALS AND TRANSITIONAL PROVISIONS
 
