@@ -24,7 +24,7 @@ Countries which are members of the European Economic Community (a)  Letters incl
 
 (c)   Air letters conforming in all respects to the regulations relating thereto
 
-24p
+36p
 
 (d)   For the purpose of Part IA,   countries are as follows -
 
@@ -58,7 +58,7 @@ Countries which are not members of the European Economic Community (a)   Letters
 
 (c)   Air Letters conforming in all respects to the regulations relating thereto
 
-26p
+36p
 
 (d)   For the purpose of Part IB countries are as follows -
 
@@ -78,7 +78,7 @@ COUNTRIES OUTSIDE EUROPE
 
 First 10 grammes or part thereof each additional 10 grammes or part thereof Air Letters Postcards
 
-Zone 1 30p 14p 30p 30p Zone 2 35p 21p 30p 35p
+Zone 1 30p 14p 36p 30p Zone 2 35p 21p 36p 35p
 
 (b) For the purposes of Part II, countries are zoned as follows -
 
