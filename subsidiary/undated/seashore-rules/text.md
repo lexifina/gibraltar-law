@@ -20,7 +20,7 @@ Act. 1972-05 r. 17
 
 LN. 1974/058 rr. 3-4, 14-15
 
-1988/018 r. 9(1) 4.2.1988
+1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989
 
 Public Health SEASHORE RULES
 
@@ -48,7 +48,7 @@ Interpretation.
 
 Booths, tents, etc.
 
-3. (1)  The Minister may set apart any part of the seashore for the erection or placing of booths, tents, beach umbrellas with or without screens, sheds, stands, huts and stalls (whether fixed or movable), for the sale or exposure of any article or thing, shows, exhibitions, swings, roundabouts or other erections, vans or other vehicles, whether drawn or propelled by animals, persons or mechanical power.
+3. (1)  The Minister charged with responsibility for tourism may set apart any part of the seashore for the erection or placing of booths, tents, beach umbrellas with or without screens, sheds, stands, huts and stalls (whether fixed or movable), for the sale or exposure of any article or thing, shows, exhibitions, swings, roundabouts or other erections, vans or other vehicles, whether drawn or propelled by animals, persons or mechanical power.
 
 (2)  Where any part of the seashore has been set apart under the provisions of subrule (1)–
 
