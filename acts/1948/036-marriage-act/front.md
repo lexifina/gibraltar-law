@@ -12,7 +12,7 @@ Relevant current provisions
 
 Act. 1960-17, s.56 s.30 1962-9, s.52 s.39
 
-Amending enactments Relevant current provisions Commencement Date Act. 1949-25 ss. 5. 22 1962-10 s. 17 1963-08 s. 3(1) 1968-16 s. 13(4) LN. 1978/006 Sch. 2 Act. 1980-04 s. 3(2) 1983-12 ss. 10, 13(5) 1983-30 s. 15(1), (2), Sch. 2
+Amending enactments Relevant current provisions Commencement Date Act. 1949-25 ss. 5. 22 1962-10 s. 17 1963-08 s. 3(1) 1968-16 s. 13(4) LN. 1978/006 Sch. 2 Act. 1980-04 s. 3(2) 1983-12 ss. 10, 13(5) 1983-30 s. 15(1), (2), Sch. 2 1986-19 s. 15(3) 13.11.1986
 
 English sources
 
