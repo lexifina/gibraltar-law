@@ -68,7 +68,7 @@ LN. 1981/106 s. 20, Sch.2
 
 Social Security (Insurance)
 
-1955-14
+1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -1064,19 +1064,19 @@ Information as to, and proof of, age, marriage and death.
 
 (a)  on presenting to the custodian of the register under the laws relating to the registration of births, marriages and deaths, wherein particulars of the birth, marriage or death, as the case may be of the first mentioned person are entered, a duly completed requisition in writing in that behalf; and
 
-(b)  on payment of the prescribed fee, in the case of a birth certificate, of three pence and, in the case of a marriage or death certificate of five pence,
+(b)  on payment of the prescribed fee,
 
 be entitled to obtain a copy, certified under the hand of the custodian, of the entry of those particulars.
+
+(2A) Any certified copy obtained under subsection (2) shall be retained by the Director.
 
 (3)  Requisitions for the purposes of subsection (2) shall be in such form and contain such particulars as may from time to time be specified by the Registrar, and suitable forms thereof shall, on request, be supplied without charge by the Registrar.
 
 (4)  In this section the word “Registrar” means either the Registrar of Births and Deaths appointed under the Births and Deaths Registration Act, or the Marriage Registrar, appointed under the Marriage Act, as the case may be.
 
-Exemption from stamp duty.
-
 Social Security (Insurance)
 
-1955-14
+1955-14 Exemption from stamp duty.
 
 42. Stamp duty shall not be chargeable upon such documents used in connection with business under this Act as may be specified in Schedule 5.
 
