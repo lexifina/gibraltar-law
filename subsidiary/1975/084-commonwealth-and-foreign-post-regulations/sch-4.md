@@ -14,7 +14,7 @@ Maximum Weight Maximum size 1. Letter 2 kg. Length, width and depth combined - 9
 
 3. Printed papers 2 kg. (For books: 5kg.) As for letters. 4. Literature for the blind 7 kg. As for letters
 
-5. Small packets 1 kg. As for letters
+5. Small packets 2 kgs. As for letters
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
