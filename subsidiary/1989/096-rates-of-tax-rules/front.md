@@ -12,7 +12,7 @@ RATES OF TAX RULES, 1989
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.1990/176 rr. 2(c), (d) and 7 1.7.1991 1992/018 rr. 2(b), (d) and (e), 3 and 6 1.7.1991 1993/045 rr.2, 3 and 8 8.3.1993
+LN.1990/176 rr. 2(c), (d) and 7 1.7.1991 1992/018 rr. 2(b), (d) and (e), 3 and 6 1.7.1991 1993/045 rr.2, 3 and 8 8.3.1993 1992/022 r.2(e) and (f) 1.7.1993
 
 ____________________________
 
