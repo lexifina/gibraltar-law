@@ -14,7 +14,7 @@ Acts.  1988-27 ss.2(2), 2(3), 4(1), 4(2), 13(1), 13(1A), 13(1B), 13(2), 13(4A), 
 
 31.12.1988 1997-07 ss. 2(1), 4(1)(a), 4(1)(b), 4(1A), 4(2), 4(3), 8, 9(1), 15(1) and 15(2),
 
-1.6.1997 1998-50 s. 4(1B) 24.12.1998
+1.6.1997 1998-50 s. 4(1B) 24.12.1998 2004-28 s. 2(1) 1.5.2004
 
 EU Legislation/International Agreements involved: Directive 72/166/EEC Directive 84/5/EEC Directive 90/232/EEC
 
@@ -64,7 +64,7 @@ Insurance (Motor Vehicles) (Third Party Risk)
 
 “policy of insurance” includes a cover note;
 
-“ relevant foreign state”  is  a  reference  to  Czechoslovakia, Hungary, Norway, Switzerland or to any other country which the Governor may by notice in the Gazette designate;
+“ relevant foreign state”  is  a  reference  to  Norway, Switzerland or to any other country which the Governor may by notice in the Gazette designate;
 
 “road” means any highway and any other road to which the public has access, and includes bridges over which a road passes and includes any road belonging to the Crown to which the public has or is permitted access;
 
