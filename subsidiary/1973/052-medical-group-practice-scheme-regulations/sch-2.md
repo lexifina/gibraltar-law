@@ -4,55 +4,49 @@ Regulation 5.
 
 FORM OF APPLICATION.
 
-To the Gibraltar Health Authority.
+GIBRALTAR HEALTH AUTHORITY
 
-I (Full Name) …………………………………………………………….
+MEDICAL (GROUP PRACTICE) SCHEME
 
-of (address) ………………………………………………………………
+Application for Registration.
 
-(Date of Birth) ……………………………………………………………
+Please fill in the following details:
 
-Being a person who is *insured/not insured under the Social Security (Employment Injuries Insurance) Act and or the Social Security (Insurance) Act apply for registration as a member of the Medical Group Practice Scheme.
+Surname First Name
 
-My dependants whom I wish to include are –
+Initial(s) Address Nationality Tel No.
 
-Name
+Date of Birth Sex No of dependants
 
-Relationship
+I.D. No. Doctor
 
-Date of Birth
+Blood Group Are you diabetic? Yes/No Are you a Blood donor? Yes/No
 
-………………………      ………………………….       ………………… ………………………      ………………………….       ………………… ………………………      ………………………….       ………………… ………………………      ………………………….       ………………… ………………………      ………………………….       …………………
+I
 
-*I enclose the sum of ………………  as the first fee due.
+of
 
-Date: …………………….   Signed: …………………………….
+herby declare that the above particulars are true to the best of my knowledge and belief. I acknowledge that it is an offence wilfully to make any false statement or any material misrepresentation in this application, with the intention of obtaining or attempting to obtain any benefit to which I or any of my dependants are not entitled.
 
-*Delete as applicable.
+being a person who is * insured/not insured under the Social Security (Employment Injuries Insurance) Act and or the Social Security (Insurance) Act apply for registration as a member of the Medical Group Practice Scheme.
 
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
+DATE
 
-1973-14
+SIGNED
 
-Subsidiary 1973/052
+Please complete a form in respect of each of the dependants for whom an application for registration is being made. -------------------------------------------------------------------------------- For office use only:
 
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
+Health Centre No. Registration No.
 
-1973-14
-
-Subsidiary 1973/052
+Zone
 
 Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
 
 1973-14
 
-Subsidiary 1973/052
+Subsidiary 1973/052 Category
 
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
-
-1973-14
-
-Subsidiary 1973/052
+Renewal
 
 Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
 
