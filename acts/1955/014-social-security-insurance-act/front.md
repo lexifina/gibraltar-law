@@ -68,7 +68,7 @@ LN. 1981/106 s. 20, Sch.2
 
 Social Security (Insurance)
 
-1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988
+1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988 Act. 1988-10 s. 29(2) 23.6.1988
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -872,7 +872,7 @@ Social Security (Insurance)
 
 1955-14
 
-(2)  If at any time the balance to the credit of the Fund be insufficient to meet wholly or in part the payments chargeable to the Fund, such balance shall be supplemented by temporary advances from the Consolidated Fund.
+(2)  Repealed.
 
 (3)  Accounts of the Fund shall be prepared in such form, in such manner and at such times as the Financial and Development Secretary may direct, and the Principal Auditor shall examine and certify every such account.
 
@@ -900,9 +900,7 @@ Social Insurance Advisory committee.
 
 Social Security (Insurance)
 
-1955-14
-
-(4)  The Director shall furnish the Committee with such information as they may reasonably require for the proper discharge of their functions under this Act.
+1955-14 (4)  The Director shall furnish the Committee with such information as they may reasonably require for the proper discharge of their functions under this Act.
 
 Determination of claims and questions by Director.
 
