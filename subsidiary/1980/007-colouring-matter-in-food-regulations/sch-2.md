@@ -30,7 +30,7 @@ Subsidiary 1980/007
 
 PART III. PURITY CRITERIA APPLICABLE TO PERMITTED SOLVENTS WHICH ARE PERMITTED DILUENTS.
 
-Each permitted solvent shall comply with the specification specified in relation thereto in Schedule 1 to the Solvents in Food Regulations, 1967, as amended  and, so far as is not otherwise provided by that specification, shall not contain–
+Each permitted solvent shall comply with the specification specified in relation thereto in Schedule 1 to the Solvents in Food Regulations, 1985, and  so far as is not otherwise provided by that specification shall not contain–
 
 (a)  more than 2 milligrams per kilogram of arsenic;
 

@@ -10,9 +10,15 @@ COLOURING MATTER IN FOOD REGULATIONS
 
 3.1.1980
 
-______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS
+LN. 1987/040 rr. 2(1), 6(1), 9, 11(2), Sch. 1 1.8.1987
+
+Food and Drugs COLOURING MATTER IN FOOD REGULATIONS
+
+1964-07
+
+Subsidiary 1980/007 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
