@@ -16,7 +16,7 @@ Signature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 2. Prescribed fee.
 
-The fee prescribed for the issuing of a permit under regulation 9(5) is £10.
+The fee prescribed for the issuing of a permit under regulation 9(5) is £20.
 
 3. Form of Permit for additional opening hours.
 
