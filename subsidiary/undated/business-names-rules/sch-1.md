@@ -6,7 +6,7 @@ FORM R.B.N. 1.–Application for Registration by an Individual.
 
 No. of Certificate.
 
-NOTE.–£2.50 in stamps must be affixed in the space provided and the statement must then be sent or delivered to the Registrar of Business Names, Supreme Court.
+NOTE.–£2.50 in stamps must be affixed in the space provided and the statement must then be sent or delivered to the Registrar of Business Names, at the office of the Registry.
 
 £2.50 in stamps to be affixed here.
 
@@ -26,11 +26,13 @@ Dated this day of
 
 , 20       .
 
-(Signature) (See Note C). (See Note B).
+(See Note C). (See Note B).
 
 Business Names Registration BUSINESS NAMES RULES.
 
 Subsidiary 1918.10.29 1918-21
+
+(Signature)
 
 NOTE A.–This statement must in all cases be signed by the individual applying for registration, and must be sent by post or delivered to the Registrar within fourteen days of commencing to carry on such business.
 
@@ -52,7 +54,7 @@ Section 3(a) & (c).
 
 No. of Certificate.
 
-NOTE.–£2.50 in stamps must be affixed in the space provided and the statement must be then sent or delivered to the Registrar of Business Names, Supreme Court.
+NOTE.–£2.50 in stamps must be affixed in the space provided and the statement must be then sent or delivered to the Registrar of Business Names, at the office of the Registry.
 
 £2.50 in stamps to be affixed here.
 
@@ -130,7 +132,7 @@ Section 4.
 
 No. of Certificate.
 
-NOTE.–£2.50 in stamps must be affixed in the space provided and the statement must be sent or delivered to the Registrar of Business Names, Supreme Court.
+NOTE.–£2.50 in stamps must be affixed in the space provided and the statement must be sent or delivered to the Registrar of Business Names, at the office of the Registry.
 
 £2.50 in stamps to be affixed here.
 
@@ -152,13 +154,13 @@ NOTE.–£2.50 in stamps must be affixed in the space provided and the statement
 
 The following Statement of Additional Particulars (8), (9), (10), (11), (12) and (13) is to be furnished in respect of the carrying on by such corporation of the business wholly or mainly as nominee or trustee of or for another corporation, provided that if the business is carried on under any trust and any of the beneficiaries are a class of children or other persons, then the particulars required under (13) only need be furnished.
 
-1 2 3 4 5 6 7 8.– The present fore  name or names and surname or the corporation name of every person or corporation on whose behalf the
+1 2 3 4 5 6 7 8.– The present fore  name or names and surname or the corporation name of every person or
 
 (See Note B).
 
 Business Names Registration BUSINESS NAMES RULES.
 
-Subsidiary 1918.10.29 1918-21 business is carried on. 9.– Any former name or names of any person on whose behalf the business is carried on.
+Subsidiary 1918.10.29 1918-21 corporation on whose behalf the business is carried on. 9.– Any former name or names of any person on whose behalf the business is carried on.
 
 10.– The nationality of every person on whose behalf the business is carried on.
 
@@ -412,7 +414,7 @@ Signature or Signatures }
 
 To
 
-The Registrar of Business Names, Supreme Court.
+The Registrar of Business Names, at the office of the Registry.
 
 NOTE.–This notice must in the case of a firm be signed by the persons who were partners of the firm at the time when it ceased to carry on business, or, in the case of an individual, by the individual, except in the case of the death of an individual, when it must be signed by the personal representative of the deceased, and must in either case be sent by post or delivered to the Registrar within three months after the business has ceased to be carried on.
 
@@ -482,7 +484,7 @@ day of
 
 (Signed)
 
-To the Registrar of Business Names, Supreme Court.
+To the Registrar of Business Names, at the office of the Registry.
 
 NOTE.–This notice must have stamps of the value of £5 affixed, and must be sent by post or delivered within twenty-one days of the date of the notice of the Registrar’s decision, to the Registrar from whose decision the appellant appeals, together with a statement of the grounds of appeal and of the appellant’s case in support thereof.
 
