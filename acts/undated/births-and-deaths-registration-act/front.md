@@ -26,6 +26,10 @@ Acts. 1889-07 s. 36
 
 1980-04 s. 3(2)
 
+1986-02 ss. 2, 6, 8, 10(2), 11, 12, 13(3), 16(4), 20, 21, 26, 29, 35(2), 36(3), 37, 39(3), 40, 42, Sch.
+
+1.7.1986
+
 English and Scottish sources
 
 Births and deaths Registration Act 1836 (6 & 7 Wm. 4 c.86) Registration of Births, Deaths and Marriages (Scotland) Act 1854 (17 & 18 Vict. c.80) Births and Deaths Registration Act 1874 (37 & 38 Vict. c.88) Perjury Act 1911 (1 & 2 Geo. 5 c.6) Births and Deaths Registration Act 1926 (16 & 17 Geo. 5 c.48) Family Law Reform Act 1969 ( 1969 c.46)
@@ -82,7 +86,7 @@ Registration of Deaths.
 
 20.
 
-Register of deaths to be kept in three parts. 21.
+Register of deaths. 21.
 
 When medical practitioner to transmit to Registrar certificate of death. 22.
 
@@ -121,5 +125,11 @@ Rules.
 41.
 
 Rules.
+
+Notices etc.
+
+42.
+
+Sending of documents by post.
 
 Births and Deaths Registration
