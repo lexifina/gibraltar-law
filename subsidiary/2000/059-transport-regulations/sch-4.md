@@ -23,3 +23,9 @@ Transport TRANSPORT REGULATIONS 2000
 1998-44
 
 Subsidiary 2000/059 2.5  In calculating the seating capacity of a vehicle constructed for the carrying of children not exceeding twelve years of age, two seats shall count as three.
+
+___________________________
+
+Schedule 5 Regulation 3(3) Fees
+
+1 Self-Drive Operators Licence £250 2 Road Haulage Operators Licence £250
