@@ -28,7 +28,7 @@ regs.of 4.10.1960 r. 6
 
 1979/101 –
 
-1980/114 Schs.3-4 1980/130 Sch.3 (corrigendum) 1981/116 r. 20(3), Schs.3-4 1982/086 Schs.3-4 1983/102 Schs.3-4
+1980/114 Schs.3-4 1980/130 Sch.3 (corrigendum) 1981/116 r. 20(3), Schs.3-4 1982/086 Schs.3-4 1983/102 Schs.3-4 1984/095 Schs.3-4 25.12.1984
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
