@@ -18,11 +18,11 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 31.7.2003 2004-31 ss. 39(1)-(2), 41(3), 46A, 49(9), Sch.1
 
-4.11.2004 2004-33 ss. 63A(1), (3)-(4), Sch.3 4.12.2004
+4.11.2004 2004-33 ss. 63A(1), (3)-(4), Sch.3 4.12.2004 2005-06 ss. 63(6), 63A-63C, Sch.3 9.2.2005
 
 Immigration Control
 
-1962-12 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2002/90/EC
+1962-12 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2002/90/EC Decision 2002/946/JHA
 
 Immigration Control
 
@@ -110,11 +110,11 @@ Arrest, detention and removal.
 
 Offences.
 
-62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A.
+62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. Assisting illegal immigration into another state.
 
 Immigration Control
 
-1962-12 64. Landing without permit or certificate. 65. Offences by Community nationals. 66. Other offences.
+1962-12 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate. 65. Offences by Community nationals. 66. Other offences.
 
 Rules.
 
@@ -122,9 +122,7 @@ Rules.
 
 SCHEDULE 1 States Party to the EEA Agreement
 
-SCHEDULE 2 Repealed
-
-SCHEDULE 3 Facilitating entry into or residence in another country
+SCHEDULE 2 Facilitating entry into or residence in another country
 
 Immigration Control
 
