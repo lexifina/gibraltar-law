@@ -18,7 +18,9 @@ Acts.1972-05 ss.16(4), 43(1) and (3)
 
 1976-22 ss.2(1), 15(1) and Sch. 6
 
-1978-16 ss.18 and 18A
+1978-16 ss.18 and 18A 1984-07 ss. 2(1), 6(1), 16(4), 18(1), 18A(1) & (3), 21(1), 23(1) & (2), 24(1), 25(4), 26(2), (5) & (8), 27, 29, 41, 43(1) & (3), 44,, 44A,  46, 58, 58A and Sch. 2
+
+1.7.1984
 
 English Source: Food and Drugs Act 1955 (4 & 5 Eliz. 2 c.16)
 
@@ -62,7 +64,7 @@ PART II. MILK, DAIRIES AND CREAM SUBSTITUTES.
 
 Milk and Dairies.
 
-22.  Meaning of “dairy”, “dairy farm”, etc. 23.  Milk and Dairies Regulations. 24.  Registration of dairymen and dairies and licensing of dairy farms and dairy farmers. 25.  Prohibition of sale of milk from diseased cows and goats. 26.  Adulteration, etc., of milk. 27.  Presumptive evidence of adulteration of milk.
+22.  Meaning of “dairy”, “dairy farm”, etc. 23.  Milk and Dairies Regulations. 24.  Registration of dairymen and dairies and licensing of dairy farms and dairy farmers. 25.  Prohibition of sale of milk from diseased cows and goats. 26.  Adulteration, etc., of milk. 27.  Repealed.
 
 Cream substitutes.
 
@@ -88,7 +90,7 @@ Food and Drugs
 
 Legal proceedings.
 
-44.  Punishment of offences. 45.  Offences by corporations. 46.  Prosecutions. 47.  Evidence of analysis. 48.  Presumptions. 49.  Power of court to require analysis by Government Chemist in United Kingdom. 50.  Contravention due to default of some other person. 51. Conditions under which warranty may be pleaded as defence. 52.  Offences in relation to warranties and certificate of analysis.
+44.  Punishment of offences. 44A. Offences triable summarily. 45.  Offences by corporations. 46.  Prosecutions. 47.  Evidence of analysis. 48.  Presumptions. 49.  Power of court to require analysis by Government Chemist in United Kingdom. 50.  Contravention due to default of some other person. 51. Conditions under which warranty may be pleaded as defence. 52.  Offences in relation to warranties and certificate of analysis.
 
 Appeals.
 
@@ -100,7 +102,7 @@ Compensation.
 
 PART IV. MISCELLANEOUS AND GENERAL.
 
-58.  Regulations, orders, etc. 59.  Expenses. 60.  Application of fines. 61.  Protection for officers acting in good faith. 62.  Incorporation of certain provisions of Public Health Act. 63.  Temporary continuance of licence or registration on death.
+58.  Regulations, orders, etc. 58A. Regulations to conform to Community Requirements. 59.  Expenses. 60.  Application of fines. 61.  Protection for officers acting in good faith. 62.  Incorporation of certain provisions of Public Health Act. 63.  Temporary continuance of licence or registration on death.
 
 SCHEDULE 1.
 
@@ -110,11 +112,11 @@ SCHEDULE 2.
 
 Refusal and cancellation of registration of dairymen and dairies.
 
-SCHEDULE 3.
-
 Food and Drugs
 
 1964-07
+
+SCHEDULE 3.
 
 Diseases of cows or goats to which section 25 applies.
 

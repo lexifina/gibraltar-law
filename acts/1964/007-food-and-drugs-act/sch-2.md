@@ -20,7 +20,7 @@ DAIRYMEN.
 
 Food and Drugs
 
-1964-07 5. The court before whom a person registered as a dairyman is convicted of an offence under any of the provisions relating to milk in this Act, or under Milk and Diaries Regulations, may, in addition to any other punishment, cancel his registration as such.
+1964-07 5. The court before whom a person registered as a dairyman is convicted of an offence under any of the provisions relating to milk in this Act, or under any regulations made under this Act, may, in addition to any other punishment, cancel his registration as such.
 
 6. Where under this Part of this Schedule a person’s application for registration is refused, or his registration is cancelled, he shall not be liable for any breach of contract for the purchase of further supplies of milk from any person, if the refusal or cancellation was due to the quality of the milk supplied by that person.
 
@@ -28,7 +28,7 @@ PART II. DAIRIES.
 
 7. If in the case of any premises in respect of which an application is made for registration as a dairy, or which are registered as such, it appears to the Government–
 
-(a)  that any requirement of any Milk and Diaries Regulations cannot be or are not being complied with, as the case may be, in connection with the premises or the business proposed to be carried on or carried on at the premises; or
+(a)  that any requirement of any regulations made under this Act cannot be or are not being complied with, as the case may be, in connection with the premises or the business proposed to be carried on or carried on at the premises; or
 
 (b)  that the premises or any part of the premises are otherwise unsuitable (having regard to considerations of hygiene and in particular to the situation, construction or condition of the premises, or to the activities proposed to be carried on or carried on thereat) for use for the purpose or purposes specified in the application or for which they are used, as the case maybe,
 
