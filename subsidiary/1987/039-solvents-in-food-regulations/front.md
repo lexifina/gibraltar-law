@@ -1,18 +1,18 @@
-Food and Drugs SOLVENTS IN FOOD REGULATIONS, 1987
+Subsidiary Legislation made under ss. 6, 8 and 58.
 
-1964-07
+Solvents in Food Regulations, 1987
 
-Subsidiary 1987/039 Regulations made under sections 6, 8 and 58.
+LN. 1987/039
 
-SOLVENTS IN FOOD REGULATIONS, 1987
+Commencement 1.8.1987
 
-(LN. 1987/039)
+Amending enactments Relevant current provisions Commencement date
 
-1.8.1987
+LN. 1990/059 r. 2(1) 1.7.1990
 
-Transposing: Directive 78/663/EEC ___________________
+Transposing: Directive 78/663/EEC
 
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -21,7 +21,3 @@ Regulation
 4. Sale of solvents and food containing solvents. 5. Advertising of solvents. 6. Labelling of solvents. 7. Condemnation of food. 8. Penalties. 9. Defences. 10. Application of various sections of the Act.
 
 SCHEDULE 1. PERMITED SOLVENTS.
-
-SCHEDULE 2. LABELLING OF SOLVENTS.
-
-Food and Drugs SOLVENTS IN FOOD REGULATIONS, 1987

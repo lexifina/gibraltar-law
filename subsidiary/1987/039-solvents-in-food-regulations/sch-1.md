@@ -24,28 +24,18 @@ Ash. acidity. ester content sulphates and chlorides shall be determined by the m
 
 Glycerol tri-acetate (Triacetin) Relative Density: 1. 156-1. 166 g/ml. at 20c
 
-Refractive  Index:  1.430-1.434  at 200C for sodium D line.
+Refractive Index:  1.430-1.434 at 200C for sodium D line.
 
 Water 0.2% W/W max.
 
-Ash: 0.02%  W/W max.
+Ash: 0.02% W/W max.
 
-Total Acidity: 0.05% W/W max calculated as CH3
-
-Food and Drugs SOLVENTS IN FOOD REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/039 COOH.
+Total Acidity: 0.05% W/W max calculated as CH3 COOH.
 
 Ester Content: 98.0-100% calculated as (CH3C00)3C3H5.
 
 Colour. 15 Hazen Units.
 
-Water, ash, total acidity and ester content shall be determined by  the methods set out in British Standard 1997:1962. Colour shall be determined by the method set out in British Standard 4ll7: 1967 iso-Propyl Alcohol As set out in the British Pharmacopoeia 1963 at page 431. Propylene Glycol As set out in the Annex to Council Directive 78/664/EEC.
+Water, ash, total acidity and ester content shall be determined by the methods set out in British Standard 1997:1962. Colour shall be determined by the method set out in British Standard 4ll7: 1967 iso-Propyl Alcohol As set out in the British Pharmacopoeia 1963 at page 431.
 
-Food and Drugs SOLVENTS IN FOOD REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/039
+Propylene Glycol As set out in the Annex to Council Directive 78/664/EEC.
