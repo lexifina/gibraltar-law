@@ -10,7 +10,7 @@ Act. No. 1948-30 Commencement 1.1.1949 Assent 24.8.1948
 
 Amending enactments Relevant current provisions Commencement date Acts. 1960-21 ss. 5-6, 9, 17 1968-17 ss. 2(1), 8, 17(1) Reg. of  28.5.1970 ss. 2(1), 4, 7, 24(4)-(5) Acts. 1974-16 s. 2(2) 1975-32 ss. 2(1), 10, 21, 26 1983-48 s. 12 1987-34 ss. 4, 7, 10, 24 1.2.1988 1987-33 ss. 2(1), 10(1A)-(1B), (2), (9), 14(2), 15, 18(3), 20-24, 25(2)-(3), 25A
 
-1.3.1988
+1.3.1988 1991-11 ss. 8-9 9.5.1991
 
 English sources: Protection of Birds Act 1954 (2 and 3 Eliz. 2 c.30) Protection of Animals (Amendment) Act 1954 (2 and 3 Ell. 2 c.40) Abandonment of Animals Act 1960 (8 and 9 Eliz. 2 c.43)
 
@@ -28,7 +28,7 @@ PART II. DISEASES OF ANIMALS AND BIRDS.
 
 PART III. PROTECTION OF ANIMALS AND BIRDS.
 
-5. Cruelty to animals or birds. 6. Abandoning animals. 7. Export of horses. 8.Protection of wild birds. 9.Protection of captive birds. 10. Registration, licensing and vaccination of dogs. 11. Injuries by animals or birds to persons or property. 12. Repealed.
+5. Cruelty to animals or birds. 6. Abandoning animals. 7. Export of horses. 8. Repealed. 9. Repealed. 10. Registration, licensing and vaccination of dogs. 11. Injuries by animals or birds to persons or property. 12. Repealed.
 
 PART IV. LEGAL PROCEEDINGS.
 
