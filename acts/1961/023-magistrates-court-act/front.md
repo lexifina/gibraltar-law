@@ -24,11 +24,17 @@ Act. 1971-19 –
 
 1975-15 s. 6 (4)
 
-LN. 1977/012 – Act. 1978-06 – 1980-04 s. 9(4) 1983-12 – 1983-48 – 1988-35 s. 68A 15.12.1988 1993-16 ss. 44(1), 65 1.9.1993 1993-29 s. 45(d)-(e) 5.11.1998 2004-11 s. 26 1.9.2004
+LN. 1977/012 – Act. 1978-06 – 1980-04 s. 9(4) 1983-12 – 1983-48 – 1988-35 s. 68A 15.12.1988 1993-16 ss. 44(1), 65 1.9.1993 1993-29 s. 45(d)-(e) 5.11.1998 2004-11 s. 26 1.9.2004 2005-09 s. 45(a), (e) 9.2.2005
 
 Rules of court made under s.69 and other powers appear under the title Supreme Court.
 
+Magistrates’ Court
+
+1961-23
+
 English sources: Justice of the Peace Act 1949 (12, 13, & 14 Geo.6c101) Magistrates’ Court Act 1952 (15 & 16 Geo.6 and 1 Eliz.2 c.55) Maintenance Orders Act 1958 (6 & 7 Eliz.2c.39) Legitimacy Act 1959 (7 & 8 Eliz.2 c.73) Administration of Justice Act 1964 (1964 c.42)
+
+Implementing: Regulation (EC) No 2201/2003
 
 Magistrates’ Court
 
@@ -168,7 +174,9 @@ Magistrates’ Court
 
 Magistrates’ Court
 
-1961-23 ARRANGEMENT OF SECTIONS
+1961-23
+
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -194,11 +202,9 @@ Criminal
 
 21. General criminal jurisdiction. 22. Summary and indictable offences. 23. Extradition.
 
-Civil
-
 Magistrates’ Court
 
-1961-23
+1961-23 Civil
 
 24. General civil jurisdiction. 25. Complaints. 26. Revoked.
 
@@ -222,11 +228,9 @@ PART V.–ENFORCEMENT OF ORDERS
 
 General provisions
 
-51. Power to allow time for payment.
-
 Magistrates’ Court
 
-1961-23 52. Enforcement by distress or committal. 53. Restriction on committal for civil debt. 54. Postponement of issue of warrants. 55. Defects and irregularities. 56. Release, etc., on payment.
+1961-23 51. Power to allow time for payment. 52. Enforcement by distress or committal. 53. Restriction on committal for civil debt. 54. Postponement of issue of warrants. 55. Defects and irregularities. 56. Release, etc., on payment.
 
 Maintenance orders
 
