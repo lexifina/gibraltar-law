@@ -28,7 +28,9 @@ LN. 1976/036 r. 17(4)
 
 1.2.1991 1991/181 Sch 2 14.10.1991 1996/119 rr. 10(a)-(b), 22, 30(2)(c), 31, 37(1)-(2), (4), 39. Schs. 1-3, 5
 
-1.1.1997 1998/053 Sch. 2 2.7.1998 1999/030 Schs. 1-4 1.4.1999
+1.1.1997 1998/053 Sch. 2 2.7.1998 1999/030 Schs. 1-4 1.4.1999 2004/089 rr. 10, 11(2)(h), 27, 30(2), 37(1),(3), 37(2), Sch 2-4
+
+13.9.2004
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
@@ -42,7 +44,7 @@ Regulation
 
 PART I. RATES OF POSTAGE.
 
-4. Letters and postcards. 5. Air mail packets. 6. Reduced rate printed packets. 7. Other printed packets and small packets. 8. Literature for the blind. 9. Insured boxes. 10. Bulk postage.
+4. Letters and postcards. 5. Air mail packets. 6. Reduced rate printed packets. 7. Other printed packets and small packets. 8. Literature for the blind. 9. Insured boxes. 10. Revoked.
 
 PART II. GENERAL CONDITIONS.
 
@@ -70,7 +72,7 @@ SCHEDULE 1. Surface (All Countries)
 
 SCHEDULE 2. Air Mail Rates of Postage on Postal Packets posted in Gibraltar
 
-SCHEDULE 3. Rates of Postage Payable Printed Packets.
+SCHEDULE 3. Revoked.
 
 SCHEDULE 4. Limits of Weight and Size.
 

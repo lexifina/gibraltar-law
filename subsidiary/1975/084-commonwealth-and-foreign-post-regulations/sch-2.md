@@ -1,76 +1,130 @@
 SCHEDULE 2. Regulation 5.
 
-AIRMAIL RATES OF POSTAGE ON POSTAL PACKETS POSTED IN GIBRALTAR
+AIR MAIL RATES OF POSTAGE ON POSTAL PACKETS POSTED IN GIBRALTAR.
 
-PART I
+EUROPE Destination                        Description Rate of Postage
 
-Destination
+PART 1A.
 
-Description Rate of Postage European Countries (a)  Letters including letter packets –
+United Kingdom (a)  Letters including letter packets–
 
 (i)  For the first 20 grammes or part thereof
 
+38p
+
 (ii)  For every 10 grammes or part thereof after the first 20 grammes
+
+15p
 
 (b)  Postcards conforming in all respects to the regulations relating thereto
 
+38p
+
 (c)  Air letters conforming in all respects to the regulations relating thereto
 
-(d)  For the purpose of Part I, countries are as follows –
+38p
 
-EU DESTINATIONS
+PART 1B
 
-Andorra Austria Belgium Denmark Finland France (including Corsica) Germany Greece Ireland Italy Luxembourg Monaco Netherlands
+All other European Countries and Morocco
 
-30p
+(a) Letters including letter packets–
 
-12p
+(i)  For the first 20 grammes or part thereof
 
-30p
+40p
 
-36p
+(ii)  For every 10 grammes or part thereof after the first 20 grammes
 
-Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
+16p
 
-1961-10
+(b)  Postcards conforming in all respects to the regulations relating thereto
 
-Subsidiary 1975/084 Portugal (including Azores & Madeira) San Marino Spain (including Balearic & Canary Islands) Sweden United Kingdom Vatican City State
+40p
 
-NON-EU DESTINATIONS
+(c)  Air letters conforming in all respects to the regulations relating thereto
 
-Albania Armenia Azerbaijan Belarus Bosnia-Herzegovina Bulgaria Croatia Cyprus Czech Republic Estonia Faroe Islands Georgia Greenland Hungary Iceland Kazakhstan Kirghizstan Latvia Liechtenstein Lithuania Macedonia (former Yugoslav Republic) Malta Moldova Montenegro Norway Poland Romania Russia Serbia Slovak Republic Slovenia Spitzbergen Switzerland Tajikistan Turkey Turkmenistan Ukraine Uzbekistan
+40p
 
-PART II
+(d)  For the purposes of Part IB, countries are as following
 
-COUNTRIES OUTSIDE EUROPE
-
-(a)  Postal packets –
-
-First 10 grammes or part thereof Each additional 10 grammes or part thereof
-
-Air Letters Postcards
+EUROPEAN COUNTRIES Albania Lithuania Andorra Luxembourg
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 1961-10
 
-Subsidiary 1975/084 Zone 1 40p 14p 36p 40p Zone 2 40p 20p 36p 40p
+Subsidiary 1975/084 Armenia Macedonia (former Yugoslav Republic) Austria Malta Azebaijan Moldova Belarus Monaco Belgium Montenegro Bosnia-Herzegovina Netherlands Bulgaria Norway Croatia Poland Cyprus Portugal (including the Azores & Czech Republic Madeira) Denmark Romania Estonia Russia Finland San Marino Faroe Islands Serbia France (including Corsica) Slovak Republic Georgia Slovenia Germany Spain (including Balearic & Canary Greece Islands) Greenland Sweden Hungary Switzerland Iceland Tajikistan Ireland Turkey Italy Turkmenistan Kazakhstan Ukraine Kirghizstan Uzbekistan Latvia Vatican City State Liechtenstein
 
-(b)  For the purposes of Part II, countries are zoned as follows –
+PART II.
+
+COUNTRIES OUTSIDE EUROPE.
+
+(a) Postal packets
+
+First 10 grammes or part thereof Each additional grammes or part thereof Air Letters Postcards Zone 1 47p 18p 44p 47p Zone 2 47p 22p 44p 47p
+
+(b) For the purposes of Part II, countries are grouped as follows:
 
 ZONE 1
 
-Abu Dhabi Afghanistan Ajman Algeria Angola Anguilla Antigua & Barbuda Argentina Aruba Ascension Bahamas Bahrain Bangladesh Barbados Belize Benin Bermuda Bhutan Bolivia Botswana Brazil British Indian Ocean Territories British Virgin Islands Brunei Darussalam Burkina Faso Burma (see Myanmar) Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile Christmas Island Cocos Island (Keeling Island) Colombia Comoros Congo Congo (Democratic Republic) Costa Rica Cuba Curacao Djibouti Dominica Dominican Republic Dubai Ecuador Egypt El Salvador Equitorial Guinea Eritrea Ethiopia Falkland Islands French Guinea French West Indies Fujairah Gabon Gambia Gaza & Khan Yunis Ghana Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hong Kong India Indonesia Iran Iraq Israel Ivory Coast Jamaica Jordan Kenya Kuwait Laos Lebanon Lesotho Liberia Libya Macao Madagascar Malawi Malaysia Maldives Mali Mauritania Mauritius Mexico Montserrat Morocco Mozambique Myanmar (formerly Burma) Namibia Nepal Netherland Antilles Nicaragua Nigeria Niger Republic Oman
+Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
+
+1961-10
+
+Subsidiary 1975/084
+
+Abu Dhabi Laos Afghanistan Lebanon Ajman Lesotho Algeria Liberia Angola Libya Anguilla
+
+Antigua & Barbuda Macao Argentina Madagascar Aruba Malawi Ascension Malaysia
+
+Maldives Bahamas Mali Bahrain Mauritania Bangladesh Mauritius Barbados Mexico Belize Montserrat Benin Mozambique Bermuda Myanmar (formerly Burma) Bhutan
+
+Bolivia Namibia Botswana Nepal Brazil Netherland Antilles British Indian Ocean Territories Nicaragua British Virgin Islands Nigeria Brunei Darussalam Niger Republic Burkina Faso Burma (see Myanmar) Oman Burundi
+
+Pakistan Cambodia Panama Cameroon Paraguay Canada Peru Cape Verde Puerto Rico Cayman Islands
+
+Central African Republic Qatar Chad Chile Ras al Kamiah Christmas Island Reunion Cocos Island (Keeling Island) Rwanda Colombia Comoros Sabah Congo St. Christopher (St. Kitts & Nevis)
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 1961-10
 
-Subsidiary 1975/084 Pakistan Panama Paraguay Peru Puerto Rico Qatar Ras al Khaimah Reunion Rwanda Sabah St. Christopher (St. Kitts & Nevis) St. Helena St. Lucia St. Pierre & Miquelon St. Vincent & Grenadines Sao Tome & Principe Sarawak Saudi Arabia Senegal Seychelles Sierra Leone Singapore Somalia South Africa South Georgia South Sandwich Islands Spanish North African Territories Sri Lanka Sudan Suriname Swaziland Syria Tanzania Thailand Tibet Togo Trinidad & Tobago Tristan da Cunha Tunisia Turks & Caicos Islands Uganda Umm al Qaiwan United Arab Emirates United States of America Uruguay Venezuela Vietnam Virgin Islands (US) Yemen Zambia Zimbabwe
+Subsidiary 1975/084 Congo (Democratic Republic) St. Helen Costa Rica St. Lucia Cuba St. Pierre & Miquelon Curacao St. Vincent & Grenadines Sao Tome & Principe Djibouti Sarawak Dominica Saudi Arabia Dominican Republic Senegal Dubai Seychelles
 
-ZONE 2
+Sierra Leone Ecuador Singapore Egypt Somalia El Salvador South Africa Equatorial Guinea South Georgia Eritrea South Sandwich Islands Ethiopia Spanish North African Territories
 
-Australia Belau (Palau) China (Peoples’ Republic of) East Timor Fiji French Polynesia French Southern & Antarctic Territories Guam Japan Kiribati Korea (Democratic Peoples’ Republic) Korea (Republic of) Marshall Islands Micronesia Mongolia Nauru Island New Caledonia New Zealand New Zealand Island Territories Norfolk Island Northern Mariana Island Papua New Guinea Philippines Pitcairn Island Samoa (American) Solomon Islands Taiwan Tonga Tuvalu Vanuatu Wake Island Wallis & Futuna Island Western Samoa.
+Sri Lanka Falkland islands Sudan French Guinea Suriname French West Indies Swaziland Fujairah Syria
+
+Gabon Tanzania Gambia Thailand Gaza & Khan Yunis Tibet Ghana Togo Grenada Trinidad & Tobago Guatemala Tristan da Cunha Guinea Tunisia Guinea-Bissau Turks & Caicos Islands Guyana
+
+Uganda Haiti Umm al Qaiwan Honduras United Arab Emirates Hong Kong United States of America
+
+Uruguay India Indonesia Venezuela Iran Vietnam Iraq Virgin Islands (US) Israel Ivory Coast Yemen
+
+Jamaica Zambia
+
+Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
+
+1961-10
+
+Subsidiary 1975/084 Jordan Zimbabwe Kenya Kuwait ZONE 2.
+
+Australia Nauru Island
+
+New Caledonia Belau (Palau) New Zealand
+
+New Zealand Island Territories China (Peoples’ Republic of) Norfolk Island
+
+Northern Mariana Island East Timor Papua New Guinea Fiji Philippines French Polynesia Pitcairn Island French Southern & Antarctic Territories
+
+Samoa (American) Guam Solomon Islands
+
+Japan Taiwan
+
+Tonga Kiribati Tuvalu Korea (Democratic Peoples’ Republic)
+
+Korea (Republic of) Vanuatu Marshall Islands Wake Island Micronesia Wallis & Futuna Island Mongolia Western Samoa
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
