@@ -1,0 +1,23 @@
+SCHEDULE 5.
+
+Regulation 15(6) SERIAL NUMBERS FOR ADDITIVES.
+
+Column 1 Column 2 Name of additive Serial number Ribloflavin-5’-phosphate 101a Yellow 2G 107 Red 2G 128 Brilliant Blue FCF 133 Brown FK 154 Chocolate Brown HT 155 Nisin 234 Sodium acetate, anhydrous                             } Sodium acetate                                                } 296 DL-Malic acid                                                 } L-Malic acid                                                    } 296 Fumaric acid 297 Sodium malate                                                  } Sodium hydrogen malate                                  } 350 Potassium malate 351 Calcium malate                                                  } Calcium hydrogen malate                                  } 352 Metatataric acid 353 Adipic acid 355 Succinic acid 363 1, 4-Heptonolactone 370 Nicotinic acid 375 TriAmmonium citrate 380 Ammonium ferric citrate                                 } Ammonium ferric citrate, green                       } 381 Calcium disodium ethylenediamine-NNN’N’ tetra-acetate (Synonym: Calcium disodium EDTA) 385 Karaya gum 416 Poloxyethylene (8) stearate 430 Polyoxyethylene (40) stearate 431 Polyoxyethylene (20) sorbitan monolaurate 432 Polyoxyethylene (20) sorbitan nono-oleate 433 Polyoxyethylene (20) sorbitan monopalmitate 434 Polyoxyethylene (20) sorbitan monostearate 435 Polyoxyethylene (20) sorbitan tristearate 436 Ammonium phosphatides 442
+
+Food and Drugs FOOD LABELLING REGULATIONS, 1987
+
+1964-07
+
+Subsidiary 1987/054 Polyglycerol esters of polycondensed fattry acids of castor oil (Synonym: Polyglycerol polyrincinoleate) 476 Lactylated fatty acid esters of glycerol and propane-1, 2- diol 478 Sorbitan monostearate 478 Sorbitan tristearate 491 Sorbitan monolaurate 492 Sorbitan mono-oleate 493 Sorbitan monopalmitate 494 Sodium carbonate 495 Sodium hydrogen carbonate                             } Sodium sesquicarbonate                                   } 500 Potassium carbonate                                         } Potassium hydrogen carbonate                          } 501 Ammonium carbonate                                        } Ammonium hydrogen carbonate                        } 503 Magnesium carbonate, heavy                             } Magnesium carbonate, light                               } 504 Hydrochloric acid 507 Potassium chloride 508 Calcium chloride, anhydrous                              } Calcium chloride                                                 } 509 Ammonium chloride 510 Sulphuric acid 513 Sodium sulphate 514 Potassium sulphate 515 Calcium sulphate 516 Magnesium sulphate 518 Sodium hydroxide 524 Potassium hydroxide 525 Calcium hydroxide 526 Ammonium hydroxide 527 Magnesium hydroxide 528 Calcium oxide 529 Magnesium oxide, heavy                                  } Magnesium oxide, light                                    } 530 Sodium ferrocyanide 535 Potassium ferrocyanide 536 DiCalcium diphospahte 540 Sodium aluminium phospate, acidic                   } Sodium aluminium phosphate, basic                  \] 541 Edible bone phosphate 542 Calcium polyphosphates 544 Ammonium polyphosphates 545 Silicon dioxide 551
+
+Food and Drugs FOOD LABELLING REGULATIONS, 1987
+
+1964-07
+
+Subsidiary 1987/054 Calcium silicate 552 Magnesium silicate, synthetic                           } Magnesium trisilicate                                        } 553a Talc 553b Aluminium sodium silicate 554 Aluminium calcium silicate 556 Bentonite 558 Kaolin, heavy                                                      } Kaolin, light                                                        } 559 Stearic acid 570 Magnesium stearate0 572 D-Glucono-1,5-lactone (Synonym: Glucono delta-lactone) 575 Sodium gluconate 576 Potassium gluconate 577 Calcium gluconate 578 L-glutamic acid 620 Sodium hydrogen L-glutamate (Synonym: monoSodium glutamate) 621 Potassium hyddrygen L-glutamate (Synonym: monoPotassium glutamate) 622 Calcium dihydrogen di-L-glutamate (Synonym: Calcium glutamate) 623 Guanosine 5’-(disodium phosphate) (Synonym: Sodium guanylate) 627 Inosine 5’-(disodium phosphate) (Synonym: Sodium inosinate) 631 Sodium 5’-ribonucleotide 635 Maltol 636 Ethyl maltol 637 Dimethylpolysiloxane 900 Beeswax, white                                               } Beeswax, yellow                                             } 901 Carnaubas wax 903 Shellac 904 Mineral hydrocarbons 905 Refined microcrystalline wax 907 L-cysteine hydrochloride                                  } L-cysteine hydrochloride monohydrate             } 920 Potassium bromate 924 Chlorine 925 Chlorine dioxide 926 Azodicarbonamide (Synonym: Azoformamide) 927
+
+Food and Drugs FOOD LABELLING REGULATIONS, 1987
+
+1964-07
+
+Subsidiary 1987/054
