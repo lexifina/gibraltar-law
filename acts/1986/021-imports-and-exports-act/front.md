@@ -12,7 +12,7 @@ Assent 21.11.1987
 
 Amending enactments Relevant current provisions Commencement date Act. 1987-06 s. 74(1)(a) , (2), Sch. 2 1.1.1987 1987-16 Sch. 1 28.4.1987 1987-36 Sch. 1 24.12.1987 1989-03 s. 73(1) 2.3.1989 1989-22 ss. 2(1), 63 10.8.1989 1990-01 ss. 49, 62(b), 74, 85, 112, 120, 124(a), Sch. 2
 
-22.2.1990 LN. 1990/021 Sch. 1 22.2.1990 Act. 1990-44 s. 112(1) 15.11.1990
+22.2.1990 LN. 1990/021 Sch. 1 22.2.1990 Act. 1990-44 s. 112(1) 15.11.1990 1991-15 s. 66(c)-(d) 1.1.1991
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
