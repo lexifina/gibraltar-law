@@ -10,7 +10,7 @@ Act. No. 1990-45 Commencement (LN.1992/121) 10.9.1992
 
 Assent 15.11.1990
 
-Amending enactments Relevant current provisions Commencement date LN. 1993/023 Sch. 18.2.1993 1993/129 Sch. 22.7.1993 1995/011 Sch. 26.1.1995
+Amending enactments Relevant current provisions Commencement date LN. 1993/023 Sch. 18.2.1993 1993/129 Sch. 22.7.1993 1995/011 Sch. 26.1.1995 1995/105 Sch. 6.7.1995
 
 Gibraltar  Coinage (ECU)
 
