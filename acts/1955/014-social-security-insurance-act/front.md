@@ -68,7 +68,7 @@ LN. 1981/106 s. 20, Sch.2
 
 Social Security (Insurance)
 
-1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988 Act. 1988-10 s. 29(2) 23.6.1988 1988-23 ss. 2(1), 29(1), 52(1)-(3) 24.11.1988 LN. 1988/150 Sch.1 2.1.1989 1990/187 Sch.1 27.12.1990
+1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988 Act. 1988-10 s. 29(2) 23.6.1988 1988-23 ss. 2(1), 29(1), 52(1)-(3) 24.11.1988 LN. 1988/150 Sch.1 2.1.1989 1990/187 Sch.1 27.12.1990 Act. 1993-20 s. 53 1.4.1993
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -152,7 +152,7 @@ PART IV.–MISCELLANEOUS AND GENERAL.
 
 Application to special classes of persons.
 
-46. Crown servants. 47. Members of the Gibraltar Regiment. 48. Married women. 49. Reciprocal agreements with United Kingdom, dominions, and foreign countries. 50. Repealed. 51. Transitional provisions as to death grant. 52. Review of contributions, benefits, etc.
+46. Crown servants. 47. Members of the Gibraltar Regiment. 48. Married women. 49. Reciprocal agreements with United Kingdom, dominions, and foreign countries. 50. Repealed. 51. Transitional provisions as to death grant. 52. Review of contributions, benefits, etc. 53. Power to wind up funds etc.
 
 SCHEDULE 1. Combined Social Insurance and Other Contribution Rates
 
@@ -1229,6 +1229,26 @@ Schedule 2, Parts V and VI.
 (2)  The Minister may, by order amend the sum specified in section 20 and the sums payable under those Parts of the Schedules specified in subsection (1).
 
 (3) No order increasing the weekly rate of contributions shall be made under this section unless it has been approved by resolution of the House of Assembly.
+
+Power to wind up funds etc.
+
+53. The Governor may, by regulation, make such provisions as may appear to him necessary or expedient for the purpose for the winding up and dissolution in an equitable and non-discriminatory manner of any fund provided for in this Act and without prejudice to the generality of the foregoing and notwithstanding any other provision of this Act, such regulations may–
+
+(a)  make provision for the transfer of the assets of any fund so wound up to one or more special funds;
+
+(b)  provide for the making of contributions by employers and self employed persons to any special fund referred to in paragraph (a) or to any special fund set up for the purpose of making
+
+Social Security (Insurance)
+
+1955-14 interim or transitional arrangements in advance of the coming into operation of occupational pension arrangements in respect of employment in Gibraltar;
+
+(c)  allow for the payment of amounts out of any special fund referred to amounts out of any special fund referred to in paragraph (a) or set up for the purpose of making transitional arrangements in advance of the coming into operation of occupational pension arrangements in respect of employment in Gibraltar;
+
+(d)  permit the making of advances from any fund due to be so wound up to any fund referred to in paragraph (a);
+
+(e)  amend, vary, modify or repeal any provision of this or any other Act for the purpose of giving effect to the winding up and dissolution of any fund;
+
+(f) make such transitional or other incidental or supplementary provisions as may appear to the Governor necessary or expedient for the purpose of this section.
 
 Social Security (Insurance)
 
