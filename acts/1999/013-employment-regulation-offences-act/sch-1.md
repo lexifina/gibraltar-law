@@ -76,7 +76,7 @@ Regulation 13 of the Employment Regulations 1994 (Duty to notify Director of ter
 
 Regulation 15A(4) of the Employment Regulations 1994 (Duty to notify Director of temporary employment of detached workers).
 
-Offences by self-employed persons
+Offences by employers and the self-employed
 
 Section 3 of the Business Trades and Professions (Registration) Act 1989 (Duty to register).
 

@@ -10,9 +10,13 @@ Act. No.   1999-13 Commencement 12.8.1999
 
 Assent 6.5.1999
 
-____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF SECTIONS.
+LN. 2000/019 Sch. 1 9.3.2000
+
+Employment Regulation (Offences)
+
+1999-13 ARRANGEMENT OF SECTIONS.
 
 Section Preliminary.
 
