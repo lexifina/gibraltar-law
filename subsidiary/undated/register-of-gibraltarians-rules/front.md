@@ -16,9 +16,13 @@ LN. 1971/008 r. 10
 
 1971/043 —
 
-1984/058 rr. 5, 10 1.7.1984
+1984/058 rr. 5, 10 1.7.1984 1989/084 r. 10, Sch. 4 1.10.1989
 
-__________________________________
+Gibraltarian Status REGISTER OF GIBRALTARIANS RULES
+
+1962-13
+
+Subsidiary 1962.06.07-2
 
 ARRANGEMENT OF RULES.
 
@@ -31,6 +35,8 @@ SCHEDULE 1. Register of Gibraltarians.
 SCHEDULE 2. Certificate of Registration.
 
 SCHEDULE 3. Copy of an Entry in the Register of Gibraltarians Pursuant to the Gibraltarian Status Act.
+
+SCHEDULE 4. Fees.
 
 Gibraltarian Status REGISTER OF GIBRALTARIANS RULES
 

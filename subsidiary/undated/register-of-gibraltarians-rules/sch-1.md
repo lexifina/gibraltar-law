@@ -10,4 +10,8 @@ Birth Authority Signature of Registrar Observations.
 
 Date Place
 
-____________________
+Gibraltarian Status REGISTER OF GIBRALTARIANS RULES
+
+1962-13
+
+Subsidiary 1962.06.07-2

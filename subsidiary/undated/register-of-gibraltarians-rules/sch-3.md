@@ -15,3 +15,9 @@ Witness my hand at Gibraltar this day of
 19   .
 
 Registrar of Gibraltarians.
+
+Gibraltarian Status REGISTER OF GIBRALTARIANS RULES
+
+1962-13
+
+Subsidiary 1962.06.07-2
