@@ -10,7 +10,7 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995 1995/103 Sch. 1 6.7.1995
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995 1995/103 Sch. 1 6.7.1995 1995/114 r. 6A, Sch. 2 16.8.1995
 
 Transposing: Directive 92/3/Euratom
 
@@ -26,7 +26,7 @@ Regulation
 
 Imports.
 
-2. Prohibited imports. 3. General licence. 4. Licences for particular goods. 5. Authorities for issue of licences. 6. Conditions of import licences.
+2. Prohibited imports. 3. General licence. 4. Licences for particular goods. 5. Authorities for issue of licences. 6. Conditions of import licences. 6A. Circumstances in which goods may be forfeit.
 
 Exports.
 
@@ -50,13 +50,11 @@ SCHEDULE 2. Goods the importation of which is not licensed under regulation 3.
 
 SCHEDULE 3. Conditions of import licences.
 
-SCHEDULE 4.
-
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006 Goods which may be exported to any destination.
+Subsidiary 1987/006 SCHEDULE 4. Goods which may be exported to any destination.
 
 SCHEDULE 5. Conditions of export licences.
 
@@ -112,6 +110,12 @@ Conditions of import licences.
 
 (b) may be subject to all or any of the conditions set out in Schedule 3 as the officer granting the licence may think fit.
 
+Circumstances in which goods may be forfeit.
+
+6A.  Where in respect of any ship, as defined in the Act, or any vessel, as defined in the Seaside Pleasure Boats Rules 1989 made under the Public Health Act, which is liable to duty the Collector of Customs is not satisfied that duty has been paid and the ship or vessel, as the case may be, is in Gibraltar the ship or vessel, as the case may be, shall be forfeit to the Crown whether or not any person is charged with any offence in connection with the ship or vessel and in such circumstances section 119(2) shall apply as if for the reference therein to subsection (1) there is substituted reference to this regulation:
+
+Provided that this regulation shall not apply where the Collector of Customs is satisfied that the ship or vessel, as the case may be, entered territorial waters only for the purpose of maintaining safety at sea and the ship or vessel is surrendered to the custody of the Collector until such time as the ship or vessel leaves territorial waters, being a period of time no longer than is in the opinion of the Collector, acting on the advice of the Captain of the Port, necessary for safety purposes.
+
 Exports.
 
 Goods freely exportable.
@@ -121,6 +125,12 @@ Goods freely exportable.
 Provided that nothing in this regulation shall permit the exportation of any goods the exportation of which has been specifically prohibited, restricted or regulated.
 
 Goods in transit.
+
+Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
+
+1986-21
+
+Subsidiary 1987/006
 
 8.(1)  Any goods arriving in Gibraltar in transit or through bills of lading or otherwise may be exported without licence to any country.
 
@@ -134,11 +144,7 @@ Goods in transit.
 
 Licences to export other goods.
 
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006 9. Subject to the provisions of regulations 7 and 8, no goods shall be exported except under and in accordance with a licence granted by the Collector.
+9. Subject to the provisions of regulations 7 and 8, no goods shall be exported except under and in accordance with a licence granted by the Collector.
 
 Restrictions on exports to South Africa.
 
@@ -154,7 +160,11 @@ Conditions of export licences.
 
 Radioactive waste.
 
-11A. Notwithstanding anything contained therein, regulations 7 to 11 shall not apply to radioactive waste, within the meaning of the Transfrontier Shipment of Radioactive Waste Regulations, 1995 where an authorisation has been granted for a shipment thereof under those Regulations.
+Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
+
+1986-21
+
+Subsidiary 1987/006 11A. Notwithstanding anything contained therein, regulations 7 to 11 shall not apply to radioactive waste, within the meaning of the Transfrontier Shipment of Radioactive Waste Regulations, 1995 where an authorisation has been granted for a shipment thereof under those Regulations.
 
 Appeals.
 
@@ -168,11 +178,7 @@ Forms.
 
 13. The forms set out in Schedule 6 shall be used for the several purposes to which they are expressed to relate, with such modifications as may be necessary.
 
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006 Saving.
+Saving.
 
 Saving.
 
