@@ -14,6 +14,8 @@ Amending enactments Relevant current provisions Commencement date
 
 17.12.1963 r. 5
 
+LN. 1998/027 Sch. 2 2.4.1998
+
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
 1887-01 Subsidiary 1934.09.11 ARRANGEMENT OF RULES.

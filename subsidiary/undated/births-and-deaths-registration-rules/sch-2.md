@@ -4,13 +4,13 @@ FEES.
 
 £ 1. For every certified copy of any entry in the register of births, stillbirths or deaths applied for within seven days from the date of registration or amendment of the entry
 
-3.00
+3.50
 
 2. For every certified copy of any entry in the register of births, stillbirths or deaths applied for on a date in excess of seven days from the date of registration or amendment
 
-6.00 3. For every short birth certificate issued under Rule 7
+6.50 3. For every short birth certificate issued under Rule 7
 
-3.00 4. Handling fee on an order for a copy or copies of any entry in a register of births or deaths which is sent abroad through the post
+3.50 4. Handling fee on an order for a copy or copies of any entry in a register of births or deaths which is sent abroad through the post
 
 5.00 5. For a general search of the indices or any register of births or deaths, per day or part thereof
 
