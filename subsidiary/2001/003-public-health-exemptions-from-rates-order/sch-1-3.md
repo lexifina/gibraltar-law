@@ -1,4 +1,6 @@
-ANNEX A
+SCHEDULE
+
+RATING RELIEF FOR 1999/2000
 
 Occupier Column 2 Premises Column 3 Nature of Premises Column 4 Extent of Relief 10
 
@@ -89,5 +91,3 @@ Caretaker’s Quarters 50%
 GIBRALTAR GAZETTE, No 3207, Thursday 25th January, 2001
 
 5
-
-PROPOSED CONTINUATION OF RATING RELIEF FOR 1999/2000

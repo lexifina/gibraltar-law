@@ -1,4 +1,6 @@
-ANNEX A
+SCHEDULE
+
+RATING RELIEF FOR 1999/2000
 
 Occupier Column 2 Premises Column 3 Nature of Premises Column 4 Extent of Relief 19
 

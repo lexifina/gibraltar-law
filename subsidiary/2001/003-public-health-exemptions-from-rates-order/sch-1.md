@@ -1,4 +1,6 @@
-ANNEX A
+SCHEDULE
+
+RATING RELIEF FOR 1999/2000
 
 Occupier Column 2 Premises Column 3 Nature of Premises Column 4 Extent of Relief 1 Cathedral of the Holy Trinity 11(a) Bomb House Lane 11(b) Bomb House Lane Parish Centre Dean’s Residence 100% 100%
 
@@ -49,5 +51,3 @@ Minister’s Residence
 GIBRALTAR GAZETTE, No 3207, Thursday 25th January, 2001
 
 3
-
-PROPOSED CONTINUATION OF RATING RELIEF FOR 1999/2000

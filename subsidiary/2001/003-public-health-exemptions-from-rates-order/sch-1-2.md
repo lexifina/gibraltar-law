@@ -1,4 +1,6 @@
-ANNEX A
+SCHEDULE
+
+RATING RELIEF FOR 1999/2000
 
 Occupier Column 2 Premises Column 3 Nature of Premises Column 4 Extent of Relief 6
 
@@ -53,5 +55,3 @@ Minister’s Residence Non-Alcoholic Bar
 GIBRALTAR GAZETTE, No 3207, Thursday 25th January, 2001
 
 4
-
-PROPOSED CONTINUATION OF RATING RELIEF FOR 1999/2000
