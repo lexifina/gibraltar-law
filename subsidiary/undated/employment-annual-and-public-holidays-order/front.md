@@ -8,7 +8,7 @@ EMPLOYMENT (ANNUAL AND PUBLIC HOLIDAYS) ORDER
 
 1.1.1969
 
-Amending enactments Relevant current provisions Commencement date Order of 23.7.1970 para.4(1) LN. 1972/113 paras. 2(1), 4(1), Sch. 1 and 2 1975/169 Sch. 1 1982/048 para 7(1) 1985/065 Sch.2 1.1.1985
+Amending enactments Relevant current provisions Commencement date Order of 23.7.1970 para.4(1) LN. 1972/113 paras. 2(1), 4(1), Sch. 1 and 2 1975/169 Sch. 1 1982/048 para 7(1) 1985/065 Sch.2 1.1.1985 1996/102 Sch.2 1.1.1997
 
 Employment EMPLOYMENT (ANNUAL AND PUBLIC HOLIDAYS) ORDER.
 
