@@ -10,11 +10,11 @@ For each house visit by a doctor –
 
 (i) during normal hours
 
-50p.
+£2.
 
 (ii) outside normal hours
 
-£1.
+£5.
 
 For the purpose of determining the fee to be paid for a house visit by a doctor where a request during normal hours for such a visit has been made the visit shall be considered as a visit during normal hours notwithstanding that the visit may be made outside normal hours.
 
