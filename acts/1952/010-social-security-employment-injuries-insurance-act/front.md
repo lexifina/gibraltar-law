@@ -70,7 +70,7 @@ LN. 1983/097 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Schs.2-5
 
 1986/131 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.1-5
 
-1.1.1987
+1.1.1987 1987/026 ss. 3, 4B 29.10.1987
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
@@ -90,7 +90,7 @@ PART I. GENERAL.
 
 PART II. INSURED PERSONS.
 
-3. Insurable employment. 4. Entry into insurance. 4A. Previous exemption.
+3. Insurable employment. 4. Entry into insurance. 4A. Previous exemption. 4B. Provisions with respect to mariners.
 
 PART III. CONTRIBUTIONS.
 
@@ -102,11 +102,11 @@ PART IV. BENEFITS.
 
 Death benefit.
 
-19. Widows, widowers and children. 20. Orphans. 21. Parents. 22. Dependants.
+19. Widows, widowers and children. 20. Orphans. 21. Parents.
 
 Social Security (Employment Injuries Insurance)
 
-1952-10 23. Payment of benefit. 24. Payment of benefit where beneficiary is an orphan. 25. Benefit to be inalienable. 26. Claim for benefit. 27. Disqualifications. 28. Repayment of benefits. 29. Recovery of benefit. 30. Insured persons entitled to free medical treatment. 31. Occupational diseases and injuries not caused by accident. 32. Disqualifications, etc., to be disregarded for certain purposes.
+1952-10 22. Dependants. 23. Payment of benefit. 24. Payment of benefit where beneficiary is an orphan. 25. Benefit to be inalienable. 26. Claim for benefit. 27. Disqualifications. 28. Repayment of benefits. 29. Recovery of benefit. 30. Insured persons entitled to free medical treatment. 31. Occupational diseases and injuries not caused by accident. 32. Disqualifications, etc., to be disregarded for certain purposes.
 
 PART V. DETERMINATION OF QUESTIONS AND CLAIMS.
 
@@ -122,11 +122,9 @@ PART VI. ADMINISTRATION AND ENFORCEMENT.
 
 PART VII. FINANCE.
 
-51. Employment In juries Insurance Fund.
-
 Social Security (Employment Injuries Insurance)
 
-1952-10 52. Report by actuary. 53. Exemption from stamp duty. 54. Reciprocal agreements. 55. Review of contributions, benefits, etc.
+1952-10 51. Employment In juries Insurance Fund. 52. Report by actuary. 53. Exemption from stamp duty. 54. Reciprocal agreements. 55. Review of contributions, benefits, etc.
 
 SCHEDULE 1. Combined Social Insurance and Other Contribution Rates
 
