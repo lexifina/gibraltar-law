@@ -14,11 +14,9 @@ Tariff No. 4 6p per unit and in addition thereto there shall be paid a charge to
 
 Industrial Maximum Demand Tariff:
 
-Tariff No. 5 Two part maximum demand tariff for industrial and commercial users with a maxi mum demand normally not less than 5Kw. Primary Charge £2 per month per Kw of maximum demand based on a monthly half- hour rating, subject to a minimum monthly charge of £10. In addition
+Tariff No. 5 Two part maximum demand tariff for industrial and commercial users with a maxi mum demand normally not less than 5Kw. Primary Charge £2 per month per Kw of maximum demand based on a monthly half-hour rating, subject to a minimum monthly charge of £10. In addition thereto there shall be paid a charge to be known as the Standing Additional charge of £4 per calendar month. Secondary Charge 5p per unit for all units con sumed. Power Factor Penalty As set out in the definition below.
 
-Public Utility Undertakings
-
-1950-05 thereto there shall be paid a charge to be known as the Standing Additional charge of £4 per calendar month. Secondary Charge 5p per unit for all units con sumed. Power Factor Penalty As set out in the definition below. Off-Peak Tariff For energy consumed at times other than the restricted hours as registered by a special meter: Tariff No. 6A Restricted hours:
+Off-Peak Tariff For energy consumed at times other than the restricted hours as registered by a special meter: Tariff No. 6A Restricted hours:
 
 7.00 am to 2.00 pm and 6.00 pm to 11.00 pm. Charge 4p per unit and in addition thereto there shall be paid a charge to be known as the Standing Additional charge of £3 per calendar month. Tariff No. 6B Restricted Hours:
 
@@ -29,10 +27,6 @@ Public Utility Undertakings
 Flexible Cost Adjustment Formula.
 
 The price set out in this Schedule of a unit of electricity supplied shall be adjusted upwards or downwards by such amount or by such method as the Governor, having regard to the fluctuating cost of generating or supplying electricity, may by rules prescribe.
-
-Public Utility Undertakings
-
-1950-05
 
 Discontinuation of supply:
 
@@ -62,9 +56,7 @@ Month (or quarter)
 
 Month (or quarter) means the period comprised between the date any meter is read for the purpose of the account and the date it was read during the month (or quarter) immediately preceding.
 
-Public Utility Undertakings
-
-1950-05 Consumer
+Consumer
 
 Consumer means any authority, company, person or body of persons supplied or entitled to be supplied with electrical energy by the Government.
 
