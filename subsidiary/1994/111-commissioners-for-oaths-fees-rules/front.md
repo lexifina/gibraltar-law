@@ -1,9 +1,15 @@
-Commissioners for Oaths and Public Notaries COMMISSIONERS FOR OATHS (FEES) RULES, 1994
+Subsidiary Legislation made under r.4.
 
-Subsidiary 1994/111 1953-17 Rules made under s.4.
+Commissioners for Oaths (Fees) Rules, 1994
 
-COMMISSIONERS FOR OATHS (FEES) RULES, 1994
+LN.1994/111
 
-(LN. 1994/111)
+Commencement 13.10.1994
 
-13.10.1994
+Amending enactments Relevant current provisions Commencement date LN. 1995/018 Sch. 23.2.1995
+
+ARRANGEMENT OF RULES
+
+Rule
+
+1. Title. 2. Fees chargeable. 3. Fees etc to be marked on document.
