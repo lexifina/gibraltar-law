@@ -4,7 +4,7 @@ Regulation 5.
 
 FORM OF APPLICATION.
 
-To the Minister for Medical and Health Services.
+To the Gibraltar Health Authority.
 
 I (Full Name) …………………………………………………………….
 
