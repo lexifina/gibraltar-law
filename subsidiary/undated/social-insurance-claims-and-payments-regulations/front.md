@@ -12,6 +12,8 @@ SOCIAL INSURANCE (CLAIMS AND PAYMENTS) REGULATIONS
 
 Amending enactments Relevant current provisions Commencement date LN. 1973/061 regs.15 and 18 1975/141 regs.7, 9(4), (8) and (9) 1980/139 regs. 9(1)-(3). (6) and (7), 10, 16(1), 17(2) and 18 and Sch.2
 
+1996/094 rr. 2, 4(2)(3), 6, 7(2), 8, 9, 11(2), Sch. 1 & 2. 26.9.1996
+
 Social Security (Insurance) SOCIAL INSURANCE (CLAIMS AND PAYMENTS) REGULATIONS
 
 1955-14
