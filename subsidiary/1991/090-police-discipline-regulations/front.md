@@ -10,7 +10,17 @@ POLICE (DISCIPLINE) REGULATIONS 1991
 
 19.2.1990
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  1993/105 r. 8 10.6.1993
+
 _________________________
+
+Police POLICE (DISCIPLINE) REGULATIONS 1991
+
+2006-20
+
+Subsidiary 1991/090
 
 ARRANGEMENT OF REGULATION
 
@@ -24,13 +34,7 @@ PART II
 
 PART II – APPEALS
 
-20. Appeals.
-
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090 21. Procedure at Appeal. 22. Powers of the Governor.
+20. Appeals. 21. Procedure at Appeal. 22. Powers of the Governor.
 
 PART III – REVOCATION.
 
@@ -41,6 +45,12 @@ Schedule 1 Discipline Code.
 Schedule 2 Discipline Penalties.
 
 Schedule 3 Discipline Form.
+
+Police POLICE (DISCIPLINE) REGULATIONS 1991
+
+2006-20
+
+Subsidiary 1991/090
 
 Schedule 4 Form of notice of intention to appeal.
 
