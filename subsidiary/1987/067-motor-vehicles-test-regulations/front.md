@@ -10,9 +10,13 @@ MOTOR VEHICLES TEST REGULATIONS
 
 1.4.1987
 
-____________________________
+Amending enactments Relevant current Provisions Commencem ent date LN.   1988/026 r.37 18.2.1988
 
-ARRANGEMENT OF REGULATIONS
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 ARRANGEMENT OF REGULATIONS
 
 Regulation Preliminary.
 
@@ -28,15 +32,17 @@ Re-examination after refusal of test certificate.
 
 Notifiable alterations and re-examination.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 22. Duty to notify alterations. 23. Re-examination following alteration. 24. Procedure on re-examination.
+22. Duty to notify alterations. 23. Re-examination following alteration. 24. Procedure on re-examination.
 
 Road side tests.
 
 25. Power to stop vehicles. 26. Right to have examination deferred. 27. Deferred examination. 28. Notice of defect. 29. Further tests.
+
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
 
 Appeals.
 
@@ -57,12 +63,6 @@ Offences.
 SCHEDULE 1. Class of vehicles to which the regulations do not apply.
 
 SCHEDULE 2. Prescribed requirements.
-
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067
 
 SCHEDULE 3. Manner of carrying out examinations.
 
@@ -460,9 +460,7 @@ Particulars to be contained in test certifcates and notices of refusal.
 
 Validity of test certificates.
 
-37. A test certificate shall be valid for 14 months from the date when it was issued:
-
-Provided that if application is made within the prescribed time for an annual or other examination, the Chief Examiner may extend the validity of a certificate to cover the period between the application and the examination.
+37. The first test certificate issued in respect of a motor vehicle or trailer shall be valid for a period stated therein not exceeding 14 months from the date of issue. Every subsequent test certificate in respect of that motor vehicle or trailer shall be valid until the next ensuing anniversary of the registration of that motor vehicle or trailer.
 
 Duplicate test certificates.
 
@@ -472,9 +470,7 @@ Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067
-
-Provisions as to notices.
+Subsidiary 1987/067 Provisions as to notices.
 
 39.(1) Except as otherwise provided, every notice under these regulations shall be in writing.
 
@@ -502,13 +498,13 @@ Transfer or refund of fee.
 
 may, when giving notice or satisfying the Chief Examiner, as the case may be, or within 20 days thereafter-
 
+(i) apply to the Chief Examiner for another examination of the same kind of that vehicle or of another vehicle, to be
+
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067
-
-(i) apply to the Chief Examiner for another examination of the same kind of that vehicle or of another vehicle, to be carried out within 2 months of the date of the application, and in such case the fee paid on the first application shall be treated as having been paid in respect of or towards the second; or
+Subsidiary 1987/067 carried out within 2 months of the date of the application, and in such case the fee paid on the first application shall be treated as having been paid in respect of or towards the second; or
 
 (ii) give notice to the Chief Examiner that he does not require any examination of the same kind, and in such case the fee, less the sum of £2 for administrative expenses, shall be refunded to the applicant.
 
@@ -534,13 +530,13 @@ is guilty of an offence and is liable on summary conviction to a fine of £100.
 
 Other offences.
 
+45. A person who-
+
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 45. A person who-
-
-(a)  obstructs an examiner or a police officer in the execution of his duty under these regulations;
+Subsidiary 1987/067 (a)  obstructs an examiner or a police officer in the execution of his duty under these regulations;
 
 (b)  gives false information in answer to a question lawfully put to him under these regulations;
 
@@ -570,25 +566,25 @@ Saving.
 
 (f) in the course of its seizure, removal, detention, condemnation or forfeiture under the Imports and Exports Act.
 
+SCHEDULE 1.
+
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
 Subsidiary 1987/067
 
-SCHEDULE 1.
-
 CLASSES OF VEHICLES TO WHICH THE REGULATIONS DO NOT APPLY.
 
 1. Mobile cranes. 2. Road rollers. 3. Motor vehicles or trailers (not constructed primarily to carry loads) especially designed and constructed for the special purposes of engineering operations. 4. Road construction vehicles. 5. Vehicles designed for fire fighting purposes. 6. Works trucks, that is to my motor vehicles designed for use in private premises and used on a road only for delivering goods from or to such premises, to or from a vehicle on a road in the immediate neighbourhood or in passing from one part of any such premises to another or to other private premises in the immediate neighbourbood or in connection with road works while at or in the immediate neighbourhood of the site of such works, stradel carriers used solely as works trucks, and works traders. 7.
 
-Traders which have no other brakes than a parking brake and brakes which automatically come into operation on the over-run of the trailer. 8. Vehicles used soely for the purposes of funerals. 9. Vehicles equipped with new or improved equipment or types of equipment and used solely by an importer of vehicles for or m connection with the teat or trial of any such equipment. 10. Vehicles to which any of the prescribed construction and condition requirements do not apply by virtue of either of the following regulations of the Traffic (Licensing and Registration) Regulations namely- (a) Regulation 21 (which relates to vehicles to be exported from Gibraltar) (b) Regulation 22 (which relates to vehicles brought temporarily into Gibraltar) (c) Regulation 25 (which relates to waiver for vehicles in transit from Spain) (d) Regulation 26 (which relates to waiver for vehicles of visiting warships) 11. Track laying vehicles. 12. Steam propelled vehicles. 13. Three wheeled motor vehicles designed for the purpose of street
+Traders which have no other brakes than a parking brake and brakes which automatically come into operation on the over-run of the trailer. 8. Vehicles used soely for the purposes of funerals. 9. Vehicles equipped with new or improved equipment or types of equipment and used solely by an importer of vehicles for or m connection with the teat or trial of any such equipment. 10. Vehicles to which any of the prescribed construction and condition requirements do not apply by virtue of either of the following regulations of the Traffic (Licensing and Registration) Regulations namely- (a) Regulation 21 (which relates to vehicles to be exported from Gibraltar) (b) Regulation 22 (which relates to vehicles brought temporarily into Gibraltar) (c) Regulation 25 (which relates to waiver for vehicles in transit from Spain) (d) Regulation 26 (which relates to waiver for vehicles of visiting warships) 11. Track laying vehicles. 12. Steam propelled vehicles. 13. Three wheeled motor vehicles designed for the purpose of street cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies.
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies. 14. Vehicles designed and used for the purpose of servicing or controlling or loading or unloading aircraft, while so used- (a) on an aerodrome; (b) on roads outside such aerodrome if, except when proceeding directly from one part of such an aerodrome to another part thereof, the vehicles are unladen and are not drawing a laden trailer.
+Subsidiary 1987/067 14. Vehicles designed and used for the purpose of servicing or controlling or loading or unloading aircraft, while so used- (a) on an aerodrome; (b) on roads outside such aerodrome if, except when proceeding directly from one part of such an aerodrome to another part thereof, the vehicles are unladen and are not drawing a laden trailer.
 
 15. Vehicles designed for use and used on an aerodrome solely for the purpose of road cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies or cesspools. 16. Vehicles provided for police purposes and maintained in workshops approved by the licensing authority as suitable for such maintenance. 17. Pedestrian controlled vehicles. 18. Invalid carriages (including a cycle with an attachment for propelling it by mechanical power) which do not exceed 250 kilograms. 19. Motor vehicles brought into Gibraltar and displaying a registration mark specified in a period of twelve months not having elapsed since the vehicle in question was last brought into Gibraltar. 20. Hackney carriages in respect of which there is in force a licence granted under section 48 of the Act to ply for hire.
 
