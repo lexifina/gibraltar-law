@@ -20,13 +20,7 @@ Labelling of Permitted Miscellaneous Additives
 
 3. The figures and letters in every word in any statement to which the preceding paragraph applies-
 
-(a) shall be in characters of uniform colour and size (being not less than 1.5 millimetres in height for a label on a container of which the greatest dimension does not exceed 12 centimetres, and not less
-
-Food and Drugs MISCELLANEOUS ADDITIVES IN FOOD REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/044 than 3 millimetres in height for a label on a container of which the greatest dimension exceeds 12 centimetres), but so that the initial letter of any word may be taller than any other letter in the word,
+(a) shall be in characters of uniform colour and size (being not less than 1.5 millimetres in height for a label on a container of which the greatest dimension does not exceed 12 centimetres, and not less than 3 millimetres in height for a label on a container of which the greatest dimension exceeds 12 centimetres), but so that the initial letter of any word may be taller than any other letter in the word,
 
 (b) shall appear on a contrasting ground, so however that where there is no ground other than such as is provided by a transparent container and the contents of that container are visible behind the letters, those contents shall be taken to be the ground for the purposes of this paragraph.
 

@@ -1,22 +1,16 @@
-Food and Drugs MISCELLANEOUS ADDITIVES IN FOOD REGULATIONS, 1987
+Subsidiary Legislation made under ss. 6, 8 and 58.
 
-1964-07
+Miscellaneous Additives in Food Regulations, 1987
 
-Subsidiary 1987/044 Regulations made under sections 6, 8 and 58.
+LN.1987/044
 
-MISCELLANEOUS ADDITIVES IN FOOD REGULATIONS, 1987
+Commencement 1.8.1987
 
-(LN. 1987/044)
+Amending enactments Relevant current provisions Commencement date
 
-1.8.1987
+LN. 1990/053 r. 2 1.7.1990
 
-EU Legislation/International Agreements involved:
-
-Directive 65/66/EEC Directive 78/663/EEC Directive 78/664/EEC
-
-__________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -25,7 +19,3 @@ Regulation
 SCHEDULE 1.
 
 SCHEDULE 2.
-
-SCHEDULE 3.
-
-Food and Drugs MISCELLANEOUS ADDITIVES IN FOOD REGULATIONS, 1987
