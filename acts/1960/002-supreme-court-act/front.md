@@ -52,15 +52,19 @@ Acts. 1971-14 s.28(2)
 
 1983-48 s.36
 
-1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987 1988-35 ss. 17, 17A, 17B, 20, 21, and 36A. 15.12.1988 1997-25 s. 20(q) 21.8.1997
+1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987 1988-35 ss. 17, 17A, 17B, 20, 21, and 36A. 15.12.1988 1997-25 s. 20(q) 21.8.1997 1997-32 ss. 35A to 35H, 28(1) & (c), 29(1)(a) and Sch
+
+16.10.1997
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
-The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
-
 Supreme Court
 
-1960-02 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
+1960-02 The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
+
+Transposing: Directive 77/249/EEC
+
+English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
 Supreme Court
 
@@ -230,8 +234,14 @@ PART IV. BARRISTERS AND SOLICITORS.
 
 28. Admission of barristers. 29. Admission of solicitors. 30. Enrolment of solicitors. 31. Barristers and solicitors may practice in all courts. 32. Barristers may act as solicitors. 33. Law relating to barristers and solicitors. 34. Disciplinary powers of Chief Justice. 35. Unqualified persons practising.
 
+PART IVA EEA LAWYERS
+
+35A. Interpretation of Part IVA. 35B. Purpose of Part. 35C. Representation in legal proceedings. 35D. Drawing of documents, etc, not related to legal proceedings. 35E Legal aid. 35F. Title and description to be used by EEA lawyers. 35G. Power to require an EEA lawyer to verify his status. 35H. Professional misconduct.
+
 PART V. MISCELLANEOUS.
 
 36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 37. Rules regulating funds in court. 38. Rules of court.
+
+SCHEDULE
 
 Supreme Court
