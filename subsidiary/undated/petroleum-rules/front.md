@@ -30,7 +30,7 @@ L.N. 1976/073 r. 5
 
 1982/029 r .5(2)
 
-1984/004 r. 5(2) 2.4.1984 1984/098 r. 5(2) 29.11.1984 1985/130 r. 5(2) 28.11.1985 1987/013 r. 5(2) 15.1.1987 1987/151 r. 5(2) 26.11.1987 1988/028 r. 34(3) 18.2.1988 1988/100 r. 5(2) 27.10.1988 1990/084 r. 5(2) 5.7.1990 1991/138 rr. 12(1)-(2), 20(1)-(2) 18.7.1991 1993/097 r. 5(2) 20.5.1993
+1984/004 r. 5(2) 2.4.1984 1984/098 r. 5(2) 29.11.1984 1985/130 r. 5(2) 28.11.1985 1987/013 r. 5(2) 15.1.1987 1987/151 r. 5(2) 26.11.1987 1988/028 r. 34(3) 18.2.1988 1988/100 r. 5(2) 27.10.1988 1990/084 r. 5(2) 5.7.1990 1991/138 rr. 12(1)-(2), 20(1)-(2) 18.7.1991 1993/097 r. 5(2) 20.5.1993 2001/014 rr. 2, 31-32, 34, 39, Schs.1-6 22.3.2001
 
 EU Legislation/International Agreements involved: Directive 94/63/EC Directive 2009/126/EC
 
@@ -72,11 +72,35 @@ Subsidiary 1932.01.18 21. Construction of garage. 22. Entrance and ventilation. 
 
 PART III. – GENERAL PROVISIONS.
 
-26. Petroleum spirit containers. 27. Lights. 28 Conveyance of petroleum spirit. 29. Prevention of fire. 30. Petroleum spirit not to go into drains. 31. Storehouse for petroleum spirit in bulk. 32. Conditions for issue of licence for storage in bulk. 33. Licence to keep more than three motor cars unnecessary in certain cases. 34. Tank wagons, etc. 35. Keeping of parafin or kerosene. 36. Licences. 37. Forms in Schedule. 38. Penalty.
+26. Petroleum spirit containers. 27. Lights. 28 Conveyance of petroleum spirit. 29. Prevention of fire. 30. Petroleum spirit not to go into drains. 31. Storehouse for petroleum spirit or motor fuel in bulk. 32. Conditions for issue of licence under rule 31. 33. Licence to keep more than three motor cars unnecessary in certain cases. 34. Tank wagons, etc. 35. Keeping of parafin or kerosene. 36. Licences. 37. Forms in Schedule. 38. Penalty. 39. Transitional provisions.
 
-SCHEDULE
+SCHEDULE 1.
 
-FORM A. Licence for the Storage of Petroleum in a Hulk or Lighter. FORM B. Licence to keep more than three motor cars in one garage. FORM C. Licence to store Petroleum Spirit in bulk. FORM D. Permit for a Perambulating Tank-Wagon or similar vehicle.
+FORM A. Licence for the Storage of Petroleum in a Hulk or Lighter. FORM B. Licence to keep more than three motor cars in one garage. FORM C. Licence to store Petroleum Spirit in bulk. FORM D. Permit for a Perambulating Tank-Wagon or similar vehicle. FORM E. Licence to store motor fuel in a bulk at a terminal or storage installation. FORM F. Permit for a mobile container.
+
+SCHEDULE 2.
+
+Requirements for storage installations at terminals.
+
+SCHEDULE 3.
+
+Requirements for loading and unloading installations at terminals.
+
+SCHEDULE 4.
+
+Petroleum PETROLEUM RULES
+
+1931-10
+
+Subsidiary 1932.01.18 Requirements for loading and storage installations at service stations and terminals where the intermediate storage of vapours is carried out.
+
+SCHEDULE 5.
+
+Requirements for design and operation of mobile containers.
+
+SCHEDULE 6
+
+Specifications for bottom-loading, vapour collection and overfill protection of European road tankers
 
 Petroleum PETROLEUM RULES
 
