@@ -14,7 +14,9 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 8.3.1993 “ ss. 2, 39, 44, 1.7.1993 2000-08 ss. 2(1), 3, 14(1A), 23(1), 39-50K, 65, Schs.1, 2
 
-27.7.2000 2000-16 s. 18(1), (3) 12.10.2000 2001-14 s. 11 7.6.2001 2002-14 ss. 61, 63(2)-(5), 63A(1) 16.12.2002
+27.7.2000 2000-16 s. 18(1), (3) 12.10.2000 2001-14 s. 11 7.6.2001 2002-14 ss. 61, 63(2)-(5), 63A(1) 16.12.2002 2003-10 ss. 39, 39A-B, 40(4), 42(3), 43(1), 44(1)-(2), 48(1), 49(7), 50(1), 50F(1)-(2), (c), 50G(2), 50I-50K, 65
+
+31.7.2003
 
 Immigration Control
 
@@ -76,11 +78,11 @@ Cancellation and duration of certificates.
 
 EEA Nationals and Members of their Families.
 
-39. Interpretation of sections 39 to 50K. 40. Right of admission to Gibraltar of EEA nationals and family members. 41. Right of Residence. 42. Grant of Residence Permits. 43. Qualified Person. 44. Unemployment. 45. Family members of self-employed persons who have ceased economic activity. 46. Family members of students. 47. No requirement to grant residence permit. 48. Form of residence permit and residence document. 49. Residence permits. 50. Renewal of residence permit. 50A. Duration and renewal of residence permit or residence document granted to family members.
+39. Interpretation of sections 39 to 50K. 39A. Position of Swiss nationals. 39B. Posted Workers. 40. Right of admission to Gibraltar of EEA nationals and family members and posted workers. 41. Right of Residence. 42. Grant of Residence Permits. 43. Qualified Person. 44. Unemployment. 45. Family members of self-employed persons who have ceased economic activity. 46. Family members of students. 47. No requirement to grant residence permit. 48. Form of residence permit and residence document. 49. Residence permits. 50. Renewal of residence permit.
 
 Immigration Control
 
-1962-12 50B. Indefinite Residence. 50C. Requirement for the issue of an EEA family permit. 50D. Issue of an EEA family permit. 50E. Refusal of an application for an EEA family permit. 50F. Exclusion and requirement to leave Gibraltar. 50G. Refusal to grant, and revocation of, residence permit or residence document. 50H. Public policy, public security and public health. 50I. Application of section 12 (required permits and certificates). 50J. Appeals to the Supreme Court. 50K. Notice of Appeal.
+1962-12 50A. Duration and renewal of residence permit or residence document granted to family members. 50B. Indefinite Residence. 50C. Requirement for the issue of an EEA family permit. 50D. Issue of an EEA family permit. 50E. Refusal of an application for an EEA family permit. 50F. Exclusion and requirement to leave Gibraltar. 50G. Refusal to grant, and revocation of, residence permit or residence document. 50H. Public policy, public security and public health. 50I. Application of section 12 (required permits and certificates). 50J. Appeals to the Supreme Court. 50K. Notice of Appeal.
 
 51. Repealed.
 
@@ -106,11 +108,11 @@ Arrest, detention and removal.
 
 Offences.
 
-62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. 64. Landing without permit or certificate. 65. Offences by Community nationals. 66. Other offences.
+62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. 64. Landing without permit or certificate.
 
 Immigration Control
 
-1962-12
+1962-12 65. Offences by Community nationals. 66. Other offences.
 
 Rules.
 
