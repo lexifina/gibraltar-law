@@ -52,6 +52,8 @@ Acts. 1971-14 s.28(2)
 
 1983-48 s.36
 
+1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987
+
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
 The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
