@@ -10,7 +10,7 @@ Commencement of rule 3(13) 1.7.1989 All other rules 1.7.1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1993/133 r.3(9) 1.7.1991
+LN. 1993/133 r.3(9) 1.7.1991 1992/118 r.3(9A) 1.7.1992
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
