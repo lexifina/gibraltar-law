@@ -13,9 +13,3 @@ No diluent shall contain more than–
 (b) 10 milligrammes per kilogramme of lead;
 
 (c) 50 milligrammes per kilogramme of copper, or 25 milligrammes per kilogramme of zinc, or 50 milligrammes per kilogramme of any combination of copper and zinc.
-
-Food and Drugs ANTIOXIDANTS IN FOOD REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/041
