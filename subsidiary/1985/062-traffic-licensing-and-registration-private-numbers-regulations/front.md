@@ -10,6 +10,10 @@ TRAFFIC (REGISTRATION AND LICENSING OF CIVILIAN VEHICLES) (PERSONALISED NUMBERS)
 
 16.5.1985
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  1997/096 rr. 2, 4 and 6(1), (2), (4). 2.10.1997
+
 _____________________________
 
 ARRANGEMENT OF REGULATIONS.
