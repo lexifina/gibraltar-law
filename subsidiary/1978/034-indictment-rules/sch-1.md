@@ -1,0 +1,19 @@
+SCHEDULE
+
+Rule 8
+
+FORM OF INDICTMENT.
+
+IN THE SUPREME COURT OF GIBRALTAR.
+
+The Queen v
+
+charged as follows:
+
+STATEMENT OF OFFENCE.
+
+PARTICULARS OF OFFENCE.
+
+Date
+
+Registrar.
