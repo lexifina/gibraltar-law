@@ -12,7 +12,7 @@ Commencement 1.11.1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993
+LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993 1995/019 Sch. 2 23.2.1995
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
@@ -186,6 +186,10 @@ Licensing and Fees LICENCE (FEES) RULES, 1991
 
 Subsidiary 1991/205 (h) administering the oath of allegiance for the purposes of the British Nationality Act, 1981
 
-3.50
+15.00
+
+(j) preparing or forwarding or both an application for registration or naturalisation to the Home Office
+
+20.00
 
 (Note: if the oath is administered by a Commissioner for Oaths or Notary Public payment of the fee shall be to that person)
