@@ -8,9 +8,17 @@ LITTER CONTROL (FIXED PENALTY) REGULATIONS 1990
 
 (LN. 1990/107)
 
-9.8.1990 __________________________
+9.8.1990
 
-ARRANGEMENT OF REGULATIONS
+Amending enactments Relevant current provisions Commencement date
+
+LNs.   1990/119 r.8(2) 6.9.1990 1990/122 r.8(2) 6.9.1990
+
+Litter Control LITTER CONTROL (FIXED PENALTY) REGULATIONS 1990
+
+1990-31
+
+Subsidiary 1990/107 ARRANGEMENT OF REGULATIONS
 
 Regulations
 
