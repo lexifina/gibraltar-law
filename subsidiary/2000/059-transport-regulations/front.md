@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1)(3), 118(1)(c)(3), 124A(1) to (9)
 
-22.9.2000 2000/082 Sch. 1 (16) and (17). 26.10.2000
+22.9.2000 2000/082 Sch. 1 (16) and (17). 26.10.2000 2000/090 r. 118(1)(d) 30.11.2000
 
 Transport TRANSPORT REGULATIONS 2000
 
