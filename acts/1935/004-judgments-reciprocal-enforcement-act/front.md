@@ -8,7 +8,7 @@ Principal Act
 
 Act. No. 1935-04 Commencement 16.2.1935 Assent 16.2.1935
 
-Amending enactments Relevant current provisions Commencement date Act. 1935-08̶ 1949-25̶ 1958-12̶ 1963-01 s. 5(2) 1978-30̶ 1983-48 s. 10(1) __________________________
+Amending enactments Relevant current provisions Commencement date Act. 1935-08̶ 1949-25̶ 1958-12̶ 1963-01 s. 5(2) 1978-30̶ 1983-48 s. 10(1) 1993-29 ss. 2, 3, 10, 11, 11A 5.11.1998 __________________________
 
 See also s 13(3) of the Merchant Shipping (Oil Pollution) Act 1971 and s 6(4) of the Merchant Shipping Act 1974, as extended to Gibraltar by the Merchant Shipping (Oil Pollution) (Gibraltar) Order 1976, which appears under the title Merchant Shipping Acts 1984-1979.
 
@@ -78,7 +78,7 @@ PART I. REGISTRATION OF JUDGEMENTS GIVEN IN OTHER COUNTRIES
 
 PART II MISCELLANEOUS AND GENERAL.
 
-9. General effect of certain judgments. 10. Power to make judgments unenforceable in Gibraltar if no reciprocity. 11. Issue of certificate of judgments obtained in Gibraltar.
+9. General effect of certain judgments. 10. Power to make judgments unenforceable in Gibraltar if no reciprocity. 11. Issue of certificate of judgments obtained in Gibraltar. 11A. Arbitration awards.
 
 Judgments (Reciprocal Enforcement)
 
