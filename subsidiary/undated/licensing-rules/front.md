@@ -30,6 +30,8 @@ Order of regs.19.9.1969
 
 1982/092 rr. 43, 45-47, 50
 
+1989/035 rr. 43-50 1.10.1989
+
 Licensing and Fees LICENSING RULES
 
 1961-29
@@ -72,7 +74,7 @@ PART VI.–BAKERS AND BAKEHOUSES.
 
 PART VII.–LICENSED GUIDES.
 
-43. Applications. 43A. Qualifications for licensees. 44. Carrying of licences. 45. Badges. 46. Remuneration of guides. 47. Hiring of cars. 48. Revoked. 49. Exemption of couriers and conductors. 50. Penalty.
+43-50.  Revoked.
 
 Licensing and Fees LICENSING RULES
 
