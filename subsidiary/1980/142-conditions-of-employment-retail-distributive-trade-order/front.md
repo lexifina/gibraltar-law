@@ -8,7 +8,7 @@ CONDITIONS OF EMPLOYMENT (RETAIL DISTRIBUTIVE TRADE) ORDER
 
 5.1.1980
 
-Amending enactments Relevant current provisions Commencement date LN. 1982/047 Sch. 1983/045 Sch. 1984/037 Para. 4(1)-(3), Sch. 7.5.1984
+Amending enactments Relevant current provisions Commencement date LN. 1982/047 Sch. 1983/045 Sch. 1984/037 Para. 4(1)-(3), Sch. 7.5.1984 1985/066 Paras. 2, 4(1) 10.6.1985
 
 Employment CONDITIONS OF EMPLOYMENT (RETAIL DISTRIBUTIVE TRADE) ORDER
 
