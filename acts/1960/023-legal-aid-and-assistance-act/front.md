@@ -14,7 +14,7 @@ Act. 1968-34 s. 13(1), Sch. 1969-29 s. 3A, Sch.
 
 1973-31 s. 13(1)
 
-1990-47 s. 13(1) 15.11.1990
+1990-47 s. 13(1) 15.11.1990 2001-06 ss. 3A, 12(1), Sch 14.3.2001
 
 English sources
 
@@ -76,7 +76,13 @@ Legal aid and Assistance
 
 1960-23 Legal aid on appeal.
 
-3A. The Chief Justice or the Court of Appeal may at any time assign counsel to an appellant un any appeal, or proceedings preliminary or incidental to an appeal, in which in the opinion of the Chief Justice or the Court of Appeal, it appears desirable in the interests of justice that the appellant should have legal aid and that he has not sufficient means to enable him to obtain that aid.
+3A.(1) Where, for the purpose of obtaining advice and assistance prior to any appeal, or of the preparation and conduct of any appeal, or proceedings preliminary or incidental to an appeal, in the opinion of the Chief Justice or of the Court of Appeal at any time it appears desirable in the interests of justice that an appellant should have legal aid and that he does not have sufficient means to enable him to obtain that aid then-
+
+(a) he shall be entitled to free legal aid for any of those purposes provided the Chief Justice or the Court of Appeal grant him a certificate in respect thereof under this section; and
+
+(b) the Chief Justice or the Court of Appeal may, at any time assign counsel to that person for any of those purposes.
+
+(2) In this section, “appeal” includes an appeal to the Judicial Committee of the Privy Council.
 
 Legal aid in magistrates’ court.
 
@@ -86,11 +92,9 @@ Legal aid for appellants in certain cases.
 
 5.(1) Any person who has been convicted by the magistrates’ court of an offence which is punishable with imprisonment, other than imprisonment in default only of payment of a fine, and who desires to appeal to the Supreme Court against the conviction or the sentence imposed on such conviction or both may apply to such court for free legal aid for the preparation and conduct of his appeal, and, if on such application the court is satisfied that the applicant has insufficient means to enable him to obtain legal aid for the purpose aforesaid, the court shall grant in respect of the applicant a certificate which shall entitle him to have counsel assigned to him for that purpose.
 
-(2)  Any person who has been convicted by the magistrates’ court of any offence other than an offence mentioned in subsection (1) and who desires to appeal to the Supreme Court against the conviction or the sentence imposed on such conviction or both may apply to such court for free legal aid for the preparation and conduct of his appeal, and if on such application the court is satisfied that the applicant has insufficient means to enable him to obtain legal aid for the purpose aforesaid and that by reason of exceptional circumstances it is desirable in the interests of justice that he should have such aid, the court may grant in respect of the applicant a certificate which shall entitle him to have counsel assigned to him for that purpose.
-
 Legal aid and Assistance
 
-1960-23
+1960-23 (2)  Any person who has been convicted by the magistrates’ court of any offence other than an offence mentioned in subsection (1) and who desires to appeal to the Supreme Court against the conviction or the sentence imposed on such conviction or both may apply to such court for free legal aid for the preparation and conduct of his appeal, and if on such application the court is satisfied that the applicant has insufficient means to enable him to obtain legal aid for the purpose aforesaid and that by reason of exceptional circumstances it is desirable in the interests of justice that he should have such aid, the court may grant in respect of the applicant a certificate which shall entitle him to have counsel assigned to him for that purpose.
 
 (3)  Where, on an application made under subsection (1) or subsection (2), the court has refused to grant such certificate, the applicant may apply to the Chief Justice, and the Chief Justice shall have the like power, exercisable on the like grounds, of granting a certificate as the magistrates’ court.
 
@@ -108,15 +112,15 @@ Application by letter.
 
 Duty to give information.
 
-7.(1)  Before a person is granted legal aid under any of the sections contained in this Part, he may be required to furnish a written statement in the prescribed form about matters relevant for determining whether his means are insufficient to enable him to obtain legal aid.
-
-(2)  A person who in furnishing a written statement in accordance with the provisions of subsection (1) or in applying for legal aid in accordance with the provisions of this Part, knowingly makes any false statement or false representation, is guilty of an offence and is liable, on summary conviction, to imprisonment for four months and to a fine of £100.
-
 1 see also Criminal Procedure Ordinance, s.293(4)(b).
 
 Legal aid and Assistance
 
 1960-23
+
+7.(1)  Before a person is granted legal aid under any of the sections contained in this Part, he may be required to furnish a written statement in the prescribed form about matters relevant for determining whether his means are insufficient to enable him to obtain legal aid.
+
+(2)  A person who in furnishing a written statement in accordance with the provisions of subsection (1) or in applying for legal aid in accordance with the provisions of this Part, knowingly makes any false statement or false representation, is guilty of an offence and is liable, on summary conviction, to imprisonment for four months and to a fine of £100.
 
 Counsel.
 
@@ -140,6 +144,10 @@ Rules for the purposes of Part I.
 
 PART II. CIVIL PROCEEDINGS.
 
+Legal aid and Assistance
+
+1960-23
+
 Interpretation.
 
 11. In this Part, unless the context otherwise requires–
@@ -148,9 +156,7 @@ Interpretation.
 
 “legal assistance” means legal assistance under this Part;
 
-Legal aid and Assistance
-
-1960-23 “order for costs” includes any judgment, order, decree, award or directions for the payment of the costs of one party in the proceedings by another party, whether given or made in those proceedings or not;
+“order for costs” includes any judgment, order, decree, award or directions for the payment of the costs of one party in the proceedings by another party, whether given or made in those proceedings or not;
 
 “panel” means the panel of solicitors and barristers constituted in accordance with the provisions of section 15;
 
@@ -164,19 +170,19 @@ Legal aid and Assistance
 
 Scope and conditions of legal assistance in civil proceedings.
 
-12.(1)  The provisions of this Part provide for, and relate only to, legal assistance in connection with proceedings before courts and tribunals in Gibraltar not being proceedings in respect of which a certificate may be granted under Part I.
+12.(1)  The provisions of this Part provide for, and relate only to, legal assistance in connection with proceedings before courts and tribunals in Gibraltar and the Judicial Committee of the Privy Council not being proceedings in respect of which a certificate may be granted under Part I.
 
 (2)  The proceedings in connection with which legal assistance may be given are any proceedings of a description mentioned in Part I of the Schedule, except proceedings mentioned in Part II of that Schedule.
 
-(3)  Legal assistance shall consist of representation, on the terms provided for by this Part, by a solicitor and, so far as necessary, by a barrister including all such assistance as is usually given by solicitor or barrister in the steps preliminary or incidental to any proceedings or in arriving at or giving effect to a compromise to avoid or bring to an end any proceedings.
+(3)  Legal assistance shall consist of representation, on the terms provided for by this Part, by a solicitor and, so far as necessary, by a barrister including all such assistance as is usually given by solicitor or
+
+Legal aid and Assistance
+
+1960-23 barrister in the steps preliminary or incidental to any proceedings or in arriving at or giving effect to a compromise to avoid or bring to an end any proceedings.
 
 (4)  A person shall not be given legal assistance in connection with any proceedings unless the Registrar is satisfied that such person has reasonable grounds for taking, defending or being a party thereto and may also be refused legal assistance if it appears to the Registrar unreasonable that he should receive it in the particular circumstances of the case.
 
 (5)  Save as expressly provided by or under this Act–
-
-Legal aid and Assistance
-
-1960-23
 
 (a)  the fact that the services of a barrister or a solicitor are given by way of legal assistance shall not affect the relationship between the rights of barrister, solicitor and client or any privilege arising out of such relationship; and
 
@@ -192,7 +198,9 @@ Provided that a person shall be refused legal assistance if he has a capital of 
 
 (a)  notwithstanding the provisions of any law regulating the fees and charges payable to any court in respect of any proceedings, no such fees or charges shall be payable by a person receiving legal assistance in respect of any proceedings in connection with which legal assistance has been given to such person unless the Registrar shall, in accordance with the provisions of section 14, otherwise order;
 
-(b)  his solicitor and barrister shall not take payment in respect of the legal assistance except such payment as is directed by this Part to be made out of the Consolidated Fund;
+Legal aid and Assistance
+
+1960-23 (b)  his solicitor and barrister shall not take payment in respect of the legal assistance except such payment as is directed by this Part to be made out of the Consolidated Fund;
 
 (c)  any sums recovered by virtue of an order or agreement for costs made in his favour with respect to the proceedings shall be paid to the Consolidated Fund.
 
@@ -200,9 +208,7 @@ Application and grant of legal assistance.
 
 14.(1) Application for legal assistance in connection with any proceedings shall be made in writing to the Registrar.
 
-Legal aid and Assistance
-
-1960-23 (2)  A person applying for legal assistance may, in his application therefor, select from the panel a solicitor or barrister to represent him in the proceedings if a certificate is issued to him under subsection (4). If no such selection is made, the Registrar shall select a solicitor or barrister from the panel to represent the person so applying if such a certificate is issued to him.
+(2)  A person applying for legal assistance may, in his application therefor, select from the panel a solicitor or barrister to represent him in the proceedings if a certificate is issued to him under subsection (4). If no such selection is made, the Registrar shall select a solicitor or barrister from the panel to represent the person so applying if such a certificate is issued to him.
 
 (3)  The Registrar shall refer the application to a solicitor or barrister on the panel, who shall not be the person selected by the applicant or, as the case may be, by the Registrar under subsection (2), nor a person in the same firm as the person so selected. The solicitor or barrister to whom the application is referred shall investigate the merits of the applicant’s case and report thereon to the Registrar.
 
@@ -212,17 +218,15 @@ Legal aid and Assistance
 
 Solicitors and barristers.
 
-15.(1)  A panel shall be prepared by the Registrar of solicitors and barristers willing to act for persons receiving legal assistance –
+Legal aid and Assistance
+
+1960-23 15.(1)  A panel shall be prepared by the Registrar of solicitors and barristers willing to act for persons receiving legal assistance –
 
 Provided that this subsection shall not prejudice the rights of a solicitor or barrister to refuse or give up a case on reasonable grounds.
 
 (2)  Subject to this Part, a solicitor or barrister acting for a person receiving legal assistance shall be paid fees and costs for so acting out of the Consolidated Fund in accordance with such scale as may be prescribed in accordance with section 19.
 
-(3)  Nothing in this section shall prejudice paragraph (b) of section 12(5) and in particular subsection (2) of this section shall not affect the sums recoverable by virtue of an order for costs made in favour of a person who
-
-Legal aid and Assistance
-
-1960-23 has received legal assistance or of an agreement for costs so made which provides for taxation.
+(3)  Nothing in this section shall prejudice paragraph (b) of section 12(5) and in particular subsection (2) of this section shall not affect the sums recoverable by virtue of an order for costs made in favour of a person who has received legal assistance or of an agreement for costs so made which provides for taxation.
 
 Adaptation of rights to indemnity.
 
@@ -236,17 +240,15 @@ Adaptation of rights to indemnity.
 
 (a)  a person’s right to be indemnified against expenses incurred in connection with any proceedings arises by virtue of an agreement and is subject to any express condition conferring on those liable thereunder any right with respect to the bringing or conduct of the proceedings; and
 
-(b)  those liable have been given a reasonable opportunity of exercising the right so conferred and have not availed themselves of that opportunity,
+Legal aid and Assistance
+
+1960-23 (b)  those liable have been given a reasonable opportunity of exercising the right so conferred and have not availed themselves of that opportunity,
 
 the right to be indemnified shall be treated for the purposes of subsection (3) as not being subject to that condition.
 
 (5)  Nothing in subsections (3) and (4) shall be taken as depriving any person or body of persons of the protection of any law or, save as provided in subsection (4), as conferring any larger right to recover money for the benefit of the Consolidated Fund in respect of any expenses than the person receiving legal assistance would have had if the expenses had been incurred by him.
 
-(6)  When under subsection (3) a person’s right to be indemnified against expenses incurred in connection with any proceedings inures for the benefit
-
-Legal aid and Assistance
-
-1960-23 of the Consolidated Fund, any sum recovered for the benefit of the Consolidated Fund shall be deducted from the total of all sums payable out of the Consolidated Fund in respect of such proceedings and the balance remaining shall be the maximum recoverable from such person under the provisions of section 17(4).
+(6)  When under subsection (3) a person’s right to be indemnified against expenses incurred in connection with any proceedings inures for the benefit of the Consolidated Fund, any sum recovered for the benefit of the Consolidated Fund shall be deducted from the total of all sums payable out of the Consolidated Fund in respect of such proceedings and the balance remaining shall be the maximum recoverable from such person under the provisions of section 17(4).
 
 Award of costs.
 
@@ -258,15 +260,13 @@ Award of costs.
 
 Provided that the court may adjourn, on such terms as it may think, and refer any question relevant to the determination of such liability to the Registrar, requiring him to report thereon to the court.
 
-(4)  Where a sum in respect of costs is paid out of the Consolidated Fund in accordance with the provisions of this section, there shall be payable to the Consolidated Fund by the assisted person against whom the order for costs was made such sum, or such lesser amount as may have been assessed as the limit of liability of such assisted person in accordance with rules made under section 19. The sum payable to the Consolidated Fund may be paid in one sum or by instalments as the court may order.
+Legal aid and Assistance
+
+1960-23 (4)  Where a sum in respect of costs is paid out of the Consolidated Fund in accordance with the provisions of this section, there shall be payable to the Consolidated Fund by the assisted person against whom the order for costs was made such sum, or such lesser amount as may have been assessed as the limit of liability of such assisted person in accordance with rules made under section 19. The sum payable to the Consolidated Fund may be paid in one sum or by instalments as the court may order.
 
 (5)  Any sum payable by a person receiving legal assistance in accordance with the provisions of subsection (4) shall be a debt due to the Government, but the dwelling house, household furniture and tools and implements of the trade of such person shall be protected from seizure in execution to enforce any order made by a court to enforce recovery of such sum.
 
 Power of Chief Justice to make rules.
-
-Legal aid and Assistance
-
-1960-23
 
 18. (1)  Subject to the provisions of section 19, the Chief Justice may make such rules as appear to him necessary or desirable for giving effect to this Part or for preventing abuses thereof.
 
@@ -282,15 +282,17 @@ Legal aid and Assistance
 
 (e)  make provision for the recovery of sums due to the Consolidated fund including provision–
 
+Legal aid and Assistance
+
+1960-23
+
 (i) for the enforcement for the benefit of the Consolidated Fund of any order or agreement for costs made in favour of a person who has received legal assistance; and
 
 (ii) for making a solicitor’s or barrister’s right to payment out of the Consolidated Fund wholly or partly dependent upon his performance of any duties imposed on him by rules made for the purposes of this paragraph;
 
 (f) make provision as to the application of this Part in relation to persons who have been admitted to take, defend or be a party to any proceedings in forma pauperis or as poor persons and to other persons concerned in proceedings commenced before date of commencement of this Act.
 
-Legal aid and Assistance
-
-1960-23 (3)  The Chief Justice may also make rules modifying any provisions of this Part so far as appears to the Chief Justice necessary to meet the circumstances where–
+(3)  The Chief Justice may also make rules modifying any provisions of this Part so far as appears to the Chief Justice necessary to meet the circumstances where–
 
 (a)  a person seeking or receiving legal assistance–
 
@@ -310,6 +312,10 @@ Legal aid and Assistance
 
 Power of Government to make rules.
 
+Legal aid and Assistance
+
+1960-23
+
 19. The Governor may make rule–
 
 (a)  as to the manner in which the rate of a person’s income and the amount of his capital are to be computed for the purpose of this Part and the court, person or authority by whom such computation shall be made;
@@ -318,9 +324,7 @@ Power of Government to make rules.
 
 (c)  ensuring that the resources of a person seeking or receiving legal assistance shall not be treated as including the subject matter of the dispute;
 
-Legal aid and Assistance
-
-1960-23 (d)  determining the extent to which any resources of a person’s husband or wife shall be treated as that person’s resources for the purpose of this Part;
+(d)  determining the extent to which any resources of a person’s husband or wife shall be treated as that person’s resources for the purpose of this Part;
 
 (e)  in relation to minors and other special cases, for taking into account the resources of other persons;
 
@@ -338,7 +342,9 @@ Proceedings for misrepresentations, etc.
 
 (a)  wilfully fails to comply with any rules as to the information to be supplied by him; or
 
-(b)  in furnishing any information required by such rules knowingly makes any false statement or false representation,
+Legal aid and Assistance
+
+1960-23 (b)  in furnishing any information required by such rules knowingly makes any false statement or false representation,
 
 is guilty of an offence and is liable, on summary conviction, to imprisonment for six months and to a fine of £100.
 
@@ -367,5 +373,7 @@ DESCRIPTION OF PROCEEDINGS.
 (c)  magistrates’ court in its civil jurisdiction in domestic proceedings;
 
 (d)  Court of Appeal.
+
+(e) the Judicial Committee of the Privy Council.
 
 2. Proceedings before any person to whom a case is referred in whole or in part by any of the said courts.
