@@ -18,6 +18,8 @@ GN. 1975/0078
 
 Act. 1981-17 s. 5(5)
 
+1988-01 s. 48A(1), (2) 4.4.1988
+
 English sources Post Office Act 1953(1 & 2 Eliz.2 c.36)
 
 Post Office
@@ -58,10 +60,10 @@ PART VI. –LEGAL PROCEEDINGS.
 
 PART VII.–MISCELLANEOUS AND GENERAL.
 
-49. Provision as to post office letter boxes. 50. Appointment of Director and officers of the Post Office. 51. Officers to make declaration. 52. Surrender of clothing by officer of Post Office on ceasing to be officer. 53. Post Office expenses. 54. Regulations. 55. Exercise of powers on behalf of Director.
+48A. Sale of stamps. 49. Provision as to post office letter boxes. 50. Appointment of Director and officers of the Post Office. 51. Officers to make declaration. 52. Surrender of clothing by officer of Post Office on ceasing to be officer. 53. Post Office expenses. 54. Regulations.
 
 Post Office
 
-1961-10 56. Exemption of Director from stamp duty. 57. Police may search vessels.
+1961-10 55. Exercise of powers on behalf of Director. 56. Exemption of Director from stamp duty. 57. Police may search vessels.
 
 Post Office
