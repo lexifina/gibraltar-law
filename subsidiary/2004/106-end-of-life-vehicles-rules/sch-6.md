@@ -1,0 +1,37 @@
+SCHEDULE 6 Rule 41
+
+CONSEQUENTIAL AMENDMENTS TO THE TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
+
+The Traffic (Licensing and Registration) Regulations are amended as follows–
+
+(a) in regulation 11, prior to the words “The Licensing Authority may remove” there shall be inserted the words “subject to rule 11A”;  and
+
+(b) after regulation 11 the following shall be inserted–
+
+“Vehicles to which the End-of life Rules 2004 apply”
+
+11A.(1)  This regulation applies to vehicles which-
+
+(a) are registered under these Regulations; and
+
+(b) are vehicles to which the End-of life Rules 2004 apply.
+
+(2) Where a vehicle to which this rule applies is transferred to an authorised treatment facility or a collecting agent on behalf of such a facility the treatment facility shall notify the Licensing Authority of the issue of a certificate of destruction and at the same time surrender the registration document to him.
+
+(3) Where the Licensing Authority has been notified of the issue of a certificate of destruction it shall not as respects the vehicle to which it relates record in the Register any further change of keeper.
+
+(4)  The Licensing Authority shall not remove the registration details from that part of the register which records vehicles registered in Gibraltar of a vehicle to which the End-of life Vehicles Rules apply unless the Licensing Authority has been notified that an end-of life vehicle has been transferred to an authorised treatment facility and is satisfied that the process of checking the vehicle’s registration details against the register has been satisfactorily completed.
+
+Public Health END-OF LIFE VEHICLES RULES 2004
+
+1950-07
+
+Subsidiary 2004/106
+
+(5)  In this regulation “authorised treatment facility”, “certificate of destruction”, “EEA State” and “regulated vehicle” have the meanings that they have in the End-of life Vehicles Rules 2004.”.
+
+Public Health END-OF LIFE VEHICLES RULES 2004
+
+1950-07
+
+Subsidiary 2004/106
