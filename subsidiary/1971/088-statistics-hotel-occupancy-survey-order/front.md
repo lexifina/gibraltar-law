@@ -1,0 +1,31 @@
+Statistics STATISTICS (HOTEL OCCUPANCY SURVEY) ORDER
+
+1970-27
+
+Subsidiary 1971/088 Order made under section 5.
+
+STATISTICS (HOTEL OCCUPANCY SURVEY) ORDER
+
+(LN. 1971/088)
+
+25.6.1971
+
+Amending enactments Relevant current provisions Commencement date
+
+1977/041 Para .3
+
+Statistics STATISTICS (HOTEL OCCUPANCY SURVEY) ORDER
+
+1970-27
+
+Subsidiary 1971/088 ARRANGEMENT OF ORDER
+
+Paragraph
+
+1. Title. 2. Survey of occupancy 3. Report of proceedings.
+
+SCHEDULE 1. SPECIFIED UNDERTAKINGS
+
+SCHEDULE 2. PARTICULARS OF HOTEL STATISTICS
+
+Statistics STATISTICS (HOTEL OCCUPANCY SURVEY) ORDER
