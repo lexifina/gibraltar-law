@@ -10,7 +10,7 @@ Act. No. 1973-30 Commencement 1.7.1972
 
 Assent 15 .11. 1973
 
-Amending enactments Relevant current provisions Commencement date Act. 1974-04 ss. 3(2), (3), 11 LN. 1974/140 Corrigendum Act. 1978-11 s 3(2)
+Amending enactments Relevant current provisions Commencement date Act. 1974-04 ss. 3(2), (3), 11 LN. 1974/140 Corrigendum Act. 1978-11 s 3(2) 1989-35 s. 3(2)(e) 21.12.1989
 
 English source: Pensions (Increase) Act 1971 (1971 c.56)
 
