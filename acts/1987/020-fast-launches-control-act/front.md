@@ -10,11 +10,15 @@ Act. No. 1987-20 Commencement 16.7.1987
 
 Assent 16.7.1987
 
+Amending enactments Relevant current provisions Commencement date Acts. 1988-33 ss.2, 4(1), 8(1) and (5), 9(1) and (2), 11(1), 13(1) and (2)
+
+15.12.1988
+
 English sources: None
 
-______________________________
+Fast Launches (Control)
 
-ARRANGEMENT OF SECTIONS.
+1987-20 ARRANGEMENT OF SECTIONS.
 
 Section PART I. PRELIMINARY.
 
@@ -30,9 +34,7 @@ PART III. USE, REPORTING AND BERTHING.
 
 PART IV. MARKING AND EQUIPMENT.
 
-Fast Launches (Control)
-
-1987-20 15. Identification. 16. Modification of engines, etc. 17. Carrying of fuel.
+15. Identification. 16. Modification of engines, etc. 17. Carrying of fuel.
 
 PART V. MISCELLANEOUS.
 
