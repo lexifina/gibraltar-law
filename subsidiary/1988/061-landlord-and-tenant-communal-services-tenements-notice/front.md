@@ -6,7 +6,7 @@ LN.1988/061
 
 Commencement 19.5.1988
 
-Amending enactments Relevant current provisions Commencement date LN.1988/090 Para. 2 1.9.1988 1988/099 Para. 2 27.10.1988
+Amending enactments Relevant current provisions Commencement date LN.1988/090 Para. 2 1.9.1988 1988/099 Para. 2 27.10.1988 1989/107 Para. 2 7.12.1989
 
 ARRANGEMENT OF PARAGRAPHS
 
