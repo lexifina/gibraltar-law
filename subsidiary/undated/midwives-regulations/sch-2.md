@@ -1,11 +1,25 @@
 SCHEDULE 2.
 
-FORM OF CASE BOOK.
+FORM OF FIRST CERTIFICATE.
 
-Regulation 27.
+Regulation 24.
 
-Number of case: Date of engagement to attend: Name and address: Number of previous labours and miscarriages: Age: Date and hour of midwife's arrival: Presentation: Duration of lst, 2nd and 3rd stages of labour: Complications (if any) during or after labour: Sex of infant:
+NURSES AND MIDWIVES REGISTRATION BOARD.
 
-Born living or dead: Full time or premature:  Number of months: If and when doctor called: Name of doctor: Date of midwife's visit: Condition of mother then: Condition of child then: Remarks: *
+Date
 
-* If any drugs have been administered state here their nature and dose, and the time and purpose of their administration.
+We hereby certify that
+
+has completed the first period of training prescribed for pupil-midwives and has passed the First Examination of the Nurses and Midwives Registration Board.
+
+Chairman.
+
+Secretary.
+
+NOTICE.
+
+This Certificate does not entitle the pupil whose name is inscribed hereon to admission to the Register of Nurses and Midwives or authorise her to hold herself out as registered under the Medical and Health Act.
+
+Medical and Health MIDWIVES REGULATIONS
+
+Subsidiary 1948.03.24 1997-25
