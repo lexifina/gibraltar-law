@@ -10,4 +10,4 @@ The Port of Gibraltar shall include–
 
 (b)  Port Waters;
 
-(c)  The area known as the North Mole commencing at the western edge of Jetty No. 4 and extending to the end of the Western Arm together with the Passenger Wharf and the Yacht Reporting Berth.
+(c)  the area known as North Mole commencing adjacent to the entrance to the Electricity Generating Station and extending to the Western Arm together with the Passenger Wharf and the Yacht Reporting Berth.
