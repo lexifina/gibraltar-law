@@ -10,7 +10,7 @@ EMPLOYMENT INJURIES (QUESTIONS AND APPEALS) REGULATIONS
 
 18.10.1954
 
-Amending enactments Relevant current provisions Commencement date Regs. of 26.1.1960 regs.4, 5, 6(1)-(4), 7, 8 and 10 LN. 1975/009 – 1982/059 Sch.
+Amending enactments Relevant current provisions Commencement date Regs. of 26.1.1960 regs.4, 5, 6(1)-(4), 7, 8 and 10 LN. 1975/009 – 1982/059 Sch. 1999/153 r. 10, Sch. 18.11.1999
 
 Social Security (Employment Injuries Insurance) EMPLOYMENT INJURIES (QUESTIONS AND APPEALS) REGULATIONS
 

@@ -2,10 +2,28 @@ SCHEDULE.
 
 Regulation 10.
 
-SCALE OF FEES.
+PART 1.
 
-1. Chairman of the Employment Injuries Appeals Board, Chairman of the Medical Board and Chairman of the Medical Appeals Tribunal …….£20
+MEDICAL BOARD.
 
-2. Each other member of the Medical Board or of the Medical Appeals Tribunal ……………………....£15
+1. Each member of the Medical Board £50 for each medical examination.
 
-3. Each other members of the Employment Injuries Appeals Board who loses wages as a result of attendance……...………………………………..The amount actually lost, not exceeding £15 per diem.
+PART 2.
+
+Employment Injuries Appeals Board
+
+1 Chairman of the Employment Injuries Appeals Board £50 for each sitting of the Board
+
+2 Each other member of the Employment Injuries Appeals Board who loses wages as a result of attendance. The amount actually lost, not exceeding £30 per diem.
+
+PART 3
+
+Medical Appeals Tribunal
+
+1 Chairman of the Medical Appeals Tribunal £50 for each sitting of the Tribunal
+
+2
+
+Each other member of the Medical Appeals Tribunal
+
+£30 each sitting of the Tribunal.”.
