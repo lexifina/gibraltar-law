@@ -20,7 +20,7 @@ Act. 1974-37 s.7(2), (2A)
 
 1991-24 ss. 7(7), 8(2), 9(2)-(3), 12(3), 14- 15, 18(10), 19(j)
 
-18.7.1991 LN. 1991/164 Sch. 15.8.1991 1992/064 Sch. 7.5.1992 Act. 1992-09 ss. 11(2), 12(3) 9.7.1992 1997-17 s. 12(3) 5.6.1997
+18.7.1991 LN. 1991/164 Sch. 15.8.1991 1992/064 Sch. 7.5.1992 Act. 1992-09 ss. 11(2), 12(3) 9.7.1992 1997-17 s. 12(3) 5.6.1997 2005-13 ss. 15A 24.2.2005
 
 Power to Depute
 
@@ -38,7 +38,7 @@ Port
 
 Section
 
-1. Short title. 2. Interpretation. 3. Power to vary limits of port. 4. Port staff and powers. 5. Control of vessels. 6. Powers to enter premises. 7. Compulsory pilotage. 8. Passengers, etc., to be embarked, etc., only at authorized places. 9. Master to supply information. 10. Port charges may be levied. 11. Power to arrest vessel for port charges. 12. Removal of wrecks, etc. 13. Conditions for use of passenger carrying ships. 14. Refusing to give name or address. 15. Duty to give information. 16. Detention of vessel causing damage. 17. Detention of vessel for non-payment of fine. 18. No liability for things done in good faith. 18A.  Punishment without prosecution of certain offences. 19. Rules.
+1. Short title. 2. Interpretation. 3. Power to vary limits of port. 4. Port staff and powers. 5. Control of vessels. 6. Powers to enter premises. 7. Compulsory pilotage. 8. Passengers, etc., to be embarked, etc., only at authorized places. 9. Master to supply information. 10. Port charges may be levied. 11. Power to arrest vessel for port charges. 12. Removal of wrecks, etc. 13. Conditions for use of passenger carrying ships. 14. Refusing to give name or address. 15. Duty to give information. 15A. Information to be supplied by arriving vessels to director or private dock or pier. 16. Detention of vessel causing damage. 17. Detention of vessel for non-payment of fine. 18. No liability for things done in good faith. 18A.  Punishment without prosecution of certain offences. 19. Rules.
 
 SCHEDULE. Description of Port of Gibraltar.
 
