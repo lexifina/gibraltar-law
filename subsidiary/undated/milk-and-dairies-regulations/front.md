@@ -20,7 +20,7 @@ Amending enactments Relevant current provisions Commencement date
 
 1978/102 reg. 19 (corrigendum) 1979/068 Sch. 3 (corrigendum) 1987/022 regs. 2, 5(6), 16(2), 25 and Parts VIII and IX.
 
-1.8.1987
+1.8.1987 1988/003 regs. 5, 9, 10 and 11. 1.2.1988
 
 Food and Drugs MILK AND DAIRIES REGULATIONS
 
