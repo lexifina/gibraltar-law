@@ -15,9 +15,3 @@ Rule 6.
 0.03 0.02
 
 0.02 11. Extract from any document-per folio of 72 words 0.05
-
-Patents PATENTS RULES
-
-1924-11
-
-Subsidiary 1925.01.10

@@ -40,11 +40,7 @@ day of
 
 (Signature) Registrar of Patents.
 
-Patents PATENTS RULES
-
-1924-11
-
-Subsidiary 1925.01.10 Rule 2.
+Rule 2.
 
 FORM NO. 3. –REQUEST UNDER SECTION 8.
 
@@ -81,9 +77,3 @@ day of
 (Signature) Applicant.
 
 Documents accompanying this application :-
-
-Patents PATENTS RULES
-
-1924-11
-
-Subsidiary 1925.01.10
