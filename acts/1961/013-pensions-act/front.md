@@ -34,7 +34,7 @@ Act. 1982-30 s. 10
 
 1978-20 ss. 2(1), 17(5)
 
-LN. 1985/100 Sch. 16.8.1977 1986/127 Sch. 1.1.1984 1989/013 Sch. 16.2.1989 Act. 1990-10 ss. 2-3, 6,  8- 9 12.4.1990 LN. 1992/144 Sch. 26.4.1990 1990/046 Sch. 10.5.1990
+LN. 1985/100 Sch. 16.8.1977 1986/127 Sch. 1.1.1984 1989/013 Sch. 16.2.1989 Act. 1990-10 ss. 2-3, 6,  8- 9 12.4.1990 LN. 1992/144 Sch. 26.4.1990 1990/046 Sch. 10.5.1990 Act. 1990-10 ss. 7, 11-12, 16 18.10.1990
 
 Pensions
 
@@ -42,7 +42,7 @@ Pensions
 
 Section
 
-1. Short title. 2. Interpretation. 3. Pensions Regulations. 4. Pensions, etc., to be charged to the Consolidated Fund. 5. Pensions, etc., not of right. 6. Circumstances in which pension may be granted. 7. Retirement on grounds of public interest. 8. Compulsory retirement. 9. Maximum pension. 10. Reduction on account of other benefits. 11. Liability of pensioners to be called upon to take further employment. 12. Suspension of pension on re-employment. 13. Pensions, etc., not to be assignable. 14. Pensions, etc., to cease on bankruptcy. 15. Pensions, etc., may cease on imprisonment. 16. Pensions, etc., on accepting certain appointments. 17. Gratuity where officer dies in the service or after retirement. 17A.  Gratuities in special circumstances. 18. Pensions to dependants when an officer dies as a result of injuries received or disease contracted in the discharge of his duties. 19. War service to count for pension purposes. 20. Provision of pensions for matrons, etc. 21. Application and saving.
+1. Short title. 2. Interpretation. 3. Pensions Regulations. 4. Pensions, etc., to be charged to the Consolidated Fund. 5. Pensions, etc., not of right. 6. Circumstances in which pension may be granted. 7. Retirement on grounds of public interest. 8. Compulsory retirement. 9. Maximum pension. 10. Reduction on account of other benefits. 11. Liability of pensioners to be called upon to take further employment. 12. Suspension of pension on re-employment. 13. Pensions, etc., not to be assignable. 14. Pensions, etc., to cease on bankruptcy. 15. Pensions, etc., may cease on imprisonment. 16. Revoked 17. Gratuity where officer dies in the service or after retirement. 17A.  Gratuities in special circumstances. 18. Pensions to dependants when an officer dies as a result of injuries received or disease contracted in the discharge of his duties. 19. War service to count for pension purposes. 20. Provision of pensions for matrons, etc. 21. Application and saving.
 
 SCHEDULE. Pensions Regulations.
 
