@@ -20,7 +20,7 @@ LN. 1971/020 s. 2
 
 Act. 1972-06 s. 2
 
-1972-18 s. 5 1973-20 s. 55(1) 1976-31 s. 43(2) 1982-14 s. 54(2) 1991-04 ss. 2, 23(b) 4.4.1991 1992-12 s. 23 31.12.1992 1993-26 s. 8A 1.12.1993 1993-25 s. 23 9.12.1993 1997-35 s. 24 30.10.1997
+1972-18 s. 5 1973-20 s. 55(1) 1976-31 s. 43(2) 1982-14 s. 54(2) 1991-04 ss. 2, 23(b) 4.4.1991 1992-12 s. 23 31.12.1992 1993-26 s. 8A 1.12.1993 1993-25 s. 23 9.12.1993 1997-35 s. 24 30.10.1997 2004-22 s. 5A 1.5.2004
 
 English sources
 
@@ -44,7 +44,7 @@ Section
 
 PART I. GENERAL PROVISIONS OF INTERPRETATION.
 
-2. Interpretation of specific words and phrases. 3. References to Secretary of State for the Colonies. 4. Reference to Admiralty, War Department, Air Ministry, etc. 5. References to European Communities, treaties and institutions. 6. Grammatical and cognate expressions. 7. Gender and number. 8. Meaning of service by post. 8A. Rectification and correction of registers.
+2. Interpretation of specific words and phrases. 3. References to Secretary of State for the Colonies. 4. Reference to Admiralty, War Department, Air Ministry, etc. 5. References to European Communities, treaties and institutions. 5A. References to European Economic Area Agreement. 6. Grammatical and cognate expressions. 7. Gender and number. 8. Meaning of service by post. 8A. Rectification and correction of registers.
 
 PART II. GENERAL PROVISIONS AS TO ACTS.
 
@@ -52,11 +52,11 @@ PART II. GENERAL PROVISIONS AS TO ACTS.
 
 PART III. SUBSIDIARY LEGISLATION.
 
-21. Construction of subsidiary legislation. 22. Exercise of statutory powers between passing and commencement of Act. 23. Provisions respecting the making of subsidiary legislation. 24. Retrospective effect of subsidiary legislation. 25. Acts done under subsidiary legislation to be deemed done under Act by which subsidiary legislation authorised. 26. Fees. 27. References to Acts to include references to subsidiary legislation.
+21. Construction of subsidiary legislation. 22. Exercise of statutory powers between passing and commencement of Act. 23. Provisions respecting the making of subsidiary legislation. 24. Retrospective effect of subsidiary legislation. 25. Acts done under subsidiary legislation to be deemed done under Act by which subsidiary legislation authorised. 26. Fees.
 
 Interpretation and General Clauses
 
-1962-08 28. Power of Assembly in relation to subsidiary legislation.
+1962-08 27. References to Acts to include references to subsidiary legislation. 28. Power of Assembly in relation to subsidiary legislation.
 
 PART IV. COMMENCEMENT AND REPEALS.
 
@@ -74,11 +74,9 @@ PART VII. POWERS AND APPOINTMENTS.
 
 45. Appointment of officers by name of office. 46. Power to appoint to include power to suspend or dismiss. 47. Construction of provisions as to exercise of powers and duties. 48. Power of Governor to delegate authority. 49. Appointments to boards, etc. 50. Power of boards, etc., not affected by vacancy, etc. 51. Power of majority of more than two persons. 52. Construction of enabling words. 53. Act for which payment is required.
 
-PART VIII.
-
 Interpretation and General Clauses
 
-1962-08 TIME, DISTANCE AND PUBLIC HOLIDAYS.
+1962-08 PART VIII. TIME, DISTANCE AND PUBLIC HOLIDAYS.
 
 54. Computation of time. 55. Provisions when no time prescribed. 56. Measurement of distances. 57. Summer time. 58. Public holidays.
 
