@@ -10,6 +10,10 @@ HOME PURCHASE (DEDUCTIONS) RULES, 1989
 
 23.11.1989
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.1990/078 r.2(2)(c) and (4) 28.6.1990
+
 _________________________
 
 ARRANGEMENT OF RULES.
