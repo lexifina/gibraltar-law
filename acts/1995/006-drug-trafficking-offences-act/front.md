@@ -26,6 +26,12 @@ Amending Enactments Relevant current provisions Commencement date
 
 LN. 1996/009 Corrigendum
 
+Act. 1998-49
+
+ss. 2(1)(2), 26(1), 27(3), 30(3), (7), 60(5), (6), (7), (8), (9), (10), 68
+
+10.12.1998
+
 English sources: Police and Criminal Evidence Act 1984 (c.60) (ss. 10, 11, 12 and 13 ) Drug Trafficking Act 1994 (c. 37) ( ss. 1(1), 1(2), 1(3), 1(4), 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 59 and 61)
 
 EU Legislation/International Agreements involved: Directive 91/308/EEC.
