@@ -16,11 +16,7 @@ TO:
 
 (1) the Licensee shall pay in advance as a desposit on account of postage payable in respect of such international business reply packets as may be posted without prepayment of postage and received by him or by his agents, such sum of money as the Director shall deem sufficient to cover the postage and delivery fees likely to be incurred during a period of one month and shall thereafter from time to time (as and whenever requested by the Director) during the continuance of this licence pay in advance on account of postage lilely to be incurred during subsequent periods, such sums as the Director may deem necessary, and if and so long as the Licensee is the licensee in respect of an international business reply licence and the Director thinks fit, the Licensee shall (instead of making separate payments in advance of postage on international business reply packets) from time to time (as and whenever requested by the Director) make single payments in advance of such sums as the Director may deem necessary on account of postage likely to be incurred by the Licensee on international business reply packets and the Director may dispense with the payment of an initial deposit under this condition.
 
-Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
-
-1961-10
-
-Subsidiary 1983/075 (2) The conditions of this licence may be varied or added to from time to time by the Director by notice in writing to the Lincensee if and so far as the Director may consider it necessary to do so.
+(2) The conditions of this licence may be varied or added to from time to time by the Director by notice in writing to the Lincensee if and so far as the Director may consider it necessary to do so.
 
 (3) This licence may be revoked by the Director by seven days notice in writing to the Licensee at any time, and it may be revoked forthwith by the Director by notice in writing to the Licensee in the event of any breach by the Licensee of any of the conditions herein contained; and on the revocation of the licence or on the surrender thereof by the Licensee, the Licensee shall be entitled to the return of any un-exhausted balance of the sum paid under Condition (2), less any sum due to the Director.
 
@@ -37,5 +33,3 @@ Signed by the Director or a person ) authorised by him to act in that behalf)
 Signed by the Licensee
 
 )
-
-__________________

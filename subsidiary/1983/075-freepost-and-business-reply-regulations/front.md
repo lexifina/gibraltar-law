@@ -1,26 +1,16 @@
-Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
+Subsidiary Legislation made under ss.5 and 54.
 
-1961-10
+Freepost and Business Reply Regulations
 
-Subsidiary 1983/075 Regulations made under sections 5 and 54.
+LN.1983/075
 
-FREEPOST AND BUSINESS REPLY REGULATIONS
+Commencement 1.10.1983
 
-(LN. 1983/075)
+Amending enactments Relevant current provisions Commencement date LN. 1985/023 r. 15(a), Sch. 3 7.2.1985 1999/036 rr. 3(1), (2)(c), 4(c), 5(c), 7(a), 11(a), (g), 13A-13C, 14(1)-(2), 16, 17(1). Schs. 3-5
 
-1.10.1983
+15.4.1999 2004/091 r. 14(2) 13.9.2004
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 1985/023 r. 15(a), Sch. 3 7.2.1985 1999/036 rr. 3(1), (2)(c), 4(c), 5(c), 7(a), 11(a), (g), 13A to 13C, 14(1), (2), 16, 17(1). Schs. 3, 4, 5
-
-15.4.1999
-
-Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
-
-1961-10
-
-Subsidiary 1983/075 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -40,23 +30,19 @@ Freepost Service.
 
 Business Reply Service.
 
-11. Criteria for design. 12. Provisional numbers. 13. Form of design. International Business Reply Service
+11. Criteria for design. 12. Provisional numbers. 13. Form of design.
+
+International Business Reply Service
 
 13A. Criteria for design. 13B. Provisional numbers. 13C. Form of design.
 
 Payment.
 
-14. Postage and fees. 15. Accounts and payment .
+14. Postage and fees. 15. Accounts and payment.
 
 Miscellaneous.
 
 16. No redirection. 17. Waiver of fees for charitable and religious organizations. 18. Recovery of debts.
-
-Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
-
-1961-10
-
-Subsidiary 1983/075
 
 SCHEDULE 1.
 
@@ -65,7 +51,3 @@ SCHEDULE 2.
 SCHEDULE 3.
 
 SCHEDULE 4.
-
-SCHEDULE 5.
-
-Post Office FREEPOST AND BUSINESS REPLY REGULATIONS

@@ -16,13 +16,7 @@ TO:-
 
 2. This licence is granted on and subject to the following conditions:-
 
-(1)  The Licensee shall pay in advance as a deposit on account of postage and delivery fees payable in respect of such business reply packets as may be posted without prepayment of postage and received by him or by his agent, such sum of money as the Director shall deem sufficient to cover the postage and delivery fees likely to be incurred during a period of one month, and shall thereafter from time to time (as and whenever requested by the Director) during the continuance of this licence pay in advance on account of postage and delivery fees likely to be incurred during subsequent periods, such sums as the Director may deem necessary, and if and so long as the Licensee is the licensee in respect of a freepost licence and the Director thinks fit, the Licensee shall (instead of making separate payments in advance of postage and delivery fees on business reply packets and postage and delivery fees on freepost packets) from time to time (as and whenever requested by the Director) make single payments in advance of such sums as the Director may deem necessary on account of postage and delivery fees likely to be incurred by the Licensee on business reply packets and on
-
-Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
-
-1961-10
-
-Subsidiary 1983/075 freepost packets and the Director may dispense with the payment of an initial deposit under this condition.
+(1)  The Licensee shall pay in advance as a deposit on account of postage and delivery fees payable in respect of such business reply packets as may be posted without prepayment of postage and received by him or by his agent, such sum of money as the Director shall deem sufficient to cover the postage and delivery fees likely to be incurred during a period of one month, and shall thereafter from time to time (as and whenever requested by the Director) during the continuance of this licence pay in advance on account of postage and delivery fees likely to be incurred during subsequent periods, such sums as the Director may deem necessary, and if and so long as the Licensee is the licensee in respect of a freepost licence and the Director thinks fit, the Licensee shall (instead of making separate payments in advance of postage and delivery fees on business reply packets and postage and delivery fees on freepost packets) from time to time (as and whenever requested by the Director) make single payments in advance of such sums as the Director may deem necessary on account of postage and delivery fees likely to be incurred by the Licensee on business reply packets and on freepost packets and the Director may dispense with the payment of an initial deposit under this condition.
 
 (2)  The conditions of this licence may be varied or added to from time to time by the Director by notice in writing to the Licensee if and so far as the Director may consider it necessary to do so.
 
@@ -39,9 +33,3 @@ Dated
 Signed by the Director or a person authorized by him to act in that behalf
 
 Signed by the licensee
-
-Post Office FREEPOST AND BUSINESS REPLY REGULATIONS
-
-1961-10
-
-Subsidiary 1983/075
