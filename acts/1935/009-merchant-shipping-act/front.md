@@ -8,7 +8,7 @@ Principal Act
 
 Act. No. 1935-09 Commencement 27.6.1935 Assent 27.6.1935
 
-Amending enactment Relevant current provisions Commencement date Act. 1950-11 s.162(2) 1950-17 ss. 2, 181-185, 193(1) 1951-12 ss. 122(1), 123(1) 1952-16 – 1954-19 ss. 14-15, 18(1) 1960-13 s.221(1) 1960-37 ss. 167, 180(3), 189, 192, 203 1962-20 ss. 12(1), 57-61, 224 1965-17 ss.68(1), 92(1), 102 1969-06 ss.184(3)-(4) Notice of 1.8.1969 Sch. 1 LN. 1971/053 s.184(2) 1975/112 – 1976/122 – 1978/014 – 1979/073 – 1979/103 Sch. 1 1980/066 – Act. 1981-03 s.45(1) LN. 1981/067 Sch. 1 1982/038 Sch. 1 Act. 1983-48 ss.2(1), 42(1), 100 1984-15 s.221A 10.12.1984 LN. 1987/061 Sch. 1 19.3.1987
+Amending enactment Relevant current provisions Commencement date Act. 1950-11 s.162(2) 1950-17 ss. 2, 181-185, 193(1) 1951-12 ss. 122(1), 123(1) 1952-16 – 1954-19 ss. 14-15, 18(1) 1960-13 s.221(1) 1960-37 ss. 167, 180(3), 189, 192, 203 1962-20 ss. 12(1), 57-61, 224 1965-17 ss.68(1), 92(1), 102 1969-06 ss.184(3)-(4) Notice of 1.8.1969 Sch. 1 LN. 1971/053 s.184(2) 1975/112 – 1976/122 – 1978/014 – 1979/073 – 1979/103 Sch. 1 1980/066 – Act. 1981-03 s.45(1) LN. 1981/067 Sch. 1 1982/038 Sch. 1 Act. 1983-48 ss.2(1), 42(1), 100 1984-15 s.221A 10.12.1984 LN. 1987/061 Sch. 1 19.3.1987 Act. 1987-04 ss.49(6), 204A, 222A, Sch.1 30.7.1987
 
 Notes: Rules of court made under s.148 and under other powers appear under the title Supreme Court.
 
@@ -16,11 +16,9 @@ Delegation to the Captain of the Port of the powers of the Governor under s.220 
 
 Transposing:
 
-EU Legislation/International Agreements involved:
-
 Merchant Shipping
 
-1935-09 Nairobi International Convention on the Removal of Wrecks, 2007
+1935-09 EU Legislation/International Agreements involved: Nairobi International Convention on the Removal of Wrecks, 2007
 
 English sources Merchant Shipping Act 1894 (57 & 58 Vict. c.60) Merchant Shipping Act 1897 (60 & 61 Vict. c.59) Wireless Telegraphy Act 1904 (4 Edw.7 c.24) Merchant Shipping Act 1906 (6 Edw.7 c.48) Merchant Shipping (Seaman’s Allotment) Act 1911 (1 & 2 Geo.5 c.8) Pilotage Act 1913 (2 & 3 Geo.5 c.31) Merchant Shipping (Wireless Telegraphy) Act 1919 (9 & 10 Geo.5 c.38) Merchant Shipping Acts Amendment Act 1923 (13 & 14 Geo.5 c.38) Merchant Shipping (International Labour Conventions) Act 1925 (15 & 16 Geo.5 c.42) Criminal Justice Act 1925 (15 & 16 Geo.5 c.86) Merchant Shipping (Line–throwing Appliance) Act 1923 (18 & 19 Geo.5 c.40) Merchant Shipping (Safety and Load Line Conventions) Act 1932 (22 & 23 Geo.5 c.9) Milford Haven Conservancy Act 1958 (6 & 8 Eliz.2 c.23)
 
@@ -194,6 +192,10 @@ PART X. EMPLOYMENT OF ALIENS IN BRITISH SHIPS.
 
 204. Aliens as masters of British ships.
 
+PART XA REGISTRATION
+
+204A. Power to refuse registration.
+
 PART XI. LEGAL PROCEEDINGS.
 
 205. Prosecution of offences. 206. Legal proceedings. 207. General penalty. 208. Enforcing detention of ship. 209. Sums ordered to be paid leviable by distress on ship. 210. Service of documents.
@@ -206,19 +208,19 @@ General Control.
 
 Surveyors of Ships.
 
-214. Appointment of surveyors. 215. Power of survey or for purpose of survey of ships. 216. Returns by surveyors to the Governor.
+214. Appointment of surveyors. 215. Power of survey or for purpose of survey of ships.
+
+Merchant Shipping
+
+1935-09 216. Returns by surveyors to the Governor.
 
 Obstruction of Inspectors.
 
 217. Penalty for obstructing inspectors in the execution of their duty.
 
-Merchant Shipping
-
-1935-09
-
 General.
 
-218. Application of Act to ships propelled by electricity. 219. Exemption of H.M.’s ships, etc. 220. Dispensing powers of the Governor. 221. Application of the Merchant Shipping Acts. 221A.  Application of collision Regulations to hovercraft and seaplanes. 222. Disposal of fees, etc. 223. Rule making powers. 224. Power of Governor to make rules, etc.
+218. Application of Act to ships propelled by electricity. 219. Exemption of H.M.’s ships, etc. 220. Dispensing powers of the Governor. 221. Application of the Merchant Shipping Acts. 221A.  Application of collision Regulations to hovercraft and seaplanes. 222. Disposal of fees, etc. 222A.  Annual tonnage tax. 223. Rule making powers. 224. Power of Governor to make rules, etc.
 
 PART XIII. MARPOL CONVENTION.
 
