@@ -12,7 +12,7 @@ COMMON LODGING-HOUSE RULES
 
 Amending enactments Relevant current provisions Commencement date Rules of 11.1.1899 r. 1(2) 30.1.1969 r. 1(2) Regs. of 28.5.1970 LN. 1978/054 rr. 1(2), 23 1988/003 rr. 1(2), 2, 3, 18(1), (3), (4), (5), (6), (7), (8), (9), 20(1), 21, 22
 
-1.2.1988
+1.2.1988 1991/046 r. 23 4.4.1991
 
 Public Health COMMON LODGING-HOUSE RULES
 
