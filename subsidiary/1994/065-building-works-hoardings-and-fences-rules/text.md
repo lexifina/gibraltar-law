@@ -12,7 +12,7 @@ BUILDING WORKS (HOARDINGS) RULES, 1994
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1994/120 r. 11(1) 1.8.1994
+LN. 1994/120 r. 11(1) 1.8.1994 1997/102 r. 11(1)(a), (b), (2) 9.10.1997
 
 __________________________
 
@@ -192,19 +192,19 @@ Fees.
 
 11. (1)  The fee payable in accordance with rules 3 (4) and 10(3), shall be–
 
-(a) £0.50 per linear metre of hoarding for each day of the period specified in the notice issued under rule 3(4) or the days by which the date for removal of the hoarding is deferred; or
+(a) £0.50 per linear metre of hoarding for each day of the period specified in the notice issued under rule 3(4) or the days by which the date for removal of the hoarding is deferred subject to a maximum of £5000; or
 
-(b) where no part of a street, court or public place is obstructed, £0.50 per linear metre of hoarding,
-
-for each day of the period specified in the notice issued under rule 3 (4) or the days by which the date for removal of the hoarding is deferred:
+(b) where no part of a street, court or public place is obstructed, £0.25 per linear metre for each day of the period specified in the notice issued under rule 3(4) or the days by which the date for removal of the hoarding is deferred, subject to a maximum of £5,000.
 
 Public Health BUILDING WORKS (HOARDINGS) RULES, 1994
 
 1950-07
 
-Subsidiary 1994/065 Provided that where the works in respect of which the hoarding is erected are works undertaken by virtue of a building licence granted by the Government or a project of similar duration and size and designated for this purpose by the Minister with the responsibility for the environment, the fees payable in accordance with these Rules shall be that amount agreed by the Building Control Officer.
+Subsidiary 1994/065 for each day of the period specified in the notice issued under rule 3 (4) or the days by which the date for removal of the hoarding is deferred:
 
-(2) Where any hoarding remains in place beyond the date or the deferred date by which the hoarding shall have been removed and without prejudice to any other provision of the Act, a fee of twice the rate specified in sub-rule (1), shall be payable.
+Provided that where the works in respect of which the hoarding is erected are works undertaken by virtue of a building licence granted by the Government or a project of similar duration and size and designated for this purpose by the Minister with the responsibility for the environment, the fees payable in accordance with these Rules shall be that amount agreed by the Building Control Officer.
+
+(2) Where any hoarding remains in place beyond the date or the deferred date by which the hoarding shall have been removed and without prejudice to any other provision of the Act, a penalty of £20 per day or part thereof for every day that the hoarding remains in place, shall be payable.
 
 Public Health BUILDING WORKS (HOARDINGS) RULES, 1994
 
