@@ -46,12 +46,6 @@ day of
 
 Documents accompanying this application :–
 
-Trade Marks TRADE MARKS RULES
-
-1948-31
-
-Subsidiary 1949.01.06
-
 FORM NO. 4.–NOTIFICATION UNDER SECTION 14.
 
 To the Registrar of Trade Marks, Gibraltar.
