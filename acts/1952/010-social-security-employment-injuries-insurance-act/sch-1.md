@@ -32,6 +32,8 @@ An insured person or his employer or both (as may be prescribed) shall be exempt
 
 (b) in employment of any other class so prescribed where the insured person is employed therein to no greater extent than such as may be so deemed to be inconsiderable.
 
+No contribution shall be payable in respect of an employee for any week during the whole or any part of which she is absent from work in exercise of her right to maternity leave under the Employment (Maternity and Health and Safety) Regulations 1996.
+
 Social Security (Employment Injuries Insurance)
 
 1952-10
