@@ -1,0 +1,11 @@
+Public Finance (Control and Audit) SOCIAL ASSISTANCE FUND REGULATIONS, 1988
+
+1977-09
+
+Subsidiary 1988/130 Regulations made under section 19.
+
+SOCIAL ASSISTANCE FUND REGULATIONS, 1988
+
+(LN. 1988/130)
+
+1.12.1988
