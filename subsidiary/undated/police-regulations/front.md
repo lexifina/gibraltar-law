@@ -18,6 +18,8 @@ regs of  9.9.1969 reg.2
 
 LN. 1979/013 regs.10, 11 and 13
 
+1988/106 r. 18(4)(i) 1.2.1988
+
 _____________________
 
 Police POLICE REGULATIONS
