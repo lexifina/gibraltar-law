@@ -10,9 +10,15 @@ Act. No. 1997-16 Commencement 1.4.1997
 
 Assent 10.4.1997
 
-English sources None cited _____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF SECTIONS.
+LN. 1997/167 Sch.1 30.12.1997
+
+English sources None cited
+
+Social Security (Open Long-Term Benefits Scheme)
+
+1997-16 ARRANGEMENT OF SECTIONS.
 
 Section
 
@@ -36,9 +42,11 @@ PART IV
 
 BENEFITS
 
+11.  Description and rates of benefit and contributions conditions. 12.  Transitional provisions – persons insured under both this Act and the closed scheme Act. 13.  Transitional provisions – existing beneficiaries. 14.  Widow’s benefit. 15.  Widow’s pension in special cases. 16.  Widower’s pension. 17.  Guardian’s allowance. 18.  Old age pensions. 19.  Special provision as to men. 20.  Special provision as to women. 21.  Increase of benefits for children. 22.  Increase of old age pension. 23.  Partial satisfaction of contribution conditions. 24.  Claims and notices.
+
 Social Security (Open Long-Term Benefits Scheme)
 
-1997-16 11.  Description and rates of benefit and contributions conditions. 12.  Transitional provisions – persons insured under both this Act and the closed scheme Act. 13.  Transitional provisions – existing beneficiaries. 14.  Widow’s benefit. 15.  Widow’s pension in special cases. 16.  Widower’s pension. 17.  Guardian’s allowance. 18.  Old age pensions. 19.  Special provision as to men. 20.  Special provision as to women. 21.  Increase of benefits for children. 22.  Increase of old age pension. 23.  Partial satisfaction of contribution conditions. 24.  Claims and notices. 25.  Disqualification for imprisonment. 26.  Overlapping benefits. 27.  Disqualification etc. to be disregarded for certain purposes. 28.  Benefit to be inalienable. 29.  Provisions as to maintenance and incapacity for self-support.
+1997-16 25.  Disqualification for imprisonment. 26.  Overlapping benefits. 27.  Disqualification etc. to be disregarded for certain purposes. 28.  Benefit to be inalienable. 29.  Provisions as to maintenance and incapacity for self-support.
 
 PART V
 
@@ -46,11 +54,7 @@ PART V
 
 PART VI
 
-42.  Crown servants. 43.  Members of the Gibraltar Regiment. 44.  Married women. 45.  Reciprocal agreements with United Kingdom, dominions and foreign countries. 46.  Amendment of rates of benefit.
-
-Social Security (Open Long-Term Benefits Scheme)
-
-1997-16 47.  Amendment of Public Finance (Control and Audit) Act. 48.  Revocation of instruments.
+42.  Crown servants. 43.  Members of the Gibraltar Regiment. 44.  Married women. 45.  Reciprocal agreements with United Kingdom, dominions and foreign countries. 46.  Amendment of rates of benefit. 47.  Amendment of Public Finance (Control and Audit) Act. 48.  Revocation of instruments.
 
 SCHEDULE 1. Combined Social Insurance and Other Contribution Rates
 
