@@ -6,7 +6,7 @@ Form of permission for the erection of a hoarding.
 
 PUBLIC HEALTH ACT.
 
-BUILDING WORKS (HOARDINGS) RULES 1994.
+BUILDING WORKS (HOARDINGS AND FENCES) RULES 1994.
 
 AUTHORISED STRUCTURE.
 
@@ -21,9 +21,3 @@ This permit is issued under section 42 of the Public Health Act.
 Signature. . . . . . . . . . . . . . . . . . . .
 
 Ministry for the Environment
-
-Public Health BUILDING WORKS (HOARDINGS) REGULATIONS, 1994
-
-1950-07
-
-Subsidiary 1994/066

@@ -6,7 +6,7 @@ Form of application for extension of time.
 
 PUBLIC HEALTH ACT.
 
-BUILDING WORKS (HOARDINGS) RULES, 1994.
+BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994.
 
 Application for extension of time We. . . . . . . . . . . . . . . . . . . . of. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . hereby apply for an extension permit No. . . . . . . . . . . . . . . . . . . .
 
