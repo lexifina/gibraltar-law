@@ -68,7 +68,7 @@ LN. 1981/106 s. 20, Sch.2
 
 Social Security (Insurance)
 
-1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987
+1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -746,7 +746,7 @@ Increase of old age pension.
 
 20. Subject to the provisions of this Act the weekly rate of an old age pension shall be increased by the amount set out in the third column of Parts I, III and V of Schedule 2 for any period during which the beneficiary-
 
-(a) if a man is residing with or is wholly or mainly maintaining his wife who is not over pensionable age and who is not engaged in any gainful occupation from which her weekly earnings exceed £22.30; or
+(a) if a man is residing with or is wholly or mainly maintaining his wife who is not over pensionable age and who is not engaged in any gainful occupation from which her weekly earnings exceed £23.90; or
 
 (b) if a woman, is residing with and is and has been for not less than ten years wholly or mainly maintaining her husband who is not over pensionable age and who is and has been during this period permanently incapable of self-support.
 
@@ -1362,27 +1362,27 @@ Weekly Basic Rate. Increases for wife or adult dependant where payable. Increase
 
 £ £ £ 1. Widow’s Benefit
 
-(a) Widow’s Allowance 53.00 - 6.60 (b) Widowed Mother’s Allowance
+(a) Widow’s Allowance 56.70 - 6.90 (b) Widowed Mother’s Allowance
 
-44.70
-
--
-
-*6.60 (c) Widow’s Pension 44.70 - - 1A. Widower’s Pension (incapable of self-support)
-
-44.70
+47.80
 
 -
 
-6.60 2.  Guardian’s Allowance 11.40 - - 3.  Old Age Pension:
+*6.90 (c) Widow’s Pension 47.80 - - 1A. Widower’s Pension (incapable of self-support)
+
+47.80
+
+-
+
+6.90 2.  Guardian’s Allowance 12.20 - - 3.  Old Age Pension:
 
 (a) Where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive; or where the pension is payable to a man who ispermanently incapable of self-support by virtue of his wife’s insurance, and she is alive.
 
-22.30
+23.90
 
 -
 
-6.60 (b) In any other case. 44.70 22.30 6.60
+6.90 (b) In any other case. 47.80 23.90 6.90
 
 *Except in the case of a Widowed Mother’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
 
