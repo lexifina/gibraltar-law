@@ -10,7 +10,7 @@ INSTRUCTIONS
 
 1.  The Occupier must enter in Part I all particulars required therein including record of any certificates relating to the factory.
 
-2.  The occupier must enter in Part II all the required particulars of any accident or dangerous occurrence of which notice is required to be sent to the Director of Labour & Social Security, as soon as it becomes reportable.
+2.  The occupier must enter in Part II all the required particulars of any accident or dangerous occurrence of which notice is required to be sent to the Director , as soon as it becomes reportable.
 
 3.  The Occupier must enter in Part III all particulars of every case of poisoning or industrial disease.
 
@@ -22,11 +22,13 @@ INSTRUCTIONS
 
 7.  A certificate from the Chief Fire Officer as to means of escape in case of fire must be attached to the register.
 
-Factories FACTORIES (FORMS) REGULATIONS
-
-Subsidiary 1956.11.08-2 1956-12 PART 1.
+PART 1.
 
 Page 1
+
+Factories FACTORIES (FORMS) REGULATIONS
+
+Subsidiary 1956.11.08-2 1956-12
 
 GENERAL
 
@@ -50,7 +52,7 @@ ACCIDENTS AND  DANGEROUS OCCURRENCES.
 
 Date of accident or dangerous occurrence
 
-Date of notice to Director of Labour & Social Security
+Date of notice to Director
 
 Cause of accident i.e. machinery, etc.
 
@@ -66,11 +68,13 @@ Occupation at time of the accident Nature of injury and whether fatal or not
 
 Period of disablement
 
+PART III
+
+Page 6.
+
 Factories FACTORIES (FORMS) REGULATIONS
 
-Subsidiary 1956.11.08-2 1956-12 PART III
-
-Page 6. CASES OF POISONING OR DISEASE
+Subsidiary 1956.11.08-2 1956-12 CASES OF POISONING OR DISEASE
 
 Date of Notice to
 
@@ -84,9 +88,9 @@ Occupation
 
 Disease
 
-Remark Director of Labour & Social Security
+Remark Director
 
-Medical Administrator person affected
+Specialist in Community Medicine person affected
 
 PART IV
 

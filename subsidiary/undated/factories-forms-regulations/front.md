@@ -10,7 +10,7 @@ FACTORIES (FORMS) REGULATIONS
 
 Amending enactments Relevant current provisions Commencement date
 
-Regs. of 28.5.1970 Schs. 9 and 10
+Regs. of 28.5.1970 Schs. 9 and 10 LN. 1994/064 r. 10, Sch. 9 and Sch. 10 1.8.1994
 
 Factories FACTORIES (FORMS) REGULATIONS
 
@@ -90,7 +90,7 @@ Subsidiary 1956.11.08-2 1956-12 9. A report of examination of gasholder under se
 
 Abstract.
 
-10. An abstract under section 65 of the Act shall be in the form set out in Schedule 9 and shall be posted in English Spanish.
+10. An abstract under section 65 of the Act shall be in the form set out in Schedule 9 and shall be posted in English and such other other language or languages as the Director may direct in respect of work places generally or that work place in particular.
 
 General register.
 
