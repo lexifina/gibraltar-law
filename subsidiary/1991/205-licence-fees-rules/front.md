@@ -12,7 +12,7 @@ Commencement 1.11.1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993 1995/019 Sch. 2 23.2.1995 1995/032 Sch. 2 14.3.1995 1995/019 Sch. 2 1.4.1995 1995/116 Sch. 2 17.8.1995 1996/056 Sch. 2 25.4.1996 1996/083 Sch. 2 29.8.1996 1997/048 Sch. 2 2.5.1997 1997/084 Sch. 2 21.8.1997 1998/023 Sch. 2 26.3.1998 Act. 1998-34 Sch. 2 1.4.1998 “ Sch. 2 1.7.1998 LN. 1998/092 Sch. 2 22.10.1998 2000/074 Sch. 2 22.9.2000 2003/022 Sch. 2 1.4.2001 2002/030 Sch. 2 1.4.2002 2003/048 Sch. 2 1.5.2003
+LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993 1995/019 Sch. 2 23.2.1995 1995/032 Sch. 2 14.3.1995 1995/019 Sch. 2 1.4.1995 1995/116 Sch. 2 17.8.1995 1996/056 Sch. 2 25.4.1996 1996/083 Sch. 2 29.8.1996 1997/048 Sch. 2 2.5.1997 1997/084 Sch. 2 21.8.1997 1998/023 Sch. 2 26.3.1998 Act. 1998-34 Sch. 2 1.4.1998 “ Sch. 2 1.7.1998 LN. 1998/092 Sch. 2 22.10.1998 2000/074 Sch. 2 22.9.2000 2003/022 Sch. 2 1.4.2001 2002/030 Sch. 2 1.4.2002 2003/048 Sch. 2 1.5.2003 2004/136 Sch. 2 1.1.2005
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
@@ -156,25 +156,25 @@ Any certificate issued by the Financial and Development Secretary in relation to
 
 10.00
 
-(b) registration of a person of full age as a British Dependent Territories citizen under the British Nationality Act, 1981
+(b) registration of a person of full age as a British Overseas Territories citizen under the British Nationality Act, 1981
 
-120.00
+85.00
 
-(c) registration of a minor as a British Dependent Territories citizen under the British Nationality Act, 1981
+(c) registration of a minor as a British Overseas Territories citizen under the British Nationality Act, 1981
 
-120.00
+144.00
 
-(d) grant of a Certificate of Naturalisation as a British Dependent Territories citizen under section 18(1) of the British Nationality Act, 1981
+(d) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(1) of the British Nationality Act, 1981
 
 150.00
 
-(e) grant of a Certificate of Naturalisation as a British Dependent Territories citizen under section 18(2) of the British Nationality Act, 1981
+(e) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(2) of the British Nationality Act, 1981
 
-120.00
+146.00
 
-(f) registration of a declaration of renunciation of British Dependent Territories citizenship under section 18(2) of the British Nationality Act, 1981
+(f) registration of a declaration of renunciation of British Overseas Territories citizenship under section 18(2) of the British Nationality Act, 1981
 
-20.00
+81.00
 
 (g) supplying a certified or other copy of a notice, certificate, order, declaration or entry given, granted or made under the British Nationality Act 1981 or any of the former Nationality Acts
 
