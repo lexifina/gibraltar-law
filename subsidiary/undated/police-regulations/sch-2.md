@@ -36,12 +36,6 @@ Qualities necessary in a police officer not specifically mentioned are listed he
 
 (vi) kindness and understanding;
 
-Police POLICE REGULATIONS
-
-2006-20
-
-Subsidiary 1961.12.19
-
 (vii) sense of humour.
 
 N.B.– Details of the marking by the Promotion Board to be forwarded to the Governor with the Commissioner's recommendations in respect of the successful candidates.

@@ -1,36 +1,24 @@
-Police POLICE REGULATIONS
+Subsidiary Legislation made under s.52.
 
-2006-20
+Police Regulations
 
-Subsidiary 1961.12.19 Regulations made under s.52.
+1961.12.19
 
-POLICE REGULATIONS
-
-(1961.12.19)
-
-1.1.1962
+Commencement 1.1.1962
 
 Amending enactments Relevant current provisions Commencement date
 
-Order of 16.9.1969 regs. 3, 18 and 34
+Order of 16.9.1969 regs. 3, 18, 34
 
-regs of  9.9.1969 reg.2
+regs of  9.9.1969 reg. 2
 
-LN. 1979/013 regs.10, 11 and 13
+LN. 1979/013 regs.10, 11, 13
 
-1988/106 r. 18(4)(i) 1.2.1988 1991/090 rr. 18-39 19.2.1990 1991/091 rr. 2(b)-(d), 5 23.5.1991
+1988/106 r. 18(4)(i) 1.2.1988 1991/090 rr. 18-39 19.2.1990 1991/091 rr. 2(b)-(d), 5 23.5.1991 1999/021 rr. 9-17 4.3.1999
 
-_____________________
+ARRANGEMENT OF REGULATIONS
 
-Police POLICE REGULATIONS
-
-2006-20
-
-Subsidiary 1961.12.19
-
-ARRANGEMENT OF REGULATIONS.
-
-Regulation.
+Regulation
 
 1. Title.
 
@@ -40,30 +28,22 @@ PART I.–RECRUITMENT AND PROBATION.
 
 PART II.–PROMOTIONS.
 
-9. Selection for promotion. 10. Eligibility for promotion and qualifying examination. 11. Appearance before Promotion Board. 12. Opportunity to better pass marks. 13. Proficiency award. 14. Promotion Board. 15. Method of allotting marks. 16. Special promotions. 17. Promotion to rank above inspector.
+9-17. Revoked.
 
 PART III.–DISCIPLINE.
 
-18. revoked.
+18. Revoked.
 
 PART IV.–DEFAULTERS.
 
-19-30. revoked.
+19-30. Revoked.
 
 PART V.–APPEALS AND CONFIRMATION OF PUNISHMENT.
 
-31-35. revoked.
+31-35. Revoked.
 
 PART VI.–COMPLAINTS AGAINST POLICE.
 
-36-39. revoked.
+36-39. Revoked.
 
-Police POLICE REGULATIONS
-
-2006-20
-
-Subsidiary 1961.12.19 SCHEDULE 1. Promotion Board. Marking System.
-
-SCHEDULE 2. Notes of Guidance of' Promotion Board.
-
-Police POLICE REGULATIONS
+SCHEDULE 1. Promotion Board. Marking System.
