@@ -1,0 +1,39 @@
+SCHEDULE 4.
+
+REDUCED RATES OF OLD AGE PENSION.
+
+PART I. Regulation 32
+
+PART II. Regulation 33
+
+PART III. Regulation 34
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4
+
+PART IV. Regulation 35
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4
+
+PART V.
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4
+
+Regulation 36
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4

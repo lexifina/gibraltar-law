@@ -1,0 +1,39 @@
+SCHEDULE 3.
+
+REDUCED RATES OF WIDOW'S BENEFIT. OR WIDOWER'S PENSION.
+
+PART I. Regulation 17
+
+PART II. Regulation 18
+
+PART III. Regulation 19
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4
+
+PART IV.
+
+Regulation 20
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4 PART V
+
+Regulation 21
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4
