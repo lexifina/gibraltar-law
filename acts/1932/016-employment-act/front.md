@@ -28,7 +28,7 @@ Employment
 
 24.6.1994 1994/103 s. 74(5)(a)(ii) 24.6.1994 Act. 1999-04 s. 89(1) 24.6.1994 LN. 2000/045 s. 17(6)(b) 24.6.1994 1994/098 ss. 26A, 61(1)(a)-(b) 22.9.1994 1996/014 ss. 60(1), (3)-(4), 62(1)(a), 65A- 65C
 
-1.1.1996 1996/027 ss. 52D(1)-(5), 52J-52R 1.3.1996 Act. 2001-27 ss. 52Q-52R, 52J-52R 2.8.2001
+1.1.1996 1996/027 ss. 52D(1)-(5), 52J-52R 1.3.1996 Act. 2001-27 ss. 52Q-52R, 52J-52R 2.8.2001 2001-20 ss. 2-5, 36(3), 38(1), 86(1) 31.10.2002
 
 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
 
@@ -52,15 +52,15 @@ Employment
 
 Section
 
-PART I. PRELIMINARY. 1. Short title. 2. Interpretation. PART II. STATUTORY BODIES AND ADMINISTRATION. The Manpower Planning Committee 3. Establishment and membership of the Manpower Planning Committee. 4. Functions. The Control of Employment Appeals Tribunal 5. Establishment and procedure of Control of Employment Appeals Tribunal. The Conditions of Employment Board. 6. Establishment and membership of Conditions of Employment Board. 7. Functions. 8. Power to summon witnesses, etc. Joint Industrial Councils. 9. Registration of Joint Industrial Councils. 10. Functions. 11. Duty to supply copies of records. The Industrial Tribunal. 12. Power to establish an Industrial Tribunal. 13. Appeals. Employment Exchanges. 14. Repealed. 15. Keeping of registers. 16. Appointment of inspectors.
+PART I. PRELIMINARY. 1. Short title. 2. Interpretation. PART II. STATUTORY BODIES AND ADMINISTRATION. 3. Repealed. 4. Repealed. 5. Repealed. The Conditions of Employment Board. 6. Establishment and membership of Conditions of Employment Board. 7. Functions. 8. Power to summon witnesses, etc. Joint Industrial Councils. 9. Registration of Joint Industrial Councils. 10. Functions. 11. Duty to supply copies of records. The Industrial Tribunal. 12. Power to establish an Industrial Tribunal. 13. Appeals. Employment Exchanges. 14. Repealed. 15. Keeping of registers. 16. Appointment of inspectors. 17. Powers and duties of inspectors. PART III. RESTRICTIONS ON EMPLOYMENT. 18. Interpretation. 19. Application.
 
 Employment
 
-1932-16 17. Powers and duties of inspectors. PART III. RESTRICTIONS ON EMPLOYMENT. 18. Interpretation. 19. Application. 20. Requirement in respect of work permits. 21. Repealed. 22. Repealed. 23. Repealed. 24. Return of permits. 25. Issue of certificates of employment. 26. Surrender of certificates. 26A. Repealed. 27. Power to require returns. 28. Offences and penalties. Women, Young Persons and Children. 29. Interpretation. 30. Restriction on employment in industrial undertakings. 31. Restriction on employment in ships. 32. Offences. 33. Saving. PART IV. CONDITIONS OF EMPLOYMENT. Recommendations and Orders. 34. References to Conditions of Employment Board. 35. Investigation, etc. 36. Powers of Governor. 37. Scope of orders. 38. Exhibition of orders. Recognised Conditions. 39. Recognised conditions of employment. 40. Exceptions for employer’s family. 41. Authorization of overtime outside recognised conditions. 42. Special conditions for aged, disabled and infirm workers. 43. Offences. Payment of Wages.
+1932-16 20. Requirement in respect of work permits. 21. Repealed. 22. Repealed. 23. Repealed. 24. Return of permits. 25. Issue of certificates of employment. 26. Surrender of certificates. 26A. Repealed. 27. Power to require returns. 28. Offences and penalties. Women, Young Persons and Children. 29. Interpretation. 30. Restriction on employment in industrial undertakings. 31. Restriction on employment in ships. 32. Offences. 33. Saving. PART IV. CONDITIONS OF EMPLOYMENT. Recommendations and Orders. 34. References to Conditions of Employment Board. 35. Investigation, etc. 36. Powers of Minister. 37. Scope of orders. 38. Exhibition of orders. Recognised Conditions. 39. Recognised conditions of employment. 40. Exceptions for employer’s family. 41. Authorization of overtime outside recognised conditions. 42. Special conditions for aged, disabled and infirm workers. 43. Offences. Payment of Wages. 44. Wages to be paid to the employee. 45. Wages to be paid at regular intervals. PART V. CONTRACTS OF EMPLOYMENT. Duration.
 
 Employment
 
-1932-16 44. Wages to be paid to the employee. 45. Wages to be paid at regular intervals. PART V. CONTRACTS OF EMPLOYMENT. Duration. 46. Duration of contracts. Remuneration. 47. Remuneration other than wages. 48. Repealed. 49. Repealed. 50. Repealed. 51. Repealed. 52. Repealed.
+1932-16 46. Duration of contracts. Remuneration. 47. Remuneration other than wages. 48. Repealed. 49. Repealed. 50. Repealed. 51. Repealed. 52. Repealed.
 
 PART VA. SEX DESCRIMINATION.
 
@@ -68,24 +68,24 @@ PART VA. SEX DESCRIMINATION.
 
 PART VB. EQUAL TREATMENT AND NON-DISCRIMINATION IN OCCUPATIONAL PENSION SCHEMES.
 
-52J. Interpretation of Part VB. 52K. The Equal Treatment Rule. 52L. Equal Treatment Rule: Supplementary. 52M. Equal Treatment Rule: Exceptions. 52N. Equal Treatment Rule: Consequential alteration of Schemes. 52P. Reference to the Industrial Tribunal. 52Q. Prohibition on different rules for overseas residents etc. 52R. Regulations. PART VI. TERMINATION OF EMPLOYMENT.
+52J. Interpretation of Part VB. 52K. The Equal Treatment Rule. 52L. Equal Treatment Rule: Supplementary. 52M. Equal Treatment Rule: Exceptions. 52N. Equal Treatment Rule: Consequential alteration of Schemes. 52P. Reference to the Industrial Tribunal. 52Q. Prohibition on different rules for overseas residents etc. 52R. Regulations. PART VI. TERMINATION OF EMPLOYMENT. General. 53. Probationary employment. 54. Notice to terminate contract. 55. Compensation. 56. Exceptions to sections 54 and 55.
 
 Employment
 
-1932-16 General. 53. Probationary employment. 54. Notice to terminate contract. 55. Compensation. 56. Exceptions to sections 54 and 55. 57. Incapacity of employee. 58. Certificates of service. Right not to be Dismissed Unfairly. 59. Right not to be dismissed unfairly. 60. Qualifications as to length of service and age. 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 65A. Dismissal in maternity cases. 65B. Dismissal in health and safety cases. 65C. Dismissal in relevant and statutory right cases. 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Industrial Tribunal. 70. Complaints and recommendations. 71. Basis for assessment of compensation. 72. Calculation of compensation. 73. Contribution by third party.
+1932-16 57. Incapacity of employee. 58. Certificates of service. Right not to be Dismissed Unfairly. 59. Right not to be dismissed unfairly. 60. Qualifications as to length of service and age. 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 65A. Dismissal in maternity cases. 65B. Dismissal in health and safety cases. 65C. Dismissal in relevant and statutory right cases. 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Industrial Tribunal. 70. Complaints and recommendations. 71. Basis for assessment of compensation. 72. Calculation of compensation. 73. Contribution by third party.
 
 PART VIA Collective redundancies
 
 74. Interpretation and application. 75. Duty of employer to consult trade union representatives. 76. Duty to notify Director. 77. Prohibition of contracting out. 78. Offences.
 
-PART VIB
+PART VIB Transfer of Undertakings
+
+78A. Effect of relevant transfer on contracts of employment, etc. 78B. Effect of relevant transfer on collective agreements. 78C. Exclusion of occupational pensions schemes. 78D. Dismissal of employee because of relevant transfer. 78E. Effect of relevant transfer on trade union recognition.
 
 Employment
 
-1932-16 Transfer of Undertakings
-
-78A. Effect of relevant transfer on contracts of employment, etc. 78B. Effect of relevant transfer on collective agreements. 78C. Exclusion of occupational pensions schemes. 78D. Dismissal of employee because of relevant transfer. 78E. Effect of relevant transfer on trade union recognition. 78F. Duty to inform and consult trade union representatives. 78G. Failure to inform or consult. 78H. Contracting out. 78I. Not In Use. 78J. A relevant transfer etc. 78K. Offences by bodies corporate. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Repealed. Schedule 2. Conventions.
+1932-16 78F. Duty to inform and consult trade union representatives. 78G. Failure to inform or consult. 78H. Contracting out. 78I. Not In Use. 78J. A relevant transfer etc. 78K. Offences by bodies corporate. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Repealed. Schedule 2. Conventions.
 
 Employment
 
-1932-16 AN ACT TO CONTROL EMPLOYMENT AND TRAINING AND TO REGULATE CONDITIONS OF EMPLOYMENT AND TRAINING
+1932-16 AN ACT TO CONTROL EMPLOYMENT AND TO REGULATE CONDITIONS OF EMPLOYMENT
