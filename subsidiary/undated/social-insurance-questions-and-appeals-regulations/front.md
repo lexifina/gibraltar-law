@@ -1,16 +1,16 @@
-Social Security (Insurance) SOCIAL INSURANCE (QUESTIONS AND APPEALS) REGULATIONS
+Subsidiary Legislation made under ss.33 and 38.
 
-1955-14
+Social Insurance (Questions and Appeals) Regulations
 
-Subsidiary 1955.08.04-9 Regulations made under ss.33 and 38.
+1955.08.04-9
 
-SOCIAL INSURANCE (QUESTIONS AND APPEALS) REGULATIONS
+Commencement 3.10.1955
 
-(1955.08.04-9)
+Amending enactments Relevant current provisions Commencement date
 
-3.10.1955 _________________________
+Act. 1999-27 r. 4 5.7.1999
 
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -33,7 +33,3 @@ PART IV.–PAYMENT OF FEES.
 11. Fees payable to Board, medical practitioners and Advisory Committee.
 
 SCHEDULE.
-
-Scale of Fees.
-
-Social Security (Insurance) SOCIAL INSURANCE (QUESTIONS AND APPEALS) REGULATIONS
