@@ -30,7 +30,7 @@ Act. 1969-24 ss. 3(1), 6(1)
 
 1976-06 s. 5(1)
 
-1977-28 s. 49(4) 1979-21 s. 14(1) 1983-17 ss. 3(1), 5(2), 25(1), 48(4) 1983-40 ss. 97-98 1986-01 s. 3 6.2.1986
+1977-28 s. 49(4) 1979-21 s. 14(1) 1983-17 ss. 3(1), 5(2), 25(1), 48(4) 1983-40 ss. 97-98 1986-01 s. 3 6.2.1986 1987-25 ss. 14, 25 29.10.1987
 
 English sources
 
@@ -406,7 +406,7 @@ Provided that this section shall not be deemed to apply to any sum disbursed by 
 
 Limit on expenditure.
 
-14.(1)  Subject to the provisions of subsection (2), no expenditure shall be incurred in relation to the candidature of any person at any election, in excess of £400.
+14.(1)  Subject to the provisions of subsection (2), no expenditure shall be incurred in relation to the candidature of any person at any election, in excess of £750.
 
 House of Assembly
 
@@ -542,7 +542,7 @@ House of Assembly
 
 1950-15
 
-(e)  enabling persons who are entitled to vote as electors but are temporarily outside from Gibraltar on courses of study, or for health reasons or recreational purposes, or for purposes connected with their employment or business within Gibraltar, to make postal votes in elections; and
+(e)  enabling persons who are entitled to vote as electors but are temporarily outside from Gibraltar to make postal votes in elections; and
 
 (f) generally for carrying into effect the provisions of this Act.
 
@@ -568,9 +568,11 @@ Restrictions on premises to be used as committee room.
 
 (c)  the premises of any school or any part of such premises,
 
+shall not be used as a committee room for the purpose of promoting or procuring the election of a candidate at an election, and any person who hires or uses any such premises or any part thereof as a committee room for
+
 House of Assembly
 
-1950-15 shall not be used as a committee room for the purpose of promoting or procuring the election of a candidate at an election, and any person who hires or uses any such premises or any part thereof as a committee room for such a purpose as aforesaid, is guilty of illegal hiring and the person letting such premises or part thereof, if he knew that it was intended to use such premises or part thereof as a committee room for such a purpose as aforesaid, is also guilty of illegal hiring:
+1950-15 such a purpose as aforesaid, is guilty of illegal hiring and the person letting such premises or part thereof, if he knew that it was intended to use such premises or part thereof as a committee room for such a purpose as aforesaid, is also guilty of illegal hiring:
 
 Provided that nothing in this section–
 
@@ -592,11 +594,11 @@ Payments made otherwise than through election agents.
 
 31. A person who makes any payment, advance or deposit in contravention of section 13(3) is guilty of an illegal practice.
 
+Exceeding limit on expenditure.
+
 House of Assembly
 
 1950-15
-
-Exceeding limit on expenditure.
 
 32. Where any expenditure is incurred in contravention of the provisions of section 14 the person by whom such expenditure was incurred, and the candidate in connection with whose candidature it was incurred, shall be deemed to be guilty of an illegal practice:
 
@@ -620,11 +622,11 @@ Provided that a candidate is not liable, nor shall his election be avoided, for 
 
 Posters to bear names of printers and publishers.
 
-35.(1)  Every bill, placard, or poster having reference to an election shall bear upon the face thereof the name and address of the printer and publisher thereof; and a person who prints, publishes, posts or knowingly causes to be printed, published or posted, any such bill, placard or poster, which fails to
+35.(1)  Every bill, placard, or poster having reference to an election shall bear upon the face thereof the name and address of the printer and publisher thereof; and a person who prints, publishes, posts or knowingly causes to be printed, published or posted, any such bill, placard or poster, which fails to bear upon the face thereof the name and address of the printer and publisher, is, if he be the candidate or the election agent of the candidate be guilty of
 
 House of Assembly
 
-1950-15 bear upon the face thereof the name and address of the printer and publisher, is, if he be the candidate or the election agent of the candidate be guilty of an illegal practice, and any such person, if he be not the candidate or the election agent of the candidate, is liable, on summary  conviction,  to a fine of £100.
+1950-15 an illegal practice, and any such person, if he be not the candidate or the election agent of the candidate, is liable, on summary  conviction,  to a fine of £100.
 
 (2)  Subsection (1) shall apply to every printed document distributed for the purpose of promoting or procuring the election of a candidate as it applies to bills, placards and posters but with the substitution of references to distributing for references  to posting.
 
@@ -648,11 +650,13 @@ Relief for innocent acts.
 
 (c)  that such notice of the application has been given as to the court seems fit,
 
+and under the circumstances it seems to the court to be just that such candidate, agent and person, or any of them, should not be subject to any of
+
 House of Assembly
 
 1950-15
 
-and under the circumstances it seems to the court to be just that such candidate, agent and person, or any of them, should not be subject to any of the consequences under this Act of the act or omission, the court may make an order allowing such act or omission to be an exception from the provisions of this Act which would otherwise make the same an illegal practice, payment, employment or hiring, and thereupon such candidate, agent or person shall not be subject to any of the consequences under this Act of the act or omission.
+the consequences under this Act of the act or omission, the court may make an order allowing such act or omission to be an exception from the provisions of this Act which would otherwise make the same an illegal practice, payment, employment or hiring, and thereupon such candidate, agent or person shall not be subject to any of the consequences under this Act of the act or omission.
 
 Corrupt practices .
 
@@ -680,9 +684,7 @@ Meaning of bribery.
 
 House of Assembly
 
-1950-15
-
-40. The following persons shall be deemed guilty of bribery within the meaning of this Act –
+1950-15 40. The following persons shall be deemed guilty of bribery within the meaning of this Act –
 
 (a)  any person who directly or indirectly by himself or by any other person on his behalf gives, lends, or agrees to give or lend, or offers, promises, or promises to procure or to endeavour to procure, any money or valuable consideration to or for any elector, or to or for any person on behalf of any elector, or to or for any other person, in order to induce any elector to vote for or refrain from voting, or corruptly does any such act on account of such elector having voted or refrained from voting at any election;
 
@@ -694,13 +696,13 @@ House of Assembly
 
 (e)  any person who advances or pays, or causes to be paid, any money to or to the use of any other person, with the intent that such money, or any part thereof, shall be expended in bribery at any election, or who knowingly pays, or causes to be paid, any money to any person in discharge or repayment of any money wholly or in part expended in bribery at any election;
 
-(f) any elector who before or during any election, directly or indirectly, by himself, or by any other person on his behalf, receives, agrees, or contracts for any money, gift, loan, or
+(f) any elector who before or during any election, directly or indirectly, by himself, or by any other person on his behalf, receives, agrees, or contracts for any money, gift, loan, or valuable consideration, office, place, or employment, for
 
 House of Assembly
 
 1950-15
 
-valuable consideration, office, place, or employment, for himself or for any person, for voting or agreeing to vote, or for refraining or agreeing to refrain from voting, at any election; and
+himself or for any person, for voting or agreeing to vote, or for refraining or agreeing to refrain from voting, at any election; and
 
 (g)  any person who, after any election, directly or indirectly, by himself or by any other person on his behalf, receives any money or valuable consideration on account of any person having voted or refrained from voting, or having induced any other person to vote or refrain from voting, at any election.
 
@@ -718,9 +720,11 @@ Meaning of undue influence.
 
 Meaning of personation.
 
+43. A person who at an election applies for a ballot paper in the name of another person, whether that name be the name of a person living or dead, or
+
 House of Assembly
 
-1950-15 43. A person who at an election applies for a ballot paper in the name of another person, whether that name be the name of a person living or dead, or of a fictitious person, or who, having voted once at any election, applies at the same election for a ballot paper in his own name, is guilty of personation within the meaning of this Act.
+1950-15 of a fictitious person, or who, having voted once at any election, applies at the same election for a ballot paper in his own name, is guilty of personation within the meaning of this Act.
 
 Persons charged with corrupt practice may be convicted of illegal practice.
 
@@ -772,9 +776,11 @@ Infringement of secrecy.
 
 (2) Every person attending at the counting of the votes shall maintain and aid in maintaining the secrecy of voting and shall not–
 
+(a)  ascertain or attempt to ascertain at the counting of votes the number on the back of any ballot paper; or
+
 House of Assembly
 
-1950-15 (a)  ascertain or attempt to ascertain at the counting of votes the number on the back of any ballot paper; or
+1950-15
 
 (b)  communicate any information obtained at the counting of the votes as to the candidates for whom any votes are given on any particular ballot paper.
 
@@ -796,11 +802,13 @@ Breaches of Official duty.
 
 49. (1)  A person to whom this section applies, or who is for the time being under a duty to discharge any of the functions of such person, who is, without reasonable cause, guilty of any act or omission in breach of his official duty is, subject to subsection (4), liable on summary conviction to imprisonment for six months and to a fine of £l00.
 
+(2)  No person to whom this section applies is liable for breach of his official duties to any penalty at common law or under any enactment except
+
 House of Assembly
 
 1950-15
 
-(2)  No person to whom this section applies is liable for breach of his official duties to any penalty at common law or under any enactment except as provided by this section, nor shall any action for damages lie in respect of the breach by any such person of his official duty.
+as provided by this section, nor shall any action for damages lie in respect of the breach by any such person of his official duty.
 
 (3)  The persons to whom this section applies are any registration officer, returning officer, presiding officer or clerk or assistant employed by such an officer in connection with his official duties; and the expression “official duty” shall for the purposes of this section be construed accordingly but shall not include duties imposed otherwise than by the law relating to elections or the registration of electors.
 
@@ -820,9 +828,7 @@ Removal of incapacity.
 
 House of Assembly
 
-1950-15
-
-52. Where a person has become subject to any incapacity under this Act by reason of a conviction and any witness who gave evidence against such incapacitated person upon the proceeding for such conviction is convicted of perjury in respect of that evidence, the incapacitated person may apply to the court, and the court, if satisfied that the conviction so far as respects such person was based upon perjury, may order that such incapacity shall thenceforth cease and the same shall cease accordingly.
+1950-15 52. Where a person has become subject to any incapacity under this Act by reason of a conviction and any witness who gave evidence against such incapacitated person upon the proceeding for such conviction is convicted of perjury in respect of that evidence, the incapacitated person may apply to the court, and the court, if satisfied that the conviction so far as respects such person was based upon perjury, may order that such incapacity shall thenceforth cease and the same shall cease accordingly.
 
 PART IV. ELECTION PETITIONS
 
@@ -846,11 +852,11 @@ Application of English law.
 
 (2)  Rules for the regulation of the practice, procedure and costs of election petitions and the trial thereof may be made in the like manner as rules made under and for the purpose of the Supreme Court Act.
 
+Who may petition.
+
 House of Assembly
 
 1950-15
-
-Who may petition.
 
 55.(1)  An election petition may be presented either by four or more persons who voted or had a right to vote at the election or by a person alleging himself to have been a candidate at the election.
 
@@ -870,11 +876,11 @@ Security for costs.
 
 56.(1)  At the time of presenting an election petition or within three days thereafter, the petitioner shall give security for all costs, charges and expenses which may become payable by him to any witness summoned on his behalf, or to any respondent.
 
-(2)  The security shall be to such amount, not exceeding £100, as the Chief Justice may direct and shall be given either by a deposit of money into court or by recognizance entered into before the Registrar of the Supreme
+(2)  The security shall be to such amount, not exceeding £100, as the Chief Justice may direct and shall be given either by a deposit of money into court or by recognizance entered into before the Registrar of the Supreme Court by not more than four sureties, or partly in one way and partly in the other.
 
 House of Assembly
 
-1950-15 Court by not more than four sureties, or partly in one way and partly in the other.
+1950-15
 
 (3)  If no security is so given no further proceedings shall be had on the petition.
 
@@ -896,11 +902,11 @@ Trial of petitions.
 
 (8)  It shall also be the duty of the Attorney-General without any direction from the court, if he thinks it expedient in the interests of justice so to do, to prosecute any person who appears to him to have been guilty of a corrupt or illegal practice at an election.
 
+Withdrawal of election petition.
+
 House of Assembly
 
 1950-15
-
-Withdrawal of election petition.
 
 58.(1)  A petitioner shall not withdraw an election petition without the leave of the court.
 
@@ -922,9 +928,7 @@ Withdrawal of election petition.
 
 House of Assembly
 
-1950-15
-
-(b)  induced  by any corrupt bargain or consideration, the court may by order direct that the security given on behalf of the original petitioner shall remain as security for any costs that may be incurred by the substituted petitioner, and that to the extent of the sum named in the security, the original petitioner and his sureties be liable to pay the costs of the substituted petitioner.
+1950-15 (b)  induced  by any corrupt bargain or consideration, the court may by order direct that the security given on behalf of the original petitioner shall remain as security for any costs that may be incurred by the substituted petitioner, and that to the extent of the sum named in the security, the original petitioner and his sureties be liable to pay the costs of the substituted petitioner.
 
 (9)  If the court does not so direct, then security to the same amount as would be required in the case of a new petition, and subject to the like conditions, shall be given on behalf of the substituted petitioner before he proceeds with his petition and within the prescribed time after the order of substitution.
 
@@ -944,11 +948,11 @@ Exoneration of candidate where agent guilty of offence.
 
 (d)  that in all other respects the election was free from any corrupt or illegal practice on the part of such candidate and of his agent,
 
+then the election of such candidate shall not, by reason of the offences found to have been committed, be void, nor shall the candidate be subject to any incapacity under this Act.
+
 House of Assembly
 
 1950-15
-
-then the election of such candidate shall not, by reason of the offences found to have been committed, be void, nor shall the candidate be subject to any incapacity under this Act.
 
 No obligation on voter to disclose vote.
 
@@ -976,9 +980,11 @@ Power to exclude strangers.
 
 No evidence of proceedings to be given without leave.
 
+64.(1)  No member or officer and no person employed to take or transcribe minutes of evidence before the Assembly or any committee shall give evidence elsewhere respecting the contents of such minutes of evidence or
+
 House of Assembly
 
-1950-15 64.(1)  No member or officer and no person employed to take or transcribe minutes of evidence before the Assembly or any committee shall give evidence elsewhere respecting the contents of such minutes of evidence or of the contents of any document laid before the Assembly or committee, as the case may be, or respecting any proceedings or examination held before the Assembly or committee, as the case may be, without the special leave of the Assembly first had and obtained.
+1950-15 of the contents of any document laid before the Assembly or committee, as the case may be, or respecting any proceedings or examination held before the Assembly or committee, as the case may be, without the special leave of the Assembly first had and obtained.
 
 (2)  The special leave referred to in subsection (1) may be given during a recess or adjournment by the Speaker.
 
@@ -998,13 +1004,13 @@ Issue of summons.
 
 67. (1)  Any order to attend to give evidence or to produce documents before the Assembly or an authorized committee shall be notified to the person required to attend or to produce documents by a summons under the hand of the clerk issued by the direction of the Speaker.
 
-(2)  In every summons under subsection (1) there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce. The summons shall be served on the person mentioned therein by delivering to him a copy
+(2)  In every summons under subsection (1) there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce. The summons shall be served on the person mentioned therein by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Gibraltar with some adult person; and there shall be paid or
 
 House of Assembly
 
 1950-15
 
-thereof or by leaving a copy thereof at his usual or last known place of abode in Gibraltar with some adult person; and there shall be paid or tendered to the person so summoned, such sum for his expenses as may be specified by standing order.
+tendered to the person so summoned, such sum for his expenses as may be specified by standing order.
 
 (3)  A summons under this section may be served by an officer or by a police officer.
 
@@ -1022,11 +1028,11 @@ Objections to answering questions or producing papers.
 
 Privileges of witnesses.
 
-70. (1)  Every person summoned to attend to give evidence or to produce any paper, book, record or document before the Assembly or an authorized
+70. (1)  Every person summoned to attend to give evidence or to produce any paper, book, record or document before the Assembly or an authorized committee shall be entitled, in respect of such evidence or the disclosure of
 
 House of Assembly
 
-1950-15 committee shall be entitled, in respect of such evidence or the disclosure of any communication or the production of any such paper, book, record or document, to the same rights and privileges as before a court of   law.
+1950-15 any communication or the production of any such paper, book, record or document, to the same rights and privileges as before a court of   law.
 
 (2)  Except with the general or special consent of the Governor, no public officer shall –
 
@@ -1078,11 +1084,11 @@ Interference with witnesses.
 
 (a)  tampers with, deters, threatens, molests, beguiles or in any way unduly influences any witness in regard to any evidence to be given by him before the Assembly or any committee; or
 
-(b)  threatens, molests or in any way punishes, damnifies or injures or attempts to punish, damnify or injure any person for having given evidence before the Assembly or any committee or on
+(b)  threatens, molests or in any way punishes, damnifies or injures or attempts to punish, damnify or injure any person for having given evidence before the Assembly or any committee or on account of any evidence which he has given before the Assembly or any committee,
 
 House of Assembly
 
-1950-15 account of any evidence which he has given before the Assembly or any committee,
+1950-15
 
 is guilty of an offence and is liable on conviction to imprisonment for twelve months and to a fine of £500.
 
@@ -1106,11 +1112,11 @@ Contempt.
 
 (a)  having been called upon to give evidence before the Assembly or an authorized committee thereof refuses to be sworn or make an affirmation; or
 
+(b)  being a witness misconducts himself; or
+
 House of Assembly
 
 1950-15
-
-(b)  being a witness misconducts himself; or
 
 (c)  causes an obstruction or disturbance within the precincts of the Assembly Chamber during a sitting of the Assembly or of a committee thereof; or
 
@@ -1136,9 +1142,11 @@ Breaches of confidence,  etc.
 
 (c)  publishes, save by the general or special leave of the Assembly, any paper, report or other document prepared expressly for submission to the Assembly before the same has been laid on the Table of the Assembly; or
 
+(d)  prints or causes to be printed a copy of any Act now or hereafter in force or a copy of any report, paper or journals of
+
 House of Assembly
 
-1950-15 (d)  prints or causes to be printed a copy of any Act now or hereafter in force or a copy of any report, paper or journals of the Assembly as purporting to have been printed by the Government Printers, or by or under the authority of the Assembly, or of the Speaker, and the same is not so printed; or
+1950-15 the Assembly as purporting to have been printed by the Government Printers, or by or under the authority of the Assembly, or of the Speaker, and the same is not so printed; or
 
 (e)  tenders in evidence any such copy as purporting to be so printed knowing the same was not so printed, is guilty of an offence and is liable, on conviction, to imprisonment for twelve months and to a fine of £250.
 
@@ -1164,11 +1172,11 @@ Penalties.
 
 81. For every offence under this Part for which no other penalty is specially provided the offender is liable on summary conviction to imprisonment for three months and to a fine of £50.
 
+Sanction of Attorney-General.
+
 House of Assembly
 
 1950-15
-
-Sanction of Attorney-General.
 
 82. No prosecution shall be instituted for an offence under this Part, other than an offence under paragraph (c) of section 77 or paragraph (a), (c) or (e) of section 80, except by the Attorney-General upon information given to him in writing by the Speaker.
 
@@ -1190,11 +1198,11 @@ Commons journals as evidence.
 
 Journals, etc., of the Assembly as evidence.
 
-85. Upon any inquiry touching the privileges, immunities and powers of the Assembly or of any member, any copy of the journals, reports or Standing
+85. Upon any inquiry touching the privileges, immunities and powers of the Assembly or of any member, any copy of the journals, reports or Standing Orders of the Assembly printed or purporting to be printed by the Government Printers, or any copy of the journals, reports or Standing Orders
 
 House of Assembly
 
-1950-15 Orders of the Assembly printed or purporting to be printed by the Government Printers, or any copy of the journals, reports or Standing Orders duly authenticated as such under the hand of the clerk, shall be admitted as evidence of such journals, reports or Standing Orders in all courts and places without any further proof being given.
+1950-15 duly authenticated as such under the hand of the clerk, shall be admitted as evidence of such journals, reports or Standing Orders in all courts and places without any further proof being given.
 
 Absence of the Speaker.
 
@@ -1218,13 +1226,11 @@ Interpretation.
 
 90.(1)  In this Part, unless the context otherwise requires–
 
-“allowance”, in relation to an elected member, in respect of any service by him as such, means the amount that he was entitled to receive by way of personal remuneration for service, as Speaker, ordinary elected member, Chief Minister, minister, or Leader of the Opposition; but does not in any case include any
+“allowance”, in relation to an elected member, in respect of any service by him as such, means the amount that he was entitled to receive by way of personal remuneration for service, as Speaker, ordinary elected member, Chief Minister, minister, or Leader of the Opposition; but does not in any case include any allowance by way of payment or reimbursement for his expenses;
 
 House of Assembly
 
 1950-15
-
-allowance by way of payment or reimbursement for his expenses;
 
 “elected member” means the Speaker of the Assembly, an ordinary elected member of the Assembly, the Chief Minister, any minister, or the Leader of the Opposition;
 
@@ -1254,9 +1260,7 @@ Entitlement to pension.
 
 House of Assembly
 
-1950-15
-
-shall, on ceasing to be an elected member be entitled to a pension under this Act.
+1950-15 shall, on ceasing to be an elected member be entitled to a pension under this Act.
 
 (2)  Notwithstanding subsection (1), no pension shall become payable under this Act before the person who is entitled to it has attained the age of 55 years.
 
