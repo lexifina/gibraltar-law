@@ -46,7 +46,7 @@ Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
 Subsidiary 1961.12.19-2 III 1990/023 Sch. 1- Part I(a) and Part II. 1.3.1990 1991/006 rr. 7(1)(2)(b), 17(1)(h)(i) and 20(1)(a)(b) and (2)
 
-1.2.1991 1991/073 Sch. 1 - Part I(a) and Part II 1.5.1991 1992/014 Sch. 1 - Part I(a) and Part II 20.2.1992 1992/150 Sch. 1 - Part I(a) and Part II 1.1.1993
+1.2.1991 1991/073 Sch. 1 - Part I(a) and Part II 1.5.1991 1992/014 Sch. 1 - Part I(a) and Part II 20.2.1992 1992/150 Sch. 1 - Part I(a) and Part II 1.1.1993 1993/185 Sch. 1 - Part I(a) and Part II 1.1.1994
 
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
