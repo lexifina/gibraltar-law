@@ -8,9 +8,9 @@ Weight not over
 
 Rate of Postage 20  grammes
 
-14p 100  grammes
+17p 100  grammes
 
-33p
+41p
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
@@ -18,17 +18,17 @@ Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 Subsidiary 1975/084 250  grammes
 
-67p 500  grammes
+83p 500  grammes
 
-£1.28p 1000 grammes
+£1.58p 1000 grammes
 
-£2.23p 2000 grammes
+£2.75p 2000 grammes
 
-£3.62p
+14.47p
 
 Postcards
 
-14p
+17p
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 

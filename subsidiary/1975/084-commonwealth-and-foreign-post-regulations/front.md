@@ -22,6 +22,8 @@ LN. 1976/036 r. 17(4)
 
 1981/111 rr. 23, 27, 29, 30(2), 31, 37(1)-(2), (4), 39, Schs. 1-3
 
+1984/023 rr. 22, 27, 30(2)(c), 34, 37(4). Schs 1-3, 5 1.4.1984
+
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 1961-10

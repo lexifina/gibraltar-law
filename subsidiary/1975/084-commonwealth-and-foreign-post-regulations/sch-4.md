@@ -16,4 +16,8 @@ Maximum Weight Maximum size 1. Letter 2 kg. Length, width and depth combined - 9
 
 5. Small packets 1 kg. As for letters
 
-________________________
+Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
+
+1961-10
+
+Subsidiary 1975/084

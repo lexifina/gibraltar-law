@@ -4,16 +4,10 @@ Regulations 33 and 34.
 
 COMPENSATION.
 
-Limit of Compensation
-
-Compensation Fee
-
-For the first £72 or part thereof
-
-30p
+Compensation Fee Maximum Compensation £1.00 £100 £1.20 £200 £1.40 £300 £1.60 1400 £1.80 £500 £2.00 £600 £2.20 £700 £2.40 £800 £2.60 £900 £2.80 £1000
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 1961-10
 
-Subsidiary 1975/084 Each additional £36 or part thereof up to a maximum of £275 3p
+Subsidiary 1975/084
