@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1997/163 r. 20. 30.12.1997 1999/159 r. 10A 25.11.1999 2001/035 rr. 2, 3, 3A, 3B, 3C, 4, 6(2), 21 and 22.
 
-19.4.2001 2003/107 rr. 12(2) and 12(4). 25.9.2003 2005/020 r. 10A(1) 1.7.2004
+19.4.2001 2003/107 rr. 12(2) and 12(4). 25.9.2003 2005/020 r. 10A(1) 1.7.2004 2004/131 r. 20 3.1.2005
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
 
