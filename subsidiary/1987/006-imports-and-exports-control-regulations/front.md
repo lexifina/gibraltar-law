@@ -10,7 +10,9 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995
+
+Transposing: Directive 92/3/Euratom
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
@@ -28,7 +30,7 @@ Imports.
 
 Exports.
 
-7. Goods freely exportable. 8. Goods in transit. 9. Licences to export other goods. 10. Restrictions on exports to South Africa. 11. Conditions of export licences.
+7. Goods freely exportable. 8. Goods in transit. 9. Licences to export other goods. 10. Restrictions on exports to South Africa. 11. Conditions of export licences. 11A. Radioactive waste.
 
 Appeals.
 
@@ -48,13 +50,13 @@ SCHEDULE 2. Goods the importation of which is not licensed under regulation 3.
 
 SCHEDULE 3. Conditions of import licences.
 
-SCHEDULE 4. Goods which may be exported to any destination.
+SCHEDULE 4.
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006
+Subsidiary 1987/006 Goods which may be exported to any destination.
 
 SCHEDULE 5. Conditions of export licences.
 
@@ -150,6 +152,10 @@ Conditions of export licences.
 
 (b) may be subject to all or any of the conditions set out in Schedule 5, as the Collector may think fit.
 
+Radioactive waste.
+
+11A. Notwithstanding anything contained therein, regulations 7 to 11 shall not apply to radioactive waste, within the meaning of the Transfrontier Shipment of Radioactive Waste Regulations, 1995 where an authorisation has been granted for a shipment thereof under those Regulations.
+
 Appeals.
 
 Appeals.
@@ -162,17 +168,15 @@ Forms.
 
 13. The forms set out in Schedule 6 shall be used for the several purposes to which they are expressed to relate, with such modifications as may be necessary.
 
-Saving.
-
-Saving.
-
-14. Nothing in these Regulations shall be deemed to authorize the importation or exportation without licence of any goods of which the
-
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006 importation or exportation is prohibited, restricted or regulated under any other Act.
+Subsidiary 1987/006 Saving.
+
+Saving.
+
+14. Nothing in these Regulations shall be deemed to authorize the importation or exportation without licence of any goods of which the importation or exportation is prohibited, restricted or regulated under any other Act.
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
