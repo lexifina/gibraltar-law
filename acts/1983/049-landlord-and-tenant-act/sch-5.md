@@ -16,11 +16,15 @@ PART II.
 
 TABLE.
 
-Duration of Current Tenancy. Extended term of tenancy. Compensation payable under section 49(2). 1. Not more than 5 years 12 months 4 times the net annual value of the holding 2. More than 5 years but not more than 7 years 12 months 5 times the net annual value of  the holding 3. More than 7 years  but not more than 10 years 15 months 6 times the net annual value of the holding 4. More than 10 years but not more than 15 tears 18 months 7 times the net annual value of the holding 5. More than 15 years but not more than 20 years 24 months 9 times the net annual value of the holding
+Period of Occupation of the premises under the current and any previous tenancy agreement.
+
+Extended term of tenancy.
+
+Compensation payable under section 49(2). 1. Not more than 5 years 12 months 4 times the net annual value of the holding 2. More than 5 years but not more than 7 years 12 months 5 times the net annual value of  the holding 3. More than 7 years  but not more than 10 years 15 months 6 times the net annual value of the holding 4. More than 10 years but not more than 15 years 18 months 7 times the net annual value of the holding 5. More than 15 years 24 months 9 times the net annual
 
 Landlord and Tenant
 
-1983-49 6. More than 20 years 36 months 12 times the net annual value of the holding
+1983-49 but not more than 20 years value of the holding 6. More than 20 years 36 months 12 times the net annual value of the holding
 
 3. Notwithstanding paragraph 2 of this Part of this Schedule where the amount of 5/6 of the actual annual rental payable under the current tenancy is greater than the amount prescribed in the column of the Table, that greater amount shall be the amount of compensation payable.
 

@@ -12,13 +12,15 @@ Act. No. 1983-49 Commencement date of the Act other than the provisions listed b
 
 Part IV, ss.75 and 76, Sch. 3, para 5 of Sch. 4 and Sch. 5
 
-Assent 19.12.1983
+1.1.19861 Assent 19.12.1983
 
 Amending enactments Relevant current provisions Commencement date
 
 Acts. 1985-11 ss. 16, 22(1) and (4), 23(6)(a), 26(4)(b), 29(3), 30(1), 80A, 81(b) and 82(1), Sch. 2
 
-1.7.1985 1985-17 ss.1(2), 22 and 83 1.7.1985
+1.7.1985 1985-17 ss.1(2), 22 and 83 1.7.1985 1985-27 ss.62(3), 69 and Sch.5 1.1.1986
+
+1 Notice of Commencement LN. 1985/124
 
 Landlord and Tenant
 
@@ -26,7 +28,7 @@ Landlord and Tenant
 
 Section
 
-1. Short title and commencement .
+1. Short title and commencement.
 
 PART I. PRELIMINARY PROVISIONS.
 
