@@ -16,7 +16,7 @@ LN. 1971/008
 
 1981/090 Sch. 2
 
-1985/082 Sch. 2 1.7.1985 1989/081 Sch. 2 1.10.1989 1991/024 Sch. 2 1.4.1991
+1985/082 Sch. 2 1.7.1985 1989/081 Sch. 2 1.10.1989 1991/024 Sch. 2 1.4.1991 1992/028 r. 3, Sch.2 1.4.1992
 
 _______________________________
 
@@ -42,7 +42,9 @@ Forms.
 
 Fees.
 
-3. The several fees set out in Schedule 2 shall be charged for the purposes to which they relate.
+3.The several fees set out in Schedule 2 shall be charged for the purposes to which they relate :
+
+Provided that the Registrar may reduce or remit any of the fees.
 
 Marriage 1948-36 Marriage Rules 1948.03.11
 
