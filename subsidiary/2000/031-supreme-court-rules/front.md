@@ -12,7 +12,9 @@ SUPREME COURT RULES 2000
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2003/044 Sch. 6 10.4.2003
+LN. 2003/044 Sch. 6 10.4.2003 2004/039 rr. 10, 13, 14(1), 15(1)-(2), 18(1)(b), 20-23, 24(1), (a)-(c), (2)
+
+1.9.2004
 
 Supreme Court SUPREME COURT RULES 2000
 
@@ -34,7 +36,7 @@ PART III PRACTICE AND PROCEDURE IN ORIGINAL CIVIL MATTERS
 
 6. Application of English rules of court. 7. Practice and procedure in winding-up, matrimonial causes and
 
-bankruptcy. 8. Certain English rules and practice excluded. 9. Filing of copies. 10. Hearing of applications. 11. Examiners and conveyancing counsel. 12. Drawing-up of orders.
+bankruptcy. 8. Certain English rules and practice excluded. 9. Filing of copies. 10. Deleted. 11. Examiners and conveyancing counsel. 12. Drawing-up of orders.
 
 PART IV APPEALS IN CIVIL MATTERS
 
