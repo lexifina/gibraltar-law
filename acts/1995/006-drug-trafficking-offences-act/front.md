@@ -20,13 +20,13 @@ LN. 1997/046 ss 37 to 45 and Schedule.
 
 24.4.1997
 
+LN. 1999/055 s. 68(1)(c),(2) and (3).
+
+13.5.1999
+
 Assent 9.3.1995
 
-Amending Enactments Relevant current provisions Commencement date
-
-LN. 1996/009 Corrigendum
-
-Act. 1998-49
+Amending Enactments Relevant current provisions Commencement date LN. 1996/009 Corrigendum Act. 1998-49
 
 ss. 2(1)(2), 26(1), 27(3), 30(3), (7), 60(5), (6), (7), (8), (9), (10), 68
 
