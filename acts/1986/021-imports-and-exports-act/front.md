@@ -26,7 +26,7 @@ Imports and Exports
 
 1986-21 1993-23 ss. 8(2)-(7), 9(2) 9.12.1993 1995-04 ss. 2(1), 15(b)(ii), (c), 80(b)(ii), (c)
 
-9.3.1995 1997-34 s. 91 13.11.1997
+9.3.1995 1997-34 s. 91 13.11.1997 1996-07 s. 119A 14.1.1999
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -184,7 +184,7 @@ Imports and Exports
 
 Forfeiture.
 
-119. Prohibited imports forfeit to the Crown. 120. Mandatory forfeiture of goods. 121. Discretionary forfeiture of goods. 122. Forfeiture of receptacles. 123. Mandatory forfeiture of ships, etc. 124. Discretionary forfeiture of ships. etc. 125. Seizure of goods liable to forfeiture. 126. Procedure in connection with forfeiture.
+119. Prohibited imports forfeit to the Crown. 119A. Forfeiture of ships and vessels used or suspected of being used for carrying controlled drugs. 120. Mandatory forfeiture of goods. 121. Discretionary forfeiture of goods. 122. Forfeiture of receptacles. 123. Mandatory forfeiture of ships, etc. 124. Discretionary forfeiture of ships. etc. 125. Seizure of goods liable to forfeiture. 126. Procedure in connection with forfeiture.
 
 Stay and Compounding of Proceedings.
 
@@ -212,11 +212,9 @@ SCHEDULE 1.
 
 CUSTOMS TARIFF
 
-SCHEDULE 2. Revoked by 1990-01
-
 Imports and Exports
 
-1986-21
+1986-21 SCHEDULE 2. Revoked by 1990-01
 
 SCHEDULE 3. Provisions relating to forfeiture.
 
