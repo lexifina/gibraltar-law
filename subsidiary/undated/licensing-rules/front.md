@@ -30,7 +30,7 @@ Order of regs.19.9.1969
 
 1982/092 rr. 43, 45-47, 50
 
-1989/035 rr. 43-50 1.10.1989 1991/200 rr. 2, 9(7)(8), 10A (2), 11, 20, 29 (3)(5) and 30 (3) 31.10.1991 1991/214 rr. 28(4), 33 and 34 21.11.1991
+1989/035 rr. 43-50 1.10.1989 1991/200 rr. 2, 9(7)(8), 10A (2), 11, 20, 29 (3)(5) and 30 (3) 31.10.1991 1991/214 rr. 28(4), 33 and 34 21.11.1991 Act. 1997-34 rr. 19-22 13.11.1997
 
 Licensing and Fees LICENSING RULES
 
@@ -52,7 +52,7 @@ PART II.–LICENSED BROKERS AND AUCTIONEERS.
 
 PART III.–LICENSED TOBACCONISTS.
 
-19. Number of pensons to be employed in any place. 20. Special penalty for employing more than the authorized number of pensons. 21. Form of application for tobacconists licences. 22. Licence to be exposed in prominent place.
+19-22. Revoked.
 
 PART IV.–EATING HOUSES.
 
@@ -60,13 +60,13 @@ PART IV.–EATING HOUSES.
 
 PART V.–PORTERS.
 
-28. Porters to be licensed.
+28. Porters to be licensed. 29. Licensed porters to wear badges. 30. Licensed porter to produce licence. 31. Offence for unauthorized person to wear porter’s badge. 32. Licensed porters shall Carry scale of charges.
 
 Licensing and Fees LICENSING RULES
 
 1961-29
 
-Subsidiary 1961.12.28 29. Licensed porters to wear badges. 30. Licensed porter to produce licence. 31. Offence for unauthorized person to wear porter’s badge. 32. Licensed porters shall Carry scale of charges. 33. Revoked. 34. Revoked.
+Subsidiary 1961.12.28 33. Revoked. 34. Revoked.
 
 PART VI.–BAKERS AND BAKEHOUSES.
 
