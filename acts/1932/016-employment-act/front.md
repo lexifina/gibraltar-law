@@ -26,11 +26,13 @@ Employment
 
 14.2.1994 1994/098 ss. 2, 74(1), (3)-(5), 75(1)-(5), (7)- (8), 76(1)-(2), (8), 78A-78H, 78J- 78K
 
-24.6.1994 1994/103 s. 74(5)(a)(ii) 24.6.1994 Act. 1999-04 s. 89(1) 24.6.1994 LN. 2000/045 s. 17(6)(b) 24.6.1994 1994/098 ss. 26A, 61(1)(a)-(b) 22.9.1994
+24.6.1994 1994/103 s. 74(5)(a)(ii) 24.6.1994 Act. 1999-04 s. 89(1) 24.6.1994 LN. 2000/045 s. 17(6)(b) 24.6.1994 1994/098 ss. 26A, 61(1)(a)-(b) 22.9.1994 1996/014 ss. 60(1), (3)-(4), 62(1)(a), 65A- 65C
+
+1.1.1996
 
 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
 
-Transposing: Directive 77/187/EEC Directive 91/533/EEC Directive 92/56/EEC Regulation 1612/68
+Transposing: Directive 77/187/EEC Directives 89/391/EEC Directive 91/533/EEC Directive 92/56/EEC Directives 92/85/EEC Regulation 1612/68
 
 Employment
 
@@ -68,7 +70,7 @@ PART VI. TERMINATION OF EMPLOYMENT. General. 53. Probationary employment. 54. No
 
 Employment
 
-1932-16 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Industrial Tribunal. 70. Complaints and recommendations. 71. Basis for assessment of compensation. 72. Calculation of compensation. 73. Contribution by third party.
+1932-16 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 65A. Dismissal in maternity cases. 65B. Dismissal in health and safety cases. 65C. Dismissal in relevant and statutory right cases. 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Industrial Tribunal. 70. Complaints and recommendations. 71. Basis for assessment of compensation. 72. Calculation of compensation. 73. Contribution by third party.
 
 PART VIA Collective redundancies
 
@@ -76,11 +78,11 @@ PART VIA Collective redundancies
 
 PART VIB Transfer of Undertakings
 
-78A. Effect of relevant transfer on contracts of employment, etc. 78B. Effect of relevant transfer on collective agreements. 78C. Exclusion of occupational pensions schemes. 78D. Dismissal of employee because of relevant transfer. 78E. Effect of relevant transfer on trade union recognition. 78F. Duty to inform and consult trade union representatives. 78G. Failure to inform or consult. 78H. Contracting out. 78I. Not In Use. 78J. A relevant transfer etc. 78K. Offences by bodies corporate. PART VII. MISCELLANEOUS.
+78A. Effect of relevant transfer on contracts of employment, etc. 78B. Effect of relevant transfer on collective agreements. 78C. Exclusion of occupational pensions schemes. 78D. Dismissal of employee because of relevant transfer. 78E. Effect of relevant transfer on trade union recognition. 78F. Duty to inform and consult trade union representatives. 78G. Failure to inform or consult. 78H. Contracting out. 78I. Not In Use. 78J. A relevant transfer etc. 78K. Offences by bodies corporate.
 
 Employment
 
-1932-16 Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Chairperson Oath. Schedule 2. Conventions.
+1932-16 PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Repealed. Schedule 2. Conventions.
 
 Employment
 
