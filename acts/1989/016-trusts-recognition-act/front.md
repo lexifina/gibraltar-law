@@ -1,0 +1,19 @@
+Trusts (Recognition) Act 1989
+
+Principal Act
+
+Act. No. 1989-16 Commencement (LN.1989/066) 1.9.1989
+
+Assent 10.8.1989
+
+_______________________________
+
+ARRANGEMENT OF SECTIONS
+
+Section
+
+1. Short title and commencement. 2. The Crown to be bound. 3. Application of Convention.
+
+SCHEDULE CONVENTION ON THE LAW APPLICABLE TO TRUSTS AND ON THEIR RECOGNITION.
+
+AN ACT TO MAKE THE LAW OF GIBRALTAR RELATING TO TRUSTS ACCORD WITH THE PROVISIONS OF THE CONVENTION ON THE LAW APPLICABLE TO TRUSTS AND THEIR RECOGNITION.
