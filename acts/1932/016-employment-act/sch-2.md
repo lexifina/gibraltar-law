@@ -20,9 +20,7 @@ ARTICLE 1.
 
 Employment
 
-1932-16
-
-ARTICLE 2.
+1932-16 ARTICLE 2.
 
 1. Children under the age of fifteen years shall not be employed or work in any public or private industrial undertaking, or in any branch thereof.
 
@@ -44,11 +42,11 @@ ARTICLE 5.
 
 (b)  empower an appropriate authority to prescribe a higher age or ages than fifteen years for the admission thereto of young persons or adolescents.
 
-2. The annual reports to be submitted under Article 22 of the Constitution of the International Labour Organization shall include full information concerning the age or ages prescribed by national laws in pursuance of subparagraph (a) of the preceding paragraph or concerning the action taken by the appropriate authority in exercise of the powers conferred upon it in
+2. The annual reports to be submitted under Article 22 of the Constitution of the International Labour Organization shall include full information concerning the age or ages prescribed by national laws in pursuance of subparagraph (a) of the preceding paragraph or concerning the action taken by the appropriate authority in exercise of the powers conferred upon it in pursuance of subparagraph (b) of the preceding paragraph, as the case may be.
 
 Employment
 
-1932-16 pursuance of subparagraph (b) of the preceding paragraph, as the case may be.
+1932-16
 
 PART II.–CONVENTION CONCERNING THE NIGHT WORK OF YOUNG PERSONS EMPLOYED IN INDUSTRY, ADOPTED BY THE INTERNATIONAL LABOUR ORGANIZATION AT  WASHINGTON ON 28 NOVEMBER 1919.
 
@@ -70,11 +68,11 @@ Young persons over the age of sixteen may be employed during the night in the fo
 
 (a)  Manufacture of iron and steel; process in which reverberatory or regenerative furnaces are used, and galvanizing of sheet metal or wire (except the pickling process).
 
+(b)  Glass works.
+
 Employment
 
 1932-16
-
-(b)  Glass works.
 
 (c)  Manufacture of paper.
 
@@ -104,9 +102,7 @@ PART III.-CONVENTION CONCERNING THE NIGHT WORK OF WOMEN EMPLOYED IN INDUSTRY, AD
 
 Employment
 
-1932-16
-
-(b)  Industries in which articles are manufactured, altered, cleaned, repaired, ornamented, finished, adapted for sale, broken up or demolished, or in which materials are transformed, including shipbuilding and the generation, transformation and transmission of electricity or motive power of any kind.
+1932-16 (b)  Industries in which articles are manufactured, altered, cleaned, repaired, ornamented, finished, adapted for sale, broken up or demolished, or in which materials are transformed, including shipbuilding and the generation, transformation and transmission of electricity or motive power of any kind.
 
 (c) Construction, reconstruction, maintenance, repair, alteration or demolition of any building, railway, tramway, harbour, dock, pier, canal, inland waterway, road, tunnel, bridge, viaduct, sewer, drain, well, telegraphic or telephonic installation, electrical undertaking, gaswork, waterwork or other work of construction, as well as the preparation for or laying the foundations of any such work or structure.
 
