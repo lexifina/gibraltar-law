@@ -26,7 +26,7 @@ Imports and Exports
 
 1986-21 1993-23 ss. 8(2)-(7), 9(2) 9.12.1993 1995-04 ss. 2(1), 15(b)(ii), (c), 80(b)(ii), (c)
 
-9.3.1995
+9.3.1995 1997-34 s. 91 13.11.1997
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -156,7 +156,7 @@ PART VIII. SPECIAL PROVISIONS RELATING TO WINES, SPIRITS AND TOBACCO.
 
 Imports and Exports
 
-1986-21 89. Owner may take samples. 90. Repealed. 91.   Export of tobacco.
+1986-21 89. Owner may take samples. 90. Repealed. 91.   Repealed.
 
 PART IX. MISCELLANEOUS.
 
