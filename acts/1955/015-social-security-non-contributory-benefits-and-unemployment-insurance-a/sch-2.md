@@ -10,46 +10,24 @@ UNEMPLOYMENT BENEFIT
 
 PART I Section 8
 
-Weekly Rates Payable (1) (2)
+Weekly Rates Payable (1) (2) (3) (4) Beneficiaries Weekly basic rate Increase for wife or dependant (where applicable) Increase for children per child (where applicable) (a)  Persons over 18.
 
-(3)
+£17.50
 
-(4) Beneficiaries
+£8.75
 
-Weekly basic rate. Increase for wife or dependent (where applicable)
+£3.50
 
-Increase for children per child (where applicable)
+(b)  Young persons (i.e. over 15 but under 18)
 
-(a) Persons over 18 £12.60 £6.30 £2.52 (b) Young Persons (i.e. over 15 but under 18) (i) during any period during which the person is entitled to an increase of benefit in respect of a child or adult dependant. (ii) during any  other period
+(i)  during any period during which the person is entitled to an increase of benefit in respect of a child or adult dependant. £17.50 £8.75 £3.50
 
-£12.60
-
-£6.30
-
-£6.30
-
-£2.52
+(ii) during any other period. £8.75
 
 Social Security (Non-Contributory Benefits and Unemployment Insurance)
 
 1955-15 PART I (A)
 
-Weekly Rates Payable (1) (2)
+Weekly Rates Payable (1) (2) (3) (4) Beneficiaries Weekly basic rate Increase for wife or dependant (where applicable) Increase for children per child (where applicable) (a)  Persons over 18. £51.75 £25.45 £10.05 (b)   Young persons (i.e. over 15 but under 18).
 
-(3)
-
-(4) Beneficiaries
-
-Weekly basic rate. Increase for wife or dependent (where applicable)
-
-Increase for children per child (where applicable)
-
-(a) Persons over 18 £37.20 £18.30 £7.20 (b) Young Persons (i.e. over 15 but under 18) (i) during any period during which the person is entitled to an increase of benefit in respect of a child or adult dependant. (ii) during any  other period
-
-£37.20
-
-£18.30
-
-£18.30
-
-£7.20
+(i)  during any period during which the person is entitled to an increase of benefit in respect of a child or adult dependant. £51.75 £25.45 £10.05 (ii) during any other period. £25.45

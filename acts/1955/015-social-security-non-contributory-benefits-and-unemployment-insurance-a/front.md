@@ -42,11 +42,13 @@ LN. 1983/100 Schs. 2-3
 
 1984/096 Sch. 2 25.12.1984 “ Sch. 3 26.12.1984 Act. 1984-22 ss. 4(1), 6-7, 11(1), (3), 12, 17, 18(1), Sch. 2.
 
-26.12.1984 LN. 1986/130 Sch. 3 24.12.1986 Act. 1987-02 s. 9(1A) 19.2.1987 LN. 1987/166 Sch. 3 29.12.1987 1988/123 Sch. 3 27.12.1988 Act. 1990-09 s. 19 1.3.1990 1993-14 ss. 11, 15-16 1.9.19931 LN. 1994/037 s. 19(1)-(2), (4) 14.4.1994 Act. 2001-04 ss. 2, 10(3), 16 19.4.2001
-
-English Source National Insurance Act 1946 (9 & 10 Geo.6 c.67)
+26.12.1984 LN. 1986/130 Sch. 3 24.12.1986 Act. 1987-02 s. 9(1A) 19.2.1987 LN. 1987/166 Sch. 3 29.12.1987 1988/123 Sch. 3 27.12.1988 Act. 1990-09 s. 19 1.3.1990 1993-14 ss. 11, 15-16 1.9.19931 LN. 1994/037 s. 19(1)-(2), (4) 14.4.1994 Act. 2001-04 ss. 2, 10(3), 16 19.4.2001 LN. 2004/126 Sch. 3 12.7.2004
 
 1 Notice of Commencement – LN.1993/137
+
+Social Security (Non-Contributory Benefits and Unemployment Insurance)
+
+1955-15 English Source National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
 Social Security (Non-Contributory Benefits and Unemployment Insurance)
 
