@@ -30,37 +30,9 @@ Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 Subsidiary 1955.08.04-4 PART V
 
-Regulation 13D
+Regulation 21
 
-(1)
-
-Yearly average of contributions paid
-
-(2)
-
-(3) full weekly rate of benefit payable £49.70
-
-£41.90 Reduced weekly rate of benefit payable
-
-43-44
-
-40-42
-
-37-39
-
-34-36
-
-30-33
-
-26-29
-
-22-25
-
-13-17
-
-£44.50 £42.80 £39.30 £36.80 £34.10 £31.60 £25.80 £23.10
-
-£35.40 £33.80 £31.70 f29.60 £27.50 £25.30 £20.90 £18.70
+(1) Yearly average of contributions paid or credited (2)                                            (3) Full weekly rate of benefit payable £53.00                                      £44.70 Reduced weekly rate of benefit payable 43-44 £47.50 £37.80 40-42 £44.60 £36.10 37-39 £41.90 £33.80 34-36 £39.30 £31.60 30-33 £36.40 £29.40 26-29 £33.70 £27.00 22-25 £30.60 £24.60 18-21 £27.50 £22.30 13-17 £24.60 £20.00
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
