@@ -24,6 +24,8 @@ Amending enactments Relevant current provisions Commencement date Act. 1934-16 �
 
 1977-15 –
 
+1985-28 ss. 57-61, 61A, Sch. 2 5.12.1985
+
 English sources
 
 Settled Land Act 1882 (45 & 46 Vict. c.38) Administration of Estates Act 1925 (15 & 16 Geo. 5 c.23) Administration of Estates Act 1971 (1971 c.25)
@@ -112,19 +114,31 @@ Administration of Estates
 
 Protection of personal representatives. 53. Powers of personal representative in respect of interest of surviving spouse. 54. Application to cases of partial intestacy. 55. Construction of documents. 56. Savings.
 
-PART VI. FAMILY PROVISION.
+PART VI. DISPOSAL BY NOMINATION.
 
-57-61. Repealed
+57. Power to Nominate. 58.
 
-PART VII. SUPPLEMENTAL.
+Formalities of nomination. 59.
 
-62. General savings. 63. Application of Act. 64. Omitted. 65. Application to Crown.
+Revocation of nomination. 60.
 
-SCHEDULE.
+Operation of nomination. 61.
+
+Nominee under sixteen or with a mental disability. 61A.
+
+Application to the Crown.
+
+PART VII. SUPPLEMENTAL. 62. General savings. 63. Application of Act. 64. Omitted. 65. Application to Crown.
+
+FIRST SCHEDULE.
 
 Part I –Rules as to Payment of debts where the Estate is insolvent.
 
 Part II –Order of Application of Assets where the Estate is solvent.
+
+SECOND SCHEDULE.
+
+Nomination for benefit under section 57.
 
 Administration of Estates
 
