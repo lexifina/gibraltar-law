@@ -6,7 +6,7 @@ PART 1
 
 Section 5 & 6
 
-Class of insured person to whom rate applies
+Class of employed insured person to whom rate applies
 
 Weekly rate of Contribution
 
@@ -14,15 +14,13 @@ Persons who have attained the age of 18 years
 
 Persons who have attained the age of 15 years but are under 18 years
 
-By the insured person (2) By the employer (3)
+By the insured person By the employer £ 0.10
 
-33p
+0.10
 
-33p
+£ 0.10
 
-33p
-
-33p
+0.10
 
 PART II
 
