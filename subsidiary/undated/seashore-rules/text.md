@@ -10,7 +10,7 @@ SEASHORE RULES
 
 2.8.1968
 
-Amending enactments Relevant current provisions Commencement date Regs of 28.5.1970 LN. 1971/100 r. 9 Act. 1972-05 r. 17 LN. 1974/058 rr. 3-4, 14-15 1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989 1989/065 r. 7A 11.8.1989
+Amending enactments Relevant current provisions Commencement date Regs of 28.5.1970 LN. 1971/100 r. 9 Act. 1972-05 r. 17 LN. 1974/058 rr. 3-4, 14-15 1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989 1989/065 r. 7A 11.8.1989 1991/049 r. 17 4.4.1991
 
 Public Health SEASHORE RULES
 
@@ -136,4 +136,4 @@ Subsidiary 1968.07.04 of his duties or any person employed by the Government in 
 
 Penalty.
 
-17. A person who offends against any provision of these Rules is liable on summary conviction to a fine of £10.
+17. A person who offends against any provision of these Rules is liable on summary conviction to a fine at level 3 on the standard scale.
