@@ -23,9 +23,3 @@ PARTS OF THE CARCASE WHICH MAY NOT BE USED IN UNCOOKED MEAT PRODUCTS
 MAMMALIAN SPECIES
 
 Brains Rectum Feet Spinal cord Intestine, large Spleen Intestine, small Stomach Lungs Testicles Oesophagus Udder
-
-Food and Drugs MEAT PRODUCTS AND SPREADABLE FISH PRODUCTS REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/057

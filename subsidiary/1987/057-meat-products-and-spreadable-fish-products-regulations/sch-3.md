@@ -21,9 +21,3 @@ FOODS WHICH ARE NOT MEAT PRODUCTS FOR THE PURPOSES OF THESE REGULATIONS
 8.  The products commonly known in Scotland as “potted head”, “potted meat” and “potted hough”.
 
 9.  Any product containing the fat, but no other meat, of any animal or bird.
-
-Food and Drugs MEAT PRODUCTS AND SPREADABLE FISH PRODUCTS REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/057
