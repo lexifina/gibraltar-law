@@ -10,10 +10,6 @@ Dated this. . . . . . . . . . . . . ., day of . . . . . . 20. . . . .
 
 Director »......«.
 
-Land (Acquisition)
-
-1973-22
-
 FORM B.
 
 LAND (ACQUISITION) ACT.
@@ -31,7 +27,3 @@ It is hereby declared that the lands specified in the Schedule hereto are needed
 Dated this . . . . . . . . . . .  day of . . . . . . . . 20. . . .
 
 Director .......
-
-Land (Acquisition)
-
-1973-22

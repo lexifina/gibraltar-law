@@ -12,23 +12,19 @@ I do not accept the above offer *. Dated this . . . . . . . . . . . day of. . . 
 
 ..................................... *Delete as appropriate.
 
-Land (Acquisition)
-
-1973-22
-
 FORM FA.
 
 LAND (ACQUISITION) ACT. (Section 16).
 
 CERTIFICATE OF URGENCY.
 
-Acquisition  Proceedings No. . . . . . . . . . . . Government Notice No. . . . . . . . . . . . . of . . . . . . . . . . .
+Acquisition Proceedings No. . . . . . . . . . . . Government Notice No. . . . . . . . . . . . . of . . . . . . . . . . .
 
 Whereas the land described in a notice given on the
 
 day of
 
-20        , under section 9 of the Land (Acquisition) Act (a copy of which notice is attached) is in the opinion of the Governor urgently required for use for a public purpose :
+20 , under section 9 of the Land (Acquisition) Act (a copy of which notice is attached) is in the opinion of the Governor urgently required for use for a public purpose :
 
 And whereas not less than fifteen days have elapsed from the date of the giving of such notice :
 
@@ -37,10 +33,6 @@ Now therefore I hereby issue this Certificate of Urgency under section 16 of the
 Dated this. . . . . . . . day of. . . . . . . . . 20. . .
 
 Director. . . . . . . . . .
-
-Land (Acquisition)
-
-1973-22
 
 FORM G.
 
@@ -68,19 +60,15 @@ Now therefore in accordance with the provisions of section 17 of the Act :
 
 (a)  I hereby require you the occupier to vacate the building on the land within. . . . . . .. . .
 
-,days from the date of this notice; and
+, days from the date of this notice; and
 
 (b)  I hereby offer you the owner by way of compensation in respect of the said building on the land the sum of
 
 (£).
 
-Dated this .........,day of .....................,20......
+Dated this ........., day of .....................,20......
 
 Director . . . . . . . . . .
-
-Land (Acquisition)
-
-1973-22
 
 FORM H.
 
@@ -112,13 +100,9 @@ I. . . . . . . . . . . .of. . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 5. In accordance with the provisions of section 19(1) of the Land (Acquisition) Act, I hereby require you to refer the matter to the court for its determination.
 
-Dated this. . . . . . . . .. . . .day of. . . . . . . . . . . .,20. . . .
+Dated this. . . . . . . . .. . . . day of. . . . . . . . . . . .,20. . . .
 
 Signature of Applicant.
-
-Land (Acquisition)
-
-1973-22
 
 FORM J.
 
@@ -164,11 +148,11 @@ Now therefore pursuant to the provisions of section 6/section 19 of the said Act
 
 (Particulars of statement)
 
-Land (Acquisition)
+† 6. The amount awarded for damages under section 6 of the said Act was £ . . . . . . . .
 
-1973-22 † 6. The amount awarded for damages under section 6 of the said Act was £ . . . . . . . .
+7. The amount of compensation awarded under section 14 was
 
-7. The amount of compensation awarded under section 14 was £. . . . . . . . . . .
+£. . . . . . . . . . .
 
 † 8. The following are the grounds on which the amount of compensation was determined–
 
@@ -186,10 +170,6 @@ Director  ........
 
 (The above paragraphs may be completed by appropriate references to the documents to be annexed thereto).
 
-Land (Acquisition)
-
-1973-22
-
 FORM K.
 
 LAND (ACQUISITION) ACT. (Section 24).
@@ -204,7 +184,7 @@ LAND REFERENCE NO . . . . . . . of. . . . . . . . . . . .
 
 Notice is hereby given that on the. . . . . . . . . . . . . . . . . . . . . . . .
 
-day of. . . . . . . . .. . . . . . . . . . . . . . at the hour of . . . . . . . . . . in the. . . . . . . . . .noon, the Supreme Court sitting . . . . . . .. . . . at. . . . . . . . . .. . . . . . . . . . . . . . .. . . . . . .  .will proceed to hear and determine the objections contained in the above reference, and relating to the following land :
+day of. . . . . . . . .. . . . . . . . . . . . . . at the hour of . . . . . . . . . . in the. . . . . . . . . . noon, the Supreme Court sitting . . . . . . .. . . . at. . . . . . . . . .. . . . . . . . . . . . . . .. . . . . . .  . will proceed to hear and determine the objections contained in the above reference, and relating to the following land :
 
 (Here insert details of land).
 

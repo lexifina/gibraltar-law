@@ -30,13 +30,9 @@ Dated this. . . . . . . . . . . ,day of . . . . . . . .. . ,20. . .  .
 
 (Signature).
 
-Land (Acquisition)
-
-1973-22
-
 FORM E.
 
-LAND ( ACQUISITION) ACT. (Section 13).
+LAND (ACQUISITION) ACT. (Section 13).
 
 WRITTEN AWARD OF COMPENSATION.
 

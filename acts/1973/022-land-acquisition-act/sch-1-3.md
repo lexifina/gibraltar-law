@@ -27,7 +27,3 @@ In accordance with the declaration of intended acquisition of the lands describe
 Dated this. . . . . . . .  . . , day of . . . . . .,20. . .
 
 Director .........
-
-Land (Acquisition)
-
-1973-22
