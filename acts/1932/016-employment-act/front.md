@@ -22,9 +22,13 @@ Amending enactments Relevant current provisions Commencement date Act. 1935-08 s
 
 Employment
 
-1932-16 1989-23 ss. 48-51, 52A-52G, 81(1) 10.8.1989 1989-33 s. 62(1)(a)-(c) 23.11.1989 1991-10 s. 21(3)(b)-(d) 8.8.1991 1991-35 ss. 28(1)-(2), 32(1)-(7), 43, 78, 81, 86, 89(3) 12.12.1991 1991-10 ss. 71(1) , 72 9.4.1992 1992-03 ss. 86(1)(a), (e)-(h), 86(2) 1.7.1992 1993-07 ss. 6(5), 16, 76(3)(a) 1.1.1993 LN. 1994/011 ss. 52F(1)(b), (2), (3)(a), 52H 1.2.1994
+1932-16 1989-23 ss. 48-51, 52A-52G, 81(1) 10.8.1989 1989-33 s. 62(1)(a)-(c) 23.11.1989 1991-10 s. 21(3)(b)-(d) 8.8.1991 1991-35 ss. 28(1)-(2), 32(1)-(7), 43, 78, 81, 86, 89(3) 12.12.1991 1991-10 ss. 71(1) , 72 9.4.1992 1992-03 ss. 86(1)(a), (e)-(h), 86(2) 1.7.1992 1993-07 ss. 6(5), 16, 76(3)(a) 1.1.1993 LN. 1994/011 ss. 52F(1)(b), (2), (3)(a), 52H 1.2.1994 Act. 1993-21 ss. 14-15, 18(1), 20-26 14.2.1994 LN. 1994/023 ss. 47(2)(ii), 52, 86(1)(b), 87, 89(3), Sch.1
+
+14.2.1994
 
 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
+
+Transposing: Directive 91/533/EEC Regulation 1612/68
 
 Employment
 
@@ -44,33 +48,33 @@ Employment
 
 Section
 
-PART I. PRELIMINARY. 1. Short title. 2. Interpretation. PART II. STATUTORY BODIES AND ADMINISTRATION. The Manpower Planning Committee 3. Establishment and membership of the Manpower Planning Committee. 4. Functions. The Control of Employment Appeals Tribunal 5. Establishment and procedure of Control of Employment Appeals Tribunal. The Conditions of Employment Board. 6. Establishment and membership of Conditions of Employment Board. 7. Functions. 8. Power to summon witnesses, etc. Joint Industrial Councils. 9. Registration of Joint Industrial Councils. 10. Functions. 11. Duty to supply copies of records. The Industrial Tribunal. 12. Power to establish an Industrial Tribunal. 13. Appeals. Employment Exchanges. 14. Establishment of employment exchanges. 15. Keeping of registers. 16. Appointment of inspectors.
+PART I. PRELIMINARY. 1. Short title. 2. Interpretation. PART II. STATUTORY BODIES AND ADMINISTRATION. The Manpower Planning Committee 3. Establishment and membership of the Manpower Planning Committee. 4. Functions. The Control of Employment Appeals Tribunal 5. Establishment and procedure of Control of Employment Appeals Tribunal. The Conditions of Employment Board. 6. Establishment and membership of Conditions of Employment Board. 7. Functions. 8. Power to summon witnesses, etc. Joint Industrial Councils. 9. Registration of Joint Industrial Councils. 10. Functions. 11. Duty to supply copies of records. The Industrial Tribunal. 12. Power to establish an Industrial Tribunal. 13. Appeals. Employment Exchanges. 14. Repealed. 15. Keeping of registers. 16. Appointment of inspectors.
 
 Employment
 
-1932-16 17. Powers and duties of inspectors. PART III. RESTRICTIONS ON EMPLOYMENT. Non-residents 18. Interpretation. 19. Application. 20. Prohibition of employing non-residents without permission. 21. Issue of permits. 22. Duration and revocation of permits. 23. Appeals. 24. Return of permits. 25. Issue of certificates of employment. 26. Surrender of certificates. 26A. Detached workers. 27. Power to require returns. 28. Offences and penalties. Women, Young Persons and Children. 29. Interpretation. 30. Restriction on employment in industrial undertakings. 31. Restriction on employment in ships. 32. Offences. 33. Saving. PART IV. CONDITIONS OF EMPLOYMENT. Recommendations and Orders. 34. References to Conditions of Employment Board. 35. Investigation, etc. 36. Powers of Governor. 37. Scope of orders. 38. Exhibition of orders. Recognised Conditions. 39. Recognised conditions of employment. 40. Exceptions for employer’s family. 41. Authorization of overtime outside recognised conditions. 42. Special conditions for aged, disabled and infirm workers. 43. Offences.
+1932-16 17. Powers and duties of inspectors. PART III. RESTRICTIONS ON EMPLOYMENT. 18. Interpretation. 19. Application. 20. Requirement in respect of work permits. 21. Repealed. 22. Repealed. 23. Repealed. 24. Return of permits. 25. Issue of certificates of employment. 26. Surrender of certificates. 26A. Detached workers. 27. Power to require returns. 28. Offences and penalties. Women, Young Persons and Children. 29. Interpretation. 30. Restriction on employment in industrial undertakings. 31. Restriction on employment in ships. 32. Offences. 33. Saving. PART IV. CONDITIONS OF EMPLOYMENT. Recommendations and Orders. 34. References to Conditions of Employment Board. 35. Investigation, etc. 36. Powers of Governor. 37. Scope of orders. 38. Exhibition of orders. Recognised Conditions. 39. Recognised conditions of employment. 40. Exceptions for employer’s family. 41. Authorization of overtime outside recognised conditions. 42. Special conditions for aged, disabled and infirm workers. 43. Offences. Payment of Wages.
 
 Employment
 
-1932-16 Payment of Wages. 44. Wages to be paid to the employee. 45. Wages to be paid at regular intervals. PART V. CONTRACTS OF EMPLOYMENT. Duration. 46. Duration of contracts. Remuneration. 47. Remuneration other than wages. 48. Repealed. 49. Repealed. 50. Repealed. 51. Repealed. Notification. 52. Statements to be given to employees.
+1932-16 44. Wages to be paid to the employee. 45. Wages to be paid at regular intervals. PART V. CONTRACTS OF EMPLOYMENT. Duration. 46. Duration of contracts. Remuneration. 47. Remuneration other than wages. 48. Repealed. 49. Repealed. 50. Repealed. 51. Repealed. 52. Repealed.
 
 PART VA. SEX DESCRIMINATION.
 
 52A. Principle of equal treatment. 52B. Application of the principle of equal treatment. 52C. Principle of equal pay. 52D. Laws, etc. contrary to the principles cease to have effect. 52E. Enforcement of the principles. 52F. Remedies on complaint. 52G. Employer’s duty to bring principles to notice of employees. 52H. Interest on compensation.
 
-PART VI. TERMINATION OF EMPLOYMENT. General. 53. Probationary employment. 54. Notice to terminate contract. 55. Compensation. 56. Exceptions to sections 54 and 55. 57. Incapacity of employee. 58. Certificates of service.
+PART VI. TERMINATION OF EMPLOYMENT. General. 53. Probationary employment. 54. Notice to terminate contract. 55. Compensation. 56. Exceptions to sections 54 and 55. 57. Incapacity of employee. 58. Certificates of service. Right not to be Dismissed Unfairly. 59. Right not to be dismissed unfairly. 60. Qualifications as to length of service and age.
 
 Employment
 
-1932-16 Right not to be Dismissed Unfairly. 59. Right not to be dismissed unfairly. 60. Qualifications as to length of service and age. 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Industrial Tribunal. 70. Complaints and recommendations. 71. Basis for assessment of compensation. 72. Calculation of compensation. 73. Contribution by third party.
+1932-16 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Industrial Tribunal. 70. Complaints and recommendations. 71. Basis for assessment of compensation. 72. Calculation of compensation. 73. Contribution by third party.
 
 PART VIA Collective redundancies
 
-74. Interpretation and application. 75. Duty of employer to consult trade union representatives. 76. Duty to notify Director. 77. Prohibition of contracting out. 78. Offences. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation.
+74. Interpretation and application. 75. Duty of employer to consult trade union representatives. 76. Duty to notify Director. 77. Prohibition of contracting out. 78. Offences. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations.
 
 Employment
 
-1932-16 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Rules. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Matters to be included in contracts. . Schedule 2. Conventions.
+1932-16 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Repealed Schedule 2. Conventions.
 
 Employment
 
