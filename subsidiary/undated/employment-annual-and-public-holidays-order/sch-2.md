@@ -8,7 +8,7 @@ Period of  employment preceding 1st January each year (i.e. during qualifying pe
 
 Duration of Annual Holiday for employees with not more than three years continuous service  conditioned to a week of:
 
-5 days or less 5.5 or 6 days 7 days
+5 days 5.5 or 6 days 7 days
 
 Not less than 48 weeks
 
@@ -94,7 +94,7 @@ Period of employment preceding 1st January each year (i.e. during qualifying per
 
 Duration of Annual Holiday for employees with more  than three but less than five years continuous service conditioned to week of:
 
-5 days or less 5.5 or 6 days 7 days
+5 days 5.5 or 6 days 7 days
 
 Not less than 48 weeks
 
@@ -182,7 +182,7 @@ Period of employment preceding 1st January each year (i.e. during qualifying per
 
 Duration of Annual Holiday for employees with more than five but less than eight years continuous service conditioned to a week of:
 
-5 days or less 5.5 days or 6 days 7 days
+5 days 5.5 days or 6 days 7 days
 
 Not less than 48 weeks
 
@@ -270,7 +270,7 @@ Period of employment preceding 1st January each year (i.e. during qualifying per
 
 Duration of Annual Holiday for employees with eight or more years continuous service  conditioned to a week of:
 
-5 days or less 5.5 days or 6 days 7 days
+5 days 5.5 days or 6 days 7 days
 
 Not less than 48 weeks
 
