@@ -18,7 +18,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Acts. 1985-11 ss. 16, 22(1) and (4), 23(6)(a), 26(4)(b), 29(3), 30(1), 80A, 81(b) and 82(1), Sch. 2
 
-1.7.1985 1985-17 ss.1(2), 22 and 83 1.7.1985 1985-27 ss.62(3), 69 and Sch.5 1.1.1986
+1.7.1985 1985-17 ss.1(2), 22 and 83 1.7.1985 1985-27 ss.62(3), 69 and Sch.5 1.1.1986 1987-22 s.33(9) 29.10.1987
 
 1 Notice of Commencement LN. 1985/124
 
