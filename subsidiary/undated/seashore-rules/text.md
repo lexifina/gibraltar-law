@@ -20,6 +20,8 @@ Act. 1972-05 r. 17
 
 LN. 1974/058 rr. 3-4, 14-15
 
+1988/018 r. 9(1) 4.2.1988
+
 Public Health SEASHORE RULES
 
 1950-07
@@ -90,19 +92,21 @@ Noisy instruments.
 
 Prohibition on dogs.
 
-9. (1) The owner of a dog, and any person in charge thereof, shall not allow such dog to be on the seashore on any day after ten o’clock in the morning and before half past seven in the evening of such day.
+9. (1) The owner of a dog, and any person in charge of a dog, shall not allow such dog to be on the seashore –
+
+(a) at any time on any day during the period from the last Saturday in April to the first Sunday in October (inclusive) in any year;
+
+(b) between 10 am and 7.30 pm on any other day.". Dated this 4th day of February, 1988.
 
 (2)  Any dog in respect of which an offence is being committed under this rule may (in the absence of the owner or other person having the custody thereof) be seized and impounded as a stray animal under section 24 of the Animals and Birds Act.
-
-Broken glass, etc.
-
-10. No person shall throw, place or wilfully leave on the seashore any glass, china or earthenware article (whole or broken) or tins in such a position as to be likely to cause injury to any person using the seashore.
 
 Public Health SEASHORE RULES
 
 1950-07
 
-Subsidiary 1968.07.04
+Subsidiary 1968.07.04 Broken glass, etc.
+
+10. No person shall throw, place or wilfully leave on the seashore any glass, china or earthenware article (whole or broken) or tins in such a position as to be likely to cause injury to any person using the seashore.
 
 Ashes, filth, etc.
 
