@@ -28,7 +28,9 @@ Acts. 1889-07 s. 36
 
 1986-02 ss. 2, 6, 8, 10(2), 11, 12, 13(3), 16(4), 20, 21, 26, 29, 35(2), 36(3), 37, 39(3), 40, 42, Sch.
 
-1.7.1986
+1.7.1986 1991-19 ss. 6, 8, 10(2), 11, 12, 13(3), 16(4), 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 35(1), (3), 36(3), 37, 39(3)
+
+18.7.1991
 
 English and Scottish sources
 
@@ -94,7 +96,7 @@ Certificate from medical practitioner to be inserted in register. 23.
 
 Information concerning death by whom to be supplied. 24.
 
-Registrar to inquire into domicile of deceased person. 25.
+Repealed. 25.
 
 Entry of particulars in register. 26.
 
