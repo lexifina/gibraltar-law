@@ -30,9 +30,7 @@ Act. 1969-24 ss. 3(1), 6(1)
 
 1976-06 s. 5(1)
 
-1977-28 s. 49(4) 1979-21 s. 14(1) 1983-17 ss. 3(1), 5(2), 25(1), 48(4) 1983-40 ss. 97-98 1986-01 s. 3 6.2.1986 1987-25 ss. 14, 25 29.10.1987 1995-17 Sch. 2 22.12.1995
-
-English sources
+1977-28 s. 49(4) 1979-21 s. 14(1) 1983-17 ss. 3(1), 5(2), 25(1), 48(4) 1983-40 ss. 97-98 1986-01 s. 3 6.2.1986 1987-25 ss. 14, 25 29.10.1987 1995-17 Sch. 2 22.12.1995 2003-05 s. 14(1) 7.5.2003 English sources
 
 None cited
 
@@ -406,7 +404,7 @@ Provided that this section shall not be deemed to apply to any sum disbursed by 
 
 Limit on expenditure.
 
-14.(1)  Subject to the provisions of subsection (2), no expenditure shall be incurred in relation to the candidature of any person at any election, in excess of £750.
+14.(1)  Subject to the provisions of subsection (2), no expenditure shall be incurred in relation to the candidature of any person at any election, in excess of £2,000.
 
 House of Assembly
 
