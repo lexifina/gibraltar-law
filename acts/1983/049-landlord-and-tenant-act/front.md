@@ -12,7 +12,9 @@ Act. No. 1983-49 Commencement date of the Act other than the provisions listed b
 
 Part IV, ss.75 and 76, Sch. 3, para 5 of Sch. 4 and Sch. 5
 
-1.1.19861 Assent 19.12.1983
+1.1.19861
+
+Assent 19.12.1983
 
 Amending enactments Relevant current provisions Commencement date
 
@@ -26,7 +28,7 @@ Acts. 1985-11 ss. 16, 22(1) and (4), 23(6)(a), 26(4)(b), 29(3), 30(1), 80A, 81(b
 
 “ ss.10(1)(a), (b) and (c), (2) and (7), 11A, 22 and 80A(1)
 
-1.7.19923
+1.7.19923 2004-09 ss. 10(1)(a) and 15(1) 6.4.2004
 
 1 Notice of Commencement LN. 1985/124 2 Notice of Commencement LN. 1992/047 3 Notice of Commencement LN. 1992/081
 
