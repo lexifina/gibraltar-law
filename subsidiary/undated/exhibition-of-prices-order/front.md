@@ -1,0 +1,11 @@
+Price Control EXHIBITION OF PRICES ORDER
+
+1966-32
+
+Subsidiary 1969.09.25 Order made under s. 11
+
+EXHIBITION OF PRICES ORDER
+
+(1969.09.25)
+
+26.9.1969
