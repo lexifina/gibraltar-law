@@ -12,7 +12,7 @@ The Chief Fire Officer;
 
 The Collector of Customs;
 
-The Commissioner of Police;
+The Commissioner of Police or any person nominated by him;
 
 Persons appointed under section 87 of the Traffic Act.
 

@@ -12,9 +12,11 @@ Enactment 30.5.1990
 
 Assent 14.6.1990
 
-________________________________
+Amending enactment Relevant current provisions Commencement date L.N. 1991/023 Sch. 1 31.1.1991
 
-ARRANGEMENT OF SECTIONS.
+Litter Control
+
+1990-31 ARRANGEMENT OF SECTIONS.
 
 Section
 
