@@ -1,21 +1,17 @@
-Coroner CORONER RULES
+Subsidiary Legislation made under s.25.
 
-Subsidiary 1980/027 1889-11 Rules made under s.25.
+Coroner Rules
 
-CORONER RULES
+LN.1980/027
 
-(LN. 1980/027)
+Commencement 1.6.1980
 
-1.6.1980
+Amending enactments Relevant current provisions Commencement date LN. 1988/092 r. 4, Sch. 2 5-9-1988
 
-___________________________
-
-ARRANGEMENTS OF RULES
+ARRANGEMENT OF RULES
 
 Rule
 
 1. Title. 2. Application of S.I. 1953 No. 205. 3. Form of oath. 4. Fees for copies. 5. Omitted.
 
 SCHEDULE 1 Form of Oath.
-
-SCHEDULE 2 Fees for Copies.
