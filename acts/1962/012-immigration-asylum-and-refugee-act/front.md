@@ -10,7 +10,9 @@ Act. No. 1962-12 Commencement 1.6.1962 Assent 31.5.1962
 
 Amending enactments Relevant current provisions Commencement date Act. 1963-20 s. 31 1967-11 s. 11 Regs.of  28.5.1970 s. 14(1) Act. 1972-19 ss. 3, 39-52, 66, Schs.1, 2 1976-02 – 1976-17 ss. 2(1), 15-16, 24-27, 29, 32-33 1982-12 s. 59(2)-(4) 1983-07 ss. 2(2)-(3), 13 1983-12 ss. 14(1), 18(3), 35, 38(2) 1983-42 ss. 12(2), 20(3) 1985-02 ss. 2(1), 17(1), 41, 43, 49-50, 45(4), 46(4)-(5), 44(1)(a), 50A, Sch.1
 
-5.2.1985 1985-21 ss. 2, 39(1), 39B, 46(6)-(7), Sch.1 1.1.1986 1986-04 s. 12(2) 27.3.1986 1990-28 s. 19 14.6.1990
+5.2.1985 1985-21 ss. 2, 39(1), 39B, 46(6)-(7), Sch.1 1.1.1986 1986-04 s. 12(2) 27.3.1986 1990-28 s. 19 14.6.1990 1993-09 ss. 10-11, 17, marginal notes of 21 to 25, 26, 56-57, 59, 61-67, 24
+
+8.3.1993
 
 Immigration Control
 
@@ -38,15 +40,17 @@ Entitlement to permits of residence.
 
 15. Right of residence of men married to Gibraltarian women. 16. Right of residence of children of Gibraltarian women.
 
-Issue of entry permits and permits of residence.
+Issue of  frontier worker certificates  and permits of residence.
 
-17. Issue of entry permits. 18. Issue of permits of residence. 19. Governor’s power to order issue of permits. 20. Cancellation of permits. 21. Appeal from refusal or cancellation of permit. 22. Renewal of permits. 23. No appeal to court.
+17. Issue of frontier worker certificates. 18. Issue of permits of residence. 19. Governor’s power to order issue of permits. 20. Cancellation of permits. 21. Appeal from refusal or cancellation of permit. 22. Renewal of permits. 23. No appeal to court. 24. Omitted
 
 Entitlement to certificates of permanent residence.
 
 Immigration Control
 
-1962-12 24. Rights of men married to Gibraltarian women. 25. Rights of children of Gibraltarian women.
+1962-12
+
+25. Rights of children of Gibraltarian women.
 
 Discretionary grants of certificates of permanent residence.
 
