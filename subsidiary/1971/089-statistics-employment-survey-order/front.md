@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 1977/041 Para. 3
 
-1985/040 Sch. 2 1.4.1985
+1985/040 Sch. 2 1.4.1985 1993/013 Para. 2, 3 and Sch. 2 4.2.1993
 
 Statistics STATISTICS (EMPLOYMENT SURVEY) ORDER
 
