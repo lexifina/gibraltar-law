@@ -12,7 +12,7 @@ Act.  1992-08 ss. 5(1)(d)(e)(f), (4), 10(1) (d)(e)(f),(2),3(a) and (6)
 
 9.7.1992 LN.  1995/118 ss. 2(1)(3A), 2A, 3(1)(d)(c), 5(1)(e)(ee), 17A to Z, 17AA, 17BB, 17CC, 17DD, 18(1) and Schs 4 to 7
 
-1.9.1995
+1.9.1995 Act.  1997-15 Sch 5 10.4.1997
 
 Transposing: Directive 92/43/EEC
 
@@ -55,6 +55,10 @@ SCHEDULE 5 – EUROPEAN PROTECTED SPECIES OF ANIMALS.
 SCHEDULE 6 – ANIMALS WHICH MAY NOT BE TAKEN OR KILLED IN CERTAIN WAYS.
 
 SCHEDULE 7 – EUROPEAN PROTECTED SPECIES OF PLANTS
+
+Nature Protection
+
+1991-11
 
 Nature Protection
 
