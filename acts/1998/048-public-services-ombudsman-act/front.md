@@ -12,7 +12,7 @@ Assent 10.12.1998
 
 Amending enactments Relevant current provisions Commencement date
 
-Act 1999-36 Sch. Para 2.7 4.1.2000
+Act 1999-36 Sch. Para 2.7 4.1.2000 LN. 2000/078 Sch. Para 1.1 5.10.2000
 
 English sources
 
