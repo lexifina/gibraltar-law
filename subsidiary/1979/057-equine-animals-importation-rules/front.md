@@ -8,7 +8,7 @@ EQUINE ANIMALS (IMPORTATION) RULES
 
 2.8.1979
 
-Amending enactments Relevant current provisions Commencement Date LN. 1987/153 r. 6 26.11.1987
+Amending enactments Relevant current provisions Commencement Date LN. 1987/153 r. 6 26.11.1987 1988/003 rr. 2, 3, 4, 5 1.2.1988
 
 Animals and Birds EQUINE ANIMALS (IMPORTATION) RULES
 
