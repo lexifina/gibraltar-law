@@ -1,5 +1,5 @@
 SCHEDULE
 
-Paragraph 4
+Para. (i)
 
-Grade Remuneration Labourer £146.25 Warehouse Hand/Delivery Hand £154.83 Storeman £174.33 Driver (B Class Licence) £174.33 Driver (C Class Licence) £179.40
+GRADE REMUNERATION Labourer £156.39 Warehouse Hand/Delivery Hand £164.97 Storeman £185.64 Driver (B Class Licence) £185.64 Driver (C Class Licence) £191.49
