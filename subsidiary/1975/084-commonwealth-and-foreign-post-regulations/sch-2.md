@@ -1,78 +1,102 @@
-SCHEDULE 2.
+SCHEDULE 2. Regulation 5.
 
-Regulation 5.
+AIRMAIL RATES OF POSTAGE ON POSTAL PACKETS POSTED IN GIBRALTAR.
 
-AIRMAIL RATES OF POSTAGE, ON POSTAL PACKETS POSTED IN GIBRALTAR.
+PART I.
 
-PART 1.
+EUROPE.
 
-EUROPE
+Destination Description Rate of postage Albania ) Andorra ) Austria ) Azores ) Balearic Is ) Belgium )
 
-Country
+Bulgaria )
 
-Description
+Canary Is )
 
-Rate of postage Albania Andorra Austria Belgium Bulgaria Cyprus
+Cape Verde Is )
 
-(a) Letters including Czechoslovakia
+Corsica )
 
-letter packets: - Denmark (Including Faroe Islands) (i) For the first 20
+Cyprus )
 
-grammes or part Finland
+Czechoslovakia )
 
-thereof
+Denmark ) Faroe Is ) Finland ) France ) (a) Letters including
 
-20p France
+German Dem Rep )       letter packets:- Germany (Fed Rep of) ) (i) For the first 20
 
-(ii) For every 10 grammes Germany (Democratic or part thereof Republic)
+Greece )      grammes or part
 
-after the first 20 Germany (Federal grammes
+Greenland )      thereof 22p Hungary ) (ii) For every 10
 
-10p Republic)
+Iceland )       grammes or part
 
-(b) Postcards conforming Greece
+Ireland (Republic of) )       thereof after the
 
-in all respects to Greenland
+Italy )       first 20 grammes 10p Liechtenstein ) (b) Postcards
 
-the regulations relating Hungary
-
-thereto
-
-20p Iceland
-
-(c) Air Letters confor ming Ireland (Republic of) in all respects Italy
-
-to the regulations
-
-relating thereto
-
-18p Luxembourg Malta Netherlands Norway Poland Portugal (Including Azores and Madeira) Roumania Spain (including the
+Luxembourg )       conforming in all
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 1961-10
 
-Subsidiary 1975/084 Canary Islands and Balearic Islands) Sweden Switzerland Turkey United Kingdom USSR Vatican City State Yugoslavia
+Subsidiary 1975/084 Madeira )       respects to the Malta )       regulations Monaco )       relating thereto 22p Destination Description Rate of postage Netherlands ) (c) Air Letters
+
+Norway )      conforming in all
+
+Poland )      respects to the
+
+Portugal )      regulations
+
+Romania )      relating thereto 20p San Marino )
+
+Spain ) Sweden ) Switzerland ) Turkey ) United Kingdom ) Union of Soviet )
+
+Socialist Republics )
+
+Vatican City State )
+
+Yugoslavia )
 
 PART II.
 
 COUNTRIES OUTSIDE EUROPE.
 
-(a) Postal Packets -
+(a) Postal Packets-
 
-First 10 Each Additional Air Letters grammes 10 grammes Group 1 19p 11p 18p Group 2 21p 13p 18p Group 3 23p 15p 20p Group 4 25p 21p 20p Group 5 26p 22P 22p Group 6 29p 23p 22p
+First 10 grammes or part thereof Each Additional 10 grammes or part thereof Air Letters Zone 1 22p 11p 22p Zone 2 23p 13p 22p Zone 3 25p 15p 22p Zone 4 29p 21p 22p
 
-(b) For the purposes of Part II, countries are grouped as follows: -
+(b) For the purposes of Part II, countries are zoned as follows:-
 
-Country Group Country Group Abu Dhabi 2 Ethiopia 2 Afghanistan 2 Falkland Islands & Dependencies 3 Ajman 2 Fiji 5 Algeria 1 French Guiana 2 Angola (People's Republic of) 2 French Polynesia 5 Antigua 4 French West Indies 5 Argentina 3 Fujairah 2 Ascension 3 Gabon (Republic of) 2 Australia 5 Gambia (Republic of The) 1 Bahamas 4 Gaza & Khan Yunis 2 Bahrein (State of) 2 Ghana 2 Bangladesh 2 Grenada 5 Barbados 5 Guatemala 4 Belize 4 Guinea (Republic of) 5 Benin (State of) 2 Guinea Bissau 5 Bermuda 4 Guyana 5 Bhutan 4 Haiti 4 Bolivia 3 Honduras Republic 5 Botswana 2 Hong Kong 3 Brazil 6 India 3 British Indian Ocean Territory 4 Indonesia 3 British Virgin Islands 2 Iran 1
+Country Zone Country Zone Country Zone Abu Dhabi 2 Christmas Island 4 Iran 1 Afghanistan 2 (Indian Ocean)
+
+Iraq 1 Ajman 2 Cocos (Keeling) Is 4 Israel 1 Algeria 1 Colombia 3 Ivory Coast (Rep of) 2
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 1961-10
 
-Subsidiary 1975/084 Brunei 3 Iraq 1 Burma 3 Israel 1 Burundi 4 Ivory Coast (Republic of) 2 Cambodia 3 J Jamaica 4 Cameroon (United Republic of) 2 Japan 5 Canada 2 Jordan 1 Caroline Islands 5 Kenya 2 Cayman Islands 4 Kiribati (Republic of) 5 Central African Republic 2 Korea 5 Chad (Republic of) 2 Kuwait 2 Chile 6 Lao People's Democratic Republic 3 China (People's Republic of) 3 Lebanon 1 Christmas Island 3 Lesotho 2 Cocos (Keeling) Island 3 Liberia (Republic of) 2 Colombia 5 Libyan Socialist People's Arab - Jamahiriya 1 Comoros (Republic of) 3 Macao 3 3 Congo (People's Republic of The) 2 Madagascar (Democratic Republic) 3 Costa Rica 4 Malawi 2 2 Cuba 4 Malaysia (Including Malaya, Sabah & Sarawak) 3 Djibouti 4 Maldives (Republic of) 3 Dominica 4 Mali 2 Dominican Republic 4 Mariana Islands 5 Dubai 2 Marshall Islands 5 East Timor 5 Mauritania 2 Ecuador 5 Mauritius 3 Egypt (Arab Republic of) 1 Mexico 4 El Salvador 4 Mongolia (People's Republic of) 3 Equatorial Guinea (Republic of) 2 Montserrat 4
+Subsidiary 1975/084 Angola (People’s Rep. Of) 2 Congo (People’s Rep of The) 2 Jamaica 3 Antigua 3 Costa Rica 3 Japan 3 Argentina 3 Cuba 3 Jordan 1 Ascension 2 Djbouti 2 Kenya 1 Country Zone Country Zone Country Zone Australia 4 Dominica 3 Kiribati (Rep of) 2 Bahamas 2 Dominican Rep 3 Korea 3 Bahrain (State of) 2 Dubai 2 Kuwait 1 Bangladesh 2 Ecuador 3 Lao People’s Dem Rep 3 Barbados 2 Egypt (Arab Rep of) 1 Lebanon 1 Belize 2 El Salvador 3 Lesotho 3 Benin (State of) 2 Equatorial Guinea 4 Liberia (Rep of) 2 Bermuda 3 Ethiopia 2 Libyan Soc People’s Arab - Jamahiriya 1 Bhutan 4 Falkland Islands & Dependencies 3 Macao 3 Bolivia 3 Fiji 4 Madagascar (Dem Rep) 3 Botswana 3 French Guiana 3 Malawi 3 Brazil 4 French Polynesia 4 Malaysia (Inc Malaya Sabah & Sarawak) 3 British Indian Ocean Territory 4 French W Indies 4 Maldives (Rep of) 3 British Virgin Is. 3 Gabon (Rep of) 2 Mali 2 Brunei 3 Gambia (Rep of The) 2 Mariana Islands 4 Burundi 4 Ghana 2 Marshall Islands 4 Cambodia 3 Grenada 3 Mauritania 2 Cameroon (United Rep of) 2 Guatemala 3 Mauritius 3 Canada 2 Guinea (Rep of) 4 Mexico 3 Caroline Islands 4 Guinea Bissau 4 Mongolia (People’s Rep of) 2 Cayman Islands 3 Guyana 3 Montserrat 3 Central African Rep 2 Haiti 3 Morocco 1 Chad (Rep of) 2 Honduras Rep 3 Mozambique 3 Chile 3 Hong Kong 3
 
-Country Group Country Group
+China (People’s Rep of) 3 India 3
+
+Indonesia 3
+
+Nauru Island 4 St Lucia 3 Tibet 3 Nepal 3 St Pierre & Miquelon 2 Togo (Rep of) 2 Netherlands Antilles 3 St Vincent 3 Tonga 4 New Caledonia 4 Samoa USA Territory 4 Trinidad & Tobago 3 New Hebrides 4 Sao Tome & Principe (Dem Rep of) 2 Tunisia 1 New Zealand 4 Saudi Arabia 2 Turks & Caicos Is 3 New Zealand Is Territories 4 Senegal (Rep of) 2 Tuvalu 4 Nicaragua 3 Seychelles 2 Uganda 2 Country Zone Country Zone Country Zone Nigeria (Fed Rep of) 2 Sierra Leone 2 United Arab Emirates 2 Niger Rep 2 Singapore (Rep of) 3 United States of America 2 Norfolk Island 4 Solomon 4 Uruguay 4
+
+Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
+
+1961-10
+
+Subsidiary 1975/084 Islands Oman (Sultanate of) 2 Somali Dem Rep 2 Venezuela 3 Pakistan 2 South Africa 3 Vietnam 3 Panama (Rep of) 3 Spanish Territories of North Africa (Ceuta Chafarinas Jadu & Melilla) 1 Virgin Is of USA 3 Papua New Guinea 4 Sri Lanka 3 Wake Island 4 Paraguay 4 Sudan Dem Rep 2 Western Samoa 4 Peru 3 Surinam 3 Yemen (Arab Rep) 2 Philippines 3 Swaziland 3 Yemen (People’s Dem Rep of) 2 Pitcairn Island 4 Sri Lanka 3 Zaire (Rep of) 2 Puerto Rico 2 Sudan Dem Rep 2 Zambia 2 Qatar (State of) 2 Surinam 3 Zimbabwe 2 Reunion 3 Swaziland 3
+
+Rwanda 2 Syrian Arab Rep 1
+
+St Helena 2 Taiwan 3
+
+St Kitts-Nevis- Anguilla 4 Tanzania 2
+
+Thailand 3
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
