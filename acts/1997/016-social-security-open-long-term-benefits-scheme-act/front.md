@@ -12,7 +12,7 @@ Assent 10.4.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999
+LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999 2001-04 ss. 2, 8, 39 14.3.2001
 
 English sources None cited
 
@@ -30,7 +30,7 @@ PART II
 
 INSURED PERSONS AND CONTRIBUTIONS
 
-3. Description of insured persons. 4. Source of funds. 5. Number and class of contributions for any week. 6. Crediting of contributions. 7. Contributions of employed persons and employers. 8. General provisions as to payment and collection of contributions, etc. 9. Persons to be treated as employers.
+3. Description of insured persons. 4. Source of funds. 5. Number and class of contributions for any week. 6. Crediting of contributions. 7. Contributions of employed persons and employers. 8. Method of payment of contributions. 9. Persons to be treated as employers.
 
 PART III
 
