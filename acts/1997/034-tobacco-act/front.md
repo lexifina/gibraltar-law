@@ -10,9 +10,13 @@ Act. No. 1997-34 Commencement 13.11.1997
 
 Assent 30.10.1997
 
-___________________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF SECTIONS
+1998-38 ss 22(1)(a)(b), 9 (1)(3)(5), 13(3) 13.8.1998
+
+Tobacco
+
+1997-34 ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -32,11 +36,13 @@ PART IV STORAGE AND TRANSPORTATION OF TOBACCO
 
 12. Storage of tobacco. 13. Transportation of tobacco. 14. Possession of tobacco.
 
+PART V PENALTIES AND ENFORCEMENT
+
+15. Penalties. 16. Forfeiture. 17. Provisions as to detention and seizure of goods. 18. Protection of officers in relation to the seizure and detention of goods. 19. Evidence. 20. Exceptions. 21. Restriction on the institution of proceedings. 22. Returns.
+
 Tobacco
 
-1997-34 PART V PENALTIES AND ENFORCEMENT
-
-15. Penalties. 16. Forfeiture. 17. Provisions as to detention and seizure of goods. 18. Protection of officers in relation to the seizure and detention of goods. 19. Evidence. 20. Exceptions. 21. Restriction on the institution of proceedings. 22. Returns. 23. Keeping and inspection of records. 24. Power to make regulations.
+1997-34 23. Keeping and inspection of records. 24. Power to make regulations.
 
 PART VI REPEALS AND TRANSITIONAL PROVISIONS
 
