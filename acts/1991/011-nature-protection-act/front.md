@@ -12,7 +12,7 @@ Act.  1992-08 ss. 5(1)(d)(e)(f), (4), 10(1) (d)(e)(f),(2),3(a) and (6)
 
 9.7.1992 LN.  1995/118 ss. 2(1)(3A), 2A, 3(1)(d)(c), 5(1)(e)(ee), 17A to Z, 17AA, 17BB, 17CC, 17DD, 18(1) and Schs 4 to 7
 
-1.9.1995 Act.  1997-15 Sch 5 10.4.1997
+1.9.1995 Act.  1997-15 Sch 5 10.4.1997 2001-23 s. 24A 12.7.2001
 
 Transposing: Directive 92/43/EEC
 
@@ -40,7 +40,7 @@ Nature Protection
 
 PART III. NATURE CONSERVATION.
 
-18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Nature Conservancy Council. 21. Wildlife Warden. 22. Offences by bodies corporate etc. 23. Amendment to Schedules. 24. Regulations. 25. Amendment to Animals and Birds Act.
+18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Nature Conservancy Council. 21. Wildlife Warden. 22. Offences by bodies corporate etc. 23. Amendment to Schedules. 24. Regulations. 24A. Admission to and fees for entry into a nature conservation area. 25. Amendment to Animals and Birds Act.
 
 SCHEDULE 1 – SPECIFIED WILD ANIMALS.
 
@@ -54,11 +54,9 @@ SCHEDULE 5 – EUROPEAN PROTECTED SPECIES OF ANIMALS.
 
 SCHEDULE 6 – ANIMALS WHICH MAY NOT BE TAKEN OR KILLED IN CERTAIN WAYS.
 
-SCHEDULE 7 – EUROPEAN PROTECTED SPECIES OF PLANTS
-
 Nature Protection
 
-1991-11
+1991-11 SCHEDULE 7 – EUROPEAN PROTECTED SPECIES OF PLANTS
 
 Nature Protection
 
