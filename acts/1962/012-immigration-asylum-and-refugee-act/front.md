@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 8.3.1993 “ ss. 2, 39, 44, 1.7.1993 2000-08 ss. 2(1), 3, 14(1A), 23(1), 39-50K, 65, Schs.1, 2
 
-27.7.2000
+27.7.2000 2000-16 s. 18(1), (3) 12.10.2000
 
 Immigration Control
 
