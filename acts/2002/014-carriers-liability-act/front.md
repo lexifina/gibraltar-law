@@ -1,20 +1,16 @@
-Carriers’ Liability
-
-2002-14
-
-CARRIERS’ LIABILITY ACT, 2002
+Carriers’ Liability Act 2002
 
 Principal Act
 
-Act. No. 2002-14 Commencement 19.12.2002
+Act. No. 2002-14 Commencement 19.12.2002 Assent 16.12.2002
 
-Assent 16.12.2002
-
-______________________
+Amending enactments Relevant current provisions Commencement date Act. 2003-12 ss. 3(1), (5), (7)-(8), 5(7), 14(2), (2A), (4A). 31.7.2003
 
 ARRANGEMENT OF SECTIONS
 
-sections. PART I INTRODUCTION
+Section
+
+PART I INTRODUCTION
 
 1 Title 2 Interpretation
 
@@ -32,11 +28,7 @@ PART IV POWER TO DETAIN AND SELL RELEVANT TRANSPORTERS
 
 PART V POWER TO MAKE SUBSIDIARY LEGISLATION
 
-12 Regulation of court procedure
-
-Carriers’ Liability
-
-2002-14 13 Functions vested in the Governement
+12 Regulation of court procedure 13 Functions vested in the Governement
 
 PART VI FURTHER PROVISIONS
 
@@ -44,6 +36,4 @@ PART VI FURTHER PROVISIONS
 
 SCHEDULE Basis for granting mitigation to penalties
 
-Carriers’ Liability
-
-2002-14 AN ACT TO SUPPLEMENT THE LAW OF GIBRALTAR RELATING TO THE CLANDESTINE ENTRY OF PERSONS INTO GIBRALTAR, AND MATTERS CONNECTED THERETO.
+AN ACT TO SUPPLEMENT THE LAW OF GIBRALTAR RELATING TO THE CLANDESTINE ENTRY OF PERSONS INTO GIBRALTAR, AND MATTERS CONNECTED THERETO.
