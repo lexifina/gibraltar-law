@@ -8,11 +8,11 @@ EDUCATION (NATIONAL CURRICULUM) REGULATIONS, 1991
 
 1.9.1991
 
-Amending enactments Relevant current provisions Commencement date LNs. 1991/208 Corrigendum
+Amending enactments Relevant current provisions Commencement date LNs. 1991/208 Corrigendum 1994/032 r. 2 24.3.1994
 
-_________________________________
+Education and Training EDUCATION (NATIONAL CURRICULUM) REGULATIONS, 1991.
 
-ARRANGEMENT OF REGULATIONS.
+Subsidiary 1991/201 1974-11 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
