@@ -68,7 +68,7 @@ LN. 1981/106 s. 20, Sch.2
 
 Social Security (Insurance)
 
-1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988 Act. 1988-10 s. 29(2) 23.6.1988 1988-23 ss. 2(1), 29(1), 52(1)-(3) 24.11.1988 LN. 1988/150 Sch.1 2.1.1989
+1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988 Act. 1988-10 s. 29(2) 23.6.1988 1988-23 ss. 2(1), 29(1), 52(1)-(3) 24.11.1988 LN. 1988/150 Sch.1 2.1.1989 1990/187 Sch.1 27.12.1990
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -1248,13 +1248,13 @@ Males and females who have attained the age of 18 years.
 
 Males and females who have attained the age of 15 years but are under 18 years.
 
-By the insured person By the employer £ £6.62
+By the insured person By the employer £ £6.44
 
-£5.06
+£4.86
 
-£ £6.94
+£ £6.44
 
-£5.39
+£4.87
 
 Where the person employed is over pensionable age, only the employer's share of the contribution is payable.
 
