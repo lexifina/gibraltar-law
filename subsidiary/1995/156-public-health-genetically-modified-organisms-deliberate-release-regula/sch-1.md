@@ -34,12 +34,6 @@ PART II INFORMATION RELATING TO THE PARENTAL OR RECIPIENT PLANT
 
 (iii) generation time; and
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156
-
 (b) the sexual compatibility of the plant with other cultivated or wild plant species.
 
 5. Information concerning the survivability of the plant 
@@ -72,11 +66,7 @@ PART IV INFORMATION RELATING TO THE GENETICALLY MODIFIED PLANT
 
 13. A description of the trait or traits and characteristics of the genetically modified plant which have been introduced or modified.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156 14. The following information on the sequences actually inserted or deleted 
+14. The following information on the sequences actually inserted or deleted 
 
 (a) the size and structure of the insert and methods used for its characterisation, including information on any parts of the vector introduced into the genetically modified plant or an carrier or foreign DNA remaining in the genetically modified plant,
 
@@ -106,11 +96,7 @@ Subsidiary 1995/156 14. The following information on the sequences actually inse
 
 19. Information on any toxic or harmful effects on human health and the environment arising from the genetic modification.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156 20. The mechanism of interaction between the genetically modified plants and target organisms.
+20. The mechanism of interaction between the genetically modified plants and target organisms.
 
 21. Any potentially significant interactions with non-target organisms.
 
@@ -140,13 +126,9 @@ PART VI INFORMATION RELATING TO THE RELEASE (Applications for consent to release
 
 32. The approximate number of genetically modified plants (or plants per m2) to be released.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
+PART VII
 
-1950-07
-
-Subsidiary 1995/156
-
-PART VII INFORMATION ON CONTROL, MONITORING, POST-RELEASE PLANS AND WASTE TREATMENT PLANS (Applications for consent to release only)
+INFORMATION ON CONTROL, MONITORING, POST-RELEASE PLANS AND WASTE TREATMENT PLANS (Applications for consent to release only)
 
 33. A description of any precautions to–
 
@@ -171,9 +153,3 @@ PART VIII INFORMATION ON THE POTENTIAL ENVIRONMENTAL IMPACT OF THE RELEASE OF TH
 40. The potential environmental impact of the interaction between the genetically modified plant and target organisms.
 
 41. Any possible environmental impact resulting from potential interactions with non-target organisms.
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156

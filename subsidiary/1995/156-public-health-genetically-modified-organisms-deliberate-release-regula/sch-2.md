@@ -28,11 +28,7 @@ Characteristics of the donor, parental and recipient organisms
 
 10. The potential of the organisms for genetic transfer and exchange with other organisms.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156 11. Verification of the genetic stability of the organisms and factors affecting that stability
+11. Verification of the genetic stability of the organisms and factors affecting that stability
 
 12. The following pathological, ecological and physiological traits–
 
@@ -59,12 +55,6 @@ Characteristics of the vector.
 16. The sequence of transposons, vectors and other non-coding genetic segments used to construct the genetically modified organisms and to make the introduced vector and insert function in those organisms.
 
 17. The frequency of mobilisation, genetic transfer capabilities and/or methods of determination of the inserted vector.
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156
 
 18. The degree to which the vector is limited to the DNA required to perform the intended function.
 
@@ -96,11 +86,7 @@ Characteristics of the genetically modified organisms.
 
 28. The activity of the gene product.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156 29. The description of identification and detection techniques, including techniques for the identification and detection of the inserted sequence and vector.
+29. The description of identification and detection techniques, including techniques for the identification and detection of the inserted sequence and vector.
 
 30. The sensitivity, reliability (in quantitative terms) and specificity of detection and identification techniques.
 
@@ -138,12 +124,6 @@ Subsidiary 1995/156 29. The description of identification and detection techniqu
 
 (x) availability of appropriate therapies.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156
-
 PART III CONDITIONS OF RELEASE
 
 The release.
@@ -180,12 +160,6 @@ The environment (both on the site and in the wider environment).
 
 47. The size of local human population.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156
-
 48. The local economic activities which are based on the natural resources of the area.
 
 49. The distance to the nearest drinking water supply zone areas and/or areas protected for environmental purposes.
@@ -218,12 +192,6 @@ Interactions with the environment.
 
 60. The studies of the behaviour and characteristics of the organisms and their ecological impact carried out in simulated natural environments, such as microcosms, growth rooms and greenhouses.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156
-
 61. The capability of post-release transfer of genetic material–
 
 (a) from the genetically modified organisms into organisms in affected ecosystems,
@@ -252,11 +220,7 @@ Potential environmental impact.
 
 71. The likelihood of post-release shifts in biological interactions or in the host range.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156 72. The known or predicted effects on non-target organisms in the environment and the impact on population levels of competitors, prey, hosts, symbionts, predators, parasites and pathogens.
+72. The known or predicted effects on non-target organisms in the environment and the impact on population levels of competitors, prey, hosts, symbionts, predators, parasites and pathogens.
 
 73. The known or predicted involvement in biogeochemical processes.
 
@@ -290,13 +254,9 @@ Waste treatment.
 
 84. Possible risks.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
+85. Description of treatment envisaged.
 
-1950-07
-
-Subsidiary 1995/156 85. Description of treatment envisaged.
-
-Emergency  response  plans.
+Emergency response plans.
 
 86. Methods and procedures for controlling the organisms in case of unexpected spread.
 
@@ -307,9 +267,3 @@ Emergency  response  plans.
 89. Methods for the isolation of the areas affected by the spread.
 
 90. Plans for protecting human health and the environment in case of the occurrence of an undesirable effect.
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156

@@ -1,24 +1,14 @@
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
+Subsidiary Legislation made under s.180X.
 
-1950-07
+Public Health (Genetically Modified Organisms) (Deliberate Release) Regulations 1995
 
-Subsidiary 1995/156 Regulations made under s.180X.
+LN.1995/156
 
-PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
+Commencement 8.1.1995
 
-(LN. 1995/156)
+Amending enactments Relevant current provisions Commencement date LN. 1997/124 rr. 2, 6(1)(a)(ii), 10(1)(a), (2)-(4) 30.10.1997 1998/004 Sch. 3 15.1.1998
 
-8.1.1995
-
-Amending enactments Relevant current provisions Commencement date LN. 1997/124 rr. 2, 6(1)(a)(ii), 10(1)(a), (2), (3), (4).
-
-30.10.1997
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -38,20 +28,8 @@ PART III MARKETING ORGANISMS
 
 PART IV DUTIES AFTER THE MAKING OF APPLICATIONS
 
-12.  Duties of the competent authority on receiving applications for consent to release. 13.  Decisions by the competent authority on applications for consent to release. 14. Duties of the competent authority in relation to applications for consent to market.
+12.  Duties of the competent authority on receiving applications for consent to release. 13.  Decisions by the competent authority on applications for consent to release. 14. Duties of the competent authority in relation to applications for  consent to market.
 
 SCHEDULE 1 Applications for consent to release or market genetically modified higher plants part V
 
-SCHEDULE 2
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
-
-Subsidiary 1995/156 Applications for consent to release or market organisms other than genetically modified higher plants
-
-SCHEDULE 3 Consent to Market
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED ORGANISMS) (DELIBERATE RELEASE) REGULATIONS, 1995
-
-1950-07
+SCHEDULE 2 Applications for consent to release or market organisms other than genetically modified higher plants
