@@ -10,7 +10,7 @@ MOTOR VEHICLES TEST REGULATIONS
 
 1.4.1987
 
-Amending enactments Relevant current Provisions Commencem ent date LN.   1988/026 r.37 18.2.1988 1990/010 Sch.5 18.1.1990
+Amending enactments Relevant current Provisions Commencem ent date LN.   1988/026 r.37 18.2.1988 1990/010 Sch.5 18.1.1990 1996/046 rr.7 and 37 28.3.1996
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
@@ -164,19 +164,23 @@ Subsidiary 1987/067 6. The owner of a motor vehicle or trailer to which these re
 
 Applications for subsequent examinations.
 
-7. The owner of a motor vehicle or trailer shall apply for the annual examination of that vehicle within 30 days of the anniversary of the issue of the first test certificate or the latest test certificate, as the case may be, relating to it, and may apply at any time not more than 60 days before that date.
+7. The owner of a motor vehicle or trailer shall –
 
-Form of application.
+(a) subject to paragraph (b) apply for the annual examination of that vehicle within 30 days of the anniversary of the issue of the first test certificate or the latest test certificate, as the case may be, relating to  it, and may apply it any time not more than 60 days before that date;
 
-8. An application for the examination of a motor vehicle or trailer shall be in writing, in the form numbered MVT/2 in Schedule 4, and shall be sent with the prescribed fee, addressed to the Chief Examiner at the Centre.
-
-Notice of appointment.
+(b) in the case of an omnibus in respect of which more than 12 years have elapsed since the date of its manufacture and the sitting capacity of which is less than 44 seats, the owner shall apply for a six-monthly examination of that vehicle within 30 days at the expiration of the latest test certificate.
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 9.(1) On receipt of an application under regulation 6 or 7, the Chief Examiner shall issue to the applicant a notice of appointment in the form numbered MVT/3 in Schedule 4, stating the date and time reserved for the examination.
+Subsidiary 1987/067 Form of application.
+
+8. An application for the examination of a motor vehicle or trailer shall be in writing, in the form numbered MVT/2 in Schedule 4, and shall be sent with the prescribed fee, addressed to the Chief Examiner at the Centre.
+
+Notice of appointment.
+
+9.(1) On receipt of an application under regulation 6 or 7, the Chief Examiner shall issue to the applicant a notice of appointment in the form numbered MVT/3 in Schedule 4, stating the date and time reserved for the examination.
 
 (2) The Chief Examiner may, in a notice of appointment for the examination of-
 
@@ -202,15 +206,15 @@ Other conditions.
 
 11. A vehicle shall not be submitted for examination-
 
-(a) unless, being a motor vehicle, it is provided with sufficient fuel and oil to enable it to be driven sufficiently for the purpose of the examination;
-
-(b) unless, being a motor vehicle, there is permanently affixed to the chassis or main structure of the vehicle, in a conspicuous and easily accessible position so as to be readily legible, the chassis or serial number shown in the certificate of registration;
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 (c)  if it so dirty or dangerous as to make it unreasonable for an examiner to be required to examine it.
+Subsidiary 1987/067 (a) unless, being a motor vehicle, it is provided with sufficient fuel and oil to enable it to be driven sufficiently for the purpose of the examination;
+
+(b) unless, being a motor vehicle, there is permanently affixed to the chassis or main structure of the vehicle, in a conspicuous and easily accessible position so as to be readily legible, the chassis or serial number shown in the certificate of registration;
+
+(c)  if it so dirty or dangerous as to make it unreasonable for an examiner to be required to examine it.
 
 Right to refuse examination.
 
@@ -236,17 +240,15 @@ Objects and manner or examination.
 
 (d) Vehicles (Construction, Equipment and Maintenance) Regulations.
 
-(2) The manner in which examinations are to be carried out and the apparatus to be used shall comply with the requirements of Schedule 3.
-
-Duty of owner.
-
-14. The owner of a motor vehicle or trailer which is being examined or his representative, shall be present throughout the examination and shall, when required by the examiner, drive the vehicle or operate the controls while the vehicle is stationary, in accordance with the directions of the examiner.
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067
+Subsidiary 1987/067 (2) The manner in which examinations are to be carried out and the apparatus to be used shall comply with the requirements of Schedule 3.
+
+Duty of owner.
+
+14. The owner of a motor vehicle or trailer which is being examined or his representative, shall be present throughout the examination and shall, when required by the examiner, drive the vehicle or operate the controls while the vehicle is stationary, in accordance with the directions of the examiner.
 
 Liability for loss or damage.
 
@@ -264,17 +266,17 @@ Issue of notice of refusal.
 
 Procedure when braking test unsafe.
 
-18.(1) Where in the course of an examination it is found that there are such defects in the construction or condition of the vehicle or its equipment or accessories that to carry out a braking test in the prescribed manner would be likely to cause danger to any person or damage to the vehicle or to other property, the examiner shall not carry out the braking test but shall complete the rest of the examination in accordance with these regulations.
-
-(2) Where an examiner proceeds in accordance with sub-regulation (1), he shall issue to the owner of the vehicle a notice of refusal of a test certificate stating-
-
-(a) that he could not safely carry out the braking test and the reason; and
+18.(1) Where in the course of an examination it is found that there are such defects in the construction or condition of the vehicle or its equipment or accessories that to carry out a braking test in the prescribed manner would
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067
+Subsidiary 1987/067 be likely to cause danger to any person or damage to the vehicle or to other property, the examiner shall not carry out the braking test but shall complete the rest of the examination in accordance with these regulations.
+
+(2) Where an examiner proceeds in accordance with sub-regulation (1), he shall issue to the owner of the vehicle a notice of refusal of a test certificate stating-
+
+(a) that he could not safely carry out the braking test and the reason; and
 
 (b) any other reasons for refusal.
 
@@ -298,17 +300,15 @@ Conduct of re-examination and issue of certificates and notices.
 
 21.(1) On the re-examination of a vehicle, it shall be the duty of the examiner to determine whether the defects recorded in the notice of refusal have been rectified, so that the vehicle complies with the prescribed requirements.
 
-(2)  Notwithstanding anything in sub-regulation (1), the examiner may, on a re-examination, determine whether the vehicle complies with all or any of the other prescribed requirements.
-
-(3) The manner in which re-examinations are carried out and the apparatus to be used in carrying out re-examinations shall comply with the requirements of Schedule 3.
-
-(4) On the completion of a re-examination, the examiner shall issue to the
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 owner a test certificate or a notice of refusal in accordance with regulation 16 or regulation 17, as the case may be.
+Subsidiary 1987/067 (2)  Notwithstanding anything in sub-regulation (1), the examiner may, on a re-examination, determine whether the vehicle complies with all or any of the other prescribed requirements.
+
+(3) The manner in which re-examinations are carried out and the apparatus to be used in carrying out re-examinations shall comply with the requirements of Schedule 3.
+
+(4) On the completion of a re-examination, the examiner shall issue to the owner a test certificate or a notice of refusal in accordance with regulation 16 or regulation 17, as the case may be.
 
 Notifiable alterations and re-examination.
 
@@ -330,17 +330,17 @@ Re-examination following alteration.
 
 23.(1) Where the Chief Examiner is notified of alterations to a vehicle,
 
-(a)  if there is a request for amendment of the test certificate, he shall; and
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 (a)  if there is a request for amendment of the test certificate, he shall; and
 
 (b)  in any other case, he may, in his discretion, require the vehicle to be submitted for re-examination and shall give notice to the owner of the vehicle of the place, date and time appointed for the re-examination.
 
 (2) Where the Chief Examiner decides that re-examination is unnecessary, he shall so inform the owner of the vehicle.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 Procedure on re-examination.
+Procedure on re-examination.
 
 24. On the completion of the re-examination of a vehicle, the examiner may-
 
@@ -364,6 +364,12 @@ Power to stop vehicles.
 
 Right to have examiantion deferred.
 
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
+
 26. Where a motor vehicle has been stopped under regulation 25, the driver may elect to have the examination of the motor vehicle or trailer deferred:
 
 Provided that the police officer may require the examination to be carried out forthwith or as soon as practicable where-
@@ -371,12 +377,6 @@ Provided that the police officer may require the examination to be carried out f
 (a)  the vehicle has been involved in an accident; or
 
 (b)  the vehicle appears to him so defective that it ought not to be allowed to proceed without prior examination,
-
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067
 
 and, in either such case, the vehicle shall not be removed before it has been examined.
 
@@ -394,15 +394,15 @@ Further tests.
 
 Appeals.
 
-Bringing of appeals.
-
-30.(1) A person aggrieved by the refusal of a test certificate following the examination or re-examination of a motor vehicle or trailer or by the suspension of a motor vehicle licence following any such examination or re- examination or by a notice of defect given under regulation 28, may, within 14 days of the day when the notice was given, appeal to the licensing authority against the refusal or the suspension or the notice of defect, as the case may be.
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 (2) An appeal shall be by notice in the form MVT/7 in Schedule 4 and shall be accompanied by the prescribed fee.
+Subsidiary 1987/067 Bringing of appeals.
+
+30.(1) A person aggrieved by the refusal of a test certificate following the examination or re-examination of a motor vehicle or trailer or by the suspension of a motor vehicle licence following any such examination or re- examination or by a notice of defect given under regulation 28, may, within 14 days of the day when the notice was given, appeal to the licensing authority against the refusal or the suspension or the notice of defect, as the case may be.
+
+(2) An appeal shall be by notice in the form MVT/7 in Schedule 4 and shall be accompanied by the prescribed fee.
 
 Nomination of appeal officer.
 
@@ -424,17 +424,17 @@ Information to be furnished.
 
 Conduct of re-examinations on appeal.
 
-34. The provisions of regulations 9, I l and 12(2) and of Schedules 2 and 3 shall, mutatis mutandis, apply to re-examinations on appeal as they apply to other examinations.
-
-Determination of appeals.
-
-35. On receipt of the report of the appeal officer, the licensing authority shall make such determination in the matter as he may think proper and shall direct the appeal officer to issue a test certificate or a notice of
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 refusal, or to confirm or cancel the notice of defect, as the case may require.
+Subsidiary 1987/067
+
+34. The provisions of regulations 9, I l and 12(2) and of Schedules 2 and 3 shall, mutatis mutandis, apply to re-examinations on appeal as they apply to other examinations.
+
+Determination of appeals.
+
+35. On receipt of the report of the appeal officer, the licensing authority shall make such determination in the matter as he may think proper and shall direct the appeal officer to issue a test certificate or a notice of refusal, or to confirm or cancel the notice of defect, as the case may require.
 
 Certificates notices and records.
 
@@ -460,17 +460,23 @@ Particulars to be contained in test certifcates and notices of refusal.
 
 Validity of test certificates.
 
-37. The first test certificate issued in respect of a motor vehicle or trailer shall be valid for a period stated therein not exceeding 14 months from the date of issue. Every subsequent test certificate in respect of that motor vehicle or trailer shall be valid until the next ensuing anniversary of the registration of that motor vehicle or trailer.
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 37.(1) Subject to sub-regulation (3), the first test certificate issued in respect of a motor vehicle or trailer shall be valid for a period stated therein not exceeding 14 months from the date of issue.
+
+(2) Subject to sub-regulation (3), every test certificate issued after the first test certificate in respect of a motor vehicle or trailer shall be valid until the next  ensuing anniversary of the registration of that motor vehicle or trailer.
+
+(3) Where the vehicle is an omnibus in respect of which more than 12 years have elapsed since the date of its manufacture and it has a sitting capacity of less than 44 seats,  the test certificate shall be valid for a period not exceeding 6 months.
+
+(4) If an application other than an application in respect of an omnibus falling within sub-regulation (3) is made within the prescribed time for an annual or other examination, the Chief Examiner may extend the validity of the certificate to cover the period between the application and the examination.
 
 Duplicate test certificates.
 
 38. If a test certificate has been lost or defaced, the owner of the vehicle shall be entitled to receive a duplicate certificate if he applies therefor in writing to the Chief Examiner, remitting the prescribed fee.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 Provisions as to notices.
+Provisions as to notices.
 
 39.(1) Except as otherwise provided, every notice under these regulations shall be in writing.
 
@@ -484,7 +490,11 @@ Records to be kept.
 
 Fees.
 
-Fees payable.
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 Fees payable.
 
 41. The fees to be paid under these regulations shall be as set out in Schedule 5.
 
@@ -498,13 +508,7 @@ Transfer or refund of fee.
 
 may, when giving notice or satisfying the Chief Examiner, as the case may be, or within 20 days thereafter-
 
-(i) apply to the Chief Examiner for another examination of the same kind of that vehicle or of another vehicle, to be
-
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 carried out within 2 months of the date of the application, and in such case the fee paid on the first application shall be treated as having been paid in respect of or towards the second; or
+(i) apply to the Chief Examiner for another examination of the same kind of that vehicle or of another vehicle, to be carried out within 2 months of the date of the application, and in such case the fee paid on the first application shall be treated as having been paid in respect of or towards the second; or
 
 (ii) give notice to the Chief Examiner that he does not require any examination of the same kind, and in such case the fee, less the sum of £2 for administrative expenses, shall be refunded to the applicant.
 
@@ -512,7 +516,13 @@ Refund of fee paid in appeal.
 
 43.(1) If, before the time appointed for the re-examination of a vehicle for the purpose of an appeal, the appellant gives the Chief Examiner not less  than 2 clear days notice that he does not propose to submit the vehicle for re- examination at that time and no other time is then appointed, the fee paid on the appeal shall be repaid to the appellant.
 
-(2)  After the re-examination of a vehicle for the purpose of an appeal, the Chief Examiner, after considering the report of the appeal officer, may repay to the appellant the whole or any part of the fee paid in respect of  the appeal, where it appears to him that there were substantial grounds for contesting the notice of refusal or notice of defect against which the appeal was brought.
+(2)  After the re-examination of a vehicle for the purpose of an appeal, the Chief Examiner, after considering the report of the appeal officer, may repay to
+
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 the appellant the whole or any part of the fee paid in respect of  the appeal, where it appears to him that there were substantial grounds for contesting the notice of refusal or notice of defect against which the appeal was brought.
 
 Offences
 
@@ -532,11 +542,7 @@ Other offences.
 
 45. A person who-
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 (a)  obstructs an examiner or a police officer in the execution of his duty under these regulations;
+(a)  obstructs an examiner or a police officer in the execution of his duty under these regulations;
 
 (b)  gives false information in answer to a question lawfully put to him under these regulations;
 
@@ -550,7 +556,11 @@ Saving.
 
 46. Notwithstanding the provisions of any of these regulations, it shall not be an offence to use, or cause or permit to be used, on a road a motor vehicle or trailer–
 
-(a)  when it is being submitted by appointment for, or is used in the course of or in connection with, any examination under these regulations;
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 (a)  when it is being submitted by appointment for, or is used in the course of or in connection with, any examination under these regulations;
 
 (b)  following the refusal of a test certificate, it-
 
@@ -568,25 +578,25 @@ Saving.
 
 SCHEDULE 1.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067
-
 CLASSES OF VEHICLES TO WHICH THE REGULATIONS DO NOT APPLY.
 
-1. Mobile cranes. 2. Road rollers. 3. Motor vehicles or trailers (not constructed primarily to carry loads) especially designed and constructed for the special purposes of engineering operations. 4. Road construction vehicles. 5. Vehicles designed for fire fighting purposes. 6. Works trucks, that is to my motor vehicles designed for use in private premises and used on a road only for delivering goods from or to such premises, to or from a vehicle on a road in the immediate neighbourhood or in passing from one part of any such premises to another or to other private premises in the immediate neighbourbood or in connection with road works while at or in the immediate neighbourhood of the site of such works, stradel carriers used solely as works trucks, and works traders. 7.
-
-Traders which have no other brakes than a parking brake and brakes which automatically come into operation on the over-run of the trailer. 8. Vehicles used soely for the purposes of funerals. 9. Vehicles equipped with new or improved equipment or types of equipment and used solely by an importer of vehicles for or m connection with the teat or trial of any such equipment. 10. Vehicles to which any of the prescribed construction and condition requirements do not apply by virtue of either of the following regulations of the Traffic (Licensing and Registration) Regulations namely- (a) Regulation 21 (which relates to vehicles to be exported from Gibraltar) (b) Regulation 22 (which relates to vehicles brought temporarily into Gibraltar) (c) Regulation 25 (which relates to waiver for vehicles in transit from Spain) (d) Regulation 26 (which relates to waiver for vehicles of visiting warships) 11. Track laying vehicles. 12. Steam propelled vehicles. 13. Three wheeled motor vehicles designed for the purpose of street cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies.
+1. Mobile cranes. 2. Road rollers. 3. Motor vehicles or trailers (not constructed primarily to carry loads) especially designed and constructed for the special purposes of engineering operations. 4. Road construction vehicles. 5. Vehicles designed for fire fighting purposes. 6. Works trucks, that is to my motor vehicles designed for use in private premises and used on a road only for delivering goods from or to such premises, to or from a vehicle on a road in the immediate neighbourhood or in passing from one part of any such premises to another or to other private premises in the immediate neighbourbood or in connection with road works while at or in the immediate neighbourhood of the site of such works, stradel carriers
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 14. Vehicles designed and used for the purpose of servicing or controlling or loading or unloading aircraft, while so used- (a) on an aerodrome; (b) on roads outside such aerodrome if, except when proceeding directly from one part of such an aerodrome to another part thereof, the vehicles are unladen and are not drawing a laden trailer.
+Subsidiary 1987/067 used solely as works trucks, and works traders. 7.
 
-15. Vehicles designed for use and used on an aerodrome solely for the purpose of road cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies or cesspools. 16. Vehicles provided for police purposes and maintained in workshops approved by the licensing authority as suitable for such maintenance. 17. Pedestrian controlled vehicles. 18. Invalid carriages (including a cycle with an attachment for propelling it by mechanical power) which do not exceed 250 kilograms. 19. Motor vehicles brought into Gibraltar and displaying a registration mark specified in a period of twelve months not having elapsed since the vehicle in question was last brought into Gibraltar. 20. Hackney carriages in respect of which there is in force a licence granted under section 48 of the Act to ply for hire.
+Traders which have no other brakes than a parking brake and brakes which automatically come into operation on the over-run of the trailer. 8. Vehicles used soely for the purposes of funerals. 9. Vehicles equipped with new or improved equipment or types of equipment and used solely by an importer of vehicles for or m connection with the teat or trial of any such equipment. 10. Vehicles to which any of the prescribed construction and condition requirements do not apply by virtue of either of the following regulations of the Traffic (Licensing and Registration) Regulations namely- (a) Regulation 21 (which relates to vehicles to be exported from Gibraltar) (b) Regulation 22 (which relates to vehicles brought temporarily into Gibraltar) (c) Regulation 25 (which relates to waiver for vehicles in transit from Spain) (d) Regulation 26 (which relates to waiver for vehicles of visiting warships) 11. Track laying vehicles. 12. Steam propelled vehicles. 13. Three wheeled motor vehicles designed for the purpose of street cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies. 14. Vehicles designed and used for the purpose of servicing or controlling or loading or unloading aircraft, while so used- (a) on an aerodrome; (b) on roads outside such aerodrome if, except when proceeding directly from one part of such an aerodrome to another part thereof, the vehicles are unladen and are not drawing a laden trailer.
+
+15. Vehicles designed for use and used on an aerodrome solely for the purpose of road cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies or cesspools. 16. Vehicles provided for police purposes and maintained in workshops approved by the licensing authority as suitable for such maintenance. 17. Pedestrian controlled vehicles. 18. Invalid carriages (including a cycle with an attachment for propelling it by mechanical power) which do not exceed 250 kilograms. 19. Motor vehicles brought into Gibraltar and displaying a registration
+
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 mark specified in a period of twelve months not having elapsed since the vehicle in question was last brought into Gibraltar. 20. Hackney carriages in respect of which there is in force a licence granted under section 48 of the Act to ply for hire.
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
