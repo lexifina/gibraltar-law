@@ -12,7 +12,7 @@ Commencement 1.11.1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993 1995/019 Sch. 2 23.2.1995 1995/032 Sch. 2 14.3.1995 1995/019 Sch. 2 1.4.1995 1995/116 Sch. 2 17.8.1995
+LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993 1995/019 Sch. 2 23.2.1995 1995/032 Sch. 2 14.3.1995 1995/019 Sch. 2 1.4.1995 1995/116 Sch. 2 17.8.1995 1996/056 Sch. 2 25.4.1996
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
@@ -158,27 +158,27 @@ Any certificate issued by the Financial and Development Secretary in relation to
 
 (b) registration of a person of full age as a British Dependent Territories citizen under the British Nationality Act, 1981
 
-85.00
+120.00
 
 (c) registration of a minor as a British Dependent Territories citizen under the British Nationality Act, 1981
 
-85.00
+120.00
 
 (d) grant of a Certificate of Naturalisation as a British Dependent Territories citizen under section 18(1) of the British Nationality Act, 1981
 
-170.00
+150.00
 
 (e) grant of a Certificate of Naturalisation as a British Dependent Territories citizen under section 18(2) of the British Nationality Act, 1981
 
-135.00
+120.00
 
 (f) registration of a declaration of renunciation of British Dependent Territories citizenship under section 18(2) of the British Nationality Act, 1981
 
-15.00
+20.00
 
 (g) supplying a certified or other copy of a notice, certificate, order, declaration or entry given, granted or made under the British Nationality Act 1981 or any of the former Nationality Acts
 
-15.00
+20.00
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
@@ -186,10 +186,10 @@ Licensing and Fees LICENCE (FEES) RULES, 1991
 
 Subsidiary 1991/205 (h) administering the oath of allegiance for the purposes of the British Nationality Act, 1981
 
-15.00
+25.00
 
 (j) preparing or forwarding or both an application for registration or naturalisation to the Home Office
 
-20.00
+30.00
 
 (Note: if the oath is administered by a Commissioner for Oaths or Notary Public payment of the fee shall be to that person)
