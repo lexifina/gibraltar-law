@@ -10,7 +10,7 @@ Act. No. 1977-25 Commencement 1.9.1977
 
 Assent 20.7.1977
 
-Amending enactments Relevant current provisions Commencement date Acts. 1985-16 s.2(1) and Sch. 14.2.1984
+Amending enactments Relevant current provisions Commencement date Acts. 1985-16 s.2(1) and Sch. 14.2.1984 1993-12 ss.2 and 3(4) 1.3.1993
 
 Carriage of Goods by Sea
 
@@ -36,7 +36,7 @@ Interpretation.
 
 “the Rules” means the International Convention for the Unification of certain Rules of Law relating to bills of lading signed at Brussels on the 25th day of August, 1924 as amended by the Protocol signed at Brussels on the 23rd day of February, 1968 and as further amended by the Protocol signed at Brussels on the 21st December 1979.
 
-(2) For the purposes of Article III of the Rules, section 502 of the Merchant Shipping Act 1894 (which, as amended by the Merchant Shipping (Liability of Shipowners and Others) Act, 1958, entirely exempts shipowners and others in certain circumstances from liability for loss of, or damage to, goods) is a provision relating to limitation of liability.
+(2) For the purposes of Article III of the Rules, the relevant legislation relating to ships registered in Gibraltar and section 502 of the Merchant Shipping Act 1894 (as amended by the Merchant Shipping (Liability of Owners and Others) Act 1958) entirely exempt ship owners and others in certain circumstances from liability for loss of, or damage to, goods and are provisions relating to the limitation of liability.
 
 Application of Hague Rules.
 
@@ -46,13 +46,29 @@ Application of Hague Rules.
 
 (3) Subject to subsection (5), nothing in this section shall be taken as applying anything in the Rules to any contract for the carriage of goods by sea unless the contract expressly or by implication provides for the issue of a bill of lading or any similar document of title.
 
-(4)  The Governor may from timt to timt, by order, specify the respective amounts which for the purposes of paragraph 5 of Article IV of the Rules and of Article IV bis of the Rules are to be taken as equivalent to the sums expressed in francs which are mentioned in sub-paragraph (a) of that paragraph.
+(4)  For the purpose of Article IV of the Rules,–
 
-(5)  Without prejudice to Article X(c) of the Rules, the Rules shall have the force of law in relation to–
+(a) the value on a particular day of one special drawing right shall be treated as equal to such a sum in sterling as the International Monetary Fund have fixed as being the equivalent of one special drawing right for–
 
 Carriage of Goods by Sea
 
 1977-25
+
+(i) the day on which the determination is made, or
+
+(ii) if no sum has been so fixed for that day, the last day before the day for which a sum has been so fixed.
+
+(b) a certificate given by or on behalf of the Financial and Development Secretary stating–
+
+(i) that a particular sum in sterling has been so fixed for the day on which the determination was made, or
+
+(ii) that no sum has been so fixed for that day and that a particular sum in sterling has been so fixed for a day which is the last day for which a sum has been so fixed before the day on which the determination was made,
+
+shall be conclusive evidence of those matters for the purposes of this Act.
+
+(c) a document purporting to be such a certificate shall, in any proceedings, be received in evidence and, unless the contrary is proved, be deemed to be such a certificate.
+
+(5)  Without prejudice to Article X(c) of the Rules, the Rules shall have the force of law in relation to–
 
 (a)  any bill of lading if the contract contained in or evidenced by it expressly provides that the Rules shall govern the contract; and
 
@@ -63,6 +79,10 @@ but subject, where paragraph (b) applies, to any necessary modifications and in 
 (6)  If and so far as the contract contained in or evidenced by a bill of lading or receipt within paragraph (a) or (b) of subsection (5) applies to deck cargo or live animals, the Rules as given the force of law by that subsection shall have effect as if Article 1(c) did not exclude deck cargo and live animals.
 
 In this subsection “deck cargo” means cargo which by the contract of carriage is stated as being carried on deck and is so carried.
+
+Carriage of Goods by Sea
+
+1977-25
 
 Contracting States, etc.
 
@@ -79,10 +99,6 @@ Absolute warranty of seaworthiness not to be implied in contracts to which Rules
 5. There shall not be implied in any contract for the carriage of goods by sea to which the Rules apply by virtue of this Act any absolute undertaking by the carrier of the goods to provide a seaworthy ship.
 
 Repeal.
-
-Carriage of Goods by Sea
-
-1977-25
 
 6. Omitted.
 
