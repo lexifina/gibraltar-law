@@ -6,11 +6,15 @@ CARRIAGE OF GOODS BY SEA ACT
 
 Principal Act
 
-Act. No. 1977-25 Commencement 1.9.1977 Assent 20.7.1977
+Act. No. 1977-25 Commencement 1.9.1977
 
-____________________________
+Assent 20.7.1977
 
-ARRANGEMENT OF SECTIONS.
+Amending enactments Relevant current provisions Commencement date Acts. 1985-16 s.2(1) and Sch. 14.2.1984
+
+Carriage of Goods by Sea
+
+1977-25 ARRANGEMENT OF SECTIONS.
 
 Section
 
@@ -30,7 +34,7 @@ Interpretation.
 
 2. (1) In this Act–
 
-“the Rules” means the International Convention for the Unification of certain Rules of Law relating to bills of lading signed at Brussels on the 25th day of August, 1924 as amended by the Protocol signed at Brussels on the 23rd day of February, 1968.
+“the Rules” means the International Convention for the Unification of certain Rules of Law relating to bills of lading signed at Brussels on the 25th day of August, 1924 as amended by the Protocol signed at Brussels on the 23rd day of February, 1968 and as further amended by the Protocol signed at Brussels on the 21st December 1979.
 
 (2) For the purposes of Article III of the Rules, section 502 of the Merchant Shipping Act 1894 (which, as amended by the Merchant Shipping (Liability of Shipowners and Others) Act, 1958, entirely exempts shipowners and others in certain circumstances from liability for loss of, or damage to, goods) is a provision relating to limitation of liability.
 
@@ -48,7 +52,9 @@ Application of Hague Rules.
 
 Carriage of Goods by Sea
 
-1977-25 (a)  any bill of lading if the contract contained in or evidenced by it expressly provides that the Rules shall govern the contract; and
+1977-25
+
+(a)  any bill of lading if the contract contained in or evidenced by it expressly provides that the Rules shall govern the contract; and
 
 (b)  any receipt which is a non-negotiable document marked as such if the contract contained in or evidenced by it is a contract for the carriage of goods by sea which expressly provides that the Rules are to govern the contract as if the receipt were a bill of lading,
 
@@ -76,7 +82,9 @@ Repeal.
 
 Carriage of Goods by Sea
 
-1977-25 6. Omitted.
+1977-25
+
+6. Omitted.
 
 Carriage of Goods by Sea
 
@@ -86,7 +94,7 @@ SCHEDULE.
 
 Section 3
 
-THE HAGUE RULES AS AMENDED BY THE BRUSSELS PROTOCOL 1968.
+THE HAGUE RULES AS AMENDED BY THE BRUSSELS PROTOCOLS 1968 and 1979.
 
 ARTICLE I.
 
