@@ -8,7 +8,7 @@ CONTROL OF TRAFFIC REGULATIONS
 
 [1960.03.15]
 
-Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991
+Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996
 
 Traffic CONTROL OF TRAFFIC REGULATIONS
 
@@ -46,7 +46,7 @@ Speed Limits.
 
 One-way Streets
 
-45. Constitution of one-way streets. 46. Direction of traffic at Glacis Estate. 47. Direction of traffic at Laguna Estate.
+45. Constitution of one-way streets. 46. Direction of traffic at Glacis Estate. 47. Direction of traffic at Laguna Estate. 47A. Direction of traffic in the Varyl Begg Estate. 47B. Direction of traffic in the Moorish Castle Estate. 47C. Direction of traffic at Harbour Views Road and Westside Road.
 
 Pedestrian Crossings
 
@@ -58,13 +58,13 @@ Traffic Wardens
 
 Removal of Vehicles
 
-55. Duty of motorists to remove vehicles. 56. Removal by Police of abandoned or broken down vehicles. 57. Removal by Police of dangerous or obstructing vehicles. 58. Removal by Police of other vehicles.
+55. Duty of motorists to remove vehicles.
 
 Traffic CONTROL OF TRAFFIC REGULATIONS
 
 2005-26
 
-Subsidiary [1960.03.15] 59. Detention and charges. 60. Disposal of detained vehicles. 61. Application of proceeds of disposal. 62. Recovery of debts. 63. Modes of recovery. 64. Enabling powers of Commissioner of Police.
+Subsidiary [1960.03.15] 56. Removal by Police of abandoned or broken down vehicles. 57. Removal by Police of dangerous or obstructing vehicles. 58. Removal by Police of other vehicles. 59. Detention and charges. 60. Disposal of detained vehicles. 61. Application of proceeds of disposal. 62. Recovery of debts. 63. Modes of recovery. 64. Enabling powers of Commissioner of Police.
 
 SCHEDULE 1. Pedestrian Crossings
 
