@@ -54,13 +54,11 @@ Acts. 1971-14 s.28(2)
 
 1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987 1988-35 ss. 17, 17A, 17B, 20, 21, and 36A. 15.12.1988 1997-25 s. 20(q) 21.8.1997 1997-32 ss. 35A to 35H, 28(1) & (c), 29(1)(a) and Sch
 
-16.10.1997 2002-12 ss. 39 to 72 19.12.2002 2004-23 s. 35A(1) and Sch Part I. 1.5.2004
-
-The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
+16.10.1997 2002-12 ss. 39 to 72 19.12.2002 2004-23 s. 35A(1) and Sch Part I. 1.5.2004 2004-11 ss. 38A and 38B 1.9.2004
 
 Supreme Court
 
-1960-02
+1960-02 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
 The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
 
@@ -242,15 +240,15 @@ PART IVA EEA LAWYERS
 
 PART V. MISCELLANEOUS.
 
-36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 37. Rules regulating funds in court. 38. Rules of court.
+36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 37. Rules regulating funds in court. 38. Rules of court. 38A. Civil Procedure Rules. 38B. Masters.
 
 PART VI EUROPEAN LAWYERS: INTRODUCTORY
 
-39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer. 45. Joint practice. 46. Name of joint practice. 47. Notification of joint practice. 48. Representation in legal proceedings.
+39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer. 45. Joint practice. 46. Name of joint practice.
 
 Supreme Court
 
-1960-02 49. Property transactions and probate. 50. Legal aid.
+1960-02 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
 
 PART VIII REGISTRATION OF EUROPEAN LAWYERS
 
@@ -268,10 +266,10 @@ PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
 
 72. Modification of enactments.
 
-SCHEDULE
-
 Supreme Court
 
 1960-02
+
+SCHEDULE
 
 Supreme Court
