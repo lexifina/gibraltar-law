@@ -16,9 +16,9 @@ LN. 1971/008
 
 1981/090 Sch. 2
 
-1985/082 Sch. 2 1.7.1985 1989/081 Sch. 2 1.10.1989 1991/024 Sch. 2 1.4.1991 1992/028 r. 3, Sch.2 1.4.1992 1993/030 Sch. 2 1.4.1993 1994/017 Sch. 2 1.4.1994
+1985/082 Sch. 2 1.7.1985 1989/081 Sch. 2 1.10.1989 1991/024 Sch. 2 1.4.1991 1992/028 r. 3, Sch.2 1.4.1992 1993/030 Sch. 2 1.4.1993 1994/017 Sch. 2 1.4.1994 1995/049 Sch. 2 1.4.1995
 
-_______________________________
+1948-36 Marriage 1948.03.11 Marriage Rules
 
 ARRANGEMENT OF RULES
 
@@ -30,7 +30,7 @@ SCHEDULE 1. Notice of marriage
 
 SCHEDULE 2. Table of fees.
 
-1948-36 Marriage 1948.03.11 Marriage Rules
+Marriage 1948-36 Marriage Rules 1948.03.11
 
 Title.
 
@@ -46,7 +46,7 @@ Fees.
 
 Provided that the Registrar may reduce or remit any of the fees.
 
-Marriage 1948-36 Marriage Rules 1948.03.11
+1948-36 Marriage 1948.03.11 Marriage Rules
 
 SCHEDULE 1. Rule 2. Section 7
 
@@ -76,7 +76,7 @@ Witness by my hand at Gibraltar this day of
 
 (Signature of one of the parties).
 
-1948-36 Marriage 1948.03.11 Marriage Rules
+Marriage 1948-36 Marriage Rules 1948.03.11
 
 NOTICE OF MARRIAGE Section 8.
 
@@ -108,7 +108,7 @@ Witness by my hand at Gibraltar this day of
 
 (Signature of one of the parties).
 
-Marriage 1948-36 Marriage Rules 1948.03.11
+1948-36 Marriage 1948.03.11 Marriage Rules
 
 REGISTRAR’S CERTIFICATE
 
@@ -162,9 +162,9 @@ day of
 
 , 20      .
 
-1948-36 Marriage 1948.03.11 Marriage Rules
-
 Marriage 1948-36 Marriage Rules 1948.03.11
+
+1948-36 Marriage 1948.03.11 Marriage Rules
 
 SPECIAL LICENCE FOR MARRIAGE
 
@@ -196,7 +196,7 @@ This licence expires on the day of
 
 (1) Place. (2) Limit of time, if any.
 
-1948-36 Marriage 1948.03.11 Marriage Rules
+Marriage 1948-36 Marriage Rules 1948.03.11
 
 Section 23(1)
 
@@ -220,7 +220,7 @@ In the presence of  {
 
 {
 
-Marriage 1948-36 Marriage Rules 1948.03.11
+1948-36 Marriage 1948.03.11 Marriage Rules
 
 MARRIAGE ACT
 
@@ -244,4 +244,4 @@ in the presence of
 
 )
 
-1948-36 Marriage 1948.03.11 Marriage Rules
+Marriage 1948-36 Marriage Rules 1948.03.11
