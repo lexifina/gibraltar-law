@@ -1,24 +1,16 @@
-Food and Drugs FOOD HYGIENE REGULATIONS
+Subsidiary Legislation made under s.13.
 
-1964-07
+Food Hygiene Regulations
 
-Subsidiary 1977/036 Regulations made under s. 13
+LN.1977/036
 
-FOOD HYGIENE REGULATIONS
-
-(LN. 1977/036)
-
-3.3.1977
+Commencement 3.3.1977
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1987/025 r. 53 1.8.1987
+LN. 1987/025 r. 53 1.8.1987 1988/003 rr. 6, 11, 51 1.2.1988
 
-Food and Drugs FOOD HYGIENE REGULATIONS
-
-1964-07
-
-Subsidiary 1977/036 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -36,13 +28,11 @@ PART III. REQUIREMENTS RELATING TO FOOD HANDLING
 
 PART IV. REQUIREMENTS RELATING TO FOOD PREMISES
 
-12.  Soil drainage systems. 13.  Cisterns supplying water to food rooms 14.  Sanitary conveniences. 15.  Water supply to be provided. 16.  Wash-hand basins to be provided. 17.  First aid materials to be provided. 18.  Accommodation for clothing, etc. 19.  Facilities for washing food and equipment. 20.  Lighting of food rooms. 21.  Ventilation of food rooms. 22.  Food room not to be, or communicate with, sleeping place. 23.  Cleanliness and repair of food rooms. 24.  Accumulation of refuse, etc. 25. Temperature at which certain foods are to be kept.
+12.  Soil drainage systems. 13.  Cisterns supplying water to food rooms 14.  Sanitary conveniences. 15.  Water supply to be provided. 16.  Wash-hand basins to be provided. 17.  First aid materials to be provided. 18.  Accommodation for clothing, etc. 19.  Facilities for washing food and equipment. 20.  Lighting of food rooms. 21.  Ventilation of food rooms. 22.  Food room not to be, or communicate with, sleeping place. 23.  Cleanliness and repair of food rooms. 24.  Accumulation of refuse, etc.
 
-Food and Drugs FOOD HYGIENE REGULATIONS
+25. Temperature at which certain foods are to be kept.
 
-1964-07
-
-Subsidiary 1977/036 PART V. SHIPS
+PART V. SHIPS
 
 26.  Application. 27.  Modification in relation to ships.
 
@@ -62,18 +52,8 @@ PART IX. Revoked
 
 48-50.  Revoked.
 
-PART X.
-
-Food and Drugs FOOD HYGIENE REGULATIONS
-
-1964-07
-
-Subsidiary 1977/036 ADMINISTRATIVE PROVISIONS AND PENALTIES
+PART X. ADMINISTRATIVE PROVISIONS AND PENALTIES
 
 51.  Exemption of premises. 52.  Offences. 53.  Penalties. 54.  Omitted.
 
 SCHEDULE.
-
-Food and Drugs FOOD HYGIENE REGULATIONS
-
-1964-07
