@@ -46,11 +46,11 @@ It entitles the holder to engage in the international carriage of goods by road 
 
 and unladen journeys in connection with such carriage.
 
-In the case of carriage from a member State to a non-member country or vice versa, this authorisation is valid for that part of the journey effected on the territory of the member State of loading or unloading upon conclusion of
+In the case of carriage from a member State to a non-member country or vice versa, this authorisation is valid for that part of the journey effected on
 
 Transport
 
-1998-44 the necessary agreement  between the Community and the non-member country in question in accordance with Regulation (EEC) No 881/92.
+1998-44 the territory of the member State of loading or unloading upon conclusion of the necessary agreement  between the Community and the non-member country in question in accordance with Regulation (EEC) No 881/92.
 
 The authorisation is personal to the holder and is not transferable.
 
@@ -84,11 +84,11 @@ The authorisation must be produced whenever required by an authorised inspecting
 
 (F) France,
 
-(IRL) Ireland,
-
 Transport
 
-1998-44 (I) Italy,
+1998-44 (IRL) Ireland,
+
+(I) Italy,
 
 (L) Luxembourg,
 
@@ -120,11 +120,9 @@ Types of carriage to be exempted from any community authorisation and from any c
 
 (c) motor vehicles used for such carriage must be driven by employees of the undertaking;
 
-(d) the vehicles carrying the goods must be owned by the undertaking or have been bought by it on deferred terms or hired provided that in the latter case they meet the conditions of
-
 Transport
 
-1998-44 Council Directive 84/647/EEC of 19 December 1984 on the use of  vehicles hired without drivers for the carriage of goods by road (1).  This provision shall not apply to the use of a replacement vehicle during a short breakdown of the vehicle normally used;
+1998-44 (d) the vehicles carrying the goods must be owned by the undertaking or have been bought by it on deferred terms or hired provided that in the latter case they meet the conditions of Council Directive 84/647/EEC of 19 December 1984 on the use of  vehicles hired without drivers for the carriage of goods by road (1).  This provision shall not apply to the use of a replacement vehicle during a short breakdown of the vehicle normally used;
 
 (e) carriage must be no more than ancillary to the overall activities of the undertaking.
 

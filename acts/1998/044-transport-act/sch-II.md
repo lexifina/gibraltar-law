@@ -4,9 +4,7 @@ Approval Mark and Certificate
 
 I. Approval mark
 
-Transport
-
-1998-44 1. The approval mark shall be made up of:
+1. The approval mark shall be made up of:
 
 - a rectangle, within which shall be placed the letter ‘e’ followed by a distinguishing number or letter for the country which has issued the approval in accordance with the following conventional signs: 1.2 Belgium   6,   Denmark   18,   Germany  1,   Greece   gr,   Spain   9, France  2,   Ireland   irl,   Italy   3,  Luxembourg   13,   Netherlands 4, Portugal  21,   United Kingdom   11, and
 
@@ -30,7 +28,9 @@ Name of competent administration
 
 notification concerning (1):
 
-- approval of a type of recording equipment
+Transport
+
+1998-44 - approval of a type of recording equipment
 
 - withdrawal of approval of a type of recording equipment
 
@@ -40,9 +40,7 @@ notification concerning (1):
 
 1. Trade mark or name
 
-Transport
-
-1998-44 2. Name of type or model
+2. Name of type or model
 
 3. Name of manufacturer
 
@@ -74,7 +72,11 @@ be used
 
 (1) delete items not applicable.
 
-COMMISSION  REGULATION (EEC) NO 3314/90 OF 16 NOVEMBER 1990 COMMISSION REGULATION ADAPTING TO TECHNICAL PROGRESS COUNCIL REGULATION (EEC) NO 3821/85 ON RECORDING EQUIPMENT IN ROAD TRANSPORT
+COMMISSION  REGULATION (EEC) NO 3314/90 OF 16 NOVEMBER 1990 COMMISSION REGULATION ADAPTING TO
+
+Transport
+
+1998-44 TECHNICAL PROGRESS COUNCIL REGULATION (EEC) NO 3821/85 ON RECORDING EQUIPMENT IN ROAD TRANSPORT
 
 The Commission of the European Communities,
 
@@ -82,9 +84,7 @@ Having regard to the treaty establishing the European Economic Community,
 
 Having regard to Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport (1), and in particular articles 17 and 18 thereof,
 
-Transport
-
-1998-44 Whereas it is necessary to eliminate the possibilities of fraud in the use of electronic recording equipment in road transport in particular those caused by the interruption of the power supply or of the distance and speed sensor;
+Whereas it is necessary to eliminate the possibilities of fraud in the use of electronic recording equipment in road transport in particular those caused by the interruption of the power supply or of the distance and speed sensor;
 
 Whereas in the light of experience and in view of the current state of the art it is possible to indicate such interruptions clearly on the record sheets in order to facilitate application of the Regulation and to discourage this kind of fraudulent use;
 
@@ -102,17 +102,15 @@ Annex I of Regulation (EEC) No 3821/85 is hereby amended as follows;
 
 1. In Chapter II, the following point is inserted:
 
-“7. For electronic recording equipment which is equipment operating by signals transmitted electrically from the distance and speed sensor, any interruption exceeding 100 milliseconds in the power supply of the recording equipment (except lighting), in the power supply of the distance and speed sensor and any interruption in the signal lead to the distance and speed sensor.”
+Transport
+
+1998-44 “7. For electronic recording equipment which is equipment operating by signals transmitted electrically from the distance and speed sensor, any interruption exceeding 100 milliseconds in the power supply of the recording equipment (except lighting), in the power supply of the distance and speed sensor and any interruption in the signal lead to the distance and speed sensor.”
 
 2. In Chapter III under “(a) general points”, point 1.3 is replaced by the following:
 
 “1.3 a means of marking showing on the record sheet individually:
 
 - each opening of the case containing that sheet,
-
-Transport
-
-1998-44
 
 - for electronic recording equipment, as defined in point 7 of Chapter II, any interruption exceeding 100 milliseconds in the power supply of the recording equipment (except lighting), not later than at switching- on the power supply again,
 
@@ -128,7 +126,9 @@ As from 1 July 1991 member states shall no longer grant EEC approval to any type
 
 Article 3
 
-As from 1 January 1996 the recording equipment of any new vehicle brought into service for the first time shall comply with regulation (EEC) no 3821/85, as amended by this Regulation.
+Transport
+
+1998-44 As from 1 January 1996 the recording equipment of any new vehicle brought into service for the first time shall comply with regulation (EEC) no 3821/85, as amended by this Regulation.
 
 Article 4
 
@@ -140,9 +140,7 @@ Done at Brussels, 16 November 1990.
 
 For the Commission
 
-Transport
-
-1998-44 Karel van Miert
+Karel van Miert
 
 Member of the Commission
 
@@ -258,11 +256,9 @@ Whereas pursuant to article 4b of regulation (EEC) No 3164/76, as inserted by Re
 
 Whereas with regard to the rules for applying the access arrangements the international carriage of goods by road must be made conditional on the possession of a quota-free community transport authorisation;
 
-Whereas at present, under the first Council Directive of 23 July 1962 on the establishment of common rules for certain types of carriage of goods by
-
 Transport
 
-1998-44 road between member states (8), a certain number of types of carriage are exempt from any quota and  carriage authorisation system;
+1998-44 Whereas at present, under the first Council Directive of 23 July 1962 on the establishment of common rules for certain types of carriage of goods by road between member states (8), a certain number of types of carriage are exempt from any quota and  carriage authorisation system;
 
 Whereas, within the framework of the new organisation of the market introduced by this Regulation, a system of exemption from community authorisation and from any other carriage authorisation must be maintained for some of those types of transport, because of their special nature;
 
@@ -284,11 +280,11 @@ Article 1
 
 Article 2
 
-For the purposes of this Regulation:
-
 Transport
 
-1998-44 - “vehicle” shall mean a motor vehicle registered in a member state or a coupled combination of vehicles the motor vehicle of which at least is registered in a member state and which are used exclusively for the carriage of goods,
+1998-44 For the purposes of this Regulation:
+
+- “vehicle” shall mean a motor vehicle registered in a member state or a coupled combination of vehicles the motor vehicle of which at least is registered in a member state and which are used exclusively for the carriage of goods,
 
 - “international carriage” shall mean:
 
@@ -362,11 +358,9 @@ Article 11
 
 1. The member States shall give each other mutual assistance in ensuring the application and monitoring of this Regulation.
 
-2. Where the competent authorities of a member State are aware of an infringement of this regulation attributable to a haulier from another
-
 Transport
 
-1998-44 member State, the member state within the territory of which the infringement is established shall inform the  competent authorities of the member State in which the haulier is established and may ask the competent authorities of the member State of establishment to impose sanctions in accordance with this Regulation.
+1998-44 2. Where the competent authorities of a member State are aware of an infringement of this regulation attributable to a haulier from another member State, the member state within the territory of which the infringement is established shall inform the  competent authorities of the member State in which the haulier is established and may ask the competent authorities of the member State of establishment to impose sanctions in accordance with this Regulation.
 
 3. In the event of a serious infringement or repeated minor infringements of carriage regulations, the competent authorities of the member State in which the haulier is established shall examine the ways in which the sanctions provided for in article 8  (3) are applied and shall communicate their decision to the competent authorities of the member state in which the infringements were established.
 
@@ -424,11 +418,9 @@ Joaquim Ferreira do Amaral
 
 (5) OJ No L 163, 30. 6. 1988, p. 1.
 
-(6) OJ No L 357, 29. 12. 1976, p. 1. Regulation last amended by Regulation (EEC) no  3914/90 (OJ no L 375, 31. 12. 1990, p. 7).
-
 Transport
 
-1998-44
+1998-44 (6) OJ No L 357, 29. 12. 1976, p. 1. Regulation last amended by Regulation (EEC) no  3914/90 (OJ no L 375, 31. 12. 1990, p. 7).
 
 (7) OJ No L 308, 19. 11. 1974, p. 1. Directive last amended by Regulation (EEC) No 3572/90 (OJ No L 353, 17. 12. 1990, p. 12).
 

@@ -2,10 +2,6 @@ Annex I
 
 Requirements for Construction, Testing, Installation and Inspection
 
-Transport
-
-1998-44
-
 I. Definitions
 
 In this Annex:
@@ -94,11 +90,9 @@ Any recording of reversing movements must on no account affect the clarity and a
 
 6.2.  If the forward movement mechanism of the record sheet is controlled by the clock, the period during which the latter will run correctly after being fully wound must be greater by at least 10 % than the recording period corresponding to the maximum sheet-load of the equipment.
 
-7. Lighting and protection
-
 Transport
 
-1998-44
+1998-44 7. Lighting and protection
 
 7.1.  The visual instruments of the equipment must be provided with adequate non-dazzling lighting.
 
@@ -130,11 +124,11 @@ The time indicator must be visible from outside the equipment and give a clear, 
 
 (c)  Recording Instruments
 
-1. General Points
-
 Transport
 
-1998-44 1.1.  All equipment, whatever the form of the record sheet (strip or disc) must be provided with a mark enabling the record sheet to be inserted correctly, in such a way as to ensure that the time shown by the clock and the time-marking on the sheet correspond.
+1998-44 1. General Points
+
+1.1.  All equipment, whatever the form of the record sheet (strip or disc) must be provided with a mark enabling the record sheet to be inserted correctly, in such a way as to ensure that the time shown by the clock and the time-marking on the sheet correspond.
 
 1.2.  The mechanism moving the record sheet must be such as to ensure that the latter moves without play and can be freely inserted and removed.
 
@@ -158,11 +152,11 @@ However, the movement of the stylus may be curvilinear, provided the following c
 
 - the trace drawn by the stylus must be perpendicular to the average circumference (in the case of sheets in disc form) or to the axis (in the case of sheets in strip form) of the area reserved for speed recording,
 
-- the ratio between the radius of curvature of the trace drawn by the stylus and the width of the area reserved for speed
-
 Transport
 
-1998-44 recording must be not less than 2,4 to 1 whatever the form of the record sheet,
+1998-44
+
+- the ratio between the radius of curvature of the trace drawn by the stylus and the width of the area reserved for speed recording must be not less than 2,4 to 1 whatever the form of the record sheet,
 
 - the markings on the time-scale must cross the recording area in a curve of the same radius as the trace drawn by the stylus. The spaces between the markings on the time-scale must represent a period not exceeding one hour.
 
@@ -184,13 +178,11 @@ The various periods of time should be differentiated from one another on the rec
 
 2.  Each opening of the case containing the record sheet or sheets and the control of the mechanism for resetting the clock must be automatically recorded on the sheet or sheets.
 
-(e) Markings
-
-1.  The following markings must appear on the instrument face of the equipment:
-
 Transport
 
-1998-44
+1998-44 (e) Markings
+
+1.  The following markings must appear on the instrument face of the equipment:
 
 - close to the figure shown by the distance recorder, the unit of measurement of distance, indicated by the abbreviation “km”, - near the speed scale, the marking “km/h”,
 
@@ -218,13 +210,13 @@ where “a” is the angle measured from the horizontal position of the front fa
 
 1. On the test bench before installation:
 
-(a) distance travelled:
+Transport
+
+1998-44 (a) distance travelled:
 
 1 % more or less than the real distance, where that distance is at least one kilometre;
 
-Transport
-
-1998-44 (b) speed:
+(b) speed:
 
 3 km/h more or less than the real speed;
 
@@ -262,13 +254,13 @@ Transport
 
 Ò two minutes per day, or
 
-Ò 10 minutes per seven days.
-
-4. The maximum tolerances set out in points 1, 2 and 3 are valid for temperatures between 0 ~ and 40 ~C, temperatures being taken in close proximity to the equipment.
-
 Transport
 
 1998-44
+
+Ò 10 minutes per seven days.
+
+4. The maximum tolerances set out in points 1, 2 and 3 are valid for temperatures between 0 ~ and 40 ~C, temperatures being taken in close proximity to the equipment.
 
 5. Measurement of the maximum tolerances set out in points 2 and 3 shall take place under the conditions laid down in Chapter VI. IV.
 
@@ -294,11 +286,13 @@ If several discs are linked together to increase the continuous recording capaci
 
 - one or more areas for data relating to driving time, to other periods of work and availability to breaks from work and to rest periods for drivers.
 
-2. The area for recording speed must be scaled off in divisions of 20 kilometres per hour or less. The speed corresponding to each marking on the scale must be shown in figures against that marking. The symbol ‘km/h' must be shown at least once within the area. The last marking on the scale must coincide with the upper limit of the range of measurement.
-
 Transport
 
-1998-44 3. The area for recording distance travelled must be set out in such a way that the number of kilometres travelled may be read without difficulty.
+1998-44
+
+2. The area for recording speed must be scaled off in divisions of 20 kilometres per hour or less. The speed corresponding to each marking on the scale must be shown in figures against that marking. The symbol ‘km/h' must be shown at least once within the area. The last marking on the scale must coincide with the upper limit of the range of measurement.
+
+3. The area for recording distance travelled must be set out in such a way that the number of kilometres travelled may be read without difficulty.
 
 4. The area or areas reserved for recording the periods referred to in point 1 must be so marked that it is possible to distinguish clearly between the various periods of time.
 
@@ -326,15 +320,15 @@ A free space must be provided on the sheets such that drivers may as a minimum w
 
 - the registration number or numbers of the vehicle or vehicles to which the driver is assigned during the use of the sheet,
 
-- odometer readings from the vehicle or vehicles to which the driver is assigned during the use of the sheet,
+Transport
+
+1998-44 - odometer readings from the vehicle or vehicles to which the driver is assigned during the use of the sheet,
 
 - the time at which any change of vehicle takes place.
 
 V. Installation of recording equipment
 
-Transport
-
-1998-44 1. Recording equipment must be positioned in the vehicle in such a way that the driver has a clear view from his seat of speedometer, distance recorder and clock while at the same time all parts of those instruments, including driving parts, are protected against accidental damage.
+1. Recording equipment must be positioned in the vehicle in such a way that the driver has a clear view from his seat of speedometer, distance recorder and clock while at the same time all parts of those instruments, including driving parts, are protected against accidental damage.
 
 2. It must be possible to adapt the constant of the recording equipment to the characteristic coefficient of the vehicle by means of a suitable device, to be known as an adaptor.
 
@@ -356,15 +350,13 @@ The plaque must show at least the following details:
 
 The following parts must be sealed:
 
-(a) the installation plaque, unless it is attached in such a way that it cannot be removed without the markings thereon being destroyed;
+Transport
+
+1998-44 (a) the installation plaque, unless it is attached in such a way that it cannot be removed without the markings thereon being destroyed;
 
 (b) the two ends of the link between the recording equipment proper and the vehicle;
 
 (c) the adaptor itself and the point of its insertion into the circuit;
-
-Transport
-
-1998-44
 
 (d) the switch mechanism for vehicles with two or more axle ratios;
 
@@ -386,15 +378,15 @@ For this purpose the member states may stipulate an initial verification, consis
 
 2. Installation
 
-When being fitted to a vehicle, the equipment and the whole installation must comply with the provisions relating to maximum tolerances laid down in Chapter III (f) 2.
+Transport
+
+1998-44 When being fitted to a vehicle, the equipment and the whole installation must comply with the provisions relating to maximum tolerances laid down in Chapter III (f) 2.
 
 The inspection tests shall be carried out by the approved fitter or workshop on his or its responsibility.
 
 3. Periodic inspections
 
-Transport
-
-1998-44 (a) periodic inspections of the equipment fitted to vehicles shall take place at least every two years and may be carried out in conjunction with roadworthiness tests of vehicles.
+(a) periodic inspections of the equipment fitted to vehicles shall take place at least every two years and may be carried out in conjunction with roadworthiness tests of vehicles.
 
 These inspections shall include the following checks:
 
@@ -417,5 +409,9 @@ The measurement of errors on installation and during use shall be carried out un
 - tyre pressures in accordance with the manufacturer's instructions, - tyre wear within the limits allowed by law,
 
 - movement of the vehicle: the vehicle must proceed, driven by its own engine, in a straight line and on a level surface, at a speed of 50 Ò 5 km/h;
+
+Transport
+
+1998-44
 
 provided that it is of comparable accuracy, the test may also be carried out on an appropriate test bench.

@@ -48,11 +48,11 @@ Whereas, however, the particular circumstances in which the AETR negotiations to
 
 Whereas, in order to ensure the supremacy of Community law in intra- Community transport, member states should enter a reservation when depositing their instruments of ratification or accession whereby international transport operations between member states are not to be regarded as international transport operations within the meaning of the agreement;
 
-Whereas the possibilities provided for in the agreement itself for bilateral agreements between contracting parties derogating from the said agreement as regards frontier zone and transit transport operations are a matter which in principle fall within the competence of the community;
+Whereas the possibilities provided for in the agreement itself for bilateral agreements between contracting parties derogating from the said agreement
 
 Transport
 
-1998-44
+1998-44 as regards frontier zone and transit transport operations are a matter which in principle fall within the competence of the community;
 
 Whereas, if an amendment to the internal community rules in the field in question necessitates a corresponding amendment to the agreement, the member states will act jointly to obtain such an amendment to the agreement in accordance with the procedure laid down therein;
 
@@ -74,13 +74,13 @@ Whereas, with regard to rest periods, it is desirable to lay down the minimum du
 
 Whereas trips would be made easier if the driver were able to split up his daily rest period, in particular to avoid his having to take a meal and lodging in the same place;
 
-Whereas it is beneficial to social progress and to road safety to lengthen weekly rest periods, while enabling these periods to be shortened, provided that the driver can compensate for parts of his rest period which have not been taken in a place of his choosing within a given time;
-
-Whereas many road transport operations within the community involve
+Whereas it is beneficial to social progress and to road safety to lengthen weekly rest periods, while enabling these periods to be shortened, provided
 
 Transport
 
-1998-44 transport by ferryboat or by rail for part of the journey;
+1998-44 that the driver can compensate for parts of his rest period which have not been taken in a place of his choosing within a given time;
+
+Whereas many road transport operations within the community involve transport by ferryboat or by rail for part of the journey;
 
 Whereas provisions regarding daily rest periods and breaks which are appropriate to such operations should therefore be provided for in the rules;
 
@@ -100,13 +100,11 @@ Whereas it is desirable, in the interest of effective control, that regular inte
 
 Whereas it is desirable to emphasise the importance of and the need for compliance with this regulation by employers and drivers;
 
-Whereas the Commission should monitor the way the situation with member states develops and submit to the Council and to the European Parliament a report on the application of the rules every two years;
-
-Whereas, in order that this regulation May be applied and that compliance therewith May be checked, it is appropriate for member states to give each other assistance, has adopted this Regulation:
-
 Transport
 
-1998-44
+1998-44 Whereas the Commission should monitor the way the situation with member states develops and submit to the Council and to the European Parliament a report on the application of the rules every two years;
+
+Whereas, in order that this regulation May be applied and that compliance therewith May be checked, it is appropriate for member states to give each other assistance, has adopted this Regulation:
 
 Section I
 
@@ -132,15 +130,13 @@ In this Regulation -
 
 4.  “week” means the period between 00.00 hours on Monday and 24.00 hours on Sunday;
 
-5.  “rest” means any uninterrupted period of at least one hour during which the driver May freely dispose of his time;
+Transport
+
+1998-44 5.  “rest” means any uninterrupted period of at least one hour during which the driver May freely dispose of his time;
 
 6. “permissible maximum weight” means the maximum authorised operating weight of the vehicle fully laden;
 
-7. “regular passenger services” means national and inter-national services as defined in article 1 of Council Regulation no 117/66/EEC of 28 July 1966
-
-Transport
-
-1998-44 on the introduction of common rules for the international carriage of passengers by coach and bus (1).
+7. “regular passenger services” means national and inter-national services as defined in article 1 of Council Regulation no 117/66/EEC of 28 July 1966 on the introduction of common rules for the international carriage of passengers by coach and bus (1).
 
 Section II
 
@@ -164,13 +160,15 @@ This Regulation shall not apply to carriage by:
 
 1.  vehicles used for the carriage of goods where the maximum permissible weight of the vehicle, including any trailer or semi-trailer, does not exceed 3,5 tonnes;
 
+Transport
+
+1998-44
+
 2. vehicles used for the carriage of passengers which, by virtue of their construction and equipment, are suitable for carrying not more than nine persons, including the driver, and are intended for that purpose;
 
 3.  vehicles used for the carriage of passengers on regular services where the route covered by the service in question does not exceed 50 kilometres;
 
-Transport
-
-1998-44 4.  vehicles with a maximum authorised speed not exceeding 30 kilometres per hour;
+4.  vehicles with a maximum authorised speed not exceeding 30 kilometres per hour;
 
 5.  vehicles used by or under the control of the armed services, civil defence, fire services, and forces responsible for maintaining public order;
 
@@ -216,11 +214,11 @@ Any driver engaged in the carriage of passengers on journeys beyond a 50 kilomet
 
 (b) he must have worked for at least one year as a driver of vehicles used to provide passenger services on journeys within a 50 kilometre radius from the place where the vehicle is normally based, or other types of passenger services not subject to this regulation, provided the competent authority considers that he has by so doing acquired the necessary experience;
 
-(c) he must hold a certificate of professional competence recognised by one of the member states confirming that he has completed a training course for drivers of vehicles intended for the carriage of passengers by road, in conformity with
+(c) he must hold a certificate of professional competence recognised by one of the member states confirming that he has completed a training course for drivers of vehicles intended for
 
 Transport
 
-1998-44 community rules on the minimum level of training for road transport drivers.
+1998-44 the carriage of passengers by road, in conformity with community rules on the minimum level of training for road transport drivers.
 
 3.  The minimum age for drivers' mates and conductors shall be 18 years.
 
@@ -246,11 +244,11 @@ Member states May extend the application of the previous subparagraph to nationa
 
 2.  The total period of driving in any one fortnight shall not exceed 90 hours.
 
-Section V
-
 Transport
 
-1998-44 Breaks and Rest Periods
+1998-44 Section V
+
+Breaks and Rest Periods
 
 Article 7
 
@@ -274,11 +272,11 @@ On days when the rest is not reduced in accordance with the first subparagraph, 
 
 2.  During each period of 30 hours when a vehicle is manned by at least two drivers, each driver shall have a rest period of not less than eight consecutive hours.
 
-3. In the course of each week, one of the rest periods referred to in paragraphs 1 and 2 shall be extended, by way of weekly rest, to a total of 45
-
 Transport
 
-1998-44 consecutive hours. This rest period May be reduced to a minimum of 36 consecutive hours if taken at the place where the vehicle is normally based or where the driver is based, or to a minimum of 24 consecutive hours if taken elsewhere. Each reduction shall be compensated by an equivalent rest taken en bloc before the end of the third week following the week in question.
+1998-44
+
+3. In the course of each week, one of the rest periods referred to in paragraphs 1 and 2 shall be extended, by way of weekly rest, to a total of 45 consecutive hours. This rest period May be reduced to a minimum of 36 consecutive hours if taken at the place where the vehicle is normally based or where the driver is based, or to a minimum of 24 consecutive hours if taken elsewhere. Each reduction shall be compensated by an equivalent rest taken en bloc before the end of the third week following the week in question.
 
 4.  A weekly rest period which begins in one week and continues into the following week May be attached to either of these weeks.
 
@@ -298,13 +296,11 @@ Notwithstanding article 8 (1) where a driver engaged in the carriage of goods or
 
 - during both portions of the rest period the driver must be able to have access to a bunk or couchette.
 
-The daily rest period, interrupted in this way, shall be increased by two hours.
-
-Section VI
-
 Transport
 
-1998-44
+1998-44 The daily rest period, interrupted in this way, shall be increased by two hours.
+
+Section VI
 
 Prohibition of Certain Types of Payment
 
@@ -330,13 +326,11 @@ Article 13
 
 (a) vehicles used for carrying passengers, which by virtue of their construction and equipment are suitable for carrying not more than 17 persons, including the driver, and are intended for that purpose;
 
-(b) vehicles used by publics authorities to provide public services which are not in competition with professional road hauliers;
-
-(c) vehicles used by agricultural, horticultural, forestry or fishery undertakings for carrying goods within a 50 kilometre radius of
-
 Transport
 
-1998-44 the place where the vehicle is normally based, including local administrative areas the centres of which are situated within that radius;
+1998-44 (b) vehicles used by publics authorities to provide public services which are not in competition with professional road hauliers;
+
+(c) vehicles used by agricultural, horticultural, forestry or fishery undertakings for carrying goods within a 50 kilometre radius of the place where the vehicle is normally based, including local administrative areas the centres of which are situated within that radius;
 
 (d) vehicles used for carrying animal waste or carcasses which are not intended for human consumption;
 
@@ -356,13 +350,13 @@ that the exception does not seriously prejudice the objectives of the regulation
 
 driving licence;
 
-(k) tractors used exclusively for agricultural and forestry work.
+Transport
+
+1998-44 (k) tractors used exclusively for agricultural and forestry work.
 
 Member states shall inform the Commission of the exceptions granted under this paragraph.
 
-Transport
-
-1998-44 2. Member states May, after authorisation by the Commission, grant exceptions from the application of the provisions of this regulation to transport operations carried out in exceptional circumstances, if such exceptions do not seriously jeopardise the objectives of the regulation.  In urgent cases they May grant a temporary exception for a period not exceeding 30 days, which shall be notified immediately to the Commission. The Commission shall notify the other member states of any exception granted pursuant to this Regulation.
+2. Member states May, after authorisation by the Commission, grant exceptions from the application of the provisions of this regulation to transport operations carried out in exceptional circumstances, if such exceptions do not seriously jeopardise the objectives of the regulation.  In urgent cases they May grant a temporary exception for a period not exceeding 30 days, which shall be notified immediately to the Commission. The Commission shall notify the other member states of any exception granted pursuant to this Regulation.
 
 Section VIII
 
@@ -384,13 +378,11 @@ which are subject to this regulation, a service timetable and a duty roster shal
 
 5.  Each driver assigned to a service referred to in paragraph 1 shall carry an extract from the duty roster and a copy of the service timetable.
 
-6.  The duty roster shall be kept by the undertaking for one year after expiry of the period covered. The undertaking shall give an extract from the roster to the drivers concerned who request it.
-
-7.  This article shall not apply to the drivers of vehicles fitted with recording equipment used in accordance with the provisions of Council Regulation
-
 Transport
 
-1998-44 (EEC) no 3821/85 of 20 December 1985 on recording equipment in road transport (1).
+1998-44 6.  The duty roster shall be kept by the undertaking for one year after expiry of the period covered. The undertaking shall give an extract from the roster to the drivers concerned who request it.
+
+7.  This article shall not apply to the drivers of vehicles fitted with recording equipment used in accordance with the provisions of Council Regulation (EEC) no 3821/85 of 20 December 1985 on recording equipment in road transport (1).
 
 Article 15
 
@@ -410,13 +402,13 @@ Article 17
 
 1. Member states shall, in due time and after consulting the Commission adopt such laws, regulations or administrative provisions as May be necessary for the implementation of this Regulation.  Such measures shall cover, inter alia, the organisation of, procedure for and means of control and the penalties to be imposed in case of breach.
 
-2. Member states shall assist each other in applying this Regulation and in checking compliance therewith.
+Transport
+
+1998-44 2. Member states shall assist each other in applying this Regulation and in checking compliance therewith.
 
 3. Within the framework of this mutual assistance the competent authorities of the member states shall regularly send one another all available information concerning:
 
-Transport
-
-1998-44 - breaches of this Regulation committed by non-residents and any penalties imposed for such breaches;
+- breaches of this Regulation committed by non-residents and any penalties imposed for such breaches;
 
 - penalties imposed by a member state on its residents for such breaches committed in other member states.
 
@@ -440,7 +432,9 @@ This Regulation shall enter into force on 29 September 1986.
 
 This Regulation shall be binding in its entirety and directly applicable in all member states.
 
-Done at Brussels, 20 December 1985.
+Transport
+
+1998-44 Done at Brussels, 20 December 1985.
 
 For the Council
 
@@ -448,9 +442,7 @@ the President
 
 R. Krieps
 
-Transport
-
-1998-44 (1) OJ no 88, 24 5. 1965, p. 1500/65.
+(1) OJ no 88, 24 5. 1965, p. 1500/65.
 
 (2) OJ no C 100, 12. 4. 1984, p. 3, and OJ no C 223, 3. 9. 1985, p. 5.
 
@@ -544,11 +536,9 @@ Article 3
 
 4. In the case of national transport operations, member states may require the installation and use of recording equipment in accordance with this Regulation in any of the vehicles for which its installation and use are not required by paragraph 1.
 
-Chapter II
-
 Transport
 
-1998-44
+1998-44 Chapter II
 
 Type Approval
 
@@ -612,7 +602,9 @@ Article 12
 
 Transport
 
-1998-44 4. For the purpose of certifying that installation of recording equipment took place in accordance with the requirements of this regulation an installation plaque affixed as provided in annex I shall be used.
+1998-44
+
+4. For the purpose of certifying that installation of recording equipment took place in accordance with the requirements of this regulation an installation plaque affixed as provided in annex I shall be used.
 
 Chapter IV
 
@@ -634,11 +626,9 @@ Article 15
 
 2. Drivers shall use the record sheets every day on which they are driving, starting from the moment they take over the vehicle. The record sheet shall not be withdrawn before the end of the daily working period unless its withdrawal is otherwise authorised. No record sheet may be used to cover a period longer than that for which it is intended. When, as a result of being away from the vehicle, a driver is unable to use the equipment fitted to the vehicle, the periods of time indicated in paragraph 3, second indent (b), (c) and (d) below shall be entered on the sheet, either manually, by automatic recording or other means, legibly and without dirtying the sheet.
 
-Drivers shall amend the record sheets as necessary should there be more
-
 Transport
 
-1998-44 than one driver on board the vehicle, so that the information referred to in Chapter II (1) to (3) of annex I is recorded on the record sheet of the driver who is actually driving.
+1998-44 Drivers shall amend the record sheets as necessary should there be more than one driver on board the vehicle, so that the information referred to in Chapter II (1) to (3) of annex I is recorded on the record sheet of the driver who is actually driving.
 
 3. Drivers shall:
 
@@ -670,11 +660,13 @@ Transport
 
 (b) the date and place where use of the sheet begins and the date and place where such use ends;
 
-(c) the registration number of each vehicle to which he is assigned, both at the start of the first journey recorded on the sheet and then, in the event of a change of vehicle, during use of the sheet;
+(c) the registration number of each vehicle to which he is assigned, both at the start of the first journey recorded on the sheet and
 
 Transport
 
-1998-44 (d) the odometer reading:
+1998-44 then, in the event of a change of vehicle, during use of the sheet;
+
+(d) the odometer reading:
 
 - at the start of the first journey recorded on the sheet,
 
@@ -700,13 +692,13 @@ Measures taken by member states pursuant to article 19 may give the competent au
 
 Chapter V
 
-Final Provisions
-
-Article 17
-
 Transport
 
 1998-44
+
+Final Provisions
+
+Article 17
 
 The amendments necessary to adapt the annexes to technical progress shall be adopted in accordance with the procedure laid down in article 18.
 
@@ -730,11 +722,13 @@ Article 19
 
 1. Member states shall, in good time and after consulting the Commission, adopt such laws, regulations or administrative provisions as may be necessary for the implementation of this Regulation.  Such measures shall cover, inter alia, the reorganisation of, procedure for, and means of carrying out, checks on compliance and the penalties to be imposed in case of breach.
 
-2. Member states shall assist each other in applying this regulation and in checking compliance therewith.
-
 Transport
 
-1998-44 3. Within the framework of this mutual assistance the competent authorities of the member states shall regularly send one another all available information concerning:
+1998-44
+
+2. Member states shall assist each other in applying this regulation and in checking compliance therewith.
+
+3. Within the framework of this mutual assistance the competent authorities of the member states shall regularly send one another all available information concerning:
 
 - breaches of this Regulation committed by non-residents and any penalties imposed for such breaches,
 
@@ -766,4 +760,6 @@ p. 29.
 
 (5) OJ No L 334, 24. 12. 1977, p. 11.
 
-(6) see page 1 of this Official Journal.
+Transport
+
+1998-44 (6) see page 1 of this Official Journal.
