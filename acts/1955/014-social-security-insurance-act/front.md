@@ -68,7 +68,7 @@ LN. 1981/106 s. 20, Sch.2
 
 Social Security (Insurance)
 
-1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986
+1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -866,11 +866,13 @@ Finance.
 
 Social insurance Fund.
 
-29.(1) For the purpose of this Act, there shall be established, under the control and management of the Director, a fund called “the Social Insurance Fund,” into which shall be paid all contributions payable under this Act by employers and insured persons and out of which shall be paid all claims for benefit under this Act or for unemployment benefit under the Social Security (Non-Contributory Benefits and Unemployment Insurance) Act, including, notwithstanding the provisions of section 5 of the European Communities Act, claims for such benefits payable by reason of Gibraltar’s obligations under the Regulations of the Council of the European Communities on the application of social security schemes to employed persons and their families moving within the Community and, subject to the provisions of subsection (5) of this section, all expenses incurred with the administration of this Act.
+29.(1) For the purpose of this Act, there shall be established, under the control and management of the Director, a fund called “the Social Insurance Fund,” into which shall be paid all contributions payable under this Act by employers and insured persons and all moneys received by the Government of Gibraltar from time to time by way of grants from Her Majesty's Government in the United Kingdom in aid of the Social Insurance Fund and out of which shall be paid all claims for benefit under this Act or for unemployment benefit under the Social Security (Non-Contributory Benefits and Unemployment Insurance) Act, including, notwithstanding the provisions of section 5 of the European Communities Act, claims for such benefits payable by reason of Gibraltar’s obligations under the Regulations of the Council of the European Communities on the application of social security schemes to employed persons and their families moving within the Community and, subject to the provisions of subsection (5) of this section, all expenses incurred with the administration of this Act.
 
 Social Security (Insurance)
 
-1955-14 (2)  If at any time the balance to the credit of the Fund be insufficient to meet wholly or in part the payments chargeable to the Fund, such balance shall be supplemented by temporary advances from the Consolidated Fund.
+1955-14
+
+(2)  If at any time the balance to the credit of the Fund be insufficient to meet wholly or in part the payments chargeable to the Fund, such balance shall be supplemented by temporary advances from the Consolidated Fund.
 
 (3)  Accounts of the Fund shall be prepared in such form, in such manner and at such times as the Financial and Development Secretary may direct, and the Principal Auditor shall examine and certify every such account.
 
@@ -898,7 +900,9 @@ Social Insurance Advisory committee.
 
 Social Security (Insurance)
 
-1955-14 (4)  The Director shall furnish the Committee with such information as they may reasonably require for the proper discharge of their functions under this Act.
+1955-14
+
+(4)  The Director shall furnish the Committee with such information as they may reasonably require for the proper discharge of their functions under this Act.
 
 Determination of claims and questions by Director.
 
