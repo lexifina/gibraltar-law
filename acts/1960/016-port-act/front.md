@@ -18,6 +18,10 @@ Act. 1974-37 s.7(2), (2A)
 
 1982-15 ss. 7(7), 8(2), 12(1A), (2)-(3), 12, 13(2), 14-15, 18A, 19
 
+1991-24 ss. 7(7), 8(2), 9(2)-(3), 12(3), 14- 15, 18(10), 19(j)
+
+18.7.1991
+
 Power to Depute
 
 The power to depute conferred by s.41 of the Interpretation and General Clauses Act has been extended to the Captain of the Port in relation to the Port Act
