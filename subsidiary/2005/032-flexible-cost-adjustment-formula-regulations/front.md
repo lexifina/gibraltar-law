@@ -1,11 +1,19 @@
-Gibraltar Electricity Authority FLEXIBLE COST ADJUSTMENT FORMULA REGULATIONS 2005
+Subsidiary Legislation made under ss.10 & 14.
 
-2003-02
+Flexible Cost Adjustment Formula Regulations 2005
 
-Subsidiary 2005/032 Regulations made under s. 10 and 14 of the Gibraltar Electricity Authority Act 2003.
+LN.2005/032
 
-FLEXIBLE COST ADJUSTMENT FORMULA REGULATIONS 2005
+Commencement 17.3.2005
 
-(LN. 2005/032)
+Amending enactments Relevant current provisions Commencement date
 
-17.3.2005
+LN. 2005/062 r.3(1) 31.3.2005
+
+_______________________
+
+ARRANGEMENT OF REGULATIONS
+
+Regulation
+
+1. Title. 2. Interpretation. 3. Calculation of Additional Unit Charge.
