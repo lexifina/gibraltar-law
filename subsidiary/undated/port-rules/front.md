@@ -52,7 +52,7 @@ Port PORT RULES
 
 Subsidiary 1960.08.11 1987/097 rr. 117B(1), (5)-(6), 117J(1), Sch. 2A
 
-4.6.1987 1987/112 rr. 2, 117A-117O, Sch. 2A 16.7.1987 1987/135 Sch. 4 1.1.1988 1988/161 Sch. 4 29.12.1988 1991/033 Sch. 4 1.4.1990
+4.6.1987 1987/112 rr. 2, 117A-117O, Sch. 2A 16.7.1987 1987/135 Sch. 4 1.1.1988 1988/161 Sch. 4 29.12.1988 1991/033 Sch. 4 1.4.1990 1990/190 rr. 12A, 102A, Sch. 4 1.1.1991
 
 Port PORT RULES
 
@@ -114,7 +114,7 @@ Port PORT RULES
 
 Subsidiary 1960.08.11 General Regulations as to Vessels in Port.
 
-96. Equipment of boats. 97. Master not to refuse hire. 98. Supply of tarpaulin. 99. Boats not to approach or make fast to ships without permission. 100. Boatman to obey orders. 101. Small vessels not to go alongside ships under way. 102. Supply of liquor to persons on board. 103. Hawking and trading. 104. Employment of persons on trading vessels, etc. 105. Offences by bumboatmen. 106. No movement at night without permission. 107. Small craft to give way. 108. Small vessels to keep clear of harbour tugs. 109. Row boats to give way to sailing boats. 110. Small vessels to carry lights. 111. Approaches to wharves, landing places and ships ladders to be kept clear. 112. Mooring of small vessels. 113. Small vessels sunk in the port. 114. Liability of the Captain of the Port. 115. Suspension of licence for misconduct. 116. Offences by owners and masters. 117. Penalties.
+96. Equipment of boats. 97. Master not to refuse hire. 98. Supply of tarpaulin. 99. Boats not to approach or make fast to ships without permission. 100. Boatman to obey orders. 101. Small vessels not to go alongside ships under way. 102. Supply of liquor to persons on board. 102A. Supply of stores. 103. Hawking and trading. 104. Employment of persons on trading vessels, etc. 105. Offences by bumboatmen. 106. No movement at night without permission. 107. Small craft to give way. 108. Small vessels to keep clear of harbour tugs. 109. Row boats to give way to sailing boats. 110. Small vessels to carry lights. 111. Approaches to wharves, landing places and ships ladders to be kept clear. 112. Mooring of small vessels. 113. Small vessels sunk in the port. 114. Liability of the Captain of the Port. 115. Suspension of licence for misconduct. 116. Offences by owners and masters. 117. Penalties.
 
 PART IVA.-FAST LAUNCHES
 
@@ -122,13 +122,13 @@ PART IVA.-FAST LAUNCHES
 
 PART V.–DANGEROUS GOODS OR EXPLOSIVES.
 
-118. Master to give notice of explosives or dangerous goods on board. 119. Exemption. 120. Berthing of vessels carrying explosives. 121. Bunkering of vessels carrying explosives. 122. Discharge of vessels carrying explosives. 123. Notice of loading and unloading explosives. 124. Hulk or lighter. 125. Red flag to be exhibited. 126. Fires and use of radar prohibited. 127. Smoking and certain wearing apparel prohibited. 128. Drunkenness. 129. Explosives to be covered. 130. Escaping explosives.
+118. Master to give notice of explosives or dangerous goods on board. 119. Exemption. 120. Berthing of vessels carrying explosives. 121. Bunkering of vessels carrying explosives. 122. Discharge of vessels carrying explosives. 123. Notice of loading and unloading explosives. 124. Hulk or lighter. 125. Red flag to be exhibited. 126. Fires and use of radar prohibited. 127. Smoking and certain wearing apparel prohibited. 128. Drunkenness. 129. Explosives to be covered.
 
 Port PORT RULES
 
 1960-16
 
-Subsidiary 1960.08.11 131. Method of handling explosives. 132. Only explosives to be handled at one time. 133. General precautions to be observed. 134. Supervision. 135. Permits to land explosives. 136. Special permit when Abel test applied. 137. Hours during which explosives may be handled. 138. Control of quantity of explosives. 139. Detonators, etc. 140. Liability for expenses. 141. Notice to be given to the Captain of the Port. 142.  Control by Captain of the Port of places where explosives may be loaded, etc. 143.  Vessels to be ready to receive explosives. 144.  Inspection and examination. 145.  Petroleum. 146.  Carbide. 147.  Bunkering. 148.  Permission to be in writing. 149.  Bunkering prohibited while vessel loading or discharging explosive;. 150.  Rules not to apply to vessels in Admiralty waters. 151.  Offences.
+Subsidiary 1960.08.11 130. Escaping explosives. 131. Method of handling explosives. 132. Only explosives to be handled at one time. 133. General precautions to be observed. 134. Supervision. 135. Permits to land explosives. 136. Special permit when Abel test applied. 137. Hours during which explosives may be handled. 138. Control of quantity of explosives. 139. Detonators, etc. 140. Liability for expenses. 141. Notice to be given to the Captain of the Port. 142.  Control by Captain of the Port of places where explosives may be loaded, etc. 143.  Vessels to be ready to receive explosives. 144.  Inspection and examination. 145.  Petroleum. 146.  Carbide. 147.  Bunkering. 148.  Permission to be in writing. 149.  Bunkering prohibited while vessel loading or discharging explosive;. 150.  Rules not to apply to vessels in Admiralty waters. 151.  Offences.
 
 PART VI.–CONTROL OF PORT AREAS.
 
@@ -138,7 +138,9 @@ Port PORT RULES
 
 1960-16
 
-Subsidiary 1960.08.11 PART VII.–PORT CHARGES.
+Subsidiary 1960.08.11
+
+PART VII.–PORT CHARGES.
 
 171.  Port charges. 172.  Exemption.
 
