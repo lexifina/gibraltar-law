@@ -12,7 +12,7 @@ Commencement 1.11.1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1992/099 Sch. 2 1.8.1992
+LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
@@ -68,13 +68,17 @@ Description of Licence Fee £ Duration of and Conditions of Licence and how paya
 
 Per annum, issuable for one year; fee payable yearly in advance.
 
-not more than £1,000 per annum 100.00 rated from £1,001 to £2,000 150.00
+not more than £1,000 per annum 100.00
+
+rated from £1,001 to £2,000 150.00
 
 rated from £2,001 to £3,000 200.00
 
 rated from £3,001 to £5,000 250.00
 
-rated above £5,000 300.00 8 Manufacturer's licence (Section 9) 40.00 Per annum, issuable for one year; fee payable yearly in advance. 9 Occasional licence to sell alcoholic liquor (Section 23) 5.00 per diam, issuable for any period not exceeding seven days; fee payable in advance. The licence authorises the holder thereof to sell during such hours and upon such terms and conditions as may be specified in the licence, the same articles that he may sell on his licensed premises. 10 Tavern licence:- (Section 14) For any premises whose net annual value is rated at not more than £250 per annum 160.00 Per annum, issuable for one year; fee payable yearly in advance. rated from £251 to £500 200.00
+rated above £5,000 300.00 8 Manufacturer's licence (Section 9) 40.00 Per annum, issuable for one year; fee payable yearly in advance. 9 Occasional licence to sell alcoholic liquor (Section 23) 5.00 per diam, issuable for any period not exceeding seven days; fee payable in advance. The licence authorises the holder thereof to sell during such hours and upon such terms and conditions as may be specified in the licence, the same articles that he may sell on his licensed premises. 10 Tavern licence:- (Section 14) For any premises whose net annual value is rated at not more than £250 per annum 160.00 Per annum, issuable for one year; fee payable yearly in advance.
+
+rated from £251 to £500 200.00
 
 rated from £501 to £1,000 260.00
 
@@ -98,13 +102,13 @@ PART II. - OTHER LICENCES.
 
 1 Auctioneer's licence (Section 27) 30.00 Per annum, issuable for one year; fee payable yearly in advance. 2 Baker's licence (Section 28) 12.00 Per annum, issuable for one year; fee payable yearly in advance. 3 Broker's licence (Section 28) 12.00 Per annum, issuable for one year; fee payable yearly in advance. 4 Cigar and cigarette manufacturer's licence (Section 25(2)) 50.00 Per annum, issuable for one year; fee payable yearly in advance. The licence authorises the holder to manufacture cigars and cigarettes only. 5 Porter's licence (Section 28) 1.00 Per annum, issuable for one year; fee payable yearly in advance. 6 Tobacco manufacturer's licence (Section 25(2).) 80.00 Per annum, issuable for one year; fee payable yearly in advance. The licence authorises the holder to chop and manufacture tobacco including cigars and cigarettes. 7 (a) Tobacconist's licence( Section 25(1).) 24.00 per annum; issuable for one year; fee payable yearly in advance; the licence authorises the holder to sell tobacco manufactured or unmanufactured by wholesale or retail.
 
-(b) Tobacconist's occasional licence (Section 23) 0.50 per diam; issuable for any period not exceeding seven days; fee payable in advance. The licence authorises the holder to sell tobacco, manufactured or unmanufactured, on such terms and conditions as may be specified in the licence. 8 Traveller's licence to sell tobacco (Section 22) 20.00 for each licence which covers a period not exceeding one month's from date of issue.
+(b) Tobacconist's occasional licence (Section 23) 0.50 per diam; issuable for any period not exceeding seven days; fee payable in advance. The licence authorises the holder to sell tobacco, manufactured or unmanufactured, on such terms and conditions as may be specified in the licence.
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
 1961-29
 
-Subsidiary 1991/205 9 Travellers licence to sell perfumed spirits (Section 22) 10.00 for each licence which covers a period not exceeding fourteen days from date of issue.
+Subsidiary 1991/205 8 Traveller's licence to sell tobacco (Section 22) 20.00 for each licence which covers a period not exceeding one month's from date of issue. 9 Travellers licence to sell perfumed spirits (Section 22) 10.00 for each licence which covers a period not exceeding fourteen days from date of issue.
 
 5.00 for each licence which covers a period not exceeding one month's from date of issue. 10 Amusement machine licence (Section 29A). 50.00 for each licence which covers a period not exceeding fourteen days from date of issue. 11 Video lending licence (Section 29B) 25.00 Per annum, issuable for one year; fee payable yearly in advance. 12 Transfer fees (section 30)
 
