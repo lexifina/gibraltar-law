@@ -10,11 +10,13 @@ Act. No. 1960-10 Commencement 1.7.1961
 
 Enactment 7.7.1960
 
+Amending enactments Relevant current provisions Commencement date Acts. 1989-17 ss. 4(3), 5(2), 6(2) and 9(1) 10.8.1989
+
 English source Explosives Act 1875 (38 & 39 Vict. c.17)
 
-______________________________
+Explosives
 
-ARRANGEMENT OF SECTIONS.
+1960-10 ARRANGEMENT OF SECTIONS.
 
 Section
 
