@@ -1,0 +1,11 @@
+SCHEDULE 1 s. 39(3) States Party to the EEA Agreement
+
+1.  European Union States–
+
+The Republic of Austria The Kingdom of Belgium The Republic of Cyprus The Czech Republic The Kingdom of Denmark The Republic of Estonia The Republic of Finland The French Republic The Federal Republic of Germany The Hellenic Republic The Republic of Hungary Ireland The Italian Republic The Republic of Latvia The Republic of Lithuania The Grand Duchy of Luxembourg The Republic of Malta The Kingdom of the Netherlands The Republic of Poland The Portuguese Republic The Slovak Republic The Republic of Slovenia The Kingdom of Spain The Kingdom of Sweden The United Kingdom of Great Britain and Northern Ireland.
+
+2.  European Free Trade Association States–
+
+The Kingdom of Norway The Republic of Iceland The Principality of Liechtenstein
+
+_____________________________
