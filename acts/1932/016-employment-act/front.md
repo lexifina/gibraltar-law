@@ -22,7 +22,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1935-08 s
 
 Employment
 
-1932-16
+1932-16 1989-23 ss. 48-51, 52A-52G, 81(1) 10.8.1989
 
 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
 
@@ -52,21 +52,25 @@ Employment
 
 Employment
 
-1932-16 Payment of Wages. 44. Wages to be paid to the employee. 45. Wages to be paid at regular intervals. PART V. CONTRACTS OF EMPLOYMENT. Duration. 46. Duration of contracts. Remuneration. 47. Remuneration other than wages. Equal treatment of men and women 48. Requirement of equal treatment for men and women. 49. Removal of discrimination from collective agreements. 50. Enforcement. 51. Saving. Notification. 52. Statements to be given to employees.
+1932-16 Payment of Wages. 44. Wages to be paid to the employee. 45. Wages to be paid at regular intervals. PART V. CONTRACTS OF EMPLOYMENT. Duration. 46. Duration of contracts. Remuneration. 47. Remuneration other than wages. 48. Repealed. 49. Repealed. 50. Repealed. 51. Repealed. Notification. 52. Statements to be given to employees.
 
-PART VI. TERMINATION OF EMPLOYMENT. General. 53. Probationary employment. 54. Notice to terminate contract. 55. Compensation. 56. Exceptions to sections 54 and 55. 57. Incapacity of employee. 58. Certificates of service. Right not to be Dismissed Unfairly. 59. Right not to be dismissed unfairly. 60. Qualifications as to length of service and age. 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term.
+PART VA. SEX DESCRIMINATION.
+
+52A. Principle of equal treatment. 52B. Application of the principle of equal treatment. 52C. Principle of equal pay. 52D. Laws, etc. contrary to the principles cease to have effect. 52E. Enforcement of the principles. 52F. Remedies on complaint. 52G. Employer’s duty to bring principles to notice of employees.
+
+PART VI. TERMINATION OF EMPLOYMENT. General. 53. Probationary employment. 54. Notice to terminate contract. 55. Compensation. 56. Exceptions to sections 54 and 55. 57. Incapacity of employee. 58. Certificates of service.
 
 Employment
 
-1932-16 Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Industrial Tribunal. 70. Complaints and recommendations. 71. Basis for assessment of compensation. 72. Calculation of compensation. 73. Contribution by third party.
+1932-16 Right not to be Dismissed Unfairly. 59. Right not to be dismissed unfairly. 60. Qualifications as to length of service and age. 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Industrial Tribunal. 70. Complaints and recommendations. 71. Basis for assessment of compensation. 72. Calculation of compensation. 73. Contribution by third party.
 
 PART VIA Collective redundancies
 
-74. Interpretation and application. 75. Duty of employer to consult trade union representatives. 76. Duty to notify Director. 77. Prohibition of contracting out. 78. Offences. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Rules. 88. Rules of court.
+74. Interpretation and application. 75. Duty of employer to consult trade union representatives. 76. Duty to notify Director. 77. Prohibition of contracting out. 78. Offences. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions.
 
 Employment
 
-1932-16 The Crown. 89. The Crown. Schedule 1. Matters to be included in contracts. . Schedule 2. Conventions.
+1932-16 85. Appearances. Rules and Regulations. 86. Regulations. 87. Rules. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Matters to be included in contracts. . Schedule 2. Conventions.
 
 Employment
 
