@@ -1,22 +1,20 @@
 SCHEDULE 1
 
-Section 49 MEMBER STATES 1
+Section 49 MEMBER STATES
 
-Belgium Denmark Eire France Holland Italy Luxembourg United Kingdom West Germany
+The Kingdom of Belgium The Kingdom of Denmark The Federal Republic of Germany The Hellenic Republic The French Republic Ireland The Italian Republic The Grand Duchy of Luxembourg The Kingdom of the Netherlands The United Kingdom of Great Britain and Northern Ireland.
 
-1. Notwithstanding anything contained in sections 39 to 51, a person who is:
+1. Notwithstanding anything contained in Part IX a person who is:
 
-(a) a national of France solely by birth in or other connection with a French Overseas dependent territory; or
+(a) a national of the French Republic solely by birth in or other connection with a French Overseas dependent territory; or
 
-(b) a national of Holland solely by birth in or other connection with Surinam or the Antilles, shall not have any of the rights conferred  by those sections.
+(b) a national of the Kingdom of the Netherlands solely by birth in or other connection with Surinam or the Antilles, shall not have any of the rights conferred  by Part IX.
 
-2. For the purposes of sections 39 to 51 a national of the United Kingdom shall mean a person who has a right of abode in the United Kingdom and either-
+2. For the purposes of Part IX a national of the United Kingdom shall mean a person who has a right of abode in the United Kingdom and either-
 
-(a) is a British citizen, British Dependent Territories citizen or British Overseas citizen; or
+(a) is a British Citizen, a British Dependent Territories Citizen or a British Overseas Citizen; or
 
-(b) is a British subject and neither a British citizen, British Dependent Territories citizen or British Overseas citizen nor a citizen of any Commonwealth country or territory.
-
-1 Greece became a member on 1 January 1981 but the Act has not yet been extended to that state.
+(b) is a British subject and neither a person defined in sub- paragraph (a) hereof nor a citizen of any Commonwealth country or territory.
 
 Immigration Control
 
