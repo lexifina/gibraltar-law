@@ -1,22 +1,16 @@
-Food and Drugs SPECIFIED SUGAR PRODUCTS REGULATIONS, 1987
+Subsidiary Legislation made under ss. 6, 8 and 58.
 
-1964-07
+Specified Sugar Products Regulations, 1987
 
-Subsidiary 1987/050 Regulations made under sections 6, 8 and 58.
+LN.1987/050
 
-SPECIFIED SUGAR PRODUCTS REGULATIONS, 1987
+Commencement 1.8.1987
 
-(LN. 1987/050)
+Amending enactments Relevant current provisions Commencement date
 
-1.8.1987
+LN. 1990/061 r. 2 1.7.1990
 
-EU Legislation/International Agreements involved:
-
-Directive 79/786/EEC
-
-______________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -27,7 +21,3 @@ Regulation
 SCHEDULE 1.
 
 SCHEDULE 2.
-
-SCHEDULE 3.
-
-Food and Drugs SPECIFIED SUGAR PRODUCTS REGULATIONS, 1987
