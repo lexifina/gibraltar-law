@@ -70,7 +70,7 @@ Social Security (Insurance)
 
 1955-14 Act. 1985-15 ss.41(2)(b), 41(2A) 28.6.1985 LN. 1985/134 s. 20(a), Sch.2 24.12.1985 “ Sch.1 6.1.1986 Act. 1986-05 s. 29(1) 27.3.1986 LN. 1986/129 s. 20(a), Sch.2 23.12.1986 “ Sch.1 5.1.1987 1987/165 s. 20(a), Sch.2 29.12.1987 “ Sch.1 4.1.1988 Act. 1988-10 s. 29(2) 23.6.1988 1988-23 ss. 2(1), 29(1), 52(1)-(3) 24.11.1988 LN. 1988/150 Sch.1 2.1.1989 1990/187 Sch.1 27.12.1990 Act. 1993-20 s. 53 1.4.1993 LN. 1993/191 ss. 2, 6, 10, 10A, 13-14, 14A, 15- 16, 16A, 17, 19-25, 28-29, 52. Schs.1-3.
 
-1.1.1994
+1.1.1994 1993/190 Sch.1 3.1.1994
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -1018,13 +1018,17 @@ Males and females who have attained the age of 18 years.
 
 Males and females who have attained the age of 15 years but are under 18 years.
 
-By the insured person By the employer £ £6.44
+Males and females who are members of the Gibraltar Regiment
 
-£4.86
+By the insured person By the employer £ £1.44
 
-£ £6.44
+£1.36
 
-£4.87
+£8.32 £ £1.44
+
+£1.37
+
+£0.44
 
 Where the person employed is over pensionable age or is a married woman or widow who has elected not to make contributions or receive benefits, only the employer's share of the contribution is payable.
 
@@ -1036,7 +1040,7 @@ Weekly rate of Contribution by insured person
 
 Males and females who have attained the age of 15 years
 
-£8.30
+£1.44
 
 Social Security (Insurance)
 
