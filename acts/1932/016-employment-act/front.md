@@ -22,7 +22,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1935-08 s
 
 Employment
 
-1932-16 1989-23 ss. 48-51, 52A-52G, 81(1) 10.8.1989 1989-33 s. 62(1)(a)-(c) 23.11.1989 1991-10 s. 21(3)(b)-(d) 8.8.1991 1991-35 ss. 28(1)-(2), 32(1)-(7), 43, 78, 81, 86, 89(3) 12.12.1991
+1932-16 1989-23 ss. 48-51, 52A-52G, 81(1) 10.8.1989 1989-33 s. 62(1)(a)-(c) 23.11.1989 1991-10 s. 21(3)(b)-(d) 8.8.1991 1991-35 ss. 28(1)-(2), 32(1)-(7), 43, 78, 81, 86, 89(3) 12.12.1991 1991-10 ss. 71(1) , 72 9.4.1992
 
 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
 
