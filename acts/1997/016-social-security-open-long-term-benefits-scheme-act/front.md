@@ -12,7 +12,7 @@ Assent 10.4.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/167 Sch.1 30.12.1997
+LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999
 
 English sources None cited
 
