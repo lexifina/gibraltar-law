@@ -10,7 +10,7 @@ EDUCATIONAL AWARDS REGULATIONS, 1990
 
 Amending enactments Relevant current provisions Commencement date
 
-LNs. 1991/213 r.15 and Sch. 2 1.9.1991 1992/106 r.15 and Sch. 2 1.9.1992 1993/139 r. 15(1) and Sch. 2 1.9.1993 1994/089 r.15 and Sch. 2 1.9.1994 1997/142 r.15(1), Schs.2 and 3 1.9.1997
+LNs. 1991/213 r.15 and Sch. 2 1.9.1991 1992/106 r.15 and Sch. 2 1.9.1992 1993/139 r. 15(1) and Sch. 2 1.9.1993 1994/089 r.15 and Sch. 2 1.9.1994 1997/142 r.15(1), Schs.2 and 3 1.9.1997 1999/095 Sch. 3 1.7.1999
 
 Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
 
