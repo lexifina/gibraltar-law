@@ -12,7 +12,7 @@ Commencement 1.11.1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992
+LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
