@@ -12,7 +12,7 @@ SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 1
 
 Amending enactments Relevant current provisions Commencement date
 
-Act.   1997-13 r. 10 1.10.1996
+Act.   1997-13 r. 10 1.10.1996 LN.  2002/003 r. 7 1.1.2002
 
 Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 1996
 
