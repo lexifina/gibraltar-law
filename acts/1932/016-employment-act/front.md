@@ -26,11 +26,11 @@ Employment
 
 14.2.1994 1994/098 ss. 2, 74(1), (3)-(5), 75(1)-(5), (7)- (8), 76(1)-(2), (8), 78A-78H, 78J- 78K
 
-24.6.1994 1994/103 s. 74(5)(a)(ii) 24.6.1994 Act. 1999-04 s. 89(1) 24.6.1994 LN. 2000/045 s. 17(6)(b) 24.6.1994
+24.6.1994 1994/103 s. 74(5)(a)(ii) 24.6.1994 Act. 1999-04 s. 89(1) 24.6.1994 LN. 2000/045 s. 17(6)(b) 24.6.1994 1994/098 ss. 26A, 61(1)(a)-(b) 22.9.1994
 
 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
 
-Transposing: Directive 91/533/EEC Regulation 1612/68
+Transposing: Directive 77/187/EEC Directive 91/533/EEC Directive 92/56/EEC Regulation 1612/68
 
 Employment
 
@@ -50,11 +50,11 @@ Employment
 
 Section
 
-PART I. PRELIMINARY. 1. Short title. 2. Interpretation. PART II. STATUTORY BODIES AND ADMINISTRATION. The Manpower Planning Committee 3. Establishment and membership of the Manpower Planning Committee. 4. Functions. The Control of Employment Appeals Tribunal 5. Establishment and procedure of Control of Employment Appeals Tribunal. The Conditions of Employment Board. 6. Establishment and membership of Conditions of Employment Board. 7. Functions. 8. Power to summon witnesses, etc. Joint Industrial Councils. 9. Registration of Joint Industrial Councils. 10. Functions. 11. Duty to supply copies of records. The Industrial Tribunal. 12. Power to establish an Industrial Tribunal. 13. Appeals. Employment Exchanges. 14. Repealed 15. Keeping of registers. 16. Appointment of inspectors.
+PART I. PRELIMINARY. 1. Short title. 2. Interpretation. PART II. STATUTORY BODIES AND ADMINISTRATION. The Manpower Planning Committee 3. Establishment and membership of the Manpower Planning Committee. 4. Functions. The Control of Employment Appeals Tribunal 5. Establishment and procedure of Control of Employment Appeals Tribunal. The Conditions of Employment Board. 6. Establishment and membership of Conditions of Employment Board. 7. Functions. 8. Power to summon witnesses, etc. Joint Industrial Councils. 9. Registration of Joint Industrial Councils. 10. Functions. 11. Duty to supply copies of records. The Industrial Tribunal. 12. Power to establish an Industrial Tribunal. 13. Appeals. Employment Exchanges. 14. Repealed. 15. Keeping of registers. 16. Appointment of inspectors.
 
 Employment
 
-1932-16 17. Powers and duties of inspectors. PART III. RESTRICTIONS ON EMPLOYMENT. 18. Interpretation. 19. Application. 20. Requirement in respect of work permits. 21. Repealed. 22. Repealed. 23. Repealed. 24. Return of permits. 25. Issue of certificates of employment. 26. Surrender of certificates. 26A. Detached workers. 27. Power to require returns. 28. Offences and penalties. Women, Young Persons and Children. 29. Interpretation. 30. Restriction on employment in industrial undertakings. 31. Restriction on employment in ships. 32. Offences. 33. Saving. PART IV. CONDITIONS OF EMPLOYMENT. Recommendations and Orders. 34. References to Conditions of Employment Board. 35. Investigation, etc. 36. Powers of Governor. 37. Scope of orders. 38. Exhibition of orders. Recognised Conditions. 39. Recognised conditions of employment. 40. Exceptions for employer’s family. 41. Authorization of overtime outside recognised conditions. 42. Special conditions for aged, disabled and infirm workers. 43. Offences. Payment of Wages.
+1932-16 17. Powers and duties of inspectors. PART III. RESTRICTIONS ON EMPLOYMENT. 18. Interpretation. 19. Application. 20. Requirement in respect of work permits. 21. Repealed. 22. Repealed. 23. Repealed. 24. Return of permits. 25. Issue of certificates of employment. 26. Surrender of certificates. 26A. Repealed. 27. Power to require returns. 28. Offences and penalties. Women, Young Persons and Children. 29. Interpretation. 30. Restriction on employment in industrial undertakings. 31. Restriction on employment in ships. 32. Offences. 33. Saving. PART IV. CONDITIONS OF EMPLOYMENT. Recommendations and Orders. 34. References to Conditions of Employment Board. 35. Investigation, etc. 36. Powers of Governor. 37. Scope of orders. 38. Exhibition of orders. Recognised Conditions. 39. Recognised conditions of employment. 40. Exceptions for employer’s family. 41. Authorization of overtime outside recognised conditions. 42. Special conditions for aged, disabled and infirm workers. 43. Offences. Payment of Wages.
 
 Employment
 
@@ -80,7 +80,7 @@ PART VIB Transfer of Undertakings
 
 Employment
 
-1932-16 Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Repealed. Schedule 2. Conventions.
+1932-16 Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Chairperson Oath. Schedule 2. Conventions.
 
 Employment
 
