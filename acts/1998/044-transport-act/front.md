@@ -18,7 +18,7 @@ Assent
 
 Amending enactments Relevant current provisions Commencement date
 
-Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  50(1), 50(1A), 50(2), 67, Sch. 1 12(3)(b)(i) and 12(3)(c)(v). 21.1.2003
+Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  50(1), 50(1A), 50(2), 67, Sch. 1 12(3)(b)(i) and 12(3)(c)(v). 21.1.2003 2003-17 ss. 17(4), 17(8) and 17(9) 1.8.2003
 
 English sources None cited
 
