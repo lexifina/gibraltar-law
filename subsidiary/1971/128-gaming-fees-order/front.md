@@ -11,3 +11,5 @@ GAMING (FEES) ORDER
 Amending enactments Relevant current provisions Commencement date
 
 LN. 1976/037 paras. 3-4, Sch.
+
+1991/156 Sch. 8.8.1991
