@@ -72,7 +72,7 @@ Social Security (Insurance)
 
 1.1.1994 1993/190 Sch.1 3.1.1994 1997/166 Sch.1. 30.12.1997 Act. 1999-27* ss. 2(1), 3(3), 7(4), 8(2), 9(1), 10(1)(a), 11, 11A, 12, 18(5), 21, 27(1)-(2), 30, 33(2)-(3), (6), 40(1), 41(1), 47(2), 48, 49(1).
 
-5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004
+5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -1054,15 +1054,15 @@ Persons who have attained the age of 15 years but are under 18 years
 
 Males and Females who are members of the Gibraltar Regiment
 
-By the insured person By the employer £ 0.17
+By the insured person By the employer £ 0.50
 
-0.17
+0.50
 
-10.02 £ 0.17
+10.47 £ 0.50
 
-0.17
+0.50
 
-0.84
+1.98
 
 Where the person employed is over pensionable age or is a married woman or widow who has elected not to make contributions or receive benefits, only the employer’s share of the contribution is payable.
 
@@ -1074,7 +1074,7 @@ Weekly rate of Contribution by insured person
 
 Persons who have attained the age of 15 years
 
-£ 0.17
+£ 0.50
 
 Social Security (Insurance)
 
