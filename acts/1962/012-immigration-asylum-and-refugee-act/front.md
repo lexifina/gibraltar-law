@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 8.3.1993 “ ss. 2, 39, 44, 1.7.1993 2000-08 ss. 2(1), 3, 14(1A), 23(1), 39-50K, 65, Schs.1, 2
 
-27.7.2000 2000-16 s. 18(1), (3) 12.10.2000 2001-14 s. 11 7.6.2001
+27.7.2000 2000-16 s. 18(1), (3) 12.10.2000 2001-14 s. 11 7.6.2001 2002-14 ss. 61, 63(2)-(5), 63A(1) 16.12.2002
 
 Immigration Control
 
@@ -106,11 +106,13 @@ Arrest, detention and removal.
 
 Offences.
 
-62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 64. Landing without permit or certificate. 65. Offences by Community nationals. 66. Other offences.
+62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. 64. Landing without permit or certificate. 65. Offences by Community nationals. 66. Other offences.
 
 Immigration Control
 
-1962-12 Rules.
+1962-12
+
+Rules.
 
 67. Rules.
 
