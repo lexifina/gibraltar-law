@@ -10,7 +10,9 @@ Act. No. 1990-54 Commencement (LN.1991/093) 23.5.1991
 
 Assent 22.11.1990
 
-Amending enactments Relevant current provisions Commencement date Act. 1991-33 s.2(4)(a) 12.12.1991 LN. 1993/113 Schs. 1, 2 and 4 1.7.1993
+Amending enactments Relevant current provisions Commencement date Act. 1991-33 s.2(4)(a) 12.12.1991 LN. 1993/113 Schs. 1, 2 and 4 1.7.1993 Act. 1998-11 Sch. 1 29.1.1998
+
+Implementing: Regulation (EC) No. 338/97 Regulation (EC) No. 939/97
 
 Endangered Species
 
