@@ -30,7 +30,7 @@ Amending Enactments Relevant current provisions Commencement date LN. 1996/009 C
 
 ss. 2(1)(2), 26(1), 27(3), 30(3), (7), 60(5), (6), (7), (8), (9), (10), 68
 
-10.12.1998
+10.12.1998 2001-09 s. 43A 5.4.2001
 
 English sources: Police and Criminal Evidence Act 1984 (c.60) (ss. 10, 11, 12 and 13 ) Drug Trafficking Act 1994 (c. 37) ( ss. 1(1), 1(2), 1(3), 1(4), 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 59 and 61)
 
@@ -58,7 +58,7 @@ Drug Trafficking Offences
 
 PART III. MUTUAL LEGAL ASSISTANCE.
 
-37. Service of overseas process in Gibraltar. 38. Service of Gibraltar process overseas. 39. Overseas evidence for use in Gibraltar. 40. Gibraltar evidence for use overseas. 41.  Transfer of Gibraltar prisoner to give evidence or assist investigation overseas. 42.  Transfer of overseas prisoner to give evidence or assist investigation in Gibraltar. 43. Search, etc., for material relevant to overseas investigation. 44. Enforcement of overseas forfeiture orders. 45. Rules of court. 46. Enforcement of external orders. 47. Registration of external confiscation orders.
+37. Service of overseas process in Gibraltar. 38. Service of Gibraltar process overseas. 39. Overseas evidence for use in Gibraltar. 40. Gibraltar evidence for use overseas. 41.  Transfer of Gibraltar prisoner to give evidence or assist investigation overseas. 42.  Transfer of overseas prisoner to give evidence or assist investigation in Gibraltar. 43. Search, etc., for material relevant to overseas investigation. 43A. 44. Enforcement of overseas forfeiture orders. 45. Rules of court. 46. Enforcement of external orders. 47. Registration of external confiscation orders.
 
 PART IV. DRUG TRAFFICKING MONEY IMPORTED OR EXPORTED IN CASH.
 
@@ -70,7 +70,9 @@ PART V. OFFENCES IN CONNECTION WITH PROCEEDS OF DRUG TRAFFICKING
 
 Drug Trafficking Offences
 
-1995-06 PART VI. MISCELLANEOUS AND SUPPLEMENTAL.
+1995-06
+
+PART VI. MISCELLANEOUS AND SUPPLEMENTAL.
 
 60. Order to make material available. 61. Authority for search. 62. Access and copying. 63. Retention. 64. Disclosure of information held by the Crown. 65. Offence of prejudicing investigation. 66. Extension of certain offences to Crown servants and exemptions for regulators, etc. 67. Authorisation of delay in notifying arrest. 68. Power to make regulations. 69. Repeal of the Drug Trafficking Offences Act,1988.
 
