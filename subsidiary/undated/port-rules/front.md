@@ -44,7 +44,7 @@ Amending enactments Relevant current provisions Commencement date
 
 1983/026 Sch. 4-5
 
-1984/080 Sch. 4 1.10.1984
+1984/080 Sch. 4 1.10.1984 1986/134 Sch. 4 31.12.1986
 
 Port PORT RULES
 
