@@ -38,11 +38,7 @@ Number of Summons ...........
 
 PLEASE COMPLETE THIS SLIP IMMEDIATELY, detach it from the summons and return it in the enclosed envelope.
 
-Supreme Court JURY RULES
-
-1960-02
-
-Subsidiary 1960.08.09 The telephone number at which I can be contacted between 9.00 a.m. and 5.00 p.m., is ......................................
+The telephone number at which I can be contacted between 9.00 a.m. and 5.00 p.m., is ......................................
 
 SURNAME.................. FORENAMES ............... Address .................................................... Occupation  ............................................... Important PLEASE READ THE WARNING NOTICE OVERLEAF
 

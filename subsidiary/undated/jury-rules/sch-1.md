@@ -17,9 +17,3 @@ NOTE–No person whose name shall be in the Jurors' Book as a juror shall be ent
 All objections to the foregoing list will be heard and determined at the sitting of the justices to be held for that purpose at the  on the day of , 20 .
 
 Registrar of the Supreme Court.
-
-Supreme Court JURY RULES
-
-1960-02
-
-Subsidiary 1960.08.09
