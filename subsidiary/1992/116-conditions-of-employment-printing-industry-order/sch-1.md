@@ -2,4 +2,4 @@ SCHEDULE.
 
 Paragraph 4
 
-Grade Remuneration Craftsman/Tradesman £163.02 General Operative £145.08 Auxiliary Worker £128.31
+Grade Remuneration Craftsman/Tradesman £180.18 General Operative £160.29 Auxiliary Worker £141.96

@@ -8,9 +8,11 @@ CONDITIONS OF EMPLOYMENT (PRINTING INDUSTRY) ORDER, 1992
 
 31.8.1992
 
-_________________________________
+Amending enactments Relevant current provisions Commencement date LNs. 1996/073 Sch. 24.6.1996
 
-ARRANGEMENT OF PARAGRAPHS
+Employment CONDITIONS OF EMPLOYMENT (PRINTING INDUSTRY) ORDER, 1992
+
+Subsidiary 1992/116 1932-16 ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 
