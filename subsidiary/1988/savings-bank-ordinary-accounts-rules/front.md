@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date 31.12.1935 rr.
 
 13.7.1939 r. 39(1) 7.8.1940    r. 17(7) 23.6.1955 rr. 4(4), 17(3), 21 27.10.1960 - 23.5.1962 r. 4(1), (4) 3.9.1963 - Act. 1965-12 r. 10 30.12.1968 rr. 17(1), 41 24.6.1969 r. 4(1), (4) LN. 1971/008 r. 41 1971/063 r. 4(3) 1971/149 rr. 34-36 1973/090 r. 38 1976/075 rr. 16(1A)-(1B), 17(2), (5A) 1979/022 r. 4 1980/131 r. 16(3) 11.12.1980 1984/102 rr. 4, 34(1), 35-36, 41 13.12.1984 1987/128 rr. 4(1)(a), (4), 41 3.9.1987 1988/146 rr. 1, 4, 5(b), 6, 12, 13(1), (3), 14(1), 16(1A), (2), 17(1), (4)-(5), (5A), (6), 19(1), 21(1)(g), (2), 36(4), 39(1)
 
-19.12.1988 1990/154 rr. 17(3), 34(1), 35-36 15.11.1990 1991/189 r. 34(1) 10.10.1991 1994/035 r. 4 1.4.1994
+19.12.1988 1990/154 rr. 17(3), 34(1), 35-36 15.11.1990 1991/189 r. 34(1) 10.10.1991 1994/035 r. 4 1.4.1994 1999/152 rr. 34-36 11.11.1999
 
 Gibraltar Savings Bank SAVINGS BANK (ORDINARY ACCOUNTS) RULES
 
@@ -48,7 +48,7 @@ Gibraltar Savings Bank SAVINGS BANK (ORDINARY ACCOUNTS) RULES
 
 1935-11
 
-Subsidiary 1935.06.29 30. Payment for benefit of nominee under sixteen or of unsound mind. 31. Death of nominee after death of nominator but before payment. 32. Omitted.. 33. Proof of death. 34. Deposits not exceeding £2,000. 35. Deposits exceeding £2,000. 36. Estate duties.
+Subsidiary 1935.06.29 30. Payment for benefit of nominee under sixteen or of unsound mind. 31. Death of nominee after death of nominator but before payment. 32. Omitted.. 33. Proof of death. 34. Deposits not exceeding £5,000. 35. Deposits exceeding £5,000. 36. Revoked.
 
 Transfer of Deposits from and to Gibraltar.
 
