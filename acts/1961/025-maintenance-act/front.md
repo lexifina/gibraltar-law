@@ -14,7 +14,9 @@ Amending enactment Relevant current provisions Commencement date
 
 Act. 1972-06 ss. 24(4), 30(2)
 
-1973-23 1976-15 ss. 2, 5(1), 21(2), 30, 39, 48(1) 1984-08 s. 65(2) 29.6.1984
+1973-23 1976-15 ss. 2, 5(1), 21(2), 30, 39, 48(1) 1984-08 s. 65(2) 29.6.1984 1998-12 ss. 2-3, 4(1)(d), 5(1)(e), 6(1)-(2), 7(1)(b)(ii), (2), (5), (8), 10(1)(ii), 11(1)(a), 12, 13(1)(d)-(e), 15(3)(b), 16(3), 20(a), 27(2), 28, 31(1)(e), (2), 33(1)(d), 33A-33B, 34(b), 35(b), 36(b), 37(b), 38(1), 39(c), 40(c), 42(1), 44(1), 45A,  46(2), 47, 58(1), 67(1), 69 to 72
+
+29.1.1998
 
 Rules made under s.68 and other powers appear under the title Supreme Court.
 
@@ -42,21 +44,27 @@ PART III. MAINTENANCE OF CHILDREN AND PARENTS.
 
 Maintenance
 
-1961-25 31. Duty of man to maintain dependants. 32. Duty of married woman to maintain dependants. 33. Duty of unmarried woman to maintain dependants. 34. Application for maintenance order where man fails to maintain child. 35. Application for maintenance order where married woman fails to maintain child. 36. Application for maintenance order where unmarried woman fails to maintain child. 37. Application for maintenance order where failure to maintain father or mother. 38. Jurisdiction of magistrates' court under Part III. 39. Amount of maintenance orders. 40. No maintenance order in certain cases. 41. Interim maintenance orders. 42. Revocation and variation of maintenance orders. 43. Domestic proceedings. 44. Complaint for variation, etc. by or against person outside Gibraltar. 45. Appeals under Part III. 46. Enforcement. 47. Offences.
+1961-25 31. Duty of man to maintain dependants. 32. Duty of married woman to maintain dependants. 33. Duty of unmarried woman to maintain dependants. 33A. Application for a maintenance order where a cohabitee fails to maintain cohabitee. 33B. Maintenance orders: penalty for breach. 34. Application for maintenance order where man fails to maintain child. 35. Application for maintenance order where married woman fails to maintain child. 36. Application for maintenance order where unmarried woman fails to maintain child. 37. Application for maintenance order where failure to maintain father or mother. 38. Jurisdiction of magistrates' court under Part III. 39. Amount of maintenance orders. 40. No maintenance order in certain cases. 41. Interim maintenance orders. 42. Revocation and variation of maintenance orders. 43. Domestic proceedings. 44. Complaint for variation, etc. by or against person outside Gibraltar. 45. Appeals under Part III. 45A Registration of Maintenance Order. 46. Enforcement. 47. Offences.
 
 PART IV. ENFORCEMENT OF ORDERS.
 
 48. Interpretation of Part IV. 49. Powers of courts to make orders attaching earnings of defaulters under maintenance orders. 50. Powers of courts to make attachment of earnings orders in proceedings under other laws. 51. Restriction of issue of orders, etc., of commitment. 52. Variation and discharge, etc., of attachment of earnings orders. 53. Liabilities of persons to whom attachment of earnings orders are directed. 54. Powers of court to obtain statements of earnings, etc. 55. Power of court to determine whether payments are earnings. 56. Miscellaneous provisions as to payments under attachment of earnings orders. 57. Application of Part IV to earnings paid by the Crown, etc. 58. Offences. 59. Prohibition of committal more than once in respect of same arrears. 60. Powers of magistrates’ court to review committals, etc. 61. Special provisions as to magistrates’ court.
 
-PART V. MAINTENANCE AGREEMENTS.
-
 Maintenance
 
-1961-25 62. Application of Part V. 63. Interpretation of Part V. 64. Validity of maintenance agreements. 65. Alteration of maintenance agreements. 66. Alteration of maintenance agreement after death of one party.
+1961-25
+
+PART V. MAINTENANCE AGREEMENTS.
+
+62. Application of Part V. 63. Interpretation of Part V. 64. Validity of maintenance agreements. 65. Alteration of maintenance agreements. 66. Alteration of maintenance agreement after death of one party.
 
 PART VI. MISCELLANEOUS.
 
 67. Offence of not maintaining oneself. 68. Rules.
+
+PART VII SUPPLEMENTARY POWERS OF THE COURT
+
+69. Powers of court to make orders for the protection of a cohabitee or of a party to a marriage or a child of the family. 70. Supplementary provisions with respect to orders under section 69. 71. Powers of arrest for breach of section 69 order. 72. Jurisdiction of magistrates’ court for breach of injunction.
 
 SCHEDULE Payments under Attachment of Earnings Orders.
 
