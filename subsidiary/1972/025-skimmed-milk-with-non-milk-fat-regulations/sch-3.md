@@ -18,13 +18,7 @@ Microgrammes of cholecalciferol
 
 1. Each substance specified in column 1 of the table shall include its biologically active equivalent or derivative and the Groups specified in column I shall be constituted accordingly.
 
-2. The quantity of any substance specified in column 1 (as extended by the preceding paragraph) shall be calculated in the manner prescribed in relation
-
-Food and Drugs SKIMMED MILK WITH NON-MILK FAT REGULATIONS
-
-1964-07
-
-Subsidiary 1972/025 thereto in column 2 and shall either be specified accordingly or in the manner prescribed in paragraph 3 or 4 of this Schedule.
+2. The quantity of any substance specified in column 1 (as extended by the preceding paragraph) shall be calculated in the manner prescribed in relation thereto in column 2 and shall either be specified accordingly or in the manner prescribed in paragraph 3 or 4 of this Schedule.
 
 3. Where the quantities of any substances included in Groups 1 and 2 specified in column 1 (as extended by paragraph I of this Schedule) are calculated as microgrammes of retinol, they may be added together and specified accordingly.
 
