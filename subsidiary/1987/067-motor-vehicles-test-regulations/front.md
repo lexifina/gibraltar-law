@@ -12,7 +12,7 @@ MOTOR VEHICLES TEST REGULATIONS
 
 Amending enactments Relevant current Provisions Commencem ent date LN.   1988/026 r.37 18.2.1988 1990/010 Sch.5 18.1.1990 1996/046 rr.7 and 37 28.3.1996 1997/077 rr.2, 7, 10(c), 16(1) & (2), 17, 18(2), 19(1), 20(1), 21(4), 22(1) & (2), 23(1)(a),  24(a),(b) & (c), 30(1), 35, 36, 37, 38, 40, 44(a), 46(b), Sch.4 and Sch.5
 
-24.7.1997
+24.7.1997 1997/140 rr. 3(c) and 6(c) 17.11.1997
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
