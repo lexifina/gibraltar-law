@@ -477,3 +477,53 @@ Subsidiary 1997/146
 The back of the Short Form Tobacco Transportation Licence shall be as follows-
 
 Is hereby licensed pursuant to section 13 of the Tobacco Ordinance 1997 for the purposes of transporting cigarettes in Gibraltar according to the provisions of the Tobacco Ordinance 1997 and of the long form of the licence.
+
+Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
+
+1997-34
+
+Subsidiary 1997/146 H.M. CUSTOMS GIBRALTAR
+
+FORM 6
+
+TOBACCO ACT 1997
+
+TOBACCO LICENSING (FORMS, FEES, ETC) REGULATIONS 1997
+
+Regulation 8
+
+RENEWAL FORM
+
+To: The Collector of Customs
+
+1. Full name(s) of applicant(s):
+
+2. Business name and address
+
+3. Type of licence*
+
+4. Lincence No.:
+
+5. Date issued:
+
+6. Business telephone number:
+
+I/we**, being the holder(s) of the above-mentioned licence do hereby apply to the Collector of Customs under the provisions of the Tobacco Act 1997 for a new licence on terms as above.
+
+DECLARATION
+
+I/WE** declare that there have been no changes to the information submitted in my last application in respect of a licence as above.
+
+Signed: ................................
+
+Date:  ....................................
+
+WARNING: IT IS AN OFFENCE KNOWINGLY TO GIVE FALSE INFORMATION IN CONNECTION WITH AN APPLICATION FOR
+
+Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
+
+1997-34
+
+Subsidiary 1997/146 A LICENCE OR TO MAKE A FALSE ENTRY IN THIS APPLICATION FORM.
+
+* Please attach a copy of the relevant licence to this application. ** Delete as appropriate.

@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1997/147 Corrigendum
 
-1997/162 Sch. 23.12.1997
+1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998
 
 Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
@@ -24,7 +24,7 @@ Subsidiary 1997/146 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title 2. Applications for Wholesale licences 3. Applications for retail licences 4. Applications for import permits 5. Applications for export permits 6. Applications for tobacco transportation licences 7. Fees
+1. Title 2. Applications for Wholesale licences 3. Applications for retail licences 4. Applications for import permits 5. Applications for export permits 6. Applications for tobacco transportation licences 7. Fees 8. New licence applications from existing licencees
 
 SCHEDULE
 
@@ -56,7 +56,9 @@ Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
 1997-34
 
-Subsidiary 1997/146 Form 3: Application for import permit
+Subsidiary 1997/146
+
+Form 3: Application for import permit
 
 Form 3 (For office use only) Import permit
 
@@ -228,11 +230,21 @@ or ship chandler
 
 _          £20 per vehicle
 
+New licence applications from existing licencees.
+
+8.(1) A person-
+
+(a) whose licence is current; and
+
+(b) who is able to lawfully certify that there have been no changes to the information submitted in his application for that licence,
+
+may apply for a new licence of the same kind in Form 6 of the Schedule.
+
 Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
 1997-34
 
-Subsidiary 1997/146 SCHEDULE Regulations 2, 3, 4, 5 and 6
+Subsidiary 1997/146 SCHEDULE Regulations 2, 3, 4, 5, 6 and 7
 
 FORMS
 
