@@ -1,14 +1,16 @@
-Merchant Shipping MERCHANT SHIPPING (SAFETY OF LIFE AT SEA) REGULATIONS 1988
+Merchant Shipping MERCHANT SHIPPING REGULATIONS, 1988
 
 1935-09
 
 Subsidiary 1988/113 Regulations made under sections 101A and 102.
 
-MERCHANT SHIPPING (SAFETY OF LIFE AT SEA) REGULATIONS 1988
+MERCHANT SHIPPING REGULATIONS, 1988
 
 (LN. 1988/113)
 
 1.12.1988
+
+Amending enactments Relevant current provisions Commencement date LN. 1989/012 r. 1(1) and Sch. 16.2.1989
 
 ____________________________
 
@@ -20,13 +22,13 @@ Regulation
 
 SCHEDULE
 
-Merchant Shipping MERCHANT SHIPPING (SAFETY OF LIFE AT SEA) REGULATIONS 1988
+Merchant Shipping MERCHANT SHIPPING REGULATIONS, 1988
 
 1935-09
 
 Subsidiary 1988/113 Title and commencement.
 
-1.(1) These regulations may be cited as the Merchant Shipping (Safety of Life at Sea) Regulations 1988.
+1.(1) These regulations may be cited as the Merchant Shipping Regulations 1988.
 
 (2) These regulations shall come into operation on such day as the Governor may by notice in the Gazette appoint, and different days may be so appointed for different provisions and for different purposes.
 
@@ -58,16 +60,18 @@ Modifications.
 
 3. Without derogation of the generality of sub-regulation 2(1) in applying the regulations referred to in that sub-regulation
 
-Merchant Shipping MERCHANT SHIPPING (SAFETY OF LIFE AT SEA) REGULATIONS 1988
+(a) the references in those regulations to the Secretary of State shall be taken as references to the Governor;
+
+Merchant Shipping MERCHANT SHIPPING REGULATIONS, 1988
 
 1935-09
 
-Subsidiary 1988/113 (a) the references in those regulations to the Secretary of State shall be taken as references to the Governor;
+Subsidiary 1988/113
 
 (b) the references to the Department of Transport shall, unless inconsistent with the context, be taken as references to the Captain of the Port;
 
 (c) the references to any other officer or authority in the United Kingdom shall be taken as references to such person or authority as the Governor may, by notice in the Gazette, determine.
 
-Merchant Shipping MERCHANT SHIPPING (SAFETY OF LIFE AT SEA) REGULATIONS 1988
+Merchant Shipping MERCHANT SHIPPING REGULATIONS, 1988
 
 1935-09
