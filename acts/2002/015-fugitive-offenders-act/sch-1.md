@@ -1,6 +1,6 @@
 SCHEDULE Section 4
 
-DESCRIPTION OF RELEVANT OFFENCES IN DESIGNATED COMMONWEALTH COUNTRIES OR THE REPUBLIC OF IRELAND
+DESCRIPTION OF RELEVANT OFFENCES IN DESIGNATED COMMONWEALTH COUNTRIES
 
 1. Murder of any degree.
 
@@ -32,10 +32,6 @@ purposes.
 
 13. Bribery.
 
-Fugitive Offenders
-
-2002-15
-
 14. Perjury or subornation of perjury or conspiring to defeat the course
 
 of justice.
@@ -53,6 +49,10 @@ accounting, obtaining property or credit by false pretences, receiving
 stolen property or any other offence in respect of property involving
 
 fraud.
+
+Fugitive Offenders
+
+2002-15
 
 19. Burglary, housebreaking or any similar offence.
 
@@ -79,7 +79,3 @@ commander of an aircraft.
 28. Contravention of import or export prohibitions relating to precious
 
 stones, gold and other precious metals.
-
-Fugitive Offenders
-
-2002-15
