@@ -10,6 +10,10 @@ Act. No. 1998-48 Commencement 10.12.1998
 
 Assent 10.12.1998
 
+Amending enactments Relevant current provisions Commencement date
+
+Act 1999-36 Sch. Para 2.7 4.1.2000
+
 English sources
 
 None cited
