@@ -52,7 +52,7 @@ Acts. 1971-14 s.28(2)
 
 1983-48 s.36
 
-1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987
+1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987 1988-35 ss. 17, 17A, 17B, 20, 21, and 36A. 15.12.1988
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
@@ -216,22 +216,22 @@ PART I. ADMINISTRATION.
 
 PART II. JURISDICTION AND POWERS.
 
-11. Supreme Court a court of record. 12. Court to have jurisdiction of High Court in England. 13. International conventions affecting jurisdiction. 14. Avoidance of multiplicity of proceedings. 15. Practice and procedure. 16. Power to appoint receivers for persons under disability. 17. Power of review. 18. Summary power to punish contempt.
+11. Supreme Court a court of record. 12. Court to have jurisdiction of High Court in England. 13. International conventions affecting jurisdiction. 14. Avoidance of multiplicity of proceedings. 15. Practice and procedure. 16. Power to appoint receivers for persons under disability. 17. Power of review. 17A. Orders of mandamus, prohibition and certiorari. 17B. Application for judicial review. 18. Summary power to punish contempt.
 
 PART III. TRIAL BY JURY.
 
 19. Liability to jury Service. 20. Eligibility for jury service. 21. Disqualifications. 22. Jury list. 23. Service of summons. 24. Application of Part VII of the Criminal Procedure Act to civil actions. 25. Jurors may be required to stand by. 26. Verdicts in civil cases actions. 27. Remuneration of jurors.
 
-PART IV.
-
 Supreme Court
 
-1960-02 BARRISTERS AND SOLICITORS.
+1960-02
+
+PART IV. BARRISTERS AND SOLICITORS.
 
 28. Admission of barristers. 29. Admission of solicitors. 30. Enrolment of solicitors. 31. Barristers and solicitors may practice in all courts. 32. Barristers may act as solicitors. 33. Law relating to barristers and solicitors. 34. Disciplinary powers of Chief Justice. 35. Unqualified persons practising.
 
 PART V. MISCELLANEOUS.
 
-36. Interest on judgment debts. 37. Rules regulating funds in court. 38. Rules of court.
+36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 37. Rules regulating funds in court. 38. Rules of court.
 
 Supreme Court
