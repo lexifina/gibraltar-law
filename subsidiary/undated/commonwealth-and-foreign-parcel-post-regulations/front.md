@@ -34,7 +34,7 @@ LN. 1971/011 regs. 7 and 15-17
 
 1984/022 rr. 15, 17(1)(e)(ii) (h) (i), 18(1), 20(2), Schs. 1 and 3
 
-1.4.1984
+1.4.1984 1985/034 r. 16(1) and (3)(a) and Sch. 2 1.4.1985
 
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
