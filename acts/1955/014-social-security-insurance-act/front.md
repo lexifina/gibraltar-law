@@ -64,7 +64,7 @@ LN. 1981/106 s. 20, Sch.2
 
 1983/101 s. 20, Schs.1-2
 
-1984/090 s. 20(a), Sch.2 25.12.1984
+1984/090 s. 20(a), Sch.2 25.12.1984 “ Sch.1 7.1.1985
 
 Social Security (Insurance)
 
@@ -1220,25 +1220,25 @@ Class of employed insured person to whom rate applies
 
 Weekly rate of Contribution
 
-Men who have attained the age of 18 years. By the insured person By the employer £ £5.10
+Men who have attained the age of 18 years. By the insured person By the employer £ £5.90
 
-£ £5.41 Women who have attained the age of 18 years.
+£ £6.20 Women who have attained the age of 18 years.
 
-£4.70
+£5.90
 
-£5.01
+£16.20
 
 Males who have attained the age of 15 years but are under 18 years.
 
-£4.03
+£4.68
 
-£4.37
+£5.01
 
 Females who have attained the age of 15 years but are under 18 years.
 
-£3.75
+£4.68
 
-£4.10
+£5.01
 
 Where the person employed is over pensionable age, only the employer's share of the contribution is payable.
 
@@ -1248,17 +1248,17 @@ Class of self-employed insured person to whom rate applies
 
 Weekly rate of Contribution by insured person Men who have attained the age of 18 years
 
-£6.30
+£7.25
 
 Women who have attained the age of 18 years
 
-£5.80
+£7.25
 
 Males who have attained the age of 15 years but are under 18 years.
 
-£4.92 Females who have attained the age of 15 years but are under 18 years.
+£5.65 Females who have attained the age of 15 years but are under 18 years.
 
-£4.57
+£15.65
 
 Social Security (Insurance)
 
