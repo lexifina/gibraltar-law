@@ -72,7 +72,7 @@ Provided that where the Minister is satisfied that the joint income of the paren
 
 5. No parental contributions shall be taken in respect of any student in any of the following events:
 
-(a) if the student is over 25 years of age at the commencement of the course;
+(a) if the student is over 25 years of age at the start of the academic year;
 
 (b) if the student is married before the start of the course;
 
