@@ -12,13 +12,15 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1976/133
 
+1988/003 r.3 31.3.1988
+
 Medical and Health NURSES REGISTRATION REGULATIONS
 
 Subsidiary 1964.05.26 1997-25 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title. 2. Interpretation. 3. Constitution of the Board. 4. Forms.
+1. Title. 2. Interpretation. 3. Revoked. 4. Forms.
 
 PART I. CONDITION OF ADMISSION TO REGISTER.
 
