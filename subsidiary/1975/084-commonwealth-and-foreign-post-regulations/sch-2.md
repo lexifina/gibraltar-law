@@ -8,13 +8,13 @@ EUROPE.
 
 Destination Description Rate of Postage Countries which are Members of the European Economic Community (a) Letters including letter packets:-
 
-(i) For the first 20 grammes or part thereof 22p
+(i) For the first 20 grammes or part thereof 24p
 
 (ii) For every 10 grammes or part thereof after the first 20 grammes 10p
 
-(b) postcards conforming in all respects to the regulations relating thereto 22p
+(b) postcards conforming in all respects to the regulations relating thereto 24p
 
-(c ) Air Letters conforming in all respects to the regulations relating thereto 20p
+(c ) Air Letters conforming in all respects to the regulations relating thereto 22p
 
 PART 1B EUROPE
 
@@ -28,7 +28,7 @@ Destination Description Rate of Postage
 
 (b) postcards conforming in all respects to the regulations relating thereto 25p
 
-(c ) Air Letters conforming in all respects to the regulations relating thereto 22p
+(c ) Air Letters conforming in all respects to the regulations relating thereto 23p
 
 PART II.
 
