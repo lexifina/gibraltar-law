@@ -10,9 +10,13 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-______________________________
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987
 
-ARRANGEMENT OF REGULATIONS.
+Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
+
+1986-21
+
+Subsidiary 1987/006 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -36,11 +40,7 @@ Forms.
 
 Saving.
 
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006 14. Saving.
+14. Saving.
 
 SCHEDULE 1. Prohibited imports.
 
@@ -49,6 +49,12 @@ SCHEDULE 2. Goods the importation of which is not licensed under regulation 3.
 SCHEDULE 3. Conditions of import licences.
 
 SCHEDULE 4. Goods which may be exported to any destination.
+
+Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
+
+1986-21
+
+Subsidiary 1987/006
 
 SCHEDULE 5. Conditions of export licences.
 
