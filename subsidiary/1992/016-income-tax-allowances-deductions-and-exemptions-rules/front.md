@@ -16,16 +16,22 @@ LN. 1993/133 r.3(9) 1.7.1991 1992/118 r.3(9A) 1.7.1992 1993/114 r.3(8)-(9) 1.1.1
 
 1.7.1999 1999/104 rr.3(44), 26(1)-(2), (5), 27 1.7.1999 *2000/003 rr.7A, 10-11, 14(1)(a), (2) 1.7.1999 2000/005 r.5C 1.7.1999
 
+2000/068 rr. 3(45)-(46), 6-7, 7A(1), 8(1)(c), (4), 9, 12,
+
 * See saving provisions at the end of these Regulations.
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
+
+14(1)(b)(i), 14A, 15-16, 16A, 17-18, 20A, 25 1.7.2000 2002/013 r. 16A(2)(b), (5), 1.7.2000
+
+Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992 1992/016
 
 ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title and commencement. 2. Interpretation. 3. Income Exempted. 4. Loans charged on Consolidated Fund. 5. Deductions Allowed. 5A. Full deductions allowed: plant and machinery. 5B. Partial deductions allowed: plant and machinery. 5C. Deductions for vehicles to which rule 5A and 5B do not apply. 6. Personal Allowance. 7. Deduction for a wife. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters. 20. Effect of non residence. 21. Deduction in respect of life assurance premiums etc. 22. Deduction in respect of loan interest. 23. Deduction in respect of certain investments. 24. Deductions for non-resident individuals. 25. Election by husband. 26. Relief in respect of EEA and Commonwealth income tax. 27. Repealed. 27A. Repealed. 28. Double taxation relief for public investment companies. 29. Deductions subject to return of income being made and proof of claim. 30. Amendment to Act. 31. Repeal and Revocation.
+1. Title and commencement. 2. Interpretation. 3. Income Exempted. 4. Loans charged on Consolidated Fund. 5. Deductions Allowed. 5A. Full deductions allowed: plant and machinery. 5B. Partial deductions allowed: plant and machinery. 5C. Deductions for vehicles to which rule 5A and 5B do not apply. 6. Personal Allowance. 7. Deduction for a wife. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 16A. Special deduction for senior citizens on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters. 20. Effect of non residence. 20A. Deduction for health insurance premiums. 21. Deduction in respect of life assurance premiums etc. 22. Deduction in respect of loan interest. 23. Deduction in respect of certain investments. 24. Deductions for non-resident individuals. 25. Election by husband. 26. Relief in respect of EEA and Commonwealth income tax. 27. Repealed. 27A. Repealed. 28. Double taxation relief for public investment companies. 29. Deductions subject to return of income being made and proof of claim. 30. Amendment to Act.
 
-Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992 1992/016
+2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
-In exercise of the powers conferred on him by section 37A of the Income Tax Act, and of all other enabling powers, the Governor has made the following rules-
+31. Repeal and Revocation. In exercise of the powers conferred on him by section 37A of the Income Tax Act, and of all other enabling powers, the Governor has made the following rules-
