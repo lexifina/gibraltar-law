@@ -1,0 +1,17 @@
+SCHEDULE 1
+
+Regulation 4
+
+Information in respect of a vacancy to accompany notification of the vacancy.
+
+1. Job title. 2.Starting date (which shall be not earlier than 2 weeks after the date of notification registered by the Board). - 3. Salary/wage. 4. Location of employment. 5. Hours of work. 6. Other benefits. 7. Necessary qualifications and experience. 8. Employer’s name and registration number under the Business Trades and Professions Regulations, 1991. 9. Person making the notification:
+
+Name
+
+Position in Organisation
+
+Signature 10. Date on which notification registered with Board.
+
+Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
+
+Subsidiary 1994/023 1932-16
