@@ -26,7 +26,7 @@ Imports and Exports
 
 1986-21 1993-23 ss. 8(2)-(7), 9(2) 9.12.1993 1995-04 ss. 2(1), 15(b)(ii), (c), 80(b)(ii), (c)
 
-9.3.1995 1997-34 s. 91 13.11.1997 1996-07 s. 119A 14.1.1999 2001-15 ss. 91A-91B 6.6.2001
+9.3.1995 1997-34 s. 91 13.11.1997 1996-07 s. 119A 14.1.1999 2001-15 ss. 91A-91B 6.6.2001 2004-12 s. 9A 15.7.2004
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -46,7 +46,7 @@ PART II. ADMINISTRATION. Appointments.
 
 Powers of Customs Officers.
 
-4. Power to require information. 5. Power to take samples. 6. Right of access, etc. 7. Power to search ships, aircraft and vehicles. 8. Power to search persons. 9. Power of arrest and detention.
+4. Power to require information. 5. Power to take samples. 6. Right of access, etc. 7. Power to search ships, aircraft and vehicles. 8. Power to search persons. 9. Power of arrest and detention. 9A. Customs officers may be armed.
 
 Examination Stations.
 
@@ -64,11 +64,9 @@ PART IV. CONTROL OF IMPORTS.
 
 Prohibited Imports.
 
-14. Prohibited imports.
-
 Imports and Exports
 
-1986-21 15. Controlled drugs. 16. Power for Government to prohibit or restrict imports.
+1986-21 14. Prohibited imports. 15. Controlled drugs. 16. Power for Government to prohibit or restrict imports.
 
 Report of Cargo and Entry of Goods.
 
@@ -96,7 +94,9 @@ Operations in Stores.
 
 Imports and Exports
 
-1986-21 Sales and Disposals of Goods by the Collector.
+1986-21
+
+Sales and Disposals of Goods by the Collector.
 
 42. Conduct of sales. 43. Proceeds of sale and recovery rent, etc. 44. Revoked.
 
@@ -126,7 +126,9 @@ Remission and Refund and Draw Backs.
 
 Imports and Exports
 
-1986-21 67. Remission or refund of duty on goods lost or destroyed, etc. 68. Refund of duty on goods not conforming to contract. 69. Refund in respect of supplies to aircraft. 70. Refund of duty on motor spirit re-exported. 71. Refund of duty on motor spirit for use of the Crown. 72. Power for Government to allow other refunds and draw backs.
+1986-21
+
+67. Remission or refund of duty on goods lost or destroyed, etc. 68. Refund of duty on goods not conforming to contract. 69. Refund in respect of supplies to aircraft. 70. Refund of duty on motor spirit re-exported. 71. Refund of duty on motor spirit for use of the Crown. 72. Power for Government to allow other refunds and draw backs.
 
 Duty Free Premises.
 
@@ -152,11 +154,11 @@ Other Provisions.
 
 PART VIII. SPECIAL PROVISIONS RELATING TO WINES, SPIRITS AND TOBACCO.
 
-86. Description and designation of casks. 87. Estimated contents of casks. 88. Spirits for infusion.
+86. Description and designation of casks. 87. Estimated contents of casks.
 
 Imports and Exports
 
-1986-21 89. Owner may take samples. 90. Repealed. 91.  Repealed. 91A. Export of tobacco by sea and air. 91B. Exports by land.
+1986-21 88. Spirits for infusion. 89. Owner may take samples. 90. Repealed. 91.   Repealed. 991A. Export of tobacco by sea and air. 91B. Exports by land.
 
 PART IX. MISCELLANEOUS.
 
@@ -174,11 +176,11 @@ Procedure in Respect of Offences, Recovery of Duties and Fees, etc.
 
 Offences and Penalties.
 
-102. Importing dutiable goods with intent. 103. Importing concealed goods, etc. 104.  Unloading, etc. with intent. 105. Fraudulent evasion of duty, etc. 106. Unlawful possession of dutiable goods. 107. Assaulting or resisting customs officers. 108. Obstructing customs officers, etc. 109. Giving false information. 110. Counterfeiting documents, etc. 111. Breaking seals, etc. 112. Forfeiture of ship jettisoning cargo, etc. 113. Unlawful opening of stores. 114. Other offences relating to storage. 115. Offences by corporations. 116.  Assessment of ad valorem penalties.
+102. Importing dutiable goods with intent. 103. Importing concealed goods, etc. 104.  Unloading, etc. with intent. 105. Fraudulent evasion of duty, etc. 106. Unlawful possession of dutiable goods. 107. Assaulting or resisting customs officers. 108. Obstructing customs officers, etc. 109. Giving false information. 110. Counterfeiting documents, etc. 111. Breaking seals, etc. 112. Forfeiture of ship jettisoning cargo, etc. 113. Unlawful opening of stores. 114. Other offences relating to storage. 115. Offences by corporations.
 
 Imports and Exports
 
-1986-21 117. General penalty.
+1986-21 116.  Assessment of ad valorem penalties. 117. General penalty.
 
 Rewards.
 
@@ -214,7 +216,9 @@ SCHEDULE 1.
 
 Imports and Exports
 
-1986-21 CUSTOMS TARIFF
+1986-21
+
+CUSTOMS TARIFF
 
 SCHEDULE 2. Revoked by 1990-01
 
