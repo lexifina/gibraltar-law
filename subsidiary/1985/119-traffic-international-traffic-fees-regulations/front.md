@@ -1,11 +1,19 @@
-Traffic TRAFFIC (INTERNATIONAL TRAFFIC)(FEES) REGULATIONS, 1985
+Subsidiary Legislation made under s.61.
 
-2005-26
+Traffic (International Traffic)(Fees) Regulations, 1985
 
-Subsidiary 1985/119 Regulations made or deemed to have been made under s.61.
+LN.1985/119
 
-TRAFFIC (INTERNATIONAL TRAFFIC)(FEES) REGULATIONS, 1985
+Commencement 7.11.1985
 
-(LN. 1985/119)
+Amending enactments Relevant current provisions Commencement date
 
-7.11.1985
+LN. 1988/087 Sch. 25.8.1988
+
+_______________________
+
+ARRANGEMENT OF REGULATIONS
+
+Regulation
+
+1. Title. 2. Fees.
