@@ -6,7 +6,7 @@ MEDICAL (GIBRALTAR HEALTH AUTHORITY) ACT, 1987
 
 Principal Act Commencement Listed below Act. No. 1987-34 Assent 24.12.1987
 
-Commencement dates Legal Notice No. Relevant provisions 18.2.1985 1987/1731 Paras.15 and 16(a) of the Sch. 24.12.1987 1987/173 ss. 1-5, 6(2)(b)-(d), 7, 9-10, 13-15, 19, 23, 25(2)
+Commencement dates Legal Notice No. Relevant provisions 18.2.1985 1987/1731 Paras.15 and 16(a) of the Sch. 24.12.1987 1987/173 ss. 1-5, 6(2)(b)-(d), 7, 9-10, 13-15, 19, 23, 25(2) 1.2.1988 1987/173 25(1), Sch. (other than paras. 13-22, 26)
 
 1 Notice of Corrigendum (LN.1988/022)
 
