@@ -16,13 +16,13 @@ Persons who have attained the age of 15 years but are under 18 years
 
 By the insured person (2) By the employer (3)
 
-13p
-
-11p
+15p
 
 13p
 
-11p
+15p
+
+13p
 
 PART II
 
