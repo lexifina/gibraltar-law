@@ -48,11 +48,11 @@ Section 29(2)
 
 Constitution of committee of College of Further Education.
 
-1. (1) The committee of the College of Further Education (hereinafter called “the Committee”) shall consist of not less than ten persons selected for their interest in and knowledge of education, and shall be constituted as follows:–
+1. (1) The committee of the College of Further Education (hereinafter called “the Committee”) shall consist of not less than ten persons selected for their interest in and knowledge of education and shall be constituted as follows:–
 
-(a)  the headteacher or principal of the college;
+(a)  the Director of Education or his nominee, who shall be the Chairman;
 
-(b)  persons appointed by the Minister after consultation with the leaders of religious communities, official and private employers, the trade unions, youth organisations, parents, students, teachers and other persons, groups or organisations having an interest in the advancement and promotion of further education..
+(b)  persons appointed by the Minister from within persons, groups or organisations having an interest in the advancement and promotion of further education.
 
 Members of the Committee not to be financially interested in the college.
 
@@ -64,9 +64,11 @@ Persons ineligible to be members of the Committee.
 
 Term of office.
 
+2. The members of the Committee (other than the ex officio member) shall hold   office  for  two  years,   and   shall  be  eligible  for  re-appointment.
+
 Education
 
-1974-11 2. The members of the Committee (other than the ex officio member) shall hold   office  for  three years,   and   shall  be  eligible  for  re-appointment.
+1974-11
 
 Termination of appointment.
 
@@ -82,7 +84,7 @@ Procedure.
 
 Secretary.
 
-6. The Director or his nominee shall be secretary to the Committee.
+6. The Principal of the College or his nominee shall be secretary to the Committee.
 
 PART III. MANAGEMENT OF SCHOOLS AND COLLEGES.
 
@@ -100,11 +102,11 @@ Interpretation.
 
 Determination of membership of the Committee.
 
-2. Any member of the Committee who is absent from all meetings of the Committee during a period of one year, or who in the opinion of the Minister is incapacitated from acting, or who communicates in writing to the
+2. Any member of the Committee who is absent from all meetings of the Committee during a period of one year, or who in the opinion of the Minister is incapacitated from acting, or who communicates in writing to the secretary to the Committee a wish to resign, shall thereupon cease to be a member.
 
 Education
 
-1974-11 secretary to the Committee a wish to resign, shall thereupon cease to be a member.
+1974-11
 
 Vacancies.
 
@@ -134,9 +136,7 @@ Chairman.
 
 Education
 
-1974-11
-
-9. (1) The head teacher shall be the chairman of the Committee unless he shall signify that he does not wish to be chairman in which case the Committee shall at their first ordinary meeting in each year elect from their members a chairman for the ensuing year. A chairman shall be eligible for re-election.
+1974-11 9. (1) The head teacher shall be the chairman of the Committee unless he shall signify that he does not wish to be chairman in which case the Committee shall at their first ordinary meeting in each year elect from their members a chairman for the ensuing year. A chairman shall be eligible for re-election.
 
 (2) In the event of the death, resignation or cessation of membership for any reason of an elected chairman a new chairman shall be elected at the next meeting thereafter.
 
@@ -164,9 +164,11 @@ Communications.
 
 B: ARTICLES OF MANAGEMENT.
 
+Conduct of school.
+
 Education
 
-1974-11 Conduct of school.
+1974-11
 
 1. The school shall be conducted in accordance with the provisions of the Act, the regulations and this schedule.
 
