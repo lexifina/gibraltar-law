@@ -18,6 +18,4 @@ Processed peas
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054
+1964-07 N.I.F. Subsidiary 1987/054

@@ -22,9 +22,7 @@ All species of Galeorhinus
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 Dogfish or Flake or Huss or Rigg All species of Mustelus All species of Scyliorhinus
+1964-07 N.I.F. Subsidiary 1987/054 Dogfish or Flake or Huss or Rigg All species of Mustelus All species of Scyliorhinus
 
 Galeus melastomus Rafin
 
@@ -40,9 +38,7 @@ Hippoglossus stenolepis Black halibut or Greenland Reinhardtius hippoglossoides 
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 Pacific pollock or Alaska pollack or Alaska pollock Theragra chalcogramma (Pallas) Pout or Pouting Trisopterus Luscus (L)
+1964-07 N.I.F. Subsidiary 1987/054 Pacific pollock or Alaska pollack or Alaska pollock Theragra chalcogramma (Pallas) Pout or Pouting Trisopterus Luscus (L)
 
 All species of Sebastes Redfish or Ocean perch or Rose fish Helicolenus maculatus Helicolenus dactylopterus (e la Roche) Red mullet All species of Mullus Roughback Hippoglossoides platessoides (Fabr) Sardine Small Sardina pilchardus (Walbaum) Sardinella All species of Sardinella Scad All species of Trachurus Sea Bream All genera of Sparidae Small Clupea harengus L., when canned Slid Small Sprattus sprattus (L) when canned Skate or Ray or Roker All species of Raja Smelt or Sparling All species of Osmerus Sole or Dover sole Solea solea (L) Canary sole Solea senegalensis Kaup Lemon sole Microstomus kitt (Walbaum) Sprat Sprattus sprattus (L) except when canned Thickback Microchirus veriegatus (Don) All species of Thunnus except Tunna or Tunny Thunnus alalunga (Bonnaterre) All species of Neothunnus Albacore tuna Thunnus alalunga (Bonnaterre) Bonito tuna All species of Sarda All species of Euthynnus Skipjack tuna Katsuwonus pelamis (L.) Turbot Scophthalmus maximus (L) Tusk Brosme brosme (Ascanius) Whitebait Small Clupea harengus L (except when canned) small sprattus sprattus (L) (except when canned) Whiting Merlangius merlangus (L) Blue whiting Micromesistius poutassou (Risso) Winter flounder Pseudopleuronectes americanus (Walbaum) Witch Glytocephalus cynoglossus (L)
 
@@ -52,9 +48,7 @@ Salmon Salmo salar L.* Cherry salmon Oncorhynchus masou (Walbaum)* Chum salmon o
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 Coho salmon or Silver salmon Pink salmon Oncorhynchus gorbuscha (Walbaum)* Red salmon or Sockeye salmon Oncorhynchus nerka (Walbaum)* Spring Salmon or King salmon or Chinook salmon Oncorhynchus tschwytscha (Walbaum)* Brown trout Salmo trutta L. which has spent all its like in fresh water Sea trout or Salmon trout Salmo trutta L. which has spent part of its life in sea water Cut-throat trout Salmo clarkii Richardson Rainbow trout or Steelhead trout Salmo gairdneri Richardson
+1964-07 N.I.F. Subsidiary 1987/054 Coho salmon or Silver salmon Pink salmon Oncorhynchus gorbuscha (Walbaum)* Red salmon or Sockeye salmon Oncorhynchus nerka (Walbaum)* Spring Salmon or King salmon or Chinook salmon Oncorhynchus tschwytscha (Walbaum)* Brown trout Salmo trutta L. which has spent all its like in fresh water Sea trout or Salmon trout Salmo trutta L. which has spent part of its life in sea water Cut-throat trout Salmo clarkii Richardson Rainbow trout or Steelhead trout Salmo gairdneri Richardson
 
 SHELLFISH
 
@@ -66,9 +60,7 @@ All species of the family Austroastacidae Lobster All species of Homarus Slipper
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 have a count of less than 397 per kg (180 per lb) Prawn or shrimp (cont) The tails of– all species of Palaemonidae, all species of Penaeidae, and all species of Pandalidae, which are of such a size that, when peeled and cooked, they have a count of less than 1,323 per kg (600 per lb) Shrimp Whole fish of– all species of Palaemonidae, all species of Penaeidae, and all species of Pandalidae, which are of such a size that, when cooked, they have a count of 397 per kg (180 per lb) or more The tails of– all species of Palaemonidae, all species of Penaeidae, and all species of Pandalidae, which are of such a size that, when peeled and cooked, they have a count of 1,323 per kg (600 per lb) or more Shrimp or Pink shrimp Pandalus montagui Leach Shrimp or Brown shrimp All species of Crangon Scallop All species of Pectinidae Scallop or Queen scallop or Queen Chlamys (Acquipecton) opercularis (L) Scampi or Norway lobster or Dublin Bay prawn Nephrops norvegicus (L) Whelk All species of Bucinum Winkle All species of Littorina
+1964-07 N.I.F. Subsidiary 1987/054 have a count of less than 397 per kg (180 per lb) Prawn or shrimp (cont) The tails of– all species of Palaemonidae, all species of Penaeidae, and all species of Pandalidae, which are of such a size that, when peeled and cooked, they have a count of less than 1,323 per kg (600 per lb) Shrimp Whole fish of– all species of Palaemonidae, all species of Penaeidae, and all species of Pandalidae, which are of such a size that, when cooked, they have a count of 397 per kg (180 per lb) or more The tails of– all species of Palaemonidae, all species of Penaeidae, and all species of Pandalidae, which are of such a size that, when peeled and cooked, they have a count of 1,323 per kg (600 per lb) or more Shrimp or Pink shrimp Pandalus montagui Leach Shrimp or Brown shrimp All species of Crangon Scallop All species of Pectinidae Scallop or Queen scallop or Queen Chlamys (Acquipecton) opercularis (L) Scampi or Norway lobster or Dublin Bay prawn Nephrops norvegicus (L) Whelk All species of Bucinum Winkle All species of Littorina
 
 Melons
 
@@ -82,9 +74,7 @@ Vitamins
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 4. (1) The name used for a vitamin specified in Table A in Schedule 6 shall be the name specified for that vitamin in column I of that Table, with or without the words, if any, that appear in brackets in that column of that Table.
+1964-07 N.I.F. Subsidiary 1987/054 4. (1) The name used for a vitamin specified in Table A in Schedule 6 shall be the name specified for that vitamin in column I of that Table, with or without the words, if any, that appear in brackets in that column of that Table.
 
 (2)  The name for vitamin B6, pantothenic acid, biotin, vitamin E or vitamin K shall be “vitamin B6”, ‘pantothenic acid”, ~biotin”, “vitamin E” or “vitamin K”, as is appropriate. Melons
 
@@ -102,6 +92,4 @@ Vitamins
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054
+1964-07 N.I.F. Subsidiary 1987/054

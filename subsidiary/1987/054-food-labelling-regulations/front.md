@@ -1,26 +1,22 @@
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 Regulations made under sections 6, 8 and 58.
+1964-07 N.I.F. Subsidiary 1987/054 Regulations made under sections 6, 8 and 58.
 
 FOOD LABELLING REGULATIONS, 1987
 
 (LN. 1987/054)
 
-1.9.1988
+NOT IN FORCE
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1988/0111 rr. 2(1), 3(3)-(4) 21.1.1988 1988/033 rr. 1(2), 5(2)(h), 22(n), 35(3) 25.2.1988
+LN. 1988/0111 rr. 2(1), 3(3)-(4) 21.1.1988 1988/033 rr. 1(2), 5(2)(h), 22(n), 35(3) 25.2.1988 1988/088 rr. 1(2), 5(2)(h), 22(n) 31.8.1988
 
 1 For applications of rr.36-38 see (LN.1988/011 (r.1(4))
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 ARRANGEMENT OF REGULATIONS.
+1964-07 N.I.F. Subsidiary 1987/054 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -30,9 +26,7 @@ Regulation
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 40. Offences and penalties. 41. Defences. 42. Application of various provisions of the Act.
+1964-07 N.I.F. Subsidiary 1987/054 40. Offences and penalties. 41. Defences. 42. Application of various provisions of the Act.
 
 SCHEDULE 1.
 
@@ -47,5 +41,3 @@ SCHEDULE 5.
 SCHEDULE 6.
 
 SCHEDULE 7.
-
-Food and Drugs FOOD LABELLING REGULATIONS, 1987

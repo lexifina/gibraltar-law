@@ -20,9 +20,7 @@ Fat. Any refined fat or mixture of refined fats. The generic name must be accomp
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 must not refer to a specific species of fish. Other fish Any species of fish or shellfish other than a species referred to in the labelling of the food of which the fish or shell fish is an ingredient
+1964-07 N.I.F. Subsidiary 1987/054 must not refer to a specific species of fish. Other fish Any species of fish or shellfish other than a species referred to in the labelling of the food of which the fish or shell fish is an ingredient
 
 Flour, followed by a list of the cereals from which the flour is derived in descending order of weight Any mixture of flour derived from two or more types of cereal
 
@@ -34,20 +32,14 @@ Meat Any type of meat as defined in the Meat Products and Spreadable Fish Produc
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 an ingredient Offal Any part of the carcase specified in Part I or Part II of Schedule 2 of the Meat Products and Spreadable Fish Products Regulations, 1985 The generic name may be used only for an ingredient of a cooked food Poultry meat Any type of poultry meat The labelling of the food of which the poultry meat is an ingredient must not refer to a specific type of poultry meat Nuts Any nuts The generic name may be used only if either– (a) the proportion of nuts in the food of which they are ingredients does not exceed 1 per cent, or (b) the nuts are ingredients of a prepacked mixture of nuts with muscatels, raisings, sultans and/or currants and the net weight of the mixture is not more than 50g Oil Any refined oil, other than olive oil, or any mixture of refined oils not including olive oil The generic name must be accompanied by either– (a) the description “animal” or “vegetable”, or both, as is appropriate, or (b) an indication of the specific animal origin or the specific vegetable origin of the oil, or both, as is appropriate. In the case of hydrogenated oil, the generic name must, unless it is accompanied only by the description “animal”, be accompanied also by the description “Hydrogenated” Spices or mixed spices Any combination of two or more spices and/or spice extracts The proportion of spices and/or spice extracts in the food of which they are ingredients must not exceed 2 per cent Starch Any starch other than one which has been modified chemically
+1964-07 N.I.F. Subsidiary 1987/054 an ingredient Offal Any part of the carcase specified in Part I or Part II of Schedule 2 of the Meat Products and Spreadable Fish Products Regulations, 1985 The generic name may be used only for an ingredient of a cooked food Poultry meat Any type of poultry meat The labelling of the food of which the poultry meat is an ingredient must not refer to a specific type of poultry meat Nuts Any nuts The generic name may be used only if either– (a) the proportion of nuts in the food of which they are ingredients does not exceed 1 per cent, or (b) the nuts are ingredients of a prepacked mixture of nuts with muscatels, raisings, sultans and/or currants and the net weight of the mixture is not more than 50g Oil Any refined oil, other than olive oil, or any mixture of refined oils not including olive oil The generic name must be accompanied by either– (a) the description “animal” or “vegetable”, or both, as is appropriate, or (b) an indication of the specific animal origin or the specific vegetable origin of the oil, or both, as is appropriate. In the case of hydrogenated oil, the generic name must, unless it is accompanied only by the description “animal”, be accompanied also by the description “Hydrogenated” Spices or mixed spices Any combination of two or more spices and/or spice extracts The proportion of spices and/or spice extracts in the food of which they are ingredients must not exceed 2 per cent Starch Any starch other than one which has been modified chemically
 
 Modified Any starch which has been
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 starch modified chemically Sugar Any type of sucrose Vine fruits Any muscatels, raisins, sultanas or currants
+1964-07 N.I.F. Subsidiary 1987/054 starch modified chemically Sugar Any type of sucrose Vine fruits Any muscatels, raisins, sultanas or currants
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054
+1964-07 N.I.F. Subsidiary 1987/054

@@ -28,9 +28,7 @@ Column 1 Column 2 Types of Claim Conditions Claims relating to foods for particu
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 substances. be accompanied by an indication of the food’s particular nutritional characteristics,
+1964-07 N.I.F. Subsidiary 1987/054 substances. be accompanied by an indication of the food’s particular nutritional characteristics,
 
 (b) the food must be marked or labelled with the prescribed energy statement, and
 
@@ -46,9 +44,7 @@ Diabetic claims 5.A claim that a food is suitable, or has been speci- ally made,
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 or purified starches.
+1964-07 N.I.F. Subsidiary 1987/054 or purified starches.
 
 (3) In the case of a claim that a food has been specially made for diabetics, a given quantity of the food must not have a readily absorbable carbohydrate content greater than 50 per cent of the readily absorbable carbohydrate content of the same quantity of a similar food in relation to which no diabetic claim is made.
 
@@ -64,9 +60,7 @@ Subsidiary 1987/054 or purified starches.
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 sorbitol, mannitol, xylitol, isomalt  or hydrogenated glucose syrup, the food must be marked or labelled with the words (a) “best eat less than 25g of X a day”, where only one such substance is contained in the food, there being inserted in place of “X” the name of that substance, (b) “best eat less than 25g of a combination of X a day”, where more than one such substance is contained in the food, there being inserted in place of “X” the name of every such substance that the food contains.
+1964-07 N.I.F. Subsidiary 1987/054 sorbitol, mannitol, xylitol, isomalt  or hydrogenated glucose syrup, the food must be marked or labelled with the words (a) “best eat less than 25g of X a day”, where only one such substance is contained in the food, there being inserted in place of “X” the name of that substance, (b) “best eat less than 25g of a combination of X a day”, where more than one such substance is contained in the food, there being inserted in place of “X” the name of every such substance that the food contains.
 
 4. The conditions set out in item 3 of this Schedule must be satisfied, except that-
 
@@ -82,9 +76,7 @@ that is contained in each hundred grams or hundred millilitres of the food, as i
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 not of itself constitute a claim of a type described in this item. (b) Where a food is in concentrated or dehydrated form and is intended to be reconstituted by the addi- tion of water or other substances conditions 6 and 7 shall apply to the food to when reconstituted as directed. item 3 must be satisfied whether or not the food has been specially made for such a class of persons as is specified in item 3.
+1964-07 N.I.F. Subsidiary 1987/054 not of itself constitute a claim of a type described in this item. (b) Where a food is in concentrated or dehydrated form and is intended to be reconstituted by the addi- tion of water or other substances conditions 6 and 7 shall apply to the food to when reconstituted as directed. item 3 must be satisfied whether or not the food has been specially made for such a class of persons as is specified in item 3.
 
 4. (1) If the claim is made in the labelling of a food, the food must be marked or labelled with the words “can help slimming or weight control only as part of a controlled diet”, except that the word “calorie”, -’joule” or “energy” may be inserted immediately before the word “controlled”.
 
@@ -104,9 +96,7 @@ Subsidiary 1987/054 not of itself constitute a claim of a type described in this
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054
+1964-07 N.I.F. Subsidiary 1987/054
 
 (ii) a product which consists of a mixture of an intense sweetener with other substances and which, when, compared on a weight for weight basis, is significantly sweeter than sucrose,
 
@@ -122,9 +112,7 @@ Subsidiary 1987/054
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 9. A claim that a food, other than a food intended for babies or young children which satisfies the condi- tions of item 4 of this Schedule, is a source of vitamins 3. (1) If the claim is made in the labelling of a food, the food must be marked or labelled with a statement of the protein content of each hundred grams or hundred millilitres of the food, as is appropriate, and, where appropriate, of a quantified serving of the food. Note A reference to a vitamin in the name of a food shall not of itself constitute a claim of a type to which this item applies if the food consists solely of- (2) If the claim is made in the advertising of a food, the food when sold prepacked must be marked or labelled with the said statement. (i) vitamins, or (ii) a mixture of vitamins and minerals, or 1.(1) If the claim is not confined to named vitamins, every vitamin named in the claim must be a vitamin specified in column 1 of Table A below, and-
+1964-07 N.I.F. Subsidiary 1987/054 9. A claim that a food, other than a food intended for babies or young children which satisfies the condi- tions of item 4 of this Schedule, is a source of vitamins 3. (1) If the claim is made in the labelling of a food, the food must be marked or labelled with a statement of the protein content of each hundred grams or hundred millilitres of the food, as is appropriate, and, where appropriate, of a quantified serving of the food. Note A reference to a vitamin in the name of a food shall not of itself constitute a claim of a type to which this item applies if the food consists solely of- (2) If the claim is made in the advertising of a food, the food when sold prepacked must be marked or labelled with the said statement. (i) vitamins, or (ii) a mixture of vitamins and minerals, or 1.(1) If the claim is not confined to named vitamins, every vitamin named in the claim must be a vitamin specified in column 1 of Table A below, and-
 
 (a) where the claim is that the food is a rich or excellent source of vitamins, the quantity of the food that can reasonably be expected to be consumed in one day must contain at least one half of the recommended daily amount of two or more of the vitamins specified in column 1 of Table A below, and
 
@@ -132,15 +120,11 @@ Subsidiary 1987/054 9. A claim that a food, other than a food intended for babie
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 one sixth of the recommended daily amount of every vitamin named in the claim. 2(1)  If the claim is made in the labelling of a food, the food must be marked or labelled with a statement– (a)(i) where the claim is not confined to named vitamins, of the vitamins enabling the claim to be made that is contained in a quantified serving of the food; and (ii) where the claim is confined to named vitamins, of the percentage of the recommended daily amount of every vitamin named in the claim that is contained in a quantified serving of the food; and (b) where the food is pre-packed, of the number of such servings contained in the package, and the name used in the statement for any such vitamin shall be the name specified for that vitamin in column 1 of Table A below, with or without the words, if any, that appear in brackets in that column of that Table (2) If the claim is made in the advertising of a food, the food when sold pre-packed must be marked or labelled with the said statement. Mineral claims 10. A claim that a food, other than a food intended for babies or young children which satisfies the conditions of item 4 of this Schedule, is a source of minerals. Notes (a) A claim that a food has low or reduced levels of minerals shall not be regarded as a claim of a type described in this item (b) The note that applies to item 9 of this Schedule applies equally to this item with the substitution of– (i) the word “mineral” for The conditions are the same as those set out in item 9 of this Schedule with the substitution of– (a) the word “mineral” for “vitamin” wherever it occurs, (b) the word “minerals” for “vitamins” wherever it occurs, and (c) the expression “Table B” for “Table A” wherever it occurs.
+1964-07 N.I.F. Subsidiary 1987/054 one sixth of the recommended daily amount of every vitamin named in the claim. 2(1)  If the claim is made in the labelling of a food, the food must be marked or labelled with a statement– (a)(i) where the claim is not confined to named vitamins, of the vitamins enabling the claim to be made that is contained in a quantified serving of the food; and (ii) where the claim is confined to named vitamins, of the percentage of the recommended daily amount of every vitamin named in the claim that is contained in a quantified serving of the food; and (b) where the food is pre-packed, of the number of such servings contained in the package, and the name used in the statement for any such vitamin shall be the name specified for that vitamin in column 1 of Table A below, with or without the words, if any, that appear in brackets in that column of that Table (2) If the claim is made in the advertising of a food, the food when sold pre-packed must be marked or labelled with the said statement. Mineral claims 10. A claim that a food, other than a food intended for babies or young children which satisfies the conditions of item 4 of this Schedule, is a source of minerals. Notes (a) A claim that a food has low or reduced levels of minerals shall not be regarded as a claim of a type described in this item (b) The note that applies to item 9 of this Schedule applies equally to this item with the substitution of– (i) the word “mineral” for The conditions are the same as those set out in item 9 of this Schedule with the substitution of– (a) the word “mineral” for “vitamin” wherever it occurs, (b) the word “minerals” for “vitamins” wherever it occurs, and (c) the expression “Table B” for “Table A” wherever it occurs.
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 “vitamin”, (ii) the word “minerals” for “vitamins” wherever it occurs, and (ii) the word “vitamins” for “minerals” wherever it occurs
+1964-07 N.I.F. Subsidiary 1987/054 “vitamin”, (ii) the word “minerals” for “vitamins” wherever it occurs, and (ii) the word “vitamins” for “minerals” wherever it occurs
 
 Polyunsaturated fatty acid claims 11. A claim relating to polyunsaturated fatty acids in a food
 
@@ -148,9 +132,7 @@ Polyunsaturated fatty acid claims 11. A claim relating to polyunsaturated fatty 
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 because of its level of cholesterol. Energy claims 13. A claim that a food provides more energy than another food or is a good source of energy
+1964-07 N.I.F. Subsidiary 1987/054 because of its level of cholesterol. Energy claims 13. A claim that a food provides more energy than another food or is a good source of energy
 
 1. The food must be capable of fulfilling the claim 2. If the claim is made in the labelling of any food, the food must be marked or labelled with the prescribed energy statement in accordance with the provisions of regulation 37(6) 3. If the claim is made in the advertising of any food, the food, when sold pre-packed, must be marked or labelled with the prescribed energy statement. Claims which depend on another food 14. A claim that a food has a particular value or confers a particular benefit The value or benefit must not be derived wholly or partly from another food that is intended to be consumed with the food in relation to which the claim is made.
 
@@ -160,9 +142,7 @@ TABLE B
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054
+1964-07 N.I.F. Subsidiary 1987/054
 
 MINERALS IN RESPECT OF WHICH CLAIMS MAY BE MADE
 
@@ -186,23 +166,17 @@ The word “cream” or any other word or description which implies that the foo
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 special benefit from a controlled consumption of certain substances, and
+1964-07 N.I.F. Subsidiary 1987/054 special benefit from a controlled consumption of certain substances, and
 
 (b) the food is suitable for fulfilling the particular nutritional requirements A name which appears in column I of the Table of fish names following paragraph I of Schedule 1 Shall not be used, whether modified or not, for any species of fish other than a species specified in the corresponding entry in column 2 of the Table following paragraph I Any description incorporating the name of a food in such a wav as to imply that the food, or the part of a food, being described has the flavour of the food named in the description. Shall not be applied to any food unless the flavour of the food being described is derived wholly or mainly from the food named in the description, except that any description incorporating the word “chocolate” which is such as to imply that the food being described has a chocolate flavour may be applied to a food which has a chocolate flavour derived wholly or mainly from non fat cocoa solids. This shall not be taken to prevent the use of the word “flavour” preceded by the name of a food when the flavour of the food being described is not derived wholly or mainly from the food named in the description A pictorial representation of a food which is such as to imply that the food to which the representation is applied has the flavour of the food depicted in the representation Shall not be applied to any food unless the flavour of the food to which the representation is applied is derived wholly or mainly from the food depicted in the representation. the description “fresh”, “garden” or “green”. Shall not be applied to any canned or frozen peas which have been dried and soaked before being canned or frozen. The word “milk” or any other word or description which implies that the food being described contains milk. Shall not be used as part of the name of a food, unless– (a) the food has as an ingredient cow’s milk with all its normal constituents in their natural proportions; or (b) (I) the food has as an ingredient cow’s milk which has been subjected to a process of treatment, and (ii) the word or description is accompanied by an indication of that process or treatment; or (c) (i) the food has as an ingredient the milk
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 of an animal other than the cow with all its normal constituents in their natural proportions, and (ii) the word or description is accompanied by the name of that animal; or (d) (i) the food has as an ingredient the milk of an animal other than the cow which has been subjected to a process or treatment, and (ii) the word or description is accompanied by the name of that animal and an indication of that process or treatment; or (e) the word or description is used in such a way as to indicate clearly that it does not refer to the presence of milk or any of its constituents in the food; or (f) the word or description is used in accordance with any regulations made, or having effect as if made, under the Act. The word “milk” Shall not be used as the name of an ingredient of a food, unless– (a) (I) the ingredient is cow’s milk, or (ii) the word is accompanied by the name of the animal from which the milk has been obtained; and (b) the use of the word as the name of the ingredient complies in all other respects with these regulations The description “starch- reduced” Shall not be applied to any food, unless– (a) less than 50 per cent of the food consists of anhydrous carbohydrate calculated by weight on the dry matter of the food, and (b) the starch content of a given quantity of the food is substantially less than that of the same quantity of similar foods to which the description is not applied The word “vitamin” or any other word or description which implies that the food to which the word or description relates is a vitamin Shall not be used in the labelling or advertising of any food, unless the food to which the word or description relates is– (a) one of the vitamins specified in column 1 of Table A in Schedule 6; or (b) vitamin B6, pantothenic acid, biotin, vitamin E or vitamin K. The description “alcohol-free” Shall not be applied to any alcoholic drink from which the alcohol has been extracted, unless– (a) the drink has an alcoholic strength by
+1964-07 N.I.F. Subsidiary 1987/054 of an animal other than the cow with all its normal constituents in their natural proportions, and (ii) the word or description is accompanied by the name of that animal; or (d) (i) the food has as an ingredient the milk of an animal other than the cow which has been subjected to a process or treatment, and (ii) the word or description is accompanied by the name of that animal and an indication of that process or treatment; or (e) the word or description is used in such a way as to indicate clearly that it does not refer to the presence of milk or any of its constituents in the food; or (f) the word or description is used in accordance with any regulations made, or having effect as if made, under the Act. The word “milk” Shall not be used as the name of an ingredient of a food, unless– (a) (I) the ingredient is cow’s milk, or (ii) the word is accompanied by the name of the animal from which the milk has been obtained; and (b) the use of the word as the name of the ingredient complies in all other respects with these regulations The description “starch- reduced” Shall not be applied to any food, unless– (a) less than 50 per cent of the food consists of anhydrous carbohydrate calculated by weight on the dry matter of the food, and (b) the starch content of a given quantity of the food is substantially less than that of the same quantity of similar foods to which the description is not applied The word “vitamin” or any other word or description which implies that the food to which the word or description relates is a vitamin Shall not be used in the labelling or advertising of any food, unless the food to which the word or description relates is– (a) one of the vitamins specified in column 1 of Table A in Schedule 6; or (b) vitamin B6, pantothenic acid, biotin, vitamin E or vitamin K. The description “alcohol-free” Shall not be applied to any alcoholic drink from which the alcohol has been extracted, unless– (a) the drink has an alcoholic strength by
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 volume of not more than 0.05 per cent, and
+1964-07 N.I.F. Subsidiary 1987/054 volume of not more than 0.05 per cent, and
 
 (b) the drink is marked or labelled with an indication of its maximum alcoholic strength (in one of the forms specified in regulation 31(1) immediately preceded by the words “not more than”) or, in an appropriate case, with an indication that it contains no alcohol. The description “dealcoholised” Shall not be applied to any drink, unless (a) the drink, being an alcoholic drink from which the alcohol has been extracted, has an alcoholic strength by volume of not more than 0.5 per cent,
 
@@ -210,9 +184,7 @@ Subsidiary 1987/054 volume of not more than 0.05 per cent, and
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054 The name tonic wine Shall not be applied to any drink unless there appears in immediate proximity to the words “tonic wine” the clear statement: “the name ‘tonic wine’ does not imply health giving or medicinal properties”. No recommendation as to consumption or dosage shall appear in the labelling or advertising of the drink. The description “vintage”. Shall not be applied to any drink, except (a) brandy, or
+1964-07 N.I.F. Subsidiary 1987/054 The name tonic wine Shall not be applied to any drink unless there appears in immediate proximity to the words “tonic wine” the clear statement: “the name ‘tonic wine’ does not imply health giving or medicinal properties”. No recommendation as to consumption or dosage shall appear in the labelling or advertising of the drink. The description “vintage”. Shall not be applied to any drink, except (a) brandy, or
 
 (b) cider or perry which is the product of the fresh juice of apples or pears, as the case may be, harvested in the designated vintage year and which is marked or labelled with an indication of that year, or
 
@@ -230,9 +202,7 @@ In this Schedule-
 
 Food and Drugs FOOD LABELLING REGULATIONS, 1987
 
-1964-07
-
-Subsidiary 1987/054
+1964-07 N.I.F. Subsidiary 1987/054
 
 (i) saccharified by the diastase of malt contained therein with or without other natural diastases approved for the purpose; and
 
