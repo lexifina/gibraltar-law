@@ -12,6 +12,10 @@ ss. 2, 3(3), 5 6(4), 10, 11, 14, 17 and 25, Part IV, VIII and 86 1.12.1997 For e
 
 Assent 22.9.1995
 
+Amending enactments Relevant current provisions Commencement date
+
+Acts. 2001-26 s.2 2.8.2001
+
 Gibraltar  Merchant Shipping (Registration)
 
 1995-12 ARRANGEMENT OF SECTIONS.
