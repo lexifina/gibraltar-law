@@ -14,6 +14,8 @@ Act. 1965-15 s. 2A
 
 1980-04 s. 2A
 
+1987-12 s. 2 2.4.1987
+
 English source
 
 Trade Mark Act 1938 (1 & 2 Geo..6 c.22)
