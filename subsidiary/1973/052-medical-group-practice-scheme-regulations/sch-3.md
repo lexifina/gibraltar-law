@@ -8,15 +8,25 @@ The following fees shall be paid by entitled persons other than persons exempted
 
 For each house visit by a doctor –
 
-(i) during normal hours
+1. in respect of a person in receipt of a
 
-£2.
+retirement pension under the Social Security
 
-(ii) outside normal hours
+(None-Contributory Benefits) Act, the
+
+Social Security (Open Long Term Benefits Scheme)
+
+Act 1996, or the Social Security (Closed Long Term
+
+Benefits and Scheme) Act 1997.
 
 £5.
 
-For the purpose of determining the fee to be paid for a house visit by a doctor where a request during normal hours for such a visit has been made the visit shall be considered as a visit during normal hours notwithstanding that the visit may be made outside normal hours.
+2. in respect of any person to which paragraph 1 above
+
+does not apply
+
+£10
 
 Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
 
