@@ -24,7 +24,9 @@ Amending enactments Relevant current provisions Commencement date Act. 1987-06 s
 
 Imports and Exports
 
-1986-21 English Sources: Customs and Excise Act, 1952 (1952 c.44)
+1986-21 1993-23 ss. 8(2)-(7), 9(2) 9.12.1993
+
+English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
 Imports and Exports
 
