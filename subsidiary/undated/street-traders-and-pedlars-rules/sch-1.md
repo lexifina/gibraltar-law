@@ -2,9 +2,7 @@ SCHEDULE 1 Rule 3 CATEGORIES OF STREET TRADERS
 
 Category
 
-General description Fees payable in respect of each month or part of a month of validity of licence. A. Street traders of any goods excluding flowers and greenery 6.00 B. Street traders of flowers and greenery 6.00 C. Pedlars of market produce 6.00 D. Pedlars of articles of food or drink not being market produce 6.00 E. Pedlars other than those licenced under Category C or D 6.00
-
-Provided always that there shall be paid an increased fee of £12 for each month or part thereof for which a licence is valid, in all cases where either a motor vehicle or a trailer moved by an engine driven vehicle is used.
+General description Fees payable in respect of each month or part of a month of validity of licence A. Street traders of any goods excluding flowers and greenery 20.00 B. Street traders of flowers and greenery 20.00 C. Pedlars of market produce 20.00 D. Pedlars of articles of food or drink not being market produce 20.00 E. Pedlars other than those licenced under Category C or D 20.00
 
 Markets, Street Traders and Pedlars STREET TRADERS AND PEDLARS RULES
 
