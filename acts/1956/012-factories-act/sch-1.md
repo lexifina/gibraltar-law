@@ -22,10 +22,6 @@ PARTICULARS TO BE SUBMITTED BY OCCUPIER OR INTENDING OCCUPIER OF A FACTORY
 
 (d)  maximum permissible working pressure in pounds per square inch.
 
-Factories
-
-1956-12
-
 6.         (a)  Total number of persons intended to be employed in the factory.
 
 (b)  Where persons are intended to be employed in shifts, the maximum number intended to be employed at any one time.
