@@ -28,9 +28,11 @@ Act. 1972-06 –
 
 1983-30 ss. 2-4, 7, 10, 12(3), 13-19, 20(2), 21, 30-32, 35, 37(1), 38-39, 41, 43(8), 45, 49
 
-_______________________________
+2005-08 s. 60A 22.2.2005
 
 Rules of court made under s.61 and other powers appear under the title Supreme Court. (These, inter alia, apply the former English Matrimonial Causes Rules 1957, as amended up to April 1968, with modifications and adaptations.
+
+Implementing: Regulation (EC) No 2201/2003
 
 English sources: Matrimonial Causes Act 1973(1973 Chapter 18).
 
@@ -110,7 +112,11 @@ PART IX.–RECOGNITION OF DIVORCES AND LEGAL SEPARATIONS  OBTAINED ELSEWHERE THA
 
 53. Recognition in Gibraltar of divorces and legal separations obtained elsewhere. 54. Grounds for recognition. 55. Cross-proceedings and divorce following legal separations. 56. Proof of facts relevant to recognition. 57. Existing common law and statutory rules. 58. Non-recognition of divorce by third country no bar to re-marriage. 59. Exceptions from recognition. 60. Transitional.
 
-PART X.–RULES.
+PART X–JURISDICTION, AND RECOGNITION AND ENFORCEMENT OF JUDGMENTS MADE IN A MEMBER STATE OF THE EUROPEAN UNION.
+
+60A.  Jurisdiction, and recognition and enforcement of judgments made in a member state of the European Union.
+
+PART XI.–RULES.
 
 61. Rules.
 
