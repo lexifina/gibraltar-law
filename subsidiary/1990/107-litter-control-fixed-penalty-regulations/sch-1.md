@@ -26,23 +26,25 @@ Signature ……................. Rank…….................. Date………....
 
 Authority
 
+(specify whether litter or dangerous litter)
+
 Which is an offence under—
 
-(a)  Section 5 of the Litter Act
+(a)  Section 5 of the Litter Control Act
 
 (b)  Regulation 2 of the Litter Control" (Animal Droppings) Regulations, 1990.
 
-If before the end of 14 days from the above date, the sum of £30 (being the fixed penalty far the Offence) is paid to the Clerk of the Magistrates' Court at 277 Main Street, no proceedings will be taken for the offence and any liability to conviction for the offence will be discharged. Cash should be sent by registered post, cheques, postal orders or money orders should be made payable to the Clerk of the Magistrates' Court. A receipt for the payment will be given. Part payment will not be accepted by the Clerk: The person paying the fixed penalty must forward with the remittance Part 2 of the notice or identify this notice by quoting the serial number. This notice is deemed to have been given to the person liable for the offence indicated above. '
+If before the end of 14 days from the above date, the sum of, in the case of an offence in respect of litter, £30 and, in the case of an offence in respect of dangerous litter, £150 (being the fixed penalty far the Offence) is paid to the Clerk of the Magistrates' Court at 277 Main Street, no proceedings will be taken for the offence and any liability to conviction for the offence will be discharged. Cash should be sent by registered post, cheques, postal orders or money orders should be made payable to the Clerk of the Magistrates' Court. A receipt for the payment will be given. Part payment will not be accepted by the Clerk: The person paying the fixed penalty must forward with the
 
 Litter Control LITTER CONTROL (FIXED PENALTY) REGULATIONS 1990
 
 1990-31
 
-Subsidiary 1990/107
+Subsidiary 1990/107 remittance Part 2 of the notice or identify this notice by quoting the serial number. This notice is deemed to have been given to the person liable for the offence indicated above. '
 
 PART 2.
 
-To the Clerk of the Magistrates' Court, 277 Main Street, Gibraltar. I enclose the sum of £30 as payment of the fixed penalty, of the offence mentioned in Part 1 of the Notice.
+To the Clerk of the Magistrates' Court, 277 Main Street, Gibraltar. I enclose the sum of £30/£50 (delete as appropriate) as payment of the fixed penalty, of the offence mentioned in Part 1 of the Notice.
 
 Name (in BLOCK LETTERS) ...................………………………………….
 
