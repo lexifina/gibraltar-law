@@ -10,13 +10,19 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (INSURABILITY AND SPECIAL CLASSES) REG
 
 1.4.1997
 
-______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN. 2004/138 rr. 2, 4A and Sch. 7.6.2004
+
+Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (INSURABILITY AND SPECIAL CLASSES) REGULATIONS 1997
+
+1997-16
+
+Subsidiary 1997/114 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. Persons insured under social insurance law of other countries. 4. Employments and self-employments to be disregarded. 5. Members of Gibraltar Regiment. 6. Married women and widows.
+1. Title and commencement. 2. Interpretation. 3. Persons insured under social insurance law of other countries. 4. Employments and self-employments to be disregarded. 4A.    Full-time education. 5. Members of Gibraltar Regiment. 6. Married women and widows.
 
 SCHEDULE Employments and self-employments to be disregarded.
 
