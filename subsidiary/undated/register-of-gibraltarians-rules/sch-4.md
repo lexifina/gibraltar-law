@@ -16,6 +16,10 @@ Rule 9
 
 £18.00
 
-4.  Handling fee on an order for a copy or copies of any entry in a register of Gibraltarians which is to be sent abroad through the post.
+4.  Handling fee on an order for a copy or copies of any entry in a register of Gibraltarians which is to be sent abroad through
 
-£5.00
+Gibraltarian Status REGISTER OF GIBRALTARIANS RULES
+
+1962-13
+
+Subsidiary 1962.06.07-2 the post. £5.00
