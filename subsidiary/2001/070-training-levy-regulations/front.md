@@ -8,9 +8,13 @@ TRAINING (LEVY) REGULATIONS  2001
 
 7.6.2001
 
-_____________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS
+LN.   2002/016 r. 3 7.2.2002
+
+Education and Training TRAINING (LEVY) REGULATIONS  2001
+
+Subsidiary 2001/070 1974-11 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
