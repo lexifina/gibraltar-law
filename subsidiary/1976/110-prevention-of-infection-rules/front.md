@@ -32,6 +32,10 @@ Public Health (Infectious Diseases) Rules LN. 1976/110
 
 Spitting Rules, of 19.5.1921 amended by LN. 1978/060 r.3
 
+Amending enactments to the consolidated Rules Relevant current provisions Commencement date
+
+LN. 1988/003 rr. 2, 3, 4, 5, 7, 16 1.2.1988
+
 Public Health PREVENTION OF INFECTION RULES
 
 1950-07
@@ -46,7 +50,7 @@ Preliminary
 
 Diseases connected with Food
 
-2. Interpretation. 3. Enforcement. 4. Measures by Director. 5. Suspected carriers.
+2. Interpretation. 3. Enforcement. 4. Measures by Specialist in Community Medicine. 5. Suspected carriers.
 
 Hairdressers and Barbers
 
