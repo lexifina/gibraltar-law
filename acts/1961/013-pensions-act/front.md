@@ -10,17 +10,7 @@ Act. No. 1961-13 Commencement 2.11.1961
 
 Assent 2.11.1961
 
-Amending enactment Relevant current provisions Commencement date
-
-Regs of 13.3.1962 Sch.
-
-Act. 1962-05 ss. 2(1), 6(1), 8(1)
-
-Regs of 29.11.1962 Sch.
-
-Act. 1962-24 s. 2(1)
-
-Regs of 17.12.1963 Sch.
+Amending enactment Relevant current provisions Commencement date Regs of 13.3.1962 Sch. Act. 1962-05 ss. 2(1), 6(1), 8(1) Regs of 29.11.1962 Sch. Act. 1962-24 s. 2(1) Regs of 17.12.1963 Sch.
 
 Act. 1964-19 s. 2(1)
 
@@ -32,17 +22,7 @@ Act. 1968-02 ss. 2(1), 6(2), (3), 9(2), (4), 17(4), 17A, 18(1)
 
 Regs. of 8.2.1962 Sch.
 
-Act. 1972-08 s. 2(1)
-
-1973-30 s. 2(1)
-
-1974-42 ss. 2(1), 11
-
-1975-14 ss. 2(1), 8(2)
-
-LN. 1975/136 Sch.
-
-Act. 1976-27 s. 2(1)
+Act. 1972-08 s. 2(1) 1973-30 s. 2(1) 1974-42 ss. 2(1), 11 1975-14 ss. 2(1), 8(2) LN. 1975/136 Sch. Act. 1976-27 s. 2(1)
 
 1978-20 s. 17(5)
 
@@ -53,6 +33,8 @@ LN. 1980/069 Sch.
 Act. 1982-30 s. 10
 
 1978-20 ss. 2(1), 17(5)
+
+LN. 1985/100 Sch. 16.8.1977
 
 Pensions
 
