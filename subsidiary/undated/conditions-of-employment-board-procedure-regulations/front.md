@@ -8,7 +8,7 @@ CONDITIONS OF EMPLOYMENT BOARD (PROCEDURE) REGULATIONS
 
 1.5.1954
 
-Amending enactments Relevant current provisions Commencement date LN. 1991/061 r. 2 18.4.1991
+Amending enactments Relevant current provisions Commencement date LN. 1991/061 r. 2 18.4.1991 1994/059 rr. 2, 3 7.7.1994
 
 Employment CONDITIONS OF EMPLOYMENT BOARD (PROCEDURE) REGULATIONS.
 
