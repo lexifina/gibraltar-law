@@ -1,21 +1,17 @@
-Public Health PUBLIC HEALTH (QUALITY OF BATHING WATER) RULES, 1992
+Subsidiary Legislation made under s.337.
 
-1950-07
+Public Health (Quality of Bathing Water) Rules 1992
 
-Subsidiary 1992/108 Rules made under s.337.
+LN.1992/108
 
-PUBLIC HEALTH (QUALITY OF BATHING WATER) RULES, 1992
+Commencement 6.8.1992
 
-(LN. 1992/108)
+Amending enactments Relevant current provisions Commencement date
 
-6.8.1992
+LN. 1994/118 r. 4(1) 3.11.1994
 
-______________________
-
-ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES
 
 Rule
 
 1. Title. 2. Interpretation. 3. Implementation of Bathing Water Directive. 4. Reporting procedures.
-
-Public Health PUBLIC HEALTH (QUALITY OF BATHING WATER) RULES, 1992
