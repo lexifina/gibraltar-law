@@ -52,7 +52,9 @@ Port PORT RULES
 
 Subsidiary 1960.08.11 1987/097 rr. 117B(1), (5)-(6), 117J(1), Sch. 2A
 
-4.6.1987 1987/112 rr. 2, 117A-117O, Sch. 2A 16.7.1987 1987/135 Sch. 4 1.1.1988 1988/161 Sch. 4 29.12.1988 1991/033 Sch. 4 1.4.1990 1990/190 rr. 12A, 102A, Sch. 4 1.1.1991
+4.6.1987 1987/112 rr. 2, 117A-117O, Sch. 2A 16.7.1987 1987/135 Sch. 4 1.1.1988 1988/161 Sch. 4 29.12.1988 1991/033 Sch. 4 1.4.1990 1990/190 rr. 12A, 102A, Sch. 4 1.1.1991 1991/206 rr. 36-37, 47(1A), 49(2), 66, 76, 112, 116, (3), 151, 170, 173.
+
+7.11.1991
 
 Port PORT RULES
 
@@ -78,7 +80,7 @@ Subsidiary 1960.08.11 32. Working lights. 33. Watch to be kept. 34. Inspection. 
 
 PART III.–GENERAL PORT REGULATIONS.
 
-38. Fire on vessels. 39. Sanitary arrangements in harbour. 40. No boarding without permission, etc. 41. Boarding or leaving ships under way. 42. Working of lighters. 43. Landing or embarking passengers. 44. No vessel, ship's gear, cargo, etc., to remain on the wharf. 45. Cutting of ropes, etc., of vessels in danger. 46. Loss of anchors, etc., to be reported to the Captain of the Port. 47. Refuse not to be deposited in the port or foreshore. 48. No timber allowed to float in the port. 49. Removal of offensive matter. 50. Naked lights, smoking, etc., on vessel carrying inflammable cargo and provisions relating to inflammable cargo. 51. Protection of hatch-ways. 52. Ships laden with coal. 53. Fumigation. 54. Repair to vessels. 55. Restriction on use of flame apparatus in harbour. 56. Beaching vessel, etc., in the port. 57. Pitch and other combustibles may not be boiled on board a vessel being repaired, etc. 58. Explosives may not be used or guns fired. 59. Propellers may not be turned in port without warning or permission. 60. Vessels fouling moorings or submarine cables. 61. Crews of vessels to take lines. 62. Sound signals not to be used except for navigation. 63. Police assistance. 64. Medical assistance. 65. Signals for tug. 66. Offences. 67. Repealed.
+38. Fire on vessels. 39. Sanitary arrangements in harbour. 40. No boarding without permission, etc. 41. Boarding or leaving ships under way. 42. Working of lighters. 43. Landing or embarking passengers. 44. No vessel, ship's gear, cargo, etc., to remain on the wharf. 45. Cutting of ropes, etc., of vessels in danger. 46. Loss of anchors, etc., to be reported to the Captain of the Port. 47. Refuse not to be deposited in the port or foreshore. 48. No timber allowed to float in the port. 49. Removal of offensive matter or garbage. 50. Naked lights, smoking, etc., on vessel carrying inflammable cargo and provisions relating to inflammable cargo. 51. Protection of hatch-ways. 52. Ships laden with coal. 53. Fumigation. 54. Repair to vessels. 55. Restriction on use of flame apparatus in harbour. 56. Beaching vessel, etc., in the port. 57. Pitch and other combustibles may not be boiled on board a vessel being repaired, etc. 58. Explosives may not be used or guns fired. 59. Propellers may not be turned in port without warning or permission. 60. Vessels fouling moorings or submarine cables. 61. Crews of vessels to take lines. 62. Sound signals not to be used except for navigation. 63. Police assistance. 64. Medical assistance. 65. Signals for tug. 66. Offences. 67. Repealed.
 
 PART IV.–VESSELS USED WITH IN THE PORT– PASSENGERS CERTIFICATES AND LICENCES – CONDITIONS
 
