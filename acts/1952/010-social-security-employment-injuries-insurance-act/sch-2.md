@@ -12,13 +12,13 @@ Persons who have attained the age of 18 years.
 
 Persons who have attained the age of 15 but are under 18.
 
-£43.40
+£45.50
 
-£32.55
+£34.30
 
-£6.20
+£6.50
 
-£4.65
+£4.90
 
 PART II
 
@@ -30,15 +30,15 @@ Class of Dependent Per week £ Per day £ Dependent adult
 
 Allowance for first dependent child.
 
-Allowance for second dependent child £10.57
+Allowance for second dependent child £11.06
 
-£5.81
+£6.09
 
-£3.64 £1.51
+£3.85 £1.58
 
-£0.83
+£0.87
 
-£0.52
+£0.55
 
 Social Security (Employment Injuries Insurance)
 
