@@ -68,6 +68,10 @@ Act. 1983-09 s. 24
 
 LN. 1983/097 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Schs.2-5
 
+1986/131 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.1-5
+
+1.1.1987
+
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
 English source
