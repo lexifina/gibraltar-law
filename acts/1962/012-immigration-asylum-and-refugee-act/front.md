@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 5.2.1985 1985-21 ss. 2, 39(1), 39B, 46(6)-(7), Sch.1 1.1.1986 1986-04 s. 12(2) 27.3.1986 1990-28 s. 19 14.6.1990 1993-09 ss. 10-11, 17, marginal notes of 21 to 25, 26, 56-57, 59, 61-67, 24
 
-8.3.1993
+8.3.1993 “ ss. 2, 39, 44, 1.7.1993
 
 Immigration Control
 
@@ -68,13 +68,15 @@ Cancellation and duration of certificates.
 
 37. Cancellation of certificate. 38. Duration of certificates.
 
-Special Provisions Relating to nationals of European Economic Community States.
+Special Provisions Relating to Community nationals.
 
 39. Right to enter Gibraltar. 40. Application for residence permit. 41. Issue of residence permit. 42. Refusal of residence permit. 43. Certificate of permanent residence. 44. Special permits. 45. Notice to leave. 46. Permission for families to enter. 47. Employment of families. 48. Families to leave with nationals. 49. Families of deceased nationals. 50. Meaning of “continuous residence”. 50A. 51. Repealed.
 
+Prohibited immigrants.
+
 Immigration Control
 
-1962-12 Prohibited immigrants.
+1962-12
 
 52. Power to declare prohibited immigrants. 53. Effect of declaration.
 
