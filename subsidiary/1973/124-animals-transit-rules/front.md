@@ -8,7 +8,7 @@ ANIMALS (TRANSIT) RULES
 
 1.1.1974
 
-Amending enactments Relevant current provisions Commencement date LNs. 1974/081 r. 2
+Amending enactments Relevant current provisions Commencement date LNs. 1974/081 r. 2 1987/152 r. 9 26.11.1987
 
 Animals and Birds ANIMALS (TRANSIT) RULES
 
