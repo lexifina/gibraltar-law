@@ -8,9 +8,11 @@ GIBRALTAR DEVELOPMENT CORPORATION (EMPLOYER’S INSOLVENCY) REGULATIONS, 1991
 
 22.8.1991
 
-______________________________
+Amending enactments Relevant current provisions Commencement date LNs.1991/195 r. 4(6)(b) and (9) 24.10.1991
 
-ARRANGEMENT OF REGULATIONS.
+Gibraltar Development Corporation GIBRALTAR DEVELOPMENT CORPORATION (EMPLOYER’S INSOLVENCY) REGULATIONS, 1991.
+
+Subsidiary 1991/168 1990-16 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
