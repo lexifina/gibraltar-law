@@ -6,7 +6,7 @@ LN.1972/077
 
 Commencement 21.9.1972
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.1985/068 rr. 2-3, 5 6.6.1985
 
 ARRANGEMENT OF REGULATIONS
 
