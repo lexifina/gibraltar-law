@@ -10,7 +10,9 @@ Act. No. 1986-21 Commencement 1.1.1987
 
 Assent 21.11.1987
 
-Amending enactments Relevant current provisions Commencement date Act. 1987-06 s. 74(1)(a) , (2), Sch. 2 1.1.1987 1987-16 Sch. 1 28.4.1987 1987-36 Sch. 1 24.12.1987 1989-03 s. 73(1) 2.3.1989 1989-22 ss. 2(1), 63 10.8.1989
+Amending enactments Relevant current provisions Commencement date Act. 1987-06 s. 74(1)(a) , (2), Sch. 2 1.1.1987 1987-16 Sch. 1 28.4.1987 1987-36 Sch. 1 24.12.1987 1989-03 s. 73(1) 2.3.1989 1989-22 ss. 2(1), 63 10.8.1989 1990-01 ss. 49, 62(b), 74, 85, 112, 120, 124(a), Sch. 2
+
+22.2.1990 LN. 1990/021 Sch. 1 22.2.1990
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -116,7 +118,7 @@ Remission and Refund and Draw Backs.
 
 Duty Free Premises.
 
-73. Power to declare premises duty free. 74. Fees in respect of duty free goods.
+73. Power to declare premises duty free. 74. fees in respect to duty free goods.
 
 PART VI. RELEASE FROM CUSTOMS CONTROL.
 
@@ -158,7 +160,7 @@ Procedure in Respect of Offences, Recovery of Duties and Fees, etc.
 
 Offences and Penalties.
 
-102. Importing dutiable goods with intent. 103. Importing concealed goods, etc. 104.  Unloading, etc. with intent. 105. Fraudulent evasion of duty, etc. 106. Unlawful possession of dutiable goods. 107. Assaulting or resisting customs officers. 108. Obstructing customs officers, etc. 109. Giving false information. 110. Counterfeiting documents, etc. 111. Breaking seals, etc. 112. Breaking bulk. 113. Unlawful opening of stores. 114. Other offences relating to storage. 115. Offences by corporations.
+102. Importing dutiable goods with intent. 103. Importing concealed goods, etc. 104.  Unloading, etc. with intent. 105. Fraudulent evasion of duty, etc. 106. Unlawful possession of dutiable goods. 107. Assaulting or resisting customs officers. 108. Obstructing customs officers, etc. 109. Giving false information. 110. Counterfeiting documents, etc. 111. Breaking seals, etc. 112. Forfeiture of ship jettisoning cargo, etc. 113. Unlawful opening of stores. 114. Other offences relating to storage. 115. Offences by corporations.
 
 Imports and Exports
 
@@ -202,7 +204,7 @@ Imports and Exports
 
 1986-21
 
-SCHEDULE 2. FEES FOR DUTY FREE GOODS
+SCHEDULE 2. Revoked by 1990-01
 
 SCHEDULE 3. Provisions relating to forfeiture.
 

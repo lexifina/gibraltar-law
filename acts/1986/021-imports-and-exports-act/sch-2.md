@@ -1,62 +1,6 @@
-SCHEDULE 1
+SCHEDULE 2 Revoked
 
-CUSTOMS TARIFF
-
-Imports and Exports
-
-1986-21 SCHEDULE 2. Section 74
-
-FEES FOR DUTY FREE GOODS.
-
-1. Goods received in premises licensed under section 74.
-
-(a) For each bottle of spirituous liquor the content of which-
-
-(i) Does not exceed .375 litre............ 10p (ii) Exceeds .375 litre but does not exceed .75 litre.............................
-
-15p (iii) Exceeds .75 litre but does not exceed 1 litre................................
-
-20p (iv) Exceeds 1 litre.............................. 25p
-
-(b) For each bottle of wine................................. 7p (c) For each carton of 200 cigarettes or part thereof................................................ ...........
-
-65p (d) For every 100 cigarillos or whiffs or part thereof................................................ ........... 45p (e) For every 50 cigars or part thereof................ 45p (f) For any other items, ad valorem.................... 2%
-
-2. Goods delivered to ships about to leave Gibraltar.
-
-(a) For each bottle of spirituous liquor the content of which-
-
-(i) Does not exceed .375 litre............ 15p (ii) Exceeds .375 litre but does not exceed .75 litre.............................
-
-20p (iii) Exceeds .75 litre but does not exceed 1
-
-35p
-
-Imports and Exports
-
-1986-21 litre................................ (iv) Exceeds 1 litre.............................. 35p
-
-(b) For each bottle of wine................................. 7p (c) For each carton of 200 cigarettes or part thereof................................................ ...........
-
-15p (d) For every 100 cigarillos or whiffs or part thereof................................................ ........... 45p (e) For every 50 cigars or part thereof................ 45p (f) For every 250 grammes or part thereof of tobacco.............................................. ............ 45p
-
-3. Goods delivered to a person about to leave Gibraltar by ship.
-
-(a) For each bottle of spirituous liquor the content of which-
-
-(i) Does not exceed .375 litre............ 17p (ii) Exceeds .375 litre but does not exceed .75 litre.............................
-
-32p (iii) Exceeds .75 litre but does not exceed 1 litre................................
-
-43p (iv) Exceeds 1 litre.............................. 49p
-
-(b) For each bottle of wine................................. 7p (c) For each carton of 200 cigarettes or part thereof................................................ ...........
-
-45p (d) For every 100 cigarillos or whiffs or part thereof................................................ ........... 45p
-
-Imports and Exports
-
-1986-21 (e) For every 50 cigars or part thereof................ 45p (f) For every 250 grammes or part thereof of tobacco.............................................. ............ 45p
+___________________________
 
 Imports and Exports
 
