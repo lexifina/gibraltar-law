@@ -8,7 +8,7 @@ BUSINESS NAMES RULES
 
 29.10.1918
 
-Amending enactments Relevant current provisions Commencement date rules of 13.2.1958 L.N. 1971/008 r. 9 and Sch. 1971/050 r. 9 1985/038 r. 9 1.4.1985
+Amending enactments Relevant current provisions Commencement date rules of 13.2.1958 L.N. 1971/008 r. 9 and Sch. 1971/050 r. 9 1985/038 r. 9 1.4.1985 1989/020 r. 9 1.4.1989
 
 Business Names Registration BUSINESS NAMES RULES.
 
