@@ -8,11 +8,15 @@ Principal Act
 
 Act. No.  1973-23 Commencement 12.7.1973 Assent 12.7.1973
 
+Amending enactments Relevant current provisions Commencement date Act 1993-29 ss. 2(1), 4(1), (4), 7(2), (4), 9(2), (4), 10(1A), (1B), 11(2), 12(1)(c)
+
+5.11.1998
+
 English sources: Maintenance Orders (Reciprocal Enforcement Act 1972 (1972 c.18)
 
-___________________________
+Maintenance Orders (Reciprocal Enforcement)
 
-ARRANGEMENT OF SECTIONS.
+1973-23 ARRANGEMENT OF SECTIONS.
 
 Section
 
