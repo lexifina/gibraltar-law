@@ -10,6 +10,8 @@ LEGITIMACY RULES
 
 17.9.1932
 
+Amending enactments Relevant current provisions Commencement date LN. 1989/083 r. 10 1.1.1989
+
 ______________________
 
 ARRANGEMENT OF RULES.
