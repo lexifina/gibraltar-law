@@ -10,7 +10,11 @@ Act. No. 1995-06 Commencement
 
 LN. 1995/029 LN. 1995/044 (Variation to notice 1995/029) ss.2, 68(1)(a), (d) and (e) and Part IV
 
-9.3.1995 Assent 9.3.1995
+9.3.1995
+
+LN. 1995/039 ss.3-36, 46-47, 54-67 and 69
+
+20.3.1995 Assent 9.3.1995
 
 Amending Enactments Relevant current provisions Commencement date
 
