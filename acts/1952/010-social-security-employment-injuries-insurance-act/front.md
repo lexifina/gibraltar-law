@@ -74,7 +74,9 @@ LN. 1983/097 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Schs.2-5
 
 1.1.1988 1988/122 ss, 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.2-5
 
-1.1.1989 Act. 1989-40 ss. 2, 51(1), (5), 55 21.12.1989
+1.1.1989 Act. 1989-40 ss. 2, 51(1), (5), 55 21.12.1989 LN. 1989/115 ss, 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.1-5
+
+1.1.1990
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
