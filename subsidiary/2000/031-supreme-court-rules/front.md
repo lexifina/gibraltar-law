@@ -10,9 +10,15 @@ SUPREME COURT RULES 2000
 
 4.5.2000
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF RULES
+LN. 2003/044 Sch. 6 10.4.2003
+
+Supreme Court SUPREME COURT RULES 2000
+
+1960-02
+
+Subsidiary 2000/031 ARRANGEMENT OF RULES
 
 Rule
 
@@ -32,13 +38,15 @@ bankruptcy. 8. Certain English rules and practice excluded. 9. Filing of copies.
 
 PART IV APPEALS IN CIVIL MATTERS
 
+Appeals from a Master
+
+13. Application for leave to appeal. 14. Notice of appeal. 15. Appeal record. 16. Memorandum of appeal. 17. Failure to lodge memorandum. 18. Notice of cross-appeal. 19. Addition of parties. 20. Setting down and notice of hearing. 21. Evidence. 22. Arguments at hearing.
+
 Supreme Court SUPREME COURT RULES 2000
 
 1960-02
 
-Subsidiary 2000/031 Appeals from a Master
-
-13. Application for leave to appeal. 14. Notice of appeal. 15. Appeal record. 16. Memorandum of appeal. 17. Failure to lodge memorandum. 18. Notice of cross-appeal. 19. Addition of parties. 20. Setting down and notice of hearing. 21. Evidence. 22. Arguments at hearing. 23. Death of party. 24. Failure of parties to appear.
+Subsidiary 2000/031 23. Death of party. 24. Failure of parties to appear.
 
 Appeals by case stated from the magistrates' court
 
@@ -52,17 +60,17 @@ PART V REGISTRATION OF DEEDS AND WILLS PURSUANT TO SECTION 3 OF THE GIBRALTAR LA
 
 35. Delivery of deed or will for registration. 36. Receipt. 37. Registration. 38. Return of deed or will. 39. Binding of copies. 40. Register and index. 41. Revocation.
 
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031 PART VI ENROLMENT OF DEEDS
+PART VI ENROLMENT OF DEEDS
 
 42. Delivery of deed for enrolment. 43. Receipt. 44. Enrolment. 45. Return of deed. 46. Binding of copies.
 
 PART VII RECORDS
 
-47. Records. 48. Public inspection.
+Supreme Court SUPREME COURT RULES 2000
+
+1960-02
+
+Subsidiary 2000/031 47. Records. 48. Public inspection.
 
 PART VIII FEES, COSTS, EXPENSES AND COMMISSION
 
