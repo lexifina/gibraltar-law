@@ -49,3 +49,5 @@ Marriage 1948-36 Marriage Rules 1948.03.11
 10. Second or subsequent certified extract of the same entry applied for at the same time as any extract in item 9(ii) above
 
 1.00
+
+11. Certified copy of any entry in the marriage register book requested under Section 41(2) of the Social Insurance Act (Cap. 145). 50p
