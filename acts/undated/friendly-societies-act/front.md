@@ -28,6 +28,8 @@ Act. 1972-06 s. 47
 
 1983-12 s. 4(1)
 
+1999-19 s. 43 26.8.1999
+
 English sources
 
 Friendly Societies Act 1875 (38 & 39 Vict.c.60) Friendly Societies Act 1887 (50 & 51 Vict.c.56) Industrial Assurance Act 1923 (13 & 14 Geo.5 c.8)
@@ -74,7 +76,7 @@ Friendly Societies
 
 Privileges of Societies.
 
-42. Power of nomination not exceeding £200. 43. Distribution not exceeding £100 in certain cases. 44. Payments. 45. When Registrar may order moneys to be transferred. 46. Priority on death, bankruptcy, etc., of officer. 47. Membership of minors. 48. Limitation of cost of certificates. 49. Subscription to hospitals.
+42. Power of nomination not exceeding £200. 43. Repealed. 44. Payments. 45. When Registrar may order moneys to be transferred. 46. Priority on death, bankruptcy, etc., of officer. 47. Membership of minors. 48. Limitation of cost of certificates. 49. Subscription to hospitals.
 
 Property and Funds of Societies.
 
