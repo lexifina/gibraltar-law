@@ -8,7 +8,7 @@ EMPLOYMENT REGULATIONS, 1994
 
 14.2.1994
 
-Amending enactments Relevant current provisions Commencement date LN. 1994/073 rr. 2, 4, 11, Sch.7 14.2.1994 1994/100 rr. 2, 15A, Schs. 2-3, 7 22.9.1994 1994/104 r. 15A(1) 22.9.1994 Act. 1999-13 r. 26 12.8.1999 LN. 1999/096 r. 3 12.8.1999 2001/066 r. 3 7.6.2001 2004/094 rr. 5(1), 6(4)(a), (c)-(d), 7A, 30.9.2004
+Amending enactments Relevant current provisions Commencement date LN. 1994/073 rr. 2, 4, 11, Sch.7 14.2.1994 1994/100 rr. 2, 15A, Schs. 2-3, 7 22.9.1994 1994/104 r. 15A(1) 22.9.1994 Act. 1999-13 r. 26 12.8.1999 LN. 1999/096 r. 3 12.8.1999 2001/066 r. 3 7.6.2001 2004/094 rr. 5(1), 6(4)(a), (c)-(d), 7A, 30.9.2004 2005/047 Sch.7 1.4.2005
 
 Transposing: Directive 91/533/ECC Regulation 1612/68
 
