@@ -12,7 +12,9 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/163 r. 20. 30.12.1997 1999/159 r. 10A 25.11.1999
+LN. 1997/163 r. 20. 30.12.1997 1999/159 r. 10A 25.11.1999 2001/035 rr. 2, 3, 3A, 3B, 3C, 4, 6(2), 21 and 22.
+
+19.4.2001
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
 
@@ -30,7 +32,7 @@ PART I GENERAL
 
 PART II CONTRIBUTIONS
 
-3. Application of Part I of Employment Injuries (Contributions) Regulations. 4. Application of Part II of the Employment Injuries (Contributions) Regulations. 5. Disposal of contributions improperly paid. 6. Recovery of contributions. 7. Late paid or unpaid contributions. 8. Payments after death.
+3. Application of Employment Injuries (Contributions) Regulations. 3A.  Contribution schedules as respects self-employed persons. 3B.  Payment of contributions. 3C.  Assessments by Director of contributions owing. 4. Application of Employment Injuries (Contributions) Regulations. 5. Disposal of contributions improperly paid. 6. Recovery of contributions. 7. Late paid or unpaid contributions. 8. Payments after death.
 
 PART III CREDITS
 
@@ -38,13 +40,13 @@ PART III CREDITS
 
 PART IV ARREARS
 
-18.   Right to pay arrears. 19.   Arrears notices. 20.   Rate of arrears. 21.   Method of payment of arrears.
+18.   Right to pay arrears. 19.   Arrears notices. 20.   Rate of arrears.
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
 
 1997-16
 
-Subsidiary 1997/116 22.   Time for payment of arrears. 23.   Arrears not to be taken into account for certain purposes.
+Subsidiary 1997/116 21.   Method of, and time for payment of arrears. 22.   Omitted. 23.   Arrears not to be taken into account for certain purposes.
 
 SCHEDULE Conditions attaching to the credit of contributions in respect of unemployment or incapacity.
 
