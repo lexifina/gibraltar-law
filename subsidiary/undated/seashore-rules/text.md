@@ -10,17 +10,7 @@ SEASHORE RULES
 
 2.8.1968
 
-Amending enactments Relevant current provisions Commencement date
-
-Regs of 28.5.1970
-
-LN. 1971/100 r. 9
-
-Act. 1972-05 r. 17
-
-LN. 1974/058 rr. 3-4, 14-15
-
-1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989
+Amending enactments Relevant current provisions Commencement date Regs of 28.5.1970 LN. 1971/100 r. 9 Act. 1972-05 r. 17 LN. 1974/058 rr. 3-4, 14-15 1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989 1989/065 r. 7A 11.8.1989
 
 Public Health SEASHORE RULES
 
@@ -30,7 +20,7 @@ Subsidiary 1968.07.04 ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title. 2. Interpretation. 3. Booths, tents, etc. 4. Leaving of tents, etc., on beach overnight. 5. Games. 6. Fees. 7. Ball games prohibited at Catalan Bay. 8. Noisy instruments. 9. Control of dogs. 10. Broken glass, etc. 11. Ashes, filth, etc. 12. Indecent dress. 13. Changing on the seashore. 14. Swimming pools. 15. Paddling pools. 16. Wilfully obstructing police officers, etc. 17. Penalty.
+1. Title. 2. Interpretation. 3. Booths, tents, etc. 4. Leaving of tents, etc., on beach overnight. 5. Games. 6. Fees. 7. Ball games prohibited at Catalan Bay. 7A. Angling. 8. Noisy instruments. 9. Control of dogs. 10. Broken glass, etc. 11. Ashes, filth, etc. 12. Indecent dress. 13. Changing on the seashore. 14. Swimming pools. 15. Paddling pools. 16. Wilfully obstructing police officers, etc. 17. Penalty.
 
 Public Health SEASHORE RULES
 
@@ -86,6 +76,12 @@ Ball games prohibited at Catalan Bay.
 
 7. The playing of ball games on the seashore at Catalan Bay is prohibited.
 
+Angling
+
+7A.(1) Angling is prohibited from any beach to which this rule applies except from such places as the Minister charged with responsibility for tourism may from time to time set apart for that purpose.
+
+(2) The beaches to which this rule applies are Black Strap Cove (sometimes called Miami Beach), Camp Bay (including the Keys Promenade), Catalan Bay, Eastern Beach, Little Bay, Sandy Bay, Shirley Cove and Western Beach.
+
 Noisy instruments.
 
 8. No person shall ring any bell or sound any gong or blow any horn or trumpet or use any other noisy instrument including a radio or television receiver on the seashore to the annoyance of any person using the seashore.
@@ -94,17 +90,17 @@ Prohibition on dogs.
 
 9. (1) The owner of a dog, and any person in charge of a dog, shall not allow such dog to be on the seashore –
 
-(a) at any time on any day during the period from the last Saturday in April to the first Sunday in October (inclusive) in any year;
+Public Health SEASHORE RULES
+
+1950-07
+
+Subsidiary 1968.07.04 (a) at any time on any day during the period from the last Saturday in April to the first Sunday in October (inclusive) in any year;
 
 (b) between 10 am and 7.30 pm on any other day.". Dated this 4th day of February, 1988.
 
 (2)  Any dog in respect of which an offence is being committed under this rule may (in the absence of the owner or other person having the custody thereof) be seized and impounded as a stray animal under section 24 of the Animals and Birds Act.
 
-Public Health SEASHORE RULES
-
-1950-07
-
-Subsidiary 1968.07.04 Broken glass, etc.
+Broken glass, etc.
 
 10. No person shall throw, place or wilfully leave on the seashore any glass, china or earthenware article (whole or broken) or tins in such a position as to be likely to cause injury to any person using the seashore.
 
@@ -130,7 +126,13 @@ Paddling pools.
 
 Wilfully obstructing police officers, etc.
 
-16. No person shall on the seashore wilfully obstruct, disturb or interrupt any police officer or other officer of the Government in the proper discharge of his duties or any person employed by the Government in the proper execution of any work connected with the improvement, maintenance or regulation of the seashore.
+16. No person shall on the seashore wilfully obstruct, disturb or interrupt any police officer or other officer of the Government in the proper discharge
+
+Public Health SEASHORE RULES
+
+1950-07
+
+Subsidiary 1968.07.04 of his duties or any person employed by the Government in the proper execution of any work connected with the improvement, maintenance or regulation of the seashore.
 
 Penalty.
 
