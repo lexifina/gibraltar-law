@@ -8,9 +8,11 @@ CONDITIONS OF EMPLOYMENT (WHOLESALE TRADE) ORDER, 1995
 
 7.8.1995
 
-_____________________________
+Amending enactments Relevant current provisions Commencement date LN. 1996/050 Sch. 15.4.1996
 
-ARRANGEMENT OF PARAGRAPHS
+Employment CONDITIONS OF EMPLOYMENT (WHOLESALE TRADE) ORDER, 1995
+
+Subsidiary 1995/110 1932-16 ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 
