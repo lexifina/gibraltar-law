@@ -30,7 +30,7 @@ day of
 
 , 20
 
-(Signed) ......................................... Director of Medical and Health Services.
+(Signed) ......................................... Chief Environmental Health Officer.
 
 Public Health COMMON LODGING-HOUSE RULES
 
@@ -50,4 +50,4 @@ And whereas I have determined that it is expedient to vary the number heretofore
 
 Now, I,
 
-, Director of Medical and Health Services, do hereby give you notice that from and after the day of the maximum number of lodgers authorized to be received at any one time into such house and into the several rooms therein shall be the number specified in respect of such house and of each of such rooms in the Schedule hereunto appended.
+, Chief Environmental Health Officer, do hereby give you notice that from and after the day of the maximum number of lodgers authorized to be received at any one time into such house and into the several rooms therein shall be the number specified in respect of such house and of each of such rooms in the Schedule hereunto appended.

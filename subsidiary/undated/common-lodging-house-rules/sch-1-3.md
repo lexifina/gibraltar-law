@@ -28,4 +28,4 @@ Dated this day of
 
 , 20     .
 
-(Signed)................................................ Director of Medical and Health Services.
+(Signed)................................................ Chief Environmental Health Officer.
