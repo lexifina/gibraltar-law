@@ -12,10 +12,6 @@ Permission is hereby granted to . . . . . . . . . . . . . . . . . .  . . . . . .
 
 Date . . . . . . . . . . . . .              . . . . . . . . . . . . . . . . . Authority
 
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
-
 FORM B.
 
 GOVERNMENT OF GIBRALTAR.
@@ -27,10 +23,6 @@ LICENCE TO EXPORT EXPLOSIVES.
 Permission is hereby granted to . . . . . . . . . . . . . . . . . . . . . . . .  of . . . . . . . . . . . . . . . . . . . . to export  the following  explosives: Consignor’s name and address . . . . . . . . . . . . . . . . . . . Consignee’s name and address . . . . . . . . . . . . . . . . . . . Destination of explosives . . . . . . . . . . . . . . . . . . . . . . . Date of export or expected  export . . . . . . . . . . . . . . . . .
 
 Date . . . . . . . . . . . . . .                  . . . . . . . . . . . . . . . . Authority
-
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
 
 FORM C.
 
@@ -54,10 +46,6 @@ This licence expires on the 31st day of December following the date of its issue
 
 Date . . . . . . . . . . . . . .             . . . . . . . . . . . . . . . .
 
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
-
 FORM D.
 
 GOVERNMENT OF GIBRALTAR.
@@ -74,10 +62,6 @@ Date . . . . . . . . . . . . . .          . . . . . . . . . . . . . . . . Author
 
 CONDITIONS.
 
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
-
 FORM E.
 
 GOVERNMENT OF GIBRALTAR.
@@ -86,15 +70,11 @@ EXPLOSIVES REGULATIONS. (REGULATION 57).
 
 EXPLOSIVES MAGAZINE LICENCE.
 
-Licence is hereby granted to . . . . . . . . . . . . . . . . . . . . . . . . . . .  of . . . . . . . . . . . . . . . . . . . . . . . . . . . . to use building of specifications  according to . . . . . . . . . . . . . . . . . . . . and situate at . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . according to site plan . . . . . . . . . . . . . . . . . . . . . . . .  for the storage of . . . . . . . explosives not exceeding  a maximum  quantity of . . . . . . . . . . . . Special conditions
+Licence is hereby granted to . . . . . . . . . . . . . . . . . . . . . . . . . . .  of . . . . . . . . . . . . . . . . . . . . . . . . . . . . to use building of specifications  according to . . . . . . . . . . . . . . . . . . . . and situate at . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  according to site plan . . . . . . . . . . . . . . . . . . . . . . . . for the storage of . . . . . . . explosives not exceeding  a maximum  quantity of . . . . . . . . . . . . Special conditions
 
 This licence expires on the 31st day of December following the date of issue. Fee paid:  £45 .
 
 Date . . . . . . . . . . . . . .       . . . . . . . . . . . . . . . . . Authority
-
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
 
 FORM F.
 
@@ -134,10 +114,6 @@ Storage shall be in accordance with the following conditions:
 
 (6)  Boxes shall be kept only at . . . . . . . . . . . . . .
 
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
-
 This licence expires on the 31st day of December following the date of its issue.
 
 Fee paid:  £5 .
@@ -148,17 +124,13 @@ Date . . . . . . . . . . . . . .
 
 Authority.
 
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
-
 FORM G GOVERNMENT OF GIBRALTAR.
 
 EXPLOSIVES REGULATIONS. (REGULATION 72).
 
 LICENCE TO ALLOW EMPLOYER TO SUPPLY EMPLOYEE WITH EXPLOSIVES.
 
-Authority  is hereby  granted  to . . . . . . . . . . . . . . . . . . . . . . . . of . . . . . . . . . . . . . . . . . . . . . . . . . . . ..  who holds a permit dated . . . . . . . . . . . . . . to possess explosives to supply such explosives to such of his employees or agents as he shall consider sufficiently experienced and  otherwise   suitable.
+Authority  is hereby  granted  to . . . . . . . . . . . . . . . . . . . . . . . . of . . . . . . . . . . . . . . . . . . . . . . . . . . . ..  who holds a permit dated . . . . . . . . . . . . . . to possess explosives to supply such explosives to such of his employees or agents as he shall consider sufficiently experienced and otherwise   suitable.
 
 Nature and quantity of explosives to be supplied . . . . . . . . . . . . .
 
@@ -168,11 +140,7 @@ Place at which explosives are to be used . . . . . . . . . . . . . . . . . . .
 
 Period for which this authority is available . . . . . . . . . . . . . . . . .
 
-Date . . . . . . . . . . . . . .      . . . . . . . . . . . . . . . . . Authority.
-
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
+Date . . . . . . . . . . . . . .      . . . . . . . . . . . . . . . . .
 
 FORM H.
 
@@ -190,10 +158,6 @@ This licence expires on the 31st day of December following the date of issue.
 
 Licence Fee: £5 . Date of issue. . . . . . . . . . . . . .
 
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
-
 FORM I.
 
 GOVERNMENT OF GIBRALTAR.
@@ -206,7 +170,7 @@ I . . . . . . . . . . . . . . . . . .. . . . . . . .the applicant for a blasting
 
 Signature or mark of applicant . . . . . . . . . . . . . . . . Address of applicant . . . . . . . . . . . . . . . . . . . . . . . . .
 
-I, . . . . . . . . . . . the holder of the authority to possess explosives, employing . . . . . . . . . . . .the applicant *signing (or making his mark) above, make the following statement with regard to his application:
+I, . . . . . . . . . . . the holder of the authority to possess explosives, employing  . . . . . . . . . . . .the applicant *signing (or making his mark) above, make the following statement with regard to his application:
 
 *(a)  I have been shown the blasting certificate issued to the applicant in. . . . . . . .. . . . . . . . . . . . . . . (Country of issue)
 
@@ -214,7 +178,7 @@ I, . . . . . . . . . . . the holder of the authority to possess explosives, empl
 
 *(c)  To the best of my knowedge and belief he is a person  competent to carry out ordinary blasting operations.
 
-*(d) He has had sufficient knowledge of the regulations and experience as a learner to present himself for examination  for a blasting licence.
+*(d) He has had sufficient knowledge of the regulations and  experience as a learner to present himself for examination  for a blasting licence.
 
 *(e)  He is a responsible person with considerable mining  experience.
 
@@ -225,7 +189,3 @@ Signature of the holder of the authority to possess explosives . . . . . . . . .
 Address. . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Strike out passages not applicable.
-
-Explosives EXPLOSIVES REGULATIONS
-
-Subsidiary 1961.06.20 1960-10
