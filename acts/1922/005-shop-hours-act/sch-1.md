@@ -1,12 +1,6 @@
-SCHEDULE 1.
+SCHEDULE 1. s.2
 
-Section 4(3)
-
-______________________
-
-INTERVALS FOR MEALS.
-
-Intervals for meals shall be arranged so as to secure that no shop assistant shall be employed for more than five consecutive hours without an interval of at least one hour being allowed during the course thereof, and that where the duration of the daily employment exceeds six hours, one interval of at least one and a half hours, or alternatively an additional interval of half an hour shall be arranged
+“Retail Trade or Business” includes the business of barber or hairdresser, the sale of refreshments or intoxicating, the business of lending books or periodicals or audio or video tapes when carried out on or for the purpose of gain and retail sales by auction but does not include the sale of programmes and cataloguers and other sales at theatres and places of amusement.
 
 Shop Hours
 
