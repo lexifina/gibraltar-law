@@ -12,7 +12,7 @@ Assent 16.12.1993
 
 Amending enactments Relevant current provisions Commencement date LN. 1994/121 ss.2, 2(d), 3(4), 3(4)(b), (c) and (d), Sch.1 and Sch.3A.
 
-1.9.1994
+1.9.1994 1995/042 s. 3(1A) 1.4.1995
 
 Contracts (Applicable Law)
 
