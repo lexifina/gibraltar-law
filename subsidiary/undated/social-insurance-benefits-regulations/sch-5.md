@@ -46,10 +46,6 @@ Full rate of grant payable
 
 PART V
 
-(1) (2) (3) (4) Yearly Average of Contributions paid or Credited
-
-Full rate of Grant Payable payable
-
-£350 30-44 £263 13-29 £175
+(1) (2) Yearly average of contributions paid or credited Reduced rates at which Death Grant is payable 30-44 £271 13-29 £180
 
 ___________________________
