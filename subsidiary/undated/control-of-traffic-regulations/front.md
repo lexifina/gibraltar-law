@@ -8,7 +8,7 @@ CONTROL OF TRAFFIC REGULATIONS
 
 [1960.03.15]
 
-Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987
+Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987
 
 Traffic CONTROL OF TRAFFIC REGULATIONS
 
