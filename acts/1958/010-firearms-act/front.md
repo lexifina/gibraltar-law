@@ -18,6 +18,8 @@ Amending enactments Relevant current provisions Commencement date Acts. 1961-23 
 
 1981-12 ss. 5(1), 10(2), 11(2)
 
+1987-19 ss. 5(1), 10(2) 16.7.1987
+
 English source: Firearms Act 1937  (1Edw.8 & 1 Geo. 6 c.12)
 
 Firearms
