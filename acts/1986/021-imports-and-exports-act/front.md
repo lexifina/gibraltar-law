@@ -18,9 +18,13 @@ Amending enactments Relevant current provisions Commencement date Act. 1987-06 s
 
 1993-10 ss. 2(1), 3(1)-(3), 4(1)-(2), 8(2)(c)-(d), 10, 13, 14(1)(c), 18(1)(a)-(c), (5), 20(1)(a), (2), 24(1)(b), 28(1)-(2), 29, 34(1)(b)-(d), (2), 38, 56(b), 57(2), 58(1), 67(1), 72(1)-(2), 73(1)-(4), 77, 81(5), 83(1)(b), (4), 109(4), 112(1)
 
-1.3.1993
+1.3.1993 1993-10 ss. 22(3)-(4), 23(1)-(2), 27, 32(1)-(2), 35, 36(1)-(2), 39-40, 43-44, 50, 53, 55, 62, (b), 90, 98(1), 105(a), 113, 128(a), 129(b), (e)-(f)
 
-English Sources: Customs and Excise Act, 1952 (1952 c.44)
+15.3.1993
+
+Imports and Exports
+
+1986-21 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
 Imports and Exports
 
@@ -76,21 +80,21 @@ Goods Imported by Post.
 
 Places for Storage.
 
-27. Designation of Government stores. 28. Approval of transit sheds. 29. Licence fees. 30. Approval of private bonded stores. 31. Restriction on storage in ships, etc., or at airport.
+27. Customs warehouse. 28. Approval of transit sheds. 29. Licence fees. 30. Approval of private bonded stores. 31. Restriction on storage in ships, etc., or at airport.
 
 Deposit of Goods in Stores.
 
-32. Removal of dutiable goods in stores. 33. Goods entered for storage. 34. Receptacles found on wharf during closed hours. 35. Repacked goods. 36. Dangerous goods.
+32. Removal of dutiable goods in stores. 33. Goods entered for storage. 34. Receptacles found on wharf during closed hours. 35. Revoked 36. Dangerous goods.
 
 Operations in Stores.
 
-37. Sorting, repacking, etc., of goods in stores. 38. Taking samples. 39. Time limit for storage. 40. Renewal of storage. 41. Duty to produce goods in private bonded stores.
+37. Sorting, repacking, etc., of goods in stores. 38. Taking samples. 39. Time limit for storage. 40. Conditions in relation to storage. 41. Duty to produce goods in private bonded stores.
 
 Imports and Exports
 
 1986-21 Sales and Disposals of Goods by the Collector.
 
-42. Conduct of sales. 43. Proceeds of sale and recovery rent, etc. 44. Right of action to recover rent, etc.
+42. Conduct of sales. 43. Proceeds of sale and recovery rent, etc. 44. Revoked.
 
 PART V. IMPORT DUTY.
 
@@ -148,7 +152,7 @@ PART VIII. SPECIAL PROVISIONS RELATING TO WINES, SPIRITS AND TOBACCO.
 
 Imports and Exports
 
-1986-21 89. Owner may take samples. 90. Quantities of spirits that may be removed. 91.   Export of tobacco.
+1986-21 89. Owner may take samples. 90. Repealed. 91.   Export of tobacco.
 
 PART IX. MISCELLANEOUS.
 
