@@ -12,7 +12,7 @@ Assent 23.7.1981
 
 Amending enactments Relevant current provisions Commencement date Acts. 1981-18 s.13 1983-15 s.15A 1984-04 ss.10(2)(c)(i) and 10(3)(a) 19.4.1984 1985-03 ss.15B, 15C, 15D, 15E, 15F, 15G and 15H
 
-24.1.1985
+24.1.1985 1986-08 ss.10(2)(c)(i) and 10(3)(a) 30.4.1986
 
 Development Aid
 
