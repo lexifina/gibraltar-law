@@ -1,25 +1,17 @@
-Income Tax INCOME TAX (CONSTRUCTION SUB-CONTRACTORS) REGULATIONS, 1994
+Subsidiary Legislation made under s.67.
 
-2010-21
+Income Tax (Construction Sub-Contractors) Regulations, 1994
 
-Subsidiary 1994/078 Regulations made under s.67.
+LN.1994/078
 
-INCOME TAX (CONSTRUCTION SUB-CONTRACTORS) REGULATIONS, 1994
-
-(LN. 1994/078)
-
-1.8.1994
+Commencement 1.8.1994
 
 Amending enactments Relevant current provisions Commencement date
 
-LNs. 1994/086 – 1.8.1994
+LN. 1994/086 – 1.8.1994 1999/086 r.4(1) 1.7.1999
 
-______________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
 1. Title and commencement. 2. Interpretation. 3. Application. 4. Obligation to deduct and account for tax. 5. Exemption certificates. 6. Duration, renewal and cancellation of a certificate of exemption. 7. Offences.
-
-Income Tax INCOME TAX (CONSTRUCTION SUB-CONTRACTORS) REGULATIONS, 1994
