@@ -1,32 +1,26 @@
-Food and Drugs MILK AND DAIRIES REGULATIONS
+Subsidiary Legislation made under ss.23, 24, 27 and 58.
 
-1964-07
+Milk and Dairies Regulations
 
-Subsidiary 1964.05.26-1 Regulations made under ss. 23, 24, 27 and 58
+1964.05.26-1
 
-MILK AND DAIRIES REGULATIONS
-
-(1964.05.26-1)
-
-21.8.1964
+Commencement 21.8.1964
 
 Amending enactments Relevant current provisions Commencement date
 
-1964.11.25 regs. 4(3) and (4).
+1964.11.25 reg. 4(3)-(4)
 
-1970.05.28 regs. 2, 3, 4, 5(1)-(3) and (6), 11(1) and (4), 19, 24 and Sch. 1.
+1970.05.28 regs. 2-4, 5(1)-(3), (6), 11(1), (4), 19, 24, Sch. 1
 
-1978/099 regs. 2, 18-22 and Schs. 1,2 and 3.
+LN. 1978/099 rr. 2, 18-22, Schs. 1-3
 
-1978/102 reg. 19 (corrigendum) 1979/068 Sch. 3 (corrigendum) 1987/022 regs. 2, 5(6), 16(2), 25 and Parts VIII and IX.
+1978/102 rr. 19 (corrigendum)
 
-1.8.1987 1988/003 regs. 5, 9, 10 and 11. 1.2.1988
+1979/068 Sch. 3 (corrigendum)
 
-Food and Drugs MILK AND DAIRIES REGULATIONS
+1987/022 rr. 2, 5(6), 16(2), 18-23, 25, 1.8.1987 1988/003 rr. 5, 9-11 1.2.1988 1998/109 rr. 9-11 26.11.1998
 
-1964-07
-
-Subsidiary 1964.05.26-1 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -52,23 +46,21 @@ PART V. GENERAL PROVISIONS FOR PROTECTING MILK AGAINST CONTAMINATION OR INFECTIO
 
 12.  Handling, etc., of milk. 13.  Cleanliness of clothing.
 
-PART VI. PROVISIONS RELATING TO THE CLEANSING AND STORAGE OF VESSELS, UTENSILS AND APPLIANCES.
+PART VI. PROVISIONS RELATING TO THE CLEANSING
 
-Food and Drugs MILK AND DAIRIES REGULATIONS
+AND STORAGE OF VESSELS, UTENSILS AND APPLIANCES.
 
-1964-07
+14.  Approved receptacles. 15.  Cleanliness of vessels containing milk.
 
-Subsidiary 1964.05.26-1 14.  Approved receptacles. 15.  Cleanliness of vessels containing milk.
-
-PART VII CONEYANCE AND DISTRIBUTION OF MILK
+PART VII. CONEYANCE AND DISTRIBUTION OF MILK
 
 16.  Vessels not to be opened in course of conveyance. 17.  Protection of milk.
 
-PART VIII. PROVISIONS RELATING TO THE IMPORTATION AND SALE OF MILK.
+PART VIII. Revoked
 
-18 –21. Revoked.
+18 – 21. Revoked.
 
-PART IX. PRESUMPTIVE EVIDENCE OF’ ADULTERATION OF MILK.
+PART IX. Revoked
 
 22 – 23. Revoked.
 
@@ -80,8 +72,4 @@ PART XI. PENALTIES.
 
 25.  Penalty.
 
-SCHEDULE 1- 3. Revoked.
-
-Food and Drugs MILK AND DAIRIES REGULATIONS
-
-1964-07
+SCHEDULES 1- 3
