@@ -12,7 +12,9 @@ Assent 28.4.1974
 
 Amending enactments Relevant current provisions Commencement date Acts. 1976-24 s. 73 1982-33 ss. 31, 82(1) and 83 1984-01 s. 73(1), (2A), (2B) and (2C) 30.4.1984 1986-09 Sch 17.7.1986 1987-34 ss. 2(1), 54(1), 56(1) and (5), 58(1) and 59
 
-1.2.1988 1990-25 ss. 50 and 73(1) and (2) 7.6.1990
+1.2.1988 1990-25 ss. 50 and 73(1) and (2) 7.6.1990 1997-25 ss. 2(1), 54(1), 56(1) and (5), 58(1) and 59
+
+21.8.1997
 
 English sources: None cited
 
