@@ -44,7 +44,7 @@ Amending enactments Relevant current provisions Commencement date
 
 1983/026 Sch. 4-5
 
-1984/080 Sch. 4 1.10.1984 1986/134 Sch. 4 31.12.1986
+1984/080 Sch. 4 1.10.1984 1986/134 Sch. 4 31.12.1986 1986/114 rr. 2, 117A-117O, Sch. 2A 1.1.1987
 
 Port PORT RULES
 
@@ -108,29 +108,33 @@ Subsidiary 1960.08.11 General Regulations as to Vessels in Port.
 
 96. Equipment of boats. 97. Master not to refuse hire. 98. Supply of tarpaulin. 99. Boats not to approach or make fast to ships without permission. 100. Boatman to obey orders. 101. Small vessels not to go alongside ships under way. 102. Supply of liquor to persons on board. 103. Hawking and trading. 104. Employment of persons on trading vessels, etc. 105. Offences by bumboatmen. 106. No movement at night without permission. 107. Small craft to give way. 108. Small vessels to keep clear of harbour tugs. 109. Row boats to give way to sailing boats. 110. Small vessels to carry lights. 111. Approaches to wharves, landing places and ships ladders to be kept clear. 112. Mooring of small vessels. 113. Small vessels sunk in the port. 114. Liability of the Captain of the Port. 115. Suspension of licence for misconduct. 116. Offences by owners and masters. 117. Penalties.
 
+PART IVA.-FAST LAUNCHES
+
+117A. Application. 117B. Licensing of fast launches. 117C. Forms and fees. 117D. Revocation of licences. 117E. Right of appeal. 117F. Authorised use. 117G. Change of ownership. 117H. Identification of fast launches. 117I. Arrivals and departures to be reported. 117J. Prohibition of operation and mooring. 117K. Berthing in marinas, etc. 117L. Carrying of fuel. 117M. Modification or replacement of engines. 117N. Survey of fast launches. 117O. Offences.
+
 PART V.–DANGEROUS GOODS OR EXPLOSIVES.
-
-118. Master to give notice of explosives or dangerous goods on board. 119. Exemption. 120. Berthing of vessels carrying explosives. 121. Bunkering of vessels carrying explosives. 122. Discharge of vessels carrying explosives. 123. Notice of loading and unloading explosives. 124. Hulk or lighter. 125. Red flag to be exhibited. 126. Fires and use of radar prohibited. 127. Smoking and certain wearing apparel prohibited. 128. Drunkenness. 129. Explosives to be covered. 130. Escaping explosives. 131. Method of handling explosives. 132. Only explosives to be handled at one time. 133. General precautions to be observed. 134. Supervision.
-
-Port PORT RULES
-
-1960-16
-
-Subsidiary 1960.08.11 135. Permits to land explosives. 136. Special permit when Abel test applied. 137. Hours during which explosives may be handled. 138. Control of quantity of explosives. 139. Detonators, etc. 140. Liability for expenses. 141. Notice to be given to the Captain of the Port. 142.  Control by Captain of the Port of places where explosives may be loaded, etc. 143.  Vessels to be ready to receive explosives. 144.  Inspection and examination. 145.  Petroleum. 146.  Carbide. 147.  Bunkering. 148.  Permission to be in writing. 149.  Bunkering prohibited while vessel loading or discharging explosive;. 150.  Rules not to apply to vessels in Admiralty waters. 151.  Offences.
-
-PART VI.–CONTROL OF PORT AREAS.
-
-152. Closing roads, wharves etc. 153. Vehicles. 154. Trespassers on certain property. 155. Vehicles to take place assigned. 156. Vehicles to move when required. 157. Behaviour of driver of vehicle. 158. Danger signals. 159. Fire hydrants. 160. Fire-fighting operations. 161. Entering or leaving port. 162. Exemption of Government from all liability. 163. Hawking and trading. 164. Advertising on harbour property. 165. Bathing. 166. Dogs and wild animals. 167. Ballast permits. 168. Smoking prohibited. 169. Vagrants. 170. Offences and penalty.
-
-PART VII.–PORT CHARGES.
-
-171.  Port charges. 172.  Exemption.
 
 Port PORT RULES
 
 1960-16
 
 Subsidiary 1960.08.11
+
+118. Master to give notice of explosives or dangerous goods on board. 119. Exemption. 120. Berthing of vessels carrying explosives. 121. Bunkering of vessels carrying explosives. 122. Discharge of vessels carrying explosives. 123. Notice of loading and unloading explosives. 124. Hulk or lighter. 125. Red flag to be exhibited. 126. Fires and use of radar prohibited. 127. Smoking and certain wearing apparel prohibited. 128. Drunkenness. 129. Explosives to be covered. 130. Escaping explosives. 131. Method of handling explosives. 132. Only explosives to be handled at one time. 133. General precautions to be observed. 134. Supervision. 135. Permits to land explosives. 136. Special permit when Abel test applied. 137. Hours during which explosives may be handled. 138. Control of quantity of explosives. 139. Detonators, etc. 140. Liability for expenses. 141. Notice to be given to the Captain of the Port. 142.  Control by Captain of the Port of places where explosives may be loaded, etc. 143.  Vessels to be ready to receive explosives. 144.  Inspection and examination. 145.  Petroleum. 146.  Carbide. 147.  Bunkering. 148.  Permission to be in writing. 149.  Bunkering prohibited while vessel loading or discharging explosive;. 150.  Rules not to apply to vessels in Admiralty waters. 151.  Offences.
+
+PART VI.–CONTROL OF PORT AREAS.
+
+152. Closing roads, wharves etc. 153. Vehicles. 154. Trespassers on certain property. 155. Vehicles to take place assigned. 156. Vehicles to move when required. 157. Behaviour of driver of vehicle.
+
+Port PORT RULES
+
+1960-16
+
+Subsidiary 1960.08.11 158. Danger signals. 159. Fire hydrants. 160. Fire-fighting operations. 161. Entering or leaving port. 162. Exemption of Government from all liability. 163. Hawking and trading. 164. Advertising on harbour property. 165. Bathing. 166. Dogs and wild animals. 167. Ballast permits. 168. Smoking prohibited. 169. Vagrants. 170. Offences and penalty.
+
+PART VII.–PORT CHARGES.
+
+171.  Port charges. 172.  Exemption.
 
 PART VIII.–CONTINUING OFFENCES.
 
@@ -140,6 +144,8 @@ SCHEDULE 1. Notice of Expected Arrival of a Ship.
 
 SCHEDULE 2. Passenger Certificate.
 
+SCHEDULE 2A FORMS FL/1 and FL/2.
+
 SCHEDULE 3. Dangerous or Inflammable Goods.
 
 SCHEDULE 4. Port Dues.
@@ -148,7 +154,13 @@ SCHEDULE 5. Vessels which may be exempted from payment; of Tonnage Dues.
 
 SCHEDULE 6. Prohibited Anchorage Areas.
 
-SCHEDULE 7. Information to be supplied in respect of vessels other than yachts on arrival in Port.
+SCHEDULE 7.
+
+Port PORT RULES
+
+1960-16
+
+Subsidiary 1960.08.11 Information to be supplied in respect of vessels other than yachts on arrival in Port.
 
 Notice by Governor of exemptions under Schedule 5 of the Port Rules
 
