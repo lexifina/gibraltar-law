@@ -72,7 +72,7 @@ Social Security (Insurance)
 
 1.1.1994 1993/190 Sch.1 3.1.1994 1997/166 Sch.1. 30.12.1997 Act. 1999-27* ss. 2(1), 3(3), 7(4), 8(2), 9(1), 10(1)(a), 11, 11A, 12, 18(5), 21, 27(1)-(2), 30, 33(2)-(3), (6), 40(1), 41(1), 47(2), 48, 49(1).
 
-5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001
+5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -1110,11 +1110,13 @@ Social Security (Insurance)
 
 PART VI.
 
-AMOUNT OF GRANTS
+AMOUNT OF GRANTS1
 
-DESCRIPTION OF GRANT AMOUNT (£) 1.  Maternity Grant per child £350
+DESCRIPTION OF GRANT AMOUNT (£) 1.  Maternity Grant per child £360
 
-2.  Death Grant £350
+2.  Death Grant £360
+
+1 The rates of benefits provided for in the table, shall apply only in respect of births and deaths that occur on or after 1st July 2004.
 
 Social Security (Insurance)
 
