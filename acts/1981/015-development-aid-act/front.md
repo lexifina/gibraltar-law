@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Acts. 1981-18 
 
 24.1.1985 1986-08 ss.10(2)(c)(i) and 10(3)(a) 30.4.1986 1987-16 ss.10(1), (2)(a)(i), (2)(a)(ii), (2)(c) and (3) and 21
 
-7.5.1987 1988-36 s.15E(2) 15.12.1988
+7.5.1987 1988-36 s.15E(2) 15.12.1988 1989-04 s.21 2.3.1989
 
 Development Aid
 
@@ -48,9 +48,7 @@ Miscellaneous Provisions.
 
 Development Aid
 
-1981-15 20. Regulations. 21.
-
-22-23. Repealed
+1981-15 20. Regulations. 21. Repealed. 22-23. Repealed
 
 Development Aid
 
