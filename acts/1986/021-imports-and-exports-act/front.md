@@ -14,7 +14,11 @@ Amending enactments Relevant current provisions Commencement date Act. 1987-06 s
 
 22.2.1990 LN. 1990/021 Sch. 1 22.2.1990 Act. 1990-44 s. 112(1) 15.11.1990 1991-15 s. 66(c)-(d) 1.1.1991 “ ss. 4(3)(a)-(b), 14(2), 15(a)(i)- (ii), (b)(i), 16(2), 20(1), 21(3), 24(3), 25(3), 30(4), 31(2), 33(4), 41(3), 64, 79(3), 80(a)(i)-(ii), (b)(i), 83(5), 84(3), 92(3), 93(3), 94(2), 102(a)-(b), 103(i)-(ii), 104(a)- (b), 105(i)-(ii), (iii)(a)-(b), (iv)(a), 106, 108, 109(a)-(b), 110(i)-(ii), 117(2), 125(6), 129
 
-12.9.1991
+12.9.1991 “ ss. 45(1), (3), 52(1) 1.3.1993
+
+1993-10 ss. 2(1), 3(1)-(3), 4(1)-(2), 8(2)(c)-(d), 10, 13, 14(1)(c), 18(1)(a)-(c), (5), 20(1)(a), (2), 24(1)(b), 28(1)-(2), 29, 34(1)(b)-(d), (2), 38, 56(b), 57(2), 58(1), 67(1), 72(1)-(2), 73(1)-(4), 77, 81(5), 83(1)(b), (4), 109(4), 112(1)
+
+1.3.1993
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -72,7 +76,7 @@ Goods Imported by Post.
 
 Places for Storage.
 
-27. Designation of Government stores. 28. Establishment of transit sheds. 29. Rent, charges and fees. 30. Approval of private bonded stores. 31. Restriction on storage in ships, etc., or at airport.
+27. Designation of Government stores. 28. Approval of transit sheds. 29. Licence fees. 30. Approval of private bonded stores. 31. Restriction on storage in ships, etc., or at airport.
 
 Deposit of Goods in Stores.
 
@@ -122,7 +126,7 @@ Duty Free Premises.
 
 PART VI. RELEASE FROM CUSTOMS CONTROL.
 
-75. Goods imported by ships, aircraft and vehicles. 76. Goods imported by post in the course of trade. 77. Goods in Government stores and transit sheds. 78. Goods in private bonded stores.
+75. Goods imported by ships, aircraft and vehicles. 76. Goods imported by post in the course of trade. 77. Goods in approved places and transit sheds. 78. Goods in private bonded stores.
 
 PART VII. CONTROL OF EXPORTS.
 
