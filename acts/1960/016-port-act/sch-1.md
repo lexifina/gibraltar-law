@@ -10,4 +10,4 @@ The Port of Gibraltar shall include–
 
 (b)  Port Waters;
 
-(c)  all that area of land commonly known as Waterport, as well as Waterport Wharf and those parts of the North Mole together with all buildings and erections thereon leased to the Government of Gibraltar and as more particularly delineated and coloured red on the plan deposited in the office of the Director of Crown Lands.
+(c)  The area known as the North Mole commencing at the western edge of Jetty No. 4 and extending to the end of the Western Arm together with the Passenger Wharf and the Yacht Reporting Berth.
