@@ -12,7 +12,7 @@ Assent 16.7.1987
 
 Amending enactments Relevant current provisions Commencement date Acts. 1988-33 ss.2, 4(1), 8(1) and (5), 9(1) and (2), 11(1), 13(1) and (2)
 
-15.12.1988
+15.12.1988 1990-38 s.8(1) 15.11.1990
 
 English sources: None
 
@@ -26,7 +26,7 @@ Section PART I. PRELIMINARY.
 
 PART II. LICENCES AND VISITORS’ PERMITS.
 
-4. Licensing of fast  launches. 5. Revocation of licences. 6. Appeal against revocation. 7. Changes of ownership. 8. Permits for visitors.
+4. Licensing of fast  launches. 5. Revocation of licences. 6. Appeal against revocation. 7. Changes of ownership. 8. Permits for visitors or traders.
 
 PART III. USE, REPORTING AND BERTHING.
 
