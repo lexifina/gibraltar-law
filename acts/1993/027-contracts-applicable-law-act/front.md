@@ -10,9 +10,13 @@ Act. No. 1993-27 Commencement 18.7.1994
 
 Assent 16.12.1993
 
-________________________
+Amending enactments Relevant current provisions Commencement date LN. 1994/121 ss.2, 2(d), 3(4), 3(4)(b), (c) and (d), Sch.1 and Sch.3A.
 
-ARRANGEMENT OF SECTIONS.
+1.9.1994
+
+Contracts (Applicable Law)
+
+1993-27 ARRANGEMENT OF SECTIONS.
 
 Section
 
@@ -23,6 +27,8 @@ SCHEDULE 1. The Rome Convention.
 SCHEDULE 2. The Luxembourg Convention.
 
 SCHEDULE 3. The Brussels Protocol.
+
+SCHEDULE 3A. The Funchal Convention.
 
 SCHEDULE 4. Application of “Contracting State”.
 

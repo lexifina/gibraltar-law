@@ -1,6 +1,8 @@
 SCHEDULE 3.
 
-Section 3 THE BRUSSELS PROTOCOL.
+Section 3
+
+THE BRUSSELS PROTOCOL.
 
 The High Contracting Parties to the Treaty establishing the European Economic Community,
 
@@ -16,9 +18,9 @@ Have agreed as follows:
 
 ARTICLE 1
 
-The Court of Justice of the European Communities shall have jursidiction to give rulings on the interpretation of-
+The Court of Justice of the European Communities shall have jurisdiction to give rulings on the interpretation of–
 
-(a) the Convention on the law applicable to contractual obligations, opened for signature in Rome on 19 June 1980, hereinafter referred to as "the Rome Convention";
+(a) the Convention on the law applicable to contractual obligations, opened for signature in Rome on 19 June 1980, hereinafter referred to as “the Rome Convention”;
 
 (b) the Convention on accession to the Rome Convention by the States which have become Members of the European Communities since the date on which it was opened for signature;
 
@@ -30,55 +32,33 @@ Any of the courts referred to below may request the Court of Justice to give a p
 
 Contracts (Applicable Law)
 
-1993-27 referred to in Article 1 if that court consider that a decision on the question is necessary to enable it to give judgment:
+1993-27 referred to in Article 1 if that court considers that a decision on the question is necessary to enable it to give judgment:
 
-(a) -in Belgium:
+(a)  - in Belgium:
 
-la Cour de cassation (het Hof van Cassatie) and le Conseil d'Etat (de Raad van State),
+la Cour de cassation (het Hof van Cassatie) and le Conseil d’Etat (de Raad van State),
 
--in Denmark:
+- in Denmark: Højesteret,
 
-Hojesteret,
+- in the Federal Republic of Germany: die obersten Gerichtschöfe des Bundes,
 
--in the Federal Republic of Germany:
+- in Greece: 
 
-die obersten Gerichtschofe des Bundes,
+- in Spain, el tribunal Supremo,
 
--in Greece:
+- in France: la Cour de cassation and le Conseil d’Etat,
 
-to mrc~zaiQ Aixaar~ pie,
+- in Ireland: the Supreme Court,
 
--in Spain,
+- in Italy: la Corte suprema di cassazione and il Consiglio di Stato,
 
-el tribunal Supremo,
+- in Luxembourg: la Cour Supérieure de Justice, when sitting as Cour de cassation,
 
--in France:
+- in the Netherlands: de Hoge Raad,
 
-la Cour de cassation and le Conseil d'Etat,
+- in Portugal: o Supremo Tribunal de Justiça and o Supremo Tribunal Administrativo,
 
--in Ireland:
-
-the Supreme Court,
-
--in Italy:
-
-la Corte suprema di cassazione and il Consiglio di Stato,
-
--in Luxembourg:
-
-la Cour Superieure de Justice, when sitting as Cour de cassation,
-
--in the Netherlands:
-
-de Hoge Raad,
-
--in Portugal:
-
-o Supremo Tribunal de Justica and o Supremo Tribunal Administrativo,
-
--in the United Kingdom:
-
-the House of Lords and other courts from which no further appeal is possible;
+- in the United Kingdom: the House of Lords and other courts from which no further appeal is possible;
 
 (b) the courts of the Contracting States when acting as appeal courts.
 
@@ -124,13 +104,15 @@ The Secretary-General of the Council of the European Communities shall notify th
 
 (a) the deposit of each instrument of ratification;
 
-(b) the date of entry into force of this Protocol; (c) any designation communicated pursuant to Article 3(3);
+(b) the date of entry into force of this Protocol;
+
+(c) any designation communicated pursuant to Article 3(3);
 
 (d) any communication made pursuant to Article 8.
 
-ARTICLE 8
+ARTICLE  8
 
-The Contracting States shall communicate to the Secretary-General of the Council of the European Communities the texts of any provisions of their laws which necessitate an amendment to-the list of courts in Article 2(a).
+The Contracting States shall communicate to the Secretary-General of the Council of the European Communities the texts of any provisions of their laws which necessitate an amendment to the list of courts in Article 2(a).
 
 ARTICLE 9
 

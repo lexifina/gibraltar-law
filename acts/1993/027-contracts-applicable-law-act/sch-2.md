@@ -10,7 +10,7 @@ Considering that the Hellenic Republic, in becoming a Member of the Community, u
 
 Have decided to conclude this Convention, and to this end have designated as their plenipotentiaries:
 
-(designation of plenipotentiaries)
+(Designation of plenipotentiaries)
 
 Who, meeting within the Council, having exchanged their full powers, found in good and due form,
 
@@ -22,15 +22,15 @@ The Hellenic Republic hereby accedes to the Convention on the law applicable to 
 
 ARTICLE 2
 
-The Secretary-General of the Council of the European Communities shall transmit a certified copy of the Convention on the law applicable to contractual obligations in the Danish, Dutch, English, French, German, Irish and Italian languages to the Government of the Hellenic Republic.
+The Secretary General of the Council of the European Communities shall transmit a certified copy of the Convention on the law applicable to contractual obligations in the Danish, Dutch, English, French, German, Irish and Italian languages to the Government of the Hellenic Republic.
 
-The text of the Convention on the law applicable to contractual obligations in the Greek language is annexed hereto. The text in the Greek language shall be authentic under the same conditions as the other texts of the Convention on the law applicable to contractual obligations.
+The text of the Convention on the law applicable to contractuaI obligations in the Greek language is annexed hereto. The text in the Greek language shall be authentic under the same conditions as the other texts of the Convention on the law applicable to contractual obligations.
 
 ARTICLE 3
 
 Contracts (Applicable Law)
 
-1993-27 This Convention shall be ratified by the Signatory States. The instruments of ratification shall be deposited with the SecretaryGeneral of the Council of the European Communities.
+1993-27 This Convention shall be ratified by the Signatory States. The instruments of ratification shall be deposited with the Secretary-General of the Council of the European Communities.
 
 ARTICLE 4
 
@@ -48,7 +48,7 @@ The Secretary-General of the Council of the European Communities shall notify th
 
 ARTICLE 6
 
-This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish and Italian languages, all eight texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European. Communities. The Secretary- General shall transmit a certified copy to the Government of each Signatory State.
+This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish and Italian languages, all eight texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Communities. The Secretary- General shall transmit a certified copy to the Government of each Signatory State.
 
 Contracts (Applicable Law)
 
