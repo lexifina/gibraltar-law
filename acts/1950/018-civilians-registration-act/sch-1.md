@@ -1,7 +1,23 @@
-SCHEDULE.
+SCHEDULE 1.
 
-Section 3
+Section 2
 
-MATTERS WITH RESPECT TO WHICH PARTICULARS ARE TO BE ENTERED IN REGISTER.
+CIVILIANS AND ENTITLEMENT TO CARDS.
 
-1. Names 2. Address 3. Date of Birth 4. Place of Birth 5. Status 6. Nationality 7. Nationality at Birth (if different) 8. Occupation
+1. An individual shall be a civilian for the purposes of this Act if he is–
+
+(a) a British Dependent Territory citizen by virtue of a connection with Gibraltar; or
+
+(b) registered under the Gibraltarian Status Act; or
+
+(c) a British citizen with a right of permanent residence in Gibraltar; or
+
+(d) an individual, who is not a visitor, entitled to be resident in Gibraltar and present in Gibraltar, subject to such conditions and for such periods as may be specified.
+
+2. An individual falling within sub-paragraphs (a), (b) or (c) of paragraph 1, shall, on registration, be issued with an identity card.
+
+3. An individual falling within sub-paragraph (d) shall, on registration, be issued with a civilian registration card.
+
+Civilians Registration
+
+1950-18
