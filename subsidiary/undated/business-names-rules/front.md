@@ -1,0 +1,25 @@
+Business Names Registration BUSINESS NAMES RULES.
+
+Subsidiary 1918.10.29 1918-21 Rules made under s. 19
+
+BUSINESS NAMES RULES
+
+(1918.10.29)
+
+29.10.1918
+
+Amending enactments Relevant current provisions Commencement date rules of 13.2.1958 L.N. 1971/008 r. 9 and Sch. 1971/050 r. 9 1985/038 r. 9 1.4.1985
+
+Business Names Registration BUSINESS NAMES RULES.
+
+Subsidiary 1918.10.29 1918-21 ARRANGEMENT OF RULES.
+
+Rule
+
+1. Title. 2. Notice of refusal to register, etc. 3. Removal from register. 4. Time to appeal. 5. Notice of appeal. 6. Hearing of appeal. 7. Decision. 8. Enlargement of time. 9. Fees. 10. Forms.
+
+SCHEDULE.
+
+Forms.
+
+Business Names Registration BUSINESS NAMES RULES.
