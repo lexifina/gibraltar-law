@@ -8,11 +8,11 @@ FOOD LABELLING REGULATIONS, 1987
 
 (LN. 1987/054)
 
-1.3.1988
+1.9.1988
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1988/0111 rr. 2(1), 3(3)-(4) 21.1.1988
+LN. 1988/0111 rr. 2(1), 3(3)-(4) 21.1.1988 1988/033 rr. 1(2), 5(2)(h), 22(n), 35(3) 25.2.1988
 
 1 For applications of rr.36-38 see (LN.1988/011 (r.1(4))
 
