@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 1997-13 ss. 2(1), 3(1), 5(3), (5)(b)(ii), 6, 7(4)-(5), 7A, 13(1)(c), 14(1)(c), 15(1), (4)-(5), 18(1)-(3), 27, 32(2), 38. Sch. 1
 
-1.10.1996 1998-05 s. 7B 5.1.1998 1998-28 s. 7B 31.7.1998 2001-08 s. 7B 8.3.2001
+1.10.1996 1998-05 s. 7B 5.1.1998 1998-28 s. 7B 31.7.1998 2001-08 s. 7B 8.3.2001 2004-38 s. 7B 24.11.2004
 
 Social Security (Closed Long-Term Benefits and Scheme)
 
