@@ -10,9 +10,15 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
 
 1.4.1997
 
-______________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN. 1997/163 r. 20. 30.12.1997
+
+Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
+
+1997-16
+
+Subsidiary 1997/116 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -28,17 +34,17 @@ PART II CONTRIBUTIONS
 
 PART III CREDITS
 
-9.     General. 10.   Unemployment. 11.   Incapacity. 12.   Unemployment after attaining the age of 60 years. 13.   Unemployment and incapacity in same week.
+9.     General. 10.   Unemployment. 11.   Incapacity. 12.   Unemployment after attaining the age of 60 years. 13.   Unemployment and incapacity in same week. 14.   Widows. 15.   Full-time education, unpaid apprenticeship and training. 16.   Pre-entry credits. 17.   Contributions and credits to be taken into account.
+
+PART IV ARREARS
+
+18.   Right to pay arrears. 19.   Arrears notices. 20.   Rate of arrears. 21.   Method of payment of arrears. 22.   Time for payment of arrears.
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
 
 1997-16
 
-Subsidiary 1997/116 14.   Widows. 15.   Full-time education, unpaid apprenticeship and training. 16.   Pre-entry credits. 17.   Contributions and credits to be taken into account.
-
-PART IV ARREARS
-
-18.   Right to pay arrears. 19.   Arrears notices. 20.   Rate of arrears. 21.   Method of payment of arrears. 22.   Time for payment of arrears. 23.   Arrears not to be taken into account for certain purposes.
+Subsidiary 1997/116 23.   Arrears not to be taken into account for certain purposes.
 
 SCHEDULE Conditions attaching to the credit of contributions in respect of unemployment or incapacity.
 
