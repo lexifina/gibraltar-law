@@ -6,9 +6,9 @@ PART I.- PROVISIONS AS TO SAMPLING
 
 Taking of Sample
 
-1. A sample (or a reasonable number of samples) of milk-based drink may be taken at any time before the milk-based drink is delivered to the consumer or to a catering establishment, except that any sample to which it is proposed to apply the coliform test prescribed in Part II of this Schedule may only be taken from premises where heat treatment of the milk-based drink has taken place and not later than the day following that heat treatment.
+1.A sample (or a reasonable number of samples) of milk-based drink may be taken at any time before the milk-based drink is delivered to the consumer or to a catering establishment, except that any sample to which it is proposed to apply the coliform test prescribed in Part II of this Schedule may only be taken from premises where heat treatment of the milk-based drink has taken place and not later than the day following that heat treatment.
 
-2.(1)  Where the milk-based drink has been heat treated with a view to sterilisation or use of the ultra high temperature method, a sample shall consist of one sealed container of the milk-based drink.
+2.(1)  Where the milk-based drink has been heat treated with a view to sterilisation or use of the ultra high temperature method, a sample shall consist of one sealed container of the milk- based drink.
 
 (2) Where the milk-based drink has been heat treated with a view to pasteurisation, then-
 
@@ -23,12 +23,6 @@ Taking of Sample
 (iii) the instruments used for mixing and sampling shall be sterile,
 
 (iv) the sample shall be transferred as soon as possible after it is taken into a sterile bottle which shall be immediately closed,
-
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158
 
 (v) the part of the stopper of the sterile bottle which comes into contact with the milk-based drink shall be sterile, and
 
@@ -54,12 +48,6 @@ Transport and holding of sample
 
 (c) on arrival at the laboratory the sample shall be removed from the carrying container and if the tests are not then immediately begun, the sample shall be maintained at a temperature of not more than Soc (without freezing) pending testing;
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158
-
 (d) testing shall commence not later than the morning after the day of arrival of the sample at the testing laboratory.
 
 5. In the case of milk-based drink heat treated with a view to sterilisation or use of the ultra high temperature method, the sample shall be delivered intact to the testing laboratory.
@@ -72,7 +60,7 @@ Apparatus and sterility requirement
 
 1.(1) The apparatus shall consist of:-
 
-(a) culture medium tubes complying with British Standard 3218:1982, nominal size 150/16, and closed with closely- fitting metal caps (each culture medium tube containing an inverted Durham tube conforming to British Standard 3218:1982;
+(a) culture medium tubes complying with British Standard 3218:1982, nominal size 150/16, and closed with closely-fitting metal caps (each culture medium tube containing an inverted Durham tube conforming to British Standard 3218:1982;
 
 (b) dilution tubes which shall be stoppered by means of rubber stoppers to fit or tight fitting covers; and
 
@@ -96,13 +84,9 @@ Sodium chloride
 
 Culture Medium
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
+3.(1)
 
-1964-07
-
-Subsidiary 1987/158 3.(1)
-
-(a)  The culture medium shall be Single Strength Brilliant Green Lactose  Bile  broth  (BGLBB)  prepared according to the following formula:-
+(a)  The culture medium shall be Single Strength Brilliant Green Lactose Bile broth (BGLBB) prepared according to the following formula:-
 
 Peptone
 
@@ -144,11 +128,7 @@ Method
 
 (2) After addition of the milk-based drink the contents of the dilution tube shall be thoroughly mixed.
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 6.(1)  After mixing a fresh pipette shall be introduced into the 1-in-l0 dilution and a 1 ml portion transferred to each of 3 culture tubes containing 5 ml of the culture medium.
+6.(1)  After mixing a fresh pipette shall be introduced into the 1-in-l0 dilution and a 1 ml portion transferred to each of 3 culture tubes containing 5 ml of the culture medium.
 
 (2) The culture tubes shall be incubated at 30°C +1°C for 48 +2 hours and examined for gas production.
 
@@ -156,7 +136,7 @@ Subsidiary 1987/158 6.(1)  After mixing a fresh pipette shall be introduced into
 
 Interpretation
 
-7. The sample shall be regarded as satisfactory if (after subculture and reincubation if required) 2 out of 3 tubes are found to be free from gas.
+7.The sample shall be regarded as satisfactory if (after subculture and reincubation if required) 2 out of 3 tubes are found to be free from gas.
 
 PART III. THE PHOSPHATASE TEST FOR PASTHURISED MILK-BASED DRINK
 
@@ -180,11 +160,7 @@ Precautions
 
 (a) a Lovibond “all purposes” comparator complete with stand for work in reflected light;
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 (b) a Lovibond comparator disc A.P.T.W. or A.P.T.W.7;
+(b) a Lovibond comparator disc A.P.T.W. or A.P.T.W.7;
 
 (c) two fused glass cells, 25mm depth;
 
@@ -206,7 +182,7 @@ Reagents
 
 4. The buffer-substrate solution shall be prepared as follows:
 
-(a) buffer solution: 3.5g of anhydrous sodium carbonate and 1.5g of sodium bicarbonate shall be dissolved in distilled or de- ionised water, and made up to one litre;
+(a) buffer solution: 3.5g of anhydrous sodium carbonate and 1.5g of sodium bicarbonate shall be dissolved in distilled or deionised water, and made up to one litre;
 
 (b) substrate: disodium p-nitrophenyl phosphate (the solid substrate being kept in a refrigerator);
 
@@ -216,13 +192,7 @@ Reagents
 
 (ii) the buffer-substrate solution shall be stored in a refrigerator and protected from light
 
-(iii) the buffer-substrate solution shall give a reading of less than the standard marked 10 on the comparator disc A.P.T.W. or A.P.T.W.7 when viewed in transmitted light
-
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 through a 25mm cell in the “all purposes” comparator, distilled or de-ionised water being used for comparison
+(iii) the buffer-substrate solution shall give a reading of less than the standard marked 10 on the comparator disc A.P.T.W. or A.P.T.W.7 when viewed in transmitted light through a 25mm cell in the “all purposes” comparator, distilled or de-ionised water being used for comparison
 
 (iv) the buffer-substrate solution shall not be used for more than one week.
 
@@ -248,11 +218,7 @@ Method
 
 (5) After incubation the test tube shall be removed from the water bath and its contents shall be well mixed.
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 (6) The blank shall be placed on the left hand ramp of the stand and the test sample on the right.
+(6) The blank shall be placed on the left hand ramp of the stand and the test sample on the right.
 
 (7) Readings shall be taken in reflected light by looking down onto the two apertures with the comparator facing a good source of daylight (preferably north light).
 
@@ -264,7 +230,7 @@ Subsidiary 1987/158 (6) The blank shall be placed on the left hand ramp of the s
 
 Interpretation.
 
-7. The test shall be deemed to be satisfied by milk-based drink which gives a reading of 10µg or less of p-nitrophenol/ml of milk-based drink.
+7.The test shall be deemed to be satisfied by milk-based drink which gives a reading of 10µg or less of p-nitrophenol/ml of milk-based drink.
 
 PART IV.
 
@@ -284,17 +250,13 @@ Apparatus and sterility requirement
 
 (e) a water bath capable of maintaining the water at a temperature of not less than 45°C and not more than 50°C; and
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 (f) a refrigerator fitted with a reliable automatic thermoregulator capable of maintaining a temperature of between 3°C and 5°C.
+(f) a refrigerator fitted with a reliable automatic thermoregulator capable of maintaining a temperature of between 3°C and 5°C.
 
 (2) The medium and all glass-ware, stoppers, covers and caps shall be sterile.
 
 Culture medium
 
-2. The culture medium to be used shall be prepared as follows:-
+2.The culture medium to be used shall be prepared as follows:-
 
 (a) yeastrel milk agar shall be made from the constituents listed below:-
 
@@ -330,12 +292,6 @@ Distilled or de-ionised water
 
 (vi) the hot medium shall then be filtered through paper pulp in a Buchner funnel;
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158
-
 (c)    (i) the pulp shall be prepared by mashing up sir all pieces of filter paper in water and boiling;
 
 (ii) the funnel shall be inserted into an Erlenmeyer flask fitted with a side piece and a single layer of filter paper laid on the top of the Buchner funnel to prevent the pulp being sucked through;
@@ -356,11 +312,7 @@ Subsidiary 1987/158
 
 (ii) adjustment at this stage should not normally be necessary and, if it is needed at all frequently, the method of preparation should be checked;
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 (f) the medium shall be distributed in 5 ml quantities in test tubes conforming to British Standard 3218:1982, nominal size 150/16, or in 28 ml McCartney bottles and autoclaved at 121°C for 15 minutes;
+(f) the medium shall be distributed in 5 ml quantities in test tubes conforming to British Standard 3218:1982, nominal size 150/16, or in 28 ml McCartney bottles and autoclaved at 121°C for 15 minutes;
 
 (g) the final reaction of the medium at room temperature shall be pH 7.2.
 
@@ -410,11 +362,7 @@ Distilled or de-ionised water
 
 (f) the medium should be mixed well and distributed in 5 ml amounts in the tubes or McCartney bottles and sterilised at 121°C for 15 minutes.
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 Incubation of sample
+Incubation of sample
 
 4. On arrival at the laboratory the sample shall be placed unopened in the incubator at a temperature of 37°C ± 1°C and retained at that temperature for 24 hours.
 
@@ -426,23 +374,19 @@ Method of carrying out the test
 
 6.(1)  After the sample has been thoroughly mixed as described above, it shall be opened with aseptic precautions.
 
-(2)    (a) Immediately after opening the sample container, the cap from a sterile McCartney bottle shall be removed and approximately 10 ml of the sample transferred by means of a sterile pipette to the bottle, the cap replaced and the McCartney bottle put in the refrigerator.
+(2)   (a)   Immediately after opening the sample container, the cap from a sterile McCartney bottle shall be removed and approximately 10 ml of the sample transferred by means of a sterile pipette to the bottle, the cap replaced and the McCartney bottle put in the refrigerator.
 
 (b) A further 10 ml (approximately) of the sample shall be transferred to a sterile test tube after removing the plug.
 
 (c) The plug shall then be replaced.
 
-(3)    (a) With as little delay as practicable a loopful of milk-based drink from the test tube sample shall be transferred to a sterile test tube or 28 ml McCartney bottle containing about 5ml of melted medium at 45°C to 50°C.
+(3)   (a) With as little delay as practicable a loopful of milk-based drink from the test tube sample shall be transferred to a sterile test tube or 28 ml McCartney bottle containing about 5ml of melted medium at 45°C to 50°C.
 
-(b) The loop, after being flame sterilised and cooled, shall be lowered into the milk-based drink about 25 mm from the surface and a loopful of milk-based drink withdrawn and transferred to the molten medium in the tube or McCartney bottle.
+(b) The loop, after being flame sterilised and cooled, shall be lowered into the milk- based drink about 25 mm from the surface and a loopful of milk-based drink withdrawn and transferred to the molten medium in the tube or McCartney bottle.
 
 (c) The contents of the tube or bottle shall then be carefully mixed, the tube or bottle placed in a sloping position (the medium being at least 12 mm from the closure) and the medium allowed to set.
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 (d) The tube or bottle shall then be incubated in a sloping position at a temperature of 37°C + 1°C for 48 hours and at the end of that time it shall be examined for the presence of colonies.
+(d) The tube or bottle shall then be incubated in a sloping position at a temperature of 37°C + 1°C for 48 hours and at the end of that time it shall be examined for the presence of colonies.
 
 Counting of colonies
 

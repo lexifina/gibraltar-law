@@ -1,18 +1,16 @@
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
+Subsidiary Legislation made under ss. 6, 8, 13 and 58.
 
-1964-07
+Milk-Based Drinks (Hygiene and Heat Treatment) Regulations, 1987
 
-Subsidiary 1987/158 Regulations made under sections 6, 8, 13 and 58.
+LN.1987/158
 
-MILK-BASED DRINKS (HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
+Commencement 1.3.1988
 
-(LN. 1987/158)
+Amending enactments Relevant current provisions Commencement date
 
-1.3.1988
+LN. 1990/054 r. 3(2)(e)(f) 1.7.1990
 
-__________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -26,13 +24,9 @@ SCHEDULE 3.
 
 SCHEDULE 4.
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
+Title and commencement.
 
-1964-07
-
-Subsidiary 1987/158 Title and commencement.
-
-1. (1) These regulations may be cited as the Milk-Based Drinks (Hygiene and Heat Treatment) Regulations, 1987.
+1.(1) These regulations may be cited as the Milk-Based Drinks (Hygiene and Heat Treatment) Regulations, 1987.
 
 (2) These regulations shall come into operation on the 1st day of March, 1988.
 
@@ -56,11 +50,7 @@ Interpretation.
 
 Meaning of ‘milk-based drink’.
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158 3.(1)   (a)   In these regulations ‘milk-based drink’ means a liquid drink (other than a fermented drink) being a mixture comprising by weight at least 85% milk as specified in paragraph (1)(b) and comprising as to the remainder any of, or any mixture of, the ingredients listed in paragraph (2).
+3.(1)   (a)   In these regulations ‘milk-based drink’ means a liquid drink (other than a fermented drink) being a mixture comprising by weight at least 85% milk as specified in paragraph (1)(b) and comprising as to the remainder any of, or any mixture of, the ingredients listed in paragraph (2).
 
 (b) The milk specified for the purposes of this paragraph is cows milk (whether or not separated) but not cream separated from the milk, dried milk, condensed milk, evaporated milk or butter milk.
 
@@ -74,9 +64,9 @@ Subsidiary 1987/158 3.(1)   (a)   In these regulations ‘milk-based drink’ me
 
 (d) any permitted colouring matter as defined in the Colouring Matter in Food Regulations 1980;
 
-(e) any permitted emulsifier as defined in the Emulsifiers and Stabilisers in Food Regulations 1987,
+(e) any permitted emulsifier as defined in the Emulsifiers and Stabilisers in Food Regulations 1990,
 
-(f) any permitted stabiliser as defined in the Emulsifiers and Stabilisers in Food Regulations 1987;
+(f) any permitted stabiliser as defined in the Emulsifiers and Stabilisers in Food Regulations 1990;
 
 (g) any permitted miscellaneous additive as defined in the Miscellaneous Additives in Food Regulations 1987;
 
@@ -89,12 +79,6 @@ Subsidiary 1987/158 3.(1)   (a)   In these regulations ‘milk-based drink’ me
 (k) any vitamin preparation;
 
 (l) any mineral preparation;
-
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158
 
 (m) water fit for human consumption and used in combination with any of the other ingredients listed in this paragraph.
 
@@ -122,17 +106,11 @@ Heat treatment of milk-based drinks.
 
 (2) The provisions as to sampling set out in Schedule 4. Part I, shall apply for the purposes of Schedule 3, the tests set out in Schedule 4, Parts II and III, shall apply for the purposes of Schedule 3, Part I, and the test set out in Schedule 4, Part IV, shall apply for the purposes of Schedule 3, Parts II and III.
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
-
-1964-07
-
-Subsidiary 1987/158
-
 Records.
 
 8. Every milk-based drink processor shall keep accurate records of-
 
-(a) the quantities of milk purchased or produced by him for milk- based drink production and of milk-based drinks sold and delivered by him, and
+(a) the quantities of milk purchased or produced by him for milk-based drink production and of milk-based drinks sold and delivered by him, and
 
 (b) the names and addresses of the persons–
 
@@ -146,8 +124,112 @@ Penalties.
 
 Application of various provisions of the Act.
 
-10.Sections 46(2) and (3) (which relate to prosecutions), 47(1) and (2) (which relate to evidence of analysis), 49 (which relates to the power of a court to require analysis by the Government Chemist in the United Kingdom), 50 (which relates to a contravention due to some person other than the person charged), 51(2) (which relates to the conditions under which a warranty may be pleaded as a defence) and 52 (which relates to offences in relation to warranties and certificates of analysis) of the Act shall apply for the purposes of these regulations as if references therein to proceedings, or a prosecution, under or taken or brought under the Act included references to proceedings, or a prosecution, as the case may be, taken or brought for an offence under these regulations and as if the reference in the said Section 49 to subsection (3) of Section 46 included a reference to that subsection as applied by these regulations.
+10. Sections 46(2) and (3) (which relate to prosecutions), 47(1) and (2) (which relate to evidence of analysis), 49 (which relates to the power of a court to require analysis by the Government Chemist in the United Kingdom), 50 (which relates to a contravention due to some person other than the person charged), 51(2) (which relates to the conditions under which a warranty may be pleaded as a defence) and 52 (which relates to offences in relation to warranties and certificates of analysis) of the Act shall apply for the purposes of these regulations as if references therein to proceedings, or a prosecution, under or taken or brought under the Act included references to proceedings, or a prosecution, as the case may be, taken or brought for an offence under these regulations and as if the reference in the said Section 49 to subsection (3) of Section 46 included a reference to that subsection as applied by these regulations.
 
-Food and Drugs MILK-BASED DRINKS ( HYGIENE AND HEAT TREATMENT) REGULATIONS, 1987
+SCHEDULE  1 Regulation 6
 
-1964-07
+1.No milk-based drink processor shall carry out processing of milk-based drinks on premises which are not provided with a supply of water suitable and sufficient for the requirements of these regulations.
+
+2.Each milk-based drink processor shall ensure that every receptacle used on his premises for the storage and conveyance of water shall be emptied and cleaned as often as may be necessary to prevent the pollution of the water and to maintain it in a suitable condition for the purpose for which it is required.
+
+3.Each milk-based drink processor shall cause the interior of his premises and any furniture and fittings therein to be cleaned as often as may be necessary to maintain them at all times in a state of thorough cleanliness and shall (except in the case of any part of his premises in which milk-based drinks are solely or mainly dealt with by way of retail sale)-
+
+(a) cause all floors on his premises to be constructed of such material and in such a manner as to render the surfaces impervious so that it is practicable to remove any liquid matter which may fall thereon, and cause such floors to be sloped as to convey such liquid matter to a suitably and properly trapped drain,
+
+(b) cause the surface of any wall or part of a wall on his premises which is liable to splashing to be smooth and impervious, and
+
+(c) cause all such floors and any such wall or part of a wall to be cleansed with water at least once in every day.
+
+4.(1)  Subject to subparagraph (2) of this paragraph, no milkbased drink processor shall carry out the processing of, handle or store milk-based drinks in any room on his premises-
+
+(a) which is used as a kitchen or scullery, or
+
+(b) which communicates directly by door, window or otherwise with any cesspool, receptacle for ashes or other refuse, boiler house, fuel store, or room in which an internal combustion engine (other than an engine the exhaust of which is discharged into the external air) is operated.
+
+(2) Subparagraph (1) of this paragraph shall not prohibit the use of an electric or gas boiler in a room communicating directly with a room used for the processing, handling or storage of milk-based drinks.
+
+5.(1)  Each milk-based drink processor shall ensure that vessels on his premises containing milk-based drinks are properly covered or that milk-based drinks on his premises are otherwise effectively protected from dust, dirt, flies and other sources of contamination.
+
+(2) No milk-based drink processor shall store, or carry out the processing of, milk-based drinks (or keep any appliances connected with such processing) in any room in which any cows are milked or in which any animal or poultry is kept.
+
+6.  Each milk-based drink processor shall ensure that no foul or noxious matter or soiled bed or body clothing shall be conveyed through any part of his premises used for the keeping or storage of milk-based drinks.
+
+7.(1) Each milk-based drink processor shall ensure that any room used on his premises for the processing of milk-based drinks shall not be used for any purposes other than such processing, with the exception of the following:-
+
+(a) the cooling, processing, handling and storage of any drink of a kind commonly sold by dairymen;
+
+(b) the manufacturing of milk into, and the storage of, milk products;
+
+(c) the storage of ice cream;
+
+(d) the storage of any ingredient listed in regulation 3(2);
+
+(e) the cleansing of bottles which before cleaning have contained any drink of a kind commonly sold by dairymen;
+
+(f) the cleansing and storage of utensils used in connection with milk products and drinks of a kind commonly sold by dairymen;
+
+(g) the storage of clean bottles and non-returnable packaging materials to be used in connection with any drink of a kind commonly sold by dairymen.
+
+(2) In this paragraph “dairyman” and “milk product” have the meanings which they have respectively in the Milk and Dairies Regulations.
+
+8.(1)  Every person having access to milk-based drinks (or to utensils used for milk-based drinks) shall keep his outer clothing and person clean at all times during such access.
+
+(2) Every person having access to milk-based drinks in open containers shall wear a clean and washable or disposable overall and a clean and washable or disposable head covering.
+
+9.(1) Each milk-based drink processor shall ensure that-
+
+(a) every appliance used on his premises in connection with milk-based drinks shall, immediately before contact with milk-based drinks, be cleansed to a state of thorough cleanliness in accordance with subparagraph (2) of this paragraph, and
+
+(b) every vessel (including the lid) used by him for containing milk-based drinks shall-
+
+(i) if used previously for any purpose whatsoever, be cleansed to a state of thorough cleanliness in accordance with subparagraph (2) of this paragraph, and
+
+(ii) in any event be in a state of thorough cleanliness.
+
+(2) For the purpose of cleansing any vessel or appliance as indicated in subparagraph (1) of this paragraph-
+
+(a) such vessel (other than a glass bottle effectively cleansed in a bottle-washing machine) or appliance shall be thoroughly rinsed and washed with or without detergents and scalded with boiling water or otherwise thoroughly cleansed with steam or an appropriate and effective chemical agent;
+
+(b) where any chemical agent or detergent has been used for cleansing any vessel or appliance, all traces of that chemical agent or detergent shall be removed from that vessel or appliance.
+
+(3) Where any appliance or vessel, previously used in connection with milk-based drinks, is used for another purpose, the requirements of subparagraphs (1) and (2) of this paragraph shall apply in relation to that other purpose as they apply to the processing of milk-based drinks.
+
+10.(1)  Subject to subparagraph (2) of this paragraph, no person shall open any container containing a milk-based drink, or tamper with any device used for closing any such container, before delivery of that container to the consumer.
+
+(2) Subparagraph (1) of this paragraph shall not apply to anything done-
+
+(a) in pursuance of statutory authority,
+
+(b) for the purpose of sampling, or
+
+(c) in respect of the sale of a milk-based drink-
+
+(i) as part of a meal, or
+
+(ii) as a refreshment,
+
+in circumstances where all practicable precautions are taken to prevent contamination of that milk-based drink.
+
+11.Every person who sells, conveys or distributes milk-based drinks shall-
+
+(a) take all practical precautions to prevent them from being unnecessarily exposed to heat and from contamination,
+
+(b) refrain from leaving them on a public highway (except on a final delivery on retail sale),
+
+(c) protect them so far as practicable (in any place where he habitually leaves them to await collection or further conveyance) from direct rays of the sun, and
+
+(d) keep any vehicle used for conveying them clean and free from offensive matter.
+
+SCHEDULE 2. Regulations 7(1)
+
+General requirements in connection with the heat treatment of milk-based drinks
+
+1.The milk and other ingredients referred to in regulation 3 shall, if mixed to make a milk- based drink before commencement of the heat treatment of that milk-based drink, be so mixed not more than four hours before such treatment or pre-heating in accordance with paragraph 2(2).
+
+2.(1) Subject to paragraph (2) of this paragraph, no milk-based drink shall, before the commencement of heat treatment in accordance with Schedule 3 be kept for more than one hour at any temperature which exceeds 10°C.
+
+(2) Subparagraph (1) of this paragraph shall not prohibit the keeping of a milk-based drink for more than one hour at a temperature which exceeds 10°C in circumstances where the milk- based drink has been pre-heated (that is to say subjected to any heat treatment prior to sterilisation in accordance with Schedule 3, Part II).
+
+3.  Each milk-based drink processor shall take such measures as are adequate to ensure that any milk-based drink heat treated in accordance with these regulations shall, until such milk- based drink has been put into the containers in which it is to be supplied to consumers or to a catering establishment (and those containers have been closed so as to prevent contamination), be kept apart at all times from other milk-based drinks, milk or food containing milk.
+
+SCHEDULE 3 Regulations 7(1)
