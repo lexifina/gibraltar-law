@@ -1,18 +1,14 @@
-Animals and Birds ANIMALS (TRANSIT) RULES
+Subsidiary Legislation made under s.26.
 
-Subsidiary 1973/124 1948-30 Rules made under s.26.
+Animals (Transit) Rules
 
-ANIMALS (TRANSIT) RULES
+LN.1973/124
 
-(LN.1973/124)
+Commencement 1.1.1974
 
-1.1.1974
+Amending enactments Relevant current provisions Commencement date LN. 1974/081 r. 2 1987/152 r. 9 26.11.1987 1988/003 r. 5(5) 1.2.1988 1988/089 rr. 3(3)(aa), (4A), 5(1)-(3), (c), (3A), 7(2) 1.9.1988
 
-Amending enactments Relevant current provisions Commencement date LNs. 1974/081 r. 2 1987/152 r. 9 26.11.1987 1988/003 r. 5(5) 1.2.1988
-
-Animals and Birds ANIMALS (TRANSIT) RULES
-
-Subsidiary 1973/124 1948-30 ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES
 
 Rule
 
