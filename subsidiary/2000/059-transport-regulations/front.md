@@ -14,9 +14,13 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1)(3), 118(1)(c)(3), 124A(1) to (9)
 
-22.9.2000 _____________________________
+22.9.2000 2000/082 Sch. 1 (16) and (17). 26.10.2000
 
-ARRANGEMENT OF REGULATIONS.
+Transport TRANSPORT REGULATIONS 2000
+
+1998-44
+
+Subsidiary 2000/059 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -36,13 +40,7 @@ LICENSING AND REGISTRATION: GENERAL
 
 REGISTRATION
 
-11. Register
-
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059 12. Registration number
+11. Register 12. Registration number
 
 CERTIFICATE OF FITNESS
 
@@ -50,7 +48,11 @@ REGULAR EXAMINATION
 
 13. Meaning of “examination” 14. Applications for first and subsequent examinations 15. Notice of appointment 16. Documents to be produced 17. Other conditions 18. Right to refuse examination 19. Duty of owner 20. Issue of certificate of fitness 21. Issue of notice of refusal 22. Forms of certificates of fitness and notices of refusal
 
-RE-EXAMINATION AFTER REFUSAL OF CERTIFICATE OF FITNESS
+Transport TRANSPORT REGULATIONS 2000
+
+1998-44
+
+Subsidiary 2000/059 RE-EXAMINATION AFTER REFUSAL OF CERTIFICATE OF FITNESS
 
 23. Applications and conditions for re-examination 24. Conduct of re-examination 25. Notifiable alterations and re-examination 26. Re-examination following alteration 27. Procedure on re-examination following alteration
 
@@ -66,15 +68,17 @@ PART IV
 
 SAFETY OF PUBLIC SERVICE VEHICLES
 
+37. Construction and age 38. Wheels and tyres. 39. Exhaust fumes. 40. Wiring. 41. Fire extinguishers 42. Luggage carrier 43. Cleanliness 44. Number of passengers 45. Obstruction of drivers 46. Refuelling 47. Carriage of explosives 48. Ventilation.
+
+PROVISIONS APPLICABLE TO BUSES
+
+49. Entrances and exits 50. Entrances, etc., to be kept clear
+
 Transport TRANSPORT REGULATIONS 2000
 
 1998-44
 
-Subsidiary 2000/059 37. Construction and age 38. Wheels and tyres. 39. Exhaust fumes. 40. Wiring. 41. Fire extinguishers 42. Luggage carrier 43. Cleanliness 44. Number of passengers 45. Obstruction of drivers 46. Refuelling 47. Carriage of explosives 48. Ventilation.
-
-PROVISIONS APPLICABLE TO BUSES
-
-49. Entrances and exits 50. Entrances, etc., to be kept clear 51. Emergency exits 52. Accessibility from seats to exits 53. Doors 54 Steps 55. Gangway 56. Internal height 57. Seats 58. Glass facing transverse seats 59. Interior light 60. Signal to driver 61. Standing passengers 62. Carriage of goods 63. Availability of Regulations
+Subsidiary 2000/059 51. Emergency exits 52. Accessibility from seats to exits 53. Doors 54 Steps 55. Gangway 56. Internal height 57. Seats 58. Glass facing transverse seats 59. Interior light 60. Signal to driver 61. Standing passengers 62. Carriage of goods 63. Availability of Regulations
 
 PART V
 
@@ -82,17 +86,17 @@ REGULATIONS OF PASSENGER TRANSPORT VEHICLES
 
 TAXIS
 
-64. Distinguishing marks 65. Use of concessioned taxis 66. Plying or standing for hire on highway. 67. Availability of taxis 68. Refusing or neglecting to be hired 69. Only fare paying passenger to sit along-side driver 70. No unreasonable stopping 71. Notice to be displayed
+64. Distinguishing marks 65. Use of concessioned taxis 66. Plying or standing for hire on highway. 67. Availability of taxis 68. Refusing or neglecting to be hired 69. Only fare paying passenger to sit along-side driver 70. No unreasonable stopping 71. Notice to be displayed 72. Passenger refusing to pay fare 73. Passenger damaging taxi 74. Taxis to be fitted with taximeters 75. Use of taximeters 76. Taximeters not to be tampered with 77. Fares for hire by distance and time 78. Maximum fares
+
+ROUTE BUSES
+
+79. Information to be shown in route buses 80. Direction board 81. Fares 82. Drivers and conductors to speak English 83. General duties of drivers and conductors 84. Specific duties of route bus drivers 85. Specific duties of route bus conductors
 
 Transport TRANSPORT REGULATIONS 2000
 
 1998-44
 
-Subsidiary 2000/059 72. Passenger refusing to pay fare 73. Passenger damaging taxi 74. Taxis to be fitted with taximeters 75. Use of taximeters 76. Taximeters not to be tampered with 77. Fares for hire by distance and time 78. Maximum fares
-
-ROUTE BUSES
-
-79. Information to be shown in route buses 80. Direction board 81. Fares 82. Drivers and conductors to speak English 83. General duties of drivers and conductors 84. Specific duties of route bus drivers 85. Specific duties of route bus conductors 86. Conduct of passengers 87. Power to drivers and conductors 88. Luggage to be carried free
+Subsidiary 2000/059 86. Conduct of passengers 87. Power to drivers and conductors 88. Luggage to be carried free
 
 SELF-DRIVE HIRE CARS
 
@@ -108,13 +112,7 @@ PRIVATE HIRING VEHICLES
 
 COURTESY VEHICLES
 
-100. Duties of drivers of courtesy vehicles 101. Conduct of passenger
-
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059 102. Powers of drivers 103. Dress code 104. Duty to issue receipt
+100. Duties of drivers of courtesy vehicles 101. Conduct of passenger 102. Powers of drivers 103. Dress code 104. Duty to issue receipt
 
 PART VI
 
@@ -124,7 +122,11 @@ LICENSING OF GUIDES AND SIGHTSEEING TOURS
 
 CONDITIONS SUBJECT TO WHICH LICENCES UNDER THIS PART MAY BE ISSUED OR HELD
 
-110. Power of Board to impose conditions 111. Conditions of sightseeing tour licences 112. Conditions on Guide licences
+Transport TRANSPORT REGULATIONS 2000
+
+1998-44
+
+Subsidiary 2000/059 110. Power of Board to impose conditions 111. Conditions of sightseeing tour licences 112. Conditions on Guide licences
 
 LICENSING PROVISIONS: MISCELLANEOUS & FINAL
 
@@ -140,13 +142,7 @@ PART VIII
 
 FINAL PROVISIONS
 
-118. Miscellaneous duties 119. General duties of Transport Inspector 120. Obstruction of Transport Inspector 121. Complaints procedure 122. Lost property 123. Penalties.
-
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059 124. Punishment by way of fixed penalty. 124A. Appeals. 125. Revocation
+118. Miscellaneous duties 119. General duties of Transport Inspector 120. Obstruction of Transport Inspector 121. Complaints procedure 122. Lost property 123. Penalties. 124. Punishment by way of fixed penalty. 124A. Appeals. 125. Revocation
 
 SCHEDULE 1
 
@@ -160,7 +156,11 @@ Form 4: Public service vehicle identification disk
 
 Form 5: Sightseeing tour licence identification disk
 
-Form 6: Application for self-drive operator’s licence
+Transport TRANSPORT REGULATIONS 2000
+
+1998-44
+
+Subsidiary 2000/059 Form 6: Application for self-drive operator’s licence
 
 Form 7: Self-drive operator’s licence
 
@@ -186,13 +186,7 @@ Form 17: Courtesy bus operator’s licence
 
 SCHEDULE 2 Revocations of the Traffic (Licensing and Registration) Regulations.
 
-SCHEDULE 3
-
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059 FIXED PENALTIES
+SCHEDULE 3 FIXED PENALTIES
 
 Form of notice
 
