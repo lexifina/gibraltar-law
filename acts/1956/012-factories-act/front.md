@@ -22,9 +22,9 @@ Act. 1977-31 s.5(3), (6)
 
 1991-12 ss. 6(1), (4), 9, 23(2), 39(1), 44(3), 45(3), 58(1)(a), (2)(f)-(g), (3)- (4), 59(5), 64, 65(2)-(3), 73(2)- (3), 77(1), 78(1)-(3), (6), 79(1), 81(1)-(2), 82-84
 
-17.8.1995 LN. 1996/010 ss. 6(1), (6), 58(2)(g)-(h) 25.1.1996 1996/032 s. 80(2A) 29.2.1996
+17.8.1995 LN. 1996/010 ss. 6(1), (6), 58(2)(g)-(h) 25.1.1996 1996/032 s. 80(2A) 29.2.1996 Act. 1997-01 ss. 6(1), (6), 94-104, Sch.1A 1.6.1997
 
-Transposing: Directive 89/391/EEC
+Transposing: Directive 86/188/EEC Directive 89/391/EEC
 
 Factories
 
@@ -92,9 +92,19 @@ Factories
 
 80. Offences. 81. Penalty for offences for which no express penalty provided. 82. Power of court to order cause of contravention to be remedied. 83. Penalty in case of death or injury. 84. Forgery of certificates, false entries and false declarations. 85. Penalty on persons actually committing offence for which occupier is liable. 86. Power of occupier or owner to exempt himself from liability on conviction of the actual offender. 87. Proceedings against persons other than occupiers or owners. 88. Prosecution of offences. 89. Appeal from orders made on complaint. 90. Special provisions as to evidence. 91. Service and sending of documents, etc. 92. Power to modify agreements. 93. Power to apportion expenses.
 
+PART XIII. PROTECTION OF WORKERS FROM THE RISKS RELATED TO THE EXPOSURE TO NOISE AT WORK.
+
+94. Disapplication of duties. 95. Assessment of exposure. 96. Assessment records. 97. Reduction of risk of hearing damage. 98. Reduction of noise exposure. 99. Ear Protection. 100. Ear protection zones. 101. Maintenance and use of equipment. 102. Provision of information to employees. 103. Duties of employers regarding places of work and articles for use at work. 104. Exemptions.
+
 SCHEDULE 1. Particulars to be submitted by occupier or intending occupier of a factory.
 
+SCHEDULE 1A. Part I - Daily personal exposure of employees Part II - Weekly average of daily personal noise exposure of employees Part III - Compulsory sign demarcating ear protection zones
+
 SCHEDULE 2. Processes requiring provision of suitable goggles or effective screens.
+
+Factories
+
+1956-12
 
 SCHEDULE 3. Particulars to be submitted by occupier of premises (other than a factory) in which a steam boiler is used.
 
