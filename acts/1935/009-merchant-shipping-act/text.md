@@ -16,7 +16,7 @@ Merchant Shipping
 
 1935-09 2002-24 ss. 2(1), 3A-3H, 132A- 132R, 181(g)(h), 183-184, 223A. Schs. 1A, 3
 
-1.3.2003
+1.3.2003 2004-36 s.2(1) 29.11.2004
 
 Notes: Rules of court made under s.148 and under other powers appear under the title Supreme Court.
 
