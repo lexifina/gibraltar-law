@@ -54,7 +54,7 @@ Subsidiary 1960.08.11 1987/097 rr. 117B(1), (5)-(6), 117J(1), Sch. 2A
 
 4.6.1987 1987/112 rr. 2, 117A-117O, Sch. 2A 16.7.1987 1987/135 Sch. 4 1.1.1988 1988/161 Sch. 4 29.12.1988 1991/033 Sch. 4 1.4.1990 1990/190 rr. 12A, 102A, Sch. 4 1.1.1991 1991/206 rr. 36-37, 47(1A), 49(2), 66, 76, 112, 116, (3), 151, 170, 173.
 
-7.11.1991 1991/221 r. 82 12.12.1991 1992/097 r. 12A(2)(c) 9.7.1992 1992/147 Sch. 4 1.8.1992
+7.11.1991 1991/221 r. 82 12.12.1991 1992/097 r. 12A(2)(c) 9.7.1992 1992/147 Sch. 4 1.8.1992 “ rr. 31, 110, 19.11.1992
 
 Port PORT RULES
 
@@ -116,7 +116,7 @@ Port PORT RULES
 
 Subsidiary 1960.08.11 General Regulations as to Vessels in Port.
 
-96. Equipment of boats. 97. Master not to refuse hire. 98. Supply of tarpaulin. 99. Boats not to approach or make fast to ships without permission. 100. Boatman to obey orders. 101. Small vessels not to go alongside ships under way. 102. Supply of liquor to persons on board. 102A. Supply of stores. 103. Hawking and trading. 104. Employment of persons on trading vessels, etc. 105. Offences by bumboatmen. 106. No movement at night without permission. 107. Small craft to give way. 108. Small vessels to keep clear of harbour tugs. 109. Row boats to give way to sailing boats. 110. Small vessels to carry lights. 111. Approaches to wharves, landing places and ships ladders to be kept clear. 112. Mooring of small vessels. 113. Small vessels sunk in the port. 114. Liability of the Captain of the Port. 115. Suspension of licence for misconduct. 116. Offences by owners and masters. 117. Penalties.
+96. Equipment of boats. 97. Master not to refuse hire. 98. Supply of tarpaulin. 99. Boats not to approach or make fast to ships without permission. 100. Boatman to obey orders. 101. Small vessels not to go alongside ships under way. 102. Supply of liquor to persons on board. 102A. Supply of stores. 103. Hawking and trading. 104. Employment of persons on trading vessels, etc. 105. Offences by bumboatmen. 106. No movement at night without permission. 107. Small craft to give way. 108. Small vessels to keep clear of harbour tugs. 109. Row boats to give way to sailing boats. 110. revoked. 111. Approaches to wharves, landing places and ships ladders to be kept clear. 112. Mooring of small vessels. 113. Small vessels sunk in the port. 114. Liability of the Captain of the Port. 115. Suspension of licence for misconduct. 116. Offences by owners and masters. 117. Penalties.
 
 PART IVA.-FAST LAUNCHES
 
