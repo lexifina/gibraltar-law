@@ -10,6 +10,8 @@ INVESTMENT (DEDUCTIONS) RULES, 1989
 
 23.11.1989
 
+Amending enactments Relevant current provisions Commencement date LN.1992/111 rr. 2 & 3 6.8.1992
+
 ___________________
 
 ARRANGEMENT OF RULES.
