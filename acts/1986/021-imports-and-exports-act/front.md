@@ -10,7 +10,7 @@ Act. No. 1986-21 Commencement 1.1.1987
 
 Assent 21.11.1987
 
-Amending enactments Relevant current provisions Commencement date Act. 1987-06 s. 74(1)(a) , (2), Sch. 2 1.1.1987 1987-16 Sch. 1 28.4.1987 1987-36 Sch. 1 24.12.1987
+Amending enactments Relevant current provisions Commencement date Act. 1987-06 s. 74(1)(a) , (2), Sch. 2 1.1.1987 1987-16 Sch. 1 28.4.1987 1987-36 Sch. 1 24.12.1987 1989-03 s. 73(1) 2.3.1989
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 

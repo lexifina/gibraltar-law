@@ -4,10 +4,6 @@ CUSTOMS TARIFF
 
 Imports and Exports
 
-1986-21
-
-Imports and Exports
-
 1986-21 SCHEDULE 2. Section 74
 
 FEES FOR DUTY FREE GOODS.
