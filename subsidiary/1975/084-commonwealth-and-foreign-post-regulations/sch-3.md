@@ -1,32 +1,18 @@
 SCHEDULE 3.
 
-Regulations 6 & 1
+Regulations 6 & 7
 
-PART I.
+PART I
 
-RATES OF POSTAGE PAYABLE.
+RATES OF POSTAGE PAYABLE
 
-PRINTED PACKETS.
+PRINTED PACKETS
 
-Weight not over Full rate of Postage Reduced rate of Postage 20 grammes 13p 10p 100 grammes 24p 20p 250 grammes 43p 37p 500 grammes 74p 64p 1000 grammes £1.24p £1.07p 2000 grammes £1.73p £1.48p 3000 grammes £2.60p £2.23p 4000 grammes £3.46p £2.96p 5000 grammes £4.33p £3.72p
+Weight not over Full Rate of Postage Reduced Rate of Postage 20 grammes 15p 12p 100 grammes 28p 23p 250 grammes 50p 43p 500 grammes 86p 74p 1000 grammes £1.44p £1.24p 2000 grammes £2.00p £1.72p 3000 grammes £3.00p £2.60p 4000 grammes £4.00p £3.45p 5000 grammes £5.00p £4.33p PART II
 
-PART II.
+SMALL PACKETS
 
-SMALL PACKETS.
-
-Weight not over
-
-Rate of postage
-
-100 grammes
-
-22p 250 grammes
-
-42p 500 grammes
-
-74p 1000 grammes
-
-£1.24p
+Weight not over Rate of Postage 100 grammes 25p 250 grammes 49p 500 grammes 86p 1000 grammes £1.44p
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 

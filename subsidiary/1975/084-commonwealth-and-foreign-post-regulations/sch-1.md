@@ -4,17 +4,15 @@ SURFACE (ALL COUNTRIES)
 
 1.  Letters including letter packets –
 
-Weight not over
-
-Rate of Postage 20 grammes 21p 100 grammes 49p 250 grammes 99p
+Weight not over Rate of Postage 20 grammes 24p 100 grammes 57p 250 grammes £1.15p 500 grammes £2.22p 1000 grammes £3.84p 2000 grammes £6.23p
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 1961-10
 
-Subsidiary 1975/084 500 grammes £1.91p 1000 grammes £3.30p 2000 grammes £5.35p
+Subsidiary 1975/084
 
-2.  Postcards                    .21p
+2.  Postcards                    .24p
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
