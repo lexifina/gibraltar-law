@@ -18,12 +18,6 @@ Topmost Storey.
 
 For the purposes of this notice, every two children under the age of ten years may be counted as one adult person.
 
-Public Health COMMON LODGING-HOUSE RULES
-
-1950-07
-
-Subsidiary 1893.08.23
-
 Dated this day of
 
 , 20     .

@@ -16,12 +16,6 @@ Second Storey.
 
 Topmost Storey.
 
-Public Health COMMON LODGING-HOUSE RULES
-
-1950-07
-
-Subsidiary 1893.08.23
-
 For the purposes of this notice, every two children under the age of ten years may be counted as one adult person.
 
 Dated this
@@ -31,12 +25,6 @@ day of
 , 20
 
 (Signed) ......................................... Chief Environmental Health Officer.
-
-Public Health COMMON LODGING-HOUSE RULES
-
-1950-07
-
-Subsidiary 1893.08.23
 
 FORM B, –Notice of Maximum Number of Lodgers.
 
