@@ -10,7 +10,7 @@ PATENTS RULES
 
 10.1.1925
 
-Amending enactments Relevant current provisions Commencement date LN. 1971/008 – 1971/048 r. 6, Sch.2
+Amending enactments Relevant current provisions Commencement date LN. 1971/008 – 1971/048 r. 6, Sch.2 1985/039 r. 6. 1.4.1985
 
 _____________________________
 
