@@ -1,27 +1,19 @@
-Litter Control LITTER CONTROL (FORMS AND NOTICES) REGULATIONS 1990
+Subsidiary Legislation made under s.4.
 
-1990-31
+Litter Control (Forms and Notices) Regulations 1990
 
-Subsidiary 1990/108 Regulations made under section 4 of the Litter Control Act 1990.
+LN.1990/108
 
-LITTER CONTROL (FORMS AND NOTICES) REGULATIONS 1990
+Commencement 9.8.199
 
-(LN. 1990/108)
+Amending enactments Relevant current provisions Commencement date
 
-9.8.1990
+LN. 1994/002 Schs. 1-2 10.1.1994
 
-_____________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
 1. Title. 2. Designation Orders 3. Litter Abatement Notice.
 
 SCHEDULE 1
-
-SCHEDULE 2
-
-Litter Control LITTER CONTROL (FORMS AND NOTICES) REGULATIONS 1990
-
-1990-31
