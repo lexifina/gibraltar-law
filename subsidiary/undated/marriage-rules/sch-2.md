@@ -12,7 +12,7 @@ FEE (£) REMARKS 1.  Entry of Notice of Marriage 25 section 7 2.  Issue of Regis
 
 134 Section 22 7.  General search of the indices or any register of marriage register per day or part thereof 18 section 25 8.  Certified copy of any entry in a marriage register applied for within 7 days of date of registration 3.50
 
-9.  Certified copy of an entry in a marriage register applied for on a date in excess of 7 days from the date of registration. 6.50
+9.  Certified copy of an entry in a marriage register applied for on a date in excess of 7 days from the date of registration. 7.00
 
 10. Certified copy of an entry in a marriage register requested under section 41(2)(b) of the Social Security (Insurance) Act 2
 
