@@ -10,7 +10,11 @@ Act. No. 1997-25 Commencement 21.8.1997
 
 Assent
 
-Amending enactments Relevant current provisions Commencement date LN. 1998/041 Sch. 8 11.6.1998
+Amending enactments Relevant current provisions Commencement date LN. 1998/041 Sch. 8 11.6.1998 Acts. 1998-30 ss. 9(7)(b), 15(1)(a), 28(2), Sch.3 and Sch.12
+
+13.8.1998
+
+Transposing: Directive 98/21/EEC
 
 Medical and Health
 
