@@ -30,7 +30,7 @@ Regs. of 27.4.1954 r. 2(1), Sch. 1
 
 1980/110 rr. 4, 8
 
-1981/115 rr. 4, 8 1982/089 rr. 4 ,8, Sch. 2 1983/098 rr. 4 ,8, Sch. 2 1986/125 rr. 4 ,8, Sch. 2 1.1.1987 1987/170 rr. 4 ,8, Sch. 2 1.1.1988
+1981/115 rr. 4, 8 1982/089 rr. 4 ,8, Sch. 2 1983/098 rr. 4 ,8, Sch. 2 1986/125 rr. 4 ,8, Sch. 2 1.1.1987 1987/170 rr. 4 ,8, Sch. 2 1.1.1988 1988/120 rr. 4 ,8, Sch. 2 1.1.1989
 
 Social Security (Employment Injuries Insurance) EMPLOYMENT INJURIES (BENEFITS) REGULATIONS
 
@@ -98,13 +98,13 @@ Increase of disablement pension where constant attendance is needed.
 
 4. The amount by which the weekly rate of a disablement pension may be increased under section 16 of the Act where the beneficiary requires constant attendance shall-
 
-(a)  where the beneficiary is to a substantial extent dependent on such attendance for the necessities of life (not being a case to which paragraph (b) relates) and is likely to remain so dependent for a prolonged period, be £18.20 unless the attendance required is part time only, in which case the amount shall be such lesser sum as may appear to the Director to be reasonable in the circumstances;
+(a)  where the beneficiary is to a substantial extent dependent on such attendance for the necessities of life (not being a case to which paragraph (b) relates) and is likely to remain so dependent for a prolonged period, be £19.10 unless the attendance required is part time only, in which case the amount shall be such lesser sum as may appear to the Director to be reasonable in the circumstances;
 
 Social Security (Employment Injuries Insurance) EMPLOYMENT INJURIES (BENEFITS) REGULATIONS
 
 1952-10
 
-Subsidiary 1952.06.26-1 (b)  where the beneficiary is so severely disabled as to be entirely or almost entirely dependent on such attendance for the necessities of life, and is likely to remain so dependent for a prolonged period, and the attendance so required is whole time, be £36.40.
+Subsidiary 1952.06.26-1 (b)  where the beneficiary is so severely disabled as to be entirely or almost entirely dependent on such attendance for the necessities of life, and is likely to remain so dependent for a prolonged period, and the attendance so required is whole time, be £38.25.
 
 Absence from Gibraltar.
 
@@ -170,7 +170,7 @@ Provisions as to maintenance for the purposes of death benefit.
 
 (a)  wholly or mainly maintaining another person unless he normally contributed more than one half of the actual cost of that other person's maintenance ; or
 
-(b)  to a substantial extent maintaining another person unless he normally contributed not less than an average weekly amount of £23.90 towards the cost of that other person's maintenance.
+(b)  to a substantial extent maintaining another person unless he normally contributed not less than an average weekly amount of £25.10 towards the cost of that other person's maintenance.
 
 Social Security (Employment Injuries Insurance) EMPLOYMENT INJURIES (BENEFITS) REGULATIONS
 
@@ -250,10 +250,8 @@ Subsidiary 1952.06.26-1
 
 SCHEDULE 2
 
-MAXIMUM WEEKLY RATES OF INJURY BENEFIT PAYABLE FOR SUCCESSIVE ACCIDENTS
+Maximum Weekly Rates of Injury Benefit Payable for Successive Accidents.
 
-Regulation 6(2)
+Regulations 6(2)
 
-1. 2. 3. Degree of Disablement per centum Persons who have attained the age of 18. Persons who have attained the age of 15 but are under 18
-
-30 25 20 15 10 5 £ 12.40 10.40 8.30 6.30 4.60 2.40 £ 9.80 8.00 6.40 4.80 3.20 1.60
+1. 2. 3. Degree of Disablement per centum Persons who have attained the age of 18. £ Persons who have attained the age of 15 but are under 18. £ 30 13.00 10.30 25 10.90 8.40 20 8.70 6.70 15 6.60 5.00 10 4.80 3.40 5 2.50 1.70
