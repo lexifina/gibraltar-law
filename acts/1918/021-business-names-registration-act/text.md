@@ -12,7 +12,9 @@ Assent 22.10.1918
 
 Amending enactments Relevant current provisions Commencement date Acts. 1918-27 s. 16(1) 1935-08 ss. 7, 9 1953-14 ss. 2(3), (4), (5),  3, 5(1), 15, 16, 20(1), Sch.
 
-1980-04 s. 2A(2) 1983-12 ss. 18(1), 19(1)
+1980-04 s. 2A(2) 1983-12 ss. 18(1), 19(1) 1990-51 ss. 2A(1), (3), 9, 11, 12(1), 13, 15, 20(2)
+
+15.11.1990
 
 Delegation to the Registrar of the powers of the Governor under ss.8 and 12 by notice of 6 May 1958 appears under the title Interpretation and General Clauses.
 
@@ -72,11 +74,11 @@ Business Names Registration
 
 Registrar.
 
-2A. (1) The Registrar of the Supreme Court shall be the Regitrar of Business Names for the Purpose of this Act.
+2A. (1) The Registrar of Business Names shall be the person approved by the Governor for this purpose.
 
 (2)  The Governor may appoint one or more assistant registrars of business names, and any assistant registrar so appointed may, subject to any directions given to him by the Registrar, exercise all the powers and perform all the duties of the Registrar under this Act.
 
-(3)  The Registry of the Supreme Court shall be the office for the registration of firms and persons under this Act.
+(3)  The Registry of the Supreme Court or such other place as the Governor may appoint by notice in the Gazette shall be the office for the registration of firms and persons under this Act.
 
 Firms and persons to be registered.
 
@@ -156,7 +158,7 @@ Registration of changes in firm.
 
 Penalty for default in registration.
 
-9. If any firm or person by this Act required to furnish a statement of particulars or of any change in particulars shall without reasonable excuse make default in so doing in the manner and within the time specified by this Act, every partner in the firm or the person so in default is guilty of an offence and is liable on summary conviction to a fine of £5 for every day during which the default continues, and the court shall order a statement of the required particulars or change in the particulars to be furnished to the Registrar within such time as may be specified in the order.
+9. If any firm or person by this Act required to furnish a statement of particulars or of any change in particulars shall without reasonable excuse make default in so doing in the manner and within the time specified by this Act, every partner in the firm or the person so in default is guilty of an offence and is liable on summary conviction to a fine of £250 for every day during which the default continues, and the court shall order a statement of the required particulars or change in the particulars to be furnished to the Registrar within such time as may be specified in the order.
 
 Disability of persons in default.
 
@@ -180,21 +182,23 @@ Provided that, without prejudice to the power of the Supreme Court to grant such
 
 Penalty for false statements.
 
-11. If any statement required to be furnished under this Act contains any matter which is false in any material particular to the knowledge of any person signing it, that person is guilty of an offence and is liable on summary conviction to imprisonment for three months and to a fine of £20.
+11. If any statement required to be furnished under this Act contains any matter which is false in any material particular to the knowledge of any person signing it, that person is guilty of an offence and is liable on summary conviction to imprisonment for three months and to a fine of £1,000.
 
  Court of first Instance Act repealed by the Administration of Justice Act 2004 (2004-11) s.3 as from 1.9.2004. All references to the Court of First Instance shall be read as if it were a reference to the Supreme Court (see Act 2004-11 s.7). 2 1960-03 (repealed see note above) (1916 c.58, s.9).
 
 Business Names Registration
 
-1918-21 Duty to furnish particulars to the Governor.
+1918-21
 
-12. (1)  The Governor may require any person to furnish to him such particulars as appear necessary to him for the purpose of ascertaining whether or not that person or the firm of which he is partner should be registered under this Act, or an alteration made in the registered particulars, and may also in the case of a corporation require the secretary or any other officer of the corporation performing the duties of secretary to furnish such particulars, and if any person when so required fails to supply such particulars as it is in his power to give, or furnishes particulars which are false in any material particular, he is guilty of an offence and is liable on summary conviction to imprisonment for three months and to a fine of £20.
+Duty to furnish particulars to the Governor.
+
+12. (1)  The Governor may require any person to furnish to him such particulars as appear necessary to him for the purpose of ascertaining whether or not that person or the firm of which he is partner should be registered under this Act, or an alteration made in the registered particulars, and may also in the case of a corporation require the secretary or any other officer of the corporation performing the duties of secretary to furnish such particulars, and if any person when so required fails to supply such particulars as it is in his power to give, or furnishes particulars which are false in any material particular, he is guilty of an offence and is liable on summary conviction to imprisonment for three months and to a fine of £1,000.
 
 (2)  If from any information so furnished it appears to the Governor that any firm or person ought to be registered under this Act, or an alteration ought to be made in the registered particulars, the Governor may require the firm or person to furnish to the Governor the required particulars within such time as may be allowed by the Governor, but, where any default under this Act has been discovered from the information acquired under this section, no proceedings under this Act shall be taken against any person in respect of such default prior to the expiration of the time within which the firm or person is required by the Governor under this section to furnish particulars to the Registrar.
 
 Registrar to file statement and issue certificate of registration.
 
-13. On receiving any statement or statutory declaration made in pursuance of this Act the Registrar shall cause the same to be filed, and he shall send by post or deliver a certificate of the registration thereof to the firm or person registering and the certificate or a certified copy thereof shall be kept exhibited in a conspicuous position at the principal place of business of the firm or person, and if not kept so exhibited, every partner in the firm or the person, as the case may be, is guilty of an offence and is liable on summary conviction to a fine of £20.
+13. On receiving any statement or statutory declaration made in pursuance of this Act the Registrar shall cause the same to be filed, and he shall send by post or deliver a certificate of the registration thereof to the firm or person registering and the certificate or a certified copy thereof shall be kept exhibited in a conspicuous position at the principal place of business of the firm or person, and if not kept so exhibited, every partner in the firm or the person, as the case may be, is guilty of an offence and is liable on summary conviction to a fine of £1,000.
 
 Index to be kept.
 
@@ -202,11 +206,11 @@ Index to be kept.
 
 Removal of names from register.
 
-15. (1)  If any company, firm or individual registered under this Act ceases to carry on business, it shall be the duty of the persons who were directors or, as the case may be, liquidator of the company, or who were partners in the firm at the time when it ceased to carry on business or of the individual or if he is dead his personal representative, within three months after the (1916 c.58,s.10). (1916 c.58, s.11). (1916  c.58, s.12). (1916  c.58, s.13).
+15. (1)  If any company, firm or individual registered under this Act ceases to carry on business, it shall be the duty of the persons who were directors or, as the case may be, liquidator of the company, or who were partners in (1916 c.58,s.10). (1916 c.58, s.11). (1916  c.58, s.12). (1916  c.58, s.13).
 
 Business Names Registration
 
-1918-21 business has ceased to be carried on, to send by post or deliver to the Registrar notice in the prescribed form that the company, firm or individual has ceased to carry on business, and if any person whose duty it is to give such notice fails to do so within such time, he is guilty of an offence and is liable on summary conviction to a fine of £20.
+1918-21 the firm at the time when it ceased to carry on business or of the individual or if he is dead his personal representative, within three months after the business has ceased to be carried on, to send by post or deliver to the Registrar notice in the prescribed form that the company, firm or individual has ceased to carry on business, and if any person whose duty it is to give such notice fails to do so within such time, he is guilty of an offence and is liable on summary conviction to a fine of £1,000.
 
 (2)  On receipt of such notice the Registrar may remove the company, firm or individual from the register.
 
@@ -224,11 +228,11 @@ Misleading business names.
 
 the Registrar shall refuse to register such business name or, as the case may be, remove such business name from the register, but any person aggrieved by a decision of the Registrar under this provision may appeal to the Governor who shall appoint a committee of not more than three to hear and report to him upon the appeal and upon such report shall give his decision which shall be final.
 
-(2)  Where registration of a business name is refused under this section, any person carrying on business under that name in such circumstances as to require registration under this Act shall be liable under section 9 to the same (1947  c.47, s.116).
+(2)  Where registration of a business name is refused under this section, any person carrying on business under that name in such circumstances as to (1947  c.47, s.116).
 
 Business Names Registration
 
-1918-21 penalties as if he had without reasonable excuse made default in furnishing a statement of particulars with respect to that name.
+1918-21 require registration under this Act shall be liable under section 9 to the same penalties as if he had without reasonable excuse made default in furnishing a statement of particulars with respect to that name.
 
 (3)  The registration of a business name under this Act shall not be construed as authorizing the use of that name if apart from such registration the use thereof could be prohibited.
 
@@ -262,17 +266,17 @@ Rules.
 
 Publication of true names, etc.
 
-20. (1)  Every individual and firm required by this Act to be registered shall, in all trade catalogues, trade circulars, showcards and business letters, on or (1916 c.58, s.16). (1916 c.58, s.18).
+(1916 c.58, s.16). (1916 c.58, s.18).
 
 Business Names Registration
 
-1918-21 in which the business name appears and which are issued or sent by the individual or firm to any person in any part of the Commonwealth, have mentioned in legible characters–
+1918-21 20. (1)  Every individual and firm required by this Act to be registered shall, in all trade catalogues, trade circulars, showcards and business letters, on or in which the business name appears and which are issued or sent by the individual or firm to any person in any part of the Commonwealth, have mentioned in legible characters–
 
 (a) in the case of an individual, his present fore name or the  initials thereof and present surname, any former fore name or surname, his nationality if not British; and
 
 (b) in the case of a firm, the present fore names, or the  initials thereof and present surnames, any former fore names and surnames, and the nationality if not British, of all the partners in the firm or, in the case of a corporation being a  partner, the corporate name.
 
-(2)  If default is made in compliance with this section the individual or, as the case may be, every member of the firm is guilty of an offence and is liable on summary conviction for each offence to a fine of £5.
+(2)  If default is made in compliance with this section the individual or, as the case may be, every member of the firm is guilty of an offence and is liable on summary conviction for each offence to a fine of £250.
 
 (3)  No proceedings shall be instituted under this section except by or with the consent of the Attorney-General.
 
