@@ -26,13 +26,13 @@ THE  FOOD AND DRUGS ACT.
 
 (a) by repealing the definition of “Director”; and
 
-(b) by inserting in the appropriate alphabetical position the following additional definition -
+Medical (Gibraltar Health Authority)
+
+1987-34 (b) by inserting in the appropriate alphabetical position the following additional definition -
 
 “Specialist in Community Medicine” means the registered medical practitioner appointed as such by the Gibraltar Health Authority;”.
 
-Medical (Gibraltar Health Authority)
-
-1987-34 6.  Sections 15, 16, 17,21 and 39 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
+6.  Sections 15, 16, 17,21 and 39 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
 
 7. Sections 18A and 20 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Specialist in Community Medicine”.
 
@@ -62,13 +62,15 @@ following additional definitions:-
 
 11A. Section 7 is amended by deleting the word "Government" in each place where it appears and substituting in each such place the word "Authority".
 
+Medical (Gibraltar Health Authority)
+
+1987-34
+
 11B. Section 8 is amended-
 
 (a)  in paragraphs (1)(c) and (2)(b) by deleting the words "in a Government" in each place where they appear and substituting in each such place the words "by the Authority in a"; and
 
-Medical (Gibraltar Health Authority)
-
-1987-34 (b)  in paragraph (2)(a) by deleting the words "Government hospital" and substituting the words "in a hospital maintained by the Authority".
+(b)  in paragraph (2)(a) by deleting the words "Government hospital" and substituting the words "in a hospital maintained by the Authority".
 
 11C. Section 16 is amended by deleting the word "Government" in each place where it appears and substituting in each such place the word "Authority".
 
@@ -90,15 +92,13 @@ Medical (Gibraltar Health Authority)
 
 (c)  in paragraph 1(c) by repealing the words "Matron, Medical and Health Department" and substituting the words "Director of Nursing Services of the Authority".
 
-THE MENTAL HEALTH ACT.
+Medical (Gibraltar Health Authority)
+
+1987-34 THE MENTAL HEALTH ACT.
 
 17. Section 2 is amended –
 
 (a) in the definition of “Superintendent” by repealing the words “Medical Administrator” and substituting the words “General Manager”; and
-
-Medical (Gibraltar Health Authority)
-
-1987-34
 
 (b) by inserting in the appropriate alphabetical position the following new definition -
 
@@ -130,13 +130,11 @@ THE PUBLIC HEALTH ACT.
 
 “Authority” means the Gibraltar Health Authority;
 
-“Specialist in Community Medicine” means the registered medical practitioner appointed as such by the Authority;”.
-
-24. Sections 72, 73, 74, 87, 151, 152, 155, 156, 157, 158, 160, 167, 182, 183, 184, 185, 187, 188, 190, 223, 224, 225, 226, 228 and 235 are amended by repealing the word “Director” in each place where it appears and substituting' in each such place the words “Chief Environmental Health Officer”.
-
 Medical (Gibraltar Health Authority)
 
-1987-34
+1987-34 “Specialist in Community Medicine” means the registered medical practitioner appointed as such by the Authority;”.
+
+24. Sections 72, 73, 74, 87, 151, 152, 155, 156, 157, 158, 160, 167, 182, 183, 184, 185, 187, 188, 190, 223, 224, 225, 226, 228 and 235 are amended by repealing the word “Director” in each place where it appears and substituting' in each such place the words “Chief Environmental Health Officer”.
 
 25. Sections 144, 149, 150, 162, 163, 168, 173(3), 174, 1%, 203, 229 and 230 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Specialist in Community Medicine –
 
@@ -164,15 +162,15 @@ Medical (Gibraltar Health Authority)
 
 29. Sections 193, 194, 195, 197, 198, 199, 200, 201, 202 and  are repealed.
 
-THE QUARANTlNE ACT.
+Medical (Gibraltar Health Authority)
+
+1987-34 THE QUARANTlNE ACT.
 
 30. Section 2 is amended –
 
 (a) in the definition of “health officer” by repealing the words “the Director of Medical and Health Services” and substituting the words “the Specialist in Community Medicine”; and
 
-Medical (Gibraltar Health Authority)
-
-1987-34 (b) by inserting in the appropriate alphabetical, position the following additional definition –
+(b) by inserting in the appropriate alphabetical, position the following additional definition –
 
 “Specialist in Community Medicine” means the registered medical practitioner appointed as such by the Gibraltar Health Authority;”
 

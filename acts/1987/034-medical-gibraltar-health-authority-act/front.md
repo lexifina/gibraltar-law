@@ -8,6 +8,8 @@ Principal Act Commencement Listed below Act. No. 1987-34 Assent 24.12.1987
 
 Commencement dates Legal Notice No. Relevant provisions 18.2.1985 1987/1731 Paras.15 and 16(a) of the Sch. 24.12.1987 1987/173 ss. 1-5, 6(2)(b)-(d), 7, 9-10, 13-15, 19, 23, 25(5) 1.2.1988 1987/173 25(1), Sch. (other than paras. 13-22, 26) 31.3.1988 1987/173 Rest (save para. 31 of the Sch.) 12.1.1989 1989/004 Para. 31 of the Sch.
 
+Amending enactment Relevant current provisions Commencement date Act. 1989-07 s.14(5) 2.3.1989
+
 1 Notice of Corrigendum (LN.1988/022)
 
 Medical (Gibraltar Health Authority)
