@@ -24,7 +24,11 @@ Acts. 1985-11 ss. 16, 22(1) and (4), 23(6)(a), 26(4)(b), 29(3), 30(1), 80A, 81(b
 
 2.4.19922
 
-1 Notice of Commencement LN. 1985/124 2 Notice of Commencement LN. 1992/047
+“ ss.10(1)(a), (b) and (c), (2) and (7), 11A, 22 and 80A(1)
+
+1.7.19923
+
+1 Notice of Commencement LN. 1985/124 2 Notice of Commencement LN. 1992/047 3 Notice of Commencement LN. 1992/081
 
 Landlord and Tenant
 
@@ -44,11 +48,11 @@ PART II. ADMINISTRATION.
 
 PART III. DOMESTIC PREMISES
 
-10. Application of Part III. 11. Statutory rent. 12. Rating adjustments. 13. Adjustments for improvements. 14. Adjustments for sub-letting. 15. Rent payable by Gibraltarians. 16. Revoked. 17. Restrictions on rent increases. 18. Restrictions on recovery of possession. 19. Temporary repossession to carry out repairs. 20. Acceptance of rent after notice to quit. 21. Restrictions on distraint. 22. Revision of statutory rent on ground of structural alterations. 23. Restrictions on sub-letting. 24. Recovery of increased rent where premises unlawfully sub-let. 25. Recovery of premises sub-let at excessive rent. 26. Sub-tenant’s option to take surrendered tenancy. 27. Conditions of statutory tenancies. 28. Statement as to statutory rent. 29. Rent books. 30. Reference to Tribunal to determine rent. 31. Recovery of rent.
+10. Application of Part III. 11. Statutory rent. 11A. Rents of dwellinghouses becoming controlled. 12. Rating adjustments. 13. Adjustments for improvements. 14. Adjustments for sub-letting. 15. Rent payable by Gibraltarians. 16. Revoked. 17. Restrictions on rent increases. 18. Restrictions on recovery of possession. 19. Temporary repossession to carry out repairs. 20. Acceptance of rent after notice to quit. 21. Restrictions on distraint. 22. Application for re-assessment of statutory rent. 23. Restrictions on sub-letting. 24. Recovery of increased rent where premises unlawfully sub-let. 25. Recovery of premises sub-let at excessive rent. 26. Sub-tenant’s option to take surrendered tenancy. 27. Conditions of statutory tenancies. 28. Statement as to statutory rent. 29. Rent books. 30. Reference to Tribunal to determine rent.
 
 Landlord and Tenant
 
-1983-49 32. Limitation on rent for furnished dwellinghouses. 33. Premiums. 34. Power of court to determine questions of rent. 35. Repealed. 36. Jurisdiction to grant possession. 36A. Provisions with respect to premises used for the accommodation of certain non-resident workers, and repeal of Act No.5 of 1971.
+1983-49 31. Recovery of rent. 32. Limitation on rent for furnished dwellinghouses. 33. Premiums. 34. Power of court to determine questions of rent. 35. Repealed. 36. Jurisdiction to grant possession. 36A. Provisions with respect to premises used for the accommodation of certain non-resident workers, and repeal of Act No.5 of 1971.
 
 PART IV. BUSINESS PREMISES.
 
@@ -56,7 +60,9 @@ PART IV. BUSINESS PREMISES.
 
 Landlord and Tenant
 
-1983-49 PART V. GENERAL PROVISIONS.
+1983-49
+
+PART V. GENERAL PROVISIONS.
 
 70. Restriction on right to possession in certain cases. 71. Compensation for possession obtained by misrepresentation. 72. Power to issue notices and summonses. 73. Errors in notice of increase. 74. Appeals against decisions of Rent Tribunal and Rent Assessor. 75. Notices to quit. 76. Retrospective and interim awards. 77. Interim continuation of tenancies pending determination by court or Tribunal. 78. Provisions as to reversions. 79. Provisions as to mortgagees in possession. 79A. Tenant to supply rates demand note to landlord if so requested. 80. Rules of court. 80A. Reserve fund. 81. Regulations. 82. Amendment of other enactments. 83. Repeal. 84. Savings.
 
