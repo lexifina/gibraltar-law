@@ -12,7 +12,7 @@ Commencement 1.11.1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992
+LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
@@ -154,7 +154,7 @@ Any certificate issued by the Financial and Development Secretary in relation to
 
 (a) registration of a person as a British citizen under section 5 of the British Nationality Act, 1981
 
-5.00
+10.00
 
 (b) registration of a person of full age as a British Dependent Territories citizen under the British Nationality Act, 1981
 
