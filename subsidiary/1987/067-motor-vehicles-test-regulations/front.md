@@ -10,7 +10,7 @@ MOTOR VEHICLES TEST REGULATIONS
 
 1.4.1987
 
-Amending enactments Relevant current Provisions Commencem ent date LN.   1988/026 r.37 18.2.1988
+Amending enactments Relevant current Provisions Commencem ent date LN.   1988/026 r.37 18.2.1988 1990/010 Sch.5 18.1.1990
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
