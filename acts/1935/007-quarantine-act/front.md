@@ -8,7 +8,7 @@ Principal Act
 
 Act. No. 1935-07 Commencement 17.5.1935 Assent 17.5.1935
 
-Amending enactments Relevant current provisions Commencement date Act. 1937-04 s. 2 1944-10 - 1948-09 ss. 2, 4(3), 29 1987-34 s. 2 27.12.1987
+Amending enactments Relevant current provisions Commencement date Act. 1937-04 s. 2 1944-10 - 1948-09 ss. 2, 4(3), 29 1987-34 s. 2 27.12.1987 1997-25 s. 2 21.8.1997
 
 Quarantine
 
