@@ -74,21 +74,29 @@ G-APPARATUS USED IN CONNECTION WITH THE PROVISION OF TELEPHONE SERVICE TO SHIPS 
 
 1. 9m of cable or part thereof 2. Each additional 9m or part thereof 3. Weatherproof plug and socket 4. Additional weatherproof socket 0.87 0.87 1.74 1.20
 
+H - DATA CIRCUITS
+
+TERMINAL CHARGES RATE PER QUARTER £ 1. Telegraph Type up to 200 Bits/Sec 66.66 2. Data Line (2 wire) 1200 Bits/Sec 102.00 3. Data Line (4 wire) 1200 Bits/Sec 150.00 4. Data Line (2 wire) 2400 Bits/Sec 180.00 5. Data Line (4 wire) 2400 Bits/Sec 195.00 6. Data Line (4 wire) 9600 Bits/Sec 270.00 7. Data Lines (Dial-Up) 15.00 INTERNATIONAL CIRCUIT (SPAIN) 1. 2w up to 2400 Bits/Sec 600.00 2. 4w up to 2400 Bits/Sec 1200.00
+
+NOTE: Other requirements Charges by specific agreement
+
 PART II-CONNECTION AND REMOVAL CHARGES
 
-Standard Charge £ 1. Exchange line 2. External Extension 3. Private Circuit Provided that in the case of a removal under any of items I, 2 and 3, the removal charge shall be£30 4. Internal Extension: (a) Plan 1A (Parallel) and switched non-intercom (b) Plan 4 Two sockets (c) Plan 5 or SA (See item 4 of Part 1B Extensions) (d) Plan 7 or 7A (See item 5of Part 1B Extensions) (e) Plan 102 (See item 6 of Part 1B Extensions) (f) Plan 103 (See item 7 of Part 1B Extensions) (g) Plan 105 or 105A (See item 8 of Part 1B Extensions) (h) Plan 107 or 107 A (See item 9 of Part 1B Extensions) (i) Secretarial Telephone (j) House Exchange System 2 + 5 for each station (k) House Exchange System 1 + 5 50.00 50.00 50.00
+Public Utility Undertakings
+
+1950-05
+
+Standard Charge £ 1. Exchange line 2. External Extension 3. Private Circuit Provided that in the case of a removal under any of items I, 2 and 3, the removal charge shall be£30 4. Internal Extension: (a) Plan 1A (Parallel) and switched non-intercom (b) Plan 4 Two sockets (c) Plan 5 or SA (See item 4 of Part 1B Extensions) (d) Plan 7 or 7A (See item 5of Part 1B Extensions) (e) Plan 102 (See item 6 of Part 1B Extensions) (f) Plan 103 (See item 7 of Part 1B Extensions) (g) Plan 105 or 105A (See item 8 of Part 1B Extensions) (h) Plan 107 or 107 A (See item 9 of Part 1B Extensions) (i) Secretarial Telephone (j) House Exchange System 2 + 5 for each station (k) House Exchange System 1 + 5 for each station (l) Any other internal extension (m) Power Fail Telephone 50.00 50.00 50.00
 
 11.49 11.49 17.94 11.49 14.97 20.94 20.94 14.97 20.94
 
 26.91
 
-Public Utility Undertakings
-
-1950-05 for each station (l) Any other internal extension (m) Power Fail Telephone 14.97 11.49 11.49 5. Private Branch Exchange: (a) All PMBX specified in item 1(a) of Section C (b) All Electronic PMBX specified in item 1(b) of Section C (c) AI PABX specified in item 1(c) of Section C
+14.97 11.49 11.49 5. Private Branch Exchange: (a) All PMBX specified in item 1(a) of Section C (b) All Electronic PMBX specified in item 1(b) of Section C (c) AI PABX specified in item 1(c) of Section C
 
 charges at cost
 
-charges at cost charges at cost 6. Coin box telephone (as specified in items 2 and 3 of Section E) 7. Portable coin box telephone (as specified in item 4 of Section E) 8. Extension bell: (a) Internal (b) External 9. Monoprint (as specified in item 5 of Section E) 10. Subscriber's private meter (as specified in items 6 and 7 of Section E) 11. Loudspeaking Deltaphone or Telephone (as specified in items 13 and 14 of Section E) 12. Lock switch for telephone instrument 13. Bell cut-off switch 14. Visual Indicator 15. Amplified Handset 16. Handset with lamp signal 17. Trimphone Rotary Dial or Quickstep Pushbutton, or Pushbutton telephone (as specified in items 9 to 11 of Section E) 18. Xpress Callmaker 19. Answering only machine or answering and recording machine (as specified in items 19 and 20 of Section E) 20. Mickey Mouse Telephone 15.32
+charges at cost charges at cost 6. Coin box telephone (as specified in items 2 and 3 of Section E) 7. Portable coin box telephone (as specified in item 4 of Section E) 8. Extension bell: (a) Internal (b) External 9. Monoprint (as specified in item 5 of Section E) 10. Subscriber's private meter (as specified in items 6 and 7 of Section E) 11. Loudspeaking Deltaphone or Telephone (as specified in items 13 and 14 of Section E) 12. Lock switch for telephone instrument 13. Bell cut-off switch 14. Visual Indicator 15. Amplified Handset 16. Handset with lamp signal 15.32
 
 12.00
 
@@ -98,21 +106,23 @@ charges at cost charges at cost 6. Coin box telephone (as specified in items 2 a
 
 14.95 6.73 6. 73 6.73 6.73 6.73
 
+Public Utility Undertakings
+
+1950-05 17. Trimphone Rotary Dial or Quickstep Pushbutton, or Pushbutton telephone (as specified in items 9 to 11 of Section E) 18. Xpress Callmaker 19. Answering only machine or answering and recording machine (as specified in items 19 and 20 of Section E) 20. Mickey Mouse Telephone
+
 7.50 9.00 14.95
 
 50.00 21. Equipment for provision of telephone service to ships 22. Temporary connections: charges at cost standard charge applicable plus a minimum of £1 month's appropriate rental 23. Provision of terminal box or jackpoint as specified in item 22 of Section E)
 
-6.73 24. Call Accounting Equipment and leased circuit 25. Prestal Viewdata Terminals charges at cost charges by specific agreement
+6.73 24. Call Accounting Equipment and leased circuit 25. Prestal Viewdata Terminals charges at cost charges by specific agreement 26. Data circuit (2 wire) 27. Data circuit (4 wire) 50.00 100.00
 
-Public Utility Undertakings
-
-1950-05 NOTES: (i) In any case where it is estimated that the actual cost will exceed these standard charges, the subscriber may be required to meet the actual cost. (ii) The charges payable under this Schedule may be reduced by 50 per cent where no new installation is required.
+NOTES: (i) In any case where it is estimated that the actual cost will exceed these standard charges, the subscriber may be required to meet the actual cost. (ii) The charges payable under this Schedule may be reduced by 50 per cent where no new installation is required.
 
 (iii) New Government owned and privately owned PBX's shall be charged by specific agreement.
 
 PART III-SUNDRY CHARGES
 
-1. Instrument cord of over 2m (standard) (i) 3m (ii) 4.5m to 5m (iii) 7.5m to Sm 2. Change of serviceable instrument at subscriber's request 3. Change of telephone number at subscriber's request 4. (a) Change of telephone number to ex-directory at subscriber's request (b) Request for telephone number (ex-directory) on initial application 5. Change of name or ownership: (a) Change of name of residential telephone to subscriber's next of kin at same address (except as provided in sub- paragraph (c)) (b) Change of name of business telephone and/or telex under same proprietors (c) Change of name on bereavement of next of kin
+1. Instrument cord of over 2m (standard) (i) 3m (ii) 4.5m to 5m (iii) 7.5m to Sm 2. Change of serviceable instrument at subscriber's request 3. Change of telephone number at subscriber's request 4. (a) Change of telephone number to ex-directory at subscriber's request (b) Request for telephone number (ex-directory) on initial application 5. Change of name or ownership: (a) Change of name of residential telephone to subscriber's next of kin at same address (except as provided in sub-
 
 3.59 4.03 5.41 7.50 4.50
 
@@ -122,21 +132,19 @@ PART III-SUNDRY CHARGES
 
 4.50
 
-6.00
+Public Utility Undertakings
+
+1950-05 paragraph (c)) (b) Change of name of business telephone and/or telex under same proprietors (c) Change of name on bereavement of next of kin 6.00
 
 no charge (d) Other changes of names or ownership of telephone or telexes charges at the appropriate connection charge per direct exchange line
 
 NOTE: The charge payable under paragraph 5(d) may be reduced by 50 per cent where no new installation is required.
 
-6. Tracing of annoyance or malicious call chargeable to person requesting the service 7. Checking of trunk call charges confirmed as correct after overseas enquiry 8. Reconnection charge on settlement of outstanding accounts 9. Connection of picture calls 10. Temporary disconnection at subscriber's request 11. Subscriber Transfer Facility
+6. Tracing of annoyance or malicious call chargeable to person requesting the service 7. Checking of trunk call charges confirmed as correct after overseas enquiry 8. Reconnection charge on settlement of outstanding accounts 9. Connection of picture calls 10. Temporary disconnection at subscriber's request 11. Subscriber Transfer Facility 12. Connection of S.P.M. 50Hz pulses for items 2 to 7 of Section E 13. Connection to the Call Data Logger for Printer Meter Check (Chargeable if meter is certified correct) 14. Provision of PBX hunting: (a) for up to 3 lines (b) over 3 lines
 
 3.00
 
 1.50 6.00 3.00 I. LS 9.20
-
-Public Utility Undertakings
-
-1950-05 12. Connection of S.P.M. 50Hz pulses for items 2 to 7 of Section E 13. Connection to the Call Data Logger for Printer Meter Check (Chargeable if meter is certified correct) 14. Provision of PBX hunting: (a) for up to 3 lines (b) over 3 lines
 
 6.00
 
