@@ -28,7 +28,7 @@ regs.of 4.10.1960 r. 6
 
 1979/101 –
 
-1980/114 Schs.3-4 1980/130 Sch.3 (corrigendum) 1981/116 r. 20(3), Schs.3-4 1982/086 Schs.3-4 1983/102 Schs.3-4 1984/095 Schs.3-4 25.12.1984 1985/140 Schs.3-4 25.12.1985 1986/126 Schs.3-4 23.12.1986 1987/168 Schs.3-4 29.12.1987
+1980/114 Schs.3-4 1980/130 Sch.3 (corrigendum) 1981/116 r. 20(3), Schs.3-4 1982/086 Schs.3-4 1983/102 Schs.3-4 1984/095 Schs.3-4 25.12.1984 1985/140 Schs.3-4 25.12.1985 1986/126 Schs.3-4 23.12.1986 1987/168 Schs.3-4 29.12.1987 1988/152 rr. 21, 36, Schs.3-4 22.12.1988
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
@@ -388,13 +388,19 @@ Partial satisfaction of contribution conditions (V).
 
 21.(1) Where a person would be entitled to a widow's benefit or widower's pension at one of the rates specified in Part V of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to such benefit in accordance with sub- regulation (2) if the yearly average of contributions paid or credited is not less than thirteen.
 
-(2)  Where the full weekly rate of a widow's benefit or widower's pension (excluding any increases for children) is at one of the rates set out at the head of column (2) or (3) of Part V of Schedule 3 to these regulations, then the benefit shall be payable at the reduced rate specified in the appropriate column of that Part of that Schedule which corresponds with the yearly average of contributions paid or credited as shown in column (1) of that Part of that Schedule.
+(2) Where the full weekly rate of a widow's benefit or widower's pension (excluding any increases for children) is at one of the rates set out at the head of column (2) or (3) of Parts V and VI of Schedule 3 to these regulations, then the benefit or pension shall be payable as follows –
+
+(a)  where the person would be entitled to widow's benefit or widower's pension before the 1st day of January 1989, at the reduced rate specified in the appropriate column of Part V of
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 PART IV.–GUARDIAN'S ALLOWANCE.
+Subsidiary 1955.08.04-4 Schedule 3 which corresponds with the yearly average of contributions paid or credited as shown in column (1) of that Part of that Schedule; and
+
+(b)  where the person would be entitled to widow's benefit or widower's pension on or after the lst day of January 1989, at the reduced rate specified in the appropriate column of Part VI of Schedule 3 which corresponds with the yearly average of contributions paid or credited as shown in column (1) of that Part of that Schedule.
+
+PART IV.–GUARDIAN'S ALLOWANCE.
 
 Adopted children.
 
@@ -410,15 +416,15 @@ Illegitimate children.
 
 23.(1) Subject as aforesaid, where a child (other than a child to whom regulation 22 applies) is illegitimate, there shall be substituted for the condition that the parents are dead the condition or conditions set out below appropriate to the circumstances of the case, namely,-
 
-(a) if any person has been found by a court of competent jurisdiction to be the father of the child, or if there is no such finding but in the opinion of the determining authority the paternity of the child has been admitted or established, the condition that the father and the mother of the child are dead, and, where applicable. the further condition specified in sub-regulation (2); or
-
-(b) in any other case, the condition that the mother is dead, and, where applicable the further condition specified in sub-regulation (2).
-
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 (2)  For the purposes of this regulation, the further condition shall be that, if the mother of such a child is married at the time of her death, and the child is a child of her husband's family at that time, the husband is also dead.
+Subsidiary 1955.08.04-4 (a) if any person has been found by a court of competent jurisdiction to be the father of the child, or if there is no such finding but in the opinion of the determining authority the paternity of the child has been admitted or established, the condition that the father and the mother of the child are dead, and, where applicable. the further condition specified in sub-regulation (2); or
+
+(b) in any other case, the condition that the mother is dead, and, where applicable the further condition specified in sub-regulation (2).
+
+(2)  For the purposes of this regulation, the further condition shall be that, if the mother of such a child is married at the time of her death, and the child is a child of her husband's family at that time, the husband is also dead.
 
 Children of divorced persons.
 
@@ -434,17 +440,17 @@ Children whose parents cannot be traced.
 
 25.(1) Subject as aforesaid, where at the date of the death of one of the parents of a child the other parent cannot be traced, there shall be substituted for the condition that the parents axe dead the condition that one of the parents is dead.
 
-(2)  For the purposes of this regulation, the provisions of regulation 24(2) shall apply.
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4 (2)  For the purposes of this regulation, the provisions of regulation 24(2) shall apply.
 
 Contribution conditions.
 
 26. In its application to the classes of persons specified in this Part paragraph 3 of Part I of Schedule 3 to the Act shall apply with the modification that the contribution conditions for the receipt of guardian's allowance may be satisfied by the person or one of the persons (as the case may be) to whom the appropriate substituted condition contained in the relevant regulation is applicable.
 
-Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-4 Partial satisfaction of contribution conditions.
+Partial satisfaction of contribution conditions.
 
 27.(1) Where a person would be entitled to guardian's allowance at the rate specified in Part lll of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the number of contributions paid since the 1st day of January, 1968, that person shall nevertheless be entitled to such allowance in accordance with sub-regulation (2), if not less than thirteen contributions have been paid since the 1st day of January, I 968.
 
@@ -462,17 +468,17 @@ Women who marry after attaining pensionable age.
 
 (a)   (i) that she and her husband have been married for not less than one year; or
 
-(ii) that. if the husband dies before the expiration of one year from the date of the marriage, she has a family which includes a child who, or children one of whom, either was at the husband's death a child of his family or is a son or daughter of theirs; or
-
-(b) that, immediately before the date of the marriage, she was entitled to widow's benefit; or
-
-(c) that immediately before that date, she was entitled to an old age pension; or
-
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
 Subsidiary 1955.08.04-4
+
+(ii) that. if the husband dies before the expiration of one year from the date of the marriage, she has a family which includes a child who, or children one of whom, either was at the husband's death a child of his family or is a son or daughter of theirs; or
+
+(b) that, immediately before the date of the marriage, she was entitled to widow's benefit; or
+
+(c) that immediately before that date, she was entitled to an old age pension; or
 
 (d) that, immediately before that date, she was entitled otherwise than under the Act. to any pension or allowance payable out of public funds and ceased to be so entitled by reason only of her marriage or re-marriage.
 
@@ -486,19 +492,19 @@ Provided that for any period in respect of which no such notice is given the per
 
 Priority between a man and his wife to increase of old age pension for child.
 
-31. Where but for section 19(3)(a) of the Act (which paragraph restricts the entitlement of a man and his wife to increase of old age pensions in respect of children) a man and his wife would both be entitled for the same period. by virtue of either his or her insurance, to an increase of old age pension in respect of the same child or to increases in respect of more than four children, the following provisions shall apply:-
+31. Where but for section 19(3)(a) of the Act (which paragraph restricts the entitlement of a man and his wife to increase of old age pensions in respect of children) a man and his wife would both be entitled for the same period. by virtue of either his or her insurance, to an increase of old age pension in
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4 respect of the same child or to increases in respect of more than four children, the following provisions shall apply:-
 
 (a) if and so long as the man and his wife are living together, the man shall, and his wife shall not, be entitled to the increase, or, as the case may be, to the additional increase;
 
 (b) if and so long as they are not living together, such one of them shall, and such other of them shall not, be entitled to the increase or additional increase as the Director may in his discretion from time to time determine.
 
 Partial satisfaction of contribution conditions (I).
-
-Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-4
 
 32.(1) Where a person would be entitled to old age pension at one of the rates specified in Part I of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to such a pension in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
 
@@ -510,17 +516,17 @@ Partial satisfaction of contribution conditions (II).
 
 (2)  Where the full weekly rate of old age pension (excluding any increases for children) is at one of the rates set out at the head of columns (2) to (4) of Part II of Schedule 4 to these regulations, then the pension shall be payable at the reduced rate specified in the appropriate column of that Part of that Schedule which corresponds with the number of contributions paid since the 1st day of January, 1968, as shown in column (1) of that Part of that Schedule.
 
-Partial satisfaction of contribution conditions (III).
-
-34.(1) Where a person would be entitled to old age pension at one of the rates specified in Part III of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to such pension in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
-
-(2)  Where the full weekly rate of old age pension (excluding any increases for children) is at one of the rates set out at the head of columns (2) to (4) of Part III of Schedule 4 to these regulations, then the pension shall be payable
-
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 at the reduced rate specified in the appropriate column of that Part of that Schedule which corresponds with the yearly average of contributions paid or credited as shown in column (1) of that Part of that Schedule.
+Subsidiary 1955.08.04-4
+
+Partial satisfaction of contribution conditions (III).
+
+34.(1) Where a person would be entitled to old age pension at one of the rates specified in Part III of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to such pension in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
+
+(2)  Where the full weekly rate of old age pension (excluding any increases for children) is at one of the rates set out at the head of columns (2) to (4) of Part III of Schedule 4 to these regulations, then the pension shall be payable at the reduced rate specified in the appropriate column of that Part of that Schedule which corresponds with the yearly average of contributions paid or credited as shown in column (1) of that Part of that Schedule.
 
 Partial satisfaction of contribution conditions (IV).
 
@@ -530,17 +536,23 @@ Partial satisfaction of contribution conditions (IV).
 
 Partial satisfaction of contribution conditions (V).
 
-36.(1) Where a person would be entitled to old age pension at one of the rates specified in Part V of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to such pension in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
-
-(2)  Where the full weekly rate of old age pension (excluding any increases for children) is as one of the rates set out at the head of columns (2) to (4) of Part V of Schedule 4 to these regulations, then the pension shall be payable at the reduced rates specified in the appropriate column of that Part of that Schedule which corresponds with the yearly average of contributions paid or credited as shown in column (1) of that Schedule.
-
-PART VI.–DEATH GRANT.
+36.(1) Where a person would be entitled to old age pension at one of the rates specified in Part V of Schedule 2 to the Act but for the fact that the
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4
+Subsidiary 1955.08.04-4 relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to such pension in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
+
+(2) Subject to the provisions of section 17(1) of the Act, where the full weekly rate of old age pension (excluding any increases for children) is at one of the rates set out at the head of column (2) to (4) of Parts V and VI of Schedule 4 to these regulations, then the pension shall be payable –
+
+(a)  where the person would be entitled to a pension before the lst day of January 1989, at the reduced rates specified in the appropriate column of Part V of Schedule 4 which corresponds with the yearly average of contributions paid or credited as shown in column (1) of that Part of that Schedule;
+
+(b)  where the person would be entitled to a pension on or after the lst day of January 1989, at the reduced rates specified in the appropriate column of Part VI of Schedule 4 which corresponds with the yearly average of contributions paid or credited as shown in column (1) of that Part of that Schedule; and
+
+(c)  where on or after the lst day of January 1989 a woman would be entitled to a pension by virtue of her husband's insurance and the husband would be entitled to a pension before the 1st day of January 1989, at the reduced rates specified in the appropriate column of Part V of Schedule 4 which corresponds with the yearly average of contributions paid by or credited to the husband as shown in column (1) of that Part of that Schedule.
+
+PART VI.–DEATH GRANT.
 
 Meaning of “deceased” and “relevant person.”
 
@@ -551,6 +563,12 @@ Meaning of “deceased” and “relevant person.”
 “the relevant person” means the person by whom the contribution conditions for death grant are to be satisfied.
 
 Deaths outside Gibraltar, etc.
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4
 
 38. Subject to the provisions of the Act and these regulations, a death grant shall be payable in respect of a death occurring outside Gibraltar or the Campo district.
 
@@ -568,19 +586,17 @@ Priority of two or more claimants satisfying the conditions for death grant.
 
 (2)  Where in the case of two or more such claimants’ entitlement to death grant cannot be determined under sub-regulation (1), the Director shall decide which one of them shall be entitled to the grant.
 
-(3)  The Director may, in his discretion, suspend any proceedings on a claim for death grant, other than a claim by any such claimant as is specified in sub-regulation (1), for a period not exceeding one month from the date on which the claim was made, where he has reason to suspect that another
-
-Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-4 claim may be made in respect of the same death by a person having a prior right by virtue of this regulation.
+(3)  The Director may, in his discretion, suspend any proceedings on a claim for death grant, other than a claim by any such claimant as is specified in sub-regulation (1), for a period not exceeding one month from the date on which the claim was made, where he has reason to suspect that another claim may be made in respect of the same death by a person having a prior right by virtue of this regulation.
 
 Partial satisfaction of contribution conditions (1).
 
 40.(1)  Where a person would be entitled to a death grant of one of the amounts specified in Part II of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to a grant in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
 
-(2)  Where the full amount of a death grant under the Act is one of the amounts set out at the head of columns (2) to (4) of Part I of Schedule 5 then the grant shall be payable at the reduced rate specified in the appropriate column of that Part of that Schedule which corresponds with the yearly average of contributions paid or credited as shown in column (I) of that Schedule.
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
+Subsidiary 1955.08.04-4 (2)  Where the full amount of a death grant under the Act is one of the amounts set out at the head of columns (2) to (4) of Part I of Schedule 5 then the grant shall be payable at the reduced rate specified in the appropriate column of that Part of that Schedule which corresponds with the yearly average of contributions paid or credited as shown in column (I) of that Schedule.
 
 Partial satisfaction of contribution conditions (II).
 
@@ -592,15 +608,17 @@ Partial satisfaction of contribution conditions (III).
 
 42. (1)  Where a person would be entitled to a death grant of one of the amounts specified in Part IV of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to a grant in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
 
+(2)  Where the full amount of the death grant under the Act is one of the amounts set out at the head of columns (2) to (4) of Part III of Schedule 5 then the grant shall be payable at the reduced rate specified in the appropriate column of that Part of that Schedule which corresponds with the yearly average of contributions paid or credited as shown in column (I) of that Part of that Schedule.
+
+Partial satisfaction of contribution conditions (IV).
+
+43.(1)  Where a person would be entitled to a death grant of one of the amounts specified in Part IV of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied both as respects the
+
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 (2)  Where the full amount of the death grant under the Act is one of the amounts set out at the head of columns (2) to (4) of Part III of Schedule 5 then the grant shall be payable at the reduced rate specified in the appropriate column of that Part of that Schedule which corresponds with the yearly average of contributions paid or credited as shown in column (I) of that Part of that Schedule.
-
-Partial satisfaction of contribution conditions (IV).
-
-43.(1)  Where a person would be entitled to a death grant of one of the amounts specified in Part IV of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied both as respects the yearly average of contributions paid or credited and as respects the number of contributions paid since the lst day of January, 1968, that person shall nevertheless be entitled to a grant in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen and not less than thirteen contributions have been paid since the 1st day of January, 1968.
+Subsidiary 1955.08.04-4 yearly average of contributions paid or credited and as respects the number of contributions paid since the lst day of January, 1968, that person shall nevertheless be entitled to a grant in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen and not less than thirteen contributions have been paid since the 1st day of January, 1968.
 
 (2)  Where the full amount of the death grant is one of the amounts set out at the head of columns (2) to (7) of Part IV of Schedule 5 to these regulations, and the yearly average of contributions paid or credited corresponds with any of the numbers shown in column (I) of that Part of that Schedule, and the number of contributions paid since the lst day of January, 1968, corresponds with any of the numbers shown at the head of columns (2) to (7) of that Part of the Schedule, then the grant shall be payable at the reduced rate which is applicable both to the number of contributions shown in column (I) and the number of contributions shown at the head of whichever of columns (2) to (7) is appropriate.
 
@@ -609,12 +627,6 @@ Partial satisfaction of contribution conditions (V).
 44.(1)  Where a person would be entitled to a death grant of one of the amounts specified in Part VI of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to a grant in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
 
 (2)  Where the full amount of a death grant under the Act is one of the amounts set out at the head of columns (2) to (4) of Part V of Schedule 5 to these regulations, then the grant shall be payable at the reduced rate specified in the appropriate column of that Part of the Schedule which corresponds with the yearly average of  contributions paid or credited as shown in column (1) of such Part.
-
-Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-4
 
 Amount of cost of burial or cremation payable from the Consolidated Fund or an association.
 
