@@ -8,9 +8,13 @@ EDUCATIONAL AWARDS REGULATIONS, 1990
 
 1.9.1990
 
-_____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS
+LNs. 1991/213 r.15 and Sch. 2 1.9.1991
+
+Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
+
+Subsidiary 1990/111 1974-11 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -32,17 +36,15 @@ Other Awards.
 
 General.
 
-13. Assessment of requirements and resources. 14. Supplying of information. 15. Awards. 16. Calculation of grants.
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 17. Method of payment. 18. Supplementary payments. 19. Suspension and reduction of payment. 20. Termination of awards.
+13. Assessment of requirements and resources. 14. Supplying of information. 15. Awards. 16. Calculation of grants. 17. Method of payment. 18. Supplementary payments. 19. Suspension and reduction of payment. 20. Termination of awards.
 
 SCHEDULE 1. Fees and Dues of Establishments.
 
 SCHEDULE 2. Student’s Requirements.
 
-SCHEDULE 3. Resources.
+Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
+
+Subsidiary 1990/111 1974-11 SCHEDULE 3. Resources.
 
 SCHEDULE 4. Form of Application for Award.
 
