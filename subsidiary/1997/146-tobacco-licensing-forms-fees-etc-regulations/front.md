@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1997/147 Corrigendum
 
-1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998
+1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005
 
 Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
@@ -150,13 +150,13 @@ to which the licence relates
 
 for single premises
 
-- £500
+- £1,000
 
 supplement for each additional premises
 
 to which the licence relates
 
-- £70
+- £150
 
 (d) an application for a wholesale licence
 
@@ -208,7 +208,7 @@ _ £15
 
 (c) a wholesale licence
 
-_         £150
+_         £300
 
 supplement for each additional
 
