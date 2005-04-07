@@ -241,3 +241,41 @@ Transport TRANSPORT REGULATIONS 2000
 1998-44
 
 Subsidiary 2000/059
+
+FORM 18
+
+TRANSPORT ACT
+
+TRANSPORT REGULATIONS Regulation 117I
+
+LICENCE TO *drive
+
+*an omnibus
+
+* act as conductor of * a taxi
+
+………………………………….. of ………………………………………..
+
+whose photograph is attached is hereby licensed
+
+to * drive
+
+*an omnibus
+
+* act as conductor of  * a taxi
+
+for the period of three years from the date hereof.
+
+Fee paid ……………………
+
+Date ……………………….
+
+……………………………….
+
+Secretary Transport Commission
+
+Transport TRANSPORT REGULATIONS 2000
+
+1998-44
+
+Subsidiary 2000/059

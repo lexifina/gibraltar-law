@@ -16,7 +16,7 @@ LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1)(3), 118(1)(c)(3), 124A
 
 22.9.2000 2000/082 Sch. 1 (16) and (17). 26.10.2000 2000/090 r. 118(1)(d) 30.11.2000 2003/066 rr. 38-40, 124A, 64A, 116(1), 117(1) and Sch. 1 Form 2.
 
-29.5.2003 2005/049 rr. 3(3) and Sch. 5 1.4.2005
+29.5.2003 2005/049 rr. 3(3) and Sch. 5 1.4.2005 2005/065 rr. 117A – 117K, Sch.1 and Sch.5 7.4.2005
 
 Transport TRANSPORT REGULATIONS 2000
 
@@ -142,11 +142,27 @@ REGULATION FOR SIGHTSEEING TOURS FOR OVERLAND VISITORS
 
 116. Register of bookings 117. Overland visitors: Duty to book in advance
 
+PART VIIA
+
+MISCELLANEOUS PROVISIONS
+
+117A. Keeping and Production of Self-Drive Operator’s Licence. 117B. Prohibition of touting in connection with hire of self-drive cars.
+
+PART VIIB
+
+LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES
+
+117C.  Driver and conductor licences. 117D.  Application for licence. 117E.   Conditions for grant of licence to drive. 117F.   Conditions for grant of licence to conduct. 117G.  Renewal of licence. 117H.  Duplicate licence. 117I. Forms and fees. 117J. Periodical examination of drivers of public service vehicles. 117K.  Medical Certificates.
+
 PART VIII
 
 FINAL PROVISIONS
 
-118. Miscellaneous duties 119. General duties of Transport Inspector 120. Obstruction of Transport Inspector 121. Complaints procedure 122. Lost property 123. Penalties. 124. Punishment by way of fixed penalty. 124A. revoked 125. Revocation
+Transport TRANSPORT REGULATIONS 2000
+
+1998-44
+
+Subsidiary 2000/059 118. Miscellaneous duties 119. General duties of Transport Inspector 120. Obstruction of Transport Inspector 121. Complaints procedure 122. Lost property 123. Penalties. 124. Punishment by way of fixed penalty. 124A. revoked 125. Revocation
 
 SCHEDULE 1
 
@@ -159,12 +175,6 @@ Form 3: Application for amendment to a road service licence/an operator’s lice
 Form 4: Public service vehicle identification disk
 
 Form 5: Sightseeing tour licence identification disk
-
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059
 
 Form 6: Application for self-drive operator’s licence
 
@@ -188,7 +198,11 @@ Form 15: Chauffeur-driven car operator’s licence
 
 Form 16: Application for a courtesy bus operator’s licence
 
-Form 17: Courtesy bus operator’s licence
+Transport TRANSPORT REGULATIONS 2000
+
+1998-44
+
+Subsidiary 2000/059 Form 17: Courtesy bus operator’s licence
 
 SCHEDULE 2 Revocations of the Traffic (Licensing and Registration) Regulations.
 
