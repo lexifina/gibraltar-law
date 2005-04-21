@@ -12,7 +12,7 @@ POLICE (DISCIPLINE) REGULATIONS 1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  1993/105 r. 8 10.6.1993 1997/050 r. 15(3) 22.5.1997 2000/015 rr. 5(c)(d), 6(c), 7(a) to (h). 2.3.2000
+LN.  1993/105 r. 8 10.6.1993 1997/050 r. 15(3) 22.5.1997 2000/015 rr. 5(c)(d), 6(c), 7(a) to (h). 2.3.2000 2005/070 r. 14(3). 21.4.2005
 
 _________________________
 
