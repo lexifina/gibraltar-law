@@ -14,6 +14,10 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.    2004/082 Corrigendum
 
+Act. 2005-38 ss.2, 7(3), 18(2)(b) and (c), 35(7), 52(1) and (3), Sch.2 Part A
+
+23.5.2005
+
 Weapons of Mass Destruction
 
 2004-19 ARRANGEMENT OF SECTIONS

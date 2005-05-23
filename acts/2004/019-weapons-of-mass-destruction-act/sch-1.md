@@ -1,4 +1,4 @@
-SCHEDULE 1
+SCHEDULE  1
 
 Sections 27(2) and 52(1)
 
@@ -6,15 +6,15 @@ List of Toxic Chemicals and Precursors
 
 A.  TOXIC CHEMICALS: CAS registry number
 
-1. O-Alkyl (=C10, incl. cycloalkyl) alkyl (Me,Et,n-Pro or i-Pr)- phosphonofluoridates e.g.Sarin:O-Isopropyl methylphosphonofluoridate Soman:O-Pinacolyl methylphosphonofluoridate
+1. O-Alkyl (C10, incl. cycloalkyl) alkyl (Me,Et,n-Pro or i-Pr)- phosphonofluoridates e.g.Sarin:O-Isopropyl methylphosphonofluoridate Soman:O-Pinacolyl methylphosphonofluoridate
 
 (107-44-8) (96-64-0)
 
-2. O-Alkyl (=C10, incl. cycloalkyl) N,N-dialkyl(Me,Et,n-Pro or i-Pr) phosphoramidocyanidates e.g. Tabun: O-Ethyl N, N-dimethyl phosphoramidocyanidate
+2. O-Alkyl (C10, incl. cycloalkyl) N,N-dialkyl(Me,Et,n-Pro or i-Pr) phosphoramidocyanidates e.g. Tabun: O-Ethyl N, N-dimethyl phosphoramidocyanidate
 
 (77-81-6)
 
-3. O-Alkyl (H or <=C10, incl. cycloalkyl) S-2-dailkyl (Me, Et, n-Pr or i-Pr)- aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonothiolates and corresponding alkylated or protonated salts e.g. VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate
+3. O-Alkyl (H or C10, incl. cycloalkyl) S-2-dailkyl (Me, Et, n-Pr or i-Pr)- aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonothiolates and corresponding alkylated or protonated salts e.g. VX: O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate
 
 (50782-69-9)
 
