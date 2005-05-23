@@ -10,6 +10,10 @@ Act. No. 2004-32 Commencement 24.11.2004
 
 Assent 24.11.2004
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2005-28 s.2 23.5.2005 LN. 2008/097 Corrigendum
+
 English sources: None cited
 
 EU Legislation/International Agreements involved: Directive 2002/47/EC
