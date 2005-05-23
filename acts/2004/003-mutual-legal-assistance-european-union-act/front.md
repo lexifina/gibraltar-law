@@ -10,9 +10,13 @@ Act. No. 2004-03 Commencement 28.1.2004
 
 Assent 28.1.2004
 
-______________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF SECTIONS
+Act. 2005-31 s.2 23.5.2005
+
+Mutual Legal Assistance (Schengen Convention)
+
+2004-03 ARRANGEMENT OF SECTIONS
 
 Section
 
