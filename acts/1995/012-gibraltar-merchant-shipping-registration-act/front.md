@@ -14,7 +14,7 @@ Assent 22.9.1995
 
 Amending enactments Relevant current provisions Commencement date
 
-Acts. 2001-26 s.2 2.8.2001 2004-37 s.2 24.11.2004
+Acts. 2001-26 s.2 2.8.2001 2004-37 s.2 24.11.2004 2005-34 s. 14(3)(vii) 23.5.2005
 
 Gibraltar  Merchant Shipping (Registration)
 
