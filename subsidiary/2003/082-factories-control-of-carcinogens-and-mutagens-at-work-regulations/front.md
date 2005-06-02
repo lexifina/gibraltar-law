@@ -10,25 +10,27 @@ FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003
 
 7.8.2003
 
-Transposing: Directive 90/394/EEC
+Amending enactments Relevant current provisions Commencement date LN. 2005/091 rr. 4(1)(f), (g), 5(2)(k), (l), (m), 8(1)(d), (e), (f), 9(1), 9A, 10A
 
-_____________________________________
+2.6.2005
 
-ARRANGEMENT OF REGULATIONS
-
-Regulation
-
-1. Title. 2. Interpretation and scope 3. Assessment of health risks created by work involving carcinogens and mutagens. 4. Inspection of Assessment. 5. Prevention or control of exposure. 6. Foreseeable exposure. 7. Unforeseen exposure. 8. Information, instruction and training for persons who may be exposed to substances hazardous to health. 9. Health surveillance. 10. Washing and changing facilities. 11. Revocation.
-
-SCHEDULE 1 Part 1 - Carcinogens and mutagens Part 2 - Annex I to Directive 67/548/EEC Part 3 - Annex VI to Directive 67/548/EEC Part 4 - Annex II to Directive 99/45/EEC
-
-SCHEDULE 2 List of substances, preparations and processes which also constitute carcinogens
+Transposing: Directive 90/394/EEC Directive 2004/37/EC
 
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
 1956-12
 
-Subsidiary 2003/082 SCHEDULE 3 Limit values for occupational exposure
+Subsidiary 2003/082 ARRANGEMENT OF REGULATIONS
+
+Regulation
+
+1. Title. 2. Interpretation and scope 3. Assessment of health risks created by work involving carcinogens and mutagens. 4. Inspection of Assessment. 5. Prevention or control of exposure. 6. Foreseeable exposure. 7. Unforeseen exposure. 8. Information, instruction and training for persons who may be exposed to substances hazardous to health. 9. Health surveillance. 9A. Abnormality in employee. 10. Washing and changing facilities. 10A. Information for workers. 11. Revocation.
+
+SCHEDULE 1 Part 1 - Carcinogens and mutagens Part 2 - Annex I to Directive 67/548/EEC Part 3 - Annex VI to Directive 67/548/EEC Part 4 - Annex II to Directive 99/45/EEC
+
+SCHEDULE 2 List of substances, preparations and processes which also constitute carcinogens
+
+SCHEDULE 3 Limit values for occupational exposure
 
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
@@ -86,17 +88,19 @@ Inspection of Assessment.
 
 (e) the type of protective equipment used;
 
-(f) the nature and degree of exposure.
+(f) the nature and degree of exposure,
+
+(g)   the cases of replacement.
 
 (2) It is an offence for an employer to fail to disclose information required by an inspector under subregulation (1) or to disclose information which he knows is false.
-
-Prevention or control of exposure.
 
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
 1956-12
 
 Subsidiary 2003/082
+
+Prevention or control of exposure.
 
 5.(1) Every employer shall ensure that–
 
@@ -124,21 +128,21 @@ Subsidiary 2003/082
 
 (g) the prohibition of eating, drinking and smoking in areas that may be contaminated by carcinogens or mutagens;
 
-(h) the safe storage, handling and disposal of carcinogens and mutagens and use of closed and clearly labelled containers;
-
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
 1956-12
 
-Subsidiary 2003/082
+Subsidiary 2003/082 (h) the safe storage, handling and disposal of carcinogens and mutagens and use of closed and clearly labelled containers;
 
 (i) the means for safe storage, handling and transportation;
 
 (j) means for safe collection, storage and disposal of waste by workers;
 
-(k) the evacuation at source of carcinogens and mutagens is not effected in a manner which is or results in a threat to public health or the environment; and
+(k) the evacuation at source of carcinogens and mutagens is not effected in a manner which is or results in a threat to public health or the environment;
 
-(l) the drawing up of plans to deal with emergencies likely to result in abnormally high exposure.
+(l) the drawing up of plans to deal with emergencies likely to result in abnormally high exposure; and
+
+(m) collective prevention measures and/or, where exposure cannot be avoided by other means, individual protection measures.
 
 Foreseeable Exposure.
 
@@ -154,13 +158,15 @@ Unforeseen exposure.
 
 (2) Where subregulation (1) applies the following measures must be taken until such time as the cause of the abnormal exposure has been eliminated and the levels of carcinogens or mutagens restored to normal–
 
-(a) only those workers who are essential to the carrying out of repairs and other necessary work are permitted to work in the affected  area;
-
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
 1956-12
 
-Subsidiary 2003/082 (b) workers must be issued and must wear protective clothing and individual respiratory protection equipment;
+Subsidiary 2003/082
+
+(a) only those workers who are essential to the carrying out of repairs and other necessary work are permitted to work in the affected  area;
+
+(b) workers must be issued and must wear protective clothing and individual respiratory protection equipment;
 
 (c) unprotected workers must not be allowed to work in the affected  area.
 
@@ -174,17 +180,15 @@ Information, instruction and training for persons who may be exposed to substanc
 
 (c) hygiene requirements;
 
-(d) the correct wearing and use of protective clothing and equipment; and
+(d) the correct wearing and use of protective clothing and equipment;
 
-(e) the labelling, symbols and hazard signs associated with containers, packages and installations containing carcinogens and mutagens.
+(e) the labelling, symbols and hazard signs associated with containers, packages and installations containing carcinogens and mutagens; and
+
+(f) the steps to be taken by workers (including rescue workers) in the case of incidents and to prevent incidents,
+
+and such training shall be adapted where new risks are identified or the nature of the risk changes, and if necessary such training shall be repeated periodically.
 
 (2) Without prejudice to the generality of subregulation (1), the information provided under that subregulation shall include information on the collective results of any health surveillance undertaken in accordance with regulation 9 in a form calculated to prevent it from being identified as relating to any particular person.
-
-Health surveillance.
-
-9.(1)  Where it is appropriate for the protection of the health of his employees who are, or are liable to be, exposed to carcinogens and mutagens, the employer shall ensure that such employee are under suitable health surveillance.
-
-(2) The employer shall ensure that a health record, in respect of each of his employees to whom subregulation (1) relates is made and maintained and that that record or a copy thereof is kept in a suitable form for at least 40 years from the date of the last entry made in it.
 
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
@@ -192,15 +196,35 @@ Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 20
 
 Subsidiary 2003/082
 
+Health surveillance.
+
+9.(1)  Where an employee is or is liable to be exposed to carcinogens or mutagens, the employer shall, if appropriate, ensure that the employee undergoes health surveillance prior to exposure and at regular intervals thereafter.
+
+(2) The employer shall ensure that a health record, in respect of each of his employees to whom subregulation (1) relates is made and maintained and that that record or a copy thereof is kept in a suitable form for at least 40 years from the date of the last entry made in it.
+
 (3) Where an employer who holds records in accordance with subregulation (2) ceases to trade, he shall forthwith notify the Gibraltar Health Authority thereof in writing and offer those records to the Gibraltar Health Authority.
 
 (4) Where, for the purpose of carrying out his functions under these Regulations, an employment medical adviser or appointed doctor requires to inspect any workplace or any record kept for the purposes of these Regulations, the employer shall permit him to do so.
 
 (5) On reasonable notice being given, the employer shall allow any of his employees access to the health record which relates to him.
 
+Abnormality in employee.
+
+9A. Where as a result of the health surveillance carried out in accordance with regulation 9, an employee is found to be suffering from an abnormality that is suspected to be the result of exposure to carcinogens or mutagens–
+
+(a) an inspector or a doctor may require other employees who have been similarly exposed to undergo health surveillance;
+
+(b) a further assessment under regulation 3 shall be undertaken; and
+
+(c) where cancer is identified as resulting from the occupational exposure to a carcinogen or mutagens, an inspector must be informed.
+
 Washing and Changing Facilities.
 
-10.  Every employer must provide for any employee exposed to carcinogens or mutagens adequate and suitable–
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082 10.  Every employer must provide for any employee exposed to carcinogens or mutagens adequate and suitable–
 
 (a) washing and changing facilities;
 
@@ -211,6 +235,28 @@ Washing and Changing Facilities.
 (ii) personal clothing not worn during working hours;
 
 (c) where he is required to provide respiratory protective equipment, facilities for the storage of that equipment.
+
+Information for workers.
+
+10A. An employee and/or his representative shall be entitled to request information from his employer so that he may verify that the provisions of these regulations are being complied with, and in particular–
+
+(a) to be able to assess the consequences for his safety and health of the selection, wearing and use of protective clothing and equipment, without prejudice to the employer's responsibility for determining the effectiveness of protective clothing and equipment;
+
+(b) the steps determined by the employer which are referred to in regulation 6(1), without prejudice to the employer's responsibility for determining such steps;
+
+(c) in the event of an abnormal exposure employees and/or their representatives shall be informed as quickly as possible of the causes thereof and of the measures taken or to be taken to rectify the situation;
+
+(d) an employer must keep an up-to-date list of employees engaged in the activities in respect of which the results of an assessment reveal a risk to their health or safety, indicating, if the information is available, the exposure to which they have been subjected;
+
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082 (e) an employer shall grant to the doctor and/or an inspector, as well as all other persons who have responsibility for health and safety at work, access to the list referred to in point (d);
+
+(f) an employee shall be granted access by his employer to the information on the list which relates to him personally;
+
+(g) an employee and/or his representative shall be granted access to anonymous collective information.
 
 Revocation.
 
