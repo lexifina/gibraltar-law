@@ -8,7 +8,7 @@ CONDITIONS OF EMPLOYMENT (PRINTING INDUSTRY) ORDER, 1992
 
 31.8.1992
 
-Amending enactments Relevant current provisions Commencement date LNs. 1996/073 Sch. 24.6.1996 1997/144 Sch. 1.12.1997 2003/115 Sch. 23.10.2003
+Amending enactments Relevant current provisions Commencement date LNs. 1996/073 Sch. 24.6.1996 1997/144 Sch. 1.12.1997 2003/115 Sch. 23.10.2003 2005/170 Sch. 1.7.2005
 
 Employment CONDITIONS OF EMPLOYMENT (PRINTING INDUSTRY) ORDER, 1992
 
