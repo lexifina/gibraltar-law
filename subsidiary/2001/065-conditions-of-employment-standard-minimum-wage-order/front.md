@@ -8,9 +8,7 @@ CONDITIONS OF EMPLOYMENT (STANDARD MINIMUM WAGE) ORDER, 2001
 
 2.7.2001
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2003/084 Sch. 1.7.2003
+Amending enactments Relevant current provisions Commencement date LN. 2003/084 Sch. 1.7.2003 2005/136 Sch. 1.7.2005
 
 Employment CONDITIONS OF EMPLOYMENT (STANDARD MINIMUM WAGE) ORDER, 2001
 

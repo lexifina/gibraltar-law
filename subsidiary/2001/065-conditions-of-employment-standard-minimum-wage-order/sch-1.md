@@ -6,8 +6,8 @@ Age Monthly Remuneration Weekly Remuneration Hourly Remuneration
 
 16 and over
 
-£676.00
+£760.50
 
-£156.00
+£175.50
 
-£4.00
+£4.50
