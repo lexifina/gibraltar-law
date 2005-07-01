@@ -30,7 +30,9 @@ LN. 1993/133 r.3(9) 1.7.1991 1992/118 r.3(9A) 1.7.1992 1993/114 r.3(8)-(9) 1.1.1
 
 1.7.2003 2004/108 r. 7 1.7.2003 “ rr.3(49), 6(1), 7, 7A(1), 8(1)(c), (4), 9, 12, 14A, 15- 16, 16A(8), 17-18, 20A
 
-1.7.2004
+1.7.2004 2005/120 rr.2(2), 3(22)-(23), (23A), (24)-(25), (32)-(33), 5(1)(j), 6, 7(1), (c), (2), 7A(1), 8(1)(c), (4), 9, 12, 14A, 15, 16(4), 16A(2), (4)-(8), 17-18, 18(a), (d), 20A, 26, (1)
+
+1.7.2005
 
 Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992 1992/016
 
@@ -38,7 +40,7 @@ ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title and commencement. 2. Interpretation. 3. Income Exempted. 4. Loans charged on Consolidated Fund. 5. Deductions Allowed. 5A. Full deductions allowed: plant and machinery. 5B. Partial deductions allowed: plant and machinery. 5C. Deductions for vehicles to which rule 5A and 5B do not apply. 5D. Full Deductions: computers and computer programs. 5E. Partial Deductions allowed: computers and computer programs. 6. Personal Allowance. 7. Deduction for a wife. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 16A. Special deduction for senior citizens on low income. 16B. Low Income Earner’s Tax Credit. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters. 20. Effect of non residence. 20A. Deduction for health insurance premiums. 21. Deduction in respect of life assurance premiums etc. 22. Deduction in respect of loan interest. 23. Deduction in respect of certain investments. 24. Deductions for non-resident individuals. 25. Election by husband. 26. Relief in respect of EEA and Commonwealth income tax. 27. Repealed. 27A. Repealed.
+1. Title and commencement. 2. Interpretation. 3. Income Exempted. 4. Loans charged on Consolidated Fund. 5. Deductions Allowed. 5A. Full deductions allowed: plant and machinery. 5B. Partial deductions allowed: plant and machinery. 5C. Deductions for vehicles to which rule 5A and 5B do not apply. 5D. Full Deductions: computers and computer programs. 5E. Partial Deductions allowed: computers and computer programs. 6. Personal Allowance. 7. Deduction for a wife. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 16A. Special deduction for senior citizens. 16B. Low Income Earner’s Tax Credit. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters. 20. Effect of non residence. 20A. Deduction for health insurance premiums. 21. Deduction in respect of life assurance premiums etc. 22. Deduction in respect of loan interest. 23. Deduction in respect of certain investments. 24. Deductions for non-resident individuals. 25. Election by husband. 26. Double taxation relief. 27. Repealed. 27A. Repealed.
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
