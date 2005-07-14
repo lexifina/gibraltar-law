@@ -12,7 +12,9 @@ Act.  1992-08 ss. 5(1)(d)(e)(f), (4), 10(1) (d)(e)(f),(2),3(a) and (6)
 
 9.7.1992 LN.  1995/118 ss. 2(1)(3A), 2A, 3(1)(d)(c), 5(1)(e)(ee), 17A to Z, 17AA, 17BB, 17CC, 17DD, 18(1) and Schs 4 to 7
 
-1.9.1995 Act.  1997-15 Sch 5 10.4.1997 2001-23 s. 24A 12.7.2001
+1.9.1995 Act.  1997-15 Sch 5 10.4.1997 2001-23 s. 24A 12.7.2001 2005-41 ss. 2, 5(1)(e) and (ee), 17S, 17W, 17XA, 17Y, 23, Sch. 5, Sch. 7 and Sch. 8
+
+14.7.2005
 
 Transposing: Directive 92/43/EEC
 
@@ -36,7 +38,7 @@ PART IIA IMPLEMENTATION OF THE HABITATS DIRECTIVE
 
 Nature Protection
 
-1991-11 17N. Restriction on carrying out operations specified in a special nature conservation order. 17P. Supplementary provisions as to consents. 17Q. European Marine Site. 17R. Management scheme for European Marine Site. 17S. European protected species of animals. 17T. Protection of wild animals of European protected species. 17U. Exemptions from section 17T. 17V. Prohibition of certain methods of taking or killing wild animals. 17W. European protected species of plants. 17X. Protection of wild plants of European protected species. 17Y. Grant of licences for certain purposes. 17Z. Licences: supplementary provisions. 17AA. False statements made for obtaining licence. 17BB. General provisions for protection of European sites. 17CC. Considerations of overriding public interest. 17DD. Information for Commission.
+1991-11 17N. Restriction on carrying out operations specified in a special nature conservation order. 17P. Supplementary provisions as to consents. 17Q. European Marine Site. 17R. Management scheme for European Marine Site. 17S. Repealed. 17T. Protection of wild animals of European protected species. 17U. Exemptions from section 17T. 17V. Prohibition of certain methods of taking or killing wild animals. 17W. Repealed. 17X. Protection of wild plants of European protected species. 17XA. Protection of wild birds of European origin. 17Y. Grant of licences for certain purposes. 17Z. Licences: supplementary provisions. 17AA. False statements made for obtaining licence. 17BB. General provisions for protection of European sites. 17CC. Considerations of overriding public interest. 17DD. Information for Commission.
 
 PART III. NATURE CONSERVATION.
 
@@ -50,13 +52,15 @@ SCHEDULE 3 – ENDANGERED WILD BIRDS, WILD ANIMALS AND WILD PLANTS.
 
 SCHEDULE 4 – PROCEDURE IN CONNECTION WITH ORDERS UNDER SECTION 17M.
 
-SCHEDULE 5 – EUROPEAN PROTECTED SPECIES OF ANIMALS.
-
-SCHEDULE 6 – ANIMALS WHICH MAY NOT BE TAKEN OR KILLED IN CERTAIN WAYS.
+SCHEDULE 5 – THIS SCHEDULE REPRODUCES ANNEX IV(A) TO THE HABITATS DIRECTIVE.
 
 Nature Protection
 
-1991-11 SCHEDULE 7 – EUROPEAN PROTECTED SPECIES OF PLANTS
+1991-11 SCHEDULE 6 – ANIMALS WHICH MAY NOT BE TAKEN OR KILLED IN CERTAIN WAYS.
+
+SCHEDULE 7 – EUROPEAN PROTECTED PLANT SPECIES
+
+SCHEDULE 8 – THIS SCHEDULE REPRODUCES ANNEX III/1 OF THE WILD BIRDS DIRECTIVE
 
 Nature Protection
 
