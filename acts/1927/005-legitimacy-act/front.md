@@ -12,7 +12,7 @@ With which is consolidated Relevant current provisions Commencement date Act. 19
 
 ss.14 and 15
 
-Amending enactments Relevant current provisions Commencement date Act. 1932-10 Sch. 1934-11 ss. 2, 6(1), 10 1935-08 s. 8 1960-35 ss. 4, 5 1962-09 – 1972-06 s. 6(1), (2) 1975-31 s. 3(3) 1983-48 Sch.
+Amending enactments Relevant current provisions Commencement date Act. 1932-10 Sch. 1934-11 ss. 2, 6(1), 10 1935-08 s. 8 1960-35 ss. 4, 5 1962-09 – 1972-06 s. 6(1), (2) 1975-31 s. 3(3) 1983-48 Sch. 2005-42 s. 10, Sch. 2.8.2005
 
 English sources
 
@@ -34,7 +34,7 @@ Legitimation
 
 Property Rights of Legitimated Persons
 
-6. Rights of legitimated persons, etc., to take interests in property. 7. Succession on intestacy of legitimated persons and their issue. 8. Application to illegitimate persons dying before marriage of parents. 9. Personal rights and obligations of legitimated persons. 10. Death duties. 11. Provisions as to persons legitimated by extraneous law. 12. Repealed. 13. Repealed.
+6. Rights of legitimated persons, etc., to take interests in property. 7. Succession on intestacy of legitimated persons and their issue. 8. Application to illegitimate persons dying before marriage of parents. 9. Personal rights and obligations of legitimated persons. 10. Repealed. 11. Provisions as to persons legitimated by extraneous law. 12. Repealed. 13. Repealed.
 
 Property Rights of Illegitimate Persons
 
@@ -146,17 +146,15 @@ Personal rights and obligations of legitimated persons.
 
 9. A legitimated person shall have the same rights, and shall be under the same obligations in respect of the maintenance and support of himself or of any other person as if he had been born legitimate, and, subject to the provisions of this Act, the provisions of any enactment relating to claims for damages, compensation, allowance, benefit, or otherwise by or in respect of a legitimate child shall apply in like manner in the case of a legitimated person.
 
-Death duties.
-
-10. Where a legitimated person or any relative of a legitimated person takes any interest in real or personal property, any succession, legacy or other duty which becomes leviable after the date of legitimation shall be payable at the same rate as if the legitimated person had been born legitimate..
-
-Legitimacy
-
-1927-05
+10. Repealed.
 
 Provisions as to persons legitimated by extraneous law.
 
-11.(1)  Where the parents of an illegitimate person marry or have married one another, whether before or after the commencement of this Act, and the father of the illegitimate person was or is at the time of the marriage, domiciled elsewhere than in Gibraltar in a country by the law of which the illegitimate person became legitimated by virtue of such subsequent marriage, that person, if living, shall in Gibraltar be recognized as having been so legitimated from the commencement of this Act or from the date of the marriage, whichever last happens, notwithstanding that his father was not at the time of the birth of such person domiciled in a country in which legitimation by subsequent marriage was permitted by law.
+11.(1)  Where the parents of an illegitimate person marry or have married one another, whether before or after the commencement of this Act, and the
+
+Legitimacy
+
+1927-05 father of the illegitimate person was or is at the time of the marriage, domiciled elsewhere than in Gibraltar in a country by the law of which the illegitimate person became legitimated by virtue of such subsequent marriage, that person, if living, shall in Gibraltar be recognized as having been so legitimated from the commencement of this Act or from the date of the marriage, whichever last happens, notwithstanding that his father was not at the time of the birth of such person domiciled in a country in which legitimation by subsequent marriage was permitted by law.
 
 (2)  All the provisions of this Act relating to legitimated persons and to the taking of interests in property by or in succession to a legitimated person and the spouse, children and remoter issue of a legitimated person, including those relating to the rate of death duties, shall apply in the case of a person recognized as having been legitimated under this section, or who would, had he survived the marriage of his parents, have been so recognized; and, accordingly this Act shall have effect as if references therein to a legitimated person included a person so recognized as having been legitimated.
 
@@ -174,11 +172,13 @@ Right of illegitimate child to succeed on intestacy of parents, and of parents t
 
 (2) Where an illegitimate child dies intestate in respect of all or any of his real or personal property, each of his parents, if surviving, shall be entitled to take any interest therein to which that parent would have been entitled if the child had been born    legitimate:
 
-Legitimacy
-
-1927-05 Provided that nothing in this section affects any rights under the intestacy of a person who died before the lst day of September 1972.
+Provided that nothing in this section affects any rights under the intestacy of a person who died before the lst day of September 1972.
 
 (3)  This section does not apply to or affect the right of any person to take any entailed interest in real or personal property.
+
+Legitimacy
+
+1927-05
 
 (4) In this section, “illegitimate child” does not include an illegitimate child who is–
 
@@ -198,11 +198,11 @@ Presumption that in dispositions of property references to children and other re
 
 (3) In this section references to an illegitimate child include references to an illegitimate child who is or becomes a legitimate person within the meaning of this ordnance or a person recognized by virtue of this Act or at common law as having been legitimated.
 
+(4) Where under any disposition any real or personal property or any interest in such property is limited (whether subject to any preceding limitation or charge or not) in such a way that it would, apart from this section, devolve (as nearly as the law permits) along with a dignity or title
+
 Legitimacy
 
-1927-05
-
-(4) Where under any disposition any real or personal property or any interest in such property is limited (whether subject to any preceding limitation or charge or not) in such a way that it would, apart from this section, devolve (as nearly as the law permits) along with a dignity or title of honour, then, whether or not the disposition contains an express reference to the dignity or title of honour, and whether or not the property or some interest in the property may in some event become severed therefrom, nothing in this section shall operate to sever the property or any interest therein from the dignity or title, but the property or interest shall devolve in all respect as if this section had not been enacted.
+1927-05 of honour, then, whether or not the disposition contains an express reference to the dignity or title of honour, and whether or not the property or some interest in the property may in some event become severed therefrom, nothing in this section shall operate to sever the property or any interest therein from the dignity or title, but the property or interest shall devolve in all respect as if this section had not been enacted.
 
 (5)  There is hereby abolished, as respects dispositions made after the 1st day of September 1972 any rule of law that a disposition in favour of illegitimate children not in being when the disposition takes effect is void as contrary to public policy.
 
