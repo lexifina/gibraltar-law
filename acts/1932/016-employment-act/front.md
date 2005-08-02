@@ -28,7 +28,7 @@ Employment
 
 24.6.1994 1994/103 s. 74(5)(a)(ii) 24.6.1994 Act. 1999-04 s. 89(1) 24.6.1994 LN. 2000/045 s. 17(6)(b) 24.6.1994 1994/098 ss. 26A, 61(1)(a)-(b) 22.9.1994 1996/014 ss. 60(1), (3)-(4), 62(1)(a), 65A- 65C
 
-1.1.1996 1996/027 ss. 52D(1)-(5), 52J-52R 1.3.1996 Act. 2001-27 ss. 52Q-52R, 52J-52R 2.8.2001 2001-20 ss. 2-5, 36(3), 38(1), 86(1) 31.10.2002 2004-18 s. 64(2) 17.8.2004
+1.1.1996 1996/027 ss. 52D(1)-(5), 52J-52R 1.3.1996 Act. 2001-27 ss. 52Q-52R, 52J-52R 2.8.2001 2001-20 ss. 2-5, 36(3), 38(1), 86(1) 31.10.2002 2004-18 s. 64(2) 17.8.2004 2005-49 s. 90 2.8.2005
 
 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
 
@@ -84,7 +84,7 @@ PART VIB Transfer of Undertakings
 
 Employment
 
-1932-16 78F. Duty to inform and consult trade union representatives. 78G. Failure to inform or consult. 78H. Contracting out. 78I. Not In Use. 78J. A relevant transfer etc. 78K. Offences by bodies corporate. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. Schedule 1. Repealed. Schedule 2. Conventions.
+1932-16 78F. Duty to inform and consult trade union representatives. 78G. Failure to inform or consult. 78H. Contracting out. 78I. Not In Use. 78J. A relevant transfer etc. 78K. Offences by bodies corporate. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. 90. Jurisdiction of the Supreme Court. Schedule 1. Repealed. Schedule 2. Conventions.
 
 Employment
 
