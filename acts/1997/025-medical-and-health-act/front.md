@@ -12,7 +12,7 @@ Assent
 
 Amending enactments Relevant current provisions Commencement date LN. 1998/041 Sch. 8 11.6.1998 Acts. 1998-30 ss. 9(7)(b), 15(1)(a), 28(2), Sch.3 and Sch.12
 
-13.8.1998 1999-02 s.81, Sch.3 and Sch.12 25.3.1999 1999-37 Sch.3 2.12.1999
+13.8.1998 1999-02 s.81, Sch.3 and Sch.12 25.3.1999 1999-37 Sch.3 2.12.1999 2005-50 s. 61(2) 2.8.2005
 
 Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC
 
