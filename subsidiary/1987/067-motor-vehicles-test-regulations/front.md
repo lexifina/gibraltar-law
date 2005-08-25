@@ -14,7 +14,9 @@ Amending enactments Relevant current Provisions Commencem ent date LN.   1988/02
 
 24.7.1997 1997/140 rr. 3(c) and 6(c) 17.11.1997 1998/021 rr.6(a) & (b), 7, 13(1A), Sch.2 and Sch.3
 
-5.3.1998 2001/048 r. 37(1), (1A) and (1B) 17.5.2001 2005/122 rr. 37(1), (1A), (1B), (3) and (4) 1.5.2004 2005/051 Sch.5 1.4.2005
+5.3.1998 2001/048 r. 37(1), (1A) and (1B) 17.5.2001 2005/122 rr. 37(1), (1A), (1B), (3) and (4) 1.5.2004 2005/051 Sch.5 1.4.2005 2005/122 rr. 2, 3(a) and (c), 4(1), (2) and (2)(d), 6(d), 7, 9(2)(c), 12(1)(c) and (d), 13(1)(b), 13(1A), 15, 16(2), 23(1)(b), 24, 25(1) and (2), 26, 37(2), 40, 42, 44, 45, 46(b)(ii) Sch. 1 and 3
+
+25.8.2005
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
@@ -24,7 +26,7 @@ Subsidiary 1987/067 ARRANGEMENT OF REGULATIONS
 
 Regulation Preliminary.
 
-1. Title and commencement. 2. Interpretation. 3. Application. 4. Temporary exemption. 5. Extension of time.
+1. Title and commencement. 2. Interpretation. 3. Application. 4. Temporary Certificate. 5. Extension of time.
 
 Regular examinations.
 
