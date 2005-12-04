@@ -12,9 +12,11 @@ Assent
 
 Amending enactments Relevant current provisions Commencement date LN. 1998/041 Sch. 8 11.6.1998 Acts. 1998-30 ss. 9(7)(b), 15(1)(a), 28(2), Sch.3 and Sch.12
 
-13.8.1998 1999-02 s.81, Sch.3 and Sch.12 25.3.1999 1999-37 Sch.3 2.12.1999 2005-50 s. 61(2) 2.8.2005
+13.8.1998 1999-02 s.81, Sch.3 and Sch.12 25.3.1999 1999-37 Sch.3 2.12.1999 2005-50 s. 61(2) 2.8.2005 2005-65 ss. 2(1), 8(4A) & (4B), 8A, 9(2A), (2B),  (3A), (4)(b) & (d), (4A), (4B), (4C), (8), (9) & (10), 23(3A), (4), (7) & (8), 23A, 32(3A), (3B) & (3C), (4)(a), (b), (c) & (d), 45(1A) & (1B), Sch.3, Sch.5, Sch.6 & Sch.9
 
-Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC
+4.12.2005
+
+Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC Directive 2001/19/EC
 
 Medical and Health
 
@@ -30,15 +32,15 @@ PART I. PRELIMINARY.
 
 PART II. MEDICAL PRACTITIONERS, DENTISTS AND PHARMACISTS.
 
-4. Establishment and constitution of Medical Registration Board. 5. Committees. 6. Secretary to the Board. 7. Register of medical practitioners, dentists and pharmacists. 8. Registration of dentists and pharmacists. 9. Full registration as medical practitioners. 10. Acquired rights. 11. Effect of disqualification in an EEA State on registration in Gibraltar. 12. Competent Authority. 13. Visiting EEA medical practitioners. 14. Limited registration of junior doctors and overseas specialists. 15. Eligibility for limited registration. 16. Registration subject to compliance with conditions. 17. Conditions with which the overseas specialist must comply during the period of his registration. 18. Notices. 19. Convictions, malpractice and negligence. 20. Applicability of the Act. 21. Provisional registration as medical practitioner. 22. Rules. 23. Qualification by appropriate European diploma for registration in Part II containing the list of registered dentists or Part III containing the list of registered pharmacists. 24. Visiting EEA dental practitioners.
+4. Establishment and constitution of Medical Registration Board. 5. Committees. 6. Secretary to the Board. 7. Register of medical practitioners, dentists and pharmacists. 8. Registration of dentists and pharmacists. 8A. The Board shall be the competent authority for the purposes of …. 9. Full registration as medical practitioners. 10. Acquired rights. 11. Effect of disqualification in an EEA State on registration in Gibraltar. 12. Competent Authority. 13. Visiting EEA medical practitioners. 14. Limited registration of junior doctors and overseas specialists. 15. Eligibility for limited registration. 16. Registration subject to compliance with conditions. 17. Conditions with which the overseas specialist must comply during the period of his registration. 18. Notices. 19. Convictions, malpractice and negligence. 20. Applicability of the Act. 21. Provisional registration as medical practitioner. 22. Rules. 23. Qualification by appropriate European diploma for registration in Part II containing the list of registered dentists or Part III containing the list of registered pharmacists. 23A. Qualification by recognised overseas diploma for registration in Part II containing the list of registered dentists. 24. Visiting EEA dental practitioners.
 
 PART III. NURSES, MIDWIVES AND HEALTH VISITORS.
 
-25. Establishment and constitution of Nurses, Midwives and Health Visitiors Registration Board.
-
 Medical and Health
 
-1997-25 26. Committees. 27. Secretary to the Board. 28. Register of nurses, midwives and health visitors. 29. Registration. 30. Admission to register of nurses, midwives and health visitors trained in the United Kingdom. 31. Admission to register of nurses, midwives and health visitors of countries other than Gibraltar and United Kingdom. 32. Admission to register of nurses and midwives who are nationals of EEA States. 33. Community documents. 34. Deemed registration of visiting nurses and midwives from EEA States. 35. Relief from fees. 36. Regulations.
+1997-25
+
+25. Establishment and constitution of Nurses, Midwives and Health Visitiors Registration Board. 26. Committees. 27. Secretary to the Board. 28. Register of nurses, midwives and health visitors. 29. Registration. 30. Admission to register of nurses, midwives and health visitors trained in the United Kingdom. 31. Admission to register of nurses, midwives and health visitors of countries other than Gibraltar and United Kingdom. 32. Admission to register of nurses and midwives who are nationals of EEA States. 33. Community documents. 34. Deemed registration of visiting nurses and midwives from EEA States. 35. Relief from fees. 36. Regulations.
 
 PART IV. GENERAL PROVISIONS ON REGISTRATION AND DISCIPLINE.
 
@@ -46,11 +48,11 @@ PART IV. GENERAL PROVISIONS ON REGISTRATION AND DISCIPLINE.
 
 PART V. EFFECT OF REGISTRATION.
 
-50. Practice of medicine. 51. Recovery of fees in relation to medical or dental services. 52. Use of description of dentist, etc. 53. Use of description of pharmacist and dispenser. 54. Use of description of nurse or midwife. 55. Registration as a Nurse, Midwife or Health Visitor not to confer rights of medical practitioner. 56. Saving of specialist consultants. 57. Saving for medical practitioners in regard to dentistry.
+50. Practice of medicine. 51. Recovery of fees in relation to medical or dental services. 52. Use of description of dentist, etc. 53. Use of description of pharmacist and dispenser. 54. Use of description of nurse or midwife.
 
 Medical and Health
 
-1997-25
+1997-25 55. Registration as a Nurse, Midwife or Health Visitor not to confer rights of medical practitioner. 56. Saving of specialist consultants. 57. Saving for medical practitioners in regard to dentistry.
 
 PART VI. HOSPITALS AND NURSING HOMES.
 
@@ -62,13 +64,13 @@ PART VII. PHARMACY AND MEDICINES.
 
 PART VIII. OFFENCES.
 
-75. Procuring registration by false pretences. 76. Misleading title unqualified practice, etc. 77. Use of title and description by dentists. 78. Penalties for unlawful assumption of title of nurse or midwife. 79. Offences relating to the register. 80. Employing unregistered substitute. 81. Penalty for sale in contravention of section 62. 82. Defences. 83. Penalty relating to section 64. 84. Penalty for refusing to produce or for not properly keeping the register of prescriptions. 85. Penalty relating to section 72. 86. No commission on prescriptions to be paid. 87. General penalty. 88. Legal proceedings .
-
-PART IX.
+75. Procuring registration by false pretences. 76. Misleading title unqualified practice, etc. 77. Use of title and description by dentists. 78. Penalties for unlawful assumption of title of nurse or midwife. 79. Offences relating to the register. 80. Employing unregistered substitute. 81. Penalty for sale in contravention of section 62. 82. Defences. 83. Penalty relating to section 64. 84. Penalty for refusing to produce or for not properly keeping the register of prescriptions. 85. Penalty relating to section 72. 86. No commission on prescriptions to be paid.
 
 Medical and Health
 
-1997-25 GENERAL AND SUPPLEMENTARY.
+1997-25 87. General penalty. 88. Legal proceedings .
+
+PART IX. GENERAL AND SUPPLEMENTARY.
 
 89. Saving. 90. Continuity of the Law. 91. Repeals and consequential amendments.
 
