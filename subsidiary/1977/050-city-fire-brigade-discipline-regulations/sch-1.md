@@ -4,7 +4,7 @@ Regulation 2
 
 OFFENCES AGAINST DISCIPLINE.
 
-1. Disobeying, or without sufficient cause failing to carry out,  any lawful order, whether in writing or not.
+1. Disobeying, or without sufficient cause failing to carry out, any lawful order, whether in writing or not.
 
 2. Insubordination by word or act.
 
@@ -32,9 +32,7 @@ OFFENCES AGAINST DISCIPLINE.
 
 9. Failing to account for, or to make a prompt and true return of, any money or property which comes into a member’s possession in the course of his duties.
 
-Fire and Rescue Service CITY FIRE BRIGADE (DISCIPLINE) REGULATIONS.
-
-Subsidiary 1977/050 1976-19 10. Absence without reasonable excuse from duty or lateness for any parade, drill, or other attendance.
+10. Absence without reasonable excuse from duty or lateness for any parade, drill, or other attendance.
 
 11. Failing to report any damage to or loss of any article of clothing or personal equipment or any property of the Brigade however caused.
 
