@@ -1,4 +1,4 @@
-SCHEDULE
+SCHEDULE 1
 
 PROCEEDINGS UNDER SECTION 14 Section 14 Power to administer oaths.
 
@@ -26,7 +26,7 @@ Privilege of witnesses.
 
 (6)  Sub-paragraphs (4) and (5) are without prejudice to the generality of sub-paragraph (1).
 
-Mutual Legal Assistance (Schengen Convention)
+Mutual Legal Assistance (European Union)
 
 2004-03 Forwarding evidence.
 
@@ -49,3 +49,7 @@ Supplementary.
 6.  The Bankers’ Books Evidence Act 1879 applies to the proceedings as it applies to other proceedings before the court.
 
 7.  No order for costs may be made.
+
+Mutual Legal Assistance (European Union)
+
+2004-03
