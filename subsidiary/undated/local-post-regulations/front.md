@@ -24,7 +24,7 @@ LN. 1971/014 –
 
 1971/086 reg. 29
 
-1973/031 – 1975/080 regs. 20(1), 24(2), 29 1976/154 regs. 20(1), 24(2), 29 1977/016 – 1980/078 regs. 20(1), 24(2), Sch. 1 1981/119 regs. 20(1), 24(2), 29, Sch. 2 1984/021 rr. 20(1), 24(2), Sch. 2 1.4.1984 1986/016 rr. 20(1), 24(2), 29, Sch. 1, 2 1.3.1986 1991/005 rr. 24(2), 29, Sch. 1, 2 1.2.1991 1992/151 Sch. 1 1.1.1993 1996/117 rr. 20(1), 24(2), 29, Sch. 2 1.1.1997 2004/092 rr. 20(1), 24(1), Sch. 1 13.9.2004
+1973/031 – 1975/080 regs. 20(1), 24(2), 29 1976/154 regs. 20(1), 24(2), 29 1977/016 – 1980/078 regs. 20(1), 24(2), Sch. 1 1981/119 regs. 20(1), 24(2), 29, Sch. 2 1984/021 rr. 20(1), 24(2), Sch. 2 1.4.1984 1986/016 rr. 20(1), 24(2), 29, Sch. 1, 2 1.3.1986 1991/005 rr. 24(2), 29, Sch. 1, 2 1.2.1991 1992/151 Sch. 1 1.1.1993 1996/117 rr. 20(1), 24(2), 29, Sch. 2 1.1.1997 2004/092 rr. 20(1), 24(1), Sch. 1 13.9.2004 2006/006 rr. 2, 33, Sch. 1 12.1.2006
 
 Post Office LOCAL POST REGULATIONS
 
@@ -60,7 +60,7 @@ Subsidiary 1961.12.19-3 25. Conditions as to registered packets. 26. Crown Proce
 
 PART V. GENERAL.
 
-31. Priority of letter post. 32. Remission of postage.
+31. Priority of letter post. 32. Remission of postage. 33. Public Information of Local Postal Rates.
 
 SCHEDULE 1. Rates of Postage.
 
