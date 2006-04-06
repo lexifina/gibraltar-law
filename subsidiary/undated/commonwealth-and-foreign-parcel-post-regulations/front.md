@@ -48,7 +48,9 @@ Subsidiary 1961.12.19-2 III 1990/023 Sch. 1- Part I(a) and Part II. 1.3.1990 199
 
 1.2.1991 1991/073 Sch. 1 - Part I(a) and Part II 1.5.1991 1992/014 Sch. 1 - Part I(a) and Part II 20.2.1992 1992/150 Sch. 1 - Part I(a) and Part II 1.1.1993 1993/185 Sch. 1 - Part I(a) and Part II 1.1.1994 1996/101 Sch. 1 - Part III(b) 17.10.1996 1996/118 rr. 15, 16(3)(a), 17(1)(h)(i), 20(1)(a)(b) and (2) Sch. 1 -  Part I(b) and 3
 
-1.1.1997 2004/090 r. 20(1)(a)(b)(c) and (2) 13.9.2004
+1.1.1997 2004/090 r. 20(1)(a)(b)(c) and (2) 13.9.2004 2006/043 rr. 2, 4(1), (2), (3), (4) & (5), 15, 16(2)(a), 17, 18(1), (2), (3), (4) & (5), 19(6)(d) & (8), 23, Part IV, 26, 27(1), (2) & (3)(b)(i), 28(1), (2) & (3), 29, Schs. 1, 2, 3 & 4
+
+6.4.2006
 
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
@@ -66,7 +68,7 @@ PART I RATES OF POSTAGE AND GENERAL CONDITIONS.
 
 PART II. POSTAL FACILITIES.
 
-14. General. 15. Express delivery. 16. Cash on delivery parcels. 17. Insured parcels. 18. Compensation. 19. Redirection by the public. 20. Advice of delivery and enquiries. 21. Parcels in bond.
+14. General. 15. Express delivery. 16. Cash on delivery parcels. 17. Omitted. 18. Compensation. 19. Redirection by the public. 20. Advice of delivery and enquiries. 21. Parcels in bond.
 
 PART III. GENERAL.
 
@@ -76,7 +78,7 @@ PART III. GENERAL.
 
 24. Remission of postage and fees.
 
-PART IV. DATAPOST SERVICE
+PART IV. EMS SERVICE
 
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
@@ -84,12 +86,8 @@ Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
 
 Subsidiary 1961.12.19-2 25. General Provisions. 26. Labelling etc. 27. Conditions. 28. Compensation. 29. Restriction of application of regulations to datapost packets.
 
-SCHEDULE 1. PART I - PARCEL POST RATES (SURFACE). PART II - PARCEL POST RATES (AIRMAIL). PART III - DATAPOST FEES.
+SCHEDULE 1. Cash on delivery parcels.
 
-SCHEDULE 2. CASH ON DELIVERY PARCELS.
-
-SCHEDULE 3. INSURANCE AND COMPENSATION
-
-SCHEDULE 4. APPLICATION OF LOCAL POST REGULATIONS.
+SCHEDULE 2. Application of Local Post Regulations.
 
 Post Office COMMONWEALTH AND FOREIGN PARCEL POST REGULATIONS
