@@ -16,7 +16,7 @@ The information referred to in regulation 7(3)(a) is as follows-
 
 (d) the arrangements for limiting the risks to persons on the premises of exposure to ionising radiation resulting from any reasonably foreseeable radiation emergency, including how such persons are to be provided with a warning in the event of such an emergency and the actions such persons will be expected to take on receipt of such a warning;
 
-(e) the arrangements for the provision of an early warning of a radiation emergency to the Environmental Agency, for the purpose of enabling the Agency to set the off-site emergency plan in motion, the type of information which will be included in such a warning and the arrangements for the provision of more detailed information to the Agency, as it becomes available; (f) the arrangements for the provision of assistance with off-site mitigatory action, in the event of a radiation emergency; and
+(e) the arrangements for the provision of an early warning of a radiation emergency to the Government’s Civil Contingency Committee, for the purpose of enabling the Committee to set the off-site emergency plan in motion, the type of information which will be included in such a warning and the arrangements for the provision of more detailed information to the Committee, as it becomes available; (f) the arrangements for the provision of assistance with off-site mitigatory action, in the event of a radiation emergency; and
 
 Health Protection (Ionising Radiation) RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2004
 
