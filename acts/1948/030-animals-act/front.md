@@ -12,7 +12,9 @@ Amending enactments Relevant current provisions Commencement date Acts. 1960-21 
 
 1.3.1988 1991-11 ss. 8-9 9.5.1991 2004-27 ss. 2(1)-(2), 4, 7(1)-(2), 10(1)(a), (1C), (3)-(4), 21, 22(1A)-(1B), (4)- (6), 23, 24(2), (4)-(5), 26, (kk)
 
-17.8.2004
+17.8.2004 2006-10 ss. 10(2), (9), 14(2), 15, 18(3), 20, 23, 25(3), 25A
+
+20.4.2006
 
 English sources: Protection of Birds Act 1954 (2 and 3 Eliz. 2 c.30) Protection of Animals (Amendment) Act 1954 (2 and 3 Ell. 2 c.40) Abandonment of Animals Act 1960 (8 and 9 Eliz. 2 c.43)
 
