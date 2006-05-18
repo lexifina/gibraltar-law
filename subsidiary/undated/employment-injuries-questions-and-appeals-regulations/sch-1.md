@@ -20,10 +20,4 @@ PART 3
 
 Medical Appeals Tribunal
 
-1 Chairman of the Medical Appeals Tribunal £50 for each sitting of the Tribunal
-
-2
-
-Each other member of the Medical Appeals Tribunal
-
-£30 each sitting of the Tribunal.”.
+1.  Chairman of the Medical Appeals Tribunal £50 for each session of the Tribunal not exceeding 4 hours. 2.  Each other member of the Medical Appeals Tribunal £110 for each session of the Tribunal not exceeding 4 hours. 3.  Member of the Medical Appeals Tribunals charged with carrying out full medical examination. £75 for each full medical examination and report.
