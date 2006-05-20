@@ -1,17 +1,21 @@
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY FEES AND CHARGES) REGULATIONS 2004
+Subsidiary Legislation made under s.118(1)(e).
 
-1995-13
+Gibraltar Merchant Shipping (Survey Fees and charges) Regulations 2004
 
-Subsidiary 2004/119 Regulations made under s. 118(1)(e).
+LN.2004/119
 
-GIBRALTAR MERCHANT SHIPPING (SURVEY FEES AND CHARGES) REGULATIONS 2004
+Commencement (LN.2005/015) 1.3.2005
 
-(LN. 2004/119)
+Amending enactments Relevant current provisions Commencement date
 
-1.3.2005 (LN.2005/015)
+LN.   2006/050 r.2 20.5.2006
 
-_________________________
+_______________________
 
-CHARGES) REGULATIONS 2004
+ARRANGEMENT OF REGULATIONS
+
+Regulation
+
+1. Title and commencement. 2. Fees. 3. Revocation.
 
 In exercise of the powers conferred on it by section 118(1)(e) of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993 and all other powers enabling, the Government has made the following Regulations:
