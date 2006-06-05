@@ -146,7 +146,7 @@ For every £100 and any fractional part of £100 of the amount secured
 
 For every £100, and also for any fractional part of £100 of the amount transferred, assigned, or disposed, exclusive of interest, which is not in arrear
 
-0.03 And also where any further money is added to the The same duty as a principal security for such further money.
+0.03 And also where any further money is added to the money already secured The same duty as a principal security for such further money.
 
 (5) RECONVEYANCE, RELEASE, DISCHARGE, SURRENDER, RESURRENDER or RENUNCIATION of any such security as aforesaid, or the benefit thereof, or of the money thereby secured:
 
