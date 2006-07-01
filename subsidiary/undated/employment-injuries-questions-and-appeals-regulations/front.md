@@ -1,22 +1,18 @@
-Social Security (Employment Injuries Insurance) EMPLOYMENT INJURIES (QUESTIONS AND APPEALS) REGULATIONS
+Subsidiary Legislation made under s.50.
 
-1952-10
+Employment Injuries (Questions and Appeals) Regulations
 
-Subsidiary 1954.10.14 Regulations made under s.50.
+1954.10.14
 
-EMPLOYMENT INJURIES (QUESTIONS AND APPEALS) REGULATIONS
+Commencement 18.10.1954
 
-(1954.10.14)
+Amending enactments Relevant current provisions Commencement date
 
-18.10.1954
+Regs. of 26.1.1960 rr. 4-5, 6(1)-(4), 7-8, 10 LN. 1975/009 –
 
-Amending enactments Relevant current provisions Commencement date Regs. of 26.1.1960 regs.4, 5, 6(1)-(4), 7, 8 and 10 LN. 1975/009 – 1982/059 Sch. 1999/153 r. 10, Sch. 18.11.1999 2006/068 Sch. 18.5.2006
+1982/059 Sch. 1999/153 r. 10, Sch. 18.11.1999 2006/068 Sch. 18.5.2006 2011/111 Sch. 1.7.2006
 
-Social Security (Employment Injuries Insurance) EMPLOYMENT INJURIES (QUESTIONS AND APPEALS) REGULATIONS
-
-1952-10
-
-Subsidiary 1954.10.14 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -34,10 +30,6 @@ PART III. SET-OFF AND RECOVERY OF OVERPAYMENTS.
 
 9. Set-off of one benefit against another.
 
-PART IV. PAYMENT OF FEES TO MEMBERS OF THE EMPLOYMENT INJURIES APPEALS BOARD, MEDICAL BOARD AND  MEDICAL APPEALS TRIBUNAL.
+PART IV. PAYMENT OF FEES TO MEMBERS OF THE EMPLOYMENT INJURIES APPEALS BOARD, MEDICAL BOARD AND MEDICAL APPEALS TRIBUNAL.
 
 10. Fees.
-
-SCHEDULE. SCALE OF FEES
-
-Social Security (Employment Injuries Insurance) EMPLOYMENT INJURIES (QUESTIONS AND APPEALS) REGULATIONS
