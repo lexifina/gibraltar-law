@@ -10,7 +10,13 @@ Act. No. 2005-22 Commencement (LN.2005/080) 28.4.2005
 
 Assent 10.3.2005
 
-Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2006-21 ss. 61(3), 62(4), 63(2) & 65(2), Part IV (ss.254-269), Schs. 2, 4 & 5
+
+20.7.2006
+
+Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC
 
 Intellectual Property (Copyright and Related Rights)
 
@@ -326,33 +332,49 @@ Remedies for infringement of rights
 
 253. Remedies for infringement of a performer’s moral rights.
 
-PART IV MISCELLANEOUS AND GENERAL
+PART IV ARTISTS RESALE RIGHT
+
+254.  Interpretation. 255. Artist’s resale right. 256. Works covered. 257.  Joint authorship. 258. Proof of authorship. 259. Assignment etc. 260. Waiver etc. 261. Persons entitled on succession. 262. Requirements as to nationality etc. 263.  Trusts. 264.  “Resale”. 265. Liability to pay resale royalty. 266. Collective management. 267. Right to information. 268. Transitional provisions. 269. Sales before 1st January 2010.
+
+PART V MISCELLANEOUS AND GENERAL
 
 Circumvention of protection measures
 
-254. Circumvention of technical devices applied to computer programs. 255. Circumvention of technological measures. 256. Devices and services designed to circumvent technological measures. 257. Rights and remedies in respect of devices and services designed to circumvent technological measures. 258. Remedy where effective technological measures prevent permitted acts. 259. Interpretation of sections 255 to 258.
+270. Circumvention of technical devices applied to computer programs. 271. Circumvention of technological measures. 272. Devices and services designed to circumvent technological measures. 273. Rights and remedies in respect of devices and services designed to circumvent technological measures. 274. Remedy where effective technological measures prevent permitted acts. 275. Interpretation of sections 271 to 274.
 
 Rights management information
 
-260. Electronic rights management information.
+276. Electronic rights management information.
 
 Computer programs
 
-261. Avoidance of certain terms.
+Intellectual Property (Copyright and Related Rights)
+
+2005-22 277. Avoidance of certain terms.
 
 Databases
 
-262. Avoidance of certain terms relating to databases.
+278. Avoidance of certain terms relating to databases.
 
 Regulations
 
-263. Power to make regulations
+279. Power to make regulations
 
 SCHEDULE 1 1911 and 1956 Acts: Copyright - transitional provisions and savings.
 
 SCHEDULE 2 Permitted acts to which section 274 applies.
 
 SCHEDULE 3 Application of Part II to other countries and territories.
+
+SCHEDULE 4 CALCULATION OF RESALE ROYALTY
+
+SCHEDULE 5 COUNTRIES OUTSIDE THE EEA WHOSE NATIONALS MAY ENJOY RESALE RIGHT
+
+Intellectual Property (Copyright and Related Rights)
+
+2005-22 RE-NUMBERING OF SECTIONS AS A CONSEQUENCE OF AMENDING ACT Act. 2006-21 AS FROM 20.7.2006
+
+Old number New Number PART IV PART V 254 270 255 271 256 272 257 273 258 274 259 275 260 276 261 277 262 278 263 279
 
 Intellectual Property (Copyright and Related Rights)
 
