@@ -10,7 +10,7 @@ United Kingdom (a)  Letters including letter packets–
 
 (i)  For the first 20 grammes or part thereof
 
-38p
+40p
 
 (ii)  For every 10 grammes or part thereof after the first 20 grammes
 
@@ -18,11 +18,11 @@ United Kingdom (a)  Letters including letter packets–
 
 (b)  Postcards conforming in all respects to the regulations relating thereto
 
-38p
+40p
 
 (c)  Air letters conforming in all respects to the regulations relating thereto
 
-38p
+40p
 
 PART 1B
 
@@ -32,7 +32,7 @@ All other European Countries and Morocco
 
 (i)  For the first 20 grammes or part thereof
 
-40p
+42p
 
 (ii)  For every 10 grammes or part thereof after the first 20 grammes
 
@@ -40,11 +40,11 @@ All other European Countries and Morocco
 
 (b)  Postcards conforming in all respects to the regulations relating thereto
 
-40p
+42p
 
 (c)  Air letters conforming in all respects to the regulations relating thereto
 
-40p
+42p
 
 (d)  For the purposes of Part IB, countries are as following
 
@@ -62,7 +62,7 @@ COUNTRIES OUTSIDE EUROPE.
 
 (a) Postal packets
 
-First 10 grammes or part thereof Each additional grammes or part thereof Air Letters Postcards Zone 1 47p 18p 44p 47p Zone 2 47p 22p 44p 47p
+First 10 grammes or part thereof Each additional grammes or part thereof Air Letters Postcards Zone 1 49p 18p 46p 49p Zone 2 49p 22p 46p 49p
 
 (b) For the purposes of Part II, countries are grouped as follows:
 
