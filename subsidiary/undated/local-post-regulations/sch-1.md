@@ -4,13 +4,13 @@ Regulations 4 and 8
 
 RATES OF POSTAGE AND LIMITS TO SIZE AND WEIGHT.
 
-Description of Postal Packet Rate of Postage Limit of Size Limit of Weight 1(a) Letter for the first 50 grammes or part thereof – 7p For every additional 50 grammes or part thereof – 5p. Maxima: length and depth combined: 900 mm, but the great dimension may not exceed 600 mm with a tolerance of 2 mm. Minima: to have a surface measuring not less than 90x140mm with a tolerance of 2 mm. In roll form, maxima: length plus twice the diameter, 1040 mm but the greatest dimension may not exceed 900mm with a tolerance of 2mm. Minima: length plus twice the diameter, 170 mm but the greatest dimension may not be less than 100mm. 2 Kilogrammes 1(b) First class letters 28 pence each. same as above up to 20 grammes
+Description of Postal Packet Rate of Postage Limit of Size Limit of Weight 1(a) Letter for the first 50 grammes or part thereof – 8p For every additional 50 grammes or part thereof – 5p. Maxima: length and depth combined: 900 mm, but the great dimension may not exceed 600 mm with a tolerance of 2 mm. Minima: to have a surface measuring not less than 90x140mm with a tolerance of 2 mm. In roll form, maxima: length plus twice the diameter, 1040 mm but the greatest dimension may not exceed 900mm with a tolerance of 2mm. Minima: length plus twice the diameter, 170 mm but the greatest dimension may not be less than 100mm. 2 Kilogrammes 1(b) First class letters 28 pence each. same as above up to 20 grammes
 
 Post Office LOCAL POST REGULATIONS
 
 1961-10
 
-Subsidiary 1961.12.19-3 2. Postcard Each - 7p. Maxima: 105x148 mm with a tolerance of 2 mm. Minima: 90x140 mm with a tolerance of 2 mm – 3. Printed packet Revoked.
+Subsidiary 1961.12.19-3 2. Postcard Each - 8p. Maxima: 105x148 mm with a tolerance of 2 mm. Minima: 90x140 mm with a tolerance of 2 mm – 3. Printed packet Revoked.
 
 4. Newspapers printed in Gibraltar  and addressed to subscribers in Gibraltar. for the first 50 grammes or part thereof – 5p. For every additional 50 grammes or part thereof – 5p..
 
