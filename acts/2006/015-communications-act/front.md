@@ -10,11 +10,13 @@ Act. No. 2006-15 Commencement (LN. 2006/071) 5.6.2006
 
 Assent 12.5.2006
 
+Amending enactments Relevant current provisions Commencement date Act.    2006-44 s. 62(1)(a) 1.10.2006
+
 Transposing: Directive 2002/19/EC, Directive 2002/20/EC Directive 2002/21/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2002/77/EC
 
-______________________________________
+Communications
 
-ARRANGEMENT OF SECTIONS
+2006-15 ARRANGEMENT OF SECTIONS
 
 Sections
 
@@ -24,11 +26,7 @@ PART I PRELIMINARY PROVISIONS
 
 PART II ADMINISTRATION OF THE ACT
 
-3. Duty of the Minister and the Authority. 4. Power to require information etc. 5. Making false or misleading statements. 6. General restrictions on disclosure of information. 7. Power to establish advisory bodies. 8. Annual reports. 9. Regulations. 10. Directions by the Minister and the Authority. 11. Administrative notices. 12. The power of the Authority to issue notices. 13. Public consultation procedure. 14. Requirements to be complied with by the Minister and the Authority when issuing documents. 15. Service of documents.
-
-Communications
-
-2006-15 16. Documents in electronic form. 17. Timing and location of things done electronically.
+3. Duty of the Minister and the Authority. 4. Power to require information etc. 5. Making false or misleading statements. 6. General restrictions on disclosure of information. 7. Power to establish advisory bodies. 8. Annual reports. 9. Regulations. 10. Directions by the Minister and the Authority. 11. Administrative notices. 12. The power of the Authority to issue notices. 13. Public consultation procedure. 14. Requirements to be complied with by the Minister and the Authority when issuing documents. 15. Service of documents. 16. Documents in electronic form. 17. Timing and location of things done electronically.
 
 PART III FUNCTIONS AND OBJECTIVES OF THE AUTHORITY.
 
@@ -38,7 +36,11 @@ General functions and objectives of the Authority.
 
 Co-operation with the European Commission and the regulatory authorities in the Member States
 
-22. Delivery of proposed measures to the European Commission and the regulatory authorities in the Member States. 23. European Commission’s powers in respect to proposed measures. 24. Exception to the procedures in sections 22 and 23.
+22. Delivery of proposed measures to the European Commission and the regulatory authorities in the Member States. 23. European Commission’s powers in respect to proposed measures.
+
+Communications
+
+2006-15 24. Exception to the procedures in sections 22 and 23.
 
 General information functions.
 
@@ -56,11 +58,7 @@ Regulatory framework for the electronic communications sector
 
 Numbering
 
-35. Numbering, addressing and naming.
-
-Communications
-
-2006-15 36. Allocation of numbers. 37. Bidding for numbers.
+35. Numbering, addressing and naming. 36. Allocation of numbers. 37. Bidding for numbers.
 
 SMP procedures
 
@@ -72,7 +70,9 @@ Miscellaneous
 
 Offences under Part IV
 
-45. Improper use of public electronic communications network. 46. Modification etc. of messages. 47. Interception and disclosure of messages etc. 48. Assaults etc on persons engaged in the business of providing a public electronic communications network.
+Communications
+
+2006-15 45. Improper use of public electronic communications network. 46. Modification etc. of messages. 47. Interception and disclosure of messages etc. 48. Assaults etc on persons engaged in the business of providing a public electronic communications network.
 
 PART V ACQUISITION ETC OF LAND
 
@@ -82,11 +82,7 @@ PART VI PROVISIONS RELATING TO THE ELECTRO-MAGNETIC SPECTRUM
 
 Control of the Use of the Electro-Magnetic Spectrum.
 
-56. Responsibility for the electro-magnetic spectrum. 57. Duties of the Minister when carrying out spectrum functions.
-
-Communications
-
-2006-15 58. The Gibraltar Frequency Allocation Plan. 59. Allocation and assignment of frequencies.
+56. Responsibility for the electro-magnetic spectrum. 57. Duties of the Minister when carrying out spectrum functions. 58. The Gibraltar Frequency Allocation Plan. 59. Allocation and assignment of frequencies.
 
 Radiocommunications Licences
 
@@ -95,6 +91,10 @@ Radiocommunications Licences
 Dealing in Radiocommunications Apparatus.
 
 67. Licensing of dealers. 68. Record book to be kept by dealers. 69. Disposal of radiocommunications apparatus used privately. 70. Delivery on importation.
+
+Communications
+
+2006-15
 
 Miscellaneous
 
@@ -108,9 +108,7 @@ Regulations for the purposes of Part VI
 
 82. Regulations for the purposes of Part VI. 83. Regulations as to radiation of electro-magnetic energy etc. 84. Enforcement of regulations as to use of apparatus. 85. Enforcement of regulations as to sales, etc., by manufacturers and others.
 
-Communications
-
-2006-15 PART VII OFFENCES (GENERAL MATTERS), APPEALS AND DISPUTE RESOLUTION
+PART VII OFFENCES (GENERAL MATTERS), APPEALS AND DISPUTE RESOLUTION
 
 Offences (General Matters)
 
@@ -122,7 +120,11 @@ Appeals
 
 Dispute resolution
 
-92. Reference of disputes to the Authority. 93. Action by the Authority on dispute reference. 94. Legal proceedings about referred disputes. 95. Procedure for resolving disputes. 96. Disputes involving Gibraltar and one or more Member States. 97. Resolution of referred disputes. 98. The Authority’s power to require information in connection with a dispute.
+92. Reference of disputes to the Authority.
+
+Communications
+
+2006-15 93. Action by the Authority on dispute reference. 94. Legal proceedings about referred disputes. 95. Procedure for resolving disputes. 96. Disputes involving Gibraltar and one or more Member States. 97. Resolution of referred disputes. 98. The Authority’s power to require information in connection with a dispute.
 
 PART VIII FINAL PROVISIONS
 
