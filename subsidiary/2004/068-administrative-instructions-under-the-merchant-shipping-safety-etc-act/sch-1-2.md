@@ -1,42 +1,68 @@
-Annex 1
+Annex
 
-BOATMASTER’S CERTIFICATE
+DEVELOPMENT OF A DATABASE FOR CERTIFICATE REGISTRATION
 
-(This Certificate is required in order to operate a passenger vessel and other vessels under 500 gt within Gibraltar waters)
+1.  In implementing the requirement in paragraph 4.1 of regulation I/9 of the revised STCW Convention for the maintenance of a register of certificates and endorsements, a standard database is not necessary provided that all the relevant information is recorded and available.
 
-A. REQUIREMENTS FOR OBTAINING A BOATMASTER’S CERTIFICATE
+2. The following items of information should be recorded and available either on paper or electronically in accordance with regulation I/9, as a minimum:
 
-In order to obtain a Boat-master’s Certificate, the Applicant must:
+Status of certificate :
 
-- be 21 years of age;
+Valid Suspended Cancelled Reported lost Destroyed
 
-- have completed sufficient service (to the satisfaction of the Maritime Administrator), preferably on the type of vessel which the prospective certificate holder will be entitled to command;
+With a record of changes to status to be kept, including dates of changes.
 
-- have a valid Medical Fitness Certificate;
+Certificate details:
 
-- produce documentary evidence that the following additional qualifications, or equivalent, have been achieved:
+Seafarer’s name Date of birth Nationality Sex Preferably a photograph Relevant document number Date of issue Date of expiry Last revalidation date Details of dispensation(s)
 
-Basic Training (4 elements as outlined in STCW ’95 A-VI/1.2); Small Vessels’ Navigation and Radar Course; GMDSS (ROC); Successfully completed an approved 2-day course (the Maritime Administrator may exempt a candidate from this requirement where an applicant has additional experience);
+Competency details:
 
-- have passed the Practical and the Oral Examination conducted by the Maritime Administrator.
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
-B. PRACTICAL TEST (This test should take place on a vessel of a type for which the applicant is requesting a certificate)
+1995-13
 
-BOAT HANDLING:
+Subsidiary 2004/068 STCW competency standard (e.g. regulation II/1) Capacity Function Level of responsibility Endorsements Limitations
 
-Berthing and unberthing;
+Medical details:
 
-Coming to and weighing anchor;
+Date of issue of latest medical certificate relating to the issue or revalidation of the appropriate certificate.
 
-Making fast to and leaving a buoy;
+ADMINISTRATIVE INSTRUCTION No. STCW-13
 
-Boat manoeuvring in confined waters;
+ADMINISTRATIVE INSTRUCTION ON THE ISSUE OF A SEAFARER’S DISCHARGE BOOK
 
-Turning short round;
+(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
 
-Knowledge and effect of transverse thrust;
+A seafarer may be issued with a Gibraltar Discharge Book if s/he has not been issued with such a document by his/ her own national Administration or when the issuing Administration does not allow recording of service performed on non-national ships. The seafarer will be required to meet the following requirements:
 
-Steering a compass course and taking a rough bearing;
+1. be between 18 and 55 years of age; 2. be medically fit; 3. be the holder of a Basic Training Certificate; 4. produce evidence of being or to be employed on a Gibraltar registered ship; 5. have the relevant qualification/ certificate, if required, for the intended capacity; 6. produce as proof of nationality and date of birth, a copy of a passport provided a responsible person to the satisfaction of the Maritime Administrator, such as the master of the vessel, has certified it as a true copy.
+
+Applications in the form prescribed at the Annex to this Administrative Instruction and the prescribed fees should be sent to the Maritime Administrator. Three copies of passport size photographs with full frontal/ facial view (with no hats/ caps or dark glasses) should be sent with the
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 application. All copies of the photographs shall be identical and should bear sufficient resemblance with the picture appearing in the passport.
+
+Masters of ships and the Company under whose management the ships operate may take note of the fact that the period of sea-service (with no remark on quality of service or conduct) performed by the seafarer, whether on a Gibraltar registered ship or not, may be duly recorded in the Discharge Book. Such entries should contain the Name of the ship, Port of Registry, IMO Number, GT, Power in kW, Capacity, Date and Place of engagement and the Date and Place of discharge.
+
+Seafarers should bear in mind that a separate testimonial from the company or the ship (master/ chief engineer) may be necessary to provide further evidence of requirements for taking higher courses or examinations. Such testimonial should also include details of the type of ship, such as, tanker (oil/ chemical/ gas) or passenger ship or ro-ro passenger ship or High-Speed Craft etc. and the nature of duties performed on such ships.
+
+The entries in the Discharge Book and testimonials should be stamped with the official seal of the ship or the company.
+
+Details of training during sea-service performed by Cadets (Deck or Engineering) must also be recorded in the Cadet Record Book of IMO or ISF or UK-MNTB. Details of training specially that associated with Bridge Watchkeeping duties performed by Deck Rating desirous of taking Deck Officer's examination must be recorded in the ISF Training Record Book.
+
+A Discharge Book issued by the Maritime Administrator shall contain in the first part the details of the seafarer such as the Name, Sex, Date and place of birth, Height in centimetres, Nationality, Identification mark, Passport No., Date of issue of the Passport; and in the second part there will be provision to enter particulars of the ship, capacity in which served and the period of service.
+
+Annex – A Form No 21
+
+APPLICATION FOR DISCHARGE BOOK
+
+Name of Applicant:.……………………………………….. Sex…..………..
+
+Date of birth……………………..    Place of birth………………………
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
@@ -44,288 +70,42 @@ Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE
 
 Subsidiary 2004/068
 
-Practical demonstration on the use of VHF;
+Height (in cm.).………………………   Nationality………………………..
 
-C. ORAL EXAMINATION
+Identification Mark ……………………………………………………………
 
-(1) EMERGENCY SITUATIONS
+Passport No……………………….... Date of issue:…………………………
 
-Recovery of man overboard;
+Details of Basic Training: …………………………………………………………………… ………………………………………………………………………… ……………………………………………………………………………
 
-Loss of Engines;
+Details of Medical Fitness:………………………………………………… Any medical condition……………………………………………………….
 
-Loss of Steering ability;
+Company providing employment …………………………………………………………………………
 
-Action to take in the event of a Collision;
+Name of Gibraltar ship on which employed or to be employed……………
 
-Grounding;
+Capacity in which employed or to be employed……………………………
 
-Accident to Crew Member or Passenger;
+Details of other qualification/ certificate/ experience……………………… ……………………………………………………………………………… ………………………………………………………………………………
 
-Use of Extinguishing Appliances;
+Signature of the Applicant                                                         Date and Place
 
-Use of Life-Saving Appliances;
-
-Search and Rescue techniques in bad weather or reduced visibility; Choosing an appropriate area for Beaching or shelter in bad weather;
-
-(2) REGULATIONS FOR PREVENTING COLLISIONS AT SEA
-
-A practical knowledge of the Rules of the Road;
-
-A full knowledge of the regulations;
-
-Keeping a good Lookout;
-
-(3) LOCAL KNOWLEDGE AND REGULATIONS
-
-Local Signal and Traffic Regulations;
-
-Local Marks – to include buoyage, lights, leading lights and marks;
-
-Boundaries of Gibraltar waters and areas of operation; Local Dangers to Navigation – minimum and maximum depths over banks etc., obstructions, currents and abnormal tidal streams;
-
-Local Safe Landing places in differing weather conditions;
-
-A general knowledge of the Times and Heights of Spring Tides;
-
-Safe passage in and out of Harbour; Any other item of Local Knowledge which the examiner may deem to be necessary;
-
-A thorough knowledge of the regulations and bye-laws; Means and procedures for communication with owners/ operators,Port Authority and other SAR organization.
-
-(4) SEAMANSHIP
-
-Common Nautical terms;
-
-Interaction with Other vessels;
-
-(5) CHARTWORK
-
-The meaning of Common Chart Symbols;
-
-The use of Tidal Diamonds;
-
-Position Fixing;
+Applications duly filled in along with supporting documents and the prescribed fees and photographs (as required by Administrative Instruction 13) should be sent to the Maritime Administrator, Registry of Ships, Watergate House, 2/8 Casemates Square, Gibraltar.
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068
+Subsidiary 2004/068 ADMINISTRATIVE INSTRUCTION No. STCW-14
 
-Courses to steer allowing for Current and Leeway;
+QUALIFICATION / CERTIFICATION REQUIRED FOR OPERATION OF A DOMESTIC VESSESL
 
-Familiarity with the use of Parallel Rules, Dividers, Compasses, etc.
+(Issued under section 3(5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and Regulation 37(1) of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
 
-(6) LIFE-SAVING AND FIRE-FIGHTING APPLIANCES A knowledge of the Statutory requirements and appreciation of the fact that the person in charge of a vessel must be satisfied that the Life-saving and Fire-fighting appliances are properly maintained; Use and deployment of Inflatable Liferafts and Inflatable or Rescue Boats;
+The provisions of the International Convention on Standards of Training, Certification and Watch-keeping for Seafarers 1978 as amended apply to sea-going vessels insofar as they relate to the Deck Department i.e. the provision of regulation II of the Convention. The provisions of regulation III (Engine Department) of the Convention apply to those vessels that have a propulsion power of 750 kW and above.
 
-Inflatable Liferaft and Boat Servicing requirements;
+The purpose of this Administrative Instruction is to specify the training and certification requirements for the operation of commercially-operated non deep sea-going vessels and in respect of Engineering qualifications, for vessels which are commercially operated with propulsion power of less than 750 kW that may be engaged in domestic or international voyages.
 
-Hydrostatic Release Units;
+Boat-master's Certificate: Every person who intends to take charge of a vessel operated commercially within Gibraltar waters must hold this qualification. The qualification is also a requirement for operating vessels over 12 metres in length owned or operated by a Government Department or any Agency or Authority under it within Gibraltar waters.
 
-Maintenance and care of Buoyant Apparatus.
-
-(7) DISTRESS SIGNALS A knowledge of the contents of Annex IV of the Collision Regulations and the Operation of the Signals Equipment required to be carried;
-
-Coastguard response to Distress Signals.
-
-(8) LEGAL RESPONSIBILITIES TOWARDS PASSENGERS AND CREW
-
-Safe Access;
-
-Safe Working Practices;
-
-Safety Survey Certificate, and the law regarding it.
-
-(9) WEATHER
-
-Sources of Information;
-
-Local Conditions and Effects;
-
-Signs of Approaching Bad Weather.
-
-(10) ENGINEERING KNOWLEDGE
-
-Basic knowledge of day to day Engine and Battery Checks; The requirement for Servicing and Routine Maintenance of Propulsion and Auxiliary Machinery.
-
-(11) PUBLICATIONS
-
-Port and Local Notices to Mariners;
-
-Admiralty Notices to Mariners;
-
-Merchant Shipping Notices (as applicable);
-
-Gibraltar Acts and Regulations (as applicable);
-
-Administrative Instructions.
-
-(12) POLLUTION REGULATIONS A general appreciation of the Regulations applicable to the Prevention of Pollution, concerning Oil and Garbage.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
-
-(13) RADAR AND NAVIGATIONAL AIDS Knowledge of the use of Radar, Echo Sounder and any other Position-Finding Device on board the vessel.
-
-(14) BASIC KNOWLEDGE OF VESSEL CONSTRUCTION AND STABILITY General knowledge of Ship Construction and of Plans available onboard the vessel, where these are carried;
-
-Maintaining Watertight sub-division;
-
-Main and Emergency Bilge Pumping Arrangements;
-
-General Pumping Arrangements; Outline knowledge of the effect on stability of Loading, Discharging, Weight Distribution and Slack Tanks;
-
-Outline knowledge of Freeboard and Trim;
-
-The use of Stability and Hydrostatic Data, where provided.
-
-(15) HOURS OF WORK
-
-Knowledge of the regulations on Hours of Work.
-
-(16) DOCUMENTS REQUIRED
-
-Knowledge of statutory documents.
-
-ADDITIONAL REQUIREMENTS FOR PASSENGER BOATMASTER’S CERTIFICATE
-
-(17) PASSENGER MANAGEMENT
-
-Safety Announcements (M.1386);
-
-Disposition of Passengers and Crew to ensure Stability and Trim;
-
-Passenger Numbers and Reporting Systems (M.1408);
-
-Knowledge of other relevant M. Notices.
-
-(18) PASSENGER MUSTER AND EMERGENCY DRILL Knowledge of methods of Orderly Evacuation following any Emergency, having regard to the size of the vessel concerned and its operational area.
-
-(19) SAFETY MANAGEMENT CODE FOR DOMESTIC PASSENGER SHIPS Knowledge of all elements of the Safety Management Code for Domestic Passenger Vessels of Class III to VI(A).
-
-(20) DOCUMENTATION AND CERTIFICATES TO BE CARRIED ON BOARD
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Certificates required, including Safety Survey Certificate, Gibraltar Passenger Certificate, Safety Management Code for Domestic Passenger Ships of Class III to VI(A), Crew Qualification requirements.
-
-EQUIVALENT QUALIFICATIONS AND ADDITIONAL REQUIREMENTS
-
-The Maritime Administrator shall determine whether a licence issued by an authority outside Gibraltar can be accepted as an equivalent to a Gibraltar Boat-master’s certificate and whether any additional qualification or test of local knowledge is required.
-
-Where an applicant holds a valid Pilotage Exemption Certificate for Gibraltar Waters, s/he will be exempted from the Local Knowledge part of the Oral Examination.
-
-The Master of a High Speed Vessel (one capable of a fully laden speed of 25 knots or above) should possess a type rating certificate issued by the vessel’s manufacturer or the Company training manager.
-
-APPROVED COURSE
-
-The Administration may authorize a school/ college/ institute to run a 2-day preparatory course. Day one of such course shall consist of classroom lectures to cover the theory part and day two shall concentrate on practical demonstration on a boat.
-
-FEES
-
-A fee of £70.00 shall be charged by the Administration for the Examination and this shall be reduced to £50.00 where an applicant only needs to be examined on local knowledge.  A further fee of £30.00 shall be charged for the issue of a certificate to a successful candidate.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex 2
-
-MARINE ENGINE OPERATOR’S CERTIFICATE
-
-(APPLICABLE FOR OPERATION OF MARINE DIESEL ENGINES OF LESS THAN 750kW FOR DOMESTIC AND INTERNATIONAL VOYAGES)
-
-REQUIREMENTS FOR OBTAINING A MARINE ENGINE OPERATOR’S CERTIFICATE
-
-A. In order to obtain a Marine Engine Operator’s Certificate, the applicant must:
-
-- be 21 years of age;
-
-- have a valid Medical Fitness Certificate;
-
-- have sufficient experience (to the satisfaction of the Maritime Administrator) of main machinery and auxiliary equipment likely to be found on vessels under 750kW;
-
-- have successfully completed the following courses:
-
-- Basic Training (4 elements as outlined in A-VI/1.2 of STCW95);
-
-- Completed a 2-day approved course (the Maritime Administrator may exempt a candidate from this requirement in the case of a person with additional experience); and
-
-- have passed the Oral Examination (conducted by the    Marine Administration).
-
-B. ORAL EXAMINATION
-
-The Applicant must demonstrate an adequate knowledge of and familiarity with the following:
-
-(1) routine associated with Handing Over / Taking Over a period of Duty;
-
-(2) machinery space Fire-Fighting Arrangements;
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
-
-(3) safety precautions to be observed during a period of Duty, and immediate action in the event of Fire or serious accident;
-
-(4) preparing Main Machinery, Steering System and Auxiliary Equipment for sea; testing Plant and Equipment; the reasons for this preparation and testing;
-
-(5) routine pumping operations of Fuel Oil and Fresh Water;
-
-(6) Bilge Pumping operations, Main and Emergency;
-
-(7) precautions to be observed to prevent Environmental Pollution  (Oil and Garbage);
-
-(8) knowledge of Electrical Power Supplies (Alternators, Generators and Batteries);
-
-(9) immediate action necessary in the case of an Electric Shock;
-
-(10) location and rectification of Common Faults in Main Machinery, Steering Systems, and Auxiliary Equipment;
-
-(11) voyage requirements, including Bunkers, Lubricants, Water, Expendables etc.
-
-(12) the necessity for Routine Maintenance;
-
-(13) the necessity to maintain Records of Machinery and Performance, and be able to interpret the information with regard to common defects;
-
-(14) the consequences of sailing with certain items of Machinery inoperative, and the risks involved in doing so; (15) the Engine Operator’s responsibilities and duties concerning Bunkering Operations;
-
-(16) the principles of ensuring Safe Entry into Tanks and other Enclosed Spaces, and the safe systems of work which must be applied when occupying these spaces;
-
-(17) the precautions to be taken to reduce the possibility of Machinery Space fires;
-
-(18) the precautions to be taken when carrying out hot work;
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
-
-(19) the process of reversing a marine diesel engine;
-
-(20) Use of Reduction Gear;
-
-(21) Use of Shaft Generator;
-
-(22) Health and Safety requirements.
-
-C. EQUIVALENT QUALIFICATIONS
-
-The Maritime Administrator shall determine whether a certificate issued by an authority outside Gibraltar can be accepted as an equivalent to a Gibraltar Marine Engine Operator’s certificate and whether any test of local knowledge is required.
-
-If the Applicant is applying to serve on a Domestic Passenger Vessel of Class III to VI(A), a knowledge of the Safety Management Code for Domestic Passenger Vessels of Class III to VI(A) will be required.
-
-D. APPROVED COURSE
-
-The Administration may authorise any school/ college/ institute to run a preparatory course covering the syllabus. Such course shall be of minimum 2 days duration - day one concentrating on the class room lectures covering the principles and theory; and day two concentrating on practical demonstration, in a marine workshop.
-
-E. FEES
-
-A fee of £70.00 will be charged for the examination and a further £30.00 for the issue of a certificate to successful candidate.
+Marine Engine Operator's Certificate: Every person who intends to take charge of the operation of machinery on a vessel operated commercially with propulsion power of less than 750 kW must hold this qualification.

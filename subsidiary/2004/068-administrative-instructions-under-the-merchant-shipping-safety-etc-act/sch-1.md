@@ -6,37 +6,49 @@ The following list is not intended to be an exclusive list of all conventions, G
 
 International Conventions:
 
-1. Tonnage 69 2. Load-line 66 3. SOLAS 74 4. MARPOL 73/78 5. COLREG  72 6. SAR79 7. SALVAGE 89 8. STCW95 9. ILO Maritime Conventions numbers 22, 147, 164, 178 and 180
+1. Tonnage 69 2. Load-line 66 3. SOLAS 74 4. MARPOL 73/78 5. COLREG  72 6. SAR79 7. SALVAGE 89 8. STCW95
 
-Knowledge and understanding of the following subjects and topics:
+The validity of this endorsement, and associated Tanker Endorsement (where applicable), is hereby extended until ………………………………
 
-1. A basic understanding of the role of the Gibraltar Registry of Ships; 2. Certificate of Registry & other statutory certificates/ documents;
+…………………………………………… Signature of duly authorised official
+
+…………………………………………. Name of duly authorised official
+
+Date of revalidation .............................................
+
+Official Seal
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 3. Knowledge of ISM & ISPS Code; 4. Crew documents to be checked while signing on; 5. Use of Official Log Book; 6. Master's duty to report accident/ casualty; 7. Crew Agreement; Role of master as company agent; Engagement and discharge; Procedure for closing an Article of Agreement; 8. Seaman left behind; failed to return or hospitalised; 9. Death of crew member or passenger; 10. Provision of Muster, Drill and Training on board; 11. Charts, Publications etc. to be carried on board.
+Subsidiary 2004/068 9. ILO Maritime Conventions numbers 22, 147, 164, 178 and 180
 
-Principal Gibraltar Laws (acts):
+Knowledge and understanding of the following subjects and topics:
+
+1. A basic understanding of the role of the Gibraltar Registry of Ships; 2. Certificate of Registry & other statutory certificates/ documents; 3. Knowledge of ISM & ISPS Code; 4. Crew documents to be checked while signing on; 5. Use of Official Log Book; 6. Master's duty to report accident/ casualty; 7. Crew Agreement; Role of master as company agent; Engagement and discharge; Procedure for closing an Article of Agreement; 8. Seaman left behind; failed to return or hospitalised; 9. Death of crew member or passenger; 10. Provision of Muster, Drill and Training on board; 11. Charts, Publications etc. to be carried on board.
+
+Principal Gibraltar Laws (Acts):
 
 1. Gibraltar Merchant Shipping (Registration) Act 1993. 2. Gibraltar Merchant Shipping (Safety etc.) Act 1993.
 
 Gibraltar Regulations:
 
-1. Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers' Matters) Regulations, 2002. 2. Gibraltar Merchant Shipping (Port State Control) Regulations 2003 3. Gibraltar Merchant Shipping (Load Line) Regulations 2004. 4. Gibraltar Merchant Shipping (SOLAS) Regulations 2004.
+Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006. Gibraltar Merchant Shipping (Port State Control) Regulations 2003 Gibraltar Merchant Shipping (Load Line) Regulations 2004. Gibraltar Merchant Shipping (Survey, Certification and Safety) Regulations 2004.
 
 UK Regulations (provisions of which apply to Gibraltar ships):
 
-1. Crew Agreement, List of Crew and Discharge of Seamen: SI - 1991/ 2144 2. Repatriation: SI - 1979/ 97 3. Return of births and deaths: SI - 1979/ 1577 4. Official Log Book: SI - 1997/1511,1991/2145, 1985/1828, 1981/569. 5. Health and Safety at Work: SI - 2001/54, 1997/2962 6. Code of Safe Working Practices: SI - 1998/1838 7. Personal Protective Equipment: SI - 1999/2205 8. Entry into Dangerous Spaces: SI - 1988/1638 9. Hatches & Lifting Plant: SI - 1988/1639 10. Reporting requirement for ships carrying dangerous or polluting goods: SI - 1999/2121, 1995/2498 11. Musters, Training & Decision Support System: SI - 1999/2722
-
-UK- MSN/ MGN:
+1. Crew Agreement, List of Crew and Discharge of Seamen: SI - 1991/ 2144 2. Repatriation: SI - 1979/ 97 3. Return of births and deaths: SI - 1979/ 1577 4. Official Log Book: SI - 1997/1511,1991/2145, 1985/1828, 1981/569. 5. Health and Safety at Work: SI - 2001/54, 1997/2962 6. Code of Safe Working Practices: SI - 1998/1838 7. Personal Protective Equipment: SI - 1999/2205 8. Entry into Dangerous Spaces: SI - 1988/1638
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 1. MSN-1057: Crew Agreement, List of Crew & Discharge of Seamen 2. MSN-1175: Rescue & Salvage 3. MSN-1252: Standard Marine Navigational Vocabulary 4. MSN-1551: Merchant Ship Position Reporting 5. MSN-1732: Registration of EPIRB 6. MSN-1741: Reporting requirements for ships carrying dangerous goods or pollutants; 7. MSN-1379: Accommodation Inspection 8. MSN-1725: Port State Control 9. MGN-30: Manoeuvring information on ships 10. MGN-36: Document of Compliance for packaged dangerous goods 11. MGN-51: Radio (GMDSS) Log book 12. MGN-61: Food hygiene 13. MGN-71: Musters, drills, onboard training & decision support system 14. MGN-88: EC Directive 94/33: Health and Safety at Work and Employment of Young Persons 15. MGN-90: EC Directive 90/269: Manual Handling Operations 16. MGN-123: Certificates of Discharge 17. MGN-133: Electronic Charts 18. MGN-148: Approval of Crew Agreement 19. MGN-150: Guidance on EPIRB Registration 20. MGN-153: Mandatory Ship Reporting System 21. MGN-161: SAR; Helicopter Hi-Line Technique 22. MGN-166: Guidelines for Voyage Planning 23. MGN-175: Health & Safety.
+Subsidiary 2004/068 9. Hatches & Lifting Plant: SI - 1988/1639 10. Reporting requirement for ships carrying dangerous or polluting goods: SI - 1999/2121, 1995/2498 11. Musters, Training & Decision Support System: SI - 1999/2722
+
+UK- MSN/ MGN:
+
+1. MSN-1057: Crew Agreement, List of Crew & Discharge of Seamen 2. MSN-1175: Rescue & Salvage 3. MSN-1252: Standard Marine Navigational Vocabulary 4. MSN-1551: Merchant Ship Position Reporting 5. MSN-1732: Registration of EPIRB 6. MSN-1741: Reporting requirements for ships carrying dangerous goods or pollutants; 7. MSN-1379: Accommodation Inspection 8. MSN-1725: Port State Control 9. MGN-30: Manoeuvring information on ships 10. MGN-36: Document of Compliance for packaged dangerous goods 11. MGN-51: Radio (GMDSS) Log book 12. MGN-61: Food hygiene 13. MGN-71: Musters, drills, onboard training & decision support system 14. MGN-88: EC Directive 94/33: Health and Safety at Work and Employment of Young Persons 15. MGN-90: EC Directive 90/269: Manual Handling Operations 16. MGN-123: Certificates of Discharge 17. MGN-133: Electronic Charts 18. MGN-148: Approval of Crew Agreement 19. MGN-150: Guidance on EPIRB Registration 20. MGN-153: Mandatory Ship Reporting System 21. MGN-161: SAR; Helicopter Hi-Line Technique 22. MGN-166: Guidelines for Voyage Planning 23. MGN-175: Health & Safety.
 
 Seafarers should bear in mind that there may be newer versions of MSN/ MGN replacing any of those listed above. The title/subject and the present number should assist in identifying replacement notices.
 
@@ -52,7 +64,7 @@ ADMINISTRATIVE INSTRUCTION No. STCW- 5
 
 ADMINISTRATIVE INSTRUCTION ON ISSUE OF APPROPRIATE CERTIFICATES
 
-(Issued under Section 3 (5) of them Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers’ Matters) Regulations 2002)
+(Issued under Section 3 (5) of them Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
 
 1.  Appropriate certificates for the capacities of master, deck and engineer officers under regulations II/1, II/2, II/3, III/1, III/2, and III/3 of the Convention may be issued to those seafarers who meet the requirements of the regulations corresponding to these capacities as stipulated in relevant Gibraltar regulations. Candidates will be required to provide satisfactory proof of having obtained/achieved the requirements outlined in paragraph 3 of regulations I/9 of the Convention.
 
@@ -64,15 +76,13 @@ ADMINISTRATIVE INSTRUCTION ON ISSUE OF APPROPRIATE CERTIFICATES
 
  the training institute is duly approved and authorised by the Administration (of the country of location) to conduct similar training and assessment;
 
- the Maritime Administrator has inspected and is satisfied in respect of equipment, facilities, study materials, course content, mode of teaching, qualification/experience of the instructor and examiners,
+ the Maritime Administrator has inspected and is satisfied in respect of equipment, facilities, study materials, course content, mode of teaching, qualification/experience of the instructor and examiners, record keeping and the general standard of training and certification maintained by the institute;
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 record keeping and the general standard of training and certification maintained by the institute;
-
- the institutes operate under a quality system certified and monitored by an international organisation or the national standards institutes.
+Subsidiary 2004/068  the institutes operate under a quality system certified and monitored by an international organisation or the national standards institutes.
 
 4.  Annex – I  provides the specimen of certificate to be issued by the Maritime Administrator to an approved institute;
 
@@ -88,11 +98,7 @@ Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE
 
 Subsidiary 2004/068
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex I Form No 7
+Annex I Form No 7
 
 GOVERNMENT OF GIBRALTAR *
 
@@ -152,7 +158,9 @@ Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE
 
 1995-13
 
-Subsidiary 2004/068 TRAINING CERTIFICATE
+Subsidiary 2004/068
+
+TRAINING CERTIFICATE
 
 Details of Course:     Reg--------------------------Code ----------------------------- -- IMO model course ----------------------relating to the capacity of --------------- --Limitation, if any ---------------------level ----------------range of functions.
 
@@ -164,45 +172,39 @@ This is to certify that Mr.-----------------------------------------------------
 
 Signature of Seafarer------------------------
 
-Principal/Director
+Principal/Director       date ------------ Head of the Department………………
 
-date ------------
+Form No 9
 
-Head of the Department……………… Official Seal
+Official Seal
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068
-
-Form No 9
-
-GOVERNMENT OF GIBRALTAR *
+Subsidiary 2004/068 GOVERNMENT OF GIBRALTAR *
 
 APPROPRIATE CERTIFICATE (INCORPORATING ENDORSEMENT) ISSUED UNDER THE PROVISIONS OF THE INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS 1978, AS AMENDED IN 1995
 
 The Government of Gibraltar certifies that ................................................ has been found duly qualified in accordance with the provisions of regulation……………… of the above Convention, as amended, and has been found competent to perform the following functions at the levels specified, subject to any limitations indicated, until .............................................. or until the date of expiry of any extension of the validity of this certificate as may be shown overleaf:
 
-FUNCTIO N LEVEL LIMITATIONS APPLYING (IF ANY)
+FUNCTION LEVEL LIMITATIONS APPLYING (IF ANY)
 
 The lawful holder of this certificate may serve in the following capacity or capacities specified in the applicable safe manning requirements of the State of Gibraltar:
 
-CAPACIT Y LIMITATIONS APPLYING (IF ANY)
+CAPACITY LIMITATIONS APPLYING (IF ANY)
 
-Tanker Endorsements: The holder of this Certificate has been found duly qualified in accordance with the provisions of regulation V/1 of STCW95 for service in tankers carrying:    Oil  / Liquefied Gases /  Chemicals*
+Tanker Endorsements: The holder of this Certificate has been found duly qualified in accordance with the provisions of regulation V/1 of STCW95 for service in tankers carrying:    Oil  / Liquefied Gases /  Chemicals* *delete as required APPROPRIATE CERTIFICATE (INCORPORATING ENDORSEMENT) (Continued)
+
+Certificate No ......................................... Issued on ........................……
+
+……………………………………. Signature of duly authorised official
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 *delete as required APPROPRIATE CERTIFICATE (INCORPORATING ENDORSEMENT) (Continued)
-
-Certificate No ......................................... Issued on ........................……...
-
-……………………………………. Signature of duly authorised official
-
-………………………………………… Name of duly authorised official
+Subsidiary 2004/068 ………………………………………… Name of duly authorised official
 
 The original of this endorsement must be kept available in accordance with regulation I/2, paragraph 9, of the Convention while serving on a ship.
 
@@ -220,15 +222,9 @@ Kingdom
 
 APPROPRIATE CERTIFICATE (INCORPORATING ENDORSEMENT) (Continued)
 
-Photograp h OFFICIAL
+Certificate No ......................................... Issued on .........................……
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Certificate No ......................................... Issued on .........................……..
-
-The validity of this endorsement, and associated Tanker Endorsement (where applicable), is hereby extended until…………………………………
+The validity of this endorsement, and associated Tanker Endorsement (where applicable), is hereby extended until………………………………
 
 …………………………………………. Signature of duly authorised official
 
@@ -236,15 +232,29 @@ The validity of this endorsement, and associated Tanker Endorsement (where appli
 
 Date of revalidation .....................................
 
-The validity of this endorsement, and associated Tanker Endorsement (where applicable),  is hereby extended until………………………………...
+Photograph OFFICIAL SEAL
+
+Official Seal
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
+
+The validity of this endorsement, and associated Tanker Endorsement (where applicable),  is hereby extended until…………………………
 
 ………………………………………… Signature of duly authorised official
 
 ……………………………………. Name of duly authorised official
 
 Date of revalidation ....................................
-
-Official Seal
 
 Official Seal
 
@@ -258,7 +268,7 @@ ADMINISTRATIVE INSTRUCTION No. STCW- 6
 
 ADMINISTRATIVE INSTRUCTION ON ISSUE OF TANKER TRAINING CERTIFICATES AND ENDORSEMENTS
 
-(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers’ Matters) Regulations 2002)
+(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
 
 Certificate of Tanker Familiarisation
 
@@ -276,13 +286,13 @@ In accordance with Reg. V/1.2 of the Convention, the Maritime Administrator may,
 
 1.  Meeting the requirements for a "Certificate of Tanker Familiarisation "; and
 
+2.  At least 3 months sea-service (in addition to any sea-service performed for Familiarisation training) on the type of tanker for which the endorsement is required; and
+
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 2.  At least 3 months sea-service (in addition to any sea-service performed for Familiarisation training) on the type of tanker for which the endorsement is required; and
-
-3.Having successfully completed an approved specialised tanker training programme, which at least covered the subjects set out in:
+Subsidiary 2004/068 3.Having successfully completed an approved specialised tanker training programme, which at least covered the subjects set out in:
 
 (a) For oil tankers, section A-V/1 paragraphs 8-14 of the Code
 
@@ -291,18 +301,6 @@ Subsidiary 2004/068 2.  At least 3 months sea-service (in addition to any sea-se
 (c) For liquefied gas tankers, section A-V/1 paragraphs 22 to 34 of the Code.
 
 The Maritime Administrator may then issue an endorsement in form Annex – TE.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
 
 Annex – TFT Form No 10
 
@@ -324,6 +322,14 @@ and
 
 * delete as appropriate
 
+Official Seal
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
+
 Signature of Seafarer: __________________________________
 
 Issued in Gibraltar on __________________________________
@@ -332,17 +338,7 @@ By
 
 __________________________________
 
-* - Gibraltar is an overseas territory of the United Kingdom
-
-Official Seal
-
-Official Seal
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex – TE Form No 11
+* - Gibraltar is an overseas territory of the United Kingdom Annex – TE Form No 11
 
 GOVERNMENT OF GIBRALTAR *
 
@@ -364,6 +360,14 @@ has met the requirements of Regulation V/1.2 of the International Convention on 
 
 Oil / Liquefied Gases / Chemicals* * Delete as required
 
+Official Seal
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
+
 Tanker Endorsement No.:
 
 Issued on:
@@ -380,23 +384,25 @@ The original of this endorsement must be kept to hand in accordance with regulat
 
 * - Gibraltar is an overseas territory of the United Kingdom
 
+ADMINISTRATIVE INSTRUCTION No. STCW-7
+
+ADMINISTRATIVE INSTRUCTION ON WATCH-RATING CERTIFICATES
+
+(Issued under Section 3(5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
+
+The Maritime Administrator may issue a Watch-rating Certificate to a rating forming part of navigational watch or an engine-room watch provided the seafarer can produce evidence of :
+
+In the case of a Navigational Watchrating :
+
+a) being more than 16 years of age ; b) having completed Basic Training ; c) having performed at least 6 months sea-service on duties associated with navigational watchkeeping under the supervision of a certificated deck officer ; and
+
 Official Seal
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 ADMINISTRATIVE INSTRUCTION No. STCW-7
-
-ADMINISTRATIVE INSTRUCTION ON WATCH-RATING CERTIFICATES
-
-(Issued under Section 3(5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers’ Matters) Regulations 2002)
-
-The Maritime Administrator may issue a Watch-rating Certificate to a rating forming part of navigational watch or an engine-room watch provided the seafarer can produce evidence of :
-
-In the case of a Navigational Watchrating :
-
-a) being more than 16 years of age ; b) having completed Basic Training ; c) having performed at least 6 months sea-service on duties associated with navigational watchkeeping under the supervision of a certificated deck officer ; and d) being assessed on a check-list (Annex - IA) covering the syllabus contained in Code A-II/4 and found competent and certified by the Company Superintendent or the Master of the vessel.
+Subsidiary 2004/068 d) being assessed on a check-list (Annex - IA) covering the syllabus contained in Code A-II/4 and found competent and certified by the Company Superintendent or the Master of the vessel.
 
 In the case of an Engineroom Watchrating :
 
@@ -404,19 +410,13 @@ a) being more than 16 years of age ; b) having completed Basic Training ; c) hav
 
 The Maritime Administrator may issue a certificate in form Annex – IB, in the case of a Navigational Watchrating and in form Annex – IIB in the case of an Engineroom Watchrating.
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
-
 Annex  - IA Form No 12
 
 Form of Assessment of a seafarer for issue of a Navigational Watch-Rating Certificate
 
 Name of Company: _________________________________
 
-Contact Details: Tel: ________________ Fax:________________ E-Mail:_______________
+Contact Details: Tel: ________________ Fax:________________ E- Mail:_______________
 
 Name of Ship*: ____________________________GT: _________ kW: __________
 
@@ -430,7 +430,13 @@ The following check-list is to be used to assess the competence of the seafarer:
 
 1. Has he undertaken the following Basic Training and produced evidence to this effect in original?
 
-***Yes        *** No a. Personal Survival Techniques:
+***Yes        *** No
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 a. Personal Survival Techniques:
 
 b. Fire prevention and Fire-fighting;
 
@@ -468,17 +474,17 @@ d. Muster list duties & functions.
 
 12.  Shown ability to display flag signals as advised by OOW?
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
-
 13.  Shown ability to relieve, maintain and hand-over a watch following accepted practices and procedures?
 
 14.  Shown knowledge of man overboard signal and release of buoy, use of pyrotechnic signals carried on board?
 
 15.  Shown knowledge of the use of EPIRB and SART?
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
 
 16.  Shown knowledge of the avoidance of false- distress alerts and actions to be taken to remedy an accidental activation?
 
@@ -486,15 +492,11 @@ Subsidiary 2004/068
 
 ***Please write ‘Y’ or ‘N’ as appropriate
 
-______________          ____________    ______________       ___________ Name of Assessor          Signature              Designation Date
+______________          ____________    ______________       ___________ Name of Assessor Signature              Designation Date
 
 Stamp
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex – IB Form No 13
+Annex – IB Form No 13
 
 Serial No…………………….
 
@@ -504,7 +506,11 @@ Navigational Watch-Rating Certificate
 
 This is to certify that _________________________________
 
-Date of Birth: ________ Discharge Book/ Passport Number**: __________ **Delete as required
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 Date of Birth: ________ Discharge Book/ Passport Number**: __________ **Delete as required
 
 has successfully passed the competency test for the function of Navigation at Support level as outlined in Code A-II/4 and met other requirements of Regulation II/4 of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended in 1995 (STCW95).
 
@@ -518,13 +524,7 @@ By
 
 __________________________________
 
-(STAMP) * - Gibraltar is an overseas territory of the United Kingdom
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex – IIA Form No 14
+(STAMP) * - Gibraltar is an overseas territory of the United Kingdom Annex – IIA Form No 14
 
 Form of Assessment of a seafarer for issue of an Engine-Room Watch- Rating Certificate
 
@@ -540,7 +540,9 @@ Date of Birth: _____________   Discharge Book/ Passport Number**:  ____________ 
 
 The following check-list is to be used to assess the competence of the seafarer:
 
-1.  Has he undertaken the following Basic Training and produced evidence to this effect in original? ***Yes      ***No a. Personal Survival Techniques:
+1.  Has he undertaken the following Basic Training and produced evidence to this effect in original
+
+***Yes      ***No a. Personal Survival Techniques:
 
 b. Fire prevention and Fire-fighting;
 
@@ -548,7 +550,11 @@ c. Elementary First-Aid;
 
 d. Personal Safety & Social responsibility.
 
-2.  Has he undertaken Familiarisation Training?
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 2.  Has he undertaken Familiarisation Training?
 
 a. General layout of the ship & escape route;
 
@@ -584,25 +590,23 @@ d. Pumps
 
 11.  Does he have the ability to carry out routine checks and lubrication as necessary?
 
+12.  Does he understand various emergencies in the Engine- room?
+
+13.  Does he have knowledge of hand-over / relief procedure?
+
+14.  Does he have an awareness of environmental protection and knowledge of procedures to be followed?
+
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
 Subsidiary 2004/068
 
-12.  Does he understand various emergencies in the Engine-room?
+____________         __________       __________         _______ Name of Assessor                 Signature Designation           Date
 
-13.  Does he have knowledge of hand-over / relief procedure?
+Stamp
 
-14.  Does he have an awareness of environmental protection and knowledge of procedures to be followed?
-
-____________         __________       __________         _______ Name of Assessor                 Signature Designation Date Stamp
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex – IIB Form No 15
+Annex – IIB Form No 15
 
 Serial No…………………….
 
@@ -616,7 +620,13 @@ Date of Birth: _________Discharge Book/ Passport Number**: __________ **Delete a
 
 has successfully passed the competency test for the function of Engine- Room at Support level as outlined in Code A-III/4 and met other requirements of Regulation III/4 of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978, as amended in 1995 (STCW95).
 
-CAPACITY LIMITATIONS APPLYING Rating forming part of a watch in a manned engine-room or designated to perform duties in a periodically unmanned engine-room None
+CAPACITY LIMITATIONS APPLYING
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 Rating forming part of a watch in a manned engine-room or designated to perform duties in a periodically unmanned engine-room None
 
 Signature of Seafarer: __________________________________
 
@@ -626,13 +636,13 @@ By
 
 __________________________________
 
-(STAMP)
+(STAMP) * - Gibraltar is an overseas territory of the United Kingdom
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 * - Gibraltar is an overseas territory of the United Kingdom
+Subsidiary 2004/068
 
 ADMINISTRATIVE INSTRUCTION No. STCW-8
 
@@ -656,13 +666,13 @@ The Maritime Administrator may, at his discretion, issue a seafarer with a “Ce
 
 7.  A valid Certificate of Medical Fitness.
 
-Application in the prescribed form at Annex A together with fees and supporting documents should be sent to the Maritime Administrator, Registry of Ships, Duke of Kent House, Cathedral Square, Gibraltar.
-
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 The Certificate of Qualification as an Able Seaman shall be issued in the form at Annex D.
+Subsidiary 2004/068 Application in the prescribed form at Annex A together with fees and supporting documents should be sent to the Maritime Administrator, Registry of Ships, Duke of Kent House, Cathedral Square, Gibraltar.
+
+The Certificate of Qualification as an Able Seaman shall be issued in the form at Annex D.
 
 Annex-A Form No 16
 
@@ -684,23 +694,19 @@ Particulars of Nav. W/Rating Certificate:
 
 Particulars of CPSC & RB:
 
-Particulars of RDH Qualification:
+Particulars of RDH
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068
+Subsidiary 2004/068 Qualification:
 
 Evidence of sea- service:
 
 ----------------------------------                                          ----------- ---------------- Signature of Seafarer Date & Place
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex-B
+Annex-B
 
 SYLLABUS FOR EFFICIENT DECK HAND (QUALIFYING EXAMINATION FOR CERTIFICATION AS ABLE SEAMAN)
 
@@ -722,17 +728,17 @@ SYLLABUS FOR EFFICIENT DECK HAND (QUALIFYING EXAMINATION FOR CERTIFICATION AS AB
 
 9.  Slinging of stages and bosun’s chair;
 
-10.  Securing for bad weather;
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 10.  Securing for bad weather;
 
 11. Knowledge of the importance of enclosed spaces, watertight and weathertight arrangement, opening and closing of hatches, openings on the shell, bow and stern;
 
 12.  Safe working practices including knowledge of safety signs, protective clothing equipment, working aloft and outboard, enclosed spaces, permit to work.
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex-C Form No 17
+Annex-C Form No 17
 
 Name and address of Training Institute with Tel  / Fax / E- mail
 
@@ -752,7 +758,11 @@ Passport / CDC:
 
 has successfully completed a course and passed the examination as an Efficient Deck Hand
 
-Signature of the seafarer
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 Signature of the seafarer
 
 Name & signature of the Training Provider Official Stamp & date
 
@@ -790,15 +800,21 @@ By
 
 __________________________________
 
-STAMP
-
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
 Subsidiary 2004/068
 
+STAMP
+
 * - Gibraltar is an overseas territory of the United Kingdom
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
 
 ADMINISTRATIVE INSTRUCTION No. STCW-9
 
@@ -834,11 +850,7 @@ Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE
 
 Subsidiary 2004/068
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Form No 19
+Form No 19
 
 GOVERNMENT OF GIBRALTAR *
 
@@ -866,11 +878,17 @@ Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE
 
 1995-13
 
+Subsidiary 2004/068
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
 Subsidiary 2004/068 ADMINISTRATIVE INSTRUCTION No. STCW-10
 
 ADMINISTRATIVE INSTRUCTION ON CADET TRAINING PROGRAMME
 
-(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers’ Matters) Regulations 2002)
+(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
 
 In order to be eligible to undertake training and assessment leading to an appropriate certificate under regulation II/1 or III/1 of the Convention, it will be necessary to meet the following requirements:
 
@@ -904,7 +922,9 @@ Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE
 
 1995-13
 
-Subsidiary 2004/068 Sea-service: At least 18 months as Deck Cadet of which 6 months (of the last 12 months) on Navigational Bridge associated with Watchkeeping duties under supervision of a certificated Deck Officer while maintaining IMO or MNTB Cadet Record Book
+Subsidiary 2004/068
+
+Sea-service: At least 18 months as Deck Cadet of which 6 months (of the last 12 months) on Navigational Bridge associated with Watchkeeping duties under supervision of a certificated Deck Officer while maintaining IMO or MNTB Cadet Record Book
 
 Basic Training: 1. Personal Survival Techniques
 
@@ -914,13 +934,17 @@ Basic Training: 1. Personal Survival Techniques
 
 4. Personal Safety & Social Responsibilities
 
-Certificate of Medical Fitness.
-
-Appropriate Certificate (Certificate of Competency) as Officer in charge of an Engineering Watch (Watchkeeping Engineer Officer) under regulation III/1.
+Certificate of Medical Fitness. Appropriate Certificate (Certificate of Competency) as Officer in charge of an Engineering Watch (Watchkeeping Engineer Officer) under regulation III/1.
 
 Oral Examination: For Watchkeeping Engineer Officer
 
 College course (of about 6 months): To successfully complete syllabus contained in A-III/1 (may be part of an HND programme) during which the seafarer will also complete short Ancillary courses in - 1. CPSC&RB 2. Advanced Fire-fighting 3. Medical First-Aid
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
 
 Sea-service: Minimum 9 months as Assistant Engineer while maintaining Record of Training in IMO/ MNTB/ ISF training record book.
 
@@ -934,12 +958,6 @@ Basic Training : 1. Personal Survival Techniques
 
 Workshop Training (About 18 months)* : Mechanical & Electrical
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
-
 Medical Fitness Duration of Workshop (Mechanical and Electrical) training
 
 The total period of training leading to Watchkeeping Engineer Officer's certification is 30 months as per the Convention. This includes mandatory Workshop training, 6 months’ shipboard training as Assistant Engineer and 6 months college course leading to final certification.
@@ -952,6 +970,12 @@ For a candidate holding "A" level in Mathematics, Physics and IT or OND/HND in M
 
 For the holder of a Degree in Mechanical/ Power/ Electrical Engineering reduce by 9 months i.e. 9 months Workshop training;
 
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
+
 For the holder of a Degree in Naval Architecture reduce by 12 months i.e. 6 months' Workshop training.
 
 Apprenticeship in Marine Engineering (Workshop Training) As part of Code A-III/1 of STCW95 requirement
@@ -962,11 +986,7 @@ Apprenticeship in Marine Engineering (Workshop Training) As part of Code A-III/1
 
 3. Welding shop – Flame cutting, All types of welding (including overhead welding), brazing, etc. - 3 weeks
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 4. Steel fabrication – Heavy fabrication work, fabrication tubes, chimneys, tank making, ducting, repairs to ship’s structures etc. - 5 weeks
+4. Steel fabrication – Heavy fabrication work, fabrication tubes, chimneys, tank making, ducting, repairs to ship’s structures etc. - 5 weeks
 
 5. Boiler work – Repairs to various types of boilers – Exhaust boilers, Cochran boiler, Composite boiler etc. - 3 weeks
 
@@ -980,7 +1000,13 @@ Subsidiary 2004/068 4. Steel fabrication – Heavy fabrication work, fabrication
 
 10. Diesel shop – Maintenance, repair and assembly of diesel engines, calibration, testing of fuel injection equipment, alignment and testing of marine diesel engines. - 10 weeks
 
-11. Electric/ Electronic – Wiring of ship, repairing of overhead crane, galley equipment, different types of starters, installation of various types of electric/ electronic fittings, repairing of electronic gadgets, repairing of all types of AC/ DC motors and generators including armature windings. - 10 weeks
+11. Electric/ Electronic – Wiring of ship, repairing of overhead crane, galley equipment, different types of starters, installation of various types of electric/ electronic fittings, repairing of electronic gadgets,
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 repairing of all types of AC/ DC motors and generators including armature windings. - 10 weeks
 
 12. Ship repairs – Work on board ships, Repairing main and auxiliary engines, Turbo generators, Turbines, Pumps, Valves etc. - 15 weeks
 
@@ -990,29 +1016,25 @@ Subsidiary 2004/068 4. Steel fabrication – Heavy fabrication work, fabrication
 
 15. Deck machinery – Repair and maintenance of windlass, winch (steam, electrical, hydraulic, electro-hydraulic and pneumatic), Steering gear etc - 3 weeks
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+The workshop training should be of 78 weeks (18 months) duration. However, the period of training may be reduced depending on the background of the individual apprentice.
 
-1995-13
-
-Subsidiary 2004/068 The workshop training should be of 78 weeks (18 months) duration. However, the period of training may be reduced depending on the background of the individual apprentice.
-
-The number of weeks shown against various task groups reflect the importance and intensity of training required.  However, the approved workshop or shipyard may follow a flexible approach to achieve the ultimate goal.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 ADMINISTRATIVE INSTRUCTION No. STCW-11
+The number of weeks shown against various task groups reflect the importance and intensity of training required.  However, the approved workshop or shipyard may follow a flexible approach to achieve the ultimate goal. ADMINISTRATIVE INSTRUCTION No. STCW-11
 
 ADMINISTRATIVE INSTRUCTION ON SEAFARER’SMEDICAL FITNESS CERTIFICATE
 
-(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers’ Matters) Regulations 2002)
+(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
 
 For the purpose of the requirements of Regulation1/9 of the international Convention on standards of Training, Certification and Watchkeeping for Seafarers 1978 as amended in 1995 (STCW 95) in respect of standards of medical fitness for service on Gibraltar ships, the provisions of the following international documents shall apply;
 
 1.  ILO Convention No. 73 of 1946 on Medical Examination (Seafarers)
 
 2. ILO Convention No. 147 of 1976 on Merchant Shipping (Minimum Standards)
+
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068
 
 3. ILO/WHO/D.2/1997 “Guidance for conducting Pre-sea and Periodic Medical Fitness Examination for Seafarers”
 
@@ -1022,13 +1044,7 @@ The Maritime Administrator shall, in consultation with the Chief Medical Officer
 
 The Maritime Administrator may accept a Seafarer’s Certificate of Medical Fitness issued by the Administration of the seafarer’s nationality provided it is issued in compliance with relevant IMO and ILO instruments.
 
-The form to be used for the issue of a Seafarer’s Certificate of Medical Fitness is contained in the Annex to this Administrative Instruction.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex Form No 20
+The form to be used for the issue of a Seafarer’s Certificate of Medical Fitness is contained in the Annex to this Administrative Instruction. Annex Form No 20
 
 GOVERNMENT OF GIBRALTAR *
 
@@ -1038,9 +1054,13 @@ Name of the Seafarer------------------------------------------------------------
 
 Date of birth--------------------------CDC/passport No.----------------------------- --
 
-Nationality--------------------------------------------has been medically examined in compliance with IMO/ILO/WHO guidelines and found to be medically fit for service on merchant Ships.  However, the seafarer and the employer should take note of the following caution/conditions:
+Nationality------------------------------------------has been medically examined in compliance with IMO/ILO/WHO guidelines and found to be medically fit for service on merchant Ships.  However, the seafarer and the employer should take note of the following caution/conditions:
 
-Signature of the Seafarer-----------------------------------
+Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+
+1995-13
+
+Subsidiary 2004/068 Signature of the Seafarer-----------------------------------
 
 Date of Issue -------------
 
@@ -1068,7 +1088,7 @@ Subsidiary 2004/068 ADMINISTRATIVE INSTRUCTION No. STCW-12
 
 ADMINISTRATIVE INSTRUCTION ON MAINTENANCE OF RECORDS AND REGISTERS
 
-(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers’ Matters) Regulations 2002)
+(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
 
 In order to comply with the requirements of Regulation I/9 (paragraph 4) of the International Convention on Standards of Training Certification and Watchkeeping for Seafarers 1978 as amended in 1995 (STCW95), records and registers shall be maintained of all certificates and endorsements for masters, officers and, as appropriate ratings, which are issued, have expired or have been revalidated, suspended, cancelled or reported lost or destroyed and of dispensations issued.
 
@@ -1084,130 +1104,4 @@ Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE
 
 1995-13
 
-Subsidiary 2004/068 institute shall provide all information relating to training and certification to Administration and the companies. Annex
-
-DEVELOPMENT OF A DATABASE FOR CERTIFICATE REGISTRATION
-
-1.  In implementing the requirement in paragraph 4.1 of regulation I/9 of the revised STCW Convention for the maintenance of a register of certificates and endorsements, a standard database is not necessary provided that all the relevant information is recorded and available.
-
-2. The following items of information should be recorded and available either on paper or electronically in accordance with regulation I/9, as a minimum:
-
-1. Status of certificate :
-
-Valid Suspended Cancelled Reported lost Destroyed
-
-With a record of changes to status to be kept, including dates of changes.
-
-2. Certificate details:
-
-Seafarer’s name Date of birth Nationality Sex Preferably a photograph Relevant document number Date of issue Date of expiry Last revalidation date Details of dispensation(s)
-
-3. Competency details:
-
-STCW competency standard (e.g. regulation II/1) Capacity Function Level of responsibility Endorsements Limitations
-
-4. Medical details:
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Date of issue of latest medical certificate relating to the issue or revalidation of the appropriate certificate.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 ADMINISTRATIVE INSTRUCTION No. STCW-13
-
-ADMINISTRATIVE INSTRUCTION ON THE ISSUE OF A SEAFARER’S DISCHARGE BOOK
-
-(Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers’ Matters) Regulations 2002)
-
-A seafarer may be issued with a Gibraltar Discharge Book if s/he has not been issued with such a document by his/ her own national Administration or when the issuing Administration does not allow recording of service performed on non-national ships. The seafarer will be required to meet the following requirements:
-
-1. be between 18 and 55 years of age; 2. be medically fit; 3. be the holder of a Basic Training Certificate; 4. produce evidence of being or to be employed on a Gibraltar registered ship; 5. have the relevant qualification/ certificate, if required, for the intended capacity; 6. produce (certified by a British Consul or a British Commissioner for Oaths) a copy of a passport as proof of nationality and date of birth;
-
-Applications in the form prescribed at the Annex to this Administrative Instruction and the prescribed fees should be sent to the Maritime Administrator. Three copies of passport size photographs with full frontal/ facial view (with no hats/ caps or dark glasses) should be sent with the application. All copies of the photographs shall be identical and should bear sufficient resemblance with the picture appearing in the passport.
-
-Masters of ships and the Company under whose management the ships operate may take note of the fact that the period of sea-service (with no remark on quality of service or conduct) performed by the seafarer, whether on a Gibraltar registered ship or not, may be duly recorded in the Discharge Book. Such entries should contain the Name of the ship, Port of Registry, IMO Number, GT, Power in kW, Capacity, Date and Place of engagement and the Date and Place of discharge.
-
-Seafarers should bear in mind that a separate testimonial from the company or the ship (master/ chief engineer) may be necessary to provide further evidence of requirements for taking higher courses or examinations. Such
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 testimonial should also include details of the type of ship, such as, tanker (oil/ chemical/ gas) or passenger ship or ro-ro passenger ship or High-Speed Craft etc. and the nature of duties performed on such ships.
-
-The entries in the Discharge Book and testimonials should be stamped with the official seal of the ship or the company.
-
-Details of training during sea-service performed by Cadets (Deck or Engineering) must also be recorded in the Cadet Record Book of IMO or ISF or UK-MNTB. Details of training specially that associated with Bridge Watchkeeping duties performed by Deck Rating desirous of taking Deck Officer's examination must be recorded in the ISF Training Record Book.
-
-A Discharge Book issued by the Maritime Administrator shall contain in the first part the details of the seafarer such as the Name, Sex, Date and place of birth, Height in centimetres, Nationality, Identification mark, Passport No., Date of issue of the Passport; and in the second part there will be provision to enter particulars of the ship, capacity in which served and the period of service.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Annex – A Form No 21
-
-APPLICATION FOR DISCHARGE BOOK
-
-Name of Applicant:.……………………………………….. Sex…..………..
-
-Date of birth……………………..
-
-Place of birth……………………………
-
-Height (in cm.).………………………   Nationality………………………..
-
-Identification Mark ……………………………………………………………
-
-Passport No……………………….... Date of issue:………………………….
-
-Details of Basic Training: ……………………………………………………………………………… … ……………………………………………………………………………… … ……………………………………………………………………………… …
-
-Details of Medical Fitness:…………………………………………………….
-
-Any medical condition………………………………………………………...
-
-Company providing employment……………………………………………... ……………………………………………………………………………… …
-
-Name of Gibraltar ship on which employed or to be employed………………
-
-Capacity in which employed or to be employed………………………………
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 Details of other qualification/ certificate/ experience………………………… ……………………………………………………………………………… … ……………………………………………………………………………… …
-
-Signature of the Applicant                                                         Date and Place
-
-Applications duly filled in along with supporting documents and the prescribed fees and photographs (as required by Administrative Instruction 13) should be sent to the Maritime Administrator, Registry of Ships, Watergate House, 2/8 Casemates Square, Gibraltar.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 ADMINISTRATIVE INSTRUCTION No. STCW-14
-
-QUALIFICATION / CERTIFICATION REQUIRED FOR OPERATION OF A DOMESTIC VESSESL
-
-(Issued under section 3(5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and Regulation 37(1) of the Gibraltar Merchant Shipping (Manning, Training, Certification and Related Seafarers' Matters) Regulations 2002)
-
-The provisions of the International Convention on Standards of Training, Certification and Watch-keeping for Seafarers 1978 as amended apply to sea-going vessels insofar as they relate to the Deck Department i.e. the provision of regulation II of the Convention. The provisions of regulation III (Engine Department) of the Convention apply to those vessels that have a propulsion power of 750 kW and above.
-
-The purpose of this Administrative Instruction is to specify the training and certification requirements for the operation of commercially-operated non deep sea-going vessels and in respect of Engineering qualifications, for vessels which are commercially operated with propulsion power of less than 750 kW that may be engaged in domestic or international voyages.
-
-Boat-master's Certificate: Every person who intends to take charge of a vessel operated commercially within Gibraltar waters must hold this qualification. The qualification is also a requirement for operating vessels over 12 metres in length owned or operated by a Government Department or any Agency or Authority under it within Gibraltar waters.
-
-Marine Engine Operator's Certificate: Every person who intends to take charge of the operation of machinery on a vessel operated commercially with propulsion power of less than 750 kW must hold this qualification.
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
+Subsidiary 2004/068 institute shall provide all information relating to training and certification to Administration and the companies.
