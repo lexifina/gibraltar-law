@@ -10,7 +10,7 @@ ANIMALS AND BIRDS RULES 2004
 
 1.10.2004
 
-Amending enactments Relevant current provisions Commencement date 2006/045 Corrigenda
+Amending enactments Relevant current provisions Commencement date 2006/045 Corrigenda 2006/129 r. 23A 16.11.2006
 
 Implementing: Regulation (EC) No 998/2003
 
@@ -54,7 +54,7 @@ Animals ANIMALS RULES AND BIRDS 2004
 
 1948-30
 
-Subsidiary 2004/097 21. Fees for inspection and copies of dog register. 22. Information to be provided to the Environmental Agency 23. Penalty for contravening rules.
+Subsidiary 2004/097 21. Fees for inspection and copies of dog register. 22. Information to be provided to the Environmental Agency 23. Penalty for contravening rules. 23A. Fixed Penalty Offences.
 
 PART V
 
