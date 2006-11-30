@@ -26,6 +26,4 @@ PARTICULARS TO BE SUBMITTED BY OCCUPIER OR INTENDING OCCUPIER OF A FACTORY
 
 (b)  Where persons are intended to be employed in shifts, the maximum number intended to be employed at any one time.
 
-Factories
-
-1956-12
+_____________________

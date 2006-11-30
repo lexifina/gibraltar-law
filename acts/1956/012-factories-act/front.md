@@ -22,9 +22,11 @@ Act. 1977-31 s.5(3), (6)
 
 1991-12 ss. 6(1), (4), 9, 23(2), 39(1), 44(3), 45(3), 58(1)(a), (2)(f)-(g), (3)- (4), 59(5), 64, 65(2)-(3), 73(2)- (3), 77(1), 78(1)-(3), (6), 79(1), 81(1)-(2), 82-84
 
-17.8.1995 LN. 1996/010 ss. 6(1), (6), 58(2)(g)-(h) 25.1.1996 1996/032 s. 80(2A) 29.2.1996 Act. 1997-01 ss. 6(1), (6), 94-104, Sch.1A 1.6.1997 1997-22 ss. 105-112, Sch. 1B 5.11.1998 1999-16 ss. 27-30, 60(1), (3), 62(1)(c)(iii) 29.7.1999
+17.8.1995 LN. 1996/010 ss. 6(1), (6), 58(2)(g)-(h) 25.1.1996 1996/032 s. 80(2A) 29.2.1996 Act. 1997-01 ss. 6(1), (6), 94-104, Sch.1A 1.6.1997 1997-22 ss. 105-112, Sch. 1B 5.11.1998 1999-16 ss. 27-30, 60(1), (3), 62(1)(c)(iii) 29.7.1999 2006-26 ss. 6, 58(1), 94-104, Sch. 1A 30.11.20061
 
-Transposing: Directive 86/188/EEC Directive 87/217/EEC Directive 89/391/EEC
+Transposing: Directive 86/188/EEC Directive 87/217/EEC Directive 89/391/EEC Directive 2003/10/EC
+
+1 Commencement notice LN. 2006/135
 
 Factories
 
@@ -92,23 +94,23 @@ Factories
 
 80. Offences. 81. Penalty for offences for which no express penalty provided. 82. Power of court to order cause of contravention to be remedied. 83. Penalty in case of death or injury. 84. Forgery of certificates, false entries and false declarations. 85. Penalty on persons actually committing offence for which occupier is liable. 86. Power of occupier or owner to exempt himself from liability on conviction of the actual offender. 87. Proceedings against persons other than occupiers or owners. 88. Prosecution of offences. 89. Appeal from orders made on complaint. 90. Special provisions as to evidence. 91. Service and sending of documents, etc. 92. Power to modify agreements. 93. Power to apportion expenses.
 
-PART XIII. PROTECTION OF WORKERS FROM THE RISKS RELATED TO THE EXPOSURE TO NOISE AT WORK.
+PART XIII. Repealed
 
-94. Disapplication of duties. 95. Assessment of exposure. 96. Assessment records. 97. Reduction of risk of hearing damage. 98. Reduction of noise exposure. 99. Ear Protection. 100. Ear protection zones. 101. Maintenance and use of equipment. 102. Provision of information to employees. 103. Duties of employers regarding places of work and articles for use at work. 104. Exemptions.
+94 – 104 repealed
 
 PART XIV. PREVENTION AND REDUCTION OF ASBESTOS FIBRE DISCHARGES.
 
-105. Interpretation. 106. Relevant authorisations. 107. Prevention and reduction of pollution by asbestos discharges into the natural environment. 108. Airborne discharges. 109. Manufacture of asbestos cement.
-
-Factories
-
-1956-12 110. Manufacture of asbestos paper and board. 111. Monitoring for compliance: effluent. 112. Monitoring for compliance: airborne discharges.
+105. Interpretation. 106. Relevant authorisations. 107. Prevention and reduction of pollution by asbestos discharges into the natural environment. 108. Airborne discharges. 109. Manufacture of asbestos cement. 110. Manufacture of asbestos paper and board. 111. Monitoring for compliance: effluent. 112. Monitoring for compliance: airborne discharges.
 
 SCHEDULE 1. Particulars to be submitted by occupier or intending occupier of a factory.
 
-SCHEDULE 1A. Part I - Daily personal exposure of employees Part II - Weekly average of daily personal noise exposure of employees Part III - Compulsory sign demarcating ear protection zones
+SCHEDULE 1A. Repealed
 
 SCHEDULE 1B. Method of sampling analysis of air discharges.
+
+Factories
+
+1956-12
 
 SCHEDULE 2. Processes requiring provision of suitable goggles or effective screens.
 
