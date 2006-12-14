@@ -1,8 +1,6 @@
-ANNEX ON THE PROTECTION OF CONFIDENTIAL INFORMATION ("CONFIDENTIALITY ANNEX") CONTENTS
+ANNEX ON THE PROTECTION OF CONFIDENTIAL INFORMATION (“CONFIDENTIALITY ANNEX”) CONTENTS
 
-Weapons of Mass Destruction
-
-2004-19 A. GENERAL PRINCIPLES FOR THE HANDLING OF CONFIDENTIAL INFORMATION.
+A. GENERAL PRINCIPLES FOR THE HANDLING OF CONFIDENTIAL INFORMATION.
 
 1.  The obligation to protect confidential information shall pertain to the verification of both civil and military activities and facilities. Pursuant to the general obligations set forth in Article VIII, the Organization shall:
 
@@ -22,11 +20,7 @@ Weapons of Mass Destruction
 
 (b) All data and documents obtained by the Technical Secretariat shall be evaluated by the appropriate unit of the Technical Secretariat in order to establish whether they contain confidential information. Data required by States Parties to be assured of the continued compliance with this Convention by other States Parties shall be routinely provided to them. Such data shall encompass:
 
-(i) The initial and annual reports and declarations provided by States Parties under Articles III, IV, V and VI, in
-
-Weapons of Mass Destruction
-
-2004-19 accordance with the provisions set forth in the Verification Annex;
+(i) The initial and annual reports and declarations provided by States Parties under Articles III, IV, V and VI, in accordance with the provisions set forth in the Verification Annex;
 
 (ii) General reports on the results and effectiveness of verification activities; and
 
@@ -42,11 +36,7 @@ Weapons of Mass Destruction
 
 (d) The level of sensitivity of confidential data or documents shall be established, based on criteria to be applied uniformly in order to ensure their appropriate handling and protection. For this purpose, a classification system shall be introduced, which by taking account of relevant work undertaken in the preparation of this Convention shall provide for clear criteria ensuring the inclusion of information into appropriate categories of confidentiality and the justified durability of the confidential nature of information. While providing for the necessary flexibility in its implementation the classification system shall protect the rights of States Parties providing confidential information. A classification system shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21 (i);
 
-(e) Confidential information shall be stored securely at the premises of the Organization. Some data or documents may
-
-Weapons of Mass Destruction
-
-2004-19 also be stored with the National Authority of a State Party. Sensitive information, including, inter alia, photographs, plans and other documents required only for the inspection of a specific facility may be kept under lock and key at this facility;
+(e) Confidential information shall be stored securely at the premises of the Organization. Some data or documents may also be stored with the National Authority of a State Party. Sensitive information, including, inter alia, photographs, plans and other documents required only for the inspection of a specific facility may be kept under lock and key at this facility;
 
 (f) To the greatest extent consistent with the effective implementation of the verification provisions of this Convention, information shall be handled and stored by the Technical Secretariat in a form that precludes direct identification of the facility to which it pertains;
 
@@ -64,11 +54,7 @@ B. EMPLOYMENT AND CONDUCT OF PERSONNEL IN THE TECHNICAL SECRETARIAT.
 
 6.  Each position in the Technical Secretariat shall be governed by a formal position description that specifies the scope of access to confidential information, if any, needed in that position.
 
-7.  The Director-General, the inspectors and the other members of the staff shall not disclose even after termination of their functions to any unauthorized persons any confidential information coming to their knowledge in the performance of their official duties. They shall not
-
-Weapons of Mass Destruction
-
-2004-19 communicate to any State, organization or person outside the Technical Secretariat any information to which they have access in connection with their activities in relation to any State Party.
+7.  The Director-General, the inspectors and the other members of the staff shall not disclose even after termination of their functions to any unauthorized persons any confidential information coming to their knowledge in the performance of their official duties. They shall not communicate to any State, organization or person outside the Technical Secretariat any information to which they have access in connection with their activities in relation to any State Party.
 
 8.  In the discharge of their functions inspectors shall only request the information and data which are necessary to fulfil their mandate. They shall not make any records of information collected incidentally and not related to verification of compliance with this Convention.
 
@@ -86,9 +72,7 @@ C. MEASURES TO PROTECT SENSITIVE INSTALLATIONS AND PREVENT DISCLOSURE OF CONFIDE
 
 14.  Inspection teams shall be guided by the principle of conducting on-site inspections in the least intrusive manner possible consistent with the effective and timely accomplishment of their mission. They shall take into consideration proposals which may be made by the State Party receiving the inspection, at whatever stage of the inspection, to ensure that sensitive equipment or information, not related to chemical weapons, is protected.
 
-Weapons of Mass Destruction
-
-2004-19 15.  Inspection teams shall strictly abide by the provisions set forth in the relevant Articles and Annexes governing the conduct of inspections. They shall fully respect the procedures designed to protect sensitive installations and to prevent the disclosure of confidential data.
+15.  Inspection teams shall strictly abide by the provisions set forth in the relevant Articles and Annexes governing the conduct of inspections. They shall fully respect the procedures designed to protect sensitive installations and to prevent the disclosure of confidential data.
 
 16.  In the elaboration of arrangements and facility agreements, due regard shall be paid to the requirement of protecting confidential information. Agreements on inspection procedures for individual facilities shall also include specific and detailed arrangements with regard to the determination of those areas of the facility to which inspectors are granted access, the storage of confidential information on-site, the scope of the inspection effort in agreed areas, the taking of samples and their analysis, the access to records and the use of instruments and continuous monitoring equipment.
 
@@ -102,12 +86,8 @@ D. PROCEDURES IN CASE OF BREACHES OR ALLEGED BREACHES OF CONFIDENTIALITY.
 
 20.  The Director-General shall impose appropriate punitive and disciplinary measures on staff members who have violated their obligations to protect confidential information. In cases of serious breaches, the immunity from jurisdiction may be waived by the Director-General.
 
-21. States Parties shall, to the extent possible, cooperate and support the Director-General in investigating any breach or alleged breach of
-
-Weapons of Mass Destruction
-
-2004-19 confidentiality and in taking appropriate action in case a breach has been established.
+21. States Parties shall, to the extent possible, cooperate and support the Director-General in investigating any breach or alleged breach of confidentiality and in taking appropriate action in case a breach has been established.
 
 22.  The Organization shall not be held liable for any breach of confidentiality committed by members of the Technical Secretariat.
 
-23.  For breaches involving both a State Party and the Organization, a "Commission for the settlement of disputes related to confidentiality", set up as a subsidiary organ of the Conference, shall consider the case. This Commission shall be appointed by the Conference. Rules governing its composition and operating procedures shall be adopted by the Conference at its first session.
+23.  For breaches involving both a State Party and the Organization, a “Commission for the settlement of disputes related to confidentiality”, set up as a subsidiary organ of the Conference, shall consider the case. This Commission shall be appointed by the Conference. Rules governing its composition and operating procedures shall be adopted by the Conference at its first session.

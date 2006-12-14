@@ -24,9 +24,7 @@ A.  TOXIC CHEMICALS: CAS registry number
 
 5. Lewisites:Lewisite 1: (541-25-3)
 
-Weapons of Mass Destruction
-
-2004-19 2-Chlorovinyldichloroarsine Lewisite2:Bis(2-chlorovinyl) chloroarsine Lewisite 3: Tris (2-chlorovinyl) arsine
+2-Chlorovinyldichloroarsine Lewisite2:Bis(2-chlorovinyl) chloroarsine Lewisite 3: Tris (2-chlorovinyl) arsine
 
 (40334-69-8) (40334-70-1)
 
@@ -66,12 +64,6 @@ NOTES
 
 2. In this Schedule the reference to the CAS registry is to the chemical abstract service registry.
 
-Weapons of Mass Destruction
-
-2004-19 3. This Schedule must be read subject to the following proposition, which is based on a note in the Convention:
+3. This Schedule must be read subject to the following proposition, which is based on a note in the Convention:
 
 Where reference is made to groups of dialkylated chemicals, followed by a list of alkyl groups in parentheses, all chemicals possible by all possible combinations of alkyl groups listed in the parentheses must be taken to be listed in the Schedule.
-
-Weapons of Mass Destruction
-
-2004-19

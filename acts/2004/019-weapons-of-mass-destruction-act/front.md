@@ -1,28 +1,22 @@
-Weapons of Mass Destruction
-
-2004-19
-
-WEAPONS OF MASS DESTRUCTION ACT 2004
+Weapons of Mass Destruction Act 2004
 
 Principal Act
 
-Act. No. 2004-19 Commencement (LN. 2004/105) 4.11.2004
+Act. No. 2004-19 Commencement (LN.2004/105) 4.11.2004
 
 Assent 17.8.2004
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.    2004/082 Corrigendum
+LN. 2004/082 Corrigendum
 
-Act. 2005-38 ss.2, 7(3), 18(2)(b) and (c), 35(7), 52(1) and (3), Sch.2 Part A
+Act. 2005-38 ss.2, 7(3), 18(2)(b)-(c), 35(7), 52(1), (3), Sch.2 23.5.2005 2006-35 s. 10A, Sch.4 14.12.2006
 
-23.5.2005
+ARRANGEMENT OF SECTIONS
 
-Weapons of Mass Destruction
+Section
 
-2004-19 ARRANGEMENT OF SECTIONS
-
-Sections PART I Preliminary
+PART I Preliminary
 
 1. Title and commencement. 2. Interpretation. PART II Biological weapons
 
@@ -30,11 +24,9 @@ Sections PART I Preliminary
 
 PART III Chemical weapons
 
-9. Chemical weapons. 10. Use etc. of chemical weapons. 11. Application of section 10. 12. Suspicious objects. 13. Power to remove or immobilise objects. 14. Power to destroy removed objects. 15. Power to enter premises and destroy objects. 16. Compensation for destruction. 17. Offences relating to destruction, etc. 18. Use of objects for permitted purposes and destruction, etc. 19. Premises or equipment for producing chemical weapons. 20. Suspicious equipment or buildings. 21. Notice requiring destruction or alteration. 22. Power where notice not complied with. 23. Position where no notice can be served. 24. Compensation for destruction or alteration. 25. Offences relating to destruction etc. 26. Destruction, etc: Supplementary. 27. Restriction on use etc. 28. Licences. 29. Information for the purposes of the Act. 30. Information and records for the purposes of the Chemical Weapons Convention. 31. Identifying persons who have information.
+9. Chemical weapons. 10. Use etc. of chemical weapons. 10A. Import of chemicals. 11. Application of section 10. 12. Suspicious objects. 13. Power to remove or immobilise objects. 14. Power to destroy removed objects. 15. Power to enter premises and destroy objects. 16. Compensation for destruction. 17. Offences relating to destruction, etc. 18. Use of objects for permitted purposes and destruction, etc. 19. Premises or equipment for producing chemical weapons. 20. Suspicious equipment or buildings. 21. Notice requiring destruction or alteration. 22. Power where notice not complied with. 23. Position where no notice can be served. 24. Compensation for destruction or alteration. 25. Offences relating to destruction etc. 26. Destruction, etc: Supplementary. 27. Restriction on use etc. 28. Licences. 29. Information for the purposes of the Act.
 
-Weapons of Mass Destruction
-
-2004-19 32. Inspections: Interpretation. 33. Rights of entry, etc. for the purposes of inspections. 34. Offences in connection with inspections. 35. Privileges and immunities in connection with inspections. 36. Reimbursement of expenditure. 37. Power to search and obtain evidence. 38. Forfeiture in case of conviction. 39. Prosecutions for chemical weapons. 40. Offences: other provisions. 41. Disclosure of information. 42. Services of notice.
+30. Information and records for the purposes of the Chemical Weapons Convention. 31. Identifying persons who have information. 32. Inspections: Interpretation. 33. Rights of entry, etc. for the purposes of inspections. 34. Offences in connection with inspections. 35. Privileges and immunities in connection with inspections. 36. Reimbursement of expenditure. 37. Power to search and obtain evidence. 38. Forfeiture in case of conviction. 39. Prosecutions for chemical weapons. 40. Offences: other provisions. 41. Disclosure of information. 42. Services of notice.
 
 PART IV Nuclear weapons
 
@@ -52,8 +44,4 @@ SCHEDULE 3
 
 SCHEDULE 4 Annex on Implementation and Verification to the Chemical Weapons Convention
 
-Weapons of Mass Destruction
-
-2004-19 AN ACT TO MAKE PROVISION FOR THE PURPOSES OF PROHIBITING THE DEVELOPMENT, PRODUCTION, ACQUISITION AND POSSESSION OF CERTAIN WEAPONS OF MASS DESTRUCTION; IMPLEMENTING IN GIBRALTAR THE CONVENTION ON THE PROHIBITION OF THE DEVELOPMENT, PRODUCTION AND STOCKPILING OF BACTERIOLOGICAL (BIOLOGICAL) AND TOXIN WEAPONS AND THEIR DESTRUCTION, SIGNED AT WASHINGTON, LONDON, AND MOSCOW 10 APRIL, 1972 AND THE CONVENTION ON THE PROHIBITION OF THE DEVELOPMENT, PRODUCTION, STOCKPILING AND USE OF CHEMICAL WEAPONS AND ON THEIR DESTRUCTION, SIGNED AT PARIS ON 13 JANUARY 1993; AND FOR CONNECTED PURPOSES.
-
-PART I
+AN ACT TO MAKE PROVISION FOR THE PURPOSES OF PROHIBITING THE DEVELOPMENT, PRODUCTION, ACQUISITION AND POSSESSION OF CERTAIN WEAPONS OF MASS DESTRUCTION; IMPLEMENTING IN GIBRALTAR THE CONVENTION ON THE PROHIBITION OF THE DEVELOPMENT, PRODUCTION AND STOCKPILING OF BACTERIOLOGICAL (BIOLOGICAL) AND TOXIN WEAPONS AND THEIR DESTRUCTION, SIGNED AT WASHINGTON, LONDON, AND MOSCOW 10 APRIL, 1972 AND THE CONVENTION ON THE PROHIBITION OF THE DEVELOPMENT, PRODUCTION, STOCKPILING AND USE OF CHEMICAL WEAPONS AND ON THEIR DESTRUCTION, SIGNED AT PARIS ON 13 JANUARY 1993; AND FOR CONNECTED PURPOSES.

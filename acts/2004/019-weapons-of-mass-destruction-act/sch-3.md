@@ -1,4 +1,6 @@
-SCHEDULE 3 Section 52(3) A.Toxic chemicals:
+SCHEDULE 3 Section 52(3)
+
+A.Toxic chemicals:
 
 1. Phosgene: Carbonyl dichloride
 
@@ -12,11 +14,11 @@ SCHEDULE 3 Section 52(3) A.Toxic chemicals:
 
 5. Phosphorus oxychloride
 
-(10025-87- 3) 6. Phosphorus trichloride
+(10025-87-3) 6. Phosphorus trichloride
 
 (7719-12-2) 7. Phosphorus pentachloride
 
-(10026-13- 8) 8. Trimethyl phosphite
+(10026-13-8) 8. Trimethyl phosphite
 
 (121-45-9) 9. Triethyl phosphite
 
@@ -26,9 +28,9 @@ SCHEDULE 3 Section 52(3) A.Toxic chemicals:
 
 (762-04-9) 12. Sulfur monochloride
 
-(10025-67- 9) 13. Sulfur dichloride
+(10025-67-9) 13. Sulfur dichloride
 
-(10545-99- 0) 14. Thionyl chloride
+(10545-99-0) 14. Thionyl chloride
 
 (7719-09-7) 15. Ethyldiethanolamine
 
@@ -37,7 +39,3 @@ SCHEDULE 3 Section 52(3) A.Toxic chemicals:
 (105-59-9) 17. Triethanolamine
 
 (102-71-6)
-
-Weapons of Mass Destruction
-
-2004-19
