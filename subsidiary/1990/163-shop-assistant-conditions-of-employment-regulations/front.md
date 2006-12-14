@@ -1,25 +1,17 @@
-Shop Hours SHOP ASSISTANT (CONDITIONS OF EMPLOYMENT) REGULATIONS, 1990
+Subsidiary Legislation made under s.16.
 
-1922-05
+Shop Assistant (Conditions of Employment) Regulations, 1990
 
-Subsidiary 1990/163 Regulations made under section 16 of the Shop Hours Act.
+LN.1990/163
 
-SHOP ASSISTANT (CONDITIONS OF EMPLOYMENT) REGULATIONS, 1990
+Commencement 22.11.1990
 
-(LN. 1990/163)
-
-22.11.1990
-
-______________________
+Amending enactments Relevant current provisions Commencement date LN. 2006/156 rr. 5(1). 6 14.12.2006
 
 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1.Title. 2.Holidays. 3.Intervals for meals 4.Exhibition of notice. 5.Seats for female shop assistants. 6.Offences.
+1. Title. 2. Holidays. 3. Intervals for meals 4. Exhibition of notice. 5. Seats for shop assistants. 6. Offences.
 
 SCHEDULE 1. Intervals for Meals.
-
-SCHEDULE 2. Periods of Employment, Intervals and Holidays for Shop Assistants.
-
-Shop Hours SHOP ASSISTANT (CONDITIONS OF EMPLOYMENT) REGULATIONS, 1990

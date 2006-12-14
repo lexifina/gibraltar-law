@@ -22,18 +22,6 @@ Name of Occupier:- Address of Shop:- 6 Wednes- day From/To
 
 1 Shop Assistant’ s Name (Block Letters)
 
-Shop Hours SHOP ASSISTANT (CONDITIONS OF EMPLOYMENT) REGULATIONS, 1990
-
-1922-05
-
-Subsidiary 1990/163
-
-Shop Hours SHOP ASSISTANT (CONDITIONS OF EMPLOYMENT) REGULATIONS, 1990
-
-1922-05
-
-Subsidiary 1990/163
-
 INSTRUCTIONS FOR COMPLETING THE FORM.
 
 Column 2.
@@ -50,14 +38,8 @@ If it is customary for the shop to close on certain fixed days, or on a part of 
 
 Column 11.
 
-In this column should be recorded details of any meal intervals in addition to the midday interval to which the person named may be entitled under the provision-, of Regulation 3 and Schedule I to the Regulations. It should also be used to show the additional fortnightly half-holiday in appropriate cases.
+In this column should be recorded details of any meal intervals in addition to the midday interval to which the person named may be entitled under the provision-, of Regulation 3 and Schedule I to the Regulations. It should also be used to show the additional fortnightly half- holiday in appropriate cases.
 
 Column 12.
-
-Shop Hours SHOP ASSISTANT (CONDITIONS OF EMPLOYMENT) REGULATIONS, 1990
-
-1922-05
-
-Subsidiary 1990/163
 
 In this column should be shown the total number of hours worked weekly by each assistant named in the first column as computed from the details entered in columns 4-10 which, in the case of persons over 18 years of age, should not aggregate more than 48 hours exclusive of meal intervals. In the cases of persons under the age of 18, the hours should not aggregate more than 47½ hours inclusive of the prescribed meal intervals.
