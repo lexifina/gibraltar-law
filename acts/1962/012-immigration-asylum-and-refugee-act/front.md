@@ -18,7 +18,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 31.7.2003 2004-31 ss. 39(1)-(2), 41(3), 46A, 49(9), Sch.1
 
-4.11.2004 2004-33 ss. 63A(1), (3)-(4), Sch.3 4.12.2004 2005-06 ss. 63(6), 63A-63C, Sch.3 9.2.2005 2005-19 s. 3A 16.6.2005
+4.11.2004 2004-33 ss. 63A(1), (3)-(4), Sch.3 4.12.2004 2005-06 ss. 63(6), 63A-63C, Sch.3 9.2.2005 2005-19 s. 3A 16.6.2005 2006-47 s. 11A 21.12.2006
 
 Transposing:
 
@@ -42,7 +42,7 @@ Appointment and powers of immigration officers.
 
 Entry into Gibraltar.
 
-11. Entry into Gibraltar and exit from Gibraltar.
+11. Entry into Gibraltar and exit from Gibraltar. 11A.
 
 Requirement of permits and certificates.
 
@@ -58,7 +58,9 @@ Issue of  frontier worker certificates  and permits of residence.
 
 Immigration Control
 
-1962-12 Entitlement to certificates of permanent residence.
+1962-12
+
+Entitlement to certificates of permanent residence.
 
 25. Rights of children of Gibraltarian women.
 
@@ -80,11 +82,11 @@ Cancellation and duration of certificates.
 
 EEA Nationals and Members of their Families.
 
-39. Interpretation of sections 39 to 50K. 39A. Position of Swiss nationals. 39B. Posted Workers. 40. Right of admission to Gibraltar of EEA nationals and family members and posted workers. 41. Right of Residence. 42. Grant of Residence Permits. 43. Qualified Person. 44. Unemployment. 45. Family members of self-employed persons who have ceased economic activity. 46. Family members of students. 46A. Central and Eastern European States. 47. No requirement to grant residence permit. 48. Form of residence permit and residence document.
+39. Interpretation of sections 39 to 50K. 39A. Position of Swiss nationals. 39B. Posted Workers. 40. Right of admission to Gibraltar of EEA nationals and family members and posted workers. 41. Right of Residence. 42. Grant of Residence Permits. 43. Qualified Person. 44. Unemployment. 45. Family members of self-employed persons who have ceased economic activity. 46. Family members of students. 46A. Central and Eastern European States. 47. No requirement to grant residence permit.
 
 Immigration Control
 
-1962-12 49. Residence permits. 50. Renewal of residence permit. 50A. Duration and renewal of residence permit or residence document granted to family members. 50B. Indefinite Residence. 50C. Requirement for the issue of an EEA family permit. 50D. Issue of an EEA family permit. 50E. Refusal of an application for an EEA family permit. 50F. Exclusion and requirement to leave Gibraltar. 50G. Refusal to grant, and revocation of, residence permit or residence document. 50H. Public policy, public security and public health. 50I. Application of section 12 (required permits and certificates). 50J. Appeals to the Supreme Court. 50K. Notice of Appeal.
+1962-12 48. Form of residence permit and residence document. 49. Residence permits. 50. Renewal of residence permit. 50A. Duration and renewal of residence permit or residence document granted to family members. 50B. Indefinite Residence. 50C. Requirement for the issue of an EEA family permit. 50D. Issue of an EEA family permit. 50E. Refusal of an application for an EEA family permit. 50F. Exclusion and requirement to leave Gibraltar. 50G. Refusal to grant, and revocation of, residence permit or residence document. 50H. Public policy, public security and public health. 50I. Application of section 12 (required permits and certificates). 50J. Appeals to the Supreme Court. 50K. Notice of Appeal.
 
 51. Repealed.
 
@@ -110,11 +112,11 @@ Arrest, detention and removal.
 
 Offences.
 
-62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully.
+62. Unlawful presence in Gibraltar.
 
 Immigration Control
 
-1962-12 63A. Assisting illegal immigration into another state. 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate. 65. Offences by Community nationals. 66. Other offences.
+1962-12 63. Harbouring persons unlawfully. 63A. Assisting illegal immigration into another state. 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate. 65. Offences by Community nationals. 66. Other offences.
 
 Rules.
 
