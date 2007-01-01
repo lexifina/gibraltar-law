@@ -54,7 +54,7 @@ Acts. 1971-14 s.28(2)
 
 1986-24 ss. 28, 29, 32 and 38 (cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987 1988-35 ss. 17, 17A, 17B, 20, 21, and 36A. 15.12.1988 1997-25 s. 20(q) 21.8.1997 1997-32 ss. 35A to 35H, 28(1) & (c), 29(1)(a) and Sch
 
-16.10.1997 2002-12 ss. 39 to 72 19.12.2002 2004-23 s. 35A(1) and Sch Part I. 1.5.2004 2004-11 ss. 38A and 38B 1.9.2004
+16.10.1997 2002-12 ss. 39 to 72 19.12.2002 2004-23 s. 35A(1) and Sch Part I. 1.5.2004 2004-11 ss. 38A and 38B 1.9.2004 2008-05 ss. 41(1), (2) & (3), 73 & Sch. 1.1.2007
 
 Supreme Court
 
@@ -62,7 +62,7 @@ Supreme Court
 
 The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
 
-Transposing: Directive 77/249/EEC Directive 98/5/EC
+Transposing: Directive 77/249/EEC Directive 98/5/EC Directive 2006/100/EC
 
 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
@@ -269,6 +269,10 @@ PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
 Supreme Court
 
 1960-02
+
+PART X
+
+73. Regulations
 
 SCHEDULE
 
