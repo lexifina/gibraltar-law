@@ -591,3 +591,9 @@ Subsidiary 2004/088
 Qlim
 
 2.   In any case where the isotopic composition of a radioactive substance is not known or is only partially known, the quantity ratio for that substance shall be calculated by using the values specified in the appropriate column in Part I for 'other radionuclides not listed above' for any radionuclide that has not been identified or where the quantity of a radionuclide is uncertain, unless the employer can show that the use of some other value is appropriate in the circumstances of a particular case, when he may use that value.
+
+Health Protection (Ionising Radiation) IONISING RADIATION REGULATIONS 2004
+
+1995-09
+
+Subsidiary 2004/088
