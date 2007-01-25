@@ -12,7 +12,9 @@ GIBRALTAR MERCHANT SHIPPING (PORT WASTE RECEPTION FACILITIES) REGULATIONS, 2002
 
 Amending enactments Relevant current provisions Commencement date LN.    2003/128 rr. 1, 3(2)(c) and (3), 8, 8(a), (c), 12(1), 13(2) and (3), 14(2) and 17(2)
 
-31.7.2003
+31.7.2003 2006/132 rr. 1,  2(1) & (4), 3(1)(b) & (4), 12(4)(a), (5), 13A, 14A, 15(3A), 17(2), 18(1), (3), (4) & (6), 19(1) & (2), 20 & Sch. 3
+
+25.1.2007
 
 Transposing: Directive 2000/59/EC
 
@@ -24,7 +26,7 @@ Subsidiary 2002/098 ARRANGEMENT OF REGULATIONS
 
 Regulations
 
-1. Title and commencement. 2. Interpretation. 3. Application of these Regulations. 4. Requirement to ensure adequate port waste reception facilities. 5. Direction to provide adequate port waste reception facilities. 6. Procedure for reporting inadequacies to the Administration. 7. Requirements regarding waste reception and handling plans. 8. Requirements regarding waste reception and handling plans: time for submission. 9. Approval and implementation of waste reception and handling plans. 10. Power of the Minister to prepare  waste reception and handling plans. 11. Direction to implement waste reception and handling plans. 12. Notification. 13. Delivery of ship-generated waste. 14. Charges for ship-generated waste. 15. Exemptions. 16. Delivery of cargo residues. 17. Informing next port of call. 18. Inspection and detention of ships. 19. Enforcement of detention. 20. Penalties. 21. Offences by body corporate. 22. Reference of detention notices to Supreme Court. 23. Delegation of powers.
+1. Title and commencement. 2. Interpretation. 3. Application of these Regulations. 4. Requirement to ensure adequate port waste reception facilities. 5. Direction to provide adequate port waste reception facilities. 6. Procedure for reporting inadequacies to the Administration. 7. Requirements regarding waste reception and handling plans. 8. Requirements regarding waste reception and handling plans: time for submission. 9. Approval and implementation of waste reception and handling plans. 10. Power of the Minister to prepare  waste reception and handling plans. 11. Direction to implement waste reception and handling plans. 12. Notification. 13. Delivery of ship-generated waste. 13A. Delivery of ship-generated sewage. 14. Charges for ship-generated waste. 14A. Charges for ship-generated sewage. 15. Exemptions. 16. Delivery of cargo residues. 17. Informing next port of call. 18. Inspection and detention of ships. 19. Enforcement of detention. 20. Penalties. 21. Offences by body corporate. 22. Reference of detention notices to Supreme Court. 23. Delegation of powers.
 
 SCHEDULE 1 Form for reporting inadequacies of Port reception facilities.
 
