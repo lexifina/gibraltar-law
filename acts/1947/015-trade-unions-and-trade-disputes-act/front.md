@@ -8,9 +8,13 @@ Principal Act
 
 Act. No. 1947-15 Commencement 19.8.1947 Assent 25.7.1947
 
-Amending enactment Relevant current provisions Commencement date Act. 1948-20 s. 10(1) 1953-20 ss. 24-34 1966-04 s. 23
+Amending enactment Relevant current provisions Commencement date Act. 1948-20 s. 10(1) 1953-20 ss. 24-34 1966-04 s. 23 2006-38 ss. 2, 3, 5, 8, 13, 18(a), 21(3), 25, 30, 31, 32, 33 1.3.20071
 
 English sources: Trade Union Act 1871 (34 & 35 Vict. c.31) Conciliation Act 1896 (59 & 60 Vict c.30) Trade Disputes Act 1906 (6 Edw.7 c.47) Trade Disputes Act 1965 (1965 c.48)
+
+Implementing: Regulation (EEC) No 1612/68
+
+1 Commencement notice (LN. 2007/019)
 
 Trade Unions and Trade Disputes
 
@@ -32,7 +36,7 @@ Preliminary.
 
 Registration.
 
-3.Appointment of Registrar. 4.Trade unions prohibited from carrying on business unless registered. 5.Registration of trade unions. 6.Requirements for registration. 7.Rules of registered unions. 8.Conditions upon which aliens may be members of unions. 9.Refusal of registration. 10. Dissolution of unregistered unions. 11. Alteration of union rules. 12. Cancellation of registration. 13. Rules relating to registration.
+3.Appointment of Registrar. 4.Trade unions prohibited from carrying on business unless registered. 5.Registration of trade unions. 6.Requirements for registration. 7.Rules of registered unions. 8.Repealed 9.Refusal of registration. 10. Dissolution of unregistered unions. 11. Alteration of union rules. 12. Cancellation of registration. 13. Rules relating to registration.
 
 Accounts and Audit.
 
@@ -48,7 +52,7 @@ Unions and the Civil Law.
 
 Conciliation and Arbitration.
 
-24. Interpretation. 25. Powers of the Governor as to trade disputes.
+24. Interpretation. 25. Powers of the Minister as to trade disputes.
 
 Trade Unions and Trade Disputes
 
