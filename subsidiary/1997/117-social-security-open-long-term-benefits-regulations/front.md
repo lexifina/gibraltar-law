@@ -10,9 +10,15 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) REGULATIONS 1997
 
 1.4.1997
 
-___________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN. 2007/071 Sch. 1 & 2 1.4.2007
+
+Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) REGULATIONS 1997
+
+1997-16
+
+Subsidiary 1997/117 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -24,17 +30,17 @@ PART II WIDOW'S BENEFIT AND WIDOWER'S PENSION.
 
 PART III GUARDIAN’S ALLOWANCE
 
-14.  Adopted children. 15.  Illegitimate children. 16.  Children of divorced persons. 17.  Children whose parents cannot be traced. 18.  Modification of contribution conditions.
+14.  Adopted children. 15.  Illegitimate children. 16.  Children of divorced persons. 17.  Children whose parents cannot be traced. 18.  Modification of contribution conditions. 19.  Partial satisfaction of contribution conditions.
+
+PART IV OLD AGE PENSIONS
+
+20.  Women who marry after attaining pensionable age. 21.  Choice of pension. 22.  Priority between a man and his wife to increase of old age pension for child. 23.  Partial satisfaction of contribution conditions (I). 24.  Partial satisfaction of contribution conditions (II). 25.  Partial satisfaction of contribution conditions (III).
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) REGULATIONS 1997
 
 1997-16
 
-Subsidiary 1997/117 19.  Partial satisfaction of contribution conditions.
-
-PART IV OLD AGE PENSIONS
-
-20.  Women who marry after attaining pensionable age. 21.  Choice of pension. 22.  Priority between a man and his wife to increase of old age pension for child. 23.  Partial satisfaction of contribution conditions (I). 24.  Partial satisfaction of contribution conditions (II). 25.  Partial satisfaction of contribution conditions (III). 26.  Partial satisfaction of contribution conditions (IV). 27.  Partial satisfaction of contribution conditions (V).
+Subsidiary 1997/117 26.  Partial satisfaction of contribution conditions (IV). 27.  Partial satisfaction of contribution conditions (V).
 
 SCHEDULE 1 Reduced Rates of Widow’s Benefit or Widower’s Pension.
 
