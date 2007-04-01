@@ -72,7 +72,7 @@ Social Security (Insurance)
 
 1.1.1994 1993/190 Sch.1 3.1.1994 1997/166 Sch.1. 30.12.1997 Act. 1999-27* ss. 2(1), 3(3), 7(4), 8(2), 9(1), 10(1)(a), 11, 11A, 12, 18(5), 21, 27(1)-(2), 30, 33(2)-(3), (6), 40(1), 41(1), 47(2), 48, 49(1).
 
-5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006
+5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -1046,41 +1046,63 @@ Social Security (Insurance)
 
 SCHEDULE 1.
 
-CONTRIBUTION RATES
+Combined Social Insurance and Other Contribution Rates
 
-PART 1 Section 4
+Rate of Contributions for an Employed Person
 
-Class of employed insured person to whom rate applies
+Employee - 10% of Gross Earnings
 
-Weekly rate of Contribution
+Subject to a maximum contribution of:
 
-Persons who have attained the age of 18 years
+£269.75 for the period 1 April 2007 to 30 June 2007; and £1,079.00 for the year ending June 2008 and each year thereafter;
 
-Persons who have attained the age of 15 years but are under 18 years
+Contributions are payable weekly subject to a minimum of £5.00 per week and a maximum of £20.75 per week
 
-Males and Females who are members of the Gibraltar Regiment
+Married Women*
 
-By the insured person By the employer £ 0.50
+£10.81 per week
 
-0.50
+* This rate only applies to those married women who prior to 1 January 1985 elected not to pay contributions to the Social Insurance Scheme.
 
-10.47 £ 0.50
+Employer - 20% of Gross Earnings
 
-0.50
+Subject to a maximum contribution of:
 
-1.98
+£340.60 for the period 1 April 2007 to 30 June 2007; and £1,362.40 for the year ending June 2008 and each year thereafter;
 
-Where the person employed is over pensionable age or is a married woman or widow who has elected not to make contributions or receive benefits, only the employer’s share of the contribution is payable.
+Contributions are payable weekly subject to a minimum of £15.00 per week and a maximum of £26.20 per week
 
-PART II
+Rate of Contribution for a Self-Employed Person - 20% of Gross Earnings
 
-Class of self-employed insured person to whom rate applies
+Subject to a maximum contribution of:
 
-Weekly rate of Contribution by insured person
+£311.74 for the period 1 April 2007 to 30 June 2007; and £1,246.96 for the year ending June 2008 and each year thereafter;
 
-Persons who have attained the age of 15 years
+Contributions are payable weekly subject to a minimum of £10.00 per week and a maximum of £23.98 per week
 
-£ 0.50
+Gibraltar Regiment
+
+Social Security (Insurance)
+
+1955-14
+
+Employee Contributions
+
+£12.12 per week
+
+Employer Contributions
+
+£16.33 per week
+
+Apportionment of Contributions
+
+All contributions collected with effect from 1 April 2007 shall be apportioned as follows:
+
+Gibraltar Health Authority – GPMS
+
+63.50% Open Long-Term Benefits Fund 27.75% Gibraltar Development Corporation –Training Levy 6.00% Short-Term Benefits Fund 2.25% Employment Injuries Insurance Fund 0.25% Gibraltar Development Corporation – Insolvency Fund 0.25%
+
+100.00%
 
 Social Security (Insurance)
 
