@@ -12,7 +12,7 @@ SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) REGULATIONS 1996
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 1997-13 rr. 12, 20(1), Sch. 1-2 1.10.1996
+Act. 1997-13 rr. 12, 20(1), Sch. 1-2 1.10.1996 LN. 2007/070 Sch. 1- 2 1.4.2007
 
 Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) REGULATIONS 1996
 
