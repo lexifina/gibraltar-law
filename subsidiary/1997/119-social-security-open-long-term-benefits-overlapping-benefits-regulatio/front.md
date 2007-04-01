@@ -10,9 +10,15 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 199
 
 1.4.1997
 
-_________________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN. 2007/066 r. 7 1.4.2007
+
+Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 1997
+
+1997-16
+
+Subsidiary 1997/119 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
