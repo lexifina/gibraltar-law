@@ -80,7 +80,7 @@ LN. 1983/097 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Schs.2-5
 
 14.3.2001 LN. 2002/004 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.2-5
 
-1.1.2002 2004/129 Sch.1 3.1.2005 Act. 2007-22 s. 5(1)-(3) 1.7.2006
+1.1.2002 2004/129 Sch.1 3.1.2005 Act. 2007-22 s. 5(1)-(3) 1.7.2006 LN. 2007/052 Sch.1 1.4.2007
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
@@ -136,7 +136,7 @@ Social Security (Employment Injuries Insurance)
 
 1952-10 51. Employment In juries Insurance Fund. 52. Report by actuary. 53. Exemption from stamp duty. 54. Reciprocal agreements. 55. Review of contributions, benefits, etc.
 
-SCHEDULE 1. Combined Social Insurance and Other Contribution Rates
+SCHEDULE. Combined Social Insurance and Other Contribution Rates
 
 SCHEDULE 2. Part I.–Injury Benefit. Part II. –Dependants Allowance.
 
