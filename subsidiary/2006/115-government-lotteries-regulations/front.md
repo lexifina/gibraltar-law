@@ -10,7 +10,13 @@ GOVERNMENT LOTTERIES REGULATIONS 2006
 
 26.10.2006
 
-_________________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2007/058 rr. 8(2), 9, 10(1), 10(2)(a), 11, 12, 13, 15, 16(3) & 16(2)
+
+5.4.2007
+
+______________________
 
 ARRANGEMENT OF REGULATIONS
 
