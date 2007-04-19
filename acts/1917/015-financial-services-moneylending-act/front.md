@@ -1,8 +1,8 @@
-Moneylending
+Financial Services (Moneylending)
 
 1917-15
 
-MONEYLENDING ACT
+FINANCIAL SERVICES (MONEYLENDING) ACT
 
 Principal Act
 
@@ -22,13 +22,13 @@ Acts. 1934- 27 ss. 2, 3(2), (5), 4, 10-13, 15, 17-18, Sch.
 
 1995-15 ss. 4, 5(1)(3), 12, 13(1), 16, 17, 19(2)
 
-1.2.1996
+1.2.1996 2007-04 s. 1 19.4.2007
 
 English Sources
 
 Betting and Loans (Infants) Act 1892 (55 & 56 Vict.c.4) Money-Lenders Act 1900 (63 & 64 Vict.c.51) Money-Lenders Act 1901 (1 & 2 Geo.5 c.38) Money-Lenders Act 1927 (17 & 18 Geo.5 c.21)
 
-Moneylending
+Financial Services (Moneylending)
 
 1917-15 ARRANGEMENT OF SECTIONS.
 
@@ -38,6 +38,6 @@ Section
 
 SCHEDULE Calculation of Interest where the Interest charged on a Loan is not expressed in Terms of a Rate.
 
-Moneylending
+Financial Services (Moneylending)
 
 1917-15 AN ACT TO AMEND THE LAW AS TO THE LENDING OF MONEY AND WITH RESPECT TO PERSONS CARRYING ON BUSINESS AS MONEYLENDERS.
