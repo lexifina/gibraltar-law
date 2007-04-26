@@ -10,7 +10,9 @@ MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
 
 Amending enactments Relevant current provisions Commencement date
 
-LNs.1988/085 r.5(2) 1.2.1988 1998/047 r.3(4) and Sch. 25.6.1998 2001/008 Sch 1.3.2001
+LNs.1988/085 r.5(2) 1.2.1988 1998/047 r.3(4) and Sch. 25.6.1998 2001/008 Sch 1.3.2001 2007/072 rr. 2, 3(4)(a) & (b), 4(1)(a), (b) & (d), 4(2), 5(2), 7(4)(c), (5) & 8
+
+26.4.2007
 
 Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
 
