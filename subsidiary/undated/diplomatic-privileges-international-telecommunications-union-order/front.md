@@ -1,7 +1,5 @@
-Diplomatic Privileges (International Organisations) DIPLOMATIC PRIVILEGES (INTERNATIONAL TELECOMMUNICATIONS UNION) ORDER
+Subsidiary Legislation made under s.2.
 
-Subsidiary 1955.10.13-1 1948-28 Orders made under s.2.
+Diplomatic Privileges (International Telecommunications Union) Order
 
-DIPLOMATIC PRIVILEGES (INTERNATIONAL TELECOMMUNICATIONS UNION) ORDER
-
-(1955.10.13-1)
+1955.10.13-1
