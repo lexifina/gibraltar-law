@@ -1,24 +1,16 @@
-Post Office EXTERNAL PARCELS AND POSTAL PACKETS (IMPORT AND EXPORT CONTROL) REGULATIONS
+Subsidiary Legislation made under ss.13 and 54.
 
-1961-10
+External Parcels and Postal Packets (Import and Export Control) Regulations
 
-Subsidiary 1961.10.10-1 Regulations made under ss.13 and 54.
+1961.10.10-1
 
-EXTERNAL PARCELS AND POSTAL PACKETS (IMPORT AND EXPORT CONTROL) REGULATIONS
-
-(1961.10.10-1)
-
-13.10.1961
+Commencement 13.10.1961
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1975/076 r. 20
+LN. 1975/076 r. 20 Act. 2007-17 rr. 3, 4(1)-(2), 5, 6(c)-(d), 8, 13, 15(1), 16(a)-(b), 17 14.6.2007
 
-Post Office EXTERNAL PARCELS AND POSTAL PACKETS (IMPORT AND EXPORT CONTROL) REGULATIONS
-
-1961-10
-
-Subsidiary 1961.10.10-1 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -35,7 +27,3 @@ PART II.–BONDED PARCELS.
 PART III.–OTHER POSTAL PACKETS.
 
 15. Insured boxes. 16. Small packets and letter packets. 17. External insured boxes, small packets and letter packets to be produced for customs examination. 18. Application of regulations. 19. Other external postal packets. 20. Interpretation of Part III.
-
-Post Office EXTERNAL PARCELS AND POSTAL PACKETS (IMPORT AND EXPORT CONTROL) REGULATIONS
-
-1961-10
