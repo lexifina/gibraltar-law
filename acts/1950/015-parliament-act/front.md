@@ -1,8 +1,8 @@
-House of Assembly
+Parliament
 
 1950-15
 
-HOUSE OF ASSEMBLY ACT
+PARLIAMENT ACT
 
 Principal Act
 
@@ -30,15 +30,23 @@ Act. 1969-24 ss. 3(1), 6(1)
 
 1976-06 s. 5(1)
 
-1977-28 s. 49(4) 1979-21 s. 14(1) 1983-17 ss. 3(1), 5(2), 25(1), 48(4) 1983-40 ss. 97-98 1986-01 s. 3 6.2.1986 1987-25 ss. 14, 25 29.10.1987 1995-17 Sch. 2 22.12.1995 2003-05 s. 14(1) 7.5.2003 English sources
+1977-28 s. 49(4) 1979-21 s. 14(1) 1983-17 ss. 3(1), 5(2), 25(1), 48(4) 1983-40 ss. 97-98 1986-01 s. 3 6.2.1986 1987-25 ss. 14, 25 29.10.1987 1995-17 Sch. 2 22.12.1995 2003-05 s. 14(1) 7.5.2003 2007-17 ss. 1, 2(a), 3(1), 9, 10(1), (3), 11(a), 20(1), (4), 22, 61-61, 63(1)-(3), 64(1), 65, 66(1)-(2),
 
-None cited
-
-House of Assembly
+Parliament
 
 1950-15
 
-DERIVATION OF SECTION
+67(1), 68(1)-(2), 69(1), 70(1), (2)(a)-(b), 71(1)-(2), 72-74, 75(a)-(b), 76(1), 77(a), (c), (e), 78, 79(a)-(d), 80(a)-(b), (e), (f), 83(1)-(3), 84-85, 87-89, 90(1), (3), 91(1)(b), 101(2)-(3), Sch. 3
+
+14.6.2007
+
+English sources
+
+None cited
+
+Parliament
+
+1950-15 DERIVATION OF SECTION
 
 Section Source Section Source
 
@@ -46,9 +54,11 @@ Section Source Section Source
 
 & (7) 68 “ 10 16 “ 30 69 “ 11 17 “ 11 70 “ 12 18 “ 7 71 “ 13 19 “ 8 72 “ 17 20 “ 10 73 “ 14 21 “ 9 74 “ 16 22 “ 13 75 “ 15 23 “ 12 76 “ 18 24 “ 55 77 “ 19 25 “ 56 78 “ 21 26 “ 31 79 “ 22 27 “ 32 80 “ 20 28 “ 35 81 “ 25 29 “ 36 82 “ 24 30 “ 37 83 “ 23 31 “ 27(4) 84 “ 26 32 “ 28(3) 85 “ 27 33 “ 29(5) 86 “ 28 34 “ 44 87 “ 29 35 “ 33 88 “ 30 36 “ 49 89 “ 31 37 “ 45 90 Act. 1979-22 s.2 38 “ 43 91 “ 3 39 “ 29(6) 92 “ 4 40 “ 38 93 “ 5 41 “ 39 94 “ 6
 
-House of Assembly
+Parliament
 
-1950-15 42 “ 40 95 “ 7 43 “ 42 96 “ 8 44 “ 53 97 “ 8A 45 “ 41 98 “ 8B 46 “ 34 99 “ 9 47 “ 46 100 “ 10 48 “ 47 101 “ 11 49 “ 48 102 “ 12 50 “ 52
+1950-15
+
+42 “ 40 95 “ 7 43 “ 42 96 “ 8 44 “ 53 97 “ 8A 45 “ 41 98 “ 8B 46 “ 34 99 “ 9 47 “ 46 100 “ 10 48 “ 47 101 “ 11 49 “ 48 102 “ 12 50 “ 52
 
 51 Act. 1950-15 s.50 Sch.
 
@@ -58,11 +68,9 @@ House of Assembly
 
 3 “
 
-House of Assembly
+Parliament
 
-1950-15
-
-ARRANGEMENT OF SECTIONS
+1950-15 ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -92,9 +100,11 @@ Conduct of elections
 
 17. Appointment of returning officer. 18. Conduct of elections. 19. Entitlement to vote. 20. Issue of writ. 21. General, partial and void elections.
 
-House of Assembly
+Parliament
 
-1950-15 22. Method of voting. 23. Expenses of elections.
+1950-15
+
+22. Method of voting. 23. Expenses of elections.
 
 Miscellaneous
 
@@ -116,7 +126,7 @@ Other offences
 
 Miscellaneous
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -126,7 +136,7 @@ PART IV. ELECTION PETITIONS.
 
 53. Grounds for petitioning. 54. Application of English law. 55. Who may petition. 56. Security for costs. 57. Trial of petitions. 58. Withdrawal of election petition. 59. Exoneration of candidate where agent guilty of offence. 60. No obligation on voter to disclose vote.
 
-PART V. POWERS AND PRIVILEGES OF THE ASSEMBLY.
+PART V. POWERS AND PRIVILEGES OF THE PARLIAMENT.
 
 Privileges
 
@@ -140,13 +150,15 @@ Offences
 
 73. False evidence. 74. False documents. 75. Interference with witnesses. 76. Corrupt and improper practices. 77. Contempt. 78. Disobedience.
 
-House of Assembly
+Parliament
 
-1950-15 79. Breaches of confidence, etc. 80. Assaulting, etc., members and officers. 81. Penalties. 82. Sanction of Attorney-General. 83. Powers of Assembly in cases of contempt.
+1950-15
+
+79. Breaches of confidence, etc. 80. Assaulting, etc., members and officers. 81. Penalties. 82. Sanction of Attorney-General. 83. Powers of Parliament in cases of contempt.
 
 Miscellaneous
 
-84. Commons journals as evidence. 85. Journals, etc., of the Assembly as evidence. 86. Absence of the Speaker. 87. Suspension of members. 88. Powers supplementary. 89. Exclusion of court’s jurisdiction.
+84. Commons journals as evidence. 85. Journals, etc., of the Parliament as evidence. 86. Absence of the Speaker. 87. Suspension of members. 88. Powers supplementary. 89. Exclusion of court’s jurisdiction.
 
 PART VI. PENSIONS.
 
@@ -158,27 +170,25 @@ SCHEDULE 2. Classes of Public Officers  who may be candidates for election
 
 SCHEDULE 3. Form of undertaking
 
-House of Assembly
+Parliament
 
-1950-15
-
-AN ACT TO GOVERN ELECTIONS TO THE GIBRALTAR HOUSE OF ASSEMBLY, THE POWERS AND PRIVILEGES ATTACHING TO THE ASSEMBLY AND THE PENSIONS PAYABLE TO MEMBERS OF THE ASSEMBLY.
+1950-15 AN ACT TO GOVERN ELECTIONS TO THE GIBRALTAR PARLIAMENT, THE POWERS AND PRIVILEGES ATTACHING TO THE PARLIAMENT AND THE PENSIONS PAYABLE TO MEMBERS OF THE PARLIAMENT.
 
 PART I. PRELIMINARY.
 
 Short title.
 
-1.This Act may be cited as the House of Assembly Act.
+1.This Act may be cited as the Parliament Act.
 
 Interpretation.
 
 2. In this Act, unless the context otherwise requires–
 
-(a)  “authorized committee” means any standing committee of the Assembly or any other committee authorized under section 66(2) to exercise the powers of a standing committee;
+(a)  “authorized committee” means any standing committee of the Parliament or any other committee authorized under section 66(2) to exercise the powers of a standing committee;
 
-“Clerk” means the Clerk of the Assembly and includes any person acting as such on the authority of the Speaker;
+“Clerk” means the Clerk of the Parliament and includes any person acting as such on the authority of the Speaker;
 
-“committee” means any standing, select or other committee of the Assembly;
+“committee” means any standing, select or other committee of the Parliament;
 
 “corrupt practice” has the meaning given to it in section 38;
 
@@ -190,21 +200,23 @@ Interpretation.
 
 “industrial employment” means employment the terms and conditions of which are decided after negotiation in the body known as the Official Employers’ Joint Industrial Council;
 
-“journals” means the official record of the votes and proceedings of the Assembly;
+“journals” means the official record of the votes and proceedings of the Parliament;
 
-“member” means any member of the Assembly and includes the Speaker;
+“member” means any member of the Parliament and includes the Speaker;
 
-House of Assembly
+Parliament
 
-1950-15 “officer” means the Clerk or any other officer or person acting within the precincts of the Assembly Chamber under the orders of the Speaker;
+1950-15
 
-“precincts of the Assembly Chamber” means the chamber in which the Assembly or a committee thereof sits for the transaction of business, together with the offices, rooms, lobbies, galleries, courtyards, gardens and other places provided for the  use or accommodation of members, officers or strangers, and any passages connecting such places, and any other places immediately contiguous thereto as may from time to time be designated by the Speaker;
+“officer” means the Clerk or any other officer or person acting within the precincts of the Parliament Chamber under the orders of the Speaker;
+
+“precincts of the Parliament Chamber” means the chamber in which the Parliament or a committee thereof sits for the transaction of business, together with the offices, rooms, lobbies, galleries, courtyards, gardens and other places provided for the  use or accommodation of members, officers or strangers, and any passages connecting such places, and any other places immediately contiguous thereto as may from time to time be designated by the Speaker;
 
 “registration officer” means a person appointed under section 4(2) to be the registration officer;
 
 “returning officer” means a person appointed under section 17(1) to be the returning officer;
 
-“Standing Orders” means the Standing Rules and Orders of the Assembly made under the Gibraltar (Constitution) Order 1964 and any rules of procedure made under the Constitution;
+“Standing Orders” means the Standing Rules and Orders of the Parliament made under the Gibraltar (Constitution) Order 1964 and any rules of procedure made under the Constitution;
 
 “stranger” means a person other than a member or an officer; and
 
@@ -216,13 +228,13 @@ The franchise.
 
 Electors.
 
-3. (1)  The persons entitled to vote as electors at elections of members of the Assembly (hereinafter referred to as ‘the House of Assembly’) under the Gibraltar Constitution Order 1969 shall be those persons who–
+3. (1)  The persons entitled to vote as electors at elections of members of the Parliament (hereinafter referred to as ‘the Parliament’) under the Gibraltar Constitution Order 1969 shall be those persons who–
 
 (i) have lived in Gibraltar during the whole of the qualifying period; and
 
 (ii) intend to live in Gibraltar either  permanently or indefinitely; and
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -246,9 +258,11 @@ Provided further that a person who has not attained the age of eighteen years on
 
 2 1998-25
 
-House of Assembly
+Parliament
 
-1950-15 period, regard shall be had to the purpose and other circumstances, as well as to the fact, of his presence in or absence from Gibraltar.
+1950-15
+
+period, regard shall be had to the purpose and other circumstances, as well as to the fact, of his presence in or absence from Gibraltar.
 
 (1B) For the purposes of subsection (1)(ii) the following presumptions shall apply:
 
@@ -278,7 +292,7 @@ Appointment registration officer.
 
 Register of electors.
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -306,9 +320,11 @@ Provided that the Governor may by order published in the Gazette, vary all or an
 
 (3) The registration officer must on or before the 1st June 2020 and on or before the 1st June each year thereafter prepare and publish the register of electors by making copies available at any of the place or places which he may deem fit.
 
-House of Assembly
+Parliament
 
-1950-15 (4)  The register published in accordance with the provisions of section 5(3) shall include all additions to and changes of particulars made to the register of electors during the period from and including the date on which
+1950-15
+
+(4)  The register published in accordance with the provisions of section 5(3) shall include all additions to and changes of particulars made to the register of electors during the period from and including the date on which
 
 Supplements to the register.
 
@@ -328,11 +344,9 @@ Registration expenses.
 
 Appeals from the registration officer.
 
-House of Assembly
+Parliament
 
-1950-15
-
-8.(1)  An appeal shall lie to the court from any decision of the registration officer on any claim for registration or objection to a person’s registration made to and considered by him under this Act:
+1950-15 8.(1)  An appeal shall lie to the court from any decision of the registration officer on any claim for registration or objection to a person’s registration made to and considered by him under this Act:
 
 Provided that an appeal shall not lie where the person desiring to appeal has not availed himself of his right to be heard by or to make representations to the registration officer on the matter which is the subject of the appeal, or has not given notice of appeal within the prescribed time.
 
@@ -352,25 +366,23 @@ Eligibility of public officers
 
 Public officers who may be elected members.
 
-9. A person shall not be disqualified for election as an elected member of the Assembly by virtue of his holding or acting in any public office or class of public office specified in Schedule 1.
+9. A person shall not be disqualified for election as an elected member of the Parliament by virtue of his holding or acting in any public office or class of public office specified in Schedule 1.
 
 Public officers who may be candidates for election.
 
-House of Assembly
+Parliament
 
 1950-15
 
-10.(1)  A person may stand as a candidate for election as an elected member of the Assembly, notwithstanding that he holds or is acting in any public office or class of public office specified in Schedule 2, if he undertakes in accordance with this section to relinquish and cease to act in any public office (other than any public office referred  to or of a class referred to in section 9) if he is elected as an elected member of the Assembly.
+10.(1)  A person may stand as a candidate for election as an elected member of the Parliament, notwithstanding that he holds or is acting in any public office or class of public office specified in Schedule 2, if he undertakes in accordance with this section to relinquish and cease to act in any public office (other than any public office referred  to or of a class referred to in section 9) if he is elected as an elected member of the Parliament.
 
 (2)  Every undertaking given under this section shall be in the form specified in Schedule 3.
 
-(3)  Every undertaking given under this section shall be delivered to the returning officer before the person by whom it is given stands as a candidate for election as an elected member of the Assembly.
+(3)  Every undertaking given under this section shall be delivered to the returning officer before the person by whom it is given stands as a candidate for election as an elected member of the Parliament.
 
 Consequences of failure to comply with undertaking.
 
-11. An elected member who has given an undertaking under section 10 –
-
-(a)  shall be incapable of taking his seat in the Assembly until he has fulfilled the undertaking; and
+11. An elected member who has given an undertaking under section 10 – (a)  shall be incapable of taking his seat in the Parliament until he has fulfilled the undertaking; and
 
 (b)  shall, on the expiry of the period of one month following the date of his election, vacate his seat if he has not then fulfilled the undertaking.
 
@@ -382,11 +394,9 @@ Election agents.
 
 (2)  Every candidate may at any time, by notice in writing given to the returning officer, revoke the appointment of his election agent, and, in the event of such revocation, or of the death of such agent, whether such event is before, during or after the election, another election agent shall forthwith be appointed and notice of his name and address shall be given in writing to the returning officer who shall publish the same in the Gazette.
 
-House of Assembly
+Parliament
 
-1950-15
-
-(3)  Any document delivered at the address specified in the notice referred to in this section shall be deemed to have been duly served upon the election agent.
+1950-15 (3)  Any document delivered at the address specified in the notice referred to in this section shall be deemed to have been duly served upon the election agent.
 
 (4)  In any case where a candidate shall fail to give notice as provided by subsection (1), he shall be deemed to be his own election agent and, for the purposes of this section, his address as appearing upon his nomination paper shall be deemed to be the address for the purposes set out in subsection (1).
 
@@ -406,9 +416,11 @@ Limit on expenditure.
 
 14.(1)  Subject to the provisions of subsection (2), no expenditure shall be incurred in relation to the candidature of any person at any election, in excess of £2,000.
 
-House of Assembly
+Parliament
 
-1950-15 (2)  In determining the total expenditure incurred in relation to the candidature of any person at any election, regard shall not be had to any expenditure incurred one month or more before the election in respect of services rendered, or materials supplied.
+1950-15
+
+(2)  In determining the total expenditure incurred in relation to the candidature of any person at any election, regard shall not be had to any expenditure incurred one month or more before the election in respect of services rendered, or materials supplied.
 
 (3)  Where any expenditure is incurred in contravention of the provisions of this section the person by whom such expenditure was incurred, and the candidate in connection with whose candidature it was incurred, shall be deemed to be guilty of an illegal practice:
 
@@ -428,11 +440,9 @@ Returns by election agents.
 
 Provided that where a candidate acts as his own agent this paragraph shall not apply.
 
-House of Assembly
+Parliament
 
-1950-15
-
-(4)  Where a candidate acts as his own agent the form referred to in subsection (1) shall be modified accordingly.
+1950-15 (4)  Where a candidate acts as his own agent the form referred to in subsection (1) shall be modified accordingly.
 
 (5)  The returning officer, within ten days after he receives any return under this section, shall publish in a daily newspaper a notice of the time and place at which the return and the documents in support thereof can be inspected.
 
@@ -450,9 +460,11 @@ Limitation for claims.
 
 (4)  On cause shown to the satisfaction of the Chief Justice in chambers, he, on application by the claimant or by the candidate or by his election agent, may by order give leave for the payment by a candidate or his election agent of a disputed claim, or of a claim for any such expenses as aforesaid, although sent in after the time mentioned in subsection (1) for sending in claims, or although such claim was sent in to the candidate and not to the election agent ; and any sum specified in the order may be paid by the
 
-House of Assembly
+Parliament
 
-1950-15 candidate or his election agent, and when paid in pursuance of such order shall be deemed to be paid within the time limited by subsection (1).
+1950-15
+
+candidate or his election agent, and when paid in pursuance of such order shall be deemed to be paid within the time limited by subsection (1).
 
 Conduct of Elections.
 
@@ -478,19 +490,17 @@ Provided that nothing in this section shall entitle any person to vote who is pr
 
 Issue of writ.
 
-20.(1) For the purpose of every general election of members to the Assembly, and for the purpose of every election to supply a vacancy arising otherwise than by reason of the dissolution of the Assembly, the Governor shall issue a writ, under the Public Seal of Gibraltar, directed to the returning officer, commanding him to cause election to be made according
+20.(1) For the purpose of every general election of members to the Parliament, and for the purpose of every election to supply a vacancy arising otherwise than by reason of the dissolution of the Parliament, the Governor shall issue a writ, under the Public Seal of Gibraltar, directed to the returning officer, commanding him to cause election to be made according
 
-House of Assembly
+Parliament
 
-1950-15
-
-to law, of such number of members as are specified in the writ, to serve in the Assembly.
+1950-15 to law, of such number of members as are specified in the writ, to serve in the Parliament.
 
 (2)  Every such writ shall also specify the day of election which shall not be less than thirty days after the day on which the writ is received by the returning officer.
 
 (3)  Upon receipt of such writ the returning officer shall endorse thereon and sign the date of the receipt thereof.
 
-(4)  The return of members elected to serve in the Assembly shall be made by a certificate of the names of such members under the hand of the returning officer endorsed on the writ and the returning officer shall deliver the writ with such certificate endorsed to the Deputy Governor.
+(4)  The return of members elected to serve in the Parliament shall be made by a certificate of the names of such members under the hand of the returning officer endorsed on the writ and the returning officer shall deliver the writ with such certificate endorsed to the Deputy Governor.
 
 (5)  The execution of the writ shall belong to the returning officer as such and the writ shall be directed to him by the title of his office as returning officer, and that office shall be a distinct office from that, if any, by virtue of which he becomes returning officer.
 
@@ -504,15 +514,17 @@ General, partial and void elections.
 
 (3)  If at any election the number of candidates who have been validly nominated is less than or is, by the withdrawal of any candidate, reduced to a number less than the number of vacancies, the returning officer shall give notice that the candidates so nominated are declared elected and the Governor may order a new election to fill the remaining vacancy or vacancies to be held on a day appointed by him.
 
-House of Assembly
+Parliament
 
-1950-15 (4)  If any election becomes void the Governor shall order a new election to be held on a day to be appointed by him.
+1950-15
+
+(4)  If any election becomes void the Governor shall order a new election to be held on a day to be appointed by him.
 
 (5)  Where a new election is ordered under this section the election shall be conducted in the same manner as is directed by this Act for the conduct of the election in the place of which the new election is ordered.
 
 Method of voting.
 
-22. At a contested election for members of the Assembly each elector may vote for as many candidates as there are vacancies to be filled unless there are more vacancies than eight, in which case each elector may vote for not more than eight candidates.
+22. At a contested election for members of the Parliament each elector may vote for as many candidates as there are vacancies to be filled unless there are more vacancies than eight, in which case each elector may vote for not more than eight candidates.
 
 Expenses of elections.
 
@@ -536,11 +548,9 @@ Rules.
 
 (d)  regulating the procedure for the registration of voters and the conduct of elections; and
 
-House of Assembly
+Parliament
 
-1950-15
-
-(e)  enabling persons who are entitled to vote as electors but are temporarily outside from Gibraltar to make postal votes in elections; and
+1950-15 (e)  enabling persons who are entitled to vote as electors but are temporarily outside from Gibraltar to make postal votes in elections; and
 
 (f) generally for carrying into effect the provisions of this Act.
 
@@ -568,9 +578,11 @@ Restrictions on premises to be used as committee room.
 
 shall not be used as a committee room for the purpose of promoting or procuring the election of a candidate at an election, and any person who hires or uses any such premises or any part thereof as a committee room for
 
-House of Assembly
+Parliament
 
-1950-15 such a purpose as aforesaid, is guilty of illegal hiring and the person letting such premises or part thereof, if he knew that it was intended to use such premises or part thereof as a committee room for such a purpose as aforesaid, is also guilty of illegal hiring:
+1950-15
+
+such a purpose as aforesaid, is guilty of illegal hiring and the person letting such premises or part thereof, if he knew that it was intended to use such premises or part thereof as a committee room for such a purpose as aforesaid, is also guilty of illegal hiring:
 
 Provided that nothing in this section–
 
@@ -594,11 +606,9 @@ Payments made otherwise than through election agents.
 
 Exceeding limit on expenditure.
 
-House of Assembly
+Parliament
 
-1950-15
-
-32. Where any expenditure is incurred in contravention of the provisions of section 14 the person by whom such expenditure was incurred, and the candidate in connection with whose candidature it was incurred, shall be deemed to be guilty of an illegal practice:
+1950-15 32. Where any expenditure is incurred in contravention of the provisions of section 14 the person by whom such expenditure was incurred, and the candidate in connection with whose candidature it was incurred, shall be deemed to be guilty of an illegal practice:
 
 Provided that no candidate shall be deemed to be guilty of an illegal practice by reason of any other person having incurred any expenditure in connection with the candidature of the candidate in contravention of the provisions of section 14 if the candidate proves that such expenditure was incurred without his knowledge or consent and that he took all reasonable steps to prevent the incurrence of such expenditure.
 
@@ -622,9 +632,11 @@ Posters to bear names of printers and publishers.
 
 35.(1)  Every bill, placard, or poster having reference to an election shall bear upon the face thereof the name and address of the printer and publisher thereof; and a person who prints, publishes, posts or knowingly causes to be printed, published or posted, any such bill, placard or poster, which fails to bear upon the face thereof the name and address of the printer and publisher, is, if he be the candidate or the election agent of the candidate be guilty of
 
-House of Assembly
+Parliament
 
-1950-15 an illegal practice, and any such person, if he be not the candidate or the election agent of the candidate, is liable, on summary  conviction,  to a fine of £100.
+1950-15
+
+an illegal practice, and any such person, if he be not the candidate or the election agent of the candidate, is liable, on summary  conviction,  to a fine of £100.
 
 (2)  Subsection (1) shall apply to every printed document distributed for the purpose of promoting or procuring the election of a candidate as it applies to bills, placards and posters but with the substitution of references to distributing for references  to posting.
 
@@ -650,11 +662,9 @@ Relief for innocent acts.
 
 and under the circumstances it seems to the court to be just that such candidate, agent and person, or any of them, should not be subject to any of
 
-House of Assembly
+Parliament
 
-1950-15
-
-the consequences under this Act of the act or omission, the court may make an order allowing such act or omission to be an exception from the provisions of this Act which would otherwise make the same an illegal practice, payment, employment or hiring, and thereupon such candidate, agent or person shall not be subject to any of the consequences under this Act of the act or omission.
+1950-15 the consequences under this Act of the act or omission, the court may make an order allowing such act or omission to be an exception from the provisions of this Act which would otherwise make the same an illegal practice, payment, employment or hiring, and thereupon such candidate, agent or person shall not be subject to any of the consequences under this Act of the act or omission.
 
 Corrupt practices .
 
@@ -680,9 +690,11 @@ False declarations.
 
 Meaning of bribery.
 
-House of Assembly
+Parliament
 
-1950-15 40. The following persons shall be deemed guilty of bribery within the meaning of this Act –
+1950-15
+
+40. The following persons shall be deemed guilty of bribery within the meaning of this Act –
 
 (a)  any person who directly or indirectly by himself or by any other person on his behalf gives, lends, or agrees to give or lend, or offers, promises, or promises to procure or to endeavour to procure, any money or valuable consideration to or for any elector, or to or for any person on behalf of any elector, or to or for any other person, in order to induce any elector to vote for or refrain from voting, or corruptly does any such act on account of such elector having voted or refrained from voting at any election;
 
@@ -696,11 +708,9 @@ House of Assembly
 
 (f) any elector who before or during any election, directly or indirectly, by himself, or by any other person on his behalf, receives, agrees, or contracts for any money, gift, loan, or valuable consideration, office, place, or employment, for
 
-House of Assembly
+Parliament
 
-1950-15
-
-himself or for any person, for voting or agreeing to vote, or for refraining or agreeing to refrain from voting, at any election; and
+1950-15 himself or for any person, for voting or agreeing to vote, or for refraining or agreeing to refrain from voting, at any election; and
 
 (g)  any person who, after any election, directly or indirectly, by himself or by any other person on his behalf, receives any money or valuable consideration on account of any person having voted or refrained from voting, or having induced any other person to vote or refrain from voting, at any election.
 
@@ -720,9 +730,11 @@ Meaning of personation.
 
 43. A person who at an election applies for a ballot paper in the name of another person, whether that name be the name of a person living or dead, or
 
-House of Assembly
+Parliament
 
-1950-15 of a fictitious person, or who, having voted once at any election, applies at the same election for a ballot paper in his own name, is guilty of personation within the meaning of this Act.
+1950-15
+
+of a fictitious person, or who, having voted once at any election, applies at the same election for a ballot paper in his own name, is guilty of personation within the meaning of this Act.
 
 Persons charged with corrupt practice may be convicted of illegal practice.
 
@@ -744,11 +756,9 @@ Offences in respect of ballot papers and ballot boxes.
 
 47.(1)  A person who –
 
-House of Assembly
+Parliament
 
-1950-15
-
-(a)  forges or counterfeits or fraudulently defaces or destroys any nomination paper or any ballot paper or the official mark on any ballot paper;
+1950-15 (a)  forges or counterfeits or fraudulently defaces or destroys any nomination paper or any ballot paper or the official mark on any ballot paper;
 
 (b)  without due authority supplies a ballot paper to any person;
 
@@ -776,7 +786,7 @@ Infringement of secrecy.
 
 (a)  ascertain or attempt to ascertain at the counting of votes the number on the back of any ballot paper; or
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -802,11 +812,9 @@ Breaches of Official duty.
 
 (2)  No person to whom this section applies is liable for breach of his official duties to any penalty at common law or under any enactment except
 
-House of Assembly
+Parliament
 
-1950-15
-
-as provided by this section, nor shall any action for damages lie in respect of the breach by any such person of his official duty.
+1950-15 as provided by this section, nor shall any action for damages lie in respect of the breach by any such person of his official duty.
 
 (3)  The persons to whom this section applies are any registration officer, returning officer, presiding officer or clerk or assistant employed by such an officer in connection with his official duties; and the expression “official duty” shall for the purposes of this section be construed accordingly but shall not include duties imposed otherwise than by the law relating to elections or the registration of electors.
 
@@ -824,9 +832,11 @@ Duties of Attorney-General.
 
 Removal of incapacity.
 
-House of Assembly
+Parliament
 
-1950-15 52. Where a person has become subject to any incapacity under this Act by reason of a conviction and any witness who gave evidence against such incapacitated person upon the proceeding for such conviction is convicted of perjury in respect of that evidence, the incapacitated person may apply to the court, and the court, if satisfied that the conviction so far as respects such person was based upon perjury, may order that such incapacity shall thenceforth cease and the same shall cease accordingly.
+1950-15
+
+52. Where a person has become subject to any incapacity under this Act by reason of a conviction and any witness who gave evidence against such incapacitated person upon the proceeding for such conviction is convicted of perjury in respect of that evidence, the incapacitated person may apply to the court, and the court, if satisfied that the conviction so far as respects such person was based upon perjury, may order that such incapacity shall thenceforth cease and the same shall cease accordingly.
 
 PART IV. ELECTION PETITIONS
 
@@ -852,7 +862,7 @@ Application of English law.
 
 Who may petition.
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -876,7 +886,7 @@ Security for costs.
 
 (2)  The security shall be to such amount, not exceeding £100, as the Chief Justice may direct and shall be given either by a deposit of money into court or by recognizance entered into before the Registrar of the Supreme Court by not more than four sureties, or partly in one way and partly in the other.
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -902,11 +912,9 @@ Trial of petitions.
 
 Withdrawal of election petition.
 
-House of Assembly
+Parliament
 
-1950-15
-
-58.(1)  A petitioner shall not withdraw an election petition without the leave of the court.
+1950-15 58.(1)  A petitioner shall not withdraw an election petition without the leave of the court.
 
 (2)  Before leave for the withdrawal of an election petition is granted there shall be produced affidavits by all the parties to the petition and their solicitors, but the court may on cause shown dispense with the affidavit of any particular person if it seems to the court on special grounds to be just so to do.
 
@@ -924,9 +932,11 @@ House of Assembly
 
 (a)  the result of any agreement, terms or undertaking prohibited by this section; or
 
-House of Assembly
+Parliament
 
-1950-15 (b)  induced  by any corrupt bargain or consideration, the court may by order direct that the security given on behalf of the original petitioner shall remain as security for any costs that may be incurred by the substituted petitioner, and that to the extent of the sum named in the security, the original petitioner and his sureties be liable to pay the costs of the substituted petitioner.
+1950-15
+
+(b)  induced  by any corrupt bargain or consideration, the court may by order direct that the security given on behalf of the original petitioner shall remain as security for any costs that may be incurred by the substituted petitioner, and that to the extent of the sum named in the security, the original petitioner and his sureties be liable to pay the costs of the substituted petitioner.
 
 (9)  If the court does not so direct, then security to the same amount as would be required in the case of a new petition, and subject to the like conditions, shall be given on behalf of the substituted petitioner before he proceeds with his petition and within the prescribed time after the order of substitution.
 
@@ -948,7 +958,7 @@ Exoneration of candidate where agent guilty of offence.
 
 then the election of such candidate shall not, by reason of the offences found to have been committed, be void, nor shall the candidate be subject to any incapacity under this Act.
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -956,113 +966,113 @@ No obligation on voter to disclose vote.
 
 60. No person who has voted at an election shall, in any legal proceeding for the purpose of questioning the validity of the election or return, be required to state for whom he has voted.
 
-PART V. POWERS AND PRIVILEGES OF THE ASSEMBLY.
+PART V. POWERS AND PRIVILEGES OF THE PARLIAMENT.
 
 Privileges.
 
 Freedom of speech and debate.
 
-61. There shall be freedom of speech and debate in the Assembly. Such freedom of speech and debate shall not be liable to be questioned in any court or place outside the Assembly.
+61. There shall be freedom of speech and debate in the Parliament. Such freedom of speech and debate shall not be liable to be questioned in any court or place outside the Parliament.
 
 Immunity from legal proceedings.
 
-62. No civil or criminal proceedings may be instituted against any member for words spoken before, or written in a report to, the Assembly or to a committee thereof or by reason of any matter or thing brought by him therein by petition, Bill, resolution, motion or otherwise.
+62. No civil or criminal proceedings may be instituted against any member for words spoken before, or written in a report to, the Parliament or to a committee thereof or by reason of any matter or thing brought by him therein by petition, Bill, resolution, motion or otherwise.
 
 Power to exclude strangers.
 
-63.(1)  No stranger shall be entitled, as of right, to enter or remain within the precincts of the Assembly Chamber and the Speaker or any officer authorized in that behalf by the Speaker may at any time order any stranger to withdraw therefrom.
+63.(1)  No stranger shall be entitled, as of right, to enter or remain within the precincts of the Parliament Chamber and the Speaker or any officer authorized in that behalf by the Speaker may at any time order any stranger to withdraw therefrom.
 
-(2)  The Speaker may issue such orders as he may in his discretion deem necessary or desirable for the regulation of the admittance of strangers to, and the conduct of strangers within the precincts of the Assembly Chamber.
+(2)  The Speaker may issue such orders as he may in his discretion deem necessary or desirable for the regulation of the admittance of strangers to, and the conduct of strangers within the precincts of the Parliament Chamber.
 
-(3)  The exhibition in a conspicuous position in the precincts of the Assembly Chamber of a copy, duly authenticated by the Clerk, of any orders made by the Speaker under this section shall be deemed to be sufficient notice to all persons affected thereby.
+(3)  The exhibition in a conspicuous position in the precincts of the Parliament Chamber of a copy, duly authenticated by the Clerk, of any orders made by the Speaker under this section shall be deemed to be sufficient notice to all persons affected thereby.
 
 No evidence of proceedings to be given without leave.
 
-64.(1)  No member or officer and no person employed to take or transcribe minutes of evidence before the Assembly or any committee shall give evidence elsewhere respecting the contents of such minutes of evidence or
+64.(1)  No member or officer and no person employed to take or transcribe minutes of evidence before the Parliament or any committee shall give evidence elsewhere respecting the contents of such minutes of evidence or
 
-House of Assembly
+Parliament
 
-1950-15 of the contents of any document laid before the Assembly or committee, as the case may be, or respecting any proceedings or examination held before the Assembly or committee, as the case may be, without the special leave of the Assembly first had and obtained.
+1950-15
+
+of the contents of any document laid before the Parliament or committee, as the case may be, or respecting any proceedings or examination held before the Parliament or committee, as the case may be, without the special leave of the Parliament first had and obtained.
 
 (2)  The special leave referred to in subsection (1) may be given during a recess or adjournment by the Speaker.
 
 Immunity from process within the precincts.
 
-65. Notwithstanding anything to the contrary, no process issued by any court in Gibraltar or outside Gibraltar in exercise of its civil jurisdiction shall be served or executed within the precincts of the Assembly Chamber while the Assembly or a committee is sitting or through the Speaker or any officer of the Assembly, nor shall any member be arrested on civil process, save by leave of the Speaker first obtained, while he is within the precincts of the Assembly Chamber and while the Assembly or a committee is sitting.
+65. Notwithstanding anything to the contrary, no process issued by any court in Gibraltar or outside Gibraltar in exercise of its civil jurisdiction shall be served or executed within the precincts of the Parliament Chamber while the Parliament or a committee is sitting or through the Speaker or any officer of the Parliament, nor shall any member be arrested on civil process, save by leave of the Speaker first obtained, while he is within the precincts of the Parliament Chamber and while the Parliament or a committee is sitting.
 
 Procuring of evidence.
 
 Power to order attendance of witness.
 
-66.(1)  The Assembly or any standing committee may, subject to the provisions of sections 69, 70 and 72, order any person to attend before the Assembly or before such committee and to give evidence or to produce any paper, book, record or document in the possession or under the control of such person.
+66.(1)  The Parliament or any standing committee may, subject to the provisions of sections 69, 70 and 72, order any person to attend before the Parliament or before such committee and to give evidence or to produce any paper, book, record or document in the possession or under the control of such person.
 
-(2)  The powers conferred by subsection (1) on a standing committee may be exercised by any other committee which is specially authorized by the Assembly to exercise such powers.
+(2)  The powers conferred by subsection (1) on a standing committee may be exercised by any other committee which is specially authorized by the Parliament to exercise such powers.
 
 Issue of summons.
 
-67. (1)  Any order to attend to give evidence or to produce documents before the Assembly or an authorized committee shall be notified to the person required to attend or to produce documents by a summons under the hand of the clerk issued by the direction of the Speaker.
+67. (1)  Any order to attend to give evidence or to produce documents before the Parliament or an authorized committee shall be notified to the person required to attend or to produce documents by a summons under the hand of the clerk issued by the direction of the Speaker.
 
 (2)  In every summons under subsection (1) there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce. The summons shall be served on the person mentioned therein by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Gibraltar with some adult person; and there shall be paid or
 
-House of Assembly
+Parliament
 
-1950-15
-
-tendered to the person so summoned, such sum for his expenses as may be specified by standing order.
+1950-15 tendered to the person so summoned, such sum for his expenses as may be specified by standing order.
 
 (3)  A summons under this section may be served by an officer or by a police officer.
 
 Examination on oath.
 
-68.(1)  The Assembly or any authorized committee may require that any facts, matters and things relating to the subject of inquiry before the Assembly or such committee be verified or otherwise ascertained by the oral examination of witnesses, and may cause any such witnesses to be examined upon oath.
+68.(1)  The Parliament or any authorized committee may require that any facts, matters and things relating to the subject of inquiry before the Parliament or such committee be verified or otherwise ascertained by the oral examination of witnesses, and may cause any such witnesses to be examined upon oath.
 
-(2)  An oath required to be taken under the provisions of this section may be administered by the Clerk or by any other person appointed by the Assembly for that purpose, or, in the case of a witness before a committee, by the chairman of the committee or by the member presiding in the absence of the chairman, or by the clerk to the committee.
+(2)  An oath required to be taken under the provisions of this section may be administered by the Clerk or by any other person appointed by the Parliament for that purpose, or, in the case of a witness before a committee, by the chairman of the committee or by the member presiding in the absence of the chairman, or by the clerk to the committee.
 
 Objections to answering questions or producing papers.
 
-69.(1)  Where any person ordered to attend to give evidence or to produce any paper, book, record or document before the Assembly refuses to answer any question that may be put to him or to produce any such paper, book, record or document on the ground that the same is of a private nature and does not affect the subject of inquiry, the Speaker may excuse the answering of such question or the production of such paper, book, record or document, or may order the answering or production thereof.
+69.(1)  Where any person ordered to attend to give evidence or to produce any paper, book, record or document before the Parliament refuses to answer any question that may be put to him or to produce any such paper, book, record or document on the ground that the same is of a private nature and does not affect the subject of inquiry, the Speaker may excuse the answering of such question or the production of such paper, book, record or document, or may order the answering or production thereof.
 
 (2)  Where a person ordered to attend to give evidence or to produce any paper, book, record or document before any authorized committee refuses to answer any question that may be put to him or to produce any such paper, book, record or document on the ground that the same is of a private nature and does not affect the subject of inquiry, the chairman of the committee may report such refusal to the Speaker with the reasons therefor; and the Speaker may thereupon excuse the answering of such question or the production of such paper, book, record or document or may order the answering or production thereof.
 
 Privileges of witnesses.
 
-70. (1)  Every person summoned to attend to give evidence or to produce any paper, book, record or document before the Assembly or an authorized committee shall be entitled, in respect of such evidence or the disclosure of
+70. (1)  Every person summoned to attend to give evidence or to produce any paper, book, record or document before the Parliament or an authorized committee shall be entitled, in respect of such evidence or the disclosure of
 
-House of Assembly
+Parliament
 
-1950-15 any communication or the production of any such paper, book, record or document, to the same rights and privileges as before a court of   law.
+1950-15
+
+any communication or the production of any such paper, book, record or document, to the same rights and privileges as before a court of   law.
 
 (2)  Except with the general or special consent of the Governor, no public officer shall –
 
-(a)  produce before the Assembly or a committee any paper, book, record or document; or
+(a)  produce before the Parliament or a committee any paper, book, record or document; or
 
-(b)  give before the Assembly or a committee evidence on any matter,
+(b)  give before the Parliament or a committee evidence on any matter,
 
-which relates to the correspondence of any naval, military, air force or civil department or to any matter affecting the public service. Secondary evidence shall not be received by or produced before the Assembly or a committee of the contents of any such paper, book, record or document.
+which relates to the correspondence of any naval, military, air force or civil department or to any matter affecting the public service. Secondary evidence shall not be received by or produced before the Parliament or a committee of the contents of any such paper, book, record or document.
 
 Issue of certificates to protect witnesses.
 
-71.(1)  Every witness before the Assembly or an authorized committee who shall answer fully and faithfully any questions put to him by the Assembly or such committee  to its  satisfaction shall be entitled to receive a certificate stating that such witness was upon his examination so required to answer and did answer any such questions.
+71.(1)  Every witness before the Parliament or an authorized committee who shall answer fully and faithfully any questions put to him by the Parliament or such committee  to its  satisfaction shall be entitled to receive a certificate stating that such witness was upon his examination so required to answer and did answer any such questions.
 
-(2)  Every certificate under subsection (1) shall, in the case of a witness before the Assembly, be under the hand of the Speaker, and in the case of a witness before a committee, be under the hand of the chairman thereof.
+(2)  Every certificate under subsection (1) shall, in the case of a witness before the Parliament, be under the hand of the Speaker, and in the case of a witness before a committee, be under the hand of the chairman thereof.
 
 (3)  On production of such certificate to any court of law such court shall stay any proceedings, civil or criminal, except for a charge under section 244 of the Criminal Offences Act1, against such witness for any act or thing done by him before the time and revealed by the evidence of such witness, and may, in its discretion, award to such witness the expenses to which he may have been put.
 
 Usage of Parliament.
 
-72. Where at any time any question arises in the Assembly or in a committee regarding –
+72. Where at any time any question arises in the Parliament or in a committee  regarding –
 
-(a)  the right or power of the Assembly or committee to hear, admit or receive oral evidence; or
+(a)  the right or power of the Parliament or committee to hear, admit or receive oral evidence; or
 
 1 1960-17
 
-House of Assembly
+Parliament
 
-1950-15
+1950-15 (b)  the right or power of the Parliament or committee to peruse or examine any paper, book, record or document or to summon, direct or call upon any persons to produce any paper, book, record or document before the Parliament or committee; or
 
-(b)  the right or power of the Assembly or committee to peruse or examine any paper, book, record or document or to summon, direct or call upon any persons to produce any paper, book, record or document before the Assembly or committee; or
-
-(c)  the right or privilege of any person (including a member of the Assembly or committee) to refuse to produce any paper, book, record or document or to lay any paper, book, record or document before the Assembly or committee,
+(c)  the right or privilege of any person (including a member of the Parliament or committee) to refuse to produce any paper, book, record or document or to lay any paper, book, record or document before the Parliament or committee,
 
 that question shall, subject to the preceding provisions of this Act, and except in so far as express provision is made in those provisions for the determination of that question, be determined in accordance with the usage and practice of the Commons House of Parliament of the United Kingdom of Great Britain and Northern Ireland.
 
@@ -1070,21 +1080,21 @@ Offences.
 
 False evidence.
 
-73. A person who before the Assembly or any authorized committee intentionally gives a false answer to any question material to the subject of inquiry which may be put to him during the course of any examination is guilty of an offence against section 244 of the Criminal Offences Act1.
+73. A person who before the Parliament or any authorized committee intentionally gives a false answer to any question material to the subject of inquiry which may be put to him during the course of any examination is guilty of an offence against section 244 of the Criminal Offences Act1.
 
 False documents.
 
-74. A person who presents to the Assembly or to any committee any false, untrue, fabricated or falsified document with intent to deceive the Assembly, where such presentation does not constitute an offence under section 73, is, liable on summary conviction to imprisonment for six months and to a fine of £100.
+74. A person who presents to the Parliament or to any committee any false, untrue, fabricated or falsified document with intent to deceive the Parliament, where such presentation does not constitute an offence under section 73, is, liable on summary conviction to imprisonment for six months and to a fine of £100.
 
 Interference with witnesses.
 
 75. A person who –
 
-(a)  tampers with, deters, threatens, molests, beguiles or in any way unduly influences any witness in regard to any evidence to be given by him before the Assembly or any committee; or
+(a)  tampers with, deters, threatens, molests, beguiles or in any way unduly influences any witness in regard to any evidence to be given by him before the Parliament or any committee; or
 
-(b)  threatens, molests or in any way punishes, damnifies or injures or attempts to punish, damnify or injure any person for having given evidence before the Assembly or any committee or on account of any evidence which he has given before the Assembly or any committee,
+(b)  threatens, molests or in any way punishes, damnifies or injures or attempts to punish, damnify or injure any person for having given evidence before the Parliament or any committee or on account of any evidence which he has given before the Parliament or any committee,
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -1092,7 +1102,7 @@ is guilty of an offence and is liable on conviction to imprisonment for twelve m
 
 Corrupt and improper practices.
 
-76.(1)  A person who offers to any member or officer or to any person who is an employer, a partner or in the service of any member, either directly or indirectly, any bribe, fee, compensation, gift or reward in order to influence such member or officer in his conduct as such member or officer or for or in respect of the promotion of or opposition to any Bill, resolution, matter, rule or thing submitted to, or intended to be submitted to, the Assembly, is guilty of an offence.
+76.(1)  A person who offers to any member or officer or to any person who is an employer, a partner or in the service of any member, either directly or indirectly, any bribe, fee, compensation, gift or reward in order to influence such member or officer in his conduct as such member or officer or for or in respect of the promotion of or opposition to any Bill, resolution, matter, rule or thing submitted to, or intended to be submitted to, the Parliament, is guilty of an offence.
 
 (2)  A member or officer or any person who is an employer, a partner or in the service of any member who demands, accepts or receives, directly or indirectly, any bribe, fee, compensation, gift or reward the offering of which is or would be an offence under this section is likewise guilty of an offence.
 
@@ -1108,25 +1118,25 @@ Contempt.
 
 77. A person who–
 
-(a)  having been called upon to give evidence before the Assembly or an authorized committee thereof refuses to be sworn or make an affirmation; or
+(a)  having been called upon to give evidence before the Parliament or an authorized committee thereof refuses to be sworn or make an affirmation; or
 
 (b)  being a witness misconducts himself; or
 
-House of Assembly
+Parliament
 
 1950-15
 
-(c)  causes an obstruction or disturbance within the precincts of the Assembly Chamber during a sitting of the Assembly or of a committee thereof; or
+(c)  causes an obstruction or disturbance within the precincts of the Parliament Chamber during a sitting of the Parliament or of a committee thereof; or
 
 (d)  shows disrespect in speech or manner towards the Speaker or person presiding; or
 
-(e)  commits any other act of intentional disrespect to or with reference to the proceedings of the Assembly or of a committee of the Parliam Assembly ent or to any person presiding at such proceedings,
+(e)  commits any other act of intentional disrespect to or with reference to the proceedings of the Parliament or of a committee of the Parliament or to any person presiding at such proceedings,
 
 is guilty of an offence.
 
 Disobedience.
 
-78. A person who wilfully and without lawful cause fails to comply with, or contravenes, any order made under section 63 or section 66, or who wilfully fails to obey any other order of the Assembly whereby the Assembly is obstructed in the performance of its functions is guilty of an offence;
+78. A person who wilfully and without lawful cause fails to comply with, or contravenes, any order made under section 63 or section 66, or who wilfully fails to obey any other order of the Parliament whereby the Parliament is obstructed in the performance of its functions is guilty of an offence;
 
 Provided that no offence is committed under this section unless the Speaker or an officer has drawn to the attention of the person concerned the fact that such failure or contravention is contrary to such order, and the person thereafter continues in such failure or contravention.
 
@@ -1134,17 +1144,17 @@ Breaches of confidence,  etc.
 
 79. A person  who–
 
-(a)  publishes, save by the general or special leave of the Assembly, a report of any proceedings of the Assembly or any committee when such proceedings have not been held in public; or
+(a)  publishes, save by the general or special leave of the Parliament, a report of any proceedings of the Parliament or any committee when such proceedings have not been held in public; or
 
-(b)  publishes any false or scandalous libel on the Assembly or any report which wilfully misrepresents in any way any proceedings of the Assembly or any committee; or
+(b)  publishes any false or scandalous libel on the Parliament or any report which wilfully misrepresents in any way any proceedings of the Parliament or any committee; or
 
-(c)  publishes, save by the general or special leave of the Assembly, any paper, report or other document prepared expressly for submission to the Assembly before the same has been laid on the Table of the Assembly; or
+(c)  publishes, save by the general or special leave of the Parliament, any paper, report or other document prepared expressly for submission to the Parliament before the same has been laid on the Table of the Parliament; or
 
-(d)  prints or causes to be printed a copy of any Act now or hereafter in force or a copy of any report, paper or journals of
+Parliament
 
-House of Assembly
+1950-15
 
-1950-15 the Assembly as purporting to have been printed by the Government Printers, or by or under the authority of the Assembly, or of the Speaker, and the same is not so printed; or
+(d)  prints or causes to be printed a copy of any Act now or hereafter in force or a copy of any report, paper or journals of the Parliament as purporting to have been printed by the Government Printers, or by or under the authority of the Parliament, or of the Speaker, and the same is not so printed; or
 
 (e)  tenders in evidence any such copy as purporting to be so printed knowing the same was not so printed, is guilty of an offence and is liable, on conviction, to imprisonment for twelve months and to a fine of £250.
 
@@ -1152,17 +1162,17 @@ Assaulting, etc., members and officers.
 
 80. A person who –
 
-(a)  assaults, obstructs or insults any member or officer going to or from the precincts of the Assembly Chamber; or
+(a)  assaults, obstructs or insults any member or officer going to or from the precincts of the Parliament Chamber; or
 
-(b)  endeavours to compel either directly or indirectly any member by force, insult or menace to declare himself in favour of or against, any Bill, resolution, matter, rule or thing submitted to, or intended to be submitted to, the Assembly; or
+(b)  endeavours to compel either directly or indirectly any member by force, insult or menace to declare himself in favour of or against, any Bill, resolution, matter, rule or thing submitted to, or intended to be submitted to, the Parliament; or
 
 (c)  assaults, interferes with, resists or obstructs any officer while in the execution of his duty as such officer; or
 
 (d)  sends to any member any threatening letter, or challenges any member to a fight, on account of his conduct as such member; or
 
-(e)  creates or joins in any disturbance which interrupts or is likely to interrupt the proceedings of the Assembly while it is sitting; or
+(e)  creates or joins in any disturbance which interrupts or is likely to interrupt the proceedings of the Parliament while it is sitting; or
 
-(f) publishes or prints any libel on any member concerning his character or conduct as a member and with regard to actions performed or words uttered by him in the course of the transaction of the business of the Assembly,
+(f) publishes or prints any libel on any member concerning his character or conduct as a member and with regard to actions performed or words uttered by him in the course of the transaction of the business of the Parliament,
 
 is guilty of an offence.
 
@@ -1170,37 +1180,39 @@ Penalties.
 
 81. For every offence under this Part for which no other penalty is specially provided the offender is liable on summary conviction to imprisonment for three months and to a fine of £50.
 
-Sanction of Attorney-General.
-
-House of Assembly
+Parliament
 
 1950-15
 
+Sanction of Attorney-General.
+
 82. No prosecution shall be instituted for an offence under this Part, other than an offence under paragraph (c) of section 77 or paragraph (a), (c) or (e) of section 80, except by the Attorney-General upon information given to him in writing by the Speaker.
 
-Powers of the Assembly in cases of contempt.
+Powers of the Parliament in cases of contempt.
 
-83.(1)  Where any member commits any contempt of the Assembly whether specified in section 77 or otherwise, the Assembly may, by resolution, either direct the Speaker to reprimand such member or suspend him from the service of the Assembly for such period as it may determine:
+83.(1)  Where any member commits any contempt of the Parliament whether specified in section 77 or otherwise, the Parliament may, by resolution, either direct the Speaker to reprimand such member or suspend him from the service of the Parliament for such period as it may determine:
 
 Provided that such period shall not extend beyond the last day of the meeting next following that in which the resolution is passed, or of the session in which the resolution is passed, whichever shall first occur.
 
-(2)  No salary or allowance payable to a member of the Assembly for his service as such shall be paid in respect of any period during which he is suspended from the service of the Assembly under the provisions of this section.
+(2)  No salary or allowance payable to a member of the Parliament for his service as such shall be paid in respect of any period during which he is suspended from the service of the Parliament under the provisions of this section.
 
-(3)  If any person not being a member commits a contempt whether specified in section 77 or otherwise, the Assembly may, by resolution, direct that the Speaker shall order such person to appear before the Assembly and that he shall, upon such attendance, reprimand him at the Bar of the Assembly.
+(3)  If any person not being a member commits a contempt whether specified in section 77 or otherwise, the Parliament may, by resolution, direct that the Speaker shall order such person to appear before the Parliament and that he shall, upon such attendance, reprimand him at the Bar of the Parliament.
 
 Miscellaneous.
 
 Commons journals as evidence.
 
-84. Subject to the provisions of this Act, a copy of the journals of the Commons House of Parliament of the United Kingdom of Great Britain and Northern Ireland printed or purporting to be printed by the order or by the printer of such Commons House shall be received as prima facie evidence without proof of its being such copy upon any inquiry touching the privileges, immunities and powers of the Assembly or of any member thereof.
+84. Subject to the provisions of this Act, a copy of the journals of the Commons House of Parliament of the United Kingdom of Great Britain and Northern Ireland printed or purporting to be printed by the order or by the printer of such Commons House shall be received as prima facie evidence without proof of its being such copy upon any inquiry touching the privileges, immunities and powers of the Parliament or of any member thereof.
 
-Journals, etc., of the Assembly as evidence.
+Journals, etc.,  of the Parliament as evidence.
 
-85. Upon any inquiry touching the privileges, immunities and powers of the Assembly or of any member, any copy of the journals, reports or Standing Orders of the Assembly printed or purporting to be printed by the Government Printers, or any copy of the journals, reports or Standing Orders
+85. Upon any inquiry touching the privileges, immunities and powers of the Parliament or of any member, any copy of the journals, reports or Standing
 
-House of Assembly
+Parliament
 
-1950-15 duly authenticated as such under the hand of the clerk, shall be admitted as evidence of such journals, reports or Standing Orders in all courts and places without any further proof being given.
+1950-15
+
+Orders of the Parliament printed or purporting to be printed by the Government Printers, or any copy of the journals, reports or Standing Orders duly authenticated as such under the hand of the clerk, shall be admitted as evidence of such journals, reports or Standing Orders in all courts and places without any further proof being given.
 
 Absence of the Speaker.
 
@@ -1208,15 +1220,15 @@ Absence of the Speaker.
 
 Suspension of members.
 
-87. A member who has been suspended from the service of the Assembly shall not enter or remain within the precincts of the Assembly Chamber whilst such suspension remains in force, and if any member is found within the precincts of the Assembly Chamber in contravention of this section, he may be forcibly removed therefrom by any officer of the Assembly and no proceedings shall lie against such officer in respect of such removal.
+87. A member who has been suspended from the service of the Parliament shall not enter or remain within the precincts of the Parliament Chamber whilst such suspension remains in force, and if any member is found within the precincts of the Parliament Chamber in contravention of this section, he may be forcibly removed therefrom by any officer of the Parliament and no proceedings shall lie against such officer in respect of such removal.
 
 Powers supplementary.
 
-88. The powers of the Assembly and the Speaker under this Act shall be supplementary to any powers conferred by the Gibraltar (Constitution) Order 1969 or any Order in Council amending or replacing it or by Standing Orders.
+88. The powers of the Parliament and the Speaker under this Act shall be supplementary to any powers conferred by the Gibraltar (Constitution) Order 1969 or any Order in Council amending or replacing it or by Standing Orders.
 
 Exclusion of court’s jurisdiction.
 
-89. Neither the Assembly, the Speaker nor any officer shall be subject to the jurisdiction of any court in respect of the exercise of any power conferred on or vested in the Assembly the Speaker or such officer by or under this Part.
+89. Neither the Parliament, the Speaker nor any officer shall be subject to the jurisdiction of any court in respect of the exercise of any power conferred on or vested in the Parliament the Speaker or such officer by or under this Part.
 
 PART VI. PENSIONS.
 
@@ -1224,13 +1236,13 @@ Interpretation.
 
 90.(1)  In this Part, unless the context otherwise requires–
 
-“allowance”, in relation to an elected member, in respect of any service by him as such, means the amount that he was entitled to receive by way of personal remuneration for service, as Speaker, ordinary elected member, Chief Minister, minister, or Leader of the Opposition; but does not in any case include any allowance by way of payment or reimbursement for his expenses;
+“allowance”, in relation to an elected member, in respect of any service by him as such, means the amount that he was entitled to receive by way of personal remuneration for service, as Speaker, ordinary elected member, Chief Minister, minister, or
 
-House of Assembly
+Parliament
 
-1950-15
+1950-15 Leader of the Opposition; but does not in any case include any allowance by way of payment or reimbursement for his expenses;
 
-“elected member” means the Speaker of the Assembly, an ordinary elected member of the Assembly, the Chief Minister, any minister, or the Leader of the Opposition;
+“elected member” means the Speaker of the Parliament, an ordinary elected member of the Parliament, the Chief Minister, any minister, or the Leader of the Opposition;
 
 “notional annual allowance”, in relation to any person, means the notional annual allowance of that person as an elected member, computed in accordance with section 93, immediately before the last day on which he ceases for the time being to be an elected member;
 
@@ -1244,7 +1256,7 @@ House of Assembly
 
 but do not include service before the 1st day of August, 1964.
 
-(3)  For the purposes of this Part, where an elected member vacates his seat in the Assembly by operation of section 29(1)(b) of the Constitution, he shall be deemed to have ceased to be an elected member with the expiration of the last day on which he has previously attended a meeting of the Assembly.
+(3)  For the purposes of this Part, where an elected member vacates his seat in the Parliament by operation of section 29(1)(b) of the Constitution, he shall be deemed to have ceased to be an elected member with the expiration of the last day on which he has previously attended a meeting of the Parliament.
 
 (4)  For the purposes of this Part, a person becomes entitled to a pension when he qualifies under section 91(1), notwithstanding that by reason of section 91(2) the pension is not for the time being payable to him.
 
@@ -1254,11 +1266,13 @@ Entitlement to pension.
 
 (a) has served as an elected member for a period or periods (whether continuous or not and whether before or after the 20th day of December, 1979) being in the aggregate not less than 90 months; and
 
-(b) has served as an elected member in the third or any subsequent Assembly of the Gibraltar House of Assembly –
+Parliament
 
-House of Assembly
+1950-15
 
-1950-15 shall, on ceasing to be an elected member be entitled to a pension under this Act.
+(b) has served as an elected member in the third or any subsequent Assembly of the Gibraltar Parliament–
+
+shall, on ceasing to be an elected member be entitled to a pension under this Act.
 
 (2)  Notwithstanding subsection (1), no pension shall become payable under this Act before the person who is entitled to it has attained the age of 55 years.
 
@@ -1284,11 +1298,11 @@ where–
 
 (3)  In subsection (1), in any case where a person has served as an elected member for more than 336 completed months–
 
-(a)  the factor “a” shall be the greatest sum that he has received in any period of 336 completed months of his service (the allowances actually received being first converted in accordance with subsection (2)); and
+(a)  the factor “a” shall be the greatest sum that he has received in any period of 336 completed months of his service (the
 
-House of Assembly
+Parliament
 
-1950-15
+1950-15 allowances actually received being first converted in accordance with subsection (2)); and
 
 (b)  the factor  “b” shall be 336
 
@@ -1316,11 +1330,11 @@ Effect of re-election.
 
 (2)  Where a person to whom subsection (1) applies next ceases again to be an elected member the pension to which he was entitled before his re- election shall be re-computed ab initio to take into account the further period of service, and he shall be entitled to the pension as re-computed but in any event being at a rate not less than that which he was entitled before his re-election.
 
-(3)  Where, in respect of the pension to which he was entitled before his re-election, a person did not exercise the option referred to in section 94, he
+Parliament
 
-House of Assembly
+1950-15
 
-1950-15 may not exercise that option in respect of any re-computation under this section.
+(3)  Where, in respect of the pension to which he was entitled before his re-election, a person did not exercise the option referred to in section 94, he may not exercise that option in respect of any re-computation under this section.
 
 (4)  Where, in respect of the pension to which he was entitled before his re-election, a person did exercise the option referred to in section 94, he shall be deemed also to have exercised the same option in respect of the period of his service after his re-election and before he next ceases to be an elected member.
 
@@ -1342,11 +1356,9 @@ Members dying of injuries or diseases contracted on duty.
 
 (ii) contracts a disease to which he is exposed by the nature of his duty and which is not wholly or mainly caused or seriously aggravated by his own serious and culpable negligence or misconduct; and
 
-(b)  in either case, the injury has occurred or the disease has been contracted on or after the 1st day of August, 1964–
+Parliament
 
-House of Assembly
-
-1950-15
+1950-15 (b)  in either case, the injury has occurred or the disease has been contracted on or after the 1st day of August, 1964–
 
 and the elected member dies as a direct result thereof, and such death occurs within 7 years of the date when he was injured or contracted the disease, there shall be payable to his legal personal representative, in lieu of any sum under section 96, a sum equal to the maximum gratuity to which the deceased elected member would have been entitled if–
 
@@ -1366,11 +1378,13 @@ or a sum equal to his notional annual allowance, whichever is the greater sum.
 
 (c)  no regard shall be had to the Oversea Superannuation Scheme or to other public service; and
 
-(d)  the Governor shall have the same powers with respect to granting, withholding, reducing and re-granting, and otherwise in relation to such pensions, as he has in corresponding
+(d)  the Governor shall have the same powers with respect to granting, withholding, reducing and re-granting, and otherwise
 
-House of Assembly
+Parliament
 
-1950-15 circumstances in the case of dependants of the officers referred to above.
+1950-15
+
+in relation to such pensions, as he has in corresponding circumstances in the case of dependants of the officers referred to above.
 
 Members injured or contracting diseases on duty.
 
@@ -1394,13 +1408,11 @@ he shall, on so ceasing to be an elected member, be entitled to a pension under 
 
 (2)  Where an elected member has become or becomes entitled to a pension by virtue of subsection (1), he shall be entitled to an additional pension calculated by reference to the degree by which his capacity to contribute to his own support is impaired, at the annual rate of the appropriate proportion of his notional annual allowance at the date of his injury according to the following scale:
 
-(a)  slight impairment:
+Parliament
+
+1950-15 (a)  slight impairment:
 
 5/60
-
-House of Assembly
-
-1950-15
 
 (b)  impairment:
 
@@ -1434,17 +1446,17 @@ Cessation of pension on disqualification.
 
 100. Where any person who is entitled to a pension under this Act subsequently ceases to be qualified to be elected as an elected member, by reason of any ground specified in either of paragraphs (g) and (j) of section 28(1) of the Constitution, the pension and any gratuity under section 94 shall cease to be payable to him for so long as he is so disqualified.
 
-Increase of pension.
-
-House of Assembly
+Parliament
 
 1950-15
 
+Increase of pension.
+
 101.(1) Every pension to which a person is entitled under this Act shall be increased in accordance with this section where there has been an increase in the cost of living after he has become entitled to the pension.
 
-(2)  The rate of every pension to which a person is entitled under this Act shall be reviewed by the Financial and Development Secretary as soon as may be on or after the 1st day of October in every year.
+(2)  The rate of every pension to which a person is entitled under this Act shall be reviewed by the Financial Secretary as soon as may be on or after the 1st day of October in every year.
 
-(3)  Where the Financial and Development Secretary determines that the cost of living has risen by 2 per cent or more from the 1st day of July in the preceding year, the rate of the pension shall be increased with effect from the 1st day of July in the year of review or, as the case may require, from such later date in the year of review as the entitlement actually arises, in the proportion (to the nearest 1/10 of one per cent) in which the cost of living has risen during that period.
+(3)  Where the Financial Secretary determines that the cost of living has risen by 2 per cent or more from the 1st day of July in the preceding year, the rate of the pension shall be increased with effect from the 1st day of July in the year of review or, as the case may require, from such later date in the year of review as the entitlement actually arises, in the proportion (to the nearest 1/10 of one per cent) in which the cost of living has risen during that period.
 
 (4)  For the purposes of this section, the question whether there has or has not been a rise in the cost of living shall be determined solely by reference to the index of retail price as shown in the index produced by the Government of Gibraltar.
 
@@ -1456,7 +1468,7 @@ Charge on Consolidated Fund.
 
 102. There shall be charged upon and paid out of the Consolidated Fund, without further appropriation than this section, all such sums of money as become payable under this Part.
 
-House of Assembly
+Parliament
 
 1950-15
 
@@ -1468,7 +1480,7 @@ CLASSES OF PUBLIC OFFICERS WHO MAY BE ELECTED AS MEMBERS.
 
 1.Holders of any public office under the Crown in right of Her Majesty’s Government in the United Kingdom.
 
-House of Assembly
+Parliament
 
 1950-15
 
