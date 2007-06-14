@@ -1,18 +1,18 @@
-Factories FACTORIES (ELECTRICITY) REGULATIONS
+Subsidiary Legislation made under s.58.
 
-Subsidiary 1956.12.06 1956-12 Regulations made under s. 58.
+Factories (Electricity) Regulations
 
-FACTORIES (ELECTRICITY) REGULATIONS
+1956.12.06
 
-(1956.12.06)
+Commencement 6.12.1956
 
-6.12.1956
+Amending enactments Relevant current provisions Commencement date
 
-Amending enactments Relevant current provisions Commencement date Order of 25.11.1969 r. 4 Regs. of 28. 5.1970 r. 3(1) LN. 1994/063 rr. 22(2)(a), (b), (c)(i), 33, 34 1.8.1994
+Order of 25.11.1969 r. 4
 
-Factories FACTORIES (ELECTRICITY) REGULATIONS
+Regs. of 28. 5.1970 r. 3(1) LN. 1994/063 rr. 22(2)(a)-(b), (c)(i), 33-34 1.8.1994 Act. 2007-17 r. 4 14.6.2007
 
-Subsidiary 1956.12.06 1956-12 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
