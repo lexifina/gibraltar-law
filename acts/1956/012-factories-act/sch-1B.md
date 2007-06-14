@@ -8,35 +8,33 @@ Gravimetric method
 
 Method.
 
-1. The method selected shall be a gravimetric method which is capable of measuring the total quantities of dust emitted through the discharge ducts.
+1.The method selected shall be a gravimetric method which is capable of measuring the total quantities of dust emitted through the discharge ducts.
 
 Account shall be taken of the concentration of asbestos in dust. When concentration measurements are required, the concentration of asbestos in dust shall be measured or evaluated. The Minister shall decide on the periodicity of such measure, according to the characteristics of the plant and of its production, but this should be initially at least every six months. If the Minister has established that the concentration does not display any significant variation, the frequency of measurement may be reduced. Where periodical measures are not taken, the limit value specified in section 112 of the Act apply to the total dust emissions. Sampling shall be conducted before any dilution of the flow to be measured.
 
 Sampling.
 
-2. The sampling must be conducted to a precision of plus or minus  40 % and an accuracy of plus or minus 20 % at the limit value. The limit of detection must be 20 %. At least two measurements under the same conditions shall be made in order to check the compliance with the limit value.
+2.The sampling must be conducted to a precision of plus or minus  40 % and an accuracy of plus or minus 20 % at the limit value. The limit of detection must be 20 %. At least two measurements under the same conditions shall be made in order to check the compliance with the limit value.
 
 Operation of the installation.
 
-3. Measurements shall only be valid if sampling takes place while the installation is operating normally.
+3.Measurements shall only be valid if sampling takes place while the installation is operating normally.
 
 Selecting the sampling point.
 
-4. Sampling shall take place at a point where there is a laminar flow of air. As far as possible, care shall be taken to avoid turbulence and obstacles which might disrupt the flow of air.
+4.Sampling shall take place at a point where there is a laminar flow of air. As far as possible, care shall be taken to avoid turbulence and obstacles which might disrupt the flow of air.
 
-Factories
+Modifications required for sampling.
 
-1956-12 Modifications required for sampling.
-
-5. Suitable apertures shall be made in ducts where sampling is to take place and proper platforms shall be provided.
+5.Suitable apertures shall be made in ducts where sampling is to take place and proper platforms shall be provided.
 
 Measurements to be taken before sampling.
 
-6. Before sampling commences, it is first necessary to measure air temperature and pressure and the velocity of flow in the duct. Air temperature and pressure shall normally be measured along the sampling line at normal flow rates. Under exceptional conditions, it is also necessary to measure the water vapour concentration so that the results can be amended accordingly.
+6.Before sampling commences, it is first necessary to measure air temperature and pressure and the velocity of flow in the duct. Air temperature and pressure shall normally be measured along the sampling line at normal flow rates. Under exceptional conditions, it is also necessary to measure the water vapour concentration so that the results can be amended accordingly.
 
 General requirements of the sampling procedure.
 
-7. The procedure requires a sample of air from a duct carrying the emissions of asbestos dust to be drawn through a filter, and the asbestos content of the dust retained in the filter to be measured.
+7.The procedure requires a sample of air from a duct carrying the emissions of asbestos dust to be drawn through a filter, and the asbestos content of the dust retained in the filter to be measured.
 
 7.1. The sampling line shall first be checked to ensure that it is airtight and that there are no leaks which might give rise to measurement errors. The sampler head shall be carefully sealed off and the sampler pump started up. The rate of leakage shall not exceed 1 % of the normal sampling flow.
 
@@ -50,15 +48,13 @@ General requirements of the sampling procedure.
 
 Nature of the sampler filter.
 
-8. The filter appropriate to the technique of analysis used shall be chosen. For the gravimetric method, glassfibre filters are preferable.
+8.The filter appropriate to the technique of analysis used shall be chosen. For the gravimetric method, glassfibre filters are preferable.
 
-Factories
-
-1956-12 8.1. A minimum filtration efficiency of 99% is required, as defined with reference to the DOP test using an aerosol with  particles  of  0,3 ,um diameter.
+8.1. A minimum filtration efficiency of 99% is required, as defined with reference to the DOP test using an aerosol with  particles  of  0,3 ,um diameter.
 
 Weighing.
 
-9. An appropriate high precision balance shall be used.
+9.An appropriate high precision balance shall be used.
 
 9.1. In order to achieve the accuracy required for weighing it is essential to condition filters thoroughly before and after sampling.
 
@@ -78,9 +74,7 @@ Operation of the installation.
 
 12.1.  Measurement shall only be valid if sampling takes place while the installation is operating normally.
 
-Factories
-
-1956-12 Selecting the sampling point.
+Selecting the sampling point.
 
 12.2.  Sampling shall take place at a point where there is a laminar flow of air. As far as possible, care shall be taken to avoid turbulence and obstacles which might disrupt the flow of air.
 
@@ -106,9 +100,7 @@ General requirements of the sampling procedure.
 
 Nature of the sampling collection filter.
 
-Factories
-
-1956-12 12.6. The filter appropriate to the technique of measurement shall be chosen. For the countable fibre method, membrane filters (mixed esters of cellulose or cellulose nitrate) of nominal pore size 5 mm, with printed squares and a diameter of 25 mm shall be used.
+12.6. The filter appropriate to the technique of measurement shall be chosen. For the countable fibre method, membrane filters (mixed esters of cellulose or cellulose nitrate) of nominal pore size 5 mm, with printed squares and a diameter of 25 mm shall be used.
 
 12.6.1. The sample collection filter shall have a minimum filtration efficiency of 99 % with respect to countable asbestos fibres.
 
@@ -119,7 +111,3 @@ Counting of fibres.
 Expression of results.
 
 12.8.  In addition to measurement data, results shall record temperature, pressure and flow data and shall include all relevant information, such as a simple diagram showing the location of sampling points, the dimensions of ducts, the volumes sampled and the market of calculation used to obtain the results. These results shall be expressed at normal temperature (273 K) and pressure (101,3 kPA).
-
-Factories
-
-1956-12

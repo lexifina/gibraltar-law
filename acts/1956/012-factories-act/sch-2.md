@@ -19,7 +19,3 @@ PROCESSES REQUIRING PROVISION OF SUITABLE GOGGLES OR EFFECTIVE SCREENS.
 (c)  chipping or scaling of boilers or ships’ plates;
 
 (d)  breaking or dressing of stone, concrete or slag.
-
-Factories
-
-1956-12
