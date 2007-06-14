@@ -80,7 +80,7 @@ LN. 1983/097 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Schs.2-5
 
 14.3.2001 LN. 2002/004 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.2-5
 
-1.1.2002 2004/129 Sch.1 3.1.2005 Act. 2007-22 s. 5(1)-(3) 1.7.2006 LN. 2007/052 Sch.1 1.4.2007
+1.1.2002 2004/129 Sch.1 3.1.2005 Act. 2007-22 s. 5(1)-(3) 1.7.2006 LN. 2007/052 Sch.1 1.4.2007 Act. 2007-17 s. 51(3)-(4) 14.6.2007
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
