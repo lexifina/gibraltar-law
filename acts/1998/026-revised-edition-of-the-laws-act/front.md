@@ -1,8 +1,4 @@
-Revised Edition of the Laws
-
-1998-26
-
-REVISED EDITION OF THE LAWS ACT
+Revised Edition of the Laws Act 1998
 
 Principal Act
 
@@ -10,9 +6,13 @@ Act. No. 1998-26 Commencement 9.7.1998
 
 Assent 9.7.1998
 
-_____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF SECTIONS.
+Act. 2007-17 ss. 2, 3(1)(b), (e), (3), 4(1)(a), 5(1), 6, 7(1)-(2), 8, 9(1)-(2), 10, 13-15
+
+14.6.2007
+
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -28,8 +28,8 @@ PART II. REVISION.
 
 PART III. SUPPLEMENTARY.
 
-16.    Continuity of the law. 17.    Repeal. SCHEDULE.
+16.    Continuity of the law. 17.    Repeal.
 
-Revised Edition of the Laws
+SCHEDULE.
 
-1998-26 AN ACT TO AUTHORISE THE PREPARATION OF REVISED EDITIONS OF THE STATUTE LAWS OF GIBRALTAR AND TO PROVIDE FOR A CONTINUING PROCESS OF REVISION AND CONSOLIDATION OF SUCH LAWS.
+AN ACT TO AUTHORISE THE PREPARATION OF REVISED EDITIONS OF THE STATUTE LAWS OF GIBRALTAR AND TO PROVIDE FOR A CONTINUING PROCESS OF REVISION AND CONSOLIDATION OF SUCH LAWS.
