@@ -6,15 +6,21 @@ QUARANTINE ACT
 
 Principal Act
 
-Act. No. 1935-07 Commencement 17.5.1935 Assent 17.5.1935
+Act. No. 1935-07 Commencement 17.5.1935
 
-Amending enactments Relevant current provisions Commencement date Act. 1937-04 s. 2 1944-10 - 1948-09 ss. 2, 4(3), 29 1987-34 s. 2 27.12.1987 1997-25 s. 2 21.8.1997
+Assent 17.5.1935
+
+Amending enactments Relevant current provisions Commencement date Act. 1937-04 s. 2 1944-10 -
+
+1948-09 ss. 2, 4(3), 29
+
+1987-34 s. 2 27.12.1987 1997-25 s. 2 21.8.1997 2007-17 ss. 2, 3, 4(1), (3), 20(5), 21(1), 22(1), 23, 25, 29
+
+14.6.2007
 
 Quarantine
 
-1935-07
-
-ARRRANGEMENT OF SECTIONS.
+1935-07 ARRANGEMENT OF SECTIONS.
 
 Section
 
