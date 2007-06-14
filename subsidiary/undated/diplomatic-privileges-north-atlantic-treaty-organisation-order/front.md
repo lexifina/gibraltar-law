@@ -1,7 +1,5 @@
-Diplomatic Privileges (International Organisations) DIPLOMATIC PRIVILEGES (NORTH ATLANTIC TREATY ORGANISATION) ORDER
+Subsidiary Legislation made under s.2.
 
-Subsidiary 1955.10.13-2 1948-28 Orders made under s.2.
+Diplomatic Privileges (North Atlantic Treaty Organisation) Order
 
-DIPLOMATIC PRIVILEGES (NORTH ATLANTIC TREATY ORGANISATION) ORDER
-
-(1955.10.13-2)
+1955.10.13-2
