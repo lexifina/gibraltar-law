@@ -34,7 +34,7 @@ Drug Trafficking Offences
 
 Transmission of evidence.
 
-4. (1) The evidence received by the court shall be furnished to the Attorney General for transmission to the court, tribunal or authority that made the request.
+4. (1) The evidence received by the court shall be furnished to the Minister responsible for justice for transmission to the court, tribunal or authority that made the request.
 
 (2) If, in order to comply with the request , it is necessary for the evidence to be accompanied by any certificate, affidavit or other verifying document, the court shall also furnish for transmission such document of that nature as may be specified in the notice nominating the court.
 
