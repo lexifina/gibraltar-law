@@ -28,9 +28,7 @@ The text of the Convention on the law applicable to contractuaI obligations in t
 
 ARTICLE 3
 
-Contracts (Applicable Law)
-
-1993-27 This Convention shall be ratified by the Signatory States. The instruments of ratification shall be deposited with the Secretary-General of the Council of the European Communities.
+This Convention shall be ratified by the Signatory States. The instruments of ratification shall be deposited with the Secretary-General of the Council of the European Communities.
 
 ARTICLE 4
 
@@ -48,8 +46,4 @@ The Secretary-General of the Council of the European Communities shall notify th
 
 ARTICLE 6
 
-This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish and Italian languages, all eight texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Communities. The Secretary- General shall transmit a certified copy to the Government of each Signatory State.
-
-Contracts (Applicable Law)
-
-1993-27
+This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish and Italian languages, all eight texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy to the Government of each Signatory State.

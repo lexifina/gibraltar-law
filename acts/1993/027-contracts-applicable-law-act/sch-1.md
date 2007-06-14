@@ -34,10 +34,6 @@ Scope of the Convention
 
 - rights and duties arising out of a family relationship, parentage, marriage or affinity, including maintenance obligations in respect of children who are not legitimate;
 
-Contracts (Applicable Law)
-
-1993-27
-
 (c) obligations arising under bills of exchange, cheques and promissory notes and other negotiable instruments to the extent that the obligations under such other negotiable instruments arise out of their negotiable character;
 
 (d) arbitration agreements and agreements on the choice of court;
@@ -66,10 +62,6 @@ UNIFORM  RULES
 
 ARTICLE 3
 
-Contracts (Applicable Law)
-
-1993-27
-
 Freedom of choice
 
 1. A contract shall be governed by the law chosen by the parties. The choice must be express or demonstrated with reasonable certainty by the terms of the contract or the circumstances of the case. By their choice the parties can select the law applicable to the whole or a part only of the contract.
@@ -86,11 +78,7 @@ Applicable law in the absence of choice
 
 1.  To the extent that the law applicable to the contract has not been chosen in accordance with Article 3, the contract shall be governed by the law of the country with which it is most closely connected. Nevertheless, a severable part of the contract which has a closer connection with another country may by way of exception be governed by the law of that other country.
 
-2.  Subject to the provisions of paragraph 5 of this Article, it shall be presumed that the contract is most closely connected with the country where the party who is to effect the performance which is characteristic of the contract has, at the time of conclusion of the contract, his habitual residence, or, in the case of a body corporate or unincorporate, its central administration. However, if the contract is entered into in the course of that party’s trade or profession, that country shall be the country in which the principal place of business is situated or, where under the terms of the contract the performance is to be effected through a place of business other
-
-Contracts (Applicable Law)
-
-1993-27 than the principal place of business, the country in which that other place of business is situated.
+2.  Subject to the provisions of paragraph 5 of this Article, it shall be presumed that the contract is most closely connected with the country where the party who is to effect the performance which is characteristic of the contract has, at the time of conclusion of the contract, his habitual residence, or, in the case of a body corporate or unincorporate, its central administration. However, if the contract is entered into in the course of that party’s trade or profession, that country shall be the country in which the principal place of business is situated or, where under the terms of the contract the performance is to be effected through a place of business other than the principal place of business, the country in which that other place of business is situated.
 
 3. Notwithstanding the provisions of paragraph 2 of the Article, to the extent that the subject matter of the contract is a right in immovable property or a right to use immovable property it shall be presumed that the contract is most closely connected with the country where the immovable property is situated.
 
@@ -110,9 +98,7 @@ Certain consumer contracts
 
 - if the other party or his agent received the consumer’s order in that country, or
 
-Contracts (Applicable Law)
-
-1993-27 - if the contract is for the sale of goods and the consumer travelled from that country to another country and there gave his order, provided that the consumer’s journey was arranged by the seller for the purpose of inducing the consumer to buy.
+- if the contract is for the sale of goods and the consumer travelled from that country to another country and there gave his order, provided that the consumer’s journey was arranged by the seller for the purpose of inducing the consumer to buy.
 
 3.  Notwithstanding the provisions of Article 4, a contract to which this Article applies shall, in the absence of choice in accordance with Article 3, be governed by the law of the country in which the consumer has his habitual residence if it is entered into in the circumstances described in paragraph 2 of this Article.
 
@@ -137,10 +123,6 @@ Individual employment contracts
 (b) if the employee does not habitually carry out his work in any one country, by the law of the country in which the place of business through which he was engaged is situated;
 
 unless it appears from the circumstances as a whole that the contract is more closely connected with another country, in which case the contract shall be governed by the law of that country.
-
-Contracts (Applicable Law)
-
-1993-27
 
 ARTICLE 7
 
@@ -167,10 +149,6 @@ Formal validity
 2.  A contract concluded between persons who are in different countries is formally valid if it satisfies the formal requirements of the law which governs it under this Convention or of the law of one of those countries.
 
 3.  Where a contract is concluded by an agent, the country in which the agent acts is the relevant country for the purposes of paragraphs l and 2.
-
-Contracts (Applicable Law)
-
-1993-27
 
 4.  An act intended to have legal effect relating to an existing or contemplated contract is formally valid if it satisfies the formal requirements of the law which under this Convention governs or would govern the contract or of the law of the country where the act was done.
 
@@ -200,10 +178,6 @@ ARTICLE 11
 
 Incapacity
 
-Contracts (Applicable Law)
-
-1993-27
-
 In a contract concluded between persons who are in the same country, a natural person who would have capacity under the law of that country may invoke his incapacity resulting from another law only if the other party to the contract was aware of this incapacity at the time of the conclusion of the contract or was not aware thereof as a result of negligence.
 
 ARTICLE 12
@@ -228,9 +202,7 @@ Burden of proof, etc.
 
 1. The law governing the contract under this Convention applies to the extent that it contains, in law of contract, rules which raise presumptions of law or determine the burden of proof.
 
-Contracts (Applicable Law)
-
-1993-27 2.  A contract or an act intended to have legal effect may be proved by any mode of proof recognised by the law of the forum or by any of the laws referred to in Article 9 under which that contract or act is formally valid, provided that such mode of proof can be administered by the forum.
+2.  A contract or an act intended to have legal effect may be proved by any mode of proof recognised by the law of the forum or by any of the laws referred to in Article 9 under which that contract or act is formally valid, provided that such mode of proof can be administered by the forum.
 
 ARTICLE 15
 
@@ -262,9 +234,7 @@ States with more than one legal system
 
 1. Where a State comprises several territorial units each of which has its own rules of law in respect of contractual obligations, each territorial unit shall be considered as a country for the purposes of identifying the law applicable under this Convention.
 
-Contracts (Applicable Law)
-
-1993-27 2. A State within which different territorial units have their own rules of law in respect of contractual obligations shall not be bound to apply this Convention to conflicts solely between the laws of such units.
+2. A State within which different territorial units have their own rules of law in respect of contractual obligations shall not be bound to apply this Convention to conflicts solely between the laws of such units.
 
 ARTICLE 20
 
@@ -298,11 +268,7 @@ FINAL PROVISIONS
 
 ARTICLE 23
 
-1. If, after the date on which this Convention has entered into force for a Contracting State, that State wishes to adopt any new choice of law rule in
-
-Contracts (Applicable Law)
-
-1993-27 regard to any particular category of contract within the scope of this Convention, it shall communicate its intention to the other signatory States through the Secretary-General of the Council of the European Communities.
+1. If, after the date on which this Convention has entered into force for a Contracting State, that State wishes to adopt any new choice of law rule in regard to any particular category of contract within the scope of this Convention, it shall communicate its intention to the other signatory States through the Secretary-General of the Council of the European Communities.
 
 2. Any signatory State may, within six months from the date of the communication made to the Secretary-General, request him to arrange consultations between signatory States in order to reach agreement.
 
@@ -321,10 +287,6 @@ If a Contracting State considers that the unification achieved by this Conventio
 ARTICLE 26
 
 Any Contracting State may request the revision of this Convention. In this event a revision conference shall be convened by the President of the Council of the European Communities.
-
-Contracts (Applicable Law)
-
-1993-27
 
 ARTICLE 27 Omitted
 
@@ -346,15 +308,11 @@ ARTICLE 30
 
 2. If there has been no denunciation it shall be renewed tacitly every five years.
 
-3. A Contracting State which wishes to denounce shall, not less than six months before the expiration of the period of 10 or five years, as the case may be, give notice to the Secretary-General of the Council of the European Communities.
+3. A Contracting State which wishes to denounce shall, not less than six months before the expiration of the period of 10 or five years, as the case may be, give notice to the Secretary- General of the Council of the European Communities.
 
 4. The denunciation shall have effect only in relation to the State which has notified it. The Convention will remain in force as between all other Contracting States.
 
 ARTICLE  31
-
-Contracts (Applicable Law)
-
-1993-27
 
 The Secretary-General of the Council of the European Communities shall notify the States party to the Treaty establishing the European Economic Community of:
 
@@ -374,14 +332,10 @@ The Protocol annexed to this Convention shall form an integral part thereof.
 
 ARTICLE  33
 
-This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Irish and Italian languages, these texts being equally authentic, shall be deposited in the archives of the Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy thereof to the Government of each signatory State.
+This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Irish and Italian languages, these texts being equally authentic, shall be deposited in the archives of the Secretariat of the Council of the European Communities. The Secretary- General shall transmit a certified copy thereof to the Government of each signatory State.
 
 PROTOCOL
 
 The High Contracting Parties have agreed upon the following provision which shall be annexed to the Convention:
 
 Notwithstanding the provisions of the Convention, Denmark may retain the rules contained in Soloven (Statute on Maritime Law) paragraph 169 concerning the applicable law in matters relating to carriage of goods by sea and may revise these rules without following the procedure prescribed in Article 23 of the Convention.
-
-Contracts (Applicable Law)
-
-1993-27

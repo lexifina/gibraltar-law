@@ -1,22 +1,16 @@
-Contracts (Applicable Law)
-
-1993-27
-
-CONTRACTS (APPLICABLE LAW) ACT 1993
+Contracts (Applicable Law) Act 1993
 
 Principal Act
 
-Act. No. 1993-27 Commencement 18.7.1994
+Act. No. 1993-27 Commencement (LN.1995/058) 18.7.1994
 
 Assent 16.12.1993
 
-Amending enactments Relevant current provisions Commencement date LN. 1994/121 ss.2, 2(d), 3(4), 3(4)(b), (c) and (d), Sch.1 and Sch.3A.
+Amending enactments Relevant current provisions Commencement date
 
-1.9.1994 1995/042 s. 3(1A) 1.4.1995
+LN. 1994/121 ss. 2, (d), 3(4), (b)-(d), Schs. 1, 3A 1.9.1994 1995/042 s. 3(1A) 1.4.1995 Act. 2007-17 s. 5(1) 14.6.2007
 
-Contracts (Applicable Law)
-
-1993-27 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -31,5 +25,3 @@ SCHEDULE 3. The Brussels Protocol.
 SCHEDULE 3A. The Funchal Convention.
 
 SCHEDULE 4. Application of “Contracting State”.
-
-Contracts (Applicable Law)

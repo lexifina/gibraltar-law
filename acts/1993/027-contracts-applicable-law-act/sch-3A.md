@@ -30,11 +30,7 @@ The Convention on the law applicable to contractual obligations is hereby amende
 
 ARTICLE 3
 
-The Secretary-General of the Council of the European Communities shall transmit a certified copy of the Convention on the law applicable to contractual obligations in the Danish, Dutch, English, French, German,
-
-Contracts (Applicable Law)
-
-1993-27 Greek, Irish and Italian languages to the Governments of the Kingdom of Spain and the Portuguese Republic.
+The Secretary-General of the Council of the European Communities shall transmit a certified copy of the Convention on the law applicable to contractual obligations in the Danish, Dutch, English, French, German, Greek, Irish and Italian languages to the Governments of the Kingdom of Spain and the Portuguese Republic.
 
 ARTICLE 4
 
@@ -57,7 +53,3 @@ The Secretary-General of the Council of the European Communities shall notify th
 ARTICLE 7
 
 This Convention drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish, Italian, Portuguese and Spanish languages, all ten texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy to the Government of each Signatory State.
-
-Contracts (Applicable Law)
-
-1993-27

@@ -28,11 +28,7 @@ The Court of Justice of the European Communities shall have jurisdiction to give
 
 ARTICLE 2
 
-Any of the courts referred to below may request the Court of Justice to give a preliminary ruling on a question raised in a case pending before it and concerning interpretation of the provisions contained in the instruments
-
-Contracts (Applicable Law)
-
-1993-27 referred to in Article 1 if that court considers that a decision on the question is necessary to enable it to give judgment:
+Any of the courts referred to below may request the Court of Justice to give a preliminary ruling on a question raised in a case pending before it and concerning interpretation of the provisions contained in the instruments referred to in Article 1 if that court considers that a decision on the question is necessary to enable it to give judgment:
 
 (a)  - in Belgium:
 
@@ -62,10 +58,6 @@ la Cour de cassation (het Hof van Cassatie) and le Conseil d’Etat (de Raad van
 
 (b) the courts of the Contracting States when acting as appeal courts.
 
-Contracts (Applicable Law)
-
-1993-27
-
 ARTICLE 3
 
 1. The competent authority of a Contracting State may request the Court of Justice to give a ruling on a question of interpretation of the provisions contained in the instruments referred to in Article 1 if judgments given by courts of that State conflict with the interpretation given either by the Court of Justice or in a judgment of one of the courts of another Contracting State referred to in Article 2. The provisions of this paragraph shall apply only to judgments which have become res judicata.
@@ -88,13 +80,11 @@ ARTICLE 5
 
 This Protocol shall be subject to ratification by the Signatory States. The instruments of ratification shall be deposited with the Secretary-General of the Council of the European Communities.
 
-Contracts (Applicable Law)
-
-1993-27
-
 ARTICLE 6
 
-1. To enter into force, this Protocol must be ratified by seven States in respect of which the Rome Convention is in force. This Protocol shall enter into force on the first day of the third month following the deposit of the instrument of ratification by the last such State to take this step. If, however, the Second Protocol conferring on the Court of Justice of the European Communities certain powers to interpret the Convention on the law applicable to contractual obligations, opened for signature in Rome on 19 June 1980, concluded in Brussels on 19 December 1988, enters into force on a later date, this Protocol shall enter into force on the date of entry into force of the Second Protocol.
+1. To enter into force, this Protocol must be ratified by seven States in respect of which the Rome Convention is in force. This Protocol shall enter into force on the first day of the third month following the deposit of the instrument of ratification by the last such State to take this step. If, however, the Second Protocol conferring on the Court of Justice of the European
+
+Communities certain powers to interpret the Convention on the law applicable to contractual obligations, opened for signature in Rome on 19 June 1980, concluded in Brussels on 19 December 1988, enters into force on a later date, this Protocol shall enter into force on the date of entry into force of the Second Protocol.
 
 2. Any ratification subsequent to the entry into force of this Protocol shall take effect on the first day of the third month following the deposit of the instrument of ratification provided that the ratification, acceptance or approval of the Rome Convention by the State in question has become effective.
 
@@ -120,14 +110,10 @@ This Protocol shall have effect for as long as the Rome Convention remains in fo
 
 ARTICLE 10
 
-Contracts (Applicable Law)
-
-1993-27 Any Contracting State may request the revision of this Protocol. In this event, a revision conference shall be convened by the President of the Council of the European Communities.
+Any Contracting State may request the revision of this Protocol. In this event, a revision conference shall be convened by the President of the Council of the European Communities.
 
 ARTICLE 11
 
-This Protocol, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish, Italian, Portuguese and Spanish languages, all 10 texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy to the Government of each Signatory State.
+This Protocol, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish, Italian, Portuguese and Spanish languages, all 10 texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European
 
-Contracts (Applicable Law)
-
-1993-27
+Communities. The Secretary-General shall transmit a certified copy to the Government of each Signatory State.
