@@ -1,7 +1,5 @@
-Diplomatic Privileges (International Organisations) DIPLOMATIC PRIVILEGES (UNIVERSAL POSTAL UNION) ORDER
+Subsidiary Legislation made under s.2.
 
-Subsidiary 1955.10.13-3 1948-28 Orders made under s.2.
+Diplomatic Privileges (Universal Postal Union) Order
 
-DIPLOMATIC PRIVILEGES (UNIVERSAL POSTAL UNION) ORDER
-
-(1955.10.13-3)
+1955.10.13-3
