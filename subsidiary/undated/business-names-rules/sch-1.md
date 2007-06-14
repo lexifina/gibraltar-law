@@ -328,7 +328,7 @@ day of
 
 Signature
 
-NOTE A.–This statement must be signed by the individual, and, when signed, must be sent by post or delivered to the Registrar within fourteen days after any change in any of the particulars registered or within such longer period as the Governor may, on application being made in any particular case, whether before or after the expiration of such fourteen days, allow.
+NOTE A.–This statement must be signed by the individual, and, when signed, must be sent by post or delivered to the Registrar within fourteen days after any change in any of the particulars registered or within such longer period as the Minister responsible for finance may, on application being made in any particular case, whether before or after the expiration of such fourteen days, allow.
 
 Failure, without reasonable excuse, to furnish the required statement of any change in the particulars registered within the time specified will, in addition to any disability imposed by the Act, entail liability on conviction to a fine of £5 for every day during which the default continues. Any statement which contains any matter which is false in any material particular to the knowledge of any person signing it will entail liability on conviction to imprisonment for three months and to a fine of £20.
 
@@ -362,7 +362,7 @@ NOTE A.–This statement must be signed either–
 
 (ii) by a director or the secretary of some corporation which is a partner, and in either cases (b) (i) and (ii) must be verified by a statutory declaration made by the signatory.
 
-This statement, when signed, must be sent by post or delivered to the Registrar within fourteen days after any change in any of the particulars registered or within such longer period as the Governor may, on application being made in any particular case, whether before or after the expiration of such fourteen days, allow.
+This statement, when signed, must be sent by post or delivered to the Registrar within fourteen days after any change in any of the particulars registered or within such longer period as the Minister responsible for finance may, on application being made in any particular case, whether before or after the expiration of such fourteen days, allow.
 
 Failure without reasonable excuse to furnish the required statement of any change of the particulars registered within the time specified will, in addition to any disability imposed by the Act, entail liability on conviction to a fine of £5 for every day during which the default continues, and any statement which contains any matter which is false in any material particular to the knowledge of any person signing it, will entail liability on conviction to imprisonment for three months and to a fine of £20.
 
@@ -384,7 +384,7 @@ day of
 
 Signature
 
-NOTE A.–This statement must be signed by a director or the secretary of the corporation and, when signed, must be sent by post or delivered to the Registrar within fourteen days after any change in any of the particulars registered, or within such longer period as the Governor may on application being made in any particular case, whether before or after the expiration of such fourteen days, allow.
+NOTE A.–This statement must be signed by a director or the secretary of the corporation and, when signed, must be sent by post or delivered to the Registrar within fourteen days after any change in any of the particulars registered, or within such longer period as the Minister responsible for finance may on application being made in any particular case, whether before or after the expiration of such fourteen days, allow.
 
 Failure without reasonable excuse to furnish the required statement of any change in particulars within the time specified will, in addition to any disability imposed by the Act, entail liability on conviction to a fine of £5 for every day during which the default continues, and every director, secretary or officer of the corporation who is knowingly a party to the default will be liable to a like penalty. Any statement which contains any matter which is false in any material particular to the knowledge of any person signing it will entail liability on conviction to imprisonment for three months and to a fine of £20.
 
@@ -468,11 +468,11 @@ I (We) (a)
 
 of (a)
 
-, hereby give notice of appeal to the Governor from the decision of the Registrar of the
+, hereby give notice of appeal to the Minister responsible for finance from the decision of the Registrar of the
 
 day of              , 20     . whereby he decided (b).
 
-Accompanying this notice is a statement of the grounds of appeal and of my (our) case for the decision of the Governor.
+Accompanying this notice is a statement of the grounds of appeal and of my (our) case for the decision of the Minister responsible for finance.
 
 (c) I (We) desire to be heard on this appeal.
 
@@ -488,7 +488,7 @@ To the Registrar of Business Names, at the office of the Registry.
 
 NOTE.–This notice must have stamps of the value of £5 affixed, and must be sent by post or delivered within twenty-one days of the date of the notice of the Registrar’s decision, to the Registrar from whose decision the appellant appeals, together with a statement of the grounds of appeal and of the appellant’s case in support thereof.
 
-An unstamped copy of this notice of appeal, together with copies of the statement of the grounds of appeal and the case in support thereof, and a copy of the Registrar’s decision must, at the same time, be sent by the appellant to the Governor.
+An unstamped copy of this notice of appeal, together with copies of the statement of the grounds of appeal and the case in support thereof, and a copy of the Registrar’s decision must, at the same time, be sent by the appellant to the Minister responsible for finance.
 
 (a) Insert full name and address of appellant. (b) Insert the decision complained of. (c) Strike out if not so desired.
 
