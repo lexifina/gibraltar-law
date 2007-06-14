@@ -32,9 +32,7 @@ THE  FOOD AND DRUGS ACT.
 
 Medical (Gibraltar Health Authority)
 
-1987-34
-
-6.  Sections 15, 16, 17,21 and 39 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
+1987-34 6.  Sections 15, 16, 17,21 and 39 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
 
 7. Sections 18A and 20 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Specialist in Community Medicine”.
 
@@ -68,9 +66,7 @@ THE POLICE ACT.
 
 Medical (Gibraltar Health Authority)
 
-1987-34
-
-21. Section 4 is amended –
+1987-34 21. Section 4 is amended –
 
 (a) in paragraph (e) by substituting a full stop for the semi-colon at the end thereof; and
 

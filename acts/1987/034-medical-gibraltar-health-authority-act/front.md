@@ -10,7 +10,9 @@ Commencement dates Legal Notice No. Relevant provisions 18.2.1985 1987/1731 Para
 
 Amending enactment Relevant current provisions Commencement date Act. 1989-07 s.14(5) 2.3.1989 1989-39 s.15(1) 1.4.1989 1997-25 ss. 2, 3(1)(c), 4(2), 5(4), 6(2)(b)(ii), 10, 10(1), (2), (3) & (4), 11(1)(a), (1)(b), (1)(g), & (2), 12(2) and 14(2) and Sch.
 
-21.8.1997
+21.8.1997 2007-17 ss. 1(2), 3(1), 3(3), 6(2)(i), 14(4), 15(1), (4)&(6), 16(2), 20(1), 20(2), 25(2),
+
+14.6.2007
 
 1 Notice of Corrigendum (LN.1988/022)
 
