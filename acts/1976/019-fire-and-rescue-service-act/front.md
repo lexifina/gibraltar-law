@@ -10,7 +10,9 @@ Act. No. 1976-19 Commencement 17.6.1976
 
 Assent 16.6.1976
 
-Amending enactments Relevant current provisions Commencement date Act.  1978-31 Sch. 2 LN 1978/128 s.4(1) Act.  1982-01 ss.3(1) and (3) and 30
+Amending enactments Relevant current provisions Commencement date Act.  1978-31 Sch. 2 LN 1978/128 s.4(1) Act.  1982-01 ss.3(1) and (3) and 30 2007-17 ss. 4(1), (2) &(3), 5, 6, 7(c), 8(1), 26(2), 30(1) & (2)
+
+14.6.2007
 
 English sources: None cited
 
