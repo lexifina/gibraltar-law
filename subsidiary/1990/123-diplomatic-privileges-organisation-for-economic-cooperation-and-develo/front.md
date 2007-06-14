@@ -1,19 +1,15 @@
-Diplomatic Privileges (International Organisations) DIPLOMATIC PRIVILEGES (ORGANISATION FOR ECONOMIC COOPERATION AND DEVELOPMENT) ORDER, 1990
+Subsidiary Legislation made under s.2.
 
-Subsidiary 1990/123 1948-28 Orders made under s.2.
+Diplomatic Privileges (Organisation for Economic Cooperation and Development) Order, l990
 
-DIPLOMATIC PRIVILEGES (ORGANISATION FOR ECONOMIC COOPERATION AND DEVELOPMENT) ORDER, 1990
+LN.1990/123
 
-(LN. 1990/123)
+Commencement 13.9.1990
 
-13.9.1990
+Amending enactments Relevant current provisions Commencement date Act. 2007-17 Para. 3(4)&(6) 14.6.2007
 
-_____________________
-
-ARRANGEMENT OF PARAGRAPHS.
+ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 
-1. Title. 2. The Organisation. 3. Immunities and privileges of the Organisation. 4. Privileges and immunities of representatives. 5. Privileges and immunities of high officials. 6 . Privileges and immunities of officers. 7.Privileges and immunities of experts. 8.Publication of  names.
-
-Diplomatic Privileges (International Organisations) DIPLOMATIC PRIVILEGES (ORGANISATION FOR ECONOMIC COOPERATION AND DEVELOPMENT) ORDER, 1990
+1. Title. 2. The Organisation. 3. Immunities and privileges of the Organisation. 4. Privileges and immunities of representatives. 5. Privileges and immunities of high officials. 6 . Privileges and immunities of officers. 7. Privileges and immunities of experts. 8. Publication of names.
