@@ -10,7 +10,7 @@ Act. No. 1990-16 Commencement 3.5.1990
 
 Assent 3.5.1990
 
-Amending enactments Relevant current provisions Commencement date Act. 1997-14 ss.24(2) and (3), 25(2) and (3) 27.3.1997
+Amending enactments Relevant current provisions Commencement date Act. 1997-14 ss.24(2) and (3), 25(2) and (3) 27.3.1997 2007-17 ss. 3(6), 4(1) & (2), 12(1), 15(1) 14.6.2007
 
 Gibraltar Development Corporation
 
