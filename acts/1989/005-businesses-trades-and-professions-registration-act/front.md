@@ -8,7 +8,7 @@ Principal Act
 
 Act. No. 1989-05 Commencement(LN.1991/161) 8.8.1991 Assent 2.3.1989
 
-Amending enactments Relevant current provisions Commencement date Act. 1990-03 ss.3(1) and (3), 4(1) and 7 1.3.1990 1992-05 s.6 9.7.1992 1999-13 s.6 12.8.1999
+Amending enactments Relevant current provisions Commencement date Act. 1990-03 ss.3(1) and (3), 4(1) and 7 1.3.1990 1992-05 s.6 9.7.1992 1999-13 s.6 12.8.1999 2007-17 s.3(1) 14.6.2007
 
 Businesses Trades and Professions (Registration)
 
