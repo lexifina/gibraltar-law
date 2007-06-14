@@ -14,6 +14,10 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1980/050 rr.7, 19(2), 20(2), and (3) & 22(2)
 
+Act. 2007-17 rr. 4(1)(b), 7, 20(2)(f), 21(1) & Sch.
+
+14.6.2007
+
 Supreme Court SUPREME COURT FUND RULES
 
 1960-02

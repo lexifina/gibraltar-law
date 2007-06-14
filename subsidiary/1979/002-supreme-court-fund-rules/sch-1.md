@@ -256,7 +256,7 @@ To the Accountant General
 
 Please pay out the sum of £ , together with accrued interest thereon, if any, paid into court to the above ledger credit on the day of
 
-20    , pursuant to the Exchange Control Act. The consent in writing of the Financial and Development Secretary is attached.
+20    , pursuant to the Exchange Control Act. The consent in writing of the Financial Secretary is attached.
 
 I declare that the person entitled has/has not received legal assistance in respect of these proceedings.
 
