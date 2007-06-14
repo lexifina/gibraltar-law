@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2005-31 s.2 23.5.2005 2005-70 Long title, ss. 1, 2, 3(1) & (2), 12(5), 14, 19(1), 22, 23, 24-40 & Sch.2
 
-29.12.2005 2007-02 s.2 19.4.2007
+29.12.2005 2007-02 s.2 19.4.2007 2007-17 s.2 14.6.2007
 
 Transposing: Directive 76/308/EEC
 
