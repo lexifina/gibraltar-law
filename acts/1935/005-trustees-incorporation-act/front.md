@@ -1,8 +1,4 @@
-Trustees (Incorporation)
-
-1935-05
-
-TRUSTEES (INCORPORATION) ACT
+Trustees (Incorporation) Act
 
 Principal Act
 
@@ -14,13 +10,11 @@ Act. 1961-09 –
 
 1984-48 s. 6
 
-English source Charitable Trustees Incorporation Act 1872 (35 & 36 Vict. c.24)
+2007-17 ss. 2(1)-(2), 4, 5(1)-(3), 8, 12(1) 14.6.2007
 
-Trustees (Incorporation)
+English source: Charitable Trustees Incorporation Act 1872 (35 & 36 Vict. c.24)
 
-1935-05
-
-ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -29,5 +23,3 @@ Section
 SCHEDULE.
 
 Particulars to be inserted in Applications for Incorporation.
-
-Trustees (Incorporation)
