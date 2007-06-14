@@ -10,7 +10,7 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995 1995/103 Sch. 1 6.7.1995 1995/114 r. 6A, Sch. 2 16.8.1995 1999/165 r. 9 2.12.1999 2000/070 Sch. 1 22.9.2000 2006/051 Sch. 1 27.4.2006
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995 1995/103 Sch. 1 6.7.1995 1995/114 r. 6A, Sch. 2 16.8.1995 1999/165 r. 9 2.12.1999 2000/070 Sch. 1 22.9.2000 2006/051 Sch. 1 27.4.2006 Act. 2007-17 rr. 4(2), 12, Sch. 1 14.6.2007
 
 Transposing: Directive 92/3/Euratom
 
@@ -86,7 +86,7 @@ Licences for particular goods.
 
 (2) Notwithstanding the provisions of subregulation (1), the Collector may, if he is satisfied that any goods specified in Part II of Schedule 2 are not being imported in a commercial quantity and are not being imported for any commercial purpose, allow the importation of those goods without a licence, subject to–
 
-(a) any general or special directions given to him in writing by the Financial and Development Secretary; and
+(a) any general or special directions given to him in writing by the Financial Secretary; and
 
 (b) the condition that they shall not be imported or used for any commercial purpose.
 
@@ -174,7 +174,7 @@ Appeals.
 
 Appeals.
 
-12. Any person aggrieved by the refusal of an import or export licence or by any condition imposed upon the grant of a licence may appeal to the Governor.
+12. Any person aggrieved by the refusal of an import or export licence or by any condition imposed upon the grant of a licence may appeal to the Minister responsible for finance.
 
 Forms.
 
