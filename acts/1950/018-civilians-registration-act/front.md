@@ -12,7 +12,7 @@ Assent 31.8.1950
 
 Amending enactments Relevant current provisions Commencement date Act.1993-04 ss.2(1), (2) and (3), 3(1), (2) and (3), 4, 6(1), (2) and (3), 7(1)(b), (e), (g), (j) and (1), 8(1), (2)(ii) and (4), Sch.1 and Sch.2
 
-25.3.1993 LN.1993/058 Sch.2 25.3.1993
+25.3.1993 LN.1993/058 Sch.2 25.3.1993 Act.2007-17 ss. 2(2), 3(2) & 7(1) 14.6.2007
 
 Civilians Registration
 
