@@ -1,8 +1,4 @@
-Carriage of Goods by Sea
-
-1977-25
-
-CARRIAGE OF GOODS BY SEA ACT
+Carriage of Goods by Sea Act
 
 Principal Act
 
@@ -10,11 +6,11 @@ Act. No. 1977-25 Commencement 1.9.1977
 
 Assent 20.7.1977
 
-Amending enactments Relevant current provisions Commencement date Acts. 1985-16 s.2(1) and Sch. 14.2.1984 1993-12 ss.2 and 3(4) 1.3.1993
+Amending enactments Relevant current provisions Commencement date
 
-Carriage of Goods by Sea
+Act. 1985-16 s. 2(1), Sch. 14.2.1984 1993-12 ss. 2, 3(4) 1.3.1993 2007-17 s. 3(4)(b) 14.6.2007
 
-1977-25 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -22,9 +18,7 @@ Section
 
 SCHEDULE The Hague Rules as amended by the Brussels Protocols 1968 and 1979.
 
-Carriage of Goods by Sea
-
-1977-25 AN ACT TO APPLY UNIFIED RULES OF LAW RELATING TO BILLS OF LADING.
+AN ACT TO APPLY UNIFIED RULES OF LAW RELATING TO BILLS OF LADING.
 
 Short title.
 
@@ -50,15 +44,11 @@ Application of Hague Rules.
 
 (a) the value on a particular day of one special drawing right shall be treated as equal to such a sum in sterling as the International Monetary Fund have fixed as being the equivalent of one special drawing right for–
 
-Carriage of Goods by Sea
-
-1977-25
-
 (i) the day on which the determination is made, or
 
 (ii) if no sum has been so fixed for that day, the last day before the day for which a sum has been so fixed.
 
-(b) a certificate given by or on behalf of the Financial and Development Secretary stating–
+(b) a certificate given by or on behalf of the Financial Secretary stating–
 
 (i) that a particular sum in sterling has been so fixed for the day on which the determination was made, or
 
@@ -80,10 +70,6 @@ but subject, where paragraph (b) applies, to any necessary modifications and in 
 
 In this subsection “deck cargo” means cargo which by the contract of carriage is stated as being carried on deck and is so carried.
 
-Carriage of Goods by Sea
-
-1977-25
-
 Contracting States, etc.
 
 4. If Her Majesty by Order in Council certifies to the following effect, that is to say, that for the purposes of the Rules–
@@ -102,10 +88,6 @@ Repeal.
 
 6. Omitted.
 
-Carriage of Goods by Sea
-
-1977-25
-
 SCHEDULE.
 
 Section 3
@@ -118,7 +100,7 @@ In these Rules the following words are employed, with the meanings set out below
 
 (a) “Carrier” includes the owner or the charterer who enters into a contract of carriage with a shipper.
 
-(b)  “Contract of carriage” applies only to contracts of carriage covered by a bill of lading or any similar document of title, in so far as such document relates to the carriage of goods by sea, including any bill of lading  or  any  similar document  as aforesaid  issued under or pursuant to a charter party from the moment at which such bill of lading or similar document of title regulates the relations between a carrier and a holder of the same.
+(b)  “Contract of carriage” applies only to contracts of carriage covered by a bill of lading or any similar document of title, in so far as such document relates to the carriage of goods by sea, including any bill of lading or any similar document as aforesaid issued under or pursuant to a charter party from the moment at which such bill of lading or similar document of title regulates the relations between a carrier and a holder of the same.
 
 (c)  “Goods” includes goods, wares, merchandise, and articles of every kind whatsoever except live animals and cargo which by the contract of carriage is stated as being carried on deck and is so carried.
 
@@ -132,9 +114,7 @@ Subject to the provisions of Article VI, under every contract of carriage of goo
 
 ARTICLE III.
 
-Carriage of Goods by Sea
-
-1977-25 1. The carrier shall be bound before and at the beginning of the voyage to exercise due diligence to–
+1. The carrier shall be bound before and at the beginning of the voyage to exercise due diligence to–
 
 (a)  make the ship seaworthy;
 
@@ -156,11 +136,7 @@ Provided that no carrier, master or agent of the carrier shall be bound to state
 
 4. Such a bill of lading shall be prima facie evidence of the receipt by the carrier of the goods as therein described in accordance with paragraph 3(a), (b) and (c). However, proof to the contrary shall not be admissible when the bill of lading has been transferred to a third party acting in good faith.
 
-5. The shipper shall be deemed to have guaranteed to the carrier the accuracy at the time of shipment of the marks, number, quantity and weight,
-
-Carriage of Goods by Sea
-
-1977-25 as furnished by him, and the shipper shall indemnify the carrier against all loss, damages and expenses arising or resulting from inaccuracies in such particulars. The right of the carrier to such indemnity shall in no way limit his responsibility and liability under the contract of carriage to any person other than the shipper.
+5. The shipper shall be deemed to have guaranteed to the carrier the accuracy at the time of shipment of the marks, number, quantity and weight, as furnished by him, and the shipper shall indemnify the carrier against all loss, damages and expenses arising or resulting from inaccuracies in such particulars. The right of the carrier to such indemnity shall in no way limit his responsibility and liability under the contract of carriage to any person other than the shipper.
 
 6. Unless notice of loss or damage and the general nature of such loss or damage be given in writing to the carrier or his agent at the port of discharge before or at the time of the removal of the goods into the custody of the person entitled to delivery thereof under the contract of carriage, or, if the loss or damage be not apparent, within three days, such removal shall be prima facie evidence of the delivery by the carrier of the goods as described in the bill of lading.
 
@@ -174,6 +150,4 @@ In the case of any actual or apprehended loss or damage the carrier and the rece
 
 7. After the goods are loaded the bill of lading to be issued by the carrier, master, or agent of the carrier to the shipper shall, if the shipper so demands, be a “shipped” bill of lading, provided that if the shipper shall have previously taken up any document of title to such goods, he shall surrender the same as against the issue of the “shipped” bill of lading, but at the option of the carrier such document of title may be noted at the port of shipment by the carrier, master, or agent with the name or names of the ship or ships upon which the goods have been shipped and the date or dates of shipment and when so noted, if it shows the particulars mentioned in paragraph 3 of Article III, shall for the purpose of this article be deemed to constitute a “shipped” bill of lading.
 
-Carriage of Goods by Sea
-
-1977-25 8. Any clause, covenant or agreement in a contract of carriage relieving the carrier or the ship from liability for loss or damage to, or in connection with, goods arising from negligence, fault or failure in the duties and obligations provided in the article or lessening such liability otherwise than as provided in these Rules, shall be null and void and of no effect. A benefit of insurance in favour of the carrier or similar clause shall be deemed to be a clause relieving the carrier from liability.
+8. Any clause, covenant or agreement in a contract of carriage relieving the carrier or the ship from liability for loss or damage to, or in connection with, goods arising from negligence, fault or failure in the duties and obligations provided in the article or lessening such liability otherwise than as provided in these Rules, shall be null and void and of no effect. A benefit of insurance in favour of the carrier or similar clause shall be deemed to be a clause relieving the carrier from liability.
