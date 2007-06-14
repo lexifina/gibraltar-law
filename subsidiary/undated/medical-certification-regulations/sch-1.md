@@ -26,13 +26,7 @@ Provided that if in the practitioner's opinion a disclosure to the claimant of t
 
 5. Except in any case to which the provisions of rule 6 of these rules apply, every certificate shall be in the form of an intermediate certificate.
 
-6. If at the date of the examination the claimant, in the opinion of the practitioner, is, or will become on a day not later than the third day
-
-Social Security (Employment Injuries Insurance) MEDICAL CERTIFICATION REGULATIONS
-
-1952-10
-
-Subsidiary 1952.06.26-3 after that date, fit to return to work, the certificate shall be in the form of a final certificate.
+6. If at the date of the examination the claimant, in the opinion of the practitioner, is, or will become on a day not later than the third day after that date, fit to return to work, the certificate shall be in the form of a final certificate.
 
 7. Every claimant shall obtain a final certificate before he returns to work.
 
@@ -44,7 +38,7 @@ A. INTERMEDIATE MEDICAL CERTIFICATE.
 
 I certify that I have examined ............................................. this day and consider that he has remained incapable of work in consequence of .................................. (nature of disability)   up to and including to-day.
 
-He will be unfit for work until .................... inclusive, on which date he should report for re-examination Date ..............................
+He will be unfit for work until .................... inclusive, on which date he should report for re- examination Date ..............................
 
 Any other remarks }
 
