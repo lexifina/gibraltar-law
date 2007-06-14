@@ -20,13 +20,15 @@ Amending enactment Relevant current provisions Commencement date Acts.   1967-10
 
 1980-02 ss. 2(1), 3(1), (2) and (3), 11 and 15
 
+2007-17 ss. 4(1), (2) & (3), 5(1) & (5), 15 14.6.2007
+
 Price Control
 
 1966-32 ARRANGEMENT OF SECTIONS.
 
 Section
 
-1. Short title. 2. Interpretation. 3. Power of Minister to fix maximum prices and charges generally. 3A. Repealed. 4. Power of Governor to fix maximum prices or charges in specific cases. 5. Powers to require information and to enter and search. 5A. Repealed. 5B. Repealed. 5C. Repealed. 6. Records to be kept and preserved and invoices to be supplied. 7. Offences by corporations. 8. Defence for employee. 9. Prohibition of holding up of stocks. 10. Exhibition of notices by retailers. 11. Display of prices of any supplies or class of supplies. 12. Delivery of receipts. 13. Saving for auction sales. 14. Penalties. 15. Appointments and rules.
+1. Short title. 2. Interpretation. 3. Power of Minister to fix maximum prices and charges generally. 3A. Repealed. 4. Power of Government to fix maximum prices or charges in specific cases. 5. Powers to require information and to enter and search. 5A. Repealed. 5B. Repealed. 5C. Repealed. 6. Records to be kept and preserved and invoices to be supplied. 7. Offences by corporations. 8. Defence for employee. 9. Prohibition of holding up of stocks. 10. Exhibition of notices by retailers. 11. Display of prices of any supplies or class of supplies. 12. Delivery of receipts. 13. Saving for auction sales. 14. Penalties. 15. Appointments and rules.
 
 SCHEDULE
 
