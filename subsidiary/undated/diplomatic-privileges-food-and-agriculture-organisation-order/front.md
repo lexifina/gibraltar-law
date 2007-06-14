@@ -1,7 +1,5 @@
-Diplomatic Privileges (International Organisations) DIPLOMATIC PRIVILEGES (FOOD AND AGRICULTURE ORGANISATION) ORDER
+Subsidiary Legislation made under s.2.
 
-Subsidiary 1950.03.23-1 1948-28 Orders made under s.2.
+Diplomatic Privileges (Food and Agriculture Organisation) Order
 
-DIPLOMATIC PRIVILEGES (FOOD AND AGRICULTURE  ORGANISATION) ORDER
-
-(1950.03.23-1)
+1950.03.23-1
