@@ -12,7 +12,7 @@ Assent 16.7.1987
 
 Amending enactments Relevant current provisions Commencement date Acts. 1988-33 ss.2, 4(1), 8(1) and (5), 9(1) and (2), 11(1), 13(1) and (2)
 
-15.12.1988 1990-38 s.8(1) 15.11.1990
+15.12.1988 1990-38 s.8(1) 15.11.1990 2007-17 ss. 2, 4(1), 6, 8(2), 22 14.6.2007
 
 English sources: None
 
