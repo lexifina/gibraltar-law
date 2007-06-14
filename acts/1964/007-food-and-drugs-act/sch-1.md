@@ -17,7 +17,3 @@ Acute inflammation of the throat.
 Gastro-enteritis.
 
 Undulant fever.
-
-Food and Drugs
-
-1964-07

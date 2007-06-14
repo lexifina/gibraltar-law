@@ -26,9 +26,7 @@ day of
 
 ,20      .
 
-Notes.
-
-(1) Insert the name and address of the persons submitting the sample for analysis.
+Notes. (1) Insert the name and address of the persons submitting the sample for analysis.
 
 (2) Insert particulars of marking, e. g., date, number, etc.
 
@@ -36,14 +34,6 @@ Notes.
 
 (4) Here the analyst should specify the result of the analysis in the light of the provisions of the Food and Drugs Act.
 
-(5) Here the analyst may insert at his discretion his opinion whether the analysis indicates any addition, abstraction, or deficiency or the presence of foreign matter or other defect and whether the nature, substance or qualify is thereby affected; any physical, chemical or other properties bearing on the nature, substance or qualify of the article; whether the article is injurious to health or unfit for human consumption; whether and in what
-
-Food and Drugs
-
-1964-07 respect a label or description or any advertisement relating to the sample is incorrect or misleading; and he may add any other observations he may consider relevant.
+(5) Here the analyst may insert at his discretion his opinion whether the analysis indicates any addition, abstraction, or deficiency or the presence of foreign matter or other defect and whether the nature, substance or qualify is thereby affected; any physical, chemical or other properties bearing on the nature, substance or qualify of the article; whether the article is injurious to health or unfit for human consumption; whether and in what respect a label or description or any advertisement relating to the sample is incorrect or misleading; and he may add any other observations he may consider relevant.
 
 (These notes are for guidance only and do not form part of the Certificate).
-
-Food and Drugs
-
-1964-07
