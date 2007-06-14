@@ -1,8 +1,4 @@
-Pawnbrokers
-
-1888-02
-
-PAWNBROKERS ACT
+Pawnbrokers Act
 
 Principal Act
 
@@ -20,11 +16,13 @@ Acts. 1935-08 s. 29
 
 1983-12 ss. 7, 12(5), 14-16, 18-21, 34, 38 and Sch.
 
+2007-17 s. 34(1) 14.6.2007
+
 English sources Pawnbrokers Act 1872 (35 & 36 Vict. c.93) Children’s Act 1908 (8 Edw.7 c.67)
 
-Pawnbrokers
+_______________________________
 
-1888-02 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -48,11 +46,9 @@ Special Contracts.
 
 Delivery up of Pledge.
 
-22. Holder of ticket entitled to redeem. 23. Production of ticket. 24. Liability of pawnbroker in case of fire. 25. Compensation for depreciation of pledge. 26. Protection of owners and of pawners not having pawn tickets. 27. Delivery to owner of property unlawfully pawned. 28. Order for delivery of pledge to person entitled.
+22. Holder of ticket entitled to redeem. 23. Production of ticket. 24. Liability of pawnbroker in case of fire. 25. Compensation for depreciation of pledge. 26. Protection of owners and of pawners not having pawn tickets. 27. Delivery to owner of property unlawfully pawned.
 
-Pawnbrokers
-
-1888-02
+28. Order for delivery of pledge to person entitled.
 
 General Restrictions on Pawnbrokers.
 
@@ -81,5 +77,3 @@ Profit and Charges Allowed to Pawnbrokers.
 SCHEDULE 3.
 
 Regulations as to Auctions of Pledges above £5.
-
-Pawnbrokers

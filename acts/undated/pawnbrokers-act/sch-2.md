@@ -19,7 +19,3 @@ PROVISO.–If the pledge is redeemed before the end of the first fourteen days a
 B.–On Loan of above £10. For every month or part of a month, for every sum of 13p, or fraction of a sum of 13p lent 2p. PART II.–CHARGE ON PAWN-TICKET. Where the loan is 25p or under 5p. Where the loan is above 25p 5p. PART III.–CHARGE ON INSPECTION OF SALE BOOK. For the inspection of the entry of a sale 5p. PART IV.–CHARGE ON FORM OF DECLARATION. Where the loan is 25p or under 2p. Where the loan is above 25p. 5p.
 
 RULE.–This sum is to be paid by the applicant at the time of application.
-
-Pawnbrokers
-
-1888-02

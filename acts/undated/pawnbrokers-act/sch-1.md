@@ -30,9 +30,7 @@ For this ticket 2p For profit on each 10 pence, or part of 10 pence, lent on thi
 
 After the first calendar month any time not exceeding fourteen days will be charged as half-a-month, and any time exceeding fourteen days and not more than one month will be charged as one month.
 
-Pawnbrokers
-
-1888-02 This pledge must be redeemed within twelve calendar months and seven days from the date of pledging. At the end of that time it becomes the property of the pawnbroker.
+This pledge must be redeemed within twelve calendar months and seven days from the date of pledging. At the end of that time it becomes the property of the pawnbroker.
 
 If the pledge is destroyed or damaged by fire, the pawnbroker will be bound to pay the value of the pledge, after deducting the amount of the loan and profit, such value to be the amount of the loan and profit, and 25 per cent on the amount of the loan.
 
@@ -58,11 +56,7 @@ If this pledge is not redeemed within twelve calendar months and seven days from
 
 Within three years after the sale the pawner may inspect the account of the sale in the pawnbroker's book on payment of five pence, and receive any surplus produced by the sale, but any deficit on sale of one pledge may be set off by the pawnbroker against surplus on another.
 
-If the pledge is destroyed or damaged by fire, the pawnbroker will be bound to pay the value of the pledge, after deducting the amount of the loan and
-
-Pawnbrokers
-
-1888-02 profit, such value to be the amount of the loan and profit and 25 per cent on the amount of the loan.
+If the pledge is destroyed or damaged by fire, the pawnbroker will be bound to pay the value of the pledge, after deducting the amount of the loan and profit, such value to be the amount of the loan and profit and 25 per cent on the amount of the loan.
 
 If this ticket is lost or mislaid the pawner should at once apply to the pawnbroker for a form of declaration to be made before the magistrates' court, or the pawnbroker will be bound to deliver the pledge to any person who produces this ticket to him and claims to redeem the same.
 
@@ -92,15 +86,9 @@ III. –SALE BOOK OF PLEDGES FOR LOANS OF ABOVE £5.
 
 (Name and place of business of auctioneer).
 
-Pawnbrokers
+For date of pawning. £ For amount of loan. £ For amount for which pledge sold
 
-1888-02
-
-For No. of pledges as in pledge book.
-
-For name of pawner.
-
-For date of pawning. £ For amount of loan. £ For amount for which pledge sold as stated by auctioneer.
+For No. of pledges as in pledge book. For name of pawner. as stated by auctioneer.
 
 IV.–DECLARATION WHERE PLEDGE CLAIMED BY OWNER.
 
@@ -134,19 +122,15 @@ Unless this printed form is taken before a justice of the peace and declared to 
 
 I, A. B., of
 
-, in pursuance of the Pawnbrokers Act, do solemnly and sincerely declare that pledged at the shop of , pawnbroker, the article (or articles) described below, being property, and received a pawn-ticket for the same, which has been
+, in pursuance of the Pawnbrokers Act, do solemnly and sincerely declare that pledged at the shop of , pawnbroker, the article (or articles) described below, being
 
-by, and that the pawn-ticket has not been sold or transferred to any person by
+property, and received a pawn-ticket for the same, which has been
 
-or to
+by, and that the pawn-ticket has not been sold or transferred to any person by or to
 
 knowledge or belief.
 
 The article (or articles) above referred to is (or are) the following:-
-
-Pawnbrokers
-
-1888-02
 
 And I, C. D., of
 
@@ -196,9 +180,7 @@ After the first calendar month, any time not exceeding fourteen days will be cha
 
 The charge for storage of this pledge will be per calendar month, or any part of a month, in addition to the charges above mentioned.
 
-Pawnbrokers
-
-1888-02 This pledge is pawned for the period of *
+This pledge is pawned for the period of *
 
 months.
 
@@ -211,7 +193,3 @@ If the pledge is destroyed or damaged by fire, the pawnbroker will be bound to p
 If this ticket is lost or mislaid the pawner should at once apply to the pawnbroker for a form of declaration to be made before a justice of the peace, or the pawnbroker will be bound to deliver the pledge to any person who produces this ticket to him and claims to redeem the same.
 
 (Signed) (JOHN SMITH), pawnbroker. (Signed) (PETER JONES), pawner.
-
-Pawnbrokers
-
-1888-02
