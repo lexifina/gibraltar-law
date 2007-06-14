@@ -12,11 +12,15 @@ Assent 11.5.1972
 
 * Enacted as Part III of the Family Law Reform Act 1972 (Act. 1972-06)
 
+Amending enactment Relevant current provisions Commencement date
+
+Act.   2007-17 s. 5 14.6.2007
+
 English source: Family Reform Act 1969 (1969 c.46)
 
-________________________
+Paternity
 
-ARRANGEMENT OF SECTIONS.
+1972-06 ARRANGEMENT OF SECTIONS.
 
 Section
 
