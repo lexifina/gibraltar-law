@@ -12,7 +12,7 @@ With which is consolidated Relevant current provisions Commencement date Act. 19
 
 ss.14 and 15
 
-Amending enactments Relevant current provisions Commencement date Act. 1932-10 Sch. 1934-11 ss. 2, 6(1), 10 1935-08 s. 8 1960-35 ss. 4, 5 1962-09 – 1972-06 s. 6(1), (2) 1975-31 s. 3(3) 1983-48 Sch. 2005-42 s. 10, Sch. 2.8.2005
+Amending enactments Relevant current provisions Commencement date Act. 1932-10 Sch. 1934-11 ss. 2, 6(1), 10 1935-08 s. 8 1960-35 ss. 4, 5 1962-09 – 1972-06 s. 6(1), (2) 1975-31 s. 3(3) 1983-48 Sch. 2005-42 s. 10, Sch. 2.8.2005 2007-17 s. 5(4) 14.6.2007
 
 English sources
 
@@ -106,7 +106,7 @@ Legitimacy
 
 1927-05 (b) unless that person has been cited or made a party to the proceedings or claims through a person so cited or made a party.
 
-(4)  A copy of every petition under this section and of any affidavit accompanying the petition shall be delivered to the Attorney General at least one month before the petition is presented, and the Attorney General shall be a respondent on the hearing of the petition and on any subsequent proceedings relating thereto.
+(4)  A copy of every petition under this section and of any affidavit accompanying the petition shall be delivered to the Minister responsible for justice at least one month before the petition is presented, and the Minister responsible for justice shall be a respondent on the hearing of the petition and on any subsequent proceedings relating thereto.
 
 (5) In any application under this section such persons shall, subject to rules of court, be cited in the proceedings or otherwise summoned as the Supreme Court shall think fit, and any such persons may be permitted to become parties to the proceedings and to oppose the application.
 
