@@ -20,7 +20,7 @@ NARROWER-RANGE INVESTMENTS REQUIRING ADVICE.
 
 2. Deleted.
 
-3. In debentures or stock which may now or at any time hereafter be issued by the Governor under the authority of any enactment and charged on the Consolidated Fund.
+3. In debentures or stock which may now or at any time hereafter be issued by the Minister responsible for justice under the authority of any enactment and charged on the Consolidated Fund.
 
 4. In securities issued by Her Majesty's Government in the United Kingdom, the Government of Northern Ireland or the Government of the Isle of Man, not being securities falling within Part I of this Schedule and being fixed-interest securities registered in the United Kingdom or the Isle of Man. Treasury Bills or Tax Reserve Certificates.
 

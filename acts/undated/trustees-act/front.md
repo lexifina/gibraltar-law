@@ -24,7 +24,7 @@ Regs. of 28.5.70 Sch. 1
 
 Acts. 1983-48 s. 17
 
-1983-48 ss. 37, 42(1)
+1983-48 ss. 37, 42(1) 2007-17 ss. 30, 40(1), Sch. 1 14.6.2007
 
 English sources Court of Chancery (Funds) Act 1872 (35 & 36 Vict. c.44) Vendor and Purchaser Act 1874 (37 & 38 Vict c.78) Trustees Act 1883 (51 & 52 Vict c.59) Trustees Act 1893 (56 & 57 Vict c.53) Trustees Act 1893 Amendment Act 1894 (57 & 58 Vict c.10) Finance Act 1917 (7 & 8 Geo.5 c.31) Trustees Act 1925 (15 & 16 Geo.5 c.19) Trustees Investments Act 1961 (9 & 10 Eliz.2 c.62) Powers of Attorney Act 1971 (1971 c.27)
 
