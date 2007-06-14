@@ -10,11 +10,13 @@ Act. No. 1968-27 Commencement 1.2.1971
 
 Assent 25.10.1968
 
+Amending enactments Relevant current provisions Commencement date Act.  2007-17 s. 9(1) & (2) 14.6.2007
+
 English sources- Consular Relations Act 1968 (1968 c.18).
 
-____________________________
+Consular Relations
 
-ARRANGEMENT OF SECTIONS.
+1968-27 ARRANGEMENT OF SECTIONS.
 
 Section
 
