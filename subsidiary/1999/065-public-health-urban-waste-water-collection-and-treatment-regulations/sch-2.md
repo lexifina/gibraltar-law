@@ -22,20 +22,6 @@ LESS SENSITIVE AREAS
 
 Marine water may be identified as a less sensitive area if the discharge of waste water does not adversely affect the environment as a result of morphology, hydrology or specific hydraulic conditions which exist in that area.
 
-When identifying less sensitive areas, account shall be taken of the risk that the discharged load may be transferred to adjacent areas where it can cause
+When identifying less sensitive areas, account shall be taken of the risk that the discharged load may be transferred to adjacent areas where it can cause detrimental environmental effects. The presence of sensitive areas outside Gibraltar shall be taken into consideration.
 
-Public Health PUBLIC HEALTH (URBAN WASTE WATER COLLECTION AND TREATMENT) REGULATIONS 1999
-
-1950-07
-
-Subsidiary 1999/065 detrimental environmental effects.  The presence of sensitive areas outside Gibraltar shall be taken into consideration.
-
-The following elements shall be taken into consideration when identifying less sensitive areas —
-
-open bays and other coastal waters with a good water exchange and not subject to eutrophication or oxygen depletion or which are considered unlikely to become eutrophic or to develop oxygen depletion due to the discharge of urban waste water.
-
-Public Health PUBLIC HEALTH (URBAN WASTE WATER COLLECTION AND TREATMENT) REGULATIONS 1999
-
-1950-07
-
-Subsidiary 1999/065
+The following elements shall be taken into consideration when identifying less sensitive areas — open bays and other coastal waters with a good water exchange and not subject to eutrophication or oxygen depletion or which are considered unlikely to become eutrophic or to develop oxygen depletion due to the discharge of urban waste water.

@@ -1,18 +1,16 @@
-Public Health PUBLIC HEALTH (URBAN WASTE WATER COLLECTION AND TREATMENT) REGULATIONS 1999
+Subsidiary Legislation made under s. 5(3).
 
-1950-07
+Public Health (Urban Waste Water Collection and Treatment) Regulations 1999
 
-Subsidiary 1999/065 Regulations made under s. 5(3).
+LN.1999/065
 
-PUBLIC HEALTH (URBAN WASTE WATER COLLECTION AND TREATMENT) REGULATIONS 1999
+Commencement 10.6.1999
 
-(L.N. 1999/065)
+Amending enactments Relevant current provisions Commencement date
 
-10.6.1999
+Act. 2007-17 rr. 5(4), 9(1)-(2), 10(2), 11(2), Sch. 4 14.6.2007
 
-______________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -24,16 +22,6 @@ SCHEDULE 2 Criteria for identification of sensitive and less sensitive areas.
 
 SCHEDULE 3 Requirements for urban waste water collecting systems.
 
-Public Health PUBLIC HEALTH (URBAN WASTE WATER COLLECTION AND TREATMENT) REGULATIONS 1999
-
-1950-07
-
-Subsidiary 1999/065
-
 SCHEDULE 4 Reference methods for monitoring and evaluating results.
 
 SCHEDULE 5 Industrial waste water.
-
-SCHEDULE 6 Industrial sectors.
-
-Public Health PUBLIC HEALTH (URBAN WASTE WATER COLLECTION AND TREATMENT) REGULATIONS 1999

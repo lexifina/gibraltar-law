@@ -13,9 +13,3 @@ The design, construction and maintenance of collecting systems shall be undertak
 (b) prevention of leaks, and
 
 (c) limitation of pollution of receiving waters due to storm waters overflows.
-
-Public Health PUBLIC HEALTH (URBAN WASTE WATER COLLECTION AND TREATMENT) REGULATIONS 1999
-
-1950-07
-
-Subsidiary 1999/065
