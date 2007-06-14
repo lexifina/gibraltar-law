@@ -16,7 +16,9 @@ Merchant Shipping
 
 1935-09 2002-24 ss. 2(1), 3A-3H, 132A- 132R, 181(g)(h), 183-184, 223A. Schs. 1A, 3
 
-1.3.2003 2004-36 s.2(1) 29.11.2004
+1.3.2003 2004-36 s.2(1) 29.11.2004 2007-17 ss. 5(1)-(2), 6, 7(1)-(2), 8(2), 9, 13(1)-(2), (4), 16, 27(1), 28, 31(1), 39(1), 40(2)-(3), 56, 57(1)- (2), 65, 68(1), 69(2), 70(1), 71, 72(2), 73(1), 75(1), 76(1)-(2), 77(1)-(2), 78(1), 84(1)-(2), 85(1)- (2), 101A(3)-(4), 102, 105(3), 106, 109(1), 116(1)-(3), (6), 117(3), 118(1)-(2), 119(1), 120(3), (6), 122(2), 136(1), 137(1)-(2), (5)-(6), (8), 139-140, 142(1), (3), 144(1), 145, 146(1)- (2), 149, 150(5)-(7), 152, 158(2), 164(2), 165(1), 173(3), 177(2), 178(1), (3), 179(1)-(2), 180(1), 181, 182(1), 188(5)-(6), 204(1), 206, 212, 213(1), 213(2), 214(1)- (3), (5), 216(1), 218, 220, 222(2), 223, 224(1)-(3), 225(3)-(5)
+
+14.6.2007
 
 Notes: Rules of court made under s.148 and under other powers appear under the title Supreme Court.
 
@@ -26,4 +28,4 @@ Transposing:
 
 EU Legislation/International Agreements involved: Nairobi International Convention on the Removal of Wrecks, 2007
 
-English sources Merchant Shipping Act 1894 (57 & 58 Vict. c.60) Merchant Shipping Act 1897 (60 & 61 Vict. c.59) Wireless Telegraphy Act 1904 (4 Edw.7 c.24) Merchant Shipping Act 1906 (6 Edw.7 c.48) Merchant Shipping (Seaman’s Allotment) Act 1911 (1 & 2 Geo.5 c.8) Pilotage Act 1913 (2 & 3 Geo.5 c.31) Merchant Shipping (Wireless Telegraphy) Act 1919 (9 & 10 Geo.5 c.38) Merchant Shipping Acts Amendment Act 1923 (13 & 14 Geo.5 c.38) Merchant Shipping (International Labour Conventions) Act 1925 (15 & 16 Geo.5 c.42) Criminal Justice Act 1925 (15 & 16 Geo.5 c.86) Merchant Shipping (Line–throwing Appliance) Act 1923 (18 & 19 Geo.5 c.40) Merchant Shipping (Safety and Load Line Conventions) Act 1932 (22 & 23 Geo.5 c.9) Milford Haven Conservancy Act 1958 (6 & 8 Eliz.2 c.23)
+English sources Merchant Shipping Act 1894 (57 & 58 Vict. c.60) Merchant Shipping Act 1897 (60 & 61 Vict. c.59) Wireless Telegraphy Act 1904 (4 Edw.7 c.24) Merchant Shipping Act 1906 (6 Edw.7 c.48) Merchant Shipping (Seaman’s Allotment) Act 1911 (1 & 2 Geo.5 c.8) Pilotage Act 1913 (2 & 3 Geo.5 c.31) Merchant Shipping (Wireless Telegraphy) Act 1919 (9 & 10 Geo.5 c.38) Merchant Shipping Acts Amendment Act 1923 (13 & 14 Geo.5 c.38) Merchant Shipping (International Labour Conventions) Act 1925 (15 & 16 Geo.5 c.42)
