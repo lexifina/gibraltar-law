@@ -14,7 +14,7 @@ Act. 1968-34 s. 13(1), Sch. 1969-29 s. 3A, Sch.
 
 1973-31 s. 13(1)
 
-1990-47 s. 13(1) 15.11.1990 2001-06 ss. 3A, 12(1), Sch 14.3.2001 2005-45 s. 13(3)-(6) 4.8.2005
+1990-47 s. 13(1) 15.11.1990 2001-06 ss. 3A, 12(1), Sch 14.3.2001 2005-45 s. 13(3)-(6) 4.8.2005 2007-17 ss. 8(2), 13(1), 19 14.6.2007
 
 English sources
 
@@ -126,7 +126,7 @@ Counsel.
 
 8.(1)  A panel of barristers willing to act for persons receiving legal aid under this Part shall be prepared and maintained in accordance with the directions of the Chief Justice.
 
-(2) Counsel shall be assigned to any person applying for free legal aid under this Part in such manner as the Chief Justice may direct, and shall be remunerated out of the Consolidated Fund in accordance with such scale as may be prescribed by rules made by the Governor.
+(2) Counsel shall be assigned to any person applying for free legal aid under this Part in such manner as the Chief Justice may direct, and shall be remunerated out of the Consolidated Fund in accordance with such scale as may be prescribed by rules made by the Government.
 
 Copies of depositions, etc.
 
@@ -190,7 +190,7 @@ Legal aid and Assistance
 
 Financial conditions of legal assistance.
 
-13. (1)  Subject to this Part legal assistance shall be available for any person whose income does not exceed £5,000 a year or such other figure as the Governor may specify by notice in the Gazette:
+13. (1)  Subject to this Part legal assistance shall be available for any person whose income does not exceed £5,000 a year or such other figure as the Government may specify by notice in the Gazette:
 
 Provided that a person shall be refused legal assistance if he has a capital of more than £350 or such other figure as the Government may specify by notice in the Gazette unless it appears that he cannot afford to proceed without legal assistance.
 
@@ -342,7 +342,7 @@ Legal aid and Assistance
 
 Power of Government to make rules.
 
-19. The Governor may make rule–
+19. The Government may make rule–
 
 (a)  as to the manner in which the rate of a person’s income and the amount of his capital are to be computed for the purpose of this Part and the court, person or authority by whom such computation shall be made;
 
