@@ -22,7 +22,9 @@ PART III.
 
 MEASUREMENT OF VOLUME.
 
-Imperial Units Metric Units Cubic Yard Cubic metre Cubic Foot Cubic decimetre Cubic Inch Cubic centimetre Hectolitre
+Imperial Units Metric Units Cubic Yard Cubic metre Cubic Foot Cubic decimetre Cubic Inch Cubic centimetre
+
+Hectolitre
 
 Litre
 
@@ -30,9 +32,7 @@ Decilitre
 
 Centilitre
 
-Weight and Measures
-
-1977-29 Millilitre
+Millilitre
 
 PART IV.
 
@@ -44,8 +44,6 @@ PART V.
 
 MEASUREMENT OF MASS OR WEIGHT.
 
-Imperial Units Metric Units Ton Tonne Hundredweight Metric tonne Cental Quintal Quarter Kilogram Stone Hectogram Pound Gram Ounce Carat (metric) Dram Milligram Grain Ounce troy
+Imperial Units Metric Units Ton Tonne Hundredweight Metric tonne Cental Quintal Quarter Kilogram Stone Hectogram Pound Gram Ounce Carat (metric) Dram Milligram Grain
 
-Weight and Measures
-
-1977-29
+Ounce troy

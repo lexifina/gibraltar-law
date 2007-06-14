@@ -30,9 +30,7 @@ Imperial system.
 
 Metric system.
 
-Weight and Measures
-
-1977-29 2. Measure of, or of any multiple of, 1 square decimetre.
+2. Measure of, or of any multiple of, 1 square decimetre.
 
 PART III.
 
@@ -48,7 +46,9 @@ Metric system.
 
 3. Measures of–
 
-any multiple of 10 litres 10 litres 100 millilitres 5 litres 50 millilitres 2.5 litres 25 millilitres 2 litres 20 millilitres 1 litre 10 millilitres 500 millilitres 5 millilitres 250 millilitres 2 millilitres 200 millilitres 1 millilitre
+any multiple of 10 litres
+
+10 litres 100 millilitres 5 litres 50 millilitres 2.5 litres 25 millilitres 2 litres 20 millilitres 1 litre 10 millilitres 500 millilitres 5 millilitres 250 millilitres 2 millilitres 200 millilitres 1 millilitre
 
 PART IV.
 
@@ -62,9 +62,7 @@ any multiple of 1 gallon 1 gallon 1 gill 1/2 gallon 4 fluid ounces 1 quart 1/2 g
 
 Metric system.
 
-Weight and Measures
-
-1977-29 2. Measures of–
+2. Measures of–
 
 any multiple of 10 litres 10 litres 100 millilitres 5 litres 50 millilitres 2.5 litres 25 millilitres 2 litres 20 millilitres 1 litre 10 millilitres 500 millilitres 5 millilitres 250 millilitres 2 millilitres 200 millilitres 1 millilitre
 
@@ -80,11 +78,9 @@ Imperial system.
 
 2. Weights of
 
-500 ounces troy 0.4 ounce troy 400 ounces troy 0.3 ounce troy 300 ounces troy 0. 2 ounce troy 200 ounces troy 0.1 ounce troy
+500 ounces troy 0.4 ounce troy 400 ounces troy 0.3 ounce troy 300 ounces troy 0. 2 ounce troy
 
-Weight and Measures
-
-1977-29 100 ounces troy 0.05 ounce troy 50 ounces troy 0.04 ounce troy 40 ounces troy 0.03 ounce troy 30 ounces troy 0.025 ounce troy 20 ounces troy 0.02 ounce troy 10 ounces troy 0.01 ounce troy 5 ounces troy 0.005 ounce troy 4 ounces troy 0.004 ounce troy 3 ounces troy 0.003 ounce troy 2 ounces troy 0.002 ounce troy 1 ounce troy 0.001 ounce troy 0.5 ounce troy
+200 ounces troy 0.1 ounce troy 100 ounces troy 0.05 ounce troy 50 ounces troy 0.04 ounce troy 40 ounces troy 0.03 ounce troy 30 ounces troy 0.025 ounce troy 20 ounces troy 0.02 ounce troy 10 ounces troy 0.01 ounce troy 5 ounces troy 0.005 ounce troy 4 ounces troy 0.004 ounce troy 3 ounces troy 0.003 ounce troy 2 ounces troy 0.002 ounce troy 1 ounce troy 0.001 ounce troy 0.5 ounce troy
 
 Metric system.
 
