@@ -1,22 +1,16 @@
-Diplomatic Privileges (International Organisations)
-
-1948-28
-
-DIPLOMATIC PRIVILEGES (INTERNATIONAL ORGANISATIONS) ACT
+Diplomatic Privileges (International Organisations) Act
 
 Principal Act
 
 Act. No. 1948-28 Commencement 13.8.1948 Assent 13.8.1948
 
-Amending enactments Relevant current provisions Commencement date Act. 1951-05 s.2(2)
+Amending enactments Relevant current provisions Commencement date Act. 1951-05 s.2(2) 2007-17 Sch. 14.6.2007
 
 English sources:
 
 Diplomatic Privileges (Extension) Act 1944 (7 & 8 Geo.6 c.44) Diplomatic Privileges (Extension) Act 1946 (9 & 10 Geo.6 c.66)
 
-_________________________
-
-ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -24,6 +18,4 @@ Section
 
 SCHEDULE. IMMUNITIES AND PRIVILEGES.
 
-Diplomatic Privileges (International Organisations)
-
-1948-28 AN ACT TO MAKE PROVISION AS TO PRIVILEGES, IMMUNITIES AND CAPACITIES  OF INTERNATIONAL ORGANISATIONS OF WHICH HER MAJESTY’S GOVERNMENT IN  THE UNITED KINGDOM AND FOREIGN  GOVERNMENTS ARE MEMBERS; AND FOR  PURPOSES CONNECTED WITH THE MATTERS  AFORESAID.
+AN ACT TO MAKE PROVISION AS TO PRIVILEGES, IMMUNITIES AND CAPACITIES OF INTERNATIONAL ORGANISATIONS OF WHICH HER MAJESTY’S GOVERNMENT IN THE UNITED KINGDOM AND FOREIGN GOVERNMENTS ARE MEMBERS; AND FOR PURPOSES CONNECTED WITH THE MATTERS AFORESAID.

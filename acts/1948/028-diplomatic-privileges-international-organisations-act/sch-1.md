@@ -8,7 +8,7 @@ PART I. IMMUNITIES AND PRIVILEGES OF THE ORGANISATION.
 
 3. The like exemption or relief from taxes and rates, other than taxes on the importation of goods, as is accorded to a foreign sovereign Power.
 
-4. Exemption from taxes on the importation of goods directly imported by the Organisation for its official use in Gibraltar or for exportation, or on the importation  of any publications of the Organisation directly imported by it, such exemption to be subject to compliance with such conditions as the Financial and Development Secretary may prescribe for the protection of the revenue.
+4. Exemption from taxes on the importation of goods directly imported by the Organisation for its official use in Gibraltar or for exportation, or on the importation of any publications of the Organisation directly imported by it, such exemption to be subject to compliance with such conditions as the Minister responsible for finance may prescribe for the protection of the revenue.
 
 5. Exemption from prohibitions and restrictions on importation or exportation in the case of goods directly imported or exported by the Organisation for its official use and in the case of any publications of the Organisation directly imported or exported by it.
 
@@ -22,17 +22,13 @@ PART II. IMMUNITIES AND PRIVILEGES OF HIGH OFFICERS, PERSONS ON MISSIONS AND GOV
 
 3. The like exemption or relief from taxes as is accorded to such an envoy.
 
-PART III. IMMUNITIES AND PRIVILEGES OF OTHER OFFICERS  AND SERVANTS.
+PART III. IMMUNITIES AND PRIVILEGES OF OTHER OFFICERS AND SERVANTS.
 
-(1944 c.44, Sch; 1946 c.66, s.1(1))
-
-Diplomatic Privileges (International Organisations)
-
-1948-28 1. Immunity from suit and legal process in respect of things done or omitted to be done in the course of the performance of official duties.
+1. Immunity from suit and legal process in respect of things done or omitted to be done in the course of the performance of official duties.
 
 2. Exemption from income tax in respect of emoluments received as an officer or servant of the organisation.
 
-PART IV. IMMUNITIES AND PRIVILEGES OF REPRESENTATIVE’S  STAFF AND OF HIGH OFFICER’S FAMILY.
+PART IV. IMMUNITIES AND PRIVILEGES OF REPRESENTATIVE’S STAFF AND OF HIGH OFFICER’S FAMILY.
 
 1. Where any person is entitled to any such immunities and privileges as are mentioned in Part II of this Schedule as the representative of a member government, his official staff accompanying him as such a representative shall also be entitled to those immunities and privileges to the same extent as the retinue of an envoy of a foreign sovereign Power accredited to Her Majesty is entitled to the immunities and privileges accorded to the envoy.
 
