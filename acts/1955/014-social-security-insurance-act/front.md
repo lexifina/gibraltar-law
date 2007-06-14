@@ -72,7 +72,7 @@ Social Security (Insurance)
 
 1.1.1994 1993/190 Sch.1 3.1.1994 1997/166 Sch.1. 30.12.1997 Act. 1999-27* ss. 2(1), 3(3), 7(4), 8(2), 9(1), 10(1)(a), 11, 11A, 12, 18(5), 21, 27(1)-(2), 30, 33(2)-(3), (6), 40(1), 41(1), 47(2), 48, 49(1).
 
-5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007
+5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -696,9 +696,9 @@ Social insurance Fund.
 
 together with the costs of the administration of the Fund.
 
-(2)  There shall be charged upon the short term benefits fund any moneys transferred to the Consolidated Fund or any special fund being moneys which, in the opinion of the Financial and Development Secretary, are surplus to requirements of the Fund.
+(2)  There shall be charged upon the short term benefits fund any moneys transferred to the Consolidated Fund or any special fund being moneys which, in the opinion of the Financial Secretary, are surplus to requirements of the Fund.
 
-(3)  Accounts of the Fund shall be prepared in such form, in such manner and at such times as the Financial and Development Secretary may direct, and the Principal Auditor shall examine and certify every such account.
+(3)  Accounts of the Fund shall be prepared in such form, in such manner and at such times as the Financial Secretary may direct, and the Principal Auditor shall examine and certify every such account.
 
 (4)  Any moneys forming part of the Fund may from time to time be invested, in accordance with such directions as may be given by the
 
@@ -706,7 +706,7 @@ together with the costs of the administration of the Fund.
 
 Social Security (Insurance)
 
-1955-14 Financial and Development Secretary and any interest received from such investments shall be credited to the Fund.
+1955-14 Financial Secretary and any interest received from such investments shall be credited to the Fund.
 
 (5)  Revoked.
 
@@ -1026,7 +1026,7 @@ Social Security (Insurance)
 
 1955-14 Power to wind up funds etc.
 
-53. The Governor may, by regulation, make such provisions as may appear to him necessary or expedient for the purpose for the winding up and dissolution in an equitable and non-discriminatory manner of any fund provided for in this Act and without prejudice to the generality of the foregoing and notwithstanding any other provision of this Act, such regulations may–
+53. The Government may, by regulation, make such provisions as may appear to him necessary or expedient for the purpose for the winding up and dissolution in an equitable and non-discriminatory manner of any fund provided for in this Act and without prejudice to the generality of the foregoing and notwithstanding any other provision of this Act, such regulations may–
 
 (a)  make provision for the transfer of the assets of any fund so wound up to one or more special funds;
 
@@ -1038,7 +1038,7 @@ Social Security (Insurance)
 
 (e)  amend, vary, modify or repeal any provision of this or any other Act for the purpose of giving effect to the winding up and dissolution of any fund;
 
-(f) make such transitional or other incidental or supplementary provisions as may appear to the Governor necessary or expedient for the purpose of this section.
+(f) make such transitional or other incidental or supplementary provisions as may appear to the Government necessary or expedient for the purpose of this section.
 
 Social Security (Insurance)
 
