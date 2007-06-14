@@ -19,7 +19,3 @@ Section 2.
 8. The Pensions (Widows and Orphans) Act (Act. 1961 No. 14)
 
 9. The Widows and Orphans Pensions (Special Provisions) Act, 1971 (Act. 1971 No. 11)
-
-Pensions (Increase)
-
-1973-30

@@ -6,7 +6,7 @@ Year beginning up to and including
 
 Multiplier
 
-1 st July 1945
+1st July 1945
 
 2.808 beginning 1st July 1946
 
@@ -107,7 +107,3 @@ Multiplier
 1970
 
 1.000
-
-Pensions (Increase)
-
-1973-30

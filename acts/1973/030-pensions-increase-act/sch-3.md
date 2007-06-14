@@ -35,7 +35,3 @@ between 1st July and 30th September, 1970
 1st April and 30th June, 1972
 
 2.52%
-
-Pensions (Increase)
-
-1973-30
