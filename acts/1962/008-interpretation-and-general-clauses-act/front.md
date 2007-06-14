@@ -20,7 +20,7 @@ LN. 1971/020 s. 2
 
 Act. 1972-06 s. 2
 
-1972-18 s. 5 1973-20 s. 55(1) 1976-31 s. 43(2) 1982-14 s. 54(2) 1991-04 ss. 2, 23(b) 4.4.1991 1992-12 s. 23 31.12.1992 1993-26 s. 8A 1.12.1993 1993-25 s. 23 9.12.1993 1997-35 s. 24 30.10.1997 2004-22 s. 5A 1.5.2004
+1972-18 s. 5 1973-20 s. 55(1) 1976-31 s. 43(2) 1982-14 s. 54(2) 1991-04 ss. 2, 23(b) 4.4.1991 1992-12 s. 23 31.12.1992 1993-26 s. 8A 1.12.1993 1993-25 s. 23 9.12.1993 1997-35 s. 24 30.10.1997 2004-22 s. 5A 1.5.2004 2007-17 ss. 2, 44(1), 70, 73 14.6.2007
 
 English sources
 
@@ -86,7 +86,7 @@ PART IX. LEGAL PROCEEDINGS.
 
 PART X. THE GOVERNOR AND THE CROWN.
 
-67. Evidence of signature of Governor. 68. References to the Crown. 69. Saving of rights of the Crown. 70. Signification of orders of Governor.
+67. Evidence of signature of Governor. 68. References to the Crown. 69. Saving of rights of the Crown. 70. Repealed.
 
 PART XI. GAZETTE AND REPRINTING.
 
