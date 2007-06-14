@@ -1,26 +1,16 @@
-Quarantine QUARANTINE (AIR TRAFFIC) RULES
+Subsidiary Legislation made under s.4.
 
-1935-07
+Quarantine (Air Traffic) Rules
 
-Subsidiary 1949.03.17 Rules made under section 4.
+1949.03.17
 
-QUARANTINE (AIR TRAFFIC) RULES
+Commencement 1.4.1949
 
-(1949.03.17)
+Amending enactments Relevant current provisions Commencement date 1951.03.08 r. 3, Sch. 1954.01.14 Act. 2007-17 r. 17 14.6.2007
 
-1.4.1949
+ARRANGEMENT OF RULES
 
-Amending enactments Relevant current provisions Commencement date 1951.03.08 r. 3 and Sch. 1954.01.14
-
-Quarantine QUARANTINE (AIR TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1949.03.17
-
-ARRANGEMENT OF RULES.
-
-Rules
+Rule
 
 1. Title. 2. Interpretation
 
@@ -39,9 +29,3 @@ Measures Applicable in Case of Plague, Cholera, Yellow Fever, Typhus and Smallpo
 General Provisions.
 
 14. Surveillance of persons exposed to infection. 15. When persons liable to surveillance may continue voyage. 16. Conditions under which aircraft may be exempted from provisions of these rules. 17. Fees. 18. Offences.
-
-SCHEDULE. General Declaration.
-
-Quarantine QUARANTINE (AIR TRAFFIC) RULES
-
-1935-07
