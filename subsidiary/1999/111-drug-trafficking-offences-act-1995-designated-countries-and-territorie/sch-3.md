@@ -30,9 +30,7 @@ Interpretation and application.
 
 (a) any vehicle, vessel, aircraft or hovercraft;
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 (b) any offshore installation; and
+(b) any offshore installation; and
 
 (c) any tent or moveable structure;
 
@@ -58,11 +56,9 @@ an order is “subject to appeal” until (disregarding any power of a court to 
 
 (e) using any ship for illicit trafficking of a controlled drug in circumstances which amount to the commission of an offence under section 14 of the Criminal Justice Act, 1995;
 
+(f) conduct which is an offence under section 54 or which would be such an offence if it took place in Gibraltar;
+
 1995-14
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 (f) conduct which is an offence under section 54 or which would be such an offence if it took place in Gibraltar;
 
 (g) acquiring, having possession of or using property in circumstances which amount to the commission of an offence under section 56 or would be such an offence if it took place in Gibraltar.
 
@@ -76,7 +72,7 @@ Subsidiary 1999/111 1995-06 (f) conduct which is an offence under section 54 or 
 
 (a) under the law of the designated country concerned one of the steps specified in relation to that country in column 2 of the Appendix hereto has been taken there in respect of alleged drug trafficking by the defendant; or
 
-(b) where no steps have been specified in relation thereto as mentioned in paragraph (a) above, the defendant has been notified in writing in accordance with the laws of the designated country that the competent authorities of that country have begun proceedings against him in respect of an offence;  or
+(b) where no steps have been specified in relation thereto as mentioned in paragraph (a) above, the defendant has been notified in writing in accordance with the laws of the designated country that the competent authorities of that country have begun proceedings against him in respect of an offence; or
 
 (c) an application has been made to a court in a designated country for an external confiscation order,
 
@@ -85,10 +81,6 @@ and where the application of this subsection would result in there being more th
 (14) Proceedings for a drug trafficking offence are concluded–
 
 (a) when the defendant is acquitted on all counts;
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06
 
 (b) if he is convicted on one or more counts, but the court decides not to make a confiscation order against him, when it makes that decision; or
 
@@ -114,11 +106,7 @@ Subsidiary 1999/111 1995-06
 
 (22) References in this Act to anything received in connection with drug trafficking include a reference to anything received both in that connection and in some other connection and whether received in connection with drug trafficking carried on by the recipient or some other person and whether received before or after the commencement of the Drug Trafficking Offences Act,1995 (Designated Countries and Territories) Order, 1999.
 
-PART II.
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 CONFISCATION ORDERS.
+PART II. CONFISCATION ORDERS.
 
 External Confiscation Orders.
 
@@ -138,7 +126,7 @@ Meaning of “amount that might be realised” and “realisable property”.
 
 (ii) any property held by a person to whom the defendant has directly or indirectly made a gift caught by this Act.
 
-(3) Property is not realisable property if there is in force in respect of it an order  under any of the following enactments, namely–
+(3) Property is not realisable property if there is in force in respect of it an order under any of the following enactments, namely–
 
 (a) section 28 of the Drugs (Misuse) Act;
 
@@ -149,10 +137,6 @@ Value of Property etc.
 8.(1) Subject to the following provisions of this section and to section 9, for the purposes of this Act the value of property (other than cash) in relation to any person holding the property is the market value of the property, except that, where any other person holds an interest in the property, the value is–
 
 (a) the market value of the first-mentioned person’s beneficial interest in the property, less
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06
 
 (b) the amount required to discharge any encumbrance (other than a charging order) on that interest.
 
@@ -182,17 +166,13 @@ Gifts caught by this Act.
 
 (b) it was made by the defendant at any time and was a gift of property–
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06
-
 (i) received by the defendant in connection with drug trafficking carried on by him or another person; or
 
 (ii) which in whole or in part directly or indirectly represented in the defendant’s hands property received by him in that connection.
 
 (2) For the purposes of this Act–
 
-(a) the circumstances in which the defendant is to be treated as making a gift include those where he transfers property to another person directly or indirectly for a consideration the value of which is significantly less than the value of the consideration provided by the defendant;  and
+(a) the circumstances in which the defendant is to be treated as making a gift include those where he transfers property to another person directly or indirectly for a consideration the value of which is significantly less than the value of the consideration provided by the defendant; and
 
 (b) in those circumstances, the provisions of subsection (1) and of sections 7 and 8 shall apply as if the defendant had made a gift of such a share in the property as bears to the whole property the same proportion as the difference between the values referred to in paragraph (a) bears to the value of the consideration provided by the defendant.
 
@@ -208,11 +188,7 @@ Cases in which restraint orders and charging orders may be made.
 
 (3) Those powers are also exercisable where it appears to the court that proceedings are to be instituted against the defendant in a designated country and that there are reasonable grounds for believing that an External Confiscation Order may be made in them.
 
-(5) Where the court has made an order under section 27(1) or 28(1) by virtue of subsection (3), the court shall discharge the order if the proposed
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 proceedings are not instituted within such time as the court considers reasonable.
+(5) Where the court has made an order under section 27(1) or 28(1) by virtue of subsection (3), the court shall discharge the order if the proposed proceedings are not instituted within such time as the court considers reasonable.
 
 Restraint orders.
 
@@ -240,11 +216,9 @@ Restraint orders.
 
 (5) A restraint order–
 
-(a) may be discharged or varied in relation to any property;  and
+(a) may be discharged or varied in relation to any property; and
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 (b) shall be discharged when the proceedings in relation to which the order was made are concluded.
+(b) shall be discharged when the proceedings in relation to which the order was made are concluded.
 
 (6) An application for the discharge or variation of a restraint order may be made by any person affected by it.
 
@@ -274,10 +248,6 @@ Charging orders in respect of land, securities etc.
 
 (a) where a fixed amount is payable under an External Confiscation Order, of an amount not exceeding the amount so payable, and
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06
-
 (b) in any other case, of an amount equal to the value from time to time of the property charged.
 
 (2) For the purposes of this Act, a charging order is an order made under this section imposing on any such realisable property as may be specified in the order a charge for securing the payment of money to the Crown.
@@ -303,10 +273,6 @@ Subsidiary 1999/111 1995-06
 (b) any interest in realisable property held by a person as trustee of a trust (“the relevant trust”) if the interest is in such an asset or is an interest under another trust and a charge made by virtue of paragraph (a) be imposed by a charging order on the whole beneficial interest under the relevant trust.
 
 (5) The assets referred to in subsection (4) are–
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06
 
 (a) land in Gibraltar; or
 
@@ -338,9 +304,7 @@ Subsidiary 1999/111 1995-06
 
 Charging orders: supplementary provisions.
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 29.(1) Subject to any provision made under section 30 or by rules of court, a charge imposed by a charging order shall have the like effect and shall be enforceable in the same court and in the same manner as an equitable charge created by the person holding the beneficial interest or, as the case may be, the trustees by writing under their hand.
+29.(1) Subject to any provision made under section 30 or by rules of court, a charge imposed by a charging order shall have the like effect and shall be enforceable in the same court and in the same manner as an equitable charge created by the person holding the beneficial interest or, as the case may be, the trustees by writing under their hand.
 
 Applications for restraint and charging orders.
 
@@ -356,7 +320,7 @@ and the affidavit may, unless the court otherwise directs, contain statements of
 
 Realisation of property.
 
-30.(1) Where an External Confiscation Order has been registered in the court under section 47, the court may, on the application of the Attorney General, exercise the powers conferred by subsections (lA) to (6).
+30.(1) Where an External Confiscation Order has been registered in the court under section 47, the court may, on the application of the Minister responsible for justice, exercise the powers conferred by subsections (lA) to (6).
 
 (1A)  In respect of any sum of money payable under the External Confiscation Order, the court may make a garnishee order as if the sum were due to the Crown in pursuance of a judgment or order of the court, but any such order shall direct the sum payable to be paid to the court.
 
@@ -364,9 +328,7 @@ Realisation of property.
 
 (3) The court may empower a receiver appointed under subsection (2), under section 27 or in pursuance of a charging order–
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 (a) to enforce any charge imposed under section 28 on realisable property or on interest or dividends payable in respect of such property; and
+(a) to enforce any charge imposed under section 28 on realisable property or on interest or dividends payable in respect of such property; and
 
 (b) in relation to any realisable property other than property for the time being subject to a charge under section 28, to take possession of the property subject to such conditions or exceptions as may be specified by the court.
 
@@ -391,10 +353,6 @@ Application of proceeds of realisation and other sums.
 (a) the proceeds of the enforcement of any charge imposed under section 28,
 
 (b) the proceeds of the realisation, other than by the enforcement of such a charge, of any property under section 27 or 30, and
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06
 
 (c) any other sums, being property held by the defendant,
 
@@ -424,10 +382,6 @@ as the court may direct after giving a reasonable opportunity for such persons t
 
 (b)  in a case to which subsection (6) applies, any payment required by that subsection,
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06
-
 any amount paid under section 35(3) shall be reimbursed;
 
 (8) Any sums remaining after all payments required to be made by the preceding provisions of this section have been made shall be paid into any special fund established under the Public Finance (Control and Audit) Act having as prescribed income such sums, and in the absence of such a fund shall be paid into the Consolidated Fund.
@@ -452,15 +406,13 @@ Exercise by the court or receiver of power for the realisation of property.
 
 Bankruptcy of defendant, etc.
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 33.(1) Where a person who holds realisable property is adjudged bankrupt–
+33.(1) Where a person who holds realisable property is adjudged bankrupt–
 
 (a) the property for the time being subject to a restraint order made before the order adjudging him bankrupt, and
 
 (b) any proceeds of property realised by virtue of section 27(7) or 30(5) or (6) for the time being in the hands of a receiver appointed under section 27 or 30,
 
-is excluded from the bankrupt’s estate for the purpose of the  Bankruptcy Act.
+is excluded from the bankrupt’s estate for the purpose of the Bankruptcy Act.
 
 (2)  Where a person has been adjudged bankrupt, the powers conferred on the court by sections 27 to 31 or on a receiver so appointed shall not be exercised in relation to–
 
@@ -480,11 +432,7 @@ but, otherwise, nothing in that Act shall be taken as restricting or enabling th
 
 (5) Where a person is adjudged bankrupt and has directly or indirectly made a gift caught by this Act–
 
-(a) no order shall be made under section 26 or 42 of the Bankruptcy Act, in respect of the making of the gift, at any
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 time when the property of the person to whom the gift was made is subject to a restraint order or charging order, and
+(a) no order shall be made under section 26 or 42 of the Bankruptcy Act, in respect of the making of the gift, at any time when the property of the person to whom the gift was made is subject to a restraint order or charging order, and
 
 (b) any order under section 26 or 42 of the Bankruptcy Act after the discharge of the restraint or charging order shall take into account any realisation under this Act of property held by the person to whom the gift was made.
 
@@ -504,11 +452,7 @@ Winding up of company holding realisable property.
 
 (a) so as to inhibit him from exercising those functions for the purposes of distributing any property held by the company to the company’s creditors; or
 
-(b) so as to prevent the payment out of any property of expenses (including the remuneration of the liquidator or any provisional
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 liquidator) properly incurred in the winding up in respect of the property,
+(b) so as to prevent the payment out of any property of expenses (including the remuneration of the liquidator or any provisional liquidator) properly incurred in the winding up in respect of the property,
 
 but otherwise nothing in the Companies Act shall be taken as restricting or enabling the restriction of, the exercise of those powers.
 
@@ -534,9 +478,7 @@ Persons acting as insolvency practitioners.
 
 (b) at the time of the seizure or disposal he believes, and has reasonable grounds for believing, that he is entitled (whether pursuant to an order of the court or otherwise) to seize or dispose of that property,
 
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 he shall not be liable to any person in respect of any loss or damage resulting from the seizure or disposal except in so far as the loss or damage is caused by his negligence in so acting.
+he shall not be liable to any person in respect of any loss or damage resulting from the seizure or disposal except in so far as the loss or damage is caused by his negligence in so acting.
 
 (2) A person acting as an insolvency practitioner shall, in the circumstances mentioned in subsection (1)(a) and (b), have a lien on the property or the proceeds of its sale for such of his expenses as were incurred in connection with the liquidation, bankruptcy or other proceedings in relation to which the seizure or disposal purported to take place and for so much of his remuneration as may reasonably be assigned for his acting in connection with those proceedings.
 
@@ -554,14 +496,6 @@ Receivers:  supplementary provisions.
 
 (a) takes any action in relation to property which is not realisable property, being action which he would be entitled to take if it were such property, and
 
-(b) believes, and has reasonable grounds for so believing that he is entitled to take that action in relation to that property,
+(b) believes, and has reasonable grounds for so believing that he is entitled to take that action in relation to that property, he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
 
-he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage is caused by his negligence.
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06 (2) Any amount due in respect of the remuneration and expenses of a receiver so appointed shall, if no sum is available to be applied in payment of it under section 31(6), be paid by the prosecutor or, in a case where proceedings for a drug trafficking offence are not instituted, by the person on whose application the receiver was appointed.
-
-Drug Trafficking Offences DRUG  TRAFFICKING OFFENCES ORDINANCE, 1995 (DESIGNATED COUNTRIES AND TERRITORIES) ORDER, 1999
-
-Subsidiary 1999/111 1995-06
+(2) Any amount due in respect of the remuneration and expenses of a receiver so appointed shall, if no sum is available to be applied in payment of it under section 31(6), be paid by the prosecutor or, in a case where proceedings for a drug trafficking offence are not instituted, by the person on whose application the receiver was appointed.
