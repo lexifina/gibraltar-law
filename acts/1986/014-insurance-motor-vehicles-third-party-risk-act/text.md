@@ -14,7 +14,7 @@ Acts.  1988-27 ss.2(2), 2(3), 4(1), 4(2), 13(1), 13(1A), 13(1B), 13(2), 13(4A), 
 
 31.12.1988 1997-07 ss. 2(1), 4(1)(a), 4(1)(b), 4(1A), 4(2), 4(3), 8, 9(1), 15(1) and 15(2),
 
-1.6.1997 1998-50 s. 4(1B) 24.12.1998 2004-28 s. 2(1) 1.5.2004
+1.6.1997 1998-50 s. 4(1B) 24.12.1998 2004-28 s. 2(1) 1.5.2004 2007-17 ss. 2(1), 12(1), 21(1), 24(1) 14.6.2007
 
 EU Legislation/International Agreements involved: Directive 72/166/EEC Directive 84/5/EEC Directive 90/232/EEC
 
@@ -64,7 +64,7 @@ Insurance (Motor Vehicles) (Third Party Risk)
 
 “policy of insurance” includes a cover note;
 
-“ relevant foreign state”  is  a  reference  to  Norway, Switzerland or to any other country which the Governor may by notice in the Gazette designate;
+“ relevant foreign state”  is  a  reference  to  Norway, Switzerland or to any other country which the Government may by notice in the Gazette designate;
 
 “road” means any highway and any other road to which the public has access, and includes bridges over which a road passes and includes any road belonging to the Crown to which the public has or is permitted access;
 
@@ -240,7 +240,7 @@ Insurance (Motor Vehicles) (Third Party Risk)
 
 Production of insurance on entering Gibraltar.
 
-12.(1)  Any person appointed by the Governor by notice in the Gazette (hereinafter referred to as an appointed person) may require a person having custody of any vehicle–
+12.(1)  Any person appointed by the Government by notice in the Gazette (hereinafter referred to as an appointed person) may require a person having custody of any vehicle–
 
 (a) which is normally based-
 
@@ -516,7 +516,7 @@ Insurance (Motor Vehicles) (Third Party Risk)
 
 1986-14 20.  Except as otherwise provided for in this Act, any person issuing or renewing a policy of insurance in Gibraltar for the purposes of this Act, not being an approved motor vehicle insurer, is guilty of an offence and is liable, on conviction on indictment, to imprisonment for 2 years and to a fine or on summary conviction to a fine of £5,000.
 
-21.(1)  The Governor may make rules –
+21.(1)  The Government may make rules –
 
 (a) prescribing any matter which may be prescribed under the provisions of this Act;
 
@@ -536,7 +536,7 @@ Repeal.
 
 Transitional provisions.
 
-24.(1)  Any policy issued or renewed or any certificate of insurance delivered prior to the coming into operation of this Act and any policy issued or renewed or any certificate of insurance delivered during the period ending with the 31st October 1986 by a person approved by the Governor for the purposes of the Insurance (Motor Vehicles) (Third Party Risks) Act, or by a person authorised to carry on motor vehicle insurance business under the Insurance Companies Act complying in all respects with the provisions of the Insurance (Motor Vehicles) (Third Party Risks) Act before its repeal by section 23 of this Act, shall be deemed to comply with the requirements of this Act.
+24.(1)  Any policy issued or renewed or any certificate of insurance delivered prior to the coming into operation of this Act and any policy issued or renewed or any certificate of insurance delivered during the period ending with the 31st October 1986 by a person approved by the Government for the purposes of the Insurance (Motor Vehicles) (Third Party Risks) Act, or by a person authorised to carry on motor vehicle insurance business under the Insurance Companies Act complying in all respects with the provisions of the Insurance (Motor Vehicles) (Third Party Risks) Act before its repeal by section 23 of this Act, shall be deemed to comply with the requirements of this Act.
 
 Insurance (Motor Vehicles) (Third Party Risk)
 
