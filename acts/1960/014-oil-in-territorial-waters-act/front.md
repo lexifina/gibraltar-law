@@ -10,11 +10,15 @@ Act. No. 1960-14 Commencement 8.7.1960
 
 Assent 7.7.1960
 
+Amending enactment Relevant current provisions Commencement date
+
+Act.   2007-17 ss. 6(1), 11 14.6.2007
+
 English sources Oil in Navigable Waters Act 1955 (3 & 4 Eliz.2 c.25)
 
-_____________________________
+Oil in Territorial Waters
 
-ARRANGEMENT OF SECTIONS
+1960-14 ARRANGEMENT OF SECTIONS
 
 Section
 
