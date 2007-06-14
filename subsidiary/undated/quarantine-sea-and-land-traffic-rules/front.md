@@ -1,26 +1,16 @@
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
+Subsidiary Legislation made under s.4.
 
-1935-07
+Quarantine (Sea and Land Traffic) Rules
 
-Subsidiary 1935.05.17 Rules made under section 4.
+1935.05.17
 
-QUARANTINE (SEA AND LAND TRAFFIC) RULES
+Commencement 17.5.1935
 
-(1935.05.17)
+Amending enactments Relevant current provisions Commencement date 1947.8.21 rr. 2, 17, Schs.3-4 1962.5.23 r. 22(3) Act. 2007-17 rr. 15, 32-33 14.6.2007
 
-17.5.1935
+ARRANGEMENT OF RULES
 
-Amending enactments Relevant current provisions Commencement date 1947.8.21 rr. 2, 17, Schs.3-4 1962.5.23 r. 22(3)
-
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17
-
-ARRANGEMENT OF RULES.
-
-Rules
+Rule
 
 1. Title. 2. Interpretation.
 
@@ -34,13 +24,9 @@ PART II. SHIPS AT GIBRALTAR.
 
 PART III. GENERAL.
 
-20. Health officer to enter ships. 21. Powers of health officer. 22. Landing of sick persons. 23. Disposal of corpses. 24. Duties of master. 25. Health guards. 26. Compliance with directions of health officers. 27. Compensation where articles are destroyed. 28. Charges for sanitary services.
+20. Health officer to enter ships. 21. Powers of health officer. 22. Landing of sick persons. 23. Disposal of corpses. 24. Duties of master. 25. Health guards. 26. Compliance with directions of health officers. 27. Compensation where articles are destroyed.
 
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17 29. Saving for mails. 30. Saving for ships putting to sea.
+28. Charges for sanitary services. 29. Saving for mails. 30. Saving for ships putting to sea.
 
 PART IV. ARRIVALS BY LAND.
 
@@ -53,9 +39,3 @@ SCHEDULE 2. Flags and Signal Lights.
 SCHEDULE 3. Measures to be carried our in respect of an infected or suspected ship, or of a ship with a case of typhus fever or smallpox on board.
 
 SCHEDULE 4. Maritime Declaration of Health.
-
-SCHEDULE 5. Questions to be put to persons desirous of entering Gibraltar by land.
-
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07

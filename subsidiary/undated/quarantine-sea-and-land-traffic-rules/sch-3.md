@@ -26,11 +26,7 @@ Provided that no person shall be isolated or kept under surveillance for a perio
 
 5. The parts of the ship which have been occupied by persons suffering from plague or which the health officer considers to be infected shall be cleansed of vermin and, if necessary, disinfected.
 
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17 6. The health oicer may require the ship to be deratised before any cargo is discharged if he considers it possible, having regard to the nature of the cargo and the way in which it is loaded, to effect the deratisation of the ship before the discharge of cargo. If the ship has not been deratised before the discharge of cargo, or if it has been so deratised and the health officer considers a further deratisation necessary and the master agrees, the ship may be deratised as soon as the holds are empty.
+6. The health oicer may require the ship to be deratised before any cargo is discharged if he considers it possible, having regard to the nature of the cargo and the way in which it is loaded, to effect the deratisation of the ship before the discharge of cargo. If the ship has not been deratised before the discharge of cargo, or if it has been so deratised and the health officer considers a further deratisation necessary and the master agrees, the ship may be deratised as soon as the holds are empty.
 
 7. If the ship is to discharge only part of its cargo and the health officer considers it impossible to carry out a complete deratisation, the ship may remain at Gibraltar for the time required to discharge such part of its cargo, provided that all precautions, including isolation, are taken to the satisfaction of the health officer, to prevent rats passing from the ship to the shore either during unloading or at any other time.
 
@@ -51,12 +47,6 @@ I. Infected Ships.
 1. The ship shall be inspected and all persons on board may be medically examined.
 
 2. Passengers on a ship whose port of disembarkation is Gibraltar shall be disembarked, but shall either be isolated or be placed under surveillance for a period not exceeding five clear days after the date of arrival of the ship. Persons disembarking who satisfy the health officer that they have been efficiently vaccinated against cholera within the preceding six months, excluding the last six days thereof, may be placed under surveillance but they shall not be isolated.
-
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17
 
 3. During any period of isolation or surveillance, the passengers (except those specified in paragraph 2 of this Part and those considered to be efficiently vaccinated against cholera) and the crew may be prohibited from leaving the ship, except for the purposes of their duty and after notification to the health officer.
 
@@ -84,15 +74,9 @@ I. Infected Ships.
 
 1. The ship shall be inspected and all persons may be medically examined.
 
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17
-
 2. Passengers on a recognised passenger-ship whose port of disembarkation is Gibraltar shall be disembarked, but such persons shall be subjected to–
 
-(a) isolation; or
+(a)  isolation; or
 
 (b)  surveillance:
 
@@ -116,11 +100,7 @@ II. Suspected Ships.
 
 9. The members of the crew may, for a like period, be prohibited from leaving the ship except for the purposes of duty and after notification to the health officer.
 
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17 10. Nevertheless if the voyage of the suspected ship has lasted less than six days and if the ship complies with the conditions under paragraphs (a) and (b) of Article 35 of the International Sanitary Convention of Paris, 1926, the ship shall be subjected only to the measures prescribed in paragraphs I and 8 of this Part and to fumigation.
+10. Nevertheless if the voyage of the suspected ship has lasted less than six days and if the ship complies with the conditions under paragraphs (a) and (b) of Article 35 of the International Sanitary Convention of Paris, 1926, the ship shall be subjected only to the measures prescribed in paragraphs I and 8 of this Part and to fumigation.
 
 11. When thirty days have been completed after the departure of the ship from the infected port, and no case has occurred during the voyage, the ship may be granted free pratique subject to the preliminary fumigation should the health officer consider this to be necessary.
 
@@ -146,20 +126,10 @@ PART E.–SMALLPOX
 
 3. The sick may be disembarked and shall be isolated.
 
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17 4. All other persons disembarking who may be reasonably suspected of having been exposed to infection on board and who, in the opinion of the health officer, are not sufficiently protected by vaccination or a previous attack of smallpox, may be subjected to vaccination or surveillance or to vaccination followed by surveillance not exceeding fourteen days from the date of arrival of the ship.
+4. All other persons disembarking who may be reasonably suspected of having been exposed to infection on board and who, in the opinion of the health officer, are not sufficiently protected by vaccination or a previous attack of smallpox, may be subjected to vaccination or surveillance or to vaccination followed by surveillance not exceeding fourteen days from the date of arrival of the ship.
 
 5. Bedding which has been used, soiled linen, wearing apparel and any other article which the health officer considers to be infected shall be disinfected or destroyed as the health officer may think fit.
 
 6. The parts of the ship which have been occupied by persons suffering from smallpox or which the health officer considers to be infected shall be disinfected.
 
 7. All persons employed in the discharge of cargo may be subjected to surveillance for a period of fourteen days after completion of the discharge of the cargo.
-
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17

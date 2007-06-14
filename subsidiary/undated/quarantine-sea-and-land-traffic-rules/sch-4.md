@@ -38,11 +38,7 @@ Yes or No.
 
 5. Is there any sick person on board now? Give particulars in Schedule.
 
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17 NOTE-In the absence of a surgeon, the Master should regard the following symptoms as ground for suspecting the existence of infectious disease; fever accompanied by prostration or persisting for several days, or attended with glandular swelling, or any acute skin rash or eruption with or without fever; severe diarrhoea with symptons of collapse; jaundice accompanied by fever.
+NOTE-In the absence of a surgeon, the Master should regard the following symptoms as ground for suspecting the existence of infectious disease; fever accompanied by prostration or persisting for several days, or attended with glandular swelling, or any acute skin rash or eruption with or without fever; severe diarrhoea with symptons of collapse; jaundice accompanied by fever.
 
 6. Are you aware of any other condition on board which may lead to infection or the spread of infectious disease?
 
@@ -57,9 +53,3 @@ Countersigned
 Ship’s Surgeon Date
 
 *If more than 6 weeks have elapsed since the voyage began, it will suffice to give particulars of the last 6 weeks.
-
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17

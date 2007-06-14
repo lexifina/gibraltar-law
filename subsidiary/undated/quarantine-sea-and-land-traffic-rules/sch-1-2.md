@@ -21,9 +21,3 @@ Age.
 Class or Rating.
 
 NAME
-
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17

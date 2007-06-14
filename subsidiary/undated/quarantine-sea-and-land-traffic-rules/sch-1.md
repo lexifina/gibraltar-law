@@ -36,20 +36,8 @@ I do not wish to disembark any sick. I wish to disembark (number indicated) sick
 
 ITEM VIII.
 
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17
-
 My crew consists of (number indicated), and I have no passengers on board. My crew consists of (number indicated), and I have (number indicated) passengers.
 
 ITEM IX.
 
 I do not propose to disembark any passengers. I propose to disembark (number indicated) passengers of class (indicated).
-
-Quarantine QUARANTINE (SEA AND LAND TRAFFIC) RULES
-
-1935-07
-
-Subsidiary 1935.05.17
