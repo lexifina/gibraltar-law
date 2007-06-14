@@ -18,6 +18,8 @@ Rules of 17.7.1952 rr. 9, 11, 12 and 17(2)
 
 LN. 1976/137 rr. 9,12, 13, 17(1) and (2)
 
+Act. 2007-17 rr. 2, 5, 18(1), 18(3), 18(5), 19 14.6.2007
+
 Currency Notes CURRENCY NOTES RULES.
 
 Subsidiary 1939.07.18 2011-03 ARRANGEMENT OF RULES
