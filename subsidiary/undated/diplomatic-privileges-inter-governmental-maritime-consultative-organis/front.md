@@ -1,7 +1,5 @@
-Diplomatic Privileges (International Organisations) DIPLOMATIC PRIVILEGES (INTER-GOVERNMENTAL MARITIME CONSULTATIVE ORGANISATION) ORDER
+Subsidiary Legislation made under s.2.
 
-Subsidiary 1960.08.30 1948-28 Orders made under s.2.
+Diplomatic Privileges (Inter-Governmental Maritime Consultative Organisation) Order
 
-DIPLOMATIC PRIVILEGES (INTER-GOVERNMENTAL MARITIME CONSULTATIVE ORGANISATION) ORDER
-
-(1960.08.30)
+1960.08.30
