@@ -20,9 +20,7 @@ Section 8(3)
 
 8. The committee shall hold office until the next annual general meeting after the one at which they were elected, and thereafter until their respective successors come into office, but may from time to time be re-elected.
 
-Housing Associations
-
-1982-02 9. Notwithstanding rules 6 and 8, the association may at any time in general meeting remove any member of the committee from office. Where it does so, it shall thereupon elect another member to be an officer in his place.
+9. Notwithstanding rules 6 and 8, the association may at any time in general meeting remove any member of the committee from office. Where it does so, it shall thereupon elect another member to be an officer in his place.
 
 10. Every member of the association shall be given not less than seven days notice of the time and place appointed for every general meeting and of the agenda for the meeting. An inadvertent failure to comply with this rule shall not invalidate the proceedings of the meeting.
 
