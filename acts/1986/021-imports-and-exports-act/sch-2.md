@@ -66,4 +66,4 @@ Imports and Exports
 
 (2) If the claimant accepts any amount tendered to him under the foregoing sub-paragraphs, he shall not be entitled to maintain any action on account of the seizure, detention, sale or destruction of the thing.
 
-(3) For the purpose of this paragraph, the market value of any thing at the time of its seizure shall be taken to be such amount as the Collector and the claimant may agree or, in default of agreement, as may be determined by a referee appointed by the Governor, not being an official of any Government department, whose decision shall be final and conclusive; and the procedure on any reference to a referee shall be such as may be determined by the referee.
+(3) For the purpose of this paragraph, the market value of any thing at the time of its seizure shall be taken to be such amount as the Collector and the claimant may agree or, in default of agreement, as may be determined by a referee appointed by the Government, not being an official of any Government department, whose decision shall be final and conclusive; and the procedure on any reference to a referee shall be such as may be determined by the referee.
