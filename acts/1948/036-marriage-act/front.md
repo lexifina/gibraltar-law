@@ -14,7 +14,9 @@ Act. 1960-17, s.56 s.30 1962-9, s.52 s.39
 
 Amending enactments Relevant current provisions Commencement Date Act. 1949-25 ss. 5. 22 1962-10 s. 17 1963-08 s. 3(1) 1968-16 s. 13(4) LN. 1978/006 Sch. 2 Act. 1980-04 s. 3(2) 1983-12 ss. 10, 13(5) 1983-30 s. 15(1), (2), Sch. 2 1986-19 s. 15(3) 13.11.1986 1990-21 ss. 10, 11(2), 13(2), (5), (6), 21(2), 22(1), 30(c), Sch. 1, 3
 
-7.6.1990
+7.6.1990 2007-17 ss. 2(a), 3(1), (2), 4(1), (3), (4), 6(a), (b), (c), 13(1), (2), (3),  (5), 21(1), (2), 22(1), 32(1), 43
+
+14.6.2007
 
 English sources
 
@@ -34,7 +36,9 @@ Previous number New number Previous number New number 1 1 28 27(1) 2 2 29 42 3 3
 
 Marriage
 
-1948-36 ARRANGEMENT OF SECTIONS.
+1948-36
+
+ARRANGEMENT OF SECTIONS.
 
 Section
 
@@ -64,7 +68,9 @@ Solemnization and Contraction of Marriage
 
 Marriage
 
-1948-36 Validity of Marriages
+1948-36
+
+Validity of Marriages
 
 26. Void marriages. 27. Certain marriages not void or voidable as civil contracts. 28. Marriage not invalidated by false statement. 29. Proof of dwelling or consent unnecessary after marriage.
 
