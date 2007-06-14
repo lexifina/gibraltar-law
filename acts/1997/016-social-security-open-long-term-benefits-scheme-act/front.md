@@ -12,7 +12,7 @@ Assent 10.4.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999 2001-04 ss. 2, 8, 39 14.3.2001 LN. 2004/132 Sch.1 3.1.2005 Act. 2007-19 ss. 4(9), (10), Sch.1 1.7.2006 “ s. 22(a), Sch. 2 1.4.2007 LN. 2007/051 Sch.1 1.4.2007
+LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999 2001-04 ss. 2, 8, 39 14.3.2001 LN. 2004/132 Sch.1 3.1.2005 Act. 2007-19 ss. 4(9), (10), Sch.1 1.7.2006 “ s. 22(a), Sch. 2 1.4.2007 LN. 2007/051 Sch.1 1.4.2007 Act. 2007-17 ss. 10(3)(c), (4)-(5), 30(2), 33(3) 14.6.2007
 
 English sources None cited
 
