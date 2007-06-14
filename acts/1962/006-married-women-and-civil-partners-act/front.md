@@ -22,6 +22,8 @@ Acts. 1964-14 s. 16
 
 1983-48 –
 
+2007-17 s. 3 14.6.2007
+
 English sources
 
 Married Women’s Property Act 1882 (45 & 46 Vict. c.75) Married Women’s Property Act 1907 (7 Edw. 7 c.18) Law Reform (Married Women and Tortfeasors) Act 1935 (25 & 26 Geo. 5 c.30) Married Women (Restraint upon Anticipation) Act 1949 (12, 13 & 14 Geo. 6 c.78) Law Reform (Husband and Wife) Act 1962 (10 & 11 Eliz. 2 c.48)
