@@ -16,11 +16,7 @@ but so nevertheless that the amount of the acceptance fee charged in respect of 
 
 £ In respect of the first £5,000 0.75 In respect of any excess over £5,000 up to a total of £25,000 0.38 In respect of any excess over £25,000 up to a total of £50,000 0.25 In respect of any excess over £50,000 up to a total o £75,000 0.13 In respect of any excess over £75,000 0.13
 
-Public Trustee PUBLIC TRUSTEE RULES
-
-1943-23
-
-Subsidiary 1947.05.31 but so nevertheless that the amount of the acceptance fee charged in respect of any trust under this paragraph shall not be less than £7.50 where the gross capital value (excluding as aforesaid) does not exceed £500, or less than £10 where the gross capital value ( excluding as aforesaid) exceeds £500.
+but so nevertheless that the amount of the acceptance fee charged in respect of any trust under this paragraph shall not be less than £7.50 where the gross capital value (excluding as aforesaid) does not exceed £500, or less than £10 where the gross capital value ( excluding as aforesaid) exceeds £500.
 
 4. Where the public trustee is acting as original trustee of a trust created inter vivos (not being a declaration of trust in favour of one beneficiary only), the acceptance fee shall beat the following rate or rates per £100 upon the gross capital value (excluding settled land and heirlooms), namely:–
 
@@ -34,11 +30,7 @@ but so nevertheless that the amount of the acceptance fee charged in respect oi 
 
 £ In respect of the first £5,000 0.25 In respect of any excess over £5,000 up to a total of £25,000 0.13 In respect of any excess over £25,000 up to a total of £50,000 0.10 In respect of any excess over £50,000 up to a total o £75,000 0.04 In respect of any excess over £75,000 0.01
 
-Public Trustee PUBLIC TRUSTEE RULES
-
-1943-23
-
-Subsidiary 1947.05.31 but so nevertheless that the amount of the acceptance fee charged in respect of any trust under this paragraph shall not be less than £3.75 where the gross capital value does not exceed £500, or less than £5 where the gross capital value exceeds £500:
+but so nevertheless that the amount of the acceptance fee charged in respect of any trust under this paragraph shall not be less than £3.75 where the gross capital value does not exceed £500, or less than £5 where the gross capital value exceeds £500:
 
 Provided that no acceptance fee shall be charged in respect of property comprised in such a declaration of trust as aforesaid where that property is already comprised in a trust in course of administration by the public trustee.
 
@@ -60,15 +52,11 @@ Provided that in so far as the property withdrawn consists of settled land or he
 
 DIVISION III.–INCOME FEES.
 
-Public Trustee PUBLIC TRUSTEE RULES
-
-1943-23
-
-Subsidiary 1947.05.31
-
 1. Except as hereinafter provided:-An income fee by way of percentage upon the annual income of the trust property at such of the following rates as shall be applicable, namely :-
 
-(a)       In respect of the first £500 of such income 2 per cent (b)       In respect of any excess over £500 and up to  £2,000 1 per cent (c)       In respect of any excess over £2,000 ½ per cent
+(a)       In respect of the first £500 of such income 2 per cent (b)       In respect of any excess over £500 and up to  £2,000 1 per cent
+
+(c)       In respect of any excess over £2,000 ½ per cent
 
 2. Provided as follows:-
 
@@ -84,13 +72,9 @@ DIVISION IV.–MANAGEMENT FEES.
 
 1. Upon any investment by the public trustee by way of mortgage of, or charge on, property.-a fee, payable out of the capital of the trust property, at the rate of 50 pence per £l00 upon the amount of the advanced,
 
-2. Upon the sale or purchase by the public trustee of stocks, funds, shares or securities:–a fee, payable in like manner as the expenses of the sale or purchase, by way of percentage upon the amount of the purchase money at such of the following rates as shall be applicable, namely:–
+2. Upon the sale or purchase by the public trustee of stocks, funds, shares or securities:– a fee, payable in like manner as the expenses of the sale or purchase, by way of percentage upon the amount of the purchase money at such of the following rates as shall be applicable, namely:–
 
-Public Trustee PUBLIC TRUSTEE RULES
-
-1943-23
-
-Subsidiary 1947.05.31 (a)  Where the stocks, funds, shares or securities sold or purchased are of a nature authorized by any statute for the investment of trust funds:-15 pence per £l00.
+(a)  Where the stocks, funds, shares or securities sold or purchased are of a nature authorized by any statute for the investment of trust funds:-15 pence per £l00.
 
 (c)  Where the stocks, funds, shares or securities sold or purchased are not of such a nature :– 30 pence per £100.
 
@@ -104,17 +88,13 @@ Provided that if upon any such sale or purchase any part of the purchase money s
 
 5. Upon the raising by the public trustee of any money by mortgage of or charge upon any trustee property :– a fee at the rate of 50 pence per £100 upon and payable out of the amount so raised.
 
-6. Provided that where the public trustee is acting under the direction of a tenant for life or where the public trustee is custodian trustee only, there shall be payable fees equal to one-half of the fees respectively payable under paragraphs 1, 2, 4 and 5 of this Division.
+6. Provided that where the public trustee is acting under the direction of a tenant for life or where the public trustee is custodian trustee only, there shall be payable fees equal to one- half of the fees respectively payable under paragraphs 1, 2, 4 and 5 of this Division.
 
 7. Upon the sale by the public trustee of a business:-a fee, payable out of the purchase money, upon the amount thereof at such of the following rates as may be applicable, namely:-
 
 (a) In respect of purchase money for goodwill 5 per cent (b) In respect of purchase money for any assets  (not being land or goodwill) 1 per cent
 
-Public Trustee PUBLIC TRUSTEE RULES
-
-1943-23
-
-Subsidiary 1947.05.31 Provided that where the public trustee is acting under the direction of a tenant for life or statutory owner of settled land given pursuant to the statutory power of the tenant for life or statutory owner in that behalf, or as custodian trustee only, no fee shall be payable under this paragraph.
+Provided that where the public trustee is acting under the direction of a tenant for life or statutory owner of settled land given pursuant to the statutory power of the tenant for life or statutory owner in that behalf, or as custodian trustee only, no fee shall be payable under this paragraph.
 
 8. Upon any special visit made on behalf of the public trustee to any beneficiary under a trust for any purpose relating to the trust or the duties of the public trustee thereunder:–such fee not exceeding £1.05 and payable out of the income or the capital of the trust property as the public trustee may determine in each particular case.
 
@@ -135,12 +115,6 @@ Such fees to be payable out of the rents so collected.
 11. Upon the recovery by the public trustee of any sum in respect of income tax:-a fee on and payable out of the sum recovered, at such rate not exceeding 10 per cent as the public trustee may determine in each particular case.
 
 12. Upon taking out special probate or administration, pursuant to section 12 or 24 of the Administration of Estates Act, in respect of settled land of the settlement whereof the public trustee is trustee:– a fee of £5 where the value of the settled land does not exceed £1,000, and a fee of £10 where it exceeds £1,000, such fee to be payable out of the capital of the trust property.
-
-Public Trustee PUBLIC TRUSTEE RULES
-
-1943-23
-
-Subsidiary 1947.05.31
 
 DIVISION V.–AUDIT FEES.
 
