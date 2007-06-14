@@ -1,7 +1,5 @@
-Diplomatic Privileges (International Organisations) DIPLOMATIC PRIVILEGES (UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANISATION) ORDER
+Subsidiary Legislation made under s.2.
 
-Subsidiary 1950.03.23-5 1948-28 Orders made under s.2.
+Diplomatic Privileges (United Nations Educational, Scientific and Cultural Organisation) Order
 
-DIPLOMATIC PRIVILEGES (UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANISATION) ORDER
-
-(1950.03.23-5)
+1950.03.23-5
