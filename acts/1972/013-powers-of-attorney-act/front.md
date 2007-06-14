@@ -1,8 +1,4 @@
-Powers of Attorney
-
-1972-13
-
-POWERS OF ATTORNEY ACT
+Powers of Attorney Act
 
 Principal Act
 
@@ -10,11 +6,13 @@ Act. No. 1972-13 Commencement 1.12.1972
 
 Assent 30.11.1972
 
+Amending enactment Relevant current provisions Commencement date
+
+Act. 2007-17 s. 7(2) 14.6.2007
+
 English sources: Powers of Attorney Act 1971 (1971 c.27)
 
-_____________________________
-
-ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -22,6 +20,4 @@ Section
 
 SCHEDULE.
 
-Powers of Attorney
-
-1972-13 AN ACT TO MAKE NEW PROVISION IN RELATION TO  POWERS OF ATTORNEY AND THE DELEGATION BY TRUSTEES OF THEIR TRUSTS, POWERS AND DISCRETIONS.
+AN ACT TO MAKE NEW PROVISION IN RELATION TO POWERS OF ATTORNEY AND THE DELEGATION BY TRUSTEES OF THEIR TRUSTS, POWERS AND DISCRETIONS.
