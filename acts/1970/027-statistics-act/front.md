@@ -10,6 +10,8 @@ Amending enactment Relevant current provisions Commencement date
 
 Act. 1972-18 s.8 (2)
 
+2007-17 ss. 3(3), 5(1), 6-7, 10(1), 12 14.6.2007
+
 ARRANGEMENT OF SECTIONS
 
 Section
