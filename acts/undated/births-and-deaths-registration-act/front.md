@@ -30,7 +30,9 @@ Acts. 1889-07 s. 36
 
 1.7.1986 1991-19 ss. 6, 8, 10(2), 11, 12, 13(3), 16(4), 21, 22, 23, 24, 26, 27, 29, 30, 31, 33, 35(1), (3), 36(3), 37, 39(3)
 
-18.7.1991 1993-22 ss. 10, 11 and 13(1) 16.12.1993
+18.7.1991 1993-22 ss. 10, 11 and 13(1) 16.12.1993 2007-17 ss. 2, 3(1), 3(2), 13(2), 14, 16(2), (3), (4), 17, 35(1), 37, 41
+
+14.6.2007
 
 English and Scottish sources
 
@@ -78,7 +80,7 @@ Saving for father of illegitimate child. 16.
 
 Registration of name or alteration. 17.
 
-When minister to send notice to Registrar. 18.
+When minister of religion to send notice to Registrar. 18.
 
 Repealed. 19.
 
@@ -118,9 +120,9 @@ Registrar to give certificate to person in charge of funeral, unless inquest. 34
 
 Births and Deaths Registration
 
-1887-01 35. Certificate or Coroner’s order to be given to minister before burial. 36. Burial of deceased children as stillborn. 37.
+1887-01 35. Certificate or Coroner’s order to be given to minister of religion before burial. 36. Burial of deceased children as stillborn. 37.
 
-Ministers, etc., to indorse and sign certificate and transmit it to Registrar. 38. Death in Gibraltar presumed when dead body found therein. 39. Powers of Registrar to require registration of full particulars of death. 40. Modification of Act in case of death of members of armed forces, etc.
+Minister of religion, etc., to indorse and sign certificate and transmit it to Registrar. 38. Death in Gibraltar presumed when dead body found therein. 39. Powers of Registrar to require registration of full particulars of death. 40. Modification of Act in case of death of members of armed forces, etc.
 
 Rules.
 
