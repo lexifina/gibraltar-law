@@ -19,9 +19,3 @@ MATTERS IN RESPECT OF WHICH THE COURT MAY MAKE ORDERS.
 7. The detention, preservation or inspection of any property or thing which is the subject of the reference or as to which any question may arise therein, and authorizing for any of the purposes aforesaid any persons to enter upon or into any land or building in the possession of any party to the reference, or authorizing any samples to be taken or any observation to be made or experiment to be tried which may be necessary or expedient for the purpose of obtaining full information or evidence.
 
 8. Interim injunctions or the appointment of a receiver.
-
-(1934 c.14, Sch.1)
-
-Arbitration
-
-1895-10

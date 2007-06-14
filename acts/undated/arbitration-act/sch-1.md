@@ -17,9 +17,3 @@ PROVISIONS TO BE IMPLIED IN ARBITRATION AGREEMENTS.
 6. The award to be made by the arbitrators or umpire shall be final and binding on the parties and the persons claiming under them respectively.
 
 7. The costs of the reference and award shall be in the discretion of the arbitrators or umpire, who may direct to and by whom and in what manner those costs or any part thereof shall be paid, and may tax or settle the amount of costs to be so paid or any part thereof, and may award costs to be paid as between solicitor and client.
-
-(1889 c.49, Sch.1 and 1934 c.14, ss.5 and 7)
-
-Arbitration
-
-1895-10

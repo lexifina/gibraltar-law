@@ -18,13 +18,11 @@ To obtain such recognition or enforcement, it shall, further, be necessary–
 
 (e)  that the recognition or enforcement of the award is not contrary to the public policy or to the principles of the law of the country in which it is sought to be relied upon.
 
-* The adherance of Gibraltar took effect from the 8th day of May, 1926. (1930 c.15, Sch.)
-
-Arbitration
-
-1895-10 2. Even if the conditions laid down in Article 1 hereof are fulfilled, recognition and enforcement of the award shall be refused if the court is satisfied–
+2. Even if the conditions laid down in Article 1 hereof are fulfilled, recognition and enforcement of the award shall be refused if the court is satisfied–
 
 (a)  that the award has been annulled in the country in which it was made;
+
+* The adherance of Gibraltar took effect from the 8th day of May, 1926.
 
 (b)  that the party against whom it is sought to use the award was not given notice of the arbitration proceedings in sufficient time to enable him to present his case; or that, being under a legal incapacity, he was not properly represented;
 
@@ -38,13 +36,11 @@ If the award has not covered all the questions submitted to the arbitral tribuna
 
 (a)  the original award or copy thereof duly authenticated, according to the requirements of the law of the country in which it was made;
 
-(b)  documentary or other evidence to prove that the award has become final, in the sense defined in Article 1 (d), in the country in which it was made;
+(b)  documentary or other evidence to prove that the award has become final, in the sense defined in Article 1 (d), in the  country in which it was made;
 
 (c)  when necessary, documentary or other evidence to prove that the conditions laid down in Article 1, Paragraph 1 and Paragraph 2 (a) and (c), have been fulfilled.
 
-Arbitration
-
-1895-10 A translation of the award and of the other documents mentioned in this Article into the official language of the country where the award is sought to be relied upon may be demanded. Such translation must be certified correct by a diplomatic or consular agent of the country to which the party who seeks to rely upon the award belongs or by a sworn translator of the country where the award is sought to be relied upon.
+A translation of the award and of the other documents mentioned in this Article into the official language of the country where the award is sought to be relied upon may be demanded. Such translation must be certified correct by a diplomatic or consular agent of the country to which the party who seeks to rely upon the award belongs or by a sworn translator of the country where the award is sought to be relied upon.
 
 5. The provisions of the above Articles shall not deprive any interested party of the right of availing himself of an arbitral award in the manner and to the extent allowed by the law or the treaties of the country where such award is sought to be relied upon.
 
@@ -54,17 +50,15 @@ Arbitration
 
 It may be ratified only on behalf of those Members of the League of Nations and non-Member States on whose behalf the Protocol of 1923 shall have been ratified.
 
-Ratifications shall be deposited as soon as possible with the Secretary- General of the League of Nations, who will notify such deposit to all the signatories.
+Ratifications shall be deposited as soon as possible with the Secretary-General of the League of Nations, who will notify such deposit to all the signatories.
 
 8. The present Convention shall come into force three months after it shall have been ratified on behalf of two High Contracting Parties. Thereafter, it shall take effect, in the case of each High Contracting Party, three months after the deposit of the ratification on its behalf with the Secretary-General of the League of Nations.
 
-9. The present Convention may be denounced on behalf of any Member of the League or non-Member State. Denunciation shall be notified in writing to the Secretary-General of the League of Nations, who will immediately send a copy thereof, certified to be in conformity with the notification, to all the other Contracting Parties, at the same time informing them of the date on which he received it.
+9. The present Convention may be denounced on behalf of any Member of the League or non- Member State. Denunciation shall be notified in writing to the Secretary-General of the League of Nations, who will immediately send a copy thereof, certified to be in conformity with the notification, to all the other Contracting Parties, at the same time informing them of the date on which he received it.
 
-The denunciation shall come into force only in respect of the High Contracting Party which shall have notified it and one year after such notification shall have reached the Secretary-General of the League of Nations.
+The denunciation shall come into force only in respect of the High Contracting Party which shall have notified it and one year after such notification shall have reached the Secretary- General of the League of Nations.
 
-Arbitration
-
-1895-10 The denunciation of the Protocol on Arbitration Clauses shall entail, ipso facto, the denunciation of the present Convention.
+The denunciation of the Protocol on Arbitration Clauses shall entail, ipso facto, the denunciation of the present Convention.
 
 10. The present Convention does not apply to the colonies, protectorates or territories under suzerainty or mandate of any High Contracting Party unless they are specially mentioned.
 
@@ -74,6 +68,6 @@ Such declaration shall take effect three months after the deposit thereof.
 
 The High Contracting Parties can at any time denounce the Convention for all or any of the colonies, protectorates or territories referred to above. Article 9 hereof applies to such denunciation.
 
-11. A certified copy of the present Convention shall be transmitted by the Secretary-General of the League of Nations to every Member of the League of Nations and to every non-Member State which signs the same.
-
 * The declaration of the application of this convention to Gibraltar took effect on the 26th day of August 1931.
+
+11. A certified copy of the present Convention shall be transmitted by the Secretary-General of the League of Nations to every Member of the League of Nations and to every non-Member State which signs the same.
