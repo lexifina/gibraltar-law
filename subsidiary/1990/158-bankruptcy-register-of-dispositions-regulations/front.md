@@ -8,9 +8,15 @@ BANKRUPTCY (REGISTER OF DISPOSITIONS) REGULATIONS
 
 1.12.1990
 
-____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGMENT OF REGULATIONS
+Act. 2007-17 rr. 3(1), (2), (3), 4(b), (c), (d), 5(4), (5), 6(b), 8(a), 9(1)
+
+14.6.2007
+
+Bankruptcy BANKRUPTCY (REGISTER OF DISPOSITIONS) REGULATIONS
+
+Subsidiary 1990/158 1934-13 ARRANGMENT OF REGULATIONS
 
 Regulation
 
