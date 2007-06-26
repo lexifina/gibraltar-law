@@ -28,7 +28,7 @@ Imports and Exports
 
 9.3.1995 1997-34 s. 91 13.11.1997 1996-07 s. 119A 14.1.1999 2001-15 ss. 91A-91B 6.6.2001 2004-12 s. 9A 15.7.2004 2005-61 s. 91B(2) 8.12.2005 2006-46 ss. 25A, 92(1) 21.12.2006 2007-16 ss. 76-78 6.6.2007 2007-17 ss. 12, 16(1), 20(1), 50, 62, 66, 71(1), 72(1), 74, 79(1), 96(1)- (2), 118, 129, 130, Sch. 3, Part XI heading
 
-14.6.2007
+14.6.2007 2009-26 s. 64(d) 26.6.2007
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -158,7 +158,7 @@ PART VIII. SPECIAL PROVISIONS RELATING TO WINES, SPIRITS AND TOBACCO.
 
 Imports and Exports
 
-1986-21 87. Estimated contents of casks. 88. Spirits for infusion. 89. Owner may take samples. 90. Repealed. 91.   Repealed. 91A. Export of tobacco by sea and air. 91B. Exports by land.
+1986-21 87. Estimated contents of casks. 88. Spirits for infusion. 89. Owner may take samples. 90. Repealed. 91. Repealed. 91A. Export of tobacco by sea and air. 91B. Exports by land.
 
 PART IX. MISCELLANEOUS.
 
