@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 1997-13 ss. 2(1), 3(1), 5(3), (5)(b)(ii), 6, 7(4)-(5), 7A, 13(1)(c), 14(1)(c), 15(1), (4)-(5), 18(1)-(3), 27, 32(2), 38. Sch. 1
 
-1.10.1996 1998-05 s. 7B 5.1.1998 1998-28 s. 7B 31.7.1998 2001-08 s. 7B 8.3.2001 2004-38 s. 7B 24.11.2004 2006-41 ss. 22, 22A 15.2.2007 2007-18 ss. 16(a), 38, Sch. 1 1.4.2007 2007-17 ss. 3(3)(c), (4)-(5), 24(2), 30(3) 14.6.2007
+1.10.1996 1998-05 s. 7B 5.1.1998 1998-28 s. 7B 31.7.1998 2001-08 s. 7B 8.3.2001 2004-38 s. 7B 24.11.2004 2006-41 ss. 22, 22A 15.2.2007 2007-18 ss. 16(a), 38, Sch. 1 1.4.2007 2007-17 ss. 3(3)(c), (4)-(5), 24(2), 30(3) 14.6.2007 2008-01 ss. 7B, 12A 1.7.2007
 
 Social Security (Closed Long-Term Benefits and Scheme)
 
@@ -32,7 +32,7 @@ PART II THE CLOSED LONG-TERM BENEFITS FUND.
 
 PART III INSURANCE AND BENEFITS PRELIMINARY.
 
-4. Continuation of insurance 5. Description and rate of benefit and contribution conditions. 6. Transitional provisions – existing beneficiaries. 7. Transitional provisions – extension of time for claiming. 7A. Transitional provisions – persons insured under both this Act and the Social Security (Open Long-Term Benefits Scheme) Act 1997. 7B. Further right of election to pay arrears. 8. Widow’s benefit. 9. Widow’s pension in special cases. 10.  Widower’s pension. 11.  Guardian’s allowance. 12.  Old age pensions. 13 Special provisions as to men. 14.  Special provisions as to women. 15.  Increase of benefit for children. 16.  Increase of old age pension. 17.  Partial satisfaction of contribution conditions.
+4. Continuation of insurance 5. Description and rate of benefit and contribution conditions. 6. Transitional provisions – existing beneficiaries. 7. Transitional provisions – extension of time for claiming. 7A. Transitional provisions – persons insured under both this Act and the Social Security (Open Long-Term Benefits Scheme) Act 1997. 7B.  Further rights of election to pay arrears. 8. Widow’s benefit. 9. Widow’s pension in special cases. 10.  Widower’s pension. 11.  Guardian’s allowance. 12.  Old age pensions. 12A. Old age pensions for persons whose marriages have been dissolved. 13 Special provisions as to men. 14.  Special provisions as to women. 15.  Increase of benefit for children. 16.  Increase of old age pension. 17.  Partial satisfaction of contribution conditions.
 
 Miscellaneous provisions as to benefit.
 
@@ -40,7 +40,9 @@ Miscellaneous provisions as to benefit.
 
 Social Security (Closed Long-Term Benefits and Scheme)
 
-1996-06 PART IV ADMINISTRATION AND LEGAL PROCEEDINGS.
+1996-06
+
+PART IV ADMINISTRATION AND LEGAL PROCEEDINGS.
 
 24.  Determination of claims and questions by director. 25.  Constitution of appeals board. 26.  Procedure. 27.  Fees. 28.  Appeals to the board. 29.  Appeals to Supreme Court. 30.  Review. 31.  Administration of benefit. 32.  Interim payments, arrears and repayments. 33.  Exemption from stamp duty. 34.  General provisions as to offences or penalties. 35.  General provisions as to prosecutions. 36.  Civil proceedings to recover sums due to fund.
 
