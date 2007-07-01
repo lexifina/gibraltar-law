@@ -10,13 +10,17 @@ HOME PURCHASE (SPECIAL DEDUCTION) RULES 2004
 
 1.7.2003
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.    2008/068 r. 4 1.7.2007
+
 ______________________
 
 ARRANGMENTS OF RULES
 
 Rule
 
-1. Title and commencement. 2. Application of Rules. 3. Special deduction.
+1. Title and commencement. 2. Application of Rules. 3. Special deduction. 4. Restrictions on entitlement to special deduction in relation to elections made for Gross Income Based System.
 
 Income Tax HOME PURCHASE (SPECIAL DEDUCTION) RULES 2004
 
