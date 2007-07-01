@@ -12,7 +12,7 @@ Assent 10.4.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999 2001-04 ss. 2, 8, 39 14.3.2001 LN. 2004/132 Sch.1 3.1.2005 Act. 2007-19 ss. 4(9), (10), Sch.1 1.7.2006 “ s. 22(a), Sch. 2 1.4.2007 LN. 2007/051 Sch.1 1.4.2007 Act. 2007-17 ss. 10(3)(c), (4)-(5), 30(2), 33(3) 14.6.2007
+LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999 2001-04 ss. 2, 8, 39 14.3.2001 LN. 2004/132 Sch.1 3.1.2005 Act. 2007-19 ss. 4(9), (10), Sch.1 1.7.2006 “ s. 22(a), Sch. 2 1.4.2007 LN. 2007/051 Sch.1 1.4.2007 Act. 2007-17 ss. 10(3)(c), (4)-(5), 30(2), 33(3) 14.6.2007 2008-02 s. 18A 1.7.2007
 
 English sources None cited
 
@@ -42,11 +42,11 @@ PART IV
 
 BENEFITS
 
-11.  Description and rates of benefit and contributions conditions. 12.  Transitional provisions – persons insured under both this Act and the closed scheme Act. 13.  Transitional provisions – existing beneficiaries. 14.  Widow’s benefit. 15.  Widow’s pension in special cases. 16.  Widower’s pension. 17.  Guardian’s allowance. 18.  Old age pensions. 19.  Special provision as to men. 20.  Special provision as to women. 21.  Increase of benefits for children. 22.  Increase of old age pension. 23.  Partial satisfaction of contribution conditions. 24.  Claims and notices.
+11.  Description and rates of benefit and contributions conditions. 12.  Transitional provisions – persons insured under both this Act and the closed scheme Act. 13.  Transitional provisions – existing beneficiaries. 14.  Widow’s benefit. 15.  Widow’s pension in special cases. 16.  Widower’s pension. 17.  Guardian’s allowance. 18.  Old age pensions. 18A. Old age pensions for persons whose marriages have been dissolved. 19.  Special provision as to men. 20.  Special provision as to women. 21.  Increase of benefits for children. 22.  Increase of old age pension. 23.  Partial satisfaction of contribution conditions.
 
 Social Security (Open Long-Term Benefits Scheme)
 
-1997-16 25.  Disqualification for imprisonment. 26.  Overlapping benefits. 27.  Disqualification etc. to be disregarded for certain purposes. 28.  Benefit to be inalienable. 29.  Provisions as to maintenance and incapacity for self-support.
+1997-16 24.  Claims and notices. 25.  Disqualification for imprisonment. 26.  Overlapping benefits. 27.  Disqualification etc. to be disregarded for certain purposes. 28.  Benefit to be inalienable. 29.  Provisions as to maintenance and incapacity for self-support.
 
 PART V
 
