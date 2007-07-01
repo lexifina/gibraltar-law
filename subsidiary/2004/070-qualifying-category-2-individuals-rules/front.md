@@ -12,9 +12,15 @@ QUALIFYING (CATEGORY 2) INDIVIDUALS RULES 2004
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2004/072 r.2 1.7.2004
+LN. 2004/072 r.2 1.7.2004 2008/017 r. 9(4)(a), (b), (c) & (d) 1.7.2007*
 
-______________________________
+* See Act 2008-07
+
+Income Tax QUALIFYING (CATEGORY 2) INDIVIDUALS RULES 2004
+
+2010-21
+
+Subsidiary 2004/070
 
 ARRANGEMENT OF RULES
 
