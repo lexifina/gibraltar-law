@@ -93,3 +93,7 @@ Settling behaviour of the level of the landfill body Yearly Yearly reading
 Note to Table 3
 
 1 Data for the status plan of the relevant landfill: surface occupied by waste, volume and composition of waste, methods of depositing, time and duration of depositing, calculation of the remaining capacity still available at the landfill.
+
+Landfill
+
+2002-18
