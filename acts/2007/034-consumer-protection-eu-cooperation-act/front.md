@@ -1,0 +1,23 @@
+Consumer Protection (EU Cooperation)
+
+2007-34
+
+CONSUMER PROTECTION (EU COOPERATION) ACT 2007
+
+Principal Act
+
+Act. No. 2007-34 Commencement 5.7.2007 Assent 3.7.2007
+
+Implementing: Regulation (EU) 2017/2394
+
+__________________________
+
+ARRANGEMENT OF SECTIONS
+
+Section
+
+1. Title and commencement. 2. Interpretation. 3. Competent authority and single liaison office. 4. Enforcement powers. 5. Obstruction and failure to cooperate. 6. Retention of documents and goods. 7. Data protection. 8. Regulations. 9. Rules of court.
+
+Consumer Protection (EU Cooperation)
+
+2007-34 AN ACT TO FACILITATE THE IMPLEMENTATION IN GIBRALTAR OF REGULATION (EC) NO. 2006/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 27 OCTOBER 2004 ON COOPERATION BETWEEN NATIONAL AUTHORITIES RESPONSIBLE FOR THE ENFORCEMENT OF CONSUMER PROTECTION LAWS AS AMENDED BY DIRECTIVE 2005/29/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 11 MAY 2005 CONCERNING UNFAIR BUSINESS-TO-CONSUMER COMMERCIAL PRACTICES IN THE INTERNAL MARKET, AND MATTERS CONNECTED THERETO.
