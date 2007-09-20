@@ -24,7 +24,7 @@ LN. 1980/005 rr. 2, 6(3), 27(1), 33, 38(1) and Sch.
 
 1983/068 rr. 2, 14(2), 16(2) and (3), 34 and 48
 
-1987/147 rr. 9(1), 34(1) 5.11.1987
+1987/147 rr. 9(1), 34(1) 5.11.1987 2007/114 r. 44 20.9.2007
 
 Parliament ELECTIONS RULES
 
@@ -62,7 +62,7 @@ Subsidiary 1950.07.20-1 The Poll
 
 Counting of votes
 
-39. Attendance at counting of votes. 40. The count. 41. Re-count. 42. Rejected ballot papers. 43. Decisions on ballot papers. 44. Equality of votes.
+39. Attendance at counting of votes. 40. The count. 41. Re-count. 42. Rejected ballot papers. 43. Decisions on ballot papers. 44. Revoked.
 
 PART IV FINAL PROCEEDINGS IN CONTESTED AND UNCONTESTED ELECTIONS
 
