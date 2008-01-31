@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Acts. 1977-34 
 
 1980-08 ss. 2 and 4(2) 1983-12 s. 25 1988-35 ss. 8A, 9(1)(b), 10A, 11(1) and (2), 12(1) and 13
 
-15.12.1988 2004-11 s.22(iv) 1.9.2004
+15.12.1988 2004-11 s.22(iv) 1.9.2004 2008-04 s. 7 31.1.2008
 
 English sources
 
@@ -28,7 +28,7 @@ Section
 
 PART I. GENERAL PROVISIONS.
 
-1. Short title. 2. Interpretation. 3. Constitution, jurisdiction and powers. 4. Sessions. 5. Powers of the court. 6. Seal. 7. Appointment of Registrar, etc. 8. Rules. 8A. Fees to be taken in Court of Appeal.
+1. Short title. 2. Interpretation. 3. Constitution, jurisdiction and powers. 4. Sessions. 5. Powers of the court. 6. Seal. 7. Appointment of Registrar. 8. Rules. 8A. Fees to be taken in Court of Appeal.
 
 PART II. APPEALS IN CRIMINAL CASES.
 
