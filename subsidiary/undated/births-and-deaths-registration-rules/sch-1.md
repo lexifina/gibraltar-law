@@ -304,7 +304,7 @@ Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
 1887-01 Subsidiary 1934.09.11
 
-FORM G.—REGISTRAR’S CERTIFICATE OF DEATH TO SUPERINTENDENT OF CEMETERIES, MINISTER OR PERSON IN CHARGE OF BODY ABOUT TO BE BURIED.
+FORM G.—REGISTRAR’S CERTIFICATE OF DEATH TO SUPERINTENDENT OF THE CEMETERY, MINISTER OR PERSON IN CHARGE OF BODY ABOUT TO BE BURIED.
 
 Section 33
 
@@ -523,3 +523,93 @@ Remarks
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
 Subsidiary 1934.09.11 1887-01
+
+FORM O Rule 3(2)
+
+Mother’s Declaration Identity of Father of Child Born Outside Marriage
+
+Births and Deaths Registration Rules rule 3
+
+TO: The Registrar of Births and Deaths, Gibraltar
+
+Name of child
+
+Date of birth of child
+
+Sex of child
+
+Name of child’s mother
+
+Address of child’s mother
+
+I declare that–  I am the mother of the child named above
+
+ the biological father of this child is –
+
+(insert name)
+
+ to the best of my knowledge and belief his address is –
+
+(insert father’s address if known)
+
+Signature of mother
+
+Dated
+
+Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
+
+1887-01 Subsidiary 1934.09.11
+
+FORM P Rule 3(3)
+
+Request for Re-registration of Birth Identity of Father of Child Born Outside Marriage
+
+Births and Deaths Registration Rules rule 4
+
+TO: The Registrar of Births and Deaths, Gibraltar
+
+Name of child
+
+Date of birth of child
+
+Sex of child
+
+Name of child’s mother
+
+Address of child’s mother
+
+Please now complete part A or B of this form as appropriate.
+
+Part A Joint request by mother and father for re-registration of birth
+
+We, the mother and the father of the child named above, request the re- registration of the child’s birth to show the following person as the biological father of the child - name of child’s father
+
+address of child’s father
+
+Signature of mother
+
+Dated
+
+Signature of father
+
+Dated
+
+Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
+
+Subsidiary 1934.09.11 1887-01 Part B Request by mother for re-registration of birth
+
+I, the mother of the child named above, request the re-registration of the child’s birth to show the following person as the biological father of the child–
+
+name of child’s father
+
+address of child’s father
+
+Please find attached my declaration as to the identity of the child’s father.
+
+Signature of mother
+
+Dated
+
+Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
+
+1887-01 Subsidiary 1934.09.11
