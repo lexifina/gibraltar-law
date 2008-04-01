@@ -1,30 +1,42 @@
 SCHEDULE 2
 
-PART I Section 11(2)(a)
+PART I Section 11(2)
 
-STANDARD RATES OF BENEFITS AND INCREASES FOR DEPENDANTS
+STANDARD RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
-Description of Benefit Weekly Basic Rate Increase for wife or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1.  Widow’s Benefit: (a)  Widow’s Allowance. (b)  Widowed Mother’s Allowance. (c)  Widow’s Pension.
+Description of Benefit Monthly Basic Rate Increase for wife or adult dependant where payable Increase for children not exceeding 4* , where payable for child Widow’s Benefit:
+
+(a)  Widow’s Allowance. (b)  Widowed Mother’s Allowance. (c)  Widow’s Pension.
+
+£423.36 £356.93
+
+£356.93
+
+ 
+
+
+
+£51.58 £51.58*
+
+Omitted
 
 1A.  Widower’s pension (incapable of self- support).
 
 2.  Guardian’s Allowance.
 
-3.  Old Age Pensions: (a)  where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable by virtue of his wife’s insurance to a man who is permanently incapable of self-support, and she is alive.
+3.  Old Age Pensions:
+
+(a)  where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable by virtue of his wife’s insurance to a man who is permanently incapable of self-support, and she is alive.
 
 (b)  in any other case.
 
-£93.67
+£356.93
 
-£78.97 £78.97
+£91.06
 
-£78.97
+£178.51
 
-£20.15
-
-£39.48
-
-£78.97
+£356.93
 
 -
 
@@ -34,23 +46,21 @@ Description of Benefit Weekly Basic Rate Increase for wife or adult dependant wh
 
 -
 
--
+£178.51
 
-£39.48
-
-£11.40
-
-£11.40* Omitted
-
-£11.40
+£51.58
 
 -
 
-£11.40
+£51.58
 
-£11.40
+£51.58
 
 *  Except in the case of a Widowed Mother’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
+
+Social Security (Open Long-Term Benefits Scheme)
+
+1997-16
 
 Social Security (Open Long-Term Benefits Scheme)
 
@@ -60,31 +70,41 @@ PART II Section 11(3)
 
 LOWER RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
-Description of Benefit Weekly Basic Rate Increase for wife or adult depend- ant where payable Increases for children not exceeding 4*, where payable per child
+Description of Benefit Monthly Basic Rate Increase for wife or adult dependant where payable Increases for children not exceeding 4*, where payable for child
 
-£ £ £ 1. Widow’s benefit:
+£ £ £ 1. Widow’s Benefit:
 
-(a) Widow’s Allowance. 1.20 – 0.25 (b) Widowed Mother’s Allowance.
+(a) Widow’s Allowance. 5.22 – 1.09 (b) Widowed Mother’s Allowance.
 
-0.60
-
-–
-
-0.13* (c) Widow’s pension. 0.60 – – 1A.Widower’s pension (incapable of self support)
-
-0.60
+2.61
 
 –
 
-0.13 2. Guardian’s Allowance. 0.25 – – 3. Old age pensions: (a) where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable by virtue of his wife’s insurance to a man who is permanently incapable of self-support, and she is alive.
+0.57* (c) Widow’s Pension. 2.61 – – 1A.Widower’s pension (incapable of self support)
 
-0.40
+2.61
 
 –
 
-0.13
+0.57
 
-(b) in any other case. 0.60 0.40 0.13
+2. Guardian’s Allowance.
+
+1.09
+
+–
+
+–
+
+3. Old age pensions: (a) where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable by virtue of his wife’s insurance to a man who is permanently incapable of self- support, and she is alive.
+
+1.74
+
+–
+
+0.57
+
+(b) in any other case. 2.61 1.74 0.57
 
 * Except in the case of a Widowed Mother’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
 
@@ -98,31 +118,31 @@ ADDITIONAL CONTRIBUTIONS RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
 Description of Benefit
 
-Weekly Basic Rate
+Monthly Basic Rate Increase for wife or adult dependant where payable Increases for children not exceeding 4*, where payable for child
 
-Increase for wife or adult dependant where payable Increases for children not exceeding 4*, where payable per child
+£ £ £ 1. Widow’s Benefit:
 
-£ £ £ 1. Widow’s benefit:
+(a) Widow’s Allowance. 8.70 – 1.09 (b) Widowed Mother’s Allowance.
 
-(a) Widow’s Allowance. 2.00 – 0.25 (b)Widowed Mother’s Allowance.
-
-1.50
+6.53
 
 –
 
-0.25* (c) Widow’s pension. 1.50 – – 1A.Widower’s pension (incapable of self support)
+1.09* (c) Widow’s Pension. 6.53 – – 1A.Widower’s pension (incapable of self support)
 
-1.50
-
-–
-
-0.25 2. Guardian’s Allowance. 0.50 – – 3. Old age pensions: (a) where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable by virtue of his wife’s insurance to a man who is permanently incapable of self-support, and she is alive.
-
-0.90
+6.53
 
 –
 
-0.25 (b) in any other case. 1.50 0.90 0.25
+1.09 2. Guardian’s Allowance.
+
+2.18 – – 3. Old age pensions: (a) where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable by virtue of his wife’s insurance to a man who is permanently incapable of self-support, and she is alive.
+
+3.92
+
+–
+
+1.09 (b) in any other case. 6.53 3.92 1.09
 
 * Except in the case of a Widowed Mother’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
 
