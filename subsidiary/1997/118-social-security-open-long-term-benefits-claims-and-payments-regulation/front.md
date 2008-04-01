@@ -10,9 +10,15 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1997
 
 1.4.1997
 
-______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN.  2009/020 rr. 9(1) & (1A) 1.4.2008
+
+Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1997
+
+1997-16
+
+Subsidiary 1997/118 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
