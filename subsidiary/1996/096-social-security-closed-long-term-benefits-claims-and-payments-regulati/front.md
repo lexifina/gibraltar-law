@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act.     1997-13 rr. 2, 6(3), 9(1A), 11, 12(a)(b), 15(2)(3) and Sch. 2
 
-1.10.1996
+1.10.1996 LN.    2009/017 r. 9(1A) 1.4.2008
 
 Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1996
 
