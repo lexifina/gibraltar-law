@@ -12,7 +12,7 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 199
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2007/066 r. 7 1.4.2007 2007/133 r. 7 1.9.2007
+LN. 2007/066 r. 7 1.4.2007 2007/133 r. 7 1.9.2007 2009/021 rr. 6(1)(a) & (b), 7, 10(1) & (2)(b) & 12 1.4.2008
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 1997
 
@@ -22,7 +22,7 @@ Subsidiary 1997/119 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. Adjustment of personal benefit under the Act where other personal benefit is payable. 4. Exceptions to regulation 3. 5. Adjustment of dependency benefit under the Act where other dependency benefit is payable. 6.    Adjustment of dependency benefit under the Act where personal benefit is payable. 7.    Gratuities. 8.    Priority of title to increases of benefit. 9.    Two increases of the same benefit to be treated as separate benefits. 10.  Provisions for adjusting benefit, etc., for part of a week. 11.   Persons to be treated as entitled to benefit for certain purposes. 12.   Social assistance.
+1. Title and commencement. 2. Interpretation. 3. Adjustment of personal benefit under the Act where other personal benefit is payable. 4. Exceptions to regulation 3. 5. Adjustment of dependency benefit under the Act where other dependency benefit is payable. 6.    Adjustment of dependency benefit under the Act where personal benefit is payable. 7.    Gratuities. 8.    Priority of title to increases of benefit. 9.    Two increases of the same benefit to be treated as separate benefits. 10.  Provisions for adjusting benefit, etc., for part of a month. 11.   Persons to be treated as entitled to benefit for certain purposes. 12.   Social assistance.
 
 SCHEDULE
 
