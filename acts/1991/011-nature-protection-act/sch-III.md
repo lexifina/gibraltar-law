@@ -1,6 +1,8 @@
 ANNEX III
 
-CRITERIA FOR SELECTING SITES ELIGIBLE FOR IDENTIFICATION AS SITES OF COMMUNITY IMPORTANCE AND DESIGNATION AS SPECIAL AREAS OF CONSERVATION
+Nature Protection
+
+1991-11 CRITERIA FOR SELECTING SITES ELIGIBLE FOR IDENTIFICATION AS SITES OF COMMUNITY IMPORTANCE AND DESIGNATION AS SPECIAL AREAS OF CONSERVATION
 
 STAGE 1: Assessment at national level of the relative importance of sites for each natural habitat type in Annex I and each species in Annex II (including priority natural habitat types and priority species)
 
@@ -22,10 +24,6 @@ B. Site assessment criteria for a given species in Annex II
 
 (c) Degree of isolation of the population present on the site in relation to the natural range of the species.
 
-Nature Protection
-
-1991-11
-
 (d) Global assessment of the value of the site for conservation of the species concerned.
 
 C. On the basis of these criteria, Member States will classify the sites which they propose on the national list as sites eligible for identification as sites of Community importance according to their relative value for the conservation of each natural habitat type in Annex I or eachspecies in Annex II.
@@ -34,7 +32,9 @@ D. That list will show the sites containing the priority natural habitat types a
 
 STAGE 2: Assessment of the Community importance of the sites included on the national lists
 
-1. All the sites identified by the Member States in Stage 1 which contain priority natural habitat types and/or species will be considered as sites of Community importance.
+Nature Protection
+
+1991-11 1. All the sites identified by the Member States in Stage 1 which contain priority natural habitat types and/or species will be considered as sites of Community importance.
 
 2. The assessment of the Community importance of other sites on Member States' lists, i.e. their contribution to maintaining or re-establishing, at a favourable conservation status, a natural habitat in Annex I or a species in Annex II and/or to the coherence of Natura 2000 will take account of the following criteria:
 
