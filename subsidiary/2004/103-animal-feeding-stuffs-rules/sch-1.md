@@ -236,47 +236,93 @@ Subsidiary 2004/103
 
 1,000 CHAPTER D
 
-Aldrin Dieldrin } singly, or combined expressed as dieldrin All feeding stuffs except fats 0.01
+Aldrin (*) Dieldrin (*) All feeding stuffs except: - fats and oils - fish feed
 
-0.2 Camphechlor (Toxaphene) All feeding stuffs 0.1 Chlordane (sum of cis-and All feeding stuffs except fats 0.02
+0,01 (**)
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
+0,1 (**) 0,02 (**) Camphechlor (toxaphene) — sum of indicator congeners CHB 26, 50 Fish, other aquatic animals, their products and by-products except: - fish oil - feeding stuffs for fish
 
-1950-07
+0,02
 
-Subsidiary 2004/103 trans-isomers and of oxychlordane, expressed as Chlordane) 0.05 DDT (sum of DDT, TDE and DDE isomers, expressed as DDT) All feeding stuffs except fats 0.05
-
-0.5 Endosulphan (sum of alpha- and beta- isomers and of endosulphan sulphate, expressed as endosulphan) All feeding stuffs 0.1
-
-except:
-
-- maize and products derived from the processing thereof 0.2
-
-- oilseeds and products derived from the processing thereof 0.5
-
-- complete feeding stuff for fish 0.005 Endrin (sum of endrin and delta-keto- endrin, expressed as endrin) All feeding stuffs except fats 0.01
-
-0.05 Heptachlor (sum of heptachlor and of heptachlor- All feeding stuffs except fats 0.01
-
-0.2
+0,2 0,05
 
 Public Health ANIMAL FEEDING STUFFS RULES 2004
 
 1950-07
 
-Subsidiary 2004/103 epoxide, expressed as heptachlor) Hexachloroben zene (HCB) All feeding stuffs except fats 0.01
+Subsidiary 2004/103 and 62 (***)
 
-0.2 Hexachlorocyc lohexane (HCH) - alpha- isomers All feeding stuffs except fats 0.02
+Chlordane (sum of cis- and trans- isomers and of oxychlordane, expressed as chlordane)
 
-0.2 -  beta-isomers Feed materials except fats 0.01
+All feeding stuffs except: - fats and oils
 
-0.1
+0,02
 
-Compound feeding stuffs except compound feeding stuffs for dairy cattle 0.01
+0,05 DDT (sum of DDT-, TDE- and DDEisomers, expressed as DDT)
 
-0.005 - gamma- isomers All feeding stuffs except fats 0.2
+All feeding stuffs except: - fats and oils
 
-2.0
+0,05
+
+0,5
+
+Endosulfan (sum of alpha- and betaisomers and of endosulfansulp hate expressed as endosulfan) All feeding stuffs except: - maize and maize products derived from the processing thereof - oilseeds and products derived from the processing thereof  except crude vegetable oil - crude vegetable oil - complete feeding stuffs for fish
+
+0,1
+
+0,2
+
+0,5
+
+1,0
+
+0,005
+
+Public Health ANIMAL FEEDING STUFFS RULES 2004
+
+1950-07
+
+Subsidiary 2004/103 Endrin (sum of endrin and of delta- ketoiendrin, expressed as endrin)
+
+All feeding stuffs except: - fats and oils
+
+0,01
+
+0,05 Heptachlor (sum of heptachlor and of heptachlorepox ide, expressed as heptachlor)
+
+All feeding stuffs except: - fats and oils
+
+0,01
+
+0,2
+
+Hexachloroben zene (HCB)
+
+All feeding stuffs except: - fats and oils
+
+0,01
+
+0,2 Hexachlorocyc lohexane (HCH) alpha- isomers All feeding stuffs except: - fats and oils 0,02
+
+0,2
+
+beta-isomers All feed materials except: - fats and oils All compound feeding stuffs except: compound feeding stuffs for dairy cattle 0,01
+
+0,1 0,01
+
+0,005
+
+gamma- isomers All feeding stuffs except: - fats and oils 0,2
+
+2,0
+
+(*)  Singly or combined expressed as dieldrin.
+
+Public Health ANIMAL FEEDING STUFFS RULES 2004
+
+1950-07
+
+Subsidiary 2004/103 (**)  Maximum level for aldrin and dieldrin, singly or combined, expressed as dieldrin. (***)  Numbering system according to Parlar, prefixed by either “CHB” or “Parlar”: — CHB 26: 2-endo,3-exo,5-endo, 6-exo, 8,8,10,10-octochlorobornane, — CHB 50: 2-endo,3-exo,5-endo, 6-exo, 8,8,9,10,10-nonachlorobornane, — CHB 62: 2,2,5,5,8,9,9,10,10-nonachlorobornane.
 
 PART II
 
@@ -288,11 +334,7 @@ Calcium and magnesium carbonate: Natural mixture of calcium carbonate and magnes
 
 Calcareous marine algae (Maerl): Product of natural origin obtained from calcareous algae, ground or granulated Calcium Ash insoluble in HCl if > 5 %
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 Magnesium oxide: Technically pure magnesium oxide (MgO) Magnesium
+Magnesium oxide: Technically pure magnesium oxide (MgO) Magnesium
 
 Magnesium sulphate: Technically pure magnesium sulphate (MgSO4 . 7H2O) Magnesium Sulphur
 
@@ -300,7 +342,13 @@ Dicalcium phosphate: Precipitated calcium monohydrogen phosphate from bones or i
 
 Mono-dicalcium phosphate: Product obtained chemically and composed of equal parts of dicalcium phosphate and monocalcium phosphate (CaHPO4 - Ca(H2PO4)2 . H2O) Total phosphorus Calcium
 
-Defluorinated rock-phosphate: Product obtained by grinding purified and appropriately defluorinated natural phosphates Total phosphorus Calcium
+Defluorinated rock-phosphate:
+
+Public Health ANIMAL FEEDING STUFFS RULES 2004
+
+1950-07
+
+Subsidiary 2004/103 Product obtained by grinding purified and appropriately defluorinated natural phosphates Total phosphorus Calcium
 
 Degelatinised bone meal: Degelatinised, sterilised and ground bones from which the fat has been removed Total phosphorus Calcium
 
@@ -312,11 +360,7 @@ Mono-ammonium phosphate: Technically pure mono-ammonium phosphate (NH4H2PO4) Tot
 
 Sodium chloride: Technically pure sodium chloride or product obtained by grinding natural sources of sodium chloride, such as (rock) and (marine) salt Sodium
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 Magnesium propionate: Technically pure magnesium propionate Magnesium
+Magnesium propionate: Technically pure magnesium propionate Magnesium
 
 Magnesium phosphate: Product consisting of technically pure (dibasic) magnesium phosphate (MgHPO4. xH2 O) Total phosphorus Magnesium
 
@@ -324,7 +368,13 @@ Sodium-calciummagnesium phosphate: Product consisting of sodium-calcium-magnesiu
 
 Mono-sodium phosphate: Technically pure mono-sodium phosphate (NaH2PO. H2O) Total phosphorus Sodium
 
-Sodium bicarbonate: Technically pure sodium bicarbonate (NaHCO3) Sodium
+Sodium bicarbonate: Technically pure sodium bicarbonate (NaHCO3)
+
+Public Health ANIMAL FEEDING STUFFS RULES 2004
+
+1950-07
+
+Subsidiary 2004/103 Sodium
 
 Public Health ANIMAL FEEDING STUFFS RULES 2004
 

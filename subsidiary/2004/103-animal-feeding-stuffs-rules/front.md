@@ -10,9 +10,9 @@ ANIMAL FEEDING STUFFS RULES 2004
 
 28.10.2004
 
-__________________________
+Amending enactments Relevant current provisions Commencement date LN. 2008/028 Sch. 1 24.4.2008
 
-Transposing: Directive 2002/32/EC Directive 2003/57/EC Directive 2003/100/EC
+Transposing: Directive 2002/32/EC Directive 2003/57/EC Directive 2003/100/EC Directive 2006/77/EC
 
 Public Health ANIMAL FEEDING STUFFS RULES 2004
 
