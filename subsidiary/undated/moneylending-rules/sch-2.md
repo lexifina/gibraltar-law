@@ -2,13 +2,11 @@ SCHEDULE 2
 
 Rule 5.
 
-FORM OF CERTIFICATE TO BE GRANTED BY THE MAGISTRATES’ COURT
+FORM OF CERTIFICATE TO BE GRANTED BY THE MINISTER
 
-In the magistrates’ court, Gibraltar
+Moneylending Act1
 
-Moneylending Act
-
-Certificate granted under section 6 of the Moneylending Act,
+Certificate granted under section 6 of the Moneylending Act1,
 
 I (or We) the undersigned do hereby certify that I (or we) do authorize the grant to A.B., of
 
@@ -16,12 +14,14 @@ of a Moneylender’s Licence to carry on the business of a moneylender, under th
 
 day of
 
-, 19    , and shall expire on the 31st day of December, 19
+, 20    , and shall expire on the 31st day of December, 20
 
 Dated the day of
 
-19       , at the court aforesaid.
+20       ,
 
 (Signed)
 
-(Stipendiary Magistrate or Justice of the Peace)
+Minister
+
+1 Moneylending Act amended by Act 2007-04 and as from 19.4.2007 titled Financial Services (Moneylending) Act
