@@ -14,9 +14,11 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999 2001-04 ss. 2, 8, 39 14.3.2001 LN. 2004/132 Sch.1 3.1.2005 Act. 2007-19 ss. 4(9), (10), Sch.1 1.7.2006 “ s. 22(a), Sch. 2 1.4.2007 LN. 2007/051 Sch.1 1.4.2007 Act. 2007-17 ss. 10(3)(c), (4)-(5), 30(2), 33(3) 14.6.2007 2008-02 s. 18A 1.7.2007 2009-12 ss. 11(2)-(3), 12(3), 18A(3), 21(1), 22, (a), 34(2)(a), Sch.2
 
-1.4.2008
+1.4.2008 LN. 2008/0451 Sch.1 12.6.2008 2008/046 Sch.1 12.6.2008
 
 English sources None cited
+
+1 LN. 2008/45 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/46).
 
 Social Security (Open Long-Term Benefits Scheme)
 
