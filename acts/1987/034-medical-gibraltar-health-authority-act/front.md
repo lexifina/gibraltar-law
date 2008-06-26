@@ -12,7 +12,9 @@ Amending enactment Relevant current provisions Commencement date Act. 1989-07 s.
 
 21.8.1997 2007-17 ss. 1(2), 3(1), 3(3), 6(2)(i), 14(4), 15(1), (4)&(6), 16(2), 20(1), 20(2), 25(2),
 
-14.6.2007
+14.6.2007 2008-11 ss. 3(1)(b) & (g), 6(2)(j), 11(1)(i), 14(5) & 14A
+
+26.6.2008
 
 1 Notice of Corrigendum (LN.1988/022)
 
@@ -22,7 +24,7 @@ Medical (Gibraltar Health Authority)
 
 Section.
 
-1. Title and commencement. 2. Interpretation. 3. Establishment of Gibraltar Health Authority. 4. Authority to be body corporate. 5. Meetings and proceedings. 6. Duties of the Authority. 7. Powers of the Authority. 8. Discharge of functions by the Authority. 9. Standing orders. 10. Appointment of Chief Executive. 11. Management Board. 12. Professional advisory committees. 13. Financial duty of the Authority. 14. Establishment and operation of general fund. 15. Accounts and auditing. 16. Power of Authority to engage in fund-raising activities. 17. Financial year. 18. Power of Accountant-General to make payments. 19. No personal liability to attach to members. 20. Proceedings on failure of Authority to perform its duties. 21. Restriction on execution. 22. Acquisition of land compulsorily. 23. Exemption from taxes, etc. 24. Transfer of property. 25. Consequential modifications and amendments.
+1. Title and commencement. 2. Interpretation. 3. Establishment of Gibraltar Health Authority. 4. Authority to be body corporate. 5. Meetings and proceedings. 6. Duties of the Authority. 7. Powers of the Authority. 8. Discharge of functions by the Authority. 9. Standing orders. 10. Appointment of Chief Executive. 11. Management Board. 12. Professional advisory committees. 13. Financial duty of the Authority. 14. Establishment and operation of general fund. 14A.  Financial Regulations 15. Accounts and auditing. 16. Power of Authority to engage in fund-raising activities. 17. Financial year. 18. Power of Accountant-General to make payments. 19. No personal liability to attach to members. 20. Proceedings on failure of Authority to perform its duties. 21. Restriction on execution. 22. Acquisition of land compulsorily. 23. Exemption from taxes, etc. 24. Transfer of property. 25. Consequential modifications and amendments.
 
 THE SCHEDULE. Consequential modifications and amendments.
 
