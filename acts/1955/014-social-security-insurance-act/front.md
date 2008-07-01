@@ -72,7 +72,7 @@ Social Security (Insurance)
 
 1.1.1994 1993/190 Sch.1 3.1.1994 1997/166 Sch.1. 30.12.1997 Act. 1999-27* ss. 2(1), 3(3), 7(4), 8(2), 9(1), 10(1)(a), 11, 11A, 12, 18(5), 21, 27(1)-(2), 30, 33(2)-(3), (6), 40(1), 41(1), 47(2), 48, 49(1).
 
-5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007
+5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007 LN. 2008/045 Sch.1 1.7.2008
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -1046,61 +1046,59 @@ Social Security (Insurance)
 
 SCHEDULE 1.
 
-Combined Social Insurance and Other Contribution Rates
+Combined Social Insurance and Other Contribution Rates.
 
-Rate of Contributions for an Employed Person
+Rate of Contributions for an Employed Person.
 
-Employee - 10% of Gross Earnings
+Employee - 10% of Gross Earnings.
 
-Subject to a maximum contribution of:
+Subject to a maximum contribution of £1,187.16 per annum.
 
-£269.75 for the period 1 April 2007 to 30 June 2007; and £1,079.00 for the year ending June 2008 and each year thereafter;
+Contributions are payable weekly subject to a minimum of £5.00 per week and a maximum of £22.83 per week.
 
-Contributions are payable weekly subject to a minimum of £5.00 per week and a maximum of £20.75 per week
+Married Women.*
 
-Married Women*
+£11.89 per week.
 
-£10.81 per week
+*This rate only applies to those married women who prior to 1 January 1985 elected not to pay contributions to the Social Insurance Scheme.
 
-* This rate only applies to those married women who prior to 1 January 1985 elected not to pay contributions to the Social Insurance Scheme.
+Employer - 20% of Gross Earnings.
 
-Employer - 20% of Gross Earnings
+Subject to a maximum contribution of £1,498.64 per annum.
 
-Subject to a maximum contribution of:
+Contributions are payable weekly subject to a minimum of £15.00 per week and a maximum of £28.82 per week.
 
-£340.60 for the period 1 April 2007 to 30 June 2007; and £1,362.40 for the year ending June 2008 and each year thereafter;
+Where the person employed is 60 years or over or one who has retired at age 55 by operation of law, only the employer’s share of the contribution is payable.
 
-Contributions are payable weekly subject to a minimum of £15.00 per week and a maximum of £26.20 per week
+Rate of Contribution for a Self-Employed Person - 20% of Gross Earnings.
 
-Rate of Contribution for a Self-Employed Person - 20% of Gross Earnings
+Subject to a maximum contribution of £1,371.76 per annum.
 
-Subject to a maximum contribution of:
+Contributions are payable weekly subject to a minimum of £10.00 per week and a maximum of £26.38 per week.
 
-£311.74 for the period 1 April 2007 to 30 June 2007; and £1,246.96 for the year ending June 2008 and each year thereafter;
+Gibraltar Regiment.
 
-Contributions are payable weekly subject to a minimum of £10.00 per week and a maximum of £23.98 per week
+Employee Contributions: £13.33 per week.
 
-Gibraltar Regiment
+Employer Contributions: £17.96 per week.
 
 Social Security (Insurance)
 
-1955-14
+1955-14 Apportionment of Contributions.
 
-Employee Contributions
-
-£12.12 per week
-
-Employer Contributions
-
-£16.33 per week
-
-Apportionment of Contributions
-
-All contributions collected with effect from 1 April 2007 shall be apportioned as follows:
+All contributions collected with effect from 1 July 2008 shall be apportioned as follows:
 
 Gibraltar Health Authority – GPMS
 
-63.50% Open Long-Term Benefits Fund 27.75% Gibraltar Development Corporation –Training Levy 6.00% Short-Term Benefits Fund 2.25% Employment Injuries Insurance Fund 0.25% Gibraltar Development Corporation – Insolvency Fund 0.25%
+70.00% Open Long-Term Benefits Fund
+
+27.75% Short-Term Benefits Fund
+
+2.00% Employment Injuries Insurance Fund
+
+0.25%
+
+Total
 
 100.00%
 
