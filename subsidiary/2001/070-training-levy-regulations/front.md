@@ -10,7 +10,7 @@ TRAINING (LEVY) REGULATIONS  2001
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.   2002/016 r. 3 7.2.2002 2007/055 r. 4(1) 1.4.2007
+LN.   2002/016 r. 3 7.2.2002 2007/055 r. 4(1) 1.4.2007 2008/047 r. 4(1) 1.7.2008
 
 Education and Training TRAINING (LEVY) REGULATIONS  2001
 
