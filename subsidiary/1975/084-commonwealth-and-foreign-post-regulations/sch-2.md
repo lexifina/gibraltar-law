@@ -10,63 +10,65 @@ United Kingdom (a)  Letters including letter packets–
 
 (i)  For the first 20 grammes or part thereof
 
-40p
+42p
 
 (ii)  For every 10 grammes or part thereof after the first 20 grammes
 
-15p
+17p
 
 (b)  Postcards conforming in all respects to the regulations relating thereto
 
-40p
+42p
 
 (c)  Air letters conforming in all respects to the regulations relating thereto
 
-40p
+42p
 
 PART 1B
 
-All other European Countries and Morocco
+All European Countries other than the United Kingdom and Morocco
 
-(a) Letters including letter packets–
+(a)  Letters including letter packets–
 
 (i)  For the first 20 grammes or part thereof
 
-42p
+44p
 
 (ii)  For every 10 grammes or part thereof after the first 20 grammes
 
-16p
+17p
 
 (b)  Postcards conforming in all respects to the regulations relating thereto
 
-42p
+44p
 
 (c)  Air letters conforming in all respects to the regulations relating thereto
 
-42p
+44p
 
-(d)  For the purposes of Part IB, countries are as following
-
-EUROPEAN COUNTRIES Albania Lithuania Andorra Luxembourg
+For the purposes of PART 1B, the following countries are “All European Countries (other than the United Kingdom)”:
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 1961-10
 
-Subsidiary 1975/084 Armenia Macedonia (former Yugoslav Republic) Austria Malta Azebaijan Moldova Belarus Monaco Belgium Montenegro Bosnia-Herzegovina Netherlands Bulgaria Norway Croatia Poland Cyprus Portugal (including the Azores & Czech Republic Madeira) Denmark Romania Estonia Russia Finland San Marino Faroe Islands Serbia France (including Corsica) Slovak Republic Georgia Slovenia Germany Spain (including Balearic & Canary Greece Islands) Greenland Sweden Hungary Switzerland Iceland Tajikistan Ireland Turkey Italy Turkmenistan Kazakhstan Ukraine Kirghizstan Uzbekistan Latvia Vatican City State Liechtenstein
+Subsidiary 1975/084 EUROPEAN COUNTRIES Albania Lithuania Andorra Luxembourg Armenia Macedonia (former Yugoslav Republic) Austria Malta Azebaijan Moldova Belarus Monaco Belgium Montenegro Bosnia-Herzegovina Netherlands Bulgaria Norway Croatia Poland Cyprus Portugal (including the Azores & Czech Republic Madeira) Denmark Romania Estonia Russia Finland San Marino Faroe Islands Serbia France (including Corsica) Slovak Republic Georgia Slovenia Germany Spain (including Balearic & Canary Greece Islands) Greenland Sweden Hungary Switzerland Iceland Tajikistan Ireland Turkey Italy Turkmenistan Kazakhstan Ukraine Kirghizstan Uzbekistan Latvia Vatican City State Liechtenstein
 
 PART II.
 
 COUNTRIES OUTSIDE EUROPE.
 
-(a) Postal packets
+(a)  Letters including letter packets–
 
-First 10 grammes or part thereof Each additional grammes or part thereof Air Letters Postcards Zone 1 49p 18p 46p 49p Zone 2 49p 22p 46p 49p
+(i) for the first 10 grammes or part thereof
 
-(b) For the purposes of Part II, countries are grouped as follows:
+51p (ii) for every 10 grammes or part thereof after the first 10 grammes
 
-ZONE 1
+22p (b)  Postcards conforming in all respects to the regulations relating thereto
+
+51p (c)  Air letters conforming in all respects to the regulations relating thereto
+
+51p
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
@@ -74,57 +76,7 @@ Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
 Subsidiary 1975/084
 
-Abu Dhabi Laos Afghanistan Lebanon Ajman Lesotho Algeria Liberia Angola Libya Anguilla
-
-Antigua & Barbuda Macao Argentina Madagascar Aruba Malawi Ascension Malaysia
-
-Maldives Bahamas Mali Bahrain Mauritania Bangladesh Mauritius Barbados Mexico Belize Montserrat Benin Mozambique Bermuda Myanmar (formerly Burma) Bhutan
-
-Bolivia Namibia Botswana Nepal Brazil Netherland Antilles British Indian Ocean Territories Nicaragua British Virgin Islands Nigeria Brunei Darussalam Niger Republic Burkina Faso Burma (see Myanmar) Oman Burundi
-
-Pakistan Cambodia Panama Cameroon Paraguay Canada Peru Cape Verde Puerto Rico Cayman Islands
-
-Central African Republic Qatar Chad Chile Ras al Kamiah Christmas Island Reunion Cocos Island (Keeling Island) Rwanda Colombia Comoros Sabah Congo St. Christopher (St. Kitts & Nevis)
-
-Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
-
-1961-10
-
-Subsidiary 1975/084 Congo (Democratic Republic) St. Helen Costa Rica St. Lucia Cuba St. Pierre & Miquelon Curacao St. Vincent & Grenadines Sao Tome & Principe Djibouti Sarawak Dominica Saudi Arabia Dominican Republic Senegal Dubai Seychelles
-
-Sierra Leone Ecuador Singapore Egypt Somalia El Salvador South Africa Equatorial Guinea South Georgia Eritrea South Sandwich Islands Ethiopia Spanish North African Territories
-
-Sri Lanka Falkland islands Sudan French Guinea Suriname French West Indies Swaziland Fujairah Syria
-
-Gabon Tanzania Gambia Thailand Gaza & Khan Yunis Tibet Ghana Togo Grenada Trinidad & Tobago Guatemala Tristan da Cunha Guinea Tunisia Guinea-Bissau Turks & Caicos Islands Guyana
-
-Uganda Haiti Umm al Qaiwan Honduras United Arab Emirates Hong Kong United States of America
-
-Uruguay India Indonesia Venezuela Iran Vietnam Iraq Virgin Islands (US) Israel Ivory Coast Yemen
-
-Jamaica Zambia
-
-Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
-
-1961-10
-
-Subsidiary 1975/084 Jordan Zimbabwe Kenya Kuwait ZONE 2.
-
-Australia Nauru Island
-
-New Caledonia Belau (Palau) New Zealand
-
-New Zealand Island Territories China (Peoples’ Republic of) Norfolk Island
-
-Northern Mariana Island East Timor Papua New Guinea Fiji Philippines French Polynesia Pitcairn Island French Southern & Antarctic Territories
-
-Samoa (American) Guam Solomon Islands
-
-Japan Taiwan
-
-Tonga Kiribati Tuvalu Korea (Democratic Peoples’ Republic)
-
-Korea (Republic of) Vanuatu Marshall Islands Wake Island Micronesia Wallis & Futuna Island Mongolia Western Samoa
+.
 
 Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
 
