@@ -1,8 +1,8 @@
-Immigration Control
+Immigration, Asylum and Refugee
 
 1962-12
 
-IMMIGRATION CONTROL ACT
+IMMIGRATION, ASYLUM AND REFUGEE ACT
 
 Principal Act
 
@@ -18,21 +18,27 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 31.7.2003 2004-31 ss. 39(1)-(2), 41(3), 46A, 49(9), Sch.1
 
-4.11.2004 2004-33 ss. 63A(1), (3)-(4), Sch.3 4.12.2004 2005-06 ss. 63(6), 63A-63C, Sch.3 9.2.2005 2005-19 s. 3A 16.6.2005 2006-47 s. 11A 21.12.2006 2006-30 s. 46A, Sch.1 1.1.2007
+4.11.2004 2004-33 ss. 63A(1), (3)-(4), Sch.3 4.12.2004 2005-06 ss. 63(6), 63A-63C, Sch.3 9.2.2005 2005-19 s. 3A 16.6.2005 2006-47 s. 11A 21.12.2006 2006-30 s. 46A, Sch.1 1.1.2007 2008-12 ss. 1, 2(1), 3, 3A, 5, (2), 23, 39-50K,
 
-Immigration Control
+Immigration, Asylum and Refugee
 
-1962-12 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2001/55/EC Directive 2002/90/EC Decision 2002/946/JHA
+1962-12 55, 55A-55X, 65, 66(1)(h), 67(c)- (d), 68, Sch.3
 
-Immigration Control
+1.10.2008*
+
+Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2001/55/EC Directive 2002/90/EC Decision 2002/946/JHA Directive 2004/38/EC
+
+* Notice of Commencement see LN. 2008/074
+
+Immigration, Asylum and Refugee
 
 1962-12 ARRANGEMENT OF SECTIONS
 
 Section
 
-Preliminary
+PART I GENERAL Preliminary
 
-1. Short title. 2. Interpretation. 3.Application. 3A. Persons enjoying temporary protection.
+1. Short title. 2. Interpretation. 3.Application: EEA Nationals and their family members. 3A. Application: Persons enjoying temporary protection.
 
 Appointment and powers of immigration officers.
 
@@ -42,7 +48,7 @@ Entry into Gibraltar.
 
 11. Entry into Gibraltar and exit from Gibraltar. 11A.
 
-Requirement of permits and certificates.
+PART II GIBRALTAR IMMIGRATION LAW Requirement of permits and certificates.
 
 12. Restriction on entry or residence without permit or certificate. 13. No permit or certificate required by Gibraltarians. 14. Exemption for certain non-Gibraltarians.
 
@@ -52,11 +58,11 @@ Entitlement to permits of residence.
 
 Issue of  frontier worker certificates  and permits of residence.
 
-17. Issue of frontier worker certificates. 18. Issue of permits of residence. 19. Governor’s power to order issue of permits. 20. Cancellation of permits. 21. Appeal from refusal or cancellation of permit. 22. Renewal of permits. 23. No appeal to court. 24. Omitted
+17. Issue of frontier worker certificates. 18. Issue of permits of residence. 19. Governor’s power to order issue of permits. 20. Cancellation of permits.
 
-Immigration Control
+Immigration, Asylum and Refugee
 
-1962-12
+1962-12 21. Appeal from refusal or cancellation of permit. 22. Renewal of permits. 23. No appeal to court. 24. Omitted
 
 Entitlement to certificates of permanent residence.
 
@@ -78,13 +84,7 @@ Cancellation and duration of certificates.
 
 37. Cancellation of certificate. 38. Duration of certificates.
 
-EEA Nationals and Members of their Families.
-
-39. Interpretation of sections 39 to 50K. 39A. Position of Swiss nationals. 39B. Posted Workers. 40. Right of admission to Gibraltar of EEA nationals and family members and posted workers. 41. Right of Residence. 42. Grant of Residence Permits. 43. Qualified Person. 44. Unemployment. 45. Family members of self-employed persons who have ceased economic activity. 46. Family members of students. 46A. Central and Eastern European States (including Bulgaria and Romania).
-
-Immigration Control
-
-1962-12 47. No requirement to grant residence permit. 48. Form of residence permit and residence document. 49. Residence permits. 50. Renewal of residence permit. 50A. Duration and renewal of residence permit or residence document granted to family members. 50B. Indefinite Residence. 50C. Requirement for the issue of an EEA family permit. 50D. Issue of an EEA family permit. 50E. Refusal of an application for an EEA family permit. 50F. Exclusion and requirement to leave Gibraltar. 50G. Refusal to grant, and revocation of, residence permit or residence document. 50H. Public policy, public security and public health. 50I. Application of section 12 (required permits and certificates). 50J. Appeals to the Supreme Court. 50K. Notice of Appeal.
+39-50K Repealed.
 
 51. Repealed.
 
@@ -96,32 +96,68 @@ Fugitive offenders.
 
 54. Fugitive offenders.
 
+Immigration, Asylum and Refugee
+
+1962-12
+
 Political refugees.
 
-55. Political refugees.
+55. Asylum, Refugees and Persons seeking International Protection.
 
-Provisions relating to hotels and lodging-houses.
+PART IV EEA NATIONALS AND FAMILY MEMBERS, SWISS POSTED WORKERS”
+
+55A. Interpretation. 55B.  Continuity of Residence. 55C.  Definition of worker, job seeker, self employed person, self- sufficient person and student. 55D.  Definition of worker or self-employed person who has ceased economic activity. 55E.  Definition of Qualified person. 55F.  Definition of Family Member. 55G.  Definition of Extended Family Member. 55H.  Definition of “family member who has retained the right of residence”. 55I. Family members of Gibraltarians.
+
+EEA Rights – Entry and Residence.
+
+55J. Right of Entry to Gibraltar. 55K.  Issue and authorisation to issue EEA Family Permits. 55L.  Entitlement to reside in Gibraltar for three months. 55M. Extended right of Residence in Gibraltar. 55N.  Right of Permanent Residence.
+
+Residence Documentation.
+
+55O.  Registration Certificates for EEA Nationals. 55P.  Residence Cards for Non-EEA Family Members. 55Q.  Documents Certifying Permanent Residence and Permanent Residence Cards.
+
+Restrictions on the right of entry and residence.
+
+55R.  Exclusion and removal from Gibraltar. 55S.  Refusal to issue or renew and revocation of residence documentation. 55T.  Decisions taken on the grounds of public policy, public security or public heath. 55U.  Notification of EEA decisions.
+
+Appeals.
+
+Immigration, Asylum and Refugee
+
+1962-12
+
+55V.  Appeals.
+
+Special Cases - Swiss Posted Workers & Central and European Accession State Nationals.
+
+55W.  Swiss Posted Workers. 55X.  Nationals of Central and Eastern European States.
+
+PART V HOTELS AND LODGING HOUSES Provisions relating to hotels and lodging-houses.
 
 56. Duty to keep registers of lodgers. 57. Registration of lodging-houses.
 
-Arrest, detention and removal.
+PART VII ARRESTS, DETENTION, REMOVAL AND OFFENCES Arrest, detention and removal.
 
 58. Lawful custody. 59. Detention and removal of unauthorized persons. 60. Detention of deportees. 61. Maritime lien.
 
 Offences.
 
-Immigration Control
+62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. Assisting illegal immigration into another state. 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate. 65. Offences by EEA nationals and family members. 66. Other offences.
 
-1962-12 62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. Assisting illegal immigration into another state. 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate. 65. Offences by Community nationals. 66. Other offences.
+PART VII RULES AND RULES OF COURT Rules.
 
-Rules.
-
-67. Rules.
+67. Rules. 68. Rules of Court.
 
 SCHEDULE 1 States Party to the EEA Agreement
 
-SCHEDULE 2 Facilitating entry into or residence in another country
+SCHEDULE 2
 
-Immigration Control
+Immigration, Asylum and Refugee
+
+1962-12 Facilitating entry into or residence in another country
+
+SCHEDULE 3 Notice of Application for Leave to Appeal to the Supreme Court
+
+Immigration, Asylum and Refugee
 
 1962-12 AN ACT TO MAKE PROVISION FOR THE CONTROL OF ENTRY AND IMMIGRATION INTO GIBRALTAR AND FOR MATTERS INCIDENTAL THERETO OR CONNECTED THEREWITH.
