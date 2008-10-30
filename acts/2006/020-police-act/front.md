@@ -10,6 +10,10 @@ Act. No.  2006-20 Commencement (LN. 2007/033) 22.2.2007
 
 Assent 14.7.2006
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2008-16 ss. 78(2) & (3) 30.10.2008
+
 English sources: None cited
 
 EU Legislation/International Agreements involved:
