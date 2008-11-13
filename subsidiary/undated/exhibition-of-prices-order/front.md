@@ -1,11 +1,17 @@
-Price Control EXHIBITION OF PRICES ORDER
+Subsidiary Legislation made under s.11.
 
-1966-32
+Exhibition of Prices Order
 
-Subsidiary 1969.09.25 Order made under s. 11
+1969.09.25
 
-EXHIBITION OF PRICES ORDER
+Commencement 26.9.1969
 
-(1969.09.25)
+Amending enactments Relevant current provisions Commencement date
 
-26.9.1969
+Act. 2008-18 Para. 4 13.11.2008
+
+ARRANGEMENT OF PARAGRAPHS
+
+Paragraph
+
+1. Title. 2. Manner of exhibiting prices. 3. Classes of supplies. 4. Order without prejudice to other consumer protection laws.
