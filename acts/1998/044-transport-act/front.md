@@ -18,7 +18,7 @@ Assent
 
 Amending enactments Relevant current provisions Commencement date
 
-Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  50(1), 50(1A), 50(2), 67, Sch. 1 12(3)(b)(i) and 12(3)(c)(v). 21.1.2003 2003-17 ss. 17(4), 17(8) and 17(9) 1.8.2003
+Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  50(1), 50(1A), 50(2), 67, Sch. 1 12(3)(b)(i) and 12(3)(c)(v). 21.1.2003 2003-17 ss. 17(4), 17(8) and 17(9) 1.8.2003 2008-19 ss.  36-41, 66A-66ZB, Schs.2 & 3 13.11.2008
 
 English sources None cited
 
@@ -68,7 +68,7 @@ Grant of Operator Licences
 
 Operator Licences: Suitability and equipment of Vehicles
 
-35. Suitability of vehicles 36. Application of Council Regulations (EEC) No.3820/85 and (EEC) No.3821/85 as they have effect in accordance with Article 1 as read with Article 3 of Commission Regulation 3314/90 and Commission Regulation (EEC) No.3688/92 37. Installation or repair of recording equipment, checks and inspections 38. Maintenance and retention of records 39. Powers of inspection 40. Offences and penalties 41. Defences
+35. Suitability of vehicles 36-41   Repealed
 
 Operator Licences: Supplementary and Final
 
@@ -80,13 +80,11 @@ Horse-drawn Vehicles
 
 Self-drive hire cars
 
-Transport
-
-1998-44
-
 46. Licensing of self-drive operators and self-drive cars 47. Application for licence 47A. Renewal of licences 48. Revocation and suspension of licence 49. Transfer of licences 50. Limitation of age of self-drive cars
 
-Chauffeur Licences
+Transport
+
+1998-44 Chauffeur Licences
 
 51. Licensing of chauffeurs
 
@@ -100,19 +98,27 @@ COMMUNITY AUTHORISATIONS
 
 57. Purpose and interpretation 58. Use of goods vehicle without Community authorisation 59. Entitlement to the issue of Community authorisation 60. Rights of appeal 61. Effect of failure to comply with conditions governing use of Community authorisation 62. Authorised inspecting officers 63. Return of documents 64. Supply of information 65. Death, bankruptcy etc. of holder of Community authorisation 66. Offences by corporations etc
 
+Part IVA
+
+Drivers’ Hours
+
+66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66D. Installation and use of recording equipment. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data. 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records.
+
+Transport
+
+1998-44 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
+
 PART V
 
 FINAL PROVISIONS
 
-67. Appeals 68. Rules of court 69. Regulations 70. Forgery, etc., of licences and certificates 71. Duty to give information
-
-Transport
-
-1998-44 72. General Penalty 73. Avoidance of contracts 74. Saving of rights 75. Nuisances 76. Repeals and consequential amendments 77. Transitional provisions
+67. Appeals 68. Rules of court 69. Regulations 70. Forgery, etc., of licences and certificates 71. Duty to give information 72. General Penalty 73. Avoidance of contracts 74. Saving of rights 75. Nuisances 76. Repeals and consequential amendments 77. Transitional provisions
 
 SCHEDULE 1 Supplementary provisions as to qualifications for operator licences.
 
 SCHEDULE 2 Council Regulation (EEC) No 3820/85 of 20 December 1985 on the Harmonisation of Certain Social Legislation Relating to Road Transport
+
+SCHEDULE 3 EXEMPTION LISTINGS
 
 Transport
 
