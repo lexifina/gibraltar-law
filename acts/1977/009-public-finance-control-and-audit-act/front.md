@@ -26,17 +26,21 @@ LN. 1987/176 s. 12(e)(vii) 1.1.1988 1988/054 s. 12(e)(viii) 21.4.1988 Act. 1988-
 
 Public Finance (Control and Audit)
 
+1977-09 Act. 2008-17 ss. 2, 7(1), 28(1), (3), 33(2), 41, 44(2)
+
+13.11.2008
+
+Public Finance (Control and Audit)
+
 1977-09 ARRANGEMENT OF SECTIONS.
 
 PART I.–PRELIMINARY AND GENERAL.
 
-Section
-
-1. Short title. 2. Interpretation. 3. Minister responsible for finance to have the management Consolidated Fund and Improvement and Development Fund. 4. Authorization of expenditure.
+Section 1. Short title. 2. Interpretation. 3. Minister responsible for finance to have the management Consolidated Fund and Improvement and Development Fund. 4. Authorization of expenditure.
 
 PART II.–THE CONSOLIDATED FUND.
 
-5. Custody and investment of moneys accounted for in the Consolidated Fund. 6. Statutory payments. 7. Authorization of expenditure in advance of appropriation under section 66 of the Constitution. 8. Borrowing powers. 9. Guarantees. 10. Guarantees for supplier finance. 11. Payments under guarantees. 12. Advances. 13. Imprests. 14. Refunds, etc. 15. Erroneous receipts. 16. Limitation as to trusts. 17. Receivers of revenue.
+5. Custody and investment of moneys accounted for in the Consolidated Fund. 6. Statutory payments. 7. Authorization of expenditure in advance of appropriation under section 70 of the Constitution. 8. Borrowing powers. 9. Guarantees. 10. Guarantees for supplier finance. 11. Payments under guarantees. 12. Advances. 13. Imprests. 14. Refunds, etc. 15. Erroneous receipts. 16. Limitation as to trusts. 17. Receivers of revenue.
 
 PART III.–SPECIAL FUNDS.
 
@@ -44,11 +48,11 @@ PART III.–SPECIAL FUNDS.
 
 PART IV.–THE IMPROVEMENT AND DEVELOPMENT FUND.
 
-24. Interpretation. 25. The Fund not part of the Consolidated Fund. 26. Revenue of the Fund. 27. Use of the Fund. 28. Annual estimates of the Fund. .
+24. Interpretation. 25. The Fund not part of the Consolidated Fund. 26. Revenue of the Fund. 27. Use of the Fund. 28. Annual estimates of the Fund. . 29. Supplementary estimates.
 
 Public Finance (Control and Audit)
 
-1977-09 29. Supplementary estimates. 30. authorization of expenditure in advance of appropriation. 31. Conditions attached to grants or loans. 32. Development warrant. 33. Re-allocation. 34. Accounts and audit. 35. Investment of moneys accounted for in the improvement and Development Fund.
+1977-09 30. authorization of expenditure in advance of appropriation. 31. Conditions attached to grants or loans. 32. Development warrant. 33. Re-allocation. 34. Accounts and audit. 35. Investment of moneys accounted for in the improvement and Development Fund.
 
 PART V.–DEPOSITS.
 
@@ -68,9 +72,7 @@ PART VIII.–THE PRINCIPAL AUDITOR.
 
 Public Finance (Control and Audit)
 
-1977-09
-
-PART IX.–EXAMINATION AND AUDIT OF THE ACCOUNTS OF CORPORATE AND SIMILAR BODIES.
+1977-09 PART IX.–EXAMINATION AND AUDIT OF THE ACCOUNTS OF CORPORATE AND SIMILAR BODIES.
 
 60. Application of Part IX. 61. Power of Principal Auditor to audit. 62. Reports on accounts of statutory and other bodies. 63. Observations of bodies corporate, etc. on reports of the Principal Auditor to be obtained. 64. Reports on accounts of statutory and other bodies to be laid before the Parliament. 65. Audit fees.
 
