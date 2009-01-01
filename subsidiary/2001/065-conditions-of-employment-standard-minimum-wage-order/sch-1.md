@@ -2,12 +2,12 @@ SCHEDULE
 
 Paragraph 4(1)
 
-Age Monthly Remuneration Weekly Remuneration Hourly Remuneration
+Standard Minimum Remuneration Rates
 
-16 and over
+Age 16 and over
 
-£760.50
+Amount Relevant calculation Hourly Remuneration £5.00
 
-£175.50
+Weekly Remuneration £195.00 hourly remuneration x 39
 
-£4.50
+Monthly Remuneration £845.00 (weekly remuneration x 52) ÷ 12
