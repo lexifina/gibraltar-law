@@ -1,18 +1,14 @@
-Employment CONDITIONS OF EMPLOYMENT (TRANSPORT CONTRACTING UNDERTAKINGS) ORDER, 1990
+Subsidiary Legislation made under s. 36.
 
-Subsidiary 1990/092 1932-16 Order made under s.36.
+Conditions of Employment (Transport Contracting Undertakings) Order, l990
 
-CONDITIONS OF EMPLOYMENT (TRANSPORT CONTRACTING UNDERTAKINGS) ORDER, 1990
+LN.1990/092
 
-(LN. 1990/092)
+Commencement 12.7.1990
 
-12.7.1990
+Amending enactments Relevant current provisions Commencement date LNs. 1992/113 Sch. 31.8.1992 1996/074 Sch. 24.6.1996 1997/143 Sch. 1.12.1997 2003/117 Sch. 23.10.2003 2005/168 Sch. 1.7.2005 2008/108 Para. 2, Sch. 1.1.2009
 
-Amending enactments Relevant current provisions Commencement date LNs. 1992/113 Sch. 31.8.1992 1996/074 Sch. 24.6.1996 1997/143 Sch. 1.12.1997 2003/117 Sch. 23.10.2003 2005/168 Sch. 1.7.2005
-
-Employment CONDITIONS OF EMPLOYMENT (TRANSPORT CONTRACTING UNDERTAKINGS) ORDER, 1990
-
-Subsidiary 1990/092 1932-16 ARRANGEMENT OF PARAGRAPHS.
+ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 

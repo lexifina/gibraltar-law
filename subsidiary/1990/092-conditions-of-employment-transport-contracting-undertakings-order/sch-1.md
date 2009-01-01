@@ -1,3 +1,7 @@
 SCHEDULE Paragraph 4(1)
 
-Grade Remuneration Labourer £175.50 Driver Delivery man (B Class Licence) £184.86 Driver Delivery man (C Class Licence) £190.71 Articulator driver £196.95
+The minimum remuneration set out in paragraph 4 shall be–
+
+Grade Remuneration
+
+Labourer standard minimum remuneration Delivery man (B Class Licence) standard minimum remuneration Delivery man (C Class Licence) standard minimum remuneration Articulator driver £196.95, or the standard minimum remuneration if higher
