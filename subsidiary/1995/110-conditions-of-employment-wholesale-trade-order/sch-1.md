@@ -1,5 +1,9 @@
 SCHEDULE
 
-Para. (i)
+Paragraph 4
 
-GRADE REMUNERATION Labourer £175.50 Warehouse Hand/Delivery Hand £175.50 Storeman £185.64 Driver (B Class Licence) £185.64 Driver (C Class Licence) £191.49
+The minimum remuneration set out in paragraph 4 of this Order is–
+
+Grade Remuneration Labourer the standard  minimum remuneration as set out in the Conditions of Work (Standard Minimum Wage) Order, 2001 as amended or replaced from time to time
+
+Warehouse Hand/Delivery Hand Storeman Driver (B Class Licence) Driver (C Class Licence)
