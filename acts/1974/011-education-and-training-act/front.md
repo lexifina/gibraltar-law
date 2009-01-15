@@ -16,9 +16,9 @@ Amending enactments Relevant current provisions Commencement date Acts. 1976-24 
 
 21.8.1997 2001-18 ss. 1, 82(1) and (1A) 31.10.2002 2005-20 ss. 73(2), 73(2)(iv) 16.6.2005 2007-17 ss. 2, 2(3), 3, 4(1), 6(1), 7(1), 14(1) & (2), 15(a) & (b), 17, 23(1), 28(2), 31(4), 33(1) & (2), 34(2), 37, 38, 41(2), 65(1), 69(1), 86(1)(c)
 
-14.6.2007
+14.6.2007 2009-09 ss. 73(2), 73(2)(v), (vi) & 73(2D) 15.1.2009
 
-Transposing: Directive 2001/55/EC
+Transposing: Directive 2001/55/EC Directive 2003/9/EC Directive 2004/83/EC
 
 Education and Training
 
