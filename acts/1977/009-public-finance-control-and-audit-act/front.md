@@ -28,7 +28,9 @@ Public Finance (Control and Audit)
 
 1977-09 Act. 2008-17 ss. 2, 7(1), 28(1), (3), 33(2), 41, 44(2)
 
-13.11.2008
+13.11.2008 2011-021 ss. 17A-17D 1.4.2009
+
+1 Any expenditure funded out of revenue to which clause 2 applies incurred prior to the commencement of this Act and the coming into operation of new sections 17A to 17D of the Principal Act, or to be incurred prior to the 1st of April 2011, for a use and in a manner that would have been lawful but for this Act shall be deemed to have been appropriated by Parliament to those uses and this Act shall constitute an appropriation law of all such expenditure which shall thus be deemed to have been authorised and prescribed by this Act.
 
 Public Finance (Control and Audit)
 
@@ -42,17 +44,19 @@ PART II.–THE CONSOLIDATED FUND.
 
 5. Custody and investment of moneys accounted for in the Consolidated Fund. 6. Statutory payments. 7. Authorization of expenditure in advance of appropriation under section 70 of the Constitution. 8. Borrowing powers. 9. Guarantees. 10. Guarantees for supplier finance. 11. Payments under guarantees. 12. Advances. 13. Imprests. 14. Refunds, etc. 15. Erroneous receipts. 16. Limitation as to trusts. 17. Receivers of revenue.
 
+PART IIA – REVENUE OF PUBLIC UNDERTAKINGS
+
+17A.  Revenue of certain public undertakings to be paid into Consolidated Fund. 17B. The Minister may by Legal Notice published in the Gazette add …… 17C. Subject to section 17D any revenue of a public undertaking …… 17D. ll expenditure incurred by a public undertaking listed in ……
+
 PART III.–SPECIAL FUNDS.
 
 18. Special Funds. 19. Regulations for Special Funds. 20. Revenue of Special Funds. 21. Investment of moneys in Special Funds. 22. Accounts and balances of Special Funds. 23. Dissolution of Special Funds.
 
-PART IV.–THE IMPROVEMENT AND DEVELOPMENT FUND.
-
-24. Interpretation. 25. The Fund not part of the Consolidated Fund. 26. Revenue of the Fund. 27. Use of the Fund. 28. Annual estimates of the Fund. . 29. Supplementary estimates.
-
 Public Finance (Control and Audit)
 
-1977-09 30. authorization of expenditure in advance of appropriation. 31. Conditions attached to grants or loans. 32. Development warrant. 33. Re-allocation. 34. Accounts and audit. 35. Investment of moneys accounted for in the improvement and Development Fund.
+1977-09 PART IV.–THE IMPROVEMENT AND DEVELOPMENT FUND.
+
+24. Interpretation. 25. The Fund not part of the Consolidated Fund. 26. Revenue of the Fund. 27. Use of the Fund. 28. Annual estimates of the Fund. . 29. Supplementary estimates. 30. authorization of expenditure in advance of appropriation. 31. Conditions attached to grants or loans. 32. Development warrant. 33. Re-allocation. 34. Accounts and audit. 35. Investment of moneys accounted for in the improvement and Development Fund.
 
 PART V.–DEPOSITS.
 
@@ -66,13 +70,13 @@ PART VII.–ACCOUNTING OFFICERS AND ACCOUNTS.
 
 46. Accountant General. 47. Powers and duties of Accountant General. 48. Duties of accounting officers. 49. Accounting officers not permitted to open bank accounts. 50. Overdrafts on public or official bank accounts. 51. All public moneys to be accounted for in the public accounts of Gibraltar. 52. Annual Accounts. 53. Annual accounts of Special Funds. 54. Valuation of assets, etc.
 
-PART VIII.–THE PRINCIPAL AUDITOR.
+Public Finance (Control and Audit)
+
+1977-09 PART VIII.–THE PRINCIPAL AUDITOR.
 
 55. Office of Principal Auditor. 56. Powers of Principal Auditor. 57. Nature of audit. 58. Notification of irregularities. 59. Delegation.
 
-Public Finance (Control and Audit)
-
-1977-09 PART IX.–EXAMINATION AND AUDIT OF THE ACCOUNTS OF CORPORATE AND SIMILAR BODIES.
+PART IX.–EXAMINATION AND AUDIT OF THE ACCOUNTS OF CORPORATE AND SIMILAR BODIES.
 
 60. Application of Part IX. 61. Power of Principal Auditor to audit. 62. Reports on accounts of statutory and other bodies. 63. Observations of bodies corporate, etc. on reports of the Principal Auditor to be obtained. 64. Reports on accounts of statutory and other bodies to be laid before the Parliament. 65. Audit fees.
 
