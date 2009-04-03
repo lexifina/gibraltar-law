@@ -16,7 +16,7 @@ Assent 3.4.2003
 
 Amending enactments Relevant current provisions Commencement date
 
-Act.   2005-74 Sch. 1 29.12.2005 2006-40 s. 25(2), (2A) & (3) 14.12.2006
+Act.   2005-74 Sch. 1 29.12.2005 2006-40 s. 25(2), (2A) & (3) 14.12.2006 2009-16 Sch. 3 3.4.2009
 
 English sources
 
