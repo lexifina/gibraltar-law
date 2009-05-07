@@ -188,6 +188,20 @@ Please tick where applicable
 
 * This does not mean the mode of dying, such as Heart Failure, Asphixia, Asthenia, etc; it means the Disease, Injury or Complication which caused death.
 
+A. Do you have any reason to suspect that the death might be due, directly or indirectly, to (a)  violence? (b)  poison? (c)  privation or neglect? Please tick where applicable
+
+□ □ □
+
+B. Has the deceased been fitted with- (a)  a cardiac-pacemaker? (b)  a radio-active or other implant? If the answer to either of the questions above is yes- (c)  has it/they been removed? Please tick where applicable
+
+□ □
+
+□
+
+C. Is there any impediment to the body being cremated? Please ring the appropriate answer. If the answer is YES please set out the impediment.
+
+YES/NO (The particulars in A-C are not to be entered in the register)
+
 I hereby certify that I was in Medical attendance during the above-named deceased’s last illness and that the particulars and cause of death above written are true to the best of my knowledge and belief
 
 Signature . . . . . . . . . . . . . . .  Qualifications . . . . . . . . . . .
