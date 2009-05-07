@@ -10,6 +10,10 @@ Act. No. 2008-20 Commencement 13.11.2008
 
 Assent 11.11.2008
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2009-19 ss. 2, 8(3) & (4), 9(3)(a), 14, 15 & 16 7.5.2009
+
 _________________________
 
 ARRANGEMENTS OF SECTIONS
@@ -32,11 +36,11 @@ Cremation generally
 
 Cremation authorisation
 
-9. Application for cremation authorisation. 10. Offence to make false statement in application for cremation authorisation. 11. Grant of cremation authorisation. 12. Minister may grant cremation approval. 13. Offence to make false statement in applications.
+9. Application for cremation authorisation.
 
 Crematoria
 
-2008-20 14. Signing of certificate by a registered medical practitioner authorising cremation. 15. Refusal to sign certificate of registered medical practitioner. 16. Offence to make false statement in certificate of registered medical practitioner. 17. Offence to inter cremated human remains in public cemetery without authority.
+2008-20 10. Offence to make false statement in application for cremation authorisation. 11. Grant of cremation authorisation. 12. Minister may grant cremation approval. 13. Offence to make false statement in applications. 14. Deleted 15. Deleted 16. Deleted 17. Offence to inter cremated human remains in public cemetery without authority.
 
 PART IV CREMATION AND BURIAL OF UNCLAIMED HUMAN REMAINS
 
