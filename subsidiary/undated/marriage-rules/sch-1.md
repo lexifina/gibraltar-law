@@ -1,6 +1,8 @@
-SCHEDULE 1. Rule 2. Section 7
+SCHEDULE 1. Rule 2.
 
 NOTICE OF MARRIAGE
+
+Sections 7 and 38
 
 To the Marriage Registrar, Gibraltar.
 
@@ -62,7 +64,7 @@ Witness by my hand at Gibraltar this day of
 
 REGISTRAR’S CERTIFICATE
 
-Sections 9 and 11
+Sections 9, 11 and 38
 
 I,
 
@@ -100,6 +102,16 @@ And that no caveat has been entered against the issue of this certificate.
 
 And that the requirements of section 11 of the Act have been complied with.
 
+[In the case of a certificate under section 38 of the Act add:]
+
+And that–
+
+(a) no necessary consent is lacking; and
+
+Marriage 1948-36 Marriage Rules 1948.03.11
+
+(b) no lawful impediment to the marriage has been shown to the Registrar to exist.
+
 Witness by my hand at Gibraltar this day of
 
 , 20
@@ -111,8 +123,6 @@ N.B. – This certificate will be void unless the marriage is solemnized or cont
 day of
 
 , 20      .
-
-Marriage 1948-36 Marriage Rules 1948.03.11
 
 1948-36 Marriage 1948.03.11 Marriage Rules
 
