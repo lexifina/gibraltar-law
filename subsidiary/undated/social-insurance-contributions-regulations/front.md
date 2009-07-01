@@ -40,6 +40,12 @@ Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
 
 1955-14
 
+Subsidiary 1955.08.04-5 2011-29 r. 13 1.7.2009
+
+Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
+
+1955-14
+
 Subsidiary 1955.08.04-5 AMENDMENT OF REGULATIONS.
 
 Regulation
@@ -56,7 +62,7 @@ PART II.–CONTRIBUTIONS.
 
 PART III.–CREDITS.
 
-10. Unemployment. 11. Credits for incapacity. 11A. Credits for persons aged 60 or over or having attained statutory retirement age. 12. Unemployment and incapacity in same week. 13. Widows. 14. Full-time education, unpaid apprenticeship and training. 15. Maternity. 16. Pre-entry credits. 17. Contributions and credits to be taken into account.
+10. Unemployment. 11. Credits for incapacity. 11A. Credits for persons aged 60 or over or having attained statutory retirement age. 12. Unemployment and incapacity in same week. 13. Survivors. 14. Full-time education, unpaid apprenticeship and training. 15. Maternity. 16. Pre-entry credits. 17. Contributions and credits to be taken into account.
 
 PART IV.–ARREARS.
 
