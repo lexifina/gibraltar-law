@@ -12,7 +12,7 @@ Commencement 1.7.2007
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2015-23 r. 4, 7, 8, 9 1.7.2007
+Act. 2015-23 r. 4, 7, 8, 9 1.7.2007 “ r. 7(2) 1.7.2009
 
 ______________________
 
