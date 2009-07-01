@@ -12,7 +12,7 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 199
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2007/066 r. 7 1.4.2007 2007/133 r. 7 1.9.2007 2009/021 rr. 6(1)(a) & (b), 7, 10(1) & (2)(b) & 12 1.4.2008
+LN. 2007/066 r. 7 1.4.2007 2007/133 r. 7 1.9.2007 2009/021 rr. 6(1)(a) & (b), 7, 10(1) & (2)(b) & 12 1.4.2008 Act.  2011-29 Sch. 1.7.2009
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 1997
 
