@@ -6,9 +6,9 @@ Section 5(2)(b)
 
 CONTRIBUTION CONDITIONS
 
-WIDOWS BENEFIT OR WIDOWER’S PENSION
+SURVIVOR’S BENEFIT
 
-1.(1) The contribution conditions for widow’s benefit or widower’s pension are that
+1.(1) The contribution conditions for survivor’s benefit are that
 
 (a) not less than two hundred and fifty contributions have been paid by the husband or wife as the case may be in respect of the period between his or her entry into insurance and the relevant time; and
 
@@ -30,9 +30,11 @@ GUARDIAN’S ALLOWANCE
 
 (2) In this paragraph “relevant time” means the date of the death of the last surviving parent.
 
+OLD AGE PENSION
+
 Social Security (Closed Long-Term Benefits and Scheme)
 
-1996-06 OLD AGE PENSION
+1996-06
 
 3.(1) The contribution conditions for old age pension are that–
 
@@ -54,7 +56,9 @@ ADDITIONAL CONTRIBUTION CONDITIONS
 
 Benefits at the rates specified in Part III of Schedule 1 shall be payable if the contributions which satisfy the contribution conditions specified in Part I of this Schedule include contributions paid after the 1st day of January, 1968, as follows:−
 
-(a) Widow’s benefit or widower’s pension not less than 104 (b) Guardian’s allowance  ....................
+(a) Survivor’s benefit ...........................
+
+not less than 104 (b) Guardian’s allowance  ....................
 
 not less than 26 (c) Old age pensions.............................
 

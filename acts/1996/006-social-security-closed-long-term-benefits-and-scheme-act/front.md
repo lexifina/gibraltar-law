@@ -16,7 +16,21 @@ Act. 1997-13 ss. 2(1), 3(1), 5(3), (5)(b)(ii), 6, 7(4)-(5), 7A, 13(1)(c), 14(1)(
 
 1.10.1996 1998-05 s. 7B 5.1.1998 1998-28 s. 7B 31.7.1998 2001-08 s. 7B 8.3.2001 2004-38 s. 7B 24.11.2004 2006-41 ss. 22, 22A 15.2.2007 2007-18 ss. 16(a), 38, Sch. 1 1.4.2007 2007-17 ss. 3(3)(c), (4)-(5), 24(2), 30(3) 14.6.2007 2008-01 ss. 7B, 12A 1.7.2007 2009-11 ss. 5(2)-(3), 7A(3), 12A(3), 15(1), 16, (a), 31(2), Sch. 1
 
-1.4.2008 LN. 2009/060 s. 16(a), Sch. 1 1.4.2009
+1.4.2008 LN. 2009/060 s. 16(a), Sch. 1 1.4.2009 Act. 2011-29* ss. 5(1)(b)-(c), 8-10, 13(1)(b), (2), (6), 14(1)(b), (2), (6), 15(1), (5), 18(4), Schs. 1, 2
+
+1.7.2009
+
+* (1) Nothing in this Act shall entitle any person to claim any benefit to which he was not entitled to prior to the coming into force of this Act in respect of any period prior to the 1st July 2009.
+
+(2) Subject to subsection (1), a claim for a survivor’s benefit–
+
+(a) made before the 1st July 2011; and
+
+(b) by any person who considers he may have been entitled to that benefit to which he would not have been entitled to prior to 1st July 2009,
+
+shall be deemed to have been made within the prescribed time for claiming such benefit.
+
+(3) Where a claim made in accordance with this section is determined in the claimant’s favour he shall, subject to subsection (1), be entitled to benefit from the date on which he would have been entitled had he made a claim within the prescribed time for claiming the said benefit.
 
 Social Security (Closed Long-Term Benefits and Scheme)
 
@@ -34,7 +48,7 @@ PART II THE CLOSED LONG-TERM BENEFITS FUND.
 
 PART III INSURANCE AND BENEFITS PRELIMINARY.
 
-4. Continuation of insurance 5. Description and rate of benefit and contribution conditions. 6. Transitional provisions – existing beneficiaries. 7. Transitional provisions – extension of time for claiming. 7A. Transitional provisions – persons insured under both this Act and the Social Security (Open Long-Term Benefits Scheme) Act 1997. 7B.  Further rights of election to pay arrears. 8. Widow’s benefit. 9. Widow’s pension in special cases. 10.  Widower’s pension. 11.  Guardian’s allowance. 12.  Old age pensions. 12A. Old age pensions for persons whose marriages have been dissolved. 13 Special provisions as to men. 14.  Special provisions as to women. 15.  Increase of benefit for children. 16.  Increase of old age pension. 17.  Partial satisfaction of contribution conditions.
+4. Continuation of insurance 5. Description and rate of benefit and contribution conditions. 6. Transitional provisions – existing beneficiaries. 7. Transitional provisions – extension of time for claiming. 7A. Transitional provisions – persons insured under both this Act and the Social Security (Open Long-Term Benefits Scheme) Act 1997. 7B.  Further rights of election to pay arrears. 8. Survivor’s benefit. 9. Survivor’s pension in special cases. 10.  Deleted. 11.  Guardian’s allowance. 12.  Old age pensions. 12A. Old age pensions for persons whose marriages have been dissolved. 13 Special provisions as to men. 14.  Special provisions as to women. 15.  Increase of benefit for children. 16.  Increase of old age pension. 17.  Partial satisfaction of contribution conditions.
 
 Miscellaneous provisions as to benefit.
 
