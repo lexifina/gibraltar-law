@@ -12,7 +12,7 @@ QUALIFYING (CATEGORY 2) INDIVIDUALS RULES 2004
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2004/072 r.2 1.7.2004 2008/017 r. 9(4)(a), (b), (c) & (d) 1.7.2007*
+LN. 2004/072 r.2 1.7.2004 2008/017 r. 9(4)(a), (b), (c) & (d) 1.7.2007* Act. 2009-35 r. 9(4)(a), (b), (c) & (d) 1.7.2009
 
 * See Act 2008-07
 
