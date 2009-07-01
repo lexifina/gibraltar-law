@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 1997-13 rr. 12, 20(1), Sch. 1-2 1.10.1996 LN. 2007/070 Sch. 1- 2 1.4.2007 2009/016 rr. 3(3), (a), 9(2), 10(2), 11(2), 12(2), 13(2), 23(2), 24(2), 25(2), 26(2), 27(2), Sch. 1-2
 
-1.4.2008 2009/061 Sch. 1-2 1.4.2009
+1.4.2008 2009/061 Sch. 1-2 1.4.2009 Act. 2011-29 rr. 4(2), 6(2)(b), 8-13, 20(1)(b), Sch.1 1.7.2009
 
 Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) REGULATIONS 1996
 
@@ -28,9 +28,9 @@ PART I GENERAL
 
 1. Title and commencement. 2. Interpretation. 3. Computation of earnings or remuneration. 4. Provisions as to maintenance. 5. Calculation of yearly average. 6. Imprisonment, etc. 7. Disqualifications to be disregarded.
 
-PART II. WIDOW'S BENEFIT AND WIDOWER'S PENSION.
+PART II. SURVIVOR’S BENEFIT.
 
-8. Widows incapable of self support. 9. Partial satisfaction of contribution condition; I. 10. Partial satisfaction of contribution condition; II. 11.  Partial satisfaction of contribution condition, III. 12.  Partial satisfaction of contribution condition; IV. 13.  Partial satisfaction of contribution condition; V.
+8. Surviving spouses incapable of self-support. 9. Partial satisfaction of contribution condition; I. 10. Partial satisfaction of contribution condition; II. 11.  Partial satisfaction of contribution condition, III. 12.  Partial satisfaction of contribution condition; IV. 13.  Partial satisfaction of contribution condition; V.
 
 PART III. GUARDIAN’S ALLOWANCE.
 
