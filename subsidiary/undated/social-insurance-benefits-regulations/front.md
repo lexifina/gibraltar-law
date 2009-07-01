@@ -30,7 +30,7 @@ regs.of 4.10.1960 r. 6
 
 1980/114 Schs.3-4 1980/130 Sch.3 (corrigendum) 1981/116 r. 20(3), Schs.3-4 1982/086 Schs.3-4 1983/102 Schs.3-4 1984/095 Schs.3-4 25.12.1984 1985/140 Schs.3-4 25.12.1985 1986/126 Schs.3-4 23.12.1986 1987/168 Schs.3-4 29.12.1987 1988/152 rr. 21, 36, Schs.3-4 22.12.1988 1996/094 rr. 3(2), 4(2)-(3), 7(2)-(4). 16-36, Schs.3-4, 6
 
-1.10.1996 1999/158 rr. 6(2), (4), 7(2)-(3), 8, 10, Sch.1 25.7.1999 Act. 2000-15 Schs.2, 5 10.2.2000 LN. 2004/134 Schs.2, 5 1.7.2004 2007/068 Sch.2 1.7.2006
+1.10.1996 1999/158 rr. 6(2), (4), 7(2)-(3), 8, 10, Sch.1 25.7.1999 Act. 2000-15 Schs.2, 5 10.2.2000 LN. 2004/134 Schs.2, 5 1.7.2004 2007/068 Sch.2 1.7.2006 Act. 2011-29 r. 6(4) 1.7.2009
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
@@ -224,17 +224,19 @@ Absence from Gibraltar.
 
 (3)  A person shall not be disqualified from receiving a death grant by reason of the death occurring outside Gibraltar or the Campo district.
 
-(4)  A person shall not be disqualified from receiving death grant, maternity grant or maternity allowance, widow's benefit, widower's pension, guardian's allowance or old age pension by reason of being absent from Gibraltar or the Campo district.
+(4)  A person shall not be disqualified from receiving death grant, maternity grant or maternity allowance, by reason of being absent from Gibraltar or the Campo district.
 
 Imprisonment. etc.
 
 7. (1)  The provisions of section 23(1)(b) of the Act (which paragraph provides for disqualification for the receipt of benefit during periods of imprisonment and detention in legal custody) shall have effect subject to the exceptions contained in the following provisions of this regulation.
 
+(2) A person shall not, by reason of undergoing a period of imprisonment or detention in legal custody, be disqualified for receiving maternity grant or maternity allowance or death grant.
+
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 (2) A person shall not, by reason of undergoing a period of imprisonment or detention in legal custody, be disqualified for receiving maternity grant or maternity allowance or death grant.
+Subsidiary 1955.08.04-4
 
 (3) The payment to any person of any benefit-
 
@@ -258,11 +260,13 @@ Maternity grant in expectation of confinement.
 
 (a)  that section shall so apply to her in relation to that claim; and
 
+(b)  in their application to such a case, the contribution conditions for a maternity grant as set out in paragraph I of Part I of Schedule 3 to the Act shall apply as if, for sub-paragraph (2) (b) of that paragraph there were substituted the following:–
+
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 (b)  in their application to such a case, the contribution conditions for a maternity grant as set out in paragraph I of Part I of Schedule 3 to the Act shall apply as if, for sub-paragraph (2) (b) of that paragraph there were substituted the following:–
+Subsidiary 1955.08.04-4
 
 (b) the expression “relevant time” means the contribution week in which it is to be expected that the claimant will be confined or, where the relevant person is the husband and he was dead or over pensionable age on the date of the making of the claim, the date of his attaining pensionable age, or dying under that age.
 
@@ -282,13 +286,15 @@ Partial satisfaction of contribution conditions (I).
 
 (2)  Maternity grant shall be payable at the reduced rate specified in column (2) of Part I of Schedule 2 to these regulations which corresponds with the number of contributions paid or credited in the relevant contribution year as shown in column (1) of that Part of that Schedule.
 
+Partial satisfaction of contribution conditions (II).
+
+12.(1)  Where a woman would be entitled to a maternity grant at the rate specified in Part IV of Schedule 2 to the Act but for the fact that the relevant
+
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 Partial satisfaction of contribution conditions (II).
-
-12.(1)  Where a woman would be entitled to a maternity grant at the rate specified in Part IV of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the number of contributions paid since the lst day of January, 1968, she shall nevertheless be entitled to a grant in accordance with sub-regulation (2) if not less than thirteen contributions have been paid since the 1st day of January, 1968.
+Subsidiary 1955.08.04-4 contribution conditions are not satisfied as respects the number of contributions paid since the lst day of January, 1968, she shall nevertheless be entitled to a grant in accordance with sub-regulation (2) if not less than thirteen contributions have been paid since the 1st day of January, 1968.
 
 (2)  Maternity grant shall be payable at the reduced rate specified in column (2) of Part II of Schedule 2 to these regulations which corresponds with the number of contributions paid since the 1st day of January, 1968, as shown in column (I) of that Schedule.
 
@@ -302,13 +308,13 @@ Partial satisfaction of contribution conditions (IV).
 
 14.(1)  Where a woman would be entitled to a maternity grant at the rate specified in Part IV of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied both as respects the number of contributions paid or credited in respect of the relevant contribution year and as respects the number of contributions paid since the lst day of January, 1968, she shall nevertheless be entitled to a grant in accordance with sub- regulation (2) if not less than thirteen contributions have been paid or credited in respect of the relevant contribution year and not less than thirteen contributions have been paid since the lst day of January, 1968.
 
-(2)  Where the number of contributions paid or credited in the relevant contribution year corresponds with any of the numbers in column (1) of Part IV of Schedule 2 to these regulations and the number of contributions paid since the lst day of January, 1968, corresponds with any of the numbers
+(2)  Where the number of contributions paid or credited in the relevant contribution year corresponds with any of the numbers in column (1) of Part IV of Schedule 2 to these regulations and the number of contributions paid since the lst day of January, 1968, corresponds with any of the numbers shown at the head of columns (2) to (4) of that Part of that Schedule, then maternity grant shall be payable at the reduced rate which is applicable both to the number of contributions shown in column (I) and the number of
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 shown at the head of columns (2) to (4) of that Part of that Schedule, then maternity grant shall be payable at the reduced rate which is applicable both to the number of contributions shown in column (I) and the number of contributions shown at the head of whichever of columns (2) to (4) is appropriate.
+Subsidiary 1955.08.04-4 contributions shown at the head of whichever of columns (2) to (4) is appropriate.
 
 Partial satisfaction of contribution conditions (V).
 
@@ -344,9 +350,7 @@ Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4
-
-38. Subject to the provisions of the Act and these regulations, a death grant shall be payable in respect of a death occurring outside Gibraltar or the Campo district.
+Subsidiary 1955.08.04-4 38. Subject to the provisions of the Act and these regulations, a death grant shall be payable in respect of a death occurring outside Gibraltar or the Campo district.
 
 Priority of two or more claimants satisfying the conditions for death grant.
 
