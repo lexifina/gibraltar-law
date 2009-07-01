@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act.   1997-13 r. 10 1.10.1996 LN.  2002/003 r. 7 1.1.2002 2007/134 r. 7 1.9.2007 2009/018 rr. 6(1)(a) & (b), 7, 10, 10(1) & (2)(b), 7 12
 
-1.4.2008
+1.4.2008 Act.  2011-29 Sch. 1.7.2009
 
 Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) (OVERLAPPING BENEFITS) REGULATIONS 1996
 
