@@ -72,15 +72,13 @@ Social Security (Insurance)
 
 1.1.1994 1993/190 Sch.1 3.1.1994 1997/166 Sch.1. 30.12.1997 Act. 1999-27* ss. 2(1), 3(3), 7(4), 8(2), 9(1), 10(1)(a), 11, 11A, 12, 18(5), 21, 27(1)-(2), 30, 33(2)-(3), (6), 40(1), 41(1), 47(2), 48, 49(1).
 
-5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007 LN. 2008/045 Sch.1 1.7.2008
+5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007 LN. 2008/045 Sch.1 1.7.2008 2009/041 Sch.1 1.7.2009
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
-Transposing: Directive 86/613/EEC Directive 2010/41/EU
+Transposing: Directive 86/613/EEC Directive 2010/41/EU EU Legislation/International Agreements involved:
 
-EU Legislation/International Agreements involved:
-
-* Saving provision inserted at the end of this Act
+* Saving provision inserted at the end of this Act  Date of commencement amended by Act 2009-47
 
 Social Security (Insurance)
 
@@ -1052,51 +1050,49 @@ Rate of Contributions for an Employed Person.
 
 Employee - 10% of Gross Earnings.
 
-Subject to a maximum contribution of £1,187.16 per annum.
+Subject to a maximum contribution of £1,234.48 per annum.
 
-Contributions are payable weekly subject to a minimum of £5.00 per week and a maximum of £22.83 per week.
+Contributions are payable weekly subject to a minimum of £5.00 per week and a maximum of £23.74 per week.
 
 Married Women.*
 
-£11.89 per week.
+£12.36 per week.
 
 *This rate only applies to those married women who prior to 1 January 1985 elected not to pay contributions to the Social Insurance Scheme.
 
 Employer - 20% of Gross Earnings.
 
-Subject to a maximum contribution of £1,498.64 per annum.
+Subject to a maximum contribution of £1,558.44 per annum.
 
-Contributions are payable weekly subject to a minimum of £15.00 per week and a maximum of £28.82 per week.
+Contributions are payable weekly subject to a minimum of £15.00 per week and a maximum of £29.97 per week.
 
 Where the person employed is 60 years or over or one who has retired at age 55 by operation of law, only the employer’s share of the contribution is payable.
 
 Rate of Contribution for a Self-Employed Person - 20% of Gross Earnings.
 
-Subject to a maximum contribution of £1,371.76 per annum.
+Subject to a maximum contribution of £1,426.36 per annum.
 
-Contributions are payable weekly subject to a minimum of £10.00 per week and a maximum of £26.38 per week.
-
-Gibraltar Regiment.
-
-Employee Contributions: £13.33 per week.
-
-Employer Contributions: £17.96 per week.
+Contributions are payable weekly subject to a minimum of £10.00 per week and a maximum of £27.43 per week.
 
 Social Security (Insurance)
 
-1955-14 Apportionment of Contributions.
+1955-14
 
-All contributions collected with effect from 1 July 2008 shall be apportioned as follows:
+Gibraltar Regiment.
+
+Employee Contributions: £13.86 per week.
+
+Employer Contributions: £18.67 per week.
+
+Apportionment of Contributions.
+
+All contributions collected with effect from 1 July 2009 shall be apportioned as follows:
 
 Gibraltar Health Authority – GPMS
 
-70.00% Open Long-Term Benefits Fund
+70.00% Statutory Benefits Fund
 
-27.75% Short-Term Benefits Fund
-
-2.00% Employment Injuries Insurance Fund
-
-0.25%
+30.00%
 
 Total
 
