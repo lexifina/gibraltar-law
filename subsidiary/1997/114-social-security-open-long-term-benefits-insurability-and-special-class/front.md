@@ -12,7 +12,7 @@ SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (INSURABILITY AND SPECIAL CLASSES) REG
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2004/138 rr. 2, 4A and Sch. 7.6.2004
+LN. 2004/138 rr. 2, 4A and Sch. 7.6.2004 Act.  2011-29 6(2) 1.7.2009
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (INSURABILITY AND SPECIAL CLASSES) REGULATIONS 1997
 
