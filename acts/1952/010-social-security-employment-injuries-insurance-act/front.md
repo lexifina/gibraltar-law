@@ -82,17 +82,19 @@ LN. 1983/097 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Schs.2-5
 
 1.1.2002 2004/129 Sch.1 3.1.2005 Act. 2007-22 s. 5(1)-(3) 1.7.2006 LN. 2007/052 Sch.1 1.4.2007 Act. 2007-17 s. 51(3)-(4) 14.6.2007 LN. 2007/132 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.2-5
 
-1.9.2007 2008/0451 Sch.1 1.7.2008
+1.9.2007 2008/0451 Sch.1 1.7.2008 2009/0412 Sch.1 16.7.2009
+
+1 LN. 2008/45 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/42) 2 LN. 2009/041amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/42)
+
+Social Security (Employment Injuries Insurance)
+
+1952-10
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
 English source
 
-1 LN. 2008/45 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/42)
-
-Social Security (Employment Injuries Insurance)
-
-1952-10 National Insurance (Industrial Injuries) Act 1946 (9 & 10 Geo.6 c.62)
+National Insurance (Industrial Injuries) Act 1946 (9 & 10 Geo.6 c.62)
 
 Social Security (Employment Injuries Insurance)
 
