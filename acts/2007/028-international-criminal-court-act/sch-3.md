@@ -19,7 +19,3 @@ Offences against the administration of justice
 (e) retaliating against an official of the Court on account of duties performed by that or another official;
 
 (f) soliciting or accepting a bribe as an official of the Court in connection with his or her official duties.
-
-International Criminal Court
-
-2007-28

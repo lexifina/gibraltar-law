@@ -24,14 +24,6 @@ Rights of persons during an investigation
 
 (b) To remain silent, without such silence being a consideration in the determination of guilt or innocence;
 
-(c) To have legal assistance of the person’s choosing, or, if the person does not have legal assistance, to have legal assistance assigned to him or her, in any case where the interests of justice
-
-International Criminal Court
-
-2007-28 so require, and without payment by the person in any such case if the person does not have sufficient means to pay for it; and
+(c) To have legal assistance of the person’s choosing, or, if the person does not have legal assistance, to have legal assistance assigned to him or her, in any case where the interests of justice so require, and without payment by the person in any such case if the person does not have sufficient means to pay for it; and
 
 (d) To be questioned in the presence of counsel unless the person has voluntarily waived his or her right to counsel.
-
-International Criminal Court
-
-2007-28

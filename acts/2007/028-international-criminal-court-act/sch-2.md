@@ -1,6 +1,6 @@
 SCHEDULE 2 Section 58(4)
 
-GENOCIDE, CRIMES AGAINST HUMANITY AND WAR CRIMES: ARTICLES 6 TO 9
+GENOCIDE, CRIMES AGAINST HUMANITY AND WAR CRIMES:  ARTICLES 6 TO 9
 
 ARTICLE 6
 
@@ -34,10 +34,6 @@ Crimes against humanity
 
 (e) Imprisonment or other severe deprivation of physical liberty in violation of fundamental rules of international law;
 
-International Criminal Court
-
-2007-28
-
 (f) Torture;
 
 (g) Rape, sexual slavery, enforced prostitution, forced pregnancy, enforced sterlisation, or any other form of sexual violence of comparable gravity;
@@ -60,9 +56,7 @@ International Criminal Court
 
 (d) “Deportation or forcible transfer of population” means forced displacement of the persons concerned by expulsion or other coercive acts from the area in which they are lawfully present, without grounds permitted under international law;
 
-International Criminal Court
-
-2007-28 (e) “Torture” means the intentional infliction of severe pain or suffering, whether physical or mental, upon a person in the custody or under the control of the accused; except that torture shall not include pain or suffering arising only from, inherent in or incidental to, lawful sanctions;
+(e) “Torture” means the intentional infliction of severe pain or suffering, whether physical or mental, upon a person in the custody or under the control of the accused; except that torture shall not include pain or suffering arising only from, inherent in or incidental to, lawful sanctions;
 
 (f) “Forced pregnancy” means the unlawful confinement of a woman forcibly made pregnant, with the intent of affecting ethnic composition of any population or carrying out other grave violations of international law;
 
@@ -83,10 +77,6 @@ War crimes
 (a) Grave breaches of the Geneva Conventions of 12 August 1949, namely, any of the following acts against persons or property protected under the provisions of the relevant Geneva Convention:
 
 (i) Willful killing;
-
-International Criminal Court
-
-2007-28
 
 (ii) Torture or inhuman treatment, including biological experiments;
 
@@ -110,11 +100,7 @@ International Criminal Court
 
 (iii) Intentionally directing attacks against personnel, installations, material, units or vehicles involved in a humanitarian assistance or peacekeeping mission in accordance with the Charter of the United Nations, as long as they are entitled to the protection given to civilians or civilian objects under the international law of armed conflict;
 
-(iv) Intentionally launching an attack in the knowledge that such attack will cause incidental loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the
-
-International Criminal Court
-
-2007-28 concrete and direct overall military advantage anticipated;
+(iv) Intentionally launching an attack in the knowledge that such attack will cause incidental loss of life or injury to civilians or damage to civilian objects or widespread, long-term and severe damage to the natural environment which would be clearly excessive in relation to the concrete and direct overall military advantage anticipated;
 
 (v) Attacking or bombarding, by whatever means, towns, villages, dwellings or buildings which are undefended and which are not military objectives;
 
@@ -133,10 +119,6 @@ International Criminal Court
 (xii) Declaring that no quarter will be given;
 
 (xiii) Destroying or seizing the enemy’s property unless such destruction or seizure be imperatively demanded by the necessities of war;
-
-International Criminal Court
-
-2007-28
 
 (xiv) Declaring abolished, suspended or inadmissible in a court of law the rights and actions of the nationals of the hostile party;
 
@@ -160,10 +142,6 @@ International Criminal Court
 
 (xxv) Intentionally using starvation of civilians as a method of warfare by depriving them of objects indispensable to their survival, including wilfully impeding relief supplies as provided for under the Geneva Conventions;
 
-International Criminal Court
-
-2007-28
-
 (xxvi) Conscripting or enlisting children under the age of fifteen years into the national armed forces or using them to participate actively in hostilities.
 
 (c) In the case of an armed conflict not of an international character, serious violations of Article 3 common to the four Geneva Conventions of 12 August 1949, namely, any of the following acts committed against persons taking no active part in the hostilities, including members of armed forces who have laid down their arms and those placed hors de combat by sickness, wounds, detention or any other cause:
@@ -184,10 +162,6 @@ International Criminal Court
 
 (ii) Intentionally directing attacks against buildings, material, medical units and transport, and personnel using the distinctive emblems of the Geneva Conventions in conformity with international law;
 
-International Criminal Court
-
-2007-28
-
 (iii) Intentionally directing attacks against personnel, installations, material, units or vehicles involved in a humanitarian assistance or peacekeeping mission in accordance with the Charter of the United Nations, as long as they are entitled to the protection given to civilians or civilian objects under the international law of armed conflict;
 
 (iv) Intentionally directing attacks against buildings dedicated to religion, education, art, science or charitable purposes, historic monuments, hospitals and places where the sick and wounded are collected, provided they are not military objectives;
@@ -205,10 +179,6 @@ International Criminal Court
 (x) Declaring that no quarter will be given;
 
 (xi) Subjecting persons who are in the power of another party to the conflict to physical mutilation or to medical or scientific experiments of any kind which are neither justified by the medical, dental or hospital treatment of the person concerned nor carried out in his or her interest, and which cause death to or seriously endanger the health of such person or persons;
-
-International Criminal Court
-
-2007-28
 
 (xii) Destroying or seizing the property of an adversary unless such destruction or seizure be imperatively demanded by the necessities of the conflict.
 
@@ -231,7 +201,3 @@ Elements of crimes
 Such amendments shall be adopted by a two-thirds majority of the members of the Assembly of State Parties.
 
 3.  The Elements of Crimes and amendments thereto shall be consistent with this Statute
-
-International Criminal Court
-
-2007-28

@@ -15,7 +15,3 @@ Mental element
 (b) In relation to a consequence, that person means to cause that consequence or is aware that it will occur in the ordinary course of events.
 
 3.  For the purpose of this article, “knowledge” means awareness that a circumstance exists or a consequence will occur in the ordinary course of events. “Know” and “knowingly” shall be construed accordingly.
-
-International Criminal Court
-
-2007-28

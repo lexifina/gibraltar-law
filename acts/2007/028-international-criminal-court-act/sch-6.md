@@ -23,7 +23,3 @@ Such amendments shall enter into force upon adoption by a two-thirds majority of
 4.  The Rules of Procedure and Evidence, amendments thereto and any provisional Rule shall be consistent with this Statute. Amendments to the Rules of Procedure and Evidence as well as provisional Rules shall not be applied retroactively to the detriment of the person who is being investigated or prosecuted or who has been convicted.
 
 5.  In the event of conflict between the Statute and the Rules of Procedure and Evidence, the Statute shall prevail.
-
-International Criminal Court
-
-2007-28

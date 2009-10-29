@@ -18,12 +18,4 @@ In addition to other grounds of criminal responsibility under this Statute for c
 
 (ii) The crimes concerned activities that were within the effective responsibility and control of the superior; and
 
-International Criminal Court
-
-2007-28
-
 (iii) The superior failed to take all necessary and reasonable measures within his or her power to prevent or repress their commission or to submit the matter to the competent authorities for investigation and prosecution.
-
-International Criminal Court
-
-2007-28
