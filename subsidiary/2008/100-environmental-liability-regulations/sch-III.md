@@ -49,3 +49,5 @@ Subsidiary 2008/100 94/55/EC of 21 November 1994 on the approximation of the law
 12. Transboundary shipment of waste within, into or out of the European Union, requiring an authorisation or prohibited in the meaning of Council Regulation (EEC) No 259/93 of 1 February 1993 on the supervision and control of shipments of waste within, into and out of the European Community.
 
 13. The management of extractive waste pursuant to Directive 2006/21/EC of the European Parliament and of the Council of 15 March 2006 on the management of waste from extractive industries.
+
+15. The management of extractive waste pursuant to Directive 2006/21/EC of the European Parliament and of the Council of 15 March 2006 on the management of waste from the extractive industries.
