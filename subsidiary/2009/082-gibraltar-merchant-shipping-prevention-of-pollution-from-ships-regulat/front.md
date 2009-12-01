@@ -1,0 +1,125 @@
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 Subsidiary Legislation made under ss.98 and 118.
+
+GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+(LN. 2009/082)
+
+Commencement 1.12.2009
+
+EU Legislation/International Agreements involved: International Convention for the Prevention of Pollution from Ships, 1973 as modified by the Protocol of 1978 relating to that Convention, including all its other Protocols, Annexes and Appendices, and amendments thereto adopted by the International Maritime Organisation in accordance with Article 16 of that Convention (the “MARPOL Convention”); and
+
+Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on ship-source pollution and on the introduction of penalties for infringements
+
+Directive 2009/123/EC
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 ARRANGEMENT OF REGULATIONS
+
+Regulations
+
+PART 1 PRELIMINARY
+
+1. Title and commencement. 2. General Interpretation. 3. Application of these Regulations.
+
+PART 2 PREVENTION OF POLLUTION BY OIL
+
+4. Interpretations for Part 2. 5. Application of Part 2. 6. Exemption from application of Part 2 and waivers. 7. Exceptions for Part 2. 8. Equivalents permitted under Part 2. 9. Surveys under Part 2. 10. Procedure of surveys under Part 2. 11. Maintenance of the condition of the ship and its equipment after surveys under Part 2. 12. Issue or endorsement of the International Oil Pollution Prevention Certificate. 13. Issue or endorsement of the International Oil Pollution Prevention Certificate by another Administration. 14. Issue or endorsement of the International Oil Pollution Prevention Certificate on request by another Administration. 15. Form of the International Oil Pollution Prevention Certificate. 16. Duration and validity of the International Oil Pollution Prevention Certificate. 17. Tanks for oil residues (sludge). 18. Oil fuel tank protection. 19. Standard discharge connection. 20. Oil filtering equipment. 21. Control of discharge of oil or oily mixtures from ships. 22. Segregation of oil and water ballast and carriage of oil in forepeak tanks. 23. Oil Record Book, Part I - Machinery space operations. 24. Segregated Ballast Tanks. 25. Double hull and double bottom requirements for oil tankers delivered on or after 6 July 1996.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 26. Double hull and double bottom requirements for oil tankers delivered before 6 July 1996. 27. Prevention of oil pollution from oil tankers carrying heavy grade oil as cargo. 28. Pump-room bottom protection. 29. Accidental oil outflow performance. 30. Damage assumptions. 31. Hypothetical outflow of oil. 32. Limitation of size and arrangement of cargo tanks. 33. Intact stability. 34. Subdivision and damage stability. 35. Slop tanks. 36. Pumping, piping and discharge arrangement. 37. Oil discharge monitoring and control system. 38. Oil/water interface detector. 39. Crude oil washing requirements. 40. Control of discharge of oil or oily mixtures from the cargo area of any oil tanker. 41. Crude oil washing operations. 42. Oil Record Book, Part II- Cargo/ballast operations. 43. Shipboard oil pollution emergency plan. 44. Reception facilities. 45. Special requirements for fixed or floating platforms.
+
+PART 3 CONTROL OF POLLUTION BY NOXIOUS LIQUID SUBSTANCES IN BULK
+
+46. Interpretations for Part 3. 47. Application of Part 3. 48. Exceptions for Part 3. 49. Exemptions under Part 3. 50. Equivalents under Part 3. 51. Categorization and listing of noxious liquid substances and other substances. 52. Survey and certification of chemical tankers. 53. Surveys under Part 3. 54. Procedure of surveys under Part 3. 55. Maintenance of the condition of the ship and its equipment after surveys under Part 3. 56. Issue or endorsement of International Pollution Prevention Certificate for the carriage of Noxious Liquid Substances in bulk by or on behalf of the Administration.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 57. Issue or endorsement of an International Pollution Prevention Certificate for the carriage of Noxious Liquid Substances in bulk by another Administration. 58. Issue or endorsement of an International Pollution Prevention Certificate for the carriage of Noxious Liquid Substances in bulk on request by another Administration. 59. Form of an International Pollution Prevention Certificate for the carriage of Noxious Liquid Substances in bulk. 60. Duration and validity of the International Pollution Prevention Certificate for the carriage of Noxious Liquid Substances in bulk. 61. Design, construction, equipment and operations. 62. Pumping, piping, unloading arrangements and slop tanks. 63. Control of discharges of residues of Noxious Liquid Substances. 64. Procedures and Arrangements Manual. 65. Cargo Record Book. 66. Measures of control. 67. Shipboard marine pollution emergency plan for Noxious Liquid Substances. 68. Reception facilities and cargo unloading terminal arrangements.
+
+PART 4 PREVENTION OF POLLUTION BY HARMFUL SUBSTANCES CARRIED BY SEA IN PACKAGED FORM
+
+69. Application of Part 4. 70. Packing. 71. Marking and labelling. 72. Documentation. 73. Stowage. 74. Quantity limitations. 75. Exceptions for Part 4.
+
+PART 5 PREVENTION OF POLLUTION BY SEWAGE FROM SHIPS
+
+76. Interpretations for Part 5. 77. Application of Part 5. 78. Exceptions under Part 5. 79. Surveys under Part 5. 80. Procedure of surveys under Part 5. 81. Maintenance of the condition of the ship and its equipment after surveys under Part 5.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 82. Issue or endorsement of International Sewage Pollution Prevention Certificate by or on behalf of the Administration. 83. Issue or endorsement of International Sewage Pollution Prevention Certificate by another Administration. 84. Issue or endorsement of International Sewage Pollution Prevention Certificate on request by another Administration. 85. Form of an International Sewage Pollution Prevention Certificate. 86. Duration and validity of the International Sewage Pollution Prevention Certificate. 87. Sewage systems. 88. Standard discharge connections. 89. Discharge of sewage. 90. Reception facilities for sewage.
+
+PART 6 PREVENTION OF POLLUTION BY GARBAGE FROM SHIPS
+
+91. Application of Part 6. 92. Disposal of garbage outside special areas. 93. Special requirements for disposal of garbage. 94. Disposal of garbage within special areas. 95. Exceptions for regulations 92 to 94. 96. Reception facilities for garbage. 97. Placards, garbage management plans and garbage record-keeping.
+
+PART 7 PREVENTION OF AIR POLLUTION FROM SHIPS
+
+98. Application of Part 7. 99. Interpretations for Part 7. 100. General exceptions for Part 7. 101. Equivalents permitted under Part 7. 102. Surveys and inspections under Part 7. 103. Procedure of surveys under Part 7. 104. Maintenance of the condition of the ship and its equipment after surveys under Part 7. 105. Issue of International Air Pollution Prevention Certificate by or on behalf of the Administration. 106. Issue of an International Air Pollution Prevention Certificate by another Administration. 107. Issue of an International Air Pollution Prevention Certificate on request by another Administration. 108. Form of an International Air Pollution Prevention Certificate.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 109. Duration and validity of the International Air Pollution Prevention Certificate. 110. Detection of violations and enforcement. 111. Ozone-depleting substances. 112. Nitrogen oxides (NOx). 113. Sulphur oxides (SOx). 114. Volatile organic compounds. 115. Shipboard incineration. 116. Reception facilities for the purposes of Annex VI. 117. Fuel oil quality. 118. Requirements for platforms and drilling rigs.
+
+PART 8 MISCELLANEOUS
+
+119. Reporting on incident. 120. Port state control on operational requirements. 121. Enforcement measures for prevention of ship-source pollution. 122. Offences and penalties. 123. Reporting to the European Commission. 124. Appeals.
+
+SCHEDULE 1 List of oils
+
+SCHEDULE 2 Form of IOPP Certificate and Supplements
+
+SCHEDULE 3 Form of Oil Record Book
+
+SCHEDULE 4 Form of Cargo Record Book for ships carrying noxious liquid substances in bulk
+
+SCHEDULE 5 Form of International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk
+
+SCHEDULE 6 Guidelines for the identification of harmful substances in packaged form
+
+SCHEDULE 7
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 Form of International Sewage pollution Prevention Certificate
+
+SCHEDULE 8 Form of Garbage Record Book
+
+SCHEDULE 9 Form of the International Air Pollution Prevention Certificate
+
+SCHEDULE 10 Test cycles and weighting factors
+
+SCHEDULE 11 Criteria and procedures for designation of SOx emission control areas
+
+SCHEDULE 12 Type approval and operating limits for shipboard incinerators
+
+SCHEDULE 13 Information to be included in the bunker delivery note
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 In exercise of the powers conferred on it by sections 98 and 118 of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993 and all other enabling powers, the Government, for the purposes of–
+
+(a) giving effect in Gibraltar to the detailed provisions of the International Convention for the Prevention of Pollution from Ships, 1973 as modified by the Protocol of 1978 relating to that Convention, including all its other Protocols, Annexes and Appendices, and amendments thereto adopted by the International Maritime Organisation in accordance with Article 16 of that Convention (the “MARPOL Convention”); and
+
+(b) transposing into the law of Gibraltar Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on ship-source pollution and on the introduction of penalties for infringements,
+
+has made the following Regulations.
