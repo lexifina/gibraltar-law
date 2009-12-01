@@ -10,9 +10,17 @@ Act. No. 2001-10 Commencement 5.4.2001
 
 Assent 5.4.2001
 
-Transposing: Directive 1999/32/EC ____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF SECTIONS
+Act.  2009-52 ss. 2(1), (3) & (4), 9, 10, 11, 12, 12A-12P, 13(2)(e) & Schs.2, 3
+
+1.12.2009
+
+Transposing: Directive 1999/32/EC Directive 2005/33/EC
+
+Motor Fuel (Composition and Content)
+
+2001-10 ARRANGEMENT OF SECTIONS
 
 Section PART I PRELIMINARY
 
@@ -24,15 +32,19 @@ PART II LEAD AND BENZENE CONTENT OF MOTOR FUEL
 
 PART III SULPHUR CONTENT OF CERTAIN LIQUID FUELS
 
-9. Application of Part. 10. Maximum sulphur content of heavy fuel oil. 11. Maximum sulphur content in gas oil. 12. Sampling and analysis.
+9. Application. 10. Maximum sulphur content of heavy fuel oil. 11. Maximum sulphur content in gas oil. 12. Sampling and analysis. 12A. Penalties.
 
-PART IV FINAL PROVISIONS
+PART IIIA SULPHUR CONTENT OF MARINE FUELS
 
-13. Regulations.
+12B. Application. 12C. Restriction on the marketing of marine diesel oil. 12D. Restriction on the use and marketing of marine gas oil. 12E. Supplies of marine fuel. 12F. Register of suppliers. 12G. Record in the ship’s logbook. 12H. Denial of entry into port. 12I. Sulphur Oxide Emission Control Area. 12J. Maximum sulphur content of marine fuel used by passenger ships. 12K. Maximum sulphur content of marine fuel used by a ship at berth. 12L. Trials of emission abatement technologies. 12M. Use of approved emission abatement technologies. 12N. Enforcement Authority. 12O. Compliance Notice.
 
 Motor Fuel (Composition and Content)
 
-2001-10
+2001-10 12P. Offences and penalties.
+
+PART IV FINAL PROVISIONS
+
+12N. Derogation. 13. Regulations.
 
 SCHEDULE 1 Reference method for measuring the lead and benzene  content of petrol and determination or octane ratings.
 
