@@ -28,7 +28,9 @@ Public Finance (Control and Audit)
 
 1977-09 Act. 2008-17 ss. 2, 7(1), 28(1), (3), 33(2), 41, 44(2)
 
-13.11.2008 2011-021 ss. 17A-17D 1.4.2009
+13.11.2008 2011-021 ss. 17A-17D 1.4.2009 2009-51 ss. 76-82 1.12.2009
+
+Transposing: Directive 2006/111/EC
 
 1 Any expenditure funded out of revenue to which clause 2 applies incurred prior to the commencement of this Act and the coming into operation of new sections 17A to 17D of the Principal Act, or to be incurred prior to the 1st of April 2011, for a use and in a manner that would have been lawful but for this Act shall be deemed to have been appropriated by Parliament to those uses and this Act shall constitute an appropriation law of all such expenditure which shall thus be deemed to have been authorised and prescribed by this Act.
 
@@ -87,6 +89,14 @@ PART X.–ABANDONMENT OF CLAIMS, WRITE-OFFS AND SURCHARGE. ,
 PART XI.–REGULATIONS.
 
 74. Regulations by the Minister responsible for finance. 75. Public procurement.
+
+PART XII–FINANCIAL RELATIONS BETWEEN THE GOVERNMENT AND PUBLIC UNDERTAKINGS
+
+76. Interpretation of Part. 77. Transparency of financial relations. 78. Application of section 77. 79. Maintenance of separate accounts. 80. Exemptions.
+
+Public Finance (Control and Audit)
+
+1977-09 81. Supply of information to the European Commission concerning the information referred to in section 77. 82. Public undertakings in the manufacturing sector.
 
 SCHEDULE 1. Special Funds.
 
