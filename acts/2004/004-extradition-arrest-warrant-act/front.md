@@ -10,6 +10,12 @@ Act. No. 2004-04 Commencement 28.1.2004
 
 Assent 28.1.2004
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2009-49 ss. 7(3), 8(11), 9A, 10 & 10(b), 11(2) & (4)(a), 12(2)(a) & (3)(a), 15(1)(a) & (b), (1A), (4)(c), (5) & (6), 16(1)(b), (1A), (2)(b) & (2A), 17(1), (1A), (2) & (3), 25A, 25B, 43(6) & (7), 44(7) & (8)(a)
+
+3.12.2009
+
 Transposing: Directive 2012/13/EU
 
 EU Legislation/International Agreements involved: Framework Decision 2009/299/JHA Framework Decision 2002/584/JHA
@@ -28,17 +34,17 @@ PART 1 PRELIMINARY AND GENERAL
 
 PART 2 EUROPEAN ARREST WARRANT CHAPTER 1
 
-6. European arrest warrant Received in Gibraltar. 7. Form of Warrant. 8. Transmission of warrants. 9. Applications by the Central Authority. 10. Arrested person to be brought before court. 11. Consent to be surrendered. 12. Refusal to consent to be surrendered. 13.  Request for additional information by the magistrates’ court. 14. Request for additional information by the Central Authority. 15. Conditions for surrender. 16. Further conditions for surrender. 17. Surrender subject to undertaking. 18. Search and seizure powers. 19. Circumstances where bail or release from custody not permissible. 20. Transit through Gibraltar. 21. Conflict in surrender requests. 22. Conflict between surrender and extradition request.
+6. European arrest warrant Received in Gibraltar. 7. Form of Warrant. 8. Transmission of warrants. 9. Applications by the Central Authority. 9A. Provisional arrest. 10. Arrested person to be brought before court. 11. Consent to be surrendered. 12. Refusal to consent to be surrendered. 13.  Request for additional information by the magistrates’ court. 14. Request for additional information by the Central Authority. 15. Conditions for surrender. 16. Further conditions for surrender. 17. Surrender subject to undertaking. 18. Search and seizure powers. 19. Circumstances where bail or release from custody not permissible. 20. Transit through Gibraltar. 21. Conflict in surrender requests. 22. Conflict between surrender and extradition request.
 
 CHAPTER 2 ISSUE OF EUROPEAN ARREST WARRANT BY THE GIBRALTAR AUTHORITIES
 
-23. Interpretation. 24. Issue of warrant. 25. Imprisonment following surrender.
-
-PART 3 PROHIBITION ON SURRENDER
+23. Interpretation. 24. Issue of warrant. 25. Imprisonment following surrender. 25A. Effects of the surrender (specialty). 25B. Effects of the surrender (subsequent surrender or extradition).
 
 European Arrest Warrant
 
-2004-04 26. Exceptions to duty to surrender. 27. Exceptions to duty to surrender: supplementary. 28. Exceptions to duty to surrender: pardon and immunity. 29. Exceptions to duty to surrender: expiration of time. 30. Exceptions to duty to surrender: where final judgment already given elsewhere. 31. Exceptions to duty to surrender: proceedings current in Gibraltar. 32. Exceptions to duty to surrender: where prosecution not possible in Gibraltar. 33. Exceptions to duty to surrender: where offence has a nexus with Gibraltar or otherwise outside the issuing State. 34.  Exceptions to duty to surrender: procedural matters. 35.  Exceptions to duty to surrender: immunity. 36. Schedule. 37. Consequential Amendments.
+2004-04 PART 3 PROHIBITION ON SURRENDER
+
+26. Exceptions to duty to surrender. 27. Exceptions to duty to surrender: supplementary. 28. Exceptions to duty to surrender: pardon and immunity. 29. Exceptions to duty to surrender: expiration of time. 30. Exceptions to duty to surrender: where final judgment already given elsewhere. 31. Exceptions to duty to surrender: proceedings current in Gibraltar. 32. Exceptions to duty to surrender: where prosecution not possible in Gibraltar. 33. Exceptions to duty to surrender: where offence has a nexus with Gibraltar or otherwise outside the issuing State. 34.  Exceptions to duty to surrender: procedural matters. 35.  Exceptions to duty to surrender: immunity. 36. Schedule. 37. Consequential Amendments.
 
 PART 4 APPEALS
 
@@ -51,6 +57,10 @@ PART 5 COSTS ORDERS
 SCHEDULE 1 FORM OF EUROPEAN ARREST WARRANT
 
 SCHEDULE 2 OFFENCES REFERRED TO IN SECTION 27(1)(b)
+
+European Arrest Warrant
+
+2004-04
 
 European Arrest Warrant
 
