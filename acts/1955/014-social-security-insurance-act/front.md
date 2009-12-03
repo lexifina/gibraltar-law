@@ -72,13 +72,19 @@ Social Security (Insurance)
 
 1.1.1994 1993/190 Sch.1 3.1.1994 1997/166 Sch.1. 30.12.1997 Act. 1999-27* ss. 2(1), 3(3), 7(4), 8(2), 9(1), 10(1)(a), 11, 11A, 12, 18(5), 21, 27(1)-(2), 30, 33(2)-(3), (6), 40(1), 41(1), 47(2), 48, 49(1).
 
-5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007 LN. 2008/045 Sch.1 1.7.2008 2009/041 Sch.1 1.7.2009
+5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007 LN. 2008/045 Sch.1 1.7.2008 2009/041 Sch.1 1.7.2009 Act. 2009-47 s. 52(3)-(4) 3.12.2009
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
-Transposing: Directive 86/613/EEC Directive 2010/41/EU EU Legislation/International Agreements involved:
+Transposing: Directive 86/613/EEC Directive 2010/41/EU
 
 * Saving provision inserted at the end of this Act  Date of commencement amended by Act 2009-47
+
+Social Security (Insurance)
+
+1955-14
+
+EU Legislation/International Agreements involved:
 
 Social Security (Insurance)
 
@@ -1018,11 +1024,17 @@ Review of contributions, benefits, etc.
 
 (2)  The Minister may, by order amend the sums payable under those Parts of the Schedules specified in subsection (1).
 
-(3) No order increasing the weekly rate of contributions shall be made under this section unless it has been approved by resolution of the House of Assembly.
+(3) An order made in pursuance of subsection (2) shall be laid before the Parliament.
 
 Social Security (Insurance)
 
-1955-14 Power to wind up funds etc.
+1955-14 (4) If any such order is annulled by the Parliament in pursuance of the provisions of section 28 of the Interpretation and General Clauses Act, then
+
+(a) any moneys paid in pursuance of such order which, but for that order, would not have been payable shall be repaid or made good; and
+
+(b) subsection (2) of that section shall have effect only in so far as it relates to the duty of a person or authority to revoke the rule.
+
+Power to wind up funds etc.
 
 53. The Government may, by regulation, make such provisions as may appear to him necessary or expedient for the purpose for the winding up and dissolution in an equitable and non-discriminatory manner of any fund provided for in this Act and without prejudice to the generality of the foregoing and notwithstanding any other provision of this Act, such regulations may–
 
@@ -1036,7 +1048,9 @@ Social Security (Insurance)
 
 (e)  amend, vary, modify or repeal any provision of this or any other Act for the purpose of giving effect to the winding up and dissolution of any fund;
 
-(f) make such transitional or other incidental or supplementary provisions as may appear to the Government necessary or expedient for the purpose of this section.
+Social Security (Insurance)
+
+1955-14 (f) make such transitional or other incidental or supplementary provisions as may appear to the Government necessary or expedient for the purpose of this section.
 
 Social Security (Insurance)
 
