@@ -1,20 +1,14 @@
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
+Subsidiary Legislation made under s.16.
 
-2005-12
+Port Operations (Forms) Regulations 2005
 
-Subsidiary 2005/036 Regulations made under s.16.
+LN.2005/036
 
-PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-(LN. 2005/036)
-
-1.6.2006 (LN. 2006/063)
+Commencement (LN.2006/063) 1.6.2006
 
 Amending enactments Relevant current provisions Commencement date
 
 Act. 2009-48 Sch. 3 3.12.2009
-
-___________________
 
 ARRANGEMENT OF REGULATIONS
 
@@ -32,11 +26,7 @@ SCHEDULE 4 Forms of registers.
 
 SCHEDULE 5 Forms of certificate of registration and Port operator’s licence.
 
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036 In exercise of the powers conferred on him by section 16 of the Port Operation (Registration and Licensing) Act 2005, the Minister has made the following Regulations–
+In exercise of the powers conferred on him by section 16 of the Port Operation (Registration and Licensing) Act 2005, the Minister has made the following Regulations–
 
 Title and commencement.
 
@@ -60,17 +50,13 @@ Forms of notice of appeal and reasons.
 
 Forms of registers.
 
-6.(1)  The Register of port operators shall be as set out in FORM 1 of Schedule 4
+6.(1)  The Register of port operators shall be as set out in FORM 1 of  Schedule 4
 
 (2)  The Register of port workers shall be as set out in FORM 2 of Schedule 4.
 
 Forms of certificate for registration and port operator’s licence.
 
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036 7.(1)  The form of certificate of registration for any port worker  issued under section 3(2) of the Port Operations (Registration and Licencing) Act 2005 shall be as  set out in Schedule 5.
+7.(1)  The form of certificate of registration for any port worker  issued  under section 3(2) of the Port Operations (Registration and Licencing) Act 2005 shall be as  set out in Schedule 5.
 
 (2)  The form of licence for any port operator issued under section 3(3) of the Port Operations (Registration and Licencing) Act 2005 shall be as set out in Schedule 5.
 
@@ -97,12 +83,6 @@ Revocations.
 (a) Dock Work (Regulations) (Forms) Regulations; and
 
 (b) Ship Agents (Forms and Fees) Regulations 1987.
-
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036
 
 SCHEDULE 1
 
@@ -140,12 +120,6 @@ Date of commencement of full time employment with the employer:
 
 Nature of present employment:
 
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036
-
 FORM 2
 
 APPLICATION FOR PORT OPERATOR’S LICENCE
@@ -182,11 +156,7 @@ And in all cases:
 
 (f) Date and details of any previous registration as a port operator (give certificate number):
 
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036 (g) Details of any relevant licences held under the Imports and Exports Act (attach copies):
+(g) Details of any relevant licences held under the Imports and Exports Act (attach copies):
 
 I/we enclose evidence that I/we have available sufficient financial resources to ensure the establishment and proper administration of the port operation carried on or proposed to be carried on under the licence.
 
@@ -212,11 +182,7 @@ Details of the incremental business that the applicant hopes to attract to the p
 
 Details of training opportunities that the company will offer:
 
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036 I/we enclose particulars of any relevant convictions (if any).
+I/we enclose particulars of any relevant convictions (if any).
 
 I/we certify that no relevant convictions have been recorded against me/us or our company in the last 5 years immediately preceding this application.
 

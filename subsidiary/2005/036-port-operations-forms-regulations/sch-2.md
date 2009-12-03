@@ -17,9 +17,3 @@ Any person who wishes any objection to the application to be considered by the G
 This notice is submitted by (name) on behalf of (name of applicant)
 
 [Date
-
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036

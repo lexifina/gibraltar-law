@@ -8,9 +8,7 @@ I,                                                           of being aggrieved 
 
 (a) refused to register / re-register (name) as a port worker;
 
-(b) refused to license/re-license me as a [state class of port operator ];
-
-(c) registered                 as a port worker or granted a port operator’s licence to          notwithstanding my written objection,
+(b) refused to license/re-license me as a [state class of port operator],
 
 appeal against that decision.
 
@@ -25,12 +23,6 @@ To:
 (ii) the Secretary, Gibraltar Port Authority;
 
 (iii) (the applicant)
-
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036
 
 FORM 2
 
@@ -55,9 +47,3 @@ To:
 (ii) The appellant; and
 
 (iii) The applicant.
-
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036

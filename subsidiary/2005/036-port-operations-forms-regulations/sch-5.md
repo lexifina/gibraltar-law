@@ -4,7 +4,7 @@ PORT OPERATIONS (FORMS) REGULATIONS 2004
 
 FORM 1
 
-CERTIFICATE  OF REGISTRATION AS A PORT WORKER
+CERTIFICATE OF REGISTRATION AS A PORT WORKER
 
 This to certify that
 
@@ -17,12 +17,6 @@ Date of expiry of registration:
 Signed (for the Chief Executive, Gibraltar Port Authority):
 
 Date:
-
-Port Operations (Registration and Licensing) PORT OPERATIONS (FORMS) REGULATIONS 2005
-
-2005-12
-
-Subsidiary 2005/036
 
 PORT OPERATIONS (FORMS) REGULATIONS 2004
 
