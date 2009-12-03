@@ -10,6 +10,10 @@ Act. No. 2005-12 Commencement (LN. 2006/065) 1.6.2006
 
 Assent 9.2.2005
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2009-48 s. 14(1)(c) & (d) 3.12.2009
+
 English sources: None cited ____________________________
 
 ARRANGEMENT OF SECTIONS
