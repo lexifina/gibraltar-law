@@ -10,6 +10,10 @@ Act. No. 2009-50 Commencement (LN. 2009/087) 21.12.2009
 
 Assent 18.12.2009
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.   2009/089 Sch. 1 22.12.2009
+
 English sources: None cited
 
 International Co-Operation (Tax Information)
