@@ -30,7 +30,7 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS 1987.
 
 APPLICATION FOR IMPORT LICENCE.
 
-Application to Customs
+Application Collector of Customs
 
 I/We .......................................... hereby apply for permission to place an order with Messrs :....................of...................... for the importation of the following goods.
 
