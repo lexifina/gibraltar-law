@@ -6,7 +6,7 @@ LN.2009/071
 
 Commencement 26.11.2009
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2010/014 Para 2 21.1.2010
 
 ARRANGEMENT OF PARAGRAPHS
 
