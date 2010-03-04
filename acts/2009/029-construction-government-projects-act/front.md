@@ -10,6 +10,10 @@ Act. No. 2009-29 Commencement 16.7.2009
 
 Assent 15.7.2009
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2010/043 Sch. 2 4.3.2010
+
 _____________________________
 
 ARRANGEMENT OF SECTIONS.
