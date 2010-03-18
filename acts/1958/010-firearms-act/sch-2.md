@@ -15,7 +15,3 @@ PARTICULARS TO BE ENTERED BY FIREARMS DEALERS IN REGISTER OF TRANSACTIONS.
 5. The quantities and description of firearms and ammunition in possession for sale or transfer at the date of the last stocktaking or such other date in each year as may be specified in the register.
 
 6. In this Schedule references to firearms and ammunition shall be construed as references to firearms and ammunition to which Part II of the Act applies.
-
-Firearms
-
-1958-10

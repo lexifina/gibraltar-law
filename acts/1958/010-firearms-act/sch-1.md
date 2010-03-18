@@ -20,12 +20,6 @@ Provided that, in the case of an application, the date fixed for the hearing sha
 
 7. On the hearing of an appeal the court may either dismiss the appeal or give the Commissioner of Police such directions as the court thinks fit as respects the certificate or register which is the subject of the appeal.
 
-Firearms
-
-1958-10 8. On the determination of an appeal or application, the court may make such order as to payment of costs as the court thinks fit, and may fix a sum to be paid by way of costs in lieu of directing a taxation thereof, and any costs ordered to be paid by the court may be recovered summarily as a civil debt and shall not be recoverable in any other manner:
+8. On the determination of an appeal or application, the court may make such order as to payment of costs as the court thinks fit, and may fix a sum to be paid by way of costs in lieu of directing a taxation thereof, and any costs ordered to be paid by the court may be recovered summarily as a civil debt and shall not be recoverable in any other manner:
 
 Provided that the court shall not order the Commissioner of Police to pay the costs of an applicant.
-
-Firearms
-
-1958-10
