@@ -16,7 +16,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1997-27 s
 
 17.2.2005 2007-17 ss. 7(1), 13(1), 14(1), 15(3), 17(3), 30(1) & (2)
 
-14.6.2007
+14.6.2007 2010-05 Sch. 11 18.3.2010
 
 Implementing: Regulation (EC) No. 44/2001 Regulation (EC) No. 2201/2003
 
