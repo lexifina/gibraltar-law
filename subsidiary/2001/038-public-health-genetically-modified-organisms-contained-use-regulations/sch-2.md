@@ -10,7 +10,7 @@ EXAMPLES OF TECHNIQUES CONSTITUTING GENETIC MODIFICATION
 
 (a) recombinant nucleic acid techniques involving the formation of new combinations of genetic material by the insertion of nucleic acid molecules, produced by whatever means outside an organism, into any virus, bacterial plasmid or other vector system and their incorporation into a host organism in which they do not naturally occur but in which they are capable of continued propagation;
 
-(b) techniques involving the direct introduction into a micro- organism of heritable genetic material prepared outside the micro-organism, including micro-injection, macro-injection and micro-encapsulation;
+(b) techniques involving the direct introduction into a micro-organism of heritable genetic material prepared outside the micro-organism, including micro-injection, macro-injection and micro-encapsulation;
 
 (c) cell fusion or hybridization techniques where live cells with new combinations of heritable genetic material are formed through the fusion of two or more cells by means of methods that do not occur naturally.
 
@@ -22,11 +22,7 @@ TECHNIQUES WHICH ARE NOT CONSIDERED TO RESULT IN GENETIC MODIFICATION
 
 (a)  in vitro fertilisation;
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
-
-1950-07
-
-Subsidiary 2001/038 (b) natural processes including conjugation, transduction or transformation;
+(b) natural processes including conjugation, transduction or transformation;
 
 (c)  polyploidy induction.
 
@@ -34,7 +30,7 @@ PART III
 
 TECHNIQUES TO WHICH THESE REGULATIONS DO NOT APPLY
 
-3. The Regulations (except regulation 17) shall not apply to the following techniques of genetic modification, provided that they do not involve the use of recombinant nucleic acid molecules or of genetically modified micro- organisms other than those recombinant nucleic acid molecules or genetically modified micro-organisms produced by one or more of the following techniques of genetic modification–
+3. The Regulations (except regulation 17) shall not apply to the following techniques of genetic modification, provided that they do not involve the use of recombinant nucleic acid molecules or of genetically modified micro-organisms other than those recombinant nucleic acid molecules or genetically modified micro-organisms produced by one or more of the following techniques of genetic modification–
 
 (a) mutagenesis;
 
@@ -46,18 +42,6 @@ TECHNIQUES TO WHICH THESE REGULATIONS DO NOT APPLY
 
 4. In sub-paragraph 3–
 
-(a) “self-cloning” means the removal of nucleic acid sequences from a cell of a micro-organism which may or may not be followed by reinsertion of all or part of that nucleic acid (or a synthetic equivalent), whether or not altered by enzymic or mechanical processes, into cells of the same species or into cells of phylogenetically closely related species which can exchange genetic material by homologous recombination; and
+(a) “self-cloning” means the removal of nucleic acid sequences from a cell of a micro- organism which may or may not be followed by reinsertion of all or part of that nucleic acid (or a synthetic equivalent), whether or not altered by enzymic or mechanical processes, into cells of the same species or into cells of phylogenetically closely related species which can exchange genetic material by homologous recombination; and
 
-(b) self-cloning may include the use of recombinant vectors, with an extended history of safe use in the particular micro- organism, to manipulate and reinsert the nucleic acid sequences, but the vectors shall not consist of any genetic
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
-
-1950-07
-
-Subsidiary 2001/038 elements other than those designed for vector structure, vector replication, vector maintenance or marker genes.
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
-
-1950-07
-
-Subsidiary 2001/038
+(b) self-cloning may include the use of recombinant vectors, with an extended history of safe use in the particular micro-organism, to manipulate and reinsert the nucleic acid sequences, but the vectors shall not consist of any genetic elements other than those designed for vector structure, vector replication, vector maintenance or marker genes.

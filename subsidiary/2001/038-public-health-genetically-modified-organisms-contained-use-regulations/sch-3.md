@@ -16,7 +16,7 @@ MATTERS TO BE TAKEN INTO ACCOUNT IN CARRYING OUT AN ASSESSMENT FOR THE PURPOSES 
 
 (iii) the vector,
 
-(iv) the donor micro-organism (where that donor micro- organism is used during the activity involving genetic modification), and
+(iv) the donor micro-organism (where that donor micro-organism is used during the activity involving genetic modification), and
 
 (v) the resulting genetically modified micro-organism;
 
@@ -34,11 +34,7 @@ MATTERS TO BE TAKEN INTO ACCOUNT IN CARRYING OUT AN ASSESSMENT FOR THE PURPOSES 
 
 (c) adverse effects resulting from the inability to treat disease or offer  an effective prophylaxis;
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
-
-1950-07
-
-Subsidiary 2001/038 (d) adverse effects resulting from establishment or dissemination of the genetically modified micro-organisms in the environment;
+(d) adverse effects resulting from establishment or dissemination of the genetically modified micro-organisms in the environment;
 
 (e) adverse effects resulting from the natural transfer of genetic material to or from other micro-organisms, plants or animals;
 
@@ -62,19 +58,13 @@ STEPS TO BE INCLUDED WHEN CARRYING OUT AN ASSESSMENT FOR THE PURPOSES OF REGULAT
 
 (i) the characteristics of the environment likely to be exposed,
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
+(ii) the characteristics of the activity involving genetic modification of micro- organisms, and
 
-1950-07
-
-Subsidiary 2001/038
-
-(ii) the characteristics of the activity involving genetic modification of micro-organisms, and
-
-(iii) any activities involving genetic modification of micro- organisms which cannot be adequately controlled by standard laboratory procedures, and which present risks which require controls for each individual case;
+(iii) any activities involving genetic modification of micro-organisms which cannot be adequately controlled by standard laboratory procedures, and which present risks which require controls for each individual case;
 
 (f) adjustment of the provisional level of risk in the light of the matters referred to in sub-sub-paragraph (e) above;
 
-(g) selection of the appropriate containment measures from those specified in the applicable Table in Schedule 7 on the basis of the provisional level of risk as adjusted in accordance with sub- sub-paragraph (f) above;
+(g) selection of the appropriate containment measures from those specified in the applicable Table in Schedule 7 on the basis of the provisional level of risk as adjusted in accordance with sub-sub-paragraph (f) above;
 
 (h) assignment of the activity involving genetic modification of micro-organisms to the appropriate containment level, in accordance with sub-paragraph 4;
 
@@ -90,14 +80,4 @@ Subsidiary 2001/038
 
 (c) then assign the activity involving genetic modification in question to the containment level of that highest number.
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
-
-1950-07
-
-Subsidiary 2001/038 5. In sub-regulation 4, “selected containment measure” means an appropriate containment measure selected in accordance with sub-paragraph 3(g).
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
-
-1950-07
-
-Subsidiary 2001/038
+5. In sub-regulation 4, “selected containment measure” means an appropriate containment measure selected in accordance with sub-paragraph 3(g).

@@ -12,13 +12,13 @@ The general principles of good microbiological practice and of good occupational
 
 (c) testing adequately and maintaining control measures and equipment;
 
-(d) testing, where necessary, for the presence of viable process micro-organisms outside the primary physical containment;
+(d) testing, where necessary, for the presence of viable process  micro-organisms outside the primary physical containment;
 
 (e) providing appropriate training of personnel;
 
 (f) formulating and implementing local codes of practice for the safety of personnel, as required;
 
-(g) displaying biohazard signs where appropriate;
+(g) displaying biohazard signs on the door and on other places where appropriate;
 
 (h) providing washing and decontamination facilities for personnel;
 
@@ -28,18 +28,8 @@ The general principles of good microbiological practice and of good occupational
 
 (k) prohibiting mouth pipetting;
 
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
-
-1950-07
-
-Subsidiary 2001/038 (l) providing written standard operating procedures where appropriate to ensure safety;
+(l) providing written standard operating procedures where appropriate to ensure safety;
 
 (m) having effective disinfectants and specified disinfection procedures available in case of spillage of genetically modified micro-organisms; and
 
 (n) providing safe storage for contaminated laboratory equipment and materials where appropriate.
-
-Public Health PUBLIC HEALTH (GENETICALLY MODIFIED MICRO- ORGANISMS) (CONTAINED USE) REGULATIONS 2001
-
-1950-07
-
-Subsidiary 2001/038
