@@ -8,23 +8,25 @@ Section 5(2)(a)
 
 STANDARD RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
-Description of Benefit Monthly Basic Rate Increase for wife or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1.  Survivor’s Benefit:
+Description of Benefit Monthly Basic Rate Increase for wife or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1. Widow’s Benefit:
 
-(a) Survivor’s bereavement Allowance.
+(a) Widow’s Allowance. £456.98 - £55.68 (b) Widowed Mother’s Allowance. £385.28 - £55.68  * (c) Widow’s Pension. £385.28 - -
 
-£444.53 - £54.16 (b) Widowed Parent’s Allowance.
+1A. Widower’s pension (incapable of self-support) £385.28 - £55.68
 
-£374.78 - £54.16  * (c)  Survivor’s Pension.
+2.  Guardian’s Allowance. £98.29 - - 3.  Old Age Pensions:
 
-£374.78 - Omitted
+(a)where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s insurance and she is alive.
 
-2.  Guardian’s Allowance. £95.61 - - 3.  Old Age Pensions:
+£192.68 - £55.68
 
-(a)  where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s insurance and she is alive. £187.43 - £54.16
-
-(b)  in any other case. £374.78 £187.43 £54.16
+(b)  in any other case. £385.28 £192.68 £55.68
 
 *  Except in the case of a Widowed Parent’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
+
+Social Security (Closed Long-Term Benefits and Scheme)
+
+1996-06
 
 Social Security (Closed Long-Term Benefits and Scheme)
 

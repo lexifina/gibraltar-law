@@ -18,7 +18,7 @@ Act. 1997-13 ss. 2(1), 3(1), 5(3), (5)(b)(ii), 6, 7(4)-(5), 7A, 13(1)(c), 14(1)(
 
 1.4.2008 LN. 2009/060 s. 16(a), Sch. 1 1.4.2009 Act. 2011-29* ss. 5(1)(b)-(c), 8-10, 13(1)(b), (2), (6), 14(1)(b), (2), (6), 15(1), (5), 18(4), Schs. 1, 2
 
-1.7.2009
+1.7.2009 LN. 2010/101 s. 16(a), Sch. 1 1.4.2010
 
 * (1) Nothing in this Act shall entitle any person to claim any benefit to which he was not entitled to prior to the coming into force of this Act in respect of any period prior to the 1st July 2009.
 
