@@ -12,7 +12,9 @@ Assent 14.7.2006
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2008-16 ss. 78(2) & (3) 30.10.2008
+Act. 2008-16 ss. 78(2) & (3) 30.10.2008 2010-08 ss. 4(1), (1)(c) & (6), 6(1), (1)(b) & 9(1)
+
+15.4.2010
 
 English sources: None cited
 
