@@ -18,7 +18,9 @@ Assent
 
 Amending enactments Relevant current provisions Commencement date
 
-Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  50(1), 50(1A), 50(2), 67, Sch. 1 12(3)(b)(i) and 12(3)(c)(v). 21.1.2003 2003-17 ss. 17(4), 17(8) and 17(9) 1.8.2003 2008-19 ss.  36-41, 66A-66ZB, Schs.2 & 3 13.11.2008
+Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  50(1), 50(1A), 50(2), 67, Sch. 1 12(3)(b)(i) and 12(3)(c)(v). 21.1.2003 2003-17 ss. 17(4), 17(8) and 17(9) 1.8.2003 2008-19 ss.  36-41, 66A-66ZB, Schs.2 & 3 13.11.2008 2010-07 ss. 2, 11(4), 17(3), (8), (10), (11) & (12), 46(2) & (6), 51(1), 52(1), (4A) & (5), 53, 54(1) 7 (2), 55 & 56
+
+15.4.2010
 
 English sources None cited
 
@@ -90,7 +92,7 @@ Transport
 
 Chauffeur-driven hire-cars
 
-52. Licensing of chauffeur-driven hire car operators and chauffeur driven hire cars 53. Application for licence 54. Revocation and suspension of licence 55. Transfer of licence 56. Supplementary requirements
+52. Licensing of chauffeur-driven hire car operators and chauffeur driven hire cars 53. Application for licence 54. Revocation and suspension of licence 55. Transfer of licence 56. Repealed
 
 PART IV
 
