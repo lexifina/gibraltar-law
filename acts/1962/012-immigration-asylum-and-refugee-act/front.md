@@ -24,7 +24,7 @@ Immigration, Asylum and Refugee
 
 1962-12 55, 55A-55X, 65, 66(1)(h), 67(c)- (d), 68, Sch.3
 
-1.10.2008* 2009-02 ss. 2(1), 3B, 21(1)-(2), 23(2), 63(5) 2.10.2008 “ s. 20(1)-(2), (4) 15.1.2009
+1.10.2008* 2009-02 ss. 2(1), 3B, 21(1)-(2), 23(2), 63(5) 2.10.2008 “ s. 20(1)-(2), (4) 15.1.2009 2010-09 s. 52A 22.4.2010
 
 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2001/55/EC Directive 2002/90/EC Decision 2002/946/JHA Directive 2004/38/EC
 
@@ -90,13 +90,11 @@ Cancellation and duration of certificates.
 
 Prohibited immigrants.
 
-52. Power to declare prohibited immigrants. 53. Effect of declaration.
-
-Fugitive offenders.
+52. Power to declare prohibited immigrants. 52A.  Prohibited immigrants by reason of international obligations. 53. Effect of declaration.
 
 Immigration, Asylum and Refugee
 
-1962-12
+1962-12 Fugitive offenders.
 
 54. Fugitive offenders.
 
@@ -118,11 +116,11 @@ Residence Documentation.
 
 Restrictions on the right of entry and residence.
 
-55R.  Exclusion and removal from Gibraltar. 55S.  Refusal to issue or renew and revocation of residence documentation. 55T.  Decisions taken on the grounds of public policy, public security or public heath. 55U.  Notification of EEA decisions.
+55R.  Exclusion and removal from Gibraltar. 55S.  Refusal to issue or renew and revocation of residence documentation. 55T.  Decisions taken on the grounds of public policy, public security or public heath.
 
 Immigration, Asylum and Refugee
 
-1962-12
+1962-12 55U.  Notification of EEA decisions.
 
 Appeals.
 
@@ -148,11 +146,11 @@ PART VII RULES AND RULES OF COURT Rules.
 
 67. Rules. 68. Rules of Court.
 
-SCHEDULE 1 States Party to the EEA Agreement
+SCHEDULE 1
 
 Immigration, Asylum and Refugee
 
-1962-12
+1962-12 States Party to the EEA Agreement
 
 SCHEDULE 2 Facilitating entry into or residence in another country
 
