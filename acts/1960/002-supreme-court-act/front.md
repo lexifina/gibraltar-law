@@ -58,13 +58,13 @@ Acts. 1971-14 s.28(2)
 
 Supreme Court
 
-1960-02
+1960-02 2010-10 s.12A 6.5.2010
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
 The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
 
-Transposing: Directive 77/249/EEC Directive 98/5/EC
+Transposing: Directive 77/249/EEC Directive 98/5/EC Directive 2006/100/EC
 
 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
@@ -222,15 +222,15 @@ PART I. ADMINISTRATION.
 
 PART II. JURISDICTION AND POWERS.
 
-11. Supreme Court a court of record. 12. Court to have jurisdiction of High Court in England. 13. International conventions affecting jurisdiction. 14. Avoidance of multiplicity of proceedings. 15. Practice and procedure. 16. Power to appoint receivers for persons under disability. 17. Power of review. 17A. Orders of mandamus, prohibition and certiorari. 17B. Application for judicial review. 18. Summary power to punish contempt.
+11. Supreme Court a court of record. 12. Court to have jurisdiction of High Court in England. 12A.  Jurisdiction of Family Judge. 13. International conventions affecting jurisdiction. 14. Avoidance of multiplicity of proceedings. 15. Practice and procedure. 16. Power to appoint receivers for persons under disability. 17. Power of review. 17A. Orders of mandamus, prohibition and certiorari. 17B. Application for judicial review. 18. Summary power to punish contempt.
 
 PART III. TRIAL BY JURY.
 
-19. Liability to jury Service. 20. Eligibility for jury service. 21. Disqualifications. 22. Jury list. 23. Service of summons. 24. Application of Part VII of the Criminal Procedure Act to civil actions. 25. Jurors may be required to stand by. 26. Verdicts in civil cases actions. 27. Remuneration of jurors.
+19. Liability to jury Service. 20. Eligibility for jury service. 21. Disqualifications. 22. Jury list. 23. Service of summons. 24. Application of Part VII of the Criminal Procedure Act to civil actions. 25. Jurors may be required to stand by. 26. Verdicts in civil cases actions.
 
 Supreme Court
 
-1960-02
+1960-02 27. Remuneration of jurors.
 
 PART IV. BARRISTERS AND SOLICITORS.
 
@@ -246,11 +246,11 @@ PART V. MISCELLANEOUS.
 
 PART VI EUROPEAN LAWYERS: INTRODUCTORY
 
-39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer. 45. Joint practice. 46. Name of joint practice.
+39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer. 45. Joint practice.
 
 Supreme Court
 
-1960-02 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
+1960-02 46. Name of joint practice. 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
 
 PART VIII REGISTRATION OF EUROPEAN LAWYERS
 
@@ -266,11 +266,9 @@ PART X ENTRY OF EUROPEAN LAWYERS INTO THE PROFESSION OF SOLICITOR OR BARRISTER
 
 PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
 
-72. Modification of enactments.
-
 Supreme Court
 
-1960-02
+1960-02 72. Modification of enactments.
 
 PART X
 
