@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1998/041 S
 
 13.8.1998 1999-02 s.81, Sch.3 and Sch.12 25.3.1999 1999-37 Sch.3 2.12.1999 2005-50 s. 61(2) 2.8.2005 2005-65 ss. 2(1), 8(4A) & (4B), 8A, 9(2A), (2B),  (3A), (4)(b) & (d), (4A), (4B), (4C), (8), (9) & (10), 23(3A), (4), (7) & (8), 23A, 32(3A), (3B) & (3C), (4)(a), (b), (c) & (d), 45(1A) & (1B), Sch.3, Sch.5, Sch.6 & Sch.9
 
-4.12.2005 LN. 2008/099 ss. 2(1), 32(4), Schs 3, 5, 6 & 9 1.1.2007
+4.12.2005 LN. 2008/099 ss. 2(1), 32(4), Schs 3, 5, 6 & 9 1.1.2007 2010/090 Sch. 1 6.5.2010
 
 Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC Directive 2001/19/EC Directive 2006/100/EC
 
