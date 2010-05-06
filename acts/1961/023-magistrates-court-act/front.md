@@ -26,7 +26,9 @@ Act. 1971-19 –
 
 LN. 1977/012 – Act. 1978-06 – 1980-04 s. 9(4) 1983-12 – 1983-48 – 1988-35 s. 68A 15.12.1988 1993-16 ss. 44(1), 65 1.9.1993 1993-29 s. 45(d)-(e) 5.11.1998 2004-11 s. 26 1.9.2004 2005-09 s. 45(a), (e) 9.2.2005 2007-25 ss. 4, 6(1), (3)-(4), 7-8, 9(1), (4) 12(2), 14
 
-28.6.2007
+28.6.2007 2010-13 ss. 2(1), 18, 20(2), 45, 46(1)-(4), 47(1), 48(1), 49, 50(1), 70
+
+6.5.2010
 
 Rules of court made under s.69 and other powers appear under the title Supreme Court.
 
@@ -176,9 +178,7 @@ Magistrates’ Court
 
 Magistrates’ Court
 
-1961-23
-
-ARRANGEMENT OF SECTIONS
+1961-23 ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -196,7 +196,7 @@ Appointments
 
 Constitution of benches
 
-16. Constitution of benches generally. 17. Examining justices. 18. Domestic proceedings. 19. Juvenile courts. 20. Saving for stipendiary magistrate.
+16. Constitution of benches generally. 17. Examining justices. 18. Family proceedings. 19. Juvenile courts. 20. Saving for stipendiary magistrate.
 
 PART II.–JURISDICTION
 
@@ -204,9 +204,11 @@ Criminal
 
 21. General criminal jurisdiction. 22. Summary and indictable offences. 23. Extradition.
 
+Civil
+
 Magistrates’ Court
 
-1961-23 Civil
+1961-23
 
 24. General civil jurisdiction. 25. Complaints. 26. Revoked.
 
@@ -224,15 +226,17 @@ Complaints
 
 Domestic proceedings
 
-45. Meaning of “domestic proceedings”. 46. Arrangements for and attendance at hearings. 47. Reports on attempts at conciliation. 48. Reports on means of parties. 49. Examination of witnesses by court. 50. Restriction on newspaper reports.
+45. Meaning of “family proceedings”. 46. Arrangements for and attendance at hearings. 47. Reports on attempts at conciliation. 48. Reports on means of parties. 49. Examination of witnesses by court. 50. Restriction on newspaper reports.
 
 PART V.–ENFORCEMENT OF ORDERS
 
 General provisions
 
+51. Power to allow time for payment.
+
 Magistrates’ Court
 
-1961-23 51. Power to allow time for payment. 52. Enforcement by distress or committal. 53. Restriction on committal for civil debt. 54. Postponement of issue of warrants. 55. Defects and irregularities. 56. Release, etc., on payment.
+1961-23 52. Enforcement by distress or committal. 53. Restriction on committal for civil debt. 54. Postponement of issue of warrants. 55. Defects and irregularities. 56. Release, etc., on payment.
 
 Maintenance orders
 
@@ -248,7 +252,7 @@ PART VI.–CASES STATED
 
 PART VII.–MISCELLANEOUS
 
-65. Limitation. 66. Legal representation. 67. Defects in processes. 68. Remission of fees. 68A. Offences of contempt of Magistrates’ Court. 69. Rules of court.
+65. Limitation. 66. Legal representation. 67. Defects in processes. 68. Remission of fees. 68A. Offences of contempt of Magistrates’ Court. 69. Rules of court. 70. Savings and transitional provisions.
 
 Magistrates’ Court
 
