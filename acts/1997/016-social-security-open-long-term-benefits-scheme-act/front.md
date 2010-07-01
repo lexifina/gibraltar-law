@@ -32,11 +32,11 @@ Social Security (Open Long-Term Benefits Scheme)
 
 1997-16 (6),  20(1)(b), (2), (6),  21(1), (4), 24(3), Sch.2-3
 
-1.7.2009 LN. 2009/0412 Sch.1 16.7.2009 2010/103 s. 22(a), Sch.2 1.4.2010
+1.7.2009 LN. 2009/0412 Sch.1 16.7.2009 2010/103 s. 22(a), Sch.2 1.4.2010 2010/1143 Sch.1 1.7.2010
 
 English sources None cited
 
-2 LN. 2009/041 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/46).
+2 LN. 2009/041 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/46). 3 LN. 2010/114 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/46).
 
 Social Security (Open Long-Term Benefits Scheme)
 
