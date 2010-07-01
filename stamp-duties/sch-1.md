@@ -42,17 +42,15 @@ CERTIFICATE from the Commissioner:– For denoting under section 10, or that the
 
 CONTRACT. See AGREEMENTS.
 
-CONVEYANCE or TRANSFER on sale of any Property subject to duty,–
+CONVEYANCE or TRANSFER on sale of any Property Subject to duty,–
 
-(1) Where the value of the whole of the Property subject to duty does not exceed £160,000 a sum equivalent to zero per cent of the amount or value of the consideration
+(1) Where the value of the whole of the Property subject to duty does not exceed £200,000 a sum equivalent to zero per cent of the amount or value of the consideration
 
-(2) Where the value of the whole of the Property subject to duty exceeds £160,000 but does not exceed £250,000, a sum equivalent to 1.26% (one point two six per cent) of the amount or value of the consideration
+(2) Where the value of the whole of the Property subject to duty exceeds £200,000 but does not exceed £350,000, a sum equivalent to 2.0% (two point zero per cent) on the first £250,000 of the amount or value of the consideration and a sum equivalent to 5.5% (five point five per cent) of the amount or value of the consideration that exceeds £250,000
 
-(3) Where the value of the whole of the Property subject to duty exceeds £250,000 but does not exceed £350,000, a sum equivalent to 1.6% (one point six per cent) of the amount or value of the consideration
+(3) Where the value of the whole of the Property subject to duty exceeds £350,000, a sum equivalent to 3.0% (three point zero per cent) on the first £350,000 of the amount or value of the consideration and a sum equivalent to 3.5% (three point five per cent) of the amount or value of the consideration that exceeds £350,000
 
-(4) Where the value of the whole of the Property subject to duty exceeds £350,000, a sum equivalent to 2.5% (two point five per cent) of the amount or value of the consideration
-
-And see Sections 19-27.
+And see sections 19-27.
 
 CONVEYANCE or TRANSFER by way of security of any Property subject to duty.
 
@@ -70,9 +68,9 @@ COVENANT for securing the payment or repayment of money on any Property subject 
 
 See MORTGAGE, ETC.
 
-COVENANT. Any separate deed of covenant (not being an instrument chargeable with ad valorem duty as a conveyance on sale or mortgage) made on the sale or mortgage of any Property subject to duty, and relating solely to the conveyance
+COVENANT. Any separate deed of covenant (not being an instrument chargeable with ad valorem duty as a conveyance on sale or mortgage) made on the sale or mortgage of any Property subject to duty, and relating solely to the conveyance or enjoyment of, or the title to, the property sold or
 
-or enjoyment of, or the title to, the property sold or mortgaged, or to the production of the muniments of title relating thereto, or to all or any of the matters aforesaid. Where the ad valorem duty in respect of the consideration or mortgage money does not exceed 50 pence. A duty equal to the amount of such ad valorem duty. In any other case £5
+mortgaged, or to the production of the muniments of title relating thereto, or to all or any of the matters aforesaid. Where the ad valorem duty in respect of the consideration or mortgage money does not exceed 50 pence. A duty equal to the amount of such ad valorem duty. In any other case £5
 
 DEBENTURE for securing on any Property subject to duty the payment or repayment of money or the transfer or retransfer of stock.
 
@@ -106,7 +104,9 @@ EQUITABLE MORTGAGE of Property subject to duty.
 
 See MORTGAGE, ETC., and section 30.
 
-EXCHANGE – Instrument effecting over or concerning Property subject to duty.
+EXCHANGE – Instrument effecting over or concerning
+
+Property subject to duty.
 
 See section 30.
 
@@ -172,11 +172,9 @@ RENUNCIATION of Property subject to duty.
 
 See RECONVEYANCE AND RELEASE.
 
-SURRENDER of any kind whatsoever of Property subject to
+SURRENDER of any kind whatsoever of Property subject to duty not chargeable with duty as a conveyance or a mortgage
 
-duty not chargeable with duty as a conveyance or a mortgage £5
-
-TACK IN SECURITY of Property subject to duty.
+£5 TACK IN SECURITY of Property subject to duty.
 
 See MORTGAGE ETC.
 
