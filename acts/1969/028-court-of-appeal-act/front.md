@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Acts. 1977-34 
 
 1980-08 ss. 2 and 4(2) 1983-12 s. 25 1988-35 ss. 8A, 9(1)(b), 10A, 11(1) and (2), 12(1) and 13
 
-15.12.1988 2004-11 s.22(iv) 1.9.2004 2008-04 s. 7 31.1.2008
+15.12.1988 2004-11 s.22(iv) 1.9.2004 2008-04 s. 7 31.1.2008 2010-15 s.22A 8.7.2010
 
 English sources
 
@@ -36,7 +36,7 @@ PART II. APPEALS IN CRIMINAL CASES.
 
 PART III. APPEALS IN CIVIL CASES.
 
-22. Right of appeal. 23. Determination of civil appeals. 24. Powers of judge in interlocutory matters. 25. Procedure with respect to civil appeals. 26. Wrong ruling as to sufficiency of stamp. 27. Power for Chief Justice to reserve questions of law for the court.
+22. Right of appeal. 22A. Appeal to Court of Appeal and to Her Majesty in Council. 23. Determination of civil appeals. 24. Powers of judge in interlocutory matters. 25. Procedure with respect to civil appeals. 26. Wrong ruling as to sufficiency of stamp. 27. Power for Chief Justice to reserve questions of law for the court.
 
 Court of Appeal
 
