@@ -58,7 +58,7 @@ Acts. 1971-14 s.28(2)
 
 Supreme Court
 
-1960-02 2010-10 s.12A 6.5.2010
+1960-02 2010-10 s.12A 6.5.2010 2010-16 s. 36B 8.7.2010
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
@@ -242,15 +242,15 @@ PART IVA EEA LAWYERS
 
 PART V. MISCELLANEOUS.
 
-36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 37. Rules regulating funds in court. 38. Rules of court. 38A. Civil Procedure Rules. 38B. Masters.
+36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 36B.  Recovery of insurance premiums by way of costs. 37. Rules regulating funds in court. 38. Rules of court. 38A. Civil Procedure Rules. 38B. Masters.
 
 PART VI EUROPEAN LAWYERS: INTRODUCTORY
 
-39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer. 45. Joint practice.
+39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer.
 
 Supreme Court
 
-1960-02 46. Name of joint practice. 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
+1960-02 45. Joint practice. 46. Name of joint practice. 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
 
 PART VIII REGISTRATION OF EUROPEAN LAWYERS
 
@@ -268,7 +268,9 @@ PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
 
 Supreme Court
 
-1960-02 72. Modification of enactments.
+1960-02
+
+72. Modification of enactments.
 
 PART X
 
