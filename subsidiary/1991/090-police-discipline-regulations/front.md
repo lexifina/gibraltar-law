@@ -12,7 +12,9 @@ POLICE (DISCIPLINE) REGULATIONS 1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  1993/105 r. 8 10.6.1993 1997/050 r. 15(3) 22.5.1997 2000/015 rr. 5(c)(d), 6(c), 7(a) to (h). 2.3.2000 2005/070 r. 14(3). 21.4.2005
+LN.  1993/105 r. 8 10.6.1993 1997/050 r. 15(3) 22.5.1997 2000/015 rr. 5(c)(d), 6(c), 7(a) to (h). 2.3.2000 2005/070 r. 14(3). 21.4.2005 2010/129 rr. 2, 5(b), (c) & (c)(i), 6, 7(a), (b),(c) & (g), 8(c), (e), (f) & (h), 11, 13, 14(2), (3)(b)(ii) & (3)(c), 15, 19(1), (2) & (3), 20, 21, 22, Sch. 1 & 6
+
+22.7.2010
 
 _________________________
 
@@ -32,11 +34,11 @@ PART II
 
 4. Discipline Offences. 5. Minor Offences. 6. Investigation of charges made by a Police Officer 7. Investingation of Charges made by a person other than a Police Officer. 8. Interdiction. 9. Personal Explanation. 10. Criminal Offences. 11. Formulation of charges. 12. Documents to be supplied. 13. Questions in Discipline Form to be answered by the accused. 14. Hearing. 15. Procedure at Hearing. 16. Adjournment of Hearing. 17. Hearing in the absence of the accused. 18. Attendance of complainant at hearing. 19. Finding.
 
-PART II – APPEALS
+PART III - APPEALS.
 
-20. Appeals. 21. Procedure at Appeal. 22. Powers of the Governor.
+20. Appeals. 21. Procedure at Appeal. 22. Advice of the Public Service Commission.
 
-PART III – REVOCATION.
+PART IV. - REVOCATION
 
 23. Revocation.
 

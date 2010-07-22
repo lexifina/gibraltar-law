@@ -66,11 +66,11 @@ Subsidiary 1991/090
 
 (a)  without proper authority communicates to any person, any information which he has in his possession as a member of the police force, or
 
-(b)  makes any anonymous communication to the Governor, any public officer, the Commissioner or to any superior officer, or
+(b)  makes any anonymous communication to the Governor, the Chief Minister, the Gibraltar Police Authority, any public officer, the Commissioner or to any superior officer, or
 
-(c)  without proper authority, makes representations to the Governor, any public officer, the Commissioner or to any superior officer, with regard to any matter concerning the force, or
+(c)  without proper authority, makes representations to the Governor, the Chief Minister, the Gibraltar Police Authority, any public officer, the Commissioner or to any superior officer, with regard to any matter concerning the force, or
 
-(d)  canvasses any member of the House of Assembly or any public officer with regard to any such matter.
+(d)  canvasses any member of the Gibraltar Parliament or any public officer with regard to any such matter.
 
 Corrupt or improper practice.
 
@@ -94,7 +94,9 @@ Police POLICE (DISCIPLINE) REGULATIONS 1991
 
 2006-20
 
-Subsidiary 1991/090 (b)  uses any unnecessary violence towards any prisoner or other person with whom he may be brought into contact in the execution of his duty, or
+Subsidiary 1991/090
+
+(b)  uses any unnecessary violence towards any prisoner or other person with whom he may be brought into contact in the execution of his duty, or
 
 (c)  is uncivil to any member of the public.
 
@@ -122,13 +124,11 @@ Drunkedness.
 
 (b)  demands or endeavours to presuade any other person to give him, or to purchase or obtain for him, any intoxicating liquor.
 
-Entering licensed premises.
-
 Police POLICE (DISCIPLINE) REGULATIONS 1991
 
 2006-20
 
-Subsidiary 1991/090
+Subsidiary 1991/090 Entering licensed premises.
 
 14. Entering licensed premises, which offence is committed where a member of the police force–
 
