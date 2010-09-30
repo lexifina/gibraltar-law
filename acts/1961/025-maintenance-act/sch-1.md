@@ -1,4 +1,4 @@
-SCHEDULE
+SCHEDULE 1
 
 Sections 49, 53 and 56.
 
@@ -25,3 +25,7 @@ Maintenance
 1961-25 (i) the normal deduction; and
 
 (ii) so much of the normal deduction for any previous pay-day as was not paid on that pay-day and has not been paid by virtue of this sub-paragraph on any other previous pay-day
+
+Maintenance
+
+1961-25
