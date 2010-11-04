@@ -28,11 +28,13 @@ Employment
 
 24.6.1994 1994/103 s. 74(5)(a)(ii) 24.6.1994 Act. 1999-04 s. 89(1) 24.6.1994 LN. 2000/045 s. 17(6)(b) 24.6.1994 1994/098 ss. 26A, 61(1)(a)-(b) 22.9.1994 1996/014 ss. 60(1), (3)-(4), 62(1)(a), 65A- 65C
 
-1.1.1996 1996/027 ss. 52D(1)-(5), 52J-52R 1.3.1996 Act. 2001-27 ss. 52Q-52R, 52J-52R 2.8.2001 2001-20 ss. 2-5, 36(3), 38(1), 86(1) 31.10.2002 2004-18 s. 64(2) 17.8.2004 2005-49 s. 90 2.8.2005
+1.1.1996 1996/027 ss. 52D(1)-(5), 52J-52R 1.3.1996 Act. 2001-27 ss. 52Q-52R, 52J-52R 2.8.2001 2001-20 ss. 2-5, 36(3), 38(1), 86(1) 31.10.2002 2004-18 s. 64(2) 17.8.2004 2005-49 s. 90 2.8.2005 LN. 2010/158 ss. 74-77, 77A-77F, 78, 78A-78P, 89(1)
+
+4.11.2010
 
 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
 
-Transposing: Directive 77/187/EEC Directive 86/378 Directives 89/391/EEC Directive 91/533/EEC Directive 92/56/EEC Directives 92/85/EEC Directive 98/49/EC Regulation 1612/68
+Transposing: Directive 77/187/EEC Directive 86/378 Directives 89/391/EEC Directive 91/533/EEC Directive 92/56/EEC Directives 92/85/EEC Directive 98/49/EC Directive 98/59/EC Directive 2001/23/EC Regulation 1612/68
 
 Employment
 
@@ -76,15 +78,19 @@ Employment
 
 PART VIA Collective redundancies
 
-74. Interpretation and application. 75. Duty of employer to consult trade union representatives. 76. Duty to notify Director. 77. Prohibition of contracting out. 78. Offences.
+74. Part VIA: Application and scope. 75. Part VIA: Interpretation. 76. Duty of employer to consult employee representatives. 77. Election of employee representatives. 77A. Application to the Industrial Tribunal and protective award. 77B. Entitlement under protective award. 77C. Termination of employment during protected period. 77D. Application by employee to the Industrial Tribunal. 77E. Duty of employer to notify Director of certain redundancies. 77F. Prohibition of contracting out against Part VIA. 78. Offences.
 
 PART VIB Transfer of Undertakings
 
-78A. Effect of relevant transfer on contracts of employment, etc. 78B. Effect of relevant transfer on collective agreements. 78C. Exclusion of occupational pensions schemes. 78D. Dismissal of employee because of relevant transfer. 78E. Effect of relevant transfer on trade union recognition.
+Employment
+
+1932-16
+
+78A. Part VIB: Interpretation. 78B. Application of this Part and a relevant transfer. 78C. Effect of relevant transfer on contracts of employment. 78D. Effect of relevant  transfer on collective agreements. 78E. Effect of relevant transfer on trade union recognition. 78F. Dismissal of employee because of relevant transfer 78G. Variations of contract where transferors are subject to relevant insolvency proceedings. 78H. Pensions. 78I. Notification of employee liability information. 78J. Remedy for failure to notify employee liability information. 78K. Duty to inform and consult representatives. 78L. Election of employee representatives. 78M. Failure to inform or consult. 78N. Failure to inform or consult : supplemental. 78P. Contracting out against Part VIB. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. 90. Jurisdiction of the Supreme Court. Schedule 1.
 
 Employment
 
-1932-16 78F. Duty to inform and consult trade union representatives. 78G. Failure to inform or consult. 78H. Contracting out. 78I. Not In Use. 78J. A relevant transfer etc. 78K. Offences by bodies corporate. PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. 90. Jurisdiction of the Supreme Court. Schedule 1. Repealed. Schedule 2. Conventions.
+1932-16 Repealed. Schedule 2. Conventions.
 
 Employment
 
