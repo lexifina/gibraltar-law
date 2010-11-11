@@ -10,6 +10,12 @@ Act. No. 2009-24 Commencement except s.8 (LN.2010/004) 14.1.2010
 
 Assent 6.7.2009
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2010-25 ss. 2, 3(1), (7) & (11), 4(4)(b), 52(2) & (4), 99(11), 142, 147(6), 148(1), (2)(a), (7) & (8), 157(2)(d), (f), (g), (h), (i) & (j), & 158(12) & (13)
+
+11.11.2010
+
 English sources: Children Act 1989 (1989 Chapter 41).
 
 EU Legislation/International Agreements involved: Council Regulation (EC) No. 2201/2003 Convention on jurisdiction, applicable law, recognition, enforcement and co-operation in respect of parental responsibility and measures for the protection of children, signed at the Hague on the 19th day of October, 1996.
