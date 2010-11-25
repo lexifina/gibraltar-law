@@ -129,3 +129,9 @@ PART 2: ADDITIONAL MATTERS TO BE INCLUDED IN REVISED PLANS
 (d) any failure to achieve objectives, or prevent deterioration in status, as a result of new sustainable human development activities.
 
 16. A summary of any additional interim measures since the publication of the previous version of the plan.
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098

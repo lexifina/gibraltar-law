@@ -10,25 +10,25 @@ PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 7.10.2004
 
-Transposing: Directive 2000/60/EC
+Amending enactments Relevant current provisions Commencement date
 
-________________________
+LN. 2010/168 rr. 2(1), 10A-10B, 11A, 17A, 19 Sch.9-10 25.11.2010
 
-ARRANGEMENT OF RULES
-
-Rule
-
-1. Title. 2. Interpretation. 3. Duties. 4 Designation of river basin districts. 5. Characterisation of river basin district. 6. Economic analysis of water use in river basin district. 7. Bodies of water used for the abstraction of drinking water. 8. Register of protected areas. 9. Monitoring programmes. 10.  Environmental objectives and programmes of measures. 11.  River basin management plans. 12. River basin district management plans: public information and consultation. 13.  River basin management plans: approval. 14. River basin management plans: review. 15. Supplementary plans. 16. Duty to have regard to river basin management plans and supplementary plans. 17. Publication of information. 18.  Recovery of costs. 19. International coordination.
-
-SCHEDULE 1 Functional enactments.
-
-SCHEDULE 2
+Transposing: Directive 2000/60/EC Directive 2008/105/EC
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 Map of Gibraltar River Basin District.
+Subsidiary 2004/098 ARRANGEMENT OF RULES
+
+Rule
+
+1. Title. 2. Interpretation. 3. Duties. 4 Designation of river basin districts. 5. Characterisation of river basin district. 6. Economic analysis of water use in river basin district. 7. Bodies of water used for the abstraction of drinking water. 8. Register of protected areas. 9. Monitoring programmes. 10.  Environmental objectives and programmes of measures. 10A.  Environmental quality standards. 10B  Transboundary pollution. 11.  River basin management plans. 11A. Mixing zones. 12. River basin district management plans: public information and consultation. 13.  River basin management plans: approval. 14. River basin management plans: review. 15. Supplementary plans. 16. Duty to have regard to river basin management plans and supplementary plans. 17. Publication of information. 17A. Inventory of emissions, discharges and losses. 18.  Recovery of costs. 19. International coordination.
+
+SCHEDULE 1 Functional enactments.
+
+SCHEDULE 2 Map of Gibraltar River Basin District.
 
 SCHEDULE 3 Characterisation etc.
 
@@ -36,11 +36,19 @@ SCHEDULE 4 Economic analysis.
 
 SCHEDULE 5 Protected areas.
 
-SCHEDULE 6 Water status.
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 SCHEDULE 6 Water status.
 
 SCHEDULE 7 Environmental objectives.
 
 SCHEDULE 8 River basin management plans.
+
+SCHEDULE 9 Environmental Quality Standards for Priority Substances and Certain Other Pollutants
+
+SCHEDULE 10 List of Priority Substances in the Field of Water Policy
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
@@ -78,7 +86,9 @@ Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 “programme of measures” means the programme of measures required to comply with Article 11(2) to (6) of the Directive;
+Subsidiary 2004/098 “priority substances” means the substances identified in accordance with Article 16(2) of the Directive and listed in Schedule 10 to these Rules;
+
+“programme of measures” means the programme of measures required to comply with Article 11(2) to (6) of the Directive;
 
 “protected area” has the meaning given by rule 8(2);
 
@@ -102,13 +112,15 @@ Duties.
 
 Designation of river basin districts.
 
-4.  The area within the River Basin District Boundary as delineated in the map in Schedule 2 is designated the Gibraltar River Basin District.
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 Characterisation of river basin district.
+Subsidiary 2004/098
+
+4.  The area within the River Basin District Boundary as delineated in the map in Schedule 2 is designated the Gibraltar River Basin District.
+
+Characterisation of river basin district.
 
 5.(1)  The Competent Authority must in accordance with the provisions of Annex II of the Directive as set out in Schedule 3–
 
@@ -138,15 +150,13 @@ Bodies of water used for the abstraction of drinking water.
 
 (b) is intended to be used as mentioned in paragraph (a).
 
-(2)  Where a body of water provides more than 100 cubic metres per day of water intended for human consumption that body of water shall be monitored in accordance with rule 9.
-
-Register of protected areas.
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098
+Subsidiary 2004/098 (2)  Where a body of water provides more than 100 cubic metres per day of water intended for human consumption that body of water shall be monitored in accordance with rule 9.
+
+Register of protected areas.
 
 8.(1)  The Competent Authority must for the river basin district-
 
@@ -180,15 +190,15 @@ Monitoring programmes.
 
 (b) made operational by 22nd December 2006.
 
-Environmental objectives and programmes of measures.
-
-10.(1)  For the purposes of the river basin management plan for the river basin district the Competent Authority must prepare proposals for–
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
 Subsidiary 2004/098
+
+Environmental objectives and programmes of measures.
+
+10.(1)  For the purposes of the river basin management plan for the river basin district the Competent Authority must prepare proposals for–
 
 (a) the environmental objectives for the river basin district; and
 
@@ -218,15 +228,69 @@ and, in any case falling within sub-paragraph (b) or (c), must state its reasons
 
 (4)  The Competent Authority must in accordance with Article 11 of the Directive ensure that a programme of measures is–
 
-(a) established by 22nd December 2009;
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 (a) established by 22nd December 2009;
 
 (b) made operational by 22nd December 2012; and
+
+(c) reviewed and if necessary updated by 22nd December 2015 and every six years after that date.
+
+Environmental quality standards.
+
+10A.(1) The Competent Authority must apply the Environmental Quality Standards(EQS) listed in Part A of Schedule 9 to these Rules for bodies of surface water in accordance with the requirements laid down in Part B of that Schedule.
+
+(2) The Competent Authority may opt to apply EQS for sediment or biota or both instead of those laid down in Part A of Schedule 9 in certain categories of surface water.
+
+(3) Where the Competent Authority decides to apply the option mentioned in subrule (2), it must
+
+(a) apply, for mercury and its compounds, an EQS of 20 μg/kg, and/or for hexachlorobenzene, an EQS of 10 μg/kg, and/or for hexachlorobutadiene, an EQS of 55 μg/kg, these EQS being for prey tissue (wet weight), choosing the most appropriate indicator from among fish, molluscs, crustaceans and other biota;
+
+(b) establish and apply EQS other than those mentioned in paragraph (a) for sediment or biota or both for specified substances and these EQS must offer at least the same level of protection as the EQS for water set out in Part A of Schedule 9;
+
+(c) determine, for the substances mentioned in paragraphs (a) and (b), the frequency of monitoring in biota or sediment or both and such monitoring must take place at least once every year, unless technical knowledge and expert judgment justify another interval; and
+
+(d) ensure that the Commission and Member States are notified of
+
+(i) the substances for which EQS have been established in accordance with paragraph (b);
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 (c) reviewed and if necessary updated by 22nd December 2015 and every six years after that date.
+Subsidiary 2004/098
+
+(ii) the reasons and basis for using this approach;
+
+(iii) the alternative EQS established, including the data and the methodology by which alternative EQS were derived;
+
+(iv) the categories of surface water to which they would apply; and
+
+(v) the frequency of monitoring planned, together with the justification for that frequency.
+
+(4) The Competent Authority must arrange for the long-term trend analysis of concentrations of those priority substances listed in Part A of Schedule 9 that tend to accumulate in sediment or biota or in both, giving particular consideration to substances numbers 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28 and 30, on the basis of monitoring of water status carried out in accordance with rule 9 and they shall take measures aimed at ensuring, subject to Schedule 7, that such concentrations do not significantly increase in sediment or relevant biota or in both.
+
+(5) The Competent Authority must determine the frequency of monitoring in sediment or biota or in both so as to provide sufficient data for a reliable long-term trend analysis and, as a guideline, such monitoring must take place every three years, unless technical knowledge and expert judgment justify another interval.
+
+Transboundary pollution.
+
+10B.(1) The Competent Authority shall not be in breach of its obligations under these Rules as a result of the exceedance of an EQS if it can demonstrate that
+
+(a) the exceedance was due to a source of pollution outside Gibraltar;
+
+(b) it was unable, as a result of such transboundary pollution, to take effective measures to comply with the relevant EQS; and
+
+(c) it had applied the coordination mechanisms set out in Article 3 of the Directive and, as appropriate, taken advantage of the provisions of Article 4(4), (5) and (6) of the Directive for those water bodies affected by transboundary pollution.
+
+(2) In a situation under subrule (1), the Competent Authority must use the mechanism laid down in Article 12 of the Directive to ensure that the
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 Commission is provided with necessary information and a summary of the measures taken in relation to any transboundary pollution in the relevant river basin management plan in accordance with the reporting requirements under Article 15(1) of the Directive”.
 
 River basin management plans.
 
@@ -237,6 +301,30 @@ River basin management plans.
 (a) be published by 22nd December 2009;
 
 (b) reviewed and updated by 22nd December 2015 and every six years after that date.
+
+Mixing zones.
+
+11A.(1) The Competent Authority may designate mixing zones adjacent to points of discharge.
+
+(2) Concentrations of one or more substances listed in Part A of Schedule 9 may exceed the relevant EQS within such mixing zones if they do not affect the compliance of the rest of the body of surface water with those standards.
+
+(3) In designating the mixing zones, the Competent Authority must include in river basin management plans produced in accordance with rule 11 a description of
+
+(a) the approaches and methodologies applied to define such zones; and
+
+(b) measures taken with a view to reducing the extent of the mixing zones in the future, such as those measures taken pursuant to Article 11(3)(k) of the Directive or by reviewing relevant permits or prior regulations as referred to in Article 11(3)(g) of the Directive.
+
+(4) In designating mixing zones the Competent Authority must ensure that the extent of any such zone is
+
+(a) restricted to the proximity of the point of discharge; and
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098
+
+(b) proportionate, having regard to the concentrations of pollutants at the point of discharge and to the conditions on emissions of pollutants contained in the prior regulations, in accordance with the application of best available techniques and Article 10 of the Directive, in particular after those prior regulations are reviewed.
 
 River basin district management plans: public information and consultation.
 
@@ -256,15 +344,17 @@ River basin district management plans: public information and consultation.
 
 (a) make copies of the statement, summary or draft plan accessible to the public;
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 (b) publish a notice–
+(b) publish a notice–
 
 (i) stating the fact of publication;
 
 (ii) specifying the arrangements made for making copies of the statement, summary or draft plan available for public inspection; and
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098
 
 (iii) stating that any person may within the period of six months beginning with the date of publication, or such longer period as the Competent Authority may direct, make representations to the Competent Authority in relation to the statement, summary or draft plan;
 
@@ -292,17 +382,15 @@ and must state its reasons for doing so.
 
 River basin management plans: review.
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098
-
 14.(1)  The Competent Authority must review and update a river basin management plan by no later than six years from the date on which it was approved under rule 13.
 
 (2)  The revised plan must include the matters specified in Part 2 of Schedule 8, in addition to the matters required to be included by rule 11.
 
-(3)  Rules 11(1), 12 and 13 apply in relation to the preparation, submission and approval of a revised river basin management plan.
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 (3)  Rules 11(1), 12 and 13 apply in relation to the preparation, submission and approval of a revised river basin management plan.
 
 Supplementary plans.
 
@@ -330,11 +418,7 @@ Duty to have regard to river basin management plans and supplementary plans.
 
 (b) so far as relevant, any plan prepared under rule 15 for the purpose of supplementing the river basin management plan.
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 Publication of information.
+Publication of information.
 
 17.(1)  The Competent Authority must make accessible to the public–
 
@@ -342,7 +426,11 @@ Subsidiary 2004/098 Publication of information.
 
 (b) the results of the analysis conducted under rule 6;
 
-(c) maps showing areas identified under rule 7;
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 (c) maps showing areas identified under rule 7;
 
 (d) the registers prepared under rule 8;
 
@@ -354,9 +442,31 @@ Subsidiary 2004/098 Publication of information.
 
 (2)  Where the Competent Authority receives a request for access to documents and information used for the development of the draft river basin management plan it shall make those documents in its possession accessible.
 
+Inventory of emissions, discharges and losses.
+
+17A.(1) The Competent Authority must, on the basis of the information collected in accordance with rules 5 to 7, Regulation (EC) No 166/2006 and other available data, establish an inventory, including maps, if available, of emissions, discharges and losses of all priority substances and pollutants listed in Part A of Schedule 9 for the Gibraltar River Basin District or part of a river basin district lying within Gibraltar including their concentrations in sediment and biota, as appropriate.
+
+(2) The Competent Authority must–
+
+(a) ensure that the inventories established under subrule (1) are communicated to the Commission;
+
+(b) update those inventories as part of reviews under rule 5(2); and
+
+(c) publish those updated inventories in its updated river basin plans under rule 11(2).
+
+(3) The reference period for the establishment of –
+
+(a)   pollutant values to be entered in the inventories referred to in subrule (1) shall be one year between 2008 and 2010; and
+
+(b)  values in the updated inventories under subrule (2) shall be the year before the analysis is to be completed.
+
 Recovery of costs.
 
-18.  The Competent Authority must ensure that by no later than 1 January 2010–
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 18.  The Competent Authority must ensure that by no later than 1 January 2010–
 
 (a) the water-pricing policies provide adequate incentives for users to use water resources efficiently; and
 
@@ -364,15 +474,11 @@ Recovery of costs.
 
 International coordination.
 
-19.  For the purposes of Article 13(2)(a) of the Directive the Competent Authority–
+19.  For the purposes of Article 13(2) of the Directive the Competent Authority–
 
 (a) shall be responsible for receiving and transmitting requests relating to any matter concerning these Rules; and
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 (b) is designated the contact point for any international information or coordination issues.
+(b) is designated the contact point for any international information or coordination issues.
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
