@@ -10,9 +10,15 @@ END-OF LIFE VEHICLES RULES 2004
 
 Commencement 18.11.2004
 
-Transposing: Directive 2000/53/EC Commission Decision 2002/151/EC Commission Decision 2002/525/EC
+Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010
 
-________________________
+Transposing: Directive 2000/53/EC Directive 2008/112/EC Commission Decision 2002/151/EC Commission Decision 2002/525/EC
+
+Public Health END-OF LIFE VEHICLES RULES 2004
+
+1950-07
+
+Subsidiary 2004/106
 
 ARRANGEMENT OF RULES
 
@@ -32,17 +38,17 @@ Part III Information Requirements
 
 Part IV Certificate of Destruction
 
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106
-
 10.  Interpretation. 11.  Issue of the certificate of destruction. 12.  Prohibition of charges. 13.  Form and content of certificate of destruction. 14.  Duty to notify Licensing Authority. 15. Certificates of destruction and changes to the register kept and maintained by the Licensing Authority in respect of the end-of life vehicle. 16.  Maintenance of electronic systems. 17.  Certificates of destruction issued by other EEA states. 18.  Restrictions on disclosure of information.
 
 Part V Delivery of end-of life vehicles to treatment facilities
 
-19.  Application. 20.  Delivery of an end-of life vehicle to a treatment facility. 21.  Producers to meet significant part of costs. 22.  Offences.
+19.  Application. 20.  Delivery of an end-of life vehicle to a treatment facility.
+
+Public Health END-OF LIFE VEHICLES RULES 2004
+
+1950-07
+
+Subsidiary 2004/106 21.  Producers to meet significant part of costs. 22.  Offences.
 
 Part VI Storage and treatment of end-of life vehicles
 
@@ -50,13 +56,7 @@ Part VI Storage and treatment of end-of life vehicles
 
 Part VII Final provisions
 
-38.  Power of Enforcement Authority to prevent or remedy pollution.
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106 39.  Appeals to Magistrates’ Court. 40.  Offences. 41.  Amendments to the Traffic (Licensing and Registration) Regulations.
+38.  Power of Enforcement Authority to prevent or remedy pollution. 39.  Appeals to Magistrates’ Court. 40.  Offences. 41.  Amendments to the Traffic (Licensing and Registration) Regulations.
 
 Schedule 1 Minimum requirements for the certificate of destruction issued in accordance with article 5(3) of Directive 2002/151/EC.
 
@@ -65,6 +65,12 @@ Schedule 2 Specimen form of compliance notice.
 Schedule 3 Technical requirements for the treatment and storage of end-of life vehicles.
 
 Schedule 4 General rules (as required to be adopted further to article 11(1) of the waste directive).
+
+Public Health END-OF LIFE VEHICLES RULES 2004
+
+1950-07
+
+Subsidiary 2004/106
 
 Schedule 5 Recovery operations.
 
