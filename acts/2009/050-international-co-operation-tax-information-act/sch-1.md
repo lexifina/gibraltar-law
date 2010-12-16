@@ -16,7 +16,7 @@ Column 1 Column 2 Column 3 Column 4 Country Date of Agreement Date on which Agre
 
 International Co-Operation (Tax Information)
 
-2009-50 28 January 2010 Portugal 14 October 2009 Not in operation Legal Notice No.32 of 2010, dated 28 January 2010 Sweden 16 December 2009 3 July 2010 Legal Notice No.33 of 2010, dated 28 January 2010 United Kingdom 27 August 2009 Not in operation Legal Notice No.34 of 2010, dated 28 January 2010 United States of America 31 March 2009 22 December 2009 Legal Notice No.88 of 2009, dated 22 December 2009
+2009-50 28 January 2010 Portugal 14 October 2009 Not in operation Legal Notice No.32 of 2010, dated 28 January 2010 Sweden 16 December 2009 3 July 2010 Legal Notice No.33 of 2010, dated 28 January 2010 United Kingdom 27 August 2009 15 December 2010 Legal Notice No.34 of 2010, dated 28 January 2010 United States of America 31 March 2009 22 December 2009 Legal Notice No.88 of 2009, dated 22 December 2009
 
 International Co-Operation (Tax Information)
 
