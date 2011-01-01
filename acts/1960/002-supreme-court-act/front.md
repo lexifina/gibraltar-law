@@ -58,7 +58,9 @@ Acts. 1971-14 s.28(2)
 
 Supreme Court
 
-1960-02 2010-10 s.12A 6.5.2010 2010-16 s. 36B 8.7.2010
+1960-02 2010-10 s.12A 6.5.2010 2010-16 s. 36B 8.7.2010 2010-201 ss. 19 to 22I, 23 to 27, 27A to 27V, 35A, Schs. 2, 3 & 4
+
+1.1.20112
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
@@ -67,6 +69,18 @@ The Supreme Court Fund Regulations are printed under the title Public Finance (C
 Transposing: Directive 77/249/EEC Directive 98/5/EC Directive 2006/100/EC
 
 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
+
+1 Transitional and miscellaneous provisions.
+
+7.(1)  The jury list which was in force immediately before section 3 of this Act came into operation shall be deemed to remain in force until such time as a new list has come into force in accordance with section 19B of the Supreme Court Act (as inserted by this Act).
+
+(2)  Notwithstanding section 19B(4) of the Supreme Court Act (as inserted by this Act) the first jury list complied under section 19B shall come into force on the day it is received by the Registrar following certification by the clerk of the magistrates’ court
+
+(3)  The first jury list complied under section 19B shall remain in force until the 30th September 2011.
+
+(4)  The Minister may by order amend Schedule 4 to the Supreme Court Act.
+
+2 See LN. 2010/183
 
 Supreme Court
 
@@ -226,11 +240,19 @@ PART II. JURISDICTION AND POWERS.
 
 PART III. TRIAL BY JURY.
 
-19. Liability to jury Service. 20. Eligibility for jury service. 21. Disqualifications. 22. Jury list. 23. Service of summons. 24. Application of Part VII of the Criminal Procedure Act to civil actions. 25. Jurors may be required to stand by. 26. Verdicts in civil cases actions.
+19. Repealed 19A.  Qualification for jury service. 19B.  Jury list. 19C.  Service of summons. 19D.   Withdrawal or alteration of summons. 19E.  Attendance and service. 19F.  Excusal for previous jury service. 19G.  Excusal for certain persons. 19H.  Discretionary excusal.
 
 Supreme Court
 
-1960-02 27. Remuneration of jurors.
+1960-02 19I. Discretionary deferral. 19J.   Discharge of summons in case of doubt as to capacity. 20. Repealed 20A.  Number of jurors. 20B.  Choosing the jury. 20C.   Summoning in exceptional circumstances. 20D.  Challenge. 21. Repealed 21A.  Swearing of juror. 21B.  Appointment of foreman. 21C.  Continuation of trial on death or discharge of juror. 21D.  Discharge of jury: General power. 21E.  Discharge of jury for jury tampering. 21F.  Delivery of verdicts. 21G.  Majority verdicts. 21H.  Jury unable to reach verdict. 21I. Stay or reversal of judgment. 22. Repealed 22A.  Views. 22B  Separation. 22C.  Documents produced as exhibits. 22D.   Refreshment. 22E.  Payment for jury service. 22F.  Offences and penalties. 22G.  Application of Part III to civil actions. 22H.  Jurors may be required to stand by. 22I. Verdicts in civil actions. 23 to 27 Repealed
+
+PART IIIA TRIAL WITH LAY ASSESSORS
+
+27A. 27B.  Application by prosecution for case to be conducted with lay assessors. 27C.  Procedure for applications under section 27B. 27D.  Effect of an order for trial with lay assessors. 27E.  Lay assessors list. 27F.  Procedure for approval as a lay assessor. 27G.  Inclusion on the lay assessors list. 27H.  Service of summons. 27I. Attendance and excusal. 27J. Number of lay assessors. 27K.  Selection of lay assessors. 27L.  Challenge to lay assessors. 27M.  Discharge of assessors.
+
+Supreme Court
+
+1960-02 27N.  Commencing or continuing trial without assessors. 27O. Role of lay assessors. 27P.  Verdict in trial with lay assessors. 27Q.  Judgment in trial by judge alone. 27R.  Stay or reversal of judgment. 27S.  Refreshment and payment. 27T.  Offences by lay assessors. 27U.  Rules of court. 27V.   Amendment of Schedule 4.
 
 PART IV. BARRISTERS AND SOLICITORS.
 
@@ -244,13 +266,13 @@ PART V. MISCELLANEOUS.
 
 36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 36B.  Recovery of insurance premiums by way of costs. 37. Rules regulating funds in court. 38. Rules of court. 38A. Civil Procedure Rules. 38B. Masters.
 
-PART VI EUROPEAN LAWYERS: INTRODUCTORY
-
-39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer.
+PART VI
 
 Supreme Court
 
-1960-02 45. Joint practice. 46. Name of joint practice. 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
+1960-02 EUROPEAN LAWYERS: INTRODUCTORY
+
+39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer. 45. Joint practice. 46. Name of joint practice. 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
 
 PART VIII REGISTRATION OF EUROPEAN LAWYERS
 
@@ -262,13 +284,13 @@ PART IX REGULATION AND DISCIPLINE
 
 PART X ENTRY OF EUROPEAN LAWYERS INTO THE PROFESSION OF SOLICITOR OR BARRISTER
 
-64. Application by registered European lawyer. 65. Decision by the competent authority. 66. Evidence in support of application for exemption under section 64(2). 67. Evidence in support of application for exemption under section 64(3). 68. Meaning of “effectively and regularly pursued”. 69. Time limit for decision and notification by professional body. 70. Appeal by registered European lawyer. 71. Practice under the title of solicitor or barrister.
-
-PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
+64. Application by registered European lawyer. 65. Decision by the competent authority. 66. Evidence in support of application for exemption under section 64(2).
 
 Supreme Court
 
-1960-02
+1960-02 67. Evidence in support of application for exemption under section 64(3). 68. Meaning of “effectively and regularly pursued”. 69. Time limit for decision and notification by professional body. 70. Appeal by registered European lawyer. 71. Practice under the title of solicitor or barrister.
+
+PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
 
 72. Modification of enactments.
 
@@ -276,6 +298,12 @@ PART X
 
 73. Regulations
 
-SCHEDULE
+SCHEDULE 1
+
+SCHEDULE 2 Persons disqualified from jury service
+
+SCHEDULE 3
+
+SCHEDULE 4 FINANCIAL OFFENCES
 
 Supreme Court
