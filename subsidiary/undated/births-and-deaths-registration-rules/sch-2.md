@@ -28,4 +28,4 @@ FEES.
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-Subsidiary 1934.09.11 1887-01
+1887-01 Subsidiary 1934.09.11

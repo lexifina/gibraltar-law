@@ -160,7 +160,7 @@ Last seen alive by me . . . . . day of . . . . . . . . . . . . . 20 . . . . . .
 
 }
 
-Please ring appropria te digits and letter {
+Please ring appropriate digits and letter {
 
 A. Seen after death by me.
 
@@ -172,47 +172,55 @@ CAUSE OF DEATH The condition thought to be the “underlying Cause of Death” s
 
 These particulars not to be entered in the register. Approximate interval between onset and death.
 
-I (a) Disease or condition directly leading to death*. . . . . . . . . . . . . .
+I(a) Disease or condition directly leading to death*. . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . (b) Other disease or condition, if any, leading to I(a) . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . (c) Other disease or condition leading to I(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . II Other significant conditions CONTRIBUTING TO THE DEATH but not related to the disease or condition causing it. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . .
+
+(b) Other disease or condition, if any, leading
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-1887-01 Subsidiary 1934.09.11 . . . . . . . . . . .
+1887-01 Subsidiary 1934.09.11 to I(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (c) Other disease or condition leading to I(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+II Other significant conditions CONTRIBUTING TO THE DEATH but not related to the disease or condition causing it. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 The death might be due to or
 
 contributed to by the employment followed at some time by the deceased.
 
-Please tick where applicable
+YES/NO
+
+[Delete whichever is not applicable]
 
 * This does not mean the mode of dying, such as Heart Failure, Asphixia, Asthenia, etc; it means the Disease, Injury or Complication which caused death.
 
-A. Do you have any reason to suspect that the death might be due, directly or indirectly, to (a)  violence? (b)  poison? (c)  privation or neglect? Please tick where applicable
+A. Do you have any reason to suspect that the death might be due, directly or indirectly, to (a)  violence?                                                               YES/NO (b)  poison?                                                                  YES/NO (c)  privation or neglect?                                              YES/NO
 
-□ □ □
+[Delete whichever is not applicable]
 
-B. Has the deceased been fitted with- (a)  a cardiac-pacemaker? (b)  a radio-active or other implant? If the answer to either of the questions above is yes- (c)  has it/they been removed? Please tick where applicable
+_____________________________________________________
 
-□ □
-
-□
-
-C. Is there any impediment to the body being cremated? Please ring the appropriate answer. If the answer is YES please set out the impediment.
-
-YES/NO (The particulars in A-C are not to be entered in the register)
-
-I hereby certify that I was in Medical attendance during the above-named deceased’s last illness and that the particulars and cause of death above written are true to the best of my knowledge and belief
-
-Signature . . . . . . . . . . . . . . .  Qualifications . . . . . . . . . . .
-
-(as Registered)
-
-Residence . . . . . . . . . . . . . . . . . . .   Date . . . . . . . . . . . . .
+B. Has the deceased been fitted with- (a)  a cardiac-pacemaker?                                            YES/NO (b)  a radio-active or other implant?                            YES/NO If the answer to either of the questions above is yes (c)  has it/they been removed?                                     YES/NO
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-Subsidiary 1934.09.11 1887-01
+Subsidiary 1934.09.11 1887-01 [Delete whichever is not applicable]
+
+C. Is there any impediment to the body being cremated? YES/NO Please ring the appropriate answer. If the answer is YES please set out the impediment.
+
+[Delete whichever is not applicable]
+
+(The particulars in A-C are not to be entered in the register)
+
+I hereby certify that I was in Medical attendance during the above-named deceased’s last illness and that the particulars and cause of death above written are true to the best of my knowledge and belief
+
+Signature . . . . . . . . . . . . . . .                     Qualifications . . . . . . . . . . .
+
+(as Registered) Residence . . . . . . . . . . . . . . . .                    Date . . . . . . . . . . . . .
+
+Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
+
+1887-01 Subsidiary 1934.09.11
 
 FORM E.—DECLARATION AS TO DEATH.
 
@@ -256,7 +264,7 @@ Signature, description, and  residence of informant . . . . . . . . . . . . . . 
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-1887-01 Subsidiary 1934.09.11 Taken and declared by the above-named, at the registry office for Births and Deaths in Gibraltar, this
+Subsidiary 1934.09.11 1887-01 Taken and declared by the above-named, at the registry office for Births and Deaths in Gibraltar, this
 
 day of
 
@@ -270,7 +278,7 @@ Registrar of Births and Deaths.
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-Subsidiary 1934.09.11 1887-01
+1887-01 Subsidiary 1934.09.11
 
 FORM F.—CORONER'S CERTIFICATE OF DEATH.
 
@@ -316,7 +324,7 @@ Coroner.
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-1887-01 Subsidiary 1934.09.11
+Subsidiary 1934.09.11 1887-01
 
 FORM G.—REGISTRAR’S CERTIFICATE OF DEATH TO SUPERINTENDENT OF THE CEMETERY, MINISTER OR PERSON IN CHARGE OF BODY ABOUT TO BE BURIED.
 
@@ -358,7 +366,7 @@ Coroner.
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-Subsidiary 1934.09.11 1887-01
+1887-01 Subsidiary 1934.09.11
 
 FORM I.—CERTIFICATE BY PERSON IN CHARGE OF FUNERAL.
 
@@ -394,7 +402,7 @@ was fully registered by (me) on the day of 20      , as follows:–
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-1887-01 Subsidiary 1934.09.11
+Subsidiary 1934.09.11 1887-01
 
 Witness my hand this
 
@@ -432,7 +440,7 @@ Observations
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-Subsidiary 1934.09.11 1887-01
+1887-01 Subsidiary 1934.09.11
 
 FORM L.—REGISTRAR'S CERTIFICATE FOR BURIAL OF STILLBORN CHILD.
 
@@ -446,7 +454,7 @@ Registrar of Births and Deaths.
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-1887-01 Subsidiary 1934.09.11
+Subsidiary 1934.09.11 1887-01
 
 FORM M.—DECLARATION AS TO STILLBIRTH.
 
@@ -478,7 +486,7 @@ Signature . . . . . . . . . . . . . . . . . . .
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-Subsidiary 1934.09.11 1887-01
+1887-01 Subsidiary 1934.09.11
 
 State whether “Mother” or “Father” of the child or in what other capacity liable to   give   information concerning   the stillbirth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -486,7 +494,7 @@ Date. . . . . . . . . . . . . . . . . . . . . . .
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-1887-01 Subsidiary 1934.09.11
+Subsidiary 1934.09.11 1887-01
 
 FORM N– REGISTER OF STILLBIRTHS
 
@@ -536,7 +544,7 @@ Remarks
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-Subsidiary 1934.09.11 1887-01
+1887-01 Subsidiary 1934.09.11
 
 FORM O Rule 3(2)
 
@@ -572,7 +580,7 @@ Dated
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-1887-01 Subsidiary 1934.09.11
+Subsidiary 1934.09.11 1887-01
 
 FORM P Rule 3(3)
 
@@ -610,7 +618,7 @@ Dated
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-Subsidiary 1934.09.11 1887-01 Part B Request by mother for re-registration of birth
+1887-01 Subsidiary 1934.09.11 Part B Request by mother for re-registration of birth
 
 I, the mother of the child named above, request the re-registration of the child’s birth to show the following person as the biological father of the child–
 
@@ -626,4 +634,4 @@ Dated
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
-1887-01 Subsidiary 1934.09.11
+Subsidiary 1934.09.11 1887-01
