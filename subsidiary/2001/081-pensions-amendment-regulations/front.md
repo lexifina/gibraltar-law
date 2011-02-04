@@ -1,11 +1,19 @@
-Pensions
+Subsidiary Legislation made under s.3.
 
-1961-13
+Pensions (Amendment) Regulations 2001
 
-Subsidiary 2001/081 Regulations made under section 3 of the Pension Act
+LN.2001/081
 
-PENSIONS (AMENDMENT) REGULATIONS 2001
+Commencement 1.1.2001
 
-(L.N. 2001/081)
+Amending enactments Relevant current provisions Commencement date
 
-1.1.2001
+LN. 2018/142 r. 2 4.2.2011
+
+_______________________
+
+ARRANGEMENT OF REGULATIONS
+
+Regulation
+
+1. Title and application. 2. Pensions for non-pensionable officers. 3. Consequential matters.
