@@ -16,9 +16,9 @@ Amending enactments Relevant current provisions Commencement date Acts. 1981-18 
 
 7.5.1987 1988-36 s.15E(2) 15.12.1988 1989-04 s.21 2.3.1989 2004-20 s.15A 17.8.2004 2007-05 ss. 2, 3, 4(2), 5, 7(3), 10(2)(c) & (3), 13(1A), 14(1), (4)(a) & (b) & (5), 15(2)(c), 15B(2)(a), 15C(2)(a), 15D, 15E(1) & (2), 15F, 17(1) & (3), 18(3), 20(1), 22 & 23
 
-26.4.20071
+26.4.20071 2011-042 ss. 15B to 15H. 10.2.2011
 
-1 Commencement notice LN. 2007/063.
+1 Commencement notice LN. 2007/063. 2 Sections 15B to 15H of the Development Aid Act shall be deemed to continue to operate in respect of any development to which those sections applied prior to the coming into operation of this Act.
 
 Development Aid
 
@@ -40,19 +40,11 @@ Issue of Licences.
 
 Benefits under Licences.
 
-14. Relief of gains and profits from income tax. 15. Relief of dividends from income tax. 15A.  Relief from import duty. 15B.  Rating relief for residential hereditaments in development projects. 15C. Rating Relief for non residential hereditaments in development projects. 15D. 15E.
-
-15F.
-
-15G. 15H.
+14. Relief of gains and profits from income tax. 15. Relief of dividends from income tax. 15A.  Relief from import duty. 15B. to 15H. Repealed.
 
 Miscellaneous Provisions.
 
-16. Cancellation of licences. 17. Applications for review. 18. Publication of decisions. 19. Power of Commissioner to defer assessment.
-
-Development Aid
-
-1981-15 20. Regulations. 21. Repealed. 22-23. Repealed
+16. Cancellation of licences. 17. Applications for review. 18. Publication of decisions. 19. Power of Commissioner to defer assessment. 20. Regulations. 21. Repealed. 22-23. Repealed
 
 Development Aid
 
