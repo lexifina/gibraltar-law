@@ -1,16 +1,14 @@
-Counter-Terrorism
-
-2010-01
-
-COUNTER-TERRORISM ACT 2010
+Counter-Terrorism Act 2010
 
 Principal Act
 
-Act. No. 2010-01 Commencement (LN. 2010/083) 29.4.2010
+Act. No. 2010-01 Commencement (LN.2010/083) 29.4.2010
 
 Assent 24.3.2010
 
-______________________
+Amending enactments Relevant current provisions Commencement date
+
+Act  2011-01 s. 38 10.2.2011
 
 ARRANGEMENT OF SECTIONS
 
@@ -32,20 +30,16 @@ Procedural provisions and licensing
 
 Enforcement
 
-15. Enforcement officers. 16. Power to require information or documents. 17. Entry, inspection without a warrant etc. 18. Entry to premises under warrant.
-
-Counter-Terrorism
-
-2010-01 19. Restrictions on powers. 20. Failure to comply with information requirement. 21. Power to impose civil penalties. 22. Imposition of penalty: procedure. 23. Appeal against imposition of civil penalty. 24. Payment and recovery of civil penalties.
+15. Enforcement officers. 16. Power to require information or documents. 17. Entry, inspection without a warrant etc. 18. Entry to premises under warrant. 19. Restrictions on powers. 20. Failure to comply with information requirement. 21. Power to impose civil penalties. 22. Imposition of penalty by enforcement authority: procedure. 23. Appeal against imposition of civil penalty. 24. Payment and recovery of civil penalties.
 
 Offences
 
-25. Offences: failure to comply with requirement imposed by direction. 26. Offences in connection with licences. 27. Extra-territorial application of offences. 28. Prosecution of offences. 29. Jurisdiction to try offences. 30. Liability of officers of bodies corporate etc. 31. Proceedings against unincorporated bodies.
+25. Offences: failure to comply with requirement imposed by direction. 26. Offences in connection with licences.
+
+27. Extra-territorial application of offences. 28. Prosecution of offences. 29. Jurisdiction to try offences. 30. Liability of officers of bodies corporate etc. 31. Proceedings against unincorporated bodies.
 
 Supplementary and general
 
 32. Supervisory authority. 33. Supervision by supervisory authority. 34. Assistance in preparing guidance. 35. Notices. 36. Crown application. 37. Regulations. 38. Governor’s constitutional responsibilities.
 
-Counter-Terrorism
-
-2010-01 AN ACT TO PROVIDE FOR REGULATION OF CERTAIN FINANCIAL BUSINESSES THROUGH THE IMPOSITION OF COUNTER- MEASURES AGAINST CERTAIN COUNTRIES, TERRITORIES, GOVERNMENTS, NATURAL OR CORPORATE PERSONS IN CONNECTION WITH TERRORIST FINANCING, MONEY LAUNDERING AND THE PROLIFERATION OF WEAPONS OF MASS DESTRUCTION; AND TO PROVIDE A FRAMEWORK FOR THEIR ENFORCEMENT, SUPERVISION AND EXEMPTION, AS APPROPRIATE.
+AN ACT TO PROVIDE FOR REGULATION OF CERTAIN FINANCIAL BUSINESSES THROUGH THE IMPOSITION OF COUNTER-MEASURES AGAINST CERTAIN COUNTRIES, TERRITORIES, GOVERNMENTS, NATURAL OR CORPORATE PERSONS IN CONNECTION WITH TERRORIST FINANCING, MONEY LAUNDERING AND THE PROLIFERATION OF WEAPONS OF MASS DESTRUCTION; AND TO PROVIDE A FRAMEWORK FOR THEIR ENFORCEMENT, SUPERVISION AND EXEMPTION, AS APPROPRIATE.
