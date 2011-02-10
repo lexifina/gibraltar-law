@@ -8,7 +8,7 @@ PART I
 
 3.  An inspector who intends to take a sample shall satisfy himself that the conditions in which the material concerned is stored are not such as might have caused undue deterioration of it, and that it appears not to have been contaminated with any other material.
 
-4.  The sample shall be taken and prepared as quickly as possible, having regard to the precautions necessary to ensure that it remains representative of the sampled portion.  Instruments, surfaces and containers used in sampling shall be clean and dry.
+4.  The sample shall be taken and prepared as quickly as possible, having regard to the precautions necessary to ensure that it remains representative of the sampled portion. Instruments, surfaces and containers used in sampling shall be clean and dry.
 
 5.  No sample shall be drawn from any part of the sampled portion which appears to be damaged.
 
@@ -21,12 +21,6 @@ PART I
 (a) a flat bottomed shovel with vertical sides;
 
 (b) a sampling spear with dimensions appropriate to the characteristics of the sampled portion in all respects, including dimensions of the container and particle size of the feeding stuff;
-
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103
 
 (c) mechanical apparatus which, if used for the purpose of sampling a feeding stuff being moved at the time the sample is taken, must be capable of taking samples right across the flow of the product;
 

@@ -1,24 +1,18 @@
-Public Health ANIMAL FEEDING STUFFS RULES 2004
+Subsidiary Legislation made under s.337.
 
-1950-07
+Animal Feeding Stuffs Rules 2004
 
-Subsidiary 2004/103 Rules made under s. 337 of the Public Health Act and section 23(g)(i) of the Interpretation and General Clauses Act.
+LN.2004/103
 
-ANIMAL FEEDING STUFFS RULES 2004
+Commencement 28.10.2004
 
-(LN. 2004/103)
+Amending enactments Relevant current provisions Commencement date
 
-28.10.2004
+LN. 2008/028 Sch. 1 24.4.2008 2010/099 Sch. 1 27.5.2010 2011/011 Sch. 1 10.2.2011
 
-Amending enactments Relevant current provisions Commencement date LN. 2008/028 Sch. 1 24.4.2008 2010/099 Sch. 1 27.5.2010
+Transposing: Directive 2002/32/EC Directive 2003/57/EC Directive 2003/100/EC Directive 2006/77/EC Directive 2010/6/EU
 
-Transposing: Directive 2002/32/EC Directive 2003/57/EC Directive 2003/100/EC Directive 2006/77/EC
-
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 ARRANGEMENT OF RULES
+ARRANGEMENT OF RULES
 
 Rule
 
@@ -28,11 +22,7 @@ SCHEDULE I PRESCRIBED LIMITS FOR UNDESIRABLE SUBSTANCES
 
 SCHEDULE II
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 Title.
+Title.
 
 1.  These Rules may be cited as the Animal Feeding Stuffs Rules 2004.
 
@@ -60,12 +50,6 @@ Interpretation.
 
 “complete feeding stuffs” means mixtures of feeding stuffs which, by reason of their composition, are sufficient for a daily ration;
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103
-
 “compound feeding stuffs” means mixtures of feed materials, whether or not containing additives, which are intended for oral animal feeding as complete or complementary feeding stuffs;
 
 “daily ration” means the average total quantity of feeding stuffs, calculated on a moisture content of 12%, required daily by an animal of a given species, age, class and yield, to satisfy all its needs;
@@ -86,11 +70,7 @@ Subsidiary 2004/103
 
 Control of feeding stuffs containing undesirable substances.
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 3.(1)  No person shall put into circulation or use for feeding stuffs in Gibraltar any products intended for feeding stuffs unless they are sound, genuine and of merchantable quality and when correctly used do not represent any danger to human health, animal health or to the environment.
+3.(1)  No person shall put into circulation or use for feeding stuffs in Gibraltar any products intended for feeding stuffs unless they are sound, genuine and of merchantable quality and when correctly used do not represent any danger to human health, animal health or to the environment.
 
 (2)  In particular, products intended for feeding stuffs shall not be deemed to be in conformity with sub-rule (1) if the levels of an undesirable substance they contain exceed the maximum levels detailed in Schedule I.
 
@@ -112,11 +92,7 @@ Duty to give a statutory statement.
 
 shall give to the person to whom the products are to be transferred a statement in writing (a “statutory statement”) containing particulars as to the nature, substance and quality of the material.  In particular, the statutory statement shall include details of the exact percentages by weight of any undesirable substances contained in the products intended for feeding stuffs.
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 (2)  Any statutory statement required to be given on the transfer of any products intended for feeding stuffs shall be given not later than the time when the product is delivered to the person to whom the products are to be transferred, and, if given before that time, shall be deemed to have been given at that time.
+(2)  Any statutory statement required to be given on the transfer of any products intended for feeding stuffs shall be given not later than the time when the product is delivered to the person to whom the products are to be transferred, and, if given before that time, shall be deemed to have been given at that time.
 
 (3)  Any person who fails to give a statutory statement within the time required by sub-rule (2) or which is false in any material regard shall be liable on summary conviction to a fine not exceeding the statutory maximum.
 
@@ -140,11 +116,7 @@ Power to enter premises and take samples.
 
 (2)  If a justice of the peace, on sworn information in writing, is satisfied that there is reasonable ground for entry into any such premises as are mentioned in sub-rule (1), and either–
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 (a) that admission to the premises has been refused, or a refusal is apprehended, and that notice of the intention to apply for a warrant has been given to the occupier; or
+(a) that admission to the premises has been refused, or a refusal is apprehended, and that notice of the intention to apply for a warrant has been given to the occupier; or
 
 (b) that an application for admission, or the giving of such a notice would defeat the object of the entry, or that the case is one of urgency, or that the premises are unoccupied or the occupier temporarily absent,
 
@@ -164,13 +136,7 @@ the justice may by warrant signed by him authorise the inspector to enter the pr
 
 (6)  Subject to sub-rule (7), an inspector entering premises by virtue of this rule, or of a warrant issued under it, shall have the right to take on those premises a sample of any relevant material (that is to say, material appearing to him to be a feeding stuff manufactured, produced, put into circulation or intended to be put into circulation, or to be material used, or intended to be used, as a feeding stuff) in accordance with the provisions of Schedule II.
 
-(7)  Where, for the purpose of taking a sample pursuant to sub-rule (6), an inspector takes some of it from each of one or more containers, which are
-
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 exposed for sale by retail, and none of which weighs more than six kilograms, the owner of the container or containers may require the inspector to purchase the container or containers on behalf of the Agency.
+(7)  Where, for the purpose of taking a sample pursuant to sub-rule (6), an inspector takes some of it from each of one or more containers, which are exposed for sale by retail, and none of which weighs more than six kilograms, the owner of the container or containers may require the inspector to purchase the container or containers on behalf of the Agency.
 
 (8)  An inspector entering premises by virtue of this rule, or of a warrant issued under it, shall have the right–
 
@@ -192,13 +158,7 @@ to afford the inspector such reasonable assistance as he may require for that pu
 
 (c) may require the record, or an extract from the record, to be produced in a form in which it may be taken away.
 
-(10)  An inspector entering premises by virtue of this rule, or of a warrant issued under it, shall have the right to seize and detain any material which he
-
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 has reasonable cause to believe to be a material covered by these Rules in relation to which an offence under these Rules is being or has been committed, and any record which he has reasonable cause to believe to be a record which may be required as evidence in proceedings under these Rules.
+(10)  An inspector entering premises by virtue of this rule, or of a warrant issued under it, shall have the right to seize and detain any material which he has reasonable cause to believe to be a material covered by these Rules in relation to which an offence under these Rules is being or has been committed, and any record which he has reasonable cause to believe to be a record which may be required as evidence in proceedings under these Rules.
 
 Sampling and analysis.
 
@@ -210,7 +170,7 @@ Sampling and analysis.
 
 (c) retain the remaining part for nine months.
 
-(2)  If the person who manufactured any material of which an inspector has taken a sample is not a person to whom a part of the sample is required to be sent under sub-rule (1), that sub-rule shall have effect as if for the reference to three parts there were substituted a reference to four parts, and the inspector shall send the fourth part to the manufacturer unless he does not know the manufacturers name or address, and is unable after making reasonable inquires to ascertain that name or address before the expiration of fourteen days from the date when the sample was taken.
+(2)  If the person who manufactured any material of which an inspector has taken a sample is not a person to whom a part of the sample is required to be sent under sub-rule (1), that sub- rule shall have effect as if for the reference to three parts there were substituted a reference to four parts, and the inspector shall send the fourth part to the manufacturer unless he does not know the manufacturers name or address, and is unable after making reasonable inquires to ascertain that name or address before the expiration of fourteen days from the date when the sample was taken.
 
 (3)  Any sample required to be sent to any person in pursuance of this rule shall be sent by registered post or by recorded delivery or be delivered or given by hand.
 
@@ -218,11 +178,7 @@ Sampling and analysis.
 
 (5)  The analyst shall analyse the part of the sample that was sent to him under sub-rule 1(a) and send a certificate of analysis, which shall include details of the exact percentages by weight of any undesirable substances contained in the products, to the inspector.  The inspector shall send a copy of the certificate of analysis to the person to whom a part of the sample has been sent under sub-rules (1)(b) and (2).
 
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103 (6)  Where a sample is to be analysed pursuant to these Rules the analysis shall be carried out in accordance with any scientifically valid method the application of which does not contravene any general principle of the Treaty establishing the European Community.
+(6)  Where a sample is to be analysed pursuant to these Rules the analysis shall be carried out in accordance with any scientifically valid method the application of which does not contravene any general principle of the Treaty establishing the European Community.
 
 (7)  Where a sample of feeding stuff has been taken by an inspector and sent to an analyst for analysis, any analysis of the oil content of that feeding stuff shall be disregarded unless it is carried out before the expiry of the period of three weeks commencing with the date of sampling.
 
@@ -243,12 +199,6 @@ shall be guilty of an offence if a sampled portion of the product is shown by an
 (a) on summary conviction, to a fine up to level 5 on the standard scale;
 
 (b) on conviction on indictment, to a fine.
-
-Public Health ANIMAL FEEDING STUFFS RULES 2004
-
-1950-07
-
-Subsidiary 2004/103
 
 SCHEDULE I
 
