@@ -10,6 +10,8 @@ GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 200
 
 Commencement 1.12.2009
 
+Amending enactments Relevant current provisions Commencement date LN.  2011/024 rr. 2, 3(1)(b), (3)(a)(ii), 27(8)(a), (10), 63(7), 90(1)(a), 97(10), 110(4), 112(2)(b), 115(3), 117(12)(a), 120(1), 122(2A) & 122A 17.3.2011
+
 EU Legislation/International Agreements involved: International Convention for the Prevention of Pollution from Ships, 1973 as modified by the Protocol of 1978 relating to that Convention, including all its other Protocols, Annexes and Appendices, and amendments thereto adopted by the International Maritime Organisation in accordance with Article 16 of that Convention (the “MARPOL Convention”); and
 
 Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on ship-source pollution and on the introduction of penalties for infringements
@@ -78,7 +80,7 @@ Subsidiary 2009/082 109. Duration and validity of the International Air Pollutio
 
 PART 8 MISCELLANEOUS
 
-119. Reporting on incident. 120. Port state control on operational requirements. 121. Enforcement measures for prevention of ship-source pollution. 122. Offences and penalties. 123. Reporting to the European Commission. 124. Appeals.
+119. Reporting on incident. 120. Port state control on operational requirements. 121. Enforcement measures for prevention of ship-source pollution. 122. Offences and penalties. 122A. Liability of, and penalties for, corporate body. 123. Reporting to the European Commission. 124. Appeals.
 
 SCHEDULE 1 List of oils
 
@@ -92,13 +94,11 @@ SCHEDULE 5 Form of International Pollution Prevention Certificate for the Carria
 
 SCHEDULE 6 Guidelines for the identification of harmful substances in packaged form
 
-SCHEDULE 7
-
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
-Subsidiary 2009/082 Form of International Sewage pollution Prevention Certificate
+Subsidiary 2009/082 SCHEDULE 7 Form of International Sewage pollution Prevention Certificate
 
 SCHEDULE 8 Form of Garbage Record Book
 
