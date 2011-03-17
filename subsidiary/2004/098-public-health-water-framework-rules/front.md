@@ -12,7 +12,9 @@ PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2010/168 rr. 2(1), 10A-10B, 11A, 17A, 19 Sch.9-10 25.11.2010
+LN. 2010/168 rr. 2(1), 10A-10B, 11A, 17A, 19 Sch.9-10 25.11.2010 2011/025 rr. 2, 7A, 9(3A), 9A, 10(1A), (5), 18, 20- 22, Schs.4A, 8A-8B
+
+17.3.2011
 
 Transposing: Directive 2000/60/EC Directive 2008/105/EC
 
@@ -24,7 +26,7 @@ Subsidiary 2004/098 ARRANGEMENT OF RULES
 
 Rule
 
-1. Title. 2. Interpretation. 3. Duties. 4 Designation of river basin districts. 5. Characterisation of river basin district. 6. Economic analysis of water use in river basin district. 7. Bodies of water used for the abstraction of drinking water. 8. Register of protected areas. 9. Monitoring programmes. 10.  Environmental objectives and programmes of measures. 10A.  Environmental quality standards. 10B  Transboundary pollution. 11.  River basin management plans. 11A. Mixing zones. 12. River basin district management plans: public information and consultation. 13.  River basin management plans: approval. 14. River basin management plans: review. 15. Supplementary plans. 16. Duty to have regard to river basin management plans and supplementary plans. 17. Publication of information. 17A. Inventory of emissions, discharges and losses. 18.  Recovery of costs. 19. International coordination.
+1. Title. 2. Interpretation. 3. Duties. 4 Designation of river basin districts. 5. Characterisation of river basin district. 6. Economic analysis of water use in river basin district. 7. Bodies of water used for the abstraction of drinking water. 7A.   Combined approach for point and diffuse sources. 8. Register of protected areas. 9. Monitoring programmes. 9A.   Use of information gathered from monitoring. 10.  Environmental objectives and programmes of measures. 10A.  Environmental quality standards. 10B  Transboundary pollution. 11.  River basin management plans. 11A. Mixing zones. 12. River basin district management plans: public information and consultation. 13.  River basin management plans: approval. 14. River basin management plans: review. 15. Supplementary plans. 16. Duty to have regard to river basin management plans and supplementary plans. 17. Publication of information. 17A. Inventory of emissions, discharges and losses. 18.  Recovery of costs. 19. International coordination. 20.    Directions. 21.    Appeal. 22.    Offences by corporate bodies.
 
 SCHEDULE 1 Functional enactments.
 
@@ -32,19 +34,27 @@ SCHEDULE 2 Map of Gibraltar River Basin District.
 
 SCHEDULE 3 Characterisation etc.
 
-SCHEDULE 4 Economic analysis.
-
-SCHEDULE 5 Protected areas.
+SCHEDULE 4
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 SCHEDULE 6 Water status.
+Subsidiary 2004/098 Economic analysis.
+
+SCHEDULE 4A This Schedule reproduces annex IX to the Directive.
+
+SCHEDULE 5 Protected areas.
+
+SCHEDULE 6 Water status.
 
 SCHEDULE 7 Environmental objectives.
 
 SCHEDULE 8 River basin management plans.
+
+SCHEDULE 8A
+
+SCHEDULE 8B This Schedule Reproduces Annex VIII of The Directive
 
 SCHEDULE 9 Environmental Quality Standards for Priority Substances and Certain Other Pollutants
 
@@ -66,33 +76,79 @@ Interpretation.
 
 “aquifer” means a subsurface layer or layers of rock or other geological strata of sufficient porosity and permeability to allow either a significant flow of groundwater or the abstraction of significant quantities of groundwater;
 
+“available groundwater resource” means the long-term annual average rate of overall recharge of the body of groundwater less the long- term annual rate of flow required to achieve the ecological quality objectives for associated surface waters specified under Article 4 of the Directive, to avoid any significant diminution in the ecological status of such waters and to avoid any significant damage to associated terrestrial ecosystems;
+
+“BGTW” means British Gibraltar Territorial Waters which is the area of sea, the sea bed and subsoil within the seaward limits of the territorial sea adjacent to Gibraltar under British sovereignty and which, in accordance with the United Nations Convention on the Law of the Sea 1982, currently extends to three nautical miles and to the median line in the Bay of Gibraltar;
+
 “body of groundwater” means a distinct volume of groundwater within one or more aquifers;
 
 “body of surface water” means a stretch of coastal water;
 
 “body of water” means a body of groundwater or a body of surface water;
 
-“coastal water” means surface water on the landward side of a line every point of which is at a distance of 1 nautical mile on the seaward side from the nearest point of the baseline from which the breadth of the territorial waters is measured;
-
-“Competent Authority” means the Minister with responsibility for the environment;
-
-“the Directive” means Directive 2000/60/EC of 23rd October 2000 establishing a framework for Community action in the field of water policy;
-
-“Gibraltar River Basin District” has the meaning given by rule 4;
-
-“groundwater” means water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil;
+“coastal water” means surface water on the landward side of a line every point of which is at a distance of 1 nautical mile on the seaward side from the nearest point of the baseline from which the breadth
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 “priority substances” means the substances identified in accordance with Article 16(2) of the Directive and listed in Schedule 10 to these Rules;
+Subsidiary 2004/098 of the territorial waters is measured, and in the case of Gibraltar the territorial waters are BGTW;
+
+“Competent Authority” means the Minister with responsibility for the environment;
+
+“direct discharge to groundwater” means discharge of pollutants into groundwater without percolation throughout the soil or subsoil;
+
+“the Directive” means Directive 2000/60/EC of 23rd October 2000 establishing a framework for Community action in the field of water policy as the same may be from time to time amended;
+
+“ecological status” is an expression of the quality of the structure and functioning of aquatic ecosystems associated with surface waters, classified in accordance with Annex V to the Directive and “good ecological status” is the status of a body of surface water, so classified in accordance with that annex;
+
+“emission controls” are controls requiring a specific emission limitation, for instance an emission limit value, or otherwise specifying limits or conditions on the effects, nature or other characteristics of an emission or operating conditions which affect emissions (for the avoidance of doubt, use of the term “emission control” in these Rules in respect of the provisions of any other European Union directive shall not be held as reinterpreting those provisions in any respect);
+
+“emission limit values” means the mass, expressed in terms of certain specific parameters, concentration and/or level of an emission, which may not be exceeded during any one or more periods of time;
+
+“environmental objectives” in relation to the river basin district means the objectives required to comply with Article 4 of the Directive as set out in Schedule 7 including any objectives required to comply with Article 7(2) and (3) of the Directive;
+
+“environmental quality standard” means the concentration of a particular pollutant or group of pollutants in water, sediment or biota which should not be exceeded in order to protect human health and the environment;
+
+“Gibraltar River Basin District” has the meaning given by rule 4;
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 “good ecological potential” is the status of a heavily modified or an artificial body of water, so classified in accordance with the relevant provisions of Annex V to the Directive;
+
+“good groundwater chemical status” is the chemical status of a body of groundwater, which meets all the conditions set out in table 2.3.2 of Annex V to the Directive;
+
+“good surface water chemical status” means the chemical status required to meet the environmental objectives for surface waters established in Article 4(1)(a) of the Directive, that is the chemical status achieved by a body of surface water in which concentrations of pollutants do not exceed the environmental quality standards established in Annex IX to, and under Article 16(7) of, the Directive, and under other relevant European Community legislation setting environmental quality standards at Community level;
+
+“groundwater” means water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil;
+
+“groundwater status” is the general expression of the status of a body of groundwater, determined by the poorer of its quantitative status and its chemical status and “good groundwater status” means the status achieved by a groundwater body when both its quantitative status and its chemical status are at least ‘good’;
+
+“heavily modified water body” means a body of surface water which as a result of physical alterations by human activity is substantially changed in character, and is designated in accordance with the provisions of Annex II;
+
+“inland water” means all standing or flowing water on the surface of the land, and all groundwater on the landward side of the baseline from which the breadth of territorial waters is measured, and in the case of Gibraltar the territorial waters are BGTW;
+
+“pollutant” means any substance liable to cause pollution, in particular those listed in Annex VIII to the Directive, which is reproduced for information purposes in Schedule 8B;
+
+“pollution” means the direct or indirect introduction, as a result of human activity, of substances or heat into the air, water or land which may be harmful to human health or the quality of aquatic ecosystems or terrestrial ecosystems directly depending on aquatic ecosystems,
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 which result in damage to material property, or which impair or interfere with amenities and other legitimate uses of the environment;
+
+“priority substances” means the substances identified in accordance with Article 16(2) of the Directive and listed in Schedule 10 to these Rules;
 
 “programme of measures” means the programme of measures required to comply with Article 11(2) to (6) of the Directive;
 
 “protected area” has the meaning given by rule 8(2);
 
-“river basin” means an area of land from which all surface run-off water flows through a connected sequence of streams, rivers or other watercourses or lakes into the sea at a single river mouth, estuary or delta and includes any body of transitional water in the vicinity of that river mouth, estuary or delta;
+“quantitative status” is an expression of the degree to which a body of groundwater is affected by direct and indirect abstractions and “good quantitative status” is the status defined in table 2.1.2 of Annex V to the Directive;
+
+“river basin” means the area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly lakes into the sea at a single river mouth, estuary or delta;
 
 “river basin district” means the area of land and sea together with its associated bodies of water which taken together is the unit for the management of the river basin, and  in these Rules unless otherwise specified any reference to a river basin district shall be taken to be a reference to the Gibraltar River Basin District;
 
@@ -100,7 +156,21 @@ Subsidiary 2004/098 “priority substances” means the substances identified in
 
 “supplementary plan” has the meaning given by rule 15;
 
-“surface water” means inland waters, except groundwater; transitional waters and coastal waters except in respect of chemical status for which it shall also include territorial waters.
+“surface water” means inland waters, except groundwater; transitional waters and coastal waters except in respect of chemical status for which it shall also include territorial waters, and in the case of Gibraltar the territorial waters are BGTW.
+
+“surface water status” is the general expression of the status of a body of surface water, determined by the poorer of its ecological status and its chemical status, and “good surface water status” means the status achieved by a surface water body when both its ecological status and its chemical status are at least “good”;
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 “water services” means all services which provide, for households, public institutions or any economic activity−
+
+(a) abstraction, impoundment, storage, treatment and distribution of surface water or groundwater,
+
+(b) waste-water collection and treatment facilities which subsequently discharge into surface water;
+
+“water use” means water services together with any other activity identified under Article 5 of, and Annex II to, the Directive, having a significant impact on the status of water.
 
 (2)  Any other expression used in both these Rules and the Directive has the same meaning for the purposes of these rules as it has for the purposes of the Directive unless the contrary is stated.
 
@@ -111,12 +181,6 @@ Duties.
 (2)  The Competent Authority may appoint such persons as it deems appropriate to enable it to discharge any duty or obligation imposed by these Rules or for the achievement of the objectives of the Directive.
 
 Designation of river basin districts.
-
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098
 
 4.  The area within the River Basin District Boundary as delineated in the map in Schedule 2 is designated the Gibraltar River Basin District.
 
@@ -130,7 +194,11 @@ Characterisation of river basin district.
 
 by 22nd December 2004.
 
-(2)  The work required by paragraph (1) shall be updated by 22nd December 2013 and every six years after that date.
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 (2)  The work required by paragraph (1) shall be updated by 22nd December 2013 and every six years after that date.
 
 Economic analysis of water use in river basin district.
 
@@ -150,11 +218,37 @@ Bodies of water used for the abstraction of drinking water.
 
 (b) is intended to be used as mentioned in paragraph (a).
 
+(2)  Where a body of water provides more than 100 cubic metres per day of water intended for human consumption that body of water shall be monitored in accordance with rule 9.
+
+Combined approach for point and diffuse sources.
+
+7A.(1) The Competent Authority shall ensure that all discharges into surface waters referred to in subrule (2) are controlled according to the combined approach set out in this rule.
+
+(2) By 22 December 2012 at the latest, unless otherwise specified in the legislation concerned, the Competent Authority shall ensure the establishment and/or implementation of−
+
+(a) emission controls based on best available techniques;
+
+(b) relevant emission limit values; or
+
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 (2)  Where a body of water provides more than 100 cubic metres per day of water intended for human consumption that body of water shall be monitored in accordance with rule 9.
+Subsidiary 2004/098 (c) in the case of diffuse impacts, controls including, as appropriate, best environmental practices set out in−
+
+(i) Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control;
+
+(ii) Council Directive 91/271/EEC of 21 May 1991 concerning urban waste-water treatment;
+
+(iii) Directives adopted pursuant to Article 16 of the Directive;
+
+(iv) the Directives listed in Annex IX to the Directive (and which is reproduced for information purposes in Schedule 4A);
+
+(v) any other relevant Community legislation.
+
+(3) Where a quality objective or quality standard, whether established pursuant to the Directive, in the Directives listed in Annex IX of the Directive, or pursuant to any other Community legislation, requires stricter conditions than those which would result from the application of subrule (2), more stringent emission controls shall be set accordingly.
+
+(4) Where a permit or other authorisation has been issued under any enactment which is inconsistent with the provisions and objectives of this rule, the Competent Authority may amend the terms of that permit or authorisation through issue of directions pursuant to rule 20.
 
 Register of protected areas.
 
@@ -172,6 +266,12 @@ Monitoring programmes.
 
 9.(1)  The Competent Authority must–
 
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098
+
 (a) establish programmes for monitoring water status in order to establish a coherent and comprehensive overview of water status within the river basin district; and
 
 (b) take such other measures as may be necessary to give effect to the relevant monitoring provisions of the Directive.
@@ -184,17 +284,31 @@ Monitoring programmes.
 
 (3)  For groundwater the monitoring programmes must cover monitoring of chemical and quantitative status.
 
+(3A) For protected areas the programmes referred to in subrules (2) and (3) shall be supplemented by those specifications contained in Community legislation under which the individual protected areas have been established.
+
 (4)  The monitoring programmes must be–
 
 (a) established and carried out in accordance with the requirements of Schedule 6; and
 
 (b) made operational by 22nd December 2006.
 
+Use of information gathered from monitoring.
+
+9A. Where monitoring or other data indicate that the environmental objectives set for the body of water are unlikely to be achieved, the Competent Authority shall ensure that−
+
+(a) the causes of the possible failure are investigated;
+
+(b) relevant permits and authorisations are examined and if appropriate modified through the issue of directions pursuant to rule 20;
+
+(c) the monitoring programmes are reviewed and adjusted as appropriate; and
+
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098
+Subsidiary 2004/098 (d) such additional measures as may be necessary in order to achieve those environmental objectives are established, including, as appropriate, the establishment of stricter environmental quality standards following the procedures laid down in Annex V to the Directive.
+
+(2) Where those causes are the result of circumstances of natural cause or force majeure which are exceptional and could not reasonably have been foreseen, in particular extreme floods and prolonged droughts, the Competent Authority may determine that additional measures are not practicable, subject to all the conditions in Article 4(6) of the Directive having been met.
 
 Environmental objectives and programmes of measures.
 
@@ -204,7 +318,21 @@ Environmental objectives and programmes of measures.
 
 (b) a programme of measures to be applied in order to achieve those objectives.
 
+(1A) The programme of measures referred to in subrule (1)(b)−
+
+(a) shall include the basic measures specified in Article 11(3) of the Directive (which is reproduced for information purposes in Part I of Schedule 8A); and
+
+(b) may include such supplementary measures specified in Article 11(4) of the Directive as read with Part B of Annex VI to the Directive as the Competent Authority considers to be appropriate having regard to environmental objectives, (Annex VI to the Directive is reproduced for information purposes on in Part II of Schedule 8A);
+
+(c) may include such further supplementary measures as the Competent Authority considers appropriate in order to provide for additional protection or improvement of the waters covered by these Rules, including in implementation of the relevant international agreements referred to in Article 1 of the Directive.
+
 (2)  In preparing proposals under paragraph (1), the Competent Authority must–
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098
 
 (a) take account of the characterisation of and economic analysis of water used in the river basin district (and any review of the same) carried out under rules 5 and 6; and
 
@@ -228,15 +356,27 @@ and, in any case falling within sub-paragraph (b) or (c), must state its reasons
 
 (4)  The Competent Authority must in accordance with Article 11 of the Directive ensure that a programme of measures is–
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 (a) established by 22nd December 2009;
+(a) established by 22nd December 2009;
 
 (b) made operational by 22nd December 2012; and
 
 (c) reviewed and if necessary updated by 22nd December 2015 and every six years after that date.
+
+(5) Any new or revised measures established under an updated programme shall be made operational within three years of their establishment.
+
+(6) In implementing a programme of measures the Competent Authority shall−
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098
+
+(a) take all appropriate steps not to increase pollution of marine waters; and
+
+(b) without prejudice to existing legislation, ensure that the application of the measures does not on any account lead, either directly or indirectly, to increased pollution of surface waters,
+
+save that this subrule shall not apply where it would result in increased pollution of the environment as a whole.
 
 Environmental quality standards.
 
@@ -252,15 +392,13 @@ Environmental quality standards.
 
 (c) determine, for the substances mentioned in paragraphs (a) and (b), the frequency of monitoring in biota or sediment or both and such monitoring must take place at least once every year, unless technical knowledge and expert judgment justify another interval; and
 
-(d) ensure that the Commission and Member States are notified of
-
-(i) the substances for which EQS have been established in accordance with paragraph (b);
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098
+Subsidiary 2004/098 (d) ensure that the Commission and Member States are notified of
+
+(i) the substances for which EQS have been established in accordance with paragraph (b);
 
 (ii) the reasons and basis for using this approach;
 
@@ -282,15 +420,13 @@ Transboundary pollution.
 
 (b) it was unable, as a result of such transboundary pollution, to take effective measures to comply with the relevant EQS; and
 
-(c) it had applied the coordination mechanisms set out in Article 3 of the Directive and, as appropriate, taken advantage of the provisions of Article 4(4), (5) and (6) of the Directive for those water bodies affected by transboundary pollution.
-
-(2) In a situation under subrule (1), the Competent Authority must use the mechanism laid down in Article 12 of the Directive to ensure that the
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 Commission is provided with necessary information and a summary of the measures taken in relation to any transboundary pollution in the relevant river basin management plan in accordance with the reporting requirements under Article 15(1) of the Directive”.
+Subsidiary 2004/098 (c) it had applied the coordination mechanisms set out in Article 3 of the Directive and, as appropriate, taken advantage of the provisions of Article 4(4), (5) and (6) of the Directive for those water bodies affected by transboundary pollution.
+
+(2) In a situation under subrule (1), the Competent Authority must use the mechanism laid down in Article 12 of the Directive to ensure that the Commission is provided with necessary information and a summary of the measures taken in relation to any transboundary pollution in the relevant river basin management plan in accordance with the reporting requirements under Article 15(1) of the Directive”.
 
 River basin management plans.
 
@@ -312,17 +448,17 @@ Mixing zones.
 
 (a) the approaches and methodologies applied to define such zones; and
 
-(b) measures taken with a view to reducing the extent of the mixing zones in the future, such as those measures taken pursuant to Article 11(3)(k) of the Directive or by reviewing relevant permits or prior regulations as referred to in Article 11(3)(g) of the Directive.
-
-(4) In designating mixing zones the Competent Authority must ensure that the extent of any such zone is
-
-(a) restricted to the proximity of the point of discharge; and
+(b) measures taken with a view to reducing the extent of the mixing zones in the future, such as those measures taken pursuant to Article 11(3)(k) of the Directive or by reviewing
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098
+Subsidiary 2004/098 relevant permits or prior regulations as referred to in Article 11(3)(g) of the Directive.
+
+(4) In designating mixing zones the Competent Authority must ensure that the extent of any such zone is
+
+(a) restricted to the proximity of the point of discharge; and
 
 (b) proportionate, having regard to the concentrations of pollutants at the point of discharge and to the conditions on emissions of pollutants contained in the prior regulations, in accordance with the application of best available techniques and Article 10 of the Directive, in particular after those prior regulations are reviewed.
 
@@ -346,15 +482,15 @@ River basin district management plans: public information and consultation.
 
 (b) publish a notice–
 
-(i) stating the fact of publication;
-
-(ii) specifying the arrangements made for making copies of the statement, summary or draft plan available for public inspection; and
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
 Subsidiary 2004/098
+
+(i) stating the fact of publication;
+
+(ii) specifying the arrangements made for making copies of the statement, summary or draft plan available for public inspection; and
 
 (iii) stating that any person may within the period of six months beginning with the date of publication, or such longer period as the Competent Authority may direct, make representations to the Competent Authority in relation to the statement, summary or draft plan;
 
@@ -382,15 +518,15 @@ and must state its reasons for doing so.
 
 River basin management plans: review.
 
-14.(1)  The Competent Authority must review and update a river basin management plan by no later than six years from the date on which it was approved under rule 13.
-
-(2)  The revised plan must include the matters specified in Part 2 of Schedule 8, in addition to the matters required to be included by rule 11.
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 (3)  Rules 11(1), 12 and 13 apply in relation to the preparation, submission and approval of a revised river basin management plan.
+Subsidiary 2004/098 14.(1)  The Competent Authority must review and update a river basin management plan by no later than six years from the date on which it was approved under rule 13.
+
+(2)  The revised plan must include the matters specified in Part 2 of Schedule 8, in addition to the matters required to be included by rule 11.
+
+(3)  Rules 11(1), 12 and 13 apply in relation to the preparation, submission and approval of a revised river basin management plan.
 
 Supplementary plans.
 
@@ -420,17 +556,19 @@ Duty to have regard to river basin management plans and supplementary plans.
 
 Publication of information.
 
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098
+
 17.(1)  The Competent Authority must make accessible to the public–
 
 (a) the results of the work required by rule 5;
 
 (b) the results of the analysis conducted under rule 6;
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 (c) maps showing areas identified under rule 7;
+(c) maps showing areas identified under rule 7;
 
 (d) the registers prepared under rule 8;
 
@@ -456,21 +594,25 @@ Inventory of emissions, discharges and losses.
 
 (3) The reference period for the establishment of –
 
-(a)   pollutant values to be entered in the inventories referred to in subrule (1) shall be one year between 2008 and 2010; and
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 (a)   pollutant values to be entered in the inventories referred to in subrule (1) shall be one year between 2008 and 2010; and
 
 (b)  values in the updated inventories under subrule (2) shall be the year before the analysis is to be completed.
 
 Recovery of costs.
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+18.(1) The Competent Authority must ensure that it takes account of the principle of recovery of the costs of water services (including environmental and resource costs) having regard to the economic analysis conducted in accordance with Schedule 4 and in accordance, in particular, with the polluter pays principle such that–
 
-1950-07
+(a) water-pricing policies provide adequate incentives for users to use water resources efficiently, and thereby contribute to the environmental objectives of the Directive; and
 
-Subsidiary 2004/098 18.  The Competent Authority must ensure that by no later than 1 January 2010–
+(b) it results in an adequate contribution of the different water uses, disaggregated into at least industry, households and agriculture, to the recovery of the costs of water services.
 
-(a) the water-pricing policies provide adequate incentives for users to use water resources efficiently; and
+(2) In applying subrule (1) the Competent Authority may have regard to the social, environmental and economic effects of the recovery as well as the geographic and climatic conditions of the region.
 
-(b) that such water-pricing policies have regard to the different effects on consumption and pollution by commercial and non- commercial users as identified in the economic analysis conducted in accordance with Schedule 4.
+(3) River basin management plans made under these Rules shall report on the planned steps towards implementing subrule (1) which will contribute to achieving the environmental objectives of the Directive and on the contribution made by the various water uses to the recovery of the costs of water services.
 
 International coordination.
 
@@ -479,6 +621,44 @@ International coordination.
 (a) shall be responsible for receiving and transmitting requests relating to any matter concerning these Rules; and
 
 (b) is designated the contact point for any international information or coordination issues.
+
+Directions.
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 20.(1) The Competent Authority may issue directions where−
+
+(a) these Rules require it to discharge a particular duty;
+
+(b) where it is appropriate to secure compliance with these Rules or the Directive.
+
+(2) A direction must be in writing, addressed to the person who is required to comply with it and state the time limits for compliance.
+
+(3) A person who without reasonable excuse fails to comply with a direction or any part of it commits an offence and is liable on summary conviction to a fine up to level 3 on the standard scale.
+
+Appeal.
+
+21.(1) A person to whom a direction is addressed who is not satisfied with the direction or any part of it may appeal against the direction to the Magistrates’ Court within 7 days of the service of the direction upon him.
+
+(2) Directions shall be stayed pending the determination of the appeal.
+
+(3) In considering an appeal under subrule (1) the court will have regard to all the circumstances of the case including the reasons why the direction was required to be issued in those terms, and the court may uphold, quash or vary the direction as it deems fit.
+
+Offences by corporate bodies.
+
+22.(1) Where an offence under rule 20(3) has been committed by a body corporate and is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or any other person purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+(2) Where the affairs of a body corporate are managed by its members, subrule (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of a body corporate.
+
+(3) A fine imposed on an unincorporated association on its conviction for an offence shall be paid out of the funds of the association.
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 (4) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of a partner, he as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
@@ -909,6 +1089,30 @@ The economic analysis shall contain enough information in sufficient detail (tak
 - estimates of relevant investment including forecasts of such investments;
 
 (b) make judgements about the most cost-effective combination of measures in respect of water uses to be included in the programme of measures under rule 10 based on estimates of the potential costs of such measures.
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098
+
+SCHEDULE 4A Rule 7A
+
+THIS SCHEDULE REPRODUCES ANNEX IX TO THE DIRECTIVE.
+
+EMISSION LIMIT VALUES AND ENVIRONMENTAL QUALITY STANDARDS
+
+The ‘limit values’ and ‘quality objectives’ established under the re Directives of Directive 76/464/EEC shall be considered emission limit values and environmental quality standards, respectively, for the purposes of this Directive. They are established in the following Directives:
+
+(i) The Mercury Discharges Directive (82/176/EEC);
+
+(ii) The Cadmium Discharges Directive (83/513/EEC);
+
+(iii) The Mercury Directive (84/156/EEC);
+
+(iv) The Hexachlorocyclohexane Discharges Directive (84/491/EEC); and
+
+(v) The Dangerous Substance Discharges Directive (86/280/EEC).
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
