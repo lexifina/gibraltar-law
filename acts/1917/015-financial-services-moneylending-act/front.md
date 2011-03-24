@@ -24,7 +24,11 @@ Acts. 1934- 27 ss. 2, 3(2), (5), 4, 10-13, 15, 17-18, Sch.
 
 1.2.1996 2007-04 s. 1 19.4.2007 2008-06 ss. 2(1), (e), 4, 5(1) & (2), 6(2), (5), (7), 9, 19(1)
 
-29.5.2008
+29.5.2008 LN. 2011/031 ss. 2-29, 30(1), (2), 31(2), (5), 32, 33(2), 34(3)(c), 36(2), 38(2), 39, 41(1)(a), (b), 43(1), (2), 47(1), Sch 1 – 4.
+
+24.3.2011
+
+Transposing: Directive 2008/48/EC
 
 English Sources
 
@@ -36,9 +40,43 @@ Financial Services (Moneylending)
 
 Section
 
-1. Short title. 2. Interpretation. 3. Re-opening of transactions of moneylender. 4. Presumption that interest is excessive. 5. Licences to be taken out by moneylenders. 6. Certificate required for grant of moneylender’s licence. 7. Prohibition of charge for expenses on loans by moneylenders. 8. Prohibition of moneylenders using name of bank. 9. Rules. 10. Form of moneylenders’ contracts, 11. Prohibition of compound interest and provision as to defaults. 12. Obligation of moneylender to supply information as to state of loans and copies of documents relating thereto. 13. Notice and information to be given on assignment of moneylenders’ debts. 14. Omitted. 15. Application of Act to assignees. 16. Penalties for false statements and representations. 17. Soliciting minor to make affidavit in connection with loan. 18. Avoiding contract for payment of loan advanced during minority. 19. Suspension and forfeiture of moneylender’s certificates.
+1. Short title. PART I
 
-SCHEDULE Calculation of Interest where the Interest charged on a Loan is not expressed in Terms of a Rate.
+REGULATION OF CREDIT FALLING WITHIN THE SCOPE OF DIRECTIVE 2008/48/EC
+
+2. Scope of Part. 3. Interpretation.
+
+Agreements to which this Part applies
+
+4. Application of Part.
+
+Obligations of the creditor and credit intermediary
+
+5. Obligation to comply with Part. 6. Obligation to provide pre-contractual information. 7. Content of pre-contractual information. 8. Pre-contractual information relating to an overdraft facility where credit has to be repaid within three months. 9. Pre-contractual information relating to an overdraft facility where credit has to be repaid within one month. 10. Creditworthiness.
+
+Rights of the consumer
+
+11. Right to receive copy of agreement. 12. Content of consumer credit agreement. 13. Right to terminate an open-end credit agreement. 14. Right to withdraw. 15. Linked credit agreements: Right of consumer to pursue claim against creditor. 16. Right to early repayment. 17. Rights relating to assignment of rights and set-off. 18. Overrunning.
+
+Supplementary provisions
+
+19. Advertisements. 20. Cross border credit. 21. Calculation of the annual percentage rate of charge. 22. Enforcement and monitoring.
+
+Financial Services (Moneylending)
+
+1917-15 23. Offences. 24. Act to prevail. 25. Application of existing law. 26. Continuity of the law. 27. Regulations. 28. Codes of practice. 29. Alternative dispute resolution.
+
+PART II MISCELANEOUS PROVISIONS
+
+30. Interpretation of Part. 31. Re-opening of transactions of moneylender. 32. Presumption that interest is excessive. 33. Licences to be taken out by moneylenders. 34. Certificate required for grant of moneylender’s licence. 35. Prohibition of charge for expenses on loans by moneylenders. 36. Prohibition of moneylenders using name of bank. 37. Rules. 38. Form of moneylenders’ contracts, 39. Prohibition of compound interest and provision as to defaults. 40. Obligation of moneylender to supply information as to state of loans and copies of documents relating thereto. 41. Notice and information to be given on assignment of moneylenders’ debts. 42. Omitted. 43. Application of Act to assignees. 44. Penalties for false statements and representations. 45. Soliciting minor to make affidavit in connection with loan. 46. Avoiding contract for payment of loan advanced during minority. 47. Suspension and forfeiture of moneylender’s certificates.
+
+SCHEDULE 1 Calculation of Interest where the Interest charged on a Loan is not expressed in Terms of a Rate.
+
+SCHEDULE 2 STANDARD EUROPEAN CONSUMER CREDIT INFORMATION
+
+SCHEDULE 3 EUROPEAN CONSUMER CREDIT INFORMATION FOR
+
+SCHEDULE 4
 
 Financial Services (Moneylending)
 
