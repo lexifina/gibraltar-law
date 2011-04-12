@@ -48,6 +48,26 @@ Ships including Gibraltar ships in the following classes shall, inasmuch as they
 
 In this Schedule, “ the effective date of these Regulations” means the date on which these Regulations come into operation.
 
+Part 3
+
+Fishing vessels
+
+1. Fishing vessels with a length of more than 15 metres overall are subject to the carrying requirement laid down in regulation 10A according to the following timetable−
+
+(a) fishing vessels of overall length 24 metres and upwards but less than 45 metres: not later than 31 May 2012;
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
+
+1995-13
+
+Subsidiary 2004/120
+
+(b) fishing vessels of overall length 18 metres and upwards but less than 24 metres: not later than 31 May 2013; and
+
+(c) fishing vessels of overall length exceeding 15 metres but less than 18 metres: not later than 31 May 2014.
+
+2. Paragraph (1) shall not apply to new built fishing vessels of overall length exceeding 15 metres and these are therefore subject to the carrying requirement laid down in regulation 10A as from the date of the commencement of the Gibraltar Merchant Shipping (Community Vessel Traffic Monitoring and Information System) (Amendment) Regulations 2011
+
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
 
 1995-13

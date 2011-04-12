@@ -14,9 +14,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2006/123 rr. 3(2)(c), (d) & (e), 17(1) & (2), 21(1)(a)(iii) & 23(3) & (7)
 
-9.11.2006
+9.11.2006 2011/051 rr. 2, 3(1), (3)(a) & (4), 6(3), & (3)(j)(i), 8(2), 9(2), 10A, 10B, 11(7), 12(5)(b), 13, 14, 15(1), (1)(c) & (2), 16(1)(a), (4)(c) & (d), 16A, 17(3), (4) & (5), 18A, 18B, 18C, 18D, 19, 21(1)(d) & (e), 22A, 22B, 23(4) & (5), 27, Schs. 1 & 3 12.4.2011
 
-Transposing: Directive 2002/59/EC
+Transposing: Directive 2002/59/EC Directive 2009/17/EC
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
 
@@ -24,31 +24,33 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNIT
 
 Subsidiary 2004/120 ARRANGEMENT OF REGULATIONS
 
-Regulations PART I PRELIMINARY
+Regulations
+
+PART I PRELIMINARY
 
 1. Title and commencement. 2. Interpretation. 3. Application of these Regulations.
 
 PART II SHIP REPORTING AND MONITORING.
 
-4. Competent authority. 5. Notification prior to entry into the Port. 6. Mandatory ship reporting system. 7. Use of ships’ routing system. 8. Vessel traffic services within territorial sea. 9. Vessel traffic services outside territorial sea. 10. Use of automatic identification systems. 11. Voyage data recorder systems.
+4. Competent authority. 5. Notification prior to entry into the Port. 6. Mandatory ship reporting system. 7. Use of ships’ routing system. 8. Vessel traffic services within territorial sea. 9. Vessel traffic services outside territorial sea. 10. Use of automatic identification systems. 10A.  Use of automatic identification systems (AIS) by fishing vessels. 10B.  Use of systems for the long-range identification and tracking of ships (LRIT). 11. Voyage data recorder systems.
 
 PART III NOTIFICATION OF DANGEROUS OR POLLUTING GOODS.
 
-12. Notification by ships carrying dangerous or polluting goods. 13. Exemption from the requirements of regulation 12. 14. Obligation on the shipper in respect of dangerous or polluting goods.
+12. Notification by ships carrying dangerous or polluting goods. 13. Exemption. 14. Information requirements concerning the transport of dangerous goods.
 
 PART IV INCIDENTS AND ACCIDENTS AT SEA.
 
-15. Reporting of incidents and accidents at sea. 16. Measures to be taken in the event of exceptionally bad weather or sea conditions. 17. Measures to be taken in the event of incidents or accidents at sea. 18. Obligations of owners in relation to accidents and incidents. 19. Casualty investigation.
-
-PART V USE OF INFORMATION.
-
-20. Broadcasting and supply of information.
+15. Reporting of incidents and accidents at sea. 16. Measures to be taken in the event of exceptionally bad weather or sea conditions. 16A.  Measures in the event of risks posed by the presence of ice. 17. Measures to be taken in the event of incidents or accidents at sea. 18. Obligations of owners in relation to accidents and incidents.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
 
 1995-13
 
-Subsidiary 2004/120 21. Transmission of information concerning hazardous ships. 22. Confidentiality of information.
+Subsidiary 2004/120 18A.  Competent authority for the accommodation of ships in need of assistance. 18B.  Plans for the accommodation of ships in need of assistance. 18C.  Decision on the accommodation of ships. 18D.  Financial security and compensation. 19. Casualty investigation.
+
+PART V USE OF INFORMATION.
+
+20. Broadcasting and supply of information. 21. Transmission of information concerning hazardous ships. 22. Confidentiality of information. 22A.  Gibraltar’s communication system. 22B.  SafeSeaNet.
 
 PART VI CONTROL PROVISIONS.
 

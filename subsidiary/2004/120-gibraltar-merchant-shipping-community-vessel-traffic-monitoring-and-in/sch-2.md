@@ -21,9 +21,3 @@ B. Cargo information:
 (b) confirmation that a list or manifest or appropriate loading plan giving details of the dangerous or polluting goods carried and of their location on the ship is on board; and
 
 (c) address from which detailed information on the cargo may be obtained.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/120
