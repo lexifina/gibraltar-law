@@ -1,4 +1,4 @@
-SCHEDULE
+SCHEDULE 1
 
 Sections 4, 6, 7, 9
 
@@ -24,9 +24,7 @@ AquaGib Limited
 
 City Fire Brigade
 
-Civil Contingencies
-
-2007-14 Customs Department
+Customs Department
 
 Gibraltar Broadcasting Corporation
 
@@ -42,7 +40,9 @@ St John’s Ambulance
 
 Terminal Management Limited
 
-The Chief Environmental Health Officer
+Civil Contingencies
+
+2007-14 The Chief Environmental Health Officer
 
 The Director of Public Health
 
@@ -61,3 +61,7 @@ The Port Medical Officer
 The Principal Immigration Officer
 
 The Royal Gibraltar Police (save in relation to matters appertaining to internal security or law enforcement)
+
+Civil Contingencies
+
+2007-14
