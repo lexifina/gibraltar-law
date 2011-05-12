@@ -22,15 +22,15 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTI
 
 Subsidiary 2009/082
 
+INTRODUCTION
+
+The following pages show a comprehensive list of items of cargo and ballast operations which are, when appropriate, to be recorded in the Cargo Record Book on a tank-to-tank basis in accordance with Regulation 15.2 of Annex II of the MARPOL Convention.  The items have been grouped into operational sections, each of which is denoted by a letter.
+
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
-Subsidiary 2009/082 INTRODUCTION
-
-The following pages show a comprehensive list of items of cargo and ballast operations which are, when appropriate, to be recorded in the Cargo Record Book on a tank-to-tank basis in accordance with Regulation 15.2 of Annex II of the MARPOL Convention.  The items have been grouped into operational sections, each of which is denoted by a letter.
-
-When making entries in the Cargo Record Book, the date, operational code and item number shall be inserted in the appropriate columns and the required particulars shall be recorded chronologically in the blank spaces.
+Subsidiary 2009/082 When making entries in the Cargo Record Book, the date, operational code and item number shall be inserted in the appropriate columns and the required particulars shall be recorded chronologically in the blank spaces.
 
 Each completed operation shall be signed for and dated by the officer or officers in charge and, if applicable, by a surveyor authorized by the competent authority of the State in which the ship is unloading.  The master of the ship shall countersign each completed page.
 
@@ -60,17 +60,19 @@ Entries are required only for operations involving all categories of substances.
 
 (C) Unloading of cargo
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 7. Place of unloading.
+7. Place of unloading.
 
 8. Identity of tank(s) unloaded.
 
 9. Was (were) tank(s) emptied?
 
-.1 If yes, confirm that the procedure for emptying and stripping has been performed in accordance with the ship’s Procedures and Arrangements Manual (i.e. list, trim, stripping temperature).
+.1 If yes, confirm that the procedure for emptying and stripping has been performed in accordance with the
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 ship’s Procedures and Arrangements Manual (i.e. list, trim, stripping temperature).
 
 .2 If not, quantity remaining in tank(s).
 
@@ -100,6 +102,12 @@ Subsidiary 2009/082 7. Place of unloading.
 
 .1 reception facility in unloading port (identify port1);
 
+.2 reception facility otherwise (identify port).
+
+(E) Cleaning of cargo tanks except mandatory prewash  (other prewash operations, final wash, ventilation etc.)
+
+15. State time, identify tank(s), substance(s) and category(ies) and state:
+
 1 Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate specifying the quantity of tank washings transferred, together with the time and date of the transfer.  The receipt or certificate should be kept together with the Cargo Record Book.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
@@ -107,12 +115,6 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTI
 1995-13
 
 Subsidiary 2009/082
-
-.2 reception facility otherwise (identify port).
-
-(E) Cleaning of cargo tanks except mandatory prewash  (other prewash operations, final wash, ventilation etc.)
-
-15. State time, identify tank(s), substance(s) and category(ies) and state:
 
 .1 washing procedure used;
 
@@ -142,13 +144,7 @@ Subsidiary 2009/082
 
 (G) Ballasting of cargo tanks
 
-2 Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate specifying the quantity of tank washings transferred, together with the time and date of the transfer.  The receipt or certificate should be kept together with the Cargo Record Book.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 20. Identity of tank(s) ballasted.
+20. Identity of tank(s) ballasted.
 
 21. Time at start of ballasting.
 
@@ -156,7 +152,13 @@ Subsidiary 2009/082 20. Identity of tank(s) ballasted.
 
 22. Identity of tank(s).
 
-23. Discharge of ballast:
+2 Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate specifying the quantity of tank washings transferred, together with the time and date of the transfer.  The receipt or certificate should be kept together with the Cargo Record Book.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 23. Discharge of ballast:
 
 .1 into the sea;
 
@@ -186,19 +188,21 @@ Subsidiary 2009/082 20. Identity of tank(s) ballasted.
 
 33. Have tank washings resulting from the prewash been discharged ashore and is the tank empty?
 
-3 Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate specifying the quantity of tank washings transferred, together with the time and date of the transfer.  The receipt or certificate should be kept together with the Cargo Record Book.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 34. An exemption has been granted from mandatory prewash.
+34. An exemption has been granted from mandatory prewash.
 
 35. Reasons for exemption.
 
 36. Name and signature of authorised surveyor.
 
 37. Organisation, company, government agency for which surveyor works.
+
+3 Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate specifying the quantity of tank washings transferred, together with the time and date of the transfer.  The receipt or certificate should be kept together with the Cargo Record Book.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082
 
 (K) Additional operational procedures and remarks
 

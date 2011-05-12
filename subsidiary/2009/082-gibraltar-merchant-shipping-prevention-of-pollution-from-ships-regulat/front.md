@@ -10,7 +10,7 @@ GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 200
 
 Commencement 1.12.2009
 
-Amending enactments Relevant current provisions Commencement date LN.  2011/024 rr. 2, 3(1)(b), (3)(a)(ii), 27(8)(a), (10), 63(7), 90(1)(a), 97(10), 110(4), 112(2)(b), 115(3), 117(12)(a), 120(1), 122(2A) & 122A 17.3.2011
+Amending enactments Relevant current provisions Commencement date LN.  2011/024 rr. 2, 3(1)(b), (3)(a)(ii), 27(8)(a), (10), 63(7), 90(1)(a), 97(10), 110(4), 112(2)(b), 115(3), 117(12)(a), 120(1), 122(2A) & 122A 17.3.2011 2011/063 rr. 2, 76-90, 90A-90H, 98-110, 110A- 110G, 113(4)(a), 117(4)(c)(iv), (5)(f), 120(1)(cc), 122(8)-(9), (11), Schs. 7A & 7B 12.5.2011
 
 EU Legislation/International Agreements involved: International Convention for the Prevention of Pollution from Ships, 1973 as modified by the Protocol of 1978 relating to that Convention, including all its other Protocols, Annexes and Appendices, and amendments thereto adopted by the International Maritime Organisation in accordance with Article 16 of that Convention (the “MARPOL Convention”); and
 
@@ -56,13 +56,13 @@ PART 4 PREVENTION OF POLLUTION BY HARMFUL SUBSTANCES CARRIED BY SEA IN PACKAGED 
 
 PART 5 PREVENTION OF POLLUTION BY SEWAGE FROM SHIPS
 
-76. Interpretations for Part 5. 77. Application of Part 5. 78. Exceptions under Part 5. 79. Surveys under Part 5. 80. Procedure of surveys under Part 5. 81. Maintenance of the condition of the ship and its equipment after surveys under Part 5.
+76. Interpretation of Part 5. 77. Application of Part 5. 78. Requirement for Sewage Certificate: initial survey. 79. Renewal of Sewage Certificate: renewal survey. 80. Responsibilities of the owner and master of a ship. 81. Additional surveys. 82. Issue of Sewage Certificates by a Certifying Authority. 83. Issue of Sewage Certificates by another Administration in respect of Gibraltar ships.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
-Subsidiary 2009/082 82. Issue or endorsement of International Sewage Pollution Prevention Certificate by or on behalf of the Administration. 83. Issue or endorsement of International Sewage Pollution Prevention Certificate by another Administration. 84. Issue or endorsement of International Sewage Pollution Prevention Certificate on request by another Administration. 85. Form of an International Sewage Pollution Prevention Certificate. 86. Duration and validity of the International Sewage Pollution Prevention Certificate. 87. Sewage systems. 88. Standard discharge connections. 89. Discharge of sewage. 90. Reception facilities for sewage.
+Subsidiary 2009/082 84. Issue of Sewage Certificates in respect of ships which are not Gibraltar ships. 85. Duration and validity of Sewage Certificates. 86. Extension of periods of validity of Sewage Certificates. 87. Procedure to be adopted when a ship is deficient. 88. Miscellaneous provisions relating to Sewage Certificates. 89. Prohibition on non-Gibraltar ships proceeding to sea without a Sewage Certificate. 90. Survey and certification of ships to which regulations 78, 79 and 81 do not apply. 90A.  Sewage systems. 90B.  Discharge connections. 90C.  Prohibition against discharging sewage from a ship into the sea. 90D.  Exception for a ship equipped with a sewage treatment plant. 90E.  Exception for other ships. 90F.  Inspection of ships under Part 5. 90G.  Investigation of alleged violations of Part 5 by a Gibraltar ship. 90H.  General provisions on detention under Part 5.
 
 PART 6 PREVENTION OF POLLUTION BY GARBAGE FROM SHIPS
 
@@ -70,17 +70,17 @@ PART 6 PREVENTION OF POLLUTION BY GARBAGE FROM SHIPS
 
 PART 7 PREVENTION OF AIR POLLUTION FROM SHIPS
 
-98. Application of Part 7. 99. Interpretations for Part 7. 100. General exceptions for Part 7. 101. Equivalents permitted under Part 7. 102. Surveys and inspections under Part 7. 103. Procedure of surveys under Part 7. 104. Maintenance of the condition of the ship and its equipment after surveys under Part 7. 105. Issue of International Air Pollution Prevention Certificate by or on behalf of the Administration. 106. Issue of an International Air Pollution Prevention Certificate by another Administration. 107. Issue of an International Air Pollution Prevention Certificate on request by another Administration. 108. Form of an International Air Pollution Prevention Certificate.
+98. Interpretation of Part 7. 99. Application and exemptions. 100.  Equivalents. 101.  Requirement for IAPP Certificate: initial survey. 102.  Renewal of IAPP Certificate: renewal survey. 103.  Annual survey. 104.  Intermediate surveys. 105.  Responsibilities of the owner and master of a ship. 106.  Additional surveys. 107.  Issue of IAPP certificate by the Certifying Authority.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
-Subsidiary 2009/082 109. Duration and validity of the International Air Pollution Prevention Certificate. 110. Detection of violations and enforcement. 111. Ozone-depleting substances. 112. Nitrogen oxides (NOx). 113. Sulphur oxides (SOx). 114. Volatile organic compounds. 115. Shipboard incineration. 116. Reception facilities for the purposes of Annex VI. 117. Fuel oil quality. 118. Requirements for platforms and drilling rigs.
+Subsidiary 2009/082 108.  Issue of IAPP Certificates by another Administration  in respect of Gibraltar ships. 109.  Issue of IAPP Certificates in respect of ships which are not Gibraltar ships. 110.  Duration and validity of IAPP Certificates. 110A.  Extension of periods of validity of IAPP Certificates. 110B.  Procedure to be adopted when a ship is deficient. 110C.  Miscellaneous provisions relating to IAPP Certificates. 110D.  Prohibition on non-Gibraltar ships proceeding to sea without an IAPP Certificate. 110E.  Inspection of ships under Part 7. 110F.  Investigation of alleged violations of Part 7 by a Gibraltar ship. 110G.  General provisions on detention under Part 7. 111. Ozone-depleting substances. 112. Nitrogen oxides (NOx). 113. Sulphur oxides (SOx). 114. Volatile organic compounds. 115. Shipboard incineration. 116. Reception facilities for the purposes of Annex VI. 117. Fuel oil quality. 118. Requirements for platforms and drilling rigs.
 
 PART 8 MISCELLANEOUS
 
-119. Reporting on incident. 120. Port state control on operational requirements. 121. Enforcement measures for prevention of ship-source pollution. 122. Offences and penalties. 122A. Liability of, and penalties for, corporate body. 123. Reporting to the European Commission. 124. Appeals.
+119. Reporting on incident. 120. Port state control on operational requirements. 121. Enforcement measures for prevention of ship-source pollution. 122. Offences and penalties. 122A.  Liability of, and penalties for, corporate body. 123. Reporting to the European Commission. 124. Appeals.
 
 SCHEDULE 1 List of oils
 
@@ -88,17 +88,23 @@ SCHEDULE 2 Form of IOPP Certificate and Supplements
 
 SCHEDULE 3 Form of Oil Record Book
 
-SCHEDULE 4 Form of Cargo Record Book for ships carrying noxious liquid substances in bulk
-
-SCHEDULE 5 Form of International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk
-
-SCHEDULE 6 Guidelines for the identification of harmful substances in packaged form
+SCHEDULE 4
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
-Subsidiary 2009/082 SCHEDULE 7 Form of International Sewage pollution Prevention Certificate
+Subsidiary 2009/082 Form of Cargo Record Book for ships carrying noxious liquid substances in bulk
+
+SCHEDULE 5 Form of International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk
+
+SCHEDULE 6 Guidelines for the identification of harmful substances in packaged form
+
+SCHEDULE 7 Form of International Sewage pollution Prevention Certificate
+
+SCHEDULE 7A Standard Discharge Connections
+
+SCHEDULE 7B Recommendation on Standards for the Rate of Discharge of Untreated Sewage From Ships
 
 SCHEDULE 8 Form of Garbage Record Book
 

@@ -16,12 +16,6 @@ Period from:                                                                to:
 
 Note: Oil Record Book Part I shall be provided to every oil tanker of 150 tons gross tonnage and above and every ship of 400 tons gross tonnage and above, other than oil tankers, to record relevant machinery space operations. For oil tankers, Oil Record Book Part II shall also be provided to record relevant cargo/ballast operations.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082
-
 INTRODUCTION
 
 The following pages of this section show a comprehensive list of items of machinery space operations which are, when appropriate, to be recorded in the Oil Record Book in accordance with Regulation 17 of Annex I of the MARPOL Convention. The items have been grouped into operational sections, each of which is denoted by a letter code.
@@ -30,7 +24,13 @@ When making entries in the Oil Record Book Part I, the date, operational code an
 
 Each completed operation shall be signed for and dated by the officer or officers in charge. The master of the ship shall sign each completed page.
 
-The Oil Record Book Part I contains many references to oil quantity.  The limited accuracy of tank measurement devices, temperature variations and clingage will affect the accuracy of these readings. The entries in the Oil Record Book Part I should be considered accordingly.
+The Oil Record Book Part I contains many references to oil quantity.  The limited accuracy of tank measurement devices, temperature variations and
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 clingage will affect the accuracy of these readings. The entries in the Oil Record Book Part I should be considered accordingly.
 
 In the event of accidental or other exceptional discharge of oil statement shall be made in the Oil Record Book Part I of the circumstances of, and the reasons for, the discharge.
 
@@ -40,13 +40,7 @@ The entries in the Oil Record Book Part I, for ships holding an IOPP Certificate
 
 The Oil Record Book Part I shall be kept in such a place as to be readily available for inspection at all reasonable times and, except in the case of unmanned ships under tow, shall be kept on board the ship. It shall be preserved for a period of three years after the last entry has been made.
 
-The competent authority may inspect the Oil Record Book Part I on board any ship to which Annex I applies while the ship is in the port or offshore terminals and may make a copy of any entry in that book and may require the master of the ship to certify that the copy is a true copy of such entry. Any copy so made which has been certified by the master of the ship as a true copy of an entry in the Oil Record Book Part I shall be made admissible
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 in any juridical proceedings as evidence of the facts stated in the entry.  The inspection of an Oil Record Book Part I and the taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
+The competent authority may inspect the Oil Record Book Part I on board any ship to which Annex I applies while the ship is in the port or offshore terminals and may make a copy of any entry in that book and may require the master of the ship to certify that the copy is a true copy of such entry. Any copy so made which has been certified by the master of the ship as a true copy of an entry in the Oil Record Book Part I shall be made admissible in any juridical proceedings as evidence of the facts stated in the entry.  The inspection of an Oil Record Book Part I and the taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
 
 LIST OF ITEMS TO BE RECORDED
 
@@ -59,6 +53,12 @@ LIST OF ITEMS TO BE RECORDED
 3. Cleaning process:
 
 .1 position of ship and time at the start and completion of cleaning;
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082
 
 .2 identify tank(s) in which one or another method has been employed (rinsing through, steaming, cleaning with chemicals; type and quantity of chemicals used, in cubic metres);
 
@@ -80,12 +80,6 @@ LIST OF ITEMS TO BE RECORDED
 
 8. Ship’s speed(s) during discharge.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082
-
 9. Method of discharge:
 
 .1 through 15 ppm equipment;
@@ -98,7 +92,15 @@ Subsidiary 2009/082
 
 11. Collection of oil residues.
 
-Quantities of oil residues (sludge and other oil residues) retained on board. The quantity should be recorded weekly: (This means that the quantity must be recorded once a week even if the voyage lasts more than one week).
+Quantities of oil residues (sludge and other oil residues) retained on board. The quantity should be recorded weekly:
+
+ Tanks listed in item 3.1 of forma A and B of the Supplement in the IOPP Certificates used for sludge.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 (This means that the quantity must be recorded once a week even if the voyage lasts more than one week).
 
 .1 identity of tank(s) . . . . . . . . . . . . . . . . .  m3
 
@@ -118,13 +120,7 @@ State quantity of oil residues disposed of, the tank(s) emptied and the quantity
 
 .4 other method (state which).
 
- Tanks listed in item 3.1 of forma A and B of the Supplement in the IOPP Certificates used for sludge.  Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer.  This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident.  The receipt or certificate should be kept together with the Oil Record Book Part I.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 (D) Non-automatic discharge overboard or disposal otherwise of bilge water which has accumulated in machinery spaces
+(D) Non-automatic discharge overboard or disposal otherwise of bilge water which has accumulated in machinery spaces
 
 13. Quantity discharged or disposed of, in cubic metres.
 
@@ -135,6 +131,16 @@ Subsidiary 2009/082 (D) Non-automatic discharge overboard or disposal otherwise 
 .1 through 15 ppm equipment (state position at start and end);
 
 .2 to reception facilities (identify port);
+
+ Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer.  This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident.  The receipt or certificate should be kept together with the Oil Record Book Part I.
+
+  In case of discharge or disposal of bilge water from holding tank(s), state identity and capacity of holding tank(s) and quantity retained in holding tank.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082
 
 .3 transfer to slop tank or holding tank (indicate tank(s); state quantity retained in tank(s)) in cubic metres.
 
@@ -150,17 +156,7 @@ Subsidiary 2009/082 (D) Non-automatic discharge overboard or disposal otherwise 
 
 19. Time of system failure.
 
-  In case of discharge or disposal of bilge water from holding tank(s), state identity and capacity of holding tank(s) and quantity retained in holding tank.
-
-  Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer.  This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident.  The receipt or certificate should be kept together with the Oil Record Book Part I.
-
-  The condition of the oil filtering equipment covers also the alarm and automatic stopping devices, if applicable.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 20. Time when system has been made operational.
+20. Time when system has been made operational.
 
 21. Reasons for failure.
 
@@ -175,6 +171,16 @@ Subsidiary 2009/082 20. Time when system has been made operational.
 25. Circumstances of discharge or escape, the reasons therefore and general remarks.
 
 (H) Bunkering of fuel or bulk lubricating oil
+
+  Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer.  This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident.  The receipt or certificate should be kept together with the Oil Record Book Part I.
+
+  The condition of the oil filtering equipment covers also the alarm and automatic stopping devices, if applicable.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082
 
 26. Bunkering:
 
@@ -196,19 +202,15 @@ MACHINERY SPACE OPERATIONS
 
 Date Code (letter ) Item (number) Record of operations/signature of officer in charge
 
+Signature of master . . . . . . . . . . . . . . . . . . . . . OIL RECORD BOOK
+
+PART II – Cargo/ballast operations (Oil tankers)
+
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
-Subsidiary 2009/082
-
-Signature of master . . . . . . . . . . . . . . . . . . . . .
-
-OIL RECORD BOOK
-
-PART II – Cargo/ballast operations (Oil tankers)
-
-Name of ship:
+Subsidiary 2009/082 Name of ship:
 
 Distinctive number or letters:
 
@@ -224,15 +226,17 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTI
 
 Subsidiary 2009/082
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 INTRODUCTION
+INTRODUCTION
 
 The following pages of this section show a comprehensive list of items of cargo and ballast operations which are, when appropriate, to be recorded in the Oil Record Book Part II in accordance with Regulation 36 of Annex I of the MARPOL Convention.  The items have been grouped into operational section, each of which is denoted by a code letter.
 
 When making entries in the Oil Record Book Part II, the date, operational code and item number shall be inserted in the appropriate columns and the required particulars shall be recorded chronologically in the blank spaces.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082
 
 Each completed operation shall be signed for and dated by the officer or officers in charge. The master of the ship shall countersign each completed page.
 
@@ -246,7 +250,9 @@ Any failure of the oil discharge monitoring and control system shall be noted in
 
 The entries in the Oil Record Book Part II, for ships holding an IOPP Certificate, shall be in English.  Where entries in an official language of the State whose flag the ship is entitled to fly are also used, this shall prevail in case of a dispute or discrepancy.
 
-The Oil Record Book Part II shall be kept in such a place as to be readily available for inspection at all reasonable times and, except in the case of
+The Oil Record Book Part II shall be kept in such a place as to be readily available for inspection at all reasonable times and, except in the case of unmanned Ships under tow, shall be kept on board the Ship.  It shall be preserved for a period of three years after the last entry has been made.
+
+The competent authority may inspect the Oil Record Book Part II on board any Ship to which Annex I applies while the Ship is in the port or offshore terminals and may make a copy of any entry in that book and may require the master of the Ship to certify that the copy is a true copy of such entry. Any copy so made which has been certified by the master of the Ship as a true copy of an entry in the Oil Record Book Part II shall be made admissible in any juridical proceedings as evidence of the facts stated in the entry.  The inspection of an Oil Record Book Part II and taking of a certified
 
  This sentence should only be inserted for the Oil Record Book of a tanker engaged in a specific trade.
 
@@ -254,9 +260,7 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTI
 
 1995-13
 
-Subsidiary 2009/082 unmanned Ships under tow, shall be kept on board the Ship.  It shall be preserved for a period of three years after the last entry has been made.
-
-The competent authority may inspect the Oil Record Book Part II on board any Ship to which Annex I applies while the Ship is in the port or offshore terminals and may make a copy of any entry in that book and may require the master of the Ship to certify that the copy is a true copy of such entry. Any copy so made which has been certified by the master of the Ship as a true copy of an entry in the Oil Record Book Part II shall be made admissible in any juridical proceedings as evidence of the facts stated in the entry.  The inspection of an Oil Record Book Part II and taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
+Subsidiary 2009/082 copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
 
 LIST OF ITEMS TO BE RECORDED
 
@@ -284,17 +288,17 @@ LIST OF ITEMS TO BE RECORDED
 
 7. Identity of tank(s) unloaded.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 8. Was (were) the tank(s) emptied? (If not, state quantity retained, in cubic metres.)
+8. Was (were) the tank(s) emptied? (If not, state quantity retained, in cubic metres.)
 
 (D) Crude oil washing (COW tankers only) (To be completed for each tank being crude oil washed)
 
 9. Port where crude oil washing was carried out or ship’s position if carried out between two discharge ports
 
-10. Identity of tank(s) washed1.
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 10. Identity of tank(s) washed1.
 
 11. Number of machines in use.
 
@@ -320,6 +324,12 @@ Subsidiary 2009/082 8. Was (were) the tank(s) emptied? (If not, state quantity r
 
 .2 time of start and end;
 
+.3 quantity of ballast received. Indicate total quantity of ballast for each tank involved in the operation, in cubic metres.
+
+(F) Ballasting of dedicated clean ballast tanks (CBT tankers only)
+
+20. Identity of tank(s) ballasted.
+
 1 When an individual tank has more machines than can be operated simultaneously, as described in the Operations and Equipment Manual, then the section being crude oil washed should be identified, e.g. No. 2 centre, forward section.
 
 2 In accordance with the Operations and Equipment Manual, enter whether single-stage or multistage method of washing is employed. If multi-stage method is used, give the vertical arc covered by the machines and the number of times that arc is covered for that particular stage of the programme.
@@ -330,15 +340,7 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTI
 
 1995-13
 
-Subsidiary 2009/082
-
-.3 quantity of ballast received. Indicate total quantity of ballast for each tank involved in the operation, in cubic metres.
-
-(F) Ballasting of dedicated clean ballast tanks (CBT tankers only)
-
-20. Identity of tank(s) ballasted.
-
-21. Position of ship when water intended for flushing, or port ballast was taken to dedicated clean ballast tank(s).
+Subsidiary 2009/082 21. Position of ship when water intended for flushing, or port ballast was taken to dedicated clean ballast tank(s).
 
 22. Position of ship when pump(s) and lines were flushed to slop tank.
 
@@ -364,15 +366,17 @@ Subsidiary 2009/082
 
 .1 reception facilities (state port and quantity)5;
 
+.2 slop tank(s) or cargo tank(s) designated as slop tank(s) identify tank(s); state quantity transferred and total quantity, in cubic metres).
+
 4 Hand-hosing, machine washing and/or chemical cleaning. Where chemically cleaned, the chemical concerned and amount used should be stated.
+
+5 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
 Subsidiary 2009/082
-
-.2 slop tank(s) or cargo tank(s) designated as slop tank(s) identify tank(s); state quantity transferred and total quantity, in cubic metres).
 
 (H) Discharge of dirty ballast
 
@@ -398,15 +402,7 @@ Subsidiary 2009/082
 
 41. dentity of slop tanks.
 
-5 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book.
-
-6 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 42. ime of settling from last entry of residues, or
+42. ime of settling from last entry of residues, or
 
 43. ime of settling from last discharge.
 
@@ -415,6 +411,14 @@ Subsidiary 2009/082 42. ime of settling from last entry of residues, or
 45. llage of total contents at start of discharge.
 
 46. llage of oil/water interface at start of discharge.
+
+6 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082
 
 47. ulk quantity discharged in cubic metres and rate of discharge in m³/ hour.
 
@@ -440,15 +444,17 @@ Subsidiary 2009/082 42. ime of settling from last entry of residues, or
 
 57. Method of disposal:
 
+.1 to reception facilities (identify port and quantity involved);7
+
+.2 mixed with cargo (state quantity);
+
+7 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
+
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
 Subsidiary 2009/082
-
-.1 to reception facilities (identify port and quantity involved);7
-
-.2 mixed with cargo (state quantity);
 
 .3 transferred to (an)other tank(s) (identify tank(s); state quantity  transferred and total quantity in tank(s)), in cubic metres;
 
@@ -478,17 +484,17 @@ Subsidiary 2009/082
 
 .1 into the sea; or
 
-7 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
+.2 to reception facility (identify port)8.
+
+67. Was there any indication of oil contamination of the ballast water before or during discharge into the sea?
+
+8 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
 Subsidiary 2009/082
-
-.2 to reception facility (identify port)8.
-
-67. Was there any indication of oil contamination of the ballast water before or during discharge into the sea?
 
 68. Was the discharge monitored by an oil content meter?
 
@@ -520,13 +526,7 @@ TANKERS ENGAGED IN SPECIFIC TRADES
 
 77. Identity of tank(s) ballasted.
 
-8 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 78. Position of ship when ballasted.
+78. Position of ship when ballasted.
 
 79. Total quantity of ballast loaded in cubic metres.
 
@@ -536,7 +536,11 @@ Subsidiary 2009/082 78. Position of ship when ballasted.
 
 81. Reasons for re-allocation.
 
-(R) Ballast water discharge to reception facility
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 (R) Ballast water discharge to reception facility
 
 82. Port(s) where ballast water was discharged.
 
@@ -552,7 +556,7 @@ Distinctive number or letters . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 CARGO/BALLAST OPERATIONS (OIL TANKERS)
 
-Date Code (letter ) Item (number) Record of operations/signature of officer in charge
+Date Code (letter) Item (number) Record of operations/signature of officer in charge
 
 Signature of master . . . . . . . . . . . . . . . . . . . . .
 

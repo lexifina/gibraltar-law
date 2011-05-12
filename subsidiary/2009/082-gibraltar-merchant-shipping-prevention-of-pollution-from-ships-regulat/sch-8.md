@@ -58,7 +58,7 @@ Subsidiary 2009/082
 
 (iii) Category of garbage discharged;
 
-(ii) Estimated amount discharged for each category in cubic metres;
+(iv) Estimated amount discharged for each category in cubic metres;
 
 (v) Signature of the officer in charge of the operation.
 

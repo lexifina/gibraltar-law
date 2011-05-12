@@ -52,13 +52,7 @@ Issued at ……........................... (Place of issue of certificate)
 
 (Seal or stamp of the authority, as appropriate)
 
- Insert the date of expiry as specified by the Administration in accordance with regulation 9(1) of Annex VI of the Convention.  The day and the month of this date correspond to the anniversary date as defined in regulation 2(14) of Annex VI of the Convention, unless amended in accordance with regulation 9(8) of Annex VI of the Convention.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 ENDORSEMENT FOR ANNUAL AND INTERMEDIATE SURVEYS
+ENDORSEMENT FOR ANNUAL AND INTERMEDIATE SURVEYS
 
 THIS IS TO CERTIFY that at a survey required by Regulation 5 of Annex VI of the MARPOL Convention the ship was found to comply with the relevant provisions of the Convention:
 
@@ -70,7 +64,13 @@ Place .................................................
 
 Date(dd/mm/yyyy)
 
-(Seal or stamp of the authority, as appropriate)
+ Insert the date of expiry as specified by the Administration in accordance with regulation 9(1) of Annex VI of the Convention.  The day and the month of this date correspond to the anniversary date as defined in regulation 2(14) of Annex VI of the Convention, unless amended in accordance with regulation 9(8) of Annex VI of the Convention.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 (Seal or stamp of the authority, as appropriate)
 
 Annual/Intermediate survey:       Signed:. . . . . . . . . . (Signature of duly authorised official)
 
@@ -96,13 +96,7 @@ Date(dd/mm/yyyy).....................
 
 (Seal or stamp of the authority, as appropriate)
 
- Delete as appropriate.  Delete as appropriate.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE WITH REGULATION 9(8)(c) OF ANNEX VI
+ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE WITH REGULATION 9(8)(c) OF ANNEX VI
 
 THIS IS TO CERTIFY that, at an annual/intermediate survey in accordance with Regulation 9(8)(c) of Annex VI of the MARPOL Convention, the ship was found to comply with the relevant provisions of the Convention:
 
@@ -110,7 +104,13 @@ Signed....................................................................... (S
 
 Place..........................................................................
 
-Date (dd/mm/yyyy)......................................................... (Seal or stamp of the authority, as appropriate)
+ Delete as appropriate.  Delete as appropriate.  Delete as appropriate.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 Date (dd/mm/yyyy)......................................................... (Seal or stamp of the authority, as appropriate)
 
 ENDORSEMENT TO EXTEND THE CERTIFICATE IF VALID FOR LESS THAN 5 YEARS WHERE REGULATION 9(3) OF ANNEX VI APPLIES
 
@@ -124,19 +124,19 @@ The ship complies with the relevant provisions of the Convention, and this certi
 
 Signed ....................................................................... (Signature of authorised official) Place ..........................................................................
 
+Date (dd/mm/yyyy)…………......................................... (Seal or stamp of the authority, as appropriate)
+
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE UNTIL REACHING THE PORT OF SURVEY OR FOR A PERIOD OF GRACE WHERE REGULATION 9(5) OR 9(6) OF ANNEX VI APPLIES
+
+This certificate shall, in accordance with Regulation 9(5) or 9(6) of Annex VI of the Convention, be accepted as valid until (dd/mm/yyyy)......................................................................................
+
  Delete as appropriate.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
 
 1995-13
 
-Subsidiary 2009/082 Date (dd/mm/yyyy)…………......................................... (Seal or stamp of the authority, as appropriate)
-
-ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE UNTIL REACHING THE PORT OF SURVEY OR FOR A PERIOD OF GRACE WHERE REGULATION 9(5) OR 9(6) OF ANNEX VI APPLIES
-
-This certificate shall, in accordance with Regulation 9(5) or 9(6) of Annex VI of the Convention, be accepted as valid until (dd/mm/yyyy)......................................................................................
-
-Signed ....................................................................... (Signature of authorized official)
+Subsidiary 2009/082 Signed ....................................................................... (Signature of authorized official)
 
 Place ..........................................................................
 
@@ -158,21 +158,19 @@ Signed ....................................................................... (
 
 Place ..........................................................................
 
- Delete as appropriate.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082
-
 Date ........................................................................... (Seal or stamp of the authority, as appropriate)
 
 SUPPLEMENT TO INTERNATIONAL AIR POLLUTION PREVENTION CERTIFICATE (IAPP CERTIFICATE)
 
 RECORD OF CONSTRUCTION AND EQUIPMENT
 
-In respect of the provisions of Annex VI of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, (hereinafter referred to as ‘‘the MARPOL Convention’’).
+In respect of the provisions of Annex VI of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 1978 relating thereto, (hereinafter referred to as ‘‘the MARPOL Convention’’).
 
 Notes: 1  This Record shall be permanently attached to the IAPP Certificate. The IAPP Certificate shall be available on board the ship at all times.
 
@@ -186,11 +184,7 @@ Notes: 1  This Record shall be permanently attached to the IAPP Certificate. The
 
 1.1 Name of ship . . . . . .
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 1.2 Distinctive number or letters . . . . . . .
+1.2 Distinctive number or letters . . . . . . .
 
 1.3 IMO number...........................................
 
@@ -200,7 +194,11 @@ Subsidiary 2009/082 1.2 Distinctive number or letters . . . . . . .
 
 1.6 Date on which keel was laid or ship was at a similar stage of construction.......................................
 
-1.7 Date of commencement of major engine conversion (if applicable) (Regulation 13 of Annex VI of the MARPOL Convention): ........................................................
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 1.7 Date of commencement of major engine conversion (if applicable) (Regulation 13 of Annex VI of the MARPOL Convention): ........................................................
 
 2 Control of emissions from ships
 
@@ -220,12 +218,6 @@ System equipment Location on board
 
 2.2 Nitrogen oxides (NOx) (Regulation 13 of the MARPOL Convention))
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082
-
 2.2.1 The following diesel engines with power output greater than 130 kW, and installed on a ship constructed on or after 1 January 2000, comply with the emission standards of Regulation 13(3)(a) of Annex VI of the MARPOL Convention in accordance with the NOx Technical Code:
 
 Manufacturer and model
@@ -235,6 +227,12 @@ Serial number
 Use
 
 Power output (kW) Rated speed (rpm)
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082
 
 2.2.2 The following diesel engines with power output greater than 130 kW, and which underwent major conversion per Regulation 13(2) of Annex VI of the MARPOL Convention on or after 1 January 2000, comply with the emission standards of Regulation 13(3)(a) of Annex VI in accordance with the NOx Technical Code:
 
@@ -258,12 +256,6 @@ Power output (kW) Rated speed (rpm)
 
 2.2.4 The following diesel engines from 2.2.1, 2.2.2 and 2.2.3 above are fitted with NOx emission monitoring and recording devices in accordance with the NOx Technical Code:
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082
-
 Manufacturer and model
 
 Serial number
@@ -274,7 +266,11 @@ Power output (kW) Rated speed (rpm)
 
 2.3 Sulphur oxides (SOx) (Regulation 14 of the MARPOL Convention)
 
-2.3.1 When the ship operates within an SOx emission control area specified in Regulation 14(3) of Annex VI of the MARPOL Convention, the ship uses:
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+
+1995-13
+
+Subsidiary 2009/082 2.3.1 When the ship operates within an SOx emission control area specified in Regulation 14(3) of Annex VI of the MARPOL Convention, the ship uses:
 
 .1 fuel oil with a sulphur content that does not exceed 1.5% m/m as documented by bunker delivery notes; or
 
@@ -296,13 +292,7 @@ THIS IS TO CERTIFY that this Record is correct in all respects.
 
 Issued at ............................................................................ (Place of issue of the Record)
 
-(dd/mm/yyyy).....................                     ........................................................
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 Date of issue                    (Signature of duly authorised official issuing the Record)
+(dd/mm/yyyy).....................                     ........................................................ Date of issue                    (Signature of duly authorised official issuing the Record)
 
 (Seal or stamp of the authority, as appropriate)
 

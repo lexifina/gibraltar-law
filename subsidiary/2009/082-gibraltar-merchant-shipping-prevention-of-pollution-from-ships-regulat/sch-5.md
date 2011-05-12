@@ -1,4 +1,6 @@
-SCHEDULE 5 Regulation 59(1)
+SCHEDULE 5
+
+Regulation 59(1)
 
 Form of International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk1
 
@@ -20,8 +22,6 @@ Gross tonnage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 THIS IS TO CERTIFY:
 
-1. That the ship has been surveyed in accordance with Regulation 8 of Annex II of the MARPOL Convention.
-
 1 The NLS Certificate shall be at least in English, French or Spanish.  Where entries in an official national language of the State whose flag the ship is entitled to fly are also used, this shall prevail in case of a dispute or discrepancy.
 
 2 Refer to the IMO Ship Identification Number Scheme adopted by the Organization by resolution A.600(15).
@@ -30,7 +30,7 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTI
 
 1995-13
 
-Subsidiary 2009/082
+Subsidiary 2009/082 1. That the ship has been surveyed in accordance with Regulation 8 of Annex II of the MARPOL Convention.
 
 2. That the survey showed that the structure, equipment, systems, fitting, arrangements and material of the ship and the condition thereof are in all respects satisfactory and that the ship complies with the applicable requirements of Annex II of the MARPOL Convention.
 
@@ -96,7 +96,9 @@ Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Date  (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . .
 
-(Seal or stamp of the authority, as appropriate) ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE WITH REGULATION 10.8.3 OF ANNEX II OF THE MARPOL CONVENTION
+(Seal or stamp of the authority, as appropriate)
+
+ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE WITH REGULATION 10.8.3 OF ANNEX II OF THE MARPOL CONVENTION
 
  Delete as appropriate.  Delete as appropriate.
 
