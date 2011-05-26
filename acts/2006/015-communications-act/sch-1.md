@@ -4,7 +4,7 @@ Section 99 REPEALS REPEALS COMING INTO FORCE ON APPOINTED DAY
 
 Chapter or number Short Title Extent of Repeal
 
-Ord 2000 No. 18
+Act 2000 No. 18
 
 LN 2001 No. 83
 

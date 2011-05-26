@@ -10,9 +10,11 @@ Act. No. 2006-15 Commencement (LN. 2006/071) 5.6.2006
 
 Assent 12.5.2006
 
-Amending enactments Relevant current provisions Commencement date Act.    2006-44 s. 62(1)(a) 1.10.2006
+Amending enactments Relevant current provisions Commencement date Act.   2006-44 s. 62(1)(a) 1.10.2006 LN.   2011/070 ss. 2, 4(1A), 18(3)(aa), (cc) & (c) & (3A), 19(2)(a)(i), (ii) & (iii), (b)(iii), (c)(iv), (vii) & (viii), (3) & (4), 20(5), 22(1), (2), (3), (4) & (6), 23(3), (3)(a) & (b) & (4), 24(3)(b) & (bb), 24A, 34A, 34B, 35(11), 38(4) & (4A), 40(9), (10), (11) & (12), 49(5) & (10), 50(2) & (3), 52, 59, 59A, 59B, 61(10), (11) & (12), 62(4), 91(1)(a)-(d), (7) & (12), 92(a) & (b), 96(5A), (5B) & (5C)
 
-Transposing: Directive 2002/19/EC, Directive 2002/20/EC Directive 2002/21/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2002/77/EC
+26.5.2011
+
+Transposing: Directive 2002/19/EC, Directive 2002/20/EC Directive 2002/21/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2002/77/EC Directive 2009/140/EC
 
 Communications
 
@@ -40,7 +42,7 @@ Co-operation with the European Commission and the regulatory authorities in the 
 
 Communications
 
-2006-15 24. Exception to the procedures in sections 22 and 23.
+2006-15 24. Exception to the procedures in sections 22 and 23. 24A.  Procedure for the consistent application of remedies.
 
 General information functions.
 
@@ -56,6 +58,10 @@ Regulatory framework for the electronic communications sector
 
 32. General Authorisations. 33. Universal service. 34. Access and interconnection.
 
+Security and integrity of networks and services.
+
+34A.  Security and integrity. 34B.  Implementation and enforcement.
+
 Numbering
 
 35. Numbering, addressing and naming. 36. Allocation of numbers. 37. Bidding for numbers.
@@ -66,35 +72,37 @@ SMP procedures
 
 Miscellaneous
 
-42. Electronic Communications Apparatus. 43. Prohibitions and restrictions applying to lessees with respect to electronic communications. 44. Supplementary provision to section 43.
-
-Offences under Part IV
+42. Electronic Communications Apparatus.
 
 Communications
 
-2006-15 45. Improper use of public electronic communications network. 46. Modification etc. of messages. 47. Interception and disclosure of messages etc. 48. Assaults etc on persons engaged in the business of providing a public electronic communications network.
+2006-15 43. Prohibitions and restrictions applying to lessees with respect to electronic communications. 44. Supplementary provision to section 43.
+
+Offences under Part IV
+
+45. Improper use of public electronic communications network. 46. Modification etc. of messages. 47. Interception and disclosure of messages etc. 48. Assaults etc on persons engaged in the business of providing a public electronic communications network.
 
 PART V ACQUISITION ETC OF LAND
 
-49. Right to install facilities. 50. The power to modify rights, conditions and procedures with regard to the installation of facilities. 51. Compulsory purchase of land. 52. Co-location and facility sharing. 53. Entry on land for exploratory purposes. 54. Electronic communications code. 55. Use of certain conduits for the purposes of electronic communications.
+49. Right to install facilities. 50. The power to modify rights, conditions and procedures with regard to the installation of facilities. 51. Compulsory purchase of land. 52. Co-location and sharing of network elements and associated facilities for providers of electronic communications networks. 53. Entry on land for exploratory purposes. 54. Electronic communications code. 55. Use of certain conduits for the purposes of electronic communications.
 
 PART VI PROVISIONS RELATING TO THE ELECTRO-MAGNETIC SPECTRUM
 
 Control of the Use of the Electro-Magnetic Spectrum.
 
-56. Responsibility for the electro-magnetic spectrum. 57. Duties of the Minister when carrying out spectrum functions. 58. The Gibraltar Frequency Allocation Plan. 59. Allocation and assignment of frequencies.
+56. Responsibility for the electro-magnetic spectrum. 57. Duties of the Minister when carrying out spectrum functions. 58. The Gibraltar Frequency Allocation Plan. 59. Allocation and assignment of frequencies. 59A.  Review of restrictions on existing rights 59B.  Transfer or lease of individual rights to use radio frequencies.
 
 Radiocommunications Licences
 
-60. The power to grant licences. 61. Licensing. 62. Exemption from the need to obtain a licence. 63. Fees for licences. 64. Limitation on the number of licences. 65. Bidding for licences. 66. Register of licences.
+60. The power to grant licences. 61. Licensing. 62. Exemption from the need to obtain a licence. 63. Fees for licences. 64. Limitation on the number of licences.
+
+Communications
+
+2006-15 65. Bidding for licences. 66. Register of licences.
 
 Dealing in Radiocommunications Apparatus.
 
 67. Licensing of dealers. 68. Record book to be kept by dealers. 69. Disposal of radiocommunications apparatus used privately. 70. Delivery on importation.
-
-Communications
-
-2006-15
 
 Miscellaneous
 
@@ -112,27 +120,25 @@ PART VII OFFENCES (GENERAL MATTERS), APPEALS AND DISPUTE RESOLUTION
 
 Offences (General Matters)
 
-86. Offences by others. 87. Offences by corporate bodies. 88. Continuation of the offence. 89. Summary proceedings. 90. Civil proceedings.
-
-Appeals
-
-91.  Appeals against decisions of the Minister or the Authority.
-
-Dispute resolution
-
-92. Reference of disputes to the Authority.
+86. Offences by others. 87. Offences by corporate bodies. 88. Continuation of the offence. 89. Summary proceedings.
 
 Communications
 
-2006-15 93. Action by the Authority on dispute reference. 94. Legal proceedings about referred disputes. 95. Procedure for resolving disputes. 96. Disputes involving Gibraltar and one or more Member States. 97. Resolution of referred disputes. 98. The Authority’s power to require information in connection with a dispute.
+2006-15 90. Civil proceedings.
+
+Appeals
+
+91. Appeals against decisions of the Minister or the Authority.
+
+Dispute resolution
+
+92. Reference of disputes to the Authority. 93. Action by the Authority on dispute reference. 94. Legal proceedings about referred disputes. 95. Procedure for resolving disputes. 96. Disputes involving Gibraltar and one or more Member States. 97. Resolution of referred disputes. 98. The Authority’s power to require information in connection with a dispute.
 
 PART VIII FINAL PROVISIONS
 
 99. Transitional provisions and repeals. 100. Payments to the Consolidated Fund. 101. Application to the Crown. 102. Force Majeure.
 
-SCHEDULE
-
-REPEALS COMING INTO FORCE ON APPOINTED DAY.
+SCHEDULE REPEALS COMING INTO FORCE ON APPOINTED DAY.
 
 Communications
 
