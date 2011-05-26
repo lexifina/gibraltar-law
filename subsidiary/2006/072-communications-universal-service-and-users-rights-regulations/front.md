@@ -10,9 +10,19 @@ COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
 
 5.6.2006
 
-EU Legislation/International Agreements involved: Directive 92/44/EC Directive 2002/22/EC Directive 2002/58/EC
+Amending enactments Relevant current provisions Commencement date
 
-____________________________
+LN. 2011/072 rr. 2, 3, 4(3) & (4), 5, 6, 7(7A), (7B) & (7C), 8(1) (2)(a), 10, 13, 14, 15, 16, 17(1), (2), (3), (4) & (4A), 18, 18A, 19, 19A, 20(2), 21, 22, 23(2)(b), (3) & (4), 23A, 24, 25(1) & (6), 26,27(1A) & (7), 28(1)(b) & (3), 29(7), 30(3) & (4), Schs, 1, 3, 4 & 5
+
+26.5.2011
+
+EU Legislation/International Agreements involved: Directive 92/44/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2009/136/EC
+
+Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
+
+2006-15
+
+Subsidiary 2006/072
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -24,25 +34,25 @@ PART I
 
 UNIVERSAL SERVICE OBLIGATIONS
 
-3. Provision of access at a fixed location. 4. Directory enquiry services and directories. 5. Public pay telephones. 6. Specific measures for disabled users. 7. Designation of universal service providers. 8. Affordability of tariffs for universal services. 9. Control of expenditure. 10. Quality of service of designated universal service providers. 11. Costing of universal service obligations. 12. Sharing of burden of universal service obligations.
+3. Provision of access at a fixed location and provision of telephone services. 4. Directory enquiry services and directories. 5. Public pay telephones and other public voice telephony access points. 6. Measures for disabled users. 7. Designation of universal service providers. 8. Affordability of tariffs for universal services. 9. Control of expenditure. 10. Quality of service of designated universal service providers. 11. Costing of universal service obligations. 12. Sharing of burden of universal service obligations.
 
 PART II
 
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
+REGULATORY CONTROLS ON PERSONS WITH SIGNIFICANT MARKET POWER IN SPECIFIC RETAIL MARKETS
 
-2006-15
-
-Subsidiary 2006/072
-
-REGULATORY CONTROLS ON PERSONS WITH SIGNIFICANT MARKET POWER
-
-13. Continuation of existing obligations. 14. Regulatory controls on retail markets. 15. Regulatory controls on the minimum set of leased lines. 16. Carrier selection and carrier pre-selection.
+13. Repealed. 14. Regulatory controls on specific retail markets. 15. Regulatory controls on the minimum set of leased lines. 16. Carrier selection and carrier pre-selection.
 
 PART III
 
 END USERS’ INTERESTS AND RIGHTS
 
-17. Contracts. 18. Transparency and publication of information. 19. Integrity of the network. 20. Interoperability of consumer digital television equipment. 21. Operator assistance and directory services. 22. Emergency call numbers. 23. European telephone access codes. 24. Non-geographic numbers. 25. Provision of additional facilities. 26. Number portability. 27. Must-carry obligations.
+17. Contracts. 18. Transparency and publication of information. 18A.  Quality of Service. 19. Availability of services.
+
+Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
+
+2006-15
+
+Subsidiary 2006/072 19A.  Ensuring equivalence in access and choice for disabled end-users. 20. Interoperability of consumer digital television equipment. 21. Telephone directory enquiry services. 22. Emergency call numbers. 23. European telephone access codes. 23A.  Harmonised numbers for harmonised services of social value. 24. Access to numbers and services. 25. Provision of additional facilities. 26. Facilitating change of provider. 27. Must-carry obligations.
 
 PART IV
 
@@ -52,15 +62,15 @@ GENERAL PROVISIONS
 
 SCHEDULE 1
 
-DESCRIPTION OF FACILITIES AND SERVICES REFERRED TO IN REGULATIONS 9 AND 25
+DESCRIPTION OF FACILITIES AND SERVICES REFERRED TO IN REGULATIONS 9, 25 and 26
 
-Part A Facilities and Services referred to in regulation 9.
+SCHEDULE 2 CALCULATION METHOD FOR DETERMINING THE NET COST OF COMPLYING WITH A UNIVERSAL SERVICE OBLIGATION IN THE CIRCUMSTANCES DESCRIBED IN REGULATION 11 (5) AND THE PRINCIPLES APPLICABLE TO A SHARING MECHANISM IN ACCORDANCE WITH REGULATION 12 (7)
 
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
+Part A Calculation method for determining the net cost of complying with a universal service obligation in the circumstances described in regulation 11 (5).
 
-2006-15
+Part B Principles applicable to a sharing mechanism in accordance with regulation 12 (7).
 
-Subsidiary 2006/072 Part B Facilities referred to in regulation 25.
+SCHEDULE 3 Repealed.
 
 Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
 
@@ -68,25 +78,9 @@ Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATION
 
 Subsidiary 2006/072
 
-SCHEDULE 2
+SCHEDULE 4 INFORMATION TO BE PUBLISHED IN ACCORDANCE WITH REGULATION 18
 
-CALCULATION METHOD FOR DETERMINING THE NET COST OF COMPLYING WITH A UNIVERSAL SERVICE OBLIGATION IN THE CIRCUMSTANCES DESCRIBED IN REGULATION 11 (5) AND THE PRINCIPLES APPLICABLE TO A SHARING MECHANISM IN ACCORDANCE WITH REGULATION 12 (7)
-
-Part A Calculation method for determining the net cost of complying with a universal service obligation in the circumstances described in regulation 11 (5).
-
-Part B Principles applicable to a sharing mechanism in accordance with regulation 12 (7).
-
-SCHEDULE 3
-
-PRINCIPLES APPLICABLE TO THE PROVISION OF THE MINIMUM SET OF LEASED LINES IN ACCOPRDANCE WITH REGULATION 15 (3) (b)
-
-SCHEDULE 4
-
-INFORMATION TO BE PUBLISHED IN ACCORDANCE WITH REGULATION 18
-
-SCHEDULE 5
-
-QUALITY OF SERVICE PARAMETERS : SUPPLY-TIME AND QUALITY-OF-SERVICE PARAMETERS, DEFINITIONS AND MEASUREMENT METHODS REFERRED TO REGULATIONS 10 (2) AND 18 (6)
+SCHEDULE 5 QUALITY OF SERVICE PARAMETERS
 
 Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
 

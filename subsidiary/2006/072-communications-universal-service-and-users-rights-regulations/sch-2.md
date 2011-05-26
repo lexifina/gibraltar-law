@@ -36,6 +36,14 @@ In accordance with Article 13(3) of the Universal Service Directive, a sharing m
 
 The independent person administering the fund is to be responsible for collecting contributions from those who are assessed as liable to contribute to the net cost of universal service obligations in Gibraltar and is to oversee the transfer of sums due and/or administrative payments to the persons entitled to receive payments from the fund.
 
+_________________
+
+Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
+
+2006-15
+
+Subsidiary 2006/072 SCHEDULE 3 Repealed.
+
 Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
 
 2006-15

@@ -1,28 +1,24 @@
-SCHEDULE 4
-
-Regulation 18(2)
+SCHEDULE 4 Regulation 18(2)
 
 INFORMATION TO BE PUBLISHED IN ACCORDANCE WITH REGULATION 18
 
-1. The name and address of the head office of the person on whom the relevant obligation under regulation 18 has been imposed.
+1.  The name and address of the head office of the person on whom the relevant obligation under regulation 18 has been imposed.
 
-2. Publicly available telephone services offered, including–
+2.  Description of services offered, including–
 
-(i) the scope of the publicly available telephone service
+(a) scope of services offered;
 
-description of the publicly available telephone services offered and indicating what is included in the subscription charge and the periodic rental charge (e.g. operator services, directories, directory enquiry services, selective call barring, itemised billing, maintenance etc.)
+(b) standard tariffs indicating the services provided and the content of each tariff element (e.g. charges for access, all types of usage charges, maintenance charges), and including details of standard discounts applied and special and targeted tariff schemes and any additional charges, as well as costs with respect to terminal equipment;
 
-(ii) standard tariffs covering access, all types of usage charges, maintenance, and including details of standard discounts applied and special and targeted tariff schemes
+(c) compensation and refund policies, including specific details of any compensation or refund schemes offered;
 
-(iii) compensation and refund policies, including specific details of any compensation or refund schemes offered
+(d) types of maintenance service offered;
 
-(iv) types of maintenance service offered
+(e) standard contract conditions, including any minimum contractual period, termination of the contract and procedures and direct charges related to the portability of numbers and other identifiers, if relevant.
 
-(v) standard contract conditions, including any minimum contractual period, if relevant.
+3.  Dispute settlement mechanisms including those developed by the person on whom the relevant obligation under regulation 18 has been imposed.
 
-3. Dispute settlement mechanisms including those developed by the person on whom the relevant obligation under regulation 18 has been imposed.
-
-4. Information about rights as regards universal service, including the facilities and services mentioned in Schedule 1.
+4.  Information about rights as regards universal service, including, where appropriate, the facilities and services mentioned in Schedule 1.
 
 Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
 
