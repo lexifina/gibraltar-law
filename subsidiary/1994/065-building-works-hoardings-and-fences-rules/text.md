@@ -1,34 +1,24 @@
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
+Subsidiary Legislation made under ss.42 and 337.
 
-1950-07
+Building Works (Hoardings and Fences) Rules 1994
 
-Subsidiary 1994/065 Rules made under ss. 42 and 337.
+LN.1994/065
 
-BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-(LN. 1994/065)
-
-1.8.1994
+Commencement 1.8.1994
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1994/120 r. 11(1) 1.8.1994 1997/102 r. 11(1)(a), (b), (2) 9.10.1997 1999/015 r. 1, 3(7), (8), (9) (10), 12 18.2.1999
+LN. 1994/120 r. 11(1) 1.8.1994 1997/102 r. 11(1)(a), (b), (2) 9.10.1997 1999/015 r. 1, 3(7), (8), (9) (10), 12 18.2.1999 2011/079 rr. 4(1)(d) & (g), 4(1A) 9.6.2011
 
-__________________________
+ARRANGEMENT OF RULES
 
-ARRANGEMENT OF RULES.
-
-Rule
+Rules
 
 1. Title and commencement. 2. Requirement for close board hoarding. 3. Permission to erect a hoarding. 4. Construction and appearance of hoarding. 5. Obstruction of pedestrian and vehicular access. 6. Prior notification. 7. Rights of access. 8. Obstruction to road drainage. 9. Obligation to remedy damage. 10. Application for extension of time. 11. Fees. 12. Application to these regulations to fences.
 
 SCHEDULE Persons entitled to prior notification.
 
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-1950-07
-
-Subsidiary 1994/065 Title and commencement.
+Title and commencement.
 
 These Rules may be cited as the Building Works (Hoardings and Fences) Rules 1994 and shall come into effect on the 1st day of August, 1994.
 
@@ -48,17 +38,13 @@ Provided that where such works are required to be carried out to deal with circu
 
 Permission to erect a hoarding.
 
-3. (1) No hoarding required to be erected in accordance with rule 2, shall be erected unless, an application having been made in accordance with sub- rule (2) permission to erect such a hoarding has been granted.
+3. (1) No hoarding required to be erected in accordance with rule 2, shall be erected unless, an application having been made in accordance with sub-rule (2) permission to erect such a hoarding has been granted.
 
 (2) An application to erect a hoarding required in accordance with rule 2, shall be made to the Building Control Officer no later than fifteen working days before the date on which it is intended the hoarding shall he erected:
 
 Provided that in the case of emergency the proviso to that rule shall apply in respect of the requirement of fifteen working days notice.
 
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-1950-07
-
-Subsidiary 1994/065 (3) An application to erect a hoarding shall be made in the form prescribed in Schedule I to the Building Works (Hoardings) Regulations 1994.
+(3) An application to erect a hoarding shall be made in the form prescribed in Schedule I to the Building Works (Hoardings) Regulations 1994.
 
 (4) Where an application made under sub-rule (2) is granted by the Building Control Officer and the fees specified in rule II have been paid, a notice shall be issued in the form prescribed in Schedule 2 to the Building Works (Hoardings and Fences) Regulations 1994, and such notice shall constitute permission for the erection of the hoarding.
 
@@ -80,11 +66,7 @@ Construction and appearance of hoarding.
 
 (a) close boarded of solid and uniform construction;
 
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-1950-07
-
-Subsidiary 1994/065 (b) made of materials intended for the purpose which do not either by their nature or by the method of construction–
+(b) made of materials intended for the purpose which do not either by their nature or by the method of construction–
 
 (i) present a hazard to the public; or
 
@@ -92,15 +74,21 @@ Subsidiary 1994/065 (b) made of materials intended for the purpose which do not 
 
 (c) at least 2.5 metres in height or such other height as may be specified by the Building Control Officer;
 
-(d) painted white with a red horizontal line 200 millimetres wide at a level approximately 1.5 meters from the ground;
+(d) painted white, or such other colour as the Building Control Officer considers appropriate, so as to be visible in poor lighting conditions and especially at night, with a 200mm wide line at a level approximately mid point of the hoarding; this line should normally be red but the Building Control Officer may permit company colours to be used;
 
 (e) adequate to contain the building works and exclude the public;
 
 (f) secured and constructed in a safe and secure manner;
 
-(g) devoid of all notices, advertisements, posters, bills or other material except a copy of the notice giving permission for the erection of that hoarding displayed in a position which may easily be read by a member of the public standing outside the hoarding;
+(g) devoid of all posters, bills or other material except advertising permitted under sub-rule (1A) and a copy of the notice giving permission for the erection of the hoarding displayed in a position which may easily be read by a member of the public standing outside the hoarding;
 
 (h) lit during the times and in the manner specified in the notice giving permission for the erection of the hoarding.
+
+(1A) The Building Control Officer may, after considering a proposal by the person erecting the hoarding, permit advertising on the hoarding which shall be
+
+(a) limited to 10% of the area of the hoarding; and
+
+(b) solely associated with promoting the development within or behind the hoarding.
 
 (2) If, in the opinion of the Building Control Officer a hoarding in respect of which permission has been given under rule 3–
 
@@ -108,17 +96,11 @@ Subsidiary 1994/065 (b) made of materials intended for the purpose which do not 
 
 (b) is not, in the opinion of the Building Control Officer, properly maintained in respect of either its appearance or its safety,
 
-such permission may be withdrawn by the Building Control Officer in respect of that hoarding from the time that the officer shall serve notice, in writing, on the person to whom permission for the erection of the hoarding was granted or from such later date not being more than twenty-four hours later as may be specified in that notice.
+such permission may be withdrawn by the Building Control Officer in respect of that hoarding from the time that the officer shall serve notice, in writing, on the person to whom permission for the erection of the hoarding was granted or from such later date not being more than twenty- four hours later as may be specified in that notice.
 
 Obstruction of pedestrian and vehicular access.
 
-5(1) Where permission is granted under rule 3 in respect of a hoarding which obstructs the footpath, the person to whom that permission is granted,
-
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-1950-07
-
-Subsidiary 1994/065 where so required by the terms of that permission, shall construct outside the hoarding and in accordance with any conditions imposed in that respect in the permission, a covered platform and hand rail to serve as a footway for pedestrians and shall, if so required, protect that platform and pedestrians using the platform against damage and injury–
+5(1) Where permission is granted under rule 3 in respect of a hoarding which obstructs the footpath, the person to whom that permission is granted, where so required by the terms of that permission, shall construct outside the hoarding and in accordance with any conditions imposed in that respect in the permission, a covered platform and hand rail to serve as a footway for pedestrians and shall, if so required, protect that platform and pedestrians using the platform against damage and injury–
 
 (a) from above from the building works;
 
@@ -140,12 +122,6 @@ Prior notification.
 
 (a) he has notified the persons listed in Schedule 1 of–
 
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-1950-07
-
-Subsidiary 1994/065
-
 (i) his intention to construct a hoarding;
 
 (ii) the precise location of that hoarding; and
@@ -158,7 +134,7 @@ and either–
 
 (c) having received objections from the persons to whom notification is required, he has amended the location or the method of construction, as the case may be, to comply with the objections.
 
-(2) Any person entitled to receive a notification in accordance with sub- rule (1), may require that the location or method of construction of the hoarding be amended such that it provides reasonable protection to any underground services falling in the area within the hoarding or on the line of the hoarding.
+(2) Any person entitled to receive a notification in accordance with sub-rule (1), may require that the location or method of construction of the hoarding be amended such that it provides reasonable protection to any underground services falling in the area within the hoarding or on the line of the hoarding.
 
 Rights of access.
 
@@ -167,12 +143,6 @@ Rights of access.
 (2) All inspection covers of installations which are the property or responsibility of the Government or a person listed in Schedule 1 which are within or on the line of a hoarding to which these rules apply, shall, at all times, be kept free of obstruction and accessible for the purpose of inspection and carrying out of any work.
 
 (3) Where the Building Control Officer is of the opinion that the provisions of this rule are not being observed, he may issue a notice, in writing, to the person to whom permission in respect of that hoarding was granted under rule 3, requiring that person to comply with the provisions of the rule by the time specified in the notice, being a time not more than twelve hours after the time at which the notice was served on that person.
-
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-1950-07
-
-Subsidiary 1994/065
 
 (4) In the event that a person on whom notice has been served under sub-rule (3), fails to comply with that notice, the Building Control Officer may withdraw the permission in respect of that hoarding.
 
@@ -196,11 +166,7 @@ Application for extension of time.
 
 (2)  Where an application made under sub-rule (1) is granted, the notice issued under rule 3 (4), shall be amended to show the revised date, and that revised notice shall be displayed in accordance with rule 3 (6).
 
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-1950-07
-
-Subsidiary 1994/065 (3)  Where an application is made under sub-rule (1), the application shall be accompanied by the fee specified in rule 11 in respect of each day by which the application seeks to defer the date by which the hoarding shall have been removed.
+(3)  Where an application is made under sub-rule (1), the application shall be accompanied by the fee specified in rule 11 in respect of each day by which the application seeks to defer the date by which the hoarding shall have been removed.
 
 Fees.
 
@@ -219,12 +185,6 @@ Provided that where the works in respect of which the hoarding is erected are wo
 Application of these rules to fences.
 
 12. Rules 2, 3, 4(1)(b), (c), (e), (f), (g) and (h), 4(2) and 5 to 11, shall apply to fences as they apply to hoardings.
-
-Public Health BUILDING WORKS (HOARDINGS AND FENCES) RULES, 1994
-
-1950-07
-
-Subsidiary 1994/065
 
 SCHEDULE
 
