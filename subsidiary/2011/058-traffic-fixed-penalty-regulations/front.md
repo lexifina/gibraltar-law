@@ -10,6 +10,10 @@ TRAFFIC (FIXED PENALTY) REGULATIONS 2011
 
 Commencement 14.4.2011
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2011/084 Sch. 1 9.6.2011
+
 _______________________
 
 ARRANGEMENT OF REGULATIONS.
