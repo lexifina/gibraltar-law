@@ -48,7 +48,7 @@ LN. 1983/100 Schs. 2-3
 
 Social Security (Non-Contributory Benefits and Unemployment Insurance)
 
-1955-15
+1955-15 2011/135 Sch. 3 1.7.2011
 
 English Source National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
