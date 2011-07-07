@@ -10,9 +10,9 @@ Act. No.  2006-37 Commencement (LN. 2007/018) 1.3.2007
 
 Assent 14.12.2006
 
-Amending enactments Relevant current provisions Commencement date LN. 2009/068 rr. 2(1) & (4)(e), 6(5), 7(1)(a), (b) & (2), 7(2), 14(1), 15(3A), (3B) & (3C), 16(3), (4) & (5), 38, 38A, 45A - 45D, 53(1), 55(1) - (4) 26.11.2009
+Amending enactments Relevant current provisions Commencement date LN. 2009/068 rr. 2(1) & (4)(e), 6(5), 7(1)(a), (b) & (2), 7(2), 14(1), 15(3A), (3B) & (3C), 16(3), (4) & (5), 38, 38A, 45A - 45D, 53(1), 55(1) - (4) 26.11.2009 2011/107 r. 68A 7.7.2011
 
-Transposing: Directive 2002/73/EC Directive 2004/113/EC
+Transposing: Directive 2002/73/EC Directive 2004/113/EC Directive 2008/52/EC
 
 Equal Opportunities
 
@@ -60,11 +60,11 @@ PART VIII Validity of contracts, collective agreements and rules of undertakings
 
 PART IX Remedies.
 
-64. Restriction of proceedings for breach of this Act. 65. Questioning of employer etc. 66. Questioning of employer by other persons. 67. Service of questions and replies under section 65 or section 66. 68. Time limits for bringing proceedings in the Industrial Tribunal or Supreme Court. 69. Jurisdiction of the Industrial Tribunal. 70. Remedies on complaints in the Industrial Tribunal under section 73. 71. Disputes and enforcement – equality clauses (section 31) and equal treatment rules (section 34). 72. Procedure before Tribunal in cases under section 71. 73. Procedure before Tribunal – occupational pension schemes. 74. Burden of proof in the Industrial Tribunal. 75. Interest on compensation. 76. Jurisdiction of the Supreme Court. 77. Burden of proof in the Supreme Court.
+64. Restriction of proceedings for breach of this Act. 65. Questioning of employer etc. 66. Questioning of employer by other persons. 67. Service of questions and replies under section 65 or section 66. 68. Time limits for bringing proceedings in the Industrial Tribunal or Supreme Court. 68A.  Postponement of effect of expiry of limitation periods for certain mediated cross-border disputes. 69. Jurisdiction of the Industrial Tribunal. 70. Remedies on complaints in the Industrial Tribunal under section 73. 71. Disputes and enforcement – equality clauses (section 31) and equal treatment rules (section 34). 72. Procedure before Tribunal in cases under section 71. 73. Procedure before Tribunal – occupational pension schemes. 74. Burden of proof in the Industrial Tribunal. 75. Interest on compensation.
 
 Equal Opportunities
 
-2006-37
+2006-37 76. Jurisdiction of the Supreme Court. 77. Burden of proof in the Supreme Court.
 
 PART X Miscellaneous.
 
