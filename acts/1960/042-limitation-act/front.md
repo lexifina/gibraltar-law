@@ -12,7 +12,9 @@ Assent 29.12.1960
 
 Amending enactments Relevant current provisions
 
-Acts. 1965-10 ss. 5-6, 8, 10 1973-35 ss. 5(3), 7, 7A-7B, 10(4) 1983-48 s. 17(3) 2009-41 ss. 4(1), 10A-10B, 28A, 32(1)-(2) 29.10.2009*
+Acts. 1965-10 ss. 5-6, 8, 10 1973-35 ss. 5(3), 7, 7A-7B, 10(4) 1983-48 s. 17(3) 2009-41 ss. 4(1), 10A-10B, 28A, 32(1)-(2) 29.10.2009* LN. 2011/106 s. 33A 7.7.2011
+
+Transposing: Directive 2008/52/EC
 
 English Sources: Limitation act 1939 (2 & 3 Geo.6 c.21) Law Reform (Limitation of Actions, etc) Act 1954 (2 & 3 Eliz.2 c.36) Limitation Act 1963 (1963 c.47) Law Reform (Miscellaneous Provisions) Act 1971 (1971 c.43)
 
@@ -40,6 +42,6 @@ Limitation
 
 PART III. GENERAL.
 
-33.  Application to arbitrations. 34.  Provisions as to set-off or counter-claim. 35.  Acquiescence. 36.  Application to the Crown. 37.  Saving. 38.  Transitional provisions.
+33.  Application to arbitrations. 33A. Postponement of effect of expiry of limitation periods for certain mediated cross-border disputes. 34.  Provisions as to set-off or counter-claim. 35.  Acquiescence. 36.  Application to the Crown. 37.  Saving. 38.  Transitional provisions.
 
 Limitation
