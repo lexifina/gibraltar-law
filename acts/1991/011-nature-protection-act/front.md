@@ -30,7 +30,13 @@ Act.  1992-08 ss. 5(1)(d)(e)(f), (4), 10(1) (d)(e)(f),(2),3(a) and (6)
 
 Nature Protection
 
-1991-11 Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC
+1991-11 Act.  2011-191 ss. 24A, 24B, 24C, 24D, 24E, 24F & Sch. 10
+
+18.8.2011
+
+Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC
+
+1 The provisions of Schedule 10 of the Nature Protection Act inserted by this amendment supersede all other arrangements relating to admission fees to the Upper Rock Nature Reserve and fees collected under such other arrangements shall be deemed to have been duly collected under this Act.
 
 Nature Protection
 
@@ -98,19 +104,17 @@ PART IIB APPROPRIATE ASSESSMENTS FOR LAND USE PLANS
 
 PART III. NATURE CONSERVATION.
 
-18ZA.  Protection of habitats from pollution or deterioration. 18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Scientific Authorities. 21. Wildlife Warden. 22. Offences by bodies corporate etc. 23. Amendment to Schedules. 24. Regulations. 24A. Admission to and fees for entry into a nature conservation area. 25. Amendment to Animals and Birds Act.
+18ZA.  Protection of habitats from pollution or deterioration. 18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Scientific Authorities. 21. Wildlife Warden. 22. Offences by bodies corporate etc. 23. Amendment to Schedules. 24. Regulations. 24A. Fees for entry into a nature conservation area. 24B. Fees for entry into tourist sites within a nature conservation area. 24C. Fees (Miscellaneous). 24D. Terms and conditions of entry. 24E. Offences. 24F. Exclusion Orders. 25. Amendment to Animals and Birds Act.
 
 SCHEDULE 1 – SPECIFIED WILD ANIMALS.
 
 SCHEDULE 2 – EXCLUDED PLANTS.
 
-SCHEDULE 3 – ENDANGERED WILD BIRDS, WILD ANIMALS AND WILD PLANTS.
-
-SCHEDULE 4 – PROCEDURE IN CONNECTION WITH ORDERS UNDER SECTION 17M.
-
 Nature Protection
 
-1991-11
+1991-11 SCHEDULE 3 – ENDANGERED WILD BIRDS, WILD ANIMALS AND WILD PLANTS.
+
+SCHEDULE 4 – PROCEDURE IN CONNECTION WITH ORDERS UNDER SECTION 17M.
 
 SCHEDULE 5 – EUROPEAN PROTECTED SPECIES OF ANIMALS.
 
@@ -121,6 +125,8 @@ SCHEDULE 7 – Repealed
 SCHEDULE 8 – THIS SCHEDULE REPRODUCES THE TEXT OF DIRECTIVE 2009/147/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 30 NOVEMBER 2009 ON THE CONSERVATION OF WILD BIRDS
 
 SCHEDULE 9 – WILD BIRDS WHICH RE-USE THEIR NESTS
+
+SCHEDULE 10 −  ADMISSION FEES
 
 Nature Protection
 
