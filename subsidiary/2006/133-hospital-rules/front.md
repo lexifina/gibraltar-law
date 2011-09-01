@@ -10,13 +10,19 @@ HOSPITAL RULES 2006
 
 Commencement 1.2.2007 (LN. 2007/021)
 
-____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF RULES
+LN. 2011/128 rr. 3A, 6(7) & Sch. 1 1.9.2011
+
+Medical and Health HOSPITAL RULES 2006
+
+1997-25
+
+Subsidiary 2006/133 ARRANGEMENT OF RULES
 
 Rule
 
-1. Title and commencement. 2. Interpretation. 3. Admission of patients. 4. Fees payable by non-entitled person. 5. Fees payable by out-patients. 6. Payment and recovery of fees. 7. Assessment of accommodation fees. 8. Removal of persons from hospital in certain cases. 9. Remission of fees. 10. Visits to patients. 11. Delegation of powers. 12. Theatre procedure. 13. Free medicine. 14. Cost of appliances. 15. Private diagnostic investigations. 16. Payment for maternity care. 17. Revocation.
+1. Title and commencement. 2. Interpretation. 3. Admission of patients. 3A.   Form to be completed by patient. 4. Fees payable by non-entitled person. 5. Fees payable by out-patients. 6. Payment and recovery of fees. 7. Assessment of accommodation fees. 8. Removal of persons from hospital in certain cases. 9. Remission of fees. 10. Visits to patients. 11. Delegation of powers. 12. Theatre procedure. 13. Free medicine. 14. Cost of appliances. 15. Private diagnostic investigations. 16. Payment for maternity care. 17. Revocation.
 
 SCHEDULE 1
 
