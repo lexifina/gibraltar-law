@@ -10,6 +10,10 @@ ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
 
 Commencement 26.11.2009
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2011/154 r. 7A 22.9.2011
+
 EU Legislation/International Agreements involved: Directive 2006/118/EC Directive 2008/99/EC Directive 2014/80/EU
 
 Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
@@ -22,7 +26,7 @@ ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title. 2. Interpretation. 3. Threshold values. 4. Assessment of groundwater chemical status. 5. Significant and sustained upward trends and the definition of starting points for trends reversals. 6. Prevention or limitation of inputs of pollutants into groundwater. 7. Exemptions. 8. Repeal.
+1. Title. 2. Interpretation. 3. Threshold values. 4. Assessment of groundwater chemical status. 5. Significant and sustained upward trends and the definition of starting points for trends reversals. 6. Prevention or limitation of inputs of pollutants into groundwater. 7. Exemptions. 7A.   Liability of bodies corporate - general. 8. Repeal.
 
 SCHEDULE 1 THRESHOLD VALUES FOR GROUNDWATER POLLUTANTS AND INDICATORS OF POLLUTION
 
