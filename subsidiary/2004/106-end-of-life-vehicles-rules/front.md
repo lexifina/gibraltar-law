@@ -10,9 +10,9 @@ END-OF LIFE VEHICLES RULES 2004
 
 Commencement 18.11.2004
 
-Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010
+Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011
 
-Transposing: Directive 2000/53/EC Directive 2008/112/EC Commission Decision 2002/151/EC Commission Decision 2002/525/EC
+Transposing: Directive 2000/53/EC Directive 2008/99/EC Directive 2008/112/EC Commission Decision 2002/151/EC Commission Decision 2002/525/EC
 
 Public Health END-OF LIFE VEHICLES RULES 2004
 
@@ -56,7 +56,7 @@ Part VI Storage and treatment of end-of life vehicles
 
 Part VII Final provisions
 
-38.  Power of Enforcement Authority to prevent or remedy pollution. 39.  Appeals to Magistrates’ Court. 40.  Offences. 41.  Amendments to the Traffic (Licensing and Registration) Regulations.
+38.  Power of Enforcement Authority to prevent or remedy pollution. 39.  Appeals to Magistrates’ Court. 40.  Offences. 40A. Liability of bodies corporate - general. 41.  Amendments to the Traffic (Licensing and Registration) Regulations.
 
 Schedule 1 Minimum requirements for the certificate of destruction issued in accordance with article 5(3) of Directive 2002/151/EC.
 
@@ -64,13 +64,13 @@ Schedule 2 Specimen form of compliance notice.
 
 Schedule 3 Technical requirements for the treatment and storage of end-of life vehicles.
 
-Schedule 4 General rules (as required to be adopted further to article 11(1) of the waste directive).
+Schedule 4
 
 Public Health END-OF LIFE VEHICLES RULES 2004
 
 1950-07
 
-Subsidiary 2004/106
+Subsidiary 2004/106 General rules (as required to be adopted further to article 11(1) of the waste directive).
 
 Schedule 5 Recovery operations.
 
