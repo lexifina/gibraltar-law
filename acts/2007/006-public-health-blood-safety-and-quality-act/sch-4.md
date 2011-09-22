@@ -76,13 +76,13 @@ Public Health (Blood Safety and Quality)
 
 2007-06 preservation conditions
 
-pH 6.4 -7.4 corrected for 22°C, at the end of the shelf life Platelets, apheresis, leucocyte- depleted Volume Valid for storage characteristics to maintain product within specifications for pH
+pH Minimum 6.4 corrected for 22°C, at the end of the shelf life Platelets, apheresis, leucocyte- depleted Volume Valid for storage characteristics to maintain product within specifications for pH
 
 Platelet content Variations in platelet content per single donation are permitted within the limits that comply with validated preparation and preservation conditions
 
 Leucocyte content Less than 1 x 106 per unit
 
-pH 6.4 -7.4 corrected for 22°C, at the end of the shelf life Platelets, recovered, pooled Volume Valid for storage characteristics to maintain product within specifications for pH
+pH Minimum 6.4 corrected for 22°C, at the end of the shelf life Platelets, recovered, pooled Volume Valid for storage characteristics to maintain product within specifications for pH
 
 Platelet content Variations in platelet content per pool are permitted within limits that comply with validated preparation and
 
@@ -94,13 +94,13 @@ Leucocyte content Less than 0.2 x 109 per single unit (platelet-rich plasma meth
 
 Less than 0.05 x 109 per single unit (buffy coat method)
 
-pH 6.4 -7.4 corrected for 22°C, at the end of the shelf life Platelets, recovered, pooled, leucocyte- depleted Volume Valid for storage characteristics to maintain product within specifications for pH
+pH Minimum 6.4 corrected for 22°C, at the end of the shelf life Platelets, recovered, pooled, leucocyte- depleted Volume Valid for storage characteristics to maintain product within specifications for pH
 
 Platelet content Variations in platelet content per pool are permitted within limits that comply with validated preparation and preservation conditions
 
 Leucocyte content Less than 1 x 106 per pool
 
-pH 6.4 -7.4 corrected for 22°C, at the end of the shelf life Platelets, recovered, single unit Volume Valid for storage characteristics to maintain product within specifications for
+pH Minimum 6.4 corrected for 22°C, at the end of the shelf life Platelets, recovered, single unit Volume Valid for storage characteristics to maintain product within specifications for
 
 Public Health (Blood Safety and Quality)
 
@@ -112,17 +112,17 @@ Leucocyte content Less than 0.2 x 109 per single unit (platelet-rich plasma meth
 
 Less than 0.05 x 109 per single unit (buffy coat method)
 
-pH 6.4 -7.4 corrected for 22°C, at the end of the shelf life Platelets, recovered, single unit, leucocyte- depleted Volume Valid for storage characteristics to maintain product within specifications for pH
+pH Minimum 6.4 corrected for 22°C, at the end of the shelf life Platelets, recovered, single unit, leucocyte- depleted Volume Valid for storage characteristics to maintain product within specifications for pH
 
 Platelet content Variations in platelet content per single unit are permitted within limits that comply with validated preparation and preservation conditions
 
 Leucocyte content Less than 1 x 106 per unit
 
-pH 6.4 -7.4 corrected
+pH Minimum 6.4
 
 Public Health (Blood Safety and Quality)
 
-2007-06 for 22°C, at the end of the shelf life Plasma, fresh- frozen Volume Stated volume +/- 10%
+2007-06 corrected for 22°C, at the end of the shelf life Plasma, fresh- frozen Volume Stated volume +/- 10%
 
 Factor VIIIc(*) Average (after freezing and thawing): 70% or more of the value of the freshly collected plasma unit
 

@@ -8,7 +8,11 @@ Principal Act
 
 Act. No. 2007-06 Commencement (LN. 2008/003) 31.1.2008 Assent 13.4.2007
 
-Transposing: Directive 2002/98/EC Directive 2004/33/EC Directive 2005/61/EC Directive 2005/62/EC
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2011/157 Sch. 4 22.9.2011
+
+Transposing: Directive 2002/98/EC Directive 2004/33/EC Directive 2005/61/EC Directive 2005/62/EC Directive 2011/38/EU
 
 Public Health (Blood Safety and Quality)
 
