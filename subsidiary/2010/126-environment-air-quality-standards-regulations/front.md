@@ -10,6 +10,10 @@ ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
 
 Commencement 15.7.2010
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.   2011/148 r. 32A 22.9.2011
+
 EU Legislation/International Agreements involved: Directive 2004/107/EC Directive 2008/50/EC Directive 2008/99/EC Directive 2015/2193/EU Council Regulation (EC) No 219/2009 Commission Directive (EU) 2015/1480
 
 Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
@@ -72,7 +76,7 @@ Transboundary air pollution
 
 PART 7
 
-32. Offences. 33. Revocations.
+32. Offences. 32A.  Liability of bodies corporate - general. 33. Revocations.
 
 SCHEDULE 1 Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe
 
