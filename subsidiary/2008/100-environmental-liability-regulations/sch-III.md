@@ -50,4 +50,6 @@ Subsidiary 2008/100 94/55/EC of 21 November 1994 on the approximation of the law
 
 13. The management of extractive waste pursuant to Directive 2006/21/EC of the European Parliament and of the Council of 15 March 2006 on the management of waste from extractive industries.
 
+14. The operation of storage sites pursuant to Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide.
+
 15. The management of extractive waste pursuant to Directive 2006/21/EC of the European Parliament and of the Council of 15 March 2006 on the management of waste from the extractive industries.

@@ -12,7 +12,7 @@ Commencement 11.12.2008
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2009/081 Sch. 26.11.2009
+LN. 2009/081 Sch. 26.11.2009 2011/175 Sch. 29.9.2011
 
 EU Legislation/International Agreements involved: Directive 67/548/EEC Directive 75/442/EEC Directive 76/464/EEC Directive 79/409/EEC Directive 80/68/EEC Directive 84/360/EEC Directive 85/337/EEC Directive 90/219/EEC Directive 91/414/EEC Directive 91/689/EEC Directive 92/43/EEC Directive 93/75/EEC Directive 94/55/EC Directive 96/49/EC Directive 96/61/EC Directive 98/8/EC Directive 1999/31/EC Directive 1999/45/EC Directive 2000/60/EC Directive 2000/60/EC Directive 2000/76/EC Directive 2001/18/ EC Directive 2001/80/EC Directive 2004/35/EC Directive 2006/12/EC Directive 2006/21/EC Directive 2008/1/EC Directive 2009/31/EC Directive 2013/30/EU Regulation (EEC) No 259/93 Regulation (EC) No 1013/2006
 
@@ -26,7 +26,9 @@ Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
 
 2005-27
 
-Subsidiary 2008/100 the International Convention of 3 May 1996 on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea;
+Subsidiary 2008/100
+
+the International Convention of 3 May 1996 on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea;
 
 the Convention of 10 October 1989 on Civil Liability for Damage Caused during Carriage of Dangerous Goods by Road, Rail and Inland Navigation Vessels.
 

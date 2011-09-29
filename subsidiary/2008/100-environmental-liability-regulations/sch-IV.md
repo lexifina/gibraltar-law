@@ -2,13 +2,13 @@ ANNEX IV INTERNATIONAL CONVENTIONS REFERRED TO IN ARTICLE 4(2) OF THE DIRECTIVE
 
 (a) the International Convention of 27 November 1992 on Civil Liability for Oil Pollution Damage;
 
-(b) the International Convention of 27 November 1992 on the Establishment of an International Fund for Compensation for Oil Pollution Damage;
-
 Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
 
 2005-27
 
 Subsidiary 2008/100
+
+(b) the International Convention of 27 November 1992 on the Establishment of an International Fund for Compensation for Oil Pollution Damage;
 
 (c) the International Convention of 23 March 2001 on Civil Liability for Bunker Oil Pollution Damage;
 
