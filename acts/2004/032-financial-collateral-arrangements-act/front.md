@@ -14,6 +14,8 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2005-28 s.2 23.5.2005 LN. 2008/097 Corrigendum
 
+2011/217 ss. 2-11 27.10.2011
+
 English sources: None cited
 
 EU Legislation/International Agreements involved: Directive 2002/47/EC
@@ -24,19 +26,7 @@ Financial Collateral Arrangements
 
 Section. Part 1 General
 
-1. Title. 2. Interpretation.
-
-Part 2 Modification of legislation and court procedures for financial collateral arrangements
-
-3. Certain legislation requiring formalities not to apply to financial collateral arrangements. 4. Certain legislation restricting enforcement not to apply. 5. No requirement to apply to court to foreclose on a mortgage to enforce a security financial collateral arrangement. 6. Duty to value collateral in accordance with market price on appropriation. 7. Modification of the law on bankruptcy.
-
-Part 3 Financial collateral arrangements to take effect in accordance with their terms
-
-8. Right of use under security financial collateral arrangements. 9. Close-out netting provisions to take effect in accordance with its terms.
-
-Part 4 Conflict of laws
-
-10.  Standard test regarding which country’s law is applicable to book entry securities financial collateral arrangements.
+1. Title. 2. Interpretation. 3. Application of Act. 4. Collateral taker and collateral provider. 5. Formal requirements. 6. Enforcement of financial collateral arrangements. 7. Right of use of financial collateral under security financial collateral arrangements. 8. Recognition of title transfer financial collateral arrangements and close-out netting provisions. 9. Realisation or valuation. 10.  Enforceability of financial collateral arrangements. 11.  Governing law.
 
 Financial Collateral Arrangements
 
