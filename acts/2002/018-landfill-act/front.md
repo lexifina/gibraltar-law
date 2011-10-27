@@ -12,9 +12,11 @@ Assent 16.12.2002
 
 Amending enactments Relevant current provisions Commencement date
 
-Act.   2007-35 ss. 6(3), (6) & (7), 11(8) & Sch. 4 5.7.2007
+Act.   2007-35 ss. 6(3), (6) & (7), 11(8) & Sch. 4 5.7.2007 LN.  2011/214 ss. 2(1) & (2B), 5(1)(f), (fa), (2A), (2B), (2C) & (2D) & Sch. 5
 
-Transposing: Directive 1999/31/EC Decision 2003/33/EC
+27.10.2011
+
+Transposing: Directive 1999/31/EC Decision 2003/33/EC Directive 2006/66/EC
 
 Landfill
 
@@ -31,6 +33,8 @@ SCHEDULE 2 GENERAL REQUIREMENTS FOR ALL CLASSES OF LANDFILLS.
 SCHEDULE 3 MONITORING PROCEDURES IN OPERATION AND AFTER-CARE PHASES
 
 SCHEDULE 4 PROVISIONS RELATING TO ACCEPTANCE OF WASTE SUPPLEMENTARY TO SCHEDULE 1
+
+SCHEDULE 5 TREATMENT REQUIREMENTS
 
 Landfill
 
