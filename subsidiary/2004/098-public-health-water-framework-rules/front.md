@@ -14,9 +14,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2010/168 rr. 2(1), 10A-10B, 11A, 17A, 19 Sch.9-10 25.11.2010 2011/025 rr. 2, 7A, 9(3A), 9A, 10(1A), (5), 18, 20- 22, Schs.4A, 8A-8B
 
-17.3.2011
+17.3.2011 2011/218 r. 23, Sch.11 27.10.2011
 
-Transposing: Directive 2000/60/EC Directive 2008/105/EC
+Transposing: Directive 2000/60/EC Directive 2008/105/EC Directive 2009/90/EC
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
@@ -28,19 +28,21 @@ Rule
 
 1. Title. 2. Interpretation. 3. Duties. 4 Designation of river basin districts. 5. Characterisation of river basin district. 6. Economic analysis of water use in river basin district. 7. Bodies of water used for the abstraction of drinking water. 7A.   Combined approach for point and diffuse sources. 8. Register of protected areas. 9. Monitoring programmes. 9A.   Use of information gathered from monitoring. 10.  Environmental objectives and programmes of measures. 10A.  Environmental quality standards. 10B  Transboundary pollution. 11.  River basin management plans. 11A. Mixing zones. 12. River basin district management plans: public information and consultation. 13.  River basin management plans: approval. 14. River basin management plans: review. 15. Supplementary plans. 16. Duty to have regard to river basin management plans and supplementary plans. 17. Publication of information. 17A. Inventory of emissions, discharges and losses. 18.  Recovery of costs. 19. International coordination. 20.    Directions. 21.    Appeal. 22.    Offences by corporate bodies.
 
+Miscellaneous
+
+23.
+
 SCHEDULE 1 Functional enactments.
 
 SCHEDULE 2 Map of Gibraltar River Basin District.
-
-SCHEDULE 3 Characterisation etc.
-
-SCHEDULE 4
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 Economic analysis.
+Subsidiary 2004/098 SCHEDULE 3 Characterisation etc.
+
+SCHEDULE 4 Economic analysis.
 
 SCHEDULE 4A This Schedule reproduces annex IX to the Directive.
 
@@ -59,6 +61,8 @@ SCHEDULE 8B This Schedule Reproduces Annex VIII of The Directive
 SCHEDULE 9 Environmental Quality Standards for Priority Substances and Certain Other Pollutants
 
 SCHEDULE 10 List of Priority Substances in the Field of Water Policy
+
+SCHEDULE 11 Minimum performance criteria for methods of analysis and rules for demonstrating the quality of analytical results
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
@@ -659,6 +663,10 @@ Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 1950-07
 
 Subsidiary 2004/098 (4) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of a partner, he as well as the partnership is guilty of the offence and liable to be proceeded against and punished accordingly.
+
+Miscellaneous
+
+23.  Where these Rules require the monitoring of water status, sediment and biota or the analysis of such results, that monitoring or analysis shall be undertaken in conformity with the rules and criteria set out in Schedule 11.
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 

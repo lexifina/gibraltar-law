@@ -97,3 +97,9 @@ Subsidiary 2004/098 8
 (5)  Only Pentabromobiphenylether (CAS-number 32534-81-9).
 
 (6)  Fluoranthene is on the list as an indicator of other, more dangerous polyaromatic hydrocarbons.
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098
