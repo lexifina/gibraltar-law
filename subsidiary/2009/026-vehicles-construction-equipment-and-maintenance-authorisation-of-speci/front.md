@@ -1,22 +1,16 @@
-Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) (AUTHORISATION OF SPECIAL TYPES) REGULATIONS 2009
+Subsidiary Legislation made under s.57.
 
-2005-26
+Vehicles (Construction, Equipment and Maintenance) (Authorisation of Special Types) Regulations 2009
 
-Subsidiary 2009/026 Subsidiary Legislation made under s. 57.
-
-VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) (AUTHORISATION OF SPECIAL TYPES) REGULATIONS 2009
-
-(LN. 2009/026)
+LN.2009/026
 
 Commencement 30.4.2009
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2013/017 r. 14 31.1.2012
+LN. 2013/017 r. 14 31.1.2012
 
-______________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -24,8 +18,4 @@ Regulation
 
 SCHEDULE
 
-Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) (AUTHORISATION OF SPECIAL TYPES) REGULATIONS 2009
-
-2005-26
-
-Subsidiary 2009/026 In exercise of the powers conferred upon it by section 57 of the Traffic Act 2005 and all other enabling powers, the Government has made the following Regulations
+In exercise of the powers conferred upon it by section 57 of the Traffic Act 2005 and all other enabling powers, the Government has made the following Regulations
