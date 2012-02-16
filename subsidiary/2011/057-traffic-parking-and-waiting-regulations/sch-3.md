@@ -6,7 +6,7 @@ The prescribed fee or fine for any matter or offence referred to in column 1 of 
 
 1. MATTER OR OFFENCE 2. AMOUNT OF FEE, CHARGE OR FINE
 
-Issue of parking permit in connection with a parking scheme (fee) £ zero Parking in a Pay and Display car park (fee) For the first 30 minutes: 50p (minimum payment 20p) For one hour:   £1.00 For two hours: £2.00 Parking in a Pay and Display car park for less than 2 hours without having paid the correct fee (fine) £30 Parking in a Pay and Display car park for more than 2 hours without having paid the correct fee (fine)
+Issue of parking permit in connection with a parking scheme (fee) £ zero Parking in a Pay and Display car park (fee) For the first 30 minutes: 50p (minimum payment 20p) For one hour:   £1.00 For two hours: £2.00 Parking in a Pay and Display car park without having paid the correct fee or without displaying the ticket as required by regulations (fine)
 
 £50
 
