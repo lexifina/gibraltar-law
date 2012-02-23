@@ -10,9 +10,9 @@ END-OF LIFE VEHICLES RULES 2004
 
 Commencement 18.11.2004
 
-Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011
+Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011 2012/018 rr. 2, 5A 23.2.2012
 
-Transposing: Directive 2000/53/EC Directive 2008/99/EC Directive 2008/112/EC Commission Decision 2002/151/EC Commission Decision 2002/525/EC
+Transposing: Directive 2000/53/EC Directive 2008/99/EC Directive 2008/112/EC Directive 2011/37/EU Commission Decision 2002/151/EC Commission Decision 2002/525/EC
 
 Public Health END-OF LIFE VEHICLES RULES 2004
 
@@ -30,7 +30,7 @@ Part I Preliminary
 
 Part II Application
 
-3.   Vehicles and end-of life vehicles to which these Rules apply. 4.   Existing Community legislation and relevant national legislation. 5.   Exemptions for certain vehicles.
+3.   Vehicles and end-of life vehicles to which these Rules apply. 4.   Existing Community legislation and relevant national legislation. 5.   Exemptions for certain vehicles. 5A. Prevention.
 
 Part III Information Requirements
 
@@ -42,13 +42,13 @@ Part IV Certificate of Destruction
 
 Part V Delivery of end-of life vehicles to treatment facilities
 
-19.  Application. 20.  Delivery of an end-of life vehicle to a treatment facility.
+19.  Application.
 
 Public Health END-OF LIFE VEHICLES RULES 2004
 
 1950-07
 
-Subsidiary 2004/106 21.  Producers to meet significant part of costs. 22.  Offences.
+Subsidiary 2004/106 20.  Delivery of an end-of life vehicle to a treatment facility. 21.  Producers to meet significant part of costs. 22.  Offences.
 
 Part VI Storage and treatment of end-of life vehicles
 
