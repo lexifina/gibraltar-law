@@ -12,7 +12,9 @@ Assent 29.3.2005
 
 Amending enactments Relevant current provisions Commencement date Act.   2011-18 ss. 44(4), 89(1)(j) & (2), 92, 97, 98A, 98(2), 101(c) & 104
 
-14.7.2011
+14.7.2011 LN. 2012/034 ss. 31A, 59, 59A, 60(3), 60A & 61A 19.3.2012
+
+Transposing: Directive 2006/126/EC
 
 Traffic
 
@@ -42,17 +44,19 @@ Licensing of Drivers
 
 Traffic
 
-2005-26 26. Requirements as to physical and mental fitness. 27. Requirements for granting of driving licence. 28. Disqualification. 29. No person to hold two licences. 30. Form and effect of driving licence. 31. Categories of motor vehicles. 32. Duration of driving licences. 33. Production of licences. 34. Learners. 35. Services driving licences. 36. Suspension of licences 37. Renewal of licences. 38. Appeals. 39. Disqualification for offences and endorsement of convictions. 40. Provisions as to disqualifications and suspensions. 41. Provisions as to endorsements. 42. Meaning of “driving licence”. 43. Restriction on driving by young persons, etc. 44. Speed limit.
+2005-26 26. Requirements as to physical and mental fitness. 27. Requirements for granting of driving licence. 28. Disqualification. 29. No person to hold two licences. 30. Form and effect of driving licence. 31. Categories of motor vehicles. 31A.  Conditions and restrictions. 32. Duration of driving licences. 33. Production of licences. 34. Learners. 35. Services driving licences. 36. Suspension of licences 37. Renewal of licences. 38. Appeals. 39. Disqualification for offences and endorsement of convictions. 40. Provisions as to disqualifications and suspensions. 41. Provisions as to endorsements. 42. Meaning of “driving licence”. 43. Restriction on driving by young persons, etc. 44. Speed limit.
 
 Provisions as to Driving and Offences in connection therewith
 
-45. Causing death by reckless or dangerous driving of motor vehicles. 46. Careless driving. 47. Reckless or dangerous driving. 48. Power to convict of reckless or dangerous driving on trial for man- slaughter. 49. Power to proceed on charge of careless driving on hearing of charge for reckless driving. 50. Prohibition of motor racing and speed trials on roads. 51. Restriction on pillion riding. 52. Restriction on prosecutions under the preceding sections. 53. Duty to give name and address and to stop: power of arrest. 54. Accidents, 55. Restrictions on persons being towed by, getting on to or tampering with motor vehicles. 56. Prohibition of motor vehicles not complying with regulations. 57. Regulations. 58. Exemption. 59. Recognition of EEA State driving licences. 60. Exchangeable licences. 61. Regulations for facilitating international traffic.
-
-PART IV DRINKING AND DRIVING
+45. Causing death by reckless or dangerous driving of motor vehicles. 46. Careless driving. 47. Reckless or dangerous driving. 48. Power to convict of reckless or dangerous driving on trial for man- slaughter. 49. Power to proceed on charge of careless driving on hearing of charge for reckless driving. 50. Prohibition of motor racing and speed trials on roads. 51. Restriction on pillion riding. 52. Restriction on prosecutions under the preceding sections. 53. Duty to give name and address and to stop: power of arrest. 54. Accidents, 55. Restrictions on persons being towed by, getting on to or tampering with motor vehicles. 56. Prohibition of motor vehicles not complying with regulations. 57. Regulations. 58. Exemption. 59. Recognition and exchange of EEA State driving licences. 59A.  Recognition of EEA licences: minimum ages. 60. Exchangeable licences. 60A.  Anti-forgery measures. 61. Regulations for facilitating international traffic. 61A.  Entitlements not affected by Third Driving Licence Directive.
 
 Traffic
 
-2005-26 62. Driving, or being in charge, when under influence of drink or drugs. 63. Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit. 64. Arrests on suspicion of having alcohol in the body. 65. Provision of specimens for analysis following arrest. 66. Choice of specimens of breath. 67. Protection for hospital patients. 68. Detention of persons affected by alcohol or a drug. 69. Use of specimens in proceedings for an offence under sections 62 or 63. 70. Documentary evidence as to specimens in such proceedings. 71. Discretionary disqualification. 72. Protection of officers in relation to the arrest of persons suspected of being over the prescribed limit. 73. Interpretation of Part.
+2005-26
+
+PART IV DRINKING AND DRIVING
+
+62. Driving, or being in charge, when under influence of drink or drugs. 63. Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit. 64. Arrests on suspicion of having alcohol in the body. 65. Provision of specimens for analysis following arrest. 66. Choice of specimens of breath. 67. Protection for hospital patients. 68. Detention of persons affected by alcohol or a drug. 69. Use of specimens in proceedings for an offence under sections 62 or 63. 70. Documentary evidence as to specimens in such proceedings. 71. Discretionary disqualification. 72. Protection of officers in relation to the arrest of persons suspected of being over the prescribed limit. 73. Interpretation of Part.
 
 PART V REGULATION OF HORSE-DRAWN VEHICLES AND BICYCLES
 
@@ -68,11 +72,11 @@ Regulations
 
 PART VII STREETS AND HIGHWAYS
 
-81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs. 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 86. Duty of pedestrians to comply with traffic directions given by police officers.
+81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs.
 
 Traffic
 
-2005-26 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
+2005-26 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
 
 PART VIII GENERAL
 
@@ -82,7 +86,9 @@ SCHEDULE Offences in Respect of which Disqualification or Endorsement  may be or
 
 Traffic
 
-2005-26 NUMBERING REFERENCE TABLE
+2005-26
+
+NUMBERING REFERENCE TABLE
 
 Numbering in the 1957 Act Numbering in the 2005 Act Numbering in the 1957 Act Numbering in the 2005 Act 1 1 17 34 PART I PART I 18 35 2 2 19 36 2A 3 20 37 3 4 21 38 PART IA PART II 22 - 4 5 23 39 4A 6 24 40 4B 7 25 41 4C 8 26 42 4D 9 27 43 4E 10 28 44 4F 11 29 45 4G - 30 46 4H 12 31 47 4I 13 32 48 PART II PART III 33 49 5 14 34 - 6 15 35 - 7 16 36 50 8 17 37 51 9 18 38 52 10 19 39 53 11 20 40 54 12 - 41 55 13 21 42 56 14 22 43 - 15 23 44 57 16 24 45 58 16A 25 46 59 16B 26 - 60 16C 27 46A - 16D 28 46B - 16E 29 46C - 16F 30 46D - 16G 31 46E - 16H 32 46F - 16I 33 46G -
 
