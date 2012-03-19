@@ -50,6 +50,4 @@ Supplementary.
 
 7.  No order for costs may be made.
 
-Mutual Legal Assistance (European Union)
-
-2004-03
+_____________________

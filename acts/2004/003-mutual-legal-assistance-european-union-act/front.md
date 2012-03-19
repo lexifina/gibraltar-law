@@ -14,9 +14,11 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2005-31 s.2 23.5.2005 2005-70 Long title, ss. 1, 2, 3(1) & (2), 12(5), 14, 19(1), 22, 23, 24-40 & Sch.2
 
-29.12.2005 2007-02 s.2 19.4.2007 2007-17 s.2 14.6.2007
+29.12.2005 2007-02 s.2 19.4.2007 2007-17 s.2 14.6.2007 LN. 2012/0321 ss. 24-49 & Sch. 2 19.3.2012
 
-Transposing: Directive 76/308/EEC
+Transposing: Directive 76/308/EEC Directive 2010/24/EU
+
+1 Notice of corrigenda LN. 2012/052
 
 Mutual Legal Assistance (European Union)
 
@@ -34,15 +36,31 @@ PART II MUTUAL LEGAL ASSISTANCE IN RESPECT OF COURT OR OTHER PROCEEDINGS
 
 PART III MUTUAL LEGAL ASSISTANCE IN MATTERS NOT FALLING WITHIN THE SCOPE OF PART II
 
-24.  Interpretation. 25.  Application. 26.  Supply of information. 27.  Service of official documents. 28.  Enforcement of claims.
+24.  Interpretation. 25.  Application of Part. 26.  Administration of this Part.
+
+Exchange of Information
 
 Mutual Legal Assistance (European Union)
 
-2004-03 29.  Requirements for a request for the recovery of a claim. 30.  Recognition of instruments permitting enforcement of a claim. 31.  Payment of recovered claims. 32.  Recovery: supplementary. 33.  Conditions for non-assistance. 34.  Limitation periods. 35.  Duty of confidentiality. 36.  Requests for assistance to be in English. 37.  Recovery of cost of assistance. 38.  Rules of court. 39.  Regulations. 40.  Notification to the European Commission.
+2004-03
+
+27.  Request for information. 28.  Exchange of information without prior request. 29.  Presence in administrative offices and participation in administrative enquiries.
+
+Assistance for the Notification of Documents
+
+30.  Request for notification of certain documents relating to claims. 31.  Means of notification.
+
+Recovery or Precautionary Measures
+
+32.  Request for recovery. 33.  Conditions governing a request for recovery. 34.  Instrument permitting enforcement and other accompanying documents. 35.  Execution of the request for recovery. 36.  Disputes. 37.  Amendment or withdrawal of the request for recovery assistance. 38.  Request for precautionary measures. 39.  Rules governing the request for precautionary measures. 40.  Limits to the obligations on the competent authority. 41.  Limitation periods. 42.  Costs.
+
+General Rules Governing all types of Assistance Requests
+
+43.  Standard forms and means of communication. 44.  Use of languages. 45.  Disclosure of information and documents. 46.  Application of other agreements on assistance. 47.  Reporting. 48.  Rules of Court. 49.  Regulations.
 
 SCHEDULE 1 PROCEEDINGS UNDER SECTION 14
 
-SCHEDULE 2
+SCHEDULE 2 Repealed.
 
 Mutual Legal Assistance (European Union)
 
