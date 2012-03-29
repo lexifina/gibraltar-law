@@ -10,11 +10,13 @@ Act. No. 2011-21 Commencement (LN. 2011/236) 22.12.2011
 
 Assent 6.10.2011
 
+Amending enactments Relevant current provisions Commencement date Act. 2012-02 s. 2(1) 29.3.2012
+
 Implementing: Regulation (EC) No. 300/2008
 
-______________________________
+Aviation Security (EU Common Rules)
 
-ARRANGEMENT OF SECTIONS.
+2011-21 ARRANGEMENT OF SECTIONS.
 
 PART I PRELIMINARY PROVISIONS
 
@@ -30,19 +32,23 @@ PART III AVIATION SECURITY PROGRAMMES
 
 PART IV ADMINISTRATION OF THE ACT
 
-13. The civil aviation security regulator. 14. Inspection of aircraft, the Gibraltar Airport and adjoining land. 15. Regulations.
-
-Aviation Security (EU Common Rules)
-
-2011-21 16. Directions by the Minister. 17. Service of documents.
+13. The civil aviation security regulator. 14. Inspection of aircraft, the Gibraltar Airport and adjoining land. 15. Regulations. 16. Directions by the Minister. 17. Service of documents.
 
 PART V MISCELLANEOUS AND GENERAL
 
-Offences (General matters) 18. Offences. 19. False statements relating to baggage, cargo etc. 20. False statements in connection with identity documents. 21. Unauthorised presence in a security restricted area. 22. Unauthorised presence on board aircraft. 23. Offences by a corporate body. 24. Offences by others. 25. Summary proceedings. 26. Civil proceedings.
+Offences (General matters) 18. Offences. 19. False statements relating to baggage, cargo etc. 20. False statements in connection with identity documents. 21. Unauthorised presence in a security restricted area. 22. Unauthorised presence on board aircraft. 23. Offences by a corporate body.
+
+Aviation Security (EU Common Rules)
+
+2011-21 24. Offences by others. 25. Summary proceedings. 26. Civil proceedings.
 
 General
 
 27. Governor’s constitutional responsibilities.
+
+Aviation Security (EU Common Rules)
+
+2011-21
 
 Aviation Security (EU Common Rules)
 
