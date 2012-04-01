@@ -4,7 +4,7 @@ Paragraph 4(1)
 
 Standard Minimum Remuneration Rates
 
-Age 16 and over
+Age 15 and over
 
 Amount Relevant calculation Hourly Remuneration £5.40
 
