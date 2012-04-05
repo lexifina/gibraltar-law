@@ -12,7 +12,7 @@ Commencement 9.6.2011 Commencement Notice LN. 2011/083
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2011/089 r. 3(13) & Sch. 3 9.6.2011 2012/015 rr. 23(2)(a), 41, 60A & Sch. 3 16.2.2012
+LN. 2011/089 r. 3(13) & Sch. 3 9.6.2011 2012/015 rr. 23(2)(a), 41, 60A & Sch. 3 16.2.2012 2012/055 r. 4A 5.4.2012
 
 _______________________________
 
@@ -26,17 +26,19 @@ PART I PRELIMINARY AND INTERPRETATION
 
 PART II GENERAL PROVISIONS RELATING TO PARKING
 
-3. Prohibition of parking. 4. Bus Stops. 5. Time limits in car parks. 6. Parking for official Vehicles.
+3. Prohibition of parking. 4. Bus Stops. 4A.  Parking in a Bus Stop - Certificate of exemption. 5. Time limits in car parks. 6. Parking for official Vehicles.
 
 Establishment of Parking Schemes
 
-7. Distinct Parking zones. 8. Parking Schemes.
+7. Distinct Parking zones.
 
 Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 
 2005-26
 
-Subsidiary 2011/057 Content of Parking Schemes
+Subsidiary 2011/057 8. Parking Schemes.
+
+Content of Parking Schemes
 
 9. Designation of parking spaces. 10.  Permits. 11.  Traffic Signs for parking schemes.
 
@@ -62,13 +64,11 @@ Disabled Persons Badges
 
 Issue, duration and revocation of badges
 
-32.  Disabled persons and disabled person’s badge. 33.   Institutional badges.
-
 Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 
 2005-26
 
-Subsidiary 2011/057 34.  Period of issue of a badge. 35.  Replacement of badges. 36.  Grounds for refusal to issue a badge. 37.  Return of badge to the issuing authority. 38.  Appeal.
+Subsidiary 2011/057 32.  Disabled persons and disabled person’s badge. 33.   Institutional badges. 34.  Period of issue of a badge. 35.  Replacement of badges. 36.  Grounds for refusal to issue a badge. 37.  Return of badge to the issuing authority. 38.  Appeal.
 
 Form and display of badges
 
@@ -88,13 +88,13 @@ General Provisions relating to immobilisation and removal of vehicles
 
 PART V OFFENCES BY DRIVERS OF FOREIGN REGISTERED VEHICLES
 
-52.  Power to impose financial penalty deposit requirement. 53.  Financial penalty deposit requirement. 54.  Making of payment in compliance with requirement. 55.  Prohibition on driving on failure to make payment.
+52.  Power to impose financial penalty deposit requirement. 53.  Financial penalty deposit requirement. 54.  Making of payment in compliance with requirement.
 
 Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 
 2005-26
 
-Subsidiary 2011/057 56.  Power to immobilise or remove a vehicle to which Regulation 55 applies. 57.  Offences. 58.  False or misleading statement.
+Subsidiary 2011/057 55.  Prohibition on driving on failure to make payment. 56.  Power to immobilise or remove a vehicle to which Regulation 55 applies. 57.  Offences. 58.  False or misleading statement.
 
 PART VI FINAL PROVISIONS
 
