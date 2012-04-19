@@ -1,12 +1,14 @@
-Medical and Health MEDICINES (GENERAL SALE LIST) REGULATIONS, 1987
+Subsidiary Legislation made under the Medical and Health Act (1973-05), saved and deemed to have been made under s.66.
 
-Subsidiary 1987/143 1997-25 Regulations made under the Medical and Health Act (Act. 1973-05), saved and deemed to have been made under s.66.
+Medicines (General Sale List) Regulations, 1987
 
-MEDICINES (GENERAL SALE LIST) REGULATIONS, 1987
+LN.1987/143
 
-(LN. 1987/143)
+Commencement 5.5.1988
 
-5.5.1988
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2012/059 r. 2(2) 19.4.2012
 
 __________________________________
 
@@ -15,5 +17,3 @@ ARRANGEMENT OF REGULATIONS
 Regulation
 
 1. Title and commencement. 2. General Sale List.
-
-Medical and Health MEDICINES (GENERAL SALE LIST) REGULATIONS, 1987
