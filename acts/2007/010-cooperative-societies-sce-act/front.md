@@ -1,22 +1,18 @@
-Cooperative Societies (SCE)
-
-2007-10
-
-COOPERATIVE SOCIETIES (SCE) ACT 2007
+Cooperative Societies (SCE) Act 2007
 
 Principal Act
 
-Act. No.  2007-10 Commencement 26.4.2007
+Act. No. 2007-10 Commencement 26.4.2007
 
 Assent 20.4.2007
 
-Transposing Directive 2003/72/EC
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2012/063 ss. 2, 3(1)(c)-(e), 4(6), 7(2A), Sch. 26.4.2012
+
+Transposing Directive 2003/72/EC Directive 2008/104/EC
 
 Implementing: Regulation (EC) 1435/2003
-
-Cooperative Societies (SCE)
-
-2007-10
 
 ARRANGEMENT OF SECTIONS
 
@@ -42,18 +38,14 @@ PART V MISCELLANEOUS PROVISIONS
 
 10. Reservation and confidentiality. 11. Operation of the representative body and procedure for the information and consultation of employees. 12. Protection of employees’ representatives. 13.   Misuse of procedures. 14.  Offences. 15. Link between this Act and other provisions.
 
-Cooperative Societies (SCE)
+PART VI
 
-2007-10
-
-PART VI THE EC REGULATION
+THE EC REGULATION
 
 16.   Competent authority. 17. Register. 18. Publication of documents. 19. Winding Up.
 
 SCHEDULE STANDARD RULES
 
-Cooperative Societies (SCE)
-
-2007-10 AN ACT TO GIVE EFFECT TO COUNCIL REGULATION (EC) NO. 1435/2003 OF 22ND JULY 2003 ON THE STATUTE FOR A EUROPEAN COOPERATIVE SOCIETY (SCE), TO TRANSPOSE INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 2003/72/EC SUPPLEMENTING THE STATUTE FOR A EUROPEAN COOPERATIVE SOCIETY WITH REGARD TO THE INVOLVEMENT OF EMPLOYEES, AND MATTERS CONNECTED THERETO.
+AN ACT TO GIVE EFFECT TO COUNCIL REGULATION (EC) NO. 1435/2003 OF 22ND JULY 2003 ON THE STATUTE FOR A EUROPEAN COOPERATIVE SOCIETY (SCE), TO TRANSPOSE INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 2003/72/EC SUPPLEMENTING THE STATUTE FOR A EUROPEAN COOPERATIVE SOCIETY WITH REGARD TO THE INVOLVEMENT OF EMPLOYEES, AND MATTERS CONNECTED THERETO.
 
 PART I

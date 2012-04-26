@@ -20,9 +20,7 @@ In the cases referred to in section 7, a representative body shall be set up in 
 
 (8)  Not later than four years after its establishment, the representative body shall examine whether to open negotiations for the conclusion of the agreement referred to in sections 4 and 7 or to continue to apply the standard rules adopted in accordance with this Schedule.
 
-Cooperative Societies (SCE)
-
-2007-10 (9)  Section 3 and sections 4, 5 and 6 shall apply, mutatis mutandis, if a decision has been taken to negotiate an agreement according to section 4, in which case the term “special negotiating body” shall be replaced by “representative body”. Where, by the deadline by which the negotiations come to an end, no agreement has been concluded, the arrangements initially adopted in accordance with the standard rules shall continue to apply.
+(9)  Section 3 and sections 4, 5 and 6 shall apply, mutatis mutandis, if a decision has been taken to negotiate an agreement according to section 4, in which case the term “special negotiating body” shall be replaced by “representative body”. Where, by the deadline by which the negotiations come to an end, no agreement has been concluded, the arrangements initially adopted in accordance with the standard rules shall continue to apply.
 
 Part 2: Standard rules for information and consultation.
 
@@ -36,13 +34,11 @@ The competence and powers of the representative body set up in an SCE shall be g
 
 (4)  The meeting shall relate in particular to the structure, economic and financial situation, the probable development of the business and of production and sales, initiatives with regard to corporate social responsibility, the situation and probable trend of employment, investments, and substantial changes concerning organisation, the introduction of new working methods or production processes, transfers of production, mergers, cut-backs or closures of undertakings, establishments or important parts thereof, and collective redundancies.
 
-(5)  Where there are exceptional circumstances affecting the employees’ interests to a considerable extent, particularly in the event of relocations, transfers, the closure of establishments or undertakings or collective redundancies, the representative body shall have the right to be informed. The representative body or, where it so decides, in particular for reasons of urgency, the select committee, shall have the right to meet at its request, the competent organ of the SCE or any more appropriate level of management
-
-Cooperative Societies (SCE)
-
-2007-10 within the SCE having its own powers of decision, so as to be informed and consulted on measures significantly affecting employees’ interests.
+(5)  Where there are exceptional circumstances affecting the employees’ interests to a considerable extent, particularly in the event of relocations, transfers, the closure of establishments or undertakings or collective redundancies, the representative body shall have the right to be informed. The representative body or, where it so decides, in particular for reasons of urgency, the select committee, shall have the right to meet at its request, the competent organ of the SCE or any more appropriate level of management within the SCE having its own powers of decision, so as to be informed and consulted on measures significantly affecting employees’ interests.
 
 (6)  Where the competent organ decides not to act in accordance with the opinion expressed by the representative body, this body shall have the right to a further meeting with the competent organ of the SCE with a view to seeking agreement.
+
+(6A) Where under paragraphs (3) to (6) the competent organ of the SCE is to provide information on the employment situation in the SCE, such information must include suitable information relating to the use of agency workers (if any) in that SCE.
 
 (7)  In the case of a meeting organised with the select committee, those members of the representative body who represent employees who are directly concerned by the measures in question shall also have the right to participate.
 
@@ -62,9 +58,7 @@ Cooperative Societies (SCE)
 
 (15)  In particular, the SCE shall, unless otherwise agreed, bear the cost of organising meetings and providing interpretation facilities and the accommodation and travelling expenses of members of the representative body and the select committee.
 
-Cooperative Societies (SCE)
-
-2007-10 (16)  In compliance with these principles, the Minister may lay down budgetary rules regarding the operation of the representative body,
+(16)  In compliance with these principles, the Minister may lay down budgetary rules regarding the operation of the representative body,
 
 Part 3: Standard rules for participation.
 
