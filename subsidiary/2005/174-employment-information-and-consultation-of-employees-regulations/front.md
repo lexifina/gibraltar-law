@@ -10,9 +10,9 @@ EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
 
 15.12.2005
 
-_________________________
+Amending enactments Relevant current provisions Commencement date LN. 2012/064 rr. 2, 3A, 8A, 16(1)(g) & 20(1)(b) 26.4.2012
 
-Transposing: Directive 2002/14/EC
+Transposing: Directive 2002/14/EC Directive 2008/104/EC
 
 Employment EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
 
@@ -24,7 +24,7 @@ Regulation
 
 PART I GENERAL
 
-1. Title. 2. Interpretation. 3. Application.
+1. Title. 2. Interpretation. 3. Application. 3A.  Agency Workers.
 
 PART II EMPLOYEE NUMBERS AND ENTITLEMENT TO DATA
 
@@ -32,19 +32,19 @@ PART II EMPLOYEE NUMBERS AND ENTITLEMENT TO DATA
 
 PART III NEGOTIATED AGREEMENTS
 
-7. Employee request to negotiate an agreement in respect of information and consultation. 8. Pre-existing agreements: ballot for endorsement of employee request. 9. Pre-existing agreements covering groups of undertakings. 10. Complaint about ballot for endorsement of employee request. 11. Employer notification of decision to initiate negotiations. 12. Restrictions on employee request and employer notification. 13.  Dispute about employee request, employer notification or whether obligation in regulation 7(1) applies. 14.  Negotiations to reach an agreement. 15.  Complaints about election or appointment of negotiating representatives. 16.  Negotiated agreements. 17.  Complaints about ballot for employee approval of negotiated agreement.
+7. Employee request to negotiate an agreement in respect of information and consultation. 8. Pre-existing agreements: ballot for endorsement of employee request. 8A. Pre-existing agreements: agency workers. 9. Pre-existing agreements covering groups of undertakings. 10. Complaint about ballot for endorsement of employee request. 11. Employer notification of decision to initiate negotiations. 12. Restrictions on employee request and employer notification. 13.  Dispute about employee request, employer notification or whether obligation in regulation 7(1) applies. 14.  Negotiations to reach an agreement. 15.  Complaints about election or appointment of negotiating representatives. 16.  Negotiated agreements. 17.  Complaints about ballot for employee approval of negotiated agreement.
 
 PART IV STANDARD INFORMATION AND CONSULTATION PROVISIONS
 
 18. Application of standard information and consultation provisions 19. Election of information and consultation representatives. 20.  Standard information and consultation provisions.
 
-PART V
-
 Employment EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
 
 1932-16
 
-Subsidiary 2005/174 DUTY OF CO-OPERATION
+Subsidiary 2005/174
+
+PART V DUTY OF CO-OPERATION
 
 21. Co-operation.
 
