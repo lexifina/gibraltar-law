@@ -54,6 +54,8 @@ European Public Limited-Liability Company
 
 (5)  Before any meeting referred to in paragraph (3), the members of the representative body or the select committee, as the case may be, shall be entitled to meet without the representatives of the competent organ being present.
 
+(5A) Where under the provisions of this Part, the competent organ of the SE is to provide information on the employment situation in that company, such information must include suitable information relating to the use of agency workers (if any) in that company.
+
 (6)  Without prejudice to sections 37 and 38 of this Act, the members of the representative body shall inform the employees’ representatives or, if no such representatives exist, the employees of the SE and its subsidiaries and establishments, of the content and outcome of the information and consultation procedures.
 
 (7)  The representative body and the select committee may be assisted by experts of its choice.
@@ -64,13 +66,13 @@ Part 3: Standard rules for participation
 
 7.(1)  In the case of an SE established by transformation, if the rules of a Member State relating to employee participation in the administrative or supervisory body applied before registration, all aspects of employee participation shall continue to apply to the SE.  Paragraph (2) shall apply mutatis mutandis to that end.
 
-(2)  In the case where an SE is established other than by transformation and where the employees or their representatives of at least one of the participating companies had participation rights, the representative body shall have the right to elect, appoint, recommend or oppose the appointment of a number of members of the administrative or supervisory body of the SE, such number shall be equal to the highest proportion in force in the participating companies concerned before the registration of the SE.
-
-(3)
+(2)  In the case where an SE is established other than by transformation and where the employees or their representatives of at least one of the participating companies had participation rights, the representative body shall have the right to elect, appoint, recommend or oppose the appointment
 
 European Public Limited-Liability Company
 
-2005-23
+2005-23 of a number of members of the administrative or supervisory body of the SE, such number shall be equal to the highest proportion in force in the participating companies concerned before the registration of the SE.
+
+(3)
 
 (a) Subject to sub-paragraph (b), the representative body shall, taking into account the proportion of employees of the SE employed in each Member State, decide on the allocation of seats within the administrative or supervisory body.
 

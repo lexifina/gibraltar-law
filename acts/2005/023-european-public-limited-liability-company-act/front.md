@@ -10,7 +10,13 @@ Act. No. 2005-23 Commencement 31.3.2005
 
 Assent 29.3.2005
 
-Transposing: Directive 2001/86/EC
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2012/066 ss. 16(1), 18(2)(d), (e) & (f), 28(3A), 32(3A) & Sch. 2
+
+26.4.2012
+
+Transposing: Directive 2001/86/EC Directive 2008/104/EC
 
 European Public Limited-Liability Company
 
