@@ -10,9 +10,13 @@ GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
 
 Commencement 1.7.2009
 
-____________________________________
+Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012
 
-ARRANGEMENT OF REGULATIONS.
+Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
+
+1995-12
+
+Subsidiary 2009/032 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -46,13 +50,11 @@ Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, C
 
 Subsidiary 2009/032
 
-SCHEDULE Regulation 2 Table ‘A’ – Ship Registration Fees
+SCHEDULE Regulation 2
 
-SHIP REGISTRATION FEES
+Table ‘A’ – Ship Registration Fees
 
-Fee £
-
-Application to register a ship (Full/Bareboat/Under Construction) 550 Application for provisional registration 450 Registration following provisional registration 350 Application for extension of provisional registration 200 Application for annual renewal of registration 110 Application for re-issue of certificate of bareboat registration 275 Transfer of registry 350 Application to change name of ship 350 Transfer of ownership 350 Recording / Discharge / Transfer of mortgage 200 Endorsement of counterpart of recorded mortgage 200 Application for issue/re-issue of Certificate of Permission 200 Issue of Certificate of Deletion 110 Issue of Duplicate Certificate 110 Restoration of registration 110 Transcript of register 110 Alteration of registered particulars 110 Inspection of register 50 Letter of Consent 50 Administration/office hourly fee (not involving Surveyors) 65 CLC / Bunker Certificate 65
+SHIP REGISTRATION FEES Fee £ Application to register a ship ( Full/Bareboat/Under Construction) 550 Application for provisional registration 450 Registration following provisional registration 350 Application for extension of provisional registration 200 Application for annual renewal of registration 110 Application for re-issue of certificate of bareboat registration 275 Transfer of registry 350 Application to change name of ship 350 Transfer of ownership 350 Recording / Discharge / Transfer of  mortgage 200 Endorsement of counterpart of recorded mortgage 200 Application for issue/re-issue of Certificate of Permission 200 Issue of Certificate of Deletion 110 Issue of Duplicate Certificate 110 Restoration of registration 110 Transcript of register 110 Alteration of registered particulars 110 Inspection of register 50 Letter of Consent 50 Administration/office hourly fee ( not involving Surveyors) 65 CLC / Bunker Certificate 65
 
 Table ‘B’ – Seafarers’ Certification & Services Fees
 
@@ -64,6 +66,4 @@ Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, C
 
 1995-12
 
-Subsidiary 2009/032 Engineer Officer Watchrating/Ship’s Cook/Able seaman Certificate/Dispensation 65 Tanker Endorsement
-
-(without Gibraltar Endorsement) 40 Tanker Endorsement  (with Gibraltar Endorsement) 40 Tanker Familiarisation Certificate/Revalidation 40 Article of Agreement for Gibraltar-registered ship 20 Duplicate (re-issue) of endorsement 40 Boatmaster Examination (full) 70 Boatmasters Examination (if the exam is only on local knowledge) 50 Boatmaster Certificate 40 Marine Engine Operator Examination 65 Marine Engine Operator Certificate 40
+Subsidiary 2009/032 Engineer Officer Watchrating/Ship’s Cook/Able seaman Certificate/Dispensation 65 Tanker Endorsement  (without Gibraltar Endorsement) 40 Tanker Endorsement  (with Gibraltar Endorsement) 40 Tanker Familiarisation Certificate/Revalidation 40 Article of Agreement for Gibraltar-registered ship 20 Duplicate (re-issue) of endorsement 40 Boatmaster Examination (full) 70 Boatmasters Examination (if the exam is only on local knowledge) 50 Boatmaster Certificate 40 Marine Engine Operator Examination 65 Marine Engine Operator Certificate 40
