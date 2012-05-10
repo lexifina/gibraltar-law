@@ -1,8 +1,4 @@
-Timeshare and Related Contracts
-
-1998-01
-
-TIMESHARE ACT, 1997
+Timeshare and Related Contracts Act 1997
 
 Principal Act
 
@@ -10,22 +6,26 @@ Act. No. 1998-01 Commencement 5.1.1998
 
 Assent 5.1.1998
 
-English sources None cited
+Amending enactments Relevant current provisions Commencement date
 
-EU Legislation/International Agreements involved: Directive 2008/122/EC
+LN. 2012/077 Long title, ss. 1, 1A, 2-22, Schs.1-5 10.5.2012
 
-Timeshare and Related Contracts
+Transposing: Directive 2008/122/EC
 
-1998-01 ARRANGEMENT OF SECTIONS
+ARRANGEMENT OF SECTIONS
 
-Sections.
+Section
 
-1. Title. 2. Interpretation and application. 3. Obligation to provide information. 4. Advertising of timeshare rights. 5. Obligatory terms of timeshare agreement. 6. Form of agreement and language of brochure and agreement. 7. Translation of agreement. 8. Obligation to give notice of right to cancel timeshare agreement. 9. Obligation to give notice of right to cancel timeshare credit agreement. 10. Provisions supplementary to sections 8 and 9. 11. Right to cancel timeshare agreement. 12. Additional right to cancel timeshare agreement. 13. Advance payments. 14. Right to cancel timeshare credit agreement by giving notice. 15. Automatic cancellation of timeshare credit agreement. 16. Repayment of credit and interest. 17. Defence of due diligence. 18. Liability of persons other than principal offender. 19. Enforcement. 20.. Civil proceedings. 21. Prosecution time limit 22. General provisions
+1. Title. 1A. Scope of Act. 2. Interpretation and application. 3. Advertising. 4. Trader to provide pre-contractual information. 5. Contract formalities. 6. Right of withdrawal. 7. Exercise of right of withdrawal. 8. Effect of withdrawal. 9. Advance payments. 10. Long-term holiday product contract. 11. Termination of ancillary contracts. 12. Applicable law. 13. Appointment of competent authority. 14. Powers of the competent authority. 15. Additional functions of the Consumer Officer. 16. Obstruction of Consumer Officer. 17. Offences by corporate bodies. 18. General penalty. 19. Encouragement of out-of-court redress.
 
-SCHEDULE 1 MINIMUM LIST OF ITEMS TO BE INCLUDED IN A TIMESHARE AGREEMENT TO WHICH SECTION 5 APPLIES
+SCHEDULE 1 STANDARD INFORMATION FORM FOR TIMESHARE CONTRACTS
 
-SCHEDULE 2 ENFORCEMENT
+SCHEDULE 2 STANDARD INFORMATION FORM FOR LONG-TERM HOLIDAY PRODUCT CONTRACTS
 
-Timeshare and Related Contracts
+SCHEDULE 3 STANDARD INFORMATION FORM FOR RESALE CONTRACTS
 
-1998-01 AN ACT TO PROVIDE FOR RIGHTS TO CANCEL CERTAIN AGREEMENTS ABOUT TIMESHARE ACCOMMODATION AND TO TRANSPOSE INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 94/47/EC, ON THE PROTECTION OF PURCHASERS IN RESPECT OF CERTAIN ASPECTS OF CONTRACTS RELATING TO THE PURCHASE OF THE RIGHT TO USE IMMOVABLE PROPERTIES ON A TIMESHARE BASIS.
+SCHEDULE 4 STANDARD INFORMATION FORM FOR EXCHANGE CONTRACTS
+
+SCHEDULE 5 SEPARATE STANDARD WITHDRAWAL FORM TO FACILITATE THE RIGHT OF WITHDRAWAL
+
+AN ACT TO PROVIDE FOR THE PROTECTION OF CONSUMERS IN RELATION TO TIMESHARES, RELATED HOLIDAY PRODUCTS AND MATTERS CONNECTED THERETO.
