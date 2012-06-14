@@ -2,27 +2,7 @@ SCHEDULE 3
 
 Regulation 3
 
-PART I
-
-Repeat prescriptions for the management of the following Chronic Diseases where the original therapy has been initiated or is followed by a GHA employed Medical Practitioner or Visiting Consultant contracted to provide clinical services (e.g. Dermatology, Rheumatology and Neurology);
-
-1. Chronic Respiratory Disease including Asthma and Chronic Obstructive Pulmonary Disease;
-
-2. Diabetes its management and the prevention of its complications;
-
-3. Heart Failure management;
-
-4. Essential Hypertension management;
-
-5. Gastro-esophageal reflux disease and inflammatory bowel disease;
-
-6. Pain management in Palliative care patients;
-
-7. Stable endocrine disorders such as hypothyroidism;
-
-8. Menstrual Irregularities and Well Woman Services;
-
-9. Rheumatoid and Osteoarthritis Management.
+PART I Deleted
 
 PART II
 
@@ -37,10 +17,6 @@ Chloramphenicol 1% ointment
 Fusidic acid
 
 Proxymetacaine*
-
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25
 
 Lidocaine Hydrochloride*
 
@@ -66,6 +42,10 @@ Lodoxomide 10ml
 
 Nedocromil Sodium
 
+Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
+
+Subsidiary 1987/142 1997-25
+
 Sodium Cromoglicate
 
 Azelastine Hydrochloride
@@ -85,10 +65,6 @@ Acetylcysteine
 Level 3
 
 Ocular therapeutics prescribed as per the Consultant Ophthalmologist’s protocol for the following ocular conditions:
-
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25
 
 Glaucoma
 
@@ -114,6 +90,10 @@ Age Related Macula Degeneration
 
 Blepharitis
 
+Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
+
+Subsidiary 1987/142 1997-25
+
 Repeat prescriptions for Chronic Ocular Disease where the original therapy has been initiated and followed by a Consultant Ophthalmologist, with the guidance issued by the Consultant Ophthalmologist of the Gibraltar Health Authority.
 
 PART III
@@ -131,10 +111,6 @@ Atropine sulphate, pralidoxime mesilate and avizafone injection
 Chlorphenamine Injection
 
 Dicobalt Edetate Injection
-
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25
 
 Glucagon Injection
 
@@ -159,5 +135,9 @@ Snake Venom Antiserum
 Sodium Nitrite Injection
 
 Sodium Thiosulphate Injection
+
+Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
+
+Subsidiary 1987/142 1997-25
 
 Sterile Pralidoxime
