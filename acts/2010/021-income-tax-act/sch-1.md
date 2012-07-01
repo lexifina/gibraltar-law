@@ -2336,7 +2336,7 @@ Advances not satisfied by dividends.
 
 Payments on Account.
 
-10.  In the case of a company payments on account for the period following 28 February 2011 to 31 August 2012 will be computed by reference to the tax payable in accounting periods in accordance with the Table which follows
+10.  In the case of a company payments on account for the period following 28 February 2011 to 30 September 2012 will be computed by reference to the tax payable in accounting periods in accordance with the Table which follows
 
 Income Tax
 
