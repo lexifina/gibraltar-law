@@ -48,13 +48,13 @@ Ships including Gibraltar ships in the following classes shall, inasmuch as they
 
 In this Schedule, “ the effective date of these Regulations” means the date on which these Regulations come into operation.
 
-Part 3
+Part 3 Fishing Vessels
 
-Fishing vessels
+Fishing vessels with a length of more than 15 metres overall shall be fitted with an automatic identification system (AIS) as provided for in regulation 10A according to the following timetable−
 
-1. Fishing vessels with a length of more than 15 metres overall are subject to the carrying requirement laid down in regulation 10A according to the following timetable−
+(a) fishing vessels of overall length 24 metres and upwards but less than 45 metres: not later than 5 July 2012;
 
-(a) fishing vessels of overall length 24 metres and upwards but less than 45 metres: not later than 31 May 2012;
+(b) fishing vessels of overall length 18 metres and upwards but less than 24 metres: not later than 31 May 2013;
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
 
@@ -62,11 +62,9 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNIT
 
 Subsidiary 2004/120
 
-(b) fishing vessels of overall length 18 metres and upwards but less than 24 metres: not later than 31 May 2013; and
+(c) fishing vessels of overall length exceeding 15 metres but less than 18 metres: not later than 31 May 2014; and
 
-(c) fishing vessels of overall length exceeding 15 metres but less than 18 metres: not later than 31 May 2014.
-
-2. Paragraph (1) shall not apply to new built fishing vessels of overall length exceeding 15 metres and these are therefore subject to the carrying requirement laid down in regulation 10A as from the date of the commencement of the Gibraltar Merchant Shipping (Community Vessel Traffic Monitoring and Information System) (Amendment) Regulations 2011
+(d) new-built fishing vessels of overall length exceeding 15 metres are subject to the carrying requirement laid down in regulation 10A as from 30 November 2010.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
 
