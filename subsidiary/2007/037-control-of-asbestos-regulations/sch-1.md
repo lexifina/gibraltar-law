@@ -18,13 +18,7 @@ shall be in the form and in the colours of the following diagram and shall compl
 
 (3)  Where the label is printed directly onto a product, a single colour contrasting with the background colour may be used.
 
-2.  The dimensions in millimetres of the label referred to in paragraph 1(1) shall be those shown on the diagram in that paragraph, except that larger
-
-Factories CONTROL OF ASBESTOS REGULATIONS 2007
-
-1956-12
-
-Subsidiary 2007/037 measurements may be used, but in that case the dimension indicated as H on the diagram shall be 40% of the dimension indicated as H.
+2.  The dimensions in millimetres of the label referred to in paragraph 1(1) shall be those shown on the diagram in that paragraph, except that larger measurements may be used, but in that case the dimension indicated as H on the diagram shall be 40% of the dimension indicated as H.
 
 3.  The label shall be clearly and indelibly printed so that the words in the lower half of the label can be easily read, and those words shall be printed in black or white.
 
@@ -50,18 +44,8 @@ Subsidiary 2007/037 measurements may be used, but in that case the dimension ind
 
 (2)  Where, in the case of an unpackaged product containing asbestos, it is not reasonably practicable to comply with the provisions of sub-paragraph (1) the label shall be printed on a suitable sheet accompanying the product.
 
-(3)  Labelling of raw asbestos and asbestos waste shall be effected in accordance with sub-paragraph (1)(a) or (c).
+(3)  Labelling of raw asbestos and asbestos waste shall be effected in accordance with sub- paragraph (1)(a) or (c).
 
-Factories CONTROL OF ASBESTOS REGULATIONS 2007
-
-1956-12
-
-Subsidiary 2007/037 (4)  For the purposes of this Schedule but subject to sub-paragraph (5), a product supplied in loose plastic or other similar wrapping (including plastic and paper bags) but no other packaging, shall be treated as being supplied in a package whether the product is placed in such wrapping at the time of its supply or was already so wrapped previously.
+(4)  For the purposes of this Schedule but subject to sub-paragraph (5), a product supplied in loose plastic or other similar wrapping (including plastic and paper bags) but no other packaging, shall be treated as being supplied in a package whether the product is placed in such wrapping at the time of its supply or was already so wrapped previously.
 
 (5)  No wrapping in which a product is placed at the time of its supply shall be regarded as packaging if any product contained in it is labelled in accordance with the requirements of this Schedule or any other packaging in which that product is contained is so labelled.
-
-Factories CONTROL OF ASBESTOS REGULATIONS 2007
-
-1956-12
-
-Subsidiary 2007/037
