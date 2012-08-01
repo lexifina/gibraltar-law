@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2007/071 Sch. 1 & 2 1.4.2007 2009/019 rr. 3(3), (a), 9(2), 10(2), 11(2), 12(2), 13(2), 19, 23(2), 24(2), 25(2), 26(2), 27(2), Sch. 1 & 2
 
-1.4.2008 2009/059 Sch. 1 & 2 1.4.2009 Act. 2011-29 rr. 4(2), 6(2)(b), 8-13, 20(1)(b) & Sch. 1 1.7.2009 LN. 2010/104 Sch. 1 & 2 1.4.2010 2011/139 Sch. 1 & 2 1.4.2011
+1.4.2008 2009/059 Sch. 1 & 2 1.4.2009 Act. 2011-29 rr. 4(2), 6(2)(b), 8-13, 20(1)(b) & Sch. 1 1.7.2009 LN. 2010/104 Sch. 1 & 2 1.4.2010 2011/139 Sch. 1 & 2 1.4.2011 2012/194 Sch. 1 & 2 1.8.2012
 
 Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) REGULATIONS 1997
 
