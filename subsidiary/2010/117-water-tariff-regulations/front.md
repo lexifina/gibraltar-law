@@ -10,9 +10,13 @@ WATER TARIFF REGULATIONS 2010
 
 Commencement 1.7.2010
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.  2013/015 r. 3 1.10.2012
 
-ARRANGMENT OF REGULATIONS
+Public Health WATER TARIFF REGULATIONS 2010
+
+1950-07
+
+Subsidiary 2010/117 ARRANGMENT OF REGULATIONS
 
 Regulation
 
