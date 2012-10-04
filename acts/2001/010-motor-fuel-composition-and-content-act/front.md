@@ -14,9 +14,9 @@ Amending enactments Relevant current provisions Commencement date
 
 Act.  2009-52 ss. 2(1), (3) & (4), 9, 10, 11, 12, 12A-12P, 13(2)(e) & Schs.2, 3
 
-1.12.2009
+1.12.2009 LN. 2012/127 ss. 2 & 12(2) 4.10.2012
 
-Transposing: Directive 1999/32/EC Directive 2005/33/EC
+Transposing: Directive 1999/32/EC Directive 2005/33/EC Directive 2009/30/EC
 
 Motor Fuel (Composition and Content)
 
