@@ -10,7 +10,11 @@ TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
 
 Commencement 25.9.2008
 
-Transposing: Directive 2006/22/EC
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2012/132 r. 2 & Schs.1, 2 & 3 4.10.2012
+
+Transposing: Directive 2006/22/EC Directive 2009/4/EC Directive 2009/5/EC
 
 EU Legislation/International Agreements involved: Regulations (EEC) No. 3821/85 Regulations (EEC) No. 561/2006
 

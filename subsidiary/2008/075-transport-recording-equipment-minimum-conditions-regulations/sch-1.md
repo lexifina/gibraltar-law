@@ -12,13 +12,15 @@ The following points shall, in general, be covered by roadside checks–
 
 (3) where appropriate, momentary speeds attained by the vehicle as recorded by the recording equipment in no more than the previous 24 hours’ use of the vehicle;
 
-(4) the correct functioning of the recording equipment (determination of possible misuse of the equipment and/or the driver card and/or record sheets) or, where appropriate, presence of the documents referred to in Article 16(2) of Regulation (EEC) No 561/2006.
+(4) the correct functioning of the recording equipment (determination of possible misuse of the equipment and/or the driver card and/or record sheets) or, where appropriate, presence of the documents referred to in Article 16(2) of Regulation (EEC) No 561/2006;
+
+(5) Where appropriate, and with due regard to safety considerations, a verification of the recording equipment installed in vehicles in order to detect the installation and/or the use of any device, or devices, intended to destroy, suppress, manipulate or alter any data, or which is intended to interfere with any part of the electronic data exchange between the
 
 Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
 
 1998-44
 
-Subsidiary 2008/075
+Subsidiary 2008/075 component parts of recording equipment, or which inhibits or alters the data in such ways prior to encryption.
 
 PART B
 
