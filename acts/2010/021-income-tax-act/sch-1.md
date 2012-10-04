@@ -2056,7 +2056,7 @@ save that the Previous Act shall, unless this Act indicates to the contrary, con
 
 (b) Qualifying Individuals Rules 1989;
 
-(c) Parent and Subsidiary Company Rules 1991; and
+(c) Parent and Subsidiary Company Rules 2008; and
 
 (d) Savings Bank (Bond and Debenture) (Exemption) Regulations 1991
 
