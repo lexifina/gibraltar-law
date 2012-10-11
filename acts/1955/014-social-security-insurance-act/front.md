@@ -72,17 +72,59 @@ Social Security (Insurance)
 
 1.1.1994 1993/190 Sch.1 3.1.1994 1997/166 Sch.1. 30.12.1997 Act. 1999-27* ss. 2(1), 3(3), 7(4), 8(2), 9(1), 10(1)(a), 11, 11A, 12, 18(5), 21, 27(1)-(2), 30, 33(2)-(3), (6), 40(1), 41(1), 47(2), 48, 49(1).
 
-5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007 LN. 2008/045 Sch.1 1.7.2008 2009/041 Sch.1 1.7.2009 Act. 2009-47 s. 52(3)-(4) 3.12.2009 LN. 2010/114 Sch.1 1.7.2010
+5.7.1999 2000-15 s. 10(1A)-(1B), Sch.2 10.2.2000 2001-04 ss. 2, 8, 4(5), 7(2), 40(4)(b), 43 14.3.2001 2001-05 s. 29(2) 14.3.2001 LN. 2004/139 Sch.2 1.7.2004 2004/128 Sch.1 3.1.2005 Act.  2005-03 s. 11A(2) 1.7.2005 2007-20 s. 4(6)-(7), Schs.1-2 1.7.2006 LN. 2007/050 Sch. 1 1.4.2007 Act. 2007-17 ss. 29(2)-(4), 53, Sch.4 14.6.2007 LN. 2008/045 Sch.1 1.7.2008 2009/041 Sch.1 1.7.2009 Act. 2009-47 s. 52(3)-(4) 3.12.2009 LN. 2010/114 Sch.1 1.7.2010 Act. 2012-11 s. 12 11.10.2012
 
-English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
+* Saving provision inserted at the end of this Act  Date of commencement amended by Act 2009-47  Transitional provisions.
 
-Transposing: Directive 86/613/EEC Directive 2010/41/EU
+(1) This section applies to the birth of a stillborn child which−
 
-* Saving provision inserted at the end of this Act  Date of commencement amended by Act 2009-47
+(a) occurred between the dates of 1st January 1996 and the date of the commencement of this Act;
+
+(b) took place after twenty-four weeks of pregnancy but before twenty-eight weeks of pregnancy; and
 
 Social Security (Insurance)
 
 1955-14
+
+(c) other than due to the fact that the stillbirth took place before twenty-eight weeks of pregnancy, should have been registered under the Births and Deaths Registration Act.
+
+(2) This Act shall not be construed as imposing a duty on any person to apply to register the birth of a stillborn child to which this section applies.
+
+(3) The birth of a stillborn child to which this section applies shall, subject to the provisions of this section, be registered by the Registrar in a supplementary register of stillbirths on the application the person who would, if the child had been born alive, have been required by the Births and Death Registration Act to give information concerning the birth.
+
+(4) An application under subsection (3) shall be accompanied by such particulars and information as the Registrar shall require for the purposes of the registration of the stillbirth and the person giving such particulars and information shall either−
+
+(a) deliver to the Registrar a written certificate that the child was not born alive, signed by a registered medical practitioner or certified midwife who was in attendance at the birth or who examined the body of such child; or
+
+(b) provide such other evidence to the satisfaction of the Registrar and in such form as the Registrar may require that the certificate referred to in (a) cannot be obtained and that the child was not born alive.
+
+(5) A stillbirth to which this section applies may only be registered if−
+
+(a) the application for registration is received by the Registrar before the expiration of twelve months next after the coming into force of this Act; or
+
+(b) with the written authority of the Minister responsible for personal status, and the fact of such authority having been given shall be entered in the register.
+
+(6) Subject to the provisions of this section, and in particular the non-mandatory nature of the registration of stillbirths to which this section applies, the provisions of the Births and Deaths Registration Act and subsidiary legislation made under that Act shall apply to the registration and entry of a stillbirth to which this section applies as they apply to the registration or entry of a stillbirth under that Act.
+
+(7) The Registrar shall keep the supplementary register of stillbirths and shall cause an index thereof to be prepared and maintained.
+
+(8) For the purposes of−
+
+(a) searches of the register and index,
+
+(b) the making and use of certified copies of the register and index,
+
+(c) the provision of certificates to persons providing information concerning a stillbirth, and
+
+(d) section 6 of the Births and Deaths Registration Act,
+
+Social Security (Insurance)
+
+1955-14
+
+English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
+
+Transposing: Directive 86/613/EEC Directive 2010/41/EU
 
 EU Legislation/International Agreements involved:
 
@@ -532,13 +574,15 @@ Supplemental provisions as to maternity grants.
 
 12. For the purpose of the provisions of this Act relating to maternity grant and maternity allowance–
 
-(a)  the expression “confinement” means labour resulting in the issue of a living child, or labour after twenty-eight weeks of pregnancy resulting in the issue of a child whether alive or dead, and the expression “confined” shall be construed accordingly;
+(a)  the expression “confinement” means labour resulting in the issue of a living child, or labour after twenty-four weeks of pregnancy resulting in the issue of a child whether alive or dead, and the expression “confined” shall be construed accordingly ;
 
-* Saving provision inserted at the end of this Act  This amendment shall not apply to persons who were entitled to maternity allowance in respect of a confinement if the date of confinement was prior to the 1st day of July 2004.
+* Saving provision inserted at the end of this Act  This amendment shall not apply to persons who were entitled to maternity allowance in respect of a confinement if the date of confinement was prior to the 1st day of July 2004.  See Transitional provisions in the amendments list page (Act 2012-11)
 
 Social Security (Insurance)
 
-1955-14 (b)  references to the date of the confinement shall be taken as referring, where labour begun on one day results in the issue of a child on another day, to the date of the issue of the child or, if the woman is confined of twins or a greater number of children, to the date of issue of the last of them.
+1955-14
+
+(b)  references to the date of the confinement shall be taken as referring, where labour begun on one day results in the issue of a child on another day, to the date of the issue of the child or, if the woman is confined of twins or a greater number of children, to the date of issue of the last of them.
 
 13. Revoked. 14. Revoked. 14A. Revoked. 15.  Revoked. 16. Revoked. 16A.   Revoked. 17.   Revoked.
 
@@ -558,11 +602,9 @@ Death grant.
 
 (2)  The expenses to which this section applies are any expenses, of an appreciable amount, in connection with the funeral of the deceased, or with the claimant’s attendance thereat, or with the attendance thereat of other persons, or with the purchase of mourning; and for the purposes of this subsection–
 
-(a)  the expression “funeral” includes any memorial service or similar observance; and
-
 Social Security (Insurance)
 
-1955-14
+1955-14 (a)  the expression “funeral” includes any memorial service or similar observance; and
 
 (b)  references to expenses in connection with attendance at a funeral include references to any loss of remunerative time due to the attendance.
 
@@ -586,11 +628,11 @@ and where any sum is paid under this subsection in respect of any person’s bur
 
 Additional rights to benefit.
 
-Increase of benefit for children.
-
 Social Security (Insurance)
 
 1955-14
+
+Increase of benefit for children.
 
 19. Revoked.
 
@@ -618,11 +660,11 @@ Provided that any such regulations shall provide for extending, subject to any p
 
 (4)  Any claim for any benefit under this Act may be treated–
 
-(a)  for the purposes of this section as a claim, in the alternative, for such other benefit thereunder as may be prescribed; or
-
 Social Security (Insurance)
 
-1955-14 (b)  for the purposes of the Social Security (Employment Injuries Insurance) Act, as a claim, in the alternative, for such benefit under that Act as may be prescribed,
+1955-14 (a)  for the purposes of this section as a claim, in the alternative, for such other benefit thereunder as may be prescribed; or
+
+(b)  for the purposes of the Social Security (Employment Injuries Insurance) Act, as a claim, in the alternative, for such benefit under that Act as may be prescribed,
 
 and any claim for benefit under the Social Security (Employment Injuries Insurance) Act, may be treated for the purposes of this section as a claim, in the alternative, for such benefit under this Act as may be prescribed.
 
@@ -648,13 +690,11 @@ Benefit to be inalienable.
 
 26. Subject to the provisions of this Act, every assignment of, or charge on, benefit, and every agreement to assign or charge benefit shall be void, and on the bankruptcy of a beneficiary, the benefit shall not pass to any trustee or other person acting on behalf of his creditors.
 
-Supplementary.
-
-Proceedings by employees for benefit lost by employer’s default.
-
 Social Security (Insurance)
 
-1955-14
+1955-14 Supplementary.
+
+Proceedings by employees for benefit lost by employer’s default.
 
 27.(1)  Where an employer has failed or neglected–
 
@@ -676,11 +716,13 @@ Provisions as to maintenance and incapacity for self-support.
 
 (2)  Regulations under subsection (1) may provide, for the purpose of the provisions relating to an increase of benefit in respect of a husband, wife or other adult dependant, that where-
 
-(a)  a person is partly maintained by each of two or more beneficiaries, each of whom would be entitled to such an increase in respect of that person if he were wholly or mainly maintaining that person; and
+(a)  a person is partly maintained by each of two or more beneficiaries, each of whom would be entitled to such an
 
 Social Security (Insurance)
 
-1955-14 (b)  the contributions made by those two or more beneficiaries towards the maintenance of the person amount in the aggregate to sums which would, if they had been contributed by one of those beneficiaries, be sufficient to satisfy the requirements of regulations made by virtue of subsection (1),
+1955-14 increase in respect of that person if he were wholly or mainly maintaining that person; and
+
+(b)  the contributions made by those two or more beneficiaries towards the maintenance of the person amount in the aggregate to sums which would, if they had been contributed by one of those beneficiaries, be sufficient to satisfy the requirements of regulations made by virtue of subsection (1),
 
 that person shall be deemed for the purpose of those provisions to be wholly or mainly maintained by such of those beneficiaries as may be prescribed.
 
@@ -704,13 +746,13 @@ together with the costs of the administration of the Fund.
 
 (3)  Accounts of the Fund shall be prepared in such form, in such manner and at such times as the Financial Secretary may direct, and the Principal Auditor shall examine and certify every such account.
 
-(4)  Any moneys forming part of the Fund may from time to time be invested, in accordance with such directions as may be given by the
-
 * Referred to as the “Social Insurance (Short-Term Benefits) Fund” in the Public Finance (Control and Audit) Act.
 
 Social Security (Insurance)
 
-1955-14 Financial Secretary and any interest received from such investments shall be credited to the Fund.
+1955-14
+
+(4)  Any moneys forming part of the Fund may from time to time be invested, in accordance with such directions as may be given by the Financial Secretary and any interest received from such investments shall be credited to the Fund.
 
 (5)  Revoked.
 
@@ -736,11 +778,11 @@ Social Insurance Advisory committee.
 
 Determination of claims and questions by Director.
 
-32.(1)  All questions and claims arising under this Act shall be determined by the Director:
-
 Social Security (Insurance)
 
-1955-14 Provided that any question of law arising in connection with such determination may, if the Director thinks fit, at the instance of the Attorney- General, be referred for decision to the Supreme Court.
+1955-14 32.(1)  All questions and claims arising under this Act shall be determined by the Director:
+
+Provided that any question of law arising in connection with such determination may, if the Director thinks fit, at the instance of the Attorney- General, be referred for decision to the Supreme Court.
 
 (2)  References and appeals to the Supreme Court under this Act shall be governed by rules of court and such rules shall provide for limiting the time within which appeals may be brought.
 
@@ -768,11 +810,11 @@ Constitution of Appeal Board.
 
 Appeals to the Board.
 
-34.(1)  Any person aggrieved by the decision of the Director on any question or claim may appeal to the Board.
-
 Social Security (Insurance)
 
-1955-14 (2)  Where any person desires to appeal to the Board he shall give notice of appeal, setting out his grounds of appeal, to the secretary to the Board within eight days of the date of the communication to him of the decision.
+1955-14 34.(1)  Any person aggrieved by the decision of the Director on any question or claim may appeal to the Board.
+
+(2)  Where any person desires to appeal to the Board he shall give notice of appeal, setting out his grounds of appeal, to the secretary to the Board within eight days of the date of the communication to him of the decision.
 
 (3)  The Board or Director may, if they think that the interests of justice so require, extend the time for appealing notwithstanding that the time for appealing has elapsed.
 
@@ -796,11 +838,11 @@ Review.
 
 36.Any decision of the Director, Supreme Court or Board may be reviewed at any time by the Director, Supreme Court or Board, as the case may be, if–
 
-(a)  it can be proved that the decision was given in ignorance of, or was based on a mistake as to some material fact; or
-
 Social Security (Insurance)
 
 1955-14
+
+(a)  it can be proved that the decision was given in ignorance of, or was based on a mistake as to some material fact; or
 
 (b)  there has been any relevant change of circumstances:
 
@@ -820,11 +862,11 @@ Administration of benefit.
 
 (a)  for enabling a person to be appointed to exercise, on behalf of a claimant or beneficiary who is a child or who may be or become unable for the time being to act, any right or power which the claimant or beneficiary may be entitled to exercise under this Act, and for authorizing a person so appointed to receive and deal with any sum payable by way of benefit on behalf of the claimant or beneficiary;
 
-(b)  in connection with the death of any person, for enabling a claim for benefit to be made or proceeded with in his name, for authorizing payment or distribution of benefit to or amongst persons claiming as his personal representatives, legatees, next of kin or creditors (or, in cases of illegitimacy of deceased
+(b)  in connection with the death of any person, for enabling a claim for benefit to be made or proceeded with in his name, for authorizing payment or distribution of benefit to or amongst
 
 Social Security (Insurance)
 
-1955-14 persons, to or amongst others) and for dispensing with strict proof of the title of persons so claiming.
+1955-14 persons claiming as his personal representatives, legatees, next of kin or creditors (or, in cases of illegitimacy of deceased persons, to or amongst others) and for dispensing with strict proof of the title of persons so claiming.
 
 (4)  For the purposes of paragraph (b) of subsection (3), the expression “next of kin” shall be construed as referring to persons who would take beneficially on an intestacy under the provisions of Part IV of the Administration of Estates Act.
 
@@ -844,11 +886,11 @@ Interim payments, arrears and repayments.
 
 (c)  for treating any benefit paid to any person under an award or by virtue of any provision of the regulations, which it is subsequently decided was not payable, as properly paid or as paid on account of any other benefit which it is decided was payable to him, or for the repayment of any such benefit and the recovery thereof by deduction from other benefit or otherwise;
 
-(d)  for treating benefit paid to one person in respect of another as being a child of the family, or the wife or husband or an adult dependant, of the first-mentioned person as having been properly paid for any period, notwithstanding that under regulations relating to overlapping benefits it is not payable for that period by reason of a subsequent decision either–
+(d)  for treating benefit paid to one person in respect of another as being a child of the family, or the wife or husband or an adult dependant, of the first-mentioned person as having been properly paid for any period, notwithstanding that under
 
 Social Security (Insurance)
 
-1955-14
+1955-14 regulations relating to overlapping benefits it is not payable for that period by reason of a subsequent decision either–
 
 (i) that the other person is himself entitled to benefit for that period; or
 
@@ -870,11 +912,11 @@ Inspectors.
 
 (b)  to make such examination and inquiry as may be necessary for ascertaining whether the provisions of this Act are being or have been complied with in any such premises or place;
 
-(c)  to examine, either alone or in the presence of any other person, as he thinks fit, with respect to any matters under this Act on which he may reasonably require information, every person whom he finds in any such premises or place, or whom he has
+(c)  to examine, either alone or in the presence of any other person, as he thinks fit, with respect to any matters under this Act on which he may reasonably require information, every person
 
 Social Security (Insurance)
 
-1955-14 reasonable cause to believe to be or to have been an insured person, and to require every such person to be so examined;
+1955-14 whom he finds in any such premises or place, or whom he has reasonable cause to believe to be or to have been an insured person, and to require every such person to be so examined;
 
 (d)  to exercise such other powers as may be necessary for carrying this Act into effect.
 
@@ -892,11 +934,11 @@ Provided that no one shall be required under this section to answer any question
 
 (6)  Every inspector shall be furnished with a certificate of his appointment, and on applying for admission to any premises or place for the purposes of this Act shall, if so required, produce such certificate.
 
-(7)  The premises and places liable to inspection under this section are any premises or places where an inspector appointed under this Act has reasonable grounds for supposing that any persons are self-employed or
+(7)  The premises and places liable to inspection under this section are any premises or places where an inspector appointed under this Act has
 
 Social Security (Insurance)
 
-1955-14 employed, except that they do not include any private dwelling-house not used by or by permission of the occupier for the purposes of a trade or business.
+1955-14 reasonable grounds for supposing that any persons are self-employed or employed, except that they do not include any private dwelling-house not used by or by permission of the occupier for the purposes of a trade or business.
 
 Information as to, and proof of, age, marriage and death.
 
@@ -924,7 +966,9 @@ Legal Proceedings.
 
 Social Security (Insurance)
 
-1955-14 General provisions as to offences and penalties.
+1955-14
+
+General provisions as to offences and penalties.
 
 43. (1) A person who–
 
@@ -952,7 +996,9 @@ General provisions as to prosecutions under Act.
 
 Social Security (Insurance)
 
-1955-14 44.(1)  Proceedings for an offence under this Act shall not be instituted except by or with the consent of the Attorney-General or by an inspector or other officer authorized in that behalf by special or general directions of the Attorney-General.
+1955-14
+
+44.(1)  Proceedings for an offence under this Act shall not be instituted except by or with the consent of the Attorney-General or by an inspector or other officer authorized in that behalf by special or general directions of the Attorney-General.
 
 (2)  Any such inspector or other officer may, although not a barrister or a solicitor, prosecute or conduct before the magistrates’ court any such proceedings as aforesaid.
 
@@ -974,7 +1020,9 @@ Civil proceedings to recover sums due to fund.
 
 Social Security (Insurance)
 
-1955-14 PART IV.–MISCELLANEOUS AND GENERAL.
+1955-14
+
+PART IV.–MISCELLANEOUS AND GENERAL.
 
 Application to special classes of persons.
 
