@@ -32,7 +32,61 @@ Acts. 1889-07 s. 36
 
 18.7.1991 1993-22 ss. 10, 11 and 13(1) 16.12.1993 2007-17 ss. 2, 3(1), 3(2), 13(2), 14, 16(2), (3), (4), 17, 35(1), 37, 41
 
-14.6.2007
+14.6.2007 2012-11* s. 2 11.10.2012
+
+* Transitional provisions.
+
+(1) This section applies to the birth of a stillborn child which−
+
+(a) occurred between the dates of 1st January 1996 and the date of the commencement of this Act;
+
+(b) took place after twenty-four weeks of pregnancy but before twenty-eight weeks of pregnancy; and
+
+(c) other than due to the fact that the stillbirth took place before twenty-eight weeks of pregnancy, should have been registered under the Births and Deaths Registration Act.
+
+(2) This Act shall not be construed as imposing a duty on any person to apply to register the birth of a stillborn child to which this section applies.
+
+Births and Deaths Registration
+
+1887-01
+
+(3) The birth of a stillborn child to which this section applies shall, subject to the provisions of this section, be registered by the Registrar in a supplementary register of stillbirths on the application the person who would, if the child had been born alive, have been required by the Births and Death Registration Act to give information concerning the birth.
+
+(4) An application under subsection (3) shall be accompanied by such particulars and information as the Registrar shall require for the purposes of the registration of the stillbirth and the person giving such particulars and information shall either−
+
+(a) deliver to the Registrar a written certificate that the child was not born alive, signed by a registered medical practitioner or certified midwife who was in attendance at the birth or who examined the body of such child; or
+
+(b) provide such other evidence to the satisfaction of the Registrar and in such form as the Registrar may require that the certificate referred to in (a) cannot be obtained and that the child was not born alive.
+
+(5) A stillbirth to which this section applies may only be registered if−
+
+(a) the application for registration is received by the Registrar before the expiration of twelve months next after the coming into force of this Act; or
+
+(b) with the written authority of the Minister responsible for personal status, and the fact of such authority having been given shall be entered in the register.
+
+(6) Subject to the provisions of this section, and in particular the non-mandatory nature of the registration of stillbirths to which this section applies, the provisions of the Births and Deaths Registration Act and subsidiary legislation made under that Act shall apply to the registration and entry of a stillbirth to which this section applies as they apply to the registration or entry of a stillbirth under that Act.
+
+(7) The Registrar shall keep the supplementary register of stillbirths and shall cause an index thereof to be prepared and maintained.
+
+(8) For the purposes of−
+
+(a)  searches of the register and index,
+
+(b) the making and use of certified copies of the register and index,
+
+(c) the provision of certificates to persons providing information concerning a stillbirth, and
+
+(d) section 6 of the Births and Deaths Registration Act,
+
+the supplementary register shall be deemed to be part of the register of stillbirths kept under that Act.
+
+(9) The Registrar may make such amendments to forms and certificates prescribed under the Births and Deaths Registration Act as he deems fit in relation to registration in the supplementary register.
+
+(10) In this section “Registrar” means the Registrar of Births and Deaths appointed under the Births and Deaths Registration Act.
+
+Births and Deaths Registration
+
+1887-01
 
 English and Scottish sources
 
