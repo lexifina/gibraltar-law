@@ -8,7 +8,7 @@ CONTROL OF TRAFFIC REGULATIONS
 
 [1960.03.15]
 
-Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996 1996/090 rr. 47A-47D, Schs.8-Sch.11 19.9.1996 Act. 1998-44 rr. 34-36 22.9.2000 LN. 2000/085 r. 59(2)(b) 2.11.2000 2001/005 Sch.4 1.2.2001 2002/073 rr. 56-58, 64 17.10.2002 Act. 2007-17 r. 19(3)(c) 14.6.2007 LN. 2008/061 r. 32 14.8.2008 2011/057 rr. 54-63 9.6.2011 2011/178 r. 14 29.9.2011 2012/031 r. 32 10.4.2012
+Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996 1996/090 rr. 47A-47D, Schs.8-Sch.11 19.9.1996 Act. 1998-44 rr. 34-36 22.9.2000 LN. 2000/085 r. 59(2)(b) 2.11.2000 2001/005 Sch.4 1.2.2001 2002/073 rr. 56-58, 64 17.10.2002 Act. 2007-17 r. 19(3)(c) 14.6.2007 LN. 2008/061 r. 32 14.8.2008 2011/057 rr. 54-63 9.6.2011 2011/178 r. 14 29.9.2011 2012/031 r. 32 10.4.2012 2012/142 rr. 53A-53C, Sch.12 18.10.2012
 
 Traffic CONTROL OF TRAFFIC REGULATIONS
 
@@ -50,21 +50,27 @@ Pedestrian Crossings
 
 48. Indication of crossings. 49. Precedence of foot passengers. 50. Prohibition of stopping within limits of a crossing. 51. When stopping not allowed. 52. When stopping permissible. 53. Prohibition of foot-passengers remaining on crossing longer than necessary.
 
+No Stopping within a Clearway
+
+53A.  No stopping within a clearway.
+
+Box Junctions
+
+53B.  Box junctions. 53C.   Interpretation.
+
 Traffic Wardens
-
-54. Prescribed traffic sign.
-
-Removal of Vehicles
-
-55. to 63. Repealed. 64. Enabling powers of Commissioner of Police and Minister with responsibility for Transport.
-
-SCHEDULE 1.
 
 Traffic CONTROL OF TRAFFIC REGULATIONS
 
 2005-26
 
-Subsidiary [1960.03.15] Pedestrian Crossings
+Subsidiary [1960.03.15] 54. Prescribed traffic sign.
+
+Removal of Vehicles
+
+55. to 63. Repealed. 64. Enabling powers of Commissioner of Police and Minister with responsibility for Transport.
+
+SCHEDULE 1. Pedestrian Crossings
 
 SCHEDULE 2. Maximum loads for Horse-Drawn Vehicles
 
@@ -85,5 +91,7 @@ SCHEDULE 9. Varyl Begg Estate.
 SCHEDULE 10. Moorish Castle Estate
 
 SCHEDULE 11. Harbour Views Road and Westside Road.
+
+SCHEDULE 12 Clearway
 
 Traffic CONTROL OF TRAFFIC REGULATIONS
