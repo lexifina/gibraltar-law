@@ -4,21 +4,21 @@ Requirements for authorisation of tissue establishments
 
 A. ORGANISATION AND MANAGEMENT
 
-1. A responsible person must be appointed having qualifications and responsibilities as provided in section 8 of this Act.
+1. A responsible person must be appointed having qualifications and responsibilities as provided in section 8 of this Part.
 
 2. A tissue establishment must have an organisational structure and operational procedures appropriate to the activities for which authorisation is sought; there must be an organisational chart which clearly defines accountability and reporting relationships.
 
 3. Every tissue establishment must have access to a nominated medical registered practitioner to advise on and oversee the establishment’s medical activities such as donor selection, review of clinical outcomes of applied tissues and cells or interaction as appropriate with clinical users.
 
-4. There must be a documented quality management system applied to the activities for which authorisation is sought, in accordance with the standards laid down in this Act
+4. There must be a documented quality management system applied to the activities for which authorisation is sought, in accordance with the standards laid down in this Part
 
 5. It must be ensured that the risks inherent in the use and handling of biological material are identified and minimised, consistent with maintaining adequate quality and safety for the intended purpose of the tissues and cells. The risks include those relating in particular to the procedures, environment, and staff health status specific to the tissue establishment.
 
-6. Agreements between tissue establishments and third parties must comply with section 18 of this Act. Third party agreements must specify the terms of the relationship and responsibilities as well as the protocols to be followed to meet the required performance specification.
+6. Agreements between tissue establishments and third parties must comply with section 18 of this Part. Third party agreements must specify the terms of the relationship and responsibilities as well as the protocols to be followed to meet the required performance specification.
 
 7. There must be a documented system in place, supervised by the responsible person, for ratifying that tissues or cells or both meet appropriate specifications for safety and quality for release and for their distribution.
 
-8. In the event of termination of activities the agreements concluded and the procedures adopted in accordance with section 14(9) of this Act shall include traceability data and material concerning the quality and safety of tissues and cells.
+8. In the event of termination of activities the agreements concluded and the procedures adopted in accordance with section 14(9) of this Part shall include traceability data and material concerning the quality and safety of tissues and cells.
 
 Public Health (Human Tissues, Cells and Organs)
 
@@ -60,7 +60,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 D. FACILITIES OR PREMISES
 
-1. A tissue establishment must have suitable facilities to carry out the activities for which authorisation is sought, in accordance with the standards laid down in this Act.
+1. A tissue establishment must have suitable facilities to carry out the activities for which authorisation is sought, in accordance with the standards laid down in this Part.
 
 2. When these activities include processing of tissues and cells while exposed to the environment, this must take place in an environment with specified air quality and cleanliness in order to minimise the risk of contamination, including cross-contamination between donations. The effectiveness of these measures must be validated and monitored.
 
@@ -92,7 +92,7 @@ E. DOCUMENTATION AND RECORDS
 
 Public Health (Human Tissues, Cells and Organs)
 
-2009-53 1. There must be a system in place that results in clearly defined and effective documentation, correct records and registers and authorised Standard Operating Procedures (SOPs), for the activities for which authorisation is sought. Documents must be regularly reviewed and must conform to the standards laid down in this Act. The system must ensure that work performed is standardised, and that all steps are traceable; i.e. coding, donor eligibility, procurement, processing, preservation, storage, transport, distribution or disposal, including aspects relating to quality control and quality assurance.
+2009-53 1. There must be a system in place that results in clearly defined and effective documentation, correct records and registers and authorised Standard Operating Procedures (SOPs), for the activities for which authorisation is sought. Documents must be regularly reviewed and must conform to the standards laid down in this Part. The system must ensure that work performed is standardised, and that all steps are traceable; i.e. coding, donor eligibility, procurement, processing, preservation, storage, transport, distribution or disposal, including aspects relating to quality control and quality assurance.
 
 2. For every critical activity, the materials, equipment and personnel involved must be identified and documented.
 
@@ -104,7 +104,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 6. Records must be legible and indelible and may be handwritten or transferred to another validated system, such as a computer or microfilm.
 
-7. Without prejudice to section 16(8) of this Act, all records, including raw data, which are critical to the safety and quality of the tissues and cells shall be kept so as to ensure access to these data for at least 10 years after expiry date, clinical use or disposal.
+7. Without prejudice to section 16(8) of this Part, all records, including raw data, which are critical to the safety and quality of the tissues and cells shall be kept so as to ensure access to these data for at least 10 years after expiry date, clinical use or disposal.
 
 8. Records must meet the confidentiality requirements laid down in section 20. Access to registers and data must be restricted to persons authorised by the responsible person, and to the competent authority for the purpose of inspection and control measures.
 

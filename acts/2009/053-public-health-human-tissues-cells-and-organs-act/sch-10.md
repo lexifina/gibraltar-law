@@ -40,9 +40,7 @@ Human application identification that will include at least:
 
 Public Health (Human Tissues, Cells and Organs)
 
-2009-53
-
-— Date of distribution or disposal
+2009-53 — Date of distribution or disposal
 
 — Identification of the clinician or end user or facility
 

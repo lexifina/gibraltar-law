@@ -6,7 +6,7 @@ The competent authority shall authorise each tissue and cell preparation process
 
 A. RECEPTION AT THE TISSUE ESTABLISHMENT
 
-Upon reception of procured tissues and cells at the tissue establishment, the tissues and cells must comply with the requirements defined in this Act.
+Upon reception of procured tissues and cells at the tissue establishment, the tissues and cells must comply with the requirements defined in this Part.
 
 B. PROCESSING
 
@@ -16,7 +16,7 @@ When the activities for which the authorisation is sought include processing of 
 
 2. It has to be demonstrated that the validated process can be carried out consistently and effectively in the tissue establishment environment by the staff.
 
-3. The procedures must be documented in SOPs which must conform to the validated method and to the standards laid down in this Act accordingly with Schedule 1 (E), points 1 to 4.
+3. The procedures must be documented in SOPs which must conform to the validated method and to the standards laid down in this Part accordingly with Schedule 1 (E), points 1 to 4.
 
 4. It must be ensured that all processes are conducted in accordance with the approved SOPs.
 
@@ -38,17 +38,17 @@ When the activities for which the authorisation is sought include storage and re
 
 1. Maximum storage time must be specified for each type of storage condition. The selected period must reflect among others possible deterioration of the required tissue and cell properties.
 
-2. There must be a system of inventory hold for tissues and cells to ensure that they cannot be released until all requirements laid down in this Act have been satisfied. There must be a standard operating procedure that details the circumstances, responsibilities and procedures for the release of tissues and cells for distribution.
+2. There must be a system of inventory hold for tissues and cells to ensure that they cannot be released until all requirements laid down in this Part have been satisfied. There must be a standard operating procedure that details the circumstances, responsibilities and procedures for the release of tissues and cells for distribution.
 
 3. A system for identification of tissues and cells throughout any phase of processing in the tissue establishment must clearly distinguish released from non-released (quarantined) and discarded products.
 
-4. Records must demonstrate that before tissues and cells are released all appropriate specifications are met, in particular all current declaration forms, relevant medical records, processing records and test results have been verified according to a written procedure by a person authorised for this task by the responsible person as specified in section 8 of this Act. If a computer is used to release results from the laboratory, an audit trail should indicate who was responsible for their release.
+4. Records must demonstrate that before tissues and cells are released all appropriate specifications are met, in particular all current declaration forms, relevant medical records, processing records and test results have been verified according to a written procedure by a person authorised for this task by the responsible person as specified in section 8 of this Part. If a computer is used to release results from the laboratory, an audit trail should indicate who was responsible for their release.
 
-5. A documented risk assessment approved by the responsible person as defined in section 8 of this Act must be undertaken to
+5. A documented risk assessment approved by the responsible person as defined in section 8 of this Part must be undertaken
 
 Public Health (Human Tissues, Cells and Organs)
 
-2009-53 determine the fate of all stored tissues and cells following the introduction of any new donor selection or testing criterion or any significantly modified processing step that enhances safety or quality.
+2009-53 to determine the fate of all stored tissues and cells following the introduction of any new donor selection or testing criterion or any significantly modified processing step that enhances safety or quality.
 
 D. DISTRIBUTION AND RECALL
 
@@ -110,7 +110,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 (g) expiry dates after opening or manipulation;
 
-(h) instructions for reporting serious adverse reactions or events or both as set out in sections 11 and 12 of this Act;
+(h) instructions for reporting serious adverse reactions or events or both as set out in sections 11 and 12 of this Part;
 
 (i) presence of potential harmful residues (e.g. antibiotics, ethylene oxide etc).
 

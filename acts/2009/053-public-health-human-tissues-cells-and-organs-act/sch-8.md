@@ -40,13 +40,11 @@ Materials
 
 Others (specify)
 
-PART B
-
-Conclusions of Serious Adverse Events investigation
-
 Public Health (Human Tissues, Cells and Organs)
 
-2009-53
+2009-53 PART B
+
+Conclusions of Serious Adverse Events investigation
 
 Tissue establishment
 

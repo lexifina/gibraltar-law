@@ -22,9 +22,7 @@ Type of tissues and cells involved in the suspected serious adverse reaction
 
 Type of suspected serious adverse reaction(s)
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 PART B
+PART B
 
 Conclusions of serious adverse reactions investigation
 
@@ -32,7 +30,9 @@ Tissue establishment
 
 Report identification
 
-Confirmation date (year/month/day)
+Public Health (Human Tissues, Cells and Organs)
+
+2009-53 Confirmation date (year/month/day)
 
 Date of serious adverse reaction (year/month/day)
 

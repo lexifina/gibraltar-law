@@ -40,9 +40,7 @@ HIV-1/2
 
 Public Health (Human Tissues, Cells and Organs)
 
-2009-53
-
-Other (Specify)
+2009-53 Other (Specify)
 
 Transmitted parasitical
 
@@ -80,6 +78,12 @@ Distribution
 
 Materials
 
+Others (specify)
+
 Public Health (Human Tissues, Cells and Organs)
 
-2009-53 Others (specify)
+2009-53
+
+Public Health (Human Tissues, Cells and Organs)
+
+2009-53
