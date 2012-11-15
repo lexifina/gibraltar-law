@@ -1,18 +1,18 @@
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
+Subsidiary Legislation made under s.69.
 
-1998-44
+Transport (Passenger Car Fuel Consumption and CO2 Emissions Information) Regulations 2003
 
-Subsidiary 2003/068 Regulations made under section 69 of the Transport Act 1998
+LN.2003/068
 
-TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
+Commencement 11.8.2003
 
-(LN. 2003/068)
+Amending enactments Relevant current provisions Commencement date
 
-11.8.2003
+LN. 2012/160 rr. 2, 7(3), Sch.3 15.11.2012
 
-Transposing: Directive 1999/94/EC __________________________________
+Transposing: Directive 1999/94/EC Directive 2003/73/EC
 
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -26,8 +26,4 @@ SCHEDULE 3 Requirements of the poster, display and electronic screen to be displ
 
 SCHEDULE 4 Requirements of the promotional literature with regard to the provision of data on fuel consumption and CO2 emissions
 
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
-
-1998-44
-
-Subsidiary 2003/068 In exercise of the powers conferred on him by section 69 of the Transport Act 1998 and of all other enabling powers and in order to transpose Directive 1999/94/EC of the European Parliament and of the Council of 13 December 1999 relating to the availability of consumer information on fuel economy and CO2 emissions in respect of the marketing of new passenger cars as amended by Commission Directive amending Annex III to Directive 1999/94/EC, the Minister has made the following Regulations–
+In exercise of the powers conferred on him by section 69 of the Transport Act 1998 and of all other enabling powers and in order to transpose Directive 1999/94/EC of the European Parliament and of the Council of 13 December 1999 relating to the availability of consumer information on fuel economy and CO2 emissions in respect of the marketing of new passenger cars as amended by Commission Directive amending Annex III to Directive 1999/94/EC, the Minister has made the following Regulations–

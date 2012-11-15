@@ -16,14 +16,4 @@ REQUIREMENTS OF THE FUEL ECONOMY GUIDE
 
 6.  The guide shall include a reference to the European Community’s target for the average emissions of CO2 from new passenger cars and the date by which the target is to be achieved.
 
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
-
-1998-44
-
-Subsidiary 2003/068 7.  The guide shall include a reference to the European Commission’s own guide on fuel economy and CO2 emissions on the Internet, when it is available.
-
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
-
-1998-44
-
-Subsidiary 2003/068
+7.  The guide shall include a reference to the European Commission’s own guide on fuel economy and CO2 emissions on the Internet, when it is available.

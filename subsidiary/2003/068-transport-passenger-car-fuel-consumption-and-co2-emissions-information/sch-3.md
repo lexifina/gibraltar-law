@@ -22,21 +22,17 @@ REQUIREMENTS OF THE POSTER, DISPLAY AND ELECTRONIC SCREEN TO BE DISPLAYED AT THE
 
 (d) the information shall within that period be displayed throughout the time during which the showroom where it is displayed is open to the public.
 
-3.  Where the information is given on an electronic screen the following information shall additionally be shown at the same point of sale on a poster or display with surface dimensions not less than 70cm x 50cm–
+3A. For each passenger car model in the list, information shall be given as to the make, the numerical value of the official fuel consumption and the official specific emissions of CO2.
 
-“An electronic display is available in the showroom which exhibits a list of the official consumption data and the official CO2 emission data of all new passenger car models which are subject to the requirements of the Transport (Passenger Car Fuel Consumption and CO2 Emissions Information)
+3B. The value of the official fuel consumption shall be expressed in either litres per 100 kilometres (l/100 km), kilometres per litre (km/l), or an appropriate combination of these, and be quoted to one decimal place.
 
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
+3C. The official specific emissions of CO2 shall be quoted to the nearest whole number in grams per kilometre (g/km).
 
-1998-44
+3D. Values may be expressed in gallons and miles to the extent compatible with the provisions of Directive 80/181/EEC on the approximation of the laws relating to units of measurement.
 
-Subsidiary 2003/068 Regulations 2003 and which are displayed or offered for sale or lease at or through this point of sale”.
+4.  A suggested format for the display of the information is shown below−
 
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
-
-1998-44
-
-Subsidiary 2003/068 4.  The required information and its form shall be- “ Fuel type Ranking Model CO2 emission Fuel consumption Petrol 1
+Fuel type Ranking Model CO2 emission Fuel consumption Petrol 1
 
 2
 
@@ -48,14 +44,12 @@ Diesel 1
 
 …
 
-(a) A guide on fuel economy and CO2 emissions which contains data for all new passenger car models which are subject to the requirements of the Transport (Passenger Car Fuel Consumption and CO2 Emissions Information) Regulations 2003 is available at any point of sale free of charge;
+4A.(1) The following additional information must be contained in the poster or display−
 
-(b) In addition to the fuel efficiency of a car, driving behaviour as well as other non-technical factors play a role in determining a car’s fuel consumption and CO2 emissions.  CO2 is the main greenhouse gas responsible for global warming.”.
+“A guide on fuel economy and CO2 emissions which contains data for all new passenger car models which are subject to the requirements of the Transport (Passenger Car Fuel Consumption and CO2 Emissions Information) Regulations 2003 is available at any point of sale free of charge.
+
+In addition to the fuel efficiency of a car, driving behaviour as well as other non- technical factors play a role in determining a car’s fuel consumption and CO2 emissions.  CO2 is the main greenhouse gas responsible for global warming.”.
+
+(2) In the case of a display featuring an electronic screen, the information required to be displayed under subparagraph (1) must be permanently visible.
 
 5.  Within the table the passenger car models shall be listed in the column headed “Model” against the ranking shown in the column headed “Ranking” in order of increasing CO2 emission with the model with the lowest fuel consumption placed at the top of the list where the emissions as respects two or more models are equal.
-
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
-
-1998-44
-
-Subsidiary 2003/068

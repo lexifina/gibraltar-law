@@ -22,18 +22,8 @@ Drive cycle Litres/100km Km/l Urban
 
 Extra-urban
 
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
-
-1998-44
-
-Subsidiary 2003/068 Combined
+Combined
 
 Carbon dioxide emissions (g/km):
 
 Important note: some specifications of this make/model may have lower CO2 emissions than this.  Check with your dealer.
-
-Transport TRANSPORT (PASSENGER CAR FUEL CONSUMPTION AND CO2 EMISSIONS INFORMATION) REGULATIONS 2003
-
-1998-44
-
-Subsidiary 2003/068
