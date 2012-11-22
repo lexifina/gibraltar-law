@@ -60,7 +60,7 @@ Supreme Court
 
 1960-02 2010-10 s.12A 6.5.2010 2010-16 s. 36B 8.7.2010 2010-201 ss. 19 to 22I, 23 to 27, 27A to 27V, 35A, Schs. 2, 3 & 4
 
-1.1.20112 LN.  2011/105 ss. 72A -72G 7.7.2011 Act.  2012-09 ss. 27E(2) & (3) & 27G(3) 27.9.2012
+1.1.20112 LN.  2011/105 ss. 72A -72G 7.7.2011 Act.  2012-09 ss. 27E(2) & (3) & 27G(3) 27.9.2012 2012-17 s. 12A(1), (2), (2A), (3) & (4) 22.11.2012
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
