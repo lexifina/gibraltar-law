@@ -1,8 +1,4 @@
-Court of Appeal
-
-1969-28
-
-COURT OF APPEAL ACT
+Court of Appeal Act
 
 Principal Act
 
@@ -10,25 +6,23 @@ Act. No. 1969-28 Commencement 11.8.1969
 
 Assent 18.12.1969
 
-Amending enactments Relevant current provisions Commencement date Acts. 1977-34 ss.9(2) and (3), 10, 16(3), 17(1) and 22
+Amending enactments Relevant current provisions Commencement date
 
-1980-08 ss. 2 and 4(2) 1983-12 s. 25 1988-35 ss. 8A, 9(1)(b), 10A, 11(1) and (2), 12(1) and 13
+Act. 1977-34 ss. 9(2)-(3), 10, 16(3), 17(1), 22
 
-15.12.1988 2004-11 s.22(iv) 1.9.2004 2008-04 s. 7 31.1.2008 2010-15 s.22A 8.7.2010
+1980-08 ss. 2, 4(2)
 
-English sources
+1983-12 s. 25
 
-None cited
+1988-35 ss. 8A, 9(1)(b), 10A, 11(1)-(2), 12(1), 13 15.12.1988 2004-11 s. 22(iv) 1.9.2004 2008-04 s. 7 31.1.2008 2010-15 s. 22A 8.7.2010 2012-16 s. 3A 22.11.2012
 
-Court of Appeal
-
-1969-28 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
 PART I. GENERAL PROVISIONS.
 
-1. Short title. 2. Interpretation. 3. Constitution, jurisdiction and powers. 4. Sessions. 5. Powers of the court. 6. Seal. 7. Appointment of Registrar. 8. Rules. 8A. Fees to be taken in Court of Appeal.
+1. Short title. 2. Interpretation. 3. Constitution, jurisdiction and powers. 3A. Appeal before two judges. 4. Sessions. 5. Powers of the court. 6. Seal. 7. Appointment of Registrar. 8. Rules. 8A. Fees to be taken in Court of Appeal.
 
 PART II. APPEALS IN CRIMINAL CASES.
 
@@ -36,8 +30,8 @@ PART II. APPEALS IN CRIMINAL CASES.
 
 PART III. APPEALS IN CIVIL CASES.
 
-22. Right of appeal. 22A. Appeal to Court of Appeal and to Her Majesty in Council. 23. Determination of civil appeals. 24. Powers of judge in interlocutory matters. 25. Procedure with respect to civil appeals. 26. Wrong ruling as to sufficiency of stamp. 27. Power for Chief Justice to reserve questions of law for the court.
+22. Right of appeal. 22A. Appeal to Court of Appeal and to Her Majesty in Council. 23. Determination of civil appeals. 24. Powers of judge in interlocutory matters. 25. Procedure with respect to civil appeals.
 
-Court of Appeal
+26. Wrong ruling as to sufficiency of stamp. 27. Power for Chief Justice to reserve questions of law for the court.
 
-1969-28 AN ACT TO MAKE PROVISION FOR A COURT OF APPEAL FOR GIBRALTAR.
+AN ACT TO MAKE PROVISION FOR A COURT OF APPEAL FOR GIBRALTAR.
