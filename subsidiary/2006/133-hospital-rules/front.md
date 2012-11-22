@@ -12,7 +12,7 @@ Commencement 1.2.2007 (LN. 2007/021)
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2011/128 rr. 3A, 6(7) & Sch. 1 1.9.2011
+LN. 2011/128 rr. 3A, 6(7) & Sch. 1 1.9.2011 2012/164 Sch. 1 22.11.2012
 
 Medical and Health HOSPITAL RULES 2006
 
