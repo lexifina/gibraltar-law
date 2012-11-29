@@ -26,15 +26,13 @@ Secretary.
 
 Term of office.
 
-3. The members of the Committee (other than ex officio members) shall hold   office   for   three  years,  and  shall  be  eligible  for  re-appointment.
+3. The members of the Committee (other than ex officio members) shall   hold   office   for three years, and shall be eligible for re-appointment.
 
 Termination of appointment.
 
 4. The Minister may in his discretion terminate the appointment of any member of the Committee other than an ex officio member.
 
-Education and Training
-
-1974-11 Vacancy.
+Vacancy.
 
 5. The powers of the Committee may be exercised notwithstanding any vacancy in their number.
 
@@ -64,11 +62,7 @@ Persons ineligible to be members of the Committee.
 
 Term of office.
 
-2. The members of the Committee (other than the ex officio member) shall hold   office  for  two  years,   and   shall  be  eligible  for  re-appointment.
-
-Education and Training
-
-1974-11
+2. The members of the Committee (other than the ex officio member) shall hold office for two years, and shall be eligible for re-appointment.
 
 Termination of appointment.
 
@@ -104,10 +98,6 @@ Determination of membership of the Committee.
 
 2. Any member of the Committee who is absent from all meetings of the Committee during a period of one year, or who in the opinion of the Minister is incapacitated from acting, or who communicates in writing to the secretary to the Committee a wish to resign, shall thereupon cease to be a member.
 
-Education and Training
-
-1974-11
-
 Vacancies.
 
 3. Every vacancy shall be notified to the Minister by the Director as soon as possible.
@@ -134,9 +124,7 @@ Validity of meetings and proceedings.
 
 Chairman.
 
-Education and Training
-
-1974-11 9. (1) The head teacher shall be the chairman of the Committee unless he shall signify that he does not wish to be chairman in which case the Committee shall at their first ordinary meeting in each year elect from their members a chairman for the ensuing year. A chairman shall be eligible for re-election.
+9. (1) The head teacher shall be the chairman of the Committee unless he shall signify that he does not wish to be chairman in which case the Committee shall at their first ordinary meeting in each year elect from their members a chairman for the ensuing year. A chairman shall be eligible for re-election.
 
 (2) In the event of the death, resignation or cessation of membership for any reason of an elected chairman a new chairman shall be elected at the next meeting thereafter.
 
@@ -165,10 +153,6 @@ Communications.
 B: ARTICLES OF MANAGEMENT.
 
 Conduct of school.
-
-Education and Training
-
-1974-11
 
 1. The school shall be conducted in accordance with the provisions of the Act, the regulations and this schedule.
 

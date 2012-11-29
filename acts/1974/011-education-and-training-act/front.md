@@ -1,8 +1,4 @@
-Education and Training
-
-1974-11
-
-EDUCATION AND TRAINING ACT
+Education and Training Act
 
 Principal Act
 
@@ -10,19 +6,19 @@ Act. No. 1974-11 Commencement 26.4.1974
 
 Assent 28.4.1974
 
-Amending enactments Relevant current provisions Commencement date Acts. 1976-24 s. 73 1982-33 ss. 31, 82(1) and 83 1984-01 s. 73(1), (2A), (2B) and (2C) 30.4.1984 1986-09 Sch 17.7.1986 1987-34 ss. 2(1), 54(1), 56(1) and (5), 58(1) and 59
+Amending enactments Relevant current provisions Commencement date
 
-1.2.1988 1990-25 ss. 50 and 73(1) and (2) 7.6.1990 1997-25 ss. 2(1), 54(1), 56(1) and (5), 58(1) and 59
+Act. 1976-24 s. 73
 
-21.8.1997 2001-18 ss. 1, 82(1) and (1A) 31.10.2002 2005-20 ss. 73(2), 73(2)(iv) 16.6.2005 2007-17 ss. 2, 2(3), 3, 4(1), 6(1), 7(1), 14(1) & (2), 15(a) & (b), 17, 23(1), 28(2), 31(4), 33(1) & (2), 34(2), 37, 38, 41(2), 65(1), 69(1), 86(1)(c)
+1982-33 ss. 31, 82(1), 83
 
-14.6.2007 2009-09 ss. 73(2), 73(2)(v), (vi) & 73(2D) 15.1.2009
+1984-01 s. 73(1), (2A)-(2C) 30.4.1984 1986-09 Sch 17.7.1986 1987-34 ss. 2(1), 54(1), 56(1), (5), 58(1), 59 1.2.1988 1990-25 ss. 50, 73(1)-(2) 7.6.1990 1997-25 ss. 2(1), 54(1), 56(1), (5), 58(1), 59 21.8.1997 2001-18 ss. 1, 82(1), (1A) 31.10.2002 2005-20 s. 73(2), (iv) 16.6.2005 2007-17 ss. 2, (3), 3, 4(1), 6(1), 7(1), 14(1)-(2), 15(a)-(b), 17, 23(1), 28(2), 31(4), 33(1)-(2), 34(2), 37-38, 41(2), 65(1), 69(1), 86(1)(c)
 
-Transposing: Directive 2001/55/EC Directive 2003/9/EC Directive 2004/83/EC
+14.6.2007 2009-09 s. 73(2), (v)-(vi), (2D) 15.1.2009 LN. 2012/202 ss. 53A-53C 29.11.2012
 
-Education and Training
+Transposing: Directive 77/486/EEC Directive 2001/55/EC Directive 2003/9/EC Directive 2004/83/EC
 
-1974-11 ARRANGEMENT OF SECTIONS
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -42,11 +38,9 @@ PART III. POLICY.
 
 PART IV. THE STATUTORY SYSTEM OF EDUCATION.
 
-18. Stages of educational system. 19. Provision of primary and secondary schools. 20. Powers to establish primary and secondary schools. 21. Use of school premises. 22. School committees. 23. Appointment, dismissal and transfer of teachers. 24. Appointment of headteachers. 25. Power of suspension.
+18. Stages of educational system. 19. Provision of primary and secondary schools. 20. Powers to establish primary and secondary schools. 21. Use of school premises. 22. School committees. 23. Appointment, dismissal and transfer of teachers.
 
-Education and Training
-
-1974-11 26. Secular instruction in Government schools. 27. General duties relating to further education. 28. Powers to establish institutions of further education. 29. Committees for colleges of further education. 30. Revision of facilities for recreation, etc.
+24. Appointment of headteachers. 25. Power of suspension. 26. Secular instruction in Government schools. 27. General duties relating to further education. 28. Powers to establish institutions of further education. 29. Committees for colleges of further education. 30. Revision of facilities for recreation, etc.
 
 PART V. INDEPENDENT SCHOOLS.
 
@@ -64,13 +58,15 @@ PART VIII. SPECIAL EDUCATION.
 
 45.  Education of pupils requiring special educational treatment. 46.  Reception in Government schools. 47.  Director to ascertain what children require special educational treatment. 48.  Director to publicize provisions of this Part.
 
-PART IX. COMPULSORY EDUCATION.
+PART IX.
 
-49.  Compulsory school age. 50. Duty of parents to secure the education of their children.
+COMPULSORY EDUCATION.
 
-Education and Training
+49.  Compulsory school age. 50. Duty of parents to secure the education of their children. 51.  School attendance orders. 52.  Duty of parents to secure regular attendance of registered pupils. 53.  Penalties.
 
-1974-11 51.  School attendance orders. 52.  Duty of parents to secure regular attendance of registered pupils. 53.  Penalties.
+Measures for the education of EEA nationals
+
+53A  Education and integration of EEA workers’ children. 53B.  Teaching of country of origin language and culture. 53C.  Reports to the Commission.
 
 PART X. HEALTH.
 
@@ -82,11 +78,7 @@ PART XI. EMPLOYMENT AND WELFARE.
 
 PART XII. MISCELLANEOUS.
 
-73. Fees. 74. General power of inspection of schools. 75. Inspection of Government schools. 76. Powers of Minister as to educational research. 77. Power of the Director as to educational conferences. 78. Power to accept gifts for educational purposes. 79. Reports and returns. 80. Information relating to births and deaths. 81. Provision as to transport. 82. Regulations. 83. Offences and penalties.
-
-Education and Training
-
-1974-11 84. Provisions as to evidence. 85. Service of notices. 86. Saving as to persons of unsound mind and persons detained by order of a court.
+73. Fees. 74. General power of inspection of schools. 75. Inspection of Government schools. 76. Powers of Minister as to educational research. 77. Power of the Director as to educational conferences. 78. Power to accept gifts for educational purposes. 79. Reports and returns. 80. Information relating to births and deaths. 81. Provision as to transport. 82. Regulations. 83. Offences and penalties. 84. Provisions as to evidence. 85. Service of notices. 86. Saving as to persons of unsound mind and persons detained by order of a court.
 
 PART XIII. TRANSITIONAL AND REPEAL.
 
@@ -99,5 +91,3 @@ Part I. School Committee.
 Part II. Committee for College of Further Education.
 
 Part III. Management of Schools and Colleges. A : Instrument of Management. B : Articles of Management.
-
-Education and Training
