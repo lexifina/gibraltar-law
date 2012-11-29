@@ -1,8 +1,4 @@
-Price Control
-
-1966-32
-
-PRICE CONTROL ACT
+Price Control Act
 
 Principal Act
 
@@ -10,21 +6,31 @@ Act. No. 1966-32 Commencement 30.12.1966
 
 Assent 29.12.1966
 
-Amending enactment Relevant current provisions Commencement date Acts.   1967-10 ss. 5(2) and 12 (3) 1967-18 ss. 2(1), 3, 4, 5(1) and 10 1968-35 s. 11 1969-26 s. 2(2) 1974-05 s. 3A
+Amending enactment Relevant current provisions Commencement date
 
-1976-03 ss. 3(2) and (3) and 4
+Act. 1967-10 ss. 5(2), 12(3)
+
+1967-18 ss. 2(1), 3-4, 5(1), 10
+
+1968-35 s. 11
+
+1969-26 s. 2(2)
+
+1974-05 s. 3A
+
+1976-03 ss. 3(2)-(3), 4
 
 1978-03 Sch.
 
 1979-17 ss. 2-5
 
-1980-02 ss. 2(1), 3(1), (2) and (3), 11 and 15
+1980-02 ss. 2(1), 3(1)-(3), 11, 15
 
-2007-17 ss. 4(1), (2) & (3), 5(1) & (5), 15 14.6.2007
+2007-17 ss. 4(1)-(3), 5(1), (5), 15 14.6.2007 LN.  2012/197 s. 15(b) 29.11.2012
 
-Price Control
+Transposing: Directive 98/6/EC
 
-1966-32 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -32,6 +38,4 @@ Section
 
 SCHEDULE
 
-Price Control
-
-1966-32 AN ACT TO MAKE PROVISION FOR THE CONTROL OF  CHARGES AND PRICES FOR CERTAIN SUPPLIES AND SERVICES AND FOR MATTERS CONNECTED THEREWITH.
+AN ACT TO MAKE PROVISION FOR THE CONTROL OF CHARGES AND PRICES FOR CERTAIN SUPPLIES AND SERVICES AND FOR MATTERS CONNECTED THEREWITH.
