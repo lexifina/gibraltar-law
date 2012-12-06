@@ -10,7 +10,7 @@ GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 200
 
 Commencement 1.12.2009
 
-Amending enactments Relevant current provisions Commencement date LN.  2011/024 rr. 2, 3(1)(b), (3)(a)(ii), 27(8)(a), (10), 63(7), 90(1)(a), 97(10), 110(4), 112(2)(b), 115(3), 117(12)(a), 120(1), 122(2A) & 122A 17.3.2011 2011/063 rr. 2, 76-90, 90A-90H, 98-110, 110A- 110G, 113(4)(a), 117(4)(c)(iv), (5)(f), 120(1)(cc), 122(8)-(9), (11), Schs. 7A & 7B 12.5.2011
+Amending enactments Relevant current provisions Commencement date LN.  2011/024 rr. 2, 3(1)(b), (3)(a)(ii), 27(8)(a), (10), 63(7), 90(1)(a), 97(10), 110(4), 112(2)(b), 115(3), 117(12)(a), 120(1), 122(2A) & 122A 17.3.2011 2011/063 rr. 2, 76-90, 90A-90H, 98-110, 110A- 110G, 113(4)(a), 117(4)(c)(iv), (5)(f), 120(1)(cc), 122(8)-(9), (11), Schs. 7A & 7B 12.5.2011 2012/209 rr. 122(1)-(2), (2A), (3)(a)-(b), (4)(a)- (b), (5)-(16) & (19) 6.12.2012
 
 EU Legislation/International Agreements involved: International Convention for the Prevention of Pollution from Ships, 1973 as modified by the Protocol of 1978 relating to that Convention, including all its other Protocols, Annexes and Appendices, and amendments thereto adopted by the International Maritime Organisation in accordance with Article 16 of that Convention (the “MARPOL Convention”); and
 
