@@ -8,13 +8,15 @@ ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
 
 (LN. 2012/131)
 
-Commencement 4.10.2012 rr.1-3, 11, 19, 21, 22, 24-27
+Commencement 4.10.2012 rr.1-3, 11, 19, 21, 22, 24-27 9.1.2013 rr. 4, 10, 12, 131, 14, 18, 20, 23 9.1.20132 rr. 5, 6, 7, 8, 9, 15, 16, 17
 
 Transposing: Directive 2010/31/EU
 
 EU Legislation/International Agreements involved:
 
 _______________________
+
+1 13(1) to (4) shall not apply to single buildings which are rented out until 31 December 2015. 2  See r.1(4)(a) & (b)
 
 Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
 
