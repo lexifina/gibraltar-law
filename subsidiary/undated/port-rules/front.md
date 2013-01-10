@@ -54,7 +54,7 @@ Subsidiary 1960.08.11 1987/097 rr. 117B(1), (5)-(6), 117J(1), Sch. 2A
 
 4.6.1987 1987/112 rr. 2, 117A-117O, Sch. 2A 16.7.1987 1987/135 Sch. 4 1.1.1988 1988/161 Sch. 4 29.12.1988 1991/033 Sch. 4 1.4.1990 1990/190 rr. 12A, 102A, Sch. 4 1.1.1991 1991/206 rr. 36-37, 47(1A), 49(2), 66, 76, 112, 116, 117, (3), 151, 170, 173.
 
-7.11.1991 1991/221 r. 82 12.12.1991 1992/097 r. 12A(2)(c) 9.7.1992 1992/147 Sch. 4 1.8.1992 “ rr. 31, 110 19.11.1992 “ Sch. 4 1.1.1993 1995/142 r. 2(2). 29.11.1995 1996/078 Sch. 4 25.7.1996 1996/086 Sch. 6 5.9.1996 1999/004 Sch. 4 14.1.1999 1999/009 r. 20A. 28.1.1999 2000/051 r. 172A, Schs. 4, 5A a 1.8.2000 2000/062 Sch. 5A 7.9.2000 2001/043 Sch. 4 3.5.2001 2002/012 Sch. 4 31.1.2002 2002/038 Sch. 4 16.5.2002 2002/040 Sch. 4 23.5.2002 2004/036 Sch. 4 1.5.2004 2004/044 Sch. 4 3.6.2004 2005/026 Sch. 4 1.4.2005 2005/059 Sch. 4 1.4.2005 2006/024 rr. 7B, 16A, Schs. 5-7 1.4.2005 2005/123 Sch. 4 25.8.2005 2006/024 Schs. 2, 4 1.12.2005 2006/157 Sch. 4 14.12.2006 2007/089 rr. 12A(3), 13 31.5.2007 2009/023 Sch. 4 9.4.2009 2010/072 Sch. 4 1.4.2010 2012/149 r. 7B, Sch. 7 22.10.2012 2012/210 rr. 2(1), 47(1), (1A), (4), (6), 66 6.12.2012
+7.11.1991 1991/221 r. 82 12.12.1991 1992/097 r. 12A(2)(c) 9.7.1992 1992/147 Sch. 4 1.8.1992 “ rr. 31, 110 19.11.1992 “ Sch. 4 1.1.1993 1995/142 r. 2(2). 29.11.1995 1996/078 Sch. 4 25.7.1996 1996/086 Sch. 6 5.9.1996 1999/004 Sch. 4 14.1.1999 1999/009 r. 20A. 28.1.1999 2000/051 r. 172A, Schs. 4, 5A a 1.8.2000 2000/062 Sch. 5A 7.9.2000 2001/043 Sch. 4 3.5.2001 2002/012 Sch. 4 31.1.2002 2002/038 Sch. 4 16.5.2002 2002/040 Sch. 4 23.5.2002 2004/036 Sch. 4 1.5.2004 2004/044 Sch. 4 3.6.2004 2005/026 Sch. 4 1.4.2005 2005/059 Sch. 4 1.4.2005 2006/024 rr. 7B, 16A, Schs. 5-7 1.4.2005 2005/123 Sch. 4 25.8.2005 2006/024 Schs. 2, 4 1.12.2005 2006/157 Sch. 4 14.12.2006 2007/089 rr. 12A(3), 13 31.5.2007 2009/023 Sch. 4 9.4.2009 2010/072 Sch. 4 1.4.2010 2012/149 r. 7B, Sch. 7 22.10.2012 2012/210 rr. 2(1), 47(1), (1A), (4), (6), 66 6.12.2012 2013/001 r. 42A 10.1.2013
 
 Port PORT RULES
 
@@ -80,13 +80,15 @@ Subsidiary 1960.08.11 30. Ship's moorings, etc. 31. Lights on vessels and collis
 
 PART III.–GENERAL PORT REGULATIONS.
 
-38. Fire on vessels. 39. Sanitary arrangements in harbour. 40. No boarding without permission, etc. 41. Boarding or leaving ships under way. 42. Working of lighters. 43. Landing or embarking passengers. 44. No vessel, ship's gear, cargo, etc., to remain on the wharf. 45. Cutting of ropes, etc., of vessels in danger. 46. Loss of anchors, etc., to be reported to the Captain of the Port. 47. Refuse not to be deposited in the port or foreshore. 48. No timber allowed to float in the port. 49. Removal of offensive matter or garbage. 50. Naked lights, smoking, etc., on vessel carrying inflammable cargo and provisions relating to inflammable cargo. 51. Protection of hatch-ways. 52. Ships laden with coal. 53. Fumigation. 54. Repair to vessels. 55. Restriction on use of flame apparatus in harbour. 56. Beaching vessel, etc., in the port. 57. Pitch and other combustibles may not be boiled on board a vessel being repaired, etc. 58. Explosives may not be used or guns fired. 59. Propellers may not be turned in port without warning or permission. 60. Vessels fouling moorings or submarine cables. 61. Crews of vessels to take lines. 62. Sound signals not to be used except for navigation. 63. Police assistance. 64. Medical assistance. 65. Signals for tug. 66. Offences. 67. Repealed.
+38. Fire on vessels. 39. Sanitary arrangements in harbour. 40. No boarding without permission, etc. 41. Boarding or leaving ships under way. 42. Working of lighters. 42A.  Ship to Ship transfers outside British Gibraltar Territorial Waters. 43. Landing or embarking passengers. 44. No vessel, ship's gear, cargo, etc., to remain on the wharf. 45. Cutting of ropes, etc., of vessels in danger. 46. Loss of anchors, etc., to be reported to the Captain of the Port. 47. Refuse not to be deposited in the port or foreshore. 48. No timber allowed to float in the port. 49. Removal of offensive matter or garbage. 50. Naked lights, smoking, etc., on vessel carrying inflammable cargo and provisions relating to inflammable cargo. 51. Protection of hatch-ways. 52. Ships laden with coal. 53. Fumigation. 54. Repair to vessels. 55. Restriction on use of flame apparatus in harbour. 56. Beaching vessel, etc., in the port. 57. Pitch and other combustibles may not be boiled on board a vessel being repaired, etc. 58. Explosives may not be used or guns fired. 59. Propellers may not be turned in port without warning or permission. 60. Vessels fouling moorings or submarine cables. 61. Crews of vessels to take lines. 62. Sound signals not to be used except for navigation. 63. Police assistance. 64. Medical assistance. 65. Signals for tug. 66. Offences. 67. Repealed.
 
 Port PORT RULES
 
 1960-16
 
-Subsidiary 1960.08.11 PART IV.–VESSELS USED WITH IN THE PORT– PASSENGERS CERTIFICATES AND LICENCES – CONDITIONS AND REGULATIONS.
+Subsidiary 1960.08.11
+
+PART IV.–VESSELS USED WITH IN THE PORT– PASSENGERS CERTIFICATES AND LICENCES – CONDITIONS AND REGULATIONS.
 
 Passenger Ship Certificates.
 
@@ -106,13 +108,13 @@ Water Boats.
 
 Hulks and Lighters.
 
-93. Hulks to dowse lights. 94. Hulks to be provided with boats.
+93. Hulks to dowse lights.
 
 Port PORT RULES
 
 1960-16
 
-Subsidiary 1960.08.11 95. Overloading and defective lighters.
+Subsidiary 1960.08.11 94. Hulks to be provided with boats. 95. Overloading and defective lighters.
 
 General Regulations as to Vessels in Port.
 
@@ -124,23 +126,23 @@ PART IVA.-FAST LAUNCHES
 
 PART V.–DANGEROUS GOODS OR EXPLOSIVES.
 
-118. Master to give notice of explosives or dangerous goods on board. 119. Exemption. 120. Berthing of vessels carrying explosives. 121. Bunkering of vessels carrying explosives. 122. Discharge of vessels carrying explosives. 123. Notice of loading and unloading explosives. 124. Hulk or lighter. 125. Red flag to be exhibited. 126. Fires and use of radar prohibited. 127. Smoking and certain wearing apparel prohibited.
+118. Master to give notice of explosives or dangerous goods on board. 119. Exemption. 120. Berthing of vessels carrying explosives. 121. Bunkering of vessels carrying explosives. 122. Discharge of vessels carrying explosives. 123. Notice of loading and unloading explosives. 124. Hulk or lighter. 125. Red flag to be exhibited. 126. Fires and use of radar prohibited.
 
 Port PORT RULES
 
 1960-16
 
-Subsidiary 1960.08.11 128. Drunkenness. 129. Explosives to be covered. 130. Escaping explosives. 131. Method of handling explosives. 132. Only explosives to be handled at one time. 133. General precautions to be observed. 134. Supervision. 135. Permits to land explosives. 136. Special permit when Abel test applied. 137. Hours during which explosives may be handled. 138. Control of quantity of explosives. 139. Detonators, etc. 140. Liability for expenses. 141. Notice to be given to the Captain of the Port. 142.  Control by Captain of the Port of places where explosives may be loaded, etc. 143.  Vessels to be ready to receive explosives. 144.  Inspection and examination. 145.  Petroleum. 146.  Carbide. 147.  Bunkering. 148.  Permission to be in writing. 149.  Bunkering prohibited while vessel loading or discharging explosive;. 150.  Rules not to apply to vessels in Admiralty waters. 151.  Offences.
+Subsidiary 1960.08.11 127. Smoking and certain wearing apparel prohibited. 128. Drunkenness. 129. Explosives to be covered. 130. Escaping explosives. 131. Method of handling explosives. 132. Only explosives to be handled at one time. 133. General precautions to be observed. 134. Supervision. 135. Permits to land explosives. 136. Special permit when Abel test applied. 137. Hours during which explosives may be handled. 138. Control of quantity of explosives. 139. Detonators, etc. 140. Liability for expenses. 141. Notice to be given to the Captain of the Port. 142.  Control by Captain of the Port of places where explosives may be loaded, etc. 143.  Vessels to be ready to receive explosives. 144.  Inspection and examination. 145.  Petroleum. 146.  Carbide. 147.  Bunkering. 148.  Permission to be in writing. 149.  Bunkering prohibited while vessel loading or discharging explosive;. 150.  Rules not to apply to vessels in Admiralty waters. 151.  Offences.
 
 PART VI.–CONTROL OF PORT AREAS.
 
-152. Closing roads, wharves etc. 153. Vehicles. 154. Trespassers on certain property. 155. Vehicles to take place assigned. 156. Vehicles to move when required. 157. Behaviour of driver of vehicle. 158. Danger signals. 159. Fire hydrants. 160. Fire-fighting operations. 161. Entering or leaving port. 162. Exemption of Government from all liability. 163. Hawking and trading. 164. Advertising on harbour property. 165. Bathing. 166. Dogs and wild animals. 167. Ballast permits. 168. Smoking prohibited.
+152. Closing roads, wharves etc. 153. Vehicles. 154. Trespassers on certain property. 155. Vehicles to take place assigned. 156. Vehicles to move when required. 157. Behaviour of driver of vehicle. 158. Danger signals. 159. Fire hydrants. 160. Fire-fighting operations. 161. Entering or leaving port. 162. Exemption of Government from all liability. 163. Hawking and trading. 164. Advertising on harbour property. 165. Bathing. 166. Dogs and wild animals. 167. Ballast permits.
 
 Port PORT RULES
 
 1960-16
 
-Subsidiary 1960.08.11 169. Vagrants. 170. Offences and penalty.
+Subsidiary 1960.08.11 168. Smoking prohibited. 169. Vagrants. 170. Offences and penalty.
 
 PART VII.–PORT CHARGES.
 
