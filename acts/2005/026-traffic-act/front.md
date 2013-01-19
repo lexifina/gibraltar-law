@@ -12,7 +12,9 @@ Assent 29.3.2005
 
 Amending enactments Relevant current provisions Commencement date Act.   2011-18 ss. 44(4), 89(1)(j) & (2), 92, 97, 98A, 98(2), 101(c) & 104
 
-14.7.2011 LN. 2012/034 ss. 31A, 59, 59A, 60(3), 60A & 61A 19.3.2012
+14.7.2011 LN. 2012/034 ss. 31A, 59, 59A, 60(3), 60A & 61A 19.3.2012 “ ss. 2, 27, 29(1), (1A), (1B), 31, 31B, 32, 32A, 37, 60A-60D
+
+19.1.2013 2013/006 s. 43(1) 19.1.2013
 
 Transposing: Directive 2006/126/EC
 
@@ -44,15 +46,15 @@ Licensing of Drivers
 
 Traffic
 
-2005-26 26. Requirements as to physical and mental fitness. 27. Requirements for granting of driving licence. 28. Disqualification. 29. No person to hold two licences. 30. Form and effect of driving licence. 31. Categories of motor vehicles. 31A.  Conditions and restrictions. 32. Duration of driving licences. 33. Production of licences. 34. Learners. 35. Services driving licences. 36. Suspension of licences 37. Renewal of licences. 38. Appeals. 39. Disqualification for offences and endorsement of convictions. 40. Provisions as to disqualifications and suspensions. 41. Provisions as to endorsements. 42. Meaning of “driving licence”. 43. Restriction on driving by young persons, etc. 44. Speed limit.
+2005-26 26. Requirements as to physical and mental fitness. 27. Requirements for granting of driving licence. 28. Disqualification. 29. No person to hold two licences. 30. Form and effect of driving licence. 31. Categories of licence and minimum ages. 31A.  Conditions and restrictions. 31B.  Staging and equivalences between categories. 32. Issue, validity and renewal of driving licences. 32A. 33. Production of licences. 34. Learners. 35. Services driving licences. 36. Suspension of licences 37. Renewal of licences. 38. Appeals. 39. Disqualification for offences and endorsement of convictions. 40. Provisions as to disqualifications and suspensions. 41. Provisions as to endorsements. 42. Meaning of “driving licence”. 43. Restriction on driving by young persons, etc. 44. Speed limit.
 
 Provisions as to Driving and Offences in connection therewith
 
-45. Causing death by reckless or dangerous driving of motor vehicles. 46. Careless driving. 47. Reckless or dangerous driving. 48. Power to convict of reckless or dangerous driving on trial for man- slaughter. 49. Power to proceed on charge of careless driving on hearing of charge for reckless driving. 50. Prohibition of motor racing and speed trials on roads. 51. Restriction on pillion riding. 52. Restriction on prosecutions under the preceding sections. 53. Duty to give name and address and to stop: power of arrest. 54. Accidents, 55. Restrictions on persons being towed by, getting on to or tampering with motor vehicles. 56. Prohibition of motor vehicles not complying with regulations. 57. Regulations. 58. Exemption. 59. Recognition and exchange of EEA State driving licences. 59A.  Recognition of EEA licences: minimum ages. 60. Exchangeable licences. 60A.  Anti-forgery measures. 61. Regulations for facilitating international traffic. 61A.  Entitlements not affected by Third Driving Licence Directive.
+45. Causing death by reckless or dangerous driving of motor vehicles. 46. Careless driving. 47. Reckless or dangerous driving. 48. Power to convict of reckless or dangerous driving on trial for man- slaughter. 49. Power to proceed on charge of careless driving on hearing of charge for reckless driving. 50. Prohibition of motor racing and speed trials on roads. 51. Restriction on pillion riding. 52. Restriction on prosecutions under the preceding sections. 53. Duty to give name and address and to stop: power of arrest. 54. Accidents, 55. Restrictions on persons being towed by, getting on to or tampering with motor vehicles. 56. Prohibition of motor vehicles not complying with regulations. 57. Regulations. 58. Exemption. 59. Recognition and exchange of EEA State driving licences. 59A.  Recognition of EEA licences: minimum ages. 60. Exchangeable licences. 60A.  Anti-forgery measures.
 
 Traffic
 
-2005-26
+2005-26 60B.  Additional security features. 60C. Mutual assistance. 60D.  Surrender of licences. 61. Regulations for facilitating international traffic. 61A.  Entitlements not affected by Third Driving Licence Directive.
 
 PART IV DRINKING AND DRIVING
 
@@ -72,11 +74,11 @@ Regulations
 
 PART VII STREETS AND HIGHWAYS
 
-81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs.
-
 Traffic
 
-2005-26 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
+2005-26
+
+81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs. 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
 
 PART VIII GENERAL
 
