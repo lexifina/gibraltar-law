@@ -24,11 +24,13 @@ WORKFORCE AGREEMENTS
 
 (e) before the agreement was made available for signature, the employer provided all the employees to whom it was intended to apply on the date on which it came into effect with copies of the text of the agreement and such guidance as those employees might reasonably require in order to understand it fully.
 
-Employment THE FIXED-TERM EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
+Employment THE FIXED-TERM AND PART-TIME EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
 
 1932-16
 
-Subsidiary 2003/032 2.  For the purposes of this Schedule–
+Subsidiary 2003/032
+
+2.  For the purposes of this Schedule–
 
 “a particular group” is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace or belong to a particular department or unit within their employer’s business;
 
@@ -50,12 +52,12 @@ Subsidiary 2003/032 2.  For the purposes of this Schedule–
 
 (f) the election is conducted so as to secure that–
 
-(i) so far is reasonably practicable, those voting do so in secret, and
-
-Employment THE FIXED-TERM EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
+Employment THE FIXED-TERM AND PART-TIME EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
 
 1932-16
 
 Subsidiary 2003/032
+
+(i) so far is reasonably practicable, those voting do so in secret, and
 
 (ii) the votes given at the election are fairly and accurately counted.
