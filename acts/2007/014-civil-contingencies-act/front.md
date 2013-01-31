@@ -10,7 +10,7 @@ Act. No. 2007-14 Commencement 26.4.2007
 
 Assent 20.4.2007
 
-Amending enactments Relevant current provisions Commencement date LN.  2011/064 ss. 21-30 & Sch. 1 & 2 12.5.2011
+Amending enactments Relevant current provisions Commencement date LN.  2011/064 ss. 21-30 & Sch. 1 & 2 12.5.2011 2013/012 s. 31 31.1.2013
 
 Transposing: Directive 2008/114/EC
 
@@ -43,6 +43,10 @@ PART 5 European Critical Infrastructures
 Civil Contingencies
 
 2007-14 23. Procedure for the identification of critical infrastructures which may be designated as an ECI. 24. Designation of ECIs. 25. Operator security plans. 26. ECI OSP Procedure. 27. Security Liaison Officers. 28. Reporting. 29. Sensitive European critical infrastructure protection-related information. 30. European critical infrastructure protection contact points.
+
+PART 6
+
+31. Regulations.
 
 SCHEDULE 1
 
