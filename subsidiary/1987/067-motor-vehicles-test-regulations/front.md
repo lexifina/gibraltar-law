@@ -16,7 +16,7 @@ Amending enactments Relevant current Provisions Commencem ent date LN.   1988/02
 
 5.3.1998 2001/048 r. 37(1), (1A) and (1B) 17.5.2001 2005/122 rr. 37(1), (1A), (1B), (3) and (4) 1.5.2004 2005/051 Sch.5 1.4.2005 2005/122 rr. 2, 3(a) and (c), 4(1), (2) and (2)(d), 6(d), 7, 9(2)(c), 12(1)(c) and (d), 13(1)(b), 13(1A), 15, 16(2), 23(1)(b), 24, 25(1) and (2), 26, 37(2), 40, 42, 44, 45, 46(b)(ii) Sch. 1 and 3
 
-25.8.2005 2012/074 rr. 2, 6, 7, 18(3), Schs. 1 & 3 14.5.2012
+25.8.2005 2012/074 rr. 2, 6, 7, 18(3), Schs. 1 & 3 14.5.2012 2013/018 Sch. 2 31.1.2013
 
 EU Legislation/International Agreements involved: Directive 2009/40/EC
 
@@ -668,7 +668,7 @@ PART I.
 
 Item Regulation Affecting Applicable to
 
-Motor Vehicles Trailers 9 7 Oversize distinguishing marks Yes No 10 8 Markings Yes Yes 11 14 Springs Yes Yes 12 16 Tyres Yes Yes 13 17, 17A, 17B, 17C, 17F, 17H,
+Motor Vehicles Trailers 9 7 Oversize distinguishing marks Yes No 10 Deleted Deleted Deleted Deleted 11 14 Springs Yes Yes 12 16 Tyres Yes Yes 13 17, 17A, 17B, 17C, 17F, 17H,
 
 Brakes Yes No 14 17, 17E, 17H
 
