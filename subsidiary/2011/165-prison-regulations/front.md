@@ -12,7 +12,7 @@ Commencement 23.9.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2011/184 r. 86, Sch. 30.9.2011 2012/011 r.38 9.2.2012
+LN. 2011/184 r. 86, Sch. 30.9.2011 2012/011 r.38 9.2.2012 2013/021 r. 39(2) 13.2.2013
 
 _______________________
 
