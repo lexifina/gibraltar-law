@@ -10,6 +10,10 @@ ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS
 
 25.5.2006
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2013/030 Sch. 14.2.2013
+
 EU Legislation/International Agreements involved: Convention on Long-Range Transboundary Air Pollution on Persistent Organic Pollutants Cooperative Programme for Monitoring and Evaluation of the Long-Range Transmission of Air Pollutants in Europe Stockholm Convention on Persistent Organic Pollutants Directive 67/548/EEC Directive 75/442/EEC Directive 75/442/EEC Directive 76/769/EEC Directive 79/117/EEC Directive 79/117/EEC Directive 91/689/EEC Directive 96/59/EC Directive 1996/61/EC Directive 2001/59/EC Directive 2003/4/EC Decision 2000/479/EC Regulation (EC) No 304/2003 Regulation (EC) No 850/2004 Council Decision 1999/468/EC
 
 Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
