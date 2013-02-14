@@ -62,7 +62,7 @@ If applicable Conditions under which the abovementioned costs related to the cre
 
 If applicable Obligation to pay legal costs
 
-Costs in the case of late payments Missing payments could have severe consequences for you (e.g. forced sale) and make obtaining credit more difficult. You will be charged […… (applicable interest rate and arrangements for its adjustment and, where applicable, default charges)] for missing payments.
+Costs in the case of late payments Missing payments could have severe consequences for you (e.g. forced sale) and make obtaining credit more difficult. You will be charged […… (applicable interest rate and arrangements for its adjustment and, where applicable, default charges)] for late payments.
 
 4. Other important legal aspects.
 
