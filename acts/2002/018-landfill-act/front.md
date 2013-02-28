@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act.   2007-35 ss. 6(3), (6) & (7), 11(8) & Sch. 4 5.7.2007 LN.  2011/214 ss. 2(1) & (2B), 5(1)(f), (fa), (2A), (2B), (2C) & (2D) & Sch. 5
 
-27.10.2011
+27.10.2011 2013/042 s. 8(2)(c) 28.2.2013
 
 Transposing: Directive 1999/31/EC Decision 2003/33/EC Directive 2006/66/EC
 
