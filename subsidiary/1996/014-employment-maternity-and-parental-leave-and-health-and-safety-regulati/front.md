@@ -8,11 +8,11 @@ EMPLOYMENT (MATERNITY AND PARENTAL LEAVE, AND HEALTH AND SAFETY) REGULATIONS, 19
 
 1.1.1996
 
-Amending enactments Relevant current provisions Commencement date LNs. 1999/162 rr. 2-4, 6, 7(2), 8(1) 5.7.1999 2001/112 Title, 25-30, Sch.1 1.12.2001
+Amending enactments Relevant current provisions Commencement date LNs. 1999/162 rr. 2-4, 6, 7(2), 8(1) 5.7.1999 2001/112 Title, 25-30, Sch.1 1.12.2001 2013/045 rr. 26(1), 28(a) 8.3.2013
 
 Implementing: Directive 96/34/EC Directive 97/75/EC
 
-Transposing: Directive 89/391/EEC Directive 92/85/EEC
+Transposing: Directive 89/391/EEC Directive 92/85/EEC Directive 2010/18/EU
 
 Employment EMPLOYMENT (MATERNITY AND PARENTAL LEAVE, AND HEALTH AND SAFETY) REGULATIONS, 1996
 
