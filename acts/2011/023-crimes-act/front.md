@@ -10,7 +10,7 @@ Act. No. 2011-23 Commencement (LN. 2012/185) 23.11.2012 Assent 15.8.2011
 
 Amending enactments Relevant current provisions Commencement date Act. 2012-13 ss. 113(1) & (1)(a), (2), (3) & (4), 124(1), 176(a), 266A, 306(1)(c),(d) & (e), 307(5)(c) & (d), 308(1) & (1)(a), 555(1) & (1)(b), Schs. 2 & 3
 
-23.11.20121
+23.11.20121 LN.  2013/049 Sch. 3 14.3.2013
 
 1 Commencement notice see LN. 2012/186
 

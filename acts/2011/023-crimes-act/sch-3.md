@@ -52,6 +52,12 @@ Crimes
 
 11.  An offence under section 127 of the Criminal Offences Act (Causing or encouraging prostitution of, intercourse with or indecent assault on, girl under 16).
 
+11A.  An offence under section 2 or 3 of the Crimes (Indecent Photographs with Children) Act 2009 (Indecent photographs of children) if the indecent photographs or pseudo-photographs showed persons under 16 and the offender–
+
+(a)  was 18 or over; or
+
+(b)  is or has been sentenced in respect of the offence to imprisonment for not less than 12 months.
+
 12.  An offence under section 214 (Assault by penetration).
 
 13.  An offence under section 215 (Sexual assault) if–
@@ -66,15 +72,17 @@ Crimes
 
 (A) sentenced to a term of imprisonment;
 
+Crimes
+
+2011-23
+
 (B) detained in a hospital; or
 
 (C) made the subject of a community service order of at least 120 hours.
 
 14.  An offence under any of sections 216 (Causing a person to engage in sexual activity without consent), 217 (Rape of a child under 13), or 218 (Assault of a child under 13 by penetration).
 
-Crimes
-
-2011-23 15.  An offence under section 219 (Sexual assault of a child under 13) if the offender
+15.  An offence under section 219 (Sexual assault of a child under 13) if the offender
 
 (a) was 18 or over; or
 
@@ -100,15 +108,15 @@ Crimes
 
 (c) made the subject of a community service order of at least 120 hours.
 
-22.  An offence under section 236 or 237 (Familial child sex offences) if the offender
+Crimes
+
+2011-23 22.  An offence under section 236 or 237 (Familial child sex offences) if the offender
 
 (a) was 18 or over; or
 
 (b) is or has been sentenced in respect of the offence to imprisonment for not less than 12 months.
 
-Crimes
-
-2011-23 23.  An offence under any of sections 241 to 244 (Offences against persons with a mental disorder impeding choice).
+23.  An offence under any of sections 241 to 244 (Offences against persons with a mental disorder impeding choice).
 
 24.  An offence against any of sections 246 to 248 (Inducements etc. to persons with a mental disorder).
 
@@ -136,15 +144,15 @@ Crimes
 
 (b) is or has been sentenced in respect of the offence to imprisonment for not less than 12 months.
 
+Crimes
+
+2011-23
+
 28.  An offence under section 263 (Causing or encouraging or assisting child prostitution or pornography) if the offender
 
 (a) was 18 or over; or
 
 (b) is or has been sentenced in respect of the offence to imprisonment for not less than 12 months.
-
-Crimes
-
-2011-23
 
 29.  An offence under section 264 (Controlling a child prostitute or a child involved in pornography) if the offender
 
@@ -174,15 +182,15 @@ Crimes
 
 (i) the intended offence was an offence against a person under 18; or
 
+Crimes
+
+2011-23
+
 (ii) the offender, in respect of the offence or finding, is or has been
 
 (A) sentenced to a term of imprisonment;
 
 (B) detained in a hospital; or
-
-Crimes
-
-2011-23
 
 (C) made the subject of a community service order of at least 120 hours.
 
@@ -214,15 +222,13 @@ Crimes
 
 35.  An offence under section 293 (Voyeurism) if
 
-(a) in the case of an offender under 18 - he is or has been sentenced in respect  of the offence to imprisonment for not less than 12 months;
+Crimes
+
+2011-23 (a) in the case of an offender under 18 - he is or has been sentenced in respect  of the offence to imprisonment for not less than 12 months;
 
 (b) in any other case
 
 (i) the victim was under 18; or
-
-Crimes
-
-2011-23
 
 (ii) the offender, in respect of the offence or finding, is or has been
 
