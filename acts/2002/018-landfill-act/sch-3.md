@@ -94,6 +94,38 @@ Note to Table 3
 
 1 Data for the status plan of the relevant landfill: surface occupied by waste, volume and composition of waste, methods of depositing, time and duration of depositing, calculation of the remaining capacity still available at the landfill.
 
+Specific requirements for metallic mercury.
+
+7.(1) Temporary storage of metallic mercury must be monitored by a continuous mercury vapour monitoring system with a sensitivity of at least 0.02 milligrams of mercury per cubic metre and it must−
+
+(a) be installed in the storage site, with sensors positioned at ground level and head level; and
+
+(b)  include a visual and acoustic alert system, which must be maintained annually.
+
+(2) The storage site and containers must be visually inspected by the landfill permit holder at least once a month.
+
+(3) The operator must on detection of a leak immediately take all necessary action to−
+
+(a) avoid any emission of mercury to the environment; and
+
+(b) restore the safety of the storage of the mercury.
+
+(4) Any leak of mercury must be considered to have significant adverse environmental effects for the purposes of section 12(3).
+
+(5) Emergency plans and adequate protective equipment suitable for handling metallic mercury must be available on site.
+
+(6) All documents containing the information referred to in Schedule 6 and in subparagraphs (1) to (5), including−
+
+(a) the certificate accompanying the container;
+
+(b) records concerning the destocking and dispatch of the metallic mercury after its temporary storage; and
+
+Landfill
+
+2002-18 (c) the destination and intended treatment,
+
+must be kept for at least 3 years after the termination of the storage.
+
 Landfill
 
 2002-18

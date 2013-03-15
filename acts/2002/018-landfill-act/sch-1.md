@@ -82,6 +82,84 @@ Landfill
 
 5.  In this Schedule, “the Commission Decision on Wastes” means the Commission Decision 2000/532/EC replacing Decision 94/3 establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EC on hazardous waste.
 
+Specific requirements for metallic mercury.
+
+6.(1) The composition of metallic mercury for temporary storage must−
+
+(a) be of a mercury content greater than 99.9% per weight; and
+
+(b) have no impurities capable of corroding carbon or stainless steel, (for example, nitric acid solution, chloride salts solutions).
+
+(2) The containers used for temporary storage of metallic mercury must−
+
+(a) be resistant to corrosion and shock;
+
+(b) have no welds in the container;
+
+(c) be made from either carbon steel (ASTM A36 minimum) or stainless steel (AISI 304, 316L);
+
+(d) be gas and liquid tight;
+
+(e) have an outer side resistant against the storage conditions;
+
+(f) have a design type that must pass the drop test and the leakproofness tests as described in Chapters 6.1.5.3 and 6.1.5.4 of the UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria; and
+
+(g) be filled to a maximum fill ratio of 80% of the overall volume of the container, to ensure that sufficient ullage is available and neither leakage nor permanent distortion of the container can occur as a result of an expansion of the liquid due to high temperature.
+
+Landfill
+
+2002-18
+
+Certificates for metallic mercury storage.
+
+7.(1) The containers referred to in paragraph 6 require a certificate as provided for in subparagraph (2).
+
+(2) Certificates must be issued if the metallic mercury and the containers fulfil the criteria set out in paragraph 6 and subparagraph (3).
+
+(3) Containers must−
+
+(a) be visually inspected before storage and not be damaged, leaking or corroded;
+
+(b) bear a durable stamp (made by punching) which must detail the following information of the container-
+
+(i) the identification number;
+
+(ii) the construction material;
+
+(iii) the empty weight;
+
+(iv) the reference of the manufacturer; and
+
+(v) the date of construction.
+
+(4) The containers must bear a plate permanently fixed to them corresponding to the identification number of the certificate once the certificate is granted.
+
+(5) The certificate must include the following−
+
+(a) name and address of the waste producer;
+
+(b) name and address of the person responsible for the filling;
+
+(c) place and date of filling;
+
+(d) quantity of the mercury;
+
+(e)  the purity of the mercury and, if relevant, a description of the impurities, including the analytical report;
+
+(f) confirmation that the containers have been used exclusively for the transport and storage of mercury;
+
+Landfill
+
+2002-18
+
+(g) the identification numbers of the containers;
+
+(h) a certificate identification number; and
+
+(i) any specific comments.
+
+(6) Certificates must be issued by the producer of the waste or, in default, by the person responsible for its management.
+
 Landfill
 
 2002-18

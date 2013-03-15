@@ -140,6 +140,30 @@ Barriers.
 
 (3)  The system of control and access to each facility must provide systems to detect and discourage illegal dumping in the facility.
 
+Temporary storage of metallic mercury.
+
+8.(1) Temporary storage of metallic mercury must be separate from other waste and in containers which must be stored in collecting basins that−
+
+(a) are suitably coated so as to be free of cracks and gaps;
+
+(b) are impervious to metallic mercury; and
+
+(c) have a containment volume adequate for the total quantity of mercury stored,
+
+and such containers must be stored in a storage site.
+
+(2) The storage site referred to in subparagraph (1) must−
+
+(a) be provided with engineered or natural barriers that are adequate to protect the environment against mercury emissions;
+
+(b) have a containment volume adequate for the total quantity of mercury stored;
+
+(c) have floors covered with mercury-resistant sealants and a slope with a collection sump must be provided;
+
+(d) be equipped with a fire protection system; and
+
+(e) be arranged in a way to ensure that all containers are easily retrievable.
+
 Landfill
 
 2002-18
