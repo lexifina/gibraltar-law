@@ -10,24 +10,20 @@ Act. No. 2003-14 Commencement 1.10.2003
 
 Assent 31.7.2003
 
-Transposing: Directive 2000/35/EC
+Amending enactments Relevant current provisions Commencement date
 
-_____________________________
+LN.  2013/050 Long title ss. 1(3) & (4), 2-15 & Sch. 16.3.2013
 
-ARRANGEMENT OF SECTIONS
-
-Section
-
-1. Title, commencement and interpretation. 2. Statutory interest. 3. Contracts to which Act applies. 4. Qualifying debts. 5. Compensation arising out of late payment. 6. Period for which statutory interest runs. 7. Remission of statutory interest. 8. Rate of statutory interest.
-
-PART II
-
-CONTRACT TERMS RELATING TO LATE PAYMENT OF QUALIFYING DEBTS
-
-9. Purpose of Part II. 10. Circumstances where statutory interest may be ousted or varied. 11. Meaning of “substantial remedy”. 12. Interpretation of Part II. 13. Assignments, etc. 14. Contract terms relating to the date for payment of the contract price. 15. Proceedings restraining use of grossly unfair terms.
-
-SCHEDULE
+Transposing: Directive 2000/35/EC Directive 2011/7/EU
 
 Late Payment of Commercial Debts (Interest)
 
-2003-14 AN ACT TO TRANSPOSE INTO THE LAW OF GIBRALTAR EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE 2000/35 ON COMBATING LATE PAYMENT IN COMMERCIAL TRANSACTIONS.
+2003-14 ARRANGEMENT OF SECTIONS
+
+Section
+
+1. Title, commencement and interpretation. 2. Scope. 3. Obligation to pay interest. 4. Period for which interest for late payment runs. 5. Public Authority: period for which interest runs. 6. Public Authority: period for payment. 7. Extension of time. 8. Ability to agree extension of periods. 9. Procedure for acceptance or verification of conformity. 10. Payments due by instalments. 11. Compensation for recovery of costs. 12. Jurisdiction of Supreme Court. 13. Powers of the Supreme Court. 14. Unenforceability of terms. 15. Retention of title. 16. Transparency and publicity of rights. 17. Establishment of codes.
+
+Late Payment of Commercial Debts (Interest)
+
+2003-14 AN ACT TO TRANSPOSE INTO THE LAW OF GIBRALTAR EUROPEAN PARLIAMENT AND COUNCIL DIRECTIVE 2000/35 ON COMBATING LATE PAYMENT IN COMMERCIAL TRANSACTIONS AS RECAST BY DIRECTIVE 2011/7/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON COMBATING LATE PAYMENT IN COMMERCIAL TRANSACTIONS.
