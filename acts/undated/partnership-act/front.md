@@ -8,9 +8,11 @@ Principal Act
 
 Act. No. 1895-11 Commencement 26.9.1895 Assent 26.9.1895
 
-Amending enactment Relevant current provisions Commencement date Acts.1983-12 s. 44 1983-48 –
+Amending enactment Relevant current provisions Commencement date Acts.1983-12 s. 44 1983-48 – 2013-011 s. 29A 21.3.2013
 
 English sources Partnership Act 1890 (53 & 54 Vict. c.39)
+
+1 Commencement notice see LN. 2013/038
 
 Partnership
 
@@ -36,7 +38,7 @@ PART IV. –RELATIONS OF PARTNERS TO ONE ANOTHER.
 
 Partnership
 
-1895-11 28. Retirement from partnership at will. 29. Where partnership for term is continued over, continuance on old terms presumed. 30. Duty of partners to render accounts, etc. 31. Accountability of partners for private profits. 32. Duty of partner not to compete with firm. 33. Rights of assignee of share in partnership.
+1895-11 28. Retirement from partnership at will. 29. Where partnership for term is continued over, continuance on old terms presumed. 29A.  Maintenance of accounting records. 30. Duty of partners to render accounts, etc. 31. Accountability of partners for private profits. 32. Duty of partner not to compete with firm. 33. Rights of assignee of share in partnership.
 
 PART V.–DISSOLUTION OF PARTNERSHIP AND ITS CONSEQUENCES
 
