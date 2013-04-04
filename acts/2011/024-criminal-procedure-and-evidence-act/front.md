@@ -20,7 +20,9 @@ Assent 12.8.2011
 
 Amending enactments Relevant current provisions Commencement date Act. 2012-13 ss. 2(1), 170(3), (3)(a) & (4), 225, 226, 241, 244(1) & (4), 245, 246, 247(1)(a) & (4)(a), 248(5), 249, 251(1), (2)(a) & (b), (3), (4), (7), (9) & (12), 252(1), 266A, 359-364, 427(1), 433(1), 434(5) & 695(2)
 
-23.11.20121 2013-03 s. 199(3) 17.1.2013
+23.11.20121 2013-03 s. 199(3) 17.1.2013 LN. 2013/056 ss. 2(1), 258 & 259 4.4.2013
+
+Transposing: Directive 2011/36/EU
 
 1 Commencement notice see LN. 2012/186
 
@@ -224,9 +226,13 @@ Disclosure: Miscellaneous
 
 253. Public interest: Review for summary trials. 254. Public interest: Review in other cases. 255 Applications: Opportunity to be heard. 256. Confidentiality of disclosed information. 257. Confidentiality: Contravention.
 
+Human Trafficking Offences: Investigation and Prosecution.
+
+258. Requirements for investigation or prosecution. 259. Resources for investigation or prosecution.
+
 Protected material: Sexual offences
 
-258 to 264 Not used
+260 to 264 Not used
 
 Supplementary
 
@@ -246,13 +252,11 @@ Powers of the Supreme Court on appeal
 
 276. Powers of Supreme Court on appeal. 277. Determination of appeals. 278. Appeals against special findings or verdicts. 279. Supplementary powers. 280. Enlargement of time. 281. Power to correct omissions or mistakes. 282. Manner of enforcement of decision. 283. Notification to Magistrates’ Court.
 
-Cases stated
-
-284. Right to apply for statement of case. 285. Case may be sent back for amendment. 286. Determination of question.
-
 2011-24 Criminal Procedure and Evidence
 
-287. Enforcement of decisions.
+Cases stated
+
+284. Right to apply for statement of case. 285. Case may be sent back for amendment. 286. Determination of question. 287. Enforcement of decisions.
 
 PART 14 – SUPREME COURT PROCEDURE
 
@@ -284,11 +288,9 @@ PART 15 – RETRIAL FOR SERIOUS OFFENCES
 
 Application for retrial
 
-312. Cases that may be retried. 313. Application to Court of Appeal. 314. Decision by Court of Appeal. 315. New and compelling evidence. 316. Interests of justice.
-
 2011-24 Criminal Procedure and Evidence
 
-317. Procedure and evidence on the application. 318. Appeals. 319. Restrictions on publication in the interests of justice. 320. Offences in connection with publication restrictions.
+312. Cases that may be retried. 313. Application to Court of Appeal. 314. Decision by Court of Appeal. 315. New and compelling evidence. 316. Interests of justice. 317. Procedure and evidence on the application. 318. Appeals. 319. Restrictions on publication in the interests of justice. 320. Offences in connection with publication restrictions.
 
 Procedure on a retrial
 
@@ -310,9 +312,11 @@ Competence and compellability
 
 Convictions and acquittals
 
-349. Admissibility of evidence of previous conviction. 350. Evidence in Magistrates’ Court. 351. Conviction as evidence of commission of offence. 352. Proof of convictions and acquittals in Gibraltar. 353. Proof of convictions elsewhere. 354. Proof by fingerprints.
+349. Admissibility of evidence of previous conviction.
 
 2011-24 Criminal Procedure and Evidence
+
+350. Evidence in Magistrates’ Court. 351. Conviction as evidence of commission of offence. 352. Proof of convictions and acquittals in Gibraltar. 353. Proof of convictions elsewhere. 354. Proof by fingerprints.
 
 Admissions and confessions
 
@@ -336,15 +340,13 @@ Expert evidence
 
 Proof of non-payment of sum adjudged
 
+2011-24 Criminal Procedure and Evidence
+
 387. Proof of non-payment of sum adjudged.
 
 PART 17 – HEARSAY EVIDENCE
 
-388. Interpretation of Part.
-
-2011-24 Criminal Procedure and Evidence
-
-389. Admissibility of hearsay evidence. 390. Statements and matters stated.
+388. Interpretation of Part. 389. Admissibility of hearsay evidence. 390. Statements and matters stated.
 
 Principal categories of admissibility
 
@@ -372,11 +374,13 @@ PART 18 – LIVE LINK EVIDENCE, ETC.
 
 Evidence by live link
 
-416. Evidence by live link by person outside Gibraltar 417. Live link evidence in criminal proceedings generally. 418. Effect of, and rescission of, a direction under section 417. 419. Warning to jury.
-
-Live links in certain preliminary and sentencing hearings
+416. Evidence by live link by person outside Gibraltar 417. Live link evidence in criminal proceedings generally.
 
 2011-24 Criminal Procedure and Evidence
+
+418. Effect of, and rescission of, a direction under section 417. 419. Warning to jury.
+
+Live links in certain preliminary and sentencing hearings
 
 420. Introductory. 421. Use of live link at preliminary hearings when defendant is in custody. 422. Continued use of live link for sentencing hearing following a preliminary hearing. 423. Use of live link in sentencing hearings.
 
@@ -402,9 +406,11 @@ Use of live link and intermediary for evidence of certain defendants
 
 Protection of witnesses from cross-examination by defendant in person
 
-450. Complainants in proceedings for sexual offences. 451. Child complainants and other child witnesses. 452. Direction prohibiting defendant from cross-examining particular witness. 453. Further provisions about directions under section 452. 454. Defence representation for purposes of cross-examination. 455. Cross-examination: Warning to jury.
+450. Complainants in proceedings for sexual offences. 451. Child complainants and other child witnesses.
 
 2011-24 Criminal Procedure and Evidence
+
+452. Direction prohibiting defendant from cross-examining particular witness. 453. Further provisions about directions under section 452. 454. Defence representation for purposes of cross-examination. 455. Cross-examination: Warning to jury.
 
 Protection of complainants in proceedings for sexual offences
 
@@ -432,11 +438,11 @@ Principles for sentencing
 
 479. Purposes of sentencing. 480. Determining the seriousness of an offence. 481. Reduction in sentences for guilty pleas. 482. Powers to mitigate sentences and deal appropriately with mentally disordered offenders 483. Mitigation of sentence in the Magistrates’ Court 484. Sentencing guidelines. 485. Duty to give reasons for, and explain effect of, sentence.
 
+2011-24 Criminal Procedure and Evidence
+
 Commencement and alteration of sentence
 
 486. Commencement of sentence. 487. Alteration of Supreme Court sentence.
-
-2011-24 Criminal Procedure and Evidence
 
 Deferment of sentence
 
@@ -472,13 +478,11 @@ Detention
 
 510. Detention in police cells. 511. Detention for one day. 512. Committal to custody overnight.
 
-Life sentences
-
-513. Recommendation as to minimum term. 514. Aggravating and mitigating factors.
-
 2011-24 Criminal Procedure and Evidence
 
-515. Duty to give reasons.
+Life sentences
+
+513. Recommendation as to minimum term. 514. Aggravating and mitigating factors. 515. Duty to give reasons.
 
 PART 22 – NON-CUSTODIAL SENTENCES
 
@@ -498,11 +502,13 @@ Further provisions about relevant orders
 
 Breach or requirement of community sentence
 
-544. Community order: Duty to give warning. 545. Community order: Breach of order after warning. 546. Youth rehabilitation order: Duty to give warning. 547. Youth rehabilitation order: Breach of order after warning. 548. Issue of summons or warrant by magistrate. 549. Issue of summons or warrant by Supreme Court. 550. Powers of Magistrates’ Court on breach. 551. Powers of Supreme Court on breach. 552. Restriction of powers when treatment required.
-
-Revocation and amendment of relevant orders
+544. Community order: Duty to give warning. 545. Community order: Breach of order after warning. 546. Youth rehabilitation order: Duty to give warning. 547. Youth rehabilitation order: Breach of order after warning. 548. Issue of summons or warrant by magistrate. 549. Issue of summons or warrant by Supreme Court.
 
 2011-24 Criminal Procedure and Evidence
+
+550. Powers of Magistrates’ Court on breach. 551. Powers of Supreme Court on breach. 552. Restriction of powers when treatment required.
+
+Revocation and amendment of relevant orders
 
 553. Revocation of relevant order by Magistrates’ Court. 554. Revocation of relevant order by Supreme Court. 555. Amendment of requirements of a relevant order. 556. Amendment of treatment requirements. 557. Amendment in relation to review of drug rehabilitation requirement. 558. Extension of unpaid work requirement.
 
@@ -526,11 +532,13 @@ Juvenile offenders
 
 Enforcement of fines and recognizances
 
-579. Imprisonment for non-payment of a fine – Schedule 10. 580. Enforcement of fines imposed and recognizances forfeited by Supreme Court. 581. Enforcement by distress or committal. 582. Restriction on committal and means inquiry. 583. Defect in distress warrant and irregularity in execution. 584. Release from custody, etc., on payment. 585. Power of court to order search of person and application of money found. 586. Supervision pending payment.
-
-PART 24 – COSTS, COMPENSATION, RESTITUTION, FORFEITURE, ETC.
+579. Imprisonment for non-payment of a fine – Schedule 10. 580. Enforcement of fines imposed and recognizances forfeited by Supreme Court. 581. Enforcement by distress or committal. 582. Restriction on committal and means inquiry. 583. Defect in distress warrant and irregularity in execution. 584. Release from custody, etc., on payment.
 
 2011-24 Criminal Procedure and Evidence
+
+585. Power of court to order search of person and application of money found. 586. Supervision pending payment.
+
+PART 24 – COSTS, COMPENSATION, RESTITUTION, FORFEITURE, ETC.
 
 Costs
 
@@ -558,9 +566,11 @@ Miscellaneous
 
 PART 25 – REHABILITATION OF OFFENDERS
 
-610. Rehabilitated persons and spent convictions. 611. Effect of rehabilitation. 612. Excluded sentences. 613. Rehabilitation periods for particular sentences. 614. The rehabilitation period applicable to a conviction. 615. Limitations on rehabilitation under this Part. 616. Exceptions to rehabilitation. 617. Exceptions: Supplementary. 618. Defamation actions. 619. Unauthorized disclosure of spent convictions. 620. References to spent convictions in court proceedings.
+610. Rehabilitated persons and spent convictions. 611. Effect of rehabilitation. 612. Excluded sentences. 613. Rehabilitation periods for particular sentences. 614. The rehabilitation period applicable to a conviction. 615. Limitations on rehabilitation under this Part. 616. Exceptions to rehabilitation.
 
 2011-24 Criminal Procedure and Evidence
+
+617. Exceptions: Supplementary. 618. Defamation actions. 619. Unauthorized disclosure of spent convictions. 620. References to spent convictions in court proceedings.
 
 PART 26 – ANTI-SOCIAL BEHAVIOUR ORDERS
 
@@ -592,13 +602,11 @@ Schedule 13 offences
 
 643. Presumption and determination of age. 644. Power to proceed with case in absence of juvenile. 645. Extension of power to take deposition of juvenile. 646. Admission of deposition of juvenile in evidence. 647. Mode of charging offences and limitation of time. 648. Warrant to search for juvenile suspected of being ill-treated, etc.
 
-Miscellaneous provisions
-
-649. General considerations when dealing with juveniles. 650. Segregation of juveniles in detention.
-
 2011-24 Criminal Procedure and Evidence
 
-651. Prohibition of unnecessary presence of children in court. 652. Power to clear court while juvenile is giving evidence. 653. Evidence of child of tender years. 654. Not used 655. Power to prohibit publication of certain matter in newspapers. 656. Dealing with persons who attain the age of 18.
+Miscellaneous provisions
+
+649. General considerations when dealing with juveniles. 650. Segregation of juveniles in detention. 651. Prohibition of unnecessary presence of children in court. 652. Power to clear court while juvenile is giving evidence. 653. Evidence of child of tender years. 654. Not used 655. Power to prohibit publication of certain matter in newspapers. 656. Dealing with persons who attain the age of 18.
 
 PART 28 – MENTALLY DISORDERED OFFENDERS
 
@@ -624,11 +632,11 @@ Supervision orders
 
 677. Power to make supervision orders. 678. Requirements as to medical treatment. 679. Change of place of treatment. 680. Requirement as to residence. 681. Revocation or amendment of a supervision order.
 
+2011-24 Criminal Procedure and Evidence
+
 Miscellaneous
 
 682. Periodical reports. 683. Appeals against orders. 684. Evidence by prosecution of mental disorder or diminished responsibility.
-
-2011-24 Criminal Procedure and Evidence
 
 PART 29 – CODES OF PRACTICE
 
@@ -662,11 +670,11 @@ Schedule 9 Standard scale of fines for offences (Sections 550(1), 570, 575 and 5
 
 Schedule 10 Maximum periods of imprisonment or detention in default of payment (Sections 579(3) and 587)
 
+2011-24 Criminal Procedure and Evidence
+
 Schedule 11 Table of rehabilitation periods (Section 613)
 
 Schedule 12 Exceptions to rehabilitation (Sections 616 and 617(1))
-
-2011-24 Criminal Procedure and Evidence
 
 Schedule 13 Offences against juveniles with respect to which special provisions apply (Sections 643 to 648)
 
