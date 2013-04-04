@@ -10,7 +10,11 @@ Act. No. 2011-23 Commencement (LN. 2012/185) 23.11.2012 Assent 15.8.2011
 
 Amending enactments Relevant current provisions Commencement date Act. 2012-13 ss. 113(1) & (1)(a), (2), (3) & (4), 124(1), 176(a), 266A, 306(1)(c),(d) & (e), 307(5)(c) & (d), 308(1) & (1)(a), 555(1) & (1)(b), Schs. 2 & 3
 
-23.11.20121 LN.  2013/049 Sch. 3 14.3.2013
+23.11.20121 LN.  2013/049 Sch. 3 14.3.2013 2013/057 ss. 191A to 191D, 280, 281, 282, 283, 284, 285 & Sch. 4
+
+4.4.2013
+
+Transposing: Directive 2011/36/EU
 
 1 Commencement notice see LN. 2012/186
 
@@ -218,7 +222,7 @@ Crimes
 
 Miscellaneous offences
 
-189. Kidnapping and false imprisonment. 190. Torture. 191. Slavery, servitude and forced or compulsory labour.
+189. Kidnapping and false imprisonment. 190. Torture. 191. Slavery, servitude and forced or compulsory labour. 191A.  Human Trafficking. 191B.  Aggravation of offence of human trafficking. 191C.  Jurisdiction over offence. 191D.  Lack of supervision not a defence.
 
 PART 11 CORPORATE MANSLAUGHTER
 
@@ -236,13 +240,15 @@ Application to particular categories of organisation
 
 Enforcement and procedure.
 
-204. Power to order breach, etc. to be remedied. 205. Power to order conviction, etc. to be publicised. 206. Procedure, evidence and sentencing. 207. Convictions under this Part and under health and safety legislation.
-
-Miscellaneous
+204. Power to order breach, etc. to be remedied. 205. Power to order conviction, etc. to be publicised. 206. Procedure, evidence and sentencing.
 
 Crimes
 
-2011-23 208. Transfer of functions. 209. Abolition of liability of corporations for manslaughter at common law. 210. Power to extend section 193 to other organisations. 211. Power to extend section 194(2).
+2011-23 207. Convictions under this Part and under health and safety legislation.
+
+Miscellaneous
+
+208. Transfer of functions. 209. Abolition of liability of corporations for manslaughter at common law. 210. Power to extend section 193 to other organisations. 211. Power to extend section 194(2).
 
 PART 12 SEXUAL OFFENCES
 
@@ -260,11 +266,11 @@ Child sex offences
 
 Abuse of position of trust
 
-228. Abuse of position of trust: Sexual activity with a child. 229. Abuse of position of trust: Causing or encouraging or assisting a child to engage in sexual activity. 230. Abuse of position of trust: Sexual activity in the presence of a child. 231. Abuse of position of trust: Causing a child to watch a sexual act. 232. Positions of trust. 233. Positions of trust: Interpretation. 234. Sections 228 to 231: exception for spouses.
+228. Abuse of position of trust: Sexual activity with a child. 229. Abuse of position of trust: Causing or encouraging or assisting a child to engage in sexual activity. 230. Abuse of position of trust: Sexual activity in the presence of a child. 231. Abuse of position of trust: Causing a child to watch a sexual act.
 
 Crimes
 
-2011-23 235. Sections 228 to 231: sexual relationships which pre-date position of trust.
+2011-23 232. Positions of trust. 233. Positions of trust: Interpretation. 234. Sections 228 to 231: exception for spouses. 235. Sections 228 to 231: sexual relationships which pre-date position of trust.
 
 Familial child sex offences
 
@@ -280,11 +286,13 @@ Inducements etc. to persons with a mental disorder
 
 Care workers for persons with a mental disorder
 
-249. Care workers: Sexual activity with a person with a mental disorder. 250. Care workers: Causing or encouraging or assisting sexual activity. 251. Care workers: Sexual activity in the presence of a person with a mental disorder. 252. Care workers: Causing a person with a mental disorder to watch a sexual act. 253. Care workers: Interpretation. 254. Sections 249 to 252: Exception for spouses. 255. Sections 249 to 252: Sexual relationships which pre-date care relationships.
+249. Care workers: Sexual activity with a person with a mental disorder. 250. Care workers: Causing or encouraging or assisting sexual activity. 251. Care workers: Sexual activity in the presence of a person with a mental disorder. 252. Care workers: Causing a person with a mental disorder to watch a sexual act. 253. Care workers: Interpretation. 254. Sections 249 to 252: Exception for spouses.
 
 Crimes
 
-2011-23 Indecent photographs of children
+2011-23 255. Sections 249 to 252: Sexual relationships which pre-date care relationships.
+
+Indecent photographs of children
 
 256. Simple possession of indecent photograph of a child. 257. Taking and publishing indecent photographs of children. 258. Marriage or similar relationship. 259. Exception for criminal proceedings, investigations, etc. 260. Entry, search and seizure. 261. Indecent photographs: Interpretation.
 
@@ -306,11 +314,11 @@ Brothel-keeping
 
 Sex trafficking
 
-280. Trafficking into Gibraltar for sexual exploitation. 281. Trafficking within Gibraltar for sexual exploitation. 282. Trafficking out of Gibraltar for sexual exploitation. 283. Sections 280 to 282: Interpretation and jurisdiction. 284. Forfeiture of land vehicle, ship or aircraft.
+280. Sex trafficking. 281. Repealed
 
 Crimes
 
-2011-23 285. Detention of land vehicle, ship or aircraft. 286. Sections 284 and 285: Interpretation.
+2011-23 282. Repealed 283. Repealed 284. Forfeiture of land vehicle, ship or aircraft. 285. Detention of land vehicle, ship or aircraft. 286. Sections 284 and 285: Interpretation.
 
 Preparatory offences
 
@@ -334,11 +342,11 @@ PART 13 SEX OFFENDERS (NOTIFICATION AND ORDERS)
 
 Notification requirements
 
-306. Persons subject to notification requirements. 307. The notification period. 308. Notification requirements: Initial notification. 309. Notification requirements: Changes. 310. Notification requirements: Periodic notification.
+306. Persons subject to notification requirements. 307. The notification period.
 
 Crimes
 
-2011-23 311. Notification requirements: Travel outside Gibraltar. 312. Method of notification and related matters. 313. Young offenders: Parental directions. 314. Parental directions: Variation, renewal and discharge. 315. Offences relating to notification. 316. Certificates for purposes of Part.
+2011-23 308. Notification requirements: Initial notification. 309. Notification requirements: Changes. 310. Notification requirements: Periodic notification. 311. Notification requirements: Travel outside Gibraltar. 312. Method of notification and related matters. 313. Young offenders: Parental directions. 314. Parental directions: Variation, renewal and discharge. 315. Offences relating to notification. 316. Certificates for purposes of Part.
 
 Information relating to notification
 
@@ -356,13 +364,11 @@ Foreign travel orders
 
 333. Foreign travel orders: Application and grounds. 334. Section 333: Interpretation. 335. Section 333: Qualifying offenders. 336. Foreign travel orders: Effect. 337. Foreign travel orders: Variation, renewal and discharge. 338. Foreign travel orders: Appeals. 339. Breach of a foreign travel order. 340 Entry prohibition orders.
 
-Risk of sexual harm orders (RSHOs)
-
-341. Risk of sexual harm orders (RSHOs): Application, grounds and effect.
-
 Crimes
 
-2011-23 342. Section 341: Interpretation. 343. RSHOs: Variation, renewal and discharge. 344. Interim RSHOs. 345. RSHOs: Appeals. 346. Breach of a RSHO. 347. Effect of conviction etc. of an offence under section 346.
+2011-23 Risk of sexual harm orders (RSHOs)
+
+341. Risk of sexual harm orders (RSHOs): Application, grounds and effect. 342. Section 341: Interpretation. 343. RSHOs: Variation, renewal and discharge. 344. Interim RSHOs. 345. RSHOs: Appeals. 346. Breach of a RSHO. 347. Effect of conviction etc. of an offence under section 346.
 
 Miscellaneous provisions
 
@@ -380,11 +386,13 @@ Computer misuse offences
 
 362. Unauthorised access to computer material. 363. Unauthorised access with intent to commit or facilitate commission of further offences. 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc. 365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364 or 365. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
 
-Jurisdiction
-
 Crimes
 
-2011-23 369. Territorial scope of offences under this Part. 370. Significant links with Gibraltar. 371. Territorial scope of inchoate offences related to offences under this Part. 372. Relevance of external law. 373. National status immaterial.
+2011-23
+
+Jurisdiction
+
+369. Territorial scope of offences under this Part. 370. Significant links with Gibraltar. 371. Territorial scope of inchoate offences related to offences under this Part. 372. Relevance of external law. 373. National status immaterial.
 
 Investigation of offences
 
@@ -400,11 +408,11 @@ Definition of theft
 
 Theft, robbery, burglary etc.
 
-397. Theft. 398. Robbery. 399. Burglary. 400. Aggravated burglary. 401. Going equipped for stealing, etc.
+397. Theft. 398. Robbery.
 
 Crimes
 
-2011-23 402. Theft of or from mails outside Gibraltar, and robbery, etc. on such a theft.
+2011-23 399. Burglary. 400. Aggravated burglary. 401. Going equipped for stealing, etc. 402. Theft of or from mails outside Gibraltar, and robbery, etc. on such a theft.
 
 Offences relating to stolen goods
 
@@ -426,13 +434,11 @@ Offences akin to fraud
 
 425. False accounting. 426. False statements by company directors, etc. 427. Suppression, etc of documents. 428. Dishonestly retaining a wrongful credit.
 
-Miscellaneous provisions
-
-429. Procedure and evidence on charge of theft or handling stolen goods.
-
 Crimes
 
-2011-23 430. Spouses. 431. Not used.
+2011-23 Miscellaneous provisions
+
+429. Procedure and evidence on charge of theft or handling stolen goods. 430. Spouses. 431. Not used.
 
 PART 17 FORGERY AND COUNTERFEITING
 
@@ -452,13 +458,13 @@ Penalties and powers
 
 Counterfeiting of Euros
 
-454. Obligations of financial institutions. 455. Offences concerning Euro currency notes and coins.
-
-PART 18
+454. Obligations of financial institutions.
 
 Crimes
 
-2011-23 PERJURY AND FALSE STATEMENTS
+2011-23 455. Offences concerning Euro currency notes and coins.
+
+PART 18 PERJURY AND FALSE STATEMENTS
 
 456. Interpretation of Part.
 
@@ -484,11 +490,13 @@ Intimidation, etc.
 
 478. Intimidation, etc. of witnesses, jurors and others.
 
-Contempt of court
-
 Crimes
 
-2011-23 479. Strict liability rule. 480. Confidentiality of jury’s deliberations. 481. Use of tape recorders. 482. Offences of contempt of Magistrates’ Court. 483. Penalties and procedure. 484 Times when proceedings are active. 485. Supplementary provisions.
+2011-23
+
+Contempt of court
+
+479. Strict liability rule. 480. Confidentiality of jury’s deliberations. 481. Use of tape recorders. 482. Offences of contempt of Magistrates’ Court. 483. Penalties and procedure. 484 Times when proceedings are active. 485. Supplementary provisions.
 
 PART 20 HARMFUL AND OBSCENE PUBLICATIONS, ETC.
 
@@ -512,13 +520,11 @@ Preliminary
 
 500. Interpretation of Part. 501. Meaning and evidence of “corresponding law”. 502. Controlled drugs and their classification.
 
-Restrictions concerning controlled drugs
-
-503. Restriction of importation and exportation.
-
 Crimes
 
-2011-23 504. Restriction of production and supply. 505. Aggravation of offence of supply of a controlled drug. 506. Restriction of possession. 507. Prohibition of supply, etc. of articles for administering or preparing controlled drugs. 508. Restriction of cultivation of cannabis. 509. Authorisation of activities otherwise unlawful.
+2011-23 Restrictions concerning controlled drugs
+
+503. Restriction of importation and exportation. 504. Restriction of production and supply. 505. Aggravation of offence of supply of a controlled drug. 506. Restriction of possession. 507. Prohibition of supply, etc. of articles for administering or preparing controlled drugs. 508. Restriction of cultivation of cannabis. 509. Authorisation of activities otherwise unlawful.
 
 Prevention of, and precautions against, misuse
 
@@ -538,11 +544,13 @@ Miscellaneous
 
 PART 22 CRIMINAL TRESPASS
 
-531. Interpretation.
-
 Crimes
 
-2011-23 Criminal trespass
+2011-23
+
+531. Interpretation.
+
+Criminal trespass
 
 532. Failing to obey directions to leave land. 533. Forcible entry on land or holding of land. 534. Trespass in Government housing. 535. Remaining in public premises. 536. Remaining in residential premises. 537. Meaning of “displaced residential occupier”. 538. Meaning of “intending residential occupier”.
 
@@ -564,13 +572,11 @@ Public nuisances
 
 547. Feeding of Barbary Macaques. 548. Noise. 549. Exemptions. 550. Other nuisances. 551. Disposal of proceeds of sale, etc. 552. Posting bills and graffiti. 553. Prohibited areas for pleasure boats and bathing. 554. Vessels not to inconvenience bathers. 555. Underwater fishing. 556. Discharging firearms, etc.
 
-Intoxication
-
-557. Interpretation for sections 558 to 564.
-
 Crimes
 
-2011-23 558. Intoxication in public places. 559. Disorderly or indecent conduct while intoxicated. 560. Possession of firearms while intoxicated. 561. Being intoxicated while in charge of child. 562. Permitting drunkenness or disorderly conduct in licensed premises. 563. Procuring alcohol for an intoxicated person.
+2011-23 Intoxication
+
+557. Interpretation for sections 558 to 564. 558. Intoxication in public places. 559. Disorderly or indecent conduct while intoxicated. 560. Possession of firearms while intoxicated. 561. Being intoxicated while in charge of child. 562. Permitting drunkenness or disorderly conduct in licensed premises. 563. Procuring alcohol for an intoxicated person.
 
 Begging, etc.
 
@@ -596,11 +602,13 @@ Prosecution and penalties
 
 Miscellaneous
 
-577. Territorial application of this Part. 578. Legitimate purpose as a defence. 579. Bribery offences by corporate bodies. 580. Bribery offences by partnerships. 581. Application to Crown. 582. Abolition of common law offences.
+577. Territorial application of this Part. 578. Legitimate purpose as a defence. 579. Bribery offences by corporate bodies. 580. Bribery offences by partnerships.
 
 Crimes
 
-2011-23 PART 25 DANGEROUS DOGS
+2011-23 581. Application to Crown. 582. Abolition of common law offences.
+
+PART 25 DANGEROUS DOGS
 
 583. Prohibition of dangerous dogs. 584. Export or destruction of dangerous dogs. 585. Offences. 586. Stray dangerous dogs. 587. Entry and seizure. 588. Compensation. 589. General Exemptions. 590. Exemption for individuals. 591. Consequences of exemption.
 
@@ -622,11 +630,11 @@ SCHEDULE 1 Forfeiture of indecent photographs of children
 
 SCHEDULE 2 Offences to which sections 298 and 299 apply
 
-SCHEDULE 3 Sexual offences for purposes of Part 13
-
 Crimes
 
-2011-23 SCHEDULE 4 Other offences for purposes of Part 13
+2011-23 SCHEDULE 3 Sexual offences for purposes of Part 13
+
+SCHEDULE 4 Other offences for purposes of Part 13
 
 SCHEDULE 5 Controlled drugs
 

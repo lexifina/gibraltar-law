@@ -22,7 +22,7 @@ OTHER OFFENCES FOR THE PURPOSES OF PART 13
 
 9.  An offence under section 267 or 268 (Exploitation of prostitution).
 
-10.  An offence under any of sections 280, 281 or 282 (Sex trafficking).
+10.  An offence under section 191A as read with section 280 (Sex trafficking).
 
 11.  An offence of riot at common law or under section 55 (Riot).
 
