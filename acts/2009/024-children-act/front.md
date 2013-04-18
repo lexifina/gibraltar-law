@@ -14,11 +14,13 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2010-25 ss. 2, 3(1), (7) & (11), 4(4)(b), 52(2) & (4), 99(11), 142, 147(6), 148(1), (2)(a), (7) & (8), 157(2)(d), (f), (g), (h), (i) & (j), & 158(12) & (13)
 
-11.11.2010
+11.11.2010 “ ss. 93A–93P & Sch. 18.4.20131
 
 English sources: Children Act 1989 (1989 Chapter 41).
 
 EU Legislation/International Agreements involved: Council Regulation (EC) No. 2201/2003 Convention on jurisdiction, applicable law, recognition, enforcement and co-operation in respect of parental responsibility and measures for the protection of children, signed at the Hague on the 19th day of October, 1996.
+
+1 Commencement notice see LN. 2013/067
 
 Children
 
@@ -90,35 +92,41 @@ Guardian ad litem
 
 91. Representation of child and of his interests in certain proceedings. 92. Right of guardian ad litem to have access to the Agency records. 93. Child Protection Committee.
 
+PART VIIIA Protection of children: 1996 Hague Convention
+
+93A.  Interpretation for Part VIIIA. 93B.  Application of the Convention. 93C.  Exercise of jurisdiction of the Supreme Court. 93D.  Power of the Court to remove stay under Article 8. 93E.  Agency: application to Court to make request under Article 9. 93F.  Agency: application for interim care order or supervision order. 93G.   Application of Article 15. 93H.  Provision of certain court documents. 93I. Evidence in proceedings. 93J.   Letters of request. 93K.  Central Authority. 93L.  Provision of reports and information. 93M.  Agency’s requirement to provide a report. 93N.   Rules of Court. 93O.  Services under Article 35. 93P.   Regulations in relation to the Convention.
+
 PART IX Emergency Protection of children
 
-94. Orders for emergency protection of children. 95. Power to include exclusion requirement in emergency protection order. 96. Undertakings relating to emergency protection orders. 97. Duration of emergency protection orders and other supplemental provisions. 98. Removal and accommodation of children by police in cases of emergency. 99. Care Agency’s duty to investigate. 100. Powers to assist in discovery of children who may be in need of emergency protection. 101. Abduction of children in care, etc. 102. Recovery of abducted children etc. 103. Refuges for children at risk.
-
-PART X Services for children in need
-
-104. Services for children in need, their families and others. 105. Welfare of children being looked after by the Agency. 106. Accommodation for children. 107. Accommodation and maintenance by the Agency for children  whom it looks after. 108. Advice and assistance for certain children. 109. Provision of information 110. Assessment of children's needs. 111. Prevention of neglect and abuse. 112. Provision to reduce need for care, proceedings, etc. 113. Provision for children living with their families. 114. Provision of community homes by the Agency.
+94. Orders for emergency protection of children. 95. Power to include exclusion requirement in emergency protection order. 96. Undertakings relating to emergency protection orders. 97. Duration of emergency protection orders and other supplemental provisions. 98. Removal and accommodation of children by police in cases of emergency. 99. Care Agency’s duty to investigate.
 
 Children
 
-2009-24 115. Family centres. 116. Promotion and maintenance of contact between the child and the family. 117. Provision for disabled children. 118. Maintenance of register for disabled children. 119. Appointment of visitors for children.
+2009-24 100. Powers to assist in discovery of children who may be in need of emergency protection. 101. Abduction of children in care, etc. 102. Recovery of abducted children etc. 103. Refuges for children at risk.
+
+PART X Services for children in need
+
+104. Services for children in need, their families and others. 105. Welfare of children being looked after by the Agency. 106. Accommodation for children. 107. Accommodation and maintenance by the Agency for children  whom it looks after. 108. Advice and assistance for certain children. 109. Provision of information 110. Assessment of children's needs. 111. Prevention of neglect and abuse. 112. Provision to reduce need for care, proceedings, etc. 113. Provision for children living with their families. 114. Provision of community homes by the Agency. 115. Family centres. 116. Promotion and maintenance of contact between the child and the family. 117. Provision for disabled children. 118. Maintenance of register for disabled children. 119. Appointment of visitors for children.
 
 Fostering 120. Fostering of children. 121. Effect of exceeding fostering limit. 122. Complaints, etc. 123. General duties of the Agency in relation to fostering. 124. Continuation of fostering. 125. Privately fostered children. 126. Duty to notify the Agency about private fostering. 127. Power of the Agency to impose requirements. 128. Welfare of privately fostered children. 129. Persons disqualified from being private foster carers. 130. Power to prohibit private fostering. 131. Advertisements relating to fostering.
 
 PART XI Enforcement,other procedure, etc
 
-132. Liability to contribute towards the maintenance. 133. Agreed contributions. 134. Contribution orders. 135. Enforcement of contribution orders, etc. 136. Inquiries and review of cases. 137. Recovery of cost of services, etc. 138. Procedure to make decision with respect to a child. 139. Protection of public from injury. 140. Death of children being looked after by the Agency. 141. Limitation. 142. Appeals. 143. Offences and penalties. 144. Contracts by a child. 145. Effect and duration of orders, etc. 146. Attendance of child at hearing under this Act . 147. Evidence given by, or with respect to children. 148. Privacy for children involved in certain proceedings. 149. Self-incrimination. 150. Powers to search for children or inspect premises. 151. Financial resources.
-
-PART XII
+132. Liability to contribute towards the maintenance.
 
 Children
 
-2009-24 List of individuals unsuitable to work with children
+2009-24 133. Agreed contributions. 134. Contribution orders. 135. Enforcement of contribution orders, etc. 136. Inquiries and review of cases. 137. Recovery of cost of services, etc. 138. Procedure to make decision with respect to a child. 139. Protection of public from injury. 140. Death of children being looked after by the Agency. 141. Limitation. 142. Appeals. 143. Offences and penalties. 144. Contracts by a child. 145. Effect and duration of orders, etc. 146. Attendance of child at hearing under this Act . 147. Evidence given by, or with respect to children. 148. Privacy for children involved in certain proceedings. 149. Self-incrimination. 150. Powers to search for children or inspect premises. 151. Financial resources.
+
+PART XII List of individuals unsuitable to work with children
 
 152. Duty to maintain a list of individuals unsuitable to work with children. 153. Inclusion in list on reference to the Minister. 154. Appeals against inclusion in list. 155. Effect of inclusion in the list.
 
 PART XIII Miscellaneous provisions
 
 156. Offences by corporations. 157. Rules of court. 158. Powers to make Regulations. 159. Repeals and savings.
+
+SCHEDULE Text of the Hague Convention of 19 October, 1996, on jurisdiction, applicable law, recognition, enforcement and co-operation in respect of parental responsibility and measures for the protection of children
 
 Children
 
