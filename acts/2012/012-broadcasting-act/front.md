@@ -10,7 +10,7 @@ Act. No. 2012-12 Commencement (LN. 2012/157) 8.11.2012
 
 Assent 11.10.2012
 
-Amending enactments Relevant current provisions Commencement date LN. 2013/0541 ss. 57(2) & 60(1)(b) 8.11.2012
+Amending enactments Relevant current provisions Commencement date LN. 2013/0541 ss. 57(2) & 60(1)(b) 8.11.2012 2013/074 ss. 35(1), (2), (3), (4) 9.5.2013
 
 Transposing: Directive 2007/65/EC Directive 2010/13/EU
 
