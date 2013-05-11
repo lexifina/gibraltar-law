@@ -14,9 +14,9 @@ Amending enactments Relevant current provisions Commencement date LN. 1998/041 S
 
 13.8.1998 1999-02 s.81, Sch.3 and Sch.12 25.3.1999 1999-37 Sch.3 2.12.1999 2005-50 s. 61(2) 2.8.2005 2005-65 ss. 2(1), 8(4A) & (4B), 8A, 9(2A), (2B),  (3A), (4)(b) & (d), (4A), (4B), (4C), (8), (9) & (10), 23(3A), (4), (7) & (8), 23A, 32(3A), (3B) & (3C), (4)(a), (b), (c) & (d), 45(1A) & (1B), Sch.3, Sch.5, Sch.6 & Sch.9
 
-4.12.2005 LN. 2008/099 ss. 2(1), 32(4), Schs 3, 5, 6 & 9 1.1.2007 2010/090 Sch. 1 6.5.2010 Act. 2011-22 s. 66(ka) & (kb) 18.8.2011 LN. 2013/002 Sch. 8 17.1.2013
+4.12.2005 LN. 2008/099 ss. 2(1), 32(4), Schs 3, 5, 6 & 9 1.1.2007 2010/090 Sch. 1 6.5.2010 Act. 2011-22 s. 66(ka) & (kb) 18.8.2011 LN. 2013/002 Sch. 8 17.1.2013 2013/058 ss. 59A-59H 11.5.2013
 
-Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC Directive 2001/19/EC Directive 2006/100/EC
+Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC Directive 2001/19/EC Directive 2006/100/EC Directive 2010/32/EC
 
 Medical and Health
 
@@ -58,17 +58,21 @@ PART VI. HOSPITALS AND NURSING HOMES.
 
 58. Interpretation. 59. Rules.
 
+PART VIA PREVENTION OF SHARP INJURIES
+
+59A.  Interpretation. 59B.  Application of requirements to employers. 59C.  Application of requirements to healthcare contractors. 59D.  Risk Assessments. 59E.  Use and disposal of medical sharps. 59F.  Information and training. 59G.  Arrangements in the event of injury. 59H.  Notification of injuries.
+
 PART VII. PHARMACY AND MEDICINES.
 
 60. Interpretation. 61. Import of medicinal products not on general sale list. 62. Sale or supply of medicinal products not on general sale list. 63. Sale or supply of medicinal products on general sale list. 64. Provisions as to export. 65. Disclosure of composition of medicines. 66. Regulations. 67. Ownership of registered pharmacies. 68. Conditions imposed on carrying on a retail pharmacy business. 69. Restriction on use of premises. 70. Register of prescriptions to be kept and produced. 71. Articles to be deemed poisons. 72. Regulations to be observed in the sale of poisons. 73. Power of inspection and seizure. 74. Saving.
 
 PART VIII. OFFENCES.
 
-75. Procuring registration by false pretences. 76. Misleading title unqualified practice, etc. 77. Use of title and description by dentists. 78. Penalties for unlawful assumption of title of nurse or midwife. 79. Offences relating to the register. 80. Employing unregistered substitute. 81. Penalty for sale in contravention of section 62. 82. Defences. 83. Penalty relating to section 64. 84. Penalty for refusing to produce or for not properly keeping the register of prescriptions. 85. Penalty relating to section 72. 86. No commission on prescriptions to be paid.
+75. Procuring registration by false pretences.
 
 Medical and Health
 
-1997-25 87. General penalty. 88. Legal proceedings .
+1997-25 76. Misleading title unqualified practice, etc. 77. Use of title and description by dentists. 78. Penalties for unlawful assumption of title of nurse or midwife. 79. Offences relating to the register. 80. Employing unregistered substitute. 81. Penalty for sale in contravention of section 62. 82. Defences. 83. Penalty relating to section 64. 84. Penalty for refusing to produce or for not properly keeping the register of prescriptions. 85. Penalty relating to section 72. 86. No commission on prescriptions to be paid. 87. General penalty. 88. Legal proceedings .
 
 PART IX. GENERAL AND SUPPLEMENTARY.
 
@@ -90,17 +94,15 @@ SCHEDULE 7. Visiting EEA Dental Practitioners
 
 SCHEDULE 8. Nurses, Midwives and Health Visitors Registration Board
 
-SCHEDULE 9. Qualifying European Nursing and Midwifery Qualifications
+Medical and Health
+
+1997-25 SCHEDULE 9. Qualifying European Nursing and Midwifery Qualifications
 
 SCHEDULE 10. Visiting Nurses and Midwives from EEA States
 
 SCHEDULE 11. Repeals
 
 SCHEDULE 12. Minor and consequential amendments
-
-Medical and Health
-
-1997-25
 
 Medical and Health
 
