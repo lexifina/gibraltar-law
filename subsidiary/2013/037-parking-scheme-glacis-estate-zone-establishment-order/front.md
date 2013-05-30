@@ -10,6 +10,10 @@ PARKING SCHEME (GLACIS ESTATE ZONE) ESTABLISHMENT ORDER 2013
 
 Commencement 21.2.2013
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2013/080 Subpara. 4 30.5.2013
+
 _______________________
 
 Traffic PARKING SCHEME (GLACIS ESTATE ZONE) ESTABLISHMENT ORDER 2013
