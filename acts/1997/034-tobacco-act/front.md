@@ -12,7 +12,7 @@ Assent 30.10.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-1998-38 ss 22(1)(a)(b), 9 (1)(3)(5), 13(3) 13.8.1998 1999-12 ss. 2, 6(e)(3)(6)(7), 7(1), 8, 9(4), 11, 12, 13(7)(8), 14, 17A to 17D and 18 6.5.1999 2001-16 ss. 2, 11A to 11E 6.6.2001 2006-11 s. 6(6)(g) 7.7.2006 2011-25 ss. 16(4) & 16A 8.9.2011
+1998-38 ss 22(1)(a)(b), 9 (1)(3)(5), 13(3) 13.8.1998 1999-12 ss. 2, 6(e)(3)(6)(7), 7(1), 8, 9(4), 11, 12, 13(7)(8), 14, 17A to 17D and 18 6.5.1999 2001-16 ss. 2, 11A to 11E 6.6.2001 2006-11 s. 6(6)(g) 7.7.2006 2011-25 ss. 16(4) & 16A 8.9.2011 2013-08 ss. 17(2), (3)  & 17AA 30.5.2013
 
 Tobacco
 
@@ -42,7 +42,7 @@ PART V PENALTIES AND ENFORCEMENT
 
 Tobacco
 
-1997-34 17A. Power of arrest. 17B. Power to require information. 17C. Power to enter and search premises etc. 17D. Power to search persons. 18. Protection of officers in relation to the exercise of powers under this Part. 19. Evidence. 20. Exceptions. 21. Restriction on the institution of proceedings. 22. Returns. 23. Keeping and inspection of records. 24. Power to make regulations.
+1997-34 17AA Power to make orders with respect to property in possession of Police or Customs Officer. 17A. Power of arrest. 17B. Power to require information. 17C. Power to enter and search premises etc. 17D. Power to search persons. 18. Protection of officers in relation to the exercise of powers under this Part. 19. Evidence. 20. Exceptions. 21. Restriction on the institution of proceedings. 22. Returns. 23. Keeping and inspection of records. 24. Power to make regulations.
 
 PART VI REPEALS AND TRANSITIONAL PROVISIONS
 
