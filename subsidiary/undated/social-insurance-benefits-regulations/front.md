@@ -36,6 +36,22 @@ Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
+Subsidiary 1955.08.04-4 LN. 2013/1321 r. 44(2), Schs.2, 5 24.6.2013
+
+1 Death grant - partial satisfaction of contribution conditions.
+
+3.(1)  This regulation applies in respect of deaths that occurred during the period from 6th July 2006 to 23rd June 2013, inclusive of both dates.
+
+(2)  Where a person would be entitled to a death grant of the amount specified in Part VI of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person would nevertheless be entitled to a grant in accordance with subregulation (3), if the yearly average of contributions paid or credited was not less than thirteen.
+
+(3)  Death grant shall be payable at the reduced rate specified in column (2) of the table below which corresponds with the number of contributions paid or credited in the relevant contribution year as shown in column (1) of the table–
+
+(1) (2) Yearly average of contributions paid or credited Reduced rates at which Death Grant is payable 30-44 £301 13-29 £200
+
+Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
+
+1955-14
+
 Subsidiary 1955.08.04-4 RENUMBERING OF REGULATIONS OF THE SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 Previous number New number Remarks
@@ -406,7 +422,7 @@ Partial satisfaction of contribution conditions (V).
 
 44.(1)  Where a person would be entitled to a death grant of one of the amounts specified in Part VI of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person shall nevertheless be entitled to a grant in accordance with sub-regulation (2), if the yearly average of contributions paid or credited is not less than thirteen.
 
-(2)  Where the full amount of a death grant under the Act is one of the amounts set out at the head of columns (2) to (4) of Part V of Schedule 5 to these regulations, then the grant shall be payable at the reduced rate specified in the appropriate column of that Part of the Schedule which corresponds with the yearly average of  contributions paid or credited as shown in column (1) of such Part.
+(2)  Death grant shall be payable at the reduced rate specified in column (2) of Part V of Schedule 5 to these regulations which corresponds with the number of contributions paid or credited in the relevant contribution year as shown in column (1) of that Part of that Schedule.
 
 Amount of cost of burial or cremation payable from the Consolidated Fund or an association.
 
