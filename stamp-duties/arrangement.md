@@ -50,6 +50,8 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 19. Meaning of “conveyance on sale”.
 
+19A. First-time and second-time buyers.
+
 20. How consideration consisting of stock and securities, to be charged.
 
 21. How consideration consisting of periodical payments, to be charged.
@@ -81,6 +83,8 @@ or mortgage.
 33. Leases how to be charged in respect of produce.
 
 34. Directions as to duty certain cases.
+
+34A. Exemption on transfers between spouses.
 
 35. Meaning of “mortgage”.
 

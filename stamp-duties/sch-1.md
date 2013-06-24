@@ -46,7 +46,17 @@ CONVEYANCE or TRANSFER on sale of any Property Subject to duty,–
 
 (1) Where the value of the whole of the Property subject to duty does not exceed £200,000 a sum equivalent to zero per cent of the amount or value of the consideration
 
-(2) Where the value of the whole of the Property subject to duty exceeds £200,000 but does not exceed £350,000, a sum equivalent to 2.0% (two point zero per cent) on the first £250,000 of the amount or value of the consideration and a sum equivalent to 5.5% (five point five per cent) of the amount or value of the consideration that exceeds £250,000
+(1A) Where–
+
+(a) the value of the whole of the Property subject to duty does not exceed £250,000;
+
+(b) the purchaser, or (if more than one) each of the purchasers, is a first-time buyer or second-time buyer; and
+
+(c) the Real Property in Gibraltar conveyed or transferred consists entirely of residential property,
+
+a sum equivalent to zero per cent of the amount or value of the consideration
+
+(2) Except in a case where subparagraph (1A) applies, where the value of the whole of the Property subject to duty exceeds £200,000 but does not exceed £350,000, a sum equivalent to 2.0% (two point zero per cent) on the first £250,000 of the amount or value of the consideration and a sum equivalent to 5.5% (five point five per cent) of the amount or value of the consideration that exceeds £250,000
 
 (3) Where the value of the whole of the Property subject to duty exceeds £350,000, a sum equivalent to 3.0% (three point zero per cent) on the first £350,000 of the amount or value of the consideration and a sum equivalent to 3.5% (three point five per cent) of the amount or value of the consideration that exceeds £350,000
 
@@ -56,7 +66,9 @@ CONVEYANCE or TRANSFER by way of security of any Property subject to duty.
 
 See MORTGAGES, ETC.
 
-CONVEYANCES or TRANSFERS of Property subject to duty operating as voluntary dispositions inter vivos.
+CONVEYANCES or TRANSFERS of Property subject to
+
+duty operating as voluntary dispositions inter vivos.
 
 See sections 16 and 28.
 
@@ -68,9 +80,9 @@ COVENANT for securing the payment or repayment of money on any Property subject 
 
 See MORTGAGE, ETC.
 
-COVENANT. Any separate deed of covenant (not being an instrument chargeable with ad valorem duty as a conveyance on sale or mortgage) made on the sale or mortgage of any Property subject to duty, and relating solely to the conveyance or enjoyment of, or the title to, the property sold or
+COVENANT. Any separate deed of covenant (not being an instrument chargeable with ad valorem duty as a conveyance on sale or mortgage) made on the sale or mortgage of any Property subject to duty, and relating solely to the conveyance or enjoyment of, or the title to, the property sold or mortgaged, or to the production of the muniments of title relating thereto, or to all or any of the matters aforesaid.
 
-mortgaged, or to the production of the muniments of title relating thereto, or to all or any of the matters aforesaid. Where the ad valorem duty in respect of the consideration or mortgage money does not exceed 50 pence. A duty equal to the amount of such ad valorem duty. In any other case £5
+Where the ad valorem duty in respect of the consideration or mortgage money does not exceed 50 pence. A duty equal to the amount of such ad valorem duty. In any other case £5
 
 DEBENTURE for securing on any Property subject to duty the payment or repayment of money or the transfer or retransfer of stock.
 
@@ -104,9 +116,7 @@ EQUITABLE MORTGAGE of Property subject to duty.
 
 See MORTGAGE, ETC., and section 30.
 
-EXCHANGE – Instrument effecting over or concerning
-
-Property subject to duty.
+EXCHANGE – Instrument effecting over or concerning Property subject to duty.
 
 See section 30.
 
@@ -126,9 +136,7 @@ And see sections 32 - 34.
 
 LIMITED PARTNERSHIP DUTY Statement of amount contributed by a limited partner, and a statement of any increase in that amount, as the case may be, sent to the Registrar under section 7 or 8 of the Limited Partnership Act–
 
-£10
-
-MORTGAGE, BOND, DEBENTURE and COVENANT of Property subject to duty.
+£10 MORTGAGE, BOND, DEBENTURE and COVENANT of Property subject to duty.
 
 (1) Being the only or principal or primary security (other than an equitable mortgage) for the payment or repayment of money–
 
@@ -156,7 +164,9 @@ For every £100, and also for any fractional part of £100, of the total amount 
 
 PARTITION or DIVISION –Instrument effecting over or concerning Property subject to duty. See section 31.
 
-RECONVEYANCE, RELEASE or RENUNCIATION of any security of Property subject to duty.
+RECONVEYANCE, RELEASE or RENUNCIATION of any
+
+security of Property subject to duty.
 
 See MORTGAGE, ETC.
 
@@ -174,7 +184,9 @@ See RECONVEYANCE AND RELEASE.
 
 SURRENDER of any kind whatsoever of Property subject to duty not chargeable with duty as a conveyance or a mortgage
 
-£5 TACK IN SECURITY of Property subject to duty.
+£5
+
+TACK IN SECURITY of Property subject to duty.
 
 See MORTGAGE ETC.
 
