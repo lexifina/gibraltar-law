@@ -10,11 +10,17 @@ Act. No. 2009-42 Commencement (LN. 2009/069) 26.11.2009
 
 Assent 5.11.2009
 
-Transposing: Directive 2005/36/EC
+Amending enactments Relevant current provisions Commencement date
 
-___________________________________
+LN. 2013/138 ss. 25(6), (6)(a), (b), (c), 47A, 54(2)(ca), Schs. 2, 3 & 6
 
-ARRANGEMENT OF SECTIONS
+1.7.2013
+
+Transposing: Directive 2005/36/EC Directive 2013/25/EU
+
+Qualifications (Right to Practise)
+
+2009-42 ARRANGEMENT OF SECTIONS
 
 Section.
 
@@ -36,11 +42,11 @@ PART III
 
 FREEDOM OF ESTABLISHMENT
 
+13. Scope. 14. Levels of qualification. 15. Equal treatment of qualifications. 16. Conditions for recognition. 17. Compensation measures. 18. Waiving of compensation measures on the basis of common platforms. 19. Requirements regarding professional experience. 20. Activities referred to in list I of Schedule 5. 21. Activities referred to in list II of Schedule 5. 22. Activities referred to in list III of Schedule 5. 23. Principle of automatic recognition. 24. Common provisions on training. 25. Acquired rights. 26. Specific circumstances.
+
 Qualifications (Right to Practise)
 
 2009-42
-
-13. Scope. 14. Levels of qualification. 15. Equal treatment of qualifications. 16. Conditions for recognition. 17. Compensation measures. 18. Waiving of compensation measures on the basis of common platforms. 19. Requirements regarding professional experience. 20. Activities referred to in list I of Schedule 5. 21. Activities referred to in list II of Schedule 5. 22. Activities referred to in list III of Schedule 5. 23. Principle of automatic recognition. 24. Common provisions on training. 25. Acquired rights. 26. Specific circumstances.
 
 Medical Practice
 
@@ -60,17 +66,17 @@ Veterinary surgeons
 
 Midwives
 
-Qualifications (Right to Practise)
-
-2009-42
-
-44. The training of midwives. 45. Procedures for the recognition of evidence of formal qualifications as a midwife. 46. Pursuit of the professional activities of a midwife. 47. Acquired rights specific to midwives. 48. Acquired rights for Romanian midwives.
+44. The training of midwives. 45. Procedures for the recognition of evidence of formal qualifications as a midwife. 46. Pursuit of the professional activities of a midwife. 47. Acquired rights specific to midwives. 47A. Acquired rights excluded for Croatian midwives. 48. Acquired rights for Romanian midwives.
 
 Pharmacists
 
 49. Training as a pharmacist. 50. Pursuit of the professional activities of a pharmacist.
 
 Architects
+
+Qualifications (Right to Practise)
+
+2009-42
 
 51. Training of architects. 52. Exceptions from the conditions for the training of architects. 53. Pursuit of the professional activities of architects. 54. Acquired rights specific to architects.
 
@@ -94,17 +100,17 @@ PART VI
 
 FINAL PROVISIONS
 
-62. Reports. 63. Transitional provision and continuity of the law. 64. Regulations. 65. Guidelines.
-
-Qualifications (Right to Practise)
-
-2009-42 66. Offences. 67. Schedules. 68. Revocation.
+62. Reports. 63. Transitional provision and continuity of the law. 64. Regulations. 65. Guidelines. 66. Offences. 67. Schedules. 68. Revocation.
 
 SCHEDULES
 
 SCHEDULE 1 List of professional associations or organisations fulfilling the conditions of Section 3(2)
 
 SCHEDULE 2 List of courses having a special structure referred to in section 14 point (c) subparagraph (ii)
+
+Qualifications (Right to Practise)
+
+2009-42
 
 SCHEDULE 3 Recognition on the basis of coordination of the minimum training conditions
 
