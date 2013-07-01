@@ -2,9 +2,7 @@ Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
 
 2005-26
 
-Subsidiary 2008/076
-
-Subsidiary Legislation made under s. 57 and 101.
+Subsidiary 2008/076 Subsidiary Legislation made under s. 57 and 101.
 
 TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
 
@@ -12,11 +10,13 @@ TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
 
 Commencement 25.9.2008*
 
-_________________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2013/194 Sch. 2 1.7.2013
 
 Transposing:
 
-Directive 2003/59/EC
+Directive 2003/59/EC Directive 2013/22/EU
 
 * See regulation 1(2)(b) for commencement application regards the initial qualification required to drive vehicles in licence categories C1, C1+E, C and C+E.
 

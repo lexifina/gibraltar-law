@@ -16,13 +16,13 @@ Side 1 contains:
 
 (c) the distinguishing sign of the Member State issuing the card, printed in negative in a blue rectangle and encircled by 12 yellow stars; the distinguishing signs are as follows
 
-B : Belgium BG : Bulgaria CZ : The Czech Republic DK : Denmark D : Germany EST : Estonia GR : Greece E : Spain F : France IRL : Ireland I : Italy CY : Cyprus LV : Latvia LT : Lithuania
+B : Belgium BG : Bulgaria CZ : The Czech Republic DK : Denmark D : Germany EST : Estonia GR : Greece E : Spain F : France HR : Croatia IRL : Ireland I : Italy CY : Cyprus LV : Latvia
 
 Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
 
 2005-26
 
-Subsidiary 2008/076 L : Luxembourg H : Hungary M : Malta NL : The Netherlands A : Austria PL : Poland P : Portugal RO : Romania SLO : Slovenia SK : Slovakia FIN : Finland S : Sweden UK                      : The United Kingdom (also being the distinguishing sign for the purposes of cards issued by Gibraltar given that the United Kingdom is the Member State responsible for Gibraltar’s external affairs);
+Subsidiary 2008/076 LT : Lithuania L : Luxembourg H : Hungary M : Malta NL : The Netherlands A : Austria PL : Poland P : Portugal RO : Romania SLO : Slovenia SK : Slovakia FIN : Finland S : Sweden UK                      : The United Kingdom (also being the distinguishing sign for the purposes of cards issued by Gibraltar given that the United Kingdom is the Member State responsible for Gibraltar’s external affairs);
 
 (d) information specific to the card, numbered as follows
 
@@ -44,13 +44,13 @@ Subsidiary 2008/076 L : Luxembourg H : Hungary M : Malta NL : The Netherlands A 
 
 6. photograph of the holder;
 
-7. signature of the holder;
-
 Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
 
 2005-26
 
 Subsidiary 2008/076
+
+7. signature of the holder;
 
 8. normal place of residence, or postal address of the holder (optional);
 
@@ -74,7 +74,7 @@ juhi ametipädevuse kaart
 
 driver qualification card
 
-carte de qualification de conducteur
+carte de qualification de conducteur kvalifikacijska kartica vozača
 
 cárta cáilíochta tiomána
 
@@ -108,13 +108,13 @@ yrkeskompetensbevis för förare;
 
 - blue : Pantone Reflex blue, - yellow : Pantone yellow;
 
-Side 2 contains:
-
 Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
 
 2005-26
 
 Subsidiary 2008/076
+
+Side 2 contains:
 
 (a) 9. the (sub)categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
 
