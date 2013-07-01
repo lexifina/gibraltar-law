@@ -4,7 +4,7 @@ Part I Section 35A(1) EEA Lawyer
 
 Lawyers listed in Article 1 of Directive 77/249/EEC
 
-EEA State Description of EEA lawyer Austria: Rechtsanwalt Belgium: Avocat - Advocaat Bulgaria: Aдвокат Cyprus: Δικηγόρος Czech Republic: Advokát Denmark: Advokat Estonia: Vandeadvokaat Finland: AsianajajaAdvokat France: Avocat Germany: Rechtsanwalt Greece: Δικηγόρος Hungary: Ügyvéd Ireland: Barrister /Solicitor Italy: Avvocato Latvia: Zvērināts advokāts Lithuania: Advokatas Luxembourg: Avocat-avoué Netherlands: Advocaat Advocate Malta: Avukat/Prokuratur Legali Poland: Adwokat/Radca prawny Portugal: Advogado Romania: Avocat Spain: Abogado Slovakia: Advokát/Komerčný právnik Slovenia: Odvetnik/Odvetnica Sweden: Advokat United Kingdom: Barrister/ Solicitor;
+EEA State Description of EEA lawyer Austria: Rechtsanwalt Belgium: Avocat - Advocaat Bulgaria: Aдвокат Croatia: Odvjetnik/Odvjetnica Cyprus: Δικηγόρος Czech Republic: Advokát Denmark: Advokat Estonia: Vandeadvokaat Finland: AsianajajaAdvokat France: Avocat Germany: Rechtsanwalt Greece: Δικηγόρος Hungary: Ügyvéd Ireland: Barrister /Solicitor Italy: Avvocato Latvia: Zvērināts advokāts Lithuania: Advokatas Luxembourg: Avocat-avoué Netherlands: Advocaat Advocate Malta: Avukat/Prokuratur Legali Poland: Adwokat/Radca prawny Portugal: Advogado Romania: Avocat Spain: Abogado Slovakia: Advokát/Komerčný právnik Slovenia: Odvetnik/Odvetnica Sweden: Advokat United Kingdom: Barrister/ Solicitor;
 
 PART II
 
@@ -24,11 +24,11 @@ Lawyers listed in Article 1 Directive 98/5/EC
 
 State Professional title(s)
 
-Austria Rechtsanwalt Belgium Avocat/Advocaat/Rechtsanwalt Bulgaria Aдвокат Cyprus ∆ικηγόρος Czech Republic Advokát Denmark Advokat Estonia Vandeadvokaat Finland Asianajaja/Advokat France Avocat Germany Rechtsanwalt Greece Δικηγόρος Hungary Ügyvéd Ireland Barrister/Solicitor Italy Avvocato Latvia Zvērināts advokāts
+Austria Rechtsanwalt Belgium Avocat/Advocaat/Rechtsanwalt Bulgaria Aдвокат Croatia Odvjetnik/Odvjetnica Cyprus ∆ικηγόρος Czech Republic Advokát Denmark Advokat Estonia Vandeadvokaat Finland Asianajaja/Advokat France Avocat Germany Rechtsanwalt Greece Δικηγόρος Hungary Ügyvéd Ireland Barrister/Solicitor Italy Avvocato
 
 Supreme Court
 
-1960-02 Lithuania Advokatas Luxembourg Avocat Malta Avukat/Prokuratur Legali Netherlands Advocaat Romania Avocat Poland Adwokat/ Radca prawny Portugal Advogado Slovenia Odvetnik/Odvetnica Slovakia Advokát/Komerčný právnik Sweden Advokat Spain Abogado/Advocat/Avogado/Abokatu United Kingdom Advocate/Barrister/Solicitor
+1960-02 Latvia Zvērināts advokāts Lithuania Advokatas Luxembourg Avocat Malta Avukat/Prokuratur Legali Netherlands Advocaat Romania Avocat Poland Adwokat/ Radca prawny Portugal Advogado Slovenia Odvetnik/Odvetnica Slovakia Advokát/Komerčný právnik Sweden Advokat Spain Abogado/Advocat/Avogado/Abokatu United Kingdom Advocate/Barrister/Solicitor
 
 Supreme Court
 
