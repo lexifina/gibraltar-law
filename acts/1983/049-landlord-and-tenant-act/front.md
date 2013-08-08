@@ -1,40 +1,28 @@
-Landlord and Tenant
-
-1983-49
-
-LANDLORD AND TENANT ACT
+Landlord and Tenant Act
 
 Principal Act
 
-Act. No. 1983-49 Commencement date of the Act other than the provisions listed below
+Act. No. 1983-49 Commencement (All Except -  Part IV, ss.75- 76, Sch.3, Sch.4 para 5, Sch.5)
 
-1.7.1985
+1.7.19851
 
-Part IV, ss.75 and 76, Sch. 3, para 5 of Sch. 4 and Sch. 5
-
-1.1.19861
+Part IV, ss.75-76, Sch.3, Sch.4 para 5, Sch.5 1.1.19862
 
 Assent 19.12.1983
 
 Amending enactments Relevant current provisions Commencement date
 
-Acts. 1985-11 ss. 16, 22(1) and (4), 23(6)(a), 26(4)(b), 29(3), 30(1), 80A, 81(b) and 82(1), Sch. 2
+Act. 1985-11 ss. 16, 22(1), (4), 23(6)(a), 26(4)(b), 29(3), 30(1), 80A, 81(b), 82(1), Sch.2
 
-1.7.1985 1985-17 ss.1(2), 22 and 83 1.7.1985 1985-27 ss.62(3), 69 and Sch.5 1.1.1986 1987-22 s.33(9) 29.10.1987 1988-38 ss. 4A and 79A 15.12.1988 1989-29 ss.3(1)(b) and (c), 22, 35, 36A and 69(2A)
+1.7.1985 1985-17 ss. 1(2), 22, 83 1.7.1985 1985-27 ss. 62(3), 69, Sch.5 1.1.1986 1987-22 s. 33(9) 29.10.1987 1988-38 ss. 4A, 79A 15.12.1988 1989-29 ss. 3(1)(b)-(c), 22, 35, 36A, 69(2A) 10.8.1989 1990-32 ss. 5 and 22(3) 1.11.1990 1991-37 ss. 2(1), 3(1)(a), (b)(i), (iii), (c), (2)-(4), 5(1)-(2), 6(2), 18(3)(a)(ii), (11), 23(3), (6), 25(2), 27(2), (4)(c), 28, 29(3)-(4), 32(2), 33(6), 38(3)-(4), 42, 81(f)-(g), Schs.1, 6-7
 
-10.8.1989 1990-32 ss.5 and 22(3) 1.11.1990 1991-37 ss.2(1), 3(1)(a), (b)(i) and (iii) and (c), (2), (3) and (4), 5(1) and (2), 6(2), 18(3)(a)(ii) and (11), 23(3) and (6), 25(2), 27(2) and (4)(c), 28, 29(3) and (4), 32(2), 33(6), 38(3) and (4), 42, 81(f) and (g), Sch.1, Sch. 6 and Sch. 7
+2.4.19923
 
-2.4.19922
+“ ss. 10(1)(a)-(c), (2), (7), 11A, 22, 80A(1) 1.7.19924 2004-09 ss. 10(1)(a) and 15(1) 6.4.2004 2007-17 s. 79A 14.6.2007 2007-36 ss. 10-36A 1.6.20085 2013-17 ss. 10, 11A 8.8.20136
 
-“ ss.10(1)(a), (b) and (c), (2) and (7), 11A, 22 and 80A(1)
+1 Notice of Commencement LN. 1985/073 2 Notice of Commencement LN. 1985/124 3 Notice of Commencement LN. 1992/047 4 Notice of Commencement LN. 1992/081 5 Notice of Commencement LN. 2008/012 see saving provisions in Part III (repealed) of this Act 6 Sections 10 and 11A of the Landlord and Tenant Act shall, for the purposes of dwelling houses erected after the 1st day of January 1945 and on or before the 1st day of March 1959, cease to apply on the commencement of this Act.
 
-1.7.19923 2004-09 ss. 10(1)(a) and 15(1) 6.4.2004 2007-17 s. 79A 14.6.2007 2007-36 ss. 10 - 36A 1.6.2008*
-
-1 Notice of Commencement LN. 1985/124 2 Notice of Commencement LN. 1992/047 3 Notice of Commencement LN. 1992/081 * Notice of Commencement LN. 2008/012 see saving provisions in Part III (repealed) of this Act.
-
-Landlord and Tenant
-
-1983-49 ARRANGEMENT OF SECTIONS
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -54,11 +42,9 @@ PART III. Repealed
 
 PART IV. BUSINESS PREMISES.
 
-37. Meaning of “landlord” in Part IV. 38. Tenancies to which Part IV applies. 39. Register of tenancies of business premises. 40. Production of register. 41. Rent Assessor may require information. 42. Offences relating to register. 43. Continuation of tenancies to which Part IV applies and grant of new tenancies. 44. Termination of tenancy by landlord. 45. Tenant’s request for a new tenancy 46. Termination by tenant of tenancy for fixed term. 47. Renewal of tenancies by agreement. 48. Order by court for grant of a new tenancy. 49. Opposition by landlord to grant of new tenancy. 50. Dismissal of application for new tenancy. 51. Property to be comprised in new tenancy. 52. Duration of new tenancy.
+37. Meaning of “landlord” in Part IV. 38. Tenancies to which Part IV applies. 39. Register of tenancies of business premises. 40. Production of register. 41. Rent Assessor may require information. 42. Offences relating to register. 43. Continuation of tenancies to which Part IV applies and grant of new tenancies. 44. Termination of tenancy by landlord. 45. Tenant’s request for a new tenancy 46. Termination by tenant of tenancy for fixed term. 47. Renewal of tenancies by agreement. 48. Order by court for grant of a new tenancy. 49. Opposition by landlord to grant of new tenancy. 50. Dismissal of application for new tenancy.
 
-Landlord and Tenant
-
-1983-49 53. Rent under new tenancy. 54. Other terms of new tenancy. 55. Carrying out of order for new tenancy. 56. Compensation where order for new tenancy precluded on certain grounds. 57. Extension of time. 58. Restriction on agreements excluding provisions of Part IV. 59. Compulsory acquisitions. 60. Duty of tenants and landlords of business premises to give information to each other. 61. Trusts. 62. Groups of companies. 63. Tenancies excluded from Part IV. 64. Modification of rights on grounds of public interest. 65. Termination on special grounds. 66. Termination where redevelopment required in the public interest. 67. Compensation for exercise of powers under sections 65 and 66. 68. Special provisions relating to the Ministry of Defence. 69. Assignments.
+51. Property to be comprised in new tenancy. 52. Duration of new tenancy. 53. Rent under new tenancy. 54. Other terms of new tenancy. 55. Carrying out of order for new tenancy. 56. Compensation where order for new tenancy precluded on certain grounds. 57. Extension of time. 58. Restriction on agreements excluding provisions of Part IV. 59. Compulsory acquisitions. 60. Duty of tenants and landlords of business premises to give information to each other. 61. Trusts. 62. Groups of companies. 63. Tenancies excluded from Part IV. 64. Modification of rights on grounds of public interest. 65. Termination on special grounds. 66. Termination where redevelopment required in the public interest. 67. Compensation for exercise of powers under sections 65 and 66. 68. Special provisions relating to the Ministry of Defence. 69. Assignments.
 
 PART V. GENERAL PROVISIONS.
 
@@ -68,9 +54,7 @@ SCHEDULE 1. Statutory Rent for Dwellinghouses.
 
 SCHEDULE 2. Possession of ejectment without proof of alternative accommodation.
 
-Landlord and Tenant
-
-1983-49 SCHEDULE 3. Provisions for the purpose of Part IV where the immediate landlord is not the owner of the fee simple.
+SCHEDULE 3. Provisions for the purpose of Part IV where the immediate landlord is not the owner of the fee simple.
 
 SCHEDULE 4. Transitional provisions.
 
@@ -79,5 +63,3 @@ SCHEDULE 5. Recovery of business premises.
 SCHEDULE 6. Tenant's liability to repairs
 
 SCHEDULE 7. Furniture to be provided if property is let furnished
-
-Landlord and Tenant

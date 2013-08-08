@@ -20,11 +20,7 @@ POWER OF COURT TO ORDER REVERSIONARY TENANCIES.
 
 ACTS OF COMPETENT LANDLORD BINDING ON OTHER LANDLORDS.
 
-3. (1) Any notice given by the competent landlord under Part IV to terminate the relevant tenancy, and any agreement made between that landlord and the tenant, as to the granting, duration, or terms of a future tenancy, being an agreement made for the purposes of Part IV, shall bind the interest of any
-
-Landlord and Tenant
-
-1983-49 mesne landlord notwithstanding that he has not consented to the giving of the notice or was not a party to the agreement.
+3. (1) Any notice given by the competent landlord under Part IV to terminate the relevant tenancy, and any agreement made between that landlord and the tenant, as to the granting, duration, or terms of a future tenancy, being an agreement made for the purposes of Part IV, shall bind the interest of any mesne landlord notwithstanding that he has not consented to the giving of the notice or was not a party to the agreement.
 
 (2) The competent landlord shall have power for the purposes of Part IV to give effect to any agreement with the tenant for the grant of a new tenancy beginning with the coming to an end of the relevant tenancy notwithstanding that the competent landlord will not be the immediate landlord at the commencement of the new tenancy, and any instrument made in the exercise of the power conferred by this sub-paragraph shall have effect as if the mesne landlord had been a party thereto.
 
@@ -46,12 +42,4 @@ CONSENT OF SUPERIOR LANDLORD REQUIRED FOR AGREEMENTS AFFECTING HIS INTEREST.
 
 (b)  the agreement would apart from this paragraph operate as respects any period after the coming to an end of the interest of the competent landlord,
 
-Landlord and Tenant
-
-1983-49
-
 shall not have effect unless every superior landlord who will be the immediate landlord of the tenant during any part of that period is a party to the agreement.
-
-Landlord and Tenant
-
-1983-49

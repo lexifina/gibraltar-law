@@ -40,9 +40,7 @@ FURNITURE TO BE PROVIDED IF PROPERTY IS LET FURNISHED
 
 (5) One sink unit.
 
-Landlord and Tenant
-
-1983-49 (6) One kitchen cupboard.
+(6) One kitchen cupboard.
 
 (7) One washing machine.
 

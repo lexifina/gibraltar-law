@@ -22,9 +22,7 @@ the Rent Tribunal may make any order in respect of the dwellinghouse that it cou
 
 Business Premises.
 
-Landlord and Tenant
-
-1983-49 5. Where on or after the 7th day of July, 1981, but before the commencement of this Act–
+5. Where on or after the 7th day of July, 1981, but before the commencement of this Act–
 
 (a)  a landlord has given a notice under section 38 of the former Act to determine a tenancy; or
 
@@ -45,7 +43,3 @@ General.
 the court, Tribunal or authority before whom it was brought shall notwithstanding section 83 of this Act, continue to have jurisdiction to hear and determine it in accordance with the. provisions of this Act.
 
 7. If it appears to the Governor to be desirable to do so, he may for such period as he may specify appoint, in addition to the Rent Assessor provided for in section 5, one or more other fit and proper persons to be Rent Assessors; and every additional Rent Assessor so appointed shall, during the term of his appointment and thereafter until he has disposed of all matters referred to him during that term, have all the functions, powers and duties of the Rent Assessor appointed under section 5.
-
-Landlord and Tenant
-
-1983-49
