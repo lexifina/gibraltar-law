@@ -10,7 +10,7 @@ MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 
 Commencement 12.4.2011
 
-Amending enactments Relevant current provisions Commencement date LN.   2013/102 Corrigendum
+Amending enactments Relevant current provisions Commencement date LN.   2013/102 Corrigendum 2013/120 r. 2(1) 20.8.2013
 
 Transposing: Directive 96/40/EC Directive 2009/16/EC
 
