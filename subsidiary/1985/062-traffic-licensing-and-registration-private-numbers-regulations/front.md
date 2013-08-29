@@ -12,7 +12,7 @@ TRAFFIC (LICENSING AND REGISTRATION) (PERSONALISED NUMBERS) REGULATIONS, 1985
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  1997/096 rr. 2, 4 and 6(1), (2), (4). 2.10.1997 2003/085 r. 1. 14.8.2003 2005/052 rr.5(1), (5) and 6(2) 1.4.2005
+LN.  1997/096 rr. 2, 4 and 6(1), (2), (4). 2.10.1997 2003/085 r. 1. 14.8.2003 2005/052 rr.5(1), (5) and 6(2) 1.4.2005 2013/125 r. 3(c) 29.8.2013
 
 _____________________________
 
