@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Act.   2011-18
 
 14.7.2011 LN. 2012/034 ss. 31A, 59, 59A, 60(3), 60A & 61A 19.3.2012 “ ss. 2, 27, 29(1), (1A), (1B), 31, 31B, 32, 32A, 37, 60A-60D
 
-19.1.2013 2013/006 s. 43(1) 19.1.2013
+19.1.2013 2013/006 s. 43(1) 19.1.2013 Act.  2013-20 s. 34(3) & (3A) 1.9.2013
 
 Transposing: Directive 2006/126/EC
 
