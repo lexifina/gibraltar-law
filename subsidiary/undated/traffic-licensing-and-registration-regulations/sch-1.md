@@ -588,7 +588,7 @@ Dated this day of
 
 LIST OF CATEGORIES
 
-“A” Motor Cycles, Invalid Carriages, Three wheeled motor vehicles.
+Invalid Carriages.
 
 “B” Motor Vehicles having at most eight passenger seats, Goods Vehicles having a laden weight not exceeding 3500kg.
 
@@ -608,7 +608,77 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] FORM 22.
+Subsidiary [1958.03.06] FORM 21A Regulation 84A
+
+APPLICATION FOR A LEARNER’S LICENCE.
+
+TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
+
+I (Surname) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Forenames) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Address) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . apply for a learner’ s licence, to drive motor vehicle of category . . . .
+
+I have completed the Compulsory Basic Training Course and have been awarded CBT certificate number …………………………..
+
+1. Date and place of birth . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2. Are you disqualified by a court from holding or obtaining a driving licence? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3. Can you read at a distance of 23 metres (with glasses or contact lenses if worn) a motor car number plate? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4. Have you ever suffered from any mental or physical disability or from sudden attacks of disabling giddiness or fainting or from any other disability which is likely to interfere with the efficient discharge of your responsibilities as a driver? . . . . . . . . . . . .
+
+I DECLARE THAT to the best of my knowledge and belief the answers given above are true and I understand that (subject to statutory exceptions) it is an offence to use a motor vehicle on a road unless it is covered by an insurance against third party risks.
+
+Dated this day of
+
+, Signature . . . . . . . . . . . . . .
+
+LIST OF CATEGORIES
+
+AM, A1, A2, A
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] FORM 21B Regulation 84B
+
+APPLICATION FOR A LEARNER’S LICENCE
+
+TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
+
+I (Surname) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(Forenames) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(Address) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+apply for a learner’s licence / apply for a renewal of a learner’ s licence, to drive motor vehicle of category . ………………….....
+
+1.  Date and place of birth . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2.  Are you disqualified by a court from holding or obtaining a driving licence? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3.  Can you read at a distance of 23 metres (with glasses or contact lenses if worn) a motor car number plate? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4.  Have you ever suffered from any mental or physical disability or from sudden attacks of disabling giddiness or fainting or from any other disability which is likely to interfere with the efficient discharge of your responsibilities as a driver? . . . . . . . . . . . .
+
+I DECLARE THAT to the best of my knowledge and belief the answers given above are true and I understand that (subject to statutory exceptions) it is an offence to use a motor vehicle on a road unless it is covered by an insurance against third party risks.
+
+Dated this day of
+
+, Signature . . . . . . . . . . . . . .
+
+LIST OF CATEGORIES
+
+AM, A1, A2, A
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
+
+FORM 22.
 
 Regulation 84(2).
 
@@ -616,7 +686,7 @@ LEARNER’S LICENCE.
 
 TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
 
-Mr. . . . . . . . . . . . . . . . . of . . . . . . . . . . . . . . . .is hereby licensed to learn to drive a . . . . . . . . . . . . . . . . in Gibraltar for a period of three months from . . . . . . . . . . . . . . . . to . . . . . . . . . . . . . . . . inclusive, subject to the conditions and restrictions prescribed under the Traffic Act.
+. . . . . . . . . . . . . . . . . of . . . . . . . . . . . . . . . .is hereby licensed to learn to drive a . . . . . . . . . . . . . . . . in Gibraltar for a period from. . . . . . . . . . . . . . . . to . . . . . . . . . . . . . . . . inclusive, subject to the conditions and restrictions prescribed under the Traffic Act.
 
 Dated . . . . . . . . . . . . . . . .
 
@@ -626,7 +696,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] FORM 23
+Subsidiary [1958.03.06]
+
+FORM 23
 
 Regulation 93(1)
 
