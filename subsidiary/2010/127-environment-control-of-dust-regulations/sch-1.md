@@ -34,12 +34,6 @@ Tel. No:
 
 1 2
 
-Environment ENVIRONMENT (CONTROL OF DUST) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/127
-
 6.  State the address or name of site in respect of which this application is made.
 
 This application must be submitted together with a Dust Control Plan as required by Regulation 4 of the Dust Control Regulations 2010 to:
@@ -49,9 +43,3 @@ Chief Environmental Health Officer
 37 Town Range
 
 Gibraltar
-
-Environment ENVIRONMENT (CONTROL OF DUST) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/127
