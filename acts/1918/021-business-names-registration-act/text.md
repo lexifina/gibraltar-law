@@ -16,7 +16,7 @@ Amending enactments Relevant current provisions Commencement date Acts. 1918-27 
 
 15.11.1990 1999-34 ss. 2(1), (3), 2A(1), (2), 3(a), (b), 5(1)(d), (e), (g), (h), 8, 9, 11, 12(1), 13(1), (2), 14, 14A, 15(1), 16(1), (3), (4), 19(1), (2), 20(1)(a), (b), (2), (3), (4), Sch
 
-1.1.2000
+1.1.2000 2013-18 s. 2 19.9.2013
 
 Delegation to the Registrar of the powers of the Governor under ss.8 and 12 by notice of 6 May 1958 appears under the title Interpretation and General Clauses.
 
@@ -66,7 +66,7 @@ in connection with or for the purpose of promoting in any way any trade, busines
 
 “initials” include any recognised abbreviation of a fore name;
 
-“Minister” means the Minister with responsibility for Trade and Industry;
+“Minister” means the Minister with responsibility for finance;
 
 “Registrar” means the Registrar of Business Names appointed by section 2A;
 
