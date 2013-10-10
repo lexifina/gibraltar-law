@@ -36,11 +36,9 @@ OTHER OFFENCES FOR THE PURPOSES OF PART 13
 
 16.  An offence under section 66 of the Criminal Offences Act or section 157 (Threats to kill).
 
-17.  An offence under section 69 of the Criminal Offences Act or section 160 (Infanticide).
-
 Crimes
 
-2011-23
+2011-23 17.  An offence under section 69 of the Criminal Offences Act or section 160 (Infanticide).
 
 18.  An offence under section 70 of the Criminal Offences Act or section 161 (Child destruction).
 
@@ -72,11 +70,11 @@ Crimes
 
 32.  An offence under section 92 of the Criminal Offences Act or section 178 (Assault to prevent arrest).
 
-33.  An offence under section 94 of the Criminal Offences Act or section 176 (Assault occasioning actual bodily harm).
-
 Crimes
 
-2011-23 34.  An offence under section 183 (Causing or allowing the death of a child or vulnerable adult).
+2011-23 33.  An offence under section 94 of the Criminal Offences Act or section 176 (Assault occasioning actual bodily harm).
+
+34.  An offence under section 183 (Causing or allowing the death of a child or vulnerable adult).
 
 35.  An offence under section 23 of the Firearms Act (Possessing firearm with intent to injure).
 
@@ -98,7 +96,7 @@ Crimes
 
 44.  An offence under section 159(3) of the Criminal Offences Act or section 355 (Arson).
 
-45.  An offence under section 24 of the Terrorism Act 2005 (Hostage-taking).
+45.  An offence under section 24 of the Terrorism Act 2005 (Hostage- taking).
 
 46.  An offence under section 2 of the Maritime Security Act (Hijacking of ships).
 
@@ -106,11 +104,13 @@ Crimes
 
 48.  An offence under section 4 of the Maritime Security Act (Destroying ships or fixed platforms or endangering their safety).
 
-49.  An offence under section 5 of the Maritime Security Act (Other acts endangering or likely to endanger safe navigation).
-
 Crimes
 
-2011-23 50.  An offence under section 6 of the Maritime Security Act (Offences involving threats).
+2011-23
+
+49.  An offence under section 5 of the Maritime Security Act (Other acts endangering or likely to endanger safe navigation).
+
+50.  An offence under section 6 of the Maritime Security Act (Offences involving threats).
 
 51.  An offence under section 64 of the Mental Health Act (Ill-treatment of patients).
 

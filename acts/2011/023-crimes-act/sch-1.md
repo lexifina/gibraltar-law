@@ -138,7 +138,9 @@ Automatic forfeiture if no claim is made.
 
 Crimes
 
-2011-23 (a) no such notice has been given in relation to it or any part of it; or
+2011-23
+
+(a) no such notice has been given in relation to it or any part of it; or
 
 (b) the requirements of paragraphs 5 and 6 have not been complied with in relation to the only notice or notices of claim that have been given.
 
@@ -166,11 +168,9 @@ Return of property if no forfeiture proceedings.
 
 Forfeiture proceedings.
 
-10.(1)  This paragraph applies if, in a case in which a notice of claim has been given, the relevant officer decides to take proceedings for condemnation of the property or a part of it (“the relevant property”).
-
 Crimes
 
-2011-23
+2011-23 10.(1)  This paragraph applies if, in a case in which a notice of claim has been given, the relevant officer decides to take proceedings for condemnation of the property or a part of it (“the relevant property”).
 
 (2)  Subject to subparagraphs (5) and (7), the court must condemn the relevant property if it is satisfied that
 
@@ -200,11 +200,9 @@ the court must order the return of the relevant property to that person or, as t
 
 (a) a person who has given a notice of claim has a legitimate reason for possessing part of the relevant property; and
 
-(b) although the part is not a separable part within the meaning given by subparagraph (6), it can be separated from the remainder of the relevant property,
-
 Crimes
 
-2011-23
+2011-23 (b) although the part is not a separable part within the meaning given by subparagraph (6), it can be separated from the remainder of the relevant property,
 
 the court may order the return of that part to that person.
 
@@ -234,11 +232,11 @@ Magistrates’ Court.
 
 Appeals.
 
-13.(1)  Either party may appeal against the decision of the Magistrates’ Court to the Supreme Court.
-
 Crimes
 
-2011-23 (2)  This paragraph does not affect any right to require the statement of a case for the opinion of the Supreme Court.
+2011-23 13.(1)  Either party may appeal against the decision of the Magistrates’ Court to the Supreme Court.
+
+(2)  This paragraph does not affect any right to require the statement of a case for the opinion of the Supreme Court.
 
 (3)  If an appeal has been made (whether by case stated or otherwise) against the decision of the Magistrates’ Court in proceedings by virtue of this Schedule in relation to property, the property is to be left in the custody of a police officer pending the final determination of the matter.
 
@@ -264,13 +262,11 @@ Provisions as to proof.
 
 16.(1)  In proceedings under this Schedule, the fact, form and manner of the seizure are to be taken, without further evidence and unless the contrary is shown, to have been as set forth in the process.
 
-(2)  In proceedings, the condemnation by a court of property as forfeited under this Schedule may be proved by the production of either
-
-(a) the order of condemnation; or
-
 Crimes
 
-2011-23
+2011-23 (2)  In proceedings, the condemnation by a court of property as forfeited under this Schedule may be proved by the production of either
+
+(a) the order of condemnation; or
 
 (b) a certified copy of the order purporting to be signed by an officer of the court by which the order was made or granted.
 
@@ -304,11 +300,13 @@ Interpretation.
 
 (c) the photograph shows C alone or with P, but does not show any other person;
 
-(d) C has consented to the photograph being in P’s possession (and that consent has not been withdrawn); and
-
 Crimes
 
-2011-23 (e) P owns the photograph, or is authorised (directly or indirectly) by the owner to possess it.
+2011-23
+
+(d) C has consented to the photograph being in P’s possession (and that consent has not been withdrawn); and
+
+(e) P owns the photograph, or is authorised (directly or indirectly) by the owner to possess it.
 
 Crimes
 

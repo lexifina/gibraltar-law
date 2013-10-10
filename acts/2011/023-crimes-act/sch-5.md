@@ -16,11 +16,11 @@ Acetorphine Lysergamide Alfentanil Lysergide and other N-alkyl derivatives of ly
 
 Crimes
 
-2011-23 Cocaine Oxymorphone Desomorphine Pethidine Dextromoramide Phenadoxone Diamorphine Phenampromide Diampromide Phenazocine Diethylthiambutene Phencyclidine Difenoxin (1-(3-cyano-3,3- diphenylpropyl) -4- phenylpiperidine-4-carboxylic acid) Phenomorphan Dihydrocodeinone O- carboxymethyloxime Phenoperidine Dihydroetorphine Piminodine Dihydromorphine Piritramide Dimenoxadole Poppy-straw and concentrate of poppy-straw Dimepheptanol Proheptazine Dimethylthiambutene Properidine (1-methyl-4-phenyl- piperidine-4-carboxylic acid isopropyl ester) Dioxaphetyl butyrate Psilocin Diphenoxylate Racemethorphan Dipipanone Racemoramide (Drotebanol (3,4-dimethoxy- 17-methylmorphinan-6 beta, 14-diol) Racemorphan Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine Remifentanil Ethylmethylthiambutene Rolicyclidine Eticyclidine Sufentanil Etonitazene Tenocylidine Etorphine Thebacon Etoxeridine Thebaine Etryptamine Tilidate Fentanyl Trimeperidine Furethidine 4-Bromo-2,5-dimethoxy-alpha- methylphenethylamine Hydrocodone 4-Cyano-2-dimethylamino-4, 4- diphenylbutane Hydromorphinol 4-Cyano-1-methyl-4-phenyl- piperidine Hydromorphone N,N-Diethyltryptamine Hydroxypethidine N,N-Dimethyltryptamine
+2011-23 Cocaine Oxymorphone Desomorphine Pethidine Dextromoramide Phenadoxone Diamorphine Phenampromide Diampromide Phenazocine Diethylthiambutene Phencyclidine Difenoxin (1-(3-cyano-3,3- diphenylpropyl) -4- phenylpiperidine-4-carboxylic acid) Phenomorphan Dihydrocodeinone O- carboxymethyloxime Phenoperidine Dihydroetorphine Piminodine Dihydromorphine Piritramide Dimenoxadole Poppy-straw and concentrate of poppy-straw Dimepheptanol Proheptazine Dimethylthiambutene Properidine (1-methyl-4-phenyl- piperidine-4-carboxylic acid isopropyl ester) Dioxaphetyl butyrate Psilocin Diphenoxylate Racemethorphan Dipipanone Racemoramide (Drotebanol (3,4-dimethoxy- 17-methylmorphinan-6 beta, 14-diol) Racemorphan Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine Remifentanil Ethylmethylthiambutene Rolicyclidine Eticyclidine Sufentanil Etonitazene Tenocylidine Etorphine Thebacon Etoxeridine Thebaine Etryptamine Tilidate Fentanyl Trimeperidine Furethidine 4-Bromo-2,5-dimethoxy-alpha- methylphenethylamine Hydrocodone 4-Cyano-2-dimethylamino-4, 4- diphenylbutane Hydromorphinol 4-Cyano-1-methyl-4-phenyl- piperidine Hydromorphone N,N-Diethyltryptamine Hydroxypethidine N,N-Dimethyltryptamine Isomethadone 2,5-Dimethoxy-alpha,4-
 
 Crimes
 
-2011-23 Isomethadone 2,5-Dimethoxy-alpha,4- dimethylphenethylamine Ketobemidone N-Hydroxy-tenamphetamine Levomethorphan 1-Methyl-4-phenylpiperidine-4- carboxylic acid Levomoramide 2-Methyl-3-morpholino-1, 1- diphenylpropanecarboxylic acid Levophenacylmorphan 4-Methyl-aminorex Levorphanol 4-Phenylpiperidine-4-carboxylic acid ethyl ester Lofentanil
+2011-23 dimethylphenethylamine Ketobemidone N-Hydroxy-tenamphetamine Levomethorphan 1-Methyl-4-phenylpiperidine-4- carboxylic acid Levomoramide 2-Methyl-3-morpholino-1, 1- diphenylpropanecarboxylic acid Levophenacylmorphan 4-Methyl-aminorex Levorphanol 4-Phenylpiperidine-4-carboxylic acid ethyl ester Lofentanil
 
 (b) any compound (not being a compound specified in subparagraph (a)) structurally derived from tryptamine or from a ring-hydroxy tryptamine by substitution at the nitrogen atom of the sidechain with one or more alkyl substituents but no other substituent;
 
@@ -66,7 +66,9 @@ Crimes
 
 Crimes
 
-2011-23 2.  Any stereoisomeric form of a substance specified in paragraph 1 not being dextromethorphan or dextrorphan.
+2011-23
+
+2.  Any stereoisomeric form of a substance specified in paragraph 1 not being dextromethorphan or dextrorphan.
 
 3.  Any ester or ether of a substance specified in paragraph 1 or 2 not being a substance specified in Part II of this Schedule.
 
@@ -82,11 +84,11 @@ Class B Drugs
 
 1.  The following substances and products, namely
 
-(a) Acetyldihydrocodeine Amphetamine Cannabis and cannabis resin Codeine Dihydrocodeine Ethylmorphine (3-ethylmorphine) Flunitrazepam Glutethimide Lefetamine Mecloqualone Methaqualone Methcathinone Methylamphetamine a-Methylphenethylhydroxylamine Methylphenidate Methylphenobarbitone
+(a) Acetyldihydrocodeine Amphetamine Cannabis and cannabis resin Codeine Dihydrocodeine Ethylmorphine (3-ethylmorphine) Flunitrazepam Glutethimide Lefetamine Mecloqualone Methaqualone Methcathinone Methylamphetamine a-Methylphenethylhydroxylamine Methylphenidate
 
 Crimes
 
-2011-23 Nicodine Nicodicodine (6-nicotinoyldihydrocodeine) Norcodeine Pentazocine Phenmetrazine Pholcodine Propiram Zipeprol.
+2011-23 Methylphenobarbitone Nicodine Nicodicodine (6-nicotinoyldihydrocodeine) Norcodeine Pentazocine Phenmetrazine Pholcodine Propiram Zipeprol.
 
 (b) any 5, 5 distributed barbituric acid.
 
@@ -118,11 +120,11 @@ Camazepam; Lormetazepam
 
 Cathine; Mazindol
 
-Cathinone; Medazepam
-
 Crimes
 
 2011-23
+
+Cathinone; Medazepam
 
 Chordiazepoxide; Mefenorex
 
@@ -178,11 +180,11 @@ Atamestane Metribolone
 
 Bolandiol Mibolerone
 
-Bolasterone Nandrolone
-
 Crimes
 
 2011-23
+
+Bolasterone Nandrolone
 
 Bolazine 19-Nor-4-Androstene- 3, 17-dione
 

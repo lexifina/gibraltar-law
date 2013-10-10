@@ -34,11 +34,11 @@ SEXUAL OFFENCES FOR PURPOSES OF PART 13
 
 (ii) admitted to a hospital subject to a restriction order.
 
-8.  An offence under section 118 of the Criminal Offences Act (Indecent assault on a man) if–
-
 Crimes
 
-2011-23 (a) the victim or (as the case may be) other party was under 18; or
+2011-23 8.  An offence under section 118 of the Criminal Offences Act (Indecent assault on a man) if–
+
+(a) the victim or (as the case may be) other party was under 18; or
 
 (b) the offender, in respect of the offence or finding, is or has been–
 
@@ -68,13 +68,13 @@ Crimes
 
 (i) the victim was under 18; or
 
-(ii) the offender, in respect of the offence or finding, is or has been–
-
-(A) sentenced to a term of imprisonment;
-
 Crimes
 
 2011-23
+
+(ii) the offender, in respect of the offence or finding, is or has been–
+
+(A) sentenced to a term of imprisonment;
 
 (B) detained in a hospital; or
 
@@ -104,13 +104,13 @@ Crimes
 
 (a) sentenced to a term of imprisonment;
 
-(b) detained in a hospital; or
+Crimes
+
+2011-23 (b) detained in a hospital; or
 
 (c) made the subject of a community service order of at least 120 hours.
 
-Crimes
-
-2011-23 22.  An offence under section 236 or 237 (Familial child sex offences) if the offender
+22.  An offence under section 236 or 237 (Familial child sex offences) if the offender
 
 (a) was 18 or over; or
 
@@ -138,15 +138,13 @@ Crimes
 
 (b) is or has been sentenced in respect of the offence to imprisonment for not less than 12 months.
 
-27.  An offence under section 262 (Paying for sexual services of a child) if the victim or (as the case may be) other party was under 16, and the offender
+Crimes
+
+2011-23 27.  An offence under section 262 (Paying for sexual services of a child) if the victim or (as the case may be) other party was under 16, and the offender
 
 (a) was 18 or over; or
 
 (b) is or has been sentenced in respect of the offence to imprisonment for not less than 12 months.
-
-Crimes
-
-2011-23
 
 28.  An offence under section 263 (Causing or encouraging or assisting child prostitution or pornography) if the offender
 
@@ -176,15 +174,13 @@ Crimes
 
 32.  An offence under section 288 or 289 (Committing an offence or trespass, with intent to commit a sexual offence) if
 
-(a) in the case of an offender under 18 - he is or has been sentenced in respect of the offence to imprisonment for not less than 12 months;
+Crimes
+
+2011-23 (a) in the case of an offender under 18 - he is or has been sentenced in respect of the offence to imprisonment for not less than 12 months;
 
 (b) in any other case
 
 (i) the intended offence was an offence against a person under 18; or
-
-Crimes
-
-2011-23
 
 (ii) the offender, in respect of the offence or finding, is or has been
 
@@ -216,15 +212,15 @@ Crimes
 
 (A) sentenced to a term of imprisonment;
 
-(B) detained in a hospital; or
+Crimes
+
+2011-23 (B) detained in a hospital; or
 
 (C) made the subject of a community service order of at least 120 hours.
 
 35.  An offence under section 293 (Voyeurism) if
 
-Crimes
-
-2011-23 (a) in the case of an offender under 18 - he is or has been sentenced in respect  of the offence to imprisonment for not less than 12 months;
+(a) in the case of an offender under 18 - he is or has been sentenced in respect  of the offence to imprisonment for not less than 12 months;
 
 (b) in any other case
 
@@ -254,7 +250,9 @@ Crimes
 
 (b) the offender was 18 or over.
 
-38.  An offence under section 66 of the Mental Health Act (Sexual intercourse with patients).
+Crimes
+
+2011-23 38.  An offence under section 66 of the Mental Health Act (Sexual intercourse with patients).
 
 Crimes
 
