@@ -1,4 +1,4 @@
-SCHEDULE Regulation 23 CLASSIFICATION
+SCHEDULE 1 Regulation 23 CLASSIFICATION
 
 Standards.
 
@@ -75,3 +75,9 @@ Subsidiary 2009/033
 (b) the bathing water is not classifiable as “excellent”.
 
 (4)  At the end of every bathing season, the competent authority shall classify bathing water as “excellent” if, in the set of bathing water quality data used, the percentile values for microbiological concentrations are equal to or lower than the “excellent” standards set out in paragraph 1.
+
+Environment ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
+
+2005-27
+
+Subsidiary 2009/033
