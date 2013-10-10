@@ -20,11 +20,11 @@ Assent 12.8.2011
 
 Amending enactments Relevant current provisions Commencement date Act. 2012-13 ss. 2(1), 170(3), (3)(a) & (4), 225, 226, 241, 244(1) & (4), 245, 246, 247(1)(a) & (4)(a), 248(5), 249, 251(1), (2)(a) & (b), (3), (4), (7), (9) & (12), 252(1), 266A, 359-364, 427(1), 433(1), 434(5) & 695(2)
 
-23.11.20121 2013-03 s. 199(3) 17.1.2013 LN. 2013/056 ss. 2(1), 258 & 259 4.4.2013
+23.11.20121 2013-03 s. 199(3) 17.1.2013 LN. 2013/056 ss. 2(1), 258 & 259 4.4.2013 Act. 2013-21 ss. 12(1)(a), (5), 690(5),(6), 690A & Sch. 14 10.10.20132
 
 Transposing: Directive 2011/36/EU
 
-1 Commencement notice see LN. 2012/186
+1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136
 
 2011-24 Criminal Procedure and Evidence
 
@@ -642,7 +642,7 @@ PART 29 – CODES OF PRACTICE
 
 Codes of practice
 
-685. Codes of practice on search, arrest, seizure, etc. 686. Code on recording of interviews. 687. Codes of practice on criminal investigations. 688. Examples of disclosure provisions in a code of practice. 689. Code on police interviews of witnesses notified by defendant. 690. Publication of codes of practice. 691. Effect and status of codes of practice. 692. Common law rules as to criminal investigations.
+685. Codes of practice on search, arrest, seizure, etc. 686. Code on recording of interviews. 687. Codes of practice on criminal investigations. 688. Examples of disclosure provisions in a code of practice. 689. Code on police interviews of witnesses notified by defendant. 690. Publication of codes of practice. 690A. Amendment or revision of codes of practice. 691. Effect and status of codes of practice. 692. Common law rules as to criminal investigations.
 
 PART 30 – MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
@@ -668,15 +668,17 @@ Schedule 8 Categories of offences that establish a propensity (Section 371(4))
 
 Schedule 9 Standard scale of fines for offences (Sections 550(1), 570, 575 and 587)
 
-Schedule 10 Maximum periods of imprisonment or detention in default of payment (Sections 579(3) and 587)
-
 2011-24 Criminal Procedure and Evidence
+
+Schedule 10 Maximum periods of imprisonment or detention in default of payment (Sections 579(3) and 587)
 
 Schedule 11 Table of rehabilitation periods (Section 613)
 
 Schedule 12 Exceptions to rehabilitation (Sections 616 and 617(1))
 
 Schedule 13 Offences against juveniles with respect to which special provisions apply (Sections 643 to 648)
+
+Schedule 14 Summary offences in respect of which an application under section 12 may be made
 
 2011-24 Criminal Procedure and Evidence
 

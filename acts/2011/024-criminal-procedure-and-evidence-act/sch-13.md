@@ -19,3 +19,5 @@ OFFENCES AGAINST JUVENILES WITH RESPECT TO WHICH SPECIAL PROVISIONS APPLY
 (a) aiding, abetting, counselling, procuring or inciting the commission of any offence listed in Schedule 3 or 4 to the Crimes Act 2011; or
 
 (b) attempting or conspiring to commit any such offence.
+
+2011-24 Criminal Procedure and Evidence
