@@ -2,7 +2,9 @@ ANNEX IV
 
 ANIMAL AND PLANT SPECIES OF COMMUNITY INTEREST IN NEED OF STRICT PROTECTION
 
-The species listed in this Annex are indicated:
+Nature Protection
+
+1991-11 The species listed in this Annex are indicated:
 
 — by the name of species or subspecies, or — by the body of species belonging to a higher taxon or to a designated part of that taxon.
 
@@ -14,9 +16,7 @@ VERTEBRATES
 
 MAMMALS
 
-Nature Protection
-
-1991-11 INSECTIVORA
+INSECTIVORA
 
 Erinaceidae
 
@@ -58,6 +58,10 @@ Spermophilus citellus (Citellus citellus)
 
 Spermophilus suslicus (Citellus suslicus)
 
+Nature Protection
+
+1991-11
+
 Sciurus anomalus
 
 Castoridae Castor fiber (except the Estonian, Latvian, Lithuanian, Polish, Finnish and Swedish, populations)
@@ -70,6 +74,8 @@ Mesocricetus newtoni
 
 Microtidae
 
+Dinaromys bogdanovi
+
 Microtus cabrerae
 
 Microtus oeconomus arenicola
@@ -77,10 +83,6 @@ Microtus oeconomus arenicola
 Microtus oeconomus mehelyi
 
 Microtus tatricus
-
-Nature Protection
-
-1991-11
 
 Zapodidae
 
@@ -112,7 +114,11 @@ Mustela lutreola
 
 Vormela peregusna
 
-Felidae Felis silvestris Lynx lynx (except the Estonian population) Lynx pardinus
+Felidae Felis silvestris Lynx lynx (except the Estonian population)
+
+Nature Protection
+
+1991-11 Lynx pardinus
 
 Phocidae
 
@@ -132,11 +138,7 @@ Bison bonasus
 
 Capra aegagrus (natural populations)
 
-Capra pyrenaica pyrenaica
-
-Nature Protection
-
-1991-11 Ovis gmelini musimon (Ovis ammon musimon) (natural populations — Corsica and Sardinia)
+Capra pyrenaica pyrenaica Ovis gmelini musimon (Ovis ammon musimon) (natural populations — Corsica and Sardinia)
 
 Ovis orientalis ophion (Ovis gmelini ophion)
 
@@ -182,6 +184,10 @@ Emys orbicularis
 
 Mauremys caspica
 
+Nature Protection
+
+1991-11
+
 Mauremys leprosa
 
 SAURIA
@@ -194,7 +200,9 @@ Algyroides marchi
 
 Algyroides moreoticus
 
-Algyroides nigropunctatus
+Algyroides nigropunctatus Dalmatolacerta oxycephala
+
+Dinarolacerta mosorensis
 
 Gallotia atlantica
 
@@ -207,10 +215,6 @@ Gallotia simonyi
 Gallotia stehlini
 
 Lacerta agilis
-
-Nature Protection
-
-1991-11
 
 Lacerta bedriagae
 
@@ -270,6 +274,10 @@ Chalcides bedriagai
 
 Chalcides ocellatus
 
+Nature Protection
+
+1991-11
+
 Chalcides sexlineatus
 
 Chalcides simonyi (Chalcides occidentalis)
@@ -299,10 +307,6 @@ Stellio stellio
 Chamaeleontidae
 
 Chamaeleo chamaeleon
-
-Nature Protection
-
-1991-11
 
 Anguidae
 
@@ -358,6 +362,10 @@ Vipera seoanni (except Spanish populations)
 
 Vipera ursinii
 
+Nature Protection
+
+1991-11
+
 Vipera xanthina
 
 Boidae
@@ -383,10 +391,6 @@ Mertensiella luschani (Salamandra luschani)
 Salamandra atra
 
 Salamandra aurorae
-
-Nature Protection
-
-1991-11
 
 Salamandra lanzai
 
@@ -442,6 +446,10 @@ Bombina variegata
 
 Discoglossus galganoi (including Discoglossus “jeanneae”)
 
+Nature Protection
+
+1991-11
+
 Discoglossus montalentii
 
 Discoglossus pictus
@@ -472,9 +480,7 @@ Pelobates fuscus
 
 Pelobates syriacus
 
-Nature Protection
-
-1991-11 Bufonidae
+Bufonidae
 
 Bufo calamita
 
@@ -512,7 +518,9 @@ Phoxinus percnurus
 
 ATHERINIFORMES
 
-Cyprinodontidae
+Nature Protection
+
+1991-11 Cyprinodontidae
 
 Valencia hispanica
 
@@ -533,10 +541,6 @@ CRUSTACEA
 Isopoda
 
 Armadillidium ghardalamensis
-
-Nature Protection
-
-1991-11
 
 INSECTA
 
@@ -594,6 +598,10 @@ Lepidoptera
 
 Apatura metis
 
+Nature Protection
+
+1991-11
+
 Arytrura musculus
 
 Catopta thrips
@@ -627,10 +635,6 @@ Glyphipterix loricatella
 Gortyna borelii lunata
 
 Hypodryas maturna
-
-Nature Protection
-
-1991-11
 
 Hyles hippophaes
 
@@ -672,6 +676,8 @@ Polyommatus eroides
 
 Proserpinus Proserpina
 
+Proterebia afra dalmata
+
 Pseudophilotes bavius
 
 Xylomoia strix
@@ -685,6 +691,10 @@ Apteromantis aptera
 Odonata
 
 Aeshna viridis
+
+Nature Protection
+
+1991-11
 
 Cordulegaster heros
 
@@ -719,10 +729,6 @@ Brachytrupes megacephalus
 Isophya costata
 
 Isophya harzi
-
-Nature Protection
-
-1991-11
 
 Isophya stysi
 
@@ -774,6 +780,10 @@ Elona quimperiana
 
 Geomalacus maculosus
 
+Nature Protection
+
+1991-11
+
 Geomitra moniziana
 
 Gibbula nivosa
@@ -808,10 +818,6 @@ Theodoxus transversalis
 
 BIVALVIA
 
-Nature Protection
-
-1991-11
-
 Anisomyaria
 
 Lithophaga lithophaga
@@ -844,7 +850,11 @@ ASPLENIACEAE
 
 Asplenium hemionitis L.
 
-ANGIOSPERMAE
+(*) Except bryophytes in Annex II (b).
+
+Nature Protection
+
+1991-11 ANGIOSPERMAE
 
 AGAVACEAE
 
@@ -865,12 +875,6 @@ CAMPANULACEAE
 Campanula morettiana Reichenb.
 
 Physoplexis comosa (L.) Schur.
-
-(*) Except bryophytes in Annex II (b).
-
-Nature Protection
-
-1991-11
 
 CARYOPHYLLACEAE
 
@@ -906,7 +910,9 @@ Jankaea heldreichii (Boiss.) Boiss.
 
 Ramonda serbica Pancic
 
-IRIDACEAE
+Nature Protection
+
+1991-11 IRIDACEAE
 
 Crocus etruscus Parl.
 
@@ -931,10 +937,6 @@ Androcymbium europaeum (Lange) K. Richter
 Bellevalia hackelli Freyn
 
 Colchicum corsicum Baker
-
-Nature Protection
-
-1991-11
 
 Colchicum cousturieri Greuter
 
@@ -978,6 +980,10 @@ SAPOTACEAE
 
 Sideroxylon marmulano Banks ex Lowe
 
+Nature Protection
+
+1991-11
+
 SAXIFRAGACEAE
 
 Saxifraga cintrana Kuzinsky ex Willk.
@@ -1001,10 +1007,6 @@ SOLANACEAE
 Mandragora officinarum L.
 
 THYMELAEACEAE
-
-Nature Protection
-
-1991-11
 
 Thymelaea broterana P. Cout.
 

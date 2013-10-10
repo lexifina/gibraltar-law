@@ -4,11 +4,9 @@ ANIMAL AND PLANT SPECIES OF COMMUNITY INTEREST WHOSE CONSERVATION REQUIRES THE D
 
 Interpretation
 
-(a)  Annex II follows on from Annex I for the establishment of a consistent network of special areas of conservation.
-
 Nature Protection
 
-1991-11
+1991-11 (a)  Annex II follows on from Annex I for the establishment of a consistent network of special areas of conservation.
 
 (b)  The species listed in this Annex are indicated:
 
@@ -54,13 +52,13 @@ Miniopterus schreibersii
 
 Myotis bechsteinii
 
-Myotis blythii
-
-Myotis capaccinii
-
 Nature Protection
 
 1991-11
+
+Myotis blythii
+
+Myotis capaccinii
 
 Myotis dasycneme
 
@@ -94,7 +92,9 @@ Cricetidae
 
 Mesocricetus newtoni
 
-Microtidae Microtus cabrerae
+Microtidae
+
+Dinaromys bogdanovi Microtus cabrerae
 
 * Microtus oeconomus arenicola
 
@@ -112,11 +112,13 @@ Canidae
 
 * Alopex lagopus * Canis lupus (except the Estonian population; Greek populations: only south of the 39th parallel; Spanish populations: only those south of the Duero; Latvian, Lithuanian and Finnish populations).
 
-Ursidae * Ursus arctos (except the Estonian, Finnish, and Swedish populations)
+Ursidae
 
 Nature Protection
 
-1991-11 Mustelidae
+1991-11 * Ursus arctos (except the Estonian, Finnish, and Swedish populations)
+
+Mustelidae
 
 * Gulo gulo
 
@@ -180,15 +182,13 @@ REPTILES
 
 CHELONIA (TESTUDINES)
 
-Testudinidae
+Nature Protection
+
+1991-11 Testudinidae
 
 Testudo graeca
 
 Testudo hermanni
-
-Nature Protection
-
-1991-11
 
 Testudo marginata
 
@@ -208,7 +208,7 @@ Mauremys leprosa
 
 SAURIA
 
-Lacertidae
+Lacertidae Dinarolacerta mosorensis
 
 Lacerta bonnali (Lacerta monticola)
 
@@ -246,19 +246,21 @@ Elaphe situla
 
 Viperidae
 
-* Macrovipera schweizeri (Vipera lebetina schweizeri) Vipera ursinii (except Vipera ursinii rakosiensis) * Vipera ursinii rakosiensis
+* Macrovipera schweizeri (Vipera lebetina schweizeri) Vipera ursinii (except Vipera ursinii rakosiensis and Vipera ursinii macrops)
 
-AMPHIBIANS
+* Vipera ursinii macrops
+
+* Vipera ursinii rakosiensis
+
+Nature Protection
+
+1991-11 AMPHIBIANS
 
 CAUDATA
 
 Salamandridae
 
 Chioglossa lusitanica
-
-Nature Protection
-
-1991-11
 
 Mertensiella luschani (Salamandra luschani)
 
@@ -324,15 +326,13 @@ FISH
 
 PETROMYZONIFORMES
 
-Petromyzonidae
+Nature Protection
+
+1991-11 Petromyzonidae
 
 Eudontomyzon spp. (o) Lampetra fluviatilis (V) (except the Finnish and Swedish populations) Lampetra planeri (o) (except the Estonian, Finnish, and Swedish populations)
 
 Lethenteron zanandreai (V)
-
-Nature Protection
-
-1991-11
 
 Petromyzon marinus (o) (except the Swedish populations)
 
@@ -358,7 +358,7 @@ Hucho hucho (natural populations) (V)
 
 Salmo macrostigma (o)
 
-Salmo marmoratus (o) Salmo salar (only in fresh water) (V) (except the Finnish populations)
+Salmo marmoratus (o) Salmo salar (only in fresh water) (V) (except the Finnish populations) Salmothymus obtusirostris (o)
 
 Coregonidae * Coregonus oxyrhynchus (anadromous populations in certain sectors of the North Sea)
 
@@ -370,7 +370,7 @@ CYPRINIFORMES
 
 Cyprinidae
 
-Alburnus albidus (o) (Alburnus vulturius)
+Alburnus albidus (o) (Alburnus vulturius) Aulopyge huegelii (o)
 
 Anaecypris hispanica
 
@@ -386,7 +386,15 @@ Chalcalburnus chalcoides (o)
 
 Chondrostoma genei (o)
 
+Nature Protection
+
+1991-11
+
+Chondrostoma knerii (o)
+
 Chondrostoma lusitanicum (o)
+
+Chondrostoma phoxinus (o)
 
 Chondrostoma polylepis (o) (including C. willkommi)
 
@@ -401,10 +409,6 @@ Gobio kessleri (o)
 Gobio uranoscopus (o)
 
 Iberocypris palaciosi (o)
-
-Nature Protection
-
-1991-11
 
 * Ladigesocypris ghigii (o)
 
@@ -436,6 +440,10 @@ Rutilus alburnoides (o)
 
 Scardinius graecus (o)
 
+Squalius microlepis (o)
+
+Squalius svallize (o)
+
 Cobitidae
 
 Cobitis elongata (o)
@@ -466,6 +474,10 @@ Aphanius fasciatus (o)
 
 * Valencia hispanica
 
+Nature Protection
+
+1991-11
+
 * Valencia letourneuxi (Valencia hispanica)
 
 PERCIFORMES
@@ -482,11 +494,9 @@ Zingel spp. ((o) except Zingel asper and Zingel zingel (V))
 
 Gobiidae
 
+Knipowitschia croatica (o)
+
 Knipowitschia (Padogobius) panizzae (o)
-
-Nature Protection
-
-1991-11
 
 Padogobius nigricans (o)
 
@@ -538,6 +548,10 @@ Carabus hungaricus
 
 Carabus variolosus
 
+Nature Protection
+
+1991-11
+
 Carabus zawadszkii
 
 Cerambyx cerdo
@@ -562,11 +576,7 @@ Limoniscus violaceus (o)
 
 Lucanus cervus (o)
 
-Macroplea pubipennis (o)
-
-Nature Protection
-
-1991-11 Mesosa myops (o) Morimus funereus (o) * Osmoderma eremita Oxyporus mannerheimii (o) Pilemia tigrina * Phryganophilus ruficollis Probaticus subrugosus Propomacrus cypriacus * Pseudogaurotina excellens Pseudoseriscius cameroni Pytho kolwensis Rhysodes sulcatus (o) * Rosalia alpina Stephanopachys linearis (o) Stephanopachys substriatus (o) Xyletinus tremulicola (o)
+Macroplea pubipennis (o) Mesosa myops (o) Morimus funereus (o) * Osmoderma eremita Oxyporus mannerheimii (o) Pilemia tigrina * Phryganophilus ruficollis Probaticus subrugosus Propomacrus cypriacus * Pseudogaurotina excellens Pseudoseriscius cameroni Pytho kolwensis Rhysodes sulcatus (o) * Rosalia alpina Stephanopachys linearis (o) Stephanopachys substriatus (o) Xyletinus tremulicola (o)
 
 Hemiptera
 
@@ -600,6 +610,10 @@ Erebia calcaria
 
 Erebia christi
 
+Nature Protection
+
+1991-11
+
 Erebia medusa polaris (o)
 
 Eriogaster catax
@@ -626,10 +640,6 @@ Lycaena helle
 
 Maculinea nausithous
 
-Nature Protection
-
-1991-11
-
 Maculinea teleius
 
 Melanargia arge
@@ -645,6 +655,8 @@ Plebicula golgus
 Polymixis rufocincta isolata
 
 Polyommatus eroides
+
+Proterebia afra dalmata
 
 Pseudophilotes bavius
 
@@ -690,6 +702,10 @@ Brachytrupes megacephalus
 
 Isophya costata
 
+Nature Protection
+
+1991-11
+
 Isophya harzi
 
 Isophya stysi
@@ -711,10 +727,6 @@ Pseudoscorpiones
 Anthrenochernes stellae (o)
 
 MOLLUSCS
-
-Nature Protection
-
-1991-11
 
 GASTROPODA
 
@@ -778,6 +790,10 @@ Vertigo moulinsiana (o)
 
 BIVALVIA
 
+Nature Protection
+
+1991-11
+
 Unionoida
 
 Margaritifera durrovensis (Margaritifera margaritifera) (V)
@@ -795,10 +811,6 @@ Congeria kusceri
 PTERIDOPHYTA
 
 ASPLENIACEAE
-
-Nature Protection
-
-1991-11
 
 Asplenium jahandiezii (Litard.) Rouy
 
@@ -838,7 +850,9 @@ Marsilea quadrifolia L.
 
 Marsilea strigosa Willd.
 
-OPHIOGLOSSACEAE
+Nature Protection
+
+1991-11 OPHIOGLOSSACEAE
 
 Botrychium simplex Hitchc.
 
@@ -853,10 +867,6 @@ PINACEAE
 ANGIOSPERMAE
 
 ALISMATACEAE
-
-Nature Protection
-
-1991-11
 
 * Alisma wahlenbergii (Holmberg) Juz.
 
@@ -910,6 +920,10 @@ Omphalodes kuzinskyanae Willk.
 
 * Omphalodes littoralis Lehm.
 
+Nature Protection
+
+1991-11
+
 * Onosma tornensis Javorka
 
 Solenanthus albanicus (Degen & al.) Degen & Baldacci
@@ -933,10 +947,6 @@ Campanula romanica Săvul.
 * Campanula serrata (Kit.) Hendrych
 
 Campanula zoysii Wulfen
-
-Nature Protection
-
-1991-11
 
 Jasione crispa (Pourret) Samp. subsp. serpentinica Pinto da Silva
 
@@ -998,6 +1008,10 @@ Petrocoptis grandiflora Rothm.
 
 Petrocoptis montsicciana O. Bolos & Rivas Mart.
 
+Nature Protection
+
+1991-11
+
 Petrocoptis pseudoviscosa Fernández Casas
 
 Silene furcata Rafin. subsp. angustiflora (Rupr.) Walters
@@ -1021,10 +1035,6 @@ Silene mariana Pau
 CHENOPODIACEAE
 
 * Bassia (Kochia) saxicola (Guss.) A. J. Scott
-
-Nature Protection
-
-1991-11
 
 * Cremnophyton lanfrancoi Brullo et Pavone
 
@@ -1080,6 +1090,10 @@ Centaurea corymbosa Pourret
 
 Centaurea gadorensis G. Blanca
 
+Nature Protection
+
+1991-11
+
 * Centaurea horrida Badaro
 
 Centaurea immanuelis-loewii Degen
@@ -1103,10 +1117,6 @@ Centaurea pontica Prodan & E. I. Nyárády
 Centaurea pulvinata (G. Blanca) G. Blanca
 
 Centaurea rothmalerana (Arènes) Dostál
-
-Nature Protection
-
-1991-11
 
 Centaurea vicentina Mariz
 
@@ -1168,7 +1178,9 @@ CONVOLVULACEAE
 
 * Convolvulus fernandesii Pinto da Silva & Teles
 
-CRUCIFERAE
+Nature Protection
+
+1991-11 CRUCIFERAE
 
 Alyssum pyrenaicum Lapeyr.
 
@@ -1194,10 +1206,6 @@ Brassica insularis Moris
 
 Braya linearis Rouy
 
-Nature Protection
-
-1991-11
-
 * Cochlearia polonica E. Fröhlich
 
 * Cochlearia tatrae Borbas
@@ -1207,6 +1215,8 @@ Nature Protection
 * Coronopus navasii Pau
 
 Crambe tataria Sebeok
+
+*Degenia velebitica (Degen) Hayek
 
 Diplotaxis ibicensis (Pau) Gómez-Campo
 
@@ -1246,6 +1256,10 @@ Eleocharis carniolica Koch
 
 DIOSCOREACEAE
 
+Nature Protection
+
+1991-11
+
 * Borderea chouardii (Gaussen) Heslot
 
 DROSERACEAE
@@ -1261,10 +1275,6 @@ ERICACEAE
 Rhododendron luteum Sweet
 
 EUPHORBIACEAE
-
-Nature Protection
-
-1991-11
 
 * Euphorbia margalidiana Kuhbier & Lewejohann
 
@@ -1312,6 +1322,10 @@ Coleanthus subtilis (Tratt.) Seidl
 
 Festuca brigantina (Markgr.-Dannenb.) Markgr.- Dannenb.
 
+Nature Protection
+
+1991-11
+
 Festuca duriotagana Franco & R. Afonso
 
 Festuca elegans Boiss.
@@ -1341,10 +1355,6 @@ Puccinellia pungens (Pau) Paunero
 * Stipa bavarica Martinovsky & H. Scholz
 
 Stipa danubialis Dihoru & Roman
-
-Nature Protection
-
-1991-11
 
 * Stipa styriaca Martinovsky
 
@@ -1386,7 +1396,9 @@ Luzula arctica Blytt
 
 LABIATAE
 
-Dracocephalum austriacum L.
+Nature Protection
+
+1991-11 Dracocephalum austriacum L.
 
 * Micromeria taygetea P. H. Davis
 
@@ -1415,10 +1427,6 @@ Teucrium lepicephalum Pau
 Teucrium turredanum Losa & Rivas Goday
 
 * Thymus camphoratus Hoffmanns. & Link
-
-Nature Protection
-
-1991-11
 
 Thymus carnosus Boiss. * Thymus lotocephalus G. López & R. Morales (Thymus cephalotos L.)
 
@@ -1468,6 +1476,10 @@ Allium grosii Font Quer
 
 * Androcymbium rechingeri Greuter
 
+Nature Protection
+
+1991-11
+
 * Asphodelus bento-rainhae P. Silva
 
 * Chionodoxa lochiae Meikle in Kew Bull.
@@ -1492,9 +1504,7 @@ LINACEAE
 
 * Linum muelleri Moris (Linum maritimum muelleri)
 
-Nature Protection
-
-1991-11 LYTHRACEAE
+LYTHRACEAE
 
 * Lythrum flexuosum Lag.
 
@@ -1540,6 +1550,10 @@ Ophrys melitensis (Salkowski) J et P Devillers-Terschuren
 
 Platanthera obtusata (Pursh) subsp. oligantha (Turez.) Hulten
 
+Nature Protection
+
+1991-11
+
 OROBANCHACEAE
 
 Orobanche densiflora Salzm. ex Reut.
@@ -1557,10 +1571,6 @@ Paeonia parnassica Tzanoudakis
 PALMAE
 
 Phoenix theophrasti Greuter
-
-Nature Protection
-
-1991-11
 
 PAPAVERACEAE
 
@@ -1604,6 +1614,10 @@ Limonium multiflorum Erben
 
 POLYGONACEAE
 
+Nature Protection
+
+1991-11
+
 Persicaria foliosa (H. Lindb.) Kitag.
 
 Polygonum praelongum Coode & Cullen
@@ -1629,10 +1643,6 @@ Primula palinuri Petagna
 Primula scandinavica Bruun
 
 Soldanella villosa Darracq.
-
-Nature Protection
-
-1991-11
 
 RANUNCULACEAE
 
@@ -1682,6 +1692,10 @@ Potentilla emilii-popii Nyárády
 
 Sorbus teodorii Liljefors
 
+Nature Protection
+
+1991-11
+
 RUBIACEAE
 
 Galium cracoviense Ehrend.
@@ -1699,10 +1713,6 @@ SALICACEAE
 Salix salvifolia Brot. subsp. australis Franco
 
 SANTALACEAE
-
-Nature Protection
-
-1991-11
 
 Thesium ebracteatum Hayne
 
@@ -1754,6 +1764,10 @@ Verbascum litigiosum Samp.
 
 Veronica micrantha Hoffmanns. & Link
 
+Nature Protection
+
+1991-11
+
 * Veronica oetaea L.-A. Gustavsson
 
 SOLANACEAE
@@ -1771,10 +1785,6 @@ Daphne petraea Leybold
 ULMACEAE
 
 Zelkova abelicea (Lam.) Boiss.
-
-Nature Protection
-
-1991-11
 
 UMBELLIFERAE
 
@@ -1828,6 +1838,10 @@ Viola delphinantha Boiss.
 
 Viola jaubertiana Mares & Vigineix
 
+Nature Protection
+
+1991-11
+
 Viola rupestris F.W. Schmidt subsp. relicta Jalas
 
 LOWER PLANTS
@@ -1853,10 +1867,6 @@ Dichelyma capillaceum (Dicks) Myr. (o)
 Dicranum viride (Sull. & Lesq.) Lindb. (o)
 
 Distichophyllum carinatum Dix. & Nich. (o)
-
-Nature Protection
-
-1991-11
 
 Drepanocladus (Hamatocaulis) vernicosus (Mitt.) Warnst. (o)
 
@@ -1910,6 +1920,10 @@ Hymenophyllum maderensis Gibby & Lovis
 
 DRYOPTERIDACEAE
 
+Nature Protection
+
+1991-11
+
 * Polystichum drepanum (Sw.) C. Presl.
 
 ISOETACEAE
@@ -1925,10 +1939,6 @@ ANGIOSPERMAE
 ASCLEPIADACEAE
 
 Caralluma burchardii N. E. Brown
-
-Nature Protection
-
-1991-11
 
 * Ceropegia chrysantha Svent.
 
@@ -1968,6 +1978,10 @@ Beta patula Ait.
 
 CISTACEAE
 
+Nature Protection
+
+1991-11
+
 Cistus chinamadensis Banares & Romero
 
 * Helianthemum bystropogophyllum Svent.
@@ -1991,10 +2005,6 @@ Calendula maderensis DC.
 Cheirolophus duranii (Burchard) Holub
 
 Cheirolophus ghomerytus (Svent.) Holub
-
-Nature Protection
-
-1991-11
 
 Cheirolophus junonianus (Svent.) Holub
 
@@ -2048,6 +2058,10 @@ CRUCIFERAE
 
 * Crambe arborea Webb ex Christ
 
+Nature Protection
+
+1991-11
+
 Crambe laevigata DC. ex Christ
 
 * Crambe sventenii R. Petters ex Bramwell & Sund.
@@ -2065,10 +2079,6 @@ DIPSACACEAE
 Scabiosa nitens Roemer & J. A. Schultes
 
 ERICACEAE
-
-Nature Protection
-
-1991-11
 
 Erica scoparia L. subsp. azorica (Hochst.) D. A. Webb
 
@@ -2112,6 +2122,10 @@ Teucrium betonicum L'Hér.
 
 LEGUMINOSAE
 
+Nature Protection
+
+1991-11
+
 * Anagyris latifolia Brouss. ex. Willd.
 
 Anthyllis lemanniana Lowe
@@ -2135,10 +2149,6 @@ LILIACEAE
 * Androcymbium psammophilum Svent.
 
 Scilla maderensis Menezes
-
-Nature Protection
-
-1991-11
 
 Semele maderensis Costa
 
@@ -2176,6 +2186,10 @@ Limonium dendroides Svent.
 
 *Limonium spectabile (Svent.) Kunkel & Sunding
 
+Nature Protection
+
+1991-11
+
 *Limonium sventenii Santos & Fernández Galván
 
 POLYGONACEAE
@@ -2188,11 +2202,7 @@ Frangula azorica Tutin
 
 ROSACEAE
 
-* Bencomia brachystachya Svent. Bencomia sphaerocarpa Svent. * Chamaemeles coriacea Lindl.
-
-Nature Protection
-
-1991-11 Dendriopoterium pulidoi Svent. Marcetella maderensis (Born.) Svent. Prunus lusitanica L. subsp. azorica (Mouillef.) Franco Sorbus maderensis (Lowe) Dode
+* Bencomia brachystachya Svent. Bencomia sphaerocarpa Svent. * Chamaemeles coriacea Lindl. Dendriopoterium pulidoi Svent. Marcetella maderensis (Born.) Svent. Prunus lusitanica L. subsp. azorica (Mouillef.) Franco Sorbus maderensis (Lowe) Dode
 
 SANTALACEAE
 
@@ -2233,6 +2243,10 @@ Monizia edulis Lowe
 Oenanthe divaricata (R. Br.) Mabb.
 
 Sanicula azorica Guthnick ex Seub.
+
+Nature Protection
+
+1991-11
 
 VIOLACEAE
 
