@@ -40,12 +40,6 @@ Section 33 (Obligation to return items subject to legal privilege)
 
 Section 34 (Obligation to return excluded and special procedure material)
 
-Criminal Procedure and Evidence CRIMINAL PROCEDURE AND EVIDENCE ACT 2011 (APPLICATION TO HM CUSTOMS) ORDER 2012
-
-2011-24
-
-Subsidiary 2012/188
-
 Section 35 (Retention of seized property)
 
 Section 36 (Retention of property seized under section 29 or 30)
@@ -88,12 +82,6 @@ Section 64 (Use of telephone for review)
 
 Section 65 (limits on period of detention without charge)
 
-Criminal Procedure and Evidence CRIMINAL PROCEDURE AND EVIDENCE ACT 2011 (APPLICATION TO HM CUSTOMS) ORDER 2012
-
-2011-24
-
-Subsidiary 2012/188
-
 Section 66 (authorisation of continued detention)
 
 Section 67(1) to (12) and (14) to (17) (warrants of further detention)
@@ -118,6 +106,18 @@ Section 83 (right to have someone informed when arrested)
 
 Section 84 (additional rights of children and young persons)
 
+Section 85A (right to interpretation)
+
+Section 85B (written translation of documents)
+
+Section 85C (cost of interpretation and translation)
+
+Section 85D (duty to record)
+
+Section 85E (unsatisfactory interpretation or translation)
+
+Section 85F (non-regression)
+
 Section 107 (Photographing of suspects)
 
 Section 358 (confessions by mentally handicapped persons) (subject to the modification in article 10)
@@ -125,9 +125,3 @@ Section 358 (confessions by mentally handicapped persons) (subject to the modifi
 Section 685-692 (codes of practice)
 
 Section 693 (police officers performing duties of higher rank)
-
-Criminal Procedure and Evidence CRIMINAL PROCEDURE AND EVIDENCE ACT 2011 (APPLICATION TO HM CUSTOMS) ORDER 2012
-
-2011-24
-
-Subsidiary 2012/188
