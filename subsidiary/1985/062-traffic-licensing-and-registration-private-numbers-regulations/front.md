@@ -1,29 +1,23 @@
-Traffic TRAFFIC (LICENSING AND REGISTRATION) (PERSONALISED NUMBERS) REGULATIONS, 1985
+Subsidiary Legislation made under ss.15 and 58.
 
-2005-26
+Traffic (Licensing and Registration) (Personalised Numbers) Regulations, 1985
 
-Subsidiary 1985/062 Regulations made or deemed to have been made under sections 15 and 58 .
+LN.1985/062
 
-TRAFFIC (LICENSING AND REGISTRATION) (PERSONALISED NUMBERS) REGULATIONS, 1985
+Commencement 16.5.1985
 
-(LN. 1985/062)
+Amending enactments Relevant current provisions Commencement date LN. 1997/096 rr. 2, 4, 6(1)-(2), (4). 2.10.1997 2003/085 r. 1. 14.8.2003 2005/052 rr. 5(1), (5), 6(2) 1.4.2005 2013/125 r. 3(c) 29.8.2013 2013/152 rr. 3(c), 5(1)-(2), (4)-(5), 8-9, Schs.1-3 31.10.2013
 
-16.5.1985
+ARRANGEMENT OF REGULATIONS
 
-Amending enactments Relevant current provisions Commencement date
+Regulation
 
-LN.  1997/096 rr. 2, 4 and 6(1), (2), (4). 2.10.1997 2003/085 r. 1. 14.8.2003 2005/052 rr.5(1), (5) and 6(2) 1.4.2005 2013/125 r. 3(c) 29.8.2013
+1. Title. 2. Application. 3. Interpretation. 4. Re-issue of numbers. 5. Sale of numbers. 6. Transfer of number. 7. Additional fee. 8. Excluded numbers. 9. Registration number issued prior to these Regulations.
 
-_____________________________
+SCHEDULE 1
 
-ARRANGEMENT OF REGULATIONS.
+SCHEDULE 2
 
-Regulations.
+SCHEDULE 3
 
-1. Title. 2. Application. 3. Interpretation. 4. Re-issue of numbers. 5. Sale of numbers. 6. Transfer of number. 7. Additional fee.
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) (PERSONALISED NUMBERS) REGULATIONS, 1985
-
-2005-26
-
-Subsidiary 1985/062 In exercise of the powers conferred on him by Sections 6 and 45 of the Traffic Act, and of all other enabling powers, the Governor has made the following regulations:
+In exercise of the powers conferred on him by Sections 6 and 45 of the Traffic Act, and of all other enabling powers, the Governor has made the following regulations:
