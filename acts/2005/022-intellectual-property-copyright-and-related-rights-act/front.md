@@ -14,9 +14,13 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2006-21 ss. 61(3), 62(4), 63(2) & 65(2), Part IV (ss.254-269), Schs. 2, 4 & 5
 
-20.7.2006
+20.7.2006 LN.  2013/1531 ss. 13A, 15(8), 16(2),(2)(b), (c), 209(1), 217(b),(c), 225A, 225B & 231
 
-Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC
+1.11.2013
+
+Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU
+
+1 Transitional and saving provisions as published in the Legal Notice are reproduced at the end of this Act.
 
 Intellectual Property (Copyright and Related Rights)
 
@@ -36,7 +40,7 @@ Descriptions of work and related provisions
 
 Authorship and ownership of copyright
 
-12. Authorship of work. 13. Works of joint authorship. 14. First ownership of copyright.
+12. Authorship of work. 13. Works of joint authorship. 13A.  Works of Co-authorship. 14. First ownership of copyright.
 
 Duration of copyright
 
@@ -44,11 +48,9 @@ Duration of copyright
 
 CHAPTER II RIGHTS OF COPYRIGHT OWNER
 
-The acts restricted by copyright
-
 Intellectual Property (Copyright and Related Rights)
 
-2005-22
+2005-22 The acts restricted by copyright
 
 21. The acts restricted by copyright in a work. 22. Infringement of copyright by copying. 23. Infringement by issue of copies to the public. 24. Infringement by rental or lending of work to the public. 25. Infringement by performance, showing or playing of work in public. 26. Infringement by communication to the public. 27. Infringement by making adaptation or act done in relation to adaptation.
 
@@ -72,11 +74,11 @@ General
 
 Education
 
-40. Things done for the purposes of instruction or examination. 41. Anthologies for educational use. 42. Performing, playing or showing work in course of activities of educational establishment.
+40. Things done for the purposes of instruction or examination. 41. Anthologies for educational use.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 43. Recording by educational establishments of broadcasts. 44. Reprographic copying by educational establishments of passages from published works. 45. Lending of copies by educational establishments.
+2005-22 42. Performing, playing or showing work in course of activities of educational establishment. 43. Recording by educational establishments of broadcasts. 44. Reprographic copying by educational establishments of passages from published works. 45. Lending of copies by educational establishments.
 
 Libraries and archives
 
@@ -98,11 +100,11 @@ Designs
 
 66. Design documents and models. 67. Effect of exploitation of design derived from artistic work. 68. Things done in reliance on registration of design.
 
-Typefaces
-
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 69. Use of typeface in ordinary course of printing. 70. Articles for producing material in particular typefaces.
+2005-22 Typefaces
+
+69. Use of typeface in ordinary course of printing. 70. Articles for producing material in particular typefaces.
 
 Works in electronic form
 
@@ -124,11 +126,13 @@ Adaptations
 
 93. Adaptations.
 
-CHAPTER IV MORAL RIGHTS
+CHAPTER IV
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 Right to be identified as author or director
+2005-22 MORAL RIGHTS
+
+Right to be identified as author or director
 
 94. Right to be identified as author or director. 95. Requirement that right be asserted. 96. Exceptions to right.
 
@@ -158,11 +162,11 @@ Right to equitable remuneration where rental right transferred
 
 112. Right to equitable remuneration where rental right transferred. 113. Equitable remuneration: reference of amount to Court.
 
-Moral rights
-
 Intellectual Property (Copyright and Related Rights)
 
 2005-22
+
+Moral rights
 
 114. Moral rights not assignable. 115. Transmission of moral rights on death.
 
@@ -192,11 +196,11 @@ Provision for preventing importation of infringing copies
 
 132. Infringing copies may be treated as prohibited goods. 133. Power of Government to make regulations.
 
-Supplementary
-
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 134. Period after which remedy of delivery up not available. 135. Order as to disposal of infringing copy or other article. 136. Forfeiture of infringing copies.
+2005-22 Supplementary
+
+134. Period after which remedy of delivery up not available. 135. Order as to disposal of infringing copy or other article. 136. Forfeiture of infringing copies.
 
 CHAPTER VII COPYRIGHT LICENSING
 
@@ -218,11 +222,11 @@ Implied indemnity in schemes or licences for reprographic copying
 
 Reprographic copying by educational establishments
 
-158. Power to extend coverage of scheme or licence.
-
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 159. Variation or discharge of order extending scheme or licence. 160. Appeals against orders. 161. Inquiry whether new scheme or general licence required. 162. Statutory licence where recommendation not implemented.
+2005-22
+
+158. Power to extend coverage of scheme or licence. 159. Variation or discharge of order extending scheme or licence. 160. Appeals against orders. 161. Inquiry whether new scheme or general licence required. 162. Statutory licence where recommendation not implemented.
 
 Royalty or other sum payable for lending of certain works
 
@@ -246,11 +250,11 @@ CHAPTER IX MISCELLANEOUS AND GENERAL
 
 Crown and Parliamentary copyright
 
-172. Crown copyright. 173. Copyright in Acts. 174. Parliamentary copyright. 175. Copyright in Bills. 176. Parliament: supplementary provisions with respect to copyright. 177. Copyright vesting in certain international organisations. 178. Folklore, etc: anonymous unpublished works. 179. Transitional provisions and savings. 180. Rights and privileges under other enactments or the common law.
+172. Crown copyright. 173. Copyright in Acts. 174. Parliamentary copyright. 175. Copyright in Bills. 176. Parliament: supplementary provisions with respect to copyright. 177. Copyright vesting in certain international organisations. 178. Folklore, etc: anonymous unpublished works.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22
+2005-22 179. Transitional provisions and savings. 180. Rights and privileges under other enactments or the common law.
 
 Interpretation
 
@@ -270,11 +274,11 @@ CHAPTER II ECONOMIC RIGHTS
 
 Performers’ rights
 
-202. Recording and broadcast of live performance. 203. Performer’s reproduction right. 204. Performer’s distribution right. 205. Performer’s rental and lending right. 206. Performer’s making available right.
+202. Recording and broadcast of live performance. 203. Performer’s reproduction right. 204. Performer’s distribution right.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 207. Infringement of performer’s rights by use of recording made without consent. 208. Infringement of performer’s rights by importing, possessing or dealing with illicit recordings. 209. Performer’s right to equitable remuneration for exploitation of sound recording.
+2005-22 205. Performer’s rental and lending right. 206. Performer’s making available right. 207. Infringement of performer’s rights by use of recording made without consent. 208. Infringement of performer’s rights by importing, possessing or dealing with illicit recordings. 209. Performer’s right to equitable remuneration for exploitation of sound recording.
 
 Rights of a person having recording rights
 
@@ -290,11 +294,11 @@ Duration of rights
 
 Performer’s property rights
 
-218. Performers’ property rights. 219. Assignments and licences. 220. Prospective ownership of a performer’s property rights. 221. Exclusive licences. 222. Performer’s property rights to pass under will with unpublished original recording. 223. Presumption of transfer of rental right in case of film production agreement. 224. Right to equitable remuneration where rental right transferred. 225. Equitable remuneration: reference of amount to Court. 226. Infringement actionable by rights owner. 227. Provisions as to damages in infringement action. 228. Rights and remedies of exclusive licensee. 229. Exercise of concurrent rights. 230. Requirement for signatures and its application in relation to body corporate.
+218. Performers’ property rights. 219. Assignments and licences. 220. Prospective ownership of a performer’s property rights. 221. Exclusive licences. 222. Performer’s property rights to pass under will with unpublished original recording. 223. Presumption of transfer of rental right in case of film production agreement. 224. Right to equitable remuneration where rental right transferred. 225. Equitable remuneration: reference of amount to Court. 225A. Assignment of performer’s property rights in a sound recording. 225B. Payment in consideration of assignment. 226. Infringement actionable by rights owner. 227. Provisions as to damages in infringement action.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 Non-property rights
+2005-22 228. Rights and remedies of exclusive licensee. 229. Exercise of concurrent rights. 230. Requirement for signatures and its application in relation to body corporate. Non-property rights
 
 231. Performer’s non-property rights. 232. Consent. 233. Remedies for infringement of a performer’s rights and recording rights.
 
@@ -322,11 +326,9 @@ Right to object to derogatory treatment of work
 
 Supplementary.
 
-249. Duration of rights. 250. Consent and waiver of rights. 251. Moral rights not assignable. 252. Transmission of moral rights on death.
-
 Intellectual Property (Copyright and Related Rights)
 
-2005-22
+2005-22 249. Duration of rights. 250. Consent and waiver of rights. 251. Moral rights not assignable. 252. Transmission of moral rights on death.
 
 Remedies for infringement of rights
 
@@ -344,13 +346,13 @@ Circumvention of protection measures
 
 Rights management information
 
-276. Electronic rights management information.
+Intellectual Property (Copyright and Related Rights)
+
+2005-22 276. Electronic rights management information.
 
 Computer programs
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 277. Avoidance of certain terms.
+277. Avoidance of certain terms.
 
 Databases
 
