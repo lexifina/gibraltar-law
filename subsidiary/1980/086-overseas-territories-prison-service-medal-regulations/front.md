@@ -1,12 +1,12 @@
 Subsidiary Legislation made under s.13.
 
-Colonial Prison Service Medal Regulations, 1980
+Overseas Territories Prison Service Medal Regulations, 1980
 
 LN.1980/086
 
 Commencement 21.8.1980
 
-___________________________________
+Amending enactments Relevant current provisions Commencement date LN.2013/164 rr. 1-3 14.11.2013
 
 ARRANGEMENT OF REGULATIONS
 
