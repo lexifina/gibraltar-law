@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 4.4.2013 Act. 2013-21 ss. 87(3), (7), 91(1)(a), 91(2),(3), 92(1), 92A, 92B, 93(1), 93A, 94(5),(6), 95(1),(8), 95A, 97A, 98, 99(1)(a),(b), (3), 100(1)(a), (b), (2)(c), 101(1)(a), (b), (2), (2)(c), 102(1)(a), (b), (2), 103(1)(a), (b), (3), (4), (5), (6), 104(1)(a), (b), (3), 111(2),  111A, 112(2)(b)(ii), 112A- 112D, 113A-D, 114A-D, 115A-D, 116,(1), (5A), (6A), (6B), (8), 116A- D, 117(1), (2), 117A, 305(1), 307(5)(d), 315A-F
 
-10.10.20132
+10.10.20132 2013-26 ss. 94A 28.11.2013
 
 Transposing: Directive 2011/36/EU
 
@@ -122,7 +122,7 @@ Threatening, abusive or insulting conduct
 
 Course of conduct
 
-91. Prohibition of harassment. 92. Harassing conduct. 92A.  Stalking. 92B.  Power of entry in relation to offence of stalking. 93. Civil remedy. 93A.  Injunctions to protect persons from harassment within section 91(1A). 94. Putting people in fear of violence. 95. Restraining orders on conviction. 95A.  Restraining orders on acquittal.
+91. Prohibition of harassment. 92. Harassing conduct. 92A.  Stalking. 92B.  Power of entry in relation to offence of stalking. 93. Civil remedy. 93A.  Injunctions to protect persons from harassment within section 91(1A). 94. Putting people in fear of violence. 94A.  Stalking involving fear of violence or serious alarm or distress. 95. Restraining orders on conviction. 95A.  Restraining orders on acquittal.
 
 Sending letters, etc. with intent to cause distress
 
@@ -134,7 +134,9 @@ Improper use of public electronic communications network
 
 Crimes
 
-2011-23 Harassment of a person in his home
+2011-23
+
+Harassment of a person in his home
 
 97A.  Offence of harassment etc. of a person in his home.
 
@@ -152,11 +154,11 @@ Racial hatred, religious hatred or hatred on the grounds of sexual orientation �
 
 Aggravated offences
 
-112. Meaning of “racially aggravated”. 112A.  Meaning of “religiously aggravated”. 112B.  Meaning of “disability aggravated”. 112C.  Meaning of “aggravated by reason of sexual orientation”. 112D.  Meaning of “age aggravated”. 113. Racially aggravated assaults. 113A.  Religiously-aggravated assaults. 113B.  Disability-aggravated assaults. 113C.  Aggravated assaults by reason of sexual orientation. 113D.  Age-aggravated assaults. 114. Racially aggravated criminal damage. 114A.  Religiously-aggravated criminal damage. 114B.  Disability-aggravated criminal damage.
+112. Meaning of “racially aggravated”. 112A.  Meaning of “religiously aggravated”. 112B.  Meaning of “disability aggravated”. 112C.  Meaning of “aggravated by reason of sexual orientation”. 112D.  Meaning of “age aggravated”. 113. Racially aggravated assaults. 113A.  Religiously-aggravated assaults. 113B.  Disability-aggravated assaults. 113C.  Aggravated assaults by reason of sexual orientation. 113D.  Age-aggravated assaults. 114. Racially aggravated criminal damage. 114A.  Religiously-aggravated criminal damage.
 
 Crimes
 
-2011-23 114C.  Aggravated criminal damage by reason of sexual orientation. 114D.  Age-aggravated criminal damage. 115. Racially aggravated public order offences. 115A.  Religiously-aggravated public order offences. 115B.  Disability-aggravated public order offences. 115C.  Aggravated public order offences by reason of sexual orientation. 115D.  Age-aggravated public order offences. 116. Racially aggravated harassment etc. 116A.  Religiously-aggravated harassment etc. 116B.  Disability-aggravated harassment etc. 116C.  Aggravated harassment etc. by reason of sexual orientation. 116D.  Age-aggravated harassment etc. 117. Alternative verdicts.
+2011-23 114B.  Disability-aggravated criminal damage. 114C.  Aggravated criminal damage by reason of sexual orientation. 114D.  Age-aggravated criminal damage. 115. Racially aggravated public order offences. 115A.  Religiously-aggravated public order offences. 115B.  Disability-aggravated public order offences. 115C.  Aggravated public order offences by reason of sexual orientation. 115D.  Age-aggravated public order offences. 116. Racially aggravated harassment etc. 116A.  Religiously-aggravated harassment etc. 116B.  Disability-aggravated harassment etc. 116C.  Aggravated harassment etc. by reason of sexual orientation. 116D.  Age-aggravated harassment etc. 117. Alternative verdicts.
 
 Increase in sentences
 
@@ -172,11 +174,11 @@ Knives, etc.
 
 Offensive weapons generally
 
-129. Having a knife or other offensive weapon on school premises. 130. Entry and search of school premises for knives and offensive weapons. 131. Carrying offensive weapon. 132. Dealing in offensive weapons. 133. Authorisation in anticipation of violence in an area. 134. Powers to search for and seize offensive weapons in an area.
+129. Having a knife or other offensive weapon on school premises. 130. Entry and search of school premises for knives and offensive weapons. 131. Carrying offensive weapon. 132. Dealing in offensive weapons. 133. Authorisation in anticipation of violence in an area.
 
 Crimes
 
-2011-23
+2011-23 134. Powers to search for and seize offensive weapons in an area.
 
 PART 9 EXPLOSIVE SUBSTANCES
 
@@ -200,7 +202,9 @@ Attempts to procure abortion
 
 Crimes
 
-2011-23 162. Administering drugs or using instruments. 163. Procuring drugs, etc.
+2011-23
+
+162. Administering drugs or using instruments. 163. Procuring drugs, etc.
 
 Concealing the birth of a child
 
@@ -226,11 +230,9 @@ Child abduction
 
 184. Offence of abduction of child by parent, etc. 185. Section 184: Supplementary. 186. Offence of abduction of child by other persons. 187. Construction of references to taking, sending or detaining. 188. Penalties and prosecutions for child abduction.
 
-Miscellaneous offences
-
 Crimes
 
-2011-23
+2011-23 Miscellaneous offences
 
 189. Kidnapping and false imprisonment. 190. Torture. 191. Slavery, servitude and forced or compulsory labour. 191A.  Human Trafficking. 191B.  Aggravation of offence of human trafficking. 191C.  Jurisdiction over offence. 191D.  Lack of supervision not a defence.
 
@@ -254,11 +256,11 @@ Enforcement and procedure.
 
 Miscellaneous
 
-208. Transfer of functions. 209. Abolition of liability of corporations for manslaughter at common law. 210. Power to extend section 193 to other organisations.
+208. Transfer of functions. 209. Abolition of liability of corporations for manslaughter at common law.
 
 Crimes
 
-2011-23 211. Power to extend section 194(2).
+2011-23 210. Power to extend section 193 to other organisations. 211. Power to extend section 194(2).
 
 PART 12 SEXUAL OFFENCES
 
@@ -282,7 +284,9 @@ Familial child sex offences
 
 Crimes
 
-2011-23 236. Sexual activity with a child family member. 237. Encouraging or assisting a child family member to engage in sexual activity. 238. Family relationships. 239. Sections 236 and 237: Exception for spouses. 240. Sections 236 and 237: Sexual relationships which pre-date family relationships.
+2011-23
+
+236. Sexual activity with a child family member. 237. Encouraging or assisting a child family member to engage in sexual activity. 238. Family relationships. 239. Sections 236 and 237: Exception for spouses. 240. Sections 236 and 237: Sexual relationships which pre-date family relationships.
 
 Offences against persons with a mental disorder impeding choice
 
@@ -298,11 +302,11 @@ Care workers for persons with a mental disorder
 
 Indecent photographs of children
 
-256. Simple possession of indecent photograph of a child. 257. Taking and publishing indecent photographs of children.
+256. Simple possession of indecent photograph of a child.
 
 Crimes
 
-2011-23 258. Marriage or similar relationship. 259. Exception for criminal proceedings, investigations, etc. 260. Entry, search and seizure. 261. Indecent photographs: Interpretation.
+2011-23 257. Taking and publishing indecent photographs of children. 258. Marriage or similar relationship. 259. Exception for criminal proceedings, investigations, etc. 260. Entry, search and seizure. 261. Indecent photographs: Interpretation.
 
 Abuse of children through prostitution and pornography
 
@@ -326,7 +330,9 @@ Sex trafficking
 
 Crimes
 
-2011-23 Preparatory offences
+2011-23
+
+Preparatory offences
 
 287. Administering a substance with intent. 288. Committing an offence with intent to commit a sexual offence. 289. Trespass with intent to commit a sexual offence.
 
@@ -348,11 +354,11 @@ PART 13 SEX OFFENDERS (NOTIFICATION AND ORDERS)
 
 Notification requirements
 
-306. Persons subject to notification requirements. 307. The notification period. 308. Notification requirements: Initial notification. 309. Notification requirements: Changes. 310. Notification requirements: Periodic notification. 311. Notification requirements: Travel outside Gibraltar. 312. Method of notification and related matters. 313. Young offenders: Parental directions.
+306. Persons subject to notification requirements. 307. The notification period. 308. Notification requirements: Initial notification. 309. Notification requirements: Changes. 310. Notification requirements: Periodic notification. 311. Notification requirements: Travel outside Gibraltar. 312. Method of notification and related matters.
 
 Crimes
 
-2011-23 314. Parental directions: Variation, renewal and discharge. 315. Offences relating to notification. 315A.  Review of indefinite notification requirements: qualifying relevant offender. 315B.   Review of indefinite notification requirements: application for review and qualifying dates. 315C.  Review of indefinite notification requirements: determination of application for review. 315D.  Review of indefinite notification requirements: factors applying to determination under section 315C. 315E.  Review of indefinite notification requirements: appeals. 315F.  Review of indefinite notification requirements: guidance. 316. Certificates for purposes of Part.
+2011-23 313. Young offenders: Parental directions. 314. Parental directions: Variation, renewal and discharge. 315. Offences relating to notification. 315A.  Review of indefinite notification requirements: qualifying relevant offender. 315B.   Review of indefinite notification requirements: application for review and qualifying dates. 315C.  Review of indefinite notification requirements: determination of application for review. 315D.  Review of indefinite notification requirements: factors applying to determination under section 315C. 315E.  Review of indefinite notification requirements: appeals. 315F.  Review of indefinite notification requirements: guidance. 316. Certificates for purposes of Part.
 
 Information relating to notification
 
@@ -368,11 +374,11 @@ Sexual offences prevention orders (SOPOs)
 
 Foreign travel orders
 
-333. Foreign travel orders: Application and grounds. 334. Section 333: Interpretation. 335. Section 333: Qualifying offenders. 336. Foreign travel orders: Effect. 337. Foreign travel orders: Variation, renewal and discharge.
+333. Foreign travel orders: Application and grounds. 334. Section 333: Interpretation. 335. Section 333: Qualifying offenders. 336. Foreign travel orders: Effect.
 
 Crimes
 
-2011-23 338. Foreign travel orders: Appeals. 339. Breach of a foreign travel order. 340 Entry prohibition orders.
+2011-23 337. Foreign travel orders: Variation, renewal and discharge. 338. Foreign travel orders: Appeals. 339. Breach of a foreign travel order. 340 Entry prohibition orders.
 
 Risk of sexual harm orders (RSHOs)
 
@@ -392,11 +398,11 @@ PART 15 COMPUTER MISUSE
 
 Computer misuse offences
 
-362. Unauthorised access to computer material. 363. Unauthorised access with intent to commit or facilitate commission of further offences. 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc.
+362. Unauthorised access to computer material. 363. Unauthorised access with intent to commit or facilitate commission of further offences.
 
 Crimes
 
-2011-23 365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364 or 365. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
+2011-23 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc. 365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364 or 365. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
 
 Jurisdiction
 
@@ -412,11 +418,11 @@ PART 16 THEFT AND FRAUD
 
 Definition of theft
 
-391. Basic definition of theft. 392. “Dishonestly”. 393. “Appropriates”. 394. “Property”. 395. “Belonging to another”.
+391. Basic definition of theft. 392. “Dishonestly”. 393. “Appropriates”.
 
 Crimes
 
-2011-23 396. “With the intention of permanently depriving the other of it”.
+2011-23 394. “Property”. 395. “Belonging to another”. 396. “With the intention of permanently depriving the other of it”.
 
 Theft, robbery, burglary etc.
 
@@ -438,11 +444,11 @@ Fraud
 
 415. Offence of fraud. 416. Fraud by false representation. 417. Fraud by failing to disclose information. 418. Fraud by abuse of position. 419. Possession etc. of articles for use in frauds. 420. Making or supplying articles for use in frauds. 421. Participating in fraudulent business carried on by sole trader etc. 422. Obtaining services dishonestly. 423. Fraud: Definitions. 424. Fraud: Evidence.
 
-Offences akin to fraud
-
 Crimes
 
 2011-23
+
+Offences akin to fraud
 
 425. False accounting. 426. False statements by company directors, etc. 427. Suppression, etc of documents. 428. Dishonestly retaining a wrongful credit.
 
@@ -464,11 +470,9 @@ Counterfeiting and kindred offences
 
 Penalties and powers
 
-450. Penalties for forgery offences. 451. Penalties for counterfeiting offences.
-
 Crimes
 
-2011-23 452. Powers of search and seizure. 453. Power of forfeiture.
+2011-23 450. Penalties for forgery offences. 451. Penalties for counterfeiting offences. 452. Powers of search and seizure. 453. Power of forfeiture.
 
 Counterfeiting of Euros
 
@@ -494,11 +498,11 @@ PART 19 OFFENCES RELATING TO JUDICIAL PROCEEDINGS
 
 Reporting, etc.
 
-474. Restriction on reports of family proceedings.
-
 Crimes
 
-2011-23 475. Publication of information relating to proceedings in private. 476. Restriction on reports of other judicial proceedings. 477. Taking photographs, etc. in court.
+2011-23
+
+474. Restriction on reports of family proceedings. 475. Publication of information relating to proceedings in private. 476. Restriction on reports of other judicial proceedings. 477. Taking photographs, etc. in court.
 
 Intimidation, etc.
 
@@ -524,11 +528,9 @@ Indecent displays
 
 498. Indecent displays: Offence. 499. Indecent displays: Powers of entry and seizure.
 
-PART 21 DRUGS MISUSE
-
 Crimes
 
-2011-23
+2011-23 PART 21 DRUGS MISUSE
 
 Preliminary
 
@@ -552,11 +554,9 @@ Offences and enforcement
 
 Miscellaneous
 
-525. Forfeiture. 526. Evidence and defences.
-
 Crimes
 
-2011-23 527. Licences and authorities. 528. Certificate of analysis. 529. General provisions as to regulations. 530. Advisory Council.
+2011-23 525. Forfeiture. 526. Evidence and defences. 527. Licences and authorities. 528. Certificate of analysis. 529. General provisions as to regulations. 530. Advisory Council.
 
 PART 22 CRIMINAL TRESPASS
 
@@ -582,11 +582,11 @@ PART 23 PUBLIC NUISANCES, ETC.
 
 Public nuisances
 
-547. Feeding of Barbary Macaques. 548. Noise. 549. Exemptions. 550. Other nuisances.
+547. Feeding of Barbary Macaques. 548. Noise.
 
 Crimes
 
-2011-23 551. Disposal of proceeds of sale, etc. 552. Posting bills and graffiti. 553. Prohibited areas for pleasure boats and bathing. 554. Vessels not to inconvenience bathers. 555. Underwater fishing. 556. Discharging firearms, etc.
+2011-23 549. Exemptions. 550. Other nuisances. 551. Disposal of proceeds of sale, etc. 552. Posting bills and graffiti. 553. Prohibited areas for pleasure boats and bathing. 554. Vessels not to inconvenience bathers. 555. Underwater fishing. 556. Discharging firearms, etc.
 
 Intoxication
 
@@ -612,11 +612,9 @@ Failure of commercial organisations to prevent bribery
 
 Prosecution and penalties
 
-575. Consent to prosecution. 576. Penalties.
-
 Crimes
 
-2011-23
+2011-23 575. Consent to prosecution. 576. Penalties.
 
 Miscellaneous
 
@@ -638,11 +636,11 @@ The Armed Forces
 
 PART 27 SUPPLEMENTARY PROVISIONS
 
-598. Regulations. 599. Repeals and savings. 600. Savings for other laws. 601. Transitional provisions. 602. Consequential amendments.
+598. Regulations. 599. Repeals and savings. 600. Savings for other laws. 601. Transitional provisions.
 
 Crimes
 
-2011-23
+2011-23 602. Consequential amendments.
 
 SCHEDULE 1 Forfeiture of indecent photographs of children
 
