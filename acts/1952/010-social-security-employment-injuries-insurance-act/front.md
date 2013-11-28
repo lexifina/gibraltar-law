@@ -88,7 +88,9 @@ LN. 1983/097 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Schs.2-5
 
 Social Security (Employment Injuries Insurance)
 
-1952-10
+1952-10 Act. 2013-27 ss. 5(1), 6(4), 45A, 48(3)-(4), 55(1), Sch.1
+
+28.11.2013
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
@@ -136,15 +138,17 @@ Appeals Tribunal.
 
 PART VI. ADMINISTRATION AND ENFORCEMENT.
 
-43. Appointment of inspectors and officers. 44. Employment Injuries Insurance Advisory Committee. 45. Proceedings in court. 46. Penalties for certain offences. 47. General penalty. 48. Payment of employer of unpaid contributions. 49. Limitation. 50. General power to make regulations.
+43. Appointment of inspectors and officers. 44. Employment Injuries Insurance Advisory Committee. 45. Proceedings in court. 45A.  Civil proceedings to recover sums. 46. Penalties for certain offences. 47. General penalty. 48. Payment of employer of unpaid contributions. 49. Limitation. 50. General power to make regulations.
 
 PART VII. FINANCE.
 
 Social Security (Employment Injuries Insurance)
 
-1952-10 51. Employment In juries Insurance Fund. 52. Report by actuary. 53. Exemption from stamp duty. 54. Reciprocal agreements. 55. Review of contributions, benefits, etc.
+1952-10
 
-SCHEDULE. Combined Social Insurance and Other Contribution Rates
+51. Employment In juries Insurance Fund. 52. Report by actuary. 53. Exemption from stamp duty. 54. Reciprocal agreements. 55. Review of contributions, benefits, etc.
+
+SCHEDULE 1. Combined Social Insurance and Other Contribution Rates
 
 SCHEDULE 2. Part I.–Injury Benefit. Part II. –Dependants Allowance.
 

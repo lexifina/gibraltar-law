@@ -1,4 +1,4 @@
-SCHEDULE
+SCHEDULE 1
 
 Combined Social Insurance and Other Contribution Rates.
 
@@ -39,6 +39,10 @@ Employer Contributions: £20.54 per week.
 Social Security (Employment Injuries Insurance)
 
 1952-10 Apportionment of Contributions.
+
+All contributions shall be deemed to be collected as follows–
+
+Social Security (Employment Injuries Insurance) Act 0.6% Social Security (Insurance) Act 1.2% Social Security (Open Long-Term Benefits Scheme) Act 28.2% Medical (Group Practice Scheme) Act 70%
 
 All contributions collected with effect from 1 July 2010 shall be apportioned as follows:
 
