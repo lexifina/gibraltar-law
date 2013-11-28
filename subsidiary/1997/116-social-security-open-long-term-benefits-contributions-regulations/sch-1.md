@@ -24,14 +24,8 @@ That not less than ten contributions, whether as an employed person or a self-em
 
 CONDITION V.
 
-That not less than twenty-six contributions whether as an employed person, a self-employed person or a voluntary contributor, have been paid by or
-
-Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
-
-1997-16
-
-Subsidiary 1997/116 credited to the insured person in respect of the contribution year immediately preceding the benefit year which includes the relevant week.
+That not less than twenty-six contributions whether as an employed person, a self-employed person or a voluntary contributor, have been paid by or credited to the insured person in respect of the contribution year immediately preceding the benefit year which includes the relevant week.
 
 CONDITION VI.
 
-That not less than ten contributions, whether as an employed person, a self- employed person or a voluntary contributor, have been paid by or credited to the insured person in respect of the thirteen weeks immediately preceding the relevant week.
+That not less than ten contributions, whether as an employed person, a self-employed person or a voluntary contributor, have been paid by or credited to the insured person in respect of the thirteen weeks immediately preceding the relevant week.

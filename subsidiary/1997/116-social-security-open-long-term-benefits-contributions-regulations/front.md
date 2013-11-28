@@ -1,26 +1,16 @@
-Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
+Subsidiary Legislation made under ss.4(5), 6, 7, 8 and 39.
 
-1997-16
+Social Security (Open Long-Term Benefits) (Contributions) Regulations 1997
 
-Subsidiary 1997/116 Regulations made under s. 4(5), 6, 7, 8 and 39 of the Social Security (Open Long-Term Benefits Scheme) Act 1997.
+LN.1997/116
 
-SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
-
-(LN. 1997/116)
-
-1.4.1997
+Commencement 1.4.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/163 r. 20. 30.12.1997 1999/159 r. 10A 25.11.1999 2001/035 rr. 2, 3, 3A, 3B, 3C, 4, 6(2), 21 and 22.
+LN. 1997/163 r. 20 30.12.1997 1999/159 r. 10A 25.11.1999 2001/035 rr. 2-3, 3A-3C, 4, 6(2), 21-22 19.4.2001 2003/107 r. 12(2), (4) 25.9.2003 2005/020 r. 10A(1) 1.7.2004 2004/131 r. 20 3.1.2005 2007/069 r. 12 1.7.2006 Act. 2007-17 r. 3(4) 14.6.2007 2011-29 r. 14 1.7.2009 2013-27 r. 6(7) 28.11.2013
 
-19.4.2001 2003/107 rr. 12(2) and 12(4). 25.9.2003 2005/020 r. 10A(1) 1.7.2004 2004/131 r. 20 3.1.2005 2007/069 r. 12 1.7.2006 Act. 2007-17 r. 3(4) 14.6.2007 2011-29 r. 14 1.7.2009
-
-Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
-
-1997-16
-
-Subsidiary 1997/116 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -40,14 +30,4 @@ PART III CREDITS
 
 PART IV ARREARS
 
-18.   Right to pay arrears. 19.   Arrears notices.
-
-Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
-
-1997-16
-
-Subsidiary 1997/116 20.   Rate of arrears. 21.   Method of, and time for payment of arrears. 22.   Omitted. 23.   Arrears not to be taken into account for certain purposes.
-
-SCHEDULE Conditions attaching to the credit of contributions in respect of unemployment or incapacity.
-
-Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CONTRIBUTIONS) REGULATIONS 1997
+18.   Right to pay arrears. 19.   Arrears notices. 20.   Rate of arrears. 21.   Method of, and time for payment of arrears. 22.   Omitted. 23.   Arrears not to be taken into account for certain purposes.
