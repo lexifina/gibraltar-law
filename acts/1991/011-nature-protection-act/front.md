@@ -34,11 +34,15 @@ Nature Protection
 
 18.8.2011 2012/033 ss. 2B, 2C, 7A(2)(a)-(e), 13(6A), 17DA(1)(b), 17E, 18(1)(b) & (c) & 21A
 
-19.3.2012 2013/137 Sch. 5 & 8 10.10.2013 Act.  2013-24 s. 10(1)(b) & (ba) 31.10.2013 LN. 2013/173 ss. 7A(4) & 18ZA 5.12.2013
+19.3.2012 2013/137 Sch. 5 & 8 10.10.2013 Act.  2013-24 s. 10(1)(b) & (ba) 31.10.2013 LN. 2013/173 ss. 7A(4) & 18ZA 5.12.2013 Act.  2013-16 ss. 13(1)(i), (2)(f), 18(5), (5)(a)(ia), (5)(b) & 24(e)
+
+12.12.20132
 
 Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC Directive 2013/17/EU
 
 1 The provisions of Schedule 10 of the Nature Protection Act inserted by this amendment supersede all other arrangements relating to admission fees to the Upper Rock Nature Reserve and fees collected under such other arrangements shall be deemed to have been duly collected under this Act.
+
+2 LN. 2013/179
 
 Nature Protection
 
