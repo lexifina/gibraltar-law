@@ -180,21 +180,23 @@ If the motorcycle is powered by an internal combustion engine, the cubic capacit
 
 If the motorcycle is powered by an electric motor, the power to weight ratio of the vehicle shall be at least 0,25 kW/kg;
 
+The Government may authorise until 31 December 2018 the use of motorcycles of category A whose unladen mass is below 180 kg, and with a power rating of at least 40 kW and below 50 kW.
+
 Category B:
 
 A four-wheeled category B vehicle capable of a speed of at least 100 km/h;
 
 Category BE:
 
-A combination, made up of a category B test vehicle and a trailer with a maximum authorised mass of at least 1 000 kg, capable of a speed of at least 100 km/h, which does not fall within category B; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the motor vehicle; the closed box body may also be slightly less wide than the motor vehicle provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
-
-Category B1:
+A combination, made up of a category B test vehicle and a trailer with a maximum authorised mass of at least 1 000 kg, capable of a speed of at least 100 km/h, which does not fall within category B; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the motor vehicle; the closed box body may also be slightly less wide than the motor vehicle provided that the view to the rear is only
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
+
+Category B1:
 
 A motor-powered quadricycle capable of a speed of at least 60 km/h;
 
@@ -212,13 +214,13 @@ A subcategory C1 vehicle with a maximum authorised mass of at least 4 000 kg, wi
 
 Category C1E:
 
-A combination made up of a subcategory C1 test vehicle and a trailer with a maximum authorised mass of at least 1 250 kg; this combination shall be at least 8 m in length and capable of a speed of at least 80 km/h; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the cab; the closed box body may also be slightly less wide than the cab provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
+A combination made up of a subcategory C1 test vehicle and a trailer with a maximum authorised mass of at least 1 250 kg; this combination shall be at least 8 m in length and capable of a speed of at least 80 km/h; the cargo compartment of the trailer shall consist of a closed box body which is at
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] least as wide and as high as the cab; the closed box body may also be slightly less wide than the cab provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
 
 Category D:
 
@@ -242,13 +244,13 @@ Testing vehicles for categories BE, C, CE, C1, C1E, D, DE, D1 and D1E which are 
 
 6.1. Preparation and technical check of the vehicle with a bearing on road safety
 
-Applicants must demonstrate that they are capable of preparing to ride safely by satisfying the following requirements:
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 6.1.1. Adjust the protective outfit, such as gloves, boots, clothes and safety helmet;
+Subsidiary [1958.03.06] Applicants must demonstrate that they are capable of preparing to ride safely by satisfying the following requirements:
+
+6.1.1. Adjust the protective outfit, such as gloves, boots, clothes and safety helmet;
 
 6.1.2. Perform a random check on the condition of the tyres, brakes, steering, emergency stop switch (if applicable), chain, oil levels, lights, reflectors, direction indicators and audible warning device.
 
@@ -272,15 +274,13 @@ Applicants must perform all the following actions in normal traffic situations, 
 
 6.3.2. Riding on straight roads; passing oncoming vehicles, including in confined spaces;
 
-6.3.3. Riding round bends;
-
-6.3.4. Crossroads: approaching and crossing of intersections and junctions;
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] 6.3.3. Riding round bends;
+
+6.3.4. Crossroads: approaching and crossing of intersections and junctions;
 
 6.3.5. Changing direction: left and right turns; changing lanes;
 
@@ -310,13 +310,13 @@ Applicants must demonstrate that they are capable of preparing to drive safely b
 
 7.1.6. Checking the coupling mechanism and the brake and electrical connections (category BE only). 7.2. Categories B and B1: special manoeuvres to be tested with a bearing on road safety
 
-A selection of the following manoeuvres shall be tested (at least two manoeuvres for the four points, including one in reverse gear):
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 7.2.1. Reversing in a straight line or reversing right or left round a corner while keeping within the correct traffic lane;
+Subsidiary [1958.03.06] A selection of the following manoeuvres shall be tested (at least two manoeuvres for the four points, including one in reverse gear):
+
+7.2.1. Reversing in a straight line or reversing right or left round a corner while keeping within the correct traffic lane;
 
 7.2.2. Turning the vehicle to face the opposite way, using forward and reverse gears;
 
@@ -348,13 +348,11 @@ Applicants must perform all the following actions in normal traffic situations, 
 
 7.4.6. Approach/exit of motorways or similar (if available): joining from the acceleration lane; leaving on the deceleration lane;
 
-7.4.7. Overtaking/passing: overtaking other traffic (if possible); driving alongside obstacles, e.g. parked cars; being overtaken by other traffic (if appropriate);
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] 7.4.7. Overtaking/passing: overtaking other traffic (if possible); driving alongside obstacles, e.g. parked cars; being overtaken by other traffic (if appropriate);
 
 7.4.8. Special road features (if available): roundabouts; railway level crossings; tram/bus stops; pedestrian crossings; driving up-/downhill on long slopes;
 
@@ -382,13 +380,13 @@ Applicants must demonstrate that they are capable of preparing to drive safely b
 
 8.1.8. Being capable of taking special vehicle safety measures; controlling the body, service doors, emergency exits, first aid equipment, fire extinguishers and other safety equipment (categories D, DE, D1, D1E only);
 
-8.1.9. Reading a road map, route planning, including the use of electronic navigation systems (optional).
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
 Subsidiary [1958.03.06]
+
+8.1.9. Reading a road map, route planning, including the use of electronic navigation systems (optional).
 
 8.2. Special manoeuvres to be tested with a bearing on road safety
 
@@ -418,15 +416,15 @@ Applicants must perform all the following actions in normal traffic situations, 
 
 8.3.7. Overtaking/passing: overtaking other traffic (if possible); driving alongside obstacles, e.g. parked cars; being overtaken by other traffic (if appropriate);
 
-8.3.8. Special road features (if available): roundabouts; railway level crossings; tram/bus stops; pedestrian crossings; driving up-/downhill on long slopes; 8.3.9. Taking the necessary precautions when alighting from the vehicle.
-
-8.4.Safe and energy-efficient driving
+8.3.8. Special road features (if available): roundabouts; railway level crossings; tram/bus stops; pedestrian crossings; driving up-/downhill on long slopes;
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] 8.3.9. Taking the necessary precautions when alighting from the vehicle.
+
+8.4.Safe and energy-efficient driving
 
 8.4.1. Driving in such a way as to ensure safety and to reduce fuel consumption and emissions during acceleration, deceleration, uphill and downhill driving, when necessary by selecting gears manually.
 
@@ -446,7 +444,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 9.3.2. Driving economically and in a safe and energy-efficient way, taking into account the revolutions per minute, changing gears, braking and accelerating (categories B, BE, C, CE, C1, C1E, D, DE, D1, D1E only);
+Subsidiary [1958.03.06]
+
+9.3.2. Driving economically and in a safe and energy-efficient way, taking into account the revolutions per minute, changing gears, braking and accelerating (categories B, BE, C, CE, C1, C1E, D, DE, D1, D1E only);
 
 9.3.3. Observation: all-round observation; proper use of mirrors; far, middle, near distance vision;
 
