@@ -8,7 +8,7 @@ Act No 2010-21 Commencement (LN.2010/180) 1.1.2011
 
 Assent 1.11.2010
 
-Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013
+Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU
 
@@ -82,9 +82,11 @@ Table C
 
 Other income
 
-Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 4 Pension, charge or annuity income. Class 5 Sweeping up class.
+Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 3A Royalties Class 4 Pension, charge or annuity income. Class 5 Sweeping up class.
 
-SCHEDULE 2
+Income Tax
+
+2010-21 SCHEDULE 2
 
 THE INCOME TAX TRIBUNAL
 
@@ -97,10 +99,6 @@ Part II- Procedure
 5. Quorum. 6. Procedure. 7. Attendance of Commissioner. 8. Privacy of proceedings. 9. Adjournment. 10. Representation. 11. Procedure in hearings. 12. Tribunal decisions.
 
 Part III- Powers
-
-Income Tax
-
-2010-21
 
 13. Power to vary assessments. 14. Information power. 15. Power to summons witnesses.
 
@@ -120,6 +118,10 @@ SCHEDULE 3
 
 RULES FOR ASCERTAINING PROFITS OR GAINS
 
+Income Tax
+
+2010-21
+
 Part I-General
 
 1. Measure of profits or gains. 2. Deductions not allowable. 3. Items to be included in net profits. 4. Contributions to approved pension funds.
@@ -136,11 +138,7 @@ Chapter 2- Industrial buildings
 
 Chapter 3 – First Year Allowances
 
-8. Plant and machinery. 9. Interpretation.
-
-Income Tax
-
-2010-21 10. First year allowance other than computer equipment. 11. First year allowance- computer equipment. 12. Basis period for first year allowance. 12A. Deduction for construction costs.
+8. Plant and machinery. 9. Interpretation. 10. First year allowance other than computer equipment. 11. First year allowance- computer equipment. 12. Basis period for first year allowance. 12A. Deduction for construction costs.
 
 Chapter 4 - Written down allowances
 
@@ -160,6 +158,10 @@ SCHEDULE 4
 
 ANTI-AVOIDANCE
 
+Income Tax
+
+2010-21
+
 1. Anti-avoidance.
 
 Part I
@@ -178,9 +180,7 @@ Part III
 
 Definitions
 
-Income Tax
-
-2010-21 8. Interpretation. 9. Connected persons. 10. Control. 11. Participator.
+8. Interpretation. 9. Connected persons. 10. Control. 11. Participator.
 
 Part IV
 
@@ -194,7 +194,11 @@ Part I
 
 Parent and Subsidiary Company Directive
 
-1. Interpretation. 2. Parent and subsidiary companies. 3. Corporation tax.
+1. Interpretation.
+
+Income Tax
+
+2010-21 2. Parent and subsidiary companies. 3. Corporation tax.
 
 Part II
 
@@ -202,9 +206,7 @@ Taxation applicable to Interest and Royalty payments made between associated com
 
 4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
 
-Income Tax
-
-2010-21 TABLE A
+TABLE A
 
 Part I
 
@@ -222,7 +224,11 @@ Part 1
 
 Tax at the higher rate on utilities
 
-1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
+1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions.
+
+Income Tax
+
+2010-21 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
 
 Part II-Taxation on companies who abuse a dominant position
 
@@ -234,9 +240,7 @@ BENEFITS IN KIND
 
 Chapter 1
 
-Income Tax
-
-2010-21 General
+General
 
 1. Earnings. 2. Meaning of “director” and “full-time working director”. 3. Meaning of “material interest” in a company. 4. Extended meaning of “control”. 5. Meaning of “close company”.
 
@@ -252,6 +256,10 @@ Taxable benefits; vouchers and credit tokens
 
 7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies. 9. Credit tokens. 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
 
+Income Tax
+
+2010-21
+
 Chapter 4
 
 Living accommodation
@@ -262,11 +270,7 @@ Chapter 5
 
 Cars, vans and related benefits
 
-20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use.
-
-Income Tax
-
-2010-21 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
+20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use. 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
 
 Chapter 6
 
@@ -278,19 +282,23 @@ Chapter 7
 
 Taxable benefits; residual liability to charge
 
+Income Tax
+
+2010-21
+
 37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
 
 Chapter 8
 
 Exemptions; removal benefits and expenses.
 
-52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies.
+52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
+
+Chapter 9
 
 Income Tax
 
-2010-21 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
-
-Chapter 9
+2010-21
 
 Dispensations from obligations to report Benefits-in-kind
 
@@ -305,10 +313,6 @@ Miscellaneous
 SCHEDULE 8
 
 PENALTY TABLES
-
-Income Tax
-
-2010-21
 
 Table A- Overall amount of tax lost.
 
@@ -330,7 +334,11 @@ Part II
 
 Transitional Provisions
 
-2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Payments on account. 11. Liquidations, etc. 12. The surcharge/penalties.
+2. Cessation.
+
+Income Tax
+
+2010-21 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Payments on account. 11. Liquidations, etc. 12. The surcharge/penalties.
 
 Part III
 
