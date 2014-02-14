@@ -10,7 +10,7 @@ Technical requirements Regulation 6(1)(g)
 
 2. Sites for treatment of WEEE:
 
-— balances to measure the weight of the treated waste;
+— scales to measure the weight of the treated waste;
 
 — impermeable surfaces and waterproof covering for appropriate areas with the provision of spillage collection facilities and, where appropriate, decanters and cleanser-degreasers;
 
