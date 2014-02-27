@@ -16,7 +16,7 @@ Act. 2006-21 ss. 61(3), 62(4), 63(2) & 65(2), Part IV (ss.254-269), Schs. 2, 4 &
 
 20.7.2006 LN.  2013/1531 ss. 13A, 15(8), 16(2),(2)(b), (c), 209(1), 217(b),(c), 225A, 225B & 231
 
-1.11.2013
+1.11.2013 Act.   2014-04 s. 187 27.2.2014
 
 Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU
 
