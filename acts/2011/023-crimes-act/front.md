@@ -16,7 +16,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 10.10.20132 2013-26 ss. 94A 28.11.2013 LN.  2013/189 ss. 228(5)(b), 229(5)(b), 230(5)(b), 231(5)(b), 251(3)(b) & 252(3)(b)
 
-18.12.2013
+18.12.2013 Act. 2014-03 s. 547 27.2.2014
 
 Transposing: Directive 2011/36/EU Directive 2011/93/EU
 
