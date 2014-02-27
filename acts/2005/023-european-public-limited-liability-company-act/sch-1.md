@@ -2,7 +2,7 @@ SCHEDULE 1 Section 14
 
 PROVISIONS APPLYING TO THE REGISTRATION OF SEs
 
-1.  Wherever any act is by this Act or the Companies Act directed to be done to or by the Registrar, it shall be done by the existing Registrar, or to or by such person as the Minister with responsibility for Trade and Industry may for the time being authorise.
+1.  Wherever any act is by this Act or the Companies Act directed to be done to or by the Registrar, it shall be done by the existing Registrar, or to or by such person as the Minister with responsibility for financial services may for the time being authorise.
 
 2.(1)  The Registrar shall allocate to every SE a number, which shall be known as the SE’s registered number.
 
