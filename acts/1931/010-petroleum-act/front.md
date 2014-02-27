@@ -10,7 +10,7 @@ Act. No. 1931-10 Commencement 18.1.1932 Assent 28.12. 1931
 
 Amending Enactment Relevant current provisions Commencement date Act. 1935-08 – 1954-16 ss. 2, 5, 8, 9 Order of 14.10.1969 s. 5(1) Act. 1991-21 s. 9 18.7.1991 1997-23 ss. 2, 3, 5(1), (2), 7(1), (d), (l), 7A, 8, 11, 12, 13, 14, 15, 16
 
-21.8.1997 2007-17 s. 10(1) 14.6.2007 LN. 2011/150 s. 16A 22.9.2011
+21.8.1997 2007-17 s. 10(1) 14.6.2007 LN. 2011/150 s. 16A 22.9.2011 Act. 2014-04 s. 2 27.2.2014
 
 Transposing: Directive 68/414/EEC Directive 2008/99/EC
 
