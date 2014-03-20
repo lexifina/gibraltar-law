@@ -860,7 +860,7 @@ Subsidiary [1958.03.06] shovelling work which– (i) are used on roads only for 
 
 (i) are used on roads only either as cranes in connection with work being carried out on a site in the immediate vicinity or for the purpose of proceeding to and from a place where they are to be used as cranes; and
 
-(ii)  when so proceeding neither carry nor haul any load other than such as is necessary for their propulsion or equipment £20.00 3. Vehicles designed, constructed and used exclusively as ambulances £10.00 4. Vehicles designed, constructed and used as fire engines £10.00 5. Roadrollers £10.00 6. Invalid carriages Nil 7. Pedestrian controlled vehicles £5.00 8. Vehicles of any description (other than road rollers) including those referred to in this Part which are not equipped with pneumatic  tyres on all wheels Double the fee that would be chargeable under the appropriate section of this Part.
+(ii)  when so proceeding neither carry nor haul any load other than such as is necessary for their propulsion or equipment £20.00 3. Vehicles designed, constructed and used exclusively as ambulances £10.00 4. Vehicles designed, constructed and used as fire engines £10.00 5. Roadrollers £10.00 6. Invalid carriages Nil 7. Pedestrian controlled vehicles £5.00 8. Vehicles of any description (other than road rollers) including those referred to in this Part which are not equipped with pneumatic  tyres on all wheels Double the fee that would be chargeable under the appropriate section of this Part. 9. Classic motor vehicle Nil
 
 SECTION 6. – COMPUTATION OF WEIGHT, ETC., OF VEHICLES FOR THE PURPOSES OF THIS SCHEDULE.
 
