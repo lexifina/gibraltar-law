@@ -26,15 +26,15 @@ Identification,
 
 Main characteristics,
 
-Ownership and management,
+Ownership and management, Construction details,
 
-Construction details,
+Minimum safe manning,
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ACCIDENT REPORTING AND INVESTIGATION) REGULATIONS 2012
 
 1995-13
 
-Subsidiary 2012/023 Minimum safe manning,
+Subsidiary 2012/023
 
 Authorised cargo.
 
@@ -78,11 +78,13 @@ Actions taken,
 
 Results achieved.
 
+3. NARRATIVE
+
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ACCIDENT REPORTING AND INVESTIGATION) REGULATIONS 2012
 
 1995-13
 
-Subsidiary 2012/023 3. NARRATIVE
+Subsidiary 2012/023
 
 This part reconstructs the marine casualty or incident through a sequence of events, in a chronological order leading up to, during and following the marine casualty or incident and the involvement of each actor (i.e. person, material, environment, equipment or external agent). The period covered by the narrative depends on the timing of those particular accidental events that directly contributed to the marine casualty or incident. This part also includes any relevant details of the safety investigation conducted, including the results of examinations or tests.
 
@@ -110,9 +112,7 @@ Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ACCIDENT
 
 1995-13
 
-Subsidiary 2012/023
-
-When appropriate, this part of the report contains safety recommendations derived from the analysis and conclusions and related to particular subject areas, such as legislation, design, procedures, inspection, management, health and safety at work, training, repair work, maintenance, shore assistance and emergency response.
+Subsidiary 2012/023 When appropriate, this part of the report contains safety recommendations derived from the analysis and conclusions and related to particular subject areas, such as legislation, design, procedures, inspection, management, health and safety at work, training, repair work, maintenance, shore assistance and emergency response.
 
 The safety recommendations are addressed to those that are best placed to implement them, such as ship owners, managers, recognised organisations, maritime authorities, vessel traffic services, emergency bodies, international maritime organisations and European institutions, with the aim of preventing marine casualties.
 
