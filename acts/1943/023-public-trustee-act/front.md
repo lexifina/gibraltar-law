@@ -10,7 +10,7 @@ Act. No. 1943-23 Commencement 1.11.1943 Assent 4.10.1943
 
 Amending enactment Relevant current provisions Commencement date
 
-Act. 1983-48 s. 15(2) 2007-17 ss. 4(1), (2), 14(1), 15(1) 14.6.2007
+Act. 1983-48 s. 15(2) 2007-17 ss. 4(1), (2), 14(1), 15(1) 14.6.2007 2014-10 s. 10(1) 28.3.2014
 
 English Sources Public Trustee Act 1906 (6 Edw.7 c.55)
 
