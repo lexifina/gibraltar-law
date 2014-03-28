@@ -36,17 +36,7 @@ Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 LN. 2013/1321 r. 44(2), Schs.2, 5 24.6.2013
-
-1 Death grant - partial satisfaction of contribution conditions.
-
-3.(1)  This regulation applies in respect of deaths that occurred during the period from 6th July 2006 to 23rd June 2013, inclusive of both dates.
-
-(2)  Where a person would be entitled to a death grant of the amount specified in Part VI of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the yearly average of contributions paid or credited, that person would nevertheless be entitled to a grant in accordance with subregulation (3), if the yearly average of contributions paid or credited was not less than thirteen.
-
-(3)  Death grant shall be payable at the reduced rate specified in column (2) of the table below which corresponds with the number of contributions paid or credited in the relevant contribution year as shown in column (1) of the table–
-
-(1) (2) Yearly average of contributions paid or credited Reduced rates at which Death Grant is payable 30-44 £301 13-29 £200
+Subsidiary 1955.08.04-4 LN. 2013/132 r. 44(2), Schs.2, 5 24.6.2013 Act. 2014-10 rr. 2, 4(1)(b), 9(b), 39(1)(a), (c) 28.3.2014
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
@@ -176,7 +166,7 @@ Interpretation.
 
 “parent” includes a step-parent.
 
-(2)  For the purposes of the Act and of these regulations, a man and his wife shall not be deemed to be living otherwise than together unless they are permanently living in separation either by agreement or under an order of a court, or one of them has deserted the other and the separation which is incident to the desertion has not come to an end.
+(2)  For the purposes of the Act and of these regulations, a man and his wife or civil partner shall not be deemed to be living otherwise than together unless they are permanently living in separation either by agreement or under an order of a court, or one of them has deserted the other and the separation which is incident to the desertion has not come to an end.
 
 Computation of earnings or remuneration.
 
@@ -210,7 +200,7 @@ Provisions as to maintenance.
 
 and not otherwise;
 
-(b)  for the purposes of this paragraph a man and his wife living together shall be treated as one person and amounts contributed by them respectively shall be aggregated accordingly
+(b)   for the purposes of this paragraph a man and his wife or civil partner living together shall be treated as one person and amounts contributed by them respectively shall be aggregated accordingly
 
 (c)  for the purposes of this paragraph–
 
@@ -272,7 +262,7 @@ PART II.–MATERNITY BENEFITS.
 
 Maternity grant in expectation of confinement.
 
-9. In a case where a woman makes a claim for a maternity grant and indicates therein that she desires that the provisions of section 11 of the Act shall apply to her with the substitution, for the condition that she has been confined, of the condition that it is to be expected that she will be confined,–
+9.In a case where a woman makes a claim for a maternity grant and indicates therein that she desires that the provisions of section 11 of the Act shall apply to her with the substitution, for the condition that she has been confined, of the condition that it is to be expected that she will be confined,–
 
 (a)  that section shall so apply to her in relation to that claim; and
 
@@ -284,7 +274,7 @@ Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 Subsidiary 1955.08.04-4
 
-(b) the expression “relevant time” means the contribution week in which it is to be expected that the claimant will be confined or, where the relevant person is the husband and he was dead or over pensionable age on the date of the making of the claim, the date of his attaining pensionable age, or dying under that age.
+(b) the expression “relevant time” means the contribution week in which it is to be expected that the claimant will be confined or, where the relevant person is the husband or civil partner and he or she was dead or over pensionable age on the date of the making of the claim, the date of his attaining pensionable age, or dying under that age.
 
 Certificates of confinement or expected confinement.
 
@@ -372,11 +362,11 @@ Priority of two or more claimants satisfying the conditions for death grant.
 
 39.(1)  Subject to the provisions of the Act and these regulations, where two or more claimants satisfy the conditions for receipt of a death grant in respect of the same death, that claimant shall be entitled to the grant who has incurred the expense of the actual burial or cremation and who–
 
-(a)  in the case of the death of the relevant person (being married) is the widow or widower of that person; or
+(a)  in the case of the death of the relevant person (being married or in a civil partnership) is the widow, widower or surviving civil partner that person; or
 
 (b)  in the case of the death of the relevant person (being unmarried) is a parent of that person; or
 
-(c)  in the case of the death of the husband or wife of the relevant person, is the relevant person; or
+(c)  in the case of the death of the husband, wife or civil partner the relevant person, is the relevant person; or
 
 (d)  in the case of the death of a child of the family of the relevant person, is the relevant person.
 
