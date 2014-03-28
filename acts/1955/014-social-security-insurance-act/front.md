@@ -122,7 +122,9 @@ Social Security (Insurance)
 
 1955-14 LN. 2013/131 Sch.2 23.6.2013 Act. 2013-27 ss. 4(2)(a)-(b), 43(5), 45(2), (4)-(5), 52(1)-(2), Sch.1
 
-28.11.2013
+28.11.2013 2014-10 ss. 2(3)(a), (4)(c), 11(1)(b), 18(1)(b), 23(1), 27(2), (4), 28(2), 38(2)(d), 41(1), (2), (a), (4), 44(5), 49(1), Sch.3
+
+28.3.2014
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -196,7 +198,7 @@ Administration.
 
 Social Security (Insurance)
 
-1955-14 40. Inspectors. 41. Information as to, and proof of, age, marriage and death. 42. Exemption from stamp duty.
+1955-14 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
 
 Legal Proceedings.
 
@@ -290,7 +292,7 @@ Social Security (Insurance)
 
 (3)  For the purposes of this Act each of the following shall be treated as constituting a family, that is to say-
 
-(a)  a man and his wife living together and any child or children living together with them who is or are either issue of theirs, his or hers, or maintained by them;
+(a)  a man and his wife or civil partners living together and any child or children living together with them who is or are either issue of theirs, his or hers, or maintained by them;
 
 (b)  a man not having a wife or not living together with his wife and any child or children living together with him who is or are either issue of his, or maintained by him;
 
@@ -304,11 +306,13 @@ Where a child could otherwise be treated as included at the same time in one fam
 
 (b)  where a child born before the marriage of the child’s parents has been legitimated by virtue of the subsequent marriage of the parents, the child shall be deemed to be issue of the marriage;
 
-(c)  an adopted child within the meaning of the Adoption Act shall be treated as if the child were legitimate issue of the adopter, or, if the child was adopted by two spouses jointly, or by one of two spouses after their marriage, as if the child were legitimate issue of their marriage, and shall not be treated as being issue of any other person;
+(c)  an adopted child within the meaning of the Adoption Act shall be treated as if the child were legitimate issue of the adopter, or, if the child was adopted by two spouses or civil partners jointly, or by one of two spouses or civil partners after their marriage, or civil partnership, as the case may be; as if the child were legitimate issue of their marriage, or civil partnership and shall not be treated as being issue of any other person;
 
 Social Security (Insurance)
 
-1955-14 (d)  an illegitimate child shall not be treated as being issue of the child’s father;
+1955-14
+
+(d)  an illegitimate child shall not be treated as being issue of the child’s father;
 
 (e)  references to the parents, a parent, the father or the mother of a child, or to an illegitimate child shall be construed in accordance with the foregoing provisions of this subsection.
 
@@ -332,11 +336,9 @@ Description of insured persons.
 
 3. (1)  Subject to the provisions of this Act, every person who on or after the 6th day of January, 1975, is–
 
-(a)  under pensionable age; and
-
 Social Security (Insurance)
 
-1955-14
+1955-14 (a)  under pensionable age; and
 
 (b)  either self-employed or in insurable employment under the Social Security (Employment Injuries Insurance) Act,
 
@@ -538,9 +540,9 @@ Social Security (Insurance)
 
 (a) she has been confined; and
 
-(b) she or her husband satisfies the relevant contribution conditions;
+(b) she or her husband or civil partner satisfies the relevant contribution conditions;
 
-Provided that she shall not be entitled to a maternity grant by virtue of both of her own and of her husband’s insurance.
+Provided that she shall not be entitled to a maternity grant by virtue of both of her own and of her husband’s or civil partner’s insurance.
 
 (2)  Except where regulations otherwise provide, a woman shall not be entitled to a maternity grant in respect of a confinement if on the date of the confinement she is outside Gibraltar or the Campo district.
 
@@ -600,7 +602,7 @@ Death grant.
 
 (a)  he has reasonably incurred or reasonably intends to incur, in connection with the deceased’s death, expenses to which this section applies; and
 
-(b)  the deceased either himself satisfied the relevant contribution conditions, or was at death the husband, wife, widower, widow or a child of the family, of a person satisfying those conditions, or a child who–
+(b)  the deceased either himself satisfied the relevant contribution conditions, or was at death the husband, wife, civil partner, widower, widow, surviving civil partner or a child of the family, of a person satisfying those conditions, or a child who–
 
 (i) had, immediately before the death of some person satisfying those conditions, been a child of the family of that other person; or
 
@@ -676,7 +678,7 @@ and any claim for benefit under the Social Security (Employment Injuries Insuran
 
 Disqualification or suspension for absence abroad or imprisonment.
 
-23. Except where regulations otherwise provide, a person shall be disqualified for receiving any benefit, and an increase of benefit shall not be payable in respect of any person as the beneficiary’s wife or husband, for any period during which that person–
+23. Except where regulations otherwise provide, a person shall be disqualified for receiving any benefit, and an increase of benefit shall not be payable in respect of any person as the beneficiary’s wife or husband, or civil partner for any period during which that person–
 
 (a)  is absent from Gibraltar or the Campo district; or
 
@@ -710,23 +712,25 @@ Social Security (Insurance)
 
 and by reason thereof that person has lost, in whole or in part, any maternity grant or maternity allowance to which she would have been entitled, that person shall be entitled to recover summarily from the employer as a civil debt a sum equal to the amount of the grant so lost.
 
-(2)  Where the employed person is a man, his wife or widow shall have the same right to recover under subsection (1) in respect of maternity grant or maternity allowance lost by her as if the employer’s failure or neglect had been in respect of her.
+(2)  Where the employed person is a man, his wife, civil partner or widow or surviving civil partner shall have the same right to recover under subsection (1) in respect of maternity grant or maternity allowance lost by her as if the employer’s failure or neglect had been in respect of her.
 
 (3)  Proceedings may be taken under this section notwithstanding that proceedings have been taken under any other provision of this Act in respect of the same failure or neglect.
 
-(4)  Proceedings under this section may, notwithstanding any enactment to the contrary, be brought at any time within one year after the date on which the employed person or his wife or widow, but for the failure or neglect of the employer, would have been entitled to receive the benefit lost.
+(4)  Proceedings under this section may, notwithstanding any enactment to the contrary, be brought at any time within one year after the date on which the employed person or his wife or civil partner or widow or surviving civil partner, but for the failure or neglect of the employer, would have been entitled to receive the benefit lost.
 
 Provisions as to maintenance and incapacity for self-support.
 
 28.(1)  Regulations may provide for determining the circumstances in which a person is or is not to be deemed for the purposes of applying the provisions of this Part to the calculation of benefits payable under the Social Security (Non-Contributory Benefits and Unemployment Insurance) Act, to be wholly or mainly maintaining another person.
 
-(2)  Regulations under subsection (1) may provide, for the purpose of the provisions relating to an increase of benefit in respect of a husband, wife or other adult dependant, that where-
+(2)  Regulations under subsection (1) may provide, for the purpose of the provisions relating to an increase of benefit in respect of a husband, wife, civil partner or other adult dependant, that where-
 
 (a)  a person is partly maintained by each of two or more beneficiaries, each of whom would be entitled to such an increase in respect of that person if he were wholly or mainly maintaining that person; and
 
 Social Security (Insurance)
 
-1955-14 (b)  the contributions made by those two or more beneficiaries towards the maintenance of the person amount in the aggregate to sums which would, if they had been contributed by one of those beneficiaries, be sufficient to satisfy the requirements of regulations made by virtue of subsection (1),
+1955-14
+
+(b)  the contributions made by those two or more beneficiaries towards the maintenance of the person amount in the aggregate to sums which would, if they had been contributed by one of those beneficiaries, be sufficient to satisfy the requirements of regulations made by virtue of subsection (1),
 
 that person shall be deemed for the purpose of those provisions to be wholly or mainly maintained by such of those beneficiaries as may be prescribed.
 
@@ -750,13 +754,11 @@ together with the costs of the administration of the Fund.
 
 (3)  Accounts of the Fund shall be prepared in such form, in such manner and at such times as the Financial Secretary may direct, and the Principal Auditor shall examine and certify every such account.
 
-(4)  Any moneys forming part of the Fund may from time to time be invested, in accordance with such directions as may be given by the
-
 * Referred to as the “Social Insurance (Short-Term Benefits) Fund” in the Public Finance (Control and Audit) Act.
 
 Social Security (Insurance)
 
-1955-14 Financial Secretary and any interest received from such investments shall be credited to the Fund.
+1955-14 (4)  Any moneys forming part of the Fund may from time to time be invested, in accordance with such directions as may be given by the Financial Secretary and any interest received from such investments shall be credited to the Fund.
 
 (5)  Revoked.
 
@@ -786,7 +788,9 @@ Determination of claims and questions by Director.
 
 Social Security (Insurance)
 
-1955-14 Provided that any question of law arising in connection with such determination may, if the Director thinks fit, at the instance of the Attorney- General, be referred for decision to the Supreme Court.
+1955-14
+
+Provided that any question of law arising in connection with such determination may, if the Director thinks fit, at the instance of the Attorney- General, be referred for decision to the Supreme Court.
 
 (2)  References and appeals to the Supreme Court under this Act shall be governed by rules of court and such rules shall provide for limiting the time within which appeals may be brought.
 
@@ -890,11 +894,11 @@ Interim payments, arrears and repayments.
 
 (c)  for treating any benefit paid to any person under an award or by virtue of any provision of the regulations, which it is subsequently decided was not payable, as properly paid or as paid on account of any other benefit which it is decided was payable to him, or for the repayment of any such benefit and the recovery thereof by deduction from other benefit or otherwise;
 
-(d)  for treating benefit paid to one person in respect of another as being a child of the family, or the wife or husband or an adult dependant, of the first-mentioned person as having been properly paid for any period, notwithstanding that under regulations relating to overlapping benefits it is not payable for that period by reason of a subsequent decision either–
+(d)  for treating benefit paid to one person in respect of another as being a child of the family, or the wife or husband, or civil partner or an adult dependant, of the first-mentioned person as having been properly paid for any period, notwithstanding that under regulations relating to overlapping benefits it is not
 
 Social Security (Insurance)
 
-1955-14
+1955-14 payable for that period by reason of a subsequent decision either–
 
 (i) that the other person is himself entitled to benefit for that period; or
 
@@ -916,11 +920,11 @@ Inspectors.
 
 (b)  to make such examination and inquiry as may be necessary for ascertaining whether the provisions of this Act are being or have been complied with in any such premises or place;
 
-(c)  to examine, either alone or in the presence of any other person, as he thinks fit, with respect to any matters under this Act on which he may reasonably require information, every person whom he finds in any such premises or place, or whom he has
+(c)  to examine, either alone or in the presence of any other person, as he thinks fit, with respect to any matters under this Act on which he may reasonably require information, every person
 
 Social Security (Insurance)
 
-1955-14 reasonable cause to believe to be or to have been an insured person, and to require every such person to be so examined;
+1955-14 whom he finds in any such premises or place, or whom he has reasonable cause to believe to be or to have been an insured person, and to require every such person to be so examined;
 
 (d)  to exercise such other powers as may be necessary for carrying this Act into effect.
 
@@ -938,19 +942,19 @@ Provided that no one shall be required under this section to answer any question
 
 (6)  Every inspector shall be furnished with a certificate of his appointment, and on applying for admission to any premises or place for the purposes of this Act shall, if so required, produce such certificate.
 
-(7)  The premises and places liable to inspection under this section are any premises or places where an inspector appointed under this Act has reasonable grounds for supposing that any persons are self-employed or
+(7)  The premises and places liable to inspection under this section are any premises or places where an inspector appointed under this Act has
 
 Social Security (Insurance)
 
-1955-14 employed, except that they do not include any private dwelling-house not used by or by permission of the occupier for the purposes of a trade or business.
+1955-14 reasonable grounds for supposing that any persons are self-employed or employed, except that they do not include any private dwelling-house not used by or by permission of the occupier for the purposes of a trade or business.
 
-Information as to, and proof of, age, marriage and death.
+Information as to, and proof of, age, marriage, civil partnership and death.
 
-41.(1)  Rules made under the Births and Deaths Registration Act and the Marriage Act may provide for the furnishing by the Registrar subject to the payment of such fee as may be prescribed by the rules, of such information for the purposes of this Act including copies or extracts from the registers in their custody, as may be so prescribed.
+41.(1)  Rules made under the Births and Deaths Registration Act, the Marriage Act and the Civil Partnership Act 2014 may provide for the furnishing by the Registrar subject to the payment of such fee as may be prescribed by the rules, of such information for the purposes of this Act including copies or extracts from the registers in their custody, as may be so prescribed.
 
-(2)  Where the age, marriage or death of a person is required to be ascertained or proved for the purposes of this Act, any person shall
+(2)  Where the age, marriage, civil partnership or death of a person is required to be ascertained or proved for the purposes of this Act, any person shall
 
-(a)  on presenting to the custodian of the register under the laws relating to the registration of births, marriages and deaths, wherein particulars of the birth, marriage or death, as the case may be of the first mentioned person are entered, a duly completed requisition in writing in that behalf; and
+(a)  on presenting to the custodian of the register under the laws relating to the registration of births, marriages, civil partnerships and deaths, wherein particulars of the birth, marriage, civil partnership or death, as the case may be of the first mentioned person are entered, a duly completed requisition in writing in that behalf; and
 
 (b)  on payment of the prescribed fee,
 
@@ -960,17 +964,19 @@ be entitled to obtain a copy, certified under the hand of the custodian, of the 
 
 (3)  Requisitions for the purposes of subsection (2) shall be in such form and contain such particulars as may from time to time be specified by the Registrar, and suitable forms thereof shall, on request, be supplied without charge by the Registrar.
 
-(4)  In this section the word “Registrar” means either the Registrar of Births and Deaths appointed under the Births and Deaths Registration Act, or the Marriage Registrar, appointed under the Marriage Act, as the case may be.
+(4)  In this section the word “Registrar” means either the Registrar of Births and Deaths appointed under the Births and Deaths Registration Act, the Marriage Registrar, appointed under the Marriage Act or the Civil Partnership Registrar appointed under the Civil Partnership Act, as the case may be.
 
 Exemption from stamp duty.
+
+Social Security (Insurance)
+
+1955-14
 
 42. Stamp duty shall not be chargeable upon such documents used in connection with business under this Act as may be specified in Schedule 5.
 
 Legal Proceedings.
 
-Social Security (Insurance)
-
-1955-14 General provisions as to offences and penalties.
+General provisions as to offences and penalties.
 
 43. (1) A person who–
 
@@ -992,13 +998,13 @@ is guilty of an offence and is liable on summary conviction to imprisonment for 
 
 (4)  omitted.
 
-(5)  Nothing in this section shall be construed as preventing the Director or such other person authorised by him in writing from recovering by means of civil proceedings any sums due to the Fund.
-
-General provisions as to prosecutions under Act.
-
 Social Security (Insurance)
 
 1955-14
+
+(5)  Nothing in this section shall be construed as preventing the Director or such other person authorised by him in writing from recovering by means of civil proceedings any sums due to the Fund.
+
+General provisions as to prosecutions under Act.
 
 44.(1)  Proceedings for an offence under this Act shall not be instituted except by or with the consent of the Attorney-General or by an inspector or other officer authorized in that behalf by special or general directions of the Attorney-General.
 
@@ -1008,9 +1014,9 @@ Social Security (Insurance)
 
 (4)  For the purposes of subsection (3) a certificate, purporting to be signed by or on behalf of the Attorney-General as to the date on which such evidence came to his knowledge shall be conclusive evidence thereof.
 
-(5)  In any proceedings for an offence against this Act, the wife of the accused shall be competent to give evidence, whether for or against the accused:
+(5)  In any proceedings for an offence against this Act, the wife, husband or civil partner of the accused shall be competent to give evidence, whether for or against the accused:
 
-Provided that the wife or husband shall not be compellable either to give evidence or, in giving evidence, to disclose any communication made to her or him during the marriage by the accused.
+Provided that the wife, husband or civil partner shall not be compellable either to give evidence or, in giving evidence, to disclose any communication made to her or him during the marriage or civil partnership by the accused.
 
 Civil proceedings to recover sums due to fund.
 
@@ -1018,11 +1024,13 @@ Civil proceedings to recover sums due to fund.
 
 (2)  Proceedings for the summary recovery as civil debts of sums due to the Fund may, notwithstanding section 65 of the Magistrates’ Court Act or anything in any law to the contrary, be brought at any time.
 
-(3)  Proceedings for the summary recovery as civil debts of sums due to the Fund may be instituted by an inspector or other officer authorized in that behalf by special or general directions of the Director, and any such inspector or officer may, although not a barrister or a solicitor, conduct such proceedings.
-
 Social Security (Insurance)
 
-1955-14 (4) Proceedings for the recovery as civil debts of sums due to the Fund, other than by summary proceedings, may be instituted by the Director or any person authorised by him in writing.
+1955-14
+
+(3)  Proceedings for the summary recovery as civil debts of sums due to the Fund may be instituted by an inspector or other officer authorized in that behalf by special or general directions of the Director, and any such inspector or officer may, although not a barrister or a solicitor, conduct such proceedings.
+
+(4) Proceedings for the recovery as civil debts of sums due to the Fund, other than by summary proceedings, may be instituted by the Director or any person authorised by him in writing.
 
 (5) If the employer, being a body corporate, fails to pay to the Fund any sum which the employer has been ordered to pay, that sum, or such part thereof as remains unpaid, shall be a debt due to the Fund jointly and severally from any directors of the body corporate.
 
@@ -1042,15 +1050,13 @@ Members of the Gibraltar Regiment.
 
 Married women.
 
-48. Without prejudice to the generality of any other power to make regulations, the Minister may make regulations modifying in such manner as he thinks proper the provisions of this Act in their application in relation to married women, and in relation to women who have been married and during their marriage were affected by any such regulations.
+Social Security (Insurance)
+
+1955-14 48. Without prejudice to the generality of any other power to make regulations, the Minister may make regulations modifying in such manner as he thinks proper the provisions of this Act in their application in relation to married women, and in relation to women who have been married and during their marriage were affected by any such regulations.
 
 Reciprocal agreements with United Kingdom, dominions, and foreign countries.
 
-Social Security (Insurance)
-
-1955-14
-
-49.(1)  For the purpose of giving effect to any agreement with the government of the United Kingdom, or of any part of Her Majesty’s dominions, or the government of any foreign country, providing for reciprocity in matters relating to payments in respect of interruption of employment by sickness or otherwise, or payments in respect of the confinement of women, widowhood, orphanhood, retirement, old age or death, it shall be lawful for the Minister by order to make provision for modifying or adapting this Act in its application to cases affected by the agreement.
+49.(1)  For the purpose of giving effect to any agreement with the government of the United Kingdom, or of any part of Her Majesty’s dominions, or the government of any foreign country, providing for reciprocity in matters relating to payments in respect of interruption of employment by sickness or otherwise, or payments in respect of the confinement of women, widowhood, surviving civil partners, orphanhood, retirement, old age or death, it shall be lawful for the Minister by order to make provision for modifying or adapting this Act in its application to cases affected by the agreement.
 
 (2)  The modifications of this Act, which may be made by virtue of subsection (1) shall include provision–
 
@@ -1068,15 +1074,17 @@ Transitional provisions as to death grants.
 
 51.(1)  Death grant shall not be payable in respect of the death of any person who immediately before the 3rd day of October, 1955, was over pensionable age.
 
+Social Security (Insurance)
+
+1955-14
+
 (2)  Repealed.
 
 Review of contributions, benefits, etc.
 
 52.(1)  The Minister shall, at such time as shall seem to him appropriate, review the sums specified in Schedule 1 and Part VI of Schedule 2.
 
-Social Security (Insurance)
-
-1955-14 (2)  The Minister may, by order amend the sums payable under Schedule 1 and Part VI of Schedule 2.
+(2)  The Minister may, by order amend the sums payable under Schedule 1 and Part VI of Schedule 2.
 
 (3) An order made in pursuance of subsection (2) shall be laid before the Parliament.
 
@@ -1094,13 +1102,15 @@ Power to wind up funds etc.
 
 (b)  provide for the making of contributions by employers and self employed persons to any special fund referred to in paragraph (a) or to any special fund set up for the purpose of making interim or transitional arrangements in advance of the coming into operation of occupational pension arrangements in respect of employment in Gibraltar;
 
-(c)  allow for the payment of amounts out of any special fund referred to amounts out of any special fund referred to in paragraph (a) or set up for the purpose of making transitional arrangements in advance of the coming into operation of occupational pension arrangements in respect of employment in Gibraltar;
-
-(d)  permit the making of advances from any fund due to be so wound up to any fund referred to in paragraph (a);
+(c)  allow for the payment of amounts out of any special fund referred to amounts out of any special fund referred to in
 
 Social Security (Insurance)
 
-1955-14 (e)  amend, vary, modify or repeal any provision of this or any other Act for the purpose of giving effect to the winding up and dissolution of any fund;
+1955-14 paragraph (a) or set up for the purpose of making transitional arrangements in advance of the coming into operation of occupational pension arrangements in respect of employment in Gibraltar;
+
+(d)  permit the making of advances from any fund due to be so wound up to any fund referred to in paragraph (a);
+
+(e)  amend, vary, modify or repeal any provision of this or any other Act for the purpose of giving effect to the winding up and dissolution of any fund;
 
 (f) make such transitional or other incidental or supplementary provisions as may appear to the Government necessary or expedient for the purpose of this section.
 
