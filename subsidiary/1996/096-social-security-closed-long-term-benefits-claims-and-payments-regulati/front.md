@@ -1,26 +1,16 @@
-Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1996
+Subsidiary Legislation made under ss.18, 29, 30 and 37.
 
-1996-06
+Social Security (Closed Long-Term Benefits) (Claims and Payments) Regulations 1996
 
-Subsidiary 1996/096 Regulations made under ss. 18, 29, 30 and 37 of the Social Security (Closed Long-Term Benefits and Scheme) Act 1996.
+LN.1996/096
 
-SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1996
-
-(LN. 1996/096)
-
-1.10.1996
+Commencement 1.10.1996
 
 Amending enactments Relevant current provisions Commencement date
 
-Act.     1997-13 rr. 2, 6(3), 9(1A), 11, 12(a)(b), 15(2)(3) and Sch. 2
+Act. 1997-13 rr. 2, 6(3), 9(1A), 11, 12(a)-(b), 15(2)-(3), Sch.2 1.10.1996 LN. 2009/017 r. 9(1A) 1.4.2008 Act. 2011-29 rr. 2, 4(2), 6(1), 7(1), Sch. 1.7.2009 2014-10 rr. 4(3), (c), 6(1)-(2), 7(1), 8(1), Sch. 28.3.2014
 
-1.10.1996 LN.    2009/017 r. 9(1A) 1.4.2008 Act. 2011-29 rr. 2, 4(2), 6(1), 7(1) & Sch. 1.7.2009
-
-Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1996
-
-1996-06
-
-Subsidiary 1996/096 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -28,8 +18,4 @@ Regulation
 
 SCHEDULE
 
-Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1996
-
-1996-06
-
-Subsidiary 1996/096 In exercise of the powers conferred on him by sections 18, 29, 30 and 37 of the Social Security (Closed Long-Term Benefits and Scheme) Act 1996 and of all other enabling powers, the Government has made the following Regulations -
+In exercise of the powers conferred on him by sections 18, 29, 30 and 37 of the Social Security (Closed Long-Term Benefits and Scheme) Act 1996 and of all other enabling powers, the Government has made the following Regulations -
