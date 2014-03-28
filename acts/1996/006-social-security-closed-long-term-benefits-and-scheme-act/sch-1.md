@@ -8,7 +8,7 @@ Section 5(2)
 
 STANDARD RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
-Description of Benefit Monthly Basic Rate Increase for wife or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1. Survivor’s Benefit:
+Description of Benefit Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1. Survivor’s Benefit:
 
 (a) Survivor's Bereavement Allowance. £504.17 - £61.43 (b) Widowed Parent's Allowance. £425.07 - £61.43 * (c) Survivor’s Pension. £425.07 - -
 
@@ -16,7 +16,7 @@ Description of Benefit Monthly Basic Rate Increase for wife or adult dependant w
 
 3.  Old Age Pensions:
 
-(a) where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s insurance and she is alive.
+(a) where the pension is payable to a woman by virtue of a husband’s or civil partner’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s or civil partner’s insurance and she is alive.
 
 £212.58 - £61.43
 
@@ -36,7 +36,7 @@ PART II Section 5(3)
 
 LOWER RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
-Description of Benefit Monthly Basic Rate Increase for wife or adult dependant where payable Increases for children not exceeding 4*, where payable for child
+Description of Benefit Monthly Basic Rate Increase for wife or civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child
 
 £ £ £ 1.  Survivor’s Benefit:
 
@@ -60,7 +60,7 @@ Description of Benefit Monthly Basic Rate Increase for wife or adult dependant w
 
 –
 
-3.  Old age pensions: (a)  where the pension is payable to a woman by virtue of a husband’s insurance, and he is alive, or where the pension is payable by virtue of his wife’s insurance to a man who is permanently incapable of self-support, and she is alive.
+3.  Old age pensions: (a)  where the pension is payable to a woman by virtue of a husband’s or civil partner’s insurance, and he is alive, or where the pension is payable by virtue of his wife’s or civil partner’s insurance to a man who is permanently incapable of self-support, and she is alive.
 
 1.74
 

@@ -34,7 +34,9 @@ shall be deemed to have been made within the prescribed time for claiming such b
 
 Social Security (Closed Long-Term Benefits and Scheme)
 
-1996-06 2013/129 s. 16(a), Sch. 1 1.8.2013
+1996-06 2013/129 s. 16(a), Sch. 1 1.8.2013 Act. 2014-10 ss. 2(3)(a), (4)(c), (6), 8-9,11(2)(ii), (3), 12A, 13-16, 18(4), 19(1), 20(1)(a), 23(2), 32(2)(d), 35(5)-(6), 37(1), Schs. 1, 2
+
+28.3.2014
 
 Social Security (Closed Long-Term Benefits and Scheme)
 
@@ -52,15 +54,15 @@ PART II THE CLOSED LONG-TERM BENEFITS FUND.
 
 PART III INSURANCE AND BENEFITS PRELIMINARY.
 
-4. Continuation of insurance 5. Description and rate of benefit and contribution conditions. 6. Transitional provisions – existing beneficiaries. 7. Transitional provisions – extension of time for claiming. 7A. Transitional provisions – persons insured under both this Act and the Social Security (Open Long-Term Benefits Scheme) Act 1997. 7B.  Further rights of election to pay arrears. 8. Survivor’s benefit. 9. Survivor’s pension in special cases. 10.  Deleted. 11.  Guardian’s allowance. 12.  Old age pensions. 12A. Old age pensions for persons whose marriages have been dissolved. 13 Special provisions as to men. 14.  Special provisions as to women. 15.  Increase of benefit for children. 16.  Increase of old age pension. 17.  Partial satisfaction of contribution conditions.
+4. Continuation of insurance 5. Description and rate of benefit and contribution conditions. 6. Transitional provisions – existing beneficiaries. 7. Transitional provisions – extension of time for claiming. 7A. Transitional provisions – persons insured under both this Act and the Social Security (Open Long-Term Benefits Scheme) Act 1997. 7B.  Further rights of election to pay arrears. 8. Survivor’s benefit. 9. Survivor’s pension in special cases. 10.  Deleted. 11.  Guardian’s allowance. 12.  Old age pensions. 12A. Old age pensions for persons whose marriages or civil partnerships have been dissolved. 13 Special provisions as to men. 14.  Special provisions as to women. 15.  Increase of benefit for children. 16.  Increase of old age pension. 17.  Partial satisfaction of contribution conditions.
 
 Miscellaneous provisions as to benefit.
 
-18.  Claims and notices. 19.  Disqualification for imprisonment. 20.  Overlapping benefits. 21.  Disqualification etc. to be disregarded for certain purposes. 22.  Benefit to be inalienable. 22A. Termination of Benefits. 23.  Provisions as to maintenance and incapacity for self-support.
+18.  Claims and notices. 19.  Disqualification for imprisonment. 20.  Overlapping benefits. 21.  Disqualification etc. to be disregarded for certain purposes. 22.  Benefit to be inalienable. 22A. Termination of Benefits.
 
 Social Security (Closed Long-Term Benefits and Scheme)
 
-1996-06
+1996-06 23.  Provisions as to maintenance and incapacity for self-support.
 
 PART IV ADMINISTRATION AND LEGAL PROCEEDINGS.
 
