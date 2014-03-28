@@ -26,7 +26,7 @@ Housing
 
 (h) himself; or
 
-(ii) any son or daughter of himself or of his wife who is over the age of 18 years of age; or
+(ii) any son or daughter of himself or of his wife or civil partnership who is over the age of 18 years of age; or
 
 (ii) his father or mother:
 

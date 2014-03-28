@@ -12,7 +12,9 @@ Assent 3.7.2007
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2013-172 ss. 40(1)(a) & (8) 8.8.2013
+Act. 2013-172 ss. 40(1)(a) & (8) 8.8.2013 2014-10 ss. 7(1), (1)(a), 12(a), (b), 34(b)(i), (ii), (iii), 53(4)(b) & Sch. 5
+
+28.3.2014
 
 English sources: None cited
 
