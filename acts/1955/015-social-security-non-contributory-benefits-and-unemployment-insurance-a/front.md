@@ -1,14 +1,10 @@
-Social Security (Non-Contributory Benefits and Unemployment Insurance)
-
-1955-15 SOCIAL SECURITY (NON-CONTRIBUTORY BENEFITS AND UNEMPLOYMENT INSURANCE) ACT
+Social Security (Non-Contributory Benefits and Unemployment Insurance) Act
 
 Principal Act
 
 Act. No. 1955-15 Commencement 3.10.1955 Assent 14.7.1955
 
-Amending enactment Relevant current provisions Commencement date
-
-Act. 1966-09 ss. 1, 3-4, 6(1), 7(1), 8(1), Sch. 1
+Amending enactment Relevant current provisions Commencement date Act. 1966-09 ss. 1, 3-4, 6(1), 7(1), 8(1), Sch. 1
 
 1968-09 –
 
@@ -42,19 +38,15 @@ LN. 1983/100 Schs. 2-3
 
 1984/096 Sch. 2 25.12.1984 “ Sch. 3 26.12.1984 Act. 1984-22 ss. 4(1), 6-7, 11(1), (3), 12, 17, 18(1), Sch. 2.
 
-26.12.1984 LN. 1986/130 Sch. 3 24.12.1986 Act. 1987-02 s. 9(1A) 19.2.1987 LN. 1987/166 Sch. 3 29.12.1987 1988/123 Sch. 3 27.12.1988 Act. 1990-09 s. 19 1.3.1990 1993-14 ss. 11, 15-16 1.9.19931 LN. 1994/037 s. 19(1)-(2), (4) 14.4.1994 Act. 2001-04 ss. 2, 10(3), 16 19.4.2001 LN. 2004/126 Sch. 3 12.7.2004 Act. 2007-17 s. 18(1)-(2) 14.6.2007 LN. 2007/150 Sch. 3 1.7.2007
+26.12.1984 LN. 1986/130 Sch. 3 24.12.1986 Act. 1987-02 s. 9(1A) 19.2.1987 LN. 1987/166 Sch. 3 29.12.1987 1988/123 Sch. 3 27.12.1988 Act. 1990-09 s. 19 1.3.1990 1993-14 ss. 11, 15-16 1.9.19931 LN. 1994/037 s. 19(1)-(2), (4) 14.4.1994 Act. 2001-04 ss. 2, 10(3), 16 19.4.2001 LN. 2004/126 Sch. 3 12.7.2004 Act. 2007-17 s. 18(1)-(2) 14.6.2007 LN. 2007/150 Sch. 3 1.7.2007 2011/135 Sch. 3 1.7.2011
 
 1 Notice of Commencement – LN.1993/137
 
-Social Security (Non-Contributory Benefits and Unemployment Insurance)
+Act. 2014-10 ss. 2(2)(a), 3(1), 11, 13, Sch. 3 28.3.2014
 
-1955-15 2011/135 Sch. 3 1.7.2011
+English Sources: National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
-English Source National Insurance Act 1946 (9 & 10 Geo.6 c.67)
-
-Social Security (Non-Contributory Benefits and Unemployment Insurance)
-
-1955-15 ARRANGEMENT OF SECTIONS
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -66,6 +58,4 @@ SCHEDULE 2 Revoked.
 
 SCHEDULE 3 Unemployment benefit.
 
-Social Security (Non-Contributory Benefits and Unemployment Insurance)
-
-1955-15 AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A NON- CONTRIBUTORY SYSTEM OF SOCIAL INSURANCE BENEFITS AND TO PROVIDE UNEMPLOYMENT BENEFIT FOR INSURED PERSONS.
+AN ACT TO PROVIDE FOR THE ESTABLISHMENT OF A NON-CONTRIBUTORY SYSTEM OF SOCIAL INSURANCE BENEFITS AND TO PROVIDE UNEMPLOYMENT BENEFIT FOR INSURED PERSONS.
