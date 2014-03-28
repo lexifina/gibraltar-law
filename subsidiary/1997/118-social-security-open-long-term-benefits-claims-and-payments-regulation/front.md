@@ -1,24 +1,16 @@
-Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1997
+Subsidiary Legislation made under ss.24, 34 and 35.
 
-1997-16
+Social Security (Open Long-Term Benefits) (Claims and Payments) Regulations 1997
 
-Subsidiary 1997/118 Regulations made under s. 24, 34 and 35 of the Social Security (Open Long- Term Benefits Scheme) Act 1997.
+LN.1997/118
 
-SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1997
-
-(LN. 1997/118)
-
-1.4.1997
+Commencement 1.4.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2009/020 rr. 9(1) & (1A) 1.4.2008 Act.  2011-29 rr. 2, 4(2), 6(1), 7(1) & Sch. 1.7.2009
+LN. 2009/020 r. 9(1), (1A) 1.4.2008 Act. 2011-29 rr. 2, 4(2), 6(1), 7(1), Sch. 1.7.2009 2014-10 rr. 4(3), (c), 6(1)-(2), 7(1), 8, Sch. 28.3.2014
 
-Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1997
-
-1997-16
-
-Subsidiary 1997/118 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -28,8 +20,4 @@ SCHEDULE 1
 
 Benefits under the Social Security (Employment Injuries Insurance) Act and the Social Security (Open Long-Term Benefits Scheme) Act 1997 for which claims may be treated as interchangeable.
 
-Social Security (Open Long-Term Benefits Scheme) SOCIAL SECURITY (OPEN LONG-TERM BENEFITS) (CLAIMS AND PAYMENTS) REGULATIONS 1997
-
-1997-16
-
-Subsidiary 1997/118 In exercise of the powers conferred on him by sections 24, 34 and 35 of the Social Security (Open Long-Term Benefits Scheme) Act 1997 and of all other enabling powers, the Minister for Social Affairs has made the following regulations -
+In exercise of the powers conferred on him by sections 24, 34 and 35 of the Social Security (Open Long-Term Benefits Scheme) Act 1997 and of all other enabling powers, the Minister for Social Affairs has made the following regulations -
