@@ -14,7 +14,9 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2010-25 ss. 2, 3(1), (7) & (11), 4(4)(b), 52(2) & (4), 99(11), 142, 147(6), 148(1), (2)(a), (7) & (8), 157(2)(d), (f), (g), (h), (i) & (j), & 158(12) & (13)
 
-11.11.2010 “ ss. 93A–93P & Sch. 18.4.20131
+11.11.2010 “ ss. 93A–93P & Sch. 18.4.20131 2014-10 ss. 2, 14(1), 16(4A), 27(5)(aa), 49(6)(c), 60(2) & 63(2)
+
+28.3.2014
 
 English sources: Children Act 1989 (1989 Chapter 41).
 
