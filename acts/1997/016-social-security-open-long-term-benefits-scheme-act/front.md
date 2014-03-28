@@ -32,7 +32,9 @@ Social Security (Open Long-Term Benefits Scheme)
 
 1997-16 (6),  20(1)(b), (2), (6),  21(1), (4), 24(3), Sch.2-3
 
-1.7.2009 LN. 2009/0412 Sch.1 16.7.2009 2010/103 s. 22(a), Sch.2 1.4.2010 2010/1143 Sch.1 1.7.2010 2011/138 s. 22(a), Sch.2 1.4.2011 2012/195 s. 22(a), Sch.2 1.8.2012 2013/168 s. 22(a), Sch.2 1.8.2013 Act. 2013-27 ss. 4(2)-(3), 39(5), 41(2), (4)-(5), Sch.1 28.11.2013
+1.7.2009 LN. 2009/0412 Sch.1 16.7.2009 2010/103 s. 22(a), Sch.2 1.4.2010 2010/1143 Sch.1 1.7.2010 2011/138 s. 22(a), Sch.2 1.4.2011 2012/195 s. 22(a), Sch.2 1.8.2012 2013/168 s. 22(a), Sch.2 1.8.2013 Act. 2013-27 ss. 4(2)-(3), 39(5), 41(2), (4)-(5), Sch.1 28.11.2013 2014-10 ss. 2(3)(a), (4)(c), (6), 14-15, 17(2)(b), (3), 18A, 19-20, 21(5)(a), (6), 22(a)-(b), 24(3), 25, 26(1)(a), 29(2), 35(2)(d), 40(5)-(6), 45(1), Schs.1-2
+
+28.3.2014
 
 English sources None cited
 
@@ -64,11 +66,11 @@ PART IV
 
 BENEFITS
 
-11.  Description and rates of benefit and contributions conditions. 12.  Transitional provisions – persons insured under both this Act and the closed scheme Act. 13.  Transitional provisions – existing beneficiaries. 14.  Survivor’s benefit. 15.  Survivor’s pension in special cases. 16.  Deleted. 17.  Guardian’s allowance. 18.  Old age pensions. 18A. Old age pensions for persons whose marriages have been dissolved. 19.  Special provision as to men. 20.  Special provision as to women. 21.  Increase of benefits for children. 22.  Increase of old age pension. 23.  Partial satisfaction of contribution conditions.
+11.  Description and rates of benefit and contributions conditions. 12.  Transitional provisions – persons insured under both this Act and the closed scheme Act. 13.  Transitional provisions – existing beneficiaries. 14.  Survivor’s benefit. 15.  Survivor’s pension in special cases. 16.  Deleted. 17.  Guardian’s allowance. 18.  Old age pensions. 18A. Old age pensions for persons whose marriages or civil partnerships have been dissolved. 19.  Special provision as to men. 20.  Special provision as to women. 21.  Increase of benefits for children. 22.  Increase of old age pension.
 
 Social Security (Open Long-Term Benefits Scheme)
 
-1997-16 24.  Claims and notices. 25.  Disqualification for imprisonment. 26.  Overlapping benefits. 27.  Disqualification etc. to be disregarded for certain purposes. 28.  Benefit to be inalienable. 29.  Provisions as to maintenance and incapacity for self-support.
+1997-16 23.  Partial satisfaction of contribution conditions. 24.  Claims and notices. 25.  Disqualification for imprisonment. 26.  Overlapping benefits. 27.  Disqualification etc. to be disregarded for certain purposes. 28.  Benefit to be inalienable. 29.  Provisions as to maintenance and incapacity for self-support.
 
 PART V
 
@@ -84,10 +86,10 @@ SCHEDULE 2. RATE OR AMOUNT OF BENEFIT.
 
 SCHEDULE 3. CONTRIBUTION CONDITIONS.
 
-SCHEDULE 4. DOCUMENTS EXEMPTED FROM STAMP DUTY.
+SCHEDULE 4.
 
 Social Security (Open Long-Term Benefits Scheme)
 
-1997-16 AN ACT TO ESTABLISH A REPLACEMENT SCHEME TO THE SOCIAL SECURITY (INSURANCE) ACT 1955 FOR THE PURPOSE OF PROVIDING PECUNIARY BENEFITS BY WAY OF OLD AGE PENSIONS, WIDOW’S BENEFIT, GUARDIAN’S ALLOWANCE AND WIDOWER’S PENSION IN RESPECT OF CONTRIBUTIONS PAID BY OR CREDITED TO INSURED PERSONS AFTER THE 31ST DAY OF DECEMBER, 1993 AND FOR CONNECTED PURPOSES.
+1997-16 DOCUMENTS EXEMPTED FROM STAMP DUTY. AN ACT TO ESTABLISH A REPLACEMENT SCHEME TO THE SOCIAL SECURITY (INSURANCE) ACT 1955 FOR THE PURPOSE OF PROVIDING PECUNIARY BENEFITS BY WAY OF OLD AGE PENSIONS, WIDOW’S BENEFIT, GUARDIAN’S ALLOWANCE AND WIDOWER’S PENSION IN RESPECT OF CONTRIBUTIONS PAID BY OR CREDITED TO INSURED PERSONS AFTER THE 31ST DAY OF DECEMBER, 1993 AND FOR CONNECTED PURPOSES.
 
 PART I

@@ -8,11 +8,11 @@ SURVIVOR’S BENEFIT
 
 1. (1) The contribution conditions for survivor’s benefit are that–
 
-(a) not less than two hundred and fifty contributions have been paid by the husband, or wife as the case may be in respect of the period between his or her entry into insurance and the relevant time; and
+(a) not less than two hundred and fifty contributions have been paid by the husband, wife or civil partner as the case may be in respect of the period between his or her entry into insurance and the relevant time; and
 
 (b) the yearly average of the contributions paid by or credited to the husband or wife as the case may be (ascertained at the relevant time) is not less than forty-five.
 
-(2) In this paragraph the expression “relevant time” means the date of the husband, or wife as the case may be attaining pensionable age or dying under that age.
+(2) In this paragraph the expression “relevant time” means the date of the husband, wife or civil partner as the case may be attaining pensionable age or dying under that age.
 
 GUARDIAN’S ALLOWANCE
 
