@@ -90,7 +90,9 @@ Social Security (Employment Injuries Insurance)
 
 1952-10 Act. 2013-27 ss. 5(1), 6(4), 45A, 48(3)-(4), 55(1), Sch.1
 
-28.11.2013
+28.11.2013 2014-10 ss. 2, 3(2)(iv), 18(1)(a)-(b), 19(1), (2)(a)-(b), (3), 20(b), 21(2), 22(1), 27(3)
+
+28.3.2014
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
@@ -122,7 +124,7 @@ PART IV. BENEFITS.
 
 Death benefit.
 
-19. Widows, widowers and children. 20. Orphans. 21. Parents.
+19. Widows, widowers, surviving civil partners and children. 20. Orphans. 21. Parents.
 
 Social Security (Employment Injuries Insurance)
 
