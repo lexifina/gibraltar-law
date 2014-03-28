@@ -26,7 +26,9 @@ Immigration, Asylum and Refugee
 
 1.10.2008* 2009-02 ss. 2(1), 3B, 21(1)-(2), 23(2), 63(5) 2.10.2008 “ s. 20(1)-(2), (4) 15.1.2009 2010-09 s. 52A 22.4.2010 2010-24 s. 18(3) 11.11.2010 2013-04 ss. 2(1), 6A, 11A(1), (3), (3A)-(3B), (4), (6)-(8), 17A, 52(1A), 53(1)
 
-28.2.2013
+28.2.2013 2014-10 ss. 14(1)(b), 15(1)-(2), (3)(b), (d), 18(3)(a), 26, 35(a), 55A, 55F(1)(a)- (c), (2)(a), 55G(2)-(3), (6)(a), 55H(3)(a)(iii), (5)(d)(ii)-(iii), 55I(2)(b), 55N(2)(c)(iii), 55O(4)(b)(ii)
+
+28.3.2014
 
 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2001/55/EC Directive 2002/90/EC Decision 2002/946/JHA Directive 2004/38/EC
 
@@ -56,15 +58,13 @@ PART II GIBRALTAR IMMIGRATION LAW Requirement of permits and certificates.
 
 Entitlement to permits of residence.
 
-15. Right of residence of men married to Gibraltarian women. 16. Right of residence of children of Gibraltarian women.
+15. Right of residence of men married to Gibraltarian women or civil partners. 16. Right of residence of children of Gibraltarian women.
 
 Issue of  frontier worker certificates  and permits of residence.
 
-17. Issue of frontier worker certificates.
-
 Immigration, Asylum and Refugee
 
-1962-12 17A.  Entry permits. 18. Issue of permits of residence. 19. Governor’s power to order issue of permits. 20. Cancellation of permits. 21. Appeal from refusal or cancellation of permit. 22. Renewal of permits. 23. No appeal to court. 24. Omitted
+1962-12 17. Issue of frontier worker certificates. 17A.  Entry permits. 18. Issue of permits of residence. 19. Governor’s power to order issue of permits. 20. Cancellation of permits. 21. Appeal from refusal or cancellation of permit. 22. Renewal of permits. 23. No appeal to court. 24. Omitted
 
 Entitlement to certificates of permanent residence.
 
@@ -92,11 +92,11 @@ Cancellation and duration of certificates.
 
 Prohibited immigrants.
 
-52. Power to declare prohibited immigrants. 52A.  Prohibited immigrants by reason of international obligations.
+52. Power to declare prohibited immigrants.
 
 Immigration, Asylum and Refugee
 
-1962-12 53. Effect of declaration.
+1962-12 52A.  Prohibited immigrants by reason of international obligations. 53. Effect of declaration.
 
 Fugitive offenders.
 
@@ -120,11 +120,11 @@ Residence Documentation.
 
 Restrictions on the right of entry and residence.
 
-55R.  Exclusion and removal from Gibraltar. 55S.  Refusal to issue or renew and revocation of residence documentation.
+55R.  Exclusion and removal from Gibraltar.
 
 Immigration, Asylum and Refugee
 
-1962-12 55T.  Decisions taken on the grounds of public policy, public security or public heath. 55U.  Notification of EEA decisions.
+1962-12 55S.  Refusal to issue or renew and revocation of residence documentation. 55T.  Decisions taken on the grounds of public policy, public security or public heath. 55U.  Notification of EEA decisions.
 
 Appeals.
 
@@ -148,11 +148,9 @@ Offences.
 
 PART VII RULES AND RULES OF COURT Rules.
 
-67. Rules. 68. Rules of Court.
-
 Immigration, Asylum and Refugee
 
-1962-12
+1962-12 67. Rules. 68. Rules of Court.
 
 SCHEDULE 1 States Party to the EEA Agreement
 
