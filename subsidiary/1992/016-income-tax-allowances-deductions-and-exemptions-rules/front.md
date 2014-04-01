@@ -52,7 +52,7 @@ Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 199
 
 1.7.2013 Act. 2014-10 rr. 6B(1), (2)(b)(ii), (3)(c), 5(b), (6), 7(1), (b), 12, 18-19, 20A(1), 21(4), (9), 22(1), (2A), (3), (5)(a)- (b)
 
-28.3.2014
+28.3.2014 LN. 2018/060 r. 3A(b)-(d) 1.4.2014
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
