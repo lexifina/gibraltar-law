@@ -10,6 +10,10 @@ FREEDOM OF ACCESS TO INFORMATION ON THE ENVIRONMENT REGULATIONS 2005
 
 Commencement 18.1.2007 (LN. 2007/006)
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2014/060 rr. 19 & 20 2.5.2014
+
 EU Legislation/International Agreements involved: Directive 90/313/EEC Directive 2003/4/EC
 
 ______________________
@@ -36,7 +40,17 @@ PART 4 Appeals and revocation
 
 16. Appeal to Gibraltar Regulatory Authority. 17. Appeal to magistrates’ court. 18. Revocation.
 
-SCHEDULE Directive 2003/4/EC on public access to environmental information and repealing Council Directive 90/313/EEC
+PART 5 Miscellaneous
+
+19. Information to be made available in emergencies. 20. Quality of information.
+
+SCHEDULE
+
+Environment FREEDOM OF ACCESS TO INFORMATION ON THE ENVIRONMENT REGULATIONS 2005
+
+2005-27
+
+Subsidiary 2005/165 Directive 2003/4/EC on public access to environmental information and repealing Council Directive 90/313/EEC
 
 Environment FREEDOM OF ACCESS TO INFORMATION ON THE ENVIRONMENT REGULATIONS 2005
 
