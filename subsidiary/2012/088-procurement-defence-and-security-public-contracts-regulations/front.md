@@ -10,11 +10,17 @@ PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
 
 Commencement 21.6.2012
 
-Transposing: Directive 2009/81/EC
+Amending enactments Relevant current provisions Commencement date
 
-____________________________
+LN.  2014/057 Sch. 3 2.5.2014
 
-ARRANGEMENT OF REGULATIONS
+Transposing: Directive 2009/81/EC Directive 2013/16/EU
+
+Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
+
+1977-09
+
+Subsidiary 2012/088 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -28,17 +34,17 @@ PART 2 TECHNICAL SPECIFICATIONS
 
 PART 3 PROCEDURES LEADING TO THE AWARD OF A CONTRACT
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088
-
 13. Prior information notices. 14. Selection of contract award procedure. 15. Use of the negotiated procedure without prior publication of a contract notice. 16. The restricted procedure. 17. The negotiated procedure. 18. The competitive dialogue procedure. 19. Framework agreements. 20. Electronic auctions. 21. Central purchasing bodies.
 
 PART 4 SELECTION OF ECONOMIC OPERATORS
 
-22. Criteria for the rejection of economic operators. 23. Information as to economic and financial standing. 24. Information as to technical or professional ability. 25. Supplementary information. 26. Official lists of approved economic operators. 27. Consortia. 28. Corporations. 29. Notification.
+22. Criteria for the rejection of economic operators. 23. Information as to economic and financial standing. 24. Information as to technical or professional ability.
+
+Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
+
+1977-09
+
+Subsidiary 2012/088 25. Supplementary information. 26. Official lists of approved economic operators. 27. Consortia. 28. Corporations. 29. Notification.
 
 PART 5 THE AWARD OF A CONTRACT
 
@@ -50,12 +56,6 @@ PART 6 MATTERS RELATING TO A CONTRACT
 
 PART 7 RULES APPLICABLE TO SUB-CONTRACTING
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088
-
 CHAPTER 1 Sub-contracts awarded by economic operators which are not contracting authorities
 
 39. Scope. 40. Principles. 41. Thresholds and rules on advertising. 42. Award of a sub-contract without publication of a sub-contract notice. 43. Criteria for qualitative selection of sub-contractors.
@@ -64,19 +64,19 @@ CHAPTER 2 Sub-contracts awarded by economic operators which are contracting auth
 
 44. Rules to be applied.
 
-PART 8 MISCELLANEOUS
-
-45. Statistical and other reports. 46. Provision of reports. 47. Publication of notices. 48. Means of communication.
-
-PART 9 APPLICATIONS TO THE COURT
-
-49. Interpretation of Part 9. 50. Duty owed to economic operators. 51. Enforcement of duties through the Court. 52. General time limits for starting proceedings. 53. Special time limits for seeking a declaration of ineffectiveness. 54. Starting proceedings. 55. Contract-making suspended by challenge to award decision. 56. Interim orders. 57. Remedies where the contract has not been entered into. 58. Remedies where the contract has been entered into. 59. Grounds for ineffectiveness. 60. General interest grounds for not making a declaration of ineffectiveness. 61. The consequences of ineffectiveness. 62. Penalties in addition to, or instead of, ineffectiveness.
+PART 8
 
 Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
 
 1977-09
 
-Subsidiary 2012/088 63. Ineffectiveness etc in relation to specific contracts based on a framework agreement. 64. Injunctions against the Crown.
+Subsidiary 2012/088 MISCELLANEOUS
+
+45. Statistical and other reports. 46. Provision of reports. 47. Publication of notices. 48. Means of communication.
+
+PART 9 APPLICATIONS TO THE COURT
+
+49. Interpretation of Part 9. 50. Duty owed to economic operators. 51. Enforcement of duties through the Court. 52. General time limits for starting proceedings. 53. Special time limits for seeking a declaration of ineffectiveness. 54. Starting proceedings. 55. Contract-making suspended by challenge to award decision. 56. Interim orders. 57. Remedies where the contract has not been entered into. 58. Remedies where the contract has been entered into. 59. Grounds for ineffectiveness. 60. General interest grounds for not making a declaration of ineffectiveness. 61. The consequences of ineffectiveness. 62. Penalties in addition to, or instead of, ineffectiveness. 63. Ineffectiveness etc in relation to specific contracts based on a framework agreement. 64. Injunctions against the Crown.
 
 SCHEDULE 1 ACTIVITIES CONSTITUTING WORKS
 

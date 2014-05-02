@@ -12,6 +12,8 @@ in Belgium, the Registre du Commerce/Handelsregister and the Ordres Professionel
 
 in Bulgaria, the Търговски регистър;
 
+in Croatia, Sudski registar trgovačkih društava u Republici Hrvatskoj or Obrtni registar Republike Hratske;
+
 in the Czech Republic, the obchodní rejstřík;
 
 in Denmark, the Erhvervs- og Selskabsstyrelsen;
@@ -34,15 +36,13 @@ in Lithuania, the Juridinių asmenų registras;
 
 in Luxembourg, the Registre aux firmes and the Rôle de la Chambre des métiers;
 
-in the Netherlands, the Handelsregister;
-
-in Poland, Krajowy Rejestr Sądowy (National Court Registry);
-
 Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
 
 1977-09
 
-Subsidiary 2012/088
+Subsidiary 2012/088 in the Netherlands, the Handelsregister;
+
+in Poland, Krajowy Rejestr Sądowy (National Court Registry);
 
 in Portugal, the Registro Nacional das Pessoas Colectivas;
 
@@ -68,6 +68,8 @@ in Belgium, the Registre du Commerce/Handelsregister;
 
 in Bulgaria, the Търговски регистър;
 
+in Croatia, Sudski registar trgovačkih društava u Republici Hrvatskoj or Obrtni registar Republike Hratske;
+
 in the Czech Republic, the obchodní rejstřík;
 
 in Denmark, the Erhvervs- og Selskabsstyrelsen;
@@ -80,15 +82,15 @@ in France, the Registre du commerce et des sociétés and the Répertoire des m�
 
 in Germany, the Handelsregister and the Handwerksrolle;
 
-in Greece, the registrar of contractors’ enterprises (Μητρώο Εργοληπτικών Επιχειρήσεων) of the Ministry for Environment, Town and Country Planning and Public Works (Υ.ΠΕ.ΧΩ.Δ.Ε);
-
-in Hungary, the Cégnyilvántartás or the egyéni vállalkozók jegyzői nyilvántartása;
-
 Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
 
 1977-09
 
-Subsidiary 2012/088 in Italy, the Registro della Camera di commercio, industria, agricoltura e artigianato;
+Subsidiary 2012/088 in Greece, the registrar of contractors’ enterprises (Μητρώο Εργοληπτικών Επιχειρήσεων) of the Ministry for Environment, Town and Country Planning and Public Works (Υ.ΠΕ.ΧΩ.Δ.Ε);
+
+in Hungary, the Cégnyilvántartás or the egyéni vállalkozók jegyzői nyilvántartása;
+
+in Italy, the Registro della Camera di commercio, industria, agricoltura e artigianato;
 
 in Latvia, the Uzņēmumu reģistrs (Enterprise Register);
 
@@ -122,9 +124,15 @@ in Belgium, the Registre du Commerce/Handelsregister;
 
 in Bulgaria, the Търговски регистър;
 
+in Croatia, Sudski registar trgovačkih društava u Republici Hrvatskoj or Obrtni registar Republike Hratske;
+
 in the Czech Republic, the obchodní rejstřík;
 
-in Denmark, the Erhvervs- og Selskabsstyrelsen;
+Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
+
+1977-09
+
+Subsidiary 2012/088 in Denmark, the Erhvervs- og Selskabsstyrelsen;
 
 in Estonia, the Registrite ja Infosüsteemide Keskus;
 
@@ -132,11 +140,7 @@ in Finland, the Kaupparekisteri and Handelsregistret;
 
 in Germany, the Handelsregister and Handwerksrolle;
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088 in Greece, the Βιοτεχνικό ή Εμπορικό ή Βιομηχανικό Επιμελτήριο and the Μητρώο Kατασκευαστών Αμυντικού Υλικού;
+in Greece, the Βιοτεχνικό ή Εμπορικό ή Βιομηχανικό Επιμελτήριο and the Μητρώο Kατασκευαστών Αμυντικού Υλικού;
 
 in Hungary, the Cégnyilvántartás, the egyéni vállalkozók jegyzői nyilvántartása;
 
