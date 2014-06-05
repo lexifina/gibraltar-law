@@ -1,41 +1,77 @@
-SCHEDULE 2 Section 17
+SCHEDULE 2 Sections 2 and 14(7)(a)
 
-ENERGY CONTENT OF SELECTED FUELS FOR END USE CONVERSION TABLE
+GENERAL PRINCIPLES FOR THE CALCULATION OF ELECTRICITY FROM COGENERATION
 
-Energy commodity kJ (NCV)             kgoe (NCV)          kWh (NCV)
+Part I
 
-1 kg coke                28 500 0,676 7,917 1 kg hard coal
+General principles
 
-17 200 - 30 700 0,411 - 0,733 4,778 - 8,528 1 kg brown coal briquettes 20 000 0,478 5,556 1 kg black lignite
+Values used for calculation of electricity from cogeneration shall be determined on the basis of the expected or actual operation of the unit under normal conditions of use. For micro- cogeneration units the calculation may be based on certified values.
 
-10 500 - 21 000 0,251 - 0,502 2,917 - 5,833 1 kg brown coal 5 600 - 10 500 0,134 - 0,251 1,556 - 2,917 1 kg oil shale 8 000 - 9 000 0,191 - 0,215 2,222 - 2,500 1 kg peat
+1.  Electricity production from cogeneration shall be considered equal to total annual electricity production of the unit measured at the outlet of the main generators–
 
-7 800 - 13 800 0,186 - 0,330 2,167 - 3,833 1 kg peat briquettes 16 000 - 16 800 0,382 - 0,401 4,444 - 4,667 1 kg residual fuel oil (heavy oil)
+(a) in cogeneration units of types (b), (d), (e), (f), (g) and (h) referred to in Part II with an annual overall efficiency set by the competent authority at a level of at least 75%; and
 
-40 000 0,955 11,111 1 kg light fuel oil   42 300 1,010 11,750 1 kg motor spirit (petrol)
+(b) in cogeneration units of types (a) and (c) referred to in Part II with an annual overall efficiency set by the competent authority at a level of at least 80%.
 
-44 000 1,051 12,222 1 kg paraffin 40 000 0,955 11,111 1 kg liquefied petroleum gas
+2. In cogeneration units with an annual overall efficiency below the value referred to in paragraph 1(a) above (cogeneration units of types (b), (d), (e), (f), (g), and (h) referred to in Part II) or with an annual overall efficiency below the value referred to in paragraph 1(b) above (cogeneration units of types (a) and (c) referred to in Part II) cogeneration is calculated according to the following formula:
 
-46 000 1,099 12,778 1 kg natural gas1
+ECHP=HCHP*C
 
-47 200 1,126 13,10 1 kg liquefied natural gas 45 190 1,079 12,553
+where:
 
-1 93% methane.
+ECHP is the amount of electricity from cogeneration;
 
-Environmental Protection (Energy End-Use Efficiency)
+C is the power-to-heat ratio;
 
-2009-28 1 kg wood (25% humidity)2
+HCHP is the amount of useful heat from cogeneration (calculated for this purpose as total heat production minus any heat produced in separate
 
-13 800 0,330 3,833 1kg pellets/wood bricks 16 800 0,401 4,667 1 kg waste
+Environmental Protection (Energy Efficiency)
 
-7 400 - 10 700 0,177 - 0,256 2,056 - 2,972 1 MJ derived heat
+2009-28 boilers or by live steam extraction from the steam generator before the turbine).
 
-1 000 0,024 0,278 1 kWh electrical 3 600 energy      0,086            13
+The calculation of electricity from cogeneration must be based on the actual power-to-heat ratio. If the actual power-to-heat ratio of a cogeneration unit is not known, the following default values may be used, in particular for statistical purposes, for units of types (a), (b), (c), (d) and (e) referred to in Part II provided that the calculated cogeneration electricity is less or equal to total electricity production of the unit:
 
-Source: Eurostat.
+Type of the unit Default power  to heat ratio, C Combined  cycle gas  turbine with heat recovery 0,95 Steam back pressure turbine 0,45 Steam condensing  extraction turbine 0,45 Gas turbine with heat recovery 0,55 Internal combustion engine 0,75
 
-2 The competent authority may apply other values depending on the type of wood used. 3 For savings in Kwh electricity, the competent authority may apply a default co-efficient of 2,5 reflecting the estimated 40% average EU generation efficiency during the target period. The competent authority may apply a different co-efficient provided it can justify it.
+If the competent authority introduces default values for power-to-heat ratios for units of types (f), (g), (h), (i), (j) and (k) referred to in Part II, such default values shall be published and shall be notified to the European Commission.
 
-Environmental Protection (Energy End-Use Efficiency)
+3. If a share of the energy content of the fuel input to the cogeneration process is recovered in chemicals and recycled this share can be subtracted from the fuel input before calculating the overall efficiency used in paragraphs 1 and 2 above.
+
+4 The competent authority may determine the power-to-heat ratio as the ratio of electricity to useful heat when operating in cogeneration mode at a lower capacity using operational data of the specific unit.
+
+5. The competent authority may use other reporting periods than one year for the purpose of the calculations according to paragraphs 1 and 2 above.
+
+Part II Cogeneration technologies covered by this Act
+
+(a) Combined cycle gas turbine with heat recovery
+
+(b) Steam back pressure turbine
+
+(c) Steam condensing extraction turbine
+
+Environmental Protection (Energy Efficiency)
+
+2009-28
+
+(d) Gas turbine with heat recovery
+
+(e) Internal combustion engine
+
+(f) Microturbines
+
+(g) Stirling engines
+
+(h) Fuel cells
+
+(i) Steam engines
+
+(j) Organic Rankine cycles
+
+(k) Any other type of technology or combination thereof falling within the meaning of “cogeneration” as defined by section 2.
+
+When implementing and applying the general principles for the calculation of electricity from cogeneration, the competent authority shall use the detailed Guidelines established by Commission Decision 2008/952/EC of 19 November 2008 establishing detailed guidelines for the implementation and application of Annex II to Directive 2004/8/EC of the European Parliament and of the Council.”.
+
+Environmental Protection (Energy Efficiency)
 
 2009-28
