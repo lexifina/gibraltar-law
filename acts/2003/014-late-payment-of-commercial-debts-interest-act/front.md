@@ -12,7 +12,7 @@ Assent 31.7.2003
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2013/050 Long title ss. 1(3) & (4), 2-15 & Sch. 16.3.2013
+LN.  2013/050 Long title ss. 1(3) & (4), 2-15 & Sch. 16.3.2013 2014/097 ss. 3(1) & 9(2) 5.6.2014
 
 Transposing: Directive 2000/35/EC Directive 2011/7/EU
 
