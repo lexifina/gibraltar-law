@@ -10,6 +10,12 @@ Act. No. 2011-09 Commencement (LN. 2011/164) 23.9.2011
 
 Assent 23.3.2011
 
+Amending enactments Relevant current provisions Commencement date
+
+Act 2014-16 ss. 25(1)(a), 50(1), 54(1A), 64(1)(a), (2)(b), (3A), (3B), (3C), (3D), (5)
+
+12.6.2014
+
 ________________________
 
 ARRANGEMENT OF SECTIONS
@@ -26,15 +32,15 @@ Administration
 
 Prison Board and Official Visitors
 
-7. Establishment of Board. 8. Meetings of Board. 9. General duties of Board. 10. Particular duties of Board. 11. Members visiting prison. 12. Record book. 13. Prison visitors. 14. Disqualification relating to contracts. 15. Annual report. 16. Visiting ministers. 17. Right of a judge of the Supreme Court, the Stipendiary Magistrate and justice of the peace to visit prison.
+7. Establishment of Board. 8. Meetings of Board. 9. General duties of Board. 10. Particular duties of Board. 11. Members visiting prison. 12. Record book. 13. Prison visitors. 14. Disqualification relating to contracts. 15. Annual report. 16. Visiting ministers.
+
+Prison
+
+2011-09 17. Right of a judge of the Supreme Court, the Stipendiary Magistrate and justice of the peace to visit prison.
 
 General Principles
 
 18. Objectives of training and treatment, etc.
-
-Prison
-
-2011-09
 
 Confinement of Prisoners
 
@@ -48,15 +54,15 @@ Health
 
 39. Medical attendance. 40. Directions of medical officer. 41. Examination of prisoners. 42. Medical treatment of unconvicted prisoners. 43. Removal to hospital. 44. Special illness and conditions. 45. Inspection of prison. 46. Notification of illness or death. 47. Power to discharge prisoner temporarily on account of ill health. 48. Power to test prisoners for controlled drugs. 49. Power to test prisoners for alcohol.
 
+Prison
+
+2011-09
+
 Work
 
 50. Work.
 
 Remission
-
-Prison
-
-2011-09
 
 51. Remission of sentence.
 
@@ -77,6 +83,10 @@ SCHEDULE 1
 Matters to be taken into consideration by the Parole Board
 
 SCHEDULE 2
+
+Prison
+
+2011-09
 
 Licence conditions
 
