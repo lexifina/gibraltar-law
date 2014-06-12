@@ -16,7 +16,9 @@ Amending enactments Relevant current provisions Commencement Date Act. 1949-25 s
 
 7.6.1990 2007-17 ss. 2(a), 3(1), (2), 4(1), (3), (4), 6(a), (b), (c), 13(1), (2), (3),  (5), 21(1), (2), 22(1), 32(1), 43
 
-14.6.2007
+14.6.2007 2014-11 ss. 2, 6(c), 13(1), (3), 22(1), (1A), (1B), 23(4), (5) & Sch. 2A
+
+12.6.2014
 
 English sources
 
@@ -89,6 +91,8 @@ Miscellaneous
 SCHEDULE 1 Buildings deemed to be registered for the solemnization of marriages.
 
 SCHEDULE 2 Particulars to be set out in an affidavit or statutory declaration for the issue of a  special certificate or special licence.
+
+SCHEDULE 2A
 
 SCHEDULE 3 Consent required to the marriage of a minor.
 
