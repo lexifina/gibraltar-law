@@ -4,28 +4,6 @@ SCHEDULE 11
 
 TABLE OF REHABILITATION PERIODS
 
-A sentence of imprisonment of more than 6 months but not more than 30 months
-
-10 years for an adult, 5 years for a juvenile A sentence of imprisonment of 6 months or less
-
-7 years for an adult, 3½ years for a juvenile A fine
-
-5 years A community sentence
-
-A conditional discharge or binding over
-
-5 years for an adult; 2½ years of a juvenile
-
-The date on which the order or binding over ceases or 1 year, whichever is longer
-
-A hospital order under the Mental Health Act
-
-5 years from the date of conviction or 2 years after the order expires, whichever is longer
-
-Disqualification and other orders imposing a disability, prohibition or other penalty
-
-The date on which the order ceases to have effect An absolute discharge or a caution
-
-6 months A probation order under the Criminal Procedure Act 5 years for an adult, 2½ years for a juvenile, or the date on which the order ceases, whichever is longer
+Sentence End of rehabilitation period for adult offenders End of rehabilitation period for offenders under 18 at date of conviction A custodial sentence of more than 30 months and up to, or consisting of, 48 months The end of the period of 7 years beginning with the day on which the sentence (including any licence period) is completed The end of the period of 42 months beginning with the day on which the sentence (including any licence period) is completed A custodial sentence of more than 6 months and up to, or consisting of, 30 months The end of the period of 48 months beginning with the day on which the sentence (including any licence period) is completed The end of the period of 24 months beginning with the day on which the sentence (including any licence period) is completed A custodial sentence of 6 months or less The end of the period of 24 months beginning with the day on which the sentence (including any licence period) is completed The end of the period of 18 months beginning with the day on which the sentence (including any licence period) is completed A fine The end of the period of 12 months beginning with the date of the conviction in respect of which the sentence is imposed The end of the period of 6 months beginning with the date of the conviction in respect of which the sentence is imposed A compensation order The date on which the payment is made in full The date on which the payment is made in full A community or youth rehabilitation order or a probation order under the Criminal Procedure Act The end of the period of 12 months beginning with the day provided for by or under the order as the last day on which the order is to have effect The end of the period of 6 months beginning with the day provided for by or under the order as the last day on which the order is to have effect A relevant order The day provided for by or under the order as the last day on which the order is to have effect The day provided for by or under the order as the last day on which the order is to have effect
 
 2011-24 Criminal Procedure and Evidence
