@@ -24,13 +24,13 @@ Acts. 1960-31 ss. 4 and 12
 
 1960-42 s. 7(1) 1961-09 ss. 5(1) and (3), 6 and 15-27 1966-02 s. 4(1) 1972-01 s. 6(6A) 1975-22 – 1983-12 ss. 12(1) and 26(2)
 
-1990-08 Part XIV 1.3.1990 LN. 2013/175 s. 41A 5.12.2013
+1990-08 Part XIV 1.3.1990 LN. 2013/175 s. 41A 5.12.2013 “ Part XIV 13.6.2014
 
-English sources: Fatal Accidents Act 1846 (9 & 10 Vict. c.93) Fatal Accidents Act 1864 (27 & 28 Vict. c.95) Law of Property Act 1925 (15 Geo. 5 c.20) Law Reform (Miscellaneous Provisions) Act 1934 (24 & 25 Geo. 5 c. 41) Law Reform (Married Women and Tortfeasors) Act 1935 (25 & 26 Geo. 5 c. 30) Law Reform (Frustrated Contracts) Act 1943 (6 & 7 Geo. 6 c.40) Law Reform (Contributory Negligence) Act 1945 (8 & 9 Geo. 6 c. 28) Law Reform (Personal Injuries) Act 1948 (11 & 12 Geo. 6 c.41) Disposal of Uncollected Goods Act 1952 (15 & 16 Geo. 6 & 1 Eliz. 2 c.43) Occupiers’ Liability Act 1957 (5 & 6 Eliz. 2 c.31) Fatal Accidents Act 1959 (7 & 8 Eliz. 2 c.65) Corporate Bodies’ Contracts Act 1960 (8 & 9 Eliz. 2 c.46)
+English sources: Fatal Accidents Act 1846 (9 & 10 Vict. c.93) Fatal Accidents Act 1864 (27 & 28 Vict. c.95) Law of Property Act 1925 (15 Geo. 5 c.20) Law Reform (Miscellaneous Provisions) Act 1934 (24 & 25 Geo. 5 c. 41) Law Reform (Married Women and Tortfeasors) Act 1935 (25 & 26 Geo. 5 c. 30) Law Reform (Frustrated Contracts) Act 1943 (6 & 7 Geo. 6 c.40) Law Reform (Contributory Negligence) Act 1945 (8 & 9 Geo. 6 c. 28) Law Reform (Personal Injuries) Act 1948 (11 & 12 Geo. 6 c.41) Disposal of Uncollected Goods Act 1952 (15 & 16 Geo. 6 & 1 Eliz. 2 c.43) Occupiers’ Liability Act 1957 (5 & 6 Eliz. 2 c.31) Fatal Accidents Act 1959 (7 & 8 Eliz. 2 c.65)
 
 Contract and Tort
 
-1960-04 Married Women’s Property Act 1964 (1964 c.19) Misrepresentation Act 1967 (1967 c.7) Criminal Law Act 1967 (1967 c. 58) Law Reform (Miscellaneous Provisions) Act 1970 (1970 c.33) Matrimonial Proceedings and Property Act 1970 (1970 c.45 ) Law Reform (Miscellaneous Provisions) Act 1971 (1971 c.43)
+1960-04 Corporate Bodies’ Contracts Act 1960 (8 & 9 Eliz. 2 c.46) Married Women’s Property Act 1964 (1964 c.19) Misrepresentation Act 1967 (1967 c.7) Criminal Law Act 1967 (1967 c. 58) Law Reform (Miscellaneous Provisions) Act 1970 (1970 c.33) Matrimonial Proceedings and Property Act 1970 (1970 c.45 ) Law Reform (Miscellaneous Provisions) Act 1971 (1971 c.43)
 
 Transposing: Directive 2011/83/EU
 
@@ -114,8 +114,6 @@ PART XIII. MISCELLANEOUS.
 
 40. Legal assignment of things in action. 41. Civil rights in respect of maintenance and champerty. 41A.  Power to make Regulations.
 
-PART XIV. CONTRACTS CONCLUDED AWAY FROM BUSINESS PREMISES.
-
-42. Application of EEC Directive 85/577. 43.
+PART XIV. Repealed
 
 Contract and Tort
