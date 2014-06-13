@@ -1,14 +1,6 @@
-31.  Creating the false impression that the consumer has already won, will win, or will on doing a particular act win, a prize or other equivalent benefit, when in fact either
+SCHEDULE 2
 
-(a) there is no prize or other equivalent benefit; or
-
-(b) taking any action in relation to claiming the prize or other equivalent benefit is subject to the consumer paying money or incurring a cost.
-
-Consumer Protection (Unfair Trading)
-
-2008-18
-
-Section 7(6) SCHEDULE 2
+Section 7(6)
 
 COMMUNITY LAW PROVISIONS SETTING OUT RULES FOR ADVERTISING AND COMMERCIAL PRACTICES
 
@@ -30,9 +22,7 @@ COMMUNITY LAW PROVISIONS SETTING OUT RULES FOR ADVERTISING AND COMMERCIAL PRACTI
 
 9.  Articles 12 and 13 of Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation.
 
-Consumer Protection (Unfair Trading)
-
-2008-18 10.  Article 36 of Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance.
+10.  Article 36 of Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance.
 
 11.  Article 19 of Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments.
 
