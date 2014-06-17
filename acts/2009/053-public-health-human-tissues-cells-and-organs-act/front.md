@@ -14,9 +14,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.  2012/151 Long title, ss. 1A, 1B, 2-27, 28A- 28W, 29, Schs. 5, 6 & 12
 
-1.11.2012
+1.11.2012 2014/157 Schs. 2 & 3 17.6.2014
 
-Transposing: Directive 2004/23/EC Directive 2006/17/EC Directive 2006/86/EC Directive 2010/53/EU
+Transposing: Directive 2004/23/EC Directive 2006/17/EC Directive 2006/86/EC Directive 2010/53/EU Directive 2012/39/EU
 
 Public Health (Human Tissues, Cells and Organs)
 

@@ -10,7 +10,7 @@ LABORATORY TESTS REQUIRED FOR DONORS (EXCEPT DONORS OF REPRODUCTIVE CELLS).
 
 HIV 1 and 2 Anti-HIV-1,2 Hepatitis B HbsAg Anti HBc Hepatitis C Anti- HCV- Ab Syphilis See 1.4 (below)
 
-1.2. HTLV-1 antibody testing must be performed for donors living in or originating from high-incidence areas or with sexual partners originating from those areas or where the donor’s parents originate from those areas.
+1.2. HTLV-I antibody testing must be performed for donors living in, or originating from, high-prevalence areas or with sexual partners originating from those areas or where the donor’s parents originate from those areas.
 
 1.3. When anti-HBc is positive and HbsAg is negative, further investigations are necessary with a risk assessment to determine eligibility for clinical use.
 
