@@ -1,6 +1,6 @@
 SCHEDULE 1 Section 4
 
-Reference method for measuring the lead and benzene  content of petrol and determination or octane ratings.
+Reference method for measuring the lead and benzene content of petrol and determination or octane ratings.
 
 1. (a) Leaded petrol
 
@@ -21,7 +21,3 @@ Reference methods for the determination of octane ratings.
 Interpretation of results.
 
 4.  The results of individual measurements taken for the purposes of this Act shall be interpreted on the basis of the method described in ISO 4259.
-
-Motor Fuel (Composition and Content)
-
-2001-10
