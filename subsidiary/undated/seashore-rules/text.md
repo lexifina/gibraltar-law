@@ -10,7 +10,7 @@ SEASHORE RULES
 
 2.8.1968
 
-Amending enactments Relevant current provisions Commencement date Regs of 28.5.1970 LN. 1971/100 r. 9 Act. 1972-05 r. 17 LN. 1974/058 rr. 3-4, 14-15 1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989 1989/065 r. 7A 11.8.1989 1991/049 r. 17 4.4.1991 1991/063 r. 9(1) 18.4.1991 2014/081 rr. 14, 14A, 15, 17 22.5.2014
+Amending enactments Relevant current provisions Commencement date Regs of 28.5.1970 LN. 1971/100 r. 9 Act. 1972-05 r. 17 LN. 1974/058 rr. 3-4, 14-15 1988/018 r. 9(1) 4.2.1988 1989/033 r. 3(1) 1.4.1989 1989/065 r. 7A 11.8.1989 1991/049 r. 17 4.4.1991 1991/063 r. 9(1) 18.4.1991 2014/081 rr. 14, 14A, 15, 17 22.5.2014 2014/105 r. 13A 19.6.2014
 
 Public Health SEASHORE RULES
 
@@ -20,7 +20,7 @@ Subsidiary 1968.07.04 ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title. 2. Interpretation. 3. Booths, tents, etc. 4. Leaving of tents, etc., on beach overnight. 5. Games. 6. Fees. 7. Ball games prohibited at Catalan Bay. 7A. Angling. 8. Noisy instruments. 9. Control of dogs. 10. Broken glass, etc. 11. Ashes, filth, etc. 12. Indecent dress. 13. Changing on the seashore. 14. Swimming pools. 14A.  Camp Bay swimming Pool. 15. Paddling pools. 16. Wilfully obstructing police officers, etc. 17. Penalty.
+1. Title. 2. Interpretation. 3. Booths, tents, etc. 4. Leaving of tents, etc., on beach overnight. 5. Games. 6. Fees. 7. Ball games prohibited at Catalan Bay. 7A. Angling. 8. Noisy instruments. 9. Control of dogs. 10. Broken glass, etc. 11. Ashes, filth, etc. 12. Indecent dress. 13. Changing on the seashore. 13A.  Aqua stations 14. Swimming pools. 14A.  Camp Bay swimming Pool. 15. Paddling pools. 16. Wilfully obstructing police officers, etc. 17. Penalty.
 
 Public Health SEASHORE RULES
 
@@ -112,13 +112,23 @@ Changing on the seashore.
 
 13. No person shall change on the seashore in such a manner that his person is indecently exposed.
 
+Aqua stations
+
+13A(1) A person shall only use, climb onto or swim in the immediate vicinity of the structures known as Aqua stations when an official lifeguard is on duty at or on the Aqua station.
+
+(2) All persons using or swimming in the immediate vicinity of an Aqua station must follow the instructions of the lifeguard on duty at that station, in particular in relation to the number of persons using it or swimming near it at any one time and in relation to behaviour on or near the station.
+
 Swimming pools.
 
 14. No person over the age of twelve years shall use the children's swimming pools at Camp Bay.
 
 Camp Bay swimming Pool.
 
-14A. No person shall use the swimming pool at Camp Bay when it is closed to the public; in particular no person shall climb over or through the fence surrounding the pool.
+Public Health SEASHORE RULES
+
+1950-07
+
+Subsidiary 1968.07.04 14A. No person shall use the swimming pool at Camp Bay when it is closed to the public; in particular no person shall climb over or through the fence surrounding the pool.
 
 Paddling pools.
 
@@ -126,13 +136,7 @@ Paddling pools.
 
 Wilfully obstructing police officers, etc.
 
-16. No person shall on the seashore wilfully obstruct, disturb or interrupt any police officer or other officer of the Government in the proper discharge
-
-Public Health SEASHORE RULES
-
-1950-07
-
-Subsidiary 1968.07.04 of his duties or any person employed by the Government in the proper execution of any work connected with the improvement, maintenance or regulation of the seashore.
+16. No person shall on the seashore wilfully obstruct, disturb or interrupt any police officer or other officer of the Government in the proper discharge of his duties or any person employed by the Government in the proper execution of any work connected with the improvement, maintenance or regulation of the seashore.
 
 Penalty.
 
