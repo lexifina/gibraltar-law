@@ -12,7 +12,7 @@ GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2012/038 rr. 4(1)(c) & 76(3)(e) 29.3.2012
+LN. 2012/038 rr. 4(1)(c) & 76(3)(e) 29.3.2012 2014/108 rr. 21(1)(d), (2), 28(2), 29,  Schs. 4 & 9 26.6.2014
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
@@ -51,6 +51,8 @@ SCHEDULE 6 Entry of registration and Certificate of Registry
 SCHEDULE 7 Relevant Countries
 
 SCHEDULE 8 Provisions applicable to transitional pleasure yachts
+
+SCHEDULE 9 Registration of a yacht under construction
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 

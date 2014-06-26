@@ -2,75 +2,37 @@ SCHEDULE 4 Regulation 3(12)
 
 FEES AND CHARGES
 
-The several fees and charges prescribed in this Schedule shall be charged and be payable in respect of the matters therein prescribed and unless the fees and charges so prescribed and any fees and charges outstanding to the Register shall have been paid the Registrar shall not be required to provide any service under these regulations to a registered agent from whom payment is outstanding or in connection with a ship in respect of which fees, charges or taxes are outstanding.
+The fees in this Schedule are payable according to the table below.  If any fee is not paid, the Registrar will not provide any service under these regulations in respect of the fee payable for the yacht concerned. A registered ship or yacht agent who has not paid any outstanding fee will not receive any service under these regulations from the Registrar, irrespective of the ship or yacht concerned.
 
-Fees and charges payable and paid shall not be refundable.
+Table ‘A’ – Pleasure and Commercial Yachts (Under 24m)
 
-£ EURO 1. Application for registration of a pleasure yacht (regulations 15 and 27)
+YACHT REGISTRATION FEES
 
-225.00 360 2. Application for provisional registration (regulations 15 and 21)
+Fee £ Application for registration of a yacht 225.00 Application for provisional registration or registration of yacht under construction 175.00 Registration following provisional registration 100.00 Application for change of name of a yacht 50.00 Application for annual renewal of Certificate of Registry including filing of Annual Statement of Particulars 25.00 Late filing of Registration Renewal 25.00 Application for extension of provisional registration or yacht under construction 50.00 Application for transfer of registration from or to a registry in a relevant country 225.00 Issue of a Certificate of Deletion 25.00 Issue of a Duplicate Certificate 25.00 Transfer of ownership, including issue of new Certificate 75.00 Recording of a mortgage or related instrument and/or the Discharge thereof 75.00 Endorsement of a counterpart of a recorded mortgage or related instrument 25.00 Transfer of mortgage 75.00 Transcript of Register 25.00 Inspection of Register including Memorandum of Particulars 10.00 Registration of change of any registered particulars recorded in the Register (including new Certificate) 25.00 Registration of Foreign Maritime Entity 150.00 Signal letters when not submitted on first registration 25.00 Restoration of registration 50.00
 
-175.00 280 3. Registration following provisional registration (regulations 15, 21 and 27)
+Table ‘B’ – Pleasure Yachts (Over 24m)
 
-100.00 160 4. Application for change of name of pleasure yacht (regulation 14)
+YACHT REGISTRATION FEES
 
-50.00
-
-80 5. Application for annual renewal of Certificate of Registry including filing of Annual Statement of Particulars (regulation 30)
-
-25.00
-
-40 6. Application for extension of provisional registration (regulation 22)
-
-50.00
-
-80 7. Application for transfer of registration from or to a registry in a relevant country (regulation 32)
-
-225.00
-
-360 8. Issue of a Certificate of Deletion (regulation 42)
-
-25.00 40
+Fee £
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
 1995-12
 
-Subsidiary 1997/153 9. Issue of a Duplicate Certificate (regulation 48)
+Subsidiary 1997/153 Application for registration of a yacht (over 24m – up to 1599 GT) 400.00 Application for registration of a yacht (over 1600 GT) 600.00 Application for provisional registration 300.00 Registration following provisional registration (over 24m – up to 1599 GT) 200.00 Registration following provisional registration (over 1600 GT) 400.00 Application for change of name of a yacht 150.00 Application for annual renewal of Certificate of Registry including filing of Annual Statement of Particulars 70.00 Application for extension of provisional registration 110.00 Application for transfer of registration from or to a registry in a relevant country 400.00 Issue of a Certificate of Deletion 70.00 Issue of a Duplicate Certificate 70.00 Transfer of ownership, including issue of new Certificate 200.00 Recording of a mortgage or related instrument and/or the Discharge thereof 150.00 Endorsement of a counterpart of a recorded mortgage or related instrument 55.00 Transfer of mortgage 150.00 Transcript of Register 55.00 Registration of change of any registered particulars recorded in the Register (including new Certificate) 70.00 Signal letters when not submitted on first registration 70.00
 
-25.00 40 10. Transfer of ownership, including issue of new Certificate (regulations 34 - 38)
+Table ‘C’ – Commercial Yachts (Over 24m)
 
-75.00
+YACHT REGISTRATION FEES
 
-120 11. Recording of a mortgage or related instrument and/or the Discharge thereof (regulations 50, 51 and 52)
+Fee £ Application for registration of a yacht (over 24m – up to 1599 GT) 550.00 Application for registration of a yacht (over 1600 GT) 1,100.00 Application for provisional registration (over 24m) or yacht under construction (over 24m) 450.00 Registration following provisional registration (over 24m – up to 1599 GT) 350.00 Registration following provisional registration (over 1600 GT) 900.00 Application for change of name of a yacht (over 24m) 350.00 Application for annual renewal of Certificate of Registry including filing of Annual Statement of Particulars 110.00 Late filing of Registration Renewal 30.00 Application for extension of provisional registration or yacht under construction (over 24m) 200.00 Application for transfer of registration from or to a registry in a relevant country 550.00 Issue of a Certificate of Deletion 110.00 Issue of a Duplicate Certificate 110.00 Transfer of ownership, including issue of new Certificate 550.00 Recording of a mortgage or related instrument and/or the Discharge thereof 200.00 Endorsement of a counterpart of a recorded mortgage or related instrument 110.00 Transfer of mortgage 200.00 Transcript of Register 110.00 Inspection of Register including Memorandum of Particulars 50.00 Registration of change of any registered particulars recorded in the Register (including new Certificate) 110.00
 
-75.00
+Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
-120 12. Endorsement of a counterpart of recorded mortgage or related instrument (regulation 50(7))
+1995-12
 
-25.00
-
-40 13. Transfer of mortgage (regulations 58 and 59)
-
-75.00 120 14. Transcript of Register (regulation 3)
-
-25.00 40 15. Inspection of Register including Memorandum of Particulars (regulations 3 and 50)
-
-10.00
-
-16 16. Registration of change of any registered particulars recorded in the Register (including new Certificate) (regulations 5, 8 and 31)
-
-25.00
-
-40 17. Registration of Foreign Maritime Entity (Schedule 1)
-
-150.00 240 18. Signal letters when not submitted on first registration (regulation 3)
-
-25.00
-
-40 19. Restoration of registration (regulation 18(7))
-
-50.00 80
+Subsidiary 1997/153 Signal letters when not submitted on first registration 110.00 Restoration of registration 110.00
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
