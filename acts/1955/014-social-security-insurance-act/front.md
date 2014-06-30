@@ -124,13 +124,33 @@ Social Security (Insurance)
 
 28.11.2013 2014-10 ss. 2(3)(a), (4)(c), 11(1)(b), 18(1)(b), 23(1), 27(2), (4), 28(2), 38(2)(d), 41(1), (2), (a), (4), 44(5), 49(1), Sch.3
 
-28.3.2014
+28.3.2014 2015-111 ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3
+
+30.6.2014
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
 Transposing: Directive 86/613/EEC Directive 2010/41/EU
 
 EU Legislation/International Agreements involved:
+
+1 Transitional provisions: If between 30 June 2014 and the date of publication of this Act–
+
+(a) a woman received a maternity grant at a reduced rate due to not satisfying the relevant contribution conditions; and
+
+(b) the child’s father satisfied the relevant contribution conditions,
+
+that woman shall be entitled to claim an additional benefit (the “additional benefit”) on the basis of the contributions of the child’s father.
+
+(3)  The additional benefit must not amount to more than the difference between the reduced maternity grant received and the sum specified in paragraph 1 of Part VI of Schedule 2 of the principal Act.
+
+(4)  Notwithstanding the prescribed time set out in paragraph 1(b) of Schedule 2 of the Social Insurance (Claims and Payments) Regulations, if between 30 June 2014 and the date of publication of this Act–
+
+(a) a woman has received a maternity grant at a reduced rate due to not satisfying the relevant contribution conditions and she wishes to claim the additional benefit; or
+
+(b) a woman was confined and wishes to claim for a maternity grant on the basis of the contributions of the child’s father,
+
+the prescribed time for claiming the benefit shall be the period of 18 months beginning with the date of confinement.
 
 Social Security (Insurance)
 
@@ -312,7 +332,7 @@ Social Security (Insurance)
 
 1955-14
 
-(d)  an illegitimate child shall not be treated as being issue of the child’s father;
+(d)  Deleted
 
 (e)  references to the parents, a parent, the father or the mother of a child, or to an illegitimate child shall be construed in accordance with the foregoing provisions of this subsection.
 
@@ -336,9 +356,11 @@ Description of insured persons.
 
 3. (1)  Subject to the provisions of this Act, every person who on or after the 6th day of January, 1975, is–
 
+(a)  under pensionable age; and
+
 Social Security (Insurance)
 
-1955-14 (a)  under pensionable age; and
+1955-14
 
 (b)  either self-employed or in insurable employment under the Social Security (Employment Injuries Insurance) Act,
 
@@ -540,9 +562,9 @@ Social Security (Insurance)
 
 (a) she has been confined; and
 
-(b) she or her husband or civil partner satisfies the relevant contribution conditions;
+(b) she, her husband, civil partner or the child’s father satisfies the relevant contribution conditions;
 
-Provided that she shall not be entitled to a maternity grant by virtue of both of her own and of her husband’s or civil partner’s insurance.
+Provided that she shall not be entitled to a maternity grant twice by virtue of her own insurance and that of her  husband, civil partner or the child’s father.
 
 (2)  Except where regulations otherwise provide, a woman shall not be entitled to a maternity grant in respect of a confinement if on the date of the confinement she is outside Gibraltar or the Campo district.
 
@@ -564,7 +586,9 @@ Maternity allowance.
 
 Social Security (Insurance)
 
-1955-14 (d)  she has, where relevant complied with the duty to inform the Director under regulations 4, 6, 7, 8 and 14 of the Employment (Maternity and Health and Safety) Regulations 1996.*
+1955-14
+
+(d)  she has, where relevant complied with the duty to inform the Director under regulations 4, 6, 7, 8 and 14 of the Employment (Maternity and Health and Safety) Regulations 1996.*
 
 (2)  Maternity allowance shall be paid for a maximum period of 18 weeks, at fortnightly intervals, or in such other manner as the Director may, in any particular circumstances, deem appropriate.
 
@@ -584,13 +608,11 @@ Supplemental provisions as to maternity grants.
 
 (a)  the expression “confinement” means labour resulting in the issue of a living child, or labour after twenty-four weeks of pregnancy resulting in the issue of a child whether alive or dead, and the expression “confined” shall be construed accordingly ;
 
-(b)  references to the date of the confinement shall be taken as referring, where labour begun on one day results in the issue of
-
 * Saving provision inserted at the end of this Act  This amendment shall not apply to persons who were entitled to maternity allowance in respect of a confinement if the date of confinement was prior to the 1st day of July 2004.  See Transitional provisions in the amendments list page (Act 2012-11)
 
 Social Security (Insurance)
 
-1955-14 a child on another day, to the date of the issue of the child or, if the woman is confined of twins or a greater number of children, to the date of issue of the last of them.
+1955-14 (b)  references to the date of the confinement shall be taken as referring, where labour begun on one day results in the issue of a child on another day, to the date of the issue of the child or, if the woman is confined of twins or a greater number of children, to the date of issue of the last of them.
 
 13. Revoked. 14. Revoked. 14A. Revoked. 15.  Revoked. 16. Revoked. 16A.   Revoked. 17.   Revoked.
 
@@ -614,7 +636,9 @@ Death grant.
 
 Social Security (Insurance)
 
-1955-14 (b)  references to expenses in connection with attendance at a funeral include references to any loss of remunerative time due to the attendance.
+1955-14
+
+(b)  references to expenses in connection with attendance at a funeral include references to any loss of remunerative time due to the attendance.
 
 (3)  Except where regulations otherwise provide, a death grant shall not be payable in respect of a death occurring outside Gibraltar or the Campo district.
 
@@ -640,7 +664,9 @@ Increase of benefit for children.
 
 Social Security (Insurance)
 
-1955-14 19. Revoked.
+1955-14
+
+19. Revoked.
 
 Increase of old age pension.
 
@@ -712,11 +738,11 @@ Social Security (Insurance)
 
 and by reason thereof that person has lost, in whole or in part, any maternity grant or maternity allowance to which she would have been entitled, that person shall be entitled to recover summarily from the employer as a civil debt a sum equal to the amount of the grant so lost.
 
-(2)  Where the employed person is a man, his wife, civil partner or widow or surviving civil partner shall have the same right to recover under subsection (1) in respect of maternity grant or maternity allowance lost by her as if the employer’s failure or neglect had been in respect of her.
+(2)  Where the employed person is a man, his wife, civil partner or widow or surviving civil partner or the child’s mother shall have the same right to recover under subsection (1) in respect of maternity grant lost by her as if the employer’s failure or neglect had been in respect of her.
 
 (3)  Proceedings may be taken under this section notwithstanding that proceedings have been taken under any other provision of this Act in respect of the same failure or neglect.
 
-(4)  Proceedings under this section may, notwithstanding any enactment to the contrary, be brought at any time within one year after the date on which the employed person or his wife or civil partner or widow or surviving civil partner, but for the failure or neglect of the employer, would have been entitled to receive the benefit lost.
+(4)  Proceedings under this section may, notwithstanding any enactment to the contrary, be brought at any time within one year after the date on which the employed person or his wife or civil partner or widow or surviving civil partner or the child’s mother, but for the failure or neglect of the employer, would have been entitled to receive the benefit lost.
 
 Provisions as to maintenance and incapacity for self-support.
 
@@ -952,7 +978,7 @@ Information as to, and proof of, age, marriage, civil partnership and death.
 
 41.(1)  Rules made under the Births and Deaths Registration Act, the Marriage Act and the Civil Partnership Act 2014 may provide for the furnishing by the Registrar subject to the payment of such fee as may be prescribed by the rules, of such information for the purposes of this Act including copies or extracts from the registers in their custody, as may be so prescribed.
 
-(2)  Where the age, marriage, civil partnership or death of a person is required to be ascertained or proved for the purposes of this Act, any person shall
+(2)  Where the age, marriage, civil partnership, death of a person or the identity of the child’s father is required to be ascertained or proved for the purposes of this Act, any person shall
 
 (a)  on presenting to the custodian of the register under the laws relating to the registration of births, marriages, civil partnerships and deaths, wherein particulars of the birth, marriage, civil partnership or death, as the case may be of the first mentioned person are entered, a duly completed requisition in writing in that behalf; and
 
