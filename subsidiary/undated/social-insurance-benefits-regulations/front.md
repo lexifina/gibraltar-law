@@ -36,7 +36,7 @@ Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 LN. 2013/132 r. 44(2), Schs.2, 5 24.6.2013 Act. 2014-10 rr. 2, 4(1)(b), 9(b), 39(1)(a), (c) 28.3.2014
+Subsidiary 1955.08.04-4 LN. 2013/132 r. 44(2), Schs.2, 5 24.6.2013 Act. 2014-10 rr. 2, 4(1)(b), 9(b), 39(1)(a), (c) 28.3.2014 2015-11 r. 9 30.6.2014
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
@@ -262,17 +262,17 @@ PART II.–MATERNITY BENEFITS.
 
 Maternity grant in expectation of confinement.
 
-9.In a case where a woman makes a claim for a maternity grant and indicates therein that she desires that the provisions of section 11 of the Act shall apply to her with the substitution, for the condition that she has been confined, of the condition that it is to be expected that she will be confined,–
+9.In a case where a woman makes a claim for a maternity grant based on her insurance or that of her husband or civil partner and indicates therein that she desires that the provisions of section 11 of the Act shall apply to her with the substitution, for the condition that she has been confined, of the condition that it is to be expected that she will be confined,–
 
 (a)  that section shall so apply to her in relation to that claim; and
 
-(b)  in their application to such a case, the contribution conditions for a maternity grant as set out in paragraph I of Part I of Schedule 3 to the Act shall apply as if, for sub-paragraph (2) (b) of that paragraph there were substituted the following:–
+(b)  in their application to such a case, the contribution conditions for a maternity grant as set out in paragraph I of Part I of
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4
+Subsidiary 1955.08.04-4 Schedule 3 to the Act shall apply as if, for sub-paragraph (2) (b) of that paragraph there were substituted the following:–
 
 (b) the expression “relevant time” means the contribution week in which it is to be expected that the claimant will be confined or, where the relevant person is the husband or civil partner and he or she was dead or over pensionable age on the date of the making of the claim, the date of his attaining pensionable age, or dying under that age.
 
@@ -294,13 +294,11 @@ Partial satisfaction of contribution conditions (I).
 
 Partial satisfaction of contribution conditions (II).
 
-12.(1)  Where a woman would be entitled to a maternity grant at the rate specified in Part IV of Schedule 2 to the Act but for the fact that the relevant
-
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 contribution conditions are not satisfied as respects the number of contributions paid since the lst day of January, 1968, she shall nevertheless be entitled to a grant in accordance with sub-regulation (2) if not less than thirteen contributions have been paid since the 1st day of January, 1968.
+Subsidiary 1955.08.04-4 12.(1)  Where a woman would be entitled to a maternity grant at the rate specified in Part IV of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied as respects the number of contributions paid since the lst day of January, 1968, she shall nevertheless be entitled to a grant in accordance with sub-regulation (2) if not less than thirteen contributions have been paid since the 1st day of January, 1968.
 
 (2)  Maternity grant shall be payable at the reduced rate specified in column (2) of Part II of Schedule 2 to these regulations which corresponds with the number of contributions paid since the 1st day of January, 1968, as shown in column (I) of that Schedule.
 
@@ -314,13 +312,13 @@ Partial satisfaction of contribution conditions (IV).
 
 14.(1)  Where a woman would be entitled to a maternity grant at the rate specified in Part IV of Schedule 2 to the Act but for the fact that the relevant contribution conditions are not satisfied both as respects the number of contributions paid or credited in respect of the relevant contribution year and as respects the number of contributions paid since the lst day of January, 1968, she shall nevertheless be entitled to a grant in accordance with sub- regulation (2) if not less than thirteen contributions have been paid or credited in respect of the relevant contribution year and not less than thirteen contributions have been paid since the lst day of January, 1968.
 
-(2)  Where the number of contributions paid or credited in the relevant contribution year corresponds with any of the numbers in column (1) of Part IV of Schedule 2 to these regulations and the number of contributions paid since the lst day of January, 1968, corresponds with any of the numbers shown at the head of columns (2) to (4) of that Part of that Schedule, then maternity grant shall be payable at the reduced rate which is applicable both to the number of contributions shown in column (I) and the number of
+(2)  Where the number of contributions paid or credited in the relevant contribution year corresponds with any of the numbers in column (1) of Part IV of Schedule 2 to these regulations and the number of contributions paid since the lst day of January, 1968, corresponds with any of the numbers shown at the head of columns (2) to (4) of that Part of that Schedule, then maternity grant shall be payable at the reduced rate which is applicable both
 
 Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
 
 1955-14
 
-Subsidiary 1955.08.04-4 contributions shown at the head of whichever of columns (2) to (4) is appropriate.
+Subsidiary 1955.08.04-4 to the number of contributions shown in column (I) and the number of contributions shown at the head of whichever of columns (2) to (4) is appropriate.
 
 Partial satisfaction of contribution conditions (V).
 
