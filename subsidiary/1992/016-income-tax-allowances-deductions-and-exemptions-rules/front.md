@@ -52,7 +52,9 @@ Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 199
 
 1.7.2013 Act. 2014-10 rr. 6B(1), (2)(b)(ii), (3)(c), 5(b), (6), 7(1), (b), 12, 18-19, 20A(1), 21(4), (9), 22(1), (2A), (3), (5)(a)- (b)
 
-28.3.2014 LN. 2018/060 r. 3A(b)-(d) 1.4.2014
+28.3.2014 LN. 2018/060 r. 3A(b)-(d) 1.4.2014 2015/032 rr. 3(46), 6(1), 7, 7A(1), 12, 14A(1), 16B(1)-(2), 16B(1)-(2), 16E, 17, 20A(1), 20B, 24A
+
+1.7.2014
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
@@ -60,11 +62,11 @@ ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title and commencement. 2. Meaning of “child. 3. Income Exempted. 3A. Treatment of specified pension income. 3B. Revoked. 4. Loans charged on Consolidated Fund. 5. Revoked. 5A. Revoked. 5B. Revoked. 5C. Revoked. 5D. Revoked. 5E. Revoked. 6. Personal Allowance under Allowances Based System. 6A. Limitation on entitlement to claim allowances and deductions under Allowances Based System for individuals. 6B. Restrictions on entitlement to Allowances Based System for spouses or civil partners. 6C. Tax credit for Individuals in Allowances Based System. 7. Deduction for a spouse. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 16A. Special deduction for senior citizens. 16B. Low income earner’s tax allowance and credit. 16C. Special allowance for individuals with total deductions amounting to less than £3,888. 16D. Tax credit for individual’s aged 60 years and over. 16E. Special tax treatment of an individual on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters.
+1. Title and commencement. 2. Meaning of “child. 3. Income Exempted. 3A. Treatment of specified pension income. 3B. Revoked. 4. Loans charged on Consolidated Fund. 5. Revoked. 5A. Revoked. 5B. Revoked. 5C. Revoked. 5D. Revoked. 5E. Revoked. 6. Personal Allowance under Allowances Based System. 6A. Limitation on entitlement to claim allowances and deductions under Allowances Based System for individuals. 6B. Restrictions on entitlement to Allowances Based System for spouses or civil partners. 6C. Tax credit for Individuals in Allowances Based System. 7. Deduction for a spouse. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 16A. Special deduction for senior citizens. 16B. Low income earner’s tax allowance and credit. 16C. Special allowance for individuals with total deductions amounting to less than £3,988. 16D. Tax credit for individual’s aged 60 years and over. 16E. Special tax treatment of an individual on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters.
 
 Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992 1992/016
 
-20. Effect of non residence. 20A. Deduction for health insurance premiums. 21. Deduction in respect of life assurance premiums etc. 21A. Deduction in respect of contributions paid to a Personal Pension Scheme and a Retirement Annuity Contract. 22. Deduction in respect of loan interest. 23. Deduction in respect of certain investments. 24. Entitlement to specified deductions for non resident individuals. 24A. Deduction for approved pension. 25. Revoked. 26. Revoked. 27. Repealed. 27A. Repealed. 28. Revoked. 29. Allowances and deductions subject to return of income being made and proof of claim. 30. Amendment to Act. 31. Repeal and Revocation.
+20. Effect of non residence. 20A. Deduction for health insurance premiums. 20B. Deduction for health insurance premiums; Gross Income Based System. 21. Deduction in respect of life assurance premiums etc. 21A. Deduction in respect of contributions paid to a Personal Pension Scheme and a Retirement Annuity Contract. 22. Deduction in respect of loan interest. 23. Deduction in respect of certain investments. 24. Entitlement to specified deductions for non resident individuals. 24A. Deduction for approved pension. 25. Revoked. 26. Revoked. 27. Repealed. 27A. Repealed. 28. Revoked. 29. Allowances and deductions subject to return of income being made and proof of claim. 30. Amendment to Act. 31. Repeal and Revocation.
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
