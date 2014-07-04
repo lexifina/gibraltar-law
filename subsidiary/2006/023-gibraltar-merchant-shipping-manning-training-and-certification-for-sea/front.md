@@ -10,9 +10,11 @@ GIBRALTAR MERCHANT SHIPPING (MANNING, TRAINING AND CERTIFICATION FOR SEAFARERS) 
 
 Commencement 6.4.2006 (LN. 2006/038)
 
-Amending enactments Relevant current provisions Commencement date LN. 2008/032 rr. 2, 12A, 29(a), 30A & 42A 8.5.2008
+Amending enactments Relevant current provisions Commencement date LN. 2008/032 rr. 2, 12A, 29(a), 30A & 42A 8.5.2008 2014/112 rr. 2, 6(1), 9A-9C, 13(1), (2), (3), 13A, 13B, 14(1), (2), (2)(e), 15(1)- (4), 16(1)-(5), 17(2), 18(1), (2), 19(1), (2), 19A, 20(1), (2), 21(2), 21A-21C, 26A, 26B, 27(1), (2), (2A), (3), (5A),38(1)(f), (g), (8), 39, 42, 43(1), (8), (9), 44(1), (2), (2A), 44B, Schs. 1 & 2
 
-Transposing: Directive 2001/25/EC Directive 2003/103/EC Directive 2005/23/EC Directive 2005/45/EC
+4.7.2014
+
+Transposing: Directive 2001/25/EC Directive 2003/103/EC Directive 2005/23/EC Directive 2005/45/EC Directive 2008/106/EC
 
 Implementing: International Convention for Safety of Life at Sea, 1974 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978
 
@@ -28,27 +30,31 @@ PART 1 Preliminary
 
 PART 2 Manning and training
 
-4. Requirement for safe manning document. 5. Procedure for safe manning document. 6. Requirement for training. 7. Familiarisation training. 8. Basic training. 9. Mandatory training and qualification for masters, officers and ratings on tankers. 10. Mandatory training and qualifications for masters, officers, ratings and other personnel on passenger ships other than ro-ro passenger ships. 11. Mandatory training and qualifications for masters, officers, ratings and other personnel on ro-ro passenger ships. 12. Mandatory training for seafarers in advanced fire-fighting. 12A. Requirement of language proficiency for seafarers.
+4. Requirement for safe manning document. 5. Procedure for safe manning document. 6. Requirement for training. 7. Familiarisation training. 8. Basic training. 9. Mandatory training and qualification for masters, officers and ratings on tankers. 9A. Mandatory minimum requirements for the training and qualifications of masters, officers and ratings on oil and chemical tankers. 9B. Mandatory minimum requirements for the training and qualifications of masters, officers and ratings on liquefied gas tankers. 9C. Mandatory minimum requirements for the training and qualifications of masters, officers, ratings and other personnel on passenger ships engaged on international voyage. 10. Mandatory training and qualifications for masters, officers, ratings and other personnel on passenger ships other than ro-ro passenger ships. 11. Mandatory training and qualifications for masters, officers, ratings and other personnel on ro-ro passenger ships. 12. Mandatory training for seafarers in advanced fire-fighting. 12A. Requirement of language proficiency for seafarers.
 
 PART 3 Certification for seafarers
 
-13. Requirement for certificates for seafarers. 14. Certificates for officers in charge of a navigational watch on ships of 500 gross tonnage or more. 15. Certificates for masters and Chief mates on ships of 500 gross tonnage or more. 16. Certificates for officers in charge of a navigational watch and of masters on ships of less than 500 gross tonnage. 17. Certificates for ratings forming part of a navigational watch. 18. Certificates for Chief engineer officers and Second engineer officers on ships powered by main propulsion machinery of 3000 kW propulsion power or more. 19. Certificates for Chief engineer officers and Second engineer officers on ships powered by main propulsion machinery of between 750 kW and 3000 kW propulsion power.
+13. Requirement for certificates for seafarers. 13A. Certificates of competency, certificates of proficiency and endorsements. 13B.  Information to the Commission. 14. Certificates for officers in charge of a navigational watch on ships of 500 gross tonnage or more.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MANNING, TRAINING AND CERTIFICATION FOR SEAFARERS) REGULATIONS 2006
 
 1995-13
 
-Subsidiary 2006/023 20. Certificates for officers in charge of an engineering watch in a manned engine-room or designated duty engineers in a periodically unmanned engine-room. 21. Certificates for ratings forming part of a watch in a manned engine- room or designated to perform duties in a periodically unmanned engine-room. 22. Radio operator’s certificate in Global Maritime Distress and Safety System. 23. Certificate for seafarer of proficiency in survival craft, rescue  boats and fast rescue boats. 24. Certificate for seafarer in medical first aid. 25. Certificate for seafarer of proficiency in medical care. 26. Certificate for advanced fire-fighting. 27. Issue and registration of certificates. 28. Endorsement of certificates. 29. Recognition of certificates issued by a Member State. 30. Recognition of certificates issued by a third country. 30A. Recognition of appropriate certificate. 31. Assessment of compliance and withdrawal of recognition. 32. Alternative certificates. 33. Revalidation of certificates.
-
-Part 4 Matters incidental to seafarers training, experience and certification
-
-34. Near-coastal voyages. 35. Quality standards. 36. Use of simulators. 37. Responsibility for training and assessment. 38. Responsibilities of companies. 39. Fitness for duty. 40. Responsibilities of the company and the master with regard to   on- board communication. 41. Dispensation. 42. Inquiry and investigation. 42A. Prevention of fraud and other unlawful practices. 43. Offences and penalties. 44. Port State Control. 45. Fees. 46. Appeals. 47. Power to make Administrative Instructions. 48. Revocation.
+Subsidiary 2006/023 15. Certificates for masters and Chief mates on ships of 500 gross tonnage or more. 16. Certificates for officers in charge of a navigational watch and of masters on ships of less than 500 gross tonnage. 17. Certificates for ratings forming part of a navigational watch. 18. Certificates for Chief engineer officers and Second engineer officers on ships powered by main propulsion machinery of 3000 kW propulsion power or more. 19. Certificates for Chief engineer officers and Second engineer officers on ships powered by main propulsion machinery of between 750 kW and 3000 kW propulsion power. 19A.  Certificates for ratings as able seafarer deck. 20. Certificates for officers in charge of an engineering watch in a manned engine-room or designated duty engineers in a periodically unmanned engine-room. 21. Certificates for ratings forming part of a watch in a manned engine- room or designated to perform duties in a periodically unmanned engine-room. 21A.  Certification of ratings as able seafarer engine in a manned engine- room or designated to perform duties in a periodically unmanned engine-room. 21B. 21C.  Certification of electro-technical rating. 22. Radio operator’s certificate in Global Maritime Distress and Safety System. 23. Certificate for seafarer of proficiency in survival craft, rescue  boats and fast rescue boats. 24. Certificate for seafarer in medical first aid. 25. Certificate for seafarer of proficiency in medical care. 26. Certificate for advanced fire-fighting. 26A.  Mandatory minimum requirements for the issue of certificates of proficiency for ship security officers. 26B.  Mandatory minimum requirements for security related training and instruction for all seafarers. 27. Issue and registration of certificates. 28. Endorsement of certificates. 29. Recognition of certificates of competency and certificates of proficiency issued by a Member State. 30. Recognition of certificates issued by a third country. 30A.  Recognition of appropriate certificate. 31. Assessment of compliance and withdrawal of recognition. 32. Alternative certificates. 33. Revalidation of certificates of competency and certificates of proficiency.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MANNING, TRAINING AND CERTIFICATION FOR SEAFARERS) REGULATIONS 2006
 
 1995-13
 
 Subsidiary 2006/023
+
+Part 4 Matters incidental to seafarers training, experience and certification
+
+34. Principles governing near-coastal voyages. 35. Quality standards. 36. Use of simulators. 37. Responsibility for training and assessment. 38. Responsibilities of companies. 39. Fitness for duty. 40. Responsibilities of the company and the master with regard to   on- board communication. 41. Dispensation. 42. Inquiry, Investigation and disciplinary measures. 42A.  Prevention of fraud and other unlawful practices. 43. Offences and penalties. 44. Port State Control. 44B.  Transitional provisions. 45. Fees. 46. Appeals. 47. Power to make Administrative Instructions. 48. Revocation.
+
+SCHEDULE 1 TRAINING REQUIREMENTS OF THE STCW CONVENTION, REFERRED TO IN REGULATION 6
+
+SCHEDULE 2 TYPE OF INFORMATION TO BE COMMUNICATED TO THE COMMISSION FOR STATISTICAL PURPOSES
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MANNING, TRAINING AND CERTIFICATION FOR SEAFARERS) REGULATIONS 2006
 
