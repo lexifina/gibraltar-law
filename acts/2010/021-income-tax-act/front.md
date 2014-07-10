@@ -8,7 +8,7 @@ Act No 2010-21 Commencement (LN.2010/180) 1.1.2011
 
 Assent 1.11.2010
 
-Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014
+Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU
 
@@ -28,7 +28,7 @@ Part I- Administration
 
 Part II- Charge to tax
 
-11. The charge to taxation. 12. Taxation of beneficiaries. 13. Taxation of trusts. 14. Refund of certain contributions. 14A. Pensions imported from another country, territory or jurisdiction.
+11. The charge to taxation. 12. Taxation of beneficiaries. 13. Taxation of trusts. 14. Refund of certain contributions. 14A. Pensions imported from another country, territory or jurisdiction. 14B. Pensions in connection with a statutory instrument.
 
 Part III- Computation of assessments
 
@@ -38,7 +38,9 @@ Part IV- Rate of taxation and assessment
 
 Income Tax
 
-2010-21 24. Rate of taxation. 25. Reliefs, allowances, etc. 25A. Gifts to charity by individuals. 26. Tabling of Rules before Parliament and effect of annulment. 27. Retrospective effect. 28. Tax payers other than companies to make returns. 29. Companies to make returns. 30. Returns- supplementary. 31. Procedure following receipt of return. 32. Power to make enquiries on return. 33. Assessment where no return received or tax is due on income subject to the PAYE Regulations. 34. Additional assessments. 35. Service of assessments and appeals. 36. Application for postponement of tax payable. 37. Relief in respect of foreign tax paid. 38. Assessments to be final and conclusive.
+2010-21
+
+24. Rate of taxation. 25. Reliefs, allowances, etc. 25A. Gifts to charity by individuals. 26. Tabling of Rules before Parliament and effect of annulment. 27. Retrospective effect. 28. Tax payers other than companies to make returns. 29. Companies to make returns. 30. Returns- supplementary. 31. Procedure following receipt of return. 32. Power to make enquiries on return. 33. Assessment where no return received or tax is due on income subject to the PAYE Regulations. 34. Additional assessments. 35. Service of assessments and appeals. 36. Application for postponement of tax payable. 37. Relief in respect of foreign tax paid. 38. Assessments to be final and conclusive.
 
 Part V- Payment of taxation
 
@@ -54,11 +56,11 @@ Part VII- Chargeability of and acts to be done by agents and others
 
 Part VIII- Assessment and withholding
 
-53. Assessment record. 54. Errors and defects in assessments, etc. 55. Pay as You Earn.
+53. Assessment record. 54. Errors and defects in assessments, etc.
 
 Income Tax
 
-2010-21 56. Return to be made by employer. 57. Payment of tax of individuals employed but not domiciled or ordinarily resident in Gibraltar. 58. Deductions from payments to construction sub-contactors. 59. Returns in respect of dividends. 60. Set off of tax credit. 61. Repayment of tax. 62. Recovery of tax through employers and others.
+2010-21 55. Pay as You Earn. 56. Return to be made by employer. 57. Payment of tax of individuals employed but not domiciled or ordinarily resident in Gibraltar. 58. Deductions from payments to construction sub-contactors. 59. Returns in respect of dividends. 60. Set off of tax credit. 61. Repayment of tax. 62. Recovery of tax through employers and others.
 
 Part IX- Offences, surcharges, penalties and miscellaneous
 
@@ -80,11 +82,11 @@ Table C
 
 Other income
 
-Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income.
+Class 1 Dividends.
 
 Income Tax
 
-2010-21 Class 3 Income from rights. Class 3A Royalties Class 4 Pension, charge or annuity income. Class 5 Sweeping up class.
+2010-21 Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 3A Royalties Class 4 Pension, charge or annuity income. Class 5 Sweeping up class.
 
 SCHEDULE 2
 
@@ -111,6 +113,10 @@ Part V- Miscellaneous
 17. Irregularity. 18. Form of notices. 19. Service of notices etc. 20. Penalties.
 
 Part VI- Interpretation
+
+Income Tax
+
+2010-21
 
 21. Interpretation.
 
