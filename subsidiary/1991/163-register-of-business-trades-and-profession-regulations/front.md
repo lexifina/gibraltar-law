@@ -8,11 +8,11 @@ REGISTER OF BUSINESS TRADES AND PROFESSION REGULATIONS
 
 8.8.1991
 
-Amending enactments Relevant current provisions Commencement date LN. 1991/197 rr. 10(2) and (4)(b) and 12 24.10.1991 2005/046 rr. 11(1)(a), (b) and (c) 1.4.2005
+Amending enactments Relevant current provisions Commencement date LN. 1991/197 rr. 10(2) and (4)(b) and 12 24.10.1991 2005/046 rr. 11(1)(a), (b) and (c) 1.4.2005 2014/133 r. 5(1) 24.7.2014
 
-Businesses Trades and Professions (Registration) REGISTER OF BUSINESS TRADES AND PROFESSION REGULATIONS
+____________________
 
-Subsidiary 1991/163 1989-05 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
