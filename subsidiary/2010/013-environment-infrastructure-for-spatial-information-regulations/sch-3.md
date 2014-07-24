@@ -28,11 +28,7 @@ Includes utility facilities such as sewage, waste management, energy supply and 
 
 7.  Environmental monitoring facilities.
 
-Environment ENVIRONMENT (INFRASTRUCTURE FOR SPATIAL INFORMATION) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/013 Location and operation of environmental monitoring facilities includes observation and measurement of emissions, of the state of environmental media and of other ecosystem parameters (biodiversity, ecological conditions of vegetation, etc.) by or on behalf of public authorities.
+Location and operation of environmental monitoring facilities includes observation and measurement of emissions, of the state of environmental media and of other ecosystem parameters (biodiversity, ecological conditions of vegetation, etc.) by or on behalf of public authorities.
 
 8.  Production and industrial facilities.
 
@@ -57,12 +53,6 @@ Vulnerable areas characterised according to natural hazards (all atmospheric, hy
 13.  Atmospheric conditions.
 
 Physical conditions in the atmosphere. Includes spatial data based on measurements, on models or on a combination thereof and includes measurement locations.
-
-Environment ENVIRONMENT (INFRASTRUCTURE FOR SPATIAL INFORMATION) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/013
 
 14.  Meteorological geographical features.
 

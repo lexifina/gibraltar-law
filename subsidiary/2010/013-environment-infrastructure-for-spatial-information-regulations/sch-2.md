@@ -17,9 +17,3 @@ Geo-referenced image data of the Earth's surface, from either satellite or airbo
 4.  Geology
 
 Geology characterised according to composition and structure. Includes bedrock, aquifers and geomorphology.
-
-Environment ENVIRONMENT (INFRASTRUCTURE FOR SPATIAL INFORMATION) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/013

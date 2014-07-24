@@ -30,20 +30,10 @@ Areas defined by cadastral or land registers or equivalent.
 
 Road, rail, air and water transport networks and related infrastructure. Includes links between different networks. Also includes the trans-European transport network as defined in Decision No 1692/96/EC of the European Parliament and of the Council of 23 July 1996 on Community Guidelines for the development of the trans-European transport network and future revisions of that Decision.
 
-Environment ENVIRONMENT (INFRASTRUCTURE FOR SPATIAL INFORMATION) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/013 8.  Hydrography.
+8.  Hydrography.
 
 Hydrographic elements, including marine areas and all other water bodies and items related to them, including river basins and sub-basins. Where appropriate, according to the definitions set out in Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy and in the form of networks.
 
 9.  Protected sites.
 
 Area designated or managed within a framework of International, Community and Gibraltar legislation to achieve specific conservation objectives.
-
-Environment ENVIRONMENT (INFRASTRUCTURE FOR SPATIAL INFORMATION) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/013
