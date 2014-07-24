@@ -4,7 +4,7 @@ IDENTIFICATION AND REVERSAL OF SIGNIFICANT AND SUSTAINED UPWARD TRENDS
 
 PART I Identification of significant and sustained upward trends
 
-1.  The Competent Authority shall identify significant and sustained upward trends in groundwater characterised as being at risk in accordance with Schedule 3 to the Water  Framework Rules, taking into account the following requirements
+1.  The Competent Authority shall identify significant and sustained upward trends in all bodies or groups of bodies of groundwater characterised as being at risk in accordance with Schedule 3 to the Water  Framework Rules, taking into account the following requirements
 
 (1) in accordance with paragraph 2.4 of Schedule 6 to the Water Framework Rules, the monitoring programme shall be so designed as to detect significant and sustained upward trends in concentrations of the pollutants identified pursuant to regulation 4;
 
@@ -24,7 +24,7 @@ Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
 
 Subsidiary 2009/079 within the first river basin management plan, and at least every six years thereafter;
 
-(iv) take into account the physical and chemical temporal characteristics of groundwater, including groundwater flow conditions and recharge rates and percolation time through soil or subsoil;
+(iv) take into account the physical and chemical temporal characteristics of the body of groundwater, including groundwater flow conditions and recharge rates and percolation time through soil or subsoil;
 
 (b) the methods of monitoring and analysis used shall conform to international quality control principles, including, if relevant, CEN or national standardised methods, to ensure equivalent scientific quality and comparability of the data provided;
 
@@ -54,9 +54,9 @@ Subsidiary 2009/079
 
 (d) such later starting point may not lead to any delay in achieving the deadline for the environmental objectives.
 
-(2) for activities falling within the scope of Directive 91/676/EEC, the starting point for implementing measures to reverse significant and sustained upward trends shall be established in accordance with such Directive and with the Water Framework Rules and, in particular, adhering to environmental objectives for water protection as set out in those rules.
+(2) for activities falling within the scope of Directive 91/676/EEC, the starting point for implementing measures to reverse significant and sustained upward trends shall be established in accordance with such Directive and with rule 10 and Schedule 7 of the Water Framework Rules and, in particular, adhering to environmental objectives for water protection as set out in those rules.
 
-(3) once a starting point has been established for groundwater characterised as being at risk in accordance with paragraph 2.4.4 of Schedule 6 to the Water Framework Rules, and pursuant to subparagraph (1), it shall not be changed during the six-year cycle of the river basin.
+(3) once a starting point has been established for a body of groundwater characterised as being at risk in accordance with paragraph 2.4.4 of Schedule 6 to the Water Framework Rules, and pursuant to subparagraph (1), it shall not be changed during the six-year cycle of the river basin management plan.
 
 (4) trend reversals shall be demonstrated, taking into account relevant monitoring provisions contained in paragraph 1(2) of Part I.
 

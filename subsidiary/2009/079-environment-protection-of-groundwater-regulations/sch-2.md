@@ -20,13 +20,15 @@ Quality standards Nitrates
 
 **“Total” means the sum of all individual pesticides detected and quantified in the monitoring procedure, including their relevant metabolites, degradation and reaction products.
 
-3.  Where it is considered that the groundwater quality standards could result in failure to achieve the environmental objectives specified in the Water Framework Rules associated bodies of surface water, or in any significant diminution of the ecological or chemical quality of such bodies, or in any significant damage to terrestrial ecosystems which depend directly on groundwater, more stringent threshold values shall be established in accordance with regulation 4 and Schedule I.
+3.  Where, for a given body of groundwater, it is considered that the groundwater quality standards could result in failure to achieve the environmental objectives specified in Schedule 7 of the Water Framework Rules for associated bodies of surface water, or in any significant diminution of the ecological or chemical quality of such bodies, or in any significant damage to terrestrial ecosystems which depend directly on the body of groundwater, more stringent threshold values will be established in accordance with regulation 4 and Schedule 1 to these Regulations.
 
 Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
 
 2005-27
 
-Subsidiary 2009/079 4.  Programmes and measures required in relation to such a threshold value shall apply to activities falling within the scope of Council Directive 91/676/EEC of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources.
+Subsidiary 2009/079
+
+4.  Programmes and measures required in relation to such a threshold value shall apply to activities falling within the scope of Council Directive 91/676/EEC of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources.
 
 Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
 

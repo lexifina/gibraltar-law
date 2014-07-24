@@ -4,9 +4,9 @@ THRESHOLD VALUES FOR GROUNDWATER POLLUTANTS AND INDICATORS OF POLLUTION
 
 PART I Guidelines for the establishment of threshold values
 
-1.  The Competent Authority shall establish threshold values for all pollutants and indicators of pollution which, pursuant to the characterisation performed in accordance with the Water Policy Framework Rules, characterise groundwater as being at risk of failing to achieve good groundwater chemical status.
+1.  The Competent Authority shall establish threshold values for all pollutants and indicators of pollution which, pursuant to the characterisation performed in accordance with rule 5 of the Water Framework Rules, characterise groundwater as being at risk of failing to achieve good groundwater chemical status.
 
-2.  Threshold values shall be established in such a way that, should the monitoring results at a representative monitoring point exceed the thresholds, this will indicate a risk that one or more of the conditions for good groundwater chemical status are not being met.
+2.  Threshold values shall be established in such a way that, should the monitoring results at a representative monitoring point exceed the thresholds, this will indicate a risk that one or more of the conditions for good groundwater chemical status referred to in regulation 4(2) (c) (ii), (iii) and (iv) are not being met.
 
 3.  When establishing pollutant quality standards threshold values, the Competent Authority shall consider the following guidelines
 
@@ -26,7 +26,9 @@ Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
 
 2005-27
 
-Subsidiary 2009/079 (c) wherever elevated background levels of substances or ions or their indicators occur due to natural hydro-geological reasons, these background levels in the relevant body of groundwater shall be taken into account when establishing threshold values;
+Subsidiary 2009/079
+
+(c) wherever elevated background levels of substances or ions or their indicators occur due to natural hydro-geological reasons, these background levels in the relevant body of groundwater shall be taken into account when establishing threshold values;
 
 (d) the determination of threshold values should be supported by a control mechanism for the data collected, based on an evaluation of data quality, analytical considerations, and background levels for substances which may occur both naturally and as a result of human activities.
 
@@ -36,17 +38,15 @@ PART II Minimum list of pollutants and their indicators for establishing thresho
 
 Arsenic Cadmium Lead Mercury Ammonium Chloride Sulphate
 
-5. Man-made synthetic substances-
+5.  Man-made synthetic substances-
 
 Trichloroethylene Tetrachloroethylene
 
-6. Parameters indicative of saline or other intrusions-*
+6.  Parameters indicative of saline or other intrusions-*
 
 Conductivity
 
 PART III Information to be provided with regard to the pollutants and their indicators
-
-7.  Information to be provided by the Competent Authority with regard to the pollutants and their indicators for which threshold values have been
 
 *With regard to saline concentrations resulting from human activities, the Competent Authority may decide to establish threshold values either for sulphate and chloride or for conductivity.
 
@@ -54,9 +54,9 @@ Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
 
 2005-27
 
-Subsidiary 2009/079 established The Competent Authority shall summarise, in the river basin management plan the way the procedure set out in Part I has been followed.
+Subsidiary 2009/079 7. Information to be provided by the Competent Authority with regard to the pollutants and their indicators for which threshold values have been established The Competent Authority shall summarise, in the river basin management plan the way the procedure set out in Part I has been followed.
 
-8  The Competent Authority shall provide, where feasible
+8.  The Competent Authority shall provide, where feasible
 
 (a) information on groundwater characterised as being at risk and on the pollutants and indicators of pollution which contribute to this classification, including the observed concentrations/values;
 
