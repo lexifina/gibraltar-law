@@ -126,7 +126,7 @@ Social Security (Insurance)
 
 28.3.2014 2015-111 ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3
 
-30.6.2014
+30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -174,7 +174,7 @@ Preliminary.
 
 Maternity Benefits.
 
-11. Maternity benefits. 11A.  Maternity allowances. 12. Supplemental provisions as to maternity grants.
+11. Maternity benefits. 11A.  Maternity allowances. 11B.  Maternity allowance for self-employed women. 12. Supplemental provisions as to maternity grants.
 
 Widow’s Benefit.
 
@@ -188,7 +188,9 @@ Old Age Pensions.
 
 Social Security (Insurance)
 
-1955-14 16. revoked. 16A.  revoked. 17. revoked.
+1955-14
+
+16. revoked. 16A.  revoked. 17. revoked.
 
 Death grant.
 
@@ -214,11 +216,11 @@ Finance.
 
 Administration.
 
-31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board. 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit. 38. Interim payments, arrears and repayments. 39. Recovery of sums by deduction from benefit.
+31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board. 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit. 38. Interim payments, arrears and repayments.
 
 Social Security (Insurance)
 
-1955-14 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
+1955-14 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
 
 Legal Proceedings.
 
@@ -254,6 +256,8 @@ Interpretation.
 
 “an actuary” means a Fellow of the Institute of Actuaries or the Faculty of Actuaries of Great Britain;
 
+“additional voluntary contribution” means a weekly voluntary contribution by a self-employed woman at a rate specified in Schedule 1 for the purpose of claiming maternity allowance under section 11B(1);
+
 “beneficiary”, in relation to any benefit, means a person entitled to that benefit;
 
 “benefit” means benefit under this Act;
@@ -268,11 +272,13 @@ Interpretation.
 
 “earnings” include any remuneration or profit derived from a gainful occupation;
 
-“employer’s contribution” means a contribution payable by a person otherwise than as an insured person;
-
 Social Security (Insurance)
 
-1955-14 “employed person” means a person occupied in employment being employment under a contract of service or in employment by or under the Government and includes apprentices and learners under agreement whether written or oral and whether express or implied;
+1955-14
+
+“employer’s contribution” means a contribution payable by a person otherwise than as an insured person;
+
+“employed person” means a person occupied in employment being employment under a contract of service or in employment by or under the Government and includes apprentices and learners under agreement whether written or oral and whether express or implied;
 
 “employed contributor’s employment” means any employment by virtue whereof an insured person is an employed person;
 
@@ -300,11 +306,11 @@ Social Security (Insurance)
 
 (a)  a person occupied in gainful employment in Gibraltar who is not an employed person; or
 
-(b)  a person exercising functions in Gibraltar as an ordained minister of religion or as a member of a religious order, who is not an employed person;
-
 Social Security (Insurance)
 
-1955-14 (2)  For the purposes of this Act the expression “child” means a person under the age of–
+1955-14 (b)  a person exercising functions in Gibraltar as an ordained minister of religion or as a member of a religious order, who is not an employed person;
+
+(2)  For the purposes of this Act the expression “child” means a person under the age of–
 
 (a)  fifteen years; or
 
@@ -326,11 +332,11 @@ Where a child could otherwise be treated as included at the same time in one fam
 
 (b)  where a child born before the marriage of the child’s parents has been legitimated by virtue of the subsequent marriage of the parents, the child shall be deemed to be issue of the marriage;
 
-(c)  an adopted child within the meaning of the Adoption Act shall be treated as if the child were legitimate issue of the adopter, or, if the child was adopted by two spouses or civil partners jointly, or by one of two spouses or civil partners after their marriage, or civil partnership, as the case may be; as if the child were legitimate issue of their marriage, or civil partnership and shall not be treated as being issue of any other person;
+(c)  an adopted child within the meaning of the Adoption Act shall be treated as if the child were legitimate issue of the adopter, or, if the child was adopted by two spouses or civil partners
 
 Social Security (Insurance)
 
-1955-14
+1955-14 jointly, or by one of two spouses or civil partners after their marriage, or civil partnership, as the case may be; as if the child were legitimate issue of their marriage, or civil partnership and shall not be treated as being issue of any other person;
 
 (d)  Deleted
 
@@ -354,13 +360,11 @@ PART I. INSURED PERSONS AND CONTRIBUTIONS.
 
 Description of insured persons.
 
-3. (1)  Subject to the provisions of this Act, every person who on or after the 6th day of January, 1975, is–
-
-(a)  under pensionable age; and
-
 Social Security (Insurance)
 
-1955-14
+1955-14 3. (1)  Subject to the provisions of this Act, every person who on or after the 6th day of January, 1975, is–
+
+(a)  under pensionable age; and
 
 (b)  either self-employed or in insurable employment under the Social Security (Employment Injuries Insurance) Act,
 
@@ -386,11 +390,11 @@ Source of funds.
 
 (a)  Every employed person and every employer of such person shall be liable to pay weekly contributions at the respective rates set out in Schedule 1.
 
-(b)  Every self-employed person shall be liable to pay weekly contributions at the rates set out in Schedule 1.
-
 Social Security (Insurance)
 
-1955-14 (3)  Regulations may provide that where an insured person ceases to be a self-employed person or an employed person at a time when he satisfies such other conditions as may be prescribed, he may elect to pay such contributions as may be prescribed.
+1955-14 (b)  Every self-employed person shall be liable to pay weekly contributions at the rates set out in Schedule 1.
+
+(3)  Regulations may provide that where an insured person ceases to be a self-employed person or an employed person at a time when he satisfies such other conditions as may be prescribed, he may elect to pay such contributions as may be prescribed.
 
 (4)  Subject to the provisions of this Act and of any regulations, no person shall be entitled to pay any contribution thereunder other than a contribution which he is liable to pay.
 
@@ -414,11 +418,9 @@ Number and class of contribution for any week.
 
 (ii) does not work in a normal week,
 
-then that employment shall, in relation to that week, be disregarded for the purposes of the foregoing provisions of this section; and regulations may provide, as respects any period during which no services are rendered by an
-
 Social Security (Insurance)
 
-1955-14 employed person, that for the purposes of this subsection any payments which he receives or is entitled (whether conditionally or not) to receive in any prescribed circumstances are or are not to be deemed to be remuneration paid in respect of any day in that period.
+1955-14 then that employment shall, in relation to that week, be disregarded for the purposes of the foregoing provisions of this section; and regulations may provide, as respects any period during which no services are rendered by an employed person, that for the purposes of this subsection any payments which he receives or is entitled (whether conditionally or not) to receive in any prescribed circumstances are or are not to be deemed to be remuneration paid in respect of any day in that period.
 
 (3)  Regulations may provide for disregarding for the purposes of this section any employment in which a person engages or continues to be engaged solely or mainly for the purpose of acquiring or preserving a right or a larger right to benefit.
 
@@ -440,11 +442,9 @@ Contributions of employed persons and employers.
 
 (2)  Notwithstanding any contract to the contrary, an employer shall not be entitled to deduct from the wages or other remuneration of a person employed by him, or otherwise to recover from such a person, the employer’s contribution in respect of that person; and an employer who deducts or attempts to deduct the whole or any part of the employer’s contribution in respect of any person from his wages or other remuneration is guilty of an offence and is liable on summary conviction to a fine equivalent to one quarter of level 1 on the standard scale.
 
-(3)  An employer shall be entitled, subject to and in accordance with regulations, to recover from an insured person the amount of any contribution paid or to be paid by him on behalf of that person, and,
-
 Social Security (Insurance)
 
-1955-14 notwithstanding anything in any enactment, regulations under this subsection may authorize recovery by deductions from the insured person’s wages or remuneration:
+1955-14 (3)  An employer shall be entitled, subject to and in accordance with regulations, to recover from an insured person the amount of any contribution paid or to be paid by him on behalf of that person, and, notwithstanding anything in any enactment, regulations under this subsection may authorize recovery by deductions from the insured person’s wages or remuneration:
 
 Provided that any such regulations shall provide that–
 
@@ -464,11 +464,11 @@ Method of payment of contribution.
 
 (c) for the issue, replacement, custody, production and delivery up of prescribed certificates,
 
-(d)  for treating, for the purpose of any right to benefit, contributions paid after the due dates as paid on those dates or on such later dates as may be prescribed, or as not having been paid and for treating, for the purpose aforesaid, contributions payable by an employer on behalf of an insured person, but not
+(d)  for treating, for the purpose of any right to benefit, contributions paid after the due dates as paid on those dates or
 
 Social Security (Insurance)
 
-1955-14 paid, as paid where the failure to pay is shown not to have been with the consent or connivance of, or attributable to any negligence on the part of, the insured person;
+1955-14 on such later dates as may be prescribed, or as not having been paid and for treating, for the purpose aforesaid, contributions payable by an employer on behalf of an insured person, but not paid, as paid where the failure to pay is shown not to have been with the consent or connivance of, or attributable to any negligence on the part of, the insured person;
 
 (e)  for treating contributions of the wrong class or at the wrong rate as paid on account of the contributions properly payable or on account of contributions under the Social Security (Employment Injuries Insurance) Act or under the Social Security (Open Long-Term Benefits Scheme) Act 1997, and for treating contributions under those Acts which were not payable as paid on account of contributions under this Act, notwithstanding anything in that Act;
 
@@ -486,11 +486,11 @@ Persons to be treated as employers.
 
 (b)  work under the general control or management of some person other than their immediate employer,
 
-and in relation to any other cases for which it appears to the Minister that special provision is needed, regulations may provide that for the purposes of this Act the prescribed person shall be treated as their employer; and regulations made by virtue of paragraph (b) may provide for adjusting the
+and in relation to any other cases for which it appears to the Minister that special provision is needed, regulations may provide that for the purposes of
 
 Social Security (Insurance)
 
-1955-14 rights between themselves of the person prescribed as the employer, the immediate employer and the persons employed.
+1955-14 this Act the prescribed person shall be treated as their employer; and regulations made by virtue of paragraph (b) may provide for adjusting the rights between themselves of the person prescribed as the employer, the immediate employer and the persons employed.
 
 (2)  References in this Act to a person’s employer shall not be construed as including his employer in any employment other than one which is an employed contributor’s employment (or, in the case of a person who is not, but would if he were under pensionable age be, an insured person, an employment which would be an employed contributor’s employment in his case if he were under that age).
 
@@ -522,11 +522,9 @@ Preliminary.
 
 (c)  the additional contribution conditions for the descriptions of benefit set out in Part IV of Schedule 2 shall be as set out in Part II of Schedule 3.
 
-(3)  Subject to the provisions of this Act, any reference therein to the yearly average of the contributions paid by or credited to any person shall be
-
 Social Security (Insurance)
 
-1955-14 construed as referring to contributions as an insured person only, and to that average (calculated in the prescribed manner) over the period--
+1955-14 (3)  Subject to the provisions of this Act, any reference therein to the yearly average of the contributions paid by or credited to any person shall be construed as referring to contributions as an insured person only, and to that average (calculated in the prescribed manner) over the period--
 
 (a)  beginning with the contribution year in which he attained the age of twenty; and
 
@@ -552,11 +550,11 @@ he shall be entitled to receive benefit at the rates as set out in the correspon
 
 Maternity benefits.
 
-Maternity benefits.
-
 Social Security (Insurance)
 
 1955-14
+
+Maternity benefits.
 
 11.(1)  Subject to the provisions of this Act, a woman shall be entitled to a maternity grant if–
 
@@ -582,11 +580,9 @@ Maternity allowance.
 
 (b)  she has exercised her right to maternity leave in accordance with the Employment (Maternity and Health and Safety) Regulations 1996,
 
-(c)  she claims maternity allowance within 6 months of exercising that right; and
-
 Social Security (Insurance)
 
-1955-14
+1955-14 (c)  she claims maternity allowance within 6 months of exercising that right; and
 
 (d)  she has, where relevant complied with the duty to inform the Director under regulations 4, 6, 7, 8 and 14 of the Employment (Maternity and Health and Safety) Regulations 1996.*
 
@@ -602,13 +598,43 @@ Social Security (Insurance)
 
 “maternity leave period” shall be construed in accordance with the Employment (Maternity and Health and Safety) Regulations 1996.
 
+Maternity allowance for self-employed women.
+
+11B.(1) A woman may apply for maternity allowance under this section if she has become pregnant and she–
+
+(a) has paid contributions as a self-employed person under this Act for at least 26 weeks in the 52-week period ending in the 15th week before the expected week of confinement;
+
+(b) has paid additional voluntary contributions as set out in Schedule 1 for this purpose for at least 26 weeks in the 52-
+
+* Saving provision inserted at the end of this Act  This amendment shall not apply to persons who were entitled to maternity allowance in respect of a confinement if the date of confinement was prior to the 1st day of July 2004.
+
+Social Security (Insurance)
+
+1955-14 week period ending in the 15th week before the expected week of confinement;
+
+(c) claims maternity allowance within 6 months of the delivery of the child; and
+
+(d) is not entitled to a maternity allowance under section 11A for the same week in respect of the same pregnancy.
+
+(2) The maternity allowance under this section shall be paid –
+
+(a) for a maximum period of 18 weeks, at fortnightly intervals, or in such other manner as the Director may, in any particular circumstances, deem appropriate; and
+
+(b) at the weekly rate of injury benefit (excluding dependants allowance) to which the person entitled to maternity allowance would have been entitled to receive during her maternity leave period had she been a beneficiary in relation to such benefit.
+
+(3) If a self-employed woman has opted for the additional voluntary contribution referred to in subsection (1)(b), she must maintain the payment of that contribution during her self-employed working life.
+
+(4) In this section, “injury benefit” means injury benefit payable to persons who have attained the age of 18 years under Part I of Schedule 2 to the Social Security (Employment Injuries Insurance) Act.
+
+(5) For the avoidance of doubt, a self-employed person is not entitled to receive the maternity allowance under this section if that person undertakes any form of paid work in any period during which the maternity allowance is paid.
+
 Supplemental provisions as to maternity grants.
 
 12. For the purpose of the provisions of this Act relating to maternity grant and maternity allowance–
 
 (a)  the expression “confinement” means labour resulting in the issue of a living child, or labour after twenty-four weeks of pregnancy resulting in the issue of a child whether alive or dead, and the expression “confined” shall be construed accordingly ;
 
-* Saving provision inserted at the end of this Act  This amendment shall not apply to persons who were entitled to maternity allowance in respect of a confinement if the date of confinement was prior to the 1st day of July 2004.  See Transitional provisions in the amendments list page (Act 2012-11)
+ See Transitional provisions in the amendments list page (Act 2012-11)
 
 Social Security (Insurance)
 
@@ -1176,17 +1202,21 @@ Subject to a maximum contribution of £1,568.84 per annum.
 
 Contributions are payable weekly subject to a minimum of £10.00 per week and a maximum of £30.17 per week.
 
+Rate of Additional voluntary Contribution for a Self-employed Woman.
+
+In addition to the rate of contribution for a self-employed person a fixed amount of £2.00 per week is optionally payable for the purpose of Maternity Allowance.
+
 Gibraltar Regiment.
+
+Social Security (Insurance)
+
+1955-14
 
 Employee Contributions: £14.69 per week.
 
 Employer Contributions: £20.54 per week.
 
 Apportionment of Contributions.
-
-Social Security (Insurance)
-
-1955-14
 
 All contributions shall be deemed to be collected as follows–
 
