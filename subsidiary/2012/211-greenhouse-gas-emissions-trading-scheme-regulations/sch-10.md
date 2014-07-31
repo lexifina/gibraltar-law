@@ -24,15 +24,25 @@ Application for an operating ban.
 
 (d) set out the deadline by which those representations must be made.
 
-Enforcement of an operating ban.
+(5)  A request to the European Commission made by the Minister under Article 16(5) of the Directive must include the following information–
 
-2.(1)  Where the European Commission has adopted a decision to impose an operating ban on an aircraft operator under Article 16(10) of the Directive,
+(a) evidence that A has not complied with obligations under these Regulations;
 
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 the regulator must take all reasonable steps to ensure that the operator does not operate a flight that departs from or arrives in Gibraltar.
+Subsidiary 2012/211
+
+(b) details of any enforcement action against A that has been taken by the regulator;
+
+(c) a justification for the imposition of an operating ban at European Union level; and
+
+(d) a recommendation for the scope of an operating ban at European Union level and any conditions that should be applied.
+
+Enforcement of an operating ban.
+
+2.(1)  Where the European Commission has adopted a decision to impose an operating ban on an aircraft operator under Article 16(10) of the Directive, the regulator must take all reasonable steps to ensure that the operator does not operate a flight that departs from or arrives in Gibraltar.
 
 (2)  The steps a regulator may take under subparagraph (1) include−
 

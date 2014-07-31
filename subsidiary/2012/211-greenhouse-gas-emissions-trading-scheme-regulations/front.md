@@ -10,6 +10,10 @@ GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 Commencement 1.1.2013
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2014/141 rr. 3(1), 35A, Schs. 8, 10 & 12 31.7.2014
+
 Transposing: Directive 2003/87/EC Directive 2004/101/EC Directive 2008/101/EC Directive 2009/29/EC Directive (EU) 2018/410
 
 EU Legislation/International Agreements involved: Council and Decision No 280/2004/EC Commission Regulations (EC) No 2216/2004 Commission Regulation (EU) No 920/2010 Commission Regulation (EU) No 1193/2011 Commission Regulation (EU) No 600/2012 Commission Regulation (EU) No 601/2012 Regulation (EU) No 525/2013
@@ -76,17 +80,15 @@ Chapter 5 Sanctions (other than civil penalties)
 
 PART 4 SURRENDER OF ALLOWANCES
 
-34. Surrender of allowances: operators of installations. 35. Surrender of allowances: Gibraltar aircraft operators.
+34. Surrender of allowances: operators of installations. 35. Surrender of allowances: Gibraltar aircraft operators. 35A.  Project Activities.
 
 PART 5 ENFORCEMENT ETC.
-
-36. Enforcement notices.
 
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 37. Power to determine reportable emissions.
+Subsidiary 2012/211 36. Enforcement notices. 37. Power to determine reportable emissions.
 
 PART 6 INFORMATION
 
@@ -106,13 +108,13 @@ regulation 46(1).
 
 PART 8 APPEALS
 
-64. Interpretation of Part. 65. Rights of appeal.
+64. Interpretation of Part.
 
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 66. Rights of appeal: registries. 67. Effect of an appeal. 68. Determination of an appeal.
+Subsidiary 2012/211 65. Rights of appeal. 66. Rights of appeal: registries. 67. Effect of an appeal. 68. Determination of an appeal.
 
 PART 9 THE UNION REGISTRY AND THE GIBRALTAR REGISTRY
 
@@ -136,13 +138,11 @@ SCHEDULE 4 Permits
 
 SCHEDULE 5 Excluded installations
 
-SCHEDULE 6
-
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 Free allocation of allowances
+Subsidiary 2012/211 SCHEDULE 6 Free allocation of allowances
 
 SCHEDULE 7 Allocation of aviation allowances
 
@@ -153,6 +153,8 @@ SCHEDULE 9 Detention and sale of aircraft
 SCHEDULE 10 Aircraft operating bans
 
 SCHEDULE 11 Prescribed fees
+
+SCHEDULE 12 Project Activities Approval and Authorisation to Participate
 
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 

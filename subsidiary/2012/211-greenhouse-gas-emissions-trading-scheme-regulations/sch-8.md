@@ -110,6 +110,10 @@ Publication of aviation allowances from the special reserve.
 
 (b) the allocation of aviation allowances to each such Gibraltar administered operator for each year of the period.
 
+Restriction on allocation of allowances.
+
+9.  No more than 1 million allowances from the special reserve may be allocated to R where he is eligible by reason of his compliance with paragraph 1(2)(b).
+
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
