@@ -16,7 +16,7 @@ LN.   2009/089 Sch. 1 22.12.2009 2009/093 Sch. 1 24.12.2009 2010/037 Sch. 1 13.2
 
 International Co-Operation (Tax Information)
 
-2009-50 2014/079 Sch. 1 22.5.2014 2014/106 Sch. 1 26.6.2014
+2009-50 2014/079 Sch. 1 22.5.2014 2014/106 Sch. 1 26.6.2014 2014/142 Sch. 1 31.7.2014 2014/143 Sch. 1 31.7.2014
 
 English sources: None cited
 
