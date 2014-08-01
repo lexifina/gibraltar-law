@@ -16,7 +16,7 @@ Act. 1997-13 rr. 12, 20(1), Sch. 1-2 1.10.1996 LN. 2007/070 Sch. 1- 2 1.4.2007 2
 
 1.4.2008 2009/061 Sch. 1-2 1.4.2009 Act. 2011-29 rr. 4(2), 6(2)(b), 8-13, 20(1)(b), Sch.1 1.7.2009 LN. 2010/102 Sch. 1-2 1.4.2010 2011/137 Sch. 1-2 1.4.2011 LN. 2012/193 Sch. 1-2 1.8.2012 2013/130 Sch. 1-2 1.8.2013 Act. 2014-10 rr. 3, 4(1)(b), (3), (b), 6(5), 8, 14, 16, 20, 22, 27
 
-28.3.2014
+28.3.2014 LN. 2015/087 Sch. 1-2 1.8.2014
 
 Social Security (Closed Long-Term Benefits and Scheme) SOCIAL SECURITY (CLOSED LONG-TERM BENEFITS) REGULATIONS 1996
 
