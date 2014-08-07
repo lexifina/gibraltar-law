@@ -10,9 +10,17 @@ MARINE STRATEGY REGULATIONS 2011
 
 Commencement 10.2.2011
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2014/149 rr. 2, 5(1), 10(3A), (4), (5) & 15(1A) 7.8.2014
+
 EU Legislation/International Agreements involved: Directive 2008/56/EC
 
-____________________________
+Environment MARINE STRATEGY REGULATIONS 2011
+
+2005-27
+
+Subsidiary 2011/013
 
 ARRANGEMENT OF REGULATIONS
 
@@ -30,19 +38,17 @@ PART 3 Elements of the marine strategy
 
 PART 4 Procedural requirements
 
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013
-
 14. Notification and review. 15. Public participation and information. 16. Exchange of information, etc. 17. Relationship with Water Framework Directive. 18. Directions to, and assistance from, public authorities. 19. Guidance.
 
 SCHEDULE 1 Qualitative descriptors for determining good environmental status
 
 SCHEDULE 2 Competent authority
 
-SCHEDULE 3 Structure, functions and processes of marine ecosystems
+Environment MARINE STRATEGY REGULATIONS 2011
+
+2005-27
+
+Subsidiary 2011/013 SCHEDULE 3 Structure, functions and processes of marine ecosystems
 
 SCHEDULE 4 Indicative list of characteristics to be taken into account for setting environmental targets
 
