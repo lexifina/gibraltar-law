@@ -98,46 +98,6 @@ Repeat prescriptions for Chronic Ocular Disease where the original therapy has b
 
 PART III
 
-Adrenaline Injection 1 in 1000 (1 mg in 1 ml)
+EMERGENCY MEDICINAL PARAMEDIC PRODUCTS
 
-Atropine sulphate and obidoxime chloride injection
-
-Atropine sulphate and pralidoxime chloride injection
-
-Atropine Sulphate Injection
-
-Atropine sulphate, pralidoxime mesilate and avizafone injection
-
-Chlorphenamine Injection
-
-Dicobalt Edetate Injection
-
-Glucagon Injection
-
-Glucose Injection 50%
-
-Hydrocortisone Injection
-
-Ipratropium Bromide
-
-Naloxone Hydrochloride
-
-Pralidoxime chloride injection
-
-Pralidoxime mesilate injection
-
-Promethazine Hydrochloride Injection
-
-Salbutamol
-
-Snake Venom Antiserum
-
-Sodium Nitrite Injection
-
-Sodium Thiosulphate Injection
-
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25
-
-Sterile Pralidoxime
+Medicines specified in the GHA Paramedics Formulary from the Gibraltar National Formulary as the same may be amended from time to time.
