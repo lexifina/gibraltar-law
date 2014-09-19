@@ -10,9 +10,19 @@ TRAFFIC (WEARING OF SAFETY BELTS) REGULATIONS 2008
 
 Commencement 1.5.2008
 
-EU Legislation/International Agreements involved: Directive 91/671/EEC Directive 2003/20/EC
+Amending enactments Relevant current provisions Commencement date
 
-________________________
+LN.    2008/005 Corrigendum
+
+2014/148 rr. 2(1), 3(1), (3) & 4(3)(a) 19.9.2014
+
+EU Legislation/International Agreements involved: Directive 91/671/EEC Directive 2003/20/EC Directive 2014/37/EU
+
+Traffic TRAFFIC (WEARING OF SAFETY BELTS) REGULATIONS 2008
+
+2005-26
+
+Subsidiary 2008/004
 
 ARRANGEMENT OF REGULATIONS
 
