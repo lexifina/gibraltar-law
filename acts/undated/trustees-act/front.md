@@ -24,7 +24,7 @@ Regs. of 28.5.70 Sch. 1
 
 Acts. 1983-48 s. 17
 
-1983-48 ss. 37, 42(1) 2007-17 ss. 30, 40(1), Sch. 1 14.6.2007 2013-011 ss. 61, 62 21.3.2013
+1983-48 ss. 37, 42(1) 2007-17 ss. 30, 40(1), Sch. 1 14.6.2007 2013-011 ss. 61, 62 21.3.2013 2014-28 s. 19A 23.10.2014
 
 English sources Court of Chancery (Funds) Act 1872 (35 & 36 Vict. c.44) Vendor and Purchaser Act 1874 (37 & 38 Vict c.78) Trustees Act 1883 (51 & 52 Vict c.59) Trustees Act 1893 (56 & 57 Vict c.53) Trustees Act 1893 Amendment Act 1894 (57 & 58 Vict c.10) Finance Act 1917 (7 & 8 Geo.5 c.31) Trustees Act 1925 (15 & 16 Geo.5 c.19) Trustees Investments Act 1961 (9 & 10 Eliz.2 c.62) Powers of Attorney Act 1971 (1971 c.27)
 
@@ -66,17 +66,15 @@ Purchase and Sale.
 
 Miscellaneous powers and protection.
 
-11. Power of advancement. 12. Power to insure buildings. 13. Power to renew leaseholds. 14. Power for executors and trustees to compound, etc. 15. Receipts given by trustees. 16. Power to pay moneys into court. 17. Power to delegate. 18. Power to appoint agents. 19. Implied indemnity of trustees. 20. Power to make beneficiary indemnify for breach of trust.
+11. Power of advancement. 12. Power to insure buildings. 13. Power to renew leaseholds. 14. Power for executors and trustees to compound, etc. 15. Receipts given by trustees. 16. Power to pay moneys into court. 17. Power to delegate. 18. Power to appoint agents. 19. Implied indemnity of trustees. 19A.  Power to relieve trustee from personal liability. 20. Power to make beneficiary indemnify for breach of trust.
 
 PART III. INVESTMENT OF TRUST FUNDS.
 
 General.
 
-21. Interpretation of Part III.
-
 Trustees
 
-1895-18 22. Application of sections 23 and 36. 23. Discretion of trustees. 24. Exercise of discretion. 25. Protection of trustees. 26. Limit on liability. 27. New powers of investment. 28. Restriction on wider–range investment. 29. Powers additional, not in derogation. 30. Power to extend powers of investment. 31. Saving of powers of court.
+1895-18 21. Interpretation of Part III. 22. Application of sections 23 and 36. 23. Discretion of trustees. 24. Exercise of discretion. 25. Protection of trustees. 26. Limit on liability. 27. New powers of investment. 28. Restriction on wider–range investment. 29. Powers additional, not in derogation. 30. Power to extend powers of investment. 31. Saving of powers of court.
 
 Supplementary provisions.
 
@@ -94,11 +92,11 @@ PART IV. POWERS OF THE COURT.
 
 Appointment of new trustees and vesting orders.
 
-42. Power of court to appoint new trustees. 43. Vesting orders as to land. 44. Orders as to contingent rights of unborn persons. 45. Vesting order in place of conveyance by minor mortgagee. 46. Vesting order in place of conveyance by heir etc., of mortgagee. 47. Vesting order consequential on judgment for sale or mortgage. 48. Vesting order consequential on judgment for specific performance, etc. 49. Effect of vesting order. 50. Power to appoint person to convey. 51. Vesting orders as to stock and choses in action. 52. Persons entitled to apply for orders
+42. Power of court to appoint new trustees. 43. Vesting orders as to land. 44. Orders as to contingent rights of unborn persons. 45. Vesting order in place of conveyance by minor mortgagee. 46. Vesting order in place of conveyance by heir etc., of mortgagee. 47. Vesting order consequential on judgment for sale or mortgage. 48. Vesting order consequential on judgment for specific performance, etc. 49. Effect of vesting order. 50. Power to appoint person to convey. 51. Vesting orders as to stock and choses in action.
 
 Trustees
 
-1895-18 53. Powers of new trustees appointed by court. 54. Power to charge costs on trust estates. 55. Trustees of charities. 56. Orders made upon certain allegations to be conclusive evidence. 57. Power to give judgment in absence of trustee.
+1895-18 52. Persons entitled to apply for orders 53. Powers of new trustees appointed by court. 54. Power to charge costs on trust estates. 55. Trustees of charities. 56. Orders made upon certain allegations to be conclusive evidence. 57. Power to give judgment in absence of trustee.
 
 PART V. MISCELLANEOUS.
 
