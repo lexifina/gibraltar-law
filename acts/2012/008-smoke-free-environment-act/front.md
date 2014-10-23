@@ -10,6 +10,10 @@ Act. No. 2012-08 Commencement 1.10.2012
 
 Assent 25.9.2012
 
+Amending enactments Relevant current provisions Commencement date
+
+Act.  2014-30 ss. 10A 23.10.2014
+
 ________________________
 
 ARRANGEMENT OF SECTIONS
@@ -20,7 +24,7 @@ Section
 
 Exemptions
 
-6. Private accommodation. 7. Accommodation for guests. 8. Other residential accommodation. 9. Performers. 10. Specialist tobacconists. 11. Other exemptions.
+6. Private accommodation. 7. Accommodation for guests. 8. Other residential accommodation. 9. Performers. 10. Specialist tobacconists. 10A.  Premises covered by a gaming operator’s licence. 11. Other exemptions.
 
 No-Smoking Signs
 
@@ -31,3 +35,5 @@ Offences
 14. No-smoking signs (offence). 15. Offence of smoking where it is prohibited. 16. Offence of failing to prevent smoking where it is prohibited.
 
 Smoke-Free Environment
+
+2012-08
