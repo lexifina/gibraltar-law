@@ -4,7 +4,7 @@ COUNTRIES OUTSIDE THE EEA WHOSE NATIONALS MAY ENJOY RESALE RIGHT
 
 COUNTRY/TERRITORY
 
-Algeria Brazil Bulgaria Burkina Faso Chile Congo Costa Rica Croatia Ecuador Guinea Iraq Ivory Coast Laos Madagascar Mali Monaco Morocco Peru Philippines Romania Russian Federation Senegal Serbia and Montenegro Tunisia Turkey Uruguay
+Algeria Brazil Burkina Faso Chile Congo Costa Rica Ecuador Guinea Iraq Ivory Coast Laos Madagascar Mali Monaco Morocco Peru Philippines Russian Federation Senegal Serbia and Montenegro Tunisia Turkey Uruguay
 
 Intellectual Property (Copyright and Related Rights)
 
