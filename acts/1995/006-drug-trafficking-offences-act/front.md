@@ -32,9 +32,13 @@ ss. 2(1)(2), 26(1), 27(3), 30(3), (7), 60(5), (6), (7), (8), (9), (10), 68
 
 10.12.1998 2001-09 s. 43A 5.4.2001 2007-17 ss. 37(1), (2),(5) 38(1), 39(2), 40(2) & (3) 41(1), (2)(b), 42(1)(b), 42(2), 43(3), (4), 43A(10), (11), Sch.
 
-14.6.2007
+14.6.2007 2014-14 ss. 2(20), 7(4)(b), (5), 16(2)(a), 33(1)(a), (2), (3), (4), (5), (7), 34(1), (2), (4), 35(1), (2)
 
-English sources: Police and Criminal Evidence Act 1984 (c.60) (ss. 10, 11, 12 and 13 ) Drug Trafficking Act 1994 (c. 37) ( ss. 1(1), 1(2), 1(3), 1(4), 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 59 and 61)
+1.11.2014
+
+Drug Trafficking Offences
+
+1995-06 English sources: Police and Criminal Evidence Act 1984 (c.60) (ss. 10, 11, 12 and 13 ) Drug Trafficking Act 1994 (c. 37) ( ss. 1(1), 1(2), 1(3), 1(4), 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 42, 43, 44, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 59 and 61)
 
 EU Legislation/International Agreements involved: Directive 91/308/EEC.
 
@@ -56,7 +60,7 @@ PART II. CONFISCATION ORDERS.
 
 Drug Trafficking Offences
 
-1995-06 32. Exercise by the court or receiver of powers for the realisation of property. 33. Bankruptcy of defendant , etc. 34. Winding up of company holding realisable property. 35. Persons acting as insolvency practitioners. 36. Receivers; supplementary provisions.
+1995-06 32. Exercise by the court or receiver of powers for the realisation of property. 33. Bankruptcy of defendant , etc. 34. Liquidation or Administration of company holding realisable property. 35. Persons acting as insolvency practitioners. 36. Receivers; supplementary provisions.
 
 PART III. MUTUAL LEGAL ASSISTANCE.
 
