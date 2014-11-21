@@ -238,7 +238,7 @@ Subsidiary 2011/055 4. Failure of navigational or engineering watch arrangements
 
 7. Inability to provide for the first watch at the commencement of a voyage and for subsequent relieving watches persons who are sufficiently rested and otherwise fit for duty.
 
-3.10. Areas under the ILO Conventions
+3.10. Areas under the Maritime Labour Convention 2006 (MLC 2006)
 
 1. Insufficient food for voyage to next port.
 
@@ -253,6 +253,16 @@ Subsidiary 2011/055 4. Failure of navigational or engineering watch arrangements
 6. Excessive garbage, blockage by equipment or cargo or otherwise unsafe conditions in passageways/accommodations.
 
 7. Clear evidence that watchkeeping and other duty personnel for the first watch or subsequent relieving watches are impaired by fatigue.
+
+8. The conditions on board are clearly hazardous to the safety, health or security of seafarers.
+
+9. The non-conformity constitutes a serious or repeated breach of the requirements of the Maritime Labour Convention 2006 (including seafarer’s rights) relating to the living and working conditions of seafarers on the ship, as stipulated in the ship’s
+
+Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
+
+1935-09
+
+Subsidiary 2011/055 maritime labour certificate and declaration of maritime labour compliance.
 
 3.11.  Areas which may not warrant a detention, but where, e.g. cargo operations have to be suspended.
 

@@ -50,11 +50,11 @@ Subsidiary 2011/055 9.(b)  International Load Line Exemption Certificate.
 
 13.  Certificates or any other documents required in accordance with the provisions of the STCW 78/95.
 
-14.  Medical certificates (see ILO Convention No 73 concerning Medical Examination of Seafarers).
+14. Medical certificates (see the Maritime Labour Convention 2006).
 
-15.  Table of shipboard working arrangements (ILO Convention No 180 and STCW 78/95).
+15. Table of shipboard working arrangements (see the Maritime Labour Convention 2006 and STCW 78/95).
 
-16.  Records of hours of work and rest of seafarers (ILO Convention No 180).
+16. Records of hours of work and rest of seafarers (see the Maritime Labour Convention 2006).
 
 17.  Stability information.
 
@@ -70,11 +70,13 @@ Subsidiary 2011/055 9.(b)  International Load Line Exemption Certificate.
 
 23.  Ship’s log book with respect to the records of tests and drills, including security drills, and the log for records of inspection and maintenance of lifesaving appliances and arrangements and of fire fighting appliances and arrangements.
 
+24.  Special purpose ship safety certificate.
+
 Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 
 1935-09
 
-Subsidiary 2011/055 24.  Special purpose ship safety certificate.
+Subsidiary 2011/055
 
 25.  Mobile offshore drilling unit safety certificate.
 
@@ -110,15 +112,25 @@ Subsidiary 2011/055 24.  Special purpose ship safety certificate.
 
 41. Certificates required under Directive 2009/20/EC of the European Parliament and of the Council of 23 April 2009 on the insurance of shipowners for maritime claims.
 
+42.  Certificate required under Regulation (EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents.
+
 Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 
 1935-09
 
-Subsidiary 2011/055 42.  Certificate required under Regulation (EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents.
+Subsidiary 2011/055
 
 43.  International Air Pollution Prevention Certificate.
 
 44.  International Sewage Pollution Prevention Certificate.
+
+45. Maritime labour certificate.
+
+46. Declaration of maritime labour compliance, parts I and II.
+
+47. International Anti-Fouling System Certificate.
+
+48. Certificate of insurance or other financial security in respect of civil liability for bunker oil pollution damage.
 
 Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 

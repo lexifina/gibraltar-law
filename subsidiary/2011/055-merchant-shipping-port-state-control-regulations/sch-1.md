@@ -136,7 +136,7 @@ Ships to which the following unexpected factors apply may be subject to inspecti
 
 — Ships which have failed to comply with the relevant notification requirements referred to in regulation 10 of these Regulations, in the Gibraltar Merchant Shipping (Port Waste Reception Facilities) Regulations, 2002, in the Gibraltar Merchant Shipping (Community Vessel Traffic Monitoring and Information System) Regulations 2004, and if appropriate in Regulation (EC) No 725/2004.
 
-— Ships which have been the subject of a report or complaint by the master, a crew member, or any person or organisation with a legitimate interest in the safe operation of the ship, on-board living and working conditions or the prevention of pollution, unless the Member State concerned deems the report or complaint to be manifestly unfounded.
+— Ships which have been the subject of a report or complaint, including an onshore complaint, by the master, a crew member, or any person or organisation with a legitimate interest in the safe operation of the ship, on-board living and working conditions or the prevention of pollution, unless the Administration deems the report or complaint to be manifestly unfounded.
 
 Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 
@@ -154,6 +154,8 @@ Subsidiary 2011/055
 
 — Ships where information from a reliable source became known, to the effect that their risk parameters differ from those recorded and the risk level is thereby increased.
 
+— Ships for which a plan of action to rectify deficiencies as referred to in regulation 20(3B) has been agreed but in respect of which the implementation of that plan has not been checked by an inspector.
+
 3.  Selection scheme
 
 3A. Priority I ships shall be inspected as follows:
@@ -166,15 +168,15 @@ Subsidiary 2011/055
 
 (b) An initial or a more detailed inspection, as appropriate, shall be carried out on:
 
-— any ship other than a passenger ship, an oil tanker, a gas or chemical tanker or a bulk carrier, older than 12 years of age, with a standard risk profile not inspected in the last 12 months.
-
-(c) In case of an overriding factor:
+— any ship other than a passenger ship, an oil tanker, a gas or chemical tanker or a bulk carrier, older than 12 years
 
 Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 
 1935-09
 
-Subsidiary 2011/055
+Subsidiary 2011/055 of age, with a standard risk profile not inspected in the last 12 months.
+
+(c) In case of an overriding factor:
 
 — A more detailed or an expanded inspection, according to the professional judgement of the inspector, shall be carried out on any ship with a high risk profile and on any passenger ship, oil tanker, gas or chemical tanker or bulk carrier, older than 12 years of age.
 
@@ -194,15 +196,15 @@ Subsidiary 2011/055
 
 — any ship other than a passenger ship, an oil tanker, a gas or chemical tanker or a bulk carrier, older than 12 years of age, with a standard risk profile not inspected in the last 10 months, or
 
-— any ship other than a passenger ship, an oil tanker, a gas or chemical tanker or a bulk carrier, older than 12 years of age, with a low risk profile not inspected in the last 24 months.
-
-(c) In case of an unexpected factor:
-
 Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 
 1935-09
 
 Subsidiary 2011/055
+
+— any ship other than a passenger ship, an oil tanker, a gas or chemical tanker or a bulk carrier, older than 12 years of age, with a low risk profile not inspected in the last 24 months.
+
+(c) In case of an unexpected factor:
 
 — a more detailed or an expanded inspection according to the professional judgement of the inspector, shall be carried out on any ship with a high risk profile or any passenger ship, oil tanker, gas or chemical tanker or bulk carrier, older than 12 years of age,
 
