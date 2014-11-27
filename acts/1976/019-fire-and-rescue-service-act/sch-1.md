@@ -2,6 +2,6 @@ SCHEDULE 1
 
 Omitted.
 
-Fire Service
+Fire and Rescue Service
 
 1976-19

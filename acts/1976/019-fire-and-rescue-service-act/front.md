@@ -1,8 +1,8 @@
-Fire Service
+Fire and Rescue Service
 
 1976-19
 
-FIRE SERVICE ACT
+FIRE AND RESCUE SERVICE ACT
 
 Principal Act
 
@@ -12,22 +12,24 @@ Assent 16.6.1976
 
 Amending enactments Relevant current provisions Commencement date Act.  1978-31 Sch. 2 LN 1978/128 s.4(1) Act.  1982-01 ss.3(1) and (3) and 30 2007-17 ss. 4(1), (2) &(3), 5, 6, 7(c), 8(1), 26(2), 30(1) & (2)
 
-14.6.2007
+14.6.2007 2014-31 Long Title, ss. 1, 2, 3(1), 4(1), 5, 6, 7, 8(1), (2), (3), 9, 10(1)(d), (5), 14, 15, 17, 18(1), (2), (4), (5), 19, 20(1), (2), 22, 23, 24, 25, 30, 31(1), (2), Sch. 2
+
+27.11.2014
 
 English sources: None cited
 
-Fire Service
+Fire and Rescue Service
 
 1976-19 ARRANGEMENT OF SECTIONS.
 
 Section
 
-1. Short title. 2. Interpretation. 3. City Fire Brigade. 4. Constitution of Brigade. 5. Administration. 6. Delegation of powers. 7. Duties of Brigade. 8. Arrangements for mutual assistance. 9. Powers of Chief Fire Officer. 10.  General powers of entry. 11.  Abatement of fire hazards. 12.  Provisions as to appeals against and enforcement of certain notices. 13.  Abatement. 14.  Offences in connection with fire hazards. 15.  Closing orders. 16.  Recovery of expenses. 17.  Power to fix fire hydrant and emergency water supply location plates. 18.  Lighting of bonfires, etc. 19.  Powers of members of the Brigade and police officers. 20.  Penalty for obstructing the Brigade, etc. 21.  Compensation to be paid for water consumed in case of fire and for other expenses. 22.  Setting fire to chimneys. 23.  Duty of police at fires. 24.  Immunity of Government, members of the Brigade and police officers. 25.  Damage done at a fire. 26.  Special duties and expenses thereof. 27.  Appeal to court. 28.  Appeal to Supreme Court. 29.  Warrant cards. 30. Regulations. 31. Brigade orders. 32. Omitted.
+1. Short title. 2. Interpretation. 3. Gibraltar Fire and Rescue Service. 4. Constitution of the Gibraltar Fire and Rescue Service. 5. Administration. 6. Delegation of powers. 7. Duties of the Fire and Rescue Service. 8. Arrangements for mutual assistance. 9. Powers of Chief Fire Officer. 10.  General powers of entry. 11.  Abatement of fire hazards. 12.  Provisions as to appeals against and enforcement of certain notices. 13.  Abatement. 14.  Offences in connection with fire hazards. 15.  Closing orders. 16.  Recovery of expenses. 17.  Power to fix fire hydrant and emergency water supply location plates. 18.  Lighting of bonfires, etc. 19.  Powers of members of the Fire and Rescue Service and police officers. 20.  Penalty for obstructing the Fire and Rescue Service, etc. 21.  Compensation to be paid for water consumed in case of fire and for other expenses. 22.  Setting fire to chimneys. 23.  Duty of police at fires. 24.  Immunity of Government, members of the Fire and Rescue Service and police officers. 25.  Damage done at a fire. 26.  Special duties and expenses thereof. 27.  Appeal to court. 28.  Appeal to Supreme Court. 29.  Warrant cards. 30. Regulations. 31. Fire and Rescue Service orders. 32. Omitted.
 
 SCHEDULE 1 Omitted.
 
 SCHEDULE 2 FORMS
 
-Fire Service
+Fire and Rescue Service
 
-1976-19 AN ACT TO PROVIDE FOR A CITY FIRE BRIGADE IN GIBRALTAR: TO SET OUT THE DUTIES OF THE BRIGADE: TO CONFER POWERS AND DUTIES ON THE CHIEF FIRE OFFICER IN RELATION TO THE PREVENTION OF FIRES AND TO THE ELIMINATION OF FIRE HAZARDS: AND FOR MATTERS INCIDENTAL AND CONSEQUENTIAL THERETO.
+1976-19 AN ACT TO PROVIDE FOR A FIRE AND RESCUE SERVICE IN GIBRALTAR: TO SET OUT THE DUTIES OF THE FIRE AND RESCUE SERVICE: TO CONFER POWERS AND DUTIES ON THE CHIEF FIRE OFFICER IN RELATION TO THE PREVENTION OF FIRES AND TO THE ELIMINATION OF FIRE HAZARDS: AND FOR MATTERS INCIDENTAL AND CONSEQUENTIAL THERETO.
