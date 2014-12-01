@@ -16,9 +16,9 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 10.10.20132 2013-26 ss. 94A 28.11.2013 LN.  2013/189 ss. 228(5)(b), 229(5)(b), 230(5)(b), 231(5)(b), 251(3)(b) & 252(3)(b)
 
-18.12.2013 Act. 2014-03 s. 547 27.2.2014
+18.12.2013 Act. 2014-03 s. 547 27.2.2014 LN.  2014/217 s. 385(1A), (2) 1.12.2014
 
-Transposing: Directive 2011/36/EU Directive 2011/93/EU
+Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU
 
 1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136
 
