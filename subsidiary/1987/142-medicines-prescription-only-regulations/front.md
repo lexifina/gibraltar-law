@@ -14,7 +14,7 @@ LNs.1988/085 r.5(2) 1.2.1988 1998/047 r.3(4) and Sch. 25.6.1998 2001/008 Sch 1.3
 
 26.4.2007 2009/043 rr. 3(1) & (2)(c), 9, 10, 11 & Sch. 30.7.2009 2011/199 rr. 2, 3(1)(a) & (b), (4)(b), (5), (6), (7), (8) & (9), 4(da) & (db), 10(2)(b) & (d), Sch. 1, 2 & 3
 
-13.10.2011 2012/084 rr. 2, 3(5) & (9) & Sch. 3 14.6.2012 2013/192 rr. 2 & 3(5) 19.12.2013 2014/030 rr. 2, 3(5) & 4(db) 13.3.2014 2014/151 rr. 2, 3(1)(b), (7), (10) & Sch. 3 7.8.2014
+13.10.2011 2012/084 rr. 2, 3(5) & (9) & Sch. 3 14.6.2012 2013/192 rr. 2 & 3(5) 19.12.2013 2014/030 rr. 2, 3(5) & 4(db) 13.3.2014 2014/151 rr. 2, 3(1)(b), (7), (10) & Sch. 3 7.8.2014 2014/238 rr. 2, 3, 12 & Sch. 3 8.12.2014
 
 Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
 
@@ -31,6 +31,10 @@ PART 1
 PART 2
 
 9. Patient Group Direction. 10.  Exemptions for the supply and administration of prescription only medicines. 11.  Persons authorised to sign Patient Group Direction.
+
+PART 3 Exemptions for Midwives
+
+12.  Exemption.
 
 SCHEDULE 1 Substances which if included in medicinal products make those products prescription only medicines.
 

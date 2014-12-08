@@ -101,3 +101,27 @@ PART III
 EMERGENCY MEDICINAL PARAMEDIC PRODUCTS
 
 Medicines specified in the GHA Paramedics Formulary from the Gibraltar National Formulary as the same may be amended from time to time.
+
+PART IV
+
+Exemptions from the restriction on administration of prescription only medicines
+
+Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
+
+Subsidiary 1987/142 1997-25
+
+Column 1 Column 2 Prescription only medicines for parenteral administration containing any of the following substances but no other substance that is classified as a product available on prescription only—
+
+(a) Adrenaline, (b) Anti-D immunoglobulin, (c) Carboprost, (d) Cyclizine lactate, (e) Diamorphine, (f) Ergometrine maleate, (g) Gelofusine, (h) Hartmann’s solution, (i) Hepatitis B vaccine, (j) Hepatitis immunoglobulin, (k) Lidocaine hydrochloride, (l) Morphine, (m) Naloxone hydrochloride, (n) Oxytocins, natural and synthetic, (o) Pethidine hydrochloride, (p) Phytomenadione, (q) Prochloperazine, (r) Sodium chloride 0.9%. The medicine shall—
+
+(a) in the case of Lidocaine and Lidocaine hydrochloride, be administered only while attending on a woman in childbirth, and
+
+(b) where administration is—
+
+(i) by a midwife, be administered in the course of their professional practice;
+
+(ii) by a pupil—
+
+(aa) be administered under the direct supervision of a midwife; and
+
+(bb) not include Diamorphine, Morphine or Pethidine hydrochloride.
