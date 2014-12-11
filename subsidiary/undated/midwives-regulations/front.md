@@ -1,30 +1,26 @@
-Medical and Health MIDWIVES REGULATIONS
+Subsidiary Legislation made as rules under the Midwives Act (1947-05), saved and deemed to have been made under s.36.
 
-Subsidiary 1948.03.24 1997-25 Regulations made as rules under the Midwives Act (Act, 1947-05), saved and deemed to have been made under s.36.
-
-MIDWIVES REGULATIONS
+Midwives Regulations
 
 (1948.03.24)
 
-24.3.1948
+Commencement 24.3.1948
 
 Amending enactments Relevant current provisions Commencement date
 
-Rules of 18.8.1954 rr. 2, 26, 30(1) and 31(1)
+Rules of 18.8.1954 rr. 2, 26, 30(1), 31(1)
 
-Regs of 28.5.1970 rr. 31(2) and 32
+Regs of 28.5.1970 rr. 31(2), 32
 
-LNs.  1976/133 Sch.
+LN. 1976/133 Sch.
 
-1988/003 rr. 25, 27(3) and 32 31.3.1988 1997/109 rr. 2, 3, 5(a)(ii) and (iii), 9(1), 9A, 12, 24, 25A, 27(1), Sch.1, Sch.2 and Sch.3
+1988/003 rr. 25, 27(3), 32 31.3.1988 1997/109 rr. 2, 3, 5(a)(ii)-(iii), 9(1), 9A, 12, 24, 25A, 27(1), Schs.1-3
 
-16.10.1997 2007/020 rr. 2, 3(2) and (3), 5, 5(b) & 6 1.3.2007 Act.   2007-17 r. 4 14.6.2007
+16.10.1997 2007/020 rr. 2, 3(2)-(3), 5, (b), 6 1.3.2007 Act. 2007-17 r. 4 14.6.2007 LN. 2014/251 r. 25A(1), Sch.4 11.12.2014
 
 Transposing: Directive 80/155/EEC Directive 2000/78/EC Directive 2002/73/EC
 
-Medical and Health MIDWIVES REGULATIONS
-
-Subsidiary 1948.03.24 1997-25 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -48,11 +44,7 @@ ISSUE OF CERTIFICATES; ADMISSION TO REGISTER.
 
 CONDUCT AT AND AFTER CONFINEMENT.
 
-Medical and Health MIDWIVES REGULATIONS
-
-Subsidiary 1948.03.24 1997-25
-
-25A. Permitted activities of midwives. 26. Midwife's appliances. 27. Case book. 28. Attendance on mother. 29. Removal of soiled linen, etc. 30. Cleansing child's eyes ; death of child. 31. Cases of puerperal fever or other infections. 32. Notification of deaths and stillbirths. 33. Penalty.
+25A. Permitted activities of midwives. 26. Midwife's appliances. 27. Case book. 28. Attendance on mother. 29. Removal of soiled linen, etc. 30. Cleansing child's eyes; death of child. 31. Cases of puerperal fever or other infections. 32. Notification of deaths and stillbirths. 33. Penalty.
 
 DISCIPLINARY PROCEEDINGS.
 
