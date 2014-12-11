@@ -125,3 +125,7 @@ Column 1 Column 2 Prescription only medicines for parenteral administration cont
 (aa) be administered under the direct supervision of a midwife; and
 
 (bb) not include Diamorphine, Morphine or Pethidine hydrochloride.
+
+Prescription Only Medicines containing any of the following substances–
+
+Diclofenac Hydrocortizone acetate Miconazole Nystatin Phytomenadione.
