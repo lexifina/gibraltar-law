@@ -20,11 +20,13 @@ DE-REGISTRATION OF CERTAIN COMPANIES ON BECOMING LIMITED PARTNERSHIPS
 
 (b) for the method of converting shares or membership or both, as the case may be, into participation in the capital of the limited partnership, specifying which members shall become the limited partners and which shall become the general partners and the sum contributed to the capital of the limited partnership by each shareholder or member or both, as the case may be; and
 
-(c) for the making of such alterations in the memorandum and articles as are necessary to bring them (in substance and in form) into conformity with the requirements of the Partnership Act and the Limited Partnerships Act as the partnership agreement.
+(c) for the making of such alterations in the memorandum and articles as are necessary to bring them (in substance and in form) into conformity with the requirements of the Partnership
 
 Companies
 
-2014-19 (4)  The special resolution referred to in subparagraph (1)(a) is subject to section 206 (copy to be forwarded to the Registrar within 30 days).
+2014-19 Act and the Limited Partnerships Act as the partnership agreement.
+
+(4)  The special resolution referred to in subparagraph (1)(a) is subject to section 206 (copy to be forwarded to the Registrar within 30 days).
 
 (5)  A cancellation of shares in pursuance of this Schedule shall not be deemed to be a reduction of share capital within the meaning of this Act.
 
@@ -42,7 +44,7 @@ Companies
 
 (2)  The documents required to be lodged with the Registrar for the purposes of subparagraph (1)(a) are–
 
-(a) a printed copy of the memorandum and articles as altered in pursuance of the special resolution to be the limited partnership agreement containing–
+(a) a printed copy of the memorandum and articles as altered in pursuance of the special resolution for the company to become a limited partnership containing–
 
 (i) the name of the company and the firm name under which registration as a limited partnership is to be sought,
 
@@ -50,11 +52,13 @@ Companies
 
 (iii) the date on which it is proposed to register under the Limited Partnerships Act, and
 
-(iv) a copy of the statement to be submitted to the Registrar of Limited  Partnerships in accordance with section 7A of the Limited Partnerships Act.
-
 Companies
 
-2014-19 (b) a certificate of good standing in respect of the company issued by the Registrar;
+2014-19
+
+(iv) a copy of the statement to be submitted to the Registrar of Limited Partnerships in accordance with section 7A of the Limited Partnerships Act.
+
+(b) a certificate of good standing in respect of the company issued by the Registrar;
 
 (c) where the company carries on in or from within Gibraltar a business which is–
 
@@ -78,19 +82,17 @@ evidence of the consent of the competent authority under the relevant legislatio
 
 (2)  The Registrar–
 
-(a) on being satisfied that the requirements of paragraphs 1 and 2 are satisfied; and
-
-(b) having received notice in writing from the Registrar of Limited Partnerships appointed under section 13 of the Limited Partnerships Act that, on receipt of confirmation from the
-
 Companies
 
-2014-19 Registrar that the requirements of this Schedule have been met in respect of the body, the body may be registered under section 4 of that Act,
+2014-19 (a) on being satisfied that the requirements of paragraphs 1 and 2 are satisfied; and
+
+(b) having received notice in writing from the Registrar of Limited Partnerships appointed under section 13 of the Limited Partnerships Act that, on receipt of confirmation from the Registrar that the requirements of this Schedule have been met in respect of the body, the body may be registered under section 4 of that Act,
 
 shall de-register the body as a company registered under this Act with effect from the date and the time which the Registrar of Limited Partnerships notifies to the Registrar as the date and time at which the registration of the body under section 4 of the Limited Partnerships Act is to take effect.
 
 (3)  On the date and immediately before the time notified to the Registrar under subparagraph (2) the alterations in the memorandum of the company specified in the special resolution and the alterations in, and additions to, the articles of the company so specified take effect.
 
-(4)  The notification given by the Registrar of Limited Partnerships under subparagraph (2) is conclusive evidence that the requirements of this Schedule in respect of de-registration and of matters precedent and incidental to it have been complied with, and that the company was authorised to be de- registered in pursuance of this Schedule and was duly so de-registered.
+(4)  The notification given by the Registrar of Limited Partnerships under subparagraph (2) is conclusive evidence that the requirements of this Schedule in respect of de-registration and of matters precedent and incidental to it have been complied with, and that the company was authorised to be de-registered in pursuance of this Schedule and was duly so de-registered.
 
 (5)  For the avoidance of doubt it is hereby declared that a limited partnership registered under section 4 of the Limited Partnerships Act as a result of the procedures contained in–
 
@@ -104,13 +106,15 @@ PART II
 
 DE-REGISTRATION OF LIMITED PARTNERSHIPS ON BECOMING A REGISTERED COMPANY
 
-1.(1)  Subject to the provisions of this Schedule, a limited partnership which is registered as a limited partnership under the Limited Partnership Act may be de-registered on being registered as a company limited by shares or by guarantee if–
-
-(a) a special resolution that it should be so re-registered is passed by the general partner of the limited partnership; and
+1.(1)  Subject to the provisions of this Schedule, a limited partnership which is registered as a limited partnership under the Limited Partnership Act may
 
 Companies
 
-2014-19 (b) the requirements of this paragraph and paragraph 2 are complied with in respect of the resolution and otherwise.
+2014-19 be de-registered on being registered as a company limited by shares or by guarantee if–
+
+(a) a special resolution that it should be so re-registered is passed by the general partner of the limited partnership; and
+
+(b) the requirements of this paragraph and paragraph 2 are complied with in respect of the resolution and otherwise.
 
 (2)  The special resolution referred to in subparagraph (1)(a) shall state the capital contributions of the limited partnership and shall provide–
 
@@ -130,15 +134,13 @@ Companies
 
 (2)  The documents required to be lodged with the Registrar for the purposes of subparagraph (1)(a) are–
 
-(a) a printed copy of the limited partnership agreement as altered in pursuance of the special resolution to be the memorandum and articles containing–
+Companies
+
+2014-19 (a) a printed copy of the limited partnership agreement as altered in pursuance of the special resolution to be the memorandum and articles containing–
 
 (i) the name of the limited partnership and the firm name under which registration as a company is to be sought,
 
 (ii) the proposed principal place of business of the company,
-
-Companies
-
-2014-19
 
 (iii) the date on which it is proposed to register under this Act, and
 
@@ -160,15 +162,17 @@ Companies
 
 (a) on being satisfied that the requirements of paragraphs 1 and 2 are satisfied; and
 
-(b) having received notice in writing from the Registrar of Limited Partnerships appointed under section 13 of the Limited Partnerships Act that, on receipt of confirmation from the Registrar that the requirements of this Schedule have been met in respect of the body, the body may be registered as a company under this Act,
-
-shall de-register the body as a limited partnership registered under the Limited Partnership Act with effect from the date and the time when the company is registered as a company under this Act.
+(b) having received notice in writing from the Registrar of Limited Partnerships appointed under section 13 of the Limited Partnerships Act that, on receipt of confirmation from the Registrar that the requirements of this Schedule have been met
 
 Companies
 
-2014-19 (3)  On the date and immediately before the time notified to the Registrar under subparagraph (2) the alterations in the memorandum of the company specified in the special resolution and the alterations in, and additions to, the articles of the company so specified take effect.
+2014-19 in respect of the body, the body may be registered as a company under this Act,
 
-(4)  The notification given by the Registrar of Limited Partnerships under subparagraph (2) is conclusive evidence that the requirements of this Schedule in respect of de-registration and of matters precedent and incidental to it have been complied with, and that the limited partnership was authorised to be de-registered in pursuance of this Schedule and was duly so de- registered.
+shall de-register the body as a limited partnership registered under the Limited Partnership Act with effect from the date and the time when the company is registered as a company under this Act.
+
+(3)  On the date and immediately before the time notified to the Registrar under subparagraph (2) the alterations in the memorandum of the company specified in the special resolution and the alterations in, and additions to, the articles of the company so specified take effect.
+
+(4)  The notification given by the Registrar of Limited Partnerships under subparagraph (2) is conclusive evidence that the requirements of this Schedule in respect of de-registration and of matters precedent and incidental to it have been complied with, and that the limited partnership was authorised to be de-registered in pursuance of this Schedule and was duly so de-registered.
 
 (5)  For the avoidance of doubt it is hereby declared that a company registered under this Act as a result of the procedures contained in this Schedule is on the date and time referred to in subparagraph (2) a continuation of the undertaking of the limited partnership de-registered by virtue of the procedures referred to in paragraph (a).
 
@@ -186,13 +190,11 @@ CONSEQUENTIAL AMENDMENTS OF LIMITED PARTNERSHIPS ACT
 
 (d) for subsection (4) there shall be substituted the following subsection–
 
-“(4)  When the Registrar has received from the Registrar of Companies the document specified in subsection (2)(c), he shall–
-
-(a) register the limited partnership under this Act with effect from the date and time specified in subsection (3); and
-
 Companies
 
-2014-19
+2014-19 “(4)  When the Registrar has received from the Registrar of Companies the document specified in subsection (2)(c), he shall–
+
+(a) register the limited partnership under this Act with effect from the date and time specified in subsection (3); and
 
 (b) issue a Certificate of Registration and Continuation as a Limited Partnership”; and
 
@@ -238,7 +240,7 @@ Companies
 
 (b) the amounts to be provided in respect of the matters referred to above otherwise than out of the proceeds of the issue and the sources out of which those amounts are to be provided.
 
-6.(1)  Subject to subparagraphs (2) to (4) the amount payable on application and allotment on each share, and, in the case of a second or subsequent offer of shares, the amount offered for subscription on each previous allotment made within the 2 preceding years, the amount actually allotted, and the amount (if any) paid on the shares so allotted.
+6.(1)  Subject to subparagraphs (2) to (4), the amount payable on application and allotment on each share, and, in the case of a second or subsequent offer of shares, the amount offered for subscription on each previous allotment made within the 2 preceding years, the amount actually allotted, and the amount (if any) paid on the shares so allotted.
 
 (2)  The requirements of subparagraph (1) shall not apply to a prospectus issued by an open-ended investment company inviting the public to subscribe for the company’s redeemable preference shares.
 
@@ -260,11 +262,9 @@ Companies
 
 (4)  For the purpose of subparagraphs (2) and (3) an open-ended investment company means a company–
 
-(a) the sole object of which is to invest its funds in property of any description, including money, with the aim of spreading
-
 Companies
 
-2014-19 investment risk and giving its shareholders the benefit of the results of the management of those funds by, or on behalf of, the company; and
+2014-19 (a) the sole object of which is to invest its funds in property of any description, including money, with the aim of spreading investment risk and giving its shareholders the benefit of the results of the management of those funds by, or on behalf of, the company; and
 
 (b) which gives to the holders of redeemable preference shares in the company the right to have those shares redeemed by or out of the funds of the company at a price related to the net asset value of the company, for the purposes of which it has established regular dealing days.
 
@@ -280,13 +280,13 @@ Companies
 
 12.  The amount paid within the 2 preceding years or intended to be paid to any promoter, and the consideration for any such payment.
 
-13.  The dates of and parties to every material contract, not being a contract entered into in the ordinary course of the business carried on or intended to be carried on by the company or a contract entered into more than 2 years before the date of issue of the prospectus, and a reasonable time and place at which the material contract or a copy of it may be inspected.
-
-14.  The names and addresses of the auditors (if any) of the company.
+13.  The dates of and parties to every material contract, not being a contract entered into in the ordinary course of the business carried on or intended to be carried on by the company or a contract entered into more than 2 years
 
 Companies
 
-2014-19
+2014-19 before the date of issue of the prospectus, and a reasonable time and place at which the material contract or a copy of it may be inspected.
+
+14.  The names and addresses of the auditors (if any) of the company.
 
 15.  Full particulars of the nature and extent of the interest (if any) of every director in the promotion of, or in the property proposed to be acquired by, the company, or, where the interest of that director consists in being a partner in a firm, the nature and extent of the interest of the firm, with a statement of all sums paid or agreed to be paid to him or to the firm in cash or shares or otherwise by any person either to induce him to become, or to qualify him as a director, or otherwise for services rendered by him or by the firm in connection with the promotion or formation of the company.
 
@@ -306,11 +306,13 @@ REPORTS TO BE SET OUT IN PROSPECTUS
 
 if no accounts have been made up in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
 
-19.  If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in the purchase of any business, a report made by accountants who shall be named in the prospectus upon the profits of the business in respect of each of the 3 financial years immediately preceding the issue of the prospectus.
+19.  If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in the purchase of
 
 Companies
 
-2014-19 PART III
+2014-19 any business, a report made by accountants who shall be named in the prospectus upon the profits of the business in respect of each of the 3 financial years immediately preceding the issue of the prospectus.
+
+PART III
 
 PROVISIONS APPLYING TO PARTS I AND II OF SCHEDULE
 
@@ -330,11 +332,11 @@ PROVISIONS APPLYING TO PARTS I AND II OF SCHEDULE
 
 24.  If in the case of a company which has been carrying on business, or of a business which has been carried on for less than 3 years, the accounts of the company or business have only been made up in respect of 2 years or 1 year, Part II of this Schedule shall have effect as if references to 2 years or 1 year, as the case may be, were substituted for references to 3 years.
 
-25.  The expression “financial year” in Part II of this Schedule means the year in respect of which the accounts of the company or of the business, as the case may be, are made up, and where by reason of any alteration of the date on which the financial year of the company or business terminates the accounts of the company or business have been made up for a period greater
+25.  The expression “financial year” in Part II of this Schedule means the year in respect of which the accounts of the company or of the business, as
 
 Companies
 
-2014-19 or less than a year, that greater or less period shall for the purpose of the said Part of this Schedule be deemed to be a financial year.
+2014-19 the case may be, are made up, and where by reason of any alteration of the date on which the financial year of the company or business terminates the accounts of the company or business have been made up for a period greater or less than a year, that greater or less period shall for the purpose of the said Part of this Schedule be deemed to be a financial year.
 
 Companies
 
@@ -366,11 +368,9 @@ Number and amount of shares and debentures            1.shares of £  fully paid
 
 The consideration for the intended issue of those      4.Consideration: shares and debentures.
 
-Names and addresses of vendors of property
-
 Companies
 
-2014-19 purchased or acquired, or proposed to be purchased or acquired by the company.
+2014-19 Names and addresses of vendors of property purchased or acquired, or proposed to be purchased or acquired by the company.
 
 Amount (in cash, shares or debentures) payable to      Price    £ each separate vendor.                                                   Cash     £ Shares  £ Debentures £ Goodwill £ Total purchase £
 
@@ -394,11 +394,11 @@ Time and place at which the contracts or copies thereof may be inspected.
 
 Names and addresses of the auditors of the company (if any).
 
-Full particulars of the nature and extent of the interest of every director in the promotion of or in the property proposed to be acquired by the company, or, where the interest of that director consists in being a partner in a firm, the nature and extent of the interest of the firm, with a statement of all sums paid
+Full particulars of the nature and extent of the interest of every director in the promotion of or in the property proposed to be acquired by the company, or, where the interest of that director consists in being a partner in a firm, the nature and extent of the interest of the firm, with a statement of all sums
 
 Companies
 
-2014-19 or agreed to be paid to him or to the firm in cash or shares, or otherwise, by any person either to induce him to become, or to qualify him as, a director or otherwise for services rendered by him or by the firm in connection with the promotion or formation of the company.
+2014-19 paid or agreed to be paid to him or to the firm in cash or shares, or otherwise, by any person either to induce him to become, or to qualify him as, a director or otherwise for services rendered by him or by the firm in connection with the promotion or formation of the company.
 
 If it is proposed to acquire any business, the amount, as certified by the persons by whom the accounts of the business have been audited of the net profits of the business in respect of each of the 3 financial years immediately preceding the date of this statement provided that in the case of a business which has been carried on for less than 3 years and the accounts of which have only been made up in respect of 2 years or 1 year the above requirement shall have effect as if references to 2 years or 1 year, as the case may be, were substituted for references to 3 years, and in any such case the statement shall say how long the business to be acquired has been carried on.
 
@@ -498,11 +498,11 @@ PART III
 
 ENTITLEMENT OF VALUER TO FULL DISCLOSURE
 
-11.  A person carrying out a valuation or making a report under section 91 or 93, with respect to any consideration proposed to be accepted or given by a company, is entitled to require from the officers of the company such information and explanation as he thinks necessary to enable him to carry out
+11.  A person carrying out a valuation or making a report under section 91 or 93, with respect to any consideration proposed to be accepted or given by a company, is entitled to require from the officers of the company such information and explanation as he thinks necessary to enable him to carry
 
 Companies
 
-2014-19 the valuation or make the report and provide a note under paragraph 6 of Part I or (as the case may be) paragraph 2(c) of Part II.
+2014-19 out the valuation or make the report and provide a note under paragraph 6 of Part I or (as the case may be) paragraph 2(c) of Part II.
 
 12.  A person who knowingly or recklessly makes a statement which–
 
@@ -544,11 +544,11 @@ Summary of Share Capital and Shares: 1. Nominal Share Capital  ……...........
 
 ................. 7. Number of ...................... Shares (if any) issued at a Discount .......................................................
 
-.................
+................. 8. Total amount of discount on the issue of Shares which
 
 Companies
 
-2014-19 8. Total amount of discount on the issue of Shares which has not been written off at the date of the Return .................................................................
+2014-19 has not been written off at the date of the Return .................................................................
 
 ................. 9. There has been called up on each of …………Shares ……………………………….
 
@@ -564,7 +564,7 @@ Companies
 
 ................. 15. Total Amount of Calls unpaid ………………. ................. 16. Total Amount of the sums (if any) paid by way of Commission in respect of any Shares or Debentures or allowed by way of Discount in respect of any Debenture since the date of the last Annual Return .............................................
 
-................. 17. Total Number of Shares forfeited …………… ................. 18. Total Amount paid (if any) on Shares forfeited ................. 19. Total Amount of Indebtedness of the Company in respect of all Mortgages and charges of the kind which are required to be registered with the Registrar of the Companies under the Companies Act ……………………………….
+................. 17. Total Number of Shares forfeited …………… ................. 18. Total Amount paid (if any) on Shares forfeited ................. 19. Total Amount of Indebtedness of the Company in respect of all Mortgages and charges of the kind which are required to be registered with the Registrar of Companies under the Companies Act ……………………………….
 
 …….........
 
@@ -604,11 +604,11 @@ Particulars of Shares transferred since the date of the last Return, or (in the 
 
 REMARKS
 
+Number Date of Registra- Number Date of Registra-
+
 Companies
 
-2014-19
-
-Number Date of Registra- tion of Transfer Number Date of Registra- tion of Transfer
+2014-19 tion of Transfer tion of Transfer
 
 Certificate to be given by a Private Company
 
@@ -640,9 +640,7 @@ Business Occupation
 
 Companies
 
-2014-19
-
-Particulars of Secretaries of
+2014-19 Particulars of Secretaries of
 
 Limited
 
@@ -666,7 +664,7 @@ Main Activity of the Company Enter Reference Code as per attached schedule:
 
 Size of Company
 
-Size of Company as per Schedule 9 of the Companies Act 2014
+Size of Company as per Schedule 9 of the Companies  Act 2014
 
 large company
 
@@ -820,7 +818,9 @@ Address for communications in hard copy form
 
 Companies
 
-2014-19 (e) to an address to which any provision of this Act authorises the document or information to be sent or supplied.
+2014-19
+
+(e) to an address to which any provision of this Act authorises the document or information to be sent or supplied.
 
 (2)  Where the company is unable to obtain an address falling within subparagraph (1), the document or information may be sent or supplied to the intended recipient’s last address known to the company.
 
@@ -856,7 +856,9 @@ PART 4
 
 Companies
 
-2014-19 COMMUNICATIONS BY MEANS OF A WEBSITE
+2014-19
+
+COMMUNICATIONS BY MEANS OF A WEBSITE
 
 Use of website
 
@@ -894,7 +896,9 @@ a person in relation to whom the following conditions are met is taken to have a
 
 Companies
 
-2014-19 (a) the person has been asked individually by the company to agree that the company may send or supply documents or information generally, or the documents or information in question, to him by means of a website; and
+2014-19
+
+(a) the person has been asked individually by the company to agree that the company may send or supply documents or information generally, or the documents or information in question, to him by means of a website; and
 
 (b) the company has not received a response within the period of 28 days beginning with the date on which the company’s request was sent.
 
@@ -920,11 +924,9 @@ Deemed agreement of debenture holders to use of website
 
 (a) the debenture holder has been asked individually by the company to agree that the company may send or supply documents or information generally, or the documents or information in question, to him by means of a website; and
 
-(b) the company has not received a response within the period of 28 days beginning with the date on which the company’s request was sent.
-
 Companies
 
-2014-19
+2014-19 (b) the company has not received a response within the period of 28 days beginning with the date on which the company’s request was sent.
 
 (4)  A person is not taken to have so agreed if the company’s request–
 
@@ -958,13 +960,11 @@ Notification of availability
 
 (a) the presence of the document or information on the website;
 
-(b) the address of the website;
-
-(c) the place on the website where it may be accessed; and
-
 Companies
 
-2014-19
+2014-19 (b) the address of the website;
+
+(c) the place on the website where it may be accessed; and
 
 (d) how to access the document or information.
 
@@ -996,11 +996,11 @@ PART 6
 
 SUPPLEMENTARY PROVISIONS
 
-Joint holders of shares or debentures
-
 Companies
 
-2014-19 16.(1)  This paragraph applies in relation to documents or information to be sent or supplied to joint holders of shares or debentures of a company.
+2014-19 Joint holders of shares or debentures
+
+16.(1)  This paragraph applies in relation to documents or information to be sent or supplied to joint holders of shares or debentures of a company.
 
 (2)  Anything to be agreed or specified by the holder must be agreed or specified by all the joint holders.
 
@@ -1058,11 +1058,9 @@ Other company investigations.
 
 2.(1)  The Minister shall appoint one or more competent inspectors to investigate the affairs of a company and report on them in such manner as he directs, if the court by order declares that its affairs ought to be so investigated.
 
-(2)  The Minister may make such an appointment if it appears to him that there are circumstances suggesting–
-
 Companies
 
-2014-19
+2014-19 (2)  The Minister may make such an appointment if it appears to him that there are circumstances suggesting–
 
 (a) that the company’s affairs are being or have been conducted with intent to defraud its creditors or the creditors of any other person, or otherwise for a fraudulent or unlawful purpose, or in a manner which is unfairly prejudicial to some part of its members; or
 
@@ -1082,11 +1080,11 @@ Inspectors’ powers during investigation.
 
 3.(1)  If inspectors appointed under paragraph 1 or 2 to investigate the affairs of a company think it necessary for the purposes of their investigation to investigate also the affairs of another corporate body which is or at any relevant time has been the company’s subsidiary or holding company, or a subsidiary of its holding company or a holding company of its subsidiary, they have power to do so; and they shall report on the affairs of the other corporate body so far as they think that the results of their investigation of its affairs are relevant to the investigation of the affairs of the company first mentioned above.
 
-(2)  Inspectors appointed under either paragraph may at any time in the course of their investigation, without the necessity of making an interim
-
 Companies
 
-2014-19 report, inform the Minister of matters coming to their knowledge as a result of the investigation tending to show that an offence has been committed.
+2014-19
+
+(2)  Inspectors appointed under either paragraph may at any time in the course of their investigation, without the necessity of making an interim report, inform the Minister of matters coming to their knowledge as a result of the investigation tending to show that an offence has been committed.
 
 Production of documents and evidence to inspectors.
 
@@ -1106,13 +1104,11 @@ Production of documents and evidence to inspectors.
 
 (5)  An answer given by a person to a question put to him in exercise of powers conferred by this paragraph (whether as it has effect in relation to an investigation under any of paragraphs 1 to 3, or as applied by any other paragraph in this Schedule) may be used in evidence against him.
 
-Power of inspector to call for directors’ bank accounts.
-
-5.  If an inspector has reasonable grounds for believing that a director, or past director, of the company or other corporate body whose affairs he is investigating maintains or has maintained a bank account of any description
-
 Companies
 
-2014-19 (whether alone or jointly with another person and whether in Gibraltar or elsewhere), into or out of which there has been paid–
+2014-19 Power of inspector to call for directors’ bank accounts.
+
+5.  If an inspector has reasonable grounds for believing that a director, or past director, of the company or other corporate body whose affairs he is investigating maintains or has maintained a bank account of any description (whether alone or jointly with another person and whether in Gibraltar or elsewhere), into or out of which there has been paid–
 
 (a) the emoluments or part of the emoluments of his office as director, particulars of which have not been disclosed to the shareholders of the company or other corporate body; or
 
@@ -1140,11 +1136,13 @@ Obstruction of inspectors treated as contempt of court.
 
 (b) refuses to attend before the inspectors when required to do so; or
 
-(c) refuses to answer any question put to him by the inspectors with respect to the affairs of the company or other corporate body (as the case may be),
-
 Companies
 
-2014-19 the inspectors may certify the refusal in writing to the court.
+2014-19
+
+(c) refuses to answer any question put to him by the inspectors with respect to the affairs of the company or other corporate body (as the case may be),
+
+the inspectors may certify the refusal in writing to the court.
 
 (4)  The court may then enquire into the case; and after hearing any witnesses who may be produced against or on behalf of the alleged offender and after hearing any statement which may be offered in defence, the court may punish the offender in like manner as if he had been guilty of contempt of the court.
 
@@ -1170,13 +1168,13 @@ Inspectors’ reports.
 
 (v) any other person whose financial interests appear to the Minister to be affected by the matters dealt with in the report, whether as a creditor of the company or corporate body, or otherwise; and
 
-(c) cause any such report to be printed and published.
+Companies
+
+2014-19 (c) cause any such report to be printed and published.
 
 (4)  The Minister may require former inspectors whose appointments have been terminated, to provide information which may assist the inspectors in preparing their report.
 
-Companies
-
-2014-19 Power to bring civil proceedings on company’s behalf.
+Power to bring civil proceedings on company’s behalf.
 
 8.(1)  If, from any report made under paragraph 7 or from information or documents obtained under paragraph 15 or 16 below, it appears to the Attorney-General that any civil proceedings ought in the public interest  to be brought by any corporate body, he may himself bring such proceedings in the name and on behalf of the corporate body.
 
@@ -1194,11 +1192,13 @@ Expenses of investigating a company’s affairs.
 
 (5)  The applicant or applicants for the investigation, where the inspectors were appointed under paragraph 1, is or are liable to repay to the Consolidated Fund the full amount of those expenses except so far as the Minister otherwise directs.
 
-(6)  The report of inspectors appointed otherwise than of the Minister’s own motion may, if they think fit, and shall if the Minister so directs, include a recommendation as to the directions (if any) which they think appropriate, in the light of their investigation, to be given under subparagraph (4) or (5) above.
-
 Companies
 
-2014-19 (7)  For purposes of this paragraph, any costs or expenses charged to the Consolidated Fund in or in connection with proceedings brought under paragraph 8 (including expenses incurred under subparagraph (2) of it) are to be treated as expenses of the investigation giving rise to the proceedings.
+2014-19
+
+(6)  The report of inspectors appointed otherwise than of the Minister’s own motion may, if they think fit, and shall if the Minister so directs, include a recommendation as to the directions (if any) which they think appropriate, in the light of their investigation, to be given under subparagraph (4) or (5) above.
+
+(7)  For purposes of this paragraph, any costs or expenses charged to the Consolidated Fund in or in connection with proceedings brought under paragraph 8 (including expenses incurred under subparagraph (2) of it) are to be treated as expenses of the investigation giving rise to the proceedings.
 
 (8)  Any liability to repay to the Consolidated Fund imposed by subparagraphs (2) and (3) above is (subject to satisfaction of his right to repayment) a liability also to indemnify all persons against liability under subparagraphs (4) and (5); and any such liability imposed by subparagraph (2) is (subject as mentioned above) a liability also to indemnify all persons against liability under subparagraph (3).
 
@@ -1218,15 +1218,15 @@ Other powers of investigation available to the Minister
 
 Power to investigate company ownership.
 
-12.(1)  Where it appears to the Minister that there is good reason to do so, he may appoint one or more competent inspectors to investigate and report on the membership of any company, and otherwise with respect to the company, for the purpose of determining the true persons who are or have been financially interested in the success or failure (real or apparent) of the company or able to control or materially to influence its policy.
-
 Companies
 
 2014-19
 
+12.(1)  Where it appears to the Minister that there is good reason to do so, he may appoint one or more competent inspectors to investigate and report on the membership of any company, and otherwise with respect to the company, for the purpose of determining the true persons who are or have been financially interested in the success or failure (real or apparent) of the company or able to control or materially to influence its policy.
+
 (2)  The appointment of inspectors under this paragraph may define the scope of their investigation (whether as respects the matter or the period to which it is to extend or otherwise) and in particular may limit the investigation to matters connected with particular shares or debentures.
 
-(3)  If application for an investigation under this paragraph with respect to particular shares or debentures of a company is made to the Minister by members of the company, and the number of applicants or the amount of the shares held by them is not less than that required for an application for the appointment of inspectors under paragraph 1(2) (a) and (b)–
+(3)  If an application for an investigation under this paragraph with respect to particular shares or debentures of a company is made to the Minister by members of the company, and the number of applicants or the amount of the shares held by them is not less than that required for an application for the appointment of inspectors under paragraph 1(2) (a) and (b)–
 
 (a) the Minister shall appoint inspectors to conduct the investigation (unless he is satisfied that the application is vexatious); and
 
@@ -1240,13 +1240,15 @@ Provisions applicable on investigation under paragraph 12.
 
 (2)  Those paragraphs apply to–
 
-(a) all persons who are or have been, or whom the inspector has reasonable cause to believe to be or have been, financially interested in the success or failure or the apparent success or failure of the company or any other corporate body whose membership is investigated with that of the company, or able to control or materially influence its policy (including persons concerned only on behalf of others); and
-
-(b) any other person whom the inspector has reasonable cause to believe possesses information relevant to the investigation,
+(a) all persons who are or have been, or whom the inspector has reasonable cause to believe to be or have been, financially interested in the success or failure or the apparent success or failure of the company or any other corporate body whose
 
 Companies
 
-2014-19 as they apply in relation to officers and agents of the company or the other corporate body (as the case may be).
+2014-19 membership is investigated with that of the company, or able to control or materially influence its policy (including persons concerned only on behalf of others); and
+
+(b) any other person whom the inspector has reasonable cause to believe possesses information relevant to the investigation,
+
+as they apply in relation to officers and agents of the company or the other corporate body (as the case may be).
 
 (3)  If the Minister is of the opinion that there is good reason for not divulging any part of a report made by virtue of paragraph 12 and this paragraph, he may under paragraph 7 disclose the report with the omission of that part; and he may cause to be kept by the Registrar a copy of the report with that part omitted or, in the case of any other such report, a copy of the whole report.
 
@@ -1264,13 +1266,15 @@ Requisition and seizure of books and papers
 
 Minister’s power to require production of documents.
 
+Companies
+
+2014-19
+
 15.(1)  The powers of this paragraph are exercisable in relation to the following bodies–
 
 (a) a company, formed and registered under this Act;
 
-Companies
-
-2014-19 (b) an unregistered company having its principal place of business in Gibraltar, and, for this purpose, the expression “unregistered company” includes any partnership, whether limited or not, any association and any company other than a registered company; and
+(b) an unregistered company having its principal place of business in Gibraltar, and, for this purpose, the expression “unregistered company” includes any partnership, whether limited or not, any association and any company other than a registered company; and
 
 (c) a corporate body, whether or not registered under Part XII which is carrying on business in Gibraltar or has at any time carried on business in Gibraltar.
 
@@ -1288,13 +1292,11 @@ Companies
 
 (ii) to require that person, or any other person who is a present or past officer of, or is or was at any time employed by, the body in question, to provide an explanation of any of them;
 
-(b) if the books or papers are not produced, to require the person who was required to produce them to state, to the best of his knowledge and belief, where they are.
-
-(6)  If the requirement to produce books or papers or provide an explanation or make a statement is not complied with, the body or other person on whom
-
 Companies
 
-2014-19 the requirement was so imposed shall be guilty of an offence and liable to a fine.
+2014-19 (b) if the books or papers are not produced, to require the person who was required to produce them to state, to the best of his knowledge and belief, where they are.
+
+(6)  If the requirement to produce books or papers or provide an explanation or make a statement is not complied with, the body or other person on whom the requirement was so imposed shall be guilty of an offence and liable to a fine.
 
 (7)  However, where a person is charged with an offence under subparagraph (6) in respect of a requirement to produce any books or papers, it is a defence to prove that they were not in his possession or under his control and that it was not reasonably practicable for him to comply with the requirement.
 
@@ -1312,15 +1314,15 @@ Entry and search of premises.
 
 (a) for a period of 3 months; or
 
-(b) if within that period any criminal proceedings such as are mentioned in paragraph 17 (1)(a) are begun (being proceedings to which the books or papers are relevant), until the conclusion of those proceedings.
+(b) if within that period any criminal proceedings such as are mentioned in paragraph 17 (1)(a) are begun (being proceedings
+
+Companies
+
+2014-19 to which the books or papers are relevant), until the conclusion of those proceedings.
 
 (5)  A person who obstructs the exercise of a right of entry or search conferred by a warrant issued under this paragraph, or who obstructs the exercise of a right so conferred to take possession of any books or papers, shall be guilty of an offence and liable to a fine.
 
 Provision for security of information obtained.
-
-Companies
-
-2014-19
 
 17.(1)  No information or document relating to a body which has been obtained under paragraph 15 or 16 shall, without the previous consent in writing of that body, be published or disclosed, except to a competent authority, unless the publication or disclosure is required–
 
@@ -1346,7 +1348,9 @@ Companies
 
 (e) the Commissioner of Insurance and the Insurance Supervisor;
 
-(f) the Registrar; and
+Companies
+
+2014-19 (f) the Registrar; and
 
 (g) any police officer.
 
@@ -1354,9 +1358,7 @@ Punishment for destroying, mutilating etc., company documents.
 
 18.(1)  A person, being an officer of any such body as is mentioned in subparagraphs (a) to (c) of paragraph 15(1) who–
 
-Companies
-
-2014-19 (a) destroys, mutilates or falsifies, or is privy to the destruction, mutilation or falsification of a document affecting or relating to the body’s property or affairs; or
+(a) destroys, mutilates or falsifies, or is privy to the destruction, mutilation or falsification of a document affecting or relating to the body’s property or affairs; or
 
 (b) makes, or is privy to the making of, a false entry in such a document,
 
@@ -1378,13 +1380,13 @@ Privileged information.
 
 (a) by any person of information which he would in an action in the Supreme Court be entitled to refuse to disclose on grounds of legal professional privilege except, if he is a lawyer, the name and address of his client;
 
-(b) by a company’s bankers (as such) of information as to the affairs of any of their customers other than the company.
-
-(2)  Nothing in paragraphs 15 to 19 compels the production by any person of a document which he would in an action in the Supreme Court be entitled to refuse to produce on grounds of legal professional privilege, or authorises the taking of possession of any such document which is in the person’s possession.
-
 Companies
 
 2014-19
+
+(b) by a company’s bankers (as such) of information as to the affairs of any of their customers other than the company.
+
+(2)  Nothing in paragraphs 15 to 19 compels the production by any person of a document which he would in an action in the Supreme Court be entitled to refuse to produce on grounds of legal professional privilege, or authorises the taking of possession of any such document which is in the person’s possession.
 
 (3)  The Minister shall not under paragraph 15 require, or authorise a public officer to require, the production by a person carrying on the business of banking of a document relating to the affairs of a customer of his unless either it appears to the Minister that it is necessary to do so for the purpose of investigating the affairs of the first-mentioned person, or the customer is a person on whom a requirement has been imposed under that section, or under section 98 of the Insurance Companies Act, 1987.
 
@@ -1404,17 +1406,17 @@ DEFINITION OF SMALL AND MEDIUM-SIZED COMPANIES
 
 1.  Subject to paragraph 3 in respect of any financial year (“the relevant year”) a company is a small company if, in respect of the year or years specified in paragraph 4(2), the company satisfied at least two of the following conditions–
 
-(a) that the amount of the company’s net turnover did not exceed £8 million;
+(a) that the amount of the company’s net turnover did not exceed £6.5 million;
 
-(b) that its balance sheet total did not exceed £8 million;
+(b) that its balance sheet total did not exceed £3.26 million;
 
 (c) that the average number of persons employed by the company in each year did not exceed 50.
 
 2.  Subject to paragraph 3 in respect of any financial year (“the relevant year”) a company is a medium-sized company if, in respect of the year or years specified in paragraph 4(2), the company satisfied at least two of the following conditions–
 
-(a) that the amount of its net turnover did not exceed £41 million;
+(a) that the amount of its net turnover did not exceed £25.9 million;
 
-(b) that its balance sheet total did not exceed £35 million;
+(b) that its balance sheet total did not exceed £12.9 million;
 
 (c) that the average number of persons employed by the company in each year did not exceed 250.
 
@@ -1426,11 +1428,9 @@ DEFINITION OF SMALL AND MEDIUM-SIZED COMPANIES
 
 (a) the relevant year, if that is the company’s first financial year; or
 
-(b) if a small or medium-sized company exceeds or ceases to exceed the limits of more than one of the conditions in paragraphs 1 or 2 in a financial year, that fact will not affect its qualification as
-
 Companies
 
-2014-19 a small or medium-sized company for the relevant year unless it occurs in 2 consecutive years.
+2014-19 (b) if a small or medium-sized company exceeds or ceases to exceed the limits of more than one of the conditions in paragraphs 1 or 2 in a financial year, that fact will not affect its qualification as a small or medium-sized company for the relevant year unless it occurs in 2 consecutive years.
 
 5.  In this Schedule, balance sheet total, in relation to any financial year of a company means−
 
@@ -1582,7 +1582,9 @@ G. Total assets less current liabilities
 
 Companies
 
-2014-19 H. Creditors amounts falling due after more than 1 year
+2014-19
+
+H. Creditors amounts falling due after more than 1 year
 
 1. Debenture loans (8)
 
@@ -1632,11 +1634,11 @@ IV Other reserves
 
 V Profit and loss account
 
-BALANCE SHEET FORMAT 2
-
 Companies
 
-2014-19 ASSETS
+2014-19 BALANCE SHEET FORMAT 2
+
+ASSETS
 
 A. Called-up share capital not paid (1)
 
@@ -1688,11 +1690,11 @@ I Stocks
 
 3. Finished goods and goods for resale
 
-4. Payments on account
-
 Companies
 
-2014-19 II Debtors (6)
+2014-19 4. Payments on account
+
+II Debtors (6)
 
 1. Trade debtors
 
@@ -1742,11 +1744,13 @@ V Profit and loss account
 
 B. Provisions for liabilities (15 and 16)
 
-1. Pensions and similar obligations
-
 Companies
 
-2014-19 2. Taxation including deferred taxation
+2014-19
+
+1. Pensions and similar obligations
+
+2. Taxation including deferred taxation
 
 3. Other provisions
 
@@ -1790,13 +1794,13 @@ Amounts in respect of assets may only be included in a company’s balance sheet
 
 (b) the assets in question were created by the company itself.
 
-(3)  Land and buildings
+Companies
+
+2014-19 (3)  Land and buildings
 
 (Formats 1 and 2, items B. II. 1)
 
-Companies
-
-2014-19 Rights to immovables and other similar rights must be shown under land and buildings.
+Rights to immovables and other similar rights must be shown under land and buildings.
 
 (4)  Goodwill
 
@@ -1828,15 +1832,13 @@ Expenditure incurred during the financial year but relating to a subsequent fina
 
 (Formats 1, item E.I and H.I and Format 2, item C.I)
 
-The amount of any convertible loans must be shown separately.
+Companies
+
+2014-19 The amount of any convertible loans must be shown separately.
 
 (9)  Payments received on account
 
 (Format 1, items E.3 and H.3 and Format 2, item C.3)
-
-Companies
-
-2014-19
 
 Payments received on account of orders must be shown for each of these items in so far as they are not shown as deduction from stocks.
 
@@ -1866,15 +1868,13 @@ In determining the amount to be shown for this item any amounts shown under “p
 
 (Format 1, item K. 1 and Format 2, item A.1)
 
-The amount of allotted share capital and the amount of called-up share capital which has been paid up must be shown separately.
+Companies
+
+2014-19 The amount of allotted share capital and the amount of called-up share capital which has been paid up must be shown separately.
 
 (14)  Creditors
 
 (Format 2, items C. 1 to 9)
-
-Companies
-
-2014-19
 
 Amounts falling due within 1 year and after 1 year must be shown separately for each of these items and their aggregate must be shown separately for all of these items. A small company need not comply with this requirement if it discloses in the notes to its accounts the aggregate amount included under “Creditors” falling due within 1 year and the aggregate amount falling due after 1 year.
 
@@ -2324,7 +2324,9 @@ must be reduced by provisions for depreciation calculated to write off that amou
 
 Companies
 
-2014-19 (3)  Where the reasons for which any provision was made in accordance with subparagraph (1) or (2) have ceased to apply to any extent, that provision will be written back to the extent that it is no longer necessary; and any amounts written back in accordance with this subparagraph which are not shown in the profit and loss account must be disclosed (either separately or in total) in a note to the accounts.
+2014-19
+
+(3)  Where the reasons for which any provision was made in accordance with subparagraph (1) or (2) have ceased to apply to any extent, that provision will be written back to the extent that it is no longer necessary; and any amounts written back in accordance with this subparagraph which are not shown in the profit and loss account must be disclosed (either separately or in total) in a note to the accounts.
 
 Development costs.
 
@@ -2352,7 +2354,9 @@ Formation expenses.
 
 Companies
 
-2014-19 (2)  Insofar as formation expenses have not been completely written off, no distribution of profits can take place unless the amount of the reserves available for distribution and profits brought forward is at least equal to that of the expenses not written off.
+2014-19
+
+(2)  Insofar as formation expenses have not been completely written off, no distribution of profits can take place unless the amount of the reserves available for distribution and profits brought forward is at least equal to that of the expenses not written off.
 
 (3)  Except in relation to the balance sheet of a small company, the amounts entered under “Formation expenses” must be explained in the notes on the accounts.
 
@@ -2380,11 +2384,11 @@ Assets included at a fixed amount.
 
 10.(1)  Subject to subparagraph (2), assets which fall to be included–
 
-(a) amongst the fixed assets of a company under the item “tangible assets”; or
-
 Companies
 
-2014-19 (b) amongst the current assets of a company under the item “raw materials and consumables”,
+2014-19 (a) amongst the fixed assets of a company under the item “tangible assets”; or
+
+(b) amongst the current assets of a company under the item “raw materials and consumables”,
 
 may be included at a fixed quantity and value.
 
@@ -2408,15 +2412,15 @@ Determination of purchase price or production cost.
 
 but in a case within (b) the inclusion of the interest in determining the cost of that asset and the amount of the interest so included must be disclosed in a note to the accounts.
 
-(4)  In the case of current assets distribution costs may not be included in production costs.
+(4)  In the case of current assets, distribution costs may not be included in production costs.
 
 Stocks
 
-12. (1)  Subject to subparagraph (2), the purchase price or production cost of–
-
 Companies
 
-2014-19 (a) any assets which fall to be included under any item shown in a company’s balance sheet under the general item “stocks”; and
+2014-19 12. (1)  Subject to subparagraph (2), the purchase price or production cost of–
+
+(a) any assets which fall to be included under any item shown in a company’s balance sheet under the general item “stocks”; and
 
 (b) any assets which are tangible assets (including investments), may be determined by the application of any of the methods mentioned in subparagraph (3) below in relation to any such assets of the same class.
 
@@ -2442,11 +2446,9 @@ the amount of that difference must, except in the case of a small company, be di
 
 (5)  Subject to subparagraph (6), for the purposes of subparagraph (4)(b), the relevant alternative amount, in relation to any item shown in a company’s balance sheet, is the amount which would have been shown in respect of that item if assets of any class included under that item at an amount determined by any method permitted by this paragraph had instead been included at their replacement cost as at the balance sheet date.
 
-(6)  The relevant alternative amount may be determined by reference to the most recent actual purchase price or production cost before the balance sheet date of assets of any class included under the item in question instead of by reference to their replacement cost as at that date, but only if the former
-
 Companies
 
-2014-19 appears to the directors of the company to constitute the more appropriate standard of comparison in the case of assets of that class.
+2014-19 (6)  The relevant alternative amount may be determined by reference to the most recent actual purchase price or production cost before the balance sheet date of assets of any class included under the item in question instead of by reference to their replacement cost as at that date, but only if the former appears to the directors of the company to constitute the more appropriate standard of comparison in the case of assets of that class.
 
 (7)  For the purposes of this paragraph, assets of any description shall be regarded as fungible if assets of that description are substantially indistinguishable one from another.
 
@@ -2462,17 +2464,19 @@ Substitution of original stated amount where price or cost unknown.
 
 (3)  Movements in the various fixed asset items must be shown in the balance sheet or in the notes on the accounts. To this end the accounts must show separately, starting with the purchase price or production cost, for each fixed asset item, on the one hand, the additions, disposals and transfers during the financial year and, on the other hand, the cumulative value adjustments at the balance sheet date and the rectifications made during the financial year to the value adjustments of previous financial years. Value adjustments must be shown either in the balance sheet, as clear deductions from the relevant items, or in the notes on the accounts. The notes on the accounts of a small company need not comply with this subparagraph.
 
-(4)  If, when annual accounts are drawn up in accordance with this Act for the first time, the purchase price or production cost of a fixed asset cannot be determined without undue expense or delay, the residual value at the beginning of the financial year may be regarded as the purchase price or production cost. Any application of this provision must be disclosed in the notes on the accounts.
+(4)  If, when annual accounts are drawn up in accordance with this Act for the first time, the purchase price or production cost of a fixed asset cannot be determined without undue expense or delay, the residual value at the beginning of the financial year may be regarded as the purchase price or
 
 Companies
 
-2014-19 (5)  Paragraphs (3) and (4) also apply to the presentation of “Formation expenses”.
+2014-19 production cost. Any application of this provision must be disclosed in the notes on the accounts.
+
+(5)  Paragraphs (3) and (4) also apply to the presentation of “Formation expenses”.
 
 SECTION B– ALTERNATIVE ACCOUNTING RULES
 
 Preliminary.
 
-16.  The rules set out in Section A are referred to in this Schedule as the historical cost accounting rules and the rules set out in Section B are referred to in this Schedule as the alternative accounting rules
+16.  The rules set out in Section A are referred to in this Schedule as the historical cost accounting rules and the rules set out in Section B are referred to in this Schedule as the alternative accounting rules.
 
 Alternative accounting rules.
 
@@ -2494,11 +2498,13 @@ but in the latter case particulars of the method of valuation adopted and of the
 
 Application of the depreciation rules.
 
-18.(1)  Where the value of any asset of a company is determined on a basis mentioned in paragraph 17 that value will be, or (as the case may require) will be the starting point for determining, the amount to be included in respect of that asset in the company’s accounts, instead of its purchase price or production cost or any value previously so determined for that asset; and the depreciation rules apply accordingly in relation to any such asset with the substitution for any reference to its purchase price or production cost of a reference to the value most recently determined for that asset on any basis mentioned in paragraph 17.
+18.(1)  Where the value of any asset of a company is determined on a basis mentioned in paragraph 17 that value will be, or (as the case may require) will be the starting point for determining, the amount to be included in respect of that asset in the company’s accounts, instead of its purchase price or production cost or any value previously so determined for that asset; and the depreciation rules apply accordingly in relation to any such asset with the substitution for any reference to its purchase price or production cost of
 
 Companies
 
-2014-19 (2)  The amount of any provision for depreciation required in the case of any fixed asset by paragraph 2 or 3 as it applies by virtue of subparagraph (1) is referred to in this paragraph as the adjusted amount, and the amount of any provision which would be required by that paragraph in the case of that asset according to the historical cost accounting rules is referred to as the historical cost amount.
+2014-19 a reference to the value most recently determined for that asset on any basis mentioned in paragraph 17.
+
+(2)  The amount of any provision for depreciation required in the case of any fixed asset by paragraph 2 or 3 as it applies by virtue of subparagraph (1) is referred to in this paragraph as the adjusted amount, and the amount of any provision which would be required by that paragraph in the case of that asset according to the historical cost accounting rules is referred to as the historical cost amount.
 
 (3) Where subparagraph (1) applies in the case of any fixed asset the amount of any provision for depreciation in respect of that asset–
 
@@ -2520,11 +2526,11 @@ Additional information to be provided in case of departure from historical cost 
 
 (b) the differences between those amounts and the corresponding amounts actually shown in the balance sheet in respect of that item,
 
-must be shown separately in the balance sheet or in a note to the accounts.
-
 Companies
 
-2014-19 (4)  In subparagraph (3), references in relation to any item to the comparable amounts determined as there mentioned are references to–
+2014-19 must be shown separately in the balance sheet or in a note to the accounts.
+
+(4)  In subparagraph (3), references in relation to any item to the comparable amounts determined as there mentioned are references to–
 
 (a) the total amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
 
@@ -2546,11 +2552,11 @@ and the revaluation reserve shall be reduced to the extent that the amounts tran
 
 (4)  In subparagraph (3)(b) “capitalisation”, in relation to an amount standing to the credit of the revaluation reserve, means applying it in wholly or partly paying up unissued shares in the company to be allotted to members of the company as fully or partly paid up shares.
 
-(5)  The revaluation reserve may not be reduced except as mentioned in this paragraph.
-
 Companies
 
-2014-19 (6)  The treatment for taxation purposes of amounts credited or debited to the revaluation reserve must be disclosed in a note to the accounts.
+2014-19 (5)  The revaluation reserve may not be reduced except as mentioned in this paragraph.
+
+(6)  The treatment for taxation purposes of amounts credited or debited to the revaluation reserve must be disclosed in a note to the accounts.
 
 Special provisions where the company is an investment company.
 
@@ -2580,11 +2586,11 @@ Inclusion of financial instruments at fair value.
 
 (a) financial instruments (other than derivatives) held to maturity;
 
-(b) loans and receivables originated by the company and not held for trading purposes;
-
 Companies
 
-2014-19 (c) interests in subsidiary undertakings, associated undertakings and joint ventures;
+2014-19 (b) loans and receivables originated by the company and not held for trading purposes;
+
+(c) interests in subsidiary undertakings, associated undertakings and joint ventures;
 
 (d) equity instruments issued by the company;
 
@@ -2598,7 +2604,7 @@ Companies
 
 (6)  In this paragraph–
 
-“associated undertaking” has the meaning given by paragraph 17 of Schedule 21;
+“associated undertaking” has the meaning given by paragraph 17 of Schedule 21; and
 
 “joint venture” has the meaning given by paragraph 16 of Schedule 21.
 
@@ -2610,11 +2616,11 @@ Determination of fair value.
 
 (3)  If a reliable market cannot readily be identified for the financial instrument but can be identified for its components or for a similar instrument, its fair value is determined by reference to the market value of its components or of the similar instrument.
 
-(4)  If neither sub-paragraph (2) nor (3) applies, the fair value of the financial instrument is a value resulting from generally accepted valuation models and techniques.
-
 Companies
 
-2014-19 (5)  Any valuation models and techniques used for the purposes of subparagraph (4) must ensure a reasonable approximation of the market value.
+2014-19 (4)  If neither sub-paragraph (2) nor (3) applies, the fair value of the financial instrument is a value resulting from generally accepted valuation models and techniques.
+
+(5)  Any valuation models and techniques used for the purposes of subparagraph (4) must ensure a reasonable approximation of the market value.
 
 Inclusion of hedged items at fair value.
 
@@ -2642,11 +2648,11 @@ Accounting for changes in value.
 
 (3)  Where–
 
-(a) the financial instrument accounted for is a hedging instrument under a hedge accounting system that allows some or all of the change in value not to be shown in the profit and loss account; or
-
 Companies
 
-2014-19 (b) the change in value relates to an exchange difference arising on a monetary item that forms part of a company’s net investment in a foreign entity,
+2014-19 (a) the financial instrument accounted for is a hedging instrument under a hedge accounting system that allows some or all of the change in value not to be shown in the profit and loss account; or
+
+(b) the change in value relates to an exchange difference arising on a monetary item that forms part of a company’s net investment in a foreign entity,
 
 the amount of the change in value must be credited to or (as the case may be) debited from a separate reserve (the “fair value reserve”).
 
@@ -2676,11 +2682,9 @@ Interpretation of paragraphs 22 to 27.
 
 (2)  The expressions listed in sub-paragraph (3) have the same meaning as they have in Council Directive 78/660/EEC on the annual accounts of certain types of companies, as amended.
 
-(3)  Those expressions are “available for sale financial asset”, “business combination”, “commodity-based contracts”, “derivative”, “equity instrument”, “exchange difference”, “ fair value hedge accounting system”, “financial fixed asset”, “financial instrument”, “foreign entity”, “hedge accounting”, “hedge accounting system”, “hedged items”, “hedging
-
 Companies
 
-2014-19 instrument”, “held for trading purposes”, “held to maturity”, “monetary item”, “receivables”, “reliable market” and “ trading portfolio”.
+2014-19 (3)  Those expressions are “available for sale financial asset”, “business combination”, “commodity-based contracts”, “derivative”, “equity instrument”, “exchange difference”, “ fair value hedge accounting system”, “financial fixed asset”, “financial instrument”, “foreign entity”, “hedge accounting”, “hedge accounting system”, “hedged items”, “hedging instrument”, “held for trading purposes”, “held to maturity”, “monetary item”, “receivables”, “reliable market” and “ trading portfolio”.
 
 Companies
 
@@ -2728,7 +2732,9 @@ Information about individual transactions may be aggregated according to their n
 
 Companies
 
-2014-19 (k) the net turnover broken down by categories of activity and into geographical markets in so far as, taking account of the manner in which the sale of products and the provision of services falling within the company’s ordinary activities are organised, these categories and markets differ substantially from one another;
+2014-19
+
+(k) the net turnover broken down by categories of activity and into geographical markets in so far as, taking account of the manner in which the sale of products and the provision of services falling within the company’s ordinary activities are organised, these categories and markets differ substantially from one another;
 
 (l) the extent to which the calculation of the profit or loss for the financial year has been affected by a valuation of the items which by way of derogation from the principles enunciated in the Schedules was made in the financial year in question or in an earlier financial year with a view to obtaining tax relief.
 
@@ -2744,11 +2750,11 @@ This amount may also be disclosed in the balance sheet as a cumulative amount un
 
 (p) separately, the total fees for the financial year charged by the statutory auditor or audit firm for the statutory audit of annual accounts, the total fees charged for other assurance services, the total fees charged for tax advisory services and the total fees charged for other non-audit services.
 
-The Minister may by regulations provide that this requirement shall not apply where the company is included within the consolidated accounts required to be drawn up under the provisions of Chapter 3 of Part VII, provided that such information is given in the notes to the consolidated accounts.
+The Minister may by regulations provide that this requirement shall not apply where the company is included within the consolidated accounts required to be drawn up under the
 
 Companies
 
-2014-19
+2014-19 provisions of Chapter 3 of Part VII, provided that such information is given in the notes to the consolidated accounts.
 
 2.  Sub-paragraph (j) of paragraph 1 has effect subject to the following provisions–
 
@@ -2770,11 +2776,11 @@ Companies
 
 5.  Disclosures required under paragraph 1(b) of this Schedule may be omitted when their nature is such that they would be seriously prejudicial to any of the undertakings to which they relate. Any such omission must be disclosed in the notes on the accounts. Small and medium sized companies may omit disclosure of the information specified in paragraph 1(k) of this Schedule. Small and medium sized companies may omit disclosure of the information specified in paragraph 1(p) of this Schedule provided that such information is subject to public oversight pursuant to the provisions of the Financial Services (Auditors) Act 2009.
 
-6.  Small companies may draw up abridged notes on their accounts without the information required in paragraphs 1(f) to (h), 1(k) to (n), 1(p) and 8 of this Schedule (corresponding to article 43(1)(5) to (12), (14)(a) and (15) of Directive 78/660.) However, the notes must disclose the information specified in paragraph 1(g) of this Schedule in total for all the items concerned.
+6.  Small companies may draw up abridged notes on their accounts without the information required in paragraphs 1(f) to (h), 1(k) to (n), 1(p) and 8 of this Schedule (corresponding to article 43(1)(5) to (12), (14)(a) and (15) of Directive 78/660.) However, the notes must disclose the information
 
 Companies
 
-2014-19
+2014-19 specified in paragraph 1(g) of this Schedule in total for all the items concerned.
 
 7.(1)  This paragraph applies where financial instruments have been valued in accordance with paragraph 22 or 24 of Schedule 15.
 
@@ -2804,11 +2810,11 @@ Companies
 
 (b) the extent and nature of the derivatives.
 
-9.(1)  Sub-paragraph (2) applies if–
-
 Companies
 
-2014-19 (a) the company has financial fixed assets that could be included at fair value by virtue of paragraph 22 of Schedule 15;
+2014-19 9.(1)  Sub-paragraph (2) applies if–
+
+(a) the company has financial fixed assets that could be included at fair value by virtue of paragraph 22 of Schedule 15;
 
 (b) the amount at which those assets are included under any item in the company’s accounts is in excess of their fair value; and
 
@@ -2834,11 +2840,11 @@ Companies
 
 (4)  In subparagraph (3), references in relation to any item to the comparable amounts determined in accordance with that subparagraph are references to−
 
-(a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of
-
 Companies
 
-2014-19 all the assets covered by that item were determined according to the historical cost accounting rules; and
+2014-19
+
+(a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
 
 (b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
 
@@ -2870,7 +2876,7 @@ FINANCIAL HOLDING COMPANIES - PROFIT AND LOSS ACCOUNT FORMAT
 
 Charges                                                             Income
 
-1. Amounts written off                            1. Income from participating        assets interests, with a  separate indication of that derived from affiliated undertakings
+1. Amounts written off                            1. Income from participating assets                                                                   interests, with a  separate indication of that derived from affiliated undertakings
 
 2. Interest payable and                                    2. Income from other similar charges                                                    investments and loans forming part of the fixed assets, with a separate indication of that derived from affiliated undertakings
 
@@ -3078,9 +3084,9 @@ Acquisition accounting.
 
 8.  An acquisition shall be accounted for by the acquisition method of accounting.
 
-9.(1)  The acquisition method of accounting is as follows.
+9.(1)  The acquisition method of accounting is as follows -
 
-(2)  The identifiable assets and liabilities of the undertaking acquired must be included in the consolidated balance sheet at their fair values as at the date of acquisition.
+(2)  The identifiable assets and liabilities of the undertaking acquired must be included in the consolidated balance sheet at their fair value as at the date of acquisition.
 
 In this paragraph the “identifiable” assets or liabilities of the undertaking acquired means the assets or liabilities which are capable of being disposed of or discharged separately, without disposing of a business of the undertaking.
 
@@ -3120,11 +3126,9 @@ Companies
 
 (6)  In ascertaining for the purposes of subparagraph (4) or (5) the profit or loss of a group, the book values and fair values of assets and liabilities of a group or the amount of the assets and liabilities of a group, the set-offs and other adjustments required by this Schedule in the case of group accounts must be made.
 
-12.(1)  A note to the accounts shall state the cumulative amount of goodwill resulting from acquisitions in that and earlier financial years which has been written off.
-
 Companies
 
-2014-19
+2014-19 12.(1)  A note to the accounts shall state the cumulative amount of goodwill resulting from acquisitions in that and earlier financial years which has been written off.
 
 (2)  That figure shall be shown net of any goodwill attributable to subsidiary undertakings or business disposed of prior to the balance sheet date.
 
@@ -3152,13 +3156,15 @@ Minority interests.
 
 (b) in Format 2, under the general heading “LIABILITIES”, between items A and B,
 
-and that item shall include the amount of capital and reserves attributable to shares in subsidiary undertakings included in the consolidation held by or on behalf of persons other than the parent company and its subsidiary undertakings.
-
-(3)  In the Profit and Loss Account Formats a further item headed “Minority interests” is added–
+and that item shall include the amount of capital and reserves attributable to shares in subsidiary undertakings included in the consolidation held by or
 
 Companies
 
-2014-19 (a) in Format 1, between items 14 and 15;
+2014-19 on behalf of persons other than the parent company and its subsidiary undertakings.
+
+(3)  In the Profit and Loss Account Formats a further item headed “Minority interests” is added–
+
+(a) in Format 1, between items 14 and 15;
 
 (b) in Format 2, between items 16 and 17;
 
@@ -3186,13 +3192,13 @@ Joint ventures.
 
 (a) a corporate body; or
 
-(b) a subsidiary undertaking of the parent company.
-
-(2)  The provisions of this Schedule relating to the preparation of consolidated accounts apply, with any necessary modifications, to proportional consolidation under this paragraph.
-
 Companies
 
 2014-19
+
+(b) a subsidiary undertaking of the parent company.
+
+(2)  The provisions of this Schedule relating to the preparation of consolidated accounts apply, with any necessary modifications, to proportional consolidation under this paragraph.
 
 Associated undertakings.
 
@@ -3220,15 +3226,15 @@ Associated undertakings.
 
 (a) in Format 1, item 8;
 
+Companies
+
+2014-19
+
 (b) in Format 2, item 10;
 
 (c) in Format 3, item B.4; and
 
 (d) in Format 4, item B.6,
-
-Companies
-
-2014-19
 
 are replaced by two items, “Income from interests in associated undertakings” and “Income from other participating interests”.
 
@@ -3314,7 +3320,9 @@ Financial years of subsidiary undertakings.
 
 Companies
 
-2014-19 Instead of the dates required by subparagraph (b) being given for each subsidiary undertaking the earliest and latest of those dates may be given.
+2014-19
+
+Instead of the dates required by subparagraph (b) being given for each subsidiary undertaking the earliest and latest of those dates may be given.
 
 Further information about subsidiary undertakings.
 
@@ -3408,7 +3416,9 @@ Membership of certain undertakings.
 
 Companies
 
-2014-19 (3)  Information otherwise required by subparagraph (2) need not be given if it is not material.
+2014-19
+
+(3)  Information otherwise required by subparagraph (2) need not be given if it is not material.
 
 (4)  In this paragraph “qualifying undertaking” means a qualifying partnership or a qualifying company.
 
@@ -3442,11 +3452,9 @@ Identification of ultimate parent company.
 
 Construction of references to shares held by company.
 
-13.(1)  References in this Part to shares held by a company shall be construed as follows.
-
 Companies
 
-2014-19
+2014-19 13.(1)  References in this Part to shares held by a company shall be construed as follows.
 
 (2)  For the purposes of paragraphs 2 to 5 (information about subsidiary undertakings)–
 
@@ -3478,7 +3486,9 @@ Subsidiary undertakings.
 
 Companies
 
-2014-19 15.(1)  The following information shall be given with respect to the undertakings which are subsidiary undertakings of the parent company at the end of the financial year–
+2014-19
+
+15.(1)  The following information shall be given with respect to the undertakings which are subsidiary undertakings of the parent company at the end of the financial year–
 
 (a) the name of each undertaking;
 
@@ -3506,11 +3516,9 @@ Financial information about subsidiary undertakings not included in the consolid
 
 17.(1)  Each subsidiary undertaking not included in the consolidation shall disclose–
 
-(a) the total amount of its capital and reserves as at the end of its relevant financial year; and
-
 Companies
 
-2014-19
+2014-19 (a) the total amount of its capital and reserves as at the end of its relevant financial year; and
 
 (b) its profit or loss for that year.
 
@@ -3538,11 +3546,11 @@ Further information about subsidiary undertakings excluded from consolidation.
 
 (b) any note or saving contained in such accounts to call attention to a matter which, apart from the note or saving, would properly have been referred to in such a qualification, insofar as the matter which is the subject of the qualification or note is not covered by the consolidated accounts and is material from the point of view of the members of the parent company.
 
-(3)  In so far as information required by this paragraph is not obtainable, a statement to that effect shall be given.
-
 Companies
 
 2014-19
+
+(3)  In so far as information required by this paragraph is not obtainable, a statement to that effect shall be given.
 
 Financial years of subsidiary undertakings.
 
@@ -3570,13 +3578,11 @@ Joint ventures.
 
 (b) the address of the principal place of business of the undertaking;
 
-(c) the factors on which joint management of the undertaking is based; and
-
-(d) the proportion of the capital of the undertaking held by undertakings included in the consolidation.
-
 Companies
 
-2014-19
+2014-19 (c) the factors on which joint management of the undertaking is based; and
+
+(d) the proportion of the capital of the undertaking held by undertakings included in the consolidation.
 
 (2)  Where the financial year of the undertaking did not end with that of the company, the date on which a financial year of the undertaking last ended before that date shall be given.
 
@@ -3608,11 +3614,11 @@ and the information under heads (a) and (b) shall be shown separately.
 
 Other significant holdings of parent company or group.
 
-23.(1)  The information required by paragraph 24 and 25 shall be given where at the end of the financial year the parent company has a significant holding in an undertaking which is not one of its subsidiary undertakings and does not fall within paragraph 21 (joint ventures) or paragraph 22 (associated undertakings).
-
 Companies
 
-2014-19 (2)  A holding is significant for this purpose if–
+2014-19 23.(1)  The information required by paragraph 24 and 25 shall be given where at the end of the financial year the parent company has a significant holding in an undertaking which is not one of its subsidiary undertakings and does not fall within paragraph 21 (joint ventures) or paragraph 22 (associated undertakings).
+
+(2)  A holding is significant for this purpose if–
 
 (a) it amounts to 10 per cent or more of the nominal value of any class of shares in the undertaking; or
 
@@ -3640,13 +3646,15 @@ Companies
 
 (2) That information need not be given in respect of an undertaking if–
 
-(a) the undertaking is not required by any provision made by this Act to deliver to the Registrar a copy of its balance sheet for its relevant financial year and does not otherwise publish that balance sheet in Gibraltar or elsewhere; and
-
-(b) the company’s holding is less than 50 per cent of the nominal value of the shares in the undertaking.
+(a) the undertaking is not required by any provision made by this Act to deliver to the Registrar a copy of its balance sheet for its
 
 Companies
 
-2014-19 (3)  Information otherwise required by this paragraph need not be given if it is not material.
+2014-19 relevant financial year and does not otherwise publish that balance sheet in Gibraltar or elsewhere; and
+
+(b) the company’s holding is less than 50 per cent of the nominal value of the shares in the undertaking.
+
+(3)  Information otherwise required by this paragraph need not be given if it is not material.
 
 (4)  For the purposes of this paragraph the “relevant financial year” of an undertaking is–
 
@@ -3674,13 +3682,15 @@ Companies
 
 (a) the identity of each class of shares held; and
 
+Companies
+
+2014-19
+
 (b) the proportion of the nominal value of the shares of that class represented by those shares.
 
 28.(1)  Where the holding of the group amounts to 20 per cent or more of the nominal value of the shares in the undertaking, there must also be stated–
 
-Companies
-
-2014-19 (a) the total amount of the capital and reserves of the undertaking as at the end of its relevant financial year; and
+(a) the total amount of the capital and reserves of the undertaking as at the end of its relevant financial year; and
 
 (b) its profit or loss for that year.
 
@@ -3706,15 +3716,15 @@ Parent company’s or group’s membership of certain undertakings.
 
 (a) the name and legal form of the undertaking; and
 
-(b) the address of the undertaking’s registered office (whether in or outside Gibraltar) or, if it does not have such an office, its head office (whether in or outside Gibraltar).
+Companies
+
+2014-19 (b) the address of the undertaking’s registered office (whether in or outside Gibraltar) or, if it does not have such an office, its head office (whether in or outside Gibraltar).
 
 (3)  The information required by subparagraph (2) need not be given if it is not material.
 
 (4)  In this paragraph “qualifying undertaking” means a qualifying partnership or a qualifying company.
 
-Companies
-
-2014-19 Parent undertaking drawing up accounts for larger group.
+Parent undertaking drawing up accounts for larger group.
 
 30.(1)  Where the parent company is itself a subsidiary undertaking, the following information shall be given about that parent company which heads–
 
@@ -3742,6 +3752,10 @@ Identification of ultimate parent company.
 
 (2)  In this paragraph “company” includes any corporate body.
 
+Companies
+
+2014-19
+
 Construction of references to shares held by parent company or group.
 
 32.(1)  References in this Part to shares held by the parent company or the group shall be construed as follows.
@@ -3749,10 +3763,6 @@ Construction of references to shares held by parent company or group.
 (2)  For the purposes of paragraphs 16, 22(4) and (5) and 23 to 25 (information about holdings in subsidiary and other undertakings)–
 
 (a) the parent company shall be regarded as holding shares held for it by any person; but
-
-Companies
-
-2014-19
 
 (b) the parent company shall not be regarded as holding shares held for a person other than the company.
 
@@ -3768,15 +3778,15 @@ Risk management systems.
 
 33.(1)  A consolidated annual report shall give a description of the main features of the group’s internal control and risk management systems in relation to the process for preparing consolidated accounts, where an undertaking has its securities admitted to trading on a regulated market within the meaning of the Financial Services (Markets in Financial Instruments) Act 2006. In the event that the consolidated annual report and the directors’ report are presented as a single report, this information must be included in the section of the report containing the corporate governance statement as provided for in section 251.
 
-(2)  Where the information required by section 251 is set out in a separate report published together with the directors’ report in the manner prescribed by this Act, the information provided under subsection (1) shall also form part of that separate report, which shall be audited in accordance with the provisions of this Act.
+Companies
+
+2014-19 (2)  Where the information required by section 251 is set out in a separate report published together with the directors’ report in the manner prescribed by this Act, the information provided under subsection (1) shall also form part of that separate report, which shall be audited in accordance with the provisions of this Act.
 
 PART III
 
 EMOLUMENTS OF DIRECTORS AND STAFF COSTS
 
-Companies
-
-2014-19 1.  Without prejudice to sections 226 and 229 the notes to the accounts of a company to which Part II applies shall disclose  the amount of emoluments paid to or receivable by any person for–
+1.  Without prejudice to sections 226 and 229 the notes to the accounts of a company to which Part II applies shall disclose  the amount of emoluments paid to or receivable by any person for–
 
 (a) his services as a director of the company; or
 
@@ -3800,7 +3810,9 @@ Companies
 
 4.  The total amount of directors’ or past directors’ retirement pensions shall be shown, and the amount so shown shall distinguish between retirement pensions in respect of services as director, whether of the company or any of its subsidiaries, and other pensions.
 
-5.  The amounts of advances and credits granted to the directors of the parent undertaking by that undertaking or one of its subsidiary undertakings shall be shown, with indications of the interest rates, main conditions and any amounts repaid, as well as commitments entered into on their behalf by way of guarantees of any kind with an indication of the total for each category.
+Companies
+
+2014-19 5.  The amounts of advances and credits granted to the directors of the parent undertaking by that undertaking or one of its subsidiary undertakings shall be shown, with indications of the interest rates, main conditions and any amounts repaid, as well as commitments entered into on their behalf by way of guarantees of any kind with an indication of the total for each category.
 
 Companies
 
@@ -3836,7 +3848,7 @@ POWERS EXERCISABLE WITHOUT SANCTION
 
 and take security for the discharge of any such call, debt, liability or claim and give a complete discharge in respect of it.
 
-7.  Power to do all acts and execute, in the name and on behalf of the company, any deeds, receipts or other document.
+7.  Power to do all acts and execute, in the name and on behalf of the company, any deeds, receipts or other documents.
 
 8.  Power to use the company’s seal.
 
@@ -3876,7 +3888,7 @@ ITEM FEE
 
 £100.00
 
-£10.00 (b) Same day urgency fee for incorporation or registration of a company including registration or re-registration under Part XII (including registration) (correct documents to be lodged with the Registrar before 12.00 midday)
+£10.00 (b) Same day urgency fee for incorporation or registration of a company including registration or re-registration under Part XII (correct documents to be lodged with the Registrar before 12.00 midday)
 
 £200.00 (c) Registration of a company as re-domiciled in Gibraltar under section 442(3)
 
@@ -3890,19 +3902,23 @@ Or re-domiciling outside Gibraltar under section 442(4)
 
 £200.00 (g) Lodging of annual return for the current year
 
-Plus where company is a cell company, in respect of each cell of the company £75.00
+Plus where a company is a cell company, in respect of each cell of the company
 
-£75.00 Supplementary Fees for late filing of Annual Returns (see section 426(4) of the Companies Act)
+Annual or voluntary Statement of Allotments, Redemptions and Purchase of Own Shares under section 189 £75.00
+
+£75.00
+
+£100.00 Supplementary Fees for late filing of Annual Returns (see section 426(4) of the Companies Act)
 
 Lodging of the late Annual Return or substitution of an annual return after date due for the filing of that return
 
-1 year-  £105.00 2 years- £135.00 3 years- £165.00 3+ years- £195.00 (h) Lodging of particulars of directors and/or secretaries or any change in directors and/or secretaries
-
-£15.00
+1 year-  £105.00 2 years- £135.00 3 years- £165.00 3+ years- £195.00
 
 Companies
 
-2014-19 (i) Lodging any document required to be given, delivered, sent, forwarded, lodged or filed by the Registrar (except where otherwise specified) or to lodge a substitute document for a document lodged or filed in the Register (other than an Annual Return)
+2014-19 (h) Lodging of particulars of directors and/or secretaries or any change in directors and/or secretaries
+
+£15.00 (i) Lodging any document required to be given, delivered, sent, forwarded, lodged or filed by the Registrar (except where otherwise specified) or to lodge a substitute document for a document lodged or filed in the Register (other than an Annual Return)
 
 £15.00 Supplementary fees for late filing of any document other than Annual Returns and the filing of Accounts (see section 426(4) of the Companies Act)
 
@@ -3938,23 +3954,21 @@ Supplementary fees for late filing of Accounts (see section 426(4) of the Compan
 
 £30.00 (n) Application to the Registrar to restore to the register a company which has been struck off
 
-£200.00 (o) Application for a licence under section 28 £200.00 (p) Certificate of good standing £45.00 (q) Inspection of document– (i) personal search
-
-(ii) electronic archive copy of company record (manual)
-
-£15.00
-
-£15.00
+£200.00 (o) Application for a licence under section 28 £200.00 (p) Certificate of good standing £45.00 (q) Inspection of document–
 
 Companies
 
-2014-19 (on-line)
+2014-19 (i) personal search
+
+(ii) electronic archive copy of company record (manual) (on-line)
 
 (iii) electronic archive copy of company record (within same day) (iv) Certified copy of a certificate: (aa) if available from the original record (exclusive of search) (bb) 1st copy produced from electronic archive (cc) each subsequent copy supplied on the same occasion and of the same company from electronic archive
 
-(v) Certified copy of any other document: (aa) If available from the original record, per page (exclusive of search) (bb) 1st copy produced from electronic archive; per document (cc) 1st copy produced from electronic archive; per document (within same day), per document (dd) each subsequent copy supplied on the same occasion and of the same company from electronic archive, per document
+(v) Certified copy of any other document: (aa) If available from the original record, per page (exclusive of search) (bb) 1st copy produced from electronic archive; per document (cc) 1st copy produced from electronic archive; per document (within same day) (dd) each subsequent copy supplied on the same occasion and of the same company from electronic archive, per document
 
-(vi) Copy of any document: (aa) If available from the original record, per page (exclusive of search) (bb) 1st copy produced from electronic archive; per document(inclusive of search) (cc) 1st copy produced from electronic archive; per document(within same day), per document (dd) each subsequent copy supplied on the same occasion and of the same company from electronic archive, per document £10.00
+(vi) Copy of any document: (aa) If available from the original record, per page (exclusive of search) (bb) 1st copy produced from electronic archive; per document(inclusive of search) (cc) 1st copy produced from electronic archive; per document(within same day) (dd) each subsequent copy supplied on the same occasion and of the same company from electronic archive, per document £15.00
+
+£15.00 £10.00
 
 £20.00
 
@@ -3996,11 +4010,9 @@ Companies
 
 (c)  By the formation of a subsidiary SE in accordance with Article 2(3) of the EC Regulation £200.00
 
-(d)  By the transference of a public company in accordance with Article 2(4) of the EC Regulation £200.00 (e)  By the formation of a subsidiary SE in accordance with Article 3(2) of the EC Regulation £200.00
-
 Companies
 
-2014-19 3. For Registration of a public company by the conversion of an SE in accordance with Article 66 of the EC Regulation £200.00 4. For registration of an SE on the transfer of its registered office to Gibraltar in accordance with Article 8 of the EC Regulation £250.00 5. For an application for a certificate under Article 8(8) of the EC Regulation attesting to the completion of the acts and formalities to be accomplished before the transfer of the registered office of an SE from Gibraltar £250.00
+2014-19 (d)  By the transference of a public company in accordance with Article 2(4) of the EC Regulation £200.00 (e)  By the formation of a subsidiary SE in accordance with Article 3(2) of the EC Regulation £200.00 3. For Registration of a public company by the conversion of an SE in accordance with Article 66 of the EC Regulation £200.00 4. For registration of an SE on the transfer of its registered office to Gibraltar in accordance with Article 8 of the EC Regulation £250.00 5. For an application for a certificate under Article 8(8) of the EC Regulation attesting to the completion of the acts and formalities to be accomplished before the transfer of the registered office of an SE from Gibraltar £250.00
 
 Companies
 
@@ -4094,7 +4106,7 @@ Companies
 
 (b) in relation to a company falling within paragraph (2)(b) above, means a period for which its parent undertaking is required or permitted by the undertaking’s parent law to prepare consolidated accounts,
 
-“the Fourth Council Directive” means the Fourth Council Directive of 25th July 1978 based on Article 54(3)(g) of the Treaty on the annual accounts of certain types of companies (78/660/EEC);
+“the Fourth Council Directive” means the Fourth Council Directive of 25th July 1978 based on Article 54(3)(g) of the Treaty on the annual accounts of certain types of companies (78/660/EEC); and
 
 “parent law”, in relation to a company, means the law of the country in which the company is incorporated; and references to disclosure are to public disclosure.
 
@@ -4180,7 +4192,7 @@ Conclusiveness of certificate of incorporation; ss.14-16.
 
 Specific requirements as to particulars in prospectus; s.79.
 
-Prohibition of allotment in certain cases unless statement in lieu of prospectus delivered to Registrars.84.
+Prohibition of allotment in certain cases unless statement in lieu of prospectus delivered to Registrar; s.84.
 
 Return as to allotments; s.86.
 
@@ -4216,11 +4228,11 @@ Companies
 
 Companies
 
-2014-19 Market purchase, by a company of its own shares 108(3) Medium-sized company 237(1) Member 17(2) Memorandum 2(1) Merger by absorption 304(1) Merger by formation of new company 304(1) Merging companies (in Part VII) 304(2) Minister, the 2(1) Net 293(5) Net assets (in Part III) 40(6) Net value transferred (in section 350) 350(5) New company (in sections 303-351) 302(2) Next annual return (in section 289) 289(7) Non-business day (in section 430) 430(3) Non-IAS accounts 237(1) Off-market purchase, by a company of its own shares 108(1) Officer (in sections 188-191) 191(4) Officer who is in default 472 Official notification (in section 430) 430(4) Official receiver (in section 220) 220(3) Ordinary resolution 200 Other holder (in section 319) 319(6) Overseas company (in Part XII) 431 Parent company (in Part VII Chapter 3) 276(1) Parent law (in Schedule 26) Schedule 26, paragraph 6 Parent undertaking (in Part VIII Chapter 3) 276(1) Participating interests (in Part VII Chapter 3) 278(1) Payment out of capital 105(1), 112 Pension costs (in section 247) 247(7) Permissible capital payment 105(4), 112 Place of business (In Part XII) 441 Preferential creditor (in Part X) 358(1) Preferential debt (in Part X) 358 Prescribed 2(1) Price risk (in section 253) 253(2) Principal terms 264(4) Primary currency 237(1) Private company 4(2), 19 Profit and loss account(in Part VII) 237(1) Profit and loss account, in relation to a company that prepares IAS group accounts (in Part VII Chapter 3) 280(1) Promoter (in section 81) 81(5) Proper books of account (in Part I) 2(1) Properly prepared (in section 358) 358(3) Property (in Part VIII) 352 Prospectus 2(1) Prospectus (in Part XII) 441 Prospectus (in sections 465-466) 465(7) Public company 4(1) Qualifying floating charge (in Part X) 359(1)
+2014-19 Market purchase, by a company of its own shares 108(3) Medium-sized company 237(1) Member 17(2) Memorandum 2(1) Merger by absorption 304(1) Merger by formation of new company 304(1) Merging companies (in Part VII) 304(2) Minister, the 2(1) Net 293(5) Net assets (in Part III) 40(6) Net value transferred (in section 350) 350(5) New company (in sections 303-351) 302(2) Next annual return (in section 289) 289(7) Non-business day (in section 430) 430(3) Non-IAS accounts 237(1) Off-market purchase, by a company of its own shares 108(1) Officer (in sections 188-191) 191(4) Officer who is in default 472 Official notification (in section 430) 430(4) Official receiver (in section 220) 220(3) Ordinary resolution 200 Other holder (in section 319) 319(6) Overseas company (in Part XII) 431 Parent company (in Part VII Chapter 3) 276(1) Parent law (in Schedule 26) Schedule 26, paragraph 6 Parent undertaking (in Part VIII Chapter 3) 276(1) Participating interests (in Part VII Chapter 3) 278(1) Payment out of capital 105(1), 112 Pension costs (in section 247) 247(7) Permissible capital payment 105(4), 112 Place of business (In Part XII) 441 Preferential creditor (in Part X) 358(1) Preferential debt (in Part X) 358 Prescribed 2(1) Price risk (in section 253) 253(2) Principal terms 264(4) Primary currency 237(1) Private company 4(2), 19 Profit and loss account(in Part VII) 237(1) Profit and loss account, in relation to a company that prepares IAS group accounts (in Part VII Chapter 3) 280(1) Promoter (in section 81) 81(5) Proper books of account (in Part I) 2(1) Properly prepared (in section 358) 358(3) Property (in Part VIII) 352 Prospectus 2(1) Prospectus (in Part XII) 441 Prospectus (in sections 465-466) 465(7) Public company 4(1) Qualifying floating charge (in Part X) 359(1) Realised loss, in relation to a company’s accounts 280(3)
 
 Companies
 
-2014-19 Realised loss, in relation to a company’s accounts 280(3) Realised profits, in relation to a company’s accounts 280(3) Redenomination, in relation to a company’s share capital (in Part V) 159 Registrar 2(1) Regulated market (in Part VII) 237(1) Related party (in Part VII Chapter 3) 291(3) Relevant model articles 24(2) Relevant resolutions and agreements (in s21) 21(2) Relevant securities (in section 94) 94(2) Relevant securities (in section 318) 318(6) Relevant state (in Part XIII) 442(2) Resolution for reducing share capital 136(2) Return date 188(1) Secured creditor (in Part X) 359(1) Share 2(1) Shares (in Part VII Chapter 3) 277(2) Shares (in sections 465-466) 465(7) Shares (in sections 467-468) 468(6) Share exchange ratio 305(2), 326(2) Share premium account 125(1) Social security costs (in s247) 247(6) Special resolution 201 Specified company (in Part VII) 237(1) Statutory report 194 Subsidiary 2(1) Subsidiary undertaking (in Part VII) 237(1) Subsidiary undertaking (in Part VII Chapter 3) 276(1) Transfer (in section 152) 152 Transferor company (in Part VIII) 300(1)(b) Transferee company (in Part VIII) 300(1)(b) True and fair view, in relation to company accounts 237(1) Undertaking (in Part VII) 277(1) Undistributable reserves (in Part III) 354(5) Unqualified report (in section 40) 40(3) Unlimited company 3(4) Unsecured creditor (in Part X) 359(1) Valuer (in Schedule 4) Schedule 4, paragraph 2 Variation (in section 143) 143 Vendor (in Schedules 2 & 3) Schedule 2, paragraph 2 Voluntary liquidation (in Part I) 2(1) Voluntary liquidator (in Part I) 2(1) Winding up of a company (in Part I) 2(3)
+2014-19 Realised profits, in relation to a company’s accounts 280(3) Redenomination, in relation to a company’s share capital (in Part V) 159 Registrar 2(1) Regulated market (in Part VII) 237(1) Related party (in Part VII Chapter 3) 291(3) Relevant model articles 24(2) Relevant resolutions and agreements (in s21) 21(2) Relevant securities (in section 94) 94(2) Relevant securities (in section 318) 318(6) Relevant state (in Part XIII) 442(2) Resolution for reducing share capital 136(2) Return date 188(1) Secured creditor (in Part X) 359(1) Share 2(1) Shares (in Part VII Chapter 3) 277(2) Shares (in sections 465-466) 465(7) Shares (in sections 467-468) 468(6) Share exchange ratio 305(2), 326(2) Share premium account 125(1) Social security costs (in s247) 247(6) Special resolution 201 Specified company (in Part VII) 237(1) Statutory report 194 Subsidiary 2(1) Subsidiary undertaking (in Part VII) 237(1) Subsidiary undertaking (in Part VII Chapter 3) 276(1) Transfer (in section 152) 152 Transferor company (in Part VIII) 300(1)(b) Transferee company (in Part VIII) 300(1)(b) True and fair view, in relation to company accounts 237(1) Undertaking (in Part VII) 277(1) Undistributable reserves (in Part III) 354(5) Unqualified report (in section 40) 40(3) Unlimited company 3(4) Unsecured creditor (in Part X) 359(1) Valuer (in Schedule 4) Schedule 4, paragraph 2 Variation (in section 143) 143 Vendor (in Schedules 2 & 3) Schedule 2, paragraph 2 Voluntary liquidation (in Part I) 2(1) Voluntary liquidator (in Part I) 2(1) Winding up of a company (in Part I) 2(3)
 
 Companies
 
@@ -4260,11 +4272,11 @@ ENACTMENTS REPEALED
 
 16. The Companies (Amendment) Act 1999 (1999 No.30): the whole Act
 
-17. The Companies (Execution of Documents by Foreign Companies) Act 2001 (2001 No. 2): the whole Act.
-
 Companies
 
-2014-19 18. The Companies (Amendment) Act 2001 (2001 No.03): the whole Act.
+2014-19 17. The Companies (Execution of Documents by Foreign Companies) Act 2001 (2001 No. 2): the whole Act.
+
+18. The Companies (Amendment) Act 2001 (2001 No.03): the whole Act.
 
 19. The Companies Act (Schedule 8) Order L.N.2001=105: the whole Order.
 
