@@ -10,9 +10,13 @@ TUNA PRESERVATION REGULATIONS 2014
 
 Commencement 30.10.2014
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.  2014/266 rr. 5(1)(a), (b), (c), (1A) 22.12.2014
 
-ARRANGEMENT OF REGULATIONS.
+Nature Protection TUNA PRESERVATION REGULATIONS 2014
+
+1991-11
+
+Subsidiary 2014/184 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
