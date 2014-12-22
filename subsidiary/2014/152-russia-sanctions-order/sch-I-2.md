@@ -1,14 +1,12 @@
-ANNEX I Websites for information on the competent authorities and address for notification to the European Commission
+ANNEX I
+
+Websites for information on the competent authorities and address for notification to the European Commission
 
 1. Information on competent authorities of the Member States
 
 BELGIUM
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 http://www.diplomatie.be/eusanctions
+http://www.diplomatie.be/eusanctions
 
 BULGARIA
 
@@ -34,7 +32,11 @@ IRELAND
 
 http://www.dfa.ie/home/index.aspx?id=28519
 
-GREECE
+Export Control RUSSIA SANCTIONS ORDER 2014
+
+2005-33
+
+Subsidiary 2014/152 GREECE
 
 http://www.mfa.gr/en/foreign-policy/global-issues/international- sanctions.html
 
@@ -49,12 +51,6 @@ http://www.diplomatie.gouv.fr/autorites-sanctions/
 CROATIA
 
 http://www.mvep.hr/sankcije
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152
 
 ITALY
 
@@ -82,7 +78,11 @@ http://2010-2014.kormany.hu/download/b/3b/70000/ENSZBT-ET- szankcios-tajekoztato
 
 MALTA
 
-https://www.gov.mt/en/Government/Government%20of%20Malta/Ministrie s%20and%20Entities/Officially% 20Appointed%20Bodies/Pages/Boards/Sanctions-Monitoring-Board-.aspx
+Export Control RUSSIA SANCTIONS ORDER 2014
+
+2005-33
+
+Subsidiary 2014/152 https://www.gov.mt/en/Government/Government%20of%20Malta/Ministrie s%20and%20Entities/Officially% 20Appointed%20Bodies/Pages/Boards/Sanctions-Monitoring-Board-.aspx
 
 NETHERLANDS
 
@@ -96,11 +96,7 @@ http://www.msz.gov.pl
 
 PORTUGAL
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 http://www.portugal.gov.pt/pt/os-ministerios/ministerio-dos-negocios- estrangeiros/quero-saber-mais/sobre-o-ministerio/medidas- restritivas/medidas-restritivas.aspx
+http://www.portugal.gov.pt/pt/os-ministerios/ministerio-dos-negocios- estrangeiros/quero-saber-mais/sobre-o-ministerio/medidas- restritivas/medidas-restritivas.aspx
 
 ROMANIA
 
@@ -124,6 +120,10 @@ UNITED KINGDOM
 
 https://www.gov.uk/sanctions-embargoes-and-restrictions
 
-2. Address for notifications to the European Commission:
+Export Control RUSSIA SANCTIONS ORDER 2014
+
+2005-33
+
+Subsidiary 2014/152 2. Address for notifications to the European Commission:
 
 European Commission Service for Foreign Policy Instruments (FPI) EEAS 02/309 B-1049 Brussels Belgium E-mail: relex-sanctions@ec.europa.eu

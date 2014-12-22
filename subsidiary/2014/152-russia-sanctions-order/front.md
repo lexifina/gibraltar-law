@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2014/162 Para. 2, 3(2) to (4), 12(1), (2), Schs. I & II
 
-16.9.2014
+16.9.2014 2014/262 Para. 7(1), Sch. 22.12.2014
 
 Transposing: Council Regulation (EU) No. 833/2014 Council Regulation (EU) No. 960/2014
 
