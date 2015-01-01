@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2005-28 s.2 23.5.2005 LN. 2008/097 Corrigendum
 
-2011/217 ss. 2-11 27.10.2011
+2011/217 ss. 2-11 27.10.2011 2014/259 s. 3(8), (9) 1.1.2015
 
 English sources: None cited
 
