@@ -12,11 +12,13 @@ Commencement 6.4.2006 (LN. 2006/038)
 
 Amending enactments Relevant current provisions Commencement date LN. 2008/032 rr. 2, 12A, 29(a), 30A & 42A 8.5.2008 2014/112 rr. 2, 6(1), 9A-9C, 13(1), (2), (3), 13A, 13B, 14(1), (2), (2)(e), 15(1)- (4), 16(1)-(5), 17(2), 18(1), (2), 19(1), (2), 19A, 20(1), (2), 21(2), 21A-21C, 26A, 26B, 27(1), (2), (2A), (3), (5A),38(1)(f), (g), (8), 39, 42, 43(1), (8), (9), 44(1), (2), (2A), 44B, Schs. 1 & 2
 
-4.7.2014
+4.7.2014 “ r. 44A 4.1.20151
 
 Transposing: Directive 2001/25/EC Directive 2003/103/EC Directive 2005/23/EC Directive 2005/45/EC Directive 2008/106/EC
 
 Implementing: International Convention for Safety of Life at Sea, 1974 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978
+
+1 Commencement date corrected by Notice of Corrigenda – LN. 2015/015
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MANNING, TRAINING AND CERTIFICATION FOR SEAFARERS) REGULATIONS 2006
 
@@ -50,7 +52,7 @@ Subsidiary 2006/023
 
 Part 4 Matters incidental to seafarers training, experience and certification
 
-34. Principles governing near-coastal voyages. 35. Quality standards. 36. Use of simulators. 37. Responsibility for training and assessment. 38. Responsibilities of companies. 39. Fitness for duty. 40. Responsibilities of the company and the master with regard to   on- board communication. 41. Dispensation. 42. Inquiry, Investigation and disciplinary measures. 42A.  Prevention of fraud and other unlawful practices. 43. Offences and penalties. 44. Port State Control. 44B.  Transitional provisions. 45. Fees. 46. Appeals. 47. Power to make Administrative Instructions. 48. Revocation.
+34. Principles governing near-coastal voyages. 35. Quality standards. 36. Use of simulators. 37. Responsibility for training and assessment. 38. Responsibilities of companies. 39. Fitness for duty. 40. Responsibilities of the company and the master with regard to   on- board communication. 41. Dispensation. 42. Inquiry, Investigation and disciplinary measures. 42A.  Prevention of fraud and other unlawful practices. 43. Offences and penalties. 44. Port State Control. 44A.  Information for statistical purposes. 44B.  Transitional provisions. 45. Fees. 46. Appeals. 47. Power to make Administrative Instructions. 48. Revocation.
 
 SCHEDULE 1 TRAINING REQUIREMENTS OF THE STCW CONVENTION, REFERRED TO IN REGULATION 6
 
