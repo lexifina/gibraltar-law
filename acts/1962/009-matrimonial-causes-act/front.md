@@ -30,15 +30,17 @@ Act. 1972-06 –
 
 2005-08 s. 60A 22.2.2005 Act. 2009-45 ss. 2-5, 5A-5B, 16(2)(c)-(e), (3)(c)(i)-(ii), (4)-(5), 17A, 18, 19A, 20-21, 25, 25A-25E, 26(2)- (3), 26A, 27(3), 30(1)-(2), (4), 31A-31M, 32-34, 34A, 35-43, 43A-43E, 46A-46J, 47, 48(1), 49, 50(1)-(2), 51-52, 58
 
-14.1.20101
-
-Rules of court made under s.61 and other powers appear under the title Supreme Court. (These, inter alia, apply the former English Matrimonial Causes Rules 1957, as amended up to April 1968, with modifications and adaptations.
-
-Implementing: Regulation (EC) No 2201/2003
-
-English sources: Matrimonial Causes Act 1973(1973 Chapter 18).
+14.1.20101 LN. 2015/003 s. 60A(b) 10.1.2015
 
 1 Notice of Commencement - LN. 2010/002
+
+Matrimonial Causes
+
+1962-09 Rules of court made under s.61 and other powers appear under the title Supreme Court. (These, inter alia, apply the former English Matrimonial Causes Rules 1957, as amended up to April 1968, with modifications and adaptations.
+
+Implementing: Regulation (EC) No 1215/2012 Regulation (EC) No 2201/2003
+
+English sources: Matrimonial Causes Act 1973(1973 Chapter 18).
 
 Matrimonial Causes
 
@@ -78,7 +80,7 @@ Nullity.
 
 Decree nisi.
 
-26. Decree nisi for divorce or nullity. 26A.  Proceedings after decree nisi: special protection for respondent in separation cases.
+26. Decree nisi for divorce or nullity. 26A.  Repealed.
 
 Presumption of death.
 
