@@ -60,13 +60,15 @@ Supreme Court
 
 1960-02 2010-10 s.12A 6.5.2010 2010-16 s. 36B 8.7.2010 2010-201 ss. 19 to 22I, 23 to 27, 27A to 27V, 35A, Schs. 2, 3 & 4
 
-1.1.20112 LN.  2011/105 ss. 72A -72G 7.7.2011 Act.  2012-09 ss. 27E(2) & (3) & 27G(3) 27.9.2012 2012-17 s. 12A(1), (2), (2A), (3) & (4) 22.11.2012 LN.  2013/134 ss. 35A(1), 35H(1), 41 & Sch. 1 1.7.2013
+1.1.20112 LN.  2011/105 ss. 72A -72G 7.7.2011 Act.  2012-09 ss. 27E(2) & (3) & 27G(3) 27.9.2012 2012-17 s. 12A(1), (2), (2A), (3) & (4) 22.11.2012 LN.  2013/134 ss. 35A(1), 35H(1), 41 & Sch. 1 1.7.2013 2015/003 s. 72C(3) 10.1.2015
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
 The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
 
 Transposing: Directive 77/249/EEC Directive 98/5/EC Directive 2006/100/EC Directive 2008/52/EC Directive 2013/25/EU
+
+Implementing: Regulation (EU) No 1215/2012
 
 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
