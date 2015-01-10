@@ -16,9 +16,9 @@ Amending enactments Relevant current provisions Commencement date Act. 1997-27 s
 
 17.2.2005 2007-17 ss. 7(1), 13(1), 14(1), 15(3), 17(3), 30(1) & (2)
 
-14.6.2007 2010-05 Sch. 11 18.3.2010
+14.6.2007 2010-05 Sch. 11 18.3.2010 LN. 2015/003 ss. 2(1), (6), 32(2), (3), Sch. 10 10.1.2015
 
-Implementing: Regulation (EC) No. 44/2001 Regulation (EC) No. 2201/2003
+Implementing: Regulation (EC) No. 44/2001 Regulation (EC) No. 2201/2003 Regulation (EU) No. 1215/2012
 
 International Agreements involved: Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters The Accession Convention The 1982 Accession Convention The 1989 Accession Convention The Brussels Conventions The Hague Convention The Lugano Convention
 
