@@ -10,7 +10,7 @@ MEDICAL (GROUP PRACTICE SCHEME) (PHARMACEUTICAL SERVICES) REGULATIONS 2008
 
 Commencement 15.5.2008
 
-Amending enactments Relevant current provisions Commencement date LN. 2011/200 rr. 2 & 18(2) 13.10.2011
+Amending enactments Relevant current provisions Commencement date LN. 2011/200 rr. 2 & 18(2) 13.10.2011 2015/010 rr. 2, 15(1), (2), (3)(c), (4), 18(2) 15.1.2015
 
 Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) (PHARMACEUTICAL SERVICES) REGULATIONS 2008
 
