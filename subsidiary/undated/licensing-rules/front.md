@@ -1,16 +1,16 @@
-Licensing and Fees LICENSING RULES
+Subsidiary Legislation made under s.51.
 
-1961-29
+Licensing Rules
 
-Subsidiary 1961.12.28 Subsidiary Legislation made under s. 51.
-
-LICENSING RULES
-
-(LN. 1961.12.28)
+1961.12.28
 
 Commencement 1.1.1962
 
-Amending enactments Relevant current provisions Commencement date 17.7.1962 2.7.1963
+Amending enactments Relevant current provisions Commencement date
+
+17.7.1962
+
+2.7.1963
 
 3.9.1963
 
@@ -18,27 +18,13 @@ Amending enactments Relevant current provisions Commencement date 17.7.1962 2.7.
 
 1.9.1964
 
-29.7.1966 r. 3(1)
+29.7.1966 r. 3(1) Order of regs.19.9.1969
 
-Order of regs.19.9.1969
+29.5.1970 – LN. 1975/162 rr. 4(1), 5, 9(2)-(9), 10A 1975/167 r. 9(2), (4A), (7A) 1975/177 – 1977/029 r. 4A 1980/108 – 1982/092 rr. 43, 45-47, 50 1989/035 rr. 43-50 1.10.1989 1991/200 rr. 2, 9(7)-(8), 10A(2), 11, 20, 29(3), (5), 30(3) 31.10.1991 1991/214 rr. 28(4), 33-34 21.11.1991 Act. 1997-34 rr. 19-22 13.11.1997 LN. 2015/014 r. 9(1), (1A) 5.2.2015
 
-29.5.1970 – LN. 1975/162 rr. 4(1), 5, 9(2)-(9), 10A 1975/167 r. 9(2), (4A), (7A) 1975/177 –
+ARRANGEMENT OF RULES
 
-1977/029 r. 4A
-
-1980/108 –
-
-1982/092 rr. 43, 45-47, 50
-
-1989/035 rr. 43-50 1.10.1989 1991/200 rr. 2, 9(7)(8), 10A (2), 11, 20, 29 (3)(5) and 30 (3) 31.10.1991 1991/214 rr. 28(4), 33 and 34 21.11.1991 Act. 1997-34 rr. 19-22 13.11.1997
-
-Licensing and Fees LICENSING RULES
-
-1961-29
-
-Subsidiary 1961.12.28 ARRANGEMENT OF RULES.
-
-Rules.
+Rule
 
 1. Title. 2. General penalty.
 
@@ -60,22 +46,12 @@ PART IV.–EATING HOUSES.
 
 PART V.–PORTERS.
 
-28. Porters to be licensed. 29. Licensed porters to wear badges. 30. Licensed porter to produce licence. 31. Offence for unauthorized person to wear porter’s badge. 32. Licensed porters shall Carry scale of charges.
+28. Porters to be licensed. 29. Licensed porters to wear badges.
 
-Licensing and Fees LICENSING RULES
-
-1961-29
-
-Subsidiary 1961.12.28 33. Revoked. 34. Revoked.
+30. Licensed porter to produce licence. 31. Offence for unauthorized person to wear porter’s badge. 32. Licensed porters shall Carry scale of charges. 33. Revoked. 34. Revoked.
 
 PART VI.–BAKERS AND BAKEHOUSES.
 
 35. Bakers to be licensed. 36. Premises to be licensed. 37. Bread to be sold by weight. 38. Certain loaves to be of fixed weight. 39. Weights to be of Imperial Standards. 40. Penalty for having unwholesome ingredients. 41. Premises and floor may be inspected. 42. Liability of unlicensed baker.
 
 PART VII.–LICENSED GUIDES.
-
-43-50.  Revoked.
-
-Licensing and Fees LICENSING RULES
-
-1961-29
