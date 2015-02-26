@@ -22,7 +22,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 23.11.20121 2013-03 s. 199(3) 17.1.2013 LN. 2013/056 ss. 2(1), 258 & 259 4.4.2013 Act. 2013-21 ss. 12(1)(a), (5), 690(5),(6), 690A & Sch. 14 10.10.20132 LN. 2013/142 ss. 85A - 85F 27.10.2013 Act. 2014-15 ss. 612(1)(b), 613(1), (2), (2A), (2B), (3), (5), (6) & Sch. 11 12.6.2014 LN. 2014/230 ss. 144(4A), (4B), 211(5), (6), 351(3), 352(1), (4), 371(6), (7), 376(1A), (1B), 480(4), (4A), (5)
 
-1.12.2014
+1.12.2014 Act. 2015-04 ss. 497 26.2.2015
 
 Transposing: Directive 2010/64/EU Directive 2011/36/EU Decision 2008/675/JHA
 
@@ -464,7 +464,7 @@ PART 21 – CUSTODIAL SENTENCES
 
 Duration of sentences
 
-497. Duration of sentences of imprisonment. 498. Time in custody pending appeal.
+497. Duration of terms of imprisonment. 498. Time in custody pending appeal.
 
 Restrictions on sentences of imprisonment
 
