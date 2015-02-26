@@ -40,7 +40,7 @@ Parliament
 
 14.6.2007 2007-30 ss. 2(a)-(b), 3(1), (3), 4(2)-(4), 5(1), 6, 7(3), 14(1), 17, 20(1), (4), 22, 22A, 23, 25(1)-(2), 86, 88, 91(1)(b), 100, Schs. 2, 3
 
-28.6.2007
+28.6.2007 2015-06 s. 94(1)(a)-(b) 26.2.2015
 
 English sources
 
@@ -1316,9 +1316,9 @@ Reduced pension and gratuity.
 
 94.(1)  A person may, at his option, exercisable in accordance with subsection (2), be paid in lieu of a pension computed under section 92–
 
-(a) a person at the rate of not less than 3/4 of such pension; and
+(a) a reduced pension together with a gratuity equal to twelve and a half times the amount by which such pension is reduced; or
 
-(b) a gratuity equal to 12½ times the amount by which such pension is reduced.
+(b) a gratuity equal to twelve and a half times the amount of such pension.
 
 (2)  An option exercisable in accordance with this section–
 
