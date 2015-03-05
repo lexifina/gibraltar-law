@@ -10,11 +10,17 @@ GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
 
 5.8.2004
 
+Amending enactments Relevant current provisions Commencement date LN.  2015/031 rr. 2, 49(1)(d), 63(2), (3), 63A, 84(1), (2A), 89(7)
+
+5.3.2015
+
 Implementing: Regulation 725/2004/EC International Convention for Safety of Life at Sea (SOLAS) 1974
 
-_____________________
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
 
-ARRANGEMENT OF REGULATIONS
+1995-13
+
+Subsidiary 2004/071 ARRANGEMENT OF REGULATIONS
 
 Regulations
 
@@ -28,13 +34,13 @@ PART II GENERAL APPLICATION AND EXEMPTIONS
 
 PART III SURVEYS, VERIFICATIONS AND CERTIFICATES.
 
-7. Surveys of ships. 8. Surveys of passenger ships. 9. Surveys of life-saving appliances and other equipment of cargo ships.
+7. Surveys of ships. 8. Surveys of passenger ships. 9. Surveys of life-saving appliances and other equipment of cargo ships. 10. Surveys of radio installations of cargo ships. 11. Surveys of structure, machinery and equipment of cargo ships. 12. Verifications under the ISPS Code. 13. Surveys of nuclear ships. 14. Enhanced surveys. 15. Surveys of high-speed craft. 16. Maintenance of conditions after surveys and verifications. 17. Inquiry or investigation of incidents. 18. Certificates for passenger and cargo ships. 19. Certificate and permit to operate high-speed craft. 20. Certificates for nuclear ships. 21. Certification and verification for safety management system. 22. Issue or endorsement of certificates by another Government. 23. Issue or endorsement of certificates on request by another Government. 24. Duration and validity of certificates for passenger and cargo ships. 25. Forms of, and harmonisation of certificates, etc. 26. Availability of certificates. 27. Acceptance of certificates.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
 
 1995-13
 
-Subsidiary 2004/071 10. Surveys of radio installations of cargo ships. 11. Surveys of structure, machinery and equipment of cargo ships. 12. Verifications under the ISPS Code. 13. Surveys of nuclear ships. 14. Enhanced surveys. 15. Surveys of high-speed craft. 16. Maintenance of conditions after surveys and verifications. 17. Inquiry or investigation of incidents. 18. Certificates for passenger and cargo ships. 19. Certificate and permit to operate high-speed craft. 20. Certificates for nuclear ships. 21. Certification and verification for safety management system. 22. Issue or endorsement of certificates by another Government. 23. Issue or endorsement of certificates on request by another Government. 24. Duration and validity of certificates for passenger and cargo ships. 25. Forms of, and harmonisation of certificates, etc. 26. Availability of certificates. 27. Acceptance of certificates. 28. Qualification of certificates.
+Subsidiary 2004/071 28. Qualification of certificates.
 
 PART IV CONSTRUCTION OF SHIPS: STRUCTURE, SUBDIVISION AND STABILITY, MACHINERY AND ELECTRICAL INSTALLATIONS.
 
@@ -44,13 +50,7 @@ PART V CONSTRUCTION OF SHIPS: FIRE PROTECTION, FIRE DETECTION AND FIRE EXTINCTIO
 
 35. Application of chapter II-2. 36. Fire safety requirements. 37. Additional requirements for means of  control in periodically unattended machinery spaces. 38. Additional safety measures for ships carrying dangerous goods.
 
-PART VI
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/071 LIFE-SAVING APPLIANCES AND ARRANGEMENTS.
+PART VI LIFE-SAVING APPLIANCES AND ARRANGEMENTS.
 
 39. Application of chapter III and the LSA Code. 40. Approval of life-saving appliances and arrangements. 41. Operational readiness, maintenance and inspection. PART VII RADIOCOMMUNICATIONS.
 
@@ -58,7 +58,13 @@ Subsidiary 2004/071 LIFE-SAVING APPLIANCES AND ARRANGEMENTS.
 
 PART VIII SAFETY NAVIGATION.
 
-45. Application of chapter V. 46. Maintenance of equipment 47. Nautical and other publications to be carried on board. 48. Automatic identification system. 49. Voyage data recorders. 50. Danger and distress messages.
+45. Application of chapter V. 46. Maintenance of equipment 47. Nautical and other publications to be carried on board. 48. Automatic identification system.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
+
+1995-13
+
+Subsidiary 2004/071 49. Voyage data recorders. 50. Danger and distress messages.
 
 PART IX CARRIAGE OF CARGOES AND DANGEROUS GOODS.
 
@@ -66,13 +72,7 @@ PART IX CARRIAGE OF CARGOES AND DANGEROUS GOODS.
 
 PART X SPECIAL MEASURES TO ENHANCE MARITIME SAFETY AND SECURITY.
 
-59. Ship identification number and marking of ships. 60. Continuous synopsis record. 61. Application of chapter XI-2 and the ISPS Code. 62. Designations. 63. Requirements for ships to enhance maritime security. 64. Requirements for port facilities to enhance maritime security.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/071 65. Declaration of security. 66. Unauthorised presence in a restricted area of a ship or a port facility. 67. Ship security and ship security plan. 68. Application of chapter XII. 69. Survey of the cargo hold structure of bulk carriers.
+59. Ship identification number and marking of ships. 60. Continuous synopsis record. 61. Application of chapter XI-2 and the ISPS Code. 62. Designations. 63. Requirements for ships to enhance maritime security. 63A.  Steps to be taken under the EC Regulation. 64. Requirements for port facilities to enhance maritime security. 65. Declaration of security. 66. Unauthorised presence in a restricted area of a ship or a port facility. 67. Ship security and ship security plan. 68. Application of chapter XII. 69. Survey of the cargo hold structure of bulk carriers.
 
 PART XI NUCLEAR SHIPS.
 
@@ -80,7 +80,13 @@ PART XI NUCLEAR SHIPS.
 
 PART XII MANAGEMENT FOR THE SAFE OPERATION OF SHIPS.
 
-74. Application of the ISM CODE. 75. Functional requirements for the safety management system. 76. Safety, environmental-protection Policy and master’s responsibility. 77. Personnel and plans for shipboard operations, emergency preparedness and maintenance of the ship, equipment and documentation.
+74. Application of the ISM CODE.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
+
+1995-13
+
+Subsidiary 2004/071 75. Functional requirements for the safety management system. 76. Safety, environmental-protection Policy and master’s responsibility. 77. Personnel and plans for shipboard operations, emergency preparedness and maintenance of the ship, equipment and documentation.
 
 PART XIII SAFETY MEASURES FOR HIGH-SPEED CRAFT.
 
@@ -88,13 +94,7 @@ PART XIII SAFETY MEASURES FOR HIGH-SPEED CRAFT.
 
 PART XIV ENFORCEMENT AND CONTROL OF SHIPS.
 
-84. Inspection and control of ships. 85. Rectification of deficiencies. 86. Cancellation of a certificate. 87. Prohibition on proceeding to sea without the appropriate documentation. 88. Limit on the number of passengers on passenger ships. 89. Security checks for the purposes of the EC Regulation.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/071 90. Inspection of port facilities and companies by the European Commission. 91. Appeals. 92. Offences and penalties.
+84. Inspection and control of ships. 85. Rectification of deficiencies. 86. Cancellation of a certificate. 87. Prohibition on proceeding to sea without the appropriate documentation. 88. Limit on the number of passengers on passenger ships. 89. Security checks for the purposes of the EC Regulation. 90. Inspection of port facilities and companies by the European Commission. 91. Appeals. 92. Offences and penalties.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
 
