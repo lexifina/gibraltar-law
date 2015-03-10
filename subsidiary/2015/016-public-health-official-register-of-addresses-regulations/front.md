@@ -8,7 +8,7 @@ PUBLIC HEALTH (OFFICIAL REGISTER OF ADDRESSES) REGULATIONS 2015
 
 (LN. 2015/016)
 
-Commencement 10.2.2015 1, 2, 3 and 12
+Commencement 10.2.2015 1, 2, 3 and 12 10.3.2015 4-11
 
 _______________________
 
