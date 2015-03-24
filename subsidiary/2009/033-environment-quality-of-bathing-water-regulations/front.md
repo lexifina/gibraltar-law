@@ -8,7 +8,7 @@ ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
 
 (LN. 2009/033)
 
-Commencement 4.6.2009 rr. 1, 2 to 6, 10, 12, 13 and 17 24.3.2011 rr. 7 to 9, 11, 24, 26 and 27
+Commencement 4.6.2009 rr. 1, 2 to 6, 10, 12, 13 and 17 24.3.2011 rr. 7 to 9, 11, 24, 26 and 27 24.3.2015 rr. 14 to 16, 18 to 23, 25 and 28
 
 Amending enactments Relevant current provisions Commencement date
 
