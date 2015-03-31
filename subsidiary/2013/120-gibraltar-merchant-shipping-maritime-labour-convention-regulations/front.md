@@ -14,6 +14,8 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.  2014/159 Corrigenda
 
+2015/051 rr. 43A – 43E 31.3.2015
+
 Transposing: Directive 1999/63/EC Directive 2009/13/EC Directive 2013/54/EU
 
 EU Legislation/International Agreements involved: European Community Shipowners’ Associations (ECSA) and the European Transport Workers’ Federation (ETF) on the Maritime Labour Convention, 2006
@@ -57,6 +59,10 @@ PART V: HEALTH PROTECTION, MEDICAL CARE, WELFARE AND SOCIAL SECURITY PROTECTION
 PART VI: INSPECTION AND CERTIFICATION
 
 33. Inspection of Gibraltar ships. 34. Issue of Maritime Labour Certificates to Gibraltar ships. 35. Inspection and certification of Gibraltar ships by Governments of other States. 36. Interim Maritime Labour Certificates for Gibraltar ships. 37. Survey and Certification of non-Gibraltar ships by the Maritime Administrator. 38. Duration and validity of Maritime Labour Certificates. 39. Declaration of Maritime Labour Compliance. 40. Appeals. 41. Documents to be carried on board and made available. 42. On-board and on-shore complaint procedure. 43. Documentation and complaint procedure for MLC ships.
+
+PART VIA
+
+43A  Subject matter of Part VIA. 43B.  Interpretation of Part. 43C.  Monitoring of compliance. 43D.  Personnel in charge of compliance monitoring. 43E.  On-board complaint procedures, handling of complaints and corrective measures.
 
 PART VII: COMPLIANCE AND ENFORCEMENT
 
