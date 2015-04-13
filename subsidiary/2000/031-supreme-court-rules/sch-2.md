@@ -24,12 +24,8 @@ Rules, practice and procedure relating to -
 
 (k) legal aid and advice;
 
-(l) in probate matters, inland revenue affidavits; (m) in bankruptcy matters, the keeping of registers of bills taxed and registers of writs and orders affecting land;
+(l) in probate matters, inland revenue affidavits;
+
+(m) in bankruptcy matters, the keeping of registers of bills taxed and registers of writs and orders affecting land;
 
 (n) proceedings relating to solicitors.
-
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031

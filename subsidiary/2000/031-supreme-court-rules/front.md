@@ -1,26 +1,18 @@
-Supreme Court SUPREME COURT RULES 2000
+Subsidiary Legislation made under s.38.
 
-1960-02
+Supreme Court Rules 2000
 
-Subsidiary 2000/031 Rules made under s.38.
+LN.2000/031
 
-SUPREME COURT RULES 2000
-
-(LN. 2000/031)
-
-4.5.2000
+Commencement 4.5.2000
 
 Amending enactments Relevant current provisions Commencement date
 
 LN. 2003/044 Sch. 6 10.4.2003 2004/039 rr. 10, 13, 14(1), 15(1)-(2), 18(1)(b), 20-23, 24(1), (a)-(c), (2)
 
-1.9.2004 2010/156 r. 6(2)(b) 21.10.2010 2011/091 rr. 4(2)-(3), 5(1)(b), (3) 9.6.2011 2014/076 rr. 5(1)(a), (b)(ii) 12.5.2014 Act. 2014-14 rr. 6(2)-(4), 7(a), (c) 1.11.2014
+1.9.2004 2010/156 r. 6(2)(b) 21.10.2010 2011/091 rr. 4(2)-(3), 5(1)(b), (3) 9.6.2011 2014/076 rr. 5(1)(a), (b)(ii) 12.5.2014 Act. 2014-14 rr. 6(2)-(4), 7(a), (c) 1.11.2014 LN. 2015/062 r. 49, Sch. 6 13.4.2015
 
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031 ARRANGEMENT OF RULES
+ARRANGEMENT OF RULES
 
 Rule
 
@@ -34,21 +26,15 @@ PART II SITTINGS AND OFFICE HOURS
 
 PART III PRACTICE AND PROCEDURE IN ORIGINAL CIVIL MATTERS
 
-6. Application of English rules of court. 7. Practice and procedure in winding-up, matrimonial causes and
-
-bankruptcy. 8. Certain English rules and practice excluded. 9. Filing of copies. 10. Deleted. 11. Examiners and conveyancing counsel. 12. Drawing-up of orders.
+6. Application of English rules of court. 7. Practice and procedure in winding-up, matrimonial causes and bankruptcy. 8. Certain English rules and practice excluded. 9. Filing of copies. 10. Deleted. 11. Examiners and conveyancing counsel. 12. Drawing-up of orders.
 
 PART IV APPEALS IN CIVIL MATTERS
 
 Appeals from a Master
 
-13. Application for leave to appeal. 14. Notice of appeal. 15. Appeal record. 16. Memorandum of appeal. 17. Failure to lodge memorandum. 18. Notice of cross-appeal. 19. Addition of parties. 20. Setting down and notice of hearing. 21. Evidence. 22. Arguments at hearing.
+13. Application for leave to appeal. 14. Notice of appeal. 15. Appeal record. 16. Memorandum of appeal. 17. Failure to lodge memorandum. 18. Notice of cross-appeal. 19. Addition of parties. 20. Setting down and notice of hearing.
 
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031 23. Death of party. 24. Failure of parties to appear.
+21. Evidence. 22. Arguments at hearing. 23. Death of party. 24. Failure of parties to appear.
 
 Appeals by case stated from the magistrates' court
 
@@ -68,11 +54,7 @@ PART VI ENROLMENT OF DEEDS
 
 PART VII RECORDS
 
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031 47. Records. 48. Public inspection.
+47. Records. 48. Public inspection.
 
 PART VIII FEES, COSTS, EXPENSES AND COMMISSION
 
@@ -91,9 +73,3 @@ SCHEDULE 5 Records.
 SCHEDULE 6 Fees.
 
 SCHEDULE 7 Remuneration of Official Trustees in bankruptcy.
-
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031

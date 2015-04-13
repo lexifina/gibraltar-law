@@ -2,128 +2,294 @@ SCHEDULE 6
 
 FEES
 
-Column 1 Number and description of fee Column 2 Amount of fee
+Amount of fee
 
-1. Where no other fee is specified, on filing a notice of appeal (including an appeal against an allocation decision), or a case stated or a special case for the opinion of the Supreme Court pursuant to statute, or a notice of cross appeal, or a respondent's notice of appeal
+Description of fee
 
-£100.00
+1. CIVIL PROCEEDINGS
 
-2. Enforcement 2.1 On sealing a writ of execution/possession/delivery
+1.1 Starting a Claim
 
-£20.00 Where recovery of a sum of money is sought in addition to a writ of possession and delivery, no further fee is payable.
+Money Claims
 
-2.2 On a request or application to register a judgment or order, or for leave to enforce an arbitration award, or for a certified copy of a judgment or order for use abroad. £30.00 3. Miscellaneous proceedings or matters Bills of Sale 3.1 On filing any document under the Bills of Sale Act. £10.00 Searches
+On starting proceedings to recover a sum of money, based on the amount claimed, including interest, where the sum claimed: (a) does not exceed £300
 
-3.2 For an official certificate of the research of a search for each name, in any register or index held by the court; for an official certificate of the result of a search of unclaimed balances for a specified period of up to 50 years. £5.00
+£35 (b) exceeds £300 but does not exceed £500
 
-3.3 On a search in person of the bankruptcy and companies records, including inspection, for each 15 minutes or part of 15 minutes. £5.00
+£50 (c) exceeds £500 but does not exceed £1,000
 
-Registration as a European Lawyer
+£70 (d) exceeds £1,000 but does not exceed £1,500
 
-3.4 On filing an application for registration under section 52 of the Supreme Court (Amendment) Act 2002. £100
+£80 (e) exceeds £1,500 but does not exceed £3,000
 
-Supreme Court SUPREME COURT RULES 2000
+£115 (f) exceeds £3,000 but does not exceed £5,000
 
-1960-02
+£200 (g) exceeds £5,000 but does not exceed £10,000
 
-Subsidiary 2000/031
+£350 (h) exceeds £10,000 but does not exceed £15,000
 
-4. Affidavits 4.1 On taking an affidavit or an affirmation or attestation upon honour in lieu of an affidavit or a declaration
+£400 (i) exceeds £15,000 but does not exceed £25,000
 
-- for each person making any of the above £5.00
+£500 (j) exceeds £25,000 but does not exceed £50,000
 
-4.2 For each exhibit referred to in an affidavit, affirmation, attestation or declaration for which fee 4.1 is payable £2.00
+£600 (k) exceeds £50,000 but does not exceed £100,000
 
-5. Company Causes and Insolvency
+£800 (l) exceeds £100,000 but does not exceed £150,000
 
-5.1 On presenting a petition for the winding-up of a company by the court £150.00 5.2 On presenting a bankruptcy petition:
+£1,000 (m) exceeds £150,000 but does not exceed £200,000
 
-(i) if presented by a debtor or by the personal representative of a deceased debtor £120.00
+£1,200 (n) exceeds £200,000 but does not exceed £250,000
 
-(ii) if presented by a creditor or other person £150.00
+£1,500 (o) exceeds £250,000 but does not exceed £300,000
 
-5.3 On presenting any other petition £150.00 One fee only is payable where more than one petition is presented in relation to a partnership.
+£1,700 (p) exceeds £300,000 but does not exceed £500,000
 
-5.4 On the hearing of a public examination £20.00 This fee is not payable until after a hearing on which the debtor has appeared and has been examined.
+£2,000 (q) exceeds £500,000 but does not exceed £1,000,000
 
-5.5 On filing an appeal in bankruptcy £25.00
+£2,500 (r) exceeds £1,000,000 but does not exceed £5,000,000
 
-5.6 On filing a notice of cross-appeal or a respondent's notice £15.00
+£3,000 (s) exceeds £5,000,000 but does not exceed £10,000,000
 
-6. Matrimonial Causes
+£4,000 (t) exceeds £10,000,000 or is not limited or unspecified
 
-6.1 On filing an originating application £15.00
+£5,000
 
-6.2 On filing a petition:
+On the filing of a counterclaim The same fee as if the remedy sought were the subject of separate proceedings
 
-(i) with the leave of the Court under rule 3(2) of the £20.00
+Non-money Claims
 
-Supreme Court SUPREME COURT RULES 2000
+£300
 
-1960-02
+On starting proceedings for any other remedy
 
-Subsidiary 2000/031 Matrimonial Causes Rules, 1957 (ii) in any other case £100.00 6.3 On applying for an injunction £30.00
+On filing of proceedings against a party or parties not named in the proceedings
 
-6.4 On any application in matrimonial proceedings, except where it is otherwise provided in this Schedule, or is for an order by consent £15.00
+£50
 
-7. Non-Contentious Probate Matters
+On starting proceedings for judicial review
 
-7.1 On an application for a grant or for resealing a grant, on the net value of the estate -
+£500
 
-(a) if the value does not exceed £20,000; No fee exceeds £20,000 but does not exceed £25,000 £40.00
+1.2 Hearing Fees
 
-exceeds £25,000 but does not exceed £40,000 £80.00
+Within 14 days of the court fixing the trial date, the fee payable for the hearing of:
 
-exceeds £40,000 but does not exceed £70,000 £150.00
+A case on the Small Claims Track where the sum claimed: (a) does not exceed £300
 
-exceeds £70,000 but does not exceed £100,000 £215.00 (b) If the value exceeds £100,000 but does not exceed £200,000 £300.00 and for every additional £100,000 or part thereof, a further fee of £50.00
+£25 (b) exceeds £300 but does not exceed £500
 
-7.2 On an application for:
+£55 (c) exceeds £500 but does not exceed £1,000
 
-(a) a grant limited to settled land, or
+£80 (d) exceeds £1,000 but does not exceed £1,500
 
-(b) a grant limited to trust property, or
+£115 (e) exceeds £1,500 but does not exceed £3,000
 
-(c) a duplicate grant, or (d) any second or subsequent grant (including one following a revoked grant) in respect of the same deceased person, other than a grant preceded only by a grant limited to settled land, to trust property or to a part of the estate £2.00
+£170 (f) exceeds £3,000
 
-Supreme Court SUPREME COURT RULES 2000
+£335
 
-1960-02
+A case on the fast track
 
-Subsidiary 2000/031 7.3 On depositing a will for safe custody in the Registry £50.00 8. Court of Protection
+£450 A case on the multi-track (for the first 15 sitting days)
 
-8.1 On sealing an order £2.00
+£900 In the multi-track, for every additional sitting day, or part thereof, after the first 15 sitting days
 
-8.2 On sealing an authority, direction or certificate, other than a percentage certificate or a certificate of the result of a taxation £0.50
+£400
 
-8.3 On the clear income of a patient from the first order in the proceedings until their termination, for every £100 or part thereof £5.00 Provided that no fee shall be payable where the annual income of the patient is less than £5,000
+1.3 General Civil Proceedings Fees
 
-9. Registration and Enrolment of Deeds
+Applications
 
-9.1 For the registration of a will or deed under the Gibraltar Land Titles Act 1990, including endorsement of a certificate of registration:
+On an application on notice where no other fee is specified
 
-(a) for a document not exceeding 15 pages in length £20.00 (b) exceeding 15 pages and not exceeding 40 pages in length £40.00 (c) exceeding 40 pages in length £60.00 9.2 For the enrolment of any document, including the endorsement of a certificate of registration:
+£150
 
-(a) for a document not exceeding 15 pages in length £20.00
+On an application by consent or an application to be dealt with without a hearing where no other fee is specified
 
-(b) exceeding 15 pages and not exceeding 40 pages in length £40.00 (c) exceeding 40 pages in length £60.00 10. Miscellaneous Services
+£50
 
-10.1 For a transcript of proceedings whether recorded on tape or from a Judge's or the Registrar's note:
+Application for a summons or order for a witness to attend court
 
-Supreme Court SUPREME COURT RULES 2000
+£50
 
-1960-02
+Application for a certificate of satisfaction of a judgment debt
 
-Subsidiary 2000/031 (a) for each A4 page or part of a page £5.00 (b) for additional copies, for each page or part of a page £0.25 10.2 For a photographic copy of any document or part of a document:
+£15
 
-(a) for each A4 paper £0.25
+1.4 Determination of Costs
 
-(b) for each A3 paper £0.50
+On filing a request for a detailed assessment where the amount of the costs claimed: (a) does not exceed £15,000
 
-10.3 For a typewritten copy of any document or part of a document, for each page or part thereof £0.50 10.4 For examining a plain copy and marking it as an office copy, for each sheet £0.50 10.5 For certifying a copy to be a true copy of the original, under the seal of the court for each document £4.00
+£300 (b) exceeds £15,000 but does not exceed £50,000
 
-Supreme Court SUPREME COURT RULES 2000
+£500 (c) exceeds £50,000 but does not exceed £200,000
 
-1960-02
+£600 (d) exceeds £200,000 but does not exceed £500,000
 
-Subsidiary 2000/031
+£1,500
+
+(e) exceeds £500,000
+
+£3,000
+
+On a request for the issue of a default costs certificate
+
+£50 On an application to set aside a default costs certificate
+
+£100 On commencing an appeal against a decision made in detailed assessment proceedings
+
+£150
+
+1.5 Enforcement Proceedings
+
+On sealing a writ of execution, possession, delivery or writ of Fifa
+
+£50
+
+On an application to vary a judgment, suspend enforcement or suspend a warrant of possession
+
+£50
+
+On an application for an order requiring a judgment debtor or other person to attend court to provide information in connection with enforcement of a judgment or order
+
+£50
+
+On a request for service by bailiff of an order to attend court for questioning
+
+£100
+
+On an application for a third party debt order
+
+£100 On an application for a judgment summons
+
+£100
+
+On a request or application to register a judgment or order, or for leave to enforce an arbitration award, or for a certified copy of a judgment or order for use abroad
+
+£50
+
+2. ADMIRALTY
+
+To issue the Claim Form The fee payable on starting ordinary civil proceedings On an application on notice £150
+
+On an application by consent or an application to be dealt with without a hearing
+
+£50 On the filing of a request for a warrant of arrest £50
+
+To request service by the Marshal of the Claim Form (as part of the arrest) £100 To request the arrest of a vessel by the Marshal £100 To request service by the Marshal (other than on effecting arrest) £150 On filing a praecipe for release £20 On filing of a Caution £40
+
+3. COMPANIES JURISDICTION AND INSOLVENCY
+
+On an application for the appointment of a liquidator by the court £200
+
+On an application for a bankruptcy order:
+
+i. if made by a debtor or by the personal representative of a deceased debtor £150
+
+ii. If made by a creditor or other person £200
+
+On making any other originating application under the Companies Act or Insolvency Act £180
+
+On the hearing of an examination of a bankrupt £50
+
+On an application on notice within existing proceedings where no other fee is specified £150
+
+On an application by consent or an application to be dealt with without a hearing where no other fee is specified £50
+
+4. DIVORCE, DISSOLUTION AND MATRIMONIAL JURISDICTION On filing a petition (including cross-petition)
+
+£250
+
+On filing any other originating application in the Divorce, Dissolution or Matrimonial jurisdiction or under the Children Act
+
+£150
+
+On applying for an injunction
+
+£50
+
+On any other application in existing Divorce, Dissolution or Matrimonial jurisdiction proceedings or under the Children Act
+
+£50
+
+5. PROBATE
+
+On an application for a grant or for resealing a grant, on the net value of the estate, where the value: (a) does not exceed £20,000 No fee (b) exceeds £20,000 but does not exceed £25,000 £40 (c) exceeds £25,000 but does not exceed £40,000 £80 (d) exceeds £40,000 but does not exceed £70,000 £150 (e) exceeds £70,000 but does not exceed £100,000 £215 (f) exceeds £100,000 but does not exceed £200,000 £300 (g)
+
+exceeds £200,000 £300 plus £100 for every additional £100,000, or part thereof, exceeding £200,000
+
+On the filing of a caveat £40
+
+To request the settling of a draft document, per document £100 On depositing a will for safe custody in the Registry £250 On an application for: a grant limited to settled land £50 grant limited to trust property £50 a duplicate grant £50 a second or subsequent grant £50 6. APPEALS TO THE SUPREME COURT Where no other fee is specified, on filing a notice of appeal (including an appeal against an allocation decision), or a case stated or a special case for the opinion of the Supreme Court pursuant to statute, or a notice of cross appeal, or a respondent's notice of appeal £200 7. COURT OF PROTECTION
+
+On the filing of an application £400 If hearing is required, an additional £100
+
+On the filing of accounts by receivers On income of up to £20,000 per annum, a fee of £100. An additional £10 will be payable for every additional £10,000 of income per annum
+
+8. MISCELLANEOUS FEES
+
+8.1 Swearing Affidavits at the Registry
+
+On taking an affidavit or an affirmation or attestation upon honour in lieu of an affidavit or a declaration - for each person making any of the above £5
+
+For each exhibit referred to in an affidavit, affirmation, attestation or declaration £2
+
+8.2 Enrolment of Deed Evidencing Change of Name
+
+(a) for a document not exceeding 15 pages in length £20
+
+(b) exceeding 15 pages and not exceeding 40 pages in length £40
+
+(c) exceeding 40 pages in length £60
+
+8.3 Miscellaneous Services
+
+For a transcript of proceedings: (a) each A4 page or part of a page £5
+
+(b) for additional copies per page £0.25
+
+For an audio copy of a recording of proceedings when approved by a Judge
+
+£50
+
+For a photographic copy of any document or part thereof: (a) each A4 page £0.25
+
+(b) each A3 page £0.50
+
+For examining a plain copy and marking it as an office copy, for each sheet
+
+£0.50
+
+For certifying a copy to be a true copy of the original, under the seal of the court for each document
+
+£4 and 50p per page
+
+Search Fees - per every 15 minutes or part thereof
+
+£10
+
+8.4 Lawyers
+
+On presenting a petition for approval and admission as a barrister or solicitor
+
+£200
+
+On an application for the waiving of rules 4(2) & 5(1) of the Barristers & Solicitors Rules
+
+£150
+
+On an application for registration as a European Lawyer
+
+£200
+
+8.5 Other
+
+On filing any document under the Bills of Sale Act
+
+£50
+
+9. FEES NOT PROVIDED FOR
+
+For any other matter not prescribed above in respect of which any rules of court provide that a fee is payable
+
+£200 or such lower amount as the Registrar may in his discretion determine

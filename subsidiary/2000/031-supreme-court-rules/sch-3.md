@@ -22,12 +22,6 @@ Received in the Court of First Instance on the         day of                  2
 
 Clerk.
 
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031
-
 FORM CA2
 
 IN THE SUPREME COURT OF GIBRALTAR
@@ -53,12 +47,6 @@ To the Honourable the Chief Justice.
 Received in the Supreme Court on the         day of                             20    .
 
 Registrar.
-
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031
 
 FORM CA3
 
@@ -89,9 +77,3 @@ To the Honourable the Chief Justice
 Received in the Supreme Court on the       day of                           20    .
 
 Registrar.
-
-Supreme Court SUPREME COURT RULES 2000
-
-1960-02
-
-Subsidiary 2000/031
