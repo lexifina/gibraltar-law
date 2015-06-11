@@ -13,9 +13,3 @@ The waste to be deposited in a facility shall be characterised in such a way as 
 (d) description of the method of deposition;
 
 (e) waste transport system to be employed.
-
-Environment WASTE (EXTRACTIVE INDUSTRIES) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/080

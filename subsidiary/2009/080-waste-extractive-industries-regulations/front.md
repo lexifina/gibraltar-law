@@ -1,30 +1,16 @@
-Environment WASTE (EXTRACTIVE INDUSTRIES) REGULATIONS 2009
+Subsidiary Legislation made under s.18.
 
-2005-27
+Waste (Extractive Industries) Regulations 2009
 
-Subsidiary 2009/080 Subsidiary Legislation made under s. 18.
-
-WASTE (EXTRACTIVE INDUSTRIES) REGULATIONS 2009
-
-(LN. 2009/080)
+LN.2009/080
 
 Commencement 26.11.2009
 
-Amending enactments Relevant current provisions Commencement date
-
-LN.  2011/155 r. 21A 22.9.2011 2014/061 rr. 2, 3(3)(c), 5(3)(g), 8(2), (2)(b), 11(1), (2)(a)
-
-2.5.2014
+Amending enactments Relevant current provisions Commencement date LN. 2011/155 r. 21A 22.9.2011 2014/061 rr. 2, 3(3)(c), 5(3)(g), 8(2), (b), 11(1), (2)(a) 2.5.2014 2015/083 r. 3(3) 11.6.2015
 
 EU Legislation/International Agreements involved: Directive 67/548/EEC Directive 76/464/EEC Directive 80/68/EEC Directive 1999/45/EC Directive 2000/60/EC Directive 2004/35/EC Directive 2006/21/EC Directive 2008/99/EC
 
-Environment WASTE (EXTRACTIVE INDUSTRIES) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/080
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -36,8 +22,4 @@ SCHEDULE 2 WASTE CHARACTERISATION
 
 SCHEDULE 3 CRITERIA FOR DETERMINING THE CLASSIFICATION OF WASTE FACILITIES
 
-Environment WASTE (EXTRACTIVE INDUSTRIES) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/080 In exercise of the powers conferred on it by section 18 of the Environment Act 2005 and in order to transpose into the law of Gibraltar Directive 2006/21/EC of the European Parliament and of the Council of 15 March 2006 on the management of waste from extractive industries and amending Directive 2004/35/EC as amended, the Government has made the following Regulations–
+In exercise of the powers conferred on it by section 18 of the Environment Act 2005 and in order to transpose into the law of Gibraltar Directive 2006/21/EC of the European Parliament and of the Council of 15 March 2006 on the management of waste from extractive industries and amending Directive 2004/35/EC as amended, the Government has made the following Regulations–

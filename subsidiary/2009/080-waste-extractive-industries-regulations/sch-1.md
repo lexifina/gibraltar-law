@@ -8,7 +8,7 @@ The operator’s major-accident prevention policy and safety management system s
 
 (a) the major-accident prevention policy should include the operator's overall aims and principles of action with respect to the control of major-accident hazards;
 
-(b) the safety management system should include the part of the general management system which includes the organisational structure, responsibilities, practices, procedures, processes and resources for determining and implementing the major-accident prevention policy;
+(b) the safety management system should include the part of the general management system which includes the organisational structure, responsibilities, practices, procedures, processes and resources for determining and implementing the major- accident prevention policy;
 
 (c) the following issues shall be addressed by the safety management system
 
@@ -18,17 +18,11 @@ The operator’s major-accident prevention policy and safety management system s
 
 (iii) operational control — adoption and implementation of procedures and instructions for safe operation, including maintenance of plant, processes, equipment and temporary stoppages;
 
-Environment WASTE (EXTRACTIVE INDUSTRIES) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/080
-
 (iv) management of change — adoption and implementation of procedures for planning modifications to, or the design of, new waste facilities;
 
 (v) planning for emergencies — adoption and implementation of procedures to identify foreseeable emergencies by systematic analysis and to prepare, test and review emergency plans to respond to such emergencies;
 
-(vi) monitoring performance — adoption and implementation of procedures for the ongoing assessment of compliance with the objectives set by the operator’s major-accident prevention policy and safety management system, and the mechanisms for investigation and taking corrective action in case of non-compliance. The procedures should cover the operator’s system for reporting major accidents or near misses, particularly those involving failure of protective measures, and their investigation and follow- up on the basis of lessons learnt;
+(vi) monitoring performance — adoption and implementation of procedures for the ongoing assessment of compliance with the objectives set by the operator’s major-accident prevention policy and safety management system, and the mechanisms for investigation and taking corrective action in case of non-compliance. The procedures should cover the operator’s system for reporting major accidents or near misses, particularly those involving failure of protective measures, and their investigation and follow-up on the basis of lessons learnt;
 
 (vii) audit and review — adoption and implementation of procedures for periodic systematic assessment of the major-accident prevention policy and the effectiveness and suitability of the safety management system; the documented review of performance of the policy and safety management system and its updating by senior management.
 
@@ -42,11 +36,7 @@ Subsidiary 2009/080
 
 (d) An explanation in clear and simple terms of the activity or activities undertaken at the site.
 
-Environment WASTE (EXTRACTIVE INDUSTRIES) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/080 (e) The common names or the generic names or the general danger classification of the substances and preparations involved at the waste facility as well as waste which could give rise to a major accident, with an indication of their principal dangerous characteristics.
+(e) The common names or the generic names or the general danger classification of the substances and preparations involved at the waste facility as well as waste which could give rise to a major accident, with an indication of their principal dangerous characteristics.
 
 (f) General information relating to the nature of the major-accident hazards, including their potential effects on the surrounding population and environment.
 
@@ -59,9 +49,3 @@ Subsidiary 2009/080 (e) The common names or the generic names or the general dan
 (j) A reference to the external emergency plan drawn up to cope with any off-site effects from an accident. This should include advice to co-operate with any instructions or requests from the emergency services at the time of an accident.
 
 (k) Details of where further relevant information can be obtained, subject to the requirements of confidentiality laid down in law.
-
-Environment WASTE (EXTRACTIVE INDUSTRIES) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/080
