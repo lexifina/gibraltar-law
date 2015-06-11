@@ -8,7 +8,7 @@ Fork length (cm)
 
 Atlantic Bluefin tuna    Thunnus thynnus
 
-40kg and 115cm* Albacore
+30kg and 115cm* Albacore
 
 Thunnus alalunga 15kg Big-eye tuna Thunnus obesus
 
