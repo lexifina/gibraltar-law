@@ -8,7 +8,7 @@ Act No 2010-21 Commencement (LN.2010/180) 1.1.2011
 
 Assent 1.11.2010
 
-Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014
+Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014 2015-23 ss. 77-78 22.6.2015
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU
 
@@ -66,6 +66,10 @@ Part IX- Offences, surcharges, penalties and miscellaneous
 
 63. Books of account. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay PAYE and Social Insurance 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
 
+PART X -AMNESTY
+
+77. Fixed penalty charge during amnesty. 78. Expiry of amnesty.
+
 SCHEDULE 1
 
 HEADS OF CHARGE
@@ -78,15 +82,13 @@ Table B
 
 Employment and self employment.
 
-Table C
+Income Tax
+
+2010-21 Table C
 
 Other income
 
-Class 1 Dividends.
-
-Income Tax
-
-2010-21 Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 3A Royalties Class 4 Pension, charge or annuity income. Class 5 Sweeping up class.
+Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 3A Royalties Class 4 Pension, charge or annuity income. Class 5 Sweeping up class.
 
 SCHEDULE 2
 
@@ -110,13 +112,13 @@ Part IV-Appeal to Supreme Court
 
 Part V- Miscellaneous
 
-17. Irregularity. 18. Form of notices. 19. Service of notices etc. 20. Penalties.
-
-Part VI- Interpretation
+17. Irregularity.
 
 Income Tax
 
-2010-21
+2010-21 18. Form of notices. 19. Service of notices etc. 20. Penalties.
+
+Part VI- Interpretation
 
 21. Interpretation.
 
