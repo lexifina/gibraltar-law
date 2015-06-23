@@ -52,7 +52,7 @@ CONVEYANCE or TRANSFER on sale of any Property Subject to duty,–
 
 (b) the Real Property in Gibraltar conveyed or transferred consists entirely of residential property for use as a single dwelling,
 
-a sum equivalent to zero per cent of the first £250,000 of the amount or value of the consideration, a sum equivalent to 5.5% (five point five per cent) of the amount or value of the consideration that exceeds £250,000 but does not exceed £350,000, and a sum equivalent to 3.5% (three point five per cent) of the amount or value of the consideration that exceeds £350,000
+a sum equivalent to zero per cent of the first £260,000 of the amount or value of the consideration, a sum equivalent to 5.5% (five point five per cent) of the amount or value of the consideration that exceeds £260,000 but does not exceed £350,000, and a sum equivalent to 3.5% (three point five per cent) of the amount or value of the consideration that exceeds £350,000
 
 (2) Except in a case where subparagraph (1A) applies, where the value of the whole of the Property subject to duty exceeds £200,000 but does not exceed £350,000, a sum equivalent to 2.0% (two point zero per cent) on the first £250,000 of the amount or value of the consideration and a sum equivalent to 5.5% (five point five per cent) of the amount or value of the consideration that exceeds £250,000
 
