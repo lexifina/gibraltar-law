@@ -16,7 +16,9 @@ LN. 2010/050 rr. 22, 23, 24 & Sch. 6 25.3.2010 2010/137 rr. 2, 10(b) & Sch. 2 27
 
 27.10.2011 2014/014 rr. 2(1), 2A, 2A(1), (2), (3), (4), (5), 3, 3A, 4(1), 5(1), (1A), (2)(c)(a), (d), (e), (f), (3A), (3B), (3C), (5), (6), 9(1)(b), (2), (3), 10(a), (b), (c), (d), 11, 11A, 11B, 12(1), (2)(a), (b), (c), (d), 13, 13A, 15(1), (2), (3), (4), 16, Schs. 1, 1A, 2, 2A, 3, 4, 5 & 5A
 
-14.2.2014
+14.2.2014 2015/096 r. 14O(4), (5), (6), 14P(1), (7), (8), Sch. 8
+
+1.7.2015
 
 EU Legislation/International Agreements involved: Directive 67/548/EEC Directive 75/442/EEC Directive 76/768/EEC Directive 88/378/EEC Directive 91/157/EEC Directive 97/7/EC Directive 1999/13/EC Directive 1999/45/EC Directive 2000/53/EC Directive 2002/96/EC Directive 2003/108/EC Directive 2004/42/EC Directive 2006/66/EC Directive 2008/112/EC Directive 2008/99/EC Directive 2012/19/EU Directive 2013/59/EURATOM Regulation (EC) No 1272/2008 Regulation (EEC) No.259/93 Regulation (EC) No.1420/1999 Regulation (EC) No.761/2001 Decision 2005/369/EC Recommendation 2001/331/EC
 
@@ -81,6 +83,8 @@ Schedule 5A Minimum requirements for shipments
 Schedule 6 Form
 
 Schedule 7 Collection Rates
+
+Schedule 8 Procedural Requirements for Registration
 
 Environment ENVIRONMENT (WASTE) REGULATIONS 2007
 
