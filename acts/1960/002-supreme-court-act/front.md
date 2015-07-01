@@ -60,7 +60,9 @@ Supreme Court
 
 1960-02 2010-10 s.12A 6.5.2010 2010-16 s. 36B 8.7.2010 2010-201 ss. 19 to 22I, 23 to 27, 27A to 27V, 35A, Schs. 2, 3 & 4
 
-1.1.20112 LN.  2011/105 ss. 72A -72G 7.7.2011 Act.  2012-09 ss. 27E(2) & (3) & 27G(3) 27.9.2012 2012-17 s. 12A(1), (2), (2A), (3) & (4) 22.11.2012 LN.  2013/134 ss. 35A(1), 35H(1), 41 & Sch. 1 1.7.2013 2015/003 s. 72C(3) 10.1.2015
+1.1.20112 LN.  2011/105 ss. 72A -72G 7.7.2011 Act.  2012-09 ss. 27E(2) & (3) & 27G(3) 27.9.2012 2012-17 s. 12A(1), (2), (2A), (3) & (4) 22.11.2012 LN.  2013/134 ss. 35A(1), 35H(1), 41 & Sch. 1 1.7.2013 2015/003 s. 72C(3) 10.1.2015 Act.  2015-14 ss. 27W, 27X, 28(1)(c), (2A), 29(1)(a), (ba), (1A), 34(3)(b), 35
+
+1.7.20153
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
@@ -82,7 +84,7 @@ English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 
 
 (4)  The Minister may by order amend Schedule 4 to the Supreme Court Act.
 
-2 See LN. 2010/183
+2 See LN. 2010/183 3 See LN. 2015/102
 
 Supreme Court
 
@@ -258,7 +260,7 @@ Supreme Court
 
 PART IV. BARRISTERS AND SOLICITORS.
 
-28. Admission of barristers. 29. Admission of solicitors. 30. Enrolment of solicitors. 31. Barristers and solicitors may practice in all courts. 32. Barristers may act as solicitors. 33. Law relating to barristers and solicitors. 34. Disciplinary powers of Chief Justice. 35. Unqualified persons practising.
+27W.  Interpretation of Part IV 27X.  Practical training requirement 28. Admission of barristers. 29. Admission of solicitors. 30. Enrolment of solicitors. 31. Barristers and solicitors may practice in all courts. 32. Barristers may act as solicitors. 33. Law relating to barristers and solicitors. 34. Disciplinary powers of Chief Justice. 35. Unqualified persons practising.
 
 PART IVA EEA LAWYERS
 
@@ -268,11 +270,11 @@ PART V. MISCELLANEOUS.
 
 36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 36B.  Recovery of insurance premiums by way of costs. 37. Rules regulating funds in court. 38. Rules of court. 38A. Civil Procedure Rules. 38B. Masters.
 
-PART VI
-
 Supreme Court
 
-1960-02 EUROPEAN LAWYERS: INTRODUCTORY
+1960-02
+
+PART VI EUROPEAN LAWYERS: INTRODUCTORY
 
 39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information. 43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer. 45. Joint practice. 46. Name of joint practice. 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
 
@@ -286,11 +288,11 @@ PART IX REGULATION AND DISCIPLINE
 
 PART X ENTRY OF EUROPEAN LAWYERS INTO THE PROFESSION OF SOLICITOR OR BARRISTER
 
-64. Application by registered European lawyer. 65. Decision by the competent authority. 66. Evidence in support of application for exemption under section 64(2).
+64. Application by registered European lawyer. 65. Decision by the competent authority.
 
 Supreme Court
 
-1960-02 67. Evidence in support of application for exemption under section 64(3). 68. Meaning of “effectively and regularly pursued”. 69. Time limit for decision and notification by professional body. 70. Appeal by registered European lawyer. 71. Practice under the title of solicitor or barrister.
+1960-02 66. Evidence in support of application for exemption under section 64(2). 67. Evidence in support of application for exemption under section 64(3). 68. Meaning of “effectively and regularly pursued”. 69. Time limit for decision and notification by professional body. 70. Appeal by registered European lawyer. 71. Practice under the title of solicitor or barrister.
 
 PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
 
