@@ -10,11 +10,11 @@ MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 
 Commencement 12.4.2011
 
-Amending enactments Relevant current provisions Commencement date LN.   2013/102 Corrigendum 2013/120 r. 2(1) 20.8.2013 2014/214 rr. 2(1), (3), 3(4), (5), (6), 18(3), (4), (5), 18A, 19(6), 20(3A), (3B), (3C), (8), (8A), (8B), (8C), Schs. 1, 4, 5, 10 21.11.2014 2015/044 rr. 2(1), Sch. 4 19.3.2015
+Amending enactments Relevant current provisions Commencement date LN.   2013/102 Corrigendum 2013/120 r. 2(1) 20.8.2013 2014/214 rr. 2(1), (3), 3(4), (5), (6), 18(3), (4), (5), 18A, 19(6), 20(3A), (3B), (3C), (8), (8A), (8B), (8C), Schs. 1, 4, 5, 10 21.11.2014 2015/044 rr. 2(1), Sch. 4 19.3.2015 2015/089 Sch. 4 1.7.2015
 
 Transposing: Directive 96/40/EC Directive 2009/16/EC Directive 2013/38/EU
 
-Implementing: Regulation (EU) No. 428/2010 Regulation (EU) No. 1257/2013
+Implementing: Regulation (EU) No. 428/2010 Regulation (EU) No. 1257/2013 Regulation (EC) No 757/2015
 
 Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 

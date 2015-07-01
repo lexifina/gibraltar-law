@@ -134,6 +134,8 @@ Subsidiary 2011/055
 
 49. A certificate on the inventory of hazardous materials or a statement of compliance as applicable under Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation (EC) No 1013/2006 and Directive 2009/16/EC.
 
+50. Document of Compliance issued under Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC.
+
 Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
 
 1935-09
