@@ -1,54 +1,36 @@
-Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
+Subsidiary Legislation made under ss.6, 8, 9 and 43.
 
-1955-14
+Social Insurance (Contributions) Regulations
 
-Subsidiary 1955.08.04-5 Regulations made under ss.6, 8, 9 and 43.
+1955.08.04-5
 
-SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
-
-(1955.08.04-5)
-
-3.10.1955
+Commencement 3.10.1955
 
 Amending enactments Relevant current provisions Commencement date
 
-reg. of 19.5.1966 – LN. 1973/062 – 1974/111 rr. 4(6), 11(1A), (3), 13, 14(2), 15-16, Sch.
+reg. of 19.5.1966 –
 
-1975/142 –
+LN. 1973/062 – 1974/111 rr. 4(6), 11(1A), (3), 13, 14(2), 15-16, Sch.
 
-1976/107 –
+1975/142 – 1976/107 –
 
-1977/143
+1977/143 1978/110 r. 4(7)
 
-1978/110 r. 4(7)
+1979/100 – 1980/115 –
 
-1979/100 –
-
-1980/115 –
-
-1980/137 r. 11(5)-(9)
-
-1981/114 –
+1980/137 r. 11(5)-(9) 1981/114 –
 
 1982/085 –
 
-1983/103 r. 20 1984/093 r. 20 1.1.1985 1985/139 rr. 14, 20 1.1.1986 1986/123 rr. 11(6)(a), Sch. 1.9.1986 “ r. 20 1.1.1987 1987/167 r. 20 1.1.1988 1988/105 r. 11A 1.1.1988 1988/149 r. 20 2.1.1989 1990/185 r. 20(a) 7.1.1991 1999/160 r. 15 5.7.1999 2001/034 rr. 2, 4(1)-(3), (5), (5A), (6), 4A- 4C, 5(1), 7(2), 21-22
+1983/103 r. 20 1984/093 r. 20 1.1.1985 1985/139 rr. 14, 20 1.1.1986 1986/123 rr. 11(6)(a), Sch. 1.9.1986 “ r. 20 1.1.1987 1987/167 r. 20 1.1.1988 1988/105 r. 11A 1.1.1988 1988/149 r. 20 2.1.1989 1990/185 r. 20(a) 7.1.1991 1999/160 r. 15 5.7.1999 2001/034 rr. 2, 4(1)-(3), (5), (5A), (6), 4A-4C, 5(1), 7(2), 21- 22
 
-19.4.2001 2003/106 r. 11A(2), (4) 1.1.2003 2005/021 r. 15 1.7.2004 2004/133 r. 20 3.1.2005 2007/067 r. 11A(1) 1.7.2006 Act. 2007-17 r. 4(4)(a) 14.6.2007
+19.4.2001 2003/106 r. 11A(2), (4) 1.1.2003 2005/021 r. 15 1.7.2004 2004/133 r. 20 3.1.2005 2007/067 r. 11A(1) 1.7.2006 Act. 2007-17 r. 4(4)(a) 14.6.2007 2011-29 r. 13 1.7.2009
 
-Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-5 2011-29 r. 13 1.7.2009 2013-27 r. 7(7) 28.11.2013 LN. 2014/132 r. 14A 1.12.20141
+2013-27 r. 7(7) 28.11.2013 LN. 2014/132 r. 14A 1.12.20141 2017/156 rr. 14B, 17A 1.7.2015
 
 1 Notice of Commencement (LN. 2014/237)
 
-Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-5 AMENDMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -64,22 +46,12 @@ PART II.–CONTRIBUTIONS.
 
 PART III.–CREDITS.
 
-10. Unemployment. 11. Credits for incapacity. 11A. Credits for persons aged 60 or over or having attained statutory retirement age. 12. Unemployment and incapacity in same week. 13. Survivors. 14. Full-time education, unpaid apprenticeship and training. 14A. Vocational trainees. 15. Maternity. 16. Pre-entry credits. 17. Contributions and credits to be taken into account.
+10. Unemployment. 11. Credits for incapacity. 11A. Credits for persons aged 60 or over or having attained statutory retirement age. 12. Unemployment and incapacity in same week. 13. Survivors. 14. Full-time education, unpaid apprenticeship and training. 14A. Vocational trainees. 14B. Exemption for students. 15. Maternity. 16. Pre-entry credits. 17. Contributions and credits to be taken into account. 17A. Credit for Employers.
 
 PART IV.–ARREARS.
 
-18. Right to pay arrears. 19. Arrears notices. 20. Rate of arrears. 21. Method of payment of arrears. 22. revoked. 23. Arrears not to be taken into account for certain purposes.
+18. Right to pay arrears. 19. Arrears notices. 20. Rate of arrears.
 
-Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-5
+21. Method of payment of arrears. 22. Revoked. 23. Arrears not to be taken into account for certain purposes.
 
 SCHEDULE.
-
-Conditions attaching to the credit of contributions in respect of unemployment or incapacity.
-
-Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
-
-1955-14

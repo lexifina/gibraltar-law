@@ -26,10 +26,6 @@ CONDITION V.
 
 That not less than twenty-six contributions whether as an employed person, a self-employed person or a voluntary contributor, have been paid by or credited to the insured person in respect of the contribution year immediately preceding the benefit year which includes the relevant week.
 
-Social Security (Insurance) SOCIAL INSURANCE (CONTRIBUTIONS) REGULATIONS
+CONDITION VI.
 
-1955-14
-
-Subsidiary 1955.08.04-5 CONDITION VI.
-
-That not less than ten contributions, whether as an employed person, self- employed person or voluntary contributor have been paid by or credited to the insured person in respect of the thirteen weeks immediately preceding the relevant week.
+That not less than ten contributions, whether as an employed person, self-employed person or voluntary contributor have been paid by or credited to the insured person in respect of the thirteen weeks immediately preceding the relevant week.
