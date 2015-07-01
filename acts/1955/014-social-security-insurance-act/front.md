@@ -126,13 +126,11 @@ Social Security (Insurance)
 
 28.3.2014 2015-111 ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3
 
-30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014
+30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
-Transposing: Directive 86/613/EEC Directive 2010/41/EU
-
-EU Legislation/International Agreements involved:
+Transposing: Directive 86/613/EEC Directive 2010/41/EU EU Legislation/International Agreements involved:
 
 1 Transitional provisions: If between 30 June 2014 and the date of publication of this Act–
 
@@ -164,7 +162,7 @@ Section
 
 PART I.–INSURED PERSONS AND CONTRIBUTIONS.
 
-3. Description of insured persons. 3A. Omitted. 3B. Omitted. 3C. Omitted. 4. Source of funds. 5. Number and class of contribution for any week. 6. Crediting of contributions. 7. Contributions of employed persons and employers. 8. Method of payment of contributions. 9. Persons to be treated as employers.
+3. Description of insured persons. 3A. Omitted. 3B. Omitted. 3C. Omitted. 4. Source of funds. 5. Number and class of contribution for any week. 6. Crediting of contributions. 6A. Credit for employers. 7. Contributions of employed persons and employers. 8. Method of payment of contributions. 9. Persons to be treated as employers.
 
 PART II.–BENEFIT.
 
@@ -184,11 +182,9 @@ Guardian’s Allowance.
 
 15. revoked.
 
-Old Age Pensions.
-
 Social Security (Insurance)
 
-1955-14
+1955-14 Old Age Pensions.
 
 16. revoked. 16A.  revoked. 17. revoked.
 
@@ -216,11 +212,11 @@ Finance.
 
 Administration.
 
-31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board. 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit. 38. Interim payments, arrears and repayments.
+31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board. 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit.
 
 Social Security (Insurance)
 
-1955-14 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
+1955-14 38. Interim payments, arrears and repayments. 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
 
 Legal Proceedings.
 
@@ -406,7 +402,7 @@ Social Security (Insurance)
 
 Number and class of contribution for any week.
 
-5.(1)  A person shall not be liable to pay more than one contribution as an insured person for any contribution week, and not more than one employer’s contribution shall be payable in respect of any person for any contribution week.
+5.(1)  A person shall not be liable to pay more than the maximum contribution for an insured person in any contribution week and not more than the maximum contribution for an employer shall be payable in respect of any person for any contribution week.
 
 (2)  Where, as respects any employed contributor’s employment–
 
@@ -424,6 +420,12 @@ Social Security (Insurance)
 
 (3)  Regulations may provide for disregarding for the purposes of this section any employment in which a person engages or continues to be engaged solely or mainly for the purpose of acquiring or preserving a right or a larger right to benefit.
 
+(4) In subsection (1), “maximum contribution”–
+
+(a) in respect of an insured person, means the maximum contribution as set out in Schedule 1 for an employee or self- employed; and
+
+(b) in respect of an employer’s contribution, means the maximum contribution as set out in Schedule 1 for an employer.
+
 Crediting of contributions.
 
 6. Regulations may provide for crediting contributions to insured persons for–
@@ -436,15 +438,21 @@ Crediting of contributions.
 
 (d)  such other periods as may be prescribed.
 
+Credit for employers.
+
+6A. Regulations may provide for the granting of a credit of a prescribed amount to employers who employ a prescribed number of employees subject to such terms and conditions as may be prescribed.
+
 Contributions of employed persons and employers.
 
-7.(1)  Except where regulations otherwise prescribe, an employer liable to pay a contribution in respect of a person employed by him shall, in the first instance, be liable to pay also, on behalf of and to the exclusion of that person any contribution as an insured person payable by that person for the same contribution week, and for the purposes of this Act contributions paid by an employer on behalf of an insured person shall be deemed to be contributions by the insured person.
-
-(2)  Notwithstanding any contract to the contrary, an employer shall not be entitled to deduct from the wages or other remuneration of a person employed by him, or otherwise to recover from such a person, the employer’s contribution in respect of that person; and an employer who deducts or attempts to deduct the whole or any part of the employer’s contribution in respect of any person from his wages or other remuneration is guilty of an offence and is liable on summary conviction to a fine equivalent to one quarter of level 1 on the standard scale.
+7.(1)  Except where regulations otherwise prescribe, an employer liable to pay a contribution in respect of a person employed by him shall, in the first
 
 Social Security (Insurance)
 
-1955-14 (3)  An employer shall be entitled, subject to and in accordance with regulations, to recover from an insured person the amount of any contribution paid or to be paid by him on behalf of that person, and, notwithstanding anything in any enactment, regulations under this subsection may authorize recovery by deductions from the insured person’s wages or remuneration:
+1955-14 instance, be liable to pay also, on behalf of and to the exclusion of that person any contribution as an insured person payable by that person for the same contribution week, and for the purposes of this Act contributions paid by an employer on behalf of an insured person shall be deemed to be contributions by the insured person.
+
+(2)  Notwithstanding any contract to the contrary, an employer shall not be entitled to deduct from the wages or other remuneration of a person employed by him, or otherwise to recover from such a person, the employer’s contribution in respect of that person; and an employer who deducts or attempts to deduct the whole or any part of the employer’s contribution in respect of any person from his wages or other remuneration is guilty of an offence and is liable on summary conviction to a fine equivalent to one quarter of level 1 on the standard scale.
+
+(3)  An employer shall be entitled, subject to and in accordance with regulations, to recover from an insured person the amount of any contribution paid or to be paid by him on behalf of that person, and, notwithstanding anything in any enactment, regulations under this subsection may authorize recovery by deductions from the insured person’s wages or remuneration:
 
 Provided that any such regulations shall provide that–
 
@@ -456,7 +464,11 @@ Provided that any such regulations shall provide that–
 
 Method of payment of contribution.
 
-8. Subject to the provisions of this Act, regulations may provide for any matters incidental to the payment and collection of contributions under this Act, and in particular but without prejudice to the generality of the foregoing–
+8. Subject to the provisions of this Act, regulations may provide for any matters incidental to the payment and collection of contributions under this
+
+Social Security (Insurance)
+
+1955-14 Act, and in particular but without prejudice to the generality of the foregoing–
 
 (a) for assessing the amount of contributions liable to be paid by any person,
 
@@ -464,11 +476,7 @@ Method of payment of contribution.
 
 (c) for the issue, replacement, custody, production and delivery up of prescribed certificates,
 
-(d)  for treating, for the purpose of any right to benefit, contributions paid after the due dates as paid on those dates or
-
-Social Security (Insurance)
-
-1955-14 on such later dates as may be prescribed, or as not having been paid and for treating, for the purpose aforesaid, contributions payable by an employer on behalf of an insured person, but not paid, as paid where the failure to pay is shown not to have been with the consent or connivance of, or attributable to any negligence on the part of, the insured person;
+(d)  for treating, for the purpose of any right to benefit, contributions paid after the due dates as paid on those dates or on such later dates as may be prescribed, or as not having been paid and for treating, for the purpose aforesaid, contributions payable by an employer on behalf of an insured person, but not paid, as paid where the failure to pay is shown not to have been with the consent or connivance of, or attributable to any negligence on the part of, the insured person;
 
 (e)  for treating contributions of the wrong class or at the wrong rate as paid on account of the contributions properly payable or on account of contributions under the Social Security (Employment Injuries Insurance) Act or under the Social Security (Open Long-Term Benefits Scheme) Act 1997, and for treating contributions under those Acts which were not payable as paid on account of contributions under this Act, notwithstanding anything in that Act;
 
@@ -476,7 +484,11 @@ Social Security (Insurance)
 
 (g)  (without prejudice to any other remedy) for the recovery, on prosecutions brought under or by virtue of this Act, of contributions under this Act, under the Social Security (Employment Injuries Insurance) Act or under the Social Security (Open Long-Term Benefits Scheme) Act 1997; and
 
-any such regulations relating to the time of payment of contributions may require or authorise an employer, where an insured person’s remuneration is paid in advance and in such other cases as may be prescribed, to pay contributions in advance and in connection therewith may make provision for the event of contributions so paid proving not to be payable.
+any such regulations relating to the time of payment of contributions may require or authorise an employer, where an insured person’s remuneration is paid in advance and in such
+
+Social Security (Insurance)
+
+1955-14 other cases as may be prescribed, to pay contributions in advance and in connection therewith may make provision for the event of contributions so paid proving not to be payable.
 
 Persons to be treated as employers.
 
@@ -486,11 +498,7 @@ Persons to be treated as employers.
 
 (b)  work under the general control or management of some person other than their immediate employer,
 
-and in relation to any other cases for which it appears to the Minister that special provision is needed, regulations may provide that for the purposes of
-
-Social Security (Insurance)
-
-1955-14 this Act the prescribed person shall be treated as their employer; and regulations made by virtue of paragraph (b) may provide for adjusting the rights between themselves of the person prescribed as the employer, the immediate employer and the persons employed.
+and in relation to any other cases for which it appears to the Minister that special provision is needed, regulations may provide that for the purposes of this Act the prescribed person shall be treated as their employer; and regulations made by virtue of paragraph (b) may provide for adjusting the rights between themselves of the person prescribed as the employer, the immediate employer and the persons employed.
 
 (2)  References in this Act to a person’s employer shall not be construed as including his employer in any employment other than one which is an employed contributor’s employment (or, in the case of a person who is not, but would if he were under pensionable age be, an insured person, an employment which would be an employed contributor’s employment in his case if he were under that age).
 
@@ -512,7 +520,9 @@ Preliminary.
 
 (e)  death grant;
 
-(f) omitted.
+Social Security (Insurance)
+
+1955-14 (f) omitted.
 
 (2)  Subject to the provisions of this Act-
 
@@ -522,9 +532,7 @@ Preliminary.
 
 (c)  the additional contribution conditions for the descriptions of benefit set out in Part IV of Schedule 2 shall be as set out in Part II of Schedule 3.
 
-Social Security (Insurance)
-
-1955-14 (3)  Subject to the provisions of this Act, any reference therein to the yearly average of the contributions paid by or credited to any person shall be construed as referring to contributions as an insured person only, and to that average (calculated in the prescribed manner) over the period--
+(3)  Subject to the provisions of this Act, any reference therein to the yearly average of the contributions paid by or credited to any person shall be construed as referring to contributions as an insured person only, and to that average (calculated in the prescribed manner) over the period--
 
 (a)  beginning with the contribution year in which he attained the age of twenty; and
 
@@ -542,17 +550,15 @@ has, or the person on whose insurance record title to such benefit is establishe
 
 he shall be entitled to receive benefit at the rates as set out in the corresponding column of Part VI of Schedule 2 in lieu of the rates as set out in Parts II and IV.
 
-(1A) The amount of a maternity grant as set out in the second column of Part VI of Schedule 2, and the second column of Part V of Schedule 2 of the Social Insurance (Benefits) Regulations shall be reduced by £35 for every £1,000 of joint income above £30,000.
+Social Security (Insurance)
+
+1955-14 (1A) The amount of a maternity grant as set out in the second column of Part VI of Schedule 2, and the second column of Part V of Schedule 2 of the Social Insurance (Benefits) Regulations shall be reduced by £35 for every £1,000 of joint income above £30,000.
 
 (1B) For the purposes of subsection (1A), joint income means the joint assessable income of the parents of the child in respect of which a maternity grant is claimed, in the year of assessment under the Income Tax Act immediately prior to the date of expected confinement or confinement.
 
 (2)  Any person who has on the date of entitlement to a benefit established a right to an increased rate of benefit under subsection (1) shall not lose such right by reason of ceasing to reside in Gibraltar at any time thereafter.
 
 Maternity benefits.
-
-Social Security (Insurance)
-
-1955-14
 
 Maternity benefits.
 
@@ -572,6 +578,10 @@ Provided that she shall not be entitled to a maternity grant twice by virtue of 
 
 (5)  For the purposes of this section the expression “husband” includes a widow’s late husband, where the benefit is claimed in respect of a posthumous son or daughter of his.
 
+Social Security (Insurance)
+
+1955-14
+
 Maternity allowance.
 
 11A.(1) Subject to section 4 of the Social Security (Insurance) Act (Amendment) Act 1999, a woman shall be entitled to maternity allowance if–
@@ -580,9 +590,7 @@ Maternity allowance.
 
 (b)  she has exercised her right to maternity leave in accordance with the Employment (Maternity and Health and Safety) Regulations 1996,
 
-Social Security (Insurance)
-
-1955-14 (c)  she claims maternity allowance within 6 months of exercising that right; and
+(c)  she claims maternity allowance within 6 months of exercising that right; and
 
 (d)  she has, where relevant complied with the duty to inform the Director under regulations 4, 6, 7, 8 and 14 of the Employment (Maternity and Health and Safety) Regulations 1996.*
 
@@ -594,7 +602,11 @@ Social Security (Insurance)
 
 (5)  In this section –
 
-“injury benefit” means injury benefit payable to persons who have attained the age of 18 years under Part I of Schedule 2 to the Social Security (Employment Injuries Insurance) Act: and
+* Saving provision inserted at the end of this Act  This amendment shall not apply to persons who were entitled to maternity allowance in respect of a confinement if the date of confinement was prior to the 1st day of July 2004.
+
+Social Security (Insurance)
+
+1955-14 “injury benefit” means injury benefit payable to persons who have attained the age of 18 years under Part I of Schedule 2 to the Social Security (Employment Injuries Insurance) Act: and
 
 “maternity leave period” shall be construed in accordance with the Employment (Maternity and Health and Safety) Regulations 1996.
 
@@ -604,13 +616,7 @@ Maternity allowance for self-employed women.
 
 (a) has paid contributions as a self-employed person under this Act for at least 26 weeks in the 52-week period ending in the 15th week before the expected week of confinement;
 
-(b) has paid additional voluntary contributions as set out in Schedule 1 for this purpose for at least 26 weeks in the 52-
-
-* Saving provision inserted at the end of this Act  This amendment shall not apply to persons who were entitled to maternity allowance in respect of a confinement if the date of confinement was prior to the 1st day of July 2004.
-
-Social Security (Insurance)
-
-1955-14 week period ending in the 15th week before the expected week of confinement;
+(b) has paid additional voluntary contributions as set out in Schedule 1 for this purpose for at least 26 weeks in the 52- week period ending in the 15th week before the expected week of confinement;
 
 (c) claims maternity allowance within 6 months of the delivery of the child; and
 
@@ -626,7 +632,9 @@ Social Security (Insurance)
 
 (4) In this section, “injury benefit” means injury benefit payable to persons who have attained the age of 18 years under Part I of Schedule 2 to the Social Security (Employment Injuries Insurance) Act.
 
-(5) For the avoidance of doubt, a self-employed person is not entitled to receive the maternity allowance under this section if that person undertakes any form of paid work in any period during which the maternity allowance is paid.
+Social Security (Insurance)
+
+1955-14 (5) For the avoidance of doubt, a self-employed person is not entitled to receive the maternity allowance under this section if that person undertakes any form of paid work in any period during which the maternity allowance is paid.
 
 Supplemental provisions as to maternity grants.
 
@@ -634,11 +642,7 @@ Supplemental provisions as to maternity grants.
 
 (a)  the expression “confinement” means labour resulting in the issue of a living child, or labour after twenty-four weeks of pregnancy resulting in the issue of a child whether alive or dead, and the expression “confined” shall be construed accordingly ;
 
- See Transitional provisions in the amendments list page (Act 2012-11)
-
-Social Security (Insurance)
-
-1955-14 (b)  references to the date of the confinement shall be taken as referring, where labour begun on one day results in the issue of a child on another day, to the date of the issue of the child or, if the woman is confined of twins or a greater number of children, to the date of issue of the last of them.
+(b)  references to the date of the confinement shall be taken as referring, where labour begun on one day results in the issue of a child on another day, to the date of the issue of the child or, if the woman is confined of twins or a greater number of children, to the date of issue of the last of them.
 
 13. Revoked. 14. Revoked. 14A. Revoked. 15.  Revoked. 16. Revoked. 16A.   Revoked. 17.   Revoked.
 
@@ -650,7 +654,13 @@ Death grant.
 
 (a)  he has reasonably incurred or reasonably intends to incur, in connection with the deceased’s death, expenses to which this section applies; and
 
-(b)  the deceased either himself satisfied the relevant contribution conditions, or was at death the husband, wife, civil partner, widower, widow, surviving civil partner or a child of the family, of a person satisfying those conditions, or a child who–
+(b)  the deceased either himself satisfied the relevant contribution conditions, or was at death the husband, wife, civil partner,
+
+ See Transitional provisions in the amendments list page (Act 2012-11)
+
+Social Security (Insurance)
+
+1955-14 widower, widow, surviving civil partner or a child of the family, of a person satisfying those conditions, or a child who–
 
 (i) had, immediately before the death of some person satisfying those conditions, been a child of the family of that other person; or
 
@@ -659,10 +669,6 @@ Death grant.
 (2)  The expenses to which this section applies are any expenses, of an appreciable amount, in connection with the funeral of the deceased, or with the claimant’s attendance thereat, or with the attendance thereat of other persons, or with the purchase of mourning; and for the purposes of this subsection–
 
 (a)  the expression “funeral” includes any memorial service or similar observance; and
-
-Social Security (Insurance)
-
-1955-14
 
 (b)  references to expenses in connection with attendance at a funeral include references to any loss of remunerative time due to the attendance.
 
@@ -676,7 +682,9 @@ Social Security (Insurance)
 
 (b)  no such death grant has been paid,
 
-and where any sum is paid under this subsection in respect of any person’s burial or cremation any death grant subsequently paid in respect of his death shall be reduced by the amount of that sum.
+Social Security (Insurance)
+
+1955-14 and where any sum is paid under this subsection in respect of any person’s burial or cremation any death grant subsequently paid in respect of his death shall be reduced by the amount of that sum.
 
 (6)  Not more than one person shall be entitled to a death grant in respect of the same death; and regulations may make provision–
 
@@ -687,10 +695,6 @@ and where any sum is paid under this subsection in respect of any person’s bur
 Additional rights to benefit.
 
 Increase of benefit for children.
-
-Social Security (Insurance)
-
-1955-14
 
 19. Revoked.
 
@@ -708,7 +712,9 @@ Miscellaneous provisions as to benefit.
 
 Claims and notices.
 
-22.(1)  Subject to the provisions of subsections (3) and (4), it shall be a condition of any person’s right to any benefit that he makes a claim therefor in the prescribed manner.
+Social Security (Insurance)
+
+1955-14 22.(1)  Subject to the provisions of subsections (3) and (4), it shall be a condition of any person’s right to any benefit that he makes a claim therefor in the prescribed manner.
 
 (2)  Regulations may provide for disqualifying a person (subject to the provisions of subsection (3)) for the receipt of any benefit if he fails to make his claim therefor within the prescribed time:
 
@@ -720,9 +726,7 @@ Provided that any such regulations shall provide for extending, subject to any p
 
 (a)  for the purposes of this section as a claim, in the alternative, for such other benefit thereunder as may be prescribed; or
 
-Social Security (Insurance)
-
-1955-14 (b)  for the purposes of the Social Security (Employment Injuries Insurance) Act, as a claim, in the alternative, for such benefit under that Act as may be prescribed,
+(b)  for the purposes of the Social Security (Employment Injuries Insurance) Act, as a claim, in the alternative, for such benefit under that Act as may be prescribed,
 
 and any claim for benefit under the Social Security (Employment Injuries Insurance) Act, may be treated for the purposes of this section as a claim, in the alternative, for such benefit under this Act as may be prescribed.
 
@@ -740,7 +744,9 @@ Overlapping benefits, etc.
 
 24. Revoked.
 
-Disqualifications, etc., to be disregarded for certain purposes.
+Social Security (Insurance)
+
+1955-14 Disqualifications, etc., to be disregarded for certain purposes.
 
 25. Regulations may provide that a person who would be entitled to any benefit but for the operation of either section 23 or of any other provision of this Act disqualifying him for the receipt of that benefit shall be treated as if entitled thereto for the purpose of any rights or obligations under this Part (whether of himself or any other person) which depend on his being so entitled, other than the right to payment of that benefit.
 
@@ -751,10 +757,6 @@ Benefit to be inalienable.
 Supplementary.
 
 Proceedings by employees for benefit lost by employer’s default.
-
-Social Security (Insurance)
-
-1955-14
 
 27.(1)  Where an employer has failed or neglected–
 
@@ -768,7 +770,11 @@ and by reason thereof that person has lost, in whole or in part, any maternity g
 
 (3)  Proceedings may be taken under this section notwithstanding that proceedings have been taken under any other provision of this Act in respect of the same failure or neglect.
 
-(4)  Proceedings under this section may, notwithstanding any enactment to the contrary, be brought at any time within one year after the date on which the employed person or his wife or civil partner or widow or surviving civil partner or the child’s mother, but for the failure or neglect of the employer, would have been entitled to receive the benefit lost.
+(4)  Proceedings under this section may, notwithstanding any enactment to the contrary, be brought at any time within one year after the date on which the employed person or his wife or civil partner or widow or
+
+Social Security (Insurance)
+
+1955-14 surviving civil partner or the child’s mother, but for the failure or neglect of the employer, would have been entitled to receive the benefit lost.
 
 Provisions as to maintenance and incapacity for self-support.
 
@@ -777,10 +783,6 @@ Provisions as to maintenance and incapacity for self-support.
 (2)  Regulations under subsection (1) may provide, for the purpose of the provisions relating to an increase of benefit in respect of a husband, wife, civil partner or other adult dependant, that where-
 
 (a)  a person is partly maintained by each of two or more beneficiaries, each of whom would be entitled to such an increase in respect of that person if he were wholly or mainly maintaining that person; and
-
-Social Security (Insurance)
-
-1955-14
 
 (b)  the contributions made by those two or more beneficiaries towards the maintenance of the person amount in the aggregate to sums which would, if they had been contributed by one of those beneficiaries, be sufficient to satisfy the requirements of regulations made by virtue of subsection (1),
 
@@ -796,6 +798,12 @@ Social insurance Fund.
 
 29.(1) For the purpose of this Act there is established the short-term benefits fund* out of which there shall be paid all claims for–
 
+* Referred to as the “Social Insurance (Short-Term Benefits) Fund” in the Public Finance (Control and Audit) Act.
+
+Social Security (Insurance)
+
+1955-14
+
 (a) the maternity and death grants under this Act; and
 
 (b)  unemployment and other benefits payable under the Social Security (Non-Contributory Benefits and Unemployment Insurance) Act,
@@ -806,11 +814,7 @@ together with the costs of the administration of the Fund.
 
 (3)  Accounts of the Fund shall be prepared in such form, in such manner and at such times as the Financial Secretary may direct, and the Principal Auditor shall examine and certify every such account.
 
-* Referred to as the “Social Insurance (Short-Term Benefits) Fund” in the Public Finance (Control and Audit) Act.
-
-Social Security (Insurance)
-
-1955-14 (4)  Any moneys forming part of the Fund may from time to time be invested, in accordance with such directions as may be given by the Financial Secretary and any interest received from such investments shall be credited to the Fund.
+(4)  Any moneys forming part of the Fund may from time to time be invested, in accordance with such directions as may be given by the Financial Secretary and any interest received from such investments shall be credited to the Fund.
 
 (5)  Revoked.
 
@@ -826,7 +830,11 @@ Administration.
 
 Social Insurance Advisory committee.
 
-31.(1)  There shall be constituted a committee, to be called “the Social Insurance Advisory Committee,” to give advice and assistance to the Director in connection with the discharge of his functions under this Act and to perform any other duties allotted to them under this Act.
+31.(1)  There shall be constituted a committee, to be called “the Social Insurance Advisory Committee,” to give advice and assistance to the
+
+Social Security (Insurance)
+
+1955-14 Director in connection with the discharge of his functions under this Act and to perform any other duties allotted to them under this Act.
 
 (2)  The provisions of Schedule 4 shall have effect with respect to the constitution of the Committee and other matters relating to the Committee.
 
@@ -837,10 +845,6 @@ Social Insurance Advisory committee.
 Determination of claims and questions by Director.
 
 32.(1)  All questions and claims arising under this Act shall be determined by the Director:
-
-Social Security (Insurance)
-
-1955-14
 
 Provided that any question of law arising in connection with such determination may, if the Director thinks fit, at the instance of the Attorney- General, be referred for decision to the Supreme Court.
 
@@ -858,7 +862,9 @@ Constitution of Appeal Board.
 
 (b)  a person deemed to be representative of the interests of insured persons; and
 
-(c)  a person deemed to be representative of the interests of employers of insured persons.
+Social Security (Insurance)
+
+1955-14 (c)  a person deemed to be representative of the interests of employers of insured persons.
 
 (3)  The Minister may also appoint supplementary members of the Board having the respective qualifications prescribed in subsection (2) to surrogate the chairman or other member of the Board as occasion may require.
 
@@ -872,9 +878,7 @@ Appeals to the Board.
 
 34.(1)  Any person aggrieved by the decision of the Director on any question or claim may appeal to the Board.
 
-Social Security (Insurance)
-
-1955-14 (2)  Where any person desires to appeal to the Board he shall give notice of appeal, setting out his grounds of appeal, to the secretary to the Board within eight days of the date of the communication to him of the decision.
+(2)  Where any person desires to appeal to the Board he shall give notice of appeal, setting out his grounds of appeal, to the secretary to the Board within eight days of the date of the communication to him of the decision.
 
 (3)  The Board or Director may, if they think that the interests of justice so require, extend the time for appealing notwithstanding that the time for appealing has elapsed.
 
@@ -886,7 +890,9 @@ Social Security (Insurance)
 
 (7)  The Board shall have power to take expert advice when necessary at its discretion, and to summon any person to appear before it to give evidence on oath or to produce documents and for these purposes the Board shall have all the powers of the magistrates’ court. Every summons shall be signed by the chairman and may be served either personally or by registered post, and in the latter case, in proving service, it shall be sufficient to prove that the summons was properly addressed and posted.
 
-Appeal to Supreme Court.
+Social Security (Insurance)
+
+1955-14 Appeal to Supreme Court.
 
 35.(1)  Any person aggrieved by the decision of the Board on any question of law or on any question of mixed fact and law may appeal to the Supreme Court.
 
@@ -900,10 +906,6 @@ Review.
 
 (a)  it can be proved that the decision was given in ignorance of, or was based on a mistake as to some material fact; or
 
-Social Security (Insurance)
-
-1955-14
-
 (b)  there has been any relevant change of circumstances:
 
 Provided that a decision shall not be reviewed while an appeal is pending against the decision of the Director, or the Board, or before the time for lodging such appeal has expired, and the proviso to section 32(1) shall apply, mutatis mutandis, to such review by the Director.
@@ -916,17 +918,17 @@ Administration of benefit.
 
 (a)  notwithstanding anything in this Act, for adjusting the commencement and termination of benefit, or of changes in the rate of benefit, so that payments shall not be made in respect of periods less than a week or at different rates for different parts of a week;
 
-(b)  for extinguishing the right to any sum payable by way of benefit where payment thereof is not obtained within thirteen weeks or such shorter period as may be prescribed from the time at which that sum is receivable in accordance with regulations.
+(b)  for extinguishing the right to any sum payable by way of benefit where payment thereof is not obtained within thirteen
+
+Social Security (Insurance)
+
+1955-14 weeks or such shorter period as may be prescribed from the time at which that sum is receivable in accordance with regulations.
 
 (3)  Regulations may also provide–
 
 (a)  for enabling a person to be appointed to exercise, on behalf of a claimant or beneficiary who is a child or who may be or become unable for the time being to act, any right or power which the claimant or beneficiary may be entitled to exercise under this Act, and for authorizing a person so appointed to receive and deal with any sum payable by way of benefit on behalf of the claimant or beneficiary;
 
-(b)  in connection with the death of any person, for enabling a claim for benefit to be made or proceeded with in his name, for authorizing payment or distribution of benefit to or amongst persons claiming as his personal representatives, legatees, next of kin or creditors (or, in cases of illegitimacy of deceased
-
-Social Security (Insurance)
-
-1955-14 persons, to or amongst others) and for dispensing with strict proof of the title of persons so claiming.
+(b)  in connection with the death of any person, for enabling a claim for benefit to be made or proceeded with in his name, for authorizing payment or distribution of benefit to or amongst persons claiming as his personal representatives, legatees, next of kin or creditors (or, in cases of illegitimacy of deceased persons, to or amongst others) and for dispensing with strict proof of the title of persons so claiming.
 
 (4)  For the purposes of paragraph (b) of subsection (3), the expression “next of kin” shall be construed as referring to persons who would take beneficially on an intestacy under the provisions of Part IV of the Administration of Estates Act.
 
@@ -940,17 +942,17 @@ Interim payments, arrears and repayments.
 
 (2)  Without prejudice to the generality of subsection (1), regulations there under may include provisions–
 
-(a)  for the suspension of benefit where it appears to the Director that there is or may be a question whether the conditions for receipt thereof in accordance with an award are or were fulfilled or whether the award ought to be revised;
+(a)  for the suspension of benefit where it appears to the Director that there is or may be a question whether the conditions for
+
+Social Security (Insurance)
+
+1955-14 receipt thereof in accordance with an award are or were fulfilled or whether the award ought to be revised;
 
 (b)  as to the date from which any decision on a review is to have effect or to be deemed to have had effect;
 
 (c)  for treating any benefit paid to any person under an award or by virtue of any provision of the regulations, which it is subsequently decided was not payable, as properly paid or as paid on account of any other benefit which it is decided was payable to him, or for the repayment of any such benefit and the recovery thereof by deduction from other benefit or otherwise;
 
-(d)  for treating benefit paid to one person in respect of another as being a child of the family, or the wife or husband, or civil partner or an adult dependant, of the first-mentioned person as having been properly paid for any period, notwithstanding that under regulations relating to overlapping benefits it is not
-
-Social Security (Insurance)
-
-1955-14 payable for that period by reason of a subsequent decision either–
+(d)  for treating benefit paid to one person in respect of another as being a child of the family, or the wife or husband, or civil partner or an adult dependant, of the first-mentioned person as having been properly paid for any period, notwithstanding that under regulations relating to overlapping benefits it is not payable for that period by reason of a subsequent decision either–
 
 (i) that the other person is himself entitled to benefit for that period; or
 
@@ -962,7 +964,9 @@ Recovery of sums by deduction from benefit.
 
 (2)  Where, in the case of any person, any sum may by virtue of any provision of the Social Security (Employment Injuries Insurance) Act, be recovered by deduction from any payment under that Act, it may instead be recovered from him in whole or in part by deduction from benefit under this Act, and any amount so recovered shall be paid into the Employment Injuries Insurance Fund.
 
-Inspectors.
+Social Security (Insurance)
+
+1955-14 Inspectors.
 
 40.(1)  For the purposes of this Act, the Minister may appoint such inspectors as he may determine.
 
@@ -972,11 +976,7 @@ Inspectors.
 
 (b)  to make such examination and inquiry as may be necessary for ascertaining whether the provisions of this Act are being or have been complied with in any such premises or place;
 
-(c)  to examine, either alone or in the presence of any other person, as he thinks fit, with respect to any matters under this Act on which he may reasonably require information, every person
-
-Social Security (Insurance)
-
-1955-14 whom he finds in any such premises or place, or whom he has reasonable cause to believe to be or to have been an insured person, and to require every such person to be so examined;
+(c)  to examine, either alone or in the presence of any other person, as he thinks fit, with respect to any matters under this Act on which he may reasonably require information, every person whom he finds in any such premises or place, or whom he has reasonable cause to believe to be or to have been an insured person, and to require every such person to be so examined;
 
 (d)  to exercise such other powers as may be necessary for carrying this Act into effect.
 
@@ -986,7 +986,11 @@ Social Security (Insurance)
 
 (a)  wilfully delays or obstructs an inspector in the exercise of any power under this section; or
 
-(b)  refuses or neglects to answer any question or to furnish any information or to produce any document when required so to do under this section, is guilty of an offence and is liable on summary conviction to a fine equivalent to half of level 1 on the standard scale in the case of a first offence under this subsection and half of level 3 on the standard scale in the case of a second or subsequent such offence:
+(b)  refuses or neglects to answer any question or to furnish any information or to produce any document when required so to do under this section, is guilty of an offence and is liable on summary conviction to a fine equivalent to half of level 1 on the standard scale in the case of a first offence under this
+
+Social Security (Insurance)
+
+1955-14 subsection and half of level 3 on the standard scale in the case of a second or subsequent such offence:
 
 Provided that no one shall be required under this section to answer any questions or to give any evidence tending to incriminate himself.
 
@@ -994,11 +998,7 @@ Provided that no one shall be required under this section to answer any question
 
 (6)  Every inspector shall be furnished with a certificate of his appointment, and on applying for admission to any premises or place for the purposes of this Act shall, if so required, produce such certificate.
 
-(7)  The premises and places liable to inspection under this section are any premises or places where an inspector appointed under this Act has
-
-Social Security (Insurance)
-
-1955-14 reasonable grounds for supposing that any persons are self-employed or employed, except that they do not include any private dwelling-house not used by or by permission of the occupier for the purposes of a trade or business.
+(7)  The premises and places liable to inspection under this section are any premises or places where an inspector appointed under this Act has reasonable grounds for supposing that any persons are self-employed or employed, except that they do not include any private dwelling-house not used by or by permission of the occupier for the purposes of a trade or business.
 
 Information as to, and proof of, age, marriage, civil partnership and death.
 
@@ -1008,7 +1008,9 @@ Information as to, and proof of, age, marriage, civil partnership and death.
 
 (a)  on presenting to the custodian of the register under the laws relating to the registration of births, marriages, civil partnerships and deaths, wherein particulars of the birth, marriage, civil partnership or death, as the case may be of the first mentioned person are entered, a duly completed requisition in writing in that behalf; and
 
-(b)  on payment of the prescribed fee,
+Social Security (Insurance)
+
+1955-14 (b)  on payment of the prescribed fee,
 
 be entitled to obtain a copy, certified under the hand of the custodian, of the entry of those particulars.
 
@@ -1019,10 +1021,6 @@ be entitled to obtain a copy, certified under the hand of the custodian, of the 
 (4)  In this section the word “Registrar” means either the Registrar of Births and Deaths appointed under the Births and Deaths Registration Act, the Marriage Registrar, appointed under the Marriage Act or the Civil Partnership Registrar appointed under the Civil Partnership Act, as the case may be.
 
 Exemption from stamp duty.
-
-Social Security (Insurance)
-
-1955-14
 
 42. Stamp duty shall not be chargeable upon such documents used in connection with business under this Act as may be specified in Schedule 5.
 
@@ -1042,17 +1040,15 @@ General provisions as to offences and penalties.
 
 (ii) produces or furnishes, or causes or knowingly allows to be produced or furnished, any document or information which he knows to be false in a material particular,
 
-is guilty of an offence and is liable on summary conviction to imprisonment for three months and to a fine of three quarters of level 3 on the standard scale.
+Social Security (Insurance)
+
+1955-14 is guilty of an offence and is liable on summary conviction to imprisonment for three months and to a fine of three quarters of level 3 on the standard scale.
 
 (2)  Regulations may provide for the recovery on summary conviction of monetary penalties in respect of any offence under this Act, being a contravention of or failure to comply with regulations, so however, that such penalties shall not exceed one half of level 1 on the standard scale for each offence or, where the offence consists of continuing any such contravention or failure after conviction thereof, one tenth of level 1 on the standard scale together with a further one tenth of level 1 on the standard scale for each day on which it is so continued.
 
 (3)  Where an offence against this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any negligence on the part of, any director, manager, secretary or other officer of the body corporate, he as well as the body corporate shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (4)  omitted.
-
-Social Security (Insurance)
-
-1955-14
 
 (5)  Nothing in this section shall be construed as preventing the Director or such other person authorised by him in writing from recovering by means of civil proceedings any sums due to the Fund.
 
@@ -1064,7 +1060,9 @@ General provisions as to prosecutions under Act.
 
 (3)  Notwithstanding any provision in any Act prescribing the period within which summary proceedings may be commenced, proceedings for an offence against this Act may be commenced at any time within the period of three months from the date on which evidence, sufficient in the opinion of the Attorney-General to justify a prosecution for the offence, comes to his knowledge, or within the period of twelve months after the commission of the offence, whichever period last expires.
 
-(4)  For the purposes of subsection (3) a certificate, purporting to be signed by or on behalf of the Attorney-General as to the date on which such evidence came to his knowledge shall be conclusive evidence thereof.
+Social Security (Insurance)
+
+1955-14 (4)  For the purposes of subsection (3) a certificate, purporting to be signed by or on behalf of the Attorney-General as to the date on which such evidence came to his knowledge shall be conclusive evidence thereof.
 
 (5)  In any proceedings for an offence against this Act, the wife, husband or civil partner of the accused shall be competent to give evidence, whether for or against the accused:
 
@@ -1075,10 +1073,6 @@ Civil proceedings to recover sums due to fund.
 45.(1)  All sums due to the Fund shall be recoverable as debts due to the Crown, and without prejudice to any other remedy may be recovered by the Director summarily as a civil debt.
 
 (2)  Proceedings for the summary recovery as civil debts of sums due to the Fund may, notwithstanding section 65 of the Magistrates’ Court Act or anything in any law to the contrary, be brought at any time.
-
-Social Security (Insurance)
-
-1955-14
 
 (3)  Proceedings for the summary recovery as civil debts of sums due to the Fund may be instituted by an inspector or other officer authorized in that behalf by special or general directions of the Director, and any such inspector or officer may, although not a barrister or a solicitor, conduct such proceedings.
 
@@ -1092,7 +1086,11 @@ Application to special classes of persons.
 
 Crown servants.
 
-46. This Act shall apply to persons employed by or under the Crown, subject to any special provision made by or by virtue of any other section thereof, in like manner as if the employer were a private person, which such modifications as may be made therein by regulations for the purpose of adapting the provisions of this Act to the case of such persons.
+46. This Act shall apply to persons employed by or under the Crown, subject to any special provision made by or by virtue of any other section thereof, in
+
+Social Security (Insurance)
+
+1955-14 like manner as if the employer were a private person, which such modifications as may be made therein by regulations for the purpose of adapting the provisions of this Act to the case of such persons.
 
 Members of the Gibraltar Regiment.
 
@@ -1102,9 +1100,7 @@ Members of the Gibraltar Regiment.
 
 Married women.
 
-Social Security (Insurance)
-
-1955-14 48. Without prejudice to the generality of any other power to make regulations, the Minister may make regulations modifying in such manner as he thinks proper the provisions of this Act in their application in relation to married women, and in relation to women who have been married and during their marriage were affected by any such regulations.
+48. Without prejudice to the generality of any other power to make regulations, the Minister may make regulations modifying in such manner as he thinks proper the provisions of this Act in their application in relation to married women, and in relation to women who have been married and during their marriage were affected by any such regulations.
 
 Reciprocal agreements with United Kingdom, dominions, and foreign countries.
 
@@ -1112,7 +1108,11 @@ Reciprocal agreements with United Kingdom, dominions, and foreign countries.
 
 (2)  The modifications of this Act, which may be made by virtue of subsection (1) shall include provision–
 
-(a)  for securing that acts, omissions and events having any effect for the purposes of the law of the country in respect of which the agreement is made shall have a corresponding effect for the purposes of this Act (but not so as to confer a right to double benefit);
+(a)  for securing that acts, omissions and events having any effect for the purposes of the law of the country in respect of which the agreement is made shall have a corresponding effect for the
+
+Social Security (Insurance)
+
+1955-14 purposes of this Act (but not so as to confer a right to double benefit);
 
 (b)  for determining, in cases where rights accrue both under this Act and under the law of the said country, which of those rights shall be available to the person concerned;
 
@@ -1125,10 +1125,6 @@ Reciprocal agreements with United Kingdom, dominions, and foreign countries.
 Transitional provisions as to death grants.
 
 51.(1)  Death grant shall not be payable in respect of the death of any person who immediately before the 3rd day of October, 1955, was over pensionable age.
-
-Social Security (Insurance)
-
-1955-14
 
 (2)  Repealed.
 
@@ -1146,7 +1142,9 @@ Review of contributions, benefits, etc.
 
 (b) subsection (2) of that section shall have effect only in so far as it relates to the duty of a person or authority to revoke the rule.
 
-Power to wind up funds etc.
+Social Security (Insurance)
+
+1955-14 Power to wind up funds etc.
 
 53. The Government may, by regulation, make such provisions as may appear to him necessary or expedient for the purpose for the winding up and dissolution in an equitable and non-discriminatory manner of any fund provided for in this Act and without prejudice to the generality of the foregoing and notwithstanding any other provision of this Act, such regulations may–
 
@@ -1154,11 +1152,7 @@ Power to wind up funds etc.
 
 (b)  provide for the making of contributions by employers and self employed persons to any special fund referred to in paragraph (a) or to any special fund set up for the purpose of making interim or transitional arrangements in advance of the coming into operation of occupational pension arrangements in respect of employment in Gibraltar;
 
-(c)  allow for the payment of amounts out of any special fund referred to amounts out of any special fund referred to in
-
-Social Security (Insurance)
-
-1955-14 paragraph (a) or set up for the purpose of making transitional arrangements in advance of the coming into operation of occupational pension arrangements in respect of employment in Gibraltar;
+(c)  allow for the payment of amounts out of any special fund referred to amounts out of any special fund referred to in paragraph (a) or set up for the purpose of making transitional arrangements in advance of the coming into operation of occupational pension arrangements in respect of employment in Gibraltar;
 
 (d)  permit the making of advances from any fund due to be so wound up to any fund referred to in paragraph (a);
 
