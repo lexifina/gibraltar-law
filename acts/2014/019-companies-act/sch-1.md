@@ -696,17 +696,13 @@ Financial Year End dd/mm
 
 Signature______________________
 
-_______________________________ Write Name in Full
+_______________________________ Write Name in Full Director, Manager or Secretary
 
-Director, Manager or Secretary
+Classification of a company’s main activity
 
-Company Activity Reference Code
+A company must  define its main activity and provide the information to Companies House by entering the relevant activity code in the box provided.
 
-01 Agriculture, Forestry and Fishing 02 Mining and Quarrying 03 Manufacturing 04 Electricity, gas, steam and air conditioning supply 05 Water supply, sewerage, waste management and remediation activities 06 Construction 07 Wholesale and retail trade; repair of motor vehicles and motorcycles 08 Transport and storage 09 Accommodation and food service activities 10 Information and communication 11 Financial and insurance activities 12 Real estate activities 13 Professional, scientific and technical activities 14 Administrative and support service activities 15 Public administration and defence; compulsory social security
-
-Companies
-
-2014-19 16 Education 17 Human health and social work activities 18 Arts, entertainment and recreation 19 Other service activities 20 Activities of households as employers; undifferentiated goods- and services- producing activities of households for own use 21 Dormant Company 22 Non-trading Company/ Ownership of Private Residence 23 Non-Trading Company/Ownership of a yacht or a vessel 24 Non-Trading Company/Personal Asset 25 Non-Trading Company/Other
+A complete list of activities and their corresponding codes can be found on the Companies House website at: www.companieshouse.gi.
 
 Companies
 
