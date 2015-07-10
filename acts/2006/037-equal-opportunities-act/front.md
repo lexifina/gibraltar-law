@@ -10,9 +10,9 @@ Act. No.  2006-37 Commencement (LN. 2007/018) 1.3.2007
 
 Assent 14.12.2006
 
-Amending enactments Relevant current provisions Commencement date LN. 2009/068 rr. 2(1) & (4)(e), 6(5), 7(1)(a), (b) & (2), 7(2), 14(1), 15(3A), (3B) & (3C), 16(3), (4) & (5), 38, 38A, 45A - 45D, 53(1), 55(1) - (4) 26.11.2009 2011/107 r. 68A 7.7.2011
+Amending enactments Relevant current provisions Commencement date LN. 2009/068 rr. 2(1) & (4)(e), 6(5), 7(1)(a), (b) & (2), 7(2), 14(1), 15(3A), (3B) & (3C), 16(3), (4) & (5), 38, 38A, 45A - 45D, 53(1), 55(1) - (4) 26.11.2009 2011/107 r. 68A 7.7.2011 2015/108 rr. 2(1), 3(1)(h), (i), (2)(g), (3), 6(1), (2)(b), (c), (3), 7A, 7B, 14(2), (3), 38(1)(d), (e), (3)(c), 45A(2)(b), (3) (a)(i), (b), 45B(1), 55(3)(a), (5), (6), 70(2), 74(3), 77(3), 80(1), (2)(b), (4) 10.7.2015 2015/129 Corrigendum
 
-Transposing: Directive 2002/73/EC Directive 2004/113/EC Directive 2008/52/EC
+Transposing: Directive 2002/73/EC Directive 2004/113/EC Directive 2006/54/EC Directive 2008/52/EC
 
 Equal Opportunities
 
@@ -26,15 +26,15 @@ Sections
 
 PART II Discrimination, victimisation and harassment.
 
-5. Instructions to discriminate. 6. Meaning of discrimination on the ground of sex. 7. Meaning of discrimination on the ground of pregnancy or maternity leave. 8. Meaning of discrimination on the ground of religion or belief. 9. Meaning of discrimination on the ground of racial and ethnic origin. 10. Meaning of discrimination on the ground of sexual orientation. 11. Meaning of discrimination on the ground of age. 12. Meaning of discrimination on the ground of disability. 13. Meaning of discrimination by way of victimisation. 14. Meaning of harassment (including sexual harassment).
+5. Instructions to discriminate. 6. Meaning of discrimination on the ground of sex. 7. Meaning of discrimination on the ground of pregnancy or maternity leave. 7A. Meaning of discrimination on the grounds of gender reassignment. 7B. Gender reassignment discrimination: absence from work 8. Meaning of discrimination on the ground of religion or belief. 9. Meaning of discrimination on the ground of racial and ethnic origin. 10. Meaning of discrimination on the ground of sexual orientation. 11. Meaning of discrimination on the ground of age. 12. Meaning of discrimination on the ground of disability. 13. Meaning of discrimination by way of victimisation. 14. Meaning of harassment (including sexual harassment).
 
 PART III Discrimination in employment, self-employment, occupational and vocational training.
 
-15. Applicants and employees. 16. Discrimination on the ground of sex – relationship with equality and equal treatment clauses and exceptions during maternity leave. 17. Genuine occupational requirements and qualifications – general. 18. Genuine occupational requirements and qualifications – religious ethos and organised religion. 19. Contract workers. 20. Office-holders. 21. Police. 22. Partnerships. 23. Trade organisations. 24. Employment agencies, careers guidance, etc. 25. Qualifications bodies. 26. Providers of vocational training (including by bodies providing further or higher education).
+15. Applicants and employees. 16. Discrimination on the ground of sex – relationship with equality and equal treatment clauses and exceptions during maternity leave. 17. Genuine occupational requirements and qualifications – general. 18. Genuine occupational requirements and qualifications – religious ethos and organised religion. 19. Contract workers. 20. Office-holders. 21. Police. 22. Partnerships. 23. Trade organisations. 24. Employment agencies, careers guidance, etc. 25. Qualifications bodies.
 
 Equal Opportunities
 
-2006-37 27. Occupational pension schemes. 28. Occupational pensions – prohibition on different rules for overseas residents, etc. 29. Meaning of duty to make reasonable adjustments – disability. 30. Reasonable adjustments to premises occupied under leases – disability.
+2006-37 26. Providers of vocational training (including by bodies providing further or higher education). 27. Occupational pension schemes. 28. Occupational pensions – prohibition on different rules for overseas residents, etc. 29. Meaning of duty to make reasonable adjustments – disability. 30. Reasonable adjustments to premises occupied under leases – disability.
 
 PART IV Equal treatment for men and women in employment and occupational pensions.
 
@@ -46,11 +46,13 @@ PART V Discrimination in other fields.
 
 PART VI Other unlawful acts.
 
-46. Relationships which have come to an end. 47. Liability of employers and principals. 48. Aiding unlawful acts.
+46. Relationships which have come to an end. 47. Liability of employers and principals.
 
 Equal Opportunities
 
-2006-37 PART VII General exceptions.
+2006-37 48. Aiding unlawful acts.
+
+PART VII General exceptions.
 
 49. Exception for the security of Gibraltar. 50. Exception for positive action. 51. Education, training and welfare – race and ethnicity. 52. Protection of Sikhs from discrimination in connection with requirements as to wearing of safety helmets. 53. Acts done for the protection of women. 54. Exception for sex discrimination –sport. 55. Exception for sex discrimination – insurance etc. 56. Exception for benefits dependent on marital status. 57. Exception for age discrimination – retirement and duty to consider working beyond retirement. 58. Exception for age discrimination – Minimum wage. 59. Exception for age discrimination – provision of certain benefits based on length of service. 60. Exception for age discrimination – life assurance cover for retired workers.
 
@@ -60,11 +62,11 @@ PART VIII Validity of contracts, collective agreements and rules of undertakings
 
 PART IX Remedies.
 
-64. Restriction of proceedings for breach of this Act. 65. Questioning of employer etc. 66. Questioning of employer by other persons. 67. Service of questions and replies under section 65 or section 66. 68. Time limits for bringing proceedings in the Industrial Tribunal or Supreme Court. 68A.  Postponement of effect of expiry of limitation periods for certain mediated cross-border disputes. 69. Jurisdiction of the Industrial Tribunal. 70. Remedies on complaints in the Industrial Tribunal under section 73. 71. Disputes and enforcement – equality clauses (section 31) and equal treatment rules (section 34). 72. Procedure before Tribunal in cases under section 71. 73. Procedure before Tribunal – occupational pension schemes. 74. Burden of proof in the Industrial Tribunal. 75. Interest on compensation.
+64. Restriction of proceedings for breach of this Act. 65. Questioning of employer etc. 66. Questioning of employer by other persons. 67. Service of questions and replies under section 65 or section 66. 68. Time limits for bringing proceedings in the Industrial Tribunal or Supreme Court. 68A.  Postponement of effect of expiry of limitation periods for certain mediated cross-border disputes. 69. Jurisdiction of the Industrial Tribunal. 70. Remedies on complaints in the Industrial Tribunal under section 73. 71. Disputes and enforcement – equality clauses (section 31) and equal treatment rules (section 34). 72. Procedure before Tribunal in cases under section 71. 73. Procedure before Tribunal – occupational pension schemes.
 
 Equal Opportunities
 
-2006-37 76. Jurisdiction of the Supreme Court. 77. Burden of proof in the Supreme Court.
+2006-37 74. Burden of proof in the Industrial Tribunal. 75. Interest on compensation. 76. Jurisdiction of the Supreme Court. 77. Burden of proof in the Supreme Court.
 
 PART X Miscellaneous.
 
