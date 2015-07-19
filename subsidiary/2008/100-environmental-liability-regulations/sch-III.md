@@ -8,12 +8,6 @@ Those operations include, inter alia, the operation of landfill sites under Coun
 
 For the purpose of this Directive, Member States may decide that those operations shall not include the spreading of sewage sludge from urban waste water treatment plants, treated to an approved standard, for agricultural purposes.
 
-Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
-
-2005-27
-
-Subsidiary 2008/100
-
 3. All discharges into the inland surface water, which require prior authorization in pursuance of Council Directive 76/464/EEC of 4 May 1976 on pollution caused by certain dangerous substances, discharged into the aquatic environment of the Community.
 
 4. All discharges of substances into groundwater which require prior authorization in pursuance of Council Directive 80/68/EEC of 17 December 1979 on the protection of groundwater against pollution caused by certain dangerous substances.
@@ -32,13 +26,7 @@ Subsidiary 2008/100
 
 (d) biocidal products as defined in Article 2(1)(a) of Directive 98/8/EC of the European Parliament and of the Council of 16 February 1998 concerning the placing of biocidal products on the market.
 
-8.  Transport by road, rail, inland waterways, sea or air of dangerous goods or polluting goods as defined either in Annex A to Council Directive
-
-Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
-
-2005-27
-
-Subsidiary 2008/100 94/55/EC of 21 November 1994 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by road or in the Annex to Council Directive 96/49/EC of 23 July 1996 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by rail or as defined in Council Directive 93/75/EEC of 13 September 1993 concerning minimum requirements for vessels bound for or leaving Community ports and carrying dangerous or polluting goods.
+8.  Transport by road, rail, inland waterways, sea or air of dangerous goods or polluting goods as defined either in Annex A to Council Directive 94/55/EC of 21 November 1994 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by road or in the Annex to Council Directive 96/49/EC of 23 July 1996 on the approximation of the laws of the Member States with regard to the transport of dangerous goods by rail or as defined in Council Directive 93/75/EEC of 13 September 1993 concerning minimum requirements for vessels bound for or leaving Community ports and carrying dangerous or polluting goods.
 
 9. The operation of installations subject to authorisation in pursuance of Council Directive 84/360/EEC of 28 June 1984 on the combating of air pollution from industrial plants in relation to the release into air of any of the polluting substances covered by the aforementioned Directive.
 

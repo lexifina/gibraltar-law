@@ -16,12 +16,6 @@ The following does not have to be classified as significant damage:
 
 — negative variations that are smaller than natural fluctuations regarded as normal for the species or habitat in question,
 
-Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
-
-2005-27
-
-Subsidiary 2008/100
-
 — negative variations due to natural causes or resulting from intervention relating to the normal management of sites, as defined in habitat records or target documents or as carried on previously by owners or operators,
 
 — damage to species or habitats for which it is established that they will recover, within a short time and without intervention, either to the baseline condition or to a condition which leads, solely by virtue of the dynamics of the species or habitat, to a condition deemed equivalent or superior to the baseline condition.

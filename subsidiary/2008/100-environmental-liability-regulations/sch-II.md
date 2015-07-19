@@ -12,13 +12,7 @@ Remedying of environmental damage, in relation to water or protected species or 
 
 (c) ‘Compensatory’ remediation is any action taken to compensate for interim losses of natural resources and/or services that occur from the date of damage occurring until primary remediation has achieved its full effect;
 
-(d) ‘interim losses’ means losses which result from the fact that the damaged natural resources and/or services are not able to
-
-Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
-
-2005-27
-
-Subsidiary 2008/100 perform their ecological functions or provide services to other natural resources or to the public until the primary or complementary measures have taken effect. It does not consist of financial compensation to members of the public.
+(d) ‘interim losses’ means losses which result from the fact that the damaged natural resources and/or services are not able to perform their ecological functions or provide services to other natural resources or to the public until the primary or complementary measures have taken effect. It does not consist of financial compensation to members of the public.
 
 Where primary remediation does not result in the restoration of the environment to its baseline condition, then complementary remediation will be undertaken. In addition, compensatory remediation will be undertaken to compensate for the interim losses.
 
@@ -40,11 +34,7 @@ Purpose of complementary remediation.
 
 Identification of primary remedial measures.
 
-Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
-
-2005-27
-
-Subsidiary 2008/100 1.2.1. Options comprised of actions to directly restore the natural resources and services towards baseline condition on an accelerated time frame, or through natural recovery, shall be considered.
+1.2.1. Options comprised of actions to directly restore the natural resources and services towards baseline condition on an accelerated time frame, or through natural recovery, shall be considered.
 
 Identification of complementary and compensatory remedial measures.
 
@@ -64,11 +54,7 @@ The complementary and compensatory remedial measures should be so designed that 
 
 — The likelihood of success of each option,
 
-Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
-
-2005-27
-
-Subsidiary 2008/100 — The extent to which each option will prevent future damage, and avoid collateral damage as a result of implementing the option,
+— The extent to which each option will prevent future damage, and avoid collateral damage as a result of implementing the option,
 
 — The extent to which each option benefits to each component of the natural resource and/or service,
 
@@ -86,13 +72,7 @@ Subsidiary 2008/100 — The extent to which each option will prevent future dama
 
 2.  Remediation of land damage.
 
-The necessary measures shall be taken to ensure, as a minimum, that the relevant contaminants are removed, controlled, contained or diminished so that the contaminated land, taking account of its current use or approved
-
-Environment ENVIRONMENTAL LIABILITY REGULATIONS 2008
-
-2005-27
-
-Subsidiary 2008/100 future use at the time of the damage, no longer poses any significant risk of adversely affecting human health. The presence of such risks shall be assessed through risk-assessment procedures taking into account the characteristic and function of the soil, the type and concentration of the harmful substances, preparations, organisms or micro-organisms, their risk and the possibility of their dispersion. Use shall be ascertained on the basis of the land use regulations, or other relevant regulations, in force, if any, when the damage occurred. If the use of the land is changed, all necessary measures shall be taken to prevent any adverse effects on human health.
+The necessary measures shall be taken to ensure, as a minimum, that the relevant contaminants are removed, controlled, contained or diminished so that the contaminated land, taking account of its current use or approved future use at the time of the damage, no longer poses any significant risk of adversely affecting human health. The presence of such risks shall be assessed through risk-assessment procedures taking into account the characteristic and function of the soil, the type and concentration of the harmful substances, preparations, organisms or micro-organisms, their risk and the possibility of their dispersion. Use shall be ascertained on the basis of the land use regulations, or other relevant regulations, in force, if any, when the damage occurred. If the use of the land is changed, all necessary measures shall be taken to prevent any adverse effects on human health.
 
 If land use regulations, or other relevant regulations, are lacking, the nature of the relevant area where the damage occurred, taking into account its expected development, shall determine the use of the specific area.
 
