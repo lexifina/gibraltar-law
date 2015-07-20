@@ -14,7 +14,19 @@ Amending enactments Relevant current provisions Commencement date Act. 2014-34 s
 
 22.12.2014 2015-21 ss. 360(2), (3), 366(1), 369(1A), 414(1), Sch. 5
 
-6.7.2015
+6.7.2015 LN. 2015/1131 Amended by LN. 2015/231 ss. 180(1)(e), (4), 237(1), 237A, 240(1A), (3), 244(2)(b), (c), (d), (da), (g), (j), 245(2), (2A) - (2C), (7A), (7B), 246(2), (3), 247(2), (4), 248, 250(3), (4), (6), 251(1), (2), (6A), (7), (8), 252(7), 253(1), (1A), 254(2),(5)(b), 258(1), (1A), (2), (2A), (3), (4), (5), 259(3), 270(a), (e), 271, 272(1)(a), (2), 273(2), 276(7), 279(1), 281(2), 282(A1), (5), (7), 283, 285(1), (aa), (b), (2), (3), (5), 286(1), (aa), (b), (2), (3), (5), 287(3), (4), (6), 288(3), 289(2), (6), (7), (8), 291, 292(2), (3), 293, 294A,
+
+1  These Regulations have effect in relation to financial years beginning on or after 1 January 2016, and a financial year of a company beginning on or after 1 January 2015, but before 1 January 2016, if the directors of the company so decide.
+
+In determining whether a company or group qualifies as small or medium-sized under section 293 and Schedule 9 of the Companies Act 2014 in relation to a financial year in relation to which the amendments made by these Regulations have effect, the company or group is to be treated as having qualified as small or medium-sized (as the case may be) in any previous year in which it would have so qualified if amendments to the same effect as the amendments made by these Regulations had had effect in relation to that previous year.
+
+Companies
+
+2014-19 Sch. 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22
+
+20.7.2015
+
+Transposing: Directive 2013/34/EU
 
 Companies
 
@@ -282,11 +294,11 @@ ACCOUNTS AND AUDIT
 
 CHAPTER 1 PRELIMINARY
 
-237. Interpretation of Part VII. 238. Preparation of annual accounts: mainstream companies.
+237. Interpretation of Part VII. 237A.  Public-interest entity excluded from exemptions.
 
 Companies
 
-2014-19
+2014-19 238. Preparation of annual accounts: mainstream companies.
 
 CHAPTER 2 ACCOUNTS OTHER THAN CONSOLIDATED ACCOUNTS
 
@@ -306,15 +318,15 @@ Directors reports: mainstream companies
 
 Auditors and auditor’ reports
 
-255. Appointment auditors. 256. Supplementary provisions as to auditors and their remuneration. 257. Auditors’ report and right of access to books and right to attend general meetings. 258. Auditors’ reports. 259. Exemption for small companies. 260. Voidness of provisions protecting auditors from liability. 261. Indemnity for costs of successfully defending proceedings. 262. Liability limitation agreements. 263. Terms of liability limitation agreement. 264. Authorisation of agreement by members of the company. 265. Effect of liability limitation agreement. 266. Disclosure of agreement by company.
+255. Appointment auditors. 256. Supplementary provisions as to auditors and their remuneration. 257. Auditors’ report and right of access to books and right to attend general meetings. 258. Auditors’ reports. 259. Exemption for small companies. 260. Voidness of provisions protecting auditors from liability. 261. Indemnity for costs of successfully defending proceedings. 262. Liability limitation agreements. 263. Terms of liability limitation agreement. 264. Authorisation of agreement by members of the company. 265. Effect of liability limitation agreement.
 
 Companies
 
-2014-19 267. Voluntary revision of defective accounts and reports. 268. Change of accounting reference period.
+2014-19 266. Disclosure of agreement by company. 267. Voluntary revision of defective accounts and reports. 268. Change of accounting reference period.
 
 Supplementary
 
-269. Offences. 270. Exemptions from preparation, audit and publication of individual accounts. 271. Availability of exemptions to companies whose securities are admitted to trading in regulated markets. 272. Period allowed for delivering accounts and reports. 273. Delivery and publication of accounts in euros. 274. Requirements where a company wishes to circulate its accounts to the public. 275. Regulations.
+269. Offences. 270. Exemptions from preparation, audit and publication of individual accounts. 271. Deleted 272. Period allowed for delivering accounts and reports. 273. Delivery and publication of accounts in euros. 274. Requirements where a company wishes to circulate its accounts to the public. 275. Regulations.
 
 CHAPTER 3 CONSOLIDATED ACCOUNTS
 
@@ -324,7 +336,7 @@ Interpretation and general
 
 Preparation of group accounts
 
-281. Preparation of group accounts. 282. Chapter 3 Accounts. 283. IAS group accounts. 284. Consistency of accounts. 285. Exemption for parent companies included in accounts of larger group. 286. Exemption for parent companies included in non-EEA group accounts. 287. Subsidiary undertakings included in the consolidation. 288. Treatment of individual profit and loss account where group accounts prepared. 289. Disclosure required in notes to accounts: related undertakings. 290. Disclosure required in notes to annual accounts: particulars of staff. 291. Disclosure required in notes to annual accounts: arrangements not included in consolidated balance sheet and with related parties 292. Exemption for small and medium-sized groups. 293. Qualification of group as small or medium-sized. 294. Offences.
+281. Preparation of group accounts. 282. Chapter 3 Accounts. 283. IAS group accounts. 284. Consistency of accounts. 285. Exemption for parent companies included in accounts of larger group. 286. Exemption for parent companies included in non-EEA group accounts. 287. Subsidiary undertakings included in the consolidation. 288. Treatment of individual profit and loss account where group accounts prepared. 289. Disclosure required in notes to accounts: related undertakings. 290. Disclosure required in notes to annual accounts: particulars of staff. 291. Deleted 292. Exemption for small and medium-sized groups. 293. Qualification of group as small or medium-sized or large. 294. Offences. 294A.  Transmission of Information.
 
 Companies
 
