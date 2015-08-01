@@ -2,10 +2,4 @@ SCHEDULE 4.
 
 omitted.
 
-______________________
-
-Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-4
+1 The rates of benefits provided for in Part V shall apply only in respect of births that occur on or after 1st August 2015.

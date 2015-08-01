@@ -6,9 +6,13 @@ PART I.
 
 Regulation 40.
 
-(1) (2) (3) (4) Yearly average of Contributions paid or Credited. Full rate of grant payable
+(1) (2) (3) (4) Yearly average of Contributions paid or Credited.
 
-£ 15                                  £10                                £7.50 £ £ £ 30-44 11.25 7.50 5.00 13-29 7.50 5.00 3.75
+Full rate of grant payable
+
+£ 15                                  £10                                £7.50
+
+£ £ £ 30-44 11.25 7.50 5.00 13-29 7.50 5.00 3.75
 
 PART II.
 
@@ -24,15 +28,11 @@ PART III.
 
 Regulation 42.
 
-(1) (2) (3) (4) Yearly average of contributions paid Full rate of grant payable or credited £20.00 £15.00 £10.00
+(1) (2) (3) (4) Yearly average of contributions paid
 
-£ £ £ 30-44 15.00 11.25 7.50
+Full rate of grant payable or credited £20.00 £15.00 £10.00
 
-Social Security (Insurance) SOCIAL INSURANCE (BENEFITS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-4 13-29 10.00 7.50 5.00
+£ £ £ 30-44 15.00 11.25 7.50 13-29 10.00 7.50 5.00
 
 PART IV.
 
@@ -40,9 +40,7 @@ Regulation 43.
 
 (1) (2) (3) (4) (5) (6) (7) Yearly average of contributions paid or credited on contributions which include 13-29 contributions paid since 1st January, 1968 on contributions which include 30-44 contributions paid since 1st January, 1968
 
-Full rate of grant payable
-
-£20.00 £15.00 £10.00 £20.00 £15.00 £10.00 30-40 12.50 8.75 5.83 13.75 10.00 6.67 13-29 8.33 5.83 4.17 9.17 6.67 4.58
+Full rate of grant payable £20.00 £15.00 £10.00 £20.00 £15.00 £10.00 30-40 12.50 8.75 5.83 13.75 10.00 6.67 13-29 8.33 5.83 4.17 9.17 6.67 4.58
 
 PART V2
 
