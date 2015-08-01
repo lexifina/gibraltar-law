@@ -126,7 +126,7 @@ Social Security (Insurance)
 
 28.3.2014 2015-111 ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3
 
-30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015
+30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -1262,9 +1262,9 @@ PART VI.
 
 AMOUNT OF GRANTS1
 
-DESCRIPTION OF GRANT AMOUNT (£) 1.  Maternity Grant per child 600 2.  Death Grant 600
+DESCRIPTION OF GRANT AMOUNT (£) 1.  Maternity Grant per child 700 2.  Death Grant 600
 
-1 The rates of benefits provided for in the table, shall apply only in respect of births and deaths that occur on or after 24th June 2013.
+1 The rates of benefits provided for in the table, shall apply only in respect of births and deaths that occur on or after 1st August 2015.
 
 Social Security (Insurance)
 
