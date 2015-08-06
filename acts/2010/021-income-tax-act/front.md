@@ -8,7 +8,9 @@ Act No 2010-21 Commencement (LN.2010/180) 1.1.2011
 
 Assent 1.11.2010
 
-Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014 2015-23 ss. 77-78 22.6.2015 “ ss. 30(1)(b), (bb), Sch. 3 1.7.2015
+Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014 2015-23 ss. 77-78 22.6.2015 “ ss. 30(1)(b), (bb), Sch. 3 1.7.2015 “ ss. 6, 6A, 18A, 19, 30(1)(ca), (cb), (f), 31, 31A, 32, 32A, 33-34, 39(1)(b), (2), (4)-(6), (8), 41(10), 56A, 59, 59A, 60, 63, 63A, 64(1)(b)-(c), 65, 65A-65F, 67(2), 68, 74, Schs. 1, 3, 9-10
+
+6.8.2015
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU
 
@@ -24,7 +26,7 @@ Section
 
 Part I- Administration
 
-2. Administration. 3. Confidentiality. 4. Information requests from or to Member States. 5. Administrative enquiries. 5A. Exchange of information about foreign residents. 5B. Other exchange of information with Member States. 5C. Administrative cooperation with tax authorities of Member States. 5D. Sharing experience of tax cooperation with Member States. 5E. Sections 4 to 5D: supplemental. 5F. Review of operation of sections 4 to 5E. 6. Information powers. 7. Restrictions on powers. 8. Falsification etc. of documents. 9. Entry with warrant to obtain documents. 10. Service of notices.
+2. Administration. 3. Confidentiality. 4. Information requests from or to Member States. 5. Administrative enquiries. 5A. Exchange of information about foreign residents. 5B. Other exchange of information with Member States. 5C. Administrative cooperation with tax authorities of Member States. 5D. Sharing experience of tax cooperation with Member States. 5E. Sections 4 to 5D: supplemental. 5F. Review of operation of sections 4 to 5E. 6. Information powers. 6A. Information Powers: International obligations under exchange of information agreements. 7. Restrictions on powers. 8. Falsification etc. of documents. 9. Entry with warrant to obtain documents. 10. Service of notices.
 
 Part II- Charge to tax
 
@@ -32,15 +34,15 @@ Part II- Charge to tax
 
 Part III- Computation of assessments
 
-15. Basis of assessment- persons other than companies. 16. Basis of assessment- companies. 17. Gains or profits of employment. 18. Partnerships. 19. Income from occasional presence in Gibraltar. 20. Allowance of trade losses. 21. Valuation of trading stock on discontinuance of trade, etc. 22. Loans to shareholders or connected persons. 23. Assessment of purchased life annuities.
-
-Part IV- Rate of taxation and assessment
+15. Basis of assessment- persons other than companies. 16. Basis of assessment- companies. 17. Gains or profits of employment. 18. Partnerships. 18A. Entities: power to make regulations. 19. Income from occasional presence in Gibraltar. 20. Allowance of trade losses. 21. Valuation of trading stock on discontinuance of trade, etc. 22. Loans to shareholders or connected persons.
 
 Income Tax
 
-2010-21
+2010-21 23. Assessment of purchased life annuities.
 
-24. Rate of taxation. 25. Reliefs, allowances, etc. 25A. Gifts to charity by individuals. 26. Tabling of Rules before Parliament and effect of annulment. 27. Retrospective effect. 28. Tax payers other than companies to make returns. 29. Companies to make returns. 30. Returns- supplementary. 31. Procedure following receipt of return. 32. Power to make enquiries on return. 33. Assessment where no return received or tax is due on income subject to the PAYE Regulations. 34. Additional assessments. 35. Service of assessments and appeals. 36. Application for postponement of tax payable. 37. Relief in respect of foreign tax paid. 38. Assessments to be final and conclusive.
+Part IV- Rate of taxation and assessment
+
+24. Rate of taxation. 25. Reliefs, allowances, etc. 25A. Gifts to charity by individuals. 26. Tabling of Rules before Parliament and effect of annulment. 27. Retrospective effect. 28. Tax payers other than companies to make returns. 29. Companies to make returns. 30. Returns- supplementary. 31. Assessing procedure. 31A. Ordinary time limit of six years for making assessments. 32. Power to make enquiries on return. 32A. Offence of falsification etc. of documents in relation to a notice under section 32. 33. Assessing procedure where no return is delivered. 34. Additional, amended and discovery assessments. 35. Service of assessments and appeals. 36. Application for postponement of tax payable. 37. Relief in respect of foreign tax paid. 38. Assessments to be final and conclusive.
 
 Part V- Payment of taxation
 
@@ -54,21 +56,25 @@ Part VII- Chargeability of and acts to be done by agents and others
 
 44. Chargeability of trustees and other representatives. 45. Chargeability of agent of non-resident persons. 46. Acts to be done by trustees and certain others. 47. Deceased persons. 48. Joint trustees. 49. Managers of companies. 50. Commissioner to appoint agents. 51. Indemnification of agents. 52. Company wound up.
 
-Part VIII- Assessment and withholding
-
-53. Assessment record. 54. Errors and defects in assessments, etc.
-
 Income Tax
 
-2010-21 55. Pay as You Earn. 56. Return to be made by employer. 57. Payment of tax of individuals employed but not domiciled or ordinarily resident in Gibraltar. 58. Deductions from payments to construction sub-contactors. 59. Returns in respect of dividends. 60. Set off of tax credit. 61. Repayment of tax. 62. Recovery of tax through employers and others.
+2010-21
+
+Part VIII- Assessment and withholding
+
+53. Assessment record. 54. Errors and defects in assessments, etc. 55. Pay as You Earn. 56. Return to be made by employer. 56A. Penalty for failure to deliver return made by employer. 57. Payment of tax of individuals employed but not domiciled or ordinarily resident in Gibraltar. 58. Deductions from payments to construction sub-contactors. 59. Returns in respect of dividends. 59A. Dividends: provision of particulars. 60. Set off of Tax Credit. 61. Repayment of tax. 62. Recovery of tax through employers and others.
 
 Part IX- Offences, surcharges, penalties and miscellaneous
 
-63. Books of account. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay PAYE and Social Insurance 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
+63. Duty to keep and preserve records and books of account. 63A. Penalty for failure to keep and preserve records. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply with requirements on return. 65A. Penalties for failure to comply with requirements on certain notices. 65B. Offence for failure to comply with requirements on certain notices and returns. 65C. Penalties for failure to comply with requirements under section 41. 65D. Offence of failure to comply with requirements of section 41. 65E. Penalties where no penalty is specifically provided by this Act. 65F. Failure to comply with requirement or notice. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay PAYE and Social Insurance 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
 
 PART X -AMNESTY
 
-77. Fixed penalty charge during amnesty. 78. Expiry of amnesty.
+77. Fixed penalty charge during amnesty.
+
+Income Tax
+
+2010-21 78. Expiry of amnesty.
 
 SCHEDULE 1
 
@@ -82,9 +88,7 @@ Table B
 
 Employment and self employment.
 
-Income Tax
-
-2010-21 Table C
+Table C
 
 Other income
 
@@ -100,7 +104,11 @@ Part 1- Administration
 
 Part II- Procedure
 
-5. Quorum. 6. Procedure. 7. Attendance of Commissioner. 8. Privacy of proceedings. 9. Adjournment. 10. Representation. 11. Procedure in hearings. 12. Tribunal decisions.
+5. Quorum. 6. Procedure. 7. Attendance of Commissioner. 8. Privacy of proceedings. 9. Adjournment. 10. Representation. 11. Procedure in hearings.
+
+Income Tax
+
+2010-21 12. Tribunal decisions.
 
 Part III- Powers
 
@@ -112,11 +120,7 @@ Part IV-Appeal to Supreme Court
 
 Part V- Miscellaneous
 
-17. Irregularity.
-
-Income Tax
-
-2010-21 18. Form of notices. 19. Service of notices etc. 20. Penalties.
+17. Irregularity. 18. Form of notices. 19. Service of notices etc. 20. Penalties.
 
 Part VI- Interpretation
 
@@ -350,12 +354,14 @@ Part II
 
 Transitional Provisions
 
-2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Payments on account. 11. Liquidations, etc. 12. The surcharge/penalties.
+2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Deleted. 11. Liquidations, etc. 12. The surcharge/penalties.
 
 Part III
 
 Continuity of the law
 
 13. Continuity of the law. 14. Changes in the law. 15. Subordinate legislation. 16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
+
+Schedule 10
 
 Income Tax
