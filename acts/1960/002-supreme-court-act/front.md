@@ -62,7 +62,7 @@ Supreme Court
 
 1.1.20112 LN.  2011/105 ss. 72A -72G 7.7.2011 Act.  2012-09 ss. 27E(2) & (3) & 27G(3) 27.9.2012 2012-17 s. 12A(1), (2), (2A), (3) & (4) 22.11.2012 LN.  2013/134 ss. 35A(1), 35H(1), 41 & Sch. 1 1.7.2013 2015/003 s. 72C(3) 10.1.2015 Act.  2015-14 ss. 27W, 27X, 28(1)(c), (2A), 29(1)(a), (ba), (1A), 34(3)(b), 35
 
-1.7.20153
+1.7.20153 2015-19 ss. 29 (Transitional Provision) 6.8.2015
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
@@ -71,8 +71,6 @@ The Supreme Court Fund Regulations are printed under the title Public Finance (C
 Transposing: Directive 77/249/EEC Directive 98/5/EC Directive 2006/100/EC Directive 2008/52/EC Directive 2013/25/EU
 
 Implementing: Regulation (EU) No 1215/2012
-
-English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
 1 Transitional and miscellaneous provisions.
 
@@ -85,6 +83,10 @@ English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 
 (4)  The Minister may by order amend Schedule 4 to the Supreme Court Act.
 
 2 See LN. 2010/183 3 See LN. 2015/102
+
+Supreme Court
+
+1960-02 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
 Supreme Court
 
