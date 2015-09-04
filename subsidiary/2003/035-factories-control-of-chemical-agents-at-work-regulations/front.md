@@ -8,9 +8,11 @@ FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
 
 20.3.2003
 
-Amending enactments Relevant current provisions Commencement date LN. 2008/035 Sch. 1 8.5.2008 2008/050 Sch. 1 19.6.2008 2012/021 Sch. 1 1.3.2012
+Amending enactments Relevant current provisions Commencement date LN. 2008/035 Sch. 1 8.5.2008 2008/050 Sch. 1 19.6.2008 2012/021 Sch. 1 1.3.2012 2015/143 rr. 2(1), 5(2)(b), 10(1)(d) 4.9.2015
 
 Transposing: Directive 98/24/EC Directive 2000/39/EC Directive 2009/161/EU
+
+Implementing: Directive 2014/27/EU
 
 Factories FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
 
