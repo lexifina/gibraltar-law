@@ -30,11 +30,7 @@ Signboards and/or a safety colour must be used to mark permanently the location 
 
 2.2. Occasional signs
 
-2.2.1. Illuminated signs, acoustic signals and/or verbal communication must be used where the occasion requires, taking into account the possibilities for interchanging and combining
-
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
-
-signs set out in paragraph 3, to signal danger, to call persons to take a specific course of action and for the emergency evacuation of persons.
+2.2.1. Illuminated signs, acoustic signals and/or verbal communication must be used where the occasion requires, taking into account the possibilities for interchanging and combining signs set out in paragraph 3, to signal danger, to call persons to take a specific course of action and for the emergency evacuation of persons.
 
 2.2.2. Hand signals and/or verbal communication must be used where the occasion requires, to guide persons carrying out hazardous or dangerous manoeuvres.
 
@@ -56,21 +52,13 @@ communication, - hand signals or verbal communication.
 
 Colour Meaning or purpose Instructions and information Red      – Prohibition sign Dangerous behaviour
 
-Danger alarm Stop, shutdown, emergency cut out devices Evacuate
+Danger alarm Stop, shutdown, emergency cut out devices Evacuate Fire-fighting equipment Identification and location Yellow  - or Amber Warning sign Be careful, take precautions Examine
 
-Fire-fighting equipment Identification and location
-
-Yellow  - or Amber Warning sign Be careful, take precautions Examine
-
-Blue   – Mandatory sign Specific behaviour or action Wear personal protective equipment
-
-Green   – Emergency escape, first aid sign Doors, exits, routes, equipment, facilities
+Blue   – Mandatory sign Specific behaviour or action Wear personal protective equipment Green   – Emergency escape, first aid sign Doors, exits, routes, equipment, facilities
 
 No danger Return to normal
 
 5.The effectiveness of a sign must not be adversely affected by —
-
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
 
 5.1. the presence of another emission source of the same type which interferes with visibility or audibility; therefore, in particular,
 
@@ -98,11 +86,7 @@ No danger Return to normal
 
 11. If the hearing or the sight of the workers concerned is impaired, including impairment by the wearing of personal protective equipment, measures must be taken to supplement or replace the signs concerned.
 
-12. Areas, rooms or enclosures used for the storage of significant quantities of dangerous substances or preparations must be indicated by a suitable warning sign taken from
-
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
-
-paragraph 3.2 of Part II, or marked as provided in paragraph 1 of Part III, unless the labelling of the individual packages of containers is adequate for this purpose.
+12. Areas, rooms or enclosures used for the storage of significant quantities of hazardous substances or mixtures must be indicated by a suitable warning sign taken from paragraph 3.2 of Part II, or marked as provided in paragraph 1 of Part III, unless the labelling of the individual packages or containers is adequate for this purpose. If there is no equivalent warning sign in paragraph 3.2 of Part II to warn about hazardous chemical substances or mixtures, the relevant hazard pictogram, as laid down in Annex V of Regulation (EC) No. 1272/2008 must be used.
 
 PART II
 
@@ -134,15 +118,11 @@ Without prejudice to the provisions of Directive 89/654/EEC, phosphorescent colo
 
 Intrinsic features —
 
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
-
 - round shape - black pictogram on white background, red edging and diagonal line (the red part to take up at least 35% of the area of the sign).
 
 No smoking Smoking and naked flames forbidden No access for pedestrians
 
 Do not extinguish with water Not drinkable Not access for unauthorized persons No access for industrial vehicles Do not touch
-
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
 
 3.2. Warning signs
 
@@ -154,27 +134,21 @@ Flammable material or high temperature (1) Explosive material Toxic material
 
 Corrosive material Radioactive material Overhead load
 
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
+***1
+
+1 *** This warning sign shall not be used to warn about hazardous chemical substances or mixtures, except for cases when the warning sign is used in accordance with the second paragraph of paragraph 5 of Part III of the Schedule to indicate the stores of hazardous substances or mixtures.
 
 3.3 Mandatory signs
 
 Intrinsic features —
 
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
-
 - round shape - white pictogram on a blue background (the blue part to take up at least 50% of the area of the sign).
-
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
 
 3.4 Emergency escape or first-aid signs
 
 Intrinsic features —
 
 – rectangular or square shape – white pictogram on a green background (the green part to take up at least 50% of the area of the sign).
-
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
-
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
 
 3.5. Fire-fighting signs
 
@@ -186,15 +160,17 @@ PART III
 
 MINIMUM REQUIREMENT GOVERNING SIGNS ON CONTAINERS AND PIPES
 
-1.Containers used at work for dangerous substances or preparations defined in Directives 67/548/EEC and 88/379/EEC and containers used for the storage of such dangerous substances or preparations, together with the visible pipes containing or transporting dangerous substances and preparations, must be labelled (pictogram or symbol against a coloured background) in accordance with those Directives.
+1.Containers used at work for chemical substances or mixtures classified as hazardous according to the criteria for any physical or health hazard class in accordance with Regulation (EC) No 1272/2008, and containers used for the storage of such hazardous substances or mixtures, together with the visible pipes containing or transporting such hazardous substances and mixtures, must be labelled with the relevant hazard pictograms in accordance with that Regulation.
 
-Paragraph 1 does not apply to containers used at work for brief periods nor to containers whose contents change frequently, provided that alternative adequate measures are taken, in particular for information and/or training, which guarantee the same level of protection.
+The first paragraph does not apply to containers used at work for brief periods nor to containers whose contents change frequently, provided that alternative adequate measures are taken, in particular for information or training, which guarantee the same level of protection.
 
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
+The labels referred to in the first paragraph may be-
 
-The labels referred to in paragraph 1 may be —
+— replaced by warning signs set out in Part II, using the same pictograms or symbols. If there is no equivalent warning sign in paragraph 3.2 of Part II, the relevant hazard pictogram set out in Annex V of Regulation (EC) No 1272/2008 must be used;
 
-– replaced by warning signs as provided for in Part II, using the same pictograms or symbols, – supplemented by additional information, such as the name and/or formula of the dangerous substance or preparation and details of the hazard, – for the transporting of containers at the place of work, supplemented or replaced by signs applicable throughout the Community for the transport of dangerous substances or preparations,.
+— supplemented by additional information, such as the name or formula of the hazardous substance or mixture and the details of the hazard;
+
+— for the transporting of containers at the place of work, supplemented or replaced by signs that are applicable throughout the European Union for the transport of hazardous substances or mixtures.
 
 2.Signs must be mounted as follows —
 
@@ -204,9 +180,9 @@ The labels referred to in paragraph 1 may be —
 
 4.Without prejudice to paragraphs 1, 2 and 3, the labels used on pipes must be positioned visibly in the vicinity of the most dangerous points, such as valves and joints, and at reasonable intervals.
 
-5.Areas, rooms or enclosures used for the storage of significant quantities of dangerous substances or preparations must be indicated by a suitable warning sign taken from paragraph 3.2 of Part II, or marked as provided in paragraph 1 of Part III, unless the labelling of the individual packages or containers is adequate for this purpose, taking into account Part II, paragraph 1.5 with regard to dimensions.
+5.Areas, rooms or enclosures used for the storage of significant quantities of hazardous substances or mixtures must be indicated by a suitable warning sign taken from paragraph 3.2 of Part II, or marked as provided in paragraph 1 of Part III, unless the labelling of the individual packages or containers is adequate for this purpose, taking into account Part II, paragraph 1.5 with regard to dimensions.
 
-Stores of a number of dangerous substances or preparations may be indicated by the warning sign for general danger.
+Stores of a number of hazardous substances or mixtures may be indicated by the warning sign for general danger.
 
 The signs or labels referred to above must be positioned, as appropriate, near the storage area or on the door leading into the storage room.
 
@@ -217,8 +193,6 @@ MINIMUM REQUIREMENTS FOR THE IDENTIFICATION AND LOCATION OF FIRE-FIGHTING EQUIPM
 1.Preliminary remark.
 
 This Part applies to equipment used exclusively for fire-fighting purposes.
-
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
 
 2.Fire-fighting equipment must be identified by using a specific colour for the equipment and placing a location signboard, and/or by using a specific colour for the places where such equipment is kept, or their access points.
 
@@ -245,8 +219,6 @@ MINIMUM REQUIREMENTS GOVERNING SIGNS USED FOR OBSTACLES AND DANGEROUS LOCATIONS,
 2.1 Where the use and equipment of rooms so requires for the protection of workers, traffic routes for vehicles must be clearly identified by continuous stripes in a clearly visible colour, preferably white or yellow, taking into account the colour of the ground.
 
 2.2 The stripes must be located so as to indicate the necessary safe distance between the vehicles and any object which may be near by, and between pedestrians and vehicles.
-
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
 
 2.3 Permanent traffic routes in built-up areas outdoors should, as far as is practicable, be similarly marked, unless they are provided with suitable barriers or pavements.
 
@@ -275,8 +247,6 @@ The duration of each flash and the frequency of the flashes of an intermittent i
 2.2. If a flashing sign is used instead of, or together with, an acoustic signal, identical codes must be used.
 
 2.3 Devices for emitting flashing signs in the event of grave danger must be under special surveillance or be fitted with an auxiliary lamp.
-
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
 
 PART VII
 
@@ -310,8 +280,6 @@ MINIMUM REQUIREMENTS FOR VERBAL COMMUNICATION
 
 2.Specific rules governing use.
 
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
-
 2.1 The persons involved must have a good knowledge of he language used so that they are able to pronounce and understand the spoken message correctly and consequently behave in a way which is appropriate to health and/or safety.
 
 2.2 If verbal communication is used instead of, or together with, gestures, code words should be used such as  —
@@ -334,8 +302,6 @@ Provided that they fulfil the conditions given above, the signals used may vary 
 
 2.1 The person giving the signs, hereinafter referred to as the ‘signalman’, will use arm/hand movements to give manoeuvring instructions to the person receiving the signs, hereinafter referred to as the operator.
 
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
-
 2.2 The signalman must be able to monitor all manoeuvres visually without being endangered thereby.
 
 2.3 The signalman’s duties must consist exclusively of directing manoeuvres and ensuring the safety of workers in the vicinity.
@@ -357,8 +323,6 @@ The distinctive items are to be brightly coloured, preferably all of the same co
 Preliminary remark —
 
 The following set of coded signals are without prejudice to other codes applicable at Community level, used for the same manoeuvres in certain sectors —
-
-Factories 1956-12 Health and Safety (Safety Signs and Signals) Regulations, 1996 1996/059
 
 Meaning Description Illustration A. General Signals
 
@@ -386,8 +350,6 @@ VERTICAL DISTANCE
 
 the hands indicate the relevant distance. C. Horizontal movements
 
-1956-12 Factories 1996/059 Health and Safety (Safety Signs and Signals) Regulations, 1996
-
 MOVE FORWARDS both arms are bent with the palms facing upwards, and the forearms make slow movements towards the body.
 
 MOVE BACKWARDS both arms are bent with the palms facing downwards, and the forearms make slow movements away from the body.
@@ -402,6 +364,6 @@ the hands indicate the relevant distance. D. Danger
 
 DANGER emergency stop
 
-both arms points upwards with the palms facing forwards
+both arms points upwards with the palms facing forwards QUICK all movements faster
 
-QUICK all movements faster SLOW all movements slower
+SLOW all movements slower
