@@ -16,11 +16,15 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 10.10.20132 2013-26 ss. 94A 28.11.2013 LN.  2013/189 ss. 228(5)(b), 229(5)(b), 230(5)(b), 231(5)(b), 251(3)(b) & 252(3)(b)
 
-18.12.2013 Act. 2014-03 s. 547 27.2.2014 LN.  2014/217 s. 385(1A), (2) 1.12.2014 Act.  2014-33 s. 555(1)(b) 1.1.2015
+18.12.2013 Act. 2014-03 s. 547 27.2.2014 LN.  2014/217 s. 385(1A), (2) 1.12.2014 Act.  2014-33 s. 555(1)(b) 1.1.2015 LN.  2015/140 ss. 361(1), 366(1), (2), (3), (4), 366A, 367(1)(b), 370(1A), 370(3A), 384(3A), (3B), 385
 
-Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU
+4.9.2015
 
 1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136
+
+Crimes
+
+2011-23 Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU Directive 2013/40/EU
 
 Crimes
 
@@ -404,7 +408,7 @@ Computer misuse offences
 
 Crimes
 
-2011-23 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc. 365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364 or 365. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
+2011-23 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc. 365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364, 365 or 366A. 366A.  Unauthorised acts causing, or creating risk of, serious damage. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
 
 Jurisdiction
 
@@ -420,11 +424,11 @@ PART 16 THEFT AND FRAUD
 
 Definition of theft
 
-391. Basic definition of theft. 392. “Dishonestly”. 393. “Appropriates”.
+391. Basic definition of theft. 392. “Dishonestly”.
 
 Crimes
 
-2011-23 394. “Property”. 395. “Belonging to another”. 396. “With the intention of permanently depriving the other of it”.
+2011-23 393. “Appropriates”. 394. “Property”. 395. “Belonging to another”. 396. “With the intention of permanently depriving the other of it”.
 
 Theft, robbery, burglary etc.
 
@@ -444,11 +448,11 @@ Blackmail
 
 Fraud
 
-415. Offence of fraud. 416. Fraud by false representation. 417. Fraud by failing to disclose information. 418. Fraud by abuse of position. 419. Possession etc. of articles for use in frauds. 420. Making or supplying articles for use in frauds. 421. Participating in fraudulent business carried on by sole trader etc. 422. Obtaining services dishonestly. 423. Fraud: Definitions. 424. Fraud: Evidence.
+415. Offence of fraud. 416. Fraud by false representation. 417. Fraud by failing to disclose information. 418. Fraud by abuse of position. 419. Possession etc. of articles for use in frauds. 420. Making or supplying articles for use in frauds. 421. Participating in fraudulent business carried on by sole trader etc. 422. Obtaining services dishonestly. 423. Fraud: Definitions.
 
 Crimes
 
-2011-23
+2011-23 424. Fraud: Evidence.
 
 Offences akin to fraud
 
@@ -474,7 +478,9 @@ Penalties and powers
 
 Crimes
 
-2011-23 450. Penalties for forgery offences. 451. Penalties for counterfeiting offences. 452. Powers of search and seizure. 453. Power of forfeiture.
+2011-23
+
+450. Penalties for forgery offences. 451. Penalties for counterfeiting offences. 452. Powers of search and seizure. 453. Power of forfeiture.
 
 Counterfeiting of Euros
 
@@ -498,11 +504,9 @@ Miscellaneous provisions
 
 PART 19 OFFENCES RELATING TO JUDICIAL PROCEEDINGS
 
-Reporting, etc.
-
 Crimes
 
-2011-23
+2011-23 Reporting, etc.
 
 474. Restriction on reports of family proceedings. 475. Publication of information relating to proceedings in private. 476. Restriction on reports of other judicial proceedings. 477. Taking photographs, etc. in court.
 
@@ -532,7 +536,9 @@ Indecent displays
 
 Crimes
 
-2011-23 PART 21 DRUGS MISUSE
+2011-23
+
+PART 21 DRUGS MISUSE
 
 Preliminary
 
@@ -558,7 +564,9 @@ Miscellaneous
 
 Crimes
 
-2011-23 525. Forfeiture. 526. Evidence and defences. 527. Licences and authorities. 528. Certificate of analysis. 529. General provisions as to regulations. 530. Advisory Council.
+2011-23
+
+525. Forfeiture. 526. Evidence and defences. 527. Licences and authorities. 528. Certificate of analysis. 529. General provisions as to regulations. 530. Advisory Council.
 
 PART 22 CRIMINAL TRESPASS
 
@@ -584,11 +592,11 @@ PART 23 PUBLIC NUISANCES, ETC.
 
 Public nuisances
 
-547. Feeding of Barbary Macaques. 548. Noise.
+547. Feeding of Barbary Macaques.
 
 Crimes
 
-2011-23 549. Exemptions. 550. Other nuisances. 551. Disposal of proceeds of sale, etc. 552. Posting bills and graffiti. 553. Prohibited areas for pleasure boats and bathing. 554. Vessels not to inconvenience bathers. 555. Underwater fishing. 556. Discharging firearms, etc.
+2011-23 548. Noise. 549. Exemptions. 550. Other nuisances. 551. Disposal of proceeds of sale, etc. 552. Posting bills and graffiti. 553. Prohibited areas for pleasure boats and bathing. 554. Vessels not to inconvenience bathers. 555. Underwater fishing. 556. Discharging firearms, etc.
 
 Intoxication
 
@@ -616,7 +624,9 @@ Prosecution and penalties
 
 Crimes
 
-2011-23 575. Consent to prosecution. 576. Penalties.
+2011-23
+
+575. Consent to prosecution. 576. Penalties.
 
 Miscellaneous
 
@@ -638,11 +648,11 @@ The Armed Forces
 
 PART 27 SUPPLEMENTARY PROVISIONS
 
-598. Regulations. 599. Repeals and savings. 600. Savings for other laws. 601. Transitional provisions.
+598. Regulations. 599. Repeals and savings. 600. Savings for other laws.
 
 Crimes
 
-2011-23 602. Consequential amendments.
+2011-23 601. Transitional provisions. 602. Consequential amendments.
 
 SCHEDULE 1 Forfeiture of indecent photographs of children
 
