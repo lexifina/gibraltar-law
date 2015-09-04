@@ -2,7 +2,7 @@ SCHEDULE 2
 
 regulation 2
 
-List of substances, preparations and processes which also constitute carcinogens
+List of substances, mixtures and processes which also constitute carcinogens
 
 1. Manufacture of auramine.
 

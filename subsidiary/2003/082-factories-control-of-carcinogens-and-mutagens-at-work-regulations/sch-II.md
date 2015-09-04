@@ -500,7 +500,9 @@ The concentration limits expressed as a volume/volume percentage in Table I A be
 
 Table I A
 
-Classification of the substance (gas) Classification of the gaseous preparation
+Classification of the substance (gas)
+
+Classification of the gaseous preparation
 
 T+ T Xn T+ with R26, R27, R28 concentration 1% 0,2%  concentration <1% 0,02%  concentration <0,2% T with R23, R24, R25
 

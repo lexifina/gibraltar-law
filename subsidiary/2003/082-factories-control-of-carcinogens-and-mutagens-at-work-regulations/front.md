@@ -12,9 +12,11 @@ FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003
 
 Amending enactments Relevant current provisions Commencement date LN. 2005/091 rr. 4(1)(f), (g), 5(2)(k), (l), (m), 8(1)(d), (e), (f), 9(1), 9A, 10A
 
-2.6.2005
+2.6.2005 2015/143 rr. 2(1), (2), 4(1)(b), 5(2), Sch. 1, 2
 
-Transposing: Directive 90/394/EEC Directive 2004/37/EC
+4.9.2015
+
+Transposing: Directive 90/394/EEC Directive 2004/37/EC Directive 2014/27/EU
 
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
@@ -28,7 +30,7 @@ Regulation
 
 SCHEDULE 1 Part 1 - Carcinogens and mutagens Part 2 - Annex I to Directive 67/548/EEC Part 3 - Annex VI to Directive 67/548/EEC Part 4 - Annex II to Directive 99/45/EEC
 
-SCHEDULE 2 List of substances, preparations and processes which also constitute carcinogens
+SCHEDULE 2 List of substances, mixtures and processes which also constitute carcinogens
 
 SCHEDULE 3 Limit values for occupational exposure
 
@@ -50,7 +52,7 @@ Interpretation and scope.
 
 (a) a substance described in Schedule 1; and
 
-(b) a substance, preparation or process referred to in Schedule 2 as well as a substance or preparation released by a process referred to in Schedule 2;
+(b) a substance, mixture or process referred to in Schedule 2 as well as a substance or mixture released by a process referred to in Schedule 2;
 
 “inspector”  means a person appointed under section 77 of the Factories Act to be an inspector;
 
@@ -58,7 +60,7 @@ Interpretation and scope.
 
 “mutagen” means a substance described in Schedule 1.
 
-(2) Where a provision in these Regulations is more favourable to health and safety than an equivalent provision in the Control of Asbestos AT Work Regulations then the provision contained in these Regulations shall take precedence.
+(2) Where a provision in these Regulations is more favourable to health and safety than an equivalent provision in the Control of Asbestos Regulations 2007 then the provision contained in these Regulations shall take precedence.
 
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
@@ -80,7 +82,7 @@ Inspection of Assessment.
 
 (a) the activities or industrial process in which carcinogens and mutagens are used;
 
-(b) the quantities of substances or preparations manufactured or used which contain carcinogens or mutagens;
+(b) the quantities of substances or mixtures manufactured or used which contain carcinogens or mutagens;
 
 (c) the number of workers exposed;
 
@@ -112,7 +114,7 @@ Prevention or control of exposure.
 
 (ii) does not exceed the limit value.
 
-(2) Without prejudice to the generality of subregulation (1), where the assessment made under regulation 3 shows that it is not reasonably practicable to prevent exposure to a carcinogen or mutagen by using an alternative substance or process, the employer shall apply the following measures, namely–
+(2) Without prejudice to the generality of subregulation (1), where the assessment made under regulation 3 shows that it is not reasonably practicable to prevent exposure to a carcinogen or mutagen by using an alternative substance, mixture or process, the employer shall apply the following measures, namely–
 
 (a) the total enclosure of the process of handling systems unless this is not reasonably practicable;
 
@@ -272,35 +274,15 @@ SCHEDULE 1 regulation 2 PART 1
 
 CARCINOGENS AND MUTAGENS
 
-1.  A carcinogen is-
+1. A carcinogen is–
 
-(a) a substance which meet the criteria for classification as a category 1 or 2 carcinogen set out Part 3;
+(a) a substance or mixture which meets the criteria for classification as a category 1A or 1B carcinogen set out in Annex I to Regulation (EC) No 1272/2008 of the European Parliament and of the Council;
 
-(b) a preparation composed of one or more substances referred to in paragraph (a) where the concentration of one or more of the individual substances meets the requirements for concentration limits for the classification of a preparation as a category 1 or 2 carcinogen set out either-
+(b) a substance, mixture or process referred to in Schedule 2 as well as a substance or mixture released by a process referred to in Schedule 2.
 
-(i) in Part 2; or
+2. A mutagen is–
 
-(ii) in Part 4 where the substance or substances do not appear in Part 2 or appear in it without concentration limits;
-
-(ii) a substance, preparation or process referred to in Schedule 2 as well as a substance or preparation released by a process referred to in Schedule 2.
-
-2.  A mutagen is-
-
-(a) a substance which meet the criteria for classification as a category 1 or 2 mutagen set out in Part 3;
-
-(b) a preparation composed of one or more substances referred to in paragraph (a) where the concentration of one or more of the individual substances meets the requirements for concentration limits for the classification of a preparation as a category 1 or 2 mutagen set out either-
-
-(i) in Part 2; or
-
-(ii) in Part 4 where the substance or substances do not appear in Part 2 or appear in it without concentration limits;
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-(iii) a substance, preparation or process referred to in Schedule 2 as well as a substance or preparation released by a process referred to in Schedule 2.
+a substance or mixture which meets the criteria for classification as a category 1A or 1B germ cell mutagen set out in Annex I to Regulation (EC) No 1272/2008 of the European Parliament and of the Council.
 
 PART 2
 
@@ -316,7 +298,11 @@ Numbering of entries.
 
 Entries in Annex I are listed according to the atomic number of the element most characteristic of the substanceís properties.  A list of the chemical elements, arranged according to atomic number is shown in Table A. Organic substances, because of their variety, have been placed in the usual classes, as shown in Table B.
 
-The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y, where:
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082 The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y, where:
 
 - ABC is either the atomic number of the most characteristic chemical element (preceded by one or two zeros to make up the sequence) or the usual class number for organic substances,
 
@@ -328,13 +314,7 @@ The Index number for each substance is in the form of a digit sequence of the ty
 
 As an example, the Index number for sodium chlorate is 017-005-00-9.
 
-For dangerous substances in the European Inventory of Existing Commercial Chemical Substance (Einecs, OJ No. C 146A, 15.6.1990) the
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Einecs number is included.  This number is a seven-digit system of the type XXX-XXX-X which starts at 200-001-8.
+For dangerous substances in the European Inventory of Existing Commercial Chemical Substance (Einecs, OJ No. C 146A, 15.6.1990) the Einecs number is included.  This number is a seven-digit system of the type XXX-XXX-X which starts at 200-001-8.
 
 For dangerous substances notified under the provisions of this Directive, the number of the substance in the European List of Notified Substance (Elincs) is included. This number is a seven-digit system of the type XXX-XXX-X which starts at 400-010-9.
 
@@ -346,19 +326,19 @@ Einecs, Elincs, “No-longer-polymer” or CAS numbers are not usually included 
 
 Nomenclature.
 
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082
+
 Wherever possible, dangerous substances are designated by their Einecs, Elincs or “No-longer-polymer” names. Other substances not listed in Einecs, Elincs or the list of “No-longer-polymers” are designated using an internationally recognised chemical name (e.g. ISO, IUPAC). An additional common name is included in some cases.
 
 Impurities, additives and minor components are normally not mentioned unless they contribute significantly to the classification of the substance.
 
 Some substances are described as a mixture of A and B. These entries refer to one specific mixture. In some cases where it is necessary to characterise the substance put on the market, the proportions of the main substances in the mixture are specified.
 
-Some substances are described with a specific percentage purity. Substances containing a higher content of active material (e.g. an organic peroxide) are not included in the Annex I entry and may have other hazardous properties (e.g. explosive). Where specific concentration limits are shown, these apply
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 to the substance or substances shown in the entry. In particular, in the case of entries which are mixtures of substances or substances described with a specific percentage purity, the limits apply to the substance as described in Annex I and not the pure substance.
+Some substances are described with a specific percentage purity. Substances containing a higher content of active material (e.g. an organic peroxide) are not included in the Annex I entry and may have other hazardous properties (e.g. explosive). Where specific concentration limits are shown, these apply to the substance or substances shown in the entry. In particular, in the case of entries which are mixtures of substances or substances described with a specific percentage purity, the limits apply to the substance as described in Annex I and not the pure substance.
 
 Article 23(2)(a) requires that for substances appearing in Annex I, the name of the substance to be used on the label should be one of the designations given in the Annex. For certain substances, additional information has been added in square brackets in order to help identify the substance. This additional information need not be included on the label.
 
@@ -370,17 +350,17 @@ Format of entries.
 
 The following information is given for each substance in Annex I:
 
-(a) the classification:
-
-(i) the process of classification consists of placing a substance in one or more categories of danger (as defined in Article 2(2) of Directive 92/32/EEC) and assigning the qualifying risk phrase or phrases. The classification has consequences not only for labelling but also for other legislation and regulatory measures on dangerous substances;
-
-(ii) the classification for each category of danger is normally presented in the form of an abbreviation representing the category of danger together with the appropriate risk phrase or phrases. However, in some cases (i.e. substances classified as flammable, sensitising and some substances classified as dangerous for the environment) the risk phrase alone is used;
-
 Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
 
 1956-12
 
 Subsidiary 2003/082
+
+(a) the classification:
+
+(i) the process of classification consists of placing a substance in one or more categories of danger (as defined in Article 2(2) of Directive 92/32/EEC) and assigning the qualifying risk phrase or phrases. The classification has consequences not only for labelling but also for other legislation and regulatory measures on dangerous substances;
+
+(ii) the classification for each category of danger is normally presented in the form of an abbreviation representing the category of danger together with the appropriate risk phrase or phrases. However, in some cases (i.e. substances classified as flammable, sensitising and some substances classified as dangerous for the environment) the risk phrase alone is used;
 
 (iii) the abbreviation for each of the categories of danger is shown below:
 
@@ -414,7 +394,15 @@ Subsidiary 2003/082
 
 - dangerous for the environment: N or/and R52, R53, R59;
 
-(iv) Additional risk phrases which have been assigned to describe other properties (see sections 2.2.6 and 3.2.8 of the labelling guide) are shown although they are not formally part of the classification.
+(iv) Additional risk phrases which have been assigned to describe other properties (see sections 2.2.6 and 3.2.8 of
+
+(1) The category of carcinogen, mutagen or toxic for reproduction (i.e. 1, 2 or 3) is shown as appropriate.
+
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082 the labelling guide) are shown although they are not formally part of the classification.
 
 (b) the label, including:
 
@@ -423,14 +411,6 @@ Subsidiary 2003/082
 (ii) the risk phrases, denoted as a series of numbers preceded by the letter R indicating the nature of the special risks, in accordance with Annex III (see Article 23(2)(d)). The numbers are separated by either:
 
 - a dash (-) to denote separate statements concerning special risks (R), or
-
-(1) The category of carcinogen, mutagen or toxic for reproduction (i.e. 1, 2 or 3) is shown as appropriate.
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 - an oblique stroke (/) to denote a combined statement, in a single sentence, of the special risks as set out in Annex III;
 
@@ -442,6 +422,12 @@ S1, S2 and S45 are obligatory for all very toxic, toxic and corrosive substances
 
 S2 and S46 are obligatory for all other dangerous substances and preparations sold to the general public other than those that have only been classified as dangerous for the environment.
 
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082
+
 Safety phrases S1 and S2 are shown in brackets in Annex I and can only be omitted from the label when the substance or preparation is sold for industrial use only.
 
 (c) the concentration limits and associated classifications necessary to classify dangerous preparations containing the substance in accordance with Directive 1999/45/EC.
@@ -449,12 +435,6 @@ Safety phrases S1 and S2 are shown in brackets in Annex I and can only be omitte
 Unless otherwise shown, the concentration limits are a percentage by weight of the substance calculated with reference to the total weight of the preparation.
 
 Where no concentration limits are given, the concentration limits to be used when applying the conventional method of assessing health hazards are those in Annex II, and when applying the conventional method of assessing environmental hazards are those in Annex III of Directive 1999/45/EC.
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 General Explanatory Notes.
 
@@ -465,6 +445,12 @@ A number of group entries are included in Annex I. In these cases, the classific
 In some cases, there are classification and labelling requirements for specific substances that would be covered by the group entry. In such cases a specific Annex I entry will be present for the substance and the group entry will be annotated with the phrase “except those specified elsewhere in this Annex”.
 
 In some cases, individual substances may be covered by more than one group entry. Lead oxalate (Einecs No 212-413-5) is for instance covered by the entry for lead compounds (Index No 082-001-00-6) as well as for salts of oxalic acid (607-007- 00-3). In these cases, the labelling of the substance reflects the labelling for each of the two group entries. In cases where different classifications for the same hazard are given, the classification leading to the more severe classification is used for the label of the particular substance (see section on Note A below).
+
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082
 
 Entries in Annex I for salts (under any denomination) cover both anhydrous and hydrous forms unless specifically specified otherwise.
 
@@ -478,12 +464,6 @@ Note A:
 
 The name of the substance must appear on the label in the form of one of the designations given in Annex I (see Article 23(2)(a)).
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 In Annex I, use is sometimes made of a general description such as “... compounds” or “... salts”. In this case, the manufacturer or any other person who markets such a substance is required to state on the label the correct name, due account being taken of the chapter entitled “Nomenclature” of the Foreword:
 
 Example: for BeCl2 (Einecs No 232-116-4): beryllium chloride.
@@ -496,7 +476,11 @@ For substances belonging to more than one group of substances included in Annex 
 
 Example:
 
-for substance AB - no individual entry in Annex I:
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082 for substance AB - no individual entry in Annex I:
 
 Annex I group entry for compounds of A:
 
@@ -514,12 +498,6 @@ Note B
 
 Some substances (acids, bases, etc.) are placed on the market in aqueous solutions at various concentrations and, therefore, these solutions require different labelling since the hazards vary at different concentrations.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 In Annex I entries with Note B have a general designation of the following type: “nitric acid ...%”.
 
 In this case the manufacturer or any other person who markets such a substance in aqueous solution must state the percentage concentration of the solution on the label.
@@ -536,7 +514,11 @@ Some organic substances may be marketed either in a specific isomeric form or as
 
 In Annex I, a general designation of the following type is sometimes used: “xylenol”.
 
-In this case the manufacturer or any other person who markets such a substance must state on the label whether the substance is a specific isomer (a) or a mixture of isomers (b).
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082 In this case the manufacturer or any other person who markets such a substance must state on the label whether the substance is a specific isomer (a) or a mixture of isomers (b).
 
 Example:
 
@@ -550,11 +532,7 @@ Certain substances which are susceptible to spontaneous polymerisation or decomp
 
 However, such substances are sometimes placed on the market in a non- stabilised form. In this case, the manufacturer or any person who places such a substance on the market must state on the label the name of the substance followed by the words “non-stabilised”.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Example: methacrylic acid (non-stabilised).
+Example: methacrylic acid (non-stabilised).
 
 Note E:
 
@@ -574,6 +552,12 @@ Note F:
 
 This substance may contain a stabiliser. If the stabiliser changes the dangerous properties of the substance, as indicated by the label in Annex I, a label should be provided in accordance with the rules for the labelling of dangerous preparations.
 
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082
+
 Note G:
 
 This substance may be marketed in an explosive form in which case it must be evaluated using the appropriate test methods and a label should be provided reflecting its explosive property.
@@ -585,12 +569,6 @@ The classification and label shown for this substance applies to the dangerous p
 This note applies to certain coal- and oil-derived substances and to certain entries for groups of substances in Annex I.
 
 Note J:
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 The classification as a carcinogen need not apply if it can be shown that the substance contains less than 0.1 % w/w benzene (Einecs No 200-753-7). This note applies only to certain complex coal- and oil-derived substances in Annex I.
 
@@ -604,7 +582,13 @@ The classification as a carcinogen need not apply if it can be shown that the su
 
 Note M:
 
-The classification as a carcinogen need not apply if it can be shown that the substance contains less than 0.005 % w/w benzo[a]-pyrene (Einecs No 200- 028-5). This note applies only to certain complex coal-derived substances in Annex I.
+The classification as a carcinogen need not apply if it can be shown that the substance contains less than 0.005 % w/w benzo[a]-pyrene (Einecs No 200-
+
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082 028-5). This note applies only to certain complex coal-derived substances in Annex I.
 
 Note N:
 
@@ -617,12 +601,6 @@ The classification as a carcinogen need not apply if it can be shown that the su
 When the substance is classified as a carcinogen, Note E shall also apply. When the substance is not classified as a carcinogen at least the S-phrases (2-)23-24-62 shall apply.
 
 This note applies only to certain complex oil-derived substances in Annex I.
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 Note Q:
 
@@ -638,7 +616,11 @@ The classification as a carcinogen need not apply if it can be shown that the su
 
 Note R:
 
-The classification as a carcinogen need not apply to fibres with a length weighted geometric mean diameter less two standard geometric errors greater than 6µm.
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082 The classification as a carcinogen need not apply to fibres with a length weighted geometric mean diameter less two standard geometric errors greater than 6µm.
 
 Note S:
 
@@ -653,12 +635,6 @@ Note 1:
 The concentration stated or, in the absence of such concentrations, the general concentrations of Directive 1999/45/EC are the percentages by weight of the metallic element calculated with reference to the total weight of the preparation.
 
 Note 2:
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 The concentration of isocyanate stated is the percentage by weight of the free monomer calculated with reference to the total weight of the preparation.
 
@@ -675,6 +651,12 @@ Note 5:
 The concentration limits for gaseous preparations are expressed as volume per volume percentage.
 
 Note 6 :
+
+Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+
+1956-12
+
+Subsidiary 2003/082
 
 Preparations containing these substances have to be assigned R67 if they meet the criteria in Section 3.2.8 in Annex VI.
 
