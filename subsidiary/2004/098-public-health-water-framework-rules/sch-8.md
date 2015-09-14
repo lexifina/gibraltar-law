@@ -130,6 +130,22 @@ PART 2: ADDITIONAL MATTERS TO BE INCLUDED IN REVISED PLANS
 
 16. A summary of any additional interim measures since the publication of the previous version of the plan.
 
+17. A table presenting the limits of quantification of the methods of analysis applied, and information on the performance of those methods in relation to the minimum performance criteria laid down in paragraph 3 of Schedule 11.
+
+18. Where the option in rule 10A(5) is used –
+
+(a) the reasons and basis for using that option;
+
+Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+
+1950-07
+
+Subsidiary 2004/098 (b) where relevant, the alternative EQS established, evidence that those EQS would offer at least the same level of protection as the EQS laid down in Part A of Schedule 9, including the data and methodology used to derive the EQS, and the categories of surface water to which they would apply;
+
+(c) for comparison with the information referred to in paragraph 17, the limits of quantification of the methods of analysis for the matrices specified in Part A of Schedule 9, including information on the performance of those methods in relation to the minimum performance criteria laid down in paragraph 3 of Schedule 11.
+
+19. Justification for the frequency of monitoring applied in accordance with rule 10AA(3), if monitoring intervals are longer than one year.
+
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
