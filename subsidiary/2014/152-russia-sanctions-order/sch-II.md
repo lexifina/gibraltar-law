@@ -16,13 +16,15 @@ CN Code Description 7304 11 00 Line pipe of a kind used for oil or gas pipelines
 
 7304 29 30 Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, of an external diameter exceeding 168,3 mm, but not exceeding 406,4 mm (excl. products of cast iron)
 
+7304 29 90 Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, of an external diameter exceeding 406,4 mm (excl. products of cast iron)
+
+7305 11 00 Line pipe of a kind used for oil or gas pipelines, having circular cross-sections and an external diameter of
+
 Export Control RUSSIA SANCTIONS ORDER 2014
 
 2005-33
 
-Subsidiary 2014/152 7304 29 90 Casing and tubing of a kind used for drilling for oil or gas, seamless, of iron or steel, of an external diameter exceeding 406,4 mm (excl. products of cast iron)
-
-7305 11 00 Line pipe of a kind used for oil or gas pipelines, having circular cross-sections and an external diameter of exceeding 406,4 mm, of iron or steel, longitudinally submerged arc welded
+Subsidiary 2014/152 exceeding 406,4 mm, of iron or steel, longitudinally submerged arc welded
 
 7305 12 00 Line pipe of a kind used for oil or gas pipelines, having circular cross-sections and an external diameter of exceeding 406,4 mm, of iron or steel, longitudinally arc welded (excl. products longitudinally submerged arc welded) 7305 19 00 Line pipe of a kind used for oil or gas pipelines, having circular cross-sections and an external diameter of exceeding 406,4 mm, of flat-rolled products of iron or steel (excl. products longitudinally arc welded)
 
@@ -36,13 +38,13 @@ Subsidiary 2014/152 7304 29 90 Casing and tubing of a kind used for drilling for
 
 8207 19 10 Rock-drilling or earth-boring tools, interchangeable, with working parts of diamond or agglomerated diamond
 
-ex8413 50 Reciprocating positive displacement pumps for liquids,
+ex8413 50 Reciprocating positive displacement pumps for liquids, power-driven with a maximum flow-rate greater than 18 m3/hour and a maximum outlet pressure greater than 40 bar, specially designed to pump drilling muds and/or cement into oil wells ex8413 60 Rotary positive displacement pumps for liquids, power- driven with a maximum flow- rate greater than 18 m3/hour
 
 Export Control RUSSIA SANCTIONS ORDER 2014
 
 2005-33
 
-Subsidiary 2014/152 power-driven with a maximum flow-rate greater than 18 m3/hour and a maximum outlet pressure greater than 40 bar, specially designed to pump drilling muds and/or cement into oil wells ex8413 60 Rotary positive displacement pumps for liquids, power- driven with a maximum flow- rate greater than 18 m3/hour and a maximum outlet pressure greater than 40 bar, specially designed to pump drilling muds and/or cement into oil wells 8413 82 00 Liquid elevators (excl. pumps)
+Subsidiary 2014/152 and a maximum outlet pressure greater than 40 bar, specially designed to pump drilling muds and/or cement into oil wells 8413 82 00 Liquid elevators (excl. pumps)
 
 8413 92 00 Parts of liquid elevators, n.e.s.
 

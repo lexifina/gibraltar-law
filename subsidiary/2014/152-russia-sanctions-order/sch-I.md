@@ -200,15 +200,39 @@ Subsidiary 2014/152 use of goods included in that list, to any natural or legal 
 
 2. The prohibitions in paragraph 1 shall be without prejudice to the execution of contracts concluded before 1 August 2014, or ancillary contracts necessary for the execution of such contracts, and to the provision of assistance necessary for the maintenance and safety of existing capabilities within the EU.
 
-3. The provision of the following shall be subject to an authorisation from the competent authority concerned–
+2a. The prohibitions in points (a) and (b) of paragraph 1 shall not apply to the provision, directly or indirectly, of technical assistance, financing or financial assistance, related to the following operations:
 
-(a) technical assistance or brokering services related to items listed in Annex II and to the provision, manufacture, maintenance and use of those items, directly or indirectly, to any natural or legal person, entity or body in Russia, including its Exclusive Economic Zone and Continental Shelf or, if such assistance concerns items for use in Russia, including its Exclusive Economic Zone and Continental Shelf, to any person, entity or body in any other State;
+(a) the sale, supply, transfer or export and to the import, purchase or transport of Hydrazine (CAS 302-01-2) in concentrations of 70 per cent or more, provided that that technical assistance, financing or financial assistance refers to an amount of Hydrazine calculated in accordance with the launch or launches or the satellites for which it is made, and which does not exceed a total quantity of 800 kg for each individual launch or satellite;
 
 Export Control RUSSIA SANCTIONS ORDER 2014
 
 2005-33
 
-Subsidiary 2014/152 (b) financing or financial assistance related to items referred to in Annex II, including in particular grants, loans and export credit insurance, for any sale, supply, transfer or export of those items, or for any provision of related technical assistance, directly or indirectly, to any natural or legal person, entity or body in Russia, including its Exclusive Economic Zone and Continental Shelf or, if such assistance concerns items for use in Russia, including its Exclusive Economic Zone and Continental Shelf, to any person, entity or body in any other State. In duly justified cases of emergency referred to in Article 3(5), the provision of services referred to in this paragraph may proceed without prior authorisation, on condition that the provider notifies the competent authority within five working days after the provision of services.
+Subsidiary 2014/152
+
+(b) the import, purchase or transport of Unsymmetrical dimethyl hydrazine (CAS 57-14-7);
+
+(c) the sale, supply, transfer or export and to the import, purchase or transport of monomethyl hydrazine (CAS60-34-4), provided that that technical assistance, financing or financial assistance refers to an amount of Monomethyl Hydrazine calculated in accordance with the launch or launches or the satellites for which it is made,
+
+insofar as the substances mentioned in points (a), (b) and (c) of this paragraph are destined for the use of launchers operated by European launch service providers, for the use of launches of European space programmes, or for the fuelling of satellites by European satellites manufacturers.
+
+2b. The provision, directly or indirectly, of technical assistance, financing or financial assistance, related to the operations referred to in points (a), (b) and (c) of paragraph 2a shall be subject to prior authorisation by the competent authorities.
+
+Applicants for authorisation shall supply the competent authorities with all relevant information required.
+
+The competent authorities shall inform the Commission of all the authorisations granted.
+
+3. The provision of the following shall be subject to an authorisation from the competent authority concerned–
+
+(a) technical assistance or brokering services related to items listed in Annex II and to the provision, manufacture, maintenance and use of those items, directly or indirectly, to any natural or legal person, entity or body in Russia, including its Exclusive Economic Zone and Continental Shelf or, if such assistance concerns items for use in Russia, including its Exclusive Economic Zone and Continental Shelf, to any person, entity or body in any other State;
+
+(b) financing or financial assistance related to items referred to in Annex II, including in particular grants, loans and export credit insurance, for any sale, supply, transfer or export of those items, or for any provision of related technical assistance, directly or indirectly, to any natural or legal person, entity or body in Russia, including its Exclusive Economic Zone and Continental Shelf or, if such assistance concerns items for use
+
+Export Control RUSSIA SANCTIONS ORDER 2014
+
+2005-33
+
+Subsidiary 2014/152 in Russia, including its Exclusive Economic Zone and Continental Shelf, to any person, entity or body in any other State. In duly justified cases of emergency referred to in Article 3(5), the provision of services referred to in this paragraph may proceed without prior authorisation, on condition that the provider notifies the competent authority within five working days after the provision of services.
 
 4.  Where authorisations are requested pursuant to paragraph 2 of this Article, Article 3, and in particular paragraphs 2 and 5 thereof, shall apply mutatis mutandis.
 
@@ -224,13 +248,13 @@ Article 5
 
 2.  It shall be prohibited to directly or indirectly purchase, sell, provide investment services for or assistance in the issuance of, or otherwise deal with transferable securities and money-market instruments with a maturity exceeding 30 days, issued after 12 September 2014 by–
 
+(a) a legal person, entity or body established in Russia predominantly engaged and with major activities in the conception, production, sales or export of military equipment or services, as listed in Annex V, except legal persons, entities or bodies active in the space or the nuclear energy sectors;
+
 Export Control RUSSIA SANCTIONS ORDER 2014
 
 2005-33
 
-Subsidiary 2014/152 (a) a legal person, entity or body established in Russia predominantly engaged and with major activities in the conception, production, sales or export of military equipment or services, as listed in Annex V, except legal persons, entities or bodies active in the space or the nuclear energy sectors;
-
-(b) a legal person, entity or body established in Russia, which are publicly controlled or with over 50% public ownership and having estimated total assets of over 1 trillion Russian Roubles and whose estimated revenues originate for at least 50% from the sale or transportation of crude oil or petroleum products, as listed in Annex VI;
+Subsidiary 2014/152 (b) a legal person, entity or body established in Russia, which are publicly controlled or with over 50% public ownership and having estimated total assets of over 1 trillion Russian Roubles and whose estimated revenues originate for at least 50% from the sale or transportation of crude oil or petroleum products, as listed in Annex VI;
 
 (c) a legal person, entity or body established outside the Union whose proprietary rights are directly or indirectly owned for more than 50% by an entity listed in point (a) or (b) of this paragraph; or
 
@@ -246,13 +270,15 @@ The prohibition shall not apply to–
 
 4. The prohibition in paragraph 3 shall not apply to drawdown or disbursements made under a contract concluded before 12 September 2014 provided that the following conditions are met:
 
+(a)  all the terms and conditions of such drawdown or disbursements:
+
+(i)  were agreed before 12 September 2014; and
+
 Export Control RUSSIA SANCTIONS ORDER 2014
 
 2005-33
 
-Subsidiary 2014/152 (a)  all the terms and conditions of such drawdown or disbursements:
-
-(i)  were agreed before 12 September 2014; and
+Subsidiary 2014/152
 
 (ii) have not been modified on or after that date; and
 
@@ -278,15 +304,15 @@ Article 8
 
 1. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
 
+2. Member States shall notify the rules referred to in paragraph 1 to the Commission without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+Article 9
+
 Export Control RUSSIA SANCTIONS ORDER 2014
 
 2005-33
 
-Subsidiary 2014/152 2. Member States shall notify the rules referred to in paragraph 1 to the Commission without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
-
-Article 9
-
-1.  Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex I. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex I.
+Subsidiary 2014/152 1.  Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex I. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex I.
 
 2.  Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
 
@@ -304,15 +330,15 @@ Article 11
 
 (b) any other Russian person, entity or body;
 
+(c) any person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in points (a) or (b) of this paragraph.
+
+2.  In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the person seeking the enforcement of that claim.
+
 Export Control RUSSIA SANCTIONS ORDER 2014
 
 2005-33
 
-Subsidiary 2014/152 (c) any person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in points (a) or (b) of this paragraph.
-
-2.  In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the person seeking the enforcement of that claim.
-
-3.  This Article is without prejudice to the right of the persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+Subsidiary 2014/152 3.  This Article is without prejudice to the right of the persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
 
 Article 12
 
@@ -336,12 +362,144 @@ Article 14
 
 This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 This Regulation shall be binding in its entirety and directly applicable in all Member States.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
 Done at Brussels, 31 July 2014.
 
 For the Council The President S. GOZI
+
+Export Control RUSSIA SANCTIONS ORDER 2014
+
+2005-33
+
+Subsidiary 2014/152 ANNEX I
+
+Websites for information on the competent authorities and address for notification to the European Commission
+
+1. Information on competent authorities of the Member States
+
+BELGIUM
+
+http://www.diplomatie.be/eusanctions
+
+BULGARIA
+
+http://www.mfa.bg/en/pages/135/index.html
+
+CZECH REPUBLIC
+
+http://www.mfcr.cz/mezinarodnisankce
+
+DENMARK
+
+http://um.dk/da/politik-og-diplomati/retsorden/sanktioner/
+
+GERMANY
+
+http://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht, did=404888.html
+
+ESTONIA
+
+http://vm.ee/et/estonian-competent-authorities-implementation-eu- restrictive-measures
+
+IRELAND
+
+http://www.dfa.ie/home/index.aspx?id=28519
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international- sanctions.html
+
+SPAIN
+
+Export Control RUSSIA SANCTIONS ORDER 2014
+
+2005-33
+
+Subsidiary 2014/152 http://www.exteriores.gob.es/Portal/es/PoliticaExteriorCooperacion/Globali zacionOportunidadesRiesgos/Documents/ORGANISMOS%20COMPETEN TES%20SANCIONES%20INTERNACIONALES.pdf
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/autorites-sanctions/
+
+CROATIA
+
+http://www.mvep.hr/sankcije
+
+ITALY
+
+http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm
+
+CYPRUS
+
+http://www.mfa.gov.cy/sanctions
+
+LATVIA
+
+http://www.mfa.gov.lv/en/security/4539
+
+LITHUANIA
+
+http://www.urm.lt/sanctions
+
+LUXEMBOURG
+
+http://www.mae.lu/sanctions
+
+HUNGARY
+
+http://2010-2014.kormany.hu/download/b/3b/70000/ENSZBT-ET- szankcios-tajekoztato.pdf
+
+MALTA
+
+https://www.gov.mt/en/Government/Government%20of%20Malta/Ministrie s%20and%20Entities/Officially% 20Appointed%20Bodies/Pages/Boards/Sanctions-Monitoring-Board-.aspx
+
+NETHERLANDS
+
+Export Control RUSSIA SANCTIONS ORDER 2014
+
+2005-33
+
+Subsidiary 2014/152 www.rijksoverheid.nl/onderwerpen/internationale-vrede-en- veiligheid/sancties
+
+AUSTRIA http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=
+
+POLAND
+
+http://www.msz.gov.pl
+
+PORTUGAL
+
+http://www.portugal.gov.pt/pt/os-ministerios/ministerio-dos-negocios- estrangeiros/quero-saber-mais/sobre-o-ministerio/medidas- restritivas/medidas-restritivas.aspx
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA http://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_ politika/mednarodna_varnost/omejevalni_ ukrepi/
+
+SLOVAKIA
+
+http://www.mzv.sk/sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+http://formin.finland.fi/kvyhteistyo/pakotteet
+
+SWEDEN
+
+http://www.ud.se/sanktioner
+
+UNITED KINGDOM
+
+https://www.gov.uk/sanctions-embargoes-and-restrictions
+
+2. Address for notifications to the European Commission:
+
+European Commission Service for Foreign Policy Instruments (FPI) EEAS 02/309 B-1049 Brussels
+
+Export Control RUSSIA SANCTIONS ORDER 2014
+
+2005-33
+
+Subsidiary 2014/152 Belgium E-mail: relex-sanctions@ec.europa.eu
