@@ -10,7 +10,7 @@ ANIMALS AND BIRDS RULES 2004
 
 1.10.2004
 
-Amending enactments Relevant current provisions Commencement date 2006/045 Corrigenda 2006/129 r. 23A 16.11.2006
+Amending enactments Relevant current provisions Commencement date 2006/045 Corrigenda 2006/129 r. 23A 16.11.2006 2015/194 rr. 11(1)(b), 11A, Sch.7 15.10.2015
 
 Implementing: Regulation (EC) No 998/2003
 
@@ -48,13 +48,13 @@ PART IV
 
 CONTROL, REGISTRATION AND LICENSING OF DOGS
 
-11. Control of dogs. 12. Fouling of streets etc. 13. Form of dog register. 14. Particulars to be furnished on registration. 15. Registration badge and fee. 16. Application for, form of dog licences. 17. Fees for dog registration and dog licences. 18. Information to be given of death, etc., of dog. 19. Transfer of dog ownership. 20. Re-registration when badge lost.
+11. Control of dogs. 11A. 12. Fouling of streets etc. 13. Form of dog register. 14. Particulars to be furnished on registration. 15. Registration badge and fee. 16. Application for, form of dog licences. 17. Fees for dog registration and dog licences. 18. Information to be given of death, etc., of dog. 19. Transfer of dog ownership.
 
 Animals ANIMALS RULES AND BIRDS 2004
 
 1948-30
 
-Subsidiary 2004/097 21. Fees for inspection and copies of dog register. 22. Information to be provided to the Environmental Agency 23. Penalty for contravening rules. 23A. Fixed Penalty Offences.
+Subsidiary 2004/097 20. Re-registration when badge lost. 21. Fees for inspection and copies of dog register. 22. Information to be provided to the Environmental Agency 23. Penalty for contravening rules. 23A. Fixed Penalty Offences.
 
 PART V
 
@@ -73,6 +73,8 @@ SCHEDULE 4 EC Regulation.
 SCHEDULE 5 Pet Passport.
 
 SCHEDULE 6 Model Health Certificate.
+
+SCHEDULE 7
 
 Animals ANIMALS RULES AND BIRDS 2004
 

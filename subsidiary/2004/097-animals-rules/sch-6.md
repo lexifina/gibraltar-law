@@ -59,3 +59,9 @@ Subsidiary 2004/097 subsequent movement to Ireland, Sweden or the United Kingdom
 (1) from a third country listed in Annex II to Regulation (EC) No 998/2003: Parts I, II, III, IV, V, VI and VII must be completed (parts III, V, VI and VII complying with national rules)
 
 (2) from a third country not listed in Annex II to Regulation (EC) No 998/2003: The certificate is not valid – See note 4
+
+Animals ANIMALS RULES AND BIRDS 2004
+
+1948-30
+
+Subsidiary 2004/097
