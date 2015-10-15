@@ -10,6 +10,12 @@ DISTINCT PARKING ZONE DESIGNATION ORDER 2011
 
 Commencement 9.6..2011
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2015/187
+
+15.10.2015
+
 _______________________
 
 Traffic DISTINCT PARKING ZONE DESIGNATION ORDER 2011
@@ -22,7 +28,7 @@ For the purposes of the preceding paragraph, the North District (Zone 1) consist
 
 Residents’ Permit Holders only :
 
- Halifax Road  Devil’s Tower Road Car Park (top floor)  Aerial Farm Car Park (under construction)  Forbes Quarry Car Park  Laguna Estate (residents of Laguna Estate only)  Catalan Bay (residents of Catalan Bay only)  Media Luna lay-by (residents of Both Worlds only)
+ Halifax Road  Devil’s Tower Road Car Park (top floor)  Aerial Farm Car Park (under construction)  Forbes Quarry Car Park  Laguna Estate (residents of Laguna Estate only)  Catalan Bay (residents of Catalan Bay only)  Media Luna lay-by (residents of Both Worlds only)  Shackelton Road
 
 Free Parking Motorcycles Only (available to everyone):
 
@@ -32,12 +38,10 @@ Free Parking Cars Only (available to everyone):
 
  Cemetery Road  Eastern Beach Road  Flint Road  Garrod Road  Halifax Road  Corral Road  Landport Ditch  Catalan Bay Beach Car Park
 
-Pay Parking:
-
 Traffic DISTINCT PARKING ZONE DESIGNATION ORDER 2011
 
 2005-26
 
-Subsidiary 2011/087
+Subsidiary 2011/087 Pay Parking:
 
- Shackelton Road  Flint Road  Devil’s Tower Road Car Park  Aerial Farm Car Park (under construction)  Landport Ditch (one row against North Bastion)
+ Devil’s Tower Road Car Park  Aerial Farm Car Park (under construction)  Landport Ditch (one row against North Bastion)
