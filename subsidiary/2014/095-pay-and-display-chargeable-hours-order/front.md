@@ -10,6 +10,10 @@ PAY AND DISPLAY (CHARGEABLE HOURS) ORDER 2014
 
 Commencement 5.6.2014
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2015/188 Para. 3 15.10.2015
+
 _______________________
 
 ARRANGMENTS OF PARAGRAPHS
