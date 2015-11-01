@@ -1,24 +1,20 @@
-Bills of Sale
-
-1961-05
-
-BILLS OF SALE ACT
+Bills of Sale Act
 
 Principal Act
 
-Act. No. 1961-05 Commencement 18.6.1961
+Act. No. 1961-05 Commencement 18.6.1961 Assent 2.6.1961
 
-Enactment 2.6.1961
+Amending enactments Relevant current provisions Commencement date
 
-Amending enactments Relevant current provisions Commencement date Acts. 1965-15 s. 9
+Act. 1965-15 s. 9
+
+LN. 2015/167 s. 3(2)(g)-(h) 1.11.2015
 
 English sources
 
 Bills of Sale Act 1878 (41 & 42 Vict. c.31) Bills of Sale Act (1878) Amendment Act 1882 (45 & 46 Vict. c.43) Bills of Sale Act 1890 (53 & 54 Vict. c.53)
 
-Bills of Sale
-
-1961-05 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -34,11 +30,9 @@ PART II. PROVISIONS APPLICABLE TO BILLS OF SALE GENERALLY.
 
 PART III. SPECIAL PROVISIONS RELATING TO BILLS OF SALE GIVEN AS SECURITY FOR PAYMENT OF MONEY.
 
-18. Application of Part III. 19. Bill of sale to have schedule of property attached thereto. 20. Bill of sale not to affect after acquired property. 21. Exception as to certain things. 22. Bill of sale with power to seize except in certain events to be void. 23. Form of bill of sale. 24. Bills of sale under £30 to be void. 25. Chattels not to be removed or sold. 26. Bill of sale not to protect chattels against taxes and rates.
+18. Application of Part III. 19. Bill of sale to have schedule of property attached thereto. 20. Bill of sale not to affect after acquired property. 21. Exception as to certain things. 22. Bill of sale with power to seize except in certain events to be void. 23. Form of bill of sale. 24. Bills of sale under £30 to be void. 25. Chattels not to be removed or sold.
 
-Bills of Sale
-
-1961-05
+26. Bill of sale not to protect chattels against taxes and rates.
 
 PART IV. SUPPLEMENTARY.
 
@@ -50,6 +44,4 @@ SCHEDULE 2. The register.
 
 SCHEDULE 3. Form of bill of sale given by way of security for payment of money.
 
-SCHEDULE 4. Scale of  fees.
-
-Bills of Sale
+SCHEDULE 4. Scale of fees.

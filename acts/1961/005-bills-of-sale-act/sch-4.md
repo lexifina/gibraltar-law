@@ -2,21 +2,23 @@ SCHEDULE 4.
 
 Section 30 SCALE OF FEES.
 
-£ 1. (a) On filing a bill of sale and affidavit therewith where the consideration (including further advances)–
+£ 1. (a) On filing a bill of sale and affidavit therewith  where the consideration (including further  advances)–
 
 (i)
 
-does not exceed £100.
-
-0.25
+does not exceed £100. 0.25
 
 (ii)
 
-exceeds £100 but does not exceed £200 0.50
+exceeds £100 but does not exceed £200
+
+0.50
 
 (iii)
 
-exceeds £200 1.00
+exceeds £200
+
+1.00
 
 (b) On filing any other document under the Act.
 
@@ -38,6 +40,8 @@ for every additional name if included in the  same certificate.
 
 0.10 5. For a continuation search, if made within one calendar month of date of official certificate (the result to be endorsed on such certificate).
 
-0.10 6. For search of register by any person (under section 29). 0.10 7. For inspecting, examining and making extracts from any registered bill of sale–
+0.10 6. For search of register by any person (under section 29).
+
+0.10 7. For inspecting, examining and making extracts from any registered bill of sale–
 
 for each bill of sale inspected 0.10
