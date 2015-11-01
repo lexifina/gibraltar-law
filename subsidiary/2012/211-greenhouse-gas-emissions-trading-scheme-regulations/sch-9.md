@@ -190,7 +190,7 @@ Procedure for applying for leave to sell an aircraft.
 
 (e) any person who is registered as a mortgagee of the aircraft or who appears to the regulator to be a mortgagee of the aircraft under any law other than under Gibraltar law;
 
-(f) any other person who appears to the regulator to have a proprietary interest in the aircraft or any part of it.
+(f) any other person who appears to the regulator to have a proprietary interest in the aircraft or any part of it including an international interest as defined in regulation 3 of the International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015.
 
 (3)  Where a person who has been served with a notice in accordance with subparagraph (2) informs the regulator within the period of 14 days beginning with the day following service of the notice of the person’s desire to become a party to the proceedings the regulator must make that person a party to the application.
 
@@ -198,15 +198,13 @@ Procedure for applying for leave to sell an aircraft.
 
 (a) in the Gazette; and
 
-(b) in one or more local newspapers.
-
-(5)  A notice under subparagraph (2) must−
-
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211
+Subsidiary 2012/211 (b) in one or more local newspapers.
+
+(5)  A notice under subparagraph (2) must−
 
 (a) state the nationality and registration marks of the aircraft;
 
@@ -236,13 +234,15 @@ the regulator may apply to the court for leave to sell the aircraft.
 
 the regulator may apply to the court for leave to sell the aircraft.
 
-(8)  A notice under subparagraph (2) must be served by the regulator−
-
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 (a) delivering it to the person to whom it is to be sent;
+Subsidiary 2012/211
+
+(8)  A notice under subparagraph (2) must be served by the regulator−
+
+(a) delivering it to the person to whom it is to be sent;
 
 (b) leaving it at that person’s usual or last known place of business or abode;
 

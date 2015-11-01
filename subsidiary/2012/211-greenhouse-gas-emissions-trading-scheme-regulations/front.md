@@ -12,7 +12,7 @@ Commencement 1.1.2013
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/141 rr. 3(1), 35A, Schs. 8, 10 & 12 31.7.2014
+LN.  2014/141 rr. 3(1), 35A, Schs. 8, 10 & 12 31.7.2014 2015/168 Sch. 9 1.11.2015
 
 Transposing: Directive 2003/87/EC Directive 2004/101/EC Directive 2008/101/EC Directive 2009/29/EC Directive (EU) 2018/410
 
