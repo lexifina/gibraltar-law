@@ -14,9 +14,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2006/123 rr. 3(2)(c), (d) & (e), 17(1) & (2), 21(1)(a)(iii) & 23(3) & (7)
 
-9.11.2006 2011/051 rr. 2, 3(1), (3)(a) & (4), 6(3), & (3)(j)(i), 8(2), 9(2), 10A, 10B, 11(7), 12(5)(b), 13, 14, 15(1), (1)(c) & (2), 16(1)(a), (4)(c) & (d), 16A, 17(3), (4) & (5), 18A, 18B, 18C, 18D, 19, 21(1)(d) & (e), 22A, 22B, 23(4) & (5), 27, Schs. 1 & 3 12.4.2011 2012/024 rr. 2(1), 12(8)(b), 15(1), (6)(a)(i) & (8)(a)(i), 18(1)(a) & 19 5.3.2012 2012/097 rr. 2(1), 5, 9(3), 10, 10B(2), 11, 13(1), (2)(b) & (d), (7), (8) & (9), 14(1)(b), 15(8)(a)(i), 16(1) & (2), 17(3A) & (5), 18(3), 22A(2)(c), 23(3) & (4), 27(1), (2), (3) & (5), 28(1) & (2) & Sch.1 5.7.2012
+9.11.2006 2011/051 rr. 2, 3(1), (3)(a) & (4), 6(3), & (3)(j)(i), 8(2), 9(2), 10A, 10B, 11(7), 12(5)(b), 13, 14, 15(1), (1)(c) & (2), 16(1)(a), (4)(c) & (d), 16A, 17(3), (4) & (5), 18A, 18B, 18C, 18D, 19, 21(1)(d) & (e), 22A, 22B, 23(4) & (5), 27, Schs. 1 & 3 12.4.2011 2012/024 rr. 2(1), 12(8)(b), 15(1), (6)(a)(i) & (8)(a)(i), 18(1)(a) & 19 5.3.2012 2012/097 rr. 2(1), 5, 9(3), 10, 10B(2), 11, 13(1), (2)(b) & (d), (7), (8) & (9), 14(1)(b), 15(8)(a)(i), 16(1) & (2), 17(3A) & (5), 18(3), 22A(2)(c), 23(3) & (4), 27(1), (2), (3) & (5), 28(1) & (2) & Sch.1 5.7.2012 2015/195 r. 22C 18.11.2015
 
-Transposing: Directive 2002/59/EC Directive 2009/17/EC Directive 2009/18/EC Directive 2011/15/EU
+Transposing: Directive 2002/59/EC Directive 2009/17/EC Directive 2009/18/EC Directive 2011/15/EU Directive 2014/100/EU
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
 
@@ -50,7 +50,7 @@ Subsidiary 2004/120 18A.  Competent authority for the accommodation of ships in 
 
 PART V USE OF INFORMATION.
 
-20. Broadcasting and supply of information. 21. Transmission of information concerning hazardous ships. 22. Confidentiality of information. 22A.  Gibraltar’s communication system. 22B.  SafeSeaNet.
+20. Broadcasting and supply of information. 21. Transmission of information concerning hazardous ships. 22. Confidentiality of information. 22A.  Gibraltar’s communication system. 22B.  SafeSeaNet. 22C.  SafeSeaNet systems.
 
 PART VI CONTROL PROVISIONS.
 
