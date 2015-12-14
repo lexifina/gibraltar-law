@@ -6,7 +6,7 @@ ENVIRONMENT (SUSTAINABLE USE OF PESTICIDES) REGULATIONS 2012
 
 LN.2012/082
 
-Commencement 7.6.2012 Except - r. 14(1), (2), (5) and (6)
+Commencement 7.6.2012 r. 14(1), (2), (5) and (6) 14.12.2015
 
 EU Legislation/International Agreements involved: Directive 98/8/EC Directive 2009/128/EC Regulation (EC) No 1107/2009
 
