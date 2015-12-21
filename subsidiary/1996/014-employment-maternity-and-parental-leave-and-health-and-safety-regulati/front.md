@@ -8,7 +8,7 @@ EMPLOYMENT (MATERNITY AND PARENTAL LEAVE, AND HEALTH AND SAFETY) REGULATIONS, 19
 
 1.1.1996
 
-Amending enactments Relevant current provisions Commencement date LNs. 1999/162 rr. 2-4, 6, 7(2), 8(1) 5.7.1999 2001/112 Title, 25-30, Sch.1 1.12.2001 2013/045 rr. 26(1), 28(a) 8.3.2013
+Amending enactments Relevant current provisions Commencement date LNs. 1999/162 rr. 2-4, 6, 7(2), 8(1) 5.7.1999 2001/112 Title, 25-30, Sch.1 1.12.2001 2013/045 rr. 26(1), 28(a) 8.3.2013 2015/234 rr. 31-33, Sch.1 21.12.2015
 
 Implementing: Directive 96/34/EC Directive 97/75/EC
 
@@ -32,7 +32,7 @@ Employment EMPLOYMENT (MATERNITY AND PARENTAL LEAVE, AND HEALTH AND SAFETY) REGU
 
 Subsidiary 1996/014 1932-16 24. New sections 65A, 65B and 65C. PART V PARENTAL LEAVE
 
-25. Entitlement to parental leave. 26. Extent of entitlement. 27. When parental leave may be taken. 28. Default provisions in respect of parental leave. 29. Time off work for urgent family reasons. 30. Retention of employment rights.
+25. Entitlement to parental leave. 26. Extent of entitlement. 27. When parental leave may be taken. 28. Default provisions in respect of parental leave. 29. Time off work for urgent family reasons. 30. Retention of employment rights. 31. Variation of working hours on return from parental leave. 32. Employer’s duties in relation to a request under regulation 31. 33. Complaints to the Industrial Tribunal.
 
 SCHEDULE 1 Default provisions in respect of parental leave
 

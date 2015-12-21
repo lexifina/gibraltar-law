@@ -36,13 +36,13 @@ Subsidiary 1996/014 1932-16 period is to begin as there are weeks in the period,
 
 (a) specifies the expected week of childbirth and the duration of the period of leave, and
 
-(b) is given to the employer at least thirteen weeks before the beginning of the expected week of childbirth.
+(b) is given to the employer at least seven weeks before the beginning of the expected week of childbirth.
 
 5.Where the child in respect of whom the leave is to be taken is adopted by the employee and the leave is to begin on the date of the adoption, the notice required for the purpose of paragraph 1(b) is notice which–
 
 (a) specifies the week in which the adoption is expected to occur and the duration of the period of leave, and
 
-(b) is given to the employer at least thirteen weeks before the beginning of that week, or, if that is not reasonably practicable, as soon as is reasonably practicable.
+(b) is given to the employer at least 7 weeks before the beginning of that week.
 
 6. An employer may postpone a period of parental leave where–
 
