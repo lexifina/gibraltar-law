@@ -10,9 +10,9 @@ Act. No. 2007-06 Commencement (LN. 2008/003) 31.1.2008 Assent 13.4.2007
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2011/157 Sch. 4 22.9.2011
+LN.  2011/157 Sch. 4 22.9.2011 2015/221 Sch. 2 31.12.2015
 
-Transposing: Directive 2002/98/EC Directive 2004/33/EC Directive 2005/61/EC Directive 2005/62/EC Directive 2011/38/EU
+Transposing: Directive 2002/98/EC Directive 2004/33/EC Directive 2005/61/EC Directive 2005/62/EC Directive 2011/38/EU Directive 2014/110/EU
 
 Public Health (Blood Safety and Quality)
 

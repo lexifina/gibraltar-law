@@ -74,7 +74,7 @@ Brucellosis (*) 2 years following the date of full recovery Osteomyelitis 2 year
 
 Public Health (Blood Safety and Quality)
 
-2007-06 areas negative - individuals with a history of undiagnosed febrile illness during or within six months of a visit to an endemic area 3 years following resolution of symptoms; may be reduced to 4 months if an immunologic or molecular test is negative West Nile Virus (WNV) (*) 28 days after leaving an area with ongoing transmission of WNV to humans
+2007-06 areas negative - individuals with a history of undiagnosed febrile illness during or within six months of a visit to an endemic area 3 years following resolution of symptoms; may be reduced to 4 months if an immunologic or molecular test is negative West Nile Virus (WNV) (*) 28 days after leaving a risk area of locally acquired West Nile Virus unless an individual Nucleic Acid Test (NAT) is negative
 
 2.2.2  Exposure to risk of acquiring a transfusion-transmissible infection
 
@@ -82,11 +82,11 @@ Public Health (Blood Safety and Quality)
 
 2.2.3  Vaccination
 
-Attenuated viruses or bacteria 4 weeks Inactivated/killed viruses, bacteria or rickettsiae No deferral if well
+Attenuated viruses or bacteria 4 weeks Inactivated/killed viruses, bacteria No deferral if well
 
 Public Health (Blood Safety and Quality)
 
-2007-06 Toxoids No deferral if well Hepatitis A or hepatitis B vaccines No deferral if well and if no exposure Rabies No deferral if well and if no exposure. If vaccination is given following exposure defer for one year Tick-borne encephalitis vaccines No deferral if well and if no exposure
+2007-06 or rickettsiae Toxoids No deferral if well Hepatitis A or hepatitis B vaccines No deferral if well and if no exposure Rabies No deferral if well and if no exposure. If vaccination is given following exposure defer for one year Tick-borne encephalitis vaccines No deferral if well and if no exposure
 
 2.2.4 Other temporary deferrals
 
@@ -98,11 +98,11 @@ Particular epidemiological situations (e.g. disease outbreaks) Deferral consiste
 
 2.4  Deferral criteria for donors of autologous donations
 
-Serious cardiac disease Depending on the clinical setting of the blood collection
+Serious cardiac disease Depending on the clinical
 
 Public Health (Blood Safety and Quality)
 
-2007-06 Active bacterial infection
+2007-06 setting of the blood collection Active bacterial infection
 
 Public Health (Blood Safety and Quality)
 
