@@ -10,9 +10,9 @@ Assent 1.11.2010
 
 Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Schs. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014 2015-23 ss. 77-78 22.6.2015 “ ss. 30(1)(b), (bb), Sch. 3 1.7.2015 “ ss. 6, 6A, 18A, 19, 30(1)(ca), (cb), (f), 31, 31A, 32, 32A, 33-34, 39(1)(b), (2), (4)-(6), (8), 41(10), 56A, 59, 59A, 60, 63, 63A, 64(1)(b)-(c), 65, 65A-65F, 67(2), 68, 74, Schs. 1, 3, 9-10
 
-6.8.2015
+6.8.2015 LN. 2015/229 Sch. 5 31.12.2015
 
-Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU
+Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive (EU) 2015/121
 
 1 Notice of corrigendum see LN. 2013/011
 
