@@ -146,13 +146,27 @@ Subsidiary [1958.03.06] 10.4. A severe hypoglycaemic event during waking hours, 
 
 NEUROLOGICAL DISEASES
 
-11. Driving licences shall not be issued to, or renewed for, applicants or drivers suffering from a serious neurological disease, unless the application is supported by authorised medical opinion.
+11.1. Driving licences shall not be issued to, or renewed for, applicants or drivers suffering from a serious neurological disease, unless the application is supported by authorised medical opinion.
 
-Neurological disturbances associated with diseases or surgical intervention affecting the central or peripheral nervous system, which lead to sensory or motor deficiencies and affect balance and coordination, must  accordingly be taken into account in relation to their functional effects and the risks of progression. In such cases, the issue or renewal of the licence may be subject to periodic assessment in the event of risk of deterioration.
+Neurological disturbances associated with diseases or surgical intervention affecting the central or peripheral nervous system, which lead to sensory or motor deficiencies and affect balance and coordination, must accordingly be taken into account in relation to their functional effects and the risks of progression. In such cases, the issue or renewal of the licence may be subject to periodic assessment in the event of risk of deterioration.
 
-EPILEPSY
+OBSTRUCTIVE SLEEP APNOEA SYNDROME
+
+11.2. In the following paragraphs, a moderate obstructive sleep apnoea syndrome corresponds to a number of apnoeas and hypopnoeas per hour (Apnoea-Hypopnoea Index) between 15 and 29 and a severe obstructive sleep apnoea syndrome corresponds to an Apnoea-Hypopnoea Index of 30 or more, both associated with excessive daytime sleepiness.
+
+11.3. Applicants or drivers in whom a moderate or severe obstructive sleep apnoea syndrome is suspected shall be referred for further authorised medical advice before a driving licence is issued or renewed. They may be advised not to drive until confirmation of the diagnosis.
+
+11.4. Driving licences may be issued to applicants or drivers with moderate or severe obstructive sleep apnoea syndrome who show adequate control of their condition and compliance with appropriate treatment and improvement of sleepiness, if any, confirmed by authorised medical opinion.
+
+11.5. Applicants or drivers with moderate or severe obstructive sleep apnoea syndrome under treatment shall be subject to a periodic medical review, at intervals not exceeding three years for drivers of group 1 and one year for drivers of group 2, with a view to establish the level of compliance with the treatment, the need for continuing the treatment and continued good vigilance. EPILEPSY
 
 12. Epileptic seizures or other sudden disturbances of the state of consciousness constitute a serious danger to road safety if they occur in a person driving a power-driven vehicle.
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 Epilepsy is defined as having had two or more epileptic seizures, less than five years apart. A provoked epileptic seizure is defined as a seizure which has a recognisable causative factor that is avoidable.
 
@@ -166,13 +180,7 @@ Group 1:
 
 If the person has epilepsy, the criteria for an unconditional licence are not met. Notification should be given to the licensing authority.
 
-12.2. Provoked epileptic seizure: the applicant who has had a provoked epileptic seizure because of a recognisable provoking factor that is unlikely
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] to recur at the wheel can be declared able to drive on an individual basis, subject to neurological opinion (the assessment should be, if appropriate, in accordance with other relevant sections of Annex III (e.g. in the case of alcohol or other co-morbidity).
+12.2. Provoked epileptic seizure: the applicant who has had a provoked epileptic seizure because of a recognisable provoking factor that is unlikely to recur at the wheel can be declared able to drive on an individual basis, subject to neurological opinion (the assessment should be, if appropriate, in accordance with other relevant sections of Annex III (e.g. in the case of alcohol or other co-morbidity).
 
 12.3. First or single unprovoked seizure: the applicant who has had a first unprovoked epileptic seizure can be declared able to drive after a period of six months without seizures, if there has been an appropriate medical assessment. National authorities may allow drivers with recognised good prognostic indicators to drive sooner.
 
@@ -180,7 +188,13 @@ Subsidiary [1958.03.06] to recur at the wheel can be declared able to drive on a
 
 12.5. Epilepsy: drivers or applicants can be declared fit to drive after a one- year period free of further seizures.
 
-12.6. Seizures exclusively in sleep: the applicant or driver who has never had any seizures other than seizures during sleep can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an occurrence of attacks/seizure arising while awake, a one-year period free of further event before licensing is required (see ‘Epilepsy’).
+12.6. Seizures exclusively in sleep: the applicant or driver who has never had any seizures other than seizures during sleep can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] occurrence of attacks/seizure arising while awake, a one-year period free of further event before licensing is required (see ‘Epilepsy’).
 
 12.7. Seizures without influence on consciousness or the ability to act: the applicant or driver who has never had any seizures other than seizures which have been demonstrated exclusively to affect neither consciousness nor cause any functional impairment can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an occurrence of any other kind of attacks/seizures a one-year period free of further event before licensing is required (see ‘Epilepsy’).
 
@@ -190,19 +204,19 @@ Subsidiary [1958.03.06] to recur at the wheel can be declared able to drive on a
 
 Group 2:
 
-12.10. The applicant should be without anti-epileptic medication for the required period of seizure freedom. An appropriate medical follow-up has
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] been done. On extensive neurological investigation, no relevant cerebral pathology was established and there is no epileptiform activity on the electroencephalogram (EEG). An EEG and an appropriate neurological assessment should be performed after the acute episode.
+12.10. The applicant should be without anti-epileptic medication for the required period of seizure freedom. An appropriate medical follow-up has been done. On extensive neurological investigation, no relevant cerebral pathology was established and there is no epileptiform activity on the electroencephalogram (EEG). An EEG and an appropriate neurological assessment should be performed after the acute episode.
 
 12.11. Provoked epileptic seizure: the applicant who has had a provoked epileptic seizure because of a recognisable provoking factor that is unlikely to recur at the wheel can be declared able to drive on an individual basis, subject to neurological opinion. An EEG and an appropriate neurological assessment should be performed after the acute episode.
 
 A person with a structural intra-cerebral lesion who has increased risk of seizures should not be able to drive vehicles of group 2 until the epilepsy risk has fallen to at least 2 % per annum. The assessment should be, if appropriate, in accordance with other relevant sections of Schedule 4A (e.g. in the case of alcohol).
 
-12.12. First or single unprovoked seizure: the applicant who has had a first unprovoked epileptic seizure can be declared able to drive once five years’ freedom from further seizures has been achieved without the aid of anti- epileptic drugs, if there has been an appropriate neurological assessment. National authorities may allow drivers with recognised good prognostic indicators to drive sooner.
+12.12. First or single unprovoked seizure: the applicant who has had a first unprovoked epileptic seizure can be declared able to drive once five years’ freedom from further seizures has been achieved without the aid of anti- epileptic drugs, if there has been an appropriate neurological assessment.
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] National authorities may allow drivers with recognised good prognostic indicators to drive sooner.
 
 12.13. Other loss of consciousness: the loss of consciousness should be Assessed according to the risk of recurrence while driving. The risk of recurrence should be 2 % per annum or less.
 
@@ -216,11 +230,7 @@ Group 1:
 
 13.1. Driving licences shall not be issued to, or renewed for, applicants or drivers who suffer from:
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] — severe mental disturbance, whether congenital or due to disease, trauma or neurosurgical operations,
+— severe mental disturbance, whether congenital or due to disease, trauma or neurosurgical operations,
 
 — severe mental retardation,
 
@@ -233,6 +243,12 @@ Group 2:
 ALCOHOL
 
 14. Alcohol consumption constitutes a major danger to road safety. In view of the scale of the problem, the medical profession must be very vigilant. Group 1:
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 14.1. Driving licences shall not be issued to, or renewed for, applicants or drivers who are dependent on alcohol or unable to refrain from drinking and driving.
 
@@ -248,12 +264,6 @@ Driving licences shall not be issued to or renewed for applicants or drivers who
 
 Regular use:
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 Group 1:
 
 15.1. Driving licences shall not be issued to, or renewed for, applicants or drivers who regularly use psychotropic substances, in whatever form, which can hamper the ability to drive safely where the quantities absorbed are such as to have an adverse effect on driving. This shall apply to all other medicinal products or combinations of medicinal products which affect the ability to drive.
@@ -266,7 +276,11 @@ RENAL DISORDERS
 
 Group 1:
 
-16.1. Driving licences may be issued or renewed for applicants and drivers suffering from serious renal insufficiency subject to authorised medical opinion and regular medical check-ups.
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] 16.1. Driving licences may be issued or renewed for applicants and drivers suffering from serious renal insufficiency subject to authorised medical opinion and regular medical check-ups.
 
 Group 2:
 
@@ -282,11 +296,7 @@ Group 2:
 
 17.2. The competent medical authority shall give due consideration to the additional risks and dangers involved in the driving of vehicles covered by the definition of this group.
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 18. As a general rule, where applicants or drivers suffer from any disorder which is not mentioned in the preceding paragraph but is liable to be, or to result in, a functional incapacity affecting safety at the wheel, driving licences shall not be issued or renewed unless the application is supported by authorised medical opinion and, if necessary, subject to regular medical check-ups.
+18. As a general rule, where applicants or drivers suffer from any disorder which is not mentioned in the preceding paragraph but is liable to be, or to result in, a functional incapacity affecting safety at the wheel, driving licences shall not be issued or renewed unless the application is supported by authorised medical opinion and, if necessary, subject to regular medical check-ups.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
