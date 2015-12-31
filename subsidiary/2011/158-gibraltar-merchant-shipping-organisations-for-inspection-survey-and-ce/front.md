@@ -10,13 +10,19 @@ GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICAT
 
 Commencement 22.9.2011
 
-Transposing: Directive 2009/15/EC
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2015/223 r. 2 31.12.2015
+
+Transposing: Directive 2009/15/EC Directive 2014/111/EU
 
 Implementing: Regulation (EC) No 391/2009
 
-_______________________
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICATION OF SHIPS) REGULATIONS 2011
 
-ARRANGEMENT OF REGULATIONS
+1995-13
+
+Subsidiary 2011/158 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
