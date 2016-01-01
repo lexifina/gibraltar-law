@@ -2,9 +2,7 @@ SCHEDULE 1
 
 Section 2
 
-AGREEMENT or CONTRACT, accompanied with a deposit of title deeds of Real Property in Gibraltar or of documents of title of any Gibraltar Real Property Investment.
-
-See MORTGAGE, ETC., and section 35.
+AGREEMENT or CONTRACT, accompanied with a deposit of title deeds of Real Property in Gibraltar or of documents of title of any Gibraltar Real Property Investment. See MORTGAGE, ETC., and section 35.
 
 AGREEMENT for a lease or for any letting of any lands or tenements in Gibraltar.
 
@@ -38,11 +36,7 @@ CERTIFICATE from the Commissioner:– For denoting under section 10, or that the
 
 £5 That an instrument is not chargeable with duty, or that it is duly stamped or the amount of duty with which it is chargeable in pursuance of section 11.
 
-£5
-
-CONTRACT. See AGREEMENTS.
-
-CONVEYANCE or TRANSFER on sale of any Property Subject to duty,–
+£5 CONTRACT. See AGREEMENTS. CONVEYANCE or TRANSFER on sale of any Property Subject to duty,–
 
 (1) Where the value of the whole of the Property subject to duty does not exceed £200,000 a sum equivalent to zero per cent of the amount or value of the consideration
 
@@ -64,9 +58,7 @@ CONVEYANCE or TRANSFER by way of security of any Property subject to duty.
 
 See MORTGAGES, ETC.
 
-CONVEYANCES or TRANSFERS of Property subject to duty operating as voluntary dispositions inter vivos.
-
-See sections 16 and 28.
+CONVEYANCES or TRANSFERS of Property subject to duty operating as voluntary dispositions inter vivos. See sections 16 and 28.
 
 CONVEYANCE or TRANSFER of Property subject to duty of any kind not hereinbefore described £5
 
@@ -78,27 +70,17 @@ See MORTGAGE, ETC.
 
 COVENANT. Any separate deed of covenant (not being an instrument chargeable with ad valorem duty as a conveyance on sale or mortgage) made on the sale or mortgage of any Property subject to duty, and relating solely to the conveyance or enjoyment of, or the title to, the property sold or mortgaged, or to the production of the muniments of title relating thereto, or to all or any of the matters aforesaid.
 
-Where the ad valorem duty in respect of the consideration or mortgage money does not exceed 50 pence. A duty equal to the amount of such ad valorem duty. In any other case £5
-
-DEBENTURE for securing on any Property subject to duty the payment or repayment of money or the transfer or retransfer of stock.
+Where the ad valorem duty in respect of the consideration or mortgage money does not exceed 50 pence. A duty equal to the amount of such ad valorem duty. In any other case £5 DEBENTURE for securing on any Property subject to duty the payment or repayment of money or the transfer or retransfer of stock.
 
 See MORTGAGE, ETC.
 
 DECLARATION of any use or trust of or concerning any Property subject to duty by any writing, not being a will, or an instrument chargeable with ad valorem duty as a settlement
 
-£5
+£5 DEED of any kind whatsoever over or concerning Property subject to duty, not described in this Schedule
 
-DEED of any kind whatsoever over or concerning Property subject to duty, not described in this Schedule
+£5 DEFEAZANCE. Instrument of defeazance of any conveyance, transfer, disposition, or tack over or concerning Property subject to duty apparently absolute but intended only as a security for money or stock.
 
-£5
-
-DEFEAZANCE. Instrument of defeazance of any conveyance, transfer, disposition, or tack over or concerning Property subject to duty apparently absolute but intended only as a security for money or stock.
-
-See MORTGAGE, ETC., and section 35.
-
-DEMISE. See LEASE.
-
-DEPOSIT of title deeds over or concerning real property in Gibraltar. See MORTGAGE, ETC., and section 35.
+See MORTGAGE, ETC., and section 35. DEMISE. See LEASE. DEPOSIT of title deeds over or concerning real property in Gibraltar. See MORTGAGE, ETC., and section 35.
 
 DUPLICATE or COUNTERPART of any instrument Chargeable with any duty.
 
@@ -106,11 +88,7 @@ Where such duty does not amount to £5 {the same duty as the original instrument
 
 In any other case
 
-£5 And see SECTION 30.
-
-EQUITABLE MORTGAGE of Property subject to duty.
-
-See MORTGAGE, ETC., and section 30.
+£5 And see SECTION 30. EQUITABLE MORTGAGE of Property subject to duty. See MORTGAGE, ETC., and section 30.
 
 EXCHANGE – Instrument effecting over or concerning Property subject to duty.
 
@@ -134,9 +112,7 @@ LIMITED PARTNERSHIP DUTY Statement of amount contributed by a limited partner, a
 
 Registrar under section 7 or 8 of the Limited Partnership Act–
 
-£10
-
-MORTGAGE, BOND, DEBENTURE and COVENANT of Property subject to duty.
+£10 MORTGAGE, BOND, DEBENTURE and COVENANT of Property subject to duty.
 
 (1) Being the only or principal or primary security (other than an equitable mortgage) for the payment or repayment of money–
 
@@ -160,13 +136,9 @@ For every £100, and also for any fractional part of £100 of the amount transfe
 
 For every £100, and also for any fractional part of £100, of the total amount or value of the money at any time secured
 
-0.03
+0.03 PARTITION or DIVISION –Instrument effecting over or concerning Property subject to duty. See section 31.
 
-PARTITION or DIVISION –Instrument effecting over or concerning Property subject to duty. See section 31.
-
-RECONVEYANCE, RELEASE or RENUNCIATION of any security of Property subject to duty.
-
-See MORTGAGE, ETC.
+RECONVEYANCE, RELEASE or RENUNCIATION of any security of Property subject to duty. See MORTGAGE, ETC.
 
 RELEASE or RENUNCIATION of any Property subject to duty, or of any right or interest in any Property subject to duty–
 
@@ -174,11 +146,7 @@ Upon a sale. See CONVEYANCE ON SALE.
 
 By way of security. See MORTGAGE, ETC.
 
-In any other case £5
-
-RENUNCIATION of Property subject to duty.
-
-See RECONVEYANCE AND RELEASE.
+In any other case £5 RENUNCIATION of Property subject to duty. See RECONVEYANCE AND RELEASE.
 
 SURRENDER of any kind whatsoever of Property subject to duty not chargeable with duty as a conveyance or a mortgage
 
@@ -199,3 +167,5 @@ GENERAL EXEMPTION FROM ALL STAMP DUTY.
 (2) All contracts, conveyances and other documents made in pursuance of or in connection with the acquisition of land (which shall include messuages, tenements and hereditaments of any tenure, and any part, share, estate, right, title or interest therein) by way of purchase or otherwise by Her Majesty’s Government in the United Kingdom for the use or the purpose of any of Her Majesty’s Forces.
 
 (3) All instruments in connection with the establishment, maintenance and upkeep of lighthouses on which duty would be payable by Trinity House.
+
+(4) All instruments entered into in pursuance of, or in connection with, the acquisition of real property in Gibraltar, on which duty would be payable by the University of Gibraltar.
