@@ -10,7 +10,7 @@ GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
 
 22.12.1997
 
-Amending enactments Relevant current provisions Commencement date LN. 2005/087 Sch. 1 1.7.2005
+Amending enactments Relevant current provisions Commencement date LN. 2005/087 Sch. 1 1.7.2005 2016/006 r. 27(2)(f), Sch. 1 14.1.2016
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
 

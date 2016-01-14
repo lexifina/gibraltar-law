@@ -10,7 +10,7 @@ Fees 1. Application for registration of a ship (regulations 18, 34 and 51)
 
 £500.00 2. Application for provisional registration (regulation 20)
 
-£400.00 3. Registration following provisional registration £300.00 4. Application for change of name of a ship (regulation 13) £300.00 5. Application for annual renewal of registration (regulation 27)
+£400.00 3. Registration following provisional registration £300.00 4. Application for change of name of a ship (regulation 13) £300.00 5. Application for renewal of registration (regulation 27)
 
 £100.00 6. Application for extension of provisional registration
 
