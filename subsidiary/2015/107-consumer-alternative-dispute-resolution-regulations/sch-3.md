@@ -21,9 +21,3 @@ The following information shall be included in the list to be maintained by the 
 (g) the binding or non-binding nature of the outcome of the procedure; and
 
 (h) the grounds on which the ADR entity may refuse to deal with a given dispute in accordance with article 5(4) of the Directive.
-
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107

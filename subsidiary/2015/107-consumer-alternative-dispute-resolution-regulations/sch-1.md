@@ -30,11 +30,7 @@ Information on second anniversary and every second year thereafter.
 
 2.  An ADR entity shall provide the competent authority with the following updated information, in accordance with regulation 14(4)–
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107 (a) the number of disputes received and the types of complaints to which the complaints related;
+(a) the number of disputes received and the types of complaints to which the complaints related;
 
 (b) the percentage share of ADR procedures which were discontinued before an outcome was reached;
 
@@ -44,14 +40,8 @@ Subsidiary 2015/107 (a) the number of disputes received and the types of complai
 
 (e) any systematic or significant problems that occur frequently and lead to disputes between consumers and traders (the information communicated in this regard may be accompanied by recommendations as to how such problems can be avoided or resolved in future);
 
-(f) where applicable, an assessment of the effectiveness of the ADR entity’s cooperation within networks of ADR entities facilitating the resolution of cross-border disputes;
+(f) where applicable, an assessment of the effectiveness of the ADR entity’s cooperation within networks of ADR entities facilitating the resolution of cross- border disputes;
 
 (g) where applicable, the training provided to natural persons in charge of ADR in accordance with regulation 17;
 
-(h) an assessment of the effectiveness of the ADR procedure offered by the entity  and of possible ways of improving the ADR entity’s performance.
-
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107
+(h) an assessment of the effectiveness of the ADR procedure offered by the entity and of possible ways of improving the ADR entity’s performance.

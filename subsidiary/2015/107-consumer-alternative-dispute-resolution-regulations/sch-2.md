@@ -28,12 +28,6 @@ Expertise, independence and impartiality.
 
 (a) possesses a general understanding of the law and the necessary knowledge and skills relating to the out-of-court or judicial resolution of consumer disputes, to be able to carry out his functions competently;
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107
-
 (b) is appointed for a term of office of sufficient duration to ensure the independence of his actions, and is not liable to be relieved from his duties without just cause;
 
 (c) is not subject to instructions from either party or either party’s representatives;
@@ -60,12 +54,6 @@ Subsidiary 2015/107
 
 (c) where the dispute cannot be transferred to another ADR entity, the ADR entity shall inform the parties to the dispute–
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107
-
 (i) of the circumstances of the conflict of interest;
 
 (ii) that they have the right to object to the conflicted person continuing to handle the dispute, and
@@ -90,15 +78,11 @@ Transparency.
 
 (d) the expertise, impartiality and independence of the ADR officials, if they are employed or remunerated exclusively by the trader;
 
-(e) its membership in networks of ADR entities facilitating cross- border dispute resolution, if applicable;
+(e) its membership in networks of ADR entities facilitating cross-border dispute resolution, if applicable;
 
 (f) the types of disputes it is competent to deal with, including any threshold if applicable;
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107 (g) the procedural rules governing the resolution of a dispute and the grounds on which the ADR entity may refuse to deal with a given dispute in accordance with paragraph 7 of this Schedule;
+(g) the procedural rules governing the resolution of a dispute and the grounds on which the ADR entity may refuse to deal with a given dispute in accordance with paragraph 7 of this Schedule;
 
 (h) the languages in which complaints can be submitted to the ADR entity and in which the ADR procedure is conducted;
 
@@ -126,12 +110,6 @@ Effectiveness.
 
 4.(1)  The competent authority shall ensure the ADR procedures are effective and fulfil the following requirements–
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107
-
 (a) the ADR procedure is available and easily accessible to both parties irrespective of where they are located, including by electronic means and non-electronic means;
 
 (b) the parties have access to the procedure without being obliged to retain a lawyer or legal advisor but this shall not deprive the parties of their right to independent advice or to be represented or assisted by a third party at any stage of the ADR procedure;
@@ -156,11 +134,7 @@ Fairness.
 
 (b) ensure a party may, within a reasonable period of time, comment on the information and documents provided under subsubsubparagraph (a)(ii);
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107 (c) inform the parties that they are not obliged to retain a lawyer or legal advisor but they may seek independent advice or be represented by a third party, although the parties may choose to do so at any stage of the ADR procedure;
+(c) inform the parties that they are not obliged to retain a lawyer or legal advisor but they may seek independent advice or be represented by a third party, although the parties may choose to do so at any stage of the ADR procedure;
 
 (d) notify the parties, in writing or on a durable medium, of the decision of the ADR procedure and provide a statement of the grounds on which the decision is based.
 
@@ -184,15 +158,11 @@ Subsidiary 2015/107 (c) inform the parties that they are not obliged to retain a
 
 (3)  The Minister may make a declaration that the ADR procedure shall be binding, and shall publish a notice in the Gazette to that effect, and where such a declaration is made article 9(2) shall be read as applying to consumers.
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107 Legality.
+Legality.
 
 6.  In ADR procedures which aim at resolving the dispute by imposing a solution on the consumer, the ADR entity–
 
-(a) where there is no conflict of laws, the solution imposed by the ADR entity shall not  result in the consumer being deprived of the protection afforded to him by the provisions that cannot be derogated from by agreement under Gibraltar law;
+(a) where there is no conflict of laws, the solution imposed by the ADR entity shall not result in the consumer being deprived of the protection afforded to him by the provisions that cannot be derogated from by agreement under Gibraltar law;
 
 (b) shall where there is a conflict of laws–
 
@@ -210,15 +180,9 @@ Grounds to refuse to deal with a dispute.
 
 (c) the dispute has previously or is currently under consideration by a different ADR entity or a court;
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107
-
 (d) the value of the claim falls below or above the monetary thresholds set by the ADR entity;
 
-(e) the consumer did not submit the complaint to the ADR entity within the pre-specified time limit.
+(e) the consumer did not submit the complaint to the ADR entity within the pre- specified time limit.
 
 (f) dealing with such a type of dispute would otherwise seriously impair the effective operation of the ADR entity.
 
@@ -238,12 +202,6 @@ Extra requirements where the natural persons are employed or remunerated by the 
 
 (2)  The extra requirements referred to in subparagraph (1) are as follows–
 
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107
-
 (a) the natural persons in charge of dispute resolution are nominated by, or form part of, a collegial body composed of an equal number of representatives of consumer organisations and of representatives of the trader and are appointed as result of a transparent procedure;
 
 (b) the natural persons in charge of dispute resolution are granted a period of office of a minimum of 3 years to ensure the independence of their actions;
@@ -251,9 +209,3 @@ Subsidiary 2015/107
 (c) the natural persons in charge of dispute resolution commit not to work for the trader or a professional organisation or business association of which the trader is a member for a period of 3 years after their position in the dispute resolution entity has ended;
 
 (d) the ADR entity does not have any hierarchical or functional link with the trader and is clearly separated from the trader’s operational entities and has a sufficient budget at its disposal, which is separate from the trader’s general budget, to fulfil its tasks.
-
-Consumer Protection (EU Cooperation) CONSUMER (ALTERNATIVE DISPUTE RESOLUTION) REGULATIONS 2015
-
-2007-34
-
-Subsidiary 2015/107
