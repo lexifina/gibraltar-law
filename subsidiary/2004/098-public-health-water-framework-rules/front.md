@@ -16,7 +16,7 @@ LN. 2010/168 rr. 2(1), 10A-10B, 11A, 17A, 19 Sch.9-10 25.11.2010 2011/025 rr. 2,
 
 17.3.2011 2011/218 r. 23, Sch.11 27.10.2011 2015/144 rr. 2(1), 10A, 10AA-10AB, 17(3), 17B, 19A, Schs.8-10
 
-14.9.2015
+14.9.2015 2016/007 r. 2(1) 14.1.2016
 
 Transposing: Directive 2000/60/EC Directive 2008/105/EC Directive 2009/90/EC Directive 2013/39/EU
 
@@ -84,6 +84,8 @@ Interpretation.
 
 “aquifer” means a subsurface layer or layers of rock or other geological strata of sufficient porosity and permeability to allow either a significant flow of groundwater or the abstraction of significant quantities of groundwater;
 
+“artificial water body” means a body of surface water created by human activity;
+
 “available groundwater resource” means the long-term annual average rate of overall recharge of the body of groundwater less the long- term annual rate of flow required to achieve the ecological quality objectives for associated surface waters specified under Article 4 of the Directive, to avoid any significant diminution in the ecological status of such waters and to avoid any significant damage to associated terrestrial ecosystems;
 
 “biota taxon” means a particular aquatic taxon within the taxonomic rank “sub-phylum”, “class” or their equivalent;
@@ -94,13 +96,15 @@ Interpretation.
 
 “body of surface water” means a stretch of coastal water;
 
-“body of water” means a body of groundwater or a body of surface water;
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 “coastal water” means surface water on the landward side of a line every point of which is at a distance of 1 nautical mile on the seaward side from the nearest point of the baseline from which the breadth of the territorial waters is measured, and in the case of Gibraltar the territorial waters are BGTW;
+Subsidiary 2004/098
+
+“body of water” means a body of groundwater or a body of surface water;
+
+“coastal water” means surface water on the landward side of a line every point of which is at a distance of 1 nautical mile on the seaward side from the nearest point of the baseline from which the breadth of the territorial waters is measured, and in the case of Gibraltar the territorial waters are BGTW;
 
 “Competent Authority” means the Minister with responsibility for the environment;
 
@@ -114,15 +118,15 @@ Subsidiary 2004/098 “coastal water” means surface water on the landward side
 
 “emission controls” are controls requiring a specific emission limitation, for instance an emission limit value, or otherwise specifying limits or conditions on the effects, nature or other characteristics of an emission or operating conditions which affect emissions (for the avoidance of doubt, use of the term “emission control” in these Rules in respect of the provisions of any other European Union directive shall not be held as reinterpreting those provisions in any respect);
 
-“emission limit values” means the mass, expressed in terms of certain specific parameters, concentration and/or level of an emission, which may not be exceeded during any one or more periods of time;
-
-“environmental objectives” in relation to the river basin district means the objectives required to comply with Article 4 of the Directive as
+“emission limit values” means the mass, expressed in terms of certain specific parameters, concentration and/or level of an emission, which may not be exceeded during any one or more periods of time and emission limit values may also be laid down for certain groups,
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 set out in Schedule 7 including any objectives required to comply with Article 7(2) and (3) of the Directive;
+Subsidiary 2004/098 families or categories of substances, in particular for those identified under Article 16 of the Directive;
+
+“environmental objectives” in relation to the river basin district means the objectives required to comply with Article 4 of the Directive as set out in Schedule 7 including any objectives required to comply with Article 7(2) and (3) of the Directive;
 
 “environmental quality standard” means the concentration of a particular pollutant or group of pollutants in water, sediment or biota which should not be exceeded in order to protect human health and the environment;
 
@@ -138,15 +142,15 @@ Subsidiary 2004/098 set out in Schedule 7 including any objectives required to c
 
 “groundwater status” is the general expression of the status of a body of groundwater, determined by the poorer of its quantitative status and its chemical status and “good groundwater status” means the status achieved by a groundwater body when both its quantitative status and its chemical status are at least ‘good’;
 
-“heavily modified water body” means a body of surface water which as a result of physical alterations by human activity is substantially changed in character, and is designated in accordance with the provisions of Annex II;
-
-“inland water” means all standing or flowing water on the surface of the land, and all groundwater on the landward side of the baseline from
+“heavily modified water body” means a body of surface water which as a result of physical alterations by human activity is substantially
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 which the breadth of territorial waters is measured, and in the case of Gibraltar the territorial waters are BGTW;
+Subsidiary 2004/098 changed in character, and is designated in accordance with the provisions of Annex II;
+
+“inland water” means all standing or flowing water on the surface of the land, and all groundwater on the landward side of the baseline from which the breadth of territorial waters is measured, and in the case of Gibraltar the territorial waters are BGTW;
 
 “matrix” means a compartment of the aquatic environment, namely water, sediment or biota;
 
@@ -164,13 +168,15 @@ Subsidiary 2004/098 which the breadth of territorial waters is measured, and in 
 
 “Regulation (EC) No 1107/2009” means Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC, as amended from time to time;
 
-“Regulation (EU) No 528/2012” means Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products, as amended from time to time;
+“Regulation (EU) No 528/2012” means Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012
 
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 “river basin” means the area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly lakes into the sea at a single river mouth, estuary or delta;
+Subsidiary 2004/098 concerning the making available on the market and use of biocidal products, as amended from time to time;
+
+“river basin” means the area of land from which all surface run-off flows through a sequence of streams, rivers and, possibly lakes into the sea at a single river mouth, estuary or delta;
 
 “river basin district” means the area of land and sea together with its associated bodies of water which taken together is the unit for the management of the river basin, and  in these Rules unless otherwise specified any reference to a river basin district shall be taken to be a reference to the Gibraltar River Basin District;
 
@@ -192,13 +198,15 @@ Subsidiary 2004/098 “river basin” means the area of land from which all surf
 
 (2)  Any other expression used in both these Rules and the Directive has the same meaning for the purposes of these rules as it has for the purposes of the Directive unless the contrary is stated.
 
-Duties.
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 3.(1)  The Competent Authority must exercise its functions under these Rules and the enactments listed in Schedule 1 so as to secure compliance with the requirements of the Directive.
+Subsidiary 2004/098
+
+Duties.
+
+3.(1)  The Competent Authority must exercise its functions under these Rules and the enactments listed in Schedule 1 so as to secure compliance with the requirements of the Directive.
 
 (2)  The Competent Authority may appoint such persons as it deems appropriate to enable it to discharge any duty or obligation imposed by these Rules or for the achievement of the objectives of the Directive.
 
@@ -228,13 +236,13 @@ Bodies of water used for the abstraction of drinking water.
 
 7.(1)  The Competent Authority must identify any body of water within the river basin district which–
 
-(a) is used for the abstraction of water intended for human consumption and either-
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
 Subsidiary 2004/098
+
+(a) is used for the abstraction of water intended for human consumption and either-
 
 (i) provides more than 10 cubic metres of such water per day, or
 
@@ -266,13 +274,13 @@ Combined approach for point and diffuse sources.
 
 (v) any other relevant Community legislation.
 
-(3) Where a quality objective or quality standard, whether established pursuant to the Directive, in the Directives listed in Annex IX of the
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 Directive, or pursuant to any other Community legislation, requires stricter conditions than those which would result from the application of subrule (2), more stringent emission controls shall be set accordingly.
+Subsidiary 2004/098
+
+(3) Where a quality objective or quality standard, whether established pursuant to the Directive, in the Directives listed in Annex IX of the Directive, or pursuant to any other Community legislation, requires stricter conditions than those which would result from the application of subrule (2), more stringent emission controls shall be set accordingly.
 
 (4) Where a permit or other authorisation has been issued under any enactment which is inconsistent with the provisions and objectives of this rule, the Competent Authority may amend the terms of that permit or authorisation through issue of directions pursuant to rule 20.
 
@@ -308,7 +316,9 @@ Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 (3A) For protected areas the programmes referred to in subrules (2) and (3) shall be supplemented by those specifications contained in Community legislation under which the individual protected areas have been established.
+Subsidiary 2004/098
+
+(3A) For protected areas the programmes referred to in subrules (2) and (3) shall be supplemented by those specifications contained in Community legislation under which the individual protected areas have been established.
 
 (4)  The monitoring programmes must be–
 
@@ -334,13 +344,11 @@ Environmental objectives and programmes of measures.
 
 10.(1)  For the purposes of the river basin management plan for the river basin district the Competent Authority must prepare proposals for–
 
-(a) the environmental objectives for the river basin district; and
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098
+Subsidiary 2004/098 (a) the environmental objectives for the river basin district; and
 
 (b) a programme of measures to be applied in order to achieve those objectives.
 
@@ -364,13 +372,11 @@ Subsidiary 2004/098
 
 (iii) consult those persons in respect of those proposals.
 
-(3)  The Competent Authority may, having considered any representations received in relation to those proposals–
-
 Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098
+Subsidiary 2004/098 (3)  The Competent Authority may, having considered any representations received in relation to those proposals–
 
 (a) approve them, or any of them, in the form submitted;
 
@@ -406,7 +412,9 @@ Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
 
 1950-07
 
-Subsidiary 2004/098 (2) In respect of the substances numbered 2, 5, 15, 20, 22, 23 and 28 in Part A of Schedule 9, the Competent Authority must implement the EQS listed in that Schedule-
+Subsidiary 2004/098
+
+(2) In respect of the substances numbered 2, 5, 15, 20, 22, 23 and 28 in Part A of Schedule 9, the Competent Authority must implement the EQS listed in that Schedule-
 
 (a) in accordance with the dates as specified in column (3A); and
 
