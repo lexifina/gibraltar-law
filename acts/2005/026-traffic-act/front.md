@@ -14,9 +14,13 @@ Amending enactments Relevant current provisions Commencement date Act.   2011-18
 
 14.7.2011 LN. 2012/034 ss. 31A, 59, 59A, 60(3), 60A & 61A 19.3.2012 “ ss. 2, 27, 29(1), (1A), (1B), 31, 31B, 32, 32A, 37, 60A-60D
 
-19.1.2013 2013/006 s. 43(1) 19.1.2013 Act.  2013-20 s. 34(3) & (3A) 1.9.2013
+19.1.2013 2013/006 s. 43(1) 19.1.2013 Act.  2013-20 s. 34(3) & (3A) 1.9.2013 2016-21 ss. 2, 39(1), 45(1), 45A, 45B, 63A-63F, 65(1), (2)(c), 66, 68(1), (2), 69(1), 71(1), 73, Sch.
+
+26.1.20161
 
 Transposing: Directive 2006/126/EC
+
+1 Notice of Commencement – LN. 2017/011
 
 Traffic
 
@@ -50,15 +54,15 @@ Traffic
 
 Provisions as to Driving and Offences in connection therewith
 
-45. Causing death by reckless or dangerous driving of motor vehicles. 46. Careless driving. 47. Reckless or dangerous driving. 48. Power to convict of reckless or dangerous driving on trial for man- slaughter. 49. Power to proceed on charge of careless driving on hearing of charge for reckless driving. 50. Prohibition of motor racing and speed trials on roads. 51. Restriction on pillion riding. 52. Restriction on prosecutions under the preceding sections. 53. Duty to give name and address and to stop: power of arrest. 54. Accidents, 55. Restrictions on persons being towed by, getting on to or tampering with motor vehicles. 56. Prohibition of motor vehicles not complying with regulations. 57. Regulations. 58. Exemption. 59. Recognition and exchange of EEA State driving licences. 59A.  Recognition of EEA licences: minimum ages. 60. Exchangeable licences. 60A.  Anti-forgery measures.
+45. Causing death by reckless or dangerous driving of motor vehicles. 45A. Causing death by careless, or inconsiderate, driving. 45B. Causing death by careless driving when under influence of drink or drugs. 46. Careless driving. 47. Reckless or dangerous driving. 48. Power to convict of reckless or dangerous driving on trial for man- slaughter. 49. Power to proceed on charge of careless driving on hearing of charge for reckless driving. 50. Prohibition of motor racing and speed trials on roads. 51. Restriction on pillion riding. 52. Restriction on prosecutions under the preceding sections. 53. Duty to give name and address and to stop: power of arrest. 54. Accidents, 55. Restrictions on persons being towed by, getting on to or tampering with motor vehicles. 56. Prohibition of motor vehicles not complying with regulations. 57. Regulations. 58. Exemption. 59. Recognition and exchange of EEA State driving licences.
 
 Traffic
 
-2005-26 60B.  Additional security features. 60C. Mutual assistance. 60D.  Surrender of licences. 61. Regulations for facilitating international traffic. 61A.  Entitlements not affected by Third Driving Licence Directive.
+2005-26 59A.  Recognition of EEA licences: minimum ages. 60. Exchangeable licences. 60A.  Anti-forgery measures. 60B.  Additional security features. 60C. Mutual assistance. 60D.  Surrender of licences. 61. Regulations for facilitating international traffic. 61A.  Entitlements not affected by Third Driving Licence Directive.
 
 PART IV DRINKING AND DRIVING
 
-62. Driving, or being in charge, when under influence of drink or drugs. 63. Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit. 64. Arrests on suspicion of having alcohol in the body. 65. Provision of specimens for analysis following arrest. 66. Choice of specimens of breath. 67. Protection for hospital patients. 68. Detention of persons affected by alcohol or a drug. 69. Use of specimens in proceedings for an offence under sections 62 or 63. 70. Documentary evidence as to specimens in such proceedings. 71. Discretionary disqualification. 72. Protection of officers in relation to the arrest of persons suspected of being over the prescribed limit. 73. Interpretation of Part.
+62. Driving, or being in charge, when under influence of drink or drugs. 63. Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit. 63A. Driving or being in charge of a motor vehicle with concentration of specified controlled drug above specified limit. 63B. Power to administer preliminary tests. 63C. Preliminary breath test. 63D. Preliminary drug test. 63E. Arrest. 63F. Power of entry. 64. Arrests on suspicion of having alcohol in the body. 65. Provision of specimens for analysis following arrest. 66. Specimens of breath. 67. Protection for hospital patients. 68. Detention of persons affected by alcohol or a drug. 69. Use of specimens in proceedings for an offence under sections 62, 63 or 63A. 70. Documentary evidence as to specimens in such proceedings. 71. Discretionary disqualification. 72. Protection of officers in relation to the arrest of persons suspected of being over the prescribed limit. 73. Interpretation of Part.
 
 PART V REGULATION OF HORSE-DRAWN VEHICLES AND BICYCLES
 
@@ -66,7 +70,9 @@ PART V REGULATION OF HORSE-DRAWN VEHICLES AND BICYCLES
 
 PART VI TRAFFIC COMMISSION
 
-77. Traffic Commission. 78. Functions of Commission. 79. Procedural powers of Commission.
+Traffic
+
+2005-26 77. Traffic Commission. 78. Functions of Commission. 79. Procedural powers of Commission.
 
 Regulations
 
@@ -74,17 +80,15 @@ Regulations
 
 PART VII STREETS AND HIGHWAYS
 
-Traffic
-
-2005-26
-
 81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs. 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
 
 PART VIII GENERAL
 
 95. Forgery, etc., of licences and certificates. 96. Duty to give information. 97. Punishment without prosecution of offences in connection with obstruction, parking, etc. 98. General penalty. 98A. Conviction on the basis of evidence from camera or other recording device. 99. Saving of rights. 100.  Nuisances. 101.  Regulations. 102. Repeal of Traffic Act. 103. Transitional provisions. 104. “Traffic cameras”.
 
-SCHEDULE Offences in Respect of which Disqualification or Endorsement  may be ordered.
+Traffic
+
+2005-26 SCHEDULE Offences in Respect of which Disqualification or Endorsement  may be ordered.
 
 Traffic
 
