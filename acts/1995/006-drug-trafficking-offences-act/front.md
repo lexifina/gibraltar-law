@@ -34,7 +34,7 @@ ss. 2(1)(2), 26(1), 27(3), 30(3), (7), 60(5), (6), (7), (8), (9), (10), 68
 
 14.6.2007 2014-14 ss. 2(20), 7(4)(b), (5), 16(2)(a), 33(1)(a), (2), (3), (4), (5), (7), 34(1), (2), (4), 35(1), (2)
 
-1.11.2014
+1.11.2014 2015-22 ss. 54-59 28.1.2016
 
 Drug Trafficking Offences
 
@@ -70,17 +70,17 @@ PART IV. DRUG TRAFFICKING MONEY IMPORTED OR EXPORTED IN CASH.
 
 48. Seizure and detention. 49. Forfeiture. 50. Appeal against forfeiture order made by the magistrates’ court. 51. Rules of court. 52. Receipts. 53. Interpretation of Part IV.
 
-PART V. OFFENCES IN CONNECTION WITH PROCEEDS OF DRUG TRAFFICKING
+PART V. Repealed
 
-54. Concealing or transferring proceeds of drug trafficking. 55. Assisting another person to retain the benefit of drug trafficking. 56. Acquisition, possession or use of proceeds of drug trafficking. 57. Failure to disclose knowledge or suspicion of money laundering. 58. Tipping-off. 59. Penalties.
-
-Drug Trafficking Offences
-
-1995-06
+54-59 Repealed
 
 PART VI. MISCELLANEOUS AND SUPPLEMENTAL.
 
-60. Order to make material available. 61. Authority for search. 62. Access and copying. 63. Retention. 64. Disclosure of information held by the Crown. 65. Offence of prejudicing investigation. 66. Extension of certain offences to Crown servants and exemptions for regulators, etc. 67. Authorisation of delay in notifying arrest. 68. Power to make regulations. 69. Repeal of the Drug Trafficking Offences Act,1988.
+60. Order to make material available. 61. Authority for search.
+
+Drug Trafficking Offences
+
+1995-06 62. Access and copying. 63. Retention. 64. Disclosure of information held by the Crown. 65. Offence of prejudicing investigation. 66. Extension of certain offences to Crown servants and exemptions for regulators, etc. 67. Authorisation of delay in notifying arrest. 68. Power to make regulations. 69. Repeal of the Drug Trafficking Offences Act,1988.
 
 SCHEDULE
 
