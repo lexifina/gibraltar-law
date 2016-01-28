@@ -14,7 +14,9 @@ Amending enactments Relevant current provisions Commencement date Acts. 1960-21 
 
 17.8.2004 2006-10 ss. 10(2), (9), 14(2), 15, 18(3), 20, 23, 25(3), 25A
 
-20.4.2006 2014-03 ss. 2, 6A-6B, 27, Sch. 27.2.2014
+20.4.2006 2014-03 ss. 2, 6A-6B, 27, Sch. 27.2.2014 2016-02 ss. 10(3), (3A), (4)-(6), (6A)-(6C), (7)-(8), 10A
+
+28.1.2016
 
 English sources: Protection of Birds Act 1954 (2 and 3 Eliz. 2 c.30) Protection of Animals (Amendment) Act 1954 (2 and 3 Ell. 2 c.40) Abandonment of Animals Act 1960 (8 and 9 Eliz. 2 c.43)
 
@@ -34,7 +36,7 @@ PART II. DISEASES OF ANIMALS AND BIRDS.
 
 PART III. PROTECTION OF ANIMALS AND BIRDS.
 
-5. Cruelty to animals or birds. 6. Abandoning animals. 6A.  Enticing or feeding Barbary Macaques. 6B.  Possibility of fixed penalty notices for enticing or feeding Barbary Macaques. 7. Export of horses. 8. Repealed. 9. Repealed. 10. Registration, licensing and vaccination of dogs. 11. Injuries by animals or birds to persons or property. 12. Repealed.
+5. Cruelty to animals or birds. 6. Abandoning animals. 6A.  Enticing or feeding Barbary Macaques. 6B.  Possibility of fixed penalty notices for enticing or feeding Barbary Macaques. 7. Export of horses. 8. Repealed. 9. Repealed. 10. Registration, licensing and vaccination of dogs. 10A.  Microchips. 11. Injuries by animals or birds to persons or property. 12. Repealed.
 
 PART IV. LEGAL PROCEEDINGS.
 
@@ -46,7 +48,9 @@ PART V. PENALTIES.
 
 Animals and Birds
 
-1948-30 PART VI. MISCELLANEOUS PROVISIONS.
+1948-30
+
+PART VI. MISCELLANEOUS PROVISIONS.
 
 22.  Power and duties of authorised officers and others. 23.  Failure to produce licence. 24.  Seizure of stray animals and birds. 25.  Finding by persons other than authorised officers. 25A. Obstructing Officers in execution of duties under Act. 26.  Rules. 27.  Amendments to Schedule.
 
