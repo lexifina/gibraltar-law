@@ -22,13 +22,7 @@ Whereas:
 
 (2) The Community is seriously concerned by the continuous release of persistent organic pollutants into the environment. These chemical substances are transported across international boundaries far from their sources and they persist in the environment, bio accumulate through the food web, and pose a risk to human health and the environment. Further measures need therefore to be taken in order to protect human health and the environment against these pollutants.
 
-(3) In view of its responsibilities for the protection of the environment, the Community signed on 24 June 1998 the Protocol to the 1979 Convention on Long-Range
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 Transboundary Air Pollution on Persistent Organic Pollutants, hereinafter ‘the Protocol’, and on 22 May 2001 the Stockholm Convention on Persistent Organic Pollutants, hereinafter ‘the Convention’.
+(3) In view of its responsibilities for the protection of the environment, the Community signed on 24 June 1998 the Protocol to the 1979 Convention on Long-Range Transboundary Air Pollution on Persistent Organic Pollutants, hereinafter ‘the Protocol’, and on 22 May 2001 the Stockholm Convention on Persistent Organic Pollutants, hereinafter ‘the Convention’.
 
 (4) While legislation at Community level relating to persistent organic pollutants has been put in place, its main deficiencies are that there is an absence of, or incomplete legislation on, prohibition of the production and use of any of the currently listed chemicals, that there is no framework to subject additional persistent organic pollutant substances to prohibitions, restrictions or elimination, nor any framework to prevent the production and use of new substances that exhibit persistent organic pollutant characteristics. No emission reduction targets, as such, have been set at Community level and the current release inventories do not cover all sources of persistent organic pollutants.
 
@@ -38,11 +32,7 @@ Subsidiary 2006/080 Transboundary Air Pollution on Persistent Organic Pollutants
 
 (7) Moreover, considering that the provisions of this Regulation are underpinned by the precautionary principle as set forth in the Treaty, and mindful of Principle 15 of the Rio Declaration on Environment and Development and in view of the aim of elimination, where feasible, of the release of persistent organic pollutants into the environment, it is appropriate in certain cases to provide for control measures stricter than those under the Protocol and the Convention.
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 (8) In the future, the proposed REACH Regulation could be an appropriate instrument by which to implement the necessary control measures on production, placing on the market and use of the listed substances and the control measures on existing and new chemicals and pesticides exhibiting persistent organic pollutants' characteristics. However, without prejudice to the future REACH Regulation and since it is important to implement these control measures on the listed substances of the Protocol and the Convention as soon as possible, this Regulation should for now implement those measures.
+(8) In the future, the proposed REACH Regulation could be an appropriate instrument by which to implement the necessary control measures on production, placing on the market and use of the listed substances and the control measures on existing and new chemicals and pesticides exhibiting persistent organic pollutants' characteristics. However, without prejudice to the future REACH Regulation and since it is important to implement these control measures on the listed substances of the Protocol and the Convention as soon as possible, this Regulation should for now implement those measures.
 
 (9) In the Community, the placing on the market and use of most of the persistent organic pollutants listed in the Protocol or the Convention has already been phased out as a result of the prohibitions laid down in Council Directive 79/117/EEC of 21 December 1978 prohibiting the placing on the market and use of plant protection products containing certain active substances and Council Directive 76/769/EEC of 27 July 1976 on the approximation of the laws, regulations and administrative provisions of the Member States relating to restrictions on the marketing and use of certain dangerous substances and preparations. However, in order to fulfil the Community's obligations under the Protocol and the Convention and to minimise the release of persistent organic pollutants, it is necessary and appropriate also to prohibit the production of those substances and to restrict exemptions to a minimum so that exemptions only apply where a substance fulfils an essential function in a specific application.
 
@@ -50,23 +40,13 @@ Subsidiary 2006/080 (8) In the future, the proposed REACH Regulation could be an
 
 (11) The production and use of hexachlorocyclohexane (HCH), including lindane, is subject to restrictions under the Protocol but not totally prohibited. That substance is still used in some Member States and therefore it is not possible to prohibit immediately all existing uses. However, in view of the harmful properties of HCH and the possible risks related to its release into the environment, its production and uses should be confined to a minimum and ultimately phased out by the end of 2007 at the latest.
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
+(12) Obsolete or carelessly managed stockpiles of persistent organic pollutants may seriously endanger the environment and human health through, for instance, contamination of soil and ground water. It is appropriate, therefore, to adopt provisions that go beyond the provisions laid down in the Convention. Stockpiles of prohibited substances should be treated as waste, while stockpiles of substances the production or use of which is still allowed should be notified to the authorities and properly supervised. In particular, existing stockpiles which consist of or contain banned persistent organic pollutants should be managed as waste as soon as possible. If other substances are banned in the future, their stocks should also be destroyed without delay and no new stockpiles should be built up. In view of the particular problems of certain new Member States, adequate financial and technical assistance should be provided through existing Community financial instruments, such as the Cohesion and Structural Funds.
 
-2000-12
-
-Subsidiary 2006/080 (12) Obsolete or carelessly managed stockpiles of persistent organic pollutants may seriously endanger the environment and human health through, for instance, contamination of soil and ground water. It is appropriate, therefore, to adopt provisions that go beyond the provisions laid down in the Convention. Stockpiles of prohibited substances should be treated as waste, while stockpiles of substances the production or use of which is still allowed should be notified to the authorities and properly supervised. In particular, existing stockpiles which consist of or contain banned persistent organic pollutants should be managed as waste as soon as possible. If other substances are banned in the future, their stocks should also be destroyed without delay and no new stockpiles should be built up. In view of the particular problems of certain new Member States, adequate financial and technical assistance should be provided through existing Community financial instruments, such as the Cohesion and Structural Funds.
-
-(13) In line with the Communication from the Commission on the Community Strategy for Dioxins, Furans and Polychlorinated Biphenyls (PCBs), and with the Protocol and the Convention, releases of persistent organic pollutants which are unintentional by-products of industrial processes should be identified and reduced as soon as possible with the ultimate aim of elimination, where feasible.  Appropriate national action plans, covering all sources and measures, including those provided for under existing Community legislation, should be drawn up and implemented to reduce the releases continuously and cost- effectively as soon as possible. To this end, appropriate tools should be developed in the framework of the Convention.
+(13) In line with the Communication from the Commission on the Community Strategy for Dioxins, Furans and Polychlorinated Biphenyls (PCBs), and with the Protocol and the Convention, releases of persistent organic pollutants which are unintentional by-products of industrial processes should be identified and reduced as soon as possible with the ultimate aim of elimination, where feasible. Appropriate national action plans, covering all sources and measures, including those provided for under existing Community legislation, should be drawn up and implemented to reduce the releases continuously and cost-effectively as soon as possible. To this end, appropriate tools should be developed in the framework of the Convention.
 
 (14) In line with that Communication, appropriate programmes and mechanisms should be established to provide adequate monitoring data on the presence of dioxins, furans and PCBs in the environment. However, it is necessary to ensure that appropriate tools are available and can be used under economically and technically viable conditions.
 
-(15) Under the Convention, the persistent organic pollutant content in waste is to be destroyed or irreversibly transformed into substances that do not exhibit similar characteristics, unless other operations are environmentally preferable. Since current Community legislation on waste does not lay down specific rules as regards those substances, they should be laid down in
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 this Regulation. To ensure a high level of protection, common concentration limits for the substances in waste should be established before 31 December 2005.
+(15) Under the Convention, the persistent organic pollutant content in waste is to be destroyed or irreversibly transformed into substances that do not exhibit similar characteristics, unless other operations are environmentally preferable. Since current Community legislation on waste does not lay down specific rules as regards those substances, they should be laid down in this Regulation. To ensure a high level of protection, common concentration limits for the substances in waste should be established before 31 December 2005.
 
 (16) The importance of identifying and separating waste consisting of, containing or contaminated by persistent organic pollutants at source in order to minimise the spreading of these chemicals into other waste is recognised. Council Directive 91/689/EEC of 12 December 1991 on hazardous waste established Community rules on the management of hazardous waste obliging Member States to take the necessary measures to require that establishments and undertakings which dispose of, recover, collect or transport hazardous waste do not mix different categories of hazardous waste or mix hazardous waste with non-hazardous waste.
 
@@ -76,27 +56,19 @@ Subsidiary 2006/080 this Regulation. To ensure a high level of protection, commo
 
 (19) Public awareness of the hazards that persistent organic pollutants pose to the health of present and future generations as well as to the environment, particularly in developing countries, is often lacking, and wide-scale information is therefore needed to increase the level of caution and gain support for restrictions and bans. In accordance with the Convention, public awareness programmes on these substances, especially for the most vulnerable groups, as well as training of workers, scientists, educators, technical and managerial personnel should be promoted and facilitated, as appropriate.
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 (20) Upon request and within available resources, the Commission and the Member States should cooperate in providing appropriate and timely technical assistance designed especially to strengthen the capacity of developing countries and countries with economies in transition to implement the Convention. Technical assistance should include the development and implementation of suitable alternative products, methods and strategies, inter alia, to the use of DDT in disease vector control which, under the Convention, can only be used in accordance with World Health Organisation recommendations and guidelines and when locally safe, effective and affordable alternatives are not available to the country in question.
+(20) Upon request and within available resources, the Commission and the Member States should cooperate in providing appropriate and timely technical assistance designed especially to strengthen the capacity of developing countries and countries with economies in transition to implement the Convention. Technical assistance should include the development and implementation of suitable alternative products, methods and strategies, inter alia, to the use of DDT in disease vector control which, under the Convention, can only be used in accordance with World Health Organisation recommendations and guidelines and when locally safe, effective and affordable alternatives are not available to the country in question.
 
 (21) There should be regular evaluation of the effectiveness of the measures taken to reduce releases of persistent organic pollutants. To that end, Member States should report regularly to the Commission, in particular as regards release inventories, notified stockpiles and the production and placing on the market of restricted substances. The Commission, in cooperation with Member States, should develop a common format for Member States' reports.
 
-(22) The Convention and the Protocol provide that Parties thereto may propose other substances for international action and consequently additional substances may be listed under those Agreements, in which case this Regulation should be amended accordingly. Furthermore, it should be possible to modify the existing entries in Annexes to this Regulation, inter alia for the purposes of adapting them to scientific and technical progress.
+(22) The Convention and the Protocol provide that Parties thereto may propose other substances for international action and consequently additional substances may be listed under those Agreements, in which case this Regulation should be amended accordingly. Furthermore, it should be possible to modify the existing entries in
+
+Annexes to this Regulation, inter alia for the purposes of adapting them to scientific and technical progress.
 
 (23) When Annexes to this Regulation are amended to implement any listings of an additional, intentionally produced persistent organic pollutant in the Protocol or in the Convention, it should be included in Annex II, instead of Annex I, only in exceptional cases and when duly justified.
 
 (24) The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission.
 
-(25) In order to ensure transparency, impartiality and consistency at the level of enforcement activities, Member States should lay
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 down rules on penalties applicable to infringements of the provisions of this Regulation and ensure that they are implemented. Those penalties should be effective, proportionate and dissuasive, since non-compliance can result in damage to human health and the environment. Information on infringements of the provisions of this Regulation should be made public, where appropriate.
+(25) In order to ensure transparency, impartiality and consistency at the level of enforcement activities, Member States should lay down rules on penalties applicable to infringements of the provisions of this Regulation and ensure that they are implemented. Those penalties should be effective, proportionate and dissuasive, since non-compliance can result in damage to human health and the environment. Information on infringements of the provisions of this Regulation should be made public, where appropriate.
 
 (26) Since the objectives of this Regulation, namely to protect the environment and human health from persistent organic pollutants, cannot be sufficiently achieved by the Member States, owing to the transboundary effects of those pollutants, and can therefore be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve those objectives.
 
@@ -106,17 +78,11 @@ HAVE ADOPTED THIS REGULATION:
 
 Article 1 Objective and Scope
 
-1. Taking into account, in particular, the precautionary principle, the objective of this Regulation is to protect human health and the environment from persistent organic pollutants by prohibiting, phasing out as soon as possible, or restricting the production, placing on the market and use of substances subject to the Stockholm Convention on Persistent Organic Pollutants, hereinafter ‘the Convention’, or the 1998 Protocol to the 1979 Convention on Long-Range Transboundary Air Pollution on Persistent Organic Pollutants, hereinafter ‘the Protocol’, and by minimising, with a view to eliminating where feasible as soon as possible, releases of such substances, and by establishing provisions regarding waste consisting of, containing or contaminated by any of these substances.
+1. Taking into account, in particular, the precautionary principle, the objective of this Regulation is to protect human health and the environment from persistent organic pollutants by prohibiting, phasing out as soon as possible, or restricting the production, placing on the market and use of substances subject to the Stockholm Convention on Persistent Organic Pollutants, hereinafter ‘the Convention’, or the 1998 Protocol to the 1979 Convention on Long- Range Transboundary Air Pollution on Persistent Organic Pollutants, hereinafter ‘the Protocol’, and by minimising, with a view to eliminating where feasible as soon as possible, releases of such substances, and by establishing provisions regarding waste consisting of, containing or contaminated by any of these substances.
 
 2. Articles 3 and 4 shall not apply to waste consisting of, containing or contaminated by any substance listed in Annexes I or II.
 
 Article 2 Definitions
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
 
 For the purposes of this Regulation:
 
@@ -142,12 +108,6 @@ Article 3 Control of production, placing on the market and use
 
 3.  Member States and the Commission shall, within the assessment and authorisation schemes for existing and new chemicals and pesticides under the relevant Community  legislation, take into consideration the criteria set out in paragraph 1 of Annex D to the Convention and take appropriate measures to control existing chemicals and pesticides and prevent the production, placing on the market and use of new chemicals and pesticides, which exhibit characteristics of persistent organic pollutants.
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
-
 Article 4 Exemptions from control measures
 
 1.  Article 3 shall not apply in the case of:
@@ -164,23 +124,17 @@ However, immediately upon becoming aware of articles referred to in the first an
 
 Whenever the Commission is so informed or otherwise learns of such articles, it shall, where appropriate, notify the Secretariat of the Convention accordingly without further delay.
 
-3.  Where a substance is listed in Part A of Annex I or in Part A of Annex II, a Member State wishing to permit, until the deadline specified in the relevant Annex, the production and use of that substance as a closed- system site-limited intermediate shall notify accordingly the Secretariat of the Convention.
+3.  Where a substance is listed in Part A of Annex I or in Part A of Annex II, a Member State wishing to permit, until the deadline specified in the relevant Annex, the production and use of that substance as a closed-system site-limited intermediate shall notify accordingly the Secretariat of the Convention.
 
 However, such notification may be made only if the following conditions are satisfied:
 
 (a) an annotation has been entered in the relevant Annex expressly to the effect that such production and use of that substance may be permitted;
 
-(b) the manufacturing process will transform the substance into one or more other substances that do  not exhibit the characteristics of a persistent organic pollutant;
+(b) the manufacturing process will transform the substance into one or more other substances that do not exhibit the characteristics of a persistent organic pollutant;
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
+(c) it is not expected that either humans or the environment will be exposed to any significant quantities of the substance during its production and use, as shown through assessment of that closed system in accordance with Commission Directive 2001/59/EC.
 
-2000-12
-
-Subsidiary 2006/080
-
-(c) it is not expected  that either humans or the environment will be exposed to any significant quantities of the substance during its production and use, as shown through assessment of that closed system in accordance with Commission Directive 2001/59/EC.
-
-The notification shall be communicated also to the other Member States and to the Commission and shall give details of actual or estimated total production and use of the substance concerned and the nature of the closed- system site-limited process, specifying the amount of any non-transformed and unintentional trace contamination by any persistent organic pollutant starting material in the final product.
+The notification shall be communicated also to the other Member States and to the Commission and shall give details of actual or estimated total production and use of the substance concerned and the nature of the closed-system site-limited process, specifying the amount of any non-transformed and unintentional trace contamination by any persistent organic pollutant starting material in the final product.
 
 The deadlines referred to in the first subparagraph may be amended in cases where, following a repeat notification from the Member State concerned to the Secretariat of the Convention, express or tacit consent is issued under the Convention for the continued production and use of the substance for another period.
 
@@ -196,17 +150,13 @@ The holder shall manage the stockpile in a safe, efficient and environmentally s
 
 Article 6 Release reduction, minimisation and elimination
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 1.  Within two years of the date of entry into force of this Regulation, Member States shall draw up and maintain release inventories for the substances listed in Annex III into air, water and land in accordance with their obligations under the Convention and the Protocol.
+1.  Within two years of the date of entry into force of this Regulation, Member States shall draw up and maintain release inventories for the substances listed in Annex III into air, water and land in accordance with their obligations under the Convention and the Protocol.
 
 2.  A Member State shall communicate its action plan on measures to identify, characterise and minimise with a view to eliminating where feasible as soon as possible the total releases developed in accordance with its obligations under the Convention, to both the Commission and the other Member States as part of its national implementation plan, pursuant to Article 8.
 
 The action plan shall include measures to promote the development and, where it deems appropriate, shall require the use of substitute or modified materials, products and processes to prevent the formation and release of the substances listed in Annex III.
 
-3. Member States shall, when considering proposals to construct new facilities or significantly to modify existing facilities using processes that release chemicals listed in Annex III, without prejudice to Council Directive 1996/61/EC, give  priority consideration to alter-native processes, techniques or practices that have similar usefulness but which avoid the formation and release of substances listed in Annex III.
+3. Member States shall, when considering proposals to construct new facilities or significantly to modify existing facilities using processes that release chemicals listed in Annex III, without prejudice to Council Directive 1996/61/EC, give priority consideration to alter-native processes, techniques or practices that have similar usefulness but which avoid the formation and release of substances listed in Annex III.
 
 Article 7 Waste management
 
@@ -216,27 +166,17 @@ Article 7 Waste management
 
 In carrying out such a disposal or recovery, any substance listed in Annex IV may be isolated from the waste, provided that this substance is subsequently disposed of in accordance with the first sub-paragraph.
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 3.  Disposal or recovery operations that may lead to recovery, recycling, reclamation or re-use of the substances listed in Annex IV shall be prohibited.
+3.  Disposal or recovery operations that may lead to recovery, recycling, reclamation or re- use of the substances listed in Annex IV shall be prohibited.
 
 4.  By way of derogation from paragraph 2:
 
-(a) waste containing or contaminated by any substance listed in Annex IV may be otherwise disposed of or recovered in accordance with the relevant Community legislation, provided that the content of the listed substances in the  waste is below the concentration limits to be specified in Annex IV. Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 17(3). Until such time as concentration limits are established in accordance with such procedure, the competent authority of a Member State  may adopt or apply concentration limits or specific technical requirements in respect of the disposal or recovery of waste under this point.
+(a) waste containing or contaminated by any substance listed in Annex IV may be otherwise disposed of or recovered in accordance with the relevant Community legislation, provided that the content of the listed substances in the waste is below the concentration limits to be specified in Annex IV. Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 17(3). Until such time as concentration limits are established in accordance with such procedure, the competent authority of a Member State may adopt or apply concentration limits or specific technical requirements in respect of the disposal or recovery of waste under this point.
 
-(b) a Member State or the competent authority designated by that Member State may, in exceptional cases, allow wastes listed in Annex V, part 2 containing or contaminated by any substance listed in Annex IV up to concentration limits to be specified  in Annex V, part 2, to be otherwise dealt with in accordance with a method listed in Annex V, part 2 provided that:
+(b) a Member State or the competent authority designated by that Member State may, in exceptional cases, allow wastes listed in Annex V, part 2 containing or contaminated by any substance listed in Annex IV up to concentration limits to be specified in Annex V, part 2, to be otherwise dealt with in accordance with a method listed in Annex V, part 2 provided that:
 
 (i) the holder concerned has demonstrated to the satisfaction of the competent authority of the Member State concerned that decontamination of the waste in relation to substances listed in Annex IV was not feasible, and that destruction or irreversible transformation of the persistent organic pollutant content, performed in accordance with best environmental practice or best available techniques, does not represent the environmentally preferable option and the competent authority has subsequently authorised the alternative operation;
 
 (ii) this operation is in accordance with the relevant Community legislation and the conditions laid down in relevant additional measures referred to in paragraph 6; and
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
 
 (iii) the Member State concerned has informed the other Member States and the Commission of its authorisation and the justification for it.
 
@@ -248,21 +188,15 @@ Until such time as these concentration limits are established:
 
 (b) where waste is being dealt with under paragraph 4(b), the holders concerned shall provide information on the persistent organic pollutant content of the waste to the competent authority.
 
-6.  The Commission may, where appropriate, and taking into consideration technical developments and relevant international guidelines and decisions and any authorisations granted by a Member State, or the competent authority designated by that  Member  State in accordance with paragraph 4 and Annex V, adopt additional measures relating to the  implementation of this Article.  The Commission shall define a format for the submission of the information by Member States in accordance with paragraph 4(b)(iii). Such measures shall be decided in accordance with the procedure laid down in Article 17(2).
+6.  The Commission may, where appropriate, and taking into consideration technical developments and relevant international guidelines and decisions and any authorisations granted by a Member State, or the competent authority designated by that Member State in accordance with paragraph 4 and Annex V, adopt additional measures relating to the implementation of this Article.  The Commission shall define a format for the submission of the information by Member States in accordance with paragraph 4(b)(iii). Such measures shall be decided in accordance with the procedure laid down in Article 17(2).
 
 7.  The Commission shall, before 31 December 2009, review the derogations in paragraph 4 in the light of international and technical developments, in particular with regard to their environmental preferability.
 
 Article 8 Implementation plans
 
-1.  When preparing their national implementation plans, Member States shall, in accordance with their national procedures, give the public early and effective opportunities  to  participate in this process.
+1.  When preparing their national implementation plans, Member States shall, in accordance with their national procedures, give the public early and effective opportunities to participate in this process.
 
 2.  As soon as a Member State has adopted its national implementation plan in accordance with its obligations under the Convention, it shall communicate it both to the Commission and to the other Member States.
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
 
 3.  When preparing their implementation plans, the Commission and the Member States shall exchange information on the content, as appropriate.
 
@@ -286,12 +220,6 @@ Article 10 Information exchange
 
 (i) policy and decision makers;
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
-
 (ii) particularly vulnerable groups;
 
 (b) the provision of public information;
@@ -302,7 +230,7 @@ Subsidiary 2006/080
 
 Article 11 Technical assistance
 
-In accordance with Articles 12 and 13 of the Convention, the Commission and the Member States shall cooperate in providing appropriate and timely technical and financial assistance to developing countries and countries with economies in transition to assist them, upon request and within available resources and taking into account their particular needs, to develop and strengthen their capacity to fully implement their obligations under the Convention. Such support may also be channelled through non- governmental organisations.
+In accordance with Articles 12 and 13 of the Convention, the Commission and the Member States shall cooperate in providing appropriate and timely technical and financial assistance to developing countries and countries with economies in transition to assist them, upon request and within available resources and taking into account their particular needs, to develop and strengthen their capacity to fully implement their obligations under the Convention. Such support may also be channelled through non-governmental organisations.
 
 Article 12 Reporting
 
@@ -314,11 +242,7 @@ Article 12 Reporting
 
 (a) summary information compiled from the notifications, concerning stockpiles, received pursuant to Article 5(2);
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 (b) summary information compiled from the release inventories drawn up pursuant to Article 6(1);
+(b) summary information compiled from the release inventories drawn up pursuant to Article 6(1);
 
 (c) summary information on the presence of dioxins, furans and PCBs as identified in Annex III in the environment, as compiled pursuant to Article 9.
 
@@ -334,11 +258,7 @@ Member States shall lay down the rules on penalties applicable to infringements 
 
 Article 14 Amendment of Annexes
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 1.  Whenever a substance is listed in the Convention or the Protocol, the Commission shall, where appropriate, amend Annexes I, II and III accordingly.
+1.  Whenever a substance is listed in the Convention or the Protocol, the Commission shall, where appropriate, amend Annexes I, II and III accordingly.
 
 Those measures, designed to amend non-essential elements of this Regulation, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 16(3).
 
@@ -360,11 +280,7 @@ Each Member State shall designate the competent authority or authorities respons
 
 Article 16 Committee for general matters
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 1.  The Commission shall be assisted by the Committee established by Article 29 of Directive 67/548/EEC for all matters under this Regulation except for those relating to waste.
+1.  The Commission shall be assisted by the Committee established by Article 29 of Directive 67/548/EEC for all matters under this Regulation except for those relating to waste.
 
 2.  Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
 
@@ -372,7 +288,9 @@ The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at thr
 
 3. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
 
-Article 17 Committee for waste mattes
+Article 17
+
+Committee for waste mattes
 
 1.  The Commission shall be assisted by the Committee established by Article 18 of Directive 75/442/EEC, for matters relating to waste under this Regulation.
 
@@ -380,7 +298,7 @@ Article 17 Committee for waste mattes
 
 The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
 
-3. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+3.   Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
 
 Article 18 Amendments to Directive 79/117/EEC
 
@@ -390,17 +308,7 @@ Article 19 Entry into force
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080 This Regulation shall be binding in its entirety and directly applicable in all Member States.
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
 Annex I Part A — Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
 
@@ -410,7 +318,7 @@ Tetrabromodiphenyl ether
 
 C12H6Br4O
 
-1. For the purposes of this entry, Article 4(1)(b) shall apply to concen- trations of Tetrabromodiphenyl ether equal to or below 10 mg/kg (0,001% by weight) when it occurs in substances, preparations, articles or as constituents of the flame-retarded parts of articles.
+1. For the purposes of this entry, Article 4(1)(b) shall apply to concen- trations of Tetrabromodiphenyl ether equal to or below 10 mg/kg (0,001% by weight) when it occurs in substances, preparations, articles or as constituents of the flame- retarded parts of articles.
 
 2. By way of derogation, the production, placing on the market and use of the following shall be allowed:
 
@@ -420,17 +328,11 @@ C12H6Br4O
 
 3. Use of articles already in use in the Union before 25 August 2010 containing Tetrabromodiphenyl ether as a constituent of such articles shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
-
 Pentabromodiphenyl ether
 
 C12H5Br5O
 
-1. For the purposes of this entry, Article 4(1)(b) shall apply to concentrations of pentabromodiphenyl ether equal to or below 10 mg/kg (0,001% by weight) when it occurs in substances, preparations, articles or as constituents of the flame-retarded parts of articles.
+1. For the purposes of this entry, Article 4(1)(b) shall apply to concentrations of pentabromodiphenyl ether equal to or below 10 mg/kg (0,001% by weight) when it occurs in substances, preparations, articles or as constituents of the flame- retarded parts of articles.
 
 2. By way of derogation, the production, placing on the market and use of the following shall be allowed:
 
@@ -438,13 +340,11 @@ C12H5Br5O
 
 (b)electrical and electronic equipment within the scope of Directive 2002/95/EC.
 
+withiun
+
+equipment within the scope of Directive 2002/95/EC.
+
 3. Use of articles already in use in the Union before 25 August 2010 containing Pentabromodiphenyl ether as a constituent of such articles shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
 
 Hexabromodiphenyl ether
 
@@ -464,17 +364,11 @@ Heptabromodiphenyl ether
 
 C12H3Br7O
 
-1. For the purposes of this entry, Article 4(1)(b) shall apply to concen- trations of heptabromodiphenyl ether equal to or below 10 mg/kg (0,001% by weight) when it occurs in substances, preparations, articles or as constituents of the flame-retarded parts of articles.
+1. For the purposes of this entry, Article 4(1)(b) shall apply to concen- trations of heptabromodiphenyl ether equal to or below 10 mg/kg (0,001% by weight) when it occurs in substances, preparations, articles or as constituents of the flame- retarded parts of articles.
 
-2. By way of derogation, the production, placing on  the market and use of the following shall be allowed:
+2. By way of derogation, the production, placing on the market and use of the following shall be allowed:
 
-(a) without prejudice to subparagraph (b) articles and preparations containing concentrations below 0,1% of heptabromodiphenyl ether by weight when produced partially or fully from recycled materials or materials from waste prepared for
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
+(a) without prejudice to subparagraph (b) articles and preparations containing concentrations below 0,1% of heptabromodiphenyl ether by weight when produced partially or fully from recycled materials or  materials from waste prepared for re-use;
 
 (b) electrical and electronic equipment within the scope of Directive 2002/95/EC.
 
@@ -484,7 +378,7 @@ Perfluorooctane sulfonic acid and its derivatives (PFOS)
 
 C8F17SO2X
 
-(X = OH, Metal salt (O- M+), halide, amide, and other derivatives including polymers)
+(X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers)
 
 1. For the purposes of this entry, Article 4(1)(b) shall apply to concen- trations of PFOS equal to or below 10 mg/kg (0,001% by weight) when it occurs in substances or in preparations.
 
@@ -502,13 +396,7 @@ C8F17SO2X
 
 (c) photographic coatings applied to films, papers, or printing plates;
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
-
-(d) mist suppressants for non- decorative hard chromium (VI) plating in closed loop systems;
+(d) mist suppressants for non-decorative hard chromium (VI) plating in closed loop systems;
 
 (e) hydraulic fluids for aviation.
 
@@ -522,7 +410,7 @@ As soon as new information on details of uses and safer alternative substances o
 
 (iii) releases of PFOS into the environment have been minimised by applying best available techniques.
 
-6. Once standards are adopted by the European Committee for Standard- isation (CEN) they shall be used as the analytical test methods for demon- strating the conformity of substances, preparations and articles to paragraphs 1 and 2. Any other analytical method for which the user can prove equivalent performance co ld be sed as an
+6. Once standards are adopted by the European Committee for Standard- isation (CEN) they shall be used as the analytical test methods for demon- strating the conformity of substances, preparations and articles to paragraphs 1 and 2. Any other analytical method for which the user can prove equivalent performance could be used as an
 
 alternative to the CEN standards
 
@@ -541,12 +429,6 @@ Chlordane
 200-349-0
 
 —
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
 
 Hexachlorocyclohexanes, including lindane
 
@@ -640,7 +522,7 @@ Polychlorinated Biphenyls (PCB)
 
 215-648-1 and others
 
-Without prejudice to Directive 96/59/EC, articles already in use at the time of the entry into force of this Regulation are allowed to be used
+Without prejudice to Directive 96/59/EC, articles already in use at the time of the entry into force of this  Regulation are allowed to be used
 
 Mirex
 
@@ -668,19 +550,13 @@ Hexabromobiphenyl
 
 Part B — Substances listed only in the Protocol
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
-
-Substance CAS No EC No Specific exemption on intermediate use or other specification
+Substance CAS No EC No Specific exemption on intermediate  use or other specification
 
 Hexachlorobutadiene
 
 87-68-3
 
-201-465-5 1. Placing on the market and use of articles produced  before or on 10 July 2012 containing hexachlorobutadiene as a constituent of such articles shall be allowed until 10 January 2013.
+201-465-5 1. Placing on the market and use of articles produced before or on 10 July 2012 containing hexachlorobutadiene as a constituent of such articles shall be allowed until 10 January 2013.
 
 2. Placing on the market and use of articles already in use before or on 10 July 2012 containing hexachlorobutadiene as a constituent of such articles shall be allowed.
 
@@ -692,38 +568,18 @@ Hexachlorobutadiene
 
 3.  Article 4(2), third and fourth subparagraph shall apply to articles referred to in paragraphs 1 and 2.
 
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
-
 Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)
 
 85535-84-8
 
-287-476-5
+287-476-5 1. By way of derogation, the production, placing on the market and use of substances or preparations containing SCCPs in concentrations lower than 1% by weight or articles containing SCCPs in concentrations lower than 0.15% by weight shall be allowed.
 
-1. By way of derogation, the production, placing on the market and use of substances or preparations containg SCCPs in concentrations lower than 1% by weight shall be allowed.
+2. Use shall be allowed in respect of–
 
-2. By way of derogation, the production, placing on the market, and use of the following applications shall be allowed provided that Member States report to the Commission no later than 2015 and every four years thereafter on the progress made to eliminate SCCPs:
+(a) conveyer belts in the mining industry and dam sealants containing SCCPs already in use before or on 4 December 2015; and
 
-(a) fire retardants in rubber used in conveyor in the mining industry.
+(b)  articles containing SCCPs other than those referred to in (a) already in use before or on 10 July 2012.
 
-(b)  fire retardants in dam sealants..
-
-3.  Placing on the market and use of articles produced before or on 10 July 2012 containing SCCPs as a constituent of such articles shall be allowed until 10 January 2013.
-
-4.  Placing on the market and use of articles already in use before or on 10 July 2012 containing SCCPs as a constituent of articles shall be allowed.
-
-5.  Article 4(2), third and fourth subparagraphs shall apply to articles referred to in paragraphs 1 and 2.
-
-As soon as new information on details of uses and safer alternative substances or technologies become available, the Commission shall review the derogations set out in point 2 so that the uses of SCCPs be phased out.
+3.  Article 4(2) third and fourth subparagraphs shall apply to the articles referred to in point 2 above.
 
 (1) Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.
-
-Environmental Protection (Disposal of Dangerous Substances) ENVIRONMENTAL PROTECTION (DISPOSAL OF PERSISTENT ORGANIC POLLUTANTS) REGULATIONS 2006
-
-2000-12
-
-Subsidiary 2006/080
