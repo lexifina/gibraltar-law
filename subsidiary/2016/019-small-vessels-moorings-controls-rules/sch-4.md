@@ -36,17 +36,17 @@ F. The Captain of the Port, in exercising his discretion to grant permits to moo
 
 (c) where the applicant resides in a household in which there are one or more persons who possess a permit (or permits) to moor a vessel in the designated area specified in Part I of Schedule 1 or to whom a permit to moor a vessel in the Mid-Harbour Small Boats Marina has been granted, shall not grant a permit to moor a small vessel within the Mid-Harbour Small Boats Marina to such person unless satisfied that all such permits to moor vessels in the designated area specified in Part I of Schedule 1 and the Mid-Harbour Small Boats Marina issued to such other person or persons are revoked;
 
-(d) where the applicant has at the time of the initial allocation one or more vessels moored at the Cormorant Camber Small Boats Owners Club, shall not grant a permit to moor a small vessel within the Mid-Harbour Small Boats Marina to such person;
+(d) where the applicant or any other person who resides in the same household as the applicant has at the time of the initial allocation one or more vessels moored at the Cormorant Camber Small Boats Owners Club, shall not grant a permit to moor a small vessel within the Mid-Harbour Small Boats Marina to such person;
 
 (e) shall not grant a permit to moor a small vessel within the Mid- Harbour Small Boats Marina to any person who in his opinion has used a vessel moored in a designated area as a house boat;
 
-(f) shall not grant a permit to moor a small vessel within the Mid- Harbour Small Boats Marina to any person who is in arrears with HM Government of Gibraltar (for the purposes of this subparagraph arrears with HM Government of Gibraltar means being in arrears for a period of no less than three months to HM Government of Gibraltar, a Government Agency, Authority, Company, entity or agent in relation to any debt
+(f) shall not grant a permit to moor a small vessel within the Mid- Harbour Small Boats Marina to any person who is in arrears with HM Government of Gibraltar (for the purposes of this subparagraph arrears with HM Government of Gibraltar means being in arrears for a period of no less than three months to HM Government of Gibraltar, a Government Agency,
 
 Port SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
 
 1960-16
 
-Subsidiary 2016/019 unless all such arrears are paid in full prior to granting of the permit).
+Subsidiary 2016/019 Authority, Company, entity or agent in relation to any debt unless all such arrears are paid in full prior to granting of the permit).
 
 G. Notwithstanding the above the Captain of the Port in his discretion, in consultation with the Director of Equality, may designate and allocate a number of berths within the Mid-Harbour Small Boats Marina for the use of persons who in his opinion-
 
@@ -70,15 +70,13 @@ In exercising his discretion to grant permits the Captain of the Port-
 
 (c) where the applicant has in his possession a permit (or permits) to moor a vessel in a designated area, the Captain of the Port shall not grant a permit to moor a small vessel elsewhere within that area or within another area to such person unless satisfied that such prior permit or permits are revoked;
 
-(d) where the applicant has at the time one or more vessels moored at the Cormorant Camber Small Boats Owners Club, the Captain of the Port shall not grant a permit to moor a small vessel within a designated area to such person;
-
-(e) shall not grant a permit to moor a small vessel within the Mid- Harbour Small Boats Marina to any person who in his opinion has used a vessel moored in a designated area as a house boat;
+(d) where the applicant or any other person who resides in the same household as the applicant has at the time one or more vessels moored at the Cormorant Camber Small Boats Owners Club, the Captain of the Port shall not grant a permit to moor a small vessel within a designated area to such person;
 
 Port SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
 
 1960-16
 
-Subsidiary 2016/019
+Subsidiary 2016/019 (e) shall not grant a permit to moor a small vessel within the Mid- Harbour Small Boats Marina to any person who in his opinion has used a vessel moored in a designated area as a house boat;
 
 (f) shall not grant a permit to moor a small vessel within the Mid- Harbour Small Boats Marina to any person who is in arrears with HM Government of Gibraltar (for the purposes of this subparagraph arrears with HM Government of Gibraltar means being in arrears for a period of no less than 3 months to HM Government of Gibraltar, a Government Agency, Authority, Company, entity or agent in relation to any debt unless all such arrears are paid in full prior to granting of the permit);
 

@@ -10,7 +10,15 @@ SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
 
 Commencement 4.2.2016
 
-______________________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2016/033 Sch. 2, 4 25.2.2016
+
+Port SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
+
+1960-16
+
+Subsidiary 2016/019
 
 ARRANGEMENT OF RULES.
 
