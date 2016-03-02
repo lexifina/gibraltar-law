@@ -6,9 +6,9 @@ ROADSIDE CHECKS
 
 The following points shall, in general, be covered by roadside checks–
 
-(1) daily and weekly driving times, breaks and daily and weekly rest periods; also the preceding days’ record sheets which have to be carried on board the vehicle in accordance with Article 15(7) of Regulation (EEC) No 3821/85 and/or the data stored for the same period on the driver card and/or in the memory of the recording equipment in accordance with Schedule 2 and/or on printouts;
+(1) daily and weekly driving times, breaks and daily and weekly rest periods; also the preceding days’ record sheets which have to be carried on board the vehicle in accordance with Article 36 of Regulation (EU) No 165/2014 and/or the data stored for the same period on the driver card and/or in the memory of the recording equipment in accordance with Schedule 2 and/or on printouts;
 
-(2) for the period referred to in Article 15(7) of Regulation (EEC) No 3821/85, any cases where the vehicle’s authorised speed is exceeded, to be defined as being any periods of more than one minute during which the vehicle’s speed exceeds 90 km/h for category N3 vehicles or 105 km/h for category M3 vehicles (categories N3 and M3 being defined in Annex 2, Part A to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers;
+(2) for the period referred to in Article 36 of Regulation (EU) No 165/2014, any cases where the vehicle’s authorised speed is exceeded, to be defined as being any periods of more than one minute during which the vehicle’s speed exceeds 90 km/h for category N3 vehicles or 105 km/h for category M3 vehicles (categories N3 and M3 being defined in Annex 2, Part A to Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers;
 
 (3) where appropriate, momentary speeds attained by the vehicle as recorded by the recording equipment in no more than the previous 24 hours’ use of the vehicle;
 
