@@ -16,7 +16,7 @@ LN. 2011/089 r. 3(13) & Sch. 3 9.6.2011 2012/015 rr. 23(2)(a), 41, 60A & Sch. 3 
 
 26.4.2012 2013/033 r. 3(3) & (3A) 14.2.2013 2013/036 r. 12(1) & (1A) 21.2.2013 2013/062 rr. 17(1) & (1A), 21(1) & (2), 22(1) & (2) & Sch. 2
 
-18.4.2013
+18.4.2013 2016/041 r. 16, 18, 22(2), Sch. 3 3.3.2016
 
 1 Transitional provisions.– For the period of 28 days from the date of the coming into operation of these regulations the reference in regulation 26(2) of the Traffic (Parking and Waiting) Regulations 2011 to “double red line or, in areas where stopping is permitted under regulation 27(4), a red line painted on the roadway” shall be deemed to read “blue line, a double red line or, in areas where stopping is permitted under regulation 27(4), a red line painted on the roadway.
 
