@@ -40,7 +40,7 @@ Parliament
 
 14.6.2007 2007-30 ss. 2(a)-(b), 3(1), (3), 4(2)-(4), 5(1), 6, 7(3), 14(1), 17, 20(1), (4), 22, 22A, 23, 25(1)-(2), 86, 88, 91(1)(b), 100, Schs. 2, 3
 
-28.6.2007 2015-06 s. 94(1)(a)-(b) 26.2.2015
+28.6.2007 2015-06 s. 94(1)(a)-(b) 26.2.2015 2016-07 ss. 89A-89B 10.3.2016
 
 English sources
 
@@ -162,7 +162,7 @@ Miscellaneous
 
 PART VI. PENSIONS.
 
-90. Interpretation. 91. Entitlement to pension. 92. Computation of pension. 93. Computation of notional annual allowance. 94. Reduced pension and gratuity. 95. Effect of re-election. 96. Gratuity on death. 97. Members dying of injuries or diseases contracted on duty. 98. Members injured or contracting diseases on duty. 99. Pension not assignable. 100. Cessation of pension on disqualification. 101. Increase of pension. 102. Charge on Consolidated Fund.
+89A.   Application. 89B.  Alternative pension scheme. 90. Interpretation. 91. Entitlement to pension. 92. Computation of pension. 93. Computation of notional annual allowance. 94. Reduced pension and gratuity. 95. Effect of re-election. 96. Gratuity on death. 97. Members dying of injuries or diseases contracted on duty. 98. Members injured or contracting diseases on duty. 99. Pension not assignable. 100. Cessation of pension on disqualification. 101. Increase of pension. 102. Charge on Consolidated Fund.
 
 SCHEDULE 1. Classes of Public Officers  who may be elected as members
 
@@ -1236,11 +1236,19 @@ Exclusion of court’s jurisdiction.
 
 PART VI. PENSIONS.
 
-Interpretation.
+Application.
 
 Parliament
 
 1950-15
+
+89A.  This Part does not apply to a person who, after 20 October 2015, has become an elected member for the first time.
+
+Alternative pension scheme.
+
+89B. A person who, but for the operation of section 89A would be entitled to a pension under this Part shall be offered, by the Chief Secretary an opportunity to join such pension scheme as may be available to officers in the public service.
+
+Interpretation.
 
 90.(1)  In this Part, unless the context otherwise requires–
 
@@ -1260,6 +1268,10 @@ Parliament
 
 but do not include service before the 1st day of August, 1964.
 
+Parliament
+
+1950-15
+
 (3)  For the purposes of this Part, where an elected member vacates his seat in the Parliament by operation of section 29(1)(b) of the Constitution, he shall be deemed to have ceased to be an elected member with the expiration of the last day on which he has previously attended a meeting of the Parliament.
 
 (4)  For the purposes of this Part, a person becomes entitled to a pension when he qualifies under section 91(1), notwithstanding that by reason of section 91(2) the pension is not for the time being payable to him.
@@ -1267,10 +1279,6 @@ but do not include service before the 1st day of August, 1964.
 Entitlement to pension.
 
 91.(1)  Subject to the provisions of this Part, every person who–
-
-Parliament
-
-1950-15
 
 (a) has served as an elected member for a period or periods (whether continuous or not and whether before or after the 20th day of December, 1979) being in the aggregate not less than 90 months; and
 
@@ -1292,6 +1300,10 @@ Computation of notional annual allowance.
 
 12 b a x
 
+Parliament
+
+1950-15
+
 where–
 
 “a” is the sum of all allowances that he has received in respect of  his service; and
@@ -1299,10 +1311,6 @@ where–
 “b” is the number of completed months that he has served.
 
 (2)  For the purposes of subsection (1), before the notional annual allowance of an elected member is computed, the allowances that he has received in respect of his service shall be first converted to the corresponding rates of allowance for such service that are payable immediately before he ceases to be an elected member.
-
-Parliament
-
-1950-15
 
 (3)  In subsection (1), in any case where a person has served as an elected member for more than 336 completed months–
 
@@ -1324,6 +1332,10 @@ Reduced pension and gratuity.
 
 (a)  shall be exercisable and, if exercised, may be revoked on or before the date on which the person becomes entitled to the pension under this Act or at any time before he begins to receive the pension under this Act; and
 
+Parliament
+
+1950-15
+
 (b)  shall be exercised or revoked by notice in writing addressed to the Clerk; and
 
 (c)  shall be deemed to have been exercised or revoked on the day on which such notice is received by the Clerk.
@@ -1331,10 +1343,6 @@ Reduced pension and gratuity.
 Effect of re-election.
 
 95.(1)  Where a person who is entitled to a pension under this Act is subsequently re-elected as an elected member, the pension shall cease to be payable to him during the period that he continues to be an elected member.
-
-Parliament
-
-1950-15
 
 (2)  Where a person to whom subsection (1) applies next ceases again to be an elected member the pension to which he was entitled before his re- election shall be re-computed ab initio to take into account the further period of service, and he shall be entitled to the pension as re-computed but in any event being at a rate not less than that which he was entitled before his re-election.
 
@@ -1348,7 +1356,9 @@ Gratuity on death.
 
 96.(1)  Where a person who has served as an elected member for not less than 90 months dies before attaining the age of 55 years (whether or not he is serving as an elected member at the date of his death), there shall be payable to his legal personal representative a sum equal to the maximum gratuity to which the deceased person would have been entitled if he had not died but had on the day following the actual date of his death exercised the option referred  to in section 94.
 
-(2)  For the purposes of subsection (1), a person who dies in service shall be deemed to have ceased to be an elected member on the day following the actual date of his death.
+Parliament
+
+1950-15 (2)  For the purposes of subsection (1), a person who dies in service shall be deemed to have ceased to be an elected member on the day following the actual date of his death.
 
 Members dying of injuries or diseases contracted on duty.
 
@@ -1356,11 +1366,7 @@ Members dying of injuries or diseases contracted on duty.
 
 (a)  an elected member–
 
-(i) is injured in the actual discharge of his duty as or while travelling on duty as an elected member and the injury is not wholly or mainly caused or seriously aggravated by
-
-Parliament
-
-1950-15 his own serious and culpable negligence or misconduct; or
+(i) is injured in the actual discharge of his duty as or while travelling on duty as an elected member and the injury is not wholly or mainly caused or seriously aggravated by his own serious and culpable negligence or misconduct; or
 
 (ii) contracts a disease to which he is exposed by the nature of his duty and which is not wholly or mainly caused or seriously aggravated by his own serious and culpable negligence or misconduct; and
 
@@ -1376,17 +1382,17 @@ and the elected member dies as a direct result thereof, and such death occurs wi
 
 or a sum equal to his notional annual allowance, whichever is the greater sum.
 
-(2)  In addition to the sum payable under subsection (1), the Governor may grant in respect of the dependants of the deceased elected member the pensions which could have been granted under the Pensions Act to the corresponding dependants of an officer in public service under the Government dying as a result of injuries received or disease contracted in the discharge of his duty (not being injuries received while travelling by air in pursuance of official instructions), subject to the following modifications;
-
-(a)  references to the elected member’s notional annual allowance shall be substituted for references to annual pensionable emoluments; and
-
-(b)  if the deceased elected member leaves a widow, the rate of pension granted to her shall not exceed 10/60 of his notional annual allowance at the date of his injury or £1000, whichever
+(2)  In addition to the sum payable under subsection (1), the Governor may grant in respect of the dependants of the deceased elected member the
 
 Parliament
 
 1950-15
 
-is the greater, and the pensions that may be granted to other dependants shall be calculated accordingly; and
+pensions which could have been granted under the Pensions Act to the corresponding dependants of an officer in public service under the Government dying as a result of injuries received or disease contracted in the discharge of his duty (not being injuries received while travelling by air in pursuance of official instructions), subject to the following modifications;
+
+(a)  references to the elected member’s notional annual allowance shall be substituted for references to annual pensionable emoluments; and
+
+(b)  if the deceased elected member leaves a widow, the rate of pension granted to her shall not exceed 10/60 of his notional annual allowance at the date of his injury or £1000, whichever is the greater, and the pensions that may be granted to other dependants shall be calculated accordingly; and
 
 (c)  no regard shall be had to the Oversea Superannuation Scheme or to other public service; and
 
@@ -1406,15 +1412,15 @@ Members injured or contracting diseases on duty.
 
 (c)  he has ceased or ceases to be an elected member; and
 
+Parliament
+
+1950-15
+
 (d)  his condition is such that he is no longer reasonably able to perform the functions of an elected member; and
 
 (e)  his condition was caused or materially accelerated by the injury or disease–
 
 he shall, on so ceasing to be an elected member, be entitled to a pension under this Act to the same extent as he would be if the reference in section 91(1)(a) to 90 months were a reference to the actual length of time that he has served as an elected member and the reference in section 91(2) to 55 years were a reference to his actual age at the date on which he ceases to be an elected member.
-
-Parliament
-
-1950-15
 
 (2)  Where an elected member has become or becomes entitled to a pension by virtue of subsection (1), he shall be entitled to an additional pension calculated by reference to the degree by which his capacity to contribute to his own support is impaired, at the annual rate of the appropriate proportion of his notional annual allowance at the date of his injury according to the following scale:
 
@@ -1440,6 +1446,10 @@ l0/60
 
 (5)  Where the Governor is satisfied that damages have been or will be recovered by an elected member to whom this section applies in respect of an injury or disease for which he receives an additional pension under subsection (2), the Governor may withhold the additional pension or reduce it to such extent as he thinks reasonable having regard to the amount of those damages, whether or not–
 
+Parliament
+
+1950-15
+
 (a)  proceedings have been instituted to enforce the claim; or
 
 (b)  the damages have been paid pursuant to a judgment or order of a court, or by way of settlement or compromise of the claim.
@@ -1449,10 +1459,6 @@ l0/60
 Pension not assignable.
 
 99. A pension or gratuity under this Act shall not be assignable or chargeable  with debts or other liabilities.
-
-Parliament
-
-1950-15
 
 Cessation of pension on disqualification.
 
@@ -1468,7 +1474,9 @@ Increase of pension.
 
 (4)  For the purposes of this section, the question whether there has or has not been a rise in the cost of living shall be determined solely by reference to the index of retail price as shown in the index produced by the Government of Gibraltar.
 
-(5)  The amount of any increase awarded in accordance with the provisions of this section shall not be taken into account for the purposes of section 92(2).
+Parliament
+
+1950-15 (5)  The amount of any increase awarded in accordance with the provisions of this section shall not be taken into account for the purposes of section 92(2).
 
 (6)  Notwithstanding the preceding subsections of this section, where a pension becomes payable to a person who has attained the age of 55 years, it shall not thereafter be increased in accordance with this section until he attains the age of 60 years.
 
