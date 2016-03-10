@@ -31,3 +31,7 @@ GENERAL RULES APPLICABLE BOTH FOR VALUING POLICIES AND FOR ASCERTAINING THE AMOU
 3. The age of the person whose life is assured shall be obtained by adding to the age attained by him at his birthday next after the date of the issue of the policy, the duration of the policy in completed years at the date as at which the value of the policy is required to be ascertained.
 
 4. In the case of a policy issued for a term other than the whole term of life the remaining term at the date at which the value of the policy is required to be ascertained shall be obtained by deducting from the original term of the policy the duration of the policy in completed years at that date.
+
+Friendly Societies
+
+1888-11

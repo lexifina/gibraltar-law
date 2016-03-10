@@ -28,7 +28,9 @@ Act. 1972-06 s. 47
 
 1983-12 s. 4(1)
 
-1999-19 s. 43 26.8.1999 2007-17 ss. 3, 4(1) & (2), 6, 29, 48, 99 14.6.2007
+1999-19 s. 43 26.8.1999 2007-17 ss. 3, 4(1) & (2), 6, 29, 48, 99 14.6.2007 2016-08 ss. 2(1), 67A, 67B, 67C, 67D, 67E, 68(1), 71A, Sch. 5
+
+10.3.2016
 
 English sources
 
@@ -96,11 +98,11 @@ Friendly Societies
 
 1888-11
 
-65. What is a special resolution. 66. Change of name. 67. Amalgamation of societies and transfer of engagements.
+65. What is a special resolution. 66. Change of name. 67. Amalgamation of societies and transfer of engagements. 67A.  Transfer of engagements by a registered society. 67B.  Power of Registrar to alter requirements for transfer by registered society. 67C.  Power of Registrar to effect transfer of engagements. 67D.  Conversion of registered society into company. 67E.  Compensation for loss of office.
 
 Dissolution of Societies.
 
-68. Dissolution of societies. 69. Registration of dissolution. 70. Gazette notice of dissolution. 71. Special provisions regarding dissolution of friendly societies. 72. Investigation of affairs of society with a view to dissolution. 73. Registrar may award that society be dissolved. 74. Powers of Registrar. 75. Award final. 76. Publication of award. 77. Notice to Registrar of proceedings to set award aside
+68. Dissolution of societies. 69. Registration of dissolution. 70. Gazette notice of dissolution. 71. Special provisions regarding dissolution of friendly societies. 71A. Dissolution under section 67A(4)(b) and 67C(8)(b). 72. Investigation of affairs of society with a view to dissolution. 73. Registrar may award that society be dissolved. 74. Powers of Registrar. 75. Award final. 76. Publication of award. 77. Notice to Registrar of proceedings to set award aside
 
 Benefits.
 
@@ -112,11 +114,13 @@ Payments on Death of Young Children.
 
 Regulation of Affairs of Societies.
 
-85. Contributions to other societies. 86. Copies of rules and policies. 87. Notice before forfeiture. 88. No transfers without written consent. 89. Restriction on collectors. 90. General meeting. 91. Balance sheet. 92. Certification of annual returns. 93. Disputes. 94. Service by post. 95. Offences. 96. Application of sections 86 to 95.
+85. Contributions to other societies. 86. Copies of rules and policies. 87. Notice before forfeiture. 88. No transfers without written consent. 89. Restriction on collectors. 90. General meeting.
 
 Friendly Societies
 
-1888-11 Penalties and Appeals, etc.
+1888-11 91. Balance sheet. 92. Certification of annual returns. 93. Disputes. 94. Service by post. 95. Offences. 96. Application of sections 86 to 95.
+
+Penalties and Appeals, etc.
 
 97. Penalties. 98. Appeal. 99. Rules.
 
@@ -127,5 +131,7 @@ SCHEDULE 2. Form of bond.
 SCHEDULE 3. Acknowledgment of registry of society.
 
 SCHEDULE 4. Rules for valuing policies.
+
+SCHEDULE 5 Transfers of Engagements and Conversion: Supplementary
 
 Friendly Societies
