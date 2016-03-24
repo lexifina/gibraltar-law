@@ -1,22 +1,18 @@
-Judicial Service
-
-2007-26
-
-JUDICIAL SERVICE ACT 2007
+Judicial Service Act 2007
 
 Principal Act
 
-Act. No. 2007-26 Commencement (LN. 2007/097) 5.7.2007
+Act. No. 2007-26 Commencement (LN.2007/097) 5.7.2007
 
 Assent 27.6.2007
 
-English sources: None cited
+Amending enactments Relevant current provisions Commencement date
 
-EU Legislation/International Agreements involved:
+Act.  2016-03 ss. 6, 24(1)(a), (6)(b), 32(1), 33(2)(aa), 37(1)(ii)(ba), (d), (3), 40(1)(ba)
 
-Judicial Service
+24.3.20161
 
-2007-26
+1 Commencement Notice 2016/061
 
 ARRANGEMENT OF SECTIONS
 
@@ -28,7 +24,7 @@ PART 1 Preliminary
 
 PART 2 The Rule of Law and Judicial Independence
 
-3. The rule of law. 4. Guarantee of continued judicial independence. 5. Representations to Parliament and to the Government. 6. President of the Courts of Gibraltar. 7. Minister’s Oath. 8. Staff, Accommodation and other Resources.
+3. The rule of law. 4. Guarantee of continued judicial independence. 5. Representations to Parliament and to the Government. 6. Head of the Judiciary. 7. Minister’s Oath. 8. Staff, Accommodation and other Resources.
 
 PART 3 Judicial Service Commission
 
@@ -38,9 +34,7 @@ PART 4 Appointments to Judicial Offices
 
 21.   Appointments to judicial offices: Commission to advise. 22. Merit and good character. 23. Guidance about procedures. 24. Guidance: supplementary. 25.   Filling vacancies. 26.   Request for selection.
 
-Judicial Service
-
-2007-26 27. Selection process. 28. Report. 29. The Governor’s Options. 30. Recommendation following Rejection. 31.   Withdrawal and modification of requests.
+27. Selection process. 28. Report. 29. The Governor’s Options. 30. Recommendation following Rejection. 31.   Withdrawal and modification of requests.
 
 PART 5 Judicial Conduct and Discipline
 
@@ -52,6 +46,4 @@ PART 6
 
 SCHEDULE
 
-Judicial Service
-
-2007-26 AN ACT TO MAKE PROVISION FOR JUDICIAL SERVICE, TO ENSHRINE THE INDEPENDENCE OF THE JUDICIARY, TO PROVIDE FOR RESOURCES FOR THE COURTS, TO MAKE PROVISIONS RELATING TO THE JUDICIAL SERVICE COMMISSION, FOR THE GROUNDS UPON WHICH CERTAIN MEMBERS OF THE JUDICIARY MAY BE REMOVED FROM OFFICE, FOR THE ESTABLISHMENT OF A CODE OF JUDICIAL CONDUCT AND ETHICS AND FOR DISCIPLINARY MATTERS RELATING TO THE JUDICIARY, AND FOR RELATED MATTERS.
+AN ACT TO MAKE PROVISION FOR JUDICIAL SERVICE, TO ENSHRINE THE INDEPENDENCE OF THE JUDICIARY, TO PROVIDE FOR RESOURCES FOR THE COURTS, TO MAKE PROVISIONS RELATING TO THE JUDICIAL SERVICE COMMISSION, FOR THE GROUNDS UPON WHICH CERTAIN MEMBERS OF THE JUDICIARY MAY BE REMOVED FROM OFFICE, FOR THE ESTABLISHMENT OF A CODE OF JUDICIAL CONDUCT AND ETHICS AND FOR DISCIPLINARY MATTERS RELATING TO THE JUDICIARY, AND FOR RELATED MATTERS.
