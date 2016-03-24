@@ -41,3 +41,9 @@ ________________________
 Schedule 5 Regulation 3(3) Fees
 
 1 Self-Drive Operators Licence £250 2 Road Haulage Operators Licence £250
+
+Transport TRANSPORT REGULATIONS 2000
+
+1998-44
+
+Subsidiary 2000/059
