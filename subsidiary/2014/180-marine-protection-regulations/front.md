@@ -12,7 +12,7 @@ Commencement 1.1.2015
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/265 rr. 8(2)(a), (b), (c), (2A), (2B) 1.1.2015 2016/031 Sch. 1 25.2.2016
+LN.  2014/265 rr. 8(2)(a), (b), (c), (2A), (2B) 1.1.2015 2016/031 Sch. 1 25.2.2016 2016/070 Sch. 1 31.3.2016
 
 Nature Protection MARINE PROTECTION REGULATIONS 2014
 
