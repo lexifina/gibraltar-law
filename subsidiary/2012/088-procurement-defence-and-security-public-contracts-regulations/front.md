@@ -12,9 +12,9 @@ Commencement 21.6.2012
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/057 Sch. 3 2.5.2014
+LN.  2014/057 Sch. 3 2.5.2014 2016/084 rr. 2(1), 3(1)(a), (b), 5(4) ,(5), (6) 18.4.2016
 
-Transposing: Directive 2009/81/EC Directive 2013/16/EU
+Transposing: Directive 2009/81/EC Directive 2014/24/EU Directive 2013/16/EU
 
 Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
 
