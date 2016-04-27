@@ -10,6 +10,10 @@ ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
 
 Commencement 4.10.2012 rr.1-3, 11, 19, 21, 22, 24-27 9.1.2013 rr. 4, 10, 12, 131, 14, 18, 20, 23 9.1.20132 rr. 5, 6, 7, 8, 9, 15, 16, 17
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2016/100 rr. 2(1), 4, 5, 8, 9, 10, 14, 15, 16, 17, 18, 20 & 23 27.4.2016
+
 Transposing: Directive 2010/31/EU
 
 EU Legislation/International Agreements involved:
