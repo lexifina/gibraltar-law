@@ -12,9 +12,11 @@ Assent 12.5.2006
 
 Amending enactments Relevant current provisions Commencement date Act.   2006-44 s. 62(1)(a) 1.10.2006 LN.   2011/070 ss. 2, 4(1A), 18(3)(aa), (cc) & (c) & (3A), 19(2)(a)(i), (ii) & (iii), (b)(iii), (c)(iv), (vii) & (viii), (3) & (4), 20(5), 22(1), (2), (3), (4) & (6), 23(3), (3)(a) & (b) & (4), 24(3)(b) & (bb), 24A, 34A, 34B, 35(11), 38(4) & (4A), 40(9), (10), (11) & (12), 49(5) & (10), 50(2) & (3), 52, 59, 59A, 59B, 61(10), (11) & (12), 62(4), 91(1)(a)-(d), (7) & (12), 92(a) & (b), 96(5A), (5B) & (5C)
 
-26.5.2011
+26.5.2011 2016/099 ss. 10, 10A, 10B, 10C, 10D, 11(1) & 12 30.4.2016
 
 Transposing: Directive 2002/19/EC, Directive 2002/20/EC Directive 2002/21/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2002/77/EC Directive 2009/140/EC
+
+Implementing: Regulation (EU) 2015/2120
 
 Communications
 
@@ -28,7 +30,7 @@ PART I PRELIMINARY PROVISIONS
 
 PART II ADMINISTRATION OF THE ACT
 
-3. Duty of the Minister and the Authority. 4. Power to require information etc. 5. Making false or misleading statements. 6. General restrictions on disclosure of information. 7. Power to establish advisory bodies. 8. Annual reports. 9. Regulations. 10. Directions by the Minister and the Authority. 11. Administrative notices. 12. The power of the Authority to issue notices. 13. Public consultation procedure. 14. Requirements to be complied with by the Minister and the Authority when issuing documents. 15. Service of documents. 16. Documents in electronic form. 17. Timing and location of things done electronically.
+3. Duty of the Minister and the Authority. 4. Power to require information etc. 5. Making false or misleading statements. 6. General restrictions on disclosure of information. 7. Power to establish advisory bodies. 8. Annual reports. 9. Regulations. 10. Directions by the Minister and the Authority. 10A. Notifications by the Authority. 10B. Penalties for contravention of conditions or specific obligations. 10C. Amount of penalty under section 10B. 10D. Information gathering by the Authority. 11. Administrative notices. 12. The power of the Authority to issue notices. 13. Public consultation procedure. 14. Requirements to be complied with by the Minister and the Authority when issuing documents. 15. Service of documents. 16. Documents in electronic form. 17. Timing and location of things done electronically.
 
 PART III FUNCTIONS AND OBJECTIVES OF THE AUTHORITY.
 
@@ -38,11 +40,11 @@ General functions and objectives of the Authority.
 
 Co-operation with the European Commission and the regulatory authorities in the Member States
 
-22. Delivery of proposed measures to the European Commission and the regulatory authorities in the Member States. 23. European Commission’s powers in respect to proposed measures.
-
 Communications
 
-2006-15 24. Exception to the procedures in sections 22 and 23. 24A.  Procedure for the consistent application of remedies.
+2006-15
+
+22. Delivery of proposed measures to the European Commission and the regulatory authorities in the Member States. 23. European Commission’s powers in respect to proposed measures. 24. Exception to the procedures in sections 22 and 23. 24A.  Procedure for the consistent application of remedies.
 
 General information functions.
 
@@ -70,13 +72,13 @@ SMP procedures
 
 38. Persons with significant market power. 39. Market definition. 40. Market analysis and market power determinations. 41. Special rules for transnational markets.
 
-Miscellaneous
-
-42. Electronic Communications Apparatus.
-
 Communications
 
-2006-15 43. Prohibitions and restrictions applying to lessees with respect to electronic communications. 44. Supplementary provision to section 43.
+2006-15
+
+Miscellaneous
+
+42. Electronic Communications Apparatus. 43. Prohibitions and restrictions applying to lessees with respect to electronic communications. 44. Supplementary provision to section 43.
 
 Offences under Part IV
 
@@ -94,11 +96,11 @@ Control of the Use of the Electro-Magnetic Spectrum.
 
 Radiocommunications Licences
 
-60. The power to grant licences. 61. Licensing. 62. Exemption from the need to obtain a licence. 63. Fees for licences. 64. Limitation on the number of licences.
+60. The power to grant licences.
 
 Communications
 
-2006-15 65. Bidding for licences. 66. Register of licences.
+2006-15 61. Licensing. 62. Exemption from the need to obtain a licence. 63. Fees for licences. 64. Limitation on the number of licences. 65. Bidding for licences. 66. Register of licences.
 
 Dealing in Radiocommunications Apparatus.
 
@@ -120,11 +122,9 @@ PART VII OFFENCES (GENERAL MATTERS), APPEALS AND DISPUTE RESOLUTION
 
 Offences (General Matters)
 
-86. Offences by others. 87. Offences by corporate bodies. 88. Continuation of the offence. 89. Summary proceedings.
-
 Communications
 
-2006-15 90. Civil proceedings.
+2006-15 86. Offences by others. 87. Offences by corporate bodies. 88. Continuation of the offence. 89. Summary proceedings. 90. Civil proceedings.
 
 Appeals
 
