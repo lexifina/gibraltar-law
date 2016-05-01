@@ -10,7 +10,9 @@ MOTOR VEHICLES TEST REGULATIONS
 
 1.4.1987
 
-Amending enactments Relevant current Provisions Commencem ent date LN.   1988/026 r.37 18.2.1988 1990/010 Sch.5 18.1.1990 1996/046 rr.7 and 37 28.3.1996 1997/077 rr.2, 7, 10(c), 16(1) & (2), 17, 18(2), 19(1), 20(1), 21(4), 22(1) & (2), 23(1)(a),  24(a),(b) & (c), 30(1), 35, 36, 37, 38, 40, 44(a), 46(b), Sch.4 and Sch.5
+Amending enactments Relevant current Provisions Commencem ent date
+
+LN.   1988/026 r.37 18.2.1988 1990/010 Sch.5 18.1.1990 1996/046 rr.7 and 37 28.3.1996 1997/077 rr.2, 7, 10(c), 16(1) & (2), 17, 18(2), 19(1), 20(1), 21(4), 22(1) & (2), 23(1)(a),  24(a),(b) & (c), 30(1), 35, 36, 37, 38, 40, 44(a), 46(b), Sch.4 and Sch.5
 
 24.7.1997 1997/140 rr. 3(c) and 6(c) 17.11.1997 1998/021 rr.6(a) & (b), 7, 13(1A), Sch.2 and Sch.3
 
@@ -18,7 +20,7 @@ Amending enactments Relevant current Provisions Commencem ent date LN.   1988/02
 
 25.8.2005 2012/074 rr. 2, 6, 7, 18(3), Schs. 1 & 3 14.5.2012 2013/018 Sch. 2 31.1.2013 2014/036 rr. 2, 3(d), 8, 10(c), 13(1), (1A), 13A, 16A, 17(1), (2), 19(1), 20(1), (3), (3a), (4), 30A, 31, 32, 34, 35, 36(1)(c)(v), 37(1), (1A), 38, 40, 44, 46(b), Schs. 4, 5 & 6
 
-20.3.2014
+20.3.2014 2016/079 Sch. 5 1.5.2016
 
 EU Legislation/International Agreements involved: Directive 2009/40/EC
 
@@ -50,7 +52,9 @@ Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 25. Power to stop vehicles. 26. Right to have examination deferred. 27. Deferred examination. 28. Notice of defect. 29. Further tests.
+Subsidiary 1987/067
+
+25. Power to stop vehicles. 26. Right to have examination deferred. 27. Deferred examination. 28. Notice of defect. 29. Further tests.
 
 Appeals.
 
@@ -72,13 +76,11 @@ SCHEDULE 1. Class of vehicles to which the regulations do not apply.
 
 SCHEDULE 2. Prescribed requirements.
 
-SCHEDULE 3. Minimum requirements concerning the contents
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 and recommended methods of examination
+Subsidiary 1987/067 SCHEDULE 3. Minimum requirements concerning the contents and recommended methods of examination
 
 SCHEDULE 4. Forms.
 
@@ -150,13 +152,11 @@ Temporary Certificate.
 
 (2) A certificate issued in accordance with subregulation (1) shall be in the form numbered MVT/1 in Schedule 4, which shall be signed by the Chief Examiner or some person authorized in that behalf by the Chief Examiner, and shall show–
 
-(a) in the case of a motor vehicle, the registration mark;
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067
+Subsidiary 1987/067 (a) in the case of a motor vehicle, the registration mark;
 
 (b) in the case of a trailer, the identification mark allotted to it;
 
@@ -184,13 +184,13 @@ Applications for first examination.
 
 (c) in the case of a private motor vehicle with not more than 8 seats (excluding the driver’s seat) or motor cycle which on the appointed day had been registered–
 
-(i) for four years or more: within 60 days of the next anniversary of its registration;
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
 Subsidiary 1987/067
+
+(i) for four years or more: within 60 days of the next anniversary of its registration;
 
 (ii) for less than four years: within 60 days of the anniversary of its registration falling in the tenth year after its manufacture;
 
@@ -214,13 +214,11 @@ Form of application.
 
 Notice of appointment.
 
-9. (1)  On receipt of an application under regulation 6 or 7, the Chief Examiner shall issue to the applicant a notice of appointment in the form numbered MVT/3 in Schedule 4, stating the date and time reserved for the examination.
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067
+Subsidiary 1987/067 9. (1)  On receipt of an application under regulation 6 or 7, the Chief Examiner shall issue to the applicant a notice of appointment in the form numbered MVT/3 in Schedule 4, stating the date and time reserved for the examination.
 
 (2) The Chief Examiner may, in a notice of appointment for the examination of–
 
@@ -248,15 +246,15 @@ Other conditions.
 
 (b) unless, being a motor vehicle, there is permanently affixed to the chassis or main structure of the vehicle, in a conspicuous and easily accessible position so as to be readily legible, the chassis or serial number shown in the certificate of registration;
 
-(c) if it so dirty or dangerous as to make it unreasonable for an examiner to be required to examine it.
-
-Right to refuse examination.
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
 Subsidiary 1987/067
+
+(c) if it so dirty or dangerous as to make it unreasonable for an examiner to be required to examine it.
+
+Right to refuse examination.
 
 12. (1)  An examiner may refuse to examine a vehicle–
 
@@ -286,17 +284,17 @@ Objects and manner of examination.
 
 (2) The manner in which examinations are to be carried out and the apparatus to be used shall comply with the requirements of Schedule 3.
 
-Objects and manner of examination –vehicles manufactured before 1 January 1960.
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 Objects and manner of examination –vehicles manufactured before 1 January 1960.
 
 13A.(1) This regulation shall apply to any vehicle which–
 
 (a) was manufactured before 1 January 1960; and
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 (b) by virtue of its construction will not satisfy the requirements set out in regulation 13.
+(b) by virtue of its construction will not satisfy the requirements set out in regulation 13.
 
 (2) In carrying out the examination of a vehicle to which this regulation applies, it shall be the duty of the examiner to determine whether the vehicle complies with the requirements set out in Part II of Schedule 6.
 
@@ -314,15 +312,15 @@ Liability for loss or damage.
 
 (2)  Where a vehicle has been altered from its original manufacturer’s specification or has had accessories fitted to it other than those provided by the manufacturer, the Government shall not be liable for any loss or damage to the vehicle caused by virtue of the alterations or additions.
 
-Issue of roadworthiness certificate.
-
-16. (1)  Where on examination a vehicle is found to comply with the prescribed requirements, the examiner shall issue to the owner of the vehicle a roadworthiness certificate in the form numbered MVT/4 in Schedule 4, which shall state the period of its validity.
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 (2) In the case of a vehicle intended for use as a public service vehicle, the Traffic Commission may authorize the Chief Examiner, in writing, to issue a roadworthiness certificate notwithstanding that the dimensions of the vehicle do not comply with all the requirements as to construction contained in any relevant regulations made under the Act.
+Subsidiary 1987/067 Issue of roadworthiness certificate.
+
+16. (1)  Where on examination a vehicle is found to comply with the prescribed requirements, the examiner shall issue to the owner of the vehicle a roadworthiness certificate in the form numbered MVT/4 in Schedule 4, which shall state the period of its validity.
+
+(2) In the case of a vehicle intended for use as a public service vehicle, the Traffic Commission may authorize the Chief Examiner, in writing, to issue a roadworthiness certificate notwithstanding that the dimensions of the vehicle do not comply with all the requirements as to construction contained in any relevant regulations made under the Act.
 
 Issue of roadworthiness classic certificate – vehicles manufactured before 1 January 1960.
 
@@ -342,17 +340,17 @@ Issue of notice of refusal.
 
 17.(1) Subject to the provisions of regulation 16(2), where on examination a vehicle is found not to comply with the prescribed requirements, the examiner shall issue to the owner of the vehicle a notice of refusal of a roadworthiness certificate, in the form numbered MVT/5 in Schedule 4, which shall state the grounds for refusal.
 
-(2) Where on examination a vehicle to which regulation 13A applies is found not to comply with the prescribed requirements, the examiner shall issue to the owner of the vehicle a notice of refusal of a roadworthiness classic certificate, in the form numbered MVT/5A in Part IV of Schedule 6, which shall state the grounds for refusal.
-
-Procedure when braking test unsafe.
-
-18. (1) Where in the course of an examination it is found that there are such defects in the construction or condition of the vehicle or its equipment or
+(2) Where on examination a vehicle to which regulation 13A applies is found not to comply with the prescribed requirements, the examiner shall
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 accessories that to carry out a braking test in the prescribed manner would be likely to cause danger to any person or damage to the vehicle or to other property, the examiner shall not carry out the braking test but shall complete the rest of the examination in accordance with these regulations.
+Subsidiary 1987/067 issue to the owner of the vehicle a notice of refusal of a roadworthiness classic certificate, in the form numbered MVT/5A in Part IV of Schedule 6, which shall state the grounds for refusal.
+
+Procedure when braking test unsafe.
+
+18. (1) Where in the course of an examination it is found that there are such defects in the construction or condition of the vehicle or its equipment or accessories that to carry out a braking test in the prescribed manner would be likely to cause danger to any person or damage to the vehicle or to other property, the examiner shall not carry out the braking test but shall complete the rest of the examination in accordance with these regulations.
 
 (2)  Where an examiner proceeds in accordance with sub-regulation (1), he shall issue to the owner of the vehicle a notice of refusal of a roadworthiness certificate stating–
 
@@ -372,19 +370,19 @@ Application for re-examinations.
 
 Conditions for re-examinations.
 
-20. (1)  On the date and at the time appointed for re-examination, the owner of the vehicle shall produce to the examiner the notice of refusal of a roadworthiness certificate or a roadworthiness classic certificate as applicable, except where the application for reexamination was endorsed on the notice of refusal.
-
-(2) The provisions of regulations 9, 11, 12, 14 and 15 shall apply to a re- examination so far as the circumstances may require.
-
-Conduct of re-examination and issue of certificates and notices.
-
-21. (1)  On the re-examination of a vehicle, it shall be the duty of the examiner to determine whether the defects recorded in the notice of refusal
+20. (1)  On the date and at the time appointed for re-examination, the owner of the vehicle shall produce to the examiner the notice of refusal of a roadworthiness certificate or a roadworthiness classic certificate as
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 have been rectified, so that the vehicle complies with the prescribed requirements.
+Subsidiary 1987/067 applicable, except where the application for reexamination was endorsed on the notice of refusal.
+
+(2) The provisions of regulations 9, 11, 12, 14 and 15 shall apply to a re- examination so far as the circumstances may require.
+
+Conduct of re-examination and issue of certificates and notices.
+
+21. (1)  On the re-examination of a vehicle, it shall be the duty of the examiner to determine whether the defects recorded in the notice of refusal have been rectified, so that the vehicle complies with the prescribed requirements.
 
 (2) Notwithstanding anything in sub-regulation (1), the examiner may, on a re-examination, determine whether the vehicle complies with all or any of the other prescribed requirements.
 
@@ -402,19 +400,19 @@ Notifiable alterations and re-examination.
 
 Duty to notify alterations.
 
-22.(1)  If any of the alterations to which this regulation applies is made to any vehicle in respect of which a roadworthiness certificate has been issued, the owner of the vehicle shall, within 14 days, send to the Chief Examiner particulars of the alterations in the form numbered MVT/6 in Schedule 4.
+22.(1)  If any of the alterations to which this regulation applies is made to any vehicle in respect of which a roadworthiness certificate has been issued,
+
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 the owner of the vehicle shall, within 14 days, send to the Chief Examiner particulars of the alterations in the form numbered MVT/6 in Schedule 4.
 
 (2) Where alterations to a vehicle change its unladen weight or gross vehicle weight, the owner shall append to the particulars a request for amendment of the roadworthiness certificate.
 
 (3) The alterations to which this regulation applies are–
 
 (a) alterations to the structure or fixed equipment of the vehicle which varies its carrying or drawing capacity;
-
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067
 
 (b) alterations which affect any part of the braking system or the steering system with which the vehicle is equipped or the means of operation of either system;
 
@@ -436,6 +434,12 @@ Procedure on re-examination.
 
 (a)  amend the roadworthiness certificate relating to that vehicle, as requested by the owner;
 
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
+
 (b) issue to the owner a notice of refusal to amend the roadworthiness certificate; or
 
 (c) if he decides that in consequence of the alterations the vehicle no longer complies with the prescribed requirements, withdraw the roadworthiness certificate.
@@ -444,11 +448,7 @@ Road side tests.
 
 Power to stop vehicles.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 25.(1)  Where a police officer in uniform or, in the case of a public service vehicle, a Transport Inspector has reason to suspect that a motor vehicle or trailer on a road may be unfit for the purposes for which it is licensed, he may require the driver to stop, so that the motor vehicle or the trailer or both, as the case may be, may be examined and shall–
+25.(1)  Where a police officer in uniform or, in the case of a public service vehicle, a Transport Inspector has reason to suspect that a motor vehicle or trailer on a road may be unfit for the purposes for which it is licensed, he may require the driver to stop, so that the motor vehicle or the trailer or both, as the case may be, may be examined and shall–
 
 (a) ask the driver for his name and address and, if he is not the owner of the vehicle or vehicles, for the name and address of the owner; and
 
@@ -468,19 +468,17 @@ Provided that the police officer or Transport Inspector may require the examinat
 
 and, in either such case, the vehicle shall not be removed before it has been examined.
 
-Deferred examination.
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 Deferred examination.
 
 27. Where the driver elects to have the examination of the motor vehicle or trailer deferred, it shall take place within seven days, unless the Chief Examiner agrees otherwise, and it shall be the duty of the owner of the motor vehicle or trailer to produce it, or cause it to be produced, for the deferred examination at a time and place to be appointed by the Chief Examiner and notified to the owner.
 
 Notice of defect.
 
-28. Where, on the examination of a motor vehicle or trailer under regulation 25 or regulation 27, it appears to the examiner that the vehicle does not
-
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 comply with any prescribed condition as to construction equipment or maintenance, he may, whether or not the defect makes the vehicles unfit for the purposes for which it is licensed and whether or not he proposes to institute proceedings for the breach of the condition, give notice in writing to the owner of the vehicle, specifying the defect and the condition alleged to have been broken and requiring him to have the defect remedied within 14 days of the date of the notice or such longer period as the Chief Examiner may allow.
+28. Where, on the examination of a motor vehicle or trailer under regulation 25 or regulation 27, it appears to the examiner that the vehicle does not comply with any prescribed condition as to construction equipment or maintenance, he may, whether or not the defect makes the vehicles unfit for the purposes for which it is licensed and whether or not he proposes to institute proceedings for the breach of the condition, give notice in writing to the owner of the vehicle, specifying the defect and the condition alleged to have been broken and requiring him to have the defect remedied within 14 days of the date of the notice or such longer period as the Chief Examiner may allow.
 
 Further tests.
 
@@ -496,17 +494,19 @@ Bringing of appeals.
 
 Bringing of appeals – vehicles manufactured before 1 January 1960.
 
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
+
 30A.(1) A person aggrieved by the refusal of a roadworthiness classic certificate following the examination or re-examination of a motor vehicle or trailer or by the suspension of a motor vehicle licence following any such examination or re-examination or by a notice of defect given under regulation 28, may, within 14 days of the day when the notice was given, appeal to the licensing authority against the refusal or the suspension or the notice of defect, as the case may be.
 
 (2) An appeal shall be by notice in the form MVT/7A set out in Part V of Schedule 6 and shall be accompanied by the prescribed fee.
 
 Nomination of appeal officer.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 31. On receipt of a notice of appeal under regulation 30, the licensing authority shall nominate some suitably qualified person to act as appeal officer and as such to re-examine the vehicle and report the result of the re- examination to the licensing authority.
+31. On receipt of a notice of appeal under regulation 30, the licensing authority shall nominate some suitably qualified person to act as appeal officer and as such to re-examine the vehicle and report the result of the re- examination to the licensing authority.
 
 Notice of appointment.
 
@@ -526,17 +526,19 @@ Information to be furnished.
 
 (b) furnish such information as the appeal officer may reasonably require.
 
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
+
 (2) Without prejudice to the generality of paragraph (b) of sub- regulation (1), such information may relate to any alteration or repair to the vehicle or any accident in which it may have been involved or any damage it may have sustained since the examination or re-examination which resulted in the refusal or suspension or notice of defect appealed against.
 
 Conduct of re-examinations on appeal.
 
 34.(1) Subject to sub-regulation (2), the provisions of regulations 9, 11 and 12(2) and of Schedules 2 and 3 shall, mutatis mutandis, apply to re- examinations on appeal as they apply to other examinations.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 (2) In the case of a vehicle manufactured before 1 January 1960 the provisions of regulations 9, 11 and 12(2) and of Part II of Schedule 6 shall, mutatis mutandis, apply to re-examinations on appeal as they apply to other examinations.
+(2) In the case of a vehicle manufactured before 1 January 1960 the provisions of regulations 9, 11 and 12(2) and of Part II of Schedule 6 shall, mutatis mutandis, apply to re-examinations on appeal as they apply to other examinations.
 
 Determination of appeals
 
@@ -558,6 +560,12 @@ Particulars to be contained in test certifcates and notices of refusal.
 
 (ii) if it relates to a trailer, the identification mark allotted to it;
 
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
+
 (iii) the make of the vehicle, its approximate year of manufacture and the mileage recorded by the odometer with which it is fitted, if any;
 
 (iv) the unladen weight of the vehicle specified in kilograms and also, in the case of goods vehicle, its gross vehicle weight specified in kilograms;
@@ -566,11 +574,7 @@ Particulars to be contained in test certifcates and notices of refusal.
 
 Validity of roadworthiness certificates and roadworthiness classic certificates.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 37.(1) Subject to sub-regulation (lA), a roadworthiness certificate or a roadworthiness classic certificate issued in respect of a motor vehicle or trailer shall be valid for a period not exceeding 24 months.
+37.(1) Subject to sub-regulation (lA), a roadworthiness certificate or a roadworthiness classic certificate issued in respect of a motor vehicle or trailer shall be valid for a period not exceeding 24 months.
 
 (1A) Subject to subregulation (2) a roadworthiness certificate or a roadworthiness classic certificate issued in respect of a motor vehicle or trailer shall be valid for the period stated on it not exceeding 24 months from the date of issue.
 
@@ -584,6 +588,12 @@ Duplicate roadworthiness certificates and roadworthiness classic certificate.
 
 38. If a roadworthiness certificate or a roadworthiness classic certificate has been lost or defaced, the owner of the vehicle shall be entitled to receive a duplicate certificate if he applies therefor in writing to the Chief Examiner, remitting the prescribed fee.
 
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
+
 Provisions as to notices.
 
 39. (1)  Except as otherwise provided, every notice under these regulations shall be in writing.
@@ -594,11 +604,7 @@ Provisions as to notices.
 
 Records to be kept.
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 40. Each examiner shall retain at the Centre for at least 36 months, copies of all roadworthiness certificates, roadworthiness classic certificates and notices of refusal issued by him.
+40. Each examiner shall retain at the Centre for at least 36 months, copies of all roadworthiness certificates, roadworthiness classic certificates and notices of refusal issued by him.
 
 Fees.
 
@@ -616,19 +622,19 @@ Transfer or refund of fee.
 
 may, when giving notice or satisfying the Chief Examiner, as the case may be, or within 20 days thereafter –
 
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
+
 (i) apply to the Chief Examiner for another examination of the same kind of that vehicle or of another vehicle, to be carried out within 2 months of the date of the application, and in such case the fee paid on the first application shall be treated as having been paid in respect of or towards the second; or
 
 (ii) give notice to the Chief Examiner that he does not require any examination of the same kind, and in such case the fee, less the sum of £5 for administrative expenses, shall be refunded to the applicant.
 
 Refund of fee paid in appeal.
 
-43. (1)  If, before the time appointed for the re-examination of a vehicle for the purpose of an appeal, the appellant gives the Chief Examiner not less
-
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 than 2 clear days notice that he does not propose to submit the vehicle for re-examination at that time and no other time is then appointed, the fee paid on the appeal shall be repaid to the appellant.
+43. (1)  If, before the time appointed for the re-examination of a vehicle for the purpose of an appeal, the appellant gives the Chief Examiner not less than 2 clear days notice that he does not propose to submit the vehicle for re-examination at that time and no other time is then appointed, the fee paid on the appeal shall be repaid to the appellant.
 
 (2) After the re-examination of a vehicle for the purpose of an appeal, the Chief Examiner, after considering the report of the appeal officer, may repay to the appellant the whole or any part of the fee paid in respect of the appeal, where it appears to him that there were substantial grounds for contesting the notice of refusal or notice of defect against which the appeal was brought.
 
@@ -644,7 +650,11 @@ Using a vehicle in breach of regulations.
 
 (c) after being served with a notice under regulation 28, and not having remedied the defect.
 
-(2) Subject to sub-regulation (3) a person who is guilty of an offence under sub-regulation (1) is liable on summary conviction to a fine up to level 1 on the standard scale.
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067 (2) Subject to sub-regulation (3) a person who is guilty of an offence under sub-regulation (1) is liable on summary conviction to a fine up to level 1 on the standard scale.
 
 (3) A person who is guilty of an offence under sub-regulation (1) in respect of a vehicle manufactured before 1 January 1960 is liable on summary conviction to a fine up to level 4 on the standard scale.
 
@@ -656,11 +666,7 @@ Other offences.
 
 (b) gives false information in answer to a question lawfully put to him under these regulations;
 
-Traffic MOTOR VEHICLES TEST REGULATIONS
-
-2005-26
-
-Subsidiary 1987/067 (c) fails to stop a motor vehicle for examination when required to do so; or
+(c) fails to stop a motor vehicle for examination when required to do so; or
 
 (d) fails to submit a vehicle for examination when under a duty to do so,
 
@@ -677,6 +683,12 @@ Saving.
 (i) is being delivered to or being brought away from a place where work is to be or has been done on it to remedy the defects which caused the refusal; or
 
 (ii) is being towed to a place where it is to be broken up;
+
+Traffic MOTOR VEHICLES TEST REGULATIONS
+
+2005-26
+
+Subsidiary 1987/067
 
 (c) where it is being driven or towed unladen by a vehicle driven under a dealer's licence issued under section 20 of the Act;
 
@@ -710,33 +722,77 @@ Subsidiary 1987/067 SCHEDULE 2. Regulation 13
 
 PRESCRIBED REQUIREMENTS.
 
-1.The requirements contained in the following provisions of the Control of Traffic Regulations–
+1. The requirements contained in the following provisions of the Control of Traffic Regulations–
 
-Item Regulation Affecting Applicable to 1 11 Safe condition of the vehicle and its accessories, in particular– Motor Vehicles Trailers (a) spare wheel carrier Yes No (b) Trailer coupling on vehicle Yes No (c) Coupling on trailer No Yes (d) the chassis Yes Yes (e) electrical wiring and equipment Yes Yes (f) landing legs Yes (g) engine mountings Yes Yes (h) fuel tanks and systems Yes Yes
+Item Regulation Affecting Applicable to 1 11 Safe condition of the vehicle and its accessories, in particular– Motor Vehicles Trailers
+
+(a) spare wheel carrier Yes No
+
+(b) Trailer coupling on vehicle Yes No
+
+(c) Coupling on trailer No Yes
+
+(d) the chassis Yes Yes
+
+(e) electrical wiring and equipment Yes Yes
+
+(f) landing legs
+
+Yes
+
+(g) engine mountings Yes Yes
+
+(h) fuel tanks and systems Yes Yes
 
 (i) transmission shafts and associated equipment
 
 Yes
 
-No (j) battery and support Yes Yes (k) wheels and hubs Yes Yes (l) suspension systems Yes Yes (m) axles and steering gears Yes Yes (n) shock absorbers Yes Yes (o) bumpers Yes Yes (p) the cab Yes No (q) the driving seat Yes No (r) the body Yes Yes (s) driver’s control Yes No (t) cab step or step ring Yes No 2 14 Direction indicators and stop lights Yes Yes 3 20 Front lamps Yes No
+No
 
-2.The requirements contained in the following provisions of the Public Service Vehicles Regulations–
+(j) battery and support Yes Yes
 
-Item Regulation Affecting Applicable to Taxis Omni-buses 4 4 Seating capacity notice Yes Yes 5 25 Notice of fares Yes Yes 6 28 Taxi sign Yes No
+(k) wheels and hubs Yes Yes
 
-3.The requirements contained in the following provisions of the Traffic (Licensing and Registration) Regulations–
+(l) suspension systems Yes Yes
+
+(m) axles and steering gears Yes Yes
+
+(n) shock absorbers Yes Yes
+
+(o) bumpers Yes Yes
+
+(p) the cab Yes No
+
+(q) the driving seat Yes No
+
+(r) the body
+
+Yes Yes
+
+(s) driver’s control Yes No
+
+(t) cab step or step ring Yes No 2 14 Direction indicators and stop lights Yes Yes 3 20 Front lamps Yes No
+
+2. The requirements contained in the following provisions of the Public Service Vehicles Regulations–
 
 Item Regulation Affecting Applicable to
 
-Motor Vehicles Trailers 7 16 Registration marks Yes No
+Taxis Omni-buses 4 4 Seating capacity notice Yes Yes 5 25 Notice of fares Yes Yes 6 28 Taxi sign Yes No
+
+3. The requirements contained in the following provisions of the Traffic (Licensing and Registration) Regulations–
+
+Item Regulation Affecting Applicable to
+
+Motor Vehicles Trailers
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 8 18 Registration marks No Yes 8A 19 Rear registration plate lamp Yes Yes
+Subsidiary 1987/067 7 16 Registration marks Yes No 8 18 Registration marks No Yes 8A 19 Rear registration plate lamp Yes Yes
 
-4.The requirements contained in the following provisions of the Vehicles (Construction, Equipment and Maintenance) Regulations–
+4. The requirements contained in the following provisions of the Vehicles  (Construction, Equipment and Maintenance) Regulations–
 
 PART I.
 
@@ -772,15 +828,13 @@ Yes
 
 PART II.
 
-Item Regulation Affecting Applicable to
-
-Motor Vehicles Trailers
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067 32 37 Exhaust fumes Yes Yes 32A 38 Wiring Yes Yes 33 39 Fire extinguisher Yes Yes 34 40 Luggage carrier Yes Yes 35 41 Cleanliness Yes Yes 36 42 Entrances and exits Yes Yes 37 43 Doors Yes Yes 38 44 Steps No Yes 39 45 Emergency exits No Yes 40 49 Seats Yes Yes 41 51 Ventilation Yes Yes 42 52 Interior lights Yes Yes 43 53 Signalling to driver No Yes 44 54 Direction board No Yes
+Subsidiary 1987/067 Item Regulation Affecting Applicable to
+
+Motor Vehicles Trailers 32 37 Exhaust fumes Yes Yes 32A 38 Wiring Yes Yes 33 39 Fire extinguisher Yes Yes 34 40 Luggage carrier Yes Yes 35 41 Cleanliness Yes Yes 36 42 Entrances and exits Yes Yes 37 43 Doors Yes Yes 38 44 Steps No Yes 39 45 Emergency exits No Yes 40 49 Seats Yes Yes 41 51 Ventilation Yes Yes 42 52 Interior lights Yes Yes 43 53 Signalling to driver No Yes 44 54 Direction board No Yes
 
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
@@ -854,13 +908,11 @@ The inspection shall cover at least the items listed below, provided that these 
 
 (2) Steering;
 
-(3) Visibility;
-
 Traffic MOTOR VEHICLES TEST REGULATIONS
 
 2005-26
 
-Subsidiary 1987/067
+Subsidiary 1987/067 (3) Visibility;
 
 (4) Lighting equipment and parts of electric system;
 
