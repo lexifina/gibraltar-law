@@ -16,9 +16,9 @@ Act. 2006-21 ss. 61(3), 62(4), 63(2) & 65(2), Part IV (ss.254-269), Schs. 2, 4 &
 
 20.7.2006 LN.  2013/1531 ss. 13A, 15(8), 16(2),(2)(b), (c), 209(1), 217(b),(c), 225A, 225B & 231
 
-1.11.2013 Act.   2014-04 s. 187 27.2.2014 LN.  2014/173 ss. 54A, 93A, 215, Schs. 1A & 5 29.10.2014
+1.11.2013 Act.   2014-04 s. 187 27.2.2014 LN.  2014/173 ss. 54A, 93A, 215, Schs. 1A & 5 29.10.2014 2016/107 s. 137(2)(a), (b) 12.5.2016
 
-Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU Directive 2012/28/EU
+Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU Directive 2012/28/EU Directive 2014/26/EU
 
 1 Transitional and saving provisions as published in the Legal Notice are reproduced at the end of this Act.
 
