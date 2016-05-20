@@ -14,19 +14,13 @@ Interpretation of Schedule.
 
 Methods of analysis.
 
-2. All methods of analysis, including laboratory, field and on-line methods, used for the purposes of chemical monitoring programmes carried out under these Rules must be validated and documented in accordance with EN ISO/IEC-17025 standard or other equivalent standards accepted at international level.
+2.All methods of analysis, including laboratory, field and on-line methods, used for the purposes of chemical monitoring programmes carried out under these Rules must be validated and documented in accordance with EN ISO/IEC-17025 standard or other equivalent standards accepted at international level.
 
 Minimum performance criteria for methods of analysis.
 
 3.(1) The minimum performance criteria for all methods of analysis applied shall be based on an uncertainty of measurement of 50% or below (k = 2) estimated at the level of relevant environmental quality standards and a limit of quantification equal or below a value of 30% of the relevant environmental quality standards.
 
 (2) In the absence of relevant environmental quality standard for a given parameter, or in the absence of method of analysis meeting the minimum performance criteria set out in subparagraph (1), monitoring shall be carried out using best available techniques not entailing excessive costs.
-
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098
 
 Calculations of mean values.
 
@@ -40,7 +34,7 @@ Quality assurance and control.
 
 5.(1) The Competent Authority shall ensure that laboratories contracted by it or parties contracted by such laboratories apply quality management system practices in accordance with EN ISO/IEC-17025 or other equivalent standards accepted at international level.
 
-(2) The Competent Authority shall ensure that laboratories contracted by it or parties contracted by such laboratories demonstrate their competences in analysing relevant physico-chemical or chemical measurands by-
+(2) The Competent Authority shall ensure that laboratories contracted by it or parties contracted by such laboratories demonstrate their competences in analysing relevant physico- chemical or chemical measurands by-
 
 (a) participation in proficiency testing programmes covering the methods of analysis referred to in paragraph 2 of measurands at levels of concentrations that are representative of chemical monitoring programmes carried out under these Rules, and
 
@@ -48,8 +42,4 @@ Quality assurance and control.
 
 (3) The proficiency testing programmes referred to in subparagraph (2)(a) shall be organised by accredited organisations or internationally or nationally recognised organisations which meet the requirements of ISO/IEC guide 43-1 or of other equivalent standards accepted at international level.
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 The results of participation in those programmes shall be evaluated on the basis of the scoring systems set out in ISO/IEC guide 43-1 or in the ISO- 13528 standard or in other equivalent standards accepted at international level.
+The results of participation in those programmes shall be evaluated on the basis of the scoring systems set out in ISO/IEC guide 43-1 or in the ISO-13528 standard or in other equivalent standards accepted at international level.

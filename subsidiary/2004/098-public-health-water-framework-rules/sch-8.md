@@ -1,4 +1,4 @@
-SCHEDULE 8
+SCHEDULE 8 (rules 11(1), 14(2))
 
 River basin management plans
 
@@ -30,11 +30,7 @@ PART 1: MATTERS TO BE INCLUDED IN EVERY PLAN
 
 4.. A map of the monitoring network established for the purposes of rule 9 and–
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 (a) information in map form of the results of the monitoring carried out for the status of:
+(a) information in map form of the results of the monitoring carried out for the status of:
 
 (i) surface water;
 
@@ -66,12 +62,6 @@ Subsidiary 2004/098 (a) information in map form of the results of the monitoring
 
 (ii) controls on abstraction and impoundment of water, including reference to registers and those cases where exemptions have been made;
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098
-
 (iii) controls adopted for point source discharges and other impacts on the status of water;
 
 (iv) any measures taken to establish environmental quality standards or controls of the discharge of pollutants or groups of pollutants presenting a significant risk to or via the aquatic environment;
@@ -92,7 +82,7 @@ Subsidiary 2004/098
 
 including the ways in which the environmental objectives are be achieved by the programme.
 
-9. A register of any more detailed programmes and of any supplementary plan prepared under rule 16, together with a summary of their contents.
+9.   A register of any more detailed programmes and of any supplementary plan prepared under rule 16, together with a summary of their contents.
 
 10. A summary of the public information and consultation measures taken, their results and any changes to the plan made as a consequence.
 
@@ -100,11 +90,7 @@ including the ways in which the environmental objectives are be achieved by the 
 
 (a) documents and information used for the development of the plan, including the draft plan;
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 (b) details of–
+(b) details of–
 
 (i) measures adopted in relation to point source discharges and any other significant adverse impacts on the status of water; and
 
@@ -136,18 +122,8 @@ PART 2: ADDITIONAL MATTERS TO BE INCLUDED IN REVISED PLANS
 
 (a) the reasons and basis for using that option;
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 (b) where relevant, the alternative EQS established, evidence that those EQS would offer at least the same level of protection as the EQS laid down in Part A of Schedule 9, including the data and methodology used to derive the EQS, and the categories of surface water to which they would apply;
+(b) where relevant, the alternative EQS established, evidence that those EQS would offer at least the same level of protection as the EQS laid down in Part A of Schedule 9, including the data and methodology used to derive the EQS, and the categories of surface water to which they would apply;
 
 (c) for comparison with the information referred to in paragraph 17, the limits of quantification of the methods of analysis for the matrices specified in Part A of Schedule 9, including information on the performance of those methods in relation to the minimum performance criteria laid down in paragraph 3 of Schedule 11.
 
 19. Justification for the frequency of monitoring applied in accordance with rule 10AA(3), if monitoring intervals are longer than one year.
-
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098

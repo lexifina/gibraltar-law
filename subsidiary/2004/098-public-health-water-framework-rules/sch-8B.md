@@ -27,9 +27,3 @@ INDICATIVE LIST OF THE MAIN POLLUTANTS
 11.  Substances which contribute to eutrophication (in particular, nitrates and phosphates).
 
 12.  Substances which have an unfavourable influence on the oxygen balance (and can be measured using parameters such as BOD, COD, etc.).
-
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098

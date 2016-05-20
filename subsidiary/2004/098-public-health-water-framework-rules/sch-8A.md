@@ -16,17 +16,13 @@ This Part reproduces Article 11(3) of the Directive:
 
 (f)  controls, including a requirement for prior authorisation of artificial recharge or augmentation of groundwater bodies.  The water used may be derived from any surface water or groundwater, provided that the use of the source does not compromise the achievement of the environmental objectives established for the source or the recharged or augmented body of groundwater.  These controls shall be periodically reviewed and, where necessary, updated;
 
-(g)  for point source discharges liable to cause pollution, a requirement for prior regulation, such as a prohibition on the entry of pollutants into water, or for prior authorisation, or registration based on general binding rules, laying down emission controls for the pollutants concerned, including
+(g)  for point source discharges liable to cause pollution, a requirement for prior regulation, such as a prohibition on the entry of pollutants into water, or for prior authorisation, or registration based on general binding rules, laying down emission controls for the pollutants concerned, including controls in accordance with Articles 10 and 16.  These controls shall be periodically reviewed and, where necessary, updated;
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
+(h)  for diffuse sources liable to cause pollution, measures to prevent or control the input of pollutants. Controls may take the form of a requirement for prior regulation, such as a prohibition on the entry of pollutants into water, prior authorisation or registration based on general binding rules where such a requirement is not otherwise provided for under
 
-1950-07
+Community legislation.  These controls shall be periodically reviewed and, where necessary, updated;
 
-Subsidiary 2004/098 controls in accordance with Articles 10 and 16.  These controls shall be periodically reviewed and, where necessary, updated;
-
-(h)  for diffuse sources liable to cause pollution, measures to prevent or control the input of pollutants. Controls may take the form of a requirement for prior regulation, such as a prohibition on the entry of pollutants into water, prior authorisation or registration based on general binding rules where such a requirement is not otherwise provided for under Community legislation.  These controls shall be periodically reviewed and, where necessary, updated;
-
-(i)  for any other significant adverse impacts on the status of water identified under Article 5 and Annex II, in particular measures to ensure that the hydromorphological conditions of the bodies of water are consistent with the achievement of the required ecological status or good ecological potential for bodies of water designated as artificial or heavily modified. Controls for this purpose may take the form of a requirement for prior authorisation or registration based on general binding rules where such a requirement is not otherwise provided for under Community legislation. Such controls shall be periodically reviewed and, where necessary, updated;
+(i)  for any other significant adverse impacts on the status of water identified under Article 5 and Annex II, in particular measures to ensure that the hydromorphological conditions of the bodies of water are consistent with the achievement of the required ecological status or good ecological potential for bodies of water designated as artificial or heavily modified.  Controls for this purpose may take the form of a requirement for prior authorisation or registration based on general binding rules where such a requirement is not otherwise provided for under Community legislation. Such controls shall be periodically reviewed and, where necessary, updated;
 
 (j)  a prohibition of direct discharges of pollutants into groundwater subject to the following provisions:
 
@@ -39,12 +35,6 @@ They may also authorise, specifying the conditions for:
 — reinjection of pumped groundwater from mines and quarries or associated with the construction or maintenance of civil engineering works,
 
 — injection of natural gas or liquefied petroleum gas (LPG) for storage purposes into geological formations which for natural reasons are permanently unsuitable for other purposes,
-
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098
 
 — injection of carbon dioxide streams for storage purposes into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that such injection is made in accordance with Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide (1) or excluded from the scope of that Directive pursuant to its Article 2(2),
 
@@ -59,12 +49,6 @@ Subsidiary 2004/098
 (l)  any measures required to prevent significant losses of pollutants from technical installations, and to prevent and/or to reduce the impact of accidental pollution incidents for example as a result of floods, including through systems to detect or give warning of such events including, in the case of accidents which could not reasonably have been foreseen, all appropriate measures to reduce the risk to aquatic ecosystems.
 
 PART II
-
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098
 
 This Part reproduces Annex VI of the Directive:
 
@@ -88,7 +72,7 @@ Measures required under the following Directives:
 
 (vii) The Urban Waste-water Treatment Directive (91/271/EEC);
 
-(viii) The Plant Protection Products Directive (91/414/EEC);
+(viii)The Plant Protection Products Directive (91/414/EEC);
 
 (ix) The Nitrates Directive (91/676/EEC);
 
@@ -104,11 +88,7 @@ The following is a non-exclusive list of supplementary measures which Member Sta
 
 (ii) administrative instruments;
 
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098 (iii) economic or fiscal instruments;
+(iii) economic or fiscal instruments;
 
 (iv) negotiated environmental agreements;
 
@@ -122,7 +102,7 @@ Subsidiary 2004/098 (iii) economic or fiscal instruments;
 
 (ix) demand management measures, inter alia, promotion of adapted agricultural production such as low water requiring crops in areas affected by drought;
 
-(x) efficiency and reuse measures, inter alia, promotion of water- efficient technologies in industry and water-saving irrigation techniques;
+(x) efficiency and reuse measures, inter alia, promotion of water-efficient technologies in industry and water-saving irrigation techniques;
 
 (xi) construction projects;
 
@@ -137,9 +117,3 @@ Subsidiary 2004/098 (iii) economic or fiscal instruments;
 (xvi) research, development and demonstration projects;
 
 (xvii) other relevant measures.
-
-Public Health PUBLIC HEALTH (WATER FRAMEWORK) RULES 2004
-
-1950-07
-
-Subsidiary 2004/098
