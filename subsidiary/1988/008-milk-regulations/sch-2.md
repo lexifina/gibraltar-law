@@ -20,7 +20,7 @@ NAME OF THE MILK.
 
 (a) the expression ‘semi-skimmed’ or ‘skimmed’, if appropriate, and
 
-(b) the expression `Pasteurised', `Sterilised' or `Ultra Heat Treated' (except that the leters `U. H.T.' may be used be used instead of `Ultra Heat Treated') as is appropriate.
+(b) the expression ‘Pasteurised’, ‘Sterilised’, ‘Ultra Heat Treated or ‘U.R.T’ as is appropriate if the milk in which the fat content is clearly indicated with one decimal and easily readable on the package in form of ‘….% fat’.
 
 (2) The name may be further qualified by other words which make it more precise, and any such other words may (but need not) appear between the various parts of the name prescribed in subparagraph (1) of this paragraph.
 
