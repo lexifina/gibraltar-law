@@ -12,7 +12,9 @@ Commencement 1.1.2015
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/265 rr. 8(2)(a), (b), (c), (2A), (2B) 1.1.2015 2016/031 Sch. 1 25.2.2016 2016/070 Sch. 1 31.3.2016
+LN.  2014/265 rr. 8(2)(a), (b), (c), (2A), (2B) 1.1.2015 2016/031 Sch. 1 25.2.2016 2016/070 Sch. 1 31.3.2016 2016/129 rr. 2, 10(1), 3, 12(1), 15(5), 16(2)- (7), 19(1), 20(5), (6), 21(1)(e), (f), 21(2)(a), (d), (e), 24(7)(e), 25(3), 26, 27(3)(d), (e), 29(6)(g), 29(7), 33(8), 38(2), Sch. 1
+
+16.6.2016
 
 Nature Protection MARINE PROTECTION REGULATIONS 2014
 
@@ -34,11 +36,11 @@ PART II : PERMITS
 
 Chapter 1 List for the purpose of fishing with longlines.
 
-7. Longlines. 8. Establishment of List A. 9. Conditions in relation to the Class A permit. 10. Restrictions on the use of longlines. 11. Total Allowable Catches (TACs) and Minimum Size of Catches. 12. Permissible periods for fishing with longlines. 13. Offences under this Chapter.
+7. Longlines. 8. Establishment of List A. 9. Conditions in relation to the Class A permit. 10. Categories of Class A permits and restrictions. 11. Total Allowable Catches (TACs) and Minimum Size of Catches. 12. Permissible periods for fishing with longlines. 13. Offences under this Chapter.
 
 Chapter 2 Other fishing permits etc.
 
-14. Other fishing permits. 15. Class B permits (fishing with rods or lines). 16. Duration and restrictions. 17. Conditions and prohibitions. 18. Limitation of Class B permits etc. 19. Class C permits (spear fishing). 20. Duration and restrictions. 21. Conditions and prohibitions. 22. Limitation of Class C permits, etc. 23. Class D permits (fishing competitions). 24. Class E permits (sports fishing operator). 25. Limitation of Class E permits, etc. 26. Offences under this Chapter.
+14. Other fishing permits. 15. Class B permits (fishing with rods or lines). 16. Duration and restrictions. 17. Conditions and prohibitions. 18. Limitation of Class B permits etc. 19. Class C permits (Underwater fishing with or without a weapon). 20. Duration and restrictions. 21. Conditions and prohibitions. 22. Limitation of Class C permits, etc. 23. Class D permits (fishing competitions). 24. Class E permits (sports fishing operator). 25. Limitation of Class E permits, etc. 26. Offences under this Chapter.
 
 Nature Protection MARINE PROTECTION REGULATIONS 2014
 
