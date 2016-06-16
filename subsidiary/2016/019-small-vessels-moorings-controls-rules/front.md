@@ -12,7 +12,7 @@ Commencement 4.2.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2016/033 Sch. 2, 4 25.2.2016
+LN. 2016/033 Sch. 2, 4 25.2.2016 2016/127 Sch. 4 16.6.2016
 
 Port SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
 
