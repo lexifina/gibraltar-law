@@ -10,6 +10,10 @@ POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 Commencement 28.2.2013
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2016/123 r. 2(1), Sch. 4 16.6.2016
+
 Transposing: Directive 2010/75/EU Directive 2013/59/EURATOM
 
 EU Legislation/International Agreements involved: _______________________

@@ -70,7 +70,7 @@ Subsidiary 2013/042 (p) in the case of an application for a permit that will aut
 
 (q) any additional information which the applicant wishes the Agency to take into account in considering the application,
 
-(r) an outline of the main alternatives studied by the applicant,
+(r) an outline of the main alternatives to the proposed technology, techniques and measures studied by the applicant,
 
 (s) a non-technical summary of the information referred to in this paragraph.
 
@@ -92,13 +92,11 @@ having regard for that purpose to the possibility of soil and groundwater contam
 
 (4)  The Agency may on request by the applicant waive the requirement in subparagraph (1)(d)(ii) to provide a baseline report, having regard for that purpose to the possibility of soil and groundwater contamination.
 
-2.  An application for a permit for an installation where an activity described point 5.4 of Schedule 1 is carried out must also provide−
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
-Subsidiary 2013/042
+Subsidiary 2013/042 2.  An application for a permit for an installation where an activity described point 5.4 of Schedule 1 is carried out must also provide−
 
 (a) the description of the types and total quantity of waste to be deposited,
 
@@ -126,13 +124,11 @@ Subsidiary 2013/042
 
 (f) the plant will be equipped and operated in such a manner that no separately collected waste capable of being recycled is incinerated or co-incinerated (as the case may be), and
 
-(g) the plant is equipped and operated in such a manner as is practicable to ensure that no waste that includes non-ferrous
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
-Subsidiary 2013/042 metals or hard plastics is incinerated or co-incinerated (as the case may be).
+Subsidiary 2013/042 (g) the plant is equipped and operated in such a manner as is practicable to ensure that no waste that includes non-ferrous metals or hard plastics is incinerated or co-incinerated (as the case may be).
 
 4.  An application for a permit to operate a solvents installation must also include a description of the measures which are expected to ensure that the installation is designed and equipped, and will be operated, in such a manner that the requirements set out in Schedule 2 are met including−
 
@@ -150,13 +146,13 @@ Subsidiary 2013/042 metals or hard plastics is incinerated or co-incinerated (as
 
 (ii) for the volatile organic compounds referred in subparagraph (i), and the halogenated volatile organic compounds which are assigned or need to carry the hazard statements H341 and H351 to be used in the installation, how the emission limit values in Part 4 of Annex VII of the Industrial Emissions Directive will be complied with.
 
-5.  In paragraph 1(1) subparagraphs (k), (l) and (s) do not apply to an application for a permit to operate a solvents installation.
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
-Subsidiary 2013/042 6.  Paragraph 1(1) applies to an application for a permit to operate an installation in which dry cleaning (as defined in Part 10 of Schedule 2) is carried out as if for subparagraphs (e) to (h) there is substituted−
+Subsidiary 2013/042 5.  In paragraph 1(1) subparagraphs (k), (l) and (s) do not apply to an application for a permit to operate a solvents installation.
+
+6.  Paragraph 1(1) applies to an application for a permit to operate an installation in which dry cleaning (as defined in Part 10 of Schedule 2) is carried out as if for subparagraphs (e) to (h) there is substituted−
 
 “(e) the date of installation of the dry cleaning machine, and the manufacturer, description, name and model number, serial number (if any) and rated capacity of the machine,
 
@@ -182,13 +178,13 @@ Subsidiary 2013/042 6.  Paragraph 1(1) applies to an application for a permit to
 
 (d) state that the application describes any foreseeable significant effects of emissions on the environment,
 
-(e) state where and how and at what times) the register may be inspected, and that the register may be inspected free of charge,
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
 Subsidiary 2013/042
+
+(e) state where and how and at what times) the register may be inspected, and that the register may be inspected free of charge,
 
 (f) explain that any person may make written representations to the Agency within the period of 28 days beginning with the date of the advertisement, and give the Agency’s address (including e-mail address) for that purpose,
 
@@ -212,13 +208,15 @@ DETERMINATION OF APPLICATIONS
 
 (a) in the case of a permit for an installation where operation may involve an emission which may affect an area of special interest or a European site (within the meaning of the Nature Protection Act 1991) the Nature Conservancy Council;
 
-(b) such other persons as the Minister may direct.
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
-Subsidiary 2013/042 14.  Paragraph 13 does not apply to a permit to operate an installation involving only dry cleaning.
+Subsidiary 2013/042
+
+(b) such other persons as the Minister may direct.
+
+14.  Paragraph 13 does not apply to a permit to operate an installation involving only dry cleaning.
 
 15.(1)  The period allowed for making representations to the Agency (the “representation period”) is−
 
@@ -248,13 +246,13 @@ Subsidiary 2013/042 14.  Paragraph 13 does not apply to a permit to operate an i
 
 within the period of 4 months beginning with the day on which it received a duly made application, or within such longer period as may be agreed with the applicant.
 
-(2)  The Agency must take no account for the purposes of calculating that period−
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
 Subsidiary 2013/042
+
+(2)  The Agency must take no account for the purposes of calculating that period−
 
 (a) of any period beginning with the date on which notice is served under paragraph 7 and ending on the date on which the applicant furnishes the specified information,
 
@@ -276,13 +274,13 @@ Subsidiary 2013/042
 
 (a) explain where, how and at what times the register which contains−
 
-(i) any additional information relevant to the determination of the application which has become available after the application is advertised under paragraph 8,
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
 Subsidiary 2013/042
+
+(i) any additional information relevant to the determination of the application which has become available after the application is advertised under paragraph 8,
 
 (ii) information about any BAT reference document relevant to the installation or activity concerned,
 
@@ -312,13 +310,13 @@ may be inspected, and that it may be inspected free of charge,
 
 (dd) information on the reasons and considerations on which the determination is based, and
 
-(ee) information about the public participation process, and
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
 Subsidiary 2013/042
+
+(ee) information about the public participation process, and
 
 (ff) advertise the notice on its web site, or if it considers it appropriate advertise the notice by any other means,
 
@@ -340,13 +338,13 @@ within the period of 21 days beginning on the day on which the later of the peri
 
 23.  This paragraph applies where−
 
-(a) the Minister is aware that the operation in Gibraltar of an installation carrying out an activity described in Annex I to the Industrial Emissions Directive is likely to have significant negative effects on the environment of another Member State, or
+(a) the Minister is aware that the operation in Gibraltar of an installation carrying out an activity described in Annex I to the
 
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
-Subsidiary 2013/042
+Subsidiary 2013/042 Industrial Emissions Directive is likely to have significant negative effects on the environment of another Member State, or
 
 (b) another Member State whose environment is likely to be so affected requests information about the operation of the installation.
 
@@ -374,13 +372,13 @@ PART 3
 
 CONFIDENTIAL INFORMATION
 
-28.  Paragraphs 8 or 19 do not apply in so far as they would require the advertisement of any information mentioned in paragraphs 9 or 19 which is not included in the register by virtue of regulation 62.
-
 Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
 
 2005-27
 
-Subsidiary 2013/042 29.  Where a matter falls to be determined for the purposes of regulation 62−
+Subsidiary 2013/042 28.  Paragraphs 8 or 19 do not apply in so far as they would require the advertisement of any information mentioned in paragraphs 9 or 19 which is not included in the register by virtue of regulation 62.
+
+29.  Where a matter falls to be determined for the purposes of regulation 62−
 
 (a) the period within which an advertisement is to be published under paragraph 8 is a 28 day period beginning 14 days after the day on which the matters are so determined,
 
