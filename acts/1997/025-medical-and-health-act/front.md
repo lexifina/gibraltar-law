@@ -18,13 +18,15 @@ Amending enactments Relevant current provisions Commencement date LN. 1998/041 S
 
 15.1.20151 LN. 2015/006 Sch. 2 15.1.2015 2015/008 Sch. 13 15.1.2015
 
-Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC Directive 2001/19/EC
-
 1 Commencment notice see LN. 2014/207
 
 Medical and Health
 
-1997-25 Directive 2006/100/EC Directive 2010/32/EC
+1997-25 2016/136 ss. 2(1), (3), 8(4B), (6), 8A, 9(2A)(b), (2B), (3)(c), (3A)(a), (b), (c)(i), (ii), (4)(b), (c), (d), (e), (4B)(b), (4C), (6)(b), (9)(b), (10), 10(2), (3), (4), (8)(c)(ii), 12, 13(1), (2), (3), (4), (5)(b), 22(b), 23(2), (7)(b), (8), 32(2), (3), (3A), (4), 33(b), 34(1), 44(1)(b), (c), (d), (7), 45(3), Schs 3, 5, 6, 7, 9, 10
+
+23.6.2016
+
+Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC Directive 2001/19/EC Directive 2006/100/EC Directive 2010/32/EC Directive 2013/55/EU
 
 Medical and Health
 
@@ -40,7 +42,7 @@ PART I. PRELIMINARY.
 
 PART II. MEDICAL PRACTITIONERS, DENTISTS AND PHARMACISTS.
 
-4. Establishment and constitution of Medical Registration Board. 5. Committees. 6. Secretary to the Board. 7. Register of medical practitioners, dentists, pharmacists and allied health professionals. 8. Registration of dentists and pharmacists. 8A. The Board shall be the competent authority for the purposes of …. 9. Full registration as medical practitioners. 10. Acquired rights -medical practitioner. 10A.  Acquired rights- pharmacists. 11. Effect of disqualification in an EEA State on registration in Gibraltar. 12. Competent Authority. 13. Visiting EEA medical practitioners. 14. Limited registration of junior doctors and overseas specialists. 15. Eligibility for limited registration. 16. Registration subject to compliance with conditions. 17. Conditions with which the overseas specialist must comply during the period of his registration. 18. Notices. 19. Convictions, malpractice and negligence. 20. Applicability of the Act. 21. Provisional registration as medical practitioner. 21A.   Dentist and pharmacists- requirement to comply with code of ethics. 21B.  Waiver of fees. 22. Rules. 23. Qualification by appropriate European diploma for registration in Part II containing the list of registered dentists or Part III containing the list of registered pharmacists. 23A. Qualification by recognised overseas diploma for registration in Part II containing the list of registered dentists.
+4. Establishment and constitution of Medical Registration Board. 5. Committees. 6. Secretary to the Board. 7. Register of medical practitioners, dentists, pharmacists and allied health professionals. 8. Registration of dentists and pharmacists. 8A. Repealed. 9. Full registration as medical practitioners. 10. Acquired rights -medical practitioner. 10A.  Acquired rights- pharmacists. 11. Effect of disqualification in an EEA State on registration in Gibraltar. 12. Competent Authority. 13. Visiting EEA medical practitioners. 14. Limited registration of junior doctors and overseas specialists. 15. Eligibility for limited registration. 16. Registration subject to compliance with conditions. 17. Conditions with which the overseas specialist must comply during the period of his registration. 18. Notices. 19. Convictions, malpractice and negligence. 20. Applicability of the Act. 21. Provisional registration as medical practitioner. 21A.   Dentist and pharmacists- requirement to comply with code of ethics. 21B.  Waiver of fees. 22. Rules. 23. Qualification by appropriate European diploma for registration in Part II containing the list of registered dentists or Part III containing the list of registered pharmacists. 23A. Qualification by recognised overseas diploma for registration in Part II containing the list of registered dentists.
 
 Medical and Health
 
@@ -98,7 +100,7 @@ Medical and Health
 
 1997-25 Fees
 
-SCHEDULE 3. Primary European Medical Qualifications
+SCHEDULE 3. Repealed
 
 SCHEDULE 4. Specialisations
 
@@ -124,4 +126,4 @@ SCHEDULE 13. Part I Regulated Professions and Protected Titles Part II United Ki
 
 Medical and Health
 
-1997-25 AN ACT TO CONSOLIDATE THE MEDICAL AND HEALTH ACT AND ITS AMENDING PROVISIONS, TO TRANSPOSE INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE  77/452/EEC (AS AMENDED BY COUNCIL DIRECTIVES 81/1057/EEC, 89/594/EEC, 89/595/EEC AND 90/658/EEC), COUNCIL DIRECTIVE 78/686/EEC (AS AMENDED BY COUNCIL DIRECTIVES 81/1057/EEC, 89/594/EEC AND 90/658/EEC), COUNCIL DIRECTIVES 80/154/EEC AND 85/433/EEC (AS AMENDED BY COUNCIL DIRECTIVES 80/1273/EEC, 85/584/EEC, 89/594/EEC AND 90/658/EEC) AND COUNCIL DIRECTIVE 93/16/EEC CONCERNING THE MUTUAL RECOGNITION OF DIPLOMAS, CERTIFICATES AND OTHER FORMAL QUALIFICATIONS AND THE FREE MOVEMENT OF MEDICAL PRACTITIONERS, DENTAL PRACTITIONERS, PHARMACISTS AND OF NURSES RESPONSIBLE FOR GENERAL CARE AND OF MIDWIVES, INCLUDING MEASURES TO FACILITATE THE EFFECTIVE EXERCISE OF THE RIGHT OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES, TO DEAL WITH THE CONSTITUTION OF THE MEDICAL REGISTRATION BOARD AND TO GIVE EFFECT TO OTHER AMENDMENTS RELATING TO VARIOUS PURPOSES INCLUDING PROMOTION OF INTERNATIONAL CO-OPERATION IN THE TRAINING OF MEDICAL PRACTITIONERS WHO ARE NOT NATIONALS OF EEA STATES, THROUGH A SYSTEM OF LIMITED REGISTRATION.
+1997-25 AN ACT TO CONSOLIDATE THE MEDICAL AND HEALTH ACT AND ITS AMENDING PROVISIONS, TO TRANSPOSE, IN PART, INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 2013/55/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 20 NOVEMBER 2013 AMENDING DIRECTIVE 2005/36/EC ON THE RECOGNITION OF PROFESSIONAL QUALIFICATIONS AND REGULATION (EU) NO 1024/2012 ON ADMINISTRATIVE COOPERATION THROUGH THE INTERNAL MARKET INFORMATION SYSTEM, AND TO DEAL WITH THE CONSTITUTION OF THE MEDICAL REGISTRATION BOARD AND TO GIVE EFFECT  TO  OTHER  AMENDMENTS  RELATING TO VARIOUS PURPOSES INCLUDING PROMOTION OF INTERNATIONAL CO-OPERATION IN THE TRAINING OF MEDICAL PRACTITIONERS WHO ARE NOT NATIONALS OF EEA STATES, THROUGH A SYSTEM OF LIMITED REGISTRATION.
