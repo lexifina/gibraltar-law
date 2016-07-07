@@ -10,7 +10,11 @@ Act. No. 2015-22 Commencement (LN.2016/014) 28.1.20161
 
 Assent 6.8.2015
 
-Transposing: Directive 91/308/EEC
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2016/148 s. 33(3) 7.7.2016
+
+Transposing: Directive 91/308/EEC Directive (EU) 2015/849
 
 EU Legislation/International Agreements involved:
 
