@@ -24,9 +24,9 @@ Companies
 
 2014-19 Sch. 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22
 
-20.7.2015 2015/165 s. 168A 1.11.2015
+20.7.2015 2015/165 s. 168A 1.11.2015 2016/143 s. 478A 7.7.2016
 
-Transposing: Directive 2013/34/EU
+Transposing: Directive 2013/34/EU Directive 2014/95/EU
 
 Companies
 
@@ -574,7 +574,7 @@ Service of documents and legal proceedings
 
 Companies
 
-2014-19
+2014-19 478A. Exercise of powers and rights during resolution period.
 
 General provisions
 
