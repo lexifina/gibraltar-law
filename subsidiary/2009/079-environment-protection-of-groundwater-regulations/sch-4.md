@@ -16,13 +16,7 @@ PART I Identification of significant and sustained upward trends
 
 (ii) enable such upward trends to be identified in sufficient time to allow measures to be implemented in order to prevent, or at least mitigate as far as practicable, environmentally significant detrimental changes in groundwater quality.
 
-(iii) the identification carried out for the first time shall take into account existing data, in the context of the report on trend identification
-
-Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/079 within the first river basin management plan, and at least every six years thereafter;
+(iii) the identification carried out for the first time shall take into account existing data, in the context of the report on trend identification within the first river basin management plan, and at least every six years thereafter;
 
 (iv) take into account the physical and chemical temporal characteristics of the body of groundwater, including groundwater flow conditions and recharge rates and percolation time through soil or subsoil;
 
@@ -40,17 +34,11 @@ PART II Starting points for trend reversals
 
 (1) the starting point for implementing measures to reverse significant and sustained upward trends will be when the concentration of the pollutant reaches 75% of the parametric values of the groundwater quality standards set out in Schedule 2 to these Regulations and of the established threshold values, unless
 
-Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/079
-
 (a) an earlier starting point is required to enable trend reversal measures to prevent most cost-effectively, or at least mitigate as far as possible, any environmentally significant detrimental changes in groundwater quality;
 
 (b) a different starting point is justified where the detection limit does not allow for establishing the presence of a trend at 75% of the parametric values; or
 
-(c) the rate of increase and the reversibility of the trend are such that a later starting point for trend reversal measures would still enable such measures to prevent most cost- effectively, or at least mitigate as far as possible, any environmentally significant detrimental changes in groundwater quality;
+(c) the rate of increase and the reversibility of the trend are such that a later starting point for trend reversal measures would still enable such measures to prevent most cost-effectively, or at least mitigate as far as possible, any environmentally significant detrimental changes in groundwater quality;
 
 (d) such later starting point may not lead to any delay in achieving the deadline for the environmental objectives.
 
@@ -59,9 +47,3 @@ Subsidiary 2009/079
 (3) once a starting point has been established for a body of groundwater characterised as being at risk in accordance with paragraph 2.4.4 of Schedule 6 to the Water Framework Rules, and pursuant to subparagraph (1), it shall not be changed during the six-year cycle of the river basin management plan.
 
 (4) trend reversals shall be demonstrated, taking into account relevant monitoring provisions contained in paragraph 1(2) of Part I.
-
-Environment ENVIRONMENT (PROTECTION OF GROUNDWATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/079
