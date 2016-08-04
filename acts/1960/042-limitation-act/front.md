@@ -12,13 +12,17 @@ Assent 29.12.1960
 
 Amending enactments Relevant current provisions
 
-Acts. 1965-10 ss. 5-6, 8, 10 1973-35 ss. 5(3), 7, 7A-7B, 10(4) 1983-48 s. 17(3) 2009-41 ss. 4(1), 10A-10B, 28A, 32(1)-(2) 29.10.2009* LN. 2011/106 s. 33A 7.7.2011 Act. 2013-27 ss. 2(1), 36 28.11.2013 LN. 2015/107 s. 33B 9.7.2015
+Acts. 1965-10 ss. 5-6, 8, 10 1973-35 ss. 5(3), 7, 7A-7B, 10(4) 1983-48 s. 17(3) 2009-41 ss. 4(1), 10A-10B, 28A, 32(1)-(2) 29.10.2009* LN. 2011/106 s. 33A 7.7.2011 Act. 2013-27 ss. 2(1), 36 28.11.2013 LN. 2015/107 s. 33B 9.7.2015 Act. 2016-12 ss. 2(1)-(2), 4(1), 5(2)-(3), 6(2)-(3), 7A(2)-(3), 8(3), 28(2), 32(1), 32A, 36
+
+4.8.20161
 
 Transposing: Directive 2008/52/EC Directive 2013/11/EU
 
 English Sources: Limitation act 1939 (2 & 3 Geo.6 c.21) Law Reform (Limitation of Actions, etc) Act 1954 (2 & 3 Eliz.2 c.36) Limitation Act 1963 (1963 c.47) Law Reform (Miscellaneous Provisions) Act 1971 (1971 c.43)
 
 * Please refer to the amending Act 2009-41 for transitional provisions affecting these amendments.
+
+1 Please refer to the amending Act 2016-12 for transitional provisions affecting these amendments.
 
 Limitation
 
@@ -39,6 +43,10 @@ Limitation
 1960-42 EXTENSION OF LIMITATION PERIODS IN CASE OF DISABILITY, ACKNOWLEDGMENT, PART PAYMENT, FRAUD AND MISTAKE.
 
 28.  Extension of limitation period in case of disability. 28A. Extension for cases where the limitation period is the period under section 10A(3)(b). 29.  Fresh accrual of action on acknowledgment or part payment. 30.  Formal provisions as to acknowledgments and part payments. 31.  Effect of acknowledgment or part payment on persons other than maker or recipient. 32.  Postponement of limitation period in case of fraud or mistake.
+
+PART IIA DISAPPLICATION OF LIMITATION PERIOD AND FOR CERTAIN ACTIONS AGAINST THE CROWN
+
+32A. Disapplication of limitation period for certain actions against the Crown.
 
 PART III. GENERAL.
 
