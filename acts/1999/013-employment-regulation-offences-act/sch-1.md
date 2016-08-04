@@ -14,7 +14,7 @@ FIXED PENALTY EMPLOYMENT OFFENCES
 
 (ii) in the employment of the person who carries on business in those premises,
 
-Provided   that  where   the  person  referred to in  sub- paragraph (a)(i) has his principal place of business in Gibraltar, liability for a fixed penalty offence shall not attach to the person referred to in sub-paragraph (a)(ii);
+Provided that where the person referred to in sub-paragraph (a)(i) has his principal place of business in Gibraltar, liability for a fixed penalty offence shall not attach to the person referred to in sub-paragraph (a)(ii);
 
 (b) in any business or commercial premises in pursuance of an activity in progress not constituting the business ordinarily carried on in those premises shall, for the purposes of this Act, be–
 
@@ -22,19 +22,15 @@ Provided   that  where   the  person  referred to in  sub- paragraph (a)(i) has 
 
 (ii) in the employment of the person who carries on business in those premises,
 
-Provided  that  where   the   person  referred to in  sub- paragraph (b)(i) has his principal place of  business in
+Provided that where the person referred to in sub-paragraph (b)(i) has his principal place of business in Gibraltar, liability for a fixed penalty offence shall not attach to the person referred to in sub-paragraph (b)(ii);
 
-Employment Regulation (Offences)
-
-1999-13 Gibraltar, liability for a fixed penalty offence shall not attach to the person referred to in sub-paragraph (b)(ii);
-
-(c) at a building or construction site or at a site other than those covered under sub-paragraphs (a) and (b) above, in pursuance of an activity in progress carried on at that site, shall, for the purposes of this Act, be–
+(c) at a building or construction site or at a site other than those covered under sub- paragraphs (a) and (b) above, in pursuance of an activity in progress carried on at that site, shall, for the purposes of this Act, be–
 
 (i) in the employment of the person by whom the employed person was engaged or contracted; and,
 
 (ii) in the employment of the principal contractor on that site,
 
-Provided  that  where  the  person   referred  to in sub- paragraph (c)(i) has his principal place of business in Gibraltar, liability for a fixed penalty offence shall not attach to the person referred to in sub-paragraph (c)(ii).
+Provided that where the person referred to in sub-paragraph (c)(i) has his principal place of business in Gibraltar, liability for a fixed penalty offence shall not attach to the person referred to in sub-paragraph (c)(ii).
 
 3.  The provisions referred to in paragraph 1 are as follows–
 
@@ -58,9 +54,7 @@ Offences by employers and the self-employed
 
 Regulation 3 of the Employment Injuries (Contributions) Regulations as applied by regulation 4(1) of the Social Insurance (Contributions) Regulations (Duty to register).
 
-Employment Regulation (Offences)
-
-1999-13 Regulation 3 of the Employment Injuries (Contributions) Regulations as applied by regulation 3(1) of the Social Security (Open Long Term Benefits) (Contributions) Regulations 1997 (Duty to register).
+Regulation 3 of the Employment Injuries (Contributions) Regulations as applied by regulation 3(1) of the Social Security (Open Long Term Benefits) (Contributions) Regulations 1997 (Duty to register).
 
 OFFENCES RELATING TO EMPLOYMENT LEGISLATION
 
@@ -68,7 +62,7 @@ Offences by employers
 
 Regulation 4 of the Employment Regulations 1994 (Duty to notify Director of vacancy).
 
-Regulation 6 of the Employment Regulations 1994 (Duty to notify Director of intention to engage an  entitled worker).
+Regulation 6 of the Employment Regulations 1994 (Duty to notify Director of intention to engage an entitled worker).
 
 Regulation 7 of the Employment Regulations 1994 (Duty to apply to Director for a permit in relation to a non-entitled worker).
 
@@ -79,7 +73,3 @@ Regulation 15A(4) of the Employment Regulations 1994 (Duty to notify Director of
 Offences by employers and the self-employed
 
 Section 3 of the Business Trades and Professions (Registration) Act 1989 (Duty to register).
-
-Employment Regulation (Offences)
-
-1999-13
