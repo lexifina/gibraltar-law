@@ -12,7 +12,7 @@ GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2012/038 rr. 4(1)(c) & 76(3)(e) 29.3.2012 2014/108 rr. 21(1)(d), (2), 28(2), 29,  Schs. 4 & 9 26.6.2014
+LN. 2012/038 rr. 4(1)(c) & 76(3)(e) 29.3.2012 2014/108 rr. 21(1)(d), (2), 28(2), 29,  Schs. 4 & 9 26.6.2014 2016/167 rr. 2(1), 79 - 85 11.8.2016
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
@@ -28,15 +28,15 @@ Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASUR
 
 1995-12
 
-Subsidiary 1997/153 40. Power of Court to prohibit transfer. 41. Closure of registration. 42. Issue of certificate of deletion. 43. Unregistered pleasure yacht not recognised. 44. Proper colours. 45. Port of Registry. 46. Use of certificate. 47. Use of improper certificate. 48. Power to grant new certificate. 49. Loss of certificate. 50. Recording of mortgages and related instruments. 51. Recording of foreign instruments. 52. Discharge of mortgage. 53. Priority of mortgages. 54. Mortgages not treated as owner. 55. Mortgagee has power of sale. 56. Mortgagee may take title. 57. Mortgage not affected by bankruptcy. 58. Transfer of mortgage. 59. Transmission of interest of mortgagee on death or bankruptcy. 60. Mortgagee’s right to dispose of pleasure yacht. 61. Maritime liens. 62. Priority of maritime liens in general. 63. Possessory liens. 64. Claims to proceeds of sale of pleasure yacht. 65. Power of Registrar to dispense with evidence. 66. Furnishing information. 67. Proof of attestation not required. 68. Admissibility of documents and evidence. 69. Service of documents. 70. Consular authentication not required. 71. Limitation on time for proceedings. 72. Provision as to jurisdiction in case of offences. 73. Immunity from civil liability. 74. Form of documents. 75. Rectification of the Register. 76. Offences and Penalties. 77. Application of regulations to pleasure yachts registered under the Acts and the Merchant Shipping Act. 78. Application of regulations to pleasure yachts which have applied to be registered under the Acts and the Merchant Shipping Act.
-
-SCHEDULE 1 Foreign Maritime Entities
+Subsidiary 1997/153 40. Power of Court to prohibit transfer. 41. Closure of registration. 42. Issue of certificate of deletion. 43. Unregistered pleasure yacht not recognised. 44. Proper colours. 45. Port of Registry. 46. Use of certificate. 47. Use of improper certificate. 48. Power to grant new certificate. 49. Loss of certificate. 50. Recording of mortgages and related instruments. 51. Recording of foreign instruments. 52. Discharge of mortgage. 53. Priority of mortgages. 54. Mortgages not treated as owner. 55. Mortgagee has power of sale. 56. Mortgagee may take title. 57. Mortgage not affected by bankruptcy. 58. Transfer of mortgage. 59. Transmission of interest of mortgagee on death or bankruptcy. 60. Mortgagee’s right to dispose of pleasure yacht. 61. Maritime liens. 62. Priority of maritime liens in general. 63. Possessory liens. 64. Claims to proceeds of sale of pleasure yacht. 65. Power of Registrar to dispense with evidence. 66. Furnishing information. 67. Proof of attestation not required. 68. Admissibility of documents and evidence. 69. Service of documents. 70. Consular authentication not required. 71. Limitation on time for proceedings. 72. Provision as to jurisdiction in case of offences. 73. Immunity from civil liability. 74. Form of documents. 75. Rectification of the Register. 76. Offences and Penalties. 77. Application of regulations to pleasure yachts registered under the Acts and the Merchant Shipping Act. 78. Application of regulations to pleasure yachts which have applied to be registered under the Acts and the Merchant Shipping Act. 79. Register of Small Ships. 80. Conditions for registration of small ships. 81. Application and procedure for small ship registration.
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
 1995-12
 
-Subsidiary 1997/153
+Subsidiary 1997/153 82. Marking on small ships and period of registration. 83. Renewal of registration of small ship. 84. Notification of changes of ownership, etc. 85. Termination of registration of small ships.
+
+SCHEDULE 1 Foreign Maritime Entities
 
 SCHEDULE 2 Prohibited Pleasure Yachts
 
