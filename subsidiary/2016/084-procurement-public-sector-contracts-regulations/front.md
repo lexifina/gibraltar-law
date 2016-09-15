@@ -10,6 +10,10 @@ PROCUREMENT (PUBLIC SECTOR CONTRACTS) REGULATIONS 2016
 
 Commencement 18.4.2016
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2016/184 r. 99(4)(b) 15.9.2016
+
 Transposing: Directive 2014/24/EU Directive 2004/18/EC
 
 Public Finance (Control and Audit) PROCUREMENT (PUBLIC SECTOR CONTRACTS) REGULATIONS 2016
