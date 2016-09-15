@@ -12,7 +12,7 @@ Assent 6.8.2015
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2016/148 s. 33(3) 7.7.2016
+LN. 2016/148 s. 33(3) 7.7.2016 2016/182 Sch. 2 15.9.2016
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849
 

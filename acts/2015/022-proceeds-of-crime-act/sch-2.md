@@ -16,6 +16,10 @@ The following are supervisory bodies–
 
 (e) the Financial Secretary, or such other person or entity as may from time to time be designated by the Minister for Finance by notice in the Gazette in respect of relevant financial businesses to which section 9(1) applies and which are not supervised by a body listed in paragraphs (a) to (d).
 
+(f) the Gambling Commissioner as defined in section 2 of the Gambling Act 2005;
+
+(g) the Chairman of the Commission of the Office of Fair Trading as defined in section 2 of the Fair Trading Act 2015.
+
 PART II
 
 (a) the Financial Services (Banking) Act, 1992;
