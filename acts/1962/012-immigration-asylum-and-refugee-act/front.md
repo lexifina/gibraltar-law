@@ -28,7 +28,7 @@ Immigration, Asylum and Refugee
 
 28.2.2013 2014-10 ss. 14(1)(b), 15(1)-(2), (3)(b), (d), 18(3)(a), 26, 35(a), 55A, 55F(1)(a)- (c), (2)(a), 55G(2)-(3), (6)(a), 55H(3)(a)(iii), (5)(d)(ii)-(iii), 55I(2)(b), 55N(2)(c)(iii), 55O(4)(b)(ii)
 
-28.3.2014
+28.3.2014 LN. 2016/193 s. 55ZA 6.10.2016
 
 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2001/55/EC Directive 2002/90/EC Decision 2002/946/JHA Directive 2004/38/EC
 
@@ -108,7 +108,7 @@ Political refugees.
 
 PART IV EEA NATIONALS AND FAMILY MEMBERS, SWISS POSTED WORKERS”
 
-55A. Interpretation. 55B.  Continuity of Residence. 55C.  Definition of worker, job seeker, self employed person, self- sufficient person and student. 55D.  Definition of worker or self-employed person who has ceased economic activity. 55E.  Definition of Qualified person. 55F.  Definition of Family Member. 55G.  Definition of Extended Family Member. 55H.  Definition of “family member who has retained the right of residence”. 55I. Family members of Gibraltarians.
+55ZA. Persons to whom this Part applies. 55A. Interpretation. 55B.  Continuity of Residence. 55C.  Definition of worker, job seeker, self employed person, self- sufficient person and student. 55D.  Definition of worker or self-employed person who has ceased economic activity. 55E.  Definition of Qualified person. 55F.  Definition of Family Member. 55G.  Definition of Extended Family Member. 55H.  Definition of “family member who has retained the right of residence”. 55I. Family members of Gibraltarians.
 
 EEA Rights – Entry and Residence.
 
