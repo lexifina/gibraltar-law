@@ -8,7 +8,7 @@ GIBRALTAR DEVELOPMENT CORPORATION (EMPLOYER’S INSOLVENCY) REGULATIONS, 1991
 
 22.8.1991
 
-Amending enactments Relevant current provisions Commencement date LNs.1991/195 r. 4(6)(b) and (9) 24.10.1991 1992/093 r.6(1) 9.7.1992 1993/027 r.10(2) 18.2.1993 1994/023 rr.2 and 6(1) and (2) 14.2.1994 1999/079 rr.6(1) and (2) 1.7.1999 1999/079 r.6 3.1.2000 2001/068 rr.6(1A), (1B) and (1C) and 7(1)(c)(iv)(dd) 7.6.2001 2004/135 r. 6(1) 3.1.2005 2007/054 r. 6(1) 1.4.2007 Act.  2007-17 r. 4(9) 14.6.2007 LN.  2008/039 r. 6(1) 1.7.2008 2013/008 rr. 2, 3(a), (b), (c)(i), (d), (e), (f), (g), (h), (i), 7A, 13A, 14(1A), (3A),  18, 19, 20 & Sch. 24.1.2013 2016/135 r. 2 23.6.2016
+Amending enactments Relevant current provisions Commencement date LNs.1991/195 r. 4(6)(b) and (9) 24.10.1991 1992/093 r.6(1) 9.7.1992 1993/027 r.10(2) 18.2.1993 1994/023 rr.2 and 6(1) and (2) 14.2.1994 1999/079 rr.6(1) and (2) 1.7.1999 1999/079 r.6 3.1.2000 2001/068 rr.6(1A), (1B) and (1C) and 7(1)(c)(iv)(dd) 7.6.2001 2004/135 r. 6(1) 3.1.2005 2007/054 r. 6(1) 1.4.2007 Act.  2007-17 r. 4(9) 14.6.2007 LN.  2008/039 r. 6(1) 1.7.2008 2013/008 rr. 2, 3(a), (b), (c)(i), (d), (e), (f), (g), (h), (i), 7A, 13A, 14(1A), (3A),  18, 19, 20 & Sch. 24.1.2013 2016/135 r. 2 23.6.2016 Act. 2016-20 rr. 2, 7(1)(c)(iv)(bb), 9(1)(b), 14, 15(1), (4)(a), 16 13.10.2016
 
 Transposing: Directive 2008/94/EC
 
