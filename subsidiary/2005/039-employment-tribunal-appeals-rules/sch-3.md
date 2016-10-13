@@ -1,6 +1,6 @@
 SCHEDULE 3 Rule 6 Appeal No
 
-IN THE MATTER OF AN APPEAL FROM THE INDUSTRIAL TRIBUNAL
+IN THE MATTER OF AN APPEAL FROM THE EMPLOYMENT TRIBUNAL
 
 BETWEEN: Appellant -and- Respondent
 
@@ -15,12 +15,6 @@ Dated this       day of                         20
 ................................................
 
 (Solicitor for the) Respondent
-
-Employment INDUSTRIAL TRIBUNAL (APPEALS) RULES 2005
-
-1932-16
-
-Subsidiary 2005/039
 
 To:
 

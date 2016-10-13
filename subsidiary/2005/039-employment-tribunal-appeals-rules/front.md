@@ -1,16 +1,12 @@
-Employment INDUSTRIAL TRIBUNAL (APPEALS) RULES 2005
+Subsidiary Legislation made under s. 88.
 
-1932-16
+Employment Tribunal (Appeals) Rules 2005
 
-Subsidiary 2005/039 Rules made under s.88.
+LN.2005/039
 
-INDUSTRIAL TRIBUNAL (APPEALS) RULES 2005
+Commencement 17.3.2005
 
-(LN. 2005/039)
-
-17.3.2005
-
-__________________________
+Amending enactments Relevant current provisions Commencement date Act. 2016-20 rr. 1-2, 4, Schs 13.10.2016
 
 ARRANGEMENT OF RULES
 
@@ -21,7 +17,3 @@ Rule
 SCHEDULE 1
 
 SCHEDULE 2
-
-SCHEDULE 3
-
-Employment INDUSTRIAL TRIBUNAL (APPEALS) RULES 2005
