@@ -1,20 +1,16 @@
-Education and Training TRAINING (LEVY) REGULATIONS  2001
+Subsidiary Legislation made under s.82.
 
-Subsidiary 2001/070 1974-11 Regulation made under s.82.
+Training (Levy) Regulations 2001
 
-TRAINING (LEVY) REGULATIONS  2001
+LN.2001/070
 
-(LN. 2001/070)
-
-7.6.2001
+Commencement 7.6.2001
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.   2002/016 r. 3 7.2.2002 2007/055 r. 4(1) 1.4.2007 2008/047 r. 4(1) 1.7.2008
+LN. 2002/016 r. 3 7.2.2002 2007/055 r. 4(1) 1.4.2007 2008/047 r. 4(1) 1.7.2008 Act. 2016-20 r. 6 13.10.2016
 
-Education and Training TRAINING (LEVY) REGULATIONS  2001
-
-Subsidiary 2001/070 1974-11 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
