@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2007/005 rr. 6(1)(d) & (e), 56 – 63, Schs. 9 & 10
 
-18.1.2007
+18.1.2007 Act. 2016-20 r. 43(2) 13.10.2016
 
 Implementing: Directive 90/641/Euratom Directive 96/29/Euratom Directive 97/43/Euratom
 
