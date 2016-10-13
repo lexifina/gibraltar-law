@@ -14,13 +14,13 @@ ARTICLE 1.
 
 (c)  Construction, reconstruction, maintenance, repair, alteration or demolition of any building, railway, tramway, harbour, dock, pier, canal, inland waterway, road, tunnel, bridge, viaduct, sewer, drain, well, telegraphic or telephonic installation, electrical undertaking, gas work, water work, or other work of construction, as well as the preparation for or laying the foundations of any such work or structure;
 
-(d)  Transport of passengers or goods by road or rail or inland waterway, including the handling of goods at docks, quays, wharves and warehouses but excluding transport by hand.
+Employment
+
+1932-16 (d)  Transport of passengers or goods by road or rail or inland waterway, including the handling of goods at docks, quays, wharves and warehouses but excluding transport by hand.
 
 2. The competent authority in each country shall define the line of division which separates industry from commerce and agriculture.
 
-Employment
-
-1932-16 ARTICLE 2.
+ARTICLE 2.
 
 1. Children under the age of fifteen years shall not be employed or work in any public or private industrial undertaking, or in any branch thereof.
 
@@ -42,11 +42,11 @@ ARTICLE 5.
 
 (b)  empower an appropriate authority to prescribe a higher age or ages than fifteen years for the admission thereto of young persons or adolescents.
 
-2. The annual reports to be submitted under Article 22 of the Constitution of the International Labour Organization shall include full information concerning the age or ages prescribed by national laws in pursuance of subparagraph (a) of the preceding paragraph or concerning the action taken by the appropriate authority in exercise of the powers conferred upon it in pursuance of subparagraph (b) of the preceding paragraph, as the case may be.
-
 Employment
 
 1932-16
+
+2. The annual reports to be submitted under Article 22 of the Constitution of the International Labour Organization shall include full information concerning the age or ages prescribed by national laws in pursuance of subparagraph (a) of the preceding paragraph or concerning the action taken by the appropriate authority in exercise of the powers conferred upon it in pursuance of subparagraph (b) of the preceding paragraph, as the case may be.
 
 PART II.–CONVENTION CONCERNING THE NIGHT WORK OF YOUNG PERSONS EMPLOYED IN INDUSTRY, ADOPTED BY THE INTERNATIONAL LABOUR ORGANIZATION AT  WASHINGTON ON 28 NOVEMBER 1919.
 
@@ -64,15 +64,13 @@ The competent authority in each country shall define the line of division which 
 
 2. Young persons under eighteen years of age shall not be employed during the night in any public or private industrial undertaking, or in any branch thereof, other than an undertaking in which only members of the same family are employed, except as hereinafter provided for.
 
-Young persons over the age of sixteen may be employed during the night in the following industrial undertakings on work which by reason of the nature of the process is required to be carried on continuously day and night:–
+Employment
+
+1932-16 Young persons over the age of sixteen may be employed during the night in the following industrial undertakings on work which by reason of the nature of the process is required to be carried on continuously day and night:–
 
 (a)  Manufacture of iron and steel; process in which reverberatory or regenerative furnaces are used, and galvanizing of sheet metal or wire (except the pickling process).
 
 (b)  Glass works.
-
-Employment
-
-1932-16
 
 (c)  Manufacture of paper.
 
@@ -94,15 +92,17 @@ Where night work in the baking industry is prohibited for all workers, the inter
 
 7. The prohibition of night work may be suspended by the Government, for young persons between the ages of sixteen and eighteen years, when in case of serious emergency the public interest demands it.
 
-PART III.-CONVENTION CONCERNING THE NIGHT WORK OF WOMEN EMPLOYED IN INDUSTRY, ADOPTED BY THE INTERNATIONAL LABOUR ORGANIZATION AT  WASHINGTON ON 28 NOVEMBER 1919.
+PART III.-CONVENTION CONCERNING THE NIGHT WORK OF WOMEN EMPLOYED IN INDUSTRY, ADOPTED BY THE
+
+Employment
+
+1932-16 INTERNATIONAL LABOUR ORGANIZATION AT  WASHINGTON ON 28 NOVEMBER 1919.
 
 1. For the purpose of this Convention the term “industrial undertaking” includes particularly:–
 
 (a)  Mines, quarries and other works for the extraction of minerals from the earth.
 
-Employment
-
-1932-16 (b)  Industries in which articles are manufactured, altered, cleaned, repaired, ornamented, finished, adapted for sale, broken up or demolished, or in which materials are transformed, including shipbuilding and the generation, transformation and transmission of electricity or motive power of any kind.
+(b)  Industries in which articles are manufactured, altered, cleaned, repaired, ornamented, finished, adapted for sale, broken up or demolished, or in which materials are transformed, including shipbuilding and the generation, transformation and transmission of electricity or motive power of any kind.
 
 (c) Construction, reconstruction, maintenance, repair, alteration or demolition of any building, railway, tramway, harbour, dock, pier, canal, inland waterway, road, tunnel, bridge, viaduct, sewer, drain, well, telegraphic or telephonic installation, electrical undertaking, gaswork, waterwork or other work of construction, as well as the preparation for or laying the foundations of any such work or structure.
 
@@ -120,13 +120,13 @@ The competent authority in each country shall define the line of division which 
 
 * * * *
 
-6. In industrial undertakings which are influenced by the seasons and in all cases where exceptional circumstances demand it, the night period may by reduced to ten hours on sixty days of the year.
-
-PART IV.–CONVENTION FIXING THE MINIMUM AGE FOR ADMISSION OF CHILDREN TO EMPLOYMENT AT SEA ADOPTED
-
 Employment
 
-1932-16 BY THE INTERNATIONAL LABOUR ORGANIZATION AT  GENOA ON 9 JULY 1920, AS REVISED IN 1936.
+1932-16
+
+6. In industrial undertakings which are influenced by the seasons and in all cases where exceptional circumstances demand it, the night period may by reduced to ten hours on sixty days of the year.
+
+PART IV.–CONVENTION FIXING THE MINIMUM AGE FOR ADMISSION OF CHILDREN TO EMPLOYMENT AT SEA ADOPTED BY THE INTERNATIONAL LABOUR ORGANIZATION AT  GENOA ON 9 JULY 1920, AS REVISED IN 1936.
 
 ARTICLE 1.
 
