@@ -28,7 +28,7 @@ Subsidiary 2005/174 (f) after the employer has formulated proposals as to the ar
 
 3. Any employee or an employees' representative who believes that the arrangements for the ballot are defective may, within a period of 21 days beginning on the date on which the employer published the final arrangements under paragraph 2(g), present a complaint to the Employment Tribunal.
 
-4. Where the Industrial Tribunal finds the complaint well-founded it shall make a declaration to that effect and may make an order requiring the employer to modify the arrangements he has made for the ballot or to satisfy the requirements in sub-paragraphs (a) to (f) of paragraph 2.
+4. Where the Employment Tribunal finds the complaint well-founded it shall make a declaration to that effect and may make an order requiring the employer to modify the arrangements he has made for the ballot or to satisfy the requirements in sub-paragraphs (a) to (f) of paragraph 2.
 
 5. An order under paragraph 4 shall specify the modifications to the arrangements which the employer is required to make and the requirements he must satisfy.
 
