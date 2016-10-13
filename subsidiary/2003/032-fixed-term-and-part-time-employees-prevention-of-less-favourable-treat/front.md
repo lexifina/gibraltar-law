@@ -10,7 +10,9 @@ THE FIXED-TERM AND PART-TIME EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT)
 
 1.4.2003
 
-Amending enactments Relevant current provisions Commencement date LN. 2013/007 rr. 1(1), (2), 2, 7, 9A-9I & 12 24.1.2013
+Amending enactments Relevant current provisions Commencement date LN. 2013/007 rr. 1(1), (2), 2, 7, 9A-9I & 12 24.1.2013 Act. 2016-20 rr. 5(3), 7(1), (2), (7), 9(3), (5), 9H(1), (2), (3), (7), (8)
+
+13.10.2016
 
 Implementing: Directive 1999/70/EC
 
@@ -34,11 +36,11 @@ PART II FIXED-TERM EMPLOYEES RIGHTS AND REMEDIES
 
 PART II RIGHTS AND REMEDIES
 
-3. Less favourable treatment of fixed-term employees. 4. Objective justification. 5. Right to receive a written statement of reasons for less favourable treatment. 6. Unfair dismissal and the right not to be subjected to detriment. 7. Complaints to industrial tribunals by fixed-term employees. 8. Successive fixed-term contracts. 9. Right to receive written statement of change.
+3. Less favourable treatment of fixed-term employees. 4. Objective justification. 5. Right to receive a written statement of reasons for less favourable treatment. 6. Unfair dismissal and the right not to be subjected to detriment. 7. Complaints to employment tribunals by fixed-term employees. 8. Successive fixed-term contracts. 9. Right to receive written statement of change.
 
 PART IIA PART-TIME EMPLOYEES
 
-9A.   Weekly hours. 9B.  Meaning of full-time employee, part-time employee and comparable full-time employee. 9C.  Employees becoming part-time. 9D.  Employees returning part-time after absence. 9E.  Less favourable treatment of part-time employees. 9F.  Right to receive a written statement of reasons for less favourable treatment. 9G.  Unfair dismissal and the right not to be subjected to detriment. 9H.  Complaints to the industrial tribunal by part-time employees. 9I.   Restrictions on contracting out.
+9A.   Weekly hours. 9B.  Meaning of full-time employee, part-time employee and comparable full-time employee. 9C.  Employees becoming part-time. 9D.  Employees returning part-time after absence. 9E.  Less favourable treatment of part-time employees. 9F.  Right to receive a written statement of reasons for less favourable treatment. 9G.  Unfair dismissal and the right not to be subjected to detriment. 9H.  Complaints to the employment tribunal by part-time employees. 9I.   Restrictions on contracting out.
 
 PART III MISCELLANEOUS
 
