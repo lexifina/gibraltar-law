@@ -8,7 +8,7 @@ MANAGEMENT OF HEALTH AND SAFETY AT WORK REGULATIONS, 1996
 
 1.2.1996
 
-Amending enactments Relevant current provisions Commencement date LN. 2004/102 r. 23 28.10.2004 2010/132 r. 7A, Sch. 29.7.2010
+Amending enactments Relevant current provisions Commencement date LN. 2004/102 r. 23 28.10.2004 2010/132 r. 7A, Sch. 29.7.2010 Act. 2016-20 r. 21(2) 13.10.2016
 
 Transposing: Directive 89/391/EEC Directive 91/383/EEC
 
