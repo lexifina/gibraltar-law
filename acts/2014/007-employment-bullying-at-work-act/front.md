@@ -10,6 +10,10 @@ Act. No. 2014-07 Commencement [LN. 2014/164] 18.9.2014
 
 Assent 27.2.2014
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2016-20 s. 2 13.10.2016
+
 __________________
 
 ARRANGEMENT OF SECTIONS
