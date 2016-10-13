@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2004-24 s.2, 4A, 5A, 7, 12A to 12P, 13(1) and (2), 17(1), 17A, 17B and 19(1)
 
-17.8.2004
+17.8.2004 2016-20 ss. 12P, 20 13.10.2016
 
 English sources
 
