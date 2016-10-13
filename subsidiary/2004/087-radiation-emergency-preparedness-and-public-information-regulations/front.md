@@ -12,7 +12,7 @@ Commencement 13.9.2004
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2006/048 rr. 2, 10(3), (4) & (5), 12(1), (1)(a), (2) & (3), 13(2), (3)(a)(iii), 15, 16(3), 17(1) & (3), 24(1), 28(1) & Sch.7 13.4.2006
+LN. 2006/048 rr. 2, 10(3), (4) & (5), 12(1), (1)(a), (2) & (3), 13(2), (3)(a)(iii), 15, 16(3), 17(1) & (3), 24(1), 28(1) & Sch.7 13.4.2006 Act. 2016-20 r. 22(2) 13.10.2016
 
 Implementing: Directive 96/29/EURATOM
 
