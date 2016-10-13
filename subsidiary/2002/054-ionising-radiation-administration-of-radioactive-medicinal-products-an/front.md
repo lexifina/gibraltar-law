@@ -10,11 +10,17 @@ IONISING RADIATION (ADMINISTRATION OF RADIOACTIVE MEDICINAL PRODUCTS AND MEDICAL
 
 1.8.2002
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2016-20 r. 21(2) 13.10.2016
+
 Implementing: Directive 97/43/EURATOM
 
-________________________
+Health Protection (Ionising Radiation) IONISING RADIATION (ADMINISTRATION OF RADIOACTIVE MEDICINAL PRODUCTS AND MEDICAL EXPOSURES) REGULATIONS 2002
 
-ARRANGEMENT OF REGULATIONS
+1995-09
+
+Subsidiary 2002/054 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -28,17 +34,17 @@ PART II - ADMINISTRATION OF RADIOACTIVE MEDICINAL PRODUCTS
 
 PART III - MEDICAL EXPOSURES
 
-8. Application of this Part. 9. Duties of employer. 10. General responsibilities and duties of referrer, practitioner and operator.
+8. Application of this Part. 9. Duties of employer. 10. General responsibilities and duties of referrer, practitioner and operator. 11. Justification of individual medical exposures. 12. Optimisation. 13. Clinical audit. 14. Expert advice. 15. Radiological equipment. 16. Training.
+
+PART IV - ENFORCEMENT AND SUPPLEMENTARY PROVISIONS
+
+17. Appointment and powers of inspectors. 18. Improvement notices. 19. Prohibition notices. 20. Provisions supplementary to regulations 18 and 19. 21. Appeal against improvement notice or prohibition notice. 22. Power to deal with cause of imminent danger. 23. Offences and penalties. 24. Defence of due diligence. 25. Onus of proving limits of what is practicable etc.
 
 Health Protection (Ionising Radiation) IONISING RADIATION (ADMINISTRATION OF RADIOACTIVE MEDICINAL PRODUCTS AND MEDICAL EXPOSURES) REGULATIONS 2002
 
 1995-09
 
-Subsidiary 2002/054 11. Justification of individual medical exposures. 12. Optimisation. 13. Clinical audit. 14. Expert advice. 15. Radiological equipment. 16. Training.
-
-PART IV - ENFORCEMENT AND SUPPLEMENTARY PROVISIONS
-
-17. Appointment and powers of inspectors. 18. Improvement notices. 19. Prohibition notices. 20. Provisions supplementary to regulations 18 and 19. 21. Appeal against improvement notice or prohibition notice. 22. Power to deal with cause of imminent danger. 23. Offences and penalties. 24. Defence of due diligence. 25. Onus of proving limits of what is practicable etc. 26. Evidence. 27. Civil liability. 28. Application to the Crown. 29. Transitional provision. 30. Revocation.
+Subsidiary 2002/054 26. Evidence. 27. Civil liability. 28. Application to the Crown. 29. Transitional provision. 30. Revocation.
 
 SCHEDULES
 
