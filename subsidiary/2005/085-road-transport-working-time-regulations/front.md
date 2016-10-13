@@ -10,7 +10,7 @@ ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
 
 19.5.2005
 
-Amending enactments Relevant current provisions Commencement date LN. 2011/228 rr. 3(2)(a) & 15 17.11.2011
+Amending enactments Relevant current provisions Commencement date LN. 2011/228 rr. 3(2)(a) & 15 17.11.2011 Act. 2016-20 r. 5(2), (4) 13.10.2016
 
 Implementing: Directive 2002/15/EC
 

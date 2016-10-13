@@ -104,7 +104,7 @@ Appeal against improvement or prohibition notice.
 
 5.(1)  In this paragraph “a notice” means an improvement or prohibition notice.
 
-(2)  A person on whom a notice is served may within 21 days from the date of its service appeal to an industrial tribunal; and on such an appeal the tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the tribunal may in the circumstances think fit.
+(2)  A person on whom a notice is served may within 21 days from the date of its service appeal to an employment tribunal; and on such an appeal the tribunal may either cancel or affirm the notice and, if it affirms it, may do so either in its original form or with such modifications as the tribunal may in the circumstances think fit.
 
 (3)  Where an appeal under this paragraph is brought against a notice within the period allowed under the preceding sub-paragraph, then–
 
@@ -112,7 +112,7 @@ Appeal against improvement or prohibition notice.
 
 (b) in the case of a prohibition notice, the bringing of the appeal shall have the like effect if, but only if, on the application of the appellant the tribunal so directs (and then only from the giving of the direction).
 
-(4)  One or more assessors may be appointed for the purposes of any proceedings brought before an industrial tribunal under this paragraph.
+(4)  One or more assessors may be appointed for the purposes of any proceedings brought before an employment tribunal under this paragraph.
 
 Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
 
