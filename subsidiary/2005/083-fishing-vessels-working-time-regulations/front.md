@@ -10,11 +10,15 @@ FISHING VESSELS (WORKING TIME) REGULATIONS 2005
 
 19.5.2005
 
+Amending enactments Relevant current provisions Commencement date Act. 2016-20 r. 17 13.10.2016
+
 Implementing: Directive 2003/88/EC
 
-_______________________
+Employment FISHING VESSELS (WORKING TIME) REGULATIONS 2005
 
-ARRANGEMENT OF REGULATIONS.
+1932-16
+
+Subsidiary 2005/083 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -30,11 +34,7 @@ PART 3 EXCEPTIONS
 
 12. Exceptions. 13. Emergencies.
 
-Employment FISHING VESSELS (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/083 PART 4 MISCELLANEOUS
+PART 4 MISCELLANEOUS
 
 14. Power to require information. 15. Detention and enforcement of detention. 16. Offences. 17. Remedies. 20. Restriction on contracting out.
 
