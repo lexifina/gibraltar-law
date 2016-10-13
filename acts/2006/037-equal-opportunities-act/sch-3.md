@@ -272,7 +272,7 @@ Equal Opportunities
 
 (4)  Any continuation of the contract of employment under sub-paragraph (2) shall be disregarded when determining the operative date of termination for the purposes of the Employment Act.
 
-Complaint to Industrial Tribunal: failure to comply with paragraph 2.
+Complaint to Employment Tribunal: failure to comply with paragraph 2.
 
 11.(1)  An employee may present a complaint to the Tribunal that his employer has failed to comply with the duty to notify him in paragraph 2.
 
@@ -294,7 +294,7 @@ Equal Opportunities
 
 (4)  For the purposes of sub-paragraph (3) “a weeks pay” has the meaning given in section 2 of the Employment Act and in applying that meaning, if a calculation date is required, the calculation date shall be taken to be the date on which the complaint was presented or, if earlier, the operative date of termination.
 
-Complaint to Industrial Tribunal: denial of right to be accompanied.
+Complaint to Employment Tribunal: denial of right to be accompanied.
 
 12.(1)  An employee may present a complaint to the Tribunal that his employer has failed, or threatened to fail, to comply with paragraph 9(2) or (3).
 
@@ -564,7 +564,7 @@ Equal Opportunities
 
 ………………………………………………………………………………
 
-……………………………………………………………….…..(address) ……………………………………………………(signature of complainant) ……………………………………………………(date) IMPORTANT By virtue of section 65(3) of the Act, this questionnaire and any reply are (subject to the provisions of the section) admissible in proceedings under the Act and the Industrial Tribunal may draw any such inference as is just and equitable from a failure without reasonable excuse to reply within 4 weeks or from an evasive or equivocal reply, including an inference that the person questioned has discriminated unlawfully.
+……………………………………………………………….…..(address) ……………………………………………………(signature of complainant) ……………………………………………………(date) IMPORTANT By virtue of section 65(3) of the Act, this questionnaire and any reply are (subject to the provisions of the section) admissible in proceedings under the Act and the Employment Tribunal may draw any such inference as is just and equitable from a failure without reasonable excuse to reply within 4 weeks or from an evasive or equivocal reply, including an inference that the person questioned has discriminated unlawfully.
 
 Equal Opportunities
 
@@ -620,4 +620,4 @@ Equal Opportunities
 
 ……………………………………..(signature of respondent) ……………………………………..(date)
 
-IMPORTANT By virtue of section 65(3) of the Act, this questionnaire and any reply are (subject to the provisions of the section) admissible in proceedings under the Act and the Industrial Tribunal may draw any such inference as is just and equitable from a failure without reasonable excuse to reply within 4 weeks or from an evasive or equivocal reply, including an inference that the person questioned has discriminated unlawfully.
+IMPORTANT By virtue of section 65(3) of the Act, this questionnaire and any reply are (subject to the provisions of the section) admissible in proceedings under the Act and the Employment Tribunal may draw any such inference as is just and equitable from a failure without reasonable excuse to reply within 4 weeks or from an evasive or equivocal reply, including an inference that the person questioned has discriminated unlawfully.
