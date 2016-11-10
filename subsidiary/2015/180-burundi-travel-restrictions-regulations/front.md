@@ -10,11 +10,15 @@ BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
 
 Commencement 8.10.2015
 
-Implementing: Council Decision (CFSP) 2015/1763
+Amending enactments Relevant current provisions Commencement date LN. 2016/215 Sch. 10.11.2016
 
-______________________________
+Implementing: Council Decision (CFSP) 2015/1763 Council Decision (CFSP) 2016/1745
 
-In exercise of the powers conferred upon him by section 52A of the Immigration, Asylum and Refugee Act, for the purpose of implementing Council Decision (CFSP) 2015/1763 of 1 October 2015 concerning restrictive measures in view of the situation in Burundi, the Minister has made the following Regulations-
+Immigration, Asylum and Refugee BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
+
+1962-12
+
+Subsidiary 2015/180 In exercise of the powers conferred upon him by section 52A of the Immigration, Asylum and Refugee Act, for the purpose of implementing Council Decision (CFSP) 2015/1763 of 1 October 2015 concerning restrictive measures in view of the situation in Burundi, the Minister has made the following Regulations-
 
 Title and commencement.
 
