@@ -29,3 +29,9 @@ Public Health END-OF LIFE VEHICLES RULES 2004
 1950-07
 
 Subsidiary 2004/106 accept the type approval for vehicles to be registered within their territory. For the purposes of approvals granted in accordance with this point (a), the requirements of Articles 3, 4, 5, 6, 10 and 11 shall apply only in so far as they are deemed to be relevant by the approval authority. Where an exemption is granted in accordance with this point (a) the Member State may require a relevant alternative provision.
+
+Public Health END-OF LIFE VEHICLES RULES 2004
+
+1950-07
+
+Subsidiary 2004/106
