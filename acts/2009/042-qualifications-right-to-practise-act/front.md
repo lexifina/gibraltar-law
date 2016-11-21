@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2013/138 ss. 25(6), (6)(a), (b), (c), 47A, 54(2)(ca), Schs. 2, 3 & 6
 
-1.7.2013 2016/101 Part 1 – Sch. 7 6.5.20161
+1.7.2013 2016/101 Part 1 – Sch. 7 6.5.20161 2016/224 Annex V 21.11.2016
 
 Transposing: Directive 2005/36/EC Directive 2013/25/EU Directive 2013/55/EU
 
