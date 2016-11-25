@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2015/012 Corrigendum
 
-2016/131 rr. 3(4), 8(2), 21.6.2016
+2016/131 rr. 3(4), 8(2), 21.6.2016 2016/234 r. 8 25.11.2016
 
 1 Amended to 1.7.2015 by corrigendum LN. 2015/012
 
