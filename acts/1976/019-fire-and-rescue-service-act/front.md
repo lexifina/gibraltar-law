@@ -1,8 +1,4 @@
-Fire and Rescue Service
-
-1976-19
-
-FIRE AND RESCUE SERVICE ACT
+Fire and Rescue Service Act
 
 Principal Act
 
@@ -10,17 +6,19 @@ Act. No. 1976-19 Commencement 17.6.1976
 
 Assent 16.6.1976
 
-Amending enactments Relevant current provisions Commencement date Act.  1978-31 Sch. 2 LN 1978/128 s.4(1) Act.  1982-01 ss.3(1) and (3) and 30 2007-17 ss. 4(1), (2) &(3), 5, 6, 7(c), 8(1), 26(2), 30(1) & (2)
+Amending enactments Relevant current provisions Commencement date
 
-14.6.2007 2014-31 Long Title, ss. 1, 2, 3(1), 4(1), 5, 6, 7, 8(1), (2), (3), 9, 10(1)(d), (5), 14, 15, 17, 18(1), (2), (4), (5), 19, 20(1), (2), 22, 23, 24, 25, 30, 31(1), (2), Sch. 2
+Act. 1978-31 Sch. 2
 
-27.11.2014
+LN. 1978/128 s. 4(1)
 
-English sources: None cited
+Act. 1982-01 ss. 3(1) and (3) and 30
 
-Fire and Rescue Service
+2007-17 ss. 4(1)-(3), 5-6, 7(c), 8(1), 26(2), 30(1)-(2) 14.6.2007 2014-31 Long Title, ss. 1-2, 3(1), 4(1), 5-7, 8(1)-(3), 9, 10(1)(d), (5), 14-15, 17, 18(1)-(2), (4)-(5), 19, 20(1)-(2), 22-25, 30, 31(1)-(2), Sch. 2
 
-1976-19 ARRANGEMENT OF SECTIONS.
+27.11.2014 2016-24 s. 2(b) 1.12.2016
+
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -30,6 +28,4 @@ SCHEDULE 1 Omitted.
 
 SCHEDULE 2 FORMS
 
-Fire and Rescue Service
-
-1976-19 AN ACT TO PROVIDE FOR A FIRE AND RESCUE SERVICE IN GIBRALTAR: TO SET OUT THE DUTIES OF THE FIRE AND RESCUE SERVICE: TO CONFER POWERS AND DUTIES ON THE CHIEF FIRE OFFICER IN RELATION TO THE PREVENTION OF FIRES AND TO THE ELIMINATION OF FIRE HAZARDS: AND FOR MATTERS INCIDENTAL AND CONSEQUENTIAL THERETO.
+AN ACT TO PROVIDE FOR A FIRE AND RESCUE SERVICE IN GIBRALTAR: TO SET OUT THE DUTIES OF THE FIRE AND RESCUE SERVICE: TO CONFER POWERS AND DUTIES ON THE CHIEF FIRE OFFICER IN RELATION TO THE PREVENTION OF FIRES AND TO THE ELIMINATION OF FIRE HAZARDS: AND FOR MATTERS INCIDENTAL AND CONSEQUENTIAL THERETO.
