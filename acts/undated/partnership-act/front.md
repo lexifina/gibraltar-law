@@ -8,7 +8,7 @@ Principal Act
 
 Act. No. 1895-11 Commencement 26.9.1895 Assent 26.9.1895
 
-Amending enactment Relevant current provisions Commencement date Acts.1983-12 s. 44 1983-48 – 2013-011 s. 29A 21.3.2013
+Amending enactment Relevant current provisions Commencement date Acts.1983-12 s. 44 1983-48 – 2013-011 s. 29A 21.3.2013 2016-25 s. 29A(3) 1.12.2016
 
 English sources Partnership Act 1890 (53 & 54 Vict. c.39)
 
