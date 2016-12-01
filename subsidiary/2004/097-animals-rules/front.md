@@ -10,7 +10,9 @@ ANIMALS AND BIRDS RULES 2004
 
 1.10.2004
 
-Amending enactments Relevant current provisions Commencement date 2006/045 Corrigenda 2006/129 r. 23A 16.11.2006 2015/194 rr. 11(1)(b), 11A, Sch.7 15.10.2015
+Amending enactments Relevant current provisions Commencement date 2006/045 Corrigenda 2006/129 r. 23A 16.11.2006 2015/194 rr. 11(1)(b), 11A, Sch.7 15.10.2015 2016/240 rr. 2. 4A, 11(1)(c), (2), 12, 12A, 13(1)(e)-(i), (2), 15, 21, 23A(1), (3), Sch.1, 2
+
+1.12.2016
 
 Implementing: Regulation (EC) No 998/2003
 
@@ -48,13 +50,13 @@ PART IV
 
 CONTROL, REGISTRATION AND LICENSING OF DOGS
 
-11. Control of dogs. 11A. 12. Fouling of streets etc. 13. Form of dog register. 14. Particulars to be furnished on registration. 15. Registration badge and fee. 16. Application for, form of dog licences. 17. Fees for dog registration and dog licences. 18. Information to be given of death, etc., of dog. 19. Transfer of dog ownership.
+11. Control of dogs. 11A. 12. Fouling of streets etc. 12A. Fixed penalty notice for offence under rule 12. 13. Form of dog register. 14. Particulars to be furnished on registration. 15. Registration badge and fee. 16. Application for, form of dog licences. 17. Fees for dog registration and dog licences. 18. Information to be given of death, etc., of dog.
 
 Animals ANIMALS RULES AND BIRDS 2004
 
 1948-30
 
-Subsidiary 2004/097 20. Re-registration when badge lost. 21. Fees for inspection and copies of dog register. 22. Information to be provided to the Environmental Agency 23. Penalty for contravening rules. 23A. Fixed Penalty Offences.
+Subsidiary 2004/097 19. Transfer of dog ownership. 20. Re-registration when badge lost. 21. Deleted. 22. Information to be provided to the Environmental Agency 23. Penalty for contravening rules. 23A. Fixed Penalty Offences.
 
 PART V
 
@@ -62,7 +64,7 @@ REVOCATION AND SAVING PROVISIONS
 
 24. Revocation and Saving of Animal and Birds Rules
 
-SCHEDULE 1 FORM OF DOG REGISTER
+SCHEDULE 1 Deleted.
 
 SCHEDULE 2 Part A - Form of Application to register a dog. Part B – Form of Registration Certificate
 

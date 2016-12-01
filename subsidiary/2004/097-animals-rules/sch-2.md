@@ -26,7 +26,7 @@ Import Licence Number: (If imported under an licence state import licence number
 
 Pet Passport: (If moved into Gibraltar with a pet passport state “pet passport” [and country of origin])
 
-Microchip Number: Tattoo Number: (Insert the above if the dog has been microchiped or tattooed with an identification number)
+Microchip Number:
 
 IMPORTANT
 
@@ -34,15 +34,17 @@ As the registered owner/keeper of a dog your obligations include –  to obta
 
 Signature of Applicant: ______________________________________
 
-Animals ANIMALS RULES AND BIRDS 2004
-
-1948-30
-
-Subsidiary 2004/097 Dated this
+Dated this
 
 day of
 
 2      .
+
+Animals ANIMALS RULES AND BIRDS 2004
+
+1948-30
+
+Subsidiary 2004/097
 
 PART B Rule 15
 
@@ -72,7 +74,7 @@ Import Licence Number: (If imported under an import licence state import licence
 
 Pet Passport Number and Country of Issue: (Insert the above if the dog has a pet passport)
 
-Microchip Number: Tattoo Number: (Insert the above if the dog has been microchipped or tattooed with an identification number)
+Microchip Number:
 
 IMPORTANT
 
@@ -82,14 +84,14 @@ Signature of Licensing Officer ___________________________________
 
 fee paid £__________ .
 
-Animals ANIMALS RULES AND BIRDS 2004
-
-1948-30
-
-Subsidiary 2004/097
-
 Dated this
 
 day of
 
 2        .
+
+Animals ANIMALS RULES AND BIRDS 2004
+
+1948-30
+
+Subsidiary 2004/097
