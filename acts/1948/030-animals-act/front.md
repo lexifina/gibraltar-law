@@ -16,11 +16,17 @@ Amending enactments Relevant current provisions Commencement date Acts. 1960-21 
 
 20.4.2006 2014-03 ss. 2, 6A-6B, 27, Sch. 27.2.2014 2016-02 ss. 10(3), (3A), (4)-(6), (6A)-(6C), (7)-(8), 10A
 
-28.1.2016
+28.1.2016 2016-19 ss. 2(1), 10(2), (6)(c)-(d), 10(7A)- (7C), 26(ja), (k), Sch.
+
+2.12.20161
 
 English sources: Protection of Birds Act 1954 (2 and 3 Eliz. 2 c.30) Protection of Animals (Amendment) Act 1954 (2 and 3 Ell. 2 c.40) Abandonment of Animals Act 1960 (8 and 9 Eliz. 2 c.43)
 
 Implementing: Regulation (EC) No 998/2003
+
+1 Notice of Commencement (LN. 2016/243)
+
+Transitional provisions - In respect of a dog registered prior to the coming into force of this Act, section 2(4) and (5) of this Act shall apply upon the renewal of the licence under rule 16 of the Animals Rules 2004.
 
 Animals and Birds
 
