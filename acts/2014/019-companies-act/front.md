@@ -24,9 +24,13 @@ Companies
 
 2014-19 Sch. 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22
 
-20.7.2015 2015/165 s. 168A 1.11.2015 2016/143 s. 478A 7.7.2016
+20.7.2015 2015/165 s. 168A 1.11.2015 2016/143 s. 478A 7.7.2016 2016/236 ss. 249(1), (2), (4), 251(5)(c), (d), (e), (7), (8), (9), 252A, 252B, 254(1), 258(2B), 281(2), Sch. 9
+
+6.12.20162
 
 Transposing: Directive 2013/34/EU Directive 2014/95/EU
+
+2 The amendments made by these regulations apply in relation to the financial years of companies and qualifying partnerships beginning on or after 1 January 2017.
 
 Companies
 
@@ -316,15 +320,15 @@ IAS Accounts
 
 Directors reports: mainstream companies
 
-249. Duty to prepare directors’ reports. 250. Directors’ report: general requirements. 251. Directors’ reports; corporate governance. 252. Directors’ report: business reviews. 253. Financial instruments. 254. Director’s duties as to preparation and filing of documents.
+249. Duty to prepare directors’ reports. 250. Directors’ report: general requirements. 251. Directors’ reports; corporate governance. 252. Directors’ report: business reviews. 252A. Directors’ report: Non-financial information statement. 252B. Contents of the non-financial information statement. 253. Financial instruments. 254. Director’s duties as to preparation and filing of documents.
 
 Auditors and auditor’ reports
 
-255. Appointment auditors. 256. Supplementary provisions as to auditors and their remuneration. 257. Auditors’ report and right of access to books and right to attend general meetings. 258. Auditors’ reports. 259. Exemption for small companies. 260. Voidness of provisions protecting auditors from liability. 261. Indemnity for costs of successfully defending proceedings. 262. Liability limitation agreements. 263. Terms of liability limitation agreement. 264. Authorisation of agreement by members of the company.
+255. Appointment auditors. 256. Supplementary provisions as to auditors and their remuneration. 257. Auditors’ report and right of access to books and right to attend general meetings. 258. Auditors’ reports. 259. Exemption for small companies. 260. Voidness of provisions protecting auditors from liability. 261. Indemnity for costs of successfully defending proceedings. 262. Liability limitation agreements.
 
 Companies
 
-2014-19 265. Effect of liability limitation agreement. 266. Disclosure of agreement by company. 267. Voluntary revision of defective accounts and reports. 268. Change of accounting reference period.
+2014-19 263. Terms of liability limitation agreement. 264. Authorisation of agreement by members of the company. 265. Effect of liability limitation agreement. 266. Disclosure of agreement by company. 267. Voluntary revision of defective accounts and reports. 268. Change of accounting reference period.
 
 Supplementary
 
@@ -338,11 +342,11 @@ Interpretation and general
 
 Preparation of group accounts
 
-281. Preparation of group accounts. 282. Chapter 3 Accounts. 283. IAS group accounts. 284. Consistency of accounts. 285. Exemption for parent companies included in accounts of larger group. 286. Exemption for parent companies included in non-EEA group accounts. 287. Subsidiary undertakings included in the consolidation. 288. Treatment of individual profit and loss account where group accounts prepared. 289. Disclosure required in notes to accounts: related undertakings. 290. Disclosure required in notes to annual accounts: particulars of staff. 291. Deleted 292. Exemption for small and medium-sized groups. 293. Qualification of group as small or medium-sized or large. 294. Offences.
+281. Preparation of group accounts. 282. Chapter 3 Accounts. 283. IAS group accounts. 284. Consistency of accounts. 285. Exemption for parent companies included in accounts of larger group. 286. Exemption for parent companies included in non-EEA group accounts. 287. Subsidiary undertakings included in the consolidation. 288. Treatment of individual profit and loss account where group accounts prepared. 289. Disclosure required in notes to accounts: related undertakings. 290. Disclosure required in notes to annual accounts: particulars of staff. 291. Deleted 292. Exemption for small and medium-sized groups.
 
 Companies
 
-2014-19 294A.  Transmission of Information.
+2014-19 293. Qualification of group as small or medium-sized or large. 294. Offences. 294A.  Transmission of Information.
 
 PART VIII
 
@@ -372,11 +376,11 @@ Merger
 
 Requirements applicable to merger
 
-305. Draft terms of scheme (merger). 306. Publication of draft terms (merger) by Registrar. 307. Publication of draft terms on company website (merger). 308. Approval of members of merging companies. 309. Directors’ explanatory report (merger). 310. Expert’s report (merger). 311. Supplementary accounting statement (merger). 312. Inspection of documents (merger). 313. Publication of documents on company website (merger). 314. Report on material changes of assets of merging companies. 315. Approval of articles of new transferee company (merger). 316. Protection of holders of securities to which special rights attached (merger).
+305. Draft terms of scheme (merger). 306. Publication of draft terms (merger) by Registrar. 307. Publication of draft terms on company website (merger). 308. Approval of members of merging companies. 309. Directors’ explanatory report (merger). 310. Expert’s report (merger). 311. Supplementary accounting statement (merger). 312. Inspection of documents (merger). 313. Publication of documents on company website (merger). 314. Report on material changes of assets of merging companies. 315. Approval of articles of new transferee company (merger).
 
 Companies
 
-2014-19 317. No allotment of shares to transferor company or its nominee (merger).
+2014-19 316. Protection of holders of securities to which special rights attached (merger). 317. No allotment of shares to transferor company or its nominee (merger).
 
 Exceptions where shares of transferor company held by transferee company.
 
@@ -396,11 +400,9 @@ Requirements to be complied with in case of division.
 
 Exceptions where shares of transferor company held by transferee company
 
-339. Circumstances in which meeting of members of transferor company not required (division). 340. Conditions relevant to section 339.
-
 Companies
 
-2014-19
+2014-19 339. Circumstances in which meeting of members of transferor company not required (division). 340. Conditions relevant to section 339.
 
 Other exceptions
 
@@ -434,11 +436,11 @@ PART IX
 
 DISTRIBUTION OF PROFITS AND ASSETS
 
-353. Certain distributions prohibited. 354. Further provisions as to distributions. 355. Investment companies. 356. Insurance companies.
+353. Certain distributions prohibited.
 
 Companies
 
-2014-19 357. Consequences of unlawful distribution. 358. Amount of distribution which may be made.
+2014-19 354. Further provisions as to distributions. 355. Investment companies. 356. Insurance companies. 357. Consequences of unlawful distribution. 358. Amount of distribution which may be made.
 
 PART X LIQUIDATION
 
@@ -468,11 +470,11 @@ Consequences of voluntary liquidation 370. Effects of Voluntary Liquidation. 371
 
 Voluntary liquidators and their powers and duties
 
-375. Status of voluntary liquidator. 376. Notice of appointment. 377. General Powers of voluntary liquidator. 378. Power to apply to Court.
+375. Status of voluntary liquidator.
 
 Companies
 
-2014-19 379. General duties of voluntary liquidator. 380. Power to fill vacancy in office of voluntary liquidator. 381. Removal of liquidator. 382. Resignation of voluntary liquidator. 383. Directors’ powers where no voluntary liquidator in office. 384. Power of voluntary liquidator to accept shares as consideration for sale of property of company. 385. Progress report to company at year’s end.
+2014-19 376. Notice of appointment. 377. General Powers of voluntary liquidator. 378. Power to apply to Court. 379. General duties of voluntary liquidator. 380. Power to fill vacancy in office of voluntary liquidator. 381. Removal of liquidator. 382. Resignation of voluntary liquidator. 383. Directors’ powers where no voluntary liquidator in office. 384. Power of voluntary liquidator to accept shares as consideration for sale of property of company. 385. Progress report to company at year’s end.
 
 Distribution of company’s assets
 
@@ -496,11 +498,11 @@ Offences antecedent to or in course of winding up
 
 398. Offences by officers of companies in liquidation. 399. Penalty for falsification of books. 400. Frauds by officers of companies which have gone into liquidation. 401. Liability where proper accounts not kept. 402. Power of court to assess damages against delinquent directors. 403. Prosecution of delinquent officers and members of company.
 
-Supplementary provisions as to winding up
-
 Companies
 
-2014-19 404. Exemption of certain documents from stamp duty on winding up of companies. 405. Disposal of books and papers of company. 406. Information as to pending liquidations. 407. Resolutions passed at adjourned meetings of creditors and members. 408. Judicial notice of signature of officers. 409. Affidavits in Gibraltar, United Kingdom or elsewhere within the Commonwealth, etc. 410. Power of court to declare dissolution of company void. 411. Companies in default in respect of annual returns. 412. Registrar may strike defunct company off register. 413. Voluntary request to strike company off  Register. 414. Restoration of dissolved companies to the register; the Registrar’s functions. 415. Restoration of dissolved companies to the register; the Court's functions. 416. Property of dissolved company to be bona vacantia.
+2014-19 Supplementary provisions as to winding up
+
+404. Exemption of certain documents from stamp duty on winding up of companies. 405. Disposal of books and papers of company. 406. Information as to pending liquidations. 407. Resolutions passed at adjourned meetings of creditors and members. 408. Judicial notice of signature of officers. 409. Affidavits in Gibraltar, United Kingdom or elsewhere within the Commonwealth, etc. 410. Power of court to declare dissolution of company void. 411. Companies in default in respect of annual returns. 412. Registrar may strike defunct company off register. 413. Voluntary request to strike company off  Register. 414. Restoration of dissolved companies to the register; the Registrar’s functions. 415. Restoration of dissolved companies to the register; the Court's functions. 416. Property of dissolved company to be bona vacantia.
 
 Rules, fees and remuneration of officers
 
@@ -516,11 +518,9 @@ PART XII
 
 COMPANIES INCORPORATED OUTSIDE GIBRALTAR CARRYING ON BUSINESS WITHIN GIBRALTAR
 
-431. Companies to which Part XII applies.
-
 Companies
 
-2014-19 432. Documents to be delivered to Registrar by companies carrying on business in Gibraltar. 433. Return to be delivered to Registrar where documents altered. 434. Application of sections 432 and 433. 435. Obligation to state name of company, whether limited, and country where incorporated. 436. Company contracts. 437. Execution of documents. 438. Execution of deeds. 439. Service on overseas company. 440. Penalties. 441. Interpretation of Part XII.
+2014-19 431. Companies to which Part XII applies. 432. Documents to be delivered to Registrar by companies carrying on business in Gibraltar. 433. Return to be delivered to Registrar where documents altered. 434. Application of sections 432 and 433. 435. Obligation to state name of company, whether limited, and country where incorporated. 436. Company contracts. 437. Execution of documents. 438. Execution of deeds. 439. Service on overseas company. 440. Penalties. 441. Interpretation of Part XII.
 
 PART XIII
 
