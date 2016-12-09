@@ -18,9 +18,9 @@ LN.    2003/128 rr. 1, 3(2)(c) and (3), 8, 8(a), (c), 12(1), 13(2) and (3), 14(2
 
 25.1.2007 2010/045 rr. 2(1), 13A(2), 17(1)(b), 17(2) & Sch. 3
 
-4.3.2010 2011/101 r. 12(2A) 30.6.2011
+4.3.2010 2011/101 r. 12(2A) 30.6.2011 2016/230 Sch. 3 9.12.2016
 
-Transposing: Directive 2000/59/EC Directive 2007/71/EC
+Transposing: Directive 2000/59/EC Directive 2007/71/EC Directive (EU) 2015/2087
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PORT WASTE RECEPTION FACILITIES) REGULATIONS, 2002
 
