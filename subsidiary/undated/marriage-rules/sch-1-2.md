@@ -22,7 +22,7 @@ No.When married Name and Surname Age Condition Rank or Profession Residence at t
 
 Married in the
 
-according to the rites and ceremonies of the after due publication of banns or exhibition of notice, or by the Registrar’s Certificate, or by Registrar’s Special Certificate, or by Bishop’s licence, or by the Governor’s Licence, by me,
+according to the rites and ceremonies of the after due publication of banns or exhibition of notice, or by the Registrar’s Certificate, or by Registrar’s Special Certificate, or by Bishop’s licence, or by the Minister’s Licence, by me,
 
 The marriage was solemnized between us   {
 

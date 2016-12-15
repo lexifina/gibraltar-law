@@ -20,7 +20,7 @@ Dwelling Place
 
 Length of Residence
 
-Place or Building in which marriage is to be solemnized
+Place or Building in which marriage is to take place
 
 Witness by my hand at Gibraltar this day of
 
@@ -86,7 +86,7 @@ Age
 
 Dwelling Place
 
-Length of Residence Place or Building in which marriage is to be solemnized
+Length of Residence Place or Building in which marriage is to take place
 
 Witness by my hand at Gibraltar this day of
 
@@ -130,13 +130,15 @@ SPECIAL LICENCE FOR MARRIAGE
 
 Section 13 City of Gibraltar (l.3)
 
-By His Excellency Governor and Commander-in-Chief of the said City.
+By the Hon Minister for Personal Status.
 
-Whereas under provisions of section 13 of the Marriage Act, the Governor is authorized and empowered to grant special licences for marriage in accordance with the requirements of the said section:
+Whereas under provisions of section 13 of the Marriage Act, the Minister is authorized and empowered to grant special licences for marriage in accordance with the requirements of the said section:
 
-And Whereas the Governor is satisfied that the said requirements have been fulfilled in regard to the intended marriage of the parties in the Schedule hereto named and described:
+And Whereas the Minister is satisfied that the said requirements have been fulfilled in regard to the intended marriage of the parties in the Schedule hereto named and described:
 
-These are therefore to grant to the said parties special licence to proceed in due form of law to contract and solemnize such marriage at (1) between the hours of (2)       (or  at any hour) on any day within but not after a period of three months from  the date of the issue hereof.
+These are therefore to grant to the said parties special licence to proceed in due form of law to contract or solemnize such marriage at (1)
+
+between the hours of (2)       (or  at any hour) on any day within but not after a period of three months from  the date of the issue hereof.
 
 Dated the
 
@@ -144,4 +146,4 @@ day of
 
 , 20    .
 
-By His Excellency’s Command, Deputy Governor.
+By the Hon Minister for Personal Status.
