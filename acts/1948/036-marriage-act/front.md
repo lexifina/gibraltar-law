@@ -18,11 +18,13 @@ Amending enactments Relevant current provisions Commencement Date Act. 1949-25 s
 
 14.6.2007 2014-11 ss. 2, 6(c), 13(1), (3), 22(1), (1A), (1B), 23(4), (5) & Sch. 2A
 
-12.6.2014
+12.6.2014 2016-22 ss. 2, 6(a), 6A, 6B, 40A, 15.12.20161
 
 English sources
 
 Age of Marriage Act 1929 (19 & 20 Geo.5 c.36) Matrimonial Causes Act 1950 (14 Geo.6 c.25)
+
+1 Notice of Commencement – LN. 2016/248
 
 Marriage
 
@@ -54,7 +56,7 @@ Appointments and Authorizations
 
 Places of and Preliminaries to Marriage.
 
-6. Places of and preliminaries to marriage. 7. Notice to Registrar. 8. Notice to ministers. 9. Registrar’s certificate. 10. Minister’s certificate. 11. Registrar’s special certificate. 12. Certificates of Commonwealth registrars. 13. Special licences. 14. Expiration of notices and licences.
+6. Places of and preliminaries to marriage. 6A. Marriage of same sex couples in a place of worship. 6B. Provision to opt-out. 7. Notice to Registrar. 8. Notice to ministers. 9. Registrar’s certificate. 10. Minister’s certificate. 11. Registrar’s special certificate. 12. Certificates of Commonwealth registrars. 13. Special licences. 14. Expiration of notices and licences.
 
 Marriage of Minors
 
@@ -66,11 +68,11 @@ Caveats
 
 Solemnization and Contraction of Marriage
 
-21. Marriage in a place of worship. 22. Marriage before Registrar. 23. Registration of marriages and transmission of duplicates. 24. Correction of errors in registers. 25. Searches and certified copies.
+21. Marriage in a place of worship. 22. Marriage before Registrar. 23. Registration of marriages and transmission of duplicates.
 
 Marriage
 
-1948-36
+1948-36 24. Correction of errors in registers. 25. Searches and certified copies.
 
 Validity of Marriages
 
@@ -86,7 +88,7 @@ Preliminaries to Marriages outside Gibraltar
 
 Miscellaneous
 
-39. Protection of clergy. 40. Religious ceremony after lawful marriage. 41. Forfeiture of property acquired by marriage had by fraudulent means. 42. Saving of rights and interests. 43. Rules.
+39. Protection of clergy. 40. Religious ceremony after lawful marriage. 40A. Conversion of civil partnership into marriage. 41. Forfeiture of property acquired by marriage had by fraudulent means. 42. Saving of rights and interests. 43. Rules.
 
 SCHEDULE 1 Buildings deemed to be registered for the solemnization of marriages.
 
