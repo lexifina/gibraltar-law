@@ -142,8 +142,6 @@ Income Tax
 
 5.  In computing the profits or gains of a person for any basis period there shall be allowed a deduction ascertained in accordance with the provisions of this Part.
 
-Interpretation.
-
 6.(1) The Commissioner may allow a deduction in respect of the amount by which the value of any hotel, mill, factory or other similar premises has diminished by reason of wear and tear arising out of the use by its owner in a trade, business, profession or vocation at the rate of 4 per cent per annum of the cost thereof excluding the cost of the land on which the premises are situated.
 
 (2) Subject to subparagraph (4) below, where the person carrying on the trade, is not the owner of the premises, the deduction may be allowed on either the former or the latter or apportioned between them.
@@ -162,11 +160,11 @@ Provided that where the sum realised or likely to be realised is greater than th
 
 (a) a building which contained, and is used wholly or mainly for the purpose or operating machinery worked by steam, electricity or other mechanical power; or
 
+(b) a building the depreciation of which is substantially increased by the operation of machinery so worked on the premises in any such building as mentioned in (a) above.
+
 Income Tax
 
-2010-21 (b) a building the depreciation of which is substantially increased by the operation of machinery so worked on the premises in any such building as mentioned in (a) above.
-
-Chapter 2 Deleted
+2010-21 Chapter 2 Deleted
 
 7. Deleted
 
@@ -190,13 +188,13 @@ then, for the purpose of ascertaining the assessable income of that person from 
 
 (ii) does not include aircraft or vessels used for any purpose other than for a trade, business, profession or vocation;
 
-(iii) does not include a motor vehicle, unless it is of a construction primarily suited for the conveyance of any goods or burden (other than passengers) of any description, or it is of a type not commonly used as a private motor vehicle and is unsuitable to be so used, or it is provided wholly or mainly for hire to or for the
+(iii) does not include a motor vehicle, unless it is of a construction primarily suited for the conveyance of any goods or burden (other than passengers) of any description, or it is of a type not commonly used as a private motor vehicle and is unsuitable to be so used, or it is provided wholly or mainly for hire to or for the carriage of members of the public in the ordinary course of the trade, business, profession or vocation.
+
+(2) Subject to the provisions of this paragraph, where–
 
 Income Tax
 
-2010-21 carriage of members of the public in the ordinary course of the trade, business, profession or vocation.
-
-(2) Subject to the provisions of this paragraph, where–
+2010-21
 
 (a) a person carrying on any trade, business, profession or vocation incurs in any year of assessment or accounting period, capital expenditure wholly and exclusively on computer equipment for the purposes of producing the income of the trade, business, profession or vocation; and
 
@@ -216,13 +214,13 @@ then, for the purposes of ascertaining the assessable income of that person from
 
 (5) In the event of an extended accounting period, as defined by this Act, the allowances under this paragraph will be available in respect of each accounting period determined by the Commissioner in accordance with the provisions of section 16(6) or (7) for the purposes of obtaining the measure of profits for assessment to tax, provided that the Commissioner is satisfied as to the date on which the expenditure being claimed has been incurred.
 
-Income Tax
-
-2010-21
-
 Pool allowance.
 
 9.(1)  Subject to the provisions of this paragraph, where –
+
+Income Tax
+
+2010-21
 
 (a) a person has incurred capital expenditure on the provision of plant and machinery, computer equipment and motor vehicles, wholly and exclusively for the purposes of producing the income of the trade, business, profession or vocation; and
 
@@ -244,9 +242,11 @@ Provided that this expenditure, or any part thereof, has not formed part of a cl
 
 (d) any balance of (a) to (c) above available from the preceding year of assessment or accounting period;
 
+(e) the attributable value of any “disposed assets” on which capital expenditure has been incurred for the purposes of the production of the income of the trade, business, profession or vocation and which belong to the person at some time during
+
 Income Tax
 
-2010-21 (e) the attributable value of any “disposed assets” on which capital expenditure has been incurred for the purposes of the production of the income of the trade, business, profession or vocation and which belong to the person at some time during the year of assessment or accounting period and in respect of which, during the year of assessment or accounting period, one of the following applies –
+2010-21 the year of assessment or accounting period and in respect of which, during the year of assessment or accounting period, one of the following applies –
 
 (i) the disposed assets cease to belong to the person;
 
@@ -268,13 +268,11 @@ for the purposes of this subparagraph, the term “disposed assets” includes p
 
 (5)  If the accounting period or year of assessment relates to the permanent discontinuance of the trade, business, profession or vocation, an allowance equivalent to the total balance of qualifying expenditure available shall be allowed.
 
-(6)  If for any year of assessment or accounting period, the balance of qualifying expenditure is less than the value of disposed assets referred to in
+(6)  If for any year of assessment or accounting period, the balance of qualifying expenditure is less than the value of disposed assets referred to in subparagraph (2)(e), the allowance in subparagraph (3) shall be restricted to the value of these disposed assets.
 
 Income Tax
 
-2010-21 subparagraph (2)(e), the allowance in subparagraph (3) shall be restricted to the value of these disposed assets.
-
-(7)  If the balance of qualifying expenditure for any year of assessment or accounting period is less than £1,000, the full amount of the residual qualifying expenditure will be allowed as a deduction for that year of assessment or accounting period.
+2010-21 (7)  If the balance of qualifying expenditure for any year of assessment or accounting period is less than £1,000, the full amount of the residual qualifying expenditure will be allowed as a deduction for that year of assessment or accounting period.
 
 (8)  If the accounting period is an extended accounting period as defined by this Act, the allowance in subparagraph (3) will be available in respect of each accounting period determined by the Commissioner in accordance with the provisions of sections 16(6) or 16(7) for the purposes of obtaining the measure of profits for assessment to tax, provided that the Commissioner is satisfied as to the date on which the expenditure being claimed has been incurred.
 
@@ -292,11 +290,13 @@ Income Tax
 
 (c) does not include a motor vehicle, unless it is of a construction primarily suited for the conveyance of any goods or burden (other than passengers) of any description, or it is of a type not commonly used as a private motor vehicle and is unsuitable to be so used, or it is provided wholly or mainly for hire to or of the carriage of members of the public in the ordinary course of the trade, business, profession or vocation.
 
-Income Tax
-
-2010-21 “computer equipment” means any device for electronically storing and processing information, including –
+“computer equipment” means any device for electronically storing and processing information, including –
 
 (a) equipment peripheral to the operation of such a computer; and
+
+Income Tax
+
+2010-21
 
 (b) any software used on such a computer.
 
@@ -324,13 +324,11 @@ Deduction for construction costs.
 
 (6) Any deduction for expenditure given in accordance with this paragraph shall be in addition to any deduction, relief or allowance which may be given in accordance with any other provision of this Act in respect of that same expenditure.
 
-Income Tax
-
-2010-21
-
 (7) In this paragraph–
 
-“construction costs” means the total expenditure incurred in the construction of the qualifying project, excluding the cost of the land on which the qualifying project is built, and includes the cost of –
+Income Tax
+
+2010-21 “construction costs” means the total expenditure incurred in the construction of the qualifying project, excluding the cost of the land on which the qualifying project is built, and includes the cost of –
 
 (a) planning and design of the project including in connection with the obtaining of full planning permission for the erection of the building;
 
@@ -354,9 +352,11 @@ Deduction for construction costs: high value accommodation.
 
 (2) In the first year of assessment or accounting period, as the case may be, following completion of construction of the development project, a deduction of 30 per cent of the total construction costs.
 
+(3) In the second to eighth year of assessment or accounting period, as the case may be, following completion of construction of the development
+
 Income Tax
 
-2010-21 (3) In the second to eighth year of assessment or accounting period, as the case may be, following completion of construction of the development project, a deduction of 10 per cent of the total construction costs per year of assessment.
+2010-21 project, a deduction of 10 per cent of the total construction costs per year of assessment.
 
 (4) A deduction under this paragraph may, at the election of the property developer of the qualifying project, be made from the assessable income of–
 
@@ -384,11 +384,11 @@ Income Tax
 
 “occupier” means the person occupying the high value accommodation in respect of which the total construction costs are the subject of a deduction under this paragraph;
 
+“property developer” means a person who carries out the development of a qualifying project;
+
 Income Tax
 
-2010-21 “property developer” means a person who carries out the development of a qualifying project;
-
-“qualifying project” means a building development project consisting of high value accommodation and approved by the Commissioner as being a qualifying project for the purposes of this paragraph.
+2010-21 “qualifying project” means a building development project consisting of high value accommodation and approved by the Commissioner as being a qualifying project for the purposes of this paragraph.
 
 (8) The Minister may make rules for the implementation of the provisions in this paragraph.
 
@@ -416,11 +416,13 @@ Assets Bought on Hire Purchase.
 
 14.  Where a person incurs capital expenditure on the provision of plant and machinery under a contract which provides that the person shall become the owner of the plant and machinery on the performance of the contract the plant and machinery will be treated as owned by it for the purposes of this Part.
 
-Income Tax
-
-2010-21 Chapter 6
+Chapter 6
 
 Start-ups
+
+Income Tax
+
+2010-21
 
 14A.(1) The capital allowances referred to in Chapters 1 to 5 may be claimed in full against the tax liability arising from the first year of trade, subject to subparagraphs (2) and (3).
 
@@ -446,13 +448,11 @@ Additional definition of income - interest as a trading receipt.
 
 (2)  Subparagraph (1) shall only apply to the income of a company
 
-(a) which carries out the activity of money lending to members of the general public or who advertises or announces itself or holds itself out in any way as carrying on that business or
+(a) which carries out the activity of money lending to members of the general public or who advertises or announces itself or holds itself out in any way as carrying on that business or actually carries on that business whether solely or jointly with any other business, trade or vocation; or
 
 Income Tax
 
-2010-21 actually carries on that business whether solely or jointly with any other business, trade or vocation; or
-
-(b) which is in receipt of interest on funds derived from deposit taking activities as defined in the Financial Services (Banking) Act other than with related counterparts or the proceeds of investment of that interest, which has been placed on deposit with, invested with or loaned to any person; or
+2010-21 (b) which is in receipt of interest on funds derived from deposit taking activities as defined in the Financial Services (Banking) Act other than with related counterparts or the proceeds of investment of that interest, which has been placed on deposit with, invested with or loaned to any person; or
 
 (3)  Where a person is in receipt of interest which is not taxable in accordance with subparagraph (2), no deduction or expense shall be allowed solely in relation to any amount of interest expended or incurred for the purpose of generating the interest.
 
@@ -478,11 +478,13 @@ Architects fees and planning costs.
 
 (b) within 24 months from the day on which it commenced trading,
 
-Income Tax
-
-2010-21 that person may claim a credit of up to 100% of the costs of the architects fees and any fees paid to the Government in respect of such an application, subject to the provisions of subparagraph (2) below.
+that person may claim a credit of up to 100% of the costs of the architects fees and any fees paid to the Government in respect of such an application, subject to the provisions of subparagraph (2) below.
 
 (2) The total amount which may be claimed under subparagraph (1)–
+
+Income Tax
+
+2010-21
 
 (a) must not exceed £5,000;
 
@@ -510,13 +512,13 @@ Tax credit for properties.
 
 (a) was rented for residential purposes; and
 
-Income Tax
-
-2010-21
-
 (b) constructed between 1 July 2016 and 1 January 2019,
 
 the owner of such property shall be entitled to a tax credit in accordance with this paragraph.
+
+Income Tax
+
+2010-21
 
 (2) The tax credit shall be equal to the tax payable on any profits earned by the owner of the property during the first 24 months of rental income.
 
