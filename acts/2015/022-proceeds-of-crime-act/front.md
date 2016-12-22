@@ -12,7 +12,7 @@ Assent 6.8.2015
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2016/148 s. 33(3) 7.7.2016 2016/182 Sch. 2 15.9.2016
+LN. 2016/148 s. 33(3) 7.7.2016 2016/182 Sch. 2 15.9.2016 2016/256 Part IA, 2(10), 3A 22.12.2016
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849
 
@@ -30,9 +30,33 @@ PART I. PRELIMINARY
 
 1. Short title and commencement.
 
+PART IA GIBRALTAR FINANCIAL INTELLIGENCE UNIT
+
+1A. Interpretation of Part. 1B. Establishment of GFIU. 1C. Objectives. 1D. Analysis Function.
+
+Information gathering powers
+
+1DA. Information gathering. 1DB. Criteria for making request. 1DC. Offence and penalty etc.
+
+Cooperation
+
+1E. Cooperation with other FIUs. 1F. Contents of requests and mechanisms of exchange. 1G. Forwarding of disclosures. 1GA. Requests from EU FIU’s. 1H. Obtaining additional information from Member States. 1I. Refusals. 1J. Internal cooperation.
+
+Access to information
+
+1K. Access to information held by GFIU. 1L. Protection of confidential information. 1M. Referral of suspected offences. 1N. Duty to inform.
+
+Miscellaneous
+
+1O. Reports. 1P. Terms and conditions of employment unaffected. 1Q. Preservation of powers. 1R. Personal liability.
+
+Proceeds of Crime
+
+2015-22 1S. References in enactments.
+
 PART II MONEY LAUNDERING AND OTHER OFFENCES
 
-2. Assisting another to retain the benefit of criminal conduct. 3. Acquisition, possession or use of property representing proceeds of criminal conduct. 4. Concealing or transferring proceeds of criminal conduct. 5. Tipping-off. 6. Restriction on disclosure.
+2. Assisting another to retain the benefit of criminal conduct. 3. Acquisition, possession or use of property representing proceeds of criminal conduct. 3A. Deemed consent of the GFIU to do a prohibited act. 4. Concealing or transferring proceeds of criminal conduct. 5. Tipping-off. 6. Restriction on disclosure.
 
 PART III MEASURES TO PREVENT THE USE OF THE FINANCIAL SYSTEM FOR PURPOSES OF MONEY LAUNDERING AND TERRORIST FINANCING
 
@@ -44,19 +68,19 @@ Customer Due Diligence
 
 Record-keeping, procedures and training
 
+25. Record-keeping. 26. Policies and procedures. 27. Training. 28. Internal reporting procedures.
+
 Proceeds of Crime
 
-2015-22
-
-25. Record-keeping. 26. Policies and procedures. 27. Training. 28. Internal reporting procedures. 29. Supervisory authorities. 30. Duties of supervisory authorities. 31. Duty to cooperate with EBA, EIOPA and ESMA. 32. Supervisors, etc. to report evidence of money laundering. 33. Criminal offences. 34. Offences by bodies corporate, partnerships and unincorporated associations.
+2015-22 29. Supervisory authorities. 30. Duties of supervisory authorities. 31. Duty to cooperate with EBA, EIOPA and ESMA. 32. Supervisors, etc. to report evidence of money laundering. 33. Criminal offences. 34. Offences by bodies corporate, partnerships and unincorporated associations.
 
 PART IV CONFISCATION OF THE PROCEEDS OF CRIMINAL CONDUCT
 
-35. Confiscation orders. 36. Postponed determinations. 37. Assessing the proceeds of criminal conduct. 38. Amount to be recovered under confiscation order. 39. Meaning of “amount that might be realised” and “realisable property”. 40. Value of property, etc. 41. Gifts caught by this Part. 42. Application of procedure for enforcing fines. 43. Interest on sums unpaid under confiscation orders. 44. Reconsideration of case where the court has not proceeded under section 35. 45. Re-assessment of whether defendant has benefited from criminal conduct. 46. Increase in realisable property. 47. Revised assessment of proceeds of criminal conduct. 48. Inadequacy of realisable property. 49. Compensation. 50. Powers of the court where the defendant has absconded or died. 51. Effect of conviction where the court has acted under section 50. 52. Variation of confiscation orders made by virtue of section 50. 53. Compensation, etc. where absconder is acquitted. 54. Power to discharge confiscation order and order compensation where absconder returns. 55. Provisions supplementary to sections 52, 53 and 54. 56. Statements relating to criminal conduct. 57. Provision of information by defendant. 58. Cases in which restraint orders and charging orders may be made. 59. Restraint orders. 60. Charging orders in respect of land, securities, etc. 61. Charging orders:  supplementary provisions.
+35. Confiscation orders. 36. Postponed determinations. 37. Assessing the proceeds of criminal conduct. 38. Amount to be recovered under confiscation order. 39. Meaning of “amount that might be realised” and “realisable property”. 40. Value of property, etc. 41. Gifts caught by this Part. 42. Application of procedure for enforcing fines. 43. Interest on sums unpaid under confiscation orders. 44. Reconsideration of case where the court has not proceeded under section 35. 45. Re-assessment of whether defendant has benefited from criminal conduct. 46. Increase in realisable property. 47. Revised assessment of proceeds of criminal conduct. 48. Inadequacy of realisable property. 49. Compensation. 50. Powers of the court where the defendant has absconded or died. 51. Effect of conviction where the court has acted under section 50. 52. Variation of confiscation orders made by virtue of section 50. 53. Compensation, etc. where absconder is acquitted. 54. Power to discharge confiscation order and order compensation where absconder returns. 55. Provisions supplementary to sections 52, 53 and 54. 56. Statements relating to criminal conduct. 57. Provision of information by defendant. 58. Cases in which restraint orders and charging orders may be made. 59. Restraint orders. 60. Charging orders in respect of land, securities, etc. 61. Charging orders:  supplementary provisions. 62. Realisation of property. 63. Application of proceeds of realisation and other sums. 64. Exercise by the court or receiver of powers for the realisation of property. 65. Bankruptcy of defendant, etc.
 
 Proceeds of Crime
 
-2015-22 62. Realisation of property. 63. Application of proceeds of realisation and other sums. 64. Exercise by the court or receiver of powers for the realisation of property. 65. Bankruptcy of defendant, etc. 66. Liquidation or Administration of company holding realisable property. 67. Persons acting as insolvency practitioners. 68. Receivers:  supplementary provisions.
+2015-22 66. Liquidation or Administration of company holding realisable property. 67. Persons acting as insolvency practitioners. 68. Receivers:  supplementary provisions.
 
 PART V CIVIL RECOVERY OF THE PROCEEDS ETC. OF UNLAWFUL CONDUCT
 
@@ -80,13 +104,15 @@ Interim receiving orders
 
 Property freezing orders and interim receiving orders: registration
 
-Proceeds of Crime
-
-2015-22 83. Registration.
+83. Registration.
 
 Interim receiving orders: further provisions
 
-84. Duties of respondent etc. 85. Supervision of interim receiver and variation of order. 86. Restrictions on dealing etc. with property. 87. Restriction on proceedings and remedies. 88. Exclusion of property which is not recoverable etc. 89. Reporting.
+84. Duties of respondent etc.
+
+Proceeds of Crime
+
+2015-22 85. Supervision of interim receiver and variation of order. 86. Restrictions on dealing etc. with property. 87. Restriction on proceedings and remedies. 88. Exclusion of property which is not recoverable etc. 89. Reporting.
 
 Vesting and realisation of recoverable property
 
@@ -108,11 +134,11 @@ administrator. 109. Evidence overseas: interim receiver or interim administrator
 
 Miscellaneous
 
+112. Compensation. 113. Legal expenses excluded from freezing: required conditions. 114. Legal expenses: regulations for purposes of section 90 or 113. 115. Financial threshold.
+
 Proceeds of Crime
 
 2015-22
-
-112. Compensation. 113. Legal expenses excluded from freezing: required conditions. 114. Legal expenses: regulations for purposes of section 90 or 113. 115. Financial threshold.
 
 Chapter 3 Recovery of Cash in Summary Proceedings
 
@@ -138,11 +164,13 @@ Supplementary
 
 134. Compensation. 135. “The minimum amount”.
 
+Chapter 4 General Recoverable property
+
+136. Property obtained through unlawful conduct.
+
 Proceeds of Crime
 
-2015-22 Chapter 4 General Recoverable property
-
-136. Property obtained through unlawful conduct. 137. Tracing property, etc. 138. Mixing property. 139. Recoverable property: accruing profits. 140. General exceptions. 141. Other exemptions. 142. Granting interests.
+2015-22 137. Tracing property, etc. 138. Mixing property. 139. Recoverable property: accruing profits. 140. General exceptions. 141. Other exemptions. 142. Granting interests.
 
 Insolvency
 
@@ -160,15 +188,15 @@ Chapter 2 Production orders
 
 Search and seizure warrants
 
-156.  Search and seizure warrants. 157.  Requirements where production order not available. 158.  Further provisions: general. 159.  Further provisions: confiscation and money laundering.
-
-Proceeds of Crime
-
-2015-22 160.  Further provisions: civil recovery and detained cash.
+156.  Search and seizure warrants. 157.  Requirements where production order not available. 158.  Further provisions: general. 159.  Further provisions: confiscation and money laundering. 160.  Further provisions: civil recovery and detained cash.
 
 Disclosure orders
 
-161.  Disclosure orders. 162.  Requirements for making of disclosure order. 163.  Offences. 164.  Statements. 165.  Further provisions. 166.  Supplementary.
+161.  Disclosure orders.
+
+Proceeds of Crime
+
+2015-22 162.  Requirements for making of disclosure order. 163.  Offences. 164.  Statements. 165.  Further provisions. 166.  Supplementary.
 
 Customer information orders
 
@@ -190,11 +218,11 @@ PART VII GENERAL
 
 PART VIII REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS, CONSEQUENTIAL AMENDMENTS
 
+185. Repeals. 186. Savings and transitional provisions. 187. Consequential amendments.
+
 Proceeds of Crime
 
 2015-22
-
-185. Repeals. 186. Savings and transitional provisions. 187. Consequential amendments.
 
 SCHEDULE 1
 
