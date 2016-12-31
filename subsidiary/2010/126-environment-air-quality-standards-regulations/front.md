@@ -12,7 +12,7 @@ Commencement 15.7.2010
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.   2011/148 r. 32A 22.9.2011
+LN.   2011/148 r. 32A 22.9.2011 2016/242 Sch. 1 & 2 31.12.2016
 
 EU Legislation/International Agreements involved: Directive 2004/107/EC Directive 2008/50/EC Directive 2008/99/EC Directive 2015/2193/EU Council Regulation (EC) No 219/2009 Commission Directive (EU) 2015/1480
 

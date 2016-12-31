@@ -22,13 +22,11 @@ B. Macroscale siting of sampling points
 
 (a) Sampling points directed at the protection of human health shall be sited in such a way as to provide data on the following:
 
-- the areas within zones and agglomerations where the highest concentrations occur to which the population is
-
 Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
 
 2005-27
 
-Subsidiary 2010/126 likely to be directly or indirectly exposed for a period which is significant in relation to the averaging period of the limit value(s),
+Subsidiary 2010/126 - the areas within zones and agglomerations where the highest concentrations occur to which the population is likely to be directly or indirectly exposed for a period which is significant in relation to the averaging period of the limit value(s),
 
 - levels in other areas within the zones and agglomerations which are representative of the exposure of the general population,
 
@@ -50,7 +48,9 @@ Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
 
 2005-27
 
-Subsidiary 2010/126 Sampling points targeted at the protection of vegetation and natural ecosystems shall be sited more than 20 km away from agglomerations or more than 5 km away from other built-up areas, industrial installations or motorways or major roads with traffic counts of more than 50 000 vehicles per day, which means that a sampling point must be sited in such a way that the air sampled is representative of air quality in a surrounding area of at least 1000 km2. A Member State may provide for a sampling point to be sited at a lesser distance or to be representative of air quality in a less extended area, taking account of geographical conditions or of the opportunities to protect particularly vulnerable areas.
+Subsidiary 2010/126
+
+Sampling points targeted at the protection of vegetation and natural ecosystems shall be sited more than 20 km away from agglomerations or more than 5 km away from other built-up areas, industrial installations or motorways or major roads with traffic counts of more than 50 000 vehicles per day, which means that a sampling point must be sited in such a way that the air sampled is representative of air quality in a surrounding area of at least 1000 km2. A Member State may provide for a sampling point to be sited at a lesser distance or to be representative of air quality in a less extended area, taking account of geographical conditions or of the opportunities to protect particularly vulnerable areas.
 
 Account shall be taken of the need to assess air quality on islands.
 
@@ -68,17 +68,17 @@ In so far as is practicable, the following shall apply:
 
 - for all pollutants, traffic-orientated sampling probes shall be at least 25 m from the edge of major junctions and no more than 10 m from the kerbside.,
 
-The following factors may also be taken into account:
-
-- interfering sources,
-
-- security,
-
 Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
 
 2005-27
 
 Subsidiary 2010/126
+
+The following factors may also be taken into account:
+
+- interfering sources,
+
+- security,
 
 - access,
 

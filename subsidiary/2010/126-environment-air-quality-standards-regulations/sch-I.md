@@ -150,23 +150,33 @@ The following information shall be compiled for zones or agglomerations within w
 
 - the population potentially exposed to levels in excess of any limit value for protection of human health.
 
-C. Quality assurance for ambient air quality assessment: data validation
+Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+
+2005-27
+
+Subsidiary 2010/126 C. Quality assurance for ambient air quality assessment. Data validation.
+
+1. To ensure accuracy of measurements and compliance with the data quality objectives laid down in Section A, the appropriate competent authorities and bodies designated pursuant to Article 3 shall ensure the following:
+
+(i) that all measurements undertaken in relation to the assessment of ambient air quality pursuant to Articles 6 and 9 are traceable in accordance with the requirements set out in the harmonised standard for testing and calibration laboratories,
+
+(ii) that institutions operating networks and individual stations have an established quality assurance and quality control system which provides for regular maintenance to assure the continued  accuracy of measuring devices. The quality system shall be reviewed as necessary and at least every five years by the relevant National Reference Laboratory
+
+(iii) that a quality assurance/quality control process is established for the process of data collection and reporting and that institutions appointed for this task actively participate, in the  related Union-wide quality assurance programmes,
+
+(iv) that the National Reference Laboratories are appointed by the appropriate competent authority or body designated pursuant to Article 3 and are accredited for the reference methods referred to in Annex VI, at least for those pollutants for which concentrations are above the lower assessment threshold, according to the relevant harmonised standard for testing and calibration laboratories, the reference to which has been published in the Official  Journal of the European  Union pursuant to Article 2(9) of Regulation (EC) No 765/2008 setting out the requirements for accreditation and market surveillance. These laboratories shall also be responsible for the coordination in Member State's territory of the Union-wide quality assurance programmes to be organised by the Commission's Joint Research Centre and shall also be responsible for coordinating, on the
 
 Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
 
 2005-27
 
-Subsidiary 2010/126 1.  To ensure accuracy of measurements and compliance with the data quality objectives laid down in Section A, the appropriate competent authorities and bodies designated pursuant to Article 3 shall ensure the following:
+Subsidiary 2010/126 national level, the appropriate use of reference methods, and the demonstration of equivalence of  non-reference methods.  National Reference Laboratories organising intercomparison on the national level should also be accredited according to the relevant harmonised standard for proficiency testing.
 
-- that all measurements undertaken in relation to the assessment of ambient air quality pursuant to Articles 6 and 9 are traceable in accordance with the requirements set out in Section 5.6.2.2 of the ISO/IEC 17025:2005,
+(v) that the National Reference Laboratories, take part at least every three years in the Union-wide quality assurance programmes organized by the Commission's Joint Research Centre. If this participation produces unsatisfactory results then the national laboratory should demonstrate at the next participation in the intercomparison satisfactory remediation measures, and provide a report to the Joint Research Centre on these.
 
-- that institutions operating networks and individual stations have an established quality assurance and quality control system which provides for regular maintenance to assure the accuracy of measuring devices,
+(vi) that the national reference laboratories support  the work done by the European network of National Reference Laboratories set up by the Commission.
 
-- that a quality assurance/quality control process is established for the process of data collection and reporting and that institutions appointed for this task actively participate in the related Community-wide quality assurance programmes,
-
-- that the national laboratories, when appointed by the appropriate competent authority or body designated pursuant to Article 3, that are taking part in Community-wide intercomparisons covering pollutants regulated in this Directive, are accredited according to EN/ISO 17025 by 2010 for the reference methods referred to in Annex VI. These laboratories shall be involved in the coordination on Member States territory of the Community wide quality assurance programmes to be organised by the Commission and shall also coordinate, on the national level, the appropriate realisation of reference methods and the demonstration of equivalence of non-reference methods.
-
-2.  All reported data under Article 27 shall be deemed to be valid except data flagged as provisional.
+2. All reported data under Article 27 shall be deemed to be valid except data flagged as provisional.
 
 Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
 

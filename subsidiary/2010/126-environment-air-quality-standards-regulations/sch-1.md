@@ -680,12 +680,6 @@ The Commission shall also identify ways of streamlining the way data are reporte
 
 4.  The Commission shall publish guidance on the demonstration of equivalence referred to in Section B of Annex VI.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
-
 CHAPTER VI
 
 COMMITTEE, TRANSITIONAL AND FINAL PROVISIONS
@@ -699,6 +693,12 @@ Committee
 2.  Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
 
 The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+
+2005-27
+
+Subsidiary 2010/126
 
 3.  Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
 
@@ -716,11 +716,7 @@ Repeal and transitional provisions
 
 However, from 11 June 2008, the following shall apply:
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 (a) in Directive 96/62/EC, paragraph 1 of Article 12 shall be replaced by the following:
+(a) in Directive 96/62/EC, paragraph 1 of Article 12 shall be replaced by the following:
 
 “1. The detailed arrangements for forwarding the information to be provided under Article 11 shall be adopted in accordance with the procedure referred to in paragraph 3.”;
 
@@ -732,7 +728,11 @@ Subsidiary 2010/126 (a) in Directive 96/62/EC, paragraph 1 of Article 12 shall b
 
 2.  Notwithstanding the first subparagraph of paragraph 1, the following Articles shall remain in force:
 
-(a) Article 5 of Directive 96/62/EC until 31 December 2010;
+Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+
+2005-27
+
+Subsidiary 2010/126 (a) Article 5 of Directive 96/62/EC until 31 December 2010;
 
 (b) Article 11(1) of Directive 96/62/EC and Article 10(1), (2) and (3) of Directive 2002/3/EC until the end of the second calendar year following the entry into force of the implementing measures referred to in Article 28(2) of this Directive; (c) Article 9(3) and (4) of Directive 1999/30/EC until 31 December 2009.
 
@@ -746,11 +746,7 @@ Article 32
 
 Review
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 1.  In 2013 the Commission shall review the provisions related to PM2,5 and, as appropriate, other pollutants, and shall present a proposal to the European Parliament and the Council.
+1.  In 2013 the Commission shall review the provisions related to PM2,5 and, as appropriate, other pollutants, and shall present a proposal to the European Parliament and the Council.
 
 As regards PM2,5, the review shall be undertaken with a view to establishing a legally binding national exposure reduction obligation in order to replace the national exposure reduction target and to review the exposure concentration obligation laid down in Article 15, taking into account, inter alia, the following elements:
 
@@ -761,6 +757,12 @@ As regards PM2,5, the review shall be undertaken with a view to establishing a l
 - the revision of Directive 2001/81/EC,
 
 - progress made in implementing Community reduction measures for air pollutants,
+
+Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+
+2005-27
+
+Subsidiary 2010/126
 
 2.  The Commission shall take into account the feasibility of adopting a more ambitious limit value for PM2,5, shall review the indicative limit value of the second stage for PM2,5 and consider confirming or altering that value.
 
@@ -774,12 +776,6 @@ Transposition
 
 When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
-
 2.  However, Member States shall ensure that a sufficient number of urban background measurement stations of PM2,5 necessary for the calculation of the Average Exposure Indicator, in accordance with Section B of Annex V, is established at the latest by 1 January 2009, in order to comply with the timeframe and the conditions indicated in Section A of Annex XIV.
 
 3.  Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
@@ -792,7 +788,11 @@ This Directive shall enter into force on the day of its publication in the Offic
 
 Article 35
 
-Addressees
+Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+
+2005-27
+
+Subsidiary 2010/126 Addressees
 
 This Directive is addressed to the Member States.
 
