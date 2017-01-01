@@ -14,6 +14,8 @@ LN.  2014/090 ss. 1, 2, 3, 4, 5, 6-13, 13B-13I, 14, Schs. 1, 2, 3, 4, 5, 6, 7-17
 
 5.6.2014
 
+“ ss. 18-20 1.1.2017
+
 Transposing: Directive 93/76/EEC Directive 2012/27/EU
 
 Environmental Protection (Energy Efficiency)
@@ -46,7 +48,7 @@ Environmental Protection (Energy Efficiency)
 
 PART IV FINAL PROVISIONS
 
-14.  Review and monitoring of implementation. 15.  Regulations. 16.  Offences. 17.  Schedules.
+14.  Review and monitoring of implementation. 15.  Regulations. 16.  Offences. 17.  Schedules. 18. Competent Authority. 19. Administrative penalties. 20. Appeals.
 
 SCHEDULE 1 Repealed
 
@@ -66,11 +68,9 @@ SCHEDULE 8 Common methods and principles for calculating the impact of energy ef
 
 SCHEDULE 9 Minimum criteria for energy audits including those carried out as part of energy management systems
 
-SCHEDULE 10 Minimum requirements for billing and billing information based on actual consumption
-
 Environmental Protection (Energy Efficiency)
 
-2009-28
+2009-28 SCHEDULE 10 Minimum requirements for billing and billing information based on actual consumption
 
 SCHEDULE 11 Potential for efficiency in heating and cooling
 
