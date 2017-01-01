@@ -734,331 +734,313 @@ Page 2 shall contain:
 
 11. date of expiry of each category each field of the date shall be written with two digits and in the following sequence: day.month.year (DD.MM.YY);
 
-12.  additional information/restriction(s), in code form, facing the (sub)category affected.
+(12) additional information /restriction(s), in code form, facing the category affected.
 
 The codes shall be as follows:
 
-- codes 01 to 99 : harmonised Community codes
+codes 01 to 99: harmonised European Union codes
 
-DRIVER (Medical reasons)
+DRIVER (medical reasons)
 
 01. Sight correction and/or protection
 
-01.01 Glasses
+01.01. Glasses
 
-01.02 Contact lense(s)
+01.02. Contact lens(es)
 
-01.03 Protective glass
+01.05. Eye cover
 
-01.04 Opaque lense
+01.06. Glasses or contact lenses
 
-01.05 Eye cover
-
-01.06 Glasses or contact lenses
+01.07. Specific optical aid
 
 02. Hearing aid/communication aid
 
-02.01 Hearing aid for one ear
+03. Prosthesis/orthosis for the limbs
 
-02.02 Hearing aid for two ears
+03.01. Upper limb prosthesis/orthosis
+
+03.02. Lower limb prosthesis/orthosis
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 03. Prosthesis/orthosis for the limbs
-
-03.01 Upper limb prosthesis/orthosis
-
-03.02 Lower limb prosthesis/orthosis
-
-05. Limited use (subcode use obligatory, driving subject to restrictions for medical reasons)
-
-05.01 Limited to day time journeys (for example: one hour after sunrise and one hour before sunset)
-
-05.02 Limited to journeys within a radius of … km from holder's place of residence or only inside city/region
-
-05.03 Driving without passengers
-
-05.04 Limited to journeys with a speed not greater than … km/h
-
-05.05 Driving authorised solely when accompanied by a holder of a driving licence
-
-05.06 Without trailer
-
-05.07 No driving on motorways
-
-05.08 No alcohol
-
-VEHICLE ADAPTATIONS
+Subsidiary [1958.03.06] VEHICLE ADAPTATIONS
 
 10. Modified transmission
 
-10.01 Manual transmission
+10.02. Automatic selection of gear ratio
 
-10.02 Automatic transmission
-
-10.03 Electronically operated transmission
-
-10.04 Adjusted gear-shift lever
-
-10.05 Without secondary gearbox
+10.04. Adapted transmission control device
 
 15. Modified clutch
 
-15.01 Adjusted gear-shift lever
+15.01. Adapted clutch pedal
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+15.02. Hand operated clutch
 
-2005-26
+15.03. Automatic clutch
 
-Subsidiary [1958.03.06] 15.02 Manual clutch
-
-15.03 Automatic clutch
-
-15.04 Partitioning in front of/fold away/detached clutch pedal
+15.04. Measure to prevent obstruction or actuation of clutch pedal
 
 20. Modified braking systems
 
-20.01 Adjusted brake pedal
+20.01. Adapted brake pedal
 
-20.02 Enlarged brake pedal
+20.03. Brake pedal suitable for use by left foot
 
-20.03 Brake pedal suitable for use by left foot
+20.04. Sliding brake pedal
 
-20.04 Brake pedal by sole
+20.05. Tilted brake pedal
 
-20.05 Tilted brake pedal
+20.06. Hand operated brake
 
-20.06 Manual (adapted) service brake
+20.07. Brake operation with maximum force of … N (*) (for example: “20.07(300N)”)
 
-20.07 Maximum use of reinforced service brake
+20.09. Adapted parking brake
 
-20.08 Maximum use of emergency brake integrated in the service brake
+20.12. Measure to prevent obstruction or actuation of brake pedal
 
-20.09 Adjusted parking brake
+20.13. Knee operated brake
 
-20.10 Electrically operated parking brake
+20.14. Brake system operation supported by external force
 
-20.11 (Adjusted) foot operated parking brake
+25. Modified accelerator system
 
-20.12 Partitioning in front of/fold away/detached brake pedal
+25.01. Adapted accelerator pedal
 
-20.13 Brake operated by knee
-
-20.14 Electrically operated service brake
-
-25. Modified accelerator systems
-
-25.01 Adjusted accelerator pedal
-
-25.02 Accelerator pedal by sole
-
-25.03 Tilted accelerator pedal
-
-25.04 Manual accelerator
+25.03. Tilted accelerator pedal
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 25.05 Accelerator at knee
+Subsidiary [1958.03.06]
 
-25.06 Servo accelerator (electronic, pneumatic, etc.)
+25.04. Hand operated accelerator
 
-25.07 Accelerator pedal on the left of brake pedal
+25.05. Knee operated accelerator
 
-25.08 Accelerator pedal on the left
+25.06. Accelerator operation supported by external force
 
-25.09 Partitioning in front of/fold away/detached accelerator pedal
+25.08. Accelerator pedal on the left
 
-30. Modified combined braking and accelerator systems
+25.09. Measure to prevent obstruction or actuation of accelerator pedal
 
-30.01 Parallel pedals
+31. Pedal adaptations and pedal safeguards
 
-30.02 Pedals at (or almost at) the same level
+31.01. Extra set of parallel pedals
 
-30.03 Accelerator and brake with sliding
+31.02. Pedals at (or almost at) the same level
 
-30.04 Accelerator and brake with sliding and orthesis
+31.03. Measure to prevent obstruction or actuation of accelerator and brake pedals when pedals not operated by foot
 
-30.05 Fold away/detached accelerator and brake pedals
+31.04. Raised floor
 
-30.06 Raised floor
+32. Combined service brake and accelerator systems
 
-30.07 Partitioning on the side of the brake pedal
+32.01. Accelerator and service brake as combined system operated by one hand
 
-30.08 Partitioning for prosthesis on the side of the brake pedal
+32.02. Accelerator and service brake as combined system operated by external force
 
-30.09 Partitioning in front of the accelerator and brake pedals
+33. Combined service brake, accelerator and steering systems
 
-30.10 Heel/leg support
+33.01. Accelerator, service brake and steering as combined system operation by external force with one hand
 
-30.11 Electrically operated accelerator and brake
+33.02. Accelerator, service brake and steering as combined system operation by external force with two hands
 
-35. Modified control layouts (Lights switches, windscreen wiper/washer, horn, direction indicators, etc.) Control devices operable without negative influence on the steering and handling
+35. Modified control layouts (lights switches, windscreen wiper/washer, horn, direction indicators, etc.)
 
-35.02 Control devices operable without releasing the steering wheel and accessories (knob, fork, etc.)
+35.02. Control devices operable without releasing the steering device
 
-35.03 Control devices operable without releasing the steering wheel and accessories (knob, fork, etc.) with the left hand
+35.03. Control devices operable without releasing the steering device with the left hand
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 35.04 Control devices operable without releasing the steering wheel and accessories (knob, fork, etc.) with the right hand
+Subsidiary [1958.03.06]
 
-35.05 Control devices operable without releasing the steering wheel and accessories (knob, fork, etc.) and the combined accelerator and braking mechanismss
+35.04. Control devices operable without releasing the steering device with the right hand
+
+35.05. Control devices operable without releasing the steering device and the accelerator and braking mechanisms
 
 40. Modified steering
 
-40.01 Standard assisted steering
+40.01. Steering with maximum operation force of … N (*) (for example “40.01(140N)”)
 
-40.02 Reinforced assisted steering
+40.05. Adapted steering wheel (larger/thicker steering wheel section, reduced diameter, etc.)
 
-40.03 Steering with backup system
+40.06. Adapted position of steering wheel
 
-40.04 Lengthened steering column
+40.09. Foot operated steering
 
-40.05 Adjusted steering wheel (Larger and/or thicker steering wheel section, reduced diameter steering wheel, etc.)
+40.11. Assistive device at steering wheel
 
-40.06 Tilted steering wheel
+40.14. One hand/arm operated alternative adapted steering system
 
-40.07 Vertical steering wheel
+40.15. Two hand/arm operated alternative adapted steering system
 
-40.08 Horizontal steering wheel
+42. Modified rear/side view devices
 
-40.09 Foot operated driving
+42.01. Adapted device for rear view
 
-40.10 Alternative adjusted steering (joy-stick, etc.)
+42.03. Additional inside device permitting side view
 
-40.11 Knob on the steering wheel
+42.05. Blind spot viewing device
 
-40.12 Hand orthesis on the steering wheel
+43. Driver seating position
 
-40.13 With orthesis tenodese
+43.01. Driver seat height for normal view and in normal distance from the steering wheel and the pedals
 
-42. Modified rearview mirror(s)
+43.02. Driver seat adapted to body shape
 
-42.01 External (left or) right-side rear-view mirror
+43.03. Driver seat with lateral support for good stability
 
-42.02 External rear-view mirror set on the wing
+43.04. Driver seat with armrest
 
-42.03 Additional inside rear-view mirror permitting view of traffic
-
-42.04 Panoramic inside rear-view mirror
+43.06. Seat belt adaptation
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 42.05 Blind spot rear-view mirror
+Subsidiary [1958.03.06]
 
-42.06 Electrically operated outside rear-view mirror(s)
+43.07. Seat belt type with support for good stability
 
-43. Modified driver seat
+44. Modifications to motorcycles (sub-code use obligatory)
 
-43.01 Driver seat at a good viewing height and in normal distance from the steering wheel and the pedal
+44.01. Single operated brake
 
-43.02 Driver seat adjusted to body shape
+44.02. Adapted front wheel brake
 
-43.03 Driver seat with lateral support for good sitting stability
+44.03. Adapted rear wheel brake
 
-43.04 Driver seat with armrest
+44.04. Adapted accelerator
 
-43.05 Lengthening of sliding driver's seat
+44.08. Seat height allowing the driver, in sitting position, to have two feet on the surface at the same time and balance the motorcycle during stopping and standing.
 
-43.06 Seat-belt adjustment
+44.09. Maximum operation force of front wheel brake … N (*) (for example “44.09(140N)”)
 
-43.07 Harness-type seat-belt
+44.10. Maximum operation force of rear wheel brake … N (*) (for example “44.10(240N)”)
 
-44. Modifications to motorcycles (subcode use obligatory)
+44.11. Adapted foot-rest
 
-44.01 Single operated brake
-
-44.02 (Adjusted) hand operated brake (front wheel)
-
-44.03 (Adjusted) foot operated brake (back wheel)
-
-44.04 (Adjusted) accelerator handle
-
-44.05 (Adjusted) manual transmission and manual clutch
-
-44.06 (Adjusted) rear-view mirror(s)
-
-44.07 (Adjusted) commands (direction indicators, braking light, …)
-
-44.08 Seat height allowing the driver, in sitting position, to have two feet on the road at the same time
+44.12. Adapted hand grip
 
 45. Motorcycle with side-car only
 
+46. Tricycles only
+
+47. Restricted to vehicles of more than two wheels not requiring balance by the driver for starting, stopping and standing
+
 50. Restricted to a specific vehicle/chassis number (vehicle identification number, VIN)
+
+Letters used in combination with codes 01 to 44 for further specification:
+
+a left
+
+b right
+
+c hand
+
+d foot
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 51. Restricted to a specific vehicle/registration plate (vehicle registration number, VRN)
+Subsidiary [1958.03.06]
+
+e middle
+
+f arm
+
+g thumb
+
+LIMITED USE CODES
+
+61. Limited to day time journeys (for example: one hour after sunrise and one hour before sunset)
+
+62. Limited to journeys within a radius of … km from holder's place of residence or only inside city/region
+
+63. Driving without passengers
+
+64. Limited to journeys with a speed not greater than … km/h
+
+65. Driving authorised solely when accompanied by a holder of a driving licence of at least the equivalent category
+
+66. Without trailer
+
+67. No driving on motorways
+
+68. No alcohol
+
+69. Restricted to driving vehicles equipped with an alcohol interlock in accordance with EN 50436. Indication of an expiry date is optional (for example “69” or “69(01.01.2016)”)
 
 ADMINISTRATIVE MATTERS
 
-70. Exchange of licence No … issued by … (EU/UN distinguishing sign in the case of a third country; e.g: 70.0123456789.NL)
+70. Exchange of licence No … issued by … (EU/UN distinguishing sign in the case of a third country; for example “70.0123456789.NL”)
 
-71. Duplicate of licence No … (EU/UN distinguishing sign in the case of a third country; e.g: 71.987654321.HR)
+71. Duplicate of licence No … (EU/UN distinguishing sign in the case of a third country; for example “71.987654321.HR”)
 
-72. Restricted to category A vehicles having a maximum cylinder capacity of 125 cc and maximum power of 11 KW (A1)
+73. Restricted to category B vehicles of the motor quadricycle type (B1)
 
-73. Restricted to category B vehicles of the motor tricycle or quadricycle type (B1)
+78. Restricted to vehicles with automatic transmission
 
-74. Restricted to category C vehicles the maximum authorised mass of which does not exceed 7500 kg (C1)
-
-75. Restricted to category D vehicles with not more than 16 seats, excluding the driver's seat (D1)
-
-76. Restricted to category C vehicles the maximum authorised mass of which does not exceed 7500 kg (C1), attached to a trailer the maximum authorised mass of which exceeds 750 kg, provided that the maximum authorised mass of the vehicle train thus formed does not exceed 12000 kg, and that the maximum authorised mass of the trailer does not exceed the unladen mass of the drawing vehicle (C1E)
-
-77. Restricted to category D vehicles with not more than 16 passenger seats, excluding the driver's seat (D1), attached to a trailer the maximum authorised mass of which exceeds 750 kg provided that (a) the maximum authorised mass of the vehicle train thus formed does not exceed 12000 kg and the maximum authorised mass of the trailer does not exceed the unladen mass of the drawing vehicle and (b) the trailer is not used to carry passengers (D1E) 78. Restricted to vehicles with automatic transmission
-
-79. (…) Restricted to vehicles which comply with the specifications indicated in brackets, in the context of the application of Article 10(1) of Directive 91/439/EEC 90.01 : to the left
-
-90.02 : to the right
+79. (…) Restricted to vehicles which comply with the specifications indicated in brackets, for the application of Article 13 of this Directive
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 90.03 : left
+Subsidiary [1958.03.06]
 
-90.04 : right
+79.01. Restricted to two-wheel vehicles with or without side-car
 
-90.05 : hand
+79.02. Restricted to category AM vehicles of the three-wheel or light quadricycle type
 
-90.06 : foot
+79.03. Restricted to tricycles
 
-90.07 : usable
+79.04. Restricted to tricycles combined with a trailer having a maximum authorised mass not exceeding 750 kg
 
-95. Driver holding CPC meeting the obligation of professional aptitude provided for by Directive 2003/59/EC until … [e.g.: 95.01.01.2012]
+79.05. Category A1 motorcycle with a power/weight ratio above 0,1 kW/kg
 
-96. Driver having completed training or having passed a test of skills and behaviour in accordance with the provisions of Annex V.
+79.06. Category BE vehicle where the maximum authorised mass of the trailer exceeds 3 500 kg
 
-- codes 100 and above: : national codes valid only for driving in the territory of the EEA State which issued the licence.
+80. Restricted to holders of a driving licence for a category A vehicle of the motor tricycle type not having reached the age of 24 years
+
+81. Restricted to holders of a driving licence for a category A vehicle of the two-wheel motorcycle type not having reached the age of 21 years
+
+95. Driver holding CPC meeting the obligation of professional aptitude provided for by Directive 2003/59/EC until … (for example “95(01.01.12)”)
+
+96. Category B vehicles combined with a trailer with a maximum authorised mass exceeding 750 kg where the maximum authorised mass of such combination exceeds 3 500 kg but does not exceed 4 250 kg
+
+97. Not authorised to drive a category C1 vehicle which falls within the scope of Council Regulation (EEC) No 3821/85
+
+— codes 100 and above: national codes valid only for driving in the territory of the Member State which issued the licence.
 
 Where a code applies to all categories for which the licence is issued, it may be printed under headings 9, 10 and 11;
 
+(*) This force indicates the driver's capability for operating the system;
+
 13. in implementation of section 4(a) of this Schedule, a space reserved for the possible entry by the host EEA State of information essential for administering the licence;
 
-14. a space reserved for the possible entry by the EEA State which issues the licence of information essential for administering the licence or related to road safety (optional). If the information relates to one of the headings defined in this Schedule, it should be preceded by the number of the heading in question.
+14. a space reserved for the possible entry by the EEA State which issues the licence of information essential for administering the licence or related
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] to road safety (optional). If the information relates to one of the headings defined in this Schedule, it should be preceded by the number of the heading in question.
 
 With the specific written agreement of the holder, information which is not related to the administration of the driving licence or road safety may also be added in this space; such addition shall not alter in any way the use of the model as a driving licence;
 
 (b)  an explanation of the numbered items which appear on pages 1 and 2 of the licence (at least items 1, 2, 3, 4 (a), 4 (b), 4 (c), 5, 10, 11 and 12).
 
-If an EEA State wishes to make the entries in a national language other than one of the following languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovak, Slovenian, Spanish or Swedish, it shall draw up a bilingual version of the licence using
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] one of the aforementioned languages, without prejudice to the other provisions of this Schedule;
+If an EEA State wishes to make the entries in a national language other than one of the following languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovak, Slovenian, Spanish or Swedish, it shall draw up a bilingual version of the licence using one of the aforementioned languages, without prejudice to the other provisions of this Schedule;
 
 (c)  a space shall be reserved on the European Union model driving licence to allow for the possible introduction of a microchip or similar computer device.
 
