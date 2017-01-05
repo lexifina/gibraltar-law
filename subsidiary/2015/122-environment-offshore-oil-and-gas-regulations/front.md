@@ -8,7 +8,7 @@ ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
 
 (LN. 2015/122)
 
-Commencement 19.7.2015 rr. 1, 2, 3, 4, 34, 46, 47, 48 and 49 Except - rr. 5 - 33, 35 - 45 & Schs.
+Commencement 19.7.2015 rr. 1, 2, 3, 4, 34, 46, 47, 48 and 49 (LN. 2017/003) 5.1.2017 rr. 5 - 33, 35 - 45 & Schs.
 
 Transposing: Directive 2004/35/EC Directive 2013/30/EU _______________________
 
