@@ -18,16 +18,4 @@ Selection of the independent verifier and the design of schemes for independent 
 
 (d) the independent verifier is given suitable authority to be able to carry out the functions effectively.
 
-3. Material changes shall be referred to the independent verifier for further verification in accordance with the scheme for independent verification, and
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 the outcomes of such further verification shall be communicated to the competent authority, if requested.
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122
+3. Material changes shall be referred to the independent verifier for further verification in accordance with the scheme for independent verification, and the outcomes of such further verification shall be communicated to the competent authority, if requested.

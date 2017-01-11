@@ -23,9 +23,3 @@ The matters to be considered for establishing priorities for the development of 
 (i) key performance indicators;
 
 (j) effectively integrating safety and environmental management systems between operators and owners and other entities involved in oil and gas operations.
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122

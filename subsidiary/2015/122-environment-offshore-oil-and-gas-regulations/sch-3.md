@@ -18,11 +18,7 @@ Provisions relating to the appointment and functioning of the competent authorit
 
 (c) funding essential training, communication, access to technology, travel and subsistence of competent authority personnel for the carrying out of their duties, and to facilitate the active cooperation between competent authorities pursuant to regulation 41;
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 (d) where appropriate, requiring operators or owners to reimburse the competent authority for the cost of carrying out its duties pursuant to these Regulations;
+(d) where appropriate, requiring operators or owners to reimburse the competent authority for the cost of carrying out its duties pursuant to these Regulations;
 
 (e) funding and encouraging research pursuant to the competent authority’s duties under these Regulations;
 
@@ -40,13 +36,7 @@ Subsidiary 2015/122 (d) where appropriate, requiring operators or owners to reim
 
 (d) where the competent authority is comprised of more than one body, a formal agreement establishing the necessary mechanisms for joint operation of the competent authority, including senior management oversight and monitoring and reviews, joint planning and inspection, division of responsibilities for handling reports on major hazards, joint investigation, internal communications, and reports to be published jointly externally.
 
-(2) The detailed procedures for assessment of reports on major hazards shall require all factual information and other particulars required under these Regulations to be provided by the operator or the owner. As a minimum the
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 competent authority shall ensure that the requirements for the following information are clearly specified in guidance to operators and owners:
+(2) The detailed procedures for assessment of reports on major hazards shall require all factual information and other particulars required under these Regulations to be provided by the operator or the owner. As a minimum the competent authority shall ensure that the requirements for the following information are clearly specified in guidance to operators and owners:
 
 (a) all foreseeable hazards with the potential to cause a major accident, including to the environment, have been identified, their risks evaluated and measures identified, including emergency responses, to control the risks;
 
@@ -70,12 +60,6 @@ Subsidiary 2015/122 competent authority shall ensure that the requirements for t
 
 (iv) how combined operations are to be undertaken with other installation;
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122
-
 (v) how the decommissioning of the installation will be undertaken;
 
 (d) how risk reduction measures identified as part of the risk management are intended to be implemented if necessary to reduce risks to an acceptable level;
@@ -91,9 +75,3 @@ Subsidiary 2015/122
 (i) whether the safety and environmental management system described in the report on major hazards is adequate to ensure control of the major hazard risks at each stage of the installation lifecycle, and ensures compliance with all relevant legal provisions, and provides for auditing and implementing audit recommendations;
 
 (j) whether the scheme for independent verification is clearly explained.
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122

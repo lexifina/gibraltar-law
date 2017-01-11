@@ -19,9 +19,3 @@ The reports to be submitted to the competent authority pursuant to regulation 29
 (6) the drilling fluid density at the time of making the report; and
 
 (7) in the case of operations relating to an existing well, its current operational state.
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122

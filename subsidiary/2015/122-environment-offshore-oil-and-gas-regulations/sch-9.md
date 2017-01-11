@@ -32,12 +32,6 @@ Sharing of information and transparency
 
 (b) the number and type of inspections and investigations carried out, any enforcement actions or convictions;
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122
-
 (c) incident data pursuant to the common reporting system required in regulation 37;
 
 (d) any major change in the offshore regulatory framework;

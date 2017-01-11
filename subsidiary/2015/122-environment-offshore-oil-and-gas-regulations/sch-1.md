@@ -12,23 +12,19 @@ The design notification and the relocation notification for a production install
 
 (2) a description of the design process for the production operations and systems, from an initial concept to the submitted design or selection of an existing installation, the relevant standards used, and the design concepts included in the process;
 
-(3) a  description of  the  selected design concept in  relation to  the  major hazard scenarios for  the  particular installation and its location, and the primary risk control features;
+(3) a description of the selected design concept in relation to the major hazard scenarios for the particular installation and its location, and the primary risk control features;
 
 (4) a demonstration that the concept contributes to reducing major hazard risks to an acceptable level;
 
 (5) a description of the installation and the conditions at its intended location;
 
-(6) a  description of  any  environmental, meteorological and  seabed limitations on  safe operations,  and  the arrangements for identifying risks from seabed and marine hazards such as pipelines and the moorings of adjacent installations;
+(6) a description of any environmental, meteorological and seabed limitations on safe operations, and the arrangements for identifying risks from seabed and marine hazards such as pipelines and the moorings of adjacent installations;
 
 (7) a description of the types of major hazard operations to be carried out;
 
 (8) a general description of the safety and environmental management system by which the intended major accident risk control measures are to be maintained in good effect;
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 (9) a description of the independent verification schemes and an initial list of safety and environmental critical elements and their required performance;
+(9) a description of the independent verification schemes and an initial list of safety and environmental critical elements and their required performance;
 
 (10) where an existing production installation is to be moved to a new location to serve a different production operation, a demonstration that the installation is suitable for the proposed production operation;
 
@@ -48,15 +44,11 @@ Reports on major hazards for a production installation to be prepared in accorda
 
 (4) a description of the installation and any association with other installations or connected infrastructure, including wells;
 
-(5) demonstration that  all the major hazards have been identified, their likelihood and consequences assessed, including any  environmental, meteorological and  seabed  limitations  on  safe  operations,  and  that  their control measures including associated safety and environmental critical elements are suitable so as to reduce the risk of a major accident to an acceptable level; this demonstration shall include an assessment of oil spill response effectiveness;
+(5) demonstration that all the major hazards have been identified, their likelihood and consequences assessed, including any environmental, meteorological and seabed limitations on safe operations, and that their control measures including associated safety and environmental critical elements are suitable so as to reduce the risk of a major accident to an acceptable level; this demonstration shall include an assessment of oil spill response effectiveness;
 
 (6) a description of the types of operations with major hazard potential to be carried out, and the maximum number of persons that can be on the installation at any time;
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 (7) a description of equipment and arrangements to ensure well control, process safety, containment of hazardous substances, prevention of  fire and explosion, protection  of  the  workers from  hazardous substances, and protection of the environment from an incipient major accident;
+(7) a description of equipment and arrangements to ensure well control, process safety, containment of hazardous substances, prevention of fire and explosion, protection of the workers from hazardous substances, and protection of the environment from an incipient major accident;
 
 (8) a description of the arrangements to protect persons on the installation from major hazards, and to ensure their safe escape, evacuation and rescue, and arrangements for the maintenance of control systems to prevent damage to the installation and the environment in the event that all personnel are evacuated;
 
@@ -74,17 +66,13 @@ Subsidiary 2015/122 (7) a description of equipment and arrangements to ensure we
 
 (15) in respect of operations to be conducted from the installation, any information relating to the prevention of major accidents resulting in significant or serious damage to the environment relevant to other requirements under these Regulations, obtained pursuant to Directive 2011/92/EU;
 
-(16) an  assessment of the  identified potential environmental effects resulting from the  loss of containment of pollutants arising from  a  major accident, and  a  description of  the  technical and  non-technical measures envisaged to prevent, reduce or offset them, including monitoring.
+(16) an assessment of the identified potential environmental effects resulting from the loss of containment of pollutants arising from a major accident, and a description of the technical and non-technical measures envisaged to prevent, reduce or offset them, including monitoring.
 
 Part 3
 
 3. INFORMATION TO BE SUBMITTED   IN A REPORT ON MAJOR HAZARDS FOR A NON-PRODUCTION INSTALLATION
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 Reports on major hazards for a non-production installation to be prepared in accordance with regulation 27 and submitted pursuant to regulation 25(1)(e) shall contain at least the following information:
+Reports on major hazards for a non-production installation to be prepared in accordance with regulation 27 and submitted pursuant to regulation 25(1)(e) shall contain at least the following information:
 
 (1) the name and address of the owner;
 
@@ -96,7 +84,7 @@ Subsidiary 2015/122 Reports on major hazards for a non-production installation t
 
 (5) demonstration that all the major hazards have been identified, their likelihood and consequences assessed, including any environmental, meteorological and seabed limitations on safe operations and that their control measures including associated safety and environmental critical elements are suitable so as to reduce the risk of a major accident to an acceptable level; this demonstration shall include an assessment of any oil spill response effectiveness;
 
-(6) a description of the plant and arrangements to ensure well control, process safety, containment of hazardous substances, prevention of  fire and explosion, protection  of  the  workers from  hazardous substances, and protection of the environment from a major accident;
+(6) a description of the plant and arrangements to ensure well control, process safety, containment of hazardous substances, prevention of fire and explosion, protection of the workers from hazardous substances, and protection of the environment from a major accident;
 
 (7) a description of the arrangements to protect persons on the installation from major hazards, and to ensure their safe escape, evacuation and rescue, and arrangements for the maintenance of control systems to prevent damage to the installation and the environment in the event that all personnel are evacuated;
 
@@ -104,13 +92,7 @@ Subsidiary 2015/122 Reports on major hazards for a non-production installation t
 
 (9) demonstration that all the major hazards have been identified for all operations the installation is capable of performing, and that the risk of a major accident is reduced to an acceptable level;
 
-(10) a  description of  any  environmental, meteorological and  seabed limitations on  safe operations,  and  the arrangements for identifying risks
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 from seabed and marine hazards such as pipelines and the moorings of adjacent installations;
+(10) a description of any environmental, meteorological and seabed limitations on safe operations, and the arrangements for identifying risks from seabed and marine hazards such as pipelines and the moorings of adjacent installations;
 
 (11) information, regarding the safety and environmental management system, that is relevant to the non-production installation;
 
@@ -122,11 +104,11 @@ Subsidiary 2015/122 from seabed and marine hazards such as pipelines and the moo
 
 (15) in respect of operations to be conducted from the installation, any information obtained pursuant to Directive 2011/92/EU relating to the prevention of major accidents resulting in significant or serious damage to the environment relevant to other requirements under these Regulations;
 
-(16) an  assessment of the  identified potential environmental effects resulting from the  loss of containment of pollutants arising from  a  major accident, and  a  description of  the  technical and  non-technical measures envisaged to prevent, reduce or offset them, including monitoring.
+(16) an assessment of the identified potential environmental effects resulting from the loss of containment of pollutants arising from a major accident, and a description of the technical and non-technical measures envisaged to prevent, reduce or offset them, including monitoring.
 
 Part 4
 
-4. INFORMATION TO BE SUBMITTED   IN A NOTIFICATION OF WELL OPERATIONS
+4. INFORMATION TO BE SUBMITTED IN A NOTIFICATION OF WELL OPERATIONS
 
 Notifications of well operations to be prepared in accordance with regulation 29 and submitted pursuant to regulation 25(1)(h) shall contain at least the following information:
 
@@ -136,13 +118,7 @@ Notifications of well operations to be prepared in accordance with regulation 29
 
 (3) details that identify the well and any association with installations and connected infrastructure;
 
-(4) information on  the well work programme, including the period of its operation, details and verification of barriers against loss of well control (equipment, drilling fluids and cement etc.), directional control of the well
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 path, and limitations on safe operations in keeping with the risk management;
+(4) information on the well work programme, including the period of its operation, details and verification of barriers against loss of well control (equipment, drilling fluids and cement etc.), directional control of the well path, and limitations on safe operations in keeping with the risk management;
 
 (5) in the case of an existing well, information regarding its history and condition;
 
@@ -164,21 +140,15 @@ Subsidiary 2015/122 path, and limitations on safe operations in keeping with the
 
 (10) where a well is to be constructed, modified or maintained by means of a non-production installation, additional information as follows:
 
-(a) a description of any environmental, meteorological and seabed limitations on  safe operations, and arrangements for identifying risks from seabed and marine hazards such as pipelines and the moorings of adjacent installations;
+(a) a description of any environmental, meteorological and seabed limitations on safe operations, and arrangements for identifying risks from seabed and marine hazards such as pipelines and the moorings of adjacent installations;
 
 (b) a description of environmental conditions that have been taken into account within the internal emergency response plan for the installation;
 
 (c) a description of emergency response arrangements including arrangements for responding in cases of environmental incidents that are not described in the report on major hazards; and
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
+(d) a description of how the management systems of the operator of the well and the owner are to be coordinated to ensure effective control of major hazards at all times;
 
-2005-27
-
-Subsidiary 2015/122
-
-(d) a description of how  the  management systems of the  operator of the  well and  the  owner are to  be coordinated to ensure effective control of major hazards at all times;
-
-(11) a report with findings of the independent well examination, including a statement by the operator of the well that, after considering the report and findings of independent well examination by the independent verifier, the risk management relating to  well design and its barriers to  loss of control are suitable for all anticipated conditions and circumstances;
+(11) a report with findings of the independent well examination, including a statement by the operator of the well that, after considering the report and findings of independent well examination by the independent verifier, the risk management relating to well design and its barriers to loss of control are suitable for all anticipated conditions and circumstances;
 
 (12) the information relevant to these Regulations obtained pursuant to the major accident prevention requirements of Directive 92/91/EEC;
 
@@ -195,12 +165,6 @@ Descriptions to be submitted pursuant to regulation 25(1)(d) in relation to sche
 (b) a description of the verification scheme including the selection of independent verifiers, the means of verification that safety and environmental critical elements and any specified plant in the scheme remain in good repair and condition;
 
 (c) a description of the means of verification referred to in subsubparagraph (b) that shall include details of the principles that will be applied to carry out the functions under the scheme and to keep the scheme under review throughout the lifecycle of the installation including:
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122
 
 (i) the examination and testing of the safety and environmental critical elements by independent and competent verifiers;
 
@@ -230,12 +194,6 @@ Where material changes are to be made to the installation as referred to in regu
 
 (b) a description of major hazard risks associated with the decommissioning of the installation to workers and the environment, the total exposed population, and the risk control measures;
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122
-
 (c) emergency response arrangements to secure safe evacuation and rescue of personnel and to maintain control systems for preventing a major accident to the environment.
 
 Part 7
@@ -248,7 +206,7 @@ The notification of combined operations to be prepared pursuant to regulaton 30 
 
 (2) in the event that other operators or owners are involved in the combined operations their names and addresses, including a confirmation that they agree with the contents of the notification;
 
-(3) a description, in  the form of a bridging document authorised by all parties to  the  document, of how the management systems for the installations involved in the combined operation will be coordinated so as to reduce the risk of a major accident to an acceptable level;
+(3) a description, in the form of a bridging document authorised by all parties to the document, of how the management systems for the installations involved in the combined operation will be coordinated so as to reduce the risk of a major accident to an acceptable level;
 
 (4) a description of any equipment to be used in connection with the combined operation but which is not described in the current report on major hazards for any of the installations involved in the combined operations;
 
@@ -262,11 +220,7 @@ The notification of combined operations to be prepared pursuant to regulaton 30 
 
 Part 8
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 8. INFORMATION TO BE SUBMITTED IN RESPECT OF A CORPORATE MAJOR ACCIDENT PREVENTION POLICY
+8. INFORMATION TO BE SUBMITTED IN RESPECT OF A CORPORATE MAJOR ACCIDENT PREVENTION POLICY
 
 The corporate major accident prevention policy to be prepared in accordance with regulation 33(1) and (2) and submitted pursuant to regulation 25(1)(a) shall include but not be limited to:
 
@@ -298,11 +252,7 @@ The safety and environmental management system to be prepared pursuant to regula
 
 (2) identification and evaluation of major hazards as well as their likelihood and potential consequences;
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 (3) integration of environmental impact into major accident risk assessments in the report on major hazards;
+(3) integration of environmental impact into major accident risk assessments in the report on major hazards;
 
 (4) controls of the major hazards during normal operations;
 
@@ -334,11 +284,7 @@ Internal emergency response plans to be prepared pursuant to regulation 28 and s
 
 (5) a description of the equipment and the resources available, including for capping any potential spill;
 
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 (6) arrangements for limiting the risks to persons on the installation and the environment, including how warnings are to be given and the actions persons are expected to take on receipt of a warning;
+(6) arrangements for limiting the risks to persons on the installation and the environment, including how warnings are to be given and the actions persons are expected to take on receipt of a warning;
 
 (7) in the case of combined operation, arrangements for coordinating escape, evacuation and rescue between the installations concerned, to secure a good prospect of survival for persons on the installations during a major accident;
 
@@ -361,9 +307,3 @@ Subsidiary 2015/122 (6) arrangements for limiting the risks to persons on the in
 (11) arrangements for coordinating internal emergency response with external emergency response;
 
 (12) evidence of prior assessments of any chemicals used as dispersants that have been carried out to minimise public health implications and any further environmental damage.
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122

@@ -22,20 +22,8 @@ Particulars to be included in the preparation of external emergency response pla
 
 (a) sharing external emergency response plans with the adjacent Member State and the European Commission;
 
-(b) compiling at cross-border level the inventories of response assets, both industry and publicly owned and all necessary
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122 adaptations to make equipment and procedures compatible between the adjacent country and Member State;
+(b) compiling at cross-border level the inventories of response assets, both industry and publicly owned and all necessary adaptations to make equipment and procedures compatible between the adjacent country and Member State;
 
 (c) procedures for invoking the European Union Civil Protection Mechanism;
 
 (d) arranging transboundary exercises of external emergency response.
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122

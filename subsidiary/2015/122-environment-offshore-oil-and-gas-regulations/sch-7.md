@@ -19,9 +19,3 @@ External emergency response plans prepared pursuant to regulation 43 shall inclu
 (g) arrangements for the provision of information to the emergency services of Member States and the European Commission in the event of a major accident with possible transboundary consequences;
 
 (h) arrangements for the mitigation of the negative impacts on wildlife both onshore and offshore including the situations where oiled animals reach shore earlier than the actual spill.
-
-Environment ENVIRONMENT (OFFSHORE OIL AND GAS) REGULATIONS 2015
-
-2005-27
-
-Subsidiary 2015/122
