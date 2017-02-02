@@ -10,11 +10,19 @@ TUNISIA SANCTIONS ORDER 2016
 
 Commencement 12.2.2016
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2017/020 Sch. 2.2.2017
+
 Transposing:
 
 Council Regulation (EU) No 101/2011 Regulation (EU) 2016/111 Regulation (EU) 2017/149 Regulation (EU) No 2018/137
 
-_____________________________
+Export Control TUNISIA SANCTIONS ORDER 2016
+
+2005-33
+
+Subsidiary 2016/026
 
 ARRANGEMENTS OF PARAGRAPHS
 
