@@ -24,7 +24,7 @@ Medical and Health
 
 1997-25 2016/136 ss. 2(1), (3), 8(4B), (6), 8A, 9(2A)(b), (2B), (3)(c), (3A)(a), (b), (c)(i), (ii), (4)(b), (c), (d), (e), (4B)(b), (4C), (6)(b), (9)(b), (10), 10(2), (3), (4), (8)(c)(ii), 12, 13(1), (2), (3), (4), (5)(b), 22(b), 23(2), (7)(b), (8), 32(2), (3), (3A), (4), 33(b), 34(1), 44(1)(b), (c), (d), (7), 45(3), Schs 3, 5, 6, 7, 9, 10
 
-23.6.2016
+23.6.2016 2017/021 Long Title, ss. 59A, 59H(3), 59I 9.2.2017
 
 Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC Directive 2001/19/EC Directive 2006/100/EC Directive 2010/32/EC Directive 2013/55/EU
 
@@ -74,15 +74,13 @@ PART VI. HOSPITALS AND NURSING HOMES.
 
 PART VIA PREVENTION OF SHARP INJURIES
 
-59A.  Interpretation. 59B.  Application of requirements to employers. 59C.  Application of requirements to healthcare contractors. 59D.  Risk Assessments. 59E.  Use and disposal of medical sharps. 59F.  Information and training. 59G.  Arrangements in the event of injury. 59H.  Notification of injuries.
+59A.  Interpretation. 59B.  Application of requirements to employers. 59C.  Application of requirements to healthcare contractors. 59D.  Risk Assessments. 59E.  Use and disposal of medical sharps. 59F.  Information and training. 59G.  Arrangements in the event of injury. 59H.  Notification of injuries. 59I. Penalties.
 
 PART VII. PHARMACY AND MEDICINES.
 
-60. Interpretation.
-
 Medical and Health
 
-1997-25 61. Import of medicinal products not on general sale list. 62. Sale or supply of medicinal products not on general sale list. 63. Sale or supply of medicinal products on general sale list. 64. Provisions as to export. 65. Disclosure of composition of medicines. 66. Regulations. 67. Ownership of registered pharmacies. 68. Conditions imposed on carrying on a retail pharmacy business. 69. Restriction on use of premises. 70. Register of prescriptions to be kept and produced. 71. Articles to be deemed poisons. 72. Regulations to be observed in the sale of poisons. 73. Power of inspection and seizure. 74. Saving.
+1997-25 60. Interpretation. 61. Import of medicinal products not on general sale list. 62. Sale or supply of medicinal products not on general sale list. 63. Sale or supply of medicinal products on general sale list. 64. Provisions as to export. 65. Disclosure of composition of medicines. 66. Regulations. 67. Ownership of registered pharmacies. 68. Conditions imposed on carrying on a retail pharmacy business. 69. Restriction on use of premises. 70. Register of prescriptions to be kept and produced. 71. Articles to be deemed poisons. 72. Regulations to be observed in the sale of poisons. 73. Power of inspection and seizure. 74. Saving.
 
 PART VIII. OFFENCES.
 
@@ -94,11 +92,9 @@ PART IX. GENERAL AND SUPPLEMENTARY.
 
 SCHEDULE 1. Medical Registration Board
 
-SCHEDULE 2.
-
 Medical and Health
 
-1997-25 Fees
+1997-25 SCHEDULE 2. Fees
 
 SCHEDULE 3. Repealed
 
@@ -126,4 +122,4 @@ SCHEDULE 13. Part I Regulated Professions and Protected Titles Part II United Ki
 
 Medical and Health
 
-1997-25 AN ACT TO CONSOLIDATE THE MEDICAL AND HEALTH ACT AND ITS AMENDING PROVISIONS, TO TRANSPOSE, IN PART, INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 2013/55/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 20 NOVEMBER 2013 AMENDING DIRECTIVE 2005/36/EC ON THE RECOGNITION OF PROFESSIONAL QUALIFICATIONS AND REGULATION (EU) NO 1024/2012 ON ADMINISTRATIVE COOPERATION THROUGH THE INTERNAL MARKET INFORMATION SYSTEM, AND TO DEAL WITH THE CONSTITUTION OF THE MEDICAL REGISTRATION BOARD AND TO GIVE EFFECT  TO  OTHER  AMENDMENTS  RELATING TO VARIOUS PURPOSES INCLUDING PROMOTION OF INTERNATIONAL CO-OPERATION IN THE TRAINING OF MEDICAL PRACTITIONERS WHO ARE NOT NATIONALS OF EEA STATES, THROUGH A SYSTEM OF LIMITED REGISTRATION.
+1997-25 AN ACT TO CONSOLIDATE THE MEDICAL AND HEALTH ACT AND ITS AMENDING PROVISIONS, TO TRANSPOSE, IN PART, INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 2013/55/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 20 NOVEMBER 2013 AMENDING DIRECTIVE 2005/36/EC ON THE RECOGNITION OF PROFESSIONAL QUALIFICATIONS AND REGULATION (EU) NO 1024/2012 ON ADMINISTRATIVE COOPERATION THROUGH THE INTERNAL MARKET INFORMATION SYSTEM, AND TO DEAL WITH THE CONSTITUTION OF THE MEDICAL REGISTRATION BOARD AND TO GIVE EFFECT  TO  OTHER  AMENDMENTS  RELATING TO VARIOUS PURPOSES INCLUDING PROMOTION OF INTERNATIONAL CO-OPERATION IN THE TRAINING OF MEDICAL PRACTITIONERS WHO ARE NOT NATIONALS OF EEA STATES, THROUGH A SYSTEM OF LIMITED REGISTRATION AND OTHER RELATED MATTERS.
