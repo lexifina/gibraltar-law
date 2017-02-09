@@ -110,21 +110,17 @@ Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
 
 Subsidiary 1987/142 1997-25
 
-Column 1 Column 2 Prescription only medicines for parenteral administration containing any of the following substances but no other substance that is classified as a product available on prescription only—
+Column 1
 
-(a) Adrenaline, (b) Anti-D immunoglobulin, (c) Carboprost, (d) Cyclizine lactate, (e) Diamorphine, (f) Ergometrine maleate, (g) Gelofusine, (h) Hartmann’s solution, (i) Hepatitis B vaccine, (j) Hepatitis immunoglobulin, (k) Lidocaine hydrochloride, (l) Morphine, (m) Naloxone hydrochloride, (n) Oxytocins, natural and synthetic, (o) Pethidine hydrochloride, (p) Phytomenadione, (q) Prochloperazine, (r) Sodium chloride 0.9%. The medicine shall—
+Column 2
 
-(a) in the case of Lidocaine and Lidocaine hydrochloride, be administered only while attending on a woman in childbirth, and
+Prescription only medicines for parenteral administration containing any of the following substances but no other substance that is classified as a product available on prescription only—
 
-(b) where administration is—
+(a) Adrenaline, (b) Anti-D immunoglobulin, (c) Carboprost, (d) Cyclizine lactate, (e) Diamorphine, (f) Ergometrine maleate, (g) Gelofusine, (h) Hartmann’s solution, (i) Hepatitis B vaccine, (j) Hepatitis immunoglobulin, (k) Lidocaine and Lidocaine hydrochloride, (l) Morphine, (m) Naloxone hydrochloride, (n) Oxytocins, natural and synthetic, (o) Pethidine hydrochloride, (p) Phytomenadione, (q) Prochloperazine, (r) Sodium chloride 0.9%, (s) Benzyl Penicillin, (t) Diphtheria, tetanus, acellular pertussis and poliomyelitis vaccine, (u) Clindamycin, (v) Chloramphenicol eye ointment 1%, (w) Codeine phosphate and Paracetamol compound, (x) Sodium Citrate oral solution.
 
-(i) by a midwife, be administered in the course of their professional practice;
+Lidocaine and lidocaine hydrochloride shall be administered only while attending on a woman in childbirth.
 
-(ii) by a pupil—
-
-(aa) be administered under the direct supervision of a midwife; and
-
-(bb) not include Diamorphine, Morphine or Pethidine hydrochloride.
+Diamorphine, morphine and pethidine hydrochloride shall not be administered by a pupil.
 
 Prescription Only Medicines containing any of the following substances–
 
