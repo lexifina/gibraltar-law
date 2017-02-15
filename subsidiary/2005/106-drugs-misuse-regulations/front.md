@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2017/045 Notice of Corrigendum
 
-2006/137 Schs. 2 & 3 7.12.2006 2014/234 r. 31A 1.12.2014 2016/105 rr. 13(1), 13(2) 12.5.2016
+2006/137 Schs. 2 & 3 7.12.2006 2014/234 r. 31A 1.12.2014 2016/105 rr. 13(1), 13(2) 12.5.2016 2017/025 Schs. 1 & 2 15.2.2017
 
 Crimes DRUGS (MISUSE) REGULATIONS 2005
 
