@@ -1,46 +1,36 @@
-Public Health PREVENTION OF INFECTION RULES
+Subsidiary Legislation made under ss.180 and 337.
 
-1950-07
+Prevention of Infection Rules
 
-Subsidiary [1976/110] Rules made under ss.180 and 337.
+LN.1976/110
 
-PREVENTION OF INFECTION RULES
-
-[1976/110]
+Commencement 23.9.1976
 
 The following Rules and their corresponding amendments have all been consolidated under the Prevention of Infection Rules.
 
 Relevant current provisions Bedding (Disinfection) Rules, of 5.9.1906
 
-amended by
+amended by regs. of 28.5.1970
 
-regs. of 28.5.1970
+LN. 1978/053 r. 5
 
-LN. 1978/053 r.5
+Hairdressers and Barbers (Public Health) Rules, of 26.5.1955 amended by
 
-Hairdressers and Barbers (Public Health) Rules, of 26.5.1955
+regs. of 28.5.1970 r. 5 Act. 1972-05 r. 8 Infectious Diseases (Burial) Rules, of 26.11.1918
 
-amended by regs. of 28.5.1970 r.5 Act. 1972-05 r.8
-
-Infectious Diseases (Burial) Rules, of 26.11.1918
-
-amended by
-
-regs. of 28.5.1970 r.2 LN. 1978/056 r.5
+amended by regs. of 28.5.1970 r. 2 LN. 1978/056 r. 5
 
 Public Health (Infectious Diseases) Rules LN. 1976/110
 
-Spitting Rules, of 19.5.1921 amended by LN. 1978/060 r.3
+Spitting Rules, of 19.5.1921
 
-Amending enactments to the consolidated Rules Relevant current provisions Commencement date
+amended by LN. 1978/060 r. 3
 
-LN. 1988/003 rr. 2, 3, 4, 5, 7, 16 1.2.1988 1991/051 rr. 18, 19, 20 4.4.1991 1998/110 rr. 4, 5, 7, 16 26.11.1998
+Amending enactments Relevant current provisions Commencement date
 
-Public Health PREVENTION OF INFECTION RULES
+LN. 1988/003 rr. 2-5, 7, 16 1.2.1988 1991/051 rr. 18-20 4.4.1991 1998/110 rr. 4-5, 7, 16 26.11.1998 2017/043 rr. 4-5, 7, 16, Sch 9.3.2017
 
-1950-07
-
-Subsidiary [1976/110] ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES
 
 Rule
 
@@ -50,7 +40,7 @@ Preliminary
 
 Diseases connected with Food
 
-2. Interpretation. 3. Enforcement. 4. Measures by Public Health Director. 5. Suspected carriers.
+2. Interpretation. 3. Enforcement. 4. Measures by Specialist in Community Medicine. 5. Suspected carriers.
 
 Hairdressers and Barbers
 
@@ -70,12 +60,6 @@ Burial
 
 Offences
 
-18. Offences against rules 4 and 5. 19. Offences against rules 8-11. 20. Offences against rules 13, 14, 16 and 18.
+18. Offences against rules 4 and 5. 19. Offences against rules 8-11.
 
-Public Health PREVENTION OF INFECTION RULES
-
-1950-07
-
-Subsidiary [1976/110] SCHEDULE.
-
-Public Health PREVENTION OF INFECTION RULES
+20. Offences against rules 13, 14, 16 and 18.
