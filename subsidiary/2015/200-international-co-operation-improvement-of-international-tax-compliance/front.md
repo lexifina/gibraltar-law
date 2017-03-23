@@ -12,7 +12,7 @@ Commencement 12.11.2015
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2016/053 rr. 7(5), 10(3) 17.3.2016
+LN. 2016/053 rr. 7(5), 10(3) 17.3.2016 2017/048 r. 7(4) 23.3.2017
 
 _______________________
 
