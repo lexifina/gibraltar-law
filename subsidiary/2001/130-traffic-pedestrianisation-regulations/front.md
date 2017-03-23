@@ -12,7 +12,7 @@ TRAFFIC (PEDESTRIANISATION) REGULATIONS 2001
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.   2002/080 rr. 2, 4(a) and 5(1) 7.11.2002
+LN.   2002/080 rr. 2, 4(a) and 5(1) 7.11.2002 2017/049 r. 6(3) 23.3.2017
 
 ______________________
 
