@@ -126,11 +126,11 @@ Social Security (Insurance)
 
 28.3.2014 2015-111 ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3
 
-30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015
+30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017 2017/254 Sch.1 1.4.2017
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
-Transposing: Directive 86/613/EEC Directive 2010/41/EU EU Legislation/International Agreements involved:
+Transposing: Directive 86/613/EEC
 
 1 Transitional provisions: If between 30 June 2014 and the date of publication of this Act–
 
@@ -149,6 +149,12 @@ that woman shall be entitled to claim an additional benefit (the “additional b
 (b) a woman was confined and wishes to claim for a maternity grant on the basis of the contributions of the child’s father,
 
 the prescribed time for claiming the benefit shall be the period of 18 months beginning with the date of confinement.
+
+Social Security (Insurance)
+
+1955-14 Directive 2010/41/EU
+
+EU Legislation/International Agreements involved:
 
 Social Security (Insurance)
 
@@ -1172,59 +1178,53 @@ Rate of Contribution for an Employed Person.
 
 Employee - 10% of Gross Earnings.
 
-Subject to a maximum contribution of £1,308.32 per annum.
+Subject to a maximum contribution of £1,430.00 per annum.
 
-Contributions are payable weekly subject to a minimum of £5.00 per week and a maximum of £25.16 per week.
+Contributions are payable weekly subject to a minimum of £5.50 per week and a maximum of £27.50 per week.
 
 Married Women.*
 
-£13.10 per week.
+£14.50 per week.
 
 *This rate only applies to those married women who prior to 1 January 1985 elected not to pay contributions to the Social Insurance Scheme.
 
 Employer - 20% of Gross Earnings.
 
-Subject to a maximum contribution of £1,714.44 per annum.
+Subject to a maximum contribution of £1,898.00 per annum.
 
-Contributions are payable weekly subject to a minimum of £15.00 per week and a maximum of £32.97 per week.
+Contributions are payable weekly subject to a minimum of £16.50 per week and a maximum of £36.50 per week.
 
 Where the person employed is 60 years or over or one who has retired at age 55 by operation of law, only the employer’s share of the contribution is payable.
 
 Rate of Contribution for a Self-Employed Person - 20% of Gross Earnings.
 
-Subject to a maximum contribution of £1,568.84 per annum.
+Subject to a maximum contribution of £1,742.00 per annum.
 
-Contributions are payable weekly subject to a minimum of £10.00 per week and a maximum of £30.17 per week.
+Contributions are payable weekly subject to a minimum of £11.00 per week and a maximum of £33.50 per week.
 
 Rate of Additional voluntary Contribution for a Self-employed Woman.
 
-In addition to the rate of contribution for a self-employed person a fixed amount of £2.00 per week is optionally payable for the purpose of Maternity Allowance.
-
-Gibraltar Regiment.
+In addition to the rate of contribution for a self-employed person a fixed amount of £2.20 per week is optionally payable for the purpose of Maternity Allowance.
 
 Social Security (Insurance)
 
-1955-14
-
-Employee Contributions: £14.69 per week.
-
-Employer Contributions: £20.54 per week.
-
-Apportionment of Contributions.
+1955-14 Apportionment of Contributions.
 
 All contributions shall be deemed to be collected as follows–
 
-Social Security (Employment Injuries Insurance) Act 0.6% Social Security (Insurance) Act 1.2% Social Security (Open Long-Term Benefits Scheme) Act 28.2% Medical (Group Practice Scheme) Act 70%
+Social Security (Employment Injuries Insurance) Act 0.6% Social Security (Insurance) Act 1.2% Social Security (Open Long-Term Benefits Scheme) Act 33.2% Medical (Group Practice Scheme) Act 65%
 
-All contributions collected with effect from 1 July 2010 shall be apportioned as follows:
+All contributions collected with effect from 1 April 2017 shall be apportioned as follows:
 
-Gibraltar Health Authority – GPMS 70.00% Statutory Benefits Fund
+Gibraltar Health Authority – GPMS
 
-30.00%
+65.00% Statutory Benefits Fund
+
+35.00%
 
 Total
 
-100.00%
+100.00%.
 
 Social Security (Insurance)
 
