@@ -92,13 +92,15 @@ Social Security (Employment Injuries Insurance)
 
 28.11.2013 2014-10 ss. 2, 3(2)(iv), 18(1)(a)-(b), 19(1), (2)(a)-(b), (3), 20(b), 21(2), 22(1), 27(3)
 
-28.3.2014 2017-13 ss. 5(1A), (4), 6(2)(a) 1.7.2015
+28.3.2014 2017-13 ss. 5(1A), (4), 6(2)(a) 1.7.2015 LN. 2017/0571 Sch.1 1.4.2017
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
 English source
 
 National Insurance (Industrial Injuries) Act 1946 (9 & 10 Geo.6 c.62)
+
+1 LN. 2017/057 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/42)
 
 Social Security (Employment Injuries Insurance)
 
