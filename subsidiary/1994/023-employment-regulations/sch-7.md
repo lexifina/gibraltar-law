@@ -44,6 +44,6 @@ Annual indexation of fees.
 
 1.  Subject to the provision of this regulation, the fees set out in Part I and Part II above must be revised annually in accordance with the Index of Retail Prices published by the Government Statistician.
 
-2.  The first revision under this regulation shall apply as from 1 April 2017 and shall apply the index of retail prices for the year ending on 31 January 2017, and subsequent revisions shall apply on each subsequent 1 April and apply the index of retail prices prevailing on the preceding 31 January of that year.
+2.  The first revision under this regulation shall apply as from 1 April 2018 and shall apply the index of retail prices for the year ending on 31 January 2018, and subsequent revisions shall apply on each subsequent 1 April and apply the index of retail prices prevailing on the preceding 31 January of that year.
 
 3.  Any figure revised pursuant to paragraph 1 shall be rounded up to the next whole penny.
