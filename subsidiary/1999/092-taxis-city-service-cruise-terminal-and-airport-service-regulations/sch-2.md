@@ -1,3 +1,1 @@
-SCHEDULE 2
-
-Regulation 3
+SCHEDULE 2 Regulation 3

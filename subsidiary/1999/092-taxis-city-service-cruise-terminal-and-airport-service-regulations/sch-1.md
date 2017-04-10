@@ -1,5 +1,3 @@
-SCHEDULE 1
+SCHEDULE 1 Regulation 3
 
-Regulation 3
-
-___________________________
+_________________________________
