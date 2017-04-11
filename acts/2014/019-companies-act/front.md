@@ -26,7 +26,7 @@ Companies
 
 20.7.2015 2015/165 s. 168A 1.11.2015 2016/143 s. 478A 7.7.2016 2016/236 ss. 249(1), (2), (4), 251(5)(c), (d), (e), (7), (8), (9), 252A, 252B, 254(1), 258(2B), 281(2), Sch. 9
 
-6.12.20162
+6.12.20162 Act. 2017-03 s. 67A, Sch. 1A 11.4.2017
 
 Transposing: Directive 2013/34/EU Directive 2014/95/EU
 
@@ -154,7 +154,7 @@ Company limited by guarantee and having a share capital becoming a company limit
 
 De-registration and registration as limited partnership
 
-67. De-registration of company limited by shares or guarantee on registration as a limited partnership. 68. De-registration of limited partnership on registration as a company limited by shares or guarantee.
+67. De-registration of company limited by shares or guarantee on registration as a limited partnership. 67A. De-registration of company limited by guarantee or by shares and guarantee on registration as a foundation. 68. De-registration of limited partnership on registration as a company limited by shares or guarantee.
 
 CHAPTER 4 CONTRACTS ETC.
 
@@ -164,11 +164,9 @@ Contracts
 
 Execution of documents by companies
 
-72. Company contracts. 73. Execution of documents.
-
 Companies
 
-2014-19 74. Common seal. 75. Execution of deeds. 76. Execution of deeds or other documents by attorney.
+2014-19 72. Company contracts. 73. Execution of documents. 74. Common seal. 75. Execution of deeds. 76. Execution of deeds or other documents by attorney.
 
 PART IV
 
@@ -184,11 +182,11 @@ Allotment
 
 Commissions and discounts
 
-97. Power to pay certain commissions and prohibition of payment of all other commissions and discounts. 98. Statement in balance sheet as to commissions and discounts. 99. Holding of shares in public company by another company. 100. Prohibition of provision of financial assistance by company for purchase of its own shares. 101. Relaxations of section 100 in the case of private companies. 102. Statutory declaration under section 101.
+97. Power to pay certain commissions and prohibition of payment of all other commissions and discounts. 98. Statement in balance sheet as to commissions and discounts. 99. Holding of shares in public company by another company. 100. Prohibition of provision of financial assistance by company for purchase of its own shares.
 
 Companies
 
-2014-19 103. Special resolution under section 101. 104. Time for giving financial assistance under section 101. 105. Power of company to purchase own shares and interpretation of sections 101 to 115. 106. Acquisition other than for value, in reduction of capital, alteration of objects and on forfeiture. 107. Restrictions on power of company to purchase own shares. 108. Definitions of “off-market” and “market” purchase. 109. Authority for off-market purchase. 110. Authority for contingent purchase contract. 111. Authority for market purchase. 112. Assignment or release of company’s right to purchase own shares. 113. Payments apart from purchase price to be made out of distributable profits. 114. Disclosure by company of purchase of own shares. 115. The capital redemption reserve.
+2014-19 101. Relaxations of section 100 in the case of private companies. 102. Statutory declaration under section 101. 103. Special resolution under section 101. 104. Time for giving financial assistance under section 101. 105. Power of company to purchase own shares and interpretation of sections 101 to 115. 106. Acquisition other than for value, in reduction of capital, alteration of objects and on forfeiture. 107. Restrictions on power of company to purchase own shares. 108. Definitions of “off-market” and “market” purchase. 109. Authority for off-market purchase. 110. Authority for contingent purchase contract. 111. Authority for market purchase. 112. Assignment or release of company’s right to purchase own shares. 113. Payments apart from purchase price to be made out of distributable profits. 114. Disclosure by company of purchase of own shares. 115. The capital redemption reserve.
 
 Redemption or purchase of own shares out of capital (private companies only)
 
@@ -200,11 +198,11 @@ Issue of redeemable preference shares and shares at discount.
 
 Miscellaneous provisions as to share capital.
 
-127. Power of company to arrange for different amounts being paid on shares. 128. Fractional shares. 129. Reserve liability of limited company. 130. Power of company limited by shares to alter its share capital. 131. Notice to Registrar of consolidation of share capital and conversion of shares into stock. 132. Notice of increase of share capital. 133. Power of unlimited company to provide for reserve share capital on re-registration.
+127. Power of company to arrange for different amounts being paid on shares. 128. Fractional shares. 129. Reserve liability of limited company. 130. Power of company limited by shares to alter its share capital. 131. Notice to Registrar of consolidation of share capital and conversion of shares into stock. 132. Notice of increase of share capital.
 
 Companies
 
-2014-19 134. Power of company to pay interest out of capital in certain cases. 135. Authorised minimum.
+2014-19 133. Power of unlimited company to provide for reserve share capital on re-registration. 134. Power of company to pay interest out of capital in certain cases. 135. Authorised minimum.
 
 Reduction of share capital
 
@@ -224,11 +222,11 @@ Transfer of shares and debentures and evidence of title
 
 Redenomination of share capital
 
-159. Redenomination of share capital. 160. Effect of redenomination. 161. Notice to Registrar of redenomination. 162. Reduction of capital in connection with redenomination.
+159. Redenomination of share capital. 160. Effect of redenomination. 161. Notice to Registrar of redenomination.
 
 Companies
 
-2014-19 163. Notice to Registrar of reduction of capital in connection with redenomination.
+2014-19 162. Reduction of capital in connection with redenomination. 163. Notice to Registrar of reduction of capital in connection with redenomination.
 
 Special provisions as to debentures
 
@@ -256,11 +254,9 @@ Registered office and name
 
 Restrictions on commencement of business
 
-181. Restrictions on commencement of business.
-
 Companies
 
-2014-19
+2014-19 181. Restrictions on commencement of business.
 
 Register of members
 
@@ -276,11 +272,11 @@ Meetings and proceedings
 
 Inspection
 
-211. Investigation of companies and their affairs, etc. 212. Proceedings on report by inspectors.
+211. Investigation of companies and their affairs, etc.
 
 Companies
 
-2014-19 213. Power of company to appoint inspectors. 214. Report of inspectors to be evidence.
+2014-19 212. Proceedings on report by inspectors. 213. Power of company to appoint inspectors. 214. Report of inspectors to be evidence.
 
 Directors and managers
 
@@ -300,11 +296,9 @@ ACCOUNTS AND AUDIT
 
 CHAPTER 1 PRELIMINARY
 
-237. Interpretation of Part VII.
-
 Companies
 
-2014-19 237A.  Public-interest entity excluded from exemptions. 238. Preparation of annual accounts: mainstream companies.
+2014-19 237. Interpretation of Part VII. 237A.  Public-interest entity excluded from exemptions. 238. Preparation of annual accounts: mainstream companies.
 
 CHAPTER 2 ACCOUNTS OTHER THAN CONSOLIDATED ACCOUNTS
 
@@ -324,11 +318,11 @@ Directors reports: mainstream companies
 
 Auditors and auditor’ reports
 
-255. Appointment auditors. 256. Supplementary provisions as to auditors and their remuneration. 257. Auditors’ report and right of access to books and right to attend general meetings. 258. Auditors’ reports. 259. Exemption for small companies. 260. Voidness of provisions protecting auditors from liability. 261. Indemnity for costs of successfully defending proceedings. 262. Liability limitation agreements.
+255. Appointment auditors. 256. Supplementary provisions as to auditors and their remuneration. 257. Auditors’ report and right of access to books and right to attend general meetings. 258. Auditors’ reports. 259. Exemption for small companies. 260. Voidness of provisions protecting auditors from liability. 261. Indemnity for costs of successfully defending proceedings.
 
 Companies
 
-2014-19 263. Terms of liability limitation agreement. 264. Authorisation of agreement by members of the company. 265. Effect of liability limitation agreement. 266. Disclosure of agreement by company. 267. Voluntary revision of defective accounts and reports. 268. Change of accounting reference period.
+2014-19 262. Liability limitation agreements. 263. Terms of liability limitation agreement. 264. Authorisation of agreement by members of the company. 265. Effect of liability limitation agreement. 266. Disclosure of agreement by company. 267. Voluntary revision of defective accounts and reports. 268. Change of accounting reference period.
 
 Supplementary
 
@@ -342,11 +336,11 @@ Interpretation and general
 
 Preparation of group accounts
 
-281. Preparation of group accounts. 282. Chapter 3 Accounts. 283. IAS group accounts. 284. Consistency of accounts. 285. Exemption for parent companies included in accounts of larger group. 286. Exemption for parent companies included in non-EEA group accounts. 287. Subsidiary undertakings included in the consolidation. 288. Treatment of individual profit and loss account where group accounts prepared. 289. Disclosure required in notes to accounts: related undertakings. 290. Disclosure required in notes to annual accounts: particulars of staff. 291. Deleted 292. Exemption for small and medium-sized groups.
+281. Preparation of group accounts. 282. Chapter 3 Accounts. 283. IAS group accounts. 284. Consistency of accounts. 285. Exemption for parent companies included in accounts of larger group. 286. Exemption for parent companies included in non-EEA group accounts. 287. Subsidiary undertakings included in the consolidation. 288. Treatment of individual profit and loss account where group accounts prepared. 289. Disclosure required in notes to accounts: related undertakings. 290. Disclosure required in notes to annual accounts: particulars of staff. 291. Deleted
 
 Companies
 
-2014-19 293. Qualification of group as small or medium-sized or large. 294. Offences. 294A.  Transmission of Information.
+2014-19 292. Exemption for small and medium-sized groups. 293. Qualification of group as small or medium-sized or large. 294. Offences. 294A.  Transmission of Information.
 
 PART VIII
 
@@ -584,6 +578,10 @@ SCHEDULE 1
 
 DE-REGISTRATION OF CERTAIN COMPANIES ON BECOMING LIMITED PARTNERSHIPS CONSEQUENTIAL AMENDMENTS TO LIMITED PARTNERS ACT
 
+SCHEDULE 1A
+
+DE-REGISTRATION OF CERTAIN COMPANIES ON BECOMING FOUNDATIONS
+
 SCHEDULE 2
 
 PROSPECTUSES
@@ -598,13 +596,13 @@ VALUATION PROVISIONS ENTITLEMENT TO FULL DISCLOSURE
 
 SCHEDULE 5
 
-FORM OF ANNUAL RETURN OF A COMPANY HAVING A SHARE CAPITAL
+Companies
+
+2014-19 FORM OF ANNUAL RETURN OF A COMPANY HAVING A SHARE CAPITAL
 
 SCHEDULE 6
 
-Companies
-
-2014-19 DOCUMENTS AND INFORMATION SENT OR SUPPLIED TO A COMPANY
+DOCUMENTS AND INFORMATION SENT OR SUPPLIED TO A COMPANY
 
 SCHEDULE 7
 
@@ -640,15 +638,15 @@ MEDIUM SIZED COMPANIES PROFIT AND LOSS ACCOUNT
 
 SCHEDULE 15
 
-AMOUNTS TO BE INCLUDED IN RESPECT OF ITEMS SHOWN IN COMPANY ACCOUNTS
+Companies
+
+2014-19 AMOUNTS TO BE INCLUDED IN RESPECT OF ITEMS SHOWN IN COMPANY ACCOUNTS
 
 SCHEDULE 16
 
 NOTES ON ACCOUNTS - MINIMUM REQUIREMENTS
 
-Companies
-
-2014-19 SCHEDULE 17
+SCHEDULE 17
 
 DEFINITION OF INVESTMENT COMPANIES AND FINANCIAL HOLDING COMPANIES
 
@@ -684,15 +682,17 @@ SCHEDULE 25
 
 CREDIT AND FINANCIAL INSTITUTIONS TO WHICH THE BANK BRANCHES DIRECTIVE (89/117/EEC) APPLIES
 
+Companies
+
+2014-19
+
 SCHEDULE 26
 
 DELIVERY OF REPORTS AND ACCOUNTS: GENERAL.
 
 SCHEDULE 27
 
-Companies
-
-2014-19 PROVISIONS REFERRED TO IN SECTION 470
+PROVISIONS REFERRED TO IN SECTION 470
 
 SCHEDULE 28
 
