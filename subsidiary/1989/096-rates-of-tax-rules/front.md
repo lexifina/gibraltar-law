@@ -26,7 +26,7 @@ rr. 2 and 3 1.7.2002 2003/104 rr. 2 and 3. 1.7.2003 2006/112 rr. 2, 3 and 4(a) 1
 
 rr. 2(1) 1.7.2013 2018/121 rr. 3(1) 1.7.2013 2015/033 rr. 2(1), 5, 6A 1.7.2014 2018/121 rr. 3(1) 1.7.2014 “
 
-rr. 2(1), 3(1), 3A(1A) 1.7.2015
+rr. 2(1), 3(1), 3A(1A) 1.7.2015 2017/070 r. 6B 11.4.2017
 
 1 For the avoidance of doubt, section 24 of the Interpretation and General Clauses Act restricting the retrospective commencement of subsidiary legislation shall not apply to subsidiary legislation made under sections 4 to 7 of Act 2011-11. (s.2(4))
 
@@ -34,10 +34,12 @@ Income Tax RATES OF TAX RULES, 1989
 
 2010-21
 
-Subsidiary 1989/096 ARRANGEMENT OF RULES
+Subsidiary 1989/096
+
+ARRANGEMENT OF RULES
 
 Rules
 
-1. Title. 2. Rates of tax chargeable on individuals, etc. 3. Tax charged on certain non-residents. 3A.  Rates of tax chargeable on individuals under Gross Income Based System. 4. Tax charged on certain amounts received from pension schemes, etc. 5. Standard rate of tax. 6. Corporation tax. 6A.  Rate of Tax for Trusts. 7. Building Society tax. 8. Income from Development Bonds.
+1. Title. 2. Rates of tax chargeable on individuals, etc. 3. Tax charged on certain non-residents. 3A.  Rates of tax chargeable on individuals under Gross Income Based System. 4. Tax charged on certain amounts received from pension schemes, etc. 5. Standard rate of tax. 6. Corporation tax. 6A.  Rate of Tax for Trusts. 6B. Rate of Tax for Foundations. 7. Building Society tax. 8. Income from Development Bonds.
 
 Income Tax RATES OF TAX RULES, 1989
