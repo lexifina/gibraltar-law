@@ -6,7 +6,7 @@ Table A
 
 “Trade, business, profession or vocation”
 
-(1) The profits or gains of a company or a trust from any trade, business, profession or vocation.
+(1) The profits or gains of a company, a foundation or a trust from any trade, business, profession or vocation.
 
 “Income from property”
 

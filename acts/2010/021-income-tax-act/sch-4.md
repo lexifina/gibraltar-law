@@ -160,7 +160,25 @@ and for the purposes of this paragraph a body corporate is connected with a sett
 
 (e) it is controlled (within the meaning of paragraph 10) by a company falling within paragraph (d) above.
 
-(4)  Except in relation to acquisitions or disposals of partnership assets pursuant to bona fide commercial arrangements, a person is connected with any person with whom he is in partnership, and with the wife or husband or relative of any individual with whom he is in partnership.
+(3A)  A foundation is connected with-
+
+(a) any individual who in relation to the foundation is a founder,
+
+(b) any person who is connected with such individual, and
+
+(c) any body corporate which is connected with that foundation,
+
+and for the purposes of this paragraph a body corporate is connected with a foundation if–
+
+(d) it is a private company and the participators include the foundation; or
+
+(e) it is controlled (within the meaning of paragraph 10) by a company falling within paragraph (d) above.
+
+(4)  Except in relation to acquisitions or disposals of partnership assets pursuant to bona fide commercial arrangements, a person is connected with
+
+Income Tax
+
+2010-21 any person with whom he is in partnership, and with the wife or husband or relative of any individual with whom he is in partnership.
 
 (5)  A company is connected with another company
 
@@ -168,9 +186,7 @@ and for the purposes of this paragraph a body corporate is connected with a sett
 
 (b) if a group of two or more persons has control of each company, and the groups either consist of the same persons or could be regarded as consisting of the same persons by treating (in one or more cases) a member of either group as replaced by a person with whom he is connected.
 
-Income Tax
-
-2010-21 (6)  A company is connected with another person if that person has control of it or if that person and persons connected with him together have control of it.
+(6)  A company is connected with another person if that person has control of it or if that person and persons connected with him together have control of it.
 
 (7)  Any two or more persons acting together to secure or exercise control of a company shall be treated in relation to that company as connected with one another and with any person acting on the directions of any of them to secure or exercise control of the company.
 
@@ -182,7 +198,11 @@ Income Tax
 
 “control” shall be construed in accordance with paragraph 10 except where otherwise specifically provided;
 
-“relative” means brother, sister, cousin of the first blood, uncle, aunt, ancestor, lineal descendant or lineal descendant of a brother or sister;
+“founder” shall have the meaning ascribed to it in sections 2 and 5 of the Private Foundations Act 2017 and shall further include any person who endows assets directly or indirectly to or upon a foundation or who has made with any other person a reciprocal arrangement for that other person to endow assets directly or indirectly to or upon a foundation;
+
+Income Tax
+
+2010-21 “relative” means brother, sister, cousin of the first blood, uncle, aunt, ancestor, lineal descendant or lineal descendant of a brother or sister;
 
 “settlement” includes any disposition, trust, covenant, agreement, arrangement or transfer of assets; and
 
@@ -190,11 +210,7 @@ Income Tax
 
 Control.
 
-10.(1)  For the purposes of this Schedule except where otherwise specifically provided, a person shall be taken to have control of a company if he exercises, or is able to exercise or is entitled to acquire, direct or indirect control over the company's affairs, and in particular, but without
-
-Income Tax
-
-2010-21 prejudice to the generality of the preceding words, if he possesses or is entitled to acquire
+10.(1)  For the purposes of this Schedule except where otherwise specifically provided, a person shall be taken to have control of a company if he exercises, or is able to exercise or is entitled to acquire, direct or indirect control over the company's affairs, and in particular, but without prejudice to the generality of the preceding words, if he possesses or is entitled to acquire
 
 (a) the greater part of the share capital or issued share capital of the company or of the voting power in the company; or
 
@@ -206,6 +222,10 @@ Income Tax
 
 (3)  For the purposes of subparagraph (1) above a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire.
 
+Income Tax
+
+2010-21
+
 (4)  For the purposes of subparagraph (1) and (2) above, there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
 
 (5)  For the purposes of subparagraph (1) and (2) above, there may also be attributed to any person all the rights and powers of any company of which he has, or he and associates of his have, control or any two or more such companies, or of any associate of his or of any two or more associates of his, including those attributed to a company or associate under subparagraph (4) above, but not those attributed to an associate under this subparagraph; and such attributions shall be made under this subparagraph as will result in the company being treated as under the control of five or fewer participators if it can be so treated.
@@ -213,10 +233,6 @@ Income Tax
 Participator.
 
 11.(1)  For the purposes of Paragraphs 9 and 10, a "participator" is, in relation to any company, a person having a share or interest in the capital or income of the company, and, without prejudice to the generality of the preceding words, includes
-
-Income Tax
-
-2010-21
 
 (a) any person who possesses, or is entitled to acquire, share capital or voting rights in the company;
 
@@ -230,7 +246,9 @@ Income Tax
 
 (3)  The provisions of subparagraph (1) above are without prejudice to any particular provision of Paragraphs 9 and 10 requiring a participator in one company to be treated as being also a participator in another company.
 
-(4)  For the purposes of Paragraph 9 and 10 "associate" means, in relation to a participator
+Income Tax
+
+2010-21 (4)  For the purposes of Paragraph 9 and 10 "associate" means, in relation to a participator
 
 (a) any relative or partner of the participator;
 
@@ -242,9 +260,7 @@ Income Tax
 
 (ii) if the participator is a company, any other company interested in those shares or obligations;
 
-Income Tax
-
-2010-21 and has a corresponding meaning in relation to a person other than a participator.
+and has a corresponding meaning in relation to a person other than a participator.
 
 (5)  In subparagraph (3) above “relative” means husband or wife, parent or remoter forebear, child or remoter issue, or brother or sister.
 
@@ -260,6 +276,10 @@ Income Tax
 
 (b) any redeemable loan capital issued by the company.
 
+Income Tax
+
+2010-21
+
 (7)  Subject to subparagraph (8) below, a person who is not the creditor in respect of any debt or loan capital to which subparagraph (6) above applies but nevertheless has a beneficial interest therein shall, to the extent of that interest, be treated for the purposes of paragraphs 9 and 10 as a loan creditor in respect of that debt or loan capital.
 
 (8)  A person carrying on a business of banking shall not be deemed to be a loan creditor in respect of any loan capital or debt issued or incurred by the company for money lent by him to the company in the ordinary course of that business.
@@ -270,11 +290,7 @@ TRANSFER OF ASSETS ABROAD
 
 Prevention of avoidance of income tax.
 
-12.(1)  The following provisions of this paragraph shall have effect for the purpose of preventing the avoiding by any ordinarily resident individual of liability to tax by means of transfers of assets by virtue or in consequence of
-
-Income Tax
-
-2010-21 which, either alone or in conjunction with associated operations, income becomes payable to persons resident outside Gibraltar.
+12.(1)  The following provisions of this paragraph shall have effect for the purpose of preventing the avoiding by any ordinarily resident individual of liability to tax by means of transfers of assets by virtue or in consequence of which, either alone or in conjunction with associated operations, income becomes payable to persons resident outside Gibraltar.
 
 (2)  Nothing in subparagraph (1) shall be taken to imply the provisions of subparagraphs (3) and (4) apply only if–
 
@@ -284,7 +300,11 @@ Income Tax
 
 (3)  Where by virtue or in consequence of any such transfer, either alone or in conjunction with associated operations, the individual has, within the meaning of this paragraph, power to enjoy, whether forthwith or in the future, any income of a person resident outside Gibraltar which, if it were income of that individual received by him in Gibraltar, would be chargeable to income tax by deduction or otherwise, that income shall, whether it would or would not have been chargeable to tax apart from the provisions of this paragraph, be deemed to be income of that individual for all purposes of this Act.
 
-(4)  Where, whether before or after any such transfer, the individual receives or is entitled to receive any capital sum the payment of which is in any way connected with the transfer or any associated operation, any income which, by virtue or in consequence of the transfer, either alone or in conjunction with associated operations, has become the income of a person resident outside Gibraltar shall, whether it would or would not have been chargeable to tax apart from the provisions of this paragraph, be deemed to be income of that individual for all purposes of this Act.
+(4)  Where, whether before or after any such transfer, the individual receives or is entitled to receive any capital sum the payment of which is in any way connected with the transfer or any associated operation, any income
+
+Income Tax
+
+2010-21 which, by virtue or in consequence of the transfer, either alone or in conjunction with associated operations, has become the income of a person resident outside Gibraltar shall, whether it would or would not have been chargeable to tax apart from the provisions of this paragraph, be deemed to be income of that individual for all purposes of this Act.
 
 (5)  In subparagraph (4) above “capital sum” means, subject to subparagraph (6) below
 
@@ -294,9 +314,7 @@ Income Tax
 
 (6)  For the purposes of subparagraph (4) above, there shall be treated as a capital sum which a individual receives or is entitled to receive any sum which a third person receives or is entitled to receive at the individual's direction or by virtue of the assignment by him of his right to receive it.
 
-Income Tax
-
-2010-21 (7)  Income shall not by virtue of subparagraph (3) above be deemed to be that of a individual for any year of assessment by reason only of his having received a sum by way of loan if that sum has been wholly repaid before the beginning of that year.
+(7)  Income shall not by virtue of subparagraph (3) above be deemed to be that of a individual for any year of assessment by reason only of his having received a sum by way of loan if that sum has been wholly repaid before the beginning of that year.
 
 (8)  Income chargeable to tax by virtue of this paragraph shall be charged under Schedule 1, Table C, Class 5. (9)  This paragraph applies irrespective of when the transfer or associated operations referred to in subparagraph (1) above took place, but applies only to relevant income arising on or after the date this act came into effect.
 
@@ -308,15 +326,17 @@ Liability of non-transferors.
 
 (b) an individual who is not liable to tax under paragraph 12 by reference to the transfer receives a benefit provided out of assets which are available for the purpose by virtue or in consequence of the transfer or of any associated operations.
 
+Income Tax
+
+2010-21
+
 (2)  Subject to the provisions of this paragraph, the amount or value of any such benefit as is mentioned in subparagraph (1) above, if not otherwise chargeable to tax in the hands of the recipient, shall
 
 (a) to the extent to which it falls within the amount of relevant income of years of assessment up to and including the year of assessment in which the benefit is received, be treated for all the purposes of this Act as the income of the individual for that year;
 
 (b) to the extent to which it is not by virtue of this subparagraph treated as his income for that year and falls within the amount of relevant income of the next following year of assessment, be treated for those purposes as his income for the next following year and so on for subsequent years, taking the reference in paragraph (b) to the year mentioned in paragraph (a) as a reference to that and any other year before the subsequent year in question.
 
-Income Tax
-
-2010-21 (3)  The relevant income of a year of assessment, in relation to a individual, is any income which arises in that year to a person resident outside Gibraltar and which by virtue or in consequence of the transfer or associated operations referred to in subparagraph (1) above can directly or indirectly be used for providing a benefit for the individual or for enabling a benefit to be provided for him.
+(3)  The relevant income of a year of assessment, in relation to a individual, is any income which arises in that year to a person resident outside Gibraltar and which by virtue or in consequence of the transfer or associated operations referred to in subparagraph (1) above can directly or indirectly be used for providing a benefit for the individual or for enabling a benefit to be provided for him.
 
 (4)  Income chargeable to tax by virtue of this paragraph shall be charged under Schedule 1, Table C, Class 5.
 
@@ -328,7 +348,9 @@ Exemption from Paragraphs 12 and 13.
 
 (a) that the purpose of avoiding liability to taxation was not the purpose or one of the purposes for which the transfer or associated operations or any of them were effected; or
 
-(b) that the transfer and any associated operations were bona fide commercial transactions and were not designed for the purpose of avoiding liability to taxation.
+Income Tax
+
+2010-21 (b) that the transfer and any associated operations were bona fide commercial transactions and were not designed for the purpose of avoiding liability to taxation.
 
 (2)  The jurisdiction of the Tribunal on any appeal shall include jurisdiction to review any relevant decision taken by the Commissioner in exercise of their functions under this paragraph.
 
@@ -338,9 +360,7 @@ Interpretation of Paragraphs 12 to 14.
 
 (2)  An individual shall, for the purposes of paragraph 12, be deemed to have power to enjoy income of a person resident outside Gibraltar if
 
-Income Tax
-
-2010-21 (a) the income is in fact so dealt with by any person as to be calculated, at some point of time, and whether in the form of income or not, to enure for the benefit of the individual; or
+(a) the income is in fact so dealt with by any person as to be calculated, at some point of time, and whether in the form of income or not, to enure for the benefit of the individual; or
 
 (b) the receipt or accrual of the income operates to increase the value to the individual of any assets held by him or for his benefit; or
 
@@ -352,7 +372,9 @@ Income Tax
 
 (3)  In determining whether an individual has power to enjoy income within the meaning of subparagraph (2) above
 
-(a) regard shall be had to the substantial result and effect of the transfer and any associated operations, and
+Income Tax
+
+2010-21 (a) regard shall be had to the substantial result and effect of the transfer and any associated operations, and
 
 (b) all benefits which may at any time accrue to the individual (whether or not he has rights at law or in equity in or to those benefits) as a result of the transfer and any associated operations shall be taken into account irrespective of the nature or form of the benefits.
 
@@ -364,10 +386,6 @@ Income Tax
 
 (b) “assets” includes property or rights of any kind and "transfer" , in relation to rights, includes the creation of those rights;
 
-Income Tax
-
-2010-21
-
 (c) “benefit” includes a payment of any kind;
 
 (d) “transfer” includes the waiver by an individual of dividends or any other distribution by a company in any manner the effect of which is to transfer to a non-resident person the benefit of such dividends either directly or indirectly and whether by enhancement of the dividend or other distribution made to the non-resident person;
@@ -378,7 +396,11 @@ Supplemental provisions.
 
 16.(1)  In computing the liability to tax of an individual by virtue of paragraph 12, the same deductions and reliefs shall be allowed as would have been allowed if the income deemed to be his by virtue of that paragraph had actually been received by him.
 
-(2)  Where an individual has been charged to tax on any income deemed to be his by virtue of paragraph 12 and that income is subsequently received by him, it shall be deemed not to form part of his income again for the purposes of this Act.
+(2)  Where an individual has been charged to tax on any income deemed to be his by virtue of paragraph 12 and that income is subsequently received by
+
+Income Tax
+
+2010-21 him, it shall be deemed not to form part of his income again for the purposes of this Act.
 
 (3)  In any case where an individual has for the purposes of that paragraph power to enjoy income of a person abroad by reason of his receiving any such benefit as is referred to in paragraph 15(2)(c), then notwithstanding anything in subparagraph (1) above, the individual shall be chargeable to tax by virtue of paragraph 12 for the year of assessment in which the benefit is received on the whole of the amount or value of that benefit except in so far as it is shown that the benefit derives directly or indirectly from income on which he has already been charged to tax for that or a previous year of assessment.
 
@@ -386,9 +408,7 @@ No duplication of charge.
 
 17.(1)  No amount of income shall be taken into account more than once in charging tax under the provisions of paragraphs 12 and 13; and where there is a choice as to the persons in relation to whom any amount of income can be so taken into account
 
-Income Tax
-
-2010-21 (a) it shall be so taken into account in relation to such of them, and if more than one in such proportions respectively, as appears to the Commissioner to be just and reasonable; and
+(a) it shall be so taken into account in relation to such of them, and if more than one in such proportions respectively, as appears to the Commissioner to be just and reasonable; and
 
 (b) the jurisdiction of the Tribunal on any appeal against an assessment charging tax under those provisions shall include jurisdiction to review any relevant decision taken by the Commissioner under this subparagraph.
 

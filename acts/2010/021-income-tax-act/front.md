@@ -14,9 +14,11 @@ Amending enactments Relevant current provisions Commencement date Act. 2015-23 s
 
 1.7.2016 LN. 2016/253 ss. 5D(5), 5F 22.12.2016 2016/246 ss. 5A(6)(b), 5B(2A), 5E(8), 5F(1), (2)(b), (3), 10A-10K
 
-1.1.2017
+1.1.2017 Act. 2017-04 ss. 12A, 13A, 28(1), (8)-(12), 74, Schs. 1, 4
 
-1 Notice of corrigendum see LN. 2013/011
+11.4.20172
+
+1 Notice of corrigendum see LN. 2013/011 2 Notice of Commencement see LN. 2017/069
 
 Income Tax
 
@@ -40,11 +42,11 @@ Part IA- Advance cross-border rulings and pricing arrangements
 
 Part II- Charge to tax
 
-11. The charge to taxation. 12. Taxation of beneficiaries. 13. Taxation of trusts. 14. Refund of certain contributions.
+11. The charge to taxation. 12. Taxation of beneficiaries. 12A. Taxation of Foundation Beneficiaries. 13. Taxation of trusts.
 
 Income Tax
 
-2010-21 14A. Pensions imported from another country, territory or jurisdiction. 14B.  Pensions in connection with a statutory instrument.
+2010-21 13A. Taxation of Foundations. 14. Refund of certain contributions. 14A. Pensions imported from another country, territory or jurisdiction. 14B.  Pensions in connection with a statutory instrument.
 
 Part III- Computation of assessments
 
@@ -60,11 +62,9 @@ Part V- Payment of taxation
 
 Part VI- Anti-avoidance
 
-40. Anti-avoidance. 41. Notification of arrangements.
-
 Income Tax
 
-2010-21 42. Procedure for clearance in advance. 43. Notification of exercise of anti-avoidance provisions
+2010-21 40. Anti-avoidance. 41. Notification of arrangements. 42. Procedure for clearance in advance. 43. Notification of exercise of anti-avoidance provisions
 
 Part VII- Chargeability of and acts to be done by agents and others
 
@@ -76,11 +76,11 @@ Part VIII- Assessment and withholding
 
 Part IX- Offences, surcharges, penalties and miscellaneous
 
-63. Duty to keep and preserve records and books of account. 63A.  Penalty for failure to keep and preserve records. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply with requirements on return. 65A.  Penalties for failure to comply with requirements on certain notices. 65B.  Offence for failure to comply with requirements on certain notices and returns. 65C.  Penalties for failure to comply with requirements under section 41. 65E.  Penalties where no penalty is specifically provided by this Act. 65F.  Failure to comply with requirement or notice. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences.
+63. Duty to keep and preserve records and books of account. 63A.  Penalty for failure to keep and preserve records. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply with requirements on return. 65A.  Penalties for failure to comply with requirements on certain notices. 65B.  Offence for failure to comply with requirements on certain notices and returns. 65C.  Penalties for failure to comply with requirements under section 41. 65E.  Penalties where no penalty is specifically provided by this Act. 65F.  Failure to comply with requirement or notice. 66. Penalties for false returns, etc.
 
 Income Tax
 
-2010-21 68. Publication of details of failure to pay taxes. 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
+2010-21 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay taxes. 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
 
 PART X -AMNESTY
 
@@ -108,11 +108,11 @@ SCHEDULE 2
 
 THE INCOME TAX TRIBUNAL
 
-Part 1- Administration
-
 Income Tax
 
 2010-21
+
+Part 1- Administration
 
 1. Appointment of Tribunal. 2. Appointment of Clerk. 3. Personal interest. 4. Declaration.
 
@@ -142,11 +142,9 @@ RULES FOR ASCERTAINING PROFITS OR GAINS
 
 Part I-General
 
-1. Measure of profits or gains. 2. Deductions not allowable.
-
 Income Tax
 
-2010-21 3. Items to be included in net profits. 4. Contributions to approved pension funds.
+2010-21 1. Measure of profits or gains. 2. Deductions not allowable. 3. Items to be included in net profits. 4. Contributions to approved pension funds.
 
 Part II- Capital allowances.
 
@@ -182,11 +180,11 @@ Additional definition of income- interest as a trading receipt
 
 SCHEDULE 4
 
-ANTI-AVOIDANCE
-
 Income Tax
 
 2010-21
+
+ANTI-AVOIDANCE
 
 1. Anti-avoidance.
 
@@ -220,11 +218,11 @@ Part I
 
 Parent and Subsidiary Company Directive
 
-1. Interpretation.
-
 Income Tax
 
-2010-21 2. Parent and subsidiary companies. 3. Corporation tax.
+2010-21
+
+1. Interpretation. 2. Parent and subsidiary companies. 3. Corporation tax.
 
 Part II
 
@@ -250,11 +248,11 @@ Part 1
 
 Tax at the higher rate on utilities
 
-1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions.
+1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications.
 
 Income Tax
 
-2010-21 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
+2010-21 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
 
 Part II-Taxation on companies who abuse a dominant position
 
@@ -280,11 +278,11 @@ Chapter 3
 
 Taxable benefits; vouchers and credit tokens
 
-7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies. 9. Credit tokens. 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
+7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies. 9. Credit tokens.
 
 Income Tax
 
-2010-21
+2010-21 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
 
 Chapter 4
 
@@ -306,11 +304,11 @@ Taxable benefits; Loans
 
 Chapter 7
 
-Taxable benefits; residual liability to charge
-
 Income Tax
 
 2010-21
+
+Taxable benefits; residual liability to charge
 
 37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
 
@@ -320,11 +318,11 @@ Exemptions; removal benefits and expenses.
 
 52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
 
-Chapter 9
-
 Income Tax
 
 2010-21
+
+Chapter 9
 
 Dispensations from obligations to report Benefits-in-kind
 
@@ -360,11 +358,9 @@ Part II
 
 Transitional Provisions
 
-2. Cessation. 3. Capital Allowances and deductions allowed.
-
 Income Tax
 
-2010-21 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Deleted. 11. Liquidations, etc. 12. The surcharge/penalties.
+2010-21 2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Deleted. 11. Liquidations, etc. 12. The surcharge/penalties.
 
 Part III
 
