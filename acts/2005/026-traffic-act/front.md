@@ -16,11 +16,13 @@ Amending enactments Relevant current provisions Commencement date Act.   2011-18
 
 19.1.2013 2013/006 s. 43(1) 19.1.2013 Act.  2013-20 s. 34(3) & (3A) 1.9.2013 2016-21 ss. 2, 39(1), 45(1), 45A, 45B, 63A-63F, 65(1), (2)(c), 66, 68(1), (2), 69(1), 71(1), 73, Sch.
 
-26.1.20161
+26.1.20161 “ ss. 2, 44, 44A-44F, 52(1)(a)(ii), (aa), (3), 94A-94L, 96(2), 97, 98A, 104
+
+20.4.20172
 
 Transposing: Directive 2006/126/EC
 
-1 Notice of Commencement – LN. 2017/011
+1 Notice of Commencement – LN. 2017/011 2 Notice of Commencement – LN. 2017/076 For Savings and Transitional Provisions please refer to s.24 of the Traffic (Amendment) Act 2016 (2016-21)
 
 Traffic
 
@@ -50,29 +52,35 @@ Licensing of Drivers
 
 Traffic
 
-2005-26 26. Requirements as to physical and mental fitness. 27. Requirements for granting of driving licence. 28. Disqualification. 29. No person to hold two licences. 30. Form and effect of driving licence. 31. Categories of licence and minimum ages. 31A.  Conditions and restrictions. 31B.  Staging and equivalences between categories. 32. Issue, validity and renewal of driving licences. 32A. 33. Production of licences. 34. Learners. 35. Services driving licences. 36. Suspension of licences 37. Renewal of licences. 38. Appeals. 39. Disqualification for offences and endorsement of convictions. 40. Provisions as to disqualifications and suspensions. 41. Provisions as to endorsements. 42. Meaning of “driving licence”. 43. Restriction on driving by young persons, etc. 44. Speed limit.
+2005-26 26. Requirements as to physical and mental fitness. 27. Requirements for granting of driving licence. 28. Disqualification. 29. No person to hold two licences. 30. Form and effect of driving licence. 31. Categories of licence and minimum ages. 31A.  Conditions and restrictions. 31B.  Staging and equivalences between categories. 32. Issue, validity and renewal of driving licences. 32A. 33. Production of licences. 34. Learners. 35. Services driving licences. 36. Suspension of licences 37. Renewal of licences. 38. Appeals. 39. Disqualification for offences and endorsement of convictions. 40. Provisions as to disqualifications and suspensions. 41. Provisions as to endorsements. 42. Meaning of “driving licence”. 43. Restriction on driving by young persons, etc. 44. Speed limit. 44A. Duty to give information as to identity of driver etc in certain circumstances. 44B. Proof, in summary proceedings, of identify of driver of vehicle.
+
+Prescribed devices
+
+44C. Prescribed device. 44D. Installation of prescribed devices. 44E. Prescribed device: evidence. 44F. Conviction on the basis of evidence from prescribed device.
 
 Provisions as to Driving and Offences in connection therewith
 
-45. Causing death by reckless or dangerous driving of motor vehicles. 45A. Causing death by careless, or inconsiderate, driving. 45B. Causing death by careless driving when under influence of drink or drugs. 46. Careless driving. 47. Reckless or dangerous driving. 48. Power to convict of reckless or dangerous driving on trial for man- slaughter. 49. Power to proceed on charge of careless driving on hearing of charge for reckless driving. 50. Prohibition of motor racing and speed trials on roads. 51. Restriction on pillion riding. 52. Restriction on prosecutions under the preceding sections. 53. Duty to give name and address and to stop: power of arrest. 54. Accidents, 55. Restrictions on persons being towed by, getting on to or tampering with motor vehicles. 56. Prohibition of motor vehicles not complying with regulations. 57. Regulations. 58. Exemption. 59. Recognition and exchange of EEA State driving licences.
+45. Causing death by reckless or dangerous driving of motor vehicles. 45A. Causing death by careless, or inconsiderate, driving. 45B. Causing death by careless driving when under influence of drink or drugs. 46. Careless driving. 47. Reckless or dangerous driving. 48. Power to convict of reckless or dangerous driving on trial for man- slaughter. 49. Power to proceed on charge of careless driving on hearing of charge for reckless driving. 50. Prohibition of motor racing and speed trials on roads.
 
 Traffic
 
-2005-26 59A.  Recognition of EEA licences: minimum ages. 60. Exchangeable licences. 60A.  Anti-forgery measures. 60B.  Additional security features. 60C. Mutual assistance. 60D.  Surrender of licences. 61. Regulations for facilitating international traffic. 61A.  Entitlements not affected by Third Driving Licence Directive.
+2005-26 51. Restriction on pillion riding. 52. Restriction on prosecutions under the preceding sections. 53. Duty to give name and address and to stop: power of arrest. 54. Accidents, 55. Restrictions on persons being towed by, getting on to or tampering with motor vehicles. 56. Prohibition of motor vehicles not complying with regulations. 57. Regulations. 58. Exemption. 59. Recognition and exchange of EEA State driving licences. 59A.  Recognition of EEA licences: minimum ages. 60. Exchangeable licences. 60A.  Anti-forgery measures. 60B.  Additional security features. 60C. Mutual assistance. 60D.  Surrender of licences. 61. Regulations for facilitating international traffic. 61A.  Entitlements not affected by Third Driving Licence Directive.
 
 PART IV DRINKING AND DRIVING
 
 62. Driving, or being in charge, when under influence of drink or drugs. 63. Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit. 63A. Driving or being in charge of a motor vehicle with concentration of specified controlled drug above specified limit. 63B. Power to administer preliminary tests. 63C. Preliminary breath test. 63D. Preliminary drug test. 63E. Arrest. 63F. Power of entry. 64. Arrests on suspicion of having alcohol in the body. 65. Provision of specimens for analysis following arrest. 66. Specimens of breath. 67. Protection for hospital patients. 68. Detention of persons affected by alcohol or a drug. 69. Use of specimens in proceedings for an offence under sections 62, 63 or 63A. 70. Documentary evidence as to specimens in such proceedings. 71. Discretionary disqualification. 72. Protection of officers in relation to the arrest of persons suspected of being over the prescribed limit. 73. Interpretation of Part.
 
-PART V REGULATION OF HORSE-DRAWN VEHICLES AND BICYCLES
+PART V
+
+Traffic
+
+2005-26 REGULATION OF HORSE-DRAWN VEHICLES AND BICYCLES
 
 74. Examination of vehicles. 75. Application to cyclists and to drivers of horse-drawn vehicles. 76. Regulations.
 
 PART VI TRAFFIC COMMISSION
 
-Traffic
-
-2005-26 77. Traffic Commission. 78. Functions of Commission. 79. Procedural powers of Commission.
+77. Traffic Commission. 78. Functions of Commission. 79. Procedural powers of Commission.
 
 Regulations
 
@@ -82,13 +90,33 @@ PART VII STREETS AND HIGHWAYS
 
 81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs. 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
 
-PART VIII GENERAL
+PART VIIA FIXED PENALTIES
 
-95. Forgery, etc., of licences and certificates. 96. Duty to give information. 97. Punishment without prosecution of offences in connection with obstruction, parking, etc. 98. General penalty. 98A. Conviction on the basis of evidence from camera or other recording device. 99. Saving of rights. 100.  Nuisances. 101.  Regulations. 102. Repeal of Traffic Act. 103. Transitional provisions. 104. “Traffic cameras”.
+Introductory
+
+94A. Fixed penalty offences. 94B. Fixed penalty notices. 94C. Amount of fixed penalty.
 
 Traffic
 
-2005-26 SCHEDULE Offences in Respect of which Disqualification or Endorsement  may be ordered.
+2005-26
+
+Giving notices to suspected offenders
+
+94D. Notices on-the-spot. 94E. Fixing notices to vehicles. 94F. Payment of penalty.
+
+Conditional offer of fixed penalty
+
+94G. Issue of conditional offer. 94H. Effect of offer and payment of penalty.
+
+Proceedings in fixed penalty cases
+
+94I. General restriction on proceedings. 94J. Defence. 94K. Service of documents.
+
+PART VIII GENERAL
+
+95. Forgery, etc., of licences and certificates. 96. Duty to give information. 97. Repealed. 98. General penalty. 98A. Repealed. 99. Saving of rights. 100.  Nuisances. 101.  Regulations. 102. Repeal of Traffic Act. 103. Transitional provisions. 104. Repealed.
+
+SCHEDULE Offences in Respect of which Disqualification or Endorsement  may be ordered.
 
 Traffic
 
