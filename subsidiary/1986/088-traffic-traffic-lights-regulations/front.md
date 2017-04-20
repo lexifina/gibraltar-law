@@ -1,23 +1,17 @@
-Traffic TRAFFIC (TRAFFIC LIGHTS) REGULATIONS, 1986
+Subsidiary Legislation made under s.89.
 
-2005-26
+Traffic (Traffic Lights) Regulations, 1986
 
-Subsidiary 1986/088 Regulations made or deemed to have been made under s.89.
+LN.1986/088
 
-TRAFFIC (TRAFFIC LIGHTS) REGULATIONS, 1986
+Commencement 4.9.1986
 
-(LN. 1986/088)
+Amending enactments Relevant current provisions Commencement date
 
-4.9.1986
+LN. 2017/080 r. 6 20.4.2017
 
-_____________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
 1. Title. 2. Light signals for control of vehicular traffic. 3. Portable light signals for control of vehicular traffic. 4. Significance of light signals. 5. Light signals for pedestrians. 6. Penalties.
-
-SCHEDULE
-
-Traffic TRAFFIC (TRAFFIC LIGHTS) REGULATIONS, 1986
