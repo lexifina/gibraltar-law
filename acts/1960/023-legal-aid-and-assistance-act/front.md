@@ -14,7 +14,7 @@ Act. 1968-34 s. 13(1), Sch. 1969-29 s. 3A, Sch.
 
 1973-31 s. 13(1)
 
-1990-47 s. 13(1) 15.11.1990 2001-06 ss. 3A, 12(1), Sch 14.3.2001 2005-45 s. 13(3)-(6) 4.8.2005 2007-17 ss. 8(2), 13(1), 19 14.6.2007
+1990-47 s. 13(1) 15.11.1990 2001-06 ss. 3A, 12(1), Sch 14.3.2001 2005-45 s. 13(3)-(6) 4.8.2005 2007-17 ss. 8(2), 13(1), 19 14.6.2007 LN. 2017/084 Sch.1 27.4.2017
 
 English sources
 
@@ -401,5 +401,9 @@ DESCRIPTION OF PROCEEDINGS.
 (d)  Court of Appeal.
 
 (e) the Judicial Committee of the Privy Council.
+
+1A. Proceedings before the Parole Board.
+
+1B. Proceedings before the Mental Health Review Tribunal.
 
 2. Proceedings before any person to whom a case is referred in whole or in part by any of the said courts.
