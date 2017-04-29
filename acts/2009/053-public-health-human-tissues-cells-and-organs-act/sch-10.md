@@ -1,62 +1,66 @@
 SCHEDULE 10 Section 16(8)
 
-Information on the minimum donor or recipient or both data set to be kept
+Minimum data to be kept in accordance with Article 9(2)
 
 A. BY TISSUE ESTABLISHMENTS
 
-Donor identification
+(1) Donor identification
 
-Donation identification that will include at least
+(2) Donation identification that will include at least:
 
-— Identification of the procurement organisation or Tissue establishment
+-Identification of the procurement organisation (including contact details) or the tissue establishment
 
-— Unique Donation ID number
+-Unique donation number
 
-— Date of procurement
+-Date of procurement
 
-— Place of procurement
+-Place of procurement
 
-— Type of donation (e.g. single v multi-tissue; autologous v allogenic; living v deceased)
+-Type of donation (e.g. single v multi-tissue; autologous v allogenic; living v deceased)
 
-Product identification that will include at least
+(3) Product identification that will include at least:
 
-— Identification of the tissue establishment
+-Identification of the tissue establishment
 
-— Type of tissue and cell or product (basic nomenclature)
+-Type of tissue and cell/product (basic nomenclature)
 
-— Pool number (if applicable)
+-Pool number (in case of pooling)
 
-— Split number (if applicable)
+-Split number (if applicable)
 
-— Expiry date
+-Expiry date (if applicable)
 
-— Tissue/cell status (i.e. quarantined, suitable for use etc.)
+-Tissue/cell status (i.e. quarantined, suitable for use, etc.)
 
-— Description and origin of the products, processing steps applied, materials and additives coming into contact with tissues and cells and having an effect on their quality or safety or both.
+-Description and origin of the products, processing steps applied, materials and additives coming into contact with tissues and cells and having an effect on their quality and/or safety
 
-— Identification of the facility issuing the final label
+-Identification of the facility issuing the final label
 
-Human application identification that will include at least:
+(4) Single European Code (if applicable)
 
 Public Health (Human Tissues, Cells and Organs)
 
-2009-53 — Date of distribution or disposal
+2009-53 (5) Human application identification that will include at least:
 
-— Identification of the clinician or end user or facility
+-Date of distribution/disposal
+
+-Identification of the clinician or end-user/facility
 
 B. BY ORGANISATIONS RESPONSIBLE FOR HUMAN APPLICATION
 
-(a) Identification of the supplier tissue establishment
+(1) Identification of the supplier tissue establishment
 
-(b) Identification of the clinician or end user or facility
+(2) Identification of the clinician or end-user/facility
 
-(c) Type of tissues and cells
+(3) Type of tissues and cells
 
-(d) Product identification
+(4) Product identification
 
-(e) Identification of the recipient
+(5) Identification of the recipient
 
-(f) Date of application
+(6) Date of application
+
+(7) Single European Code (if applicable)”.
 
 Public Health (Human Tissues, Cells and Organs)
 

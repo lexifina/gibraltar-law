@@ -6,6 +6,8 @@ PART A Rapid notification for suspected serious adverse events
 
 Tissue establishment
 
+EU tissue establishment code (if applicable)
+
 Report identification
 
 Reporting date (year/month/day)
@@ -47,6 +49,8 @@ Public Health (Human Tissues, Cells and Organs)
 Conclusions of Serious Adverse Events investigation
 
 Tissue establishment
+
+EU tissue establishment code (if applicable)
 
 Report identification
 

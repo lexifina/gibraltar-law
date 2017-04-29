@@ -86,11 +86,11 @@ The primary tissue or cell container must provide
 
 (e) in the case of directed donations - the label must identify the intended recipient;
 
-(f) when tissues and cells are known to be positive for a relevant infectious disease marker, it must be marked as:
+(f) when tissues and cells are known to be positive for a relevant infectious disease marker, it must be marked as BIOLOGICAL HAZARD;
 
-BIOLOGICAL HAZARD.
+(g) Single European Code as applicable to the tissues and cells being distributed for human application or the donation identification sequence as applicable to the tissues and cells released for circulation, other than distributed for human application.
 
-If any of the information under points (d) and (e) above cannot be included on the primary container label, it must be provided on a separate sheet accompanying the primary container. This sheet must be packaged with the primary container in a manner that ensures that they remain together.
+If any of the information under points (d), (e) and (g) above cannot be included on the primary container label, it must be provided on a separate sheet accompanying the primary container. This sheet must be packaged with the primary container in a manner that ensures that they remain together.
 
 2. The following information must be provided either on the label or in accompanying documentation
 
@@ -100,19 +100,23 @@ If any of the information under points (d) and (e) above cannot be included on t
 
 (c) date of distribution of the tissue or cells;
 
+Public Health (Human Tissues, Cells and Organs)
+
+2009-53
+
 (d) biological determinations carried out on the donor and results;
 
 (e) storage recommendations;
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 (f) instructions for opening the container, package, and any required manipulation or reconstitution;
+(f) instructions for opening the container, package, and any required manipulation or reconstitution;
 
 (g) expiry dates after opening or manipulation;
 
 (h) instructions for reporting serious adverse reactions or events or both as set out in sections 11 and 12 of this Part;
 
-(i) presence of potential harmful residues (e.g. antibiotics, ethylene oxide etc).
+(i) presence of potential harmful residues (e.g. antibiotics, ethylene oxide etc);
+
+(j) for imported tissues and cells, the country of procurement and the exporting country (if different from the procurement country).
 
 F. EXTERNAL LABELLING OF THE SHIPPING CONTAINER
 
