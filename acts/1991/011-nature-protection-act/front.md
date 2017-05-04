@@ -36,7 +36,7 @@ Nature Protection
 
 19.3.2012 2013/137 Sch. 5 & 8 10.10.2013 Act.  2013-24 s. 10(1)(b) & (ba) 31.10.2013 LN. 2013/173 ss. 7A(4) & 18ZA 5.12.2013 Act.  2013-16 ss. 13(1)(i), (2)(f), 18(5), (5)(a)(ia), (5)(b) & 24(e)
 
-12.12.20132
+12.12.20132 LN. 2017/089 Sch. 1 4.5.2017
 
 Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC Directive 2013/17/EU
 
