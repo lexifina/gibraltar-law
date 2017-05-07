@@ -20,7 +20,9 @@ Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
 2005-26
 
-Subsidiary [1958.04.01] Transposing: Directive 89/459/EEC Directive 92/6/EEC Directive 96/53/EC Directive 2007/38/EC
+Subsidiary [1958.04.01] 2017/088 rr. 2(1), 5B(5), 5D, 54A, Sch. 4-5 7.5.2017
+
+Transposing: Directive 89/459/EEC Directive 92/6/EEC Directive 96/53/EC Directive 2007/38/EC Directive (EU) 2015/719
 
 Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
@@ -48,19 +50,19 @@ Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
 2005-26
 
-Subsidiary [1958.04.01] 14. Springs. 15. Tracks. 16. Condition of tyres and tracks. 16A. Maintenance of steering gear. 17. Brakes. 17A. Dual systems of operation. 17B. Vacuum or pressure braking. 17C. Motor cycle brakes. 17D. Invalid carriage brakes. 17E. Trailer brakes. 17F. Other vehicles. 17G. Parking brake. 17H. Maintenance of brakes. 18. Revoked. 19. Stop lights. 20. Direction indicators. 20A. Maintenance of direction indicators. 21. Speed indicator. 22. Maintenance of speed indicator. 23. View to front. 24. Mirrors. 24A. Mirrors: vehicles in N2 and N3 categories. 25. Maintenance of glass. 26. Safety glass. 27. Windscreen wipers. 27A. Maintenance of wind-screen wiper. 28. Revoked. 29. Warning instruments. 29A. Maintenance of fuel tanks. 30. Silencers and exhaust pipes. 31. Emission of smoke, and vapours. 31A. Maintenance of vehicles so as to prevent emissions. 32. Excessive noise from faulty adjustment, etc. 32A. Restraint of loads. 33. Wings. 34. Mascots. 35 to 54 Revoked.
+Subsidiary [1958.04.01] 14. Springs. 15. Tracks. 16. Condition of tyres and tracks. 16A. Maintenance of steering gear. 17. Brakes. 17A. Dual systems of operation. 17B. Vacuum or pressure braking. 17C. Motor cycle brakes. 17D. Invalid carriage brakes. 17E. Trailer brakes. 17F. Other vehicles. 17G. Parking brake. 17H. Maintenance of brakes. 18. Revoked. 19. Stop lights. 20. Direction indicators. 20A. Maintenance of direction indicators. 21. Speed indicator. 22. Maintenance of speed indicator. 23. View to front. 24. Mirrors. 24A. Mirrors: vehicles in N2 and N3 categories. 25. Maintenance of glass. 26. Safety glass. 27. Windscreen wipers. 27A. Maintenance of wind-screen wiper. 28. Revoked. 29. Warning instruments. 29A. Maintenance of fuel tanks. 30. Silencers and exhaust pipes. 31. Emission of smoke, and vapours. 31A. Maintenance of vehicles so as to prevent emissions. 32. Excessive noise from faulty adjustment, etc. 32A. Restraint of loads. 33. Wings. 34. Mascots. 35 to 54 Revoked. 54A. Additional requirements for the transport of containers and swap bodies.
 
 Special Provisions relating to Motor Cycles.
 
 55.  Sidecars on motor cycles.
 
-PART II.
-
 Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
 2005-26
 
-Subsidiary [1958.04.01] 56 to 60 Revoked.
+Subsidiary [1958.04.01] PART II.
+
+56 to 60 Revoked.
 
 PART III. BICYCLES.
 
@@ -82,13 +84,13 @@ Exceptions.
 
 80.  Vehicles drawn or propelled by hand. 81.  Stationary vehicles. 82.  Revoked. 83.  Existing vehicles.
 
-84.  Repealed.
-
 Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
 2005-26
 
 Subsidiary [1958.04.01]
+
+84.  Repealed.
 
 PART V SPEED LIMITERS
 
