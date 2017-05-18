@@ -98,15 +98,17 @@ Crimes
 
 19.  An offence under section 227 (Meeting a child following sexual grooming etc.).
 
+19A. An offence under section 227A (Sexual communication with a child).
+
 20.  An offence under section 228, 229, 230 or 231 (Abuse of position of trust), if the offender was 20 or over.
 
 21.  An offence under any of sections 228 to 231 (Abuse of position of trust) if the offender, in respect of the offence, is or has been
 
-(a) sentenced to a term of imprisonment;
-
 Crimes
 
-2011-23 (b) detained in a hospital; or
+2011-23 (a) sentenced to a term of imprisonment;
+
+(b) detained in a hospital; or
 
 (c) made the subject of a community service order of at least 120 hours.
 
