@@ -10,13 +10,17 @@ TRAFFIC (DESIGNATION OF PEDESTRIANISED AREAS) ORDER 2001
 
 25.10.2001
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2017/110 Para. 2(j), (k), (m), 3 14.6.2017
+
 _________________________
 
 ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 
-1. Title. 2. Pedestrianised Areas.
+1. Title. 2. Pedestrianised Areas. 3.
 
 Traffic TRAFFIC (DESIGNATION OF PEDESTRIANISED AREAS) ORDER 2001
 
