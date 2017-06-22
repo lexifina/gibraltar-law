@@ -10,19 +10,23 @@ INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULAT
 
 Commencement 22.12.2016
 
-Transposing: Directive 2014/107/EU _______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN. 2017/116 rr. 4(b), 5(3), Sch. 2 22.6.2017
 
-Regulation
+Transposing: Directive 2014/107/EU
 
-1. Title. 2. Commencement. 3. Interpretation. 4. Scope. 5. Meaning of “reportable account”. 6. Non-reporting financial institutions. 7. Due diligence requirements. 8. Modification of due diligence requirements. 9. Reporting obligations. 10.  Electronic returns system. 11.  Onward transmission of information. 12.  Method of Onward Transmission. 13.  Data Protection. 14.  Notification to individual reportable person. 15. Retention of Records. 16. Privilege. 17. Confidentiality. 18. Overriding Instruments. 19.   Use of service providers. 20.   Anti-avoidance 21.   Penalties. 22.  Assessment of penalties. 23.  Right to appeal against penalty.
+Implementing: Decision (EU) 2015/2376
 
 Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
 
 2014-06
 
-Subsidiary 2016/253 24.  Procedure on appeal against penalty. 25.  Enforcement of penalties. 26. Statistics 27.  Amendments to the Income Tax Act 2010. 28.  Application of Income Tax Act 2010. 29. Application of agreements signed to implement the CRS. 30.   Amendment of Schedules. 31. Revocation.
+Subsidiary 2016/253 ARRANGEMENT OF REGULATIONS.
+
+Regulation
+
+1. Title. 2. Commencement. 3. Interpretation. 4. Scope. 5. Meaning of “reportable account”. 6. Non-reporting financial institutions. 7. Due diligence requirements. 8. Modification of due diligence requirements. 9. Reporting obligations. 10.  Electronic returns system. 11.  Onward transmission of information. 12.  Method of Onward Transmission. 13.  Data Protection. 14.  Notification to individual reportable person. 15. Retention of Records. 16. Privilege. 17. Confidentiality. 18. Overriding Instruments. 19.   Use of service providers. 20.   Anti-avoidance 21.   Penalties. 22.  Assessment of penalties. 23.  Right to appeal against penalty. 24.  Procedure on appeal against penalty. 25.  Enforcement of penalties. 26. Statistics 27.  Amendments to the Income Tax Act 2010. 28.  Application of Income Tax Act 2010. 29. Application of agreements signed to implement the CRS. 30.   Amendment of Schedules. 31. Revocation.
 
 Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
 
