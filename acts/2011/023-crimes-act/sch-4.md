@@ -118,6 +118,16 @@ Crimes
 
 53. An offence under section 45 of the Communications Act 2006 (Improper use of public electronic communications network).
 
+54. An offence under section 97 (offence of improper use of public electronic communications network).
+
+55.  An offence under section 97B (disclosing private sexual photographs and films with intent to cause distress).
+
+56.  An offence under section 88 (intentional harassment, alarm or distress).
+
+57.  An offence under section 89 (harassment, alarm or distress).
+
+58.  An offence under section 92A (stalking).
+
 Crimes
 
 2011-23
