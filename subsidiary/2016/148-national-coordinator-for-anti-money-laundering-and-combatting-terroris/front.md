@@ -12,6 +12,10 @@ NATIONAL COORDINATOR FOR ANTI-MONEY LAUNDERING AND COMBATTING TERRORIST FINANCIN
 
 Commencement 7.7.2016
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2017/120 rr. 8(a), (e), 10(1)(a), 12-14 26.6.2017
+
 Transposing – Directive (EU) 2015/849
 
 _______________________
@@ -20,7 +24,7 @@ ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title. 2. Commencement. 3. Interpretation. 4. Appointment of National Coordinator. 5. Tasks of National Coordinator. 6. Powers of the National Coordinator. 7. Review and report. 8. Uses of Report. 9. Immunity. 10. Gateways of communication. 11. Amendments.
+1. Title. 2. Commencement. 3. Interpretation. 4. Appointment of National Coordinator. 5. Tasks of National Coordinator. 6. Powers of the National Coordinator. 7. Review and report. 8. Uses of Report. 9. Immunity. 10. Gateways of communication. 11. Amendments. 12. Statistics. 13. Maintenance of records. 14. Provision of information.
 
 NATIONAL COORDINATOR FOR ANTI-MONEY LAUNDERING AND COMBATTING TERRORIST FINANCING REGULATIONS 2016
 
