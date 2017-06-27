@@ -10,6 +10,10 @@ REGISTER OF ULTIMATE BENEFICIAL OWNERS REGULATIONS 2017
 
 Commencement 26.6.2017
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2017/125 rr. 3(1), (4), 41A 27.6.2017
+
 Transposing – Directive (EU) 2015/849 _______________________
 
 ARRANGEMENT OF REGULATIONS
@@ -28,15 +32,17 @@ Express Trust
 
 Information Gathering
 
-12. Duty to investigate and obtain information. 13. Duty to keep information up-to-date. 14. Enforcement of disclosure requirements.
-
-Additional Statements
+12. Duty to investigate and obtain information.
 
 Proceeds of Crime REGISTER OF ULTIMATE BENEFICIAL OWNERS REGULATIONS 2017
 
 2015-22
 
-Subsidiary 2017/122 15. Additional Statements to be noted in the Register. 16. Additional Statements - no ultimate beneficial owner. 17. Additional Statements - an unidentified ultimate beneficial owner. 18. Additional Statements - particulars of ultimate beneficial owner not confirmed. 19. Additional Statements - investigations are ongoing. 20. Additional Statements - failure to comply with a notice given under regulation 12. 21. Additional Statements - failure to comply with a notice given under regulation 13. 22. Additional Statements - compliance with a notice given under regulation 12 or regulation 13 after the time specified in the notice. 23. Additional Statements - restrictions notice.
+Subsidiary 2017/122 13. Duty to keep information up-to-date. 14. Enforcement of disclosure requirements.
+
+Additional Statements
+
+15. Additional Statements to be noted in the Register. 16. Additional Statements - no ultimate beneficial owner. 17. Additional Statements - an unidentified ultimate beneficial owner. 18. Additional Statements - particulars of ultimate beneficial owner not confirmed. 19. Additional Statements - investigations are ongoing. 20. Additional Statements - failure to comply with a notice given under regulation 12. 21. Additional Statements - failure to comply with a notice given under regulation 13. 22. Additional Statements - compliance with a notice given under regulation 12 or regulation 13 after the time specified in the notice. 23. Additional Statements - restrictions notice.
 
 The Register
 
@@ -46,15 +52,17 @@ Warning and Restrictions Notices
 
 38. Content of a warning notice. 39. Content of a restrictions notice. 40. Failure to comply with a regulation 12 or 13 notice: valid reason. 41. Withdrawal of restrictions notice.
 
-Penalties and offences
-
-42. Power to impose civil penalties. 43. Appeals. 44. General false statement offence. 45. Criminal Penalties.
+Requests
 
 Proceeds of Crime REGISTER OF ULTIMATE BENEFICIAL OWNERS REGULATIONS 2017
 
 2015-22
 
-Subsidiary 2017/122 46. Prosecution of offences. 47. Offences by an express trust, company or legal entity. 48. Recovery of charges and penalties through the court. 49. Power of a court to order a person to remedy default or delay. 50. Overriding Instrument.
+Subsidiary 2017/122
+
+41A. Requests to trustees. Penalties and offences
+
+42. Power to impose civil penalties. 43. Appeals. 44. General false statement offence. 45. Criminal Penalties. 46. Prosecution of offences. 47. Offences by an express trust, company or legal entity. 48. Recovery of charges and penalties through the court. 49. Power of a court to order a person to remedy default or delay. 50. Overriding Instrument.
 
 Schedules
 
