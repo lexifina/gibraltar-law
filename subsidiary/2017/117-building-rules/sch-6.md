@@ -1,0 +1,639 @@
+SCHEDULE 6
+
+Rule D12(b)(ii) Deemed-to-satisfy provisions Rules for determining the dimensions of certain timber members
+
+1. Interpretation of Schedule 6
+
+In this schedule–
+
+(a) FLAT ROOF includes a roof the pitch of which is 10o or less to the horizontal;
+
+SPACING means the distance between the centres of any two adjacent timber members of the same type, measured in a plane parallel to that plane of the floor, ceiling or roof structure of which each such member forms part;
+
+SPAN means the distance between the centres of any two adjacent bearings or other forms of Support given to a timber member, measured in a plane parallel to the plane of the floor, ceiling or roof structure of which that member forms part; and
+
+TIMBER MEMBER means a piece of solid timber of any of the types more particularly specified in the headings to the Tables to this schedule;
+
+(b) DOUGLAS FIR-LARCH, HEM-FIR and SPRUCE-PINE-FIR refer to timbers of those Species which are collectively so designated in Table 1A in CP 112: Part 2:1971;
+
+(c) species of timber, other than those to which paragraph (b) refers, are identified by standard names in accordance with BS 881 & 589:1974;
+
+(d) GS, MGS, SS, MSS, M50 and M75 refer to grades of those designations determined in accordance with BS4978: 1973; and
+
+(e) No. 2 refers to the grade of that designation determined in accordance with the Structural Joists and Planks Section of the Standard Grading Rules for Canadian Lumber dated 1970 and published by the National Lumber Grades Authority.
+
+2. Application of Schedule 6
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117 The dimensions of a timber member may be determined by reference to a Table to this schedule if–
+
+(a) the imposed load to be sustained by the floor, ceiling or roof of which the member forms part does not exceed the load specified in subparagraph (a), (b) or (c) of rule D2(3) whichever is appropriate;
+
+(b)    (i) in the case of binder, beam, joist, purlin or rafter, the timber is of a species, origin and grade specified in the Table to this rule; or
+
+(ii) in the case of a floorboard, the board complies in all respects with BS 1297: 1970; and
+
+(c) the Table to which reference is made is appropriate having regard to the type of member and (except in the case of Table 25) the grade of timber specified in the subheading thereto.
+
+Table to Rule 2: Species, origin and grade of timber to which Tables 1 to 24 relate
+
+Grade Species Origin in relation to which Tables 1 to 12 are appropriate in relation to which Tables 13 to 24 are appropriate (1) (2) (3) (4) 1. Fir, Douglas Home-grown or imported GS or MGS SS or MSS 2. Hemlock, western Imported GS or MGS SS or MSS 3. Larch, European Home-grown GS or MGS SS or MSS 4. Larch, Japanese Home-grown GS or MGS SS or MSS 5. Pine, American pitch Imported GS or MGS SS or MSS 6. Pine, Caribbean pitch Imported GS or MGS SS or MSS 7. Pine, Scots Home-grown GS or MGS SS or MSS 8. Redwood Imported GS or MGS SS or MSS 9. Spruce, Norway Home-grown M75 – 10. Spruce, Sitka Home-grown M75 – 11. Spruce, western white Imported M50 – 12. Whitewood Imported GS or MGS SS or MSS 13. Douglas fir-larch Imported from Canada No.2 – 14. Hem-fir Imported from Canada No.2 – 15. Spruce-pine fir Imported from Canada No.2 –
+
+Table 1: Floor joists GS, MGS, M50, M75 or No.2 grade timber
+
+Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
+
+Spacing of joists (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of joist (in m)
+
+38 x 75 1.05 0.95 0.72 0.99 0.90 0.69 0.87 0.79 0.62 38 x 100 1.77 1.60 123 1.63 1.48 1.16 1.36 1.24 1.00 38 x 125 2.53 2.35 1.84 2.33 2.12 1.69 1.88 1.73 1.40 38 x 150 3.02 2.85 2.48 2.83 2.67 2.26 2.41 2.23 1.83 38 x 175 3.51 3.32 2.89 3.29 3.11 2.71 2.82 2.66 2.27 38 x 200 4.00 3.78 3.30 3.75 3.55 3.09 3.21 3.03 2.64 38 x 225 4.49 4.24 3.70 4.21 3.98 3.47 3.61 3.41 2.96
+
+44 x 75 1.20 1.08 0.83 1.13 1.02 .0.79 0.98 0.89 0.70 44 x 100 2.01 1.82 1.41 1.83 1.67 1.31 1.51 1.39 1.12 44 x 125 2.71 2.56 2.09 2.54 2.38 1.90 2.08 1.92 1.56 44 x 150 3.24 3.06 2.67 3.04 2.87 2.50 2.60 2.45 2.03 44 x 175 3.77 3.56 3.10 3.53 3.34 2.91 3.02 2.86 2.48 44 x 200 4.29 4.06 3.54 4.02 3.80 3.31 3.45 3.26 2.83 44 x 225 4.81 4.55 3.97 4.51 4.27 3.72 3.87 3.66. 3.18
+
+50 x 75 1.35 1.22 0.93 1.26 1.14 0.89 1.08 0.99 0.78 50 x 100 2.22 2.03 1.58 2.03 1.85 1.46 1.66 1.53 1.23 50 x 125 2.84 2.72 2.33 2.70 2.55 2.10 2.27 2.09 1.71 50 x 150 3.40 3.26 2.84 3.23 3.05 2.66 2.76 2 61 2.21 50 x 175 3.95 3.78 3.30 3.75 3.55 3.09 3.22 3.04 264 50 x 200 4.51 4.31 3.76 4.27 4.04 3.52 3.67 3.46 3.01 50 x 225 5.06 4.83 4.22 4.79 4.53 3.95 4.11 3.89 3.39
+
+63 x 150 3.66 3.52 3.17 3.50 3.38 2.97 3.09 292 254 63 x 175 4.25 4.10 3.68 4.07 3.93 3.45 3.59 3.40 296 63 x 200 4.84 4.67 4.20 4.64 4.48 3.93 4.09 3.87 3.37 63 x 225 5.43 5.24 4.70 5.21 5.02 4.41 4.59 4.34 3.78
+
+75 x 200 5.10 4.93 4.51 4.90 4.72 4.27 4.43 4.20 3.67 75 x 225 5.72 5.52 5.06 5.49 5.30 4.79 4.97 4.71 4.11
+
+Table 2: Ceiling joists GS, MGS, M50, M75 or No.2 grade timber
+
+Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+
+Not more than 25 More than 25 but not more than 50
+
+Spacing of joists (in mm)
+
+400 450 600 400 450 600
+
+Maximum span of joist (in m)
+
+38 x 75 1.88 1.80 1.57 1.71 1.61 1.40 38 x 100 2.50 2.39 2.08 2.27 1.14 1.86 38 x 125 3.11 2.97 2.59 2.82 2.67 2.32
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117 38 x 150 3.72 3.55 3.10 3.37 3.19 2.78 3 x 175 4.32 4.12 3.60 3.92 3.71 3.23 38 x 200 4.92 4.69 4.10 4.46 4.22 3.68 38 x 225 5.51 5.25 4.60 4.99 4.73 4.13
+
+44 x 75 1.97 1.90 1.68 1.83 1.73 1.51 44 x 100 2.61 2.52 2.23 1.43 2.30 2.00 44 x 125 3.25 3.14 2.78 3.03 2.86 2.49 44 x 150 3.89 3.75 3.32 3.62 3.42 2.98 44 x 175 4.52 4.36 3.86 4.20 3.97 3.47 44 x 200 5.14 4.96 4.39 4.77 4.52 3.95 44 x 225 5.76 5.56 4.92 5.34 5.06 4.43
+
+50 x 75 2.05 1.9~ 1.79 1.91 1.84 1.60 50 x 100 2.72 2.62 2.38 2.53 2.44 2.13 50 x 125 3.39 3.26 2.95 3.15 3.04 2.65 50 x 150 4.04 3.90 3.53 3.77 3.63 3.17 50 x 175 4.70 4.53 4.10 4.38 4.22 3.68 50 x 200 5.34 5.16 4.66 4.99 4.79 4.19 50 x 225 5.98 5.78 5.22 5.59 5.37 4.70
+
+Table 3: Binders or beams supporting joists to which Table 2 relates GS, MGS, M50, M75 or No.2 grade timber
+
+Size of binder or beam(in mm) Dead load (in kg/m2) supported by joist as calculated for the purposes of Table 2
+
+Not more than 25 More than 25 but not more than 50
+
+Spacing of binders or beams (in m)
+
+1.20 1.50 1.80 2.10 2.40 1.20 1.50 1.80 2.10 2.40
+
+Maximum span of binder or beam (in m)
+
+38 x 75 1.08 0.96 0.88 0.82 0.76 0.97 0.87 0.79 0.73 0.69 38 x 100 1.43 1.28 1.17 1.09 1.02 1.29 1.16 1.06 0.98 0.31 38 x 125 1.79 1.60 1.46 1.36 1.27 1.61 1.44 1.32 1.22 1.14 38 x 150 2.14 1.92 1.75 1.63 1.52 1.93 1.73 1.58 1.46 1.37 38 x 175 2.49 2.24 2.04 1.90 1.77 2.25 2.01 1.84 1.71 1.60 38 x 200 2.85 155 2.33 2.16 2.03 2.57 2.30 2.10 1.95 1.82 38 x 225 3.20 2.87 2.62 2.43 1.28 2.88 2.58 1.36 1.19 2.05
+
+44 x 75 1.16 1.04 0.95 0.83 0.82 1.04 0.93 0.85 0.79 0.74 44 x 100 1.54 1.38 1.26 1.17 1.09 1.39 1.24 1.13 1.05 0.98 44 x 125 1.92 1.72 1.57 1.46 1.37 1.73 1.55 1.42 1.31 1.23 44 x 150 2.30 2.06 1.89 1.75 1.64 2.07 1.86 1.70 1.57 1.47 44 x 175 2.68 2.40 2.20 2.04 1.91 2.41 2.16 1.98 1.83 1.72 44 x 200 3.05 174 2.51 2.33 2.18 1.76 2.47 1.26 1.09 1.96 44 x 225 3.43 3.08 2.82 2.61 2.45 3.09 2.78 1.54 1.35 2.20
+
+50 x 75 1.23 1.10 1.01 0.93 0.87 1.11 0.99 0.91 0.84 0.79 50 x 100 1.64 1.47 1.34 1.24 1.16 1.48 1.32 1.21 1.12 1.05 50 x 125 2.04 1.83 1.68 1.55 1.45 1.84 1.65 1.51 1.40 1.31 50 x 150 2.45 2.20 2.01 1.86 1.74 2.21 1.98 1.81 1.68 1.57 50 x 175 2.85 2.56 2.34 2.17 2.03 2.57 2.30 2.11 1.95 1.83 50 x 200 3.25 1.92 1.67 2.48 2.32 2.93 1.63 2.41 1.23 1.09
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117 50 x 225 3.65 3.28 3.00 1.78 2.61 3.29 2.95 1.70 1.51 1.35
+
+63 x 150 2.74 2.46 2.25 2.09 1.95 2.47 2.22 2.03 1.88 1.76 63 x 175 3.19 2.86 1.62 1.43 2.28 2.88 2.58 2.36 2.19 2.05 63 x 200 3.63 3.26 2.99 2.77 2.60 3.28 2.94 2.69 2.50 2.34 63 x 225 4.07 3.66 3.35 3.11 2.92 3.68 3.30 3.03 2.81 2.63
+
+75 x 200 3.94 3.55 3.25 3.02 2.83 3.56 3.20 2.93 2.72 1.55 75 x 225 4.42 3.98 3.65 3.39 3.17 4.00 3.59 3.29 3.06 2.86
+
+Table 4: Joists for flat roof with access only for the purposes of maintenance or repair GS, MGS, M50, M75 or No.2 grade timber
+
+Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
+
+Spacing of joists (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of joist (in m)
+
+38 x 75 1.88 1.81 1.65 1.64 1.58 1.44 1.56 1.50 1.37 38 x 100 2.50 2.40 2.19 2.19 2.11 1.92 2.08 2.00 1.82 38 x 125 3.11 1.99 2.73 2.73 2.63 2.39 2.59 2.50 2.27 38 x 150 3.72 3.58 3.27 3.26 3.14 2.87 3.11 2.99 2.72 38 x 175 4.32 4.16 3.81 3.80 3.66 3.34 3.62 3.48 3.17 38 x 200 4.92 4.74 4.34 4.33 4.17 3.81 4.12 3.97 3.62 38 x 225 5.51 5.32 4.87 4.86 4.68 4.28 4.63 4.46 4.07
+
+44 x 75 1.97 1.90 1.73 1.72 1.66 1.51 1.64 1.58 1.44 44 x 100 2.61 2.52 2.30 2.29 2.21 2.01 2.18 2.10 1.91 44 x 125 3.25 3.14 2.86 2.86 2.75 2.51 2.72 2.62 2.38 44 x 150 3.89 3.75 3.43 3.42 3.29 3.00 3.25 3.13 2.86 44 x 175 4.52 4.36 3.98 3.98 3.83 3.50 3.79 3.65 3.33 44 x 200 5.14 4.96 4.54 4.53 4.37 3.99 4.32 4.16 3.80 44 x 225 5.76 5.56 5.10 5.09 4.90 4.48 4.85 4.67 4.26
+
+50 x 75 2.05 1.98 1.80 1.80 1.73 1.58 1.71 1.64 1.50 50 x 100 2.72 2.62 2.39 2.39 2.30 2.10 2.27 2.19 1.99 50 x 125 3.39 3.26 2.98 2.98 2.87 2.61 2.83 2.73 2.49 50 x 150 4.04 3.90 3.57 3.56 3.43 3.13 3.39 3.26 2.98 50 x 175 4.70 4.53 4.15 4.14 3.99 3.64 3.94 3.80 3.47 50 x 200 5.34 5.16 4.72 4.72 4.55 4.16 4.49 4.33 3.95 50 x 225 5.98 5.78 5.30 5.29 5.10 4.67 5.04 4.86 4.44
+
+Table 5: Joists  for flat roofs with access not limited to the purposes of maintenance or repair
+
+GS, MGS, M50, M75 or No.2 grade timber
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
+
+Spacing of joists (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of joist (in m)
+
+38 x 75 1.29 1.16 0.89 1.14 1.03 0.81 1.09 0.99 0.78 38 x 100 1.96 1.86 1.51 1.79 1.65 1.31 1.70 1.55 1.24 38 x 125 2.60 2.50 2.22 2.38 2.27 1.87 2.28 2.16 1.75 38 x 150 3.11 3.00 2.73 2.87 2.76 2.45 2.77 2.67 2.28 38 x 175 3.63 3.49 3.18 3.34 3.22 2.85 3.23 3.11 2.71 38 x 200 4.14 3.98 3.63 3.81 3.67 3.26 3.68 3.55 3.09 38 x 225 4.64 4.47 4.08 4.28 4.12 3.66 4.14 3.98 3.47
+
+44 x 75 1.40 1.33 1.02 1.29 1.17 0.92 1.22 1.11 0.88 44 x 100 2.10 1.99 1.72 1.91 1.81 1.48 1.83 1.73 1.39 44 x 125 2.73 2.63 2.38 2.51 2.41 2.09 2.42 2.31 1.95 44 x 150 3.26 3A4 2.87 3.01 2.90 2.63 2.91 2.80 2.50 44 x 175 3.80 3.66 3.34 3.53 3.37 3.06 3.38 3.26 2.91 44 x 200 4.33 4.17 3.81 4.00 3.85 3.50 3.86 3.72 3.32 44 x 225 4.86 4.68 4.28 4.49 4.32 3.93 4.34 4.18 3.73
+
+50 x 75 1.49 1.41 1.15 1.38 1.30 1.02 1.34 1.23 0.98 50 x 100 2.22 2.11 1.85 2.01 1.91 1.63 1.94 1.84 1.54 50 x 125 2.84 2.74 2.49 2.62 2.52 2.26 2.53 2.43 2.14 50 x 150 3.40 3.27 2.99 3.13 3.02 2.75 3.03 2.92 2.66 50 x 175 3.95 3.81 3.48 3.65 3.51 3.20 3.53 3.40 3.09 50 x 200 4.51 4.34 3.97 4.16 4.01 3.66 4.02 3.87 3.53 50 x 225 5.06 4.88 4.45 4.67 4.50 4.11 4.52 4.35 3.96
+
+63 x 150 3.66 3.52 3.22 3.37 3.25 2.96 3.26 3.14 2.86 63 x 175 4.25 4.10 3.74 3.93 3.78 3.45 3.79 3.66 3.33 63 x 200 4.84 4.67 4.27 4.47 4.31 3.94 4.33 4.17 3.80 63 x 225 5.43 5.24 4.79 5.02 4.84 4.42 4.86 4.68 4.27
+
+75 x 200 5.10 4.93 4.51 4.72 4.55 4.16 4.57 4.40 4.02 75 x 225 5.72 5.52 5.06 5.30 5.11 4.67 5.12 4.94 4.52
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 6: Purlins supporting sheeting or decking for roofs having a pitch of 10o or more GS, MGS, M50, M75 or No.2 grade timber
+
+Size of purlin (in mm) Dead load (in kg/m2) supported by purlin, excluding the mass of the purlin
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 75
+
+Spacing of purlins (in m)
+
+0.90 1.20 1.50 1.80 2.10 2.40 0.90 1.20 1.50 1.80 2.10 2.40 0.90 1.20 1.50 1.80 2.10 2.40
+
+Maximum span of purlin (in m)
+
+50 x 100 2.20 1.91 1 71 1.57 1.45 1.35 1.97 1.71 1.53 1.40 1.30 1.21 1.76 1.56 1.40 1.28 1.18 1.11 50 x 125 2.74 2 38 2 14 1.95 1.81 1.70 2.46 2.13 1.91 1.75 1.62 1.52 2.19 1.95 1.75 1.60 1.48 1.38 50 x 150 3.28 2 85 2 56 2.34 2:17 2.03 2.94 2.56 2.29 2.09 1.94 1.82 2.63 2.33 2.09 1.91 1.77 1.66 50 x 175 3.81 3 32 2 98 2.73 2.53 2.37 3.42 2.98 2.67 2.44 2.26 2.12 3.05 172 2.44 2.23 2.07 1.93 50 x 200 4.34 3 78 3.40 3.11 2.89 170 3.90 3.39 3.04 2.79 2.38 2.42 3.48 3.10 2.78 2.54 2.36 2.21 50 x 225 4.87 4 25 3.82 1.49 3.24 164 4.37 3.81 3.42 3.13 2.90 2.72 3.91 3.48 3.13 2.86 2.65 2.48
+
+63 x 150 3.66 3.19 2.86 2.62 2.43 2.28 3.20 2.86 2.57 2.35 2.18 2.04 2.82 2.58 2.34 2.14 1.99 1.86 63 x 175 4.25 3.71 3.33 3.05 2.83 2.65 3.71 3.33 2.99 2.73 2.53 2.37 3.28 3.00 2.73 2.50 2.31 2.17 63 x 200 4.84 4.23 3.80 3.48 3.23 3.03 4.22 3.79 3.41 3.12 2.89 2.71 3.74 342 3.11 2.85 2.64 2.47 63 x 225 5.42 4.74 4.26 3.91 3.63 3.40 4.73 4.26 3.82 3.50 3.25 3.04 4.19 3.84 3.50 3.20 2.97 2.78
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 7: Common or jack rafters for roofs having a pitch more than 10o but not more than 221/2o with access only for the purposes of maintenance or repair GS, MGS, M50, M75 or No.2 grade timber
+
+Size of rafter (in mm) Dead load (in kg/m2) supported by rafter, excluding the mass of the rafter
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of rafter (in m)
+
+38 x 100 2.42 2.28 1.97 2.20 2.08 1.79 103 1.92 1.65 38 x 125 3.01 2.84 2.46 2.74 159 2.23 153 2.39 2.06 38 x 150 3.60 3.39 2.94 3.28 3.09 2.67 3.03 186 2.46
+
+44 x 75 1.96 1.85 1.60 1.79 1.68 1.45 1.65 1.55 1.34 44 x 100 2.60 2.45 2.12 2.37 2.24 1.93 2.19 2.06 1.78 44 x 125 3.23 3.05 2.65 2.95 2.78 2.41 2.73 2.57 2.22 44 x 150 3.86 3.65 3.16 3.53 3.33 2.88 3.26 3.08 2.66
+
+50 x 75 2.09 1.97 1.71 1.91 1.80 1.55 1.76 1.66 1.43 50 x 100 2.77 2.61 2.27 2.53 2.38 2.06 2.34 2.20 1.90 50 x 125 3.44 3.25 2.82 3.14 2.97 2.57 2.91 2.74 2.37 50 x 150 4.10 3.88 3.37 3.75 3.54 3.07 3.48 328 2.84
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 8: Purlins supporting rafters to which Table 7 relates GS, MGS, M50, M75 or No.2 grade timber
+
+Size of purlin (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of Table 7
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of purlins (in m)
+
+1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00
+
+Maximum span of purlin (in m)
+
+50 x 100 1.35 1.23 1.14 1.07 1.01 0.95 1.23 1.13 1.04 0.98 0.92 0.87 1.14 1.04 0.97 0.91 0.85 0.81 50 x 125 1.68 1.54 1.42 1.33 1.26 1.19 1.54 1.41 1.30 1.22 1.15 1.09 1.43 1.30 1.21 1.13 1.07 1.01 50 x 150 2.01 1.84 1.71 1.60 1.51 1.43 1.85 1.69 1.56 1.46 1.38 1.31 1.71 1.56 1.45 1.36 1.28 1.21 50 x 175 2.35 2.15 1.99 1.86 1.76 1.67 2.15 1.97 1.82 1.70 1.61 1.53 2.00 1.82 1.69 1.58 1.49 1.42 50 x 200 2.68 2.45 2.27 2.13 2.01 1.90 2.46 2.24 2.08 1.95 1.84 1.74 2.28 2.08 1.93 1.81 1.70 1.62 50 x 225 3.01 2.75 2.55 2.39 226 2.14 2.76 2.52 2.34 2.19 2.07 1.96 2.56 2.34 2.17 2.03 1.92 1.82
+
+63 x 150 2.26 2.06 1.91 1.79 1.69 1.60 2.07 1.89 1.75 1.64 1.55 1.47 1.92 1.75 1.63 1.52 1.43 1.36 63 x 175 2.63 2.40 2.23 2.09 1.97 1.87 2.41 2.20 2.04 1.91 1.80 1.71 2.24 2.04 1.89 1.77 1.67 1.59 63 x 200 3.00 2.74 2.54 2.38 2.25 2.13 2.75 2.52 2.33 2.18 2.06 1.95 2.55 2.33 2.16 2.03 1.91 1.81 63 x 225 3.37 3.08 2.86 2.68 2.53 2.40 3.09 2.83 2.62 2.45 2.32 2.20 2.87 2.62 2.43 2.28 2.15 2.04
+
+75 x 175 2.86 2.62 2.43 2.27 2.15 2.04 2.62 2.40 2.23 2.08 1.97 1.87 2.44 2.23 2.06 1.93 1.82 1.73 75 x 200 3.27 2.99 2.77 2.60 2.45 2.33 3.00 2.74 2.54 2.38 2.24 2.13 2.78 2.54 2.36 2.21 2.08 1.98 75 x 225 3.67 3.36 3.11 2.92 2.75 2.62 3.36 3.08 2.85 2.67 2.52 2.40 3.12 2.86 2.65 2.48 2.34 2.22
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 9: Common or jack rafters for roofs having a pitch more than 221/2o but not more than 30o with access only for the purposes of maintenance or repair GS, MGS, M50, M75 or No.2 grade timber
+
+Size of rafter (in mm) Dead load (in kg/m2) supported by rafter, excluding the mass of the rafter
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of rafter (in m)
+
+38 x 100 2.68 2.53 2.19 2.44 2.30 1.99 2.25 2.12 1.84 38 x 125 3.33 3.15 2.73 3.04 2.87 2.48 2.80 2.65 2.29 38 x 150 3.98 3.76 3.27 3.63 3.43 2.97 3.35 3.16 2.74
+
+44 x 75 2.17 2.05 1.78 1.97 1.86 1.61 1.82 1.72 1.49 44 x 100 2.88 2.72 2.36 2.62 2.47 2.14 2.42 2.28 1.98 44 x 125 3.58 3.38 2.94 3.26 3.08 2.67 3.01 2.84 2.47 44 x 150 4.27 4.04 3.51 3.89 3.68 3.20 3.60 3.40 2.95
+
+50 x 75 2.31 2.18 1.89 2.10 1.98 1.72 1.94 1.83 1.59 50 x 100 3.06 2.89 2.51 2.79 2.63 2.29 2.58 2.43 2.11 50 x 125 3.80 3.59 3.13 3.47 3.28 2.85 3.21 3.03 2.63 50 x 150 4.53 4.29 3.74 4.14 3.91 3.40 3.83 3.62 3.14
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 10: Purlins supporting rafters to which Table 9 relate GS, MGS, M50, M75 or No.2 grade timber
+
+Size of purlin (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of Table 9
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of purlins (in m)
+
+1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00
+
+Maximum span of purlin (in m)
+
+50 x 100 1.41 129 120 1.12 1.06 1.00 129 1.18 1.09 1.02 0.96 0.92 120 1.09 1.01 0.95 0.89 0.85 50 x 125 1.77 1.61 1.50 1.40 1.32 1.25 1.61 1.47 137 1.28 121 1.14 1.49 1.36 1.26 1.18 1.12 1.06 50 x 150 2.12 1.94 1.79 1.68 1.58 1.50 1.93 1.77 1.64 1.53 1.45 1.37 1.79 1.64 1.52 1.42 1.34 1.27 50 x 175 2.47 2.26 2.09 1.96 1.85 1.75 2.25 2.06 1.91 1.79 1.69 1.60 2.09 1.91 1.77 1.65 1.56 1.48 50 x 200 2.82 2.57 2.39 2.23 2.11 2.00 2.57 2.35 2.18 2.04 1.92 1.83 2.38 2.18 2.02 1.89 1.78 1.69 50 x 225 3.16 2.89 2.68 2.51 2.37 2.25 2.89 2.64 2.45 2.29 2.16 2.05 2.68 2.45 2.27 2.12 2.00 1.90
+
+63 x 150 2.37 2.17 2.01 1.88 1.78 1.69 2.17 1.98 1.84 1.72 1.62 1.54 2.01 1.83 1.70 1.59 1.50 1.42 63 x 175 2.76 2.53 2.34 2.19 2.07 1.96 2.52 2.31 2.14 2.00 1.89 1.79 2.34 2.14 1.98 1.85 1.75 1.66 63 x 200 3.15 2.88 2.67 2.50 2.36 2.24 2.88 2.63 2.44 2.29 2.16 2.05 2.67 2.44 2.26 2.12 2.00 1.90 63 x 225 3.54 3.24 3.00 2.81 2.66 2.52 324 2.96 2.75 2.57 2.43 2.30 3.00 2.74 2.54 2.38 2.25 2.13
+
+75 x 175 3.01 2.75 2.55 2.39 226 2.14 2.75 2.51 2.33 2.18 2.06 1.96 2.52 2.33 2.16 2.02 1.91 1.81 75 x 200 3.43 3.14 2.91 2.73 2.57 2.44 3.13 2.87 2.66 2.49 2.35 2.23 2.87 2.66 2.46 2.31 2.18 2.07 75 x 225 3.85 3.53 3.27 3.07 2.89 2.75 3.52 3.22 2.99 2.80 2.64 2.51 3.23 2.99 2.77 2.59 2.45 2.32
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 11: Common or jack rafters for roofs having a pitch more than 30o but not more than 421/2o with access only for the purposes of maintenance or repair GS, MGS, M50, M75 or No.2 grade timber
+
+Size of rafter (in mm) Dead load (in kg/m2) supported by rafter, excluding the mass of the rafter
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of rafter (in m)
+
+38 x 100 2.84 2.69 2.33 2.58 2.44 2.11 2.38 2.24 1.94 38 x 125 3.54 3.34 2.91 3.21. 304 2.63 2.96 2.80 2.42 38 x 150 4.22 3.99 3.48 3.84 3.63 3.15 3.54 3.33 2.90
+
+44 x 75 2.30 2.17 1.89 2.09 1.97 1.71 1.93 1.82 1.57 44 x 100 3.05 2.88 2.51 2.77 2.62 2.27 2.56 2.41 2.09 44 x 125 3.79 3.59 3.12 3.45 3.26 2.83 3.18 3.01 2.61 44 x 150 4.53 4.28 3.73 4.12 3.90 3.39 3.81 3.59 3.12
+
+50 x 75 2.45 2.31 2.01 2.21 2.10 1.82 2.01 1.93 1.68 50 x 100 324 3.07 2.67 2.92 2.79 2.42 2.67 2.57 2.23 50 x 125 4.03 3.81 3.32 3.63 3.47 3.02 3.33 3.20 2.78 50 x 150 4.31 4.55 3.97 4.33 4.14 3.61 3.97 3.82 3.32
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 12: Purlins supporting rafters to which Table 11 relates GS, MGS, M50, M75 or No.2 grade timber
+
+Size of purlin (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of Table 11
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of purlins (in m)
+
+1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00
+
+Maximum span of purlin (in m)
+
+50 x 100 1.49 1.36 1.26 1.18 1.11 1.05 1.35 1.24 1.15 1.07 1.01 0.96 1.25 1.14 1.06 0.99 0.93 0.89 50 x 125 1.86 1.70 1.57 1.47 1.39 1.32 1.69 1.54 1.43 1.34 1.26 1.20 1.56 1.43 1.32 1.24 1.17 1.11 50 x 150 2.22 2.03 1.88 1.76 1.66 1.58 2.03 1.85 1.72 1.61 1.51 1.44 1.87 1.71 1.58 1.48 1.40 1.33 50 x 175 2.59 2.37 2.20 2.06 1.94 1.84 2.36 2.16 2.00 1.87 1.77 1.68 2.18 1.99 1.85 1.73 1.63 1.55 50 x 200 2.96 2.71 2.51 2.35 2.22 2.10 2.70 2.46 228 2.14 2.02 1.91 2.49 2.28 2.11 1.97 1.86 1.77 50 x 225 3.32 3.04 2.82 2.64 2.49 2.36 3.03 2.77 2.57 2.40 227 2.15 2.80 2.56 2.37 222 2.09 1.99
+
+63 x 150 2.49 228 2.11 1.98 1.87 1.77 2.27 2.08 1.92 1.80 1.70 1.61 209 1.92 1.78 1.66 1.57 1.49 63 x 175 2.90 2.65 2.46 2.30 2.17 2.06 2.64 2.42 2.24 2.10 1.98 1.88 2.43 2.23 2.07 1.94 1.83 1.74 63 x 200 3.31 3.03 2.81 2.63 2.48 2.36 3.02 2.76 2.56 2.40 2.26 2.15 2.77 2.55 2.36 2.21 2.09 1.98 63 x 225 3.72 3.40 3.16 2.96 2.79 2.65 3.39 3.10 2.88 2.69 2.54 2.41 3.12 2.87 2.66 2.49 2.35 2.23
+
+75 x 175 3.15 2.89 2.68 2.51 2.37 2.25 2.80 2.63 2.44 2.29 2.16 2.05 2.57 2.42 2.26 2.11 1.99 1.89 75 x 200 3.59 3.30 3.06 2.87 2.71 2.57 3.20 3.01 2.79 2.61 2.46 2.34 2.93 2.77 2.58 2.41 2.28 2.16 75 x 225 4.03 3.71 3.44 3.22 3.04 2.89 3.59 3.38 3.13 2.93 2.77 2.63 3.30 3.11 2.90 2.71 2.56 2.43
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 13: Floor joists SS or MSS grade timber
+
+Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of joist (in m)
+
+38 x 75 1.41 1.32 1.01 1.35 1.23 0.96 1.15 1.05 0.84 38 x 100 2.11 2.00 1.71 2.00 1.90 1.57 1.77 1.63 1.32 38 x 125 2.74 2.63 2.39 2.62 2.52 2.25 2.34 2.23 1.83 38 x 150 3.28 3.15 2.87 3.14 3.02 2.75 2.82 2.72 2.35 38 x 175 3.81 3.67 3.35 3.65 3.52 3.20 3.29 3.17 2.76 38 x 200 4.35 4.19 3.82 4.16 4.01 3.66 3.76 3.62 3.16 38 x 225 4.88 4.70 4.29 4.68 4.51 4.11 4.22 4.06 3.54
+
+44 x 75 1.51 1.43 1.16 1.45 1.37 1.09 1.29 1.18 0.94 44 x 100 2.25 2.13 1.87 2.13 2.02 1.77 1.89 1.80 1.47 44 x 125 2.87 2.76 2.52 2.74 2.64 2.40 2.47 2.37 2.02 44 x 150 3.43 3.31 3.01 3.29 3.16 2.88 2.96 2.85 2.55 44 x 175 3.99 3.85 3.51 3.83 3.68 3.36 3.45 3.32 2.97 44 x 200 4.55 4.39 4.00 4.36 4.20 3.83 3.94 3.79 3.39 44 x 225 5.11 4.93 4.50 4.90 4.72 4.31 4.42 4.26 3.81
+
+50 x 75 1.60 1.51 1.30 1.53 1.45 1.21 1.39 1.30 1.04 50 x 100 2.38 2.26 1.98 2.25 2.14 1.89 1.99 1.90 1.61 50 x 125 2.99 2.88 2.62 2.86 2.75 2.51 2.58 2.48 2.21 50 x 150 3.57 3.44 3.14 3.42 3.30 3.01 3.09 2.97 2.71 50 x 175 4.16 4.01 3.66 3.98 3.84 3.50 3.60 3.46 3.15 50 x 200 4 74 4.57 4.17 4.54 4.38 3.99 4.10 3.95 3.60 50 x 225 5.32 5.13 4.68 5.10 4.91 4.49 4.61 4.44 4.05
+
+63 x 150 3.84 3.70 3.38 3.68 3.55 3.24 3.32 3.20 2.92 63 x 175 4.47 4.31 3.94 4.28 4.13 3.77 3.87 3.73 3.40 63 x 200 5.09 4.91 4.49 4.88 4.71 4.30 4.41 4.25 3.88 63 x 225 5.71 5.51 5.04 5.48 5.28 4.83 4.95 4.77 4.36
+
+75 x 200 5.37 5.18 4.74 5.15 4.97 4.54 4.66 4.49 4.10 75 x 225 6.02 5.81 5.32 5.78 5.57 5.10 5.23 5.04 4.61
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 14: Ceiling joists SS or MSS grade timber
+
+Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+
+Not more than 25 More than 25 but not more than 50
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600
+
+Maximum span of joist (in m)
+
+38 x 75 1.98 1.90 1.73 1.84 1.77 1.61 38 x 100 2.62 2.53 2.30 2.44 2.35 2.14 38 x 125 327 3.15 2.87 3.04 2.93 2.67 38 x 150 3.91 3.77 3.44 3.64 3.51 3.20 38 x 175 4.54 4.38 4.00 4.23 4.08 3.72 38 x 200 5.17 4.99 4.56 4.82 4.65 425 38 x 225 5.80 5.59 5.12 5.41 5.22 4.77
+
+44 x 75 2.07 1.99 1.82 1.93 1.85 1.69 44 x 100 2.75 2.65 2.42 2.56 2.46 2.24 44 x 125 3.42 3.30 3.01 3.19 3.07 2.80 44 x 150 4.09 3.94 3.60 3.81 3.67 3.35 44 x 175 4.75 4.58 4.19 4.43 4.27 3.90 44 x 200 5.41 5.22 4.78 5.05 4.87 4.45 44 x 225 6.06 5.85 5.36 5.66 5.46 4.99
+
+50 x 75 2.16 2.08 1.9 2.01 1.93 1.76 50 x 100 2.86 2.76 2.52 2.66 2.57 2.34 50 x 125 3.56 3.43 3.14 3.32 3.20 2.92 50 x 150 4.25 4.10 3.75 3.97 3.82 3.49 50 x 175 4.94 4.77 4.36 4.61 4.45 4.06 50 x 200 5.62 5.42 4.97 5.25 5.06 4.63 50 x 225 6.29 6.08 5.57 5.88 5.68 5.20
+
+Table 15: Binders or beams supporting joists to which Table 14 relates SS or MSS grade timber
+
+Size of binder or beam(in mm) Dead load (in kg/m2) supported by joist as calculated for the purposes of Table 14
+
+Not more than 25 More than 25 but not more than 50
+
+Spacing of binders or beams (in m)
+
+1.20 1.50 1.80 2.10 2.40 1.20 1.50 1.80 2.10 2.40
+
+Maximum span of binder or beam (in m)
+
+38 x 75 1.29 1.15 1.05 0.98 0.91 1.16 1.04 0.95 0.88 0.82 38 x 100 1.71 1.54 1.40 1.30 1.22 1.54 1.38 1.26 1.17 1.09 38 x 125 2.14 1.92 1.75 1.62 1.52 1.93 1.73 1.58 1.46 1.37 38 x 150 2.56 2.30 2.10 1.95 1.82 2.31 2.07 1.89 1.75 1.64
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117 38 x 175 2.98 2.68 2.45 2.27 2.12 2.69 2.41 2.20 2.04 1.91 38 x 200 3.40 3.05 2.79 2.59 2.42 3.07 2.75 2.52 2.33 2.18 38 x 225 3.82 3.43 3.14 2.91 2.72 3.45 3.09 2.83 2.62 2.45
+
+44 x 75 1.38 1.24 1.13 1.05 0.98 1.25 1.12 1.02 0.94 0.88 44 x 100 1.84 1.65 1.51 1.40 1.31 1.66 1.49 1.36 1.26 1.18 44 x 125 2.30 2.06 1.88 1.74 1.63 2.07 1.85 1.70 1.57 1.47 44 x 150 2.75 2.47 2.26 2.09 1.96 2.48 2.22 2.03 1.88 1.76 44 x 175 3.20 2.87 2.63 2.44 2.28 2.89 2.59 2.37 2.19 2.05 44 x 200 3.65 3.28 3.00 2.78 2.61 3.30 2.96 2.70 2.51 2.35 44 x 225 4.10 3.68 3.37 3.13 2.93 3.70 3.32 3.04 2.82 2.64
+
+50 x 75 1.47 1.32 1.21 1.12 1.05 1.33 1.19 1.09 1.01 0.94 50 x 100 1.96 1.76 1.61 1.49 1.39 1.77 1.58 1.45 1.34 1.25 50 x 125 2.45 2.19 2.01 1.86 1.74 2.20 1.98 1.81 1.67 1.57 50 x 150 2.93 2.63 2.40 2.23 2.09 2.64 2.37 2.16 2.01 1.88 50 x 175 3.41 3.06 2.80 2.60 2.43 3.07 2.76 2.52 2.34 2.19 50 x 200 3.89 3.49 3.19 2.96 2.77 3.51 3.15 2.88 2.67 2.50 50 x 225 4.36 3.92 3.59 3.33 3.12 3.94 3.53 3.23 3.00 2.81
+
+63 x 150 3.17 2.94 2.69 2.50 2.34 2.96 2.65 2.42 2.25 2.10 63 x 175 3.69 3.42 3.13 2.91 2.72 3.44 3.09 2.82 2.62 2.45 63 x 200 4.21 3.90 3.57 3.32 3.11 3.92 3.52 3.22 2.99 2.80 63 x 225 4.72 4.38 4.01 3.72 3.49 4.40 3.95 3.62 3.36 3.15
+
+75 x 200 4.44 4.14 3.89 3.61 3.38 4.16 3.83 3.51 325 3.05 75 x 225 4.99 4.65 4.36 4.05 3.80 4.67 4.30 3.94 3.66 3.43
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 16: Joists for flat roofs with access only for the purposes of maintenance or repair SS or MSS grade timber
+
+Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of joist (in m)
+
+38 x 75 1.98 1.90 1.73 1.73 1.66 1.51 1.64 1.58 1.44 38 x 100 2.62 2.53 2.30 2.30 2.21 2.02 2.19 2.10 1.92 38 x 125 3.27 3.15 2.87 2.87 2.76 2.52 2.73 2.62 2.39 38 x 150 3.91 3.77 3.44 3.43 3.31 3.01 3.27 3.14 2.86 38 x 175 4.54 4.38 4.00 3.99 3.85 3.51 3.80 3.66 3.34 38 x 200 5.17 4.99 4.56 4.55 4.39 4.00 4.34 4.18 3.81 38 x 225 5.80 5.59 5.12 5.11 4.93 4.50 4.87 4.69 428
+
+44 x 75 2.07 1.99 1.82 1.81 1.75 1.59 1.72 1.66 1.51 44 x 100 2.75 2.65 2.42 2.41 2.32 2.11 2.29 2.21 2.01 44 x 125 3.42 3.30 3.01 3.01 2.89 2.64 2.86 2.75 2.51 44 x 150 4.09 3.94 3.60 3.60 3.46 3.16 3.42 3.30 3.00 44 x 175 4.75 4.58 4.19 4.18 4.03 3.68 3.98 3.84 3.50 44 x 200 5.41 5.22 4.78 4.77 4.60 4.20 4.54 4.38 3.99 44 x 225 6.06 5.85 5.36 5.35 5.16 4.71 5.10 4.91 4.48
+
+50 x 75 2.16 2.08 1.89 1.89 1.82 1.66 1.80 1.73 1.57 50 x 100 2.86 2.76 2.52 2.51 2.42 2.20 2.39 2.30 2.09 50 x 125 3.56 3.43 3.14 3.13 3.01 2.75 2.98 2.87 2.61 50 x 150 4.25 4.10 3.75 3.74 3.61 3.29 3.56 3.43 3.13 50 x 175 4.94 4.77 4.36 4.35 4.20 3.83 4.15 4.00 3.65 50 x 200 5.62 5.42 4.97 4.96 4.78 4.37 4.73 4.56 4.16 50 x 225 6.29 6.08 5.57 5.56 5.37 4.91 5.30 5.11 4.67
+
+Table 17: Joists for flat roofs with access not limited to the purposes of maintenance or repair SS or MSS grade timber
+
+Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of joist (in m)
+
+38 x 75 1.41 1.33 1.16 1.31 1.24 1.09 1.27 1.20 1.05
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117 38 x 100 2.11 2.00 1.75 1.91 1.82 1.60 1.84 1.75 1.55 38 x 125 2.74 2.63 2.39 2.52 2.42 2.15 2.43 2.32 2.06 38 x 150 3.28 3.15 2.87 3.02 2.90 2.64 2.91 2.80 2.55 38 x 175 3.81 3.67 3.35 3.51 3.38 3.08 3.39 3.27 2.98 38 x 200 4.35 4.19 3.82 4.01 3.86 3.52 3.87 3.73 3.40 38 x 225 4.88 4.70 4.29 4.50 4.34 3.95 4.35 4.19 3.82
+
+44 x 75 1.51 1.43 1.24 1.39 1.32 1.16 1.35 1.28 1.13 44 x 100 2.25 2.13 1.87 2.03 1.94 1.71 1.96 1.86 1.65 44 x 125 2.87 2.76 2.52 2.64 2.54 2.28 2.55 2.45 2.19 44 x 150 3.43 3.31 3.01 3.16 3.04 2.77 3.06 2.94 2.68 44 x 175 3.99 3.85 3.51 3.68 3.55 3.23 3.56 3.43 3.12 44 x 200 4.55 4.39 4.00 4.20 4.05 3.69 4.06 3.91 3.56 44 x 225 5.11 4.93 4.50 4.72 4.54 4.14 4.56 4.39 4.00
+
+50 x 75 1.60 1.51 1.32 1.45 1.40 1.23 1.43 1.36 1.20 50 x 100 2.38 2.26 1.98 2.15 2.04 1.81 2.06 1.96 1.74 50 x 125 2.99 2.88 2.62 2.75 2.65 2.41 2.66 2.56 2.31 50 x 150 3.57 3.44 3.14 3.30 3.17 2.89 3.18 3.07 2.79 50 x 175 4.16 4.01 3.66 3.84 3.69 3.37 3.71 3.57 3.25 50 x 200 4.74 4.57 4.17 4.37 4.21 3.84 4.23 4.07 3.71 50 x 225 5.32 5.13 4.68 4.91 4.73 4.32 4.75 4.57 4.17
+
+63 x 150 3.84 3.70 3.38 3.55 3.42 3.12 3.43 3.30 3.01 63 x 175 4.47 4.31 3.94 4.13 3.98 3.63 3.99 3.84 3.51 63 x 200 5.09 4.91 4.49 4.70 4.53 4.14 4.55 4.38 4.00 63 x 225 5.71 5.51 5.04 5.28 5.09 4.65 5.11 4.92 4.49
+
+75 x 200 5.37 5.18 4.74 4.97 4.79 4.37 4.80 4.63 4.23 75 x 225 6.02 5.81 5.32 5.57 5.37 4.91 5.39 5.20 4.75
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 18: Purlins supporting sheeting or decking for roofs having a pitch of 10o or more SS or MSS grade timber
+
+Size of purlin (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of Table 11
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 75
+
+Spacing of purlins (in m)
+
+0.90 1.20 1.50 1.80 2.10 2.40 0.90 1.20 1.50 1.80 2.10 2.40 0.90 1.20 1.50 1.80 2.10 2.40
+
+Maximum span of purlin (in m)
+
+50 x 100 2.57 2.29 2.05 1.87 1.74 1.62 2.07 1.89 1.76 1.66 1.55 1.45 1.52 1.66 1.54 1.45 1.38 1.32 50 x 125 3.19 2.85 2.56 2.34 2.17 2.03 2.55 2.36 2.20 2.07 1.94 1.81 2.27 2.07 1.93 1.82 1.73 1.65 50 x 150 3.79 3.41 3.06 2.80 2.60 2.43 3.08 2.82 2.63 2.48 2.32 2.17 2.72 2.48 2.31 2.18 2.07 1.98 50 x 175 4.39 3.97 3.56 3.26 3.02 2.83 3.58 3.28 3.06 2.98 2.71 2.53 3.16 2.89 2.69 2,53 2.41 2.31 50 x 200 4.98 4.53 4.07 3.72 3.45 3.23 4.08 3.74 3.49 3.29 3.09 2.89 3.60 3.29 3.07 2.89 2.75 2.64 50 x 225 5.57 5.08 4.57 4.18 3.88 3.63 4.57 4.19 3.91 3.70 3.47 3.25 4.04 3.70 3.44 3.25 3.09 2.96
+
+63 x 150 4.05 3.73 3.43 3.14 2.91 2.72 3.31 3.03 2.83 2.67 2.54 2.43 2.92 2.67 2.49 2.34 2.23 2.14 63 x 175 4.68 4.32 3.99 3.65 3.39 3.17 3.84 3.52 3.29 3.11 2.96 2.83 3.40 3.11 2.89 2.73 2.60 2.49 63 x 200 5.30 4.91 4.55 4.16 3.86 3.62 4.37 4.01 3.75 3.54 3.37 3.23 3.87 3.54 3.30 3.11 2.96 2.84 63 x 225 5.91 5.48 5.10 4.67 4.34 4.07 4.89 4.49 4.20 3.97 3.79 3.63 4.34 3.97 3.70 3.50 3.33 3.19
+
+Table 19: Common or jack rafters for roofs having a pitch more than 10o but not more than 22o with access only for the purposes of maintenance or repair SS or MSS grade timber
+
+Size of rafter (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of table 19
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of rafter (in m)
+
+38 x 100 2.88 2.72 2.36 2.63 2.48 2.15 2.44 2.30 1.98 38 x 125 3.59 3.39 2.94 3.28 3.09 2.68 3.03 2,86 2.47 38 x 150 4.29 4.05 3.52 3.92 3.70 3.21 3.63 3.42 2.96
+
+44 x 75 2.33 2.20 1.91 2.13 2.01 1.74 1.95 1.86 1.61 44 x 100 3.10 2.92 2.54 2.83 2.67 2.31 2.59 2.47 2.14 44 x 125 3.85 3.64 3.16 3.52 3.32 2.88 3.22 3.08 2.66 44 x 150 4.60 4.35 3.78 4.20 3.97 3.45 3.85 3.68 3.19
+
+50 x 75 2.48 2.34 2.04 2.22 2.14 1.86 2.03 1.95 1.72 50 x 100 3.29 3.11 2.70 2.95 2.84 2.47 2.69 2.59 2.28 50 x 125 4.09 3.87 3.37 3.66 3.53 3.07 3.35 3.23 2.84 50 x 150 4.88 4.62 4.02 4.37 4.21 1.68 4.00 3.86 3.40
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 20: Purlins supporting rafters to which Table 19 relates SS or MSS grade timber
+
+Size of purlin (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of Table 19
+
+Not more than 25 More than 25 but not more than 50 More than 50 but not more than 75
+
+Spacing of purlins (in m)
+
+1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00
+
+Maximum span of purlin (in m)
+
+50 x 100 1.18 1.47 1.36 1.28 1.20 1.14 1.40 1.32 125 1.17 1.06 0.96 1.28 1.21 1.15 1.03 0.91 0.82 50 x 125 1.97 1.84 1.70 1.59 1.50 1.43 1.75 1.65 1.56 1.46 1.33 1.20 1.60 1.51 1.43 1.28 1.14 1.03 50 x 150 2.36 2.20 2.04 1.91 1.80 1.71 2.09 1.97 1.87 1.75 1.59 1.43 1.92 1.81 1.72 1.54 1.37 1.23 50 x 175 2.75 2.57 2.38 2.23 2.10 1.99 2.44 2.30 2.18 2.04 1.85 1.67 2.24 2.11 2.00 1.79 1.60 1.44 50 x 200 3.14 2.93 2.72 2.54 2.40 2.28 2.79 2.63 2.49 2.33 112 1.91 2.55 2.40 2.29 2.05 1.82 1.64 50 x 225 3.52 3.29 3.05 2.86 2.70 2.56 3.13 2.95 2.80 2.62 138 2.14 2.87 2.70 2.57 2.30 2.05 1.84
+
+63 x 150 2.54 2.40 2.28 2.14 2.02 1.92 2.26 2.13 2.02 1.94 1.83 1.76 2.07 1.95 1.85 1.77 1.71 1.55 63 x 175 2.96 2.79 2.66 2.50 2.36 2.24 2.63 148 136 2.26 2.16 2.05 2.41 2.27 2.16 2.07 1.99 1.81 63 x 200 3.38 3.19 3.03 2.85 2.69 2.55 3.00 2.83 2.69 158 2.46 2.34 2.75 2.59 2.47 2.36 2.27 2.06 63 x 225 3.79 3.58 3.41 3.20 3.02 2.87 3.37 3.18 3.03 2.90 2.77 2.63 3.09 2.91 2.77 2.65 2.55 2.32
+
+75 x 175 3.13 2.95 2.81 2.69 2.57 144 2.78 2.62 2.50 2.39 2.30 2.22 2.55 2.40 2.29 119 2.11 2.03 75 x 200 3.56 3.37 3.21 3.07 2.93 2.78 3.17 2.99 2.85 2.73 2.63 2.54 2.91 2.74 2.61 2.50 2.40 2.32 75 x 225 4.00 3.78 3.60 3.45 3.29 3.13 3.56 3.36 3.20 3.07 2.95 2.85 3.27 3.08 2.93 181 2.70 2.61
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 21: Common or jack rafters for roofs having a pitch more than 22o but not more than 30o with access only for the purposes of maintenance or repair SS or MSS grade timber
+
+Size of rafter (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of table 21
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of rafter (in m)
+
+38 x 100 3.13 3.02 2.62 2.76. 2.66 2.38 2.52 143 2.20 38 x 125 3.89 3.75 3.27 3.44 3.31 2.97 3.14 3.03 2.74 38 x 150 4.64 4.48 3.91 4.11 3.96 3.56 3.76 3.62 3.28
+
+44 x 75 148 2.39 2.12 2.18 2.10 1.92 1.99 1.92 1.75 44 x 100 3.28 3.16 2.82 2.89 2.79 2.55 2.64 2.55 2.32 44 x 125 4.06 3.92 3.51 3.60 3.47 3.17 3.29 3.17 2.89 44 x 150 4.84 4.68 4.19 4.29 4.14 3.79 3.93 3.79 3.46
+
+50 x 75 2.58 2.48 2.26 2.27 2.19 2.00 2.07 2.00 1.82 50 x 100 3.40 3.29 3.00 3.01 2.90 2.65 2.75 2.65 2.42 50 x 125 4.22 4.07 3.73 3.74 3.61 3.30 3.42 3.30 3.01 50 x 150 5.02 4.85 4.46 4.46 4.31 3.94 4.09 3.94 3.60
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 22: Purlins supporting rafters to which Table 21 relates SS or MSS grade timber
+
+Size of purlin (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of Table 21
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of purlins (in m)
+
+1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00
+
+Maximum span of purlin (in m)
+
+50 x 100 1.61 1.52 1.43 1.34 1.26 1.20 1.43 1.35 1.28 1.22 1.15 1.05 1.31 1.23 1.17 1.12 1.00 0.90 50 x 125 2.01 1.90 1.79 1.67 1.58 1.50 1.79 1.68 1.60 1.53 1.44 1.31 1.63 1.54 1.46 1.40 1.25 1.12 50 x 150 2.41 2.27 2.15 2.01 1.89 1.80 2.14 2.02 1.92 1.83 1.73 1.57 1.96 1.85 1.75 1.68 1.50 1.35 50 x 175 2.81 2.65 2.50 2.34 2.21 2.10 2.49 2.35 2.23 2.14 2.02 1.83 2.28 2.15 2.04 1.96 1.74 1.57 50 x 200 3.20 3.02 2.86 2.67 2.52 2.39 2.85 2.68 2.55 2.44 2.30 2.09 2.61 2.46 2.34 2.24 1.99 1.79 50 x 225 3.60 3.40 3.21 3.00 2.84 2.69 3.20 3.01 2.87 2.74 2.59 2.35 2.93 2.76 2.63 0.00 1Z4 2.02
+
+63 x 150. 2.60 2.45 2.33 2.23 2.12 2.02 2.31 2.17 2.07 1.98 1.90 1.84 2.11 1.99 1.89 1.81 1.74 1.68 63 x 175 3.02 2.85 2.72 2.60 2.48 2.35 2.69 2.53 2.41 2.31 2.22 2.14 2.46 2.32 2.21 2.11 2.03 1.96 63 x 200 3.45 3.25 3.10 2.97 2.83 2.68 3.07 2.89 2.75 2.63 2.53 2.45 2.81 2.65 2.52 2.41 2.32 2.24 63 x 225 3.87 3.65 3.48 3.33 3.18 3.02 3.44 3.25 3.09 2.96 2.85 2.75 3.16 2.98 2.83 2.71 2.61 2.52
+
+75 x 175 3.19 3.02 2.87 2.75 2.65 2.56 2.84 2.68 2.55 2.44 2.35 2.27 2.60 2.46 2.34 2.24 2.15 2.08 75 x 200 3.64 3.44 3.28 3.14 3.02 2.92 3.24 3.06 2.91 2.79 2.68 2.59 2.97 2.80 2.67 2.55 2.46 2.37 75 x 225 4.09 3.86 3.68 3.53 3.40 3.28 3.64 3.43 3.27 3.13 3.01 2.91 3.34 3.15 3.00 2.87 2.76 2.67
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 23: Common or jack rafters for roofs having a pitch more than 30o but not more than 42o with access only for the purposes of maintenance or repair SS or MSS grade timber
+
+Size of rafter (in mm) Dead load (in kg/m2) supported by rafter, excluding the mass of the rafter
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of rafters (in mm)
+
+400 450 600 400 450 600 400 450 600
+
+Maximum span of rafter (in m)
+
+38 x 100 3.20 3.09 2.78 2.82 2.72 2.48 2.58 2.48 126 38 x 125 3.97 3.84 3.47 3.51 3.39 3.09 3.21 3.09 2.82 38 x 150 4.74 4.58 4.15 4.20 4.05 3.70 3.84 3.70 3.38
+
+44 x 75 2.53 2.44 2.23 2.23 2.15 1.96 2.03 1.96 1.78 44 x 100 3.35 3.23 2.96 2.96 2.85 2.60 2.70 2.60 2.37 44 x 125 4.15 4.01 3.67 3.67 3.54 3.24 3.36 3.24 2.96 44 x 150 4.94 4.78 4.39 4.39 4.23 3.87 4.02 3.87 3.54
+
+50 x 75 2.63 2.54 2.32 2.32 2.24 2.04 2.12 104 1.86 50 x 100 3.48 3.36 3.08 3.08 2.97 2.71 2.81 2.71 2.47 50 x 125 4.31 4.16 3.82 3.82 3.69 3.37 3.50 3.37 3.08 50 x 150 5.13 4.96 4.56 4.56 4.40 4.03 4.18 4.03 3.68
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
+
+Table 24: Purlins supporting rafters to which Table 23 relates SS or MSS grade timber
+
+Size of purlin (in mm) Dead load (in kg/m2) supported by rafter as calculated for the purposes of Table 21
+
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
+
+Spacing of purlins (in m)
+
+1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00 1.50 1.80 2.10 2.40 2.70 3.00
+
+Maximum span of purlin (in m)
+
+50 x 100 1.65 1.55 1.48 1.41 1.33 126 1.46 1.38 1.31 125 120 1.15 1.34 126 120 1.14 1.09 0.98 50 x 125 2.06 1.94 1.84 1.76 1.66 1.38 1.82 1.72 1.63 1.56 1.50 1.43 1.67 1.57 1.49 1.43 1.37 1.23 50 x 150 2.46 2.32 2.21 2.11 1.99 1.89 2.19 106 1.96 1.87 1.80 1.72 2.00 1.89 1.79 1.72 1.64 1.47 50 x 175 2.87 2.71 2.57 2.46 2.32 2.20 2.55 2.40 2.28 2.19 2.10 2.00 2.33 120 109 2.00 1.91 1.72 50 x 200 3.27 3.09 2.94 2.81 2.65 2.52 2.91 2.74 2.61 2.50 2.40 129 2.66 2.51 2.39 228 2.18 1.96 50 x 225 3.68 3.47 3.30 3.16 2.98 2.83 3.27 3.08 2.93 2.81 2.70 2.57 2.99 2.82 2.68 2.57 2.45 2.20
+
+63 x 150 2.65 2.50 2.38 2.28 2.20 2.12 2.36 2.22 2.11 2.02 1.95 1.88 2.16 2.03 1.93 1.85 1.78 1.72 63 x 175 3.09 2.92 2.77 2.66 2.56 2.47 2.74 2.59 2.46 2.36 2.27 2.19 2.52 2.37 2.25 2.16 2.08 2.01 63 x 200 3.52 3.33 3.17 3.03 2.92 2.82 3.13 2.95 2.81 2.69 2.59 2.50 2.87 2.71 2.57 2.46 2.37 2.29 63 x 225 3.95 3.73 3.56 3.41 3.28 3.17 3.52 3.32 3.16 3.02 2.91 2.81 3.23 3.04 2.89 2.77 2.67 2.57
+
+75 x 175 3.26 3.08 2.93 2.81 2.71 2.62 2.90 2.74 2.60 2.49 2.40 2.32 2.66 2.51 2.39 2.28 2.20 2.12 75 x 200 3.72 3.51 3.35 3.21 3.09 2.99 3.31 3.12 2.97 2.85 2.74 2.65 3.04 2.86 2.72 2.61 2.51 2.42 75 x 225 4.17 3.94 3.76 3.60 3.47 3.35 3.72 3.51 3.34 3.20 3.08 2.98 3.41 3.22 3.06 2.93 2.83 2.73
+
+Table 25: Softwood tloor boards (tongued and grooved)
+
+Finished thickness of board (in mm) Maximum span of board (in nim) (1) (2) 16 505 19 600 21 635 28 790
+
+Public Health BUILDING RULES 2017
+
+1950-07
+
+Subsidiary 2017/117
