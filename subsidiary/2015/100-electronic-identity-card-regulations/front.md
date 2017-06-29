@@ -10,13 +10,19 @@ ELECTRONIC IDENTITY CARD REGULATIONS 2015
 
 Commencement 29.6.2015
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS
+LN. 2017/130 rr. 3, 8(5), 9, (3), (a), (4), (5) 29.6.2017
+
+Civilians Registration ELECTRONIC IDENTITY CARD REGULATIONS 2015
+
+1950-18
+
+Subsidiary 2015/100 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title. 2. Commencement. 3. Interpretation. 4. Registration. 5. Issuing of cards. 6. Card details and possession of a card. 7. Notice of change of particulars. 8. Electronic services and electronic signatures. 9. Public Key Infrastructure and accreditation certificate. 10. Validity and renewal of a card. 11. Revocation of a card. 12. Loss or destruction of a card. 13. Replacement of a card. 14. Possession of a false card, etc. 15. Penalties. 16. Transitional provisions.
+1. Title. 2. Commencement. 3. Interpretation. 4. Registration. 5. Issuing of cards. 6. Card details and possession of a card. 7. Notice of change of particulars. 8. Electronic services and advanced electronic signatures. 9. Public Key Infrastructure and qualified certificates for electronic signatures. 10. Validity and renewal of a card. 11. Revocation of a card. 12. Loss or destruction of a card. 13. Replacement of a card. 14. Possession of a false card, etc. 15. Penalties. 16. Transitional provisions.
 
 Schedule
 
