@@ -26,13 +26,9 @@ Building of complete constructions or parts of constructions; civil engineering
 
 45200000
 
-45.21 General construction of buildings and civil engineering Construction of all types of buildings 45210000 Except: 45213316 45220000 Construction of civil engineering constructions
+45.21 General construction of buildings and civil engineering works Construction of all types of buildings 45210000 Except: 45213316 45220000 Construction of civil engineering constructions
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088 works Bridges, including those for elevated highways, viaducts, tunnels and subways 45231000 45232000 Long-distance pipelines, communication and power lines Urban pipelines, urban communication and power lines Ancillary urban works Assembly and erection of prefabricated constructions on the site
+Bridges, including those for elevated highways, viaducts, tunnels and subways 45231000 45232000 Long-distance pipelines, communication and power lines Urban pipelines, urban communication and power lines Ancillary urban works Assembly and erection of prefabricated constructions on the site
 
 45.22 Erection of roof covering and frames Erection of roofs 45261000 Roof covering Waterproofing
 
@@ -40,13 +36,9 @@ Subsidiary 2012/088 works Bridges, including those for elevated highways, viaduc
 
 45.24 Construction of water projects Construction of: 45240000 waterways, harbour and river works, pleasure ports (marinas), locks, etc. dams and dykes Dredging subsurface work
 
-45.25 Other construction work involving special trades Construction activities specialising in one aspect common to different kinds of structures, requiring specialised skill or 45250000 45262000
+45.25 Other construction work involving special trades Construction activities specialising in one aspect common to different kinds of structures, requiring specialised skill or equipment 45250000 45262000 Construction of foundations, including pile driving
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088 equipment Construction of foundations, including pile driving Water well drilling and construction, shaft sinking Erection of non-self- manufactured steel elements Steel bending Bricklaying and stone setting Scaffolds and work platform erecting and dismantling, including renting of scaffolds and work platforms Erection of chimneys and industrial ovens
+Water well drilling and construction, shaft sinking Erection of non-self- manufactured steel elements Steel bending Bricklaying and stone setting Scaffolds and work platform erecting and dismantling, including renting of scaffolds and work platforms Erection of chimneys and industrial ovens
 
 45.3
 
@@ -58,15 +50,11 @@ Building installation
 
 45.32 Insulation work activities Installation in buildings or other construction projects of thermal, sound or vibration insulation 45320000
 
-45.33 Plumbing Installation in buildings or other construction projects of: 45330000 plumbing and sanitary
+45.33 Plumbing Installation in buildings or other construction projects of: 45330000 plumbing and sanitary equipment gas fittings heating, ventilation, refrigeration or air-conditioning equipment and ducts sprinkler systems
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
+45.34 Other building installation Installation of illumination and signalling systems for roads, railways, airports and harbours 45234115 45316000 45340000
 
-1977-09
-
-Subsidiary 2012/088 equipment gas fittings heating, ventilation, refrigeration or air- conditioning equipment and ducts sprinkler systems
-
-45.34 Other building installation Installation of illumination and signalling systems for roads, railways, airports and harbours 45234115 45316000 45340000 Installation in buildings or other construction projects of fittings and fixtures n.e.c.
+Installation in buildings or other construction projects of fittings and fixtures n.e.c.
 
 45.4
 
@@ -79,12 +67,6 @@ Building completion
 45.42 Joinery installation Installation of non-self- manufactured doors, windows, door and window frames, fitted kitchens, staircases, shop fittings and the like, of wood or other materials 45420000 Interior completion such as ceilings, wooden wall coverings, movable partitions, etc.
 
 45.43 Floor and wall covering Laying, tiling, hanging or fitting in buildings or other construction projects of: 45430000 ceramic, concrete or cut stone wall or floor tiles parquet and other wood floor coverings, carpets and linoleum floor coverings, including of rubber or plastic terrazzo, marble, granite or slate floor or wall coverings Wallpaper
-
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088
 
 45.44 Painting and glazing Interior and exterior painting of buildings 45440000 Painting of civil engineering structures Installation of glass, mirrors, etc.
 
@@ -99,9 +81,3 @@ Renting of construction or demolition equipment with operator
 45.50 Renting of construction or demolition equipment with operator
 
 45500000
-
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088

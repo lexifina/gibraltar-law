@@ -36,11 +36,7 @@ in Lithuania, the Juridinių asmenų registras;
 
 in Luxembourg, the Registre aux firmes and the Rôle de la Chambre des métiers;
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088 in the Netherlands, the Handelsregister;
+in the Netherlands, the Handelsregister;
 
 in Poland, Krajowy Rejestr Sądowy (National Court Registry);
 
@@ -82,11 +78,7 @@ in France, the Registre du commerce et des sociétés and the Répertoire des m�
 
 in Germany, the Handelsregister and the Handwerksrolle;
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088 in Greece, the registrar of contractors’ enterprises (Μητρώο Εργοληπτικών Επιχειρήσεων) of the Ministry for Environment, Town and Country Planning and Public Works (Υ.ΠΕ.ΧΩ.Δ.Ε);
+in Greece, the registrar of contractors’ enterprises (Μητρώο Εργοληπτικών Επιχειρήσεων) of the Ministry for Environment, Town and Country Planning and Public Works (Υ.ΠΕ.ΧΩ.Δ.Ε);
 
 in Hungary, the Cégnyilvántartás or the egyéni vállalkozók jegyzői nyilvántartása;
 
@@ -112,7 +104,9 @@ in Slovenia, the Sodni register and the obrtni register;
 
 in Spain, the Registro Oficial de Licitadores y Empresas Clasificadas del Estado;
 
-in Sweden, the aktiebolags-, handels- eller föreningsregistren. Supply Contracts; and
+in Sweden, the aktiebolags-, handels- eller föreningsregistren.
+
+Supply Contracts; and
 
 in the United Kingdom, the contractor may be requested to provide a certificate from the Registrar of Companies or, if the contractor is not so certified, a certificate stating that the contractor has declared on oath that he is engaged in the profession in a specific place under a given business name.
 
@@ -128,11 +122,7 @@ in Croatia, Sudski registar trgovačkih društava u Republici Hrvatskoj or Obrtn
 
 in the Czech Republic, the obchodní rejstřík;
 
-Public Finance (Control and Audit) PROCUREMENT (DEFENCE AND SECURITY PUBLIC CONTRACTS) REGULATIONS 2012
-
-1977-09
-
-Subsidiary 2012/088 in Denmark, the Erhvervs- og Selskabsstyrelsen;
+in Denmark, the Erhvervs- og Selskabsstyrelsen;
 
 in Estonia, the Registrite ja Infosüsteemide Keskus;
 
