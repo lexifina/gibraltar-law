@@ -16,7 +16,9 @@ LN. 2001/018 Corrigendum
 
 2001/019 Corrigendum
 
-2012/093 ss. 2 & 11 1.1.2012 Act.  2015-09 Long title, ss. 2, 4 , 12(5), 25(3) 2.4.2015
+2012/093 ss. 2 & 11 1.1.2012 Act.  2015-09 Long title, ss. 2, 4 , 12(5), 25(3) 2.4.2015 LN. 2017/130 ss. 11-18 29.6.20171
+
+1 Transitional provision - For the purposes of these Regulations, an accreditation certificate issued pursuant to Part II of the Electronic Commerce Act 2001 is to be treated as a qualified certificate for electronic signature pursuant to Article 3(15) of the eIDAS Regulation until it expires.
 
 Electronic Commerce
 
@@ -32,9 +34,9 @@ INFORMATION SOCIETY SERVICES
 
 PART II
 
-ISSUE OF ACCREDITATION CERTIFICATES FOR ELECTRONIC SIGNATURES
+Repealed
 
-11. Interpretation. 12. Approved providers of accreditation certificates. 13. Grant, refusal and revocation of approval. 14. Recognition of overseas providers of certificates. 15. Legal effect of electronic signatures. 16. Code-names. 17. Civil liability of approved certification services providers. 18. Code of conduct for approved certification service providers.
+11. to 18. Repealed.
 
 PART III
 
@@ -46,9 +48,7 @@ PART IV
 
 GENERAL
 
-Electronic Commerce
-
-2001-07 24. Offences by bodies corporate. 25. Regulations. 26. Restrictions on service providers. 27. Consequential amendments. 28. Application to Crown.
+24. Offences by bodies corporate. 25. Regulations. 26. Restrictions on service providers. 27. Consequential amendments. 28. Application to Crown.
 
 Electronic Commerce
 
