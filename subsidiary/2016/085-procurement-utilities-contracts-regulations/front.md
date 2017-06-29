@@ -12,7 +12,7 @@ Commencement 18.4.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2016/185 r. 112(4)(b) 15.9.2016
+LN. 2016/185 r. 112(4)(b) 15.9.2016 2017/130 rr. 2, 38(16)(c), (i)(cc), (ii) 29.6.2017
 
 Transposing: Directive 2014/25/EU Directive 2004/17/EC
 
