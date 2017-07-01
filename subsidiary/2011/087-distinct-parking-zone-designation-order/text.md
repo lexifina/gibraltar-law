@@ -1,30 +1,22 @@
-Traffic DISTINCT PARKING ZONE DESIGNATION ORDER 2011
+Subsidiary Legislation made under r.7 of the Traffic (Parking and Waiting) Regulations 2011.
 
-2005-26
+Distinct Parking Zone Designation Order 2011
 
-Subsidiary 2011/087 Subsidiary Legislation made by regulation 7 of the Traffic (Parking and Waiting) Regulations 2011
+LN.2011/087
 
-DISTINCT PARKING ZONE DESIGNATION ORDER 2011
-
-(LN. 2011/087)
-
-Commencement 9.6..2011
+Commencement 9.6.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2015/187
+LN. 2015/187
 
-15.10.2015
+15.10.2015 2017/106
 
-_______________________
+1.7.2017
 
-Traffic DISTINCT PARKING ZONE DESIGNATION ORDER 2011
+In exercise of the powers conferred on me by regulation 7 of the Traffic (Parking and Waiting) Regulations 2011 and all other enabling powers the North District is designated a Distinct Parking Zone for the purposes of the Regulations.
 
-2005-26
-
-Subsidiary 2011/087 In exercise of the powers conferred on me by regulation 7 of the Traffic (Parking and Waiting) Regulations 2011 and all other enabling powers the North District (Zone 1) is designated a Distinct Parking Zone for the purposes of the Regulations.
-
-For the purposes of the preceding paragraph, the North District (Zone 1) consists of the following areas, that is to say, Laguna Estate, Devil’s Tower Road and all adjacent and parallel streets, Catalan Bay and Both Worlds as more particularly set out below–
+For the purposes of the preceding paragraph, the North District consists of the following areas, that is to say, Laguna Estate, Devil’s Tower Road and all adjacent and parallel streets, Catalan Bay and Both Worlds as more particularly set out below–
 
 Residents’ Permit Holders only :
 
@@ -36,12 +28,10 @@ Free Parking Motorcycles Only (available to everyone):
 
 Free Parking Cars Only (available to everyone):
 
- Cemetery Road  Eastern Beach Road  Flint Road  Garrod Road  Halifax Road  Corral Road  Landport Ditch  Catalan Bay Beach Car Park
+ Cemetery Road  Eastern Beach Road  Flint Road  Garrod Road  Halifax Road  Corral Road  Landport Ditch
 
-Traffic DISTINCT PARKING ZONE DESIGNATION ORDER 2011
+ Catalan Bay Beach Car Park
 
-2005-26
-
-Subsidiary 2011/087 Pay Parking:
+Pay Parking:
 
  Devil’s Tower Road Car Park  Aerial Farm Car Park (under construction)  Landport Ditch (one row against North Bastion)
