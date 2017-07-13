@@ -10,7 +10,7 @@ TUNA PRESERVATION REGULATIONS 2014
 
 Commencement 30.10.2014
 
-Amending enactments Relevant current provisions Commencement date LN.  2014/266 rr. 5(1)(a), (b), (c), (1A) 22.12.2014 2015/084 r. 6(i) & Sch. 1 11.6.2015
+Amending enactments Relevant current provisions Commencement date LN.  2014/266 rr. 5(1)(a), (b), (c), (1A) 22.12.2014 2015/084 r. 6(i) & Sch. 1 11.6.2015 2017/144 r. 10A 13.7.2017
 
 Nature Protection TUNA PRESERVATION REGULATIONS 2014
 
@@ -20,7 +20,7 @@ Subsidiary 2014/184 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title and commencement. 2. Scope. 3. These Regulations apply to any land covered …. 4. Interpretation. 5. Tuna fishing permit. 6. Conditions applicable to all tuna fishing permits. 7. Additional conditions. 8. Exemption for certain imports. 9. Total Allowable Catches (TACs). 10. Open and closed seasons. 11. Study of tuna. 12. Duplicate permits etc. 13. Duty to produce permit etc. 14. Revocation of permit. 15. Offences and penalties.
+1. Title and commencement. 2. Scope. 3. These Regulations apply to any land covered …. 4. Interpretation. 5. Tuna fishing permit. 6. Conditions applicable to all tuna fishing permits. 7. Additional conditions. 8. Exemption for certain imports. 9. Total Allowable Catches (TACs). 10. Open and closed seasons. 10A. Suspension of Open Season. 11. Study of tuna. 12. Duplicate permits etc. 13. Duty to produce permit etc. 14. Revocation of permit. 15. Offences and penalties.
 
 SCHEDULE 1
 
