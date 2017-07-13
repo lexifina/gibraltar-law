@@ -12,7 +12,7 @@ TRAFFIC (DESIGNATION OF PEDESTRIANISED AREAS) ORDER 2001
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/110 Para. 2(j), (k), (m), 3 14.6.2017
+LN. 2017/110 Para. 2(j), (k), (m), 3 14.6.2017 2017/147 Para. 2(p), (q) 13.7.2017
 
 _________________________
 
