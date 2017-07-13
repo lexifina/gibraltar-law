@@ -16,7 +16,11 @@ The parking schemes in this entry do not include Zone 1. £ zero Issue of parkin
 
 (b) £120 per annum
 
-(c) Third permit per household (c) £240 per annum (d) Fourth permit per household (d) £480 per annum Issue of parking permit in connection with Zone 1 for a person 60 years of age or over (fee)
+(c) Third permit per household (c) £240 per annum (d) Fourth permit per household
+
+After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows
+
+(d) £480 per annum Issue of parking permit in connection with Zone 1 for a person 60 years of age or over (fee)
 
 (a) First permit per household for a person 60 years of age or over
 
@@ -32,7 +36,7 @@ Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 
 2005-26
 
-Subsidiary 2011/057 Parking in a Pay and Display car park without having paid the correct fee or without displaying the ticket as required by regulations (fine)
+Subsidiary 2011/057 After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows Parking in a Pay and Display car park without having paid the correct fee or without displaying the ticket as required by regulations (fine)
 
 £ 50
 
