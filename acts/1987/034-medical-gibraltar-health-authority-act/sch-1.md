@@ -22,9 +22,7 @@ THE EDUCATION ACT.
 
 THE  FOOD AND DRUGS ACT.
 
-Medical (Gibraltar Health Authority)
-
-1987-34 5.  Section 2 is amended–
+5.  Section 2 is amended–
 
 (a) by repealing the definition of “Director”; and
 
@@ -32,7 +30,9 @@ Medical (Gibraltar Health Authority)
 
 “Specialist in Community Medicine” means the registered medical practitioner appointed as such by the Gibraltar Health Authority;”.
 
-6.  Sections 15, 16, 17,21 and 39 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
+Medical (Gibraltar Health Authority)
+
+1987-34 6.  Sections 15, 16, 17,21 and 39 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
 
 7. Sections 18A and 20 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Specialist in Community Medicine”.
 
@@ -56,9 +56,7 @@ THE MENTAL HEALTH ACT.
 
 “General Manager” means the General Manager of the Gibraltar Health Authority;”.
 
-Medical (Gibraltar Health Authority)
-
-1987-34 18. Section 13(2)(i) is amended by repealing the words “Medical Administrator” and by substituting the words “General Manager”.
+18. Section 13(2)(i) is amended by repealing the words “Medical Administrator” and by substituting the words “General Manager”.
 
 19. Section 73 is amended by repealing the words “Financial and Development Secretary” and substituting the words “General Manager”.
 
@@ -66,7 +64,9 @@ Medical (Gibraltar Health Authority)
 
 THE POLICE ACT.
 
-21. Section 4 is amended –
+Medical (Gibraltar Health Authority)
+
+1987-34 21. Section 4 is amended –
 
 (a) in paragraph (e) by substituting a full stop for the semi-colon at the end thereof; and
 
@@ -92,17 +92,15 @@ THE PUBLIC HEALTH ACT.
 
 26. Section 178 is amended –
 
-Medical (Gibraltar Health Authority)
-
-1987-34
-
 (a) by repealing subsection (1) and substituting the following new subsections –
 
 “(1) The Authority may provide ambulances and may make charges for the use thereof.
 
 (1A) The Chief Environmental Health Officer may provide hearses and may make charges for the use thereof.”
 
-(b) in subsection (2), by repealing the word “Government” and substituting the word “Authority”.
+Medical (Gibraltar Health Authority)
+
+1987-34 (b) in subsection (2), by repealing the word “Government” and substituting the word “Authority”.
 
 27. Section 204 is amended –
 
@@ -129,10 +127,6 @@ THE QUARANTlNE ACT.
 “Specialist in Community Medicine” means the registered medical practitioner appointed as such by the Gibraltar Health Authority;”
 
 THE SUPREME COURT ACT
-
-Medical (Gibraltar Health Authority)
-
-1987-34
 
 31. Section 20 is amended –
 
