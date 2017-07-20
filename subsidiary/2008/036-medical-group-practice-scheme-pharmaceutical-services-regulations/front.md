@@ -1,24 +1,20 @@
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) (PHARMACEUTICAL SERVICES) REGULATIONS 2008
+Subsidiary Legislation made under s.11.
 
-1973-14
+Medical (Group Practice Scheme) (Pharmaceutical Services) Regulations 2008
 
-Subsidiary 2008/036 Subsidiary Legislation made under s. 11 of the Medical (Group Practice Scheme) Act.
-
-MEDICAL (GROUP PRACTICE SCHEME) (PHARMACEUTICAL SERVICES) REGULATIONS 2008
-
-(LN. 2008/036)
+LN.2008/036
 
 Commencement 15.5.2008
 
-Amending enactments Relevant current provisions Commencement date LN. 2011/200 rr. 2 & 18(2) 13.10.2011 2015/010 rr. 2, 15(1), (2), (3)(c), (4), 18(2) 15.1.2015
+Amending enactments Relevant current provisions Commencement date
 
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) (PHARMACEUTICAL SERVICES) REGULATIONS 2008
+LN. 2011/200 rr. 2, 18(2) 13.10.2011 2015/010 rr. 2, 15(1)-(2), (3)(c), (4), 18(2) 15.1.2015 Act. 2017-12 rr. 8, 9(3), 20 20.7.2017
 
-1973-14
+ARRANGEMENT OF REGULATIONS
 
-Subsidiary 2008/036 ARRANGEMENT OF REGULATIONS.
+Regulation
 
-Regulation PART I PRELIMINARY
+PART I PRELIMINARY
 
 1. Title and commencement. 2. Interpretation.
 
@@ -34,8 +30,4 @@ PART IV FINAL PROVISIONS
 
 21. Revocation. 22. Transitional provisions.
 
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) (PHARMACEUTICAL SERVICES) REGULATIONS 2008
-
-1973-14
-
-Subsidiary 2008/036 In exercise of the powers conferred on me by section 11 of the Medical (Group Practice Scheme) Act, and of all other enabling powers, I have made the following Regulations–
+In exercise of the powers conferred on me by section 11 of the Medical (Group Practice Scheme) Act, and of all other enabling powers, I have made the following Regulations–
