@@ -1138,31 +1138,7 @@ Regulation 83(1) and (3)
 
 DESCRIPTION OF DOCUMENTS WHICH MAY BE ISSUED AFTER HOURS.
 
-(a) Licence for motor cylcles.
-
-(b)  Licences for tricycles.
-
-(c) Licences for private motor vehicles.
-
-(d) Licences for goods vehicles.
-
-(e) Licences for public service vehicles.
-
-(f) Licences for vehicles designed, constructed and used for the purpose of trench digging or any kind of excavating or shovelling work.
-
-(g) Licences for vehicles designed and constructed as mobile cranes.
-
-(h) Licences for vehicles designed, constructed and used exclusively as ambulances.
-
-(i) Licences for vehicles designed, constructed and used as fire engines.
-
-(j) Licences for vehicles of any description (other than road rollers) including those which are not equipped with pneumatic tyres on all wheels.
-
-(k) Licences for road rollers.
-
-(l) Licences for pedestrian controlled vehicles.
-
-(m) Licences for invalid carriages.
+(a) – (m) Deleted
 
 (n)  Duplicate licences or certificates of registration.
 
@@ -1170,11 +1146,7 @@ DESCRIPTION OF DOCUMENTS WHICH MAY BE ISSUED AFTER HOURS.
 
 (p)  Registration of new owners of motor vehicles.
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] (q)  Certificates of fitness.
+(q)  Certificates of fitness.
 
 (r) Duplicate certificates of fitness.
 
@@ -1182,11 +1154,29 @@ Subsidiary [1958.03.06] (q)  Certificates of fitness.
 
 (t) Renewed driving licences.
 
+(u)  Duplicate driving licences.
+
+(v) roadworthiness certificates;
+
+(w) duplicate roadworthiness certificates;
+
+(x) learners licences;
+
+(y) CBT certificate;
+
+(z) international driving permit.
+
 Numbers and letters shall be equally spaced between the black border. No number plate fixing bolt shall alter the appearance of the letters or numbers.
 
 PART 2
 
 MANADATORY CHARACTER FONTS
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
