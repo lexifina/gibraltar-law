@@ -60,7 +60,7 @@ Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 199
 
 1.7.2016 Act. 2016-20 r. 3(7)-(8) 13.10.2016 LN. 2018/115 rr. 3(46), (49), 6(1), 7(1), (c)(i), 7A(1), 8(1), 9, 12, 14A(1)-(2), (a)-(b), 16B(1), 16C(1), 16E(1)-(3), 17-18, (a), (d), 20A(1)
 
-1.7.2017
+1.7.2017 Act. 2017-12 rr. 7A(4), 14(2) 20.7.2017
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
