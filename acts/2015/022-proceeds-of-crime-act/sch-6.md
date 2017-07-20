@@ -28,11 +28,9 @@ The following is a non-exhaustive list of factors and types of evidence of poten
 
 (a) Member States;
 
-(b) third countries having effective AML/CFT systems;
-
 Proceeds of Crime
 
-2015-22
+2015-22 (b) third countries having effective AML/CFT systems;
 
 (c) third countries identified by credible sources as having a low level of corruption or other criminal activity;
 

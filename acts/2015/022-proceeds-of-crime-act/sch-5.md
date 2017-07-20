@@ -36,7 +36,9 @@ Person
 
 Proceeds of Crime
 
-2015-22 (d) a person who has held the property in question, but only if it was recoverable property in relation to the unlawful conduct at the time;
+2015-22
+
+(d) a person who has held the property in question, but only if it was recoverable property in relation to the unlawful conduct at the time;
 
 (e) a person who holds other property that is recoverable property in relation to the unlawful conduct;
 
@@ -72,11 +74,13 @@ Property held on trust
 
 (3)  “Beneficiaries” includes beneficiaries with a contingent interest in the trust property and potential beneficiaries.
 
-Interpretation
-
 Proceeds of Crime
 
-2015-22 8.  “the unlawful conduct” means–
+2015-22
+
+Interpretation
+
+8.  “the unlawful conduct” means–
 
 (a) in a case in which the property in question was obtained through unlawful conduct, that conduct,
 

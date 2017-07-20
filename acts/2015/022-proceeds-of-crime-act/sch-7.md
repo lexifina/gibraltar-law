@@ -32,11 +32,9 @@ The following is a non-exhaustive list of factors and types of evidence of poten
 
 (3) Geographical risk factors-
 
-(a) without prejudice to Article 9, countries identified by credible sources, such as mutual evaluations, detailed assessment reports
-
 Proceeds of Crime
 
-2015-22 or published follow-up reports, as not having effective AML/CFT systems;
+2015-22 (a) without prejudice to Article 9, countries identified by credible sources, such as mutual evaluations, detailed assessment reports or published follow-up reports, as not having effective AML/CFT systems;
 
 (b) countries identified by credible sources as having significant levels of corruption or other criminal activity;
 
