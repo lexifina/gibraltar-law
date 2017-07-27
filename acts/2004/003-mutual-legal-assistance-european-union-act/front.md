@@ -16,9 +16,9 @@ Act. 2005-31 s.2 23.5.2005 2005-70 Long title, ss. 1, 2, 3(1) & (2), 12(5), 14, 
 
 29.12.2005 2007-02 s.2 19.4.2007 2007-17 s.2 14.6.2007 LN. 2012/0321 ss. 24-49 & Sch. 2 19.3.2012 2014/232 ss. 2, 3(1A), (2)(c), 5(2), 7(3)(b), 8, 11(2)
 
-1.12.2014
+1.12.2014 2017/154 ss. 2, 2A, 23, Sch. 3 27.7.2017
 
-Transposing: Directive 76/308/EEC Council Decision 2000/365/EC Directive 2010/24/EU
+Transposing: Directive 76/308/EEC Council Decision 2000/365/EC Directive 2010/24/EU Directive 2014/41/EU
 
 1 Notice of corrigenda LN. 2012/052
 
@@ -34,17 +34,15 @@ PART I PRELIMINARY
 
 PART II MUTUAL LEGAL ASSISTANCE IN RESPECT OF COURT OR OTHER PROCEEDINGS
 
-2. Interpretation. 3. Scope. 4. Judicial Authority. 5. Service of Schengen process in Gibraltar. 6. Service of Schengen process: supplementary. 7. General requirements for service of Gibraltar process in a Schengen State. 8. Service of process otherwise than by post. 9. Requests for assistance in obtaining evidence in a Schengen State. 10. Sending requests for assistance. 11. Use of evidence obtained. 12. Requests for assistance from overseas authorities. 13. Powers to arrange for evidence to be obtained. 14. Court to receive evidence. 15. Statutory search powers. 16. Seized evidence. 17. Powers under warrants. 18. Temporary transfer of prisoners. 19. Transit through Gibraltar. 20. Immunity of witnesses. 21. Transfer of judicial records. 22. Rules of court. 23. Mutual legal assistance arrangements with the United Kingdom.
+2. Interpretation. 2A. Application. 3. Scope. 4. Judicial Authority. 5. Service of Schengen process in Gibraltar. 6. Service of Schengen process: supplementary. 7. General requirements for service of Gibraltar process in a Schengen State. 8. Service of process otherwise than by post. 9. Requests for assistance in obtaining evidence in a Schengen State. 10. Sending requests for assistance. 11. Use of evidence obtained. 12. Requests for assistance from overseas authorities. 13. Powers to arrange for evidence to be obtained. 14. Court to receive evidence. 15. Statutory search powers. 16. Seized evidence. 17. Powers under warrants. 18. Temporary transfer of prisoners. 19. Transit through Gibraltar. 20. Immunity of witnesses. 21. Transfer of judicial records. 22. Rules of court. 23. Deleted.
 
 PART III MUTUAL LEGAL ASSISTANCE IN MATTERS NOT FALLING WITHIN THE SCOPE OF PART II
 
 24.  Interpretation. 25.  Application of Part. 26.  Administration of this Part.
 
-Exchange of Information
-
 Mutual Legal Assistance (European Union)
 
-2004-03
+2004-03 Exchange of Information
 
 27.  Request for information. 28.  Exchange of information without prior request. 29.  Presence in administrative offices and participation in administrative enquiries.
 
@@ -63,6 +61,8 @@ General Rules Governing all types of Assistance Requests
 SCHEDULE 1 PROCEEDINGS UNDER SECTION 14
 
 SCHEDULE 2 Repealed.
+
+SCHEDULE 3
 
 Mutual Legal Assistance (European Union)
 
