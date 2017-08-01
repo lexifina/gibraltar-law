@@ -1,18 +1,16 @@
-Traffic TRAFFIC (COMPULSORY BASIC TRAINING) REGULATIONS 2013
+Subsidiary Legislation made under ss.57 and 101.
 
-2005-26
+Traffic (Compulsory Basic Training) Regulations 2013
 
-Subsidiary 2013/109 Subsidiary Legislation made under ss. 57 and 101.
-
-TRAFFIC (COMPULSORY BASIC TRAINING) REGULATIONS 2013
-
-(LN. 2013/109)
+LN.2013/109
 
 Commencement 1.9.2013
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+LN. 2017/126 r. 8(1) 1.8.2017
+
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -20,8 +18,4 @@ Regulation
 
 SCHEDULE ELEMENTS OF THE COMPULSORY BASIC TRAINING COURSE
 
-Traffic TRAFFIC (COMPULSORY BASIC TRAINING) REGULATIONS 2013
-
-2005-26
-
-Subsidiary 2013/109 In exercise of the powers conferred on it by sections 57 and 101 of the Traffic Act 2005, and all other enabling powers, the Government has made the following Regulations−
+In exercise of the powers conferred on it by sections 57 and 101 of the Traffic Act 2005, and all other enabling powers, the Government has made the following Regulations−

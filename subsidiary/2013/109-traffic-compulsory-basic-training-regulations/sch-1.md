@@ -32,11 +32,7 @@ Trainees must receive practical on-site training at the conclusion of which they
 
 (d) be able to start and stop the engine satisfactorily.
 
-Traffic TRAFFIC (COMPULSORY BASIC TRAINING) REGULATIONS 2013
-
-2005-26
-
-Subsidiary 2013/109 Part B
+Part B
 
 Trainees must undertake practical on-site riding at the conclusion of which they must be able to−
 
@@ -56,7 +52,7 @@ Trainees must undertake practical on-site riding at the conclusion of which they
 
 (h) carry out gear observation correctly (if applicable); and
 
-(i) carry out simulated left and right hand turns correctly using the Observation-Signal-Manoeuvre (OSM) and Position-Speed- Look (PSL) routines.
+(i) carry out simulated left and right hand turns correctly using the Observation- Signal-Manoeuvre (OSM) and Position-Speed-Look (PSL) routines.
 
 MODULE 3
 
@@ -72,11 +68,7 @@ Part A
 
 (b) the importance of knowing the legal requirements for riding on the road;
 
-Traffic TRAFFIC (COMPULSORY BASIC TRAINING) REGULATIONS 2013
-
-2005-26
-
-Subsidiary 2013/109 (c) why motor cyclists are more vulnerable than most road users;
+(c) why motor cyclists are more vulnerable than most road users;
 
 (d) the need to drive at the correct speed according to road and traffic conditions;
 
@@ -114,11 +106,7 @@ Part B
 
 (d) traffic lights;
 
-Traffic TRAFFIC (COMPULSORY BASIC TRAINING) REGULATIONS 2013
-
-2005-26
-
-Subsidiary 2013/109 (e) gradients;
+(e) gradients;
 
 (f) bends; and
 
