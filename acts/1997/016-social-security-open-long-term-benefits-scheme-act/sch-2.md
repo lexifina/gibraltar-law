@@ -4,27 +4,19 @@ PART I Section 11(2)
 
 STANDARD RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
-Description of Benefit Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child
+Description of Benefit Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1. Survivor’s Benefit:
 
-Description of Benefit Monthly Basic Rate Increase for wife, or civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1. Survivor’s Benefit:
+(a) Survivor's Bereavement Allowance. £536.63 - £65.38 (b) Widowed Parent's Allowance. £452.44 - £65.38 * (c) Survivor’s Pension. £452.44 - -
 
-(a) Survivor’s Bereavement Allowance. £522.52 - £63.66 (b) Widowed Parent's Allowance. £440.54 - £63.66  * (c) Survivor’s Pension. £440.54 - -
-
-2.  Guardian’s Allowance. £112.39 - -
+2.  Guardian’s Allowance. £115.42 - -
 
 3.  Old Age Pensions:
 
-(a) where the pension is payable to a woman by virtue of a husband’s or civil partner’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s or civil partner’s insurance and she is alive.
+(a) where the pension is payable to a woman by virtue of a husband’s or civil partner’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s or civil partner’s insurance and she is alive. £226.26 - £65.38
 
-£220.31 - £63.66
-
-(b) in any other case. £440.54 £220.31 £63.66
+(b) in any other case. £452.44 £226.26 £65.38
 
 *  Except in the case of a Widowed Parent’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
-
-Social Security (Open Long-Term Benefits Scheme)
-
-1997-16
 
 Social Security (Open Long-Term Benefits Scheme)
 
