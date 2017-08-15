@@ -1,32 +1,26 @@
-Health Protection (Ionising Radiation)
+Subsidiary Legislation made under s.2.
 
-1995-09
+Health Protection (Nuclear Safety Framework) Regulations 2012
 
-Subsidiary 2012/022 Subsidiary Legislation made under s. 2.
-
-HEALTH PROTECTION (NUCLEAR SAFETY FRAMEWORK) REGULATIONS 2012
-
-(LN. 2012/022)
+LN.2012/022
 
 Commencement 1.3.2012
 
-Transposing: Directive 2009/71/EURATOM
+Amending enactments Relevant current provisions Commencement date
 
-_______________________
+LN. 2017/157 rr. 3, 4(2), 6A, Sch. 15.8.2017
 
-ARRANGEMENT OF REGULATIONS.
+Transposing: Directive 2009/71/EURATOM Directive 2014/87/EURATOM
+
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. Directive to have effect. 4. Competent regulatory authority. 5. Regulations are without prejudice. 6. Information to the public. 7. Penalties.
+1. Title and commencement. 2. Interpretation. 3. Directive to have effect. 4. Competent regulatory authority. 5. Regulations are without prejudice. 6. Information to the public. 6A. Restriction on the issue of licences. 7. Penalties.
 
 SCHEDULE COUNCIL DIRECTIVE 2009/71/EURATOM
 
-Health Protection (Ionising Radiation)
-
-1995-09
-
-Subsidiary 2012/022 In exercise of the powers conferred upon it by section 2 of the Health Protection (Ionising Radiation) Act 1995, and for the purpose of transposing into the law of Gibraltar Council Directive 2009/71/EURATOM of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations, the Government has made the following Regulations
+In exercise of the powers conferred upon it by section 2 of the Health Protection (Ionising Radiation) Act 1995, and for the purpose of transposing into the law of Gibraltar Council Directive 2009/71/EURATOM of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations, the Government has made the following Regulations
 
 Title and commencement.
 
@@ -38,17 +32,15 @@ Interpretation.
 
 Directive to have effect.
 
-3.  The Directive, as set out in the Schedule, has effect in Gibraltar.
+3.(1)  Subject to subregulation (2), the Directive, as set out in the Schedule, has effect in Gibraltar.
+
+(2) Subregulation (1) is subject to the provision in Article 10(1a) of the Directive.
 
 Competent regulatory authority.
 
-4.  The Minister with responsibility for health protection shall be the competent regulatory authority for the purposes of the Directive.
+4.(1) The Minister with responsibility for health protection shall be the competent regulatory authority for the purposes of the Directive.
 
-Health Protection (Ionising Radiation)
-
-1995-09
-
-Subsidiary 2012/022
+(2) The Government may by Order published in the Gazette, appoint a competent authority in place of the appointment made in subregulation (1) and where it does so the appointment must fulfil the criteria set out in Article 5 of the Directive.
 
 Regulations are without prejudice.
 
@@ -57,6 +49,14 @@ Regulations are without prejudice.
 Information to the public.
 
 6.  The Minister shall be responsible for providing information to the public in accordance with Article 8 of the Directive.
+
+Restriction on the issue of licences.
+
+6A.  No licence may be issued to a civilian nuclear installation unless-
+
+(a) a national framework, as defined in Article 4(1) of the Directive, has been established;
+
+(b) a competent authority has been appointed under regulation 4(2).
 
 Penalties.
 
@@ -80,13 +80,7 @@ Whereas:
 
 (1) Article 2(b) of the Treaty provides for the establishment of uniform safety standards to protect the health of workers and of the general public.
 
-(2) Article 30 of the Treaty provides for the establishment of basic standards within the Community for the protection of the health
-
-Health Protection (Ionising Radiation)
-
-1995-09
-
-Subsidiary 2012/022 of workers and the general public against the dangers arising from ionizing radiations.
+(2) Article 30 of the Treaty provides for the establishment of basic standards within the Community for the protection of the health of workers and the general public against the dangers arising from ionizing radiations.
 
 (3) Council Directive 96/29/Euratom of 13 May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionizing radiation (3) establishes the basic safety standards. The provisions of that Directive have been supplemented by more specific legislation.
 
@@ -98,13 +92,7 @@ Subsidiary 2012/022 of workers and the general public against the dangers arisin
 
 (7) Council Decision 87/600/Euratom of 14 December 1987 on Community arrangements for the early exchange of information in the event of a radiological emergency (6) established a framework for notification and provision of information to be used by the Member States in order to protect the general public in case of a radiological emergency Council Directive 89/618/Euratom of 27 November 1989 on informing the general public about health protection measures to be applied and steps to be taken in the event of a radiological emergency (7) imposed obligations on the Member States to inform the general public in the event of a radiological emergency.
 
-(8) National responsibility of Member States for the nuclear safety of nuclear installations is the fundamental principle on which nuclear safety regulation has been developed at the
-
-Health Protection (Ionising Radiation)
-
-1995-09
-
-Subsidiary 2012/022 international level, as endorsed by the Convention on Nuclear Safety. That principle of national responsibility, as well as the principle of prime responsibility of the licence holder for the nuclear safety of a nuclear installation under the supervision of its national competent regulatory authority, should be enhanced and the role and independence of the competent regulatory authorities should be reinforced by this Directive.
+(8) National responsibility of Member States for the nuclear safety of nuclear installations is the fundamental principle on which nuclear safety regulation has been developed at the international level, as endorsed by the Convention on Nuclear Safety. That principle of national responsibility, as well as the principle of prime responsibility of the licence holder for the nuclear safety of a nuclear installation under the supervision of its national competent regulatory authority, should be enhanced and the role and independence of the competent regulatory authorities should be reinforced by this Directive.
 
 (9) Each Member State may decide on its energy mix in accordance with relevant national policies.
 
@@ -120,12 +108,6 @@ Subsidiary 2012/022 international level, as endorsed by the Convention on Nuclea
 
 (15) Following the Council’s invitation to set up a High Level Group at EU level, as recorded in its Conclusions of 8 May 2007 on nuclear safety and safe management of spent nuclear fuel and radioactive waste, the European Nuclear Safety Regulators Group (ENSREG) was established by Commission Decision 2007/530/Euratom of 17 July 2007 on establishing the European High Level Group on Nuclear Safety and Waste Management to contribute to the achievement of the Community objectives in the field of nuclear safety.
 
-Health Protection (Ionising Radiation)
-
-1995-09
-
-Subsidiary 2012/022
-
 (16) It is useful to establish a unified structure for reports of Member States to the Commission on the implementation of this Directive. Given its members’ wide experience ENSREG could make a valuable contribution in this respect, thereby facilitating consultation and cooperation of national regulatory authorities.
 
 (17) On 15 October 2008 at its fifth meeting ENSREG adopted 10 principles to be used when drafting a nuclear safety Directive, as noted in its minutes dated 20 November 2008.
@@ -136,21 +118,15 @@ Subsidiary 2012/022
 
 (20) Maintenance and further development of expertise and skills in nuclear safety should be based, inter alia, on a process of learning from past operating experience and employing developments in methodology and science, as appropriate.
 
-(21) In the past, self-assessments have been carried out in Member States in close connection with international peer reviews under the auspices of the IAEA as International Regulatory Review Team or Integrated Regulatory Review Service missions. These self-assessments were carried out and these missions were invited by Member States on a voluntary basis in the spirit of openness and transparency. Self-assessments and accompanying peer reviews of the legislative, regulatory and organisational infrastructure should be aimed at strengthening and enhancing the national framework of Member States, whilst recognising their competencies in ensuring nuclear safety of nuclear installations on their territory. The self- assessments followed by international peer reviews are neither an inspection nor an audit, but a mutual learning mechanism that accepts different approaches to the organisation and practices of a competent regulatory authority, while considering regulatory, technical and policy issues of a Member State that
+(21) In the past, self-assessments have been carried out in Member States in close connection with international peer reviews under the auspices of the IAEA as International Regulatory Review Team or Integrated Regulatory Review Service missions. These self-assessments were carried out and these missions were invited by Member States on a voluntary basis in the spirit of openness and transparency. Self-assessments and accompanying peer reviews of the legislative, regulatory and organisational infrastructure should be aimed at strengthening and enhancing the national framework of Member States, whilst recognising their competencies in ensuring nuclear safety of nuclear installations on their territory. The self- assessments followed by international peer reviews are neither an inspection nor an audit, but a mutual learning mechanism that accepts different approaches to the organisation and practices of a competent regulatory authority, while considering regulatory, technical and policy issues of a Member State that contribute to ensuring a strong nuclear safety regime.  The international peer reviews should be regarded as an opportunity to exchange professional experience and to share lessons learned and good practices in an open and cooperative spirit through advice by peers rather than control or judgement.  Recognising a need for flexibility and appropriateness in regard to different existing systems in Member States, a Member State should be free to determine the segments of its system being subject to the specific peer review invited, with the aim of continuously improving nuclear safety.
 
-Health Protection (Ionising Radiation)
-
-1995-09
-
-Subsidiary 2012/022 contribute to ensuring a strong nuclear safety regime.  The international peer reviews should be regarded as an opportunity to exchange professional experience and to share lessons learned and good practices in an open and cooperative spirit through advice by peers rather than control or judgement. Recognising a need for flexibility and appropriateness in regard to different existing systems in Member States, a Member State should be free to determine the segments of its system being subject to the specific peer review invited, with the aim of continuously improving nuclear safety.
-
-(22) In accordance with point 34 of the Inter institutional Agreement on better law-making, Member States are encouraged to draw up, for themselves and in the interests of the Community, their own tables illustrating, as far as possible, the correlation between this Directive and the transposition measures and to make them public,
+(22) In accordance with point 34 of the Inter institutional Agreement on better law- making, Member States are encouraged to draw up, for themselves and in the interests of the Community, their own tables illustrating, as far as possible, the correlation between this Directive and the transposition measures and to make them public,
 
 HAS ADOPTED THIS DIRECTIVE:
 
 CHAPTER 1
 
-OBJECTIVES, DEFINITIONS AND SCOPE OF APPLICATION
+OBJECTIVES, SCOPE AND DEFINITIONS
 
 Article 1
 
@@ -166,14 +142,68 @@ Article 2
 
 Scope
 
-1.  This Directive shall apply to any civilian nuclear installation operating under a licence as defined in Article 3(4) at all stages covered by this licence.
+1.  This Directive shall apply to any civilian nuclear installation subject to a licence.
 
-Health Protection (Ionising Radiation)
+2.  This Directive does not prevent Member States from taking more stringent safety measures in the subject matter covered by this Directive, in compliance with Community law.
 
-1995-09
-
-Subsidiary 2012/022 2.  This Directive does not prevent Member States from taking more stringent safety measures in the subject matter covered by this Directive, in compliance with Community law.
-
-3.  This Directive supplements the basic standards referred to in Article 30 of the Treaty as regards the nuclear safety of nuclear installations and is without prejudice to Directive 96/29/Euratom.
+3.  This Directive supplements the basic standards referred to in Article 30 of the Treaty as regards the nuclear safety of nuclear installations and is without prejudice to the existing Community legislation for the protection of the health of the workers and the general public against the dangers arising from ionising radiation, and in particular Council Directive 2013/59/Euratom.
 
 Article 3
+
+Definitions
+
+For the purposes of this Directive the following definitions shall apply:
+
+1. ‘nuclear installation’ means:
+
+(a) a nuclear power plant, enrichment plant, nuclear fuel fabrication plant, reprocessing plant, research reactor facility, spent fuel storage facility; and
+
+(b) storage facilities for radioactive waste that are on the same site and are directly related to nuclear installations listed under point (a);
+
+2. ‘nuclear safety’ means the achievement of proper operating conditions, prevention of accidents and mitigation of accident consequences, resulting in protection of workers and the general public from dangers arising from ionizing radiations from nuclear installations;
+
+3. ‘competent regulatory authority’ means an authority or a system of authorities designated in a Member State in the field of regulation of nuclear safety of nuclear installations as referred to in Article 5;
+
+4. ‘licence’ means any legal document granted under the jurisdiction of a Member State to confer responsibility for the sitting, design, construction, commissioning and operation or decommissioning of a nuclear installation;
+
+5. ‘licence holder’ means a legal or natural person having overall responsibility for a nuclear installation as specified in a licence.
+
+6. ‘accident’ means any unintended event, the consequences or potential consequences of which are significant from the point of view of radiation protection or nuclear safety;
+
+7. ‘incident’ means any unintended event, the consequences or potential consequences of which are not negligible from the point of view of radiation protection or nuclear safety;
+
+8. ‘abnormal operations’ means an operational process deviating from normal operation which is expected to occur at least once during the operating lifetime of a facility but which, in view of appropriate design provisions, does not cause any significant damage to items important to safety or lead to accident conditions;
+
+9. ‘design basis’ means the range of conditions and events taken explicitly into account in the design, including upgrades, of a nuclear installation, according to established criteria, so that the installation can withstand them without exceeding authorised limits by the planned operation of safety systems;
+
+10. ‘design basis accident’ means accident conditions against which a nuclear installation is designed according to established design criteria, and for which the damage to the fuel, where applicable, and the release of radioactive material are kept within authorised limits;
+
+11. ‘severe conditions’ means conditions that are more severe than conditions related to design basis accidents; such conditions may be caused by multiple failures, such as the complete loss of all trains of a safety system, or by an extremely unlikely event.
+
+CHAPTER 2
+
+OBLIGATIONS
+
+SECTION 1
+
+General obligations
+
+Article 4
+
+Legislative, regulatory and organisational framework
+
+1.  Member States shall establish and maintain a national legislative, regulatory and organisational framework (‘national framework’) for the nuclear safety of nuclear installations. The national framework shall provide in particular for:
+
+(a) the allocation of responsibilities and coordination between relevant state bodies;
+
+(b) national nuclear safety requirements, covering all stages of the lifecycle of nuclear installations;
+
+(c) a system of licensing and prohibition of operation of nuclear installations without a licence;
+
+(d) a system of regulatory control of nuclear safety performed by the competent regulatory authority;
+
+(e) effective and proportionate enforcement actions, including, where appropriate, corrective action or suspension of operation and modification or revocation of a licence.
+
+The determination on how national nuclear safety requirements referred to in point (b) are adopted and through which instrument they are applied remains within the competences of the Member States.
+
+2.  Member States shall ensure that the national framework is maintained and improved when appropriate, taking into account operating experience, insights gained from safety analyses for operating nuclear installations, development of technology and results of safety research, when available and relevant.
