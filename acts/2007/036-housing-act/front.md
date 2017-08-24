@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2013-172 ss. 40(1)(a) & (8) 8.8.2013 2014-10 ss. 7(1), (1)(a), 12(a), (b), 34(b)(i), (ii), (iii), 53(4)(b) & Sch. 5
 
-28.3.2014
+28.3.2014 2017-14 s. 2 24.8.20173
 
 English sources: None cited
 
@@ -23,6 +23,8 @@ EU Legislation/International Agreements involved:
 1 NOTICE OF COMMENCEMENT (LN. 2008/012)– In exercise of the powers conferred upon it by section 1 of the Housing Act 2007, the Government has appointed the 1st June 2008 as the day the Act comes into operation, except that sections 40 and 113(3) shall not be commenced for the following purposes, namely dwelling houses erected after the 1st day of January 1945 and before the 1st day of March 1959, for which purposes the provisions of section 10 and 11A of the former Act shall continue to apply.
 
 2 Sections 40 and 113(3) of the Housing Act 2007 shall, for the purposes of dwelling houses erected after the 1st day of January 1945 and on or before the 1st day of March 1959 come into operation on the commencement of this Act.
+
+3 Notice of Commencement (LN. 2017/176)
 
 Housing
 
