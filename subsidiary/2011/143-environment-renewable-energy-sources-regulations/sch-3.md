@@ -16,11 +16,7 @@ The certification schemes or equivalent qualification schemes referred to in reg
 
 6. The certification schemes or equivalent qualification schemes referred to in regulation 14(3) shall take due account of the following guidelines:
 
-Environment ENVIRONMENT (RENEWABLE ENERGY SOURCES) REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/143 (a) Accredited training programmes should be offered to installers with work experience, who have undergone, or are undergoing, the following types of training:
+(a) Accredited training programmes should be offered to installers with work experience, who have undergone, or are undergoing, the following types of training:
 
 (i) in the case of biomass boiler and stove installers: training as a plumber, pipe fitter, heating engineer or technician of sanitary and heating or cooling equipment as a prerequisite;
 
@@ -32,13 +28,7 @@ Subsidiary 2011/143 (a) Accredited training programmes should be offered to inst
 
 (b) The theoretical part of the biomass stove and boiler installer training should give an overview of the market situation of biomass and cover ecological aspects, biomass fuels, logistics, fire protection, related subsidies, combustion techniques, firing systems, optimal hydraulic solutions, cost and profitability comparison as well as the design, installation, and maintenance of biomass boilers and stoves. The training should also provide good knowledge of any European standards for technology and biomass fuels, such as pellets, and biomass related domestic and European Union law.
 
-(c) The theoretical part of the heat pump installer training should give an overview of the market situation for heat pumps and cover geothermal resources and ground source temperatures of different regions, soil and rock identification for thermal
-
-Environment ENVIRONMENT (RENEWABLE ENERGY SOURCES) REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/143 conductivity, regulations on using geothermal resources, feasibility of using heat pumps in buildings and determining the most suitable heat pump system, and knowledge about their technical requirements, safety, air filtering, connection with the heat source and system layout. The training should also provide good knowledge of any European standards for heat pumps, and of relevant domestic and European Union law. The installer should demonstrate the following key competences:
+(c) The theoretical part of the heat pump installer training should give an overview of the market situation for heat pumps and cover geothermal resources and ground source temperatures of different regions, soil and rock identification for thermal conductivity, regulations on using geothermal resources, feasibility of using heat pumps in buildings and determining the most suitable heat pump system, and knowledge about their technical requirements, safety, air filtering, connection with the heat source and system layout. The training should also provide good knowledge of any European standards for heat pumps, and of relevant domestic and European Union law. The installer should demonstrate the following key competences:
 
 (i) a basic understanding of the physical and operation principles of a heat pump, including characteristics of the heat pump circle: context between low temperatures of the heat sink, high temperatures of the heat source, and the efficiency of the system, determination of the coefficient of performance (COP) and seasonal performance factor (SPF);
 
@@ -46,13 +36,7 @@ Subsidiary 2011/143 conductivity, regulations on using geothermal resources, fea
 
 (iii) the ability to choose and size the components in typical installation situations, including determining the typical values of the heat load of different buildings and for hot water production based on energy consumption, determining the capacity of the heat pump on the heat load for hot water production, on the storage mass of the building and on interruptible current supply; determine buffer tank component and its volume and integration of a second heating system.
 
-(d) The theoretical part of the solar photovoltaic and solar thermal installer training should give an overview of the market situation of solar products and cost and profitability comparisons, and cover ecological aspects, components, characteristics and dimensioning of solar systems, selection of accurate systems and dimensioning of components, determination of the heat demand, fire protection, related subsidies, as well as the design, installation, and maintenance of solar photovoltaic and solar thermal installations. The training should also provide good knowledge of any European standards for technology, and certification such as Solar
-
-Environment ENVIRONMENT (RENEWABLE ENERGY SOURCES) REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/143 Keymark, and related domestic and European Union law. The installer should demonstrate the following key competences:
+(d) The theoretical part of the solar photovoltaic and solar thermal installer training should give an overview of the market situation of solar products and cost and profitability comparisons, and cover ecological aspects, components, characteristics and dimensioning of solar systems, selection of accurate systems and dimensioning of components, determination of the heat demand, fire protection, related subsidies, as well as the design, installation, and maintenance of solar photovoltaic and solar thermal installations. The training should also provide good knowledge of any European standards for technology, and certification such as Solar Keymark, and related domestic and European Union law. The installer should demonstrate the following key competences:
 
 (i) the ability to work safely using the required tools and equipment and implementing safety codes and standards and identify plumbing, electrical and other hazards associated with solar installations;
 
@@ -63,9 +47,3 @@ Subsidiary 2011/143 Keymark, and related domestic and European Union law. The in
 (iv) for solar photovoltaic systems in particular, the ability to adapt the electrical design, including determining design currents, selecting appropriate conductor types and ratings for each electrical circuit, determining appropriate size, ratings and locations for all associated equipment and subsystems and selecting an appropriate interconnection point.
 
 (e) The installer certification should be time restricted, so that a refresher seminar or event would be necessary for continued certification.
-
-Environment ENVIRONMENT (RENEWABLE ENERGY SOURCES) REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/143
