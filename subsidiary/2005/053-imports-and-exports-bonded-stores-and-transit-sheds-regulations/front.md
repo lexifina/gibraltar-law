@@ -10,6 +10,6 @@ IMPORTS AND EXPORTS (BONDED STORES AND TRANSIT SHEDS) REGULATIONS 2005
 
 Commencement 1.4.2005
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
 
-In exercise of the powers conferred on him by sections 29 and 129 of the Imports and Exports Act 1986 the Governor has made the following Regulations–
+LN. 2017/191 r. 3(4)(a)-(b) 14.9.2017
