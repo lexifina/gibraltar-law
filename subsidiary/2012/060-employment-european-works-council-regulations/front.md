@@ -12,15 +12,17 @@ Commencement 19.4.2012
 
 Amending enactments Relevant current provisions Commencement date Act. 2016-20 rr. 13(7), (8), 14(2), (3), 19, 20(6)(a), (b), 22(1), 23, 24(3)(b), (4)
 
-13.10.2016
+13.10.2016 LN. 2017/159 rr. 3(3), 16(2A)-(2C) 10.10.2017
 
-Transposing: Directive 2009/38/EC
+Transposing: Directive 2009/38/EC Directive (EU) 2015/1794
 
 Employment EMPLOYMENT (EUROPEAN WORKS COUNCIL) REGULATIONS 2012
 
 1932-16
 
-Subsidiary 2012/060 ARRANGEMENT OF REGULATIONS
+Subsidiary 2012/060
+
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
