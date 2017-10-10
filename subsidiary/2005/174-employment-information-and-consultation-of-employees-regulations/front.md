@@ -12,9 +12,9 @@ EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
 
 Amending enactments Relevant current provisions Commencement date LN. 2012/064 rr. 2, 3A, 8A, 16(1)(g) & 20(1)(b) 26.4.2012 Act. 2016-20 rr. 6, 7(4)(b)(ii), (5), (6), (7), (9), 8(7), (8), (9), 10, 13, 14(3), (4), 15, 17, 19(4), (5), (6), 22(1), (4), (6), (9), 23(4), 25(6), (7), 26(2), (3), 29, 30(6)(a), (b), 31(6)(1), (b), 32(1), (3)(b), 33, 34(1)(b), 35, Sch. 2 (3), (4)
 
-13.10.2016
+13.10.2016 LN. 2017/160 r. 37 10.10.2017
 
-Transposing: Directive 2002/14/EC Directive 2008/104/EC
+Transposing: Directive 2002/14/EC Directive 2008/104/EC Directive (EU) 2015/1794
 
 Employment EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
 
@@ -64,7 +64,7 @@ PART VIII PROTECTIONS FOR INFORMATION AND CONSULTATION REPRESENTATIVES, ETC.
 
 PART IX MISCELLANEOUS
 
-33. Employment Tribunal proceedings. 35. Restrictions on contracting out: Part VIII. 36. Crown employment. 37. Exception for merchant navy.
+33. Employment Tribunal proceedings. 35. Restrictions on contracting out: Part VIII. 36. Crown employment. 37. Deleted.
 
 SCHEDULE 1 Application of Regulations
 
