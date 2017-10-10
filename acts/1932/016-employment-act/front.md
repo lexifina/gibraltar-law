@@ -34,15 +34,17 @@ Employment
 
 13.10.20162 2016-20 ss. 2, 45N(1), (3), 45O(1), 52E- 52F, 52P, 62(1)(a)-(b), 70(1), 77A(1), (4), (7), (c), 77B(1), 77D, 78J, 78M(1), (7)-(8), (10)-(13), 78N(1)-(2), (5), 78P, 83A(3), 88-90
 
-13.10.2016
+13.10.2016 LN. 2017/158 ss. 74(1)(b), 76(8A), 78B(3), (3A) 10.10.2017
 
-English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
+English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65)
 
 1 Commencement Notice see LN. 2012/128 2 Commencement Notice see LN. 2016/206
 
 Employment
 
-1932-16 Transposing: Directive 77/187/EEC Directive 86/378 Directives 89/391/EEC Directive 91/533/EEC Directive 92/56/EEC Directives 92/85/EEC Directive 98/49/EC Directive 98/59/EC Directive 2001/23/EC Directive 2008/52/EC Directive 2008/104/EC Regulation 1612/68
+1932-16 Equal Pay Act 1970 (1970 c. 41)
+
+Transposing: Directive 77/187/EEC Directive 86/378 Directives 89/391/EEC Directive 91/533/EEC Directive 92/56/EEC Directives 92/85/EEC Directive 98/49/EC Directive 98/59/EC Directive 2001/23/EC Directive 2008/52/EC Directive 2008/104/EC Directive (EU) 2015/1794 Regulation 1612/68
 
 Implementing: Directive 2014/27/EU
 
