@@ -12,7 +12,7 @@ Commencement 8.10.2015
 
 Amending enactments Relevant current provisions Commencement date LN. 2016/215 Sch. 10.11.2016
 
-Implementing: Council Decision (CFSP) 2015/1763 Council Decision (CFSP) 2016/1745
+Implementing: Council Decision (CFSP) 2015/1763 Council Decision (CFSP) 2016/1745 Council Decision (CFSP) 2017/1933
 
 Immigration, Asylum and Refugee BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
 
