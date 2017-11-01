@@ -14,11 +14,13 @@ The following are supervisory bodies–
 
 (d) the Commissioner of Insurance and the Insurance Supervisor;
 
-(e) the Financial Secretary, or such other person or entity as may from time to time be designated by the Minister for Finance by notice in the Gazette in respect of relevant financial businesses to which section 9(1) applies and which are not supervised by a body listed in paragraphs (a) to (d).
+(e) the Financial Secretary, or such other person or entity as may from time to time be designated by the Minister for Finance by notice in the Gazette in respect of relevant financial businesses to which section 9(1) applies and which are not supervised by a body listed in paragraphs (a) to (d) and (f) to (h).
 
 (f) the Gambling Commissioner as defined in section 2 of the Gambling Act 2005;
 
-(g) the Chairman of the Commission of the Office of Fair Trading as defined in section 2 of the Fair Trading Act 2015.
+(g) the Chairman of the Commission of the Office of Fair Trading as defined in section 2 of the Fair Trading Act 2015;
+
+(h) the Registrar of the Supreme Court.
 
 PART II
 
@@ -28,11 +30,11 @@ PART II
 
 (c) the Financial Services (Investment and Fiduciary Services) Act, 1989;
 
-(d) the Companies Act 2014.
-
 Proceeds of Crime
 
 2015-22
+
+(d) the Companies Act 2014.
 
 (e) the Insolvency Act 2011.
 

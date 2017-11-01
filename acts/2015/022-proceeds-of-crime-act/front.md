@@ -14,15 +14,15 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2016/148 s. 33(3) 7.7.2016 2016/182 Sch. 2 15.9.2016 2016/256 Part IA, 2(10), 3A 22.12.2016 2017/119 ss. 1ZA, 1A, 1B(3)-(5), 1C, (a), (d), 1ZDA, 1DA(1)(a), 1DB(2)(d), (e), 1F(3), 1G, 1GA, 1H, 1I(1), 1IA- 1IC, 1J, 1JA, 1K(1)(a), (5), 1S, 2(9), (10), 3B, 5(2A), (5)-(8), (14), 6, 6A, 7(1), (1A)-(1C), 8, 9(1)(i)(i)(C)-(E), (k)-(l), (o), 9A, 9B, 10, (b), (c), 10A, 11(1)(ba), (c)-(f), (2), (3)(b), (5), 12(2), 13(4), (4A)-(4C), 16, 17, 17A, 18, (b), 19, 20, (1)(a), (2), 20A-20B, 21(1), (2), (2A), 22(1)-(3), (3A)-(3B), (4), 23(1), (1A)-(1B), (2), (c)(iii), (d)(iii), (iv), (4), 23A, 25(2), (4), (10)-(12), 25ZA, 25A, 26(1), (f), (g), (1A)-(1C), (2)(c), (2A), (4), (5), (5A), (6), 26A, 27-28, 30(3)- (6), 30A-30C, 34A, 179(4)(b), 182(1), 183(1), (5A), (7), Sch. 1, 6- 7
 
-26.6.2017 Act. 2017-07 ss. 1C(d), 1T, 2, 3, 4, 4A, 4B, 4C, 4D, 4E, 4F, 4G, 4H, 6B, 35(1), 35A, 35B, 36(1) & (3), 37(5), 58(1)(c), (3A), 59(1), (3), (7A), (7B), (7C), 59A, 60(1), (8A), (8B), (8C), 117(2), (3)(a), (4) & (5)(b), 120(1), (4), (9), 122(2), (4), 123(1), (5), (6), 124(1)(c), 128(2), (3), 130(1), 131(1), 133(1), & 134(1),
+26.6.2017 Act. 2017-07 ss. 1C(d), 2, 3, 4, 4A, 4B, 4C, 4D, 4E, 4F, 4G, 4H, 6B, 35(1), 35A, 35B, 36(1) & (3), 37(5), 58(1)(c), (3A), 59(1), (3), (7A), (7B), (7C), 59A, 60(1), (8A), (8B), (8C), 117(2), (3)(a), (4) & (5)(b), 120(1), (4), (9), 122(2), (4), 123(1), (5), (6), 124(1)(c), 128(2), (3), 130(1), 131(1), 133(1), & 134(1), 145(1),
 
 1 Amended by Notice of Corrigendum LN. 2016/018
 
 Proceeds of Crime
 
-2015-22 145(1), 161(3), 164(2)(b), 167(3)(a), 182(1), (1A), (2A), (5) (za), (zb)
+2015-22 161(3), 164(2)(b), 167(3)(a), 182(1), (1A), (2A), (5) (za), (zb)
 
-20.7.2017
+20.7.2017 LN. 2017/205 Sch. 2 1.11.2017
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849
 
@@ -62,7 +62,7 @@ Proceeds of Crime
 
 PART II MONEY LAUNDERING AND OTHER OFFENCES
 
-1T. Interpretation of Part and Part III. 2. Arrangements. 3. Acquisition, possession or use of criminal property. 4. Concealing, transferring etc. proceeds of criminal conduct. 4A. Deemed consent of the GFIU to do a prohibited act. 4B. Power of a court to extend the moratorium period. 4C. Proceedings under section 4B: supplementary. 4D. Extension of moratorium period pending determination of proceedings etc. 4E. Sections 4B to 4D: interpretation. 4F. Suspension of a transaction. 4G. Authorised disclosures. 4H. Protected disclosures. 5. Tipping-off. 6. Repealed. 6A. Disclosures to supervisory authorities. 6B. Failure to disclose: relevant financial business.
+1T. Interpretation of Part and Part III. 2. Arrangements. 3. Acquisition, possession or use of criminal property. 4. Concealing, transferring etc. proceeds of criminal conduct. 4A. Deemed consent of the GFIU to do a prohibited act. 4B. Power of a court to extend the moratorium period. 4C. Proceedings under section 4B: supplementary. 4D. Extension of moratorium period pending determination of proceedings etc. 4E. Sections 4B to 4D: interpretation. 4F. Suspension of a transaction. 4G. Authorised disclosures. 4H. Protected disclosures. 5.Tipping-off. 6.Repealed. 6A. Disclosures to supervisory authorities. 6B. Failure to disclose: relevant financial business.
 
 PART III MEASURES TO PREVENT THE USE OF THE FINANCIAL SYSTEM FOR PURPOSES OF MONEY LAUNDERING AND TERRORIST FINANCING
 
@@ -86,7 +86,9 @@ PART IV CONFISCATION OF THE PROCEEDS OF CRIMINAL CONDUCT
 
 Proceeds of Crime
 
-2015-22 38. Amount to be recovered under confiscation order. 39. Meaning of “amount that might be realised” and “realisable property”. 40. Value of property, etc. 41. Gifts caught by this Part. 42. Application of procedure for enforcing fines. 43. Interest on sums unpaid under confiscation orders. 44. Reconsideration of case where the court has not proceeded under section 35. 45. Re-assessment of whether defendant has benefited from criminal conduct. 46. Increase in realisable property. 47. Revised assessment of proceeds of criminal conduct. 48. Inadequacy of realisable property. 49. Compensation. 50. Powers of the court where the defendant has absconded or died. 51. Effect of conviction where the court has acted under section 50. 52. Variation of confiscation orders made by virtue of section 50. 53. Compensation, etc. where absconder is acquitted. 54. Power to discharge confiscation order and order compensation where absconder returns. 55. Provisions supplementary to sections 52, 53 and 54. 56. Statements relating to criminal conduct. 57. Provision of information by defendant. 58. Cases in which restraint orders and charging orders may be made. 59. Restraint orders. 59A.   Enforcement abroad. 60. Charging orders in respect of land, securities, etc. 61. Charging orders:  supplementary provisions. 62. Realisation of property. 63. Application of proceeds of realisation and other sums. 64. Exercise by the court or receiver of powers for the realisation of property. 65. Bankruptcy of defendant, etc. 66. Liquidation or Administration of company holding realisable property. 67. Persons acting as insolvency practitioners. 68. Receivers:  supplementary provisions.
+2015-22 38. Amount to be recovered under confiscation order. 39. Meaning of “amount that might be realised” and “realisable
+
+property”. 40. Value of property, etc. 41. Gifts caught by this Part. 42. Application of procedure for enforcing fines. 43. Interest on sums unpaid under confiscation orders. 44. Reconsideration of case where the court has not proceeded under section 35. 45. Re-assessment of whether defendant has benefited from criminal conduct. 46. Increase in realisable property. 47. Revised assessment of proceeds of criminal conduct. 48. Inadequacy of realisable property. 49. Compensation. 50. Powers of the court where the defendant has absconded or died. 51. Effect of conviction where the court has acted under section 50. 52. Variation of confiscation orders made by virtue of section 50. 53. Compensation, etc. where absconder is acquitted. 54. Power to discharge confiscation order and order compensation where absconder returns. 55. Provisions supplementary to sections 52, 53 and 54. 56. Statements relating to criminal conduct. 57. Provision of information by defendant. 58. Cases in which restraint orders and charging orders may be made. 59. Restraint orders. 59A.   Enforcement abroad. 60. Charging orders in respect of land, securities, etc. 61. Charging orders:  supplementary provisions. 62. Realisation of property. 63. Application of proceeds of realisation and other sums. 64. Exercise by the court or receiver of powers for the realisation of property. 65. Bankruptcy of defendant, etc. 66. Liquidation or Administration of company holding realisable property. 67. Persons acting as insolvency practitioners. 68. Receivers:  supplementary provisions.
 
 PART V CIVIL RECOVERY OF THE PROCEEDS ETC. OF UNLAWFUL CONDUCT
 
@@ -244,4 +246,8 @@ Proceeds of Crime
 
 SCHEDULE 7
 
-AN ACT TO PROVIDE FOR MONEY LAUNDERING AND OTHER OFFENCES; TO PROVIDE FOR MEASURES TO PREVENT THE ABUSE OF THE FINANCIAL SYSTEM; TO PROVIDE FOR MONEY LAUNDERING AND TERRORIST FINANCING; TO PROVIDE FOR THE CONFISCATION OF THE PROCEEDS OF CRIMINAL CONDUCT AND ITS VALUE; TO PROVIDE FOR THE CIVIL RECOVERY OF THE PROCEEDS OF UNLAWFUL CONDUCT; TO PROVIDE FOR INVESTIGATORY POWERS; TO TRANSPOSE COUNCIL DIRECTIVE 91/308/EEC AS AMENDED FROM TIME TO TIME; AND FOR CONNECTED PURPOSES.
+.
+
+Proceeds of Crime
+
+2015-22 AN ACT TO PROVIDE FOR MONEY LAUNDERING AND OTHER OFFENCES; TO PROVIDE FOR MEASURES TO PREVENT THE ABUSE OF THE FINANCIAL SYSTEM; TO PROVIDE FOR MONEY LAUNDERING AND TERRORIST FINANCING; TO PROVIDE FOR THE CONFISCATION OF THE PROCEEDS OF CRIMINAL CONDUCT AND ITS VALUE; TO PROVIDE FOR THE CIVIL RECOVERY OF THE PROCEEDS OF UNLAWFUL CONDUCT; TO PROVIDE FOR INVESTIGATORY POWERS; TO TRANSPOSE COUNCIL DIRECTIVE 91/308/EEC AS AMENDED FROM TIME TO TIME; AND FOR CONNECTED PURPOSES.
