@@ -12,7 +12,7 @@ Commencement 22.12.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/116 rr. 4(b), 5(3), Sch. 2 22.6.2017
+LN. 2017/116 rr. 4(b), 5(3), Sch. 2 22.6.2017 2017/219 rr. 3(1), 7(2)(c), Sch. 1, 4 9.11.2017
 
 Transposing: Directive 2014/107/EU
 
