@@ -13,9 +13,3 @@ II. Determination of exceedances of upper and lower assessment thresholds
 Exceedances of upper and lower assessment thresholds must be determined on the basis of concentrations during the previous five years where sufficient data are available.  An assessment threshold will be deemed to have been exceeded if it has been exceeded during at least three calendar years out of those previous five years.
 
 Where fewer than five years’ data are available, Member States may combine measurement campaigns of short duration during the period of the year and at locations likely to be typical of the highest pollution levels with results obtained from information from emission inventories and modelling to determine exceedances of the upper and lower assessment thresholds.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

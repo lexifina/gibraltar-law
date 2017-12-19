@@ -14,20 +14,10 @@ For the assessment of pollution in the vicinity of point sources, the number of 
 
 B. Minimum number of sampling points for fixed measurement to assess compliance with the PM2,5 exposure reduction target for the protection of human health
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 One sampling point per million inhabitants summed over agglomerations and additional urban areas in excess of 100 000 inhabitants shall be operated for this purpose.  Those sampling points may coincide with sampling points under Section A.
+One sampling point per million inhabitants summed over agglomerations and additional urban areas in excess of 100 000 inhabitants shall be operated for this purpose.  Those sampling points may coincide with sampling points under Section A.
 
 C. Minimum number of sampling points for fixed measurements to assess compliance with critical levels for the protection of vegetation in zones other than agglomerations
 
 If maximum concentrations exceed the upper assessment threshold If maximum concentrations are between upper and lower assessment threshold 1 station every 20000 km2 1 station every 40000 km2
 
-In island zones the number of sampling points for fixed measurement should be calculated taking into account the likely distribution patterns of ambient- air pollution and the potential exposure of vegetation.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
+In island zones the number of sampling points for fixed measurement should be calculated taking into account the likely distribution patterns of ambient-air pollution and the potential exposure of vegetation.

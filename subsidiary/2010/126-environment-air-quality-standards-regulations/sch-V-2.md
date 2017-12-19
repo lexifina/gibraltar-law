@@ -10,7 +10,7 @@ A Member State may also use any other methods which it can demonstrate give resu
 
 II. Reference method for the sampling and analysis of polycyclic aromatic hydrocarbons in ambient air
 
-The reference method for the sampling of polycyclic aromatic hydrocarbons in ambient air is described in EN 12341:2014. The reference method for the measurement of benzo(a)pyrene in ambient air is that described in EN 15549:2008 “Air quality — Standard method for the measurement of concentration of benzo[a]pyrene in ambient air”. In the absence of a CEN standard method for the other polycyclic aromatic hydrocarbons referred to in Article 4(8), Member States are allowed to use national standards methods  or  ISO methods  such as ISO standard 12884.
+The reference method for the sampling of polycyclic aromatic hydrocarbons in ambient air is described in EN 12341:2014. The reference method for the measurement of benzo(a)pyrene in ambient air is that described in EN 15549:2008 “Air quality — Standard method for the measurement of concentration of benzo[a]pyrene in ambient air”. In the absence of a CEN standard method for the other polycyclic aromatic hydrocarbons referred to in Article 4(8), Member States are allowed to use national standards methods or ISO methods such as ISO standard 12884.
 
 A Member State may also use any other method which it can demonstrate give results equivalent to the above method.
 
@@ -19,12 +19,6 @@ III. Reference method for the sampling and analysis of mercury in ambient air
 The reference method for the measurement of total gaseous mercury concentrations in ambient air is that described in EN 15852:2010 “Ambient air quality — Standard method for the determination of total gaseous mercury”.
 
 A Member State may also use any other method which it can demonstrate give results equivalent to the above method.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
 
 IV. Reference method for the sampling and analysis of the deposition of arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons
 

@@ -36,11 +36,7 @@ Names and addresses of persons responsible for the development and implementatio
 
 (c) techniques used for the assessment.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 5.  Origin of pollution
+5.  Origin of pollution
 
 (a) list of the main emission sources responsible for pollution (map);
 
@@ -76,11 +72,7 @@ B. Information to be provided under article 22(1)
 
 1.  All information as laid down in Section A.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 2.  Information concerning the status of implementation of the following Directives:
+2.  Information concerning the status of implementation of the following Directives:
 
 1. Council Directive 70/220/EEC of 20 March 1970 on the approximation of the laws of the Member States on measures to be taken against air pollution by emissions from motor vehicles;
 
@@ -98,13 +90,7 @@ Subsidiary 2010/126 2.  Information concerning the status of implementation of t
 
 8. Directive 2000/76/EC of the European Parliament and of the Council of 4 December 2000 on the incineration of waste;
 
-9. Directive 2001/80/EC of the European Parliament and of the Council of 23 October 2001 on the limitation of emissions of certain pollutants into the air from large combustion plants;
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 10. Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants;
+9. Directive 2001/80/EC of the European Parliament and of the Council of 23 October 2001 on the limitation of emissions of certain pollutants into the air from large combustion plants; 10. Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants;
 
 11. Directive 2004/42/EC of the European Parliament and of the Council of 21 April 2004 on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain paints and varnishes and vehicle refinishing products;
 
@@ -121,12 +107,6 @@ Subsidiary 2010/126 10. Directive 2001/81/EC of the European Parliament and of t
 (b) reduction of emissions from vehicles through retrofitting with emission control equipment. The use of economic incentives to accelerate take-up should be considered;
 
 (c) procurement by public authorities, in line with the handbook on environmental public procurement, of road vehicles, fuels and combustion equipment to reduce emissions, including the purchase of:
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
 
 - new vehicles, including low emission vehicles,
 
@@ -145,9 +125,3 @@ Subsidiary 2010/126
 (g) measures to reduce air pollution through the permit system under Directive 2008/1/EC, the national plans under Directive 2001/80/EC, and through the use of economic instruments such as taxes, charges or emission trading.
 
 (h) where appropriate, measures to protect the health of children or other sensitive groups.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

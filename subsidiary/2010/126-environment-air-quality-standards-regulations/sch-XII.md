@@ -10,4 +10,4 @@ Pollutant Alert threshold Sulphur dioxide 500 µg/m3 Nitrogen dioxide 400 µg/m3
 
 B. Information and alert thresholds for ozone
 
-Purpose Averaging period Threshold Information 1 hour 180 µg/m3 Alert 1 hour (1) 240 µg/m3 (1) For the implementation of Article 24, the exceedance of the threshold is to be measured or predicted for three consecutive hours.
+Purpose Averaging period Threshold Information 1 hour 180 µg/m3 Alert 1 hour (1) 240 µg/m3 (1)  For the implementation of Article 24, the exceedance of the threshold is to be measured or predicted for three consecutive hours.

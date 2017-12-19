@@ -24,13 +24,7 @@ Whereas:
 
 (1) The Sixth Community Environment Action Programme adopted by Decision No 1600/2002/EC of the European Parliament and of the Council of 22 July 2002 establishes the need to reduce pollution to levels which minimise harmful effects on human health, paying particular attention to sensitive populations, and the environment as a whole, to improve the monitoring and assessment of air quality including the deposition of pollutants and to provide information to the public.
 
-(2) In order to protect human health and the environment as a whole, it is particularly important to combat emissions of pollutants at source and to identify and implement the most effective emission reduction measures at local, national and Community level. Therefore,
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 emissions of harmful air pollutants should be avoided, prevented or reduced and appropriate objectives set for ambient air quality taking into account relevant World Health Organisation standards, guidelines and programmes.
+(2) In order to protect human health and the environment as a whole, it is particularly important to combat emissions of pollutants at source and to identify and implement the most effective emission reduction measures at local, national and Community level. Therefore, emissions of harmful air pollutants should be avoided, prevented or reduced and appropriate objectives set for ambient air quality taking into account relevant World Health Organisation standards, guidelines and programmes.
 
 (3) Council Directive 96/62/EC of 27 September 1996 on ambient air quality assessment and management, Council Directive 1999/30/EC of 22 April 1999 relating to limit values for sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter and lead in ambient air, Directive 2000/69/EC of the European Parliament and of the Council of 16 November 2000 relating to limit values for benzene and carbon monoxide in ambient air, Directive 2002/3/EC of the European Parliament and of the Council of 12 February 2002 relating to ozone in ambient air and Council Decision 97/101/EC of 27 January 1997 establishing a reciprocal exchange of information and data from networks and individual stations measuring ambient air pollution within the Member States need to be substantially revised in order to incorporate the latest health and scientific developments and the experience of the Member States.  In the interests of clarity, simplification and administrative efficiency it is therefore appropriate that those five acts be replaced by a single Directive and, where appropriate, by implementing measures.
 
@@ -40,13 +34,7 @@ Subsidiary 2010/126 emissions of harmful air pollutants should be avoided, preve
 
 (6) Where possible modelling techniques should be applied to enable point data to be interpreted in terms of geographical distribution of concentration.  This could serve as a basis for calculating the collective exposure of the population living in the area.
 
-(7) In order to ensure that the information collected on air pollution is sufficiently representative and comparable across the Community, it
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 is important that standardised measurement techniques and common criteria for the number and location of measuring stations are used for the assessment of ambient air quality.  Techniques other than measurements can be used to assess ambient air quality and it is therefore necessary to define criteria for the use and required accuracy of such techniques.
+(7) In order to ensure that the information collected on air pollution is sufficiently representative and comparable across the Community, it is important that standardised measurement techniques and common criteria for the number and location of measuring stations are used for the assessment of ambient air quality.  Techniques other than measurements can be used to assess ambient air quality and it is therefore necessary to define criteria for the use and required accuracy of such techniques.
 
 (8) Detailed measurements of fine particulate matter at rural background locations should be made in order to understand better the impacts of this pollutant and to develop appropriate policies. Such measurements should be made in a manner consistent with those of the cooperative programme for monitoring and evaluation of the long range transmission of air pollutants in Europe (EMEP) set up under the 1979 Convention on Long-range Transboundary Air Pollution approved by Council Decision 81/462/EEC of 11 June 1981.
 
@@ -56,39 +44,23 @@ Subsidiary 2010/126 is important that standardised measurement techniques and co
 
 (11) Fine particulate matter (PM2,5) is responsible for significant negative impacts on human health. Further, there is as yet no identifiable threshold below which PM2,5 would not pose a risk. As such, this pollutant should not be regulated in the same way as other air pollutants.  The approach should aim at a general reduction of concentrations in the urban background to ensure that large sections of the population benefit from improved air quality.  However, to ensure a minimum degree of health protection everywhere, that approach should be combined with a limit value, which is to be preceded in a first stage by a target value.
 
-(12) The existing target values and long-term objectives of ensuring effective protection against harmful effects on human health and vegetation and ecosystems from exposure to ozone should remain unchanged. An alert threshold and an information threshold for ozone should be set for the protection of the general population and
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 sensitive sections, respectively, from brief exposures to elevated ozone concentrations. Those thresholds should trigger the dissemination of information to the public on the risks of exposure and the implementation, if appropriate, of short-term measures to reduce ozone levels where the alert threshold is exceeded.
+(12) The existing target values and long-term objectives of ensuring effective protection against harmful effects on human health and vegetation and ecosystems from exposure to ozone should remain unchanged. An alert threshold and an information threshold for ozone should be set for the protection of the general population and sensitive sections, respectively, from brief exposures to elevated ozone concentrations. Those thresholds should trigger the dissemination of information to the public on the risks of exposure and the implementation, if appropriate, of short-term measures to reduce ozone levels where the alert threshold is exceeded.
 
 (13) Ozone is a transboundary pollutant formed in the atmosphere from the emission of primary pollutants addressed by Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants. Progress towards the air quality targets and long term objectives for ozone set in this Directive should be determined by the targets and emission ceilings provided for in Directive 2001/81/EC and, if appropriate, by implementing air quality plans as provided for in this Directive.
 
-(14) Fixed measurements should be mandatory in zones and agglomerations where the long-term objectives for ozone or the assessment thresholds for other pollutants are exceeded. Information from fixed measurements may be supplemented by modelling techniques and/or indicative measurements to enable point data to be interpreted in terms of geographical distribution of concentrations. The use of supplementary techniques of assessment should also allow for reduction of the required minimum number of fixed sampling points.
+(14) Fixed measurements should be mandatory in zones and agglomerations where the long- term objectives for ozone or the assessment thresholds for other pollutants are exceeded.
+
+Information from fixed measurements may be supplemented by modelling techniques and/or indicative measurements to enable point data to be interpreted in terms of geographical distribution of concentrations. The use of supplementary techniques of assessment should also allow for reduction of the required minimum number of fixed sampling points.
 
 (15) Contributions from natural sources can be assessed but cannot be controlled. Therefore, where natural contributions to pollutants in ambient air can be determined with sufficient certainty, and where exceedances are due in whole or in part to these natural contributions, these may, under the conditions laid down in this Directive, be subtracted when assessing compliance with air quality limit values. Contributions to exceedances of particulate matter PM10 limit values attributable to winter-sanding or -salting of roads may also be subtracted when assessing compliance with air quality limit values provided that reasonable measures have been taken to lower concentrations.
 
-(16) For zones and agglomerations where conditions are particularly difficult, it should be possible to postpone the deadline for compliance with the air quality limit values in cases where, notwithstanding the implementation of appropriate pollution abatement measures, acute compliance problems exist in specific zones and agglomerations. Any postponement for a given zone or
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 agglomeration should be accompanied by a comprehensive plan to be assessed by the Commission to ensure compliance by the revised deadline. The availability of necessary Community measures reflecting the chosen ambition level in the Thematic Strategy on air pollution to reduce emissions at source will be important for an effective emission reduction by the timeframe established in this Directive for compliance with the limit values and should be taken into account when assessing requests to postpone deadlines for compliance.
+(16) For zones and agglomerations where conditions are particularly difficult, it should be possible to postpone the deadline for compliance with the air quality limit values in cases where, notwithstanding the implementation of appropriate pollution abatement measures, acute compliance problems exist in specific zones and agglomerations. Any postponement for a given zone or agglomeration should be accompanied by a comprehensive plan to be assessed by the Commission to ensure compliance by the revised deadline. The availability of necessary Community measures reflecting the chosen ambition level in the Thematic Strategy on air pollution to reduce emissions at source will be important for an effective emission reduction by the timeframe established in this Directive for compliance with the limit values and should be taken into account when assessing requests to postpone deadlines for compliance.
 
 (17) The necessary Community measures to reduce emissions at source, in particular measures to improve the effectiveness of Community legislation on industrial emissions, to limit the exhaust emissions of engines installed in heavy duty vehicles, to further reduce the Member States’ permitted national emissions of key pollutants and the emissions associated with refuelling of petrol cars at service stations, and to address the sulphur content of fuels including marine fuels should be duly examined as a priority by all institutions involved.
 
 (18) Air quality plans should be developed for zones and agglomerations within which concentrations of pollutants in ambient air exceed the relevant air quality target values or limit values, plus any temporary margins of tolerance, where applicable. Air pollutants are emitted from many different sources and activities. To ensure coherence between different policies, such air quality plans should where feasible be consistent, and integrated with plans and programmes prepared pursuant to Directive 2001/80/EC of the European Parliament and of the Council of 23 October 2001 on the limitation of emissions of certain pollutants into the air from large combustion plants, Directive 2001/81/EC, and Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise. Full account will also be taken of the ambient air quality objectives provided for in this Directive, where permits are granted for industrial activities pursuant to Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control.
 
-(19) Action plans should be drawn up indicating the measures to be taken in the short term where there is a risk of an exceedance of one or more alert thresholds in order to reduce that risk and to limit its duration. When the risk applies to one or more limit values or target values, Member States may, where appropriate, draw up such short-
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 term action plans. In respect of ozone, such short-term action plans should take into account the provisions of Commission Decision 2004/279/EC of 19 March 2004 concerning guidance for implementation of Directive 2002/3/EC of the European Parliament and of the Council relating to ozone in ambient air.
+(19) Action plans should be drawn up indicating the measures to be taken in the short term where there is a risk of an exceedance of one or more alert thresholds in order to reduce that risk and to limit its duration. When the risk applies to one or more limit values or target values, Member States may, where appropriate, draw up such short-term action plans. In respect of ozone, such short-term action plans should take into account the provisions of Commission Decision 2004/279/EC of 19 March 2004 concerning guidance for implementation of Directive 2002/3/EC of the European Parliament and of the Council relating to ozone in ambient air.
 
 (20) Member States should consult with one another if, following significant pollution originating in another Member State, the level of a pollutant exceeds, or is likely to exceed, the relevant air quality objectives plus the margin of tolerance where applicable or, as the case may be, the alert threshold. The transboundary nature of specific pollutants, such as ozone and particulate matter, may require coordination between neighbouring Member States in drawing up and implementing air quality plans and short-term action plans and in informing the public. Where appropriate, Member States should pursue cooperation with third countries, with particular emphasis on the early involvement of candidate countries.
 
@@ -100,13 +72,7 @@ Subsidiary 2010/126 term action plans. In respect of ozone, such short-term acti
 
 (24) It is appropriate to provide for the possibility of adapting the criteria and techniques used for the assessment of the ambient air quality to scientific and technical progress and adapting thereto the information to be provided.
 
-(25) Since the objectives of this Directive cannot be sufficiently achieved by the Member States by reason of the transboundary nature of air
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 pollutants and can therefore be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
+(25) Since the objectives of this Directive cannot be sufficiently achieved by the Member States by reason of the transboundary nature of air pollutants and can therefore be better achieved at Community level, the Community may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 of the Treaty. In accordance with the principle of proportionality, as set out in that Article, this Directive does not go beyond what is necessary in order to achieve those objectives.
 
 (26) Member States should lay down rules on penalties applicable to infringements of the provisions of this Directive and ensure that they are implemented. The penalties should be effective, proportionate and dissuasive.
 
@@ -120,11 +86,7 @@ Subsidiary 2010/126 pollutants and can therefore be better achieved at Community
 
 (31) The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 (32) The Commission should be empowered to amend Annexes I to VI, Annexes VIII to X and Annex XV. Since those measures are of general scope and are designed to amend non-essential elements of this Directive, they must be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC.
+(32) The Commission should be empowered to amend Annexes I to VI, Annexes VIII to X and Annex XV. Since those measures are of general scope and are designed to amend non-essential elements of this Directive, they must be adopted in accordance with the regulatory procedure with scrutiny provided for in Article 5a of Decision 1999/468/EC.
 
 (33) The transposition clause requires Member States to ensure that the necessary urban background measurements are in place well in time to define the Average Exposure Indicator, in order to guarantee that the requirements related to the assessment of the National Exposure Reduction Target and to the calculation of the Average Exposure Indicator are met,
 
@@ -150,11 +112,7 @@ This Directive lays down measures aimed at the following:
 
 5. maintaining air quality where it is good and improving it in other cases;
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 6. promoting increased cooperation between the Member States in reducing air pollution.
+6. promoting increased cooperation between the Member States in reducing air pollution.
 
 Article 2
 
@@ -178,13 +136,7 @@ For the purposes of this Directive:
 
 8. “air quality plans” shall mean plans that set out measures in order to attain the limit values or target values;
 
-9. “target value” shall mean a level fixed with the aim of avoiding, preventing or reducing harmful effects on human health and/or the
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 environment as a whole, to be attained where possible over a given period;
+9. “target value” shall mean a level fixed with the aim of avoiding, preventing or reducing harmful effects on human health and/or the environment as a whole, to be attained where possible over a given period;
 
 10. “alert threshold” shall mean a level beyond which there is a risk to human health from brief exposure for the population as a whole and at which immediate steps are to be taken by the Member States;
 
@@ -192,7 +144,7 @@ Subsidiary 2010/126 environment as a whole, to be attained where possible over a
 
 12. “upper assessment threshold” shall mean a level below which a combination of fixed measurements and modelling techniques and/or indicative measurements may be used to assess ambient air quality;
 
-13. “lower assessment threshold” shall mean a level below which modelling or objective-estimation techniques alone may be used to assess ambient air quality;
+13. “lower assessment threshold” shall mean a level below which modelling or objective- estimation techniques alone may be used to assess ambient air quality;
 
 14. “long-term objective” shall mean a level to be attained in the long term, save where not achievable through proportionate measures, with the aim of providing effective protection of human health and the environment;
 
@@ -202,13 +154,9 @@ Subsidiary 2010/126 environment as a whole, to be attained where possible over a
 
 17. “agglomeration” shall mean a zone that is a conurbation with a population in excess of 250 000 inhabitants or, where the population is 250 000 inhabitants or less, with a given population density per km2 to be established by the Member States;
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+18. “PM10” shall mean particulate matter which passes through a size-selective inlet as defined in the reference method for the sampling and measurement of PM10, EN 12341, with a 50 % efficiency cut-off at 10 µm aerodynamic diameter;
 
-2005-27
-
-Subsidiary 2010/126 18. “PM10” shall mean particulate matter which passes through a size- selective inlet as defined in the reference method for the sampling and measurement of PM10, EN 12341, with a 50 % efficiency cut- off at 10 µm aerodynamic diameter;
-
-19. “PM2,5” shall mean particulate matter which passes through a size- selective inlet as defined in the reference method for the sampling and measurement of PM2,5, EN 14907, with a 50 % efficiency cut- off at 2,5 µm aerodynamic diameter;
+19. “PM2,5” shall mean particulate matter which passes through a size-selective inlet as defined in the reference method for the sampling and measurement of PM2,5, EN 14907, with a 50 % efficiency cut-off at 2,5 µm aerodynamic diameter;
 
 20. “average exposure indicator” shall mean an average level determined on the basis of measurements at urban background locations throughout the territory of a Member State and which reflects population exposure. It is used to calculate the national exposure reduction target and the exposure concentration obligation;
 
@@ -224,11 +172,7 @@ Subsidiary 2010/126 18. “PM10” shall mean particulate matter which passes th
 
 26. “indicative measurements” shall mean measurements which meet data quality objectives that are less strict than those required for fixed measurements;
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 27. “volatile organic compounds” (VOC) shall mean organic compounds from anthropogenic and biogenic sources, other than methane, that are capable of producing photochemical oxidants by reactions with nitrogen oxides in the presence of sunlight;
+27. “volatile organic compounds” (VOC) shall mean organic compounds from anthropogenic and biogenic sources, other than methane, that are capable of producing photochemical oxidants by reactions with nitrogen oxides in the presence of sunlight;
 
 28. “ozone precursor substances” means substances which contribute to the formation of ground-level ozone, some of which are listed in Annex X.
 
@@ -260,11 +204,7 @@ Member States shall establish zones and agglomerations throughout their territor
 
 CHAPTER II
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 ASSESSMENT OF AMBIENT AIR QUALITY
+ASSESSMENT OF AMBIENT AIR QUALITY
 
 SECTION 1
 
@@ -290,12 +230,6 @@ Assessment criteria
 
 2.  In all zones and agglomerations where the level of pollutants referred to in paragraph 1 exceeds the upper assessment threshold established for those pollutants, fixed measurements shall be used to assess the ambient air quality. Those fixed measurements may be supplemented by modelling techniques and/or indicative measurements to provide adequate information on the spatial distribution of the ambient air quality.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
-
 3.  In all zones and agglomerations where the level of pollutants referred to in paragraph 1 is below the upper assessment threshold established for those pollutants, a combination of fixed measurements and modelling techniques and/or indicative measurements may be used to assess the ambient air quality.
 
 4.  In all zones and agglomerations where the level of pollutants referred to in paragraph 1 is below the lower assessment threshold established for those pollutants, modelling techniques or objective-estimation techniques or both shall be sufficient for the assessment of the ambient air quality.
@@ -316,11 +250,7 @@ Article 7
 
 Sampling points
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 1.  The location of sampling points for the measurement of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10, PM2,5), lead, benzene and carbon monoxide in ambient air shall be determined using the criteria listed in Annex III.
+1.  The location of sampling points for the measurement of sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter (PM10, PM2,5), lead, benzene and carbon monoxide in ambient air shall be determined using the criteria listed in Annex III.
 
 2.  In each zone or agglomeration where fixed measurements are the sole source of information for assessing air quality, the number of sampling points for each relevant pollutant shall not be less than the minimum number of sampling points specified in Section A of Annex V.
 
@@ -342,11 +272,7 @@ Reference measurement methods
 
 2.  Other measurement methods may be used subject to the conditions set out in Section B of Annex VI.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 SECTION 2
+SECTION 2
 
 Assessment of ambient air quality in relation to ozone
 
@@ -368,15 +294,9 @@ Sampling points
 
 3.  For zones and agglomerations within which information from sampling points for fixed measurements is supplemented by information from modelling and/or indicative measurements, the number of sampling points specified in Section A of Annex IX may be reduced provided that the following conditions are met:
 
-(a) the supplementary methods provide sufficient information for the assessment of air quality with regard to target values, long- term objectives, information and alert thresholds;
+(a) the supplementary methods provide sufficient information for the assessment of air quality with regard to target values, long-term objectives, information and alert thresholds;
 
-(b) the number of sampling points to be installed and the spatial resolution of other techniques are sufficient for the
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 concentration of ozone to be established in accordance with the data quality objectives specified in Section A of Annex I and enable assessment results to meet the criteria specified in Section B of Annex I;
+(b) the number of sampling points to be installed and the spatial resolution of other techniques are sufficient for the concentration of ozone to be established in accordance with the data quality objectives specified in Section A of Annex I and enable assessment results to meet the criteria specified in Section B of Annex I;
 
 (c) the number of sampling points in each zone or agglomeration amounts to at least one sampling point per two million inhabitants or one sampling point per 50 000 km2, whichever produces the greater number of sampling points, but must not be less than one sampling point in each zone or agglomeration;
 
@@ -396,11 +316,7 @@ Reference measurement methods
 
 1.  Member States shall apply the reference method for measurement of ozone, set out in point 8 of Section A of Annex VI. Other measuring methods may be used subject to the conditions set out in Section B of Annex VI.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 2.  Each Member State shall inform the Commission of the methods it uses to sample and measure VOC, as listed in Annex X.
+2.  Each Member State shall inform the Commission of the methods it uses to sample and measure VOC, as listed in Annex X.
 
 CHAPTER III
 
@@ -432,12 +348,6 @@ Critical levels
 
 1.  Member States shall ensure compliance with the critical levels specified in Annex XIII as assessed in accordance with Section A of Annex III.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
-
 2.  Where fixed measurements are the sole source of information for assessing air quality, the number of sampling points shall not be less than the minimum number specified in Section C of Annex V. Where that information is supplemented by indicative measurements or modelling, the minimum number of sampling points may be reduced by up to 50 % so long as the assessed concentrations of the relevant pollutant can be established in accordance with the data quality objectives specified in Section A of Annex I.
 
 Article 15
@@ -458,13 +368,7 @@ PM2,5 target value and limit value for the protection of human health
 
 1.  Member States shall take all necessary measures not entailing disproportionate costs to ensure that concentrations of PM2,5 in ambient air do not exceed the target value laid down in Section D of Annex XIV as from the date specified therein.
 
-2.  Member States shall ensure that concentrations of PM2,5 in ambient air do not exceed the limit value laid down in Section E of Annex XIV
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 throughout their zones and agglomerations as from the date specified therein. Compliance with this requirement shall be assessed in accordance with Annex III.
+2.  Member States shall ensure that concentrations of PM2,5 in ambient air do not exceed the limit value laid down in Section E of Annex XIV throughout their zones and agglomerations as from the date specified therein. Compliance with this requirement shall be assessed in accordance with Annex III.
 
 3.  The margin of tolerance laid down in Section E of Annex XIV shall apply in accordance with Article 23(1).
 
@@ -480,17 +384,11 @@ Requirements in zones and agglomerations where ozone concentrations exceed the t
 
 Article 18
 
-Requirements in zones and agglomerations where ozone concentrations meet the long-term objectives
+Requirements in zones and agglomerations where ozone concentrations meet the long- term objectives
 
 In zones and agglomerations in which ozone levels meet the long-term objectives, Member States shall, in so far as factors including the transboundary nature of ozone pollution and meteorological conditions permit, maintain those levels below the long-term objectives and shall preserve through proportionate measures the best ambient air quality compatible with sustainable development and a high level of environmental and human health protection.
 
 Article 19
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
 
 Measures required in the event of information or alert thresholds being exceeded
 
@@ -516,13 +414,9 @@ Exceedances attributable to winter-sanding or -salting of roads
 
 2.  Member States shall send the Commission lists of any such zones or agglomerations together with information on concentrations and sources of PM10 therein.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+3.  When informing the Commission in accordance with Article 27, Member States shall provide the necessary evidence to demonstrate that any exceedances are due to re-suspended particulates and that reasonable measures have been taken to lower the concentrations.
 
-2005-27
-
-Subsidiary 2010/126 3.  When informing the Commission in accordance with Article 27, Member States shall provide the necessary evidence to demonstrate that any exceedances are due to re-suspended particulates and that reasonable measures have been taken to lower the concentrations.
-
-4.  Without prejudice to Article 20, in the case of zones and agglomerations referred to in paragraph 1 of this Article, Member States need to establish the air quality plan provided for in Article 23 only in so far as exceedances are attributable to PM10 sources other than winter-sanding or -salting of roads.
+4.  Without prejudice to Article 20, in the case of zones and agglomerations referred to in paragraph 1 of this Article, Member States need to establish the air quality plan provided for in Article 23 only in so far as exceedances are attributable to PM10 sources other than winter- sanding or -salting of roads.
 
 5.  The Commission shall by 11 June 2010 publish guidelines for determination of contributions from the re-suspension of particulates following winter-sanding or -salting of roads.
 
@@ -536,11 +430,7 @@ Postponement of attainment deadlines and exemption from the obligation to apply 
 
 3.  Where a Member State applies paragraphs 1 or 2, it shall ensure that the limit value for each pollutant is not exceeded by more than the maximum margin of tolerance specified in Annex XI for each of the pollutants concerned.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 4.  Member States shall notify the Commission where, in their view, paragraphs 1 or 2 are applicable, and shall communicate the air quality plan referred to in paragraph 1 including all relevant information necessary for the Commission to assess whether or not the relevant conditions are satisfied. In its assessment, the Commission shall take into account estimated effects on ambient air quality in the Member States, at present and in the future, of measures that have been taken by the Member States as well as estimated effects on ambient air quality of current Community measures and planned Community measures to be proposed by the Commission.
+4.  Member States shall notify the Commission where, in their view, paragraphs 1 or 2 are applicable, and shall communicate the air quality plan referred to in paragraph 1 including all relevant information necessary for the Commission to assess whether or not the relevant conditions are satisfied. In its assessment, the Commission shall take into account estimated effects on ambient air quality in the Member States, at present and in the future, of measures that have been taken by the Member States as well as estimated effects on ambient air quality of current Community measures and planned Community measures to be proposed by the Commission.
 
 Where the Commission has raised no objections within nine months of receipt of that notification, the relevant conditions for the application of paragraphs 1 or 2 shall be deemed to be satisfied.
 
@@ -560,11 +450,7 @@ In the event of exceedances of those limit values for which the attainment deadl
 
 Those air quality plans shall incorporate at least the information listed in Section A of Annex XV and may include measures pursuant to Article 24. Those plans shall be communicated to the Commission without delay, but no later than two years after the end of the year the first exceedance was observed.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 Where air quality plans must be prepared or implemented in respect of several pollutants, Member States shall, where appropriate, prepare and implement integrated air quality plans covering all pollutants concerned.
+Where air quality plans must be prepared or implemented in respect of several pollutants, Member States shall, where appropriate, prepare and implement integrated air quality plans covering all pollutants concerned.
 
 2.  Member States shall, to the extent feasible, ensure consistency with other plans required under Directive 2001/80/EC, Directive 2001/81/EC or Directive 2002/49/EC in order to achieve the relevant environmental objectives.
 
@@ -578,13 +464,7 @@ However, where there is a risk that the alert threshold for ozone specified in S
 
 2.  The short-term action plans referred to in paragraph 1 may, depending on the individual case, provide for effective measures to control and, where necessary, suspend activities which contribute to the risk of the respective limit values or target values or alert threshold being exceeded. Those action plans may include measures in relation to motor-vehicle traffic, construction works, ships at berth, and the use of industrial plants or products and domestic heating. Specific actions aiming at the protection of sensitive population groups, including children, may also be considered in the framework of those plans.
 
-3.  When Member States have drawn up a short-term action plan, they shall make available to the public and to appropriate organisations such as environmental organisations, consumer organisations, organisations representing the interests of sensitive population groups, other relevant health-care bodies and the relevant industrial federations both the results of
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 their investigations on the feasibility and the content of specific short-term action plans as well as information on the implementation of these plans.
+3.  When Member States have drawn up a short-term action plan, they shall make available to the public and to appropriate organisations such as environmental organisations, consumer organisations, organisations representing the interests of sensitive population groups, other relevant health-care bodies and the relevant industrial federations both the results of their investigations on the feasibility and the content of specific short-term action plans as well as information on the implementation of these plans.
 
 4.  For the first time before 11 June 2010 and at regular intervals thereafter, the Commission shall publish examples of best practices for the drawing-up of short-term action plans, including examples of best practices for the protection of sensitive population groups, including children.
 
@@ -602,11 +482,7 @@ Transboundary air pollution
 
 5.  In drawing up plans as provided for in paragraphs 1 and 3 and in informing the public as referred to in paragraph 4, Member States shall, where appropriate, endeavour to pursue cooperation with third countries, and in particular with candidate countries.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 CHAPTER V
+CHAPTER V
 
 INFORMATION AND REPORTING
 
@@ -628,17 +504,11 @@ The information shall be made available free of charge by means of any easily ac
 
 2.  Member States shall make available to the public annual reports for all pollutants covered by this Directive.
 
-Those reports shall summarise the levels exceeding limit values, target values, long-term objectives, information thresholds and alert thresholds, for the relevant averaging periods. That information shall be combined with a summary assessment of the effects of those exceedances. The reports may include, where appropriate, further information and assessments on forest protection as well as information on other pollutants for which monitoring provisions are specified in this Directive, such as, inter alia, selected non- regulated ozone precursor substances as listed in Section B of Annex X.
+Those reports shall summarise the levels exceeding limit values, target values, long-term objectives, information thresholds and alert thresholds, for the relevant averaging periods. That information shall be combined with a summary assessment of the effects of those exceedances. The reports may include, where appropriate, further information and assessments on forest protection as well as information on other pollutants for which monitoring provisions are specified in this Directive, such as, inter alia, selected non-regulated ozone precursor substances as listed in Section B of Annex X.
 
 3.  Member States shall inform the public of the competent authority or body designated in relation to the tasks referred to in Article 3.
 
 Article 27
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
 
 Transmission of information and reporting
 
@@ -662,15 +532,11 @@ Implementing measures
 
 1.  Measures designed to amend the non-essential elements of this Directive, namely Annexes I to VI, Annexes VIII to X and Annex XV, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 29(3).
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 However, the amendments may not have the effect of directly or indirectly modifying either of the following:
+However, the amendments may not have the effect of directly or indirectly modifying either of the following:
 
 (a) the limit values, exposure reduction targets, critical levels, target values, information or alert thresholds or long-term objectives specified in Annex VII and Annexes XI to XIV;
 
-(b) the dates for compliance with any of the parameters referred to in point (a).
+(b)  the dates for compliance with any of the parameters referred to in point (a).
 
 2.  The Commission shall, in accordance with the regulatory procedure referred to in Article 29(2), determine the additional information to be made available by Member States pursuant to Article 27 as well as the timescales in which such information is to be communicated.
 
@@ -693,12 +559,6 @@ Committee
 2.  Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
 
 The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
 
 3.  Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
 
@@ -728,11 +588,7 @@ However, from 11 June 2008, the following shall apply:
 
 2.  Notwithstanding the first subparagraph of paragraph 1, the following Articles shall remain in force:
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 (a) Article 5 of Directive 96/62/EC until 31 December 2010;
+(a) Article 5 of Directive 96/62/EC until 31 December 2010;
 
 (b) Article 11(1) of Directive 96/62/EC and Article 10(1), (2) and (3) of Directive 2002/3/EC until the end of the second calendar year following the entry into force of the implementing measures referred to in Article 28(2) of this Directive; (c) Article 9(3) and (4) of Directive 1999/30/EC until 31 December 2009.
 
@@ -758,12 +614,6 @@ As regards PM2,5, the review shall be undertaken with a view to establishing a l
 
 - progress made in implementing Community reduction measures for air pollutants,
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
-
 2.  The Commission shall take into account the feasibility of adopting a more ambitious limit value for PM2,5, shall review the indicative limit value of the second stage for PM2,5 and consider confirming or altering that value.
 
 3.  As part of the review, the Commission shall also prepare a report on the experience and on the necessity of monitoring of PM10 and PM2,5, taking into account technical progress in automatic measuring techniques. If appropriate, new reference methods for the measurement of PM10 and PM2,5 shall be proposed.
@@ -788,11 +638,7 @@ This Directive shall enter into force on the day of its publication in the Offic
 
 Article 35
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 Addressees
+Addressees
 
 This Directive is addressed to the Member States.
 
@@ -801,9 +647,3 @@ Done at Strasbourg, 21 May 2008.
 For the European Parliament The President H.-G. Pöttering
 
 For the Council The President J. Lenarčič
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

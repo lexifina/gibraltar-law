@@ -26,27 +26,17 @@ Whereas:
 
 (1) On the basis of principles enshrined in Article 175(3) of the Treaty, the Sixth Community Environment Action Programme, adopted by Decision No 1600/2002/EC of the European Parliament and of the Council, establishes the need to reduce pollution to levels which minimise harmful effects on human health, paying particular attention to sensitive populations, and the environment as a whole, to improve the monitoring and assessment of air quality including the deposition of pollutants and to provide information to the public.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 (2) Article 4(1) of Council Directive 96/62/EC of 27 September 1996 on ambient air quality assessment and management requires the Commission to submit proposals for regulating the pollutants listed in Annex I to that Directive taking into account the provisions laid down in paragraphs 3 and 4 of that Article.
+(2) Article 4(1) of Council Directive 96/62/EC of 27 September 1996 on ambient air quality assessment and management requires the Commission to submit proposals for regulating the pollutants listed in Annex I to that Directive taking into account the provisions laid down in paragraphs 3 and 4 of that Article.
 
 (3) Scientific evidence shows that arsenic, cadmium, nickel and some polycyclic aromatic hydrocarbons are human genotoxic carcinogens and that there is no identifiable threshold below which these substances do not pose a risk to human health. Impact on human health and the environment occurs via concentrations in ambient air and via deposition.  With a view to cost-effectiveness, ambient air concentrations of arsenic, cadmium, nickel and polycyclic aromatic hydrocarbons, which would not pose a significant risk to human health, cannot be achieved in specific areas.
 
 (4) With the aim of minimising harmful effects on human health, paying particular attention to sensitive populations, and the environment as a whole, of airborne arsenic, cadmium and nickel and polycyclic aromatic hydrocarbons, target values should be set, to be attained as far as possible.  Benzo(a)pyrene should be used as a marker for the carcinogenic risk of polycyclic aromatic hydrocarbons in ambient air.
 
-(5) The target values would not require any measures entailing disproportionate costs.  Regarding industrial installations, they would not involve measures beyond the application of best available techniques (BAT) as required by Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control and in particular would not lead to the closure of installations.  However, they would require Member States to take all cost-effective abatement measures in the relevant sectors.
+(5) The target values would not require any measures entailing disproportionate costs. Regarding industrial installations, they would not involve measures beyond the application of best available techniques (BAT) as required by Council Directive 96/61/EC of 24 September 1996 concerning integrated pollution prevention and control and in particular would not lead to the closure of installations.  However, they would require Member States to take all cost-effective abatement measures in the relevant sectors.
 
 (6) In particular, the target values of this Directive are not to be considered as environmental quality standards as defined in Article 2(7) of Directive 96/61/EC and which, according to Article 10 of that Directive, require stricter conditions than those achievable by the use of BAT.
 
-(7) In accordance with Article 176 of the Treaty, Member States may maintain or introduce more stringent protective measures
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons provided that they are compatible with the Treaty and that they are notified to the Commission.
+(7) In accordance with Article 176 of the Treaty, Member States may maintain or introduce more stringent protective measures relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons provided that they are compatible with the Treaty and that they are notified to the Commission.
 
 (8) Where concentrations exceed certain assessment thresholds, monitoring of arsenic, cadmium, nickel and benzo(a)pyrene should be mandatory. Supplementary means of assessment may reduce the required number of sampling points for fixed measurements.  Further monitoring of background ambient air concentrations and deposition is foreseen.
 
@@ -56,13 +46,7 @@ Subsidiary 2010/126 relating to arsenic, cadmium, mercury, nickel and polycyclic
 
 (11) The effects of arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons on human health, including via the food chain, and the environment as a whole, occur through concentrations in ambient air and via deposition; the accumulation of these substances in soils and the protection of ground water should be taken into account.  In order to facilitate review of this Directive in 2010, the Commission and the Member States should consider promoting research into the effects of arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons on human health and the environment, particularly via deposition.
 
-(12) Standardised accurate measurement techniques and common criteria for the location of measuring stations are important elements in assessing ambient air quality so that the information obtained is comparable throughout the
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 Community. Providing reference measurement methods is acknowledged to be an important issue.  The Commission has already mandated work on the preparation of CEN standards for the measurement of those constituents in ambient air where target values are defined (arsenic, cadmium, nickel and benzo(a)pyrene) as well as for the deposition of heavy metals with a view to their early development and adoption.  In the absence of CEN standard methods, the use of international or national standard reference measurement methods should be permitted.
+(12) Standardised accurate measurement techniques and common criteria for the location of measuring stations are important elements in assessing ambient air quality so that the information obtained is comparable throughout the Community. Providing reference measurement methods is acknowledged to be an important issue.  The Commission has already mandated work on the preparation of CEN standards for the measurement of those constituents in ambient air where target values are defined (arsenic, cadmium, nickel and benzo(a)pyrene) as well as for the deposition of heavy metals with a view to their early development and adoption.  In the absence of CEN standard methods, the use of international or national standard reference measurement methods should be permitted.
 
 (13) Information on the concentrations and the deposition of the regulated pollutants should be forwarded to the Commission as a basis for regular reports.
 
@@ -80,11 +64,7 @@ Article 1
 
 Objectives
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 The objectives of this Directive shall be to:
+The objectives of this Directive shall be to:
 
 (a) establish a target value for the concentration of arsenic, cadmium, nickel and benzo(a)pyrene in ambient air so as to avoid, prevent or reduce harmful effects of arsenic, cadmium, nickel and polycyclic aromatic hydrocarbons on human health and the environment as a whole;
 
@@ -106,11 +86,7 @@ The objectives of this Directive shall be to:
 
 (b) ‘total or bulk deposition’ means the total mass of pollutants which is transferred from the atmosphere to surfaces (e.g. soil, vegetation, water, buildings, etc.) in a given area within a given time;
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 (c) ‘upper assessment threshold’ means a level specified in Annex II below which a combination of measurements and modelling techniques may be used to assess ambient air quality, in accordance with Article 6(3) of Directive 96/62/EC;
+(c) ‘upper assessment threshold’ means a level specified in Annex II below which a combination of measurements and modelling techniques may be used to assess ambient air quality, in accordance with Article 6(3) of Directive 96/62/EC;
 
 (d) ‘lower assessment threshold’ means a level specified in Annex II below which the sole use of modelling or objective estimation techniques shall be possible to assess ambient air quality, in accordance with Article 6(4) of Directive 96/62/EC;
 
@@ -130,13 +106,7 @@ Target values
 
 1.  Member States shall take all necessary measures not entailing disproportionate costs to ensure that, as from 31 December 2012, concentrations of arsenic, cadmium, nickel and benzo(a)pyrene, used as a marker for the carcinogenic risk of polycyclic aromatic hydrocarbons, in ambient air, as assessed in accordance with Article 4, do not exceed the target values laid down in Annex I.
 
-2.  Member States shall draw up a list of zones and agglomerations in which the levels of arsenic, cadmium, nickel, and benzo(a)pyrene are below the
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 respective target values. Member States shall maintain the levels of these pollutants in these zones and agglomerations below the respective target values and shall endeavour to preserve the best ambient air quality, compatible with sustainable development.
+2.  Member States shall draw up a list of zones and agglomerations in which the levels of arsenic, cadmium, nickel, and benzo(a)pyrene are below the respective target values. Member States shall maintain the levels of these pollutants in these zones and agglomerations below the respective target values and shall endeavour to preserve the best ambient air quality, compatible with sustainable development.
 
 3.  Member States shall draw up a list of the zones and agglomerations where the target values laid down in Annex I are exceeded.
 
@@ -158,11 +128,7 @@ The measurements provided for may be supplemented by modelling techniques to pro
 
 3.  A combination of measurements, including indicative measurements as referred to in Annex IV, Section I, and modelling techniques may be used to assess ambient air quality in zones and agglomerations where the levels over a representative period are between the upper and lower assessment thresholds, to be determined pursuant to Annex II, Section II.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 4.  In zones and agglomerations where the levels are below the lower assessment threshold, to be determined pursuant to Annex II, Section II, the sole use of modelling or objective estimation techniques for assessing levels shall be possible.
+4.  In zones and agglomerations where the levels are below the lower assessment threshold, to be determined pursuant to Annex II, Section II, the sole use of modelling or objective estimation techniques for assessing levels shall be possible.
 
 5.  Where pollutants have to be measured, the measurements shall be taken at fixed sites either continuously or by random sampling.  The number of measurements shall be sufficient to enable the levels to be determined.
 
@@ -170,15 +136,9 @@ Subsidiary 2010/126 4.  In zones and agglomerations where the levels are below t
 
 7.  The criteria for determining the location of sampling points for the measurement of arsenic, cadmium, nickel and benzo(a)pyrene in ambient air in order to assess compliance with the target values shall be those listed in Sections I and II of Annex III. The minimum number of sampling points for fixed measurements of concentrations of each pollutant shall be as laid down in Section IV of Annex III, and they shall be installed in each zone or agglomeration within which measurement is required if fixed measurement is the sole source of data on concentrations within it.
 
-8.  To assess the contribution of benzo(a)pyrene in ambient air, each Member State shall monitor other relevant polycyclic aromatic hydrocarbons at a limited number of measurement sites.  These compounds shall include at least: benzo(a)anthracene, benzo(b)fluoranthene, benzo (j)fluoranthene, benzo(k)fluoranthene, indeno(1,2,3-cd)pyrene, and dibenz(a,h)anthracene. Monitoring sites for these polycyclic aromatic hydrocarbons shall be co-located with sampling sites for benzo(a) pyrene and shall be selected in such a way that geographical variation and long- term trends can be identified. Sections I, II and III of Annex III shall apply.
+8.  To assess the contribution of benzo(a)pyrene in ambient air, each Member State shall monitor other relevant polycyclic aromatic hydrocarbons at a limited number of measurement sites.  These compounds shall include at least: benzo(a)anthracene, benzo(b)fluoranthene, benzo (j)fluoranthene, benzo(k)fluoranthene, indeno(1,2,3-cd)pyrene, and dibenz(a,h)anthracene. Monitoring sites for these polycyclic aromatic hydrocarbons shall be co-located with sampling sites for benzo(a) pyrene and shall be selected in such a way that geographical variation and long-term trends can be identified. Sections I, II and III of Annex III shall apply.
 
-9.  Irrespective of concentration levels, one background sampling point shall be installed every 100 000 km2 for the indicative measurement, in ambient air, of arsenic, cadmium, nickel, total gaseous mercury, benzo(a)pyrene and the other polycyclic aromatic hydrocarbons referred to in paragraph 8, and of the total deposition of arsenic, cadmium, mercury, nickel, benzo(a)pyrene and the other polycyclic aromatic hydrocarbons referred to in paragraph 8. Each Member State shall set up at least one measuring station. However,
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 Member States may, by agreement, and in accordance with guidelines to be drawn up under the regulatory procedure referred to in Article 6(2), set up one or several common measuring stations, covering neighbouring zones in adjoining Member States, to achieve the necessary spatial resolution. Measurement of particulate and gaseous divalent mercury is also recommended. Where appropriate, monitoring shall be coordinated with the European Monitoring and Evaluation of Pollutants (EMEP) monitoring strategy and measurement programme. The sampling sites for these pollutants shall be selected in such a way that geographical variation and long-term trends can be identified. Sections I, II and III of Annex III shall apply.
+9.  Irrespective of concentration levels, one background sampling point shall be installed every 100 000 km2 for the indicative measurement, in ambient air, of arsenic, cadmium, nickel, total gaseous mercury, benzo(a)pyrene and the other polycyclic aromatic hydrocarbons referred to in paragraph 8, and of the total deposition of arsenic, cadmium, mercury, nickel, benzo(a)pyrene and the other polycyclic aromatic hydrocarbons referred to in paragraph 8. Each Member State shall set up at least one measuring station. However, Member States may, by agreement, and in accordance with guidelines to be drawn up under the regulatory procedure referred to in Article 6(2), set up one or several common measuring stations, covering neighbouring zones in adjoining Member States, to achieve the necessary spatial resolution. Measurement of particulate and gaseous divalent mercury is also recommended. Where appropriate, monitoring shall be coordinated with the European Monitoring and Evaluation of Pollutants (EMEP) monitoring strategy and measurement programme. The sampling sites for these pollutants shall be selected in such a way that geographical variation and long-term trends can be identified. Sections I, II and III of Annex III shall apply.
 
 10.  The use of bio indicators may be considered where regional patterns of the impact on ecosystems are to be assessed.
 
@@ -190,13 +150,7 @@ Subsidiary 2010/126 Member States may, by agreement, and in accordance with guid
 
 14.  The date by which Member States shall inform the Commission of the methods used for the preliminary assessment of air quality under Article 11(1)(d) of Directive 96/62/EC shall be the date referred to in Article 10 of this Directive.
 
-15.  Any amendments necessary to adapt the provisions of this Article and of Section II of Annex II and of Annexes III, IV and V to scientific and technical progress shall be adopted by the Commission.  Those measures, designed to amend non-essential elements of this Directive, shall be adopted
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 in accordance with the regulatory procedure with scrutiny referred to in Article 6(3).  They may not result in any direct or indirect changes to target values.
+15.  Any amendments necessary to adapt the provisions of this Article and of Section II of Annex II and of Annexes III, IV and V to scientific and technical progress shall be adopted by the Commission.  Those measures, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 6(3).  They may not result in any direct or indirect changes to target values.
 
 Article 5
 
@@ -224,11 +178,7 @@ The information shall be transmitted for each calendar year, by no later than 30
 
 4.  The Commission shall adopt, in accordance with the regulatory procedure referred to in Article 6(2), any detailed arrangements for forwarding the information to be provided under paragraph 1 of this Article.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 Article 6
+Article 6
 
 Committee
 
@@ -250,11 +200,7 @@ Public information
 
 Information on any measures taken pursuant to Article 3 shall be made available to the organisations referred to in paragraph 1 of this Article.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 3.  The information shall be made available by means of, for example, Internet, press and other easily accessible media.
+3.  The information shall be made available by means of, for example, Internet, press and other easily accessible media.
 
 Article 8
 
@@ -278,11 +224,7 @@ Report and review
 
 (d) current and future requirements for informing the public and for the exchange of information between Member States and Commission;
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 (e) the experience acquired in the application of this Directive in Member States, and in particular the conditions under which measurement has been carried out as laid down in Annex III;
+(e) the experience acquired in the application of this Directive in Member States, and in particular the conditions under which measurement has been carried out as laid down in Annex III;
 
 (f) secondary economic benefits for the environment and health in reducing the emissions of arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons to the extent that these can be assessed;
 
@@ -299,12 +241,6 @@ Article 9
 Penalties
 
 Member States shall determine the penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all the measures necessary to ensure that they are implemented.  The penalties provided for must be effective, proportionate and dissuasive.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
 
 Article 10
 
@@ -327,9 +263,3 @@ Article 12
 Addressees
 
 This Directive is addressed to the Member States.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

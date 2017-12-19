@@ -22,11 +22,7 @@ PUBLIC INFORMATION
 
 (b) forecast for the following afternoon/day(s):
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 - geographical area of expected exceedances of information and/or alert threshold,
+- geographical area of expected exceedances of information and/or alert threshold,
 
 - expected changes in pollution (improvement, stabilisation or deterioration), together with the reasons for those changes;
 
@@ -43,9 +39,3 @@ Subsidiary 2010/126 - geographical area of expected exceedances of information a
 (d) information on preventive action to reduce pollution and/or exposure to it: indication of main source sectors; recommendations for action to reduce emissions;
 
 (e) in the case of predicted exceedances, Member State shall take steps to ensure that such details are supplied to the extent practicable.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

@@ -1,28 +1,18 @@
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+Subsidiary Legislation made under s.18(c).
 
-2005-27
+Environment (Air Quality Standards) Regulations 2010
 
-Subsidiary 2010/126 Subsidiary Legislation made under s. 18(c).
-
-ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-(LN. 2010/126)
+LN.2010/126
 
 Commencement 15.7.2010
 
-Amending enactments Relevant current provisions Commencement date
-
-LN.   2011/148 r. 32A 22.9.2011 2016/242 Sch. 1 & 2 31.12.2016
+Amending enactments Relevant current provisions Commencement date LN. 2011/148 r. 32A 22.9.2011 2016/242 Schs. 1-2 31.12.2016 2017/247 r. 26(5A)-(5B), (8) 19.12.2017
 
 EU Legislation/International Agreements involved: Directive 2004/107/EC Directive 2008/50/EC Directive 2008/99/EC Directive 2015/2193/EU Council Regulation (EC) No 219/2009 Commission Directive (EU) 2015/1480
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+ARRANGEMENT OF REGULATIONS
 
-2005-27
-
-Subsidiary 2010/126
-
-ARRANGEMENT OF REGULATIONS.
+Regulation
 
 PART 1 GENERAL
 
@@ -44,13 +34,9 @@ PART 3
 
 Duties of Minister in relation to limit values etc.
 
-17. Duty in relation to limit values. 18. Duty in relation to target values. 19. Postponement or exemption from compliance with limit values. 20. Duty in relation to long-term objectives for ozone. 21. Duty in relation to information and alert thresholds. 22. Duty in relation to critical levels for the protection of vegetation.
+17. Duty in relation to limit values. 18. Duty in relation to target values. 19. Postponement or exemption from compliance with limit values.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
+20. Duty in relation to long-term objectives for ozone. 21. Duty in relation to information and alert thresholds. 22. Duty in relation to critical levels for the protection of vegetation.
 
 PART 4
 
@@ -80,10 +66,8 @@ PART 7
 
 SCHEDULE 1 Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe
 
-SCHEDULE 2 Directive 2004/107/EC of the European Parliament and of the Council of 15 December 2004 relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air
+SCHEDULE 2
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
+Directive 2004/107/EC of the European Parliament and of the Council of 15 December 2004 relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air
 
-2005-27
-
-Subsidiary 2010/126 In exercise of the powers conferred upon it by section 18(c) of the Environment Act 2005, and of all other enabling powers, and for the purpose of transposing into the law of Gibraltar Directive 2004/107/EC of the European Parliament and of the Council relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic carbons in ambient air as amended by Council Regulation (EC) No 219/2009 of the European Parliament and of the Council of 11 March 2009, and Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe, the Government has made the following Regulations–
+In exercise of the powers conferred upon it by section 18(c) of the Environment Act 2005, and of all other enabling powers, and for the purpose of transposing into the law of Gibraltar Directive 2004/107/EC of the European Parliament and of the Council relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic carbons in ambient air as amended by Council Regulation (EC) No 219/2009 of the European Parliament and of the Council of 11 March 2009, and Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe, the Government has made the following Regulations–

@@ -17,9 +17,3 @@ Measurement of ozone precursor substances shall include at least nitrogen oxides
 C. Siting
 
 Measurements shall be taken in particular in urban or suburban areas at any monitoring site set up in accordance with the requirements of this Directive and considered appropriate with regard to the monitoring objectives referred to in Section A.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

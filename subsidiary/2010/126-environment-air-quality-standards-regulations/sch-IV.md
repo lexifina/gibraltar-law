@@ -15,9 +15,3 @@ SO42– Na+ NH4+ Ca2+ elemental carbon (EC) NO3– K+ Cl– Mg2+ organic carbon 
 C. Siting
 
 Measurements should be taken in particular in rural background areas in accordance with parts A, B and C of Annex III.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

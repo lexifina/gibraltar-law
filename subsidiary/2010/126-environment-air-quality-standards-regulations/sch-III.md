@@ -22,15 +22,11 @@ B. Macroscale siting of sampling points
 
 (a) Sampling points directed at the protection of human health shall be sited in such a way as to provide data on the following:
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 - the areas within zones and agglomerations where the highest concentrations occur to which the population is likely to be directly or indirectly exposed for a period which is significant in relation to the averaging period of the limit value(s),
+- the areas within zones and agglomerations where the highest concentrations occur to which the population is likely to be directly or indirectly exposed for a period which is significant in relation to the averaging period of the limit value(s),
 
 - levels in other areas within the zones and agglomerations which are representative of the exposure of the general population,
 
-(b) Sampling points shall in general be sited in such a way as to avoid measuring very small micro-environments in their immediate vicinity, which means that a sampling point must be sited in such a way that the air sampled is representative of air quality for a street segment no less than 100 m length at traffic- orientated sites and at least 250 m × 250 m at industrial sites, where feasible;
+(b) Sampling points shall in general be sited in such a way as to avoid measuring very small micro-environments in their immediate vicinity, which means that a sampling point must be sited in such a way that the air sampled is representative of air quality for a street segment no less than 100 m length at traffic-orientated sites and at least 250 m × 250 m at industrial sites, where feasible;
 
 (c) Urban background locations shall be located so that their pollution level is influenced by the integrated contribution from all sources upwind of the station. The pollution level should not be dominated by a single source unless such a situation is typical for a larger urban area. Those sampling points shall, as a general rule, be representative for several square kilometres;
 
@@ -43,12 +39,6 @@ Subsidiary 2010/126 - the areas within zones and agglomerations where the highes
 (g) Account shall be taken of the need to locate sampling points on islands where that is necessary for the protection of human health.
 
 2.  Protection of vegetation and natural ecosystems
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
 
 Sampling points targeted at the protection of vegetation and natural ecosystems shall be sited more than 20 km away from agglomerations or more than 5 km away from other built-up areas, industrial installations or motorways or major roads with traffic counts of more than 50 000 vehicles per day, which means that a sampling point must be sited in such a way that the air sampled is representative of air quality in a surrounding area of at least 1000 km2. A Member State may provide for a sampling point to be sited at a lesser distance or to be representative of air quality in a less extended area, taking account of geographical conditions or of the opportunities to protect particularly vulnerable areas.
 
@@ -67,12 +57,6 @@ In so far as is practicable, the following shall apply:
 - the sampler’s exhaust outlet shall be positioned so that recirculation of exhaust air to the sampler inlet is avoided,
 
 - for all pollutants, traffic-orientated sampling probes shall be at least 25 m from the edge of major junctions and no more than 10 m from the kerbside.,
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
 
 The following factors may also be taken into account:
 
@@ -95,9 +79,3 @@ The following factors may also be taken into account:
 D. Documentation and review of site selection
 
 The site-selection procedures shall be fully documented at the classification stage by such means as compass-point photographs of the surrounding area and a detailed map. Sites shall be reviewed at regular intervals with repeated documentation to ensure that selection criteria remain valid over time.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

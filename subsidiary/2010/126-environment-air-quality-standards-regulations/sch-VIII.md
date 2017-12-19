@@ -12,9 +12,7 @@ to assess the exposure of the urban population to ozone, i.e. where population d
 
 vented locations where well mixed levels can be measured;
 
-locations such as residential and commercial areas of cities, parks (away from the trees), big streets or squares with very little or no traffic, open areas characteristic of educational, sports or recreation facilities
-
-Suburban Protection of human health and vegetation:
+locations such as residential and commercial areas of cities, parks (away from the trees), big streets or squares with very little or no traffic, open areas characteristic of educational, sports or recreation facilities Suburban Protection of human health and vegetation:
 
 to assess the exposure of the population and vegetation located in the outskirts of the agglomeration, where the highest ozone levels, to which the population and vegetation are likely to be directly or indirectly exposed occur
 
@@ -22,11 +20,9 @@ Some tens of km2 At a certain distance from the area of maximum emissions, downw
 
 where population, sensitive crops or natural ecosystems located in the outer fringe of an agglomeration are exposed to high ozone levels;
 
-where appropriate, some suburban stations also upwind of the area of maximum emissions, in order to determine the regional background levels of ozone
+where appropriate, some suburban stations also upwind of the area of maximum emissions, in order to determine the regional background levels of ozone Rural Protection of human health and vegetation:
 
-Rural Protection of human health and vegetation:
-
-to assess the exposure of population, crops and natural ecosystems to sub- regional scale ozone concentrations
+to assess the exposure of population, crops and natural ecosystems to sub-regional scale ozone concentrations
 
 Sub-regional levels
 
@@ -40,7 +36,7 @@ Rural background Protection of vegetation and human health:
 
 to assess the exposure of crops and natural ecosystems to regional-scale ozone concentrations as well as exposure of the population
 
-Regional/national/c ontinental levels
+Regional/national/continental levels
 
 (1 000 to 10 000 km2)
 
@@ -48,17 +44,9 @@ Station located in areas with lower population density, e.g. with natural ecosys
 
 avoid locations which are subject to locally enhanced formation of ground-near inversion conditions, also summits of higher mountains;
 
-coastal sites with pronounced diurnal wind cycles of local character are not recommended.
+coastal sites with pronounced diurnal wind cycles of local character are not recommended. (1) Sampling points should, where possible, be representative of similar locations not in their immediate vicinity.
 
-(1)  Sampling points should, where possible, be representative of similar locations not in their immediate vicinity.
-
-For rural and rural background stations the location shall, where appropriate, be coordinated with the monitoring requirements of Commission Regulation (EC) No 1737/2006 of 7 November 2006 laying down detailed rules for the
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 implementation of Regulation (EC) No 2152/2003 of the European Parliament and of the Council concerning monitoring of forests and environmental interactions in the Community (1). ____________ (1) OJ L 334, 30.11.2006, p. 1.
+For rural and rural background stations the location shall, where appropriate, be coordinated with the monitoring requirements of Commission Regulation (EC) No 1737/2006 of 7 November 2006 laying down detailed rules for the implementation of Regulation (EC) No 2152/2003 of the European Parliament and of the Council concerning monitoring of forests and environmental interactions in the Community (1). ____________ (1) OJ L 334, 30.11.2006, p. 1.
 
 B. Microscale siting
 
@@ -67,9 +55,3 @@ In so far as is practicable the procedure on microscale siting in Section C of A
 C. Documentation and review of site selection
 
 The procedures in Section D of Annex III shall be followed, applying proper screening and interpretation of the monitoring data in the context of the meteorological and photochemical processes affecting the ozone concentrations measured at the respective sites.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

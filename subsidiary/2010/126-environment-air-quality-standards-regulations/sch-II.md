@@ -20,13 +20,9 @@ Hourly limit value for the protection of human health (NO2) Annual limit value f
 
 4.  Lead
 
-Annual average Upper assessment threshold 70 % of limit value (0,35 µg/m3) Lower assessment threshold 50 % of limit value (0,25 µg/m3)
+Annual average Upper assessment threshold 70 % of limit value (0,35 µg/m3)
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
+Lower assessment threshold 50 % of limit value (0,25 µg/m3)
 
 5.  Benzene
 
@@ -41,9 +37,3 @@ B. Determination of exceedances of upper and lower assessment thresholds
 Exceedances of upper and lower assessment thresholds shall be determined on the basis of concentrations during the previous five years where sufficient data are available. An assessment threshold shall be deemed to have been exceeded if it has been exceeded during at least three separate years out of those previous five years.
 
 Where fewer than five years’ data are available, Member States may combine measurement campaigns of short duration during the period of the year and at locations likely to be typical of the highest pollution levels with results obtained from information from emission inventories and modelling to determine exceedances of the upper and lower assessment thresholds.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126

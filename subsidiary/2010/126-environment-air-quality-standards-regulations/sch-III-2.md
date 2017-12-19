@@ -12,19 +12,15 @@ The sites of sampling points should be selected in such a way as to:
 
 — provide data on deposition rates representing the indirect exposure of the population through the food chain.
 
-Sampling points should in general be sited so as to avoid measuring very small micro-environments in their immediate vicinity.  As a guideline, a sampling point should be representative of air quality in surrounding areas of no less than 200 m2 at traffic-orientated sites, at least 250 m × 250 m at industrial sites, where feasible, and several square kilometres at urban- background sites.
+Sampling points should in general be sited so as to avoid measuring very small micro- environments in their immediate vicinity.  As a guideline, a sampling point should be representative of air quality in surrounding areas of no less than 200 m2 at traffic-orientated sites, at least 250 m × 250 m at industrial sites, where feasible, and several square kilometres at urban-background sites.
 
 Where the objective is to assess background levels the sampling site should not be influenced by agglomerations or industrial sites in its vicinity, i.e. sites closer than a few kilometres.
 
-Where contributions from industrial sources are to be assessed, at least one sampling point shall be installed downwind of the source in the nearest residential area.  Where the background concentration is not known, an additional sampling point shall be situated within the main wind direction. In  articular where Article 3(3) applies, the sampling points should be sited such that the application of BAT can be monitored.
+Where contributions from industrial sources are to be assessed, at least one sampling point shall be installed downwind of the source in the nearest residential area.  Where the background concentration is not known, an additional sampling point shall be situated within the main wind direction. In articular where Article 3(3) applies, the sampling points should be sited such that the application of BAT can be monitored.
 
 Sampling points should also, where possible, be representative of similar locations not in their immediate vicinity.  Where appropriate they should be co-located with sampling points for PM10.
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126 II. Microscale siting
+II. Microscale siting
 
 The following guidelines should be met as far as practicable:
 
@@ -52,12 +48,6 @@ The following factors may also be taken into account:
 
 — visibility of the site in relation to its surroundings
 
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
-
 — safety of the public and operators
 
 — the desirability of co-locating sampling points for different pollutants
@@ -81,15 +71,3 @@ Population of agglomeration or zone (thousands) If maximum concentrations exceed
 For the assessment of pollution in the vicinity of point sources, the number of sampling points for fixed measurement should be determined taking into account emission densities, the likely distribution patterns of ambient air pollution and potential exposure of the population.
 
 The sampling points should be sited such that the application of BAT as defined by Article 2(11) of Directive 96/61/EC can be monitored.
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
-
-Environment ENVIRONMENT (AIR QUALITY STANDARDS) REGULATIONS 2010
-
-2005-27
-
-Subsidiary 2010/126
