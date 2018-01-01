@@ -10,7 +10,7 @@ IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1.1.1987
 
-Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995 1995/103 Sch. 1 6.7.1995 1995/114 r. 6A, Sch. 2 16.8.1995 1999/165 r. 9 2.12.1999 2000/070 Sch. 1 22.9.2000 2006/051 Sch. 1 27.4.2006 Act. 2007-17 rr. 4(2), 12, Sch. 1 14.6.2007 LN. 2008/098 Sch. 1 11.12.2008 2010/015 Sch. 1 21.1.2010 2017/189 rr. 9(2)-(3), 13, Schs. 5-6 14.9.2017 2017/2251 Sch. 1 20.11.2017
+Amending enactments Relevant current provisions Commencement date LN. 1987/145 Sch. 1 5.11.1987 1988/067 Sch. 2 16.6.1988 1989/046 Schs. 1-2 1.6.1989 1989/087 Sch. 1 12.10.1989 1989/105 Sch. 1 7.12.1989 1990/006 Sch. 1 8.1.1990 1990/087 Sch. 1 12.7.1990 1990/017 Sch. 1 1.12.1990 1991/101 r. 5(1)-(2), Schs. 2, 6 6.6.1991 1991/190 Sch. 2 10.10.1991 1994/049 r. 10 26.5.1994 1995/124 r. 11A 9.6.1995 1995/103 Sch. 1 6.7.1995 1995/114 r. 6A, Sch. 2 16.8.1995 1999/165 r. 9 2.12.1999 2000/070 Sch. 1 22.9.2000 2006/051 Sch. 1 27.4.2006 Act. 2007-17 rr. 4(2), 12, Sch. 1 14.6.2007 LN. 2008/098 Sch. 1 11.12.2008 2010/015 Sch. 1 21.1.2010 2017/189 rr. 9(2)-(3), 13, Schs. 5-6 14.9.2017 2017/2251 Sch. 1 20.11.2017 2017/255 r. 6B, Schs. 1, 6 1.1.2018
 
 Transposing: Directive 92/3/Euratom
 
@@ -28,7 +28,7 @@ Regulation
 
 Imports.
 
-2. Prohibited imports. 3. General licence. 4. Licences for particular goods. 5. Authorities for issue of licences. 6. Conditions of import licences. 6A. Circumstances in which goods may be forfeit.
+2. Prohibited imports. 3. General licence. 4. Licences for particular goods. 5. Authorities for issue of licences. 6. Conditions of import licences. 6A. Circumstances in which goods may be forfeit. 6B. Prohibited exports.
 
 Exports.
 
@@ -56,9 +56,13 @@ Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006 SCHEDULE 4. Goods which may be exported to any destination.
+Subsidiary 1987/006
+
+SCHEDULE 4. Goods which may be exported to any destination.
 
 SCHEDULE 5. Conditions of export licences.
+
+SCHEDULE 6. PROHIBITED EXPORTS.
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
@@ -116,21 +120,23 @@ Circumstances in which goods may be forfeit.
 
 Provided that this regulation shall not apply where the Collector of Customs is satisfied that the ship or vessel, as the case may be, entered territorial waters only for the purpose of maintaining safety at sea and the ship or vessel is surrendered to the custody of the Collector until such time as the ship or vessel leaves territorial waters, being a period of time no longer than is in the opinion of the Collector, acting on the advice of the Captain of the Port, necessary for safety purposes.
 
+Prohibited exports.
+
+6B.  The exportation of the goods specified in Schedule 6 is prohibited, subject to the provision of that Schedule.
+
 Exports.
 
 Goods freely exportable.
 
 7. The goods specified in Schedule 4 may be exported to any destination:
 
-Provided that nothing in this regulation shall permit the exportation of any goods the exportation of which has been specifically prohibited, restricted or regulated.
-
-Goods in transit.
-
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006
+Subsidiary 1987/006 Provided that nothing in this regulation shall permit the exportation of any goods the exportation of which has been specifically prohibited, restricted or regulated.
+
+Goods in transit.
 
 8.(1)  Any goods arriving in Gibraltar in transit or through bills of lading or otherwise may be exported without licence to any country.
 
@@ -154,15 +160,15 @@ Restrictions on exports to South Africa.
 
 10. Notwithstanding anything contained in regulations 7 and 8, no arms or military equipment may be exported to the Republic of South Africa or to any other destination where to do so, would be a contravention of an embargo imposed by a resolution of the Security Council of the United Nations.
 
-Conditions of export licences.
-
-11. An export licence granted under regulation 9–
-
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006 (a) shall be personal to the person named therein and shall not be transferred or assigned without the permission of the Collector;
+Subsidiary 1987/006 Conditions of export licences.
+
+11. An export licence granted under regulation 9–
+
+(a) shall be personal to the person named therein and shall not be transferred or assigned without the permission of the Collector;
 
 (b) may be subject to all or any of the conditions set out in Schedule 5, as the Collector may think fit.
 
