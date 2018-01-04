@@ -6,12 +6,6 @@ OJSC Stankoinstrument
 
 OAO JSC Chemcomposite
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152
-
 JSC Kalashnikov
 
 JSC Tula Arms Plant

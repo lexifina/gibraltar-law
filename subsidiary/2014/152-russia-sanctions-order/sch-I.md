@@ -16,21 +16,11 @@ Whereas:
 
 (3)  It is appropriate to apply restrictions on exports of certain dual-use goods and technology, as laid down in Council Regulation (EC) No 428/2009, and on the provision of related services and to apply restrictions on certain services related to the supply of arms and military equipment, if an embargo on such goods is applied by the Member States. This prohibition should not affect the exports of dual-use goods and technology, including for aeronautics and for the space industry, for non-military use or for a non-military end-user.
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 (4)  It is also appropriate to apply restrictions on the sale, supply, transfer or export, directly or indirectly, of certain technologies for the oil industry in Russia in the form of a prior authorisation requirement.
+(4)  It is also appropriate to apply restrictions on the sale, supply, transfer or export, directly or indirectly, of certain technologies for the oil industry in Russia in the form of a prior authorisation requirement.
 
 (5)  It is also appropriate to apply restrictions on access to the capital market for certain financial institutions, excluding Russia-based institutions with international status established by intergovernmental agreements with Russia as one of the shareholders. Other financial services such as deposit business, payment services and loans to or from the institutions covered by this Regulation, other than those referred to in Article 5, are not covered by this Regulation.
 
-(6)   In order to put pressure on the Russian Government, it is also appropriate to apply further restrictions on access to the capital market for certain financial institutions, excluding Russia-based institutions with international status established by intergovernmental agreements with Russia as one of the shareholders; restrictions on legal persons, entities or bodies established in Russia in the defence sector, with the exception of those mainly active in the space and nuclear energy industry; and restrictions on legal persons, entities or bodies established in Russia whose main activities relate to the sale or transportation of crude oil or petroleum products. Financial services other than those referred to in Article 5 of Regulation (EU) No 833/2014, such as deposit services, payment services, insurance services, loans from the institutions referred to in Article 5(1) and (2) of that Regulation and derivatives used for hedging purposes in the energy market are not covered by these restrictions.
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152
+(6)   In order to put pressure on the Russian Government, it is also appropriate to apply further restrictions on access to the capital market for certain financial institutions, excluding Russia- based institutions with international status established by intergovernmental agreements with Russia as one of the shareholders; restrictions on legal persons, entities or bodies established in Russia in the defence sector, with the exception of those mainly active in the space and nuclear energy industry; and restrictions on legal persons, entities or bodies established in Russia whose main activities relate to the sale or transportation of crude oil or petroleum products. Financial services other than those referred to in Article 5 of Regulation (EU) No 833/2014, such as deposit services, payment services, insurance services, loans from the institutions referred to in Article 5(1) and (2) of that Regulation and derivatives used for hedging purposes in the energy market are not covered by these restrictions.
 
 HAS ADOPTED THIS REGULATION:
 
@@ -60,12 +50,6 @@ For the purposes of this Regulation, the following definitions apply–
 
 (iv) portfolio management,
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152
-
 (v) investment advice,
 
 (vi) underwriting of financial instruments and/or placing of financial instruments on a firm commitment basis,
@@ -90,11 +74,7 @@ Subsidiary 2014/152
 
 Article 2
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 1.  It shall be prohibited to sell, supply, transfer or export, directly or indirectly, dual-use goods and technology, whether or not originating in the Union, to any natural or legal person, entity or body in Russia or for use in Russia, if those items are or may be intended, in their entirety or in part, for military use or for a military end-user. Where the end-user is the Russian military, any dual-use goods and technology procured by it shall be deemed to be for military use.
+1.  It shall be prohibited to sell, supply, transfer or export, directly or indirectly, dual-use goods and technology, whether or not originating in the Union, to any natural or legal person, entity or body in Russia or for use in Russia, if those items are or may be intended, in their entirety or in part, for military use or for a military end-user. Where the end-user is the Russian military, any dual-use goods and technology procured by it shall be deemed to be for military use.
 
 2.  When deciding on requests for authorisations in accordance with Council Regulation (EC) No 428/2009, the competent authorities shall not grant an authorisation for exports to any natural or legal person, entity or body in Russia or for use in Russia, if they have reasonable grounds to believe that the end-user might be a military end-user or that the goods might have a military end-use. The competent authorities may, however, grant an authorisation where the export concerns the execution of an obligation arising from a contract or an agreement concluded before 1 August 2014, or ancillary contracts necessary for the execution of such a contract.
 
@@ -108,13 +88,7 @@ Article 2a
 
 (b) to provide financing or financial assistance related to goods and technology referred to in paragraph 1, including in particular grants, loans and export credit insurance, for any sale, supply, transfer or export of these goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any person, entity or body in in Russia, as listed in Annex IV.
 
-3.  The prohibitions in paragraphs 1 and 2 shall be without prejudice to the execution of contracts concluded before 12 September 2014, or ancillary contracts necessary for the execution of such contracts, and to the provision
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 of assistance necessary for the maintenance and safety of existing capabilities within the EU.
+3.  The prohibitions in paragraphs 1 and 2 shall be without prejudice to the execution of contracts concluded before 12 September 2014, or ancillary contracts necessary for the execution of such contracts, and to the provision of assistance necessary for the maintenance and safety of existing capabilities within the EU.
 
 4.  The prohibitions in paragraphs 1 and 2 shall not apply to the sale, supply, transfer or export of dual use goods and technology intended for the aeronautics and space industry, or the related provision of technical and financial assistance, for non military use and for a non military end user, as well as for maintenance and safety of existing civil nuclear capabilities within the EU, for non military use and for a non military end user.
 
@@ -134,11 +108,7 @@ Article 3
 
 4.  Exporters shall supply the competent authorities with all relevant information required for their application for an export authorisation.
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 5.  The competent authorities shall not grant any authorisation for any sale, supply, transfer or export of the items included in Annex II, if they have reasonable grounds to determine that the sale, supply, transfer or export of the items are destined for any of the categories of exploration and production projects referred to in paragraph 3.
+5.  The competent authorities shall not grant any authorisation for any sale, supply, transfer or export of the items included in Annex II, if they have reasonable grounds to determine that the sale, supply, transfer or export of the items are destined for any of the categories of exploration and production projects referred to in paragraph 3.
 
 The competent authorities may, however, grant an authorisation where the sale, supply, transfer or export concerns the execution of an obligation arising from a contract concluded before 1 August 2014, or ancillary contracts necessary for the execution of such a contract.
 
@@ -152,13 +122,7 @@ The competent authorities may also grant an authorisation where the sale, supply
 
 Article 3a
 
-1.  It shall be prohibited to provide, directly or indirectly, associated services necessary for the following categories of exploration and
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 production projects in Russia, including its Exclusive Economic Zone and Continental Shelf–
+1.  It shall be prohibited to provide, directly or indirectly, associated services necessary for the following categories of exploration and production projects in Russia, including its Exclusive Economic Zone and Continental Shelf–
 
 (a) oil exploration and production in waters deeper than 150 metres;
 
@@ -168,7 +132,7 @@ Subsidiary 2014/152 production projects in Russia, including its Exclusive Econo
 
 For the purpose of this paragraph, associated services shall mean–
 
-(i) drilling;
+(i)  drilling;
 
 (ii) well testing;
 
@@ -184,13 +148,7 @@ Article 4
 
 1.  It shall be prohibited–
 
-(a) to provide, directly or indirectly, technical assistance related to the goods and technology listed in the Common Military List (1), or related to the provision, manufacture, maintenance and
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 use of goods included in that list, to any natural or legal person, entity or body in Russia or for use in Russia;
+(a) to provide, directly or indirectly, technical assistance related to the goods and technology listed in the Common Military List (1), or related to the provision, manufacture, maintenance and use of goods included in that list, to any natural or legal person, entity or body in Russia or for use in Russia;
 
 (b) to provide, directly or indirectly, financing or financial assistance related to the goods and technology listed in the Common Military List, including in particular grants, loans and export credit insurance or guarantee, for any sale, supply, transfer or export of such items, or for any provision of related technical assistance to any natural or legal person, entity or body in Russia or for use in Russia;
 
@@ -204,41 +162,37 @@ Subsidiary 2014/152 use of goods included in that list, to any natural or legal 
 
 (a) the sale, supply, transfer or export and to the import, purchase or transport of Hydrazine (CAS 302-01-2) in concentrations of 70 per cent or more, provided that that technical assistance, financing or financial assistance refers to an amount of Hydrazine calculated in accordance with the launch or launches or the satellites for which it is made, and which does not exceed a total quantity of 800 kg for each individual launch or satellite;
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152
-
-(b) the import, purchase or transport of Unsymmetrical dimethyl hydrazine (CAS 57-14-7);
+(b) the import, purchase or transport of Unsymmetrical dimethyl hydrazine (CAS 57- 14-7);
 
 (c) the sale, supply, transfer or export and to the import, purchase or transport of monomethyl hydrazine (CAS60-34-4), provided that that technical assistance, financing or financial assistance refers to an amount of Monomethyl Hydrazine calculated in accordance with the launch or launches or the satellites for which it is made,
 
 insofar as the substances mentioned in points (a), (b) and (c) of this paragraph are destined for the use of launchers operated by European launch service providers, for the use of launches of European space programmes, or for the fuelling of satellites by European satellites manufacturers.
 
-2b. The provision, directly or indirectly, of technical assistance, financing or financial assistance, related to the operations referred to in points (a), (b) and (c) of paragraph 2a shall be subject to prior authorisation by the competent authorities.
+2aa. The prohibitions in points (a) and (b) of paragraph 1 shall not apply to the provision, directly or indirectly, of technical assistance, financing or financial assistance related to the sale, supply, transfer or export and the import, purchase or transport of hydrazine (CAS 302- 01-2) in concentrations of 70 % or more, provided that that technical assistance, financing or financial assistance refers to hydrazine destined for-
 
-Applicants for authorisation shall supply the competent authorities with all relevant information required.
+(a) the tests and flight of the ExoMars descent module in the framework of the ExoMars 2020 mission, in an amount calculated in accordance with the needs of each phase of that mission, which does not exceed a total of 5,000 kg for the entire duration of the mission; or
 
-The competent authorities shall inform the Commission of all the authorisations granted.
+(b) the flight of the ExoMars carrier module in the framework of the ExoMars 2020 mission, in an amount calculated in accordance with the needs of the flight which does not exceed a total of 300 kg.
+
+2b. The provision, directly or indirectly, of technical assistance, financing or financial assistance, related to the operations in paragraphs 2a and 2aa shall be subject to the prior authorisation by the competent authorities.
+
+Applicants for authorisation shall supply the competent authority with all relevant information required.
+
+The competent authorities shall inform the Commission of the authorisations granted.
 
 3. The provision of the following shall be subject to an authorisation from the competent authority concerned–
 
-(a) technical assistance or brokering services related to items listed in Annex II and to the provision, manufacture, maintenance and use of those items, directly or indirectly, to any natural or legal person, entity or body in Russia, including its Exclusive Economic Zone and Continental Shelf or, if such assistance concerns items for use in Russia, including its Exclusive Economic Zone and Continental Shelf, to any person, entity or body in any other State;
+(a)  technical assistance or brokering services related to items listed in Annex II and to the provision, manufacture, maintenance and use of those items, directly or indirectly, to any natural or legal person, entity or body in Russia, including its Exclusive Economic Zone and Continental Shelf or, if such assistance concerns items for use in Russia, including its Exclusive Economic Zone and Continental Shelf, to any person, entity or body in any other State;
 
-(b) financing or financial assistance related to items referred to in Annex II, including in particular grants, loans and export credit insurance, for any sale, supply, transfer or export of those items, or for any provision of related technical assistance, directly or indirectly, to any natural or legal person, entity or body in Russia, including its Exclusive Economic Zone and Continental Shelf or, if such assistance concerns items for use
+(b)  financing or financial assistance related to items referred to in Annex II, including in particular grants, loans and export credit insurance, for any sale, supply, transfer or export of those items, or for any provision of related technical assistance, directly or indirectly, to any natural or legal person, entity or body in Russia, including its Exclusive Economic Zone and Continental Shelf or, if such assistance concerns items for use in Russia, including its Exclusive Economic Zone and Continental Shelf, to any person, entity or body in any other State.
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 in Russia, including its Exclusive Economic Zone and Continental Shelf, to any person, entity or body in any other State. In duly justified cases of emergency referred to in Article 3(5), the provision of services referred to in this paragraph may proceed without prior authorisation, on condition that the provider notifies the competent authority within five working days after the provision of services.
+In duly justified cases of emergency referred to in Article 3(5), the provision of services referred to in this paragraph may proceed without prior authorisation, on condition that the provider notifies the competent authority within five working days after the provision of services.
 
 4.  Where authorisations are requested pursuant to paragraph 2 of this Article, Article 3, and in particular paragraphs 2 and 5 thereof, shall apply mutatis mutandis.
 
 Article 5
 
-1.  It shall be prohibited to directly or indirectly purchase, sell, provide investment services for or assistance in the issuance of, or otherwise deal with transferable securities and money-market instruments with a maturity exceeding 90 days, issued after 1 August 2014 to 12 September 2014, or with a maturity exceeding 30 days, issued after 12 September 2014 by–
+1.  It shall be prohibited to directly or indirectly purchase, sell, provide investment services for or assistance in the issuance of, or otherwise deal with transferable securities and money- market instruments with a maturity exceeding 90 days, issued after 1 August 2014 to 12 September 2014, or with a maturity exceeding 30 days, issued after 12 September 2014 by–
 
 (a) a major credit institution, or other major institution having an explicit mandate to promote competitiveness of the Russian economy, its diversification and encouragement of investment, established in Russia with over 50% public ownership or control as of 1 August 2014, as listed in Annex III; or
 
@@ -246,15 +200,11 @@ Article 5
 
 (c) a legal person, entity or body acting on behalf or at the direction of an entity referred to in point (b) of this paragraph or listed in Annex III.
 
-2.  It shall be prohibited to directly or indirectly purchase, sell, provide investment services for or assistance in the issuance of, or otherwise deal with transferable securities and money-market instruments with a maturity exceeding 30 days, issued after 12 September 2014 by–
+2.  It shall be prohibited to directly or indirectly purchase, sell, provide investment services for or assistance in the issuance of, or otherwise deal with transferable securities and money- market instruments with a maturity exceeding 30 days, issued after 12 September 2014 by–
 
 (a) a legal person, entity or body established in Russia predominantly engaged and with major activities in the conception, production, sales or export of military equipment or services, as listed in Annex V, except legal persons, entities or bodies active in the space or the nuclear energy sectors;
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 (b) a legal person, entity or body established in Russia, which are publicly controlled or with over 50% public ownership and having estimated total assets of over 1 trillion Russian Roubles and whose estimated revenues originate for at least 50% from the sale or transportation of crude oil or petroleum products, as listed in Annex VI;
+(b) a legal person, entity or body established in Russia, which are publicly controlled or with over 50% public ownership and having estimated total assets of over 1 trillion Russian Roubles and whose estimated revenues originate for at least 50% from the sale or transportation of crude oil or petroleum products, as listed in Annex VI;
 
 (c) a legal person, entity or body established outside the Union whose proprietary rights are directly or indirectly owned for more than 50% by an entity listed in point (a) or (b) of this paragraph; or
 
@@ -273,12 +223,6 @@ The prohibition shall not apply to–
 (a)  all the terms and conditions of such drawdown or disbursements:
 
 (i)  were agreed before 12 September 2014; and
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152
 
 (ii) have not been modified on or after that date; and
 
@@ -308,11 +252,7 @@ Article 8
 
 Article 9
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 1.  Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex I. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex I.
+1.  Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex I. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex I.
 
 2.  Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
 
@@ -334,11 +274,7 @@ Article 11
 
 2.  In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the person seeking the enforcement of that claim.
 
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 3.  This Article is without prejudice to the right of the persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+3.  This Article is without prejudice to the right of the persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
 
 Article 12
 
@@ -367,139 +303,3 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 Done at Brussels, 31 July 2014.
 
 For the Council The President S. GOZI
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 ANNEX I
-
-Websites for information on the competent authorities and address for notification to the European Commission
-
-1. Information on competent authorities of the Member States
-
-BELGIUM
-
-http://www.diplomatie.be/eusanctions
-
-BULGARIA
-
-http://www.mfa.bg/en/pages/135/index.html
-
-CZECH REPUBLIC
-
-http://www.mfcr.cz/mezinarodnisankce
-
-DENMARK
-
-http://um.dk/da/politik-og-diplomati/retsorden/sanktioner/
-
-GERMANY
-
-http://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht, did=404888.html
-
-ESTONIA
-
-http://vm.ee/et/estonian-competent-authorities-implementation-eu- restrictive-measures
-
-IRELAND
-
-http://www.dfa.ie/home/index.aspx?id=28519
-
-GREECE
-
-http://www.mfa.gr/en/foreign-policy/global-issues/international- sanctions.html
-
-SPAIN
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 http://www.exteriores.gob.es/Portal/es/PoliticaExteriorCooperacion/Globali zacionOportunidadesRiesgos/Documents/ORGANISMOS%20COMPETEN TES%20SANCIONES%20INTERNACIONALES.pdf
-
-FRANCE
-
-http://www.diplomatie.gouv.fr/autorites-sanctions/
-
-CROATIA
-
-http://www.mvep.hr/sankcije
-
-ITALY
-
-http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm
-
-CYPRUS
-
-http://www.mfa.gov.cy/sanctions
-
-LATVIA
-
-http://www.mfa.gov.lv/en/security/4539
-
-LITHUANIA
-
-http://www.urm.lt/sanctions
-
-LUXEMBOURG
-
-http://www.mae.lu/sanctions
-
-HUNGARY
-
-http://2010-2014.kormany.hu/download/b/3b/70000/ENSZBT-ET- szankcios-tajekoztato.pdf
-
-MALTA
-
-https://www.gov.mt/en/Government/Government%20of%20Malta/Ministrie s%20and%20Entities/Officially% 20Appointed%20Bodies/Pages/Boards/Sanctions-Monitoring-Board-.aspx
-
-NETHERLANDS
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 www.rijksoverheid.nl/onderwerpen/internationale-vrede-en- veiligheid/sancties
-
-AUSTRIA http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=
-
-POLAND
-
-http://www.msz.gov.pl
-
-PORTUGAL
-
-http://www.portugal.gov.pt/pt/os-ministerios/ministerio-dos-negocios- estrangeiros/quero-saber-mais/sobre-o-ministerio/medidas- restritivas/medidas-restritivas.aspx
-
-ROMANIA
-
-http://www.mae.ro/node/1548
-
-SLOVENIA http://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_ politika/mednarodna_varnost/omejevalni_ ukrepi/
-
-SLOVAKIA
-
-http://www.mzv.sk/sk/europske_zalezitosti/europske_politiky-sankcie_eu
-
-FINLAND
-
-http://formin.finland.fi/kvyhteistyo/pakotteet
-
-SWEDEN
-
-http://www.ud.se/sanktioner
-
-UNITED KINGDOM
-
-https://www.gov.uk/sanctions-embargoes-and-restrictions
-
-2. Address for notifications to the European Commission:
-
-European Commission Service for Foreign Policy Instruments (FPI) EEAS 02/309 B-1049 Brussels
-
-Export Control RUSSIA SANCTIONS ORDER 2014
-
-2005-33
-
-Subsidiary 2014/152 Belgium E-mail: relex-sanctions@ec.europa.eu
