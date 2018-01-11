@@ -12,13 +12,13 @@ CATEGORIES OF ACTIVITIES TO WHICH THIS DIRECTIVE APPLIES
 
 5.  When the capacity threshold of any activity in this Annex is found to be exceeded in an installation, all units in which fuels are combusted, other than units for the incineration of hazardous or municipal waste, shall be included in the greenhouse gas emission permit.
 
-6.  From 1 January 2012 all flights which arrive at or depart from an aerodrome situated in the territory of a Member State to which the Treaty applies shall be included.
-
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 Activities Greenhouse gases Combustion of fuels in installations with a total rated thermal input exceeding 20 MW (except in installations for the incineration of hazardous or municipal waste)
+Subsidiary 2012/211 6.  From 1 January 2012 all flights which arrive at or depart from an aerodrome situated in the territory of a Member State to which the Treaty applies shall be included.
+
+Activities Greenhouse gases Combustion of fuels in installations with a total rated thermal input exceeding 20 MW (except in installations for the incineration of hazardous or municipal waste)
 
 Refining of mineral oil Carbon dioxide
 

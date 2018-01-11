@@ -18,6 +18,8 @@ Perfluorocarbons (PFCs)
 
 Sulphur Hexafluoride (SF6)
 
+Nitrogen trifluoride (NF3)
+
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
