@@ -8,9 +8,9 @@ Principal Act
 
 Act. No. 2006-23 Commencement (LN. 2007/027) 15.2.2007 Assent 7.11.2006
 
-Amending enactments Relevant current provisions Commencement date LN.  2010/080 ss. 7(6) & 14 29.4.2010
+Amending enactments Relevant current provisions Commencement date LN.  2010/080 ss. 7(6) & 14 29.4.2010 2018/010 s. 7(6) 13.1.2018
 
-Transposing: Directive 2002/65/EC Directive 2007/64/EC
+Transposing: Directive 2002/65/EC Directive 2007/64/EC Directive (EU) 2015/2366
 
 Financial Services (Distance Marketing)
 
