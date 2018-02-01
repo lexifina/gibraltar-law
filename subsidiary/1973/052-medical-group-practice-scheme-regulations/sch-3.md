@@ -26,7 +26,7 @@ Benefits and Scheme) Act 1997.
 
 does not apply
 
-£10
+£15
 
 Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
 
