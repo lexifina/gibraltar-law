@@ -12,7 +12,7 @@ Commencement 12.2.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/020 Sch. 2.2.2017
+LN. 2017/020 Sch. 2.2.2017 2018/029 Sch. 2.2.2018
 
 Transposing:
 
