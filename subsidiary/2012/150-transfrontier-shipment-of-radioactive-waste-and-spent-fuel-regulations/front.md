@@ -1,22 +1,22 @@
-Health Protection (Ionising Radiation) TRANSFRONTIER SHIPMENT OF RADIOACTIVE WASTE AND SPENT FUEL REGULATIONS 2012
+Subsidiary Legislation made under s.2.
 
-1995-09
+Transfrontier Shipment of Radioactive Waste and Spent Fuel Regulations 2012
 
-Subsidiary 2012/150 Subsidiary Legislation made under s. 2 the Health Protection (Ionising Radiation) Act 1995 and by section 23 of the Interpretation and General Clauses Act.
-
-TRANSFRONTIER SHIPMENT OF RADIOACTIVE WASTE AND SPENT FUEL REGULATIONS 2012
-
-(LN. 2012/150)
+LN.2012/150
 
 Commencement 1.11.2012
 
-Transposing: Directive 2006/117/Euratom
+Amending enactments Relevant current provisions Commencement date
 
-_______________________
+LN. 2018/024 r. 2 6.2.2018
+
+Transposing: Directive 2006/117/Euratom Directive 2013/59/EURATOM
 
 ARRANGEMENT OF REGULATIONS
 
-Regulation PART 1 Introduction
+Regulation
+
+PART 1 Introduction
 
 1. Title and commencement. 2. Interpretation. 3. Application of these Regulations.
 
@@ -26,11 +26,7 @@ PART 2 Shipments of radioactive waste or spent fuel
 
 PART 3 General
 
-Health Protection (Ionising Radiation) TRANSFRONTIER SHIPMENT OF RADIOACTIVE WASTE AND SPENT FUEL REGULATIONS 2012
-
-1995-09
-
-Subsidiary 2012/150 14. Unlawful shipments. 15. Notices. 16. Powers to give directions. 17. Penalties. 18. Application to the Crown and modifications relating to security of Gibraltar. 19. Charges by the competent authority. 20. Repeal. 21. Transitional provisions.
+14. Unlawful shipments. 15. Notices. 16. Powers to give directions. 17. Penalties. 18. Application to the Crown and modifications relating to security of Gibraltar. 19. Charges by the competent authority. 20. Revocation. 21. Transitional provisions.
 
 SCHEDULE 1 Procedures
 
@@ -39,11 +35,5 @@ Part 1 - Intra-Community Trade
 Part 2 - Third countries
 
 SCHEDULE 2 Notices
-
-Health Protection (Ionising Radiation) TRANSFRONTIER SHIPMENT OF RADIOACTIVE WASTE AND SPENT FUEL REGULATIONS 2012
-
-1995-09
-
-Subsidiary 2012/150
 
 In exercise of the powers conferred on it by section 2 the Health Protection (Ionising Radiation) Act 1995 and by section 23 of the Interpretation and General Clauses Act and for the purpose of transposing into the law of Gibraltar Council Directive 2006/117/Euratom of 20 November 2006 on the supervision and control of shipments of radioactive waste and spent fuel, the Government has made the following Regulations−
