@@ -1,115 +1,195 @@
-SCHEDULE 2 Regulation 2(1) ADEQUATE TRAINING
+SCHEDULE 2
 
-Practitioners and operators shall have successfully completed training, including theoretical knowledge and practical experience in–
+Adequate training
 
-(i) such of the subjects detailed in section A as are relevant to their functions as practitioner or operator; and
+1.  Practitioners and operators shall have successfully completed training, including theoretical knowledge and practical experience, in-
 
-(ii) such of the subjects detailed in section B as are relevant to their specific area of practice.
+(a) such of the subjects detailed in Table 1 as are relevant to their functions as practitioner or operator; and
 
-Section A Radiation production, radiation protection and statutory obligations relating to ionising radiations.
+(b) such of the subjects detailed in Table 2 as are relevant to their specific area of practice.
 
-1. Fundamental Physics of Radiation.
+Table 1 – Radiation production, radiation protection and statutory obligations relating to ionising radiations
 
-1.1 Properties of Radiation.
+Fundamental Physics of Radiation
 
-Attenuation of ionising radiation. Scattering and absorption.
+Properties of Radiation Excitation and ionisation
 
-1.2 Radiation Hazards and Dosimetry.
+Attenuation of ionising radiation
 
-Biological effects of radiation. Risks/benefits of radiation. Dose optimisation. Absorbed dose, dose equivalent, effective dose and their units.
+Scattering and absorption
 
-1.3 Special Attention Areas.
+Radiation Hazards and dosimetry Biological effects of radiation - stochastic and deterministic
 
-Pregnancy and potential pregnancy. Infants and children. Medical and biomedical research. Health screening. High dose techniques.
+Risks and benefits of radiation
 
-2. Management and Radiation Protection of the Patient.
+Absorbed dose, equivalent dose, effective dose, other dose indicators and their units
 
-Health Protection (Ionising Radiation) IONISING RADIATION (ADMINISTRATION OF RADIOACTIVE MEDICINAL PRODUCTS AND MEDICAL EXPOSURES) REGULATIONS 2002
+Management and Radiation Protection of the individual being exposed
 
-1995-09
+Special Attention Areas Pregnancy and potential pregnancy
 
-Subsidiary 2002/054 2.1 Patient Selection.
+Asymptomatic individuals
 
-Justification of the individual exposure. Patient identification and consent. Use of existing appropriate radiological information. Alternative techniques. Clinical evaluation of outcome. Medico-legal issues.
+Breastfeeding
 
-2.2 Radiation Protection.
+Infants and children
 
-General radiation protection. Use of radiation protection devices– - patient, - personal. Procedures for untoward incidents involving overexposure to ionising radiation.
+Medical and biomedical research
 
-3. Statutory Requirements and Advisory Aspects.
+Health screening
 
-3.1 Statutory Requirements and Non-Statutory Recommendations.
+Non-medical imaging
 
-Regulations. Local rules and procedures. Individual responsibilities relating to medical exposures. Routine inspection and testing of equipment. Notification of faults and Health Department Health Warnings of health hazards. Clinical audit.
+Carers and comforters
 
-Section B. Diagnostic radiology, radiotherapy and nuclear medicine
+High dose techniques
 
-4. Diagnostic Radiology.
+Justification Justification of the individual exposure
 
-4.1 General.
+Use of existing appropriate radiological information
 
-Fundamentals of radiological anatomy. Fundamentals of radiological techniques. Production of X-rays. Equipment selection and use.
+Alternative techniques
 
-Health Protection (Ionising Radiation) IONISING RADIATION (ADMINISTRATION OF RADIOACTIVE MEDICINAL PRODUCTS AND MEDICAL EXPOSURES) REGULATIONS 2002
+Radiation Protection Diagnostic reference levels
 
-1995-09
+Dose Constraints
 
-Subsidiary 2002/054 Factors affecting radiation dose. Dosimetry. Quality assurance and quality control.
+Dose Optimisation
 
-4.2 Specialised Techniques.
+Dose reduction devices and techniques
 
-Image intensification/fluoroscopy. Digital Fluoroscopy. Computed Tomography Scanning. Interventional procedures. Vascular imaging.
+Dose recording and dose audit
 
-4.3 Fundamentals of Image Acquisition etc.
+General radiation protection
 
-Image quality v. radiation dose. Conventional film processing. Additional image formats, acquisition, storage and display.
+Quality Assurance and Quality Control including routine inspection and testing of equipment
 
-4.4 Contrast Media.
+Risk communication
 
-Non-ionic and ionic. Use and preparation. Contra-indications to the use of contrast media. Use of automatic injection devices.
+Use of radiation protection devices
 
-5. Radiotherapy
+Statutory Requirements and Non-Statutory Regulations
 
-5.1 General
+Regulations
 
-Production of ionising radiations. Use of radiotherapy– - benign disease, - malignant disease, - external beam, - brachytherapy.
+Non-statutory guidance
 
-5.2 Radiobiological Aspects for Radiotherapy.
+Local procedures and protocols
 
-Fractionation. Dose rate. Radiosensitisation. Target volumes.
+Individual responsibilities relating to exposures
 
-Health Protection (Ionising Radiation) IONISING RADIATION (ADMINISTRATION OF RADIOACTIVE MEDICINAL PRODUCTS AND MEDICAL EXPOSURES) REGULATIONS 2002
+Responsibility for radiation safety
 
-1995-09
+Clinical audit
 
-Subsidiary 2002/054 5.3 Practical Aspects for Radiotherapy.
+Table 2 - Diagnostic radiology, radiotherapy and nuclear medicine
 
-Equipment. Treatment planning.
+All Modalities General Fundamentals of radiological anatomy
 
-5.4 Radiation Protection Specific to Radiotherapy.
+Factors affecting radiation dose
 
-Side effects– - early, - late. Toxicity. Assessment of efficacy.
+Dosimetry
 
-6. Nuclear Medicine.
+Fundamentals of clinical evaluation
 
-6.1 General
+Identification of the individual being exposed
 
-Atomic structure and radioactivity. Radioactive decay. The tracer principle. Fundamentals of diagnostic use. Fundamentals of therapeutic use– - dose rate, - fractionation, - radiobiology aspects.
+Diagnostic radiology General Principles of radiological techniques
 
-6.2 Principles of Radiation Detection, Instrumentation and Equipment.
+Production of X-rays
 
-Types of systems. Image acquisition, storage and display. Quality assurance and quality control.
+Equipment selection and use
 
-6.3 Radiopharmaceuticals.
+Specialised Techniques Computed Tomography – advanced applications
 
-Calibration. Working practices in the radiopharmacy. Preparation of individual doses. Documentation.
+Interventional procedures
 
-6.4 Radiation Protection Specific to Nuclear Medicine.
+Cone Beam Computed Tomography
 
-Conception, pregnancy and breastfeeding.
+Hybrid imaging
 
-Health Protection (Ionising Radiation) IONISING RADIATION (ADMINISTRATION OF RADIOACTIVE MEDICINAL PRODUCTS AND MEDICAL EXPOSURES) REGULATIONS 2002
+Fundamentals of Image Acquisition etc. Optimisation of image quality and radiation dose
 
-1995-09
+Image formats, acquisition, processing, display and storage
 
-Subsidiary 2002/054 Arrangements for radioactive patients. Disposal procedures for radioactive waste.
+Contrast Media Use and preparation
+
+Contra-indications
+
+Use of contrast injection systems
+
+Radiotherapy General Production of ionising radiation
+
+Treatment of malignant disease
+
+Treatment of benign disease
+
+Principles of external beam radiotherapy
+
+Principles of brachytherapy
+
+Specialised techniques Intra-operative radiotherapy
+
+Stereotactic radiotherapy and radiosurgery
+
+Stereotactic ablative radiotherapy
+
+Proton therapy
+
+MR Linac therapy
+
+Radiobiological Aspects for Radiotherapy Fractionation
+
+Dose rate
+
+Radiosensitisation
+
+Target volumes
+
+Practical Aspects for Radiotherapy Localisation equipment selection Therapy equipment selection
+
+Verification techniques including on-treatment imaging
+
+Treatment planning systems
+
+Radiation Protection Specific to Radiotherapy Side effects—early and late
+
+Toxicity
+
+Assessment of efficacy
+
+Nuclear Medicine General Atomic structure and radioactivity
+
+Radioactive decay
+
+Principles of molecular imaging and non-imaging exposures
+
+Principles of molecular radiotherapy
+
+Molecular Radiotherapy Dose rate
+
+Fractionation
+
+Radiobiology aspects
+
+Radiosensitisation
+
+Specialised techniques Quantitative imaging – advanced applications
+
+Hybrid imaging – advanced applications
+
+Selective Internal Radiation Therapy
+
+Principles of Radiation Detection, Instrumentation and Equipment Types of detection systems
+
+Optimisation of image quality and radiation dose
+
+Image acquisition, artefacts, processing, display and storage
+
+Radiopharmaceuticals Calibration
+
+Working practices in the radiopharmacy
+
+Preparation of individual doses Radiation Protection Specific to Nuclear Medicine Conception, pregnancy and breastfeeding
+
+Arrangements for radioactive individuals
