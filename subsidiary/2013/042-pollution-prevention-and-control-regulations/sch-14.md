@@ -28,13 +28,7 @@ Permits granted, or applied for, on or before the date of the commencement of th
 
 (a) in the period beginning on the date of the commencement of these Regulations and ending on 6th January 2014, and
 
-(b) in respect of any application, notice, investigation or legal proceedings made or begun in that period and not determined or concluded by the date of the commencement of these
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Regulations (including for that purpose any penalty, punishment or other sanction that may be imposed in respect of a failure to comply with a requirement under the repealed enactment in that period).
+(b) in respect of any application, notice, investigation or legal proceedings made or begun in that period and not determined or concluded by the date of the commencement of these Regulations (including for that purpose any penalty, punishment or other sanction that may be imposed in respect of a failure to comply with a requirement under the repealed enactment in that period).
 
 (3)  An existing permit for an installation is to be treated as suspended under these Regulations from the date of the commencement of these Regulations if the installation has not been put into operation on or before 6th January 2014.
 
@@ -48,7 +42,9 @@ Subsidiary 2013/042 Regulations (including for that purpose any penalty, punishm
 
 2015 installations.
 
-3.(1)  Regulation 11 applies to a 2015 installation− (a) from 7th July 2015, or
+3.(1)  Regulation 11 applies to a 2015 installation−
+
+(a) from 7th July 2015, or
 
 (b) where an application for the purposes of paragraph (2) is not determined on or before that date, from the date the application is determined.
 
@@ -62,11 +58,7 @@ Subsidiary 2013/042 Regulations (including for that purpose any penalty, punishm
 
 (c) for row 11, the period beginning on 7th May 2014 and ending on 7th August 2014, and
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (d) for rows 1, 2, 9 and 10, the period beginning on 7th July 2014 and ending on 7th October 2014.
+(d) for rows 1, 2, 9 and 10, the period beginning on 7th July 2014 and ending on 7th October 2014.
 
 (4)  An application received by the Agency for a permit for a 2015 installation before the applicable specified period−
 
@@ -86,11 +78,7 @@ Activity as described in Schedule 1 1. Point 1.2 2. Points 4.1 to 4.6 3. Point 5
 
 PART 2
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Specific installations and activities
+Specific installations and activities
 
 Solvent emission activities: risk phrases and hazard statements.
 
@@ -118,11 +106,7 @@ must make an application for variation under regulation 44, and may not begin us
 
 (a) in the period to 31st May 2015, on the date on which a risk phrase or hazard statement, or
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (b) in the period from 1st June 2015, on the date a hazard statement,
+(b) in the period from 1st June 2015, on the date a hazard statement,
 
 is assigned to a substance or mixture used in the installation.
 
@@ -150,13 +134,7 @@ Permit condition: incidents, accidents, and breach of conditions.
 
 (c) of a breach of a permit condition that poses an immediate danger to human health, or threatens to cause an immediate significant adverse effect on the environment, immediately suspend operation until such time as the installation can be operated in compliance with the permit.
 
-(2)  This paragraph applies in the period from the date of the commencement of these Regulations until the date that the Agency next
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 varies a condition of the permit so as to give effect to Article 7 of the Industrial Emissions Directive.
+(2)  This paragraph applies in the period from the date of the commencement of these Regulations until the date that the Agency next varies a condition of the permit so as to give effect to Article 7 of the Industrial Emissions Directive.
 
 Permit condition: monitoring of installations.
 
@@ -184,12 +162,6 @@ Permit condition: large combustion plants.
 
 (a) 10% for carbon monoxide,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (b) 20% for sulphur dioxide,
 
 (c) 20% for nitrogen oxides, and
@@ -203,9 +175,3 @@ where the validated hourly and daily average values are determined from the meas
 (a) in the case of subparagraph (3), to Article 37 of the Industrial Emissions Directive, and
 
 (b) in the case of subparagraph (4), to paragraph 9 of Part 3 of Annex V to that Directive.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

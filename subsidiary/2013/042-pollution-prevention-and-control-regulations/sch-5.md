@@ -40,11 +40,7 @@ Water.
 
 3. Organotin compounds.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 4. Substances and mixtures which have been proved to possess carcinogenic or mutagenic properties or properties which may affect reproduction in or via the aquatic environment.
+4. Substances and mixtures which have been proved to possess carcinogenic or mutagenic properties or properties which may affect reproduction in or via the aquatic environment.
 
 5. Persistent hydrocarbons and persistent and bioaccumulable organic toxic substances.
 
@@ -63,9 +59,3 @@ Subsidiary 2013/042 4. Substances and mixtures which have been proved to possess
 12. Substances which have an unfavourable influence on the oxygen balance (and can be measured using parameters such as BOD, COD, etc.).
 
 13. Substances listed in Annex X to Directive 2000/60/EC of the European Parliament and of the Council establishing a framework for Community action in the field of water policy.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

@@ -22,13 +22,7 @@ Control of emissions.
 
 (3)  By way of derogation from subparagraph (1)(a), where the operator demonstrates to the Agency that for an individual installation the emission limit value for fugitive emissions is not technically and economically feasible, the Agency may allow emissions to exceed that emission limit value provided that significant risks to human health or the environment are not to be expected and that the operator demonstrates to the Agency that the best available techniques are being used.
 
-(4)  By way of derogation from subparagraph (1), for coating activities covered by item 8 of the table in Part 3 which cannot be carried out under contained conditions, the Agency may allow the emissions of the
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 installation not to comply with the requirements set out in that subparagraph if the operator demonstrates to the Agency that such compliance is not technically and economically feasible and that the best available techniques are being used.
+(4)  By way of derogation from subparagraph (1), for coating activities covered by item 8 of the table in Part 3 which cannot be carried out under contained conditions, the Agency may allow the emissions of the installation not to comply with the requirements set out in that subparagraph if the operator demonstrates to the Agency that such compliance is not technically and economically feasible and that the best available techniques are being used.
 
 (5) The Minister shall ensure that a report is sent to the European Commission on the derogations referred to in subparagraphs (3) and (4) in accordance with Article 72(2) of the Industrial Emissions Directive.
 
@@ -53,12 +47,6 @@ Monitoring of emissions.
 Compliance with emission limit values.
 
 4.  The emission limit values in waste gases shall be regarded as being complied with if the conditions set out in Part 9 are fulfilled.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 Reporting on compliance.
 
@@ -86,11 +74,7 @@ Access to information.
 
 (b) the general binding rules applicable for installations and the list of installations subject to permitting and registration shall be made available to the public;
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (c) the results of the monitoring of emissions as required under Article 60 and held by the Agency shall be made available to the public.
+(c) the results of the monitoring of emissions as required under Article 60 and held by the Agency shall be made available to the public.
 
 (2)  This paragraph is subject to the restrictions laid down in Article 4(1) and (2) of Directive 2003/4/EC.
 
@@ -120,12 +104,6 @@ Any activity in which a single or multiple application of a continuous film of a
 
 (v) trailers, defined in categories O1, O2, O3 and O4 in Directive 2007/46/EC;
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (b) metallic and plastic surfaces including surfaces of airplanes, ships, trains, etc.;
 
 (c) wooden surfaces;
@@ -142,7 +120,7 @@ Any activity where coiled steel, stainless steel, coated steel, copper alloys or
 
 5. Dry cleaning
 
-Any industrial or commercial activity using volatile organic compounds in an  installation to clean garments, furnishing and similar consumer goods with the exception of the manual removal of stains and spots in the textile and clothing  industry.
+Any industrial or commercial activity using volatile organic compounds in an installation to clean garments, furnishing and similar consumer goods with the exception of the manual removal of stains and spots in the textile and clothing industry.
 
 6. Footwear manufacture
 
@@ -158,29 +136,21 @@ The chemical synthesis, fermentation, extraction, formulation and finishing of p
 
 9. Printing
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Any reproduction activity of text and/or images in which, with the use of an image carrier, ink is transferred onto whatever type of surface. It includes associated varnishing, coating and laminating techniques. However, only the following sub-processes are subject to Chapter V of the Industrial Emissions Directive:
+Any reproduction activity of text and/or images in which, with the use of an image carrier, ink is transferred onto whatever type of surface. It includes associated varnishing, coating and laminating techniques. However, only the following sub- processes are subject to Chapter V of the Industrial Emissions Directive:
 
 (a) flexography – a printing activity using an image carrier of rubber or elastic photopolymers on which the printing areas are above the non- printing areas, using liquid inks which dry through evaporation;
 
-(b) heatset web offset – a web-fed printing activity using an image carrier in which the  printing and non-printing area are in the same plane, where web-fed means that the material to be printed is fed to the machine from a reel as distinct from separate sheets. The non-printing area is treated to attract water and thus reject ink. The printing area is treated to receive and transmit ink to the surface to be printed. Evaporation takes place in an oven where hot air is used to heat the printed material;
+(b) heatset web offset – a web-fed printing activity using an image carrier in which the printing and non-printing area are in the same plane, where web-fed means that the material to be printed is fed to the machine from a reel as distinct from separate sheets. The non-printing area is treated to attract water and thus reject ink. The printing area is treated to receive and transmit ink to the surface to be printed. Evaporation takes place in an oven where hot air is used to heat the printed material;
 
 (c) laminating associated to a printing activity – the adhering together of two or more flexible materials to produce laminates;
 
 (d) publication rotogravure–a rotogravure printing activity used for printing paper for magazines, brochures, catalogues or similar products, using toluene-based inks;
 
-(e) rotogravure – a printing activity using a cylindrical image carrier in which the printing area is below the non-printing area, using liquid inks which dry through evaporation. The recesses are filled with ink and the surplus is cleaned off the non-printing area before the surface to be printed contacts the cylinder and lifts the ink from the recesses;
+(e) rotogravure – a printing activity using a cylindrical image carrier in which the printing area is below the non-printing area, using liquid inks which dry through evaporation. The recesses are filled with ink and the surplus is cleaned off the non- printing area before the surface to be printed contacts the cylinder and lifts the ink from the recesses;
 
 (f) rotary screen printing – a web-fed printing activity in which the ink is passed onto the surface to be printed by forcing it through a porous image carrier, in which the printing area is open and the non-printing area is sealed off, using liquid inks which dry only through evaporation.  Web-fed means that the material to be printed is fed into the machine from a reel as distinct from separate sheets;
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (g) varnishing – an activity by which a varnish or an adhesive coating for the purpose of later sealing the packaging material is applied to a flexible material.
+(g) varnishing – an activity by which a varnish or an adhesive coating for the purpose of later sealing the packaging material is applied to a flexible material.
 
 10. Rubber conversion
 
@@ -188,7 +158,7 @@ Any activity of mixing, milling, blending, calendering, extrusion and vulcanisat
 
 11. Surface cleaning
 
-Any activity except dry cleaning using organic solvents to remove contamination from the surface of material including degreasing. A cleaning activity consisting of more than one step  before or after any other activity shall be considered as one surface cleaning activity. This activity does not refer to the cleaning of the equipment but to the cleaning of the surface of products.
+Any activity except dry cleaning using organic solvents to remove contamination from the surface of material including degreasing. A cleaning activity consisting of more than one step before or after any other activity shall be considered as one surface cleaning activity. This activity does not refer to the cleaning of the equipment but to the cleaning of the surface of products.
 
 12. Vegetable oil and animal fat extraction and vegetable oil refining activities
 
@@ -198,7 +168,7 @@ Any activity to extract vegetable oil from seeds and other vegetable matter, the
 
 Any industrial or commercial coating activity and associated degreasing activities performing either of the following:
 
-(a) the original coating of road vehicles as defined in Directive 2007/46/EC or part of them with refinishing- type materials, where this is carried out away from the original manufacturing line;
+(a) the original coating of road vehicles as defined in Directive 2007/46/EC or part of them with refinishing-type materials, where this is carried out away from the original manufacturing line;
 
 (b) the coating of trailers (including semi-trailers) (category O in Directive 2007/46/EC).
 
@@ -207,12 +177,6 @@ Any industrial or commercial coating activity and associated degreasing activiti
 Any coating activity of metallic conductors used for winding the coils in transformers and motors, etc.
 
 15. Wood impregnation
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 Any activity giving a loading of preservative in timber.
 
@@ -228,49 +192,13 @@ Thresholds and emission limit values
 
 The emission limit values in waste gases shall be calculated at a temperature of 273,15 K, and a pressure of 101,3 kPa.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 PART 4
 
 Emission limit values for installations of the vehicle coating industry
 
 1.  The total emission limit values are expressed in terms of grams of organic solvent emitted in relation to the surface area of product in square metres and in kilograms of organic solvent emitted in relation to the car body.
 
-2. The surface area of any product dealt with in the table under point 3 is defined as the surface area calculated from the total electrophoretic coating area, and the surface area of any parts that might be added in successive phases of the coating process which are coated with the same coatings as
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 those used for the product in question, or the total surface area of the product coated in the installation.
+2. The surface area of any product dealt with in the table under point 3 is defined as the surface area calculated from the total electrophoretic coating area, and the surface area of any parts that might be added in successive phases of the coating process which are coated with the same coatings as those used for the product in question, or the total surface area of the product coated in the installation.
 
 The surface of the electrophoretic coating area is calculated using the following formula:
 
@@ -284,15 +212,13 @@ Computer aided design or other equivalent methods shall be used to calculate the
 
 3. The total emission limit values in the table below refer to all process stages carried out at the same installation from electrophoretic coating, or any other kind of coating process, through to the final wax and polish of topcoating inclusive, as well as solvent used in cleaning of process equipment, including spray booths and other fixed equipment, both during and outside of production time.
 
-Activity (solvent consumption threshold  in tonnes/ ear) Production threshold (refers to annual production of coated item) Total emission limit value New installatio Existing installations Coating of new cars (> 15) > 5 000 45 g/m2 or 1,3 kg/ body + 33 g/m2 60 g/m2 or 1,9 kg/ body + 41 g/m2 ≤ 5 000 monocoque or > 3 500 chassis- b ilt 90 g/m2 or 1,5 kg/ body + 70 g/m2 90 g/m2 or 1,5 kg/ body + 70 g/m2
+Activity (solvent consumption threshold  in tonnes/year) Production threshold (refers to annual production of coated item) Total emission limit value New installations Existing installations Coating of new cars (> 15) > 5 000 45 g/m2 or 1,3 kg/ body + 33 g/m2 60 g/m2 or 1,9 kg/ body + 41 g/m2 ≤ 5 000 monocoque or > 3 500 chassis- built 90 g/m2 or 1,5 kg/ body + 70 g/m2 90 g/m2 or 1,5 kg/ body + 70 g/m2
 
-Total emission limit value (g/m2) Coating of new truck cabins (> 15) ≤ 5 000 65 8 5 > 5 000 55 7 5 Coating of new vans and trucks (> 15) ≤ 2 500 90 1 2 > 2 500 70 9 0 Coating of new buses (> 15) ≤ 2 000 210 2 9 > 2 000 150 2 2
+Total emission limit value (g/m2) Coating of new truck cabins (> 15) ≤ 5 000 65 8 5 > 5 000 55 7 5 Coating of new vans and trucks (> 15) ≤ 2 500 90 1 2 > 2 500 70 9 0
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
+Coating of new buses (> 15) ≤ 2 000 210 2 9 > 2 000 150 2 2
 
-2005-27
-
-Subsidiary 2013/042 4.  Vehicle coating installations below the solvent consumption thresholds mentioned in the table under point 3 shall meet the requirements for the vehicle refinishing sector set out in Part 3.
+4.  Vehicle coating installations below the solvent consumption thresholds mentioned in the table under point 3 shall meet the requirements for the vehicle refinishing sector set out in Part 3.
 
 PART 5
 
@@ -300,7 +226,7 @@ Emission limit values relating to volatile organic compounds with specific risk 
 
 1.  For emissions of the volatile organic compounds referred to in Article 58 of the Industrial Emissions Directive where the mass flow of the sum of the compounds causing the labelling referred to in that Article is greater than, or equal to, 10 g/h, an emission limit value of 2 mg/Nm3 shall be complied with. The emission limit value refers to the mass sum of the individual compounds.
 
-2.  For emissions of halogenated volatile organic compounds which are assigned or need to carry the hazard statements H341 or H351, where the mass flow of the sum of the compounds causing the hazard statements H341 or H351 is greater than, or equal to, 100 g/h, an emission limit value of 20 mg/Nm3  shall be complied with.  The emission limit value refers to the mass sum of the individual compounds.
+2.  For emissions of halogenated volatile organic compounds which are assigned or need to carry the hazard statements H341 or H351, where the mass flow of the sum of the compounds causing the hazard statements H341 or H351 is greater than, or equal to, 100 g/h, an emission limit value of 20 mg/Nm3 shall be complied with.  The emission limit value refers to the mass sum of the individual compounds.
 
 PART 6
 
@@ -312,13 +238,9 @@ Reduction scheme
 
 (a) where substitutes containing little or no solvent are still under development, a time extension shall be given to the operator to implement his emission reduction plans;
 
-(b) the reference point for emission reductions should correspond as closely as possible to the emissions which would have resulted had no reduction action been taken. 3.  The following scheme shall operate for installations for which a constant solid content of product can be assumed−
+(b) the reference point for emission reductions should correspond as closely as possible to the emissions which would have resulted had no reduction action been taken.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
+3.  The following scheme shall operate for installations for which a constant solid content of product can be assumed−
 
 (a) The annual reference emission is calculated as follows−
 
@@ -326,11 +248,13 @@ Subsidiary 2013/042
 
 (ii) The annual reference emissions are calculated by multiplying the mass determined in (i) by the appropriate factor listed in the table below. Competent authorities may adjust these factors for individual installations to reflect documented increased efficiency individual installation the use of solids.
 
-Activity Multiplication factor for use in Rotogravure printing; flexography printing; laminating as part of a printing activity; varnishing as part of a printing activity; wood coating; coating of textiles, fabric film or paper; Coil coating, vehicle refinishing 3 Food contact coating, aerospace coatings 2,33 Other coatings and rotary screen printing 1,5
+Activity Multiplication factor for use in item (a)(ii) Rotogravure printing; flexography printing; laminating as part of a printing activity; varnishing as part of a printing activity; wood coating; coating of textiles, fabric film or paper; adhesive coating
+
+Coil coating, vehicle refinishing 3 Food contact coating, aerospace coatings 2,33 Other coatings and rotary screen printing 1,5
 
 (b) The target emission is equal to the annual reference emission multiplied by a percentage equal to−
 
-(i) (the fugitive emission limit value + 15), for installations falling within  item 6 and the lower threshold band of items 8 and 10 of Part 2,
+(i) (the fugitive emission limit value + 15), for installations falling within item 6 and the lower threshold band of items 8 and 10 of Part 2,
 
 (ii) (the fugitive emission limit value + 5) for all other installations.
 
@@ -340,11 +264,7 @@ PART 7
 
 Emission monitoring
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 1.  Channels to which abatement equipment is connected, and which at the final point of discharge emit more than an average of 10 kg/h of total organic carbon, shall be monitored continuously for compliance.
+1.  Channels to which abatement equipment is connected, and which at the final point of discharge emit more than an average of 10 kg/h of total organic carbon, shall be monitored continuously for compliance.
 
 2.  In the other cases, the Agency shall ensure that either continuous or periodic measurements are carried out. For periodic measurements at least three measurement values shall be obtained during each measurement exercise.
 
@@ -370,23 +290,15 @@ The following definitions provide a framework for the mass balance exercise.
 
 Inputs of organic solvents (I)−
 
-I1
+I1 The quantity of organic solvents or their quantity in mixtures purchased which are used as input into the process in the time frame over which the mass balance is being calculated.
 
-The quantity of organic solvents or their quantity in mixtures purchased which are used as input into the process in the time frame over which the mass balance is being calculated.
-
-I2
-
-The quantity of organic solvents or their quantity in mixtures recovered and reused as solvent input into the process. The recycled solvent is counted every time it is used to carry out the activity.
+I2 The quantity of organic solvents or their quantity in mixtures recovered and reused as solvent input into the process. The recycled solvent is counted every time it is used to carry out the activity.
 
 Outputs of organic solvents (O)−
 
 O1 Emissions in waste gases.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 O2 Organic solvents lost in water, taking into account waste water treatment when calculating O5.
+O2 Organic solvents lost in water, taking into account waste water treatment when calculating O5.
 
 O3 The quantity of organic solvents which remains as contamination or residue in products output from the process.
 
@@ -414,12 +326,6 @@ C = I1 – O8
 
 A parallel exercise shall also be undertaken to determine solids used in coating in order to derive the annual reference emission used in coating in order to derive and the target emission each year.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (ii) for assessing compliance with a total emission limit value expressed in solvent emissions per unit product or otherwise stated in Parts 3 and 4, the solvent management plan shall be drawn up annually to determine the emissions (E). The emissions shall be calculated according to the following equation:
 
 E = F + O1
@@ -443,12 +349,6 @@ F shall be determined either by direct measurement of the quantities or by an eq
 The fugitive emission limit value is expressed as a proportion of the input, which shall be calculated according to the following equation:
 
 I = I1 + I2
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (ii) Determination of fugitive emissions shall be done by a short but comprehensive set of measurements and needs not be done again until the equipment is modified.
 
@@ -480,12 +380,6 @@ Interpretation
 
 “adhesive” means any mixture, including all the organic solvents or mixtures containing organic solvents necessary for its proper application, which is used to adhere separate parts of a product,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 “adhesive coating” means any activity in which an adhesive is applied to a surface excluding the application of adhesive and laminating associated with printing activities,
 
 “coating” means any mixture, including all the organic solvents or mixtures containing organic solvents necessary for its proper application, which is used to provide a decorative, protective or other functional effect on a surface,
@@ -502,11 +396,7 @@ Subsidiary 2013/042
 
 “dry cleaning” means any industrial or commercial activity using volatile organic compounds in an installation to clean garments, furnishing and similar consumer goods excluding the manual removal of stains and spots in the textile and clothing industry,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 “flexography” means a printing activity using an image carrier of rubber or elastic photopolymers on which the printing areas are above the non-printing areas and using liquid inks which dry through evaporation,
+“flexography” means a printing activity using an image carrier of rubber or elastic photopolymers on which the printing areas are above the non-printing areas and using liquid inks which dry through evaporation,
 
 “footwear manufacture” means any activity of producing complete footwear or parts of footwear,
 
@@ -534,15 +424,13 @@ Subsidiary 2013/042 “flexography” means a printing activity using an image c
 
 (c) evaporation takes place in the oven where hot air is used to heat the printed material,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 “ink” means a substance, including all the organic solvents or mixtures containing organic solvents necessary for its proper application, which is used in a printing activity to impress text or images on to a surface,
+“ink” means a substance, including all the organic solvents or mixtures containing organic solvents necessary for its proper application, which is used in a printing activity to impress text or images on to a surface,
 
 “laminating associated to a printing activity” means the adhering together of 2 or more flexible materials to produce laminates,
 
-“manufacturing of coating mixtures, varnishes, inks and adhesives” means the manufacture of coating mixtures, varnishes, inks and adhesives as final products and where carried out at the same site the manufacture of intermediates, by the mixing of pigments, resins and adhesive materials with organic solvent or other carrier, including− (a) dispersion and pre-dispersion activities,
+“manufacturing of coating mixtures, varnishes, inks and adhesives” means the manufacture of coating mixtures, varnishes, inks and adhesives as final products and where carried out at the same site the manufacture of intermediates, by the mixing of pigments, resins and adhesive materials with organic solvent or other carrier, including−
+
+(a) dispersion and pre-dispersion activities,
 
 (b) viscosity and tint adjustments, and
 
@@ -565,12 +453,6 @@ of pharmaceutical products, and where carried out at the same site, the manufact
 “organic solvent” means any volatile organic compound which is used alone or in combination with other agents, and without undergoing a chemical change, to dissolve raw materials, products or waste materials, as a−
 
 (a) cleaning agent to dissolve contaminants,
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (b) dissolver,
 
@@ -602,11 +484,7 @@ Subsidiary 2013/042
 
 (a) in relation to a solvent emissions activity other than dry cleaning a substance which, because of its content of volatile organic compounds classified as carcinogens, mutagens, or toxic to reproduction under Directive 67/548/EEC is assigned or needs to carry the risk phrases R45, R46, R49, R60 and R61 or, in the case of halogenated volatile organic compounds, is assigned or needs to carry the risk phrases R40 and R68,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (b) in relation to dry-cleaning a substance which, because of its content of volatile organic compounds classified as carcinogens, mutagens, or toxic to reproduction under Directive 67/548/EEC is assigned or needs to carry the risk phrases R45, R46, R49, R60 and R61,
+(b) in relation to dry-cleaning a substance which, because of its content of volatile organic compounds classified as carcinogens, mutagens, or toxic to reproduction under Directive 67/548/EEC is assigned or needs to carry the risk phrases R45, R46, R49, R60 and R61,
 
 “rotary screen printing” means a web-fed printing activity in which liquid ink which dries only through evaporation is passed onto the surface to be printed by forcing it through a porous image carrier, in which the printing area is open and the non-printing area is sealed off,
 
@@ -622,15 +500,11 @@ Subsidiary 2013/042 (b) in relation to dry-cleaning a substance which, because o
 
 “varnish” means a transparent coating,
 
-“varnishing” means an activity by which varnish or an adhesive coating for the purpose of sealing the packaging material is applied to a flexible material, “vegetable oil and animal fat extraction and vegetable oil refining activities” means any activity to extract vegetable oil from seeds and other vegetable matter, the processing of dry residues to produce animal feed, the purification of fats and vegetable oils derived from seeds, vegetable matter or animal matter,
+“varnishing” means an activity by which varnish or an adhesive coating for the purpose of sealing the packaging material is applied to a flexible material,
+
+“vegetable oil and animal fat extraction and vegetable oil refining activities” means any activity to extract vegetable oil from seeds and other vegetable matter, the processing of dry residues to produce animal feed, the purification of fats and vegetable oils derived from seeds, vegetable matter or animal matter,
 
 “vehicle coating” means a coating activity applied to the following vehicles−
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (a) new cars, defined as vehicles of category M1 in Directive 2007/46/EC and of category N1 in so far as they are coated at the same installation as M1 vehicles,
 
@@ -648,16 +522,12 @@ but not where the activity is carried out as part of the repair, conservation or
 
 (a) the original coating of road vehicles as defined in Directive 2007/46/EC, or part of them with refinishing-type materials, where this is carried out away from the original manufacturing line, or
 
-(b) the coating of trailers (including semi-trailers) (category O), “web-fed” means that the material to be printed is fed to the machine from a reel as distinct from separate sheets,
+(b) the coating of trailers (including semi-trailers) (category O),
+
+“web-fed” means that the material to be printed is fed to the machine from a reel as distinct from separate sheets,
 
 “winding wire coating” means any coating activity of metallic conductors used for winding the coils in transformers and motors etc.,
 
 “wood and plastic lamination” means any activity to adhere together wood or plastic to produce laminated products, and
 
 “wood impregnation” means any activity giving a loading of preservative in timber.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

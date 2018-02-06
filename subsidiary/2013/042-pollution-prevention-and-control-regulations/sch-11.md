@@ -8,23 +8,19 @@ Scope.
 
 (2)  This Schedule does not apply to gasification or pyrolysis installations, if the gases resulting from this thermal treatment of waste are purified to such an extent that they are no longer a waste prior to their incineration and they can cause emissions no higher than those resulting from the burning of natural gas.
 
-(3)  For the purposes of this Schedule, waste incineration installations and waste co-incineration installations shall include all incineration lines or co- incineration lines, waste reception, storage, on site pretreatment facilities, waste-, fuel- and air-supply systems, boilers, facilities for the treatment of waste gases, on-site facilities for treatment or storage of residues and waste water, stacks, devices and systems for controlling incineration or co- incineration operations, recording and monitoring incineration or co- incineration conditions.
+(3)  For the purposes of this Schedule, waste incineration installations and waste co- incineration installations shall include all incineration lines or co-incineration lines, waste reception, storage, on site pretreatment facilities, waste-, fuel- and air-supply systems, boilers, facilities for the treatment of waste gases, on-site facilities for treatment or storage of residues and waste water, stacks, devices and systems for controlling incineration or co-incineration operations, recording and monitoring incineration or co-incineration conditions.
 
-(4)  If processes other than oxidation, such as pyrolysis, gasification or plasma process, are applied for the thermal treatment of waste, the waste incineration installation or waste co-incineration installation shall include both the thermal treatment process and the subsequent incineration process.
+(4)  If processes other than oxidation, such as pyrolysis, gasification or plasma process, are applied for the thermal treatment of waste, the waste incineration installation or waste co- incineration installation shall include both the thermal treatment process and the subsequent incineration process.
 
 (5)  If waste co-incineration takes place in such a way that the main purpose of the installation is not the generation of energy or production of material products but rather the thermal treatment of waste, the installation shall be regarded as a waste incineration installation.
 
-(6)  This Schedule does not apply to the following installations− (a) installations treating only the following wastes−
+(6)  This Schedule does not apply to the following installations−
+
+(a) installations treating only the following wastes−
 
 (i) waste listed in point (b) of point 31 of Article 3 of the Industrial Emissions Directive;
 
 (ii) radioactive waste;
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (iii) animal carcasses as regulated by Regulation (EC) No 1774/2002 of the European Parliament and of the Council of 3 October 2002 laying down health rules concerning animal by-products not intended for human consumption;
 
@@ -50,13 +46,7 @@ Permit conditions.
 
 (e) the sampling and measurement procedures and frequencies to be used to comply with the conditions set for emission monitoring;
 
-(f) the maximum permissible period of any technically unavoidable stoppages, disturbances, or failures of the purification devices or the measurement devices, during which
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 the emissions into the air and the discharges of waste water may exceed the prescribed emission limit values.
+(f) the maximum permissible period of any technically unavoidable stoppages, disturbances, or failures of the purification devices or the measurement devices, during which the emissions into the air and the discharges of waste water may exceed the prescribed emission limit values.
 
 (2)  In addition to the requirements set out in subparagraph (1), the permit granted to a waste incineration installation or waste co-incineration installation using hazardous waste shall include the following−
 
@@ -70,19 +60,15 @@ Subsidiary 2013/042 the emissions into the air and the discharges of waste water
 
 Control of emissions.
 
-4.(1)  Waste gases from waste incineration installations and waste co- incineration installations shall be discharged in a controlled way by means of a stack the height of which is calculated in such a way as to safeguard human health and the environment.
+4.(1)  Waste gases from waste incineration installations and waste co-incineration installations shall be discharged in a controlled way by means of a stack the height of which is calculated in such a way as to safeguard human health and the environment.
 
 (2)  Emissions into air from waste incineration installations and waste co- incineration installations shall not exceed the emission limit values set out in Parts 3 and 4 of Schedule 12 or determined in accordance with Part 4 of that Schedule.
 
-(3)  If in a waste co-incineration installation more than 40% of the resulting heat release comes from hazardous waste, or the installation co- incinerates untreated mixed municipal waste, the emission limit values set out in Part 3 of Schedule 12 shall apply.
+(3)  If in a waste co-incineration installation more than 40% of the resulting heat release comes from hazardous waste, or the installation co-incinerates untreated mixed municipal waste, the emission limit values set out in Part 3 of Schedule 12 shall apply.
 
 (4)  Discharges to the aquatic environment of waste water resulting from the cleaning of waste gases shall be limited as far as practicable and the concentrations of polluting substances shall not exceed the emission limit values set out in Part 5 of Schedule 12.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (5)  The emission limit values shall apply at the point where waste waters from the cleaning of waste gases are discharged from the waste incineration installation or waste co-incineration installation.
+(5)  The emission limit values shall apply at the point where waste waters from the cleaning of waste gases are discharged from the waste incineration installation or waste co-incineration installation.
 
 (6)  When waste waters from the cleaning of waste gases are treated outside the waste incineration installation or waste co-incineration installation at a treatment installation intended only for the treatment of this sort of waste water, the emission limit values set out in Part 5 of Schedule 12 shall be applied at the point where the waste waters leave the treatment installation. Where the waste water from the cleaning of waste gases is treated collectively with other sources of waste water, either on site or off site, the operator shall make the appropriate mass balance calculations, using the results of the measurements set out in point 3 of Part 6 of Schedule 12 in order to determine the emission levels in the final waste water discharge that can be attributed to the waste water arising from the cleaning of waste gases.
 
@@ -90,7 +76,7 @@ Subsidiary 2013/042 (5)  The emission limit values shall apply at the point wher
 
 (8)  Waste incineration installation sites and waste co-incineration installation sites, including associated storage areas for waste, shall be designed and operated in such a way as to prevent the unauthorised and accidental release of any polluting substances into soil, surface water and groundwater.
 
-(9)  Storage capacity shall be provided for contaminated rainwater run-off from the waste incineration installation site or waste co-incineration installation site or for contaminated water arising from spillage or fire- fighting operations. The storage capacity shall be adequate to ensure that such waters can be tested and treated before discharge where necessary.
+(9)  Storage capacity shall be provided for contaminated rainwater run-off from the waste incineration installation site or waste co-incineration installation site or for contaminated water arising from spillage or fire-fighting operations. The storage capacity shall be adequate to ensure that such waters can be tested and treated before discharge where necessary.
 
 (10)  Without prejudice to paragraph 8(8) (c) of the Industrial Emissions Directive, the waste incineration installation or waste co-incineration installation or individual furnaces being part of a waste incineration installation or waste co-incineration installation shall under no circumstances continue to incinerate waste for a period of more than 4 hours uninterrupted where emission limit values are exceeded.
 
@@ -98,11 +84,7 @@ Subsidiary 2013/042 (5)  The emission limit values shall apply at the point wher
 
 (12)  The time limit set out in the second subparagraph shall apply to those furnaces which are linked to one single waste gas cleaning device.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Breakdown.
+Breakdown.
 
 5.  In the case of a breakdown, the operator shall reduce or close down operations as soon as practicable until normal operations can be restored.
 
@@ -128,17 +110,11 @@ Operating conditions.
 
 (3)  Waste co-incineration installations shall be designed, equipped, built and operated in such a way that the gas resulting from the co-incineration of waste is raised in a controlled and homogeneous fashion and even under the most unfavourable conditions, to a temperature of at least 850°C for at least two seconds.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (4)  If hazardous waste with a content of more than 1% of halogenated organic substances, expressed as chlorine, is incinerated or co-incinerated, the temperature required to comply with the first and second subparagraphs shall be at least 1,100°C.
 
 (5)  In waste incineration installations, the temperatures set out in the first and third subparagraphs shall be measured near the inner wall of the combustion chamber. The Agency may authorise the measurements at another representative point of the combustion chamber.
 
-(6)  Each combustion chamber of a waste incineration installation shall be equipped with at least one auxiliary burner. This burner shall be switched on automatically when the temperature of the combustion gases after the last injection of combustion air falls below the temperatures set out in subparagraph (2). It shall also be used during installation start-up and shut- down operations in order to ensure that those temperatures are maintained at all times during these operations and as long as unburned waste is in the combustion chamber.
+(6)  Each combustion chamber of a waste incineration installation shall be equipped with at least one auxiliary burner. This burner shall be switched on automatically when the temperature of the combustion gases after the last injection of combustion air falls below the temperatures set out in subparagraph (2). It shall also be used during installation start-up and shut-down operations in order to ensure that those temperatures are maintained at all times during these operations and as long as unburned waste is in the combustion chamber.
 
 (7)  The auxiliary burner shall not be fed with fuels which can cause higher emissions than those resulting from the burning of gas oil as defined in Article 2(2) of Council Directive 1999/32/EC of 26 April 1999 relating to a reduction in the sulphur content of certain liquid fuels, liquefied gas or natural gas.
 
@@ -146,15 +122,13 @@ Subsidiary 2013/042
 
 (a) at start-up, until the temperature set out in subparagraph (2) or the temperature specified in accordance with paragraph 9(1) has been reached;
 
-(b) whenever the temperature set out in subparagraph (2) or the temperature specified in accordance with paragraph 9(1) is not maintained; (c) whenever the continuous measurements show that any emission limit value is exceeded due to disturbances or failures of the waste gas cleaning devices.
+(b) whenever the temperature set out in subparagraph (2) or the temperature specified in accordance with paragraph 9(1) is not maintained;
 
-(9)  Any heat generated by waste incineration installations or waste co- incineration installations shall be recovered as far as practicable.
+(c) whenever the continuous measurements show that any emission limit value is exceeded due to disturbances or failures of the waste gas cleaning devices.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
+(9)  Any heat generated by waste incineration installations or waste co-incineration installations shall be recovered as far as practicable.
 
-2005-27
-
-Subsidiary 2013/042 (10)  Infectious clinical waste shall be placed straight in the furnace, without first being mixed with other categories of waste and without direct handling.
+(10)  Infectious clinical waste shall be placed straight in the furnace, without first being mixed with other categories of waste and without direct handling.
 
 (11)  The Agency shall ensure that the waste incineration installation or waste co-incineration installation is operated and controlled by a natural person who is competent to manage the installation.
 
@@ -172,17 +146,11 @@ Authorisation to change operating conditions.
 
 Delivery and reception of waste.
 
-10.(1)  The operator of the waste incineration installation or waste co- incineration installation shall take all necessary precautions concerning the delivery and reception of waste in order to prevent or to limit as far as practicable the pollution of air, soil, surface water and groundwater as well as other negative effects on the environment, odours and noise, and direct risks to human health.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
+10.(1)  The operator of the waste incineration installation or waste co-incineration installation shall take all necessary precautions concerning the delivery and reception of waste in order to prevent or to limit as far as practicable the pollution of air, soil, surface water and groundwater as well as other negative effects on the environment, odours and noise, and direct risks to human health.
 
 (2)  The operator shall determine the mass of each type of waste, if possible according to the European Waste List established by Decision 2000/532/EC, prior to accepting the waste at the waste incineration installation or waste co-incineration installation.
 
-(3)  Prior to accepting hazardous waste at the waste incineration installation or waste co-incineration installation, the operator shall collect available information about the waste for the purpose of verifying compliance with the permit requirements specified in paragraph 3(2), including−
+(3)  Prior to accepting hazardous waste at the waste incineration installation or waste co- incineration installation, the operator shall collect available information about the waste for the purpose of verifying compliance with the permit requirements specified in paragraph 3(2), including−
 
 (a) all the administrative information on the generating process contained in the documents mentioned in subparagraph (5)(a);
 
@@ -190,19 +158,17 @@ Subsidiary 2013/042
 
 (c) the hazardous characteristics of the waste, the substances with which it cannot be mixed, and the precautions to be taken in handling the waste.
 
-(4)  Prior to accepting hazardous waste at the waste incineration installation or waste co-incineration installation, at least the following procedures shall be carried out by the operator− (a) the checking of the documents required by the Waste Framework Directive and, where applicable, those required by Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste  and by legislation on transport of dangerous goods;
+(4)  Prior to accepting hazardous waste at the waste incineration installation or waste co- incineration installation, at least the following procedures shall be carried out by the operator−
+
+(a) the checking of the documents required by the Waste Framework Directive and, where applicable, those required by Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste and by legislation on transport of dangerous goods;
 
 (b) the taking of representative samples, unless inappropriate as far as possible before unloading, to verify conformity with the information provided for in subparagraph (3) by carrying out controls and to enable the competent authorities to identify the nature of the wastes treated.
 
 (5)  The samples referred to in subparagraph (4)(b) shall be kept for at least 1 month after the incineration or co-incineration of the waste concerned.
 
-(6)  The Agency may grant exemptions from subparagraphs (2) to (5) to waste incineration installations or waste co-incineration installations which are a part of an installation listed in Schedule 1 and only incinerate or co- incinerate waste generated within that installation.
+(6)  The Agency may grant exemptions from subparagraphs (2) to (5) to waste incineration installations or waste co-incineration installations which are a part of an installation listed in Schedule 1 and only incinerate or co-incinerate waste generated within that installation.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Residues.
+Residues.
 
 11.(1)  Residues shall be minimised in their amount and harmfulness and shall be recycled, where appropriate, directly in the installation or outside.
 
@@ -212,18 +178,12 @@ Subsidiary 2013/042 Residues.
 
 Substantial change.
 
-12.  A change of operation of a waste incineration installation or a waste co- incineration installation treating only non-hazardous waste in an installation covered by Schedule 1 which involves the incineration or co-incineration of hazardous waste shall be regarded as a substantial change.
+12.  A change of operation of a waste incineration installation or a waste co-incineration installation treating only non-hazardous waste in an installation covered by Schedule 1 which involves the incineration or co-incineration of hazardous waste shall be regarded as a substantial change.
 
-Reporting and public information on waste incineration installations and waste co-incineration installations.
+Reporting and public information on waste incineration installations and waste co- incineration installations.
 
-13.(1)  Applications for new permits for waste incineration installations and waste co-incineration installations shall be  made available to  the public at one or more locations for an appropriate period to enable the public to comment on the applications before the Agency reaches a decision. That decision, including at least a copy of the permit, and any subsequent updates, shall also be made available to the public.
+13.(1)  Applications for new permits for waste incineration installations and waste co- incineration installations shall be  made available to  the public at one or more locations for an appropriate period to enable the public to comment on the applications before the Agency reaches a decision. That decision, including at least a copy of the permit, and any subsequent updates, shall also be made available to the public.
 
 (2)  For waste incineration installations or waste co-incineration installations with a nominal capacity of 2 tonnes or more per hour, the report referred to in Article 72 of the Industrial Emissions Directive shall include information on the functioning and monitoring of the installation and give account of the running of the incineration or co-incineration process and the level of emissions into air and water in comparison with the emission limit values. That information shall be made available to the public.
 
 (3)  A list of waste incineration installations or waste co-incineration installations with a nominal capacity of less than 2 tonnes per hour shall be drawn up by the Agency and shall be made available to the public.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

@@ -29,9 +29,3 @@ The specified matters are−
 (k) the need to prevent accidents and to minimise the consequences for the environment, and
 
 (l) information published by public international organisations.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

@@ -22,12 +22,6 @@ Regulation 61
 
 (h) all particulars of any notification of the Agency given under regulation 43(1),
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (i) all particulars of any application made to the Agency for the variation, transfer or surrender of a permit,
 
 (j) all particulars of any variation, transfer or surrender of any permit granted by the Agency,
@@ -46,17 +40,13 @@ Subsidiary 2013/042
 
 (i) any notice of appeal in respect of an appeal under regulation 55 against a decision by the Agency, or against a notice served by the Agency, and
 
-(ii) the documents relating to the appeal mentioned in paragraph 1(2)(a), (d) and (e) of Schedule 7, (q) all particulars of any representations made by any person in response to a notice given under paragraph 3(1) of Schedule 7, other than representations which the person who made them requested should not be placed in the register,
+(ii) the documents relating to the appeal mentioned in paragraph 1(2)(a), (d) and (e) of Schedule 7,
+
+(q) all particulars of any representations made by any person in response to a notice given under paragraph 3(1) of Schedule 7, other than representations which the person who made them requested should not be placed in the register,
 
 (r) in a case where any such representations are omitted from the register at the request of the person who made them, a statement by the Agency that representations have been made which have been the subject of such a request (but such statement must not identify the person who made the representations in question),
 
 (s) all particulars of any written notification of the determination by the Minister of an appeal and any report accompanying any written notification,
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (t) details of any conviction of any person for any offence under regulation 63(1) above or section 16 of the Landfill Act, 2002 which relates to the operation of an installation under a permit granted by the Agency, or without such a permit in circumstances where one is required by regulation 11, including the name of the person, the date of conviction and, in the case of a conviction, the penalty imposed and the name of the Court,
 
@@ -64,19 +54,15 @@ Subsidiary 2013/042
 
 (v) in a case where any such monitoring information is omitted from the register by virtue of regulation 62, a statement by the Agency, based on the monitoring information from time to time obtained by or furnished to it, indicating whether or not there has been compliance with any relevant condition of the permit,
 
-(w) all particulars of any other information furnished in compliance with a condition of the permit, a variation notice, enforcement notice or suspension notice, or regulation 60(2) or a closure notice under  the Landfill Act, 2002,
+(w) all particulars of any other information furnished in compliance with a condition of the permit, a variation notice, enforcement notice or suspension notice, or regulation 60(2) or a closure notice under the Landfill Act, 2002,
 
 (x) where a permit granted by the Agency authorises the carrying out a specified waste management activity, all particulars of any waste licence (within the meaning of regulation 46(13)) which ceased to have effect on the granting of the permit in so far as they may be relevant for the purpose of determining under regulation 46 whether any pollution risk results from the carrying out of such an activity on the site covered by the permit,
 
 (y) all particulars of any report published by the Agency relating to an assessment of the environmental consequences of the operation of an installation in the locality of premises where the installation is operated under a permit granted by it, and
 
-(z) all particulars of any direction  applied in respect of the register by virtue of regulation 61) given to the Agency under any provision of these Regulations,
+(z) all particulars of any direction applied in respect of the register by virtue of regulation 61) given to the Agency under any provision of these Regulations,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (aa) a list which identifies all waste incineration installations which have a capacity of less than 2 tonnes per hour and which are the subject of a permit or an authorisation granted under an enactment that contains conditions which give effect to Schedule 11,
+(aa) a list which identifies all waste incineration installations which have a capacity of less than 2 tonnes per hour and which are the subject of a permit or an authorisation granted under an enactment that contains conditions which give effect to Schedule 11,
 
 (bb) all particulars of any notice requiring a landfill to close (in whole or in part) issued under the Landfill Act, 2002,
 
@@ -93,9 +79,3 @@ Subsidiary 2013/042 (aa) a list which identifies all waste incineration installa
 (b) information relating to a particular installation which has been superseded by later information relating to that installation 4 years after that later information was entered in the register,
 
 but this paragraph does not apply to any aggregated monitoring data relating to overall emissions of any substance or class of substance from installations generally, or from any class of installation.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

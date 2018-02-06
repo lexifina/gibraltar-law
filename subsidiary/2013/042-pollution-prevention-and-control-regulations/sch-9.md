@@ -26,12 +26,6 @@ Scope.
 
 (f) coke battery furnaces;
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (g) cowpers;
 
 (h) any technical apparatus used in the propulsion of a vehicle, ship or aircraft;
@@ -54,12 +48,6 @@ Emission limit values.
 
 (2)  All permits for installations containing combustion plants which have been granted a permit before 7 January 2013, or the operators of which have submitted a complete application for a permit before that date, provided that such plants are put into operation no later than 7 January 2014, shall include conditions ensuring that emissions into air from these plants do not exceed the emission limit values set out in Part 1 of Schedule 10.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (3)  All permits for installations containing combustion plants which had been granted an exemption as referred to in Article 4(4) of The Large Combustion Plants Directive and which are in operation after 1 January 2016, shall include conditions ensuring that emissions into the air from these plants do not exceed the emission limit values set out in Part 2 of Schedule 10.
 
 (4)  All permits for installations containing combustion plants not covered by subparagraph (2) shall include conditions ensuring that emissions into the air from these plants do not exceed the emission limit values set out in Part 2 of Schedule 10.
@@ -72,11 +60,7 @@ Subsidiary 2013/042
 
 (8)  An operator who relies on subparagraph (7) shall immediately inform the Agency, and the Agency shall immediately notify the Minister who shall ensure that the European Commission is also notified.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (9)  Where a combustion plant is extended, the emission limit values set out in Part 2 of Schedule 10 shall apply to the extended part of the plant affected by the change and shall be set in relation to the total rated thermal input of the entire combustion plant. In the case of a change to a combustion plant, which may have consequences for the environment and which affects a part of the plant with a rated thermal input of 50 MW or more, the emission limit values as set out in Part 2 of Schedule 10 shall apply to the part of the plant which has changed in relation to the total rated thermal input of the entire combustion plant.
+(9)  Where a combustion plant is extended, the emission limit values set out in Part 2 of Schedule 10 shall apply to the extended part of the plant affected by the change and shall be set in relation to the total rated thermal input of the entire combustion plant. In the case of a change to a combustion plant, which may have consequences for the environment and which affects a part of the plant with a rated thermal input of 50 MW or more, the emission limit values as set out in Part 2 of Schedule 10 shall apply to the part of the plant which has changed in relation to the total rated thermal input of the entire combustion plant.
 
 (10)  The emission limit values set out in Parts 1 and 2 of Schedule 10 shall not apply to the following combustion plants−
 
@@ -92,13 +76,7 @@ Desulphurisation rate.
 
 Transitional Plan.
 
-5.(1)  During the period from 1 January 2016 to 30 June 2020, the Agency may draw up and, with the Minister’s prior consent, implement a transitional plan covering combustion plants which were granted the first permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003. For each of the combustion plants covered by the plan, the plan shall cover emissions of one or more of the following pollutants: nitrogen oxides, sulphur dioxide
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 and dust. For gas turbines, only nitrogen oxides emissions shall be covered by the plan.
+5.(1)  During the period from 1 January 2016 to 30 June 2020, the Agency may draw up and, with the Minister’s prior consent, implement a transitional plan covering combustion plants which were granted the first permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003. For each of the combustion plants covered by the plan, the plan shall cover emissions of one or more of the following pollutants: nitrogen oxides, sulphur dioxide and dust. For gas turbines, only nitrogen oxides emissions shall be covered by the plan.
 
 (2)  The transitional plan shall not include any of the following combustion plants−
 
@@ -118,13 +96,7 @@ Subsidiary 2013/042 and dust. For gas turbines, only nitrogen oxides emissions s
 
 (6)  For each of the pollutants it covers, the transitional plan shall set a ceiling defining the maximum total annual emissions for all of the plants covered by the plan on the basis of each plant’s total rated thermal input on 31 December 2010, its actual annual operating hours and its fuel use, averaged over the last 10 years of operation up to and including 2010.
 
-(7)  The ceiling for the year 2016 shall be calculated on the basis of the relevant emission limit values set out in Annexes III to VII to the Large Combustion Plants Directive or, where applicable, on the basis of the rates of desulphurisation set out in Annex III to the Large Combustion Plants
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Directive. In the case of gas turbines, the emission limit values for nitrogen oxides set out for such plants in Part B of Annex VI to the Large Combustion Plants Directive shall be used. The ceilings for the years 2019 and 2020 shall be calculated on the basis of the relevant emission limit values set out in Part 1 of Schedule 10 to this Directive or, where applicable, the relevant rates of desulphurisation set out in Part 5 of Schedule 10 to this Directive. The ceilings for the years 2017 and 2018 shall be set providing a linear decrease of the ceilings between 2016 and 2019.
+(7)  The ceiling for the year 2016 shall be calculated on the basis of the relevant emission limit values set out in Annexes III to VII to the Large Combustion Plants Directive or, where applicable, on the basis of the rates of desulphurisation set out in Annex III to the Large Combustion Plants Directive. In the case of gas turbines, the emission limit values for nitrogen oxides set out for such plants in Part B of Annex VI to the Large Combustion Plants Directive shall be used. The ceilings for the years 2019 and 2020 shall be calculated on the basis of the relevant emission limit values set out in Part 1 of Schedule 10 to this Directive or, where applicable, the relevant rates of desulphurisation set out in Part 5 of Schedule 10 to this Directive. The ceilings for the years 2017 and 2018 shall be set providing a linear decrease of the ceilings between 2016 and 2019.
 
 (8)  Where a plant included in the transitional national plan is closed or no longer falls within the scope of this Schedule, this shall not result in an increase in total annual emissions from the remaining plants covered by the plan.
 
@@ -140,13 +112,7 @@ Limited life time derogation.
 
 (b) the operator is required to submit each year to the Agency a record of the number of operating hours since 1 January 2016;
 
-(c) the emission limit values for sulphur dioxides, nitrogen oxides and dust set out in the permit for the combustion plant applicable on 31 December 2015, pursuant in particular to the requirements of the Large Combustion Plants Directive and the
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Integrated Pollution Prevention and Control Directive, shall at least be maintained during the remaining operational life of the combustion plant. Combustion plants with a total rated thermal input of more than 500 MW firing solid fuels, which were granted the first permit after 1 July 1987, shall comply with the emission limit values for nitrogen oxides set out in Part 1 of Schedule 10; and
+(c) the emission limit values for sulphur dioxides, nitrogen oxides and dust set out in the permit for the combustion plant applicable on 31 December 2015, pursuant in particular to the requirements of the Large Combustion Plants Directive and the Integrated Pollution Prevention and Control Directive, shall at least be maintained during the remaining operational life of the combustion plant. Combustion plants with a total rated thermal input of more than 500 MW firing solid fuels, which were granted the first permit after 1 July 1987, shall comply with the emission limit values for nitrogen oxides set out in Part 1 of Schedule 10; and
 
 (d) the combustion plant has not been granted an exemption as referred to in Article 4(4) of the Large Combustion Plants Directive.
 
@@ -158,13 +124,7 @@ Subsidiary 2013/042 Integrated Pollution Prevention and Control Directive, shall
 
 Small isolated systems.
 
-7.(1)  Until 31 December 2019, combustion plants being, on 6 January 2011, part of a small isolated system may be exempted from compliance with the emission limit values referred to in paragraph 3(2) and (3) and the rates of desulphurisation referred to in paragraph 4, where applicable. Until 31 December 2019, the emission limit values set out in the permits of these combustion plants, pursuant in particular to the requirements of the Large
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Combustion Plants Directive and the Integrated Pollution Prevention and Control Directive, shall at least be maintained.
+7.(1)  Until 31 December 2019, combustion plants being, on 6 January 2011, part of a small isolated system may be exempted from compliance with the emission limit values referred to in paragraph 3(2) and (3) and the rates of desulphurisation referred to in paragraph 4, where applicable. Until 31 December 2019, the emission limit values set out in the permits of these combustion plants, pursuant in particular to the requirements of the Large Combustion Plants Directive and the Integrated Pollution Prevention and Control Directive, shall at least be maintained.
 
 (2)  Combustion plants with a total rated thermal input of more than 500 MW firing solid fuels, which were granted the first permit after 1 July 1987, shall comply with the emission limit values for nitrogen oxides set out in Part 1 of Schedule 10.
 
@@ -182,13 +142,7 @@ District heating plants.
 
 (d) the emission limit values for sulphur dioxide, nitrogen oxides and dust set out in its permit applicable on 31 December 2015, pursuant in particular to the requirements of the Large Combustion Plants Directive and the Integrated Pollution Prevention and Control Directive, are at least maintained until 31 December 2022.
 
-(2)  The Minister shall ensure that at the latest on 1 January 2016, a list of any combustion plants to which paragraph 1 applies, including their total rated thermal input, the fuel types used and the applicable emission limit values for sulphur dioxide, nitrogen oxides and dust is communicated to the European Commission. In addition, the European Commission shall be
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 informed annually, for any combustion plants to which subparagraph (1) applies and during the period mentioned in that subparagraph, of the proportion of useful heat production of each plant which was delivered in the form of steam or hot water to a public network for district heating, expressed as a rolling average over the preceding 5 years.
+(2)  The Minister shall ensure that at the latest on 1 January 2016, a list of any combustion plants to which paragraph 1 applies, including their total rated thermal input, the fuel types used and the applicable emission limit values for sulphur dioxide, nitrogen oxides and dust is communicated to the European Commission. In addition, the European Commission shall be informed annually, for any combustion plants to which subparagraph (1) applies and during the period mentioned in that subparagraph, of the proportion of useful heat production of each plant which was delivered in the form of steam or hot water to a public network for district heating, expressed as a rolling average over the preceding 5 years.
 
 Geological storage of carbon dioxide.
 
@@ -210,15 +164,9 @@ Malfunction or breakdown of the abatement equipment.
 
 (3)  The operator shall notify the Agency within 48 hours after the malfunction or breakdown of the abatement equipment.
 
-(4)  The cumulative duration of unabated operation shall not exceed 120 hours in any 12-month period.
+(4)  The cumulative duration of unabated operation shall not exceed 120 hours in any 12- month period.
 
 (5)  The Agency may grant a derogation from the time limits set out in subparagraphs (2) and (4) in one of the following cases−
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (a) there is an overriding need to maintain energy supplies;
 
@@ -226,7 +174,9 @@ Subsidiary 2013/042
 
 Monitoring of emissions into air.
 
-11.(1)  The Agency shall ensure that the monitoring of air polluting substances is carried out in accordance with Part 3 of Schedule 10. (2)  The installation and functioning of the automated monitoring equipment shall be subject to control and to annual surveillance tests as set out in Part 3 of Schedule 10.
+11.(1)  The Agency shall ensure that the monitoring of air polluting substances is carried out in accordance with Part 3 of Schedule 10.
+
+(2)  The installation and functioning of the automated monitoring equipment shall be subject to control and to annual surveillance tests as set out in Part 3 of Schedule 10.
 
 (3)  The Agency shall determine the location of the sampling or measurement points to be used for the monitoring of emissions.
 
@@ -246,11 +196,7 @@ Multi-fuel firing combustion plants.
 
 (c) aggregating the fuel-weighted emission limit values.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (2)   In the case of multi-fuel firing combustion plants covered by paragraph 3(2) and (3), which use the distillation and conversion residues from the refining of crude-oil for own consumption, alone or with other fuels, the following emission limit values may be applied instead of the emission limit values set according to subparagraph (1)−
+(2)   In the case of multi-fuel firing combustion plants covered by paragraph 3(2) and (3), which use the distillation and conversion residues from the refining of crude-oil for own consumption, alone or with other fuels, the following emission limit values may be applied instead of the emission limit values set according to subparagraph (1)−
 
 (a) where, during the operation of the combustion plant, the proportion contributed by the determinative fuel to the sum of the thermal inputs delivered by all fuels is 50% or more, the emission limit value set in Part 1 of Schedule 10 for the determinative fuel;
 
@@ -267,12 +213,6 @@ Subsidiary 2013/042 (2)   In the case of multi-fuel firing combustion plants cov
 (3)  In the case of multi-fuel firing combustion plants covered by paragraph 3(2) and (3), which use the distillation and conversion residues from the refining of crude-oil for own consumption, alone or with other fuels, the average emission limit values for sulphur dioxide set out in Part 7 of Schedule 10 may be applied instead of the emission limit values set according to subparagraphs (1) or (2).
 
 Reporting obligations.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 14.(1) For all combustion plants to which this Schedule applies the Agency shall, from 1 January 2016, establish an annual inventory of the sulphur dioxide, nitrogen oxides and dust emissions and energy input.
 
@@ -298,14 +238,4 @@ Subsidiary 2013/042
 
 (a) for combustion plants to which paragraph 4 applies, the sulphur content of the indigenous solid fuel used and the rate of desulphurisation achieved, averaged over each month. For the first year where paragraph 4 is applied, the technical justification of the non-feasibility of complying with the emission limit values referred to in paragraph 3(2) to (4) shall also be reported; and
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (b) for combustion plants which do not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, the number of operating hours per year.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
+(b) for combustion plants which do not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, the number of operating hours per year.

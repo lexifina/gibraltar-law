@@ -28,17 +28,13 @@ For waste management activities, this calculation shall apply at the level of ac
 
 2.1.  Metal ore (including sulphide ore) roasting or sintering.
 
-2.2.  Production of pig iron or steel (primary or secondary fusion) including continuous casting, with a capacity exceeding 2.5 tonnes per hour. 2.3.  Processing of ferrous metals–
+2.2.  Production of pig iron or steel (primary or secondary fusion) including continuous casting, with a capacity exceeding 2.5 tonnes per hour.
+
+2.3.  Processing of ferrous metals–
 
 (a) operation of hot-rolling mills with a capacity exceeding 20 tonnes of crude steel per hour;
 
 (b) operation of smitheries with hammers the energy of which exceeds 50 kilojoule per hammer, where the calorific power used exceeds 20 MW;
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (c) application of protective fused metal coats with an input exceeding 2 tonnes of crude steel per hour.
 
@@ -68,13 +64,7 @@ Subsidiary 2013/042
 
 3.4.  Melting mineral substances including the production of mineral fibres with a melting capacity exceeding 20 tonnes per day
 
-3.5.  Manufacture of ceramic products by firing, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain with a production
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 capacity exceeding 75 tonnes per day and/or with a kiln capacity exceeding 4 m3 and with a setting density per kiln exceeding 300 kg/m3.
+3.5.  Manufacture of ceramic products by firing, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain with a production capacity exceeding 75 tonnes per day and/or with a kiln capacity exceeding 4 m3 and with a setting density per kiln exceeding 300 kg/m3.
 
 4.  Chemical industry.
 
@@ -96,7 +86,7 @@ For the purpose of this section, production within the meaning of the categories
 
 (g) organometallic compounds;
 
-(h) plastic materials (polymers, synthetic fibres and cellulose- based fibres);
+(h) plastic materials (polymers, synthetic fibres and cellulose-based fibres);
 
 (i) synthetic rubbers;
 
@@ -108,19 +98,15 @@ For the purpose of this section, production within the meaning of the categories
 
 (a) gases, such as ammonia, chlorine or hydrogen chloride, fluorine or hydrogen fluoride, carbon oxides, sulphur compounds, nitrogen oxides, hydrogen, sulphur dioxide, carbonyl chloride;
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (b) acids, such as chromic acid, hydrofluoric acid, phosphoric acid, nitric acid, hydrochloric acid, sulphuric acid, oleum, sulphurous acids;
 
 (c) bases, such as ammonium hydroxide, potassium hydroxide, sodium hydroxide;
 
 (d) salts, such as ammonium chloride, potassium chlorate, potassium carbonate, sodium carbonate, perborate, silver nitrate;
 
-(e) non-metals, metal oxides or other inorganic compounds such as calcium carbide, silicon, silicon carbide. 4.3. Production of phosphorous-, nitrogen- or potassium-based fertilisers(simple or compound fertilisers).
+(e) non-metals, metal oxides or other inorganic compounds such as calcium carbide, silicon, silicon carbide.
+
+4.3. Production of phosphorous-, nitrogen- or potassium-based fertilisers(simple or compound fertilisers).
 
 4.4. Production of plant protection products or of biocides.
 
@@ -148,12 +134,6 @@ Subsidiary 2013/042
 
 (h) recovery of components used for pollution abatement;
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (i) recovery of components from catalysts;
 
 (j) oil re-refining or other reuses of oil;
@@ -162,7 +142,7 @@ Subsidiary 2013/042
 
 5.2.  Disposal or recovery of waste in waste incineration plants or in waste co-incineration plants-
 
-(a) for non-hazardous waste with a capacity exceeding 3 tonnes per hour;
+(a)  for non-hazardous waste with a capacity exceeding 3 tonnes per hour;
 
 (b) for hazardous waste with a capacity exceeding 10 tonnes per day.
 
@@ -172,7 +152,7 @@ Subsidiary 2013/042
 
 (ii) physico-chemical treatment;
 
-(iii) pre-treatment of waste for incineration or co- incineration;
+(iii) pre-treatment of waste for incineration or co-incineration;
 
 (iv) treatment of slags and ashes;
 
@@ -182,15 +162,9 @@ Subsidiary 2013/042
 
 (i) biological treatment;
 
-(ii) pre-treatment of waste for incineration or co- incineration;
+(ii) pre-treatment of waste for incineration or co-incineration;
 
 (iii) treatment of slags and ashes;
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (iv) treatment in shredders of metal waste, including waste electrical and electronic equipment and end-of-life vehicles and their components.
 
@@ -212,23 +186,19 @@ When the only waste treatment activity carried out is anaerobic digestion, the c
 
 (c) one or more of the following wood-based panels: oriented strand board, particleboard or fibreboard with a production capacity exceeding 600 m3 per day.
 
-6.2.  Pre-treatment (operations such as  washing, bleaching, mercerisation) or dyeing of textile fibres or textiles where the treatment  capacity exceeds 10 tonnes per day.
+6.2.  Pre-treatment (operations such as washing, bleaching, mercerisation) or dyeing of textile fibres or textiles where the treatment capacity exceeds 10 tonnes per day.
 
 6.3.  Tanning of hides and skins where the treatment capacity exceeds 12 tonnes of finished products per day.
 
 6.4. (a) Operating slaughterhouses with a carcass production capacity greater than 50 tonnes per day;
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
+(b) treatment and processing, other than exclusively packaging, of the following raw materials, whether previously processed or unprocessed, intended for the production of food or feed from-
 
-2005-27
-
-Subsidiary 2013/042 (b) treatment and processing, other than exclusively packaging, of the following raw materials, whether previously processed or unprocessed, intended for the production of food or feed from-
-
-(i) only animal raw materials (other than exclusively milk) with  a finished product production capacity greater than 75 tonnes per day;
+(i) only animal raw materials (other than exclusively milk) with a finished product production capacity greater than 75 tonnes per day;
 
 (ii) only vegetable raw materials with a finished product production capacity greater than 300 tonnes per day or 600 tonnes per day where the installation operates for a period of no more than 90 consecutive days in any year;
 
-(iii) animal and vegetable raw materials, both in combined and separate products, with a finished product production capacity  in tonnes per day greater than:
+(iii) animal and vegetable raw materials, both in combined and separate products, with a finished product production capacity in tonnes per day greater than:
 
 — 75 if A is equal to 10 or more; or,
 
@@ -242,11 +212,7 @@ This subsection shall not apply where the raw material is milk only.
 
 (c) treatment and processing of milk only, the quantity of milk received being greater than 200 tonnes per day (average value on an annual basis).
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 6.5.  Disposal or recycling of animal carcases or animal waste with a treatment capacity exceeding 10 tonnes per day.
+6.5.  Disposal or recycling of animal carcases or animal waste with a treatment capacity exceeding 10 tonnes per day.
 
 6.6.  Intensive rearing of poultry or pigs;
 
@@ -262,12 +228,6 @@ Subsidiary 2013/042 6.5.  Disposal or recycling of animal carcases or animal was
 
 6.9.  Capture of CO2 streams from installations covered by the Industrial Emissions Directive for the purposes of geological storage pursuant to Directive 2009/31/EC
 
-6.10.  Preservation of wood and wood products with chemicals with a production capacity exceeding 75m3  per day other than exclusively treating against sapstain.
+6.10.  Preservation of wood and wood products with chemicals with a production capacity exceeding 75m3 per day other than exclusively treating against sapstain.
 
 6.11.  Independently operated treatment of waste water not covered by Directive 91/271/EEC and discharged by an installation covered by Chapter II of the Industrial Emissions Directive.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

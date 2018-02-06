@@ -26,12 +26,6 @@ Prohibition of the disposal of waste.
 
 Control of emissions into water.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 3.  Emissions from installations into water shall not exceed the emission limit values set out in Part 2.
 
 Prevention and control of emissions into air.
@@ -63,12 +57,6 @@ Emission limit values for emissions into water
 (b) 228 kg chloride per tonne of titanium dioxide produced using synthetic rutile,
 
 (c) 330 kg chloride per tonne of titanium dioxide produced using slag.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 Installations discharging into salt water (estuarine, coastal, open sea) may be subject to an emission limit value of 450 kg chloride per tonne of titanium dioxide produced using slag.
 
@@ -102,16 +90,6 @@ The monitoring of emissions into air shall include at least the continuous monit
 
 (a) gaseous sulphur dioxide and trioxide discharged from digestion and calcination from installations for the concentration of waste acid in installations using the sulphate process;
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (b) chlorine from major sources within installations using the chloride process;
+(b) chlorine from major sources within installations using the chloride process;
 
 (c) dust from major sources.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

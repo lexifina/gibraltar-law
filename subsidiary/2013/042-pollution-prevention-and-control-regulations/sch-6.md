@@ -24,11 +24,7 @@ APPLICATIONS FOR VARIATION
 
 (g) any additional information which the operator wishes the Agency to take into account in considering the application,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (h) in the case of an application for the variation of the conditions of a permit in respect of a waste incineration installation−
+(h) in the case of an application for the variation of the conditions of a permit in respect of a waste incineration installation−
 
 (i) the information specified in paragraph 3 of Schedule 4, or
 
@@ -46,19 +42,15 @@ Subsidiary 2013/042 (h) in the case of an application for the variation of the c
 
 (c) result in the use, production or release of a relevant hazardous substance on the site (including any such additional land).
 
-(2)  A site report is not required under paragraph (1) for additional land where the change relates to a solvents emissions activity, provided that no activity at the installation is described in Schedule 1. (3)  An application to which subparagraph (1)(a) or (b) applies must include a site report.
+(2)  A site report is not required under paragraph (1) for additional land where the change relates to a solvents emissions activity, provided that no activity at the installation is described in Schedule 1.
+
+(3)  An application to which subparagraph (1)(a) or (b) applies must include a site report.
 
 (4)  An application to which subparagraph (1)(c) applies must include a baseline report.
 
 (5)  An existing site report or baseline report may be amended to take account of any substance or relevant hazardous substance for the purposes of paragraph (1).
 
 (6)  The Agency may on request by the applicant waive the requirement in subparagraph (1)(c) for a baseline report, having regard for that purpose to the possibility of soil and groundwater contamination.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (7)  In this paragraph a reference to an activity includes a directly associated activity.
 
@@ -94,12 +86,6 @@ DETERMINATION OF VARIATIONS
 
 (4)  Where this paragraph applies, the Agency must−
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (a) notify the operator that the paragraph applies, and of any prescribed fee,
 
 (b) in the case of a proposed variation notice, serve a copy of the proposed notice on the operator,
@@ -126,11 +112,7 @@ Subsidiary 2013/042
 
 (b) state the address of the site of the installation,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (c) describe briefly the activities carried out in the installation and the change in the operation of the installation that will be authorised by the variation,
+(c) describe briefly the activities carried out in the installation and the change in the operation of the installation that will be authorised by the variation,
 
 (d) state where and, in the case of a variation affecting the operation of the installation, how and at what times, the register which contains−
 
@@ -152,11 +134,9 @@ may be inspected, and that it may be inspected free of charge,
 
 (j) where applicable, explain that any guidance relevant to the determination of the proposed variation which has been provided to the operator under subparagraph (4)(d)(ii) has been included in the register or otherwise made available.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
+(10)  Any representations made by any person within the period allowed must be considered by the Agency in determining the application or before serving the variation notice.
 
-2005-27
-
-Subsidiary 2013/042 (10)  Any representations made by any person within the period allowed must be considered by the Agency in determining the application or before serving the variation notice. (11)  For the purpose of subparagraph (10), the period allowed for making representations is−
+(11)  For the purpose of subparagraph (10), the period allowed for making representations is−
 
 (a) in the case of persons notified pursuant to subparagraph (4)(c), the period of 28 days beginning with the date on which notice of the application or proposed variation notice was given under that subparagraph,
 
@@ -173,12 +153,6 @@ Subsidiary 2013/042 (10)  Any representations made by any person within the peri
 (i) serve the variation notice,
 
 (ii) include in the register a copy of the variation notice, together with the statement confirming that no representations have been received by the Agency on the proposed variation and information on the reasons and considerations on which the variation notice is based, and
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 (iii) where paragraph 11 applies, forward a copy of the variation notice and the information specified in subparagraph (ii) to the Minister,
 
@@ -203,12 +177,6 @@ within the period of 21 days beginning on the day on which the period allowed by
 (a) its determination of an application for variation under regulation 44, or
 
 (b) in the case of such an application where which paragraph 4(1)(b) applies, and which affects the operation of an installation, its draft determination,
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 within the period specified in subparagraph (2).
 
@@ -236,11 +204,7 @@ or such longer period as may be agreed with the operator.
 
 8.  An advertisement required by paragraph 7 must−
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (a) explain where, how and at what times the register which contains−
+(a) explain where, how and at what times the register which contains−
 
 (i) any additional information which is relevant to the determination of the application which has become available after the application is advertised pursuant to paragraph 4(8),
 
@@ -266,12 +230,6 @@ may be inspected, and that it may be inspected free of charge,
 
 (bb) include in the register a copy of the final determination, together with a statement confirming that no representations have been made on the draft determination and information on the reasons and considerations on which the determination is based and information about the public participation process, and
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (cc) advertise the notice on its web site or, if it considers it appropriate, by any other means,
 
 within the period of 7 days beginning on the day on which the period referred to in subparagraph (c) or, where applicable, paragraph 14 ends; or
@@ -292,13 +250,11 @@ within the period of 21 days beginning on the day on which the later of the peri
 
 11.(1)  This paragraph applies where−
 
-(a) the Minister is aware that an application or a proposed variation notice relates to a substantial change in the operation of an installation carrying out activities listed in Annex I to the Industrial Emissions Directive which are likely to have significant negative effects on the environment of another Member State, or (b) such a Member State requests information relating to such an application or notice.
+(a) the Minister is aware that an application or a proposed variation notice relates to a substantial change in the operation of an installation carrying out activities listed in Annex I to the Industrial Emissions Directive which are likely to have significant negative effects on the environment of another Member State, or
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
+(b) such a Member State requests information relating to such an application or notice.
 
-2005-27
-
-Subsidiary 2013/042 (2)  Where this paragraph applies the Minister must ensure that other Member States are provided, for the purposes of Article 26 of the Industrial Emissions Directive,−
+(2)  Where this paragraph applies the Minister must ensure that other Member States are provided, for the purposes of Article 26 of the Industrial Emissions Directive,−
 
 (a) with a copy of the application or proposed variation notice,
 
@@ -323,12 +279,6 @@ Subsidiary 2013/042 (2)  Where this paragraph applies the Minister must ensure t
 (ii) a copy of any representations duly received by the Minister in respect of the application or the proposed variation from a person in the other Member State (a “Member State representation”), and
 
 (b) in the case of an application to be determined by the Agency, the time period within which to determine the application or to provide a draft determination set out in paragraph 8 begins on the day on which it receives that notification by the Minister that the bilateral consultations have been completed.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 13.(1)  The Minister must give the Agency any Member State representations received.
 
@@ -358,16 +308,6 @@ CONFIDENTIAL INFORMATION
 
 (a) the period for notification under paragraph 4(4)(b) of this Schedule is the period of 14 days beginning 14 days after the day on which the matters to be determined for the purposes of regulation 62 are finally disposed of,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (b) the period within which an advertisement is to be published under paragraph 4(8) shall be 28 days beginning 14 days after the day on which the matters to be determined for the purposes of regulation 62 are finally disposed of.
+(b) the period within which an advertisement is to be published under paragraph 4(8) shall be 28 days beginning 14 days after the day on which the matters to be determined for the purposes of regulation 62 are finally disposed of.
 
 18.  Where a matter falls to be determined for the purposes of regulation 62, the period within which an advertisement is to be made under paragraph 7 is the 3 day period beginning 14 days after the day on which the matters to be determined for the purposes of regulation 65 are finally disposed of.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

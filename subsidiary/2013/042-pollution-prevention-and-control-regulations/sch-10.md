@@ -24,13 +24,7 @@ Total rated thermal input (MW) Coal and lignite and other solid fuels Biomass Pe
 
 Combustion plants, using solid fuels which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, and which do not operate more than 1 500 operating hours per year as a rolling average over a period of 5 years, shall be subject to an emission limit value for SO2 mg/Nm3.
 
-Combustion plants using liquid fuels, which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, and which do not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, shall be subject to an emission limit value for SO2 of 850mg/Nm3 in case of plants with a total rated thermal input not exceeding 300 MW and of
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 400 mg/Nm3 in case of plants with a total rated thermal input greater than 300 MW.
+Combustion plants using liquid fuels, which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, and which do not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, shall be subject to an emission limit value for SO2 of 850mg/Nm3 in case of plants with a total rated thermal input not exceeding 300 MW and of 400 mg/Nm3 in case of plants with a total rated thermal input greater than 300 MW.
 
 A part of a combustion plant discharging its waste gases through one or more separate flues within a common stack, and which does not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, may be subject to the emission limit values set out in the preceding two paragraphs in relation to the total rated thermal input of the entire combustion plant. In such cases the emissions through each of those flues shall be monitored separately.
 
@@ -74,12 +68,6 @@ Liquid fuels
 
 100-300 200 250 200(1)
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 > 300
 
 200 200 150(1)
@@ -88,7 +76,7 @@ Note:
 
 (1) The emission limit value is 450 mg/Nm3 for the firing of distillation and conversion residues from the refining of crude-oil for own consumption in combustion plants with a total rated thermal input not exceeding 500 MW which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003.
 
-Combustion plants in chemical installations using liquid production residues as non-commercial fuel for own consumption with a total rated thermal input not exceeding 500 MW which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, shall be subject to an emission limit value for NOx of 450 mg/Nm3.
+Combustion plants in chemical installations using liquid production residues as non- commercial fuel for own consumption with a total rated thermal input not exceeding 500 MW which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, shall be subject to an emission limit value for NOx of 450 mg/Nm3.
 
 Combustion plants using solid or liquid fuels with a total rated thermal input not exceeding 500 MW which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, and which do not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, shall be subject to an emission limit value for NOx of 450mg/Nm3.
 
@@ -96,13 +84,7 @@ Combustion plants using solid fuels with a total rated thermal input greater tha
 
 Combustion plants using liquid fuels, with a total rated thermal input greater than 500 MW which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, and which do not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, shall be subject to an emission limit value for NOx of 400 mg/Nm3.
 
-A part of a combustion plant discharging its waste gases through one or more separate flues within a common stack, and which does not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, may be subject to the emission limit values set out in the preceding three paragraphs in relation to the total rated input of the entire
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 combustion plant. In such cases the emissions through each of those flues shall be monitored separately.
+A part of a combustion plant discharging its waste gases through one or more separate flues within a common stack, and which does not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, may be subject to the emission limit values set out in the preceding three paragraphs in relation to the total rated input of the entire combustion plant. In such cases the emissions through each of those flues shall be monitored separately.
 
 5. Gas turbines (including combined cycle gas turbines (CCGT)) using light and middle distillates as liquid fuels shall be subject to an emission limit value for NOx of 90 mg/Nm3 and for CO of 100 mg/Nm3.
 
@@ -126,11 +108,7 @@ ___ Combustion plants firing other gases, with the exception of gas turbines and
 
 Notes:
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (1) Natural gas is naturally occurring methane with not more than 20 % (by volume) of inerts and other constituents.
+(1) Natural gas is naturally occurring methane with not more than 20 % (by volume) of inerts and other constituents.
 
 (2) 75 mg/Nm 3 in the following cases, where the efficiency of the gas turbine is determined at ISO base load conditions:
 
@@ -150,11 +128,7 @@ For gas turbines (including CCGT) which were granted a permit before 27 November
 
 A part of a combustion plant discharging its waste gases through one or more separate flues within a common stack, and which does not operate more than 1,500 operating hours per year as a rolling average over a period of 5 years, may be subject to the emission limit values set out in the preceding paragraph in relation to the total rated thermal input of the entire combustion plant. In such cases the emissions through each of those flues shall be monitored separately.
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 Gas turbines and gas engines for emergency use that operate less than 500 operating hours per year are not covered by the emission limit values set out in this point. The operator of such plants shall record the used operating hours.
+Gas turbines and gas engines for emergency use that operate less than 500 operating hours per year are not covered by the emission limit values set out in this point. The operator of such plants shall record the used operating hours.
 
 7.  Emission limit values (mg/Nm3) for dust for combustion plants using solid or liquid fuels with the exception of gas turbines and gas engines
 
@@ -164,11 +138,9 @@ Coal and lignite and other solid fuels
 
 Biomass and peat
 
-Liquid fuels (1) 50-100
+Liquid fuels (1) 50-100 30 30 30 100-300 25 20 25 > 300 20 20 20
 
-30 30 30 100-300 25 20 25 > 300
-
-20 20 20 Note:
+Note:
 
 (1)  The emission limit value is 50 mg/Nm3 for the firing of distillation and conversion residues from the refining of crude oil for own consumption in combustion plants which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003.
 
@@ -186,13 +158,7 @@ PART 2
 
 Emission limit values for combustion plants referred to in Article 30(3)
 
-1.  All emission limit values shall be calculated at a temperature of 273,15 K, a pressure of 101,3 kPa and after correction for the water vapour content of
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 the waste gases and at a standardised O2 content of 6% for solid fuels, 3% for combustion plants other than gas turbines and gas engines using liquid and gaseous fuels and 15% for gas turbines and gas engines.
+1.  All emission limit values shall be calculated at a temperature of 273,15 K, a pressure of 101,3 kPa and after correction for the water vapour content of the waste gases and at a standardised O2 content of 6% for solid fuels, 3% for combustion plants other than gas turbines and gas engines using liquid and gaseous fuels and 15% for gas turbines and gas engines.
 
 In case of combined cycle gas turbines with supplementary firing, the standardised O2 content may be defined by the Agency, taking into account the specific characteristics of the installation concerned.
 
@@ -232,12 +198,6 @@ Low calorific gases from coke oven
 
 400 Low calorific gases from blast furnace 200
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 4. Emission limit values (mg/Nm3) for NOx for combustion plants using solid or liquid fuels with the exception of gas turbines and gas engines
 
 Total rated thermal input (MW)
@@ -276,12 +236,6 @@ NOx CO Combustion plants other than gas turbines and gas engines
 
 75 100
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 Note:
 
 (1) For single cycle gas turbines having an efficiency greater than 35% – determined at ISO base load conditions – the emission limit value for NOx shall be 50xη/35 where η is the gas turbine efficiency at ISO base load conditions expressed as a percentage.
@@ -316,11 +270,7 @@ PART 3
 
 Emission monitoring
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 1. The concentrations of SO2, NOx and dust in waste gases from each combustion plant with a total rated thermal input of 100 MW or more shall be measured continuously.
+1. The concentrations of SO2, NOx and dust in waste gases from each combustion plant with a total rated thermal input of 100 MW or more shall be measured continuously.
 
 The concentration of CO in waste gases from each combustion plant firing gaseous fuels with a total rated thermal input of 100 MW or more shall be measured continuously.
 
@@ -342,19 +292,15 @@ The concentration of CO in waste gases from each combustion plant firing gaseous
 
 6.  The Agency shall be informed of significant changes in the type of fuel used or in the mode of operation of the plant. The Agency shall decide whether the monitoring requirements laid down in points 1 to 4 are still adequate or require adaptation.
 
-7.  The continuous measurements carried out in accordance with point 1 shall include the measurement of the oxygen content, temperature, pressure and water vapour content of the waste gases. The continuous measurement
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 of the water vapour content of the waste gases shall not be necessary, provided that the sampled waste gas is dried before the emissions are analysed.
+7.  The continuous measurements carried out in accordance with point 1 shall include the measurement of the oxygen content, temperature, pressure and water vapour content of the waste gases. The continuous measurement of the water vapour content of the waste gases shall not be necessary, provided that the sampled waste gas is dried before the emissions are analysed.
 
 8.  Sampling and analysis of relevant polluting substances and measurements of process parameters as well as the quality assurance of automated measuring systems and the reference measurement methods to calibrate those systems shall be carried out in accordance with CEN standards. If CEN standards are not available, ISO, national or other international standards which ensure the provision of data of an equivalent scientific quality shall apply.
 
 The automated measuring systems shall be subject to control by means of parallel measurements with the reference methods at least once per year.
 
-The operator shall inform the Agency about the results of the checking of the automated measuring systems. 9. At the emission limit value level, the values of the 95% confidence intervals of a single measured result shall not exceed the following percentages of the emission limit values−
+The operator shall inform the Agency about the results of the checking of the automated measuring systems.
+
+9. At the emission limit value level, the values of the 95% confidence intervals of a single measured result shall not exceed the following percentages of the emission limit values−
 
 Carbon monoxide
 
@@ -377,12 +323,6 @@ Dust
 Any day in which more than three hourly average values are invalid due to malfunction or maintenance of the automated measuring system shall be invalidated. If more than 10 days over a year are invalidated for such situations the Agency shall require the operator to take adequate measures to improve the reliability of the automated measuring system.
 
 11. In the case of plants which must comply with the rates of desulphurisation referred to in Article 31, the sulphur content of the fuel which is fired in the combustion plant shall also be regularly monitored. The competent authorities shall be informed of substantial changes in the type of fuel used.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
 
 PART 4
 
@@ -412,15 +352,9 @@ Minimum rate of desulphurisation
 
 Minimum rate of desulphurisation
 
-Total rated thermal Plants which were   Other plants
+Total rated thermal input (MW) Plants which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 input (MW) granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003
-
-50-100 80% 92% 100-300 90% 92% >300 96% (1) 96% (1)
+Other plants 50-100 80% 92% 100-300 90% 92% >300 96% (1) 96% (1)
 
 Note:
 
@@ -454,12 +388,6 @@ PART 7
 
 Average emission limit values for multi-fuel firing combustion plants within a refinery
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 Average emission limit values (mg/Nm3) for SO2 for multi-fuel firing combustion plants within a refinery, with the exception of gas turbines and gas engines, which use the distillation and conversion residues from the refining of crude-oil for own consumption, alone or with other fuels−
 
 (a) for combustion plants which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003: 1,000 mg/Nm3;
@@ -467,9 +395,3 @@ Average emission limit values (mg/Nm3) for SO2 for multi-fuel firing combustion 
 (b) for other combustion plants: 600 mg/Nm3.
 
 These emission limit values shall be calculated at a temperature of 273,15 K, a pressure of 101,3 kPa and after correction for the water vapour content of the waste gases and at a standardised O2 content of 6% for solid fuels and 3% for liquid and gaseous fuels.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

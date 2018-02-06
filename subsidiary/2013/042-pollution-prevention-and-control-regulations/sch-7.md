@@ -30,11 +30,7 @@ APPEALS TO THE MINISTER
 
 (a) in the case of an appeal under regulation 55(1), before the expiry of the period of 6 months beginning with the date of the decision or deemed decision which is the subject matter of the appeal,
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 (b) in the case of an appeal under regulation 55(2) against a revocation notice, before the date on which the revocation takes effect,
+(b) in the case of an appeal under regulation 55(2) against a revocation notice, before the date on which the revocation takes effect,
 
 (c) in the case of an appeal under regulation 55(2) against a variation notice served in connection with a partial transfer under regulation 45, before the expiry of the period of 6 months beginning with the date of the notice,
 
@@ -58,13 +54,7 @@ Subsidiary 2013/042 (b) in the case of an appeal under regulation 55(2) against 
 
 (c) describe the application or permit to which the appeal relates,
 
-(d) state that representations with respect to the appeal may be made to the Minister in writing by any recipient of the notice within a period of 21 days beginning with the date of the
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042 notice, and that copies of any representations so made will be furnished to the appellant and to the Agency,
+(d) state that representations with respect to the appeal may be made to the Minister in writing by any recipient of the notice within a period of 21 days beginning with the date of the notice, and that copies of any representations so made will be furnished to the appellant and to the Agency,
 
 (e) explain that any such representations will be entered in the register unless that person making the representation requests in writing that they should not be entered, and that where such a request is made there will be included in the register a statement indicating only that representations have been made which have been the subject of such a request.
 
@@ -90,20 +80,8 @@ Subsidiary 2013/042 notice, and that copies of any representations so made will 
 
 5.(1)  The Minister must give notice to the appellant of the determination of the appeal, and at the same time send a copy−
 
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
-
 (a) to the Agency and to any persons required under paragraph 3(1)(a) to be notified of the appeal, and
 
 (b) to any person mentioned in paragraph 3(1)(b) and (c) who made representations to the Minister and to any other person who made representations in relation to the appeal at the hearing.
 
 (2)  The Minister must advise the appellant of the further right of appeal to the Magistrates’ Court, on a point of law.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042

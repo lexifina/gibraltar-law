@@ -25,9 +25,3 @@ Landfill Act, 2002.
 (2)  In section 8(2) after paragraph (b) insert the following paragraph−
 
 “(c) any conditions required by the Industrial Emissions Regulations 2013 are included.”.
-
-Environment POLLUTION PREVENTION AND CONTROL REGULATIONS 2013
-
-2005-27
-
-Subsidiary 2013/042
