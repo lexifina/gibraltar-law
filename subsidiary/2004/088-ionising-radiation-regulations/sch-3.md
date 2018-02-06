@@ -19,9 +19,3 @@ The following additional particulars may be required under regulation 7(3)-
 (g) the date of termination of the work;
 
 (h) further information on any of the particulars listed in Schedule 2.
-
-Health Protection (Ionising Radiation) IONISING RADIATION REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/088

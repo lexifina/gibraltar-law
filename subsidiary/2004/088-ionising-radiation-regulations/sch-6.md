@@ -10,7 +10,7 @@ PARTICULARS TO BE ENTERED IN THE RADIATION PASSBOOK
 
 4.  The name, telephone number and mark of endorsement of the issuing approved dosimetry service.
 
-5.  The name, address, telephone and telex/fax number of the employer.
+5.  The name, address, telephone and e-mail address of the employer.
 
 6.  Full name (surname and forenames), date of birth, gender and national insurance number of the outside worker to whom the passbook has been issued.
 
@@ -30,18 +30,6 @@ PARTICULARS TO BE ENTERED IN THE RADIATION PASSBOOK
 
 (i) an estimate of any whole body effective dose in mSv received by the outside worker;
 
-Health Protection (Ionising Radiation) IONISING RADIATION REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/088
-
 (ii) in the event of non-uniform exposure, an estimate of the equivalent dose in mSv to organs and tissues as appropriate; and
 
 (iii) in the event of internal contamination, an estimate of the activity taken in or the committed dose.
-
-Health Protection (Ionising Radiation) IONISING RADIATION REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/088

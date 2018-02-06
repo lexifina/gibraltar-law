@@ -23,9 +23,3 @@ The following particulars shall be given in a notification under regulation 7(2)
 (e) whether or not any source is to be used at premises other than the address given at subparagraph (b) above; and
 
 (f) dates of notification and commencement of the work activity.
-
-Health Protection (Ionising Radiation) IONISING RADIATION REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/088
