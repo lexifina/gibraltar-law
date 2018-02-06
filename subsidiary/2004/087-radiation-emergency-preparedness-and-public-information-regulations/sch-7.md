@@ -1,73 +1,33 @@
-SCHEDULE 7 Regulations 7(3)(a), 8(3)(a) and; and 9(2)(c).
+SCHEDULE 7
 
-INFORMATION TO BE INCLUDED IN EMERGENCY PLANS
+Elements to be included in an emergency response plan
 
-PART I
+For emergency preparedness:
 
-Information to be included in an operator’s emergency plan
+1. Reference levels for public exposure, taking into account the criteria laid down in Schedule 15 of the 2004 Regulations;
 
-The information referred to in regulation 7(3)(a) is as follows-
+2. Reference levels for emergency occupational exposure taking into account regulation 15;
 
-(a) the names or positions of persons authorised to set emergency procedures in motion and the person in charge of, and who will co-ordinate, the on-site mitigatory action;
+3. Optimised protection strategies for members of the public who may be exposed, for different postulated events and related scenarios;
 
-(b) the name or position of the person responsible for liaison with the Environmental Agency in relation to the preparation of the off-site emergency plan;
+4. Predefined generic criteria for particular protective measures;
 
-(c) a description of the action to be taken to control, and to limit the consequences of, those reasonably foreseeable conditions or events which could be significant in triggering a radiation emergency, including a description of the safety equipment and resources available for deployment in such circumstances;
+5. Default triggers or operational criteria such as observables and indicators of on-scene conditions;
 
-(d) the arrangements for limiting the risks to persons on the premises of exposure to ionising radiation resulting from any reasonably foreseeable radiation emergency, including how such persons are to be provided with a warning in the event of such an emergency and the actions such persons will be expected to take on receipt of such a warning;
+6. Arrangements for prompt coordination between organisations having a role in emergency preparedness and response and with all other Member States and with third countries which may be involved or are likely to be affected;
 
-(e) the arrangements for the provision of an early warning of a radiation emergency to the Government’s Civil Contingency Committee, for the purpose of enabling the Committee to set the off-site emergency plan in motion, the type of information which will be included in such a warning and the arrangements for the provision of more detailed information to the Committee, as it becomes available; (f) the arrangements for the provision of assistance with off-site mitigatory action, in the event of a radiation emergency; and
+7. Arrangements for the emergency response plan to be reviewed and revised to take account of changes or lessons learned from exercises and events.
 
-Health Protection (Ionising Radiation) RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2004
+Arrangements shall be established in advance to revise these elements, as appropriate during an emergency exposure situation, to accommodate the prevailing conditions as these evolve throughout the response.
 
-1995-09
+For emergency response:
 
-Subsidiary 2004/087
+The response to an emergency exposure situation shall be undertaken through the timely implementation of preparedness arrangements, including but not limited to:
 
-(g) the arrangements for permitting certain employees to receive emergency exposures, including the dose levels which have been determined to be appropriate to be applied to those employees.
+1. Promptly implementing protective measures, if possible, before any exposure occurs;
 
-PART II
+2. Assessing the effectiveness of strategies and implemented actions and adjusting them as appropriate to the prevailing situation;
 
-Information to be included in a carrier’s emergency plan
+3. Comparing the doses against the applicable reference level, focusing on those groups whose doses exceed the reference level;
 
-The information referred to in regulation 8(3)(a) is as follows-
-
-(a) the names or positions of persons authorised to set emergency procedures in motion and the person in charge of, and who will co-ordinate, the mitigatory action;
-
-(b) a description of the action to be taken to control, and to limit the consequences of, those reasonably foreseeable conditions or events which could be significant in triggering a radiation emergency, including a description of the safety equipment and resources available for deployment in such circumstances;
-
-(c) the arrangements for the provision of an early warning of an incident to such persons, bodies or authorities as the carrier considers appropriate, the type of information which will be included in such a warning and the arrangements for the provision of more detailed information to such persons, bodies or authorities as it becomes available;
-
-(d) the arrangements for permitting certain employees to receive emergency exposures, including the dose levels which have been determined to be appropriate to be applied to those employees.
-
-PART III
-
-Information to be included in an off-site emergency plan
-
-The information referred to in regulation 9(2)(c) is as follows-
-
-(a) the names or positions of persons authorised to set emergency procedures in motion and the person in charge of, and who will co-ordinate, the on-site mitigatory action;
-
-Health Protection (Ionising Radiation) RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/087
-
-(b) the arrangements for receiving early warning of any radiation emergency;
-
-(c) the arrangements for the co-ordination of resources necessary to implement the off-site emergency plan;
-
-(d) the arrangements for the provision of assistance with on-site mitigatory action;
-
-(e) the arrangements for off-site mitigatory action;
-
-(f) the arrangements for the provision to the public of specific information in the event of a radiation emergency, including the facts of the emergency, the steps to be taken by the various authorities and, where appropriate, the health protection measures to be taken by the public themselves; and
-
-(g) the arrangements for permitting certain employees to receive emergency exposures, including the dose levels which have been determined to be appropriate to be applied to those employees.
-
-Health Protection (Ionising Radiation) RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/087
+4. Implementing further protection strategies, as necessary, based on prevailing conditions and available information.

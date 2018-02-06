@@ -1,4 +1,6 @@
-SCHEDULE 6 Regulation 6(6)
+SCHEDULE 6
+
+Regulation 6(6)
 
 FURTHER PARTICULARS WHICH THE COMPETENT AUTHORITY MAY REQUIRE
 
@@ -23,9 +25,3 @@ A further assessment and report may be required under regulation 6(6) in respect
 (i) the protection of persons from the effects of loss of containment;
 
 (j) the procedures for reporting of and learning from radiation emergencies.
-
-Health Protection (Ionising Radiation) RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/087

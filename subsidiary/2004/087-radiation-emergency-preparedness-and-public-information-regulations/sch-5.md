@@ -1,4 +1,6 @@
-SCHEDULE 5 Regulation 6(5)
+SCHEDULE 5
+
+Regulation 6(5)
 
 PARTICULARS TO BE INCLUDED IN AN ASSESSMENT REPORT
 
@@ -18,13 +20,7 @@ The following particulars are required to be included in an assessment report un
 
 (e) in the case of an assessment by an operator, a description of any radioactive substance on the premises which is likely to exceed the quantity or mass specified in Schedule 2 or 3, as the case may be, which description, where practicable, shall include details of the radionuclides present and their likely maximum quantities;
 
-(f) in the case of an assessment by or for a carrier, a description of any radioactive substance which is likely to exceed any quantity or mass specified in Schedule 4 or 3, as the case may be, which description, where practicable, shall include details
-
-Health Protection (Ionising Radiation) RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/087 of the radionuclides present and their likely maximum quantities;
+(f) in the case of an assessment by or for a carrier, a description of any radioactive substance which is likely to exceed any quantity or mass specified in Schedule 4 or 3, as the case may be, which description, where practicable, shall include details of the radionuclides present and their likely maximum quantities;
 
 (g) except in the case of an assessment relating to transport, a plan of the premises in question and a map of the environs to a scale large enough to enable the premises and any features which could affect the general risk in an emergency to be identified;
 
@@ -34,24 +30,14 @@ Subsidiary 2004/087 of the radionuclides present and their likely maximum quanti
 
 (j) those factors which could precipitate a smaller but continuing release of any radioactive substance and the measures to be taken to prevent or control such releases to atmosphere;
 
-(k) those factors which could give rise to an incident involving the initiation of an unintended self-sustaining nuclear chain reaction or the loss of control of an intended self-sustaining nuclear chain reaction and, in either case  the measures to be taken to prevent or control any such incident;
+(k) those factors which could give rise to an incident involving the initiation   of   an unintended   self-sustaining   nuclear   chain reaction or the loss of control of an intended self-sustaining nuclear chain reaction and, in either case the measures to be taken to prevent or control any such incident;
 
 (l) information concerning the management system and staffing arrangements by which the radioactive substance is controlled and by which the administrative or maintenance procedures are controlled;
 
 (m) except in the case of an assessment relating to transport, information about the size and distribution of the population in the vicinity of premises to which the report relates;
 
-Health Protection (Ionising Radiation) RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/087 (n) an assessment of the area which is likely to be affected by the dispersal of any radioactive substance as a result of any radiation emergency and the period of time over which such dispersal is likely to take place;
+(n) an assessment of the area which is likely to be affected by the dispersal of any radioactive substance as a result of any radiation emergency and the period of time over which such dispersal is likely to take place;
 
 (o) an assessment of the likely exposures to ionising radiation of any person or class of persons as a result of any radiation emergency; and
 
-(p) an assessment of the need for an operator’s emergency plan pursuant to regulation 7(1) or a carrier’s emergency plan pursuant to regulation 8(1).
-
-Health Protection (Ionising Radiation) RADIATION (EMERGENCY PREPAREDNESS AND PUBLIC INFORMATION) REGULATIONS 2004
-
-1995-09
-
-Subsidiary 2004/087
+(p) an assessment of the need for an operator’s emergency response plan pursuant to regulation 7(1) or a carrier’s emergency response plan pursuant to regulation 8(1).
