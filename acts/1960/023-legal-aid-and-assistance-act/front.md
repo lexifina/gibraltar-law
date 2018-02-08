@@ -14,7 +14,7 @@ Act. 1968-34 s. 13(1), Sch. 1969-29 s. 3A, Sch.
 
 1973-31 s. 13(1)
 
-1990-47 s. 13(1) 15.11.1990 2001-06 ss. 3A, 12(1), Sch 14.3.2001 2005-45 s. 13(3)-(6) 4.8.2005 2007-17 ss. 8(2), 13(1), 19 14.6.2007 LN. 2017/084 Sch.1 27.4.2017
+1990-47 s. 13(1) 15.11.1990 2001-06 ss. 3A, 12(1), Sch 14.3.2001 2005-45 s. 13(3)-(6) 4.8.2005 2007-17 ss. 8(2), 13(1), 19 14.6.2007 LN. 2017/084 Sch.1 27.4.2017 Act. 2018-03 ss. 7(2), 13(1), 20(1) 8.2.2018
 
 English sources
 
@@ -120,7 +120,7 @@ Legal aid and Assistance
 
 7.(1)  Before a person is granted legal aid under any of the sections contained in this Part, he may be required to furnish a written statement in the prescribed form about matters relevant for determining whether his means are insufficient to enable him to obtain legal aid.
 
-(2)  A person who in furnishing a written statement in accordance with the provisions of subsection (1) or in applying for legal aid in accordance with the provisions of this Part, knowingly makes any false statement or false representation, is guilty of an offence and is liable, on summary conviction, to imprisonment for four months and to a fine of £100.
+(2)  A person who in furnishing a written statement in accordance with the provisions of subsection (1) or in applying for legal aid in accordance with the provisions of this Part, knowingly makes any false statement or false representation, is guilty of an offence and is liable, on summary conviction, to imprisonment for six months and to a fine not exceeding level 4 on the standard scale.
 
 Counsel.
 
@@ -142,11 +142,11 @@ Rules for the purposes of Part I.
 
 10. The Chief Justice may make such rules as appear to him necessary or desirable for giving effect to this Part.
 
-PART II. CIVIL PROCEEDINGS.
+PART II.
 
 Legal aid and Assistance
 
-1960-23
+1960-23 CIVIL PROCEEDINGS.
 
 Interpretation.
 
@@ -174,11 +174,11 @@ Scope and conditions of legal assistance in civil proceedings.
 
 (2)  The proceedings in connection with which legal assistance may be given are any proceedings of a description mentioned in Part I of the Schedule, except proceedings mentioned in Part II of that Schedule.
 
-(3)  Legal assistance shall consist of representation, on the terms provided for by this Part, by a solicitor and, so far as necessary, by a barrister including all such assistance as is usually given by solicitor or
+(3)  Legal assistance shall consist of representation, on the terms provided for by this Part, by a solicitor and, so far as necessary, by a
 
 Legal aid and Assistance
 
-1960-23 barrister in the steps preliminary or incidental to any proceedings or in arriving at or giving effect to a compromise to avoid or bring to an end any proceedings.
+1960-23 barrister including all such assistance as is usually given by solicitor or barrister in the steps preliminary or incidental to any proceedings or in arriving at or giving effect to a compromise to avoid or bring to an end any proceedings.
 
 (4)  A person shall not be given legal assistance in connection with any proceedings unless the Registrar is satisfied that such person has reasonable grounds for taking, defending or being a party thereto and may also be refused legal assistance if it appears to the Registrar unreasonable that he should receive it in the particular circumstances of the case.
 
@@ -190,9 +190,9 @@ Legal aid and Assistance
 
 Financial conditions of legal assistance.
 
-13. (1)  Subject to this Part legal assistance shall be available for any person whose income does not exceed £5,000 a year or such other figure as the Government may specify by notice in the Gazette:
+13. (1)  Subject to this Part legal assistance shall be available for any person whose income does not exceed £5,000 a year or such other figure, which may be calculated by means of a formula,  as the Government may specify by notice in the Gazette:
 
-Provided that a person shall be refused legal assistance if he has a capital of more than £350 or such other figure as the Government may specify by notice in the Gazette unless it appears that he cannot afford to proceed without legal assistance.
+Provided that a person shall be refused legal assistance if he has a capital of more than £350 or such other figure, which may be calculated by means of a formula,  as the Government may specify by notice in the Gazette unless it appears that he cannot afford to proceed without legal assistance.
 
 (2)  Where a person receives legal assistance in connection with any proceedings–
 
@@ -372,7 +372,7 @@ Proceedings for misrepresentations, etc.
 
 (b)  in furnishing any information required by such rules knowingly makes any false statement or false representation,
 
-is guilty of an offence and is liable, on summary conviction, to imprisonment for six months and to a fine of £100.
+is guilty of an offence and is liable, on summary conviction, to imprisonment for six months and to a fine not exceeding level 4 on the standard scale.
 
 (2)  Any proceedings for an offence under subsection (1) may, notwithstanding any law prescribing the time within which such proceedings may be brought, be brought within two years after the commission of the offence or within six months next after the first discovery thereof by the prosecutor, whichever is the shorter.
 
