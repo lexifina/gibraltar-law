@@ -16,7 +16,7 @@ LN.  2012/151 Long title, ss. 1A, 1B, 2-27, 28A- 28W, 29, Schs. 5, 6 & 12
 
 1.11.2012 2014/157 Schs. 2 & 3 17.6.2014 2017/081 ss. 2, 16(1), (3), (4), (9), (10), (11), 16A, 26(1), (3), Schs. 6-8, 10-11A
 
-29.4.2017
+29.4.2017 2018/035 ss. 28X-28Z 8.2.2018
 
 Transposing: Directive 2004/23/EC Directive 2006/17/EC Directive 2006/86/EC Directive 2010/53/EU Directive 2012/39/EU Directive 2015/565/EU
 
@@ -40,7 +40,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 PART 2 HUMAN ORGANS
 
-28A.  Subject matter and application of this Part. 28B.   Interpretation of Part 2. 28C.  Framework and compliance with licensing conditions and directions. 28D.  Licensing requirement for procurement and transplantation activity. 28E.  Granting of licences. 28F.  Preconditions to grant of a licence. 28G.  Consequences of failure, etc. 28H.  Guidance and directions. 28I. Records, reports and information. 28J. The principles of organ donation. 28K.  The quality and safety of living donation. 28L.  Serious adverse events and serious adverse reactions. 28M.  Traceability. 28N.  Organs sent to another country. 28O.  The Authority and European organ exchange organisations. 28P.  Control and audit by way of inspections. 28Q.  Appropriate statements. 28R.  Seizure in the course of inspection or search. 28S.  Requirements when exercising power of inspection or search. 28T.  Protection of personal data, confidentiality and security of processing. 28U.  Offences and penalties. 28V.  Offences by bodies corporate. 28W.   Reports to the Commission.
+28A.  Subject matter and application of this Part. 28B.   Interpretation of Part 2. 28C.  Framework and compliance with licensing conditions and directions. 28D.  Licensing requirement for procurement and transplantation activity. 28E.  Granting of licences. 28F.  Preconditions to grant of a licence. 28G.  Consequences of failure, etc. 28H.  Guidance and directions. 28I. Records, reports and information. 28J. The principles of organ donation. 28K.  The quality and safety of living donation. 28L.  Serious adverse events and serious adverse reactions. 28M.  Traceability. 28N.  Organs sent to another country. 28O.  The Authority and European organ exchange organisations. 28P.  Control and audit by way of inspections. 28Q.  Appropriate statements. 28R.  Seizure in the course of inspection or search. 28S.  Requirements when exercising power of inspection or search. 28T.  Protection of personal data, confidentiality and security of processing. 28U.  Offences and penalties. 28V.  Offences by bodies corporate. 28W.   Reports to the Commission. 28X. Consent for donation after death. 28Y. Nominated representative. 28Z. Qualifying relationships for donation.
 
 PART 3 MISCELLANEOUS
 
@@ -52,11 +52,11 @@ SCHEDULE 2 Laboratory tests required for donors (except donors of reproductive c
 
 SCHEDULE 3 Selection criteria and laboratory tests required for donors of reproductive cells.
 
-SCHEDULE 4
-
 Public Health (Human Tissues, Cells and Organs)
 
-2009-53 Cell or tissue or both donation and procurement procedures and reception at the tissue establishment.
+2009-53
+
+SCHEDULE 4 Cell or tissue or both donation and procurement procedures and reception at the tissue establishment.
 
 SCHEDULE 5 Requirements for authorisation of tissue establishments.
 
