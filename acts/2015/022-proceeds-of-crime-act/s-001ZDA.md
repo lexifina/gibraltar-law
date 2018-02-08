@@ -26,7 +26,9 @@ Information gathering.
 
 Proceeds of Crime
 
-2015-22 (d) the Commissioner for Income Tax;
+2015-22
+
+(d) the Commissioner for Income Tax;
 
 (e) a police officer; and
 
@@ -62,7 +64,9 @@ Criteria for making request.
 
 Proceeds of Crime
 
-2015-22 (d) the particulars of specified accounts, or of operations which have been carried out during a specified period;
+2015-22
+
+(d) the particulars of specified accounts, or of operations which have been carried out during a specified period;
 
 (e)   the information is motivated by concerns relating to money laundering, an associated predicate offence, or terrorist financing.
 
@@ -232,7 +236,7 @@ Proceeds of Crime
 
 Protection of confidential information.
 
-1L.  No person may disclose confidential information held by or obtained from the GFIU except–
+1L.(1)  No person may disclose confidential information held by or obtained from the GFIU except–
 
 Proceeds of Crime
 
@@ -243,6 +247,14 @@ Proceeds of Crime
 (b) with the permission of the GFIU; or
 
 (c) under compulsion of a court order.
+
+(2) A person who contravenes subsection (1) commits an offence.
+
+(3) A person guilty of an offence under this section is liable-
+
+(a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding the statutory maximum or to both;
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine or to both.
 
 Referral of suspected offences.
 
@@ -262,17 +274,17 @@ Reports.
 
 (a) connected with the exercise of the GFIU’s functions, or
 
+Proceeds of Crime
+
+2015-22
+
 (b) otherwise connected with any of the GFIU’s activities,
 
 as may be specified in the requirement.
 
 Terms and conditions of employment unaffected.
 
-1P. Nothing in this Part shall be construed as altering the terms and conditions of employment of a police or customs officer whilst that officer is seconded to the GFIU, and for the avoidance of doubt, the period of that officer’s service with the GFIU shall be calculated as part of and continuous
-
-Proceeds of Crime
-
-2015-22 with that officer’s employment with the Crown, for purposes of leave, pension and any other condition of service.
+1P. Nothing in this Part shall be construed as altering the terms and conditions of employment of a police or customs officer whilst that officer is seconded to the GFIU, and for the avoidance of doubt, the period of that officer’s service with the GFIU shall be calculated as part of and continuous with that officer’s employment with the Crown, for purposes of leave, pension and any other condition of service.
 
 Preservation of powers.
 
@@ -298,17 +310,17 @@ Interpretation of Part and Part III.
 
 “criminal conduct” has the meaning given to it in section 182;
 
+Proceeds of Crime
+
+2015-22
+
 “criminal property” has the meaning given in section 182;
 
 “property” has the meaning given to it by section 183.
 
 (2) In this Part and in Part III–
 
-“European Banking Authority” and “EBA” means the European Banking Authority established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority
-
-Proceeds of Crime
-
-2015-22 (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC;
+“European Banking Authority” and “EBA” means the European Banking Authority established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC;
 
 “European Insurance and Occupational Pensions Authority” and “EIOPA” mean the European Insurance and Occupational Pensions Authority established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC;
 

@@ -22,7 +22,9 @@ Proceeds of Crime
 
 2015-22 161(3), 164(2)(b), 167(3)(a), 182(1), (1A), (2A), (5) (za), (zb)
 
-20.7.2017 LN. 2017/205 Sch. 2 1.11.2017 2018/013 s. 26(1A) 18.1.2018
+20.7.2017 LN. 2017/205 Sch. 2 1.11.2017 2018/013 s. 26(1A) 18.1.2018 Act. 2018-01 ss. 1B(2)(a), 1C(d), 1L(1)-(3), 70(2A), 70A-70B, 145, 146(6)
+
+8.2.2018
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849
 
@@ -98,7 +100,7 @@ Chapter 1 Introductory
 
 Proceeds of Crime
 
-2015-22 70. “Unlawful conduct”. 71. “Property obtained through unlawful conduct”.
+2015-22 70. “Unlawful conduct”. 70A. “Gross human rights abuse or violation”. 70B. “Gross human rights abuse or violation” – Supplementary. 71. “Property obtained through unlawful conduct”.
 
 Chapter 2 Civil Recovery Proceedings for recovery orders
 
@@ -124,11 +126,11 @@ Interim receiving orders: further provisions
 
 Vesting and realisation of recoverable property
 
-90. Recovery orders. 91. Functions of the trustee for civil recovery. 92. Rights of pre-emption, etc. 93. Associated and joint property. 94. Agreements about associated and joint property.
+90. Recovery orders. 91. Functions of the trustee for civil recovery. 92. Rights of pre-emption, etc.
 
 Proceeds of Crime
 
-2015-22 95. Associated and joint property: default of agreement. 96. Payments in respect of rights under pension schemes. 97. Consequential adjustment of liabilities under pension schemes. 98. Pension schemes: supplementary. 99. Consent orders. 100. Consent orders: pensions. 101. Limit on recovery. 102. Section 101: supplementary. 103. Applying realised proceeds.
+2015-22 93. Associated and joint property. 94. Agreements about associated and joint property. 95. Associated and joint property: default of agreement. 96. Payments in respect of rights under pension schemes. 97. Consequential adjustment of liabilities under pension schemes. 98. Pension schemes: supplementary. 99. Consent orders. 100. Consent orders: pensions. 101. Limit on recovery. 102. Section 101: supplementary. 103. Applying realised proceeds.
 
 Exemptions etc.
 
@@ -156,11 +158,11 @@ Searches
 
 Seizure and detention
 
-119. Seizure of cash.
-
 Proceeds of Crime
 
-2015-22 120. Detention of seized cash. 121. Interest. 122. Release of detained cash.
+2015-22
+
+119. Seizure of cash. 120. Detention of seized cash. 121. Interest. 122. Release of detained cash.
 
 Forfeiture without court order
 
@@ -184,11 +186,11 @@ Insolvency
 
 143. Insolvency.
 
-Interpretation
-
 Proceeds of Crime
 
-2015-22 144. Obtaining and disposing of property. 145. General interpretation.
+2015-22 Interpretation
+
+144. Obtaining and disposing of property. 145. General interpretation.
 
 PART VI INVESTIGATIONS Chapter 1 Introduction 146. Investigations. 147. Orders and warrants sought for civil recovery investigations. 148. Offences of prejudicing investigation.
 
@@ -206,11 +208,11 @@ Disclosure orders
 
 Customer information orders
 
-167.  Customer information orders. 168.  Meaning of customer information. 169.  Requirements for making of customer information order. 170.  Offences. 171.  Statements.
+167.  Customer information orders. 168.  Meaning of customer information. 169.  Requirements for making of customer information order.
 
 Proceeds of Crime
 
-2015-22 172.  Disclosure of information. 173.  Supplementary.
+2015-22 170.  Offences. 171.  Statements. 172.  Disclosure of information. 173.  Supplementary.
 
 Account monitoring orders
 
@@ -238,11 +240,11 @@ SCHEDULE 3
 
 SCHEDULE 4
 
-SCHEDULE 5
-
 Proceeds of Crime
 
-2015-22 SCHEDULE 6
+2015-22 SCHEDULE 5
+
+SCHEDULE 6
 
 SCHEDULE 7
 
