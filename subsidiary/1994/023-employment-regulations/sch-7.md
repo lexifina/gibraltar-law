@@ -10,9 +10,9 @@ The fee and penalty payable to the Director in respect of the registration of a 
 
 (a) when notification has been made in accordance with regulation 4 (1), - nil;
 
-(b) when the notification by the employer to the Director of the vacancy is made on or within 10 working days from the commencement date of that worker,– £15;
+(b) when the notification by the employer to the Director of the vacancy is made on or within 10 working days from the commencement date of that worker,– £16;
 
-(c) when the notification by the employer to the Director of the vacancy is made after the day on which the vacancy is filled, whether that notification is made under these Regulations or otherwise, £30;
+(c) when the notification by the employer to the Director of the vacancy is made after the day on which the vacancy is filled, whether that notification is made under these Regulations or otherwise, £31;
 
 (d) when the notification–
 
@@ -24,11 +24,11 @@ PART II.
 
 £ 1. The fee payable to the Director in respect of an application for a permit under regulation 7
 
-25.00 2. The fee payable to the Director in respect of an application for a renewal of a permit under regulation 7
+50.00 2. The fee payable to the Director in respect of an application for a renewal of a permit under regulation 7
 
-15.00 3.The fee payable to the Director in respect of a notification or application under regulation 15A
+25.00 3.The fee payable to the Director in respect of a notification or application under regulation 15A
 
-65.00
+67.00
 
 Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
 
@@ -46,4 +46,4 @@ Annual indexation of fees.
 
 2.  The first revision under this regulation shall apply as from 1 April 2018 and shall apply the index of retail prices for the year ending on 31 January 2018, and subsequent revisions shall apply on each subsequent 1 April and apply the index of retail prices prevailing on the preceding 31 January of that year.
 
-3.  Any figure revised pursuant to paragraph 1 shall be rounded up to the next whole penny.
+3.  Any figure revised pursuant to paragraph 1 shall be rounded up to the next whole pound.
