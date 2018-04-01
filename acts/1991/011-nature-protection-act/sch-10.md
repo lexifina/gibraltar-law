@@ -4,46 +4,62 @@ Sections 24A and 24B
 
 Admission Fees.
 
-1.(1) Subject to subparagraph (5) and paragraph 2, the fee for admission to the Upper Rock Nature Reserve shall be as follows–
+1.(1)  Subject to paragraph 2, the fee for admission to the Upper Rock Nature Reserve shall be as follows–
 
-(a) £0.50 for each person entering by foot at Jews’ Gate or Willis’s Road;
+(a) £5.00 per person entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station who otherwise have not paid a fee under subparagraph (1)(e) or (f);
 
-(b) £10.00 for each person aged 12 years of age and over entering in a private motor vehicle at Jews’ Gate or Willis’s Road;
+(b) £12.00 per person aged 12 years or over entering via Jews’ Gate or Willis’s Road;
 
-(c) £5.00 for each person aged from 5 to 11 years of age inclusive entering in a private motor vehicle at Jews’ Gate or Willis’s Road;
+(c) £7.00 per person aged from 5 to 11 years  inclusive entering via Jews’ Gate or Willis’s Road;
 
-(d) £2.00 for each private motor vehicle;
+(d) £7.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
 
-(e) £5.00 for each person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator.
+(e) £12.00 per person aged 12 years and over for entry from any cable car station;
 
-(2) Subject to section 24A(2), the fee for admission to all the tourist sites within the Upper Rock Nature Reserve shall be as follows–
-
-(a) £9.50 for each person aged 12 years of age and over who entered the Upper Rock Nature Reserve by foot at Jews’ Gate or Willis’s Road;
+(f) £7.00 per child aged from 5 to 11 years inclusive for entry from any cable car station;
 
 Nature Protection
 
-1991-11
+1991-11 (g) £3.00 per person entering via O Hara’s Battery (in addition to the relevant fee set out in (a) to (f) above).
 
-(b) £4.50 for each child aged from 5 to 11 years of age inclusive who entered the Upper Rock Nature Reserve by foot at Jews’ Gate or Willis’s Road;
+(2)  Subject to section 24A(2), the fees for admission to the tourist sites within the Upper Rock Nature Reserve shall be as follows–
 
-(c) £5.50 for each person aged 12 years of age and over for entry from the cable car middle or top stations if the admission ticket is pre-purchased at the cable car bottom station (if not pre- purchased the fee shall be £10.00);
+(a) £7.00 for each person aged 12 years and over who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road or Devil’s Gap Battery (applicable to all tourist sites with the exception of lower St Michael’s Cave and the World War II Tunnels);
 
-(d) £5.00 for each child aged from 5 to 11 years of age inclusive for entry from the cable car middle or top stations.
+(b) £2.00 for each child aged from 5 to 11 years inclusive who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road or Devil’s Gap Battery (applicable to all tourist sites with the exception of lower St Michael’s Cave and the World War II Tunnels);
 
-(3) The fees in subparagraphs (1) and (2) are cumulative.
+(c) for entering lower St Michael’s Cave–
 
-(4) The fees set in subparagraphs (1)(b) and (1)(c) shall be reduced by £1.00 where the person concerned has previously paid £1.00 for entry to the 100 Ton Gun.
+(i) £25.00 per person;
 
-2.(1) A person holding a valid Gibraltar identity card relating to that person may enter the Upper Rock Nature Reserve and all tourist sites within the Upper Rock Nature Reserve without paying a fee on production of that card.
+(ii) £15.00 per person holding a valid Gibraltar identity card or MOD identity document;
 
-(2) Gibraltar registered vehicles shall be exempted from payment of the fee in paragraph 1(1)(d).
+(d) for entering the World War II Tunnels–
 
-(3) A child aged under 5 years of age may enter the Upper Rock Nature Reserve and all tourist sites the Upper Rock Nature Reserve without paying a fee.
+(i) £8.00 per person aged 12 years and over;
 
-(4) Passengers in a taxi engaged for a city service journey shall be exempted from payment of the fee in paragraph 1(1)(e) and shall for the purposes of paragraph 1(2) be deemed to have entered the Upper Rock Nature Reserve by foot at Jew’s Gate.
+(ii) £4.00 per child aged from 5 to 11 years inclusive;
 
-(5) In subparagraph (4) “city service journey” means a one-way fare which is either–
+(iii) £4.00 per person holding a valid Gibraltar identity card or MOD identity document;
 
-(a) to or from a specific residence in a nature conservation area for a resident or visitor to that residence, or
+(iv) £4.00 per person in a taxi or forming part of a tour group with a tour operator.
 
-(b) in respect of a public or private function occurring in a nature conservation area which is not part of the general tourist attraction of the Upper Rock and which does not involve a stop at or a visit to any part of the Upper Rock except where the event is occurring.
+(3)  Subject to section 24A(2), the fees in subparagraphs (1) and (2) are cumulative.
+
+(4)  The fees set out in subparagraphs (1)(b) and (c) shall be reduced  by £3.00 where the person concerned has previously paid £3.00 for entry to the 100 Ton Gun on that same day.
+
+2.(1)  A person holding a valid Gibraltar identity card relating to that person may enter the Upper Rock Nature Reserve and all tourist sites within the Upper Rock Nature Reserve, with the exception of lower St Michael’s Cave
+
+Nature Protection
+
+1991-11 and the World War II Tunnels (the fees for which are set out in paragraphs 1(2)(c)(ii) and (d)(iii) respectively),  without paying a fee on production of that card.
+
+(2)  A child aged under 5 years may enter the Upper Rock Nature Reserve and all tourist sites within the Upper Rock Nature Reserve without paying a fee.
+
+(3)  Passengers in a taxi engaged for a city service journey shall be exempted from payment of the fee in paragraph 1(1)(d) and shall for the purposes of paragraph 1(2) be deemed to have entered the Upper Rock Nature Reserve by foot at Jew’s gate or Moorish Castle.
+
+(4)  In subparagraph (3) “city service journey” means a one-way fare which is either–
+
+(a) to or from a specific residence in the Upper Rock Nature Reserve for a resident or visitor to that residence; or
+
+(b) in respect of a public or private function occurring in the Upper Rock Nature Reserve which is not part of the general tourist attraction of the Upper Rock Nature Reserve and which does not involve a stop at or a visit to any part of the Upper Rock Nature Reserve except where the event is occurring.
