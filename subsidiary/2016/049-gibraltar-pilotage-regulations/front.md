@@ -12,7 +12,7 @@ Commencement 10.3.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/086 Sch.6 & 7 1.5.2017
+LN. 2017/086 Sch.6 & 7 1.5.2017 2018/072 Sch.6 & 7 1.4.2018
 
 _______________________
 
@@ -22,13 +22,13 @@ Regulation
 
 1. Title and commencement. 2. Interpretation. 3. Compulsory pilotage area. 4. Authorisation of pilots. 5. Application for authorisation. 6. Application for licence. 7. Issue of licence. 8. Examination of applicants under section 13. 9. Conditions of licence. 10. Duration of licence. 11. Procedure for the revocation and suspension of licences. 12. Review by the Minister of any decision made by the Captain of the
 
-Port in relation to licences. 13. Replacement of lost licences. 14. Duration of employment. 15. Full time employment. 16. Duty roster. 17. Accidents or damages. 18. Requirements relating to pilotage. 19. Pilotage exemption certificates. 20. Valid ENG 1 medical certificate. 21. Contents of pilotage exemption certificate. 22. Register of pilotage exemption certificate. 23. Pilotage exemption record book.
+Port in relation to licences. 13. Replacement of lost licences. 14. Duration of employment. 15. Full time employment. 16. Duty roster. 17. Accidents or damages. 18. Requirements relating to pilotage. 19. Pilotage exemption certificates. 20. Valid ENG 1 medical certificate. 21. Contents of pilotage exemption certificate. 22. Register of pilotage exemption certificate.
 
 Gibraltar Pilotage GIBRALTAR PILOTAGE REGULATIONS 2016
 
 2016-09
 
-Subsidiary 2016/049 24. When a pilotage exemption certificate or its revalidation is invalid. 25. Revocation or suspension of pilotage exemption certificate. 26. Appeals against revocation or suspension of a pilotage exemption certificate. 27. Pilotage fees. 28. Charges for boarding and landing. 29. Charges for call out, detention or cancellation. 30. Offences and penalties. 31. Bond.
+Subsidiary 2016/049 23. Pilotage exemption record book. 24. When a pilotage exemption certificate or its revalidation is invalid. 25. Revocation or suspension of pilotage exemption certificate. 26. Appeals against revocation or suspension of a pilotage exemption certificate. 27. Pilotage fees. 28. Charges for boarding and landing. 29. Charges for call out, detention or cancellation. 30. Offences and penalties. 31. Bond.
 
 SCHEDULE 1 COMPULSORY PILOTAGE AREA
 
