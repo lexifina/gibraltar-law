@@ -12,11 +12,13 @@ Commencement 26.6.2017
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/125 rr. 3(1), (4), 41A 27.6.2017
+LN. 2017/125 rr. 3(1), (4), 41A 27.6.2017 2018/080 rr. 3(1), (5), 6(3), (5), 7, 8(1), 8A, 9(2), (3), 10, 11A-11C, 12(1A), (11)(b)(i), 13(1), (3), 15, 16, 17, 18(1)(b), 19, 26(4), (5A), 26A, 31(2)(e), 33(1)(c), 37(1)(b), (2), (3), 37A, 42(1), (4)(b)(iii), 45(1), (2), 47, Sch. 1, 3
+
+5.4.2018
 
 Transposing – Directive (EU) 2015/849 _______________________
 
-ARRANGEMENT OF REGULATIONS
+Arrangement of regulations
 
 Regulation.
 
@@ -24,29 +26,45 @@ Regulation.
 
 Corporate or legal entity
 
-6. Requirement to hold information. 7. Requirement to provide information to obliged entity. 8. Requirement to supply Registrar with information.
-
-Express Trust
-
-9. Requirement to hold information. 10. Requirement to provide information to obliged entity. 11. Requirement to supply Registrar with information.
-
-Information Gathering
-
-12. Duty to investigate and obtain information.
+6. Requirement to hold information. 7. Revoked. 8. Requirement to supply Registrar with information. 8A. Duty on UBO to notify his existence: corporate or legal entity.
 
 Proceeds of Crime REGISTER OF ULTIMATE BENEFICIAL OWNERS REGULATIONS 2017
 
 2015-22
 
-Subsidiary 2017/122 13. Duty to keep information up-to-date. 14. Enforcement of disclosure requirements.
+Subsidiary 2017/122 Express Trust
+
+9. Requirement to hold information. 10. Revoked. 11. Requirement to supply Registrar with information.
+
+Foundations and other structures similar to trusts
+
+11A. Foundations and other structures similar to trusts.
+
+Other Registerable Person
+
+11B. Other Registerable Person.
+
+Relevant Legal Entity
+
+11C. Relevant Legal Entity.
+
+Information Gathering
+
+12. Duty to investigate and obtain information. 13. Duty to keep information up-to-date. 14. Enforcement of disclosure requirements.
 
 Additional Statements
 
-15. Additional Statements to be noted in the Register. 16. Additional Statements - no ultimate beneficial owner. 17. Additional Statements - an unidentified ultimate beneficial owner. 18. Additional Statements - particulars of ultimate beneficial owner not confirmed. 19. Additional Statements - investigations are ongoing. 20. Additional Statements - failure to comply with a notice given under regulation 12. 21. Additional Statements - failure to comply with a notice given under regulation 13. 22. Additional Statements - compliance with a notice given under regulation 12 or regulation 13 after the time specified in the notice. 23. Additional Statements - restrictions notice.
+15. Additional Statements to be noted in the Register. 16. Revoked. 17. Revoked. 18. Additional Statements - particulars of ultimate beneficial owner not confirmed. 19. Revoked. 20. Additional Statements - failure to comply with a notice given under regulation 12. 21. Additional Statements - failure to comply with a notice given under regulation 13. 22. Additional Statements - compliance with a notice given under regulation 12 or regulation 13 after the time specified in the notice. 23. Additional Statements - restrictions notice.
 
 The Register
 
-24. Documents to be submitted to the Registrar. 25. Keeping of company records by the Registrar. 26. Inspection, production and evidence of documents kept by Registrar - companies or legal entities. 27. GFIU disclosure to other EU FIUs. 28. Data Protection. 29. Fees. 30. Reliance on regulation 26 by obliged entities. 31. Application for non-disclosure of ultimate beneficial owner. 32. Exemption to disclosure of ultimate beneficial owner. 33. Matters relating to an application made under regulation 31. 34. Withdrawal of an application made under regulation 31. 35. Appealing against a determination made under regulation 31. 36. Duration of determination made under regulation 31. 37. Revocation a determination made under regulation 31.
+24. Documents to be submitted to the Registrar. 25. Keeping of company records by the Registrar.
+
+Proceeds of Crime REGISTER OF ULTIMATE BENEFICIAL OWNERS REGULATIONS 2017
+
+2015-22
+
+Subsidiary 2017/122 26. Inspection, production and evidence of documents kept by Registrar - companies or legal entities. 26A. Appeal against decision. 27. GFIU disclosure to other EU FIUs. 28. Data Protection. 29. Fees. 30. Reliance on regulation 26 by obliged entities. 31. Application for non-disclosure of ultimate beneficial owner. 32. Exemption to disclosure of ultimate beneficial owner. 33. Matters relating to an application made under regulation 31. 34. Withdrawal of an application made under regulation 31. 35. Appealing against a determination made under regulation 31. 36. Duration of determination made under regulation 31. 37. Revocation a determination made under regulation 31. 37A. Further appeal.
 
 Warning and Restrictions Notices
 
@@ -54,19 +72,27 @@ Warning and Restrictions Notices
 
 Requests
 
+41A. Requests to trustees.
+
+Penalties and offences
+
+42. Power to impose civil penalties. 43. Appeals. 44. General false statement offence. 45. Criminal Penalties. 46. Prosecution of offences. 47. Offences by an express trust, company or legal entity. 48. Recovery of charges and penalties through the court. 49. Power of a court to order a person to remedy default or delay. 50. Overriding Instrument.
+
+Schedules
+
+Schedule 1 - Failure to comply with notice under regulation 12 or 13. Schedule 2 - Supplementary Interpretation. Schedule 3 - LIST OF NON-EEA MARKETS.
+
 Proceeds of Crime REGISTER OF ULTIMATE BENEFICIAL OWNERS REGULATIONS 2017
 
 2015-22
 
 Subsidiary 2017/122
 
-41A. Requests to trustees. Penalties and offences
+Proceeds of Crime REGISTER OF ULTIMATE BENEFICIAL OWNERS REGULATIONS 2017
 
-42. Power to impose civil penalties. 43. Appeals. 44. General false statement offence. 45. Criminal Penalties. 46. Prosecution of offences. 47. Offences by an express trust, company or legal entity. 48. Recovery of charges and penalties through the court. 49. Power of a court to order a person to remedy default or delay. 50. Overriding Instrument.
+2015-22
 
-Schedules
-
-Schedule 1 - Failure to comply with notice under regulation 12 or 13. Schedule 2 - Supplementary Interpretation. Schedule 3 - Relevant legal entity and other registrable person.
+Subsidiary 2017/122
 
 Proceeds of Crime REGISTER OF ULTIMATE BENEFICIAL OWNERS REGULATIONS 2017
 
