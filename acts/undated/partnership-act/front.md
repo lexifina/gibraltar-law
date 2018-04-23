@@ -1,22 +1,16 @@
-Partnership
-
-1895-11
-
-PARTNERSHIP ACT
+Partnership Act
 
 Principal Act
 
 Act. No. 1895-11 Commencement 26.9.1895 Assent 26.9.1895
 
-Amending enactment Relevant current provisions Commencement date Acts.1983-12 s. 44 1983-48 – 2013-011 s. 29A 21.3.2013 2016-25 s. 29A(3) 1.12.2016
+Amending enactment Relevant current provisions Commencement date Act. 1983-12 s. 44 1983-48 – 2013-011 s. 29A 21.3.2013 2016-25 s. 29A(3) 1.12.2016 2016-18 s. 37(a) 23.4.2018
 
 English sources Partnership Act 1890 (53 & 54 Vict. c.39)
 
-1 Commencement notice see LN. 2013/038
+1 Commencement Notice see LN. 2013/038
 
-Partnership
-
-1895-11 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -34,11 +28,9 @@ PART III.–RELATIONS OF PARTNERS TO PERSONS DEALING WITH THEM.
 
 PART IV. –RELATIONS OF PARTNERS TO ONE ANOTHER.
 
-21. Variation by consent of terms of partnership. 22. Partnership property. 23. Property bought with partnership money. 24. Conversion into personal estate of land held as partnership property. 25. Procedure against partnership property for a partner's separate judgment debt. 26. Rules as to interests and duties of partners subject to special agreement. 27. Expulsion of partner.
+21. Variation by consent of terms of partnership. 22. Partnership property. 23. Property bought with partnership money. 24. Conversion into personal estate of land held as partnership property. 25. Procedure against partnership property for a partner's separate judgment debt. 26. Rules as to interests and duties of partners subject to special agreement. 27. Expulsion of partner. 28. Retirement from partnership at will.
 
-Partnership
-
-1895-11 28. Retirement from partnership at will. 29. Where partnership for term is continued over, continuance on old terms presumed. 29A.  Maintenance of accounting records. 30. Duty of partners to render accounts, etc. 31. Accountability of partners for private profits. 32. Duty of partner not to compete with firm. 33. Rights of assignee of share in partnership.
+29. Where partnership for term is continued over, continuance on old terms presumed. 29A.  Maintenance of accounting records. 30. Duty of partners to render accounts, etc. 31. Accountability of partners for private profits. 32. Duty of partner not to compete with firm. 33. Rights of assignee of share in partnership.
 
 PART V.–DISSOLUTION OF PARTNERSHIP AND ITS CONSEQUENCES
 
@@ -48,6 +40,4 @@ PART VI.–SUPPLEMENTAL.
 
 47. Saving for rules of equity and common law.
 
-Partnership
-
-1895-11 AN ACT TO AMEND AND DECLARE THE LAW OF PARTNERSHIP.
+AN ACT TO AMEND AND DECLARE THE LAW OF PARTNERSHIP.
