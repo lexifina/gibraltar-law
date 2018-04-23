@@ -318,7 +318,7 @@ Death, bankruptcy etc. of applicant or licence holder.
 
 (ii) a petition has been presented to the court under section 5 of the Bankruptcy Act for the making of a receiving order against him and no absolute order of discharge of such receiving order has been made under section 25 of that Act, or
 
-(iii) he becomes a patient within the meaning of Part IV of the Mental Health Act 2016, or
+(iii) he becomes a person who lacks capacity within the meaning of Part 5 of the Mental Health Act 2016, or
 
 Transport
 
@@ -344,15 +344,15 @@ Transport
 
 (i) the partnership is dissolved, or
 
-(ii) one of such persons becomes a patient within the meaning of Part IV of the Mental Health Act 2016
+(ii) one of such persons becomes a person who lacks capacity within the meaning of Part 5 of the Mental Health Act 2016
 
 with the result that only one other of such persons who is not such a patient remains in the firm, or
 
-(iii) one of such persons who alone manages the road transport business carried on by the partnership ceases to be a member of the partnership (either by death or otherwise) or becomes a patient within the meaning of Part IV of the Mental Health Act 2016, or
+(iii) one of such persons who alone manages the road transport business carried on by the partnership ceases to be a member of the partnership (either by death or otherwise) or becomes a person who lacks capacity
 
 Transport
 
-1998-44
+1998-44 within the meaning of Part 5 of the Mental Health Act 2016, or
 
 (iv) a petition has been presented to the court under section 5 of the Bankruptcy Act for the making of a receiving order against any partner and no absolute order of discharge of such receiving order has been made under section 25 of that Act, or
 
@@ -372,11 +372,13 @@ the licence shall, subject to the provisions specified in sub- paragraphs (5) an
 
 (b) where the requirement of professional competence ceases to be satisfied the Commission shall not be required to revoke the licence during such period, not exceeding one year from the date of such cessation, or during such further period, not exceeding six months from the end of that first period as the Commission may determine and this provision applies to a successor mentioned in (a) as well as to the person to whom the licence was granted.
 
-(5) The provisions of sub paragraph (4)(a) do not apply so as to continue in force a licence beyond the date on which it would have expired but for the occurrence of the relevant event or after the application for the new licence is disposed of.
+(5) The provisions of sub paragraph (4)(a) do not apply so as to continue in force a licence beyond the date on which it would have expired but for the
 
 Transport
 
-1998-44 (6) Where the Commission delays the revocation of the licence, the holder or the person mentioned in sub-paragraph (4)(a) shall take such steps of a temporary or interim nature during the period of the delay as the Commission may specify to ensure the proper conduct of the operation.
+1998-44 occurrence of the relevant event or after the application for the new licence is disposed of.
+
+(6) Where the Commission delays the revocation of the licence, the holder or the person mentioned in sub-paragraph (4)(a) shall take such steps of a temporary or interim nature during the period of the delay as the Commission may specify to ensure the proper conduct of the operation.
 
 (7) Where the licence is in respect of national transport operations and the reason for the revocation is a failure to comply with section 28(c)(iii) the Commission may exercise a discretion not to revoke the licence provided that the business is operated by an individual with at least three years experience in the day-to-day management of that business.
 
@@ -402,11 +404,11 @@ Transport
 
 (ii) of any other person as to whose activities particulars may he required to be given under (a);
 
-(c) information from which the Commission may satisfy itself that-
-
 Transport
 
 1998-44
+
+(c) information from which the Commission may satisfy itself that-
 
 (i) there will be or are, as the case may be, satisfactory arrangements for securing that sections 36 to 41 will be or are complied with in the case of authorised vehicles and for securing that those vehicles are nor overloaded;
 
@@ -430,11 +432,11 @@ Partnerships.
 
 (2) The provisions of sub-paragraph (1) of paragraph 18 shall apply in any case where the holder of a licence is persons in partnership if–
 
-(a) any one or more of those persons cease to satisfy the requirements to be of good repute, or
-
 Transport
 
-1998-44 (b) the firm ceases, to satisfy the requirements to be of appropriate financial standing, or
+1998-44 (a) any one or more of those persons cease to satisfy the requirements to be of good repute, or
+
+(b) the firm ceases, to satisfy the requirements to be of appropriate financial standing, or
 
 (c) when the requirement as to professional competence is satisfied by one or more of those persons who manage the road transport business carried on by the firm, he, or if more than one each of them, ceases to do so, or when the firm employs a transport manager or transport managers such manager, or if, more than one any of them, ceases to be of good repute, or when the firm relies upon the employment of a single transport manager to satisfy the requirement as to professional competence, that transport manager ceases to be employed by the firm.
 
@@ -450,11 +452,9 @@ Transport
 
 (a) as regards one such person or a single transport manager employed by the firm as it applies as regards a single transport manager employed by a company,
 
-(b) as regards two or more such persons or two or more transport managers employed by the firm as it applies as regards two or more transport managers employed by a company.
-
 Transport
 
-1998-44 (6) In this paragraph "firm" has the same meaning as in section 6 of the Partnership Act.
+1998-44 (b) as regards two or more such persons or two or more transport managers employed by the firm as it applies as regards two or more transport managers employed by a company. (6) In this paragraph "firm" has the same meaning as in section 6 of the Partnership Act.
 
 Conditions to be attached to operator licences.
 
@@ -474,11 +474,11 @@ Conditions to be attached to operator licences.
 
 Conditions which may be attached to an operator licence.
 
-15.  The conditions which may be attached under the Act to a licence are conditions regulating–
-
 Transport
 
-1998-44 (a) the number, type and size of authorised vehicles which may at any one time be at any operating centre of the holder of the licence for the purposes of maintenance and parking;
+1998-44 15.  The conditions which may be attached under the Act to a licence are conditions regulating–
+
+(a) the number, type and size of authorised vehicles which may at any one time be at any operating centre of the holder of the licence for the purposes of maintenance and parking;
 
 (b) the parking arrangements to be provided for authorised vehicles at or in the vicinity of every such operating centre;
 
@@ -496,11 +496,11 @@ Considerations relevant to suitability of site as an operating centre.
 
 (c) in the case of an application which, if granted, would result in land which has not previously been used as an operating centre being used as one, any in formation known to the Commission about any approved planning scheme, any application for outline planning permission, any such permission granted or any planning permit relating to the land or any other land in the vicinity of that land;
 
-(d) the number, type and size of authorised vehicles;
-
 Transport
 
-1998-44 (e) in the case of an application for a licence, the proposed or likely arrangements for the parking of authorised vehicles or the arrangements for such parking;
+1998-44 (d) the number, type and size of authorised vehicles;
+
+(e) in the case of an application for a licence, the proposed or likely arrangements for the parking of authorised vehicles or the arrangements for such parking;
 
 (f) in the case of an application for licence, the proposed nature and times of the use of the land proposed to be used for the purpose of an operating centre or the nature and times of the use of the land for the purpose of an operating centre;
 
@@ -518,11 +518,11 @@ Transport
 
 Variation, review, renewal and amendment of operator licences.
 
-17.(1) The provisions of paragraphs 8 and 14 apply to the variation of a licence, to the review of a licence, to an application to renew a licence, to the amending of a licence and to the imposition of conditions as those provisions respectively apply to an application for a licence, the decision to grant such a licence and the imposition of conditions on the occasion of the grant of such a licence, and for the purposes of the said application the references in those paragraphs to the application or the applicant for, or the grant of, a licence shall be construed respectively as references to the
+17.(1) The provisions of paragraphs 8 and 14 apply to the variation of a licence, to the review of a licence, to an application to renew a licence, to the amending of a licence and to the imposition of conditions as those provisions respectively apply to an application for a licence, the decision to grant such a licence and the imposition of conditions on the occasion of the grant of such a licence, and for the purposes of the said application the
 
 Transport
 
-1998-44 application or the applicant for such variation, review, renewal or amendment or to the making of such variation, review, renewal or amendment.
+1998-44 references in those paragraphs to the application or the applicant for, or the grant of, a licence shall be construed respectively as references to the application or the applicant for such variation, review, renewal or amendment or to the making of such variation, review, renewal or amendment.
 
 (2) If the holder of a licence which covers national transport operations applies for the licence to be amended so that it shall also cover international transport operations –
 
@@ -540,11 +540,9 @@ Suspension and revocation of operator licences.
 
 (4) Where the Commission decides that a licence be revoked, the Commission may as part of that decision disqualify the person who was the holder thereof indefinitely or for such period as the Commission thinks fit from holding or obtaining a licence, and so long as the disqualification is in force–
 
-(a) no licence shall be granted to him and any such licence obtained by him shall be of no effect; and
-
 Transport
 
-1998-44
+1998-44 (a) no licence shall be granted to him and any such licence obtained by him shall be of no effect; and
 
 (b) if he applies for or obtains such a licence he shall be liable on summary conviction to a fine at level 3 on the standard scale.
 
@@ -572,7 +570,9 @@ and a suspension or the imposition of conditions under this sub-paragraph shall 
 
 Transport
 
-1998-44 (8) The Commission may, where it is satisfied that it should do so, cancel a suspension or withdraw any conditions imposed on a licence under the provisions of this paragraph and shall do so where it is satisfied that the holder again satisfies the requirement to be of good repute, the requirement to be of appropriate financial standing or the requirement as to professional competence, and the provisions of paragraphs 9, 10 and 11 shall apply for the purposes of this sub-paragraph as they apply for the purposes of paragraph 8.
+1998-44
+
+(8) The Commission may, where it is satisfied that it should do so, cancel a suspension or withdraw any conditions imposed on a licence under the provisions of this paragraph and shall do so where it is satisfied that the holder again satisfies the requirement to be of good repute, the requirement to be of appropriate financial standing or the requirement as to professional competence, and the provisions of paragraphs 9, 10 and 11 shall apply for the purposes of this sub-paragraph as they apply for the purposes of paragraph 8.
 
 Written notification of refusal.
 
@@ -762,7 +762,7 @@ Transport
 
 1998-44 (c) of the appointment of a receiver or manager of the trade or business of the actual holder of a licence.
 
-(3) This paragraph also applies in the event of the actual holder of a licence becoming a patient within the meaning of Part IV of the Mental Health Act 2016.
+(3) This paragraph also applies in the event of the actual holder of a licence becoming a person who lacks capacity within the meaning of Part 5 of the Mental Health Act 2016.
 
 (4) After the happening of any of the events mentioned in sub- paragraphs (2) and (3) the Commission may direct that a person carrying on the trade or business of the actual holder of the licence is to be treated for the purposes of sections  25 to 34, and 42 and this Schedule as if he were the holder thereof for such purpose and to such extent as is specified in the direction for a period not exceeding–
 
