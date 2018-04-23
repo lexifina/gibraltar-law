@@ -18,7 +18,7 @@ Amending enactments Relevant current provisions Commencement Date Act. 1949-25 s
 
 14.6.2007 2014-11 ss. 2, 6(c), 13(1), (3), 22(1), (1A), (1B), 23(4), (5) & Sch. 2A
 
-12.6.2014 2016-22 ss. 2, 6(a), 6A, 6B, 40A, 15.12.20161
+12.6.2014 2016-22 ss. 2, 6(a), 6A, 6B, 40A, 15.12.20161 2016-18 s. 42(2) 23.4.2018
 
 English sources
 
