@@ -48,7 +48,7 @@ Part I - Mentally disabled persons.
 
 2.  A person for the time admitted to hospital under Part II of the Mental Health Act 2016.
 
-3.  A person whose property and affairs are managed by the court under Part IV of the Mental Health Act.
+3.  A person whose property and affairs are managed by the court under Part 5 of the Mental Health Act 2016.
 
 4.  In this Part of this Schedule–
 
