@@ -10,7 +10,7 @@ Rule 28 of the Elections Rules
 
 Sections 5 and 59 of the Immigration, Asylum and Refugee Act
 
-Sections 75, 76, 79 and 80 of the Mental Health Act 2016
+Sections 126, 127, 128 and 129 of the Mental Health Act 2016
 
 Section 29 of the Prison Act
 
