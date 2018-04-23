@@ -1,22 +1,18 @@
-Immigration, Asylum and Refugee ASYLUM REGULATIONS 2008
+Subsidiary Legislation made under s.55.
 
-1962-12
+Asylum Regulations 2008
 
-Subsidiary 2008/077 Subsidiary Legislation made under s.55.
-
-ASYLUM REGULATIONS 2008
-
-(LN. 2008/077)
+LN.2008/077
 
 Commencement 2.10.2008
 
-EU Legislation/International Agreements involved: Directive 2003/9/EC Directive 2004/83/EC
+Amending enactments Relevant current provisions Commencement date
 
-Immigration, Asylum and Refugee ASYLUM REGULATIONS 2008
+Act. 2016-18 r. 10(4)(b) 23.4.2018
 
-1962-12
+Transposing: Directive 2003/9/EC Directive 2004/83/EC
 
-Subsidiary 2008/077 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Part I General
 
@@ -36,11 +32,7 @@ Part IV Criteria for Determining Refugee and Subsidiary Protection Status
 
 Assessment
 
-Immigration, Asylum and Refugee ASYLUM REGULATIONS 2008
-
-1962-12
-
-Subsidiary 2008/077 25. Duty of the applicant. 26. Assessment of facts and circumstances.
+25. Duty of the applicant. 26. Assessment of facts and circumstances.
 
 Refugees
 
@@ -56,20 +48,12 @@ Part V Grant & Revocation of Refugee and Subsidiary Protection Status
 
 Part VI Content of Refugee and Subsidiary Protection
 
-46. General rules. 47. Protection from refoulement. 48. Information. 49. Residence permits. 50. Travel documents. 51. Access to employment, vocational training and work experience. 52. Access to education. 53. Social assistance. 54. Health care. 55. Unaccompanied minors.
+46. General rules. 47. Protection from refoulement. 48. Information. 49. Residence permits.
 
-Immigration, Asylum and Refugee ASYLUM REGULATIONS 2008
-
-1962-12
-
-Subsidiary 2008/077 56. Integration facilities. 57. Repatriation.
+50. Travel documents. 51. Access to employment, vocational training and work experience. 52. Access to education. 53. Social assistance. 54. Health care. 55. Unaccompanied minors. 56. Integration facilities. 57. Repatriation.
 
 Part VI Staff training, confidentiality and administrative cooperation
 
 58. Staff. 59. Contact point and cooperation. 60. Keeping of data and cooperation with the European Commission.
 
-Immigration, Asylum and Refugee ASYLUM REGULATIONS 2008
-
-1962-12
-
-Subsidiary 2008/077 In exercise of the powers conferred on it by section 55 of the Immigration, Asylum and Refugees Act and all other enabling powers and for the purpose of transposing into the law of Gibraltar Council Directive 2003/9/EC of 27 January 2003 laying down minimum standards for the reception of asylum applicants and Council Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted, the Government has made the following Regulations–
+In exercise of the powers conferred on it by section 55 of the Immigration, Asylum and Refugees Act and all other enabling powers and for the purpose of transposing into the law of Gibraltar Council Directive 2003/9/EC of 27 January 2003 laying down minimum standards for the reception of asylum applicants and Council Directive 2004/83/EC of 29 April 2004 on minimum standards for the qualification and status of third country nationals or stateless persons as refugees or as persons who otherwise need international protection and the content of the protection granted, the Government has made the following Regulations–
