@@ -12,7 +12,7 @@ Assent 25.9.2012
 
 Amending enactments Relevant current provisions Commencement date
 
-Act.  2014-30 ss. 10A 23.10.2014
+Act.  2014-30 ss. 10A 23.10.2014 2016-18 s. 8(2)(d) 23.4.2018
 
 ________________________
 
@@ -32,8 +32,8 @@ No-Smoking Signs
 
 Offences
 
-14. No-smoking signs (offence). 15. Offence of smoking where it is prohibited. 16. Offence of failing to prevent smoking where it is prohibited.
+14. No-smoking signs (offence). 15. Offence of smoking where it is prohibited.
 
 Smoke-Free Environment
 
-2012-08
+2012-08 16. Offence of failing to prevent smoking where it is prohibited.
