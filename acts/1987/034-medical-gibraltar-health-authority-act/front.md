@@ -16,7 +16,7 @@ Amending enactment Relevant current provisions Commencement date Act. 1989-07 s.
 
 26.6.2008 2017-12 ss. 2, 3(1)(c), (d), 4(2), 5(4), 6(2)(aa), (b) (iii), (iv), (v), (vi), 10, 10A, 11(1)(a), (c), (e), (f), (j), (2), 12(2), 14(2), 26
 
-20.7.2017 2018-02 s. 5(1), (2A), (2B) 8.2.2018
+20.7.2017 2018-02 s. 5(1), (2A), (2B) 8.2.2018 2018-04 s. 7A 23.4.2018 2016-18 s. 24(3) 23.4.2018
 
 1 Notice of Corrigendum (LN.1988/022)
 
@@ -26,7 +26,7 @@ Medical (Gibraltar Health Authority)
 
 Section.
 
-1. Title and commencement. 2. Interpretation. 3. Establishment of Gibraltar Health Authority. 4. Authority to be body corporate. 5. Meetings and proceedings. 6. Duties of the Authority. 7. Powers of the Authority. 8. Discharge of functions by the Authority. 9. Standing orders. 10. Deleted 10A.  Appointment of Medical Director and Deputy Medical Director. 11. Management Board. 12. Professional advisory committees. 13. Financial duty of the Authority. 14. Establishment and operation of general fund. 14A.  Financial Regulations 15. Accounts and auditing. 16. Power of Authority to engage in fund-raising activities. 17. Financial year. 18. Power of Accountant-General to make payments. 19. No personal liability to attach to members. 20. Proceedings on failure of Authority to perform its duties. 21. Restriction on execution. 22. Acquisition of land compulsorily. 23. Exemption from taxes, etc. 24. Transfer of property. 25. Consequential modifications and amendments. 26. Power to make regulations.
+1. Title and commencement. 2. Interpretation. 3. Establishment of Gibraltar Health Authority. 4. Authority to be body corporate. 5. Meetings and proceedings. 6. Duties of the Authority. 7. Powers of the Authority. 7A. Power to charge for residential services for the elderly. 8. Discharge of functions by the Authority. 9. Standing orders. 10. Deleted 10A.  Appointment of Medical Director and Deputy Medical Director. 11. Management Board. 12. Professional advisory committees. 13. Financial duty of the Authority. 14. Establishment and operation of general fund. 14A.  Financial Regulations 15. Accounts and auditing. 16. Power of Authority to engage in fund-raising activities. 17. Financial year. 18. Power of Accountant-General to make payments. 19. No personal liability to attach to members. 20. Proceedings on failure of Authority to perform its duties. 21. Restriction on execution. 22. Acquisition of land compulsorily. 23. Exemption from taxes, etc. 24. Transfer of property. 25. Consequential modifications and amendments. 26. Power to make regulations.
 
 THE SCHEDULE. Consequential modifications and amendments.
 
