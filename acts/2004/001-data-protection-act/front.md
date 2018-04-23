@@ -54,7 +54,7 @@ LN. 2006/039 Corrigenda
 
 2014/233 ss. 2, 7(1)(e), 13A, 13B, 13C, 13D, 13E, 13F, 13G, 16(2)(b), 24(5)(b), 25(5), (6), 37(3)(a)(ii)
 
-1.12.2014
+1.12.2014 Act. 2016-18 s. 5(1)(b) 23.4.2018
 
 Transposing: Directive 95/46/EC Council Decision 2000/365/EC
 
@@ -266,7 +266,7 @@ Acting for another.
 
 (a) an individual under the age of 16, any action which may be taken by the data subject by virtue of this Act may be taken by his parent or legal guardian;
 
-(b) a patient within the meaning of section 45 of the Mental Health Act any action which may be taken by the data subject by virtue of this Act may be taken by the person who may act on his behalf under the Mental Health Act in relation to the management of his property or affairs.
+(b) a person who lacks capacity within the meaning of Part 5 of the Mental Health Act any action which may be taken by the data subject by virtue of this Act may be taken by the person who may act on his behalf under the Mental Health Act in relation to the management of his property or affairs.
 
 (2)  The words “any action” in this section include the giving of consent.
 
