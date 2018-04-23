@@ -112,7 +112,7 @@ Crimes
 
 50.  An offence under section 6 of the Maritime Security Act (Offences involving threats).
 
-51.  An offence under section 64 of the Mental Health Act (Ill-treatment of patients).
+51.  An offence under section 110 of the Mental Health Act 2016 (Ill- treatment of patients).
 
 52.  An offence under section 45 of the Traffic Act 2005 (causing death by dangerous driving).
 

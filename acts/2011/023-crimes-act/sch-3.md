@@ -254,7 +254,7 @@ Crimes
 
 Crimes
 
-2011-23 38.  An offence under section 66 of the Mental Health Act (Sexual intercourse with patients).
+2011-23 38.  An offence under section 66 of the Mental Health Act 2016 (Sexual intercourse with patients).
 
 Crimes
 
