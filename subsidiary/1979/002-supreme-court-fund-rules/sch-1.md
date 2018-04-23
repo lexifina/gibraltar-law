@@ -36,12 +36,6 @@ Accountant  General
 
 Please note that the account is designated
 
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002
-
 For use by Registrar only.
 
 (a)  trust account (b)  interlocutory payment (c)  deposit by way of security (d)  miscellaneous
@@ -51,12 +45,6 @@ Delete  as appropriate.
 Date: .......................
 
 Registrar
-
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002
 
 FORM 2.
 
@@ -77,12 +65,6 @@ Please effect the following transaction in accordance with an order of the court
 Date.............................
 
 Registrar.
-
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002
 
 FORM 3.
 
@@ -118,12 +100,6 @@ Date:....................
 
 Accountant General.
 
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002
-
 Rule 18.
 
 FORM 4.
@@ -142,7 +118,7 @@ To the Registrar
 
 Take notice that £
 
-being the whole/part (Delete as appropriate) of the sum paid into court to the above ledger credit is appropriated
+being the whole/part (Delete as appropriate)  of the sum paid into court to the above ledger credit is appropriated
 
 by.................................................... (Name of party who paid money in).
 
@@ -155,12 +131,6 @@ Address....................
 Solicitor for ............
 
 Copy to  The Accountant General.
-
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002
 
 Rule 19.
 
@@ -189,12 +159,6 @@ Dated ............................ Signed ................. Name ...............
 Authorized  (For use by Registrar only).
 
 Dated............................ Registrar.
-
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002
 
 Rule 20.
 
@@ -234,12 +198,6 @@ For use by Registrar only.
 
 Dated ............................ Registrar.
 
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002
-
 Rule 21.
 
 FORM 7. (To be submitted in duplicate)
@@ -254,9 +212,9 @@ LEDGER CREDIT:  (As in paying in statement).
 
 To the Accountant General
 
-Please pay out the sum of £ , together with accrued interest thereon, if any, paid into court to the above ledger credit on the day of
+Please pay out the sum of £ , together with accrued interest thereon, if any, paid into court to the above ledger credit on the
 
-20    , pursuant to the Exchange Control Act. The consent in writing of the Financial Secretary is attached.
+day of 20    , pursuant to the Exchange Control Act. The consent in writing of the Financial Secretary is attached.
 
 I declare that the person entitled has/has not received legal assistance in respect of these proceedings.
 
@@ -266,11 +224,7 @@ Authorized For use by Registrar only.
 
 Dated ............................ Registrar.
 
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002 Rule 22.
+Rule 22.
 
 FORM 8.
 
@@ -297,12 +251,6 @@ Dated............................ Signed ................. Name.................
 Authorized For use by Registrar only.
 
 Dated............................Registrar.
-
-Supreme Court SUPREME COURT FUND RULES
-
-1960-02
-
-Subsidiary 1979/002
 
 1 Rule 23.
 
