@@ -10,9 +10,9 @@ Act. No. 2007-14 Commencement 26.4.2007
 
 Assent 20.4.2007
 
-Amending enactments Relevant current provisions Commencement date LN.  2011/064 ss. 21-30 & Sch. 1 & 2 12.5.2011 2013/012 s. 31 31.1.2013
+Amending enactments Relevant current provisions Commencement date LN.  2011/064 ss. 21-30 & Sch. 1 & 2 12.5.2011 2013/012 s. 31 31.1.2013 2018/102 ss.32-55, Sch. 3-5 10.5.2018
 
-Transposing: Directive 2008/114/EC
+Transposing: Directive 2008/114/EC Directive (EU) 2016/1148
 
 Civil Contingencies
 
@@ -48,9 +48,21 @@ PART 6
 
 31. Regulations.
 
-SCHEDULE 1
+PART 7 Security Of Network And Information Systems
+
+32. Overview. 33. Data protection. 34. Interpretation. 35. Identification and designation of operators of essential services. 36. Revocation of designation. 37. National strategy on the security of network and information systems. 38. Designation of national competent authority and single point of contact. 39. Designation of computer security incident response team (CSIRT). 40. Cooperation at national level. 41. Operators of essential services - security requirements. 42. Operators of essential services - incident notification. 43. Digital service providers - security requirements and incident notification. 44. Jurisdiction and territoriality of digital service providers. 45. Standardisation. 46. Voluntary notification. 47. Implementation and enforcement. 48. Information notices. 49. Power of inspection. 50. Enforcement for breach of duties. 51. Penalties. 52. Independent review of designation decisions and penalty decisions. 53. Enforcement of penalty notices. 54. Codes of Practice and Guidance Notes. 55. Regulations.
+
+Civil Contingencies
+
+2007-14 SCHEDULE 1
 
 SCHEDULE 2
+
+SCHEDULE 3
+
+SCHEDULE 4
+
+SCHEDULE 5
 
 Civil Contingencies
 
