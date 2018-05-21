@@ -26,7 +26,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1934-16 â
 
 1985-28 ss. 57-61, 61A, Sch. 2 5.12.1985 1989-41 ss. 51(1)(a), 53(2)(a) 21.12.1989 1999-19 ss. 51(1)(a), 53(2)(a), 57(1) 26.8.1999 2014-10 ss. 2, 51-53, 56(3), 59(1)(b), 60(3), Sch. 2
 
-28.3.2014
+28.3.2014 LN. 2018/112 s. 2(1) 21.5.2018
 
 English sources
 
