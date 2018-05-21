@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 Act. 1999-26 ss. 2-3, 4(1)-(2), 6-18, 20, 22-23, 28
 
-4.11.1999 2014-10 ss. 5(1), (g), 7(1), 8(1)(b)(ii)- (iii) 28.3.2014 2014-12 ss. 3(b), 9(f) 12.6.2014
+4.11.1999 2014-10 ss. 5(1), (g), 7(1), 8(1)(b)(ii)- (iii) 28.3.2014 2014-12 ss. 3(b), 9(f) 12.6.2014 LN. 2018/112 s. 2 21.5.2018
 
 Gibraltarian Status
 
