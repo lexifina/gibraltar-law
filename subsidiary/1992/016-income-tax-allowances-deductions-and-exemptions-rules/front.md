@@ -60,7 +60,11 @@ Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 199
 
 1.7.2016 Act. 2016-20 r. 3(7)-(8) 13.10.2016 LN. 2018/115 rr. 3(46), (49), 6(1), 7(1), (c)(i), 7A(1), 8(1), 9, 12, 14A(1)-(2), (a)-(b), 16B(1), 16C(1), 16E(1)-(3), 17-18, (a), (d), 20A(1)
 
-1.7.2017 Act. 2017-12 rr. 7A(4), 14(2) 20.7.2017
+1.7.2017 Act. 2017-12 rr. 7A(4), 14(2) 20.7.2017 LN. 2018/112 rr. 2, 16(1), (a), (4), 17-19, 22(1), (2)(a)-(b), (3)-(4), (5)(a)-(b), (6)
+
+21.5.2018 2018/113 rr. 3(46), 6B(1), (2)(b)(ii), (3)(c), (4)(c), (5)(b), (6), 7(2), 16(1), (a), (4), 17, 20B(1), 21(2), (8), 22(2)(a)-(b), (4), (6)
+
+21.5.2018
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
@@ -68,7 +72,7 @@ ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title and commencement. 2. Meaning of “child. 3. Income Exempted. 3A. Treatment of specified pension income. 3B. Revoked. 4. Loans charged on Consolidated Fund. 5. Revoked. 5A. Revoked. 5B. Revoked. 5C. Revoked. 5D. Revoked. 5E. Revoked. 6. Personal Allowance under Allowances Based System. 6A. Limitation on entitlement to claim allowances and deductions under Allowances Based System for individuals. 6B. Restrictions on entitlement to Allowances Based System for spouses or civil partners. 6C. Tax credit for Individuals in Allowances Based System. 7. Deduction for a spouse. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 16A. Special deduction for senior citizens. 16B. Low income tax allowance and credit. 16C. Special allowance for individuals with total deductions amounting to less than £4,188. 16D. Tax credit for individual’s aged 60 years and over. 16E. Special tax treatment of an individual on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters.
+1. Title and commencement. 2. Interpretation. 3. Income Exempted. 3A. Treatment of specified pension income. 3B. Revoked. 4. Loans charged on Consolidated Fund. 5. Revoked. 5A. Revoked. 5B. Revoked. 5C. Revoked. 5D. Revoked. 5E. Revoked. 6. Personal Allowance under Allowances Based System. 6A. Limitation on entitlement to claim allowances and deductions under Allowances Based System for individuals. 6B. Restrictions on entitlement to Allowances Based System for spouses or civil partners. 6C. Tax credit for Individuals in Allowances Based System. 7. Deduction for a spouse or a civil partner. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 16A. Special deduction for senior citizens. 16B. Low income tax allowance and credit. 16C. Special allowance for individuals with total deductions amounting to less than £4,188. 16D. Tax credit for individual’s aged 60 years and over. 16E. Special tax treatment of an individual on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters.
 
 Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992 1992/016
 
