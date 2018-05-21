@@ -1,8 +1,4 @@
-Inheritance (Provision for Family and Dependants)
-
-1977-15
-
-INHERITANCE (PROVISION FOR FAMILY AND DEPENDANTS) ACT
+Inheritance (Provision for Family and Dependants) Act
 
 Principal Act
 
@@ -10,25 +6,19 @@ Act. No. 1977-15 Commencement 1.9.1977
 
 Assent 25.5.1977
 
-Relevant current provisions
-
-With which is consolidated Act. 1960-04, s.34
-
-s.4A
+With which is consolidated Act. 1960-04, s.34 s.4A
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2014-10 ss. 2(1), (4), (5), 3(1)(a), (b), (d), (2)(d), 4(1)(f), 4A, 5(2), 8(10), 16(1), (2), 17, 18, 19(4) & 20
+Act. 2014-10 ss. 2(1), (4)-(5), 3(1)(a)-(b), (d), (2)(d), 4(1)(f), 4A, 5(2), 8(10), 16(1)-(2), 17-18, 19(4), 20
 
-28.3.2014
+28.3.2014 LN. 2018/112 s. 2(1) 21.5.2018
 
 English sources
 
 Law Reform (Miscellaneous Provisions) Act 1970 (1970 c.33) Inheritance (Provision for Family and Dependants) Act 1975 (1975 c.63).
 
-Inheritance (Provision for Family and Dependants)
-
-1977-15 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -36,6 +26,4 @@ Section
 
 SCHEDULE.
 
-Inheritance (Provision for Family and Dependants)
-
-1977-15 AN ACT TO MAKE PROVISION FOR EMPOWERING THE SUPREME COURT TO MAKE ORDERS FOR THE MAKING OUT OF THE ESTATE OF A DECEASED PERSON OF PROVISION FOR THE SPOUSE, CIVIL PARTNER, FORMER CIVIL PARTNER, FORMER SPOUSE, CHILD, CHILD OF THE FAMILY OR DEPENDANT OF THAT PERSON; AND FOR MATTERS INCIDENTAL THERETO.
+AN ACT TO MAKE PROVISION FOR EMPOWERING THE SUPREME COURT TO MAKE ORDERS FOR THE MAKING OUT OF THE ESTATE OF A DECEASED PERSON OF PROVISION FOR THE SPOUSE, CIVIL PARTNER, FORMER CIVIL PARTNER, FORMER SPOUSE, CHILD, CHILD OF THE FAMILY OR DEPENDANT OF THAT PERSON; AND FOR MATTERS INCIDENTAL THERETO.
