@@ -20,9 +20,7 @@ Amendments to the Wills Act 2009.
 
 4.  In section 18 (Effect of dissolution or annulment of marriage on wills)−
 
-Civil Partnership
-
-2014-10 (a) after “marriage” (in each place including the title) insert “or civil partnership”; and
+(a) after “marriage” (in each place including the title) insert “or civil partnership”; and
 
 (b) after “spouse” (in each place) insert “or civil partner”.
 
@@ -46,7 +44,7 @@ Amendments to the Administration of Estates Act.
 
 (a) after “marry” (in each place) insert “or enter into a civil partnership”;
 
-(b) in subsection (2)(b),  after “married” insert “or enters into a civil partnership”; and
+(b) in subsection (2)(b), after “married” insert “or enters into a civil partnership”; and
 
 (c) in subsection (2)(c), after “marriage” insert “or civil partnership”.
 
@@ -54,9 +52,7 @@ Amendments to the Administration of Estates Act.
 
 5.  In section 56 (Savings), in subsection (3), after “married” insert “or in a civil partnership”.
 
-Civil Partnership
-
-2014-10 6.  In section 59 (Revocation of nomination), in subsection (1)(b), after “marriage” insert “or civil partnership”.
+6.  In section 59 (Revocation of nomination), in subsection (1)(b), after “marriage” insert “or civil partnership”.
 
 7.  In section 60 (Operation of nomination), in subsection (3), after “marriage” insert “or civil partnership”.
 
@@ -88,9 +84,7 @@ Amendments to the Inheritance (Provisions for family and dependants) Act.
 
 3.  In section 3 (Application for financial provision from deceased’s estate)−
 
-Civil Partnership
-
-2014-10 (a) in subsection (1)(a), for “wife or husband” substitute “wife, husband or civil partner”;
+(a) in subsection (1)(a), for “wife or husband” substitute “wife, husband or civil partner”;
 
 (b) in subsection (1)(b), for “former wife or former husband” substitute “former wife, former husband or former civil partner”;
 
@@ -124,10 +118,6 @@ Civil Partnership
 
 (d) after “divorce” insert “or dissolution order”.
 
-Civil Partnership
-
-2014-10
-
 7.  In section 8 (Variation, discharge, etc. of orders for periodical payments), in subsection (10)−
 
 (a) after “marriage” insert “or civil partnership”; and
@@ -158,11 +148,7 @@ Civil Partnership
 
 (b) in subsection (1), for “decree of divorce or nullity of marriage” substitute “decree of divorce, nullity of marriage or dissolution of a civil partnership;
 
-(c) after “party to a marriage” (in each place)  insert “or civil partnership”,
-
-Civil Partnership
-
-2014-10
+(c) after “party to a marriage” (in each place) insert “or civil partnership”,
 
 (d) after “party to that marriage” (in each place) insert “or civil partnership”, and
 
@@ -183,7 +169,3 @@ Civil Partnership
 (d) in subsection (b), after “decree” (in each place) insert “or order”, and
 
 (e) after “remarriage” insert “or civil partner”.
-
-Civil Partnership
-
-2014-10

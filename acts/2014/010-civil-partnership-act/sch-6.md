@@ -36,10 +36,6 @@ Amendments to the Maintenance Act.
 
 (b) after “marriage” (in each place) insert “or civil partnerships (as applicable)”.
 
-Civil Partnership
-
-2014-10
-
 6.  In section 4 (Powers of court to make matrimonial orders)−
 
 (a) insert “or civil partnership” after “matrimonial” in title; and
@@ -72,9 +68,7 @@ Civil Partnership
 
 14.  In section 15 (Effect on certain orders of parties living together), after “marriage” (in each place) insert “or civil partnership”.
 
-Civil Partnership
-
-2014-10 15  In section 16 (Reconciliation), after “marriage” (in each place) insert “or civil partnership”.
+15  In section 16 (Reconciliation), after “marriage” (in each place) insert “or civil partnership”.
 
 16.  In section 16C (Orders for repayment in certain cases of sums paid after cessation of order by reason of remarriage)−
 
@@ -88,9 +82,9 @@ Civil Partnership
 
 (a) which is formed when they register as civil partners of each other in Gibraltar; and
 
-(b) which they are treated under Chapter 1 of Part 3  of the Civil Partnership Act 2014 as having formed (at the time determined by the Register) by virtue of having registered an overseas relationship;”,
+(b) which they are treated under Chapter 1 of Part 3 of the Civil Partnership Act 2014 as having formed (at the time determined by the Register) by virtue of having registered an overseas relationship;”,
 
-18.  In section 31 (Duty of person to maintain dependants), in subsection (1)(a), after “(a) his spouse” insert “ or civil partner”.
+18.  In section 31 (Duty of person to maintain dependants), in subsection (1)(a), after “(a) his spouse” insert “or civil partner”.
 
 19.  In section 40 (No maintenance order in certain cases), in subsection (a), after “matrimonial” insert “or civil partnership”.
 
@@ -106,9 +100,7 @@ Civil Partnership
 
 (a) after “a marriage” (definition of “financial arrangements”) (in each place) insert “or civil partnership”;
 
-Civil Partnership
-
-2014-10 (b) after “child of the marriage” (definition of “Child of the marriage”) insert “or civil partnership”; and
+(b) after “child of the marriage” (definition of “Child of the marriage”) insert “or civil partnership”; and
 
 (c) after “any child adopted by both parties to the marriage” insert “or civil partnership”.
 
@@ -131,7 +123,3 @@ Civil Partnership
 (a) after “matrimonial home” (in each place) insert “or home in which the civil partnership live”; and
 
 (b) in subsection (5), after “marriage” (in each place) insert “or civil partnership”.
-
-Civil Partnership
-
-2014-10

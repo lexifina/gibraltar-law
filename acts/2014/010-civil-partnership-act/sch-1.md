@@ -30,15 +30,13 @@ Sibling
 
 Sibling’s child
 
-(2) In the list “sibling” means a brother, sister, half-brother or half- sister. Qualified prohibitions
+(2) In the list “sibling” means a brother, sister, half-brother or half-sister. Qualified prohibitions
 
 2.(1)  Two people are within prohibited degrees of relationship if one of them falls within the list below in relation to the other, unless−
 
 (a) both of them have reached 21 at the time when they register as civil partners of each other; and
 
-Civil Partnership
-
-2014-10 (b) the younger has not at any time before reaching 18 been a child of the family in relation to the other.
+(b) the younger has not at any time before reaching 18 been a child of the family in relation to the other.
 
 Child of former civil partner
 
@@ -74,9 +72,7 @@ Former civil partner of child
 
 The child
 
-The child’s other parent
-
-Former spouse of child The child
+The child’s other parent Former spouse of child The child
 
 The child’s other parent
 
@@ -84,9 +80,7 @@ Parent of former civil partner The former civil partner
 
 The former civil partner’s other parent
 
-Civil Partnership
-
-2014-10 Parent of former spouse The former spouse
+Parent of former spouse The former spouse
 
 The former spouse’s other parent
 
@@ -110,17 +104,13 @@ Provisions relating to paragraph 2
 
 (3) A declaration under sub-paragraph (1)(b) must contain such information and must be signed and attested in such manner as may be prescribed by regulations.
 
-(4) The fact that the Registrar has received a declaration under sub- paragraph (1)(b) must be recorded in the register.
+(4) The fact that the Registrar has received a declaration under sub-paragraph (1)(b) must be recorded in the register.
 
 (5) A declaration under sub-paragraph (1)(b) must be filed and kept by the Registrar.
 
 6.(1)  Sub-paragraph (2) applies if−
 
 (a) the Registrar receives from a person who is not one of the proposed civil partners a written statement signed by that person which alleges that a declaration made under paragraph 5 is false in a material particular; and
-
-Civil Partnership
-
-2014-10
 
 (b) the register shows that such a statement has been received.
 
@@ -147,7 +137,3 @@ Provisions relating to paragraph 3
 (a) that both the proposed civil partners have reached 21; and
 
 (b) that the persons referred to in paragraph 3(b) are dead.
-
-Civil Partnership
-
-2014-10

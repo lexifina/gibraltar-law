@@ -14,7 +14,7 @@ Case Appropriate persons
 
 Each of the following−
 
-(a) any parent of the child who has  parental responsibility for that child, and
+(a) any parent of the child who has parental responsibility for that child, and
 
 (b) any guardian of the child.
 
@@ -24,13 +24,7 @@ Each of the child’s special guardians. 3.  A care order has effect with respec
 
 (a) the local authority designated in the order, and
 
-(b) each parent, guardian or special   guardian (in so far as their parental responsibility has not been restricted under the 2009 Act).
-
-4. A residence order has effect  Each of the persons with whom
-
-Civil Partnership
-
-2014-10 with respect to the child. the child lives, or is to live, as a result of the order.
+(b) each parent, guardian or special   guardian (in so far as their parental responsibility has not been restricted under the 2009 Act). 4. A residence order has effect with respect to the child. Each of the persons with whom the child lives, or is to live, as a result of the order.
 
 5. An adoption agency is authorised to place the child for adoption under the Adoption Act. Either– (a) the adoption agency, or (b) if a care order has effect with respect to the child, the local authority designated in the order.
 
@@ -51,10 +45,6 @@ Civil Partnership
 PART 2 Section 7(2) OBTAINING CONSENT: GENERAL
 
 Consent of appropriate person unobtainable
-
-Civil Partnership
-
-2014-10
 
 3.(1)  This paragraph applies if−
 
@@ -80,17 +70,13 @@ Consent of appropriate person refused
 
 (b) any person whose consent is required refuses his consent.
 
-(2) The Court may, on an application being made to it, consent to the child registering as the civil partner of the person mentioned in sub- paragraph (1)(a).
+(2) The Court may, on an application being made to it, consent to the child registering as the civil partner of the person mentioned in sub-paragraph (1)(a).
 
 (3) The consent of the court under sub-paragraph (2) has the same effect as if it had been given by the person who has refused his consent.
 
 Declaration
 
 5.  If one of the proposed civil partners is a child and is not a surviving civil partner, the necessary declaration under section 9 must also−
-
-Civil Partnership
-
-2014-10
 
 (a) state in relation to each appropriate person−
 
@@ -124,9 +110,7 @@ Forbidding proposed civil partnership
 
 Evidence
 
-Civil Partnership
-
-2014-10 7.(1)  This paragraph applies if, for the purpose of obtaining a civil partnership schedule, a person declares that the consent of any person or persons whose consent is required under section 4 has been given.
+7.(1)  This paragraph applies if, for the purpose of obtaining a civil partnership schedule, a person declares that the consent of any person or persons whose consent is required under section 4 has been given.
 
 (2)  The Registrar may refuse to issue the civil partnership schedule unless satisfied by the production of written evidence that the consent of that person or those persons has in fact been given.
 
@@ -150,15 +134,13 @@ Consent of appropriate person unobtainable or refused
 
 (a) the Registrar may dispense with the need for A’s consent (whether or not there is any other person whose consent is also required); or
 
-(b) the Court may, on application being made, consent to the child registering as the civil partner of the person mentioned in sub- paragraph (1)(a).
+(b) the Court may, on application being made, consent to the child registering as the civil partner of the person mentioned in sub-paragraph (1)(a).
 
 (3)  The consent of the Court under sub-paragraph (2)(b) has the same effect as if it had been given by A.
 
 (4)  Sub-paragraph (5) applies if−
 
-Civil Partnership
-
-2014-10 (a) a child and another person intend to register as civil partners of each other under the special procedure; and
+(a) a child and another person intend to register as civil partners of each other under the special procedure; and
 
 (b) any person whose consent is required refuses his consent.
 
@@ -194,14 +176,6 @@ Evidence
 
 (a) if a child and another person intend to register as civil partners of each other under the special procedure; and
 
-Civil Partnership
-
-2014-10
-
 (b) the consent of any person (“A”) is required to the child registering as the civil partner of that person.
 
 (2)  The person giving the notice (under section 9) of a proposed civil partnership to the Registrar must produce to the authority such evidence as the Registrar may require to satisfy him that A’s consent has in fact been given.
-
-Civil Partnership
-
-2014-10

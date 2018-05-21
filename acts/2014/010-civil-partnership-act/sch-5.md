@@ -30,9 +30,7 @@ Either civil partner may make application for financial relief.
 
 (2) The rights conferred by sub-paragraph (1) are subject to−
 
-Civil Partnership
-
-2014-10 (a) paragraph 3 (civil partner may not apply after forming subsequent civil partnership etc.), and
+(a) paragraph 3 (civil partner may not apply after forming subsequent civil partnership etc.), and
 
 (b) paragraph 4 (application may not be made until leave to make it has been granted).
 
@@ -64,15 +62,9 @@ Interim orders for maintenance.
 
 5.(1)   Where–
 
-Civil Partnership
-
-2014-10
-
 (a) leave is granted under paragraph 4, and
 
-(b) it appears to the court that the civil partner who applied for leave, or any child of the family, is in immediate need of financial assistance,
-
-the court may, subject to sub-paragraph (4), make an interim order for maintenance.
+(b) it appears to the court that the civil partner who applied for leave, or any child of the family, is in immediate need of financial assistance, the court may, subject to sub-paragraph (4), make an interim order for maintenance.
 
 (2)  An interim order for maintenance is one requiring the other civil partner to make–
 
@@ -100,21 +92,19 @@ Paragraphs 7 and 8 apply where application made for relief under paragraph 9 or 
 
 Jurisdiction of the court.
 
-Civil Partnership
-
-2014-10 7.(1)  The court shall have jurisdiction to entertain the application only if one or more of the following jurisdictional requirements is satisfied.
+7.(1)  The court shall have jurisdiction to entertain the application only if one or more of the following jurisdictional requirements is satisfied.
 
 (2)  The first requirement is that either or the civil partners–
 
 (a) was domiciled in Gibraltar on the date when the leave was applied for, or
 
-(b) was domiciled in Gibraltar  on the date when the dissolution, annulment or legal separation took effect in the overseas country in which it was obtained.
+(b) was domiciled in Gibraltar on the date when the dissolution, annulment or legal separation took effect in the overseas country in which it was obtained.
 
 (3)  The second is that either of the civil partners–
 
-(a) was habitually resident in Gibraltar  throughout the period of one year ending with the date when the leave was applied for; or
+(a) was habitually resident in Gibraltar throughout the period of one year ending with the date when the leave was applied for; or
 
-(b) was habitually resident in Gibraltar  throughout the period of one year ending with the date on which the dissolution, annulment or legal separation took effect in the overseas country in which it was obtained.
+(b) was habitually resident in Gibraltar throughout the period of one year ending with the date on which the dissolution, annulment or legal separation took effect in the overseas country in which it was obtained.
 
 (4)  The third is that either or both of the civil partners had, at the date when the leave was applied for, a beneficial interest in possession in a dwelling-house situated in Gibraltar which was at some time during the civil partnership a civil partnership home of the civil partners.
 
@@ -132,19 +122,13 @@ Duty of the court to consider whether Gibraltar is appropriate venue for applica
 
 (b) the connection which the civil partners have with the country in which the civil partnership was dissolved or annulled or in which they were legally separated;
 
-Civil Partnership
-
-2014-10
-
 (c) the connection which the civil partners have with any other country outside Gibraltar;
 
 (d) any financial benefit which, in consequence of the dissolution, annulment or legal separation–
 
 (i) the applicant, or
 
-(ii) a child of the family,
-
-has received, or is likely to receive, by virtue of any agreement or the operation of the law of a country outside Gibraltar;
+(ii) a child of the family, has received, or is likely to receive, by virtue of any agreement or the operation of the law of a country outside Gibraltar;
 
 (e) in a case where an order has been made by a court in a country outside Gibraltar requiring the other civil partner–
 
@@ -166,9 +150,7 @@ Orders for financial provision, property adjustment and pension sharing.
 
 9.(1) Sub-paragraphs (2) and (3) apply where one of the civil partners has made an application for an order under this paragraph.
 
-Civil Partnership
-
-2014-10 (2) If the civil partnership has been dissolved or annulled, the court may on the application make any one or more of the orders which it could make under sections 65 to 84 and sections 112 to 121 (financial provision, property adjustment and pension sharing) if a dissolution order or nullity order had been made in respect of the civil partnership under Chapter 2 of Part 2 of this Act.
+(2) If the civil partnership has been dissolved or annulled, the court may on the application make any one or more of the orders which it could make under sections 65 to 84 and sections 112 to 121 (financial provision, property adjustment and pension sharing) if a dissolution order or nullity order had been made in respect of the civil partnership under Chapter 2 of Part 2 of this Act.
 
 (3) If the civil partners have been legally separated, the court may on the application make any one or more of the orders which it could make under sections 65 to 84 (financial provision and property adjustment) if a separation order had been made in respect of the civil partners under Chapter 2 of Part 2 of this Act.
 
@@ -178,9 +160,9 @@ Civil Partnership
 
 (b) an order for the payment of a lump sum, or
 
-(c) an order which, if made under Sections 65 to 84 of the Act , would be a property adjustment order,
+(c) an order which, if made under Sections 65 to 84 of the Act, would be a property adjustment order,
 
-then, on making that order or at any time afterwards, the court may make any order which it could make under 70 of the Act(sale of property) if the order under sub–paragraph (2) or (3) had been made under that section.
+then, on making that order or at any time afterwards, the court may make any order which it could make under 70 of the Act (sale of property) if the order under sub–paragraph (2) or (3) had been made under that section.
 
 (5) The powers under sub-paragraphs (2) to (4) are subject to paragraph 11.
 
@@ -197,10 +179,6 @@ must act in accordance with this paragraph.
 (2) The court must have regard to all the circumstances of the case, giving first consideration to the welfare, while under 18, of any child of the family who has not reached 18.
 
 (3) The court, in exercising its powers under paragraph 9 in relation to one of the civil partners–
-
-Civil Partnership
-
-2014-10
 
 (a) must in particular have regard to the matters mentioned in paragraph 71(2) of the Act, and
 
@@ -220,15 +198,13 @@ Civil Partnership
 
 (b) the transfer of property,
 
-by one of the civil partners, the court in considering in accordance with this paragraph the financial resources of the other civil partner, or a child of the family , shall have regard to the extent to which that order has been complied with or is likely to be complied with.
+by one of the civil partners, the court in considering in accordance with this paragraph the financial resources of the other civil partner, or a child of the family, shall have regard to the extent to which that order has been complied with or is likely to be complied with.
 
 (9) In this paragraph–
 
 (a) “pension arrangement” has the same meaning as in Section 112 of the Act; and
 
-Civil Partnership
-
-2014-10 (b) references to benefits under a pension arrangement include any benefits by way of pension, whether under a pension arrangement or not.
+(b) references to benefits under a pension arrangement include any benefits by way of pension, whether under a pension arrangement or not.
 
 Restriction of powers under paragraph 9 where jurisdiction depends on civil partnership home in Gibraltar.
 
@@ -248,7 +224,7 @@ Restriction of powers under paragraph 9 where jurisdiction depends on civil part
 
 (iii) to a specified person for the benefit of a child of the family;
 
-(d) an order that a settlement of the interest of one of the civil partners in the dwelling-house, or a specified part of that interest, be made to the satisfaction of the court for the benefit of any one or more of–
+(d) an order that a settlement of the interest of one of the civil partners in the dwelling- house, or a specified part of that interest, be made to the satisfaction of the court for the benefit of any one or more of–
 
 (i) the other civil partner, or
 
@@ -260,15 +236,11 @@ Restriction of powers under paragraph 9 where jurisdiction depends on civil part
 
 (ii) either of them,
 
-Civil Partnership
-
-2014-10
-
-a relevant settlement so far as that settlement relates to an interest in the dwelling-house;
+a relevant settlement so far as that settlement relates to an interest in the dwelling- house;
 
 (f) an order extinguishing or reducing the interest of either of the civil partners under a relevant settlement so far as that interest is an interest in the dwelling-house;
 
-(g) an order for the sale of the interest of one of the civil partners in the dwelling-house.
+(g) an order for the sale of the interest of one of the civil partners in the dwelling- house.
 
 (3) Where under paragraph 9 the court makes just one order for the payment of a lump sum by one of the civil partners, the amount of the lump sum must not exceed the amount specified in sub-paragraph (5).
 
@@ -284,13 +256,11 @@ a relevant settlement so far as that settlement relates to an interest in the dw
 
 (a) the reference in sub-paragraph (2)(f) to the interest of one of the civil partners shall be construed as including a reference to the interest of that other person, or the interest of those other persons, in the dwelling-house, and
 
-(b) the reference in sub-paragraph (5)(a) to the amount of the proceeds of a sale ordered under sub-paragraph (2)(f) shall be construed as a reference to that part of those proceeds which is attributable to the interest of that civil partner in the dwelling- house.
+(b) the reference in sub-paragraph (5)(a) to the amount of the proceeds of a sale ordered under sub-paragraph (2)(f) shall be construed as a reference to that part of those proceeds which is attributable to the interest of that civil partner in the dwelling-house.
 
 (7) In sub-paragraph (2)–
 
-Civil Partnership
-
-2014-10 “relevant settlement” means a settlement made, during the subsistence of the civil partnership or in anticipation of its formation, on the civil partners, including one made by will or codicil;
+“relevant settlement” means a settlement made, during the subsistence of the civil partnership or in anticipation of its formation, on the civil partners, including one made by will or codicil;
 
 “specified” means specified in the order.
 
@@ -322,9 +292,7 @@ Orders for transfers of tenancies of dwelling-houses.
 
 Application to orders under paragraphs 5 and 9 of provisions of Schedule 5.
 
-Civil Partnership
-
-2014-10 14.(1) The following sections of the Civil Partnership Act 2014 apply in relation to an order made under paragraph 5 or 9 of this Schedule as they apply in relation to a like order made under that section–
+14.(1) The following sections of the Civil Partnership Act 2014 apply in relation to an order made under paragraph 5 or 9 of this Schedule as they apply in relation to a like order made under that section–
 
 (a) sections 67(1) and (2) of the Act (lump sums);
 
@@ -334,13 +302,13 @@ Civil Partnership
 
 (d) sections 117(2) to (8) and 67 of the Act;
 
-(e) sections 75(1),(2),(8),(9),(10), 76, 78(6) and (7) of the Act;
+(e) sections 75(1), (2), (8), (9), (10), 76, 78(6) and (7) of the Act;
 
 (f) sections 79 and 80 of the Act;
 
 (g) Sections 77 and 121 of the Act.
 
-(2) Sub-paragraph (1)(d) does not apply where the court has jurisdiction to entertain an application for an order under paragraph 9 only because a dwelling-house which was a civil partnership home of the civil partners is situated in Gibraltar .
+(2) Sub-paragraph (1)(d) does not apply where the court has jurisdiction to entertain an application for an order under paragraph 9 only because a dwelling-house which was a civil partnership home of the civil partners is situated in Gibraltar.
 
 (3) Section 119 of the Act applies in relation to an order made under paragraph 9 of this Schedule by virtue of sub-paragraph (1)(d) above as it applies to an order made under section 65 to 84 by virtue of section 117 or 118 of the Act.
 
@@ -354,9 +322,7 @@ Avoidance of transactions designed to defeat claims under paragraphs 5 and 9.
 
 (2) If the court is satisfied, on application by A, that the other civil partner (“B”) is, with the intention of defeating a claim by A, about to–
 
-Civil Partnership
-
-2014-10 (a) make any disposition; or
+(a) make any disposition; or
 
 (b) transfer out of the jurisdiction, or otherwise deal with, any property, it may make such order as it thinks fit for restraining B from doing so or otherwise for protecting the claim.
 
@@ -376,9 +342,7 @@ it may make an order setting aside the disposition.
 
 (a) an order under paragraph 5 or 9 has been made by the court at the instance of one of the civil partners (“A”), and
 
-(b) the court is satisfied, on application by A, that the other civil partner (“B”) has, with the intention of defeating a claim by A, made a reviewable disposition,
-
-the court may make an order setting aside the disposition.
+(b) the court is satisfied, on application by A, that the other civil partner (“B”) has, with the intention of defeating a claim by A, made a reviewable disposition, the court may make an order setting aside the disposition.
 
 (5) Where the court has jurisdiction to entertain an application for an order under paragraph 9 only under paragraph 7(4), it shall not make any order under sub-paragraph (2), (3) or (4) in respect of any property other than the dwelling-house concerned.
 
@@ -386,9 +350,7 @@ the court may make an order setting aside the disposition.
 
 (7) For the purposes of sub-paragraphs (3) and (4), but subject to sub-paragraph (8), any disposition made by B is a “reviewable disposition” (whether made before or after the commencement of A’s application under that sub-paragraph).
 
-Civil Partnership
-
-2014-10 (8) A disposition made by B is not a reviewable disposition for those purposes if made for valuable consideration (other than formation of a civil partnership) to a person who, at the time of the disposition, acted in relation to it in good faith and without notice of any intention on the part of B to defeat A’s claim.
+(8) A disposition made by B is not a reviewable disposition for those purposes if made for valuable consideration (other than formation of a civil partnership) to a person who, at the time of the disposition, acted in relation to it in good faith and without notice of any intention on the part of B to defeat A’s claim.
 
 (9) A reference in this paragraph to defeating a claim by one of the civil partners is a reference to–
 
@@ -418,10 +380,6 @@ Presumptions for the purposes of paragraph 15.
 
 (a) disposed of, or
 
-Civil Partnership
-
-2014-10
-
 (b) is about to dispose of or deal with the property,
 
 did so, or (as the case may be) is about to do so, with the intention of defeating the applicant’s claim.
@@ -436,7 +394,7 @@ Prevention of transactions intended to defeat prospective claims under paragraph
 
 (a) that the civil partnership has been dissolved or annulled, or that the civil partners have been legally separated, by means of judicial or other proceedings in an overseas country,
 
-(b) that A intends to apply for leave to make an application for an order under paragraph 9 as soon as he or she has been habitually resident in Gibraltar for the period of  one year, and
+(b) that A intends to apply for leave to make an application for an order under paragraph 9 as soon as he or she has been habitually resident in Gibraltar for the period of one year, and
 
 (c) that the other civil partner (“B”) is, with the intention of defeating A’s claim, about to–
 
@@ -451,10 +409,6 @@ the court may make such order as it thinks fit for restraining B from taking suc
 (3) Sub-paragraph (4) applies where–
 
 (a) an application is made under sub-paragraph (1) with respect to–
-
-Civil Partnership
-
-2014-10
 
 (i) a disposition which took place less than 3 years before the date of the application, or
 
@@ -486,16 +440,10 @@ Interpretation of Schedule.
 
 “the court” means the Supreme Court or, where a magistrates court has jurisdiction by virtue of sections 79 or 80 of the Civil Partnership Act 2014, the magistrates court.
 
-Civil Partnership
-
-2014-10 “dwelling-house” includes−
+“dwelling-house” includes−
 
 (a) any building, or part of a building, which is occupied as a dwelling, and
 
 (b) any yard, garden, garage or outhouse belonging to, and occupied with, the dwelling-house;
 
 “overseas country” has the meaning given by paragraph 1(3).
-
-Civil Partnership
-
-2014-10

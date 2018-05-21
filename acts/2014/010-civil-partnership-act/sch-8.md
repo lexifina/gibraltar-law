@@ -25,7 +25,3 @@ The Housing Act 2007 is amended in accordance with the provisions of this Schedu
 4.  In section 53 (Sub-tenant’s option to take surrendered tenancy), in section (4)(b), after “wife” insert “or civil partner”.
 
 5.  In Schedule 5 (Possession or ejectment without proof or alternative accommodation), in subsection (h)(ii), after “wife” insert “or civil partnership”.
-
-Civil Partnership
-
-2014-10

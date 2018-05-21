@@ -28,9 +28,7 @@ CHILDREN
 
 unless a contrary intention appears by the appointment.”.
 
-Civil Partnership
-
-2014-10 (6)  In section 27(5) of the 2009 Act (power of court to make orders under section 25) after paragraph (a) insert–
+(6)  In section 27(5) of the 2009 Act (power of court to make orders under section 25) after paragraph (a) insert–
 
 “(aa) any civil partner in a civil partnership (whether or not subsisting) in relation to whom the child is a child of the family”.
 
@@ -51,7 +49,3 @@ Civil Partnership
 and for this purpose any reference to either parent or both parents shall read as a reference to any parent of his and to all of his parents”.
 
 2.  The Adoption Act is amended in section 5(2) (Who may apply), by inserting “or two civil partners” after “spouses”.
-
-Civil Partnership
-
-2014-10

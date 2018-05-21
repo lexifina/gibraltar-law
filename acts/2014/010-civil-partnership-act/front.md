@@ -1,8 +1,4 @@
-Civil Partnership
-
-2014-10
-
-CIVIL PARTNERSHIP ACT 2014
+Civil Partnership Act 2014
 
 Principal Act
 
@@ -12,17 +8,13 @@ Assent 25.3.2014
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2016-18 s. 31(2) 23.4.2018
-
-Civil Partnership
-
-2014-10
+Act. 2016-18 s. 31(2) 23.4.2018 LN. 2018/112 s. 2 21.5.2018
 
 ARRANGEMENT OF SECTIONS
 
-PART 1 INTRODUCTION
+Section
 
-Section.
+PART 1 INTRODUCTION
 
 1. Title and commencement. 2. Interpretation. 3. Appointment of Registrar and Deputies. 4. Civil partnership.
 
@@ -38,11 +30,9 @@ CHAPTER 2 DISSOLUTION, NULLITY AND OTHER PROCEEDINGS
 
 Introduction
 
-18. Powers to make orders and effect of orders. 19. The period before conditional orders may be made final. 20. Intervention of the Attorney General. 21. Proceedings before order has been made final. 22. Time bar on application for dissolution orders. 23. Attempts at reconciliation of civil partners. 24. Consideration by the court of certain agreements or arrangements.
+18. Powers to make orders and effect of orders. 19. The period before conditional orders may be made final. 20. Intervention of the Attorney General. 21. Proceedings before order has been made final. 22. Time bar on application for dissolution orders.
 
-Civil Partnership
-
-2014-10
+23. Attempts at reconciliation of civil partners. 24. Consideration by the court of certain agreements or arrangements.
 
 Dissolution of civil partnerships
 
@@ -68,17 +58,13 @@ CHAPTER 3 FINANCIAL AGREEMENTS
 
 44. Interpretation and application. 45. Financial agreements before civil partnership. 46. Financial agreements during civil partnership. 47. Financial agreements after the dissolution of the civil partnership.
 
-Civil Partnership
-
-2014-10 48. Need for a declaration of separation for certain provisions of financial agreements to take effect. 49. Whether or when certain other provisions of financial agreements take effect. 50. Certain provisions in agreements. 51. When financial agreements are binding. 52. Effect of death of party to financial agreement. 53. Termination of financial agreement. 54. Circumstances in which court may set aside a financial agreement or termination agreement. 55. Validity, enforceability and effect of financial agreements and termination agreements.
+48. Need for a declaration of separation for certain provisions of financial agreements to take effect. 49. Whether or when certain other provisions of financial agreements take effect. 50. Certain provisions in agreements. 51. When financial agreements are binding. 52. Effect of death of party to financial agreement. 53. Termination of financial agreement. 54. Circumstances in which court may set aside a financial agreement or termination agreement. 55. Validity, enforceability and effect of financial agreements and termination agreements.
 
 CHAPTER 4 PROPERTY AND FINANCIAL ARRANGEMENTS
 
-56. Contribution by civil partner to property improvement. 57. Disputes between civil partners about property. 58. Applications under section 45 where property not in possession etc. 59. Applications under section 57 by former civil partners. 60. Actions in tort between civil partners. 61. Married Women Act. 62. Wills, administration of estates and family provisions. 63. Financial relief abroad. 64. Power to amend enactments relating to financial and other relief in the Supreme Court. 65. Financial provision and property adjustment for parties to civil partnerships. 66. Maintenance pending suit. 67. Financial provisions orders in connection with dissolution proceedings, etc. 68. Deduction of maintenance at source. 69. Property adjustment orders in connection with dissolution proceedings, etc. 70. Orders for sale of property. 71. Matters to which court is to have regard in deciding how to exercise its powers under sections 67 to 70. 72. Exercise of court’s powers in favour of party to civil partnership of making of dissolution or nullity order. 73. Commencement of proceedings for financial relief, etc. 74. Financial provision orders, etc., in case of neglect by party to civil partnership to maintain other party or a child of the family. 75. Duration of continuing financial provision orders in favour of a party to the civil partnership and effect of entering into a subsequent civil partnership or marriage. 76. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour.
+56. Contribution by civil partner to property improvement. 57. Disputes between civil partners about property. 58. Applications under section 45 where property not in possession etc. 59. Applications under section 57 by former civil partners. 60. Actions in tort between civil partners. 61. Married Women Act. 62. Wills, administration of estates and family provisions. 63. Financial relief abroad. 64. Power to amend enactments relating to financial and other relief in the Supreme Court. 65. Financial provision and property adjustment for parties to civil partnerships. 66. Maintenance pending suit. 67. Financial provisions orders in connection with dissolution proceedings, etc. 68. Deduction of maintenance at source. 69. Property adjustment orders in connection with dissolution proceedings, etc. 70. Orders for sale of property. 71. Matters to which court is to have regard in deciding how to exercise its powers under sections 67 to 70. 72. Exercise of court’s powers in favour of party to civil partnership of making of dissolution or nullity order. 73. Commencement of proceedings for financial relief, etc. 74. Financial provision orders, etc., in case of neglect by party to civil partnership to maintain other party or a child of the family. 75. Duration of continuing financial provision orders in favour of a party to the civil partnership and effect of entering into a subsequent civil partnership or marriage. 76. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour. 77. Direction for settlement of instrument for securing payments or effecting property adjustments. 78. Variation, discharge, etc., of certain orders for financial relief.
 
-Civil Partnership
-
-2014-10 77. Direction for settlement of instrument for securing payments or effecting property adjustments. 78. Variation, discharge, etc., of certain orders for financial relief. 79 Orders for repayment in certain cases of sums paid after cessation of order by reason of re-entering into a subsequent civil partnership of marriage. 80. Orders for repayment in certain cases of sums paid under certain orders. 81. Consent orders for financial provision on property adjustment. 82. Avoidance of transactions intended to prevent or reduce financial relief. 83. Extension of Married Women Act. 84. Vesting of possession in tenancy.
+79 Orders for repayment in certain cases of sums paid after cessation of order by reason of re-entering into a subsequent civil partnership of marriage. 80. Orders for repayment in certain cases of sums paid under certain orders. 81. Consent orders for financial provision on property adjustment. 82. Avoidance of transactions intended to prevent or reduce financial relief. 83. Extension of Married Women Act. 84. Vesting of possession in tenancy.
 
 Inheritance
 
@@ -100,11 +86,7 @@ PART 3 CIVIL PARTNERSHIP FORMED OR DISSOLVED ABROAD ETC.
 
 CHAPTER 1 OVERSEAS RELATIONSHIPS TREATED AS CIVIL PARTNERS
 
-93. Meaning of “overseas relationship”.
-
-Civil Partnership
-
-2014-10 94. Specified relationships. 95. The general conditions. 96. Overseas relationships treated as civil partnership: the general rule. 97. Person domiciled in Gibraltar. 98. The public policy exception.
+93. Meaning of “overseas relationship”. 94. Specified relationships. 95. The general conditions. 96. Overseas relationships treated as civil partnership: the general rule. 97. Person domiciled in Gibraltar. 98. The public policy exception.
 
 CHAPTER 2 DISSOLUTION ETC.: JURISDICTION AND RECOGNITION
 
@@ -120,13 +102,7 @@ PART 4 RELATIONSHIPS ARISING THROUGH CIVIL PARTNERSHIP
 
 PART 5 MISCELLANEOUS
 
-107. Immigration control and formation of civil partnerships. 108. Discrimination against civil partners in the employment field. 109. Civil partners to have unlimited insurable interest in each other. 110. Social security and tax credits. 111. Enactments relating to pensions. 112. Pension sharing orders. 113. Pension sharing orders in connection with dissolution proceedings etc. 114. Pension sharing orders: nullity of civil partnership. 115. Restrictions affecting section 114. 116. Pension sharing orders: duty to stay. 117. Pensions. 118.  Pensions: lump sums. 119. Pensions: supplementary. 120. Discharge of pension sharing orders on making of separation order. 121. Appeals relating to pension sharing orders which have taken
-
-effect.
-
-Civil Partnership
-
-2014-10 122. Power to make further provision in connection with civil partnership. 123. Rules. 124. Fees.
+107. Immigration control and formation of civil partnerships. 108. Discrimination against civil partners in the employment field. 109. Civil partners to have unlimited insurable interest in each other. 110. Social security and tax credits. 111. Enactments relating to pensions. 112. Pension sharing orders. 113. Pension sharing orders in connection with dissolution proceedings etc. 114. Pension sharing orders: nullity of civil partnership. 115. Restrictions affecting section 114. 116. Pension sharing orders: duty to stay. 117. Pensions. 118.  Pensions: lump sums. 119. Pensions: supplementary. 120. Discharge of pension sharing orders on making of separation order. 121. Appeals relating to pension sharing orders which have taken effect. 122. Power to make further provision in connection with civil partnership. 123. Rules. 124. Fees.
 
 SCHEDULE 1 PROHIBITED DEGREES OF RELATIONSHIP
 
@@ -154,12 +130,6 @@ SCHEDULE 12 AMENDMENTS RELATING TO SOCIAL SECURITY AND TAX
 
 SCHEDULE 13 AMENDMENTS TO CERTAIN ACTS RELATING TO PENSIONS
 
-Civil Partnership
-
-2014-10 SCHEDULE 14 REFERENCES TO STEPCHILDREN ETC. IN EXISTING ACTS
-
-Civil Partnership
-
-2014-10
+SCHEDULE 14 REFERENCES TO STEPCHILDREN ETC. IN EXISTING ACTS
 
 AN ACT TO MAKE PROVISION FOR AND IN CONNECTION WITH CIVIL PARTNERSHIP.

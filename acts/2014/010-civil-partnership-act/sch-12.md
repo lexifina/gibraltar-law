@@ -32,10 +32,6 @@ The Social Security (Employment Injuries Insurance) Act is amended in accordance
 
 (c) in subsection (2)(a), after “remarries” insert “or enters into a civil partnership or a civil partnership subsequent to his or her marriage”;
 
-Civil Partnership
-
-2014-10
-
 (d) in subsection (2)(a), after “marriage” insert “or civil partnership”;
 
 (e) in subsection (2)(b), after “widow” insert “or surviving civil partner”; and
@@ -70,13 +66,9 @@ Amendments to the Social Security (Insurance) Act.
 
 2.  In section 11 (Maternity benefits), in subsection (1)(B),
 
-(a) after “husband”  insert “or civil partner”; and
+(a) after “husband” insert “or civil partner”; and
 
 (b) after “husband’s” insert “or civil partner’s”.
-
-Civil Partnership
-
-2014-10
 
 3.  In section 18 (Death grant), in subsection (1)(b)−
 
@@ -96,7 +88,7 @@ Civil Partnership
 
 (d) in subsection (4), after “widow” insert “or surviving civil partner”.
 
-6.  In section 28 (Provisions as to maintenance and incapacity for self- support), in subsection (2) after “wife” insert “civil partner”.
+6.  In section 28 (Provisions as to maintenance and incapacity for self-support), in subsection (2) after “wife” insert “civil partner”.
 
 7.  In section 38 (Interim payments, arrears and repayments), in subsection (2)(d), after “husband” insert “or civil partner”.
 
@@ -104,7 +96,7 @@ Civil Partnership
 
 (a) insert “, civil partnership” after “marriage” in title;
 
-(b) in subsection (1) for “and the Marriage Act” substitute “,the Marriage Act and the Civil Partnership Act 2014”;
+(b) in subsection (1) for “and the Marriage Act” substitute “, the Marriage Act and the Civil Partnership Act 2014”;
 
 (c) in subsection (2), after “marriage” insert “, civil partnership”;
 
@@ -112,11 +104,7 @@ Civil Partnership
 
 (e) in subsection (2)(a), after “marriage” insert “, civil partnership”; and
 
-(f) in subsection (4) for “or the Marriage Registrar, appointed under the Marriage Act” substitute “the Marriage Registrar,
-
-Civil Partnership
-
-2014-10 appointed under the Marriage Act or the Civil Partnership Registrar appointed under the Civil Partnership Act”.
+(f) in subsection (4) for “or the Marriage Registrar, appointed under the Marriage Act” substitute “the Marriage Registrar, appointed under the Marriage Act or the Civil Partnership Registrar appointed under the Civil Partnership Act”.
 
 9.  In section 44 (General provisions as to prosecutions under Act), in subsection 5−
 
@@ -140,7 +128,7 @@ Amendments to the Social Security (Non-Contributory Benefits and Unemployment In
 
 (b) in subsection (4)(c), after “spouses” (in each place) insert “or civil partners”;
 
-(c) in subsection (4)(c), after “after their marriage”  insert “or civil partnership, as the case may be;”
+(c) in subsection (4)(c), after “after their marriage” insert “or civil partnership, as the case may be;”
 
 (d) in subsection (4)(c), after “issue of their marriage” insert “or civil partnership”.
 
@@ -150,13 +138,11 @@ Amendments to the Social Security (Non-Contributory Benefits and Unemployment In
 
 (a) after “wife” (in each place) insert “or civil partner”;
 
-Civil Partnership
-
-2014-10 (b) in subsection (2)(a), after “husband” insert “or civil partner”; and
+(b) in subsection (2)(a), after “husband” insert “or civil partner”; and
 
 (c) in subsection (3), after “marriage” insert “,civil partnership”.
 
-4.  In section 13 (Application of Social Security (insurance) Act), after “marriage” insert “,civil partnership”.
+4.  In section 13 (Application of Social Security (insurance) Act), after “marriage” insert “, civil partnership”.
 
 5.  In Schedule 3 (Unemployment benefit Part I), after “wife” (in each place) insert “or civil partner”.
 
@@ -164,7 +150,7 @@ Civil Partnership
 
 Amendment to the Social Security non-contributory benefits and unemployment insurance) Act.
 
-1.  In section 4 (Provisions as to maintenance), in subsection (4)(b), after “wife” insert “ or civil partners”.
+1.  In section 4 (Provisions as to maintenance), in subsection (4)(b), after “wife” insert “or civil partners”.
 
 Amendment to the Social Security (Closed Long-Term Benefits and Scheme) Act 1996.
 
@@ -186,11 +172,9 @@ Amendment to the Social Security (Closed Long-Term Benefits and Scheme) Act 1996
 
 (b) after “spouse’s” (in each case) insert “or civil partner’s”;
 
-(c) in subsection (1)(c), after  “other”  insert “or in a civil partnership”;
+(c) in subsection (1)(c), after “other” insert “or in a civil partnership”;
 
-Civil Partnership
-
-2014-10 (d) in subsection (3), after “remarriage” insert “or enters into a further civil partnership or a civil partnership subsequent to his or her marriage”; and
+(d) in subsection (3), after “remarriage” insert “or enters into a further civil partnership or a civil partnership subsequent to his or her marriage”; and
 
 (e) in subsection (4), after “married” insert “or in a civil partnership”.
 
@@ -226,9 +210,7 @@ Civil Partnership
 
 (e) after “spouse’s” (in each place) insert “or civil partner’s”;
 
-Civil Partnership
-
-2014-10 (f) in subsection (10) after “decree” insert “or order”;
+(f) in subsection (10) after “decree” insert “or order”;
 
 (g) in subsection (10), after “divorce” insert “or dissolution”; and
 
@@ -264,10 +246,6 @@ Civil Partnership
 
 (d) in subsection (1)(c), after “married” insert “or entered into a civil partnership”;
 
-Civil Partnership
-
-2014-10
-
 (e) in subsection (1)(c)(iii), for “the husband” substitute “or entered into a civil partnership”,
 
 (f) after “husband’s” (in each place) insert “or civil partner’s”;
@@ -298,15 +276,13 @@ Civil Partnership
 
 12.  In section 20 (Overlapping benefits), in subsection (1)(a), for “wife or husband,” substitute “wife, husband or civil partner,”.
 
-13.  In section 23 (Provisions as to maintenance and incapacity for self- support), in subsection (2), after “wife” insert “or civil partner”.
+13.  In section 23 (Provisions as to maintenance and incapacity for self-support), in subsection (2), after “wife” insert “or civil partner”.
 
 14.  In section 32 (Interim payments, arrears, and repayments), in subsection (2)(d), after “husband” insert “or civil partner,”.
 
 15.  In section 35 (General provisions as to prosecutions)−
 
-Civil Partnership
-
-2014-10 (a) in subsection (5), for “wife, or husband” substitute “wife, husband or civil partner”;
+(a) in subsection (5), for “wife, or husband” substitute “wife, husband or civil partner”;
 
 (b) in subsection (6), for “wife, or husband” substitute “wife, husband or civil partner”; and
 
@@ -338,9 +314,7 @@ Civil Partnership
 
 (c) in subsection (c) for “husband or wife” substitute “husband, wife or civil partner”.
 
-Civil Partnership
-
-2014-10 Amendment to the Social Security (Open Long-Term benefits Scheme) Act 1997.
+Amendment to the Social Security (Open Long-Term benefits Scheme) Act 1997.
 
 1.  In section 2 (Interpretation)−
 
@@ -378,10 +352,6 @@ Civil Partnership
 
 4.  In section 17 (Guardian’s Allowance),–
 
-Civil Partnership
-
-2014-10
-
 (a) in subsection (2)(b), after “marriage” insert “or civil partnership”;
 
 (b) in subsection (2)(b), after “divorce” insert “or dissolution,”;
@@ -400,7 +370,7 @@ Civil Partnership
 
 (d) after “married” (in each place) insert “or in a civil partnership”;
 
-(e) after “spouse’s” (in each place)  insert “or civil partner’s”;
+(e) after “spouse’s” (in each place) insert “or civil partner’s”;
 
 (f) in subsection (10) after “decree” insert “or order”;
 
@@ -419,10 +389,6 @@ Civil Partnership
 (d) in subsection (1)(c)(i) and (ii), after “she” (in each place) insert “or he”;
 
 (e) in subsection (1)(c)(iii), for “the wife” substitute “or has entered into a civil partnership”;
-
-Civil Partnership
-
-2014-10
 
 (f) after “wife’s” (in each place) insert “or civil partner’s”;
 
@@ -460,9 +426,7 @@ Civil Partnership
 
 (a) in subsection (5)(a), after “wife” insert “or civil partners”; and
 
-Civil Partnership
-
-2014-10 (b) in subsection (6), after “wife” insert “or civil partners”.
+(b) in subsection (6), after “wife” insert “or civil partners”.
 
 9.  In section 22 (Increase of old age pension)−
 
@@ -474,11 +438,11 @@ Civil Partnership
 
 11.  In section 25 (Disqualification for imprisonment), in subsection (1), for “wife or husband” substitute “wife, husband or civil partner”.
 
-12.  In section 26 (Overlapping benefits), in subsection (1)(a),  for “wife or husband” substitute “wife, husband or civil partner”.
+12.  In section 26 (Overlapping benefits), in subsection (1)(a), for “wife or husband” substitute “wife, husband or civil partner”.
 
-13.  In section 29 (Provisions as to maintenance and incapacity for self- support), in subsection (2),  after “wife” insert “or civil partner”.
+13.  In section 29 (Provisions as to maintenance and incapacity for self-support), in subsection (2),  after “wife” insert “or civil partner”.
 
-14.  In section 35 (Interim payments, arrears and repayments), in subsection (2)(d), after “ husband” insert “or civil partner”.
+14.  In section 35 (Interim payments, arrears and repayments), in subsection (2)(d), after “husband” insert “or civil partner”.
 
 15.  In section 40 (General provisions as to prosecutions)−
 
@@ -496,9 +460,7 @@ Civil Partnership
 
 (b) in subsection (3)(a), (Old age pensions), after “husband’s” insert “or civil partner’s”; and
 
-Civil Partnership
-
-2014-10 (c) in subsection (3)(a), (Old age pensions), after “wife’s” insert “or civil partner’s”.
+(c) in subsection (3)(a), (Old age pensions), after “wife’s” insert “or civil partner’s”.
 
 18.  In Schedule 2- Part II (Lower rates of benefits and increases for dependants)−
 
@@ -532,10 +494,6 @@ Amendment to the Employment Injuries (Claims) Regulations.
 
 1.  In regulation 8 (Information to be given when making a claim), in subsection (3)(c) after “husband” insert “or civil partner”.
 
-Civil Partnership
-
-2014-10
-
 Amendment to the Social Insurance (Benefits) Regulations.
 
 1.  In regulation 2 (Interpretation), in subsection (2), after “wife” insert “or civil partner”.
@@ -546,7 +504,7 @@ Amendment to the Social Insurance (Benefits) Regulations.
 
 (a) after “husband” insert “or civil partner”; and
 
-(b) after “he” insert “or she” .
+(b) after “he” insert “or she”.
 
 4.  In section 39 (Priority of two or more claimants satisfying the conditions for death grant)−
 
@@ -569,10 +527,6 @@ Amendment to the Social Security (Open Long-Term Benefits (Claims and Payments) 
 (a) In subregulation (1), after “husband’s” insert “or civil partner”; and
 
 (b) In subregulation (2), for “wife or husband of” (in each place) substitute “wife, husband or civil partner”.
-
-Civil Partnership
-
-2014-10
 
 3.  In regulation 7 (Time for claiming), in subsection (1)−
 
@@ -610,10 +564,6 @@ Amendment to the Social Security (Open Long-Term Benefits) Regulations 1997.
 
 5.  In regulation 14 (Adopted children)–
 
-Civil Partnership
-
-2014-10
-
 (a) in subregulation (a), after “not married” insert “or in a civil partnership”;
 
 (b) in subregulation (a), after “if that person married” insert “or entered into a civil partnership”;
@@ -624,11 +574,11 @@ Civil Partnership
 
 (e) after “spouses” (in each place) insert “or civil partners”;
 
-(f) in subregulation (b), after “ if either of them remarried” insert “or entered into a further civil partnership or a civil partnership subsequent to his or her marriage”;
+(f) in subregulation (b), after “if either of them remarried” insert “or entered into a further civil partnership or a civil partnership subsequent to his or her marriage”;
 
 (g) in subregulation (b), after “such spouses remarried” insert “or entered into a subsequent civil partnership with”;
 
-(h) in subregulation (c), after “if that spouse remarried” insert “or entered into a further civil partnership or a  civil partnership subsequent to his or her marriage”; and
+(h) in subregulation (c), after “if that spouse remarried” insert “or entered into a further civil partnership or a civil partnership subsequent to his or her marriage”; and
 
 (i) in subregulation (c), after “to whom that spouse was remarried” insert “or in a subsequent civil partnership with”.
 
@@ -646,10 +596,6 @@ Civil Partnership
 
 (a) insert “or enter into a civil partnership” after “marry” in title;
 
-Civil Partnership
-
-2014-10
-
 (b) in subregulation (1), after “married” insert or “entered in a civil partnership”;
 
 (c) in subregulation (1)(a)(ii) and (2), after “married” insert “or in a civil partnership”;
@@ -660,7 +606,7 @@ Civil Partnership
 
 (f) after “marriage” (in each place except for subsection (1)(d)) insert “or civil partnership”; and
 
-(g) in subregulation (1)(d), for “marriage or re-marriage” substitute “marriage, re-marriage or civil partnership”.
+(g) in subregulation (1)(d), for “marriage or re-marriage” substitute “marriage, re- marriage or civil partnership”.
 
 8.  In regulation 22 (Priority between a man and his wife to increase of old age pension for child)−
 
@@ -682,9 +628,7 @@ Amendment to the Social Security (Closed Long-Term Benefits) (Overlapping Benefi
 
 1.  In regulation 7 (Gratuities)−
 
-Civil Partnership
-
-2014-10 (a) after “widow” insert “or surviving civil partner”;
+(a) after “widow” insert “or surviving civil partner”;
 
 (b) after “she” (in each place) insert “or he”; and
 
@@ -700,7 +644,7 @@ Civil Partnership
 
 “Guardian Allowance for a surviving civil partner who is made guardian of the deceased civil partner’s child/children.
 
-13.  If the parent of a child who is a party to a civil partnership dies and the surviving civil partner is determined to be the child’s Guardian, the surviving Guardian cannot claim Guardian Allowance provided he or she can claim Widows, Widower’s, surviving Civil Partners and children benefit under  section 19 of the Social Security (Employment Injuries Insurance) Act.”.
+13.  If the parent of a child who is a party to a civil partnership dies and the surviving civil partner is determined to be the child’s Guardian, the surviving Guardian cannot claim Guardian Allowance provided he or she can claim Widows, Widower’s, surviving Civil Partners and children benefit under section 19 of the Social Security (Employment Injuries Insurance) Act.”.
 
 Amendment to the Social Security (Open Long-Term Benefits) (Overlapping Benefits) Regulations 1997.
 
@@ -720,9 +664,7 @@ Amendment to the Social Security (Open Long-Term Benefits) (Overlapping Benefits
 
 3.  After regulation 12 insert the following regulation−
 
-Civil Partnership
-
-2014-10 “Guardian Allowance for a surviving civil partner who is made guardian of the deceased civil partner’s child/children.
+“Guardian Allowance for a surviving civil partner who is made guardian of the deceased civil partner’s child/children.
 
 13.  If the parent of a child who is a party to a civil partnership dies and the surviving civil partner is determined to be the child’s Guardian, the surviving Guardian cannot claim Guardian Allowance provided he or she can claim Widows, Widower’s, surviving Civil Partners and children benefit under section 19 of the Social Security (Employment Injuries Insurance) Act.”.
 
@@ -754,9 +696,7 @@ Amendment to the Social Security (Closed Long-Term Benefits) (Claims and Payment
 
 (b) after “husband” insert “or civil partner”.
 
-Civil Partnership
-
-2014-10 Amendment to the Social security (Closed Long-Term Benefits) Regulations 1996.
+Amendment to the Social security (Closed Long-Term Benefits) Regulations 1996.
 
 1.  In regulation 3 (Computation of earnings and remuneration), after “wife” (in each case) insert “or civil partner”.
 
@@ -788,15 +728,11 @@ Civil Partnership
 
 (e) after “spouses” (in each place) insert “or civil partners”,
 
-(f) in subregulation (b), after “ if either of them remarried” insert “or entered into a further civil partnership or a civil partnership subsequent to his or her marriage”,
+(f) in subregulation (b), after “if either of them remarried” insert “or entered into a further civil partnership or a civil partnership subsequent to his or her marriage”,
 
 (g) in subregulation (b), after “such spouses remarried” insert “or entered into a subsequent civil partnership with”,
 
-Civil Partnership
-
-2014-10
-
-(h) in subregulation (c), after “if that spouse remarried” insert “or entered into a further civil partnership or a  civil partnership subsequent to his or her marriage”, and
+(h) in subregulation (c), after “if that spouse remarried” insert “or entered into a further civil partnership or a civil partnership subsequent to his or her marriage”, and
 
 (i) in subregulation (c), after “to whom that spouse was remarried” insert “or in a subsequent civil partnership with”.
 
@@ -824,13 +760,11 @@ Civil Partnership
 
 (f) after “marriage” (in each place except for subregulation (1)(d)) insert “or civil partnership”; and
 
-(g) in subregulation (1)(d), for “marriage or re-marriage” substitute “marriage, re-marriage or civil partnership”.
+(g) in subregulation (1)(d), for “marriage or re-marriage” substitute “marriage, re- marriage or civil partnership”.
 
 8.  In regulation 22 (Priority between a man and his wife to increase of old age pension for child)−
 
-Civil Partnership
-
-2014-10 (a) insert “or civil partners” in the title after “wife”;
+(a) insert “or civil partners” in the title after “wife”;
 
 (b) after “wife” (in each place except for subregulation (a)), insert “or civil partners”;
 
@@ -866,15 +800,11 @@ Amendments of the Income Tax (Allowances, Deductions and Exceptions) Rules, 1992
 
 3.  In section 12 (Deduction for maintenance of children)–
 
-Civil Partnership
-
-2014-10
-
 (a) for “a man” substitute “a spouse or civil partner”;
 
 (b) remove the line “or, if a woman, that no man, is entitled to make a claim in respect of her under that rule;” and
 
-(c) remove the sentence “Provided  that where a woman has the custody of and maintains such a child, she may claim a deduction under this rule, notwithstanding the fact that a claim is made in respect of her under rule 7(1)(b) or (c).
+(c) remove the sentence “Provided that where a woman has the custody of and maintains such a child, she may claim a deduction under this rule, notwithstanding the fact that a claim is made in respect of her under rule 7(1)(b) or (c).
 
 4.  In rule 18 (Deduction in respect of dependant relatives)–
 
@@ -894,7 +824,7 @@ Civil Partnership
 
 (a) in subsection (4), after “spouse” insert “or civil partner”, and
 
-(b) in subsection (9), substitute “or her widower and children,” for “ her widower and children, or his or her surviving civil partner and children”.
+(b) in subsection (9), substitute “or her widower and children,” for “her widower and children, or his or her surviving civil partner and children”.
 
 8.  In rule 22 (Deduction in respect of loan interest)−
 
@@ -908,9 +838,7 @@ Civil Partnership
 
 (e) in subsection (5)(b), after “husband” insert “or civil partner”,
 
-Civil Partnership
-
-2014-10 (f) in subrule (8), after “spouse” (in each place) insert “or civil partner”, and
+(f) in subrule (8), after “spouse” (in each place) insert “or civil partner”, and
 
 (g) in subrule (9), after “widow” insert “or surviving civil partner”.
 
@@ -918,7 +846,7 @@ Amendments to the Qualifying (Category 2) Individual Rules 2010.
 
 1.  In rule11 (Family of a Category 2 Individual)−
 
-(a) after “spouse” (in each place other than subrule (4) ) insert “or civil partner”; and
+(a) after “spouse” (in each place other than subrule (4)) insert “or civil partner”; and
 
 (b) in subrule (4), after “spouse” insert “, civil partner”.
 
@@ -931,7 +859,3 @@ Amendments to the Home Purchase (Deductions) Rules 1989.
 3.  In rule 6 (Forfeiture of deduction), after “spouse” (in each place) insert “or civil partner”.
 
 4. In rule 8 (Restrictions on entitlement to deduction specified in rule 2 and rule 2A in relation to elections made for Gross Income Based System), after spouse (in each place) insert “or civil partner”.
-
-Civil Partnership
-
-2014-10

@@ -28,9 +28,7 @@ The Pensions Act is amended in accordance with the provisions of this Schedule.
 
 (a) after “married” (in each place) insert “or entered into a civil partnership”, and
 
-Civil Partnership
-
-2014-10 (b) after “marry” (in each place) insert “or enter into a civil partnership”.
+(b) after “marry” (in each place) insert “or enter into a civil partnership”.
 
 3.  In section 13 (Pensions, etc., not assignable), in subsection (2)(b), after “former spouse” insert “, civil partner or former civil partner”.
 
@@ -64,9 +62,7 @@ Civil Partnership
 
 (m) in subsection (3), after “from the date of the marriage” insert “or civil partner”;
 
-Civil Partnership
-
-2014-10 (n) in subsection (3), after “subsequent date that the marriage” insert “, civil partnership”; and
+(n) in subsection (3), after “subsequent date that the marriage” insert “, civil partnership”; and
 
 (o) in subsection (3), after “notwithstanding marriage” insert “or civil partnership”.
 
@@ -91,7 +87,3 @@ Civil Partnership
 (c) in subsection (1), after “regulation 7 if” insert “his or”; and
 
 (d) before “she may be granted” insert “he or”.
-
-Civil Partnership
-
-2014-10

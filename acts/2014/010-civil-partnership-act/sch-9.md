@@ -14,7 +14,7 @@ The Domestic Violence and Matrimonial Proceedings is amended in accordance with 
 
 (a) insert “or civil partnership” after “matrimonial” in the title;
 
-(b) in subsections (1) and (2), after  “marriage” (in each place) insert “or civil partnership”; and
+(b) in subsections (1) and (2), after “marriage” (in each place) insert “or civil partnership”; and
 
 (c) in subsections (1) and (2), after “home” (in each place) insert “or home in which the civil partners live”.
 
@@ -29,7 +29,3 @@ The Domestic Violence and Matrimonial Proceedings is amended in accordance with 
 (a) in subsections (1) and (2), after “marriage” (in each place) insert “or civil partnerships”; and
 
 (b) in subsections (1) and (2), after “home” (in each place) insert “or home in which the civil partners live”.
-
-Civil Partnership
-
-2014-10

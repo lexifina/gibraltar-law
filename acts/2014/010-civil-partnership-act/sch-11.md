@@ -28,15 +28,13 @@ The Immigration, Asylum and Refugee Act is amended in accordance with the provis
 
 6.  In section 55A (Interpretation), in the definition of “spouse”, after “spouse” insert “or civil partner” and after “marriage” insert “or civil partnership”.
 
-Civil Partnership
-
-2014-10 7.In section 55F (Definition of Family Member) after “spouse” (in each place) insert “or civil partner”.
+7.In section 55F (Definition of Family Member) after “spouse” (in each place) insert “or civil partner”.
 
 8.  In section 55G (Definition of Extended Family Member) after “spouse” (in each place) insert “or civil partner”.
 
 9.  In section 55H (Definition of “family member who has retained the right of residence”)−
 
-(a) after “spouse”(in each place) insert “or civil partner”; and
+(a) after “spouse” (in each place) insert “or civil partner”; and
 
 (b) after “marriage” (in each place) insert “or civil partnership”.
 
@@ -62,7 +60,7 @@ Amendments to the Gibraltarian Status Act.
 
 (b) after “widower” (in each place other than subsection (1)(g)) insert “or surviving civil partner”;
 
-(c) in subsection (1)(g) after “person” insert  “or surviving civil partner”.
+(c) in subsection (1)(g) after “person” insert “or surviving civil partner”.
 
 2.  In section 7 (Married Gibraltarians)−
 
@@ -70,16 +68,8 @@ Amendments to the Gibraltarian Status Act.
 
 (b) after “married” insert “or entered into a civil partnership with”.
 
-Civil Partnership
-
-2014-10
-
 3.  In section 8 (Registration of adopted children)–
 
 (a) in subsection (b)(ii), for “an unmarried person who is Gibraltarian” substitute “an unmarried person who is not in a civil partnership; or”; and
 
 (b) in subsection (1)(b), after “(ii) an unmarried person or a person who is not in a civil partnership; or” insert “(iii) a couple in a civil partnership, one of whom is a Gibraltarian.”.
-
-Civil Partnership
-
-2014-10

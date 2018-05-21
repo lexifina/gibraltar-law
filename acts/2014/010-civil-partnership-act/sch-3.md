@@ -38,9 +38,7 @@ Amendments to the Married Women Act.
 
 (b) after “married woman” insert “or civil partner”;
 
-Civil Partnership
-
-2014-10 (c) after “to be her property” insert “or in the case of civil partners, his or her property”; and
+(c) after “to be her property” insert “or in the case of civil partners, his or her property”; and
 
 (d) after “thereto” insert “he or”.
 
@@ -78,10 +76,6 @@ Civil Partnership
 
 (e) after “by a husband to his wife” insert “or by a civil partner to their civil partner”; and
 
-Civil Partnership
-
-2014-10
-
 (f) after “the name of his wife” insert “or corresponding civil partner”.
 
 8.  In section 8 (Moneys payable under policy of assurance not to form part of estate of the insured)−
@@ -96,11 +90,11 @@ Civil Partnership
 
 (e) in subsection (2), after “benefit of his wife” insert “or civil partner”, and
 
-(f) in subsection (2) ,after “benefit of her husband” insert “or civil partner”.
+(f) in subsection (2), after “benefit of her husband” insert “or civil partner”.
 
 9.  In section 9 (Wife’s antenuptial debts and liabilities)−
 
-(a) insert “or civil partner’s ” after “Wife’s” in title, and
+(a) insert “or civil partner’s” after “Wife’s” in title, and
 
 (b) after “marriage” (in each place) insert “or civil partnership”.
 
@@ -114,15 +108,11 @@ Civil Partnership
 
 (a) insert “or civil partners” after “wife” in title,
 
-(b) after “marriage” (in each place)insert “or civil partnership”, and
+(b) after “marriage” (in each place)insert “or civil partnership”,  and
 
 (c) in subsection (1), after “married” insert “or in a civil partnership”.
 
 12.  In section 12 (Married woman as executrix or trustee)−
-
-Civil Partnership
-
-2014-10
 
 (a) insert “or civil partners” after “woman” in title;
 
@@ -138,7 +128,7 @@ Civil Partnership
 
 (c) after “such woman” insert “or man, in the case of a civil partnership”; and
 
-(d) after “by a man” insert “or woman , in the case of a civil partnership”.
+(d) after “by a man” insert “or woman, in the case of a civil partnership”.
 
 14.  In section 14 (Married woman entitled to prior estate to be protector of settlement alone)−
 
@@ -163,10 +153,6 @@ Civil Partnership
 (c) after “married woman” insert “or a civil partner”;
 
 (d) after “her husband” insert “or his or her civil partner”;
-
-Civil Partnership
-
-2014-10
 
 (e) in subsection (a), after “committed by her” insert “or in the case of civil partners, by him or her”,
 
