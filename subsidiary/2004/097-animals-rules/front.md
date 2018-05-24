@@ -12,7 +12,7 @@ ANIMALS AND BIRDS RULES 2004
 
 Amending enactments Relevant current provisions Commencement date 2006/045 Corrigenda 2006/129 r. 23A 16.11.2006 2015/194 rr. 11(1)(b), 11A, Sch.7 15.10.2015 2016/240 rr. 2. 4A, 11(1)(c), (2), 12, 12A, 13(1)(e)-(i), (2), 15, 21, 23A(1), (3), Sch.1, 2
 
-1.12.2016
+1.12.2016 2018/123 rr. 12A, 23A 24.5.2018
 
 Implementing: Regulation (EC) No 998/2003
 
