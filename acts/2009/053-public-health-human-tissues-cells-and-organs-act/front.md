@@ -16,9 +16,11 @@ LN.  2012/151 Long title, ss. 1A, 1B, 2-27, 28A- 28W, 29, Schs. 5, 6 & 12
 
 1.11.2012 2014/157 Schs. 2 & 3 17.6.2014 2017/081 ss. 2, 16(1), (3), (4), (9), (10), (11), 16A, 26(1), (3), Schs. 6-8, 10-11A
 
-29.4.2017 2018/035 ss. 28X-28Z 8.2.2018
+29.4.2017 2018/035 ss. 28X-28Z 8.2.2018 2018/124 ss. 28T(1), (2), 28U(4)(b) 25.5.2018
 
-Transposing: Directive 2004/23/EC Directive 2006/17/EC Directive 2006/86/EC Directive 2010/53/EU Directive 2012/39/EU Directive 2015/565/EU
+Transposing: Directive 2004/23/EC Directive 2006/17/EC Directive 2006/86/EC Directive 2010/53/EU Directive 2012/39/EU Directive 2015/565/EU Directive 2016/680
+
+Implementing: Regulation (EU) 2016/679
 
 Public Health (Human Tissues, Cells and Organs)
 
