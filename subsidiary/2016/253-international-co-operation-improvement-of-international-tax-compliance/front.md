@@ -12,11 +12,11 @@ Commencement 22.12.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/116 rr. 4(b), 5(3), Sch. 2 22.6.2017 2017/219 rr. 3(1), 7(2)(c), Sch. 1, 4 9.11.2017
+LN. 2017/116 rr. 4(b), 5(3), Sch. 2 22.6.2017 2017/219 rr. 3(1), 7(2)(c), Sch. 1, 4 9.11.2017 2018/124 r. 13(3) 25.5.2018
 
-Transposing: Directive 2014/107/EU
+Transposing: Directive 2014/107/EU Directive (EU) 2016/680
 
-Implementing: Decision (EU) 2015/2376
+Implementing: Decision (EU) 2015/2376 Regulation (EU) 2016/679
 
 Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
 
