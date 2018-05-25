@@ -12,7 +12,7 @@ Commencement 21.8.2015
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/050 r. 7(5) 23.3.2017
+LN. 2017/050 r. 7(5) 23.3.2017 2018/124 r. 15(2) 25.5.2018
 
 International Co-Operation (Tax Information) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) (UNITED STATES) REGULATIONS 2015
 

@@ -1,4 +1,6 @@
-SCHEDULE 2 NON-REPORTING FINANCIAL INSTITUTIONS AND EXEMPT PRODUCTS
+SCHEDULE 2 Regulation  9.
+
+NON-REPORTING FINANCIAL INSTITUTIONS AND EXEMPT PRODUCTS
 
 Pursuant to regulation 9 the following Entities are treated as exempt beneficial owners or deemed-compliant FFIs, as the case may be, and the following accounts are excluded from the definition of Financial Accounts.
 
@@ -18,7 +20,9 @@ International Co-Operation (Tax Information) INTERNATIONAL CO-OPERATION (IMPROVE
 
 2009-50
 
-Subsidiary 2015/134 (b)  The Entity’s net earnings are credited to its own account or to the accounts of one or more Gibraltar Governmental Entities, with no portion of its income inuring to the benefit of any private person; and
+Subsidiary 2015/134
+
+(b)  The Entity’s net earnings are credited to its own account or to the accounts of one or more Gibraltar Governmental Entities, with no portion of its income inuring to the benefit of any private person; and
 
 (c)  The Entity’s assets vest in one or more Gibraltar Governmental Entities upon dissolution.
 
