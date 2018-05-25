@@ -10,9 +10,13 @@ IMMIGRATION (PASSENGER DATA) RULES 2014
 
 Commencement 30.10.2014
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN. 2018/124 r. 6 25.5.2018
 
-ARRANGEMENT OF RULES
+Immigration, Asylum and Refugee IMMIGRATION (PASSENGER DATA) RULES 2014
+
+1962-12
+
+Subsidiary 2014/179 ARRANGEMENT OF RULES
 
 Rules
 
