@@ -10,9 +10,11 @@ Act. No. 2007-14 Commencement 26.4.2007
 
 Assent 20.4.2007
 
-Amending enactments Relevant current provisions Commencement date LN.  2011/064 ss. 21-30 & Sch. 1 & 2 12.5.2011 2013/012 s. 31 31.1.2013 2018/102 ss.32-55, Sch. 3-5 10.5.2018
+Amending enactments Relevant current provisions Commencement date LN.  2011/064 ss. 21-30 & Sch. 1 & 2 12.5.2011 2013/012 s. 31 31.1.2013 2018/102 ss.32-55, Sch. 3-5 10.5.2018 2018/124 s. 34 25.5.2018
 
 Transposing: Directive 2008/114/EC Directive (EU) 2016/1148
+
+Implementing: Regulation (EU) 2016/679
 
 Civil Contingencies
 
