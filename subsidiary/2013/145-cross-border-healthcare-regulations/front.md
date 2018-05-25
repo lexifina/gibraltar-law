@@ -1,20 +1,16 @@
-Medical and Health CROSS-BORDER HEALTHCARE REGULATIONS 2013
+Subsidiary Legislation made under s.36.
 
-1997-25
+Cross-border Healthcare Regulations 2013
 
-Subsidiary 2013/145 Subsidiary Legislation made under s. 36 of the Medical and Health Act, 1997 and section 23(g)(i) of the Interpretation and General Clauses Act.
-
-CROSS-BORDER HEALTHCARE REGULATIONS 2013
-
-(LN. 2013/145)
+LN.2013/145
 
 Commencement 25.10.2013
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2018/124 Sch. 2 25.5.2018
+
 Transposing: Directive 2011/24/EU Directive 2012/52/EU
-
-EU Legislation/International Agreements involved:
-
-_______________________
 
 ARRANGEMENT OF REGULATIONS
 
@@ -30,13 +26,7 @@ PART 2 RESPONSIBILITIES WITH REGARD TO CROSS-BORDER HEALTHCARE
 
 PART 3 CONTACT POINT
 
-10. Contact point for cross-border healthcare.
-
-Medical and Health CROSS-BORDER HEALTHCARE REGULATIONS 2013
-
-1997-25
-
-Subsidiary 2013/145 11. GCHCP may request information.
+10. Contact point for cross-border healthcare. 11. GCHCP may request information.
 
 PART 4 REIMBURSEMENT OF COSTS OF CROSS-BORDER HEALTHCARE
 
@@ -66,18 +56,8 @@ SCHEDULE 1 EUROPEAN UNION MEASURES LISTED IN ARTICLE 2 OF THE DIRECTIVE
 
 SCHEDULE 2
 
-SCHEDULE 3
-
-Medical and Health CROSS-BORDER HEALTHCARE REGULATIONS 2013
-
-1997-25
-
-Subsidiary 2013/145 GIBRALTAR CROSS-BORDER HEALTHCARE CONTACT POINT
+SCHEDULE 3 GIBRALTAR CROSS-BORDER HEALTHCARE CONTACT POINT
 
 SCHEDULE 4 CROSS-BORDER PRESCRIPTIONS
 
-Medical and Health CROSS-BORDER HEALTHCARE REGULATIONS 2013
-
-1997-25
-
-Subsidiary 2013/145 In exercise of the powers conferred upon him by section 36 of the Medical and Health Act, 1997 and section 23(g)(i) of the Interpretation and General Clauses Act, and for the purpose of transposing into the law of Gibraltar Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients’ rights in cross-border healthcare and Commission Implementing Directive 2012/52/EU of 20 December 2012 laying down measures to facilitate the recognition of medical prescriptions issued in another Member State, the Minister has made the following Regulations–
+In exercise of the powers conferred upon him by section 36 of the Medical and Health Act, 1997 and section 23(g)(i) of the Interpretation and General Clauses Act, and for the purpose of transposing into the law of Gibraltar Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients’ rights in cross-border healthcare and Commission Implementing Directive 2012/52/EU of 20 December 2012 laying down measures to facilitate the recognition of medical prescriptions issued in another Member State, the Minister has made the following Regulations–
