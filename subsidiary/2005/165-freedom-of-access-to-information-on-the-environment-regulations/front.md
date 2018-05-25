@@ -12,7 +12,7 @@ Commencement 18.1.2007 (LN. 2007/006)
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/060 rr. 19 & 20 2.5.2014
+LN.  2014/060 rr. 19 & 20 2.5.2014 2018/124 rr. 2(2)(a), 13(2)-(4) 25.5.2018
 
 EU Legislation/International Agreements involved: Directive 90/313/EEC Directive 2003/4/EC
 
