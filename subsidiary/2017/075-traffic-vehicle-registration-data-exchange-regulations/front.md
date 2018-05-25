@@ -10,6 +10,10 @@ TRAFFIC (VEHICLE REGISTRATION DATA EXCHANGE) REGULATIONS 2017
 
 Commencement 6.5.2017
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2018/124 r. 12(2), (3)(a), (4) 25.5.2018
+
 Transposing: Directive (EU) 2015/413
 
 _______________________
