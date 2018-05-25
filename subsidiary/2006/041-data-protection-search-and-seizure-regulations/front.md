@@ -10,6 +10,10 @@ DATA PROTECTION (SEARCH AND SEIZURE) REGULATIONS 2006
 
 13.4.2006
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2018/124 rr. 2, 3(1)(a)(i), (2), 25.5.2018
+
 ________________________
 
 ARRANGEMENT OF REGULATIONS.
