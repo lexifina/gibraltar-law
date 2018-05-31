@@ -1,0 +1,5 @@
+APPENDIX TO THE MEMORANDUM OF REGULATION
+
+Proposed University timeline of independent quality assurance – subject to advice from quality review agency
+
+DATE ACTION: information available to GRA A July 2018 UoG preparation for independent external review commences B August 2018 UoG provides GRA with interim assurances of quality C December 2018 Summary of Academic Quality and Standards Committee (AQSC) minutes D December 2018 Summary of external examiners reports E January 2019 Summary Academic Board Annual Report F January 2019 Summary of AQSC minutes G July 2019 Summary of AQSC minutes H September 2019 Summary of External Examiner reports and I September 2019 Draft quality manual J December 2019 Summary Academic Board Annual Report K December 2019 Summary of AQSC minutes L Spring 2020 UoG and GRA agree External Review Terms of Reference M Autumn 2020 UoG commissions External Institutional Review N Early Spring 2021 UoG to undergo mock institutional visit O Late Spring 2021 UoG to undergo desk based analysis by external reviewer P Spring 2022 UoG to undergo on-site review by external reviewer
