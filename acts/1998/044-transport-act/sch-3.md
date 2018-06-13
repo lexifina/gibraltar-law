@@ -30,7 +30,7 @@ Exemption Listings.
 
 (i) services for old persons; or
 
-(ii) services for physically and mentally handicapped persons;
+(ii) services for physically and mentally disabled persons;
 
 Transport
 
