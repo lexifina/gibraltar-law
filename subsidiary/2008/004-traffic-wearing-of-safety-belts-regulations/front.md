@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.    2008/005 Corrigendum
 
-2014/148 rr. 2(1), 3(1), (3) & 4(3)(a) 19.9.2014
+2014/148 rr. 2(1), 3(1), (3) & 4(3)(a) 19.9.2014 Act. 2017-10 r. 2(1) 13.6.2018
 
 EU Legislation/International Agreements involved: Directive 91/671/EEC Directive 2003/20/EC Directive 2014/37/EU
 
