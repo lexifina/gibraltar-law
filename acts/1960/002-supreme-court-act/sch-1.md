@@ -38,7 +38,7 @@ Persons disqualified from jury service
 
 Part I - Mentally disabled persons.
 
-1.  A person who suffers or has suffered from mental illness, psychopathic disorder, mental handicap or severe mental handicap and on account of that condition–
+1.  A person who suffers or has suffered from mental illness, psychopathic disorder, mental disability or severe mental disability and on account of that condition–
 
 (a) is resident in a hospital or similar institution; or
 
@@ -52,9 +52,9 @@ Part I - Mentally disabled persons.
 
 4.  In this Part of this Schedule–
 
-(a) “mental handicap” means a state of arrested or incomplete development of mind (not amounting to severe mental handicap) which includes significant impairment of intelligence and social functioning;
+(a) “mental disability” means a state of arrested or incomplete development of mind (not amounting to severe mental disability) which includes significant impairment of intelligence and social functioning;
 
-(b) “severe mental handicap” means a state of arrested or incomplete development of mind which includes severe impairment of intelligence and social functioning;
+(b) “severe mental disability” means a state of arrested or incomplete development of mind which includes severe impairment of intelligence and social functioning;
 
 (c) other expressions are to be construed in accordance with the Mental Health Act 2016.
 
