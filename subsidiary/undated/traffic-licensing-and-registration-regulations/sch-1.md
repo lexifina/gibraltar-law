@@ -376,7 +376,7 @@ Multiple sclerosis.
 
 Any eye disease or disorder in BOTH eyes other than needing glasses or contact lenses,
 
-Severe mental handicap.
+Severe mental disability.
 
 If, Yes, What is it. Angina (Heart pain) while driving.
 
@@ -512,7 +512,7 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] (i) epilepsy or sudden attacks of giddiness or fainting or any mental illness or defect . . . . . . . . . . . . . . .
+Subsidiary [1958.03.06] (i) epilepsy, seizures, fainting or any  mental illness or defect . . . . . . . . . . . . . . .
 
 (ii) or any other disability or medical condition which could affect your fitness as a driver either now or in the future  . . . . . . . . . . . . . . .,if the answer to either question is YES  give details . . . . . . . . . . . . . . .
 
