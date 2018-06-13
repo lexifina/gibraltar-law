@@ -29,7 +29,3 @@ PARTICULARS TO BE NOTIFIED TO THE COMPETENT AUTHORITY
 13. Name and address of any contractor or contractors already chosen.
 
 Note: Where a declaration has been made in accordance with regulation 4(4), paragraph 3 above refers to the client or clients on the basis that that declaration has not yet taken effect.
-
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12

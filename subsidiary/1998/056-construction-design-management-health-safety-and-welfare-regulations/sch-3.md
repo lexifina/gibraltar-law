@@ -1,6 +1,6 @@
 SCHEDULE 3. Regulation 23 TRANSITIONAL PROVISIONS.
 
-1.  Until 30 June 1999, regulation 6 does not apply in respect of a project the construction phase of which started before  1 October 1998.
+1.  Until 30 June 1999, regulation 6 does not apply in respect of a project the construction phase of which started before 1 October 1998.
 
 2.  Where, on 1 October 1988, the time specified in regulation 6(3) for the appointment of the planning supervisor has passed, the time for appointing the planning supervisor by virtue of regulation 6(1)(a) is as soon as is practicable after 1 October 1998.
 

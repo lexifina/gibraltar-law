@@ -24,9 +24,7 @@ Emergency routes and exits.
 
 (3) The number, distribution and dimensions of emergency routes and exits depend on the use, equipment and dimensions of the site and of the rooms and the maximum number of persons that may be present.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 (4) Specific emergency routes and exits must be indicated by signs in accordance with the Health and Safety (Safety Signs and Signals) Regulations 1996. Such signs must be sufficiently resistant and be placed at appropriate points.
+(4) Specific emergency routes and exits must be indicated by signs in accordance with the Health and Safety (Safety Signs and Signals) Regulations 1996. Such signs must be sufficiently resistant and be placed at appropriate points.
 
 (5) Emergency routes and exits, and the traffic routes and doors giving access to them, must be free from obstruction so that they can be used at any time without hindrance.
 
@@ -50,9 +48,7 @@ Ventilation.
 
 Exposure to particular risks.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 6.(1) Workers must not be exposed to harmful levels of noise or to harmful external influences (e.g. gases, vapours, dust).
+6.(1) Workers must not be exposed to harmful levels of noise or to harmful external influences (e.g. gases, vapours, dust).
 
 (2) If workers have to enter an area where the atmosphere is liable to contain a toxic or harmful substance or to have an insufficient oxygen level or to be inflammable, the confined atmosphere must be monitored and appropriate steps taken to prevent any hazards.
 
@@ -76,10 +72,6 @@ Doors and gates.
 
 (2) Doors and gates opening upwards must be fitted with a mechanism to secure them against falling back.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12
-
 (3) Doors and gates along escape routes must be appropriately marked.
 
 (4) In the immediate vicinity of gates intended primarily for vehicle traffic, there must be doors for pedestrian traffic unless it is safe for pedestrians to cross; such doors must be clearly marked and kept free at all times.
@@ -102,9 +94,7 @@ Loading bays and ramps.
 
 (2) Loading bays must have at least one exit point.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 (3) Loading ramps must be sufficiently safe to prevent workers from falling off.
+(3) Loading ramps must be sufficiently safe to prevent workers from falling off.
 
 Freedom of movement at the workstation.
 
@@ -126,11 +116,9 @@ Sanitary equipment, changing rooms and lockers.
 
 (2) Changing rooms must be sufficiently large and have facilities to enable each worker, where necessary, to dry his working clothes as well as his own clothing and personal effects and to lock them away. If circumstances so require (e.g. dangerous substances, humidity, dirt), facilities must be provided to enable working clothes to be kept in a place separate from workers’ own clothes and personal effects.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
+(3) Provision must be made for separate changing rooms or separate use of changing rooms for men and women.
 
-Subsidiary 1998/056 1956-12 (3) Provision must be made for separate changing rooms or separate use of changing rooms for men and women.
-
-(4) If changing rooms are  not  required   as  referred  to  in  sub- paragraph (1), each worker must be provided with a place in which he can lock away his own clothes and personal effects.
+(4) If changing rooms are  not  required   as  referred  to  in  sub-paragraph (1), each worker must be provided with a place in which he can lock away his own clothes and personal effects.
 
 Showers and washbasins.
 
@@ -150,37 +138,33 @@ Rest rooms and/or accommodation areas.
 
 17.(1) Where the safety or health of workers, in particular because of the type of activity carried out or the presence of more than a certain number of employees as well as the remote nature of the site, so require, workers must be provided with easily accessible rest rooms and/or accommodation areas.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 (2) Rest rooms and/or accommodation areas must be large enough and equipped with an adequate number of tables and seats with backs for the number of workers concerned.
+(2) Rest rooms and/or accommodation areas must be large enough and equipped with an adequate number of tables and seats with backs for the number of workers concerned.
 
 (3) If there are no facilities of this kind, other facilities must be provided in which workers can stay during interruptions in work.
 
 (4) Fixed accommodation areas, unless used only in exceptional cases, must have sufficient sanitary equipment, a rest room and a leisure room. They must be equipped with beds, cupboards, tables and seats with backs taking account of the number of workers, and be allocated taking account, where appropriate, of the presence of workers of both sexes.
 
-(5) Appropriate measures should be taken for the protection of non- smokers against discomfort caused by tobacco smoke in rest rooms and/or accommodation areas.
+(5) Appropriate measures should be taken for the protection of non-smokers against discomfort caused by tobacco smoke in rest rooms and/or accommodation areas.
 
 Pregnant women and nursing mothers.
 
 18.  Pregnant women and nursing mothers must be able to lie down to rest in appropriate conditions.
 
-Handicapped workers.
+Disabled workers.
 
-19.  Workplaces must be organised to take account of Handicapped workers, if necessary. The provision applies in particular to the doors, passageways, staircases, showers, washbasins, lavatories and workstations used or occupied directly by handicapped persons.
+19.  Workplaces must be organised to take account of Disabled workers, if necessary. The provision applies in particular to the doors, passageways, staircases, showers, washbasins, lavatories and workstations used or occupied directly by disabled persons.
 
 Miscellaneous provisions.
 
 20.(1) The surroundings and the perimeter of the site must be signposted and laid out so as to be clearly visible and identifiable.
 
-(2) Workers must be provided at the site with a sufficient quantity   of drinking  water  and  possibly  another   suitable   non-alcoholic beverage both in occupied rooms and in the vicinity of workstations.
+(2) Workers must be provided at the site with a sufficient quantity   of   drinking  water and  possibly  another   suitable   non-alcoholic beverage both in occupied rooms and in the vicinity of workstations.
 
 (3) Workers must–
 
 (a) be provided with facilities enabling them to take their meals in satisfactory conditions; and
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 (b) where appropriate, be provided with facilities enabling them to prepare their meals in satisfactory conditions.
+(b) where appropriate, be provided with facilities enabling them to prepare their meals in satisfactory conditions.
 
 PART B. SPECIFIC MINIMUM REQUIREMENTS FOR ON-SITE WORKSTATIONS.
 
@@ -210,10 +194,6 @@ Temperature.
 
 Natural and artificial lighting.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12
-
 5.  Workplaces must as far as possible have sufficient natural light and be equipped with the means of providing artificial lighting which is adequate for the purposes of protecting workers’ safety and health.
 
 Floors, walls, ceilings and roofs of rooms.
@@ -240,10 +220,6 @@ Doors and Gates.
 
 (4) If transparent or translucent surfaces in doors and gates are not made of safety material and if there is a danger that workers may be injured if a door or gate should shatter, the surfaces must be protected against breakage.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12
-
 Traffic routes.
 
 9.  Where the use and equipment of rooms so requires for the protection of workers, traffic routes must be clearly identified.
@@ -258,7 +234,7 @@ Specific measures for escalators and travelators.
 
 Room dimensions and air space in room.
 
-11.  Workrooms must have sufficient surface area and height to allow workers to perform their work without risk to their safety, health or well- being.
+11.  Workrooms must have sufficient surface area and height to allow workers to perform their work without risk to their safety, health or well-being.
 
 Section II – On-site workstations
 
@@ -278,10 +254,6 @@ Checking.
 
 13.  Stability and solidity must be checked appropriately and especially after any change in the height or depth of the workstation.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12
-
 Energy distribution installations.
 
 14.(1) On-site energy distribution installations, especially those subject to outside influences, must be regularly checked and maintained.
@@ -300,15 +272,13 @@ Falling objects.
 
 Falls from a height.
 
-17.(1) Falls from a height must be physically prevented in particular by means of solid cradles which are sufficiently high and have at least an end- board, a main handrail and an intermediate handrail or an equivalent alternative.
+17.(1) Falls from a height must be physically prevented in particular by means of solid cradles which are sufficiently high and have at least an end-board, a main handrail and an intermediate handrail or an equivalent alternative.
 
 (2) In principle, work at a height must be carried out only with appropriate equipment or using collective protection devices such as cradles, platforms or safety nets.
 
 (3) If the use of such equipment is not possible because of the nature of the work, suitable means of access must be provided and safety harnesses or other anchoring safety methods must be used.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 Scaffolding and ladders.
+Scaffolding and ladders.
 
 18.(1) All scaffolding must be properly designed, constructed and maintained to ensure that it does not collapse or move accidentally.
 
@@ -340,11 +310,9 @@ Evacuating and materials-handling vehicles and machinery.
 
 (2) Drivers and operators of excavating and materials-handling vehicles and machinery must be specially trained.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
+(3) Preventive measures must be taken to ensure that excavating and materials-handling vehicles and machinery do not fall into the excavations or into water.
 
-Subsidiary 1998/056 1956-12 (3) Preventive measures must be taken to ensure that excavating and materials-handling vehicles and machinery do not fall into the excavations or into water.
-
-(4) Where appropriate,   excavating   machinery   and  materials- handling machinery must be fitted with structures to protect the driver against being crushed if the machine overturns, and against falling objects.
+(4) Where appropriate,   excavating   machinery   and  materials-handling machinery must be fitted with structures to protect the driver against being crushed if the machine overturns, and against falling objects.
 
 Installations, machinery and equipment.
 
@@ -372,9 +340,7 @@ Excavations, wells, underground works, tunnels and earthwork.
 
 (d) to enable workers to reach safety in the event of fire or inrush of water or materials.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 (2) Before excavation starts, measures must be taken to identify and reduce to a minimum any hazard due to underground cables and other distribution systems.
+(2) Before excavation starts, measures must be taken to identify and reduce to a minimum any hazard due to underground cables and other distribution systems.
 
 (3) Safe routes into and out of the excavation must be provided.
 
@@ -404,9 +370,7 @@ Cofferdams and caissons.
 
 (b) appropriately equipped so that workers can gain shelter in the event of an irruption of water.
 
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12 (2) The construction, installation, transformation or dismantling of a cofferdam or caisson must take place only under the supervision of a competent person.
+(2) The construction, installation, transformation or dismantling of a cofferdam or caisson must take place only under the supervision of a competent person.
 
 (3) All cofferdams and caissons must be inspected by a competent person at regular intervals.
 
@@ -420,8 +384,4 @@ Final provisions.
 
 27.  If special situations so dictate, the classification of the minimum requirements set out in this Part of this Schedule are not to be regarded as binding.
 
-28.  The obligations laid down in this Schedule apply wherever required by the features of the construction site, the activity, the circumstances or a hazard. For the purposes of this Schedule”rooms” covers, inter alia, hutted accommodation.
-
-Factories CONSTRUCTION (DESIGN, MANAGEMENT, HEALTH, SAFETY AND WELFARE) REGULATIONS, 1998
-
-Subsidiary 1998/056 1956-12
+28.  The obligations laid down in this Schedule apply wherever required by the features of the construction site, the activity, the circumstances or a hazard. For the purposes of this Schedule “rooms” covers, inter alia, hutted accommodation.
