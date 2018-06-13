@@ -20,7 +20,7 @@ Traffic VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
 2005-26
 
-Subsidiary [1958.04.01] 2017/088 rr. 2(1), 5B(5), 5D, 54A, Sch. 4-5 7.5.2017
+Subsidiary [1958.04.01] 2017/088 rr. 2(1), 5B(5), 5D, 54A, Sch. 4-5 7.5.2017 Act. 2017-10 r. 17(3)(d) 13.6.2018
 
 Transposing: Directive 89/459/EEC Directive 92/6/EEC Directive 96/53/EC Directive 2007/38/EC Directive (EU) 2015/719
 
