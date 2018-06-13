@@ -16,7 +16,7 @@ Act. 2006-21 ss. 61(3), 62(4), 63(2) & 65(2), Part IV (ss.254-269), Schs. 2, 4 &
 
 20.7.2006 LN.  2013/1531 ss. 13A, 15(8), 16(2),(2)(b), (c), 209(1), 217(b),(c), 225A, 225B & 231
 
-1.11.2013 Act.   2014-04 s. 187 27.2.2014 LN.  2014/173 ss. 54A, 93A, 215, Schs. 1A & 5 29.10.2014 2016/107 s. 137(2)(a), (b) 12.5.2016
+1.11.2013 Act.   2014-04 s. 187 27.2.2014 LN.  2014/173 ss. 54A, 93A, 215, Schs. 1A & 5 29.10.2014 2016/107 s. 137(2)(a), (b) 12.5.2016 Act. 2017-10 ss. 39A-39F, 91(1) 13.6.2018
 
 Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU Directive 2012/28/EU Directive 2014/26/EU
 
@@ -72,13 +72,17 @@ General
 
 36. Making of temporary copies. 37. Research and private study. 38. Criticism, review and news reporting. 39. Incidental inclusion of copyright material.
 
-Education
+Visual impairment
 
-40. Things done for the purposes of instruction or examination. 41. Anthologies for educational use.
+39A. Making a single accessible copy for personal use. 39B. Multiple copies for visually impaired persons. 39C. Intermediate copies and records.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 42. Performing, playing or showing work in course of activities of educational establishment. 43. Recording by educational establishments of broadcasts. 44. Reprographic copying by educational establishments of passages from published works. 45. Lending of copies by educational establishments.
+2005-22 39D. Licensing schemes. 39E. Limitations, etc. following infringement of copyright. 39F. Definitions and other supplementary provision for sections 39A to 39E
+
+Education
+
+40. Things done for the purposes of instruction or examination. 41. Anthologies for educational use. 42. Performing, playing or showing work in course of activities of educational establishment. 43. Recording by educational establishments of broadcasts. 44. Reprographic copying by educational establishments of passages from published works. 45. Lending of copies by educational establishments.
 
 Libraries and archives
 
@@ -94,7 +98,11 @@ Public administration
 
 Computer programs: lawful users
 
-61. Back up copies. 62. Decompilation. 63. Observing, studying and testing of computer programs. 64. Other acts permitted to lawful users.
+61. Back up copies. 62. Decompilation. 63. Observing, studying and testing of computer programs.
+
+Intellectual Property (Copyright and Related Rights)
+
+2005-22 64. Other acts permitted to lawful users.
 
 Databases: permitted acts
 
@@ -102,11 +110,7 @@ Databases: permitted acts
 
 Designs
 
-66. Design documents and models.
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 67. Effect of exploitation of design derived from artistic work. 68. Things done in reliance on registration of design.
+66. Design documents and models. 67. Effect of exploitation of design derived from artistic work. 68. Things done in reliance on registration of design.
 
 Typefaces
 
@@ -126,13 +130,15 @@ Miscellaneous: lending of works and playing of sound recordings
 
 Miscellaneous: broadcasts
 
-84. Incidental recording for purposes of broadcast. 85. Recording for purposes of supervision and control of broadcasts and other services. 86. Recording for the purposes of time-shifting. 87. Photographs of broadcasts. 88. Free public showing or playing of broadcast. 89. Reception and re-transmission of wireless broadcast by cable. 90. Royalty or other sum payable in pursuance of section 89(4). 91. Provision of sub-titled copies of broadcast. 92. Recording for archival purposes.
-
-Adaptations
+84. Incidental recording for purposes of broadcast. 85. Recording for purposes of supervision and control of broadcasts and other services. 86. Recording for the purposes of time-shifting.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 93. Adaptations.
+2005-22 87. Photographs of broadcasts. 88. Free public showing or playing of broadcast. 89. Reception and re-transmission of wireless broadcast by cable. 90. Royalty or other sum payable in pursuance of section 89(4). 91. Provision of sub-titled copies of broadcast. 92. Recording for archival purposes.
+
+Adaptations
+
+93. Adaptations.
 
 CHAPTER IIIA CERTAIN PERMITTED USES OF ORPHAN WORKS
 
@@ -160,15 +166,13 @@ Supplementary
 
 103. Duration of rights. 104. Consent and waiver of rights. 105. Application of provisions to joint works. 106. Application of provisions to parts of works.
 
-CHAPTER V DEALINGS WITH RIGHTS IN COPYRIGHT WORKS
+Intellectual Property (Copyright and Related Rights)
+
+2005-22 CHAPTER V DEALINGS WITH RIGHTS IN COPYRIGHT WORKS
 
 Copyright
 
-107. Assignment and licences. 108. Prospective ownership of copyright. 109. Exclusive licences. 110. Copyright to pass under will with unpublished work.
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 111. Presumption of transfer of rental right in case of film production agreement.
+107. Assignment and licences. 108. Prospective ownership of copyright. 109. Exclusive licences. 110. Copyright to pass under will with unpublished work. 111. Presumption of transfer of rental right in case of film production agreement.
 
 Right to equitable remuneration where rental right transferred
 
@@ -194,15 +198,13 @@ Remedies for infringement of moral rights
 
 Presumptions
 
-125. Presumptions relevant to literary, dramatic, musical and artistic works. 126. Presumptions relevant to sound recordings and films. 127. Presumptions relevant to works subject to Crown copyright.
+Intellectual Property (Copyright and Related Rights)
+
+2005-22 125. Presumptions relevant to literary, dramatic, musical and artistic works. 126. Presumptions relevant to sound recordings and films. 127. Presumptions relevant to works subject to Crown copyright.
 
 Offences
 
-128. Criminal liability for making or dealing with infringing articles etc. 129. Order for delivery up in criminal proceedings. 130. Search warrants.
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 131. Offence by body corporate: liability of officers.
+128. Criminal liability for making or dealing with infringing articles etc. 129. Order for delivery up in criminal proceedings. 130. Search warrants. 131. Offence by body corporate: liability of officers.
 
 Provision for preventing importation of infringing copies
 
@@ -224,11 +226,11 @@ References and applications with respect to licensing by licensing bodies
 
 Factors to be taken into account in certain classes of case
 
-150. General considerations: unreasonable discrimination. 151. Licenses for reprographic copying. 152. Licences for educational establishments in respect of works included in broadcasts. 153. Licences to reflect conditions imposed by promoters of events. 154. Licences to reflect payments in respect of underlying rights. 155. Licences in respect of works included in re-transmissions. 156. Mention of specific matters not to exclude other relevant considerations.
-
 Intellectual Property (Copyright and Related Rights)
 
 2005-22
+
+150. General considerations: unreasonable discrimination. 151. Licenses for reprographic copying. 152. Licences for educational establishments in respect of works included in broadcasts. 153. Licences to reflect conditions imposed by promoters of events. 154. Licences to reflect payments in respect of underlying rights. 155. Licences in respect of works included in re-transmissions. 156. Mention of specific matters not to exclude other relevant considerations.
 
 Implied indemnity in schemes or licences for reprographic copying
 
@@ -252,6 +254,10 @@ Qualification for copyright protection
 
 165. Qualification for copyright protection. 166. Qualification by reference to author. 167. Qualification by reference to country of first publication. 168. Qualification by reference to place of transmission. 169. Application of this Part to foreign countries. 170. Denial of copyright protection to citizens of countries not giving adequate protection to Gibraltarian works.
 
+Intellectual Property (Copyright and Related Rights)
+
+2005-22
+
 Supplementary
 
 171. Gibraltarian ships, aircraft and hovercraft.
@@ -260,9 +266,7 @@ CHAPTER IX MISCELLANEOUS AND GENERAL
 
 Crown and Parliamentary copyright
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 172. Crown copyright. 173. Copyright in Acts. 174. Parliamentary copyright. 175. Copyright in Bills. 176. Parliament: supplementary provisions with respect to copyright. 177. Copyright vesting in certain international organisations. 178. Folklore, etc: anonymous unpublished works. 179. Transitional provisions and savings. 180. Rights and privileges under other enactments or the common law.
+172. Crown copyright. 173. Copyright in Acts. 174. Parliamentary copyright. 175. Copyright in Bills. 176. Parliament: supplementary provisions with respect to copyright. 177. Copyright vesting in certain international organisations. 178. Folklore, etc: anonymous unpublished works. 179. Transitional provisions and savings. 180. Rights and privileges under other enactments or the common law.
 
 Interpretation
 
@@ -272,17 +276,17 @@ PART II DATABASE RIGHT
 
 189. Interpretation. 190. Database right. 191. The maker of a database. 192. First ownership of database right. 193. Acts infringing database right. 194. Term of protection. 195. Qualification for database right. 196. Avoidance of certain terms affecting lawful users. 197. Exceptions to database right. 198. Acts permitted on assumption as to expiry of database right. 199. Presumptions relevant to database right. 200. Application of copyright provisions.
 
+Intellectual Property (Copyright and Related Rights)
+
+2005-22
+
 PART III RIGHTS IN PERFORMANCES
 
 CHAPTER I INTRODUCTORY
 
 201. Interpretation.
 
-CHAPTER II
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 ECONOMIC RIGHTS
+CHAPTER II ECONOMIC RIGHTS
 
 Performers’ rights
 
@@ -300,13 +304,13 @@ Duration of rights
 
 217. Duration of performer’s rights.
 
-Performer’s property rights
-
-218. Performers’ property rights. 219. Assignments and licences. 220. Prospective ownership of a performer’s property rights. 221. Exclusive licences. 222. Performer’s property rights to pass under will with unpublished original recording.
-
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 223. Presumption of transfer of rental right in case of film production agreement. 224. Right to equitable remuneration where rental right transferred. 225. Equitable remuneration: reference of amount to Court. 225A. Assignment of performer’s property rights in a sound recording. 225B. Payment in consideration of assignment. 226. Infringement actionable by rights owner. 227. Provisions as to damages in infringement action. 228. Rights and remedies of exclusive licensee. 229. Exercise of concurrent rights. 230. Requirement for signatures and its application in relation to body corporate. Non-property rights
+2005-22
+
+Performer’s property rights
+
+218. Performers’ property rights. 219. Assignments and licences. 220. Prospective ownership of a performer’s property rights. 221. Exclusive licences. 222. Performer’s property rights to pass under will with unpublished original recording. 223. Presumption of transfer of rental right in case of film production agreement. 224. Right to equitable remuneration where rental right transferred. 225. Equitable remuneration: reference of amount to Court. 225A. Assignment of performer’s property rights in a sound recording. 225B. Payment in consideration of assignment. 226. Infringement actionable by rights owner. 227. Provisions as to damages in infringement action. 228. Rights and remedies of exclusive licensee. 229. Exercise of concurrent rights. 230. Requirement for signatures and its application in relation to body corporate. Non-property rights
 
 231. Performer’s non-property rights. 232. Consent. 233. Remedies for infringement of a performer’s rights and recording rights.
 
@@ -322,15 +326,15 @@ Extension of protection
 
 243. Countries enjoying reciprocal protection.
 
+Intellectual Property (Copyright and Related Rights)
+
+2005-22
+
 CHAPTER III MORAL RIGHTS
 
 Right to be identified as performer
 
 244. The right to be identified as the performer. 245. Requirement that right be asserted. 246. Exceptions to right.
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
 
 Right to object to derogatory treatment of work
 
@@ -348,15 +352,13 @@ PART IV ARTISTS RESALE RIGHT
 
 254.  Interpretation. 255. Artist’s resale right. 256. Works covered. 257.  Joint authorship. 258. Proof of authorship. 259. Assignment etc. 260. Waiver etc. 261. Persons entitled on succession. 262. Requirements as to nationality etc. 263.  Trusts. 264.  “Resale”. 265. Liability to pay resale royalty. 266. Collective management. 267. Right to information. 268. Transitional provisions. 269. Sales before 1st January 2010.
 
-PART V MISCELLANEOUS AND GENERAL
+Intellectual Property (Copyright and Related Rights)
+
+2005-22 PART V MISCELLANEOUS AND GENERAL
 
 Circumvention of protection measures
 
-270. Circumvention of technical devices applied to computer programs. 271. Circumvention of technological measures. 272. Devices and services designed to circumvent technological measures.
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 273. Rights and remedies in respect of devices and services designed to circumvent technological measures. 274. Remedy where effective technological measures prevent permitted acts. 275. Interpretation of sections 271 to 274.
+270. Circumvention of technical devices applied to computer programs. 271. Circumvention of technological measures. 272. Devices and services designed to circumvent technological measures. 273. Rights and remedies in respect of devices and services designed to circumvent technological measures. 274. Remedy where effective technological measures prevent permitted acts. 275. Interpretation of sections 271 to 274.
 
 Rights management information
 
@@ -383,6 +385,10 @@ SCHEDULE 2 Permitted acts to which section 274 applies.
 SCHEDULE 3 Application of Part II to other countries and territories.
 
 SCHEDULE 4 CALCULATION OF RESALE ROYALTY
+
+Intellectual Property (Copyright and Related Rights)
+
+2005-22
 
 SCHEDULE 5 COUNTRIES OUTSIDE THE EEA WHOSE NATIONALS MAY ENJOY RESALE RIGHT
 
