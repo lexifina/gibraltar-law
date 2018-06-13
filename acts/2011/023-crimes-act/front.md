@@ -26,7 +26,9 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 Crimes
 
-2011-23 Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU Directive 2013/40/EU
+2011-23 2017-10 s. 19(5)(c)(i) 13.6.2018
+
+Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU Directive 2013/40/EU
 
 Crimes
 
