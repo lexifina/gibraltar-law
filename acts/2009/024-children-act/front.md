@@ -16,7 +16,7 @@ Act. 2010-25 ss. 2, 3(1), (7) & (11), 4(4)(b), 52(2) & (4), 99(11), 142, 147(6),
 
 11.11.2010 “ ss. 93A–93P & Sch. 18.4.20131 2014-10 ss. 2, 14(1), 16(4A), 27(5)(aa), 49(6)(c), 60(2) & 63(2)
 
-28.3.2014 2016-18 ss. 73(1), 125(9) 23.4.2018 LN. 2018/112 s. 2(1) 21.5.2018
+28.3.2014 2016-18 ss. 73(1), 125(9) 23.4.2018 LN. 2018/112 s. 2(1) 21.5.2018 Act. 2017-11 s. 156A 20.6.2018
 
 English sources: Children Act 1989 (1989 Chapter 41).
 
@@ -126,7 +126,7 @@ PART XII List of individuals unsuitable to work with children
 
 PART XIII Miscellaneous provisions
 
-156. Offences by corporations. 157. Rules of court. 158. Powers to make Regulations. 159. Repeals and savings.
+156. Offences by corporations. 156A. Consent by persons over 16 to surgical, medical and dental treatment. 157. Rules of court. 158. Powers to make Regulations. 159. Repeals and savings.
 
 SCHEDULE Text of the Hague Convention of 19 October, 1996, on jurisdiction, applicable law, recognition, enforcement and co-operation in respect of parental responsibility and measures for the protection of children
 
