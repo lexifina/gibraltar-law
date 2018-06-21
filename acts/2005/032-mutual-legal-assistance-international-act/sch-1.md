@@ -28,9 +28,7 @@ Privilege of witnesses.
 
 (5)  A person cannot be compelled to give any evidence in his capacity as an officer or servant of the Crown.
 
-Mutual Legal Assistance (International)
-
-2005-32 (6)  Sub-paragraphs (4) and (5) are without prejudice to the generality of sub-paragraph (1).
+(6)  Sub-paragraphs (4) and (5) are without prejudice to the generality of sub-paragraph (1).
 
 Forwarding evidence.
 
@@ -51,7 +49,3 @@ Forwarding evidence.
 Supplementary.
 
 6.  The Bankers’ Books Evidence Act 1879 applies to the proceedings as it applies to other proceedings before the court.
-
-Mutual Legal Assistance (International)
-
-2005-32

@@ -1,22 +1,12 @@
-Mutual Legal Assistance (International)
-
-2005-32
-
-MUTUAL LEGAL ASSISTANCE (INTERNATIONAL) ACT 2005
+Mutual Legal Assistance (International) Act 2005
 
 Principal Act
 
-Act. No. 2005-32 Commencement 23.5.2005
-
-Assent 23.5.2005
+Act. No. 2005-32 Commencement 23.5.2005 Assent 23.5.2005
 
 Amending enactments Relevant current provisions Commencement date
 
-Act  2007-01 s. 2 19.4.2007 2007-17 s. 2 14.6.2007 LN. 2008/064 Sch. 2 4.9.2008
-
-Mutual Legal Assistance (International)
-
-2005-32
+Act  2007-01 s. 2 19.4.2007 2007-17 s. 2 14.6.2007 LN. 2008/064 Sch. 2 4.9.2008 Act. 2018-08 ss. 2, 12(1)(b), 15(1) 21.6.2018
 
 ARRANGEMENT OF SECTIONS
 
@@ -27,7 +17,3 @@ Section
 SCHEDULE 1 PROCEEDINGS UNDER SECTION 14
 
 SCHEDULE 2 STATES TO WHICH THE ACT APPLIES
-
-Mutual Legal Assistance (International)
-
-2005-32 AN ACT TO PROVIDE FOR MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS BETWEEN GIBRALTAR AND RECIPROCATING JURISDICTIONS.
