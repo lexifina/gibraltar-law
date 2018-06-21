@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2008-16 ss. 78(2) & (3) 30.10.2008 2010-08 ss. 4(1), (1)(c) & (6), 6(1), (1)(b) & 9(1)
 
-15.4.2010
+15.4.2010 2018-07 ss. 2, 49-55, 79(1)(d), (2)-(3) 21.6.2018
 
 English sources: None cited
 
@@ -78,9 +78,9 @@ PART VI
 
 Police
 
-2006-20 MEMBERSHIP OF ASSOCIATIONS, ETC
+2006-20 MEMBERSHIP OF FEDERATION, ETC.
 
-49. Formation of Police Association. 50. Membership of Police Association. 51. Objects of Police Association. 52. Police Association to be independent. 53. Definition of prohibited Association. 54. Penalty for offences in connection with prohibited associations. 55. Prohibition against membership of trade unions.
+49. Formation of Police Federation. 50. Membership of Police Federation. 51. Objects of Police Federation. 52. Police Federation to be independent. 53. Definition of prohibited association. 54. Penalty for offences in connection with prohibited associations. 55. Prohibition against membership of trade unions.
 
 PART VII GENERAL ADMINISTRATION
 
