@@ -10,6 +10,12 @@ BUILDING RULES 2017
 
 Commencement 28.6.2017
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2018/144 rr. A2a(4), (6), A6, A7(1), (b), A9(1), A13(1), (2), Part R
+
+21.6.2018
+
 Public Health BUILDING RULES 2017
 
 1950-07
