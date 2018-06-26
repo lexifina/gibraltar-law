@@ -12,7 +12,7 @@ Commencement 4.1.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2018/015 Notice of Corrigendum 2018/023 Sch. 2 25.1.2018
+LN. 2018/015 Notice of Corrigendum 2018/023 Sch. 2 25.1.2018 2018/145 Sch. 2 26.6.2018
 
 Implementing- Regulation (EU) 2017/2063 Regulation (EU) No 2018/88 Regulation (EU) No 2018/899 Regulation (EU) No 2018/1653
 
