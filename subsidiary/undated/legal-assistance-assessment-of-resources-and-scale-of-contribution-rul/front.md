@@ -1,35 +1,23 @@
-Legal Aid and Assistance LEGAL ASSISTANCE (ASSESSMENT OF RESOURCES AND SCALE OF CONTRIBUTION) RULES
+Subsidiary Legislation made under s.14.
 
-1960-23
+Legal Assistance (Assessment of Resources and Scale of Contribution) Rules
 
-Subsidiary 1960.12.06-1 Rules made under section 14.
+1960.12.06-1
 
-LEGAL ASSISTANCE (ASSESSMENT OF RESOURCES AND SCALE OF CONTRIBUTION) RULES
-
-(1960.12.06-1)
-
-1.1.1961
+Commencement 1.1.1961
 
 Amending enactments Relevant current provisions Commencement date
 
-Rules of 30.12.1968 Schedule 1 and 2
+Rules of 30.12.1968 Schs.1-2 LN. 1974/080 Schs.1-2
 
-LN.   1974/080 Schedule 1 and 2
+2018/1461 rr. 3(a)-(b), 4(3)(a), (c), (e)-(g), 5(3)(d)-(f), 6, Schs.1-2
 
-__________________
+27.6.2018
 
-Legal aid and Assistance LEGAL ASSISTANCE (ASSESSMENT OF RESOURCES AND SCALE OF CONTRIBUTION) RULES
+1 If these Rules are revoked before the expiry of three years from the date of commencement, then the previous provisions which were revoked by these Rules shall be revived thereby reverting to the state of law before these Rules were commenced.
 
-1960-23
-
-Subsidiary 1960.12.06-1 ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES
 
 Rule
 
-1. Title. 2. Interpretation. 3. Contributions from legally assisted person. 4. Computing capital of person receiving legal assistance. 5. Computing income of person receiving legal assistance. 6. Husband and wife. 7. Minors. 8. Registrar to determine capital and income.
-
-SCHEDULE 1. Contribution from Income.
-
-SCHEDULE 2. Contribution from Capital.
-
-Legal Aid and Assistance LEGAL ASSISTANCE (ASSESSMENT OF RESOURCES AND SCALE OF CONTRIBUTION) RULES
+1. Title. 2. Interpretation. 3. Contributions from legally assisted person. 4. Computing capital of person receiving legal assistance. 5. Computing income of person receiving legal assistance. 6. Spouse or civil partner. 7. Minors. 8. Registrar to determine capital and income.
