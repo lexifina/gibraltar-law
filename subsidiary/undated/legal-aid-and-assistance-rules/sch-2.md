@@ -32,12 +32,6 @@ Dated this .......... day of ......................., 20........
 
 Registrar.
 
-Legal aid and Assistance LEGAL AID AND ASSISTANCE RULES
-
-1960-23
-
-Subsidiary 1960.12.29
-
 FORM H.
 
 Rule 17 (3).
@@ -52,19 +46,15 @@ of .......................................................  (hereinafter called 
 
 This is further to certify that–
 
-l. The assisted person’s solicitor is [(b) The name and address of the solicitor should be filled in if possible when the emergency certificate is issued, but may be filled in after the emergency certificate has been filed ]................................... Of ..........................................
+l. The assisted person’s solicitor is [(b) The name and address of the solicitor should be filled in if possible when the emergency certificate is issued, but may be filled in after the emergency certificate has been filed  ]................................... Of ..........................................
 
 2. This certificate, being an emergency certificate, remains in force for a period of six weeks from the date hereof, or such other period not exceeding three months as the Registrar may allow, unless it is previously revoked or is replaced by a legal assistance certificate.
 
 Dated this ........., day of ......................., 20......
 
-Registrar. (a)Insert “plaintiff”, “defendant”, “petitioner”, “intervener”, or as the case may require.
+Registrar.
 
-Legal aid and Assistance LEGAL AID AND ASSISTANCE RULES
-
-1960-23
-
-Subsidiary 1960.12.29
+(a)Insert “plaintiff”, “defendant”, “petitioner”, “intervener”, or as the case may require.
 
 LEGAL AID AND ASSISTANCE ACT.
 
@@ -95,12 +85,6 @@ Dated this .......... day of ......................., 20......
 (signed)......................
 
 To ...........................
-
-Legal aid and Assistance LEGAL AID AND ASSISTANCE RULES
-
-1960-23
-
-Subsidiary 1960.12.29
 
 LEGAL AID AND ASSISTANCE ACT.
 
