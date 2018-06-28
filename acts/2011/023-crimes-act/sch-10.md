@@ -20,12 +20,12 @@ PART A
 
 PART B Composition of the advisory committee
 
-(a) a senior police officer appointed by the Commissioner of Police, as Chair;
+(a) a veterinary surgeon appointed by Minister with responsibility for the environment, as Chair;
 
-(b) a veterinary surgeon appointed by the Minister with responsibility for the environment;
+(b) a senior police officer appointed by the Commissioner of Police;
 
-(c) a representative of the Gibraltar Society for the Prevention of Cruelty to Animals, nominated by the Society;
+(c) the chief executive officer of the Department of Environment;
 
-(d) a representative of the Kennel Club of Gibraltar, nominated by the Club;
+(d) two members appointed by the Minister with responsibility for the environment;
 
 (e) an officer of the Environmental Agency, as Secretary.
