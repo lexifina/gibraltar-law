@@ -20,12 +20,6 @@ The information referred to in regulations 6(1) and 9(1) is (subject to the note
 
 (g) in the case of a contract of indeterminate duration or a contract containing a subscription, the total costs per billing period or (where such contracts are charged at a fixed rate) the total monthly costs.Where the total costs cannot be reasonably calculated in advance, the manner in which the price is to be calculated shall be provided;
 
-Contract and Tort CONSUMER RIGHTS ON CONTRACTS REGULATIONS 2013
-
-1960-04
-
-Subsidiary 2013/177
-
 (h) the cost of using the means of distance communication for the conclusion of the contract where that cost is calculated other than at the basic rate;
 
 (i) the arrangements for payment, delivery, performance, and the time by which the trader undertakes to deliver the goods or to perform the services;
@@ -46,11 +40,7 @@ Subsidiary 2013/177
 
 (q) the existence of relevant codes of conduct, as defined in section 2 of  the Consumer Protection (Unfair Trading) Act 2008, and how copies of them can be obtained, where applicable;
 
-Contract and Tort CONSUMER RIGHTS ON CONTRACTS REGULATIONS 2013
-
-1960-04
-
-Subsidiary 2013/177 (r) the duration of the contract, where applicable, or, if the contract is of indeterminate duration or is to be extended automatically, the conditions for terminating the contract;
+(r) the duration of the contract, where applicable, or, if the contract is of indeterminate duration or is to be extended automatically, the conditions for terminating the contract;
 
 (s) where applicable, the minimum duration of the consumer’s obligations under the contract;
 
@@ -60,12 +50,6 @@ Subsidiary 2013/177 (r) the duration of the contract, where applicable, or, if t
 
 (v) where applicable, any relevant compatibility of digital content with hardware and software that the trader is aware of or can reasonably be expected to have been aware of;
 
-(w) where applicable, the possibility of having recourse to an out- of-court complaint and redress mechanism, to which the trader is subject, and the methods for having access to it.
+(w) where applicable, the possibility of having recourse to an out-of-court complaint and redress mechanism, to which the trader is subject, and the methods for having access to it.
 
 Note: In the case of a public auction, the information listed in paragraphs (b) to (e) may be replaced with the equivalent details for the auctioneer.
-
-Contract and Tort CONSUMER RIGHTS ON CONTRACTS REGULATIONS 2013
-
-1960-04
-
-Subsidiary 2013/177

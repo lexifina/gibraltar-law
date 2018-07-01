@@ -18,20 +18,10 @@ The information referred to in regulation 5(1) is-
 
 (f) in the case of a sales contract, a reminder that the trader is under a legal duty to supply goods that are in conformity with the contract;
 
-(g) where applicable, the existence and the conditions of after- sales services and commercial guarantees;
+(g) where applicable, the existence and the conditions of after-sales services and commercial guarantees;
 
 (h) the duration of the contract, where applicable, or, if the contract is of indeterminate duration or is to be extended automatically, the conditions for terminating the contract;
 
 (i) where applicable, the functionality, including applicable technical protection measures, of digital content;
 
-Contract and Tort CONSUMER RIGHTS ON CONTRACTS REGULATIONS 2013
-
-1960-04
-
-Subsidiary 2013/177 (j) where applicable, any relevant compatibility of digital content with hardware and software that the trader is aware of or can reasonably be expected to have been aware of.
-
-Contract and Tort CONSUMER RIGHTS ON CONTRACTS REGULATIONS 2013
-
-1960-04
-
-Subsidiary 2013/177
+(j) where applicable, any relevant compatibility of digital content with hardware and software that the trader is aware of or can reasonably be expected to have been aware of.

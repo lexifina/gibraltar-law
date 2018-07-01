@@ -28,12 +28,6 @@ We will make the reimbursement without undue delay, and not later than-
 
 We will make the reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of the reimbursement. [See Note 4].
 
-Contract and Tort CONSUMER RIGHTS ON CONTRACTS REGULATIONS 2013
-
-1960-04
-
-Subsidiary 2013/177
-
 [See Note 5]
 
 [See Note 6]
@@ -56,13 +50,7 @@ Notes on instructions for completion:
 
 3. If you give the option to the consumer to electronically fill in and submit information about the consumer’s cancellation from the contract on your website, insert the following: “You can also electronically fill in and submit the model cancellation form or any other clear statement on our website [insert Internet address]. If you use this option, we will communicate to you an acknowledgement of receipt of such a cancellation on a durable medium (e.g. by e-mail) without delay.”.
 
-4. In the case of sales contracts in which you have not offered to collect the goods in the event of cancellation insert the following: “We may withhold
-
-Contract and Tort CONSUMER RIGHTS ON CONTRACTS REGULATIONS 2013
-
-1960-04
-
-Subsidiary 2013/177 reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest.”.
+4. In the case of sales contracts in which you have not offered to collect the goods in the event of cancellation insert the following: “We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest.”.
 
 5. If the consumer has received goods in connection with the contract
 
@@ -86,13 +74,7 @@ Subsidiary 2013/177 reimbursement until we have received the goods back or you h
 
 “You are only liable for any diminished value of the goods resulting from the handling other than what is necessary to establish the nature, characteristics and functioning of the goods.”
 
-6. In the case of a service contract insert the following: “If you requested to begin the performance of services during the cancellation period, you shall pay us an amount which is in proportion to what has been performed until
-
-Contract and Tort CONSUMER RIGHTS ON CONTRACTS REGULATIONS 2013
-
-1960-04
-
-Subsidiary 2013/177 you have communicated us your cancellation from this contract, in comparison with the full coverage of the contract.”.
+6. In the case of a service contract insert the following: “If you requested to begin the performance of services during the cancellation period, you shall pay us an amount which is in proportion to what has been performed until you have communicated us your cancellation from this contract, in comparison with the full coverage of the contract.”.
 
 B. Model cancellation form
 
