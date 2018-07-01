@@ -8,9 +8,11 @@ Principal Act
 
 Act. No.  2011-12 Commencement (LN. 2011/093) 16.6.2011 Assent 4.5.2011
 
-Amending enactments Relevant current provisions Commencement date LN. 2012/220 Sch. 3 1.1.2013 2013/022 ss. 7(1)(m) & (o), 12(1), Schs. 1 & 2 14.2.2013 2016/055 s. 4(5) 21.3.2016
+Amending enactments Relevant current provisions Commencement date LN. 2012/220 Sch. 3 1.1.2013 2013/022 ss. 7(1)(m) & (o), 12(1), Schs. 1 & 2 14.2.2013 2016/055 s. 4(5) 21.3.2016 2017/245 s. 7(1)(v), (2A) 1.7.2018
 
 Transposing: Directive 2008/48/EC Directive 2011/90/EU Directive 2014/17/EU
+
+Implementing: Regulation (EU) 2016/1011
 
 Financial Services (Consumer Credit)
 
