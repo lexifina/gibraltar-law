@@ -22,9 +22,7 @@ PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY
 
 8. Appropriated stamps.
 
-9. Commissioner of Stamp Duties and Assistant Commissioners of
-
-Stamp Duties.
+9. Commissioner of Stamp Duties and Assistant Commissioners of Stamp Duties.
 
 10. Denoting certificate.
 
@@ -52,6 +50,8 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 19A. First-time and second-time buyers.
 
+19B. Special Stamp Duty.
+
 20. How consideration consisting of stock and securities, to be charged.
 
 21. How consideration consisting of periodical payments, to be charged.
@@ -70,9 +70,7 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 28. Duty on gifts inter vivos.
 
-29. What is to be deemed a conveyance on any occasion, not being a sale
-
-or mortgage.
+29. What is to be deemed a conveyance on any occasion, not being a sale or mortgage.
 
 30. Provision as to duplicates and counterparts.
 
@@ -94,9 +92,9 @@ PROVISIONS RELATING TO COMPANIES
 
 36. Charge of duty on capital of limited liability companies.
 
-37. Charge of duty on capital of companies with limited liability otherwise
+37. Charge of duty on capital of companies with limited liability otherwise than under the
 
-than under the Companies Act.
+Companies Act.
 
 38. Duty on loan capital.
 
