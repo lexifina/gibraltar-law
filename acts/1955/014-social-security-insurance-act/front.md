@@ -126,7 +126,7 @@ Social Security (Insurance)
 
 28.3.2014 2015-111 ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3
 
-30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017 2017/254 Sch.1 1.4.2017
+30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017 2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -156,10 +156,6 @@ Social Security (Insurance)
 
 EU Legislation/International Agreements involved:
 
-Social Security (Insurance)
-
-1955-14
-
 ARRANGEMENT OF SECTIONS.
 
 Section
@@ -186,11 +182,13 @@ Widow’s Benefit.
 
 Guardian’s Allowance.
 
-15. revoked.
-
 Social Security (Insurance)
 
-1955-14 Old Age Pensions.
+1955-14
+
+15. revoked.
+
+Old Age Pensions.
 
 16. revoked. 16A.  revoked. 17. revoked.
 
@@ -218,11 +216,11 @@ Finance.
 
 Administration.
 
-31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board. 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit.
+31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board.
 
 Social Security (Insurance)
 
-1955-14 38. Interim payments, arrears and repayments. 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
+1955-14 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit. 38. Interim payments, arrears and repayments. 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
 
 Legal Proceedings.
 
@@ -1072,7 +1070,7 @@ Social Security (Insurance)
 
 (5)  In any proceedings for an offence against this Act, the wife, husband or civil partner of the accused shall be competent to give evidence, whether for or against the accused:
 
-Provided that the wife, husband or civil partner shall not be compellable either to give evidence or, in giving evidence, to disclose any communication made to her or him during the marriage or civil partnership by the accused.
+Provided that the wife or husband shall not be compellable either to give evidence or, in giving evidence, to disclose any communication made to her or him during the marriage or civil partnership by the accused.
 
 Civil proceedings to recover sums due to fund.
 
@@ -1092,11 +1090,11 @@ Application to special classes of persons.
 
 Crown servants.
 
-46. This Act shall apply to persons employed by or under the Crown, subject to any special provision made by or by virtue of any other section thereof, in
+46. This Act shall apply to persons employed by or under the Crown, subject to any special provision made by or by virtue of any other section thereof, in like manner as if the employer were a private person, which such
 
 Social Security (Insurance)
 
-1955-14 like manner as if the employer were a private person, which such modifications as may be made therein by regulations for the purpose of adapting the provisions of this Act to the case of such persons.
+1955-14 modifications as may be made therein by regulations for the purpose of adapting the provisions of this Act to the case of such persons.
 
 Members of the Gibraltar Regiment.
 
@@ -1178,49 +1176,51 @@ Rate of Contribution for an Employed Person.
 
 Employee - 10% of Gross Earnings.
 
-Subject to a maximum contribution of £1,430.00 per annum.
+Subject to a maximum contribution of £1,573.00 per annum.
 
-Contributions are payable weekly subject to a minimum of £5.50 per week and a maximum of £27.50 per week.
+Contributions are payable weekly subject to a minimum of £6.05 per week and a maximum of £30.25 per week.
 
 Married Women.*
 
-£14.50 per week.
+£15.95 per week.
 
 *This rate only applies to those married women who prior to 1 January 1985 elected not to pay contributions to the Social Insurance Scheme.
 
 Employer - 20% of Gross Earnings.
 
-Subject to a maximum contribution of £1,898.00 per annum.
+Subject to a maximum contribution of £2,087.80 per annum.
 
-Contributions are payable weekly subject to a minimum of £16.50 per week and a maximum of £36.50 per week.
+Contributions are payable weekly subject to a minimum of £18.15 per week and a maximum of £40.15 per week.
 
 Where the person employed is 60 years or over or one who has retired at age 55 by operation of law, only the employer’s share of the contribution is payable.
 
 Rate of Contribution for a Self-Employed Person - 20% of Gross Earnings.
 
-Subject to a maximum contribution of £1,742.00 per annum.
+Subject to a maximum contribution of £1,916.20 per annum.
 
-Contributions are payable weekly subject to a minimum of £11.00 per week and a maximum of £33.50 per week.
+Contributions are payable weekly subject to a minimum of £12.10 per week and a maximum of £36.85 per week.
 
-Rate of Additional voluntary Contribution for a Self-employed Woman.
+Rate of Additional Voluntary Contribution for a Self-employed Woman.
 
-In addition to the rate of contribution for a self-employed person a fixed amount of £2.20 per week is optionally payable for the purpose of Maternity Allowance.
+In addition to the rate of contribution for a self-employed person a fixed amount of £2.42 per week is optionally payable for the purpose of Maternity Allowance.
 
 Social Security (Insurance)
 
-1955-14 Apportionment of Contributions.
+1955-14
+
+Apportionment of Contributions.
 
 All contributions shall be deemed to be collected as follows–
 
-Social Security (Employment Injuries Insurance) Act 0.6% Social Security (Insurance) Act 1.2% Social Security (Open Long-Term Benefits Scheme) Act 33.2% Medical (Group Practice Scheme) Act 65%
+Social Security (Employment Injuries Insurance) Act 0.6% Social Security (Insurance) Act 1.2% Social Security (Open Long-Term Benefits Scheme) Act 38.2% Medical (Group Practice Scheme) Act 60%
 
-All contributions collected with effect from 1 April 2017 shall be apportioned as follows:
+All contributions collected with effect from 1 July 2018 shall be apportioned as follows:
 
 Gibraltar Health Authority – GPMS
 
-65.00% Statutory Benefits Fund
+60.00% Statutory Benefits Fund
 
-35.00%
+40.00%
 
 Total
 
