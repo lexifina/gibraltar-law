@@ -12,7 +12,7 @@ Commencement 1.11.1991
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993 1995/019 Sch. 2 23.2.1995 1995/032 Sch. 2 14.3.1995 1995/019 Sch. 2 1.4.1995 1995/116 Sch. 2 17.8.1995 1996/056 Sch. 2 25.4.1996 1996/083 Sch. 2 29.8.1996 1997/048 Sch. 2 2.5.1997 1997/084 Sch. 2 21.8.1997 1998/023 Sch. 2 26.3.1998 Act. 1998-34 Sch. 2 1.4.1998 “ Sch. 2 1.7.1998 LN. 1998/092 Sch. 2 22.10.1998 2000/074 Sch. 2 22.9.2000 2003/022 Sch. 2 1.4.2001 2002/030 Sch. 2 1.4.2002 2003/048 Sch. 2 1.5.2003 2004/136 Sch. 2 1.1.2005 2005/025 Sch. 2 1.4.2005 2005/054 Sch. 2 1.4.2005
+LN. 1992/099 Sch. 2 1.8.1992 1992/145 Sch. 2 25.10.1992 “ Sch. 2 23.11.1992 1992/152 Sch. 2 17.12.1992 1993/063 Sch. 2 1.4.1993 1995/019 Sch. 2 23.2.1995 1995/032 Sch. 2 14.3.1995 1995/019 Sch. 2 1.4.1995 1995/116 Sch. 2 17.8.1995 1996/056 Sch. 2 25.4.1996 1996/083 Sch. 2 29.8.1996 1997/048 Sch. 2 2.5.1997 1997/084 Sch. 2 21.8.1997 1998/023 Sch. 2 26.3.1998 Act. 1998-34 Sch. 2 1.4.1998 “ Sch. 2 1.7.1998 LN. 1998/092 Sch. 2 22.10.1998 2000/074 Sch. 2 22.9.2000 2003/022 Sch. 2 1.4.2001 2002/030 Sch. 2 1.4.2002 2003/048 Sch. 2 1.5.2003 2004/136 Sch. 2 1.1.2005 2005/025 Sch. 2 1.4.2005 2005/054 Sch. 2 1.4.2005 2019/178 Sch. 2 2.7.2018
 
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
@@ -128,19 +128,23 @@ Fees and Charges
 
 Description of fees and charges. Fee £
 
-1. CUSTOMS CERTIFICATE.
+1. CUSTOMS.
 
-Any certificate issued by the Financial and Development Secretary in relation to quantities and condition of any class of merchandise including livestock imported into or exported from Gibraltar
+(a) For any certificate issued by the Collector of Customs in relation to quantities and condition of any class of goods imported into or exported from Gibraltar:–
 
-(a) Certificate of landing or shipment 10.00
+(i) certificate of landing or shipment;
 
-(b) Certificate of weight or measurement (applicable also to liquors)
+20.00
+
+(ii) certificate of weight or measurement (applicable also to liquors);
 
 10.00
 
-(c) Certificated of examination of goods, short or damaged
+(iii) certificate of examination of goods, short or damaged;
 
-20.00 2. FEES AND DOCUMENTS RELATING TO LANDED PROPERTY.
+20.00 (b) Declaration of import of a motor vehicle for personal use.
+
+50.00 2. FEES AND DOCUMENTS RELATING TO LANDED PROPERTY.
 
 (a) an original grant of Crown Land in fee on paper or parchment, under Public Seal
 
@@ -148,9 +152,7 @@ Any certificate issued by the Financial and Development Secretary in relation to
 
 (b) a lease or demise for a term of years, of Crown Land, under the Public Seal
 
-40.00
-
-3. REGISTRATION AND NATURALISATION.
+40.00 3. REGISTRATION AND NATURALISATION.
 
 (a) registration of a person as a British citizen under section 5 of the British Nationality Act, 1981
 
@@ -162,13 +164,9 @@ Any certificate issued by the Financial and Development Secretary in relation to
 
 (c) registration of a minor as a British Overseas Territories citizen under the British Nationality Act, 1981
 
-144.00
+144.00 (d) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(1) of the British Nationality Act, 1981
 
-(d) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(1) of the British Nationality Act, 1981
-
-150.00
-
-(e) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(2) of the British Nationality Act, 1981
+150.00 (e) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(2) of the British Nationality Act, 1981
 
 146.00
 
@@ -176,15 +174,15 @@ Any certificate issued by the Financial and Development Secretary in relation to
 
 81.00
 
-(g) supplying a certified or other copy of a notice, certificate, order, declaration or entry given, granted or made under the British Nationality Act 1981 or any of the former Nationality Acts
-
-20.00
-
 Licensing and Fees LICENCE (FEES) RULES, 1991
 
 1961-29
 
-Subsidiary 1991/205 (h) administering the oath of allegiance for the purposes of the British Nationality Act, 1981
+Subsidiary 1991/205 (g) supplying a certified or other copy of a notice, certificate, order, declaration or entry given, granted or made under the British Nationality Act 1981 or any of the former Nationality Acts
+
+20.00
+
+(h) administering the oath of allegiance for the purposes of the British Nationality Act, 1981
 
 25.00
 
