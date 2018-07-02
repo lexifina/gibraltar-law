@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1997/147 Corrigendum
 
-1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014
+1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018
 
 Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
@@ -138,19 +138,19 @@ for a retail licence
 
 for single premises
 
-- £150
+- £5,000
 
 supplement for each additional premises
 
 to which the licence relates
 
-- £50
+- £5,000
 
 (c) an application for a wholesale licence
 
 for single premises
 
-- £1,000
+- £20,000
 
 supplement for each additional premises
 
@@ -174,7 +174,7 @@ Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
 Subsidiary 1997/146 (a) application for an import permit
 
-- £150
+- £1,000
 
 (b) application for an export permit
 
@@ -184,7 +184,7 @@ Subsidiary 1997/146 (a) application for an import permit
 
 transportation licence per vehicle:
 
-- £50
+- £250
 
 Provided that no fee shall be payable upon the application for a permit to import or export tobacco in transit.
 
@@ -196,19 +196,17 @@ _           £25
 
 (b) any other retail licence
 
-_ £50
-
-supplement for each additional
+_ £200 supplement for each additional
 
 premises to which the licence
 
 relates
 
-_ £15
+_ £5,000
 
 (c) a wholesale licence
 
-_         £300
+_         £10,000
 
 supplement for each additional
 
@@ -228,7 +226,7 @@ or ship chandler
 
 (e) a tobacco transportation licence
 
-_          £20 per vehicle
+_           £250 per vehicle
 
 New licence applications from existing licencees.
 
