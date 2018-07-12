@@ -1,22 +1,22 @@
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (DISTRESS SIGNALS AND PREVENTION OF COLLISIONS AT SEA) REGULATIONS 2017
+Subsidiary Legislation made under s.118, read with s.119 and the Sch.
 
-1995-13
+Gibraltar Merchant Shipping (Distress Signals and Prevention of Collisions at Sea) Regulations 2017
 
-Subsidiary 2017/181 Subsidiary Legislation made under s.118, read with s.119 and the Schedule.
-
-GIBRALTAR MERCHANT SHIPPING (DISTRESS SIGNALS AND PREVENTION OF COLLISIONS AT SEA) REGULATIONS 2017
-
-(LN. 2017/181)
+LN.2017/181
 
 Commencement 7.9.2017
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2018/162 rr. 7(2), 8(2), (4), 9(5), 10(5), 15(2)(b), 19(1)(b)(iii), 20(5)-(7), 21(2)(i), 35(3)(b), 36(4)(e), (f), Schs.1, 4
+
+12.7.2018
 
 ARRANGEMENT OF REGULATIONS
 
-PART 1 PRELIMINARY
-
 Regulation
+
+PART 1 PRELIMINARY
 
 1. Title and commencement. 2. Interpretation. 3. Application of these Regulations. 4. Exoneration as to negligence.
 
@@ -24,15 +24,11 @@ PART 2 STEERING AND SAILING REGULATIONS
 
 Chapter I Conduct of ships in any condition of visibility
 
-5. Application of the regulations in Chapter I. 6.Look-out. 7. Safe speed. 8. Risk of collision. 9. Action to avoid collision. 10. Narrow channels. 11. Traffic separation schemes.
+5. Application of the regulations in Chapter I. 6. Look-out. 7. Safe speed. 8. Risk of collision. 9. Action to avoid collision. 10. Narrow channels. 11. Traffic separation schemes.
 
 Chapter II Conduct of ships in sight of one another
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (DISTRESS SIGNALS AND PREVENTION OF COLLISIONS AT SEA) REGULATIONS 2017
-
-1995-13
-
-Subsidiary 2017/181 12. Application of the regulations in Chapter II. 13. Sailing ships. 14. Overtaking. 15. Head-on situation. 16. Crossing situation. 17. Action by give-way ship. 18. Action by stand-on ship. 19. Responsibilities between ships.
+12. Application of the regulations in Chapter II. 13. Sailing ships. 14. Overtaking. 15. Head-on situation. 16. Crossing situation. 17. Action by give-way ship. 18. Action by stand-on ship. 19. Responsibilities between ships.
 
 Chapter III Conduct of ships in restricted visibility
 
@@ -48,24 +44,16 @@ PART 4 SOUND AND LIGHT SIGNALS
 
 PART 5 MISCELLENEOUS
 
-39. Exemptions. 40. Code for Implementation.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (DISTRESS SIGNALS AND PREVENTION OF COLLISIONS AT SEA) REGULATIONS 2017
-
-1995-13
-
-Subsidiary 2017/181 41. Verification of compliance. 42. Offences and penalties.
+39. Exemptions. 40. Code for Implementation. 41. Verification of compliance. 42. Offences and penalties.
 
 SCHEDULE 1 Positioning and technical details of lights and shapes.
 
 SCHEDULE 2 Additional signals for fishing ships fishing in close proximity.
 
-SCHEDULE 3 Technical details of sound signal appliances
+SCHEDULE 3
+
+Technical details of sound signal appliances
 
 SCHEDULE 4 Distress signals
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (DISTRESS SIGNALS AND PREVENTION OF COLLISIONS AT SEA) REGULATIONS 2017
-
-1995-13
-
-Subsidiary 2017/181 In exercise of the powers conferred on it by section 118, read with section 119 and the Schedule of the Gibraltar Merchant Shipping (Safety, etc.) Act, 1993, and all other powers enabling, the Government, for the purposes of implementing the International Regulations for Preventing Collisions at Sea, 1972, has made the following Regulations:
+In exercise of the powers conferred on it by section 118, read with section 119 and the Schedule of the Gibraltar Merchant Shipping (Safety, etc.) Act, 1993, and all other powers enabling, the Government, for the purposes of implementing the International Regulations for Preventing Collisions at Sea, 1972, has made the following Regulations:
