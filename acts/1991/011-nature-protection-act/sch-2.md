@@ -2,495 +2,767 @@ SCHEDULE 2
 
 Section 11
 
-Name
+Name Common Name
 
-Common Name
+PTERIDACEAE Anogramma leptophylla Annual Gymnogram
 
-GYMNOGRAMMACEAE Anogramma leptophylla
+ASPLENIACEAE Asplenium ceterach
 
-Annual Gymnogram
+Asplenium trichomanes subsp quadrivalens
 
-ASPLENIACEAE Ceterach offifinarum
+Rusty-back Fern
 
-Rusty-back Fern Asplenium trichomanes
-
-Maidenhair Spleenwort
-
-POLYPODIACEAE Polypodium australe
+Maidenhair Spleenwort POLYPODIACEAE Polypodium cambricum
 
 Southern Polypody
 
-EPHEBRACEAE Ephedra tragilis
-
-Joint Pine
-
 MORACEAE Ficus carica
 
-Fig
+Fig URTICACEAE Urtica membranacea
 
-URTICACEAE
-
-Nettle
-
-Pellitory-of-the-wall Urtica dubia
-
-Parietaria diffusa
+Parietaria judaica
 
 Parietaria lusitanica
 
-SANTALACEAE Osyris quadripartita
+Parietaria mauritanica Nettle
 
-ARISTOLOCHIACEAE Aristolochia baetica
+Pellitory-of-the-wall
 
-Pipe Vine
+Mediterranean Pellitory-of-the-wall
 
-POLYGONACEAE Polygonum aviculare Common Knotgrass Rumex intermedius
+Moroccan Pellitory-of-the-wall
 
-Emex spinosa
+SANTALACEAE Osyris lanceolata
 
-CHENOPODIACEAE Beta vulgaris
+Osyris ARISTOLOCHIACEAE Aristolochia baetica Pipe Vine
 
-Beet Chenopodium ambrosioides
+POLYGONACEAE Polygonum aviculare
 
-Chenopodium murale
+Rumex intermedius
 
-Nettle-leaved Goosefoot Chenpodium album Fat Hen
+Common Knotgrass
 
-AMARANTHACEAE amaranthus blitoides
+Intermediate Dock AMARANTHACEAE Amaranthus blitoides
 
-amaranthus lividus
-
-Achyranthes
-
-NYCTAGINACEAE Mirabilis jalapa
-
-Four o'clock Plant
-
-AIZOACEAE Carpobrotus edulis
-
-Hottentot Fig
-
-CARYOPHYLLACEAE Arenaria leptoclados
-
-Lersser Thyme-leaved Sandwort Minuartia hybrida
-
-Fine-leaved Sandwort Stellaria media
-
-Chickweed Stellaria pallida
-
-Lesser Chickweed Cerastium glomeratum
-
-Sticky Mouse-ear Chickweed Sagia apetala
-
-Common Pearlwort
+Spreading Amaranth
 
 Nature Protection
 
-1991-11 Paronychia argentea
+1991-11 Amaranthus blitum
 
-Herniaria lusitancia
+Achyranthes aspera var. sicula
 
-Ciliate Rupture-wort Polycarpon tetraphyllum
+Beta vulgaris
 
-Four-leaved All-seed Spergularia marina
+Dysphania ambrosioides
 
-Silene obtusifolia
+Chenopodium murale
+
+Chenopodium album
+
+Black Amaranth
+
+Devil’s Horsewhip
+
+Beet
+
+Aromatic Goosefoot
+
+Nettle-leaved Goosefoot
+
+Fat Hen NYCTAGINACEAE All species
+
+AIZOACEAE Carpobrotus edulis
+
+Disphyma crassifolium
+
+Hottentot Fig
+
+Purple Dewplant CARYOPHYLLACEAE Minuartia hybrida
+
+Stellaria media
+
+Stellaria pallida
+
+Cerastium glomeratum
+
+Sagina apetala
+
+Paronychia argentea
+
+Polycarpon tetraphyllum
+
+Spergularia marina
 
 Silene obtusifolia
 
 Silene colorata
 
-Pink Mediterranean Catchfly Silene nocturna
+Silene nocturna
 
-RANUNCULACEAE Clematis cirrhosa
+Silene nicaeensis
 
-Virgin's Bower Ranunculus bullatus Bullate Buttercup Ranunculus paludosus
+Fine-leaved Sandwort
 
-Fan-leaved Buttercup
+Chickweed
 
-PAPAVERACEAE Papaver rhoeas
+Lesser Chickweed
 
-Corn Poppy Glaucium flavum
+Sticky Mouse-eared Chickweed
 
-Yellow Horned Poppy Fumaria capreolata
+Common Pearlwort
 
-Ramping Fumitory Fumaria sepium
+Silver Paronychia
 
-CRUCIFERAE Sisymbrium officinale
+Four-leaved All-seed
 
-Hedge Mustard Cardamine hirsuta
+Sea Spurrey
 
-Hairy Bittercress Lobularia maritima
+Blunt-leaved Catchfly
 
-Sweet Alison Biscutella
+Pink Mediterranean Catchfly
 
-Bucklet Mustard Diplotaxis siifolia
+Night Catchfly
+
+Sticky Catchfly
+
+Nature Protection
+
+1991-11 RANUNCULACEAE Clematis cirrhosa
+
+Ranunculus paludosus
+
+Virgin’s Bower
+
+Fan-leaved Buttercup PAPAVERACEAE Papaver dubium
+
+Papaver rhoeas
+
+Glaucium flavum
+
+Long-headed Poppy
+
+Corn Poppy
+
+Yellow Horned Poppy
+
+FUMARIACEAE Fumaria capreolata
+
+Fumaria sepium
+
+Ramping Fumitory
+
+Coastal Fumitory BRASSICACEAE Sisymbrium officinale
+
+Sisymbrium erysimoides
+
+Cardamine hirsuta
+
+Lobularia maritima
+
+Biscutella megacarpea
+
+Biscutella sempervirens
 
 Hirschfeldia incana
 
+Raphanus raphanistrum
+
+Lepidium coronopus
+
+Hedge Mustard
+
+Mediterranean Rocket
+
+Hairy Bitter Cress
+
+Sweet Alison
+
+Buckler Mustard
+
+Lesser Buckler Mustard
+
 Hoary Mustard
 
-Cakile maritima
+Wild Radish
 
-Sea Rocket Raphanus raphanistrum
+Lesser Swine-cress
 
-Wild Raddish
+RESEDACEAE Reseda alba
 
-RESEDACEAE Reseda luteola
+Upright Mignonette CRASSULACEAE Aeonium arboretum
 
-Dyers Rocket Reseda alba
+Aeonium haworthii
 
-Upright Mignonette
+Umbilicus rupestris
 
-CRASSULACEAE Umbilicus rupestris
+Tree Houseleek
 
-Wall Pennywort Umbilicus horizontalis
+Haworth’s Aeonium
+
+Wall Pennywort
+
+Horizontal Navelwort
+
+Nature Protection
+
+1991-11 Umbilicus horizontalis
 
 Sedum sediforme
 
 Sedum album
 
-White Stonecrop Sedum rubens
+Sedum rubens
 
-ROSACEAE
+Bryophyllum delagoense
 
-Rubus ulmifolius
+Yellow Stonecrop
 
-Sanguisorba minor
+White Stonecrop
 
-Salad Burnet
+Red Stonecrop
 
-LEGUMINOSAE Albizia lophantha
+Mother of Thousands FABACEAE Acacia cyclops
+
+Acacia saligna
+
+Paraserianthes lophantha
 
 Calicotome villosa
 
-Thorny Broom Teline linifolia Astragalus boeticus
+Genista linifolia
 
-Psoralea bituminbsa
+Astragalus boeticus
 
-Pitch Trefoil Vicia tenuifolia
+Bituminaria bituminosa
 
-Slender-leaved Tufted Vetch Vicia sativa
+Vicia villosa subsp ambigua
 
-Common Vetch Vicia lutea
+Vicia sativa subsp cordata
 
-Yellow Vetch Lothyrus clymenum
+Lathyrus clymenum
 
 Pisum sativum
 
-Pea
-
-Nature Protection
-
-1991-11 Ononis reclinata
-
-Small Restharrow Ononis viscosa
+Ononis reclinata
 
 Melilotus indica
 
-Small-flowered Melilot Medicago truncatula
+Medicago truncatula
 
-Vedicago littoralis
+Medicago littoralis
 
 Medicago polymorpha
 
-Hairy Medick Trifolium glomerdtum
+Trifolium tomentosum
 
-Clustered Clover Trifolium tomentosum
+Trifolium campestre
 
-Wooly Trefoil Trifolium campestre
+Red-eye Wattle
 
-Hop Trefoil Trifolium scabrum
+Blue-leaved Wattle
 
-Rough Trefoil Trifolium stellatum Star Clover Lotus corniculatus
+Stink Bean
 
-Birdsfoot Trefoil Lotus edulis
+Spiny Broom
+
+Mediterranean Broom
+
+Southern Milk Vetch
+
+Pitch Trefoil
+
+Slender-leaved Tufted Vetch
+
+Common Vetch
+
+Perennial Pea
+
+Wild Pea
+
+Small Restharrow
+
+Small-flowered Melilot
+
+Barrel Medick
+
+Coastal Medick
+
+Hairy Medick
+
+Woolly Trefoil
+
+Hop Trefoil
+
+Nature Protection
+
+1991-11 Trifolium scabrum
+
+Trifolium stellatum
+
+Lotus longesiliquosus
+
+Lotus arenarius
+
+Lotus edulis
 
 Lotus ornithopodioides
 
 Lotus creticus
 
-Southern Birdsfoot Trefoil Coronilla valentina
+Hippocrepis multisiliquosa
 
-Shrubby Scorpion Vetch Hippocrepis
+Scorpiurus muricatus
 
-Scorpiurus
+Rough Trefoil
 
-OXALIDACEAE Oxalis pes-caprae
+Star Clover
 
-Bermuda Buttercup
+Common Birdsfoot Trefoil
 
-GERANICAEAE Geranium rutundifolium
+Sand Birdsfoot Trefoil
 
-Round-leaved Cranesbill Geranium molle
+Edible Birdsfoot Trefoil
 
-Dovesfoot Cranesbill Geranimu purpureum
+Birdsfoot Trefoil
 
-Lesser Herb Robert Erodium laciniatum
+Southern Birdsfoot Trefoil
 
-Erodium malaciodes
+Horseshoe Vetch
 
-Soft Storksbill Erodium moschantum
+Prickly Scorpiontail
+
+OXALIDACEAE All species
+
+GERANIACEAE Geranium rotundifolium
+
+Geranium molle
+
+Geranium purpureum
+
+Erodium chium
+
+Erodium malacoides
+
+Erodium moschatum
+
+Pelargonium inquinans
+
+Round-leaved Cranesbill
+
+Doves-foot Cranesbill
+
+Lesser Herb Robert
+
+Three-lobed Storksbill
+
+Soft Storksbill
 
 Musk Storksbill
 
-TROPAEOLACEAE Tropaeolum majus
+Scarlet Pelargonium
 
-Nasturtium
+TROPAEOLACEAE All species
 
-LINACEAE
+LINACEAE Linum strictum
 
-Linum strictum
-
-Upright Yellow Flax
-
-EUPHORBIACEAE Mercurialis annua
-
-Actual Mercury Euphorbia squamigera
-
-Euphorbia terracina
+Upright Yellow Flax EUPHORBIACEAE Mercurialis annua
 
 Euphorbia peplus
 
-Euphorbia medicaginea
+Annual Mercury
 
-RUTACEAE
+Petty Spurge
 
-Ruta angustifolia
+Nature Protection
 
-Fringed Rue
+1991-11 Euphorbia chamaesyce
 
-ANACARDIASEAE Pistacia terebinthus
+Euphorbia serpens
 
-Terebinth; Turpentine Tree Pistacia lentiscus
+Euphorbia maculata
 
-Lentisc Schinus molle
+Prostrate Spurge
+
+Matted Sandmat
+
+Spotted Spurge
+
+RUTACEAE Ruta angustifolia
+
+Fringed Rue SIMAROUBACEAE All species
+
+ANACARDIACEAE Pistacia terebinthus
+
+Pistacia lentiscus
+
+Schinus molle
+
+Terebinth; Turpentine Tree
+
+Lentisc
 
 Californian Pepper Tree RHAMNACEAE Rhamnus alaternus
 
-Mediterranean Buckthorn
+Mediterranean Buckthorn MALVACEAE Malva hispanica
 
-MALVACEAE Malva hispanica
+Malva sylvestris
 
-Malva sylvertis
+Lavatera cretica
 
-Common Mallow Lavatera cretica
+Spanish Mallow
+
+Common Mallow
 
 Smaller Tree Mallow
 
 CUCURBITACEAE Ecballium elaterium
 
-Squirting Cucumber
-
-Nature Protection
-
-1991-11
-
-CACTACEAE Opuntia fleus-indiea
-
-Prickly Pear Opuntia tuna
+Squirting Cucumber CACTACEAE All species
 
 MYRTACEAE Eucalyptus camaldulensis
 
-Red Gum EucalyptuS globulus
+Eucalyptus globulus
 
-Blue Gum
+Red Gum
 
-THELIGONACEAE Theligonum cynocrambe
+Blue Gum ARALIACEAE Hedera helix
 
-ARALIACEAE Hedera helix
+Ivy APIACEAE Smyrnium olusatrum
 
-Ivy UMBELLIFERAE Smyrnium olusatrum
+Alexanders
 
-Alexanders Crithmum maritimum
+Rock Samphire
 
-Rock Samphire Foeniculum vulgare
+Nature Protection
 
-Fennel Kundmannia sicula
+1991-11 Crithmum maritimum
+
+Foeniculum vulgare subsp piperitum
+
+Kundmannia sicula
 
 Elaeoselinum foetidum
 
 Thapsia villosa
 
-Torilis arvensis Spreading Hedge Parsley Daucus carota
+Daucus carota subsp maximus
 
-Wild carrot
+Daucus carota subsp hispanicus
+
+Fennel
+
+Kundmannia
+
+Elaeoselinum
+
+Thapsia
+
+Wild Carrot
+
+Wild Carrot
 
 PRIMULACEAE Anagallis arvensis
 
-Pimperrnel
+Pimpernel OLEACEAE Jasminum fruticans
 
-OLEACEA
+Olea europaea
 
-Jasminum fruticans
+Wild Jasmine
 
-Wild Jasmine Olea europaea
+Olive GENTIANACEAE Blackstonia perfoliata
 
-Olive
+Centaurium erythraea
 
-GENTIANACEAE Blackstonia perfoliata
+Yellow Wort
 
-Yellow Wort Centaurium erythraea
+Common Centaury APOCYNACEAE Vinca difformis
 
-Common Centaury
-
-APOCYNACEAE Vinca difformis
+Nerium oleander
 
 Intermediate Periwinkle
 
-RUBIACEAE
+Oleander RUBIACEAE Sherardia arvensis
 
-Shersrdia arvensis Field Madder
-
-Galium aparine Cleavers
+Galium aparine
 
 Galium verrucosum
 
 Galium murale
 
-Valantina muralis
+Valantia muralis
 
 Rubia peregrina
 
-Wild Madder CONVOLVULACEAE Convolvulus arvensis
+Theligonum cynocrambe
 
-Field Bindweed Convolvulus althaeoides
+Field Madder
 
-Mallow-leaved Bindwood
+Cleavers
 
-BORAGINACEAE Heliotropium eurooaeum
+Warty Bedstraw
 
-Echium creticum
+Yellow Wall Bedstraw
 
-Borago officinalis
+Horned Valantia
 
-Borage VERBENACEAE Limtana camara
+Wild Madder
 
-LABIATAE
-
-Teucrium fruticans
-
-Tree Germander Teucrium polium
-
-Felty Germander Prasium majus
-
-Phlomis purpurea
-
-Purple Jerusalem Sage Calamintha sylvatica
+Dog’s Cabbage
 
 Nature Protection
 
-1991-11 Micromeria graeca
+1991-11 CONVOLVULACEAE Convolvulus althaeoides
+
+Ipomoea indica
+
+Mallow-leaved Bindweed
+
+Morning Glory BORAGINACEAE Heliotropium europaeum
+
+Echium creticum subsp coincyanum
+
+Borago officinalis
+
+Heliotrope
+
+Bristly Bugloss
+
+Borage VERBENACEAE Lantana camara
+
+Bush Lantana LAMIACEAE Teucrium fruticans
+
+Teucrium lusitanicum
+
+Prasium majus
+
+Phlomis purpurea
+
+Clinopodium menthifolium subsp ascendens
+
+Micromeria graeca
 
 Rosmarinus officinalis
 
-Rosemary Lavandula dentata
+Lavandula dentata
+
+Tree Germander
+
+Felty Germander
+
+Prasium
+
+Purple Jerusalem Sage
+
+Wood Calamint
+
+Greek Savory
+
+Rosemary
 
 Toothed Lavender
 
-SOLANACEAE Solanum luteum luteum
+SOLANACEAE Solanum luteum subsp. luteum
 
-Solanum luteum alatum
+Solanum alatum
 
-Solanum sodomaeum
+Nicotiana glauca
 
-False Sodom Nicotiana glauca
+Hairy Nightshade
 
-Apple Shrub Tobacco
+Orange Nightshade
 
-SCROPHULARIACEAE Antirrhinum majus cirrhigerum Snapdragon Antirrhinum majus tortuosum
+Shrub Tobacco ACANTHACEAE Acanthus mollis
 
-Snapdragon Misopates orontium
+Bear’s Breech OROBANCHACEAE Orobanche ramosa
 
-Weasel's Snout Linaria amethystea
+Orobanche minor
+
+Branched Broomrape
+
+Lesser Broomrape
+
+Nature Protection
+
+1991-11
+
+Orobanche crenata
+
+Bean Broomrape SCROPHULARIACEAE Myoporum laetum
+
+Waterbush PLANTAGINACEAE Plantago coronopus
+
+Plantago lagopus
+
+Plantago afra
+
+Antirrhinum majus subsp cirrhigerum
+
+Antirrhinum majus subsp tortuosum
+
+Misopates orontium
+
+Linaria amethystea
 
 Cymbalaria muralis
 
-Ivy-leaved Toadflax Veronica cymbalaria
+Veronica cymbalaria
 
-Pale Speedwell Veronica arvensis
+Veronica arvensis
 
-Wall Speed well ACANTHACEAE Acanthus mollis
+Bucks Horn Plantain
 
-Bear's Breech
-
-OROBANCHACEAE Orobanche ramosa
-
-Branched Broomrape Orobanche minor
-
-Lesser Broomrape Orobanche crenata
-
-Orobanche sanguinea
-
-PLANTAGINACEAE Plantago coronopus
-
-Buckshorn Plantain Plantago lagopus
-
-Haresfoot Plantain Plantago afra
+Hare’s Foot Plantain
 
 Branched Plantain
 
+Snapdragon
+
+Snapdragon
+
+Weasel’s Snout
+
+Spanish Toadflax
+
+Ivy-leaved Toadflax
+
+Pale Speedwell
+
+Wall Speedwell
+
 CAPRIFOLIACEAE Lonicera implexa
 
-Honeysuckle
-
-VALERIANACEAE Fedia cornucopiae
+Fedia cornucopiae
 
 Centranthus calcitrapae
 
 Centranthus ruber
 
-Red Valerian
+Scabiosa atropurpurea
 
-DIPSACACEAE Scabiosa atropurpurea
+Honeysuckle
+
+African Valerian
+
+Cut-leaved Valerian
+
+Red Valerian
 
 Mournful Widow CAMPANULACEAE Campanula erinus
 
-Annual Bellflower
+Annual Bellflower ASTERACEAE Symphyotrichum squamatum
 
-COMPOSITE Aster squamatus
+Erigeron sumatrensis
 
-Conyza albida
+Squamate Aster
 
-Conyza bonariensis
-
-Helichrysum rupestre
-
-Phagnalon saxatile Dittrichia viscosa
-
-Aromatis Inula Pallenis spinosa
-
-Asteriscus maritimus
-
-Sea Aster Chrysanthemum coronarium
-
-Crown Daisy Senecio bicolor
-
-Silver Ragwort; Cineraria Senecio vulgaris
-
-Groundsel Calendula suffruticosa
+Tall Fleabane
 
 Nature Protection
 
-1991-11 Calendula arvensis
+1991-11 Erigeron bonariensis
 
-Marigold Carlina corymbosa
+Helichrysum boissieri
 
-Flat-topped Carline Thistle Carduus tenuiflorus
+Phagnalon saxatile
 
-Galactites tomentosa
+Dittrichia viscosa
 
-Centaurea sonchifolia
+Pallenis spinosa
+
+Pallenis maritima
+
+Glebionis coronaria
+
+Anacyclus radiatus
+
+Arctotheca calendula
+
+Jacobaea maritima
+
+Senecio vulgaris
+
+Senecio angulatus
+
+Calendula incana subsp algarbiensis
+
+Calendula arvensis
+
+Bidens aureus
+
+Bidens pilosus
+
+Carlina hispanica
+
+Carduus tenuiflorus
+
+Carduus pycnocephalus
+
+Galactites tomentosus
+
+Centaurea seridis
 
 Centaurea melitensis
 
-Maltese Star Thistle Centaurea pullata
+Centaurea pullata
 
-Carthamus arborescens
+Horseweed
 
-CHICORIOIDEAE Scolymus hispanicus
+Wall Helichrysum
 
-Spanish Oyster Plant Hyoseris radiata Hedypnois arenaria
+Rock Phagnalon
+
+Aromatic Inula
+
+Spiny Daisy
+
+Mediterranean Beach Daisy
+
+Crown Daisy
+
+Yellow Anacyclus
+
+Cape Weed
+
+Silver Ragwort; Cineraria
+
+Groundsel
+
+Cape Ivy
+
+Rock Marigold
+
+Marigold
+
+Golden Bur-marigold
+
+Hairy Beggar’s Ticks
+
+Flat-topped Carline Thistle
+
+Slender Thistle
+
+Plymouth Thistle
+
+Galactites
+
+Silver Knapweed
+
+Maltese Star Thistle
+
+Iberian Knapweed
+
+Yellow Tree Thistle
+
+Nature Protection
+
+1991-11 Carthamus arborescens
+
+Scolymus hispanicus
+
+Hyoseris radiata
+
+Hedypnois arenaria
 
 Urospermum picroides
 
@@ -498,834 +770,244 @@ Reichardia picroides
 
 Reichardia intermedia
 
-Lenotondon taraxacoides
+Leontodon saxatilis subsp rothii
 
-|Aetheorhiza bulbosa
+Sonchus oleraceus
 
-Sonchus oleraceus Common Sow-Thistle Sonchus tenerrimus
+Sonchus tenerrimus
 
 Lactuca tenerrima
 
-Andryala intergrifolia
+Andryala integrifolia
 
-LILIACEAE
+Spanish Oyster Plant
 
-Asphodelus albus
+Perennial Hyoseris
 
-White Asphodel Asphodelus ramosus
+Sand Hedypnois
 
-Asphodel Aloe arborescens
+Prickly Goldenfleece
 
-Colchicum lusitanum
+Common Reichardia
 
-Urginea maritima
+Intermediate Reichardia
 
-Sea Squill Allium roseum
+Hairy Hawkbit
 
-Rose Garlic Allium triquetrum
+Common Sow-thistle
 
-Triquetous Garlic Allium ampleoprasum
+Slender Sow-thistle
 
-Wild Leek Allium sphaerocephalon
+Pale Blue Lettuce
 
-Round-heated Leek Nothoscoredum inordorum
+Rabbit’s Bread XANTHORRHOEACEAE Asphodelus macrocarpus
 
-Asparagus albus
+Asphodelus ramosus
 
-Spiny asparagus Ruscus hypophyllum
+All species of the genus Aloe
 
-Smilax aspera
+White Asphodel
+
+Branched Asphodel COLCHICACEAE Colchicum lusitanum
+
+Autumn Colchicum ASPARAGACEAE Asparagus albus
+
+Asparagus asparagoides
+
+Drimia maritima
+
+Ruscus hypophyllum
+
+Ruscus aculeatus
+
+All species of the genus Agave
+
+Spiny or White Asparagus
+
+Bridal Creeper
+
+Sea Squill
+
+Southern Butcher’s Broom
+
+Butcher’s Broom
+
+Nature Protection
+
+1991-11 SMILACACEAE Smilax aspera
 
 Smilax
 
-AMARYLLIDACEAE Narcissus papyraceus Paper-white Narcissus
+AMARYLLIDACEAE Allium roseum
 
-DIOSCOREAGEAE Tamus communis
+Allium triquetrum
 
-Black Bryony
+Allium ampeloprasum
 
-IRIDACEAE
+Nothoscordum borbonicum
 
-Iris germanica
+Narcissus papyraceus
 
-Fleur-de-Lis Gynandriris sisyrinchium
+Rose Garlic
 
-Barbary Nut Freesia refracta
+Triquetrous Garlic
 
-Freesia Gladiolus communis
+Wild leek
 
-GRAMINEAE Lolium multiflorum
+Fragrant or False Garlic
 
-Italian Rye Grass Vulpia geniculata
+Paper-white Narcissus DIOSCOREACEAE Dioscorea communis
+
+Black Bryony IRIDACEAE Iris albicans
+
+Freesia refracta
+
+Freesia laxa
+
+Gladiolus communis
+
+Chasmanthe floribunda
+
+White Iris
+
+Freesia
+
+False Freesia
+
+Common Gladiolus
+
+African Corn Flag POACEAE Lolium rigidum
+
+Vulpia geniculata
 
 Vulpia ciliata
 
 Desmazeria rigida
 
-Hard Poa Desmazeria marina
+Poa annua
 
-Stiff Sand-grass; Darnel Poa Poa annua
+Poa infirma
 
-Annual Meadow-grass
+Dactylis glomerata
 
-Nature Protection
-
-1991-11 Poa infirma
-
-Dactyllis glomerata
-
-Cacosfoot Melica minuta
+Melica minuta
 
 Bromus diandrus
 
-Freat Brome Bromus madritensis
+Italian Rye Grass
 
-Compact Brome Brachypodium distachion
+Jointed Fescue
 
-Trisetum paniceum
+Bearded Fescue
 
-Elymus farctus farctus x
+Hard Poa
 
-Hybrid Sea Couch Elymus repens
+Annual Meadow Grass
 
-Triticum aestivum
+Early Meadow Grass
 
-Bread Sea Couch Hordeum murinum Avena barbata
+Cocksfoot
 
-Bread Wheat Avena sterilis
+Lesser Melick
 
-Wall Barley Lagurus ovatus
+Great Brome
+
+Nature Protection
+
+1991-11 Bromus rigidus
+
+Bromus madritensis
+
+Brachypodium distachyon
+
+Trisetaria panicea
+
+Hordeum murinum subsp leporinum
+
+Avena barbata
+
+Avena sterilis
+
+Lagurus ovatus
+
+Polypogon viridis
 
 Piptatherum miliaceum
 
-Anumated Oat Piptatherum coerulescens
+Piptatherum coerulescens
 
-Hare's Tail Stripa tenacissima
+Stipa tenacissima
 
-Arundo donax Giant Reed; Cane Cynodon dactylon
+Arundo donax
 
-Bermuda Grass Panicum repens
+Cynodon dactylon
+
+Panicum repens
 
 Hyparrhenia hirta
 
-Phalaris canareinsis
+Phalaris canariensis
 
-Canary Grass Digitaria sanguinalis
+Digitaria sanguinalis
+
+Pennisetum clandestinum
+
+Setaria verticillata
+
+Upright Brome
+
+Compact Brome
+
+Purple False-brome
+
+Oat Grass
+
+Wall Barley
+
+Bearded Wild Oat
+
+Animated Oat
+
+Hare’s Tail
+
+Water Bent
+
+Slender Piptatherum
+
+Black Piptatherum
+
+Esparto Grass
+
+Giant Reed; Cane
+
+Bermuda Grass
+
+Creeping Millet
+
+Thatching Grass
+
+Canary Grass
 
 Hairy Finger-grass
 
-ARACEAE
+Kikuyu Grass
 
-Arisarum vulgare
+Burr Bristle-grass ARECACEAE Chamaerops humilis
 
-Friar's Cowl
+Phoenix canariensis
 
-CYPERACEAE Cyperus rotundus
+Dwarf Fan Palm
 
-Nature Protection
-
-1991-11 SCHEDULE 3.
-
-Wild Birds, Wild Animals and Wild Plants in respect of which no licence shall be issued under section 13 which may result in the extinction in Gibraltar of that wild bird, wild animal or wild plant.
-
-Name Common Name Phalacrocorax aristotelis desmarestii Western Mediterranean Shag Falconiformes anmy bird of prey Alectoris barbara Barbary Partridge Tytonidae and Strigiade any owl Vulpes vulpes Red Fox Macaca sylvanus Barbary macaque Acicula norris (Gibraltar endemic snail) Osteophora calpeana (Gibraltar endemic snail) Cecilioides spp. (Gibraltar endemic snail) Macrothele calpetana Gibraltar Funnel-web Spider Cerastium gibraltaricum Gibraltar Chickweed Silene tomentosa Gibraltar Sea Champion Iberis gibraltarca Gibraltar Candytuft Saxifraga glodulifera Gibraltar Saxifrage Ononis natrix Gibraltar Restharrow Limonium emarginatum Gibraltar Sea Lavender Thymus wildenowii Gibraltar Thyme Petroselinum crispum Parsley Ferula tingitana Giant Tangier Fennel Succowia balearica
+Canary Palm ARACEAE
 
 Nature Protection
 
-1991-11 SCHEDULE 4 Section 17M
+1991-11 Arisarum simorrhinum
 
-PROCEDURE IN CONNECTION WITH ORDERS UNDER SECTION 17M
+Friar’s Cowl CYPERACEAE Cyperus rotundus
 
-Coming into operation.
-
-1.An order takes effect on its being made.
-
-Publicity for orders.
-
-2.(1)  The Government shall, as soon as practicable after making an order, publish in the Gazette a notice setting out the order (or describing its general effect) and stating that it has taken effect.
-
-(2)  The notice shall —
-
-(a) name a place in the area in which the land to which the order relates is situated where a copy of the order may be inspected free of charge at all reasonable hours; and
-
-(b) specify the time (not being less than 14 days from the date of the first publication of the notice) within which, and the manner in which, representations or objections with respect to the order may be made.
-
-(3) A copy of the notice shall be served on —
-
-(a) every owner and occupier of that land (subject to paragraph 4);
-
-(b) the Development and Planning Commission; and
-
-(c) the Nature Conservancy Council.
-
-Procedures when orders opposed.
-
-3. (1) If any representation or objection is duly made within the period specified in accordance with paragraph 2(2)(b) with respect to an order and is not withdrawn, then, as soon as practicable the Minister shall either —
-
-(a) cause an inquiry to be held; or
-
-Nature Protection
-
-1991-11 (b) afford any person by whom a representation or objection has been duly made and not withdrawn an opportunity of being heard by a person appointed by the Minister for the purpose.
-
-(2) On considering any representations or objections duly made and the report of any person appointed to hold the inquiry or to hear representations or objections, the Government shall decide either to take no action on the order, or to make an order amending or revoking it as it thinks appropriate in the light of the report, representations or objections.
-
-(3) An amending or revoking order made by virtue of sub-paragraph (2) takes effect immediately and no representation or objection with respect to it shall be entertained.
-
-Restriction on power to amend orders or confirm them with modifications.
-
-4. The Government shall not by virtue of paragraph 3(2) amend an order which has taken effect so as to extend the area to which the order applies.
-
-Notice of final decision on order.
-
-5. (1) The Minister shall as soon as practicable after making an order by virtue of paragraph 3(2) give notice —
-
-(a) setting out the order (or describing its effect) and stating that it has taken effect; and
-
-(b) naming a place in the area in which the land to which the order relates is situated where a copy of the order may be inspected free of charge at all reasonable hours.
-
-(2) The Minister shall give notice as soon as practicable of a decision under paragraph 3(2) to take no action on an order which has already taken effect.
-
-Proceedings for questioning validity of orders.
-
-6. (1) In this paragraph the “relevant date” is, in the case of an order —
-
-(a) in respect of which no representations have been made under paragraph 3, 15 days from the publication of the notice under paragraph 2(1); and
-
-(b) in respect of which representations have been made, the date on which the Minister gives notice under paragraph 5.
-
-Nature Protection
-
-1991-11 (2) If any person is aggrieved by an order to which this paragraph applies and desires to question its validity on the grounds that it is not within the powers of section 17M or that any of the requirements of this Schedule have not been complied with in relation to it, he may within six weeks from the date of the relevant date made an application to the Supreme Court under this paragraph.
-
-(3) On any such application the court may, if satisfied that the order is not within those powers or that the interests of the applicant have been substantially prejudiced by a failure to comply with any of those requirements, quash the order, or any provision of the order, either generally or in so far as it affects the interests of the applicant.
-
-(4) Except as provided by this paragraph, the validity of an order shall not be questioned in any legal proceedings whatsoever.
-
-Interpretation.
-
-7. In this Schedule —
-
-“amending order” and “revoking order” mean an order which amends or, as the case may be, revokes a previous order;
-
-“order” means an order under section 17M.
-
-Nature Protection
-
-1991-11 SCHEDULE 5
-
-Section 2
-
-COUNCIL DIRECTIVE 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora
-
-THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 130s thereof,
-
-Having regard to the proposal from the Commission(1),
-
-Having regard to the opinion of the European Parliament(2),
-
-Having regard to the opinion of the Economic and Social Committee(3),
-
-Whereas the preservation, protection and improvement of the quality of the environment, including the conservation of natural habitats and of wild fauna and flora, are an essential objective of general interest pursued by the Community, as stated in Article 130r of the Treaty;
-
-Whereas the European Community policy and action programme on the environment (1987 to 1992)(4) makes provision for measures regarding the conservation of nature and natural resources;
-
-Whereas, the main aim of this Directive being to promote the maintenance of biodiversity, taking account of economic, social, cultural and regional requirements, this Directive makes a contribution to the general objective of sustainable development; whereas the maintenance of such biodiversity may in certain cases require the maintenance, or indeed the encouragement, of human activities;
-
-Whereas, in the European territory of the Member States, natural habitats are continuing to deteriorate and an increasing number of wild species are seriously threatened; whereas given that the threatened habitats and species form part of the Community's natural heritage and the threats to them are often of a transboundary nature, it is necessary to take measures at Community level in order to conserve them;
-
-(1) OJ No C 247, 21. 9. 1988, p. 3 and OJ No C 195, 3. 8. 1990, p. 1.
-
-(2) OJ No C 75, 20. 3. 1991, p. 12.
-
-(3)OJ No C 31, 6. 2. 1991, p. 25.
-
-(4) OJ No C 328, 7. 12. 1987, p. 1.
-
-Nature Protection
-
-1991-11 Whereas, in view of the threats to certain types of natural habitat and certain species, it is necessary to define them as having priority in order to favour the early implementation of measures to conserve them;
-
-Whereas, in order to ensure the restoration or maintenance of natural habitats and species of Community interest at a favourable conservation status, it is necessary to designate special areas of conservation in order to create a coherent European ecological network according to a specified timetable;
-
-Whereas all the areas designated, including those classified now or in the future as special protection areas pursuant to Council Directive 79/409/EEC of 2 April 1979 on the conservation of wild birds(5), will have to be incorporated into the coherent European ecological network;
-
-Whereas it is appropriate, in each area designated, to implement the necessary measures having regard to the conservation objectives pursued;
-
-Whereas sites eligible for designation as special areas of conservation are proposed by the Member States but whereas a procedure must nevertheless be laid down to allow the designation in exceptional cases of a site which has not been proposed by a Member State but which the Community considers essential for either the maintenance or the survival of a priority natural habitat type or a priority species;
-
-Whereas an appropriate assessment must be made of any plan or programme likely to have a significant effect on the conservation objectives of a site which has been designated or is designated in future; Whereas it is recognized that the adoption of measures intended to promote the conservation of priority natural habitats and priority species of Community interest is a common responsibility of all Member States; whereas this may, however, impose an excessive financial burden on certain Member States given, on the one hand, the uneven distribution of such habitats and species throughout the Community and, on the other hand, the fact that the ‘polluter pays’ principle can have only limited application in the special case of nature conservation;
-
-Whereas it is therefore agreed that, in this exceptional case, a contribution by means of Community co-financing should be provided for within the limits of the resources made available under the Community's decisions;
-
-Whereas land-use planning and development policies should encourage the management of features of the landscape which are of major importance for wild fauna and flora;
-
-(5) OJ No L 103, 25. 4. 1979, p. 1. Directive as last amended by Directive 91/244/ECC (OJ No L 115, 8. 5. 1991, p. 41).
-
-Nature Protection
-
-1991-11 Whereas a system should be set up for surveillance of the conservation status of the natural habitats and species covered by this Directive;
-
-Whereas a general system of protection is required for certain species of flora and fauna to complement Directive 79/409/EEC; whereas provision should be made for management measures for certain species, if their conservation status so warrants, including the prohibition of certain means of capture or killing, whilst providing for the possibility of derogations on certain conditions;
-
-Whereas, with the aim of ensuring that the implementation of this Directive is monitored, the Commission will periodically prepare a composite report based, inter alia, on the information sent to it by the Member States regarding the application of national provisions adopted under this Directive;
-
-Whereas the improvement of scientific and technical knowledge is essential for the implementation of this Directive; whereas it is consequently appropriate to encourage the necessary research and scientific work;
-
-Whereas technical and scientific progress mean that it must be possible to adapt the Annexes; whereas a procedure should be established whereby the Council can amend the Annexes;
-
-Whereas a regulatory committee should be set up to assist the Commission in the implementation of this Directive and in particular when decisions on Community co-financing are taken;
-
-Whereas provision should be made for supplementary measures governing the reintroduction of certain native species of fauna and flora and the possible introduction of non-native species;
-
-Whereas education and general information relating to the objectives of this Directive are essential for ensuring its effective implementation,
-
-HAS ADOPTED THIS DIRECTIVE:
-
-Definitions Article 1
-
-For the purpose of this Directive:
-
-(a) conservation means a series of measures required to maintain or restore the natural habitats and the populations of species of wild fauna and flora at a favourable status as defined in (e) and (i);
-
-(b) natural habitats means terrestrial or aquatic areas distinguished by geographic, abiotic and biotic features, whether entirely natural or semi- natural;
+Purple Nut Sedge
 
 Nature Protection
 
 1991-11
-
-(c) natural habitat types of Community interest means those which, within the territory referred to in Article 2:
-
-(i) are in danger of disappearance in their natural range; or
-
-(ii) have a small natural range following their regression or by reason of their intrinsically restricted area; or
-
-(iii) present outstanding examples of typical characteristics of one or more of the nine following biogeographical regions: Alpine, Atlantic, Black Sea, Boreal, Continental, Macaronesian, Mediterranean, Pannonian and Steppic.
-
-Such habitat types are listed or may be listed in Annex I;
-
-(d) priority natural habitat types means natural habitat types in danger of disappearence, which are present on the territory referred to in Article 2 and for the conservation of which the Community has particular responsibility in view of the proportion of their natural range which falls within the territory referred to in Article 2; these priority natural habitat types are indicated by an asterisk (*) in Annex I;
-
-(e) conservation status of a natural habitat means the sum of the influences acting on a natural habitat and its typical species that may affect its long-term natural distribution, structure and functions as well as the long-term survival of its typical species within the territory referred to in Article 2.
-
-The conservation status of a natural habitat will be taken as ‘favourable’ when:
-
-— its natural range and areas it covers within that range are stable or increasing, and
-
-— the specific structure and functions which are necessary for its long-term maintenance exist and are likely to continue to exist for the foreseeable future, and
-
-— the conservation status of its typical species is favourable as defined in (i);
-
-(f) habitat of a species means an environment defined by specific abiotic and biotic factors, in which the species lives at any stage of its biological cycle;
-
-(g) species of Community interest means species which, within the territory referred to in Article 2, are:
-
-Nature Protection
-
-1991-11 (i) endangered, except those species whose natural range is marginal in that territory and which are not endangered or vulnerable in the western palearctic region; or
-
-(ii) vulnerable, i.e. believed likely to move into the endangered category in the near future if the causal factors continue operating;or
-
-(iii) rare, i.e. withsmall populations that are not at present endangered or vulnerable, but are at risk. The species are located within restricted geographical areas or are thinly scattered over a more extensive range; or
-
-(iv) endemic and requiring particular attention by reason of the specific nature of their habitat and/or the potential impact of their exploitation on their habitat and/or the potential impact of their exploitation on their conservation status.
-
-Such species are listed or may be listed in Annex II and/or Annex IV or V;
-
-(h) priority species means species referred to in (g) (i) for the conservation of which the Community has particular responsibility in view of the proportion of their natural range which falls within the territory referred to in Article 2; these priority species are indicated by an asterisk (*) in Annex II;
-
-(i) conservation status of a species means the sum of the influences acting on the species concerned that may affect the long-term distribution and abundance of its populations within the territory referred to in Article 2;
-
-The conservation status will be taken as ‘favourable’ when:
-
-— population dynamics data on the species concerned indicate that it is maintaining itself on a long-term basis as a viable component of its natural habitats, and
-
-— the natural range of the species is neither being reduced nor is likely to be reduced for the foreseeable future, and
-
-— there is, and will probably continue to be, a sufficiently large habitat to maintain its populations on a long-term basis;
-
-(j) site means a geographically defined area whose extent is clearly delineated;
-
-(k) site of Community importance means a site which, in the biogeographical region or regions to which it belongs, contributes significantly to the maintenance or restoration at a favourable conservation status of a natural
-
-Nature Protection
-
-1991-11 habitat type in Annex I or of a species in Annex II and may also contribute significantly to the coherence of Natura 2000 referred to in Article 3, and/or contributes significantly to the maintenance of biological diversity within the biogeographic region or regions concerned.
-
-For animal species ranging over wide areas, sites of Community importance shall correspond to the places within the natural range of such species which present the physical or biological factors essential to their life and reproduction;
-
-(l) special area of conservation means a site of Community importance designated by the Member States through a statutory, administrative and/or contractual act where the necessary conservation measures are applied for the maintenance or restoration, at a favourable conservation status, of the natural habitats and/or the populations of the species for which the site is designated;
-
-(m) specimen means any animal or plant, whether alive or dead, of the species listed in Annex IV and Annex V, any part or derivative thereof, as well as any other goods which appear, from an accompanying document, the packaging or a mark or label, or from any other circumstances, to be parts or derivatives of animals or plants of those species;
-
-(n) the committee means the committee set up pursuant to Article 20.
-
-Article 2
-
-1. The aim of this Directive shall be to contribute towards ensuring bio- diversity through the conservation of natural habitats and of wild fauna and flora in the European territory of the Member States to which the Treaty applies.
-
-2. Measures taken pursuant to this Directive shall be designed to maintain or restore, at favourable conservation status, natural habitats and species of wild fauna and flora of Community interest.
-
-3. Measures taken pursuant to this Directive shall take account of economic, social and cultural requirements and regional and local characteristics.
-
-Conservation of natural habitats and habitats of species
-
-Article 3
-
-1. A coherent European ecological network of special areas of conservation shall be set up under the title Natura 2000. This network, composed of sites hosting the natural habitat types listed in Annex I and habitats of the species listed in Annex II, shall enable the natural habitat types and the species'
-
-Nature Protection
-
-1991-11 habitats concerned to be maintained or, where appropriate, restored at a favourable conservation status in their natural range.
-
-The Natura 2000 network shall include the special protection areas classified by the Member States pursuant to Directive 79/409/EEC.
-
-2. Each Member State shall contribute to the creation of Natura 2000 in proportion to the representation within its territory of the natural habitat types and the habitats of species referred to in paragraph 1. To that effect each Member State shall designate, in accordance with Article 4, sites as special areas of conservation taking account of the objectives set out in paragraph1.
-
-3. Where they consider it necessary, Member States shall endeavour to improve the ecological coherence of Natura 2000 by maintaining, and where appropriate developing, features of the landscape which are of major importance for wild fauna and flora, as referred to in Article 10.
-
-Article 4
-
-1. On the basis of the criteria set out in Annex III (Stage 1) and relevant scientific information, each Member State shall propose a list of sites indicating which natural habitat types in Annex I and which species in Annex II that are native to its territory the sites host. For animal species ranging over wide areas these sites shall correspond to the places within the natural range of such species which present the physical or biological factors essential to their life and reproduction. For aquatic species which range over wide areas, such sites will be proposed only where there is a clearly identifiable area representing the physical and biological factors essential to their life and reproduction. Where appropriate, Member States shall propose adaptation of the list in the light of the results of the surveillance referred to in Article 11.
-
-The list shall be transmitted to the Commission, within three years of the notification of this Directive, together with information on each site. That information shall include a map of the site, its name, location, extent and the data resulting from application of the criteria specified in Annex III (Stage 1) provided in a format established by the Commission in accordance with the procedure laid down in Article 21.
-
-2. On the basis of the criteria set out in Annex III (Stage 2) and in the framework both of each of the nine biogeographical regions referred to in Article 1 (c) (iii) and of the whole of the territory referred to in Article 2 (1), the Commission shall establish, in agreement with each Member State, a draft list of sites of Community importance drawn from the Member States’ lists identifying those which host one or more priority natural habitat types or priority species.
-
-Nature Protection
-
-1991-11 Member States whose sites hosting one or more priority natural habitat types and priority species represent more than 5 % of their national territory may, in agreement with the Commission, request that the criteria listed in Annex III (Stage 2) be applied more flexibly in selecting all the sites of Community importance in their territory.
-
-The list of sites selected as sites of Community importance, identifying those which host one or more priority natural habitat types or priority species, shall be adopted by the Commission in accordance with the procedure laid down in Article 21.
-
-3. The list referred to in paragraph 2 shall be established within six years of the notification of this Directive.
-
-4. Once a site of Community importance has been adopted in accordance with the procedure laid down in paragraph 2, the Member State concerned shall designate that site as a special area of conservation as soon as possible and within six years at most, establishing priorities in the light of the importance of the sites for the maintenance or restoration, at a favourable conservation status, of a natural habitat type in Annex I or a species in Annex II and for the coherence of Natura 2000, and in the light of the threats of degradation or destruction to which those sites are exposed.
-
-5. As soon as a site is placed on the list referred to in the third subparagraphof paragraph2 it shall be subject to Article 6 (2), (3) and (4).
-
-Article 5
-
-1. In exceptional cases where the Commission finds that a national list as referred to in Article 4 (1) fails to mention a site hosting a priority natural habitat type or priority species which, on the basis of relevant and reliable scientific information, it considers to be essential for the maintenance of that priority natural habitat type or for the survival of that priority species, a bilateral consultation procedure shall be initiated between that Member State and the Commission for the purpose of comparing the scientific data used by each.
-
-2. If, on expiry of a consultation period not exceeding six months, the dispute remains unresolved, the Commission shall forward to the Council a proposal relating to the selection of the site as a site of Community importance.
-
-3. The Council, acting unanimously, shall take a decision within three months of the date of referral.
-
-4. During the consultation period and pending a Council decision, the site concerned shall be subject to Article 6 (2).
-
-Article 6
-
-Nature Protection
-
-1991-11
-
-1. For special areas of conservation, Member States shall establish the necessary conservation measures involving, if need be, appropriate management plans specifically designed for the sites or integrated into other development plans, and appropriate statutory, administrative or contractual measures which correspond to the ecological requirements of the natural habitat types in Annex I and the species in Annex II present on the sites.
-
-2. Member States shall take appropriate steps to avoid, in the special areas of conservation, the deterioration of natural habitats and the habitats of species as well as disturbance of the species for which the areas have been designated, in so far as such disturbance could be significant in relation to the objectives of this Directive.
-
-3. Any plan or project not directly connected with or necessary to the management of the site but likely to have a significant effect thereon, either individually or in combination with other plans or projects, shall be subject to appropriate assessment of its implications for the site in view of the site's conservation objectives. In the light of the conclusions of the assessment of the implications for the site and subject to the provisions of paragraph 4, the competent national authorities shall agree to the plan or project only after having ascertained that it will not adversely affect the integrity of the site concerned and, if appropriate, after having obtained the opinion of the general public.
-
-4. If, in spite of a negative assessment of the implications for the site and in the absence of alternative solutions, a plan or project must nevertheless be carried out for imperative reasons of overriding public interest, including those of a social or economic nature, the Member State shall take all compensatory measures necessary to ensure that the overall coherence of Natura 2000 is protected. It shall inform the Commission of the compensatory measures adopted.
-
-Where the site concerned hosts a priority natural habitat type and/or a priority species, the only considerations which may be raised are those relating to human health or public safety, to beneficial consequences of primary importance for the environment or, further to an opinion from the Commission, to other imperative reasons of overriding public interest.
-
-Article 7
-
-Obligations arising under Article 6 (2), (3) and (4) of this Directive shall replace any obligations arising under the first sentence of Article 4 (4) of Directive 79/409/EEC in respect of areas classified pursuant to Article 4 (1) or similarly recognized under Article 4 (2) thereof, as from the date of implementation of this Directive or the date of classification or recognition by a Member State under Directive 79/409/EEC, where the latter date is later.
-
-Nature Protection
-
-1991-11 Article 8
-
-1. In parallel with their proposals for sites eligible for designation as special areas of conservation, hosting priority natural habitat types and/ or priority species, the Member States shall send, as appropriate, to the Commission their estimates relating to the Community co-financing which they consider necessary to allow them to meet their obligations pursuant to Article 6 (1).
-
-2. In agreement with each of the Member States concerned, the Commission shall identify, for sites of Community importance for which co-financing is sought, those measures essential for the maintenance or re-establishment at a favourable conservation status of the priority natural habitat types and priority species on the sites concerned, as well as the total costs arising from those measures.
-
-3. The Commission, in agreement with the Member States concerned, shall assess the financing, including co-financing, required for the operation of the measures referred to in paragraph 2, taking into account, amongst other things, the concentration on the Member State's territory of priority natural habitat types and/or priority species and the relative burdens which the required measures entail.
-
-4. According to the assessment referred to in paragraphs 2 and 3, the Commission shall adopt, having regard to the available sources of funding under the relevant Community instruments and according to the procedure set out in Article 21, a prioritized action framework of measures involving co- financing to be taken when the site has been designated under Article 4 (4).
-
-5. The measures which have not been retained in the action framework for lack of sufficient resources, as well as those included in the abovementioned action framework which have not received the necessary co-financing or have only been partially co-financed, shall be reconsidered in accordance with the procedure set out in Article 21, in the context of the two-yearly review of the action framework and may, in the maintime, be postponed by the Member States pending such review.  This review shall take into account, as appropriate, the new situation of the site concerned.
-
-6. In areas where the measures dependent on co-financing are postponed, Member States shall refrain from any new measures likely to result in deterioration of those areas.
-
-Article 9
-
-The Commission, acting in accordance with the procedure laid down in Article 21, shall periodically review the contribution of Natura 2000 towards achievement of the objectives set out in Article 2 and 3. In this context, a special area of conservation may be considered for declassification where this
-
-Nature Protection
-
-1991-11 is warranted by natural developments noted as a result of the surveillance provided for in Article 11.
-
-Article 10
-
-Member States shall endeavour, where they consider it necessary, in their land-use planning and development policies and, in particular, with a view to improving the ecological coherence of the Natura 2000 network, to encourage the management of features of the landscape which are of major importance for wild fauna and flora.
-
-Such features are those which, by virtue of their linear and continuous structure (such as rivers with their banks or the traditional systems for marking field boundaries) or their function as stepping stones (such as ponds or small woods), are essential for the migration, dispersal and genetic exchange of wild species. Article 11
-
-Member States shall undertake surveillance of the conservation status of the natural habitats and species referred to in Article 2 with particular regard to priority natural habitat types and priority species.
-
-Protection of species
-
-Article 12
-
-1. Member States shall take the requisite measures to establish a system of strict protection for the animal species listed in Annex IV (a) in their natural range, prohibiting:
-
-(a) all forms of deliberate capture or killing of specimens of these species in the wild;
-
-(b) deliberate disturbance of these species, particularly during the period of breeding, rearing, hibernation and migration;
-
-(c) deliberate destruction or taking of eggs from the wild;
-
-(d) deterioration or destruction of breeding sites or resting places.
-
-2. For these species, Member States shall prohibit the keeping, transport and sale or exchange, and offering for sale or exchange, of specimens taken from the wild, except for those taken legally before this Directive is implemented.
-
-3. The prohibition referred to in paragraph 1 (a) and (b) and paragraph 2 shall apply to all stages of life of the animals to which this Article applies.
-
-Nature Protection
-
-1991-11 4. Member States shall establish a system to monitor the incidential capture and killing of the animal species listed in Annex IV (a). In the light of the information gathered, Member States shall take further research or conservation measures as required to ensure that incidental capture and killing does not have a significant negative impact on the species concerned.
-
-Article 13
-
-1. Member States shall take the requisite measures to establish a system of strict protection for the plant species listed in Annex IV (b), prohibiting:
-
-(a) the deliberate picking, collecting, cutting, uprooting or destruction of such plants in their natural range in the wild;
-
-(b) the keeping, transport and sale or exchange and offering for sale or exchange of specimens of such species taken in the wild, except for those taken legally before this Directive is implemented.
-
-2. The prohibitions referred to in paragraph 1 (a) and (b) shall apply to all stages of the biological cycle of the plants to which this Article applies.
-
-Article 14
-
-1. If, in the light of the surveillance provided for in Article 11, Member States deem it necessary, they shall take measures to ensure that the taking in the wild of specimens of species of wild fauna and flora listed in Annex V as well as their exploitation is compatible with their being maintained at a favourable conservation status.
-
-2. Where such measures are deemed necessary, they shall include continuation of the surveillance provided for in Article 11. Such measures may also include in particular:
-
-— regulations regarding access to certain property,
-
-— temporary or local prohibition of the taking of specimens in the wild and exploitation of certain populations,
-
-— regulation of the periods and/or methods of taking specimens,
-
-— application, when specimens are taken, of hunting and fishing rules which take account of the conservation of such populations,
-
-— establishment of a system of licences for taking specimens or of quotas,
-
-Nature Protection
-
-1991-11 — regulation of the purchase, sale, offering for sale, keeping for sale or transport for sale of specimens,
-
-— breeding in captivity of animal species as well as artificial propagation of plant species, under strictly controlled conditions, with a view to reducing the taking of specimens of the wild,
-
-— assessment of the effect of the measures adopted.
-
-Article 15
-
-In respect of the capture or killing of species of wild fauna listed in Annex V (a) and in cases where, in accordance with Article 16, derogations are applied to the taking, capture or killing of species listed in Annex IV (a), Member States shall prohibit the use of all indiscriminate means capable of causing local disappearance of, or serious disturbance to, populations of such species, and in particular:
-
-(a) use of the means of capture and killing listed in Annex VI (a);
-
-(b) any form of capture and killing from the modes of transport referred to in Annex VI (b).
-
-Article 16
-
-1. Provided that there is no satisfactory alternative and the derogation is not detrimental to the maintenance of the populations of the species concerned at a favourable conservation status in their natural range, Member States may derogate from the provisions of Articles 12, 13, 14 and 15 (a) and (b):
-
-(a) in the interest of protecting wild fauna and flora and conserving natural habitats;
-
-(b) to prevent serious damage, in particular to crops, livestock, forests, fisheries and water and other types of property;
-
-(c) in the interests of public health and public safety, or for other imperative reasons of overriding public interest, including those of a social or economic nature and beneficial consequences of primary importance for the environment;
-
-(d) for the purpose of research and education, of repopulating and reintroducing these species and for the breedings operations necessary for these purposes, including the artificial propagation of plants;
-
-(e) to allow, under strictly supervised conditions, on a selective basis and to a limited extent, the taking or keeping of certain specimens of the species
-
-Nature Protection
-
-1991-11 listed in Annex IV in limited numbers specified by the competent national authorities.
-
-2. Member States shall forward to the Commission every two years a report in accordance with the format established by the Committee on the derogations applied under paragraph 1. The Commission shall give its opinion on these derogations within a maximum time limit of 12 months following receipt of the report and shall give an account to the Committee.
-
-3. The reports shall specify:
-
-(a) the species which are subject to the derogations and the reason for the derogation, including the nature of the risk, with, if appropriate, a reference to alternatives rejected and scientific data used;
-
-(b) the means, devices or methods authorized for the capture or killing of animal species and the reasons for their use;
-
-(c) the circumstances of when and where such derogations are granted;
-
-(d) the authority empowered to declare and check that the required conditions obtain and to decide what means, devices or methods may be used, within what limits and by what agencies, and which persons are to carry out the task;
-
-(e) the supervisory measures used and the results obtained.
-
-Information
-
-Article 17
-
-1. Every six years from the date of expiry of the period laid down in Article 23, Member States shall draw up a report on the implementation of the measures taken under this Directive. This report shall include in particular information concerning the conservation measures referred to in Article 6 (1) as well as evaluation of the impact of those measures on the conservation status of the natural habitat types of Annex I and the species in Annex II and the main results of the surveillance referred to in Article 11. The report, in accordance with the format established by the committee, shall be forwarded to the Commission and made accessible to the public.
-
-2. The Commission shall prepare a composite report based on the reports referred to in paragraph 1. This report shall include an appropriate evaluation of the progress achieved and, in particular, of the contribution of Natura 2000 to the achievement of the objectives set out in Article 3. A draft of the part of the report covering the information supplied by a Member State shall be forwarded to the Member State in question for verification. After submission to the committee, the final version of the report shall be published
-
-Nature Protection
-
-1991-11 by the Commission, not later than two years after receipt of the reports referred to in paragraph 1, and shall be forwarded to the Member States, the European Parliament, the Council and the Economic and Social Committee.
-
-3. Member States may mark areas designated under this Directive by means of Community notices designed for that purpose by the committee.
-
-Research
-
-Article 18
-
-1. Member States and the Commission shall encourage the necessary research and scientific work having regard to the objectives set out in Article 2 and the obligation referred to in Article 11. They shall exchange information for the purposes of proper coordination of research carried out at Member State and at Community level.
-
-2. Particular attention shall be paid to scientific work necessary for the implementation of Articles 4 and 10, and transboundary cooperative research between Member States shall be encouraged.
-
-Procedure for amending the Annexes
-
-Article 19
-
-Such amendments as are necessary for adapting Annexes I, II, III, V and VI to technical and scientific progress shall be adopted by the Council acting by qualified majority on a proposal from the Commission.
-
-Such amendments as are necessary for adapting Annex IV to technical and scientific progress shall be adopted by the Council acting unanimously on a proposal from the Commission.
-
-Committee
-
-Article 20
-
-The Commission shall be assisted by a committee.
-
-Article 21
-
-1. Where reference is made to this Article, Articles 5 and 7 of Decision 1999/468/EC(1) shall apply, having regard to the provisions of Article 8 thereof.
-
-(1) Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (OJ L 184, 17.7.1999, p. 23).
-
-Nature Protection
-
-1991-11 The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
-
-2. The Committee shall adopt its rules of procedure.
-
-Supplementary provisions
-
-Article 22
-
-In implementing the provisions of this Directive, Member States shall:
-
-(a) study the desirability of re-introducing species in Annex IV that are native to their territory where this might contribute to their conservation, provided that an investigation, also taking into account experience in other Member States or elsewhere, has established that such re-introduction contributes effectively to re-establishing these species at a favourable conservation status and that it takes place only after proper consultation of the public concerned;
-
-(b) ensure that the deliberate introduction into the wild of any species which is not native to their territory is regulated so as not to prejudice natural habitats within their natural range or the wild native fauna and flora and, if they consider it necessary, prohibit such introduction. The results of the assessment undertaken shall be forwarded to the committee for information;
-
-(c) promote education and general information on the need to protect species of wild fauna and flora and to conserve their habitats and natural habitats.
-
-Final provisions
-
-Article 23
-
-1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive within two years of its notification. They shall forthwith inform the Commission thereof.
-
-2. When Member States adopt such measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.
-
-3. Member States shall communicate to the Commission the main provisions of national law which they adopt in the field covered by this Directive.
-
-Article 24
-
-This Directive is addressed to the Member States.
-
-Nature Protection
-
-1991-11 ANNEX I
-
-NATURAL HABITAT TYPES OF COMMUNITY INTEREST WHOSE CONSERVATION REQUIRES THE DESIGNATION OF SPECIAL AREAS OF CONSERVATION
-
-Interpretation
-
-Guidance on the interpretation of habitat types is given in the “Interpretation Manual of European Union Habitats” as approved by the committee set up under Article 20 (“Habitats Committee”) and published by the European Commission(*).
-
-The code corresponds to the NATURA 2000 code.
-
-The sign “*” indicates priority habitat types.
-
-1.  COASTAL AND HALOPHYTIC HABITATS
-
-11.  Open sea and tidal areas
-
-1110 Sandbanks which are slightly covered by sea water all the time 1120 * Posidonia beds (Posidonion oceanicae) 1130 Estuaries 1140 Mudflats and sandflats not covered by seawater at low tide 1150 * Coastal lagoons 1160 Large shallow inlets and bays 1170 Reefs 1180 Submarine structures made by leaking gases
-
-12.  Sea cliffs and shingle or stony beaches
-
-1210 Annual vegetation of drift lines 1220 Perennial vegetation of stony banks 1230 Vegetated sea cliffs of the Atlantic and Baltic Coasts 1240 Vegetated sea cliffs of the Mediterranean coasts with endemic Limonium spp. 1250 Vegetated sea cliffs with endemic flora of the Macaronesian coasts
-
-13.  Atlantic and continental salt marshes and salt meadows
-
-1310 Salicornia and other annuals colonizing mud and sand 1320 Spartina swards (Spartinion maritimae) 1330 Atlantic salt meadows (Glauco-Puccinellietalia maritimae)
-
-(*)“Interpretation Manual of European Union Habitats”, version EUR 15/2″ adopted by the Habitats Committee on 4 October 1999 and “Amendments to the “Interpretation Manual of European Union Habitats” with a view to EU enlargement” (Hab. 01/11b-rev. 1) adopted by the Habitats Committee on 24 April 2002 after written consultation, European Commission, Directorate General for Environment.
-
-Nature Protection
-
-1991-11 1340 * Inland salt meadows
-
-14.  Mediterranean and thermo-Atlantic salt marshes and salt meadows
-
-1410 Mediterranean salt meadows (Juncetalia maritimi) 1420 Mediterranean and thermo-Atlantic halophilous scrubs (Sarcocornetea fruticosi) 1430 Halo-nitrophilous scrubs (Pegano-Salsoletea)
-
-15.  Salt and gypsum inland steppes
-
-1510 * Mediterranean salt steppes (Limonietalia) 1520 * Iberian gypsum vegetation (Gypsophiletalia) 1530 * Pannonic salt steppes and salt marshes
-
-16.  Boreal Baltic archipelago, coastal and landupheaval areas
-
-1610 Baltic esker islands with sandy, rocky and shingle beach vegetation and sublittoral vegetation 1620 Boreal Baltic islets and small islands 1630 * Boreal Baltic coastal meadows 1640 Boreal Baltic sandy beaches with perennial vegetation 1650 Boreal Baltic narrow inlets
-
-2.  COASTAL SAND DUNES AND INLAND DUNES
-
-21.  Sea dunes of the Atlantic, North Sea and Baltic coasts
-
-2110 Embryonic shifting dunes 2120 Shifting dunes along the shoreline with Ammophila arenaria (“white dunes”) 2130 * Fixed coastal dunes with herbaceous vegetation (“grey dunes”) 2140 * Decalcified fixed dunes with Empetrum nigrum 2150 * Atlantic decalcified fixed dunes (Calluno-Ulicetea) 2160 Dunes with Hippophaë rhamnoides 2170 Dunes with Salix repens ssp. argentea (Salicion arenariae) 2180 Wooded dunes of the Atlantic, Continental and Boreal region 2190 Humid dune slacks 21A0 Machairs (* in Ireland)
-
-22.  Sea dunes of the Mediterranean coast
-
-2210 Crucianellion maritimae fixed beach dunes 2220 Dunes with Euphorbia terracina 2230 Malcolmietalia dune grasslands 2240 Brachypodietalia dune grasslands with annuals 2250 * Coastal dunes with Juniperus spp.
-
-Nature Protection
-
-1991-11 2260 Cisto-Lavenduletalia dune sclerophyllous scrubs 2270 * Wooded dunes with Pinus pinea and/or Pinus pinaster
-
-23.  Inland dunes, old and decalcified
-
-2310 Dry sand heaths with Calluna and Genista 2320 Dry sand heaths with Calluna and Empetrum nigrum 2330 Inland dunes with open Corynephorus and Agrostis grasslands 2340 * Pannonic inland dunes
-
-3.  FRESHWATER HABITATS
-
-31.  Standing water
-
-3110 Oligotrophic waters containing very few minerals of sandy plains (Littorelletalia uniflorae) 3120 Oligotrophic waters containing very few minerals generally on sandy soils of the West Mediterranean, with Isoetes spp. 3130 Oligotrophic to mesotrophic standing waters with vegetation of the Littorelletea uniflorae and/or of the Isoëto-Nanojuncetea 3140 Hard oligo-mesotrophic waters with benthic vegetation of Chara spp. 3150 Natural eutrophic lakes with Magnopotamion or Hydrocharition — type vegetation 3160 Natural dystrophic lakes and ponds 3170 * Mediterranean temporary ponds 3180 * Turloughs 3190 Lakes of gypsum karst 31A0 * Transylvanian hot-spring lotus beds
-
-32.  Running water—sections of water courses with natural or semi- natural dynamics (minor, average and major beds) where the water quality shows no significant deterioration
-
-3210 Fennoscandian natural rivers 3220 Alpine rivers and the herbaceous vegetation along their banks 3230 Alpine rivers and their ligneous vegetation with Myricaria germanica 3240 Alpine rivers and their ligneous vegetation with Salix elaeagnos 3250 Constantly flowing Mediterranean rivers with Glaucium flavum 3260 Water courses of plain to montane levels with the Ranunculion fluitantis and Callitricho-Batrachion vegetation 3270 Rivers with muddy banks with Chenopodion rubri p.p. and Bidention p.p. vegetation 3280 Constantly flowing Mediterranean rivers with Paspalo-Agrostidion species and hanging curtains of Salix and Populus alba 3290 Intermittently flowing Mediterranean rivers of the Paspalo- Agrostidion 32A0 Tufa cascades of karstic rivers in the Dinaric Alps
-
-Nature Protection
-
-1991-11 4.  TEMPERATE HEATH AND SCRUB
-
-4010 Northern Atlantic wet heaths with Erica tetralix 4020 * Temperate Atlantic wet heaths with Erica ciliaris and Erica tetralix 4030 European dry heaths 4040 * Dry Atlantic coastal heaths with Erica vagans 4050 * Endemic macaronesian heaths 4060 Alpine and Boreal heaths 4070 * Bushes with Pinus mugo and Rhododendron hirsutum (Mugo- Rhododendretum hirsuti) 4080 Sub-Arctic Salix spp. Scrub 4090 Endemic oro-Mediterranean heaths with gorse 40A0 * Subcontinental peri-Pannonic scrub 40B0 Rhodope Potentilla fruticosa thickets 40C0 * Ponto-Sarmatic deciduous thickets
-
-5.  SCLEROPHYLLOUS SCRUB (MATORRAL)
-
-51.  Sub-Mediterranean and temperate scrub
-
-5110 Stable xerothermophilous formations with Buxus sempervirens on rock slopes (Berberidion p.p.) 5120 Mountain Cytisus purgans formations 5130 Juniperus communis formations on heaths or calcareous grasslands 5140 * Cistus palhinhae formations on maritime wet heaths
-
-52.  Mediterranean arborescent matorral
-
-5210 Arborescent matorral with Juniperus spp. 5220 * Arborescent matorral with Zyziphus 5230 * Arborescent matorral with Laurus nobilis
-
-53.  Thermo-Mediterranean and pre-steppe brush
-
-5310 Laurus nobilis thickets 5320 Low formations of Euphorbia close to cliffs 5330 Thermo-Mediterranean and pre-desert scrub
-
-54.  Phrygana
-
-5410 West Mediterranean clifftop phryganas (Astragalo-Plantaginetum subulatae) 5420 Sarcopoterium spinosum phryganas 5430 Endemic phryganas of the Euphorbio-Verbascion
-
-6.  NATURAL AND SEMI-NATURAL GRASSLAND FORMATIONS
-
-Nature Protection
-
-1991-11 61.  Natural grasslands
-
-6110 * Rupicolous calcareous or basophilic grasslands of the Alysso-Sedion albi 6120 * Xeric sand calcareous grasslands 6130 Calaminarian grasslands of the Violetalia calaminariae 6140 Siliceous Pyrenean Festuca eskia grasslands 6150 Siliceous alpine and boreal grasslands 6160 Oro-Iberian Festuca indigesta grasslands 6170 Alpine and subalpine calcareous grasslands 6180 Macaronesian mesophile grasslands 6190 Rupicolous pannonic grasslands (Stipo-Festucetalia pallentis)
-
-62.  Semi-natural dry grasslands and scrubland facies
-
-6210 Semi-natural dry grasslands and scrubland facies on calcareous substrates (Festuco-Brometalia) (* important orchid sites) 6220 * Pseudo-steppe with grasses and annuals of the Thero- Brachypodietea 6230 * Species-rich Nardus grasslands, on silicious substrates in mountain areas (and submountain areas in Continental Europe) 6240 * Sub-Pannonic steppic grasslands 6250 * Pannonic loess steppic grasslands 6260 * Pannonic sand steppes 6270 * Fennoscandian lowland species-rich dry to mesic grasslands 6280 * Nordic alvar and precambrian calcareous flatrocks 62A0 Eastern sub-Mediterranean dry grasslands (Scorzoneratalia villosae) 62B0 * Serpentinophilous grassland of Cyprus 62C0 * Ponto-Sarmatic steppes 62D0 Oro-Moesian acidophilous grasslands
-
-63.  Sclerophillous grazed forests (dehesas)
-
-6310 Dehesas with evergreen Quercus spp.
-
-64.  Semi-natural tall-herb humid meadows
-
-6410 Molinia meadows on calcareous, peaty or clayey-silt-laden soils (Molinion caeruleae) 6420 Mediterranean tall humid grasslands of the Molinio-Holoschoenion 6430 Hydrophilous tall herb fringe communities of plains and of the montane to alpine levels 6440 Alluvial meadows of river valleys of the Cnidion dubii 6450 Northern boreal alluvial meadows 6460 Peat grasslands of Troodos
-
-65.  Mesophile grasslands
-
-Nature Protection
-
-1991-11
-
-6510 Lowland hay meadows (Alopecurus pratensis, Sanguisorba officinalis) 6520 Mountain hay meadows 6530 * Fennoscandian wooded meadows 6540 Sub-Mediterranean grasslands of the Molinio-Hordeion secalini
-
-7.  RAISED BOGS AND MIRES AND FENS
-
-71.  Sphagnum acid bogs
-
-7110 * Active raised bogs 7120 Degraded raised bogs still capable of natural regeneration 7130 Blanket bogs (* if active bog) 7140 Transition mires and quaking bogs 7150 Depressions on peat substrates of the Rhynchosporion 7160 Fennoscandian mineral-rich springs and springfens
-
-72.  Calcareous fens
-
-7210 * Calcareous fens with Cladium mariscus and species of the Caricion davallianae 7220 * Petrifying springs with tufa formation (Cratoneurion) 7230 Alkaline fens 7240 * Alpine pioneer formations of the Caricion bicoloris-atrofuscae
-
-73.  Boreal mires
-
-7310 * Aapa mires 7320 * Palsa mires
-
-8.  ROCKY HABITATS AND CAVES
-
-81.  Scree
-
-8110 Siliceous scree of the montane to snow levels (Androsacetalia alpinae and Galeopsietalia ladani) 8120 Calcareous and calcshist screes of the montane to alpine levels (Thlaspietea rotundifolii) 8130 Western Mediterranean and thermophilous scree 8140 Eastern Mediterranean screes 8150 Medio-European upland siliceous screes 8160 * Medio-European calcareous scree of hill and montane levels
-
-82.  Rocky slopes with chasmophytic vegetation
-
-8210 Calcareous rocky slopes with chasmophytic vegetation
-
-Nature Protection
-
-1991-11 8220 Siliceous rocky slopes with chasmophytic vegetation 8230 Siliceous rock with pioneer vegetation of the Sedo-Scleranthion or of the Sedo albi-Veronicion dillenii 8240 * Limestone pavements
-
-83.  Other rocky habitats
-
-8310 Caves not open to the public 8320 Fields of lava and natural excavations 8330 Submerged or partially submerged sea caves 8340 Permanent glaciers
-
-9.  FORESTS
-
-(Sub)natural woodland vegetation comprising native species forming forests of tall trees, with typical undergrowth, and meeting the following criteria: rare or residual, and/or hosting species of Community interest
-
-90.  Forests of Boreal Europe
-
-9010 * Western Taïga 9020 * Fennoscandian hemiboreal natural old broad-leaved deciduous forests (Quercus, Tilia, Acer, Fraxinus or Ulmus) rich in epiphytes 9030 * Natural forests of primary succession stages of landupheaval coast 9040 Nordic subalpine/subarctic forests with Betula pubescens ssp. czerepanovii 9050 Fennoscandian herb-rich forests with Picea abies 9060 Coniferous forests on, or connected to, glaciofluvial eskers 9070 Fennoscandian wooded pastures 9080 * Fennoscandian deciduous swamp woods
-
-91.  Forests of Temperate Europe
-
-9110 Luzulo-Fagetum beech forests 9120 Atlantic acidophilous beech forests with Ilex and sometimes also Taxus in the shrublayer (Quercion roboripetraeae or Ilici-Fagenion) 9130 Asperulo-Fagetum beech forests 9140 Medio-European subalpine beech woods with Acer and Rumex arifolius 9150 Medio-European limestone beech forests of the Cephalanthero- Fagion 9160 Sub-Atlantic and medio-European oak or oak-hornbeam forests of the Carpinion betuli 9170 Galio-Carpinetum oak-hornbeam forests 9180 * Tilio-Acerion forests of slopes, screes and ravines 9190 Old acidophilous oak woods with Quercus robur on sandy plains 91A0 Old sessile oak woods with Ilex and Blechnum in the British Isles 91B0 Thermophilous Fraxinus angustifolia woods
-
-Nature Protection
-
-1991-11 91C0 * Caledonian forest 91D0 * Bog woodland 91E0 * Alluvial forests with Alnus glutinosa and Fraxinus excelsior (Alno- Padion, Alnion incanae, Salicion albae) 91F0 Riparian mixed forests of Quercus robur, Ulmus laevis and Ulmus minor, Fraxinus excelsior or Fraxinus angustifolia, along the great rivers (Ulmenion minoris) 91G0 * Pannonic woods with Quercus petraea and Carpinus betulus 91H0 * Pannonian woods with Quercus pubescens 91I0 * Euro-Siberian steppic woods with Quercus spp. 91J0 * Taxus baccata woods of the British Isles 91K0 Illyrian Fagus sylvatica forests (Aremonio-Fagion) 91L0 Illyrian oak-hornbeam forests (Erythronio-Carpinion) 91M0 Pannonian-Balkanic turkey oak –sessile oak forests 91N0 * Pannonic inland sand dune thicket (Junipero-Populetum albae) 91P0 Holy Cross fir forest (Abietetum polonicum) 91Q0 Western Carpathian calcicolous Pinus sylvestris forests 91R0 Dinaric dolomite Scots pine forests (Genisto januensis-Pinetum) 91S0 * Western Pontic beech forests 91T0 Central European lichen Scots pine forests 91U0 Sarmatic steppe pine forest 91V0 Dacian Beech forests (Symphyto-Fagion) 91W0 Moesian beech forests 91X0 *Dobrogean beech forests 91Y0 Dacian oak & hornbeam forests 91Z0 Moesian silver lime woods 91AA * Eastern white oak woods 91BA Moesian silver fir forests 91CA Rhodopide and Balkan Range Scots pine forests
-
-92.  Mediterranean deciduous forests
-
-9210 * Apeninne beech forests with Taxus and Ilex 9220 * Apennine beech forests with Abies alba and beech forests with Abies nebrodensis 9230 Galicio-Portuguese oak woods with Quercus robur and Quercus pyrenaica 9240 Quercus faginea and Quercus canariensis Iberian woods 9250 Quercus trojana woods 9260 Castanea sativa woods 9270 Hellenic beech forests with Abies borisii-regis 9280 Quercus frainetto woods 9290 Cupressus forests (Acero-Cupression) 92A0 Salix alba and Populus alba galleries 92B0 Riparian formations on intermittent Mediterranean water courses with Rhododendron ponticum, Salix and others
-
-Nature Protection
-
-1991-11 92C0 Platanus orientalis and Liquidambar orientalis woods (Platanion orientalis) 92D0 Southern riparian galleries and thickets (Nerio-Tamaricetea and Securinegion tinctoriae)
-
-93.  Mediterranean sclerophyllous forests
-
-9310 Aegean Quercus brachyphylla woods 9320 Olea and Ceratonia forests 9330 Quercus suber forests 9340 Quercus ilex and Quercus rotundifolia forests 9350 Quercus macrolepis forests 9360 * Macaronesian laurel forests (Laurus, Ocotea) 9370 * Palm groves of Phoenix 9380 Forests of Ilex aquifolium 9390 * Scrub and low forest vegetation with Quercus alnifolia 93A0 Woodlands with Quercus infectoria (Anagyro foetidae-Quercetum infectoriae)
-
-94.  Temperate mountainous coniferous forests
-
-9410 Acidophilous Picea forests of the montane to alpine levels (Vaccinio- Piceetea) 9420 Alpine Larix decidua and/or Pinus cembra forests 9430 Subalpine and montane Pinus uncinata forests (* if on gypsum or limestone)
-
-95.  Mediterranean and Macaronesian mountainous coniferous forests
-
-9510 * Southern Apennine Abies alba forests 9520 Abies pinsapo forests 9530 * (Sub-) Mediterranean pine forests with endemic black pines 9540 Mediterranean pine forests with endemic Mesogean pines 9550 Canarian endemic pine forests 9560 * Endemic forests with Juniperus spp. 9570 * Tetraclinis articulata forests 9580 * Mediterranean Taxus baccata woods 9590 * Cedrus brevifolia forests (Cedrosetum brevifoliae) 95A0 High oro-Mediterranean pine forests
