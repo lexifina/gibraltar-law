@@ -1,8 +1,4 @@
-Gibraltar Development Corporation
-
-1990-16
-
-GIBRALTAR DEVELOPMENT CORPORATION ACT
+Gibraltar Development Corporation Act, 1990
 
 Principal Act
 
@@ -10,11 +6,11 @@ Act. No. 1990-16 Commencement 3.5.1990
 
 Assent 3.5.1990
 
-Amending enactments Relevant current provisions Commencement date Act. 1997-14 ss.24(2) and (3), 25(2) and (3) 27.3.1997 2007-17 ss. 3(6), 4(1) & (2), 12(1), 15(1) 14.6.2007
+Amending enactments Relevant current provisions Commencement date
 
-Gibraltar Development Corporation
+Act. 1997-14 ss. 24(2)-(3), 25(2)-(3) 27.3.1997 2007-17 ss. 3(6), 4(1)-(2), 12(1), 15(1) 14.6.2007 2018-14 s. 11(2) 16.8.2018
 
-1990-16 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -32,14 +28,12 @@ PART III. FUNCTIONS OF THE CORPORATION.
 
 PART IV. FINANCE, ETC.
 
-18. Financial year. 19. Government grants. 20. Borrowing. 21. Guarantees. 22. Surplus funds. 23. Establishment and operation of general fund. 24. Accounts and audit. 25. Annual report and periodical returns.
+18. Financial year. 19. Government grants. 20. Borrowing. 21. Guarantees. 22. Surplus funds. 23. Establishment and operation of general fund.
 
-Gibraltar Development Corporation
+24. Accounts and audit. 25. Annual report and periodical returns.
 
-1990-16 PART V. MISCELLANEOUS.
+PART V. MISCELLANEOUS.
 
 26. Regulations, Orders and Rules. 27. Immunity. 28. Service of documents.
 
-Gibraltar Development Corporation
-
-1990-16 AN ACT TO ESTABLISH A DEVELOPMENT CORPORATION TO SECURE THE REGENERATION AND ECONOMIC EXPANSION OF GIBRALTAR AND TO PROVIDE FOR MATTERS CONNECTED THERETO.
+AN ACT TO ESTABLISH A DEVELOPMENT CORPORATION TO SECURE THE REGENERATION AND ECONOMIC EXPANSION OF GIBRALTAR AND TO PROVIDE FOR MATTERS CONNECTED THERETO.
