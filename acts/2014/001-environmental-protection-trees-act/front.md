@@ -10,7 +10,15 @@ Act. No. 2014-01 Commencement 27.2.2014
 
 Assent 24.2.2014
 
+Amending enactments Relevant current provisions Commencement date
+
+Act 2018-14 s. 16(1)(d) 16.8.2018
+
 ____________________________
+
+Environmental Protection (Trees)
+
+2014-01
 
 ARRANGEMENT OF SECTIONS
 
@@ -30,13 +38,13 @@ PART III TREES NOT SUBJECT TO PART II
 
 PART IV EXCEPTIONS, ETC.
 
-16. Exceptions.
+16. Exceptions. 17. Replacement of trees. 18. Appeals. 19. Right to enter any land. 20. Electronic communications. 21. Power to make Regulations. 22. Amendment of Schedule. 23. Governor’s constitutional responsibilities. 24. Amendment of the Town Planning Act 1999. 25. Transitional provision.
+
+SCHEDULE
 
 Environmental Protection (Trees)
 
-2014-01 17. Replacement of trees. 18. Appeals. 19. Right to enter any land. 20. Electronic communications. 21. Power to make Regulations. 22. Amendment of Schedule. 23. Governor’s constitutional responsibilities. 24. Amendment of the Town Planning Act 1999. 25. Transitional provision.
-
-SCHEDULE
+2014-01
 
 Environmental Protection (Trees)
 
