@@ -17,7 +17,3 @@ BIOLOGICAL LIMIT VALUES AND HEALTH SURVEILLANCE MEASURES
 (b) a blood-lead level greater than 40µg Pb/100 ml blood is measured in individual employees.
 
 1.3  Practical guidelines for biological monitoring and medical surveillance must be developed in accordance with Article 12(2).  These must include recommendations of biological indicators (e.g. ALAU, ZPP, ALAD) and biological monitoring strategies.
-
-Factories FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
-
-1956-12 Subsidiary 2003/035

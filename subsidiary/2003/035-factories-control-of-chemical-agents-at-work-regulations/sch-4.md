@@ -38,6 +38,4 @@ The health and safety data sheet referred to in regulation 2 shall contain so fa
 
 16. Date of first publication or latest revision of the health and safety data sheet, as the case may be.
 
-Factories FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
-
-1956-12 Subsidiary 2003/035 17. Other information.
+17. Other information.

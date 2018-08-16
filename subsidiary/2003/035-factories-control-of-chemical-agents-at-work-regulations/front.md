@@ -1,22 +1,22 @@
-Factories FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
+Subsidiary Legislation made under ss.58 and 81.
 
-1956-12 Subsidiary 2003/035 Regulations made under ss.58 and 81.
+Factories (Control of Chemical Agents at Work) Regulations 2003
 
-FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
+LN. 2003/035
 
-(LN. 2003/035)
+Commencement 20.3.2003
 
-20.3.2003
+Amending enactments Relevant current provisions Commencement date
 
-Amending enactments Relevant current provisions Commencement date LN. 2008/035 Sch. 1 8.5.2008 2008/050 Sch. 1 19.6.2008 2012/021 Sch. 1 1.3.2012 2015/143 rr. 2(1), 5(2)(b), 10(1)(d) 4.9.2015
+LN. 2008/035 Sch. 1 8.5.2008 2008/050 Sch. 1 19.6.2008 2012/021 Sch. 1 1.3.2012 2015/143 r. 2(1), 5(2)(b), 10(1)(d) 4.9.2015 2018/1811 Sch. 1 16.8.2018
 
-Transposing: Directive 98/24/EC Directive 2000/39/EC Directive 2009/161/EU
+Transposing: Directive 98/24/EC Directive 2000/39/EC Directive 2009/161/EU Directive (EU) 2017/164
 
 Implementing: Directive 2014/27/EU
 
-Factories FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
+1 For Transitional Period please refer to s.3 of as the Control of Chemical Agents at Work (Amendment) Regulations 2018 (LN. 2018/181)
 
-1956-12 Subsidiary 2003/035 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -30,6 +30,4 @@ SCHEDULE 3 PROHIBITIONS
 
 SCHEDULE 4 HEADINGS UNDER WHICH PARTICULARS ARE TO BE PROVIDED IN HEALTH AND SAFETY DATA SHEETS
 
-Factories FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
-
-1956-12 Subsidiary 2003/035 In exercise of the powers conferred on him by sections 58 and 81 of the Factories Act and of all other enabling powers, and for the purposes of transposing into the law of Gibraltar Council Directive 98/24/EC and Commission Directive 2000/39/EC the Governor has made the following regulations–
+In exercise of the powers conferred on him by sections 58 and 81 of the Factories Act and of all other enabling powers, and for the purposes of transposing into the law of Gibraltar Council Directive 98/24/EC and Commission Directive 2000/39/EC the Governor has made the following regulations–

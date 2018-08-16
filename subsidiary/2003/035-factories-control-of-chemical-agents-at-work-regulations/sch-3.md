@@ -15,7 +15,3 @@ EINECS No (1) CAS No (2) Name of agent Concentration limit for exemption 202-080
 None
 
 (1) EINECS : European Inventory of Existing Commercial Chemical Substances (2) CAS : Chemical Abstracts Service
-
-Factories FACTORIES (CONTROL OF CHEMICAL AGENTS AT WORK) REGULATIONS 2003
-
-1956-12 Subsidiary 2003/035
