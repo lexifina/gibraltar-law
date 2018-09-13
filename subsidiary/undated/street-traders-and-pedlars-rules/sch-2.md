@@ -6,11 +6,11 @@ APPLICATION FOR A LICENCE UNDER THE STREET TRADERS AND PEDLARS RULES.
 
 Name of applicant. . . . . . . . . . . . . . . (block letters)
 
-Identity carnet number. . . . . .   . . . .
+Identity card number or company registration number. . . . . .   . . . .
 
 Address . . . . . . . . . . . . . . . . . . .
 
-Place and date of birth. . . . . . . . . . . . .
+Place and date of birth or registered address (if a company). . . . . . . . . . . . .
 
 Category of licence required. . . . . . . . . . . .
 
@@ -30,4 +30,8 @@ Signature of Applicant. . . . . . . . . . . . . . . .
 
 To
 
-The Superintendent of Markets, Gibraltar.
+Markets, Street Traders and Pedlars STREET TRADERS AND PEDLARS RULES
+
+1953-13
+
+Subsidiary 1960.12.20 The Chief Environmental Health Officer, Gibraltar.
