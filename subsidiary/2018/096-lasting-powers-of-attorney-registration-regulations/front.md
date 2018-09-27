@@ -10,6 +10,10 @@ LASTING POWERS OF ATTORNEY (REGISTRATION) REGULATIONS 2018
 
 Commencement 23.4.2018
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2018/207 Sch. 3 27.9.2018
+
 _______________________
 
 ARRANGEMENT OF REGULATIONS.
