@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2008-16 ss. 78(2) & (3) 30.10.2008 2010-08 ss. 4(1), (1)(c) & (6), 6(1), (1)(b) & 9(1)
 
-15.4.2010 2018-07 ss. 2, 49-55, 79(1)(d), (2)-(3) 21.6.2018
+15.4.2010 2018-07 ss. 2, 49-55, 79(1)(d), (2)-(3) 21.6.2018 LN. 2018-210 s. 30(1) 4.10.2018
 
 English sources: None cited
 
