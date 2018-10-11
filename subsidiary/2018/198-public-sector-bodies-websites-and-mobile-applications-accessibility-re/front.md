@@ -1,5 +1,3 @@
-2017-10 Disability
-
 Subsidiary Legislation made under s.6(b).
 
 Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018
@@ -8,9 +6,11 @@ LN.2018/198
 
 Commencement 23.9.2018
 
-Transposing : Directive (EU) 2016/2102
+Amending enactments Relevant current provisions Commencement date
 
-_______________________
+LN. 2018/212 rr. 4(2)(g), 5, 11.10.2018
+
+Transposing : Directive (EU) 2016/2102
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -30,8 +30,6 @@ PART 3 Presumed Conformity
 
 PART 4 Monitoring and Reporting
 
-2017-10 Disability 2018/198 Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018
-
 10. Monitoring and Reporting.
 
 PART 5 Enforcement
@@ -40,6 +38,4 @@ PART 5 Enforcement
 
 SCHEDULE Reporting Requirements
 
-Disability 2017-10 Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018 2018/198
-
-In exercise of the powers conferred upon it by Section 6(b) of the Disability Act 2017 and Section 23(g)(ii) of the Interpretation and General Clauses Act, and in order to transpose into the law of Gibraltar, Commission Directive (EU) 2016/2102 of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies, the Government has made the following Regulations- PART 1 General
+In exercise of the powers conferred upon it by Section 6(b) of the Disability Act 2017 and Section 23(g)(ii) of the Interpretation and General Clauses Act, and in order to transpose into the law of Gibraltar, Commission Directive (EU) 2016/2102 of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies, the Government has made the following Regulations-
