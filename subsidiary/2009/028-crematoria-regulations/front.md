@@ -1,27 +1,21 @@
-Crematoria CREMATORIA REGULATIONS 2009
+Subsidiary Legislation made under s.36.
 
-2008-20
+Crematoria Regulations 2009
 
-Subsidiary 2009/028 Subsidiary Legislation made under s. 36.
-
-CREMATORIA REGULATIONS 2009
-
-(LN. 2009/028)
+LN.2009/028
 
 Commencement 7.5.2009
 
-______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS.
+Act. 2018-15 r. 2(1)(b), (d), (2), (3) 18.10.2018
+
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title and commencement. 2. Fees. 3. Forms. 4. 5. 6. Issue of cremation authorisation. 7. 8. 9. 10. 11.  Cremations outside Gibraltar.
+1. Title and commencement. 2. Fees. 3. Forms. 4. A Coroner’s certificate under section 10(3)(b) shall be…. 5. A cremation authorisation under section 11 of the Act shall be…. 6. Issue of cremation authorisation. 7. For the purposes of section 9(3)(c) and (d) of the Act where…. 8. The Registrar of Births and Deaths shall not issue a…. 9. The Registrar of Births and Deaths shall not issue a…. 10. The Registrar of Births and Deaths may in any case decline to issue…. 11.  Cremations outside Gibraltar.
 
 SCHEDULE
 
-Crematoria CREMATORIA REGULATIONS 2009
-
-2008-20
-
-Subsidiary 2009/028 In exercise of the powers conferred upon him by section 36 of the Crematoria Act 2008, the Minister has made the following Regulations–
+In exercise of the powers conferred upon him by section 36 of the Crematoria Act 2008, the Minister has made the following Regulations–

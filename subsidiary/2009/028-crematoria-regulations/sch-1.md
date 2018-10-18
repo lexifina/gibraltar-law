@@ -1,0 +1,79 @@
+SCHEDULE
+
+Form A
+
+Application for Cremation
+
+I, (Name of applicant) .. .. .. .. .. .. .. .. .. (Address) .. .. .. .. .. .. .. .. .. apply to the Registrar of Births and Deaths  to undertake the cremation of the remains of (Name of deceased) .. .. .. .. .. .. .. .. .. (Address) .. .. .. .. .. .. .. .. .. (Occupation) .. .. .. .. .. .. .. .. .. (Age) .. .. .. .. .. .. .. .. .. (Sex) .. .. .. .. .. .. .. .. .. (Whether married, widow, widower, not married)
+
+The true answers to the questions set out below are as follows:--
+
+1.  Are you an executor or the nearest surviving relative of the deceased?
+
+2.  If not, state (a) Your relationship to the deceased. (b) The reason why the application is made by you and not by an executor or any nearer relative.
+
+3.  Have the near relatives of the deceased been informed of the proposed cremation?
+
+4.  Has any near relative of the deceased expressed any objection to the proposed cremation? If so, on what ground?
+
+5.  Has the deceased expressed an objection to the cremation of his remains in a testamentary instrument or act within the meaning of the Wills Act?
+
+6.  What was the date and hour of the death of the deceased?
+
+7.  What was the place where deceased died? (Give address and say whether own residence, lodgings, hotel, hospital, nursing home, etc.)
+
+8.  Do you know, or have you any reason to suspect, that the death of the deceased was due, directly or indirectly, to (a)     violence;
+
+(b)     poison; (c)     privation or neglect?
+
+9.  Do you know any reason whatever for supposing that an examination of the remains of the deceased may be desirable?
+
+10.  Give name and address of the ordinary medical attendant of the deceased and of the medical practitioners who attended deceased during his/her last illness.
+
+I declare that to the best of my knowledge and belief the information given in this application is correct and no material particular has been omitted.
+
+Date .. .. .. .. ..
+
+(Signature) .. .. .. .. ..
+
+The applicant is known to me and I have no reason to doubt the truth of any of the information furnished by the applicant.
+
+Date .. .. .. .. .. .. .. .. ..
+
+(Signature) .. .. .. .. ..
+
+(Capacity in which signatory has signed) .. .. .. .. .. .. .. .. .. (Name and address) .. .. .. .. .. .. .. .. ..
+
+Form B
+
+Coroner's Certificate
+
+I certify that: *(a)     I have opened an inquest on the body of the undermentioned deceased person. *(b)     a post-mortem examination of the body of the undermentioned deceased person has been made by my direction or at my request and as a result thereof I am satisfied that an inquest is unnecessary. *(c)     I am satisfied that the death was by natural causes and no post-mortem examination or inquest is necessary. *(d)     other (give details).*Delete whichever is inapplicable.
+
+I am satisfied that there are no circumstances likely to call for a further examination of the body. Particulars of deceased person Full names (if known) .. .. .. .. .. .. .. .. .. Sex .. .. .. .. .. .. .. .. .. Age .. .. .. .. .. .. .. .. .. Date of death .. .. .. .. .. .. .. .. .. Place of death .. .. .. .. .. .. .. .. .. Date .. .. .. .. .. .. .. .. .. Signature .. .. .. .. .. .. .. .. ..
+
+Form C
+
+Cremation Authorisation
+
+Whereas application has been made for the cremation of the remains of
+
+Name .. .. .. .. .. .. .. .. ..
+
+(Address) .. .. .. .. .. .. .. .. ..
+
+(Occupation) .. .. .. .. .. .. .. .. ..
+
+And whereas I have satisfied myself that all the requirements of the Crematoria Act 2008, and of the Regulations made in pursuance of that Act, have been complied with, that the cause of death has been definitely ascertained, and that there exists no reason for any further inquiry or examination
+
+I hereby authorise the cremation of the said remains.
+
+(Signature) .. .. .. .. .. .. .. .. ..
+
+Registrar of Births and Deaths .. .. .. .. .. .. .. .. ..
+
+(Date) .. .. .. .. .. .. .. .. ..
+
+NOTE.--This authority should be signed in duplicate--one copy to be retained with the certificates and the other sent by the Registrar of Births and Deaths to the Crematorium (where the cremation is to occur at a bona-fide crematorium outside Gibraltar  the second copy must be sent by the Registrar of Births and Deaths to the applicant or his agent).
+
+*In the case of a stillborn child, in place of the name, address, and occupation, insert a description sufficient to identify the body, and in place of the words "that the cause of death has been definitely ascertained" insert the words "that the child was stillborn."
