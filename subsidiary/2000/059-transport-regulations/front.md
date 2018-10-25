@@ -18,7 +18,7 @@ LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1)(3), 118(1)(c)(3), 124A
 
 29.5.2003 2005/049 rr. 3(3) and Sch. 5 1.4.2005 2005/065 rr. 117A – 117K, Sch.1 and Sch.5 7.4.2005 2005/162 r. 117E(c) and (d) 8.12.2005 2010/017 Sch. 5 21.1.2010 2010/018 Sch. 5 21.1.2010 2011/004 rr. 71(1), 117E(e), 117F(e) 20.1.2011 2011/018 r. 64A(a), (e), (f) & (g) 24.2.2011 2012/152 r. 117E(b) 1.11.2012 2016/066 rr. 12(3), 37(2), 64(1), (1A), (2), (3),(3A), (4), (5), 64A, 66, 67(1), (3), (3A), 71(1), 71A, 124, 126, 127, 128, 129, 130, 131, 132, Sch. 3, 6
 
-24.3.2016 2016/081 Sch. 5 1.5.2016 2016/145 rr. 67(5)(a), (b), (6), Sch. 3 7.7.2016 2017/256 r.3(2), Sch. 5 21.12.2017
+24.3.2016 2016/081 Sch. 5 1.5.2016 2016/145 rr. 67(5)(a), (b), (6), Sch. 3 7.7.2016 2017/256 r.3(2), Sch. 5 21.12.2017 “ Sch. 5 1.5.2018 2018/232 rr. 107(1), (2)(c), (5), (6), 107A 25.10.2018
 
 Transport TRANSPORT REGULATIONS 2000
 
@@ -122,7 +122,7 @@ PART VI
 
 LICENSING OF GUIDES AND SIGHTSEEING TOURS
 
-105. Licences for the offer of professional services as a guide 106. Licencing of sightseeing tours: private hire cars 107. Applications for, and issue of, guide licences 108. Sight-seeing tour licences 109. Guide and sight-seeing tour licences: general
+105. Licences for the offer of professional services as a guide 106. Licencing of sightseeing tours: private hire cars 107. Applications for, and issue of, guide licences 107A. Renewal 108. Sight-seeing tour licences 109. Guide and sight-seeing tour licences: general
 
 Transport TRANSPORT REGULATIONS 2000
 
