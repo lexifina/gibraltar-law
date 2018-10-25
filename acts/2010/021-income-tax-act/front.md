@@ -22,7 +22,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2015-23 s
 
 Income Tax
 
-2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018
+2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive (EU) 2016/2258
 
