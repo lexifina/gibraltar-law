@@ -1,16 +1,14 @@
-Traffic DISTINCT PARKING ZONE (ZONE 1) DESIGNATION ORDER
+Subsidiary Legislation made under r.7 of the Traffic (Parking and Waiting) Regulations 2011.
 
-2005-26
+Distinct Parking Zone (Zone 1) Designation Order
 
-Subsidiary 2017/103 Subsidiary Legislation made under r.7 of the Traffic (Parking and Waiting) Regulations 2011.
-
-DISTINCT PARKING ZONE (ZONE 1) DESIGNATION ORDER
-
-(LN. 2017/103)
+LN.2017/103
 
 Commencement 1.7.2017
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2018/235 Art. 3, Sch. 1, Sch. 2 1.11.2018
 
 ARRANGMENT OF ARTICLES
 
@@ -20,10 +18,6 @@ Article
 
 SCHEDULE 1 ZONE 1
 
-SCHEDULE 2 ZONE 1A, 1B AND 1C
+SCHEDULE 2 ZONE 1A, 1B, 1C, 1D, 1E AND 1F
 
-Traffic DISTINCT PARKING ZONE (ZONE 1) DESIGNATION ORDER
-
-2005-26
-
-Subsidiary 2017/103 In exercise of the powers conferred on him by regulation 7 of the Traffic (Parking and Waiting) Regulations 2011, the Minister with responsibility for Traffic has designated “Zone 1” a Distinct Parking Zone for the purposes of the Regulations.
+In exercise of the powers conferred on him by regulation 7 of the Traffic (Parking and Waiting) Regulations 2011, the Minister with responsibility for Traffic has designated “Zone 1” a Distinct Parking Zone for the purposes of the Regulations.
