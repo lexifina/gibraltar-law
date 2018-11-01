@@ -14,6 +14,8 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2018/238 Notice of Corrigendum
 
+2018/241 Sch. 1.11.2018
+
 Transposing: Regulation (EU) 2015/1755
 
 EU Legislation/International Agreements involved:
