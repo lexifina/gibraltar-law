@@ -1,24 +1,28 @@
-Immigration, Asylum and Refugee BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
+Subsidiary Legislation made under s.52A.
 
-1962-12
+Burundi (Travel Restrictions) Regulations 2015
 
-Subsidiary 2015/180 Subsidiary Legislation made under s. 52A.
-
-BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
-
-(LN. 2015/180)
+LN.2015/180
 
 Commencement 8.10.2015
 
-Amending enactments Relevant current provisions Commencement date LN. 2016/215 Sch. 10.11.2016
+Amending enactments Relevant current provisions Commencement date
 
-Implementing: Council Decision (CFSP) 2015/1763 Council Decision (CFSP) 2016/1745 Council Decision (CFSP) 2017/1933
+LN. 2016/215 Sch. 10.11.2016 2017/206 Sch. 27.10.2017 2018/240 Sch. 1.11.2018
 
-Immigration, Asylum and Refugee BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
+Implementing: Council Decision (CFSP) 2015/1763 Council Decision (CFSP) 2016/1745 Council Decision (CFSP) 2017/1933 Council Decision (CFSP) 2018/1612
 
-1962-12
+_________________________________
 
-Subsidiary 2015/180 In exercise of the powers conferred upon him by section 52A of the Immigration, Asylum and Refugee Act, for the purpose of implementing Council Decision (CFSP) 2015/1763 of 1 October 2015 concerning restrictive measures in view of the situation in Burundi, the Minister has made the following Regulations-
+ARRANGEMENT OF REGULATIONS
+
+Regulation
+
+1. Title and commencement. 2. Designation of instrument.
+
+SCHEDULE
+
+In exercise of the powers conferred upon him by section 52A of the Immigration, Asylum and Refugee Act, for the purpose of implementing Council Decision (CFSP) 2015/1763 of 1 October 2015 concerning restrictive measures in view of the situation in Burundi, the Minister has made the following Regulations-
 
 Title and commencement.
 
@@ -28,11 +32,7 @@ Designation of instrument.
 
 2.  Pursuant to section 52A of the Immigration, Asylum and Refugee Act, Council Decision (CFSP) 2015/1763 of 1 October 2015 concerning restrictive measures in view of the situation in Burundi, as the same may be amended from time to time, and reproduced in the Schedule hereto is a designated instrument for the purposes of that section.
 
-Immigration, Asylum and Refugee BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
-
-1962-12
-
-Subsidiary 2015/180 SCHEDULE
+SCHEDULE
 
 COUNCIL DECISION (CFSP) 2015/1763 of 1 October 2015 concerning restrictive measures in view of the situation in Burundi
 
@@ -50,13 +50,7 @@ Whereas:
 
 (3) On 22 June 2015, the Council expressed its deep concern at both the number of victims and the number of cases of serious human rights violations reported since the beginning of the crisis, particularly those abuses attributed to the security forces and to members of the Imbonerakure. The Council also reiterated that it was determined to adopt, if necessary, targeted restrictive measures against those whose actions might have led or might lead to acts of violence and repression and serious human rights violations, and/or might hamper the search for a political solution within the framework proposed by the African Union and the East African Community.
 
-(4) On 23 July 2015, the European Union regretted that the Burundi government had not fully implemented the relevant decisions of the
-
-Immigration, Asylum and Refugee BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
-
-1962-12
-
-Subsidiary 2015/180 African Union and the East African Community that would have paved the way for credible and inclusive elections.
+(4) On 23 July 2015, the European Union regretted that the Burundi government had not fully implemented the relevant decisions of the African Union and the East African Community that would have paved the way for credible and inclusive elections.
 
 (5) The Council has remained seriously concerned about the situation in Burundi. In the current circumstances and, in line with the Council Conclusions of June 2015, travel restrictions and an asset freeze should be imposed against persons, entities or bodies undermining democracy or obstructing the search for a political solution in Burundi, including by acts of violence, repression or inciting violence, persons, entities or bodies involved in planning, directing, or committing acts that violate international human rights law or international humanitarian law, as applicable, or that constitute serious human rights abuses, in Burundi, as well as persons, entities or bodies associated with them.
 
@@ -82,13 +76,7 @@ as listed in the Annex.
 
 (a) as host country of an international intergovernmental organisation;
 
-Immigration, Asylum and Refugee BURUNDI (TRAVEL RESTRICTIONS) REGULATIONS 2015
-
-1962-12
-
-Subsidiary 2015/180
-
-(b)  as host country to an international conference convened by, or under the auspices of,  the United Nations;
+(b)  as host country to an international conference convened by, or under the auspices of, the United Nations;
 
 (c)  under a multilateral agreement conferring privileges and immunities; or
 
