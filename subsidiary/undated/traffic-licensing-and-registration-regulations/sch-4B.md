@@ -1128,6 +1128,8 @@ B - The form for an international driving permit set out in Annex E of the Conve
 
 C - The form of international certificate for motor vehicles set out in Annex B of the Convention of 1926 as issued in the United Kingdom.
 
+D - The form of international certificate for motor vehicles set out in Annex 7 of the Convention of 1968 as issued in the United Kingdom.
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26

@@ -800,7 +800,7 @@ APPLICATION FOR AN INTERNATIONAL DRIVING PERMIT.
 
 TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
-I . . . . . . . . . . . . . of. . . . . . . . . . . . . being the holder of driving licence No. . . . . . . . . . . . . .  hereby apply for an international driving permit under the International Convention of 1949*/1926 to drive the same categories or descriptions of vehicles to which the aforesaid driving licence applies.
+I . . . . . . . . . . . . . of. . . . . . . . . . . . . being the holder of driving licence No. . . . . . . . . . . . . .  hereby apply for an international driving permit under the International Convention of 1968*/1949/1926 to drive the same categories or descriptions of vehicles to which the aforesaid driving licence applies.
 
 I enclose two copies of my photograph Dated this day of
 
