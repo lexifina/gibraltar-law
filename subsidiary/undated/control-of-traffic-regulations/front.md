@@ -8,7 +8,7 @@ CONTROL OF TRAFFIC REGULATIONS
 
 [1960.03.15]
 
-Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996 1996/090 rr. 47A-47D, Schs.8-Sch.11 19.9.1996 Act. 1998-44 rr. 34-36 22.9.2000 LN. 2000/085 r. 59(2)(b) 2.11.2000 2001/005 Sch.4 1.2.2001 2002/073 rr. 56-58, 64 17.10.2002 Act. 2007-17 r. 19(3)(c) 14.6.2007 LN. 2008/061 r. 32 14.8.2008 2011/057 rr. 54-63 9.6.2011 2011/178 r. 14 29.9.2011 2012/031 r. 32 10.4.2012 2012/142 rr. 53A-53C, Sch.12 18.10.2012 2015/124 r. 33 29.7.2015
+Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996 1996/090 rr. 47A-47D, Schs.8-Sch.11 19.9.1996 Act. 1998-44 rr. 34-36 22.9.2000 LN. 2000/085 r. 59(2)(b) 2.11.2000 2001/005 Sch.4 1.2.2001 2002/073 rr. 56-58, 64 17.10.2002 Act. 2007-17 r. 19(3)(c) 14.6.2007 LN. 2008/061 r. 32 14.8.2008 2011/057 rr. 54-63 9.6.2011 2011/178 r. 14 29.9.2011 2012/031 r. 32 10.4.2012 2012/142 rr. 53A-53C, Sch.12 18.10.2012 2015/124 r. 33 29.7.2015 2018/253 r. 33A 8.11.2018
 
 Traffic CONTROL OF TRAFFIC REGULATIONS
 
@@ -26,13 +26,15 @@ General Rules of the Road
 
 Motor Vehicles
 
-10. Driver to have proper control. 11. Maintenance of vehicle and conditions of loading so as not to be a danger. 12. Riding in a dangerous position. 13. Passengers on goods vehicles. 14. Restriction on reversing. 15. Signalling change of direction. 16. Direction indicators and brake lights. 17. Obstructing roads. 18. Obstructing entrances. 19. Vehicles excluded from City. 19A. Bomb House Lane restriction. 20. Restrictions on lamps. 21. Sound warnings. 22. Avoidable excessive noise. 23. Use and maintenance of silencer. 24. Stopping of engine when stationary. 25. Refuelling. 26. Repairing vehicles on roads. 27. Length of tow rope. 28. Trailers not to be drawn by public service vehicles. 29. Number of trailers permitted. 30. Trailer couplings. 31. Trailers on motor cycles. 32. Wearing of protective headgear. 33. Footrests for passengers on motor cycles. 34 to 36. Revoked.
+10. Driver to have proper control. 11. Maintenance of vehicle and conditions of loading so as not to be a danger. 12. Riding in a dangerous position. 13. Passengers on goods vehicles. 14. Restriction on reversing. 15. Signalling change of direction. 16. Direction indicators and brake lights. 17. Obstructing roads. 18. Obstructing entrances. 19. Vehicles excluded from City. 19A. Bomb House Lane restriction. 20. Restrictions on lamps. 21. Sound warnings. 22. Avoidable excessive noise. 23. Use and maintenance of silencer. 24. Stopping of engine when stationary. 25. Refuelling. 26. Repairing vehicles on roads. 27. Length of tow rope. 28. Trailers not to be drawn by public service vehicles. 29. Number of trailers permitted. 30. Trailer couplings. 31. Trailers on motor cycles. 32. Wearing of protective headgear. 33. Footrests for passengers on motor cycles. 33A. Control of motorcycle.
 
 Traffic CONTROL OF TRAFFIC REGULATIONS
 
 2005-26
 
 Subsidiary [1960.03.15]
+
+34 to 36. Revoked.
 
 Bicycles
 
@@ -58,13 +60,13 @@ Box Junctions
 
 53B.  Box junctions. 53C.   Interpretation.
 
-Traffic Wardens
-
 Traffic CONTROL OF TRAFFIC REGULATIONS
 
 2005-26
 
-Subsidiary [1960.03.15] 54. Prescribed traffic sign.
+Subsidiary [1960.03.15] Traffic Wardens
+
+54. Prescribed traffic sign.
 
 Removal of Vehicles
 
