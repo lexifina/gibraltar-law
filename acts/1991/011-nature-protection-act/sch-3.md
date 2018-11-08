@@ -2,41 +2,61 @@ SCHEDULE 3.
 
 Section 13
 
-Wild birds, wild animals and wild plants in respect of which no licence shall be issued under section 13(5).
+Wild animals, including wild birds and wild plants in respect of which no licence shall be issued under section 13 which may result in the extinction in Gibraltar of that wild animal, wild bird or wild plant.
 
-Name Common Name Cerastium gibraltaricum
+Name Common name or description
 
-Silene tomentosa
+Phalacrocrax aristotelis desmarestii Mediterranean Shag
 
-Iberis gibraltarica
+Falconiformes Any bird of prey
 
-Saxifraga globulifera var. gibraltarica
+Alectoris barbara Barbary Partridge
 
-Ononis natrix subsp. ramosissima
+Tytonidae and Strigidae Any Owl
 
-Limonium emarginatum
+Vulpes vulpes Red Fox
 
-Thymus willdenowii
+Macaca sylvanus Barbary Macaque
 
-Petroselinum crispum
+Acicula norris (Gibraltar endemic snail)
+
+Osteophora calpeana (Gibraltar endemic snail)
+
+Ceciliodes spp. (Gibraltar endemic snail)
+
+Macrothele calpetana Gibraltar Funnel-web Spider
+
+Buprestis sanguinea Jewel Beetle
+
+Paratyphlus tristancanoi (Gibraltar endemic beetle)
+
+Lusitanopsis herculeanus (Gibraltar endemic beetle)
+
+Technomyrmex vexatus A rare ant
+
+Torneuma bensusani A near-endemic beetle
+
+Cerastium gibraltaricum Gibraltar Chickweed
+
+Silene tomentosa Gibraltar Sea Campion
+
+Nature Protection
+
+1991-11
+
+Iberis gibraltarica Gibraltar Candytuft
+
+Saxifraga globurifera var. gibraltarica Gibraltar Saxifrage
+
+Ononis natrix subsp. ramosissima Gibraltar Restharrow
+
+Limonium emarginatum Gibraltar Sea Lavender
+
+Thymus willdenowii Gibraltar Thyme
+
+Petroselium crispum Parsley
 
 All species of the family ORCHIDACEAE
-
-Gibraltar Chickweed
-
-Gibraltar Campion
-
-Gibraltar Candytuft
-
-Gibraltar Saxifrage
-
-Gibraltar Restharrow
-
-Gibraltar Sea Lavender
-
-Gibraltar Thyme
-
-Parsley
 
 Nature Protection
 

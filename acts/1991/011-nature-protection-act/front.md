@@ -38,7 +38,7 @@ Nature Protection
 
 12.12.20132 LN. 2017/089 Sch. 1 4.5.2017 2018/075 Sch. 10 1.4.2018 Act. 2018-16 ss. 11(1), (1A), (2)(a), 18(1)(b), (c), Sch. 2 & 3
 
-2.8.2018
+2.8.2018 LN. 2018/251 Sch. 1 & 3 8.11.2018
 
 Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC Directive 2013/17/EU
 
