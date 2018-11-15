@@ -10,4 +10,8 @@ The following are authorised officers under section 2–
 
 (c) a Wildlife Warden appointed under section 21(1) of the Nature Protection Act, 1991;
 
-(d) the Chief Executive Officer of the Department of the Environment and Climate Change or such person as he shall appoint.
+(d) the Chief Executive Officer of the Department of the Environment, Heritage and Climate Change or such person as he shall appoint.
+
+(e) The Government Veterinary Practitioner;
+
+(f) a Customs Officer of Her Majesty’s Customs.

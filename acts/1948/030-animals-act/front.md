@@ -1,8 +1,8 @@
-Animals and Birds
+Animals
 
 1948-30
 
-ANIMALS AND BIRDS ACT
+ANIMALS ACT
 
 Principal Act
 
@@ -18,17 +18,21 @@ Amending enactments Relevant current provisions Commencement date Acts. 1960-21 
 
 28.1.2016 2016-19 ss. 2(1), 10(2), (6)(c)-(d), 10(7A)- (7C), 26(ja), (k), Sch.
 
-2.12.20161
+2.12.20161 2018-21 ss. 1-6, 6A(1)(c), 7(1), 10(4), (6), (d), (6C), (7B)-(7C), (10), 11, 12A- 12B, 13, 14(1), 15, 16(1)-(2), 17(1)-(2), 18(2)-(3), 19(1), (b), (2), 21A-21C, 22(1), (3)-(6), 24(1)-(2), (4)-(6), 25-26, (b), (bb), (c), (e)-(f), Sch.
 
-English sources: Protection of Birds Act 1954 (2 and 3 Eliz. 2 c.30) Protection of Animals (Amendment) Act 1954 (2 and 3 Ell. 2 c.40) Abandonment of Animals Act 1960 (8 and 9 Eliz. 2 c.43)
-
-Implementing: Regulation (EC) No 998/2003
+15.11.2018
 
 1 Notice of Commencement (LN. 2016/243)
 
 Transitional provisions - In respect of a dog registered prior to the coming into force of this Act, section 2(4) and (5) of this Act shall apply upon the renewal of the licence under rule 16 of the Animals Rules 2004.
 
-Animals and Birds
+Animals
+
+1948-30 English sources: Protection of Birds Act 1954 (2 and 3 Eliz. 2 c.30) Protection of Animals (Amendment) Act 1954 (2 and 3 Ell. 2 c.40) Abandonment of Animals Act 1960 (8 and 9 Eliz. 2 c.43)
+
+Implementing: Regulation (EC) No 998/2003
+
+Animals
 
 1948-30 ARRANGEMENT OF SECTIONS.
 
@@ -36,30 +40,32 @@ Section
 
 PART I. INTRODUCTORY. 1. Short title. 2. Interpretation.
 
-PART II. DISEASES OF ANIMALS AND BIRDS.
+PART II. DISEASES OF ANIMALS.
 
-3. Importing or keeping diseased animals or birds. 4. Failure to notify diseases.
+3. Importing or keeping diseased animals. 4. Failure to notify diseases.
 
-PART III. PROTECTION OF ANIMALS AND BIRDS.
+PART III. PROTECTION OF ANIMALS.
 
-5. Cruelty to animals or birds. 6. Abandoning animals. 6A.  Enticing or feeding Barbary Macaques. 6B.  Possibility of fixed penalty notices for enticing or feeding Barbary Macaques. 7. Export of horses. 8. Repealed. 9. Repealed. 10. Registration, licensing and vaccination of dogs. 10A.  Microchips. 11. Injuries by animals or birds to persons or property. 12. Repealed.
+5. Cruelty to animals. 6. Abandoning animals. 6A.  Enticing or feeding Barbary Macaques. 6B.  Possibility of fixed penalty notices for enticing or feeding Barbary Macaques. 7. Export of horses. 8. Repealed. 9. Repealed. 10. Registration, licensing and vaccination of dogs. 10A.  Microchips. 11. Injuries by animals to persons or property. 12. Repealed. 12A. Protection of cetacean. 12B. Exceptions from section 12A.
 
 PART IV. LEGAL PROCEEDINGS.
 
-13.  Proceedings to be summary. 14.  Dangerous animals or birds. 15.  Damage to animals or birds. 16.  Destruction and deprivation of ownership. 17.  Power to disqualify persons convicted of cruelty to animals. 18.  Production of drivers, etc., and animals. 19. Burden of proof.
+13.  Proceedings to be summary. 14.  Dangerous animals. 15.  Damage to animals. 16.  Destruction and deprivation of ownership. 17.  Power to disqualify persons convicted of cruelty to animals. 18.  Production of drivers, etc., and animals. 19. Burden of proof.
 
 PART V. PENALTIES.
 
-20.  Penalty for an offence against this Act. 21.  Penalties for breach of rules.
+Animals
 
-Animals and Birds
+1948-30 20.  Penalty for an offence against this Act. 21.  Penalties for breach of rules.
 
-1948-30
+PART VA ANIMALS IN DISTRESS
+
+21A.  Powers in relation to animals in distress. 21B. Power of entry for section 21A purposes. 21C. Orders in relation to animals taken under section 21A(5).
 
 PART VI. MISCELLANEOUS PROVISIONS.
 
-22.  Power and duties of authorised officers and others. 23.  Failure to produce licence. 24.  Seizure of stray animals and birds. 25.  Finding by persons other than authorised officers. 25A. Obstructing Officers in execution of duties under Act. 26.  Rules. 27.  Amendments to Schedule.
+22.  Power and duties of authorised officers and others. 23.  Failure to produce licence. 24.  Seizure of stray animals. 25.  Finding by persons other than authorised officers. 25A. Obstructing Officers in execution of duties under Act. 26.  Rules. 27.  Amendments to Schedule.
 
 SCHEDULE AUTHORISED OFFICERS
 
-Animals and Birds
+Animals
