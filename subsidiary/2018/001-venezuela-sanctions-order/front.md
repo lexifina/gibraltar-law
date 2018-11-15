@@ -1,26 +1,16 @@
-Export Control VENEZUELA SANCTIONS ORDER 2018
+Subsidiary Legislation made under ss.3, 4, 5, 6, 7 & 9.
 
-2005-33
+Venezuela Sanctions Order 2018
 
-Subsidiary 2018/001 Subsidiary Legislation made under s.3, 4, 5 6, 7 and 9.
-
-VENEZUELA SANCTIONS ORDER 2018
-
-(LN. 2018/001)
+LN.2018/001
 
 Commencement 4.1.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2018/015 Notice of Corrigendum 2018/023 Sch. 2 25.1.2018 2018/145 Sch. 2 26.6.2018
+LN. 2018/015 Notice of Corrigendum 2018/023 Sch. 2 25.1.2018 2018/145 Sch. 2 26.6.2018 2018/255 Sch. 2 15.11.2018
 
 Implementing- Regulation (EU) 2017/2063 Regulation (EU) No 2018/88 Regulation (EU) No 2018/899 Regulation (EU) No 2018/1653
-
-Export Control VENEZUELA SANCTIONS ORDER 2018
-
-2005-33
-
-Subsidiary 2018/001
 
 ARRANGEMENT OF PARAGRAPHS
 
@@ -44,10 +34,8 @@ Part 4 Miscellaneous
 
 Schedule 1 Information Provisions
 
-Schedule 2 List of natural and legal persons, entities and bodies
+Schedule 2
 
-Export Control VENEZUELA SANCTIONS ORDER 2018
+List of natural and legal persons, entities and bodies
 
-2005-33
-
-Subsidiary 2018/001 In exercise of the powers conferred upon him by sections 3, 4, 5 6, 7 and 9 of the Export Control Act 2005, section 23(g)(i) of the Interpretation and General Clauses Act and all other enabling powers, for the purpose of implementing Council Regulation (EU) No 2017/2063 of 13 November 2017 concerning restrictive measures in view of the situation in Venezuela, the Minister has made the following Order-
+In exercise of the powers conferred upon him by sections 3, 4, 5 6, 7 and 9 of the Export Control Act 2005, section 23(g)(i) of the Interpretation and General Clauses Act and all other enabling powers, for the purpose of implementing Council Regulation (EU) No 2017/2063 of 13 November 2017 concerning restrictive measures in view of the situation in Venezuela, the Minister has made the following Order-
