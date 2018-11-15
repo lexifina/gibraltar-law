@@ -16,7 +16,7 @@ Acts.  1988-27 ss.2(2), 2(3), 4(1), 4(2), 13(1), 13(1A), 13(1B), 13(2), 13(4A), 
 
 1.6.1997 1998-50 s. 4(1B) 24.12.1998 2004-28 s. 2(1) 1.5.2004 2007-17 ss. 2(1), 12(1), 21(1), 24(1) 14.6.2007 2009-31 ss. 2(2), 3(5) & (7),  4(2A) 7 (4), 12(1)(a) & (1A), 13(1AA) & (1AAZ), 13A & 18(1)(aa)
 
-14.10.20101 LN. 2018/230 ss. 4(2)(b), (2A), 13(1A), (1AAZ) 25.10.2018
+14.10.20101 LN. 2018/230 ss. 4(2)(b), (2A), 13(1A), (1AAZ) 25.10.2018 Act. 2018-22 s. 2(1) 15.11.2018
 
 EU Legislation/International Agreements involved: Directive 72/166/EEC Directive 84/5/EEC Directive 90/232/EEC
 
@@ -58,7 +58,7 @@ Interpretation.
 
 “member state” means a state which is a member of the European Economic Community;
 
-“motor vehicle” means any vehicle propelled by  mechanical power whether constructed for use on  roads or otherwise and any trailer whether or not coupled thereto; but shall exclude any  mechanically propelled vehicle intended for  use on rails or specially prepared ways;
+“motor vehicle” means any vehicle propelled by  mechanical power whether constructed for use on  roads or otherwise and any trailer whether or not coupled thereto; but shall exclude any  mechanically propelled vehicle intended for  use on rails or specially prepared ways or excluded under section 2A of the Traffic Act 2005;
 
 “owner”, in relation to a vehicle which is the subject of a hiring agreement or a hire purchase agreement or a bill of sale, includes a
 
