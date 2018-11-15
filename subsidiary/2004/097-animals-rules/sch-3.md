@@ -4,7 +4,7 @@ Rule 16
 
 FORM OF LICENCE
 
-DOG LICENCE ISSUED UNDER THE ANIMALS AND BIRDS ACT
+DOG LICENCE ISSUED UNDER THE ANIMALS ACT
 
 Licence is hereby granted to . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -32,7 +32,7 @@ Licensing Officer.
 
 fee paid £__________ .
 
-Animals ANIMALS RULES AND BIRDS 2004
+Animals ANIMALS RULES 2004
 
 1948-30
 
