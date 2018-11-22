@@ -90,15 +90,23 @@ Class 3A “Royalties”
 
 (b) For the purposes of (a) royalties will be deemed to accrue and derive in Gibraltar where the company in receipt of the royalty is a company registered in Gibraltar.
 
+Class 3B “Income from Movable Property”
+
+(a) Subject to (b) below, any non-trading rental income arising from a movable property located outside of Gibraltar received or receivable by a company.
+
+(b) For the purposes of (a) above, any non-trading rental income arising from a movable property located outside of Gibraltar
+
+Income Tax
+
+2010-21 will be deemed to accrue in and derive from Gibraltar where the company in receipt of that income is a company registered in Gibraltar.
+
 Class 4
 
 “Pension, charge or annuity income”
 
 Any pension, charge or annuity that is not maintenance, alimony or other payment to a husband, wife or child made in compliance with an order of court or by reason of a deed of separation or an agreement related to separation.
 
-Income Tax
-
-2010-21 Class 5
+Class 5
 
 Sweeping Up Class
 
