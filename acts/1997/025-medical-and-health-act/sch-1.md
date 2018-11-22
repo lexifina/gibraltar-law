@@ -6,7 +6,7 @@ Section 4(2)
 
 1. The Board shall consist of–
 
-(a) The Public Health Director, who shall be the Chairman of the Board;
+(a) A qualified, diligent and experienced person appointed by the Minister as Chairman of the Board;
 
 (ab) one registered medical practitioner appointed by the Minister;
 
