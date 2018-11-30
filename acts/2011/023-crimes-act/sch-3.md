@@ -220,7 +220,7 @@ Crimes
 
 (C) made the subject of a community service order of at least 120 hours.
 
-35.  An offence under section 293 (Voyeurism) if
+35.  An offence under section 293 (Voyeurism) or section 293A (Voyeurism: additional offences) if
 
 (a) in the case of an offender under 18 - he is or has been sentenced in respect  of the offence to imprisonment for not less than 12 months;
 
@@ -254,7 +254,9 @@ Crimes
 
 Crimes
 
-2011-23 38.  An offence under section 66 of the Mental Health Act 2016 (Sexual intercourse with patients).
+2011-23
+
+38.  An offence under section 66 of the Mental Health Act 2016 (Sexual intercourse with patients).
 
 Crimes
 

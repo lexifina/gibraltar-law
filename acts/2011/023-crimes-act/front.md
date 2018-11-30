@@ -26,9 +26,11 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 Crimes
 
-2011-23 2017-10 s. 19(5)(c)(i) 13.6.2018 LN. 2018/148 Sch. 10 28.6.2018
+2011-23 2017-10 s. 19(5)(c)(i) 13.6.2018 LN. 2018/148 Sch. 10 28.6.2018 Act. 2018-24 ss. 293.A, 294(3), Sch. 3 30.11.20184
 
 Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU Directive 2013/40/EU
+
+4 Commencement notice see LN. 2018/271
 
 Crimes
 
