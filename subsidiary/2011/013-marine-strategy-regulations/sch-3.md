@@ -1,50 +1,60 @@
 SCHEDULE 3
 
-Regulations 7(3)(a), 8(2)(a), 9(2)(a)
+Table 1
 
-Indicative lists of characteristics, pressures and impacts
+Structure, functions and processes of marine ecosystems
 
-Table 1 Characteristics
+With particular relevance for point (a) of Regulation 6(1), and Regulations 7 and 9
 
-Physical and chemical Features — Topography and bathymetry of the seabed;
+Theme
 
-— annual and seasonal temperature regime and ice cover, current velocity, upwelling, wave exposure, mixing characteristics, turbidity, residence time;
+Ecosystem elements
 
-— spatial and temporal distribution of salinity;
+Possible parameters and characteristics (Note 1)
 
-— spatial and temporal distribution of nutrients (DIN, TN, DIP, TP, TOC) and oxygen;
+Relevant qualitative descriptors laid down in Schedule 1 (Notes 2 and 3)
 
-— pH, pCO2 profiles or equivalent information used to measure marine acidification.
+Species
 
-Habitat types —The predominant seabed and water column habitat type(s) with a description of the characteristic physical and chemical features, such as depth, water temperature regime, currents and other water movements, salinity, structure and substrata composition of the seabed;
+Species groups (Note 4) of marine birds, mammals, reptiles, fish and cephalopods of the marine region or subregion
 
-— identification and mapping of special habitat types, especially those recognised or identified under Community legislation (the Habitats Directive and the Birds Directive) or international conventions as being of special scientific or biodiversity interest;
+Spatial and temporal variation per species or population: - distribution, abundance and / or biomass - size, age and sec structure - fecundity, survival and mortality / injury rates - behaviour including movement and migration - habitat for the species (extent, suitability) Species composition of the group
 
-— habitats in areas which by virtue of their characteristics, location or strategic importance merit a particular reference. This may include areas subject to intense or specific pressures or areas which merit a specific protection regime.
+(1); (3)
 
-Biological features —A description of the biological communities
+Habitats
+
+Broad habitat types of the water column (pelagic) and seabed (benthic) (Note 5), or other habitat types, including their associated biological communities throughout the marine region or subregion
+
+Per habitat type: - habitat distribution and extent (and volume, if appropriate) - species composition, abundance and / or biomass (special and temporal variation) - size and age structure of species (if appropriate) - physical, hydrological and chemical characteristics Additionally for pelagic habitats: - chlorophyll a concentration
+
+(1); (6)
 
 Environment MARINE STRATEGY REGULATIONS 2011
 
 2005-27
 
-Subsidiary 2011/013 associated with the predominant seabed and water column habitats. This would include information on the phytoplankton and zooplankton communities, including the species and seasonal and geographical variability;
+Subsidiary 2011/013 - plankton boom frequencies and spatial extent
 
-— information on angiosperms, macro-algae and invertebrate bottom fauna, including species composition, biomass and annual/seasonal variability;
+Ecosystems, including food webs
 
-— information on the structure of fish populations, including the abundance, distribution and age/size structure of the populations;
+Ecosystem structure, functions and processes, compromising: - physical  and hydrological characteristics - chemical characteristics - biological characteristics - functions and processes
 
-— a description of the population dynamics, natural and actual range and status of species of marine mammals and reptiles occurring in the marine region or subregion;
+Notes related to Table 1
 
-— a description of the population dynamics, natural and actual range and status of species of seabirds occurring in the marine region or subregion;
+Note 1:An indicative list of relevant parameters and characteristics for species, habitats and ecosystems is given, reflective parameters affected by the pressures of Table 2 of this Schedule and of relevance to criteria laid down in accordance with Article 9(3) of the Directive.  The particular parameters and characteristics to be used for monitoring and assessment should be determined in accordance with the requirements of these Regulations, including those of its Regulations 6 to 9.
 
-— a description of the population dynamics, natural and actual range and status of other species occurring in the marine region or subregion which are the subject of Community legislation or international agreements;
+Note 2: The numbers in this column refer to the respective numbered points in Schedule 1.
 
-— an inventory of the temporal occurrence, abundance and spatial distribution of nonindigenous, exotic species or, where relevant, genetically distinct forms of native species, which are present in the marine region or subregion.
+Note 3: Only the state-based qualitative descriptors (1), (3), (4) and (6) which have criteria laid down in accordance with Article 9(3) of the Directive are listed in Table 1.  All other, pressure-based, qualitative descriptors under Schedule 1 may be relevant for each theme.
 
-Other features —A description of the situation with regard to chemicals, including chemicals giving rise to concern, sediment contamination, hotspots, health issues and  contamination of biota (especially biota meant for human consumption);
+Note 4: These species groups are further specified in Part II of the Annex to Commission Decision (EU) 2017/848 of 17 May 2017 laying down criteria and methodological standards on good environmental status of marine waters and specifications and standardised methods for monitoring and assessment, and repealing Decision 2010/477/EU.
 
-— a description of any other features or characteristics typical of or specific to the marine region or subregion.
+Note 5:These broad habitat types are further specified in Part II of the Annex to Decision (EU) 2017/848
+
+Table 2
+
+Anthropogenic pressures, uses and human activities in or affecting the marine environment
 
 Environment MARINE STRATEGY REGULATIONS 2011
 
@@ -52,59 +62,189 @@ Environment MARINE STRATEGY REGULATIONS 2011
 
 Subsidiary 2011/013
 
-Table 2 Pressure and impacts
+2a. Anthropogenic pressures on the marine environment With particular relevant for points (a) and (b) of Regulation 6(1), and Regulations 7, 8 and 9
 
-Physical loss —Smothering (e.g. by man-made structures, disposal of dredge spoil);
+Theme
 
-— sealing (e.g. by permanent constructions).
+Pressure (Note 1)
 
-Physical damage —Changes in siltation (e.g. by outfalls, increased run-off, dredging/disposal of dredge spoil);
+Possible parameters
 
-— abrasion (e.g. impact on the seabed of commercial fishing, boating, anchoring);
+Relevant qualitative descriptors laid down in Schedule 1 (Notes 2 and 3)
 
-— selective extraction (e.g. exploration and exploitation of living and non-living resources on seabed and subsoil).
+Biological
 
-Other physical disturbance
+Input or spread of non- indigenous species
 
-— Underwater noise (e.g. from shipping, underwater acoustic equipment);
+Intensity of, and spatial temporal variation in, the pressure in the marine environment and, where relevant, at source
 
-— marine litter.
+For assessment of environmental impacts of the pressure, select relevant ecosystem elements and parameters from Table 1
 
-Interference with hydrological processes
+(2)
 
-— Significant changes in thermal regime (e.g. by outfalls from power stations);
+Input of microbial pathogens
 
-— significant changes in salinity regime (e.g. by constructions impeding water movements, water abstraction).
+Input of genetically modified species and translocation of native species
 
-Contamination by hazardous substances
+Loss of, or change to, natural biological communities due to cultivation of animal or plant species
 
-— Introduction of synthetic compounds (e.g. priority substances under the Public Health (Water Framework) Rules 2004 which are relevant for the marine environment such as pesticides, antifoulants, pharmaceuticals, resulting, for example, from losses from diffuse sources, pollution by ships, atmospheric deposition and biologically active substances);
+Disturbance of species (e.g. where they breed, rest and feed) due to human presence
 
-— introduction of non-synthetic substances and compounds (e.g. heavy metals, hydrocarbons, resulting, for example, from pollution by ships and oil, gas and mineral exploration and exploitation,
+Extraction of, or mortality/injury to, wild species (by commercial and recreational fishing and other activities)
+
+(3)
+
+Physical
+
+Physical disturbance to seabed (temporary or reversible)
+
+(6); (7)
+
+Physical loss (due to permanent change of seabed substrate or morphology and to
 
 Environment MARINE STRATEGY REGULATIONS 2011
 
 2005-27
 
-Subsidiary 2011/013 atmospheric deposition, riverine inputs);
+Subsidiary 2011/013 extraction of seabed substrate)
 
-— introduction of radio-nuclides.
+Changes to hydrological conditions
 
-Systematic and/or intentional release of substances
+Substances, litter and energy
 
-— Introduction of other substances, whether solid, liquid or gas, in marine waters, resulting from their systematic and/or intentional release into the marine environment, as permitted in accordance with other Community legislation and/or international conventions.
+Input of nutrients – diffuse sources, point sources, atmospheric deposition
 
-Nutrient and organic matter enrichment
+(5)
 
-— Inputs of fertilisers and other nitrogen — and phosphorus-rich substances (e.g. from point and diffuse sources, including agriculture, aquaculture, atmospheric deposition);
+Input of organic matter – diffuse sources and point sources
 
-— inputs of organic matter (e.g. sewers, mariculture, riverine inputs).
+Input of other substances (e.g. synthetic substances, non-synthetic substances, radionuclides) – diffuse sources, point sources, atmospheric deposition, acute events
 
-Biological disturbance —Introduction of microbial pathogens;
+(8); (9)
 
-— introduction of non-indigenous species and translocations;
+Input of litter (solid waste matter, including micro- sized litter)
 
-— selective extraction of species, including incidental non-target catches (e.g. by commercial and recreational fishing).
+(10)
+
+Input of anthropogenic sound (impulsive, continuous)
+
+(11)
+
+Input of other forms of energy (including electromagnetic fields, light and heat)
+
+Input of water – point sources (e.g. brine)
+
+2b. Uses and human activities in or affecting the marine environment with particular relevant for points (b) and (c) of Article 8 (1) of the Directive when carrying out an assessment under Regulation 6(1) (only activities marked * are relevant for Regulation 6(2), and Regulations 8
+
+Environment MARINE STRATEGY REGULATIONS 2011
+
+2005-27
+
+Subsidiary 2011/013 and 10)
+
+Theme
+
+Activity
+
+Physical restructuring of rivers, coastline or seabed (water management)
+
+Land claim
+
+Canalisation and other watercourse modification
+
+Coastal defence and flood protection*
+
+Offshore structures (other than for oil/gas/renewables)*
+
+Restructuring of seabed morphology, including dredging and depositing of materials*
+
+Extraction of non-living resources
+
+Extraction of minerals (rock, metal ores, gravel, sand, shell)*
+
+Extraction of oil and gas, including infrastructure*
+
+Extraction of salt*
+
+Extraction of water*
+
+Production of energy Renewable energy generation (wind, wave and tidal power), including infrastructure*
+
+Non-renewable energy generation
+
+Transmission of electricity and communications (cables)*
+
+Extraction of living resources
+
+Fish and shellfish harvesting (professional, recreational)*
+
+Fish and shellfish processing*
+
+Marine plant harvesting*
+
+Hunting and collecting for other purposes*
+
+Cultivating of living resources
+
+Aquaculture – marine, including infrastructure*
+
+Aquaculture – freshwater
+
+Environment MARINE STRATEGY REGULATIONS 2011
+
+2005-27
+
+Subsidiary 2011/013
+
+Agriculture
+
+Forestry
+
+Transport
+
+Transport infrastructure*
+
+Transport – shipping*
+
+Transport – air
+
+Transport – land
+
+Urban and industrial uses
+
+Urban uses
+
+Industrial uses
+
+Waste treatment and disposal*
+
+Tourism and leisure
+
+Tourism and leisure infrastructure*
+
+Tourism and leisure activities*
+
+Security / Defence
+
+Military operations (subject to Regulation 3, subregulations (3) and (4))
+
+Education and research
+
+Research, survey and educational activities*
+
+Notes related to Table 2
+
+Note 1: Assessment of pressures should address their levels in the marine environment and, if appropriate, the rates of input (from land-based or atmospheric sources) to the marine environment.
+
+Note 2: The numbers in this column refer to the respective numbered points in Schedule 1.
+
+Note 3: Only pressure-based qualitative descriptors (2), (3), (5), (6), (7), (8), (9), (10), and (11), which have criteria laid down in accordance with Article 9(3) of the Directive, are listed in Table 2a.
+
+Environment MARINE STRATEGY REGULATIONS 2011
+
+2005-27
+
+Subsidiary 2011/013 All other, state-based, qualitative descriptors under Schedule 1 may be relevant for each theme.
 
 Environment MARINE STRATEGY REGULATIONS 2011
 

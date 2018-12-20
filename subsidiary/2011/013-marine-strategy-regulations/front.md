@@ -12,7 +12,7 @@ Commencement 10.2.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/149 rr. 2, 5(1), 10(3A), (4), (5) & 15(1A) 7.8.2014
+LN.  2014/149 rr. 2, 5(1), 10(3A), (4), (5) & 15(1A) 7.8.2014 2018/285 Sch. 3 20.12.2018
 
 EU Legislation/International Agreements involved: Directive 2008/56/EC
 
