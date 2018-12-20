@@ -1,24 +1,20 @@
-Social Security (Insurance) SOCIAL INSURANCE (CLAIMS AND PAYMENTS) REGULATIONS
+Subsidiary Legislation made under ss. 22, 37 and 38.
 
-1955-14
+Social Insurance (Claims and Payments) Regulations
 
-Subsidiary 1955.08.04-8 Regulations made under ss. 22, 37 and 38 of the Social Security (Insurance) Act.
+1955.08.04-8
 
-SOCIAL INSURANCE (CLAIMS AND PAYMENTS) REGULATIONS
+Commencement 3.10.1955
 
-(1955.08.04-8)
+Amending enactments Relevant current provisions Commencement date
 
-3.10.1955
+LN. 1973/061 rr.15, 18
 
-Amending enactments Relevant current provisions Commencement date LN. 1973/061 regs.15 and 18 1975/141 regs.7, 9(4), (8) and (9) 1980/139 regs. 9(1)-(3). (6) and (7), 10, 16(1), 17(2) and 18 and Sch.2
+1975/141 rr.7, 9(4), (8)-(9) 1980/139 rr. 9(1)-(3), (6)-(7), 10, 16(1), 17(2), 18, Sch.2
 
-1996/094 rr. 2, 4(2)(3), 6, 7(2), 8, 9, 11(2), Sch. 1 & 2. 26.9.1996 Act.  2011-29 Sch. 2 1.7.2009
+1996/094 rr. 2, 4(2)-(3), 6, 7(2), 8-9, 11(2), Schs.1-2 26.9.1996 Act. 2011-29 Sch. 2 1.7.2009 LN. 2018/280 r. 7(1), (1A) 20.12.2018
 
-Social Security (Insurance) SOCIAL INSURANCE (CLAIMS AND PAYMENTS) REGULATIONS
-
-1955-14
-
-Subsidiary 1955.08.04-8 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -29,7 +25,3 @@ SCHEDULE 1.
 Benefits under the Social Security (Employment Injuries Insurance) Act and the Social Security (Insurance) Act for which claims may be treated as interchangeable.
 
 SCHEDULE 2.
-
-Table of prescribed times for claiming benefit and disqualifications for late claim.
-
-Social Security (Insurance) SOCIAL INSURANCE (CLAIMS AND PAYMENTS) REGULATIONS
