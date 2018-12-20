@@ -16,9 +16,11 @@ Act. 2006-21 ss. 61(3), 62(4), 63(2) & 65(2), Part IV (ss.254-269), Schs. 2, 4 &
 
 20.7.2006 LN.  2013/1531 ss. 13A, 15(8), 16(2),(2)(b), (c), 209(1), 217(b),(c), 225A, 225B & 231
 
-1.11.2013 Act.   2014-04 s. 187 27.2.2014 LN.  2014/173 ss. 54A, 93A, 215, Schs. 1A & 5 29.10.2014 2016/107 s. 137(2)(a), (b) 12.5.2016 Act. 2017-10 ss. 39A-39F, 91(1) 13.6.2018
+1.11.2013 Act.   2014-04 s. 187 27.2.2014 LN.  2014/173 ss. 54A, 93A, 215, Schs. 1A & 5 29.10.2014 2016/107 s. 137(2)(a), (b) 12.5.2016 Act. 2017-10 ss. 39A-39F, 91(1) 13.6.2018 LN. 2018/286 ss. 39A(1)-(3), (5),  39B(1)-(9A), (12), (13), 39C(3)-(9), 39F(3), (7), (9), (9A), (12), 132(5), 189(1), 197A, 274(1), (9), (9A)
 
-Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU Directive 2012/28/EU Directive 2014/26/EU
+20.12.2018
+
+Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU Directive 2012/28/EU Directive 2014/26/EU Directive 2017/1564/EU
 
 1 Transitional and saving provisions as published in the Legal Notice are reproduced at the end of this Act.
 
@@ -274,11 +276,11 @@ Interpretation
 
 PART II DATABASE RIGHT
 
-189. Interpretation. 190. Database right. 191. The maker of a database. 192. First ownership of database right. 193. Acts infringing database right. 194. Term of protection. 195. Qualification for database right. 196. Avoidance of certain terms affecting lawful users. 197. Exceptions to database right. 198. Acts permitted on assumption as to expiry of database right. 199. Presumptions relevant to database right. 200. Application of copyright provisions.
+189. Interpretation. 190. Database right. 191. The maker of a database. 192. First ownership of database right. 193. Acts infringing database right. 194. Term of protection. 195. Qualification for database right. 196. Avoidance of certain terms affecting lawful users. 197. Exceptions to database right. 197A. Exceptions to database right: Marrakesh beneficiaries. 198. Acts permitted on assumption as to expiry of database right. 199. Presumptions relevant to database right.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22
+2005-22 200. Application of copyright provisions.
 
 PART III RIGHTS IN PERFORMANCES
 
@@ -302,11 +304,9 @@ Exceptions
 
 Duration of rights
 
-217. Duration of performer’s rights.
-
 Intellectual Property (Copyright and Related Rights)
 
-2005-22
+2005-22 217. Duration of performer’s rights.
 
 Performer’s property rights
 
@@ -324,11 +324,9 @@ Offences
 
 Extension of protection
 
-243. Countries enjoying reciprocal protection.
-
 Intellectual Property (Copyright and Related Rights)
 
-2005-22
+2005-22 243. Countries enjoying reciprocal protection.
 
 CHAPTER III MORAL RIGHTS
 
@@ -354,7 +352,9 @@ PART IV ARTISTS RESALE RIGHT
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 PART V MISCELLANEOUS AND GENERAL
+2005-22
+
+PART V MISCELLANEOUS AND GENERAL
 
 Circumvention of protection measures
 
@@ -384,11 +384,11 @@ SCHEDULE 2 Permitted acts to which section 274 applies.
 
 SCHEDULE 3 Application of Part II to other countries and territories.
 
-SCHEDULE 4 CALCULATION OF RESALE ROYALTY
+SCHEDULE 4
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22
+2005-22 CALCULATION OF RESALE ROYALTY
 
 SCHEDULE 5 COUNTRIES OUTSIDE THE EEA WHOSE NATIONALS MAY ENJOY RESALE RIGHT
 
