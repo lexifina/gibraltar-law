@@ -2,7 +2,7 @@ SCHEDULE 2 Regulation 7(2)
 
 ASSESSMENT METHODS FOR HARMFUL EFFECTS
 
-1. Dose-effect relations should be used to assess the effect of noise on populations. The dose-effect relations introduced by future revisions of this Schedule will concern in particular:
+1. Dose-effect relations should be used to assess the effect of noise on populations. The dose- effect relations introduced by future revisions of this Schedule will concern in particular:
 
 (a) the relation between annoyance and Lden for road and industrial noise,
 
@@ -21,9 +21,3 @@ ASSESSMENT METHODS FOR HARMFUL EFFECTS
 (e) tonal industrial noise,
 
 (f) impulsive industrial noise and other special cases.
-
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121

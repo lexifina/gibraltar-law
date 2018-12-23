@@ -32,17 +32,11 @@ Each of those applications requires a different type of strategic noise map.
 
 4. Minimum requirements for the strategic noise maps concerning the data to be sent to the Commission are set out in paragraph (e) of Schedule 5.
 
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121
-
 5. For the purposes of informing the citizen in accordance with regulation 10 and the development of action plans in accordance with regulation 9, additional and more detailed information must be given, such as:
 
 (a) a graphical presentation,
 
-(b) maps disclosing the exceeding of a limit value,
+(b)  maps disclosing the exceeding of a limit value,
 
 (c) difference maps, in which the existing situation is compared with various possible future situations,
 
@@ -51,9 +45,3 @@ Subsidiary 2006/121
 The Government may prescribe rules by notice in the Gazette on the types and formats of these noise maps.
 
 6. Strategic noise maps for application must be made for an assessment height of 4 m and the 5 dB ranges of Lden and Lnight as detailed in Schedule 6.
-
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121

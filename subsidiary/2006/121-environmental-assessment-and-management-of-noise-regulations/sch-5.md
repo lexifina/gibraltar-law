@@ -8,7 +8,7 @@ The data to be sent to the Commission in respect of major roads are as follows:
 
 (b) a characterisation of their surroundings: villages, countryside or otherwise, information on land use, other major noise sources;
 
-(c) noise-control programmes that have been carried out in the past and noise-measures in place;
+(c) noise-control programmes that have been carried out in the past and noise- measures in place;
 
 (d) the computation or measurement methods that have been used;
 

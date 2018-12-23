@@ -20,12 +20,6 @@ in which:
 
 - the start of the day (and consequently the start of the evening and the start of the night) shall be chosen by the Competent Authority (that choice shall be the same for noise from all sources); the default values are 07.00 to 19.00, 19.00 to 23.00 and 23.00 to 07.00 local time,
 
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121
-
 - a year is a relevant year as regards the emission of sound and an average year as regards the meteorological circumstances;
 
 and in which:
@@ -48,11 +42,7 @@ The height of the Lden assessment point depends on the application:
 
 The night-time noise indicator Lnight is the A-weighted long-term average sound level as defined in ISO 1996-2: 1987, determined over all the night periods of a year;
 
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121 in which:
+in which:
 
 - the night is eight hours as defined in paragraph 1,
 
@@ -84,14 +74,4 @@ In some cases, in addition to Lden and Lnight, and where appropriate Lday and Le
 
 - the noise contains strong tonal components,
 
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121 - the noise has an impulsive character.
-
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121
+- the noise has an impulsive character.

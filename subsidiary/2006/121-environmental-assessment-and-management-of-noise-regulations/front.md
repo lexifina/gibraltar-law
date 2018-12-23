@@ -1,16 +1,14 @@
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
+Subsidiary Legislation made under s.18.
 
-2005-27
+Environmental (Assessment and Management of Noise) Regulations 2006
 
-Subsidiary 2006/121 Subsidiary Legislation made under s. 18.
+LN.2006/121
 
-ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
+Commencement (LN.2006/134) 23.11.2006
 
-(LN. 2006/121)
+Amending enactments Relevant current provisions Commencement date LN. 2018/284 rr. 2, 7(1), (1A), 10(1) 31.12.2018
 
-23.11.2006   (LN. 2006/134)
-
-EU Legislation/International Agreements involved: Directive 2002/49/EC _____________________
+EU Legislation/International Agreements involved: Directive 2002/49/EC Directive 2015/996
 
 ARRANGEMENT OF REGULATIONS
 
@@ -28,8 +26,4 @@ SCHEDULE 4 Minimum requirements for action plans.
 
 SCHEDULE 5 Data to be sent to the Commission.
 
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121 In exercise of the powers conferred on it by section 18 of the Environment Act 2005 and all other enabling powers, the Government, for the purposes of transposing into the law of Gibraltar Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise, has made the following Regulations
+In exercise of the powers conferred on it by section 18 of the Environment Act 2005 and all other enabling powers, the Government, for the purposes of transposing into the law of Gibraltar Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise, has made the following Regulations

@@ -10,7 +10,7 @@ MINIMUM REQUIREMENTS FOR ACTION PLANS
 
 (c) the legal context,
 
-(d) any limit values in place in accordance with  regulation 6,
+(d) any limit values in place in accordance with regulation 6,
 
 (e) a summary of the results of the noise mapping,
 
@@ -24,19 +24,13 @@ MINIMUM REQUIREMENTS FOR ACTION PLANS
 
 (j) long-term strategy,
 
-(k) financial information (if available): budgets, cost-effectiveness assessment, cost-benefit assessment,
+(k) financial information (if available): budgets, cost-effectiveness assessment, cost- benefit assessment,
 
 (l) provisions envisaged for evaluating the implementation and the results of the action plan.
 
 2. The actions which the competent authority intend to take in the fields within their competence may include
 
 (a) traffic planning,
-
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121
 
 (b) land-use planning,
 
@@ -49,9 +43,3 @@ Subsidiary 2006/121
 (f) regulatory or economic measures or incentives.
 
 3. Each action plan should contain estimates in terms of the reduction of the number of people affected (annoyed, sleep disturbed, or other).
-
-Environment ENVIRONMENTAL (ASSESSMENT AND MANAGEMENT OF NOISE) REGULATIONS 2006
-
-2005-27
-
-Subsidiary 2006/121
