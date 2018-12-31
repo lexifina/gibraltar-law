@@ -12,7 +12,7 @@ Commencement 1.1.2013
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/141 rr. 3(1), 35A, Schs. 8, 10 & 12 31.7.2014 2015/168 Sch. 9 1.11.2015 2018/007 r. 3(1), Sch. 1 11.1.2018
+LN.  2014/141 rr. 3(1), 35A, Schs. 8, 10 & 12 31.7.2014 2015/168 Sch. 9 1.11.2015 2018/007 r. 3(1), Sch. 1 11.1.2018 2018/289 rr. 75A-75D 31.12.2018
 
 Transposing: Directive 2003/87/EC Directive 2004/101/EC Directive 2008/101/EC Directive 2009/29/EC Directive (EU) 2018/410
 
@@ -122,7 +122,7 @@ PART 9 THE UNION REGISTRY AND THE GIBRALTAR REGISTRY
 
 PART 10 SUPPLEMENTARY
 
-72. Recovery of fees. 73. Consequence for non-payment. 74. Guidance. 75. Revenue from auctioned allowances.
+72. Recovery of fees. 73. Consequence for non-payment. 74. Guidance. 75. Revenue from auctioned allowances. 75A. Financial measures. 75B. Reporting. 75C. Definitions for sections 75A and 75B. 75D. Rules and Regulations.
 
 PART 11 MISCELLANEOUS
 
@@ -136,13 +136,15 @@ SCHEDULE 3 Applications etc.
 
 SCHEDULE 4 Permits
 
-SCHEDULE 5 Excluded installations
-
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 SCHEDULE 6 Free allocation of allowances
+Subsidiary 2012/211
+
+SCHEDULE 5 Excluded installations
+
+SCHEDULE 6 Free allocation of allowances
 
 SCHEDULE 7 Allocation of aviation allowances
 
