@@ -12,7 +12,7 @@ The Tax at the Higher Rate.
 
 1.(1) Subject to subparagraph (2), any Company falling within paragraphs 3 to 17 of this Schedule shall be liable to pay tax at the higher rate of 20% of the taxable income of that company under this Act for each accounting period.
 
-(2) A company falling within paragraph 3 of this Schedule shall be liable to pay tax at the higher rate of 20% only on taxable income made from the provision of services described in subparagraphs (1) to (9) of paragraph 3.
+(2) A company falling within paragraph 3 of this Schedule shall be liable to pay tax at the higher rate of 20% only on taxable income made from the provision of services described in subparagraphs (1) to (9) of
 
 Recovery of tax at the higher rate.
 
@@ -34,9 +34,7 @@ local or international calls or both such calls where access to the network term
 
 Income Tax
 
-2010-21
-
-(2)  the provision in Gibraltar of a publicly available mobile telephone service (as this term is defined in Section 2 of the Communications Act 2006);
+2010-21 (2)  the provision in Gibraltar of a publicly available mobile telephone service (as this term is defined in Section 2 of the Communications Act 2006);
 
 (3)  the provision in Gibraltar of Asymmetrical Digital Subscriber Lines (ADSL);
 
@@ -68,9 +66,11 @@ Services of Telecommunications.
 
 (6) call through services.
 
+Application to providers/definitions.
+
 Income Tax
 
-2010-21 Application to providers/definitions.
+2010-21
 
 5.(1)  Paragraph 3(9) shall only apply to a provider of any one or more of the: services; equipment; premises, referred to in that paragraph who is a connected person (as this term is defined in Part III of Schedule 4) of the recipient of any one or more of those services; equipment; premises.
 
@@ -100,9 +100,11 @@ Application to providers/definitions.
 
 (a) “equipment”, without prejudice to its generality, includes a system or part of a system used for any one or more of: the generation; the distribution; the supply, of electricity; and
 
+(b) “services”, without prejudice to its generality, includes the provision of a treasury function.
+
 Income Tax
 
-2010-21 (b) “services”, without prejudice to its generality, includes the provision of a treasury function.
+2010-21
 
 Water.
 
@@ -138,9 +140,7 @@ Definitions.
 
 Income Tax
 
-2010-21
-
-(2) “services”, without prejudice to its generality, includes the provision of a treasury function.
+2010-21 (2) “services”, without prejudice to its generality, includes the provision of a treasury function.
 
 Sewage.
 

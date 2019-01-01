@@ -22,9 +22,9 @@ Amending enactments Relevant current provisions Commencement date Act. 2015-23 s
 
 Income Tax
 
-2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018
+2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019
 
-Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive (EU) 2016/2258
+Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258
 
 Income Tax
 
@@ -218,7 +218,9 @@ Part III
 
 Definitions
 
-8. Interpretation. 9. Connected persons. 10. Control. 11. Participator.
+8. Interpretation. 8A.
+
+9. Connected persons. 10. Control. 11. Participator.
 
 Part IV
 
@@ -226,11 +228,33 @@ Transfer of assets abroad
 
 12. Prevention of avoidance of Income Tax. 13. Liability of non-transferors. 14. Exemption from Paragraphs 12 and 13. 15. Interpretation of Paragraphs 12 to 14. 16. Supplemental provisions. 17. No duplication of charge.
 
+Part V
+
+Interest Limitation Rule
+
+18. Interest limitation rule.
+
+Part VI
+
+Controlled Foreign Company Rule
+
+19. Controlled foreign company rule. 20. Computation of controlled foreign company income.
+
+Part VII
+
+Hybrid Mismatch
+
+21. Hybrid Mismatch
+
 SCHEDULE 5
 
 Part I
 
 Parent and Subsidiary Company Directive
+
+Income Tax
+
+2010-21
 
 1. Interpretation. 2. Parent and subsidiary companies. 3. Corporation tax.
 
@@ -238,11 +262,7 @@ Part II
 
 Taxation applicable to Interest and Royalty payments made between associated companies of different Member States
 
-4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11.
-
-Income Tax
-
-2010-21 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
+4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
 
 TABLE A
 
@@ -262,17 +282,17 @@ Part 1
 
 Tax at the higher rate on utilities
 
-1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
+1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications.
+
+Income Tax
+
+2010-21 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
 
 Part II-Taxation on companies who abuse a dominant position
 
 18. The charge.
 
 SCHEDULE 7
-
-Income Tax
-
-2010-21
 
 BENEFITS IN KIND
 
@@ -292,7 +312,11 @@ Chapter 3
 
 Taxable benefits; vouchers and credit tokens
 
-7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies. 9. Credit tokens. 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
+7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies. 9. Credit tokens.
+
+Income Tax
+
+2010-21 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
 
 Chapter 4
 
@@ -304,10 +328,6 @@ Chapter 5
 
 Cars, vans and related benefits
 
-Income Tax
-
-2010-21
-
 20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use. 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
 
 Chapter 6
@@ -318,19 +338,23 @@ Taxable benefits; Loans
 
 Chapter 7
 
+Income Tax
+
+2010-21
+
 Taxable benefits; residual liability to charge
 
 37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
 
 Chapter 8
 
-Income Tax
-
-2010-21
-
 Exemptions; removal benefits and expenses.
 
 52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
+
+Income Tax
+
+2010-21
 
 Chapter 9
 
@@ -342,9 +366,7 @@ Chapter 10
 
 Miscellaneous
 
-Income Tax
-
-2010-21 79 Power to amend Schedule.
+79 Power to amend Schedule.
 
 SCHEDULE 8
 
@@ -370,17 +392,15 @@ Part II
 
 Transitional Provisions
 
-2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Deleted. 11. Liquidations, etc. 12. The surcharge/penalties.
+Income Tax
+
+2010-21 2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Deleted. 11. Liquidations, etc. 12. The surcharge/penalties.
 
 Part III
 
 Continuity of the law
 
-13. Continuity of the law. 14. Changes in the law. 15. Subordinate legislation. 16. Reference to re-written provisions.
-
-Income Tax
-
-2010-21 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
+13. Continuity of the law. 14. Changes in the law. 15. Subordinate legislation. 16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
 
 Schedule 10
 

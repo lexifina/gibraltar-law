@@ -302,7 +302,7 @@ Income Tax
 
 9.  Where there has been an advance, loan or payment which has been deemed to be income as if a dividend had been paid in accordance with section 15 of the Previous Act any balance of the deemed dividend which has not been satisfied by the payment of a dividend set off in accordance with section 15(2) of the Previous Act shall at the commencement of this Act be available for the purposes of giving relief under Section 22(2) of this Act.
 
-10. Deleted
+10.  Deleted
 
 Liquidation, etc.
 
