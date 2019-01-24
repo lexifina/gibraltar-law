@@ -12,7 +12,13 @@ THE CHEMICAL WEAPONS (SANCTIONS) ORDER 2019
 
 Commencement 9.1.2019
 
-Implementing: Council Regulation (EU) No 2018/1542
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/008
+
+Sch. 2 24.1.2019
+
+Implementing: Council Regulation (EU) No 2018/1542 Council Regulation (EU) 2019/84
 
 _______________________
 
@@ -26,15 +32,15 @@ Paragraph. Part 1 Preliminary
 
 Part 3 General
 
-7. Licences granted by the Minister. 8. Licences granted outside Gibraltar. 9. Claims for indemnity or under contract. 10. Evidence and information. 11. Functions of the Minister. 12. Circumvention and contravention of prohibitions. 13. Penalties. 14. Extra-territorial application of offences. 15. Proceedings. 16. Crown application.
-
-Schedule 1
+7. Licences granted by the Minister. 8. Licences granted outside Gibraltar. 9. Claims for indemnity or under contract. 10. Evidence and information. 11. Functions of the Minister.
 
 Export Control THE CHEMICAL WEAPONS (SANCTIONS) ORDER 2019
 
 2005-33
 
-Subsidiary 2019/001 Evidence and information
+Subsidiary 2019/001 12. Circumvention and contravention of prohibitions. 13. Penalties. 14. Extra-territorial application of offences. 15. Proceedings. 16. Crown application.
+
+Schedule 1 Evidence and information
 
 Schedule 2
 

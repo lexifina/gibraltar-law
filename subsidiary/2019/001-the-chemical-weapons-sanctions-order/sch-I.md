@@ -1,3 +1,35 @@
 Annex I
 
 LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 2 OF COUNCIL REGULATION (EU) 2018/1542
+
+A. NATURAL PERSONS
+
+Name
+
+Identifying information
+
+Grounds for designation
+
+Date of listing 1. Tariq YASMINA
+
+a.k.a.: Tarq Yasmina Gender: male; Title: Colonel; Nationality: Syrian Tariq Yasmina acts as the liaison officer between the Scientific Studies and Research Centre (SSRC) and the Presidential Palace, and, as such, is involved in the use and preparations for the use of chemical weapons by the Syrian regime. 21.1.2019 2. Khaled NASRI a.k.a.: Mohammed Khaled Nasri; Haled Natsri; Gender: male; Title: Head of Institute 1000 of the SSRC; Nationality: Syrian Khaled Nasri is the Director of Institute 1000, the division of the Scientific Studies and Research Centre (SSRC) responsible for developing and producing computer and electronic systems for Syria's chemical weapons programme. 21.1.2019 3. Walid ZUGHAIB a.k.a.: Zughib, Zgha'ib, Zughayb; Title: Doctor, Head of Institute 2000 of the SSRC; Gender: male; Nationality: Syrian Walid Zughaib is the Director of Institute 2000, the division of the Scientific Studies and Research Centre (SSRC) responsible for mechanical development and production for Syria's chemical weapons programme. 21.1.2019 4. Firas AHMED a.k.a.: Ahmad; Title: Colonel, Head of Security Office at Institute 1000 of the SSRC; Gender: male; Date of birth: 21 January 1967; Nationality: Syrian Firas Ahmed is the Director of the Security Office of Institute 1000, the division of the Scientific Studies and Research Centre (SSRC) responsible for developing and producing computer and electronic systems for Syria's chemical weapons programme. He was involved in transferring and concealing chemical weapons related materials following Syria's accession to the Chemical Weapons Convention. 21.1.2019 5. Said SAID a.k.a.: Saeed, Sa'id Said Said is a significant figure 21.1.2019
+
+Export Control THE CHEMICAL WEAPONS (SANCTIONS) ORDER 2019
+
+2005-33
+
+Subsidiary 2019/001 Sa'id, Title: Doctor, member of Institute 3000 (a.k.a. institute 6000 a.k.a. Institute 5000) of the SSRC; Gender: male; Date of birth: 11 December 1955 in Institute 3000 a.k.a Institute 6000 a.k.a. Institute 5000, the division of the Scientific Studies and Research Centre (SSRC) that is responsible for developing and producing Syria's chemical weapons. 6. Anatoliy Vladimirovich CHEPIGA Анатолий Владимирович ЧЕПИГА, a.k.a.: Ruslan BOSHIROV Gender: male; Dates of birth: 5 April 1979; 12 Apr 1978; Places of Birth: Nikolaevka, Amur Oblast, Russia; Dushanbe, Tajikistan GRU Officer Anatoliy Chepiga (a.k.a. Ruslan Boshirov) possessed, transported and then, during the weekend of 4 March 2018, in Salisbury, used a toxic nerve agent (“Novichok”). On 5 September 2018, the UK Crown Prosecution Service charged Ruslan Boshirov for conspiracy to murder Sergei Skripal; for the attempted murder of Sergei Skripal, Yulia Skripal and Nick Bailey; for the use and possession of Novichok; and for causing grievous bodily harm with intent to Yulia Skripal and Nick Bailey. 21.1.2019 7.Alexander Yevgeniyevich MISHKIN Александр Евгеньевич МИШКИН, a.k.a.: Alexander PETROV Gender: male; Date of birth:13 July 1979; Places of Birth: Loyga, Russia; Kotlas, Russia GRU Officer Alexander Mishkin (a.k.a. Alexander Petrov) possessed, transported and then, during the weekend of 4 March 2018, in Salisbury, used a toxic nerve agent (“Novichok”). On 5 September 2018, the UK Crown Prosecution Service charged Alexander Petrov for conspiracy to murder Sergei Skripal; for the attempted murder of Sergei Skripal, Yulia Skripal and Nick Bailey; for the use and possession of Novichok; and for causing grievous bodily harm with intent to Yulia Skripal and Nick Bailey. 21.1.2019 8. Vladimir Stepanovich ALEXSEYEV Владимир Степанович АЛЕКСЕЕВ Gender: male; Title: First Deputy Head of the GRU Vladimir Stepanovich Alexseyev is the First Deputy Head of the GRU (a.k.a. GU). Given his senior leadership role in the GRU, Alexseyev is responsible for the possession, transport and use in Salisbury during the weekend of 4 March 2018 of the toxic nerve agent “Novichok” by officers from the GRU. 21. 1.19 9. Igor Olegovich KOSTYUKOV Игорь Олегович КОСТЮКОВ Gender: male; Title: Head of the GRU Igor Olegovich Kostyukov, given his senior leadership role as First Deputy Head of the GRU (a. k. a. GU) at that time, 21.1.2019
+
+Export Control THE CHEMICAL WEAPONS (SANCTIONS) ORDER 2019
+
+2005-33
+
+Subsidiary 2019/001
+
+is responsible for the possession, transport and use in Salisbury during the weekend of 4 March 2018 of the toxic nerve agent “Novichok” by officers from the GRU.
+
+B. LEGAL PERSONS, ENTITIES AND BODIES
+
+Name
+
+Identifying information Grounds for designation Date of listing 1. Scientific Studies and Research Centre (SSRC) a.k.a.: Centre d'Études et de Recherches Scientifiques (CERS), Centre de Recherche de Kaboun Address: Barzeh Street, Po Box 4470, Damascus The Scientific Studies and Research Centre (SSRC) is the Syrian regime's principal entity for the development of chemical weapons. The SSRC is responsible for the development and production of chemical weapons, as well as the missiles to deliver them, operating at a number of sites in Syria. 21.1.2019
