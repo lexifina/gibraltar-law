@@ -22,17 +22,15 @@ Act. 1972-06 s. 2
 
 1972-18 s. 5 1973-20 s. 55(1) 1976-31 s. 43(2) 1982-14 s. 54(2) 1991-04 ss. 2, 23(b) 4.4.1991 1992-12 s. 23 31.12.1992 1993-26 s. 8A 1.12.1993 1993-25 s. 23 9.12.1993 1997-35 s. 24 30.10.1997 2004-22 s. 5A 1.5.2004 2007-17 ss. 2, 44(1), 70 & 73 14.6.2007 2007-32 ss. 2-3, 8A, 13, 23, heading to Part V, 36-38, 40-41, 43-45, 46(2), 48-49, 57(2), 58(1), 64, 67
 
-5.7.2007 LN. 2013/133 s. 44(1) 26.9.2013
-
-English sources
-
-None cited
-
-NOTE. Orders declaring public and bank holidays made under the Banking and Financial Dealings Act and the Interpretation and General Clauses Act appear under the title “Banking and Financial Dealings.” Public holidays are
+5.7.2007 LN. 2013/133 s. 44(1) 26.9.2013 Act. 2019-01 ss. 2, 2A 31.1.2019
 
 Interpretation and General Clauses
 
-1962-08 also prescribed by the Employment (Annual and Public Holidays) Order, which appears under the title “Employment.”
+1962-08 English sources
+
+None cited
+
+NOTE. Orders declaring public and bank holidays made under the Banking and Financial Dealings Act and the Interpretation and General Clauses Act appear under the title “Banking and Financial Dealings.” Public holidays are also prescribed by the Employment (Annual and Public Holidays) Order, which appears under the title “Employment.”
 
 Interpretation and General Clauses
 
@@ -50,7 +48,7 @@ Section
 
 PART I. GENERAL PROVISIONS OF INTERPRETATION.
 
-2. Interpretation of specific words and phrases. 3. Repealed 4. Reference to Admiralty, War Department, Air Ministry, etc. 5. References to European Communities, treaties and institutions. 5A. References to European Economic Area Agreement. 6. Grammatical and cognate expressions. 7. Gender and number. 8. Meaning of service by post. 8A. Rectification and correction of registers.
+2. Interpretation of specific words and phrases. 2A. Retained direct EU legislation. 3. Repealed 4. Reference to Admiralty, War Department, Air Ministry, etc. 5. References to European Communities, treaties and institutions. 5A. References to European Economic Area Agreement. 6. Grammatical and cognate expressions. 7. Gender and number. 8. Meaning of service by post. 8A. Rectification and correction of registers.
 
 PART II. GENERAL PROVISIONS AS TO ACTS.
 
@@ -58,11 +56,11 @@ PART II. GENERAL PROVISIONS AS TO ACTS.
 
 PART III. SUBSIDIARY LEGISLATION.
 
-21. Construction of subsidiary legislation. 22. Exercise of statutory powers between passing and commencement of Act. 23. Provisions respecting the making of subsidiary legislation. 24. Retrospective effect of subsidiary legislation. 25. Acts done under subsidiary legislation to be deemed done under Act by which subsidiary legislation authorised. 26. Fees.
+21. Construction of subsidiary legislation. 22. Exercise of statutory powers between passing and commencement of Act. 23. Provisions respecting the making of subsidiary legislation. 24. Retrospective effect of subsidiary legislation. 25. Acts done under subsidiary legislation to be deemed done under Act by which subsidiary legislation authorised.
 
 Interpretation and General Clauses
 
-1962-08 27. References to Acts to include references to subsidiary legislation. 28. Power of Parliament in relation to subsidiary legislation.
+1962-08 26. Fees. 27. References to Acts to include references to subsidiary legislation. 28. Power of Parliament in relation to subsidiary legislation.
 
 PART IV. COMMENCEMENT AND REPEALS.
 
@@ -82,7 +80,9 @@ PART VII. POWERS AND APPOINTMENTS.
 
 Interpretation and General Clauses
 
-1962-08 PART VIII. TIME, DISTANCE AND PUBLIC HOLIDAYS.
+1962-08
+
+PART VIII. TIME, DISTANCE AND PUBLIC HOLIDAYS.
 
 54. Computation of time. 55. Provisions when no time prescribed. 56. Measurement of distances. 57. Summer time. 58. Public holidays.
 
