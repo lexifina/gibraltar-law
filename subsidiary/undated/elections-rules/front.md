@@ -24,7 +24,9 @@ LN. 1980/005 rr. 2, 6(3), 27(1), 33, 38(1) and Sch.
 
 1983/068 rr. 2, 14(2), 16(2) and (3), 34 and 48
 
-1987/147 rr. 9(1), 34(1) 5.11.1987 2007/114 r. 44 20.9.2007
+1987/147 rr. 9(1), 34(1) 5.11.1987 2007/114 r. 44 20.9.2007 2019/020 rr. 2, 14(2), 15(2)(c) – (e), 16(1) & (2), 21(3), 27(1), 27(1)(a) – (d), 29, 30, 31(1), 33A, 36, 40(4), 48(c), 48(g), Sch
+
+31.1.2019
 
 Parliament ELECTIONS RULES
 
@@ -58,7 +60,7 @@ Parliament ELECTIONS RULES
 
 Subsidiary 1950.07.20-1 The Poll
 
-24. Admission to polling stations. 25. Keeping of order in station. 26. Sealing of ballot boxes. 27. Question to be put to voters. 28. Challenge of voter. 29. Voting procedure. 30. Method of voting. 31. Votes marked by the presiding officer. 32. Voting by blind persons. 33. Absentee voting by incapacitated persons. 34. Postal voters. 35. Tendered ballot papers. 36. Spoilt ballot papers. 37. Adjournment of poll in case of riot. 38. Procedure on close of poll.
+24. Admission to polling stations. 25. Keeping of order in station. 26. Sealing of ballot boxes. 27. Question to be put to voters. 28. Challenge of voter. 29. Voting procedure. 30. Method of voting. 31. Votes marked by the presiding officer. 32. Voting by blind persons. 33. Absentee voting by incapacitated persons. 33A Proxy Voting 34. Postal voters. 35. Tendered ballot papers. 36. Spoilt ballot papers. 37. Adjournment of poll in case of riot. 38. Procedure on close of poll.
 
 Counting of votes
 
@@ -78,7 +80,9 @@ Parliament ELECTIONS RULES
 
 1950-15
 
-Subsidiary 1950.07.20-1 51. General duty of returning officer. 52. Powers and savings.
+Subsidiary 1950.07.20-1
+
+51. General duty of returning officer. 52. Powers and savings.
 
 SCHEDULE Forms
 

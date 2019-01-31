@@ -154,7 +154,9 @@ Form of back of Ballot Paper
 
 No.
 
-Elections of Members of the Parliament
+(the official mark)
+
+Election of Members of the Parliament
 
 . . . . . . . . . . . day of. . . . . . . . . . 20 . . . . . . . .  .
 
@@ -188,17 +190,17 @@ Rule 21(4)
 
 DIRECTIONS FOR THE GUIDANCE OF VOTERS.
 
-1. The voter may vote for not more than. . . . . . . candidate(s).
+1. The voter or proxy voter may vote for not more than. . . . . . . candidate(s).
 
-2. The voter should see that the ballot paper is marked with the official mark before it is handed to him.
+2. The voter or proxy voter should see that the ballot paper is marked with the official mark before it is handed to him.
 
-3. The voter will go into one of the compartments and, with the pencil provided in the compartment, place a cross on the right-hand side of the ballot paper, opposite the name of each candidate for whom he votes.
+3. The voter or proxy voter will go into one of the compartments and, with the pencil provided in the compartment, place a cross on the right-hand side of the ballot paper, opposite the name of each candidate for whom he votes.
 
-4. The voter will then fold up the ballot paper so as to show the official mark on the back thereof, and leaving the compartment will, without showing the front of the paper to any person, show such official mark to the presiding officer, and will then, in the presence of the presiding officer, put the paper into the ballot box, and will forthwith leave the polling station.
+4. The voter or proxy voter will then fold up the ballot paper so as to show the official mark on the back thereof, and leaving the compartment will, without showing the front of the paper to any person, show such official mark to the presiding officer, and will then, in the presence of the presiding officer, put the paper into the ballot box, and will forthwith leave the polling station.
 
-5. If the voter inadvertently spoils a ballot paper he may return it to the officer, who will, if satisfied of such inadvertence, give him another paper.
+5. If the voter or proxy voter inadvertently spoils a ballot paper he may return it to the officer, who will, if satisfied of such inadvertence, give him another paper.
 
-6. If the voter votes for more than. . . . . . . candidate(s) or places any mark on the paper by which he may afterwards be identified, his ballot paper will be void, and it will not be counted.
+6. If the voter or proxy voter votes for more than. . . . . . . candidate(s) or places any mark on the paper by which he may afterwards be identified, his ballot paper will be void, and it will not be counted.
 
 7. A voter who fraudulently takes a ballot paper out of a polling station or fraudulently puts into the ballot box any paper other than the one given to him by the officer, is liable on conviction to imprisonment for six months and to a fine of £100.
 
@@ -210,13 +212,11 @@ FORM OF DECLARATION OF SECRECY.
 
 Rule  23
 
-I solemnly promise and declare that I will not at this election do anything forbidden by section 48 of the Elections Act, which section I have read.
-
 Parliament ELECTIONS RULES
 
 1950-15
 
-Subsidiary 1950.07.20-1
+Subsidiary 1950.07.20-1 I solemnly promise and declare that I will not at this election do anything forbidden by section 48 of the Elections Act, which section I have read.
 
 FORM G.
 
@@ -279,3 +279,17 @@ In the presence of me
 I, (name of medical practitioner) of (address), being a duly qualified medical practitioner, hereby certify that by reason of physical infirmity, the above named (name of applicant) will be unable to leave his/her place of abode to go to a polling station on (date of election).
 
 Dated this . . . . . . ay of. . . . . . . .  20     . (Signature) Medical Practitioner.
+
+Parliament ELECTIONS RULES
+
+1950-15
+
+Subsidiary 1950.07.20-1
+
+FORM I Rule 33A
+
+Parliament ELECTIONS RULES
+
+1950-15
+
+Subsidiary 1950.07.20-1
