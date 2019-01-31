@@ -1,30 +1,20 @@
-Export Control TUNISIA SANCTIONS ORDER 2016
+Subsidiary Legislation made under ss.3 & 7.
 
-2005-33
+Tunisia Sanctions Order 2016
 
-Subsidiary 2016/026 Subsidiary Legislation made under s. 3 and 7 of the Export Control Act 2005 and section 23(g)(i) of the Interpretation and General Clauses Act.
-
-TUNISIA SANCTIONS ORDER 2016
-
-(LN. 2016/026)
+LN.2016/026
 
 Commencement 12.2.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/020 Sch. 2.2.2017 2018/029 Sch. 2.2.2018
+LN. 2017/020 Sch. 2.2.2017 2018/029 Sch. 2.2.2018 2019/019 Sch. 31.1.2019
 
 Transposing:
 
 Council Regulation (EU) No 101/2011 Regulation (EU) 2016/111 Regulation (EU) 2017/149 Regulation (EU) No 2018/137
 
-Export Control TUNISIA SANCTIONS ORDER 2016
-
-2005-33
-
-Subsidiary 2016/026
-
-ARRANGEMENTS OF PARAGRAPHS
+ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 
@@ -34,8 +24,4 @@ SCHEDULE
 
 List of persons and entities referred to in Article 2 of the regulation
 
-Export Control TUNISIA SANCTIONS ORDER 2016
-
-2005-33
-
-Subsidiary 2016/026 In exercise of the powers conferred upon him by sections 3 and 7 of the Export Control Act 2005 and section 23(g)(i) of the Interpretation and General Clauses Act and for the purpose implementing Council Regulation (EU) No 101/2011 of 4 February 2011 of 4 February 2011 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Tunisia as amended by Council Implementing Regulation (EU) 2016/111 of 28 January 2016 concerning restrictive measures in view of the situation in Tunisia, the Minister has made the following Order–
+In exercise of the powers conferred upon him by sections 3 and 7 of the Export Control Act 2005 and section 23(g)(i) of the Interpretation and General Clauses Act and for the purpose implementing Council Regulation (EU) No 101/2011 of 4 February 2011 of 4 February 2011 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Tunisia as amended by Council Implementing Regulation (EU) 2016/111 of 28 January 2016 concerning restrictive measures in view of the situation in Tunisia, the Minister has made the following Order–
