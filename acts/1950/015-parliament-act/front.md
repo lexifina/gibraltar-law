@@ -40,7 +40,9 @@ Parliament
 
 14.6.2007 2007-30 ss. 2(a)-(b), 3(1), (3), 4(2)-(4), 5(1), 6, 7(3), 14(1), 17, 20(1), (4), 22, 22A, 23, 25(1)-(2), 86, 88, 91(1)(b), 100, Schs. 2, 3
 
-28.6.2007 2015-06 s. 94(1)(a)-(b) 26.2.2015 2016-07 ss. 89A-89B 10.3.2016
+28.6.2007 2015-06 s. 94(1)(a)-(b) 26.2.2015 2016-07 ss. 89A-89B 10.3.2016 2019-02 ss. 3(1), (1C), (2)-(4), 5(1), (1A), (2), (b), (d), (3)-(6), 6, 19, 25(1)(eb)-(ec), 48(3)-(4)
+
+31.1.2019
 
 English sources
 
@@ -88,7 +90,7 @@ The franchise
 
 Registration of electors
 
-4. Registration officer. 5. Register of electors. 6. Supplements to the register. 7. Registration expenses. 8. Appeals from the registration officer.
+4. Registration officer. 5. Register of electors. 6. Maintenance of Register. 7. Registration expenses. 8. Appeals from the registration officer.
 
 Eligibility of public officers
 
@@ -252,7 +254,7 @@ Provided that a person shall not be entitled to vote as an elector unless regist
 
 (e)  he is a person serving in Gibraltar in any of Her Majesty’s armed forces (other than the Gibraltar Regiment constituted under the Gibraltar Regiment Act2), or the spouse of such person;
 
-Provided further that a person who has not attained the age of eighteen years on the qualifying date fixed for the register or for any supplement prepared and published under section 6 shall, if he will have attained such age on or before such later date as may be prescribed in an order made by the Minister, be entitled to be included in the register or supplement as the case may be and to vote at any election which takes place after he has attained the age of eighteen years and before the register (including the supplement) ceases to have effect.
+Provided further that a person who has not attained the age of eighteen years and/or not complied with the qualifying period requirements shall, if he will have attained such age and/or qualifying period requirements on or before the date fixed for an election, be entitled to be included in the register and to vote at any election which takes place after he has attained the age of eighteen and after he has complied with the qualifying period requirements.
 
 (1A) In determining questions arising under subsection (1)(i) as to whether a person has lived in Gibraltar during the whole of the qualifying period, regard shall be had to the purpose and other circumstances, as well as to the fact, of his presence in or absence from Gibraltar.
 
@@ -270,11 +272,13 @@ Parliament
 
 (c)  where a person is stationed in Gibraltar for the principal purpose of carrying on a business, profession or occupation, and his spouse and children, if any, have their home outside Gibraltar, he shall be presumed to intend to live permanently or indefinitely in the latter place.
 
-(2) The qualifying period shall be a continuous period of six months ending on and including the qualifying date.
+(1C) For the purposes of sub-section (1)(i) the registration officer shall have the power to require the applicant applying for registration in the register for such documentation and proof as the registration officer shall deem fit showing that the applicant has lived in Gibraltar during the whole of the qualifying period.
 
-(3)  The Minister may from time to time by order published in the Gazette appoint a date to be the qualifying date for the purpose of this section.
+(2) An applicant wishing to be included in the register of electors must have been continuously living in Gibraltar for a period of not less than six months prior to the date on which his application for registration in the register of electors is received by the registration officer (in this Act referred to as ‘the qualifying period’).
 
-(4)  The expression “qualifying date” means such date in relation to a register or supplement as the Minister may, by order published in the Gazette, provide.
+(3)  Deleted.
+
+(4)  Deleted.
 
 Registration of electors
 
@@ -290,47 +294,53 @@ Registration officer.
 
 Register of electors.
 
-5(1) It shall be the duty of the registration officer to prepare and publish a register of electors in the year 2007 and every fourth year thereafter and every such register shall-
-
 Parliament
 
 1950-15
 
-(a) be prepared in accordance with the rules made under the provisions of this Act;
+5(1) It shall be the duty of the registration officer to prepare and publish a register of electors in the year 2019 and such a register shall-
 
-(b) be published not later than the 1st day of August in the years in which it is prepared;
+(a) be prepared and maintained in accordance with the provisions of this Act and with any rules made under the provisions of this Act;
 
-(c) come into force immediately upon publication; and
+(b) be published not later than the 1st June 2019; and
 
-(d) remain in force until the register next compiled is published:
+(c) come into force immediately upon publication.
 
-Provided that the Minister may by order published in the Gazette, vary all or any of the times and dates mentioned in this section and in any rules made under the provisions of this Act and may substitute other times and dates in lieu thereof.
+(1A) The register of electors published pursuant to the provisions of section 5(1)(b) shall be amended after the date of its publication as and when-
 
-(2)  With a view to the preparation of the register, the registration officer shall –
+(a) the registration officer receives an application for registration in the register from an applicant who the registration officer deems is entitled to be registered in the register of electors pursuant to the provisions of section 3; or
+
+(b) the registration officer receives and accepts from a person registered in the register of electors a duly completed form notifying the registration officer of their change of particulars;
+
+Provided always that any application for registration or amendment received 5 days or less before an election shall be disregarded by the registration officer until after the election has been held.
+
+(2)  With a view to the preparation of the register published pursuant to the provisions of section 5(1)(b) and thereafter whenever deemed necessary by the registration officer, the registration officer shall –
 
 (a)  have a house to house or other sufficient enquiry made in Gibraltar as to the persons entitled to be registered;
 
-(b)  publish in the Gazette and in any such other manner as in his opinion is best calculated to bring it to the attention of the electors a notice that within the period of one month next following the date of publication he will receive applications in the prescribed form from persons claiming to be entitled to be registered by virtue of a non-residence qualification;
+(b)  publish in the Gazette and in any such other manner as in his opinion is best calculated to bring it to the attention of the electors a notice that within the period of one month next following the date of publication he will receive applications in the prescribed form from persons claiming to be entitled to be registered;
 
 (c)  prepare and publish an electors list showing the persons appearing to him to be entitled to be registered; and
-
-(d)  determine all claims for registration duly made by any person, and all objections to any person’s registration duly made by another person appearing from the electors list to be himself entitled to be registered.
-
-(3) The registration officer must on or before the 1st June 2020 and on or before the 1st June each year thereafter prepare and publish the register of electors by making copies available at any of the place or places which he may deem fit.
-
-(4)  The register published in accordance with the provisions of section 5(3) shall include all additions to and changes of particulars made to the register of electors during the period from and including the date on which
 
 Parliament
 
 1950-15
 
-Supplements to the register.
+(d)  determine all claims for registration duly made by any person.
 
-6.(1) The Minister may, from time to time, by order published in the Gazette, provide for the preparation and publication of a supplement to the register of electors which will include and supersede and previous supplement.
+(3) The registration officer must on or before the 1st June 2020 and on or before the 1st June each year thereafter prepare and publish the register of electors by making copies available at any of the place or places which he may deem fit.
 
-(2)  The person entitled to be included in the supplement shall be those persons entitled by virtue of section 3 to be included in the register and to vote but who are not included in the register.
+(4)  The register published in accordance with the provisions of section 5(3) shall include all additions to and changes of particulars made to the register of electors during the period from and including the date on which the register was previously published to the date of the next publication of the register.
 
-(3)  Until such time as a new register is prepared and published under the provisions of section 5, the register and nay supplement thereto shall constitute the register of electors and any reference in this Act or any rules made thereunder to the register or list of electors shall be construed as extending to and including the supplement
+(5)  The register published pursuant to the provisions of sub-section 5(1) and (3) shall not contain the electoral registration number of each elector on the register but save as to that particular all other details on the register shall be published.
+
+(6)  The register published pursuant to the provisions of section 5(1) as amended from time to time in accordance with the provisions of section 5 shall constitute and continue to constitute the register of electors.
+
+Maintenance of Register.
+
+6.(1) The registration officer must on or before the 15th January 2020 and on or before the 15th January of each year thereafter publish in such a manner as he may deem fit a notice informing the members of the public that he has published a list of amendments to the register of electors.
+
+(2)  The list of amendments must set out the additions to and changes of particulars made to the register of electors during the six month period since the last publication of the register in accordance with the provisions of section 5(3).
 
 Registration expenses.
 
@@ -338,17 +348,15 @@ Registration expenses.
 
 (2)  Any fees or other sums received by the registration officer in respect of his registration duties, other than sums paid to that officer in respect of his registration expenses, shall be accounted for by that officer and paid into the Consolidated Fund.
 
-(3)  Registration expenses shall include all proper and reasonable charges for the registration officer’s own personal remuneration for performing his registration duties and for the remuneration and expenses of any staff provided to enable him to perform them, but shall not include any sum on account of the use of premises, furniture or equipment provided by the Government in excess of the amount by which the Government’s expenditure has actually and directly been increased by the use of those premises or of that furniture or equipment in connection with registration.
+Parliament
+
+1950-15 (3)  Registration expenses shall include all proper and reasonable charges for the registration officer’s own personal remuneration for performing his registration duties and for the remuneration and expenses of any staff provided to enable him to perform them, but shall not include any sum on account of the use of premises, furniture or equipment provided by the Government in excess of the amount by which the Government’s expenditure has actually and directly been increased by the use of those premises or of that furniture or equipment in connection with registration.
 
 Appeals from the registration officer.
 
 8.(1)  An appeal shall lie to the court from any decision of the registration officer on any claim for registration or objection to a person’s registration made to and considered by him under this Act:
 
-Provided that an appeal shall not lie where the person desiring to appeal has not availed himself of his right to be heard by or to make representations
-
-Parliament
-
-1950-15 to the registration officer on the matter which is the subject of the appeal, or has not given notice of appeal within the prescribed time.
+Provided that an appeal shall not lie where the person desiring to appeal has not availed himself of his right to be heard by or to make representations to the registration officer on the matter which is the subject of the appeal, or has not given notice of appeal within the prescribed time.
 
 (2)  Any power given under this section to the court may be exercised by the Chief Justice in chambers.
 
@@ -360,6 +368,10 @@ Parliament
 
 (6)  Every appeal under this section shall be prosecuted, heard and determined by the court in such manner and in accordance with such rules of procedure as may be prescribed by rules of court made in the like manner as rules made under and for the purposes of the Supreme Court Act, and the costs of every such appeal shall be at the discretion of the court;
 
+Parliament
+
+1950-15
+
 Provided that costs shall not be awarded against the registration officer.
 
 Eligibility of public officers
@@ -370,13 +382,7 @@ Public officers who may be elected members.
 
 Public officers who may be candidates for election.
 
-10.(1)  A person may stand as a candidate for election as an elected member of the Parliament, notwithstanding that he holds or is acting in any public office or class of public office specified in Schedule 2, if he undertakes in accordance with this section to relinquish and cease to act in any public
-
-Parliament
-
-1950-15
-
-office (other than any public office referred  to or of a class referred to in section 9) if he is elected as an elected member of the Parliament.
+10.(1)  A person may stand as a candidate for election as an elected member of the Parliament, notwithstanding that he holds or is acting in any public office or class of public office specified in Schedule 2, if he undertakes in accordance with this section to relinquish and cease to act in any public office (other than any public office referred  to or of a class referred to in section 9) if he is elected as an elected member of the Parliament.
 
 (2)  Every undertaking given under this section shall be in the form specified in Schedule 3.
 
@@ -392,17 +398,17 @@ Agents and expenditure
 
 Election agents.
 
-12.(1)  At the latest time fixed for delivery of notices of withdrawals of candidates at an election, each candidate shall by notice in writing given to the returning officer, appoint either himself or some other person as his agent for such election and shall specify an address to which all claims, notices, writs, summonses and documents may be sent, addressed to the candidate or his agent and the returning officer shall publish in the Gazette the name and address of every election agent so appointed.
+12.(1)  At the latest time fixed for delivery of notices of withdrawals of candidates at an election, each candidate shall by notice in writing given to the returning officer, appoint either himself or some other person as his agent for such election and shall specify an address to which all claims, notices, writs, summonses and documents may be sent, addressed to the
+
+Parliament
+
+1950-15 candidate or his agent and the returning officer shall publish in the Gazette the name and address of every election agent so appointed.
 
 (2)  Every candidate may at any time, by notice in writing given to the returning officer, revoke the appointment of his election agent, and, in the event of such revocation, or of the death of such agent, whether such event is before, during or after the election, another election agent shall forthwith be appointed and notice of his name and address shall be given in writing to the returning officer who shall publish the same in the Gazette.
 
 (3)  Any document delivered at the address specified in the notice referred to in this section shall be deemed to have been duly served upon the election agent.
 
-(4)  In any case where a candidate shall fail to give notice as provided by subsection (1), he shall be deemed to be his own election agent and, for the
-
-Parliament
-
-1950-15 purposes of this section, his address as appearing upon his nomination paper shall be deemed to be the address for the purposes set out in subsection (1).
+(4)  In any case where a candidate shall fail to give notice as provided by subsection (1), he shall be deemed to be his own election agent and, for the purposes of this section, his address as appearing upon his nomination paper shall be deemed to be the address for the purposes set out in subsection (1).
 
 Contracts and payments.
 
@@ -414,6 +420,10 @@ Provided that the inability under this section to enforce such contract against 
 
 (3)  Except as permitted by or in pursuance of this Act no payment, advance or deposit shall be made by a candidate, at an election, or by any agent on behalf of such candidate, or by any other person, at any time, whether before, during, or after such election, in respect of any expenses incurred on account of or in respect of the conduct or management of such election, otherwise than by or through the election agent of such candidate; and all money provided by any person other than the candidate for any expenses incurred on account of or in respect of the conduct or management of the election, whether as a gift, loan, advance or deposit, shall be paid to the candidate or his election agent and not otherwise;
 
+Parliament
+
+1950-15
+
 Provided that this section shall not be deemed to apply to any sum disbursed by any person out of his own money for any small expense legally incurred by himself, if such sum is not repaid to him.
 
 Limit on expenditure.
@@ -422,13 +432,7 @@ Limit on expenditure.
 
 (2)  In determining the total expenditure incurred in relation to the candidature of any person at any election, regard shall not be had to any expenditure incurred one month or more before the election in respect of services rendered, or materials supplied.
 
-(3)  Where any expenditure is incurred in contravention of the provisions of this section the person by whom such expenditure was incurred, and the
-
-Parliament
-
-1950-15
-
-candidate in connection with whose candidature it was incurred, shall be deemed to be guilty of an illegal practice:
+(3)  Where any expenditure is incurred in contravention of the provisions of this section the person by whom such expenditure was incurred, and the candidate in connection with whose candidature it was incurred, shall be deemed to be guilty of an illegal practice:
 
 Provided that no candidate shall be deemed to be guilty of an illegal practice by reason of any other person having incurred any expenditure in connection with the candidature of the candidate in contravention of the provisions of this section if the candidate proves that such expenditure was incurred without his knowledge or consent and that he took all reasonable steps to prevent the incurrence of such expenditure.
 
@@ -442,6 +446,10 @@ Returns by election agents.
 
 (a)  the return fully and accurately sets out all payments made by the candidate himself; and
 
+Parliament
+
+1950-15
+
 (b)  that to the best  of  his knowledge, information and  belief,  the return is a full and accurate return of all expenditure incurred, and of all moneys, securities or value received by the election agent, in connection with the election:
 
 Provided that where a candidate acts as his own agent this paragraph shall not apply.
@@ -450,9 +458,7 @@ Provided that where a candidate acts as his own agent this paragraph shall not a
 
 (5)  The returning officer, within ten days after he receives any return under this section, shall publish in a daily newspaper a notice of the time and place at which the return and the documents in support thereof can be inspected.
 
-Parliament
-
-1950-15 Limitation for claims.
+Limitation for claims.
 
 16.(1)  Subject to the provisions of subsections (2), (3) and (4) –
 
@@ -464,6 +470,10 @@ Parliament
 
 (3)  The claimant may, if he thinks fit, bring an action for a disputed claim in the court; and any sum paid by the candidate or his agent in pursuance of the judgment or order of the court shall be deemed to be paid within the time limited by subsection (1).
 
+Parliament
+
+1950-15
+
 (4)  On cause shown to the satisfaction of the Chief Justice in chambers, he, on application by the claimant or by the candidate or by his election agent, may by order give leave for the payment by a candidate or his election agent of a disputed claim, or of a claim for any such expenses as aforesaid, although sent in after the time mentioned in subsection (1) for sending in claims, or although such claim was sent in to the candidate and not to the election agent ; and any sum specified in the order may be paid by the candidate or his election agent, and when paid in pursuance of such order shall be deemed to be paid within the time limited by subsection (1).
 
 Conduct of Elections.
@@ -471,10 +481,6 @@ Conduct of Elections.
 Returning officer.
 
 17. The returning officer shall be the registration officer.
-
-Parliament
-
-1950-15
 
 Conduct of elections.
 
@@ -484,13 +490,17 @@ Conduct of elections.
 
 Entitlement to vote.
 
-19. No person shall be entitled to vote at any election unless his name is on the register of electors for the time being in force; and every person whose name is on such register shall be entitled to demand and receive a ballot paper and vote at any such election unless that person has not acquired voting rights by virtue of the second proviso to section 3(1):
+19. No person shall be entitled to vote at any election unless his name is on the register of electors; and every person whose name is on such register shall be entitled to demand and receive a ballot paper and vote at any such election unless that person has not acquired voting rights by virtue of the second proviso to section 3(1):
 
 Provided that nothing in this section shall entitle any person to vote who is prohibited from voting by any enactment, or relieve such person from any penalty to which he may be liable for voting.
 
 Issue of writ.
 
-20.(1) For the purpose of every general election of members to the Parliament, and for the purpose of every election to supply a vacancy arising otherwise than by reason of the dissolution of the Parliament, the Governor shall issue a writ, under the Public Seal of Gibraltar, directed to the returning officer, directing him to cause election to be made according to law, of such number of members as are specified in the writ, to serve in the Parliament.
+20.(1) For the purpose of every general election of members to the Parliament, and for the purpose of every election to supply a vacancy arising otherwise than by reason of the dissolution of the Parliament, the Governor
+
+Parliament
+
+1950-15 shall issue a writ, under the Public Seal of Gibraltar, directed to the returning officer, directing him to cause election to be made according to law, of such number of members as are specified in the writ, to serve in the Parliament.
 
 (2)  Every such writ shall also specify the day of election which shall not be less than thirty days after the day on which the writ is received by the returning officer.
 
@@ -498,9 +508,7 @@ Issue of writ.
 
 (4)  The return of members elected to serve in the Parliament shall be made by a certificate of the names of such members under the hand of the returning officer endorsed on the writ and the returning officer shall deliver the writ with such certificate endorsed to the Governor.
 
-Parliament
-
-1950-15 (5)  The execution of the writ shall belong to the returning officer as such and the writ shall be directed to him by the title of his office as returning officer, and that office shall be a distinct office from that, if any, by virtue of which he becomes returning officer.
+(5)  The execution of the writ shall belong to the returning officer as such and the writ shall be directed to him by the title of his office as returning officer, and that office shall be a distinct office from that, if any, by virtue of which he becomes returning officer.
 
 (6)  Where a person enters any office by virtue of which he becomes returning officer it shall belong to him and not to the outgoing holder of that office to complete the execution of any writ for an election previously issued and not yet returned.
 
@@ -512,6 +520,10 @@ General, partial and void elections.
 
 (3)  If at any election the number of candidates who have been validly nominated is less than or is, by the withdrawal of any candidate, reduced to a number less than the number of vacancies, the returning officer shall give notice that the candidates so nominated are declared elected and the Governor may order a new election to fill the remaining vacancy or vacancies to be held on a day appointed by him.
 
+Parliament
+
+1950-15
+
 (4)  If any election becomes void the Governor shall order a new election to be held on a day to be appointed by him.
 
 (5)  Where a new election is ordered under this section the election shall be conducted in the same manner as is directed by this Act for the conduct of the election in the place of which the new election is ordered.
@@ -521,10 +533,6 @@ Method of voting.
 22. At a contested election for members of the Parliament each elector may vote for as many candidates as there are vacancies to be filled unless there are more vacancies than ten, in which case each elector may vote for not more than ten candidates.
 
 Equality of votes.
-
-Parliament
-
-1950-15
 
 22A.(1) Where the counting of votes (including any recount) has been completed and an equality of votes is found to exist between any candidates and the addition of a vote would entitle any of those candidates to be declared elected, a new poll shall be conducted as between those candidates on the day 21 days after the date of that election.
 
@@ -542,7 +550,9 @@ Exemption from stamp duty.
 
 24. Stamp duty shall not be chargeable on any claim, notice, declaration, list, register, nomination paper, ballot paper or other document used in connection with this Act.
 
-Rules.
+Parliament
+
+1950-15 Rules.
 
 25. (1)  The Minister may from time to time make rules for all or any of the following purposes –
 
@@ -554,13 +564,13 @@ Rules.
 
 (d)  regulating the procedure for the registration of voters and the conduct of elections; and
 
-Parliament
-
-1950-15 (e)  enabling persons who are entitled to vote as electors but are temporarily outside from Gibraltar to make postal votes in elections;
+(e)  enabling persons who are entitled to vote as electors but are temporarily outside from Gibraltar to make postal votes in elections;
 
 (ea)  enabling persons who are entitled to vote as electors but whose temporary absence from Gibraltar is such that they will not be able to cast a postal vote in elections;
 
-(eb) enabling persons who are entitled to vote at an election who, after the registration as an absentee voter closes, are informed that on election day they will be an in-patient at a hospital; and
+(eb) enabling persons who are entitled to vote at an election who, after the registration as an absentee voter closes, are informed that on election day they will be an in-patient at a hospital;
+
+(ec) enabling persons wishing to vote by proxy to do so and prescribing the procedure and forms to enable them to appoint a proxy; and
 
 (f) generally for carrying into effect the provisions of this Act.
 
@@ -572,7 +582,13 @@ Illegal practices.
 
 Providing of money for illegal practice.
 
-26. A person who knowingly provides money for any payment which is contrary to the provisions of this Act, or for any expenses incurred in excess of any maximum amount allowed by this Act, or for replacing any money expended in any such payment or expenses except where such payment or expenses may have been previously allowed in pursuance of this Act to be an exception, is guilty of illegal payment.
+26. A person who knowingly provides money for any payment which is contrary to the provisions of this Act, or for any expenses incurred in excess
+
+Parliament
+
+1950-15
+
+of any maximum amount allowed by this Act, or for replacing any money expended in any such payment or expenses except where such payment or expenses may have been previously allowed in pursuance of this Act to be an exception, is guilty of illegal payment.
 
 Corruptly inducing withdrawal.
 
@@ -581,10 +597,6 @@ Corruptly inducing withdrawal.
 Restrictions on premises to be used as committee room.
 
 28. (a)  Any premises on which the sale by wholesale or retail of any intoxicating liquor is authorized by a licence (whether the licence be for consumption on or off the premises);
-
-Parliament
-
-1950-15
 
 (b)  any premises where any intoxicating liquor is sold or is supplied to members of a club, society or association other than a permanent political club; or
 
@@ -596,7 +608,11 @@ Provided that nothing in this section–
 
 (i) shall apply to any part of such premises which is ordinarily let for the purpose of chambers or offices or the holding of public meetings or of arbitrations, if such part has a separate entrance and no direct communication with any part of the premises on which any intoxicating liquor is sold or supplied as aforesaid;
 
-(ii) shall preclude a candidate, for the purpose of holding a public meeting in furtherance of his candidature, from using at reasonable times a suitable room in any school, subject to the consent of the headmaster of such school having previously been obtained.
+(ii) shall preclude a candidate, for the purpose of holding a public meeting in furtherance of his candidature, from using at reasonable times a suitable room in any school,
+
+Parliament
+
+1950-15 subject to the consent of the headmaster of such school having previously been obtained.
 
 Illegal employment.
 
@@ -607,10 +623,6 @@ Penalties for offences against sections 26-29.
 30.(1)  A candidate, or any election agent of a candidate who personally commits the offence of illegal payment, hiring or employment is guilty of an illegal practice.
 
 (2)  Any other person who commits the offence of illegal payment, hiring or employment   is liable on summary conviction to a fine of £100.
-
-Parliament
-
-1950-15
 
 Payments made otherwise than through election agents.
 
@@ -626,6 +638,10 @@ Agent failing to make return.
 
 33. A candidate or election agent who, without such authorized excuse as is in this Act mentioned, fails to comply with the requirements of section 15 is guilty of an illegal practice.
 
+Parliament
+
+1950-15
+
 Voting by prohibited persons and publishing of false statements.
 
 34. A person who–
@@ -638,10 +654,6 @@ is guilty of an illegal practice;
 
 Provided that a candidate is not liable, nor shall his election be avoided, for any illegal practice under this section committed by his agent other than his election agent.
 
-Parliament
-
-1950-15
-
 Posters to bear names of printers and publishers.
 
 35.(1)  Every bill, placard, or poster having reference to an election shall bear upon the face thereof the name and address of the printer and publisher thereof; and a person who prints, publishes, posts or knowingly causes to be printed, published or posted, any such bill, placard or poster, which fails to bear upon the face thereof the name and address of the printer and publisher, is, if he be the candidate or the election agent of the candidate be guilty of an illegal practice, and any such person, if he be not the candidate or the election agent of the candidate, is liable, on summary  conviction,  to a fine of £100.
@@ -652,7 +664,11 @@ Posters to bear names of printers and publishers.
 
 Penalty for and incapacity following illegal practices.
 
-36. A person who is convicted of any offence declared to be an illegal practice under this Act  is liable,  on summary  conviction to a fine of £100, and shall, in addition, be incapable during a period of five years from the date of his conviction of –
+36. A person who is convicted of any offence declared to be an illegal practice under this Act  is liable,  on summary  conviction to a fine of £100,
+
+Parliament
+
+1950-15 and shall, in addition, be incapable during a period of five years from the date of his conviction of –
 
 (a)  being registered as an elector or of voting at an election; or
 
@@ -664,11 +680,7 @@ Relief for innocent acts.
 
 (a)  that any act or omission of a candidate at any election, or of any agent or other person, would, by reason of being in contravention of any of the provisions of this Act, be but for this section an illegal practice, payment, employment or hiring; and
 
-(b)  that such act or omission arose from inadvertence or from accidental miscalculation or from some other reasonable cause
-
-Parliament
-
-1950-15 of the like nature, and in any case did not arise from any want of good faith; and
+(b)  that such act or omission arose from inadvertence or from accidental miscalculation or from some other reasonable cause of the like nature, and in any case did not arise from any want of good faith; and
 
 (c)  that such notice of the application has been given as to the court seems fit,
 
@@ -679,6 +691,10 @@ Corrupt practices .
 Definition of and penalty for corrupt practices.
 
 38. (1)  The expression “corrupt practice” in this Act means any of the following offences, namely, bribery, treating, undue influence, and personation as defined by this Act and aiding, abetting, counselling and procuring the offence of personation.
+
+Parliament
+
+1950-15
 
 (2)  A person who commits any corrupt practice other than personation or aiding, abetting, counselling or procuring the offence of personation is liable, on summary conviction to imprisonment for six months and to a fine of  £100.
 
@@ -692,10 +708,6 @@ Provided that a person charged with personation shall not be summarily convicted
 
 (b)  of being elected at an election or, if elected before conviction, of retaining his seat.
 
-Parliament
-
-1950-15
-
 False declarations.
 
 39.A candidate or election agent who knowingly makes the declaration required by section 15 falsely is guilty of a corrupt practice.
@@ -706,17 +718,17 @@ Meaning of bribery.
 
 (a)  any person who directly or indirectly by himself or by any other person on his behalf gives, lends, or agrees to give or lend, or offers, promises, or promises to procure or to endeavour to procure, any money or valuable consideration to or for any elector, or to or for any person on behalf of any elector, or to or for any other person, in order to induce any elector to vote for or refrain from voting, or corruptly does any such act on account of such elector having voted or refrained from voting at any election;
 
-(b)  any person who directly or indirectly, by himself or by any other person on his behalf, gives or procures, or agrees to give or procure, or offers, promises, or promises to procure or to endeavour to procure any office, place, or employment to or for any elector, or to or for any person on behalf of any elector, or to or for any other person, in order to induce such elector to vote or refrain from voting, or corruptly does any such act on account of any elector having voted or refrained from voting at any election;
+(b)  any person who directly or indirectly, by himself or by any other person on his behalf, gives or procures, or agrees to give or procure, or offers, promises, or promises to procure or to endeavour to procure any office, place, or employment to or for
+
+Parliament
+
+1950-15 any elector, or to or for any person on behalf of any elector, or to or for any other person, in order to induce such elector to vote or refrain from voting, or corruptly does any such act on account of any elector having voted or refrained from voting at any election;
 
 (c)  any person who directly or indirectly by himself or by any other person on his behalf, makes any such gift, loan, offer, promise, procurement, or agreement as aforesaid, to or for any person, in order to induce such person to procure, or endeavour to procure, the election of any person or the vote of any elector at any election;
 
 (d)  any person who, upon or in consequence of any such gift, loan, offer, promise, procurement, or agreement, procures or engages, promises or endeavours to procure the election of any person or the vote of any elector at any election;
 
-(e)  any person who advances or pays, or causes to be paid, any money to or to the use of any other person, with the intent that such money, or any part thereof, shall be expended in bribery at any election, or who knowingly pays, or causes to be paid, any
-
-Parliament
-
-1950-15 money to any person in discharge or repayment of any money wholly or in part expended in bribery at any election;
+(e)  any person who advances or pays, or causes to be paid, any money to or to the use of any other person, with the intent that such money, or any part thereof, shall be expended in bribery at any election, or who knowingly pays, or causes to be paid, any money to any person in discharge or repayment of any money wholly or in part expended in bribery at any election;
 
 (f) any elector who before or during any election, directly or indirectly, by himself, or by any other person on his behalf, receives, agrees, or contracts for any money, gift, loan, or valuable consideration, office, place, or employment, for himself or for any person, for voting or agreeing to vote, or for refraining or agreeing to refrain from voting, at any election; and
 
@@ -726,19 +738,19 @@ Meaning of treating.
 
 41. The following persons shall be deemed guilty of treating within the meaning of this Act –
 
-(a)  any person who corruptly by himself or by any other person, either before, during, or after an election, directly or indirectly, gives or provides, or pays wholly or in part the expenses of giving or providing, any food, drink, entertainment, or provision to or for any person for the purpose of corruptly influencing that person, or any other person, to vote or refrain from voting at such election, or on account of such person or any other person having voted or refrained from voting or being about to vote or refrain from voting at such election; and
-
-(b)  any elector who corruptly accepts or takes any such food, drink, entertainment, or provision.
-
-Meaning of undue influence.
-
-42. A person who directly or indirectly, by himself or by any other person on his behalf, makes use of, or threatens to make use of, any force, violence, or restraint, or inflicts, or threatens to inflict, by himself or by any other person, any temporal or spiritual injury, damage, harm, or loss, or in any other manner practices intimidation upon or against any person, in order to induce or compel such person to vote or, refrain from voting, or on account of such person having voted or refrained from voting, at any election, or who by abduction, duress or any fraudulent contrivance, impedes or prevents the free exercise of the franchise of any elector, or thereby compels, induces, or
+(a)  any person who corruptly by himself or by any other person, either before, during, or after an election, directly or indirectly,
 
 Parliament
 
 1950-15
 
-prevails upon any elector either to give or refrain from giving his vote at any election, is guilty of undue influence within the meaning of this Act.
+gives or provides, or pays wholly or in part the expenses of giving or providing, any food, drink, entertainment, or provision to or for any person for the purpose of corruptly influencing that person, or any other person, to vote or refrain from voting at such election, or on account of such person or any other person having voted or refrained from voting or being about to vote or refrain from voting at such election; and
+
+(b)  any elector who corruptly accepts or takes any such food, drink, entertainment, or provision.
+
+Meaning of undue influence.
+
+42. A person who directly or indirectly, by himself or by any other person on his behalf, makes use of, or threatens to make use of, any force, violence, or restraint, or inflicts, or threatens to inflict, by himself or by any other person, any temporal or spiritual injury, damage, harm, or loss, or in any other manner practices intimidation upon or against any person, in order to induce or compel such person to vote or, refrain from voting, or on account of such person having voted or refrained from voting, at any election, or who by abduction, duress or any fraudulent contrivance, impedes or prevents the free exercise of the franchise of any elector, or thereby compels, induces, or prevails upon any elector either to give or refrain from giving his vote at any election, is guilty of undue influence within the meaning of this Act.
 
 Meaning of personation.
 
@@ -750,6 +762,10 @@ Persons charged with corrupt practice may be convicted of illegal practice.
 
 Other offences
 
+Parliament
+
+1950-15
+
 Molestation.
 
 45.(1)  The returning officer may, by means of a red line marked on the ground, cause to be demarcated an area in the vicinity of any polling station, and it shall not be permitted during the hours of poll to solicit voters who are in such an area or to distribute leaflets or other papers to them or to accost them with a view to such solicitation or distribution or otherwise to molest them.
@@ -758,11 +774,7 @@ Molestation.
 
 Destroying or defacing posters.
 
-46. A person who prior to the declaration of results of the poll wilfully destroys, defaces, tears, adds to, alters, wholly or partly obliterates or otherwise mutilates or renders illegible a bill, placard or poster having
-
-Parliament
-
-1950-15 reference to an election is guilty of an offence and is liable on summary conviction, to a fine of £100.
+46. A person who prior to the declaration of results of the poll wilfully destroys, defaces, tears, adds to, alters, wholly or partly obliterates or otherwise mutilates or renders illegible a bill, placard or poster having reference to an election is guilty of an offence and is liable on summary conviction, to a fine of £100.
 
 Offences in respect of ballot papers and ballot boxes.
 
@@ -778,7 +790,13 @@ Offences in respect of ballot papers and ballot boxes.
 
 (e)  without due authority destroys, takes, opens, or otherwise interferes with, any ballot box or packet of ballot papers then in use for the purposes of any election,
 
-is guilty of an offence, and is liable, on conviction, if he be the returning or presiding officer, or clerk employed at a polling station, to imprisonment for one year and to a fine of £200, and, if he is any other person, to imprisonment for six months and to a fine of £100.
+is guilty of an offence, and is liable, on conviction, if he be the returning or presiding officer, or clerk employed at a polling station, to imprisonment for
+
+Parliament
+
+1950-15
+
+one year and to a fine of £200, and, if he is any other person, to imprisonment for six months and to a fine of £100.
 
 (2)  Any attempt to commit any offence specified in this section shall be punishable in the manner in which the offence itself is punishable.
 
@@ -790,10 +808,6 @@ Infringement of secrecy.
 
 (a)  the name or number on the register of any elector who has or has not applied for a ballot paper or voted at a polling station; or
 
-Parliament
-
-1950-15
-
 (b)  the official mark.
 
 (2) Every person attending at the counting of the votes shall maintain and aid in maintaining the secrecy of voting and shall not–
@@ -804,25 +818,25 @@ Parliament
 
 (3)  No person whatsoever shall-
 
-(a) interfere or attempt to interfere with a voter when recording his vote;
+(a) interfere or attempt to interfere with a voter when recording his vote or with a proxy voter when recording the absent voters’ vote;
 
-(b) obtain or attempt to obtain in a polling station information as to the candidates for whom a voter in that station is about to vote or has voted;
+(b) obtain or attempt to obtain in a polling station information as to the candidates for whom a voter or proxy voter in that station is about to vote or has voted;
 
-(c) communicate at any time to any person any information obtained in a polling station as to the candidates for whom a voter in that station is about to vote or has voted, or as to the number on the back of the ballot paper given to a voter at that station; or
+(c) communicate at any time to any person any information obtained in a polling station as to the candidates for whom a
 
-(d) directly or indirectly induce a voter to display their ballot paper after he has marked it so as to make known to any person the name or names of the candidate or candidates for whom he has or has not voted.
+Parliament
 
-(4)  No person having undertaken to assist a blind voter, or a person making a postal vote under rules made under section 25, to vote shall communicate at any time to any person any information as to the candidate or candidates for whom that voter intends to vote or has voted, or as to the number on the back of the ballot paper given for the use of that voter.
+1950-15 voter or proxy voter in that station is about to vote or has voted, or as to the number on the back of the ballot paper given to a voter or proxy voter at that station; or
+
+(d) directly or indirectly induce a voter or proxy voter to display their ballot paper after they have marked it so as to make known to any person the name or names of the candidate or candidates for whom the voter has voted.
+
+(4)  No person having undertaken to assist a blind voter, or a person appointed as the proxy of a voter, or a person making a postal vote, under rules made pursuant to section 25, shall communicate at any time to any person any information as to the candidate or candidates for whom that voter or proxy as the case may be intends to vote or has voted, or as to the number on the back of the ballot paper given for the use of that voter or proxy.
 
 (5)  A person who acts in contravention of this section is guilty of an offence and is liable on summary conviction to imprisonment for six months and to a fine of £100.
 
 Breaches of Official duty.
 
-49. (1)  A person to whom this section applies, or who is for the time being under a duty to discharge any of the functions of such person, who is,
-
-Parliament
-
-1950-15 without reasonable cause, guilty of any act or omission in breach of his official duty is, subject to subsection (4), liable on summary conviction to imprisonment for six months and to a fine of £l00.
+49. (1)  A person to whom this section applies, or who is for the time being under a duty to discharge any of the functions of such person, who is, without reasonable cause, guilty of any act or omission in breach of his official duty is, subject to subsection (4), liable on summary conviction to imprisonment for six months and to a fine of £l00.
 
 (2)  No person to whom this section applies is liable for breach of his official duties to any penalty at common law or under any enactment except as provided by this section, nor shall any action for damages lie in respect of the breach by any such person of his official duty.
 
@@ -832,19 +846,17 @@ Parliament
 
 Miscellaneous. Limitation.
 
+Parliament
+
+1950-15
+
 50.(1)  A proceeding against a person in respect of the offence of a corrupt or illegal practice or any other offence under this Act shall be commenced within one year after the offence was committed, or if it was committed in reference to an election in respect to which an election petition is presented shall be commenced within one year after the offence was committed or within three months after the determination of such election petition, whichever period last expires, so that it be commenced within two years after the offence was committed, and the time so limited by this section shall, in the case of any proceeding under the Criminal Procedure Act for any such offence, be substituted for any limitation of time contained in the last mentioned Act.
 
 (2)  For the purposes of this section the issue of a summons, warrant, writ, or other process shall be deemed to be a commencement of a proceeding where the service or execution of the same on or against the alleged offender is prevented by the absconding or concealment or act of the alleged offender, but save as aforesaid the service or execution of the same on or against the alleged offender, and not the issue thereof, shall be deemed to be the commencement of the proceeding.
 
 Duties of Attorney-General.
 
-51. Where information is given to the Attorney-General that any corrupt or illegal practice has occurred in reference to any election, it shall be his duty
-
-Parliament
-
-1950-15
-
-to make such inquiries and institute such prosecutions as the circumstances of the case appear to him to require.
+51. Where information is given to the Attorney-General that any corrupt or illegal practice has occurred in reference to any election, it shall be his duty to make such inquiries and institute such prosecutions as the circumstances of the case appear to him to require.
 
 Removal of incapacity.
 
@@ -856,7 +868,9 @@ Grounds for petitioning.
 
 53. (1)  An election may be questioned by a petition (hereinafter referred to as an “election petition”) on the ground–
 
-(a)  that offences under this Act committed in reference to the election for the purpose of promoting or procuring the election of a person thereat have so extensively prevailed that they may reasonably be supposed to have affected the result;
+Parliament
+
+1950-15 (a)  that offences under this Act committed in reference to the election for the purpose of promoting or procuring the election of a person thereat have so extensively prevailed that they may reasonably be supposed to have affected the result;
 
 (b)  that the election was avoided by corrupt practices or offences against this Act committed at the election;
 
@@ -870,9 +884,7 @@ Application of English law.
 
 54.(1)  Every election petition shall be heard by the court and, subject to the provisions of this Act and any rules of court made under the powers conferred by this section, every election petition shall, as nearly as circumstances admit, be presented, heard and determined according to the law for the time being in force in England with respect to election petitions.
 
-Parliament
-
-1950-15 (2)  Rules for the regulation of the practice, procedure and costs of election petitions and the trial thereof may be made in the like manner as rules made under and for the purpose of the Supreme Court Act.
+(2)  Rules for the regulation of the practice, procedure and costs of election petitions and the trial thereof may be made in the like manner as rules made under and for the purpose of the Supreme Court Act.
 
 Who may petition.
 
@@ -884,6 +896,10 @@ Who may petition.
 
 (4)  Subject to any other provisions of this section an election petition shall be presented within twenty-one days after the day on which the result of the election has been declared.
 
+Parliament
+
+1950-15
+
 (5)  An election petition complaining of the election on the grounds of any corrupt or illegal practice and specifically alleging that a payment of money or other reward has been made or promised since the election by a person elected at the election, or on his account or with his privity, in pursuance or in furtherance of such corrupt or illegal practice may be presented at any time within twenty-eight days after the date of the alleged payment or promise, whether or not any other petition against that person has been previously presented or tried.
 
 (6)  An election petition complaining of the election on the ground of an illegal practice may be presented at any time before the expiration of fourteen days after the day on which the returning officer receives the return and declaration respecting election expenses by the candidate to whose election the petition relates:
@@ -893,10 +909,6 @@ Provided that this subsection shall apply notwithstanding that the illegal pract
 Security for costs.
 
 56.(1)  At the time of presenting an election petition or within three days thereafter, the petitioner shall give security for all costs, charges and expenses which may become payable by him to any witness summoned on his behalf, or to any respondent.
-
-Parliament
-
-1950-15
 
 (2)  The security shall be to such amount, not exceeding £100, as the Chief Justice may direct and shall be given either by a deposit of money into court or by recognizance entered into before the Registrar of the Supreme Court by not more than four sureties, or partly in one way and partly in the other.
 
@@ -908,7 +920,11 @@ Trial of petitions.
 
 (2)  At the conclusion of the trial the court shall determine whether the person whose election is complained of, or any and if so, what other person was duly elected, or whether the election was void and such determination shall be final to all intents as to the matters at issue on the petition.
 
-(3)  On the trial of a petition, unless the court otherwise directs, any charge of a corrupt practice or offence against this Act may be enquired into and evidence in relation thereto received before any proof has been given of agency on behalf of any candidate in respect of the corrupt practice or offence.
+(3)  On the trial of a petition, unless the court otherwise directs, any charge of a corrupt practice or offence against this Act may be enquired into and evidence in relation thereto received before any proof has been given of
+
+Parliament
+
+1950-15 agency on behalf of any candidate in respect of the corrupt practice or offence.
 
 (4)  On the trial of a petition complaining of an undue election and claiming the seat for some other person, the respondent may give evidence to prove that that person was not duly elected in the same manner as if he had presented a petition against the election of such person.
 
@@ -918,11 +934,7 @@ Trial of petitions.
 
 (7)  It shall also be the duty of the Attorney-General, without any direction from the court, if it appears to him that any person is able to give material evidence as to the subject of the trial, to cause such person to attend the trial and with the leave of the court to examine such person as a witness.
 
-(8)  It shall also be the duty of the Attorney-General without any direction from the court, if he thinks it expedient in the interests of justice so
-
-Parliament
-
-1950-15 to do, to prosecute any person who appears to him to have been guilty of a corrupt or illegal practice at an election.
+(8)  It shall also be the duty of the Attorney-General without any direction from the court, if he thinks it expedient in the interests of justice so to do, to prosecute any person who appears to him to have been guilty of a corrupt or illegal practice at an election.
 
 Withdrawal of election petition.
 
@@ -931,6 +943,10 @@ Withdrawal of election petition.
 (2)  Before leave for the withdrawal of an election petition is granted there shall be produced affidavits by all the parties to the petition and their solicitors, but the court may on cause shown dispense with the affidavit of any particular person if it seems to the court on special grounds to be just so to do.
 
 (3)  Each affidavit shall state that to the best of the deponent’s knowledge and belief, no agreement or terms of any kind whatsoever has or have been made and no undertaking has been entered into, in relation to the withdrawal of the petition; but if any lawful agreement has been made with respect to the withdrawal of the petition, the affidavit shall set forth that agreement and shall make the foregoing statement subject to what appears from the affidavit.
+
+Parliament
+
+1950-15
 
 (4)  The affidavits of the applicant and his solicitor shall further state the ground on which the petition is sought to be withdrawn.
 
@@ -942,10 +958,6 @@ Withdrawal of election petition.
 
 (8)  If  the proposed withdrawal is in the opinion of the court–
 
-Parliament
-
-1950-15
-
 (a)  the result of any agreement, terms or undertaking prohibited by this section; or
 
 (b)  induced  by any corrupt bargain or consideration, the court may by order direct that the security given on behalf of the original petitioner shall remain as security for any costs that may be incurred by the substituted petitioner, and that to the extent of the sum named in the security, the original petitioner and his sureties be liable to pay the costs of the substituted petitioner.
@@ -954,7 +966,9 @@ Parliament
 
 (10)  Subject as aforesaid, a substituted petitioner shall, as nearly as may be, stand in the same position and be subject to the same liabilities as the original petitioner.
 
-(11)  If a petition is withdrawn the petitioner shall be liable to pay the costs of the respondent.
+Parliament
+
+1950-15 (11)  If a petition is withdrawn the petitioner shall be liable to pay the costs of the respondent.
 
 Exoneration of candidate where agent guilty of offence.
 
@@ -967,10 +981,6 @@ Exoneration of candidate where agent guilty of offence.
 (c)  that the offences committed were of a trivial, unimportant and limited character; and
 
 (d)  that in all other respects the election was free from any corrupt or illegal practice on the part of such candidate and of his agent,
-
-Parliament
-
-1950-15
 
 then the election of such candidate shall not, by reason of the offences found to have been committed, be void, nor shall the candidate be subject to any incapacity under this Act.
 
@@ -986,6 +996,10 @@ Freedom of speech and debate.
 
 61. There shall be freedom of speech and debate in the Parliament. Such freedom of speech and debate shall not be liable to be questioned in any court or place outside the Parliament.
 
+Parliament
+
+1950-15
+
 Immunity from legal proceedings.
 
 62. No civil or criminal proceedings may be instituted against any member for words spoken before, or written in a report to, the Parliament or to a committee thereof or by reason of any matter or thing brought by him therein by petition, Bill, resolution, motion or otherwise.
@@ -1000,10 +1014,6 @@ Power to exclude strangers.
 
 No evidence of proceedings to be given without leave.
 
-Parliament
-
-1950-15
-
 64.(1)  No member or officer and no person employed to take or transcribe minutes of evidence before the Parliament or any committee shall give evidence elsewhere respecting the contents of such minutes of evidence or of the contents of any document laid before the Parliament or committee, as the case may be, or respecting any proceedings or examination held before the Parliament or committee, as the case may be, without the special leave of the Parliament first had and obtained.
 
 (2)  The special leave referred to in subsection (1) may be given during a recess or adjournment by the Speaker.
@@ -1011,6 +1021,10 @@ Parliament
 Immunity from process within the precincts.
 
 65. Notwithstanding anything to the contrary, no process issued by any court in Gibraltar or outside Gibraltar in exercise of its civil jurisdiction shall be served or executed within the precincts of the Parliament Chamber while the Parliament or a committee is sitting or through the Speaker or any officer of the Parliament, nor shall any member be arrested on civil process, save by leave of the Speaker first obtained, while he is within the precincts of the Parliament Chamber and while the Parliament or a committee is sitting.
+
+Parliament
+
+1950-15
 
 Procuring of evidence.
 
@@ -1024,11 +1038,7 @@ Issue of summons.
 
 67. (1)  Any order to attend to give evidence or to produce documents before the Parliament or an authorized committee shall be notified to the person required to attend or to produce documents by a summons under the hand of the clerk issued by the direction of the Speaker.
 
-(2)  In every summons under subsection (1) there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce. The summons
-
-Parliament
-
-1950-15 shall be served on the person mentioned therein by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Gibraltar with some adult person; and there shall be paid or tendered to the person so summoned, such sum for his expenses as may be specified by standing order.
+(2)  In every summons under subsection (1) there shall be stated the time when and the place where the person summoned is required to attend and the particular documents which he is required to produce. The summons shall be served on the person mentioned therein by delivering to him a copy thereof or by leaving a copy thereof at his usual or last known place of abode in Gibraltar with some adult person; and there shall be paid or tendered to the person so summoned, such sum for his expenses as may be specified by standing order.
 
 (3)  A summons under this section may be served by an officer or by a police officer.
 
@@ -1036,7 +1046,13 @@ Examination on oath.
 
 68.(1)  The Parliament or any authorized committee may require that any facts, matters and things relating to the subject of inquiry before the Parliament or such committee be verified or otherwise ascertained by the oral examination of witnesses, and may cause any such witnesses to be examined upon oath.
 
-(2)  An oath required to be taken under the provisions of this section may be administered by the Clerk or by any other person appointed by the Parliament for that purpose, or, in the case of a witness before a committee, by the chairman of the committee or by the member presiding in the absence of the chairman, or by the clerk to the committee.
+(2)  An oath required to be taken under the provisions of this section may be administered by the Clerk or by any other person appointed by the Parliament for that purpose, or, in the case of a witness before a committee,
+
+Parliament
+
+1950-15
+
+by the chairman of the committee or by the member presiding in the absence of the chairman, or by the clerk to the committee.
 
 Objections to answering questions or producing papers.
 
@@ -1045,10 +1061,6 @@ Objections to answering questions or producing papers.
 (2)  Where a person ordered to attend to give evidence or to produce any paper, book, record or document before any authorized committee refuses to answer any question that may be put to him or to produce any such paper, book, record or document on the ground that the same is of a private nature and does not affect the subject of inquiry, the chairman of the committee may report such refusal to the Speaker with the reasons therefor; and the Speaker may thereupon excuse the answering of such question or the production of such paper, book, record or document or may order the answering or production thereof.
 
 Privileges of witnesses.
-
-Parliament
-
-1950-15
 
 70. (1)  Every person summoned to attend to give evidence or to produce any paper, book, record or document before the Parliament or an authorized committee shall be entitled, in respect of such evidence or the disclosure of any communication or the production of any such paper, book, record or document, to the same rights and privileges as before a court of   law.
 
@@ -1062,6 +1074,10 @@ which relates to the correspondence of any naval, military, air force or civil d
 
 Issue of certificates to protect witnesses.
 
+Parliament
+
+1950-15
+
 71.(1)  Every witness before the Parliament or an authorized committee who shall answer fully and faithfully any questions put to him by the Parliament or such committee  to its  satisfaction shall be entitled to receive a certificate stating that such witness was upon his examination so required to answer and did answer any such questions.
 
 (2)  Every certificate under subsection (1) shall, in the case of a witness before the Parliament, be under the hand of the Speaker, and in the case of a witness before a committee, be under the hand of the chairman thereof.
@@ -1072,11 +1088,7 @@ Usage of Parliament.
 
 72. Where at any time any question arises in the Parliament or in a committee  regarding –
 
-1 1960-17
-
-Parliament
-
-1950-15 (a)  the right or power of the Parliament or committee to hear, admit or receive oral evidence; or
+(a)  the right or power of the Parliament or committee to hear, admit or receive oral evidence; or
 
 (b)  the right or power of the Parliament or committee to peruse or examine any paper, book, record or document or to summon, direct or call upon any persons to produce any paper, book, record or document before the Parliament or committee; or
 
@@ -1085,6 +1097,12 @@ Parliament
 that question shall, subject to the preceding provisions of this Act, and except in so far as express provision is made in those provisions for the determination of that question, be determined in accordance with the usage and practice of the Commons House of Parliament of the United Kingdom of Great Britain and Northern Ireland.
 
 Offences.
+
+1 1960-17
+
+Parliament
+
+1950-15
 
 False evidence.
 
@@ -1100,13 +1118,7 @@ Interference with witnesses.
 
 (a)  tampers with, deters, threatens, molests, beguiles or in any way unduly influences any witness in regard to any evidence to be given by him before the Parliament or any committee; or
 
-(b)  threatens, molests or in any way punishes, damnifies or injures or attempts to punish, damnify or injure any person for having
-
-Parliament
-
-1950-15
-
-given evidence before the Parliament or any committee or on account of any evidence which he has given before the Parliament or any committee,
+(b)  threatens, molests or in any way punishes, damnifies or injures or attempts to punish, damnify or injure any person for having given evidence before the Parliament or any committee or on account of any evidence which he has given before the Parliament or any committee,
 
 is guilty of an offence and is liable on conviction to imprisonment for twelve months and to a fine of £500.
 
@@ -1115,6 +1127,10 @@ Corrupt and improper practices.
 76.(1)  A person who offers to any member or officer or to any person who is an employer, a partner or in the service of any member, either directly or indirectly, any bribe, fee, compensation, gift or reward in order to influence such member or officer in his conduct as such member or officer or for or in respect of the promotion of or opposition to any Bill, resolution, matter, rule or thing submitted to, or intended to be submitted to, the Parliament, is guilty of an offence.
 
 (2)  A member or officer or any person who is an employer, a partner or in the service of any member who demands, accepts or receives, directly or indirectly, any bribe, fee, compensation, gift or reward the offering of which is or would be an offence under this section is likewise guilty of an offence.
+
+Parliament
+
+1950-15
 
 (3)  A person who commits an offence against this section is liable on conviction to imprisonment for three years and to a fine of £500.
 
@@ -1128,9 +1144,7 @@ Contempt.
 
 77. A person who–
 
-Parliament
-
-1950-15 (a)  having been called upon to give evidence before the Parliament or an authorized committee thereof refuses to be sworn or make an affirmation; or
+(a)  having been called upon to give evidence before the Parliament or an authorized committee thereof refuses to be sworn or make an affirmation; or
 
 (b)  being a witness misconducts himself; or
 
@@ -1144,6 +1158,10 @@ is guilty of an offence.
 
 Disobedience.
 
+Parliament
+
+1950-15
+
 78. A person who wilfully and without lawful cause fails to comply with, or contravenes, any order made under section 63 or section 66, or who wilfully fails to obey any other order of the Parliament whereby the Parliament is obstructed in the performance of its functions is guilty of an offence;
 
 Provided that no offence is committed under this section unless the Speaker or an officer has drawn to the attention of the person concerned the fact that such failure or contravention is contrary to such order, and the person thereafter continues in such failure or contravention.
@@ -1155,10 +1173,6 @@ Breaches of confidence,  etc.
 (a)  publishes, save by the general or special leave of the Parliament, a report of any proceedings of the Parliament or any committee when such proceedings have not been held in public; or
 
 (b)  publishes any false or scandalous libel on the Parliament or any report which wilfully misrepresents in any way any proceedings of the Parliament or any committee; or
-
-Parliament
-
-1950-15
 
 (c)  publishes, save by the general or special leave of the Parliament, any paper, report or other document prepared expressly for submission to the Parliament before the same has been laid on the Table of the Parliament; or
 
@@ -1172,7 +1186,9 @@ Assaulting, etc., members and officers.
 
 (a)  assaults, obstructs or insults any member or officer going to or from the precincts of the Parliament Chamber; or
 
-(b)  endeavours to compel either directly or indirectly any member by force, insult or menace to declare himself in favour of or against, any Bill, resolution, matter, rule or thing submitted to, or intended to be submitted to, the Parliament; or
+Parliament
+
+1950-15 (b)  endeavours to compel either directly or indirectly any member by force, insult or menace to declare himself in favour of or against, any Bill, resolution, matter, rule or thing submitted to, or intended to be submitted to, the Parliament; or
 
 (c)  assaults, interferes with, resists or obstructs any officer while in the execution of his duty as such officer; or
 
@@ -1184,9 +1200,7 @@ Assaulting, etc., members and officers.
 
 is guilty of an offence.
 
-Parliament
-
-1950-15 Penalties.
+Penalties.
 
 81. For every offence under this Part for which no other penalty is specially provided the offender is liable on summary conviction to imprisonment for three months and to a fine of £50.
 
@@ -1200,6 +1214,10 @@ Powers of the Parliament in cases of contempt.
 
 Provided that such period shall not extend beyond the last day of the meeting next following that in which the resolution is passed, or of the session in which the resolution is passed, whichever shall first occur.
 
+Parliament
+
+1950-15
+
 (2)  No salary or allowance payable to a member of the Parliament for his service as such shall be paid in respect of any period during which he is suspended from the service of the Parliament under the provisions of this section.
 
 (3)  If any person not being a member commits a contempt whether specified in section 77 or otherwise, the Parliament may, by resolution, direct that the Speaker shall order such person to appear before the Parliament and that he shall, upon such attendance, reprimand him at the Bar of the Parliament.
@@ -1209,10 +1227,6 @@ Miscellaneous.
 Commons journals as evidence.
 
 84. Subject to the provisions of this Act, a copy of the journals of the Commons House of Parliament of the United Kingdom of Great Britain and Northern Ireland printed or purporting to be printed by the order or by the printer of such Commons House shall be received as prima facie evidence without proof of its being such copy upon any inquiry touching the privileges, immunities and powers of the Parliament or of any member thereof.
-
-Parliament
-
-1950-15
 
 Journals, etc.,  of the Parliament as evidence.
 
@@ -1224,7 +1238,11 @@ Absence of the Speaker.
 
 Suspension of members.
 
-87. A member who has been suspended from the service of the Parliament shall not enter or remain within the precincts of the Parliament Chamber whilst such suspension remains in force, and if any member is found within the precincts of the Parliament Chamber in contravention of this section, he may be forcibly removed therefrom by any officer of the Parliament and no proceedings shall lie against such officer in respect of such removal.
+87. A member who has been suspended from the service of the Parliament shall not enter or remain within the precincts of the Parliament Chamber
+
+Parliament
+
+1950-15 whilst such suspension remains in force, and if any member is found within the precincts of the Parliament Chamber in contravention of this section, he may be forcibly removed therefrom by any officer of the Parliament and no proceedings shall lie against such officer in respect of such removal.
 
 Powers supplementary.
 
@@ -1238,10 +1256,6 @@ PART VI. PENSIONS.
 
 Application.
 
-Parliament
-
-1950-15
-
 89A.  This Part does not apply to a person who, after 20 October 2015, has become an elected member for the first time.
 
 Alternative pension scheme.
@@ -1253,6 +1267,10 @@ Interpretation.
 90.(1)  In this Part, unless the context otherwise requires–
 
 “allowance”, in relation to an elected member, in respect of any service by him as such, means the amount that he was entitled to receive by way of personal remuneration for service, as Speaker, ordinary elected member, Chief Minister, minister, or Leader of the Opposition; but does not in any case include any allowance by way of payment or reimbursement for his expenses;
+
+Parliament
+
+1950-15
 
 “elected member” means the Speaker of the Parliament, an ordinary elected member of the Parliament, the Chief Minister, any minister, or the Leader of the Opposition;
 
@@ -1268,10 +1286,6 @@ Interpretation.
 
 but do not include service before the 1st day of August, 1964.
 
-Parliament
-
-1950-15
-
 (3)  For the purposes of this Part, where an elected member vacates his seat in the Parliament by operation of section 29(1)(b) of the Constitution, he shall be deemed to have ceased to be an elected member with the expiration of the last day on which he has previously attended a meeting of the Parliament.
 
 (4)  For the purposes of this Part, a person becomes entitled to a pension when he qualifies under section 91(1), notwithstanding that by reason of section 91(2) the pension is not for the time being payable to him.
@@ -1285,6 +1299,10 @@ Entitlement to pension.
 (b) has served as an elected member in the third or any subsequent Assembly of the Parliament–
 
 shall, on ceasing to be an elected member be entitled to a pension under this Act.
+
+Parliament
+
+1950-15
 
 (2)  Notwithstanding subsection (1), no pension shall become payable under this Act before the person who is entitled to it has attained the age of 55 years.
 
@@ -1300,10 +1318,6 @@ Computation of notional annual allowance.
 
 12 b a x
 
-Parliament
-
-1950-15
-
 where–
 
 “a” is the sum of all allowances that he has received in respect of  his service; and
@@ -1317,6 +1331,10 @@ where–
 (a)  the factor “a” shall be the greatest sum that he has received in any period of 336 completed months of his service (the allowances actually received being first converted in accordance with subsection (2)); and
 
 (b)  the factor  “b” shall be 336
+
+Parliament
+
+1950-15
 
 (4) So long as any allowance is exempt from the payment of income tax it shall, in being taken into account under this section in the computation of the notional annual allowance, after being converted under this section, be increased by 331/3 per cent.
 
@@ -1332,10 +1350,6 @@ Reduced pension and gratuity.
 
 (a)  shall be exercisable and, if exercised, may be revoked on or before the date on which the person becomes entitled to the pension under this Act or at any time before he begins to receive the pension under this Act; and
 
-Parliament
-
-1950-15
-
 (b)  shall be exercised or revoked by notice in writing addressed to the Clerk; and
 
 (c)  shall be deemed to have been exercised or revoked on the day on which such notice is received by the Clerk.
@@ -1348,6 +1362,10 @@ Effect of re-election.
 
 (3)  Where, in respect of the pension to which he was entitled before his re-election, a person did not exercise the option referred to in section 94, he may not exercise that option in respect of any re-computation under this section.
 
+Parliament
+
+1950-15
+
 (4)  Where, in respect of the pension to which he was entitled before his re-election, a person did exercise the option referred to in section 94, he shall be deemed also to have exercised the same option in respect of the period of his service after his re-election and before he next ceases to be an elected member.
 
 (5) This section shall apply in respect of any subsequent re-election of a person in the same manner as it applies to his first re-election after he becomes entitled to a pension under this Act.
@@ -1356,9 +1374,7 @@ Gratuity on death.
 
 96.(1)  Where a person who has served as an elected member for not less than 90 months dies before attaining the age of 55 years (whether or not he is serving as an elected member at the date of his death), there shall be payable to his legal personal representative a sum equal to the maximum gratuity to which the deceased person would have been entitled if he had not died but had on the day following the actual date of his death exercised the option referred  to in section 94.
 
-Parliament
-
-1950-15 (2)  For the purposes of subsection (1), a person who dies in service shall be deemed to have ceased to be an elected member on the day following the actual date of his death.
+(2)  For the purposes of subsection (1), a person who dies in service shall be deemed to have ceased to be an elected member on the day following the actual date of his death.
 
 Members dying of injuries or diseases contracted on duty.
 
@@ -1372,6 +1388,10 @@ Members dying of injuries or diseases contracted on duty.
 
 (b)  in either case, the injury has occurred or the disease has been contracted on or after the 1st day of August, 1964–
 
+Parliament
+
+1950-15
+
 and the elected member dies as a direct result thereof, and such death occurs within 7 years of the date when he was injured or contracted the disease, there shall be payable to his legal personal representative, in lieu of any sum under section 96, a sum equal to the maximum gratuity to which the deceased elected member would have been entitled if–
 
 (i) he had not died but had ceased to be an elected member on the day following the actual date of his death, and had exercised the option referred to in section 94; and
@@ -1382,13 +1402,7 @@ and the elected member dies as a direct result thereof, and such death occurs wi
 
 or a sum equal to his notional annual allowance, whichever is the greater sum.
 
-(2)  In addition to the sum payable under subsection (1), the Governor may grant in respect of the dependants of the deceased elected member the
-
-Parliament
-
-1950-15
-
-pensions which could have been granted under the Pensions Act to the corresponding dependants of an officer in public service under the Government dying as a result of injuries received or disease contracted in the discharge of his duty (not being injuries received while travelling by air in pursuance of official instructions), subject to the following modifications;
+(2)  In addition to the sum payable under subsection (1), the Governor may grant in respect of the dependants of the deceased elected member the pensions which could have been granted under the Pensions Act to the corresponding dependants of an officer in public service under the Government dying as a result of injuries received or disease contracted in the discharge of his duty (not being injuries received while travelling by air in pursuance of official instructions), subject to the following modifications;
 
 (a)  references to the elected member’s notional annual allowance shall be substituted for references to annual pensionable emoluments; and
 
@@ -1397,6 +1411,10 @@ pensions which could have been granted under the Pensions Act to the correspondi
 (c)  no regard shall be had to the Oversea Superannuation Scheme or to other public service; and
 
 (d)  the Governor shall have the same powers with respect to granting, withholding, reducing and re-granting, and otherwise in relation to such pensions, as he has in corresponding circumstances in the case of dependants of the officers referred to above.
+
+Parliament
+
+1950-15
 
 Members injured or contracting diseases on duty.
 
@@ -1411,10 +1429,6 @@ Members injured or contracting diseases on duty.
 (b)  the injury has occurred or the disease has been contracted on or after the 1st day of August, 1964; and
 
 (c)  he has ceased or ceases to be an elected member; and
-
-Parliament
-
-1950-15
 
 (d)  his condition is such that he is no longer reasonably able to perform the functions of an elected member; and
 
@@ -1432,6 +1446,10 @@ he shall, on so ceasing to be an elected member, be entitled to a pension under 
 
 l0/60
 
+Parliament
+
+1950-15
+
 (c)  material impairment:
 
 15/60
@@ -1445,10 +1463,6 @@ l0/60
 (4)  Where any benefit is payable to an elected member to whom this section applies, under the Social Security (Employment Injuries Insurance) Act, in consequence of an injury or disease for which he receives an additional pension under subsection (2), the Governor may withhold any such additional pension or reduce it to such extent as he thinks reasonable.
 
 (5)  Where the Governor is satisfied that damages have been or will be recovered by an elected member to whom this section applies in respect of an injury or disease for which he receives an additional pension under subsection (2), the Governor may withhold the additional pension or reduce it to such extent as he thinks reasonable having regard to the amount of those damages, whether or not–
-
-Parliament
-
-1950-15
 
 (a)  proceedings have been instituted to enforce the claim; or
 
@@ -1466,7 +1480,9 @@ Cessation of pension on disqualification.
 
 Increase of pension.
 
-101.(1) Every pension to which a person is entitled under this Act shall be increased in accordance with this section where there has been an increase in the cost of living after he has become entitled to the pension.
+Parliament
+
+1950-15 101.(1) Every pension to which a person is entitled under this Act shall be increased in accordance with this section where there has been an increase in the cost of living after he has become entitled to the pension.
 
 (2)  The rate of every pension to which a person is entitled under this Act shall be reviewed by the Financial Secretary as soon as may be on or after the 1st day of October in every year.
 
@@ -1474,9 +1490,7 @@ Increase of pension.
 
 (4)  For the purposes of this section, the question whether there has or has not been a rise in the cost of living shall be determined solely by reference to the index of retail price as shown in the index produced by the Government of Gibraltar.
 
-Parliament
-
-1950-15 (5)  The amount of any increase awarded in accordance with the provisions of this section shall not be taken into account for the purposes of section 92(2).
+(5)  The amount of any increase awarded in accordance with the provisions of this section shall not be taken into account for the purposes of section 92(2).
 
 (6)  Notwithstanding the preceding subsections of this section, where a pension becomes payable to a person who has attained the age of 55 years, it shall not thereafter be increased in accordance with this section until he attains the age of 60 years.
 
