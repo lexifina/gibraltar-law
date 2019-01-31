@@ -1,4 +1,4 @@
-EXTRADITION ACT 2018
+Extradition Act 2018
 
 Principal Act
 
@@ -8,7 +8,11 @@ Act. No. 2018-29 Notice of Commencement L.N 2019/010 (except for ss.79-85, 99(3)
 
 Assent 20.12.2018
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.  2019/017 ss.2(3)(b), 12(1)(a), 86(2), 123(1)(b), 123(1)(c) 31.1.2019
+
+2018-29 Extradition
 
 ARRANGEMENT OF SECTIONS
 
@@ -34,11 +38,11 @@ Arrest
 
 The extradition hearing
 
-11. Date of extradition hearing: arrest under warrant. 12. Date of extradition hearing:  arrest under provisional warrant. 13. Magistrates’ power at extradition hearing. 14. Initial stages of extradition hearing.
+11. Date of extradition hearing: arrest under warrant. 12. Date of extradition hearing:  arrest under provisional warrant. 13. Magistrates’ power at extradition hearing. 14. Initial stages of extradition hearing. 15. Person charged with offence in Gibraltar. 16. Person serving sentence in Gibraltar. 17. Bars to extradition. 18. Rule against double jeopardy. 19. Extraneous considerations. 20. Passage of time. 21. Hostage-taking considerations. 22. Case where person has not been convicted. 23. Case where person has been convicted.
 
-2018-29 Extradition
+Extradition 2018-29
 
-15. Person charged with offence in Gibraltar. 16. Person serving sentence in Gibraltar. 17. Bars to extradition. 18. Rule against double jeopardy. 19. Extraneous considerations. 20. Passage of time. 21. Hostage-taking considerations. 22. Case where person has not been convicted. 23. Case where person has been convicted. 24. Conviction in person’s absence. 25. Human rights. 26. Competing extradition claim. 27. Physical or mental condition. 28. Case sent to Central Authority.
+24. Conviction in person’s absence. 25. Human rights. 26. Competing extradition claim. 27. Physical or mental condition. 28. Case sent to Central Authority.
 
 Central Authority’s functions
 
@@ -50,11 +54,11 @@ Appeals
 
 Time for extradition
 
-Extradition 2018-29
-
 53. Extradition where no appeal. 54. Extradition following appeal. 55. Undertaking in relation to person serving sentence in Gibraltar. 56. Extradition following deferral for competing claim. 57. Asylum claim.
 
 Withdrawal of extradition request
+
+2018-29 Extradition
 
 58. Withdrawal of request before end of extradition hearing. 59. Withdrawal of request after case sent to the Central Authority. 60. Withdrawal of request while appeal to Supreme Court pending. 61. Withdrawal of request while appeal to Privy Council pending.
 
@@ -78,17 +82,17 @@ Extradition offences
 
 72. Extradition offences: person not sentenced for offence. 73. Extradition offences: person sentenced for offence. 74. The extradition hearing.
 
-Part 3 Extradition to  Gibraltar.
+Part 3 Extradition to Gibraltar.
 
 Extradition from a State
-
-2018-29 Extradition
 
 75. Dealing with persons extradited to Gibraltar from a State.
 
 General
 
 76. Remission of punishment for other offences. 77. Return of person acquitted or not tried. 78. Restriction on bail where undertaking given by Central Authority.
+
+Extradition 2018-29
 
 Extradition to Gibraltar from Member States of the European Union
 
@@ -110,15 +114,17 @@ Treatment following arrest
 
 Delivery of seized property
 
-Extradition 2018-29
-
 100. Delivery of seized property.
 
 Codes of practice
 
 101. Codes of practice. 102. Customs officers.
 
-Part 5 Miscellaneous
+Part 5
+
+2018-29 Extradition
+
+Miscellaneous
 
 Competing extradition claims
 
@@ -142,11 +148,7 @@ Evidence
 
 Other miscellaneous provisions
 
-115. Service of notices. 116. Language of documents received. 117. Burden and standard of proof. 118. Extradition for more than one offence. 119. Reasonable force. 120. Rules of court.
-
-2018-29 Extradition
-
-121. Regulations. 122. Form of documents.
+115. Service of notices. 116. Language of documents received. 117. Burden and standard of proof. 118. Extradition for more than one offence. 119. Reasonable force. 120. Rules of court. 121. Regulations. 122. Form of documents.
 
 Consequential amendments
 
@@ -154,12 +156,14 @@ Consequential amendments
 
 Schedule 1
 
+Extradition 2018-29
+
 List of conduct constituting extradition offence
 
 Schedule 2
 
 Re-extradition: Modifications
 
-Extradition 2018-29
+2018-29 Extradition
 
-AN ACT TO PROVIDE FOR THE EXTRADITION OF PERSONS PURSUANT TO ANY CONVENTIONS,  TREATIES,  BILATERAL OR MULTILATERAL AGREEMENTS THAT APPLY TO AND HAVE BEEN EXTENDED TO GIBRALTAR OR ANY EXTRADITION ARRANGEMENT OR AGREEMENTS WHICH HAVE BEEN ENTERED INTO BY THE UNITED KINGDOM AND EXTENDED TO GIBRALTAR AND FOR CONNECTED PURPOSES.
+AN ACT TO PROVIDE FOR THE EXTRADITION OF PERSONS PURSUANT TO ANY CONVENTIONS, TREATIES, BILATERAL OR MULTILATERAL AGREEMENTS THAT APPLY TO AND HAVE BEEN EXTENDED TO GIBRALTAR OR ANY EXTRADITION ARRANGEMENT OR AGREEMENTS WHICH HAVE BEEN ENTERED INTO BY THE UNITED KINGDOM AND EXTENDED TO GIBRALTAR AND FOR CONNECTED PURPOSES.

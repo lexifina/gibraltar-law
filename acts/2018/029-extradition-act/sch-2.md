@@ -16,7 +16,7 @@ Re-extradition: Modifications
 
 6. Omit section 20.
 
-7. In section 25(3), for the words from “must send the case” to “extradited” substitute “may order the person to be extradited to the  Requesting State.”.
+7. In section 25(3), for the words from “must send the case” to “extradited” substitute “may order the person to be extradited to the Requesting State.”.
 
 8.  In section 25, after subsection (3) insert-
 
@@ -36,7 +36,7 @@ Re-extradition: Modifications
 
 12. In section 39(9), for the words from “the Central Authority” to “person” substitute with “the order is made”.
 
-Extradition 2018-29
+2018-29 Extradition
 
 13. In section 40, omit subsections (1)(b), (6) and (7).
 
@@ -54,13 +54,13 @@ Extradition 2018-29
 
 19. In section 55(1)(a), for “the Central Authority” substitute with “the Magistrate”.
 
-20. In section 55, in subsections (2) to (6) and in each place in subsection (7), for “the Central Authority” substitute  with “the Magistrate”.
+20. In section 55, in subsections (2) to (6) and in each place in subsection (7), for “the Central Authority” substitute with “the Magistrate”.
 
 21. In section 56, after subsection (1) insert-
 
 “(1A) But this section does not apply if the order for the person’s extradition is made under section 64.”
 
-22. In section 57(2)(a), for “a certificate is issued under section 5 in respect of the request” substitute  with “the person would (apart from section 107(1) be released from detention pursuant to the Gibraltar sentence (whether or not on licence)”.
+22. In section 57(2)(a), for “a certificate is issued under section 5 in respect of the request” substitute with “the person would (apart from section 107(1) be released from detention pursuant to the Gibraltar sentence (whether or not on licence)”.
 
 23. In section 63(1), for the words from “arrested” to “requested” substitute with “brought before the Magistrate under section 107(1) may consent to his extradition to the State in which the overseas sentence was imposed”.
 
@@ -72,13 +72,13 @@ Extradition 2018-29
 
 26.In section 64, after subsection (1) insert-
 
-“(1A) The Magistrate  must remand the person in custody or on bail.
+“(1A) The Magistrate must remand the person in custody or on bail.
 
 (1B) If the Magistrate remands the person in custody he may later grant bail.”.
 
-2018-29 Extradition
+Extradition 2018-29
 
-27. In section 64(4), for the words from “send the case” to “extradited” substitute  with “within the period of 10 days starting with the day on which consent is given order the person’s extradition to the Requesting State”.
+27. In section 64(4), for the words from “send the case” to “extradited” substitute with “within the period of 10 days starting with the day on which consent is given order the person’s extradition to the Requesting State”.
 
 28. In section 64, after subsection (5) insert-
 
@@ -106,7 +106,7 @@ Extradition claim following consent.
 
 (2)  The conditions are that-
 
-(a)  the  Central Authority has received another valid request for the person’s extradition to a Requesting State;
+(a)  the Central Authority has received another valid request for the person’s extradition to a Requesting State;
 
 (b)  the other request has not been disposed of.
 
@@ -114,9 +114,9 @@ Extradition claim following consent.
 
 (a)  a European arrest warrant has been issued in respect of the person;
 
-(b)  the European arrest warrant has not been disposed of.
+2018-29 Extradition
 
-Extradition 2018-29
+(b)  the European arrest warrant has not been disposed of.
 
 (4)  The Magistrate must not make an order under section 64(4) until he is informed what order has been made under section 62(2) or 103(2).
 
@@ -126,9 +126,9 @@ Extradition 2018-29
 
 (7)  If-
 
-(a)  the order under section 62(2) or 103(2) is for further proceedings on the request under consideration to be deferred until the other request, or the  European arrest warrant, has been disposed of; and
+(a)  the order under section 62(2) or 103(2) is for further proceedings on the request under consideration to be deferred until the other request, or the European arrest warrant, has been disposed of; and
 
-(b)  an order is made under section 104 for proceedings on the request under consideration to be resumed, the period specified in section 64(4) must be taken to be 10 days starting with the day on which the order under section 104  is made.
+(b)  an order is made under section 104 for proceedings on the request under consideration to be resumed, the period specified in section 64(4) must be taken to be 10 days starting with the day on which the order under section 104 is made.
 
 (8)  If the order under section 62(2) or 103(2) is for further proceedings on the other request, or the European arrest warrant, to be deferred until the request under consideration has been disposed of, the period specified in section 64(4) must be taken to be 10 days starting with the day on which the Magistrate is informed of the order.
 
