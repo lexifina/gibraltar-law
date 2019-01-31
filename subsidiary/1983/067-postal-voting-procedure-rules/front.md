@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1983/106 r. 12(1), (2), Sch.
 
-1987/146 r. 5(1), (5), Sch. 5.11.1987
+1987/146 r. 5(1), (5), Sch. 5.11.1987 2019/022 r. 7(3)(a) 31.1.2019
 
 Parliament POSTAL VOTING (PROCEDURE) RULES
 
