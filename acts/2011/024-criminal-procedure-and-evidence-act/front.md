@@ -26,7 +26,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 23.4.2018 2017-10 s. 358(1)(b)(i), (3) 13.6.2018 2018-29 ss. 77(1), 110(3), 110(3A)-(3B), 117(1), 119(1A), (2)-(5), (7), (9)(b), (11)
 
-24.1.2019
+24.1.2019 LN. 2019/017 ss. 107(9), 108(1) 31.1.2019
 
 Transposing: Directive 2010/64/EU Directive 2011/36/EU Decision 2008/675/JHA
 
