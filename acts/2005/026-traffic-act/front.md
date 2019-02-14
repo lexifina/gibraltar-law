@@ -18,7 +18,7 @@ Amending enactments Relevant current provisions Commencement date Act.   2011-18
 
 26.1.20161 “ ss. 2, 44, 44A-44F, 52(1)(a)(ii), (aa), (3), 94A-94L, 96(2), 97, 98A, 104
 
-20.4.20172 LN. 2017/096 ss. 2, 10(4)-(5), 14(4)-(8) 20.5.2018 Act. 2018-22 ss. 2, 2A 15.11.2018
+20.4.20172 LN. 2017/096 ss. 2, 10(4)-(5), 14(4)-(8) 20.5.2018 Act. 2018-22 ss. 2, 2A 15.11.2018 LN. 2019/034 ss.83(6), 83A – C, 85(3), 85A 14.2.2019
 
 Transposing: Directive 2006/126/EC Directive 2014/46/EU
 
@@ -86,17 +86,15 @@ Regulations
 
 PART VII STREETS AND HIGHWAYS
 
-81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs. 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
+81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs. 83A. Informative sign. 83B. Interference with traffic signs. 83C. Obstruction of pavement or verge. 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 85A. Priority of traffic lights. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
 
 PART VIIA FIXED PENALTIES
 
-Introductory
-
-94A. Fixed penalty offences. 94B. Fixed penalty notices.
-
 Traffic
 
-2005-26 94C. Amount of fixed penalty.
+2005-26 Introductory
+
+94A. Fixed penalty offences. 94B. Fixed penalty notices. 94C. Amount of fixed penalty.
 
 Giving notices to suspected offenders
 
