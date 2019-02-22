@@ -23,3 +23,5 @@ SUMMARY OFFENCES IN RESPECT OF WHICH AN APPLICATION UNDER SECTION 12 MAY BE MADE
 10. An offence under section 62 of the Traffic Act 2005 (Driving, or being in charge, when under influence of drink or drugs)
 
 11. An offence under section 63 of the Traffic Act 2005 (Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit.
+
+12. A summary offence under the Terrorism Act 2018 which falls within the definition of “terrorist investigation” as defined in section 3 of the Terrorism Act 2018.

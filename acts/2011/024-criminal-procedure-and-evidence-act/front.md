@@ -26,7 +26,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 23.4.2018 2017-10 s. 358(1)(b)(i), (3) 13.6.2018 2018-29 ss. 77(1), 110(3), 110(3A)-(3B), 117(1), 119(1A), (2)-(5), (7), (9)(b), (11)
 
-24.1.2019 LN. 2019/017 ss. 107(9), 108(1) 31.1.2019
+24.1.2019 LN. 2019/017 ss. 107(9), 108(1) 31.1.2019 Act. 2018-25 ss. 2(1), 77(1), 84(8), 85(3), 94A, 685(3), Sch. 14 22.2.2019
 
 Transposing: Directive 2010/64/EU Directive 2011/36/EU Decision 2008/675/JHA
 
@@ -108,11 +108,11 @@ Fingerprints, samples, etc]
 
 Retention and destruction of samples, etc
 
-93. Retention of samples and fingerprints, etc. generally. 94. Destruction of samples etc. 95. Destruction of data given voluntarily. 96. Destruction of data relating to persons not convicted. 97. Destruction of data relating to persons under 18 not convicted: Recordable offences other than qualifying offences. 98. Destruction of data relating to persons under 16 not convicted: Qualifying offences. 99. Destruction of data relating to persons aged 16 or 17 not convicted: Qualifying offences. 100. Destruction of data relating to persons under 18 convicted of a recordable offence other than a qualifying offence. 101. Sections 95 to 100: Supplementary provision. 102. Destruction of fingerprints taken under section 86(12). 103. Retention for purposes of security.
+93. Retention of samples and fingerprints, etc. generally. 94. Destruction of samples etc. 94A. Destruction of samples. 95. Destruction of data given voluntarily. 96. Destruction of data relating to persons not convicted. 97. Destruction of data relating to persons under 18 not convicted: Recordable offences other than qualifying offences. 98. Destruction of data relating to persons under 16 not convicted: Qualifying offences. 99. Destruction of data relating to persons aged 16 or 17 not convicted: Qualifying offences. 100. Destruction of data relating to persons under 18 convicted of a recordable offence other than a qualifying offence. 101. Sections 95 to 100: Supplementary provision. 102. Destruction of fingerprints taken under section 86(12).
 
 2011-24 Criminal Procedure and Evidence
 
-104. Retention with consent. 105. Destruction of copies, and notification of destruction. 106. Use of retained material.
+103. Retention for purposes of security. 104. Retention with consent. 105. Destruction of copies, and notification of destruction. 106. Use of retained material.
 
 Photographing of suspects, etc
 
@@ -164,11 +164,11 @@ Remands by the Magistrates’ Court
 
 Recognizances for good behaviour
 
-173. Binding over. 174. Discharge of recognizance on complaint of surety. 175. Varying or dispensing with requirements as to sureties.
+173. Binding over. 174. Discharge of recognizance on complaint of surety.
 
 2011-24 Criminal Procedure and Evidence
 
-176. Postponement of taking recognizance. 177. Forfeiture of recognizance.
+175. Varying or dispensing with requirements as to sureties. 176. Postponement of taking recognizance. 177. Forfeiture of recognizance.
 
 Proceedings against corporations
 
@@ -228,11 +228,11 @@ Preliminary
 
 Duty of disclosure
 
-239. Initial duty of prosecutor to disclose. 240. Initial duty to disclose: Further provisions.
+239. Initial duty of prosecutor to disclose.
 
 2011-24 Criminal Procedure and Evidence
 
-241. Deleted 242. Voluntary disclosure by defendant 243. Contents of defence statement. 244. Updated disclosure by defendant. 245. Deleted 246. Deleted 247. Disclosure by defendant: Further provisions. 248. Continuing duty of prosecutor to disclose. 249. Application by defendant for disclosure. 250. Prosecutor’s failure to observe time limits. 251. Faults in disclosure by defendant. 252. Time limit for defence disclosure.
+240. Initial duty to disclose: Further provisions. 241. Deleted 242. Voluntary disclosure by defendant 243. Contents of defence statement. 244. Updated disclosure by defendant. 245. Deleted 246. Deleted 247. Disclosure by defendant: Further provisions. 248. Continuing duty of prosecutor to disclose. 249. Application by defendant for disclosure. 250. Prosecutor’s failure to observe time limits. 251. Faults in disclosure by defendant. 252. Time limit for defence disclosure.
 
 Disclosure: Miscellaneous
 
@@ -320,11 +320,11 @@ Summoning and calling of witnesses
 
 Competence and compellability
 
-339. Competence of witnesses to give evidence. 340. Determining competence of witnesses. 341. Deciding whether witness to be sworn. 342. Reception of unsworn evidence. 343. Abolition of right of defendant to make unsworn statement.
+339. Competence of witnesses to give evidence. 340. Determining competence of witnesses. 341. Deciding whether witness to be sworn. 342. Reception of unsworn evidence.
 
 2011-24 Criminal Procedure and Evidence
 
-344. Competence of persons charged and their spouses. 345. Defendant’s spouse as a witness. 346. Defendant’s spouse as a witness: Supplementary. 347. Evidence by spouses about property. 348. Limitation of rule against self-incrimination.
+343. Abolition of right of defendant to make unsworn statement. 344. Competence of persons charged and their spouses. 345. Defendant’s spouse as a witness. 346. Defendant’s spouse as a witness: Supplementary. 347. Evidence by spouses about property. 348. Limitation of rule against self-incrimination.
 
 Convictions and acquittals
 
@@ -378,9 +378,11 @@ Video recordings
 
 Documentary evidence: Supplementary
 
-413. Documentary evidence: Supplementary. 414. Documents produced as exhibits.
+413. Documentary evidence: Supplementary.
 
 2011-24 Criminal Procedure and Evidence
+
+414. Documents produced as exhibits.
 
 PART 18 – LIVE LINK EVIDENCE, ETC.
 
@@ -442,9 +444,9 @@ Miscellaneous provisions
 
 PART 20 – SENTENCING: GENERAL PRINCIPLES
 
-Principles for sentencing
-
 2011-24 Criminal Procedure and Evidence
+
+Principles for sentencing
 
 479. Purposes of sentencing. 480. Determining the seriousness of an offence. 481. Reduction in sentences for guilty pleas. 482. Powers to mitigate sentences and deal appropriately with mentally disordered offenders 483. Mitigation of sentence in the Magistrates’ Court 484. Sentencing guidelines. 485. Duty to give reasons for, and explain effect of, sentence.
 
@@ -506,9 +508,11 @@ Community sentences
 
 Further provisions about relevant orders
 
-538. Relevant order made by Supreme Court: Direction in relation to further proceedings. 539. Relevant orders made on appeal. 540. Duties of responsible officer. 541. Requirement must avoid conflict with religious beliefs, etc. 542. Provision of copies of relevant orders. 543. Duty of offender to keep in touch with responsible officer.
+538. Relevant order made by Supreme Court: Direction in relation to further proceedings. 539. Relevant orders made on appeal. 540. Duties of responsible officer. 541. Requirement must avoid conflict with religious beliefs, etc. 542. Provision of copies of relevant orders.
 
 2011-24 Criminal Procedure and Evidence
+
+543. Duty of offender to keep in touch with responsible officer.
 
 Breach or requirement of community sentence
 
@@ -534,9 +538,11 @@ Imposing of fines
 
 Juvenile offenders
 
-575. Limit on fines imposed by Magistrates’ Court in respect of juveniles. 576. Power to order statement as to financial circumstances of parent or guardian. 577. Power to order parent or guardian to pay fine, costs or compensation. 578. Fixing of fine or compensation to be paid by parent or guardian.
+575. Limit on fines imposed by Magistrates’ Court in respect of juveniles. 576. Power to order statement as to financial circumstances of parent or guardian. 577. Power to order parent or guardian to pay fine, costs or compensation.
 
 2011-24 Criminal Procedure and Evidence
+
+578. Fixing of fine or compensation to be paid by parent or guardian.
 
 Enforcement of fines and recognizances
 
@@ -598,9 +604,11 @@ Fines on young offenders
 
 Binding over of parent or guardian
 
-641. Binding over of parent or guardian. 642. Attendance at court of parent or guardian.
+641. Binding over of parent or guardian.
 
 2011-24 Criminal Procedure and Evidence
+
+642. Attendance at court of parent or guardian.
 
 Schedule 13 offences
 
@@ -628,9 +636,11 @@ Hospital orders
 
 Transfer to hospital of prisoners, etc.
 
-671. Removal to hospital of persons serving sentences of imprisonment, etc. 672. Removal to hospital of other prisoners. 673. Prisoners under sentence. 674. Detained persons. 675. Persons remanded by the Magistrates’ Court. 676. Persons detained under the Immigration, Asylum and Refugee Act.
+671. Removal to hospital of persons serving sentences of imprisonment, etc. 672. Removal to hospital of other prisoners. 673. Prisoners under sentence. 674. Detained persons. 675. Persons remanded by the Magistrates’ Court.
 
 2011-24 Criminal Procedure and Evidence
+
+676. Persons detained under the Immigration, Asylum and Refugee Act.
 
 Supervision orders
 
