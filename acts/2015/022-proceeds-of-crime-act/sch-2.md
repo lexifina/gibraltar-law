@@ -18,7 +18,7 @@ The following are supervisory bodies–
 
 (f) the Gambling Commissioner as defined in section 2 of the Gambling Act 2005;
 
-(g) the Chairman of the Commission of the Office of Fair Trading as defined in section 2 of the Fair Trading Act 2015;
+(g) the Office of Fair Trading as defined in section 3 of the Fair Trading Act 2015 (in relation to businesses engaging in relevant financial business in accordance with sections 9(1)(h) (real estate agents) and 9(1)(k) (dealers in high value goods) of the Proceeds of Crime Act 2015;
 
 (h) the Registrar of the Supreme Court.
 
@@ -28,11 +28,11 @@ PART II
 
 (b) the Insurance Companies Act, 1987;
 
-(c) the Financial Services (Investment and Fiduciary Services) Act, 1989;
-
 Proceeds of Crime
 
 2015-22
+
+(c) the Financial Services (Investment and Fiduciary Services) Act, 1989;
 
 (d) the Companies Act 2014.
 

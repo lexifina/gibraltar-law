@@ -24,7 +24,9 @@ Proceeds of Crime
 
 20.7.2017 LN. 2017/205 Sch. 2 1.11.2017 2018/013 s. 26(1A) 18.1.2018 Act. 2018-01 ss. 1B(2)(a), 1C(d), 1L(1)-(3), 70(2A), 70A-70B, 145, 146(6)
 
-8.2.2018 LN. 2018/064 s. 9(1)(p) 16.3.2018 2018/124 ss. 5(7)(d), 34A(4) 25.5.2018 2018/194 s. 9(1)(oa) 13.9.2018 Act. 2018-25 s. 1C(a) 21.2.2019
+8.2.2018 LN. 2018/064 s. 9(1)(p) 16.3.2018 2018/124 ss. 5(7)(d), 34A(4) 25.5.2018 2018/194 s. 9(1)(oa) 13.9.2018 Act. 2018-25 s. 1C(a) 21.2.2019 2019-05 ss. 1E(1), 1F(2), 1G(1), 1GA(1)-(2), 1H, 1IA(2), 1IB, 1IC(2), (7)-(8), 1T(3), 4F(8), 7(1B)-(1C), 8(2)-(3), 11(1), (6), 19, 26(2A), 33(1), 184(3),  184A-184D,  Sch2
+
+21.3.2019 2018-25 ss. 5(9)(b), 7(2)(b) 21.3.2019
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849
 
@@ -50,7 +52,7 @@ Information gathering powers
 
 Cooperation
 
-1E. Cooperation with other FIUs. 1F. Contents of requests and mechanisms of exchange. 1G. Forwarding of disclosures. 1GA. Requests from EU FIU’s. 1H. Obtaining additional information from Member States. 1I. Refusals. 1IA. Restrictions and conditions for use. 1IB. Tax crimes. 1IC. Use of exchanged information. 1J. Internal cooperation. 1JA. Feedback.
+1E. Cooperation with other FIUs. 1F. Contents of requests and mechanisms of exchange. 1G. Forwarding of disclosures. 1GA. Requests from FIU’s. 1H. Obtaining further information. 1I. Refusals. 1IA. Restrictions and conditions for use. 1IB. Tax crimes. 1IC. Use of exchanged information. 1J. Internal cooperation. 1JA. Feedback.
 
 Access to information
 
@@ -226,7 +228,7 @@ Interpretation 181. “Document” and “excluded material”. 182. Criminal co
 
 PART VII GENERAL
 
-184. Power to make subordinate legislation.
+184. Power to make subordinate legislation. 184A. Power to make subordinate legislation regarding external requests and orders. 184B. Power to make subordinate legislation regarding external investigations. 184C. Rules of court. 184D. Interpretation for the purposes of sections 184A, 184B and 184C.
 
 PART VIII REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS, CONSEQUENTIAL AMENDMENTS
 
@@ -234,15 +236,15 @@ PART VIII REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS, CONSEQUENTIAL AMENDMENTS
 
 SCHEDULE 1 Repealed
 
-SCHEDULE 2
+Proceeds of Crime
+
+2015-22 SCHEDULE 2
 
 SCHEDULE 3
 
 SCHEDULE 4
 
-Proceeds of Crime
-
-2015-22 SCHEDULE 5
+SCHEDULE 5
 
 SCHEDULE 6
 
