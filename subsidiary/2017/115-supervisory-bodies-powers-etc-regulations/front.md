@@ -10,6 +10,10 @@ SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
 
 Commencement 26.6.2017
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2019-05 r. 11(3) 21.3.2019 LN. 2019/116 r. 31(4A) 13.6.2019
+
 Transposing – Directive (EU) 2015/849
 
 _______________________
@@ -24,19 +28,19 @@ Part 2 Cooperation
 
 9. Cooperation with competent authorities outside Gibraltar. 10. Cooperation with EBA, EIOPA and ESMA.
 
-Part 3 Supervisory Powers
+Part 3
+
+Proceeds of Crime SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
+
+2015-22
+
+Subsidiary 2017/115 Supervisory Powers
 
 General supervisory powers
 
 11. General supervisory powers.
 
 Powers to obtain information
-
-Proceeds of Crime SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
-
-2015-22
-
-Subsidiary 2017/115
 
 12. Power to require information and production of documents, etc. 13. Skilled person report. Powers to appoint inspectors
 
@@ -56,12 +60,12 @@ Appeals and Miscellaneous
 
 30. Appeals. 31. Public statement. 32. Notification of sanctions to EBA, EIOPA and ESMA.
 
-Part 5 Offences
-
-33. Wilfully making a statement or furnishing information knowing it to be untrue. 34. Unwillingness to cooperate and protection of legal privilege. 35. Offences by body corporate, partnerships and unincorporated associations.
+Part 5
 
 Proceeds of Crime SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
 
 2015-22
 
-Subsidiary 2017/115 In exercise of the powers conferred upon it by section 184 of the Proceeds of Crime Act 2015, and in order to provide powers to supervisory authorities designated under the Proceeds of Crime Act 2015 and to transpose, in part, into the law of Gibraltar, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, the Government has made the following Regulations-
+Subsidiary 2017/115 Offences
+
+33. Wilfully making a statement or furnishing information knowing it to be untrue. 34. Unwillingness to cooperate and protection of legal privilege. 35. Offences by body corporate, partnerships and unincorporated associations. In exercise of the powers conferred upon it by section 184 of the Proceeds of Crime Act 2015, and in order to provide powers to supervisory authorities designated under the Proceeds of Crime Act 2015 and to transpose, in part, into the law of Gibraltar, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, the Government has made the following Regulations-
