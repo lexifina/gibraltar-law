@@ -12,7 +12,7 @@ Commencement 26.4.2012
 
 Amending enactments Relevant current provisions Commencement date LN.  2013/151 r. 8(2) 31.10.2013 Act. 2016-20 rr. 2(1), 19(1), (2), (4), 25, 30(5), 34
 
-13.10.2016
+13.10.2016 LN. 2019/052 r. 8(2) 21.3.2019
 
 Transposing: Directive 2008/104/EC
 
