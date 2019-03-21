@@ -192,7 +192,7 @@ by a firm or sole practitioner who by way of business provides legal or notarial
 
 (q) the trading in goods (including dealing as an auctioneer) whenever a transaction involves the receipt of a payment or payments in cash of at least 15,000 euros in total, whether the transaction is executed in a single operation or in several operations which appear to be linked, by a firm or sole trader who by way of business trades in goods;
 
-(r) operating a casino under a casino operating licence (within the meaning given by section 3(1) of the Gambling Act 2005 (nature of licence));
+(r) the carrying on of gambling services as defined in section 7 of the Proceeds of Crime Act 2015;
 
 (s) the auctioning by an auction platform of two-day spot or five- day futures, within the meanings given by Article 3 of the Emission Allowance Auctioning Regulation;
 
@@ -210,9 +210,7 @@ by a firm or sole practitioner who by way of business provides legal or notarial
 
 Terrorism
 
-2018-25
-
-(a) forming companies or other legal persons;
+2018-25 (a) forming companies or other legal persons;
 
 (b) acting, or arranging for another person to act-
 
@@ -240,11 +238,11 @@ Terrorism
 
 (a) disclosure requirements set out in Articles 17 and 19 of Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation);
 
-(b) disclosure requirements consistent with Articles 3, 5, 7, 8, 10, 14 and 16 of Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectuses to
+(b) disclosure requirements consistent with Articles 3, 5, 7, 8, 10, 14 and 16 of Directive 2003/71/EC of the European Parliament and of the Council of 4 November 2003 on the prospectuses to be published when securities are offered to the public or admitted to trading;
 
 Terrorism
 
-2018-25 be published when securities are offered to the public or admitted to trading;
+2018-25
 
 (c) disclosure requirements consistent with Articles 4 to 6, 14, 16 to 19 and 30 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 relating to the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market; or
 
@@ -270,9 +268,7 @@ Excluded Activities.
 
 Terrorism
 
-2018-25
-
-(3)  A business is not in the regulated sector to the extent that it consists of financial activity if–
+2018-25 (3)  A business is not in the regulated sector to the extent that it consists of financial activity if–
 
 (a) the person's total annual turnover in respect of the financial activity does not exceed £64,000;
 
@@ -300,11 +296,11 @@ Interpretation.
 
 “the Capital Requirements Regulation” means Regulation (EU) No 575/2013 of the European Parliament and of the Council, as the same may be amended from time to time;
 
-“the Emission Allowance Auctioning Regulation” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive
+“the Emission Allowance Auctioning Regulation” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council
 
 Terrorism
 
-2018-25 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community, as the same may be amended from time to time;
+2018-25 establishing a scheme for greenhouse gas emission allowances trading within the Community, as the same may be amended from time to time;
 
 “the Insurance Mediation Directive” means directive 2002/92/EC of the European Parliament and of the Council of 9th December 2002 on insurance mediation, as the same may be amended from time to time; and
 

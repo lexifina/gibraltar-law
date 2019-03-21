@@ -254,7 +254,7 @@ Place of detention.
 
 1.(1)  The Minister shall designate places at which persons may be detained under Schedule 10 or under section 85.
 
-(2)  In this Schedule a reference to a police station includes a reference to any place which the Minister has designates under subparagraph (1) as a place where a person may be detained under section 85.
+(2)  In this Schedule a reference to a police station includes a reference to any place which the Minister has designated under subparagraph (1) as a place where a person may be detained under section 85.
 
 (3)  Where a person is detained under Schedule 10, he may be taken in the custody of an examining officer or of a person acting under an examining officer’s authority to and from any place where his attendance is required for the purpose of-
 
