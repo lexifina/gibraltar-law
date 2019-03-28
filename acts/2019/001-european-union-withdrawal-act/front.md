@@ -10,6 +10,10 @@ Act. No. 2019-01 Commencement 31.1.2019
 
 Assent 31.1.2019
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/073 s. 3(1), (2) 28.3.2019
+
 English sources: None cited
 
 EU Legislation/International Agreements involved: European Council Decision (EU) 2019/584
