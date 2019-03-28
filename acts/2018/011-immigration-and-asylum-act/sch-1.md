@@ -34,8 +34,6 @@ Part 2 – Powers of immigration officers
 
 (ii) he should be given leave and for what period or on what conditions (if any), or
 
-Immigration and Asylum (Not In Force) 2018-11
-
 (iii) he should be refused leave.
 
 (2)  A person, on being questioned under sub - paragraph (1) by an immigration officer, may be required in writing by him to submit to further questioning.
@@ -66,8 +64,6 @@ Immigration and Asylum (Not In Force) 2018-11
 
 (d) whether his return to Gibraltar is prohibited or restricted.
 
-2018-11 Immigration and Asylum (Not In Force)
-
 (2)  If a person is questioned under subparagraph (1), an immigration officer may require the person, by notice in writing, to submit to further questioning by an immigration officer for a purpose specified in that subparagraph.
 
 8.(1)  It shall be the duty of any person questioned under paragraph 5, 6 or 7 to furnish to the immigration officer all such information in his possession as the immigration officer may require for the purpose of his functions under that paragraph.
@@ -94,8 +90,6 @@ In paragraph (b), “relevant description” means any description appearing to 
 
 (a) his parent or guardian, or
 
-Immigration and Asylum (Not In Force) 2018-11
-
 (b) a person who for the time being takes responsibility for him.
 
 (6)  The person mentioned in subparagraph (5)(b) may not be an immigration officer.
@@ -121,8 +115,6 @@ may be searched by an immigration officer with a view to ascertaining whether he
 13.  An immigration officer may, for the purpose of carrying out his duties under this Act, request information from any person who may reasonably be expected to have it as to the abode or whereabouts of any other person.
 
 14.  Subject to paragraph 15, an immigration officer may request any person seeking leave to enter Gibraltar to deposit such sum as specified or furnish security for such amount as he may deem necessary to effect that person’s repatriation from Gibraltar if necessary.
-
-2018-11 Immigration and Asylum (Not In Force)
 
 15.  Paragraph 14 does not apply where a sum of money has been deposited or security furnished for that purpose to the Director of Employment under regulation 7(3)(g) of the Employment Regulations1994.
 
@@ -152,8 +144,6 @@ for a period not exceeding 48 hours.
 
 (3)  The power conferred by subparagraph (2) includes power to take biometric information (whether or not by submitting to a process by means of which information is obtained or recorded).
 
-Immigration and Asylum (Not In Force) 2018-11
-
 (4)  Paragraph 8(5) to (7) applies to subparagraph (2) as it applies to paragraph 8(4).
 
 (5)  Any person detained under paragraph 17 may be taken in the custody of a police officer or an immigration officer to and from any place where his attendance is required for the purpose of ascertaining his citizenship or nationality or of making arrangements for his admission to a country or territory, or where he is required to be for any other purpose connected with the operation of this Act.
@@ -175,8 +165,6 @@ Immigration and Asylum (Not In Force) 2018-11
 (5)  Subparagraph (6) applies where a person who is at large in Gibraltar by virtue of this paragraph is subject to a restriction as to reporting to an immigration officer with a view to the conclusion of his questioning under paragraph 5 or 6.
 
 (6)  If the person fails at any time to comply with that restriction–
-
-2018-11 Immigration and Asylum (Not In Force)
 
 (a) an immigration officer may direct that the person’s questioning is to be treated as concluded at that time; but
 
@@ -212,8 +200,6 @@ for relevant documents.
 
 (4)  An immigration officer may conduct a search under subparagraph (2) before taking the arrested person to a place where he is to be detained if the presence of that person at a place other than one where he is to be detained is necessary to make an effective search for any relevant documents.
 
-Immigration and Asylum (Not In Force) 2018-11
-
 (5)  The officer conducting the search must make a record in writing of–
 
 (a) the grounds for the search; and
@@ -242,11 +228,7 @@ the justice of the peace may issue a warrant authorising an immigration officer 
 
 (b) retention of the document may facilitate the person’s removal.
 
-(11)  “Relevant documents” means any documents which might-
-
-2018-11 Immigration and Asylum (Not In Force)
-
-(a) establish the arrested person’s identity, nationality or citizenship; or
+(11)  “Relevant documents” means any documents which might- (a) establish the arrested person’s identity, nationality or citizenship; or
 
 (b) indicate the place from which he has travelled to Gibraltar or to which he is proposing to go.
 
@@ -276,8 +258,6 @@ the justice of the peace may issue a warrant authorising an immigration officer 
 
 (7)  An officer searching a person under subparagraph (3)(a) may seize and retain anything he finds, if he has reasonable grounds for believing that he might use it to assist his escape from lawful custody.
 
-Immigration and Asylum (Not In Force) 2018-11
-
 (8)  An officer searching a person under subparagraph (3)(b) may seize and retain anything he finds, other than an item subject to legal privilege, if he has reasonable grounds for believing that it might be a document falling within that subparagraph.
 
 (9)  Nothing seized under subparagraph (6) or (7) may be retained when the person from whom it was seized-
@@ -306,8 +286,6 @@ Part 3 - Powers of the Minister
 
 30.  The Minister may, for the purpose of carrying out his duties under this Act, request information from any person who may reasonably be expected to have it as to the abode or whereabouts of any other person.
 
-2018-11 Immigration and Asylum (Not In Force)
-
 31.  The Minister may request that a police officer take such steps as are required to assist in the enforcement of this Act including, but not limited to, by arresting, detaining, photographing, fingerprinting or otherwise identifying a person who requires leave or makes any application under this Act.
 
 Part 4 - Powers of police officers
@@ -316,7 +294,9 @@ Part 4 - Powers of police officers
 
 33.  A police officer may require any person to produce the document authorising such person to enter or be within Gibraltar.
 
-34.  A police officer may require any person to– (a) produce his passport, identification card or other identification documents and examine such documents; and
+34.  A police officer may require any person to–
+
+(a) produce his passport, identification card or other identification documents and examine such documents; and
 
 (b) declare whether or not he is carrying or conveying, or has carried or conveyed, any other documents relevant to his identity, nationality or citizenship and produce any such documents which he is carrying or conveying.
 
@@ -334,11 +314,7 @@ may be searched by a police officer with a view to ascertaining whether he is do
 
 38.(1)  A police officer may arrest without warrant a person liable to be detained under paragraph 17.
 
-(2)  If a justice of the peace is by written information on oath satisfied that there is reasonable ground for suspecting that a person liable to be arrested under this paragraph is to be found on any premises, he may grant a warrant authorising a police officer to enter, if
-
-Immigration and Asylum (Not In Force) 2018-11
-
-need be by reasonable force, the premises named in the warrant for the purpose of searching for and arresting that person.
+(2)  If a justice of the peace is by written information on oath satisfied that there is reasonable ground for suspecting that a person liable to be arrested under this paragraph is to be found on any premises, he may grant a warrant authorising a police officer to enter, if need be by reasonable force, the premises named in the warrant for the purpose of searching for and arresting that person.
 
 39.  A police officer–
 
@@ -370,8 +346,6 @@ need be by reasonable force, the premises named in the warrant for the purpose o
 
 (7)  Nothing seized under subparagraph (6) may be retained when he is released from detention under paragraph 17.
 
-2018-11 Immigration and Asylum (Not In Force)
-
 41.(1)  A police officer may cause such steps to be taken, using such force as may be reasonably necessary, to photograph, measure, fingerprint and otherwise identify any person who is in lawful custody under the provisions of this Act.
 
 (2)  The officer carrying out a search under this paragraph must be of the same sex as the person searched.
@@ -400,11 +374,7 @@ Part 5 – Regulations
 
 (h) contain such incidental or supplemental provision as the Minister considers appropriate.
 
-(3)  In this paragraph-
-
-Immigration and Asylum (Not In Force) 2018-11
-
-“authorised person” means–
+(3)  In this paragraph- “authorised person” means–
 
 (a) an immigration officer;
 
