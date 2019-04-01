@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1994/073 r
 
 2.10.2008 2014/236 r. 7(5) 4.12.2014 2015/021 r. 7(3)(h)-(i) 19.2.2015 2016/065 r. 4(1), (8), Schs. 1, 7 1.4.2016 2016/138 r. 15A(3), (3A)-(3C) 18.6.2016 2016/158 r. 7(3) 21.7.2016 Act. 2016-20 rr. 8(1)-(2), (6)-(7), (9)-(10), 16(1), (3)-(5), 17(1), (3)(a), (c), (5)
 
-13.10.2016 LN. 2019/239 Sch. 7 1.4.2017 2018/070 Sch. 7 1.4.2018
+13.10.2016 LN. 2019/239 Sch. 7 1.4.2017 2018/070 Sch. 7 1.4.2018 2019/065 r. 4(8), Sch. 7 1.4.2019
 
 Transposing: Directive 91/533/ECC Regulation 1612/68 Directive 2001/55/EC Directive 2003/9/EC Directive 2004/83/EC Directive 2014/67/EU
 
@@ -38,6 +38,6 @@ SCHEDULE 5. Permit.
 
 SCHEDULE 6. Certificate of Employment (Permit issued under Regulation 7).
 
-SCHEDULE 7. Fees.
+SCHEDULE 7. Fees and Penalties.
 
 Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
