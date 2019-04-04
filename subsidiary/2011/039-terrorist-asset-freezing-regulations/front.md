@@ -12,9 +12,17 @@ TERRORIST ASSET-FREEZING REGULATIONS 2011
 
 Commencement 31.3.2011
 
-Implementing: Council Regulation (EC) No. 2580/2001 _______________________
+Amending enactments Relevant current provisions Commencement date LN. 2019/076 rr. 2(1), 5(1)(a), (b), 15(1)(a), (c)
 
-ARRANGEMENT OF REGULATIONS
+4.4.2019
+
+Implementing: Council Regulation (EC) No. 2580/2001
+
+Counter-Terrorism TERRORIST ASSET-FREEZING REGULATIONS 2011
+
+2010-01
+
+Subsidiary 2011/039 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -28,17 +36,17 @@ PART II DESIGNATIONS
 
 PART III PROHIBITIONS IN RELATION TO DESIGNATED PERSONS
 
-13. Meaning of “funds” and “economic resources”. 14. Meaning of “financial services”.
+13. Meaning of “funds” and “economic resources”. 14. Meaning of “financial services”. 15. Meaning of “relevant institution”. 16. Freezing of funds and economic resources. 17. Making funds or financial services available to a designated person. 18. Making funds or financial services available for benefit of designated person. 19. Making economic resources available to designated person. 20. Making economic resources available for benefit of designated person. 21. Exceptions. 22. Licences. 23. Circumventing prohibitions etc.
+
+PART IV INFORMATION
+
+24. Reporting obligations of relevant institutions.
 
 Counter-Terrorism TERRORIST ASSET-FREEZING REGULATIONS 2011
 
 2010-01
 
-Subsidiary 2011/039 15. Meaning of “relevant institution”. 16. Freezing of funds and economic resources. 17. Making funds or financial services available to a designated person. 18. Making funds or financial services available for benefit of designated person. 19. Making economic resources available to designated person. 20. Making economic resources available for benefit of designated person. 21. Exceptions. 22. Licences. 23. Circumventing prohibitions etc.
-
-PART IV INFORMATION
-
-24. Reporting obligations of relevant institutions. 25. Powers to request information. 26. Production of documents. 27. Failure to comply with request for information. 28. General power to disclose information. 29. Co-operation with investigations. 30. Application of provisions.
+Subsidiary 2011/039 25. Powers to request information. 26. Production of documents. 27. Failure to comply with request for information. 28. General power to disclose information. 29. Co-operation with investigations. 30. Application of provisions.
 
 PART V SUPPLEMENTARY PROVISIONS
 
