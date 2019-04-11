@@ -12,7 +12,7 @@ Assent 20.12.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2019-05 ss. 19(1)(b), 41(5), 43(3), (4), 51(2)(c), 53(4), 96(1), 160(2)- (3), Schs. 2, 9 21.3.2019
+Act. 2019-05 ss. 19(1)(b), 41(5), 43(3), (4), 51(2)(c), 53(4), 96(1), 160(2)- (3), Schs. 2, 9 21.3.2019 LN. 2019/093 s. 39A, Sch. 17 11.4.2019
 
 Terrorism
 
@@ -62,11 +62,11 @@ PART 4 TERRORIST PROPERTY
 
 Finance Offences
 
-35. Raising funds for terrorism. 36. Use and possession of money or other property for terrorism. 37. Arranging funds for terrorism. 38. Insurance against payments made in response to terrorist demands. 39. Money Laundering. 40. Disclosure of information: duty. 41. Disclosure of information: permission. 42. Cooperation with police. 43. Arrangements with prior consent. 44. Disclosure after entering into arrangements. 45. Reasonable excuse for failure to disclose. 46. Failure to disclose: regulated sector. 47. Protected disclosures. 48. Disclosures to the GFIU. 49. Tipping off: regulated sector. 50. Disclosures within an undertaking or group etc. 51. Other permitted disclosures between institutions etc. 52. Other permitted disclosures etc. 53. Interpretation of sections 49 to 52. 54. Penalties.
+35. Raising funds for terrorism. 36. Use and possession of money or other property for terrorism. 37. Arranging funds for terrorism. 38. Insurance against payments made in response to terrorist demands. 39. Money Laundering. 39A. Interpretation for the purposes of sections 35 to 39. 40. Disclosure of information: duty. 41. Disclosure of information: permission. 42. Cooperation with police. 43. Arrangements with prior consent. 44. Disclosure after entering into arrangements. 45. Reasonable excuse for failure to disclose. 46. Failure to disclose: regulated sector. 47. Protected disclosures. 48. Disclosures to the GFIU. 49. Tipping off: regulated sector. 50. Disclosures within an undertaking or group etc. 51. Other permitted disclosures between institutions etc. 52. Other permitted disclosures etc. 53. Interpretation of sections 49 to 52.
 
 Terrorism
 
-2018-25 55. Meaning of “employment”.
+2018-25 54. Penalties. 55. Meaning of “employment”.
 
 Forfeiture
 
@@ -98,7 +98,9 @@ PART 7 TERRORIST INVESTIGATIONS
 
 Terrorism
 
-2018-25 Cordons
+2018-25
+
+Cordons
 
 75. Cordoned areas. 76. Power to designate. 77. Duration. 78. Police powers in cordoned areas.
 
@@ -126,7 +128,9 @@ Port and Border Controls
 
 Terrorism
 
-2018-25 Bail for arrest under section 85 and continuing detention under Schedule 9
+2018-25
+
+Bail for arrest under section 85 and continuing detention under Schedule 9
 
 101. Bail when arrested under section 85. 102. Bail. 103. Bail under section 102: notices. 104. Bail under section 102: supplemental. 105. Bail under section 102: variation of conditions by police. 106. Bail under section 102: variation of conditions by court. 107. Failure to answer bail under section 102.
 
@@ -217,6 +221,8 @@ SCHEDULE 14 OFFENCES WHERE TERRORIST CONNECTION IS TO BE CONSIDERED
 SCHEDULE 15 EXERCISE OF FUNCTIONS BY EXAMINING OFFICERS FOR THE PURPOSES OF SCHEDULE 10
 
 SCHEDULE 16 QUALIFYING OFFENCES
+
+SCHEDULE 17 TREATY OFFENCES CONTAINED IN THE CONVENTIONS AND PROTOCOLS LISTED IN THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE SUPPRESSION OF THE FINANCING OF TERRORISM (ADOPTED BY THE GENERAL ASSEMBLY OF THE UNITED NATIONS IN RESOLUTION 54/109 OF 9 DECEMBER 1999)
 
 Terrorism
 
