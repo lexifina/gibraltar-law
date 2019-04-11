@@ -12,7 +12,7 @@ Assent 31.1.2019
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2019/073 s. 3(1), (2) 28.3.2019
+LN. 2019/073 s. 3(1), (2) 28.3.2019 2019/092 s. 3(1), (2) 11.4.2019
 
 English sources: None cited
 
