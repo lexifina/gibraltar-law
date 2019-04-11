@@ -8,25 +8,23 @@ Admission Fees.
 
 (a) £5.00 per person entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station who otherwise have not paid a fee under subparagraph (1)(e) or (f);
 
-(b) £12.00 per person aged 12 years or over entering via Jews’ Gate or Willis’s Road;
+(b) £13.00 per person aged 12 years or over entering via Jews’ Gate or Willis’s Road;
 
-(c) £7.00 per person aged from 5 to 11 years  inclusive entering via Jews’ Gate or Willis’s Road;
+(c) £8.00 per person aged from 5 to 11 years  inclusive entering via Jews’ Gate or Willis’s Road;
 
-(d) £7.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
+(d) £8.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
 
-(e) £12.00 per person aged 12 years and over for entry from any cable car station;
+(e) £13.00 per person aged 12 years and over for entry from any cable car station;
 
-(f) £7.00 per child aged from 5 to 11 years inclusive for entry from any cable car station;
+(f) £8.00 per child aged from 5 to 11 years inclusive for entry from any cable car station.
 
 Nature Protection
 
-1991-11 (g) £3.00 per person entering via O Hara’s Battery (in addition to the relevant fee set out in (a) to (f) above).
+1991-11 (2)  Subject to section 24A(2), the fees for admission to the tourist sites within the Upper Rock Nature Reserve shall be as follows–
 
-(2)  Subject to section 24A(2), the fees for admission to the tourist sites within the Upper Rock Nature Reserve shall be as follows–
+(a) £8.00 for each person aged 12 years and over who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road or Devil’s Gap Battery (applicable to all tourist sites with the exception of lower St Michael’s Cave and the World War II Tunnels);
 
-(a) £7.00 for each person aged 12 years and over who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road or Devil’s Gap Battery (applicable to all tourist sites with the exception of lower St Michael’s Cave and the World War II Tunnels);
-
-(b) £2.00 for each child aged from 5 to 11 years inclusive who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road or Devil’s Gap Battery (applicable to all tourist sites with the exception of lower St Michael’s Cave and the World War II Tunnels);
+(b) £3.00 for each child aged from 5 to 11 years inclusive who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road or Devil’s Gap Battery (applicable to all tourist sites with the exception of lower St Michael’s Cave and the World War II Tunnels);
 
 (c) for entering lower St Michael’s Cave–
 
@@ -48,11 +46,11 @@ Nature Protection
 
 (4)  The fees set out in subparagraphs (1)(b) and (c) shall be reduced  by £3.00 where the person concerned has previously paid £3.00 for entry to the 100 Ton Gun on that same day.
 
-2.(1)  A person holding a valid Gibraltar identity card relating to that person may enter the Upper Rock Nature Reserve and all tourist sites within the Upper Rock Nature Reserve, with the exception of lower St Michael’s Cave
+2.(1)  A person holding a valid Gibraltar identity card relating to that person may enter the Upper Rock Nature Reserve and all tourist sites within the Upper Rock Nature Reserve, with the exception of lower St Michael’s Cave and the World War II Tunnels (the fees for which are set out in paragraphs 1(2)(c)(ii) and (d)(iii) respectively),  without paying a fee on production of that card.
 
 Nature Protection
 
-1991-11 and the World War II Tunnels (the fees for which are set out in paragraphs 1(2)(c)(ii) and (d)(iii) respectively),  without paying a fee on production of that card.
+1991-11
 
 (2)  A child aged under 5 years may enter the Upper Rock Nature Reserve and all tourist sites within the Upper Rock Nature Reserve without paying a fee.
 

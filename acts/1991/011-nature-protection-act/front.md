@@ -38,7 +38,7 @@ Nature Protection
 
 12.12.20132 LN. 2017/089 Sch. 1 4.5.2017 2018/075 Sch. 10 1.4.2018 Act. 2018-16 ss. 11(1), (1A), (2)(a), 18(1)(b), (c), Sch. 2 & 3
 
-2.8.2018 LN. 2018/251 Sch. 1 & 3 8.11.2018 2019/007 Sch. 1 17.01.2019
+2.8.2018 LN. 2018/251 Sch. 1 & 3 8.11.2018 2019/007 Sch. 1 17.01.2019 2019/084 ss. 17Q(1)-(4), 17R(1)-(7) 11.4.2019 2019/091 Sch. 10 11.4.2019
 
 Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC Directive 2013/17/EU
 
@@ -78,7 +78,7 @@ Designation of sites under the Wild Birds Directive
 
 European Sites
 
-17E. Meaning of “European site” and “European Marine site”. 17F. Notice to landowners, relevant persons, etc.. 17G. Management agreements. 17GA.  Management Agreements: determination by Minister. 17GB.  Appeal to the Magistrates’ Court. 17H. Notification of potentially damaging operations. 17J. Restriction on carrying out operations specified in notification. 17K. Supplementary provisions as to consents. 17L. Provisions as to existing notices and consents. 17M. Power to make special nature conservation order. 17N. Restriction on carrying out operations specified in a special nature conservation order. 17P. Supplementary provisions as to consents. 17PA. Prevention of deterioration. 17Q. European Marine Site. 17R. Management  scheme  for European Marine Site.
+17E. Meaning of “European site” and “European Marine site”. 17F. Notice to landowners, relevant persons, etc.. 17G. Management agreements. 17GA.  Management Agreements: determination by Minister. 17GB.  Appeal to the Magistrates’ Court. 17H. Notification of potentially damaging operations. 17J. Restriction on carrying out operations specified in notification. 17K. Supplementary provisions as to consents. 17L. Provisions as to existing notices and consents. 17M. Power to make special nature conservation order. 17N. Restriction on carrying out operations specified in a special nature conservation order. 17P. Supplementary provisions as to consents. 17PA. Prevention of deterioration. 17Q. European site and European marine site. 17R. Management plans for European sites and European marine sites.
 
 Surveillance
 
