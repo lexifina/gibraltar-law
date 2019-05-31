@@ -16,7 +16,7 @@ Act. 2009-49 ss. 7(3), 8(11), 9A, 10 & 10(b), 11(2) & (4)(a), 12(2)(a) & (3)(a),
 
 3.12.2009 LN. 2014/083 s. 9B & Sch. 3 2.6.2014 2014/220 ss. 2, 5A, 7(1), 8(1), (2), (3), (4), (5), (6), (8), (9),(10), 9(2), (2A), 8A, 9(1), 9A(2)(b), 10, 10(c), 11(1)(a), (2A), (2B), (3)(a), (aa), (3A), (3B), (3C),(3D), (4), (5), (6), 11A, 11B, 12(1), (2)(a), (d), (3A), (3B), (6), (7), 12A, 12B, 13, 13A, 14A, 14B, 15(4)(c)(i), 15A, 16, 16(3)(b), (4), 16A, 17, 17A, 17B, 18, 20(1), (1A), (1B), (1C), 20(3)(a), 22A, 22B, 24(2), (4), 24A, 24B, 24C, 25A, 25B, 25C, 30(1), (2)(a), 31, 32, 33A, 34,34A, 35, 49(2), 52, Sch.1
 
-1.12.2014 2017/102 s. 6(b) 25.5.2017
+1.12.2014 2017/102 s. 6(b) 25.5.2017 2019/110 ss. 33, 33AA-33AD 31.5.2019
 
 Transposing: Directive 2012/13/EU
 
@@ -48,15 +48,15 @@ CHAPTER 2 ISSUE OF EUROPEAN ARREST WARRANT BY THE GIBRALTAR AUTHORITIES
 
 PART 3 PROHIBITION ON SURRENDER
 
-26. Exceptions to duty to surrender. 27. Exceptions to duty to surrender: supplementary. 28. Exceptions to duty to surrender: pardon and immunity. 29. Exceptions to duty to surrender: expiration of time. 30. Exceptions to duty to surrender: where final judgment already given elsewhere. 31. Exceptions to duty to surrender: proceedings current in Gibraltar. 32. Exceptions to duty to surrender: where prosecution not possible in Gibraltar by reason of age. 33. Exceptions to duty to surrender: where offence has a nexus with Gibraltar or otherwise outside the issuing State. 33A. Exceptions to duty to surrender: execution of sentence. 34.  Exceptions to duty to surrender: trial in absentia. 34A. Exceptions to duty to surrender: withdrawal of European arrest warrant. 35.  Exceptions to duty to surrender: immunity and waiver. 36. Schedule. 37. Consequential Amendments.
+26. Exceptions to duty to surrender. 27. Exceptions to duty to surrender: supplementary. 28. Exceptions to duty to surrender: pardon and immunity. 29. Exceptions to duty to surrender: expiration of time. 30. Exceptions to duty to surrender: where final judgment already given elsewhere. 31. Exceptions to duty to surrender: proceedings current in Gibraltar. 32. Exceptions to duty to surrender: where prosecution not possible in Gibraltar by reason of age. 33. Exceptions to duty to surrender: where offence has a nexus with Gibraltar or otherwise outside the issuing State. 33AA. Effect of Attorney General's certificate on forum proceedings. 33AB. Attorney General’s certificate. 33AC. Questioning of Attorney General's certificate. 33AD. Interpretation of sections 33 to 33AC. 33A. Exceptions to duty to surrender: execution of sentence. 34.  Exceptions to duty to surrender: trial in absentia. 34A. Exceptions to duty to surrender: withdrawal of European arrest warrant. 35.  Exceptions to duty to surrender: immunity and waiver. 36. Schedule. 37. Consequential Amendments.
 
 PART 4 APPEALS
 
-38. Appeal against surrender order. 39. Court’s powers on appeal under section 38. 40. Appeal against discharge at surrender hearing.
-
 European Arrest Warrant
 
-2004-04 41. Court’s powers on appeal under section 40 42. Detention pending conclusion of appeal under section 40. 43. Appeal to Supreme Court: time limit for start of hearing. 44. Appeal to Privy Council. 45. Powers of Privy Council on appeal under section 44. 46. Appeals: general. 47. Surrender where no appeal. 48. Surrender following appeal.
+2004-04
+
+38. Appeal against surrender order. 39. Court’s powers on appeal under section 38. 40. Appeal against discharge at surrender hearing. 41. Court’s powers on appeal under section 40 42. Detention pending conclusion of appeal under section 40. 43. Appeal to Supreme Court: time limit for start of hearing. 44. Appeal to Privy Council. 45. Powers of Privy Council on appeal under section 44. 46. Appeals: general. 47. Surrender where no appeal. 48. Surrender following appeal.
 
 PART 5 COSTS ORDERS
 
