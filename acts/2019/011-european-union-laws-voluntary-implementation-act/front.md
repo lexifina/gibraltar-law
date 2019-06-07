@@ -1,0 +1,17 @@
+European Union Laws (Voluntary Implementation) Act 2019
+
+Principal Act
+
+Act. No. 2019-11 Commencement (LN.2021/251) 29.4.2021
+
+Assent 7.6.2019
+
+_______________________________
+
+ARRANGEMENT OF SECTIONS
+
+Section
+
+1. Short title. 2. Commencement. 3. Interpretation. 4. Implementation of EU provisions through Regulations, Rules or Orders. 5. Interpretation of EU provision given effect in Gibraltar. 6. Regulations: rules of evidence.
+
+AN ACT TO PROVIDE FOR THE VOLUNTARY IMPLEMENTATION OF EUROPEAN UNION LAWS AFTER THE TREATY ON EUROPEAN UNION, THE TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION, THE TREATY ESTABLISHING THE EUROPEAN ATOMIC ENERGY COMMUNITY AND THE EUROPEAN ECONOMIC AREA AGREEMENT CEASE TO APPLY TO GIBRALTAR; AND TO PROVIDE SUCH TRANSITIONAL OR OTHER PROVISIONS AS ARE DEEMED NECESSARY, AND FOR CONNECTED PURPOSES.
