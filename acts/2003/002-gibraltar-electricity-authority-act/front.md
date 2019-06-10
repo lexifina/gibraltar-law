@@ -16,7 +16,7 @@ Assent 3.4.2003
 
 Amending enactments Relevant current provisions Commencement date
 
-Act.   2005-74 Sch. 1 29.12.2005 2006-40 s. 25(2), (2A) & (3) 14.12.2006 2009-16 Sch. 3 3.4.2009
+Act.   2005-74 Sch. 1 29.12.2005 2006-40 s. 25(2), (2A) & (3) 14.12.2006 2009-16 Sch. 3 3.4.2009 2019-14 s. 19A, Sch. 3 10.6.2019
 
 English sources
 
@@ -36,17 +36,17 @@ Part II Establishment and Constitution of the Authority
 
 Part III Relations with Consumers
 
-12.  Duty to Supply 13.  Obligations of consumers 14.  Charges for the supply of electricity 15.  Contribution to cost of supply 16.  Charge for connection of supply 17.  Security for payments 18.  Measure of electricity to be made by meter 19.  Refusal or discontinuation of supply 20.  Recovery of charges 21.  Power to remove meter and fittings 22.  Power to dispense from obligation to supply electricity 23.  Jurisdiction of the Magistrates’ Court
+12.  Duty to Supply 13.  Obligations of consumers 14.  Charges for the supply of electricity 15.  Contribution to cost of supply 16.  Charge for connection of supply 17.  Security for payments 18.  Measure of electricity to be made by meter 19.  Refusal or discontinuation of supply 19A. Installation or keeping of substantial works in premises. 20.  Recovery of charges 21.  Power to remove meter and fittings 22.  Power to dispense from obligation to supply electricity 23.  Jurisdiction of the Magistrates’ Court
 
 Part IV Financial and Reporting Provisions
 
 24.  Revenues and Reserves 25.  Reports, Accounts and Audit
 
-Part V Control of Electricity Undertakings
+Part V
 
 Gibraltar Electricity Authority
 
-2003-02
+2003-02 Control of Electricity Undertakings
 
 26.  Interpretation 27.  Power of the Authority to assume control of an electricity undertaking 28.  Employees of controlled undertaking 29.  No compensation payable to owner 30.  Saving for existing legal remedies
 

@@ -88,4 +88,8 @@ Gibraltar Electricity Authority
 
 2003-02 subsection, the premises shall be left no less secure than they were immediately before they were entered.
 
+(3A) Where provision has been made in the relevant premises for the installation or keeping of works in a separate room or area, the power of entry herein conferred may be exercised at any reasonable time without notice.
+
+(3B)  For the avoidance of doubt, any right of entry to premises exercised under the provisions of this Act shall not be deemed to directly or indirectly confer on the Authority any legal interest in the said premises.
+
 (4) If the Authority has reasonable cause to believe that any right of entry of an authorised officer herein conferred may be or has been hindered by any person the Authority may apply to the Magistrates’ Court for a warrant to enter the premises, if need be by force.
