@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 1997/147 Corrigendum
 
-1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018
+1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019
 
 Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
@@ -164,7 +164,7 @@ under section 6(2) of the Act by
 
 a ship agent or ship chandler
 
-- £250
+- £10,000
 
 (2)  The fees payable to the Government in relation to the other matters provided for by the Act shall be -
 
@@ -222,7 +222,7 @@ of the Act by a ship agent
 
 or ship chandler
 
-- £100
+- £5,000
 
 (e) a tobacco transportation licence
 
