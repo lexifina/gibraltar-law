@@ -1,20 +1,18 @@
-Parliament ELECTORS REGISTRATION RULES 2019
+Subsidiary Legislation made under s.25.
 
-1950-15
+Electors Registration Rules 2019
 
-Subsidiary 2019/021 Subsidiary Legislation made under s.25 of the Parliament Act
-
-ELECTORS REGISTRATION RULES 2019
-
-(LN. 2019/021)
+LN.2019/021
 
 Commencement 31.1.2019
 
-______________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF RULES.
+LN 2019/124 rr. 10(2)-(3), (7), 13(3), 17(3) 20.6.2019
 
-Rules
+ARRANGEMENT OF RULES
+
+Rule
 
 1. Title. 2. Commencement.
 
@@ -30,20 +28,10 @@ PART III PUBLICATION AND SALE OF REGISTER
 
 11. Publication of Register. 12. Free copies of register. 13. Sale of register.
 
-PART IV
-
-Parliament ELECTORS REGISTRATION RULES 2019
-
-1950-15
-
-Subsidiary 2019/021 SUPPLEMENTARY
+PART IV SUPPLEMENTARY
 
 14. Declaration as to age and nationality. 15. Power of registration officer to obtain information. 16. Information from house-holders 17. Appeals. 18. Forms. 19. Sending of notices, etc. 20. Publication of documents. 21. Misnomers. 22. Penalties.
 
 PART V REPEAL
 
 23. Repeal.
-
-SCHEDULE FORM RA FORM RB FORM RC
-
-Parliament ELECTORS REGISTRATION RULES 2019

@@ -18,34 +18,10 @@ The full register, including the details contained in the list of amendments pub
 
 REGISTRATION OFFICER
 
-Parliament ELECTORS REGISTRATION RULES 2019
-
-1950-15
-
-Subsidiary 2019/021
-
 FORM RB
 
 Rule 10
 
-Parliament ELECTORS REGISTRATION RULES 2019
-
-1950-15
-
-Subsidiary 2019/021
-
-Parliament ELECTORS REGISTRATION RULES 2019
-
-1950-15
-
-Subsidiary 2019/021
-
 FORM RC
 
 Rule 18
-
-Parliament ELECTORS REGISTRATION RULES 2019
-
-1950-15
-
-Subsidiary 2019/021
