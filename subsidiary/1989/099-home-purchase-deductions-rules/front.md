@@ -1,35 +1,17 @@
-Income Tax HOME PURCHASE (DEDUCTIONS) RULES, 1989
+Subsidiary Legislation made under s.37A.
 
-2010-21
+Home Purchase (Deductions) Rules, 1989
 
-Subsidiary 1989/099 Rules made under s.37A.
+LN.1989/099
 
-HOME PURCHASE (DEDUCTIONS) RULES, 1989
-
-(LN.1989/099)
-
-23.11.1989
+Commencement 23.11.1989
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.1990/078 r.2(2)(c) and (4) 28.6.1990 1992/021 rr. 2, 2A, 3, 6(1), (3) and (4) 1.7.1991 1993/090 rr.2(2)(d) and 2A(d) 1.5.1993 1992/022 r.2(1) 1.7.1993 2002/039 rr. 2(1)(i), (ii), (2)(e) and (2A), 2A(1)(i) and (ii)
+LN.1990/078 r. 2(2)(c), (4) 28.6.1990 1992/021 rr. 2, 2A, 3, 6(1), (3)-(4) 1.7.1991 1993/090 rr. 2(2)(d), 2A(d) 1.5.1993 1992/022 r. 2(1) 1.7.1993 2002/039 rr. 2(1)(i)-(ii), (2)(e), (2A), 2A(1)(i)-(ii) 1.7.2002 2008/067 r. 8 1.7.2007 LN.2015/034 rr. 8(1), (4) 1.7.2013 Act.2014-10 rr. 2(3), 2A, 6, 8 28.3.2014 LN.2015/034 r. 8(4) 1.7.2014 2018/118 rr. 2(1)(b)(ii)-(iii), 2A(1)(b)(ii)-(iii), 8(4) 1.7.2015 2018/112 rr. 2(1)(b)(i)-(ii), 2A(1)(b)(i)-(ii) 21.5.2018 2018/113 rr. 2(1), (b)(i)-(ii), (2)(c), 2A(1)(b)(i)-(ii) 21.5.2018 2020/395 rr. 2(1)(b) (iii)-(iv), 2A(1)(b)(iii)-(iv), 8(4)(c)-(d) 1.7.2019
 
-1.7.2002 2008/067 r. 8 1.7.2007 LN.2015/034 rr. 8(1), (4) 1.7.2013 Act.2014-10 rr. 2(3), 2A, 6 & 8 28.3.2014 LN.2015/034 rr. 8(4) 1.7.2014 2018/118 rr. 2(1)(b)(ii), (iii),  2A(1)(b)(ii), (iii), 8(4)
-
-1.7.2015 2018/112 rr. 2(1)(b)(i), (ii), 2A(1)(b)(i), (ii) 21.5.2018 2018/113 rr. 2(1), (1)(b)(i), (ii), (2)(c), 2A(1)(b)(i), (ii)
-
-21.5.2018
-
-Income Tax HOME PURCHASE (DEDUCTIONS) RULES, 1989
-
-2010-21
-
-Subsidiary 1989/099
-
-ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES
 
 Rule
 
 1. Title. 2. Deduction for payments towards house purchase for own residential occupation. 2A. Deductions for payments towards house purchase for child’s residential occupation. 3. Carry over of relief. 4. Joint ownership. 5. Provisional refund. 6. Forfeiture of deduction. 7. Repeal of section 26A of the Act. 8. Restrictions on entitlement to deduction specified in rule 2 and rule 2A in relation to elections made for Gross Income Based System.
-
-Income Tax HOME PURCHASE (DEDUCTIONS) RULES, 1989
