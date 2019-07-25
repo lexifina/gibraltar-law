@@ -12,9 +12,13 @@ Commencement 23.9.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2011/184 r. 86, Sch. 30.9.2011 2012/011 r.38 9.2.2012 2013/021 r. 39(2) 13.2.2013
+LN. 2011/184 r. 86, Sch. 30.9.2011 2012/011 r.38 9.2.2012 2013/021 r. 39(2) 13.2.2013 Act. 2019-23 rr. 38, 53, 55(1)(e), (3), 56(1)(b), (3), 59(1)-(3), 60(3), 61, 70
+
+25.7.20191
 
 _______________________
+
+1 Notice of Commencement LN.142/2019
 
 Prison PRISON REGULATIONS 2011
 
@@ -60,7 +64,7 @@ General
 
 Order, Discipline and Offences
 
-44. Removal from association. 45. Close supervision centres. 46. Removal from a cell or living unit. 47. Temporary confinement. 48. Restraints. 49. Offences against discipline. 50. Defences to regulation 49(u). 51. Defences to regulations 49(v) and 49(w). 52. Disciplinary charges. 53. Determination of mode of inquiry. 54. Rights of Prisoners charged. 55. Superintendent’s punishments. 56. Punishments by a justice of the peace. 57. Offences committed by young persons. 58. Provisions in relation to particular awards. 59. Prospective forfeiture of remission. 60. Suspended punishments. 61. Remission and mitigation of awards. 62. Prisoner not to be employed in disciplinary capacity. 63. Cellular confinement.
+44. Removal from association. 45. Close supervision centres. 46. Removal from a cell or living unit. 47. Temporary confinement. 48. Restraints. 49. Offences against discipline. 50. Defences to regulation 49(u). 51. Defences to regulations 49(v) and 49(w). 52. Disciplinary charges. 53. Determination of mode of inquiry. 54. Rights of Prisoners charged. 55. Superintendent’s punishments. 56. Punishments by a justice of the peace. 57. Offences committed by young persons. 58. Provisions in relation to particular awards. 59. Prospective award of additional days. 60. Suspended punishments. 61. Remission and mitigation of awards. 62. Prisoner not to be employed in disciplinary capacity. 63. Cellular confinement.
 
 Prison PRISON REGULATIONS 2011
 
