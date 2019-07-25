@@ -1,95 +1,85 @@
-Prison
-
-2011-09
-
-PRISON ACT 2011
+Prison Act 2011
 
 Principal Act
 
-Act. No. 2011-09 Commencement (LN. 2011/164) 23.9.2011
+Act. No. 2011-09 Commencement (LN.2011/164) 23.9.2011 Assent 23.3.2011
 
-Assent 23.3.2011
+Amending enactments Relevant current provisions Commencement date Act 2014-16 ss. 25(1)(a), 50(1), 54(1A), 64(1)(a), (2)(b), (3A)- (3D), (5)
 
-Amending enactments Relevant current provisions Commencement date
+12.6.2014 2019-23 ss. 51, 51A-51B, 53(a)-(d), 54(1)(a), 55, 56(1), (1A)- (1B), 57(1), (2)(a), 61A, 70(1)-(3), 71(1)(e),
 
-Act 2014-16 ss. 25(1)(a), 50(1), 54(1A), 64(1)(a), (2)(b), (3A), (3B), (3C), (3D), (5)
+25.7.20191
 
-12.6.2014
-
-________________________
+1 Notice of Commencement LN. 2019/142
 
 ARRANGEMENT OF SECTIONS
 
 Section
 
-Introduction
+INTRODUCTION
 
 1. Title and commencement. 2. Interpretation. 3. Declaration relating to prison.
 
-Administration
+ADMINISTRATION
 
 4. Appointment of prison staff. 5. Powers. 6. Superintendent’s standing orders.
 
-Prison Board and Official Visitors
+PRISON BOARD AND OFFICIAL VISITORS
 
-7. Establishment of Board. 8. Meetings of Board. 9. General duties of Board. 10. Particular duties of Board. 11. Members visiting prison. 12. Record book. 13. Prison visitors. 14. Disqualification relating to contracts. 15. Annual report. 16. Visiting ministers.
+7. Establishment of Board. 8. Meetings of Board. 9. General duties of Board. 10. Particular duties of Board. 11. Members visiting prison. 12. Record book. 13. Prison visitors. 14. Disqualification relating to contracts. 15. Annual report. 16. Visiting ministers. 17. Right of a judge of the Supreme Court, the Stipendiary Magistrate and justice of the peace to visit prison.
 
-Prison
-
-2011-09 17. Right of a judge of the Supreme Court, the Stipendiary Magistrate and justice of the peace to visit prison.
-
-General Principles
+GENERAL PRINCIPLES
 
 18. Objectives of training and treatment, etc.
 
-Confinement of Prisoners
+CONFINEMENT OF PRISONERS
 
-19. Place of confinement. 20. Legal custody of prisoner 21. Cells. 22. Marking of cells. 23. Certificate relating to cells. 24. Men and women. 25. Classification of prisoners. 26. Custody outside prison. 27. Special removal of prisoners. 28. Persons unlawfully at large.
+19. Place of confinement. 20. Legal custody of prisoner 21. Cells. 22. Marking of cells. 23. Certificate relating to cells. 24. Men and women. 25. Classification of prisoners.
 
-Admission of Prisoners
+26. Custody outside prison. 27. Special removal of prisoners. 28. Persons unlawfully at large.
+
+ADMISSION OF PRISONERS
 
 29. Receipt for prisoner. 30. Search. 31. Expenses of conveyance to prison. 32. Personal record. 33. Weighing etc. 34. Photographs fingerprints etc. 35. Register relating to religion. 36. Right of minister in respect of register. 37. Children of women prisoners. 38. Appellants.
 
-Health
+HEALTH
 
 39. Medical attendance. 40. Directions of medical officer. 41. Examination of prisoners. 42. Medical treatment of unconvicted prisoners. 43. Removal to hospital. 44. Special illness and conditions. 45. Inspection of prison. 46. Notification of illness or death. 47. Power to discharge prisoner temporarily on account of ill health. 48. Power to test prisoners for controlled drugs. 49. Power to test prisoners for alcohol.
 
-Prison
-
-2011-09
-
-Work
+WORK
 
 50. Work.
 
-Remission
+ADDITIONAL DAYS
 
-51. Remission of sentence.
+51. Additional days for disciplinary offences.
 
-Parole Board and Release on Licence
+AUTOMATIC RELEASE
+
+51A. Duty to release prisoners.
+
+APPLICATION TO PRISONERS IN DEFAULT OF PAYMENT
+
+51B. Application of sections 51 and 51A.
+
+PAROLE BOARD AND RELEASE ON LICENCE
 
 52. Parole Board. 53. Functions of Parole Board. 54. Release on licence. 55. Determination of sentence. 56. Duration of Licence. 57. Licence conditions. 58. Duty to comply with licence. 59. Recall of prisoners while on licence. 60. Date of review. 61. Release on licence: drug testing requirements.
 
-Offences
+EXPIRATION OF SENTENCE
+
+61A. Expiration of sentence.
+
+OFFENCES
 
 62. Removal of visitors. 63. Conveyance of prohibited articles into or out of prison. 64. Other offences relating to prison security. 65. Escape. 66. Attempts to escape. 67. Assisting a prisoner to escape. 68. Notice of offences.
 
-General
+GENERAL
 
 69. Code of discipline. 70. Powers of punishment. 71. Regulations. 72. Power to amend Schedules. 73. Governor’s constitutional responsibilities. 74. Repeal and savings.
 
-SCHEDULE 1
+SCHEDULE 1 Matters to be taken into consideration by the Parole Board
 
-Matters to be taken into consideration by the Parole Board
+SCHEDULE 2 Licence conditions
 
-SCHEDULE 2
-
-Prison
-
-2011-09
-
-Licence conditions
-
-Prison
-
-2011-09 AN ACT TO MAKE PROVISION FOR THE REGULATION AND MANAGEMENT OF PRISONS AND PRISONERS; AND FOR CONNECTED PURPOSES.
+AN ACT TO MAKE PROVISION FOR THE REGULATION AND MANAGEMENT OF PRISONS AND PRISONERS; AND FOR CONNECTED PURPOSES.

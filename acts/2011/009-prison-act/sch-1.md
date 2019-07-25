@@ -24,10 +24,6 @@ Prisoners serving a sentence for a determinate period.
 
 (iv) the prisoner’s attitude and behaviour to other prisoners and staff;
 
-Prison
-
-2011-09
-
 (v) the prisoner’s awareness of the impact of the offence, particularly in relation to the victim or victim’s family, and the extent of any demonstrable insight into his attitude and behavioural problems;
 
 (vi) behaviour during any temporary release or other outside activities;
@@ -54,9 +50,7 @@ Prisoners serving a term of imprisonment for life or detention during Her Majest
 
 2.(1)  The Parole Board cannot advise the Minister to release a person serving a term of imprisonment for life or detention during Her Majesty’s pleasure on licence unless it is satisfied that it is no longer necessary for the protection of the public that the prisoner be confined.
 
-Prison
-
-2011-09 (2)  The test to be applied by the Parole Board in satisfying itself that it is no longer necessary for the protection of the public that the prisoner should be confined, is whether the prisoner’s level of risk to the life and limb of others is considered to be more than minimal.
+(2)  The test to be applied by the Parole Board in satisfying itself that it is no longer necessary for the protection of the public that the prisoner should be confined, is whether the prisoner’s level of risk to the life and limb of others is considered to be more than minimal.
 
 (3)  In assessing the level of risk to life and limb presented by the prisoner, the Parole Board shall consider the following information, where relevant and where available, before recommending release under section 54, recognizing that the weight and relevance attached to particular information may vary according to the circumstances of each case
 
@@ -78,9 +72,7 @@ Prison
 
 (i) whether the prisoner is likely to comply with the conditions attached to his licence and the requirements of supervision, including any non-standard conditions; and
 
-Prison
-
-2011-09 (j) any risk to other persons, including the victim, their family and friends.
+(j) any risk to other persons, including the victim, their family and friends.
 
 (4)  Before advising that a prisoner be released on licence the Board shall also consider
 
@@ -89,7 +81,3 @@ Prison
 (b) the attitude of the community in cases where it may have a detrimental effect upon compliance; and
 
 (c) representations on behalf of the victim or victim’s relatives in relation to licence conditions.
-
-Prison
-
-2011-09

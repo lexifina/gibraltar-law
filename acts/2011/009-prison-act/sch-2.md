@@ -30,9 +30,7 @@ Other conditions.
 
 (c) a restriction relating to his making or maintaining contact with a person;
 
-Prison
-
-2011-09 (d) a restriction on his participation in, or undertaking of, an activity;
+(d) a restriction on his participation in, or undertaking of, an activity;
 
 (e) a requirement that he participate in, or co-operate with, a programme or set of activities designed to further one or more of the following purposes–
 
