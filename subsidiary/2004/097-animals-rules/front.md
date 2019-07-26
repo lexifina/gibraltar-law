@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date 2006/045 Corri
 
 1.12.2016 2018/123 rr. 12A, 23A 24.5.2018 2018/259 rr. 1, 2, 3(2), (2A), 4, 5(2), (ii), 8(1)(a)-(b), 13(1), 14(1), 15, 16(1), (4), 17(1)-(2), 19, 22(a), 23A(1)(a)- (b) Schs. 2-6
 
-15.11.2018
+15.11.2018 2019/147 rr. 5(2), 6(3), 23A(1)(a)-(b), 5-8, 10 26.7.2019
 
 Implementing: Regulation (EC) No 998/2003 Regulation (EC) 576/2013 Regulation (EU) 577/2013
 
