@@ -4,11 +4,11 @@ EXEMPTION LISTINGS
 
 Interpretation.
 
-1.  Any expression used in this Schedule which is used in the Community Drivers’ Hours Regulation has the same meaning as in that Regulation.
+1.  Any expression used in this Schedule which is used in the EU Drivers’ Hours Regulation has the same meaning as in that Regulation.
 
 Exemption Listings.
 
-2.  Pursuant to Article 13(1) of the Community Drivers’ Hours Regulation, exemption is granted from Articles 6, 7, 8 and 9 of that Regulation in respect of–
+2.  Pursuant to Article 11(a) of the EU Drivers’ Hours Regulation, exemption is granted from Articles 6, 7, 8 and 9 of that Regulation in respect of–
 
 2.1.(1) Any vehicle which is owned or hired without a driver by a public authority to undertake carriage by road otherwise than in competition with private transport undertakings.
 
@@ -92,8 +92,6 @@ Transport
 
 3.  For the purpose of Article 3(i) of the Community Drivers’ Hours Regulation a vehicle has a historic status if it is a vehicle which is by virtue of its construction and equipment suitable for carrying passengers or goods and which was manufactured more than 25 years before the date on which it is being driven.
 
-4.  Pursuant to Article 3(2) of the Community Recording Equipment Regulation, exemption is granted from the provisions of that Regulation in
-
 Transport
 
-1998-44 respect of any vehicle falling within a description specified in this Part of this Schedule.
+1998-44 4.  Pursuant to Article 3(2) of the EU Tachographs Regulation, exemption is granted from the provisions of that Regulation in respect of any vehicle falling within a description specified in this Part of this Schedule.

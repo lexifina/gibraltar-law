@@ -24,9 +24,13 @@ Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  5
 
 2.3.2016 Act. 2016-18 Sch. 1 – Para 12(3)(a)(iii), (c)(ii), (iii), 30(3)
 
-23.4.2018 2017-10 Sch. 3 13.6.2018
+23.4.2018 2017-10 Sch. 3 13.6.2018 LN. 2019/149 ss. 66A(1), 66B(1), (2), (3)(c), 66C(11), (12)(c), (d), (13)(a), (14), 66CA, 66D(1)(a)(ii), (iii), (b), (3), (6A), (6B), (6C), (8), (9), 66DA, 66DBA, 66DC, 66E(1), 66F(2), 66G(1)(b), (2), 66H(1), (3), 66I(1), (3), 66J(1)(b), 66K(2), 66L(3), 66M(2), (3), (5), (7), 66N(6)(a), (10), 66O(1), (2)(a), (6), (7), 66P(1), (2)(a), (c), (4)(a), (5)(a), (7), 66S(2), 66TA, 66U(1)(b)(ii), 66WA, 70(1)(a), Sch.3
 
-English sources None cited
+30.7.2019
+
+Transport
+
+1998-44 English sources None cited
 
 EU legislation/International Agreements involved: Regulation (EC) No. 561/2006 Regulation (EU) No 165/2014 Regulation (EC) No 1071/2009 Regulation (EC) No 1072/2009 Regulation (EC) No 1073/2009 Regulation (EU) 2016/799
 
@@ -108,11 +112,11 @@ Part IVA
 
 Drivers’ Hours
 
-66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66D. Installation and use of recording equipment. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data. 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records.
+66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66CA. Authorisation of field tests. 66D. Installation and use of recording equipment - EU requirements. 66DA. Installation and use of recording equipment - AETR requirements. 66DB. Supply of recording equipment which is not type-approved. 66DBA. Manual daily record sheet. 66DC. Recording equipment system elements: security vulnerabilities. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data.
 
 Transport
 
-1998-44 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
+1998-44 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records. 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66TA. Power to stop. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66WA. Exchange of information with AETR competent authorities. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
 
 PART V
 
@@ -122,7 +126,11 @@ FINAL PROVISIONS
 
 SCHEDULE 1 Supplementary provisions as to qualifications for operator licences.
 
-SCHEDULE 2 Council Regulation (EEC) No 3820/85 of 20 December 1985 on the Harmonisation of Certain Social Legislation Relating to Road Transport
+SCHEDULE 2
+
+Transport
+
+1998-44 Council Regulation (EEC) No 3820/85 of 20 December 1985 on the Harmonisation of Certain Social Legislation Relating to Road Transport
 
 SCHEDULE 3 EXEMPTION LISTINGS
 
