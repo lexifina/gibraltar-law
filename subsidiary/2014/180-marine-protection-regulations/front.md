@@ -1,26 +1,16 @@
-Nature Protection MARINE PROTECTION REGULATIONS 2014
+Subsidiary Legislation made under ss.13, 18 and 24.
 
-1991-11
+Marine Protection Regulations 2014
 
-Subsidiary 2014/180 Subsidiary Legislation made under ss. 13, 18 and 24.
-
-MARINE PROTECTION REGULATIONS 2014
-
-(LN. 2014/180)
+LN. 2014/180
 
 Commencement 1.1.2015
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date LN. 2014/265 r. 8(2)(a)-(c), (2A)-(2B) 1.1.2015 2016/031 Sch. 1 25.2.2016 2016/070 Sch. 1 31.3.2016 2016/129 rr. 2, 10(1), 3, 12(1), 15(5), 16(2)-(7), 19(1), 20(5), (6), 21(1)(e), (f), 21(2)(a), (d), (e), 24(7)(e), 25(3), 26, 27(3)(d), (e), 29(6)(g), 29(7), 33(8), 38(2), Sch. 1
 
-LN.  2014/265 rr. 8(2)(a), (b), (c), (2A), (2B) 1.1.2015 2016/031 Sch. 1 25.2.2016 2016/070 Sch. 1 31.3.2016 2016/129 rr. 2, 10(1), 3, 12(1), 15(5), 16(2)- (7), 19(1), 20(5), (6), 21(1)(e), (f), 21(2)(a), (d), (e), 24(7)(e), 25(3), 26, 27(3)(d), (e), 29(6)(g), 29(7), 33(8), 38(2), Sch. 1
+16.6.2016 2017/090 Schs. 2, 4 4.5.2017 2019/152 Schs. 2, 4 1.8.2019
 
-16.6.2016 2017/090 Sch. 2 & 4 4.5.2017
-
-Nature Protection MARINE PROTECTION REGULATIONS 2014
-
-1991-11
-
-Subsidiary 2014/180 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -40,13 +30,9 @@ Chapter 1 List for the purpose of fishing with longlines.
 
 Chapter 2 Other fishing permits etc.
 
-14. Other fishing permits. 15. Class B permits (fishing with rods or lines). 16. Duration and restrictions. 17. Conditions and prohibitions. 18. Limitation of Class B permits etc. 19. Class C permits (Underwater fishing with or without a weapon). 20. Duration and restrictions. 21. Conditions and prohibitions. 22. Limitation of Class C permits, etc. 23. Class D permits (fishing competitions). 24. Class E permits (sports fishing operator). 25. Limitation of Class E permits, etc. 26. Offences under this Chapter.
+14. Other fishing permits. 15. Class B permits (fishing with rods or lines). 16. Duration and restrictions. 17. Conditions and prohibitions. 18. Limitation of Class B permits etc. 19. Class C permits (Underwater fishing with or without a weapon). 20. Duration and restrictions. 21. Conditions and prohibitions. 22. Limitation of Class C permits, etc. 23. Class D permits (fishing competitions).
 
-Nature Protection MARINE PROTECTION REGULATIONS 2014
-
-1991-11
-
-Subsidiary 2014/180
+24. Class E permits (sports fishing operator). 25. Limitation of Class E permits, etc. 26. Offences under this Chapter.
 
 Chapter 3 Diving permits, etc.
 
@@ -68,17 +54,13 @@ Special Zones
 
 Wildlife Wardens etc.
 
-44. Wildlife Wardens. 45. Powers of search, etc. 46. Prosecution of offences and contraventions.
+44. Wildlife Wardens.
+
+45. Powers of search, etc. 46. Prosecution of offences and contraventions.
 
 Miscellaneous
 
-47. Establishment of a Working Group. 48. False and misleading information.
-
-Nature Protection MARINE PROTECTION REGULATIONS 2014
-
-1991-11
-
-Subsidiary 2014/180 49. Penalties. 50. Sentencing guidelines. 51. Removal from List A. 52. Provisions regarding tuna.
+47. Establishment of a Working Group. 48. False and misleading information. 49. Penalties. 50. Sentencing guidelines. 51. Removal from List A. 52. Provisions regarding tuna.
 
 SCHEDULE 1 Marine Conservation Zones
 
@@ -90,8 +72,4 @@ SCHEDULE 4 Minimum Fish Sizes
 
 SCHEDULE 5 No anchoring zones in British Gibraltar Territorial Waters
 
-Nature Protection MARINE PROTECTION REGULATIONS 2014
-
-1991-11
-
-Subsidiary 2014/180 In exercise of the powers conferred upon it by sections 13, 18 and 24 of the Nature Protection Act 1991, and after having consulted the Nature Conservancy Council, the Government has made the following Regulations–
+In exercise of the powers conferred upon it by sections 13, 18 and 24 of the Nature Protection Act 1991, and after having consulted the Nature Conservancy Council, the Government has made the following Regulations–
