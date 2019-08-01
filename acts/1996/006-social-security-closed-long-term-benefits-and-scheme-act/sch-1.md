@@ -10,15 +10,15 @@ STANDARD RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
 Description of Benefit Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1. Survivor’s Benefit:
 
-(a) Survivor’s Bereavement Allowance £550.05 - £67.05 (b)  Widowed Parent’s Allowance. £463.75 - £67.05 * (c)  Survivor’s Pension. £463.75 - -
+(a) Survivor's Bereavement Allowance. £561.60 - £68.50 (b) Widowed Parent's Allowance. £473.50 - £68.50 * (c) Survivor’s Pension. £473.50 - -
 
-2.  Guardian’s Allowance. £118.35 - -
+2.  Guardian’s Allowance. £120.85 - -
 
 3.  Old Age Pensions:
 
-(a)  where the pension is payable to a woman by virtue of a husband’s or civil partner’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s or civil partner’s insurance and she is alive. £231.95 - £67.05
+(a) where the pension is payable to a woman by virtue of a husband’s or civil partner’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s or civil partner’s insurance and she is alive. £236.85 - £68.50
 
-(b)  in any other case. £463.75 £231.95 £67.05
+(b) in any other case. £473.50 £236.85 £68.50
 
 *  Except in the case of a Widowed Parent’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
 
