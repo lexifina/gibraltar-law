@@ -1,34 +1,22 @@
-Prison PRISON REGULATIONS 2011
+Subsidiary Legislation made under s.71.
 
-2011-09
+Prison Regulations 2011
 
-Subsidiary 2011/165 Subsidiary Legislation made under s. 71.
-
-PRISON REGULATIONS 2011
-
-(LN. 2011/165)
+LN.2011/165
 
 Commencement 23.9.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2011/184 r. 86, Sch. 30.9.2011 2012/011 r.38 9.2.2012 2013/021 r. 39(2) 13.2.2013 Act. 2019-23 rr. 38, 53, 55(1)(e), (3), 56(1)(b), (3), 59(1)-(3), 60(3), 61, 70
+LN. 2011/184 r. 86, Sch. 30.9.2011 2012/011 r. 38 9.2.2012 2013/021 r. 39(2) 13.2.2013 Act. 2019-23 rr. 38, 53, 55(1)(e), (3), 56(1)(b), (3), 59(1)-(3), 60(3), 61, 70
 
-25.7.20191
-
-_______________________
+25.7.20191 LN. 2019/158 r. 53(3) 8.8.2019
 
 1 Notice of Commencement LN.142/2019
 
-Prison PRISON REGULATIONS 2011
-
-2011-09
-
-Subsidiary 2011/165
-
 ARRANGEMENT OF REGULATIONS
 
-Regulations
+Regulation
 
 PART I: INTRODUCTORY
 
@@ -50,27 +38,17 @@ Physical welfare and work
 
 Communications and visits
 
-24. Communications generally.
-
-Prison PRISON REGULATIONS 2011
-
-2011-09
-
-Subsidiary 2011/165 25. Personal letters and visits. 26. Visitors. 27 Interception of communications 28 Permanent log of communications. 29. Disclosure of material. 30. Retention of material. 31. Police interviews. 32. Securing release. 33. Interview with legal advisers. 34. Delivery and receipt of legally privileged material. 35. Money and articles received by post.
+24. Communications generally. 25. Personal letters and visits. 26. Visitors. 27 Interception of communications 28 Permanent log of communications. 29. Disclosure of material. 30. Retention of material. 31. Police interviews. 32. Securing release. 33. Interview with legal advisers. 34. Delivery and receipt of legally privileged material. 35. Money and articles received by post.
 
 General
 
-36. Viewing of prison. 37. Control of persons and vehicles. 38. Remission of sentence. 39. Temporary release. 40. Women prisoners. 41. Applications. 42. Services. 43. List C articles.
+36. Viewing of prison. 37. Control of persons and vehicles. 38. Deleted. 39. Temporary release. 40. Women prisoners. 41. Applications. 42. Services. 43. List C articles.
 
 Order, Discipline and Offences
 
-44. Removal from association. 45. Close supervision centres. 46. Removal from a cell or living unit. 47. Temporary confinement. 48. Restraints. 49. Offences against discipline. 50. Defences to regulation 49(u). 51. Defences to regulations 49(v) and 49(w). 52. Disciplinary charges. 53. Determination of mode of inquiry. 54. Rights of Prisoners charged. 55. Superintendent’s punishments. 56. Punishments by a justice of the peace. 57. Offences committed by young persons. 58. Provisions in relation to particular awards. 59. Prospective award of additional days. 60. Suspended punishments. 61. Remission and mitigation of awards. 62. Prisoner not to be employed in disciplinary capacity. 63. Cellular confinement.
+44. Removal from association. 45. Close supervision centres. 46. Removal from a cell or living unit. 47. Temporary confinement. 48. Restraints. 49. Offences against discipline. 50. Defences to regulation 49(u). 51. Defences to regulations 49(v) and 49(w). 52. Disciplinary charges. 53. Determination of mode of inquiry. 54. Rights of Prisoners charged. 55. Superintendent’s punishments. 56. Punishments by a justice of the peace. 57. Offences committed by young persons. 58. Provisions in relation to particular awards. 59. Prospective award of additional days. 60. Suspended punishments.
 
-Prison PRISON REGULATIONS 2011
-
-2011-09
-
-Subsidiary 2011/165 64. Illegal detention.
+61. Remission and mitigation of awards. 62. Prisoner not to be employed in disciplinary capacity. 63. Cellular confinement. 64. Illegal detention.
 
 Mandatory Tests and CCTV
 
@@ -90,8 +68,4 @@ PART IV: PAROLE BOARD
 
 SCHEDULE PAROLE BOARD
 
-Prison PRISON REGULATIONS 2011
-
-2011-09
-
-Subsidiary 2011/165 In exercise of the powers conferred upon him by section 71 of the Prison Act 2011 and all other enabling powers the Minister with responsibility for prisons has made the following Regulations–
+In exercise of the powers conferred upon him by section 71 of the Prison Act 2011 and all other enabling powers the Minister with responsibility for prisons has made the following Regulations–
