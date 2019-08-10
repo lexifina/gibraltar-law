@@ -16,11 +16,11 @@ The Authority shall have powers as follows–
 
 (5) To authorise any consumer to supply electricity to another consumer via sub-meters where the business of the person supplying the electricity is not primarily that of the supply of electricity to consumers.
 
+(5A) To enter into feed-in agreements with consumers.
+
 (6) To make arrangements with the Ministry of Defence pursuant to the provisions of section 39(3) and with others as to the Authority might seem appropriate.
 
-Gibraltar Electricity Authority
-
-2003-02 (7) To enter into Commodity Swap Transactions and Options for the purpose of hedging against the fluctuation in the price of fuel required to be purchased by the Authority in order to supply electricity.
+(7) To enter into Commodity Swap Transactions and Options for the purpose of hedging against the fluctuation in the price of fuel required to be purchased by the Authority in order to supply electricity.
 
 2.  Employment.
 
@@ -30,7 +30,7 @@ Gibraltar Electricity Authority
 
 (3) To establish machinery for the settlement by negotiation of the terms and conditions of employment of persons employed by the Authority, and other industrial differences that might arise, and to make provision for reference to arbitration in default of agreement.
 
-(4) To provide for persons in its employ or their dependants by means of insurance, or by establishing pension schemes or provident funds or otherwise, and to make provision for the payment of  pecuniary benefits upon retirement, death, termination of service or in the event of illness.
+(4) To provide for persons in its employ or their dependants by means of insurance, or by establishing pension schemes or provident funds or otherwise, and to make provision for the payment of pecuniary benefits upon retirement, death, termination of service or in the event of illness.
 
 (5) To promote and encourage by research investigation finance and subscription and cooperation with other bodies with a like interest measures to protect the safety, health, welfare, education and training of persons employed by the Authority and to promote the discussion of all matters of mutual interest to the Authority and its employees including efficiency in the performance of the functions of the Authority.
 
@@ -42,9 +42,7 @@ To borrow and to invite public subscriptions or otherwise raise loans.
 
 4.(1) To build, construct, maintain and in any way modify, all and any works buildings, feeding points, electrical meter rooms or cabinets, manholes, plinths, foundation blocks, conduit and duct runs and any other structures necessary for the supply of electricity or for any other activity of the Authority.
 
-Gibraltar Electricity Authority
-
-2003-02 (2) To install, erect, maintain, manufacture and in any way modify all types of works, cable plant and fittings and all other apparatus used or incidental to the supply of electricity.
+(2) To install, erect, maintain, manufacture and in any way modify all types of works, cable plant and fittings and all other apparatus used or incidental to the supply of electricity.
 
 (3) With the prior approval of the Government except in cases of emergency where public safety or the urgent need to restore or maintain the supply of electricity renders the need to seek such approval impractical, to break up the soil and pavement of any street in Gibraltar and open and break up any sewers, drains or tunnels within or under such streets.
 
@@ -56,15 +54,11 @@ Gibraltar Electricity Authority
 
 5.  Lop, Cut, or Fell Trees Etc.
 
-5.(1) The Authority may require the occupier and/or owner of the land on which a tree, hedge or plantation is growing by 21 days notice  to lop, cut, or fell it so as to prevent obstruction or interference with the construction, maintenance or working of any electric line, streetlight or any other item necessary for the supply of electricity:
+5.(1) The Authority may require the occupier and/or owner of the land on which a tree, hedge or plantation is growing by 21 days notice to lop, cut, or fell it so as to prevent obstruction or interference with the construction, maintenance or working of any electric line, streetlight or any other item necessary for the supply of electricity:
 
 Provided that if such a notice is served upon a person who, although the occupier of the land on which the tree or hedge is growing, is not the owner thereof, a copy of the notice shall also be served upon the owner thereof, if known.
 
-(2) If within twenty-one days from the giving of such notice the requirements of the notice are not complied with and neither the owner nor
-
-Gibraltar Electricity Authority
-
-2003-02 the occupier of the land has appealed against such notice as is hereinafter provided, the Authority may cause the tree or hedge to be lopped or cut so as to prevent such obstruction or interference.
+(2) If within twenty-one days from the giving of such notice the requirements of the notice are not complied with and neither the owner nor the occupier of the land has appealed against such notice as is hereinafter provided, the Authority may cause the tree or hedge to be lopped or cut so as to prevent such obstruction or interference.
 
 (3) The occupier and/or owner may appeal to the Magistrates’ Court within twenty one days from service of such notice objecting to the requirements of the said notice, and, on hearing the appeal, the court may make such order as it thinks just and any such order may empower the Authority to cause the tree, hedge or plantation to be lopped, cut or felled so as to prevent such obstruction and interference and may determine any question as to what compensation (if any) and expenses to be paid.
 
@@ -82,14 +76,12 @@ Gibraltar Electricity Authority
 
 (2) The power of entry herein conferred may be exercised between the hours of nine in the morning and four in the evening, after twenty-four hours' notice in writing, under the hand of an authorised officer of the Authority, has been served on the occupier of the relevant premises or, if unoccupied, then on the owner or lessee, or the agent of the owner or lessee thereof.
 
-(3) The notice required to be given under the preceding sub-section may, in a case where the owner of the premises is unknown to the Authority and cannot be ascertained after diligent inquiry, be given by affixing it upon a conspicuous part of the premises not less than forty-eight hours before the premises are entered. Provided that, where an entry is made on premises which could not lawfully have been made but for the provisions of this
-
-Gibraltar Electricity Authority
-
-2003-02 subsection, the premises shall be left no less secure than they were immediately before they were entered.
+(3) The notice required to be given under the preceding sub-section may, in a case where the owner of the premises is unknown to the Authority and cannot be ascertained after diligent inquiry, be given by affixing it upon a conspicuous part of the premises not less than forty-eight hours before the premises are entered. Provided that, where an entry is made on premises which could not lawfully have been made but for the provisions of this subsection, the premises shall be left no less secure than they were immediately before they were entered.
 
 (3A) Where provision has been made in the relevant premises for the installation or keeping of works in a separate room or area, the power of entry herein conferred may be exercised at any reasonable time without notice.
 
 (3B)  For the avoidance of doubt, any right of entry to premises exercised under the provisions of this Act shall not be deemed to directly or indirectly confer on the Authority any legal interest in the said premises.
 
 (4) If the Authority has reasonable cause to believe that any right of entry of an authorised officer herein conferred may be or has been hindered by any person the Authority may apply to the Magistrates’ Court for a warrant to enter the premises, if need be by force.
+
+(5) A right of entry under a feed-in agreement shall be exercised, and may be enforced, as if it were a right conferred by this paragraph.

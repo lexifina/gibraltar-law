@@ -28,12 +28,4 @@ Meetings and proceedings of the Authority and the Board of Management
 
 (b) meetings shall be held at least once in any period of 1 month and otherwise when convened at the request of the Chairman;
 
-Gibraltar Electricity Authority
-
-2003-02
-
 (c) minutes of every meeting shall be kept and, once signed by the Chairman of the meeting at which they were approved, shall be evidence of the proceedings at the meeting to which they relate, and a copy of such minutes shall be provided to the Authority within 7 days of the meeting.
-
-Gibraltar Electricity Authority
-
-2003-02
