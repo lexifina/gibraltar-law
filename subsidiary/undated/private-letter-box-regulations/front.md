@@ -12,7 +12,7 @@ PRIVATE LETTER BOX REGULATIONS
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1985/024 r. 8. 1.4.1985 1988/142 rr. 7(1)(2), 8(a)(b)(c) 1.4.1989 1999/029 rr. 7(1)(2), 8(a)(b)(c) 1.4.1999
+LN. 1985/024 r. 8. 1.4.1985 1988/142 rr. 7(1)(2), 8(a)(b)(c) 1.4.1989 1999/029 rr. 7(1)(2), 8(a)(b)(c) 1.4.1999 2019/166 r. 8 15.8.2019
 
 Post Office PRIVATE LETTER BOX REGULATIONS
 
