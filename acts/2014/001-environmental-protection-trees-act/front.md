@@ -12,7 +12,7 @@ Assent 24.2.2014
 
 Amending enactments Relevant current provisions Commencement date
 
-Act 2018-14 s. 16(1)(d) 16.8.2018
+Act 2018-14 s. 16(1)(d) 16.8.2018 2019-32 ss. 13(1), (1A), 14(1), (3) 15.8.2019
 
 ____________________________
 
