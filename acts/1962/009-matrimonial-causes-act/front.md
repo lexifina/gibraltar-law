@@ -32,9 +32,11 @@ Act. 1972-06 –
 
 14.1.20101 LN. 2015/003 s. 60A(b) 10.1.2015 Act. 2016-22 ss. 16(2)(a), 17(6A), 25(1)(b)-(c), 25A,
 
-15.12.20161 2016-18 ss. 25A(1)(d), 25B(4)(a) 23.4.2018 LN. 2018/112 ss. 2, 47(2)-(3) 21.5.2018
+15.12.20161 2016-18 ss. 25A(1)(d), 25B(4)(a) 23.4.2018 LN. 2018/112 ss. 2, 47(2)-(3) 21.5.2018 Act. 2019-24 ss. 10-11, 12(1), (3), 16(2)-(5), 17, 17A, 18(1), (3)(a), 19, 20(1)-(2), 26(1), (2)(a), 26A, 30(1), (3), 31(4), 31E(7)(b), 62-77
 
-1 Notice of Commencement - LN. 2010/002 1 Notice of Commencement - LN. 2016/248
+15.8.20192
+
+1 Notice of Commencement - LN. 2010/002 1 Notice of Commencement - LN. 2016/248 2 Notice of Commencement – LN.2019/170
 
 Matrimonial Causes
 
@@ -60,7 +62,7 @@ PART II.–JURISDICTION.
 
 PART III.–PRACTICE, POWERS AND EVIDENCE.
 
-9. Practice and procedure. 10. Parties to proceedings involving adultery. 11. Power to treat desertion as continuing during incapacity. 12. Evidence.
+9. Practice and procedure. 10. Repealed. 11. Repealed. 12. Evidence.
 
 PART IV.–ENCOURAGEMENT OF RECONCILIATION.
 
@@ -70,11 +72,11 @@ PART V .–DIVORCE, NULLITY AND DISSOLUTION OF MARRIAGE  ON PRESUMPTION OF DEATH
 
 Divorce.
 
-16. Divorce on breakdown of marriage. 17. Supplemental provisions as to facts raising presumption of breakdown. 17A.  Refusal of decree in three years separation cases on the ground of grave hardship to respondent. 18. Restrictions on petitions for divorce within three years of marriage. 19. Relief for respondent in divorce proceedings. 19A.  Consideration by the court of certain agreements or arrangements.
+16. Divorce on breakdown of marriage. 17. Repealed. 17A.  Repealed. 18. Restrictions on petitions for divorce within one year of marriage. 19. Repealed. 19A.  Consideration by the court of certain agreements or arrangements. 20. Divorce proceedings after grant of judicial separation or other relief. 21. Repealed.
 
 Matrimonial Causes
 
-1962-09 20. Divorce proceedings after grant of judicial separation or other relief. 21. Repealed. 22. Re-marriage of divorced persons. 23. Non-judicial divorces.
+1962-09 22. Re-marriage of divorced persons. 23. Non-judicial divorces.
 
 Nullity.
 
@@ -98,21 +100,21 @@ PART VI.–JUDICIAL SEPARATION.
 
 PART VIA.–FINANCIAL AGREEMENTS.
 
-31A.  Interpretation and application. 31B.  Financial agreements before marriage. 31C.  Financial agreements during marriage. 31D.  Financial agreements after the decree of divorce are granted. 31E.  Need for a declaration of separation for certain provisions of financial agreement to take effect.
+31A.  Interpretation and application. 31B.  Financial agreements before marriage. 31C.  Financial agreements during marriage. 31D.  Financial agreements after the decree of divorce are granted. 31E.  Need for a declaration of separation for certain provisions of financial agreement to take effect. 31F.  Whether or when certain other provisions of financial agreements take effect.
 
 Matrimonial Causes
 
-1962-09 31F.  Whether or when certain other provisions of financial agreements take effect. 31G.  Requirements with respect to provisions in financial agreements relating to the maintenance of a child or children. 31H.  Certain provisions in agreements. 31I. When financial agreements are binding. 31J. Effect of death of party to financial agreement. 31K.  Termination of financial agreement. 31L.  Circumstances in which court may set aside a financial agreement or termination agreement. 31M. Validity, enforceability and effect of financial agreements and termination agreements.
+1962-09 31G.  Requirements with respect to provisions in financial agreements relating to the maintenance of a child or children. 31H.  Certain provisions in agreements. 31I. When financial agreements are binding. 31J. Effect of death of party to financial agreement. 31K.  Termination of financial agreement. 31L.  Circumstances in which court may set aside a financial agreement or termination agreement. 31M. Validity, enforceability and effect of financial agreements and termination agreements.
 
 PART VII–FINANCIAL RELIEF FOR PARTIES TO MARRIAGE AND CHILDREN OF FAMILY
 
-32. Financial provision and property adjustment orders. 33. Maintenance pending suit. 34. Financial provision orders in connection with divorce proceedings, etc. 34A.  Deduction of maintenance at source. 35. Property adjustment orders in connection with divorce proceedings, etc 36. Orders for sale of property. 37. Matters to which court is to have regard in deciding how to exercise its powers under sections 34 to 36. 38. Exercise of court’s powers in favour of party to marriage on decree of divorce or nullity of marriage. 39. Commencement of proceedings for financial relief, etc. 40. Financial provision orders, etc, in case of neglect by party to marriage to maintain other party or child of the family. 41. Duration of continuing financial provision orders in favour of a party to the marriage, and effect of remarriage. 42. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour. 43. Direction for settlement of instrument for securing payments or effecting property adjustment. 43A.  Variation, discharge, etc, of certain orders for financial relief. 43B.  Orders for repayment in certain cases of sums paid after cessation of order by reason of remarriage. 43C.  Orders for repayment in certain cases of sums paid under certain orders. 43D.  Consent orders for financial provision on property adjustment. 43E.  Avoidance of transactions intended to prevent or reduce financial relief. 44. Extension of Married Women Act.
+32. Financial provision and property adjustment orders. 33. Maintenance pending suit. 34. Financial provision orders in connection with divorce proceedings, etc. 34A.  Deduction of maintenance at source. 35. Property adjustment orders in connection with divorce proceedings, etc 36. Orders for sale of property. 37. Matters to which court is to have regard in deciding how to exercise its powers under sections 34 to 36. 38. Exercise of court’s powers in favour of party to marriage on decree of divorce or nullity of marriage. 40. Financial provision orders, etc, in case of neglect by party to marriage to maintain other party or child of the family. 41. Duration of continuing financial provision orders in favour of a party to the marriage, and effect of remarriage. 42. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour. 43. Direction for settlement of instrument for securing payments or effecting property adjustment. 43A.  Variation, discharge, etc, of certain orders for financial relief. 43B.  Orders for repayment in certain cases of sums paid after cessation of order by reason of remarriage. 43C.  Orders for repayment in certain cases of sums paid under certain orders. 43D.  Consent orders for financial provision on property adjustment. 43E.  Avoidance of transactions intended to prevent or reduce financial relief. 44. Extension of Married Women Act. 45. Vesting of possession in tenancy.
+
+Inheritance.
 
 Matrimonial Causes
 
-1962-09 45. Vesting of possession in tenancy.
-
-Inheritance.
+1962-09
 
 46. Power to bar applications under the Inheritance (Provision for Family and  Dependants) Act.
 
@@ -130,15 +132,23 @@ PART IX.–RECOGNITION OF DIVORCES AND LEGAL SEPARATIONS  OBTAINED ELSEWHERE THA
 
 PART X–JURISDICTION, AND RECOGNITION AND ENFORCEMENT OF JUDGMENTS MADE IN A MEMBER STATE OF THE EUROPEAN UNION.
 
+60A.  Jurisdiction, and recognition and enforcement of judgments made in a member state of the European Union.
+
 Matrimonial Causes
 
 1962-09
 
-60A.  Jurisdiction, and recognition and enforcement of judgments made in a member state of the European Union.
-
 PART XI.–RULES.
 
 61. Rules.
+
+PART XII.-FINANCIAL RELIEF AFTER OVERSEAS DIVORCE
+
+62. Application for financial relief after an overseas divorce. 63. Leave of the Court required for applications for financial relief. 64. Interim orders for maintenance. 65. Jurisdiction of the Court. 66. Duty of the Court to consider whether Gibraltar is an appropriate venue for application. 67. Orders for financial provision, property adjustment and pension sharing. 68. Matters to which the court is to have regard in exercising its powers under section 67. 69. Restriction of powers of court under section 67 where jurisdiction depends on matrimonial home in Gibraltar. 70. Consent orders under section 67. 71. Orders for transfers of tenancies of dwelling-houses. 72. Application to orders under sections 64 and 67 of Part XII. 73. Avoidance of transactions intended to defeat applications for financial relief. 74. Presumptions for the purposes of section 73. 75. Prevention of transactions intended to defeat prospective applications for financial relief.
+
+SUPPLEMENTARY
+
+76. Sections 73 to 75: meaning of “disposition”. 77. Interpretation of this Part.
 
 SCHEDULE.
 
