@@ -144,7 +144,17 @@ Description of fees and charges. Fee £
 
 20.00 (b) Declaration of import of a motor vehicle for personal use.
 
-50.00 2. FEES AND DOCUMENTS RELATING TO LANDED PROPERTY.
+50.00 (c) Issue of an import licence under the Imports and Exports (Control) Regulations, 1987;
+
+10.00 (d) Issue of an export licence under the Imports and Exports (Control) Regulations, 1987;
+
+10.00 (e) Declaration of goods imported on a temporary basis;
+
+10.00 (f) Declaration of goods in transit;
+
+10.00 (g) Transfer or assignment of an import licence granted in respect of a vessel or caravan.
+
+10.00 2. FEES AND DOCUMENTS RELATING TO LANDED PROPERTY.
 
 (a) an original grant of Crown Land in fee on paper or parchment, under Public Seal
 
@@ -152,7 +162,9 @@ Description of fees and charges. Fee £
 
 (b) a lease or demise for a term of years, of Crown Land, under the Public Seal
 
-40.00 3. REGISTRATION AND NATURALISATION.
+40.00
+
+3. REGISTRATION AND NATURALISATION.
 
 (a) registration of a person as a British citizen under section 5 of the British Nationality Act, 1981
 
@@ -164,9 +176,17 @@ Description of fees and charges. Fee £
 
 (c) registration of a minor as a British Overseas Territories citizen under the British Nationality Act, 1981
 
-144.00 (d) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(1) of the British Nationality Act, 1981
+144.00
 
-150.00 (e) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(2) of the British Nationality Act, 1981
+Licensing and Fees LICENCE (FEES) RULES, 1991
+
+1961-29
+
+Subsidiary 1991/205 (d) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(1) of the British Nationality Act, 1981
+
+150.00
+
+(e) grant of a Certificate of Naturalisation as a British Overseas Territories citizen under section 18(2) of the British Nationality Act, 1981
 
 146.00
 
@@ -174,11 +194,7 @@ Description of fees and charges. Fee £
 
 81.00
 
-Licensing and Fees LICENCE (FEES) RULES, 1991
-
-1961-29
-
-Subsidiary 1991/205 (g) supplying a certified or other copy of a notice, certificate, order, declaration or entry given, granted or made under the British Nationality Act 1981 or any of the former Nationality Acts
+(g) supplying a certified or other copy of a notice, certificate, order, declaration or entry given, granted or made under the British Nationality Act 1981 or any of the former Nationality Acts
 
 20.00
 
