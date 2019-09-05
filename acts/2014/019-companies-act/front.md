@@ -26,7 +26,9 @@ Companies
 
 20.7.2015 2015/165 s. 168A 1.11.2015 2016/143 s. 478A 7.7.2016 2016/236 ss. 249(1), (2), (4), 251(5)(c), (d), (e), (7), (8), (9), 252A, 252B, 254(1), 258(2B), 281(2), Sch. 9
 
-6.12.20162 Act. 2017-03 s. 67A, Sch. 1A 11.4.2017 LN. 2017/196 s. 426, Sch. 24 1.1.2018
+6.12.20162 Act. 2017-03 s. 67A, Sch. 1A 11.4.2017 LN. 2017/196 s. 426, Sch. 24 1.1.2018 Act. 2019-33 ss. 431, 432(a)-(c), 433, (b)-(c), 434, (b), 435, (a)-(d), (i), 436(1)(a)-(b), (2), 437(1)-(6), 438(1), (a), 439(1)- (2), 440, 441, 443, 444(1), (5)-(6), 445(1), (a), (c), (2), (3)(a)-(b), (5), (6), 446(1)(a), (d)-(f), (2)-(4), (6)(a)- (b), 447(d), (f), 450(1), (a), 451(1), (4)(a)-(b), (5)(a), 452 (2), (3)(i), (4)- (5), 453(1)-(2), 453A, 454(1)-(3), 455(1)-(4), 456(1)-(2), (a), (3), (a), 457(1)-(4), 458, 459, 460(1)-(2), 461(1), (a)-(e), (2)-(5), 462(1), (a), (2), (a), (3)-(4), 463(1), 464(1)-(2), Sch. 26
+
+5.9.2019
 
 Transposing: Directive 2013/34/EU Directive 2014/95/EU
 
@@ -510,11 +512,11 @@ GENERAL PROVISIONS AS TO REGISTRATION
 
 PART XII
 
-COMPANIES INCORPORATED OUTSIDE GIBRALTAR CARRYING ON BUSINESS WITHIN GIBRALTAR
+BODIES CORPORATE INCORPORATED OUTSIDE GIBRALTAR CARRYING ON BUSINESS WITHIN GIBRALTAR
 
 Companies
 
-2014-19 431. Companies to which Part XII applies. 432. Documents to be delivered to Registrar by companies carrying on business in Gibraltar. 433. Return to be delivered to Registrar where documents altered. 434. Application of sections 432 and 433. 435. Obligation to state name of company, whether limited, and country where incorporated. 436. Company contracts. 437. Execution of documents. 438. Execution of deeds. 439. Service on overseas company. 440. Penalties. 441. Interpretation of Part XII.
+2014-19 431. Bodies Corporate to which Part XII applies. 432. Documents to be delivered to Registrar by bodies corporate carrying on business in Gibraltar. 433. Return to be delivered to Registrar where documents altered. 434. Application of sections 432 and 433. 435. Obligation to state name of body corporate, whether limited, and country where incorporated. 436. Contracts. 437. Execution of documents. 438. Execution of deeds. 439. Service on overseas body corporate. 440. Penalties. 441. Interpretation of Part XII.
 
 PART XIII
 
@@ -526,23 +528,23 @@ PART XIV
 
 BRANCH DISCLOSURE
 
-443. Application of Part XIV. 444. Registration of branches of companies. 445. Duty to register. 446. Particulars required about the company. 447. Further particulars about the branch. 448. Further particulars about registration of documents. 449. Documents required. 450. Further documents required in certain cases 451. Alterations. 452. Time periods.
+443. Application of Part XIV. 443A. 444. Registration of branches of bodies corporate. 445. Duty to register. 446. Particulars required about the body corporate. 447. Further particulars about the branch. 448. Further particulars about registration of documents. 449. Documents required. 450. Further documents required in certain cases 451. Alterations. 452. Time periods.
 
 PART XV
 
 CHANGE IN REGISTRATION REGIME
 
-453. Change in registration regime. 454. Change in registration regime: transitional provisions. 455. Change in registration regime: further transitional provisions 456. Duty to state name, etc. 457. Service of documents: companies to which Part XIV applies. 458. Documents to be filed on cessation of business: companies to which Part XIV applies. 459. Penalties for non-compliance.
+453. Change in registration regime. 453A. 454. Change in registration regime: transitional provisions. 455. Change in registration regime: further transitional provisions 456. Duty to state name, etc. 457. Service of documents: bodies corporate to which Part XIV applies.
 
 Companies
 
-2014-19 460. Delivery of accounts and reports: companies to which the Eleventh Company Law Directive applies.
+2014-19 458. Documents to be filed on cessation of business: bodies corporate to which Part XIV applies. 459. Penalties for non-compliance. 460. Delivery of accounts and reports: general.
 
 PART XVI
 
 PARTICULARS TO BE DELIVERED TO REGISTRAR: WINDING UP, ETC.
 
-461. Particulars to be delivered to the Registrar: winding up. 462. Particulars to be delivered to the Registrar: insolvency proceedings, etc. 463. Penalty for non-compliance. 464. Disclosure of branches.
+461. Particulars to be delivered to the Registrar: winding up or dissolution. 462. Particulars to be delivered to the Registrar: insolvency proceedings, etc. 463. Penalty for non-compliance. 464. Disclosure of branches.
 
 PART XVII
 
@@ -564,11 +566,11 @@ General provisions as to offences
 
 Service of documents and legal proceedings
 
-475. Service of documents on company. 476. Costs in actions by certain limited companies. 477. Power of court to grant relief in certain cases. 478. Power to enforce orders.
+475. Service of documents on company.
 
 Companies
 
-2014-19 478A. Exercise of powers and rights during resolution period.
+2014-19 476. Costs in actions by certain limited companies. 477. Power of court to grant relief in certain cases. 478. Power to enforce orders. 478A. Exercise of powers and rights during resolution period.
 
 General provisions
 
@@ -594,11 +596,11 @@ SCHEDULE 4
 
 VALUATION PROVISIONS ENTITLEMENT TO FULL DISCLOSURE
 
-SCHEDULE 5
-
 Companies
 
-2014-19 FORM OF ANNUAL RETURN OF A COMPANY HAVING A SHARE CAPITAL
+2014-19 SCHEDULE 5
+
+FORM OF ANNUAL RETURN OF A COMPANY HAVING A SHARE CAPITAL
 
 SCHEDULE 6
 
@@ -640,7 +642,9 @@ SCHEDULE 15
 
 Companies
 
-2014-19 AMOUNTS TO BE INCLUDED IN RESPECT OF ITEMS SHOWN IN COMPANY ACCOUNTS
+2014-19
+
+AMOUNTS TO BE INCLUDED IN RESPECT OF ITEMS SHOWN IN COMPANY ACCOUNTS
 
 SCHEDULE 16
 
@@ -680,11 +684,11 @@ TABLE OF FEES TO BE PAID TO THE REGISTRAR OF COMPANIES BY OR IN RESPECT OF CERTA
 
 SCHEDULE 25
 
-CREDIT AND FINANCIAL INSTITUTIONS TO WHICH THE BANK BRANCHES DIRECTIVE (89/117/EEC) APPLIES
+CREDIT AND FINANCIAL INSTITUTIONS TO WHICH THE BANK
 
 Companies
 
-2014-19
+2014-19 BRANCHES DIRECTIVE (89/117/EEC) APPLIES
 
 SCHEDULE 26
 
