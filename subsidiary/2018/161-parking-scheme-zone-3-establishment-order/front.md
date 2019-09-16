@@ -10,6 +10,10 @@ PARKING SCHEME (ZONE 3) ESTABLISHMENT ORDER
 
 Commencement 11.9.2018
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/184 Para. 3(1) 16.9.2019
+
 _______________________
 
 In exercise of the powers conferred on him by regulation 8 of the Traffic (Parking and Waiting) Regulations 2011, the Minister has established a Parking Scheme within Zone 3 as set out below–
