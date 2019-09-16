@@ -4,7 +4,13 @@ Regulation 60 PRESCRIBED FEES
 
 The prescribed fee or fine for any matter or offence referred to in column 1 of the table below shall be the sum specified in column 2.
 
-1. MATTER OR OFFENCE 2. AMOUNT OF FEE, CHARGE OR FINE Issue of parking permit in connection with a parking scheme (fee) The parking permits in this entry do not include the following permits – (a) Zone 1 Residents’ Parking Permit; (b) Zone 2 Residents’ Parking Permit; (c) Zone 3 Residents’ Parking Permit; and (d) All Zones Residential Parking Permits for Commercial Vehicles. £zero Issue of “Zone 1 Residents’ Parking Permit” (fee) (a) First permit per household
+1. MATTER OR OFFENCE 2. AMOUNT OF FEE, CHARGE OR FINE Issue of parking permit in connection with a parking scheme (fee) The parking permits in this entry do not include the following permits – (a) Zone 1 Residents’ Parking Permit;
+
+(b) Zone 2 Residents’ Parking Permit;
+
+(c) Zone 3 Residents’ Parking Permit; and
+
+(d) All Zones Residential Parking Permits for Commercial Vehicles. £zero Issue of “Zone 1 Residents’ Parking Permit” (fee) (a) First permit per household
 
 (b) Second permit per household
 
@@ -26,13 +32,15 @@ The prescribed fee or fine for any matter or offence referred to in column 1 of 
 
 (c) £240 per annum
 
-(d) £480 per annum Issue of “Zone 1 Residents’ Parking Permit” for a person 60 years of age or over (fee)
+(d) £480 per annum
 
 Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 
 2005-26
 
-Subsidiary 2011/057 (a) First permit per household for a person 60 years of age or over
+Subsidiary 2011/057 Issue of “Zone 1 Residents’ Parking Permit” for a person 60 years of age or over (fee)
+
+(a) First permit per household for a person 60 years of age or over
 
 (b) Second permit per household for a person 60 years of age or over
 
@@ -46,7 +54,9 @@ Subsidiary 2011/057 (a) First permit per household for a person 60 years of age 
 
 3. Subject to paragraph 4 in this entry, provided that an applicant meets the requirements for a parking permit, Disabled Persons Badge holders will be eligible for the “First permit per household” to be free of charge.
 
-4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name. (a) £30 per annum
+4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name.
+
+(a) £30 per annum
 
 (b) £120 per annum
 
@@ -66,7 +76,7 @@ Issue of “Zone 2 Residents’ Parking Permit” (fee)
 
 1. After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows.
 
-2. If a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name, the cost of the first permit will be charged at the “Second permit per household” rate and the cost of any subsequent permit will continue from that point as set out in this entry. 3. Subject to paragraph 4 in this entry, provided that an applicant meets the requirements for a parking permit,
+2. If a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name, the cost of the first permit will be charged at the “Second permit per household” rate and the cost of any subsequent permit will
 
 £60 per annum
 
@@ -80,7 +90,7 @@ Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 
 2005-26
 
-Subsidiary 2011/057 Disabled Persons Badge holders will be eligible for the “First permit per household” to be free of charge.
+Subsidiary 2011/057 continue from that point as set out in this entry. 3. Subject to paragraph 4 in this entry, provided that an applicant meets the requirements for a parking permit, Disabled Persons Badge holders will be eligible for the “First permit per household” to be free of charge.
 
 4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name. Issue of “Zone 2 Residents’ Parking Permit” for a person 60 years of age or over (fee)
 
@@ -116,8 +126,6 @@ Issue of “Zone 3 Residents’ Parking Permit” (fee)
 
 (d) Fourth permit per household
 
-1. After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows.
-
 (a) £60 per annum
 
 (b) £120 per annum
@@ -131,6 +139,8 @@ Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 2005-26
 
 Subsidiary 2011/057
+
+1. After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows.
 
 2. If a household benefits from –
 
@@ -164,10 +174,6 @@ the cost of the first permit will be charged at the “Second permit per househo
 
 1. After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows. 2. If a household benefits from –
 
-(a) a parking space or garage by way of ownership;
-
-(b) an individual residing at that household is renting a
-
 £30 per annum
 
 £120 per annum
@@ -180,7 +186,9 @@ Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 
 2005-26
 
-Subsidiary 2011/057 parking space or garage under their name; or
+Subsidiary 2011/057 (a) a parking space or garage by way of ownership;
+
+(b) an individual residing at that household is renting a parking space or garage under their name; or
 
 (c) an individual residing at that household holding any of the permits listed in paragraph 5,
 
@@ -215,6 +223,12 @@ the cost of the first permit will be charged at the “Second permit per househo
 £240 per annum
 
 £480 per annum Parking in a Pay and Display car park without having paid the correct fee or without displaying the ticket as required by regulations (fee) £50 Release of a vehicle that has been immobilised or removed (fee) £60 Daily fee for detention of immobilised or removed vehicle £15
+
+Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
+
+2005-26
+
+Subsidiary 2011/057
 
 Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
 
