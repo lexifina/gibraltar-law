@@ -10,6 +10,10 @@ PARKING SCHEME (ZONE 1) ESTABLISHMENT ORDER
 
 Commencement 1.7.2017
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/188 Para. 3(1) 16.9.2019
+
 _______________________
 
 In exercise of the powers conferred on him by regulation 8 of the Traffic (Parking and Waiting) Regulations 2011, the Minister has established a Parking Scheme within Zone 1 as set out below–
