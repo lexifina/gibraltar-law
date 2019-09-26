@@ -10,6 +10,10 @@ SOLAR ENERGY (DEDUCTIONS) RULES 2015
 
 Commencement 1.7.2014
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2018-19 rr. 6(2)(a), (5) 26.9.2019
+
 _______________________
 
 ARRANGEMENT OF RULES.
