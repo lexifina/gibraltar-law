@@ -13,9 +13,3 @@ Competent Authority
 4.  Membership — when the competent authority acts as a coordinating body for other competent authorities, a list of these is required together with a summary of the institutional relationships established in order to ensure coordination.
 
 5.  Regional or sub-regional coordination — a summary is required of the mechanisms established in order to ensure coordination between the Member States whose marine waters fall within the same marine region or sub-region.
-
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013

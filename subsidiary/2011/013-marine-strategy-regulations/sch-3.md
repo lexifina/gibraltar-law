@@ -26,19 +26,13 @@ Habitats
 
 Broad habitat types of the water column (pelagic) and seabed (benthic) (Note 5), or other habitat types, including their associated biological communities throughout the marine region or subregion
 
-Per habitat type: - habitat distribution and extent (and volume, if appropriate) - species composition, abundance and / or biomass (special and temporal variation) - size and age structure of species (if appropriate) - physical, hydrological and chemical characteristics Additionally for pelagic habitats: - chlorophyll a concentration
+Per habitat type: - habitat distribution and extent (and volume, if appropriate) - species composition, abundance and / or biomass (special and temporal variation) - size and age structure of species (if appropriate) - physical, hydrological and chemical characteristics Additionally for pelagic habitats: - chlorophyll a concentration - plankton boom frequencies and spatial extent
 
 (1); (6)
 
-Environment MARINE STRATEGY REGULATIONS 2011
+Ecosystem structure, functions and processes, compromising:
 
-2005-27
-
-Subsidiary 2011/013 - plankton boom frequencies and spatial extent
-
-Ecosystems, including food webs
-
-Ecosystem structure, functions and processes, compromising: - physical  and hydrological characteristics - chemical characteristics - biological characteristics - functions and processes
+Ecosystems, including food webs - physical  and hydrological characteristics - chemical characteristics - biological characteristics - functions and processes
 
 Notes related to Table 1
 
@@ -55,12 +49,6 @@ Note 5:These broad habitat types are further specified in Part II of the Annex t
 Table 2
 
 Anthropogenic pressures, uses and human activities in or affecting the marine environment
-
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013
 
 2a. Anthropogenic pressures on the marine environment With particular relevant for points (a) and (b) of Regulation 6(1), and Regulations 7, 8 and 9
 
@@ -100,13 +88,7 @@ Physical disturbance to seabed (temporary or reversible)
 
 (6); (7)
 
-Physical loss (due to permanent change of seabed substrate or morphology and to
-
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013 extraction of seabed substrate)
+Physical loss (due to permanent change of seabed substrate or morphology and to extraction of seabed substrate)
 
 Changes to hydrological conditions
 
@@ -118,11 +100,11 @@ Input of nutrients – diffuse sources, point sources, atmospheric deposition
 
 Input of organic matter – diffuse sources and point sources
 
-Input of other substances (e.g. synthetic substances, non-synthetic substances, radionuclides) – diffuse sources, point sources, atmospheric deposition, acute events
+Input of other substances (e.g. synthetic substances, non- synthetic substances, radionuclides) – diffuse sources, point sources, atmospheric deposition, acute events
 
 (8); (9)
 
-Input of litter (solid waste matter, including micro- sized litter)
+Input of litter (solid waste matter, including micro-sized litter)
 
 (10)
 
@@ -134,13 +116,7 @@ Input of other forms of energy (including electromagnetic fields, light and heat
 
 Input of water – point sources (e.g. brine)
 
-2b. Uses and human activities in or affecting the marine environment with particular relevant for points (b) and (c) of Article 8 (1) of the Directive when carrying out an assessment under Regulation 6(1) (only activities marked * are relevant for Regulation 6(2), and Regulations 8
-
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013 and 10)
+2b. Uses and human activities in or affecting the marine environment with particular relevant for points (b) and (c) of Article 8 (1) of the Directive when carrying out an assessment under Regulation 6(1) (only activities marked * are relevant for Regulation 6(2), and Regulations 8 and 10)
 
 Theme
 
@@ -190,12 +166,6 @@ Aquaculture – marine, including infrastructure*
 
 Aquaculture – freshwater
 
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013
-
 Agriculture
 
 Forestry
@@ -238,16 +208,4 @@ Note 1: Assessment of pressures should address their levels in the marine enviro
 
 Note 2: The numbers in this column refer to the respective numbered points in Schedule 1.
 
-Note 3: Only pressure-based qualitative descriptors (2), (3), (5), (6), (7), (8), (9), (10), and (11), which have criteria laid down in accordance with Article 9(3) of the Directive, are listed in Table 2a.
-
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013 All other, state-based, qualitative descriptors under Schedule 1 may be relevant for each theme.
-
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013
+Note 3: Only pressure-based qualitative descriptors (2), (3), (5), (6), (7), (8), (9), (10), and (11), which have criteria laid down in accordance with Article 9(3) of the Directive, are listed in Table 2a.  All other, state-based, qualitative descriptors under Schedule 1 may be relevant for each theme.

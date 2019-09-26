@@ -24,14 +24,4 @@ Qualitative descriptors for determining good environmental status
 
 10.  Properties and quantities of marine litter do not cause harm to the coastal and marine environment.
 
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013 11.  Introduction of energy, including underwater noise, is at levels that do not adversely affect the marine environment.
-
-Environment MARINE STRATEGY REGULATIONS 2011
-
-2005-27
-
-Subsidiary 2011/013
+11.  Introduction of energy, including underwater noise, is at levels that do not adversely affect the marine environment.
