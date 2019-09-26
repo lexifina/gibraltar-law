@@ -6,15 +6,15 @@ ADDITIONAL HEALTH AND SAFETY REQUIREMENTS
 
 Delineation and provision of safety signs.
 
-1. Areas where there is a special hazard shall be delineated and appropriate safety signs placed.
+1.Areas where there is a special hazard shall be delineated and appropriate safety signs placed.
 
 Person in charge and supervision.
 
-2. A competent person appointed by the operator shall be in charge of every borehole site where employees are present and there shall be sufficient competent persons appointed by the operator to exercise immediate supervision of borehole operations with a view to ensuring the health and safety of the persons at work at the site.
+2.A competent person appointed by the operator shall be in charge of every borehole site where employees are present and there shall be sufficient competent persons appointed by the operator to exercise immediate supervision of borehole operations with a view to ensuring the health and safety of the persons at work at the site.
 
 Provisions of competent persons.
 
-3. Where borehole operations are carried on, there shall be provided a sufficient number of competent persons with a view to enabling those operations to be carried on safely.
+3.Where borehole operations are carried on, there shall be provided a sufficient number of competent persons with a view to enabling those operations to be carried on safely.
 
 Written instructions.
 
@@ -28,9 +28,7 @@ Written instructions.
 
 Work permits.
 
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
-
-Subsidiary 1997/063 1956-12 5.(1) Where borehole operations are carried on and it is shown in the health and safety document that such a measure is necessary, a system of work permits shall be introduced for carrying out hazardous operations and usually straightforward operations which may interact with other activities to cause serious hazards.
+5.(1) Where borehole operations are carried on and it is shown in the health and safety document that such a measure is necessary, a system of work permits shall be introduced for carrying out hazardous operations and usually straightforward operations which may interact with other activities to cause serious hazards.
 
 (2)   Work permits shall specify the conditions to be fulfilled and the precautions to be taken before, during and after the work concerned and shall be issued by the person in charge of those operations in accordance with a scheme agreed with the operator of the borehole site.
 
@@ -50,13 +48,11 @@ Well control.
 
 Harmful atmospheres.
 
-8. Where there is a risk that employees may be exposed to atmospheres that are hazardous to health, there shall be provided–
+8.Where there is a risk that employees may be exposed to atmospheres that are hazardous to health, there shall be provided–
 
 (a) sufficient appropriate breathing and resuscitation equipment and apparatus; and
 
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
-
-Subsidiary 1997/063 1956-12 (b) a sufficient number of employees trained to use the apparatus present at the borehole site.
+(b) a sufficient number of employees trained to use the apparatus present at the borehole site.
 
 Prevention of explosions.
 
@@ -88,10 +84,6 @@ Means of evacuation and escape.
 
 12.(1)   Employees shall be trained in appropriate action to be taken in the event of an emergency.
 
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
-
-Subsidiary 1997/063 1956-12
-
 (2)   Rescue equipment shall be provided at readily accessible and appropriately sited places and kept ready for use.
 
 (3)   Where escape routes are difficult and where irrespirable atmospheres are or may be present, self-contained escape apparatus shall be provided for immediate use in the event of an emergency by employees at the workstation.
@@ -110,7 +102,7 @@ Fire detection and fire-fighting.
 
 (2)   Provision shall be made for fast and effective fire-fighting.
 
-(3)   Borehole sites   shall   be   equipped   with  appropriate  fire-fighting equipment and, as necessary, with fire detection and alarm systems.
+(3)   Borehole sites shall be equipped with appropriate fire-fighting equipment and, as necessary, with fire detection and alarm systems.
 
 (4)   Non-automatic fire-fighting equipment shall be easily accessible and simple to use and where necessary protected from damage.
 

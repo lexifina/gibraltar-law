@@ -1,18 +1,18 @@
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
+Subsidiary Legislation made under s.58.
 
-Subsidiary 1997/063 1956-12 Regulations made under s.58.
+Factories (Boreholes (Sites and Operations) Health and Safety) Regulations 1997
 
-FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
+LN. 1997/063
 
-(LN. 1997/063)
+Commencement 12.6.1997
 
-12.6.1997
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2018-19 Sch. 1 26.9.2019
 
 Transposing: Directive 92/91/EEC
 
-_____________________________
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -22,6 +22,4 @@ SCHEDULE 1 Particulars required for notifications under regulation 6
 
 SCHEDULE 2 Additional health and safety requirements
 
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
-
-Subsidiary 1997/063 1956-12 In exercise of the powers conferred on him by section 58 of the Factories Act, and of all other enabling powers, and for the purposes of transposing into the law of Gibraltar Council Directive 92/91/EEC, the Governor has made the following regulations –
+In exercise of the powers conferred on him by section 58 of the Factories Act, and of all other enabling powers, and for the purposes of transposing into the law of Gibraltar Council Directive 92/91/EEC, the Governor has made the following regulations –

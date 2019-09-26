@@ -6,7 +6,7 @@ PARTICULARS REQUIRED FOR NOTIFICATIONS UNDER REGULATION 6
 
 Notification under regulation 6(1).
 
-1. The particulars required for a notification under regulation 6(1) are as follows–
+1.The particulars required for a notification under regulation 6(1) are as follows–
 
 (a) name and address of the operator;
 
@@ -18,7 +18,7 @@ Notification under regulation 6(1).
 
 (e) particulars, with scale diagrams, where appropriate, of–
 
-(i) the reference on the General Plan of the City of Gibraltar (within the meaning of the Town Planning Act) of the location of the top of the well;
+(i) the reference on the General Plan of the City of Gibraltar of the location of the top of the well;
 
 (ii) the directional path of the borehole;
 
@@ -31,10 +31,6 @@ Notification under regulation 6(1).
 (i) the dates on which operations are expected to start and finish; and
 
 (ii) a diagram showing details of the intended final completion or recompletion of the well;
-
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
-
-Subsidiary 1997/063 1956-12
 
 (g) a description of–
 
@@ -62,15 +58,13 @@ Subsidiary 1997/063 1956-12
 
 Notification under regulation 6(2).
 
-2. The particulars required for a notification under regulation 6(2) are as follows–
+2.The particulars required for a notification under regulation 6(2) are as follows–
 
 (a) name and address of the operator;
 
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
+(b) particulars with scale diagrams, where appropriate, of–
 
-Subsidiary 1997/063 1956-12 (b) particulars with scale diagrams, where appropriate, of–
-
-(i) the reference on the General Plan of the City of Gibraltar (within the meaning of the Town Planning Act) of the location of the top of the borehole;
+(i) the reference on the General Plan of the City of Gibraltar of the location of the top of the borehole;
 
 (ii) its directional path; and
 
@@ -80,13 +74,13 @@ Subsidiary 1997/063 1956-12 (b) particulars with scale diagrams, where appropria
 
 Notification under regulation 6(3).
 
-3. The particulars required for a notification under regulation 6(3) are as follows–
+3.The particulars required for a notification under regulation 6(3) are as follows–
 
 (a) name and address of the person entitled to drill the borehole;
 
 (b) particulars with scale diagrams, where appropriate, of–
 
-(i) the reference on the General Plan of the City of Gibraltar (within the meaning of the Town Planning Act) of the location of the top of the borehole;
+(i) the reference on the General Plan of the City of Gibraltar of the location of the top of the borehole;
 
 (ii) its directional path; and
 
@@ -96,24 +90,16 @@ Notification under regulation 6(3).
 
 Notification under regulation 6(4).
 
-4. The particulars required for a notification under regulation 6(4) are as follows–
+4.The particulars required for a notification under regulation 6(4) are as follows–
 
 (a) name and address of the operator;
 
 (b) particulars with scale diagrams, where appropriate, of–
 
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
-
-Subsidiary 1997/063 1956-12
-
-(i) the reference on the General Plan of the City of Gibraltar (within the meaning of the Town Planning Act) of the location of the top of the borehole;
+(i) the reference on the General Plan of the City of Gibraltar of the location of the top of the borehole;
 
 (ii) its directional path; and
 
 (iii) its terminal depth and location;
 
 (c) details of the sealing or other treatment.
-
-Factories FACTORIES (BOREHOLES (SITES AND OPERATIONS) HEALTH AND SAFETY) REGULATIONS, 1997
-
-Subsidiary 1997/063 1956-12
