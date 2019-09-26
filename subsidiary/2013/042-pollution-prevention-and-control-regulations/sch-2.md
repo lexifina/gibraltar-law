@@ -214,7 +214,7 @@ Computer aided design or other equivalent methods shall be used to calculate the
 
 Activity (solvent consumption threshold  in tonnes/year) Production threshold (refers to annual production of coated item) Total emission limit value New installations Existing installations Coating of new cars (> 15) > 5 000 45 g/m2 or 1,3 kg/ body + 33 g/m2 60 g/m2 or 1,9 kg/ body + 41 g/m2 ≤ 5 000 monocoque or > 3 500 chassis- built 90 g/m2 or 1,5 kg/ body + 70 g/m2 90 g/m2 or 1,5 kg/ body + 70 g/m2
 
-Total emission limit value (g/m2) Coating of new truck cabins (> 15) ≤ 5 000 65 8 5 > 5 000 55 7 5 Coating of new vans and trucks (> 15) ≤ 2 500 90 1 2 > 2 500 70 9 0
+Total emission limit value (g/m2) Coating of new truck cabins (> 15) ≤ 5 000 65 8 5 > 5 000 55 7 5 Coating of new vans and trucks (> 15) ≤ 2 500 90 2 > 2 500 70 9 0
 
 Coating of new buses (> 15) ≤ 2 000 210 2 9 > 2 000 150 2 2
 

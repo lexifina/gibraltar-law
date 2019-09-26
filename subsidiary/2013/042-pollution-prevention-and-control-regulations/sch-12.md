@@ -218,39 +218,23 @@ Polluting substance < 50 MWth 50 to 100  MWth 100 to 300  MWth> 300 MWth SO2 —
 
 3.3.  C — total emission limit values for heavy metals (mg/Nm3) expressed as average values over the sampling period of a minimum of 30 minutes and a maximum of 8 hours (O2 content 6% for solid fuels and 3% for liquid fuels)
 
-Polluting substances
-
-C Cd + Tl
-
-0.05 Hg 0.05
+Polluting substances C Cd + Tl 0.05 Hg 0.05
 
 Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V 0.5
 
 3.4. C — total emission limit value (ng/Nm3) for dioxins and furans expressed as average value measured over the sampling period of a minimum of 6 hours and a maximum of 8 hours (O2 content 6% for solid fuels and 3% for liquid fuels)
 
-Polluting substances
-
-C Dioxins and furans
-
-0.1
+Polluting substances C Dioxins and furans 0.1
 
 4.  Special provisions for waste co-incineration installations in industrial sectors not covered under Points 2 and 3 of this Part
 
 4.1. C — total emission limit value (ng/Nm3) for dioxins and furans expressed as average value measured over the sampling period of a minimum of 6 hours and a maximum of 8 hours−
 
-Polluting substances
-
-C Dioxins and furans
-
-0.1
+Polluting substances C Dioxins and furans 0.1
 
 4.2.  C – total emission limit values (mg/Nm3) for heavy metals expressed as average values over the sampling period of a minimum of 30 minutes and a maximum of 8 hours:
 
-Polluting substances
-
-C Cd + Tl 0.05
-
-Hg 0.05
+Polluting substances C Cd + Tl 0.05 Hg 0.05
 
 PART 5
 
@@ -342,11 +326,7 @@ x  EM
 
 ES = calculated emission concentration at the standard percentage oxygen concentration
 
-EM = measured emission concentration
-
-OS = standard oxygen concentration
-
-OM = measured oxygen concentration
+EM = measured emission concentration OS = standard oxygen concentration OM = measured oxygen concentration
 
 PART 8
 

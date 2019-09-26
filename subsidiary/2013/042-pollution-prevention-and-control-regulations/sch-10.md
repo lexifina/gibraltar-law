@@ -12,15 +12,7 @@ Emission limit values for combustion plants referred to in Article 30(2)
 
 2.  Emission limit values (mg/Nm3) for SO2 for combustion plants using solid or liquid fuels with the exception of gas turbines and gas engines
 
-Total rated thermal input (MW) Coal and lignite and other solid fuels Biomass Peat Liquid fuels 50-100
-
-400 200 300 350 100-300
-
-250 200 300 250
-
-> 300
-
-200 200 200 200
+Total rated thermal input (MW) Coal and lignite and other solid fuels Biomass Peat Liquid fuels 50-100 400 200 300 350 100-300 250 200 300 250 > 300 200 200 200 200
 
 Combustion plants, using solid fuels which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, and which do not operate more than 1 500 operating hours per year as a rolling average over a period of 5 years, shall be subject to an emission limit value for SO2 mg/Nm3.
 
@@ -30,29 +22,13 @@ A part of a combustion plant discharging its waste gases through one or more sep
 
 3.  Emission limit values (mg/Nm3) for SO2 for combustion plants using gaseous fuels with the exception of gas turbines and gas engines
 
-In general
-
-35
-
-Liquefied gas
-
-5
-
-Low calorific gases from coke oven
-
-400
-
-Low calorific gases from blast furnace
-
-200
+In general 35 Liquefied gas 5 Low calorific gases from coke oven 400 Low calorific gases from blast furnace 200
 
 Combustion plants, firing low calorific gases from gasification of refinery residues, which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003, shall be subject to an emission limit value for SO2 of 800 mg/Nm3.
 
 4.  Emission limit values (mg/Nm3) for NOx for combustion plants using solid or liquid fuels with the exception of gas turbines and gas engines
 
-Total rated thermal input (MW)
-
-Coal and lignite and other solid fuels
+Total rated thermal input (MW) Coal and lignite and other solid fuels
 
 Biomass and peat
 
@@ -60,17 +36,13 @@ Liquid fuels
 
 50-100
 
-300 450 in case of pulverised lignite combustion
-
-300
+300 450 in case of pulverised lignite combustion 300
 
 450
 
 100-300 200 250 200(1)
 
-> 300
-
-200 200 150(1)
+> 300 200 200 150(1)
 
 Note:
 
@@ -92,19 +64,11 @@ Gas turbines for emergency use that operate less than 500 operating hours per ye
 
 6.  Emission limit values (mg/Nm3) for NOx and CO for gas fired combustion plants.
 
-NOx CO Combustion plants firing natural gas with the exception of gas turbines and gas engines
-
-100 100 Combustion plants firing blast furnace gas, coke oven gas or low calorific gases from gasification of refinery residues, with the exception of gas turbines and gas engines
+NOx CO Combustion plants firing natural gas with the exception of gas turbines and gas engines 100 100 Combustion plants firing blast furnace gas, coke oven gas or low calorific gases from gasification of refinery residues, with the exception of gas turbines and gas engines
 
 200(4)
 
-___ Combustion plants firing other gases, with the exception of gas turbines and gas engines
-
-200(4) ____ Gas turbines (including CCGT), using natural gas (1) as fuel
-
-50(2) (3) 100 Gas turbines (including CCGT), using other gases as fuel
-
-120 ____ Gas engines 100 100
+___ Combustion plants firing other gases, with the exception of gas turbines and gas engines 200(4) ____ Gas turbines (including CCGT), using natural gas (1) as fuel 50(2) (3) 100 Gas turbines (including CCGT), using other gases as fuel 120 ____ Gas engines 100 100
 
 Notes:
 
@@ -132,9 +96,7 @@ Gas turbines and gas engines for emergency use that operate less than 500 operat
 
 7.  Emission limit values (mg/Nm3) for dust for combustion plants using solid or liquid fuels with the exception of gas turbines and gas engines
 
-Total rated thermal input (MW)
-
-Coal and lignite and other solid fuels
+Total rated thermal input (MW) Coal and lignite and other solid fuels
 
 Biomass and peat
 
@@ -146,13 +108,7 @@ Note:
 
 8.  Emission limit values (mg/Nm3) for dust for combustion plants using gaseous fuels with the exception of gas turbines and gas engines
 
-In general
-
-5 Blast furnace gas
-
-10 Gases produced by the steel industry which can be used elsewhere
-
-30
+In general 5 Blast furnace gas 10 Gases produced by the steel industry which can be used elsewhere 30
 
 PART 2
 
@@ -164,61 +120,31 @@ In case of combined cycle gas turbines with supplementary firing, the standardis
 
 2.  Emission limit values (mg/NM3) for SO2 for combustion plants using solid or liquid fuels with the exception of gas turbines and gas engines
 
-Total rated thermal input (MW)
-
-Coal and lignite and other solid fuels
-
-Biomass
+Total rated thermal input (MW) Coal and lignite and other solid fuels Biomass
 
 Peat
 
-Liquid fuels 50-100
+Liquid fuels 50-100 400 200 300 350 100-300
 
-400 200 300 350 100-300
+200 200 300 250 in the case of fluidised bed combustion 200 > 300
 
-200 200 300 250 in the case of fluidised bed combustion
-
-200 > 300
-
-150 200 in case of circu- lating or pressurised fluidised bed combustion
-
-150 150 200 in case of fluidised bed combustion 150
+150 200 in case of circu- lating or pressurised fluidised bed combustion 150 150 200 in case of fluidised bed combustion 150
 
 3. Emission limit values (mg/Nm3) for SO2 for combustion plants using gaseous fuels with the exception of gas turbines and gas engines
 
-In general
-
-35
-
-Liquefied gas
-
-5
-
-Low calorific gases from coke oven
-
-400 Low calorific gases from blast furnace 200
+In general 35 Liquefied gas 5 Low calorific gases from coke oven 400 Low calorific gases from blast furnace 200
 
 4. Emission limit values (mg/Nm3) for NOx for combustion plants using solid or liquid fuels with the exception of gas turbines and gas engines
 
-Total rated thermal input (MW)
-
-Coal and lignite and other solid fuels
-
-Biomass and peat Liquid fuels
+Total rated thermal input (MW) Coal and lignite and other solid fuels Biomass and peat Liquid fuels
 
 50-100
 
-300 400 in case of pulverised lignite combustion
-
-250
+300 400 in case of pulverised lignite combustion 250
 
 300
 
-100-300
-
-200 200 150
-
-> 300
+100-300 200 200 150 > 300
 
 150 200 in case of pulverised Lignite combustion 150 100
 
@@ -228,13 +154,7 @@ Gas turbines for emergency use that operate less than 500 operating hours per ye
 
 6. Emission limit values (mg/Nm3) for NOx and CO for gas fired combustion plants.
 
-NOx CO Combustion plants other than gas turbines and gas engines
-
-100 100 Gas turbines (including CCGT)
-
-50(1) 100 Gas engines
-
-75 100
+NOx CO Combustion plants other than gas turbines and gas engines 100 100 Gas turbines (including CCGT) 50(1) 100 Gas engines 75 100
 
 Note:
 
@@ -248,23 +168,13 @@ Gas turbines and gas engines for emergency use that operate less than 500 operat
 
 Total rated thermal input (MW)
 
-50-300
-
-20
-
-> 300
+50-300 20 > 300
 
 10 20 for biomass and peat
 
 8. Emission limit values (mg/Nm3) for dust for combustion plants using gaseous fuels with the exception of gas turbines and gas engines
 
-In general
-
-5 Blast furnace gas
-
-10 Gases produced by the steel industry which can be used elsewhere
-
-30
+In general 5 Blast furnace gas 10 Gases produced by the steel industry which can be used elsewhere 30
 
 PART 3
 
@@ -302,21 +212,7 @@ The operator shall inform the Agency about the results of the checking of the au
 
 9. At the emission limit value level, the values of the 95% confidence intervals of a single measured result shall not exceed the following percentages of the emission limit values−
 
-Carbon monoxide
-
-10%
-
-Sulphur dioxide
-
-20%
-
-Nitrogen oxides
-
-20%
-
-Dust
-
-30%
+Carbon monoxide 10% Sulphur dioxide 20% Nitrogen oxides 20% Dust 30%
 
 10.  The validated hourly and daily average values shall be determined from the measured valid hourly average values after having subtracted the value of the confidence interval specified in point 9.
 
@@ -350,11 +246,7 @@ Minimum rate of desulphurisation
 
 1. Minimum rate of desulphurisation for combustion plants referred to in Article 30(2)
 
-Minimum rate of desulphurisation
-
-Total rated thermal input (MW) Plants which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003
-
-Other plants 50-100 80% 92% 100-300 90% 92% >300 96% (1) 96% (1)
+Minimum rate of desulphurisation Total rated thermal input (MW) Plants which were granted a permit before 27 November 2002 or the operators of which had submitted a complete application for a permit before that date, provided that the plant was put into operation no later than 27 November 2003 Other plants 50-100 80% 92% 100-300 90% 92% >300 96% (1) 96% (1)
 
 Note:
 
@@ -362,21 +254,7 @@ Note:
 
 2.  Minimum rate of desulphurisation for combustion plants referred to in Article 30(3)
 
-Total rated thermal input (MW)
-
-Minimum rate of desulphurisation
-
-50-100
-
-93%
-
-100-300
-
-93%
-
-> 300
-
-97%
+Total rated thermal input (MW) Minimum rate of desulphurisation 50-100 93% 100-300 93% > 300 97%
 
 PART 6
 

@@ -6,9 +6,7 @@ LN.2013/042
 
 Commencement 28.2.2013
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2016/123 r. 2(1), Sch. 4 16.6.2016 2018/024 r. 2 6.2.2018
+Amending enactments Relevant current provisions Commencement date LN. 2016/123 r. 2(1), Sch. 4 16.6.2016 2018/024 r. 2 6.2.2018 Act. 2018-19 r. 18(1)(b) 26.9.2019
 
 Transposing: Directive 2010/75/EU Directive 2013/59/EURATOM
 
