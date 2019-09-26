@@ -10,9 +10,19 @@ ENVIRONMENT (MARITIME SPATIAL PLANNING) REGULATIONS 2016
 
 Commencement 18.9.2016
 
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2018-19 r. 4(3)(b) 26.9.2019 LN.2021/374 rr. 3, 5(1), (3)-(4), 8(4)(f)-(g), 10(3)(a)-(b), 11-13 1.1.2021
+
 Transposing: Directive 2014/89/E
 
 _______________________
+
+Environment ENVIRONMENT (MARITIME SPATIAL PLANNING) REGULATIONS 2016
+
+2005-27
+
+Subsidiary 2016/179
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -32,13 +42,7 @@ PART 3 Elements of Maritime Spatial Planning
 
 PART 4 Procedural requirements.
 
-9. Public Participation. 10. Data Use and Sharing.
-
-Environment ENVIRONMENT (MARITIME SPATIAL PLANNING) REGULATIONS 2016
-
-2005-27
-
-Subsidiary 2016/179 11. Cooperation with Member States. 12. Cooperation with Countries outside the European Union 13. Reporting of plan.
+9. Public Participation. 10. Data Use and Sharing. 11. Omitted. 12. Cooperation with Countries outside Gibraltar. 13. Omitted.
 
 Environment ENVIRONMENT (MARITIME SPATIAL PLANNING) REGULATIONS 2016
 
