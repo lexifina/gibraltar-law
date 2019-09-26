@@ -20,10 +20,6 @@ Gibraltar.
 
 Signed. Dated.
 
-Construction (Government Projects)
-
-2009-29
-
 Section 3(5) Part 2
 
 FORM OF CERTICATE
@@ -47,7 +43,3 @@ Part 3
 Conditions, restrictions and limitations
 
 [Date] [Signature of Minister]
-
-Construction (Government Projects)
-
-2009-29
