@@ -8,7 +8,7 @@ Rules for satisfying requirements as to structural stability of certain walls
 
 PART I: APPLICATION, INTERPRETATION AND RULE FOR MEASUREMENT
 
-1. Application
+1.Application
 
 (1) Subject to the conditions specified in paragraph (2) in respect of the building and in paragraph (3) in respect of the wall, the provisions of this schedule shall apply to–
 
@@ -28,11 +28,7 @@ being, in each case, a wall of a type more particularly described in Part III of
 
 (ii) allowance is made for the height above ground of the building if it is situated on or near a cliff or escarpment;
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 (b) that the imposed load on any floor, ceiling or roof of the building, determined in accordance with the provisions of rule D2, does not exceed–
+(b) that the imposed load on any floor, ceiling or roof of the building, determined in accordance with the provisions of rule D2, does not exceed–
 
 (i) 2.0 kN/m2 distributed or 1.8 kN concentrated on any floor above the ground storey; or
 
@@ -56,12 +52,6 @@ Subsidiary 2017/117 (b) that the imposed load on any floor, ceiling or roof of t
 
 (i) 70 m2 if the building, or sub-division, is wholly bounded by such walls; or
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
-
 (ii) 30 m2 if the building or sub-division, is bounded by such walls on all but one of its sides.
 
 (3) The conditions in respect of the wall to which reference is made in paragraph (1) are–
@@ -82,15 +72,11 @@ Subsidiary 2017/117
 
 (h) that the wall does not transmit a combined dead load and imposed load exceeding 70 kN/m at its base.
 
-2. Interpretation
+2.Interpretation
 
 (1) In this schedule unless the context otherwise requires–
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 BASE in relation to a wall means the underside of that part of the wall which immediately rests upon the footings or foundations or other structure by which the wall is carried;
+BASE in relation to a wall means the underside of that part of the wall which immediately rests upon the footings or foundations or other structure by which the wall is carried;
 
 BUTTRESSING WALL includes a return wall;
 
@@ -114,35 +100,19 @@ WIDTH in relation to a building or wing of a building means at any level the lea
 
 (2) Notwithstanding the provisions of rule A4(6)(b)(iv), if a wall or other assembly is to be constructed of bricks or blocks which do not comply with a British Standard but have modular dimensions derived from BS 4011:1966 and a size limit prescribed in this schedule applies to a dimension of that wall or assembly which would be determined by one of the dimensions of a brick or block, that dimension may deviate from the prescribed size limit by an amount not exceeding the deviation from work size permitted by a British Standard which relates to bricks or blocks, as the case may be, of the same material.
 
-(3) For the purposes of this schedule, FLOOR LATERAL SUPPORT and ROOF LATERAL SUPPORT mean support afforded to a wall so as to
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 restrict movement of that wall in either direction at right angles to its length by a floor or roof as the case may be, which–
+(3) For the purposes of this schedule, FLOOR LATERAL SUPPORT and ROOF LATERAL SUPPORT mean support afforded to a wall so as to restrict movement of that wall in either direction at right angles to its length by a floor or roof as the case may be, which–
 
 (a) is adequate as a frame or diaphragm to transfer the lateral forces to walls, buttressing walls, piers or chimneys which comply with the relevant rules of this schedule; and
 
 (b) holds or restrains the supported wall by connections which are specified in the Table to this rule or by other means which are capable of transmitting the lateral forces.
 
-Table to Rule 2: Specification of connections Description of floor Description of roof Specification of connections between floor or roof and supported wall Circumstances to which reference is made in column (3) (1) (2) (3) (4) 1. Concrete floor 1. Concrete roof 1. Irrespective of the direction of span of the floor or roof, a bearing onto the supported wall of not less than 90 mm– (a) throughout the length of the wall; or (b) if the circumstances described in column (4) are relevant throughout the length of each, portion of the wall which is situated on either side of the opening The circumstances to which reference is made in column (3) are as follow– (a) part of the supported wall is adjacent to an opening in a floor or roof for a stairway or other purpose, (b) the opening extends for a distance not exceeding 3 m measured parallel to the wall; and (c) there is no other interruption of the lateral support 2. Concrete or timber floor 2. Concrete or timber roof 2. Mild steel anchors which have a minimum cross- section of 30 mm x 5 mm and are provided so as to anchor the floor or roof to the supported wall–
+Table to Rule 2: Specification of connections Description of floor Description of roof Specification of connections between floor or roof and supported wall Circumstances to which reference is made in column (3) (1) (2) (3) (4)
 
-Public Health BUILDING RULES 2017
+1. Concrete floor 1. Concrete roof 1. Irrespective of the direction of span of the floor or roof, a bearing onto the supported wall of not less than 90 mm– (a) throughout the length of the wall; or (b) if the circumstances described in column (4) are relevant throughout the length of each, portion of the wall which is situated on either side of the opening The circumstances to which reference is made in column (3) are as follow– (a) part of the supported wall is adjacent to an opening in a floor or roof for a stairway or other purpose, (b) the opening extends for a distance not exceeding 3 m measured parallel to the wall; and (c) there is no other interruption of the lateral support 2. Concrete or timber floor 2. Concrete or timber roof 2. Mild steel anchors which have a minimum cross-section of 30 mm x 5 mm and are provided so as to anchor the floor or roof to the supported wall– (a) at intervals of not more than 2 m; or (b) if the circumstances described in column (4) are relevant, at such intervals on either side of the opening as will result in the provision of as many anchors as would be provided if there were no opening
 
-1950-07
+3 Floor which– (a) forms part of a house having not more than two storeys; and (b) has timber members spanning 3. Roof which– (a) has a pitch of 15o or more; (b) is tiled or slated; (c)is of a type known by local experience to be resistant to 3. Bearing by each timber member of not less than 90 mm (if bearing is directly on the supported wall) or 75 mm (if bearing is on a timber wall-plate)– The circumstances to which reference is made in column (3) are as follows– (a) part of the supported wall is adjacent to an so as to penetrate into the supported wall at intervals of not more than 1.2 m damage by wind gusts; and (d) has main timber members spanning onto the supported wall at intervals of not more than 1.2 m (a) throughout the length of the wall; or (b) if the circumstances described in column (4) are relevant, throughout the length of each portion of the wall which is situated on either side of the opening
 
-Subsidiary 2017/117 (a) at intervals of not more than 2 m; or (b) if the circumstances described in column (4) are relevant, at such intervals on either side of the opening as will result in the provision of as many anchors as would be provided if there were no opening
-
-3 Floor which– (a) forms part of a house having not more than two storeys; and (b) has timber members spanning so as to penetrate into the supported wall at intervals of not more than 1.2 m 3. Roof which– (a) has a pitch of 15o or more; (b) is tiled or slated; (c)is of a type known by local experience to be resistant to damage by wind gusts; and (d) has main timber members spanning onto the supported wall at intervals of not more than 1.2 m 3. Bearing by each timber member of not less than 90 mm (if bearing is directly on the supported wall) or 75 mm (if bearing is on a timber wall-plate)– (a) throughout the length of the wall; or (b) if the circumstances described in column (4) are relevant, throughout the length of each portion of the wall which is situated on either side of the opening
-
-The circumstances to which reference is made in column (3) are as follows– (a) part of the supported wall is adjacent to an opening in a floor or roof for a stairway or other purpose; (b) the opening extends for a distance not exceeding 3 m measured parallel to the wall; and (c) there is no other interruption of the lateral support 4. Concrete or timber floor 4. Concrete or timber roof 4. Continuous contact or intermittent contact (that is to say, contact at intervals of not more than 2 m) between each side of the supported wall and a floor or roof, such contact
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 being provided on each side– (a) either– (i) throughout the length of the wall; or (ii) if the circumstance s described in column (4) are relevant, throughout the length of each portion of the wall which is situated on either side of the opening; and (b) at or ahout the same level and (if intermittent contact is provided on both sides of the wall) at or about the same positions on plan
+opening in a floor or roof for a stairway or other purpose; (b) the opening extends for a distance not exceeding 3 m measured parallel to the wall; and (c) there is no other interruption of the lateral support 4. Concrete or timber floor 4. Concrete or timber roof 4. Continuous contact or intermittent contact (that is to say, contact at intervals of not more than 2 m) between each side of the supported wall and a floor or roof, such contact being provided on each side– (a) either– (i) throughout the length of the wall; or (ii) if the circumstances described in column (4) are relevant, throughout the length of each portion of the wall which is situated on either side of the opening; and (b) at or ahout the same level and (if intermittent contact is provided on both sides of the wall) at or about the same positions on plan
 
 3. Rule for the measurement of the height of a storey and the height and length of a wall
 
@@ -155,12 +125,6 @@ Subsidiary 2017/117 being provided on each side– (a) either– (i) throughout 
 (b) if there is no such floor and the storey does not comprise a gable, the level of the roof lateral support; or
 
 (c) if there is no such floor and the storey comprises a gable–
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
 
 (i) the level midway between the base of the gable and the top of the roof lateral support along the line of the roof slope; or
 
@@ -178,7 +142,7 @@ Subsidiary 2017/117
 
 PART II: DESIGN AND CONSTRUCTION OF WALLS TO WHICH SCHEDULE 7 APPLIES
 
-4. Provision of buttressing walls, piers and chimneys
+4.Provision of buttressing walls, piers and chimneys
 
 (1) Subject to rule 14(1)(d), any wall to which this schedule applies shall be bonded or otherwise securely tied at each end to a buttressing wall, pier or chimney which–
 
@@ -187,12 +151,6 @@ PART II: DESIGN AND CONSTRUCTION OF WALLS TO WHICH SCHEDULE 7 APPLIES
 (b) is constructed of materials having not less resistance to crushing than that required fur the materials of which the supported wall is constructed and is solidly put together with mortar; and
 
 (c) notwithstanding paragraphs (4) and (5), is of such a size as will ensure the stability of the supported wall,
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
 
 (2) If buttressing walls, piers or chimneys complying with the provisions of this rule are bonded or otherwise securely tied to any wall to which this schedule applied intermediately between those provided at the ends of that wall in accordance with paragraph (1)–
 
@@ -220,12 +178,6 @@ Subsidiary 2017/117
 
 (ii) 75 mm if it forms part of a house and the supported wall does not as a whole exceed 6 m in height and 10 m in length; or
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
-
 (iii) 90 mm in any other case.
 
 (4) Any such pier may project on one or both sides of the supported wall and shall–
@@ -244,11 +196,11 @@ Subsidiary 2017/117
 
 (b) an overall thickness of not less than twice the required thickness of the supported wall.
 
-5. Loading
+5.Loading
 
 Any load carried by a wall to which this schedule applies shall be properly distributed.
 
-6. Openings and recesses
+6.Openings and recesses
 
 (1) Adequate means of supporting the superstructure shall be provided over every opening and recess in any wall to which this schedule applies.
 
@@ -256,17 +208,13 @@ Any load carried by a wall to which this schedule applies shall be properly dist
 
 (3) Without prejudice to the requirements of paragraph (2), in any wall to which this schedule applies–
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 (a) at each side of every opening or recess there shall be provided a length of wall not less in extent (measured parallel to the length of the wall) than one sixth of the width of the opening or recess;
+(a) at each side of every opening or recess there shall be provided a length of wall not less in extent (measured parallel to the length of the wall) than one sixth of the width of the opening or recess;
 
 (b) any part of the wall between two openings or recesses shall be not less in length than one sixth of the combined width of both openings or recesses; and
 
 (c) the aggregate width of all openings and recesses formed at any level shall not exceed two thirds of the length of the wall at that level.
 
-7. Chases
+7.Chases
 
 (1) The number, size or position of chases in any wall to which this schedule applies shall not be such as to impair the stability of the wall or any part of the wall.
 
@@ -276,21 +224,15 @@ Subsidiary 2017/117 (a) at each side of every opening or recess there shall be p
 
 (b) no horizontal chase shall be formed in any such wall to a greater depth than one sixth of the thickness of the wall or, if the wall is a cavity wall, of that leaf of the wall in which the chase is formed.
 
-8. Overhanging
+8.Overhanging
 
 The extent to which any part of a wall to which this schedule applies overhangs a part below it shall not be such as to impair the stability of the wall or any part of the wall.
 
-9. Bricks and blocks
+9.Bricks and blocks
 
 (1) Bricks or blocks used in any wall to which this schedule applies (other than a wall constructed of materials to which reference is made in rule 11(3)(b)) shall–
 
 (a) be composed of–
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
 
 (i) burnt clay, siliceous sand and lime, crushed siliceous rock and lime, or concrete (including aerated concrete or concrete made with lightweight aggregate); or
 
@@ -312,15 +254,9 @@ Subsidiary 2017/117
 
 Mortar used in any wall to which this schedule applies shall–
 
-(a) cement-lime mortar composed of Portland cement (either ordinary, rapid-hardening or blast furnace), calcium lime (either non-hydraulic or semi-hydraulic) and fine aggregate in the proportion (measured by volume of the materials when dry) of one part of cement, one part of lime and not more than six parts of fine aggregate; or
+(a) cement-lime mortar composed of Portland cement (either ordinary, rapid- hardening or blast furnace), calcium lime (either non-hydraulic or semi-hydraulic) and fine aggregate in the proportion (measured by volume of the materials when dry) of one part of cement, one part of lime and not more than six parts of fine aggregate; or
 
 (b) any other type of mortar of equivalent strength or greater strength if appropriate.
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
 
 PART III: THICKNESS OF WALLS TO WHICH SCHEDULE 7 APPLIES
 
@@ -350,13 +286,9 @@ PART III: THICKNESS OF WALLS TO WHICH SCHEDULE 7 APPLIES
 
 (c) irrespective of the materials of which it is constructed, shall in any part, he not less than the thickness of any other part of the wall which that part supports.
 
-Public Health BUILDING RULES 2017
+Table to Rule 11: Minimum thickness of certain external walls, compartment walls and separating walls Height of wall length of wall Minimum thickness of wall (1) (2) (3)
 
-1950-07
-
-Subsidiary 2017/117
-
-Table to Rule 11: Minimum thickness of certain external walls, compartment walls and separating walls Height of wall length of wall Minimum thickness of wall (1) (2) (3) Not exceeding 3.5 m Not exceeding 12 m 190 mm for the whole of its height Exceeding 3.5 m but not exceeding 9 m Not exceeding 9 m 190 mm for the whole of its height
+Not exceeding 3.5 m Not exceeding 12 m 190 mm for the whole of its height Exceeding 3.5 m but not exceeding 9 m Not exceeding 9 m 190 mm for the whole of its height
 
 Exceeding 9 m but not exceeding 12 m 290 mm from the base for the height of one storey, and 190 mm for the rest of its height Exceeding 9 m but not exceeding 12 m Not exceeding 9 m 290 mm from the base for the height of one storey, and 190 mm for the rest of its height
 
@@ -376,12 +308,6 @@ Exceeding 9 m but not exceeding 12 m 290 mm from the base for the height of two 
 
 (ii) 75 mm in any other case; and
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
-
 (d) if the height of courses does not permit the spacing of cavity ties in accordance with sub-paragraph (b) or (c), the spacing is varied but the number of ties per unit area is maintained.
 
 (2) The sum of the thickness of the two leaves of any such wall and 10 mm shall not be less than the thickness which would he required by rule 11 for a solid wall of the same height and length,
@@ -396,7 +322,7 @@ Subsidiary 2017/117
 
 (2) The thickness of any such wall shall comply with the following provisions–
 
-(a) if the wall is situated otherwise than as described in sub- paragraph (b), the sum of the thickness of that wall and 5 mm shall not he less than half the thickness which would he required by rule 11 for an external wall, compartment wall or separating wall of the same height and length; or
+(a) if the wall is situated otherwise than as described in sub-paragraph (b), the sum of the thickness of that wall and 5 mm shall not he less than half the thickness which would he required by rule 11 for an external wall, compartment wall or separating wall of the same height and length; or
 
 (b) if the wall is situated in the lowest storey of a building having three storeys and carries load from the floors of both upper storeys, the thickness of that wall shall not he less than the thickness required by sub-paragraph (a) or 140 mm whichever is the greater.
 
@@ -407,12 +333,6 @@ Subsidiary 2017/117
 (a) forms part of–
 
 (i) a building having one storey other than a residential building if the width of that building (measured in the direction of the span of the roof) does not exceed 9 m and the height of its walls does not exceed 3 m; or
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
 
 (ii) an annexe (which expression includes a porch, verandah, loggia, conservatory, greenhouse, garage, tool shed, fuel store, watercloset, lavatory, wash-house or outbuilding) if such annexe does not exceed 3 m in height and forms part of or is attached to a residential building, whether or not it opens directly into that building;
 
@@ -437,9 +357,3 @@ The thickness of any parapet to a wall to which this schedule applies shall not 
 (b) if the parapet is of solid construction, the thickness of the wall on which it is carried or 190 mm whichever is the less; or
 
 (c) if the parapet is of cavity construction, the thickness of the wall on which it is carried or the least thickness required by rule 12 whichever is the less.
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117

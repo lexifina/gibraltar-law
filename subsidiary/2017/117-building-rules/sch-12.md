@@ -22,12 +22,6 @@ in each case the average mass of the wall (calculated over any portion of the wa
 
 3. A wall having a cavity not less than 75 mm wide constructed of two leaves each consisting of lightweight concrete with plaster not less than 12.5 mm thick on both faces of the wall and having any wall ties of the butterfly wire type, the average mass of the wall (calculated over any portion of the wall measuring 1 metre square and including the mass of the plaster) being not less than 250 kg/m2
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
-
 Part II: Floors providing resistance to the transmission of airborne and impact sound
 
 Rules G4(2) and G5(2) Specification Construction of floor (1) (2) 1. A floor consisting of–
@@ -48,10 +42,4 @@ Rule G5(2)
 
 Specification Construction of floor (1) (2)
 
-1 A floor consisting of a solid concrete slab having an average mass (calculated over any portion of the floor measuring 1 metre square and including the mass of any screed or ceiling plaster directly bonded to the slab but excluding the mass of any floating floor or suspended ceiling) of not less than 365
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 kg/m2 and having any type of floor finish.
+1 A floor consisting of a solid concrete slab having an average mass (calculated over any portion of the floor measuring 1 metre square and including the mass of any screed or ceiling plaster directly bonded to the slab but excluding the mass of any floating floor or suspended ceiling) of not less than 365 kg/m2 and having any type of floor finish.

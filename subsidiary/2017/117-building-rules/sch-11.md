@@ -19,9 +19,3 @@ F1 Reasonable provision shall be made for the conservation of fuel and power in 
 (iii) are commissioned by testing and adjusting as necessary to ensure they use no more fuel and power than is reasonable in the circumstances; and
 
 (c) providing to the owner sufficient information about the building, the fixed building services and their maintenance requirements so that the building can be operated in such a manner as to use no more fuel and power than is reasonable in the circumstances.
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117

@@ -2,7 +2,7 @@ Schedule 5
 
 Table 2: Materials to which the provisions of section 53 of the Public Health Act 1936 apply If used as the weather-resisting part of a roof
 
-1. Any of the following materials without exception–
+1.Any of the following materials without exception–
 
 (a) canvas or cloth
 
@@ -10,15 +10,11 @@ Table 2: Materials to which the provisions of section 53 of the Public Health Ac
 
 (c) fibrous plaster
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 (d) plaster or rendering on wood laths or metal lathing
+(d) plaster or rendering on wood laths or metal lathing
 
 (e) plasterboard
 
-(f) plywood
+(f)  plywood
 
 (g)  straw slabs
 
@@ -28,11 +24,11 @@ Subsidiary 2017/117 (d) plaster or rendering on wood laths or metal lathing
 
 (k) wood wool building slabs.
 
-2. Any asbestos-cement sheets or slates other than sheets or slates complying with BS 690: Part 2 :1971, BS 690: Part 3: 1973 or BS 690: Part 4:1974.
+2.Any asbestos-cement sheets or slates other than sheets or slates complying with BS 690: Part 2 :1971, BS 690: Part 3: 1973 or BS 690: Part 4:1974.
 
-3. Any felt other than felt used in a roof covering of a type and construction complying with the recommendations of CP 144: Part 3:1970.
+3.Any felt other than felt used in a roof covering of a type and construction complying with the recommendations of CP 144: Part 3:1970.
 
-4. Any sheet steel other than–
+4.Any sheet steel other than–
 
 (a) galvanized sheet steel complying with class 1A of BS 2989: 1975 or Type 200 of BS 3083:1959; or
 
@@ -60,11 +56,7 @@ Gurjun, Burma Niangon
 
 Gurjun, Indian Oak, European
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 Idigbo Opepe
+Idigbo Opepe
 
 Iroko Sapele
 
@@ -87,9 +79,3 @@ Whitewood or European spruce
 Table 5: Preservative treatments for timber Type of preservative Method of application (1) (2) 1. Coal tar oil to BS 144:1973 In accordance with BS 913: 1973 2. Coal tar oil to BS3051: 1972 (a) In accordance withBS9l3 1973; or (b) in the case of redwood (European) or Scots pine, steeping for not less than one hour 3. Copper/chrome/arsenic composition to BS 4072: 1974 In accordance with BS 4072: 1974 4. Copper naphthenate Type 1 to BS 5056: 1974 (a) Vacuum impregnation; or (b) in the case of redwood (European) or Scots pine, steeping for not less than one hour 5. Pentachlorophenol: a solution containing not less than 5% in a suitable organic solvent
 
 6. Tri-butyl-tin-oxide: a solution containing not less than 1.0% in a suitable organic solvent
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117

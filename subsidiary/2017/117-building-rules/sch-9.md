@@ -24,7 +24,7 @@ Supporting structure Designation Material Construction
 
 (iii) composite steel and asbestos; (iii) fibre insulating board;
 
-(iv) asbestos-cement; or (iv) compressed straw slab; or
+(iv) asbestos- cement; or (iv) compressed straw slab; or
 
 (v) PVC coated steel (v) wood wool slab
 
@@ -32,13 +32,9 @@ Corrugated sheets of– 2. Double skin without interlayer or with inter layer of
 
 (ii) aluminium;
 
-(iii) composite steel (i) resin-bonded glass
+(iii) composite steel and asbestos; (i) resin-bonded glass fibre;
 
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117 and asbestos; fibre; (iv) asbestos-cement; or (ii) bitumen-bonded glass fibre;
+(iv) asbestos- cement; or (ii) bitumen-bonded glass fibre;
 
 (v) PVC coated steel (iii) mineral wool slab or blanket;
 
@@ -66,15 +62,9 @@ Part III: Pitched or fiat roofs covered with fully supported material Covering m
 
 (v) 9.5 mm plywood
 
-3. Concrete or clay pot slab (cast in situ or precast); or non- combustible deck of steel, aluminium or asbestos-cement (with or without insulation) AA
+3. Concrete or clay pot slab (cast in situ or precast); or non-combustible deck of steel, aluminium or asbestos-cement (with or without insulation) AA
 
 * Note: Lead sheet supported by timber joists and plain edged boarding shall be deemed to be of designation BA.
-
-Public Health BUILDING RULES 2017
-
-1950-07
-
-Subsidiary 2017/117
 
 Part IV: Roof covered with bitumen felt. Part IV(A): Flat roof covered with bitumem felt A flat roof comprising a covering of bitumen felt shall (irrespective of the felt specification) be deemed to be of designation AA if the felt is laid on a deck constructed of any of the materials prescribed in the Table in Part IV(B) and has a surface finish of (a) bitumen bedded stone chippings covering the whole surface to a depth of not less than 12.5 mm, (b) bitumen bedded tiles of a non-combustible material, (c) sand and cement screed or (d) macadam
 
