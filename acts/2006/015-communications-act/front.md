@@ -12,7 +12,7 @@ Assent 12.5.2006
 
 Amending enactments Relevant current provisions Commencement date Act.   2006-44 s. 62(1)(a) 1.10.2006 LN.   2011/070 ss. 2, 4(1A), 18(3)(aa), (cc) & (c) & (3A), 19(2)(a)(i), (ii) & (iii), (b)(iii), (c)(iv), (vii) & (viii), (3) & (4), 20(5), 22(1), (2), (3), (4) & (6), 23(3), (3)(a) & (b) & (4), 24(3)(b) & (bb), 24A, 34A, 34B, 35(11), 38(4) & (4A), 40(9), (10), (11) & (12), 49(5) & (10), 50(2) & (3), 52, 59, 59A, 59B, 61(10), (11) & (12), 62(4), 91(1)(a)-(d), (7) & (12), 92(a) & (b), 96(5A), (5B) & (5C)
 
-26.5.2011 2016/099 ss. 10, 10A, 10B, 10C, 10D, 11(1) & 12 30.4.2016
+26.5.2011 2016/099 ss. 10, 10A, 10B, 10C, 10D, 11(1) & 12 30.4.2016 Act. 2018-19 s. 53(5) 26.9.2019
 
 Transposing: Directive 2002/19/EC, Directive 2002/20/EC Directive 2002/21/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2002/77/EC Directive 2009/140/EC
 
