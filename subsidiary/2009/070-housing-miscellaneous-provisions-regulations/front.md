@@ -1,16 +1,14 @@
-Housing HOUSING (MISCELLANEOUS PROVISIONS) REGULATIONS  2009
+Subsidiary Legislation made under s.76.
 
-2007-36
+Housing (Miscellaneous Provisions) Regulations 2009
 
-Subsidiary 2009/070 Subsidiary Legislation made under s. 76.
-
-HOUSING (MISCELLANEOUS PROVISIONS) REGULATIONS  2009
-
-(LN. 2009/070)
+LN.2009/070
 
 Commencement 26.11.2009
 
-______________________
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2018-19 Sch. 2 26.9.2019
 
 ARRANGEMENT OF REGULATIONS
 
@@ -38,18 +36,8 @@ Forms
 
 9. Forms.
 
-Housing HOUSING (MISCELLANEOUS PROVISIONS) REGULATIONS  2009
-
-2007-36
-
-Subsidiary 2009/070
-
 SCHEDULE 1 Decontrol of dwelling
 
 SCHEDULE 2 Forms
 
-Housing HOUSING (MISCELLANEOUS PROVISIONS) REGULATIONS  2009
-
-2007-36
-
-Subsidiary 2009/070 In exercise of the power conferred upon him by section 76 of the Housing Act 2007, the Minister has made the following Regulations
+In exercise of the power conferred upon him by section 76 of the Housing Act 2007, the Minister has made the following Regulations
