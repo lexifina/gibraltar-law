@@ -12,7 +12,7 @@ Assent 24.2.2014
 
 Amending enactments Relevant current provisions Commencement date
 
-Act 2018-14 s. 16(1)(d) 16.8.2018 2019-32 ss. 13(1), (1A), 14(1), (3) 15.8.2019
+Act 2018-14 s. 16(1)(d) 16.8.2018 2019-32 ss. 13(1), (1A), 14(1), (3) 15.8.2019 2018-19 ss. 2, 16(1)(a)(v), 24, 25 26.9.2019
 
 ____________________________
 
@@ -38,7 +38,7 @@ PART III TREES NOT SUBJECT TO PART II
 
 PART IV EXCEPTIONS, ETC.
 
-16. Exceptions. 17. Replacement of trees. 18. Appeals. 19. Right to enter any land. 20. Electronic communications. 21. Power to make Regulations. 22. Amendment of Schedule. 23. Governor’s constitutional responsibilities. 24. Amendment of the Town Planning Act 1999. 25. Transitional provision.
+16. Exceptions. 17. Replacement of trees. 18. Appeals. 19. Right to enter any land. 20. Electronic communications. 21. Power to make Regulations. 22. Amendment of Schedule. 23. Governor’s constitutional responsibilities. 24. Amendment of the Town Planning Act 2018. 25. Transitional provision.
 
 SCHEDULE
 
