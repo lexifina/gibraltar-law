@@ -26,11 +26,11 @@ Requests for information and assistance from LED supervisory authorities.
 
 (a) take all appropriate measures required to reply to the request without undue delay and, in any event, before the end of the period of 1 month beginning with receipt of the request; and
 
+(b) inform the LED supervisory authority of the results or, as the case may be, of the progress of the measures taken in order to respond to the request.
+
 Data Protection
 
 2004-01
-
-(b) inform the LED supervisory authority of the results or, as the case may be, of the progress of the measures taken in order to respond to the request.
 
 (3)  The Commissioner must not refuse to comply with the request unless-
 
@@ -56,15 +56,15 @@ LED supervisory authority.
 
 5.  In this Part of this Schedule, “LED supervisory authority” means a supervisory authority for the purposes of Article 41 of the Law Enforcement Directive in a Member State or the United Kingdom.
 
-Data Protection
-
-2004-01
-
 PART 2
 
 DATA PROTECTION CONVENTION
 
 Co-operation between the Commissioner and foreign designated authorities.
+
+Data Protection
+
+2004-01
 
 6.(1)  The Commissioner must, at the request of a foreign designated authority-
 
@@ -77,10 +77,6 @@ Co-operation between the Commissioner and foreign designated authorities.
 (a) to provide the Commissioner with information referred to in Article 13(3) of the Data Protection Convention; or
 
 (b) to take appropriate measures to provide such information.
-
-Data Protection
-
-2004-01
 
 Assisting persons resident outside Gibraltar with requests under Article 14 of the Convention.
 
@@ -96,7 +92,13 @@ Assisting Gibraltar residents with requests under Article 8 of the Convention.
 
 (b) submitted through the Commissioner under Article 14(2) of the Convention.
 
-(2)  If the Commissioner is satisfied that the request contains all necessary particulars referred to in Article 14(3) of the Data Protection Convention, the Commissioner must send the request to the foreign designated authority in the specified country or territory.
+(2)  If the Commissioner is satisfied that the request contains all necessary particulars referred to in Article 14(3) of the Data Protection Convention,
+
+Data Protection
+
+2004-01
+
+the Commissioner must send the request to the foreign designated authority in the specified country or territory.
 
 (3)  Otherwise, the Commissioner must, where practicable, notify the person making the request of the reasons why the Commissioner is not required to assist.
 
@@ -105,10 +107,6 @@ Restrictions on use of information.
 9.  Where the Commissioner receives information from a foreign designated authority as a result of-
 
 (a) a request made by the Commissioner under paragraph 6(2); or
-
-Data Protection
-
-2004-01
 
 (b) a request received by the Commissioner under paragraph 6(1) or 7,
 

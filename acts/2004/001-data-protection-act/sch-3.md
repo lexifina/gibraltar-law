@@ -30,13 +30,13 @@ PART 2
 
 HEALTH DATA
 
-Data Protection
-
-2004-01
-
 Definitions.
 
 2.(1)  In this Part of this Schedule-
+
+Data Protection
+
+2004-01
 
 “the appropriate health professional”, in relation to a question as to whether the serious harm test is met with respect to data concerning health, means-
 
@@ -44,7 +44,7 @@ Definitions.
 
 (b) where there is more than one such health professional, the health professional who is the most suitable to provide an opinion on the question; or
 
-(c) a health professional who has the necessary experience and qualifications to provide an opinion on the question, where there is no health professional available falling within paragraph (a) or (b).
+(c) a health professional who has the necessary experience and qualifications to provide an opinion on the question, where there is no health professional available falling within subsubparagraphs (a) or (b).
 
 (2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to data concerning health if the application of Article 15 of the GDPR to the data would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
 
@@ -60,13 +60,13 @@ Exemption from the listed GDPR provisions: data processed by a court.
 
 Exemption from the listed GDPR provisions: data subject’s expectations and wishes.
 
-Data Protection
-
-2004-01
-
 4.(1)  This paragraph applies where a request for data concerning health is made in exercise of a power conferred by an enactment or rule of law and-
 
 (a) the data subject is an individual aged under 18 and the person making the request has parental responsibility for the data subject; or
+
+Data Protection
+
+2004-01
 
 (b) the data subject is incapable of managing his or her own affairs and the person making the request has been appointed by a court to  manage those affairs.
 
@@ -86,10 +86,6 @@ Exemption from Article 15 of the GDPR: serious harm.
 
 (2)  A controller who is not a health professional may not rely on subparagraph (1) to withhold data concerning health unless the controller has obtained an opinion from the person who appears to the controller to be the appropriate health professional to the effect that the serious harm test is met with respect to the data.
 
-Data Protection
-
-2004-01
-
 (3)  An opinion does not count for the purposes of subparagraph (2) if-
 
 (a) it was obtained before the beginning of the relevant period; or
@@ -99,6 +95,10 @@ Data Protection
 (4)  In this paragraph, “the relevant period” means the period of 6 months ending with the day on which the opinion would be relied on.
 
 Restriction of Article 15 of the GDPR: prior opinion of appropriate health professional
+
+Data Protection
+
+2004-01
 
 6.(1)  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not permit the disclosure of data concerning health by a controller who is not a health professional unless the controller has obtained an opinion from the person who appears to the controller to be the appropriate health professional to the effect that the serious harm test is not met with respect to the data.
 
@@ -116,10 +116,6 @@ PART 3
 
 SOCIAL WORK DATA
 
-Data Protection
-
-2004-01
-
 Definitions.
 
 7.(1)  In this Part of this Schedule-
@@ -133,6 +129,10 @@ Definitions.
 (b) is not education data or data concerning health.
 
 (2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to social work data if the application of Article 15 of the GDPR to the data would be likely to prejudice carrying out social work, because it would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
+
+Data Protection
+
+2004-01
 
 8.(1)  This Part applies to personal data processed for any of the following descriptions-
 
@@ -148,13 +148,7 @@ Definitions.
 
 (i) receive suitable education whether by attendance at school or otherwise,
 
-(ii) receive efficient full-time education suitable to their age, ability and aptitude and to any special
-
-Data Protection
-
-2004-01
-
-educational needs they may have, either by regular attendance at school or otherwise;
+(ii) receive efficient full-time education suitable to their age, ability and aptitude and to any special educational needs they may have, either by regular attendance at school or otherwise;
 
 (f) by a public authority or a voluntary organization designated for the purposes of prevention of cruelty of children;
 
@@ -162,13 +156,17 @@ educational needs they may have, either by regular attendance at school or other
 
 (h) data processed by a government department-
 
-(i) which was obtained, or consists of information which was obtained, from an authority or body mentioned in any of paragraphs (a) to (g), and
+(i) which was obtained, or consists of information which was obtained, from an authority or body mentioned in any of subsubparagraphs (a) to (g), and
 
 (ii) which fell within any of those paragraphs while processed by that authority or body;
 
 (i) data processed by a children’s guardian appointed for the purposes of court proceedings.
 
 (j) data processed by a court officer for family proceedings or proceedings involving children.
+
+Data Protection
+
+2004-01
 
 Exemption from the listed GDPR provisions: data processed by a court.
 
@@ -181,10 +179,6 @@ Exemption from the listed GDPR provisions: data processed by a court.
 (c) in accordance with any of those rules, the data may be withheld by the court in whole or in part from the data subject.
 
 Exemption from the listed GDPR provisions: data subject’s expectations and wishes.
-
-Data Protection
-
-2004-01
 
 10.(1)  This paragraph applies where a request for social work data is made in exercise of a power conferred by an enactment or rule of law and-
 
@@ -202,6 +196,10 @@ Data Protection
 
 (3)  The exemptions under subparagraph (2)(a) and (b) do not apply if the data subject has expressly indicated that he or she no longer has the expectation mentioned there.
 
+Data Protection
+
+2004-01
+
 Exemption from Article 15 of the GDPR: serious harm.
 
 11.  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to social work data to the extent that the serious harm test is met with respect to the data.
@@ -212,10 +210,6 @@ EDUCATION DATA
 
 Educational records.
 
-Data Protection
-
-2004-01
-
 12.  In this Part of this Schedule “educational record” means a record to which paragraph 13 applies.
 
 13.(1)  This paragraph applies to a record of information which-
@@ -224,7 +218,7 @@ Data Protection
 
 (b) relates to an individual who is or has been a pupil at the school; and
 
-(c) originated from, or was supplied by or on behalf of, any of the  persons specified in subparagraph (3).
+(c) originated from, or was supplied by or on behalf of, any of the persons specified in subparagraph (3).
 
 (2)  But this paragraph does not apply to information which is processed by a teacher solely for the teacher’s own use.
 
@@ -244,15 +238,15 @@ Other definitions.
 
 (a) constitutes an educational record; but
 
+Data Protection
+
+2004-01
+
 (b) is not data concerning health;
 
 (2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to education data if the application of Article 15 of the GDPR to the data would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
 
 Exemption from the listed GDPR provisions: data processed by a court.
-
-Data Protection
-
-2004-01
 
 15.(1)  The listed GDPR provisions do not apply to education data if-
 
@@ -278,16 +272,16 @@ Exemption from Article 15 of the GDPR: child abuse data.
 
 (b) the data subject is incapable of managing his or her own affairs and the person making the request has been appointed by a court to manage those affairs.
 
-(2)  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to child abuse data to the extent that the application of that provision would not be in the best interests of the data subject.
+(2)  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to child abuse
+
+Data Protection
+
+2004-01
+
+data to the extent that the application of that provision would not be in the best interests of the data subject.
 
 (3)  “Child abuse data” is personal data consisting of information as to whether the data subject is or has been the subject of, or may be at risk of, child abuse.
 
-Data Protection
-
-2004-01
-
 (4)  For this purpose, “child abuse” includes physical injury (other than accidental injury) to, and physical and emotional neglect, ill-treatment and sexual abuse of, an individual aged under 18.
 
-Data Protection
-
-2004-01
+____________________________

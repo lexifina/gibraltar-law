@@ -54,7 +54,9 @@ LN. 2006/039 Corrigenda
 
 2014/233 ss. 2, 7(1)(e), 13A, 13B, 13C, 13D, 13E, 13F, 13G, 16(2)(b), 24(5)(b), 25(5), (6), 37(3)(a)(ii)
 
-1.12.2014 Act. 2016-18 s. 5(1)(b) 23.4.2018 LN. 2018/124 ss. 2, 3, 5(1)(a), 6-200, Sch. 1-17 25.5.2018
+1.12.2014 Act. 2016-18 s. 5(1)(b) 23.4.2018 LN. 2018/124 ss. 2, 3, 5(1)(a), 6-200, Sch. 1-17 25.5.2018 2019/208 ss. 2, (c)-(d), 3(5), 5(1)(a), 14(3), 18(5)(a), 19(1), (4), 20(2)(a), 25(1), (3), 39(2), (5), 83(a), 90(3), 91-122, 123(3)-(4), 128(7), 129(5), 123(5A), 132A, 133(2A), 134(4)- (5), 135(1)-(7), 137(1), (6), 139(b), 145(6), 150(4), (7), 153(2)(d), (g)- (i), (5), (8)(a)-(c), (8A), (11), 155(2)(a)-(b), (d)-(e), (9), 156(5), (8), 157(1)(b), (8)(a)-(c), 158(4), 162(3)(d), 163(4), 164(3), 167(1), (2A), (3)-(4), (4A), (5)(c)-(d), (7)(b), 168(3), 169(5), 169A, 170(2), 172(4), 174(4), 175(7), 176(8), 178(2)(c)-(d), 181A, 185(2)(c)-(e), 187(4)(c)-(d), 188(2)-(c), (3)(a)-(d), 191(1)(b)- (c), (2)(c)-(e), (2A)-(2C), (3), (a)- (c), (4A), (5), 191A-191C, 194A, 196(1)(a)(i), 197(2)(a), 198(7), 200(1), (4)(d), Sch. 1-6, 8-11, 13, 15, 17
+
+24.10.2019
 
 Transposing: Directive 95/46/EC Council Decision 2000/365/EC Regulation (EU) 2016/679 Directive (EU) 2016/680
 
@@ -64,59 +66,361 @@ Data Protection
 
 ARRANGEMENT OF SECTIONS
 
-Section
-
-Part I General
+Section Part I General
 
 1. Title and Commencement. 2. Definitions. 3. Subject matter and Application of Act. 4. Electronic communication and Service of Notices. 5. Acting for another.
 
-Part II General Rules on the Lawfulness of the Processing of Personal Data
+Part II General processing
 
-6. Principles relating to Data Quality and Security. 7. Criteria for Making Data Processing Legitimate. 8. Sensitive Personal Data. 9. Application of this Act in relation to Defence and National  Security. 10. Information to be given to the Data Subject. 11. Security of Processing. 12. Confidentiality of Processing. 13. Freedom of Journalistic, Artistic and Literary Expression.
+Chapter 1 Scope and definitions
 
-PART IIA
+6. Processing to which this Part applies. 7. Definitions of Part II.
 
-Additional General Rules on the Processing of Personal Data Under the Schengen Agreement
+Chapter 2 The GDPR Meaning of certain terms used in the GDPR
 
-13A. Additional provisions for the processing of personal data under the Schengen Agreement. 13B. Designated users of the personal data communicated under Schengen Agreement. 13C. Additional duties with respect to accuracy and improper communications. 13D. Additional duties in certain circumstances. 13E. Communication of personal data under the Schengen Agreement - police co-operation. 13F. Liaison officers. 13G. Disapplication of Act in certain cases.
+8. Meaning of “controller”. 9. Meaning of “public authority” and “public body”.
 
-Part III Data Subject’s Rights
+Lawfulness of processing
 
-14. Access.
+10. Lawfulness of processing: public interest etc. 11. Child’s consent in relation to information society services.
 
-Data Protection
+Special categories of personal data
 
-2004-01
+12. Special categories of personal data and criminal convictions etc data. 13. Special categories of personal data etc: supplementary.
 
-15. Rectification etc. of Data. 16. Data Subject’s Right to Object. 17. Direct Marketing. 18. Decisions based solely on automatic processing of data. 19. Exemptions from prohibitions on processing and Data Subjects’ Rights. 20. Power to make additional Exemptions and Restrictions: Data Quality, Rights of data subjects, publicising of processing operations. Part IV Supervisory Authority
+Rights of the data subject
 
-21. Supervisory Authority. 22. Data Protection Register. 23. Application for Registration. 24. Obligation to Register.
-
-Part V Powers of Supervisory Authority
-
-25. Investigations, Mediation and Compensation. 26. Enforcement Notices. 27. Information Notices. 28. Information and Codes of Practice. 29. Authorised Officers.
-
-Part VI Transfer of Personal Data to Third Countries
-
-30. Transfer of Personal Data. 31. Prohibition of data transfers.
-
-Part VII Judicial Remedies, Liability and Sanctions
-
-32. Appeals. 33. Offences. 34. Proceedings. 35. Penalties.
-
-Part VIII Personal Data Protection Officials and Exemptions from Registration
-
-36. Personal Data Protection Officials and Exemptions from Registration.
+14. Right to protection of personal data. 15. Limits on fees that may be charged by controllers. 16. Obligations of credit reference agencies. 17. Automated decision-making authorised by law: safeguards. 18. Data subject access requests.
 
 Data Protection
 
 2004-01
 
-Part IX Regulations, Rules of Court
+Restrictions on data subject's rights
 
-37. Regulations and Rules of Court.
+19. Exemptions etc. 20. Power to make further exemptions etc by regulations.
 
-Schedule 1 Powers of the Gibraltar Data Protection Commissioner.
+Accreditation of certification providers
+
+21. Accreditation of certification providers.
+
+Transfers of personal data to third countries etc
+
+22. Transfers of personal data to third countries etc.
+
+Specific processing situations
+
+23. Processing for archiving, research and statistical purposes: safeguards.
+
+Minor definition
+
+24. Meaning of “court”.
+
+Chapter 3 Other General Processing Scope
+
+25. Processing to which this Chapter applies.
+
+Application of the GDPR
+
+26. Application of the GDPR to processing to which this Chapter applies. 27. Power to make provision in consequence of regulations related to the GDPR.
+
+Exemptions etc
+
+28. Security of Gibraltar and defence exemption. 29. Security of Gibraltar: certificate. 30. Security of Gibraltar and defence: modifications to Articles 9 and 32 of the applied GDPR.
+
+Part IIA Additional General Rules on the Processing of Personal Data Under the Schengen Agreement
+
+Data Protection
+
+2004-01
+
+31. Additional provisions for the processing of personal data under the Schengen Agreement. 32. Designated users of the personal data communicated under Schengen Agreement. 33. Additional duties with respect to accuracy and improper communications. 34. Additional duties in certain circumstances. 35. Communication of personal data under the Schengen Agreement - police co-operation. 36. Liaison officers. 37. Disapplication of Act in certain cases.
+
+Part III Law Enforcement Processing
+
+Chapter 1 Scope And Definitions Scope
+
+38. Processing to which this Part applies.
+
+Definitions
+
+39. Meaning of “competent authority”. 40. “The law enforcement purposes”. 41. Meaning of “controller” and “processor”. 42. Other definitions.
+
+Chapter 2 Principles
+
+43. Overview and general duty of controller. 44. The first data protection principle. 45. The second data protection principle. 46. The third data protection principle. 47. The fourth data protection principle. 48. The fifth data protection principle. 49. The sixth data protection principle. 50. Safeguards: archiving. 51. Safeguards: sensitive processing.
+
+Chapter 3 Rights Of The Data Subject Overview and scope
+
+52. Overview and scope.
+
+Data Protection
+
+2004-01
+
+Information: controller's general duties
+
+53. Information: controller’s general duties.
+
+Data subject's right of access
+
+54. Right of access by the data subject.
+
+Data subject's rights to rectification or erasure etc
+
+55. Right to rectification. 56. Right to erasure or restriction of processing. 57. Rights under section 55 or 56: supplementary.
+
+Automated individual decision-making
+
+58. Right not to be subject to automated decision-making. 59. Automated decision-making authorised by law: safeguards.
+
+Supplementary
+
+60. Exercise of rights through the Commissioner. 61. Form of provision of information etc. 62. Manifestly unfounded or excessive requests by the data subject. 63. Meaning of “applicable time period”.
+
+Chapter 4 Controller And Processor Overview and scope
+
+64. Overview and scope.
+
+General obligations
+
+65. General obligations of the controller. 66. Data protection by design and default. 67. Joint controllers. 68. Processors. 69. Processing under the authority of the controller or processor. 70. Records of processing activities. 71. Logging. 72. Co-operation with the Commissioner. 73. Data protection impact assessment. 74. Prior consultation with the Commissioner.
+
+Data Protection
+
+2004-01
+
+Obligations relating to security
+
+75. Security of processing. 76. Notification of a personal data breach to the Commissioner.
+
+Obligations relating to personal data breaches
+
+77. Communication of a personal data breach to the data subject.
+
+Data protection officers
+
+78. Designation of a data protection officer. 79. Position of data protection officer. 80. Tasks of data protection officer.
+
+Chapter 5 Transfers Of Personal Data To Third Countries Etc Overview and interpretation
+
+81. Overview and interpretation.
+
+General principles for transfers
+
+82. General principles for transfers of personal data. 83. Transfers on the basis of an adequacy decision. 84. Transfers on the basis of appropriate safeguards. 85. Transfers on the basis of special circumstances.
+
+Transfers to particular recipients
+
+86. Transfers of personal data to persons other than relevant authorities.
+
+Subsequent transfers
+
+87. Subsequent transfers.
+
+Chapter 6 Supplementary
+
+88. Security of Gibraltar: certificates by the Minister. 89. Special processing restrictions. 90. Reporting of infringements.
+
+Part IV 91.-122. Deleted.
+
+Data Protection
+
+2004-01
+
+Part V The Commissioner The Commissioner
+
+123. The Commissioner.
+
+General functions
+
+124. General functions under the GDPR and safeguards. 125. Other general functions. 126. Competence in relation to courts etc.
+
+International role
+
+127. Co-operation and mutual assistance. 128. Inspection of personal data in accordance with international obligations. 129. Further international role.
+
+Codes of practice
+
+130. Data sharing code. 131. Direct marketing code. 132. Age-appropriate design code. 132A. Data protection and journalism code. 133. Publication and review of data-sharing, direct marketing and age- appropriate design codes. 134. Effect of data-sharing, direct marketing and age-appropriate design codes. 135. Other codes of practice.
+
+Consensual audits
+
+136. Consensual audits.
+
+Records of certificates relating to the security of Gibraltar
+
+137. Records of certificates relating to the security of Gibraltar.
+
+Register of data protection officers
+
+138. Register of data protection officers.
+
+Information provided to the Commissioner
+
+139. Disclosure of information to the Commissioner.
+
+Data Protection
+
+2004-01
+
+140. Confidentiality of information. 141. Guidance about privileged communications.
+
+Fees
+
+142. Fees for services. 143. Manifestly unfounded or excessive requests by data subjects etc. 144. Guidance about fees.
+
+Charges
+
+145. Charges payable to the Commissioner by controllers. 146. Regulations under section 145: supplementary.
+
+Reports etc
+
+147. Reporting to Parliament. 148. Publication by the Commissioner. 149. Notices from the Commissioner.
+
+Part VI Enforcement Information notices
+
+150. Information notices. 151. Information notices: restrictions. 152. False statements made in response to an information notice. 152A. Information orders.
+
+Assessment notices
+
+153. Assessment notices. 154. Assessment notices: restrictions. 154A. Destroying or falsifying information and documents etc.
+
+Enforcement notices
+
+155. Enforcement notices. 156. Enforcement notices: supplementary. 157. Enforcement notices: rectification and erasure of personal data etc. 158. Enforcement notices: restrictions. 159. Enforcement notices: cancellation and variation.
+
+Powers of entry and inspection
+
+160. Powers of entry and inspection.
+
+Data Protection
+
+2004-01
+
+161. Authorised officers.
+
+Penalties
+
+162. Penalty notices. 163. Penalty notices: restrictions. 164. Maximum amount of penalty. 165. Fixed penalties for non-compliance with charges regulations. 166. Amount of penalties: supplementary.
+
+Guidance
+
+167. Guidance about regulatory action.
+
+Appeals
+
+168. Rights of appeal. 169. Determination of appeals. 169A. Applications in respect of urgent notices.
+
+Complaints
+
+170. Complaints by data subjects. 171. Orders to progress complaints.
+
+Remedies in the court
+
+172. Compliance orders. 173. Compensation for contravention of the GDPR. 174. Compensation for contravention of other data protection legislation.
+
+Offences relating to personal data
+
+175. Unlawful obtaining etc of personal data. 176. Re-identification of de-identified personal data. 177. Re-identification: effectiveness testing conditions. 178. Alteration etc of personal data to prevent disclosure.
+
+The special purposes
+
+179. The special purposes. 180. Provision of assistance in special purposes proceedings. 181. Staying special purposes proceedings. 181A. Guidance about how to seek redress against media organisations.
+
+Jurisdiction of courts
+
+Data Protection
+
+2004-01
+
+182. Jurisdiction.
+
+Definitions
+
+183. Interpretation of Part VI.
+
+Part VII Supplementary And Final Provision Regulations under this Act
+
+184. Regulations, rules of court and consultation.
+
+Changes to the Data Protection Convention
+
+185. Power to reflect changes to the Data Protection Convention.
+
+Rights of the data subject
+
+186. Prohibition of requirement to produce relevant records. 187. Avoidance of certain contractual terms relating to health records. 188. Data subject’s rights and other prohibitions and restrictions.
+
+Representation of data subjects
+
+189. Representation of data subjects with their authority. 190. Representation of data subjects with their authority: collective proceedings.
+
+Framework for Data Processing by Government
+
+191. Duty to review provision for representation of data subjects. 191A. Framework for Data Processing by Government. 191B. Publication and review of the Framework. 191C. Effect of the Framework.
+
+Offences
+
+192. Penalties for offences. 193. Prosecution. 194. Liability of directors etc. 194A. Guidance about criminal procedure and evidence codes of practice.
+
+Court Proceedings
+
+195. Disclosure of information re court proceedings.
+
+Data Protection
+
+2004-01
+
+196. Court proceedings: contempt. 197. Court Procedure Rules.
+
+Territorial application
+
+198. Territorial application of this Act.
+
+General
+
+199. Application to the Crown. 200. Application to Parliament.
+
+SCHEDULE 1 SPECIAL CATEGORIES OF PERSONAL DATA AND CRIMINAL CONVICTIONS ETC DATA
+
+SCHEDULE 2 EXEMPTIONS ETC FROM THE GDPR
+
+SCHEDULE 3 EXEMPTIONS ETC FROM THE GDPR: HEALTH, SOCIAL WORK, EDUCATION AND CHILD ABUSE DATA
+
+SCHEDULE  4 Deleted
+
+SCHEDULE 5 ACCREDITATION OF CERTIFICATION PROVIDERS: REVIEWS AND APPEALS
+
+SCHEDULE 6 THE APPLIED GDPR AND THE APPLIED CHAPTER 2
+
+SCHEDULE 7 COMPETENT AUTHORITIES
+
+SCHEDULE 8 CONDITIONS FOR SENSITIVE PROCESSING UNDER PART III
+
+SCHEDULE 9 Deleted
+
+SCHEDULE 10 Deleted
+
+SCHEDULE 11
+
+Data Protection
+
+2004-01
+
+Deleted
+
+SCHEDULE 12 POWERS OF THE COMMISSIONER
+
+SCHEDULE 13 OTHER GENERAL FUNCTIONS OF THE COMMISSIONER
+
+SCHEDULE 14 CO-OPERATION AND MUTUAL ASSISTANCE
+
+SCHEDULE 15 POWERS OF ENTRY AND INSPECTION
+
+SCHEDULE 16 PENALTIES
+
+SCHEDULE 17 RELEVANT RECORDS
 
 Data Protection
 
@@ -134,23 +438,23 @@ Title and Commencement.
 
 Definitions.
 
-2.(1)  In this Act –
+2.(1)  In this Act–
 
-“the Commission” means the European Commission;
+“blocking” in relation to data means marking the data so that it is not possible to process it for purposes in relation to which it is marked;
 
 “the Commissioner” means the Data Protection Commissioner designated under section 123;
 
 “competent authority” for the purposes of implementing the data protection provisions of the Schengen Agreement in Gibraltar, means the Commissioner;
 
-“controller” and “processor”, in relation to the processing of personal data to which Chapter 2 or 3 of Part II, Part III or Part IV applies, have the same meaning as in that Chapter or Part (see sections 7, 8, 41 and 92, and see also subsection (2)(c));
+“controller” and “processor”, in relation to the processing of personal data to which Chapter 2 or 3 of Part II or Part III applies, have the same meaning as in that Chapter or Part (see sections 7, 8, 41, and see also subsection (2)(c));
 
 “the Data Protection Convention” means the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data which was opened for signature on 28 January 1981, as amended from time to time;
-
-“the data protection legislation” means-
 
 Data Protection
 
 2004-01
+
+“the data protection legislation” means-
 
 (a) the GDPR;
 
@@ -164,11 +468,29 @@ Data Protection
 
 “data subject” means the identified or identifiable living individual to whom personal data relates;
 
+“enactment” includes-
+
+(a) an enactment passed or made after this Act; and
+
+(b) an enactment comprised in subsidiary legislation;
+
 “enforcement notice” means a written notice issued by the Commissioner under section 155 requiring specified actions to be taken;
 
 “filing system” means any structured set of personal data which is accessible according to specific criteria, whether held by automated means or manually and whether centralised, decentralised or dispersed on a functional or geographical basis;
 
 “the GDPR” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation);
+
+“health professional” includes any profession registered in accordance with the Medical and Health Act, 1997;
+
+“health record” means a record which-
+
+(a) consists of data concerning health; and
+
+(b) has been made by or on behalf of a health professional in connection with the diagnosis, care or treatment of the individual to whom the data relates;
+
+Data Protection
+
+2004-01
 
 “The applied GDPR” means the GDPR as applied by Chapter 3 of Part II.
 
@@ -178,11 +500,15 @@ Data Protection
 
 (b) one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of the individual;
 
+“inaccurate” in relation to personal data, means incorrect or misleading as to any matter of fact;
+
 “information notice” means a written notice issued by the Commissioner under section 150 requiring specified information to be provided to him;
 
-Data Protection
+“international obligation of Gibraltar” includes-
 
-2004-01
+(a) an EU obligation; and
+
+(b) an obligation that arises under an international agreement or arrangement to which Gibraltar is a party or which has been extended to Gibraltar;
 
 “the Law Enforcement Directive” means Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA;
 
@@ -191,6 +517,10 @@ Data Protection
 “personal data” means , subject to subsection (2)(c), any information relating to an identified or identifiable living individual;
 
 “processing of personal data” (“processing”) in relation to information, means an operation or set of operations which is performed on information, or on sets of information, such as-
+
+Data Protection
+
+2004-01
 
 (a) collection, recording, organisation, structuring or storage;
 
@@ -204,25 +534,33 @@ Data Protection
 
 (f) restriction, erasure or destruction,
 
-albeit subject to subsection (2)(c) and sections 7(7), 38(2) and 91(3), which make provision about references to processing in the different Parts of this Act.
+albeit subject to subsection (2)(c) and sections 7(7) and 38(2), which make provision about references to processing in the different Parts of this Act.
+
+“publish” means make available to the public or a section of the public (and related expressions) are to be read accordingly;
 
 “Schengen Agreement” means the Convention implementing the Schengen Agreement of 14th June 1985 between the Government of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders, as the same may be amended from time to time, and to the extent that it applies to Gibraltar;
 
 “Schengen State” means a State party to the Schengen Convention.
 
+“social work professional” means a person registered as a social worker and employed in Gibraltar in the capacity of a social worker;
+
+“subsidiary legislation” has the meaning given in the Interpretation and General Clauses Act;
+
+“tribunal” means any tribunal in which legal proceedings may be brought.
+
 (2)  In Parts V to VII, except where otherwise provided-
+
+(a) references to the GDPR are to the GDPR read with Chapter 2 of Part II and include the applied GDPR read with Chapter 3 of Part II;
 
 Data Protection
 
 2004-01
 
-(a) references to the GDPR are to the GDPR read with Chapter 2 of Part II and include the applied GDPR read with Chapter 3 of Part II;
-
 (b) references to Chapter 2 of Part II, or to a provision of that Chapter, include that Chapter or that provision as applied by Chapter 3 of Part II;
 
-(c) references to personal data, and the processing of personal data, are to personal data and processing to which Chapter 2 or 3 of Part II, Part III or Part IV applies;
+(c) references to personal data, and the processing of personal data, are to personal data and processing to which Chapter 2 or 3 of Part II or Part III applies;
 
-(d) references to a controller or processor are to a controller or processor in relation to the processing of personal data to which Chapter 2 or 3 of Part II, Part III or Part IV applies.
+(d) references to a controller or processor are to a controller or processor in relation to the processing of personal data to which Chapter 2 or 3 of Part II or Part III applies.
 
 Subject matter and Application of Act.
 
@@ -234,7 +572,7 @@ Subject matter and Application of Act.
 
 (4)  Part III makes provision about the processing of personal data by competent authorities for law enforcement purposes and implements the Law Enforcement Directive.
 
-(5)  Part IV makes provision about the processing of personal data by the intelligence services.
+(5)  Deleted.
 
 (6)  Part V makes provision about the Commissioner.
 
@@ -244,11 +582,11 @@ Subject matter and Application of Act.
 
 (a) requiring personal data to be processed lawfully and fairly, on the basis of the data subject’s consent or another specified basis;
 
+(b) conferring rights on the data subject to obtain information about the processing of personal data and to require inaccurate personal data to be rectified; and
+
 Data Protection
 
 2004-01
-
-(b) conferring rights on the data subject to obtain information about the processing of personal data and to require inaccurate personal data to be rectified; and
 
 (c) conferring functions on the Commissioner, giving the holder of that office responsibility for monitoring and enforcing their provisions.
 
@@ -268,19 +606,19 @@ Acting for another.
 
 5.(1)  Where a data subject is–
 
-(a) an individual under the age of 13, any action which may be taken by the data subject by virtue of this Act may be taken by his parent or legal guardian;
+(a) an individual under the age of 16, any action which may be taken by the data subject by virtue of this Act may be taken by his parent or legal guardian;
 
-(b) a person who lacks capacity within the meaning of Part 5 of the Mental Health Act any action which may be taken by the data subject by virtue of this Act may be taken by the person who may act on his behalf under the Mental Health Act in relation to the management of his property or affairs.
+(b) a person who lacks capacity within the meaning of Part 5 of the Mental Health Act 2016 any action which may be taken by the data subject by virtue of this Act may be taken by the person who may act on his behalf under the Mental Health Act 2016 in relation to the management of his property or affairs.
 
 (2)  The words “any action” in this section include the giving of consent.
-
-Data Protection
-
-2004-01
 
 PART II
 
 General processing
+
+Data Protection
+
+2004-01
 
 Chapter 1
 
@@ -314,11 +652,11 @@ Definitions of Part II.
 
 (5)  In subsection (4), the reference to a term’s meaning in the applied GDPR is to its meaning in the GDPR read with any provision of Chapter 2 (as applied by Chapter 3) or Chapter 3 which modifies the term’s meaning for the purposes of the applied GDPR.
 
+(6)  Subsection (4) is subject to any provision in Chapter 2 (as applied by Chapter 3) or Chapter 3 which provides expressly for the term to have a different meaning.
+
 Data Protection
 
 2004-01
-
-(6)  Subsection (4) is subject to any provision in Chapter 2 (as applied by Chapter 3) or Chapter 3 which provides expressly for the term to have a different meaning.
 
 (7)  A reference in Chapter 2 or Chapter 3 of this Part to the processing of personal data is to processing to which the Chapter applies.
 
@@ -354,13 +692,13 @@ Meaning of “public authority” and “public body”.
 
 (a) government departments;
 
-Data Protection
-
-2004-01
-
 (b) a body or other person, that carries out functions of public administration;
 
 (c) a body or other person, that exercises functions of a public nature;
+
+Data Protection
+
+2004-01
 
 (d) a body or other person, that provides public services; or
 
@@ -388,13 +726,13 @@ Child’s consent in relation to information society services.
 
 11.  In Article 8(1) of the GDPR (conditions applicable to child’s consent in relation to information society services)-
 
-Data Protection
-
-2004-01
-
 (a) references to “16 years” are to be read as references to “13 years”; and
 
 (b) the reference to “information society services” does not include preventive or counselling services.
+
+Data Protection
+
+2004-01
 
 Special categories of personal data
 
@@ -426,13 +764,13 @@ Special categories of personal data and criminal convictions etc data.
 
 (i) by adding or varying conditions or safeguards, and
 
-Data Protection
-
-2004-01
-
 (ii) by omitting conditions or safeguards added by regulations under this section; and
 
 (b) consequentially amend this section.
+
+Data Protection
+
+2004-01
 
 (7)  In regards to the processing of criminal convictions, a complete register of criminal convictions may be kept only by the Royal Gibraltar Police.
 
@@ -458,13 +796,13 @@ Right to protection of personal data.
 
 (2)  Personal data must be processed fairly for specified purposes as set out in the GDPR, and in accordance with the provisions, exceptions and derogations, of this Act.
 
+(3)  The Commissioner shall be responsible for ensuring compliance with the rights contained in the GDPR.
+
+Limits on fees that may be charged by controllers.
+
 Data Protection
 
 2004-01
-
-(3)  The Commissioner shall be responsible for ensuring compliance with the rights contained the GDPR.
-
-Limits on fees that may be charged by controllers.
 
 15.(1)  The Minister may, after consulting the Commissioner, specify, by way of regulations, limits on the fees that a controller may charge in reliance on-
 
@@ -488,15 +826,15 @@ Automated decision-making authorised by law: safeguards.
 
 17.(1)  This section makes provision for the purposes of Article 22(2)(b) of the GDPR (exception from Article 22(1) of the GDPR for significant decisions based solely on automated processing that are authorised by law and subject to safeguards for the data subject’s rights, freedoms and legitimate interests).
 
-Data Protection
-
-2004-01
-
 (2)  A decision is a “significant decision” for the purposes of this section if, in relation to a data subject, it-
 
 (a) produces legal effects concerning the data subject; or
 
 (b) similarly significantly affects the data subject.
+
+Data Protection
+
+2004-01
 
 (3)  A decision is a “qualifying significant decision” for the purposes of this section if-
 
@@ -526,13 +864,15 @@ Data Protection
 
 (i) the steps taken to comply with the request, and
 
+(ii) the outcome of complying with the request.
+
+(6)  In connection with this section, a controller has the powers and obligations under Article 12 of the GDPR (transparency, procedure for extending time for acting on request, fees, manifestly unfounded or
+
 Data Protection
 
 2004-01
 
-(ii) the outcome of complying with the request.
-
-(6)  In connection with this section, a controller has the powers and obligations under Article 12 of the GDPR (transparency, procedure for extending time for acting on request, fees, manifestly unfounded or excessive requests etc) that apply in connection with Article 22 of the GDPR.
+excessive requests etc) that apply in connection with Article 22 of the GDPR.
 
 (7)  The Minister may by regulations make such further provision as the Minister considers appropriate to provide suitable measures to safeguard a data subject’s rights, freedoms and legitimate interests in connection with the taking of qualifying significant decisions based solely on automated processing.
 
@@ -552,15 +892,15 @@ Data subject access requests.
 
 (3)   Where a data controller has previously complied with a subject access request, the data controller is not obliged to comply with a subsequent identical or similar request by the same individual unless, in the opinion of the data controller, a reasonable interval has elapsed between compliance with the previous request and the making of the current request.
 
+(4)  In determining whether a reasonable interval of time has elapsed under subsection (3), regard shall be had to the nature of the data, the purpose for which the data are processed and the frequency with which the data are altered.
+
 Data Protection
 
 2004-01
 
-(4)  In determining whether a reasonable interval of time has elapsed under subsection (3), regard shall be had to the nature of the data, the purpose for which the data are processed and the frequency with which the data are altered.
-
 (5)  A person shall not, in connection with-
 
-(a) the recruitment of another person as an employer;
+(a) the recruitment of another person as an employee;
 
 (b) the continued employment of another person; or
 
@@ -574,7 +914,7 @@ Restrictions on data subject's rights
 
 Exemptions etc.
 
-19.(1)  Schedules 2, 3 and 4 make provision for exemptions from, and restrictions and adaptations of the application of, rules of the GDPR.
+19.(1)  Schedules 2 and 3 make provision for exemptions from, and restrictions and adaptations of the application of, rules of the GDPR.
 
 (2)  In Schedule 2-
 
@@ -586,17 +926,17 @@ Exemptions etc.
 
 (d) Part 4 makes provision restricting the application of rules contained in Articles 13 to 15 of the GDPR in specified circumstances, as allowed for by Article 23(1) of the GDPR;
 
+(e) Part 5 makes provision containing exemptions or derogations from Chapters II, III, IV, V and VII of the GDPR for reasons relating to freedom of expression, as allowed for by Article 85(2) of the GDPR;
+
 Data Protection
 
 2004-01
-
-(e) Part 5 makes provision containing exemptions or derogations from Chapters II, III, IV, V and VII of the GDPR for reasons relating to freedom of expression, as allowed for by Article 85(2) of the GDPR;
 
 (f) Part 6 makes provision containing derogations from rights contained in Articles 15, 16, 18, 19, 20 and 21 of the GDPR for scientific or historical research purposes, statistical purposes and archiving purposes, as allowed for by Article 89(2) and (3) of the GDPR.
 
 (3)  Schedule 3 makes provision restricting the application of rules contained in Articles 13 to 21 of the GDPR to health, social work, education and child abuse data, as allowed for by Article 23(1) of the GDPR.
 
-(4)  Schedule 4 makes provision restricting the application of rules contained in Articles 13 to 21 of the GDPR to information the disclosure of which is prohibited or restricted by an enactment, as allowed for by Article 23(1) of the GDPR.
+(4)  Deleted.
 
 (5)  In connection with the safeguarding of the security of Gibraltar and with defence, see Chapter 3 of this Part and the exemption in section 28.
 
@@ -612,15 +952,15 @@ Power to make further exemptions etc by regulations.
 
 (2)  Regulations under this section may-
 
-Data Protection
-
-2004-01
-
-(a) amend Schedules 2 to 4-
+(a) amend Schedules 2 and 3-
 
 (i) by adding or varying provisions, and
 
 (ii) by omitting provisions added by regulations under this section; and
+
+Data Protection
+
+2004-01
 
 (b) consequentially amend section 15.
 
@@ -652,13 +992,13 @@ Accreditation of certification providers.
 
 (6)  A national accreditation body may charge a reasonable fee in connection with, or incidental to, the carrying out of the body’s functions under this section, Schedule 5 and Article 43 of the GDPR.
 
-Data Protection
-
-2004-01
-
 (7)  A national accreditation body must provide the Minister with such information relating to its functions under this section, Schedule 5 and Article 43 of the GDPR as the Minister may reasonably require.
 
 (8)  In this section “certification provider” means a person who issues certification for the purposes of Article 42 of the GDPR.
+
+Data Protection
+
+2004-01
 
 (9)  The Minister may appoint, by notice in the Gazette, a national accreditation body to undertake the responsibilities of accreditation of certification providers under this Act.
 
@@ -686,15 +1026,17 @@ Processing for archiving, research and statistical purposes: safeguards.
 
 (a) processing of personal data that is necessary for archiving purposes in the public interest;
 
-Data Protection
-
-2004-01
-
 (b) processing of personal data that is necessary for scientific or historical research purposes; and
 
 (c) processing of personal data that is necessary for statistical purposes.
 
-(2)  Such processing does not satisfy the requirement in Article 89(1) of the GDPR for the processing to be subject to appropriate safeguards for the rights and freedoms of the data subject if it is likely to cause substantial damage or substantial distress to a data subject.
+(2)  Such processing does not satisfy the requirement in Article 89(1) of the GDPR for the processing to be subject to appropriate safeguards for the
+
+Data Protection
+
+2004-01
+
+rights and freedoms of the data subject if it is likely to cause substantial damage or substantial distress to a data subject.
 
 (3)  Such processing does not satisfy that requirement if the processing is carried out for the purposes of measures or decisions with respect to a particular data subject, unless the purposes for which the processing is necessary include the purposes of approved medical research.
 
@@ -720,10 +1062,6 @@ Meaning of “court”.
 
 CHAPTER 3
 
-Data Protection
-
-2004-01
-
 OTHER GENERAL PROCESSING
 
 Scope
@@ -732,11 +1070,15 @@ Processing to which this Chapter applies.
 
 25.(1)  This Chapter applies to the automated or structured processing of personal data in the course of-
 
+Data Protection
+
+2004-01
+
 (a) an activity which is outside the scope of European Union law; or
 
 (b) an activity which falls within the scope of Article 2(2)(b) of the GDPR (common foreign and security policy activities),
 
-provided that the processing is not processing to which Part III (law enforcement processing) or Part IV (intelligence services processing) applies.
+provided that the processing is not processing to which Part III (law enforcement processing) applies.
 
 (2)  This Chapter does not apply to the processing of personal data by an individual in the course of a purely personal or household activity.
 
@@ -746,19 +1088,13 @@ provided that the processing is not processing to which Part III (law enforcemen
 
 (a) the processing of personal data wholly or partly by automated means; and
 
-(b) the processing otherwise than by automated means of personal data which forms part of a filing system or is intended to form part of a filing system;
-
-“the manual unstructured processing of personal data” means the processing of personal data which is not the automated or structured processing of personal data.
+(b) the processing otherwise than by automated means of personal data which forms part of a filing system or is intended to form part of a filing system.
 
 Application of the GDPR
 
 Application of the GDPR to processing to which this Chapter applies.
 
 26.(1)  The GDPR applies to the processing of personal data to which this Chapter applies but as if its Articles were part of an Act extending to Gibraltar.
-
-Data Protection
-
-2004-01
 
 (2)  Chapter 2 of this Part applies for the purposes of the applied GDPR as it applies for the purposes of the GDPR.
 
@@ -769,6 +1105,10 @@ Data Protection
 (a) the GDPR as it applies by virtue of subsection (1) (see Part 1);
 
 (b) Chapter 2 of this Part as it applies by virtue of subsection (2) (see Part 2).
+
+Data Protection
+
+2004-01
 
 (5)  A question as to the meaning or effect of a provision of the applied GDPR, or the applied Chapter 2, is to be determined consistently with the interpretation of the equivalent provision of the GDPR, or Chapter 2 of this Part, as it applies otherwise than by virtue of this Chapter, except so far as Schedule 6 requires a different interpretation.
 
@@ -792,10 +1132,6 @@ Exemptions etc
 
 Security of Gibraltar and defence exemption.
 
-Data Protection
-
-2004-01
-
 28.(1)  A provision of the applied GDPR or this Act mentioned in subsection (2) does not apply to personal data to which this Chapter applies if exemption from the provision is required for-
 
 (a) the purpose of safeguarding the security of Gibraltar; or
@@ -805,6 +1141,10 @@ Data Protection
 (2)  The provisions are-
 
 (a) Chapter II of the applied GDPR (principles) except for-
+
+Data Protection
+
+2004-01
 
 (i) Article 5(1)(a) (lawful, fair and transparent processing), so far as it requires processing of personal data to be lawful;
 
@@ -830,10 +1170,6 @@ Data Protection
 
 (f) Chapter VIII of the applied GDPR (remedies, liabilities and penalties) except for-
 
-Data Protection
-
-2004-01
-
 (i) Article 83 (general conditions for imposing administrative fines),
 
 (ii) Article 84 (penalties);
@@ -843,6 +1179,10 @@ Data Protection
 (i) in section 124 (general functions of the Commissioner), subsections (3) and (8),
 
 (ii) in section 124, subsection (9), so far as it relates to Article 58(2)(i) of the applied GDPR,
+
+Data Protection
+
+2004-01
 
 (iii) section 128 (inspection in accordance with international obligations);
 
@@ -866,19 +1206,17 @@ Security of Gibraltar: certificate.
 
 (3)  Any person directly affected by a certificate under subsection (1) may appeal to the Magistrate’s Court against the certificate.
 
-(4)  If, on an appeal under subsection (3), the Magistrate’s Court finds that, applying the principles applied by a court on an application for judicial
-
-Data Protection
-
-2004-01
-
-review, the Minister did not have reasonable grounds for issuing a certificate, the Magistrate’s Court may-
+(4)  If, on an appeal under subsection (3), the Magistrate’s Court finds that, applying the principles applied by a court on an application for judicial review, the Minister did not have reasonable grounds for issuing a certificate, the Magistrate’s Court may-
 
 (a) allow the appeal; and
 
 (b) quash the certificate.
 
 (5)  Where, in any proceedings under or by virtue of the applied GDPR or this Act, it is claimed by a controller that a certificate under subsection (1) which identifies the personal data to which it applies by means of a general description applies to any personal data, another party to the proceedings may appeal to the Magistrate’s Court on the ground that the certificate does not apply to the personal data in question.
+
+Data Protection
+
+2004-01
 
 (6)  Subject to any determination under subsection (7), the certificate is to be conclusively presumed so to apply.
 
@@ -902,10 +1240,6 @@ Security of Gibraltar and defence: modifications to Articles 9 and 32 of the app
 
 (b) with appropriate safeguards for the rights and freedoms of data subjects.
 
-Data Protection
-
-2004-01
-
 (2)  Article 32 of the applied GDPR (security of processing) does not apply to a controller or processor to the extent that the controller or the processor, as the case may be, is processing personal data to which this Chapter applies for-
 
 (a) the purpose of safeguarding the security of Gibraltar; or
@@ -913,6 +1247,10 @@ Data Protection
 (b) defence purposes.
 
 (3)  Where Article 32 of the applied GDPR does not apply, the controller or the processor must implement security measures appropriate to the risks arising from the processing of the personal data.
+
+Data Protection
+
+2004-01
 
 (4)  For the purposes of subsection (3), where the processing of personal data is carried out wholly or partly by automated means, the controller or the processor must, following an evaluation of the risks, implement measures designed to-
 
@@ -932,15 +1270,17 @@ Additional provisions for the processing of personal data under the Schengen Agr
 
 31.(1) Subject to subsection (2), personal data communicated under the Schengen Agreement shall be used solely for the purposes for which the Schengen Agreement stipulates the personal data may be communicated for, and the transmission or receipt of that data must be recorded both in the source data file and in the data file in which it is entered.
 
-Data Protection
-
-2004-01
-
 (2)  Personal data communicated under the Schengen Agreement may be used for a purpose other than that for which it was communicated where prior authorisation is sought from and approved by the authority which communicated the personal data.
 
 (3)  Where the Competent Authority receives approval from a Schengen State for the use of personal data communicated by it for a purpose other than that referred to in subsection (1), the use of that data shall be subject to the provisions of this Act and any other applicable Gibraltar law.
 
-(4)  Where the competent authority receives a request from a Schengen State for an authorisation to use personal data communicated to it for a purpose other than the purpose for which it originally sent the personal data, the competent authority may only grant such an authorisation in so far as Gibraltar law permits.
+(4)  Where the competent authority receives a request from a Schengen State for an authorisation to use personal data communicated to it for a purpose other than the purpose for which it originally sent the personal data,
+
+Data Protection
+
+2004-01
+
+the competent authority may only grant such an authorisation in so far as Gibraltar law permits.
 
 Designated users of the personal data communicated under Schengen Agreement.
 
@@ -962,15 +1302,15 @@ Additional duties with respect to accuracy and improper communications.
 
 (4) Nothing in this section shall be construed as a derogation from the protections provided elsewhere in this Act.
 
-Data Protection
-
-2004-01
-
 Additional duties in certain circumstances.
 
 34. Where, in cases other than those governed by articles 126(1) and 127(1) of the Schengen Agreement, personal data is communicated to another Schengen State pursuant to the Schengen Agreement, article 126(3), with the exception of subparagraph (e), shall apply, in addition to the following requirements–
 
 (a) a written record shall be kept of the transmission and receipt of personal data (unless such a record is not necessary given the use of the data, in particular if it is not used or is used only very briefly);
+
+Data Protection
+
+2004-01
 
 (b) where the recipient is in Gibraltar he shall ensure, in the use of communicated data, a level of protection at least equal to that laid down in this Act for the use of similar data;
 
@@ -986,10 +1326,6 @@ Communication of personal data under the Schengen Agreement - police co-operatio
 
 (b) the data may only be communicated to police forces and police authorities;
 
-Data Protection
-
-2004-01
-
 (c) the data may not be communicated to authorities other than those specified in paragraph (b) without the prior authorisation of the Schengen State which sent the personal data; and
 
 (d) when requested by the Schengen State which sent the personal data, the authority which received the data shall provide information regarding the use made of the personal data and the results obtained.
@@ -998,11 +1334,15 @@ Liaison officers.
 
 36.(1) Subject to subsection (2), the provisions of Title VI of the Schengen Agreement on the Protection of Personal Data shall not apply to a liaison officer as described in article 47 of the Schengen Agreement.
 
+Data Protection
+
+2004-01
+
 (2)  The provisions of Title VI of the Schengen Agreement on the Protection of Personal Data shall apply to a liaison officer, as described in article 47 of the Schengen Agreement, where the liaison officer communicates such personal data to the Schengen State which seconded the officer to Gibraltar.
 
 Disapplication of Act in certain cases.
 
-37.  This Act shall not apply to data communicated pursuant to Chapters 2 to 5 of Title III of the Schengen Agreement.
+37.  This Act shall not apply to data communicated pursuant to Chapters 2 to 5 of Title III of the Schengen Agreement.”.
 
 Part III
 
@@ -1022,10 +1362,6 @@ Processing to which this Part applies.
 
 (b) the processing by a competent authority otherwise than by automated means of personal data which forms part of a filing system or is intended to form part of a filing system.
 
-Data Protection
-
-2004-01
-
 (2)  Any reference in this Part to the processing of personal data is to processing to which this Part applies.
 
 Definitions
@@ -1038,7 +1374,11 @@ Meaning of “competent authority”.
 
 (b) any other person if and to the extent that the person has statutory functions for any of the law enforcement purposes.
 
-(2)  An intelligence service is not a competent authority within the meaning of this Part.
+(2)  Deleted.
+
+Data Protection
+
+2004-01
 
 (3)  The Minister may by regulations amend Schedule 7-
 
@@ -1050,8 +1390,6 @@ Meaning of “competent authority”.
 
 (5)  In this section-
 
-“intelligence service” means a body falling under the defintion of intelligence service at Part IV;
-
 “statutory function” means a function under or by virtue of an enactment.
 
 “The law enforcement purposes”.
@@ -1059,10 +1397,6 @@ Meaning of “competent authority”.
 40.  For the purposes of this Part, “the law enforcement purposes” are the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.
 
 Meaning of “controller” and “processor”.
-
-Data Protection
-
-2004-01
 
 41.(1)  In this Part, “controller” means the competent authority which, alone or jointly with others-
 
@@ -1078,6 +1412,10 @@ Data Protection
 
 the competent authority on which the obligation to process the data is imposed by the enactment (or, if different, one of the enactments) is the controller.
 
+Data Protection
+
+2004-01
+
 (3)  In this Part, “processor” means any person who processes personal data on behalf of the controller (other than a person who is an employee of the controller).
 
 Other definitions.
@@ -1090,13 +1428,7 @@ Other definitions.
 
 (4)  “Profiling” means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to an individual, in particular to analyse or predict aspects concerning that individual’s performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements.
 
-(5)  “Recipient”, in relation to any personal data, means any person to whom the data is disclosed, whether a third party or not, but it does not
-
-Data Protection
-
-2004-01
-
-include a public authority to whom disclosure is or may be made in the framework of a particular inquiry in accordance with the law.
+(5)  “Recipient”, in relation to any personal data, means any person to whom the data is disclosed, whether a third party or not, but it does not include a public authority to whom disclosure is or may be made in the framework of a particular inquiry in accordance with the law.
 
 (6)  “Restriction of processing” means the marking of stored personal data with the aim of limiting its processing for the future.
 
@@ -1114,6 +1446,10 @@ Overview and general duty of controller.
 
 (a) section 44(1) sets out the first data protection principle (requirement that processing be lawful and fair);
 
+Data Protection
+
+2004-01
+
 (b) section 45(1) sets out the second data protection principle (requirement that purposes of processing be specified, explicit and legitimate);
 
 (c) section 46 sets out the third data protection principle (requirement that personal data be adequate, relevant and not excessive);
@@ -1128,10 +1464,6 @@ Overview and general duty of controller.
 
 (a) each of sections 44, 45, 47 and 48 makes provision to supplement the principle to which it relates; and
 
-Data Protection
-
-2004-01
-
 (b) sections 50 and 51 make provision about the safeguards that apply in relation to certain types of processing.
 
 (3)  The controller in relation to personal data is responsible for, and must be able to demonstrate, compliance with this Chapter.
@@ -1145,6 +1477,10 @@ The first data protection principle.
 (a) the data subject has given consent to the processing for that purpose; or
 
 (b) the processing is necessary for the performance of a task carried out for that purpose by a competent authority.
+
+Data Protection
+
+2004-01
 
 (3)  In addition, where the processing for any of the law enforcement purposes is sensitive processing, the processing is permitted only in the following two cases-
 
@@ -1162,10 +1498,6 @@ The first data protection principle.
 
 (iii) at the time when the processing is carried out, the controller has an appropriate policy document in place as per section 51.
 
-Data Protection
-
-2004-01
-
 (4)  The Minister may by regulations amend Schedule 8 by-
 
 (a) adding conditions;
@@ -1181,6 +1513,10 @@ Data Protection
 (c) the processing of data concerning health;
 
 (d) the processing of data concerning an individual’s sex life or sexual orientation.
+
+Data Protection
+
+2004-01
 
 The second data protection principle.
 
@@ -1198,10 +1534,6 @@ The second data protection principle.
 
 (3)  Personal data collected for any of the law enforcement purposes may not be processed for a purpose that is not a law enforcement purpose unless the processing is authorised by law.
 
-Data Protection
-
-2004-01
-
 The third data protection principle.
 
 46.  The third data protection principle is that personal data processed for any of the law enforcement purposes must be adequate, relevant and not excessive in relation to the purpose for which it is processed.
@@ -1213,6 +1545,10 @@ The fourth data protection principle.
 (a) personal data processed for any of the law enforcement purposes must be accurate and, where necessary, kept up to date; and
 
 (b) every reasonable step must be taken to ensure that personal data that is inaccurate, having regard to the law enforcement purpose for which it is processed, is erased or rectified without delay.
+
+Data Protection
+
+2004-01
 
 (2)  In processing personal data for any of the law enforcement purposes, personal data based on facts must, so far as possible, be distinguished from personal data based on personal assessments.
 
@@ -1232,10 +1568,6 @@ The fourth data protection principle.
 
 (a) the quality of personal data must be verified before it is transmitted or made available;
 
-Data Protection
-
-2004-01
-
 (b) in all transmissions of personal data, the necessary information enabling the recipient to assess the degree of accuracy, completeness and reliability of the data and the extent to which it is up to date must be included; and
 
 (c) if, after personal data has been transmitted, it emerges that the data was incorrect or that the transmission was unlawful, the recipient must be notified without delay.
@@ -1245,6 +1577,10 @@ The fifth data protection principle.
 48.(1)  The fifth data protection principle is that personal data processed for any of the law enforcement purposes must be kept for no longer than is necessary for the purpose for which it is processed.
 
 (2)  Appropriate time limits must be established for the periodic review of the need for the continued storage of personal data for any of the law enforcement purposes.
+
+Data Protection
+
+2004-01
 
 The sixth data protection principle.
 
@@ -1264,10 +1600,6 @@ Safeguards: archiving.
 
 (a) it is carried out for the purposes of, or in connection with, measures or decisions with respect to a particular data subject; or
 
-Data Protection
-
-2004-01
-
 (b) it is likely to cause substantial damage or substantial distress to a data subject.
 
 Safeguards: sensitive processing.
@@ -1277,6 +1609,10 @@ Safeguards: sensitive processing.
 (2)  The controller has an appropriate policy document in place in relation to the sensitive processing if the controller has produced a document which-
 
 (a) explains the controller’s procedures for securing compliance with the data protection principles (see section 43(1)) in connection with sensitive processing in reliance on the consent of the data subject or, as the case may be, in reliance on the condition in question; and
+
+Data Protection
+
+2004-01
 
 (b) explains the controller’s policies as regards the retention and erasure of personal data processed in reliance on the consent of the data subject or, as the case may be, in reliance on the condition in question, giving an indication of how long such personal data is likely to be retained.
 
@@ -1292,10 +1628,6 @@ Safeguards: sensitive processing.
 
 (a) whether the sensitive processing is carried out in reliance on the consent of the data subject or, if not, which condition in Schedule 8 is relied on;
 
-Data Protection
-
-2004-01
-
 (b) how the processing satisfies section 44 (lawfulness of processing); and
 
 (c) whether the personal data is retained and erased in accordance with the policies described in subsection (2)(b) and, if it is not, the reasons for not following those policies.
@@ -1309,6 +1641,10 @@ Data Protection
 CHAPTER 3
 
 RIGHTS OF THE DATA SUBJECT
+
+Data Protection
+
+2004-01
 
 Overview and scope
 
@@ -1328,13 +1664,7 @@ Overview and scope.
 
 (2)  This Chapter applies only in relation to the processing of personal data for a law enforcement purpose.
 
-(3)  Sections 53 to 57 do not apply in relation to the processing of relevant personal data in the course of a criminal investigation or criminal
-
-Data Protection
-
-2004-01
-
-proceedings, including proceedings for the purpose of executing a criminal penalty.
+(3)  Sections 53 to 57 do not apply in relation to the processing of relevant personal data in the course of a criminal investigation or criminal proceedings, including proceedings for the purpose of executing a criminal penalty.
 
 (4)  In subsection (3), “relevant personal data” means personal data contained in a judicial decision or in other documents relating to the investigation or proceedings which are created by or on behalf of a court or other judicial authority.
 
@@ -1347,6 +1677,10 @@ Information: controller’s general duties.
 53.(1)  The controller must make available to data subjects the following information, whether by making the information generally available to the public or in any other way-
 
 (a) the identity and the contact details of the controller;
+
+Data Protection
+
+2004-01
 
 (b) where applicable, the contact details of the data protection officer (see sections 78 to 80);
 
@@ -1366,10 +1700,6 @@ Information: controller’s general duties.
 
 (a) information about the legal basis for the processing;
 
-Data Protection
-
-2004-01
-
 (b) information about the period for which the personal data will be stored or, where that is not possible, about the criteria used to determine that period;
 
 (c) where applicable, information about the categories of recipients of the personal data, including recipients in third countries or international organisations;
@@ -1379,6 +1709,10 @@ Data Protection
 (3)  An example of where further information may be necessary as mentioned in subsection (2)(d) is where the personal data being processed was collected without the knowledge of the data subject.
 
 (4)  The controller may restrict, wholly or partly, the provision of information to the data subject under subsection (2) to the extent that and for so long as the restriction is, having regard to the fundamental rights and legitimate interests of the data subject, a necessary and proportionate measure to-
+
+Data Protection
+
+2004-01
 
 (a) avoid obstructing an official or legal inquiry, investigation or procedure;
 
@@ -1398,10 +1732,6 @@ Data Protection
 
 (c) of the data subject’s right to make a request to the Commissioner under section 60;
 
-Data Protection
-
-2004-01
-
 (d) of the data subject’s right to lodge a complaint with the Commissioner; and
 
 (e) of the data subject’s right to apply to a court under section 172.
@@ -1420,6 +1750,10 @@ Right of access by the data subject.
 
 54.(1)  A data subject is entitled to obtain from the controller-
 
+Data Protection
+
+2004-01
+
 (a) confirmation as to whether or not personal data concerning him or her is being processed; and
 
 (b) where that is the case, access to the personal data and the information set out in subsection (2).
@@ -1436,10 +1770,6 @@ Right of access by the data subject.
 
 (e) the existence of the data subject’s rights to request from the controller-
 
-Data Protection
-
-2004-01
-
 (i) rectification of personal data as per section 55, and
 
 (ii) erasure of personal data or the restriction of its processing as per section 56;
@@ -1453,6 +1783,10 @@ Data Protection
 (a) without undue delay; and
 
 (b) in any event, before the end of the applicable time period as defined at section 63.
+
+Data Protection
+
+2004-01
 
 (4)  The controller may restrict, wholly or partly, the rights conferred by subsection (1) to the extent that and for so long as the restriction is, having regard to the fundamental rights and legitimate interests of the data subject, a necessary and proportionate measure to-
 
@@ -1472,10 +1806,6 @@ Data Protection
 
 (b) of the reasons for the restriction;
 
-Data Protection
-
-2004-01
-
 (c) of the data subject’s right to make a request to the Commissioner under section 60;
 
 (d) of the data subject’s right to lodge a complaint with the Commissioner; and
@@ -1491,6 +1821,10 @@ Data Protection
 (b) if requested to do so by the Commissioner, make the record available to the Commissioner.
 
 Data subject's rights to rectification or erasure etc
+
+Data Protection
+
+2004-01
 
 Right to rectification.
 
@@ -1510,10 +1844,6 @@ Right to erasure or restriction of processing.
 
 (b) the controller has a legal obligation to erase the data.
 
-Data Protection
-
-2004-01
-
 (2)  Where the controller would be required to erase personal data under subsection (1) but the personal data must be maintained for the purposes of evidence, the controller must, instead of erasing the personal data, restrict its processing.
 
 (3)  Where a data subject contests the accuracy of personal data, whether in making a request under this section or section 55 or in any other way, but it is not possible to ascertain whether it is accurate or not, the controller must restrict its processing.
@@ -1523,6 +1853,10 @@ Data Protection
 Rights under section 55 or 56: supplementary.
 
 57.(1)  Where a data subject requests the rectification or erasure of personal data or the restriction of its processing, the controller must inform the data subject in writing-
+
+Data Protection
+
+2004-01
 
 (a) whether the request has been granted; or
 
@@ -1542,13 +1876,7 @@ Rights under section 55 or 56: supplementary.
 
 (b) in any event, before the end of the applicable time period as defined in section 63.
 
-(3)  The controller may restrict, wholly or partly, the provision of information to the data subject under subsection (1)(b)(i) to the extent that and for so long as the restriction is, having regard to the fundamental rights
-
-Data Protection
-
-2004-01
-
-and legitimate interests of the data subject, a necessary and proportionate measure to-
+(3)  The controller may restrict, wholly or partly, the provision of information to the data subject under subsection (1)(b)(i) to the extent that and for so long as the restriction is, having regard to the fundamental rights and legitimate interests of the data subject, a necessary and proportionate measure to-
 
 (a) avoid obstructing an official or legal inquiry, investigation or procedure;
 
@@ -1563,6 +1891,10 @@ and legitimate interests of the data subject, a necessary and proportionate meas
 (4)  Where the rights of a data subject under subsection (1) are restricted, wholly or partly, the controller must inform the data subject in writing without undue delay-
 
 (a) that the rights of the data subject have been restricted;
+
+Data Protection
+
+2004-01
 
 (b) of the reasons for the restriction;
 
@@ -1580,10 +1912,6 @@ and legitimate interests of the data subject, a necessary and proportionate meas
 
 (7)  Where the controller rectifies personal data, it must notify the competent authority, if any, from which the inaccurate personal data originated.
 
-Data Protection
-
-2004-01
-
 (8)  In subsection (7), the reference to a competent authority includes, in addition to a competent authority within the meaning of this Part, any person that is a competent authority for the purposes of the Law Enforcement Directive in a Member State or the United Kingdom.
 
 (9)  Where the controller rectifies, erases or restricts the processing of personal data which has been disclosed by the controller-
@@ -1597,6 +1925,10 @@ Data Protection
 Automated individual decision-making
 
 Right not to be subject to automated decision-making.
+
+Data Protection
+
+2004-01
 
 58.(1)  A controller may not take a significant decision based solely on automated processing unless that decision is required or authorised by law.
 
@@ -1618,10 +1950,6 @@ Automated decision-making authorised by law: safeguards.
 
 (a) the controller must, as soon as reasonably practicable, notify the data subject in writing that a decision has been taken based solely on automated processing; and
 
-Data Protection
-
-2004-01
-
 (b) the data subject may, before the end of the period of 1 month beginning with receipt of the notification, request the controller to-
 
 (i) reconsider the decision, or
@@ -1635,6 +1963,10 @@ Data Protection
 (b) comply with the request; and
 
 (c) by notice in writing inform the data subject of-
+
+Data Protection
+
+2004-01
 
 (i) the steps taken to comply with the request, and
 
@@ -1654,10 +1986,6 @@ Exercise of rights through the Commissioner.
 
 (b) restricts under section 54(4) the data subject’s rights under section 54(1) (right of access); or
 
-Data Protection
-
-2004-01
-
 (c) refuses a request by the data subject for rectification under section 55 or for erasure or restriction of processing under section 56.
 
 (2)  The data subject may-
@@ -1669,6 +1997,10 @@ Data Protection
 (3)  The Commissioner must take such steps as appear to the Commissioner to be appropriate to respond to a request under subsection (2) (which may include the exercise of any of the powers conferred by sections 150 and 153).
 
 (4)  After taking those steps, the Commissioner must inform the data subject-
+
+Data Protection
+
+2004-01
 
 (a) where subsection (1)(a) or (b) applies, whether the Commissioner is satisfied that the restriction imposed by the controller was lawful;
 
@@ -1684,10 +2016,6 @@ Form of provision of information etc.
 
 (2)  Subject to subsection (3), the information may be provided in any form, including electronic form.
 
-Data Protection
-
-2004-01
-
 (3)  Where information is provided in response to a request by the data subject under section 54, 55, 56 or 59, the controller must provide the information in the same form as the request where it is practicable to do so.
 
 (4)  Where the controller has reasonable doubts about the identity of an individual making a request under section 54, 55 or 56, the controller may-
@@ -1701,6 +2029,10 @@ Data Protection
 (6)  The controller must facilitate the exercise of the rights of the data subject under sections 54 to 59.
 
 Manifestly unfounded or excessive requests by the data subject.
+
+Data Protection
+
+2004-01
 
 62.(1)  Where a request from a data subject under section 54, 55, 56 or 59 is manifestly unfounded or excessive, the controller may-
 
@@ -1718,10 +2050,6 @@ Manifestly unfounded or excessive requests by the data subject.
 
 (a) require controllers of a description specified in regulations made under subsection (4), to produce and publish guidance about the fees that they charge in reliance on those provisions; and
 
-Data Protection
-
-2004-01
-
 (b) specify what the guidance must include.
 
 Meaning of “applicable time period”.
@@ -1737,6 +2065,10 @@ Meaning of “applicable time period”.
 (b) when the controller receives the information, if any, requested in connection with a request under section 61(4);
 
 (c) when the fee, if any, charged in connection with the request under section 62 is paid.
+
+Data Protection
+
+2004-01
 
 (4)  The power to make regulations under subsection (2) is exercisable by the Minister.
 
@@ -1758,10 +2090,6 @@ Overview and scope.
 
 (c) sets out specific obligations of controllers and processors with respect to personal data breaches (see sections 76 and 77);
 
-Data Protection
-
-2004-01
-
 (d) makes provision for the designation, position and tasks of data protection officers (see sections 78 to 80).
 
 (2)  This Chapter applies only in relation to the processing of personal data for a law enforcement purpose.
@@ -1777,6 +2105,10 @@ Data Protection
 (d) the risks for the rights and freedoms of individuals arising from the processing.
 
 General obligations
+
+Data Protection
+
+2004-01
 
 General obligations of the controller.
 
@@ -1794,10 +2126,6 @@ Data protection by design and default.
 
 (b) to integrate into the processing itself the safeguards necessary for that purpose.
 
-Data Protection
-
-2004-01
-
 (2)  The duty under subsection (1) applies both at the time of the determination of the means of processing the data and at the time of the processing itself.
 
 (3)  Each controller must implement appropriate technical and organisational measures for ensuring that, by default, only personal data which is necessary for each specific purpose of the processing is processed.
@@ -1814,6 +2142,10 @@ Data Protection
 
 (5)  In particular, the measures implemented to comply with the duty under subsection (3) must ensure that, by default, personal data is not made accessible to an indefinite number of people without an individual’s intervention.
 
+Data Protection
+
+2004-01
+
 Joint controllers.
 
 67.(1)  Where two or more competent authorities jointly determine the purposes and means of processing personal data, they are joint controllers for the purposes of this Part.
@@ -1827,10 +2159,6 @@ Processors.
 68.(1)  This section applies to the use by a controller of a processor to carry out processing of personal data on behalf of the controller.
 
 (2)  The controller may use only a processor who provides guarantees to implement appropriate technical and organisational measures that are sufficient to secure that the processing will-
-
-Data Protection
-
-2004-01
 
 (a) meet the requirements of this Part; and
 
@@ -1848,6 +2176,10 @@ Data Protection
 
 (c) the type of personal data and categories of data subjects involved;
 
+Data Protection
+
+2004-01
+
 (d) the obligations and rights of the controller and processor.
 
 (6)  The contract must, in particular, provide that the processor must-
@@ -1864,10 +2196,6 @@ Data Protection
 
 (ii) delete copies of the personal data unless subject to a legal obligation to store the copies;
 
-Data Protection
-
-2004-01
-
 (e) make available to the controller all information necessary to demonstrate compliance with this section; and
 
 (f) comply with the requirements of this section for engaging subprocessors.
@@ -1883,6 +2211,10 @@ Processing under the authority of the controller or processor.
 (a) on instructions from the controller; or
 
 (b) to comply with a legal obligation.
+
+Data Protection
+
+2004-01
 
 Records of processing activities.
 
@@ -1902,10 +2234,6 @@ Records of processing activities.
 
 (f) a description of the categories of-
 
-Data Protection
-
-2004-01
-
 (i) data subject, and
 
 (ii) personal data;
@@ -1924,6 +2252,10 @@ Data Protection
 
 (4)  The processor’s record must contain the following information-
 
+Data Protection
+
+2004-01
+
 (a) the name and contact details of the processor and of any other processors engaged by the processor in accordance with section 68(3);
 
 (b) the name and contact details of the controller on behalf of which the processor is acting;
@@ -1935,10 +2267,6 @@ Data Protection
 (e) where applicable, details of transfers of personal data to a third country or an international organisation where explicitly instructed to do so by the controller, including the identification of that third country or international organisation;
 
 (f) where possible, a general description of the technical and organisational security measures referred to in section 75.
-
-Data Protection
-
-2004-01
 
 (5)  The controller and the processor must make the records kept under this section available to the Commissioner on request.
 
@@ -1962,6 +2290,10 @@ Logging.
 
 (a) the justification for, and date and time of, the consultation; and
 
+Data Protection
+
+2004-01
+
 (b) so far as possible, the identity of the person who consulted the data.
 
 (3)  The logs of disclosure must make it possible to establish-
@@ -1979,10 +2311,6 @@ Logging.
 (a) to verify the lawfulness of processing;
 
 (b) to assist with self-monitoring by the controller or, as the case may be, the processor, including the conduct of internal disciplinary proceedings;
-
-Data Protection
-
-2004-01
 
 (c) to ensure the integrity and security of personal data;
 
@@ -2002,6 +2330,10 @@ Data protection impact assessment.
 
 (3)  A data protection impact assessment must include the following-
 
+Data Protection
+
+2004-01
+
 (a) a general description of the envisaged processing operations;
 
 (b) an assessment of the risks to the rights and freedoms of data subjects;
@@ -2016,10 +2348,6 @@ Prior consultation with the Commissioner.
 
 74.(1)  This section applies where a controller intends to create a filing system and process personal data forming part of it.
 
-Data Protection
-
-2004-01
-
 (2)  The controller must consult the Commissioner prior to the processing if a data protection impact assessment prepared under section 73 indicates that the processing of the data would result in a high risk to the rights and freedoms of individuals, in the absence of measures to mitigate the risk.
 
 (3)  Where the controller is required to consult the Commissioner under subsection (2), the controller must give the Commissioner-
@@ -2031,6 +2359,10 @@ Data Protection
 (4)  Where the Commissioner is of the opinion that the intended processing referred to in subsection (1) would infringe any provision of this Part, the Commissioner must provide written advice to the controller and, where the controller is using a processor, to the processor.
 
 (5)  The written advice must be provided before the end of the period of 6 weeks beginning with receipt of the request for consultation by the controller or the processor.
+
+Data Protection
+
+2004-01
 
 (6)  The Commissioner may extend the period of 6 weeks by a further period of 1 month, taking into account the complexity of the intended processing.
 
@@ -2045,10 +2377,6 @@ Obligations relating to security
 Security of processing.
 
 75.(1)  Each controller and each processor must implement appropriate technical and organisational measures to ensure a level of security appropriate to the risks arising from the processing of personal data.
-
-Data Protection
-
-2004-01
 
 (2)  In the case of automated processing, each controller and each processor must, following an evaluation of the risks, implement measures designed to-
 
@@ -2066,6 +2394,10 @@ Notification of a personal data breach to the Commissioner.
 
 (a) without undue delay; and
 
+Data Protection
+
+2004-01
+
 (b) where feasible, not later than 72 hours after becoming aware of it.
 
 (2)  Subsection (1) does not apply if the personal data breach is unlikely to result in a risk to the rights and freedoms of individuals.
@@ -2079,10 +2411,6 @@ Notification of a personal data breach to the Commissioner.
 (b) the name and contact details of the data protection officer or other contact point from whom more information can be obtained;
 
 (c) a description of the likely consequences of the personal data breach;
-
-Data Protection
-
-2004-01
 
 (d) a description of the measures taken or proposed to be taken by the controller to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.
 
@@ -2098,7 +2426,13 @@ Data Protection
 
 (7)  The information mentioned in subsection (6) must be recorded in such a way as to enable the Commissioner to verify compliance with this section.
 
-(8)  Where a personal data breach involves personal data that has been transmitted by or to a person who is a controller under the law of a Member State or the United Kingdom, the information mentioned in subsection (6) must be communicated to that person without undue delay.
+(8)  Where a personal data breach involves personal data that has been transmitted by or to a person who is a controller under the law of a Member
+
+Data Protection
+
+2004-01
+
+State or the United Kingdom, the information mentioned in subsection (6) must be communicated to that person without undue delay.
 
 (9)  If a processor becomes aware of a personal data breach, in relation to personal data processed by the processor, the processor must notify the controller without undue delay.
 
@@ -2114,10 +2448,6 @@ Communication of a personal data breach to the data subject.
 
 (b) the name and contact details of the data protection officer or other contact point from whom more information can be obtained;
 
-Data Protection
-
-2004-01
-
 (c) a description of the likely consequences of the personal data breach;
 
 (d) a description of the measures taken or proposed to be taken by the controller to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.
@@ -2130,6 +2460,10 @@ Data Protection
 
 (c) it would involve a disproportionate effort.
 
+Data Protection
+
+2004-01
+
 (4)  An example of a case which may fall within subsection (3)(a) is where measures that render personal data unintelligible to any person not authorised to access the data have been applied, such as encryption.
 
 (5)  In a case falling within subsection (3)(c), but not within subsection (3)(a) or (b), the information mentioned in subsection (2) must be made available to the data subject in another equally effective way, for example, by means of a public communication.
@@ -2141,10 +2475,6 @@ Data Protection
 (b) decide that the controller is not required to do so because any of paragraphs (a) to (c) of subsection (3) applies.
 
 (7)  The controller may restrict, wholly or partly, the provision of information to the data subject under subsection (1) to the extent that and for so long as the restriction is, having regard to the fundamental rights and legitimate interests of the data subject, a necessary and proportionate measure to-
-
-Data Protection
-
-2004-01
 
 (a) avoid obstructing an official or legal inquiry, investigation or procedure;
 
@@ -2162,6 +2492,10 @@ Data Protection
 
 Data protection officers
 
+Data Protection
+
+2004-01
+
 Designation of a data protection officer.
 
 78.(1) The controller must designate a data protection officer, unless the controller is a court, or other judicial authority, acting in its judicial capacity.
@@ -2178,10 +2512,6 @@ Designation of a data protection officer.
 
 Position of data protection officer.
 
-Data Protection
-
-2004-01
-
 79.(1)  The controller must ensure that the data protection officer is involved, properly and in a timely manner, in all issues which relate to the protection of personal data.
 
 (2)  The controller must provide the data protection officer with the necessary resources and access to personal data and processing operations to enable the data protection officer to-
@@ -2195,6 +2525,10 @@ Data Protection
 (a) must ensure that the data protection officer does not receive any instructions regarding the performance of the tasks mentioned in section 80;
 
 (b) must ensure that the data protection officer does not perform a task or fulfil a duty other than those mentioned in this Part where such task or duty would result in a conflict of interests;
+
+Data Protection
+
+2004-01
 
 (c) must not dismiss or penalise the data protection officer for performing the tasks mentioned in section 80.
 
@@ -2212,10 +2546,6 @@ Tasks of data protection officer.
 
 (a) informing and advising the controller, any processor engaged by the controller, and any employee of the controller who carries out processing of personal data, of that person’s obligations under this Part;
 
-Data Protection
-
-2004-01
-
 (b) providing advice on the carrying out of a data protection impact assessment under section 73 and monitoring compliance with that section;
 
 (c) co-operating with the Commissioner;
@@ -2229,6 +2559,10 @@ Data Protection
 (2)  In relation to the policies mentioned in subsection (1)(e), the data protection officer’s tasks include-
 
 (a) assigning responsibilities under those policies;
+
+Data Protection
+
+2004-01
 
 (b) raising awareness of those policies;
 
@@ -2250,10 +2584,6 @@ Overview and interpretation.
 
 (a) sections 82 to 85 set out the general conditions that apply;
 
-Data Protection
-
-2004-01
-
 (b) section 86 sets out the special conditions that apply where the intended recipient of personal data is not a relevant authority in a third country or an international organisation;
 
 (c) section 87 makes special provision about subsequent transfers of personal data.
@@ -2270,6 +2600,10 @@ General principles for transfers of personal data.
 
 82.(1)  A controller may not transfer personal data to a third country or to an international organisation unless-
 
+Data Protection
+
+2004-01
+
 (a) the three conditions set out in subsections (2) to (4) are met; and
 
 (b) in a case where the personal data was originally transmitted or otherwise made available to the controller or another competent authority by a Member State, that Member State, or any person based in that Member State which is a competent authority for the purposes of the Law Enforcement Directive, has authorised the transfer in accordance with the law of the Member State.
@@ -2281,10 +2615,6 @@ General principles for transfers of personal data.
 (a) is based on an adequacy decision as per section 83;
 
 (b) if not based on an adequacy decision, is based on there being appropriate safeguards as per section 84; or
-
-Data Protection
-
-2004-01
 
 (c) if not based on an adequacy decision or on there being appropriate safeguards, is based on special circumstances as per section 85.
 
@@ -2302,6 +2632,10 @@ Data Protection
 
 (a) the transfer is necessary for the prevention of an immediate and serious threat either to the public security of a Member State or a third country or to the essential interests of a Member State; and
 
+Data Protection
+
+2004-01
+
 (b) the authorisation cannot be obtained in good time.
 
 (6)  Where a transfer is made without the authorisation mentioned in subsection (1)(b), the authority in the Member State which would have been responsible for deciding whether to authorise the transfer must be informed without delay.
@@ -2316,11 +2650,9 @@ Transfers on the basis of an adequacy decision.
 
 (i) the third country or a territory or one or more specified sectors within that third country, or
 
-Data Protection
+(ii) as the case may be, the international organisation,
 
-2004-01
-
-(ii) as the case may be, the international organisation, ensures an adequate level of protection of personal data; and
+ensures an adequate level of protection of personal data; and
 
 (b) that decision has not been repealed or suspended, or amended in a way that demonstrates that the European Commission no longer considers there to be an adequate level of protection of personal data.
 
@@ -2331,6 +2663,10 @@ Transfers on the basis of appropriate safeguards.
 (a) a legal instrument containing appropriate safeguards for the protection of personal data binds the intended recipient of the data; or
 
 (b) the controller, having assessed all the circumstances surrounding transfers of that type of personal data to the third country or international organisation, concludes that appropriate safeguards exist to protect the data.
+
+Data Protection
+
+2004-01
 
 (2)  The controller must inform the Commissioner about the categories of data transfers that take place in reliance on subsection (1)(b).
 
@@ -2352,10 +2688,6 @@ Transfers on the basis of appropriate safeguards.
 
 Transfers on the basis of special circumstances.
 
-Data Protection
-
-2004-01
-
 85.(1)  A transfer of personal data to a third country or international organisation is based on special circumstances where the transfer is necessary-
 
 (a) to protect the vital interests of the data subject or another person;
@@ -2374,6 +2706,10 @@ Data Protection
 
 (a) the transfer must be documented;
 
+Data Protection
+
+2004-01
+
 (b) the documentation must be provided to the Commissioner on request; and
 
 (c) the documentation must include, in particular-
@@ -2390,10 +2726,6 @@ Data Protection
 
 (a) it is necessary for the purpose of, or in connection with, any legal proceedings, including prospective legal proceedings, relating to any of the law enforcement purposes;
 
-Data Protection
-
-2004-01
-
 (b) it is necessary for the purpose of obtaining legal advice in relation to any of the law enforcement purposes; or
 
 (c) it is otherwise necessary for the purposes of establishing, exercising or defending legal rights in relation to any of the law enforcement purposes.
@@ -2408,6 +2740,10 @@ Transfers of personal data to persons other than relevant authorities.
 
 (b) condition 2 is that the transferring controller has determined that there are no fundamental rights and freedoms of the data subject concerned that override the public interest necessitating the transfer;
 
+Data Protection
+
+2004-01
+
 (c) condition 3 is that the transferring controller considers that the transfer of the personal data to a relevant authority in the third country would be ineffective or inappropriate, for example, where the transfer could not be made in sufficient time to enable its purpose to be fulfilled;
 
 (d) condition 4 is that the transferring controller informs the intended recipient of the specific purpose or purposes for which the personal data may, so far as necessary, be processed.
@@ -2419,10 +2755,6 @@ Transfers of personal data to persons other than relevant authorities.
 (a) document any transfer to a recipient in a third country other than a relevant authority; and
 
 (b) inform the Commissioner about the transfer.
-
-Data Protection
-
-2004-01
 
 (4)  This section does not affect the operation of any international agreement in force between Member States and third countries in the field of judicial cooperation in criminal matters and police co-operation.
 
@@ -2438,6 +2770,10 @@ Subsequent transfers.
 
 (a) the seriousness of the circumstances leading to the request for authorisation;
 
+Data Protection
+
+2004-01
+
 (b) the purpose for which the personal data was originally transferred; and
 
 (c) the standards for the protection of personal data that apply in the third country or international organisation to which the personal data would be transferred.
@@ -2449,10 +2785,6 @@ Subsequent transfers.
 (a) the transfer is necessary for the prevention of an immediate and serious threat either to the public security of a Member State or a third country or to the essential interests of a Member State; and
 
 (b) the authorisation cannot be obtained in good time.
-
-Data Protection
-
-2004-01
 
 (6)  Where a transfer is made without the authorisation mentioned in subsection (4), the authority in the Member State which would have been responsible for deciding whether to authorise the transfer must be informed without delay.
 
@@ -2468,6 +2800,10 @@ Security of Gibraltar: certificates by the Minister.
 
 (a) relate to a specific restriction, described in the certificate, which a controller has imposed or is proposing to impose under section 53(4), 54(4), 57(3) or 77(7); or
 
+Data Protection
+
+2004-01
+
 (b) identify any restriction to which it relates by means of a general description.
 
 (3)  Subject to subsection (6), a certificate issued under subsection (1) is conclusive evidence that the specific restriction or, as the case may be, any restriction falling within the general description is, or at any time was, a necessary and proportionate measure to protect the security of Gibraltar.
@@ -2482,10 +2818,6 @@ Security of Gibraltar: certificates by the Minister.
 
 (b) quash the certificate.
 
-Data Protection
-
-2004-01
-
 (7)  Where in any proceedings under or by virtue of this Act, it is claimed by a controller that a restriction falls within a general description in a certificate issued under subsection (1), any other party to the proceedings may appeal to the Magistrate’s Court on the ground that the restriction does not fall within that description.
 
 (8)  Subject to any determination under subsection (9), the restriction is to be conclusively presumed to fall within the general description.
@@ -2499,6 +2831,10 @@ Data Protection
 (b) deemed to be such a certificate unless the contrary is proved.
 
 (11)  A document which purports to be certified by or on behalf of a Minister as a true copy of a certificate issued by that Minister under subsection (1) is in any legal proceedings, evidence of that certificate.
+
+Data Protection
+
+2004-01
 
 (12)  The power conferred by subsection (1) on a Minister is exercisable also by the Attorney General.
 
@@ -2518,10 +2854,6 @@ Special processing restrictions.
 
 (a) a recipient in a Member State or the United Kingdom; or
 
-Data Protection
-
-2004-01
-
 (b) an agency, office or body established pursuant to Chapters 4 and 5 of Title V of the Treaty on the Functioning of the European Union;
 
 “non-EU recipient” means-
@@ -2533,6 +2865,10 @@ Data Protection
 (3)  The controller must consider whether, if the personal data had instead been transmitted or otherwise made available within Gibraltar to another competent authority, processing of the data by the other competent authority would have been subject to any restrictions by virtue of any enactment or rule of law.
 
 (4)  If any restrictions exist as referred under subsection (3), the controller must inform the EU recipient or non-EU recipient that the data is transmitted or otherwise made available subject to compliance by that person with the same restrictions, which must be set out in the information given to that person.
+
+Data Protection
+
+2004-01
 
 (5)  Except as provided by subsection (4), the controller may not impose restrictions on the processing of personal data transmitted or otherwise made available by the controller to an EU recipient.
 
@@ -2546,10 +2882,6 @@ Data Protection
 
 Reporting of infringements.
 
-Data Protection
-
-2004-01
-
 90.(1)  Each controller must implement effective mechanisms to encourage the reporting of an infringement of this Part.
 
 (2)  The mechanisms implemented under subsection (1) must provide that an infringement may be reported to any of the following persons-
@@ -2558,791 +2890,25 @@ Data Protection
 
 (b) the Commissioner.
 
-(3)  The mechanisms implemented under subsection (1) must include such protections for a person who reports an infringement of this Part as the controller considers appropriate.
+(3)  The mechanisms implemented under subsection (1) must include-
+
+(a) raising awareness of the protections provided by Part IV of the Employment Act; and
+
+(b) such other protections for a person who reports an infringement of this Part as the controller considers appropriate.
 
 (4)  A person who reports an infringement of this Part does not breach-
 
 (a) an obligation of confidence owed by the person; or
 
+Data Protection
+
+2004-01
+
 (b) any other restriction on the disclosure of information, however imposed.
 
-Part IV
+Part IV Deleted
 
-INTELLIGENCE SERVICES PROCESSING
-
-CHAPTER 1
-
-SCOPE AND DEFINITIONS
-
-Scope
-
-Processing to which this Part applies.
-
-91.(1)  This Part applies to-
-
-(a) the processing by an intelligence service of personal data wholly or partly by automated means; and
-
-(b) the processing by an intelligence service otherwise than by automated means of personal data which forms part of a filing system or is intended to form part of a filing system.
-
-(2)   In this Part, “intelligence service” means any body or person approved by the Minister to conduct intelligence services processing of personal data in Gibraltar.
-
-Data Protection
-
-2004-01
-
-(3)  A reference in this Part to the processing of personal data is to processing to which this Part applies.
-
-(4)  The Minister may by regulations amend the definition of “intelligence service” in subsection (3)-
-
-(a) so as to add or remove a description of person;
-
-(b) so as to reflect any change in the name of a person specified in the description.
-
-(5)  The Minister may by regulations establish a process by which bodies or persons may apply to carry out intelligence services processing of personal data in Gibraltar.
-
-Definitions
-
-Meaning of “controller” and “processor”.
-
-92.(1)  In this Part, “controller” means the intelligence service which, alone or jointly with others-
-
-(a) determines the purposes and means of the processing of personal data; or
-
-(b) is the controller by virtue of subsection (2).
-
-(2)  Where personal data is processed only-
-
-(a) for purposes for which it is required by an enactment to be processed; and
-
-(b) by means by which it is required by an enactment to be processed,
-
-the intelligence service on which the obligation to process the data is imposed by the enactment or, if different, one of the enactments, is the controller.
-
-(3)  In this Part, “processor” means any person who processes personal data on behalf of the controller, other than a person who is an employee of the controller.
-
-Other definitions.
-
-93.(1)  In this Part-
-
-Data Protection
-
-2004-01
-
-“Consent”, in relation to the processing of personal data relating to an individual, means a freely given, specific, informed and unambiguous indication of the individual’s wishes by which the individual, by a statement or by a clear affirmative action, signifies agreement to the processing of the personal data;
-
-“Employee”, in relation to any person, includes an individual who holds a position, whether paid or unpaid, under the direction and control of that person;
-
-“Personal data breach” means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data transmitted, stored or otherwise processed;
-
-“Recipient”, in relation to any personal data, means any person to whom the data is disclosed, whether a third party or not, but it does not include a person to whom disclosure is or may be made in the framework of a particular inquiry in accordance with the law;
-
-“Restriction of processing” means the marking of stored personal data with the aim of limiting its processing for the future.
-
-(2)  Section 2 includes definitions of other expressions used in this Part.
-
-CHAPTER 2
-
-PRINCIPLES
-
-Overview
-
-Overview.
-
-94.(1)  This Chapter sets out the six data protection principles as follows-
-
-(a) section 95 sets out the first data protection principle (requirement that processing be lawful, fair and transparent);
-
-(b) section 96 sets out the second data protection principle (requirement that the purposes of processing be specified, explicit and legitimate);
-
-(c) section 97 sets out the third data protection principle (requirement that personal data be adequate, relevant and not excessive);
-
-Data Protection
-
-2004-01
-
-(d) section 98 sets out the fourth data protection principle (requirement that personal data be accurate and kept up to date);
-
-(e) section 99 sets out the fifth data protection principle (requirement that personal data be kept for no longer than is necessary);
-
-(f) section 100 sets out the sixth data protection principle (requirement that personal data be processed in a secure manner).
-
-(2)  Each of sections 95, 96 and 100 makes provision to supplement the principle to which it relates.
-
-The data protection principles
-
-The first data protection principle.
-
-95.(1)  The first data protection principle is that the processing of personal data must be-
-
-(a) lawful; and
-
-(b) fair and transparent.
-
-(2)  The processing of personal data is lawful only if and to the extent that-
-
-(a) at least one of the conditions in Schedule 9 is met; and
-
-(b) in the case of sensitive processing, at least one of the conditions in Schedule 10 is also met.
-
-(3)  The Minister may by regulations amend Schedule 10-
-
-(a) by adding conditions;
-
-(b) by omitting conditions added by regulations under paragraph (a).
-
-(4)  In determining whether the processing of personal data is fair and transparent, regard is to be had to the method by which it is obtained.
-
-Data Protection
-
-2004-01
-
-(5)  For the purposes of subsection (4), data is to be treated as obtained fairly and transparently if it consists of information obtained from a person who-
-
-(a) is authorised by an enactment to supply it; or
-
-(b) is required to supply it by an enactment or by an international obligation of Gibraltar.
-
-(6)  In this section, “sensitive processing” means-
-
-(a) the processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership;
-
-(b) the processing of genetic data for the purpose of uniquely identifying an individual;
-
-(c) the processing of biometric data for the purpose of uniquely identifying an individual;
-
-(d) the processing of data concerning health;
-
-(e) the processing of data concerning an individual’s sex life or sexual orientation;
-
-(f) the processing of personal data as to-
-
-(i) the commission or alleged commission of an offence by an individual, or
-
-(ii) proceedings for an offence committed or alleged to have been committed by an individual, the disposal of such proceedings or the sentence of a court in such proceedings.
-
-The second data protection principle.
-
-96.(1)  The second data protection principle is that-
-
-(a) the purpose for which personal data is collected on any occasion must be specified, explicit and legitimate; and
-
-(b) personal data so collected must not be processed in a manner that is incompatible with the purpose for which it is collected.
-
-Data Protection
-
-2004-01
-
-(2)  Subsection (1)(b) is subject to subsections (3) and (4).
-
-(3)  Personal data collected by a controller for one purpose may be processed for any other purpose of the controller that collected the data or any purpose of another controller provided that-
-
-(a) the controller is authorised by law to process the data for that purpose; and
-
-(b) the processing is necessary and proportionate to that other purpose.
-
-(4)  Processing of personal data is to be regarded as compatible with the purpose for which it is collected if the processing-
-
-(a) consists of-
-
-(i) processing for archiving purposes in the public interest,
-
-(ii) processing for the purposes of scientific or historical research, or
-
-(iii) processing for statistical purposes, and
-
-(b) is subject to appropriate safeguards for the rights and freedoms of the data subject.
-
-The third data protection principle.
-
-97.  The third data protection principle is that personal data must be adequate, relevant and not excessive in relation to the purpose for which it is processed.
-
-The fourth data protection principle.
-
-98.  The fourth data protection principle is that personal data undergoing processing must be accurate and, where necessary, kept up to date.
-
-The fifth data protection principle.
-
-99.  The fifth data protection principle is that personal data must be kept for no longer than is necessary for the purpose for which it is processed.
-
-The sixth data protection principle.
-
-Data Protection
-
-2004-01
-
-100.(1)  The sixth data protection principle is that personal data must be processed in a manner that includes taking appropriate security measures as regards risks that arise from processing personal data.
-
-(2)  The risks referred to in subsection (1) include, but are not limited to, accidental or unauthorised access to, or destruction, loss, use, modification or disclosure of, personal data.
-
-CHAPTER 3
-
-RIGHTS OF THE DATA SUBJECT
-
-Overview
-
-Overview.
-
-101.(1)  This Chapter sets out the rights of the data subject as follows-
-
-(a) section 102 deals with the information to be made available to the data subject;
-
-(b) sections 103 and 104 deal with the right of access by the data subject;
-
-(c) sections 105 and 106 deal with rights in relation to automated processing;
-
-(d) section 107 deals with the right to information about decision- making;
-
-(e) section 108 deals with the right to object to processing;
-
-(f) section 109 deals with rights to rectification and erasure of personal data.
-
-(2)  In this Chapter, “the controller”, in relation to a data subject, means the controller in relation to personal data relating to the data subject.
-
-Rights
-
-Right to information.
-
-102.(1)  The controller must give a data subject the following information-
-
-(a) the identity and the contact details of the controller;
-
-Data Protection
-
-2004-01
-
-(b) the legal basis on which, and the purposes for which, the controller processes personal data;
-
-(c) the categories of personal data relating to the data subject that are being processed;
-
-(d) the recipients or the categories of recipients of the personal data, if applicable;
-
-(e) the right to lodge a complaint with the Commissioner and the contact details of the Commissioner;
-
-(f) how to exercise rights under this Chapter;
-
-(g) any other information needed to secure that the personal data is processed fairly and transparently.
-
-(2)  The controller may comply with subsection (1) by making information generally available, where the controller considers it appropriate to do so.
-
-(3)  The controller is not required under subsection (1) to give a data subject information that the data subject already has.
-
-(4)  Where personal data relating to a data subject is collected by or on behalf of the controller from a person other than the data subject, the requirement in subsection (1) has effect, in relation to the personal data so collected, with the following exceptions-
-
-(a) the requirement does not apply in relation to processing that is authorised by an enactment;
-
-(b) the requirement does not apply in relation to the data subject if giving the information to the data subject would be impossible or involve disproportionate effort.
-
-Right of access.
-
-103.(1)  An individual is entitled to obtain from a controller-
-
-(a) confirmation as to whether or not personal data concerning the individual is being processed; and
-
-(b) where that is the case-
-
-(i) communication, in intelligible form, of the personal data of which that individual is the data subject, and
-
-Data Protection
-
-2004-01
-
-(ii) the information set out in subsection (2).
-
-(2)  The information to be provided under subsection (1)(b) is-
-
-(a) the purposes of and legal basis for the processing;
-
-(b) the categories of personal data concerned;
-
-(c) the recipients or categories of recipients to whom the personal data has been disclosed;
-
-(d) the period for which the personal data is to be preserved;
-
-(e) the existence of a data subject’s rights to rectification and erasure of personal data as per section 109;
-
-(f) the right to lodge a complaint with the Commissioner and the contact details of the Commissioner;
-
-(g) any information about the origin of the personal data concerned.
-
-(3)  A controller is not obliged to provide information under this section unless the controller has received such reasonable fee as the controller may require, subject to subsection (4).
-
-(4)  The Minister may by regulations-
-
-(a) specify cases in which a controller may not charge a fee;
-
-(b) specify the maximum amount of a fee.
-
-(5)  Where a controller-
-
-(a) reasonably requires further information-
-
-(i) in order that the controller be satisfied as to the identity of the individual making a request under subsection (1), or
-
-(ii) to locate the information which that individual seeks; and
-
-(b) has informed that individual of that requirement,
-
-Data Protection
-
-2004-01
-
-the controller is not obliged to comply with the request unless the controller is supplied with that further information.
-
-(6)  Where a controller cannot comply with the request without disclosing information relating to another individual who can be identified from that information, the controller is not obliged to comply with the request unless-
-
-(a) the other individual has consented to the disclosure of the information to the individual making the request; or
-
-(b) it is reasonable in all the circumstances to comply with the request without the consent of the other individual.
-
-(7)  In subsection (6), the reference to information relating to another individual includes a reference to information identifying that individual as the source of the information sought by the request.
-
-(8)  Subsection (6) is not to be construed as excusing a controller from communicating so much of the information sought by the request as can be communicated without disclosing the identity of the other individual concerned, whether by the omission of names or other identifying particulars or otherwise.
-
-(9)  In determining for the purposes of subsection (6)(b) whether it is reasonable in all the circumstances to comply with the request without the consent of the other individual concerned, regard must be had, in particular, to-
-
-(a) any duty of confidentiality owed to the other individual;
-
-(b) any steps taken by the controller with a view to seeking the consent of the other individual;
-
-(c) whether the other individual is capable of giving consent; and
-
-(d) any express refusal of consent by the other individual.
-
-(10)  Subject to subsection (6), a controller must comply with a request under subsection (1)-
-
-(a) promptly; and
-
-(b) in any event before the end of the applicable time period.
-
-(11)  If a court is satisfied on the application of an individual who has made a request under subsection (1) that the controller in question has failed
-
-Data Protection
-
-2004-01
-
-to comply with the request in contravention of this section, the court may order the controller to comply with the request.
-
-(12)  A court may make an order under subsection (11) in relation to a joint controller whose responsibilities are determined in an arrangement under section 113 only if the controller is responsible for compliance with the obligation to which the order relates.
-
-(13)  The jurisdiction conferred on a court by this section is exercisable by the Magistrate’s Court.
-
-(14)  In this section-
-
-“the applicable time period” means-
-
-(a) the period of 1 month; or
-
-(b) such longer period, not exceeding 3 months, as may be specified in regulations made by the Minister,
-
-beginning with the relevant time;
-
-“the relevant time”, in relation to a request under subsection (1), means the latest of the following-
-
-(a) when the controller receives the request;
-
-(b) when the fee, if any, is paid; and
-
-(c) when the controller receives the information, if any, required under subsection (5) in connection with the request.
-
-Right of access: supplementary.
-
-104.(1)  The controller must comply with the obligation imposed by section 103(1)(b)(i) by supplying the data subject with a copy of the information in writing unless-
-
-(a) the supply of such a copy is not possible or would involve disproportionate effort; or
-
-(b) the data subject agrees otherwise;
-
-and where any of the information referred to in section 103(1)(b)(i) is expressed in terms which are not intelligible without explanation the copy must be accompanied by an explanation of those terms.
-
-Data Protection
-
-2004-01
-
-(2)  Where a controller has previously complied with a request made under section 103 by an individual, the controller is not obliged to comply with a subsequent identical or similar request under that section by that individual unless a reasonable interval has elapsed between compliance with the previous request and the making of the current request.
-
-(3)  In determining for the purposes of subsection (2) whether requests under section 103 are made at reasonable intervals, regard must be had to-
-
-(a) the nature of the data;
-
-(b) the purpose for which the data is processed; and
-
-(c) the frequency with which the data is altered.
-
-(4)  The information to be supplied pursuant to a request under section 103 must be supplied by reference to the data in question at the time when the request is received, except that it may take account of any amendment or deletion made between that time and the time when the information is supplied, being an amendment or deletion that would have been made regardless of the receipt of the request.
-
-(5)  For the purposes of section 103(6) to (8), an individual can be identified from information to be disclosed to a data subject by a controller if the individual can be identified from-
-
-(a) that information; or
-
-(b) that and any other information that the controller reasonably believes the data subject making the request is likely to possess or obtain.
-
-Right not to be subject to automated decision-making.
-
-105.(1)  The controller may not take a decision significantly affecting a data subject that is based solely on automated processing of personal data relating to the data subject.
-
-(2)  Subsection (1) does not prevent such a decision being made on that basis if-
-
-(a) the decision is required or authorised by law;
-
-(b) the data subject has given consent to the decision being made on that basis; or
-
-Data Protection
-
-2004-01
-
-(c) the decision is a decision taken in the course of steps taken-
-
-(i) for the purpose of considering whether to enter into a contract with the data subject,
-
-(ii) with a view to entering into such a contract, or
-
-(iii) in the course of performing such a contract.
-
-(3)  For the purposes of this section, a decision that has legal effects as regards an individual is to be regarded as significantly affecting the individual.
-
-Right to intervene in automated decision-making.
-
-106.(1)  This section applies where-
-
-(a) the controller takes a decision significantly affecting a data subject that is based solely on automated processing of personal data relating to the data subject; and
-
-(b) the decision is required or authorised by law.
-
-(2)  This section does not apply to such a decision if-
-
-(a) the data subject has given consent to the decision being made on that basis; or
-
-(b) the decision is a decision taken in the course of steps taken-
-
-(i) for the purpose of considering whether to enter into a contract with the data subject,
-
-(ii) with a view to entering into such a contract, or
-
-(iii) in the course of performing such a contract.
-
-(3)  The controller must as soon as reasonably practicable notify the data subject that such a decision has been made.
-
-(4)  The data subject may, before the end of the period of 1 month beginning with receipt of the notification, request the controller-
-
-(a) to reconsider the decision; or
-
-Data Protection
-
-2004-01
-
-(b) to take a new decision that is not based solely on automated processing.
-
-(5)  If a request is made to the controller under subsection (4), the controller must, before the end of the period of 1 month beginning with receipt of the request-
-
-(a) consider the request, including any information provided by the data subject that is relevant to it; and
-
-(b) by notice in writing inform the data subject of the outcome of that consideration.
-
-(6)  For the purposes of this section, a decision that has legal effects as regards an individual is to be regarded as significantly affecting the individual.
-
-Right to information about decision-making.
-
-107.(1)  Where-
-
-(a) the controller processes personal data relating to a data subject; and
-
-(b) results produced by the processing are applied to the data subject,
-
-the data subject is entitled to obtain from the controller, on request, knowledge of the reasoning underlying the processing.
-
-(2)  Where the data subject makes a request under subsection (1), the controller must comply with the request without undue delay.
-
-Right to object to processing.
-
-108.(1)  A data subject is entitled at any time, by notice given to the controller, to require the controller-
-
-(a) not to process personal data relating to the data subject; or
-
-(b) not to process such data for a specified purpose or in a specified manner,
-
-on the ground that, for specified reasons relating to the situation of the data subject, the processing in question is an unwarranted interference with the interests or rights of the data subject.
-
-Data Protection
-
-2004-01
-
-(2)  Where the controller-
-
-(a) reasonably requires further information-
-
-(i) in order that the controller be satisfied as to the identity of the individual giving notice under subsection (1), or
-
-(ii) to locate the data to which the notice relates; and
-
-(b) has informed that individual of that requirement,
-
-the controller is not obliged to comply with the notice unless the controller is supplied with that further information.
-
-(3)  The controller must, before the end of 21 days beginning with the relevant time, give a notice to the data subject-
-
-(a) stating that the controller has complied or intends to comply with the notice under subsection (1); or
-
-(b) stating the controller’s reasons for not complying with the notice to any extent and the extent, if any, to which the controller has complied or intends to comply with the notice under subsection (1).
-
-(4)  If the controller does not comply with a notice under subsection (1) to any extent, the data subject may apply to a court for an order that the controller take steps for complying with the notice.
-
-(5)  If the court is satisfied that the controller should comply with the notice, or should comply to any extent, the court may order the controller to take such steps for complying with the notice, or for complying with it to that extent, as the court thinks fit.
-
-(6)  A court may make an order under subsection (5) in relation to a joint controller whose responsibilities are determined in an arrangement under section 113 only if the controller is responsible for compliance with the obligation to which the order relates.
-
-(7)  The jurisdiction conferred on a court by this section is exercisable by the Magistrate’s Court.
-
-(8)  In this section, “the relevant time”, in relation to a notice under subsection (1), means-
-
-Data Protection
-
-2004-01
-
-(a) when the controller receives the notice; or
-
-(b) if later, when the controller receives the information, if any, required under subsection (2) in connection with the notice.
-
-Rights to rectification and erasure.
-
-109.(1)  If a court is satisfied on the application of a data subject that personal data relating to the data subject is inaccurate, the court may order the controller to rectify that data without undue delay.
-
-(2)  If a court is satisfied on the application of a data subject that the processing of personal data relating to the data subject would infringe any of sections 95 to 100, the court may order the controller to erase that data without undue delay.
-
-(3)  If personal data relating to the data subject must be maintained for the purposes of evidence, the court may, instead of ordering the controller to rectify or erase the personal data, order the controller to restrict its processing without undue delay.
-
-(4)  If-
-
-(a) the data subject contests the accuracy of personal data; and
-
-(b) the court is satisfied that the controller is not able to ascertain whether the data is accurate or not, the court may, instead of ordering the controller to rectify or erase the personal data, order the controller to restrict its processing without undue delay.
-
-(5)  A court may make an order under this section in relation to a joint controller whose responsibilities are determined in an arrangement under section 113 only if the controller is responsible for carrying out the rectification, erasure or restriction of processing that the court proposes to order.
-
-(6)  The jurisdiction conferred on a court by this section is exercisable by the Magistrate’s Court.
-
-CHAPTER 4
-
-CONTROLLER AND PROCESSOR
-
-Overview
-
-Data Protection
-
-2004-01
-
-Overview.
-
-110.  This Chapter sets out-
-
-(a) the general obligations of controllers and processors (see sections 111 to 115);
-
-(b) specific obligations of controllers and processors with respect to security (see section 116);
-
-(c) specific obligations of controllers and processors with respect to personal data breaches (see section 117).
-
-General obligations
-
-General obligations of the controller.
-
-111.  Each controller must implement appropriate measures-
-
-(a) to ensure; and
-
-(b) to be able to demonstrate, in particular to the Commissioner,
-
-that the processing of personal data complies with the requirements of this Part.
-
-Data protection by design.
-
-112.(1)  Where a controller proposes that a particular type of processing of personal data be carried out by or on behalf of the controller, the controller must, prior to the processing, consider the impact of the proposed processing on the rights and freedoms of data subjects.
-
-(2)  A controller must implement appropriate technical and organisational measures which are designed to ensure that-
-
-(a) the data protection principles are implemented; and
-
-(b) risks to the rights and freedoms of data subjects are minimised.
-
-Joint controllers.
-
-113.(1)  Where two or more intelligence services jointly determine the purposes and means of processing personal data, they are joint controllers for the purposes of this Part.
-
-Data Protection
-
-2004-01
-
-(2)  Joint controllers must, in a transparent manner, determine their respective responsibilities for compliance with this Part by means of an arrangement between them, except to the extent that those responsibilities are determined under or by virtue of an enactment.
-
-(3)  The arrangement must designate the controller which is to be the contact point for data subjects.
-
-Processors.
-
-114.(1)  This section applies to the use by a controller of a processor to carry out processing of personal data on behalf of the controller.
-
-(2)  The controller may use only a processor who undertakes-
-
-(a) to implement appropriate measures that are sufficient to secure that the processing complies with this Part;
-
-(b) to provide to the controller such information as is necessary for demonstrating that the processing complies with this Part.
-
-(3)  If a processor determines, in breach of this Part, the purposes and means of processing, the processor is to be treated for the purposes of this Part as a controller in respect of that processing.
-
-Processing under the authority of the controller or processor.
-
-115.  A processor, and any person acting under the authority of a controller or processor, who has access to personal data may not process the data except-
-
-(a) on instructions from the controller; or
-
-(b) to comply with a legal obligation.
-
-Obligations relating to security
-
-Security of processing.
-
-116.(1)  Each controller and each processor must implement security measures appropriate to the risks arising from the processing of personal data.
-
-(2)  In the case of automated processing, each controller and each processor must, following an evaluation of the risks, implement measures designed to-
-
-Data Protection
-
-2004-01
-
-(a) prevent unauthorised processing or unauthorised interference with the systems used in connection with it;
-
-(b) ensure that it is possible to establish the precise details of any processing that takes place;
-
-(c) ensure that any systems used in connection with the processing function properly and may, in the case of interruption, be restored; and
-
-(d) ensure that stored personal data cannot be corrupted if a system used in connection with the processing malfunctions.
-
-Obligations relating to personal data breaches
-
-Communication of a personal data breach.
-
-117.(1)  If a controller becomes aware of a serious personal data breach in relation to personal data for which the controller is responsible, the controller must notify the Commissioner of the breach without undue delay.
-
-(2)  Where the notification to the Commissioner is not made within 72 hours, the notification must be accompanied by reasons for the delay.
-
-(3)  Subject to subsection (4), the notification must include-
-
-(a) a description of the nature of the personal data breach including, where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;
-
-(b) the name and contact details of the contact point from whom more information can be obtained;
-
-(c) a description of the likely consequences of the personal data breach;
-
-(d) a description of the measures taken or proposed to be taken by the controller to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.
-
-(4)  Where and to the extent that it is not possible to provide all the information mentioned in subsection (3) at the same time, the information may be provided in phases without undue further delay.
-
-Data Protection
-
-2004-01
-
-(5)  If a processor becomes aware of a personal data breach, in relation to data processed by the processor, the processor must notify the controller without undue delay.
-
-(6)  For the purposes of this section, a personal data breach is serious if the breach seriously interferes with the rights and freedoms of a data subject.
-
-CHAPTER 5
-
-TRANSFERS OF PERSONAL DATA OUTSIDE GIBRALTAR
-
-Transfers of personal data outside Gibraltar.
-
-118.(1)  A controller may not transfer personal data to-
-
-(a) a country or territory outside Gibraltar; or
-
-(b) an international organisation,
-
-unless the transfer falls within subsection (2).
-
-(2)  A transfer of personal data falls within this subsection if the transfer is a necessary and proportionate measure carried out for the purposes of the controller’s statutory functions.
-
-CHAPTER 6
-
-EXEMPTIONS
-
-Security of Gibraltar.
-
-119.(1)  A provision mentioned in subsection (2) does not apply to personal data to which this Part applies if exemption from the provision is required for the purpose of safeguarding the security of Gibraltar.
-
-(2)  The provisions are-
-
-(a) Chapter 2 (the data protection principles), except section 95(1)(a) and (2) and Schedules 9 and 10;
-
-(b) Chapter 3 (rights of data subjects);
-
-(c) in Chapter 4, section 117 (communication of a personal data breach to the Commissioner);
-
-(d) in Part V-
-
-Data Protection
-
-2004-01
-
-(i) section 128 (inspection in accordance with international obligations);
-
-(ii) in Schedule 13 (other general functions of the Commissioner), paragraphs 1(a) and (g) and 2;
-
-(e) in Part VI-
-
-(i) sections 150 to 160 and Schedule 15 (Commissioner’s notices and powers of entry and inspection);
-
-(ii) sections 175 to 177 (offences relating to personal data);
-
-(iii) sections 179 to 181 (provision relating to the special purposes).
-
-Security of Gibraltar: certificate.
-
-120.(1)  Subject to subsection (3), a certificate signed by a Minister certifying that exemption from all or any of the provisions mentioned in section 119(2) is, or at any time was, required for the purpose of safeguarding the security of Gibraltar in respect of any personal data is conclusive evidence of that fact.
-
-(2)  A certificate under subsection (1)-
-
-(a) may identify the personal data to which it applies by means of a general description; and
-
-(b) may be expressed to have prospective effect.
-
-(3)  Any person directly affected by the issuing of a certificate under subsection (1) may appeal to the Magistrate’s Court against the certificate.
-
-(4)  If on an appeal under subsection (3), the Magistrate’s Court finds that, applying the principles applied by a court on an application for judicial review, the Minister did not have reasonable grounds for issuing the certificate, the Magistrate’s Court may-
-
-(a) allow the appeal; and
-
-(b) quash the certificate.
-
-(5)  Where, in any proceedings under or by virtue of this Act, it is claimed by a controller that a certificate under subsection (1) which identifies the
-
-Data Protection
-
-2004-01
-
-personal data to which it applies by means of a general description applies to any personal data, another party to the proceedings may appeal to the Magistrate’s Court on the ground that the certificate does not apply to the personal data in question.
-
-(6)  Subject to any determination under subsection (7), the certificate is to be conclusively presumed to apply.
-
-(7)  On an appeal under subsection (5), the Magistrate’s Court may determine that the certificate does not so apply.
-
-(8)  A document purporting to be a certificate under subsection (1) is to be-
-
-(a) received in evidence; and
-
-(b) deemed to be such a certificate unless the contrary is proved.
-
-(9)  A document which purports to be certified by or on behalf of a Minister as a true copy of a certificate issued by that Minister under subsection (1) is in any legal proceedings, evidence of that certificate.
-
-(10)  The power conferred by subsection (1) on a Minister is also exercisable by the Attorney General.
-
-Other exemptions.
-
-121.  Schedule 11 provides for further exemptions.
-
-Power to make further exemptions.
-
-122.  The Minister may by regulations amend Schedule 11-
-
-(a) by adding exemptions from any provision of this Part;
-
-(b) by omitting exemptions added by regulations under paragraph (a).
+91. – 122. Deleted
 
 Part V
 
@@ -3352,17 +2918,11 @@ The Commissioner
 
 The Commissioner.
 
-Data Protection
-
-2004-01
-
 123.(1)  There shall be a Data Protection Commissioner (“the Commissioner”) who shall be independent in the exercise of his functions under this Act.
 
 (2)  The Commissioner shall be the Gibraltar Regulatory Authority, who shall perform the functions conferred by this Act and any regulations enacted under it.
 
-(3)  The Minister may by regulations amend subsection (2).
-
-(4)  Schedule 12 makes provision about the Commissioner’s powers.
+(3)  Schedule 12 makes provision about the Commissioner’s powers.
 
 General functions
 
@@ -3380,15 +2940,15 @@ General functions under the GDPR and safeguards.
 
 (a) a duty to advise Parliament, the government and other institutions and bodies on legislative and administrative measures relating to the protection of individuals’ rights and freedoms with regard to the processing of personal data; and
 
+Data Protection
+
+2004-01
+
 (b) a power to issue, on the Commissioner’s own initiative or on request, opinions to Parliament, the government or other institutions and bodies as well as to the public on any issue related to the protection of personal data.
 
 (4)  The Commissioner’s functions under Article 58 of the GDPR are subject to the safeguards in subsections (5) to (9).
 
 (5)  The Commissioner’s power under Article 58(1)(a) of the GDPR (power to require a controller or processor to provide information that the Commissioner requires for the performance of the Commissioner’s tasks under the GDPR) is exercisable only by giving an information notice under section 150.
-
-Data Protection
-
-2004-01
 
 (6)  The Commissioner’s power under Article 58(1)(b) of the GDPR (power to carry out data protection audits) is exercisable only in accordance with section 153.
 
@@ -3408,6 +2968,10 @@ Data Protection
 
 (10)  This section is without prejudice to other functions conferred on the Commissioner, whether by the GDPR, this Act or otherwise.
 
+Data Protection
+
+2004-01
+
 Other general functions.
 
 125.(1)  The Commissioner-
@@ -3417,10 +2981,6 @@ Other general functions.
 (b) is to continue to be the designated authority in Gibraltar for the purposes of Article 13 of the Data Protection Convention.
 
 (2)  Schedule 13 confers general functions on the Commissioner in connection with processing to which the GDPR does not apply.
-
-Data Protection
-
-2004-01
 
 (3)  This section and Schedule 13 are without prejudice to other functions conferred on the Commissioner, whether by this Act or otherwise.
 
@@ -3446,6 +3006,10 @@ Co-operation and mutual assistance.
 
 (4)  Part 1 of Schedule 14 makes provision as to the functions to be carried out by the Commissioner for the purposes of Article 50 of the Law Enforcement Directive (mutual assistance).
 
+Data Protection
+
+2004-01
+
 (5)  Part 2 of Schedule 14 makes provision as to the functions to be carried out by the Commissioner for the purposes of Article 13 of the Data Protection Convention (co-operation between parties).
 
 Inspection of personal data in accordance with international obligations.
@@ -3453,10 +3017,6 @@ Inspection of personal data in accordance with international obligations.
 128.(1)  The Commissioner may inspect personal data where the inspection is necessary in order to discharge an international obligation of Gibraltar, subject to the restriction in subsection (2).
 
 (2)  The power under subsection (1) is exercisable only if the personal data-
-
-Data Protection
-
-2004-01
 
 (a) is processed wholly or partly by automated means; or
 
@@ -3474,9 +3034,15 @@ Data Protection
 
 (b) to fail without reasonable excuse to give a person exercising that power any assistance the person may reasonably require.
 
+(7)  Paragraphs (c) and (d) of section 2(2) do not apply to references in this section to personal data, the processing of personal data, a controller or a processor.
+
 Further international role.
 
 129.(1)  The Commissioner must, in relation to third countries and international organisations, take appropriate steps to-
+
+Data Protection
+
+2004-01
 
 (a) develop international co-operation mechanisms to facilitate the effective enforcement of legislation for the protection of personal data;
 
@@ -3485,10 +3051,6 @@ Further international role.
 (c) engage relevant stakeholders in discussion and activities aimed at furthering international co-operation in the enforcement of legislation for the protection of personal data;
 
 (d) promote the exchange and documentation of legislation and practice for the protection of personal data, including legislation and practice relating to jurisdictional conflicts with third countries.
-
-Data Protection
-
-2004-01
 
 (2)  Subsection (1) applies only in connection with the processing of personal data to which the GDPR does not apply; for the equivalent duty in connection with the processing of personal data to which the GDPR applies, see Article 50 of the GDPR (international co-operation for the protection of personal data).
 
@@ -3502,7 +3064,13 @@ Data Protection
 
 “third country” means a country or territory that is not a Member State or the United Kingdom.
 
+(5)  Section 2(2)(c) does not apply to references to personal data and the processing of personal data in this section.
+
 Codes of practice
+
+Data Protection
+
+2004-01
 
 Data sharing code.
 
@@ -3517,10 +3085,6 @@ Data sharing code.
 (3)  Before preparing a code or amendments under this section, the Commissioner may consult such of the following as the Commissioner considers appropriate-
 
 (a) trade associations;
-
-Data Protection
-
-2004-01
 
 (b) data subjects;
 
@@ -3540,6 +3104,10 @@ Direct marketing code.
 
 131.(1)  The Commissioner may prepare a code of practice which contains-
 
+Data Protection
+
+2004-01
+
 (a) practical guidance in relation to the carrying out of direct marketing in accordance with the requirements of the data protection legislation and the Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426); and
 
 (b) such other guidance as the Commissioner considers appropriate to promote good practice in direct marketing.
@@ -3551,10 +3119,6 @@ Direct marketing code.
 (a) trade associations;
 
 (b) data subjects;
-
-Data Protection
-
-2004-01
 
 (c) persons who appear to the Commissioner to represent the interests of data subjects.
 
@@ -3572,6 +3136,10 @@ Age-appropriate design code.
 
 132.(1)  The Commissioner may prepare a code of practice which contains such guidance as the Commissioner considers appropriate on standards of age appropriate design of relevant information society services which are likely to be accessed by children.
 
+Data Protection
+
+2004-01
+
 (2)  Where a code under this section is in force, the Commissioner may prepare amendments of the code or a replacement code.
 
 (3)  Before preparing a code or amendments under this section, the Commissioner may consult such persons as the Commissioner considers appropriate, including-
@@ -3586,10 +3154,6 @@ Age-appropriate design code.
 
 (e) trade associations.
 
-Data Protection
-
-2004-01
-
 (4)  In preparing a code or amendments under this section, the Commissioner must have regard-
 
 (a) to the fact that children have different needs at different ages; and
@@ -3597,6 +3161,8 @@ Data Protection
 (b) to the United Nations Convention on the Rights of the Child.
 
 (5)  A code under this section may include transitional provision or savings.
+
+(5A)  Any transitional provision in the first code under this section must cease to have effect before the end of the period of 12 months beginning when the code comes into force.
 
 (6)  In this section-
 
@@ -3606,11 +3172,49 @@ Data Protection
 
 “relevant information society services” means information society services which involve the processing of personal data to which the GDPR applies;
 
+Data Protection
+
+2004-01
+
 “standards of age-appropriate design of relevant information society services” means such standards of age-appropriate design of such services as appear to the Commissioner to be desirable having regard to the best interests of children;
 
 “trade association” includes a body representing controllers or processors;
 
 “the United Nations Convention on the Rights of the Child” means the Convention on the Rights of the Child adopted by the General Assembly of the United Nations on 20 November 1989 (including any Protocols to that Convention).
+
+Data protection and journalism code.
+
+132A.(1) The Commissioner may prepare a code of practice which contains-
+
+(a) practical guidance in relation to the processing of personal data for the purposes of journalism in accordance with the requirements of the data protection legislation; and
+
+(b) such other guidance as the Commissioner considers appropriate to promote good practice in the processing of personal data for the purposes of journalism.
+
+(2)  Where a code under this section is in force, the Commissioner may prepare amendments of the code or a replacement code.
+
+(3)  Before preparing a code or amendments under this section, the Commissioner may consult such of the following as the Commissioner considers appropriate-
+
+(a) trade associations;
+
+(b) data subjects;
+
+(c) persons who appear to the Commissioner to represent the interests of data subjects.
+
+(4)  A code under this section may include transitional or savings provisions.
+
+(5)  In this section-
+
+Data Protection
+
+2004-01
+
+“good practice in the processing of personal data for the purposes of journalism” means such practice in the processing of personal data for those purposes as appears to the Commissioner to be desirable having regard to-
+
+(a) the interests of data subjects and others, including compliance with the requirements of the data protection legislation; and
+
+(b) the special importance of the public interest in the freedom of expression and information;
+
+“trade association” includes a body representing controllers or processors.
 
 Publication and review of data-sharing, direct marketing and age- appropriate design codes.
 
@@ -3618,9 +3222,7 @@ Publication and review of data-sharing, direct marketing and age- appropriate de
 
 (2)  The Commissioner must then issue the code, and it will come into force at the end of the period of 21 days beginning with the day on which it is issued.
 
-Data Protection
-
-2004-01
+(2A)  The Commissioner must publish a code issued under subsection (2).
 
 (3)  Where an amendment of a code is issued, the Commissioner must publish-
 
@@ -3634,6 +3236,10 @@ Data Protection
 
 Effect of data-sharing, direct marketing and age-appropriate design codes.
 
+Data Protection
+
+2004-01
+
 134.(1)  A failure by a person to act in accordance with a provision of a code issued under this Act does not of itself make that person liable to legal proceedings in a court or tribunal.
 
 (2)  A code issued under this Act, including an amendment or replacement code, is admissible in evidence in legal proceedings.
@@ -3644,35 +3250,31 @@ Effect of data-sharing, direct marketing and age-appropriate design codes.
 
 (b) the provision appears to the court or tribunal to be relevant to the question.
 
-(4)  Where the Commissioner is carrying out a function relating to the data protection legislation, the Commissioner must take into account a provision of a code issued under this Act in determining a question arising in connection with the carrying out of the function if-
+(4)  Where the Commissioner is carrying out a function described in subsection (5), the Commissioner must take into account a provision of a code issued under section 133(2) in determining a question arising in connection with the carrying out of the function if-
 
 (a) the question relates to a time when the provision was in force; and
 
 (b) the provision appears to the Commissioner to be relevant to the question.
 
-Data Protection
+(5)  Those functions are functions under-
 
-2004-01
+(a) the data protection legislation; or
+
+(b) the Communications (Personal Data and Privacy) Regulations 2006.
 
 Other codes of practice.
 
-135.(1)  The Commissioner may encourage trade associations and other bodies representing categories of data controllers to prepare codes of practice to be complied with by those categories in processing personal data.
-
-(2)  Where a Code of Practice has been prepared by a trade association or other body representing a category of data controller it may be submitted to the Commissioner for his views and if, after conducting such consultations with interested parties and interested data subjects as appears appropriate to him-
-
-(a) he considers that the Code of Practice provides appropriate protections for the rights of data subjects under this Act, he shall approve the code and encourage its dissemination to the data controllers and data subjects concerned; and
-
-(b) in any event the Commissioner shall notify the authors of the Code of Practice of his decision to approve or not approve the Code.
-
-(3)  In proceedings before any court or tribunal any provision of a Code of Conduct or Practice approved by, or written by, the Commissioner which is relevant to the proceedings may be taken into account in determining the issues.
-
-(4)  The Minister may by regulations require the Commissioner-
+135.(1) The Minister may by regulations require the Commissioner-
 
 (a) to prepare appropriate codes of practice giving guidance as to good practice in the processing of personal data; and
 
 (b) to make them available to such persons as the Commissioner considers appropriate.
 
-(5)  Before preparing such codes, the Commissioner must consult such of the following as the Commissioner considers appropriate-
+Data Protection
+
+2004-01
+
+(2)  Before preparing such codes, the Commissioner must consult such of the following as the Commissioner considers appropriate-
 
 (a) trade associations;
 
@@ -3680,17 +3282,13 @@ Other codes of practice.
 
 (c) persons who appear to the Commissioner to represent the interests of data subjects.
 
-Data Protection
-
-2004-01
-
-(6)  Regulations under this section-
+(3)  Regulations under this section-
 
 (a) must describe the personal data or processing to which the code of practice is to relate; and
 
 (b) may describe the persons or classes of person to whom it is to relate.
 
-(7)  In this section-
+(4)  In this section-
 
 “good practice in the processing of personal data” means such practice in the processing of personal data as appears to the Commissioner to be desirable having regard to the interests of data subjects and others, including compliance with the requirements of the data protection legislation;
 
@@ -3708,17 +3306,17 @@ Consensual audits.
 
 Records of certificates relating to the security of Gibraltar
 
+Data Protection
+
+2004-01
+
 Records of certificates relating to the security of Gibraltar.
 
-137.(1)  A Minister who issues a certificate under section 29, 88 or 120 must send a copy of the certificate to the Commissioner.
+137.(1)  A Minister who issues a certificate under section 29 or 88 must send a copy of the certificate to the Commissioner.
 
 (2)  If the Commissioner receives a copy of a certificate under subsection (1), the Commissioner must publish a record of the certificate.
 
 (3)  The record must contain-
-
-Data Protection
-
-2004-01
 
 (a) the name of the Minister who issued the certificate;
 
@@ -3740,7 +3338,7 @@ Data Protection
 
 (5)  The Commissioner must keep the record of the certificate available to the public while the certificate is in force.
 
-(6)  If a Minister revokes a certificate issued under section 29, 88 or 120, the Minister must notify the Commissioner.
+(6)  If a Minister revokes a certificate issued under section 29 or 88, the Minister must notify the Commissioner.
 
 Register of data protection officers
 
@@ -3750,17 +3348,17 @@ Register of data protection officers.
 
 Information provided to the Commissioner
 
+Data Protection
+
+2004-01
+
 Disclosure of information to the Commissioner.
 
 139.  No enactment or rule of law prohibiting or restricting the disclosure of information-
 
 (a) shall preclude a person from furnishing to the Commissioner any information which is necessary or expedient for the performance by the Commissioner of his functions;
 
-Data Protection
-
-2004-01
-
-(b) save that paragraph (a) does not apply to information which is, or at the time was, kept for the purpose of safeguarding the security of Gibraltar or information which is privileged from disclosure in court proceedings.
+(b) save that paragraph (a) does not apply to information which is, or at the time was, kept for the purpose of safeguarding the security of Gibraltar.
 
 Confidentiality of information.
 
@@ -3782,15 +3380,15 @@ unless the disclosure is made with lawful authority.
 
 (c) the disclosure was made for the purposes of, and is necessary for, the discharge of one or more of the Commissioner’s functions;
 
+Data Protection
+
+2004-01
+
 (d) the disclosure was made for the purposes of, and is necessary for, the discharge of an EU obligation;
 
 (e) the disclosure was made for the purposes of criminal or civil proceedings, however arising; or
 
 (f) having regard to the rights, freedoms and legitimate interests of any person, the disclosure was necessary in the public interest.
-
-Data Protection
-
-2004-01
 
 (3)  It is an offence for a person knowingly or recklessly to disclose information in contravention of subsection (1).
 
@@ -3818,6 +3416,10 @@ Guidance about privileged communications.
 
 (b) communications made-
 
+Data Protection
+
+2004-01
+
 (i) between a professional legal adviser and the adviser’s client or between such an adviser or client and another person,
 
 (ii) in connection with or in contemplation of legal proceedings, and
@@ -3825,10 +3427,6 @@ Guidance about privileged communications.
 (iii) for the purposes of such proceedings.
 
 (4)  In subsection (3)-
-
-Data Protection
-
-2004-01
 
 (a) references to the client of a professional legal adviser include references to a person acting on behalf of the client; and
 
@@ -3854,6 +3452,10 @@ Manifestly unfounded or excessive requests by data subjects etc.
 
 (2)  An example of a request that may be excessive is one that merely repeats the substance of previous requests.
 
+Data Protection
+
+2004-01
+
 (3)  In any proceedings where there is an issue as to whether a request described in subsection (1) is manifestly unfounded or excessive, it is for the Commissioner to show that it is.
 
 (4)  Subsections (1) and (3) apply only in cases in which the Commissioner does not already have such powers and obligations under Article 57(4) of the GDPR.
@@ -3862,15 +3464,13 @@ Guidance about fees.
 
 144.(1)  The Commissioner must produce and publish guidance about the fees the Commissioner proposes to charge in accordance with-
 
-Data Protection
-
-2004-01
-
 (a) section 142 or 143; or
 
 (b) Article 57(4) of the GDPR.
 
-(2)  Before publishing the guidance, the Commissioner must consult the Minister. Charges
+(2)  Before publishing the guidance, the Commissioner must consult the Minister.
+
+Charges
 
 Charges payable to the Commissioner by controllers.
 
@@ -3888,6 +3488,10 @@ Charges payable to the Commissioner by controllers.
 
 (d) make provision for cases in which a charge which has been paid is to be refunded.
 
+Data Protection
+
+2004-01
+
 (4)  In making regulations under subsection (1), the Minister must have regard to the desirability of securing that the charges payable to the Commissioner under such regulations are sufficient to offset-
 
 (a) expenses incurred by the Commissioner in discharging the Commissioner’s functions in relation to data protection;
@@ -3895,10 +3499,6 @@ Charges payable to the Commissioner by controllers.
 (b) any expenses of the Minister in respect of the Commissioner so far as attributable to those functions;
 
 (c) to the extent that the Minister considers appropriate, any deficit previously incurred, whether before or after the passing of this Act, in respect of the expenses mentioned in paragraph (a); and
-
-Data Protection
-
-2004-01
 
 (d) to the extent that the Minister considers appropriate, expenses incurred by the Minister in respect of the inclusion of any officers or staff of the Commissioner in any public service pension scheme.
 
@@ -3908,7 +3508,9 @@ Data Protection
 
 (a) requiring a controller to provide information to the Commissioner; or
 
-(b) enabling the Commissioner to require a controller to provide information to the Commissioner, for either or both of the purposes mentioned in subsection (7).
+(b) enabling the Commissioner to require a controller to provide information to the Commissioner,
+
+for either or both of the purposes mentioned in subsection (7).
 
 (7)  Those purposes are-
 
@@ -3919,6 +3521,10 @@ Data Protection
 (8)  The provision that may be made under subsection (6)(a) includes provision requiring a controller to notify the Commissioner of a change in the controller’s circumstances of a kind specified in the regulations.
 
 Regulations under section 145: supplementary.
+
+Data Protection
+
+2004-01
 
 146.(1)  Before making regulations under section 145(1) or (6), the Minister must consult such representatives of persons likely to be affected by the regulations as the Minister thinks appropriate (see section 184).
 
@@ -3931,10 +3537,6 @@ Regulations under section 145: supplementary.
 Reports etc
 
 Reporting to Parliament.
-
-Data Protection
-
-2004-01
 
 147.(1)  The Commissioner must-
 
@@ -3958,6 +3560,10 @@ Notices from the Commissioner.
 
 149.(1)  This section applies in relation to a notice authorised or required by this Act to be given to a person by the Commissioner.
 
+Data Protection
+
+2004-01
+
 (2)  The notice may be given to an individual-
 
 (a) by delivering it to the individual;
@@ -3969,10 +3575,6 @@ Notices from the Commissioner.
 (3)  The notice may be given to a body corporate or unincorporated-
 
 (a) by sending it by post to the proper officer of the body at its principal office; or
-
-Data Protection
-
-2004-01
 
 (b) by addressing it to the proper officer of the body and leaving it at that office.
 
@@ -3998,6 +3600,10 @@ Information notices.
 
 150.(1)  The Commissioner may, by written notice (an “information notice”)-
 
+Data Protection
+
+2004-01
+
 (a) require a controller or processor to provide the Commissioner with information that the Commissioner reasonably requires for the purposes of carrying out the Commissioner’s functions under the data protection legislation; or
 
 (b) require any person to provide the Commissioner with information that the Commissioner reasonably requires for the purposes of-
@@ -4005,10 +3611,6 @@ Information notices.
 (i) investigating a suspected failure of a type described in section 155(2) or a suspected offence under this Act, or
 
 (ii) determining whether the processing of personal data is carried out by an individual in the course of a purely personal or household activity.
-
-Data Protection
-
-2004-01
 
 (2)  An information notice must state-
 
@@ -4026,9 +3628,17 @@ Data Protection
 
 (d) specify the place where the information must be provided.
 
-(4)  An information notice must provide information about the rights of appeal under section 168.
+(4)  An information notice must provide information about-
+
+(a) the consequences of failure to comply with it; and
+
+(b) the rights under sections 168 and 169A (appeals etc).
 
 (5)  An information notice may not require a person to provide information before the end of the period within which an appeal can be brought against the notice.
+
+Data Protection
+
+2004-01
 
 (6)  If an appeal is brought against an information notice, the information need not be provided pending the determination or withdrawal of the appeal.
 
@@ -4038,17 +3648,11 @@ Data Protection
 
 (b) gives the Commissioner’s reasons for reaching that opinion,
 
-subsections (5) and (6) do not apply but the notice must not require the information to be provided before the end of the period of 7 days beginning when the notice is given.
+subsections (5) and (6) do not apply but the notice must not require the information to be provided before the end of the period of 24 hours beginning when the notice is given.
 
 (8)  The Commissioner may cancel an information notice by written notice to the person to whom it was given.
 
-(9)  In subsection (1), in relation to a person who is a controller or processor for the purposes of the GDPR, the reference to a controller or processor includes a representative of a controller or processor designated
-
-Data Protection
-
-2004-01
-
-under Article 27 of the GDPR (representatives of controllers or processors not established in the European Union).
+(9)  In subsection (1), in relation to a person who is a controller or processor for the purposes of the GDPR, the reference to a controller or processor includes a representative of a controller or processor designated under Article 27 of the GDPR (representatives of controllers or processors not established in the European Union).
 
 (10)  Section 2(2)(c) does not apply to the reference to the processing of personal data in subsection (1)(b).
 
@@ -4066,6 +3670,10 @@ Information notices: restrictions.
 
 (2)  An information notice does not require a person to give the Commissioner information to the extent that requiring the person to do so would involve an infringement of Parliamentary privilege.
 
+Data Protection
+
+2004-01
+
 (3)  An information notice does not require a person to give the Commissioner information in respect of a communication which is made-
 
 (a) between a professional legal adviser and the adviser’s client; and
@@ -4079,10 +3687,6 @@ Information notices: restrictions.
 (b) in connection with or in contemplation of proceedings under or arising out of the data protection legislation; and
 
 (c) for the purposes of such proceedings.
-
-Data Protection
-
-2004-01
 
 (5)  In subsections (3) and (4), references to the client of a professional legal adviser include references to a person acting on behalf of the client.
 
@@ -4098,6 +3702,10 @@ Data Protection
 
 (a) in giving evidence the person provides information inconsistent with the statement; and
 
+Data Protection
+
+2004-01
+
 (b) evidence relating to the statement is adduced, or a question relating to it is asked, by that person or on that person’s behalf.
 
 (9)  In subsection (6), in relation to an information notice given to a representative of a controller or processor designated under Article 27 of the GDPR, the reference to the person providing the information being exposed to proceedings for an offence includes a reference to the controller or processor being exposed to such proceedings.
@@ -4111,10 +3719,6 @@ False statements made in response to an information notice.
 (b) recklessly to make a statement which is false in a material respect.
 
 Information orders.
-
-Data Protection
-
-2004-01
 
 152A.(1)  This section applies if, on an application by the Commissioner, a court is satisfied that a person has failed to comply with a requirement of an information notice.
 
@@ -4134,6 +3738,10 @@ Data Protection
 
 Assessment notices
 
+Data Protection
+
+2004-01
+
 Assessment notices.
 
 153.(1)  The Commissioner may by written notice (an “assessment notice”) require a controller or processor to permit the Commissioner to carry out an assessment of whether the controller or processor has complied or is complying with the data protection legislation.
@@ -4146,29 +3754,35 @@ Assessment notices.
 
 (c) assist the Commissioner to view information of a specified description that is capable of being viewed using equipment on the premises;
 
-(d) comply with a request from the Commissioner for-
+(d) comply with a request from the Commissioner for a copy (in such form as may be requested) of-
 
-Data Protection
+(i) the documents to which the Commissioner is directed,
 
-2004-01
-
-(i) a copy of the documents to which the Commissioner is directed;
-
-(ii) a copy, in such form as may be requested, of the information which the Commissioner is assisted to view;
+(ii) the information which the Commissioner is assisted to view;
 
 (e) direct the Commissioner to equipment or other material on the premises which is of a specified description;
 
 (f) permit the Commissioner to inspect or examine the documents, information, equipment or material to which the Commissioner is directed or which the Commissioner is assisted to view;
 
-(g) permit the Commissioner to observe the processing of personal data that takes place on the premises;
+(g) provide the Commissioner with an explanation of such documents, information, equipment or material;
 
-(h) make available for interview by the Commissioner a specified number of people of a specified description who process personal data on behalf of the controller, not exceeding the number who are willing to be interviewed.
+(h) permit the Commissioner to observe the processing of personal data that takes place on the premises;
+
+(i) make available for interview by the Commissioner a specified number of people of a specified description who process personal data on behalf of the controller, not exceeding the number who are willing to be interviewed.
+
+Data Protection
+
+2004-01
 
 (3)  In subsection (2), references to the Commissioner include references to the Commissioner’s officers and staff.
 
 (4)  Subject to subsection (6) to (8), an assessment notice must, in relation to each requirement imposed by the notice, specify the time or times at which, or period or periods within which, the requirement must be complied with.
 
-(5)  An assessment notice must provide information about the rights of appeal under section 168.
+(5)  An assessment notice must provide information about-
+
+(a) the consequences of failure to comply with it; and
+
+(b) the rights under sections 168 and 169A (appeals etc).
 
 (6)  An assessment notice may not require a person to do anything before the end of the period within which an appeal can be brought against the notice.
 
@@ -4176,21 +3790,41 @@ Data Protection
 
 (8)  If an assessment notice-
 
-(a) states that, in the Commissioner’s opinion, it is necessary for the controller or processor to comply with a requirement in the notice urgently; and
+(a) states that, in the Commissioner’s opinion, it is necessary for the controller or processor to comply with a requirement in the notice urgently;
+
+(b) gives the Commissioner’s reasons for reaching that opinion; and
+
+(c) does not meet the conditions in subsection (8A)(a) to (d),
+
+subsections (6) and (7) do not apply but the notice must not require the controller or processor to comply with the requirement before the end of the period of 7 days beginning when the notice is given.
+
+(8A)  If an assessment notice-
+
+(a) states that, in the Commissioner’s opinion, there are reasonable grounds for suspecting that a controller or processor has failed or is failing as described in section 155(2) or that an offence under this Act has been or is being committed;
+
+(b) indicates the nature of the suspected failure or offence;
 
 Data Protection
 
 2004-01
 
-(b) gives the Commissioner’s reasons for reaching that opinion,
+(c) does not specify domestic premises;
 
-subsections (6) and (7) do not apply but the notice must not require the controller or processor to comply with the requirement before the end of the period of 7 days beginning when the notice is given.
+(d) states that, in the Commissioner’s opinion, it is necessary for the controller or processor to comply with a requirement in the notice in less than 7 days; and
+
+(e) gives the Commissioner’s reasons for reaching that opinion,
+
+subsections (6) and (7) do not apply.
 
 (9)  The Commissioner may cancel an assessment notice by written notice to the controller or processor to whom it was given.
 
 (10)  Where the Commissioner gives an assessment notice to a processor, the Commissioner must, so far as reasonably practicable, give a copy of the notice to each controller for whom the processor processes personal data.
 
-(11)  In this section, “specified” means specified in an assessment notice.
+(11)  In this section-
+
+“domestic premises” means premises, or a part of premises, used as a dwelling;
+
+“specified” means specified in an assessment notice.
 
 Assessment notices: restrictions.
 
@@ -4206,6 +3840,10 @@ Assessment notices: restrictions.
 
 (a) between a professional legal adviser and the adviser’s client or between such an adviser or client and another person;
 
+Data Protection
+
+2004-01
+
 (b) in connection with or in contemplation of proceedings under or arising out of the data protection legislation; and
 
 (c) for the purposes of such proceedings.
@@ -4213,10 +3851,6 @@ Assessment notices: restrictions.
 (4)  In subsections (2) and (3)-
 
 (a) references to the client of a professional legal adviser include references to a person acting on behalf of such a client; and
-
-Data Protection
-
-2004-01
 
 (b) references to a communication include-
 
@@ -4242,15 +3876,15 @@ Destroying or falsifying information and documents etc.
 
 with the intention of preventing the Commissioner from viewing, or being provided with or directed to, all or part of the information, document, equipment or material.
 
+Data Protection
+
+2004-01
+
 (3)  It is a defence for a person charged with an offence under subsection (2) to prove that the destruction, disposal, concealment, blocking or falsification would have occurred in the absence of the person being given the notice.
 
 Enforcement notices
 
 Enforcement notices.
-
-Data Protection
-
-2004-01
 
 155.(1)  Where the Commissioner is satisfied that a person has failed, or is failing, as described in subsection (2), (3), (4) or (5), the Commissioner may give the person a written notice (an “enforcement notice”) which requires the person-
 
@@ -4262,27 +3896,27 @@ Data Protection
 
 (2)  The first type of failure is where a controller or processor has failed, or is failing, to comply with any of the following-
 
-(a) a provision of Chapter II of the GDPR or Chapter 2 of Part III or Chapter 2 of Part IV of this Act (principles of processing);
+(a) a provision of Chapter II of the GDPR or Chapter 2 of Part III of this Act (principles of processing);
 
-(b) a provision of Articles 12 to 22 of the GDPR or Part III or IV of this Act conferring rights on a data subject;
+(b) a provision of Articles 12 to 22 of the GDPR or Part III of this Act conferring rights on a data subject;
 
 (c) a provision of Articles 25 to 39 of the GDPR (obligations of controllers and processors);
 
-(d) a requirement to communicate a personal data breach to the Commissioner or a data subject under section 76, 77 or 117 of this Act;
+(d) a requirement to communicate a personal data breach to the Commissioner or a data subject under sections 76 or 77 of this Act;
 
-(e) the principles for transfers of personal data to third countries, non-Convention countries and international organisations in Articles 44 to 49 of the GDPR or in sections 82 to 87 or 118 of this Act.
+(e) the principles for transfers of personal data to third countries, non-Convention countries and international organisations in Articles 44 to 49 of the GDPR or in sections 82 to 87 of this Act.
 
 (3)  The second type of failure is where a monitoring body has failed, or is failing, to comply with an obligation under Article 41 of the GDPR (monitoring of approved codes of conduct).
+
+Data Protection
+
+2004-01
 
 (4)  The third type of failure is where a person who is a certification provider-
 
 (a) does not meet the requirements for accreditation;
 
 (b) has failed, or is failing, to comply with an obligation under Article 42 or 43 of the GDPR (certification of controllers and processors); or
-
-Data Protection
-
-2004-01
 
 (c) has failed, or is failing, to comply with any other provision of the GDPR (whether in the person’s capacity as a certification provider or otherwise).
 
@@ -4296,15 +3930,19 @@ Data Protection
 
 (9)  Regulations under this section-
 
-(a) may make provision about the giving of enforcement notices in respect of the failure; and
+(a) may make provision about the giving of an enforcement notice in respect of the failure, including by amending this section and sections 156 to 158; and
 
-(b) may amend this section and sections 156 to 159.
+(b) may make provision about the giving of an information notice, an assessment notice or a penalty notice, or about powers of entry and inspection, in connection with the failure, including by amending sections 150, 151, 153, 154 and 162 to 164 and Schedules 15 and 16.
 
 Enforcement notices: supplementary.
 
 156.(1)  An enforcement notice must-
 
 (a) state what the person has failed or is failing to do; and
+
+Data Protection
+
+2004-01
 
 (b) give the Commissioner’s reasons for reaching that opinion.
 
@@ -4313,10 +3951,6 @@ Enforcement notices: supplementary.
 (3)  In relation to an enforcement notice given in reliance on section 155(2), the Commissioner’s power under section 155(1)(b) to require a person to refrain from taking specified steps includes power-
 
 (a) to impose a ban relating to all processing of personal data; or
-
-Data Protection
-
-2004-01
 
 (b) to impose a ban relating only to a specified description of processing of personal data, including by specifying one or more of the following-
 
@@ -4328,7 +3962,11 @@ Data Protection
 
 (4)  Subject to subsections (6) to (8), an enforcement notice may specify the time or times at which, or period or periods within which, a requirement imposed by the notice must be complied with.
 
-(5)  An enforcement notice must provide information about the rights of appeal under section 168.
+(5)  An enforcement notice must provide information about-
+
+(a) the consequences of failure to comply with it; and
+
+(b) the rights under section 168 and 169A (appeals etc).
 
 (6)  An enforcement notice must not specify a time for compliance with a requirement in the notice which falls before the end of the period within which an appeal can be brought against the notice.
 
@@ -4340,7 +3978,11 @@ Data Protection
 
 (b) gives the Commissioner’s reasons for reaching that opinion,
 
-subsections (6) and (7) do not apply but the notice must not require the requirement to be complied with before the end of the period of 7 days beginning when the notice is given.
+Data Protection
+
+2004-01
+
+subsections (6) and (7) do not apply but the notice must not require the requirement to be complied with before the end of the period of 24 hours beginning when the notice is given.
 
 (9)  In this section, “specified” means specified in an enforcement notice.
 
@@ -4350,11 +3992,7 @@ Enforcement notices: rectification and erasure of personal data etc.
 
 (a) to comply with a data protection principle relating to accuracy; or
 
-Data Protection
-
-2004-01
-
-(b) to comply with a data subject’s request to exercise rights under Article 16, 17 or 18 of the GDPR (right to rectification, erasure or restriction on processing) or section 55, 56 or 109 of this Act.
+(b) to comply with a data subject’s request to exercise rights under Article 16, 17 or 18 of the GDPR (right to rectification, erasure or restriction on processing) or section 55 or 56 of this Act.
 
 (2)  If the enforcement notice requires the controller or processor to rectify or erase inaccurate personal data, it may also require the controller or processor to rectify or erase any other data which-
 
@@ -4372,6 +4010,10 @@ Data Protection
 
 as well as imposing requirements under subsection (2).
 
+Data Protection
+
+2004-01
+
 (4)  When deciding what steps it is reasonable to specify under subsection (3)(a), the Commissioner must have regard to the purpose for which the data was obtained and further processed.
 
 (5)  Subsections (6) and (7) apply where-
@@ -4382,19 +4024,13 @@ as well as imposing requirements under subsection (2).
 
 (6)  An enforcement notice may, if reasonably practicable, require the controller or processor to notify third parties to whom the data has been disclosed of the rectification or erasure.
 
-Data Protection
-
-2004-01
-
 (7)  In determining whether it is reasonably practicable to require such notification, the Commissioner must have regard, in particular, to the number of people who would have to be notified.
 
 (8)  In this section, “data protection principle relating to accuracy” means the principle in-
 
-(a) Article 5(1)(d) of the GDPR;
+(a) Article 5(1)(d) of the GDPR; or
 
-(b) section 47(1) of this Act; or
-
-(c) section 98 of this Act.
+(b) section 47(1) of this Act.
 
 Enforcement notices: restrictions.
 
@@ -4408,15 +4044,15 @@ Enforcement notices: restrictions.
 
 (a) the Commissioner has reason to suspect a failure described in section 155(2) which is of substantial public importance; and
 
+Data Protection
+
+2004-01
+
 (b) the controller or processor has been given notice of the application for leave in accordance with rules of court or the case is urgent.
 
 (3)  An enforcement notice does not require a person to do something to the extent that requiring the person to do it would involve an infringement of the privileges of Parliament.
 
-(4)  In the case of a joint controller in respect of the processing of personal data to which Part III or IV applies whose responsibilities for compliance with that Part are determined in an arrangement under section 67 or 113, the Commissioner may only give the controller an enforcement notice in reliance on section 155(2) if the controller is responsible for compliance with the provision, requirement or principle in question.
-
-Data Protection
-
-2004-01
+(4)  In the case of a joint controller in respect of the processing of personal data to which Part III applies whose responsibilities for compliance with that Part are determined in an arrangement under section 67, the Commissioner may only give the controller an enforcement notice in reliance on section 155(2) if the controller is responsible for compliance with the provision, requirement or principle in question.
 
 Enforcement notices: cancellation and variation.
 
@@ -4440,17 +4076,19 @@ Authorised officers.
 
 161.(1)  In this section "authorised officer" means a person authorised in writing by the Commissioner to exercise, for the purposes of this Act, the powers conferred by this section.
 
-(2)  Authorised officers shall have such powers to enter, inspect, search premises, examine, operate and test any data equipment, inspect and copy or extract information from data, or inspect and copy or take extracts from such material and require persons to disclose or produce material or information as is necessary or expedient in the opinion of the Commissioner for the performance by the Commissioner of his functions.
+(2)  Authorised officers shall have such powers to enter, inspect, search premises, examine, operate and test any data equipment, inspect and copy or
+
+Data Protection
+
+2004-01
+
+extract information from data, or inspect and copy or take extracts from such material and require persons to disclose or produce material or information as is necessary or expedient in the opinion of the Commissioner for the performance by the Commissioner of his functions.
 
 (3)  A person who obstructs or impedes an authorised officer in the exercise of a power provided by this Act, or, without reasonable excuse, does not comply with a requirement under this section or who in purported compliance with such a requirement gives information to an authorised officer that he knows to be false or misleading in a material respect, shall be guilty of an offence.
 
 Penalties
 
 Penalty notices.
-
-Data Protection
-
-2004-01
 
 162.(1)  If the Commissioner is satisfied that a person-
 
@@ -4472,19 +4110,19 @@ the Commissioner may, by written notice (a “penalty notice”), require the pe
 
 (b) the intentional or negligent character of the failure;
 
+Data Protection
+
+2004-01
+
 (c) any action taken by the controller or processor to mitigate the damage or distress suffered by data subjects;
 
-(d) the degree of responsibility of the controller or processor, taking into account technical and organisational measures implemented by the controller or processor in accordance with section 66, 75, 112 or 116;
+(d) the degree of responsibility of the controller or processor, taking into account technical and organisational measures implemented by the controller or processor in accordance with section 66 or 75;
 
 (e) any relevant previous failures by the controller or processor;
 
 (f) the degree of co-operation with the Commissioner, in order to remedy the failure and mitigate the possible adverse effects of the failure;
 
 (g) the categories of personal data affected by the failure;
-
-Data Protection
-
-2004-01
 
 (h) the manner in which the infringement became known to the Commissioner, including whether, and if so to what extent, the controller or processor notified the Commissioner of the failure;
 
@@ -4502,6 +4140,10 @@ Data Protection
 
 (6)  The Minister may by regulations-
 
+Data Protection
+
+2004-01
+
 (a) confer power on the Commissioner to give a penalty notice in respect of other failures to comply with the data protection legislation; and
 
 (b) provide for the maximum penalty that may be imposed in relation to such failures to be either the standard maximum amount or the higher maximum amount.
@@ -4513,10 +4155,6 @@ Data Protection
 (b) may amend this section and sections 163 to 165.
 
 (8)  In this section, “higher maximum amount” and “standard maximum amount” have the same meaning as in section 164.
-
-Data Protection
-
-2004-01
 
 Penalty notices: restrictions.
 
@@ -4534,7 +4172,13 @@ Penalty notices: restrictions.
 
 (3)  The Commissioner may not give a controller or processor a penalty notice with respect to the processing of personal data where the purposes and manner of the processing are determined by or on behalf of Parliament.
 
-(4)  In the case of a joint controller in respect of the processing of personal data to which Part III or IV applies whose responsibilities for compliance with that Part are determined in an arrangement under section 67 or 113, the Commissioner may only give the controller a penalty notice in reliance on section 155(2) if the controller is responsible for compliance with the provision, requirement or principle in question.
+(4)  In the case of a joint controller in respect of the processing of personal data to which Part III applies whose responsibilities for compliance with that Part are determined in an arrangement under section 67, the Commissioner
+
+Data Protection
+
+2004-01
+
+may only give the controller a penalty notice in reliance on section 155(2) if the controller is responsible for compliance with the provision, requirement or principle in question.
 
 Maximum amount of penalty.
 
@@ -4546,19 +4190,11 @@ Maximum amount of penalty.
 
 (2)  In relation to an infringement of a provision of Part III of this Act, the maximum amount of the penalty that may be imposed by a penalty notice is-
 
-Data Protection
-
-2004-01
-
 (a) in relation to a failure to comply with section 44, 45, 46, 47(1), 48(1), 49, 53, 54, 55, 56, 57, 58, 61, 62, 82, 83, 84, 85, 86 or 87, the higher maximum amount; and
 
 (b) otherwise, the standard maximum amount.
 
-(3)  In relation to an infringement of a provision of Part IV of this Act, the maximum amount of the penalty that may be imposed by a penalty notice is-
-
-(a) in relation to a failure to comply with section 95, 96, 97, 98, 99, 100, 102, 103, 109 or 118, the higher maximum amount; and
-
-(b) otherwise, the standard maximum amount.
+(3)  Deleted.
 
 (4)  In relation to a failure to comply with an information notice, an assessment notice or an enforcement notice, the maximum amount of the penalty that may be imposed by a penalty notice is the higher maximum amount.
 
@@ -4574,15 +4210,15 @@ Data Protection
 
 (b) in any other case, 10 million Euros.
 
+Data Protection
+
+2004-01
+
 (7)  The maximum amount of a penalty in sterling must be determined by applying the spot rate of exchange set by the Bank of England on the day on which the penalty notice is given.
 
 Fixed penalties for non-compliance with charges regulations.
 
 165.(1)  The Commissioner must produce and publish a document specifying the amount of the penalty for a failure to comply with regulations made under section 145.
-
-Data Protection
-
-2004-01
 
 (2)  The Commissioner may specify different amounts for different types of failure.
 
@@ -4610,45 +4246,71 @@ Amount of penalties: supplementary.
 
 (2)  For the purposes of Article 83 of the GDPR, section 164 and section 165, the Minister may by regulations provide that a period is or is not a financial year.
 
+Data Protection
+
+2004-01
+
 Guidance
 
 Guidance about regulatory action.
 
 167.(1)  The Commissioner must produce and publish guidance about how the Commissioner proposes to exercise the Commissioner’s functions in connection with-
 
-(a) assessment notices;
+(a) information notices;
 
-Data Protection
+(b) assessment notices;
 
-2004-01
+(c) enforcement notices; and
 
-(b) enforcement notices; and
-
-(c) penalty notices.
+(d) penalty notices.
 
 (2)  The Commissioner may produce and publish guidance about how the Commissioner proposes to exercise the Commissioner’s other functions under this Part.
+
+(2A)  In relation to information notices the guidance must include-
+
+(a) provision specifying factors to be considered in determining the time at which, or the period within which, information is to be required to be provided;
+
+(b) provision about the circumstances in which the Commissioner would consider it appropriate to give an information notice to a person in reliance on section 150(7) (urgent cases);
+
+(c) provision about how the Commissioner will determine how to proceed if a person does not comply with an information notice.
 
 (3)  In relation to assessment notices, the guidance must include-
 
 (a) provision specifying factors to be considered in determining whether to give an assessment notice to a person;
 
-(b) provision specifying descriptions of documents or information that-
+(b) provision about the circumstances in which the Commissioner would consider it appropriate to give an assessment notice in reliance on section 153(8) or (8A) (urgent cases);
+
+(c) provision specifying descriptions of documents or information that-
+
+Data Protection
+
+2004-01
 
 (i) are not to be examined or inspected in accordance with an assessment notice, or
 
 (ii) are to be so examined or inspected only by a person of a description specified in the guidance;
 
-(c) provision about the nature of inspections and examinations carried out in accordance with an assessment notice;
+(d) provision about the nature of inspections and examinations carried out in accordance with an assessment notice;
 
-(d) provision about the nature of interviews carried out in accordance with an assessment notice;
+(e) provision about the nature of interviews carried out in accordance with an assessment notice;
 
-(e) provision about the preparation, issuing and publication by the Commissioner of assessment reports in respect of controllers and processors that have been given assessment notices.
+(f) provision about the preparation, issuing and publication by the Commissioner of assessment reports in respect of controllers and processors that have been given assessment notices;
 
-(4)  The guidance produced in accordance with subsection (3)(b) must include provisions that relate to-
+(g) provision about how the Commissioner will determine how to proceed if a person does not comply with an assessment notice.
+
+(4)  The guidance produced in accordance with subsection (3)(c) must include provisions that relate to-
 
 (a) documents and information concerning an individual’s physical or mental health;
 
 (b) documents and information concerning the provision of social care for an individual.
+
+(4A)  In relation to enforcement notices, the guidance must include-
+
+(a) provision specifying factors to be considered in determining whether to give an enforcement notice to a person;
+
+(b) provision about the circumstances in which the Commissioner would consider it appropriate to give an enforcement notice to a person in reliance on section 156(8) (urgent cases);
+
+(c) provision about how the Commissioner will determine how to proceed if a person does not comply with an enforcement notice.
 
 (5)  In relation to penalty notices, the guidance must include-
 
@@ -4660,7 +4322,9 @@ Data Protection
 
 (b) provision about the circumstances in which the Commissioner would consider it appropriate to allow a person to make oral representations about the Commissioner’s intention to give the person a penalty notice;
 
-(c) provision explaining how the Commissioner will determine the amount of penalties.
+(c) provision explaining how the Commissioner will determine the amount of penalties;
+
+(d) provision about how the Commissioner will determine how to proceed if a person does not comply with a penalty notice.
 
 (6)  The Commissioner-
 
@@ -4672,7 +4336,7 @@ Data Protection
 
 (a) the Minister; and
 
-(b) such other persons as the Minister considers appropriate.
+(b) such other persons as the Commissioner considers appropriate.
 
 Appeals
 
@@ -4692,17 +4356,11 @@ Rights of appeal.
 
 (2)  A controller or processor on which a notice listed under subsection (1) has been served, who wants to appeal must do so within 28 days from the date on which the notice is served.
 
-(3)  Where a notice listed in subsection (1) contains a statement under section 150(7)(a), 153(8)(a) or 156(8)(a) (urgency), the person given the notice may appeal against-
+(3)  Deleted.
 
 Data Protection
 
 2004-01
-
-(a) the Commissioner’s decision to include the statement in the notice; or
-
-(b) the effect of its inclusion as respects any part of the notice,
-
-whether or not the person appeals against the notice.
 
 (4)  A person who is given an enforcement notice may appeal to the Magistrate’s Court against the refusal of an application under section 159 for the cancellation or variation of the notice.
 
@@ -4726,29 +4384,57 @@ the Magistrate’s Court must allow the appeal or substitute another notice or d
 
 (4)  If the Magistrate’s Court does not allow the appeal or substitute another notice or decision under subsection (3), it must dismiss the appeal.
 
-(5)  On an appeal under section 168(3), the Magistrate’s Court may direct-
-
-Data Protection
-
-2004-01
-
-(a) that the notice against which the appeal is brought is to have effect as if it did not contain the statement under section 150(7)(a), 153(8)(a) or 156(8)(a) (urgency); or
-
-(b) that the inclusion of that statement is not to have effect in relation to any part of the notice,
-
-and may make such modifications to the notice as are required to give effect to the direction.
+(5)  Deleted.
 
 (6)  On an appeal under section 168(4), if the Magistrate’s Court considers that the enforcement notice ought to be cancelled or varied by reason of a change in circumstances, the Magistrate’s Court must cancel or vary the notice.
 
 (7)  On an appeal under section 168(6), the Magistrate’s Court may cancel the Commissioner’s determination.
 
+Data Protection
+
+2004-01
+
+Applications in respect of urgent notices.
+
+169A.(1)  This section applies where an information notice, an assessment notice or an enforcement notice given to a person contains an urgency statement.
+
+(2)  The person may apply to the court for either or both of the following-
+
+(a) the disapplication of the urgency statement in relation to some or all of the requirements of the notice;
+
+(b) a change to the time at which, or the period within which, a requirement of the notice must be complied with.
+
+(3)  On an application under subsection (2), the court may do any of the following-
+
+(a) direct that the notice is to have effect as if it did not contain the urgency statement;
+
+(b) direct that the inclusion of the urgency statement is not to have effect in relation to a requirement of the notice;
+
+(c) vary the notice by changing the time at which, or the period within which, a requirement of the notice must be complied with;
+
+(d) vary the notice by making other changes required to give effect to a direction under paragraph (a) or (b), or in consequence of a variation under paragraph (c).
+
+(4)  The decision of the court on an application under this section is final.
+
+(5)  In this section, “urgency statement” means-
+
+(a) in relation to an information notice, a statement under section 150(7)(a);
+
+(b) in relation to an assessment notice, a statement under section 153(8)(a) or (8A)(d); and
+
+(c) in relation to an enforcement notice, a statement under section 156(8)(a).
+
 Complaints
+
+Data Protection
+
+2004-01
 
 Complaints by data subjects.
 
 170.(1)  Articles 57(1)(f) and (2) and 77 of the GDPR (data subject’s right to lodge a complaint) confer rights on data subjects to complain to the Commissioner if the data subject considers that, in connection with personal data relating to him or her, there is an infringement of the GDPR.
 
-(2)  A data subject may make a complaint to the Commissioner if the data subject considers that, in connection with personal data relating to him or her, there is an infringement of Part III or IV of this Act.
+(2)  A data subject may make a complaint to the Commissioner if the data subject considers that, in connection with personal data relating to him or her, there is an infringement of Part III of this Act.
 
 (3)  The Commissioner must facilitate the making of complaints under subsection (2) by taking steps such as providing a complaint form which can be completed electronically and by other means.
 
@@ -4762,10 +4448,6 @@ Complaints by data subjects.
 
 (d) if asked to do so by the complainant, provide the complainant with further information about how to pursue the complaint.
 
-Data Protection
-
-2004-01
-
 (5)  The reference in subsection (4)(a) to taking appropriate steps in response to a complaint includes-
 
 (a) investigating the subject matter of the complaint, to the extent appropriate; and
@@ -4775,6 +4457,10 @@ Data Protection
 (6)  If the Commissioner receives a complaint relating to the infringement of a data subject’s rights under provisions adopted by a Member State or the United Kingdom pursuant to the Law Enforcement Directive, the Commissioner must-
 
 (a) send the complaint to the relevant supervisory authority for the purposes of that Directive;
+
+Data Protection
+
+2004-01
 
 (b) inform the complainant that the Commissioner has done so; and
 
@@ -4792,13 +4478,7 @@ Orders to progress complaints.
 
 (a) fails to take appropriate steps to respond to the complaint;
 
-(b) fails to provide the complainant with information about progress on the complaint, or of the outcome of the complaint,
-
-Data Protection
-
-2004-01
-
-before the end of the period of 3 months beginning when the Commissioner received the complaint; or
+(b) fails to provide the complainant with information about progress on the complaint, or of the outcome of the complaint, before the end of the period of 3 months beginning when the Commissioner received the complaint; or
 
 (c) if the Commissioner’s consideration of the complaint is not concluded during that period, fails to provide the complainant with such information during a subsequent period of 3 months.
 
@@ -4811,6 +4491,10 @@ before the end of the period of 3 months beginning when the Commissioner receive
 (3)  An order under subsection (2)(a) may require the Commissioner-
 
 (a) to take steps specified in the order;
+
+Data Protection
+
+2004-01
 
 (b) to conclude an investigation, or take a specified step, within a period specified in the order.
 
@@ -4830,15 +4514,7 @@ Compliance orders.
 
 (3)  The order may, in relation to each step, specify the time at which, or the period within which, it must be taken.
 
-(4)  In subsection (1)-
-
-Data Protection
-
-2004-01
-
-(a) the reference to an application by a data subject includes an application made in exercise of the right under Article 79(1) of the GDPR (right to an effective remedy against a controller or processor);
-
-(b) the reference to the data protection legislation does not include Part IV of this Act or regulations made under that Part.
+(4)  In subsection (1), the reference to an application by a data subject includes an application made in exercise of the right under Article 79(1) of the GDPR (right to an effective remedy against a controller or processor).
 
 (5)  In relation to a joint controller in respect of the processing of personal data to which Part III applies whose responsibilities are determined in an arrangement under section 67, a court may only make an order under this section if the controller is responsible for compliance with the provision of the data protection legislation that is contravened.
 
@@ -4849,6 +4525,10 @@ Compensation for contravention of the GDPR.
 (2)  Subsection (3) applies where-
 
 (a) in accordance with rules of court, proceedings under Article 82 of the GDPR are brought by a representative body on behalf of a person; and
+
+Data Protection
+
+2004-01
 
 (b) a court orders the payment of compensation.
 
@@ -4866,10 +4546,6 @@ Compensation for contravention of other data protection legislation.
 
 (a) a controller involved in processing of personal data is liable for any damage caused by the processing; and
 
-Data Protection
-
-2004-01
-
 (b) a processor involved in processing of personal data is liable for damage caused by the processing only if the processor-
 
 (i) has not complied with an obligation under the data protection legislation specifically directed at processors, or
@@ -4878,11 +4554,15 @@ Data Protection
 
 (3)  A controller or processor is not liable as described in subsection (2) if the controller or processor proves that the controller or processor is not in any way responsible for the event giving rise to the damage.
 
-(4)  A joint controller in respect of the processing of personal data to which Part III or IV applies whose responsibilities are determined in an arrangement under section 67 or 113 is only liable as described in subsection (2) if the controller is responsible for compliance with the provision of the data protection legislation that is contravened.
+(4)  A joint controller in respect of the processing of personal data to which Part III applies whose responsibilities are determined in an arrangement under section 67 is only liable as described in subsection (2) if the controller is responsible for compliance with the provision of the data protection legislation that is contravened.
 
 (5)  In this section, “damage” includes financial loss and damage not involving financial loss, such as distress.
 
 Offences relating to personal data
+
+Data Protection
+
+2004-01
 
 Unlawful obtaining etc of personal data.
 
@@ -4897,10 +4577,6 @@ Unlawful obtaining etc of personal data.
 (2)  It is a defence for a person charged with an offence under subsection (1) to prove that the obtaining, disclosing, procuring or retaining-
 
 (a) was necessary for the purposes of preventing or detecting crime;
-
-Data Protection
-
-2004-01
 
 (b) was required or authorised by an enactment, by a rule of law or by the order of a court or tribunal; or
 
@@ -4918,6 +4594,10 @@ Data Protection
 
 (ii) with a view to the publication by a person of any journalistic, academic, artistic or literary material, and
 
+Data Protection
+
+2004-01
+
 (iii) in the reasonable belief that in the particular circumstances the obtaining, disclosing, procuring or retaining was justified as being in the public interest.
 
 (4)  It is an offence for a person to sell personal data if the person obtained the data in circumstances in which an offence under subsection (1) was committed.
@@ -4932,11 +4612,7 @@ Data Protection
 
 (7)  In this section-
 
-Data Protection
-
-2004-01
-
-(a) references to the consent of a controller do not include the consent of a person who is a controller by virtue of Article 28(10) of the GDPR or section 68(8) or 114(3) of this Act (processor to be treated as controller in certain circumstances);
+(a) references to the consent of a controller do not include the consent of a person who is a controller by virtue of Article 28(10) of the GDPR or section 68(8) of this Act (processor to be treated as controller in certain circumstances);
 
 (b) where there is more than one controller, such references are references to the consent of one or more of them.
 
@@ -4952,6 +4628,10 @@ Re-identification of de-identified personal data.
 
 (3)  It is a defence for a person charged with an offence under subsection (1) to prove that the re-identification-
 
+Data Protection
+
+2004-01
+
 (a) was necessary for the purposes of preventing or detecting crime;
 
 (b) was required or authorised by an enactment, by a rule of law or by the order of a court or tribunal; or
@@ -4965,10 +4645,6 @@ Re-identification of de-identified personal data.
 (i) is the data subject to whom the information relates,
 
 (ii) had the consent of that data subject, or
-
-Data Protection
-
-2004-01
 
 (iii) would have had such consent if the data subject had known about the re-identification and the circumstances of it;
 
@@ -4988,6 +4664,10 @@ Data Protection
 
 (iii) in the reasonable belief that in the particular circumstances the re-identification was justified as being in the public interest; or
 
+Data Protection
+
+2004-01
+
 (d) the effectiveness testing conditions were met as per section 177.
 
 (5)  It is an offence for a person knowingly or recklessly to process personal data that is information that has been re-identified where the person does so-
@@ -4999,10 +4679,6 @@ Data Protection
 (6)  It is a defence for a person charged with an offence under subsection (5) to prove that the processing-
 
 (a) was necessary for the purposes of preventing or detecting crime;
-
-Data Protection
-
-2004-01
 
 (b) was required or authorised by an enactment, by a rule of law or by the order of a court or tribunal; or
 
@@ -5024,19 +4700,19 @@ Data Protection
 
 (ii) with a view to the publication by a person of any journalistic, academic, artistic or literary material, and
 
+Data Protection
+
+2004-01
+
 (iii) in the reasonable belief that in the particular circumstances the processing was justified as being in the public interest.
 
 (8)  In this section-
 
-(a) references to the consent of a controller do not include the consent of a person who is a controller by virtue of Article 28(10) of the GDPR or section 68(8) or 114(3) of this Act (processor to be treated as controller in certain circumstances);
+(a) references to the consent of a controller do not include the consent of a person who is a controller by virtue of Article 28(10) of the GDPR or section 68(8) of this Act (processor to be treated as controller in certain circumstances);
 
 (b) where there is more than one controller, such references are references to the consent of one or more of them.
 
 Re-identification: effectiveness testing conditions.
-
-Data Protection
-
-2004-01
 
 177.(1)  For the purposes of section 176, in relation to a person who re- identifies information that is de-identified personal data, “the effectiveness testing conditions” means the conditions in subsections (2) and (3).
 
@@ -5056,6 +4732,10 @@ Data Protection
 
 (4)  Where there is more than one controller responsible for de-identifying personal data, the requirement in subsection (3) is satisfied if one or more of them is notified.
 
+Data Protection
+
+2004-01
+
 Alteration etc of personal data to prevent disclosure.
 
 178.(1)  Subsection (3) applies where-
@@ -5070,13 +4750,7 @@ Alteration etc of personal data to prevent disclosure.
 
 (b) Article 20 of the GDPR (right to data portability);
 
-Data Protection
-
-2004-01
-
-(c) section 54 of this Act (law enforcement processing: right of access by the data subject);
-
-(d) section 103 of this Act (intelligence services processing: right of access by the data subject).
+(c) section 54 of this Act (law enforcement processing: right of access by the data subject).
 
 (3)  It is an offence for a person listed in subsection (4) to alter, deface, block, erase, destroy or conceal information with the intention of preventing disclosure of all or part of the information that the person making the request would have been entitled to receive.
 
@@ -5096,6 +4770,10 @@ The special purposes
 
 The special purposes.
 
+Data Protection
+
+2004-01
+
 179.(1)  In this Part, “the special purposes” means one or more of the following-
 
 (a) the purposes of journalism;
@@ -5105,10 +4783,6 @@ The special purposes.
 (c) artistic purposes;
 
 (d) literary purposes.
-
-Data Protection
-
-2004-01
 
 (2)  In this Part, “special purposes proceedings” means legal proceedings against a controller or processor which relate, wholly or partly, to personal data processed for the special purposes and which are-
 
@@ -5132,15 +4806,15 @@ Data Protection
 
 (b) an appeal has been brought against the determination and-
 
+Data Protection
+
+2004-01
+
 (i) the appeal and any further appeal in relation to the determination has been decided or has otherwise ended, and
 
 (ii) the time for appealing against the result of the appeal or further appeal has ended without another appeal having been brought.
 
 Provision of assistance in special purposes proceedings.
-
-Data Protection
-
-2004-01
 
 180.(1)  An individual who is a party, or prospective party, to special purposes proceedings may apply to the Commissioner for assistance in those proceedings.
 
@@ -5162,15 +4836,17 @@ Data Protection
 
 (b) indemnifying the applicant in respect of liability to pay costs, expenses or damages in connection with the proceedings.
 
-(7)  The recovery of expenses incurred by the Commissioner in providing an applicant with assistance under this section, as taxed or assessed in accordance with rules of court, is to constitute a first charge for the benefit of the Commissioner-
-
-(a) on any costs which, by virtue of any judgment or order of the court, are payable to the applicant by any other person in respect of the matter in connection with which the assistance is provided; and
-
-(b) on any sum payable to the applicant under a compromise or settlement arrived at in connection with that matter to avoid, or bring to an end, any proceedings.
+(7)  The recovery of expenses incurred by the Commissioner in providing an applicant with assistance under this section, as taxed or assessed in
 
 Data Protection
 
 2004-01
+
+accordance with rules of court, is to constitute a first charge for the benefit of the Commissioner-
+
+(a) on any costs which, by virtue of any judgment or order of the court, are payable to the applicant by any other person in respect of the matter in connection with which the assistance is provided; and
+
+(b) on any sum payable to the applicant under a compromise or settlement arrived at in connection with that matter to avoid, or bring to an end, any proceedings.
 
 Staying special purposes proceedings.
 
@@ -5192,11 +4868,53 @@ the court must stay the proceedings.
 
 (b) where the proceedings were stayed on the making of a claim, the claim is withdrawn.
 
+Guidance about how to seek redress against media organisations.
+
+181A.(1)  The Commissioner may produce and publish guidance about the steps that may be taken where an individual considers that a media organisation is failing or has failed to comply with the data protection legislation.
+
+Data Protection
+
+2004-01
+
+(2)  In this section, “media organisation” means a body or other organisation whose activities consist of or include journalism.
+
+(3)  The guidance must include provision about relevant complaints procedures, including-
+
+(a) who runs them;
+
+(b) what can be complained about; and
+
+(c) how to make a complaint.
+
+(4)  For the purposes of subsection (3), relevant complaints procedures include procedures for making complaints to the Commissioner, and other persons who produce or enforce codes of practice for media organisations.
+
+(5)  The guidance may include provision about-
+
+(a) the powers available to the Commissioner in relation to a failure to comply with the data protection legislation;
+
+(b) when a claim in respect of such a failure may be made before a court and how to make such a claim;
+
+(c) alternative dispute resolution procedures;
+
+(d) the rights of bodies and other organisations to make complaints and claims on behalf of data subjects; and
+
+(e) the Commissioner’s power to provide assistance in special purpose proceedings.
+
+(6)  The Commissioner-
+
+(a) may alter or replace the guidance; and
+
+(b) must publish any altered or replacement guidance.
+
 Jurisdiction of courts
 
 Jurisdiction.
 
 182.(1)  The jurisdiction conferred on a court by the provisions listed in subsection (2) is exercisable by the Magistrate’s Court.
+
+Data Protection
+
+2004-01
 
 (2)  Those provisions are-
 
@@ -5206,17 +4924,9 @@ Jurisdiction.
 
 (c) section 172 and Article 79 of the GDPR (compliance orders);
 
-Data Protection
-
-2004-01
-
 (d) sections 173 and 174 and Article 82 of the GDPR (compensation);
 
 (e) section 152A (information orders).
-
-Data Protection
-
-2004-01
 
 Definitions
 
@@ -5246,6 +4956,10 @@ Regulations under this Act
 
 Regulations, rules of court and consultation.
 
+Data Protection
+
+2004-01
+
 184.(1)  The Minister may make regulations for-
 
 (a) carrying out the purposes of this Act; or
@@ -5259,10 +4973,6 @@ Regulations, rules of court and consultation.
 (iii) the Data Protection Convention, or
 
 (iv) articles 126 to 130 of the Convention of 1990 Applying the Schengen Agreement of 14 June 1985.
-
-Data Protection
-
-2004-01
 
 (2)  Before making regulations under this Act, the Minister must consult-
 
@@ -5290,6 +5000,10 @@ Data Protection
 
 (b) the power to make any consequential amendments to Gibraltar law to amend references to this Act.
 
+Data Protection
+
+2004-01
+
 Changes to the Data Protection Convention
 
 Power to reflect changes to the Data Protection Convention.
@@ -5300,17 +5014,13 @@ Power to reflect changes to the Data Protection Convention.
 
 (a) to amend or replace the definition of “the Data Protection Convention” in section 2;
 
-Data Protection
-
-2004-01
-
 (b) to amend Chapter 3 of Part II of this Act;
 
-(c) to amend Part IV of this Act;
+(c) Deleted
 
-(d) to make provision about the functions of the Commissioner, courts or tribunals in connection with processing of personal data to which Chapter 3 of Part II or Part IV of this Act applies, including provision amending Parts V to VII of this Act;
+(d) to make provision about the functions of the Commissioner, courts or tribunals in connection with processing of personal data to which Chapter 3 of Part II of this Act applies, including provision amending Parts V to VII of this Act;
 
-(e) to make provision about the functions of the Commissioner in connection with the Data Protection Convention or an instrument replacing that Convention, including provision amending Parts 5 to 7 of this Act;
+(e) to make provision about the functions of the Commissioner in connection with the Data Protection Convention or an instrument replacing that Convention, including provision amending Parts V to VII of this Act;
 
 (f) to consequentially amend this Act.
 
@@ -5328,6 +5038,10 @@ Prohibition of requirement to produce relevant records.
 
 (2)  It is an offence for a person (“P2”) to require another person to provide P2 with, or give P2 access to, a relevant record if-
 
+Data Protection
+
+2004-01
+
 (a) P2 is involved in the provision of goods, facilities or services to the public or a section of the public; and
 
 (b) the requirement is a condition of providing or offering to provide goods, facilities or services to the other person or to a third party.
@@ -5335,10 +5049,6 @@ Prohibition of requirement to produce relevant records.
 (3)  It is a defence for a person charged with an offence under subsection (1) or (2) to prove that imposing the requirement-
 
 (a) was required or authorised by an enactment, by a rule of law or by the order of a court or tribunal; or
-
-Data Protection
-
-2004-01
 
 (b) in the particular circumstances, was justified as being in the public interest.
 
@@ -5364,6 +5074,10 @@ and the references to a “requirement” in subsections (3) and (4) are to be i
 
 (d) voluntary work,
 
+Data Protection
+
+2004-01
+
 and “employee” is to be interpreted accordingly;
 
 “relevant record” has the meaning given in Schedule 17 and references to a relevant record include-
@@ -5373,10 +5087,6 @@ and “employee” is to be interpreted accordingly;
 (b) a copy of, or of part of, such a record.
 
 Avoidance of certain contractual terms relating to health records.
-
-Data Protection
-
-2004-01
 
 187.(1)  A term or condition of a contract is void in so far as it purports to require an individual to supply another person with a record which-
 
@@ -5394,9 +5104,7 @@ Data Protection
 
 (b) Article 20 of the GDPR (right to data portability);
 
-(c) section 54 of this Act (law enforcement processing: right of access by the data subject);
-
-(d) section 103 of this Act (intelligence services processing: right of access by the data subject).
+(c) section 54 of this Act (law enforcement processing: right of access by the data subject).
 
 Data subject’s rights and other prohibitions and restrictions.
 
@@ -5404,25 +5112,21 @@ Data subject’s rights and other prohibitions and restrictions.
 
 (2)  The provisions providing obligations and rights are-
 
-(a) Chapter III of the GDPR (rights of the data subject);
-
-(b) Chapter 3 of Part III of this Act (law enforcement processing: rights of the data subject); and
-
-(c) Chapter 3 of Part IV of this Act (intelligence services processing: rights of the data subject).
-
-(3)  The provisions providing exceptions are-
+(a) Chapter III of the GDPR (rights of the data subject); and
 
 Data Protection
 
 2004-01
 
-(a) in Chapter 2 of Part II of this Act, sections 19 and 20 and Schedules 2, 3 and 4;
+(b) Chapter 3 of Part III of this Act (law enforcement processing: rights of the data subject).
 
-(b) in Chapter 3 of Part II of this Act, sections 27 and 28;
+(3)  The provisions providing exceptions are-
 
-(c) in Part III of this Act, sections 53(4), 54(4) and 57(3); and
+(a) in Chapter 2 of Part II of this Act, sections 19 and 20 and Schedules 2 and 3;
 
-(d) in Part IV of this Act, Chapter 6.
+(b) in Chapter 3 of Part II of this Act, sections 27 and 28; and
+
+(c) in Part III of this Act, sections 53(4), 54(4) and 57(3).
 
 Representation of data subjects
 
@@ -5442,13 +5146,13 @@ Representation of data subjects with their authority.
 
 (c) rights under section 172(1) (compliance orders);
 
-(d) the right to bring judicial review proceedings against the Commissioner.
-
-(3)  The first condition is that the body or organisation, by virtue of its constitution or an enactment-
-
 Data Protection
 
 2004-01
+
+(d) the right to bring judicial review proceedings against the Commissioner.
+
+(3)  The first condition is that the body or organisation, by virtue of its constitution or an enactment-
 
 (a) is required, after payment of outgoings, to apply the whole of its income and any capital it expends for charitable or public purposes;
 
@@ -5476,17 +5180,19 @@ Representation of data subjects with their authority: collective proceedings.
 
 (a) the effect of judgments and orders;
 
-(b) agreements to settle claims;
-
-(c) the assessment of the amount of compensation;
-
 Data Protection
 
 2004-01
 
+(b) agreements to settle claims;
+
+(c) the assessment of the amount of compensation;
+
 (d) the persons to whom compensation may or must be paid, including compensation not claimed by the data subject;
 
 (e) costs.
+
+Framework for Data Processing by Government
 
 Duty to review provision for representation of data subjects.
 
@@ -5494,9 +5200,7 @@ Duty to review provision for representation of data subjects.
 
 (a) review the matters listed in subsection (2) in relation to Gibraltar;
 
-(b) prepare a report of the review; and
-
-(c) lay a copy of the report before Parliament.
+(b) prepare and publish a report of the review.
 
 (2)  Those matters are-
 
@@ -5504,21 +5208,65 @@ Duty to review provision for representation of data subjects.
 
 (b) the operation of section 189;
 
-(c) the merits of exercising the power under Article 80(2) of the GDPR (power to enable a body or other organisation which meets the conditions in Article 80(1) of the GDPR to exercise some or all of a data subject’s rights under Articles 77, 78 and 79 of the GDPR without being authorised to do so by the data subject); and
+(c) the merits of exercising the power under Article 80(2) of the GDPR (power to enable a body or other organisation which meets the conditions in Article 80(1) of the GDPR to exercise some or all of a data subject’s rights under Articles 77, 78 and 79 of the GDPR without being authorised to do so by the data subject);
 
-(d) the merits of making equivalent provision in relation to data subjects’ rights under Article 82 of the GDPR (right to compensation).
+(d) the merits of making equivalent provision in relation to data subjects’ rights under Article 82 of the GDPR (right to compensation);
 
-(3)  After the report under subsection (1) is laid before Parliament, the Minister may by regulations-
+(e) the merits of making provision for a children’s rights organisation to exercise some or all of a data subject’s rights under Articles 77, 78, 79 and 82 of the GDPR on behalf of a data subject who is a child, with or without being authorised to do so by the data subject.
 
-(a) exercise the powers under Article 80(2) of the GDPR in relation to Gibraltar; and
-
-(b) make provision enabling a body or other organisation which meets the conditions in Article 80(1) of the GDPR to exercise a data subject’s rights under Article 82 of the GDPR in Gibraltar without being authorised to do so by the data subject.
-
-(4)  The powers under subsection (3) include power-
+(2A)  In carrying a review under this section, the Minister may-
 
 Data Protection
 
 2004-01
+
+(a) consider the particular needs of children separately from the needs of adults;
+
+(b) have regard to the fact that children have different needs at different stages of development;
+
+(c) carry out an analysis of the particular challenges that children face in authorising, and deciding whether to authorise, other persons to act on their behalf under Article 80(1) of the GDPR or section 189;
+
+(d) consider the support and advice available to children in connection with the exercise of their rights under Articles 77, 78, 79 and 82 of the GDPR by another person on their behalf and the merits of making available other support or advice; and
+
+(e) have consideration for the United Nations Convention on the Rights of the Child.
+
+(2B)  Before preparing the report under subsection (1), the Minister must consult the Commissioner, and may consult such other persons as the Minister considers appropriate, including-
+
+(a) persons active in the field of protection of data subjects’ rights and freedoms with regard to the protection of their personal data;
+
+(b) children and parents;
+
+(c) children’s rights organisations and other persons who appear to the Minister to represent the interests of children;
+
+(d) child development experts; and
+
+(e) trade associations.
+
+(2C)  In this section-
+
+“children’s rights organisation” means a body or other organisation which-
+
+(a) is active in representing the interests of children; and
+
+(b) has objectives which are in the public interest;
+
+Data Protection
+
+2004-01
+
+“the United Nations Convention on the Rights of the Child” means the Convention on the Rights of the Child adopted by the General Assembly of the United Nations on 20 November 1989 (including any Protocols to that Convention);
+
+“trade association” includes a body representing controllers or processors.
+
+(3)  After the report under subsection (1) is published, the Minister may by regulations-
+
+(a) exercise the powers under Article 80(2) of the GDPR in relation to Gibraltar;
+
+(b) make provision enabling a body or other organisation which meets the conditions in Article 80(1) of the GDPR to exercise a data subject’s rights under Article 82 of the GDPR in Gibraltar without being authorised to do so by the data subject; and
+
+(c) make provision described in subsection (2)(e) in relation to the exercise of the rights of a data subject who is a child.
+
+(4)  The powers under subsection (3) include power-
 
 (a) to make provision enabling a data subject to prevent a body or other organisation from exercising, or continuing to exercise, the data subject’s rights;
 
@@ -5532,7 +5280,13 @@ Data Protection
 
 (f) to insert new sections and Schedules into Part VI or VII.
 
-(5)  The provision mentioned in subsection (5)(b) and (c) includes provision about-
+(4A)  The powers under subsection (3)(a) and (b) include power to make provision in relation to data subjects who are children or data subjects who are not children, or both.
+
+Data Protection
+
+2004-01
+
+(5)  The provision mentioned in subsection (4)(b) and (c) includes provision about-
 
 (a) the effect of judgments and orders;
 
@@ -5544,6 +5298,66 @@ Data Protection
 
 (e) costs.
 
+Framework for Data Processing by Government.
+
+191A.(1)  The Minister may prepare a document, called the Framework for Data Processing by Government, which contains guidance about the processing of personal data in connection with the exercise of functions of-
+
+(a) a Minister or a government department; and
+
+(b) a person with functions of a public nature who is specified or described in regulations made by the Minister.
+
+(2)  The document may make provision relating to all of those functions or only to particular functions or persons.
+
+(3)  The Minister may, from time to time, prepare amendments of the document or a replacement document.
+
+(4)  Before preparing a document or amendments under this section, the Minister must consult-
+
+(a) the Commissioner; and
+
+(b) any other person the Minister considers it appropriate to consult.
+
+(5)  The Minister must issue a document prepared under this section.
+
+(6)  A document prepared and issued under this section will come into force at the end of the period of 21 days beginning with the day on which it is issued.
+
+Data Protection
+
+2004-01
+
+(7)  Nothing in this section prevents another version of the document being issued.
+
+Publication and review of the Framework.
+
+191B.(1)  The Minister must publish a document that is issued under section 191A(5).
+
+(2)  Where an amendment of a document is issued under section 191A(5), the Minister must publish-
+
+(a) the amendments; or
+
+(b) the document as amended by it.
+
+(3)  The Minister must keep under review the document issued under section 191A(5) for the time being in force.
+
+(4)  Where the Minister becomes aware that the terms of such a document could result in a breach of an international obligation of Gibraltar, the Minister must issue another version of the document, with a view to remedying the situation.
+
+Effect of the Framework.
+
+191C.(1)  When carrying out processing of personal data which is the subject of a document issued under section 191A(5) which is for the time being in force, a person must have regard to the document.
+
+(2)  A failure to act in accordance with a provision of such a document does not of itself make a person liable to legal proceedings in a court or tribunal.
+
+(3)  A document issued under section 191A(5), including an amendment or replacement document, is admissible in evidence in legal proceedings.
+
+(4)  In any legal proceedings before a court or tribunal, the court or tribunal must take into account a provision of any document issued under section 191A(5) in determining a question arising in the proceedings if-
+
+(a) the question relates to a time when the provision was in force; and
+
+(b) the provision appears to the Commissioner to be relevant to the question.
+
+Data Protection
+
+2004-01
+
 Offences
 
 Penalties for offences.
@@ -5553,10 +5367,6 @@ Penalties for offences.
 (2)  A person who commits an offence under section 140, 152, 154A, 175, 176 or 186 is liable-
 
 (a) on summary conviction, to a fine not exceeding the statutory maximum;
-
-Data Protection
-
-2004-01
 
 (b) on conviction on indictment, to a fine.
 
@@ -5580,17 +5390,19 @@ Prosecution.
 
 (b) by or with the consent of the Attorney General.
 
-(2)  Subject to subsection (3), summary proceedings for an offence under section 178 (alteration etc of personal data to prevent disclosure) may be brought within the period of 6 months beginning with the day on which the prosecutor first knew of evidence that, in the prosecutor’s opinion, was sufficient to bring the proceedings.
+(2)  Subject to subsection (3), summary proceedings for an offence under section 178 (alteration etc of personal data to prevent disclosure) may be
+
+Data Protection
+
+2004-01
+
+brought within the period of 6 months beginning with the day on which the prosecutor first knew of evidence that, in the prosecutor’s opinion, was sufficient to bring the proceedings.
 
 (3)  Such proceedings may not be brought after the end of the period of 3 years beginning with the day on which the offence was committed.
 
 (4)  A certificate signed by or on behalf of the prosecutor and stating the day on which the 6 month period described in subsection (2) began is conclusive evidence of that fact.
 
 (5)  A certificate purporting to be signed as described in subsection (4) is to be treated as so signed unless the contrary is proved.
-
-Data Protection
-
-2004-01
 
 Liability of directors etc.
 
@@ -5608,6 +5420,22 @@ Liability of directors etc.
 
 (3)  Where the affairs of a body corporate are managed by its members, subsections (1) and (2) apply in relation to the acts and omissions of a member in connection with the member’s management functions in relation to the body as if the member were a director of the body corporate.
 
+Guidance about criminal procedure and evidence codes of practice.
+
+194A.(1)  The Commissioner may produce and publish guidance about how the Commissioner proposes to perform the duty under section 687(6) of the Criminal Procedure and Evidence Act 2011 (duty to have regard to codes of practice under that Act when investigating offences and charging offenders) in connection with offences under this Act.
+
+Data Protection
+
+2004-01
+
+(2)  The Commissioner-
+
+(a) may alter or replace the guidance; and
+
+(b) must publish any altered or replacement guidance.
+
+(3)  The Commissioner must consult the Minister before publishing guidance under this section (including any altered or replacement guidance).
+
 Court Proceedings
 
 Disclosure of information re court proceedings.
@@ -5624,11 +5452,7 @@ Court proceedings: contempt.
 
 (a) a person does something, or fails to do something, in relation to proceedings before a court-
 
-(i) on an appeal under section 29, 88, 120 or 168, or
-
-Data Protection
-
-2004-01
+(i) on an appeal under section 29, 88 or 168, or
 
 (ii) for an order under section 171; and
 
@@ -5639,6 +5463,10 @@ Data Protection
 (3)  Where an offence is certified under subsection (2), the Supreme Court may-
 
 (a) inquire into the matter; and
+
+Data Protection
+
+2004-01
 
 (b) deal with the person charged with the offence in any manner in which it could deal with the person if the offence had been committed in relation to the Supreme Court.
 
@@ -5654,17 +5482,13 @@ Court Procedure Rules.
 
 (2)  Court Procedure Rules may make provision for regulating-
 
-(a) the exercise of the rights of appeal conferred by section 29, 88, 120 or 168, and
+(a) the exercise of the rights of appeal conferred by section 29, 88 or 168, and
 
 (b) the exercise of the rights of data subjects under section 171, including their exercise by a representative body.
 
 (3)  In relation to proceedings involving the exercise of those rights, Court Procedure Rules may make provision about-
 
 (a) securing the production of material used for the processing of personal data; and
-
-Data Protection
-
-2004-01
 
 (b) the inspection, examination, operation and testing of equipment or material used in connection with the processing of personal data.
 
@@ -5675,6 +5499,10 @@ Territorial application of this Act.
 198.(1)  This Act applies only to processing of personal data described in subsections (2) and (3).
 
 (2)  It applies to the processing of personal data in the context of the activities of an establishment of a controller or processor in Gibraltar, whether or not the processing takes place in Gibraltar.
+
+Data Protection
+
+2004-01
 
 (3)  It also applies to the processing of personal data to which Chapter 2 of Part II (the GDPR) applies where-
 
@@ -5694,10 +5522,6 @@ Territorial application of this Act.
 
 (6)  The reference in subsection (3) to Chapter 2 of Part II (the GDPR) does not include that Chapter as applied by Chapter 3 of Part II (the applied GDPR).
 
-Data Protection
-
-2004-01
-
 (7)  In this section, references to a person who has an establishment in Gibraltar include the following-
 
 (a) an individual who is ordinarily resident in Gibraltar;
@@ -5706,7 +5530,13 @@ Data Protection
 
 (c) a partnership or other unincorporated association formed under Gibraltar law; and
 
-(d) a person not within paragraph (a), (b) or (c) who maintains, and carries on activities through, an office, branch or agency or other stable arrangements in Gibraltar, and references to a person who has an establishment in another country or territory have a corresponding meaning.
+(d) a person not within paragraph (a), (b) or (c) who maintains, and carries on activities through, an office, branch or agency or other stable arrangements in Gibraltar,
+
+and references to a person who has an establishment in another country or territory have a corresponding meaning.
+
+Data Protection
+
+2004-01
 
 General
 
@@ -5730,10 +5560,6 @@ Application to the Crown.
 
 (b) section 175;
 
-Data Protection
-
-2004-01
-
 (c) section 176;
 
 (d) section 178;
@@ -5742,9 +5568,13 @@ Data Protection
 
 Application to Parliament.
 
-200.(1)  Parts 1, 2 and 5 to 7 of this Act apply to the processing of personal data by or on behalf of Parliament.
+200.(1)  Parts I, II and V to VII of this Act apply to the processing of personal data by or on behalf of Parliament.
 
 (2)  Where the purposes for which and the manner in which personal data is, or is to be, processed are determined by or on behalf of Parliament, the controller in respect of that data for the purposes of the GDPR and this Act is the Clerk of the Parliament.
+
+Data Protection
+
+2004-01
 
 (3)  As regards criminal liability-
 

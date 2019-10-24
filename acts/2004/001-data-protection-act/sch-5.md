@@ -70,11 +70,11 @@ Appeal panel.
 
 (a) the Minister may appoint one person to be a member of the appeal panel other than the chair; and
 
+(b) subject to subsubparagraph (a), the Commissioner must appoint the members of the appeal panel.
+
 Data Protection
 
 2004-01
-
-(b) subject to paragraph (a), the Commissioner must appoint the members of the appeal panel.
 
 (4)  Where the request relates to a decision of the national accreditation body-
 
@@ -84,7 +84,7 @@ Data Protection
 
 (ii) may direct the Commissioner to appoint one person to be a member of the appeal panel other than the chair; and
 
-(b) subject to paragraph (a), the chair of the national accreditation body must appoint the members of the appeal panel.
+(b) subject to subsubparagraph (a), the chair of the national accreditation body must appoint the members of the appeal panel.
 
 (5)  A person may not be a member of an appeal panel if the person-
 
@@ -104,13 +104,13 @@ Data Protection
 
 Hearing.
 
-Data Protection
-
-2004-01
-
 5.(1)  If the appeal panel considers it necessary, a hearing must be held at which both the applicant and the accreditation authority may be represented.
 
 (2)  Any additional documents which the applicant or the accreditation authority want the appeal panel to take into account must be submitted to the chair of the appeal panel at least 5 working days before the hearing.
+
+Data Protection
+
+2004-01
 
 (3)  The appeal panel may allow experts and witnesses to give evidence at a hearing.
 
@@ -137,10 +137,6 @@ Meaning of “working day”.
 7.  In this Schedule, “working day” means any day other than-
 
 (a) Saturday or Sunday;
-
-Data Protection
-
-2004-01
 
 (b) Christmas Day or Good Friday; or
 

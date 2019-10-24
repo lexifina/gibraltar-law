@@ -28,13 +28,13 @@ Contents of notice of intent.
 
 (a) a description of the circumstances of the failure; and
 
-Data Protection
-
-2004-01
-
 (b) where the notice if given in respect of a failure described in section 155(2), the nature of the personal data involved in the failure.
 
 (3)  A notice of intent must also-
+
+Data Protection
+
+2004-01
 
 (a) state that the person may make written representations about the Commissioner’s intention to give a penalty notice; and
 
@@ -54,10 +54,6 @@ Giving a penalty notice.
 
 (2)  When deciding whether to give a penalty notice to a person and determining the amount of the penalty, the Commissioner must consider any oral or written representations made by the person in accordance with the notice of intent.
 
-Data Protection
-
-2004-01
-
 Contents of penalty notice.
 
 5.(1)  A penalty notice must contain the following information-
@@ -69,6 +65,10 @@ Contents of penalty notice.
 (c) whether the Commissioner received oral or written representations in accordance with the notice of intent;
 
 (d) the reasons why the Commissioner proposes to impose the penalty (see subparagraph (2));
+
+Data Protection
+
+2004-01
 
 (e) the reasons for the amount of the penalty, including any aggravating or mitigating factors that the Commissioner has taken into account;
 
@@ -92,10 +92,6 @@ Period for payment of penalty.
 
 Variation of penalty.
 
-Data Protection
-
-2004-01
-
 7.(1)  The Commissioner may vary a penalty notice by giving written notice (a “penalty variation notice”) to the person to whom it was given.
 
 (2)  A penalty variation notice must specify-
@@ -111,6 +107,10 @@ Data Protection
 (b) increase the amount of the penalty;
 
 (c) otherwise vary the penalty notice to the detriment of the person to whom it was given.
+
+Data Protection
+
+2004-01
 
 (4)  If-
 
@@ -131,10 +131,6 @@ Cancellation of penalty.
 (b) must repay any amount that has been paid in accordance with that notice.
 
 Enforcement of payment.
-
-Data Protection
-
-2004-01
 
 9.(1)  The Commissioner must not take action to recover a penalty unless-
 

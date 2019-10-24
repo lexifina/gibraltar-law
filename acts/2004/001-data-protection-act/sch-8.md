@@ -68,13 +68,13 @@ Legal claims.
 
 6.  This condition is met if the processing-
 
-Data Protection
-
-2004-01
-
 (a) is necessary for the purpose of, or in connection with, any legal proceedings, including prospective legal proceedings;
 
 (b) is necessary for the purpose of obtaining legal advice; or
+
+Data Protection
+
+2004-01
 
 (c) is otherwise necessary for the purposes of establishing, exercising or defending legal rights.
 
@@ -94,7 +94,7 @@ Preventing fraud.
 
 (ii) the disclosure of personal data by a competent authority in accordance with arrangements made by an anti-fraud organisation, or
 
-(iii) the processing of personal data disclosed as described in subparagraph (i) or (ii).
+(iii) the processing of personal data disclosed as described in subsubparagraph (i) or (ii).
 
 Archiving etc.
 
@@ -106,6 +106,4 @@ Archiving etc.
 
 (c) for statistical purposes.
 
-Data Protection
-
-2004-01
+________________________

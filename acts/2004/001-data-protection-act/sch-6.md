@@ -72,11 +72,11 @@ Section 198 of the 2004 Act has effect for the purposes of this Regulation as it
 
 (d) omit subsections (3) to (5);
 
+(e) in subsection (7), omit “or section 68(8) of this Act (processor to be treated as controller in certain circumstances)”.”
+
 Data Protection
 
 2004-01
-
-(e) in subsection (7), omit “or section 68(8) or 114(3) of this Act (processor to be treated as controller in certain circumstances)”.”
 
 9.  In Article 4 (definitions)-
 
@@ -104,10 +104,6 @@ Data Protection
 
 (j) omit paragraph (24) (meaning of “relevant and reasoned objection”);
 
-Data Protection
-
-2004-01
-
 (k) after paragraph (26) insert-
 
 “(27) “the GDPR” has the meaning given in section 2 of the 2004 Act.”.
@@ -115,6 +111,10 @@ Data Protection
 Chapter II of the GDPR (principles).
 
 10.  In Article 6 (lawfulness of processing)-
+
+Data Protection
+
+2004-01
 
 (a) omit paragraph 2;
 
@@ -138,10 +138,6 @@ Chapter II of the GDPR (principles).
 
 (b) in paragraph 2(b), for “Union or Member State law” substitute “Gibraltar law (see section 12 of the 2004 Act)”;
 
-Data Protection
-
-2004-01
-
 (c) in paragraph 2, for point (g) substitute-
 
 “(g) processing is necessary for reasons of substantial public interest and is authorised by Gibraltar law (see section 12 of the 2004 Act);”;
@@ -149,6 +145,10 @@ Data Protection
 (d) in paragraph 2(h), for “Union or Member State law” substitute “Gibraltar law (see section 12 of the 2004 Act)”;
 
 (e) in paragraph 2(i), for “Union or Member State law” insert “Gibraltar law (see section 12 of the 2004 Act);”;
+
+Data Protection
+
+2004-01
 
 (f) in paragraph 2, for point (j) substitute-
 
@@ -168,10 +168,6 @@ Section 2 of Chapter III of the GDPR (rights of the data subject: information an
 
 15.  In Article 13 (personal data collected from data subject: information to be provided), in paragraph 1-
 
-Data Protection
-
-2004-01
-
 (a) in point (a), omit “and, where applicable, of the controller’s representative”;
 
 (b) in point (f), after “the Commission” insert “pursuant to Article 45(3) of the GDPR”.
@@ -183,6 +179,10 @@ Data Protection
 (i) in point (a), omit “and, where applicable, of the controller’s representative”;
 
 (ii) in point (f), after “the Commission” insert “pursuant to Article 45(3) of the GDPR”;
+
+Data Protection
+
+2004-01
 
 (b) in paragraph 5(c), for “Union or Member State law to which the controller is subject” substitute “a rule of Gibraltar law”.
 
@@ -202,23 +202,23 @@ Section 4 of Chapter III of the GDPR (rights of the data subject: right to objec
 
 20.  In Article 22 (automated individual decision-making, including profiling), for paragraph 2(b) substitute-
 
-Data Protection
-
-2004-01
-
 “(b) is a qualifying significant decision for the purposes of section 17 of the 2004 Act; or”.
 
 Section 5 of Chapter III of the GDPR (rights of the data subject: restrictions).
 
 21.  In Article 23 (restrictions), in paragraph 1-
 
-(a) for “Union or Member State law to which the data controller or processor is subject” substitute “In addition to the provision made by section 19 and Schedules 2, 3 and 4 of the 2004 Act, the Minister”;
+(a) for “Union or Member State law to which the data controller or processor is subject” substitute “In addition to the provision made by section 19 and Schedules 2 and 3 of the 2004 Act, the Minister”;
 
 (b) in point (e), for “of the Union or of a Member State”, in both places, substitute “of Gibraltar”;
 
 (c) after point (j) insert-
 
 “See section 20 of the 2004 Act.”
+
+Data Protection
+
+2004-01
 
 Section 1 of Chapter IV of the GDPR (controller and processor: general obligations).
 
@@ -236,10 +236,6 @@ Section 1 of Chapter IV of the GDPR (controller and processor: general obligatio
 
 (d) omit paragraph 7;
 
-Data Protection
-
-2004-01
-
 (e) in paragraph 8, omit “and in accordance with the consistency mechanism referred to in Article 63”.
 
 25.  In Article 30 (records of processing activities)-
@@ -255,6 +251,10 @@ Data Protection
 (e) in paragraph 2, in point (a), omit “the controller’s or the processor’s representative, and”;
 
 (f) in paragraph 2, in point (d), after “32(1)” insert “or section 30(3) of the 2004 Act”;
+
+Data Protection
+
+2004-01
 
 (g) in paragraph 4, omit “and, where applicable, the controller’s or the processor’s representative,”.
 
@@ -272,10 +272,6 @@ Section 3 of Chapter IV of the GDPR (controller and processor: data protection i
 
 (b) omit paragraph 5.
 
-Data Protection
-
-2004-01
-
 Section 4 of Chapter IV of the GDPR (controller and processor: data protection officer).
 
 29.  In Article 37 (designation of data protection officers), omit paragraph 4.
@@ -292,6 +288,10 @@ Section 5 of Chapter IV of the GDPR (controller and processor: codes of conduct 
 
 (c) in paragraph 6, omit “, and where the code of conduct concerned does not relate to processing activities in several Member States”;
 
+Data Protection
+
+2004-01
+
 (d) omit paragraphs 7 to 11.
 
 32.  In Article 41 (monitoring of approved codes of conduct), omit paragraph 3.
@@ -306,13 +306,7 @@ Section 5 of Chapter IV of the GDPR (controller and processor: codes of conduct 
 
 (b) omit paragraph 2;
 
-(c) in paragraph 5, omit “or by the Board pursuant to Article 63. Where the criteria are approved by the Board, this
-
-Data Protection
-
-2004-01
-
-may result in a common certification, the European Data Protection Seal”;
+(c) in paragraph 5, omit “or by the Board pursuant to Article 63. Where the criteria are approved by the Board, this may result in a common certification, the European Data Protection Seal”;
 
 (d) omit paragraph 8.
 
@@ -334,6 +328,10 @@ Chapter V of the GDPR (transfers of data to third countries or international org
 
 (a) in paragraph 1, after “decided” insert “in accordance with Article 45 of the GDPR”;
 
+Data Protection
+
+2004-01
+
 (b) after paragraph 1 insert-
 
 “1A But a transfer of personal data to a third country or international organisation must not take place under paragraph 1, if the Commission’s decision in relation to the third country (including a territory or sector within it) or the international organization-
@@ -345,10 +343,6 @@ Chapter V of the GDPR (transfers of data to third countries or international org
 (c) has been repealed,
 
 by the Commission under Article 45(5) of the GDPR.”;
-
-Data Protection
-
-2004-01
 
 (c) omit paragraphs 2 to 8;
 
@@ -372,6 +366,10 @@ Data Protection
 
 37.  In Article 47 (binding corporate rules)-
 
+Data Protection
+
+2004-01
+
 (a) in paragraph 1, in the first sentence, omit “in accordance with the consistency mechanism set out in Article 63”;
 
 (b) in paragraph 2, in point (e), for “the competent courts of the Member States” substitute “a court”;
@@ -385,10 +383,6 @@ Data Protection
 (a) in paragraph 1, in the first sentence-
 
 (i) for “Article 45(3)” substitute “Article 45(3) of the GDPR”;
-
-Data Protection
-
-2004-01
 
 (ii) for “Article 46” substitute “Article 46 of this Regulation”;
 
@@ -408,6 +402,10 @@ Section 1 of Chapter VI of the GDPR (independent supervisory authorities).
 
 (i) for “Each Member State shall provide for one or more independent public authorities to be” substitute “The Commissioner is”;
 
+Data Protection
+
+2004-01
+
 (ii) omit “and to facilitate the free flow of personal data within the Union (‘supervisory authority’)”;
 
 (b) omit paragraphs 2 to 4.
@@ -419,10 +417,6 @@ Section 1 of Chapter VI of the GDPR (independent supervisory authorities).
 (i) for “The member or members of each supervisory authority” substitute “The Commissioner”;
 
 (ii) for “their”, in both places, substitute “the Commissioner’s”;
-
-Data Protection
-
-2004-01
 
 (b) in paragraph 3-
 
@@ -448,6 +442,10 @@ Section 2 of Chapter VI of the GDPR (independent supervisory authorities: compet
 
 46.  In Article 57 (tasks)-
 
+Data Protection
+
+2004-01
+
 (a) in paragraph 1, in the first sentence, for “each supervisory authority shall on its territory” substitute “the Commissioner is to”;
 
 (b) in paragraph 1, in point (e), omit “and, if appropriate, cooperate with the supervisory authorities in other Member States to that end”;
@@ -457,10 +455,6 @@ Section 2 of Chapter VI of the GDPR (independent supervisory authorities: compet
 (d) in paragraph 1, omit points (g), (k) and (t);
 
 (e) after paragraph 1 insert-
-
-Data Protection
-
-2004-01
 
 “1A In this Article and Article 58, references to “this Regulation” have effect as references to this Regulation and section 30(3) of the 2004 Act.”
 
@@ -488,6 +482,10 @@ Chapter VII of the GDPR (co-operation and consistency)
 
 “Article 61
 
+Data Protection
+
+2004-01
+
 Co-operation with other supervisory authorities etc
 
 1.  The Commissioner may, in connection with carrying out the Commissioner’s functions under this Regulation-
@@ -495,10 +493,6 @@ Co-operation with other supervisory authorities etc
 (a) co-operate with, provide assistance to and seek assistance from other supervisory authorities;
 
 (b) conduct joint operations with other supervisory authorities, including joint investigations and joint enforcement measures.
-
-Data Protection
-
-2004-01
 
 2.  The Commissioner must, in carrying out the Commissioner’s functions under this Regulation, have regard to-
 
@@ -524,6 +518,10 @@ Chapter VIII of the GDPR (remedies, liability and penalties)
 
 (c) omit paragraph 4.
 
+Data Protection
+
+2004-01
+
 52.  In Article 79 (right to an effective judicial remedy against a controller or processor), for paragraph 2 substitute-
 
 “2 Proceedings against a controller or a processor are to be brought before a court (see section 182 of the 2004 Act).”
@@ -531,10 +529,6 @@ Chapter VIII of the GDPR (remedies, liability and penalties)
 53 In Article 80 (representation of data subjects)-
 
 (a) in paragraph 1, omit “where provided for by Member State law”;
-
-Data Protection
-
-2004-01
 
 (b) in paragraph 2, for “Member States” substitute “The Minister”;
 
@@ -560,13 +554,15 @@ Data Protection
 
 (c) for paragraph 8 substitute-
 
-“8 Section 124(9) of the 2004 Act makes provision about the exercise of the Commissioner’s powers under this Article. Part VI of the 2004 Act (enforcement) makes further provision in connection with administrative penalties (including provision about appeals).”;
-
-(d) omit paragraph 9.
+“8 Section 124(9) of the 2004 Act makes provision about the exercise of the Commissioner’s powers under this Article. Part VI of the 2004 Act (enforcement) makes further provision in
 
 Data Protection
 
 2004-01
+
+connection with administrative penalties (including provision about appeals).”;
+
+(d) omit paragraph 9.
 
 57.  In Article 84 (penalties)-
 
@@ -598,11 +594,11 @@ Chapter IX of the GDPR (provisions relating to specific processing situations)
 
 62.  In Article 89 (safeguards and derogations relating to processing for archiving purposes etc)-
 
-(a) in paragraph 2, for “Union or Member State law may” substitute “the Minister, in addition to the relevant provisions, may in regulations (see section 20 of the 2004 Act)”;
-
 Data Protection
 
 2004-01
+
+(a) in paragraph 2, for “Union or Member State law may” substitute “the Minister, in addition to the relevant provisions, may in regulations (see section 20 of the 2004 Act)”;
 
 (b) in paragraph 3, for “Union or Member State law may” substitute “the Minister, in addition to the relevant provisions, may in regulations (see section 20 of the 2004 Act)”;
 
@@ -640,11 +636,11 @@ MODIFICATIONS TO CHAPTER 2 OF PART II
 
 Introductory.
 
-73.  In its application by virtue of section 26(2), Chapter 2 of Part II has effect as if it were modified as follows.
-
 Data Protection
 
 2004-01
+
+73.  In its application by virtue of section 26(2), Chapter 2 of Part II has effect as if it were modified as follows.
 
 General modifications.
 
