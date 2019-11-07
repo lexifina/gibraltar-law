@@ -1,16 +1,12 @@
-Proceeds of Crime THE PROCEEDS OF CRIME ACT 2015 (EXTERNAL REQUESTS AND ORDERS) ORDER 2019
+Subsidiary Legislation made under ss.184 & 184A.
 
-2015-22
+Proceeds of Crime Act 2015 (External Requests and Orders) Order 2019
 
-Subsidiary 2019/069 Subsidiary Legislation made under ss.184 and 184A.
-
-THE PROCEEDS OF CRIME ACT 2015 (EXTERNAL REQUESTS AND ORDERS) ORDER 2019
-
-(LN. 2019/069)
+LN.2019/069
 
 Commencement 28.3.2019
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN. 2019/226 Art. 2 7.11.2019
 
 ARRANGEMENT OF ARTICLES
 
@@ -24,29 +20,23 @@ PART 2 GIVING EFFECT IN GIBRALTAR TO EXTERNAL REQUESTS IN CONNECTION WITH CRIMIN
 
 CHAPTER 1 EXTERNAL REQUESTS
 
-6. Action on receipt of external request in connection with criminal investigations or proceedings 7. Conditions for Supreme Court to give effect to external request 8. Restraint orders 9. Application, discharge and variation of restraint orders 10. Appeal to Court of Appeal about restraint orders 11. Appeal to Privy Council about restraint orders 12. Detention of property pending appeal 13. Seizure in pursuance of restraint order 14. Hearsay evidence in restraint proceedings
-
-Proceeds of Crime THE PROCEEDS OF CRIME ACT 2015 (EXTERNAL REQUESTS AND ORDERS) ORDER 2019
-
-2015-22
-
-Subsidiary 2019/069 15. Registration 16. Restrictions relating to restraint orders 17. Appointment of receivers
+6. Action on receipt of external request in connection with criminal investigations or proceedings 7. Conditions for Supreme Court to give effect to external request 8. Restraint orders 9. Application, discharge and variation of restraint orders 10. Appeal to Court of Appeal about restraint orders 11. Appeal to Privy Council about restraint orders 12. Detention of property pending appeal 13. Seizure in pursuance of restraint order 14. Hearsay evidence in restraint proceedings 15. Registration 16. Restrictions relating to restraint orders 17. Appointment of receivers
 
 CHAPTER 1A EXTERNAL REQUESTS: SEARCH AND SEIZURE POWERS
 
-18. Conditions for exercise of powers 19. Power to seize property 20. Search power: premises 21. Search power: people 22. Search power: vehicles 23. “Appropriate approval” 24. Exercise of powers without judicial approval 25. Report by appointed person on exercise of powers 26. Initial detention of seized property 27. Further detention pending variation of restraint order 28. Release of property
+18. Conditions for exercise of powers 19. Power to seize property 20. Search power: premises
+
+21. Search power: people 22. Search power: vehicles 23. “Appropriate approval” 24. Exercise of powers without judicial approval 25. Report by appointed person on exercise of powers 26. Initial detention of seized property 27. Further detention pending variation of restraint order 28. Release of property
 
 CHAPTER 2 EXTERNAL ORDERS
 
 29. Action on receipt of external order in connection with criminal convictions 30. Authentication by the overseas court 31. Applications to give effect to external orders 32. Conditions for Supreme Court to give effect to external orders 33. Registration of external orders 34. Appeal to Court of Appeal about external orders 35. Appeal to Privy Council about external orders 36. Orders for securing compliance with external order 37. Appeal to Court of Appeal against orders under article 36 38. Appeal to Privy Council against orders under article 37 39. Sums in currency other than sterling 40. Time for payment 41. Appointment of enforcement receivers 42. Powers of enforcement receivers in respect of monetary external orders 43. Powers of enforcement receivers in respect of external orders for the recovery of specified property 44. Application of sums by enforcement receivers 45. Sums received by Competent Authority 46. Satisfaction of external order 47. Restrictions relating to enforcement receivers
 
-Proceeds of Crime THE PROCEEDS OF CRIME ACT 2015 (EXTERNAL REQUESTS AND ORDERS) ORDER 2019
+CHAPTER 2A RECEIVERS AND PROCEDURE
 
-2015-22
+48. Protection of receiver appointed under articles 17 or 41 49. Further applications by receivers 50. Discharge and variation of receiver orders 51. Management receivers: discharge 52. Appeal to Court of Appeal about receivers
 
-Subsidiary 2019/069 CHAPTER 2A RECEIVERS AND PROCEDURE
-
-48. Protection of receiver appointed under articles 17 or 41 49. Further applications by receivers 50. Discharge and variation of receiver orders 51. Management receivers: discharge 52. Appeal to Court of Appeal about receivers 53. Appeal to the Privy Council about receivers 54. Powers of court and receiver 55. Procedure on appeal to Court of Appeal under this Part
+53. Appeal to the Privy Council about receivers 54. Powers of court and receiver 55. Procedure on appeal to Court of Appeal under this Part
 
 CHAPTER 2B SEIZED PERSONAL PROPERTY
 
@@ -65,12 +55,6 @@ CHAPTER 1 INTRODUCTION
 CHAPTER 2 CIVIL RECOVERY IN THE SUPREME COURT
 
 Proceedings for recovery orders
-
-Proceeds of Crime THE PROCEEDS OF CRIME ACT 2015 (EXTERNAL REQUESTS AND ORDERS) ORDER 2019
-
-2015-22
-
-Subsidiary 2019/069
 
 69. Proceedings for recovery orders 70. Sums in a currency other than sterling 71. “Associated property”
 
@@ -92,13 +76,9 @@ Interim receiving orders: further provisions
 
 Vesting and realisation of recoverable property
 
-88. Recovery orders 89. Functions of the trustee for civil recovery 90. Rights of pre-emption etc. 91. Associated and joint property 92. Agreements about associated and joint property 93. Associated and joint property: default of agreement 94. Payments in respect of rights under pension schemes 95. Consequential adjustment of liabilities under pension schemes 96. Pension schemes: supplementary
+88. Recovery orders 89. Functions of the trustee for civil recovery 90. Rights of pre-emption etc. 91. Associated and joint property 92. Agreements about associated and joint property 93. Associated and joint property: default of agreement 94. Payments in respect of rights under pension schemes 95. Consequential adjustment of liabilities under pension schemes 96. Pension schemes: supplementary 97. Consent orders
 
-Proceeds of Crime THE PROCEEDS OF CRIME ACT 2015 (EXTERNAL REQUESTS AND ORDERS) ORDER 2019
-
-2015-22
-
-Subsidiary 2019/069 97. Consent orders 98. Consent orders: pensions 99. Limit on recovery 100. Article 99: supplementary 101. Applying realised proceeds
+98. Consent orders: pensions 99. Limit on recovery 100. Article 99: supplementary 101. Applying realised proceeds
 
 Exemptions etc.
 
@@ -114,7 +94,9 @@ Recoverable property
 
 108. Recoverable property: property or sum of money specified in the external order 109. Tracing property, etc. 110. Mixing property 111. Recoverable property: general exceptions 112. Other exemptions 113. Granting interests
 
-Insolvency 114. Insolvency
+Insolvency
+
+114. Insolvency
 
 Interpretation
 
@@ -124,16 +106,6 @@ SCHEDULE 1 POWERS OF INTERIM RECEIVER
 
 SCHEDULE 2 POWERS OF TRUSTEE FOR CIVIL RECOVERY
 
-Proceeds of Crime THE PROCEEDS OF CRIME ACT 2015 (EXTERNAL REQUESTS AND ORDERS) ORDER 2019
-
-2015-22
-
-Subsidiary 2019/069
-
-Proceeds of Crime THE PROCEEDS OF CRIME ACT 2015 (EXTERNAL REQUESTS AND ORDERS) ORDER 2019
-
-2015-22
-
-Subsidiary 2019/069 In exercise of the powers conferred on him by sections 184 and 184A of the Proceeds of Crime Act 2015, the Government, has made this Order-
+In exercise of the powers conferred on him by sections 184 and 184A of the Proceeds of Crime Act 2015, the Government, has made this Order-
 
 PART 1
