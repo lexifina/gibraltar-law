@@ -10,11 +10,17 @@ TACHOGRAPHS (MISCELLANEOUS PROVISIONS) REGULATIONS 2015
 
 Commencement 2.3.2015
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/236 rr. 3-4, 9(1)-(3), 11(1)(b) 21.11.2019
+
 Transposing: Regulation (EU) No 165/2014
 
-_______________________
+Transport TACHOGRAPHS (MISCELLANEOUS PROVISIONS) REGULATIONS 2015
 
-ARRANGEMENT OF REGULATIONS
+1998-44
+
+Subsidiary 2015/030 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
