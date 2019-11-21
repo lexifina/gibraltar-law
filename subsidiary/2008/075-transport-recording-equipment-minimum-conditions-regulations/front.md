@@ -12,7 +12,9 @@ Commencement 25.9.2008
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2012/132 r. 2 & Schs.1, 2 & 3 4.10.2012 2016/037 rr. 2(b), 10(1), 12(2), Sch. 1 2.3.2016
+LN.  2012/132 r. 2 & Schs.1, 2 & 3 4.10.2012 2016/037 rr. 2(b), 10(1), 12(2), Sch. 1 2.3.2016 2019/236 rr. 2, 3, 4(1)-(2), (4), (6), 6(6), 7, 8(1), (4), 9(2)(a), (c), 10(3), 11(1), (3), 12(1), (2)(c), 13, Sch. 1, 3
+
+21.11.2019
 
 Transposing: Directive 2006/22/EC Directive 2009/4/EC Directive 2009/5/EC Regulation (EU) No. 165/2014
 
