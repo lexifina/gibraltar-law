@@ -50,7 +50,7 @@ Improvement notices.
 
 (b) has contravened one or more of these Regulations in circumstances that make it likely that the contravention will continue or be repeated,
 
-he may serve on him a notice (in this Schedule referred to as “an improvement notice”) stating that he is of that opinion, specifying the provision or provisions as to which he is of that opinion, giving particulars of the reasons why he is of that opinion, and requiring that person to remedy the contravention or, as the case may be, the matter occasioning it within such period (ending not earlier than the period within which an appeal against the notice can be brought under paragraph (5) as may be specified in the notice.
+he may serve on him a notice (in this Schedule referred to as “an improvement notice”) stating that he is of that opinion, specifying the provision or provisions as to which he is of that opinion, giving particulars of the reasons why he is of that opinion, and requiring that person to remedy the contravention or, as the case may be, the matter occasioning it within such period (ending not earlier than the period within which an appeal against the notice can be brought under paragraph 5 as may be specified in the notice.
 
 Prohibition notices.
 
