@@ -26,11 +26,15 @@ Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  5
 
 23.4.2018 2017-10 Sch. 3 13.6.2018 LN. 2019/149 ss. 66A(1), 66B(1), (2), (3)(c), 66C(11), (12)(c), (d), (13)(a), (14), 66CA, 66D(1)(a)(ii), (iii), (b), (3), (6A), (6B), (6C), (8), (9), 66DA, 66DBA, 66DC, 66E(1), 66F(2), 66G(1)(b), (2), 66H(1), (3), 66I(1), (3), 66J(1)(b), 66K(2), 66L(3), 66M(2), (3), (5), (7), 66N(6)(a), (10), 66O(1), (2)(a), (6), (7), 66P(1), (2)(a), (c), (4)(a), (5)(a), (7), 66S(2), 66TA, 66U(1)(b)(ii), 66WA, 70(1)(a), Sch.3
 
-30.7.2019
+30.7.2019 2019/236 ss. 66A, 66D(1)(a)(i), (ii), (9), 66M(3)(a), 66O(7)(a), Sch.2 & 3
+
+21.11.2019
 
 Transport
 
-1998-44 English sources None cited
+1998-44
+
+English sources None cited
 
 EU legislation/International Agreements involved: Regulation (EC) No. 561/2006 Regulation (EU) No 165/2014 Regulation (EC) No 1071/2009 Regulation (EC) No 1072/2009 Regulation (EC) No 1073/2009 Regulation (EU) 2016/799
 

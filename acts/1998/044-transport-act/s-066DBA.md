@@ -6,8 +6,4 @@ Manual daily record sheet.
 
 (2)  The daily record sheets referred to in subparagraph (1) must be completed by a crew member for the period of time from the moment of entry into the territory of the first contracting Party to the AETR.
 
-(3)   In completing the record sheets referred to subparagraph (1), a crew member shall write on his record sheet the information concerning his
-
-Transport
-
-1998-44 professional activities and rest periods, using the appropriate graphic symbols as defined in article 12 of the Annex to the AETR.
+(3)   In completing the record sheets referred to subparagraph (1), a crew member shall write on his record sheet the information concerning his professional activities and rest periods, using the appropriate graphic symbols as defined in article 12 of the Annex to the AETR.

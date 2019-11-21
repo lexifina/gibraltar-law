@@ -90,7 +90,7 @@ Transport
 
 (2) For the purposes of this paragraph, examples of “hub facilities” include the port and the airport.
 
-3.  For the purpose of Article 3(i) of the Community Drivers’ Hours Regulation a vehicle has a historic status if it is a vehicle which is by virtue of its construction and equipment suitable for carrying passengers or goods and which was manufactured more than 25 years before the date on which it is being driven.
+3.  For the purpose of Article 3(i) of the Community Drivers’ Hours Regulation and for the purpose of Article 2(2)(k) of the AETR a vehicle has a historic status if it is a vehicle which is by virtue of its construction and equipment suitable for carrying passengers or goods and which was manufactured more than 25 years before the date on which it is being driven.
 
 Transport
 

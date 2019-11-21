@@ -458,308 +458,98 @@ R. Krieps
 
 (1) see page 8 of this Official Journal.
 
-Transport
+It entitles the holder to engage in the international carriage of goods by road for hire or reward by any route for journeys or parts of journeys effected within the territory of the Community and, where appropriate, subject to the conditions laid down  herein:
 
-1998-44 COUNCIL  REGULATION (EEC) NO 3821/85 OF 20 DECEMBER 1985 ON RECORDING EQUIPMENT IN ROAD TRANSPORT THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+- where the point of departure and the point of arrival are situated in two different member States, with or without transit through one or more member States or non-member countries,
 
-Having regard to the treaty establishing the European Economic Community, and in particular article 75 thereof,
+- from a member State to a non-member country or vice versa, with or without transit through one or more member States or non-member countries,
 
-Having regard to the proposal from the Commission (1),
+- between non-member countries with transit through the territory of one or more member States,
 
-Having regard to the opinion of the European Parliament (2),
+and unladen journeys in connection with such carriage.
 
-Having regard to the opinion of the economic and social committee (3),
-
-Whereas regulation (EEC) no 1463/70 (4) as last amended by Regulation (EEC) no 2828/77 (5) introduced recording equipment in road transport;
-
-Whereas, taking into account the amendments set out hereinafter, in order to clarify matters, all the relevant provisions should be brought together in a single text, and in consequence thereof, regulation (EEC) no 1463/70 of the Council should be repealed;
-
-Whereas, however, the exemptions set out in article 3 (1) for certain passenger services should be maintained in force for a certain time;
-
-Whereas the use of recording equipment that May indicate the periods of time referred to in Regulation (EEC) no 3820/85 on the harmonisation of certain social legislation relating to road transport (6) is intended to ensure effective checking on that social legislation;
-
-whereas the obligation to use such recording equipment can be imposed only for vehicles registered in member states; whereas furthermore certain of such vehicles may, without giving rise to difficulty, be excluded from the scope of this Regulation;
-
-Whereas the member states should be entitled, with the commission’s authorisation, to grant certain vehicles exemptions from the provisions of the Regulation in exceptional circumstances;
-
-Whereas, in urgent cases, it should be possible to grant these exemptions for a limited time without prior authorisation from the Commission;
-
-Whereas, in order to ensure effective checking, the equipment must be reliable in operation, easy to use and designed in such a way as to minimise any possibility of fraudulent use;
+In the case of carriage from a member State to a non-member country or vice versa, this authorisation is valid for that part of the journey effected on
 
 Transport
 
-1998-44 Whereas to this end recording equipment should in particular be capable of providing, on separate sheets for each driver and in a sufficiently precise and easily readable form, recorded details of the various periods of time;
+1998-44 the territory of the member State of loading or unloading upon conclusion of the necessary agreement  between the Community and the non-member country in question in accordance with Regulation (EEC) No 881/92.
 
-Whereas automatic recording of other details of a vehicle's journey, such as speed and distance covered, will contribute significantly to road safety and will encourage sensible driving of the vehicle;
+The authorisation is personal to the holder and is not transferable.
 
-Whereas, consequently, it appears appropriate to provide for the equipment also to record those details;
+It May be withdrawn by the competent authority of the member State which issued it, notably where the haulier has:
 
-Whereas it is necessary to set community construction and installation standards for recording equipment and to provide for an EEC approval procedure, in order to avoid throughout the territory of the member states any impediment to the registration of vehicles fitted with such recording equipment, to their entry into service or use, or to such equipment being used;
+- not complied with all the conditions for using the authorisation,
 
-Whereas, in the event of differences of opinion between member states concerning cases of EEC type approval, the Commission should be empowered to take a decision on a dispute within six months if the states concerned have been unable to reach a settlement;
+- supplied incorrect information with regard to the data needed for the issue or extension of the authorisation.
 
-Whereas it would be helpful in implementing this regulation and preventing abuses to issue drivers who so request with a copy of their record sheets;
+The original of the authorisation must be kept by the haulage undertaking.
 
-Whereas, in order to achieve the aims hereinbefore mentioned of keeping a check on work and rest periods, it is necessary that employers and drivers be responsible for seeing that the equipment functions correctly and that they perform with due care the operations prescribed;
+A certified copy of the authorisation must be kept in the vehicle (2).
 
-Whereas the provisions governing the number of record sheets that a driver must keep with him must be amended following the replacement of the flexible week by a fixed week;
+In the case of a coupled combination of vehicles it must accompany the motor vehicle.
 
-Whereas technical progress necessitates rapid adaptation of the technical specifications set out in the annexes to this Regulation;
+It covers the coupled combination of vehicles even if the trailer or semi- trailer is not  registered or authorised to use the roads in the name of the authorisation holder or if it is registered or authorised to use the roads in another member State.
 
-Whereas, in order to facilitate the implementation of the measures necessary for this purpose, provision should be made for a procedure establishing close co-operation between the member states and the Commission within an advisory committee;
+The authorisation must be produced whenever required by an authorised inspecting officer.  Within the territory of each member State the holder must comply with the laws, regulations and administrative provisions in force in that State, in particular with regard to transport and traffic.
 
-Whereas member states should exchange the available information on breaches established;
+(1) OJ No L 335, 22. 12. 1984, p. 72.'
 
-Transport
+(1) The distinguishing signs are: (B) Belgium,
 
-1998-44 Whereas, in order to ensure that recording equipment functions reliably and correctly, it is advisable to lay down uniform requirements for the periodic checks and inspections to which the equipment is to be subject after installation, has adopted this Regulation:
+(DK) Denmark,
 
-Chapter I
+(D) Germany,
 
-Principles and Scope
+(GR) Greece,
 
-Article 1
+(ES) Spain,
 
-Recording equipment within the meaning of this Regulation shall, as regards construction, installation, use and testing, comply with the requirements of this regulation and of annexes I and II thereto, which shall form an integral part of this Regulation.
-
-Article 2
-
-For the purposes of this regulation the definitions set out in article 1 of Regulation (EEC) no 3820/85 shall apply.
-
-Article 3
-
-1. Recording equipment shall be installed and used in vehicles registered in a member state which are used for the carriage of passengers or goods by road, except the vehicles referred to in articles 4 and 14(1) of Regulation (EEC) no 3820/85.
-
-2. Member states may exempt vehicles mentioned in article 13(1) of Regulation (EEC) no 3820/85 from application of this regulation. Member states shall inform the Commission of any exemption granted under this paragraph.
-
-3. Member states may, after authorisation by the Commission, exempt from application of this Regulation vehicles used for the transport operations referred to in article 13(2) of Regulation (EEC) no 3820/85. In urgent cases they may grant a temporary exemption for a period not exceeding 30 days, which shall be notified immediately to the Commission. The Commission shall notify the other member states of any exemption granted pursuant to this paragraph.
-
-4. In the case of national transport operations, member states may require the installation and use of recording equipment in accordance with this Regulation in any of the vehicles for which its installation and use are not required by paragraph 1.
+(F) France,
 
 Transport
 
-1998-44 Chapter II
+1998-44 (IRL) Ireland,
 
-Type Approval
+(I) Italy,
 
-Article 4
+(L) Luxembourg,
 
-Applications for EEC approval of a type of recording equipment or of a model record sheet shall be submitted, accompanied by the appropriate specifications, by the manufacturer or his agent to a member state. No application in respect of any one type of recording equipment or of any one model record sheet may be submitted to more than one member state.
+(NL) Netherlands,
 
-Article 5
+(P) Portugal,
 
-A member state shall grant EEC approval to any type of recording equipment or to any model record sheet which conforms to the requirements laid down in annex I to this Regulation, provided the member state is in a position to check that production models conform to the approved prototype.  Any modifications or additions to an approved model must receive additional EEC type approval from the member state which granted the original EEC type approval.
+(UK) United Kingdom.
 
-Article 6
+(2) Name or business name and full  address of the haulier.
 
-Member states shall issue to the applicant an EEC approval mark, which shall conform to the model shown in annex II, for each type of recording equipment or model record sheet which they approve pursuant to article 5.
+(3) Signature and stamp of the issuing competent authority or body.”.
 
-Article 7
+Annex II “Annex
 
-The competent authorities of the member state to which the application for type approval has been submitted shall, in respect of each type of recording equipment or model record sheet which they approve or refuse to approve, either send within one month to the authorities of the other member states a copy of the approval certificate accompanied by copies of the relevant specifications, or, if such is the case, notify those authorities that approval has been refused; in cases of refusal they shall communicate the reasons for their decision.
+Types of carriage to be exempted from any community authorisation and from any carriage authorisation.
+
+1. Carriage of mail as a public service.
+
+2. Carriage of vehicles which have suffered damage or breakdown.
+
+3. Carriage of goods in motor vehicles the permissible laden weight of which, including that of trailers, does not exceed six tonnes or the permissible payload of which, including that of trailers, does not exceed 3,5 tonnes.
+
+4. Carriage of goods in motor vehicles provided the following conditions are fulfilled:
+
+(a) the goods carried must be the property of the undertaking or must have been sold, bought, let out on hire or hired, produced, extracted, processed or repaired by the undertaking;
+
+(b) the purpose of the journey must be to carry the goods to or from the undertaking or to move them, either inside the undertaking or outside for its own requirements;
+
+(c) motor vehicles used for such carriage must be driven by employees of the undertaking;
 
 Transport
 
-1998-44 Article 8
+1998-44 (d) the vehicles carrying the goods must be owned by the undertaking or have been bought by it on deferred terms or hired provided that in the latter case they meet the conditions of Council Directive 84/647/EEC of 19 December 1984 on the use of  vehicles hired without drivers for the carriage of goods by road (1).  This provision shall not apply to the use of a replacement vehicle during a short breakdown of the vehicle normally used;
 
-1. If a member state which has granted EEC type approval as provided for in article 5 finds that certain recording equipment or record sheets bearing the EEC type approval mark which it has issued do not conform to the prototype which it has approved, it shall take the necessary measures to ensure that production models conform to the approved prototype. The measures taken May, if necessary, extend to withdrawal of EEC type approval.
+(e) carriage must be no more than ancillary to the overall activities of the undertaking.
 
-2. A member state which has granted EEC type approval shall withdraw such approval if the recording equipment or record sheet which has been approved is not in conformity with this regulation or its annexes or displays in use any general defect which makes it unsuitable for the purpose for which it is intended.
-
-3. If a member state which has granted EEC type approval is notified by another member state of one of the cases referred to in paragraphs 1 and t shall also, after consulting the latter member state, take the steps laid down in those paragraphs, subject to paragraph 5.
-
-4. A member state which ascertains that one of the cases referred to in paragraph 2 has arisen may forbid until further notice the placing on the market and putting into service of the recording equipment or record sheets. The same applies in the cases mentioned in paragraph 1 with respect to recording equipment or record sheets which have been exempted from EEC initial verification, if the manufacturer, after due warning, does not bring the equipment into line with the approved model or with the requirements of this regulation. in any event, the competent authorities of the member states shall notify one another and the Commission, within one month, of any withdrawal of EEC type approval or of any other measures taken pursuant to paragraphs 1, 2 and 3 and shall specify the reasons for such action.
-
-5. If a member state which has granted an EEC type approval disputes the existence of any of the cases specified in paragraphs 1 or 2 notified to it, the member states concerned shall endeavour to settle the dispute and the Commission shall be kept informed. If talks between the member states have not resulted in agreement within four months of the date of the notification referred to in paragraph 3 above, the Commission, after consulting experts from all member states and having considered all the relevant factors, e.g. economic and technical factors, shall within six months adopt a decision which shall be communicated to the member states concerned and at the same time to the other member states. The Commission shall lay down in each instance the time limit for implementation of its decision.
-
-Transport
-
-1998-44 Article 9
-
-1. An applicant for EEC type approval of a model record sheet shall state on his application the type or types of recording equipment on which the sheet in question is designed to be used and shall provide suitable equipment of such type or types for the purpose of testing the sheet.
-
-2. The competent authorities of each member state shall indicate on the approval certificate for the model record sheet the type or types of recording equipment on which that model sheet may be used.
-
-Article 10
-
-No member state may refuse to register any vehicle fitted with recording equipment, or prohibit the entry into service or use of such vehicle for any reason connected with the fact that the vehicle is fitted with such equipment, if the equipment bears the EEC approval mark referred to in article 6 and the installation plaque referred to in article 12.
-
-Article 11
-
-All decisions pursuant to this regulation refusing or withdrawing approval of a type of recording equipment or model record sheet shall specify in detail the reasons on which they are based. A decision shall be communicated to the party concerned, who shall at the same time be informed of the remedies available to him under the laws of the member states and of the time-limits for the exercise of such remedies.
-
-Chapter III
-
-Installation and Inspection
-
-Article 12
-
-1. Recording equipment may be installed or repaired only by fitters or workshops approved by the competent authorities of member states for that purpose after the latter, should they so desire, have heard the views of the manufacturers concerned.
-
-2. The approved fitter or workshop shall place a special mark on the seals which it affixes. The competent authorities of each member state shall maintain a register of the marks used.
-
-3. The competent authorities of the member states shall send each other their lists of approved fitters or workshops and also copies of the marks used.
+5. Carriage of medicinal products, appliances, equipment and other articles required for medical care in emergency relief, in particular for natural disasters.
 
 Transport
 
 1998-44
-
-4. For the purpose of certifying that installation of recording equipment took place in accordance with the requirements of this regulation an installation plaque affixed as provided in annex I shall be used.
-
-Chapter IV
-
-Use of Equipment
-
-Article 13
-
-The employer and drivers shall be responsible for seeing that the equipment functions correctly.
-
-Article 14
-
-1. The employer shall issue a sufficient number of record sheets to drivers, bearing in mind the fact that these sheets are personal in character, the length of the period of service and the possible obligation to replace sheets which are damaged, or have been taken by an authorised inspecting officer. The employer shall issue to drivers only sheets of an approved model suitable for use in the equipment installed in the vehicle.
-
-2. The undertaking shall keep the record sheets in good order for at least a year after their use and shall give copies to the drivers concerned who request them. The sheets shall be produced or handed over at the request of any authorised inspecting officer.
-
-Article 15
-
-1. Drivers shall not use dirty or damaged record sheets. The sheets shall be adequately protected on this account.  In case of damage to a sheet bearing recordings, drivers shall attach the damaged sheet to the spare sheet used to replace it.
-
-2. Drivers shall use the record sheets every day on which they are driving, starting from the moment they take over the vehicle. The record sheet shall not be withdrawn before the end of the daily working period unless its withdrawal is otherwise authorised. No record sheet may be used to cover a period longer than that for which it is intended. When, as a result of being away from the vehicle, a driver is unable to use the equipment fitted to the vehicle, the periods of time indicated in paragraph 3, second indent (b), (c) and (d) below shall be entered on the sheet, either manually, by automatic recording or other means, legibly and without dirtying the sheet.
-
-Transport
-
-1998-44 Drivers shall amend the record sheets as necessary should there be more than one driver on board the vehicle, so that the information referred to in Chapter II (1) to (3) of annex I is recorded on the record sheet of the driver who is actually driving.
-
-3. Drivers shall:
-
-- ensure that the time recorded on the sheet agrees with the official time in the country of registration of the vehicle,
-
-- operate the switch mechanisms enabling the following periods of time to be recorded separately and distinctly:
-
-(a) under the sign : driving time;
-
-(b) under the sign : all other periods of work;
-
-(c) under the sign : other periods of availability, namely:
-
-- waiting time, i.e. the period during which drivers need remain at their posts only for the purpose of answering any calls to start or resume driving or to carry out other work,
-
-- time spent beside the driver while the vehicle is in motion,
-
-- time spent on a bunk while the vehicle is in motion;
-
-(d) under the sign : breaks in work and daily rest periods.
-
-4. Each member state may permit all the periods referred to in paragraph
-
-3. second indent (b) and (c) to be recorded under the sign on the record sheets used on vehicles registered in its territory.
-
-5. Each crew member shall enter the following information on his record sheet:
-
-(a) on beginning to use the sheet - his surname and first name;
-
-(b) the date and place where use of the sheet begins and the date and place where such use ends;
-
-(c) the registration number of each vehicle to which he is assigned, both at the start of the first journey recorded on the sheet and
-
-Transport
-
-1998-44 then, in the event of a change of vehicle, during use of the sheet;
-
-(d) the odometer reading:
-
-- at the start of the first journey recorded on the sheet,
-
-- at the end of the last journey recorded on the sheet,
-
-- in the event of a change of vehicle during a working day (reading on the vehicle to which he was assigned and reading on the vehicle to which he is to be assigned);
-
-(e) the time of any change of vehicle.
-
-6. The equipment shall be so designed that it is possible for an authorised inspecting officer, if necessary after opening the equipment, to read the recordings relating to the nine hours preceding the time of the check without permanently deforming, damaging or soiling the sheet.
-
-The equipment shall, furthermore, be so designed that it is possible, without opening the case, to verify that recordings are being made.
-
-7. Whenever requested by an authorised inspecting officer to do so, the driver must be able to produce record sheets for the current week, and in any case for the last day of the previous week on which he drove.
-
-Article 16
-
-1. In the event of breakdown or faulty operation of the equipment, the employer shall have it repaired by an approved fitter or workshop, as soon as circumstances permit.  If the vehicle is unable to return to the premises within a period of one week calculated from the day of the breakdown or of the discovery of defective operation, the repair shall be carried out en route.
-
-Measures taken by member states pursuant to article 19 may give the competent authorities power to prohibit the use of the vehicle in cases where breakdown or faulty operation has not been put right as provided in the foregoing subparagraphs.
-
-2. While the equipment is unserviceable or operating defectively, drivers shall mark on the record sheet or sheets, or on a temporary sheet to be attached to the record sheet, all information for the various periods of time which is not recorded correctly by the equipment.
-
-Chapter V
-
-Transport
-
-1998-44
-
-Final Provisions
-
-Article 17
-
-The amendments necessary to adapt the annexes to technical progress shall be adopted in accordance with the procedure laid down in article 18.
-
-Article 18
-
-1. A committee for the adaptation of this regulation to technical progress (hereinafter called “the committee”) is hereby set up; it shall consist of representatives of the member states, and a representative of the Commission shall be chairman.
-
-2. The committee shall adopt its own rules of procedure.
-
-3. Where the procedure laid down in this article is to be followed, the matter shall be referred to the committee by the chairman, either on his own initiative or at the request of the representative of a member state.
-
-4. The Commission representative shall submit to the committee a draft of the measures to be taken. The committee shall give its opinion on that draft within a time limit set by the chairman having regard to the urgency of the matter.  Opinions shall be delivered by a qualified majority in accordance with article 148(2) of the treaty. The chairman shall not vote.
-
-5. (a)  The Commission shall adopt the envisaged measures where they are in accordance with the opinion of the committee.
-
-(b)  where the measures envisaged are not in accordance with the opinion of the committee or if no opinion is delivered, the Commission shall without delay submit to the Council a proposal on the measures to be taken.  The Council shall act by a qualified majority.
-
-(c)  if the Council has not acted within three months of the proposal being submitted to it, the proposed measures shall be adopted by the Commission.
-
-Article 19
-
-1. Member states shall, in good time and after consulting the Commission, adopt such laws, regulations or administrative provisions as may be necessary for the implementation of this Regulation.  Such measures shall cover, inter alia, the reorganisation of, procedure for, and means of carrying out, checks on compliance and the penalties to be imposed in case of breach.
-
-Transport
-
-1998-44
-
-2. Member states shall assist each other in applying this regulation and in checking compliance therewith.
-
-3. Within the framework of this mutual assistance the competent authorities of the member states shall regularly send one another all available information concerning:
-
-- breaches of this Regulation committed by non-residents and any penalties imposed for such breaches,
-
-- penalties imposed by a member state on its residents for such breaches committed in other member states.
-
-Article 20
-
-Regulation (EEC) no 1463/70 shall be repealed.  However, article 3 (1) of the said Regulation shall, until 31 December 1989, continue to apply to vehicles and drivers employed in regular international passenger services in so far as the vehicles used for such services are not fitted with recording equipment used as prescribed in this Regulation.
-
-Article 21
-
-This Regulation shall enter into force on 29 September 1986.
-
-This Regulation shall be binding in its entirety and directly applicable in all member states.
-
-Done at Brussels, 20 December 1985. For the Council the President R. Krieps
-
-(1) OJ No C 100, 12. 4. 1984, p. 3, and OJ No C 223, 3. 9. 1985,
-
-p. 5.
-
-(2) OJ No C 122, 20. 5. 1985, p. 168.
-
-(3) OJ No C 104, 25. 4. 1985, p. 4, and OJ No C 303, 25. 11. 1985,
-
-p. 29.
-
-(4) OJ No L 164, 27. 7. 1970, p. 1.
-
-(5) OJ No L 334, 24. 12. 1977, p. 11.
-
-Transport
-
-1998-44 (6) see page 1 of this Official Journal.
