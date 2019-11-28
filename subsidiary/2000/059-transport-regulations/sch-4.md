@@ -6,7 +6,7 @@ TAXIS
 
 The seating capacity of taxis must not exceed eight persons excluding the driver.
 
-2. OTHER PUBLIC SERVICE VEHICLES
+2.OTHER PUBLIC SERVICE VEHICLES
 
 For the purposes of this paragraph, the seating capacity of a vehicle shall be determined as follows.
 
@@ -18,14 +18,4 @@ For the purposes of this paragraph, the seating capacity of a vehicle shall be d
 
 2.4  Where on any vehicle there are seats alongside the driver’s seat, whether separate from, or continuous with, the driver’s seat, and the Commission is satisfied that those seats will not, during the currency of the licence to be granted, be permitted to be used by members of the public travelling on the vehicle, those seats shall be excluded in calculating the seating capacity of the vehicle.
 
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059 2.5  In calculating the seating capacity of a vehicle constructed for the carrying of children not exceeding twelve years of age, two seats shall count as three.
-
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059
+2.5  In calculating the seating capacity of a vehicle constructed for the carrying of children not exceeding twelve years of age, two seats shall count as three.

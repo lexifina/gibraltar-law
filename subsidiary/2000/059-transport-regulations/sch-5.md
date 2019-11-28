@@ -18,44 +18,30 @@ OPERATOR LICENCES
 
 £
 
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059 1 For every application for an operator licence 50.00 2 For every operator licence 250.00 3  For every transfer of operator licence 250.00 4 For a duplicate operator licence 25.00 5 For every application for the amendment of an operator licence 50.00 6 For every renewal of an operator licence
+1 For every application for an operator licence 50.00 2 For every operator licence 250.00 3  For every transfer of operator licence 250.00 4 For a duplicate operator licence 25.00 5 For every application for the amendment of an operator licence 50.00 6 For every renewal of an operator licence
 
 Note.
 
-This paragraph applies to every operator licence other than a chauffeur-driven hire care operator’s licence as set out below. 100.00
+This paragraph applies to every operator licence other than a chauffeur- driven hire care operator’s licence as set out below. 100.00
 
 CHAUFFEUR-DRIVEN HIRE CAR OPERATOR’S LICENCES
 
-£ 1 For every application for a chauffeur-driven hire car operator’s licence 250.00 2 For a duplicate chauffeur-driven hire car operator’s licence 25.00 3 For every application for the amendment of a chauffeur- driven hire car operator’s licence 10.00 4 For every renewal of a chauffeur-driven hire car operator’s licence. 100.00
+£ 1 For every application for a chauffeur-driven hire car operator’s licence 250.00 2 For a duplicate chauffeur-driven hire car operator’s licence 25.00 3 For every application for the amendment of a chauffeur-driven hire car operator’s licence 10.00 4 For every renewal of a chauffeur-driven hire car operator’s licence. 100.00
 
 Annual indexation of fees.
 
-1. Subject to the provisions of the following paragraphs, the fees set out in the tables below (using the same paragraph numbering as above) must be revised annually in accordance with the Index of Retail Prices published by the Government Statistician.
+1.Subject to the provisions of the following paragraphs, the fees set out in the tables below (using the same paragraph numbering as above) must be revised annually in accordance with the Index of Retail Prices published by the Government Statistician.
 
-2. Subject to subparagraph 2a, the first revision shall apply as from the 1 May 2017 and shall apply the index of retail prices as at the 1 January 2017, and subsequent revisions shall apply on each subsequent 1 May and apply the index of retail prices prevailing on the preceding 1 January of that year.
+2.Subject to subparagraph 2a, the first revision shall apply as from the 1 May 2017 and shall apply the index of retail prices as at the 1 January 2017, and subsequent revisions shall apply on each subsequent 1 May and apply the index of retail prices prevailing on the preceding 1 January of that year.
 
 2A. The first revision in respect of the renewal of a road service licence shall apply as from the 1 May 2019 and shall apply the index of retail prices as at the 1 January 2019, and subsequent revisions shall apply in accordance with paragraphs 2 and 3.
 
 3. Any figure revised pursuant to paragraph 1 shall be rounded up to the next whole penny.
 
-Transport TRANSPORT REGULATIONS 2000
+FEES (ROAD SERVICE LICENCE) Amount (£)
 
-1998-44
-
-Subsidiary 2000/059
-
-FEES (ROAD SERVICE LICENCE) Amount (£) 5.  For every application for the amendment of a road service licence (other than an application under section 17(6)(b) of the Act 60
+5.  For every application for the amendment of a road service licence (other than an application under section 17(6)(b) of the Act 60
 
 6. For every renewal of a road service licence 140
 
 FEES (LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES.) Amount (£) 1. For  a licence to drive 25 4.  For renewal of licence 25
-
-Transport TRANSPORT REGULATIONS 2000
-
-1998-44
-
-Subsidiary 2000/059
