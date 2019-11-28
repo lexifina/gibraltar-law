@@ -32,7 +32,9 @@ Acts.  2002-23 ss. 2, 10A, 11 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A,  5
 
 Transport
 
-1998-44
+1998-44 2019/237 ss. 2, 25(1)(a)-(b), (2), (5), (6)(a)(iv), (7), 29(1)(d), 31, 31A, 57(1)-(2), 58, 59(1)-(2), 60(a)-(b), 61-62, 63(1)-(3), 65, Sch. 1 & 2
+
+28.11.2019
 
 English sources None cited
 
@@ -78,7 +80,7 @@ Operator Licences: Buses and Lorries
 
 Grant of Operator Licences
 
-28. Criteria for grant of operator licence 29. Revocation and suspension of operator licence 30. Duration of operator licence 31. Issue of documents and certificates for other member States 32. Renewal of operator licences 33. Non-transferability of operator licences 34. Amendment of operator licences
+28. Criteria for grant of operator licence 29. Revocation and suspension of operator licence 30. Duration of operator licence 31. Issue of certificate of professional competence for relevant States 31A. Issue of other documents and certificates for relevant States 32. Renewal of operator licences 33. Non-transferability of operator licences 34. Amendment of operator licences
 
 Operator Licences: Suitability and equipment of Vehicles
 
@@ -98,7 +100,9 @@ Self-drive hire cars
 
 Transport
 
-1998-44 Chauffeur Licences
+1998-44
+
+Chauffeur Licences
 
 51. Licensing of chauffeurs
 
@@ -108,19 +112,19 @@ Chauffeur-driven hire-cars
 
 PART IV
 
-COMMUNITY AUTHORISATIONS
+COMMUNITY LICENCES
 
-57. Purpose and interpretation 58. Use of goods vehicle without Community authorisation 59. Entitlement to the issue of Community authorisation 60. Rights of appeal 61. Effect of failure to comply with conditions governing use of Community authorisation 62. Authorised inspecting officers 63. Return of documents 64. Supply of information 65. Death, bankruptcy etc. of holder of Community authorisation 66. Offences by corporations etc
+57. Purpose and interpretation 58. Use of goods vehicle without Community Licence 59. Entitlement to the issue of Community Licence 60. Rights of appeal 61. Effect of failure to comply with conditions governing use of Community Licence 62. Authorised inspecting officers 63. Return of documents 64. Supply of information 65. Death, bankruptcy etc. of holder of Community Licence 66. Offences by corporations etc
 
 Part IVA
 
 Drivers’ Hours
 
-66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66CA. Authorisation of field tests. 66D. Installation and use of recording equipment - EU requirements. 66DA. Installation and use of recording equipment - AETR requirements. 66DB. Supply of recording equipment which is not type-approved. 66DBA. Manual daily record sheet. 66DC. Recording equipment system elements: security vulnerabilities. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data.
+66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66CA. Authorisation of field tests. 66D. Installation and use of recording equipment - EU requirements. 66DA. Installation and use of recording equipment - AETR requirements. 66DB. Supply of recording equipment which is not type-approved. 66DBA. Manual daily record sheet. 66DC. Recording equipment system elements: security vulnerabilities. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents.
 
 Transport
 
-1998-44 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records. 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66TA. Power to stop. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66WA. Exchange of information with AETR competent authorities. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
+1998-44 66H.  Vehicle units: downloading data. 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records. 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66TA. Power to stop. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66WA. Exchange of information with AETR competent authorities. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
 
 PART V
 
@@ -134,7 +138,7 @@ SCHEDULE 2
 
 Transport
 
-1998-44 Council Regulation (EEC) No 3820/85 of 20 December 1985 on the Harmonisation of Certain Social Legislation Relating to Road Transport
+1998-44 Deleted
 
 SCHEDULE 3 EXEMPTION LISTINGS
 

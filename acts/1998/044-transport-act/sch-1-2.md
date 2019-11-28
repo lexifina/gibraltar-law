@@ -16,6 +16,10 @@ PART I
 
 5.  A vehicle which is being used for funerals.
 
+Transport
+
+1998-44
+
 6. A vehicle which is being used for police, fire brigade or ambulance purposes.
 
 7. A vehicle which is being used for fire-fighting or rescue operations at mines.
@@ -26,9 +30,7 @@ PART I
 
 10. A vehicle used by or under the control of Her Majesty's United Kingdom forces or the Gibraltar Regiment
 
-Transport
-
-1998-44 11.  A trailer not constructed primarily for the carriage of goods but which is being used incidentally for that purpose in connection with the construction, maintenance or repair of roads.
+11.  A trailer not constructed primarily for the carriage of goods but which is being used incidentally for that purpose in connection with the construction, maintenance or repair of roads.
 
 12.  A road roller and any trailer drawn by it.
 
@@ -46,7 +48,9 @@ Transport
 
 (a) for the purposes of the enactments relating to weights and measures or the sale of food and drugs; or
 
-(b) road cleansing or road watering; or
+Transport
+
+1998-44 (b) road cleansing or road watering; or
 
 (c) the collection or disposal of refuse, night soil or the contents of cess-pools or septic tanks.
 
@@ -59,10 +63,6 @@ Transport
 19.  An electrically propelled vehicle.
 
 20.  A showman’s goods vehicle and any trailer drawn thereby.
-
-Transport
-
-1998-44
 
 21.  A vehicle first used before 1 January 1977 which has an unladen weight not exceeding 1525 kilograms and for which the maximum gross weight, as shown on a plate affixed to the vehicle, exceeds 3.5 tonnes but does not exceed 3 1/2 tons.
 
@@ -82,6 +82,10 @@ PART II
 
 PURPOSES REFERRED TO IN PARAGRAPH 1 OF PART I OF THIS ANNEX
 
+Transport
+
+1998-44
+
 1.  Hauling–
 
 (a) threshing appliances;
@@ -94,9 +98,7 @@ PURPOSES REFERRED TO IN PARAGRAPH 1 OF PART I OF THIS ANNEX
 
 2.  Hauling articles for a farm required by the keeper, being either the occupier of the farm or a contractor employed to do agricultural work on the farm by the occupier of the farm.
 
-Transport
-
-1998-44 3.  Hauling articles for a forestry estate required by the keeper where the keeper is the occupier of that estate or employed to do forestry work on the estate by the occupier or a contractor employed to do forestry work on the estate by the occupied.
+3.  Hauling articles for a forestry estate required by the keeper where the keeper is the occupier of that estate or employed to do forestry work on the estate by the occupier or a contractor employed to do forestry work on the estate by the occupied.
 
 4.  Hauling within 25 kilometres of a farm or a forestry estate occupied by the keeper, agricultural or woodland produce of that farm or estate.
 
