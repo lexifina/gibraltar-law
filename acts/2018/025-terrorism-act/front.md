@@ -12,7 +12,7 @@ Assent 20.12.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2019-05 ss. 19(1)(b), 41(5), 43(3), (4), 51(2)(c), 53(4), 96(1), 160(2)- (3), Schs. 2, 9 21.3.2019 LN. 2019/093 s. 39A, Sch. 17 11.4.2019
+Act. 2019-05 ss. 19(1)(b), 41(5), 43(3), (4), 51(2)(c), 53(4), 96(1), 160(2)- (3), Schs. 2, 9 21.3.2019 LN. 2019/093 s. 39A, Sch. 17 11.4.2019 2019/243 ss. 151A, 140B, 151(1)(b) 19.12.2019
 
 Terrorism
 
@@ -170,15 +170,15 @@ Supplementary provisions
 
 PART 10 TERRORISM OVERSEAS
 
-134. Inciting terrorism overseas. 135. Terrorist bombing: jurisdiction. 136. Terrorist finance: jurisdiction. 137. Other terrorist offences under this Act: jurisdiction. 138. Terrorist attacks abroad by Gibraltarians or Gibraltar residents: jurisdiction. 139. Terrorist attacks abroad on Gibraltarians or Gibraltar residents: jurisdiction. 140. Sections 138 to 139: supplementary. 140A. Extradition.
+134. Inciting terrorism overseas. 135. Terrorist bombing: jurisdiction. 136. Terrorist finance: jurisdiction. 137. Other terrorist offences under this Act: jurisdiction. 138. Terrorist attacks abroad by Gibraltarians or Gibraltar residents: jurisdiction. 139. Terrorist attacks abroad on Gibraltarians or Gibraltar residents: jurisdiction. 140. Sections 138 to 139: supplementary. 140A. Extradition. 140B. Application of the Mutual Legal Assistance (International) Act 2005.
 
 PART 11 GENERAL
 
-141. Police powers. 142. Officers’ powers. 143. Powers to stop and search. 144. Consent to prosecution. 145. Defences. 146. Sentences for offences with a terrorist connection. 147. Crown servants, regulators, etc 148. Evidence. 149. Supplementary powers of forfeiture. 150. Money.
+141. Police powers. 142. Officers’ powers. 143. Powers to stop and search. 144. Consent to prosecution. 145. Defences. 146. Sentences for offences with a terrorist connection. 147. Crown servants, regulators, etc 148. Evidence. 149. Supplementary powers of forfeiture.
 
 Terrorism
 
-2018-25 151. Liability of, and penalties for, a body corporate.
+2018-25 150. Money. 151. Liability of, and penalties for, a body corporate. 151A. Application to ships registered in Gibraltar.
 
 PART 12 SUPPLEMENTARY PROVISIONS
 
@@ -202,11 +202,11 @@ SCHEDULE 8 ACCOUNT MONITORING ORDERS
 
 SCHEDULE 9 DETENTION - TREATMENT, REVIEW AND EXTENSION
 
-Part 1 Treatment of persons detained under section 85 Part 2 Review of detention under Schedule 10 Part 3 Review of detention under section 85 Part 4 Extension of detention under section 85
+Part 1 Treatment of persons detained under section 85 Part 2 Review of detention under Schedule 10 Part 3 Review of detention under section 85
 
 Terrorism
 
-2018-25 Part 5 Emergency power for temporary extension of maximum period for extension of detention under section 85 Part 6 Code of practice
+2018-25 Part 4 Extension of detention under section 85 Part 5 Emergency power for temporary extension of maximum period for extension of detention under section 85 Part 6 Code of practice
 
 SCHEDULE 10 PORT AND BORDER CONTROLS
 
