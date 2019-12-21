@@ -22,11 +22,9 @@ Gross tonnage
 
 Inmarsat call numbers (if available)
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (REPORTING FORMALITIES FOR SHIPS) REGULATIONS 2012
+Name of company and company identification number
 
-1995-13
-
-Subsidiary 2012/096 Name of company and company identification number CSO name and 24 hour contact details
+CSO name and 24 hour contact details
 
 Port of arrival
 
@@ -56,7 +54,7 @@ Location of ship at the time this report is made
 
 List the last 10 calls at port facilities in chronological order (most recent call first):
 
-No Date from (dd/mm/y yyy) Date to (dd/mm/ yyyy) Port Country UN/LOC ODE (if available) Port facility Security level
+No Date from (dd/mm/ yyyy) Date to (dd/mm/ yyyy) Port Country UN/LOC ODE (if available) Port facility Security level
 
 1
 
@@ -64,7 +62,9 @@ SL =
 
 2
 
-SL = 3
+SL =
+
+3
 
 SL =
 
@@ -82,7 +82,9 @@ SL =
 
 7
 
-SL = 8
+SL =
+
+8
 
 SL =
 
@@ -90,17 +92,15 @@ SL =
 
 SL =
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (REPORTING FORMALITIES FOR SHIPS) REGULATIONS 2012
-
-1995-13
-
-Subsidiary 2012/096
-
 10
 
 SL =
 
-Did the ship take any special or additional security measures, beyond those in the approved SSP? If the answer is YES, indicate below the special or additional security measures taken by the ship. YES NO No (as above) Special or additional security measures taken by the ship
+Did the ship take any special or additional security measures, beyond those in the approved SSP? YES NO
+
+If the answer is YES, indicate below the special or additional security measures taken by the ship.
+
+No (as above) Special or additional security measures taken by the ship
 
 1
 
@@ -122,7 +122,7 @@ Did the ship take any special or additional security measures, beyond those in t
 
 10
 
-List the ship-to-ship activities, in chronological order (most recent first), which were carried out during the last 10 calls at port facilities listed above. Expand table below or continue on separate page if necessary – insert total number of ship-to-ship activities: Were the ship security procedures specified in the approved SSP maintained during each of these ship-to-ship activities? If NO, provide details of the security measures applied in lieu in the final column below.
+List the ship-to-ship activities, in chronological order (most recent first), which were carried out during the last 10 calls at port facilities listed above. Expand table below or continue on separate page if necessary – insert total number of ship-to-ship activities: Were the ship security procedures specified in the approved SSP maintained during each of these ship- to-ship activities? If NO, provide details of the security measures applied in lieu in the final column below.
 
 YES NO No Date from (dd/mm/yyyy) Date to (dd/mm/yyyy) Location or longitude and latitude Ship-to- ship activity Security measures applied in lieu
 
@@ -140,12 +140,6 @@ YES NO No Date from (dd/mm/yyyy) Date to (dd/mm/yyyy) Location or longitude and 
 
 7
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (REPORTING FORMALITIES FOR SHIPS) REGULATIONS 2012
-
-1995-13
-
-Subsidiary 2012/096
-
 8
 
 9
@@ -160,13 +154,13 @@ YES
 
 NO
 
-If YES, confirm Dangerous Goods Manifest (or relevant extract) is attached Confirm a copy of the ship’s crew list is attached
-
-YES Confirm a copy of the ship’s passenger list is attached YES
+If YES, confirm Dangerous Goods Manifest (or relevant extract) is attached Confirm a copy of the ship’s crew list is attached YES Confirm a copy of the ship’s passenger list is attached YES
 
 Other security-related information
 
-Is there any security-related matter you wish to report? YES Provide details: NO
+Is there any security-related matter you wish to report?
+
+YES Provide details: NO
 
 Agent of ship at intended port of arrival
 

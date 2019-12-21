@@ -22,11 +22,7 @@ Article 6 of Regulation (EC) No 725/2004 of the European Parliament and of the C
 
 Until the adoption of a harmonised form at international level, the form set out in the Appendix to this Schedule shall be used for the transmission of information required under Article 6 of Regulation (EC) No 725/2004. The form can be transmitted electronically.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (REPORTING FORMALITIES FOR SHIPS) REGULATIONS 2012
-
-1995-13
-
-Subsidiary 2012/096
+Regulations 4(4) and 5(2) of the Gibraltar Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 2004
 
 B. FAL forms and formalities resulting from international legal instruments:
 
