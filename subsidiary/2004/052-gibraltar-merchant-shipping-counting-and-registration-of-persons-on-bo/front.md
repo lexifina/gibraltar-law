@@ -10,15 +10,25 @@ GIBRALTAR MERCHANT SHIPPING (COUNTING AND REGISTRATION OF PERSONS ON BOARD PASSE
 
 9.9.2004 (LN. 2004/083)
 
-Transposing: Directive 98/41/EC _____________________________
+Amending enactments Relevant current provisions Commencement date
 
-ARRANGEMENT OF REGULATIONS
+LN. 2019/247 rr. 2, 3(2), 4(1)(c), (4), (4A), 5-7, 8(1)(b)(i), (2), (2A), (5), 8A-8B, Sch.
+
+21.12.2019
+
+Transposing: Directive 98/41/EC Directive (EU) 2017/2109
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COUNTING AND REGISTRATION OF PERSONS ON BOARD PASSENGER SHIPS) REGULATIONS 2004
+
+1995-13
+
+Subsidiary 2004/052 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. Application of these Regulations. 4. Passenger counting. 5. Additional requirement for voyages of more than 20 miles. 6. Non-community ships on voyages from outside the European Community to Gibraltar. 7. Registration system. 8. Exemptions. 9. False statements. 10. Offences. 11. Defences.
+1. Title and commencement. 2. Interpretation. 3. Application of these Regulations. 4. Passenger counting. 5. Additional requirement for voyages of more than 20 miles. 6. Non-EU ships on voyages from outside the European Union to Gibraltar. 6A. Master’s duty to count the number of persons on board. 7. Management of passenger’s data. 8. Exemptions. 8A. Procedure for registration and maintenance of data. 8B. Further responsibility for collection, recording and processing of data. 9. False statements. 10. Offences. 11. Defences.
 
-Schedule FUNCTIONAL CRITERIA FOR A SYSTEM FOR THE REGISTRATION OF INFORMATION
+Schedule Deleted.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COUNTING AND REGISTRATION OF PERSONS ON BOARD PASSENGER SHIPS) REGULATIONS 2004
 
