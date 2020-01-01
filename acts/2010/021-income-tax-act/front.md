@@ -22,9 +22,9 @@ Amending enactments Relevant current provisions Commencement date Act. 2015-23 s
 
 Income Tax
 
-2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019 2019/025 Sch. 1 7.2.2019
+2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019 2019/025 Sch. 1 7.2.2019 2020/056 Sch. 4 1.1.2020 2020/057 Sch. 4 1.1.2020
 
-Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258
+Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952
 
 Income Tax
 
@@ -206,11 +206,11 @@ Part II
 
 Transactions with connected persons
 
-4. Transactions with connected persons. 5. Non-deductibility of interest paid on certain secured loans. 6. Chargeability of dual employment contracts.
+4. Transactions with connected persons. 5. Non-deductibility of interest paid on certain secured loans.
 
 Income Tax
 
-2010-21 7. Exemption from Paragraphs 2 and 4 to 6.
+2010-21 6. Chargeability of dual employment contracts. 7. Exemption from Paragraphs 2 and 4 to 6.
 
 Part III
 
@@ -232,6 +232,12 @@ Interest Limitation Rule
 
 18. Interest limitation rule.
 
+Part VA
+
+EXIT TAXATION
+
+18A.
+
 Part VI
 
 Controlled Foreign Company Rule
@@ -242,15 +248,17 @@ Part VII
 
 Hybrid Mismatch
 
-21. Hybrid Mismatch
+Income Tax
+
+2010-21
+
+21. Hybrid Mismatch 22. Associated enterprise 23. Denial of deductions 24. 25. 26. 27. 28. Tax residency mismatches
 
 SCHEDULE 5
 
 Part I
 
-Income Tax
-
-2010-21 Parent and Subsidiary Company Directive
+Parent and Subsidiary Company Directive
 
 1. Interpretation. 2. Parent and subsidiary companies. 3. Corporation tax.
 
@@ -266,7 +274,9 @@ Part I
 
 Article 3(a) of Directive 2003/49/EC.
 
-Part II
+Income Tax
+
+2010-21 Part II
 
 Annex to Directive 2003/49.
 
@@ -278,11 +288,7 @@ Part 1
 
 Tax at the higher rate on utilities
 
-1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate.
-
-Income Tax
-
-2010-21 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
+1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
 
 Part II-Taxation on companies who abuse a dominant position
 
@@ -296,7 +302,11 @@ Chapter 1
 
 General
 
-1. Earnings. 2. Meaning of “director” and “full-time working director”. 3. Meaning of “material interest” in a company. 4. Extended meaning of “control”. 5. Meaning of “close company”.
+1. Earnings. 2. Meaning of “director” and “full-time working director”. 3. Meaning of “material interest” in a company. 4. Extended meaning of “control”.
+
+Income Tax
+
+2010-21 5. Meaning of “close company”.
 
 Chapter 2
 
@@ -308,11 +318,7 @@ Chapter 3
 
 Taxable benefits; vouchers and credit tokens
 
-7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies.
-
-Income Tax
-
-2010-21 9. Credit tokens. 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
+7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies. 9. Credit tokens. 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
 
 Chapter 4
 
@@ -326,15 +332,15 @@ Cars, vans and related benefits
 
 20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use. 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
 
-Chapter 6
+Income Tax
+
+2010-21 Chapter 6
 
 Taxable benefits; Loans
 
 29. Loans to which this Chapter applies. 30. Employment-related loans. 31. Benefit of taxable cheap loan treated as earnings. 32. Exception for loans where interest qualifies for tax relief. 33. Exceptions for certain advances for necessary expenses. 34. Apportionment of cash equivalent in case of joint loan, etc. 35. Loan released or written off or made to directors; amounts treated as earnings. 36. Exclusion of charge after death of employee.
 
-Income Tax
-
-2010-21 Chapter 7
+Chapter 7
 
 Taxable benefits; residual liability to charge
 
@@ -344,11 +350,11 @@ Chapter 8
 
 Exemptions; removal benefits and expenses.
 
-52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel.
+52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses.
 
 Income Tax
 
-2010-21 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
+2010-21 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
 
 Chapter 9
 
@@ -372,6 +378,10 @@ Table B- Gravity.
 
 Table C- co-operation in investigation.
 
+Income Tax
+
+2010-21
+
 SCHEDULE 9
 
 REPEALS, AMENDMENTS AND TRANSITIONAL PROVISIONS.
@@ -384,9 +394,7 @@ Repeals
 
 Part II
 
-Income Tax
-
-2010-21 Transitional Provisions
+Transitional Provisions
 
 2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used. 9. Advances not satisfied by dividends. 10. Deleted. 11. Liquidations, etc. 12. The surcharge/penalties.
 

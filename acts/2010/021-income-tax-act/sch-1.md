@@ -28,11 +28,9 @@ Table C
 
 “Other income”
 
-Class 1
-
 Income Tax
 
-2010-21
+2010-21 Class 1
 
 “Dividends”
 
@@ -123,6 +121,10 @@ Class 6 “State Aid Recovery”
 (b) For the purposes of paragraph (a) above–
 
 (i) the aid to be recovered pursuant to that decision shall include interest determined in accordance with Chapter V of Commission Regulation (EC) No. 794/2004 of 21 April 2004 implementing Council Regulation (EC) No. 659/1999 laying down detailed rules for the application of Article 93 of the EC Treaty.
+
+Income Tax
+
+2010-21
 
 Income Tax
 

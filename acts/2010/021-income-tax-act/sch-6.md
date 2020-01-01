@@ -34,7 +34,9 @@ local or international calls or both such calls where access to the network term
 
 Income Tax
 
-2010-21 (2)  the provision in Gibraltar of a publicly available mobile telephone service (as this term is defined in Section 2 of the Communications Act 2006);
+2010-21
+
+(2)  the provision in Gibraltar of a publicly available mobile telephone service (as this term is defined in Section 2 of the Communications Act 2006);
 
 (3)  the provision in Gibraltar of Asymmetrical Digital Subscriber Lines (ADSL);
 
@@ -66,11 +68,9 @@ Services of Telecommunications.
 
 (6) call through services.
 
-Application to providers/definitions.
-
 Income Tax
 
-2010-21
+2010-21 Application to providers/definitions.
 
 5.(1)  Paragraph 3(9) shall only apply to a provider of any one or more of the: services; equipment; premises, referred to in that paragraph who is a connected person (as this term is defined in Part III of Schedule 4) of the recipient of any one or more of those services; equipment; premises.
 
@@ -100,11 +100,9 @@ Application to providers/definitions.
 
 (a) “equipment”, without prejudice to its generality, includes a system or part of a system used for any one or more of: the generation; the distribution; the supply, of electricity; and
 
-(b) “services”, without prejudice to its generality, includes the provision of a treasury function.
-
 Income Tax
 
-2010-21
+2010-21 (b) “services”, without prejudice to its generality, includes the provision of a treasury function.
 
 Water.
 
@@ -140,7 +138,9 @@ Definitions.
 
 Income Tax
 
-2010-21 (2) “services”, without prejudice to its generality, includes the provision of a treasury function.
+2010-21
+
+(2) “services”, without prejudice to its generality, includes the provision of a treasury function.
 
 Sewage.
 
