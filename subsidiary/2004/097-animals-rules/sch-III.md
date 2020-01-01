@@ -1,6 +1,8 @@
 ANNEX III
 
-Validity requirements for anti-rabies vaccinations 1.The anti-rabies vaccine must:
+Validity requirements for anti-rabies vaccinations
+
+1.The anti-rabies vaccine must:
 
 (a)be a vaccine other than a live modified vaccine and fall within one of the following categories:
 
@@ -25,12 +27,6 @@ Validity requirements for anti-rabies vaccinations 1.The anti-rabies vaccine mus
 (c)the date of administration of the vaccine is indicated by an authorised veterinarian or an official veterinarian in the appropriate section of the identification document;
 
 (d)the date of administration referred to in point (c) does not precede the date of application of the transponder or tattoo or the date of reading of the transponder or the tattoo indicated in the appropriate section of the identification document;
-
-Animals ANIMALS RULES 2004
-
-1948-30
-
-Subsidiary 2004/097
 
 (e)the period of validity of the vaccination starts from the establishment of protective immunity, which shall not be less than 21 days from the completion of the vaccination protocol required by the manufacturer for the primary vaccination, and continues until the end of the period of protective immunity, as prescribed in the technical specification of the marketing authorisation referred to in point 1(b) or the approval or licence referred to in point 1(c) for the anti-rabies vaccine in the Member State or territory or third country where the vaccine is administered. The period of validity of the vaccination is indicated by an authorised veterinarian or an official veterinarian in the appropriate section of the identification document;
 

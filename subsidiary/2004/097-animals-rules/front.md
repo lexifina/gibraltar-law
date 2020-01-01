@@ -1,28 +1,18 @@
-Animals ANIMALS RULES 2004
+Subsidiary Legislation made under s.26.
 
-1948-30
+Animals Rules 2004
 
-Subsidiary 2004/097 Rules made under s. 26.
+LN.2004/097
 
-ANIMALS RULES 2004
+Commencement 1.10.2004
 
-(LN. 2004/097)
+Amending enactments Relevant current provisions Commencement date LN. 2006/045 Corrigenda 2006/129 r. 23A 16.11.2006 2015/194 rr. 11(1)(b), 11A, Sch.7 15.10.2015 2016/240 rr. 2. 4A, 11(1)(c), (2), 12, 12A, 13(1)(e)-(i), (2), 15, 21, 23A(1), (3), Sch.1, 2
 
-1.10.2004
+1.12.2016 2018/123 rr. 12A, 23A 24.5.2018 2018/259 rr. 1-2, 3(2), (2A), 4, 5(2), (ii), 8(1)(a)-(b), 13(1), 14(1), 15, 16(1), (4), 17(1)-(2), 19, 22(a), 23A(1)(a)- (b) Schs. 2-6
 
-Amending enactments Relevant current provisions Commencement date 2006/045 Corrigenda 2006/129 r. 23A 16.11.2006 2015/194 rr. 11(1)(b), 11A, Sch.7 15.10.2015 2016/240 rr. 2. 4A, 11(1)(c), (2), 12, 12A, 13(1)(e)-(i), (2), 15, 21, 23A(1), (3), Sch.1, 2
-
-1.12.2016 2018/123 rr. 12A, 23A 24.5.2018 2018/259 rr. 1, 2, 3(2), (2A), 4, 5(2), (ii), 8(1)(a)-(b), 13(1), 14(1), 15, 16(1), (4), 17(1)-(2), 19, 22(a), 23A(1)(a)- (b) Schs. 2-6
-
-15.11.2018 2019/147 rr. 5(2), 6(3), 23A(1)(a)-(b), 5-8, 10 26.7.2019
+15.11.2018 2019/147 rr. 5(2), 6(3), 23A(1)(a)-(b), 5-8, 10 26.7.2019 2019/189 rr. 12B-12C 1.1.2020
 
 Implementing: Regulation (EC) No 998/2003 Regulation (EC) 576/2013 Regulation (EU) 577/2013
-
-Animals ANIMALS RULES 2004
-
-1948-30
-
-Subsidiary 2004/097
 
 ARRANGEMENT OF RULES
 
@@ -52,13 +42,9 @@ PART IV
 
 CONTROL, REGISTRATION AND LICENSING OF DOGS
 
-11. Control of dogs. 11A. 12. Fouling of streets etc. 12A. Fixed penalty notice for offence under rule 12. 13. Form of dog register. 14. Particulars to be furnished on registration. 15. Registration badge and fee. 16. Application for, form of dog licences. 17. Fees for dog registration and dog licences. 18. Information to be given of death, etc., of dog.
+11. Control of dogs. 11A. Dogs need not be held by means of an effective lead when in the dog park …. 12. Fouling of streets etc. 12A. Fixed penalty notice for offence under rule 12. 12B. Dog urination. 12C. Fixed penalty notice for offence under rule 12B. 13. Form of dog register. 14. Particulars to be furnished on registration.
 
-Animals ANIMALS RULES 2004
-
-1948-30
-
-Subsidiary 2004/097 19. Transfer of dog ownership. 20. Re-registration when badge lost. 21. Deleted. 22. Information to be provided to the Environmental Agency 23. Penalty for contravening rules. 23A. Fixed Penalty Offences.
+15. Registration badge and fee. 16. Application for, form of dog licences. 17. Fees for dog registration and dog licences. 18. Information to be given of death, etc., of dog. 19. Transfer of dog ownership. 20. Re-registration when badge lost. 21. Deleted. 22. Information to be provided to the Environmental Agency 23. Penalty for contravening rules. 23A. Fixed Penalty Offences.
 
 PART V
 
@@ -80,8 +66,4 @@ SCHEDULE 6 Model Health Certificate.
 
 SCHEDULE 7
 
-Animals ANIMALS RULES 2004
-
-1948-30
-
-Subsidiary 2004/097 In exercise of the powers conferred on him by section 26 of the Animals Act, and all other enabling powers, and in order to further implement Regulation (EC) No 998/2003 of the European Parliament and of the Council of 26 May 2003 on the animal health requirements applicable to the non- commercial movement of pet animals and amending Council Directive 92/65/EC as amended by Commission Regulation (EC) No 592/2004 of 30 March 2004 amending Regulation (EC) No 998/2003 of the European Parliament and of the Council as regards the lists of countries and territories the Minister for the Environment has made the following rules–
+In exercise of the powers conferred on him by section 26 of the Animals Act, and all other enabling powers, and in order to further implement Regulation (EC) No 998/2003 of the European Parliament and of the Council of 26 May 2003 on the animal health requirements applicable to the non-commercial movement of pet animals and amending Council Directive 92/65/EC as amended by Commission Regulation (EC) No 592/2004 of 30 March 2004 amending Regulation (EC) No 998/2003 of the European Parliament and of the Council as regards the lists of countries and territories the Minister for the Environment has made the following rules–

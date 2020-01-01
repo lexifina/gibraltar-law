@@ -16,12 +16,6 @@ Validity requirements for the rabies antibody titration test
 
 (ii)before the pet animal left the Union for movement to or transit through a territory or a third country other than those listed pursuant to Article 13(1) or (2); the identification document in the format provided for in Article 21(1) must confirm that a rabies antibody titration test was carried out with a favourable result before the date of movement;
 
-Animals ANIMALS RULES 2004
-
-1948-30
-
-Subsidiary 2004/097
-
 (b)must measure a level of neutralising antibody to rabies virus in serum equal to or greater than 0,5 IU/ml and using a method prescribed in the relevant part of the Chapter concerning rabies in the Manual of Diagnostic Tests and Vaccines for Terrestrial Animals of the World Organisation for Animal Health;
 
 (c)must be performed in a laboratory approved in accordance with Article 3 of Decision 2000/258/EC;

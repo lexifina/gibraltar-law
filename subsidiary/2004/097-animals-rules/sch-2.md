@@ -40,12 +40,6 @@ day of
 
 2      .
 
-Animals ANIMALS RULES 2004
-
-1948-30
-
-Subsidiary 2004/097
-
 PART B Rule 15
 
 FORM OF REGISTRATION CERTIFICATE
@@ -89,9 +83,3 @@ Dated this
 day of
 
 2        .
-
-Animals ANIMALS RULES 2004
-
-1948-30
-
-Subsidiary 2004/097

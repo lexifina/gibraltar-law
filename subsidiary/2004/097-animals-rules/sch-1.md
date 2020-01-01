@@ -1,7 +1,0 @@
-SCHEDULE 1 Deleted.
-
-Animals ANIMALS RULES 2004
-
-1948-30
-
-Subsidiary 2004/097
