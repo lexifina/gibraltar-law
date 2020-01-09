@@ -22,8 +22,6 @@ Regulation 5 Training subjects
 
 7.  Risk-based approaches which take into account the local water extraction variables such as climate, soil and crop types, and relieves.
 
-2005-27 Environment 2012/082 ENVIRONMENT (SUSTAINABLE USE OF PESTICIDES) REGULATIONS 2012
-
 8.  Procedures for preparing pesticide application equipment for work, including its calibration, and for its operation with minimum risks to the user, other humans, non-target animal and plant species, biodiversity and the environment, including water resources.
 
 9.  Use of pesticide application equipment and its maintenance, and specific spraying techniques (e.g. low-volume spraying and low-drift nozzles), as well as the objectives of the technical check of sprayers in use and ways to improve spray quality. Specific risks linked to use of handheld pesticide application equipment or knapsack sprayers and the relevant risk management measures.
@@ -35,5 +33,3 @@ Regulation 5 Training subjects
 12.  Health monitoring and access facilities to report on any incidents or suspected incidents.
 
 13.  Record keeping of any use of pesticides, in accordance with the relevant legislation.
-
-Environment 2005-27 ENVIRONMENT (SUSTAINABLE USE OF PESTICIDES) REGULATIONS 2012 2012/082

@@ -13,5 +13,3 @@ SCHEDULE 1 Regulation 4(1) National Action Plan
 6.  The National Action Plan shall describe what measures will be implemented pursuant to regulations 5 to 22 in order to achieve the objectives referred to in regulation 4(1).
 
 7.  The National Action Plan shall take into account plans under other European Union legislation on the use of pesticides, such as planned measures under the Public Health (Water Framework) Rules 2004 (which transpose Directive 2000/60/EC).
-
-Environment 2005-27 ENVIRONMENT (SUSTAINABLE USE OF PESTICIDES) REGULATIONS 2012 2012/082

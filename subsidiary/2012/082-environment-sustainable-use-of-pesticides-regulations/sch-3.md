@@ -22,8 +22,6 @@ Agitation devices must ensure a proper recirculation in order to achieve an even
 
 4. Spray liquid tank
 
-2005-27 Environment 2012/082 ENVIRONMENT (SUSTAINABLE USE OF PESTICIDES) REGULATIONS 2012
-
 Spray tanks including indicator of tank content, filling devices, strainers and filters, emptying and rinsing systems, and mixing devices shall operate in such a way as to minimise accidental spillage, uneven concentration distribution, operator exposure and residual content.
 
 5. Measuring systems, control and regulation systems
@@ -50,10 +48,6 @@ Nozzles must work properly to control dripping when spraying stops. To ensure ho
 
 The transverse and vertical (in case of applications in vertical crops) distribution of the spray mixture in the target area must be even, where relevant.
 
-Environment 2005-27 ENVIRONMENT (SUSTAINABLE USE OF PESTICIDES) REGULATIONS 2012 2012/082
-
 11. Blower (for equipment distributing pesticides by air assistance)
 
 The blower must be in good condition and must ensure a stable and reliable air stream.
-
-2005-27 Environment 2012/082 ENVIRONMENT (SUSTAINABLE USE OF PESTICIDES) REGULATIONS 2012
