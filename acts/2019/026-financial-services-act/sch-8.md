@@ -26,6 +26,8 @@ the E-Money Directive;
 
 EUMAR;
 
+EU Prospectus Regulation;
+
 the ELTIF Regulation;
 
 the EUSEF Regulation;
@@ -42,9 +44,9 @@ the MiFID 2 Directive;
 
 MiFIR;
 
-the Mortgage Credit Directive;
-
 2019-26 Financial Services
+
+the Mortgage Credit Directive;
 
 the Occupational Pensions Scheme Directive;
 
@@ -53,8 +55,6 @@ the Payment Accounts Directive;
 the Payment Services Directive;
 
 the PRIIP Regulation;
-
-the Prospectus Directive;
 
 the Recovery and Resolution Directive ;
 

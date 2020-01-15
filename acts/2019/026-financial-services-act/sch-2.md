@@ -438,9 +438,9 @@ Funds received for payment services.
 
 (3)  In this paragraph–
 
-“the Electronic Money Regulations” means the Financial Services (Electronic Money) Regulations 2019;
+“the Electronic Money Regulations” means the the Financial Services (Electronic Money) Regulations 2020;
 
-“the Payment Services Regulations” means the Financial Services (Payment Services) Regulations 2019;
+“the Payment Services Regulations” means the Financial Services (Payment Services) Regulations 2020;
 
 “payment services” has the meaning given in Part 4 of this Schedule; and
 
@@ -718,7 +718,7 @@ Financial Services 2019-26
 
 - does not conduct any other payment service specified in paragraph 17 of this Schedule; and
 
-(ii) the customer using such services is provided, both before carrying out the withdrawal and on receipt of the cash, with such information as may be specified for the purposes of this provision by the Financial Services (Payment Services) Regulations 2019.
+(ii) the customer using such services is provided, both before carrying out the withdrawal and on receipt of the cash, with such information as may be specified for the purposes of this provision by the Financial Services (Payment Services) Regulations 2020.
 
 The regulated activity
 

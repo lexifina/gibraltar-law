@@ -32,7 +32,7 @@ Membership.
 
 (ii) an auditor who is approved or registered under Part 24, nominated by the Gibraltar Society of Accountants;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (iii) a barrister or solicitor nominated by the General Council of the Bar in Gibraltar;
 
@@ -58,11 +58,21 @@ Membership.
 
 (8)  The Minister may re-appoint as a member or alternate a person who is (or has been) a member or alternate, except where the person was removed under paragraph 5(2)(b) to (e).
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (9)  Any vacancy in the membership of the Board must be filled by the Minister making an appointment in accordance with sub-paragraph (1) as it applied to the appointment of the person who has ceased to be a member.
 
 (10)  Notice of the names of the members and alternates appointed to the Board (and of any resignation, removal or re-appointment) must be published in the Gazette.
+
+Confidentiality.
+
+4A.(1)  Members, their alternates, the Secretary and other persons employed by or acting on behalf of the Board must keep confidential any information obtained by them in the course of performing functions under this Act, and must not disclose any such information, or permit another person to do so, except as permitted by law or in compliance with the directions of the Supreme Court.
+
+(6)  A person who contravenes sub-paragraph (2) commits an offence and is liable–
+
+(a) on summary conviction, to a fine at level 2 on the standard scale; or
+
+(b) on conviction on indictment, to imprisonment for two years or a fine, or both.
 
 Resignation and removal.
 
@@ -86,6 +96,8 @@ Disclosure of interests.
 
 (a) must declare that interest on any occasion on which the matter is due to be considered by the Board; and
 
+Financial Services 2019-26
+
 (b) subject to sub-paragraph (2) must not participate in the Board’s consideration of the matter.
 
 (2)  Where a member declares an interest under sub-paragraph (1)(a) but is of the opinion that the interest is of a nature that does not prevent the member from participating in consideration of the matter–
@@ -93,8 +105,6 @@ Disclosure of interests.
 (a) the member concerned, at the same time that the interest is declared, must inform the other members present of the reasons for that opinion; and
 
 (b) the other members present must decide, by majority vote, whether or not the member concerned may participate in consideration of the matter.
-
-2019-26 Financial Services
 
 (3)  For the purposes of sub-paragraph (1) a person does not have a pecuniary, personal or other interest in a matter only by virtue of practising a profession or having a position or ownership interest in an entity that may be affected by the matter, but only in the sense that the matter is or will be of application or interest to the person or entity in the same way as all other persons or entities which are or will be similarly affected or interested.
 
@@ -116,6 +126,8 @@ Procedure and meetings.
 
 (a) the Chair’s alternate must preside at the meeting; or
 
+2019-26 Financial Services
+
 (b) if the Chair’s alternate is not present or unable to preside, the member appointed under paragraph 4(1)(b)(i) must preside at the meeting.
 
 (4)  In the event of an equality of votes, the Chair has a second and casting vote.
@@ -127,8 +139,6 @@ Accounts.
 8.(1)  The Board must–
 
 (a) keep proper accounting records of its income, other receipts and expenditure; and
-
-Financial Services 2019-26
 
 (b) prepare annual accounts for each financial year, comprising of a balance sheet and an income and expenditure account.
 
@@ -152,6 +162,8 @@ Audit.
 
 (i) in the case of the balance sheet, of the Board’s finances as at the end of the financial year; and
 
+Financial Services 2019-26
+
 (ii) in the case of the income and expenditure account, of the surplus or deficit for that financial year; and
 
 (e) whether in the auditor’s opinion, the Board has exercised with diligence its obligations in relation to the collection of its revenues.
@@ -162,8 +174,6 @@ Financial year.
 
 Reports.
 
-2019-26 Financial Services
-
 11.(1)  As soon as practicable after the end of each financial year, the Board must prepare a report providing information on its exercise of the Board’s resolution functions during that year.
 
 (2)  The Board must send a copy of the report to the Minister and the GFSC.
@@ -172,4 +182,4 @@ Transitional provisions.
 
 12.  The members of the Board (including the chair) who held office immediately before Part 16 comes into operation continue to hold office when this Part comes into operation, as if they had been appointed in accordance with paragraph 4.
 
-Financial Services 2019-26
+2019-26 Financial Services

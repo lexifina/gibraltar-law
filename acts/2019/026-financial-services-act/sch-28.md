@@ -4,11 +4,7 @@ TRANSITIONAL PROVISIONS
 
 Interpretation.
 
-1.(1)  In this Schedule–
-
-“authorisation” under a repealed enactment includes a licence, registration, approval or other permission granted under a repealed enactment and “authorised” is to be construed accordingly; and
-
-“repealed enactment” means an enactment repealed or revoked by Schedule 29.
+1.(1)  In this Schedule “authorisation” under a repealed enactment includes a licence, registration, approval or other permission granted under a repealed enactment and “authorised” is to be construed accordingly.
 
 (2)  Where an authorisation under a repealed enactment is subject to any terms, conditions or requirements, an authorisation, permission, approval, registration or licence granted under paragraphs 2 to 5 is subject to the same terms, conditions or requirements (if any).
 
@@ -30,9 +26,9 @@ which is so authorised, licensed or approved immediately before Part 2 comes int
 
 Transitional provision in respect of Statutory auditors and audit firms.
 
-2019-26 Financial Services
-
 4.  A statutory auditor or audit firm that, immediately before Part 24 comes into operation, is approved or registered under the Financial Services (Auditors) Act 2009 is to be treated as if that approval or registration was granted by the GFSC under Part 24.
+
+2019-26 Financial Services
 
 Transitional provision in respect of insolvency practitioners.
 
@@ -62,11 +58,11 @@ Transitional provision in respect of appeals.
 
 (i) before that date; or
 
-Financial Services 2019-26
-
 (ii) after that date in accordance with paragraph 7,
 
 the appeal must be determined in accordance with the repealed enactment.
+
+Financial Services 2019-26
 
 Transitional provision for firms without an individual performing a regulated function.
 
@@ -100,9 +96,9 @@ Acquired rights: regulated individuals
 
 (a) the approval referred to in sub-paragraph (1)(b)(i); or
 
-2019-26 Financial Services
-
 (b) the satisfaction referred to in sub-paragraph (1)(b)(ii).
+
+2019-26 Financial Services
 
 (4)  Approval under this paragraph does not affect an individual’s liability for any contravention of a repealed enactment which occurred before Part 8 comes into operation.
 

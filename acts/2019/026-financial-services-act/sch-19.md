@@ -6,7 +6,7 @@ Additional information [insert as appropriate]
 
 Basic information about the protection of your eligible deposit Eligible deposits in [insert name of credit institution] are protected by: The Gibraltar Deposit Guarantee Scheme1 Limit of protection: €100,000 per depositor per credit institution or the currency equivalent at the time of disbursement2 The following trading names are part of [insert name of credit institution]: [insert all trading names under which the credit institution operates] If you have more eligible deposits at the same credit institution: All your eligible deposits at the same credit institution are ‘aggregated’ and the total is subject to the limit of €100,000 or currency equivalent2 If you have a joint account with other person(s): The limit of €100,000 or currency equivalent applies to each depositor separately3 Reimbursement period in case of credit institution’s failure: Between 7 and 20 working days4 Currency of reimbursement: Pound sterling or, for branches operating in an EEA State, the currency of that State. Contact: [insert postal address, email address and telephone number of the FSRCC] More information: [insert website of the FSRCC] Acknowledgement of receipt by the depositor:
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 1Scheme responsible for the protection of your deposit
 
@@ -32,7 +32,7 @@ In case of joint accounts, the limit of €100,000 (or currency equivalent) appl
 
 However, eligible deposits in an account to which two or more persons are entitled as members of a business partnership, association or grouping of a similar nature, without legal
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 personality, are aggregated and treated as if made by a single depositor for the purpose of calculating the limit of €100,000 (or currency equivalent).
 
@@ -54,4 +54,4 @@ Other important information
 
 In general, all retail depositors and businesses are covered by deposit guarantee schemes. Exceptions for certain deposits are stated on the website of the responsible deposit guarantee scheme. Your credit institution will also inform you on request whether certain products are covered or not. If deposits are eligible, the credit institution must also confirm this on the statement of account.
 
-2019-26 Financial Services
+Financial Services 2019-26
