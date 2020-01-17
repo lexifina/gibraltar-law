@@ -1,28 +1,20 @@
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+Subsidiary Legislation made under ss. 58 and 81.
 
-1956-12
+Factories (Control of Carcinogens and Mutagens at Work) Regulations 2003
 
-Subsidiary 2003/082 Regulations made under ss. 58 and 81.
+LN. 2003/082
 
-FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003
+Commencement 7.8.2003
 
-(LN. 2003/082)
+Amending enactments Relevant current provisions Commencement date
 
-7.8.2003
+LN. 2005/091 rr. 4(1)(f)-(g), 5(2)(k)-(m), 8(1)(d)-(f), 9(1), 9A, 10A
 
-Amending enactments Relevant current provisions Commencement date LN. 2005/091 rr. 4(1)(f), (g), 5(2)(k), (l), (m), 8(1)(d), (e), (f), 9(1), 9A, 10A
+2.6.2005 2015/143 rr. 2(1)-(2), 4(1)(b), 5(2), Schs. 1-2 4.9.2015 2020/047 r. 9(1), Schs. 2-3 17.1.2020
 
-2.6.2005 2015/143 rr. 2(1), (2), 4(1)(b), 5(2), Sch. 1, 2
+Transposing: Directive 90/394/EEC Directive 2004/37/EC Directive 2014/27/EU Directive 2017/2398
 
-4.9.2015
-
-Transposing: Directive 90/394/EEC Directive 2004/37/EC Directive 2014/27/EU
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -34,11 +26,7 @@ SCHEDULE 2 List of substances, mixtures and processes which also constitute carc
 
 SCHEDULE 3 Limit values for occupational exposure
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 In exercise of the powers conferred on him by sections 58 and 81 of the Factories Act, and all other enabling powers and for the purposes of transposing into the law of Gibraltar Council Directive 90/394/EEC of 28 June 1990 on the protection of workers from the risks related to exposure to carcinogens at work (Sixth individual Directive within the meaning of Article 16 (1) of Directive 89/391/EEC), Council Directive 97/42/EC of 27 June 1997 amending for the first time Directive 90/394/EEC and Council Directive 99/38/EC of 29 April 1999 amending for the second time Directive 90/394/EEC on the protection of workers from the risks related to exposure to carcinogens at work and extending it to mutagens, the Governor has made the following regulations–
+In exercise of the powers conferred on him by sections 58 and 81 of the Factories Act, and all other enabling powers and for the purposes of transposing into the law of Gibraltar Council Directive 90/394/EEC of 28 June 1990 on the protection of workers from the risks related to exposure to carcinogens at work (Sixth individual Directive within the meaning of Article 16 (1) of Directive 89/391/EEC), Council Directive 97/42/EC of 27 June 1997 amending for the first time Directive 90/394/EEC and Council Directive 99/38/EC of 29 April 1999 amending for the second time Directive 90/394/EEC on the protection of workers from the risks related to exposure to carcinogens at work and extending it to mutagens, the Governor has made the following regulations–
 
 Title.
 
@@ -62,11 +50,7 @@ Interpretation and scope.
 
 (2) Where a provision in these Regulations is more favourable to health and safety than an equivalent provision in the Control of Asbestos Regulations 2007 then the provision contained in these Regulations shall take precedence.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Assessment of health risks created by work involving carcinogens or mutagens.
+Assessment of health risks created by work involving carcinogens or mutagens.
 
 3.(1) An employer shall not carry out any work which is liable to expose any employees to any carcinogen or mutagen unless he has made a suitable and sufficient assessment of the risks created by that work to the health of those employees and of the steps that need to be taken to meet the requirements of these Regulations.
 
@@ -96,12 +80,6 @@ Inspection of Assessment.
 
 (2) It is an offence for an employer to fail to disclose information required by an inspector under subregulation (1) or to disclose information which he knows is false.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 Prevention or control of exposure.
 
 5.(1) Every employer shall ensure that–
@@ -130,13 +108,9 @@ Prevention or control of exposure.
 
 (g) the prohibition of eating, drinking and smoking in areas that may be contaminated by carcinogens or mutagens;
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+(h) the safe storage, handling and disposal of carcinogens and mutagens and use of closed and clearly labelled containers;
 
-1956-12
-
-Subsidiary 2003/082 (h) the safe storage, handling and disposal of carcinogens and mutagens and use of closed and clearly labelled containers;
-
-(i) the means for safe storage, handling and transportation;
+(i)  the means for safe storage, handling and transportation;
 
 (j) means for safe collection, storage and disposal of waste by workers;
 
@@ -159,12 +133,6 @@ Unforeseen exposure.
 7.(1) In the event of the failure of a control measure which might result in the escape of carcinogens or mutagens into the workplace, the employer shall ensure that employees and other persons who may be affected are informed of the failure as quickly as possible.
 
 (2) Where subregulation (1) applies the following measures must be taken until such time as the cause of the abnormal exposure has been eliminated and the levels of carcinogens or mutagens restored to normal–
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 (a) only those workers who are essential to the carrying out of repairs and other necessary work are permitted to work in the affected  area;
 
@@ -192,15 +160,9 @@ and such training shall be adapted where new risks are identified or the nature 
 
 (2) Without prejudice to the generality of subregulation (1), the information provided under that subregulation shall include information on the collective results of any health surveillance undertaken in accordance with regulation 9 in a form calculated to prevent it from being identified as relating to any particular person.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 Health surveillance.
 
-9.(1)  Where an employee is or is liable to be exposed to carcinogens or mutagens, the employer shall, if appropriate, ensure that the employee undergoes health surveillance prior to exposure and at regular intervals thereafter.
+9.(1)  Where an employee is or is liable to be exposed to carcinogens or mutagens, the employer shall, if appropriate, ensure that the employee undergoes health surveillance prior to exposure and at regular intervals thereafter and the employer may indicate that health surveillance must continue after the end of exposure for as long as the employer considers the health surveillance to be necessary to safeguard the health of the worker concerned.
 
 (2) The employer shall ensure that a health record, in respect of each of his employees to whom subregulation (1) relates is made and maintained and that that record or a copy thereof is kept in a suitable form for at least 40 years from the date of the last entry made in it.
 
@@ -222,11 +184,7 @@ Abnormality in employee.
 
 Washing and Changing Facilities.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 10.  Every employer must provide for any employee exposed to carcinogens or mutagens adequate and suitable–
+10.  Every employer must provide for any employee exposed to carcinogens or mutagens adequate and suitable–
 
 (a) washing and changing facilities;
 
@@ -250,11 +208,7 @@ Information for workers.
 
 (d) an employer must keep an up-to-date list of employees engaged in the activities in respect of which the results of an assessment reveal a risk to their health or safety, indicating, if the information is available, the exposure to which they have been subjected;
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 (e) an employer shall grant to the doctor and/or an inspector, as well as all other persons who have responsibility for health and safety at work, access to the list referred to in point (d);
+(e) an employer shall grant to the doctor and/or an inspector, as well as all other persons who have responsibility for health and safety at work, access to the list referred to in point (d);
 
 (f) an employee shall be granted access by his employer to the information on the list which relates to him personally;
 
@@ -264,23 +218,17 @@ Revocation.
 
 11.  The Factories (Control of Carcinogens at Work) Regulations 1997 are revoked.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 SCHEDULE 1 regulation 2 PART 1
 
 CARCINOGENS AND MUTAGENS
 
-1. A carcinogen is–
+1.A carcinogen is–
 
 (a) a substance or mixture which meets the criteria for classification as a category 1A or 1B carcinogen set out in Annex I to Regulation (EC) No 1272/2008 of the European Parliament and of the Council;
 
 (b) a substance, mixture or process referred to in Schedule 2 as well as a substance or mixture released by a process referred to in Schedule 2.
 
-2. A mutagen is–
+2.A mutagen is–
 
 a substance or mixture which meets the criteria for classification as a category 1A or 1B germ cell mutagen set out in Annex I to Regulation (EC) No 1272/2008 of the European Parliament and of the Council.
 
@@ -298,11 +246,7 @@ Numbering of entries.
 
 Entries in Annex I are listed according to the atomic number of the element most characteristic of the substanceís properties.  A list of the chemical elements, arranged according to atomic number is shown in Table A. Organic substances, because of their variety, have been placed in the usual classes, as shown in Table B.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y, where:
+The Index number for each substance is in the form of a digit sequence of the type ABC-RST- VW-Y, where:
 
 - ABC is either the atomic number of the most characteristic chemical element (preceded by one or two zeros to make up the sequence) or the usual class number for organic substances,
 
@@ -318,7 +262,7 @@ For dangerous substances in the European Inventory of Existing Commercial Chemic
 
 For dangerous substances notified under the provisions of this Directive, the number of the substance in the European List of Notified Substance (Elincs) is included. This number is a seven-digit system of the type XXX-XXX-X which starts at 400-010-9.
 
-For dangerous substances in the list of “No-longer-polymers” (Document, Office for Official Publications of the European Communities, 1997. ISBN 92-827-8995-0) the “No-longer-polymer” number is included. This number is a seven-digit system of the type XXX-XXX-X which starts at 500-001-0.
+For dangerous substances in the list of “No-longer-polymers” (Document, Office for Official Publications of the European Communities, 1997. ISBN 92-827-8995-0) the “No-longer- polymer” number is included. This number is a seven-digit system of the type XXX-XXX-X which starts at 500-001-0.
 
 The Chemical Abstracts Service (CAS) number is also included to assist identification of the entry. It should be noted that the Einecs number includes both anhydrous and hydrated forms of a substance, and there are frequently different CAS numbers for anhydrous and hydrated forms.  The CAS number included is for the anhydrous form only, and therefore the CAS number shown does not always describe the entry as accurately as the Einecs number.
 
@@ -326,13 +270,7 @@ Einecs, Elincs, “No-longer-polymer” or CAS numbers are not usually included 
 
 Nomenclature.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Wherever possible, dangerous substances are designated by their Einecs, Elincs or “No-longer-polymer” names. Other substances not listed in Einecs, Elincs or the list of “No-longer-polymers” are designated using an internationally recognised chemical name (e.g. ISO, IUPAC). An additional common name is included in some cases.
+Wherever possible, dangerous substances are designated by their Einecs, Elincs or “No-longer- polymer” names. Other substances not listed in Einecs, Elincs or the list of “No-longer- polymers” are designated using an internationally recognised chemical name (e.g. ISO, IUPAC). An additional common name is included in some cases.
 
 Impurities, additives and minor components are normally not mentioned unless they contribute significantly to the classification of the substance.
 
@@ -344,17 +282,11 @@ Article 23(2)(a) requires that for substances appearing in Annex I, the name of 
 
 Certain entries contain a reference to impurities. An example is Index No. 607-190-00-X: methyl acrylamidomethoxyacetate (containing ≥0,1 % acrylamide). In these cases the reference in brackets forms part of the name, and must be included on the label.
 
-Certain entries refer to groups of substances.  An example is  Index No. 006- 007-00-5 “hydrogen cyanide (salts of ......) with exception of_ complex cyanides such as ferrocyanides, ferricyanides and mercuric oxycyanide”. For individual substances covered by these entries, the Einecs name or another internationally recognised name must be used.
+Certain entries refer to groups of substances.  An example is  Index No. 006-007-00-5 “hydrogen cyanide (salts of ......) with exception of_ complex cyanides such as ferrocyanides, ferricyanides and mercuric oxycyanide”. For individual substances covered by these entries, the Einecs name or another internationally recognised name must be used.
 
 Format of entries.
 
 The following information is given for each substance in Annex I:
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 (a) the classification:
 
@@ -394,15 +326,7 @@ Subsidiary 2003/082
 
 - dangerous for the environment: N or/and R52, R53, R59;
 
-(iv) Additional risk phrases which have been assigned to describe other properties (see sections 2.2.6 and 3.2.8 of
-
-(1) The category of carcinogen, mutagen or toxic for reproduction (i.e. 1, 2 or 3) is shown as appropriate.
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 the labelling guide) are shown although they are not formally part of the classification.
+(iv) Additional risk phrases which have been assigned to describe other properties (see sections 2.2.6 and 3.2.8 of the labelling guide) are shown although they are not formally part of the classification.
 
 (b) the label, including:
 
@@ -411,6 +335,8 @@ Subsidiary 2003/082 the labelling guide) are shown although they are not formall
 (ii) the risk phrases, denoted as a series of numbers preceded by the letter R indicating the nature of the special risks, in accordance with Annex III (see Article 23(2)(d)). The numbers are separated by either:
 
 - a dash (-) to denote separate statements concerning special risks (R), or
+
+(1) The category of carcinogen, mutagen or toxic for reproduction (i.e. 1, 2 or 3) is shown as appropriate.
 
 - an oblique stroke (/) to denote a combined statement, in a single sentence, of the special risks as set out in Annex III;
 
@@ -421,12 +347,6 @@ Note that for certain dangerous substances and preparations sold to the general 
 S1, S2 and S45 are obligatory for all very toxic, toxic and corrosive substances and preparations sold to the general public.
 
 S2 and S46 are obligatory for all other dangerous substances and preparations sold to the general public other than those that have only been classified as dangerous for the environment.
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 Safety phrases S1 and S2 are shown in brackets in Annex I and can only be omitted from the label when the substance or preparation is sold for industrial use only.
 
@@ -445,12 +365,6 @@ A number of group entries are included in Annex I. In these cases, the classific
 In some cases, there are classification and labelling requirements for specific substances that would be covered by the group entry. In such cases a specific Annex I entry will be present for the substance and the group entry will be annotated with the phrase “except those specified elsewhere in this Annex”.
 
 In some cases, individual substances may be covered by more than one group entry. Lead oxalate (Einecs No 212-413-5) is for instance covered by the entry for lead compounds (Index No 082-001-00-6) as well as for salts of oxalic acid (607-007- 00-3). In these cases, the labelling of the substance reflects the labelling for each of the two group entries. In cases where different classifications for the same hazard are given, the classification leading to the more severe classification is used for the label of the particular substance (see section on Note A below).
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 Entries in Annex I for salts (under any denomination) cover both anhydrous and hydrous forms unless specifically specified otherwise.
 
@@ -476,15 +390,11 @@ For substances belonging to more than one group of substances included in Annex 
 
 Example:
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 for substance AB - no individual entry in Annex I:
+for substance AB - no individual entry in Annex I:
 
 Annex I group entry for compounds of A:
 
-Repr. Cat. 1; R61 Repr. Cat. 3; R62 Xn; R20/22 R33 N; R50- 53
+Repr. Cat. 1; R61 Repr. Cat. 3; R62 Xn; R20/22 R33 N; R50-53
 
 Annex I group entry for compounds of B:
 
@@ -514,11 +424,7 @@ Some organic substances may be marketed either in a specific isomeric form or as
 
 In Annex I, a general designation of the following type is sometimes used: “xylenol”.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 In this case the manufacturer or any other person who markets such a substance must state on the label whether the substance is a specific isomer (a) or a mixture of isomers (b).
+In this case the manufacturer or any other person who markets such a substance must state on the label whether the substance is a specific isomer (a) or a mixture of isomers (b).
 
 Example:
 
@@ -530,7 +436,7 @@ Note D:
 
 Certain substances which are susceptible to spontaneous polymerisation or decomposition are generally placed on the market in a stabilised form. It is in this form that they are listed in Annex I to this Directive.
 
-However, such substances are sometimes placed on the market in a non- stabilised form. In this case, the manufacturer or any person who places such a substance on the market must state on the label the name of the substance followed by the words “non-stabilised”.
+However, such substances are sometimes placed on the market in a non-stabilised form. In this case, the manufacturer or any person who places such a substance on the market must state on the label the name of the substance followed by the words “non-stabilised”.
 
 Example: methacrylic acid (non-stabilised).
 
@@ -552,12 +458,6 @@ Note F:
 
 This substance may contain a stabiliser. If the stabiliser changes the dangerous properties of the substance, as indicated by the label in Annex I, a label should be provided in accordance with the rules for the labelling of dangerous preparations.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 Note G:
 
 This substance may be marketed in an explosive form in which case it must be evaluated using the appropriate test methods and a label should be provided reflecting its explosive property.
@@ -574,7 +474,7 @@ The classification as a carcinogen need not apply if it can be shown that the su
 
 Note K:
 
-The classification as a carcinogen need not apply if it can be shown that the substance contains less than 0.1 % w/w 1,3- butadiene (Einecs No 203-450- 8). If the substance is not classified as a carcinogen, at least the S-phrases (2-)9-16 should apply. This note applies only to certain complex oil-derived substances in Annex I.
+The classification as a carcinogen need not apply if it can be shown that the substance contains less than 0.1 % w/w 1,3- butadiene (Einecs No 203-450-8). If the substance is not classified as a carcinogen, at least the S-phrases (2-)9-16 should apply. This note applies only to certain complex oil-derived substances in Annex I.
 
 Note L:
 
@@ -582,13 +482,7 @@ The classification as a carcinogen need not apply if it can be shown that the su
 
 Note M:
 
-The classification as a carcinogen need not apply if it can be shown that the substance contains less than 0.005 % w/w benzo[a]-pyrene (Einecs No 200-
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 028-5). This note applies only to certain complex coal-derived substances in Annex I.
+The classification as a carcinogen need not apply if it can be shown that the substance contains less than 0.005 % w/w benzo[a]-pyrene (Einecs No 200-028-5). This note applies only to certain complex coal-derived substances in Annex I.
 
 Note N:
 
@@ -608,7 +502,7 @@ The classification as a carcinogen need not apply if it can be shown that the su
 
 - a short term biopersistence test by inhalation has shown that the fibres longer than 20 µm have a weighted half-life less than 10 days, or
 
-- a short term biopersistence test by intratracheal instillation has shown that the fibres longer than 20 µm have a weighted half- life less than 40 days, or
+- a short term biopersistence test by intratracheal instillation has shown that the fibres longer than 20 µm have a weighted half-life less than 40 days, or
 
 - an appropriate intra-peritoneal test has shown no evidence of excess carcinogenicity, or
 
@@ -616,11 +510,7 @@ The classification as a carcinogen need not apply if it can be shown that the su
 
 Note R:
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 The classification as a carcinogen need not apply to fibres with a length weighted geometric mean diameter less two standard geometric errors greater than 6µm.
+The classification as a carcinogen need not apply to fibres with a length weighted geometric mean diameter less two standard geometric errors greater than 6µm.
 
 Note S:
 
@@ -652,123 +542,9 @@ The concentration limits for gaseous preparations are expressed as volume per vo
 
 Note 6 :
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 Preparations containing these substances have to be assigned R67 if they meet the criteria in Section 3.2.8 in Annex VI.
 
 This note will no longer apply from the date on which the criteria for the use of R67 provided for in Directive 1999/45/EC enter into force.
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 PART 3 ANNEX VI TO DIRECTIVE 67/548/EEC
 
@@ -788,11 +564,9 @@ CONTENTS
 
 4. CLASSIFICATION ON THE BASIS OF SPECIFIC EFFECTS ON HUMAN HEALTH
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+4.1. Introduction 4.2. Criteria for classification, indication of danger, choice of risk phrases
 
-1956-12
-
-Subsidiary 2003/082 4.1. Introduction 4.2. Criteria for classification, indication of danger, choice of risk phrases 4.2.1.  Carcinogenic substances 4.2.2.  Mutagenic substances 4.2.3.  Substances toxic to reproduction 4.2.4.  Procedure for the classification of preparations concerning specific effects on health
+4.2.1.  Carcinogenic substances 4.2.2.  Mutagenic substances 4.2.3.  Substances toxic to reproduction 4.2.4.  Procedure for the classification of preparations concerning specific effects on health
 
 5. CLASSIFICATION ON THE BASIS OF ENVIRONMENTAL EFFECTS
 
@@ -814,11 +588,7 @@ Subsidiary 2003/082 4.1. Introduction 4.2. Criteria for classification, indicati
 
 COMMISSION STATEMENT
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 1. GENERAL INTRODUCTION
+1. GENERAL INTRODUCTION
 
 1.1. The object of classification is to identify all the physicochemical, toxicological and ecotoxicological properties of substances and preparations which may constitute a risk during normal handling or use. Having identified any hazardous properties the substance or preparation must then be labelled to indicate the hazard(s) in order to protect the user, the general public and the environment.
 
@@ -834,11 +604,7 @@ The label may also serve to draw attention to more comprehensive product informa
 
 In the case of substances, the information is completed by the name of the substance under an internationally recognised chemical nomenclature, the preferred name being the one used in the European Inventory of Existing Commercial Chemical Substances (Einecs), or in the European List of Notified Chemical Substances (Elincs), the EC number and the name, address and telephone number of the person established in the Community who is responsible for placing the substance on the market.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 In the case of preparations, the information in accordance with Article 10.2. of Directive 1999/45/EC, is completed by:
+In the case of preparations, the information in accordance with Article 10.2. of Directive 1999/45/EC, is completed by:
 
 - the trade name or the designation of the preparation;
 
@@ -862,17 +628,13 @@ Subsidiary 2003/082 In the case of preparations, the information in accordance w
 
 - information taken from reference works and the literature; or
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 - information derived from practical experience.
+- information derived from practical experience.
 
 The results of validated structure-activity relationships and expert judgement may also be taken into account where appropriate.
 
 1.6.2. For preparations, normally the data required for classification and labelling may be obtained:
 
-(a) if it concerns physicochemical data, by the application of the methods specified in Annex V. This applies also to preparations covered by Directive 91/414/EEC unless other internationally recognised methods are acceptable in accordance with the provisions of Annexes II and III to Directive 91/414/EEC (Article 5. 5. Of Directive 1999/45/EC). For gaseous preparations a calculation method may be used for flammable and oxidising properties (see 9.1.1.1 and 9.1.1.2). For non-gaseous preparations containing organic peroxides a calculation method may be used for oxidising properties (see 2.2.2.1).
+(a) if it concerns physicochemical data, by the application of the methods specified in Annex V. This applies also to preparations covered by Directive 91/414/EEC unless other internationally recognised methods are acceptable in accordance with the provisions of Annexes II and III to Directive 91/414/EEC (Article 5. 5. Of Directive 1999/45/EC). For gaseous preparations a calculation method may be used for flammable and oxidising properties (see 9.1.1.1 and 9.1.1.2). For non- gaseous preparations containing organic peroxides a calculation method may be used for oxidising properties (see 2.2.2.1).
 
 (b) if it concerns data on health effects:
 
@@ -887,12 +649,6 @@ The results of validated structure-activity relationships and expert judgement m
 (c) if it concerns data on ecotoxicological properties
 
 (i) for aquatic toxicity only:
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 - by the application of the methods specified in Annex V, subject to the conditions referred to in Annex III Part C of Directive 1999/45/EC, unless, in the case of plant protection products, other internationally recognised methods are acceptable in accordance with the provisions of Annexes II and III to Directive 91/414/EEC (Article 7. 1. (b) of Directive 1999/45/EC), or
 
@@ -914,13 +670,7 @@ For organic peroxides and organic peroxide preparations data may be derived from
 
 Classification must cover the physicochemical, toxicological and ecotoxicological properties of substances and preparations.
 
-Classification of substances and preparations is made according to Chapter 1.6, on the basis of the criteria in Chapters 2 to 5 (substances) and Chapters
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 2, 3, 4.2.4 and 5 of this Annex. All types of hazard must be considered. For instance, classification under 3.2.1 does not imply that the sections such as 3.2.2 or 3.2.4 can be ignored.
+Classification of substances and preparations is made according to Chapter 1.6, on the basis of the criteria in Chapters 2 to 5 (substances) and Chapters 2, 3, 4.2.4 and 5 of this Annex. All types of hazard must be considered. For instance, classification under 3.2.1 does not imply that the sections such as 3.2.2 or 3.2.4 can be ignored.
 
 The choice of symbol(s) and risk phrase(s) is made on the basis of the classification in order to ensure that the specific nature of the potential dangers identified in classification is expressed on the label.
 
@@ -940,11 +690,7 @@ The guidance criteria set out in this Annex are directly applicable when the dat
 
 In some cases there may be doubt over the application of the relevant criteria, especially where these require the use of expert judgement. In such cases the manufacturer, distributor or importer should provisionally classify and label the substance on the basis of an assessment of the evidence by a competent person.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Without prejudice to Article 6, where the above procedure has been followed and there is concern over possible inconsistencies then a proposal may be submitted for the entry of the provisional classification into Annex I. The proposal should be made to one of the Member States and should be accompanied by appropriate scientific data  (see also section 4.1).
+Without prejudice to Article 6, where the above procedure has been followed and there is concern over possible inconsistencies then a proposal may be submitted for the entry of the provisional classification into Annex I. The proposal should be made to one of the Member States and should be accompanied by appropriate scientific data  (see also section 4.1).
 
 A similar procedure may be followed when information is identified which gives cause for concern over the accuracy of an existing entry in Annex I.
 
@@ -954,9 +700,7 @@ Where impurities, additives or individual constituents of substances have been i
 
 - 0,1 % for substances classified as very toxic, toxic, carcinogenic (category 1 or 2), mutagenic (category 1 or 2), toxic to reproduction (category 1 or 2), or dangerous for the environment (assigned the symbol ‘N’ for the aquatic environment, dangerous for the ozone layer)
 
-- 1% for substances classified as harmful, corrosive, irritant sensitising, carcinogenic (category 3), mutagenic (category 3), toxic to reproduction (category 3), or dangerous for the environment (not assigned the symbol ‘N’, i.e. harmful to aquatic organisms, may cause long-term adverse effects)
-
-unless lower values have been specified in Annex I.
+- 1% for substances classified as harmful, corrosive, irritant sensitising, carcinogenic (category 3), mutagenic (category 3), toxic to reproduction (category 3), or dangerous for the environment (not assigned the symbol ‘N’, i.e. harmful to aquatic organisms, may cause long-term adverse effects) unless lower values have been specified in Annex I.
 
 With the exception of substances listed specifically in Annex I, classification should be carried out according to the requirements of Articles 5, 6 and 7 of Council Directive 1999/45/EC.
 
@@ -964,13 +708,7 @@ In the case of asbestos (650-013-00-6) this general rule does not apply until a 
 
 1.7.3. Application of the guide criteria for preparations
 
-The guidance criteria set out in this Annex are directly applicable when the data in question have been obtained from test methods comparable with those described in Annex V with the exception of the criteria of Chapter 4
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 for which only the conventional method is applicable. A conventional method is also applicable in relation to the criteria of Chapter 5, with the exception of aquatic toxicity, subject to the conditions referred to in Annex III Part C of Directive 1999/45/EC. For preparations covered by Directive 91/414/EEC data for classification and labelling are also acceptable from other internationally recognised methods (see special provisions in Section 1.6 of this Annex). In other cases, the available data must be evaluated by comparing the test methods employed with those indicated in Annex V and the rules specified in this Annex for determining the appropriate classification and labelling.
+The guidance criteria set out in this Annex are directly applicable when the data in question have been obtained from test methods comparable with those described in Annex V with the exception of the criteria of Chapter 4 for which only the conventional method is applicable. A conventional method is also applicable in relation to the criteria of Chapter 5, with the exception of aquatic toxicity, subject to the conditions referred to in Annex III Part C of Directive 1999/45/EC. For preparations covered by Directive 91/414/EEC data for classification and labelling are also acceptable from other internationally recognised methods (see special provisions in Section 1.6 of this Annex). In other cases, the available data must be evaluated by comparing the test methods employed with those indicated in Annex V and the rules specified in this Annex for determining the appropriate classification and labelling.
 
 Where the health and environmental hazards are assessed by applying a conventional method referred to in Articles 6 and 7 and Annexes II and III of Directive 1999/45/EC the individual concentration limits to be used are those set out either:
 
@@ -984,13 +722,7 @@ In the case of preparations containing mixtures of gases, classification with re
 
 The labelling of such preparations must be in conformity with the provisions of Article 10 according to the principles set out in Articles 3 and 4 of Directive 1999/45/EC. However, in certain cases, the information on the label of the preparation or substance described in Section 1.7.2.1 is insufficient to enable other manufacturers who wish to use it as a constituent of their own preparation(s) to carry out the classification and labelling of their preparation(s) correctly.
 
-In these cases, the person established within the Community responsible for placing the original preparation or substance described in Section 1.7.2.1 on the market, whether it be the manufacturer, the importer or the distributor shall supply upon justified request and as soon as possible all necessary data
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 concerning the dangerous substances present to enable correct classification and labelling of the new preparation. This data is also necessary to enable the person responsible for placing the new preparation on the market to comply with other requirements of Directive 1999/45/EC.
+In these cases, the person established within the Community responsible for placing the original preparation or substance described in Section 1.7.2.1 on the market, whether it be the manufacturer, the importer or the distributor shall supply upon justified request and as soon as possible all necessary data concerning the dangerous substances present to enable correct classification and labelling of the new preparation. This data is also necessary to enable the person responsible for placing the new preparation on the market to comply with other requirements of Directive 1999/45/EC.
 
 2. CLASSIFICATION ON THE BASIS OF PHYSICOCHEMICAL PROPERTIES
 
@@ -1000,9 +732,7 @@ The test methods relating to explosive, oxidising and flammable properties inclu
 
 If adequate information is available to demonstrate in practice that the physicochemical properties of substances and preparations (apart from organic peroxides) are different from those revealed by the test methods given in Annex V, then such substances and preparations should be classified according to the hazard they present, if any, to those handling the substances and preparations or to other persons.
 
-2.2. Criteria for classification, choice of symbols, indication of danger
-
-and choice of risk phrases
+2.2. Criteria for classification, choice of symbols, indication of danger  and choice of risk phrases
 
 In the case of preparations, the criteria referred to in Article 5 of Directive 1999/45/EC need to be taken into consideration.
 
@@ -1014,19 +744,9 @@ R2 Risk of explosion by shock, friction, fire or other sources of ignition
 
 - substances and preparations except those set out below.
 
-R3 Extreme risk of explosion by shock, friction, fire or other source of
+R3 Extreme risk of explosion by shock, friction, fire or other source of ignition
 
-ignition
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
-- substances and preparations which are particularly sensitive such as
-
-picric acid salts or PETN.
+- substances and preparations which are particularly sensitive such as picric acid salts or PETN.
 
 2.2.2. Oxidising
 
@@ -1050,15 +770,9 @@ For the explosive properties, an organic peroxide or preparation thereof in the 
 
 For the oxidising properties the existing methods in Annex V cannot be applied to organic peroxides.
 
-For substances, organic peroxides not already classified as explosive are classified as dangerous on the basis of their structure (e.g. R-O-O-H; R1-O- O-R2).
+For substances, organic peroxides not already classified as explosive are classified as dangerous on the basis of their structure (e.g. R-O-O-H; R1-O-O-R2).
 
 Preparations not already classified as explosive shall be classified using the calculation method based on the percentage of active oxygen shown in Section 9.5.
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 Any organic peroxide or preparation thereof not already classified as explosive is classified as oxidising, if the peroxide or its formulation contains:
 
@@ -1088,12 +802,6 @@ R11 Highly flammable
 
 R15 Contact with water liberates extremely flammable gases
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 - Substances and preparations which, in contact with water or damp air, evolve extremely flammable gases in dangerous quantities, at a minimum rate of one litre per kilogram per hour.
 
 R17 Spontaneously flammable in air
@@ -1119,12 +827,6 @@ R1 Explosive when dry
 For explosive substances and preparations put on the market in solution or in a wetted form, e.g. nitrocellulose with more than 12.6 % nitrogen.
 
 R4 Forms very sensitive explosive metallic compounds
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 For substances and preparations which may form sensitive explosive metallic derivatives, e.g. picric acid, styphnic acid.
 
@@ -1156,13 +858,9 @@ R19 May form explosive peroxides
 
 For substances and preparations which may form explosive peroxides during storage, e.g. diethyl ether, 1,4- dioxan . R30 Can become highly flammable in use
 
-For preparations not in themselves classified as flammable, which may become flammable due to the loss of non- flammable volatile components.
+For preparations not in themselves classified as flammable, which may become flammable due to the loss of non-flammable volatile components.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 R44 Risk of explosion if heated under confinement
+R44 Risk of explosion if heated under confinement
 
 For substances and preparations not in themselves classified as explosive in accordance with Section 2.2.1 above but which may nevertheless display explosive properties in practice if heated under sufficient confinement. For example, certain substances which would decompose explosively if heated in a steel drum do not show this effect if heated in less-strong containers.
 
@@ -1180,11 +878,7 @@ Where it can be demonstrated by epidemiological studies, by scientifically valid
 
 (a) for acute toxicity (lethal and irreversible effects after a single exposure), the criteria under Sections 3.2.1 to 3.2.3 are to be used,
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 (b) for sub-acute, sub-chronic or chronic toxicity the criteria under Sections 3.2.2 to 3.2.4 are to be used,
+(b) for sub-acute, sub-chronic or chronic toxicity the criteria under Sections 3.2.2 to 3.2.4 are to be used,
 
 (c) for corrosive and irritant effects the criteria under Sections 3.2.5 and 3.2.6 are to be used,
 
@@ -1204,11 +898,7 @@ Subsidiary 2003/082 (b) for sub-acute, sub-chronic or chronic toxicity the crite
 
 Note: Without prejudice to requirements of Directive 91/414/EEC, only where it can be scientifically demonstrated by the person responsible for placing the preparation on the market that the toxicological properties of the preparation cannot correctly be determined by the method outlined in paragraph 3.1.3 (a), or on the basis of existing test results on animals, the methods outlined in paragraph 3.1.3 (b) may be used, provided they are justified or specifically authorised under Article 12 of Directive 86/609/EEC.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Whichever method is used for the evaluation of the danger of a preparation, all the dangerous effects on health as defined in Annex II, Part B of Directive 1999/45/EC must be taken into consideration.
+Whichever method is used for the evaluation of the danger of a preparation, all the dangerous effects on health as defined in Annex II, Part B of Directive 1999/45/EC must be taken into consideration.
 
 3.1.4. When the classification is to be established from experimental results obtained in animal tests the results should have validity for man in that the tests reflect, in an appropriate way, the risks to man.
 
@@ -1231,12 +921,6 @@ In the criteria in sections 3.2.1, 3.2.2 and 3.2.3 only the final test result is
 The fixed dose method requires in some cases testing at higher or lower doses, if not already tested at the relevant dose level. Refer also to the evaluation table in test method B.1 bis.
 
 3.1.5.2. The range of exposure where lethality is expected is derived from the observed absence or presence of substance related mortality following the acute toxic class method. For initial testing one of three fixed starting doses (25, 200 or 2 000 mg per kg body weight) is used.
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 The acute toxic class method requires in some cases testing at higher or lower doses, if not already tested at the relevant dose level. Refer also to the test procedure flow charts in test method B.1 tris of Annex V.
 
@@ -1272,13 +956,9 @@ Acute toxicity results:
 
 - LC50 inhalation, rat, for gases and vapours: < 0.5 mg/litre/4hr.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+R39 Danger of very serious irreversible effects
 
-1956-12
-
-Subsidiary 2003/082 R39 Danger of very serious irreversible effects
-
-- Strong evidence that irreversible damage other than the effects referred to in Chapter 4 is likely to be caused by a single exposure by an appropriate route, generally in the above- mentioned dose range.
+- Strong evidence that irreversible damage other than the effects referred to in Chapter 4 is likely to be caused by a single exposure by an appropriate route, generally in the above-mentioned dose range.
 
 In order to indicate the route of administration/exposure one of the following combinations shall be used: R39/26, R39/27, R39/28, R39/26/27, R39/26/28, R39/27/28, R39/26/27/28.
 
@@ -1308,15 +988,11 @@ Acute toxicity results:
 
 - LC50 inhalation, rat, for aerosols or particulates: 0.25 < LC50 < 1 mg/litre/4hr,
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 - LC50 inhalation, rat, for gases and vapours: 0.5 < LC50 < 2 mg/litre/4hr.
+- LC50 inhalation, rat, for gases and vapours: 0.5 < LC50 < 2 mg/litre/4hr.
 
 R39 Danger of very serious irreversible effects
 
-- strong evidence that irreversible damage other than the effects referred to in Chapter 4 is likely to be caused by a single exposure by an appropriate route, generally in the above- mentioned dose range.
+- strong evidence that irreversible damage other than the effects referred to in Chapter 4 is likely to be caused by a single exposure by an appropriate route, generally in the above-mentioned dose range.
 
 In order to indicate the route of administration/exposure one of the following combinations shall be used: R39/23, R39/24, R39/25, R39/23/24, R39/23/25, R39/24/25, R39/23/24/25.
 
@@ -1339,12 +1015,6 @@ Acute toxicity results:
 - LD50 per oral, rat: 200 < LD50 < 2000 mg/kg,
 
 - discriminating dose, oral, rat, 50 mg/kg: 100 % survival but evident toxicity,
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 - less than 100 % survival at 500 mg/kg, rat oral by the fixed dose procedure. Refer to the evaluation table in the test method B.1 bis of Annex V, or
 
@@ -1372,13 +1042,7 @@ Liquid substances and preparations presenting an aspiration hazard in humans bec
 
 - a flow time of less than 30 sec. in a 3 mm ISO cup according to ISO 2431 (April 1996 / July 1999 edition) relating to ‘Paints and varnishes - Determination of flow time by use of flow cups’,
 
-- a kinematic viscosity measured by a calibrated glass capillary viscometer in accordance with ISO 3104/3105 of less than 7 x 10- m2/sec at 40 C (ISO 3104, 1994 edition, relating to ‘Petroleum products - Transparent and opaque liquids -
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Determination of kinematic viscosity and calculation of dynamic viscosity’; ISO 3105, 1994 edition, relating to ‘Glass capillary kinematic viscometers - Specifications and operating instructions’), or
+- a kinematic viscosity measured by a calibrated glass capillary viscometer in accordance with ISO 3104/3105 of less than 7 x 10- m2/sec at 40 C (ISO 3104, 1994 edition, relating to ‘Petroleum products - Transparent and opaque liquids - Determination of kinematic viscosity and calculation of dynamic viscosity’; ISO 3105, 1994 edition, relating to ‘Glass capillary kinematic viscometers - Specifications and operating instructions’), or
 
 - a kinematic viscosity derived from measurements of rotational viscometry in accordance with ISO 3219 of less than 7 x 10-6 m2/sec at 40 C (ISO 3219, 1993 edition, relating to ‘Plastics - Polymers/resins in the liquid state or as emulsions or dispersions - Determination of viscosity using a rotational viscometer with defined shear rate’).
 
@@ -1388,7 +1052,7 @@ Note that substances and preparations meeting these criteria need not be classif
 
 R68 Possible risk of irreversible effects
 
-- strong evidence that irreversible damage other than the effects referred to in Chapter 4 is likely to be caused by a single exposure by an appropriate route, generally in the above- mentioned dose range.
+- strong evidence that irreversible damage other than the effects referred to in Chapter 4 is likely to be caused by a single exposure by an appropriate route, generally in the above-mentioned dose range.
 
 In order to indicate route of administration/exposure one of the following combinations shall be used: R68/20, R68/21, R68/22, R68/20/21, R68/20/22, R68/21/22, R68/20/21/22.
 
@@ -1401,12 +1065,6 @@ Substances and preparations are classified at least as harmful when these effect
 - oral, rat < 50 mg/kg (bodyweight)/day,
 
 - dermal, rat or rabbit < 100 mg/kg (bodyweight)/day,
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 - inhalation, rat < 0.25 mg/l, 6h/day.
 

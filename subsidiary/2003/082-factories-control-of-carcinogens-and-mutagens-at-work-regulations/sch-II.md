@@ -2,12 +2,6 @@ ANNEX II
 
 METHODS FOR THE EVALUATION OF HEALTH HAZARDS OF PREPARATIONS IN ACCORDANCE WITH ARTICLE 6
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 Introduction
 
 An assessment must be made for all the health effects corresponding to the health effects of substances contained in a preparation. This conventional method described in Parts A and B of this Annex is a calculation method which is applicable to all preparations and which takes into consideration all the health hazards of substances contained in the preparation. For that purpose the dangerous health effects have been subdivided into:
@@ -36,12 +30,6 @@ The classification of the substance(s) and the resulting classification of the p
 
 - either by a symbol and one or more risk phrases, or
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 - by categories (category 1, category 2 or category 3) also assigned risk phrases when substances and preparations are shown to be carcinogenic, mutagenic or toxic for reproduction. Therefore it is important to consider, in addition to the symbol, all the phrases denoting specific risks which are assigned to each substance under consideration.
 
 The systematic assessment of all the dangerous health effects is expressed by means of concentration limits, expressed as a weight/weight percentage except for gaseous preparations where they are expressed as a volume/volume percentage and in conjunction with the classification of the substance.
@@ -64,11 +52,7 @@ The evaluation proceeds stepwise as follows:
 
 (b) the concentration specified at point 1 in Part B of this Annex (Table I and I A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 1.1.2. preparations containing more than one substance classified as very toxic in lower individual concentrations than the limits specified under 1.1.1(a) or (b) if: PT1 LT1      1
+1.1.2. preparations containing more than one substance classified as very toxic in lower individual concentrations than the limits specified under 1.1.1(a) or (b) if:
 
 where:
 
@@ -79,6 +63,8 @@ LT+ = is the very toxic limit specified for each very toxic substance, expressed
 1.2. owing to their non-lethal irreversible effects after a single exposure and assigned the symbol ‘T+’, the indication of danger ‘very toxic’ and the risk phrase R39/route of exposure.
 
 Preparations containing at least one dangerous substance that produces such effects in individual concentrations equal to or greater than:
+
+PT1 LT1      1
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
@@ -92,15 +78,9 @@ Preparations containing at least one dangerous substance that produces such effe
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 (b) the concentration specified at point 1 in Part B of this Annex (Table I and I A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
+(b) the concentration specified at point 1 in Part B of this Annex (Table I and I A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
 2.1.2. preparations containing more than one substance classified as very toxic or toxic in lower individual concentrations than the limits specified under 2.1.1(a) or (b) if:
-
-PT1 LT PT LT      1
 
 where:
 
@@ -112,6 +92,8 @@ LT = is the respective toxic limit specified for each very toxic or toxic substa
 
 2.2. owing to their non-lethal irreversible effects after a single exposure and assigned the symbol ‘T’’ the indication of danger ‘toxic’ and the risk phrase R39/route of exposure.
 
+PT1 LT PT LT      1
+
 Preparations containing at least one dangerous substance classified as very toxic or toxic that produce such effects in individual concentrations equal to or greater than:
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
@@ -120,11 +102,7 @@ Preparations containing at least one dangerous substance classified as very toxi
 
 2.3. owing to their long-term effects and assigned the symbol ‘TÌ’ the indication of danger ÎtoxicÌ and the risk phrase R48/route of exposure.
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Preparations containing at least one dangerous substance that produces such effects in individual concentrations equal to or greater than:
+Preparations containing at least one dangerous substance that produces such effects in individual concentrations equal to or greater than:
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
@@ -142,19 +120,11 @@ Subsidiary 2003/082 Preparations containing at least one dangerous substance tha
 
 3.1.2. preparations containing more than one substance classified as very toxic, toxic or harmful in lower individual concentrations than the limits specified under 3.1.1(a) or (b) if:
 
-PT1 LXn PT LXn PXn L Xn      1
-
 where:
 
 PT+ = is the percentage by weight or by volume of each very toxic substance in the preparation,
 
 PT = is the percentage by weight or by volume of each toxic substance in the preparation,
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
 
 PXn = is the percentage by weight or by volume of each harmful substance in the preparation,
 
@@ -176,13 +146,11 @@ Preparations containing at least one dangerous substance classified as very toxi
 
 Preparations containing at least one dangerous substance classified as toxic or harmful that produces such effects in individual concentrations equal to or greater than:
 
+PT1 LXn PT LXn PXn L Xn      1
+
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 (b) the concentration specified at point 3 in Part B of this Annex (Table III and III A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits.
+(b) the concentration specified at point 3 in Part B of this Annex (Table III and III A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits.
 
 4. The following preparations are to be classified as corrosive
 
@@ -196,8 +164,6 @@ Subsidiary 2003/082 (b) the concentration specified at point 3 in Part B of this
 
 4.1.2. preparations containing more than one substance classified as corrosive to which is assigned phrase R35 in lower individual concentrations than the limits specified under 4.1.1(a) or (b) if:
 
-PC,R35 LC,R35      1
-
 where:
 
 PC, R35 = is the percentage by weight or by volume of each corrosive substance which is assigned phrase R35 in the preparation,
@@ -206,19 +172,15 @@ LC, R35 = is the corrosive limit R35 specified for each corrosive substance to w
 
 4.2. and assigned the symbol ‘C’, the indication of danger ‘corrosive’ and the risk phrase R34;
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+4.2.1. preparations containing one or more substances classified as corrosive to which is assigned the phrase R35 or R34 in individual concentrations equal to or greater than:
 
-1956-12
-
-Subsidiary 2003/082 4.2.1. preparations containing one or more substances classified as corrosive to which is assigned the phrase R35 or R34 in individual concentrations equal to or greater than:
+PC,R35 LC,R35      1
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
 (b) the concentration specified at point 4 in Part B of this Annex (Table IV and IV A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
 4.2.2. preparations containing more than one of the substances classified as corrosive to which is assigned the phrase R35 or R34 in lower individual concentrations than the limits specified under 4.2.1(a) or (b) if:
-
-PC,R35 LC,R35 PC,R34 L C,R34      1
 
 where:
 
@@ -234,15 +196,11 @@ LC, R34 = is the respective corrosive limit R34 specified for each corrosive sub
 
 5.1.1. preparations containing one or more substances classified as irritant to which is assigned phrase R41 in individual concentrations equal to or greater than: (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+(b) the concentration specified at point 4 in Part B of this Annex (Table IV and IV A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
-1956-12
-
-Subsidiary 2003/082 (b) the concentration specified at point 4 in Part B of this Annex (Table IV and IV A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
+PC,R35 LC,R35 PC,R34 L C,R34      1
 
 5.1.2. preparations containing more than one of the substances classified as irritant and to which is assigned phrase R41, or classified as corrosive and to which is assigned phrase R35 or R34, in lower individual concentrations than the limits specified under 5.1.1(a) or (b) if:
-
-PC,R35 LXi,R41 PC,R34 L Xi,R41 PXi,R41 L Xi,R41      1
 
 where:
 
@@ -260,19 +218,11 @@ LXi, R41 = is the respective irritant limit R41 specified for each corrosive sub
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
-(b) the concentration specified at point 4 in Part B of this Annex (Table IV and IV A) where the substance or substances do not
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
+(b) the concentration specified at point 4 in Part B of this Annex (Table IV and IV A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
 5.2.2. preparations containing more than one substance classified as irritant to which is assigned phrase R41 or R36, or as corrosive and to which is assigned phrase R35 or R34, in lower individual concentrations than the limits specified under 5.2.1(a) or (b) if:
 
-PC,R35 LXi,R36 PC,R34 LXi,R36 PXi,R41 L Xi,R36 PXi,R36 LXi,R36      1
-
-where:
+PC,R35 LXi,R41 PC,R34 L Xi,R41 PXi,R41 L Xi,R41      1 where:
 
 PC, R35 = is the percentage by weight or by volume of each corrosive substance to which is assigned phrase R35 in the preparation,
 
@@ -288,19 +238,13 @@ L Xi, R36 = is the respective irritant limit R36 specified for each corrosive su
 
 5.3.1. preparations containing one or more substances classified as irritant and to which is assigned phrase R38 or as corrosive and to which is assigned phrase R35 or R34 in individual concentrations equal to or greater than:
 
-(a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
+(a)  either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
-(b) the concentration specified at point 4 in Part B of this Annex (Table IV and IV A) where the substance or substances do not
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
+(b) the concentration specified at point 4 in Part B of this Annex (Table IV and IV A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
 5.3.2. preparations containing more than one of the substances classified as irritant and to which is assigned phrase R38, or as corrosive and to which is assigned phrase R35 or R34 in lower individual concentrations than the limits specified under 5.3.1(a) or (b) if:
 
-PC,R35 LXi,R38 PC,R34 LXi,R38 PXi,R38 L Xi,R38      1 where:
+PC,R35 LXi,R36 PC,R34 LXi,R36 PXi,R41 L Xi,R36 PXi,R36 LXi,R36      1 PC,R35 LXi,R38 PC,R34 LXi,R38 PXi,R38 L Xi,R38      1 where:
 
 PC, R35 = is the percentage by weight or by volume of each corrosive substance to which is assigned phrase R35 in the preparation,
 
@@ -318,23 +262,17 @@ L Xi, R38 = is the respective irritant limit R38 specified for each corrosive su
 
 (b) the concentration specified at point 4 in Part B of this Annex (Table IV and IV A) where the substance or the substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 5.4.2. preparations containing more than one substance classified as irritant and to which is assigned phrase R37 in lower individual concentrations than the limits specified under 5.4.1(a) or (b) if:
-
-PXi,R37 LXi,R37      1
+5.4.2. preparations containing more than one substance classified as irritant and to which is assigned phrase R37 in lower individual concentrations than the limits specified under 5.4.1(a) or (b) if:
 
 where:
 
 P Xi, R37 = is the percentage by weight or by volume of each irritant substance to which is assigned phrase R37 in the preparation,
 
+PXi,R37 LXi,R37      1
+
 L Xi, R37 = is the irritant limit R37 specified for each irritant substance to which is assigned phrase R37, expressed as percentage by weight or by volume;
 
 5.4.3. gaseous preparations containing more than one of the substances classified as irritant to which is assigned phrase R37 or as corrosive and to which is assigned phrase R35 or R34 in lower individual concentrations than the limits specified under 5.4.1(a) or (b) if:
-
-PC,R35 LXi,R37 PC,R34 LXi,R37 PXi,R37 L Xi,R37      1
 
 where:
 
@@ -348,17 +286,15 @@ L Xi, R37 = is the respective irritant limit R37 specified for each gaseous corr
 
 6. The following preparations are to be classified as sensitising:
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 6.1. by skin contact and assigned the symbol ‘Xi’, the indication of danger ‘irritant’ and the risk phrase R43.
+6.1. by skin contact and assigned the symbol ‘Xi’, the indication of danger ‘irritant’ and the risk phrase R43.
 
 Preparations containing at least one substance classified as sensitising and to which is assigned phrase R43 that produces such effects in individual concentrations equal to or greater than:
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
 (b) the concentration specified at point 5 in Part B of this Annex (Table V and V A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
+
+PC,R35 LXi,R37 PC,R34 LXi,R37 PXi,R37 L Xi,R37      1
 
 6.2. by inhalation and assigned the symbol ‘Xn’, the indication of danger ‘harmful’ and the risk phrase R42.
 
@@ -374,11 +310,7 @@ Preparations containing at least one substance classified as sensitising to whic
 
 Preparations containing at least one substance producing such effects, classified as carcinogenic and to which is assigned phrase R45 or R49 which denotes carcinogenic substances in category 1 and category 2, in individual concentrations equal to or greater than:
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
+(a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
 (b) the concentration specified at point 6 in Part B of this Annex (Table VI and VI A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
@@ -398,13 +330,7 @@ Preparations containing at least one substance producing such effects, classifie
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
-(b) the concentration specified at point 6 in Part B of this Annex (Table VI and VI A) where the substance or substances do not
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
+(b) the concentration specified at point 6 in Part B of this Annex (Table VI and VI A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits;
 
 8.2. those of category 3 which are assigned the symbol ‘Xn’ and the phrase R40.
 
@@ -426,13 +352,7 @@ Preparations containing at least one substance producing such effects, classifie
 
 9.2. those of category 3 which are assigned the symbol ‘Xn’ and the phrase R62 (fertility).
 
-Preparations containing at least one substance producing such effects, classified as toxic for reproduction and to which is assigned phrase R62
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 which denotes substances toxic for reproduction of category 3, in individual concentrations equal to or greater than:
+Preparations containing at least one substance producing such effects, classified as toxic for reproduction and to which is assigned phrase R62 which denotes substances toxic for reproduction of category 3, in individual concentrations equal to or greater than:
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
@@ -452,13 +372,7 @@ Preparations containing at least one substance producing such effects, classifie
 
 (a) either the concentration specified in Annex I to Directive 67/548/EEC for the substance or substances under consideration, or
 
-(b) the concentration specified at point 6 in Part B of this Annex (Table VI and VI A) where the substance or substances do not
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits.
+(b) the concentration specified at point 6 in Part B of this Annex (Table VI and VI A) where the substance or substances do not appear in Annex I to Directive 67/548/EEC or appear in it without concentration limits.
 
 PART B
 
@@ -488,11 +402,7 @@ The R phrases denoting risk are to be assigned to the preparation in accordance 
 
 - the label shall include one or more of the abovementioned R phrases according to the classification used,
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 - in general, the R phrases selected should be those applicable to the substance(s) present in the concentration which gives rise to the most severe classification.
+- in general, the R phrases selected should be those applicable to the substance(s) present in the concentration which gives rise to the most severe classification.
 
 1.2. Gaseous preparations
 
@@ -506,7 +416,7 @@ Classification of the gaseous preparation
 
 T+ T Xn T+ with R26, R27, R28 concentration 1% 0,2%  concentration <1% 0,02%  concentration <0,2% T with R23, R24, R25
 
-concentration 5% 0,5%  concentration <5% Xn with R20, R21, R22
+concentration 5% 0,5% concentration <5% Xn with R20, R21, R22
 
 concentration 5%
 
@@ -520,17 +430,13 @@ The R phrases denoting risk shall be assigned to the preparation in accordance w
 
 2.1.Non-gaseous preparations
 
-For substances that produce non-lethal irreversible effects after a single exposure (R39/route of exposure, R40/ route of exposure), the individual concentration limits specified in Table II, expressed as a weight/weight
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 percentage, determine, when appropriate, the classification of the preparation.
+For substances that produce non-lethal irreversible effects after a single exposure (R39/route of exposure, R40/ route of exposure), the individual concentration limits specified in Table II, expressed as a weight/weight percentage, determine, when appropriate, the classification of the preparation.
 
 Table II
 
-Classification of the substance Classification of the preparation
+Classification of the substance
+
+Classification of the preparation
 
 T+ T Xn T+ with R39/route of exposure concentration 10% R39 (*) obligatory 1%  concentration <10% R39 (*) obligatory 0,1%  concentration <1% R40 (*) obligatory T with R39/route of exposure
 
@@ -548,17 +454,13 @@ Classification of the substance (gas)
 
 Classification of the gaseous preparation
 
-T+ T Xn T+ with R39/route of exposure concentration 1% R39 (*) obligatory 0,2%  concentration <1% R39 (*) obligatory 0,02%  concentration <0,2% R40 (*) obligatory T with R39/route of
+T+ T Xn T+ with R39/route of exposure concentration 1% R39 (*) obligatory 0,2%  concentration <1% R39 (*) obligatory 0,02%  concentration <0,2% R40 (*) obligatory T with R39/route of exposure
 
-concentration 5% R39 (*) 0,5%  concentration
+concentration 5% R39 (*) obligatory 0,5%  concentration <5% R40 (*) obligatory Xn with R40/route of exposure
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
+concentration 5% R40 (*) obligatory
 
-1956-12
-
-Subsidiary 2003/082 exposure obligatory <5% R40 (*) obligatory Xn with R40/route of exposure
-
-concentration 5% R40 (*) obligatory (*) In order to indicate the route of administration/exposure (route of exposure) the combined R phrases listed under points 3.2.1, 3.2.2 and 3.2.3 of the labelling guide (Annex VI to Directive 67/548/EEC) are to be used.
+(*) In order to indicate the route of administration/exposure (route of exposure) the combined R phrases listed under points 3.2.1, 3.2.2 and 3.2.3 of the labelling guide (Annex VI to Directive 67/548/EEC) are to be used.
 
 3. Severe effects after repeated or prolonged exposure
 
@@ -582,13 +484,7 @@ Table III A
 
 Classification of the substance (gas) Classification of the gaseous preparation
 
-T Xn
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 T with R48/route of exposure concentration 5% R48 (*) obligatory 0,5%  concentration <5% R48 (*) obligatory Xn with R48/route of exposure
+T Xn T with R48/route of exposure concentration 5% R48 (*) obligatory 0,5%  concentration <5% R48 (*) obligatory Xn with R48/route of exposure
 
 concentration 5% R48 (*) obligatory (*) In order to indicate the route of administration/exposure (route of exposure) the combined R phrases listed under points 3.2.1, 3.2.2 and 3.2.3 of the labelling guide (Annex VI to Directive 67/548/EEC) are to be used
 
@@ -608,13 +504,7 @@ concentration 10% R34 obligatory 10% (*) 5%  concentration <10% R36/38 obl
 
 concentration 10% R41 obligatory 5%  concentration <10% R36 obligatory Xi with R36, R37, R38
 
-concentration 20% R36, R37, R38 are obligatory in the light of
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 the concentration present if they apply to the substances under consideration (*) According to the labelling guide (Annex VI to Directive 67/548/EEC), corrosive substances assigned risk phrases R35 or R34 must also be considered as being assigned phrase R41. Consequently, if the preparation contains corrosive substances with R35 or R34 below the concentration limits for a classification of the preparation as corrosive, such substances can contribute to a classification of the preparation as irritant with R41 or irritant with R36.
+concentration 20% R36, R37, R38 are obligatory in the light of the concentration present if they apply to the substances under consideration (*) According to the labelling guide (Annex VI to Directive 67/548/EEC), corrosive substances assigned risk phrases R35 or R34 must also be considered as being assigned phrase R41. Consequently, if the preparation contains corrosive substances with R35 or R34 below the concentration limits for a classification of the preparation as corrosive, such substances can contribute to a classification of the preparation as irritant with R41 or irritant with R36.
 
 4.2. Gaseous preparations
 
@@ -622,21 +512,13 @@ For gases that produce such effects (R34, R35 or R36, R37, R38, R41), the indivi
 
 Table IV A
 
-Classification of the substance (gas)
-
-Classification of the gaseous preparation
+Classification of the substance (gas) Classification of the gaseous preparation
 
 C with R35 C with R34 Xi with R41 Xi with R36, R37, R38 C with R35 concentration 1% R35 obligatory 0,2%  concentration <1% R34 obligatory 0,2% (*) 0,02%  concentration <0,2% R36/37/38 obligatory C with R34
 
 concentration 5% R34 obligatory 5% (*) 0,5%  concentration <5% R36/37/38 obligatory Xi with R41
 
-concentration 5% R41 obligatory 0,5%  concentration <5% R36 obligatory
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Xi with R36, R37, R38
+concentration 5% R41 obligatory 0,5%  concentration <5% R36 obligatory Xi with R36, R37, R38
 
 concentration 5% R36, R37, R38 obligatory as appropriate (*) According to the labelling guide (Annex VI to Directive 67/548/EEC), corrosive substances assigned risk phrases R35 or R34 must also be considered as being assigned phrase R41. Consequently, if the preparation contains corrosive substances with R35 or R34 below the concentration limits for a classification of the preparation as corrosive, such substances can contribute to a classification of the preparation as irritant with R41 or irritant with R36.
 
@@ -670,12 +552,6 @@ Gaseous preparations that produce such effects are classified as sensitising and
 
 -  the symbol Xn and phrase R42 if this effect can be produced by inhalation,
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 - the symbol Xi and phrase R43 if this effect can be produced through contact with the skin.
 
 The individual concentration limits specified in Table V A below, expressed as a volume/volume percentage, determine, when appropriate, the classification of the preparation.
@@ -702,12 +578,6 @@ T; R46 Mutagenic category 3: Xn; R40 Toxic for reproduction fertility categories
 
 Table VI
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
-
 Classification of the substance Classification of the preparation
 
 Categories 1 and 2
@@ -724,9 +594,9 @@ concentration  1% mutagenic R40 obligatory substances ‘toxic for reproducti
 
 substances’toxic for reproduction’ of category 3 with R62 (fertility)
 
-concentration 5% toxic for reproduction (fertility) R62 obligatory substances ‘toxic for reproduction’ of category 1 or 2 with R61 (development) concentration 0,5% toxic for reproduction (development) R61 obligatory
+concentration 5% toxic for reproduction (fertility) R62 obligatory substances ‘toxic for reproduction’ of category 1 or 2 with R61 (development) concentration 0,5% toxic for reproduction
 
-substances ‘toxic for reproduction’ of category 3 with R63 (Development)
+(development) R61 obligatory substances ‘toxic for reproduction’ of category 3 with R63 (Development)
 
 concentration 5% toxic for reproduction (development) R63 obligatory
 
@@ -734,19 +604,9 @@ concentration 5% toxic for reproduction (development) R63 obligatory
 
 For gases which produce such effects, the concentration limits laid down in Table VI A, expressed as a volume/ volume percentage, shall determine, where appropriate, the classification of the preparation. The following symbol and risk phrases are assigned:
 
-Carcinogenic categories 1 and 2: T; R45 or R49
+Carcinogenic categories 1 and 2: T; R45 or R49 Carcinogenic category 3: Xn; R40 Mutagenic categories 1 and 2: T; R46 Mutagenic category 3: Xn; R40 Toxic for reproduction fertility categories 1 and 2: T; R60 Toxic for reproduction development categories 1 and 2: T; R61 Toxic for reproduction fertility category 3: Xn; R62 Toxic for reproduction development category 3: Xn; R63
 
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Carcinogenic category 3: Xn; R40 Mutagenic categories 1 and 2: T; R46 Mutagenic category 3: Xn; R40 Toxic for reproduction fertility categories 1 and 2: T; R60 Toxic for reproduction development categories 1 and 2: T; R61 Toxic for reproduction fertility category 3: Xn; R62 Toxic for reproduction development category 3: Xn; R63
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082 Table VI A
+Table VI A
 
 Classification of the substance (gas) Classification of the gaseous preparation
 
@@ -767,9 +627,3 @@ concentration  1% toxic for reproduction (fertility) R62 obligatory substance
 substances ‘toxic for reproduction’ of category 3 with R63 (development)
 
 concentration  1% toxic for reproduction (development) R63 obligatory
-
-Factories FACTORIES (CONTROL OF CARCINOGENS AND MUTAGENS AT WORK) REGULATIONS 2003.
-
-1956-12
-
-Subsidiary 2003/082
