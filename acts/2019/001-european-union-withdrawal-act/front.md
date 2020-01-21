@@ -12,7 +12,7 @@ Assent 31.1.2019
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2019/073 s. 3(1), (2) 28.3.2019 2019/092 s. 3(1), (2) 11.4.2019 2019/218 s. 3(1), (2) 30.10.2019
+LN. 2019/073 s. 3(1), (2) 28.3.2019 2019/092 s. 3(1), (2) 11.4.2019 2019/218 s. 3(1), (2) 30.10.2019 Act. 2020-01 ss. 3(6A), 11A, 12, 16, Sch. 3, 4 21.1.2020
 
 English sources: None cited
 
@@ -30,7 +30,7 @@ Sections General provisions 1. Short title. 2. Commencement. 3. Interpretation. 
 
 Retention of existing EU law
 
-5. Saving for EU-derived domestic legislation. 6. Incorporation of direct EU legislation. 7. Saving for rights etc. under section 3(1) of the ECA. 8. Exceptions to savings and incorporation. 9. Interpretation of retained EU law. 10. Status of retained EU law. 11. Dealing with deficiencies arising from withdrawal. 12. Implementing the withdrawal agreement. 13. Rules of evidence. 14. Regulations. 15. Consequential and transitional provision. 16. Future interaction with the law and agencies of the EU.
+5. Saving for EU-derived domestic legislation. 6. Incorporation of direct EU legislation. 7. Saving for rights etc. under section 3(1) of the ECA. 8. Exceptions to savings and incorporation. 9. Interpretation of retained EU law. 10. Status of retained EU law. 11. Dealing with deficiencies arising from withdrawal. 11A. Supplementary powers in connection with implementation period. 12. Repealed. 13. Rules of evidence. 14. Regulations. 15. Consequential and transitional provision. 16. Repealed.
 
 SCHEDULE 1 FURTHER PROVISION ABOUT EXCEPTIONS TO SAVINGS AND INCORPORATION
 
