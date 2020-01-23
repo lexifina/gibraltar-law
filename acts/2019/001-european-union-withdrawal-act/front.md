@@ -12,7 +12,7 @@ Assent 31.1.2019
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2019/073 s. 3(1), (2) 28.3.2019 2019/092 s. 3(1), (2) 11.4.2019 2019/218 s. 3(1), (2) 30.10.2019 Act. 2020-01 ss. 3(6A), 11A, 12, 16, Sch. 3, 4 21.1.2020
+LN. 2019/073 s. 3(1), (2) 28.3.2019 2019/092 s. 3(1), (2) 11.4.2019 2019/218 s. 3(1), (2) 30.10.2019 Act. 2020-01 ss. 3(6A), 11A, 12, 16, Sch. 3, 4 21.1.2020 LN. 2020/051 s. 4 (Notice of Commencement) 23.1.2020
 
 English sources: None cited
 
