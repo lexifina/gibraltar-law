@@ -10,7 +10,9 @@ Act. No. 2015-08 Commencement 2.4.2015
 
 Assent 2.4.2015
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date Act.2020-02 ss. 2, 7(1), (6), 8(1), 17(1)(c), 22-23, 24(1), (a)-(d), 25-27, 28(a)-(b), 33(1), 34, 38(1), 42A-42(E), 65(1)(f), 70, 72(1), 74(3), 76(1)- (2), 78(4)(c), Sch.
+
+30.1.2020
 
 Referendum
 
@@ -42,17 +44,23 @@ PART 6 Absentee Voting
 
 39. Request to be an absentee voter. 40. Absentee list. 41. Absentee voting. 42. Completion of absentee voting.
 
+PART 6A Proxy Voting
+
+42A. Application to Vote by Proxy. 42B. Additional requirements for an application for an emergency proxy vote. 42C. Proxy List 42D. Proxies 42E. Application Form
+
 PART 7 Postal Voting
 
 43. Postal voters list. 44. Issue of postal voting papers. 45. Action to be taken by postal voter. 46. Receipt of postal votes. 47. Late envelopes. 48. Voting only by post.
 
 PART 8 The Count
 
-49. Counting agents. 50. Counting of votes. 51. Counting of voting papers. 52. Verification of voting paper accounts. 53. Rejected voting papers. 54. Counting of postal voting papers. 55. Counting of postal votes. 56. Spoilt postal voting papers. 57. The count. 58. Re-count. 59. Declaration of result. 60. Return of the Order of Referendum.
+49. Counting agents. 50. Counting of votes. 51. Counting of voting papers.
 
 Referendum
 
-2015-08 PART 9 Offences
+2015-08 52. Verification of voting paper accounts. 53. Rejected voting papers. 54. Counting of postal voting papers. 55. Counting of postal votes. 56. Spoilt postal voting papers. 57. The count. 58. Re-count. 59. Declaration of result. 60. Return of the Order of Referendum.
+
+PART 9 Offences
 
 61. Referendum Officers and Referendum Observers to observe secrecy. 62. Officers not to contravene Act etc. 63. Officers not to influence vote. 64. Influencing votes of hospital patients etc. 65. Bribery. 66. Interference with political liberty. 67. Printing and publication of advertisements, notices etc. 68. Publication of advertisements on the internet. 69. Misleading or deceptive publications etc. 70. False statements in relation to the Register. 71. Headings to advertisements. 72. Cards in voting stations. 73. Marks on voting paper. 74. Other offences relating to voting papers, etc. 75. Badges or emblems at voting stations. 76. Molestation. 77. Misconduct at public meeting. 78. Conduct at voting stations and other premises. 79. Penalties.
 

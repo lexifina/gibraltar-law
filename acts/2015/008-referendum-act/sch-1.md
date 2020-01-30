@@ -210,11 +210,11 @@ VOTING PAPER FOR THE REFERENDUM OF [DATE] ON [TITLE OF REFERENDUM]
 
 QUESTION
 
-[… insert the Question–
+[…insert the Question–
 
 (a) as set out in the Order made pursuant to section 4(1)(b); or
 
-(b) as set out in the Government Motion…]
+(b) as set out in the Government Motion...]
 
 YES
 
@@ -338,4 +338,66 @@ INSTRUCTIONS TO THE VOTER
 
 Referendum
 
-2015-08 4.  At this referendum you cannot vote in person at a voting station.
+2015-08 4.  At this referendum you cannot vote in person at a voting station. Form L
+
+REFERENDUM ACT 2015
+
+Referendum
+
+2015-08
+
+Referendum
+
+2015-08 Form M
+
+REFERENDUM ACT 2015
+
+PART 1
+
+FORM OF PROXY PAPER
+
+PROXY PAPER REFERENDUM
+
+DATE OF NOTICE OF REFERENDUM ………………………………….. VOTING STATION:
+
+NAME OF PROXY
+
+ADDRESS OF PROXY
+
+You have been appointed as proxy for _____________________________________ (name of voter)
+
+who is registered at __________________________________
+
+to vote for him/her in the above-mentioned referendum
+
+Signature _______________________________ (Registration Officer)
+
+Date:   ____________________________________
+
+1. This proxy paper gives you the right to vote as proxy for the voter named above.
+
+2. You may not vote as proxy in the referendum for more than two voters.
+
+3. You must vote as proxy at the voting station allotted to the voter on whose behalf you are appointed. Shortly before polling day you will be sent a proxy poll card telling you where the voting station is. Please take the poll card with you to vote as you cannot vote without it.
+
+4. If you cannot vote in person at the voting station, please contact [insert telephone number or e-mail]
+
+Referendum
+
+2015-08
+
+Referendum
+
+2015-08
+
+Referendum
+
+2015-08
+
+Referendum
+
+2015-08
+
+Referendum
+
+2015-08
