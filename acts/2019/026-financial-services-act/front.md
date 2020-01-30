@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/005 ss.24(3)(g), 25(2)(a), 382, 344(1)-(3), 345(2), 346- 348A, 349(2)(a), (3)(a), (c), (7)(a)-(b), 350(1), 351- 351A, Sch.2, 8, 21, 24A, 28, 29
 
-15.1.2019
+15.1.2019 2020/053 Sch. 2 30.1.2020
 
 _______________________________
 
@@ -36,9 +36,9 @@ Carrying on regulated activities
 
 8. The general prohibition. 9. Contravention of the general prohibition. 10. False claims to be authorised or exempt.
 
-Requirement for authorised persons to have permission
-
 2019-26 Financial Services
+
+Requirement for authorised persons to have permission
 
 11. Authorised persons acting without permission.
 
@@ -74,11 +74,11 @@ Regulation of auditors
 
 Resolution functions
 
-26. GFSC as resolution authority. 27. Financial Services Resolution and Compensation Committee. 28. Operational independence of resolution functions.
+26. GFSC as resolution authority. 27. Financial Services Resolution and Compensation Committee.
 
 Financial Services 2019-26
 
-29. References to resolution authority.
+28. Operational independence of resolution functions. 29. References to resolution authority.
 
 Chief Executive
 
@@ -150,9 +150,11 @@ Exemptions
 
 61. Exemption Regulations.
 
-PART 7 PERMISSION FOR REGULATED FIRMS TO CARRY ON REGULATED ACTIVITIES
+PART 7
 
 Financial Services 2019-26
+
+PERMISSION FOR REGULATED FIRMS TO CARRY ON REGULATED ACTIVITIES
 
 Interpretation
 
@@ -184,9 +186,11 @@ Persons whose interests will be protected
 
 Procedure
 
-76. Applications under this Part. 77. Determination of applications. 78. Determination of applications: notice procedure. 79. GFSC’s variation or requirement power: notice procedure. 80. Directions in urgent cases. 81. Revocation or variation of directions. 82. Cancellation of permission under Part 7: notice procedure.
+76. Applications under this Part. 77. Determination of applications. 78. Determination of applications: notice procedure. 79. GFSC’s variation or requirement power: notice procedure. 80. Directions in urgent cases. 81. Revocation or variation of directions.
 
 2019-26 Financial Services
+
+82. Cancellation of permission under Part 7: notice procedure.
 
 Notification
 
