@@ -8,7 +8,13 @@ LN.2020/041
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-126, Sch.2
+
+30.1.2020
+
+2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -26,15 +32,15 @@ Chapter 1 General
 
 Chapter 2 Investment firms
 
-12. Scope of permission: investment firms.
-
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
-
-13. Location of offices. 14. Capital requirements. 15. Membership of investor compensation scheme. 16. Non-executive directorships. 17. Management body. 18. Controllers and close links. 19. Specific information requirements for OTFs.
+12. Scope of permission: investment firms. 13. Location of offices. 14. Capital requirements. 15. Membership of investor compensation scheme. 16. Non-executive directorships. 17. Management body. 18. Controllers and close links. 19. Specific information requirements for OTFs.
 
 Chapter 3 Regulated markets
 
-20. General requirements: regulated markets and market operators. 21. Financial resources. 22. Market operator operating an MTF or OTF.
+20. General requirements: regulated markets and market operators. 21. Financial resources.
+
+Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
+
+22. Market operator operating an MTF or OTF.
 
 PART 3 CONDUCT OF BUSINESS
 
@@ -54,8 +60,6 @@ Safeguarding of client financial instruments and funds
 
 Algorithmic trading
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
 35. Algorithmic trading.
 
 Investor protection: general principles
@@ -65,6 +69,8 @@ Investor protection: general principles
 Inducements
 
 37. Inducements. 38. Inducements: advice on independent basis or portfolio management. 39. Inducements in relation to research.
+
+2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 Provisions to ensure investor protection
 
@@ -82,15 +88,15 @@ PART 4 CORPORATE GOVERNMENT AND RISK MANAGEMENT
 
 Chapter 1 Investment firms
 
-51. Management body. 52. Organisational requirements: investment firms.
-
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
-
-53. Product governance: firms manufacturing financial instruments. 54. Product governance obligations for distributors. 55. Governance arrangements concerning safeguarding of client assets. 56. Conflicts of interest. 57. Monitoring compliance with MTF or OTF rules etc.
+51. Management body. 52. Organisational requirements: investment firms. 53. Product governance: firms manufacturing financial instruments. 54. Product governance obligations for distributors. 55. Governance arrangements concerning safeguarding of client assets. 56. Conflicts of interest. 57. Monitoring compliance with MTF or OTF rules etc.
 
 Chapter 2 Regulated markets
 
-58. Requirements for management body of market operator. 59. Requirements relating to persons exercising significant influence over regulated market. 60. Organisational requirements: regulated markets. 61. Access to regulated market. 62. Monitoring compliance with regulated market rules and other legal obligations.
+58. Requirements for management body of market operator. 59. Requirements relating to persons exercising significant influence over regulated market. 60. Organisational requirements: regulated markets.
+
+Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
+
+61. Access to regulated market. 62. Monitoring compliance with regulated market rules and other legal obligations. 62A. Complaints. 62B. Co-operation with GFSC and Government. 62C. General notification obligations.
 
 Chapter 3 Specific requirements for trading venues
 
@@ -112,11 +118,11 @@ Regulated markets
 
 71. Regulated markets: sufficient financial resources.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
 PART 6 NOTIFICATION AND REPORTING
 
 72. Management body. 73. Duty to notify changes. 74. Notification of controllers etc. 75. Reports by external auditors. 76. Relations with auditors. 77. Reporting of contraventions.
+
+2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 PART 7 FREEDOM OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES
 
@@ -140,13 +146,13 @@ Branch etc business
 
 88. Gibraltar firms: branches and tied agents in an EEA State. 89. Changes to information provided under regulation 88. 90. Business of branches and tied agents of Gibraltar firms in an EEA State.
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
-
 Services business
 
 91. Gibraltar firms: services in an EEA State. 92. Changes to information provided under regulation 91. 93. Business of Gibraltar firms providing services in an EEA State.
 
 Chapter 3 Access to trading venues and settlement systems
+
+Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
 
 Access to trading facilities in an EEA State
 
@@ -170,15 +176,17 @@ Sanctions
 
 102. Sanctioning powers. 103. Additional persons subject to powers. 104. Additional power: management prohibition order. 105. Additional power: market participation suspension order. 106. Maximum amounts of administrative penalty. 107. Publication of sanctioning action.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
 GFSC acting as host State competent authority
 
 108.  Powers as host State competent authority. 109. Precautionary measures as host State competent authority.
 
 PART 9 MISCELLANEOUS
 
-110. The Register: investment services and investment activities. 111. Application of MiFIR. 112. Codes of practice. 113. Civil proceedings for loss.
+110. The Register: investment services and investment activities.
+
+2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
+
+111. Application of MiFIR. 112. Codes of practice. 113. Civil proceedings for loss.
 
 Monitoring compliance and notifying ESMA
 
@@ -192,8 +200,14 @@ Confidentiality and exchange of information
 
 123. Professional secrecy. 124. Exchange of information.
 
-SCHEDULE PROFESSIONAL CLIENTS
+Conduct of investment services in United Kingdom
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
+125. Notice in respect of UK investment services. 126. Obligation to participate in UK Scheme.
+
+SCHEDULE 1 PROFESSIONAL CLIENTS
+
+SCHEDULE 2 NOTIFICATIONS OF EVENTS AND CIRCUMSTANCES
+
+Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
 
 In exercise of the powers conferred on the Minister by sections 6(1), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1), 623 and 627 of, and paragraphs 6 and 7 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.

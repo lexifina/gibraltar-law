@@ -1,4 +1,4 @@
-SCHEDULE Regulation 2(1)
+SCHEDULE 1 Regulation 2(1)
 
 PROFESSIONAL CLIENTS
 
@@ -91,3 +91,5 @@ Before deciding to accept any request for waiver, investment firms must be requi
 However, if clients have already been categorised as professionals under parameters and procedures similar to those referred to above, it is not intended that their relationships with investment firms shall be affected by any new rules adopted pursuant to this Schedule.
 
 Firms must implement appropriate written internal policies and procedures to categorise clients. Professional clients are responsible for keeping the investment firm informed about any change, which could affect their current categorisation. Should the investment firm become aware however that the client no longer fulfils the initial conditions, which made the client eligible for a professional treatment, the investment firm shall take appropriate action.
+
+Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
