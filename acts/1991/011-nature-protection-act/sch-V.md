@@ -10,10 +10,6 @@ The abbreviation “spp.” after the name of a family or genus designates all t
 
 (a) ANIMALS
 
-Nature Protection
-
-1991-11
-
 VERTEBRATES
 
 MAMMALS
@@ -30,7 +26,11 @@ CARNIVORA
 
 Canidae
 
-Canis aureus Canis lupus (Spanish populations north of the Duero, Greek populations north of the 39th parallel, Finnish populations within the reindeer management area as defined in paragraph 2 of the Finnish Act No 848/90 of 14 September 1990 on reindeer management, Bulgarian, Latvian, Lithuanian, Estonian, Polish and Slovak populations)
+Canis aureus
+
+Nature Protection
+
+1991-11 Canis lupus (Spanish populations north of the Duero, Greek populations north of the 39th parallel, Finnish populations within the reindeer management area as defined in paragraph 2 of the Finnish Act No 848/90 of 14 September 1990 on reindeer management, Bulgarian, Latvian, Lithuanian, Estonian, Polish and Slovak populations)
 
 Mustelidae
 
@@ -62,10 +62,6 @@ ARTIODACTYLA
 
 Bovidae
 
-Nature Protection
-
-1991-11
-
 Capra ibex
 
 Capra pyrenaica (except Capra pyrenaica pyrenaica)
@@ -91,6 +87,10 @@ Rana temporaria
 FISH
 
 PETROMYZONIFORMES
+
+Nature Protection
+
+1991-11
 
 Petromyzonidae
 
@@ -130,10 +130,6 @@ Cyprinidae
 
 Aspius aspius
 
-Nature Protection
-
-1991-11
-
 Barbus spp.
 
 Pelecus cultratus
@@ -158,7 +154,9 @@ Zingel zingel
 
 INVERTEBRATES
 
-COELENTERATA
+Nature Protection
+
+1991-11 COELENTERATA
 
 CNIDARIA
 
@@ -192,9 +190,7 @@ Hirudo medicinalis
 
 ARTHROPODA
 
-Nature Protection
-
-1991-11 CRUSTACEA — DECAPODA
+CRUSTACEA — DECAPODA
 
 Astacidae
 
@@ -217,6 +213,10 @@ Graellsia isabellae
 (b) PLANTS
 
 ALGAE
+
+Nature Protection
+
+1991-11
 
 RHODOPHYTA
 
@@ -248,10 +248,6 @@ PTERIDOPHYTA
 
 Lycopodium spp.
 
-Nature Protection
-
-1991-11
-
 ANGIOSPERMAE
 
 AMARYLLIDACEAE
@@ -275,6 +271,10 @@ Doronicum plantagineum L. subsp. tournefortii (Rouy) P. Cout.
 Leuzea rhaponticoides Graells
 
 CRUCIFERAE
+
+Nature Protection
+
+1991-11
 
 Alyssum pintadasilvae Dudley.
 
@@ -306,9 +306,7 @@ Lilium rubrum Lmk
 
 Ruscus aculeatus L.
 
-Nature Protection
-
-1991-11 PLUMBAGINACEAE
+PLUMBAGINACEAE
 
 Armeria sampaio (Bernis) Nieto Feliner
 
@@ -327,3 +325,73 @@ Scrophularia grandiflora DC. subsp. grandiflora DC.
 Scrophularia berminii Hoffmanns & Link
 
 Scrophularia sublyrata Brot.
+
+Nature Protection
+
+1991-11 ANNEX VI
+
+PROHIBITED METHODS AND MEANS OF CAPTURE AND KILLING AND MODES OF TRANSPORT
+
+(a) Non-selective means
+
+MAMMALS
+
+— Blind or mutilated animals used as live decoys
+
+— Tape recorders
+
+— Electrical and electronic devices capable of killing or stunning
+
+— Artificial light sources
+
+— Mirrors and other dazzling devices
+
+— Devices for illuminating targets
+
+— Sighting devices for night shooting comprising an electronic image magnifier or image converter
+
+— Explosives
+
+— Nets which are non-selective according to their principle or their conditions of use
+
+— Traps which are non-selective according to their principle or their conditions of use
+
+— Crossbows
+
+— Poisons and poisoned or anaesthetic bait
+
+— Gassing or smoking out
+
+— Semi-automatic or automatic weapons witha magazine capable of holding more than two rounds of ammunition
+
+FISH
+
+— Poison
+
+— Explosives
+
+(b) Modes of transport
+
+Nature Protection
+
+1991-11
+
+— Aircraft
+
+— Moving motor vehicles
+
+Nature Protection
+
+1991-11 SCHEDULE 6 Section 17V
+
+ANIMALS WHICH MAY NOT BE TAKEN OR KILLED IN CERTAIN WAYS
+
+Common Name Scientific Name
+
+Barbel
+
+Barbus barbus Seal, Mediterranean Monk Monachus monachus
+
+NOTE. The common name or names given in the first column of this Schedule are included by way of guidance only; in the event of any dispute or proceedings, the common name or names shall not be taken into account.
+
+_____________________

@@ -50,7 +50,9 @@ Nature Protection
 
 Nature Protection
 
-1991-11 (12)  Because of the importance which may be attached to certain specific situations, provision should be made for the possibility of derogations on certain conditions and subject to monitoring by the Commission.
+1991-11
+
+(12)  Because of the importance which may be attached to certain specific situations, provision should be made for the possibility of derogations on certain conditions and subject to monitoring by the Commission.
 
 (13)  The conservation of birds and, in particular, migratory birds still presents problems which call for scientific research. Such research will also make it possible to assess the effectiveness of the measures taken.
 
@@ -72,11 +74,9 @@ Article 1
 
 Article 2
 
-Member States shall take the requisite measures to maintain the population of the species referred to in Article 1 at a level which corresponds in particular to ecological, scientific and cultural requirements, while taking account of
-
 Nature Protection
 
-1991-11 economic and recreational requirements, or to adapt the population of these species to that level.
+1991-11 Member States shall take the requisite measures to maintain the population of the species referred to in Article 1 at a level which corresponds in particular to ecological, scientific and cultural requirements, while taking account of economic and recreational requirements, or to adapt the population of these species to that level.
 
 Article 3
 
@@ -108,11 +108,11 @@ In this connection, account shall be taken of:
 
 Trends and variations in population levels shall be taken into account as a background for evaluations.
 
-Member States shall classify in particular the most suitable territories in number and size as special protection areas for the conservation of these species in the geographical sea and land area where this Directive applies.
-
 Nature Protection
 
-1991-11 2.  Member States shall take similar measures for regularly occurring migratory species not listed in Annex I, bearing in mind their need for protection in the geographical sea and land area where this Directive applies, as regards their breeding, moulting and wintering areas and staging posts along their migration routes. To this end, Member States shall pay particular attention to the protection of wetlands and particularly to wetlands of international importance.
+1991-11 Member States shall classify in particular the most suitable territories in number and size as special protection areas for the conservation of these species in the geographical sea and land area where this Directive applies.
+
+2.  Member States shall take similar measures for regularly occurring migratory species not listed in Annex I, bearing in mind their need for protection in the geographical sea and land area where this Directive applies, as regards their breeding, moulting and wintering areas and staging posts along their migration routes. To this end, Member States shall pay particular attention to the protection of wetlands and particularly to wetlands of international importance.
 
 3.  Member States shall send the Commission all relevant information so that it may take appropriate initiatives with a view to the coordination necessary to ensure that the areas provided for in paragraphs 1 and 2 form a coherent whole which meets the protection requirements of these species in the geographical sea and land area where this Directive applies.
 
@@ -134,11 +134,11 @@ Without prejudice to Articles 7 and 9, Member States shall take the requisite me
 
 Article 6
 
-1.  Without prejudice to paragraphs 2 and 3, Member States shall prohibit, for all the bird species referred to in Article 1, the sale, transport for sale, keeping
-
 Nature Protection
 
-1991-11 for sale and the offering for sale of live or dead birds and of any readily recognisable parts or derivatives of such birds.
+1991-11
+
+1.  Without prejudice to paragraphs 2 and 3, Member States shall prohibit, for all the bird species referred to in Article 1, the sale, transport for sale, keeping for sale and the offering for sale of live or dead birds and of any readily recognisable parts or derivatives of such birds.
 
 2.  The activities referred to in paragraph 1 shall not be prohibited in respect of the species referred to in Annex III, Part A, provided that the birds have been legally killed or captured or otherwise legally acquired.
 
@@ -156,11 +156,11 @@ Article 7
 
 2.  The species referred to in Annex II, Part A may be hunted in the geographical sea and land area where this Directive applies.
 
-3.  The species referred to in Annex II, Part B may be hunted only in the Member States in respect of which they are indicated.
-
 Nature Protection
 
-1991-11 4.  Member States shall ensure that the practice of hunting, including falconry if practised, as carried on in accordance with the national measures in force, complies with the principles of wise use and ecologically balanced control of the species of birds concerned and that this practice is compatible as regards the population of these species, in particular migratory species, with the measures resulting from Article 2.
+1991-11 3.  The species referred to in Annex II, Part B may be hunted only in the Member States in respect of which they are indicated.
+
+4.  Member States shall ensure that the practice of hunting, including falconry if practised, as carried on in accordance with the national measures in force, complies with the principles of wise use and ecologically balanced control of the species of birds concerned and that this practice is compatible as regards the population of these species, in particular migratory species, with the measures resulting from Article 2.
 
 They shall see in particular that the species to which hunting laws apply are not hunted during the rearing season or during the various stages of reproduction.
 
@@ -188,11 +188,9 @@ Article 9
 
 — for the protection of flora and fauna;
 
-(b) for the purposes of research and teaching, of re-population, of re-introduction and for the breeding necessary for these purposes;
-
 Nature Protection
 
-1991-11
+1991-11 (b) for the purposes of research and teaching, of re-population, of re-introduction and for the breeding necessary for these purposes;
 
 (c) to permit, under strictly supervised conditions and on a selective basis, the capture, keeping or other judicious use of certain birds in small numbers.
 
@@ -218,11 +216,13 @@ Article 10
 
 Article 11
 
-Member States shall see that any introduction of species of bird which do not occur naturally in the wild state in the European territory of the Member States does not prejudice the local flora and fauna. In this connection they shall consult the Commission.
+Member States shall see that any introduction of species of bird which do not occur naturally in the wild state in the European territory of the Member
 
 Nature Protection
 
-1991-11 Article 12
+1991-11 States does not prejudice the local flora and fauna. In this connection they shall consult the Commission.
+
+Article 12
 
 1.  Member States shall forward to the Commission every three years, starting from 7 April 1981, a report on the implementation of national provisions taken under this Directive.
 
@@ -248,13 +248,13 @@ Article 16
 
 Article 17
 
-Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field governed by this Directive.
+Nature Protection
+
+1991-11 Member States shall communicate to the Commission the texts of the main provisions of national law which they adopt in the field governed by this Directive.
 
 Article 18
 
-Nature Protection
-
-1991-11 Directive 79/409/EEC, as amended by the acts listed in Annex VI, Part A, is repealed, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex VI, Part B. References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex VII.
+Directive 79/409/EEC, as amended by the acts listed in Annex VI, Part A, is repealed, without prejudice to the obligations of the Member States relating to the time limits for transposition into national law of the Directives set out in Annex VI, Part B. References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex VII.
 
 Article 19
 
