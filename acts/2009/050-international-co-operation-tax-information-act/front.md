@@ -1,28 +1,16 @@
-International Co-Operation (Tax Information)
-
-2009-50
-
-INTERNATIONAL CO-OPERATION (TAX INFORMATION) ACT 2009
+International Co-operation (Tax Information) Act 2009
 
 Principal Act
 
-Act. No. 2009-50 Commencement (LN. 2009/087) 21.12.2009
+Act. No. 2009-50 Commencement (LN.2009/087) 21.12.2009
 
 Assent 18.12.2009
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.   2009/089 Sch. 1 22.12.2009 2009/093 Sch. 1 24.12.2009 2010/037 Sch. 1 13.2.2010 2010/086 Sch. 1 1.5.2010 2010/088 Sch. 1 6.5.2010 2010/098 Sch. 1 25.5.2010 2010/123 Sch. 1 3.7.2010 2010/130 Sch. 1 27.7.2010 2010/144 Sch. 1 8.9.2010 2010/159 Sch. 1 4.11.2010 2010/173 Sch. 1 9.12.2010 2010/185 Sch. 1 16.12.2010 2011/059 Sch. 1 21.4.2011 2011/074 Sch. 1 2.6.2011 2011/078 Sch. 1 9.6.2011 2011/230 Sch. 1 1.12.2011 2012/009 Sch. 1 2.2.2012 2012/013 Sch. 1 16.2.2012 2012/020 Sch. 1 1.3.2012 2012/036 Sch. 1 22.3.2012 2012/207 Sch. 1 6.12.2012 2012/213 Sch. 1 13.12.2012 Act.    2013-02 3(2) 3.1.2013 LN.  2013/026 Sch. 1 14.2.2013 2013/053 Sch. 1 28.3.2013 2013/093 Sch. 1 27.6.2013 2013/186 Sch. 1 12.12.2013 2013/190 Sch. 1 19.12.2013 2014/016 Sch. 1 20.2.2014
+LN. 2009/089 Sch. 1 22.12.2009 2009/093 Sch. 1 24.12.2009 2010/037 Sch. 1 13.2.2010 2010/086 Sch. 1 1.5.2010 2010/088 Sch. 1 6.5.2010 2010/098 Sch. 1 25.5.2010 2010/123 Sch. 1 3.7.2010 2010/130 Sch. 1 27.7.2010 2010/144 Sch. 1 8.9.2010 2010/159 Sch. 1 4.11.2010 2010/173 Sch. 1 9.12.2010 2010/185 Sch. 1 16.12.2010 2011/059 Sch. 1 21.4.2011 2011/074 Sch. 1 2.6.2011 2011/078 Sch. 1 9.6.2011 2011/230 Sch. 1 1.12.2011 2012/009 Sch. 1 2.2.2012 2012/013 Sch. 1 16.2.2012 2012/020 Sch. 1 1.3.2012 2012/036 Sch. 1 22.3.2012 2012/207 Sch. 1 6.12.2012 2012/213 Sch. 1 13.12.2012 Act. 2013-02 3(2) 3.1.2013 LN. 2013/026 Sch. 1 14.2.2013 2013/053 Sch. 1 28.3.2013 2013/093 Sch. 1 27.6.2013 2013/186 Sch. 1 12.12.2013 2013/190 Sch. 1 19.12.2013 2014/016 Sch. 1 20.2.2014 2014/079 Sch. 1 22.5.2014 2014/106 Sch. 1 26.6.2014 2014/142 Sch. 1 31.7.2014 2014/143 Sch. 1 31.7.2014 Act. 2015-05 s. 2 26.2.2015 LN. 2015/095 Sch. 1 25.6.2015 2015/216 Sch. 1 3.12.2015
 
-International Co-Operation (Tax Information)
-
-2009-50 2014/079 Sch. 1 22.5.2014 2014/106 Sch. 1 26.6.2014 2014/142 Sch. 1 31.7.2014 2014/143 Sch. 1 31.7.2014 Act.  2015-05 s. 2 26.2.2015 LN. 2015/095 Sch. 1 25.6.2015 2015/216 Sch. 1 3.12.2015 Act. 2016-25 ss. 17(1), (1A), 19(3) 1.12.2016 LN. 2018/036 Sch. 1 15.2.2018 2019/135 Sch. 1 4.7.2019
-
-English sources: None cited
-
-International Co-Operation (Tax Information)
-
-2009-50
+Act. 2016-25 ss. 17(1), (1A), 19(3) 1.12.2016 LN. 2018/036 Sch. 1 15.2.2018 2019/135 Sch. 1 4.7.2019 2020/061 Sch. 1 3.2.2020
 
 ARRANGEMENT OF SECTIONS
 
@@ -44,14 +32,10 @@ PART IV General
 
 15. Service of Notices. 16. Authentication of official documents. 17. Notification to the subject of request. 18. Protection of persons disclosing confidential information. 19. Confidentially with regard to a request. 20. Presence of foreign tax officials - Interviews and examinations with the person’s consent. 21. Presence of foreign tax officials - part of an examination. 22. Enforcement. 23. Regulations. 24. Immunity.
 
-International Co-Operation (Tax Information)
+SCHEDULE 1.
 
-2009-50
+Particulars of scheduled Agreements.  (Section 3(7)).
 
-Schedule 1. Particulars of scheduled Agreements.  (Section 3(7)).
+SCHEDULE 2. Particulars to be included in a notice to produce information under section 8(2).
 
-Schedule 2. Particulars to be included in a notice to produce information under section 8(2).
-
-International Co-Operation (Tax Information)
-
-2009-50 AN ACT TO PROVIDE FOR EXCHANGE OF INFORMATION THAT IS FORESEEABLY RELEVANT TO THE ADMINISTRATION AND ENFORCEMENT OF CERTAIN TAXES BETWEEN GIBRALTAR AND OTHER COUNTRIES WITH WHICH GIBRALTAR HAS ENTERED INTO AN AGREEMENT TO THAT EFFECT; AND FOR CONNECTED PURPOSES.
+AN ACT TO PROVIDE FOR EXCHANGE OF INFORMATION THAT IS FORESEEABLY RELEVANT TO THE ADMINISTRATION AND ENFORCEMENT OF CERTAIN TAXES BETWEEN GIBRALTAR AND OTHER COUNTRIES WITH WHICH GIBRALTAR HAS ENTERED INTO AN AGREEMENT TO THAT EFFECT; AND FOR CONNECTED PURPOSES.
