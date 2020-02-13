@@ -12,7 +12,9 @@ Commencement 1.1.2013
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/141 rr. 3(1), 35A, Schs. 8, 10 & 12 31.7.2014 2015/168 Sch. 9 1.11.2015 2018/007 r. 3(1), Sch. 1 11.1.2018 2018/289 rr. 75A-75D 31.12.2018
+LN.  2014/141 rr. 3(1), 35A, Schs. 8, 10 & 12 31.7.2014 2015/168 Sch. 9 1.11.2015 2018/007 r. 3(1), Sch. 1 11.1.2018 2018/289 rr. 75A-75D 31.12.2018 2020/075 rr. 3(1), 7(9)-(10), 28(3), 37(4)(b), (5), (a)-(b), (5A)-(5D), 46(2A), (4)- (7), (9)-(10), 70(15), 74A
+
+13.2.2020
 
 Transposing: Directive 2003/87/EC Directive 2004/101/EC Directive 2008/101/EC Directive 2009/29/EC Directive (EU) 2018/410
 
@@ -24,9 +26,7 @@ Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211
-
-ARRANGEMENT OF REGULATIONS
+Subsidiary 2012/211 ARRANGEMENT OF REGULATIONS
 
 PART 1 GENERAL
 
@@ -50,13 +50,13 @@ PART 3 AVIATION
 
 Chapter 1 General
 
-16. Scope of Part. 17. Interpretation of Part.
+16. Scope of Part. 17. Interpretation of Part. 18. Director: assistance etc.
 
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 18. Director: assistance etc.
+Subsidiary 2012/211
 
 Chapter 2 Gibraltar administered operators and Gibraltar aircraft operators
 
@@ -84,11 +84,13 @@ PART 4 SURRENDER OF ALLOWANCES
 
 PART 5 ENFORCEMENT ETC.
 
+36. Enforcement notices.
+
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 36. Enforcement notices. 37. Power to determine reportable emissions.
+Subsidiary 2012/211 37. Power to determine reportable emissions.
 
 PART 6 INFORMATION
 
@@ -108,13 +110,13 @@ regulation 46(1).
 
 PART 8 APPEALS
 
-64. Interpretation of Part.
+64. Interpretation of Part. 65. Rights of appeal.
 
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 65. Rights of appeal. 66. Rights of appeal: registries. 67. Effect of an appeal. 68. Determination of an appeal.
+Subsidiary 2012/211 66. Rights of appeal: registries. 67. Effect of an appeal. 68. Determination of an appeal.
 
 PART 9 THE UNION REGISTRY AND THE GIBRALTAR REGISTRY
 
@@ -122,7 +124,7 @@ PART 9 THE UNION REGISTRY AND THE GIBRALTAR REGISTRY
 
 PART 10 SUPPLEMENTARY
 
-72. Recovery of fees. 73. Consequence for non-payment. 74. Guidance. 75. Revenue from auctioned allowances. 75A. Financial measures. 75B. Reporting. 75C. Definitions for sections 75A and 75B. 75D. Rules and Regulations.
+72. Recovery of fees. 73. Consequence for non-payment. 74. Guidance. 74A. Duty of Minister to publish information 75. Revenue from auctioned allowances. 75A. Financial measures. 75B. Reporting. 75C. Definitions for sections 75A and 75B. 75D. Rules and Regulations.
 
 PART 11 MISCELLANEOUS
 
