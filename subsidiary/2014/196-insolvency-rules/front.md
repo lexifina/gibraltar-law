@@ -1,24 +1,18 @@
-Insolvency INSOLVENCY RULES, 2014
+Subsidiary Legislation made under s.495.
 
-2011-26
+Insolvency Rules, 2014
 
-Subsidiary 2014/196
-
-Subsidiary Legislation made under s. 495.
-
-INSOLVENCY RULES, 2014
-
-(LN. 2014/196)
+LN.2014/196
 
 Commencement 1.11.2014
 
 Amending enactments Relevant current provisions Commencement date
 
-_______________________
+LN. 2020/092 Sch. 27.2.2020
 
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF RULES
 
-Regulation
+Rule
 
 PART I PRELIMINARY PROVISIONS
 
@@ -30,21 +24,21 @@ PART 2 COMPANY VOLUNTARY ARRANGEMENTS Preliminary
 
 Proposal and Statement of Affairs
 
-6. Form and contents of proposal. 7. Statement of affairs. 8. Amendment or withdrawal of proposal before appointment of interim supervisor. 9. Amendment or withdrawal of proposal after appointment of interim supervisor. 10. Amendment or withdrawal of proposal before creditors’ meeting.
-
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 11. Effect of amendment or withdrawal of proposal.
+6. Form and contents of proposal. 7. Statement of affairs. 8. Amendment or withdrawal of proposal before appointment of interim supervisor. 9. Amendment or withdrawal of proposal after appointment of interim supervisor. 10. Amendment or withdrawal of proposal before creditors’ meeting. 11. Effect of amendment or withdrawal of proposal.
 
 Appointment of Interim Supervisor
 
-12. Appointment of interim supervisor by directors. 13. Appointment by administrator or liquidator of another insolvency practitioner as interim supervisor. Reports to Creditors
+12. Appointment of interim supervisor by directors. 13. Appointment by administrator or liquidator of another insolvency practitioner as interim supervisor.
 
-14. Reports to creditors. Creditors’ Meeting
+Reports to Creditors
 
-15. General provisions to apply. 16. Chairman of creditors’ meeting. 17. Entitlement to vote and admission and rejection of claims. 18. Requisite majorities at creditors’ meeting.
+14. Reports to creditors.
+
+Creditors’ Meeting
+
+15. General provisions to apply. 16. Chairman of creditors’ meeting. 17. Entitlement to vote and admission and rejection of claims.
+
+18. Requisite majorities at creditors’ meeting.
 
 Other Matters
 
@@ -64,13 +58,7 @@ Appointment of Administrator by Holder of Floating Charge
 
 Appointment of Administrator by Court
 
-31. Application.
-
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 32. Form of application. 33. Affidavit in support. 34. Subsequent application for appointment of liquidator. 35. Service of application. 36. Copies of application to be sent to other persons. 37. Hearing of application. 38. Administration order. 39. Notice of administration order.
+31. Application. 32. Form of application. 33. Affidavit in support. 34. Subsequent application for appointment of liquidator. 35. Service of application. 36. Copies of application to be sent to other persons. 37. Hearing of application. 38. Administration order. 39. Notice of administration order.
 
 Proposal and Statement of Affairs.
 
@@ -89,12 +77,6 @@ Termination of Administration
 56. Termination of administration. 57. Discharge of administration order. 58. Application to court by administrator appointed by holder of floating charge. 59. Termination of administration, administrator appointed by holder of floating charge. 60. Final report. 61. Administrator’s duties on vacating office.
 
 Distributions, Expenses and Pre-Administration Costs
-
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196
 
 62. Distributions. 63. Expenses of administration. 64. Pre-administration costs.
 
@@ -124,13 +106,9 @@ PART 6 LIQUIDATION Preliminary
 
 Appointment of Liquidator
 
-Insolvency INSOLVENCY RULES, 2014
+80. Appointment of liquidator by members. 81. Application to Court for appointment of liquidator. 82. Affidavit in support. 83. Service of application on company.
 
-2011-26
-
-Subsidiary 2014/196
-
-80. Appointment of liquidator by members. 81. Application to Court for appointment of liquidator. 82. Affidavit in support. 83. Service of application on company. 84. Copies of application to be sent to other persons. 85. Application seeking appointment of supervisor as liquidator. 86. Persons entitled to a copy of the application. 87. Advertisement of application. 88. Notice of intention to appear. 89. List of appearances. 90. Affidavit in opposition. 91. Leave to withdraw application. 92. Appointment of Official Receiver as liquidator. 93. Notice of order. 94. Application by member of company.
+84. Copies of application to be sent to other persons. 85. Application seeking appointment of supervisor as liquidator. 86. Persons entitled to a copy of the application. 87. Advertisement of application. 88. Notice of intention to appear. 89. List of appearances. 90. Affidavit in opposition. 91. Leave to withdraw application. 92. Appointment of Official Receiver as liquidator. 93. Notice of order. 94. Application by member of company.
 
 Interim Relief
 
@@ -150,11 +128,9 @@ Settling List of Members
 
 Claims
 
-Insolvency INSOLVENCY RULES, 2014
+110. Claims by unsecured creditors.
 
-2011-26
-
-Subsidiary 2014/196 110. Claims by unsecured creditors. 111. Claim forms. 112. Application to Court expunge or amend an admitted claim. 113. Negotiable instruments. 114. Inspection of claims.
+111. Claim forms. 112. Application to Court expunge or amend an admitted claim. 113. Negotiable instruments. 114. Inspection of claims.
 
 Distributions
 
@@ -172,17 +148,11 @@ PART 7 LIQUIDATION OF UNREGISTERED COMPANIES
 
 126. Scope of this Part. 127. Liquidator of unregistered company may only be appointed by the Court. 128. Applicants. 129. Deemed Insolvency of unregistered company.
 
-PART 8 GENERAL PROVISIONS WITH REGARD TO
+PART 8 GENERAL PROVISIONS WITH REGARD TO COMPANIES THAT ARE INSOLVENT OR IN LIQUIDATION Statement of Affairs
 
-COMPANIES THAT ARE INSOLVENT OR IN LIQUIDATION Statement of Affairs
+130. Interpretation. 131. Notice requiring statement of affairs. 132. Matters to be included in statement of affairs. 133. Verification and delivery of statement of affairs.
 
-130. Interpretation. 131. Notice requiring statement of affairs. 132. Matters to be included in statement of affairs. 133. Verification and delivery of statement of affairs. 134. Affidavit of concurrence.
-
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 135. Filing of statement of affairs and affidavit of concurrence. 136. Release from duty to submit statement of affairs and extension of time. 137. Application to Court where office holder refuses a request under rule 136. 138. Expenses of statement of affairs. 139. Order of limited disclosure. 140. Application by creditor for disclosure.
+134. Affidavit of concurrence. 135. Filing of statement of affairs and affidavit of concurrence. 136. Release from duty to submit statement of affairs and extension of time. 137. Application to Court where office holder refuses a request under rule 136. 138. Expenses of statement of affairs. 139. Order of limited disclosure. 140. Application by creditor for disclosure.
 
 INVESTIGATION OF INSOLVENT COMPANY’S AFFAIRS Office Holders Powers
 
@@ -202,13 +172,9 @@ PART 10 INDIVIDUAL VOLUNTARY ARRANGEMENTS General
 
 Proposal and Statement of Assets and Liabilities
 
-151. Form and contents of  proposal. 152. Statement of assets and liabilities. 153. Amendment or withdrawal of proposal before appointment of interim supervisor. 154. Amendment or withdrawal of proposal after appointment of interim supervisor. 155. Amendment or withdrawal of proposal before creditors’ meeting. 156. Effect of amendment or withdrawal of proposal.
+151. Form and contents of proposal. 152. Statement of assets and liabilities. 153. Amendment or withdrawal of proposal before appointment of interim supervisor. 154. Amendment or withdrawal of proposal after appointment of interim supervisor. 155. Amendment or withdrawal of proposal before creditors’ meeting. 156. Effect of amendment or withdrawal of proposal.
 
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 Appointment of Interim Supervisor
+Appointment of Interim Supervisor
 
 157. Appointment of interim supervisor.
 
@@ -234,13 +200,9 @@ PART 11 BANKRUPTCY Preliminary
 
 Bankruptcy Order Creditor’s Application
 
-170. Scope of and interpretation for rules 170 to 195. 171. Form of creditor’s application. 172. Identification of debtor. 173. Particulars of liability. 174. Application based on statutory demand. 175. Application based on unsatisfied execution. 176. Other matters to be specified in application. 177. Filing of application. 178. Affidavit in support. 179. Affidavit of service of statutory demand.
+170. Scope of and interpretation for rules 170 to 195. 171. Form of creditor’s application. 172. Identification of debtor. 173. Particulars of liability. 174. Application based on statutory demand.
 
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 180. Service of application for bankruptcy order. 181. Substituted service. 182. Death of debtor before service. 183. Affidavit of service of application for bankruptcy order. 184. Copies of application to be sent to other persons. 185. Application seeking appointment of supervisor as trustee. 186. Application opposed by debtor. 187. Notice of  intention to appear. 188. List of appearances. 189. Hearing of application. 190. Parties who may be heard. 191. Non-appearance of applicant or failure to prosecute application. 192. Extension of time for hearing. 193. Adjournments. 194. Substitution of applicant. 195. Leave to withdraw application.
+175. Application based on unsatisfied execution. 176. Other matters to be specified in application. 177. Filing of application. 178. Affidavit in support. 179. Affidavit of service of statutory demand. 180. Service of application for bankruptcy order. 181. Substituted service. 182. Death of debtor before service. 183. Affidavit of service of application for bankruptcy order. 184. Copies of application to be sent to other persons. 185. Application seeking appointment of supervisor as trustee. 186. Application opposed by debtor. 187. Notice of intention to appear. 188. List of appearances. 189. Hearing of application. 190. Parties who may be heard. 191. Non-appearance of applicant or failure to prosecute application. 192. Extension of time for hearing. 193. Adjournments. 194. Substitution of applicant. 195. Leave to withdraw application.
 
 Debtor’s Application
 
@@ -252,17 +214,15 @@ Rules Applicable to Bankruptcy Orders
 
 INTERIM RECEIVER
 
-206. Application for appointment of interim receiver. 207. Hearing of application. 208. Order appointing interim receiver.
+206. Application for appointment of interim receiver. 207. Hearing of application.
+
+208. Order appointing interim receiver.
 
 BANKRUPT’S ESTATE
 
 209. Duties of bankrupt with respect to after acquired property. 210. Action against person to whom bankrupt disposed assets. 211. Expenses of acquiring title to after-acquired assets. 212. Purchase of replacement property for items of excess value.
 
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 Income Payments Orders
+Income Payments Orders
 
 213. Application for order. 214. Notice of order. 215. Order to make payment to trustee. 216. Variation or discharge of order.
 
@@ -284,12 +244,6 @@ Disclaimer
 
 INVESTIGATION OF BANKRUPT’S AFFAIRS Statement of Assets and Liabilities
 
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196
-
 242. Statement of assets and liabilities. 243. Scope of rules 244 to 247. 244. Submission and filing of verified statement. 245. Release from duty to submit statement of assets or liabilities and extension of time. 246. Application to Court where office holder refuses a request under rule 136. 247. Expenses of statement of assets and liabilities. 248. Report where statement of assets and liabilities submitted. 249. Statement of affairs dispensed with.
 
 Examination
@@ -306,13 +260,7 @@ Annulment of Bankruptcy Order
 
 MISCELLANEOUS PROVISIONS
 
-270. Prescribed priority. 271. Register of Bankruptcy Orders.
-
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 272. Changes to information entered in the register of bankruptcy orders.
+270. Prescribed priority. 271. Register of Bankruptcy Orders. 272. Changes to information entered in the register of bankruptcy orders.
 
 PART 12 GENERAL PROVISIONS CREDITORS’ AND MEMBERS’ MEETINGS Preliminary
 
@@ -332,15 +280,11 @@ Voting Rights and Majorities
 
 PROXIES AND COMPANY REPRESENTATION Preliminary
 
-294. Interpretation. Proxies
+294. Interpretation.
 
-295. General provisions concerning proxies.
+Proxies
 
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 296. Issue and use of proxy forms. 297. Use of proxies at meetings. 298. Retention of proxies. 299. Right of inspection. 300. Proxy-holder with financial interest.
+295. General provisions concerning proxies. 296. Issue and use of proxy forms. 297. Use of proxies at meetings. 298. Retention of proxies. 299. Right of inspection. 300. Proxy-holder with financial interest.
 
 Company Representation
 
@@ -364,13 +308,7 @@ Insolvency Surplus Account.
 
 PART 13 COURT PROCEDURE AND PRACTICE General
 
-321. Application of Supreme Court Rules.
-
-Insolvency INSOLVENCY RULES, 2014
-
-2011-26
-
-Subsidiary 2014/196 322. Exercise of Court’s powers. 323. Filing of documents with the Court. 324. Filing of documents with the Court in approved electronic form.
+321. Application of Supreme Court Rules. 322. Exercise of Court’s powers. 323. Filing of documents with the Court. 324. Filing of documents with the Court in approved electronic form.
 
 Practice Directions and Guides
 
