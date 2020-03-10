@@ -4,11 +4,25 @@ Regulation 4
 
 Common general framework for the calculation of energy performance of buildings.
 
-1.  The energy performance of a building shall be determined on the basis of the calculated or actual annual energy that is consumed in order to meet the different needs associated with its typical use and shall reflect the heating energy needs and cooling energy needs (energy needed to avoid overheating) to maintain the envisaged temperature conditions of the building, and domestic hot water needs.
+1.  The energy performance of a building shall be determined on the basis of calculated or actual energy use and shall reflect typical energy use for space heating, space cooling, domestic hot water, ventilation, built-in lighting and other technical building systems.
 
-2.  The energy performance of a building shall be expressed in a transparent manner and shall include an energy performance indicator and a numeric indicator of primary energy use, based on primary energy factors per energy carrier, which may be based on national or regional annual weighted averages or a specific value for on-site production.
+The energy performance of a building shall be expressed by a numeric indicator of primary energy use in kWh/(m².y) for the purpose of both energy performance certification and compliance with minimum energy performance requirements. The methodology applied for the determination of the energy performance of a building shall be transparent and open to innovation.
 
-The methodology for calculating the energy performance of buildings should take into account European standards and shall be consistent with relevant European Union legislation, including the Environment (Renewable Energy Sources) Regulations 2011.
+The competent authority shall describe its calculation methodology following applicable European Union and Gibraltar legislation of the overarching standards.
+
+2.  The energy needs for space heating, space cooling, domestic hot water, ventilation, lighting and other technical building systems shall be calculated in order to optimise health, indoor air quality and comfort levels, as may be defined by the competent authority.
+
+The calculation of primary energy shall be based on primary energy factors or weighting factors per energy carrier, which may be based on national, regional or local annual, weighted averages or on more specific information made available.
+
+Primary energy factors or weighting factors shall be defined by the competent authority. In the application of those factors to the calculation of energy performance, the competent authority shall ensure that the optimal energy performance of the building envelope is pursued.
+
+In the calculation of the primary energy factors for the purpose of calculating the energy performance of buildings, the competent authority may take into account renewable energy sources supplied through the energy carrier and renewable energy sources that may be generated and used on-site, provided that it applies on a non-discriminatory basis.”
+
+Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
+
+2005-27
+
+Subsidiary 2012/131 2A. For the purpose of expressing the energy performance of a building, the competent authority may define additional  numeric indicators of total, non- renewable and renewable primary energy use, and of greenhouse gas emission produced in kgCO₂eq/(m².y).
 
 3.  The methodology shall be laid down taking into consideration at least the following aspects−
 
@@ -26,11 +40,7 @@ The methodology for calculating the energy performance of buildings should take 
 
 (b) heating installation and hot water supply, including their insulation characteristics;
 
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/131 (c) air-conditioning installations;
+(c) air-conditioning installations;
 
 (d) natural and mechanical ventilation which may include air- tightness;
 
@@ -44,9 +54,13 @@ Subsidiary 2012/131 (c) air-conditioning installations;
 
 (i) internal loads.
 
-4.  The positive influence of the following aspects shall, where relevant in the calculation, be taken into account−
+4.  The positive influence of the following aspects shall be taken into account.
 
-(a) local solar exposure conditions, active solar systems and other heating and electricity systems based on energy from renewable sources;
+Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
+
+2005-27
+
+Subsidiary 2012/131 (a) local solar exposure conditions, active solar systems and other heating and electricity systems based on energy from renewable sources;
 
 (b) electricity produced by cogeneration;
 
@@ -67,12 +81,6 @@ Subsidiary 2012/131 (c) air-conditioning installations;
 (e) hospitals;
 
 (f) hotels and restaurants;
-
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/131
 
 (g) sports facilities;
 
