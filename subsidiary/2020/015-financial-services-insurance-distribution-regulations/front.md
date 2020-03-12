@@ -8,6 +8,10 @@ LN.2020/015
 
 Commencement 15.1.2020
 
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/107 rr. 2(1), 9, 38(2)(c)-(g), 38A-38B,54A-54J 12.3.2020
+
 _______________________
 
 ARRANGEMENT OF REGULATIONS.
@@ -28,11 +32,11 @@ Appointed intermediaries
 
 Exemption of ancillary insurance intermediary.
 
+2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+
 9. Exemption of ancillary insurance intermediary.
 
 PART 3 CONDUCT OF BUSINESS
-
-2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
 
 10. Use of intermediaries.
 
@@ -56,13 +60,13 @@ Independence
 
 General
 
-25. Compliance. 26. Introducers and counterparties. 27. Essential staff. 28. Cessation of business. 29. Complaints. 30. Out-of-court redress. 31. Cooperation and exchange of information with competent authorities of EEA States.
-
-PART 4
+25. Compliance. 26. Introducers and counterparties. 27. Essential staff. 28. Cessation of business.
 
 Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020 2020/015
 
-CORPORATE GOVERNANCE AND RISK MANAGEMENT
+29. Complaints. 30. Out-of-court redress. 31. Cooperation and exchange of information with competent authorities of EEA States.
+
+PART 4 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
 Professional and organisational requirements
 
@@ -70,7 +74,7 @@ Professional and organisational requirements
 
 Accounting records.
 
-38. Duty to keep accounting records. 39. Records to be kept up to date. 40. Audit trail. 41. Conformity with accounting standards. 42. Retention of records. 43. Inspection of records.
+38. Duty to keep accounting records. 38A. Reconciliation of customer money. 38B. Reconciliation of customers’ instruments held by intermediary. 39. Records to be kept up to date. 40. Audit trail. 41. Conformity with accounting standards. 42. Retention of records. 43. Inspection of records.
 
 Financial statements
 
@@ -78,15 +82,19 @@ Financial statements
 
 PART 5 PRUDENTIAL REQUIREMENTS
 
+2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+
+Chapter 1 Indemnity Arrangements
+
 54. Indemnity arrangements.
+
+Chapter 2 Customer Money
+
+54A. Application. 54B. Customer money. 54C. Duty to segregate. 54D. Customer money to be held on trust and kept safe. 54E. Accounting for and use of customer money. 54F. Customer bank accounts. 54G. Interest on customer money. 54H. Payment of other money into a customer bank account. 54I. Payment out of a customer bank account. 54J. Intermediary as authorised credit institution.
 
 PART 6 REPORTING AND NOTIFICATION
 
-Chapter 1
-
-2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
-
-General
+Chapter 1 General
 
 55. Publication of sanctions and other measures. 56. Reporting of breaches. 57. Submitting information to EIOPA on sanctions and other measures.
 
@@ -94,7 +102,11 @@ Chapter 2 Appointment of auditors
 
 58. Auditor required. 59. Qualification for appointment as auditor. 60. Ineligibility on ground of lack of independence. 61. Engagement letters. 62. Auditor to notify GFSC of certain matters. 63. Report on financial statements. 64. Notification to GFSC. 65. Resignation or removal of auditors.
 
-PART 7 FREEDOM OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES
+PART 7
+
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020 2020/015
+
+FREEDOM OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES
 
 Chapter 1 Incoming EEA intermediaries
 
@@ -104,11 +116,7 @@ Chapter 2 Gibraltar intermediaries
 
 73. Application and interpretation. 74. Extent of Gibraltar intermediary’s services in EEA State. 75. Gibraltar intermediary establishing branch in EEA State. 76. Branch business of Gibraltar intermediary. 77. Gibraltar intermediary providing services in EEA State. 78. Services business of Gibraltar intermediary.
 
-PART 8
-
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020 2020/015
-
-REGULATORY POWERS
+PART 8 REGULATORY POWERS
 
 Chapter 1 Investigatory and supervisory powers
 
@@ -120,12 +128,14 @@ Chapter 2 Sanctions for contravention
 
 PART 9 MISCELLANEOUS
 
+2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+
 85. The Register: insurance or reinsurance distribution. 86. Data protection. 87. Revocation of 2006 Regulations.
 
 SCHEDULE 1 MINIMUM PROFESSIONAL KNOWLEDGE AND COMPETENCE REQUIREMENTS
 
 SCHEDULE 2 FORM AND CONTENTS OF FINANCIAL STATEMENTS
 
-2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020 2020/015
 
 In exercise of the powers conferred upon the Minister under sections 6(1), 24(3)(v), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and upon the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
