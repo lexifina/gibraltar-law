@@ -12,7 +12,7 @@ Assent 6.8.2015
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2016/148 s. 33(3) 7.7.2016 2016/182 Sch. 2 15.9.2016 2016/256 Part IA, 2(10), 3A 22.12.2016 2017/119 ss. 1ZA, 1A, 1B(3)-(5), 1C, (a), (d), 1ZDA, 1DA(1)(a), 1DB(2)(d), (e), 1F(3), 1G, 1GA, 1H, 1I(1), 1IA- 1IC, 1J, 1JA, 1K(1)(a), (5), 1S, 2(9), (10), 3B, 5(2A), (5)-(8), (14), 6, 6A, 7(1), (1A)-(1C), 8, 9(1)(i)(i)(C)-(E), (k)-(l), (o), 9A, 9B, 10, (b), (c), 10A, 11(1)(ba), (c)-(f), (2), (3)(b), (5), 12(2), 13(4), (4A)-(4C), 16, 17, 17A, 18, (b), 19, 20, (1)(a), (2), 20A-20B, 21(1), (2), (2A), 22(1)-(3), (3A)-(3B), (4), 23(1), (1A)-(1B), (2), (c)(iii), (d)(iii), (iv), (4), 23A, 25(2), (4), (10)-(12), 25ZA, 25A, 26(1), (f), (g), (1A)-(1C), (2)(c), (2A), (4), (5), (5A), (6), 26A, 27-28, 30(3)- (6), 30A-30C, 34A, 179(4)(b), 182(1), 183(1), (5A), (7), Sch. 1, 6- 7
+LN. 2016/148 s. 33(3) 7.7.2016 2016/182 Sch. 2 15.9.2016 2016/256 Part IA, 2(10), 3A 22.12.2016 2017/119 ss. 1ZA, 1A, 1B(3)-(5), 1C, (a), (d), 1ZDA, 1DA(1)(a), 1DB(2)(d), (e), 1F(3), 1G, 1GA, 1H, 1I(1), 1IA- 1IC, 1J, 1JA, 1K(1)(a), (5), 1S, 2(9), (10), 3B, 5(2A), (5)-(8), (14), 6, 6A, 7(1), (1A)-(1C), 8, 9(1)(i)(i)(C)-(E), (k)-(l), (o), 9A, 9B, 10, (b), (c), 10A, 11(1)(ba), (c)- (f), (2), (3)(b), (5), 12(2), 13(4), (4A)-(4C), 16, 17, 17A, 18, (b), 19, 20, (1)(a), (2), 20A-20B, 21(1), (2), (2A), 22(1)-(3), (3A)-(3B), (4), 23(1), (1A)-(1B), (2), (c)(iii), (d)(iii), (iv), (4), 23A, 25(2), (4), (10)-(12), 25ZA, 25A, 26(1), (f), (g), (1A)-(1C), (2)(c), (2A), (4), (5), (5A), (6), 26A, 27-28, 30(3)- (6), 30A-30C, 34A, 179(4)(b), 182(1), 183(1), (5A), (7), Sch. 1, 6- 7
 
 26.6.2017 Act. 2017-07 ss. 1C(d), 2, 3, 4, 4A, 4B, 4C, 4D, 4E, 4F, 4G, 4H, 6B, 35(1), 35A, 35B, 36(1) & (3), 37(5), 58(1)(c), (3A), 59(1), (3), (7A), (7B), (7C), 59A, 60(1), (8A), (8B), (8C), 117(2), (3)(a), (4) & (5)(b), 120(1), (4), (9), 122(2), (4), 123(1), (5), (6), 124(1)(c), 128(2), (3), 130(1), 131(1), 133(1), & 134(1), 145(1),
 
@@ -26,9 +26,11 @@ Proceeds of Crime
 
 8.2.2018 LN. 2018/064 s. 9(1)(p) 16.3.2018 2018/124 ss. 5(7)(d), 34A(4) 25.5.2018 2018/194 s. 9(1)(oa) 13.9.2018 Act. 2018-25 s. 1C(a) 21.2.2019 2019-05 ss. 1E(1), 1F(2), 1G(1), 1GA(1)-(2), 1H, 1IA(2), 1IB, 1IC(2), (7)-(8), 1T(3), 4F(8), 7(1B)-(1C), 8(2)-(3), 11(1), (6), 19, 26(2A), 33(1), 184(3),  184A-184D,  Sch2
 
-21.3.2019 2018-25 ss. 5(9)(b), 7(2)(b) 21.3.2019 LN. 2019/116 ss. 27(3)-(4), 30(1A) 13.6.2019
+21.3.2019 2018-25 ss. 5(9)(b), 7(2)(b) 21.3.2019 LN. 2019/116 ss. 27(3)-(4), 30(1A) 13.6.2019 2020/110 Long Title, ss. 1DAA, 1DB(1), 1DC(1), 1E(2)-(3), 1GA(2), 1IB, 1IC(4)-(5), (9), 1K(1)(a), (5), 1T(2), 5(5), 6A(2)(b), (e)-(f), 7(1), (1A)(a)(ii), (b), 8(3), 9(1)(h), (ha), 10(a)-(b), 11(2), (4A), 17(1)(a), (3), (6)-(8), 17A(1)-(2), 21(4), 22(3A), 23(2), 25(2)(a), (5)(b), (6)(b), 30(1A)(b), (5), Sch. 2, 6, 7, 8
 
-Transposing: Directive 91/308/EEC Directive (EU) 2015/849
+13.3.2020
+
+Transposing: Directive 91/308/EEC Directive (EU) 2015/849 Directive (EU) 2018/843
 
 EU Legislation/International Agreements involved:
 
@@ -48,11 +50,11 @@ PART IA GIBRALTAR FINANCIAL INTELLIGENCE UNIT
 
 Information gathering powers
 
-1ZDA Reporter to provide additional information. 1DA. Information gathering. 1DB. Criteria for making request. 1DC. Offence and penalty etc.
+1ZDA Reporter to provide additional information. 1DA. Information gathering. 1DDA. Information Request. 1DB. Criteria for making request. 1DC. Offence and penalty etc.
 
 Cooperation
 
-1E. Cooperation with other FIUs. 1F. Contents of requests and mechanisms of exchange. 1G. Forwarding of disclosures. 1GA. Requests from FIU’s. 1H. Obtaining further information. 1I. Refusals. 1IA. Restrictions and conditions for use. 1IB. Tax crimes. 1IC. Use of exchanged information. 1J. Internal cooperation. 1JA. Feedback.
+1E. Cooperation with other FIUs. 1F. Contents of requests and mechanisms of exchange. 1G. Forwarding of disclosures. 1GA. Requests from FIU’s. 1H. Obtaining further information. 1I. Refusals. 1IA. Restrictions and conditions for use. 1IB. Tax crimes and other criminal conduct. 1IC. Use of exchanged information. 1J. Internal cooperation. 1JA. Feedback.
 
 Access to information
 
@@ -250,8 +252,10 @@ SCHEDULE 6
 
 SCHEDULE 7
 
+SCHEDULE 8
+
 .
 
 Proceeds of Crime
 
-2015-22 AN ACT TO PROVIDE FOR MONEY LAUNDERING AND OTHER OFFENCES; TO PROVIDE FOR MEASURES TO PREVENT THE ABUSE OF THE FINANCIAL SYSTEM; TO PROVIDE FOR MONEY LAUNDERING AND TERRORIST FINANCING; TO PROVIDE FOR THE CONFISCATION OF THE PROCEEDS OF CRIMINAL CONDUCT AND ITS VALUE; TO PROVIDE FOR THE CIVIL RECOVERY OF THE PROCEEDS OF UNLAWFUL CONDUCT; TO PROVIDE FOR INVESTIGATORY POWERS; TO TRANSPOSE COUNCIL DIRECTIVE 91/308/EEC AS AMENDED FROM TIME TO TIME; AND FOR CONNECTED PURPOSES.
+2015-22 AN ACT TO PROVIDE FOR MONEY LAUNDERING AND OTHER OFFENCES; TO PROVIDE FOR MEASURES TO PREVENT THE ABUSE OF THE FINANCIAL SYSTEM; TO PROVIDE FOR MONEY LAUNDERING AND TERRORIST FINANCING; TO PROVIDE FOR THE CONFISCATION OF THE PROCEEDS OF CRIMINAL CONDUCT AND ITS VALUE; TO PROVIDE FOR THE CIVIL RECOVERY OF THE PROCEEDS OF UNLAWFUL CONDUCT; TO PROVIDE FOR INVESTIGATORY POWERS; TO TRANSPOSE, IN PART, DIRECTIVE (EU) 2015/849 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 20 MAY 2015 ON THE PREVENTION OF THE USE OF THE FINANCIAL SYSTEM FOR THE PURPOSES OF MONEY LAUNDERING OR TERRORIST FINANCING, AMENDING REGULATION (EU) NO 648/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL, AND REPEALING DIRECTIVE 2005/60/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL AND COMMISSION DIRECTIVE 2006/70/EC, AND AS AMENDED BY DIRECTIVE (EU) 2018/843 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 30 MAY 2018, AND AS MAY BE FURTHER AMENDED FROM TIME TO TIME; AND FOR CONNECTED PURPOSES.
