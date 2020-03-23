@@ -22,7 +22,9 @@ Amending enactments Relevant current provisions Commencement date Act. 2015-23 s
 
 Income Tax
 
-2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019 2019/025 Sch. 1 7.2.2019 2020/056 Sch. 4 1.1.2020 2020/057 Sch. 4 1.1.2020
+2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019 2019/025 Sch. 1 7.2.2019 2020/056 Sch. 4 1.1.2020 2020/057 Sch. 4 1.1.2020 Act. 2020-06 Long Title, ss. 3(1), 3A-3E, 6C, 30A, 37(8A), 65G, 74, Sch.12
+
+23.3.2020 LN. 2020/128 Sch.12 23.3.2020
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952
 
@@ -36,19 +38,21 @@ Section
 
 Part I- Administration
 
-2. Administration. 3. Confidentiality. 4. Information requests from or to Member States. 5. Administrative enquiries. 5A. Exchange of information about foreign residents. 5B. Other exchange of information with Member States. 5C. Administrative cooperation with tax authorities of Member States. 5D. Sharing experience of tax cooperation with Member States. 5E. Cooperation Directive: supplemental. 5F. Review of operation of exchange of information. 6. Information powers. 6A. Information Powers: International obligations under exchange of information agreements. 6B. Information Powers: Implementation and enforcement of the Cooperation Directive. 7. Restrictions on powers. 8. Falsification etc. of documents. 9. Entry with warrant to obtain documents. 10. Service of notices.
+2. Administration. 3. Confidentiality. 3A. International agreements on taxation matters. 3B. Giving effect to International Tax Agreement. 3C. Appointment of members of bodies established by an International Agreement. 3D. Power to make regulations for carrying out an International Tax Agreement. 3E.
+
+4. Information requests from or to Member States. 5. Administrative enquiries. 5A. Exchange of information about foreign residents. 5B. Other exchange of information with Member States. 5C. Administrative cooperation with tax authorities of Member States. 5D. Sharing experience of tax cooperation with Member States. 5E. Cooperation Directive: supplemental. 5F. Review of operation of exchange of information. 6. Information powers. 6A. Information Powers: International obligations under exchange of information agreements. 6B. Information Powers: Implementation and enforcement of the Cooperation Directive. 6C. Information Powers: Implementation of International Tax Agreement. 7. Restrictions on powers. 8. Falsification etc. of documents. 9. Entry with warrant to obtain documents. 10. Service of notices.
 
 Part IA- Advance cross-border rulings and pricing arrangements
 
-10A. Interpretation. 10B. Meaning of cross-border transaction. 10C. Obligation to exchange information. 10D. Information to be exchanged. 10E. Exclusion. 10F. Confirmation of Receipt. 10G. Additional Information. 10H. Statistics. 10I. Feedback. 10J. Use of Information. 10K. Method of exchange.
-
-Part 1B- Country by Country Reporting
-
-10L. Interpretation. 10M. Excluded MNE group.
+10A. Interpretation. 10B. Meaning of cross-border transaction. 10C. Obligation to exchange information. 10D. Information to be exchanged. 10E. Exclusion. 10F. Confirmation of Receipt. 10G. Additional Information.
 
 Income Tax
 
-2010-21 10N. Ultimate parent entity reporting. 10O. Constituent entity reporting. 10P. Surrogate parent entity reporting. 10Q. Country by country report. 10R. Notification obligations. 10S. Form and manner of delivery. 10T. Time by which country by country reports are to be provided. 10U. Penalties for failure to comply with Part. 10V. Penalties for failure to comply with Part. 10W. Matters to be disregarded in relation to liability to penalties. 10X. Assessment of penalties. 10Y. Appeals against penalty. 10Z. Application for increased daily default penalty. 10ZA. Enforcement of penalties. 10ZB. Exchange of information by Commissioner. 10ZC. Feedback. 10ZD. Use of information.
+2010-21 10H. Statistics. 10I. Feedback. 10J. Use of Information. 10K. Method of exchange.
+
+Part 1B- Country by Country Reporting
+
+10L. Interpretation. 10M. Excluded MNE group. 10N. Ultimate parent entity reporting. 10O. Constituent entity reporting. 10P. Surrogate parent entity reporting. 10Q. Country by country report. 10R. Notification obligations. 10S. Form and manner of delivery. 10T. Time by which country by country reports are to be provided. 10U. Penalties for failure to comply with Part. 10V. Penalties for failure to comply with Part. 10W. Matters to be disregarded in relation to liability to penalties. 10X. Assessment of penalties. 10Y. Appeals against penalty. 10Z. Application for increased daily default penalty. 10ZA. Enforcement of penalties. 10ZB. Exchange of information by Commissioner. 10ZC. Feedback. 10ZD. Use of information.
 
 Part II- Charge to tax
 
@@ -56,15 +60,15 @@ Part II- Charge to tax
 
 Part III- Computation of assessments
 
-15. Basis of assessment- persons other than companies. 16. Basis of assessment- companies. 17. Gains or profits of employment. 18. Partnerships. 18A.  Entities: power to make regulations. 19. Income from occasional presence in Gibraltar. 20. Allowance of trade losses. 20A. Transfer of allowable trade losses. 21. Valuation of trading stock on discontinuance of trade, etc. 22. Loans to shareholders or connected persons. 23. Assessment of purchased life annuities.
-
-Part IV- Rate of taxation and assessment
-
-24. Rate of taxation.
+15. Basis of assessment- persons other than companies. 16. Basis of assessment- companies. 17. Gains or profits of employment. 18. Partnerships. 18A.  Entities: power to make regulations. 19. Income from occasional presence in Gibraltar.
 
 Income Tax
 
-2010-21 25. Reliefs, allowances, etc. 25A.  Gifts to charity by individuals. 26. Tabling of Rules before Parliament and effect of annulment. 27. Retrospective effect. 28. Tax payers other than companies to make returns. 29. Companies to make returns. 30. Returns- supplementary. 31. Assessing procedure. 31A.  Ordinary time limit of six years for making assessments. 32. Power to make enquiries on return. 32A.  Offence of falsification etc. of documents in relation to a notice under section 32. 33. Assessing procedure where no return is delivered. 34. Additional, amended and discovery assessments. 35. Service of assessments and appeals. 36. Application for postponement of tax payable. 37. Relief in respect of foreign tax paid. 38. Assessments to be final and conclusive.
+2010-21 20. Allowance of trade losses. 20A. Transfer of allowable trade losses. 21. Valuation of trading stock on discontinuance of trade, etc. 22. Loans to shareholders or connected persons. 23. Assessment of purchased life annuities.
+
+Part IV- Rate of taxation and assessment
+
+24. Rate of taxation. 25. Reliefs, allowances, etc. 25A.  Gifts to charity by individuals. 26. Tabling of Rules before Parliament and effect of annulment. 27. Retrospective effect. 28. Tax payers other than companies to make returns. 29. Companies to make returns. 30. Returns- supplementary. 30A. Returns required for the purposes of International Tax Agreements. 31. Assessing procedure. 31A.  Ordinary time limit of six years for making assessments. 32. Power to make enquiries on return. 32A.  Offence of falsification etc. of documents in relation to a notice under section 32. 33. Assessing procedure where no return is delivered. 34. Additional, amended and discovery assessments. 35. Service of assessments and appeals. 36. Application for postponement of tax payable. 37. Relief in respect of foreign tax paid. 38. Assessments to be final and conclusive.
 
 Part V- Payment of taxation
 
@@ -76,19 +80,23 @@ Part VI- Anti-avoidance
 
 Part VII- Chargeability of and acts to be done by agents and others
 
-44. Chargeability of trustees and other representatives. 45. Chargeability of agent of non-resident persons. 46. Acts to be done by trustees and certain others. 47. Deceased persons. 48. Joint trustees. 49. Managers of companies. 50. Commissioner to appoint agents. 51. Indemnification of agents. 52. Company wound up.
-
-Part VIII- Assessment and withholding
-
-53. Assessment record. 54. Errors and defects in assessments, etc.
+44. Chargeability of trustees and other representatives. 45. Chargeability of agent of non-resident persons. 46. Acts to be done by trustees and certain others. 47. Deceased persons.
 
 Income Tax
 
-2010-21 55. Pay as You Earn. 56. Return to be made by employer. 56A.  Penalty for failure to deliver return made by employer. 57. Payment of tax of individuals employed but not domiciled or ordinarily resident in Gibraltar. 58. Deductions from payments to construction sub-contactors. 59. Returns in respect of dividends. 59A.  Dividends: provision of particulars. 60. Set off of Tax Credit. 61. Repayment of tax. 62. Recovery of tax through employers and others.
+2010-21 48. Joint trustees. 49. Managers of companies. 50. Commissioner to appoint agents. 51. Indemnification of agents. 52. Company wound up.
+
+Part VIII- Assessment and withholding
+
+53. Assessment record. 54. Errors and defects in assessments, etc. 55. Pay as You Earn. 56. Return to be made by employer. 56A.  Penalty for failure to deliver return made by employer. 57. Payment of tax of individuals employed but not domiciled or ordinarily resident in Gibraltar. 58. Deductions from payments to construction sub-contactors. 59. Returns in respect of dividends. 59A.  Dividends: provision of particulars. 60. Set off of Tax Credit. 61. Repayment of tax. 62. Recovery of tax through employers and others.
 
 Part IX- Offences, surcharges, penalties and miscellaneous
 
-63. Duty to keep and preserve records and books of account. 63A.  Penalty for failure to keep and preserve records. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply with requirements on return. 65A.  Penalties for failure to comply with requirements on certain notices. 65B.  Offence for failure to comply with requirements on certain notices and returns. 65C.  Penalties for failure to comply with requirements under section 41. 65E.  Penalties where no penalty is specifically provided by this Act. 65F.  Failure to comply with requirement or notice. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay taxes. 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
+63. Duty to keep and preserve records and books of account. 63A.  Penalty for failure to keep and preserve records. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply with requirements on return. 65A.  Penalties for failure to comply with requirements on certain notices. 65B.  Offence for failure to comply with requirements on certain notices and returns. 65C.  Penalties for failure to comply with requirements under section 41. 65E.  Penalties where no penalty is specifically provided by this Act. 65F.  Failure to comply with requirement or notice. 65G. Penalty for failure to comply with requirements relating to an International Tax Agreement. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay taxes. 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation.
+
+Income Tax
+
+2010-21 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
 
 PART X -AMNESTY
 
@@ -97,10 +105,6 @@ PART X -AMNESTY
 SCHEDULE 1
 
 HEADS OF CHARGE
-
-Income Tax
-
-2010-21
 
 Table A
 
@@ -124,13 +128,15 @@ Part 1- Administration
 
 1. Appointment of Tribunal. 2. Appointment of Clerk. 3. Personal interest. 4. Declaration.
 
+Income Tax
+
+2010-21
+
 Part II- Procedure
 
 5. Quorum. 6. Procedure. 7. Attendance of Commissioner. 8. Privacy of proceedings. 9. Adjournment. 10. Representation. 11. Procedure in hearings. 12. Tribunal decisions.
 
-Income Tax
-
-2010-21 Part III- Powers
+Part III- Powers
 
 13. Power to vary assessments. 14. Information power. 15. Power to summons witnesses.
 
@@ -156,7 +162,9 @@ Part I-General
 
 Part II- Capital allowances.
 
-Chapter 1- General
+Income Tax
+
+2010-21 Chapter 1- General
 
 5. Capital allowances. 6. Interpretation.
 
@@ -166,11 +174,7 @@ Chapter 2- Deleted
 
 Chapter 3 – First Year Allowances
 
-8. First year allowances.
-
-Income Tax
-
-2010-21 9. Pool allowance. 10. Deleted. 11. Deleted. 12. Deleted. 12A. Deduction for construction costs. 12B. Deduction for construction costs: high value accommodation. 12C. Relocation costs.
+8. First year allowances. 9. Pool allowance. 10. Deleted. 11. Deleted. 12. Deleted. 12A. Deduction for construction costs. 12B. Deduction for construction costs: high value accommodation. 12C. Relocation costs.
 
 Chapter 4 - Deleted
 
@@ -198,6 +202,10 @@ ANTI-AVOIDANCE
 
 Part I
 
+Income Tax
+
+2010-21
+
 Computation of profits or gains generally
 
 2. Thin capitalisation. 3. Not used.
@@ -206,11 +214,7 @@ Part II
 
 Transactions with connected persons
 
-4. Transactions with connected persons. 5. Non-deductibility of interest paid on certain secured loans.
-
-Income Tax
-
-2010-21 6. Chargeability of dual employment contracts. 7. Exemption from Paragraphs 2 and 4 to 6.
+4. Transactions with connected persons. 5. Non-deductibility of interest paid on certain secured loans. 6. Chargeability of dual employment contracts. 7. Exemption from Paragraphs 2 and 4 to 6.
 
 Part III
 
@@ -236,7 +240,9 @@ Part VA
 
 EXIT TAXATION
 
-18A.
+Income Tax
+
+2010-21 18A.
 
 Part VI
 
@@ -247,10 +253,6 @@ Controlled Foreign Company Rule
 Part VII
 
 Hybrid Mismatch
-
-Income Tax
-
-2010-21
 
 21. Hybrid Mismatch 22. Associated enterprise 23. Denial of deductions 24. 25. 26. 27. 28. Tax residency mismatches
 
@@ -266,7 +268,11 @@ Part II
 
 Taxation applicable to Interest and Royalty payments made between associated companies of different Member States
 
-4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
+4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption.
+
+Income Tax
+
+2010-21 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
 
 TABLE A
 
@@ -274,9 +280,7 @@ Part I
 
 Article 3(a) of Directive 2003/49/EC.
 
-Income Tax
-
-2010-21 Part II
+Part II
 
 Annex to Directive 2003/49.
 
@@ -294,7 +298,9 @@ Part II-Taxation on companies who abuse a dominant position
 
 18. The charge.
 
-SCHEDULE 7
+Income Tax
+
+2010-21 SCHEDULE 7
 
 BENEFITS IN KIND
 
@@ -302,11 +308,7 @@ Chapter 1
 
 General
 
-1. Earnings. 2. Meaning of “director” and “full-time working director”. 3. Meaning of “material interest” in a company. 4. Extended meaning of “control”.
-
-Income Tax
-
-2010-21 5. Meaning of “close company”.
+1. Earnings. 2. Meaning of “director” and “full-time working director”. 3. Meaning of “material interest” in a company. 4. Extended meaning of “control”. 5. Meaning of “close company”.
 
 Chapter 2
 
@@ -328,13 +330,13 @@ Living accommodation
 
 Chapter 5
 
-Cars, vans and related benefits
+Income Tax
+
+2010-21 Cars, vans and related benefits
 
 20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use. 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
 
-Income Tax
-
-2010-21 Chapter 6
+Chapter 6
 
 Taxable benefits; Loans
 
@@ -346,15 +348,13 @@ Taxable benefits; residual liability to charge
 
 37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
 
-Chapter 8
+Income Tax
+
+2010-21 Chapter 8
 
 Exemptions; removal benefits and expenses.
 
-52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses.
-
-Income Tax
-
-2010-21 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
+52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
 
 Chapter 9
 
@@ -365,6 +365,10 @@ Dispensations from obligations to report Benefits-in-kind
 Chapter 10
 
 Miscellaneous
+
+Income Tax
+
+2010-21
 
 79 Power to amend Schedule.
 
@@ -377,10 +381,6 @@ Table A- Overall amount of tax lost.
 Table B- Gravity.
 
 Table C- co-operation in investigation.
-
-Income Tax
-
-2010-21
 
 SCHEDULE 9
 
@@ -402,10 +402,22 @@ Part III
 
 Continuity of the law
 
-13. Continuity of the law. 14. Changes in the law. 15. Subordinate legislation. 16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
+13. Continuity of the law. 14. Changes in the law.
 
-Schedule 10
+Income Tax
+
+2010-21 15. Subordinate legislation. 16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
+
+SCHEDULE 10
+
+SCHEDULE 11 (Not In Force)
+
+SCHEDULE 12
+
+INTERNATIONAL AGREEMENTS
 
 Income Tax
 
 2010-21
+
+AN ACT TO IMPOSE TAXATION ON INCOME AND TO REGULATE THE COLLECTION THEREOF, AND TO PROVIDE FOR THE IMPLEMENTATION OF INTERNATIONAL AGREEMENTS ON TAXATION MATTERS
