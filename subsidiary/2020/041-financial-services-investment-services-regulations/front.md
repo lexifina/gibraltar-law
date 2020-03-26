@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-126, Sch.2
 
-30.1.2020
+30.1.2020 2020/118 r. 47(1A) 26.3.2020
 
 2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 

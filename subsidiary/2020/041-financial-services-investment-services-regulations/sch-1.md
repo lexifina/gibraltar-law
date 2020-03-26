@@ -32,9 +32,9 @@ The following shall all be regarded as professionals in all investment services 
 
 (2)  Large undertakings meeting two of the following size requirements on a company basis–
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
-
 (a) balance sheet total: €20,000,000;
+
+Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
 
 (b) net turnover: €40,000,000;
 
@@ -56,11 +56,9 @@ Identification criteria
 
 Clients other than those mentioned in Section I, including public sector bodies, local public authorities, municipalities and private individual investors, may also be allowed to waive some of the protections afforded by the conduct of business rules.
 
-Investment firms shall therefore be allowed to treat any of those clients as professionals provided the relevant criteria and procedure mentioned below are fulfilled. Those clients
+Investment firms shall therefore be allowed to treat any of those clients as professionals provided the relevant criteria and procedure mentioned below are fulfilled. Those clients shall not, however, be presumed to possess market knowledge and experience comparable to that of the categories listed in Section I.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
-shall not, however, be presumed to possess market knowledge and experience comparable to that of the categories listed in Section I.
+2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 Any such waiver of the protection afforded by the standard conduct of business regime shall be considered to be valid only if an adequate assessment of the expertise, experience and knowledge of the client, undertaken by the investment firm, gives reasonable assurance, in light of the nature of the transactions or services envisaged, that the client is capable of making investment decisions and understanding the risks involved.
 
@@ -84,12 +82,12 @@ Those clients may waive the benefit of the detailed rules of conduct only where 
 
 – they must state in writing, in a separate document from the contract, that they are aware of the consequences of losing such protections.
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
-
 Before deciding to accept any request for waiver, investment firms must be required to take all reasonable steps to ensure that the client requesting to be treated as a professional client meets the relevant requirements stated in Section II.
+
+Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
 
 However, if clients have already been categorised as professionals under parameters and procedures similar to those referred to above, it is not intended that their relationships with investment firms shall be affected by any new rules adopted pursuant to this Schedule.
 
 Firms must implement appropriate written internal policies and procedures to categorise clients. Professional clients are responsible for keeping the investment firm informed about any change, which could affect their current categorisation. Should the investment firm become aware however that the client no longer fulfils the initial conditions, which made the client eligible for a professional treatment, the investment firm shall take appropriate action.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
+2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
