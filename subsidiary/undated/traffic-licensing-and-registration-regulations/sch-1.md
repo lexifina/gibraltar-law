@@ -36,13 +36,11 @@ SIGNATURE OF APPLICANT. . . . . . . . . . . . . . . . .
 
 REGISTRATION Mark . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ANNUAL LICENCE FEE . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-REPORT OF EXAMINER ON MOTOR VEHICLE G. . . . . . . .
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] REPORT OF EXAMINER ON MOTOR VEHICLE G. . . . . . . .
 
 I CERTIFY THAT THE PARTICULARS OF THE MOTOR VEHICLE ARE CORRECT AND THAT THE VEHICLE COMPLIES WITH THE PROVISIONS OF THE TRAFFIC ACT AND OF THE REGULATIONS MADE THEREUNDER
 
@@ -172,7 +170,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] I enclose herewith the certificate of registration, the motor vehicle licence and the international certificate (if any) for the vehicle.
+Subsidiary [1958.03.06]
+
+I enclose herewith the certificate of registration, the motor vehicle licence and the international certificate (if any) for the vehicle.
 
 Dated this. . . . . . . . . . .day of. . . . . . . . . . . 20. . . . .
 
@@ -274,7 +274,11 @@ No(s)
 
 Date Description of vehicle (make and chassis number or other sufficient description ) Time during which vehicle is used
 
-Registration mark used on vehicle Name and address of driver Purpose for which vehicle was used From To
+Registration mark used on vehicle
+
+Name and address of driver Purpose for which vehicle was used
+
+From To
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
@@ -332,7 +336,13 @@ TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
 
 Please read al the notes overleaf  before completing this form. Please write clearly in ink and CAPITAL LETTERS.
 
-1. Surname Address First name Mr.[ ] Mrs.[ ] Miss.[ ] Ms.[ ] Date of Birth Place of Birth Tel No. Home:
+1. Surname Address First name
+
+Mr.[ ] Mrs.[ ] Miss.[ ] Ms.[ ]
+
+Date of Birth
+
+Place of Birth Tel No. Home:
 
 Work
 
@@ -348,15 +358,15 @@ No Yes An epileptic attack or epilepsy
 
 A major or minor stroke
 
-Sudden attacks of
-
-Any type of
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] disabling giddiness, fainting or blackouts. brain surgery, brain tumour or severe head injury involving hospital inpatient treatment. A pacemaker or electrical device fitted to your heart.
+Subsidiary [1958.03.06] Sudden attacks of disabling giddiness, fainting or blackouts.
+
+Any type of brain surgery, brain tumour or severe head injury involving hospital inpatient treatment.
+
+A pacemaker or electrical device fitted to your heart.
 
 Any severe psychiatric illness or mental disorder.
 
@@ -380,13 +390,11 @@ Severe mental disability.
 
 If, Yes, What is it. Angina (Heart pain) while driving.
 
-DECLARATION. If you or anyone else gives false information to help you get a driving licence, you or they can be prosecuted.
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] DECLARATION. If you or anyone else gives false information to help you get a driving licence, you or they can be prosecuted.
 
 I declare that to the best of my knowledge and belief the answers given above are true and I understand that (subject to statutory exceptions) it is an offence to use a motor car on a road unless it is covered by an insurance against third party risks.
 
@@ -416,25 +424,59 @@ You are ineligible to take a driving test within one calendar month of a previou
 
 LICENCE CATEGORIES
 
-EC CATEGORIES
-
-A1 Light motorcycles with a cubic capacity not exceeding 125cc and
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] of a power not exceeding 11kw. A Motorcycles with or without a sidecar. B1 Motor powered tricycles and quadricycles. B Motorcars with up to 8 passenger seats and up to 3500 kg with a trailer up to 750 kg. C1 Vehicles between 3500 kg but not more than 7500 kg with a trailer up to 750 kg. C Lorries over 3500 kg with a trailer up to 750 kg. D1 Small passenger carrying vehicles with 9 to 16 passenger seats with a trailer up to 750 kg. D Any bus with more than 8 passenger seats with a trailer up to 750 kg. B + E Motorcars with up to 8 passenger seats and up to 3500 kg with a trailer over 750 kg. C1 + E Vehicles between 3500 kg and 7500 kg with a trailer over 750 kg. Total weight not more than 12000 kg. C + E Articulated lorries or large lorries over 3500 kg with a trailer over 750 kg. D1 + E Small passenger carrying vehicles with 9 to 16 passenger seats with a trailer over 750 kg. Total weight not more than 12000 kg. C + E Combination of buses in category D with a trailer over 750 kg.
+Subsidiary [1958.03.06] EC CATEGORIES
+
+A1 Light motorcycles with a cubic capacity not exceeding 125cc and of a power not exceeding 11kw.
+
+A Motorcycles with or without a sidecar.
+
+B1 Motor powered tricycles and quadricycles.
+
+B Motorcars with up to 8 passenger seats and up to 3500 kg with a trailer up to 750 kg.
+
+C1 Vehicles between 3500 kg but not more than 7500 kg with a trailer up to 750 kg.
+
+C Lorries over 3500 kg with a trailer up to 750 kg.
+
+D1 Small passenger carrying vehicles with 9 to 16 passenger seats with a trailer up to 750 kg.
+
+D Any bus with more than 8 passenger seats with a trailer up to 750 kg.
+
+B + E Motorcars with up to 8 passenger seats and up to 3500 kg with a trailer over 750 kg.
+
+C1 + E Vehicles between 3500 kg and 7500 kg with a trailer over 750 kg. Total weight not more than 12000 kg.
+
+C + E Articulated lorries or large lorries over 3500 kg with a trailer over 750 kg.
+
+D1 + E Small passenger carrying vehicles with 9 to 16 passenger seats with a trailer over 750 kg. Total weight not more than 12000 kg.
+
+C + E Combination of buses in category D with a trailer over 750 kg.
 
 NATIONAL CATEGORIES
 
-F Motor vehicles designed, constructed and used for the purpose of trench digging or any kind of excavation or shovelling work. G Motor vehicles designed and constructed as mobile cranes. H Motor vehicles designed and used as fire engines. I Road Rollers. J Motor vehicles of any description not included in categories A to
+F Motor vehicles designed, constructed and used for the purpose of trench digging or any kind of excavation or shovelling work.
+
+G Motor vehicles designed and constructed as mobile cranes.
+
+H Motor vehicles designed and used as fire engines.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] D and F to I. K Motor vehicles of categories F to J towing a trailer with a laden weight exceeding 750 kg. L Moped.
+Subsidiary [1958.03.06]
+
+I Road Rollers.
+
+J Motor vehicles of any description not included in categories A to D and F to I.
+
+K Motor vehicles of categories F to J towing a trailer with a laden weight exceeding 750 kg.
+
+L Moped.
 
 FOR OFFICE USE
 
@@ -460,7 +502,9 @@ TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
 
 20 I examined. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . of . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . who– * (a) is of the age of 70 years or more: * (b) wishes to drive vehicles in any category C to K; * (c) wishes to drive public service vehicles; * (d) was required by an examiner conducting a test to submit himself for examination,
 
-to ascertain whether his standard of fitness meets all the requirements of Schedule 4A to the Traffic (Licensing and Registration) Regulations and found him/her to be *physically and mentally fit to drive a motor vehicle *unfit to drive a motor vehicle.
+to ascertain whether his standard of fitness meets all the requirements of Schedule 4A to the Traffic (Licensing and Registration) Regulations and found him/her to be *physically and mentally fit to drive a motor vehicle
+
+*unfit to drive a motor vehicle.
 
 Dated this
 
@@ -512,7 +556,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] (i) epilepsy, seizures, fainting or any  mental illness or defect . . . . . . . . . . . . . . .
+Subsidiary [1958.03.06]
+
+(i) epilepsy, seizures, fainting or any  mental illness or defect . . . . . . . . . . . . . . .
 
 (ii) or any other disability or medical condition which could affect your fitness as a driver either now or in the future  . . . . . . . . . . . . . . .,if the answer to either question is YES  give details . . . . . . . . . . . . . . .
 
@@ -542,13 +588,11 @@ Date . . . . . . . . . . . . . . .
 
 A. A business, club or hotel address cannot be accepted unless you live there permanently.
 
-B. Driving or attempting to drive while under the influence of drink  or drugs.
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] B. Driving or attempting to drive while under the influence of drink  or drugs.
 
 Driving or attempting to drive with an excess of alcohol in the body.
 
@@ -572,13 +616,13 @@ TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
 
 I (Surname) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Forenames) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Address) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . apply for a learner’ s licence, to drive motor vehicle of category . . . .
 
-1.Date and place of birth . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1. Date and place of birth . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2.Are you disqualified by a court for  holding or obtaining a driving licence? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. Are you disqualified by a court for  holding or obtaining a driving licence? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.Can you read at a distance of 23 metres (with glasses or contact lenses if worn) a motor car number plate? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. Can you read at a distance of 23 metres (with glasses or contact lenses if worn) a motor car number plate? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.Have you ever suffered from any mental or physical disability or from sudden attacks of disabling giddiness or fainting or from any other disability which is likely to interfere with the efficient discharge of your responsibilities as a driver? . . . . . . . . . . . .
+4. Have you ever suffered from any mental or physical disability or from sudden attacks of disabling giddiness or fainting or from any other disability which is likely to interfere with the efficient discharge of your responsibilities as a driver? . . . . . . . . . . . .
 
 I DECLARE THAT to the best of my knowledge and belief the answers given above are true and I understand that (subject to statutory exeptions) it is an offence to use a motor vehicle on a road unless it is covered by an insurance against third party risks.
 
@@ -598,7 +642,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] “C1” Articulated Motor Vehicles used for the carriage of goods with a laden weight exceeding 3500 kilogrammes.
+Subsidiary [1958.03.06]
+
+“C1” Articulated Motor Vehicles used for the carriage of goods with a laden weight exceeding 3500 kilogrammes.
 
 “D” Motor Vehicles with more than eight passenger seats.
 
@@ -820,7 +866,15 @@ The Fees set out in the Schedule below are for a 365 day period. In order to cal
 
 PART I.–MOTOR CYCLES.
 
-1. Motor bicycle (including a motor scooter and a bicycle with an attachment for propelling it by mechanical power) of which the cubic capacity– (a) does not exceed 50cc £15.00 (b) exceeds 50cc but does not exceed 150cc £35.00 (c) exceeds 250cc £45.00 SECTION II. –PRIVATE MOTOR VEHICLES OTHER THAN VEHICLES SPECIFIED IN PARTS I AND V. Weight of unladen vehicle (kilograms/kgs)– Not exceeding 507kgs £55.00 Exceeding 507kgs  but not exceeding 762kgs £60.00 Exceeding 762kgs but not exceeding 1016kgs £65.00 Exceeding 1016kgs  but not exceeding 1270kgs £75.00 Exceeding 1270kgs but not exceeding 1524kgs £80.00 Exceeding 1524kgs but not exceeding 1778kgs £90.00 Exceeding 1778kgs but not exceeding 2032kgs £110.00 Exceeding 2032kgs but not exceeding 2286kgs £130.00 Exceeding 2286kgs but not exceeding 2540kgs £150.00 together with an additional fee of £20.00 for each additional 254 kilograms or part thereof in excess of 2540 kilograms
+1. Motor bicycle (including a motor scooter and a bicycle with an attachment for propelling it by mechanical power) of which the cubic capacity–
+
+(a) does not exceed 50cc £15.00 (b) exceeds 50cc but does not exceed 150cc £35.00 (c) exceeds 250cc £45.00
+
+SECTION II. –PRIVATE MOTOR VEHICLES OTHER THAN VEHICLES SPECIFIED IN PARTS I AND V. Weight of unladen vehicle (kilograms/kgs)–
+
+Not exceeding 507kgs £55.00 Exceeding 507kgs  but not exceeding 762kgs £60.00 Exceeding 762kgs but not exceeding 1016kgs £65.00 Exceeding 1016kgs  but not exceeding 1270kgs £75.00 Exceeding 1270kgs but not exceeding 1524kgs £80.00 Exceeding 1524kgs but not exceeding 1778kgs £90.00 Exceeding 1778kgs but not exceeding 2032kgs £110.00 Exceeding 2032kgs but not exceeding 2286kgs £130.00 Exceeding 2286kgs but not exceeding 2540kgs £150.00
+
+together with an additional fee of £20.00 for each additional 254 kilograms or part thereof in excess of 2540 kilograms
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
@@ -848,13 +902,13 @@ Weight of vehicle (kilograms/kgs) Fee Exceeding 508kgs but not exceeding 762kgs 
 
 PART V.–SPECIAL CLASSES OF VEHICLES.
 
-Description of vehicle Fee 1. Vehicles designed, constructed and used for the purpose of trench digging or any kind of excavating or
+Description of vehicle Fee 1. Vehicles designed, constructed and used for the
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] shovelling work which– (i) are used on roads only for that purpose or for the purpose of proceeding to and from the place where they are to be used for that purpose; and
+Subsidiary [1958.03.06] purpose of trench digging or any kind of excavating or shovelling work which– (i) are used on roads only for that purpose or for the purpose of proceeding to and from the place where they are to be used for that purpose; and
 
 (ii)  when so proceeding neither carry nor haul any load other than such as is necessary for their propulsion or equipment £20.00 2. Vehicles designed and constructed as mobile cranes which–
 
@@ -866,13 +920,13 @@ SECTION 6. – COMPUTATION OF WEIGHT, ETC., OF VEHICLES FOR THE PURPOSES OF THIS
 
 1. The weight unladen of any motor vehicle shall be taken to be the weight of the vehicle inclusive of the body and all parts (the heavier being taken where alternative bodies or parts are used) which are necessary to or ordinarily used with the vehicle when on a road, but exclusive of the weight of water, fuel or accumulators used for the purpose of the supply of power for the propulsion of the vehicle and of loose tools or equipment.
 
-2. In computing for the purposes of section 3 of this Part the weight unladen of a goods vehicle, there shall be included the weight of any
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] receptacle, being an additional body, placed on the vehicle for the purpose of the carriage of goods or merchandise of any description, if the goods or merchandise are loaded into, carried in and unloaded from the receptacle without the receptacle being removed from the vehicle.
+Subsidiary [1958.03.06]
+
+2. In computing for the purposes of section 3 of this Part the weight unladen of a goods vehicle, there shall be included the weight of any receptacle, being an additional body, placed on the vehicle for the purpose of the carriage of goods or merchandise of any description, if the goods or merchandise are loaded into, carried in and unloaded from the receptacle without the receptacle being removed from the vehicle.
 
 3. Revoked
 
@@ -884,7 +938,17 @@ Subsidiary [1958.03.06] SECTION 7. – REGISTRATION, CERTIFICATE OF REGISTRATION
 
 Regulations 3(1), 6(1) and 7(2)
 
-1. For Registering a motor cycle with an engine capacity up to 50cc £20 2. For Registering any other vehicle £30 3. Certificate of Registration £20 4. Duplicate Certificate of Registration £20 5. Transfer of ownership £20
+1. For Registering a motor cycle with an engine capacity up to 50cc
+
+£20 2. For Registering any other vehicle
+
+£30 3. Certificate of Registration
+
+£20 4. Duplicate Certificate of Registration
+
+£20 5. Transfer of ownership
+
+£20
 
 Regulation 43(1) PART II,–ROAD SERVICE LICENCES Revoked.
 
@@ -898,13 +962,13 @@ Fee No. £ 1. For the issue or renewal of a driving licence:
 
 Provided that where a licence or a renewal is issued for a period of less than 10 years the fee shall be £3 for each year or part of the year for which it is expressed to be valid. 35.00 1A. For the renewal of a driving licence to any person aged 70 or over Nil 2. For the issue of a duplicate driving licence:
 
-Provided that where at the date of the application the licence had less than 10 years to run, the fee payable shall be £3 for each year or part of the year for which it 35.00
+Provided that where at the date of the application the licence had less than 10 years to run, the fee payable 35.00
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] is expressed to be valid. 3. For the issue of an advanced driving licence 25.00 4. For the issue of a duplicate advanced driving licence 15.00 5. For inspecting the register, for each hour or part thereof 15.00 6. For a copy or extract from the register, for each folio of 72  words or part thereof
+Subsidiary [1958.03.06] shall be £3 for each year or part of the year for which it is expressed to be valid. 3. For the issue of an advanced driving licence 25.00 4. For the issue of a duplicate advanced driving licence 15.00 5. For inspecting the register, for each hour or part thereof 15.00 6. For a copy or extract from the register, for each folio of 72  words or part thereof
 
 15.00 7. For the addition of a further category 25.00 8. For a change in particulars 25.00 9. For the exchange of an EEA licence 35.00
 
@@ -912,27 +976,45 @@ Regulation 93(2). PART VI. –LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHIC
 
 PART VII–DRIVING TESTS
 
-Category Fee £ A 40.00 B 40.00 C 75.00 C1 75.00 D 75.00 D1 75.00 B+E 60.00 C+E 75.00 C1+E 75.00 D+E 75.00 D1+E 75.00 F to J 60.00 K – moped 30.00 Advanced driving test 50.00 Public service vehicle up to 8 seats in addition to the driver’s seat 60.00 Public service vehicle over 8 seats in addition to the driver’s seat 65.00 Theory “A” Category 15.00 Theory “B” Category 15.00 Theory “C” Category 40.00 Theory “D” Category 40.00 Case Studies “C” Category 40.00 Case Studies “D” Category 40.00
+Category Fee £ A 40.00 B 40.00 C 75.00 C1 75.00 D 75.00 D1 75.00 B+E 60.00 C+E 75.00 C1+E 75.00 D+E 75.00 D1+E 75.00 F to J 60.00 K – moped 30.00 Advanced driving test 50.00 Public service vehicle up to 8 seats in addition to
+
+the driver’s seat 60.00
+
+Public service vehicle over 8 seats in addition to
+
+the driver’s seat 65.00
+
+Theory “A” Category 15.00 Theory “B” Category 15.00 Theory “C” Category 40.00 Theory “D” Category 40.00
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] Practical Knowledge “C” Category 25.00 Practical Knowledge “D” Category 25.00
+Subsidiary [1958.03.06] Case Studies “C” Category 40.00 Case Studies “D” Category 40.00 Practical Knowledge “C” Category 25.00 Practical Knowledge “D” Category 25.00
 
 Annual indexation of fees.
 
-1.Subject to the provisions of this regulation, the fees set out in the tables below (using the same paragraph numbering as appearing in Schedule 2) must be revised annually in accordance with the Index of Retail Prices published by the Government Statistician.
+1. Subject to the provisions of this regulation, the fees set out in the tables below (using the same paragraph numbering as appearing in Schedule 2) must be revised annually in accordance with the Index of Retail Prices published by the Government Statistician.
 
-2.The first revision under this regulation shall apply as from the 1 May 2017 and shall apply the index of retail prices as at the 1 January 2017, and subsequent revisions shall apply on each subsequent 1 May and apply the index of retail prices prevailing on the preceding 1 January of that year.
+2. The first revision under this regulation shall apply as from the 1 May 2017 and shall apply the index of retail prices as at the 1 January 2017, and subsequent revisions shall apply on each subsequent 1 May and apply the index of retail prices prevailing on the preceding 1 January of that year.
 
-3.Any figure revised pursuant to subregulation (1) shall be rounded up to the next whole penny.
+3. Any figure revised pursuant to subregulation (1) shall be rounded up to the next whole penny.
 
 FEES (SECTION 7 - REGISTRATION, CERTIFICATE OF REGISTRATION AND TRANSFER OF OWNERSHIP) Amount (£) 1. For registering a motor cycle with an engine capacity up to 50cc 20 3.   Certificate of Registration 20 4. Duplicate Certificate of Registration 20 5. Transfer of ownership 20
 
 FEES (PART V – DRIVING LICENCES) Amount (£) 1. For the issue or renewal or a driving licence 35 2. For the issue of a duplicate driving licence 35 9. For the exchange of an EEA licence 35
 
-FEES (PART VII – DRIVING TESTS) Amount (£) Category A 40 Category B 40 Category B+E 60 Category F to J 60 Public service vehicle up to 8 seats in addition to the driver’s seat 60 Theory “A” Category 15 Theory “B” Category 15
+FEES (PART VII – DRIVING TESTS) Amount (£) Category A 40 Category B 40 Category B+E 60 Category F to J 60 Public service vehicle up to 8 seats in addition to the driver’s seat 60
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] Theory “A” Category
+
+15 Theory “B” Category
+
+15
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 

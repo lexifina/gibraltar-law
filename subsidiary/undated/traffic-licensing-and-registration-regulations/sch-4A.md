@@ -30,7 +30,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] EYESIGHT
+Subsidiary [1958.03.06]
+
+EYESIGHT
 
 6. All applicants for a driving licence shall undergo an appropriate investigation to ensure that they have adequate visual acuity for driving power driven vehicles. Where there is reason to doubt that the applicant’s vision is adequate, he/she shall be examined by a competent medical authority.
 
@@ -48,13 +50,11 @@ When a progressive eye disease is detected or declared, driving licences may be 
 
 6.2. Applicants for a driving licence, or for the renewal of such a licence, who have total functional loss of vision in one eye or who use only one eye (e.g. in the case of diplopia) must have a visual acuity of at least 0,5, with corrective lenses if necessary. The competent medical authority must certify that this condition of monocular vision has existed for a sufficiently long time to allow adaptation and that the field of vision in this eye meets the requirement laid down in paragraph 6.1.
 
-6.3. After any recently developed diplopia or after the loss of vision in one eye, there should be an appropriate adaptation period (for example, six months), during which driving is not allowed. After this period, driving is
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] only allowed following a favourable opinion from vision and driving experts.
+Subsidiary [1958.03.06] 6.3. After any recently developed diplopia or after the loss of vision in one eye, there should be an appropriate adaptation period (for example, six months), during which driving is not allowed. After this period, driving is only allowed following a favourable opinion from vision and driving experts.
 
 Group 2:
 
@@ -74,13 +74,13 @@ PERSONS WITH A LOCOMOTOR DISABILITY
 
 Group 1:
 
-8.1. Driving licences subject to certain restrictions, if necessary, may be issued to physically disabled applicants or drivers following the issuing of an opinion by a competent medical authority. This opinion must be based on a medical assessment of the complaint or abnormality in question and, where necessary, on a practical test. It must also indicate what type of modification to the vehicle is required and whether the driver needs to be
+8.1. Driving licences subject to certain restrictions, if necessary, may be issued to physically disabled applicants or drivers following the issuing of an opinion by a competent medical authority. This opinion must be based on
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] fitted with an orthopaedic device, insofar as the test of skills and behaviour demonstrates that with such a device driving would not to be dangerous.
+Subsidiary [1958.03.06] a medical assessment of the complaint or abnormality in question and, where necessary, on a practical test. It must also indicate what type of modification to the vehicle is required and whether the driver needs to be fitted with an orthopaedic device, insofar as the test of skills and behaviour demonstrates that with such a device driving would not to be dangerous.
 
 8.2. Driving licences may be issued to or renewed for any applicant suffering from a progressive complaint on condition that the disabled person is regularly examined to check that the person is still capable of driving the vehicle completely safely.
 
@@ -102,13 +102,13 @@ CARDIOVASCULAR DISEASES
 
 (c) tachy-arrhythmias (supraventricular and ventricular arrhythmias) with
 
-— structural heart disease and sustained ventricular tachycardia (VT) (applies to group 1 and 2), or
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
 Subsidiary [1958.03.06]
+
+— structural heart disease and sustained ventricular tachycardia (VT) (applies to group 1 and 2), or
 
 — polymorphic nonsustained VT, sustained ventricular tachycardia or with an indication for a defibrillator (applies to group 2 only);
 
@@ -138,13 +138,15 @@ Subsidiary [1958.03.06]
 
 — New York Heart Association (NYHA) I, II, III (applies to group 1 only),
 
-— NYHA I and II provided that the left ventricular ejection fraction is at least 35 % (applies to group 2 only);
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] (p) heart transplantation (applies to group 1 and 2);
+Subsidiary [1958.03.06]
+
+— NYHA I and II provided that the left ventricular ejection fraction is at least 35 % (applies to group 2 only);
+
+(p) heart transplantation (applies to group 1 and 2);
 
 (q) cardiac assist device (applies to group 1 only);
 
@@ -174,13 +176,15 @@ Subsidiary [1958.03.06] (p) heart transplantation (applies to group 1 and 2);
 
 (d) cardiac assist devices (applies to group 2 only);
 
-(e) valvular heart disease with aortic regurgitation, aortic stenosis, mitral regurgitation or mitral stenosis if functional ability is estimated to be NYHA IV or if there have been syncopal episodes (applies to group 1 only);
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] (f) valvular heart disease in NYHA III or IV or with ejection fraction (EF) below 35 %, mitral stenosis and severe pulmonary hypertension or with severe echocardiographic aortic stenosis or aortic stenosis causing syncope; except for completely asymptomatic severe aortic stenosis if the exercise tolerance test requirements are fulfilled (applies to group 2 only);
+Subsidiary [1958.03.06]
+
+(e) valvular heart disease with aortic regurgitation, aortic stenosis, mitral regurgitation or mitral stenosis if functional ability is estimated to be NYHA IV or if there have been syncopal episodes (applies to group 1 only);
+
+(f) valvular heart disease in NYHA III or IV or with ejection fraction (EF) below 35 %, mitral stenosis and severe pulmonary hypertension or with severe echocardiographic aortic stenosis or aortic stenosis causing syncope; except for completely asymptomatic severe aortic stenosis if the exercise tolerance test requirements are fulfilled (applies to group 2 only);
 
 (g) structural and electrical cardiomyopathies — hypertrophic cardiomyopathy with history of syncope or when two or more of the following conditions present: left ventricle (LV) wall thickness > 3 cm, non-sustained ventricular tachycardia, a family history of sudden death (in a first degree relative), no increase of blood pressure with exercise (applies to group 2 only);
 
@@ -194,17 +198,15 @@ Driving licences may be issued or renewed in exceptional cases, provided that it
 
 The risk of sudden incapacitating events shall be evaluated in applicants or drivers with well described cardiomyopathies (e.g. arrhythmogenic right ventricular cardiomyopathy, non-compaction cardiomyopathy, catecholaminergic polymorphic ventricular tachycardia and short QT syndrome) or with new cardiomyopathies that may be discovered. A careful specialist evaluation is required. The prognostic features of the particular cardiomyopathy shall be considered.
 
-9.4  The Government may by regulations amend this Schedule to further restrict the issue or renewal of driving licences for applicants or drivers with other cardiovascular diseases.
-
-DIABETES MELLITUS
-
-10. In the following paragraphs, a severe hypoglycaemia means that the assistance of another person is needed and a recurrent hypoglycaemia is defined as a second severe hypoglycaemia during a period of 12 months.
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] 9.4  The Government may by regulations amend this Schedule to further restrict the issue or renewal of driving licences for applicants or drivers with other cardiovascular diseases.
+
+DIABETES MELLITUS
+
+10. In the following paragraphs, a severe hypoglycaemia means that the assistance of another person is needed and a recurrent hypoglycaemia is defined as a second severe hypoglycaemia during a period of 12 months.
 
 Group 1:
 
@@ -224,19 +226,17 @@ Group 2:
 
 — no severe hypoglycaemic events have occurred in the previous 12 months,
 
-— the driver has full hypoglycaemic awareness,
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] — the driver has full hypoglycaemic awareness,
 
 — the driver must show adequate control of the condition by regular blood glucose monitoring, at least twice daily and at times relevant to driving,
 
 — the driver must demonstrate an understanding of the risks of hypoglycaemia,
 
 — there are no other debarring complications of diabetes.
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 Moreover, in these cases, such licences should be issued subject to the opinion of a competent medical authority and to regular medical review, undertaken at intervals of not more than three years.
 
@@ -254,15 +254,13 @@ OBSTRUCTIVE SLEEP APNOEA SYNDROME
 
 11.3. Applicants or drivers in whom a moderate or severe obstructive sleep apnoea syndrome is suspected shall be referred for further authorised medical advice before a driving licence is issued or renewed. They may be advised not to drive until confirmation of the diagnosis.
 
-11.4. Driving licences may be issued to applicants or drivers with moderate or severe obstructive sleep apnoea syndrome who show adequate control of their condition and compliance with appropriate treatment and improvement of sleepiness, if any, confirmed by authorised medical opinion.
-
-11.5. Applicants or drivers with moderate or severe obstructive sleep apnoea syndrome under treatment shall be subject to a periodic medical review, at intervals not exceeding three years for drivers of group 1 and one year for drivers of group 2, with a view to establish the level of compliance with the treatment, the need for continuing the treatment and continued good vigilance.
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] EPILEPSY
+Subsidiary [1958.03.06] 11.4. Driving licences may be issued to applicants or drivers with moderate or severe obstructive sleep apnoea syndrome who show adequate control of their condition and compliance with appropriate treatment and improvement of sleepiness, if any, confirmed by authorised medical opinion.
+
+11.5. Applicants or drivers with moderate or severe obstructive sleep apnoea syndrome under treatment shall be subject to a periodic medical review, at intervals not exceeding three years for drivers of group 1 and one year for drivers of group 2, with a view to establish the level of compliance with the treatment, the need for continuing the treatment and continued good vigilance. EPILEPSY
 
 12. Epileptic seizures or other sudden disturbances of the state of consciousness constitute a serious danger to road safety if they occur in a person driving a power-driven vehicle.
 
@@ -280,21 +278,21 @@ If the person has epilepsy, the criteria for an unconditional licence are not me
 
 12.2. Provoked epileptic seizure: the applicant who has had a provoked epileptic seizure because of a recognisable provoking factor that is unlikely to recur at the wheel can be declared able to drive on an individual basis, subject to neurological opinion (the assessment should be, if appropriate, in accordance with other relevant sections of Annex III (e.g. in the case of alcohol or other co-morbidity).
 
-12.3. First or single unprovoked seizure: the applicant who has had a first unprovoked epileptic seizure can be declared able to drive after a period of six months without seizures, if there has been an appropriate medical assessment. National authorities may allow drivers with recognised good prognostic indicators to drive sooner.
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] 12.3. First or single unprovoked seizure: the applicant who has had a first unprovoked epileptic seizure can be declared able to drive after a period of six months without seizures, if there has been an appropriate medical assessment. National authorities may allow drivers with recognised good prognostic indicators to drive sooner.
 
 12.4. Other loss of consciousness: the loss of consciousness should be assessed according to the risk of recurrence while driving.
 
 12.5. Epilepsy: drivers or applicants can be declared fit to drive after a one- year period free of further seizures.
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 12.6. Seizures exclusively in sleep: the applicant or driver who has never had any seizures other than seizures during sleep can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an occurrence of attacks/seizure arising while awake, a one-year period free of further event before licensing is required (see ‘Epilepsy’).
+12.6. Seizures exclusively in sleep: the applicant or driver who has never had any seizures other than seizures during sleep can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an occurrence of attacks/seizure arising while awake, a one-year period free of further event before licensing is required (see ‘Epilepsy’).
 
 12.7. Seizures without influence on consciousness or the ability to act: the applicant or driver who has never had any seizures other than seizures which have been demonstrated exclusively to affect neither consciousness nor cause any functional impairment can be declared fit to drive so long as this pattern has been established for a period which must not be less than the seizure-free period required for epilepsy. If there is an occurrence of any other kind of attacks/seizures a one-year period free of further event before licensing is required (see ‘Epilepsy’).
 
-12.8. Seizures because of a physician-directed change or reduction of Antiepileptic therapy: the patient may be advised not to drive from the commencement of the period of withdrawal and thereafter for a period of six months after cessation of treatment. Seizures occurring during physician-advised change or withdrawal of medication require three months off driving if the previously effective treatment is reinstated.
+12.8. Seizures because of a physician-directed change or reduction of Antiepileptic therapy: the patient may be advised not to drive from the commencement of the period of withdrawal and thereafter for a period of six months after cessation of treatment. Seizures occurring during physician- advised change or withdrawal of medication require three months off driving if the previously effective treatment is reinstated.
 
 12.9. After curative epilepsy surgery: see ‘Epilepsy’.
 
@@ -302,15 +300,17 @@ Group 2:
 
 12.10. The applicant should be without anti-epileptic medication for the required period of seizure freedom. An appropriate medical follow-up has been done. On extensive neurological investigation, no relevant cerebral pathology was established and there is no epileptiform activity on the electroencephalogram (EEG). An EEG and an appropriate neurological assessment should be performed after the acute episode.
 
-12.11. Provoked epileptic seizure: the applicant who has had a provoked epileptic seizure because of a recognisable provoking factor that is unlikely to recur at the wheel can be declared able to drive on an individual basis, subject to neurological opinion. An EEG and an appropriate neurological assessment should be performed after the acute episode.
-
-A person with a structural intra-cerebral lesion who has increased risk of seizures should not be able to drive vehicles of group 2 until the epilepsy risk has fallen to at least 2 % per annum. The assessment should be, if appropriate, in accordance with other relevant sections of Schedule 4A (e.g. in the case of alcohol).
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 12.12. First or single unprovoked seizure: the applicant who has had a first unprovoked epileptic seizure can be declared able to drive once five years’ freedom from further seizures has been achieved without the aid of anti- epileptic drugs, if there has been an appropriate neurological assessment. National authorities may allow drivers with recognised good prognostic indicators to drive sooner.
+Subsidiary [1958.03.06]
+
+12.11. Provoked epileptic seizure: the applicant who has had a provoked epileptic seizure because of a recognisable provoking factor that is unlikely to recur at the wheel can be declared able to drive on an individual basis, subject to neurological opinion. An EEG and an appropriate neurological assessment should be performed after the acute episode.
+
+A person with a structural intra-cerebral lesion who has increased risk of seizures should not be able to drive vehicles of group 2 until the epilepsy risk has fallen to at least 2 % per annum. The assessment should be, if appropriate, in accordance with other relevant sections of Schedule 4A (e.g. in the case of alcohol).
+
+12.12. First or single unprovoked seizure: the applicant who has had a first unprovoked epileptic seizure can be declared able to drive once five years’ freedom from further seizures has been achieved without the aid of anti- epileptic drugs, if there has been an appropriate neurological assessment. National authorities may allow drivers with recognised good prognostic indicators to drive sooner.
 
 12.13. Other loss of consciousness: the loss of consciousness should be Assessed according to the risk of recurrence while driving. The risk of recurrence should be 2 % per annum or less.
 
@@ -326,7 +326,11 @@ Group 1:
 
 — severe mental disturbance, whether congenital or due to disease, trauma or neurosurgical operations,
 
-— severe mental retardation,
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] — severe mental retardation,
 
 — severe behavioural problems due to ageing; or personality defects leading to seriously impaired judgment, behaviour or adaptability, unless their application is supported by authorised medical opinion and, if necessary, subject to regular medical check-ups.
 
@@ -335,12 +339,6 @@ Group 2:
 13.2. The competent medical authority shall give due consideration to the additional risks and dangers involved in the driving of vehicles covered by the definition of this group.
 
 ALCOHOL
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 14. Alcohol consumption constitutes a major danger to road safety. In view of the scale of the problem, the medical profession must be very vigilant. Group 1:
 
@@ -360,6 +358,12 @@ Regular use:
 
 Group 1:
 
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
+
 15.1. Driving licences shall not be issued to, or renewed for, applicants or drivers who regularly use psychotropic substances, in whatever form, which can hamper the ability to drive safely where the quantities absorbed are such as to have an adverse effect on driving. This shall apply to all other medicinal products or combinations of medicinal products which affect the ability to drive.
 
 Group 2:
@@ -367,12 +371,6 @@ Group 2:
 15.2. The competent medical authority shall give due consideration to the additional risks and dangers involved in the driving of vehicles covered by the definitions of this group.
 
 RENAL DISORDERS
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 Group 1:
 
@@ -392,7 +390,11 @@ Group 2:
 
 17.2. The competent medical authority shall give due consideration to the additional risks and dangers involved in the driving of vehicles covered by the definition of this group.
 
-18. As a general rule, where applicants or drivers suffer from any disorder which is not mentioned in the preceding paragraph but is liable to be, or to result in, a functional incapacity affecting safety at the wheel, driving licences shall not be issued or renewed unless the application is supported by authorised medical opinion and, if necessary, subject to regular medical check-ups.
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] 18. As a general rule, where applicants or drivers suffer from any disorder which is not mentioned in the preceding paragraph but is liable to be, or to result in, a functional incapacity affecting safety at the wheel, driving licences shall not be issued or renewed unless the application is supported by authorised medical opinion and, if necessary, subject to regular medical check-ups.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
