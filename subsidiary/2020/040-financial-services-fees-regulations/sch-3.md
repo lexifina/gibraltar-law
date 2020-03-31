@@ -19,3 +19,5 @@ EIFs, ELTIFs 500 Notification of a material change (other than notification of n
 EIFs, Collective Investment Schemes 100
 
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
+
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040

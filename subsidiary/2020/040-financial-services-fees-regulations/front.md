@@ -8,7 +8,11 @@ LN.2020/040
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/139 Sch. 1 31.3.2020
+
+2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -24,6 +28,6 @@ SCHEDULE 3 OTHER FEES
 
 SCHEDULE 4 APPROVALS UNDER THE FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
-2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
 In exercise of the powers conferred on the Minister by sections 620, 624 and 627 of the Financial Services Act 2019 the Minister has made these Regulations–
