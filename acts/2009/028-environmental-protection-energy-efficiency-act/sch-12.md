@@ -62,15 +62,19 @@ Environmental Protection (Energy Efficiency)
 
 The economic analyses shall take into account all relevant economic effects.
 
-The competent authority may assess and take into account in decision making costs and energy savings from the increased flexibility in energy supply and from a more optimal operation of the electricity networks, including avoided costs and savings from reduced infrastructure investment, in the analysed scenarios.
+The competent authority may assess, and take into account in their decision-making, costs and energy savings from the increased flexibility in energy supply and from a more optimal operation of the electricity networks, including avoided costs and savings from reduced infrastructure investment, in the analysed scenarios.
 
-The costs and benefits taken into account shall include at least the following:
+The costs and benefits referred to in the first paragraph shall include at least the following:
 
 (i) Benefits
 
 - Value of output to the consumer (heat and electricity)
 
-- External benefits such as environmental and health benefits, to the extent possible (ii) Costs
+- External benefits such as environmental, greenhouse gas emissions and health and safety benefits, to the extent possible
+
+- Labour market effects, energy security and competitiveness, to the extent possible;
+
+(ii) Costs
 
 - Capital costs of plants and equipment
 
@@ -80,15 +84,11 @@ The costs and benefits taken into account shall include at least the following:
 
 - Energy costs
 
-- Environmental and health cost, to the extent possible
-
-(h) Sensitivity analysis:
-
 Environmental Protection (Energy Efficiency)
 
-2009-28 A sensitivity analysis shall be included to assess the costs and benefits of a project or group of projects based on different energy prices, discount rates and other variable factors having a significant impact on the outcome of the calculations.
+2009-28 - Environmental, health and safety costs, to the extent possible
 
-The competent authority must designate the competent authorities responsible for carrying out the cost-benefit analyses under section 13B. The competent authority may require the relevant authorities or operators of individual installations to carry out the economic and financial analysis. They shall provide the detailed methodologies and assumptions in accordance with this Schedule and establish and make public the procedures for the economic analysis.
+- Labour market costs, energy security and competitiveness, to the extent possible.
 
 Part 2 Principles for the purpose of section 13B(8), (9), (10) and (14)
 
@@ -102,13 +102,13 @@ The system boundary shall be set to include the planned installation and the hea
 
 Heat loads shall include existing heat loads, such as an industrial installation or an existing district heating system, and also, in urban areas, the heat load and costs that would exist if a group of buildings or part of a city were provided with and/or connected into a new district heating network.
 
-Environmental Protection (Energy Efficiency)
-
-2009-28
-
 The cost-benefit analysis shall be based on a description of the planned installation and the comparison installation(s), covering electrical and thermal capacity, as applicable, fuel type, planned usage and the number of planned operating hours annually, location and electricity and thermal demand.
 
-For the purpose of the comparison, the thermal energy demand and the types of heating and cooling used by the nearby heat demand points shall be taken into account. The comparison shall cover infrastructure related costs for the planned and comparison installation.
+For the purpose of the comparison, the thermal energy demand and the types of heating and cooling used by the nearby heat
+
+Environmental Protection (Energy Efficiency)
+
+2009-28 demand points shall be taken into account. The comparison shall cover infrastructure related costs for the planned and comparison installation.
 
 Cost-benefit analyses for the purposes of Article 14(5) shall include an economic analysis covering a financial analysis reflecting actual cash flow transactions from investing in and operating individual installations.
 

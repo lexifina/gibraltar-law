@@ -14,9 +14,11 @@ LN.  2014/090 ss. 1, 2, 3, 4, 5, 6-13, 13B-13I, 14, Schs. 1, 2, 3, 4, 5, 6, 7-17
 
 5.6.2014
 
-“ ss. 18-20 1.1.2017 2018/101 ss. 7(12)-(14), 8(6)-(8), 11(8)-(10) 3.5.2018
+“ ss. 18-20 1.1.2017 2018/101 ss. 7(12)-(14), 8(6)-(8), 11(8)-(10) 3.5.2018 2020/164 ss. 2(1)(a), (2), 3(1), 5(3), (4)(a), 6(1), (2)(a)-(i), (3)(d), (4)-(5), 9, 9A-9B, 13B(16), 13H(c)-(f), (3), 18(3), Schs. 7, 10, 10A, 12, 15
 
-Transposing: Directive 93/76/EEC Directive 2012/27/EU
+30.4.2020
+
+Transposing: Directive 93/76/EEC Directive 2012/27/EU Directive (EU) 2018/2002
 
 Environmental Protection (Energy Efficiency)
 
@@ -32,7 +34,7 @@ PART II ENERGY SAVINGS AND EFFICIENCY TARGETS
 
 PART III EFFICIENCY IN ENERGY USE
 
-6. Building renovation. 7. Exemplary role of public bodies’ buildings. 8. Purchasing by public bodies. 9. Energy efficiency obligation schemes. 10.  Energy audits and energy management systems. 11.  Metering. 12.  Billing information. 13.  Cost of access to metering and billing information. 13A.  Consumer information and empowering programme.
+6. Building renovation. 7. Exemplary role of public bodies’ buildings. 8. Purchasing by public bodies. 9. Energy savings obligation. 9A. Energy efficiency obligation schemes. 9B. Alternative policy measures. 10.  Energy audits and energy management systems. 11.  Metering. 12.  Billing information. 13.  Cost of access to metering and billing information. 13A.  Consumer information and empowering programme.
 
 PART IIIA EFFICIENCY IN ENERGY SUPPLY
 
@@ -40,11 +42,11 @@ PART IIIA EFFICIENCY IN ENERGY SUPPLY
 
 PART IIIB HORIZONTAL PROVISIONS
 
-13D.  Availability of qualification, accreditation and certification schemes. 13E.  Information and training. 13F.  Energy services. 13G.  Other measures to promote energy efficiency. 13H.  Energy Efficiency Fund, Financing and Technical Support. 13I.   Conversion factors.
+13D.  Availability of qualification, accreditation and certification schemes. 13E.  Information and training. 13F.  Energy services. 13G.  Other measures to promote energy efficiency.
 
 Environmental Protection (Energy Efficiency)
 
-2009-28
+2009-28 13H.  Energy Efficiency Fund, Financing and Technical Support. 13I.   Conversion factors.
 
 PART IV FINAL PROVISIONS
 
@@ -66,11 +68,17 @@ SCHEDULE 7 ENERGY CONTENT OF SELECTED FUELS FOR END USE – CONVERSION TABLE
 
 SCHEDULE 8 Common methods and principles for calculating the impact of energy efficiency obligations schemes or other policy measures under section 9(1) to (4) and (16) to (20) and section 13H(2)(c)
 
-SCHEDULE 9 Minimum criteria for energy audits including those carried out as part of energy management systems
+SCHEDULE 9
 
 Environmental Protection (Energy Efficiency)
 
-2009-28 SCHEDULE 10 Minimum requirements for billing and billing information based on actual consumption
+2009-28 Minimum criteria for energy audits including those carried out as part of energy management systems
+
+SCHEDULE 10 Minimum requirements for billing and billing information based on actual consumption of electricity and gas
+
+SCHEDULE 10A
+
+Minimum requirements for billing and consumption information for heating, cooling and domestic hot water.
 
 SCHEDULE 11 Potential for efficiency in heating and cooling
 

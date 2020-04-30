@@ -1,6 +1,6 @@
 SCHEDULE 7
 
-Sections 9(8) and (20) and 13I
+Sections 9A(6) and 13I
 
 ENERGY CONTENT OF SELECTED FUELS FOR END USE – CONVERSION TABLE
 
@@ -8,15 +8,13 @@ Energy commodity kj (NCV) kgoe (NCV) kWh  (NCV) 1 kg coke 28 500 0,676 7,917 1 k
 
 Environmental Protection (Energy Efficiency)
 
-2009-28
-
-Source: Eurostat.
+2009-28 Source: Eurostat.
 
 (1)  93% methne.
 
 (2)  The competent authority may apply other values depending on the type of wood most used in the respective Member State.
 
-(3)  Applicable when energy savings are calculated in primary energy terms using a bottom-up approach based on final energy consumption. For savings in kWh electricity the competent authority may apply a default coefficient of 2,5. The competent authority may apply a different coefficient provided they can justify it.
+(3)  Applicable when energy savings are calculated in primary energy terms using a bottom-up approach based on final energy consumption. For savings in kWh electricity, the competent authority shall apply a coefficient established through a transparent methodology on the basis of circumstances affecting primary energy consumption in Gibraltar, in order to ensure a precise calculation of real savings. Those circumstances shall be substantiated, verifiable and based on objective and non-discriminatory criteria. For savings in kWh electricity, the competent authority may apply a default coefficient of 2,1 or use the discretion to define a different coefficient, provided that the competent authority can justify it. When doing so, the competent authority shall take into account the energy mix included in its integrated national energy and climate plans to be notified to the Commission in accordance with Regulation (EU) 2018/1999.
 
 Environmental Protection (Energy Efficiency)
 

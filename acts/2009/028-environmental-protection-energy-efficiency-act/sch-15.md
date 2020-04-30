@@ -6,7 +6,7 @@ ENERGY EFFICIENCY REQUIREMENTS FOR TRANSMISSION SYSTEM OPERATORS AND DISTRIBUTIO
 
 Transmission system operators and distribution system operators shall–
 
-(a) set up and make public their standard rules relating to the bearing and sharing of costs of technical adaptations, such as grid connections and grid reinforcements, improved operation of the grid and rules on the non-discriminatory implementation of the grid codes, which are necessary in order to integrate new producers feeding electricity produced from high-efficiency cogeneration into the interconnected grid;
+(a) set up and make public their standard rules relating to the bearing and sharing of costs of technical adaptations, such as grid connections, grid reinforcements and the introduction of new grids, improved operation of the grid and rules on the non- discriminatory implementation of the grid codes, which are necessary in order to integrate new producers feeding electricity produced from high-efficiency cogeneration into the interconnected grid.
 
 (b) provide any new producer of electricity produced from high- efficiency cogeneration wishing to be connected to the system with the comprehensive and necessary information required, including:
 
