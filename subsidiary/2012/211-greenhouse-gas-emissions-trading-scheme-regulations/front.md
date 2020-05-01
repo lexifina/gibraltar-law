@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.  2014/141 rr. 3(1), 35A, Schs. 8, 10 & 12 31.7.2014 2015/168 Sch. 9 1.11.2015 2018/007 r. 3(1), Sch. 1 11.1.2018 2018/289 rr. 75A-75D 31.12.2018 2020/075 rr. 3(1), 7(9)-(10), 28(3), 37(4)(b), (5), (a)-(b), (5A)-(5D), 46(2A), (4)- (7), (9)-(10), 70(15), 74A
 
-13.2.2020
+13.2.2020 2020/075 r. 79 1.5.2020
 
 Transposing: Directive 2003/87/EC Directive 2004/101/EC Directive 2008/101/EC Directive 2009/29/EC Directive (EU) 2018/410
 
@@ -22,11 +22,13 @@ EU Legislation/International Agreements involved: Council and Decision No 280/20
 
 _______________________
 
+ARRANGEMENT OF REGULATIONS
+
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 ARRANGEMENT OF REGULATIONS
+Subsidiary 2012/211
 
 PART 1 GENERAL
 
@@ -56,9 +58,7 @@ Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211
-
-Chapter 2 Gibraltar administered operators and Gibraltar aircraft operators
+Subsidiary 2012/211 Chapter 2 Gibraltar administered operators and Gibraltar aircraft operators
 
 19. Gibraltar administered operators: power to designate. 20. Application to be designated as a Gibraltar administered operator. 21. Transfers of operators between Gibraltar and Member States. 22. Gibraltar aircraft operators.
 
@@ -84,13 +84,13 @@ PART 4 SURRENDER OF ALLOWANCES
 
 PART 5 ENFORCEMENT ETC.
 
-36. Enforcement notices.
+36. Enforcement notices. 37. Power to determine reportable emissions.
 
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 37. Power to determine reportable emissions.
+Subsidiary 2012/211
 
 PART 6 INFORMATION
 
@@ -110,13 +110,13 @@ regulation 46(1).
 
 PART 8 APPEALS
 
-64. Interpretation of Part. 65. Rights of appeal.
+64. Interpretation of Part. 65. Rights of appeal. 66. Rights of appeal: registries.
 
 Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211 66. Rights of appeal: registries. 67. Effect of an appeal. 68. Determination of an appeal.
+Subsidiary 2012/211 67. Effect of an appeal. 68. Determination of an appeal.
 
 PART 9 THE UNION REGISTRY AND THE GIBRALTAR REGISTRY
 
@@ -142,9 +142,7 @@ Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
 
 2005-27
 
-Subsidiary 2012/211
-
-SCHEDULE 5 Excluded installations
+Subsidiary 2012/211 SCHEDULE 5 Excluded installations
 
 SCHEDULE 6 Free allocation of allowances
 
