@@ -24,7 +24,7 @@ Income Tax
 
 2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019 2019/025 Sch. 1 7.2.2019 2020/056 Sch. 4 1.1.2020 2020/057 Sch. 4 1.1.2020 Act. 2020-06 Long Title, ss. 3(1), 3A-3E, 6C, 30A, 37(8A), 65G, 74, Sch.12
 
-23.3.2020 LN. 2020/128 Sch.12 23.3.2020
+23.3.2020 LN. 2020/128 Sch.12 23.3.2020 2020/176 ss. 10L, 10O(1)(b) 7.5.2020
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952
 
@@ -126,11 +126,11 @@ THE INCOME TAX TRIBUNAL
 
 Part 1- Administration
 
-1. Appointment of Tribunal. 2. Appointment of Clerk. 3. Personal interest. 4. Declaration.
+1. Appointment of Tribunal. 2. Appointment of Clerk. 3. Personal interest.
 
 Income Tax
 
-2010-21
+2010-21 4. Declaration.
 
 Part II- Procedure
 
@@ -164,7 +164,9 @@ Part II- Capital allowances.
 
 Income Tax
 
-2010-21 Chapter 1- General
+2010-21
+
+Chapter 1- General
 
 5. Capital allowances. 6. Interpretation.
 
@@ -200,11 +202,9 @@ ANTI-AVOIDANCE
 
 1. Anti-avoidance.
 
-Part I
-
 Income Tax
 
-2010-21
+2010-21 Part I
 
 Computation of profits or gains generally
 
@@ -242,7 +242,9 @@ EXIT TAXATION
 
 Income Tax
 
-2010-21 18A.
+2010-21
+
+18A.
 
 Part VI
 
@@ -268,11 +270,11 @@ Part II
 
 Taxation applicable to Interest and Royalty payments made between associated companies of different Member States
 
-4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption.
+4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary.
 
 Income Tax
 
-2010-21 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
+2010-21 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
 
 TABLE A
 
@@ -300,7 +302,9 @@ Part II-Taxation on companies who abuse a dominant position
 
 Income Tax
 
-2010-21 SCHEDULE 7
+2010-21
+
+SCHEDULE 7
 
 BENEFITS IN KIND
 
@@ -332,7 +336,9 @@ Chapter 5
 
 Income Tax
 
-2010-21 Cars, vans and related benefits
+2010-21
+
+Cars, vans and related benefits
 
 20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use. 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
 
@@ -350,7 +356,9 @@ Taxable benefits; residual liability to charge
 
 Income Tax
 
-2010-21 Chapter 8
+2010-21
+
+Chapter 8
 
 Exemptions; removal benefits and expenses.
 
@@ -364,11 +372,9 @@ Dispensations from obligations to report Benefits-in-kind
 
 Chapter 10
 
-Miscellaneous
-
 Income Tax
 
-2010-21
+2010-21 Miscellaneous
 
 79 Power to amend Schedule.
 
@@ -402,11 +408,11 @@ Part III
 
 Continuity of the law
 
-13. Continuity of the law. 14. Changes in the law.
+13. Continuity of the law.
 
 Income Tax
 
-2010-21 15. Subordinate legislation. 16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
+2010-21 14. Changes in the law. 15. Subordinate legislation. 16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
 
 SCHEDULE 10
 
