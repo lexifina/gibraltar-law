@@ -16,8 +16,6 @@ Calculation of BEAT COVID-19 Contribution.
 
 (4)  Any employer who submits more than one online application in the same calendar month within the Relevant Period shall be deemed to have amended their previous online application and replaced it with the most recent online application available.
 
-Appropriation 2019-18 Appropriation (Business Employee Assistance Terms COVID-19) Regulations 2020 2020/156
-
 (5)  Where an employer makes an application in respect of any Inactive Employee who is also a director or a shareholder of a body corporate, Government shall have a discretion to amend the hours claimed by such Inactive Employee on the basis of the application made and historical information available to the Income Tax Office and Department of Employment.
 
 Calculation of Self-Employed BEAT COVID-19 Payment.
@@ -36,8 +34,6 @@ Limits on amount of and availability period of BEAT COVID-19 Contribution and Se
 
 (4)  An Inactive Self-Employed Person shall only have a right to receive a Self-Employed BEAT COVID-19 Payment for each calendar month in the Relevant Period and such other period as the Minister, in consultation with the Leader of the Opposition unless it is not practicable to do so, may determine by notice in the Gazette.
 
-2019-18 Appropriation 2020/156 Appropriation (Business Employee Assistance Terms COVID-19) Regulations 2020
-
 (5)  The Minister, in consultation with the Leader of the Opposition unless it is not practicable to do so, may vary by notice in the Gazette—
 
 (a) the BEAT COVID-19 Hourly Rate;
@@ -45,5 +41,3 @@ Limits on amount of and availability period of BEAT COVID-19 Contribution and Se
 (b) the limit specified in subregulation (1) and (3);
 
 (c) the calendar month specified in subregulations (2) and (4).
-
-Appropriation 2019-18 Appropriation (Business Employee Assistance Terms COVID-19) Regulations 2020 2020/156
