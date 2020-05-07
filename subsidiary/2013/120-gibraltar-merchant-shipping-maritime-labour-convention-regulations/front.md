@@ -16,9 +16,11 @@ LN.  2014/159 Corrigenda
 
 2015/051 rr. 43A – 43E 31.3.2015 2018/163 rr. 2(1), 19(5)(a), 19A-19B, 29A, 32A-32S
 
-12.7.2018
+12.7.2018 2020/174 rr. 2(1), 32(5)(a), (6), 32B(1)(b), (3), 32D(3A), 32E(1)(b), (12), 32L(1A)-(1B), 32N(1A), (2A), 32Q(1A), (2), 32T
 
-Transposing: Directive 1999/63/EC Directive 2009/13/EC Directive 2013/54/EU
+7.5.2020
+
+Transposing: Directive 1999/63/EC Directive 2009/13/EC Directive 2013/54/EU Directive (EU) 2018/131
 
 EU Legislation/International Agreements involved: European Community Shipowners’ Associations (ECSA) and the European Transport Workers’ Federation (ETF) on the Maritime Labour Convention, 2006
 
@@ -64,13 +66,15 @@ PART VA: SECURITY AGAINST SHIPOWNER’S LIABILITY FOR DEATH OR LONG TERM DISABIL
 
 PART VB: SECURITY AGAINST THE ABANDONMENT OF SEAFARERS
 
-32K. Interpretation for Part VB. 32L. Abandonment. 32M. Abandonment security requirement applicable to all ships. 32N. Abandonment security. 32O. Consideration and payment of abandonment claims. 32P. Subrogation. 32Q. Duty to carry and display an abandonment security document. 32R. Termination of abandonment security effective only where notice given. 32S. Duty on shipowner to notify seafarers if abandonment security is to be terminated.
+32K. Interpretation for Part VB. 32L. Abandonment. 32M. Abandonment security requirement applicable to all ships. 32N. Abandonment security. 32O. Consideration and payment of abandonment claims. 32P. Subrogation. 32Q. Duty to carry and display an abandonment security document. 32R. Termination of abandonment security effective only where notice given. 32S. Duty on shipowner to notify seafarers if abandonment security is to be terminated. 32T. Savings and adjustments.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
 
 1995-13
 
-Subsidiary 2013/120 PART VI: INSPECTION AND CERTIFICATION
+Subsidiary 2013/120
+
+PART VI: INSPECTION AND CERTIFICATION
 
 33. Inspection of Gibraltar ships. 34. Issue of Maritime Labour Certificates to Gibraltar ships. 35. Inspection and certification of Gibraltar ships by Governments of other States. 36. Interim Maritime Labour Certificates for Gibraltar ships. 37. Survey and Certification of non-Gibraltar ships by the Maritime Administrator. 38. Duration and validity of Maritime Labour Certificates. 39. Declaration of Maritime Labour Compliance. 40. Appeals. 41. Documents to be carried on board and made available. 42. On-board and on-shore complaint procedure. 43. Documentation and complaint procedure for MLC ships.
 
