@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/005 ss.24(3)(g), 25(2)(a), 382, 344(1)-(3), 345(2), 346- 348A, 349(2)(a), (3)(a), (c), (7)(a)-(b), 350(1), 351- 351A, Sch.2, 8, 21, 24A, 28, 29
 
-15.1.2019 2020/053 Sch. 2 30.1.2020
+15.1.2019 2020/053 Sch. 2 30.1.2020 2020/175 s. 163(2)-(6), Sch. 28 7.5.2020
 
 _______________________________
 
@@ -74,11 +74,11 @@ Regulation of auditors
 
 Resolution functions
 
-26. GFSC as resolution authority. 27. Financial Services Resolution and Compensation Committee.
+26. GFSC as resolution authority.
 
 Financial Services 2019-26
 
-28. Operational independence of resolution functions. 29. References to resolution authority.
+27. Financial Services Resolution and Compensation Committee. 28. Operational independence of resolution functions. 29. References to resolution authority.
 
 Chief Executive
 
@@ -112,9 +112,9 @@ PART 5 CONFIDENTIALITY AND COOPERATION
 
 Interpretation
 
-45. Interpretation of Part 5.
-
 2019-26 Financial Services
+
+45. Interpretation of Part 5.
 
 Confidential information
 
@@ -196,8 +196,6 @@ Notification
 
 83. Notification of supervisory authorities.
 
-Financial Services 2019-26
-
 PART 8 REGULATED INDIVIDUALS
 
 Introduction
@@ -224,11 +222,11 @@ Notices and appeals
 
 103. Notice procedure and appeals.
 
+Financial Services 2019-26
+
 Duty to report to GFSC
 
 104. Duty to report to GFSC.
-
-2019-26 Financial Services
 
 Conduct of regulated individuals
 
@@ -258,9 +256,9 @@ Assessment procedure
 
 Objections and enforcement
 
-124. Objections to existing control. 125. Restriction notices. 126. Orders for sale of shares.
+2019-26 Financial Services
 
-Financial Services 2019-26
+124. Objections to existing control. 125. Restriction notices. 126. Orders for sale of shares.
 
 Notices of reductions of control of Gibraltar regulated firms
 
@@ -294,9 +292,9 @@ Inspectors
 
 Legal safeguards
 
-142. Self-incrimination. 143. Legal privilege. 144. Liens on documents. 145. Appeals.
+Financial Services 2019-26
 
-2019-26 Financial Services
+142. Self-incrimination. 143. Legal privilege. 144. Liens on documents. 145. Appeals.
 
 Offences
 
@@ -324,11 +322,11 @@ PART 12 DUTIES OF AUDITORS AND ACTUARIES
 
 Appointment of auditors and actuaries
 
+2019-26 Financial Services
+
 164. Appointment of auditors and actuaries.
 
 Information
-
-Financial Services 2019-26
 
 165. Access to books, etc. 166. Information given by auditor or actuary to the GFSC. 167. Information given by auditor or actuary to the GFSC: persons with close links. 168. Duty of auditor or actuary resigning, etc to give notice.
 
@@ -358,13 +356,13 @@ The Ombudsman
 
 180. Financial Services Ombudsman. 181. Appointment, etc. of Ombudsman. 182. Ombudsman’s functions.
 
+Financial Services 2019-26
+
 Excluded disputes
 
 183. Excluded disputes.
 
 Staff and delegation of functions
-
-2019-26 Financial Services
 
 184. Ombudsman’s Staff. 185. Delegation of functions. Obligations of financial service providers
 
@@ -392,11 +390,13 @@ CHAPTER 2 THE FUNDS
 
 The Funds
 
-198. Maintenance of funds. 199. Deposit Guarantee Fund. 200. Resolution Financing Fund. 201. Administration fund.
+198. Maintenance of funds. 199. Deposit Guarantee Fund.
+
+2019-26 Financial Services
+
+200. Resolution Financing Fund. 201. Administration fund.
 
 Penalties to be paid into funds
-
-Financial Services 2019-26
 
 202. Proceeds from administrative penalties.
 
@@ -428,11 +428,13 @@ Deposits covered by Scheme
 
 Compensation
 
-216. Calculating the repayable amount. 217. Repayment. 218. Currency. 219. Claims against the FSRCC. 220. Subrogation.
+216. Calculating the repayable amount. 217. Repayment. 218. Currency.
+
+Financial Services 2019-26
+
+219. Claims against the FSRCC. 220. Subrogation.
 
 Information for depositors
-
-2019-26 Financial Services
 
 221. Depositor information.
 
@@ -468,11 +470,11 @@ Group resolution.
 
 Power to require information.
 
+2019-26 Financial Services
+
 235. FSRCC’s power to require information.
 
 PART 16 INVESTOR COMPENSATION SCHEME
-
-Financial Services 2019-26
 
 Introduction
 
@@ -498,11 +500,11 @@ Voluntary participation
 
 258. Voluntary application to join scheme by branch of an EEA firm. 259. Enforcing compliance where participation is voluntary.
 
+Financial Services 2019-26
+
 Branches outside Gibraltar
 
 260. Gibraltar scheme to cover branches in default outside Gibraltar.
-
-2019-26 Financial Services
 
 Determining which investor compensation scheme pays
 
@@ -522,9 +524,11 @@ Miscellaneous provisions
 
 PART 17 RECOVERY AND RESOLUTION
 
-281. Overview. 282. Interpretation of Part 17. 283. Recovery and Resolution Regulations. 284. Gibraltar Resolution Authority. 285. Resolution authority’s powers. 286. Immunity of resolution authority. 287. Competent Ministry.
+281. Overview. 282. Interpretation of Part 17. 283. Recovery and Resolution Regulations. 284. Gibraltar Resolution Authority.
 
-Financial Services 2019-26
+2019-26 Financial Services
+
+285. Resolution authority’s powers. 286. Immunity of resolution authority. 287. Competent Ministry.
 
 PART 18 COLLECTIVE INVESTMENT SCHEMES
 
@@ -550,11 +554,11 @@ Power to impose conditions
 
 305. Power to impose conditions on authorised UCITS schemes. 306. Imposition of conditions under section 305: procedure.
 
+Financial Services 2019-26
+
 CHAPTER 4 AUTHORISATION OF NON-UCITS RETAIL SCHEMES
 
 Applications for authorisation
-
-2019-26 Financial Services
 
 307. Non-UCITS retail schemes: authorisation. 308. Application for authorisation of a non-UCITS retail scheme. 309. Authorisation of a non-UCITS retail scheme. 310. Determination of application: non-UCITS retail schemes. 311. Certificate of authorisation of a non-UCITS retail scheme. 312. Procedure when refusing authorisation: non-UCITS retail schemes.
 
@@ -578,11 +582,11 @@ CHAPTER 7 REGULATORY POWERS
 
 Intervention
 
-325. Intervention powers. 326. Certain grounds for intervention. 327. Suspension or revocation of authorisation or recognition. 328. Protection order. 329. Directions. 330. Directions: procedure. 331. Appointment of examiner.
+325. Intervention powers. 326. Certain grounds for intervention. 327. Suspension or revocation of authorisation or recognition.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
-332. Public statements.
+328. Protection order. 329. Directions. 330. Directions: procedure. 331. Appointment of examiner. 332. Public statements.
 
 Sanctions
 
@@ -612,11 +616,11 @@ Regulations
 
 345. Prospectus Regulations.
 
+Financial Services 2019-26
+
 Delegation by competent authority
 
 346. Delegation of electronic publication.
-
-2019-26 Financial Services
 
 Prospectuses
 
@@ -650,13 +654,11 @@ Obligation to disclose home State
 
 357. Disclosure of home State.
 
+2019-26 Financial Services
+
 Periodic information
 
-358. Integration of securities markets.
-
-Financial Services 2019-26
-
-359. Annual financial reports. 360. Half-yearly financial reports. 361. Report on payments to governments. 362. Exemptions.
+358. Integration of securities markets. 359. Annual financial reports. 360. Half-yearly financial reports. 361. Report on payments to governments. 362. Exemptions.
 
 Ongoing information
 
@@ -672,13 +674,11 @@ Supervision, sanctions and other measures
 
 PART 20 ACQUISITIONS
 
+Financial Services 2019-26
+
 Introduction
 
-385. Overview. 386. Scope.
-
-2019-26 Financial Services
-
-387. Interpretation of Part 20. 388. Competent authority. 389. Co-operation with authorities of EEA States.
+385. Overview. 386. Scope. 387. Interpretation of Part 20. 388. Competent authority. 389. Co-operation with authorities of EEA States.
 
 Conduct of bids, etc.
 
@@ -704,11 +704,9 @@ Introduction
 
 Market Abuse
 
-409. Insiders. 410. Insider dealing. 411. Disclosing inside information.
+2019-26 Financial Services
 
-Financial Services 2019-26
-
-412. Market manipulation.
+409. Insiders. 410. Insider dealing. 411. Disclosing inside information. 412. Market manipulation.
 
 Market abuse investigations
 
@@ -738,9 +736,9 @@ Procedure
 
 Suspension or removal by trading venue
 
-430. Suspension or removal from trading by trading venue operators. 431. GFSC’s obligations when trading venues suspend or remove financial instrument from trading.
+Financial Services 2019-26
 
-2019-26 Financial Services
+430. Suspension or removal from trading by trading venue operators. 431. GFSC’s obligations when trading venues suspend or remove financial instrument from trading.
 
 Suspension or removal in other EEA States
 
@@ -758,11 +756,11 @@ CHAPTER 2 TRANSFER OF GENERAL BUSINESS
 
 CHAPTER 3 TRANSFER OF LONG TERM BUSINESS
 
-448. Application of Chapter 3. 449. Disapplication of certain provisions: reinsurance undertakings. 450. Sanction of court required. 451. Notice of proposed transfer. 452. Obligation to comply with notice requirements. 453. Scheme reports. 454. Right to participate in proceedings. 455. Conditions for sanction of the court. 456. Appropriate certificates. 457. Certificates as to margin of solvency. 458. Certificates as to consultation. 459. Certificates as to consent.
+448. Application of Chapter 3. 449. Disapplication of certain provisions: reinsurance undertakings. 450. Sanction of court required. 451. Notice of proposed transfer. 452. Obligation to comply with notice requirements. 453. Scheme reports. 454. Right to participate in proceedings. 455. Conditions for sanction of the court.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
-460. Effect of order sanctioning transfer. 461. Limitation on rights to terminate etc. 462. Appointment of actuary in relation to reduction of benefits. 463. Rights of certain policy holders. 464. Notice of transfer of reinsurance contracts.
+456. Appropriate certificates. 457. Certificates as to margin of solvency. 458. Certificates as to consultation. 459. Certificates as to consent. 460. Effect of order sanctioning transfer. 461. Limitation on rights to terminate etc. 462. Appointment of actuary in relation to reduction of benefits. 463. Rights of certain policy holders. 464. Notice of transfer of reinsurance contracts.
 
 CHAPTER 4 GENERAL BUSINESS AND LONG TERM BUSINESS TRANSFERS OUTSIDE GIBRALTAR
 
@@ -784,11 +782,11 @@ Approval and mutual recognition
 
 Education, training and experience requirements
 
-479. Educational qualifications. 480. Examination of professional competence. 481. Test of theoretical knowledge. 482. Exemptions. 483. Practical training.
+479. Educational qualifications.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
-484. Qualification through long-term practical experience. 485. Combination of practical training and theoretical instruction.
+480. Examination of professional competence. 481. Test of theoretical knowledge. 482. Exemptions. 483. Practical training. 484. Qualification through long-term practical experience. 485. Combination of practical training and theoretical instruction.
 
 Continuing education
 
@@ -816,11 +814,13 @@ Fees and scope of audit
 
 Auditing standards and audit reporting
 
-503. Auditing standards. 504. Statutory audits of consolidated financial statements. 505. Audit reporting.
+503. Auditing standards.
+
+2019-26 Financial Services
+
+504. Statutory audits of consolidated financial statements. 505. Audit reporting.
 
 Quality assurance
-
-Financial Services 2019-26
 
 506. Quality assurance systems.
 
@@ -844,13 +844,11 @@ Audit Committee
 
 531. Audit committee.
 
+Financial Services 2019-26
+
 International aspects
 
-532. Approval of auditors from non-EEA countries as statutory auditors.
-
-2019-26 Financial Services
-
-533. Registration and oversight of non-EEA auditors and audit entities. 534. Derogation in the case of equivalence. 535. Cooperation with competent authorities from non-EEA State.
+532. Approval of auditors from non-EEA countries as statutory auditors. 533. Registration and oversight of non-EEA auditors and audit entities. 534. Derogation in the case of equivalence. 535. Cooperation with competent authorities from non-EEA State.
 
 Application of the Audit Regulation
 
@@ -878,11 +876,11 @@ Foreign insolvency practitioners
 
 551. Appointment of foreign insolvency practitioner. 552. Foreign insolvency practitioner not to act in Gibraltar. 553. Foreign insolvency practitioner as sole appointee.
 
+2019-26 Financial Services
+
 Insolvency Practitioners Regulations
 
 554. Insolvency Practitioners Regulations.
-
-Financial Services 2019-26
 
 PART 26 OCCUPATIONAL PENSIONS INSTITUTIONS
 
@@ -908,11 +906,13 @@ Intervention
 
 Sanctions
 
-572. Sanctions: general. 573. Administrative penalties. 574. Public statement. 575. Cease and desist order. 576. Prohibition order. 577. Sanctioning actions: procedure etc.
+572. Sanctions: general. 573. Administrative penalties. 574. Public statement. 575. Cease and desist order.
+
+Financial Services 2019-26
+
+576. Prohibition order. 577. Sanctioning actions: procedure etc.
 
 Professional secrecy and exchange of information
-
-2019-26 Financial Services
 
 578. Professional secrecy. 579. Use of confidential information. 580. European Parliament right of inquiry. 581. Exchange of information between authorities. 582. Transmission of information to central banks, monetary authorities and others. 583. Conditions for the exchange of information. 584. National provisions of a prudential nature.
 
@@ -936,11 +936,13 @@ Approval
 
 Procedure
 
-599. Applications in connection with approvals. 600. Notice procedure. 601. Procedure on suspension of a scheme’s approval. 602. Appeals.
+599. Applications in connection with approvals. 600. Notice procedure.
+
+2019-26 Financial Services
+
+601. Procedure on suspension of a scheme’s approval. 602. Appeals.
 
 Intervention
-
-Financial Services 2019-26
 
 603. Application to the Supreme Court.
 
@@ -974,9 +976,9 @@ Service
 
 619. Service of notices and documents.
 
-PART 29 ADDITIONAL REGULATION-MAKING POWERS.
+Financial Services 2019-26
 
-2019-26 Financial Services
+PART 29 ADDITIONAL REGULATION-MAKING POWERS.
 
 General powers: regulated activities, audits and insolvency
 
@@ -1004,9 +1006,9 @@ PART 31 FINAL PROVISIONS
 
 636. Data protection. 637. Continuity of the law. 638. Transitional provisions. 639. Repeals and revocations.
 
-SCHEDULE 1 Defined expressions and EU instruments
+2019-26 Financial Services
 
-Financial Services 2019-26
+SCHEDULE 1 Defined expressions and EU instruments
 
 SCHEDULE 2 Regulated activities
 
@@ -1036,13 +1038,11 @@ SCHEDULE 14 Regulated functions
 
 SCHEDULE 15 Significant influence: regulated firms
 
+Financial Services 2019-26
+
 SCHEDULE 16 Connected Persons
 
-SCHEDULE 17
-
-2019-26 Financial Services
-
-Financial Services Ombudsman
+SCHEDULE 17 Financial Services Ombudsman
 
 SCHEDULE 18 The FSRCC’S Part 15 Powers and Obligations
 
@@ -1070,6 +1070,6 @@ SCHEDULE 28 Transitional provisions
 
 SCHEDULE 29 Repeals and revocations
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 AN ACT TO PROVIDE FOR THE REGULATION OF FINANCIAL SERVICES AND MARKETS AND FIDUCIARY SERVICES; TO MAKE PROVISION IN RESPECT OF THE GIBRALTAR FINANCIAL SERVICES COMMISSION; TO ESTABLISH A FINANCIAL SERVICES OMBUDSMAN; TO MAKE PROVISION IN RESPECT OF A DEPOSIT GUARANTEE SCHEME, AN INVESTOR COMPENSATION SCHEME AND RECOVERY AND RESOLUTION ARRANGEMENTS AND THEIR FINANCING; TO PROVIDE FOR THE REGULATION OF THE LISTING OF SECURITIES, PROSPECTUSES AND TAKEOVERS; TO MAKE PROVISION IN RESPECT OF MARKET ABUSE; TO PROVIDE FOR THE CONTROL OF INSURANCE BUSINESS TRANSFERS; TO MAKE PROVISION IN RESPECT OF OCCUPATIONAL AND PERSONAL PENSION SCHEMES; TO PROVIDE FOR THE REGULATION OF AUDITORS AND INSOLVENCY PRACTITIONERS, AND FOR CONNECTED PURPOSES.

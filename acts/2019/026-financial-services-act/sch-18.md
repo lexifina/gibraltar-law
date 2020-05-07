@@ -36,7 +36,7 @@ Accounts and audit.
 
 (b) prepare in respect of each financial year a statement of accounts.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (2)  The FSRCC must arrange for its annual accounts to be audited.
 
@@ -72,4 +72,4 @@ Financial year.
 
 6.  The FSRCC’s financial year under Part 15 begins on 1st April in each year and ends on 31st March in the following year.
 
-2019-26 Financial Services
+Financial Services 2019-26

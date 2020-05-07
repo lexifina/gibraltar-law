@@ -28,7 +28,7 @@ Transitional provision in respect of Statutory auditors and audit firms.
 
 4.  A statutory auditor or audit firm that, immediately before Part 24 comes into operation, is approved or registered under the Financial Services (Auditors) Act 2009 is to be treated as if that approval or registration was granted by the GFSC under Part 24.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 Transitional provision in respect of insolvency practitioners.
 
@@ -40,13 +40,15 @@ Transitional provision in respect of outstanding applications.
 
 Transitional provision in respect of offences and enforcement activity.
 
-7.  Despite its repeal by this Act, a repealed enactment is to continue to have effect in connection with–
+7.(1)  Despite its repeal by this Act, a repealed enactment is to continue to have effect in connection with–
 
 (a) any investigation or proceedings in respect of an offence under the enactment which is alleged to have been or was committed before its repeal; or
 
-(b) any supervisory or enforcement activity by the GFSC in respect of any matter to which the enactment relates and which was brought to the GFSC’s attention before its repeal,
+(b) any supervisory or enforcement activity by the GFSC in respect of any matter to which the enactment relates and which was brought to the GFSC’s attention before its repeal.
 
-and, in particular, if any penalty or sanction is to be imposed for the offence or in relation to the matter, it must be determined in accordance with the provisions of the repealed enactment and not this Act.
+(2)  Any penalty to be imposed for an offence to which sub-paragraph (1)(a) applies must be determined in accordance with the provisions of the repealed enactment and not this Act.
+
+(3)  Any penalty or sanction to be imposed for a contravention of a repealed enactment as a consequence of supervisory or enforcement activity to which sub-paragraph (1)(b) applies must be determined in accordance with section 163.
 
 Transitional provision in respect of appeals.
 
@@ -60,9 +62,9 @@ Transitional provision in respect of appeals.
 
 (ii) after that date in accordance with paragraph 7,
 
-the appeal must be determined in accordance with the repealed enactment.
+2019-26 Financial Services
 
-Financial Services 2019-26
+the appeal must be determined in accordance with the repealed enactment.
 
 Transitional provision for firms without an individual performing a regulated function.
 
@@ -98,8 +100,8 @@ Acquired rights: regulated individuals
 
 (b) the satisfaction referred to in sub-paragraph (1)(b)(ii).
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (4)  Approval under this paragraph does not affect an individual’s liability for any contravention of a repealed enactment which occurred before Part 8 comes into operation.
 
-Financial Services 2019-26
+2019-26 Financial Services

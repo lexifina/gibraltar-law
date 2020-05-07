@@ -24,9 +24,9 @@ EEA firm
 
 (h) an investment firm (as defined in Article 4.1(1) of the MiFID 2 Directive) which has received authorisation under Article 8 from its home state regulator;
 
-Financial Services 2019-26
-
 (i) a management company (as defined in Article 2.1(b) of the UCITS Directive) which has received authorisation under Article 6 from its home state regulator;
+
+2019-26 Financial Services
 
 (j) an AIFM (as defined in Article 4.1(b) of the AIFM Directive) which is authorised in accordance with that Directive by its home state regulator; or
 
@@ -60,9 +60,9 @@ EEA authorisation
 
 3.  “EEA authorisation” means–
 
-2019-26 Financial Services
-
 (a) in relation to an EEA firm within paragraph (1)(g), registration with its home state regulator under Article 3 of the Insurance Distribution Directive;
+
+Financial Services 2019-26
 
 (b) in relation to any other EEA firm, authorisation granted to an EEA firm by its home state regulator for the purpose of the relevant Single Market Directive.
 
@@ -98,7 +98,7 @@ Part 3 Access to Markets, etc.
 
 (b) specified persons operating markets of a specified kind from an EEA State may provide arrangements to facilitate access to or trading on those markets by persons established in Gibraltar;
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (c) Gibraltar firms operating markets of a specified kind may provide arrangements to facilitate access to or trading on those markets by persons established in an EEA State;
 
@@ -106,4 +106,4 @@ Financial Services 2019-26
 
 (e) Gibraltar firms operating markets of a specified kind may not make use of a central counterparty or clearing or settlement arrangements in an EEA State.
 
-2019-26 Financial Services
+Financial Services 2019-26

@@ -66,7 +66,7 @@ debt securities (in Chapter 4 of Part 19):
 
 section 356
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 deposit (in Chapter 3 of Part 15):
 
@@ -148,7 +148,7 @@ key audit partner (in Part 24):
 
 section 473
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 market abuse (in Part 22):
 
@@ -230,7 +230,7 @@ section 176 (in Part 22):
 
 section 423
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 resolution procedure (in Part 14):
 
@@ -292,7 +292,7 @@ Part 2 References to EU Instruments
 
 “the Accounting Directive” means Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 “the ADR Directive” means Directive 2013/11/EU of the European Parliament and of the Council of 21 May 2013 on alternative dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC;
 
@@ -316,7 +316,7 @@ Part 2 References to EU Instruments
 
 “Directive 2007/14/EC” means Commission Directive 2007/14/EC of 8 March 2007 laying down detailed rules for the implementation of certain provisions of Directive 2004/109/EC on the harmonisation of transparency requirements in relation to
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 information about issuers whose securities are admitted to trading on a regulated market;
 
@@ -338,11 +338,13 @@ the “EBA Regulation” means Regulation (EU) No 1093/2010 of the European Parl
 
 “the E-Money Directive” means Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC;
 
-2019-26 Financial Services
+“the ESMA Regulation” means Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory
 
-“the ESMA Regulation” means Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC;
+Financial Services 2019-26
 
-“the ESRB Regulation” means Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro- prudential oversight of the financial system and establishing a European Systemic Risk Board;
+Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC;
+
+“the ESRB Regulation” means Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board;
 
 “EUMAR” means Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC;
 
@@ -360,11 +362,11 @@ the “EBA Regulation” means Regulation (EU) No 1093/2010 of the European Parl
 
 “the Insurance Distribution Directive” means Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution;
 
-Financial Services 2019-26
-
 “the Interchange Fees Regulation” means Regulation (EU) 2015/751 of the European Parliament and of the Council of 29 April 2015 on interchange fees for card-based payment transactions;
 
 “the Investor Compensation Scheme Directive” means Directive 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor compensation schemes;
+
+2019-26 Financial Services
 
 “the IORP 2 Directive” means Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs);
 
@@ -382,13 +384,11 @@ Financial Services 2019-26
 
 “the ODR Regulation” means Regulation (EU) No 524/2013 of the European Parliament and of the Council of 21 May 2013 on online dispute resolution for consumer disputes and amending Regulation (EC) No 2006/2004 and Directive 2009/22/EC;
 
-“the Payment Accounts Directive” means Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related
-
-2019-26 Financial Services
-
-to payment accounts, payment account switching and access to payment accounts with basic features;
+“the Payment Accounts Directive” means Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features;
 
 “the Payment Services Directive” means Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC;
+
+Financial Services 2019-26
 
 “the PRIIP Regulation” means Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs);
 
@@ -406,10 +406,12 @@ to payment accounts, payment account switching and access to payment accounts wi
 
 “the SFTR Regulation” means Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on the transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012;
 
-Financial Services 2019-26
-
 “the Takeover Bids Directive” means Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids;
 
-“the Transparency Directive” means Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC;
+“the Transparency Directive” means Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency
+
+2019-26 Financial Services
+
+requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC;
 
 “the UCITS Directive” means Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities.
