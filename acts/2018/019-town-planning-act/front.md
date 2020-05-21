@@ -2,15 +2,9 @@ Town Planning Act 2018
 
 Principal Act
 
-Act. No. 2018-19 Commencement (LN. 2019/191) 26.9.2019
+Act. No. 2018-19 Commencement (LN. 2019/191) 26.9.2019 Assent 1.8.2018
 
-Assent 1.8.2018
-
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2019/196 Sch. 1 26.9.2019
-
-2018-19 Town Planning
+Amending enactments Relevant current provisions Commencement date LN. 2019/196 Sch. 1 26.9.2019 2020/184 Sch. 1 21.5.2020
 
 ARRANGEMENT OF SECTIONS
 
@@ -44,8 +38,6 @@ Meaning of development
 
 Requirement for planning permission
 
-Town Planning 2018-19
-
 18. Full planning permission required for development. 19. Outline planning permission. 20. Permission to retain buildings or works or continued use of land. 21. Further information, etc.
 
 Publicity of applications
@@ -74,8 +66,6 @@ Appeals
 
 PART V
 
-2018-19 Town Planning
-
 Enforcement
 
 42. Breach of planning control. 43. Enforcement Notices. 44. Variation and withdrawal of an enforcement notice. 45. Appeal against an enforcement notice. 46. Execution and cost of works required by an enforcement notice. 47. Stoppage orders. 48. Appeal against stoppage order. 49. Offences.
@@ -100,19 +90,13 @@ PART VIII
 
 Miscellaneous
 
-65. Electronic communications. 66. Signature and authentication of documents. 67. Summary proceedings.
-
-Town Planning 2018-19
-
-68. Regulations. 69. Amendment of Schedules. 70. Saving. 71. Repeal. 72. Consequential amendments. 73. Transitional provisions.
+65. Electronic communications. 66. Signature and authentication of documents. 67. Summary proceedings. 68. Regulations. 69. Amendment of Schedules. 70. Saving. 71. Repeal. 72. Consequential amendments. 73. Transitional provisions.
 
 SCHEDULE 1 DEVELOPMENT AND PLANNING COMMISSION
 
 SCHEDULE 2 DEVELOPMENT APPEALS TRIBUNAL
 
 SCHEDULE 3 CONSEQUENTIAL AMENDMENTS
-
-2018-19 Town Planning
 
 AN ACT TO REVISE THE LAW GOVERNING PLANNING AND DEVELOPMENT AND FOR CONNECTED PURPOSES.
 

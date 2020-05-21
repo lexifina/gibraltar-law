@@ -30,8 +30,6 @@ Duties of members of the Tribunal.
 
 3.(1)  No member of the Tribunal shall take part in any proceedings in relation to any matter in which he has a personal interest.
 
-2018-19 Town Planning
-
 (2)  No member of the Tribunal shall disclose any information received in the course of his duties except in such cases as may be required by law.
 
 (3)  A member of the Tribunal responsible for any act or omission contrary to the provisions of subparagraph (2) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
@@ -58,9 +56,9 @@ Hearings.
 
 6.(1)  Hearings before the Tribunal shall be conducted in such manner as the members of the Tribunal consider most suitable for the clarification and determination of the issues before the Tribunal and generally to the just handling of the proceedings.
 
-(2)  Evidence before the Tribunal may be given orally or, if the Tribunal so directs, by affidavit or a statement made or recorded in a document, but at any stage of the hearing, the Tribunal may, on the application of any party or of its own motion, require the personal attendance as a witness of–
+(2)  Evidence before the Tribunal may be given orally or, if the Tribunal so directs, by affidavit or a statement made or recorded in a document, but at any stage of the hearing, the
 
-Town Planning 2018-19
+Tribunal may, on the application of any party or of its own motion, require the personal attendance as a witness of–
 
 (a) the maker of an affidavit;
 
@@ -94,8 +92,6 @@ Irregularity.
 
 10.  Any irregularity resulting from any failure to comply with any provision of this Schedule or with any direction given by the Tribunal before the Tribunal has reached its final determination, shall not of itself render the proceedings void.
 
-2018-19 Town Planning
-
 Form of notices.
 
 11.  Every notice required by this Schedule shall be in writing unless the members of the Tribunal authorise it to be given orally.
@@ -121,5 +117,3 @@ Public meetings.
 (b) the protection of the security of any premises or property; or
 
 (c) safeguarding confidential information.
-
-Town Planning 2018-19

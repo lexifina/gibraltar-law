@@ -36,8 +36,6 @@ Transport Act 1998.
 
 (i) “planning permit” with “full planning permission”; and
 
-2018-19 Town Planning
-
 (ii) “Town Planning Act” with “Town Planning Act 2018”.
 
 Communications Act 2006.
@@ -80,8 +78,6 @@ Environmental Protection (Trees) Act 2014.
 
 10.  The Environmental Protection (Trees) Act 2014 is amended-
 
-Town Planning 2018-19
-
 (a) in the “Arrangement of Sections”, in section 24, by substituting “Town Planning Act 1999” with “Town Planning Act 2018”;
 
 (b) in section 2 in the definition of “Commission” and “Tribunal” by substituting “Town Planning Act 1999” with “Town Planning Act 2018”;
@@ -109,8 +105,6 @@ Income Tax (Deduction of Approved Expenditure on Premises in Tax Deductible Prop
 (b) in rule 6(3)(e) by substituting “Town Planning Act 1999” with “Town Planning Act 2018”.
 
 Factories (Boreholes (Sites and Operations) Health and Safety) Regulations 1997.
-
-2018-19 Town Planning
 
 13.  The Factories (Boreholes (Sites and Operations) Health and Safety) Regulations 1997 are amended in Schedule 1 paragraphs 1(e)(i), 2(b)(i), 3(b)(i) and 4(b)(i) by deleting “(within the meaning of the Town Planning Act)”.
 
@@ -143,8 +137,6 @@ Income Tax Act 2010.
 20.  The Income Tax Act 2010 is amended in section 17(1) by substituting “Town Planning Act” with “Town Planning Act 2018”.
 
 Broadband Infrastructure Regulations 2015.
-
-Town Planning 2018-19
 
 21.  The Broadband Infrastructure Regulations 2015 are amended-
 

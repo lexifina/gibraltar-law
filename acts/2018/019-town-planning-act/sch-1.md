@@ -34,8 +34,6 @@ Membership of Commission.
 
 Chairman and Procedure.
 
-Town Planning 2018-19
-
 2.(1)  Subject to subparagraph (2), the Town Planner as chairman of the Commission shall preside at all meetings of the Commission.
 
 (2)  In the absence of the Town Planner, such other person as designated in writing by the Town Planner, after consultation with the Minister, may act as chairman of the Commission.
@@ -50,6 +48,10 @@ Town Planning 2018-19
 
 (7)  The decision of the majority of the members present and voting at any meeting shall be the decision of the Commission on any matter before it, and on an equality of votes the Chairman shall have an additional casting vote.
 
+(8)  Meetings of the Commission may be undertaken by means of video or tele-conferencing or such other means as may be directed by the Chairman.”
+
+(9)  Where meetings of the Commission are undertaken in accordance with subparagraph (8) voting members taking part in the video or teleconferencing or other means of meeting shall be deemed to be present at the meeting for the purposes of forming a quorum.
+
 Committees.
 
 3.(1)  The Commission may appoint committees, (which need not include members of the Commission), and delegate to any such committee, to such extent as the Minister may approve, any function conferred on the Commission.
@@ -62,13 +64,11 @@ Secretary.
 
 Public meetings.
 
-5.(1)  Subject to subparagraph (2), any meeting of the Commission relating to an application for planning permission shall be held in public.
+5.(1)  Subject to subparagraph (2) or (4), any meeting of the Commission relating to an application for planning permission shall be held in public.
 
-(2)  A meeting of the Commission shall only be held in private if, in the opinion of a majority of the Commission, it is necessary in the public interest of Gibraltar.
+(2)  A meeting of the Commission may be held in private if, in the opinion of a majority of the Commission, it is necessary in the public interest of Gibraltar.
 
 (3)  For the purposes of subparagraph (2), “public interest” includes–
-
-2018-19 Town Planning
 
 (a) in the interests of the security of Gibraltar;
 
@@ -76,8 +76,10 @@ Public meetings.
 
 (c) safeguarding confidential information.
 
+(4)  The Minister may direct that a meeting of the Commission be held in private if he is of the opinion that it is necessary on the grounds of public health.
+
+(5)  Minutes of meetings not held in public in accordance with subparagraph (4) shall be published by the Commission as soon as is practicable after such meeting has been held.
+
 No personal liability to attach to the Commission.
 
 6.  No personal liability shall attach to any member of the Commission in respect of anything done, suffered or omitted to be done in good faith and without negligence, in pursuance of their duties under the provisions of this Act or any other Act.
-
-Town Planning 2018-19
