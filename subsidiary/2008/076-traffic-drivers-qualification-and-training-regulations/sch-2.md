@@ -54,9 +54,9 @@ Subsidiary 2008/076
 
 8. normal place of residence, or postal address of the holder (optional);
 
-9. the (sub)categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
+9. the categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
 
-(e) the title “European Communities model” in the language or languages of the Member State issuing the card and the heading “driver qualification card” in the other official languages of the Community, printed in blue so as to form the background to the card:
+(e) the title “European Union model” in the language or languages of the Member State issuing the card and the heading “driver qualification card” in the other official languages of the Union, printed in blue so as to form the background to the card:
 
 tarjeta de cualificación del conductor
 
@@ -112,13 +112,11 @@ Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
 
 2005-26
 
-Subsidiary 2008/076
+Subsidiary 2008/076 Side 2 contains:
 
-Side 2 contains:
+(a) 9. the categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
 
-(a) 9. the (sub)categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
-
-10. the Community code provided for in regulation 11;
+10. the harmonised Union code, “95”, provided for in Annex I to Directive 2006/126/EC;
 
 11. a space reserved for the possible entry of essential administrative details or details relating to road safety (optional). If the details relate to a heading set out in this Schedule, such details must be preceded by the corresponding heading number;
 
@@ -137,3 +135,19 @@ The competent authority must ensure that the level of security of the card is at
 After consulting the Commission, the competent authority may add colours or markings, such as a bar code, national symbols and security features, without prejudice to the other provisions of this Schedule.
 
 In connection with the mutual recognition of cards, the bar code may not contain any information other than that already legibly appearing on the driver qualification card or which is essential for the card-issuing process.
+
+5.  Transitional Provisions.
+
+Driver qualification cards issued before 23 May 2020 shall be valid until their date of expiry.
+
+Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
+
+2005-26
+
+Subsidiary 2008/076 SCHEDULE 3
+
+Regulation 2
+
+CORRESPONDENCE TABLE FOR THE REFERENCES TO CERTAIN CATEGORIES  OF DRIVING LICENCES
+
+Reference in these Regulations Reference in the Traffic Act 2005 C + E CE C1 + E C1E D + E DE D1 + E D1E
