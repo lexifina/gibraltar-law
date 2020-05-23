@@ -18,9 +18,9 @@ Amending enactments Relevant current provisions Commencement date Act.   2011-18
 
 26.1.20161 “ ss. 2, 44, 44A-44F, 52(1)(a)(ii), (aa), (3), 94A-94L, 96(2), 97, 98A, 104
 
-20.4.20172 LN. 2017/096 ss. 2, 10(4)-(5), 14(4)-(8) 20.5.2018 Act. 2018-22 ss. 2, 2A 15.11.2018 LN. 2019/034 ss.83(6), 83A – C, 85(3), 85A 14.2.2019 2019/137 s. 59(Z1), (1) 11.7.2019
+20.4.20172 LN. 2017/096 ss. 2, 10(4)-(5), 14(4)-(8) 20.5.2018 Act. 2018-22 ss. 2, 2A 15.11.2018 LN. 2019/034 ss.83(6), 83A – C, 85(3), 85A 14.2.2019 2019/137 s. 59(Z1), (1) 11.7.2019 2020/191 ss. 31(1), (5A), 31B(c) 23.5.2020
 
-Transposing: Directive 2006/126/EC Directive 2014/46/EU
+Transposing: Directive 2006/126/EC Directive 2014/46/EU Directive (EU) 2018/645
 
 1 Notice of Commencement – LN. 2017/011 2 Notice of Commencement – LN. 2017/076 For Savings and Transitional Provisions please refer to s.24 of the Traffic (Amendment) Act 2016 (2016-21)
 
