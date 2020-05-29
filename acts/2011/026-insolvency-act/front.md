@@ -1,34 +1,30 @@
-Insolvency
-
-2011-26
-
-INSOLVENCY ACT 2011
+Insolvency Act 2011
 
 Principal Act
 
-Act. No. 2011-26 Commencement (LN. 2014/194) 1.11.2014
+Act. No. 2011-26 Commencement (LN. 2014/194) except ss.476 and 485(1)(a)
 
-ss. 476 and 485(1)(a) (LN. 2015/090) 1.9.20151
+1.11.2014
+
+ss.476 and 485(1)(a) (LN.2015/090) 1.9.20151
 
 Assent 7.9.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-Act.  2014-20 ss. 1A, 2(1), 8(2)(b), 13(7), 18(4), 21(4), 28(2), 30(5), 40(2), 47, 48(2), 50(1), 61(c), 68(7), 75(5)(b), (7), 91(1), (7), 92(7), 99(1)(c), (d), 103(3), (5), 121(7), 132(3)(b), 135(4), 136(3), 150(1)(j), (2), 170(3), 184, 188, 200, 227(10), 229(1A), (4), (5), 230, 235(1), 236(1), 242(2), 263, 263A-263E, 270(d)(i), (f), 272(2), 273(4), 278(1), 298(5), 309(2)(a)(ii), (c), 337(5), 403(2), 416(8), 419A, 444(2), 459(4), 475, 476(1)(b), 477(1), (2), (3), 478(1), (2), 480(2), 481(1), (2), (3), (5), (6), (7), 482(1), (2), 483, 484, 485(1)(b), 486(d)-(j), 487, 488(1), (1A), (2), 488A, 491(1), (2), 496(1), (2), 497(1), (2)
+Act. 2014-20 ss. 1A, 2(1), 8(2)(b), 13(7), 18(4), 21(4), 28(2), 30(5), 40(2), 47, 48(2), 50(1), 61(c), 68(7), 75(5)(b), (7), 91(1), (7), 92(7), 99(1)(c), (d), 103(3), (5), 121(7), 132(3)(b), 135(4), 136(3), 150(1)(j), (2), 170(3), 184, 188, 200, 227(10), 229(1A), (4), (5), 230, 235(1), 236(1), 242(2), 263, 263A-263E, 270(d)(i), (f), 272(2), 273(4), 278(1), 298(5), 309(2)(a)(ii), (c), 337(5), 403(2), 416(8), 419A, 444(2), 459(4), 475, 476(1)(b), 477(1), (2), (3), 478(1), (2), 480(2), 481(1), (2), (3), (5), (6), (7), 482(1), (2), 483, 484, 485(1)(b), 486(d)-(j), 487, 488(1), (1A), (2), 488A, 491(1), (2), 496(1), (2), 497(1), (2)
 
-1.11.2014
+1.11.2014 2020-07 ss. 500-519 29.5.2020
 
 1 LN. 2015/049 superceded by LN. 2015/090
 
-Insolvency
+ARRANGEMENT OF SECTIONS
 
-2011-26 ARRANGEMENT OF SECTIONS
+Section
 
 PART 1
 
 PRELIMINARY
-
-Section
 
 1. Title and commencement. 1A. Application of Act to collateral arrangements and collateral securities etc. 2. Interpretation. 3. Companies and individuals subject to insolvency proceedings. 4. Unauthorised financial services business. 5. Meaning of “director”, “directors” and “shadow director”. 6. Definition of “liability”. 7. Provable debts. 8. Liabilities that are not provable debts and postponed debts. 9. Definition of “creditor” and “secured creditor”. 10. Definition of “insolvent”. 11. Public documents.
 
@@ -42,11 +38,9 @@ Preliminary
 
 Creditors’ Meeting
 
-23. Calling of creditors’ meeting. 24. Interim supervisor may require persons to attend creditors’ meeting. 25. Attendance of members and directors at meetings. 26. Business to be conducted at creditors’ meeting. 27. Amendment or withdrawal of proposal at creditors’ meeting.
+23. Calling of creditors’ meeting. 24. Interim supervisor may require persons to attend creditors’ meeting. 25. Attendance of members and directors at meetings. 26. Business to be conducted at creditors’ meeting.
 
-Insolvency
-
-2011-26 28. Interim supervisor to report on outcome of creditors’ meeting. 29. Notice of appointment. 30. Effect of approval of proposal. 31. Supervisor’s functions and powers. 32. Supervisor’s duty to keep financial records. 33. Supervisor to prepare and send out regular accounts and reports. 34. Completion or premature termination of arrangement.
+27. Amendment or withdrawal of proposal at creditors’ meeting. 28. Interim supervisor to report on outcome of creditors’ meeting. 29. Notice of appointment. 30. Effect of approval of proposal. 31. Supervisor’s functions and powers. 32. Supervisor’s duty to keep financial records. 33. Supervisor to prepare and send out regular accounts and reports. 34. Completion or premature termination of arrangement.
 
 Modification of Arrangement
 
@@ -70,11 +64,9 @@ Preliminary
 
 Appointment of Administrator by Holder of Floating Charge
 
-48. Holder of floating charge may appoint administrator. 49. Restrictions on power to appoint. 50. Notice to Court of appointment. 51. Commencement and effect of administration, appointment by holder of floating charge. 52. Notification and advertisement of administration. 53. Indemnity for invalid appointment. 54. Application of sections 65 to 96.
+48. Holder of floating charge may appoint administrator. 49. Restrictions on power to appoint. 50. Notice to Court of appointment. 51. Commencement and effect of administration, appointment by holder of floating charge. 52. Notification and advertisement of administration.
 
-Insolvency
-
-2011-26
+53. Indemnity for invalid appointment. 54. Application of sections 65 to 96.
 
 Administration Order
 
@@ -94,11 +86,7 @@ Investigation of Company’s Affairs
 
 Conduct of Administration
 
-85. Meetings of creditors. 86. Administrator’s duty to keep accounting records.
-
-Insolvency
-
-2011-26 87. Administrator to prepare and send out regular accounts and reports.
+85. Meetings of creditors. 86. Administrator’s duty to keep accounting records. 87. Administrator to prepare and send out regular accounts and reports.
 
 Appointment, Remuneration and Release of Administrator
 
@@ -118,11 +106,9 @@ RECEIVERSHIP
 
 Preliminary
 
-97. Scope of this Part. 98. References to a “company”. 99. Persons not eligible to be appointed or act as receiver. 100. Appointment of joint receivers. 101. Notice of appointment. 102. Notification of receivership on public documents. 103. Vacation of office. 104. Assistance to be provided by receiver vacating office. 105. Resignation of receiver. 106. Removal of receiver. 107. Co-operation with receiver. 108. Duty to report to Commission. 109. Agency. 110. Powers of receiver, other than administrative receiver. 111. General duties of receivers. 112. Powers of sale and proceeds of sale. 113. Liability of receivers. 114. Payment of debts out of assets subject to a floating charge. 115. Court directions. 116. Remuneration and expenses of receivers. 117. Accounting records.
+97. Scope of this Part. 98. References to a “company”. 99. Persons not eligible to be appointed or act as receiver. 100. Appointment of joint receivers. 101. Notice of appointment. 102. Notification of receivership on public documents. 103. Vacation of office. 104. Assistance to be provided by receiver vacating office. 105. Resignation of receiver. 106. Removal of receiver. 107. Co-operation with receiver. 108. Duty to report to Commission. 109. Agency. 110. Powers of receiver, other than administrative receiver. 111. General duties of receivers.
 
-Insolvency
-
-2011-26 118. Receivership accounts to be filed with Registrar. 119. Enforcement of duty to make returns. 120. Completion of receivership. 121. Release of Court appointed receiver.
+112. Powers of sale and proceeds of sale. 113. Liability of receivers. 114. Payment of debts out of assets subject to a floating charge. 115. Court directions. 116. Remuneration and expenses of receivers. 117. Accounting records. 118. Receivership accounts to be filed with Registrar. 119. Enforcement of duty to make returns. 120. Completion of receivership. 121. Release of Court appointed receiver.
 
 Receivers Appointed out of Court
 
@@ -146,9 +132,7 @@ Preliminary
 
 144. Scope of this Part and jurisdiction. 145. Commencement and duration of liquidation.
 
-Insolvency
-
-2011-26 Appointment of Liquidator by Members
+Appointment of Liquidator by Members
 
 146. Members’ resolution. 147. Restrictions on appointment of liquidator by members. 148. Notice to liquidator.
 
@@ -170,11 +154,7 @@ Notice of Appointment and Initial Meeting of Creditors
 
 Liquidators
 
-175. Status of liquidator.
-
-Insolvency
-
-2011-26 176. General duties of liquidator. 177. General powers of liquidator. 178. Removal of liquidator. 179. Resignation of liquidator. 180. Appointment of replacement liquidator. 181. Remuneration of liquidator. 182. Notification of liquidation on public documents. 183. Vesting of assets in liquidator.
+175. Status of liquidator. 176. General duties of liquidator. 177. General powers of liquidator. 178. Removal of liquidator. 179. Resignation of liquidator. 180. Appointment of replacement liquidator. 181. Remuneration of liquidator. 182. Notification of liquidation on public documents. 183. Vesting of assets in liquidator.
 
 Liability of Members and Former Members
 
@@ -182,7 +162,9 @@ Liability of Members and Former Members
 
 Claims
 
-198. Distribution of assets of company. 199. Sums due to members. 200. Claims having priority over floating charges. 201. Claims by unsecured creditors. 202. Variation , withdrawal and expunging of claims. 203. Claims by secured creditors. 204. Redemption of security interest by liquidator. 205. Realisation of security interest by secured creditor. 206. Surrender for non-disclosure. 207. Interest after commencement of liquidation.
+198. Distribution of assets of company. 199. Sums due to members. 200. Claims having priority over floating charges. 201. Claims by unsecured creditors. 202. Variation, withdrawal and expunging of claims. 203. Claims by secured creditors. 204. Redemption of security interest by liquidator.
+
+205. Realisation of security interest by secured creditor. 206. Surrender for non-disclosure. 207. Interest after commencement of liquidation.
 
 Distributions
 
@@ -190,11 +172,7 @@ Distributions
 
 Disclaimer
 
-209. Liquidator may disclaim onerous property. 210. When disclaimer takes effect.
-
-Insolvency
-
-2011-26 211. Notice to liquidator to elect whether to disclaim. 212. Effect of disclaimer. 213. Vesting orders and orders for delivery. 214. Vesting orders in respect of leases. 215. Land subject to rentcharge. 216. Disclaimer presumed valid.
+209. Liquidator may disclaim onerous property. 210. When disclaimer takes effect. 211. Notice to liquidator to elect whether to disclaim. 212. Effect of disclaimer. 213. Vesting orders and orders for delivery. 214. Vesting orders in respect of leases. 215. Land subject to rentcharge. 216. Disclaimer presumed valid.
 
 Investigation of Assets and Affairs of Company
 
@@ -212,7 +190,9 @@ PART 7
 
 LIQUIDATION OF UNREGISTERED COMPANIES
 
-229. Grounds for appointment of liquidator of unregistered company. 230. Part 6 to apply subject to Rules.
+229. Grounds for appointment of liquidator of unregistered company.
+
+230. Part 6 to apply subject to Rules.
 
 PART 8
 
@@ -222,9 +202,7 @@ General
 
 231. Interpretation. 232. Application to Court concerning office holder. 233. Company’s books. 234. Order to deliver assets and documents.
 
-Insolvency
-
-2011-26 Statement of Affairs
+Statement of Affairs
 
 235. Notice to be given by office holder. 236. Statement of Affairs. 237. Affidavit of concurrence. 238. Release from duty to submit statement of affairs. 239. Application for order of limited disclosure.
 
@@ -244,17 +222,15 @@ PART 9
 
 VOIDABLE TRANSACTIONS
 
-248. Interpretation for this Part. 249. Unfair preferences. 250. Undervalue transactions. 251. Voidable floating charges. 252. Extortionate credit transactions. 253. Orders in respect of voidable transactions. 254. Limitations on orders under section 253. 255. Recoveries. 256. Remedies not exclusive.
+248. Interpretation for this Part. 249. Unfair preferences.
+
+250. Undervalue transactions. 251. Voidable floating charges. 252. Extortionate credit transactions. 253. Orders in respect of voidable transactions. 254. Limitations on orders under section 253. 255. Recoveries. 256. Remedies not exclusive.
 
 PART 10
 
 MALPRACTICE
 
-257. Interpretation for this Part. 258. Summary remedy against delinquent officers and others. 259. Fraudulent trading. 260. Insolvent trading.
-
-Insolvency
-
-2011-26 261. Recoveries under sections 259 and 260. 262. Ancillary orders. 263. Fraudulent conduct. 263A.  Malpractice in anticipation, and after commencement, of liquidation. 263B.  Misconduct in course of liquidation. 263C.  Falsification of company’s books by member. 263D.  Material omissions from statement relating to company’s affairs. 263E.  False representations to creditors. 264. Restriction on re–use of company names. 265. Personal liability for debts, following contravention of section 264.
+257. Interpretation for this Part. 258. Summary remedy against delinquent officers and others. 259. Fraudulent trading. 260. Insolvent trading. 261. Recoveries under sections 259 and 260. 262. Ancillary orders. 263. Fraudulent conduct. 263A.  Malpractice in anticipation, and after commencement, of liquidation. 263B.  Misconduct in course of liquidation. 263C.  Falsification of company’s books by member. 263D.  Material omissions from statement relating to company’s affairs. 263E.  False representations to creditors. 264. Restriction on re–use of company names. 265. Personal liability for debts, following contravention of section 264.
 
 PART 11
 
@@ -273,10 +249,6 @@ Preliminary
 Proposal and Appointment
 
 282. Proposal. 283. Procedure for proposal. 284. Notification of appointment of interim supervisor. 285. Functions of interim supervisor and power to obtain information. 286. Amendment of proposal before creditors’ meeting.
-
-Insolvency
-
-2011-26
 
 Moratorium
 
@@ -302,9 +274,7 @@ Applications to Court
 
 309. Appointment of interim supervisor or supervisor by Court. 310. Application in respect of moratorium. 311. Application where arrangement approved or modified. 312. Application on grounds of unfair prejudice or material irregularity.
 
-Insolvency
-
-2011-26 Miscellaneous
+Miscellaneous
 
 313. Register of arrangements. 314. Deeds of Arrangement Act disapplied.
 
@@ -322,7 +292,9 @@ Preliminary
 
 Application for and Making of Bankruptcy Order
 
-320. Grounds for making bankruptcy order. 321. Persons who may apply for a bankruptcy order. 322. Consolidation of applications. 323. Leave required to withdraw application. 324. Application by debtor. 325. Creditor’s application. 326. Substitution of applicant. 327. Application by secured creditor. 328. Secured creditor failing to disclose security interest. 329. Hearing of creditor’s application. 330. Application where individual voluntary arrangement in place. 331. Court’s powers on hearing of application for bankruptcy order. 332. Appointment of bankruptcy trustee. 333. Period within which application shall be determined.
+320. Grounds for making bankruptcy order. 321. Persons who may apply for a bankruptcy order. 322. Consolidation of applications. 323. Leave required to withdraw application. 324. Application by debtor. 325. Creditor’s application.
+
+326. Substitution of applicant. 327. Application by secured creditor. 328. Secured creditor failing to disclose security interest. 329. Hearing of creditor’s application. 330. Application where individual voluntary arrangement in place. 331. Court’s powers on hearing of application for bankruptcy order. 332. Appointment of bankruptcy trustee. 333. Period within which application shall be determined.
 
 Interim Receiver
 
@@ -330,9 +302,7 @@ Interim Receiver
 
 Effect of Bankruptcy
 
-Insolvency
-
-2011-26 339. Effect of bankruptcy order. 340. Power to stay or restrain proceedings.
+339. Effect of bankruptcy order. 340. Power to stay or restrain proceedings.
 
 Bankrupt’s Estate
 
@@ -344,7 +314,9 @@ Bankrupt’s and Matrimonial Home
 
 Bankruptcy Trustee
 
-356. Bankruptcy trustee officer of Court. 357. General duties of trustee. 358. Powers of trustee. 359. Notice of appointment. 360. Appointment of trustee in place of Official Receiver. 361. Removal of trustee. 362. Resignation of trustee. 363. Appointment of replacement trustee. 364. Remuneration of trustee. 365. General control of trustee by the Court.
+356. Bankruptcy trustee officer of Court. 357. General duties of trustee. 358.
+
+Powers of trustee. 359. Notice of appointment. 360. Appointment of trustee in place of Official Receiver. 361. Removal of trustee. 362. Resignation of trustee. 363. Appointment of replacement trustee. 364. Remuneration of trustee. 365. General control of trustee by the Court.
 
 Administration by Trustee
 
@@ -352,11 +324,7 @@ Administration by Trustee
 
 Claims and Distribution of Estate
 
-367. Distribution of bankrupt’s estate. 368. Debts to spouse. 369. Claims by unsecured creditors. 370. Variation, withdrawal and expunging of claims.
-
-Insolvency
-
-2011-26 371. Claims by secured creditors. 372. Redemption of security interest by trustee. 373. Realisation of security interest by secured creditor. 374. Surrender for non-disclosure. 375. Interest after commencement of bankruptcy. 376. Distribution by means of dividend. 377. Claims by unsatisfied creditors. 378. Distribution of assets in specie. 379. Final distribution. 380. No action for dividend. 381. Right of bankrupt to surplus. 382. Final Meeting.
+367. Distribution of bankrupt’s estate. 368. Debts to spouse. 369. Claims by unsecured creditors. 370. Variation, withdrawal and expunging of claims. 371. Claims by secured creditors. 372. Redemption of security interest by trustee. 373. Realisation of security interest by secured creditor. 374. Surrender for non-disclosure. 375. Interest after commencement of bankruptcy. 376. Distribution by means of dividend. 377. Claims by unsatisfied creditors. 378. Distribution of assets in specie. 379. Final distribution. 380. No action for dividend. 381. Right of bankrupt to surplus. 382. Final Meeting.
 
 Prior Transactions
 
@@ -364,7 +332,9 @@ Prior Transactions
 
 General Powers of Court
 
-387. General control of Court. 388. Power of arrest. 389. Seizure of bankrupt's assets. 390. Re-direction of bankrupt's mail.
+387. General control of Court.
+
+388. Power of arrest. 389. Seizure of bankrupt's assets. 390. Re-direction of bankrupt's mail.
 
 Disclaimer
 
@@ -372,11 +342,7 @@ Disclaimer
 
 Investigation of Bankrupt’s Affairs
 
-399. Statement of assets and liabilities. 400. Preliminary report. 401. Duty of Official Receiver concerning report under section 400. 402. Application for examination of bankrupt and others. 403. Order for examination. 404. Conduct of examination. 405. Examinee shall answer questions put to him.
-
-Insolvency
-
-2011-26 406. Examinee failing to appear for his examination. 407. Court's enforcement powers.
+399. Statement of assets and liabilities. 400. Preliminary report. 401. Duty of Official Receiver concerning report under section 400. 402. Application for examination of bankrupt and others. 403. Order for examination. 404. Conduct of examination. 405. Examinee shall answer questions put to him. 406. Examinee failing to appear for his examination. 407. Court's enforcement powers.
 
 Discharge and Annulment of Bankruptcy
 
@@ -398,9 +364,7 @@ BANKRUPTCY OFFENCES
 
 PART 15
 
-Insolvency
-
-2011-26 VOIDABLE TRANSACTIONS
+VOIDABLE TRANSACTIONS
 
 433. Interpretation for this Part. 434. Unfair preferences. 435. Undervalue transactions. 436. Voidable general assignment of book debts. 437. Extortionate credit transactions. 438. Orders in respect of voidable transactions. 439. Limitations on orders under section 438. 440. Recoveries. 441. Remedies not exclusive.
 
@@ -408,7 +372,9 @@ PART 16
 
 BANKRUPTCY RESTRICTIONS ORDERS AND UNDERTAKINGS
 
-442. Interpretation for this Part. 443. Bankruptcy restrictions orders and undertakings. 444. Application for and hearing of application for bankruptcy restrictions order. 445. Duration of bankruptcy restrictions order. 446. Interim bankruptcy restrictions order. 447. Bankruptcy restrictions undertaking. 448. Variation of disqualification order or undertaking. 449. Offence provisions. 450. Official Receiver to appear on certain applications. 451. Register of disqualification orders. 452. Annulment of bankruptcy order.
+442. Interpretation for this Part. 443. Bankruptcy restrictions orders and undertakings. 444. Application for and hearing of application for bankruptcy restrictions order. 445. Duration of bankruptcy restrictions order. 446. Interim bankruptcy restrictions order.
+
+447. Bankruptcy restrictions undertaking. 448. Variation of disqualification order or undertaking. 449. Offence provisions. 450. Official Receiver to appear on certain applications. 451. Register of disqualification orders. 452. Annulment of bankruptcy order.
 
 PART 17
 
@@ -420,23 +386,19 @@ Preliminary
 
 Creditors’ Committee
 
-454. Establishment of creditors’ committee. 455. Notice of establishment of committee. 456. Functions and powers of creditors’ committee. 457. Composition of committee and eligibility to act. 458. Committee member’s designated representative. 459. Resignation and termination of committee member. 460. Vacancies and appointment of new members.
-
-Insolvency
-
-2011-26 461. Proceedings of creditors’ committee. 462. Members dealing with company. 463. Formal defects.
+454. Establishment of creditors’ committee. 455. Notice of establishment of committee. 456. Functions and powers of creditors’ committee. 457. Composition of committee and eligibility to act. 458. Committee member’s designated representative. 459. Resignation and termination of committee member. 460. Vacancies and appointment of new members. 461. Proceedings of creditors’ committee. 462. Members dealing with company. 463. Formal defects.
 
 Remuneration
 
-464. Remuneration of administrator, liquidator or bankruptcy trustee. 465. Application by creditors for  reduction of remuneration.
-
-466. General principles to be applied in fixing remuneration. 467. Time for fixing remuneration and interim payments.
+464. Remuneration of administrator, liquidator or bankruptcy trustee. 465. Application by creditors for reduction of remuneration. 466. General principles to be applied in fixing remuneration. 467. Time for fixing remuneration and interim payments.
 
 PART 18
 
 OFFICIAL RECEIVER
 
-468. Appointment of Official Receiver. 469. Deputy Official Receiver and staff. 470. Official Receiver as officer of the Court. 471. Functions of Official Receiver. 472. Right of audience. 473. Application of this Act to Official Receiver.
+468. Appointment of Official Receiver. 469. Deputy Official Receiver and staff. 470. Official Receiver as officer of the Court. 471. Functions of Official Receiver. 472. Right of audience.
+
+473. Application of this Act to Official Receiver.
 
 PART 19
 
@@ -454,9 +416,7 @@ Control of Licensees and Enforcement
 
 480. Production of accounts and records. 481. Suspension and revocation of licence. 482. Right to make representations. 483. Directives.
 
-Insolvency
-
-2011-26 Obligations of Licensees
+Obligations of Licensees
 
 484. Filing of returns and other documents.
 
@@ -474,18 +434,18 @@ MISCELLANEOUS PROVISIONS
 
 490. Appointment of 2 or more office holders. 491. Specified forms. 492. Notices. 493. Time. 494. Resolutions. 495. Insolvency Rules. 496.  Insolvent Partnerships Regulations. 497.  Insolvent Estates Regulations. 498. Offences by corporate bodies. 499. Transitional provisions.
 
+PART 21
+
+TEMPORARY PROVISIONS
+
+500. Interpretation. 501. Moratorium period. 502. Holder of floating charge may appoint administrator. 503. Application for administration order. 504. Statutory demand. 505. Application for order appointing liquidator of company. 506. Unregistered companies. 507. Additional measures applicable during the moratorium period. 508. Unfair Preferences. 509. Voidable Floating Charges. 510. Summary remedy against delinquent officers. 511. Fraudulent trading. 512. Insolvent trading. 513. Persons who may apply for a bankruptcy order. 514. Dealing with assets obtained on credit. 515. Rash and hazardous speculations. 516. Unfair Preferences by an individual. 517. Application of this Part to unregistered companies and Other Relevant Entities. 518. Minister’s Regulation making power. 519. Common law.
+
 SCHEDULE 1 Powers of administrator and administrative receiver
 
 SCHEDULE 2 Powers of liquidator
 
 SCHEDULE 3 Powers of bankruptcy trustee
 
-Insolvency
-
-2011-26
-
-Insolvency
-
-2011-26 AN ACT TO PROVIDE FOR THE ADMINISTRATION, RECEIVERSHIP AND LIQUIDATION OF COMPANIES AND THE BANKRUPTCY OF INDIVIDUALS, TO ENABLE COMPANIES AND INDIVIDUALS TO ENTER INTO ARRANGEMENTS WITH THEIR CREDITORS, TO PROVIDE FOR THE LICENSING OF INSOLVENCY PRACTITIONERS AND TO PROVIDE REDRESS FOR MALPRACTICE IN RELATION TO INSOLVENT PERSONS, FOR THE AVOIDANCE OF CERTAIN TRANSACTIONS, CROSS–BORDER INSOLVENCY AND CONNECTED ISSUES.
+AN ACT TO PROVIDE FOR THE ADMINISTRATION, RECEIVERSHIP AND LIQUIDATION OF COMPANIES AND THE BANKRUPTCY OF INDIVIDUALS, TO ENABLE COMPANIES AND INDIVIDUALS TO ENTER INTO ARRANGEMENTS WITH THEIR CREDITORS, TO PROVIDE FOR THE LICENSING OF INSOLVENCY PRACTITIONERS AND TO PROVIDE REDRESS FOR MALPRACTICE IN RELATION TO INSOLVENT PERSONS, FOR THE AVOIDANCE OF CERTAIN TRANSACTIONS, CROSS–BORDER INSOLVENCY AND CONNECTED ISSUES.
 
 PART 1
