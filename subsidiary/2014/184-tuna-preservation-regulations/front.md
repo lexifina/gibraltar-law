@@ -10,7 +10,7 @@ TUNA PRESERVATION REGULATIONS 2014
 
 Commencement 30.10.2014
 
-Amending enactments Relevant current provisions Commencement date LN.  2014/266 rr. 5(1)(a), (b), (c), (1A) 22.12.2014 2015/084 r. 6(i) & Sch. 1 11.6.2015 2017/144 r. 10A 13.7.2017
+Amending enactments Relevant current provisions Commencement date LN.  2014/266 rr. 5(1)(a), (b), (c), (1A) 22.12.2014 2015/084 r. 6(i) & Sch. 1 11.6.2015 2017/144 r. 10A 13.7.2017 2020/210 r. 6, (aa), (b)-(c) 11.6.2020
 
 Nature Protection TUNA PRESERVATION REGULATIONS 2014
 
