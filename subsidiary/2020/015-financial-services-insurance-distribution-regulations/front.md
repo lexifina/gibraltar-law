@@ -10,7 +10,7 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/107 rr. 2(1), 9, 38(2)(c)-(g), 38A-38B,54A-54J 12.3.2020
+LN.2020/107 rr. 2(1), 9, 38(2)(c)-(g), 38A-38B,54A-54J 12.3.2020 2020/207 rr. 5(1)((b)-(c), 54(1)(a)-(b), (3)(b), 85A 11.6.2020
 
 _______________________
 
@@ -30,9 +30,9 @@ Appointed intermediaries
 
 7. Appointed intermediaries. 8. Exemption from general prohibition.
 
-Exemption of ancillary insurance intermediary.
-
 2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+
+Exemption of ancillary insurance intermediary.
 
 9. Exemption of ancillary insurance intermediary.
 
@@ -60,11 +60,11 @@ Independence
 
 General
 
-25. Compliance. 26. Introducers and counterparties. 27. Essential staff. 28. Cessation of business.
+25. Compliance. 26. Introducers and counterparties. 27. Essential staff.
 
 Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020 2020/015
 
-29. Complaints. 30. Out-of-court redress. 31. Cooperation and exchange of information with competent authorities of EEA States.
+28. Cessation of business. 29. Complaints. 30. Out-of-court redress. 31. Cooperation and exchange of information with competent authorities of EEA States.
 
 PART 4 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
@@ -80,9 +80,11 @@ Financial statements
 
 44. Duty to prepare annual financial statements. 45. Balance sheet to give a true and fair view. 46. Profit and loss account to give a true and fair view. 47. Form and content of financial statements. 48. Annual financial statements to be submitted to meeting of partners, etc. 49. Additional requirement in case of sole proprietor. 50. Annual financial statements to be submitted to GFSC. 51. Insurance, reinsurance or ancillary insurance intermediary to obtain auditor’s report, etc. 52. Contents of auditor’s report. 53. Qualified reports.
 
-PART 5 PRUDENTIAL REQUIREMENTS
+PART 5
 
 2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+
+PRUDENTIAL REQUIREMENTS
 
 Chapter 1 Indemnity Arrangements
 
@@ -102,11 +104,9 @@ Chapter 2 Appointment of auditors
 
 58. Auditor required. 59. Qualification for appointment as auditor. 60. Ineligibility on ground of lack of independence. 61. Engagement letters. 62. Auditor to notify GFSC of certain matters. 63. Report on financial statements. 64. Notification to GFSC. 65. Resignation or removal of auditors.
 
-PART 7
-
 Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020 2020/015
 
-FREEDOM OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES
+PART 7 FREEDOM OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES
 
 Chapter 1 Incoming EEA intermediaries
 
@@ -130,7 +130,7 @@ PART 9 MISCELLANEOUS
 
 2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
 
-85. The Register: insurance or reinsurance distribution. 86. Data protection. 87. Revocation of 2006 Regulations.
+85. The Register: insurance or reinsurance distribution. 85A. Monitoring etc. 86. Data protection. 87. Revocation of 2006 Regulations.
 
 SCHEDULE 1 MINIMUM PROFESSIONAL KNOWLEDGE AND COMPETENCE REQUIREMENTS
 
