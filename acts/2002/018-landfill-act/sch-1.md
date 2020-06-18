@@ -26,19 +26,15 @@ Additional criteria for acceptance of waste at landfills for hazardous waste.
 
 (i) any waste listed in the index annexed to the Commission Decision on Wastes which is identified as hazardous waste pursuant to paragraph 4 of the Annex to that Decision; or
 
-(ii) any waste which has similar characteristics to the wastes referred to in sub-paragraph (i); and
+(ii) any waste which has similar characteristics to the wastes referred to in sub- paragraph (i); and
 
 (b) its total content or leachability-
 
 (i) does not present a short term occupational risk or an environmental risk; and
 
-Landfill
-
-2002-18
-
 (ii) would not prevent the stabilisation of the landfill within its projected lifetime taking account of its after care period following closure.
 
-Additional criteria for acceptance of waste at landfills for non- hazardous waste.
+Additional criteria for acceptance of waste at landfills for non-hazardous waste.
 
 3.  Waste may only be accepted at a landfill for non-hazardous waste if-
 
@@ -46,13 +42,13 @@ Additional criteria for acceptance of waste at landfills for non- hazardous wast
 
 (i) any waste listed in the index annexed to the Commission Decision on Wastes but which is not identified as hazardous waste pursuant to paragraph 4 of the Annex to that Decision; or
 
-(ii) any waste which has similar characteristics to the wastes referred to in sub-paragraph (i); or
+(ii) any waste which has similar characteristics to the wastes referred to in sub- paragraph (i); or
 
 (b) it is–
 
 (i) any waste listed in the index annexed to the Commission Decision on Wastes which is identified as hazardous waste pursuant to paragraph 4 of the Annex to that Decision; or
 
-(ii) any waste which has similar characteristics to the wastes referred to in sub-paragraph (i),
+(ii) any waste which has similar characteristics to the wastes referred to in sub- paragraph (i),
 
 and its deposit at the landfill otherwise meets the requirements of section 6(4)(c) and (5).
 
@@ -62,23 +58,7 @@ Additional criteria for acceptance of waste at landfills for inert waste.
 
 WASTE ACCEPTABLE AT LANDFILLS FOR INERT WASTE
 
-European Waste Catalogue Code Description Exclusions 10 11 03 Waste glass based fibrous materials
-
-15 01 07 Glass packaging
-
-17 01 01 Concrete
-
-17 01 02 Bricks
-
-Landfill
-
-2002-18 17 01 03 Tiles and ceramics
-
-17 02 02 Glass
-
-17 05 04 Soil and stones Excluding topsoil, peat 20 01 02 Glass
-
-20 02 02 Soil and stones Excluding topsoil, peat
+European Waste Catalogue Code Description Exclusions 10 11 03 Waste glass based fibrous materials 15 01 07 Glass packaging 17 01 01 Concrete 17 01 02 Bricks 17 01 03 Tiles and ceramics 17 02 02 Glass 17 05 04 Soil and stones Excluding topsoil, peat 20 01 02 Glass 20 02 02 Soil and stones Excluding topsoil, peat
 
 5.  In this Schedule, “the Commission Decision on Wastes” means the Commission Decision 2000/532/EC replacing Decision 94/3 establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EC on hazardous waste.
 
@@ -105,10 +85,6 @@ Specific requirements for metallic mercury.
 (f) have a design type that must pass the drop test and the leakproofness tests as described in Chapters 6.1.5.3 and 6.1.5.4 of the UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria; and
 
 (g) be filled to a maximum fill ratio of 80% of the overall volume of the container, to ensure that sufficient ullage is available and neither leakage nor permanent distortion of the container can occur as a result of an expansion of the liquid due to high temperature.
-
-Landfill
-
-2002-18
 
 Certificates for metallic mercury storage.
 
@@ -148,10 +124,6 @@ Certificates for metallic mercury storage.
 
 (f) confirmation that the containers have been used exclusively for the transport and storage of mercury;
 
-Landfill
-
-2002-18
-
 (g) the identification numbers of the containers;
 
 (h) a certificate identification number; and
@@ -159,7 +131,3 @@ Landfill
 (i) any specific comments.
 
 (6) Certificates must be issued by the producer of the waste or, in default, by the person responsible for its management.
-
-Landfill
-
-2002-18

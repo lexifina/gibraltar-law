@@ -1,28 +1,18 @@
-Landfill
-
-2002-18
-
-LANDFILL ACT, 2002
+Landfill Act 2002
 
 Principal Act
 
-Act. No. 2002-18 Commencement 20.2.2003
+Act. No. 2002-18 Commencement (LN.2003/026) 20.2.2003 Assent 16.12.2002
 
-Assent 16.12.2002
+Amending enactments Relevant current provisions Commencement date Act. 2007-35 ss. 6(3), (6)-(7), 11(8), Sch. 4 5.7.2007 LN. 2011/214 ss. 2(1), (2B), 5(1)(f), (fa), (2A)-(2D), Sch. 5 27.10.2011 2013/042 s. 8(2)(c) 28.2.2013 2013/043 ss. 2(1), 5(1A), 6(3), Schs. 1-3 15.3.2013 2020/225 ss. 2(1), (6)(c), (7), 5(1)(fa)-(fb), (2E)-(2I), 6(2A), Sch. 6
 
-Amending enactments Relevant current provisions Commencement date
+18.6.2020
 
-Act.   2007-35 ss. 6(3), (6) & (7), 11(8) & Sch. 4 5.7.2007 LN.  2011/214 ss. 2(1) & (2B), 5(1)(f), (fa), (2A), (2B), (2C) & (2D) & Sch. 5
+Transposing: Directive 1999/31/EC Decision 2003/33/EC Directive 2006/66/EC Directive 2011/97/EU Directive (EU) 2018/850
 
-27.10.2011 2013/042 s. 8(2)(c) 28.2.2013 2013/043 ss. 2(1), 5(1A), 6(3), Schs. 1, 2 & 3 15.3.2013
+ARRANGEMENT OF SECTIONS
 
-Transposing: Directive 1999/31/EC Decision 2003/33/EC Directive 2006/66/EC Directive 2011/97/EU
-
-Landfill
-
-2002-18 ARRANGEMENT OF SECTIONS.
-
-Sections.
+Section
 
 1. Title and commencement. 2. Interpretation and scope. 3. Requirement for a permit. 4. Classification of landfill. 5. Prohibition of acceptance of certain wastes. 6. Waste to be accepted in the different classes of landfill. 7. Application for a permit. 8. Conditions of the permit. 9. Content of the landfill permit. 10. Cost of the landfill of waste. 11. Waste acceptance procedures. 12. Control and monitoring procedures in the operational phase. 13. Closure and after-care procedures. 14. National strategy. 15. Charges by the regulator. 16. Offences. 17. Regulations.
 
@@ -36,6 +26,6 @@ SCHEDULE 4 PROVISIONS RELATING TO ACCEPTANCE OF WASTE SUPPLEMENTARY TO SCHEDULE 
 
 SCHEDULE 5 TREATMENT REQUIREMENTS
 
-Landfill
+SCHEDULE 6 IMPLEMENTATION PLAN TO BE SUBMITTED
 
-2002-18 AN ACT TO TRANSPOSE INTO THE LAW OF GIBRALTAR THE PROVISIONS OF COUNCIL DIRECTIVE 1999/31/EC OF 26 APRIL 1999 ON THE LANDFILL OF WASTE.
+AN ACT TO TRANSPOSE INTO THE LAW OF GIBRALTAR THE PROVISIONS OF COUNCIL DIRECTIVE 1999/31/EC OF 26 APRIL 1999 ON THE LANDFILL OF WASTE.

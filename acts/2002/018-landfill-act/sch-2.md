@@ -28,15 +28,13 @@ indicate that the landfill does not pose a serious environmental risk.
 
 (3)  In this regulation “nature protection zone” means–
 
-(a) a marine nature area  or a nature conservation area as defined in section 2(1) of the Nature Protection Act 1991; or
+(a) a marine nature area or a nature conservation area as defined in section 2(1) of the Nature Protection Act 1991; or
 
 (b) a European site or a European Marine site within the meaning of section 17E of the Nature Protection Act 1991.
 
 Water control and leachate management.
 
-Landfill
-
-2002-18 2.(1)  Subject to the following provisions of this paragraph, appropriate arrangements shall be made with regard to the characteristics of the landfill and prevailing meteorological conditions in order to-
+2.(1)  Subject to the following provisions of this paragraph, appropriate arrangements shall be made with regard to the characteristics of the landfill and prevailing meteorological conditions in order to-
 
 (a) control water from precipitations entering the landfill body;
 
@@ -64,11 +62,9 @@ Protection of soil and water.
 
 (b) the use of a geological barrier combined with a top liner following closure and during the passive phase.
 
-(3)  The geological barrier shall comply with the requirements of sub- paragraph (4) and shall also provide sufficient attenuation capacity to prevent a potential risk to soil and groundwater, taking into account the geographic and hydrogeological conditions below and in the vicinity of the landfill site.
+(3)  The geological barrier shall comply with the requirements of sub-paragraph (4) and shall also provide sufficient attenuation capacity to prevent a potential risk to soil and groundwater, taking into account the geographic and hydrogeological conditions below and in the vicinity of the landfill site.
 
-Landfill
-
-2002-18 (4)  The landfill base and sides shall consist of a mineral layer which provides protection of soil, groundwater and surface water at least equivalent to that resulting from the following permeability and thickness requirements–
+(4)  The landfill base and sides shall consist of a mineral layer which provides protection of soil, groundwater and surface water at least equivalent to that resulting from the following permeability and thickness requirements–
 
 (a) in a landfill for hazardous waste: k  1.0 x 10-9 metre/second: thickness  5metres;
 
@@ -76,23 +72,19 @@ Landfill
 
 (c) in a landfill for inert waste: k  1.0 x 10-7 metre/second: thickness  1 metres.
 
-(5)  Where the geological barrier does not meet the requirements of sub- paragraph (4) naturally, it may be completed artificially and reinforced by other means providing equivalent protection but in any such case, a geological barrier established by artificial means must be at least 0.5 metres thick.
+(5)  Where the geological barrier does not meet the requirements of sub-paragraph (4) naturally, it may be completed artificially and reinforced by other means providing equivalent protection but in any such case, a geological barrier established by artificial means must be at least 0.5 metres thick.
 
 (6)  A leachate collection and sealing system to ensure that leachate accumulation at the base of the landfill is kept to a minimum must also be provided in any hazardous or non-hazardous landfill in accordance with the following table-
 
 Leachate collection and bottom sealing
 
-Landfill category Non-hazardous Hazardous Artificial sealing liner Required Required Drainage layer  0.5 metres Required Required
+Landfill category Non-hazardous Hazardous Artificial sealing liner Required Required Drainage layer 0.5 metres Required Required
 
 (7)  Where, the potential hazards to the environment indicate that the prevention of leachate formation is necessary, surface sealing may be prescribed by the regulator taking account of the following guidelines-
 
-Landfill category Non-hazardous Hazardous Gas drainage layer Required Not required Artificial sealing liner Not required Required Impermeable mineral layer Required Required Drainage layer  0.5 metres Required Required Top soil cover  1 metres Required Required
+Landfill category Non-hazardous Hazardous Gas drainage layer Required Not required Artificial sealing liner Not required Required Impermeable mineral layer Required Required Drainage layer 0.5 metres Required Required Top soil cover 1 metres Required Required
 
-(8)  The requirements of sub-paragraphs (3) to (7) may be reduced to an appropriate extent if on the basis of an assessment of environmental risks,
-
-Landfill
-
-2002-18 having regard in particular to the principles of Directive 80/68/EEC of 17 December 1997 on the protection of groundwater against pollution-
+(8)  The requirements of sub-paragraphs (3) to (7) may be reduced to an appropriate extent if on the basis of an assessment of environmental risks, having regard in particular to the principles of Directive 80/68/EEC of 17 December 1997 on the protection of groundwater against pollution-
 
 (a) it has been decided in accordance with paragraph 2 that the collection and treatment of leachate is not necessary; or
 
@@ -126,9 +118,7 @@ Nuisances and hazards.
 
 Stability.
 
-Landfill
-
-2002-18 6.(1)  The placement of waste must ensure stability of all the waste on the site and associated structures and in particular must avoid slippages.
+6.(1)  The placement of waste must ensure stability of all the waste on the site and associated structures and in particular must avoid slippages.
 
 (2)  Where an artificial barrier is used, the geological substratum must be sufficiently stable, taking into account the morphology of the landfill, to prevent settlement that may cause damage to the barrier.
 
@@ -163,7 +153,3 @@ and such containers must be stored in a storage site.
 (d) be equipped with a fire protection system; and
 
 (e) be arranged in a way to ensure that all containers are easily retrievable.
-
-Landfill
-
-2002-18

@@ -2,7 +2,7 @@ SCHEDULE 3
 
 Sections 12(2) and 13(5)(c)
 
-MONITORING PROCEDURES IN OPERATION AND AFTER- CARE PHASES
+MONITORING PROCEDURES IN OPERATION AND AFTER-CARE PHASES
 
 Minimum procedures.
 
@@ -30,11 +30,11 @@ Emission data.
 
 TABLE 1
 
-Operational phase After-care phase1 Leachate volume2 Monthly1,3 Every six months
+Operational phase After-care phase1 Leachate volume2 Monthly1,3 Every six months Leachate composition2,4 Quarterly1 Every six months Volume and composition of surface water5 Quarterly 1 Every six months Potential gas emissions and atmospheric pressure6 (CH4, CO2, O2, H2S, H2 etc) Monthly1,7 Every six months8
 
-Landfill
+Notes to Table 1
 
-2002-18 Leachate composition2,4 Quarterly1 Every six months Volume and composition of surface water5 Quarterly 1 Every six months Potential gas emissions and atmospheric pressure6 (CH4, CO2, O2, H2S, H2 etc) Monthly1,7 Every six months8 Notes to Table 1 1 Longer intervals may be allowed if the evaluation of data indicates that they would be equally effective. For leachates, the conductivity must always be measured at least once a year. 2 These do not apply where leachate collection is not required under paragraph 2(1)(c) of Schedule 2. 3 The frequency of sampling may be adapted on the basis of the morphology of the landfill waste (in tumulus, buried, etc) (but only if the Environment Agency considers that the conditions of the landfill permit should allow for it). 4 The parameters to be measured and substances to be analysed vary according to the composition of the waste deposited. They must be specified in the conditions of the landfill permit and reflect the leaching characteristics of the wastes. 5 On the basis of the characteristics of the landfill site, the Environment Agency may determine that these measurements are not required. 6 These measurements are related mainly to the content of the organic material in the waste. 7 CH4, CO2, O2 regularly, other gases as required, according to the composition of the waste deposited, with a view to reflecting its leaching properties. 8 Efficiency of the gas extraction system must be checked regularly.
+1 Longer intervals may be allowed if the evaluation of data indicates that they would be equally effective. For leachates, the conductivity must always be measured at least once a year. 2 These do not apply where leachate collection is not required under paragraph 2(1)(c) of Schedule 2. 3 The frequency of sampling may be adapted on the basis of the morphology of the landfill waste (in tumulus, buried, etc) (but only if the Environment Agency considers that the conditions of the landfill permit should allow for it). 4 The parameters to be measured and substances to be analysed vary according to the composition of the waste deposited. They must be specified in the conditions of the landfill permit and reflect the leaching characteristics of the wastes. 5 On the basis of the characteristics of the landfill site, the Environment Agency may determine that these measurements are not required. 6 These measurements are related mainly to the content of the organic material in the waste. 7 CH4, CO2, O2 regularly, other gases as required, according to the composition of the waste deposited, with a view to reflecting its leaching properties. 8 Efficiency of the gas extraction system must be checked regularly.
 
 Protection of groundwater.
 
@@ -51,10 +51,6 @@ Protection of groundwater.
 (3)  In selecting the parameters for analysis, the mobility in the groundwater zone must be taken into account.
 
 (4)  Parameters may include indicator parameters in order to ensure an early recognition of change in water quality (the recommended parameters are pH, TOC, phenols, heavy metals, fluoride, AS, oil/hydrocarbons).
-
-Landfill
-
-2002-18
 
 TABLE 2
 
@@ -82,11 +78,7 @@ Topography.
 
 TABLE 3
 
-Operational phase After-care phase
-
-Landfill
-
-2002-18 Structure and composition of landfill body1 Yearly
+Operational phase After-care phase Structure and composition of landfill body1 Yearly
 
 Settling behaviour of the level of the landfill body Yearly Yearly reading
 
@@ -120,12 +112,6 @@ Specific requirements for metallic mercury.
 
 (b) records concerning the destocking and dispatch of the metallic mercury after its temporary storage; and
 
-Landfill
-
-2002-18 (c) the destination and intended treatment,
+(c) the destination and intended treatment,
 
 must be kept for at least 3 years after the termination of the storage.
-
-Landfill
-
-2002-18
