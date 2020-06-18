@@ -10,9 +10,11 @@ END-OF LIFE VEHICLES RULES 2004
 
 Commencement 18.11.2004
 
-Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011 2012/018 rr. 2, 5A 23.2.2012 2016/204 r. 5A(2), Sch.8 17.11.2016 2018/089 Sch. 8 6.6.2018
+Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011 2012/018 rr. 2, 5A 23.2.2012 2016/204 r. 5A(2), Sch.8 17.11.2016 2018/089 Sch. 8 6.6.2018 2020/223 r. 25(1)(b)(iii), (c)-(d), (2)(b)(iii), (c)(iv), (d)
 
-Transposing: Directive 2000/53/EC Directive 2008/99/EC Directive 2008/112/EC Directive 2011/37/EU Directive (EU) 2016/774 Directive (EU) 2017/2096 Commission Decision 2002/151/EC Commission Decision 2002/525/EC
+18.6.2020
+
+Transposing: Directive 2000/53/EC Directive 2008/99/EC Directive 2008/112/EC Directive 2011/37/EU Directive (EU) 2016/774 Directive (EU) 2017/2096 Directive (EU) 2018/849 Commission Decision 2002/151/EC Commission Decision 2002/525/EC
 
 Public Health END-OF LIFE VEHICLES RULES 2004
 
@@ -34,7 +36,7 @@ Part II Application
 
 Part III Information Requirements
 
-6.   Dismantling information. 7.   Enforcement Authority. 8.   Compliance Notices. 9.  Offences.
+6.   Dismantling information. 7.   Enforcement Authority. 8.   Compliance Notices. 9.   Offences.
 
 Part IV Certificate of Destruction
 
