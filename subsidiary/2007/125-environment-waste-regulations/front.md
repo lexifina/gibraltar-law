@@ -18,9 +18,15 @@ LN. 2010/050 rr. 22, 23, 24 & Sch. 6 25.3.2010 2010/137 rr. 2, 10(b) & Sch. 2 27
 
 14.2.2014 2015/096 r. 14O(4), (5), (6), 14P(1), (7), (8), Sch. 8
 
-1.7.2015 2017/094 r. 2A 18.5.2017 2018/024 Sch. 2 6.2.2018
+1.7.2015 2017/094 r. 2A 18.5.2017 2018/024 Sch. 2 6.2.2018 2020/224 rr. 11(3), 14J(7), 14L(4), 14T 18.6.2020
 
-EU Legislation/International Agreements involved: Directive 67/548/EEC Directive 75/442/EEC Directive 76/768/EEC Directive 88/378/EEC Directive 91/157/EEC Directive 97/7/EC Directive 1999/13/EC Directive 1999/45/EC Directive 2000/53/EC Directive 2002/96/EC Directive 2003/108/EC Directive 2004/42/EC Directive 2006/66/EC Directive 2008/112/EC Directive 2008/99/EC Directive 2012/19/EU Directive 2013/59/EURATOM Regulation (EC) No 1272/2008 Regulation (EEC) No.259/93 Regulation (EC) No.1420/1999 Regulation (EC) No.761/2001 Decision 2005/369/EC Recommendation 2001/331/EC
+Environment ENVIRONMENT (WASTE) REGULATIONS 2007
+
+2005-27
+
+Subsidiary 2007/125
+
+EU Legislation/International Agreements involved: Directive 67/548/EEC Directive 75/442/EEC Directive 76/768/EEC Directive 88/378/EEC Directive 91/157/EEC Directive 97/7/EC Directive 1999/13/EC Directive 1999/45/EC Directive 2000/53/EC Directive 2002/96/EC Directive 2003/108/EC Directive 2004/42/EC Directive 2006/66/EC Directive 2008/112/EC Directive 2008/99/EC Directive 2012/19/EU Directive 2013/59/EURATOM Directive (EU) 2018/849 Regulation (EC) No 1272/2008 Regulation (EEC) No.259/93 Regulation (EC) No.1420/1999 Regulation (EC) No.761/2001 Decision 2005/369/EC Recommendation 2001/331/EC
 
 Environment ENVIRONMENT (WASTE) REGULATIONS 2007
 
@@ -48,7 +54,7 @@ Environment ENVIRONMENT (WASTE) REGULATIONS 2007
 
 2005-27
 
-Subsidiary 2007/125 14B.  Scope of Part. 14C.  Interpretation of Part. 14D.  Overarching objective. 14E.  Waste portable batteries and accumulators. 14F.  Exemption from permit requirements. 14G.  Waste industrial batteries and accumulators. 14H.  Waste automotive batteries and accumulators. 14I. Participation in collection schemes. 14J. Collection rates and target dates. 14K.  Removal of waste batteries and accumulators. 14L.  Treatment and recycling. 14M.  Participation in treatment and recycling schemes. 14N.  Increased environmental performance. 14O.  Financing of collection, treatment, recycling and public information. 14P.  Registration of producers. 14R.  Information for end-users. 14S.  New recycling technologies. 14T.  National implementation reports. 14U.  Voluntary agreements. 14V.  Offence – failing to register.
+Subsidiary 2007/125 14B.  Scope of Part. 14C.  Interpretation of Part. 14D.  Overarching objective. 14E.  Waste portable batteries and accumulators. 14F.  Exemption from permit requirements. 14G.  Waste industrial batteries and accumulators. 14H.  Waste automotive batteries and accumulators. 14I. Participation in collection schemes. 14J. Collection rates and target dates. 14K.  Removal of waste batteries and accumulators. 14L.  Treatment and recycling. 14M.  Participation in treatment and recycling schemes. 14N.  Increased environmental performance. 14O.  Financing of collection, treatment, recycling and public information. 14P.  Registration of producers. 14R.  Information for end-users. 14S.  New recycling technologies. 14T.  Deleted. 14U.  Voluntary agreements. 14V.  Offence – failing to register.
 
 PART V WASTE CONTRIBUTION
 
