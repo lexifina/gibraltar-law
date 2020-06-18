@@ -34,7 +34,7 @@ Public Health
 
 (d) adoption and implementation of procedures for planning modifications to, or the design of new installations, processes or storage facilities;
 
-(e) planning for emergencies via adoption and implementation of procedures to
+(e) planning for emergencies via adoption and implementation of procedures to-
 
 (i) identify foreseeable emergencies by systematic analysis;
 

@@ -2450,21 +2450,65 @@ Public Health
 
 3.  The competent authority shall take into account the general environmental protection principles of precaution and sustainability, technical feasibility and economic viability, protection of resources as well as the overall environmental, human health, economic and social impacts.
 
+3A.  The Government shall make use of economic instruments and other measures to provide incentives for the application of the waste hierarchy, such as those indicated in Schedule 11C or other appropriate instruments and measures.
+
 PRINCIPLES OF SELF-SUFFICIENCY AND PROXIMITY
 
 4.  The competent authority shall take appropriate measures, in cooperation with competent authorities in other Member States where this is necessary or advisable, to establish an integrated and adequate network of waste disposal installations and of installations for the recovery of mixed municipal waste collected from private households, including where such collection also covers such waste from other producers, taking into account best available techniques.
 
-5.  By way of derogation from Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste, the competent authority may, in order to protect the network referred to in paragraph 4, limit incoming shipments of waste destined to incinerators that are classified as recovery, where it has been established that such shipments would result in national waste having to be disposed of or waste having to be treated in a way that is not consistent with its waste management plans. The Government shall ensure that the Commission is
+5.  By way of derogation from Regulation (EC) No 1013/2006 of the European Parliament and of the Council of 14 June 2006 on shipments of waste, the competent authority may, in order to protect the network referred
 
 Public Health
 
-1950-07 notified of any such decision. The competent authority may also limit outgoing shipments of waste on environmental grounds as set out in Regulation (EC) No 1013/2006.
+1950-07 to in paragraph 4, limit incoming shipments of waste destined to incinerators that are classified as recovery, where it has been established that such shipments would result in national waste having to be disposed of or waste having to be treated in a way that is not consistent with its waste management plans. The Government shall ensure that the Commission is notified of any such decision. The competent authority may also limit outgoing shipments of waste on environmental grounds as set out in Regulation (EC) No 1013/2006.
 
 6.  The network referred to in paragraph 4 shall be designed to enable the European Union as a whole to become self-sufficient in waste disposal as well as in the recovery of waste referred to in paragraph 4, and to enable the competent authority to move towards that aim individually, taking into account geographical circumstances or the need for specialised installations for certain types of waste.
 
 7.  The network referred to in paragraph 4 shall enable waste to be disposed of or waste referred to in paragraph 4 to be recovered in one of the nearest appropriate installations, by means of the most appropriate methods and technologies, in order to ensure a high level of protection for the environment and public health.
 
 8.  The principles of proximity and self-sufficiency shall not mean that the competent authority has to possess the full range of final recovery facilities within Gibraltar.
+
+Public Health
+
+1950-07 SCHEDULE 11C
+
+Section 192C(5)(a), 192MA and Schedule 11B
+
+Examples of economic instruments and other measures to provide incentives for the application of the waste hierarchy referred to in Schedule 11B.
+
+1.  Charges and restrictions for the landfilling and incineration of waste which incentivise waste prevention and recycling, while keeping landfilling the least preferred waste management option;
+
+2.  “Pay as you throw” schemes that charge waste producers or importers on the basis of the actual amount of waste generated and provide incentives for separation at source of recyclable waste and for reduction of mixed waste;
+
+3.  Fiscal incentives for donation of products, in particular food;
+
+4.  Extended producer responsibility schemes for various types of waste and measures to increase their effectiveness, cost efficiency and governance;
+
+5.  Deposit-refund schemes and other measures to encourage efficient collection of used products and materials;
+
+6.  Sound planning of investments in waste management infrastructure;
+
+7.  Sustainable public procurement to encourage better waste management and the use of recycled products and materials;
+
+8.  Phasing out of subsidies which are not consistent with the waste hierarchy;
+
+9.  Use of fiscal measures or other means to promote the uptake of products and materials that are prepared for re-use or recycled;
+
+10. Support to research and innovation in advanced recycling technologies and remanufacturing;
+
+11.  Use of best available techniques for waste treatment;
+
+12.  Promotion of waste prevention and intensification of separate collection schemes, while avoiding support to landfilling and incineration;
+
+13.  Public awareness campaigns, in particular on separate collection, waste prevention and litter reduction, and mainstreaming these issues in education and training;
+
+Public Health
+
+1950-07
+
+14.  Systems of coordination, including by digital means, between all competent public authorities involved in waste management;
+
+15.  Promoting continuous dialogue and cooperation between all stakeholders in waste management and encouraging voluntary agreements and company reporting on waste.
 
 Public Health
 
@@ -2522,11 +2566,11 @@ R1. Use principally as a fuel or other means to generate energy(1);
 
 R2. Solvent reclamation/regeneration;
 
-R3. Recycling/reclamation of organic substances, which are not used as solvents (including composting and other biological transformation processes)(2);
+R3. Recycling/reclamation of organic substances which are not used as solvents (including composting and other biological transformation processes) ²;
 
-R4. Recycling/reclamation of metals and metal compounds;
+R4. Recycling/reclamation of metal and metal compounds²ª;
 
-R5. Recycling/reclamation of other inorganic materials(3);
+R5. Recycling/reclamation of other inorganic materials ³;
 
 R6. Regeneration of acids or bases;
 
@@ -2592,9 +2636,11 @@ Public Health
 
 1950-07 For the calculation of the value of HDD the following method established by Eurostat should be applied: HDD is equal to (18 °C — Tm) × d if Tm is lower than or equal to 15 °C (heating threshold) and is nil if Tm is greater than 15 °C; where Tm is the mean (Tmin + Tmax)/2 outdoor temperature over a period of d days. Calculations are to be executed on a daily basis (d = 1), added up to a year.
 
-(2) This includes gasification and pyrolisis using the components as chemicals.
+(2) This includes preparing for re-use, gasification and pyrolysis using the components as chemicals and recovery of organic materials in the form of backfilling.
 
-(3) This includes soil cleaning resulting in recovery of the soil and r ecycling of inorganic construction materials.
+(2a) This includes preparing for re-use.
+
+(3) This includes preparing for re-use, recycling of inorganic construction materials, recovery of inorganic materials in the form of backfilling, and soil cleaning resulting in recovery of the soil.
 
 (4) If there is no other R code appropriate, this can include preliminary operations prior to recovery including pre-processing such as, inter alia, dismantling, sorting, crushing, compacting, pelletising, drying, shredding, conditioning, repackaging, separating, blending or mixing prior to submission to any of the operations numbered R1 to R11.
 
@@ -2606,11 +2652,95 @@ Public Health
 
 SEPARATE COLLECTION CERTAIN WASTE AND COLLECTION TARGETS
 
-1. By 2015 separate collection shall be set up for at least the following: paper, metal, plastic and glass.
+1. By 2015 separate collection shall be set up for at least the following: paper, metal, plastic and glass, and, by 1st January 2025, for textiles.
 
 2. By 2020, the preparing for re-use and the recycling of waste materials such as at least paper, metal, plastic and glass from households and possibly from other origins as far as these waste streams are similar to waste from households, shall be increased to a minimum of overall 50 % by weight.
 
 3. By 2020, the preparing for re-use, recycling and other material recovery, including backfilling operations using waste to substitute other materials, of non-hazardous construction and demolition waste excluding naturally occurring material defined in category 17 05 04 in the list of waste shall be increased to a minimum of 70 % by weight.
+
+4. By 2025, the preparing for re-use and the recycling of municipal waste shall be increased to a minimum of 55 % by weight.
+
+5.By 2030, the preparing for re-use and the recycling of municipal waste shall be increased to a minimum of 60 % by weight.
+
+6.By 2035, the preparing for re-use and the recycling of municipal waste shall be increased to a minimum of 65 % by weight.
+
+7.The Government may postpone the deadlines for attaining targets referred to in paragraphs 4, 5 and 6 of this Schedule by up to five years provided that the Government-
+
+(a) prepared for re-use and recycled less than 20% or landfilled more than 60% of its municipal waste generated in 2013 as reported under the Joint Questionnaire of the OECD and Eurostat;
+
+(b) at the latest 24 months before the respective deadline laid down in paragraph 4,5 or 6 of this Schedule, notifies the Commission of its intention to postpone the respective deadline; and
+
+(c) submits an implementation plan in accordance with paragraph 21 of this Schedule.
+
+Public Health
+
+1950-07 8.The Government shall, if it postpones the deadlines for attaining targets pursuant to paragraph 7, take the necessary measures to increase the preparing for re-use and the recycling of municipal waste-
+
+(a) to a minimum of 50% by 2025 in the event of postponing the deadline for attaining the target referred to in paragraph 4 of this Schedule;
+
+(b) to a minimum of 55% by 2030 in the event of postponing the deadline for attaining the target referred to in paragraph 5 of this Schedule;
+
+(c) to a minimum of 60% by 2035 in the event of postponing the deadline for attaining the target referred to in paragraph 6 of this Schedule.
+
+9.For the purpose of calculating whether the targets laid down in paragraphs 4, 5, 6 and 7 of this Schedule have been attained-
+
+(a) the Government must calculate the weight of the municipal waste generated and prepared for re-use or recycled in a given calendar year;
+
+(b) the weight of the municipal waste prepared for re-use shall be calculated as the weight of products or components of products that have become municipal waste and have undergone all necessary checking, cleaning or repairing operations to enable re-use without further sorting or pre-processing;
+
+(c) the weight of the municipal waste recycled shall be calculated as the weight of waste which, having undergone all necessary checking, sorting and other preliminary operations to remove waste materials that are not targeted by the subsequent reprocessing and to ensure high-quality recycling, enters the recycling operation whereby waste materials are actually reprocessed into products, materials or substances.
+
+10. For the purposes of point (c) of paragraph 9, the weight of the municipal waste recycled shall be measured when the waste enters the recycling operation.
+
+11. By way of derogation from paragraph 10, the weight of municipal waste recycled may be measured at the output of any sorting operation provided that-
+
+(a) such output waste is subsequently recycled;
+
+Public Health
+
+1950-07 (b) the weight of materials or substances that are removed by further operations preceding the recycling operation and are not subsequently recycled is not included in the weight of waste reported as recycled.
+
+12. The Government must establish an effective system of quality control and traceability of municipal waste to ensure that the conditions laid down in point (c) of paragraph 9 and in paragraph 10 of this Schedule are met.
+
+13. To ensure the reliability and accuracy of the data gathered on recycled waste, the system may consist of electronic registries set up, technical specifications for the quality requirements of sorted waste, or average loss rates for sorted waste for various waste types and waste management practices respectively. Average loss rates shall only be used in cases where reliable data cannot be obtained otherwise and shall be calculated on the basis of the calculation rules established in the delegated act adopted pursuant to paragraph 10 of Article 11a of the Directive.
+
+14. For the purpose of calculating whether the targets laid down in paragraphs 4,5,6 and 7 of this Schedule have been attained, the amount of municipal biodegradable waste that enters aerobic or anaerobic treatment may be counted as recycled where that treatment generates compost, digestate, or other output with a similar quantity of recycled content in relation to input, which is to be used as a recycled product, material or substance. Where the output is used on land, the Government may count it as recycled only if this use results in benefits to agriculture or ecological improvement.
+
+15. The Government may, as from 1 January 2027, count municipal bio- waste entering aerobic or anaerobic treatment as recycled only if, in accordance with section 192MC, it has been separately collected or separated at source.
+
+16. For the purposes of calculating whether the targets laid down in paragraphs 4,5,6 and 7 of this Schedule have been attained, the amount of waste materials that have ceased to be waste as a result of a preparatory operation before being reprocessed may be counted as recycled provided that such materials are destined for subsequent reprocessing into products, materials or substances to be used for the original or other purposes.
+
+17. End-of-waste materials to be used as fuels or other means to generate energy, or to be incinerated, backfilled or landfilled, shall not be counted towards the attainment of the recycling targets.
+
+18. For the purposes of calculating whether the targets laid down in paragraphs 4,5,6 and 7 of this Schedule have been attained, the Government
+
+Public Health
+
+1950-07 may take into account the recycling of metals separated after incineration of municipal waste provided that the recycled metals meet certain quality criteria laid down in the implementing act adopted pursuant to paragraph 9 of Article 11a of the Directive.
+
+19. Waste sent by the Government to another Member State for the purposes of preparing for re-use, recycling or backfilling in that other Member State may only be counted towards the attainment of the targets laid down in paragraphs 4,5,6 and 7 of this Schedule if that waste was collected in Gibraltar.
+
+20. Waste exported from the European Union for preparing for re-use or recycling shall count towards the attainment of the targets laid down in paragraphs 4,5,6 and 7 of this Schedule if the requirements of paragraphs 12 and 13 of this Schedule are met and if, in accordance with Regulation (EC) No 1013/2006, the exporter can prove that the shipment of waste complies with the requirements of that Regulation and that the treatment of waste outside the European Union took place in conditions that are broadly equivalent to the requirements of the relevant European Union environmental legislation.
+
+21. The implementation plan to be submitted pursuant to paragraph 7(c) shall contain the following:
+
+(a) assessment of the past, current and projected rates of recycling, landfilling and other treatment of municipal waste and the streams of which it is composed;
+
+(b) assessment of the implementation of waste management plans and waste prevention programmes in place pursuant to sections 192M and 192MA;
+
+(c) reasons for which the Government considers that it might not be able to attain the relevant target laid down in paragraphs 4,5 and 6 of this Schedule within the deadline set therein and an assessment of the time extension necessary to meet that target;
+
+(d) measures necessary to attain the targets set out in paragraphs 4,5,6 and 8 that are applicable to Gibraltar during the time extension, including appropriate economic instruments and other measures to provide incentives for the application of the waste hierarchy as set out in Schedule 11B and having regard to the provisions of Schedule 11C where applicable;
+
+(e) a timetable for the implementation of the measures identified in paragraph 21(d), determination of the body competent for their implementation and an assessment of their individual
+
+Public Health
+
+1950-07 contribution to attaining the targets applicable in the event of a time extension;
+
+(f) information on funding for waste management in line with the polluter-pays principle;
+
+(g) measures to improve data quality, as appropriate, with a view to better planning and monitoring performance in waste management.
 
 Public Health
 
@@ -2624,13 +2754,117 @@ Public Health
 
 (b) the obligation to provide publicly available information as to the extent to which the product is re-usable and recyclable.
 
-3.  The Government may take appropriate measures to encourage the design of products in order to reduce their environmental impacts and the generation of waste in the course of the production and subsequent use of products, and in order to ensure that the recovery and disposal of products that have become waste take place in accordance with Articles 4 and 13 of the Directive.
+2A.  Where such measures include the establishment of extended producer responsibility schemes, the general minimum requirements laid down in Schedule 14C shall apply.
 
-4.  Measures under paragraph 3 may encourage, inter alia, the development, production and marketing of products that are suitable for multiple use, that are technically durable and that are, after having become waste, suitable for proper and safe recovery and environmentally compatible disposal.
+2B.  The Government may decide that producers or importers of products that undertake financial or financial and organisational responsibilities for the management of the waste stage of a product’s life cycle of their own accord should apply some or all of the general minimum requirements laid down in Schedule 14C.
 
-5.  When applying extended producer responsibility, account shall be had to the technical feasibility and economic viability and the overall environmental, human health and social impacts, respecting the need to ensure the proper functioning of the internal market.
+3.  The Government may take appropriate measures to encourage the design of products and components of products in order to reduce their environmental impact and the generation of waste in the course of the production and subsequent use of products, and in order to ensure that the recovery and disposal of products that have become waste take place in accordance with Articles 4 and 13 of the Directive.
+
+4.  Measures under paragraph 3 of this Schedule should encourage the development, production and marketing of products and components of products that are suitable for multiple use, that contain recycled materials, that are technically durable and easily reparable and that are, after having become waste, suitable for preparing for re-use and recycling in order to facilitate proper implementation of the waste hierarchy. The measures shall take into account the impact of products throughout their life cycle, the waste hierarchy and, where appropriate, the potential for multiple recycling.
+
+5.  When applying extended producer responsibility, account shall be had to the technical feasibility and economic viability and the overall
+
+Public Health
+
+1950-07 environmental, human health and social impacts, respecting the need to ensure the proper functioning of the internal market.
 
 6.  The extended producer responsibility shall be applied without prejudice to the responsibility for waste management as provided for in Article 15(1) of the Directive and without prejudice to existing waste stream specific and product specific legislation.
+
+Public Health
+
+1950-07 SCHEDULE 14C
+
+Section 192W(3) and Schedule 14B
+
+General minimum requirements for extended producer responsibility schemes
+
+1.  Where extended producer responsibility schemes are established in accordance with section 192W(3) and paragraph 2A of Schedule 14B, including pursuant to other legislative acts of the European Union, the Government must:
+
+(a) define in a clear way the roles and responsibilities of all relevant actors involved, including producers or importers of products placing products on Gibraltar’s market, organisations implementing extended producer responsibility obligations on their behalf, private or public waste operators, local authorities and, where appropriate, re-use and preparing for re-use operators and social economy enterprises;
+
+(b) in line with the waste hierarchy, set waste management targets, aiming to attain at least the quantitative targets relevant for the extended producer responsibility scheme as laid down in the Directive, Directive 94/62/EC, Directive 2000/53/EC, Directive 2006/66/EC and Directive 2012/19/EU of the European Parliament and of the Council, and set other quantitative targets and/or qualitative objectives that are considered relevant for the extended producer responsibility scheme;
+
+(c) ensure that a reporting system is in place to gather data on the products placed on Gibraltar’s market by the producers or importers of products subject to extended producer responsibility and data on the collection and treatment of waste resulting from those products specifying, where appropriate, the waste material flows, as well as other data relevant for the purposes of point (b) of this paragraph 1;
+
+(d) ensure equal treatment of producers or importers of products regardless of their origin or size, without placing a disproportionate regulatory burden on producers or importers, including small and medium-sized enterprises, of small quantities of products.
+
+2.  The Government must take the necessary measures to ensure that the waste holders targeted by the extended producer responsibility schemes established in accordance with section 192W(3) and paragraph 2A of Schedule 14B, are informed about waste prevention measures, centres for
+
+Public Health
+
+1950-07 re-use and preparing for re-use, take-back and collection systems, and the prevention of littering. The Government must also take measures to create incentives for the waste holders to assume their responsibility to deliver their waste into the separate collection systems in place, notably, where appropriate, through economic incentives or regulations.
+
+3.  The Government must take the necessary measures to ensure that any producer or importer of products or organisation implementing extended producer responsibility obligations on behalf of producers or importers of products-
+
+(a) has a clearly defined geographical, product and material coverage without limiting those areas to those where the collection and management of waste are the most profitable;
+
+(b) provides an appropriate availability of waste collection systems within the areas referred to in point (a) of this paragraph 3;
+
+(c) has the necessary financial means or financial and organisational means to meet its extended producer responsibility obligations;
+
+(d) puts in place an adequate self-control mechanism, supported, where relevant, by regular independent audits, to appraise:
+
+(i) its financial management, including compliance with the requirements laid down in points (a) and (b) of paragraph 4 of this Schedule;
+
+(ii) the quality of data collected and reported in accordance with point (c) of paragraph 1 of this Schedule and with the requirements of Regulation (EC) No 1013/2006;
+
+(e) makes publicly available information about the attainment of the waste management targets referred to in point (b) of paragraph 1 of this Schedule, and, in the case of collective fulfilment of extended producer responsibility obligations, also information about:
+
+(i) its ownership and membership;
+
+(ii) the financial contributions paid by producers or importers of products per unit sold or per tonne of product placed on the market; and
+
+(iii) the selection procedure for waste management operators.
+
+Public Health
+
+1950-07 4.  The Government must take the necessary measures to ensure that the financial contributions paid by the producer or importer of the product to comply with its extended producer responsibility obligations –
+
+(a) cover the following costs for the products that the producer or importer puts on Gibraltar’s market:
+
+costs of separate collection of waste and its subsequent transport and treatment, including treatment necessary to meet the European Union waste management targets, and costs necessary to meet other targets and objectives as referred to in point (b) of paragraph 1 of this Schedule, taking into account the revenues from re-use, from sales of secondary raw material from its products and from unclaimed deposit fees,
+
+costs of providing adequate information to waste holders in accordance with paragraph 2 of this Schedule,
+
+costs of data gathering and reporting in accordance with point (c) of paragraph 1 of this Schedule.
+
+This paragraph 4(a) shall not apply to extended producer responsibility schemes established pursuant to Directive 2000/53/EC, 2006/66/EC or 2012/19/EU.
+
+(b) in the case of collective fulfilment of extended producer responsibility obligations, are modulated, where possible, for individual products or groups of similar products, notably by taking into account their durability, reparability, re-usability and recyclability and the presence of hazardous substances, thereby taking a life-cycle approach and aligned with the requirements set by relevant European Union legislation, and where available, based on harmonised criteria in order to ensure a smooth functioning of the internal market; and
+
+(c) do not exceed the costs that are necessary to provide waste management services in a cost-efficient way. Such costs shall be established in a transparent way between the actors concerned.
+
+5.  Where justified by the need to ensure proper waste management and the economic viability of the extended producer responsibility scheme, the Government may depart from the division of financial responsibility as laid down in point (a) of paragraph 4 of this Schedule, provided that-
+
+Public Health
+
+1950-07 (a) in the case of extended producer responsibility schemes established to attain waste management targets and objectives established under legislative acts of the European Union, the producers or importers of products bear at least 80 % of the necessary costs;
+
+(b) in the case of extended producer responsibility schemes established on or after 4 July 2018 to attain waste management targets and objectives solely established in Gibraltar legislation, the producers or importers of products bear at least 80 % of the necessary costs;
+
+(c) in the case of extended producer responsibility schemes established before 4 July 2018 to attain waste management targets and objectives solely established in Gibraltar legislation, the producers or importers of products bear at least 50 % of the necessary costs,
+
+and provided that the remaining costs are borne by original waste producers, importers or distributors.
+
+6.  The derogation referred to in paragraph 5 may not be used to lower the proportion of costs borne by producers or importers of products under extended producer responsibility schemes established before 4 July 2018.
+
+7.  The Government must establish an adequate monitoring and enforcement framework with a view to ensuring that producers or importers of products and organisations implementing extended producer responsibility obligations on their behalf implement their extended producer responsibility obligations, including in the case of distance sales, that the financial means are properly used and that all actors involved in the implementation of the extended producer responsibility schemes report reliable data.
+
+8.  Where, in Gibraltar, multiple organisations implement extended producer responsibility obligations on behalf of producers or importers of products, the Government shall appoint at least one body independent of private interests or entrust a public authority to oversee the implementation of extended producer responsibility obligations.
+
+9.  The Government shall allow the producers or importers of products established in another Member State and placing products in Gibraltar to appoint a legal or natural person established in Gibraltar as an authorised representative for the purposes of fulfilling the obligations of a producer related to extended producer responsibility schemes in Gibraltar.
+
+10.  For the purposes of monitoring and verifying compliance with the obligations of the producer or importer of the product in relation to extended
+
+Public Health
+
+1950-07 producer responsibility schemes, the Government may lay down requirements, such as registration, information and reporting requirements, to be met by a legal or natural person to be appointed as an authorised representative in Gibraltar.
+
+11.  The Government shall ensure a regular dialogue between relevant stakeholders involved in the implementation of extended producer responsibility schemes, including producers, importers and distributors, private or public waste operators, local authorities, civil society organisations and, where applicable, social economy actors, re-use and repair networks and preparing for re-use operators.
+
+12.  The Government shall take measures to ensure that extended producer responsibility schemes that have been established before 4 July 2018, comply with the provisions of this Schedule by 5 January 2023.
+
+13.  The provision of information to the public under this Schedule shall be without prejudice to preserving the confidentiality of commercially sensitive information in conformity with the relevant European Union and Gibraltar legislation.
 
 Public Health
 
