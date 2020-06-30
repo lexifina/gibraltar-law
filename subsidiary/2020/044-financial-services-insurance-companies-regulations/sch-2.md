@@ -28,7 +28,7 @@ Appointment of liquidator.
 
 (ii) is otherwise applicable to the insurance or reinsurance activities of the insurer in that State.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (4)  The court must not appoint a liquidator on an application made under sub-paragraph (1)(b) unless the policyholders give security for costs in such amount as the court may determine.
 
@@ -58,7 +58,7 @@ Delinquent directors, etc.
 
 Continuation of long-term business.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 7.(1)  A liquidator carrying on the business of an insurer or reinsurer may agree to the variation of existing contracts but has no power to enter into new contracts of insurance.
 
@@ -84,4 +84,4 @@ Penalties.
 
 8.  A liquidator who contravenes paragraph 5 or 7 commits an offence and is liable on summary conviction to a fine at level 3 on the standard scale.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
