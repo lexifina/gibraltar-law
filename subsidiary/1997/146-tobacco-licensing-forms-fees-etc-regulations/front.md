@@ -12,9 +12,9 @@ TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/147 Corrigendum
+LN. 1997/147 Corrigendum.
 
-1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019
+1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019 2020/216 r. 7(2)(d), (3)(f) 30.6.2020
 
 Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
 
@@ -186,6 +186,12 @@ transportation licence per vehicle:
 
 - £250
 
+(d) application for a tobacco products
+
+manufacturing licence:
+
+£100,000
+
 Provided that no fee shall be payable upon the application for a permit to import or export tobacco in transit.
 
 (3)  The fees payable to the Government upon annual renewal of licences shall be  -
@@ -226,7 +232,9 @@ or ship chandler
 
 (e) a tobacco transportation licence
 
-_           £250 per vehicle
+-           £250 per vehicle
+
+(f) tobacco products manufacturing licence: - £50,000
 
 New licence applications from existing licencees.
 
@@ -234,7 +242,11 @@ New licence applications from existing licencees.
 
 (a) whose licence is current; and
 
-(b) who is able to lawfully certify that there have been no changes to the information submitted in his application for that licence,
+Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
+
+1997-34
+
+Subsidiary 1997/146 (b) who is able to lawfully certify that there have been no changes to the information submitted in his application for that licence,
 
 may apply for a new licence of the same kind in Form 6 of the Schedule.
 
@@ -340,7 +352,7 @@ Business name.....................................
 
 Telephone number...............................
 
-Address(es) to which the application relates (being the commercial premises at which any trading activity authorised by a wholesale licence would be carried out including, where different, the commercial premises at which tobacco is to be stored):
+Address(es) to which the application relates (being the commercial  premises at which any trading activity authorised by a wholesale licence would be carried out including, where different, the commercial premises at which tobacco is to be stored):
 
 1st address........................................
 
@@ -504,7 +516,7 @@ Business name.................................
 
 9. Business details;
 
-Address(es) to which the application relates (being the commercial premises at which any trading activity authorised by a wholesale licence would be carried out including, where different, the commercial premises at which tobacco is to be stored):
+Address(es) to which the application relates (being the commercial  premises at which any trading activity authorised by a wholesale licence would be carried out including, where different, the commercial premises at which tobacco is to be stored):
 
 1st address........................................
 
