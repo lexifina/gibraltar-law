@@ -17,3 +17,9 @@ Regulation 6B. PROHIBITED EXPORTS.
 (i) ordinarily used in Gibraltar as part of the human diet or to feed other animals; or
 
 (ii) to be used for scientific purposes provided that the approval of the Minister with responsibility for Environment in consultation with the authority established under section 4 of the Endangered Species Act 1990 has been obtained.
+
+Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
+
+1986-21
+
+Subsidiary 1987/006

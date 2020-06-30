@@ -32,7 +32,7 @@ PART II.
 
 16. Any ship as defined by the Act or any vessel as defined by the Seaside Pleasure Boats Rules 1989 (other than a ship or vessel which is a prohibited import) or any part or parts intended for use in the construction or assembly of a ship or vessel.
 
-17. Tobacco or tobacco products other than products which are prohibited imports.
+17. Tobacco or tobacco products other than products which are prohibited imports and in this paragraph “tobacco products’ means products entirely or partly made of the leaf tobacco as raw material, which are manufactured to be used for smoking, sucking, chewing or snuffing.
 
 Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
