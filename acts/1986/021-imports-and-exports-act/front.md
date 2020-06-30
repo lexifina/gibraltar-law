@@ -28,7 +28,7 @@ Imports and Exports
 
 9.3.1995 1997-34 s. 91 13.11.1997 1996-07 s. 119A 14.1.1999 2001-15 ss. 91A-91B 6.6.2001 2004-12 s. 9A 15.7.2004 2005-61 s. 91B(2) 8.12.2005 2006-46 ss. 25A, 92(1) 21.12.2006 2007-16 ss. 76-78 6.6.2007 2007-17 ss. 12, 16(1), 20(1), 50, 62, 66, 71(1), 72(1), 74, 79(1), 96(1)- (2), 118, 129, 130, Sch. 3, Part XI heading
 
-14.6.2007 2009-26 s. 64(d) 26.6.2007 2013-19 s. 64(d) 24.6.2013 LN. 2017/223 ss. 91C-91O 16.11.2017 Act. 2020-03 s. 129(g) 27.2.2020
+14.6.2007 2009-26 s. 64(d) 26.6.2007 2013-19 s. 64(d) 24.6.2013 LN. 2017/223 ss. 91C-91O 16.11.2017 Act. 2020-03 s. 129(g) 27.2.2020 LN. 2020/212 ss. 2(1), 121(a), (aa), 121A 30.6.2020
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -66,9 +66,11 @@ PART IV. CONTROL OF IMPORTS.
 
 Prohibited Imports.
 
+14. Prohibited imports.
+
 Imports and Exports
 
-1986-21 14. Prohibited imports. 15. Controlled drugs. 16. Power for Government to prohibit or restrict imports.
+1986-21 15. Controlled drugs. 16. Power for Government to prohibit or restrict imports.
 
 Report of Cargo and Entry of Goods.
 
@@ -92,11 +94,11 @@ Deposit of Goods in Stores.
 
 Operations in Stores.
 
-37. Sorting, repacking, etc., of goods in stores. 38. Taking samples. 39. Time limit for storage. 40. Conditions in relation to storage.
+37. Sorting, repacking, etc., of goods in stores. 38. Taking samples. 39. Time limit for storage. 40. Conditions in relation to storage. 41. Duty to produce goods in private bonded stores.
 
 Imports and Exports
 
-1986-21 41. Duty to produce goods in private bonded stores.
+1986-21
 
 Sales and Disposals of Goods by the Collector.
 
@@ -124,9 +126,11 @@ Exemptions.
 
 62. Goods about to be exported. 63. Exemption from duty of goods in transit, etc. 64. Exemption from duty for aircraft and their parts and certain fuel oils. 65. Exemption from duty of goods imported for Crown contracts. 66. Regulations for the granting of other exemptions.
 
+Remission and Refund and Draw Backs.
+
 Imports and Exports
 
-1986-21 Remission and Refund and Draw Backs.
+1986-21
 
 67. Remission or refund of duty on goods lost or destroyed, etc. 68. Refund of duty on goods not conforming to contract. 69. Refund in respect of supplies to aircraft. 70. Refund of duty on motor spirit re-exported. 71. Refund of duty on motor spirit for use of the Crown. 72. Power for Government to allow other refunds and draw backs.
 
@@ -154,11 +158,11 @@ Other Provisions.
 
 PART VIII. SPECIAL PROVISIONS RELATING TO WINES, SPIRITS AND TOBACCO.
 
-86. Description and designation of casks.
+86. Description and designation of casks. 87. Estimated contents of casks.
 
 Imports and Exports
 
-1986-21 87. Estimated contents of casks. 88. Spirits for infusion. 89. Owner may take samples. 90. Repealed. 91. Repealed. 91A. Export of tobacco by sea and air. 91B. Exports by land.
+1986-21 88. Spirits for infusion. 89. Owner may take samples. 90. Repealed. 91. Repealed. 91A. Export of tobacco by sea and air. 91B. Exports by land.
 
 PART VIIIA. DECLARATION OF CASH AND CASH EQUIVALENTS.
 
@@ -176,11 +180,11 @@ Appeals.
 
 Procedure in Respect of Offences, Recovery of Duties and Fees, etc.
 
-97. Search warrants. 98. Civil and criminal procedure. 99. Right of audience. 100.  Evidence.
+97. Search warrants. 98. Civil and criminal procedure. 99. Right of audience. 100.  Evidence. 101. Limitation.
 
 Imports and Exports
 
-1986-21 101. Limitation.
+1986-21
 
 Offences and Penalties.
 
@@ -192,7 +196,7 @@ Rewards.
 
 Forfeiture.
 
-119. Prohibited imports forfeit to the Crown. 119A. Forfeiture of ships and vessels used or suspected of being used for carrying controlled drugs. 120. Mandatory forfeiture of goods. 121. Discretionary forfeiture of goods. 122. Forfeiture of receptacles. 123. Mandatory forfeiture of ships, etc. 124. Discretionary forfeiture of ships. etc. 125. Seizure of goods liable to forfeiture. 126. Procedure in connection with forfeiture.
+119. Prohibited imports forfeit to the Crown. 119A. Forfeiture of ships and vessels used or suspected of being used for carrying controlled drugs. 120. Mandatory forfeiture of goods. 121. Discretionary forfeiture of goods. 121A. Destruction of forfeited tobacco. 122. Forfeiture of receptacles. 123. Mandatory forfeiture of ships, etc. 124. Discretionary forfeiture of ships. etc. 125. Seizure of goods liable to forfeiture. 126. Procedure in connection with forfeiture.
 
 Stay and Compounding of Proceedings.
 
@@ -322,7 +326,9 @@ Imports and Exports
 
 Imports and Exports
 
-1986-21 “tons register” means the tons of a ship’s net tonnage as ascertained and registered according to the tonnage regulations of the relevant legislation or, in the case of a ship which is not registered under that Act, ascertained in like manner as if it were so registered;
+1986-21 “tobacco products” means products entirely or partly made of the leaf tobacco as raw material, which are manufactured to be used for smoking, sucking, chewing or snuffing;
+
+“tons register” means the tons of a ship’s net tonnage as ascertained and registered according to the tonnage regulations of the relevant legislation or, in the case of a ship which is not registered under that Act, ascertained in like manner as if it were so registered;
 
 “trailer” means a vehicle drawn by a motor vehicle;
 
@@ -348,13 +354,11 @@ Imports and Exports
 
 (4) In the case of a person with no occupational ties, subsection (2) shall apply with the omission of paragraph (b), provided his personal ties show close links with that country.
 
-(5) Where a person has his occupational ties in one country and his personal ties in another country, he shall be treated as being normally resident in the latter country, provided that either–
-
-(a) his stay in the former country is in order to carry out a task of a definite duration; or
-
 Imports and Exports
 
-1986-21
+1986-21 (5) Where a person has his occupational ties in one country and his personal ties in another country, he shall be treated as being normally resident in the latter country, provided that either–
+
+(a) his stay in the former country is in order to carry out a task of a definite duration; or
 
 (b) he returns regularly to the country where he has his personal ties.
 
@@ -376,13 +380,13 @@ Power to require information.
 
 (2) Every person upon whom a duty to produce is imposed by subsection (1) shall retain all invoices, bills of lading, books of account and other books and documents relating to the goods for a period of not less than three years after the importation or exportation of the goods or the payment of any duty thereon, whichever is the later.
 
-(3) A person who fails to comply with any requirement of this section is guilty of an offence and is liable on summary conviction–
-
-(a) where the offence is against subsection (1), to a fine at level 3 on the standard scale;
-
 Imports and Exports
 
 1986-21
+
+(3) A person who fails to comply with any requirement of this section is guilty of an offence and is liable on summary conviction–
+
+(a) where the offence is against subsection (1), to a fine at level 3 on the standard scale;
 
 (b) where the offence is against subsection (2), to a fine at level 4 on the standard scale.
 
@@ -408,15 +412,13 @@ Power to search ships, aircraft and vehicles.
 
 (a) chargeable with any duty which has not been paid or secured; or
 
-(b) in the course of being unlawfully removed from or to any place; or
+Imports and Exports
+
+1986-21 (b) in the course of being unlawfully removed from or to any place; or
 
 (c) goods the importation or exportation of which is prohibited or restricted by this or any other Act; or
 
 (d) otherwise liable to forfeiture under this Act,
-
-Imports and Exports
-
-1986-21
 
 any customs officer or member of Her Majesty’s Forces may stop, where it is necessary and practicable, and may search any ship, aircraft or vehicle.
 
@@ -444,13 +446,11 @@ the officer may authorise an internal search of that person.
 
 (3) A customs officer may not authorise an internal search of a person for anything unless he has reasonable grounds for believing that it cannot be found without his being so searched.
 
-(4) An officer may give an authorisation under subsection (2) orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
-
-(5) An internal search shall be by way of examination by a suitably qualified person, that is to say, a registered medical practitioner or a registered nurse, and no internal search may be carried out except at–
-
 Imports and Exports
 
-1986-21
+1986-21 (4) An officer may give an authorisation under subsection (2) orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
+
+(5) An internal search shall be by way of examination by a suitably qualified person, that is to say, a registered medical practitioner or a registered nurse, and no internal search may be carried out except at–
 
 (a) the premises designated for this purpose by the Collector;
 
@@ -474,15 +474,15 @@ Power of arrest and detention.
 
 (2) A person who has been arrested under this section shall be handed over into the charge of a police officer as soon as practicable.
 
-Provided that where the person is being detained on suspicion of having committed an offence relating to a Class A or a Class B drug and there are reasonable grounds to suspect that that person has that drug concealed on him, an officer of at least the rank of Customs Surveyor may authorise that that person be kept in the custody of customs officers for a period not exceeding 96 hours.
-
-Customs officers may be armed.
-
-9A.  A customs officer, when engaged in the performance of any duty or the exercise of any power imposed or conferred on him by or under this or any
+Provided that where the person is being detained on suspicion of having committed an offence relating to a Class A or a Class B drug and there are reasonable grounds to suspect that that person has that drug concealed on him, an officer of at least the rank of Customs Surveyor may authorise that
 
 Imports and Exports
 
-1986-21 other Act, may, if specifically authorised by the Collector of Customs with the written consent of the Chief Secretary, be armed with a truncheon.
+1986-21 that person be kept in the custody of customs officers for a period not exceeding 96 hours.
+
+Customs officers may be armed.
+
+9A.  A customs officer, when engaged in the performance of any duty or the exercise of any power imposed or conferred on him by or under this or any other Act, may, if specifically authorised by the Collector of Customs with the written consent of the Chief Secretary, be armed with a truncheon.
 
 Examination Stations.
 
@@ -504,11 +504,13 @@ Power to give effect to treaties and conventions.
 
 Reciprocity within the Community.
 
-13. For the purpose of implementing Community obligations applicable to Gibraltar, the Collector shall co-operate with other customs services on matters of mutual concern and, without prejudice to the foregoing, may for that purpose give effect to any reciprocal arrangements made between member States, with or without other countries or territories, for securing, by the exchange of information or otherwise, the due administration of their customs laws and the prevention or detection of fraud or evasion.
+13. For the purpose of implementing Community obligations applicable to Gibraltar, the Collector shall co-operate with other customs services on
 
 Imports and Exports
 
-1986-21 PART IV. CONTROL OF IMPORTS.
+1986-21 matters of mutual concern and, without prejudice to the foregoing, may for that purpose give effect to any reciprocal arrangements made between member States, with or without other countries or territories, for securing, by the exchange of information or otherwise, the due administration of their customs laws and the prevention or detection of fraud or evasion.
+
+PART IV. CONTROL OF IMPORTS.
 
 Prohibited Imports.
 
@@ -532,13 +534,11 @@ Prohibited imports.
 
 Controlled drugs Act 1997-06.
 
-15. A person who imports goods comprising or including a controlled drug or Scheduled Substance contrary to the provisions of the Drugs (Misuse) Act, or who is in any way knowingly concerned with any such importation is guilty of an offence and is liable–
-
-(a) where the drug is a Class A or Class B drug–
-
 Imports and Exports
 
-1986-21
+1986-21 15. A person who imports goods comprising or including a controlled drug or Scheduled Substance contrary to the provisions of the Drugs (Misuse) Act, or who is in any way knowingly concerned with any such importation is guilty of an offence and is liable–
+
+(a) where the drug is a Class A or Class B drug–
 
 (i) on summary conviction, to a fine at level 5 on the standard scale and to imprisonment for 12 months;
 
@@ -566,11 +566,13 @@ Power for Government to prohibit or restrict imports.
 
 (b) imports any goods the importation of which is restricted or regulated except in accordance with the restriction or regulation applicable,
 
-whether such importation is prohibited, restricted or regulated under this Act or under any other law, is guilty of an offence and is liable, on summary conviction, to a fine of three times the value of the goods or at level 4 on the standard scale, whichever is the greater.
-
 Imports and Exports
 
-1986-21 Report of Cargo and Entry of Goods.
+1986-21
+
+whether such importation is prohibited, restricted or regulated under this Act or under any other law, is guilty of an offence and is liable, on summary conviction, to a fine of three times the value of the goods or at level 4 on the standard scale, whichever is the greater.
+
+Report of Cargo and Entry of Goods.
 
 Interpretation of sections 21 and 23.
 
@@ -590,11 +592,13 @@ Inward manifests, etc.
 
 (b) answer all questions which may be put by a customs officer relating to the ship, vehicle or aircraft the cargo, crew, passengers, stores, journey or voyage; and
 
-(c) produce and deliver any document relating to the ship , vehicle or aircraft and the cargo, crew, passengers or stores, whether or not in transit and irrespective of the tonnage of the ship, which may be required by a customs officer.
-
 Imports and Exports
 
-1986-21 (2)  In the case of a ship of over 1,000 net tons, the manifest required under the provisions of subsection (1)(a) shall relate only to such cargo as is to be landed or transshipped in Gibraltar.
+1986-21
+
+(c) produce and deliver any document relating to the ship , vehicle or aircraft and the cargo, crew, passengers or stores, whether or not in transit and irrespective of the tonnage of the ship, which may be required by a customs officer.
+
+(2)  In the case of a ship of over 1,000 net tons, the manifest required under the provisions of subsection (1)(a) shall relate only to such cargo as is to be landed or transshipped in Gibraltar.
 
 (3)  The manifest shall contain the following particulars–
 
@@ -624,13 +628,13 @@ Places for unloading, etc.
 
 20. (1)  Save with the approval of the Collector, goods arriving from any place outside Gibraltar–
 
-(a) by sea, shall not be unloaded at any place other than the public quay at Waterport or the North Mole or such other place as the Collector may determine;
+Imports and Exports
+
+1986-21 (a) by sea, shall not be unloaded at any place other than the public quay at Waterport or the North Mole or such other place as the Collector may determine;
 
 (b) by air, shall not be unloaded at any place other than the airport;
 
-Imports and Exports
-
-1986-21 (c) by land, shall not be imported otherwise than through the examination station at Four Corners;
+(c) by land, shall not be imported otherwise than through the examination station at Four Corners;
 
 Provided that the Government may by notice specify in relation to a particular class of goods or to goods in general some other place in addition to or instead of, in relation to paragraph (a), Waterport or the North Mole or, in relation to paragraph (c) Four Corners, and where the Government has by notice so specified references to Waterport and the North Mole or Four, as the case may be, in this Act shall be deemed to be references to that other place in addition to or instead of Waterport, the North Mole or Four Corners as shall be specified in the notice.
 
@@ -654,13 +658,13 @@ Requirement of and time for entry.
 
 (e) in such cases as the Collector may permit, for temporary retention   with  a  view to  subsequent  re-exportation.
 
-Provided that the Collector may direct that goods of any class or description specified in the direction shall not be entered for storage.
-
-(3)  Without prejudice to any liability under any other provision of this Act, a person who fails to make entry of any goods in accordance with the
-
 Imports and Exports
 
-1986-21 requirements of this Act and any regulations made thereunder is guilty of an offence and is liable on summary conviction to a fine at level 3 on the standard scale.
+1986-21
+
+Provided that the Collector may direct that goods of any class or description specified in the direction shall not be entered for storage.
+
+(3)  Without prejudice to any liability under any other provision of this Act, a person who fails to make entry of any goods in accordance with the requirements of this Act and any regulations made thereunder is guilty of an offence and is liable on summary conviction to a fine at level 3 on the standard scale.
 
 Entry by bill of sight.
 
@@ -682,13 +686,15 @@ a custom officer may cause the goods to be deposited in an approved transit shed
 
 (2)  Notwithstanding anything contained in subsection (1), where any small package or consignment of goods is imported, a customs officer may at any time after the relevant date cause that package or consignment to be deposited in an approved transit shed to await entry.
 
+Imports and Exports
+
+1986-21
+
 Passengers’ Baggage.
 
 Declaration of dutiable goods.
 
-Imports and Exports
-
-1986-21 24. (1)  Every person entering or leaving Gibraltar shall, at such place and in such manner as the Collector may direct, declare everything contained in his baggage or carried with him which–
+24. (1)  Every person entering or leaving Gibraltar shall, at such place and in such manner as the Collector may direct, declare everything contained in his baggage or carried with him which–
 
 (a) he has obtained outside Gibraltar; or
 
@@ -710,11 +716,11 @@ Opening of receptacles for examination.
 
 (2)  Every receptacle opened in compliance with the provisions of this section shall be opened and closed by and at the expense of the owner.
 
-(3)  A person who neglects or refuses to comply with a request of a customs officer made under this section is guilty of an offence and is liable on summary conviction to a fine at level 3 on the standard scale.
-
 Imports and Exports
 
-1986-21 25A.(1) The Government may direct the Collector of Customs in circumstances described in such direction to desist from carrying out any controls searches or other functions or powers required or permitted under this Act on any persons or category of persons who enter or leave Gibraltar and who are in transit by land or air through the airport to any country specified in such direction.
+1986-21 (3)  A person who neglects or refuses to comply with a request of a customs officer made under this section is guilty of an offence and is liable on summary conviction to a fine at level 3 on the standard scale.
+
+25A.(1) The Government may direct the Collector of Customs in circumstances described in such direction to desist from carrying out any controls searches or other functions or powers required or permitted under this Act on any persons or category of persons who enter or leave Gibraltar and who are in transit by land or air through the airport to any country specified in such direction.
 
 (2)  Any duty requirement or obligation imposed by this Act on any person entering or leaving Gibraltar shall not apply to a person to which any direction under sub-section (1) relates to the extent described in such direction.
 
@@ -732,13 +738,15 @@ Goods imported by post other than in the course of trade.
 
 (2)  The particulars of contents and value entered on such declaration form or label and signed by the sender may, subject to verification by a customs officer, be accepted for the purpose of assessing any duty payable.
 
+Imports and Exports
+
+1986-21
+
 Places for Storage.
 
 Customs warehouse.
 
-Imports and Exports
-
-1986-21 27. The Collector may, from time to time, designate any building to be a Customs warehouse for the reception and securing of any dutiable goods.
+27. The Collector may, from time to time, designate any building to be a Customs warehouse for the reception and securing of any dutiable goods.
 
 Approval of transit sheds.
 
@@ -762,13 +770,13 @@ Approval of private bonded stores.
 
 (a) as to the goods which may or may not be deposited in any particular private bonded store; and
 
-(b) as to the part of any private bonded store in which any class or description of goods may be kept or secured.
-
-(3)  The Collector may at any time for reasonable cause revoke or vary the terms of his approval of any private bonded store. (1952 c.44, s.17). (1952 c.44, s.80).
+(1952 c.44, s.17). (1952 c.44, s.80).
 
 Imports and Exports
 
-1986-21
+1986-21 (b) as to the part of any private bonded store in which any class or description of goods may be kept or secured.
+
+(3)  The Collector may at any time for reasonable cause revoke or vary the terms of his approval of any private bonded store.
 
 (4)  A person who contravenes any condition imposed or direction given by the Collector under this section is guilty of an offence and is liable, on summary conviction, to a fine at level 3 on the standard scale.
 
@@ -792,11 +800,13 @@ Goods entered for storage.
 
 33. (1)  Dutiable goods entered for storage shall, save as may be permitted by this or any other Act, be stored in the receptacles or lots in which they were first entered for storage.
 
-(2)  The owner of stored goods shall mark the receptacles or lots in such manner as a customs officer may direct and keep them so marked while they are in storage.
-
 Imports and Exports
 
-1986-21 (3)  The goods shall be deemed to be duly stored as from the time when a customs officer certifies that the entry and storing are complete.
+1986-21
+
+(2)  The owner of stored goods shall mark the receptacles or lots in such manner as a customs officer may direct and keep them so marked while they are in storage.
+
+(3)  The goods shall be deemed to be duly stored as from the time when a customs officer certifies that the entry and storing are complete.
 
 (4)  A person who fails to comply with the provisions of subsection (2) is guilty of an offence and is liable, on summary conviction, to a fine at level 3 on the standard scale.
 
@@ -816,13 +826,13 @@ Dangerous goods.
 
 (2)  Where a customs officer refuses to admit any goods into a Customs Warehouse, any duty payable upon such goods shall become due and payable and shall be paid and the goods shall be removed from Waterport, the North Mole, the airport or Four Corners within such time as the customs officer may require.
 
-(3)  If such duty is not paid and the goods are not removed within such time, the Collector may cause the goods to be sold.
+Imports and Exports
+
+1986-21 (3)  If such duty is not paid and the goods are not removed within such time, the Collector may cause the goods to be sold.
 
 Operations in Stores.
 
-Imports and Exports
-
-1986-21 Sorting, repacking, etc. of goods in stores.
+Sorting, repacking, etc. of goods in stores.
 
 37. A customs officer may allow the owner or other person having control of stored goods to sort, separate, pack and repack such goods and to make such lawful alterations therein or arrangements and assortments thereof as may be necessary for the preservation of such goods or in preparation for the sale, shipment or legal disposal of the same and also to permit any part of such goods so separated and not worth the duty thereon to be destroyed, without payment of duty on the portion so destroyed.
 
@@ -844,13 +854,11 @@ Duty to produce goods in private bonded stores.
 
 41. (1)  The occupier of a private bonded store shall produce to any customs officer on request any goods deposited therein which have not been lawfully authorized to be removed.
 
-(2)  Where any goods are not produced in accordance with the provisions of subsection (1), they shall be deemed to have been  removed on the day on which the request for their production has  been made.
-
-(3)  A person who, on being requested to produce any goods under subsection (1), fails to do so is liable to pay forthwith any duty payable in
-
 Imports and Exports
 
-1986-21 respect of the goods and in addition a penalty an amount equivalent to level 3 on the standard scale for each receptacle or lot not produced.
+1986-21 (2)  Where any goods are not produced in accordance with the provisions of subsection (1), they shall be deemed to have been  removed on the day on which the request for their production has  been made.
+
+(3)  A person who, on being requested to produce any goods under subsection (1), fails to do so is liable to pay forthwith any duty payable in respect of the goods and in addition a penalty an amount equivalent to level 3 on the standard scale for each receptacle or lot not produced.
 
 Sales and Disposals of Goods by the Collector.
 
@@ -876,13 +884,15 @@ Proceeds of sale and recovery of shortfall.
 
 and shall pay the sum remaining, if any, to the importer, if he submits a claim within three months of the sale.
 
-(2)  If, after the goods have been sold or otherwise disposed of, the proceeds are insufficient to discharge the amount due under paragraphs (a), (b) and (c) of subsection (1), the Collector may recover the balance from the owner or from the person who deposited the goods in the store, summarily, as a civil debt.
-
-44. Repealed
+(2)  If, after the goods have been sold or otherwise disposed of, the proceeds are insufficient to discharge the amount due under paragraphs (a), (b) and (c) of subsection (1), the Collector may recover the balance from the
 
 Imports and Exports
 
-1986-21 PART V. IMPORT DUTY.
+1986-21 owner or from the person who deposited the goods in the store, summarily, as a civil debt.
+
+44. Repealed
+
+PART V. IMPORT DUTY.
 
 Imposition of Duty.
 
@@ -910,11 +920,9 @@ Date for ascertainment of rate and adjustment of advance payments.
 
 51. (1)  Import duty shall be paid at the rate in force at the time when the duty becomes payable in accordance with the provisions of this Act.
 
-(2)  Where duty has been paid on any goods at any time before it becomes payable and the rate of duty on such goods is altered between the time of payment and the time when the duty becomes payable, then, if the rate of duty has been increased, the difference between the amount of duty paid and the amount of duty payable shall be paid at the time of removal of the goods and, if the rate of duty has been decreased, the difference between
-
 Imports and Exports
 
-1986-21 the amount of duty paid and the amount of duty payable shall be repaid at such time.
+1986-21 (2)  Where duty has been paid on any goods at any time before it becomes payable and the rate of duty on such goods is altered between the time of payment and the time when the duty becomes payable, then, if the rate of duty has been increased, the difference between the amount of duty paid and the amount of duty payable shall be paid at the time of removal of the goods and, if the rate of duty has been decreased, the difference between the amount of duty paid and the amount of duty payable shall be repaid at such time.
 
 Time for Payment and Delivery on Security.
 
@@ -940,11 +948,11 @@ When duty becomes payable on goods entered for storage.
 
 When duty becomes payable on goods imported through the post.
 
-54. Subject to the provisions of sections 62, 63, 65 and 66, import duty shall be payable upon all dutiable goods imported through the post, whether or not in the course of trade, before the may be trade, goods may be removed from the Post Office.
-
 Imports and Exports
 
-1986-21 When duty becomes payable on goods in Government and private bonded stores.
+1986-21 54. Subject to the provisions of sections 62, 63, 65 and 66, import duty shall be payable upon all dutiable goods imported through the post, whether or not in the course of trade, before the may be trade, goods may be removed from the Post Office.
+
+When duty becomes payable on goods in Government and private bonded stores.
 
 55. Subject to the provisions of sections 56, 57, 62, 63, 65 and 66, import duty shall be payable upon all dutiable goods which were entered for storage in an approved place, immediately before the goods are removed therefrom.
 
@@ -968,11 +976,9 @@ Provided that if the importer disputes the correctness of the amount so specifie
 
 Liability arising on sale of goods imported free of duty.
 
-58. (1)  If goods which were imported free of duty, on the ground that they were the property of the Crown or of any person permitted under the provisions of this Act or otherwise to import such goods free of duty, are sold, they shall become liable to and be charged with duty at the rate payable on the importation of similar goods not the property of the Crown or of such person:
-
 Imports and Exports
 
-1986-21
+1986-21 58. (1)  If goods which were imported free of duty, on the ground that they were the property of the Crown or of any person permitted under the provisions of this Act or otherwise to import such goods free of duty, are sold, they shall become liable to and be charged with duty at the rate payable on the importation of similar goods not the property of the Crown or of such person:
 
 Provided that the Collector may direct that the provisions of this subsection shall not apply in respect of the sale of any particular goods.
 
@@ -996,13 +1002,13 @@ Valuation of goods.
 
 (a) that the price is the sole consideration (by consideration is meant not only the fulfillment of a legal or contractual obligation but also any other form of consideration);
 
-(b) that the price is not influenced by any commercial, financial or other relationship, whether by contract or otherwise, between the seller or any person associated in business with him and the buyer or any person associated in business with him, other than the relationship created by the sale itself; and
-
-(c) that no part of the proceeds of any subsequent re-sale, other disposal or use of the goods will accrue, either directly or
+(b) that the price is not influenced by any commercial, financial or other relationship, whether by contract or otherwise, between
 
 Imports and Exports
 
-1986-21 indirectly, to the seller or any person associated in business with him.
+1986-21 the seller or any person associated in business with him and the buyer or any person associated in business with him, other than the relationship created by the sale itself; and
+
+(c) that no part of the proceeds of any subsequent re-sale, other disposal or use of the goods will accrue, either directly or indirectly, to the seller or any person associated in business with him.
 
 (4)  Two persons shall be deemed to be associated in business with one another if, whether directly or indirectly, either of them has any interest in the business or property of the other or both have a common interest in any business or property or some third person has an interest in the business or property of both of them.
 
@@ -1026,13 +1032,15 @@ Goods exported for repair, etc.
 
 Exemptions.
 
+Imports and Exports
+
+1986-21
+
 Goods about to be exported.
 
 62. Where the Collector so directs, no duty shall be payable upon goods stored in an approved place or a private bonded store which–
 
-Imports and Exports
-
-1986-21 (a) are removed for exportation and immediately upon removal are loaded upon a ship, aircraft or vehicle leaving Gibraltar, in such manner as to satisfy a customs officer that such goods will not be interfered with before the ship, aircraft or vehicle leaves Gibraltar; or
+(a) are removed for exportation and immediately upon removal are loaded upon a ship, aircraft or vehicle leaving Gibraltar, in such manner as to satisfy a customs officer that such goods will not be interfered with before the ship, aircraft or vehicle leaves Gibraltar; or
 
 (b) being duty-free goods within the meaning of regulations made by the Government under section 74, are, in such manner as to satisfy a customs officer, removed and immediately on removal, taken to and received in premises designated by the Collector under the provisions of section 73; or
 
@@ -1058,11 +1066,13 @@ Exemption from duty of goods imported for Crown contracts.
 
 65. (1)  Where–
 
-(a)  any dutiable goods, other than plant or a vehicle, are or are to be imported into Gibraltar by a contractor or sub-contractor for the purposes of a contract awarded by the Crown; and
-
 Imports and Exports
 
-1986-21 (b) the Collector is satisfied that the goods will become the property of the Crown by incorporation into any work to be carried out under the contract,
+1986-21
+
+(a)  any dutiable goods, other than plant or a vehicle, are or are to be imported into Gibraltar by a contractor or sub-contractor for the purposes of a contract awarded by the Crown; and
+
+(b) the Collector is satisfied that the goods will become the property of the Crown by incorporation into any work to be carried out under the contract,
 
 the Collector may, in writing and on such conditions, if any, as he may impose, exempt those goods from the payment of any import duty.
 
@@ -1084,13 +1094,13 @@ Regulations for the granting of other exemptions.
 
 (a) to persons entering Gibraltar, in respect of such goods, in such quantities and to such value as he may determine;
 
-(b) on motor vehicles, to persons making only a temporary stay in Gibraltar, including members of Her Majesty’s forces and persons serving under technical co-operation agreements;
+Imports and Exports
+
+1986-21 (b) on motor vehicles, to persons making only a temporary stay in Gibraltar, including members of Her Majesty’s forces and persons serving under technical co-operation agreements;
 
 (c) on ships of small tonnage brought into Gibraltar by persons not normally resident in Gibraltar;
 
-Imports and Exports
-
-1986-21 (d) in respect of such other items as he may determine from time to time shall be so exempt in the economic or social interests of Gibraltar.
+(d) in respect of such other items as he may determine from time to time shall be so exempt in the economic or social interests of Gibraltar.
 
 Remission and Refund.
 
@@ -1112,15 +1122,15 @@ the Collector shall remit or refund any duty chargeable or paid thereon.
 
 (3)  The Collector may, at the request of the owner of the goods in question and subject to compliance with such conditions as the Collector may see fit to impose, permit the destruction of and waive payment of duty on any imported goods not yet cleared for any purpose for which they were entered on importation or any goods in storage, being in either case goods which have by reason of their state or condition ceased to be worth the full duty chargeable thereon.
 
-(4)  No remission or refund shall be made under subsection (1) unless it is claimed within 12 months following the date of the destruction or loss of the goods to which it relates.
+Imports and Exports
+
+1986-21 (4)  No remission or refund shall be made under subsection (1) unless it is claimed within 12 months following the date of the destruction or loss of the goods to which it relates.
 
 Refund of goods not conforming to contract.
 
 68. (1)  Subject to subsection (3) and such other conditions as the Collector may see fit to impose, where it is shown to the satisfaction of the Collector–
 
-Imports and Exports
-
-1986-21 (a) that goods on which duty has been paid were imported in pursuance of a contract of sale and that the description, quality, state or condition of the goods was not in accordance with the contract or that the goods were damaged in transit; and
+(a) that goods on which duty has been paid were imported in pursuance of a contract of sale and that the description, quality, state or condition of the goods was not in accordance with the contract or that the goods were damaged in transit; and
 
 (b) that the importer, with the consent of the seller, either–
 
@@ -1142,13 +1152,13 @@ Provided that–
 
 (a) sufficient information both of the intention to supply any such article or thing and proof of the delivery of such article or thing is given to the Collector at such time and in such form as he may require;
 
-(b) such further information in connection with the supply of such article or thing is given to the Collector as to enable him to satisfy himself as to the particulars of the article or thing supplied;
+Imports and Exports
+
+1986-21 (b) such further information in connection with the supply of such article or thing is given to the Collector as to enable him to satisfy himself as to the particulars of the article or thing supplied;
 
 (c) the refund is claimed within three months of the date of the delivery of the article or thing in respect of which the refund is claimed; and
 
-Imports and Exports
-
-1986-21 (d) all expenses incurred and charges made by the Government in connection with obtaining the necessary proof for the refund are paid by the person claiming the refund at the time when the expenses are incurred and the charges made.
+(d) all expenses incurred and charges made by the Government in connection with obtaining the necessary proof for the refund are paid by the person claiming the refund at the time when the expenses are incurred and the charges made.
 
 Refund of duty on motor spirit re-exported.
 
@@ -1164,15 +1174,15 @@ Refund of duty on motor spirit for use of the Crown.
 
 (2)  For the purposes of this section, the expression “proper authority” means the duly authorized purchaser on behalf of the Government or of the Government of the United Kingdom or of Her Majesty’s naval, military and air forces in Gibraltar.
 
+Imports and Exports
+
+1986-21
+
 Power for Government to allow other refunds and drawback.
 
 72.(1)  The Government may from time to time by regulations direct the refund  of the duty, or any part thereof paid on the importation of any goods of such kinds as may be specified in the regulations.
 
 (2)  Any such regulations may prescribe conditions to be satisfied before any such refund  may be allowed.
-
-Imports and Exports
-
-1986-21
 
 Duty Free Premises.
 
@@ -1196,15 +1206,15 @@ Regulations relating to duty free goods.
 
 (c) have been supplied to a ship which is about to leave Gibraltar.
 
+Imports and Exports
+
+1986-21
+
 PART VI. RELEASE FROM CUSTOMS CONTROL.
 
 Goods imported by ships, aircraft and vehicles.*
 
-* See waiver LN. 2007/048
-
-Imports and Exports
-
-1986-21 75. Save in such cases as may be prescribed, no person shall deliver or remove any goods from Waterport, the North Mole, the airport or Four Corners–
+75. Save in such cases as may be prescribed, no person shall deliver or remove any goods from Waterport, the North Mole, the airport or Four Corners–
 
 (a) unless an entry thereof, in such form and containing such particulars as may be prescribed, has been delivered to a customs officer in accordance with section 21; and
 
@@ -1228,15 +1238,15 @@ Goods in approved places and transit sheds.
 
 77. Save in such cases as may be prescribed, no person shall deliver or remove any goods from an approved place or from a transit shed unless,–
 
-(a) an entry thereof in such form and containing such particulars as may be prescribed has been delivered to a Customs Officer in accordance with section 21; and
+* See waiver LN. 2007/048
+
+Imports and Exports
+
+1986-21 (a) an entry thereof in such form and containing such particulars as may be prescribed has been delivered to a Customs Officer in accordance with section 21; and
 
 (b) the duty on those goods, if any, has been paid; and
 
 (c) all charges and fees payable in respect of the storage of the goods and any wharfage and other charges in respect thereof, have been paid; and
-
-Imports and Exports
-
-1986-21
 
 (d) the authority of a Customs Officer has been obtained and the removal is in accordance with any directions he may have given.
 
@@ -1264,15 +1274,17 @@ Power to prohibit or restrict exports.
 
 (c) require the goods to be consigned to a person authorized by the regulations to receive the goods; and
 
+Imports and Exports
+
+1986-21
+
 (d) require the production, within a specified time, of evidence to the satisfaction of the Collector of the due delivery of the goods to the consignee.
 
 (3)  A person who–
 
 (a) exports any goods the exportation of which is prohibited; or
 
-Imports and Exports
-
-1986-21 (b) exports any goods the exportation of which is restricted or regulated, except in accordance with the restriction or regulation applicable,
+(b) exports any goods the exportation of which is restricted or regulated, except in accordance with the restriction or regulation applicable,
 
 whether such exportation is prohibited, restricted or regulated under this Act or under any other law, is guilty of an offence and is liable on summary conviction to a fine of three times the value of the goods or at level 4 on the standard scale whichever is the greater.
 
@@ -1296,15 +1308,15 @@ Controlled drugs.
 
 (i) on summary conviction to a fine at level 4 on the standard scale and to imprisonment for six months;
 
+Imports and Exports
+
+1986-21
+
 (ii) on conviction on indictment to a fine of such amount as the Court may determine and to imprisonment for five years.
 
 Report of Cargo.
 
 Outward manifests.
-
-Imports and Exports
-
-1986-21
 
 81. (1)  The master or agent of every ship, the commander or agent of every aircraft and the person in charge or control of every vehicle departing from Gibraltar shall, if such ship, aircraft or vehicle is carrying cargo–
 
@@ -1330,15 +1342,13 @@ Imports and Exports
 
 (f) such other particulars as may be prescribed by regulations.
 
-(4)  For the purposes of this section, “cargo” does not include goods shipped as stores for consumption on board.
+Imports and Exports
+
+1986-21 (4)  For the purposes of this section, “cargo” does not include goods shipped as stores for consumption on board.
 
 (5)  A master, commander, person in charge or control of a vehicle or agent who fails to comply with the provisions of subsection (1) is guilty of an offence.
 
 Other Provisions.
-
-Imports and Exports
-
-1986-21
 
 Return of oils exported.
 
@@ -1358,15 +1368,13 @@ Unloading of goods loaded for export.
 
 (4)  Where any goods loaded or retained as aforesaid are goods from storage, transit goods or other goods chargeable with duty which has not been paid, and, without the authority of a customs officer, any receptacle in which the goods are held is opened or any mark, letter or device on any such receptacle or on any lot of the goods is cancelled, obliterated or altered, every person concerned in the opening, cancellation, obliteration or alteration is guilty of an offence against this section.
 
-(5)  A person guilty of an offence against this section is liable on summary conviction to a fine of three times the value of the goods at level 5 on the standard scale, whichever is the greater.
+Imports and Exports
+
+1986-21 (5)  A person guilty of an offence against this section is liable on summary conviction to a fine of three times the value of the goods at level 5 on the standard scale, whichever is the greater.
 
 Opening of receptacles for examination.
 
 84. (1)  A customs officer may require any person taking or sending any goods whatsoever out of Gibraltar to open every receptacle containing such goods in order that they may be examined.
-
-Imports and Exports
-
-1986-21
 
 (2)  Any receptacle opened in compliance with the provisions of subsection (1) shall be opened and closed by and at the expense of the person taking or sending the goods out of Gibraltar.
 
@@ -1384,11 +1392,11 @@ Description and designation of casks.
 
 86. The description and designation of casks containing wines and spirits for the purposes of customs and the payment of import duty shall be as follows, in each case the full contents of the cask when gauged being taken–
 
-less than 80 litres
+less than 80 litres half-quarter cask 80 litres and over, but less than 135 litres quarter cask 135 “ “ 189 “ tierce 189 “ “ 292.5 “ hogshead 292.5  “ “ 540 “ pipe or but
 
-half-quarter cask 80 litres and over, but less than 135 litres quarter cask 135 “ “ 189 “ tierce 189 “ “ 292.5 “ hogshead 292.5  “ “ 540 “ pipe or but 540 litres and over
+Imports and Exports
 
-botasso.
+1986-21 540 litres and over botasso.
 
 Estimated contents of casks.
 
@@ -1396,11 +1404,9 @@ Estimated contents of casks.
 
 hogsheads shall be assumed to contain
 
-tierces “ “ “ “ 238.5 litres
+tierces “ “ “ “ 238.5 litres kilderkins (quarter-cask) “ “ 157.5 firkins (octave)
 
-Imports and Exports
-
-1986-21 kilderkins (quarter-cask) “ “ 157.5 firkins (octave) “ “ 78.75
+“ “ 78.75
 
 subject always to inspection and measurement when deemed advisable.
 
@@ -1426,6 +1432,10 @@ Owner may take samples.
 
 (i) from all hogsheads or other larger casks, one litre; and
 
+Imports and Exports
+
+1986-21
+
 (ii) from all smaller casks, one half of a litre;
 
 (c) in the case of tobacco, such quantity not exceeding one half of a kilogram in weight as the Collector may approve.
@@ -1433,10 +1443,6 @@ Owner may take samples.
 90. Repealed.
 
 91. Repealed.
-
-Imports and Exports
-
-1986-21
 
 Export of tobacco by air and sea.
 
@@ -1458,7 +1464,11 @@ Exports by land.
 
 (4) No prosecution for an offence under this section shall be brought without the prior consent in writing of the Attorney General.
 
-PART VIIIA. DECLARATION OF CASH AND CASH EQUIVALENTS.
+PART VIIIA.
+
+Imports and Exports
+
+1986-21 DECLARATION OF CASH AND CASH EQUIVALENTS.
 
 Interpretation.
 
@@ -1466,9 +1476,7 @@ Interpretation.
 
 “competent authority” means the person appointed under section 91D;
 
-Imports and Exports
-
-1986-21 “GFIU” means the Gibraltar Financial and Intelligence Unit established under section 1B of the Proceeds of Crime Act 2015;
+“GFIU” means the Gibraltar Financial and Intelligence Unit established under section 1B of the Proceeds of Crime Act 2015;
 
 “European Regulation” means Regulation (EC) No 1889/2005 of the European Parliament and of the Council of 26 October 2005 on controls of cash entering or leaving the Community, as amended from time to time; and
 
@@ -2024,7 +2032,9 @@ Discretionary forfeiture of goods.
 
 121. The court may order that goods be forfeited to the Crown if–
 
-(a) they are goods in relation to which any person has been convicted of an offence against any of sections 16, 20, 21, 33, 80, 81, 84 and 110;
+(a) they are goods in relation to which any person has been convicted of an offence against any of sections 16, 20, 21, 33, 80, 81, 84, 91A, 91B and 110;
+
+(aa) they are tobacco products in relation to which any person has been convicted of an offence against section 79;
 
 (b) they were found concealed in or on any ship, aircraft or vehicle;
 
@@ -2032,11 +2042,17 @@ Discretionary forfeiture of goods.
 
 (d) they were imported by post, other than in the course of trade, and were found not to conform to the particulars entered on the declaration form or label affixed to the package.
 
-Forfeiture of receptacles.
+Destruction of forfeited tobacco.
 
 Imports and Exports
 
-1986-21 122. The court which orders the forfeiture to the Crown of any goods shall order also the forfeiture of the receptacles in which they were contained, unless the court is satisfied that there is good reason to order otherwise.
+1986-21
+
+121A. Tobacco products forfeited to the Crown must be destroyed.
+
+Forfeiture of receptacles.
+
+122. The court which orders the forfeiture to the Crown of any goods shall order also the forfeiture of the receptacles in which they were contained, unless the court is satisfied that there is good reason to order otherwise.
 
 Mandatory forfeiture of ships, etc.
 
@@ -2058,13 +2074,11 @@ Discretionary forfeiture of ships, etc.
 
 Seizure of goods liable to forfeiture.
 
-125. (1) Any thing liable to forfeiture under this Act may be seized or detained by any customs officer or police officer.
-
-(2)  Where any thing is seized or detained by a police officer as liable to forfeiture and that thing is or may be required in connection with any
-
 Imports and Exports
 
-1986-21 proceedings to be brought otherwise than under this Act, it may be retained in the custody of the police until either the proceedings are completed or it is decided that no such proceedings shall be brought.
+1986-21 125. (1) Any thing liable to forfeiture under this Act may be seized or detained by any customs officer or police officer.
+
+(2)  Where any thing is seized or detained by a police officer as liable to forfeiture and that thing is or may be required in connection with any proceedings to be brought otherwise than under this Act, it may be retained in the custody of the police until either the proceedings are completed or it is decided that no such proceedings shall be brought.
 
 (3)  Subject to the provisions of subsection (2), where any thing is seized or detained by a police officer as liable to forfeiture, he shall, as soon as practicable, deliver it to the Collector.
 
@@ -2084,13 +2098,13 @@ Power to stay or compound.
 
 127. The Collector may, in his discretion, stay or compound any proceedings for an offence or for the condemnation of any thing as being forfeited under this Act.
 
-PART XI. THE GOVERNMENT AND THE CROWN.
-
-Liability of the Government and Government Officers, etc.
-
 Imports and Exports
 
 1986-21
+
+PART XI. THE GOVERNMENT AND THE CROWN.
+
+Liability of the Government and Government Officers, etc.
 
 Liability of the Government, etc.
 
@@ -2114,13 +2128,13 @@ Power to make Regulations.
 
 (c) requiring importers and other persons concerned with the importation of goods–
 
-(i) to furnish to the Collector in such form as he may require, such information as is in his opinion necessary for a proper valuation of the goods; and
-
-(ii) to produce any books of account or other documents of whatsoever nature relating to the purchase, importation or sale of the goods by those persons;
-
 Imports and Exports
 
 1986-21
+
+(i) to furnish to the Collector in such form as he may require, such information as is in his opinion necessary for a proper valuation of the goods; and
+
+(ii) to produce any books of account or other documents of whatsoever nature relating to the purchase, importation or sale of the goods by those persons;
 
 (d) prohibiting the removal from Government stores of goods of any description, either absolutely or subject to any conditions or restrictions;
 
@@ -2140,15 +2154,17 @@ No application to the Crown.
 
 131. For the removal of doubt, it is hereby declared that nothing in  this Act shall bind the Crown or affect  prejudicially any estate, right, power, privilege or exemption of the Crown.
 
-PART XII. REPEAL.
+PART XII.
+
+Imports and Exports
+
+1986-21 REPEAL.
 
 Repeal and saving.
 
 132. (1) The Imports and Exports Act is repealed.
 
-Imports and Exports
-
-1986-21 (2)  Any proceeding begun for an offence against the Act hereby repealed or for the condemnation of any goods or of any ship, aircraft or vehicle shall continue as if that Act had not been repealed.
+(2)  Any proceeding begun for an offence against the Act hereby repealed or for the condemnation of any goods or of any ship, aircraft or vehicle shall continue as if that Act had not been repealed.
 
 Imports and Exports
 
