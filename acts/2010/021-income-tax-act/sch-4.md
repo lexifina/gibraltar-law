@@ -56,7 +56,7 @@ Income Tax
 
 (2)  The amount of any interest paid by a person to a connected party in any year which exceeds the amount of interest which would have been paid to an arm’s length party shall be deemed to be a dividend paid by the person and received by the connected party at the time of payment and shall not be deductible in ascertaining the profits or gains of the person for that year.
 
-(3)  Where a person chargeable to taxation in Gibraltar claims a deduction or deductions in computing its profits and gains for taxation for any year of assessment or accounting period in respect of an expense or expenses incurred in favour of a connected party or connected parties (for the purposes of this subparagraph collectively known as “the Expense”), the aggregate amount of the deduction to be allowed in respect of the Expense in computing the profits and gains of the person shall be the least of
+(3)  Where a person chargeable to taxation in Gibraltar claims a deduction or deductions in computing its profits and gains for taxation for any year of assessment or accounting period in respect of an expense or expenses incurred in favour of a connected party or connected parties (for the purposes of this subparagraph collectively known as “the Expense”), the aggregate amount of the deduction to be allowed in respect of the Expense in computing the profits and gains of the person shall be the least of-
 
 (a) the amount of the Expense;
 
@@ -68,11 +68,11 @@ Income Tax
 
 (iii) For the purpose of (i) above, any losses available for relief brought forward shall first be deducted from the pre-Expense net profit before applying the 75 per cent.
 
-(4)  For the purpose of, and subject to, subparagraph (3) above
+(4)  For the purpose of, and subject to, subparagraph (3) above-
 
 (a) the net profit of the person shall be the net profit computed in accordance with this Act;
 
-(b) the gross turnover of the person shall be that expressed in the return of the person and computed in accordance with any
+(b) the gross turnover of the person shall be that expressed in the return of the person and computed in accordance with any-
 
 (i) accounting standard or convention applicable to the trade, profession, business or vocation of the person;
 
@@ -92,7 +92,7 @@ Non-deductibility of interest paid on certain secured loans.
 
 (a) pays interest on a loan made by a lender being an arm’s length person, and
 
-(b) a substantial part or all of the loan on which the interest is paid is secured
+(b) a substantial part or all of the loan on which the interest is paid is secured-
 
 (i) by a cash deposit made with the lender or any connected person of the lender by the person or by any connected person of the person; or
 
@@ -110,7 +110,7 @@ Income Tax
 
 2010-21 Exemption from Paragraphs 2 and 4 to 6.
 
-7.(1)  Paragraphs 2 and 4 to 6 shall not apply if the person who would otherwise be assessed shows in writing or otherwise to the satisfaction of the Commissioner either
+7.(1)  Paragraphs 2 and 4 to 6 shall not apply if the person who would otherwise be assessed shows in writing or otherwise to the satisfaction of the Commissioner either-
 
 (a) that the purpose of avoiding liability to taxation was not the purpose or one of the purposes for which the loans or other arrangements or any of them were effected;
 
@@ -126,7 +126,7 @@ DEFINITIONS
 
 Interpretation.
 
-8.  For the purposes of this Schedule unless the context otherwise requires
+8.  For the purposes of this Schedule unless the context otherwise requires-
 
 “arms length person” means a person who is not a connected person;
 
@@ -232,7 +232,7 @@ Connected persons.
 
 (2)  A person is connected with an individual if that person is the individual's wife or husband living with him or her, or is a relative, or the wife or husband of a relative, of the individual or of the individual's wife or husband and a man and a woman living together as husband and wife are treated as if they were married to each other.
 
-(3)  A person, in his capacity as trustee of a settlement, is connected with
+(3)  A person, in his capacity as trustee of a settlement, is connected with-
 
 (a) any individual who in relation to the settlement is a settlor,
 
@@ -266,7 +266,7 @@ and for the purposes of this paragraph a body corporate is connected with a foun
 
 (4)  Except in relation to acquisitions or disposals of partnership assets pursuant to bona fide commercial arrangements, a person is connected with any person with whom he is in partnership, and with the wife or husband or relative of any individual with whom he is in partnership.
 
-(5)  A company is connected with another company
+(5)  A company is connected with another company-
 
 (a) if the same person has control of both, or a person has control of one and persons connected with him, or he and persons connected with him, have control of the other; or
 
@@ -280,7 +280,7 @@ Income Tax
 
 (8)  Any two or more persons acting together in a reciprocal arrangement shall be treated in relation to that arrangement as being connected to one another.
 
-(9)  In this paragraph
+(9)  In this paragraph-
 
 “company” includes any body corporate or unincorporated association, but does not include a partnership, and this paragraph shall apply in relation to any unit trust scheme as if the scheme were a company and as if the rights of the unit holders were shares in the company;
 
@@ -298,7 +298,7 @@ Income Tax
 
 2010-21 Control.
 
-10.(1)  For the purposes of this Schedule except where otherwise specifically provided, a person shall be taken to have control of a company if he exercises, or is able to exercise or is entitled to acquire, direct or indirect control over the company's affairs, and in particular, but without prejudice to the generality of the preceding words, if he possesses or is entitled to acquire
+10.(1)  For the purposes of this Schedule except where otherwise specifically provided, a person shall be taken to have control of a company if he exercises, or is able to exercise or is entitled to acquire, direct or indirect control over the company's affairs, and in particular, but without prejudice to the generality of the preceding words, if he possesses or is entitled to acquire-
 
 (a) the greater part of the share capital or issued share capital of the company or of the voting power in the company; or
 
@@ -318,7 +318,7 @@ Income Tax
 
 2010-21 Participator.
 
-11.(1)  For the purposes of Paragraphs 9 and 10, a "participator" is, in relation to any company, a person having a share or interest in the capital or income of the company, and, without prejudice to the generality of the preceding words, includes
+11.(1)  For the purposes of Paragraphs 9 and 10, a "participator" is, in relation to any company, a person having a share or interest in the capital or income of the company, and, without prejudice to the generality of the preceding words, includes-
 
 (a) any person who possesses, or is entitled to acquire, share capital or voting rights in the company;
 
@@ -332,13 +332,13 @@ Income Tax
 
 (3)  The provisions of subparagraph (1) above are without prejudice to any particular provision of Paragraphs 9 and 10 requiring a participator in one company to be treated as being also a participator in another company.
 
-(4)  For the purposes of Paragraph 9 and 10 "associate" means, in relation to a participator
+(4)  For the purposes of Paragraph 9 and 10 "associate" means, in relation to a participator-
 
 (a) any relative or partner of the participator;
 
 (b) the trustee or trustees of any settlement in relation to which the participator is, or any relative of his (living or dead) is or was, a settlor (for the purposes of this subparagraph "settlor" and “settlement” have the meaning given in subparagraph 9(9)); and
 
-(c) where the participator is interested in any shares or obligations of the company which are subject to any trust, or are part of the estate of a deceased person
+(c) where the participator is interested in any shares or obligations of the company which are subject to any trust, or are part of the estate of a deceased person-
 
 Income Tax
 
@@ -352,9 +352,9 @@ and has a corresponding meaning in relation to a person other than a participato
 
 (5)  In subparagraph (3) above “relative” means husband or wife, parent or remoter forebear, child or remoter issue, or brother or sister.
 
-(6)  Subject to subparagraph (7) below, for the purposes of paragraphs 9 and 10 “loan creditor”, in relation to a company, means a creditor in respect of
+(6)  Subject to subparagraph (7) below, for the purposes of paragraphs 9 and 10 “loan creditor”, in relation to a company, means a creditor in respect of-
 
-(a) any debt incurred by the company
+(a) any debt incurred by the company-
 
 (i) for any money borrowed or capital assets acquired by the company;
 
@@ -390,7 +390,7 @@ Prevention of avoidance of income tax.
 
 (4)  Where, whether before or after any such transfer, the individual receives or is entitled to receive any capital sum the payment of which is in any way connected with the transfer or any associated operation, any income which, by virtue or in consequence of the transfer, either alone or in conjunction with associated operations, has become the income of a person resident outside Gibraltar shall, whether it would or would not have been chargeable to tax apart from the provisions of this paragraph, be deemed to be income of that individual for all purposes of this Act.
 
-(5)  In subparagraph (4) above “capital sum” means, subject to subparagraph (6) below
+(5)  In subparagraph (4) above “capital sum” means, subject to subparagraph (6) below-
 
 (a) any sum paid or payable by way of loan or repayment of a loan, and
 
@@ -408,13 +408,13 @@ Income Tax
 
 Liability of non-transferors.
 
-13.(1)  This paragraph has effect where
+13.(1)  This paragraph has effect where-
 
 (a) by virtue or in consequence of a transfer of assets, either alone or in conjunction with associated operations, income, which if it were income of that person received by him in Gibraltar, would be chargeable to income tax by deduction or otherwise, becomes payable to a person resident outside Gibraltar; and
 
 (b) an individual who is not liable to tax under paragraph 12 by reference to the transfer receives a benefit provided out of assets which are available for the purpose by virtue or in consequence of the transfer or of any associated operations.
 
-(2)  Subject to the provisions of this paragraph, the amount or value of any such benefit as is mentioned in subparagraph (1) above, if not otherwise chargeable to tax in the hands of the recipient, shall
+(2)  Subject to the provisions of this paragraph, the amount or value of any such benefit as is mentioned in subparagraph (1) above, if not otherwise chargeable to tax in the hands of the recipient, shall-
 
 (a) to the extent to which it falls within the amount of relevant income of years of assessment up to and including the year of assessment in which the benefit is received, be treated for all the purposes of this Act as the income of the individual for that year;
 
@@ -432,7 +432,7 @@ Income Tax
 
 Exemption from Paragraphs 12 and 13.
 
-14.(1)  Paragraphs 12 and 13 shall not apply if the individual who would otherwise be chargeable to tax under those paragraphs shows in writing or otherwise to the satisfaction of the Commissioner either
+14.(1)  Paragraphs 12 and 13 shall not apply if the individual who would otherwise be chargeable to tax under those paragraphs shows in writing or otherwise to the satisfaction of the Commissioner either-
 
 (a) that the purpose of avoiding liability to taxation was not the purpose or one of the purposes for which the transfer or associated operations or any of them were effected; or
 
@@ -446,7 +446,7 @@ Interpretation of Paragraphs 12 to 14.
 
 Income Tax
 
-2010-21 (2)  An individual shall, for the purposes of paragraph 12, be deemed to have power to enjoy income of a person resident outside Gibraltar if
+2010-21 (2)  An individual shall, for the purposes of paragraph 12, be deemed to have power to enjoy income of a person resident outside Gibraltar if-
 
 (a) the income is in fact so dealt with by any person as to be calculated, at some point of time, and whether in the form of income or not, to enure for the benefit of the individual; or
 
@@ -458,7 +458,7 @@ Income Tax
 
 (e) the individual is able in any manner whatsoever, and whether directly or indirectly, to control the application of the income.
 
-(3)  In determining whether an individual has power to enjoy income within the meaning of subparagraph (2) above
+(3)  In determining whether an individual has power to enjoy income within the meaning of subparagraph (2) above-
 
 (a) regard shall be had to the substantial result and effect of the transfer and any associated operations, and
 
@@ -466,7 +466,7 @@ Income Tax
 
 (4)  For the purposes of paragraphs 12 to 14, any body corporate managed and controlled outside Gibraltar shall be treated as if it were resident outside Gibraltar whether it is ordinarily resident in Gibraltar or not.
 
-(5)  For the purposes of paragraphs 12 to 14 of this Part
+(5)  For the purposes of paragraphs 12 to 14 of this Part-
 
 (a) “individual” shall be deemed to include the wife or husband of the individual;
 
@@ -496,13 +496,13 @@ No duplication of charge.
 
 Income Tax
 
-2010-21 is a choice as to the persons in relation to whom any amount of income can be so taken into account
+2010-21 is a choice as to the persons in relation to whom any amount of income can be so taken into account-
 
 (a) it shall be so taken into account in relation to such of them, and if more than one in such proportions respectively, as appears to the Commissioner to be just and reasonable; and
 
 (b) the jurisdiction of the Tribunal on any appeal against an assessment charging tax under those provisions shall include jurisdiction to review any relevant decision taken by the Commissioner under this subparagraph.
 
-(2)  In subparagraph (1) above references to an amount of income taken into account in charging tax are
+(2)  In subparagraph (1) above references to an amount of income taken into account in charging tax are-
 
 (a) in the case of tax which under paragraph 12 is charged on income, to the amount of that income;
 

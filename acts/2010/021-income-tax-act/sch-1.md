@@ -16,7 +16,7 @@ Table B
 
 “Employment and self employment”
 
-The profit or gains from
+The profit or gains from-
 
 (1) Any office or employment, including any allowances, perquisites or benefits in kind specified in Schedule 7.
 
@@ -204,7 +204,7 @@ Procedure.
 
 Attendance of Commissioner.
 
-7.  The Commissioner or any officer appointed under section 3(1) may attend every appeal, and shall be entitled
+7.  The Commissioner or any officer appointed under section 3(1) may attend every appeal, and shall be entitled-
 
 (a) to be present during all the time of the hearing and at the determination of the appeal; and
 
@@ -238,7 +238,7 @@ Procedure in hearings.
 
 (2)  The Tribunal shall conduct the hearing in such manner as it considers most suitable to the clarification and determination of the issues before it and generally to the just handling of the proceedings and, so far as it appears to it appropriate, shall seek to avoid formality in its procedure.
 
-(3)  The parties shall be heard in such order as the Tribunal shall determine and shall be entitled
+(3)  The parties shall be heard in such order as the Tribunal shall determine and shall be entitled-
 
 (a) to give evidence;
 
@@ -254,7 +254,7 @@ Income Tax
 
 (4)  In assessing the truth and weight of any evidence, the Tribunal may take account of its nature and source, and the manner in which it is given.
 
-(5)  Evidence before the Tribunal may be given orally or, if the Tribunal so directs, by affidavit or a statement made or recorded in a document, but at any stage of the hearing the Tribunal may, on the application of any party or of its own motion, require the personal attendance as a witness of
+(5)  Evidence before the Tribunal may be given orally or, if the Tribunal so directs, by affidavit or a statement made or recorded in a document, but at any stage of the hearing the Tribunal may, on the application of any party or of its own motion, require the personal attendance as a witness of-
 
 (a) the maker of an affidavit; or
 
@@ -292,7 +292,7 @@ Power to vary assessments.
 
 Information power.
 
-14.(1)   (a) The Tribunal may at any time before the determination of an appeal give notice to any person (not being the Commissioner or an officer of the Commissioner) requiring him within a time specified in the notice
+14.(1)   (a) The Tribunal may at any time before the determination of an appeal give notice to any person (not being the Commissioner or an officer of the Commissioner) requiring him within a time specified in the notice-
 
 (i) to deliver to it such particulars as it may require for the purposes of determining the appeal; and
 
@@ -302,7 +302,7 @@ Information power.
 
 (2)  Any officer of the Commissioner may, at all reasonable times, inspect and take copies of, or extracts from, any particulars delivered under subparagraph (1)(a) above; and any officer of the Commissioner may take copies of, or extracts from, any books, accounts, or other documents made available for his inspection under subparagraph (1) (b) above.
 
-(3)  The particulars which a person must furnish under subparagraph (1)(a), if he is required by such a notice so to do, include particulars
+(3)  The particulars which a person must furnish under subparagraph (1)(a), if he is required by such a notice so to do, include particulars-
 
 Income Tax
 
@@ -322,7 +322,7 @@ Power to summons witnesses.
 
 (b) Any agent or servant of the appellant, and any other person confidentially employed in the affairs of the appellant, may refuse to give evidence under oath or affirmation or to answer any questions to which he objects.
 
-(2)  Subject to (1)(b) above, a person who after being duly summoned
+(2)  Subject to (1)(b) above, a person who after being duly summoned-
 
 (a) neglects or refuses to appear before the Tribunal at the time and place appointed for that purpose; or
 
@@ -384,13 +384,13 @@ INTERPRETATION
 
 Interpretation.
 
-21.  In this Schedule unless the context otherwise requires
+21.  In this Schedule unless the context otherwise requires-
 
 “the Clerk” in relation to any proceedings, means the Clerk to the Tribunal.
 
 “party” means a party to any proceeding.
 
-“proceedings” means
+“proceedings” means-
 
 (a) any appeal to the Tribunal under the Income Tax Act;
 

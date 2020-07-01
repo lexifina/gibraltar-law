@@ -20,7 +20,7 @@ Recovery of tax at the higher rate.
 
 Telecommunications.
 
-3.  Any company whose business includes any one or more of
+3.  Any company whose business includes any one or more of-
 
 (1)  the provision to end-users at fixed locations in Gibraltar of all or any part of any one or more of the following services:
 
@@ -74,7 +74,7 @@ Income Tax
 
 5.(1)  Paragraph 3(9) shall only apply to a provider of any one or more of the: services; equipment; premises, referred to in that paragraph who is a connected person (as this term is defined in Part III of Schedule 4) of the recipient of any one or more of those services; equipment; premises.
 
-(2)  For the purposes of paragraph 3(9),
+(2)  For the purposes of paragraph 3(9),-
 
 (a) “equipment”, without prejudice to its generality, includes a network or part of a network of the nature referred to in paragraph 3(8); and
 
@@ -82,7 +82,7 @@ Income Tax
 
 Electricity.
 
-6.  Any company whose business includes any one or more of,
+6.  Any company whose business includes any one or more of,-
 
 (1) the generation;
 
@@ -96,7 +96,7 @@ Application to providers/definitions.
 
 7.(1)  Paragraph 6(4) shall only apply to a provider of any one or more of the services; equipment; premises, referred to in that paragraph who is a connected person (as this term is defined in Part III of Schedule 4 ) of the recipient of any one or more of: those services; equipment; premises.
 
-(2)  For the purposes of paragraph 6(4),
+(2)  For the purposes of paragraph 6(4),-
 
 (a) “equipment”, without prejudice to its generality, includes a system or part of a system used for any one or more of: the generation; the distribution; the supply, of electricity; and
 
@@ -132,7 +132,7 @@ Application to providers.
 
 Definitions.
 
-10.  For the purposes of paragraph 8(4),
+10.  For the purposes of paragraph 8(4),-
 
 (1) “equipment”, without prejudice to its generality, includes a system or part of a system used for any one or more of: the production; the desalination; the supply; the distribution, of potable or salt water or both; and
 
@@ -144,7 +144,7 @@ Income Tax
 
 Sewage.
 
-11.  Any company whose business includes any one or more of
+11.  Any company whose business includes any one or more of-
 
 (1) the provision of sewers in Gibraltar;
 
@@ -152,7 +152,7 @@ Sewage.
 
 (3) the treatment of sewage in Gibraltar;
 
-(4) the provision of any one or more of the following services
+(4) the provision of any one or more of the following services-
 
 (a) the operation;
 
@@ -184,7 +184,7 @@ Income Tax
 
 Definitions.
 
-13.  For the purposes of paragraph 11(5),
+13.  For the purposes of paragraph 11(5),-
 
 (1) “equipment”, without prejudice to its generality, includes a system or part of a system used for any one or more of the matters set out in paragraphs 11(1) to(4); and
 
@@ -248,7 +248,7 @@ Definitions.
 
 Further Definitions.
 
-17.  For the purposes of paragraph 14(2),
+17.  For the purposes of paragraph 14(2),-
 
 (1) “equipment”, without prejudice to its generality, includes a system or part of a system used for any one or more of: the matters set out in paragraph 14(1); and
 
@@ -266,13 +266,13 @@ The Charge.
 
 18.(1)  Where the Commissioner is of the opinion that a company not chargeable under Part I of this schedule has during an accounting period a dominant market position and has abused that position, he shall impose taxation on the taxable profits of the Company for the accounting period in which he believes the abuse has taken place at the rate of 20%.
 
-(2)  For the purposes of this paragraph
+(2)  For the purposes of this paragraph-
 
 (a) a company shall be deemed by the Commissioner to have a dominant market position if it has a position of economic strength which enables it to prevent effective competition being maintained on the relevant market by affording it the power to behave to an appreciable extent independently of its competitors, customers and ultimately of its consumers;
 
 (b) for the purpose of (a) the relevant market will geographically be Gibraltar but the Commissioner may take into account factors other than geographical position in assessing the relevant market if he believes it to be appropriate;
 
-(c) conduct which amounts to an abuse of a dominant market position  for the purpose of this shall be conduct which
+(c) conduct which amounts to an abuse of a dominant market position  for the purpose of this shall be conduct which-
 
 (i) exploits customers or suppliers, or
 

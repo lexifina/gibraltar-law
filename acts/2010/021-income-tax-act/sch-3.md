@@ -16,7 +16,7 @@ Measure of profits or gains.
 
 Deductions not allowable.
 
-2.(1)  Subject to subparagraph (2), a deduction in computing the profits or gains of any basis period shall only be allowed in respect of any disbursement or expense, which is money wholly, and exclusively laid out or expended for the purposes of the production of the income of the trade, business, profession or vocation, except
+2.(1)  Subject to subparagraph (2), a deduction in computing the profits or gains of any basis period shall only be allowed in respect of any disbursement or expense, which is money wholly, and exclusively laid out or expended for the purposes of the production of the income of the trade, business, profession or vocation, except-
 
 (a) the rent of the whole or any part of any dwelling-house or domestic offices, except any such part as is used for the purposes of the production of the income of the trade or profession and where any such part is so used, the sum so deducted shall not, unless in any particular case it appears that having regard to all the circumstances some greater sum ought to be deducted, exceed two-thirds of the rent bona fide paid for that dwelling house or those offices;
 
@@ -32,7 +32,7 @@ Income Tax
 
 (f) any interest which might have been made if any such sums under  subparagraphs 2(d) or 2(e) had been laid out at interest;
 
-(g) any debts except
+(g) any debts except-
 
 (i) a bad debt;
 
@@ -52,7 +52,7 @@ Income Tax
 
 (l) any interest which is paid or payable upon any money borrowed other than for the purposes of the trade or profession which generates the income or acquiring the capital employed in acquiring the trade or profession which generates the income;
 
-(m) any taxation charged under
+(m) any taxation charged under-
 
 (i) this Act; or
 
@@ -62,7 +62,7 @@ Income Tax
 
 (o)    (i) save as provided in (v) below expenses incurred in providing business entertainment including, in the case of any person, any sums paid by him to, or on behalf of, or placed by him at the disposal of a member of his staff exclusively for the purposes of defraying expenses incurred by him or to be incurred by him in providing business entertainment to the extent that such sum does not fall to be chargeable on the member of staff as part of the emoluments of his employment;
 
-(ii) for the purposes of (o)(i) above
+(ii) for the purposes of (o)(i) above-
 
 (aa) “business entertainment” means entertainment (including hospitality of any kind) provided by a person, or by a member of his staff in connection with a trade carried on by that person, but does not include anything provided by him for bona fide members of his staff unless its provision for them is incidental to its provision also for others;
 
@@ -74,7 +74,7 @@ Income Tax
 
 (cc) references to the members of a person’s staff are references to persons employed by, or providing services to, that person, directors of a company or persons engaged in the management of a company being for this purpose deemed to be persons employed by it.
 
-(iii) This subparagraph (o) shall apply in relation to the provision of a gift as it applies in relation to the provision of entertainment, except that it shall not by virtue of this subparagraph apply in relation to the provision for any person of a gift consisting of an article incorporating a conspicuous advertisement for the donor, being an article
+(iii) This subparagraph (o) shall apply in relation to the provision of a gift as it applies in relation to the provision of entertainment, except that it shall not by virtue of this subparagraph apply in relation to the provision for any person of a gift consisting of an article incorporating a conspicuous advertisement for the donor, being an article-
 
 (aa) which is not food, drink, tobacco or a token or voucher exchangeable for goods; and
 
@@ -82,7 +82,7 @@ Income Tax
 
 (iv) This subparagraph (o) shall not apply to the cost incurred in the provision by any person of anything which it is his trade to provide, and which is provided by him in the ordinary course of that trade for payment or, with the object of advertising to the public generally, gratuitously.
 
-(v) Subparagraphs (i) and (ii) shall not apply to expenses to provide business entertainment
+(v) Subparagraphs (i) and (ii) shall not apply to expenses to provide business entertainment-
 
 (aa) which fall within guidelines to be published by the Commissioner in the Gazette; and
 
@@ -112,7 +112,7 @@ Income Tax
 
 Items to be included in net profits.
 
-3.  In computing the profits or gains of a trade or profession for any period which will form the basis period for a year of assessment or accounting period there shall be included
+3.  In computing the profits or gains of a trade or profession for any period which will form the basis period for a year of assessment or accounting period there shall be included-
 
 (a) all sums recovered during the said period on account of a bad or doubtful debt in respect of which a deduction has previously been made in accordance with subparagraph 2(1)(g);
 
@@ -446,7 +446,7 @@ Additional definition of income - interest as a trading receipt.
 
 15.(1)  Subject to subparagraph (2), in computing the profits or gains of a company, any sum accrued as interest shall be included in the computation of the profits or gains of the business as a trading income.
 
-(2)  Subparagraph (1) shall only apply to the income of a company
+(2)  Subparagraph (1) shall only apply to the income of a company-
 
 (a) which carries out the activity of money lending to members of the general public or who advertises or announces itself or holds itself out in any way as carrying on that business or actually carries on that business whether solely or jointly with any other business, trade or vocation; or
 

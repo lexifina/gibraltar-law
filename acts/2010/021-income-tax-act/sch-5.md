@@ -6,9 +6,9 @@ PARENT AND SUBSIDIARY COMPANY DIRECTIVE
 
 Interpretation.
 
-1.(1)  In this Schedule, unless the context otherwise requires
+1.(1)  In this Schedule, unless the context otherwise requires-
 
-“company of a Member State” means a company specified in
+“company of a Member State” means a company specified in-
 
 (a) Article 2 of Council Directive 2011/96/EU on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States as amended from time to time and includes a permanent establishment as defined in that Article and a company incorporated or registered in Gibraltar that satisfies the conditions set out in that Article 2; or
 
@@ -18,7 +18,7 @@ Interpretation.
 
 “share” means a share in the share capital of a company and shall include stock except where a distinction between shares and stock is expressed or implied.
 
-(2)  Subject to subparagraph (3), for the purposes of this Part a company shall be deemed to have an interest in the shares of a company if
+(2)  Subject to subparagraph (3), for the purposes of this Part a company shall be deemed to have an interest in the shares of a company if-
 
 (a) it holds that interest (other than as bare nominee or trustee thereof) directly or indirectly or through a company or series of companies and whether such interest is legal, equitable or contractual, or
 
@@ -32,9 +32,9 @@ Income Tax
 
 Parent and subsidiary companies.
 
-2.  The provisions of this Part shall apply to
+2.  The provisions of this Part shall apply to-
 
-(a) a parent company, being a company
+(a) a parent company, being a company-
 
 (i) incorporated or registered in Gibraltar under the provisions of the Companies Act;
 
@@ -42,7 +42,7 @@ Parent and subsidiary companies.
 
 (iii) having a relevant participation in a company of a Member State;
 
-(b) a subsidiary company, being a company
+(b) a subsidiary company, being a company-
 
 (i) incorporated or registered in Gibraltar under the provisions of the Companies Act;
 
@@ -76,7 +76,7 @@ TAXATION APPLICABLE TO INTEREST AND ROYALTY PAYMENTS MADE BETWEEN ASSOCIATED COM
 
 Interpretation of Part.
 
-4.(1)  In this Part, unless the context otherwise requires
+4.(1)  In this Part, unless the context otherwise requires-
 
 “company” has the same meaning as the expression “company of a Member State” in article 3(a) of the Directive as set out in Table A and for the avoidance of doubt includes a company established under the Companies Act;
 
@@ -84,7 +84,7 @@ Interpretation of Part.
 
 “interest” means income from debt-claims of every kind, whether or not secured by mortgage and whether or not carrying a right to participate in the debtor’s profits, and in particular, income from securities and income from bonds or debentures, including premiums and prizes attaching to such securities, bonds or debentures; penalty charges for late payment shall not be regarded as interest;
 
-“permanent establishment” means
+“permanent establishment” means-
 
 Income Tax
 
@@ -160,7 +160,7 @@ after article 17(2) and (3) of Council Directive 2003/48/EC of 3 June 2003 on ta
 
 (2)  In the case of the Slovak Republic, this paragraph shall cease applying on 30 April 2006.
 
-(3)  Where a company or permanent establishment situated in Gibraltar
+(3)  Where a company or permanent establishment situated in Gibraltar-
 
 (a) receives interest or royalties from an associated company of Greece, Latvia, Lithuania, Poland and Portugal;
 
@@ -184,7 +184,7 @@ Income Tax
 
 (c) in the case of Lithuania, 10% during the first four years and 5% during the final two years;
 
-(d) in the case of the Slovak Republic
+(d) in the case of the Slovak Republic-
 
 (i) an amount equal to the tax paid on that income as a deduction from the tax on the income of the company or permanent establishment which received that income; or
 
@@ -292,7 +292,7 @@ ARTICLE 3(a) of DIRECTIVE 2003/49/EC
 
 For the purposes of this Directive−
 
-(a) the term “company of a Member State” means any company
+(a) the term “company of a Member State” means any company-
 
 (i) taking one of the forms listed in the Annex hereto; and
 

@@ -20,7 +20,7 @@ Earnings.
 
 (c) anything else that constitutes an emolument of the employment.
 
-(3)  For the purposes of subparagraph (2) “money’s worth” means something that is
+(3)  For the purposes of subparagraph (2) “money’s worth” means something that is-
 
 (a) of direct monetary value to the employee, or
 
@@ -30,7 +30,7 @@ Definitions
 
 Meaning of “director” and “full-time working director”.
 
-2.(1)  In this Schedule “director” means
+2.(1)  In this Schedule “director” means-
 
 (a) in relation to a company whose affairs are managed by a board of directors or similar body, a member of that body;
 
@@ -66,13 +66,13 @@ give an entitlement to receive more than 5% of the assets which would then be av
 
 Income Tax
 
-2010-21 (4)  In this paragraph
+2010-21 (4)  In this paragraph-
 
 “associate” has the meaning given by paragraph 11 Schedule 4 except that, for this purpose, “relative” has the meaning given by subparagraph (5) below, and
 
 “participator” has the meaning given by paragraph 11 Schedule 4.
 
-(5)  For the purposes of this paragraph a person (“A”) is a relative of another (“B”) if A is
+(5)  For the purposes of this paragraph a person (“A”) is a relative of another (“B”) if A is-
 
 (a) B’s spouse,
 
@@ -90,11 +90,11 @@ Extended meaning of “control”.
 
 Meaning of “close company”.
 
-5.  For the purposes of this Schedule, a “close company” is one which
+5.  For the purposes of this Schedule, a “close company” is one which-
 
 (1)  is under the control of five or fewer of its participators or participators who are directors; or
 
-(2)  a company which does not fall under (1) above in which five or fewer participators or participators who are directors together possess or are entitled to acquire
+(2)  a company which does not fall under (1) above in which five or fewer participators or participators who are directors together possess or are entitled to acquire-
 
 (a) such rights as would, in the event of the winding up of the company entitle them to receive the greater part of the assets of the company which would then be available for distribution among the participators; or
 
@@ -160,7 +160,7 @@ the expense incurred by the person at whose cost the voucher, stamp or similar d
 
 (6)  If a person incurs expense in or in connection with the provision of vouchers, stamps or similar documents for two or more employees as members of a group or class, the expense incurred in respect of one of them is to be such part of that expense as is just and reasonable.
 
-(7)  This paragraph does not apply to a cash voucher if
+(7)  This paragraph does not apply to a cash voucher if-
 
 (a) it is of a kind made available to the public generally, and
 
@@ -204,7 +204,7 @@ is to be treated for the purposes of this Chapter as having been received by the
 
 but does not include a cash voucher.
 
-(5)  For the purposes of subparagraph (1) (a) it does not matter whether the document or token is capable of being exchanged
+(5)  For the purposes of subparagraph (1) (a) it does not matter whether the document or token is capable of being exchanged-
 
 (a) singly or together with other vouchers, stamps, documents or tokens,
 
@@ -234,13 +234,13 @@ and, in relation to a cheque voucher, references to a voucher being exchanged fo
 
 (9)  The cash equivalent of the benefit of a non-cash voucher to which this Chapter applies is to be treated as earnings from the employment for the tax year in which the voucher is received by the employee.
 
-(10)  The cash equivalent is the difference between
+(10)  The cash equivalent is the difference between-
 
 (a) the cost of provision, and
 
 (b) any part of that cost made good by the employee to the person incurring it.
 
-(11)  In this Chapter the “cost of provision” means, in relation to a non- cash voucher the expense incurred in or in connection with the provision of
+(11)  In this Chapter the “cost of provision” means, in relation to a non- cash voucher the expense incurred in or in connection with the provision of-
 
 (a) the voucher, and
 
@@ -272,7 +272,7 @@ Credit-tokens.
 
 9.(1)  This paragraph applies to a credit-token provided for an employee by reason of the employment which is used by the employee to obtain money, goods or services.
 
-(2)  For the purposes of this paragraph
+(2)  For the purposes of this paragraph-
 
 (a) any reference to a credit-token being provided for an employee includes a reference to it being provided for a member of the employee’s family, and
 
@@ -348,7 +348,7 @@ LIVING ACCOMMODATION
 
 Living accommodation to which this Chapter applies.
 
-12.(1)  This Chapter applies to living accommodation provided for
+12.(1)  This Chapter applies to living accommodation provided for-
 
 (a) an employee, or
 
@@ -418,7 +418,7 @@ Cash equivalent.
 
 (2)  The “rental value of the accommodation” for the taxable period is the rent which would have been payable for that period if the property had been let to the employee at an annual rent equal to the annual value.
 
-(3)  But if the person at whose cost the accommodation is provided pays rent for the whole or part of the taxable period at an annual rate greater than the annual value
+(3)  But if the person at whose cost the accommodation is provided pays rent for the whole or part of the taxable period at an annual rate greater than the annual value-
 
 Income Tax
 
@@ -440,7 +440,7 @@ Supplementary
 
 Meaning of “annual value”.
 
-17.  For the purposes of this Chapter the “annual value” of living accommodation is the rent which might reasonably be expected to be obtained on a letting from year to year if
+17.  For the purposes of this Chapter the “annual value” of living accommodation is the rent which might reasonably be expected to be obtained on a letting from year to year if-
 
 (a) the tenant undertook to pay all taxes, rates and charges usually paid by a tenant; and
 
@@ -466,7 +466,7 @@ CARS, VANS AND RELATED BENEFITS
 
 Application.
 
-20.(1)  This Chapter applies to a car or a van in relation to a particular tax year if in that year the car or van
+20.(1)  This Chapter applies to a car or a van in relation to a particular tax year if in that year the car or van-
 
 (a) is made available (without any transfer of the property in it) to an employee or a member of the employee’s family or household,
 
@@ -992,7 +992,7 @@ Removal benefits and expenses to which this Chapter applies.
 
 (a) they are reasonably provided in connection with a change of the employee’s residence which meets the conditions in paragraph 54.
 
-(b) they are within subparagraph (2) or one of the following provisions
+(b) they are within subparagraph (2) or one of the following provisions-
 
 (i) paragraph 58 (acquisition benefits and expenses);
 
@@ -1084,7 +1084,7 @@ Income Tax
 
 (e) the connection of any utility serving the new residence for use by the employee or by the employee and one or more members of the employee’s family or household.
 
-(3)  The following expenses are within this paragraph
+(3)  The following expenses are within this paragraph-
 
 (a) sums paid for any services within subparagraph (2);
 
@@ -1152,7 +1152,7 @@ Income Tax
 
 (b) the employee and one or more members of the employee’s family or household having such an interest.
 
-(5)  A loan is a “related loan” for this purpose if
+(5)  A loan is a “related loan” for this purpose if-
 
 (a) it was raised to obtain an interest in the former residence; or
 
@@ -1162,7 +1162,7 @@ Income Tax
 
 Transporting belongings.
 
-61.(1)  The following benefits are within this paragraph
+61.(1)  The following benefits are within this paragraph-
 
 (a) the transportation of domestic belongings from the employee’s former residence to the employee’s new residence; and
 
@@ -1180,7 +1180,7 @@ Income Tax
 
 “domestic belongings” means belongings of the employee or of members of the employee’s family or household, and
 
-“transportation” includes
+“transportation” includes-
 
 (a) packing and unpacking belongings;
 
@@ -1202,7 +1202,7 @@ Income Tax
 
 (iii) temporary living accommodation of the employee;
 
-(d) where the employment change is within subparagraph 54(2)(b) or (c) (change of duties or place of performance), facilities provided for the employee for travel before the change between the employee’s new residence and
+(d) where the employment change is within subparagraph 54(2)(b) or (c) (change of duties or place of performance), facilities provided for the employee for travel before the change between the employee’s new residence and-
 
 (i) the place where the employee normally performs the duties of the employment before the change; or
 
@@ -1218,7 +1218,7 @@ Income Tax
 
 (g) facilities provided for a relevant child for travel between education linked living accommodation and the employee’s accommodation.
 
-(2)  For the purpose of this paragraph, “education linked living accommodation”, in relation to a relevant child, means living accommodation where the child stays for the purpose of securing continuity in education, being
+(2)  For the purpose of this paragraph, “education linked living accommodation”, in relation to a relevant child, means living accommodation where the child stays for the purpose of securing continuity in education, being-
 
 (a) accommodation in the new area where the child stays before the employee’s change of residence;
 
@@ -1250,7 +1250,7 @@ Income Tax
 
 “former area” means the area round or near the former residence of the employee;
 
-“new area” means
+“new area” means-
 
 (a) if the employment change is within subparagraph 54(2)(a) or (b) (change of employer or duties), the area round or near round or near the place where the employee’s new duties normally are or are to be performed, and
 
@@ -1268,7 +1268,7 @@ Income Tax
 
 2010-21 employee’s taxable emoluments in respect of the cost of the benefits or of the expenses incurred for any of the following reasons.
 
-(2)  They are
+(2)  They are-
 
 (a) travel at start or finish of overseas employment;
 
@@ -1308,7 +1308,7 @@ Income Tax
 
 (c) the expenses are interest payable by the employee in respect of a loan raised by the employee wholly or partly because expenditure is incurred in connection with that acquisition before the proceeds of that disposal become available.
 
-(2)  Interest is only within this paragraph if or to the extent that the loan is used (a) for acquiring the employee’s interest in the new residence; or
+(2)  Interest is only within this paragraph if or to the extent that the loan is used- (a) for acquiring the employee’s interest in the new residence; or
 
 (b) for redeeming a loan–
 
@@ -1350,7 +1350,7 @@ L is the amount of the loan.
 
 (ii) the employee and one or more members of the employee’s family or household; and
 
-(b) references to the employee having, disposing of or acquiring an interest in a residence include
+(b) references to the employee having, disposing of or acquiring an interest in a residence include-
 
 (i) one or more members of the employee’s family or household having, disposing of or acquiring such an interest, or
 
@@ -1392,7 +1392,7 @@ Limited exemption of certain bridging loans connected with employment moves.
 
 (3)  In this paragraph–
 
-(a) references to a loan raised by the employee include a loan raised by
+(a) references to a loan raised by the employee include a loan raised by-
 
 (i) one or more members of the employee family or household; or
 
@@ -1410,9 +1410,9 @@ Income Tax
 
 Travel costs and expenses where duties performed abroad: employee’s travel.
 
-68.(1)  A deduction is allowed from earnings which are profits and gains from employment, where
+68.(1)  A deduction is allowed from earnings which are profits and gains from employment, where-
 
-(a) the earnings include an amount in respect of
+(a) the earnings include an amount in respect of-
 
 (i) the provision of travel facilities for a journey made by the employee, or
 
@@ -1422,7 +1422,7 @@ Travel costs and expenses where duties performed abroad: employee’s travel.
 
 (2)  The deduction is equal to the included amount.
 
-(3)  Case A is where
+(3)  Case A is where-
 
 (a) the employee is absent from Gibraltar wholly and exclusively for the purpose of performing the duties of one or more employments,
 
@@ -1482,7 +1482,7 @@ Income Tax
 
 (4)  Condition B is that the journey is between a place in his normal place of residence and a place outside that country, jurisdiction and territory where such duties are performed.
 
-(5)  Condition C is that the employee’s spouse or child is
+(5)  Condition C is that the employee’s spouse or child is-
 
 (a) accompanying the employee at the beginning of the period of absence;
 
@@ -1500,7 +1500,7 @@ DISPENSATIONS FROM OBLIGATIONS TO REPORT BENEFITS IN KIND
 
 General.
 
-70.  This Chapter applies for the purposes of the provisions of this Schedule where a person (the “Person”) supplies the Commissioner with a statement of the cases and circumstances in which
+70.  This Chapter applies for the purposes of the provisions of this Schedule where a person (the “Person”) supplies the Commissioner with a statement of the cases and circumstances in which-
 
 (a) payments of a particular character are made to or for any employees; or
 
@@ -1548,7 +1548,7 @@ Income Tax
 
 Revocation of Dispensation.
 
-76.  A notice under paragraph 75(3) may revoke the dispensation from
+76.  A notice under paragraph 75(3) may revoke the dispensation from-
 
 (a) the date when the dispensation was given, or
 
@@ -1556,7 +1556,7 @@ Revocation of Dispensation.
 
 Effect of revocation from date given.
 
-77.  If the notice revokes the dispensation from the date the dispensation was given
+77.  If the notice revokes the dispensation from the date the dispensation was given-
 
 (a) any liability to tax that would have arisen if the dispensation had never been given is treated as having arisen, and
 
@@ -1564,7 +1564,7 @@ Effect of revocation from date given.
 
 Effect of revocation from later date.
 
-78.  If the notice revokes the dispensation from a later date
+78.  If the notice revokes the dispensation from a later date-
 
 (a) any liability to tax that would have arisen if the dispensation had ceased to have effect on that date is to be treated as having arisen, and
 
@@ -1700,7 +1700,7 @@ Income Tax
 
 (c) Given the above, no payment on account will be necessary for the liability due for the period 1 January 2011 to 30 June 2011.
 
-(4)  In the case of a company
+(4)  In the case of a company-
 
 (a) any assessment made under the Previous Act for the year from 1 July 2010 to 30 June 2011 shall be deemed to be  an estimate of the profits due for assessment in the period from 1 July 2010 to 31 December 2010 under the Previous Act and an assessment of the payment on account due on 28 February 2011 and the Commissioner will charge the profits assessed on this basis.
 
@@ -1910,7 +1910,7 @@ the tax payable for the year of taxation or accounting period shall be reduced b
 
 (b) the profits and gains for the year of taxation or accounting period excluding the amount written back;
 
-as reduced by the difference between
+as reduced by the difference between-
 
 (a) the tax charged in the year or years of assessment in which the amount of the provision now being written back was created; and
 
@@ -1920,7 +1920,7 @@ as reduced by the difference between
 
 Designations, Appointments, etc.
 
-6.(1) For the purposes of
+6.(1) For the purposes of-
 
 Section 2(1), 2(3) and 2(4); Section 3(5); Section 4(1); Section 50(1); Section 57(6); Section 62(1); Schedule 2, Paragraph 1(2); and
 
@@ -1928,7 +1928,7 @@ Income Tax
 
 2010-21 Schedule 2, Paragraph 2(1)
 
-of this Act any designation, appointment, delegation, authorisation or similar act under
+of this Act any designation, appointment, delegation, authorisation or similar act under-
 
 Section 3(1), 3(2) and 3(3); Section 4(5); Section 4A(1); Section 53(1); Section 65(6); Section 88(1); Schedule 1, Paragraph 1 (2); and Schedule 1, Paragraph 2
 
@@ -1936,7 +1936,7 @@ of the Previous Act shall be deemed to have been made under this Act and shall t
 
 (2)  A declaration by a Member of the Tribunal or clerk or deputy clerk to the Tribunal under Schedule 1, Paragraph 4 of the Previous Act shall be deemed to have been made under Schedule 2, Paragraph 4 of this Act and shall, therefore, continue to be binding.
 
-(3)  For the purposes of
+(3)  For the purposes of-
 
 Section 50; Section 51; Section 52; Section 57(5) and 57(6); and Section 62
 
@@ -1992,7 +1992,7 @@ Changes in the law.
 
 Subordinate legislation.
 
-15.  Any subordinate legislation or other thing which
+15.  Any subordinate legislation or other thing which-
 
 (a) has been made or done, or has effect as if made or done, under or for the purposes of a repealed provision, and
 
@@ -2012,7 +2012,7 @@ is to be read as including, in relation to times, circumstances or purposes in r
 
 Reference to repealed provisions.
 
-17.  Any reference (express or implied) in any enactment, instrument or document to
+17.  Any reference (express or implied) in any enactment, instrument or document to-
 
 (a) a repealed provision, or
 
@@ -2041,6 +2041,110 @@ Section 39
 Income Tax
 
 2010-21 JAN FEB MAR APR MAY JUN JUL AUG SEP OCT NOV DEC OCT NOV DEC JAN FEB MAR APR MAY JUN JUL AUG SEP 1st payment for accounting period 28 FEB 30 SEP 30 SEP 30 SEP 30 SEP 30 SEP 30 SEP 30 SEP 28 FEB 28 FEB 28 FEB 28 FEB Payment date Basis period: 31/01/14 28/02/14 31/03/14 30/04/14 31/05/14 30/06/14 31/07/14 31/08/14 30/09/13 31/10/13 30/11/13 31/12/13 Allocated to: 2016 2016 2016 2016 2016 2016 2016 2016 2015 2015 2015 2015 Basis period: 31/01/15 28/02/14 31/03/14 30/04/14 31/05/14 30/06/14 31/07/14 31/08/14 30/09/14 31/10/14 30/11/14 31/12/14 Allocated to: 2017 2016 2016 2016 2016 2016 2016 2016 2016 2016 2016 2016 Basis period: 31/01/15 28/02/15 31/03/15 30/04/15 31/05/15 30/06/15 31/07/15 31/08/15 30/09/14 31/10/14 30/11/14 31/12/14 Allocated to: 2017 2017 2017 2017 2017 2017 2017 2017 2016 2016 2016 2016 Basis period: 31/01/16 28/02/15 31/03/15 30/04/15 31/05/15 30/06/15 31/07/15 31/08/15 30/09/15 31/10/15 30/11/15 31/12/15 Allocated to: 2018 2017 2017 2017 2017 2017 2017 2017 2017 2017 2017 2017 Basis period: 31/01/16 28/02/16 31/03/16 30/04/16 31/05/16 30/06/16 31/07/16 31/08/16 30/09/15 31/10/15 30/11/15 31/12/15 Allocated to: 2018 2018 2018 2018 2018 2018 2018 2018 2017 2017 2017 2017 Basis period: 31/01/17 28/02/16 31/03/16 30/04/16 31/05/16 30/06/16 31/07/16 31/08/16 30/09/16 31/10/16 30/11/16 31/12/16 Allocated to: 2019 2018 2018 2018 2018 2018 2018 2018 2018 2018 2018 2018 Basis period: 31/01/17 28/02/17 31/03/17 30/04/17 31/05/17 30/06/17 31/07/17 31/08/17 30/09/16 31/10/16 30/11/16 31/12/16 Allocated to: 2019 2019 2019 2019 2019 2019 2019 2019 2018 2018 2018 2018 Basis period: 31/01/18 28/02/17 31/03/17 30/04/17 31/05/17 30/06/17 31/07/17 31/08/17 30/09/17 31/10/17 30/11/17 31/12/17 Allocated to: 2020 2019 2019 2019 2019 2019 2019 2019 2019 2019 2019 2019 Basis period: 31/01/18 28/02/18 31/03/18 30/04/18 31/05/18 30/06/18 31/07/18 31/08/18 30/09/17 31/10/17 30/11/17 31/12/17 Allocated to: 2020 2020 2020 2020 2020 2020 2020 2020 2019 2019 2019 2019 Basis period: 31/01/19 28/02/18 31/03/18 30/04/18 31/05/18 30/06/18 31/07/18 31/08/18 30/09/18 31/10/18 30/11/18 31/12/18 Allocated to: 2021 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 Basis period: Allocated to: The accounting period for which the payment is made towards. 28 February 2020 The accounting period on which the payment is based. Payments are calculated at the applicable rate of tax on 50% of the taxable profits arising in the accounting periods indicated. TABLE PAYMENTS ON ACCOUNT 28 February 2016 30 September 2016 28 February 2017 30 September 2017 28 February 2019 30 September 2019 Accounting period end: Accounts to be filed by: 30 September 2015 28 February 2018 30 September 2018
+
+Income Tax
+
+2010-21 SCHEDULE 11
+
+REPORTABLE CROSS-BORDER ARRANGEMENTS: HALLMARKS
+
+Section 10ZE(1)
+
+Part I. Main benefit test
+
+Generic hallmarks under category A and specific hallmarks under category B and under points (b)(i), (c) and (d) of paragraph 1 of category C may only be taken into account where they fulfil the “main benefit test”.
+
+That test will be satisfied if it can be established that the main benefit or one of the main benefits which, having regard to all relevant facts and circumstances, a person may reasonably expect to derive from an arrangement is the obtaining of a tax advantage.
+
+In the context of hallmark under paragraph 1 of category C, the presence of conditions set out in points (b)(i), (c) or (d) of paragraph 1 of category C cannot alone be a reason for concluding that an arrangement satisfies the main benefit test.
+
+Part II. Categories of hallmarks
+
+A. Generic hallmarks linked to the main benefit test
+
+1.  An arrangement where the relevant taxpayer or a participant in the arrangement undertakes to comply with a condition of confidentiality which may require them not to disclose how the arrangement could secure a tax advantage vis-à-vis other intermediaries or the tax authorities.
+
+2.  An arrangement where the intermediary is entitled to receive a fee (or interest, remuneration for finance costs and other charges) for the arrangement and that fee is fixed by reference to:
+
+(a) the amount of the tax advantage derived from the arrangement; or
+
+(b)  whether or not a tax advantage is actually derived from the arrangement. This would include an obligation on the intermediary to partially or fully refund the fees where the intended tax advantage derived from the arrangement was not partially or fully achieved.
+
+Income Tax
+
+2010-21 3.  An arrangement that has substantially standardised documentation and/or structure and is available to more than one relevant taxpayer without a need to be substantially customised for implementation.
+
+B. Specific hallmarks linked to the main benefit test
+
+1.  An arrangement whereby a participant in the arrangement takes contrived steps which consist in acquiring a loss- making company, discontinuing the main activity of such company and using its losses in order to reduce its tax liability, including through a transfer of those losses to another jurisdiction or by the acceleration of the use of those losses.
+
+2.  An arrangement that has the effect of converting income into capital, gifts or other categories of revenue which are taxed at a lower level or exempt from tax.
+
+3.  An arrangement which includes circular transactions resulting in the round-tripping of funds, namely through involving interposed entities without other primary commercial function or transactions that offset or cancel each other or that have other similar features.
+
+C. Specific hallmarks related to cross-border transactions
+
+1.  An arrangement that involves deductible cross-border payments made between two or more associated enterprises where at least one of the following conditions occurs:
+
+(a) the recipient is not resident for tax purposes in any tax jurisdiction;
+
+(b) although the recipient is resident for tax purposes in a jurisdiction, that jurisdiction either:
+
+(i) does not impose any corporate tax or imposes corporate tax at the rate of zero or almost zero; or
+
+(ii) is included in a list of third-country jurisdictions which have been assessed by Member States collectively or within the framework of the OECD as being non- cooperative;
+
+(c) the payment benefits from a full exemption from tax in the jurisdiction where the recipient is resident for tax purposes;
+
+(d) the payment benefits from a preferential tax regime in the jurisdiction where the recipient is resident for tax purposes;
+
+Income Tax
+
+2010-21
+
+2.  Deductions for the same depreciation on the asset are claimed in more than one jurisdiction.
+
+3.  Relief from double taxation in respect of the same item of income or capital is claimed in more than one jurisdiction.
+
+4.  There is an arrangement that includes transfers of assets and where there is a material difference in the amount being treated as payable in consideration for the assets in those jurisdictions involved.
+
+D. Specific hallmarks concerning automatic exchange of information and beneficial ownership
+
+1.  An arrangement which may have the effect of undermining the reporting obligation under the laws implementing Union legislation or any equivalent agreements on the automatic exchange of Financial Account information, including agreements with third countries, or which takes advantage of the absence of such legislation or agreements. Such arrangements include at least the following:
+
+(a) the use of an account, product or investment that is not, or purports not to be, a Financial Account, but has features that are substantially similar to those of a Financial Account;
+
+(b) the transfer of Financial Accounts or assets to, or the use of jurisdictions that are not bound by the automatic exchange of Financial Account information with the State of residence of the relevant taxpayer;
+
+(c) the reclassification of income and capital into products or payments that are not subject to the automatic exchange of Financial Account information;
+
+(d) the transfer or conversion of a Financial Institution or a Financial Account or the assets therein into a Financial Institution or a Financial Account or assets not subject to reporting under the automatic exchange of Financial Account information;
+
+(e) the use of legal entities, arrangements or structures that eliminate or purport to eliminate reporting of one or more Account Holders or Controlling Persons under the automatic exchange of Financial Account information;
+
+Income Tax
+
+2010-21 (f) arrangements that undermine, or exploit weaknesses in, the due diligence procedures used by Financial Institutions to comply with their obligations to report Financial Account information, including the use of jurisdictions with inadequate or weak regimes of enforcement of anti-money-laundering legislation or with weak transparency requirements for legal persons or legal arrangements.
+
+2.  An arrangement involving a non-transparent legal or beneficial ownership chain with the use of persons, legal arrangements or structures:
+
+(a) that do not carry on a substantive economic activity supported by adequate staff, equipment, assets and premises; and
+
+(b) that are incorporated, managed, resident, controlled or established in any jurisdiction other than the jurisdiction of residence of one or more of the beneficial owners of the assets held by such persons, legal arrangements or structures; and
+
+(c)  where the beneficial owners of such persons, legal arrangements or structures, as defined in Directive (EU) 2015/849, are made unidentifiable.
+
+E. Specific hallmarks concerning transfer pricing
+
+1.  An arrangement which involves the use of unilateral safe harbour rules.
+
+2.  An arrangement involving the transfer of hard-to-value intangibles. The term “hard-to-value intangibles” covers intangibles or rights in intangibles for which, at the time of their transfer between associated enterprises:
+
+(a) no reliable comparables exist; and
+
+(b) at the time the transaction was entered into, the projections of future cash flows or income expected to be derived from the transferred intangible, or the assumptions used in valuing the intangible are highly uncertain, making it difficult to predict the level of ultimate success of the intangible at the time of the transfer.
+
+3.  An arrangement involving an intragroup cross-border transfer of functions and/or risks and/or assets, if the projected annual earnings before interest and taxes (EBIT), during the three-year period after the transfer, of the transferor or transferors, are less than 50 % of the projected annual EBIT of such transferor or transferors if the transfer had not been made.
 
 Income Tax
 
