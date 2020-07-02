@@ -1,42 +1,26 @@
-Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
+Subsidiary Legislation made under ss.5, 8, 10, 11, 12 and 54.
 
-1961-10
+Commonwealth and Foreign Post Regulations
 
-Subsidiary 1975/084 Regulations made under ss.5, 8, 10, 11, 12 and 54.
+LN.1975/084
 
-COMMONWEALTH AND FOREIGN POST REGULATIONS
-
-(LN. 1975/084)
-
-1.7.1975
+Commencement 1.7.1975
 
 Amending enactments Relevant current provisions Commencement date
 
 LN. 1976/036 r. 17(4)
 
-1976/152 r. 31
+1976/152 r. 31 1979/092 –
 
-1979/092 –
+1980/081 rr. 27, 29, 30(2), 37(1)-(2), (4), 39, Schs. 1-3 1981/111 rr. 23, 27, 29, 30(2), 31, 37(1)-(2), (4), 39, Schs. 1-3
 
-1980/081 rr. 27, 29, 30(2), 37(1)-(2), (4), 39, Schs. 1- 3
-
-1981/111 rr. 23, 27, 29, 30(2), 31, 37(1)-(2), (4), 39, Schs. 1-3
-
-1984/023 rr. 22, 27, 30(2)(c), 34, 37(4). Schs 1-3, 5 1.4.1984 1986/014 rr. 10(1)(a)-(b), 22, 27, 30(2)(c), 36, 39, Schs. 1-3, 5
-
-1.3.1986 1991/007 rr. 10(1)(a)-(b), 22, 30(2)(c), 31, 37(1)-(2), (4). Schs 1-3
+1984/023 rr. 22, 27, 30(2)(c), 34, 37(4). Schs 1-3, 5 1.4.1984 1986/014 rr. 10(1)(a)-(b), 22, 27, 30(2)(c), 36, 39, Schs. 1-3, 5 1.3.1986 1991/007 rr. 10(1)(a)-(b), 22, 30(2)(c), 31, 37(1)-(2), (4). Schs 1- 3
 
 1.2.1991 1991/181 Sch 2 14.10.1991 1996/119 rr. 10(a)-(b), 22, 30(2)(c), 31, 37(1)-(2), (4), 39. Schs. 1-3, 5
 
-1.1.1997 1998/053 Sch. 2 2.7.1998 1999/030 Schs. 1-4 1.4.1999 2004/089 rr. 10, 11(2)(h), 27, 30(2), 37(1),(3), 37(2), Sch 2-4
+1.1.1997 1998/053 Sch. 2 2.7.1998 1999/030 Schs. 1-4 1.4.1999 2004/089 rr. 10, 11(2)(h), 27, 30(2), 37(1),(3), 37(2), Sch 2-4 13.9.2004 2006/099 Sch. 2 1.9.2006 Act. 2007-17 rr. 11(2)(v), 33(1)(g), 40(1), (3) 14.6.2007 LN. 2008/059 rr. 27, 29, 30(2)(c), 39, Schs. 1-2 15.8.2008 2020/247 Schs. 1-2 2.7.2020
 
-13.9.2004 2006/099 Sch. 2 1.9.2006 Act. 2007-17 rr. 11(2)(v), 33(1)(g), 40(1), (3) 14.6.2007 LN. 2008/059 rr. 27, 29, 30(2)(c), 39, Schs. 1-2 15.8.2008
-
-Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
-
-1961-10
-
-Subsidiary 1975/084 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -56,19 +40,13 @@ PART III. CONDITIONS RELATING TO PARTICULAR CLASSES OF PACKETS.
 
 PART IV. POSTAL FACILITIES.
 
-Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
-
-1961-10
-
-Subsidiary 1975/084
-
 26. Postal facilities. 27. Express delivery. 28. Transmission in bulk. 29. Certificate of posting. 30. Registration. 31. Compensation for registered packets. 32. Compulsory registration and insurance. 33. Insured letters. 34. Compensation for insured letters. 35. Insured boxes. 36. Compensation - general. 37. Advice of delivery and enquiries. 38. Redirection. 39. Reply coupons. 40. Postal packets in bond.
 
 PART V. GENERAL.
 
 41. Postal packets posted on ships. 42. Priority of letter post. 43. Remission of postage and fees. 44. Application of Local Post Regulations. 45. Saving. 46. Omitted.
 
-SCHEDULE 1. Surface (All Countries)
+SCHEDULE 1. Deleted.
 
 SCHEDULE 2. Air Mail Rates of Postage on Postal Packets posted in Gibraltar
 
@@ -77,7 +55,3 @@ SCHEDULE 3. Revoked.
 SCHEDULE 4. Limits of Weight and Size.
 
 SCHEDULE 5. Compensation.
-
-SCHEDULE 6. Application of Local Post Regulations.
-
-Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS

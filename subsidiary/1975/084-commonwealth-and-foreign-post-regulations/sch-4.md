@@ -8,14 +8,10 @@ LIMITS OF WEIGHT AND SIZE.
 
 Col. 1 Col. 2 Col. 3
 
-Maximum Weight Maximum size 1. Letter 2 kg. Length, width and depth combined - 900mm but the greatest dimension may not exceed - 600mm. 2. Postcards – 105 x 148mm, with a tolerance of 2mm.
+Maximum Weight Maximum size 1. Letter 2 kg. Length, width and depth combined - 900mm but the greatest dimension may not exceed - 600mm.
+
+2. Postcards – 105 x 148mm, with a tolerance of 2mm.
 
 3. Printed papers
 
 revoked. 4. Literature for the blind 7 kg. As for letters
-
-Post Office COMMONWEALTH AND FOREIGN POST REGULATIONS
-
-1961-10
-
-Subsidiary 1975/084
