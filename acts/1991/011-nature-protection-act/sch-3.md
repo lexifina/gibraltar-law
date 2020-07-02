@@ -8,7 +8,9 @@ Name Common name or description
 
 Phalacrocrax aristotelis desmarestii Mediterranean Shag
 
-Falconiformes Any bird of prey
+Accipitriformes All soaring birds of prey
+
+Falconiformes All Falcons
 
 Alectoris barbara Barbary Partridge
 
@@ -38,11 +40,11 @@ Torneuma bensusani A near-endemic beetle
 
 Cerastium gibraltaricum Gibraltar Chickweed
 
-Silene tomentosa Gibraltar Sea Campion
-
 Nature Protection
 
 1991-11
+
+Silene tomentosa Gibraltar Sea Campion
 
 Iberis gibraltarica Gibraltar Candytuft
 
