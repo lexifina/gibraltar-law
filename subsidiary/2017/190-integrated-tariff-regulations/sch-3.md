@@ -116,7 +116,7 @@ NOTE:
 
 1. Tobacco Products- 200 cigarettes or 100 cigarillos (cigars with a maximum weight of 3 grammes each) or 50 cigars or 250 grammes of smoking tobacco.
 
-2. Alcoholic Beverages – one standard bottle (0.70 to 1 litre) of distilled beverages and spirits of an alcoholic strength exceeding 22% or a total of 2 litres of distilled beverages, spirits, aperitifs,
+2. Alcoholic Beverages – one standard bottle (0.70 to 1 litre) of distilled beverages and spirits of an alcoholic strength exceeding 22% or a total of 2 litres of distilled beverages, spirits, aperitifs, sparkling wines and fortified wines with a wine or alcoholic base or an alcoholic
 
 Free
 
@@ -124,7 +124,7 @@ Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 1986-21
 
-Subsidiary 2017/190 sparkling wines and fortified wines with a wine or alcoholic base or an alcoholic strength not exceeding 22 degrees and also in either case, distilled wines to a total of 2 litres.
+Subsidiary 2017/190 strength not exceeding 22 degrees and also in either case, distilled wines to a total of 2 litres.
 
 3. Perfume – 50 grammes (60 cc. or 2 fl. ozs).
 
@@ -168,19 +168,21 @@ Provided that the vehicle–
 
 Provided that the transportation by a sales representative of the samples, handbooks and tools necessary for the exercise of his occupation, shall not be treated as industrial or commercial transportation;
 
+(b) is not let, hired out or otherwise disposed of whilst in Gibraltar;
+
 Free
 
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 1986-21
 
-Subsidiary 2017/190 (b) is not let, hired out or otherwise disposed of whilst in Gibraltar;
+Subsidiary 2017/190
 
 (c) is intended to be exported and is so exported from Gibraltar on the departure therefrom by the temporary visitor, unless in any particular case, the Collector shall have otherwise allowed; and
 
 (d) the vehicle has complied at its place of registration with the customs or other duties and taxes to which vehicles of that class or description are normally liable and has not, by reason of its exportation been subject to any exemption from or refund of, such duties and taxes or any turnover tax, excise duty or other consumption tax
 
-20. A vehicle imported into Gibraltar by a person who satisfies and continues to satisfy the  Collector that–
+20. A vehicle imported into Gibraltar by a person who satisfies and continues to satisfy the Collector that–
 
 (a)      the person is a serving and uniformed member of one of Her Majesty’s Forces posted from overseas for service in Gibraltar or the spouse of such a member; or
 
@@ -258,17 +260,15 @@ Free
 
 (a) Subject to paragraph (b), with an engine capacity not exceeding 1500cc
 
-(aa) With a diesel engine capacity not exceeding 1500cc
-
 15%
-
-25%
 
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 1986-21
 
 Subsidiary 2017/190
+
+(aa) With a diesel engine capacity not exceeding 1500cc
 
 (b) In the case of a hybrid motor vehicle falling within (a)
 
@@ -283,6 +283,8 @@ In the case of a hybrid motor vehicle falling within (c)
 (f)
 
 In the case of a hybrid motor vehicle falling within (e)
+
+25%
 
 Free
 
@@ -360,11 +362,21 @@ Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 1986-21
 
-Subsidiary 2017/190 40. Commercial importation of unmounted precious stones
+Subsidiary 2017/190
+
+40. Commercial importation of unmounted precious stones
 
 Free
 
 41. Liquefied Natural Gas imported for the exclusive use by the Gibraltar Power Plant.
+
+Free
+
+42. Private imports of clothing clearly identified as being intended for a child.
+
+Free
+
+43. Private imports of goods other than tobacco, alcohol and plastic products with an invoiced value of less than £25.00.
 
 Free
 
