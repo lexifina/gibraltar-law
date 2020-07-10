@@ -14,11 +14,7 @@ A.  Subject to paragraphs C through E, each Reporting Financial Institution must
 
 2. the account number (or functional equivalent in the absence of an account number);
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 3. the name and identifying number (if any) of the Reporting Financial Institution;
+3. the name and identifying number (if any) of the Reporting Financial Institution;
 
 4. the account balance or value (including, in the case of a Cash Value Insurance Contract or Annuity Contract, the Cash Value or surrender value) as of the end of the relevant calendar year or other appropriate reporting period or, if the account was closed during such year or period, the closure of the account;
 
@@ -34,13 +30,7 @@ Subsidiary 2016/253 3. the name and identifying number (if any) of the Reporting
 
 B.  The information reported must identify the currency in which each amount is denominated.
 
-C.  Notwithstanding subparagraph A(1), with respect to each Reportable Account that is a Pre-existing Account, the TIN(s) or date of birth is not required to be reported if such TIN(s) or date of birth is not in the records of the Reporting Financial Institution and is not otherwise required to be
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 collected by such Reporting Financial Institution under domestic law or any Union legal instrument. However, a Reporting Financial Institution is required to use reasonable efforts to obtain the TIN(s) and date of birth with respect to Pre-existing Accounts by the end of the second calendar year were identified as Reportable Accounts.
+C.  Notwithstanding subparagraph A(1), with respect to each Reportable Account that is a Pre- existing Account, the TIN(s) or date of birth is not required to be reported if such TIN(s) or date of birth is not in the records of the Reporting Financial Institution and is not otherwise required to be collected by such Reporting Financial Institution under domestic law or any Union legal instrument. However, a Reporting Financial Institution is required to use reasonable efforts to obtain the TIN(s) and date of birth with respect to Pre-existing Accounts by the end of the second calendar year were identified as Reportable Accounts.
 
 D.  Notwithstanding subparagraph A(1), the TIN is not required to be reported if a TIN is not issued by the relevant Member State or other jurisdiction of residence.
 
@@ -62,12 +52,6 @@ C.  Where a balance or value threshold is to be determined as of the last day of
 
 D.  Each Member State may allow Reporting Financial Institutions to use service providers to fulfil the reporting and due diligence obligations imposed on such Reporting Financial Institutions, as contemplated in domestic law, but these obligations shall remain the responsibility of the Reporting Financial Institutions.
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 E.  Each Member State may allow Reporting Financial Institutions to apply the due diligence procedures for New Accounts to Pre-existing Accounts, and the due diligence procedures for High Value Accounts to Lower Value Accounts. Where a Member State allows New Account due diligence procedures to be used for Pre-existing Accounts, the rules otherwise applicable to Pre-existing Accounts continue to apply.
 
 SECTION III
@@ -88,12 +72,6 @@ B.  Lower Value Accounts. The following procedures apply with respect to Lower V
 
 (c) one or more telephone numbers in a Member State and no telephone number in the Member State of the Reporting Financial Institution;
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 (d) standing instructions (other than with respect to a Depository Account) to transfer funds to an account maintained in a Member State;
 
 (e) currently effective power of attorney or signatory authority granted to a person with an address in a Member State; or
@@ -106,33 +84,23 @@ Subsidiary 2016/253
 
 5. If a “hold mail” instruction or “in-care-of” address is discovered in the electronic search and no other address and none of the other indicia listed in subparagraph B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must, in the order most appropriate to the circumstances, apply the paper record search described in subparagraph C(2), or seek to obtain from the Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of such Account Holder. If the paper search fails to establish an indicium and the attempt to obtain the self-certification or Documentary Evidence is not successful, the Reporting Financial Institution must report the account to the competent authority of its Member State as an undocumented account.
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 6. Notwithstanding a finding of indicia under subparagraph B(2), a Reporting Financial Institution is not required to treat an Account Holder as a resident of a Member State if:
+6. Notwithstanding a finding of indicia under subparagraph B(2), a Reporting Financial Institution is not required to treat an Account Holder as a resident of a Member State if:
 
 (a) the Account Holder information contains a current mailing or residence address in that Member State, one or more telephone numbers in that Member State (and no telephone number in the Member State of the Reporting Financial Institution) or standing instructions (with respect to Financial Accounts other than Depository Accounts) to transfer funds to an account maintained in a Member State, and the Reporting Financial Institution obtains, or has previously reviewed and maintains, a record of:
 
 (i) a self-certification from the Account Holder of the Member State(s) or other jurisdiction(s) of residence of such Account Holder that does not include that Member State; and
 
-(ii) Documentary Evidence establishing the Account Holder's non-reportable status;
+(ii) Documentary Evidence establishing the Account Holder's non- reportable status;
 
 (b) the Account Holder information contains a currently effective power of attorney or signatory authority granted to a person with an address in that Member State, and the Reporting Financial Institution obtains, or has previously reviewed and maintains, a record of:
 
 (i) a self-certification from the Account Holder of the Member State(s) or other jurisdiction(s) of residence of such Account Holder that does not include that Member State; or
 
-(ii) Documentary Evidence establishing the Account Holder's non-reportable status.
+(ii) Documentary Evidence establishing the Account Holder's non- reportable status.
 
 C.  Enhanced Review Procedures for High Value Accounts. The following enhanced review procedures apply with respect to High Value Accounts.
 
 1. Electronic Record search. With respect to High Value Accounts, the Reporting Financial Institution must review electronically searchable data maintained by the Reporting Financial Institution for any of the indicia described in subparagraph B(2).
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
 
 2. Paper Record Search. If the Reporting Financial Institution's electronically searchable databases include fields for, and capture all of the information described in, subparagraph C(3), then a further paper record search is not required. If the electronic databases do not capture all of this information, then with respect to a High Value Account, the Reporting Financial Institution must also review the current customer master file and, to the extent not contained in the current customer master file, the following documents associated with the account and obtained by the Reporting Financial Institution within the last five years for any of the indicia described in subparagraph B(2):
 
@@ -154,12 +122,6 @@ Subsidiary 2016/253
 
 (c) the Account Holder's telephone number(s) currently on file, if any, with the Reporting Financial Institution;
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 (d) in the case of Financial Accounts other than Depository Accounts, whether there are standing instructions to transfer funds in the account to another account (including an account at another branch of the Reporting Financial Institution or another Financial Institution);
 
 (e) whether there is a current “in-care-of” address or “hold mail” instruction for the Account Holder; and
@@ -174,29 +136,21 @@ Subsidiary 2016/253
 
 (b) If any of the indicia listed in subparagraphs B(2)(a) through (e) are discovered in the enhanced review of High Value Accounts described in paragraph C, or if there is a subsequent change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution must treat the account as a Reportable Account with respect to each Member State for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account.
 
-(c) If a “hold mail” instruction or “in-care-of” address is discovered in the enhanced review of High Value
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 Accounts described in paragraph C, and no other address and none of the other indicia listed in subparagraphs B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must obtain from such Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain such self-certification or Documentary Evidence, it must report the account to the competent authority of its Member State as an undocumented account.
+(c) If a “hold mail” instruction or “in-care-of” address is discovered in the enhanced review of High Value Accounts described in paragraph C, and no other address and none of the other indicia listed in subparagraphs B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must obtain from such Account Holder a self- certification or Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain such self-certification or Documentary Evidence, it must report the account to the competent authority of its Member State as an undocumented account.
 
 6. If a Pre-existing Individual Account is not a High Value Account as of 31 December 2015, but becomes a High Value Account as of the last day of a subsequent calendar year, the Reporting Financial Institution must complete the enhanced review procedures described in paragraph C with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Financial Institution must report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person.
 
-7. Once a Reporting Financial Institution applies the enhanced review procedures described in paragraph C to a High Value Account, the Reporting Financial Institution is not required to reapply such procedures, other than the relationship manager inquiry described in subparagraph C(4), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting Financial Institution should reapply them annually until such account ceases to be undocumented.
+7. Once a Reporting Financial Institution applies the enhanced review procedures described in paragraph C to a High Value Account, the Reporting Financial Institution is not required to reapply such procedures, other than the relationship manager inquiry described in subparagraph C(4), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting
+
+Financial Institution should reapply them annually until such account ceases to be undocumented.
 
 8. If there is a change of circumstances with respect to a High Value Account that results in one or more indicia described in subparagraph B(2) being associated with the account, then the Reporting Financial Institution must treat the account as a Reportable Account with respect to each Member State for which an indicium is identified unless it elects to apply subparagraph B(6) and one of the exceptions in that subparagraph applies with respect to that account.
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 9. A Reporting Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in a Member State, the Reporting Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply subparagraph B(6), is required to obtain the appropriate documentation from the Account Holder.
+9. A Reporting Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in a Member State, the Reporting Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply subparagraph B(6), is required to obtain the appropriate documentation from the Account Holder.
 
 D.  Review of Pre-existing High Value Individual Accounts must be completed by 31 December 2016. Review of Pre-existing Lower Value Individual Accounts must be completed by 31 December 2017.
 
-E. Any Pre-existing Individual Account that has been identified as a Reportable Account under this Section must be treated as a Reportable Account in all subsequent years, unless the Account Holder ceases to be a Reportable Person.
+E.  Any Pre-existing Individual Account that has been identified as a Reportable Account under this Section must be treated as a Reportable Account in all subsequent years, unless the Account Holder ceases to be a Reportable Person.
 
 SECTION IV
 
@@ -208,55 +162,39 @@ A.  With respect to New Individual Accounts, upon account opening, the Reporting
 
 B.  If the self-certification establishes that the Account Holder is resident for tax purposes in a Member State, the Reporting Financial Institution must treat the account as a Reportable Account and the self-certification must also include the Account Holder's TIN with respect to such Member State (subject to paragraph D of Section I) and date of birth.
 
-C.  If there is a change of circumstances with respect to a New Individual Account that causes the Reporting Financial Institution to know, or have reason to know, that the original self-certification is incorrect or unreliable, the Reporting Financial Institution cannot rely on the original self-
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 certification and must obtain a valid self-certification that establishes the residence(s) for tax purposes of the Account Holder.
+C.  If there is a change of circumstances with respect to a New Individual Account that causes the Reporting Financial Institution to know, or have reason to know, that the original self- certification is incorrect or unreliable, the Reporting Financial Institution cannot rely on the original self-certification and must obtain a valid self-certification that establishes the residence(s) for tax purposes of the Account Holder.
 
 SECTION V
 
 DUE DILIGENCE FOR PRE-EXISTING ENTITY ACCOUNTS
 
-The following procedures apply for purposes of identifying Reportable Accounts among Pre-existing Entity Accounts.
+The following procedures apply for purposes of identifying Reportable Accounts among Pre- existing Entity Accounts.
 
-A.  Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Financial Institution elects otherwise, either with respect to all Pre-existing Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Pre-existing Entity Account with an aggregate account balance or value that does not exceed, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000, is not required to be reviewed, identified, or reported as a Reportable Account until the aggregate account balance or value exceeds that amount as of the last day of any subsequent calendar year.
+A.  Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Financial Institution elects otherwise, either with respect to all Pre-existing Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Pre- existing Entity Account with an aggregate account balance or value that does not exceed, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000, is not required to be reviewed, identified, or reported as a Reportable Account until the aggregate account balance or value exceeds that amount as of the last day of any subsequent calendar year.
 
-B.  Entity Accounts Subject to Review. A Pre-existing Entity Account that has an aggregate account balance or value that exceeds, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000, and a Pre-existing Entity Account that does not exceed, as of 31 December 2015, that amount but the aggregate account balance or value of which exceeds such amount as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph D.
+B.  Entity Accounts Subject to Review. A Pre-existing Entity Account that has an aggregate account balance or value that exceeds, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000, and a Pre- existing Entity Account that does not exceed, as of 31 December 2015, that amount but the aggregate account balance or value of which exceeds such amount as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph D.
 
-C.  Entity Accounts With Respect to Which Reporting Is Required. With respect to Pre-existing Entity Accounts described in paragraph B, only accounts that are held by one or more Entities that are Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons, shall be treated as Reportable Accounts.
+C.  Entity Accounts With Respect to Which Reporting Is Required. With respect to Pre- existing Entity Accounts described in paragraph B, only accounts that are held by one or more Entities that are Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons, shall be treated as Reportable Accounts.
 
 D.  Review Procedures for Identifying Entity Accounts With Respect to Which Reporting Is Required. For Pre-existing Entity Accounts described in paragraph B, a Reporting Financial Institution must apply the following review procedures to determine whether the account is held by one or more Reportable Persons, or by Passive NFEs with one or more Controlling Persons who are Reportable Persons:
 
 1. Determine Whether the Entity Is a Reportable Person.
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 (a) Review information maintained for regulatory or customer relationship purposes (including information collected pursuant to AML/KYC Procedures) to determine whether the information indicates that the Account Holder is resident in a Member State. For this purpose, information indicating that the Account Holder is resident in a Member State includes a place of incorporation or organisation, or an address in a Member State.
 
 (b) If the information indicates that the Account Holder is resident in a Member State, the Reporting Financial Institution must treat the account as a Reportable Account unless it obtains a self-certification from the Account Holder, or reasonably determines based on information in its possession or that is publicly available, that the Account Holder is not a Reportable Person.
 
-2. Determine Whether the Entity is a Passive NFE with One or More Controlling Persons who are Reportable Persons. With respect to an Account Holder of a Pre-existing Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons who are Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs D(2)(a) through (c) in the order most appropriate under the circumstances.
+2. Determine Whether the Entity is a Passive NFE with One or More Controlling Persons who are Reportable Persons. With respect to an Account Holder of a Pre- existing Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons who are Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs D(2)(a) through (c) in the order most appropriate under the circumstances.
 
-(a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
+(a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph
 
-(b) Determining the Controlling Persons of an Account Holder. For the purposes of determining the Controlling
+A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
+(b) Determining the Controlling Persons of an Account Holder. For the purposes of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
 
 (c) Determining whether a Controlling Person of a Passive NFE is a Reportable Person. For the purposes of determining whether a Controlling Person of a Passive NFE is a Reportable Person, a Reporting Financial Institution may rely on:
 
-(i) information collected and maintained pursuant to AML/KYC Procedures in the case of a Pre- existing Entity Account held by one or more NFEs with an aggregate account balance or value that does not exceed an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000; or
+(i) information collected and maintained pursuant to AML/KYC Procedures in the case of a Pre-existing Entity Account held by one or more NFEs with an aggregate account balance or value that does not exceed an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000; or
 
 (ii) a self-certification from the Account Holder or such Controlling Person of the Member State(s) or other jurisdiction(s) in which the controlling person is resident for tax purposes.
 
@@ -266,13 +204,7 @@ E.  Timing of Review and Additional Procedures Applicable to Pre-existing Entity
 
 2. Review of Pre-existing Entity Accounts with an aggregate account balance or value that does not exceed, as of 31 December 2015, an amount denominated in the domestic currency of each Member State that corresponds to USD 250 000 but exceeds that amount as of 31 December of a subsequent year, must be completed within the calendar year following the year in which the aggregate account balance or value exceeds such amount.
 
-3. If there is a change of circumstances with respect to a Pre- existing Entity Account that causes the Reporting Financial Institution to know, or have reason to know, that the self-
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 certification or other documentation associated with an account is incorrect or unreliable, the Reporting Financial Institution must re-determine the status of the account in accordance with the procedures set forth in paragraph D.
+3. If there is a change of circumstances with respect to a Pre-existing Entity Account that causes the Reporting Financial Institution to know, or have reason to know, that the self-certification or other documentation associated with an account is incorrect or unreliable, the Reporting Financial Institution must re-determine the status of the account in accordance with the procedures set forth in paragraph D.
 
 SECTION VI
 
@@ -288,13 +220,9 @@ Review Procedures for Identifying Entity Accounts With Respect to Which Reportin
 
 (b) If the self-certification indicates that the Account Holder is resident in a Member State, the Reporting Financial Institution must treat the account as a Reportable Account, unless it reasonably determines based on information in its possession or that is publicly available that the Account Holder is not a Reportable Person with respect to such Member State.
 
-2. Determine Whether the Entity is a Passive NFE with One or More Controlling Persons Who Are Reportable Persons. With respect to an Account Holder of a New Entity Account
+2. Determine Whether the Entity is a Passive NFE with One or More Controlling Persons Who Are Reportable Persons. With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons who are Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 (including an Entity that is a Reportable Person), the Reporting Financial Institution must determine whether the Account Holder is a Passive NFE with one or more Controlling Persons who are Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances.
+Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances.
 
 (a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must rely on a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
 
@@ -308,15 +236,11 @@ SPECIAL DUE DILIGENCE RULES
 
 The following additional rules apply in implementing the due diligence procedures described above:
 
-A.  Reliance on Self-Certifications and Documentary Evidence. A Reporting Financial Institution may not rely on a self-certification or Documentary Evidence if the Reporting Financial Institution knows or has
+A.  Reliance on Self-Certifications and Documentary Evidence. A Reporting Financial Institution may not rely on a self-certification or Documentary Evidence if the Reporting Financial Institution knows or has reason to know that the self-certification or Documentary Evidence is incorrect or unreliable.
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
+B.  Alternative Procedures for Financial Accounts held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract and for a Group Cash Value Insurance Contract or Group Annuity Contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial
 
-2014-06
-
-Subsidiary 2016/253 reason to know that the self-certification or Documentary Evidence is incorrect or unreliable.
-
-B.  Alternative Procedures for Financial Accounts held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract and for a Group Cash Value Insurance Contract or Group Annuity Contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial Institution and associated with the beneficiary contains indicia as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III.
+Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial Institution and associated with the beneficiary contains indicia as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III.
 
 A Reporting Financial Institution may treat a Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract as a Financial Account that is not a Reportable Account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the Financial Account that is a member's interest in a Group Cash Value Insurance Contract or Group Annuity Contract meets the following requirements:
 
@@ -326,13 +250,7 @@ A Reporting Financial Institution may treat a Financial Account that is a member
 
 (iii) the aggregate amount payable to any employee/certificate holder or beneficiary does not exceed an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000.
 
-The term “Group Cash Value Insurance Contract” means a Cash Value Insurance Contract that (i) provides coverage on individuals who are affiliated through an employer, trade association, labour union, or other
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 association or group; and (ii) charges a premium for each member of the group (or member of a class within the group) that is determined without regard to the individual health characteristics other than age, gender, and smoking habits of the member (or class of members) of the group.
+The term “Group Cash Value Insurance Contract” means a Cash Value Insurance Contract that (i) provides coverage on individuals who are affiliated through an employer, trade association, labour union, or other association or group; and (ii) charges a premium for each member of the group (or member of a class within the group) that is determined without regard to the individual health characteristics other than age, gender, and smoking habits of the member (or class of members) of the group.
 
 The term “Group Annuity Contract” means an Annuity Contract under which the obligees are individuals who are affiliated through an employer, trade association, labour union, or other association or group.
 
@@ -342,13 +260,7 @@ C.  Account Balance Aggregation and Currency Rules
 
 2. Aggregation of Entity Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution's computerised systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
 
-3. Special Aggregation Rule Applicable to Relationship Managers. For purposes of determining the aggregate balance or value of Financial Accounts held by a person to determine whether a financial account is a High Value Account, a Reporting Financial Institution is also required, in the case of any Financial Accounts that a relationship manager knows, or
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 has reason to know, are directly or indirectly owned, controlled, or established (other than in a fiduciary capacity) by the same person, to aggregate all such accounts.
+3. Special Aggregation Rule Applicable to Relationship Managers. For purposes of determining the aggregate balance or value of Financial Accounts held by a person to determine whether a financial account is a High Value Account, a Reporting Financial Institution is also required, in the case of any Financial Accounts that a relationship manager knows, or has reason to know, are directly or indirectly owned, controlled, or established (other than in a fiduciary capacity) by the same person, to aggregate all such accounts.
 
 4. Amounts Read to Include Equivalent in Other Currencies. All amounts denominated in the domestic currency of each Member State shall be read to include equivalent amounts in other currencies, as determined by domestic law.
 
@@ -366,13 +278,7 @@ A.  Reporting Financial Institution
 
 3. The term “Financial Institution” means a Custodial Institution, a Depository Institution, an Investment Entity, or a Specified Insurance Company.
 
-4. The term “Custodial Institution” means any Entity that holds, as a substantial portion of its business, Financial Assets for the account of others. An Entity holds Financial Assets for the account of others as a substantial portion of its business if the Entity's gross income attributable to the holding of Financial Assets and related financial services equals or exceeds 20 % of the Entity's gross income during the shorter of: (i) the three-
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 year period that ends on 31 December (or the final day of a non-calendar year accounting period) prior to the year in which the determination is being made; or (ii) the period during which the Entity has been in existence.
+4. The term “Custodial Institution” means any Entity that holds, as a substantial portion of its business, Financial Assets for the account of others. An Entity holds Financial Assets for the account of others as a substantial portion of its business if the Entity's gross income attributable to the holding of Financial Assets and related financial services equals or exceeds 20 % of the Entity's gross income during the shorter of: (i) the three-year period that ends on 31 December (or the final day of a non-calendar year accounting period) prior to the year in which the determination is being made; or (ii) the period during which the Entity has been in existence.
 
 5. The term “Depository Institution” means any Entity that accepts deposits in the ordinary course of a banking or similar business.
 
@@ -388,17 +294,11 @@ Subsidiary 2016/253 year period that ends on 31 December (or the final day of a 
 
 (b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in subparagraph A(6)(a).
 
-An Entity is treated as primarily conducting as a business one or more of the activities described in subparagraph A(6)(a), or an Entity's gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets for the purposes of subparagraph A(6)(b), if the Entity's gross income attributable to the relevant activities equals or exceeds 50% of the Entity's gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence. The term “Investment Entity” does not include an Entity
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 that is an Active NFE because that Entity meets any of the criteria in subparagraphs D(8)(d) through (g).
+An Entity is treated as primarily conducting as a business one or more of the activities described in subparagraph A(6)(a), or an Entity's gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets for the purposes of subparagraph A(6)(b), if the Entity's gross income attributable to the relevant activities equals or exceeds 50% of the Entity's gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence. The term “Investment Entity” does not include an Entity that is an Active NFE because that Entity meets any of the criteria in subparagraphs D(8)(d) through (g).
 
 This paragraph shall be interpreted in a manner consistent with similar language set forth in the definition of “financial institution” in the Financial Action Task Force Recommendations.
 
-7. The term “Financial Asset” includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, partnership interest, commodity, swap, Insurance Contract, or Annuity Contract. The term “Financial Asset” does not include a non- debt, direct interest in real property.
+7. The term “Financial Asset” includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, partnership interest, commodity, swap, Insurance Contract, or Annuity Contract. The term “Financial Asset” does not include a non-debt, direct interest in real property.
 
 8. The term “Specified Insurance Company” means any Entity that is an insurance company (or the holding company of an insurance company) which issues, or is obligated to make payments with respect to, a Cash Value Insurance Contract or an Annuity Contract.
 
@@ -409,12 +309,6 @@ B.   Non-Reporting Financial Institution
 (a) a Governmental Entity, International Organisation or Central Bank, other than with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged in by a Specified Insurance Company, Custodial Institution, or Depository Institution;
 
 (b) a Broad Participation Retirement Fund; a Narrow Participation Retirement Fund; a Pension Fund of a Governmental Entity, International Organisation or Central Bank; or a Qualified Credit Card Issuer;
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
 
 (c) any other Entity that presents a low risk of being used to evade tax, has substantially similar characteristics to any of the Entities described in subparagraphs B(1)(a) and (b), and is included in the list of Non-Reporting Financial Institutions referred to in Article 8(7a) of this Directive, provided that the status of such Entity as a Non-Reporting Financial Institution does not frustrate the purposes of this Directive;
 
@@ -428,12 +322,6 @@ Subsidiary 2016/253
 
 (b) A “controlled entity” means an Entity which is separate in form from the Member State or other jurisdiction or which otherwise constitutes a separate juridical entity, provided that:
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 (i) the Entity is wholly owned and controlled by one or more Governmental Entities directly or through one or more controlled entities;
 
 (ii) the Entity's net earnings are credited to its own account or to the accounts of one or more Governmental Entities, with no portion of its income inuring to the benefit of any private person; and
@@ -446,13 +334,7 @@ Subsidiary 2016/253
 
 4. The term “Central Bank” means an institution that is by law or government sanction the principal authority, other than the government of the Member State itself, issuing instruments intended to circulate as currency. Such an institution may include an instrumentality that is separate from the government of the Member State, whether or not owned in whole or in part by the Member State.
 
-5. The term “Broad Participation Retirement Fund” means a fund established to provide retirement, disability, or death benefits, or any combination thereof, to beneficiaries who are current or
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that the fund:
+5. The term “Broad Participation Retirement Fund” means a fund established to provide retirement, disability, or death benefits, or any combination thereof, to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that the fund:
 
 (a) does not have a single beneficiary with a right to more than 5 % of the fund's assets;
 
@@ -468,11 +350,7 @@ Subsidiary 2016/253 former employees (or persons designated by such employees) o
 
 (iv) contributions (other than certain permitted make-up contributions) by employees to the fund are limited by reference to earned income of the employee or may not exceed, annually, an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000, applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 6. The term “Narrow Participation Retirement Fund” means a fund established to provide retirement, disability, or death benefits to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that:
+6. The term “Narrow Participation Retirement Fund” means a fund established to provide retirement, disability, or death benefits to beneficiaries who are current or former employees (or persons designated by such employees) of one or more employers in consideration for services rendered, provided that:
 
 (a) the fund has fewer than 50 participants;
 
@@ -488,13 +366,7 @@ Subsidiary 2016/253 6. The term “Narrow Participation Retirement Fund” means
 
 8. The term “Qualified Credit Card Issuer” means a Financial Institution satisfying the following requirements:
 
-(a) the Financial Institution is a Financial Institution solely because it is an issuer of credit cards that accepts deposits only when a customer makes a payment in excess of a balance due with respect to the card and the
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 overpayment is not immediately returned to the customer; and
+(a) the Financial Institution is a Financial Institution solely because it is an issuer of credit cards that accepts deposits only when a customer makes a payment in excess of a balance due with respect to the card and the overpayment is not immediately returned to the customer; and
 
 (b) beginning on or before 1 January 2016, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000, or to ensure that any customer overpayment in excess of that amount is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns.
 
@@ -508,19 +380,15 @@ An Investment Entity that is regulated as a collective investment vehicle does n
 
 (c) the collective investment vehicle performs the due diligence procedures set forth in Sections II through VII and reports any information required to be reported with respect to any such shares when such shares are presented for redemption or other payment; and
 
-(d) the collective investment vehicle has in place policies and procedures to ensure that such shares are redeemed
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 or immobilised as soon as possible, and in any event prior to 1 January 2018.
+(d) the collective investment vehicle has in place policies and procedures to ensure that such shares are redeemed or immobilised as soon as possible, and in any event prior to 1 January 2018.
 
 C.   Financial Account
 
 1. The term “Financial Account” means an account maintained by a Financial Institution, and includes a Depository Account, a Custodial Account and:
 
-(a) in the case of an Investment Entity, any equity or debt interest in the Financial Institution. Notwithstanding the foregoing, the term  “Financial Account” does not include any equity or debt interest in an Entity that is an Investment Entity solely because it (i) renders investment advice to, and acts on behalf of; or (ii) manages portfolios for, and acts on behalf of, a customer for the purpose of investing, managing, or administering Financial Assets deposited in the name of the customer with a Financial Institution other than such Entity;
+(a) in the case of an Investment Entity, any equity or debt interest in the Financial Institution. Notwithstanding the foregoing, the term “Financial Account” does not include any equity or debt interest in an Entity that is an Investment Entity solely because it (i) renders investment advice to, and acts on behalf of; or (ii) manages portfolios for, and acts on behalf of, a customer for the purpose of investing, managing, or administering
+
+Financial Assets deposited in the name of the customer with a Financial Institution other than such Entity;
 
 (b) in the case of a Financial Institution not described in subparagraph C(1)(a), any equity or debt interest in the Financial Institution, if the class of interests was established with the purpose of avoiding reporting in accordance with Section I; and
 
@@ -529,12 +397,6 @@ C.   Financial Account
 The term “Financial Account” does not include any account that is an Excluded Account.
 
 2. The term “Depository Account” includes any commercial, checking, savings, time, or thrift account, or an account that is evidenced by a certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar instrument maintained by a Financial Institution in the ordinary course of a banking or similar business. A Depository Account also includes an amount held by an insurance company pursuant to a guaranteed investment contract or similar agreement to pay or credit interest thereon.
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
 
 3. The term “Custodial Account” means an account (other than an Insurance Contract or Annuity Contract) which holds one or more Financial Assets for the benefit of another person.
 
@@ -548,17 +410,11 @@ Subsidiary 2016/253
 
 8. The term “Cash Value” means the greater of (i) the amount that the policyholder is entitled to receive upon surrender or termination of the contract (determined without reduction for any surrender charge or policy loan); and (ii) the amount the policyholder can borrow under or with regard to the contract. Notwithstanding the foregoing, the term “Cash Value” does not include an amount payable under an Insurance Contract:
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 (a) solely by reason of the death of an individual insured under a life insurance contract;
 
 (b) as a personal injury or sickness benefit or other benefit providing indemnification of an economic loss incurred upon the occurrence of the event insured against;
 
-(c) as a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment- linked life insurance or annuity contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract;
+(c) as a refund of a previously paid premium (less cost of insurance charges whether or not actually imposed) under an Insurance Contract (other than an investment-linked life insurance or annuity contract) due to cancellation or termination of the contract, decrease in risk exposure during the effective period of the contract, or arising from the correction of a posting or similar error with regard to the premium for the contract;
 
 (d) as a policyholder dividend (other than a termination dividend) provided that the dividend relates to an Insurance Contract under which the only benefits payable are described in subparagraph C(8)(b); or
 
@@ -570,35 +426,23 @@ Subsidiary 2016/253
 
 (b) any Financial Account of an Account Holder, regardless of the date such Financial Account was opened, if:
 
-(i) the Account Holder also holds with the Reporting Financial Institution (or with a Related Entity within the same Member State as the Reporting Financial Institution) a Financial Account that is a Pre-existing Account under subparagraph C(9)(a);
+(i) the Account Holder also holds with the Reporting Financial Institution (or with a Related Entity within the same Member State as the Reporting Financial Institution) a Financial Account that is a Pre- existing Account under subparagraph C(9)(a);
 
-(ii) the Reporting Financial Institution (and, as applicable, the Related Entity within the same Member State as the Reporting Financial
+(ii) the Reporting Financial Institution (and, as applicable, the Related Entity within the same Member State as the Reporting Financial Institution) treats both of the aforementioned Financial Accounts, and any other Financial Accounts of the Account Holder that are treated as Pre-existing Accounts under point (b), as a single Financial Account for purposes of satisfying the standards of knowledge requirements set forth in paragraph A of Section VII, and for purposes of determining the balance or value of any of the Financial Accounts when applying any of the account thresholds;
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 Institution) treats both of the aforementioned Financial Accounts, and any other Financial Accounts of the Account Holder that are treated as Pre-existing Accounts under point (b), as a single Financial Account for purposes of satisfying the standards of knowledge requirements set forth in paragraph A of Section VII, and for purposes of determining the balance or value of any of the Financial Accounts when applying any of the account thresholds;
-
-(iii) with respect to a Financial Account that is subject to AML/KYC Procedures, the Reporting Financial Institution is permitted to satisfy such AML/KYC Procedures for the Financial Account by relying upon the AML/KYC Procedures performed for the Pre- existing Account described in subparagraph C(9)(a); and
+(iii) with respect to a Financial Account that is subject to AML/KYC Procedures, the Reporting Financial Institution is permitted to satisfy such AML/KYC Procedures for the Financial Account by relying upon the AML/KYC Procedures performed for the Pre-existing Account described in subparagraph C(9)(a); and
 
 (iv) the opening of the Financial Account does not require the provision of new, additional or amended customer information by the Account Holder other than for the purposes of this Directive.
 
-10. The term “New Account” means a Financial Account maintained by a Reporting Financial Institution opened on or after 1 January 2016 unless it is treated as a Pre-existing Account under subparagraph C(9)(b).
+10. The term “New Account” means a Financial Account maintained by a Reporting Financial Institution opened on or after 1 January 2016 unless it is treated as a Pre- existing Account under subparagraph C(9)(b).
 
-11. The term “Pre-existing Individual Account” means a Pre- existing Account held by one or more individuals.
+11. The term “Pre-existing Individual Account” means a Pre-existing Account held by one or more individuals.
 
 12. The term “New Individual Account” means a New Account held by one or more individuals.
 
 13. The term “Pre-existing Entity Account” means a Pre-existing Account held by one or more Entities.
 
-14. The term “Lower Value Account” means a Pre-existing Individual Account with an aggregate balance or value as of 31 December 2015 that does not exceed an amount denominated
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 in the domestic currency of each Member State that corresponds to USD 1 000 000.
+14. The term “Lower Value Account” means a Pre-existing Individual Account with an aggregate balance or value as of 31 December 2015 that does not exceed an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000.
 
 15. The term “High Value Account” means a Pre-existing Individual Account with an aggregate balance or value that exceeds, as of 31 December 2015, or 31 December of any subsequent year, an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000.
 
@@ -616,13 +460,7 @@ Subsidiary 2016/253 in the domestic currency of each Member State that correspon
 
 (iv) withdrawals are conditioned on reaching a specified retirement age, disability, or death, or penalties apply to withdrawals made before such specified events; and
 
-(v) either (i) annual contributions are limited to an amount denominated in the domestic currency of each Member State that corresponds to
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 USD 50 000 or less; or (ii) there is a maximum lifetime contribution limit to the account of an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000 or less, in each case applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
+(v) either (i) annual contributions are limited to an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000 or less; or (ii) there is a maximum lifetime contribution limit to the account of an amount denominated in the domestic currency of each Member State that corresponds to USD 1 000 000 or less, in each case applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
 
 A Financial Account that otherwise satisfies the requirement of subparagraph C(17)(a)(v) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of subparagraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of subparagraphs B(5) through (7);
 
@@ -634,13 +472,7 @@ A Financial Account that otherwise satisfies the requirement of subparagraph C(1
 
 (iii) withdrawals are conditioned on meeting specific criteria related to the purpose of the investment or savings account (for example, the provision of educational or medical benefits), or penalties apply to withdrawals made before such criteria are met; and
 
-(iv) annual contributions are limited to an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 or less, applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
+(iv) annual contributions are limited to an amount denominated in the domestic currency of each Member State that corresponds to USD 50 000 or less, applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation.
 
 A Financial Account that otherwise satisfies the requirement of subparagraph C(17)(b)(iv) will not fail to satisfy such requirement solely because such Financial Account may receive assets or funds transferred from one or more Financial Accounts that meet the requirements of subparagraph C(17)(a) or (b) or from one or more retirement or pension funds that meet the requirements of any of subparagraphs B(5) through (7);
 
@@ -656,19 +488,15 @@ A Financial Account that otherwise satisfies the requirement of subparagraph C(1
 
 (d) an account that is held solely by an estate if the documentation for such account includes a copy of the deceased's will or death certificate;
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 (e) an account established in connection with any of the following:
 
 (i) a court order or judgment.
 
 (ii) a sale, exchange, or lease of real or personal property, provided that the account satisfies the following requirements:
 
-- the account is funded solely with a down payment, earnest money, deposit in an amount appropriate to secure an obligation directly related to the transaction, or a similar payment, or is funded with a Financial Asset that is deposited in the account in connection with the sale, exchange, or lease of the property,
+- the account is funded solely with a down payment, earnest money, deposit in an amount appropriate to secure an obligation directly related to the transaction, or a similar payment, or is funded with a Financial
+
+Asset that is deposited in the account in connection with the sale, exchange, or lease of the property,
 
 - the account is established and used solely to secure the obligation of the purchaser to pay the purchase price for the property, the seller to pay any contingent liability, or the lessor or lessee to pay for any damages relating to the leased property as agreed under the lease,
 
@@ -679,12 +507,6 @@ Subsidiary 2016/253
 - the account is not associated with an account described in subparagraph C(17)(f);
 
 (iii) an obligation of a Financial Institution servicing a loan secured by real property to set aside a portion of a payment solely to facilitate the payment of taxes or insurance related to the real property at a later time;
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
 
 (iv) an obligation of a Financial Institution solely to facilitate the payment of taxes at a later time;
 
@@ -698,13 +520,7 @@ Subsidiary 2016/253
 
 D.   Reportable Account
 
-1. The term “Reportable Account” means a Financial Account that is maintained by a Member State Reporting Financial Institution and is held by one or more Reportable Persons or by a Passive NFE with one or more Controlling Persons that is a Reportable Person, provided it has been identified as such
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 pursuant to the due diligence procedures described in Sections II through VII.
+1. The term “Reportable Account” means a Financial Account that is maintained by a Member State Reporting Financial Institution and is held by one or more Reportable Persons or by a Passive NFE with one or more Controlling Persons that is a Reportable Person, provided it has been identified as such pursuant to the due diligence procedures described in Sections II through VII.
 
 2. The term “Reportable Person” means a Member State Person other than: (i) a corporation the stock of which is regularly traded on one or more established securities markets; (ii) any corporation that is a Related Entity of a corporation described in clause (i); (iii) a Governmental Entity; (iv) an International Organisation; (v) a Central Bank; or (vi) a Financial Institution.
 
@@ -718,13 +534,7 @@ Subsidiary 2016/253 pursuant to the due diligence procedures described in Sectio
 
 (c) any other jurisdiction (i) with which the Union has an agreement in place pursuant to which that jurisdiction will provide the information specified in Section I; and (ii) which is identified in a list published by the European Commission.
 
-5. The term “Controlling Persons” means the natural persons who exercise control over an Entity. In the case of a trust, that term means the settlor(s), the trustee(s), the protector(s) (if any), the beneficiary(ies) or class(es) of beneficiaries, and any other natural person(s) exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions.
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 The term “Controlling Persons” must be interpreted in a manner consistent with the Financial Action Task Force Recommendations.
+5. The term “Controlling Persons” means the natural persons who exercise control over an Entity. In the case of a trust, that term means the settlor(s), the trustee(s), the protector(s) (if any), the beneficiary(ies) or class(es) of beneficiaries, and any other natural person(s) exercising ultimate effective control over the trust, and in the case of a legal arrangement other than a trust, such term means persons in equivalent or similar positions. The term “Controlling Persons” must be interpreted in a manner consistent with the Financial Action Task Force Recommendations.
 
 6. The term “NFE” means any Entity that is not a Financial Institution.
 
@@ -740,12 +550,6 @@ Subsidiary 2016/253 The term “Controlling Persons” must be interpreted in a 
 
 (d) substantially all of the activities of the NFE consist of holding (in whole or in part) the outstanding stock of, or providing financing and services to, one or more subsidiaries that engage in trades or businesses other than the business of a Financial Institution, except that an Entity does not qualify for this status if the Entity functions (or holds itself out) as an investment fund, such as a private equity fund, venture capital fund, leveraged buyout fund, or any investment vehicle whose purpose is to acquire or fund companies and then hold interests in those companies as capital assets for investment purposes;
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 (e) the NFE is not yet operating a business and has no prior operating history, but is investing capital into assets with the intent to operate a business other than that of a Financial Institution, provided that the NFE does not qualify for this exception after the date that is 24 months after the date of the initial organisation of the NFE;
 
 (f) the NFE was not a Financial Institution in the past five years, and is in the process of liquidating its assets or is reorganising with the intent to continue or recommence operations in a business other than that of a Financial Institution;
@@ -760,13 +564,7 @@ Subsidiary 2016/253
 
 (iii) it has no shareholders or members who have a proprietary or beneficial interest in its income or assets;
 
-(iv) the applicable laws of the NFE's Member State or other jurisdiction of residence or the NFE's
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 formation documents do not permit any income or assets of the NFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFE's charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the NFE has purchased; and
+(iv) the applicable laws of the NFE's Member State or other jurisdiction of residence or the NFE's formation documents do not permit any income or assets of the NFE to be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than pursuant to the conduct of the NFE's charitable activities, or as payment of reasonable compensation for services rendered, or as payment representing the fair market value of property which the NFE has purchased; and
 
 (v) the applicable laws of the NFE's Member State or other jurisdiction of residence or the NFE's formation documents require that, upon the NFE's liquidation or dissolution, all of its assets be distributed to a Governmental Entity or other non-profit organisation, or escheat to the government of the NFE's Member State or other jurisdiction of residence or any political subdivision thereof.
 
@@ -776,15 +574,11 @@ E.   Miscellaneous
 
 2. The term “AML/KYC Procedures” means the customer due diligence procedures of a Reporting Financial Institution pursuant to the anti-money laundering or similar requirements to which such Reporting Financial Institution is subject.
 
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
-
 3. The term “Entity” means a legal person or a legal arrangement, such as a corporation, partnership, trust, or foundation.
 
-4. An Entity is a “Related Entity” of another Entity if (i) either Entity controls the other Entity; (ii) the two Entities are under common control; or (iii) the two Entities are Investment Entities described in subparagraph A(6)(b), are under common management, and such management fulfils the due diligence obligations of such Investment Entities. For this purpose control includes direct or indirect ownership of more than 50% of the vote and value in an Entity.
+4. An Entity is a “Related Entity” of another Entity if (i) either Entity controls the other Entity; (ii) the two Entities are under common control; or (iii) the two Entities are Investment Entities described in subparagraph A(6)(b), are under common management, and such management fulfils the due diligence obligations of such
+
+Investment Entities. For this purpose control includes direct or indirect ownership of more than 50% of the vote and value in an Entity.
 
 5. The term “TIN” means Taxpayer Identification Number (or functional equivalent in the absence of a Taxpayer Identification Number).
 
@@ -798,13 +592,7 @@ Subsidiary 2016/253
 
 (d) any audited financial statement, third-party credit report, bankruptcy filing, or securities regulator's report.
 
-With respect to a Pre-existing Entity Account, Reporting Financial Institutions may use as Documentary Evidence any
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253 classification in the Reporting Financial Institution's records with respect to the Account Holder that was determined based on a standardised industry coding system, that was recorded by the Reporting Financial Institution consistent with its normal business practices for purposes of AML/KYC Procedures or another regulatory purposes (other than for tax purposes) and that was implemented by the Reporting Financial Institution prior to the date used to classify the Financial Account as a Pre-existing Account, provided that the Reporting Financial Institution does not know or does not have reason to know that such classification is incorrect or unreliable. The term “standardised industry coding system” means a coding system used to classify establishments by business type for purposes other than tax purposes.
+With respect to a Pre-existing Entity Account, Reporting Financial Institutions may use as Documentary Evidence any classification in the Reporting Financial Institution's records with respect to the Account Holder that was determined based on a standardised industry coding system, that was recorded by the Reporting Financial Institution consistent with its normal business practices for purposes of AML/KYC Procedures or another regulatory purposes (other than for tax purposes) and that was implemented by the Reporting Financial Institution prior to the date used to classify the Financial Account as a Pre-existing Account, provided that the Reporting Financial Institution does not know or does not have reason to know that such classification is incorrect or unreliable. The term “standardised industry coding system” means a coding system used to classify establishments by business type for purposes other than tax purposes.
 
 SECTION IX
 
@@ -821,12 +609,6 @@ Pursuant to Article 8(3a) of this Directive, Member States must have rules and a
 (4) administrative procedures to ensure that the Entities and accounts defined in domestic law as Non-Reporting Financial Institutions and Excluded Accounts continue to have a low risk of being used to evade tax; and
 
 (5) effective enforcement provisions to address non-compliance.
-
-Taxation (Mutual Administrative Assistance) INTERNATIONAL CO-OPERATION (IMPROVEMENT OF INTERNATIONAL TAX COMPLIANCE) REGULATIONS 2016
-
-2014-06
-
-Subsidiary 2016/253
 
 SECTION X
 
