@@ -10,7 +10,7 @@ NOTES FOR GUIDANCE TO APPLICANTS
 
 (b) If awarded a scholarship you will be required to state parents’ gross income in form PC 1/82R and/or any income you may have on your own. Your parents are also required to fill in Form ITR/83 and forward it together with their Tax Code (allowances) slips to the Education Officer. Failure to fill in and return the above forms/slips will result in your being placed on minimum grant.
 
-(c) On completion of sections 1-15 of this form, the applicant should pass it EITHER to his/her headteacher if he/she has been attending school within the last twelve months OR to his/her referee (preferably the applicant’s employer) for completion of section 16 and return to the Department of  Education.
+(c) On completion of sections 1-15 of this form, the applicant should pass it EITHER to his/her headteacher if he/she has been attending school within the last twelve months OR to his/her referee (preferably the applicant’s employer) for completion of section 16 and return to the Department of Education.
 
 1. SURNAME (BLOCK CAPITALS) . . . . . . . . . . . . . . . . . . . .
 
@@ -24,9 +24,7 @@ FORENAMES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 Enter date (numbers only) in these
 
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 Age on 1st September 20 . . . . .
+Age on 1st September 20 . . . . .
 
 . . . . . . .years . . . . . .
 
@@ -72,9 +70,7 @@ Subsidiary 1990/111 1974-11 Age on 1st September 20 . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -103,10 +99,6 @@ Examining Body
 Month and Year of Examination
 
 Subjects to be taken and level
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11
 
 10. GIVE DETAILS OF OTHER QUALIFICATIONS HELD:
 
@@ -144,11 +136,7 @@ NOTE: Non-Mandatory scholarships are normally awarded for
 
 Should you wish to apply for teaching please state clearly the age range you would wish to specialise in eg First; First/Middle; Middle; Middle/Secondary; Secondary.
 
-12. YOU SHOULD HAVE ALREADY SOUGHT ADMISSION TO A UNIVERSITY OR POLYTECHNIC COLLEGE IN THE UK FOR THE FORTHCOMING ACADEMIC YEAR IN RESPECT OF THE COURSE(S) STATED IN SECTION 11(a) AND (b). PLEASE GIVE
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 NAME(S) OF INSTITUTION(S) STATING IN EACH CASE WHETHER OR NOT YOU HAVE BEEN ACCEPTED AND IF THE ACCEPTANCE IS FIRM OR PROVISIONAL DOCUMENTARY EVIDENCE OF THE OFFER(S) WITH GRADE REQUIREMENTS MUST BE ATTACHED TO THIS FORM.
+12. YOU SHOULD HAVE ALREADY SOUGHT ADMISSION TO A UNIVERSITY OR POLYTECHNIC COLLEGE IN THE UK FOR THE FORTHCOMING ACADEMIC YEAR IN RESPECT OF THE COURSE(S) STATED IN SECTION 11(a) AND (b). PLEASE GIVE NAME(S) OF INSTITUTION(S) STATING IN EACH CASE WHETHER OR NOT YOU HAVE BEEN ACCEPTED AND IF THE ACCEPTANCE IS FIRM OR PROVISIONAL DOCUMENTARY EVIDENCE OF THE OFFER(S) WITH GRADE REQUIREMENTS MUST BE ATTACHED TO THIS FORM.
 
 NAME OF INSTITUTION ACCEPTANCE
 
@@ -174,9 +162,7 @@ NAME OF INSTITUTION ACCEPTANCE
 
 15. PLEASE STATE WHETHER A PERIOD OF STUDY AWAY FROM THE UK IS A REQUIREMENT OF YOUR CHOSEN COURSE
 
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 YES NO–CROSS OUT WHICHEVER IS NOT RELEVANT. IF ‘YES’ PLEASE STATE THE LENGTH OF TIME YOU WILL BE EXPECTED TO SPEND AWAY FROM THE UK.
+YES NO–CROSS OUT WHICHEVER IS NOT RELEVANT. IF ‘YES’ PLEASE STATE THE LENGTH OF TIME YOU WILL BE EXPECTED TO SPEND AWAY FROM THE UK.
 
 Signature of parent or guardian . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -208,7 +194,9 @@ Name of Applicant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 You are asked to return this form under confidential cover to the Director of Education, 40 Town Range, Gibraltar
 
-I have/have not checked sections 8 and 9 (delete as necessary) Signed
+I have/have not checked sections 8 and 9 (delete as necessary)
+
+Signed
 
 NOTES FOR GUIDANCE OF ACADEMIC REFEREES
 
@@ -216,13 +204,11 @@ It would help if you would:
 
 (a) Check that the applicant completes sections 1-16 of the form correctly and has signed at the foot of page 4.
 
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 (b) Give on page 5 your confidential statement about the applicant, preferably in terms of the headings listed below.
+(b) Give on page 5 your confidential statement about the applicant, preferably in terms of the headings listed below.
 
 (c) Send without delay the application form to the address given at the foot of page 5.
 
-It  will be helpful if your statement provides information on the following points:–
+It will be helpful if your statement provides information on the following points:–
 
 1. INTELLECTUAL QUALITIES:
 
@@ -250,6 +236,6 @@ Please refer also to the candidates contribution to the life of the community.
 
 (a)  Please refer to any other factors which should in fairness to the candidate be mentioned e.g. health, personal or domestic circumstances, etc.
 
-(b)  Please comment on any relevant aspects of the school’s policy concerning the curriculum, ‘O’ level entries, experimental or special ‘A’ level, syllabuses, S-papers and classes attended in minority subjects not examined.
+(b)  Please comment on any relevant aspects of the school’s policy concerning the curriculum, ‘O’ level entries, experimental or special ‘A’ level, syllabuses, S- papers and classes attended in minority subjects not examined.
 
 Reference may also be made to the size of the candidate’s year group.

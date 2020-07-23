@@ -13,7 +13,3 @@ FEES AND DUES OF ESTABLISHMENTS.
 4. Fees for examinations taken as part of a course.
 
 5. At any university which is organised on a collegiate basis, university and college dues.
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11

@@ -14,7 +14,7 @@ Note: This Part represents the student’s annual requirements for his maintenan
 
 PART II–SUPPLEMENTARY AND MISCELLANEOUS MAINTENANCE.
 
-1. (1) For each additional week or part of a week in attendance at the course:
+1.(1) For each additional week or part of a week in attendance at the course:
 
 (a) in the London area – £86.10;
 
@@ -28,17 +28,13 @@ PART II–SUPPLEMENTARY AND MISCELLANEOUS MAINTENANCE.
 
 (a) a disabled student, who, by reason of his disability, is obliged to incur necessary expenditure in excess of £100 for the purpose of travelling to attend the establishment;
 
-(b) a student who attends, as a necessary part of his course at a place in the United Kingdom away from the main
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 establishment and thereby incurs necessary travelling expenses in excess of £100.
+(b) a student who attends, as a necessary part of his course at a place in the United Kingdom away from the main establishment and thereby incurs necessary travelling expenses in excess of £100.
 
 4. In the case of any student who in the opinion of the Minister would otherwise suffer undue hardship, for any week during the vacation in respect of which no sum is prescribed by the preceding provisions of this Part, such sum (if any) not exceeding £47.36, as, having regard to the means of the student, the Minister considers appropriate.
 
 5. In the case of a married student whose spouse does not have paid employment at any time during the year the sum of £835.
 
-6. In respect of vacation study undertaken on the recommendation of the academic authority by a student studying modern languages, in a country whose language is a main language of the course, for each day on which he resides with a family approved for the purpose of this paragraph by the academic authority  £5.00.
+6.In respect of vacation study undertaken on the recommendation of the academic authority by a student studying modern languages, in a country whose language is a main language of the course, for each day on which he resides with a family approved for the purpose of this paragraph by the academic authority £5.00.
 
 7. In respect of expenditure necessarily incurred on the purchase of special equipment for the course by a student attending a course in architecture, art and design, home economics, medicine, dentistry, music, ophthalmic optics and physical education, so much of the expenditure as does not during the course exceed £167.
 
@@ -51,7 +47,3 @@ Subsidiary 1990/111 1974-11 establishment and thereby incurs necessary travellin
 (c) if the establishment is in Belgium, Hong Kong, Indonesia, Italy, Luxembourg or the Union of the Soviet Socialist Republics – £3,486;
 
 (d) if the establishment is in any other country (other than the United Kingdom) – £2,957.
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11

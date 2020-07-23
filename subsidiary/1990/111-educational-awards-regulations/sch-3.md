@@ -10,7 +10,7 @@ In calculating the student’s income there shall be taken into account his inco
 
 (a) the first £100 of income;
 
-(b) any bounty received as a reservist  with the Armed Forces;
+(b) any bounty received as a reservist with the Armed Forces;
 
 (c) remuneration for work done in vacations;
 
@@ -22,15 +22,13 @@ PART 2. PARENTAL CONTRIBUTION.
 
 1. In this Part–
 
-“child” includes a person adopted in pursuance of adoption proceedings but, except in paragraph 2(2), does not include a child who holds a statutory award and, except in paragraph  4(a), does not include a stepchild;
+“child” includes a person adopted in pursuance of adoption proceedings but, except in paragraph 2(2), does not include a child who holds a statutory award and, except in paragraph 4(a), does not include a stepchild;
 
 “parent” shall be construed accordingly;
 
 “gross income” has the meaning assigned to it by paragraph 3;
 
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 “residual income” means the balance of the total income from all sources of either the student’s father or the student’s mother (whichever income shall be the greater) remaining in any year of assessment after the deductions specified in paragraph 4 have been made;
+“residual income” means the balance of the total income from all sources of either the student’s father or the student’s mother (whichever income shall be the greater) remaining in any year of assessment after the deductions specified in paragraph 4 have been made;
 
 “statutory award” means any award bestowed or grant paid under the Education Act, or any analogous grant which is paid directly or indirectly by monies provided by the Government.
 
@@ -58,11 +56,7 @@ the parental contribution shall be nil.
 
 (4) For any year in which more than one child of the parent holds a statutory award, the parental contribution for each student shall be such proportion of the parental contribution, ascertained in accordance with this Part, as the Minister considers just.
 
-3. (1)   Subject to the provisions of this paragraph, “gross income” means the total joint income from all sources of the student’s father and the student’s mother in the financial year preceding the year in respect of which the resources of the student fall to be assessed.
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11
+3.(1)   Subject to the provisions of this paragraph, “gross income” means the total joint income from all sources of the student’s father and the student’s mother in the financial year preceding the year in respect of which the resources of the student fall to be assessed.
 
 Provided that where the Minister is satisfied that the joint income of the parents in the next succeeding financial year is likely to be not more than four-fifths of that income, he may for the purpose of calculating the parental contribution ascertain the gross income by reference to that next succeeding financial year, and in that case the above definition shall have effect accordingly both in relation to that year and, if the Minister so determines the year following that year and any subsequent year.
 
@@ -76,7 +70,7 @@ Provided that where the Minister is satisfied that the joint income of the paren
 
 (b) if the student is married before the start of the course;
 
-(c) on or after the marriage of the student after the commencement of the course; or
+(c)  on or after the marriage of the student after the commencement of the course; or
 
 (d) if the student has been in employment or has worked for a total period of three years before the start of the course.
 
@@ -85,10 +79,6 @@ Provided that where the Minister is satisfied that the joint income of the paren
 PART 3. INCOME OF SPOUSE.
 
 1.  In this Part –
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11
 
 “gross income” has the meaning assigned to it by paragraph 3;
 
@@ -120,14 +110,8 @@ the spouse’s contribution shall be nil.
 
 3.(1)  Subject to the provisions of this paragraph, “gross income” means the total joint income from all sources of the student and his spouse in the financial year preceding the year in respect of which the resources of the student fall to be assessed:
 
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11 Provided that where the Minister is satisfied that the joint income of the student and his spouse in the next succeeding financial year is likely to be not more than four-fifths of that income, he may for the purpose of calculating the spouse’s contribution ascertain the gross income by reference to that next succeeding financial year, and in that case the above definition shall have effect accordingly both in relation to that year and, if the Minister so determines the year following that year and any subsequent year.
+Provided that where the Minister is satisfied that the joint income of the student and his spouse in the next succeeding financial year is likely to be not more than four-fifths of that income, he may for the purpose of calculating the spouse’s contribution ascertain the gross income by reference to that next succeeding financial year, and in that case the above definition shall have effect accordingly both in relation to that year and, if the Minister so determines the year following that year and any subsequent year.
 
 4.  To ascertain residual income, as defined in paragraph 1, the deductions therein referred to shall be those deductions, which are allowed under the Income Tax Act or any subsidiary legislation made thereunder for the purposes of assessing taxable income.
 
 5.  Where, in the opinion of the Minister a student or his spouse, without satisfactory reason, has failed to supply any information required relevant to any application for an award under the provisions of these Regulations, the bestowal of any award made to the student under regulation 3 of these Regulations shall be at the minimum rate.
-
-Education and Training EDUCATIONAL AWARDS REGULATIONS, 1990.
-
-Subsidiary 1990/111 1974-11
