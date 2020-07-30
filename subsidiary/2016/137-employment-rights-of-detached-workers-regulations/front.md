@@ -1,26 +1,16 @@
-Employment EMPLOYMENT (RIGHTS OF DETACHED WORKERS) REGULATIONS 2016
+Subsidiary Legislation made under s. 86.
 
-1932-16
+Employment Act (Rights of Detached Workers) Regulations 2016
 
-Subsidiary 2016/137
-
-Subsidiary Legislation made under s.86 of the Employment Act as read with s.23(g)(i) of the Interpretation and General Clauses Act.
-
-EMPLOYMENT (RIGHTS OF DETACHED WORKERS) REGULATIONS 2016
-
-(LN. 2016/137)
+LN.2016/137
 
 Commencement 23.6.2016
 
-Amending enactments Relevant current provisions Commencement date LN. 2016/163 Notice of Corrigenda
+Amending enactments Relevant current provisions Commencement date LN. 2016/163 Notice of Corrigenda 2020/174 r. 7(1)(b)-(c), (g)-(i), (1A), (4) 30.7.2020
 
-Transposing: Directive 2014/67/EU
+Transposing: Directive 2014/67/EU Directive (EU) 2018/957
 
-Employment EMPLOYMENT (RIGHTS OF DETACHED WORKERS) REGULATIONS 2016
-
-1932-16
-
-Subsidiary 2016/137 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -38,22 +28,14 @@ PART 3 Detached workers in the construction sector
 
 PART 4 Cross-border enforcement of financial administrative penalties
 
-20. Interpretation of Part. 21. Designation under Article 14. 22. Request for recovery of EU penalty. 23. EU penalties: information to be supplied. 24. Grounds for refusal. 25. Outgoing requests for assistance.
+20. Interpretation of Part. 21. Designation under Article 14. 22. Request for recovery of EU penalty. 23. EU penalties: information to be supplied.
 
-Employment EMPLOYMENT (RIGHTS OF DETACHED WORKERS) REGULATIONS 2016
-
-1932-16
-
-Subsidiary 2016/137 26. Suspension.
+24. Grounds for refusal. 25. Outgoing requests for assistance. 26. Suspension.
 
 SCHEDULE 1 Control measures
 
 SCHEDULE 2 Activities in the construction sector
 
-Employment EMPLOYMENT (RIGHTS OF DETACHED WORKERS) REGULATIONS 2016
-
-1932-16
-
-Subsidiary 2016/137 In exercise of the powers conferred upon him by section 86 of the Employment Act as read with section 23(g)(i) of the Interpretation and General Clauses Act, and all other enabling powers, and for the purposes of transposing into the law of Gibraltar Directive 2014/67/EU of the European Parliament and of the Council of 15 May 2014 on the enforcement of Directive 96/71/EC concerning the posting of workers in the framework of the provision of services and amending Regulation (EU) No 1024/2012 on administrative cooperation through the Internal Market Information System (‘the IMI Regulation’), the Minister has made the following Regulations–
+In exercise of the powers conferred upon him by section 86 of the Employment Act as read with section 23(g)(i) of the Interpretation and General Clauses Act, and all other enabling powers, and for the purposes of transposing into the law of Gibraltar Directive 2014/67/EU of the European Parliament and of the Council of 15 May 2014 on the enforcement of Directive 96/71/EC concerning the posting of workers in the framework of the provision of services and amending Regulation (EU) No 1024/2012 on administrative cooperation through the Internal Market Information System (‘the IMI Regulation’), the Minister has made the following Regulations–
 
 PART 1
