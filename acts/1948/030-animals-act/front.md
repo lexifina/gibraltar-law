@@ -20,7 +20,7 @@ Amending enactments Relevant current provisions Commencement date Acts. 1960-21 
 
 2.12.20161 2018-21 ss. 1-6, 6A(1)(c), 7(1), 10(4), (6), (d), (6C), (7B)-(7C), (10), 11, 12A- 12B, 13, 14(1), 15, 16(1)-(2), 17(1)-(2), 18(2)-(3), 19(1), (b), (2), 21A-21C, 22(1), (3)-(6), 24(1)-(2), (4)-(6), 25-26, (b), (bb), (c), (e)-(f), Sch.
 
-15.11.2018
+15.11.2018 2020-09 s. 6A(1)(b)-(d) 6.8.2020
 
 1 Notice of Commencement (LN. 2016/243)
 
@@ -36,9 +36,7 @@ Animals
 
 1948-30 ARRANGEMENT OF SECTIONS.
 
-Section
-
-PART I. INTRODUCTORY. 1. Short title. 2. Interpretation.
+Section PART I. INTRODUCTORY. 1. Short title. 2. Interpretation.
 
 PART II. DISEASES OF ANIMALS.
 
@@ -46,7 +44,7 @@ PART II. DISEASES OF ANIMALS.
 
 PART III. PROTECTION OF ANIMALS.
 
-5. Cruelty to animals. 6. Abandoning animals. 6A.  Enticing or feeding Barbary Macaques. 6B.  Possibility of fixed penalty notices for enticing or feeding Barbary Macaques. 7. Export of horses. 8. Repealed. 9. Repealed. 10. Registration, licensing and vaccination of dogs. 10A.  Microchips. 11. Injuries by animals to persons or property. 12. Repealed. 12A. Protection of cetacean. 12B. Exceptions from section 12A.
+5. Cruelty to animals. 6. Abandoning animals. 6A.  Enticing, feeding or interfering with Barbary Macaques. 6B.  Possibility of fixed penalty notices for enticing or feeding Barbary Macaques. 7. Export of horses. 8. Repealed. 9. Repealed. 10. Registration, licensing and vaccination of dogs. 10A.  Microchips. 11. Injuries by animals to persons or property. 12. Repealed. 12A. Protection of cetacean. 12B. Exceptions from section 12A.
 
 PART IV. LEGAL PROCEEDINGS.
 
@@ -54,9 +52,11 @@ PART IV. LEGAL PROCEEDINGS.
 
 PART V. PENALTIES.
 
+20.  Penalty for an offence against this Act.
+
 Animals
 
-1948-30 20.  Penalty for an offence against this Act. 21.  Penalties for breach of rules.
+1948-30 21.  Penalties for breach of rules.
 
 PART VA ANIMALS IN DISTRESS
 
