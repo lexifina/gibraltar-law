@@ -11,9 +11,3 @@ SCHEDULE 2 Rule 8 SPECIMEN FORM OF COMPLIANCE NOTICE
 (d) specify the time limit within which the producer must comply with the requirement; and
 
 (e) warn the producer that unless the requirement is complied with or satisfactory evidence has been provided within the period specified in the notice he may be prosecuted under rule 25.
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106

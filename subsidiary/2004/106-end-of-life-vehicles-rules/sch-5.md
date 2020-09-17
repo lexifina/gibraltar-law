@@ -25,9 +25,3 @@ SCHEDULE 5 Rule 2 RECOVERY OPERATIONS
 (R 12) Exchange of wastes for submission to any of the operations numbered R 1 to R 11.
 
 (R 13) Storage of wastes pending any of the operations numbered R 1 to R 12 (excluding temporary storage, pending collection, on the site where it is produced).
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106

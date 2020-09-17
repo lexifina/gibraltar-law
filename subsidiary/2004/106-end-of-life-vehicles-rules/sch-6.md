@@ -22,16 +22,4 @@ The Traffic (Licensing and Registration) Regulations are amended as follows–
 
 (4)  The Licensing Authority shall not remove the registration details from that part of the register which records vehicles registered in Gibraltar of a vehicle to which the End-of life Vehicles Rules apply unless the Licensing Authority has been notified that an end-of life vehicle has been transferred to an authorised treatment facility and is satisfied that the process of checking the vehicle’s registration details against the register has been satisfactorily completed.
 
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106
-
 (5)  In this regulation “authorised treatment facility”, “certificate of destruction”, “EEA State” and “regulated vehicle” have the meanings that they have in the End-of life Vehicles Rules 2004.”.
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106

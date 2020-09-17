@@ -16,7 +16,7 @@ TECHNICAL REQUIREMENTS FOR THE TREATMENT AND STORAGE OF END-OF LIFE VEHICLES
 
 (b) provided with storage facilities that are appropriate for dismantled spare parts, including impermeable storage facilities for spare parts that are contaminated with oil;
 
-(c) provided with containers that are appropriate for the storage of batteries (whether electrolyte neutralisation is carried out on- site or elsewhere), filters, and condensers containing any PCB or PCT or both;
+(c) provided with containers that are appropriate for the storage of batteries (whether electrolyte neutralisation is carried out on-site or elsewhere), filters, and condensers containing any PCB or PCT or both;
 
 (d) provided with storage tanks that are appropriate for the separate segregated storage of any fluid from an end-of life vehicle;
 
@@ -24,13 +24,9 @@ TECHNICAL REQUIREMENTS FOR THE TREATMENT AND STORAGE OF END-OF LIFE VEHICLES
 
 (f) at which there is appropriate storage for used tyres without excessive stockpiling, and minimising any risk of fire.
 
-Public Health END-OF LIFE VEHICLES RULES 2004
+3. Treatment operations for the depollution of an end-of life vehicle shall consist of–
 
-1950-07
-
-Subsidiary 2004/106 3. Treatment operations for the depollution of an end-of life vehicle shall consist of–
-
-(a) the removal of the battery or batteries;
+(a)  the removal of the battery or batteries;
 
 (b) the removal of the liquefied gas tank;
 
@@ -62,13 +58,7 @@ and any other fluid contained in the said vehicle, but excluding any of the fore
 
 (c) the removal (either during shredding or separately) of the tyres;
 
-(d) the removal (either during shredding or separately) of all large plastic components (including bumpers, the dashboard, and any
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106 fluid container) in such a way that they can be effectively recycled as materials;
+(d) the removal (either during shredding or separately) of all large plastic components (including bumpers, the dashboard, and any fluid container) in such a way that they can be effectively recycled as materials;
 
 (e) the removal of all glass.
 
@@ -79,9 +69,3 @@ Subsidiary 2004/106 fluid container) in such a way that they can be effectively 
 (b) any recoverable components;
 
 (c) any spare part.
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106

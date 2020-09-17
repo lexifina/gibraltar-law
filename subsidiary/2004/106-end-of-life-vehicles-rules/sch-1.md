@@ -21,9 +21,3 @@ MINIMUM REQUIREMENTS FOR THE CERTIFICATE OF DESTRUCTION ISSUED IN ACCORDANCE WIT
 (1) This requirement may be waived in the case where the national registration or identification system does not provide for such number.
 
 (2) In the case where no registration document exists on paper due to the use of an electronic registration system, this requirement may be waived.
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106

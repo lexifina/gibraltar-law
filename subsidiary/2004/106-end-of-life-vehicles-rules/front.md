@@ -1,26 +1,14 @@
-Public Health END-OF LIFE VEHICLES RULES 2004
+Subsidiary Legislation made under s.337.
 
-1950-07
+End-of Life Vehicles Rules 2004
 
-Subsidiary 2004/106 Rules made under s. 337 of the Public Health Ordinance as read with section 23 of the Interpretation and General Clauses Ordinance.
-
-END-OF LIFE VEHICLES RULES 2004
-
-(LN. 2004/106)
+LN.2004/106
 
 Commencement 18.11.2004
 
-Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011 2012/018 rr. 2, 5A 23.2.2012 2016/204 r. 5A(2), Sch.8 17.11.2016 2018/089 Sch. 8 6.6.2018 2020/223 r. 25(1)(b)(iii), (c)-(d), (2)(b)(iii), (c)(iv), (d)
+Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011 2012/018 rr. 2, 5A 23.2.2012 2016/204 r. 5A(2), Sch.8 17.11.2016 2018/089 Sch. 8 6.6.2018 2020/223 r. 25(1)(b)(iii), (c)-(d), (2)(b)(iii), (c)(iv), (d) 18.6.2020 2020/320 Sch. 8 17.9.2020
 
-18.6.2020
-
-Transposing: Directive 2000/53/EC Directive 2008/99/EC Directive 2008/112/EC Directive 2011/37/EU Directive (EU) 2016/774 Directive (EU) 2017/2096 Directive (EU) 2018/849 Commission Decision 2002/151/EC Commission Decision 2002/525/EC
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106
+Transposing: Directive 2000/53/EC Directive 2008/99/EC Directive 2008/112/EC Directive 2011/37/EU Directive (EU) 2016/774 Directive (EU) 2017/2096 Directive (EU) 2018/849 Commission Decision 2002/151/EC Commission Decision 2002/525/EC Commission Delegated Directive (EU) 2020/362
 
 ARRANGEMENT OF RULES
 
@@ -32,7 +20,7 @@ Part I Preliminary
 
 Part II Application
 
-3.   Vehicles and end-of life vehicles to which these Rules apply. 4.   Existing Community legislation and relevant national legislation. 5.   Exemptions for certain vehicles. 5A. Prevention.
+3.   Vehicles and end-of life vehicles to which these Rules apply. 4.   Existing Community legislation and relevant national legislation. 5.   Exemptions for certain vehicles. 5A.  Prevention.
 
 Part III Information Requirements
 
@@ -40,17 +28,11 @@ Part III Information Requirements
 
 Part IV Certificate of Destruction
 
-10.  Interpretation. 11.  Issue of the certificate of destruction. 12.  Prohibition of charges. 13.  Form and content of certificate of destruction. 14.  Duty to notify Licensing Authority. 15. Certificates of destruction and changes to the register kept and maintained by the Licensing Authority in respect of the end-of life vehicle. 16.  Maintenance of electronic systems. 17.  Certificates of destruction issued by other EEA states. 18.  Restrictions on disclosure of information.
+10.   Interpretation. 11.   Issue of the certificate of destruction. 12.   Prohibition of charges. 13.   Form and content of certificate of destruction. 14.   Duty to notify Licensing Authority. 15.  Certificates of destruction and changes to the register kept and   maintained by the Licensing Authority in respect of the end-of life vehicle. 16. Maintenance of electronic systems. 17.   Certificates of destruction issued by other EEA states. 18.   Restrictions on disclosure of information.
 
 Part V Delivery of end-of life vehicles to treatment facilities
 
-19.  Application.
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106 20.  Delivery of an end-of life vehicle to a treatment facility. 21.  Producers to meet significant part of costs. 22.  Offences.
+19.   Application. 20.   Delivery of an end-of life vehicle to a treatment facility. 21.   Producers to meet significant part of costs. 22.   Offences.
 
 Part VI Storage and treatment of end-of life vehicles
 
@@ -66,13 +48,7 @@ Schedule 2 Specimen form of compliance notice.
 
 Schedule 3 Technical requirements for the treatment and storage of end-of life vehicles.
 
-Schedule 4
-
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106 General rules (as required to be adopted further to article 11(1) of the waste directive).
+Schedule 4 General rules (as required to be adopted further to article 11(1) of the waste directive).
 
 Schedule 5 Recovery operations.
 
@@ -82,8 +58,4 @@ Schedule 7 Exemptions.
 
 Schedule 8 This Schedule Reproduces Annex II
 
-Public Health END-OF LIFE VEHICLES RULES 2004
-
-1950-07
-
-Subsidiary 2004/106 In exercise of the powers conferred on him by section 337 of the Public Health Act as read with section 23 of the Interpretation and General Clauses Act and in order to transpose into the law of Gibraltar Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of life vehicles as amended by Commission Decision of 19 February 2002, 2002/151/EC and Commission Decision of 27 June 2002, 2002/525/EC the Governor has made the following Rules-
+In exercise of the powers conferred on him by section 337 of the Public Health Act as read with section 23 of the Interpretation and General Clauses Act and in order to transpose into the law of Gibraltar Directive 2000/53/EC of the European Parliament and of the Council of 18 September 2000 on end-of life vehicles as amended by Commission Decision of 19 February 2002, 2002/151/EC and Commission Decision of 27 June 2002, 2002/525/EC the Governor has made the following Rules-
