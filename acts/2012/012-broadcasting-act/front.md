@@ -10,9 +10,11 @@ Act. No. 2012-12 Commencement (LN. 2012/157) 8.11.2012
 
 Assent 11.10.2012
 
-Amending enactments Relevant current provisions Commencement date LN. 2013/0541 ss. 57(2) & 60(1)(b) 8.11.2012 2013/074 ss. 35(1), (2), (3), (4) 9.5.2013
+Amending enactments Relevant current provisions Commencement date LN. 2013/0541 ss. 57(2) & 60(1)(b) 8.11.2012 2013/074 ss. 35(1), (2), (3), (4) 9.5.2013 2020/356 ss. 2(1), (2)(b), (4A)-(4B), 28, 28A, 29(3A), 29A(2), 29B(2)-(3), (3A), 30, 31(2), 32, 35(1)-(2), (4), 40(1)- (3), (3A)-(3B), (4), (4A), 41A, 45-46
 
-Transposing: Directive 2007/65/EC Directive 2010/13/EU
+19.09.2020
+
+Transposing: Directive 2007/65/EC Directive 2010/13/EU Directive (EU) 2018/1808
 
 1 Notice of corrigenda
 
@@ -52,15 +54,13 @@ PART VI RIGHT OF REPLY
 
 PART VII REGULATION OF EUROPEAN UNION BROADCASTS
 
-40. European Union broadcasts. 41. Special provisions in respect of on-demand audiovisual media services. 41A. European works (on-demand audiovisual services). 42. Special provisions concerning broadcasts from outside Gibraltar. 44. Miscellaneous.
+40. European Union broadcasts. 41. Special provisions in respect of on-demand audiovisual media services. 41A. European works (on-demand audiovisual services). 42. Special provisions concerning broadcasts from outside Gibraltar. 44. Miscellaneous. 45. Provisions applicable to video-sharing platform services. 46. (1) The Authority shall ensure that video-sharing…
 
 PART IX CONTINUANCE AND CONSTITUTION OF THE GBC
 
-47. Continuance of the Gibraltar Broadcasting Corporation and appointment of Board. 48. Tenure and vacation of membership.
-
 Broadcasting
 
-2012-12 49. Meetings and proceedings. 50. GBC to be body corporate. 51. No personal liability to attach to members.
+2012-12 47. Continuance of the Gibraltar Broadcasting Corporation and appointment of Board. 48. Tenure and vacation of membership. 49. Meetings and proceedings. 50. GBC to be body corporate. 51. No personal liability to attach to members.
 
 PART X FUNCTIONS OF THE GBC
 
@@ -84,13 +84,11 @@ PART XIV LEGAL CHALLENGES TO THE POWERS EXERCISED UNDER THIS ACT
 
 PART XV MISCELLANEOUS
 
-68. Acquisition of lands. 69. Offences. 70. Offences by corporate bodies.
-
 Broadcasting
 
-2012-12 70A. Continuation of the offence. 71. Summary proceedings. 71A. Civil proceedings. 72. Time limit for bringing proceedings. 72A. Regulatory Co-operation. 72B. Co-operation with Member States. 73. Repeals and transitional provisions. 74. Application to the Crown. 75. Force Majeure.
+2012-12 68. Acquisition of lands. 69. Offences. 70. Offences by corporate bodies. 70A. Continuation of the offence. 71. Summary proceedings. 71A. Civil proceedings. 72. Time limit for bringing proceedings. 72A. Regulatory Co-operation. 72B. Co-operation with Member States. 73. Repeals and transitional provisions. 74. Application to the Crown. 75. Force Majeure.
 
-SCHEDULE 1 LIST OF MATTERS TO TAKE INTO ACCOUNT
+SCHEDULE 1 List of matters to take into account
 
 SCHEDULE 2 RESTRICTION ON THE HOLDING OF LICENCES
 
@@ -99,5 +97,3 @@ SCHEDULE 3 COVERAGE OF ANY ELECTION OR REFERENDUM
 Broadcasting
 
 2012-12 AN ACT TO MAKE PROVISION FOR THE GIBRALTAR BROADCASTING CORPORATION AND TO TRANSPOSE INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 2010/13/EU OF 10 MARCH 2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL ON THE COORDINATION OF CERTAIN PROVISIONS LAID DOWN BY LAW, REGULATION OR ADMINISTRATIVE ACTION IN MEMBER STATES CONCERNING THE PROVISION OF AUDIOVISUAL MEDIA SERVICES SUPPLEMENTING, DIRECTIVE 2007/65/EC OF THE EUROPEAN PARLIAMENT AND THE COUNCIL OF 11 DECEMBER 2007 AMENDING COUNCIL DIRECTIVE 89/552/EEC ON THE COORDINATION OF CERTAIN PROVISIONS LAID DOWN BY LAW, REGULATION OR ADMINISTRATIVE ACTION IN MEMBER STATES CONCERNING THE PURSUIT OF TELEVISION BROADCASTING ACTIVITIES AND FOR CONNECTED PURPOSES:
-
-PART I
