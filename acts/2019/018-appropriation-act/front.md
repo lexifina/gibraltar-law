@@ -8,9 +8,7 @@ Assent 25.6.2019
 
 Amending enactments Relevant current provisions Commencement date
 
-Act.2020-05 ss. 2(1), 3(1), 5(1), 6(1), 7(1), 8, Sch. 23.3.2020
-
-2019-18 Appropriation 2019
+Act.2020-05 ss. 2(1), 3(1), 5(1), 6(1), 7(1), 8, Sch. 23.3.2020 2020-11 ss. 2(1), 3(1), 5(1), 6(1), 7(1), Sch. 1.10.2020
 
 ARRANGEMENT OF SECTIONS
 
@@ -20,14 +18,12 @@ Sections
 
 SCHEDULE
 
-Part 1 Consolidated Fund Expenditure 2019/2020
+Part 1 Consolidated Fund Expenditure 2019/2021
 
-Part 2 Consolidated Fund Contributions 2019/2020
+Part 2 Consolidated Fund Contributions 2019/2021
 
-Part 3 Improvement and Development Fund Expenditure 2019/2020
+Part 3 Improvement and Development Fund Expenditure 2019/2021
 
-Part 4 Recurrent Expenditure of Public Undertakings 2019/2020
+Part 4 Recurrent Expenditure of Public Undertakings 2019/2021
 
-Part 5 Capital Expenditure of Public Undertakings 2019/2020
-
-Appropriation 2019 2019-18
+Part 5 Capital Expenditure of Public Undertakings 2019/2021
