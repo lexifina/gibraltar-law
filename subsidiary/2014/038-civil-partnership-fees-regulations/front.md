@@ -1,18 +1,16 @@
-Civil Partnership
+2014-10 Civil Partnership
 
-2014-10
-
-Subsidiary 2014/038
-
-Subsidiary Legislation made under s. 124.
+Subsidiary Legislation made under s.124.
 
 CIVIL PARTNERSHIP (FEES) REGULATIONS 2014
 
-(LN. 2014/038)
+LN.2014/038
 
 Commencement 28.3.2014
 
 Amending enactments Relevant current provisions Commencement date
+
+LN. 2020/352 Sch. 15.10.2020
 
 _______________________
 
