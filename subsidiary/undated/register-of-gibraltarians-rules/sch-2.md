@@ -14,8 +14,6 @@ day of 20
 
 Registrar of Gibraltarians.
 
-____________________
-
 Gibraltarian Status REGISTER OF GIBRALTARIANS RULES
 
 1962-13
