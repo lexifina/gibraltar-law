@@ -32,11 +32,9 @@ The garbage is to be grouped into categories for the purposes of this record boo
 
  Refer to the Guidelines for the implementation of Annex V of the MARPOL Convention as amended by Resolution MEPC.92(45).
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-1995-13
-
-Subsidiary 2009/082
+Page 232 of 251
 
 3. Ground-down paper products, rags, glass, metal, bottles, crockery, etc.
 
@@ -74,11 +72,7 @@ Subsidiary 2009/082
 
 (v) Signature of officer in charge of the operation.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082 (c) When garbage is incinerated:
+(c) When garbage is incinerated:
 
 (i) Date and time of start and stop of incineration;
 
@@ -106,14 +100,6 @@ The master should obtain from the operator of port reception facilities, or from
 
 The amount of garbage on board should be estimated in cubic metres, if possible separately according to category.  The Garbage Record Book contains many references to estimated amount of garbage.  It is recognised that the accuracy of estimating amounts of garbage is left to interpretation. Volume estimates will differ before and after processing.  Some processing procedures may not allow for a usable estimate of volume, e.g. the continuous processing of food waste. Such factors should be taken into consideration when making and interpreting entries made in a record.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-1995-13
-
-Subsidiary 2009/082
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082
+Page 234 of 251

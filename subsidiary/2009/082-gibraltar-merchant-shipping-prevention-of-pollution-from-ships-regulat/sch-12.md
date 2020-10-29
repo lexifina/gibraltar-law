@@ -12,24 +12,16 @@ The mixture will have up to 50% moisture and 7% incombustible solids.
 
 O² in combustion chamber: 6–12% CO in flue gas maximum average:
 
-200 mg/MJ Soot number maximum Bacharach 3 or Ringelman
+200 mg/MJ
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-1995-13
+Page 250 of 251 Soot number maximum average:
 
-Subsidiary 2009/082 average:
-
-1 (20% opacity) (A higher soot number is acceptable only during very short periods such as starting up)
+Bacharach 3 or Ringelman 1 (20% opacity) (A higher soot number is acceptable only during very short periods such as starting up)
 
 Unburned components in ash residues: maximum 10% by weight
 
 Combustion chamber flue gas outlet temperature range:
 
 850–1200C
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (PREVENTION OF POLLUTION FROM SHIPS) REGULATIONS 2009
-
-1995-13
-
-Subsidiary 2009/082
