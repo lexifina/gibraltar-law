@@ -12,7 +12,7 @@ GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
 
 Amending enactments Relevant current provisions Commencement date LN.  2015/031 rr. 2, 49(1)(d), 63(2), (3), 63A, 84(1), (2A), 89(7)
 
-5.3.2015
+5.3.2015 2020/375 rr. 51(3)(e), 55(6)(e) 29.10.2020
 
 Implementing: Regulation 725/2004/EC International Convention for Safety of Life at Sea (SOLAS) 1974
 
@@ -95,6 +95,12 @@ PART XIII SAFETY MEASURES FOR HIGH-SPEED CRAFT.
 PART XIV ENFORCEMENT AND CONTROL OF SHIPS.
 
 84. Inspection and control of ships. 85. Rectification of deficiencies. 86. Cancellation of a certificate. 87. Prohibition on proceeding to sea without the appropriate documentation. 88. Limit on the number of passengers on passenger ships. 89. Security checks for the purposes of the EC Regulation. 90. Inspection of port facilities and companies by the European Commission. 91. Appeals. 92. Offences and penalties.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
+
+1995-13
+
+Subsidiary 2004/071
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SURVEY, CERTIFICATION AND SAFETY) REGULATIONS 2004
 
