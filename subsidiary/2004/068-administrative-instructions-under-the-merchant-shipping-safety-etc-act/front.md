@@ -10,7 +10,7 @@ ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ACT 1993
 
 29.7.2004
 
-Amending enactments Relevant current provisions Commencement date LN. 2006/107 Instructions & STCW – 1 to 14 5.10.2006
+Amending enactments Relevant current provisions Commencement date LN. 2006/107 Instructions & STCW – 1 to 14 5.10.2006 2020/372 Instructions & STCW – 1 29.10.2020
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
@@ -30,19 +30,17 @@ ADMINISTRATIVE INSTRUCTION ON SAFE MANNING DOCUMENT
 
 (Issued under Section 3 (5) of the Gibraltar Merchant Shipping (Safety etc.) Act 1993 and to  be read in conjunction with the relevant provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
 
-1. Every Gibraltar registered ship engaged in international voyages and other Gibraltar ships of 500 gt and above will be required to be in possession of a Safe Manning Document issued by the Maritime Administrator in compliance with SOLAS 74 regulation V/14. IMO Assembly Resolution A-890 on "Principles on Safe Manning" shall be used for further guidance. The ship shall not be allowed to proceed to sea unless it has a Safe Manning Document (SMD) and it is manned in accordance with such document as the minimum acceptable manning standard. Watch- keeping standards must be maintained in accordance with the provisions of Chapter VIII (regulation VIII and Code A-VIII) of  STCW95 and minimum periods of rest must also be provided in accordance with Chapter VIII of STCW95 and ILO-180. Watch schedules shall be posted/displayed.
+1. Every Gibraltar registered ship engaged in international voyages and other Gibraltar ships of 500 gt and above will be required to be in possession of a Safe Manning Document issued by the Maritime Administrator in compliance with SOLAS 74 regulation V/14. IMO Assembly Resolution A.1047(27) on "Principles on Safe Manning" shall be used for further guidance. The ship shall not be allowed to proceed to sea unless it has a Safe Manning Document (SMD) and it is manned in accordance with such document as the minimum acceptable manning standard. Watch-keeping standards must be maintained in accordance with the provisions of Chapter VIII (regulation VIII and Code A-VIII) of STCW95 and minimum periods of rest must also be provided in accordance with Chapter VIII of STCW95 and ILO-180. Watch schedules shall be posted/displayed.
 
 2. The company managing a Gibraltar registered ship to which this Administrative Instruction applies should apply to the Maritime Administrator for issue of an SMD in the form given at Annex A. The company shall provide particulars of the ship (type of ship, dimensions, tonnage, propulsion power in kW, degree of automation etc.), nature of trade, area of operation, and the minimum scale of manning with which the company wants to operate the vessel.
 
-3. The Administration shall consider each application in the light of IMO Assembly Resolution A-890 and when it is satisfied that the manning will meet the requirements for safe operation and protection of the marine environment, it shall issue a Safe Manning Document for the relevant ship in the form given at Annex B. Except for passenger ships, the SMD will be based on Unmanned Machinery Space operation and when UMS is not operative the ship shall carry at least one more duly qualified Engineer Officer (in addition to the SMD requirement). However, the Maritime Administrator in some cases may attach such conditions as considered necessary for the safe operation of a particular ship.
-
-4. An SMD shall be initially issued for a period of one year and renewed within this period when issuing a full term Safety Management
+3. The Administration shall consider each application in the light of IMO Assembly Resolution A.1047(27) and when it is satisfied that the manning will meet the requirements for safe operation and protection of the marine environment, it shall issue a Safe Manning Document for the relevant ship in the form given at Annex B. Except for passenger ships, the SMD will be based on Unmanned Machinery Space operation and when UMS is not operative the ship shall carry at least one more duly qualified Engineer Officer (in addition to the SMD requirement). However, the Maritime Administrator in some cases may attach such conditions as considered necessary for the safe operation of a particular ship.
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 Certificate (SMC) to harmonise future renewal every five years unless the ship undergoes such changes that may require a revision of the SMD. Companies should ensure that the existing SMD issued to their ships is renewed at the time of renewal of the SMC.
+Subsidiary 2004/068 4. An SMD shall be initially issued for a period of one year and renewed within this period when issuing a full term Safety Management Certificate (SMC) to harmonise future renewal every five years unless the ship undergoes such changes that may require a revision of the SMD. Companies should ensure that the existing SMD issued to their ships is renewed at the time of renewal of the SMC.
 
 5. It shall be the responsibility of the company to ensure that the ship has at least one officer who has an appropriate certificate for the operation of the GMDSS Radio-communication equipment fitted on the ship (as appropriate for the area of operation) and that all Deck Officers have at least a Restricted Operator's Certificate in GMDSS. In the case of Masters and Chief Officers a General Operator’s Certificate is required. Seafarers employed on the ship must be medically fit and duly qualified as required; and all officers shall have either appropriate certificates or an endorsement in recognition of an appropriate certificate issued by the Maritime Administrator relevant to the capacity of the officer, and the type, size, power and area of operation of the vessel or a certificate of competency (or a certificate of equivalent competency) issued by the UK-MCA. In exceptional circumstances a Dispensation may be issued in Compliance with Article VIII of STCW95.
 
@@ -54,13 +52,11 @@ Subsidiary 2004/068 Certificate (SMC) to harmonise future renewal every five yea
 
 (a) appropriate accommodation is available; (b) sufficient life-saving appliances are available; and (c) safety familiarisation training is given.
 
-9. All persons employed on a Gibraltar registered ship must be duly signed on a Gibraltar Crew Agreement or a UK (non-federated) Crew
-
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068 Agreement. The company may sign the crew on an agreement in the format of the labour supplying country if such is the requirement in which case such agreement will form a part of the Gibraltar Crew Agreement. However, any term or condition that contradicts the basic principles of the Gibraltar Crew Agreement or that of ILO Convention No. 22 shall be considered void. The Agreement must contain provision for 4 weeks paid leave in a year with provision for payment in lieu proportionately for the period of service.
+Subsidiary 2004/068 9. All persons employed on a Gibraltar registered ship must be duly signed on a Gibraltar Crew Agreement or a UK (non-federated) Crew Agreement. The company may sign the crew on an agreement in the format of the labour supplying country if such is the requirement in which case such agreement will form a part of the Gibraltar Crew Agreement. However, any term or condition that contradicts the basic principles of the Gibraltar Crew Agreement or that of ILO Convention No. 22 shall be considered void. The Agreement must contain provision for 4 weeks paid leave in a year with provision for payment in lieu proportionately for the period of service.
 
 10. A copy of this Administrative Instruction shall be carried on every Gibraltar registered ship so that in any foreign port, the Administration of the Port State can be aware of the Flag State requirements applicable to the vessel in respect of manning.
 
@@ -70,13 +66,13 @@ Trading Area Size of Ship (GT) Number of Officers to be carried - STCW’95 Regu
 
 Key:
 
-(a) May be 1 if the Master keeps watch; (b) Need not be carried if the Master keeps watch; (c) One of these II/3 certificates must have an endorsement for the capacity of Master.
+(a) May be 1 if the Master keeps watch; (b) Need not be carried if the Master keeps watch;
 
 Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
 
 1995-13
 
-Subsidiary 2004/068
+Subsidiary 2004/068 (c) One of these II/3 certificates must have an endorsement for the capacity of Master.
 
 Note - A Passenger Ship over 3,000 GT, or carrying 100 or more passengers shall have 3 Deck Officers other than the Master, so that the Master can spend more time on management of safety standards
 
@@ -108,7 +104,7 @@ Form No 1
 
 APPLICATION FOR A SAFE MANNING DOCUMENT
 
-The company shall assess its requirements and propose a scale of minimum safe manning for the vessel taking into consideration the principles and guidance given in IMO Resolution A-890 and the Gibraltar Administrative Instruction on Safe Manning.
+The company shall assess its requirements and propose a scale of minimum safe manning for the vessel taking into consideration the principles and guidance given in IMO Resolution A.1047(27) and the Gibraltar Administrative Instruction on Safe Manning.
 
 Name of the ship:…………………..
 
@@ -190,7 +186,7 @@ Registry of Ships Watergate House Casemates Square Gibraltar The Maritime Admini
 
 GOVERNMENT OF GIBRALTAR * SAFE MANNING DOCUMENT
 
-(Issued in compliance with Regulation V/14 of SOLAS 74 as amended, IMO Resolution A- 890 and the Gibraltar Administrative Instruction on Safe Manning)
+(Issued in compliance with Regulation V/14 of SOLAS 74 as amended, IMO Resolution A.1047(27) and the Gibraltar Administrative Instruction on Safe Manning)
 
 Name of the ship:
 
