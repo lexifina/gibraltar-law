@@ -14,13 +14,17 @@ Amending enactments Relevant current provisions Commencement date LN. 2008/032 r
 
 4.7.2014 “ r. 44A 4.1.20151 2018/225 rr. 2, 3(2), 5(3), 9C(5)-(7), 11(4)(a), (b), (5), (6)(a), (b), 11A, Sch.1
 
-18.10.2018
-
-Transposing: Directive 2001/25/EC Directive 2003/103/EC Directive 2005/23/EC Directive 2005/45/EC Directive 2008/106/EC
-
-Implementing: International Convention for Safety of Life at Sea, 1974 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 IMO Resolution MSC.396(95) IMO Resolution MSC.416(97) IMO Resolution MSC.417(97)
+18.10.2018 2020/373 r. 42(1)-(2) 29.10.2020
 
 1 Commencement date corrected by Notice of Corrigenda – LN. 2015/015
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MANNING, TRAINING AND CERTIFICATION FOR SEAFARERS) REGULATIONS 2006
+
+1995-13
+
+Subsidiary 2006/023 Transposing: Directive 2001/25/EC Directive 2003/103/EC Directive 2005/23/EC Directive 2005/45/EC Directive 2008/106/EC
+
+Implementing: International Convention for Safety of Life at Sea, 1974 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 IMO Resolution MSC.396(95) IMO Resolution MSC.416(97) IMO Resolution MSC.417(97) IMO Resolution A.1070(28)
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MANNING, TRAINING AND CERTIFICATION FOR SEAFARERS) REGULATIONS 2006
 
