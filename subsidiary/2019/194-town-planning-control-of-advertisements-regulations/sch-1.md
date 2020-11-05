@@ -25,5 +25,3 @@ Category of Advertisement Fee Payable £
 4.  Advertisements for charitable purposes The Minister may in his discretion by notice authorise the total or partial exemption
 
 5.  All other advertisements. 120
-
-Town Planning 2018-19 Town Planning (Control of Advertisements) Regulations 2019 2019/194
