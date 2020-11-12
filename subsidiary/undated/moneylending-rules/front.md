@@ -1,18 +1,12 @@
-Financial Services (Moneylending) MONEYLENDING RULES
+Subsidiary Legislation made under s.9.
 
-1917-15
+Moneylending Rules
 
-Subsidiary 1949.01.01 Rules made under s.9
+1949.01.01
 
-MONEYLENDING RULES
+Commencement 1.1.1949
 
-(1949.01.01)
-
-1.1.1949
-
-Amending enactments Relevant current provisions Commencement date Act. 2008-06 rr. 2, 3, 6 & Sch.2 29.5.2008
-
-____________________________
+Amending enactments Relevant current provisions Commencement date Act. 2008-06 rr. 2-3, 6, Sch.2 29.5.2008 LN. 2020/398 r. 2, Schs.1-2 12.11.2020
 
 ARRANGEMENT OF RULES
 
@@ -24,17 +18,13 @@ SCHEDULE 1. Statement by a Person intending to apply for a Certificate.
 
 SCHEDULE 2. Form of certificate to be granted by the Magistrates’ Court.
 
-Financial Services (Moneylending) MONEYLENDING RULES
-
-1917-15
-
-Subsidiary 1949.01.01 Title.
+Title.
 
 1. These rules may be cited as the Moneylending Rules.
 
 Applicant to lodge statement.
 
-2. Any person intending to apply to the Minister for a certificate under section 6 of the Act (hereinafter referred to as “a certificate”) shall lodge with the Financial Secretary a statement in the form set out in Schedule 1.
+2. Any person intending to apply to the Minister for a certificate under section 34 of the Act (hereinafter referred to as “a certificate”) shall lodge with the Financial Secretary a statement in the form set out in Schedule 1.
 
 Advertisement in the Gazette.
 
@@ -49,11 +39,5 @@ Form of certificate.
 5. A certificate shall be in the form set out in Schedule 2.
 
 6. Revoked
-
-Financial Services (Moneylending) MONEYLENDING RULES
-
-1917-15
-
-Subsidiary 1949.01.01
 
 SCHEDULE 1

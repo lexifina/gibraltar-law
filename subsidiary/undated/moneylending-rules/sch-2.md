@@ -4,9 +4,9 @@ Rule 5.
 
 FORM OF CERTIFICATE TO BE GRANTED BY THE MINISTER
 
-Moneylending Act1
+Financial Services (Moneylending) Act
 
-Certificate granted under section 6 of the Moneylending Act1,
+Certificate granted under section 34 of the Financial Services (Moneylending) Act,
 
 I (or We) the undersigned do hereby certify that I (or we) do authorize the grant to A.B., of
 
@@ -23,5 +23,3 @@ Dated the day of
 (Signed)
 
 Minister
-
-1 Moneylending Act amended by Act 2007-04 and as from 19.4.2007 titled Financial Services (Moneylending) Act
