@@ -1,8 +1,6 @@
 Leisure Areas (Licensing) LEISURE AREAS (LICENSING) (No. 2) REGULATIONS 2001
 
-Subsidiary 2001/142 2001-24
-
-Regulations made under s.32.
+Subsidiary 2001/142 2001-24 Regulations made under s.32.
 
 LEISURE AREAS (LICENSING) (No. 2) REGULATIONS,  2001
 
@@ -10,11 +8,15 @@ LEISURE AREAS (LICENSING) (No. 2) REGULATIONS,  2001
 
 11.12.2001
 
-Amending enactments Relevant current provisions Commencement date None
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/402 Sch.1 12.11.2020
 
 ARRANGEMENT OF REGULATIONS
 
-Regulation 1. Citation. 2. Grant and conditions of licences. 3. Renewals. 4. fees.
+Regulation
+
+1. Citation. 2. Grant and conditions of licences. 3. Renewals. 4. fees.
 
 SCHEDULE 1. Fees
 
@@ -52,13 +54,15 @@ licences for places of entertainment (reg.2) - - per annum
 
 £7.50
 
-liquor manufacturing licences (reg. 2) £40.00
+liquor manufacturing licences (reg. 2)
 
-licences to sell intoxicating liquor to be consumed off the premises (reg.2)
+£40.00
+
+licences to sell food, drink or intoxicating liquor to be consumed off the premises (reg.2)
 
 £80.00
 
-licences to sell intoxicating liquor to be consumed on the premises (reg.2) –
+licences to sell food, drink or intoxicating liquor to be consumed on the premises (reg.2) –
 
 - for any premises whose net annual value is rated from £501 to £1000
 
@@ -72,9 +76,11 @@ licences to sell intoxicating liquor to be consumed on the premises (reg.2) –
 
 £400.00
 
-Licence to sell intoxicating liquor for consumption in an external area (reg.6)
+Licence to sell food, drink or intoxicating liquor for consumption in an external area (reg.6)
 
-£0.60 per square metre
+£0.60 per
+
+square metre
 
 Leisure Areas (Licensing) LEISURE AREAS (LICENSING) (No. 2) REGULATIONS 2001
 
