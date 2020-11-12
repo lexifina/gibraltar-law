@@ -2,11 +2,21 @@ European Union (Withdrawal Agreement) Act 2020
 
 Principal Act
 
-Act. No. 2020-01 Commencement (ss.1, 2, 3, 6, 16, 23, 24, 25(1), (2), (4), Sch.1, Sch 2 (para 1(3), 2, 3, 5(a)-(d), 8, 9(1), (3), 14(1)-(4), (6), 17(1), (4), 18, 19,) 21.1.2020
+Act. No. 2020-01 Commencement (ss.1, 2, 3, 6, 16, 23, 24, 25(1), (2), (4), Sch.1, Sch 2 (para 1(3), 2, 3, 5(a)-(d), 8, 9(1), (3), 14(1)-(4), (6), 17(1), (4), 18, 19,)
 
-Notice of Commencement (LN.220/054) (ss. 18, 25(3), Sch.2 (para 1-2))(Before Exit Day) 31.1.2020
+21.1.2020
 
-Notice of Commencement (LN.220/054) (ss. 4-5, 7-8, 15, 19(4)(b), (6)(a), 20(1)(a), (2), 21, 25(3), (5,) Sch.2 (para 5(e), 7, 9(2), (4)-(5), 11(1)-(2), (5), 12, 13(1), (3), 14(5), 15(1), (4)-(5), (7), 16(1)-(2), 17(5)-(7)) (On Exit Day) 31.1.2020
+Notice of Commencement (LN.220/054) (ss. 18, 25(3), Sch.2 (para 1-2))(Before Exit Day)
+
+31.1.2020
+
+Notice of Commencement (LN.220/054) (ss. 4-5, 7-8, 15, 19(4)(b), (6)(a), 20(1)(a), (2), 21, 25(3), (5,) Sch.2 (para 5(e), 7, 9(2), (4)-(5), 11(1)-(2), (5), 12, 13(1), (3), 14(5), 15(1), (4)-(5), (7), 16(1)-(2), 17(5)-(7)) (On Exit Day)
+
+31.1.2020
+
+Notice of Commencement (LN.2020/399) (ss. 9-14, 17, 20(1)(d)
+
+12.11.2020
 
 Assent 21.1.2020
 
@@ -56,7 +66,7 @@ CITIZENS’ RIGHTS
 
 Rights in relation to entry and residence
 
-European Union (Withdrawal Agreement) 2020-01
+European union (withdrawal agreement) 2020-01
 
 9. Rights related to residence 10. Frontier workers 11. Restrictions of rights of entry and residence
 
@@ -114,7 +124,7 @@ SCHEDULE 1 REGULATIONS UNDER THIS ACT
 
 SCHEDULE 2 CONSEQUENTIAL AND TRANSITIONAL PROVISION ETC.
 
-European Union (Withdrawal Agreement) 2020-01
+European union (withdrawal agreement) 2020-01
 
 AN ACT TO IMPLEMENT, AND MAKE OTHER PROVISION IN CONNECTION WITH, THE AGREEMENT BETWEEN THE UNITED KINGDOM AND THE EU UNDER ARTICLE 50(2) OF THE TREATY ON EUROPEAN UNION WHICH SETS OUT THE ARRANGEMENTS FOR GIBRALTAR’S WITHDRAWAL FROM THE EU, AND FOR CONNECTED PURPOSES.
 

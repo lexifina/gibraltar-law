@@ -30,7 +30,7 @@ Power to make consequential regulations under EUWA 2019.
 
 2.(1)  The power of a Minister under section 15(1) of the European Union (Withdrawal) Act 2019 to make such provision as the Minister considers appropriate in consequence of that Act includes the power to make such provision as the Minister considers appropriate in consequence of that Act as modified, or to be modified, by or under this Act (and references in the European Union (Withdrawal) Act 2019 to the power under section 15(1) of that Act are to be read accordingly).
 
-European Union (Withdrawal Agreement) 2020-01
+European union (withdrawal agreement) 2020-01
 
 (2)  Subparagraph (1) does not limit the power conferred by section 25(1) above.
 
@@ -104,7 +104,7 @@ European Union (Withdrawal) Act 2019.
 
 (b) references to anything which continues to be domestic law on or after exit day by virtue of section 4B(2) (as that body of law is added to or otherwise modified by or under this Act or by other domestic law from time to time).”.
 
-European Union (Withdrawal Agreement) 2020-01
+European union (withdrawal agreement) 2020-01
 
 (4)  In subsection (7) for “exit day” substitute “IP completion day”.
 
@@ -176,7 +176,7 @@ continues to be domestic law as an enactment of the same kind.”.
 
 (b) in subparagraph (2) omit the definition of “interpreting retained EU law”.
 
-European Union (Withdrawal Agreement) 2020-01
+European union (withdrawal agreement) 2020-01
 
 (3)  In paragraph 2-
 
@@ -252,7 +252,7 @@ European Union (Withdrawal Agreement) 2020-01
 
 (b) on or after IP completion day, without any corresponding restriction in relation to compatibility with retained EU law,
 
-European Union (Withdrawal Agreement) 2020-01
+European union (withdrawal agreement) 2020-01
 
 so far as the restriction concerned is not applicable to and in Gibraltar by virtue of the withdrawal agreement.”.
 
@@ -330,7 +330,7 @@ which, immediately before exit day, is in the process of being done continues to
 
 12A.  The repeal of section 4A(1) to (5) by section 4A(6) and the repeal of section 4B(1) to (5) by section 4B(6) do not prevent an enactment to which section 5 applies from continuing to be read, on and after IP completion day and by virtue of section 5, in accordance with section 4B(3) or (4).
 
-European Union (Withdrawal Agreement) 2020-01
+European union (withdrawal agreement) 2020-01
 
 13.  Section 7(2)(b) does not apply in relation to any rights, powers, liabilities, obligations, restrictions, remedies or procedures so far as they are of a kind recognised by a court or tribunal in Gibraltar in a case decided on or after IP completion day but begun before IP completion day (whether or not as an essential part of the decision in the case).”.
 
