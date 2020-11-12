@@ -18,7 +18,7 @@ LN. 2019/073 s. 3(1), (2) 28.3.2019 2019/092 s. 3(1), (2) 11.4.2019 2019/218 s. 
 
 31.1.2020 LN. 2020/064 ss. 10(1), (6), 15(3), Sch. 4 (para 5-6, 8-10)(Notice of Commencement)
 
-31.1.2020
+31.1.2020 Act. 2020-01 ss. 9(5A)-(5C), 11B 12.11.2020
 
 English sources: None cited
 
@@ -44,15 +44,15 @@ Retention of existing EU law
 
 Further aspects of withdrawal
 
-10A. General implementation of remainder of withdrawal agreement. 10B. General implementation of EEA EFTA and Swiss agreements. 10C. Interpretation of relevant separation agreement law. 11. Dealing with deficiencies arising from withdrawal. 11A. Supplementary powers in connection with implementation period. 11C. Power in connection with Gibraltar Protocol in withdrawal agreement. 12. Repealed. 13. Rules of evidence. 14. Regulations. 15. Consequential and transitional provision. 16. Repealed.
+10A. General implementation of remainder of withdrawal agreement. 10B. General implementation of EEA EFTA and Swiss agreements. 10C. Interpretation of relevant separation agreement law. 11. Dealing with deficiencies arising from withdrawal. 11A. Supplementary powers in connection with implementation period. 11B. Power in connection with certain other separation issues. 11C. Power in connection with Gibraltar Protocol in withdrawal agreement. 12. Repealed. 13. Rules of evidence. 14. Regulations. 15. Consequential and transitional provision. 16. Repealed.
 
 SCHEDULE 1 FURTHER PROVISION ABOUT EXCEPTIONS TO SAVINGS AND INCORPORATION
 
-SCHEDULE 2 RULES OF EVIDENCE
+SCHEDULE 2
 
 European Union (Withdrawal)
 
-2019-01
+2019-01 RULES OF EVIDENCE
 
 SCHEDULE 3 REGULATIONS
 
