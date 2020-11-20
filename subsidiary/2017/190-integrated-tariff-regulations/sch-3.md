@@ -380,6 +380,16 @@ Free
 
 Free
 
+44.  New motor caravans imported by a licensed dealer, powered by a petrol or diesel engine, and with an engine capacity
+
+(a)  exceeding 1500cc but not exceeding 2000cc
+
+(b)  exceeding 2000cc
+
+15%
+
+18%
+
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 1986-21
