@@ -32,7 +32,7 @@ Interpretation.
 
 Approval of principal Gibraltar executive.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 3.(1)  A Swiss general insurer must not appoint a person as its principal Gibraltar executive unless–
 
@@ -64,7 +64,7 @@ Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 
 
 (6)  The GFSC must consider any representations made in accordance with sub-paragraph (4)(b) in deciding whether to issue a notice of objection.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 (7)  The GFSC must exchange information with the supervisory authority in Switzerland regarding the suitability of any person who is the principal Gibraltar executive of a Swiss general insurer where it is of relevance to that supervisory authority for the giving of permission or the ongoing assessment of compliance with operating conditions.
 
@@ -98,7 +98,7 @@ Duty to notify change of executive or representative.
 
 (ii) a corporation, has a place of business in Gibraltar and itself has an individual representative resident in Gibraltar who is authorised to act generally and to accept service of any document, on behalf of the corporation in its capacity as the insurer’s representative;
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (b) is not an auditor, or a partner or employee of an auditor, of the accounts of any business carried on by the insurer; and
 

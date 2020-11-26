@@ -24,7 +24,7 @@ Regulation 281 General measures.
 
 but sub-paragraphs (1) and (2) must not prevent any undertaking from operating in accordance with Parts 1 to 11 of these Regulations.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 (4)  The GFSC must draw up and supply to the Government a list of the insurance and reinsurance undertakings concerned for onward communication to all the other EEA States.
 
@@ -48,7 +48,7 @@ but sub-paragraphs (1) and (2) must not prevent any undertaking from operating i
 
 (b) in 2018 the standard parameters to be used when calculating the concentration risk sub-module and the spread risk submodule in accordance with the standard
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 formula must be reduced by 80% in relation to exposures to EEA States' central governments or central banks denominated and funded in the domestic currency of any other EEA State;
 
@@ -66,7 +66,7 @@ formula must be reduced by 80% in relation to exposures to EEA States' central g
 
 (a) the GFSC must require the insurance or reinsurance undertaking concerned to take the necessary measures to achieve the establishment of the level of eligible own funds covering the Solvency Capital Requirement or the reduction of its risk profile to ensure compliance with the Solvency Capital Requirement by 31 December 2017;
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 (b) the insurance or reinsurance undertaking concerned must, every three months, submit a progress report to the GFSC setting out the measures taken and the progress made to establish the level of eligible own funds covering the Solvency Capital Requirement or to reduce the risk profile to ensure compliance with the Solvency Capital Requirement; and
 
@@ -88,7 +88,7 @@ Transitional measure on risk-free interest rates.
 
 (a) the interest rate as determined by the insurance or reinsurance undertaking in accordance with the laws, regulations and administrative provisions which are
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 adopted pursuant to Article 20 of Directive 2002/83/EC at the last date of the application of that Directive;
 
@@ -112,7 +112,7 @@ adopted pursuant to Article 20 of Directive 2002/83/EC at the last date of the a
 
 (b) not apply paragraph 3 of this Schedule;
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 (c) as part of their report on their solvency and financial condition referred to in regulation 52, publicly disclose that they apply the transitional risk-free interest rate term structure, and the quantification of the impact of not applying this transitional measure on their financial position.
 
@@ -132,7 +132,7 @@ Transitional measure on technical provisions.
 
 (5)  The deduction referred to in sub-paragraph (2) may be limited by the supervisory authority if its application could result in a reduction of the financial resources requirements that apply to the undertaking when compared with those calculated in accordance with the
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 laws, regulations and administrative provisions which are adopted pursuant to Directive 73/239/EEC, Directive 2002/83/EC and Directive 2005/68/EC on the day before those Directives are repealed pursuant to Article 310 of the Solvency 2 Directive.
 
@@ -154,10 +154,10 @@ Phasing-in plan on transitional measures on risk-free interest rates and on tech
 
 (4)  The insurance or reinsurance undertaking concerned may update the phasing-in plan during the transitional period.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 (5)  The insurance and reinsurance undertakings concerned must submit annually a report to the GFSC setting out the measures taken and the progress made to ensure compliance with the Solvency Capital Requirement at the end of the transitional period.
 
 (6)  The GFSC must revoke the approval for the application of the transitional measure where that progress report shows that compliance with  the Solvency Capital Requirement at the end of the transitional period is unrealistic.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
