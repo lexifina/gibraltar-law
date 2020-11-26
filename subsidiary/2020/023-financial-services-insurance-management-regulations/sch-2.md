@@ -12,7 +12,7 @@ APPENDIX 2 PROFIT AND LOSS ACCOUNT FORMAT A.  DEALING Gains/losses on principal 
 
 B.  REVENUE 1.  Commissions on transactions in collective investment schemes
 
-2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
 
 1.  authorised unit trust schemes and recognised schemes
 
@@ -42,7 +42,7 @@ IV.  Commissions on transactions in futures, options, contracts for differences,
 
 V.  Investment management fees VI.  Fee income in respect of financial advice VII.  Company management fees VIII.  Trustee fees IX.  Interest and dividends 1.  investment positions
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
+2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
 
 2.  loan accounts and margin accounts
 
@@ -62,6 +62,6 @@ II.  Salaries and other employment costs (exclusive of commission) III.  Directo
 
 VI.  Establishment costs VII.  Communications and marketing VIII. Office equipment and services IX.  Provisions for losses, bad and doubtful debts
 
-2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
 
 X.  Professional charges XI.  Investment exchange and clearing house charges XII. Regulatory fees and expenses XIII. Audit fees (including expenses) XIV. Miscellaneous office expenses XV.  Other expenditure - specify if material D.  PROFIT OR LOSS BEFORE TAXATION E.  TAXATION F.  PROFIT OR LOSS AFTER TAXATION G.  EXTRAORDINARY ITEMS H.  PROFIT OR LOSS FOR THE FINANCIAL YEAR

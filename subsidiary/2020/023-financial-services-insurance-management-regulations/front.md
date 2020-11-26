@@ -8,7 +8,11 @@ LN.2020/023
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/421 rr. 2(1), 4A 26.11.2020
+
+2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -20,7 +24,7 @@ PART 1 PRELIMINARY
 
 PART 2 AUTHORISATION CONDITIONS
 
-4. Initial capital requirement.
+4. Initial capital requirement. 4A. Scope of authorisation.
 
 PART 3 CONDUCT OF BUSINESS
 
@@ -30,17 +34,15 @@ Independence
 
 Advertising and marketing
 
-8. Issue of advertisements. 9. Identification of issuer. 10. Fair and clear communications.
-
-2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
-
-11. Customers’ understanding of risk. 12. Information about insurance manager. 13. Representatives of insurance manager.
+8. Issue of advertisements. 9. Identification of issuer. 10. Fair and clear communications. 11. Customers’ understanding of risk. 12. Information about insurance manager. 13. Representatives of insurance manager.
 
 Customer relations
 
 14. Management agreements. 15. Customer’s rights. 16. Charges.
 
 Administration
+
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
 
 17. Complaints. 18. Compliance. 19. Supervision. 20. Cessation of business.
 
@@ -56,9 +58,9 @@ Financial statements
 
 Customer money
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
-
 36. Application. 37. Customer money. 38. Duty to segregate. 39. Duty to keep customer money safe. 40. Customer money to be held on trust. 41. Accounting for and use of customer money. 42. Customer bank accounts. 43. Interest on customer money. 44. Payment of other money into customer bank account. 45. Payment out of customer bank account. 46. Customer safeguard accounts.
+
+2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
 
 PART 5 REPORTING AND NOTIFICATION
 
@@ -80,11 +82,7 @@ PART 7 MISCELLANEOUS
 
 55. The Register: insurance management.
 
-SCHEDULE
-
-2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
-
-FORM AND CONTENT OF FINANCIAL STATEMENTS
+SCHEDULE FORM AND CONTENT OF FINANCIAL STATEMENTS
 
 Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
 

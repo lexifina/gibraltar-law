@@ -18,7 +18,7 @@ II.  Debtors (1)
 
 1.  Trade debtors (2) 2.  Other debtors 3.  Amounts due from connected and group companies 4.  Prepayments and accrued income
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
+2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
 
 III.  Financial instruments (long positions)(3)
 
@@ -42,7 +42,7 @@ G. PROVISIONS FOR LIABILITIES AND CHARGES
 
 H.  TOTAL ASSETS LESS TOTAL LIABILITIES
 
-2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
 
 I.  CAPITAL AND RESERVES
 
@@ -74,7 +74,7 @@ Outstanding for more than 30 days Outstanding for 30 days or less.
 
 Amounts outstanding for more than 30 days Amounts outstanding for 30 days or less.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
+2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
 
 (3)  Financial instruments (long positions)
 
@@ -102,7 +102,7 @@ ____ ____ ___ ____ (ii)  Shares (other than in group companies)
 
 - Units in authorised and recognised unit trust schemes - Other
 
-2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
 
 (iv)  Futures, options, contracts for differences
 
@@ -142,7 +142,7 @@ Any amount of share capital which has not been paid up must be shown separately.
 
 (a) Amounts subject to an investment position risk factor
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
+2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
 
 (b) Other amounts arising in the ordinary course of business
 

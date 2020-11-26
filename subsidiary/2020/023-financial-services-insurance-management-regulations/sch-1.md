@@ -24,7 +24,7 @@ PART 2. ACCOUNTING PRINCIPLES AND RULES.
 
 6.(1)  The amounts to be included in respect of all items shown in the annual financial statements of an insurance manager must be determined in accordance with the Companies
 
-2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020 2020/023
 
 Act 2014 and either Gibraltar Financial Reporting Standards or International Accounting Standards.
 
