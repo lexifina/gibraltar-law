@@ -12,4 +12,4 @@ Permission
 
 2.  The Minister may by regulations specify, in relation to any person who is an authorised person as a result of paragraph 1(1), the extent of that person’s permission to carry on regulated activities in Gibraltar.
 
-2019-26 Financial Services
+Financial Services 2019-26

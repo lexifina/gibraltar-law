@@ -44,7 +44,7 @@ the MiFID 2 Directive;
 
 MiFIR;
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 the Mortgage Credit Directive;
 
@@ -68,4 +68,4 @@ the Transparency Directive;
 
 the UCITS Directive.
 
-2019-26 Financial Services
+Financial Services 2019-26

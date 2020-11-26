@@ -34,7 +34,7 @@ Statements by experts.
 
 2.(1)  A person (“P”) is not liable under section 346E for loss in respect of any securities caused by an expert statement if P satisfies the court–
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (a) that, at the time when the prospectus was submitted to the GFSC, P reasonably believed that the other person–
 
@@ -70,7 +70,7 @@ Correction of statements.
 
 (b) that P took all reasonable steps to secure such publication and reasonably believed that it had taken place before the securities were acquired.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (2)  This paragraph applies without affecting paragraph 1.
 
@@ -110,7 +110,7 @@ False or misleading information known about.
 
 Belief that supplementary prospectus not called for.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 7.  A person (“P”) is not liable under section 346E if P satisfies the court that P reasonably believed that the change or new matter in question was not such as to call for supplementary prospectus. SCHEDULE 25 Section 379(6)
 
@@ -138,9 +138,9 @@ Requirements equivalent to section 360(7).
 
 (c) for issuers of shares and if already not disclosed on an ongoing basis, major related parties transactions.
 
-Requirements equivalent to sections 359(2)(c) and 360(2)(c).
+Financial Services 2019-26
 
-2019-26 Financial Services
+Requirements equivalent to sections 359(2)(c) and 360(2)(c).
 
 3.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 359(2)(c) and 360(2)(c) where, under the law of that country, a person or persons within the issuer are responsible for the annual and half-yearly financial information and, in particular, for–
 
@@ -166,9 +166,9 @@ Requirements equivalent to section 359(3)(b).
 
 (a) if the financial information is not in line with those standards, it must be presented in the form of restated financial statements; and
 
-(b) the individual accounts must be audited independently.
+2019-26 Financial Services
 
-Financial Services 2019-26
+(b) the individual accounts must be audited independently.
 
 Requirements equivalent to section 366(11).
 
@@ -194,11 +194,9 @@ Requirements equivalent to section 371.
 
 Requirements equivalent to sections 373(3)(a) and 374(2)(c)(i).
 
-9.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 373(3)(a) and 374(2)(c)(i), as far as the content of the information about meetings is concerned, where, under the law of that country, an issuer whose
+Financial Services 2019-26
 
-2019-26 Financial Services
-
-registered office is in that third country is required to provide at least information on the place, time and agenda of meetings.
+9.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 373(3)(a) and 374(2)(c)(i), as far as the content of the information about meetings is concerned, where, under the law of that country, an issuer whose registered office is in that third country is required to provide at least information on the place, time and agenda of meetings.
 
 Equivalence in relation to the test of independence for parent undertakings of management companies and investment firms.
 
@@ -212,8 +210,8 @@ Equivalence in relation to the test of independence for parent undertakings of m
 
 (a) comply with the notification requirements set out in section 367(2)(a) and (3); and
 
-(b) make a statement that, in the case of each management company or investment firm concerned, the parent undertaking complies with the conditions set out in sub- paragraph (1).
+(b) make a statement that, in the case of each management company or investment firm concerned, the parent undertaking complies with the conditions set out in sub-paragraph (1).
 
 (3)  Without limiting section 380, where Gibraltar is the issuer’s home State the parent undertaking must be able to demonstrate to the GFSC, on request, that the requirements set out in section 367(4) are respected.
 
-Financial Services 2019-26
+2019-26 Financial Services

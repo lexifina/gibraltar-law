@@ -24,7 +24,7 @@ INVESTMENTS OF UCITS SCHEMES
 
 (i) such other collective investment undertakings are authorised under laws which provide that they are subject to supervision considered by the GFSC to be equivalent to that laid down in European Union law, and that cooperation between authorities is sufficiently ensured;
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (ii) the level of protection for unitholders in the other collective investment undertakings is equivalent to that provided for unit-holders in a UCITS scheme, and in particular that the rules on asset segregation, borrowing, lending, and uncovered sales of transferable securities and money market instruments are equivalent to the requirements of the UCITS Directive;
 
@@ -46,7 +46,7 @@ Financial Services 2019-26
 
 (iii) the OTC derivatives are subject to reliable and verifiable valuation on a daily basis and can be sold, liquidated or closed by an offsetting transaction at any time at their fair value at the UCITS scheme’s initiative; or
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (h) money market instruments other than those dealt in on a regulated market, if the issue or issuer of such instruments is itself regulated for the purpose of protecting investors and savings, provided that the instruments–
 
@@ -72,9 +72,9 @@ Financial Services 2019-26
 
 but a UCITS scheme may hold ancillary liquid assets.
 
-3.  An open-ended investment company may acquire movable or immovable property which is essential for the direct pursuit of its business.
+2019-26 Financial Services
 
-Financial Services 2019-26
+3.  An open-ended investment company may acquire movable or immovable property which is essential for the direct pursuit of its business.
 
 Interpretation
 
@@ -108,9 +108,9 @@ Transferable securities.
 
 (ii) in the case of other securities referred to in paragraph 2 or 3, in the form of a valuation on a periodic basis which is derived from information from the issuer of the instrument or from competent investment research;
 
-(d) appropriate information is available for them–
+Financial Services 2019-26
 
-2019-26 Financial Services
+(d) appropriate information is available for them–
 
 (i) in the case of securities within paragraph 1(a) to (d), in the form of regular, accurate and comprehensive information to the market in question on the security or, where relevant, on the portfolio of the security;
 
@@ -138,9 +138,9 @@ Transferable securities.
 
 (ii) the closed-ended funds are subject to corporate governance mechanisms applied to companies; and
 
-(iii) where asset management activity is carried out by another entity on behalf of the closed-ended fund, that entity is itself regulated for the purpose of investor protection;
+2019-26 Financial Services
 
-Financial Services 2019-26
+(iii) where asset management activity is carried out by another entity on behalf of the closed-ended fund, that entity is itself regulated for the purpose of investor protection;
 
 (b) units in closed-ended funds constituted under the law of contract which meet the following criteria–
 
@@ -172,11 +172,11 @@ Instruments normally dealt in on the money market.
 
 10.  The reference in paragraph 8 to money market instruments as instruments “normally dealt in on the money market” is to be understood as a reference to financial instruments which meet one of the following criteria–
 
+Financial Services 2019-26
+
 (a) they have a maturity at issuance of up to and including 397 days;
 
 (b) they have a residual maturity of up to and including 397 days;
-
-2019-26 Financial Services
 
 (c) they undergo regular yield adjustments in line with money market conditions at least every 397 days; or
 
@@ -204,9 +204,9 @@ Liquid financial assets with respect to financial derivative instruments.
 
 12.(1)  The reference to “liquid financial assets” in section 292(1)(a) is to be understood with respect to financial derivative instruments as a reference to financial derivative instruments which meet the following criteria–
 
-(a) their underlyings consist of one or more of the following—
+2019-26 Financial Services
 
-Financial Services 2019-26
+(a) their underlyings consist of one or more of the following—
 
 (i) assets as listed in paragraph 1, including financial instruments having one or several characteristics of those assets;
 
@@ -238,11 +238,9 @@ Financial Services 2019-26
 
 (2)  For the purposes of paragraph 1(g)(iii), the reference to fair value is to be understood as a reference to the amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm’s length transaction.
 
-(3)  For the purposes of paragraph 1(g)(iii), the reference to reliable and verifiable valuation is to be understood as a reference to a valuation, by the UCITS scheme, corresponding to the
+Financial Services 2019-26
 
-2019-26 Financial Services
-
-fair value as referred to in sub-paragraph (2), which does not rely only on market quotations by the counterparty and which meets the following criteria–
+(3)  For the purposes of paragraph 1(g)(iii), the reference to reliable and verifiable valuation is to be understood as a reference to a valuation, by the UCITS scheme, corresponding to the fair value as referred to in sub-paragraph (2), which does not rely only on market quotations by the counterparty and which meets the following criteria–
 
 (a) the basis for the valuation is either a reliable up-to-date market value of the instrument, or, if such a value is not available, a pricing model using an adequate recognised methodology;
 
@@ -268,9 +266,9 @@ Financial indices
 
 (i) the index measures the performance of a representative group of underlying assets in a relevant and appropriate way;
 
-(ii) the index is revised or rebalanced periodically to ensure that it continues to reflect the markets to which it refers following criteria which are publicly available;
+2019-26 Financial Services
 
-Financial Services 2019-26
+(ii) the index is revised or rebalanced periodically to ensure that it continues to reflect the markets to which it refers following criteria which are publicly available;
 
 (iii) the underlying assets are sufficiently liquid, which allows users to replicate the index, if necessary;
 
@@ -292,11 +290,13 @@ Instruments whose issue or issuer is regulated for the purpose of protecting inv
 
 (c) the instruments are freely transferable.
 
-(2)  Where money market instruments are covered by paragraph 1(h)(ii) and (iv) or are issued by a local or regional authority of an EEA State or by a public international body but not guaranteed by an EEA State or, in the case of a federal State which is an EEA State, by one of the members making up the federation, the “appropriate information” referred to in sub- paragraph (1)(b) is–
+(2)  Where money market instruments are covered by paragraph 1(h)(ii) and (iv) or are issued by a local or regional authority of an EEA State or by a public international body but not guaranteed by an EEA State or, in the case of a federal State which is an EEA State, by
+
+Financial Services 2019-26
+
+one of the members making up the federation, the “appropriate information” referred to in sub-paragraph (1)(b) is–
 
 (a) information on both the issue or the issuance programme and the legal and financial situation of the issuer prior to the issue of the money market instrument;
-
-2019-26 Financial Services
 
 (b) updates of the information referred to in paragraph (a) on a regular basis and whenever a significant event occurs;
 
@@ -324,11 +324,11 @@ Money market instruments: prudential rules.
 
 (a) it is located in the European Economic Area;
 
+2019-26 Financial Services
+
 (b) it is located in an OECD country belonging to the Group of Ten;
 
 (c) it has at least investment grade rating;
-
-Financial Services 2019-26
 
 (d) it can be demonstrated on the basis of an in-depth analysis of the issuer that the prudential rules applicable to that issuer are at least as stringent as those laid down by European Union law.
 
@@ -340,4 +340,4 @@ Securitisation vehicles which benefit from a banking liquidity line.
 
 (b) the reference to “banking liquidity lines” is to be understood as a reference to banking facilities secured by a financial institution which itself complies with paragraph 1(h)(iii).
 
-2019-26 Financial Services
+Financial Services 2019-26

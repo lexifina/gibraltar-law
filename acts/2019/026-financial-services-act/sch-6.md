@@ -30,9 +30,9 @@ Membership.
 
 (9)  The Minister, having consulted the GFSC, may re-appoint as a member a person who is (or has been) a member.
 
-(10)  A GFSC member or employee is not eligible to be appointed as a member of the DMC.
-
 Financial Services 2019-26
+
+(10)  A GFSC member or employee is not eligible to be appointed as a member of the DMC.
 
 Term of office of members
 
@@ -66,9 +66,11 @@ Procedure and meetings.
 
 (4)  The DMC must record any decision, including the reasons for the decisions, in writing.
 
-(5)  If at any time, as a result of members being unable to act due to conflicts of interest or otherwise unavailable, there are insufficient members available to discharge the DMC’s functions (whether generally or in relation to a particular matter), the Minister may, after consulting with the GFSC, appoint temporary members for a specified period or to make decisions in respect of a particular matter.
+(5)  If at any time, as a result of members being unable to act due to conflicts of interest or otherwise unavailable, there are insufficient members available to discharge the DMC’s functions (whether generally or in relation to a particular matter), the Minister may, after
 
 2019-26 Financial Services
+
+consulting with the GFSC, appoint temporary members for a specified period or to make decisions in respect of a particular matter.
 
 (6)  If, after the Minister has appointed temporary members under sub-paragraph (5), there are insufficient members available who may decide a matter before the DMC, the Minister may make appointments under paragraph 1(4) or may direct that the decision is to be taken by the members of the GFSC.
 
@@ -96,9 +98,9 @@ General powers.
 
 6.  The DMC may do anything which is calculated to facilitate, or is conducive or incidental to, the discharge of any function conferred on the DMC by or under this Act.
 
-Immunity.
-
 Financial Services 2019-26
+
+Immunity.
 
 7.(1)  Any person who is a member of the DMC is not liable in damages for anything done or omitted in the discharge or purported discharge of any powers or functions conferred on the DMC by this Act.
 

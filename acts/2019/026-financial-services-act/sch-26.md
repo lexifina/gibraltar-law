@@ -36,7 +36,7 @@ GFSC’s powers.
 
 (iii) require direct access to traders’ systems;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (d) carry out on-site inspections and investigations other than at premises used wholly or mainly as a dwelling;
 
@@ -70,9 +70,9 @@ GFSC’s powers.
 
 (4)  This paragraph applies without limiting the GFSC’s powers under any other provision of this Act or any enactment which confers supervisory functions on the GFSC.
 
-(5)  The Minister may, by Regulations, make further provision in respect of the GFSC’s powers under this paragraph.
+2019-26 Financial Services
 
-Financial Services 2019-26
+(5)  The Minister may, by Regulations, make further provision in respect of the GFSC’s powers under this paragraph.
 
 Sanctions for certain contraventions.
 
@@ -108,9 +108,9 @@ Prohibition order.
 
 (a) must specify a period during which it has effect; and
 
-(b) in the case of an order made under sub-paragraph (1)(a) or (b), may specify an indefinite period in respect of repeated contraventions of Article 14 or 15 of EUMAR.
+Financial Services 2019-26
 
-2019-26 Financial Services
+(b) in the case of an order made under sub-paragraph (1)(a) or (b), may specify an indefinite period in respect of repeated contraventions of Article 14 or 15 of EUMAR.
 
 Suspension of permission.
 
@@ -146,9 +146,9 @@ Administrative penalties.
 
 (ii) Article 16 or 17 of EUMAR, EUR 1,000,000; or
 
-(iii) Article 18, 19 or 20 of EUMAR, EUR 500,000.
+2019-26 Financial Services
 
-Financial Services 2019-26
+(iii) Article 18, 19 or 20 of EUMAR, EUR 500,000.
 
 (2)  A penalty under sub-paragraph (1)(b) or (c) may be imposed as an equivalent amount expressed in Sterling, based on the exchange rate as at 2 July 2014.
 
@@ -176,9 +176,9 @@ Exercise of powers.
 
 (a) following an obligatory prior assessment, it considers that it would be disproportionate to publish the identity of the person, or personal data of an individual or details of a sanctioning action from which such person could be identified; or
 
-(b) it considers that publication would jeopardise the stability of financial markets or an ongoing investigation.
+Financial Services 2019-26
 
-2019-26 Financial Services
+(b) it considers that publication would jeopardise the stability of financial markets or an ongoing investigation.
 
 (7)  Those steps are–
 
@@ -210,14 +210,12 @@ Reporting of contraventions.
 
 (6)  An employee of a regulated firm who reports a contravention in accordance with arrangements established under sub-paragraph (1) or (5)–
 
-(a) is not to be considered to be in breach of any restriction on disclosure of information imposed by contract or by any enactment and any provision in an
+2019-26 Financial Services
 
-Financial Services 2019-26
-
-agreement is void in so far as it purports to preclude an employee from reporting a contravention; and
+(a) is not to be considered to be in breach of any restriction on disclosure of information imposed by contract or by any enactment and any provision in an agreement is void in so far as it purports to preclude an employee from reporting a contravention; and
 
 (b) has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his or her employer done on the ground that the employee has reported a contravention.
 
 (7)  An employee who has been subjected to a detriment contrary to sub-paragraph (6)(b) may present a complaint to the Employment Tribunal as if the reporting of a contravention was a protected disclosure within the meaning of Part IVA of the Employment Act.
 
-2019-26 Financial Services
+Financial Services 2019-26

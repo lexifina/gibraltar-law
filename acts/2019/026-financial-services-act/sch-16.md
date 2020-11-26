@@ -36,9 +36,9 @@ Additional roles
 
 (a) the person (“P”);
 
-(b) a parent undertaking of P;
+2019-26 Financial Services
 
-Financial Services 2019-26
+(b) a parent undertaking of P;
 
 (c) a subsidiary undertaking of P;
 
@@ -46,4 +46,4 @@ Financial Services 2019-26
 
 (e) a parent undertaking of a subsidiary undertaking of P.
 
-2019-26 Financial Services
+Financial Services 2019-26

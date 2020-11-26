@@ -36,7 +36,7 @@ Certain employee share schemes
 
 4.  Arrangements do not amount to a collective investment scheme where–
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (a) each of the participants is a bona fide employee or former employee (or the wife, husband, civil partner, widow, widower, former civil partner, child or step-child under the age of eighteen of such an employee or former employee) of the operator or of a body corporate in the same group as the operator;
 
@@ -70,7 +70,7 @@ Schemes relating to the use of property
 
 (b) the property to which the arrangements relate does not consist of the currency of any country or territory and does not consist of or include any of the items listed in section 5(2) in relation to which  a regulated activity is carried on.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 Debt issues
 
@@ -100,7 +100,7 @@ Debt issues
 
 (3)  In sub-paragraph (2), “swap arrangement” means an arrangement the purpose of which is to facilitate the making of payments to participants whether in a particular amount or currency or at a particular time or rate of interest or all or any combination of those things, being an arrangement under which the counterparty–
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (a) is entitled to receive amounts (whether representing principal or interest) payable in respect of any property subject to the arrangements or sums determined by reference to such amounts; and
 
@@ -136,7 +136,7 @@ Common accounts
 
 11.  Arrangements do not amount to a collective investment scheme if–
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (a) they are arrangements under which the rights or interests of participants are rights to or interests in money held in a common account;
 
@@ -162,4 +162,4 @@ Friendly societies
 
 14.  A society registered under the Friendly Societies Act does not amount to a collective investment scheme.
 
-2019-26 Financial Services
+Financial Services 2019-26

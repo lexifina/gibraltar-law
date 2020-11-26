@@ -6,7 +6,7 @@ INVESTORS TO WHOM PART 16 DOES NOT APPLY
 
 2.  Local and municipal authorities.
 
-3.  The following persons, but only in relation to the participating firms referred to in each sub- paragraph below–
+3.  The following persons, but only in relation to the participating firms referred to in each sub-paragraph below–
 
 (a) directors, managers and personally liable members of a participating firm;
 
@@ -32,4 +32,4 @@ INVESTORS TO WHOM PART 16 DOES NOT APPLY
 
 7.  Investors who have any responsibility for or have taken advantage of certain facts relating to a participating firm which gave rise to the firm’s financial difficulties or contributed to the deterioration of its financial situation.
 
-Financial Services 2019-26
+2019-26 Financial Services

@@ -30,7 +30,7 @@ Investment firms
 
 Chief Investment Officer Head of Risk Management
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 Regulated market
 
@@ -56,4 +56,4 @@ Part 3 Regulated Functions: Incoming EEA Firms with Branch in Gibraltar
 
 Branch manager Money Laundering Reporting Officer
 
-Financial Services 2019-26
+2019-26 Financial Services

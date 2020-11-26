@@ -70,6 +70,10 @@ Immunity.
 
 (3)  Sub-paragraphs (1) and (2) do not apply to an act or omission which is shown to be in bad faith.
 
-(4)  The FSRCC must (unless bad faith is definitely found to have existed) indemnify any of its existing and former members, officers or employees for the costs of defending any action brought by a third party in respect of anything they are alleged to have done or omitted in the discharge or purported discharge of any powers or functions conferred on the FSRCC by this Act.
+(4)  The FSRCC must (unless bad faith is definitely found to have existed) indemnify any of its existing and former members, officers or employees for the costs of defending any action brought by a third party in respect of anything they are alleged to have done or
 
 2019-26 Financial Services
+
+omitted in the discharge or purported discharge of any powers or functions conferred on the FSRCC by this Act.
+
+Financial Services 2019-26
