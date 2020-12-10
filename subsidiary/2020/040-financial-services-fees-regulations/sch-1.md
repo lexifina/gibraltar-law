@@ -42,11 +42,11 @@ Passporting Fee An additional fee, charged at a rate of £113 per jurisdiction f
 
 An additional fee, charged at a rate of £3,368 per jurisdiction for passporting on an establishment basis, subject to a maximum of £16,840.
 
-Internal Capital Model Fee An additional fee of £5,614 for the monitoring of a full, partial or group internal capital model, where an
+Internal Capital Model Fee An additional fee of £5,614 for the monitoring of a full, partial or group internal capital model, where an internal capital model has been approved in
 
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-internal capital model has been approved in respect of the regulated person.
+respect of the regulated person.
 
 Open market insurance companies (life) (insurers and reinsurers, including those structured as PCCs)
 
@@ -72,9 +72,11 @@ GTL Fee An additional fee based on the GTL–
 
 £0 ≤ GTL ≤ £10,000,000 - additional charge at a rate of £94 per £1,000,000 or part thereof of GTL
 
+£10,000,001 ≤ GTL ≤ £25,000,000 - additional charge at a rate of £87 per £1,000,000 or part
+
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
-£10,000,001 ≤ GTL ≤ £25,000,000 - additional charge at a rate of £87 per £1,000,000 or part thereof of GTL
+thereof of GTL
 
 £25,000,001 ≤ GTL ≤ £100,000,000 - additional charge at a rate of £79 per £1,000,000 or part thereof of GTL
 
@@ -92,11 +94,9 @@ Internal Capital Model Fee An additional fee of £5,614 for the monitoring of a 
 
 Credit institutions £ 22,451 Base Fee + Customer Fee + Fund Depositary Fee + Passporting Fee + E-Money Fee + Mortgage Credit Fee
 
-Base Fee
+Base Fee A flat fee of £22,451.
 
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
-
-A flat fee of £22,451.
 
 Customer Fee An additional charge, based on Amounts Due To Customers (ADC)–
 
@@ -122,9 +122,9 @@ Fund Depositary Fee An additional fee for CIS Depositaries–
 
 Note: Where a regulated person acts as a CIS Depositary for more than one type of asset, they must pay the relevant fee for each asset type.
 
-2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
-
 Note: The fee for holding AIF assets is only payable by an AIF Depositary.
+
+2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
 Passporting Fee An additional fee, charged at a rate of £113 per jurisdiction for passporting on a services basis, subject to a maximum of £565.
 
@@ -150,9 +150,9 @@ Mortgage Credit Fee An additional fee of–
 
 (a) a flat fee based on the mortgage book– £0 < mortgage book ≤ £50,000,000 – a flat fee of £2,245
 
-Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
-
 £50,000,001 ≤ mortgage book ≤ £100,000,000 - a flat fee of £4,491
+
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
 £100,000,001 ≤ mortgage book ≤ £250,000,000 – a flat fee of £6,735
 
@@ -180,9 +180,11 @@ AEO ≥ £20,000,001 – a flat fee of £39,290.
 
 Note: AEO is calculated on the basis of the supervisory returns submitted to the GFSC.
 
+Passporting Fee
+
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
-Passporting Fee An additional fee, charged at a rate of £113 per jurisdiction for passporting on a services basis, subject to a maximum of £565.
+An additional fee, charged at a rate of £113 per jurisdiction for passporting on a services basis, subject to a maximum of £565.
 
 An additional fee, charged at a rate of £1,123 per jurisdiction for passporting on an establishment basis, subject to a maximum of £5,615.
 
@@ -266,11 +268,9 @@ Base Fee A flat fee of £73,414.
 
 Market operator (trading) £ 73,414 Base Fee + Additional Fee for trading activity
 
-Base Fee
-
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-A flat fee of £73,414
+Base Fee A flat fee of £73,414
 
 Additional Fee A flat fee of £16,389.
 
@@ -286,15 +286,17 @@ Regulated person Base Fee Method of Calculating Annual Fees Experienced Investor
 
 Base Fee A flat fee of £1,683.
 
-Additional Fee An additional fee (not applicable to the first sub-fund or Cell), charged at a rate of £561 per additional sub- fund or Cell.
+Additional Fee An additional fee (not applicable to the first sub- fund or Cell), charged at a rate of £561 per additional sub-fund or Cell.
 
 European Long- Term Investment Funds £ 1,683 Base Fee + Additional Fee 1 + Additional Fee 2
 
 Base Fee A flat fee of £1,683.
 
-Additional Fee 1 A flat rate of £786.
+Additional Fee 1
 
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
+
+A flat rate of £786.
 
 Additional Fee 2 An additional fee (not applicable to the first sub- fund), charged at a rate of £561 per additional sub- fund.
 
@@ -314,9 +316,11 @@ Base Fee A flat fee of £1,683.
 
 Additional Fee A flat fee of £3,928.
 
-Sub-fund Fee Where a scheme is an umbrella fund, the annual fee payable for each constituent sub-fund or part (however described), with the exception of the first sub-fund or part, is 25% of the fees payable by the umbrella fund.
+Sub-fund Fee Where a scheme is an umbrella fund, the annual fee payable for each constituent sub-fund or part (however described), with the exception of the first sub-fund or part, is 25% of the fees payable by the
 
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
+
+umbrella fund.
 
 Fee Block A4.
 
@@ -334,9 +338,11 @@ Customer Fee An additional charge, based on ADC.
 
 £600,000,001 ≤ ADC ≤ £900,000,000 – additional charge at a rate of £20 per £1,000,000 or part thereof of ADC
 
-ADC ≥ £900,000,001 – additional charge at a rate of £14.50 per £1,000,000 or part thereof of ADC.
+ADC ≥ £900,000,001 – additional charge at a rate
 
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
+
+of £14.50 per £1,000,000 or part thereof of ADC.
 
 Note: ADC is calculated as– Current Deposits + Other Deposits + Deposits from financial institutions which are not credit institutions.
 
@@ -428,9 +434,9 @@ Additional Fee An additional fee based on insurers under management–
 
 Captive insurers, including those set up as a PCC £ 7,858 Base Fee + Cell Fee + (GPI Fee + GTL Fee + Passporting Fee) + Internal Capital Model Fee
 
-Base Fee A flat fee of £7,858.
-
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
+
+Base Fee A flat fee of £7,858.
 
 Cell Fee An additional fee, charged at a rate of £2,245 per Cell.
 
@@ -478,11 +484,11 @@ GTL ≥ £250,000,001 – additional charge at a rate of £10 per £1,000,000 or
 
 Note: in respect of GTL, where the GFSC has reason to believe that the technical provisions have not been booked at actuarial best estimate, or that they do not fully comply with relevant accounting standards, it may adjust the reported figure for the purposes of the fee calculation.
 
-Passporting Fee
+Passporting Fee An additional fee, charged at a rate of £113 per jurisdiction for passporting on a services basis,
 
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-An additional fee, charged at a rate of £113 per jurisdiction for passporting on a services basis, subject to a maximum of £565.
+subject to a maximum of £565.
 
 An additional fee, charged at a rate of £1,123 per jurisdiction for passporting on an establishment basis, subject to a maximum of £5,615.
 
@@ -502,11 +508,9 @@ Payment services institutions £ 7,858 Base Fee + Additional Fee 1 + Additional 
 
 Base Fee A flat fee of £7,858.
 
-Additional Fee 1
+Additional Fee 1 An additional fee, based on Part 7 permission type–
 
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
-
-An additional fee, based on Part 7 permission type–
 
 Class A payment institution (authorised) – a flat fee of £7,858
 
@@ -536,9 +540,11 @@ Turnover ≥ £20,000,001 – a flat fee of £28,074.
 
 Additional Fee 3 An additional fee, charged at a rate of £224 per agent.
 
+Passporting Fee
+
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-Passporting Fee An additional fee, charged at a rate of £113 per jurisdiction for passporting on a services basis, subject to a maximum of £565.
+An additional fee, charged at a rate of £113 per jurisdiction for passporting on a services basis, subject to a maximum of £565.
 
 An additional fee, charged at a rate of £1,123 per jurisdiction for passporting on an establishment basis, subject to a maximum of £5,615.
 
@@ -566,9 +572,11 @@ Additional Fee 2 An additional fee based on AUM–
 
 AUM ≥ £750,000,001 – a flat fee of £6,735.
 
+Transaction Fee A fee payable by MiFID firms at a rate of 3p per
+
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
-Transaction Fee A fee payable by MiFID firms at a rate of 3p per transaction, up to a maximum of £50,000.
+transaction, up to a maximum of £50,000.
 
 Passporting Fee An additional fee, charged at a rate of £113 per jurisdiction for passporting on a services basis, subject to a maximum of £565.
 
@@ -594,9 +602,9 @@ Additional Fee 2 An additional fee based on turnover–
 
 £1,000,001 ≤ turnover ≤ £4,000,000 – a flat fee of £2,245
 
-Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
-
 £4,000,001 ≤ turnover ≤ £10,000,000 – a flat fee of £4,491
+
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
 Turnover ≥ £10,000,001 – a flat fee of £6,735.
 
@@ -624,9 +632,11 @@ Base Fee A flat fee of £7,858.
 
 Additional Fee A flat fee of £2,752.
 
+Note: for Pension advisers with a Part 7 permission as an insurance intermediary, a discount of £6,054 is
+
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
-Note: for Pension advisers with a Part 7 permission as an insurance intermediary, a discount of £6,054 is to be deducted from the Base Fee.
+to be deducted from the Base Fee.
 
 UCITS management company £ 7,858 Base Fee + Additional Fee + Passporting Fee
 
@@ -650,9 +660,11 @@ AIFMs (In-scope) £ 7,858 Base Fee + Additional Fee 1 + Additional Fee 2 + Passp
 
 Base Fee A flat fee of £7,858.
 
+Additional Fee 1
+
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-Additional Fee 1 Additional fee charged at a flat rate based on AUM–
+Additional fee charged at a flat rate based on AUM–
 
 Self-Managed AIF–
 
@@ -684,9 +696,11 @@ Note: The services passporting fee applies to both–
 
 (b) an AIFM passporting the funds that it manages into other jurisdictions.
 
+An additional fee, charged at a rate of £1,123 per jurisdiction for passporting on an establishment
+
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
-An additional fee, charged at a rate of £1,123 per jurisdiction for passporting on an establishment basis, subject to a maximum of £5,615.
+basis, subject to a maximum of £5,615.
 
 Small AIFMs
 
@@ -744,9 +758,11 @@ Base Fee A flat fee of £7,858.
 
 Fee Block C1.
 
+Regulated Base Fee Method of Calculating Annual Fees
+
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
-Regulated person Base Fee Method of Calculating Annual Fees Audit firms and statutory auditors £ 1,683 Base Fee + PIE Fee + Individual Statutory Auditor Fee + Additional Fee
+person Audit firms and statutory auditors £ 1,683 Base Fee + PIE Fee + Individual Statutory Auditor Fee + Additional Fee
 
 Base Fee A flat fee of £1,683.
 
@@ -770,11 +786,9 @@ Bureaux de change £ 1,683 Base Fee + Additional Fee
 
 Base Fee A flat fee of £1,683.
 
-Additional Fee
-
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-A flat fee of £2,245.
+Additional Fee A flat fee of £2,245.
 
 Fee Block C2.
 
