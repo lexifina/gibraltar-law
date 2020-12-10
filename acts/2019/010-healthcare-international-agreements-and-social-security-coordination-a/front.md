@@ -4,6 +4,8 @@ Principal Act
 
 Act. No. 2019-10 Commencement (except Part 3) 9.5.2019
 
+LN.2020/441 - Part 3 10.12.2020
+
 Assent 8.5.2019
 
 _______________________________
