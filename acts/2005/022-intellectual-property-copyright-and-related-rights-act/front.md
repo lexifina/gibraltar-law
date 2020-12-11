@@ -18,7 +18,9 @@ Act. 2006-21 ss. 61(3), 62(4), 63(2) & 65(2), Part IV (ss.254-269), Schs. 2, 4 &
 
 1.11.2013 Act.   2014-04 s. 187 27.2.2014 LN.  2014/173 ss. 54A, 93A, 215, Schs. 1A & 5 29.10.2014 2016/107 s. 137(2)(a), (b) 12.5.2016 Act. 2017-10 ss. 39A-39F, 91(1) 13.6.2018 LN. 2018/286 ss. 39A(1)-(3), (5),  39B(1)-(9A), (12), (13), 39C(3)-(9), 39F(3), (7), (9), (9A), (12), 132(5), 189(1), 197A, 274(1), (9), (9A)
 
-20.12.2018
+20.12.2018 Act.2020-14 ss. 23(2), (3)(a)-(b), 38, (1), (1A), (2), (5), 39A(2), 39B(2), 39D(3), 39F(3), 88(1)(b)-(c), (3)
+
+11.12.2020
 
 Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU Directive 2012/28/EU Directive 2014/26/EU Directive 2017/1564/EU
 
@@ -72,7 +74,7 @@ Introductory
 
 General
 
-36. Making of temporary copies. 37. Research and private study. 38. Criticism, review and news reporting. 39. Incidental inclusion of copyright material.
+36. Making of temporary copies. 37. Research and private study. 38. Criticism, review, quotation and news reporting. 39. Incidental inclusion of copyright material.
 
 Visual impairment
 

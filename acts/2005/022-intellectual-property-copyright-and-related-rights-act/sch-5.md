@@ -10,7 +10,9 @@ Intellectual Property (Copyright and Related Rights)
 
 2005-22 Savings and Transitional Provisions of the Intellectual Property (Copyright and Related Rights) Act 2005 (Amendment) Regulations 2013 [LN. 2013/153]
 
-Regulation PART II SAVINGS AND TRANSITIONAL PROVISIONS
+Regulation
+
+PART II SAVINGS AND TRANSITIONAL PROVISIONS
 
 3. Introductory. 4. Copyright: interpretation. 5. Duration of copyright: general saving. 6. Duration of copyright: application of new provisions. 7. Extended and revived copyright. 8. Ownership of extended copyright. 9. Ownership of revived copyright in works of co-authorship. 10. Prospective ownership of extended or revived copyright. 11. Extended copyright: existing licenses, agreements, etc. 12. Revived copyright: exercise of moral rights. 13. Revived copyright: saving for acts of exploitation when work in public domain, etc. 14. Rights in performance: interpretation. 15. Rights in performance: application in new provisions. 16. Extended performance rights. 17. Entitlement to extended performance rights and new rights. 18. Extended performance rights: existing consents, agreements etc.
 
@@ -30,7 +32,9 @@ Introductory.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 Copyright: interpretation.
+2005-22
+
+Copyright: interpretation.
 
 4.(1)  In the provisions of this Part relating to copyright–
 
@@ -62,7 +66,9 @@ Extended and revived copyright.
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 7. In the following provisions of this Part–
+2005-22
+
+7. In the following provisions of this Part–
 
 “extended copyright” means any copyright which subsists by virtue of the new provisions after the date on which it would have expired under the 2005 provisions; and
 
@@ -84,11 +90,11 @@ Ownership of revived copyright in works of co-authorship.
 
 Prospective ownership of extended or revived copyright.
 
-10.(1)  Where by an agreement made before commencement in relation to extended or revived copyright, and signed by or on behalf of the prospective owner of the copyright, the prospective owner purports to assign the extended or revived copyright (wholly or partially) to another person, then if, on commencement the assignee or another person claiming under the
+10.(1)  Where by an agreement made before commencement in relation to extended or revived copyright, and signed by or on behalf of the prospective owner of the copyright, the prospective owner purports to assign the extended or revived copyright (wholly or partially) to another person, then
 
 Intellectual Property (Copyright and Related Rights)
 
-2005-22 assignee would be entitled as against all other persons to require the copyright to be vested in him or her, the copyright shall vest in the assignee or his or her successor in title by virtue of this regulation.
+2005-22 if, on commencement the assignee or another person claiming under the assignee would be entitled as against all other persons to require the copyright to be vested in him or her, the copyright shall vest in the assignee or his or her successor in title by virtue of this regulation.
 
 (2)  A licence granted by a prospective owner of extended or revived copyright is binding on every successor in title to the prospective owner’s interest (or prospective interest) in the right, except a purchaser in good faith for valuable consideration and without notice (actual or constructive) of the licence or a person deriving title from such a purchaser and references in Part I of the Act to do anything with, or without, the licence or the copyright owner shall be construed accordingly.
 
