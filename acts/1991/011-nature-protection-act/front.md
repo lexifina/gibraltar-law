@@ -36,11 +36,9 @@ Nature Protection
 
 12.12.20132 LN. 2017/089 Sch. 1 4.5.2017 2018/075 Sch. 10 1.4.2018 Act. 2018-16 ss. 11(1), (1A), (2)(a), 18(1)(b), (c), Sch. 2 & 3
 
-2.8.2018 LN. 2018/251 Sch. 1 & 3 8.11.2018 2019/007 Sch. 1 17.01.2019 2019/084 ss. 17Q(1)-(4), 17R(1)-(7) 11.4.2019 2019/091 Sch. 10 11.4.2019 Act. 2019-13 s. 24(f)-(g) 10.6.2019 LN. 2019/153 Sch. 1 1.8.2019 Act. 2018-19 ss. 17J(4)(b), 17N(4)(b), 17BB(2) 26.9.2019 LN. 2019/200 Sch. 10 3.10.2019 2020/058 ss. 12(5), 12A(5) 31.1.2020 2020/108 Sch. 10 1.4.2020 2020/248 Sch. 3 2.7.2020
+2.8.2018 LN. 2018/251 Sch. 1 & 3 8.11.2018 2019/007 Sch. 1 17.01.2019 2019/084 ss. 17Q(1)-(4), 17R(1)-(7) 11.4.2019 2019/091 Sch. 10 11.4.2019 Act. 2019-13 s. 24(f)-(g) 10.6.2019 LN. 2019/153 Sch. 1 1.8.2019 Act. 2018-19 ss. 17J(4)(b), 17N(4)(b), 17BB(2) 26.9.2019 LN. 2019/200 Sch. 10 3.10.2019 2020/058 ss. 12(5), 12A(5) 31.1.2020 2020/108 Sch. 10 1.4.2020 2020/248 Sch. 3 2.7.2020 Act. 2020-12 Long Title, ss. 2(1), 2A, 2B(1)-(3), (4)(aa), (6), 5(1)(e), (ea), 7A(4), 8ZA, 8(1), (4)(a)-(c), (5)(a), (aa), 9(1)-(2), 10(1)(ea), 11ZA, 11, (1B), (2A), (3), 13(1)(i), (2)(f), 17E(1)(e), 18ZB, 18(1)(aa), (ba), (2A)-(2B), (3)(a), 24, (fa), (2), Sch. 1
 
-Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC Directive 2013/17/EU
-
-Implementing: Regulation (EU) No 1143/2014
+11.12.2020
 
 1 The provisions of Schedule 10 of the Nature Protection Act inserted by this amendment supersede all other arrangements relating to admission fees to the Upper Rock Nature Reserve and fees collected under such other arrangements shall be deemed to have been duly collected under this Act.
 
@@ -48,15 +46,23 @@ Implementing: Regulation (EU) No 1143/2014
 
 Nature Protection
 
+1991-11 Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC Directive 2013/17/EU
+
+Implementing: Regulation (EU) No 1143/2014
+
+Nature Protection
+
 1991-11 ARRANGEMENT OF SECTIONS.
 
 PART I. PRELIMINARY.
 
-Section 1. Short Title. 2. Interpretation and application.
+Section
+
+1. Short Title. 2. Interpretation and application.
 
 PART II. PROTECTION OF WILD BIRDS, WILD ANIMALS AND WILD PLANTS.
 
-2A. Disapplication. 2B. Assessment and protection of wild bird species. 2C. Directions. 3. Protection of wild birds, their nests and eggs. 4. Exceptions to section 3. 5. Prohibition of certain methods of hunting, killing, injuring or taking wild birds. 6. Sale etc of wild or dead wild birds, eggs etc. 7. Protection of captive birds. 7A. Special conservation measures. 8. Protection of certain wild animals. 9. Exceptions to section 8. 10. Prohibition on certain methods of killing or taking wild animals. 11. Protection of wild plants. 12. Introduction of new species of animals or plants. 12A. Introduction of new species of birds. 13. Power to grant licences. 13A. Implementation reports. 14. False statements 15. Attempts to commit offences. 16. Enforcement. 17. Penalties, forfeitures etc.
+2A. Deleted. 2B. Assessment and protection of wild bird species. 2C. Directions. 3. Protection of wild birds, their nests and eggs. 4. Exceptions to section 3. 5. Prohibition of certain methods of hunting, killing, injuring or taking wild birds. 6. Sale etc of wild or dead wild birds, eggs etc. 7. Protection of captive birds. 7A. Special conservation measures. 8ZA. Assessment and protection of all wild animal species. 8. Protection of certain wild animals. 9. Exceptions to section 8. 10. Prohibition on certain methods of killing or taking wild animals. 11ZA.  Assessment and protection of all wild plant species. 11. Protection of wild plants. 12. Introduction of new species of animals or plants. 12A. Introduction of new species of birds. 13. Power to grant licences. 13A. Implementation reports. 14. False statements 15. Attempts to commit offences. 16. Enforcement. 17. Penalties, forfeitures etc.
 
 PART IIA DESIGNATION OF SITES, ETC.
 
@@ -64,11 +70,9 @@ PART IIA DESIGNATION OF SITES, ETC.
 
 Designation of sites under the Habitats Directive
 
-17B. Selection of sites eligible for identification as of Community importance.
-
 Nature Protection
 
-1991-11 17C. Adoption of list of sites: designation of special areas of conservation. 17D. Consultation as to inclusion of site omitted from the list.
+1991-11 17B. Selection of sites eligible for identification as of Community importance. 17C. Adoption of list of sites: designation of special areas of conservation. 17D. Consultation as to inclusion of site omitted from the list.
 
 Designation of sites under the Wild Birds Directive
 
@@ -88,11 +92,11 @@ Protection of animals
 
 Protection of plants
 
-17X. Protection of certain wild plants.
-
 Nature Protection
 
 1991-11
+
+17X. Protection of certain wild plants.
 
 Trade in wild birds of European Origin
 
@@ -112,11 +116,11 @@ PART IIB APPROPRIATE ASSESSMENTS FOR LAND USE PLANS
 
 PART III. NATURE CONSERVATION.
 
-18ZA.  Protection of habitats from pollution or deterioration. 18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Scientific Authorities. 21. Wildlife Warden. 21A. Promotion of research etc. 22. Offences by bodies corporate etc. 23. Amendment to Schedules. 24. Regulations. 24A. Fees for entry into a nature conservation area. 24B. Fees for entry into tourist sites within a nature conservation area. 24C. Fees (Miscellaneous). 24D. Terms and conditions of entry. 24E. Offences. 24F. Exclusion Orders. 25. Amendment to Animals and Birds Act.
+18ZA.  Protection of habitats from pollution or deterioration. 18ZB. Conservation of wild animals and plants from pollution or deterioration. 18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Scientific Authorities. 21. Wildlife Warden. 21A. Promotion of research etc. 22. Offences by bodies corporate etc. 23. Amendment to Schedules. 24. Regulations. 24A. Fees for entry into a nature conservation area. 24B. Fees for entry into tourist sites within a nature conservation area. 24C. Fees (Miscellaneous).
 
 Nature Protection
 
-1991-11
+1991-11 24D. Terms and conditions of entry. 24E. Offences. 24F. Exclusion Orders. 25. Amendment to Animals and Birds Act.
 
 SCHEDULE 1 – SPECIFIED WILD ANIMALS.
 
@@ -140,4 +144,4 @@ SCHEDULE 10 −  ADMISSION FEES
 
 Nature Protection
 
-1991-11 AN ACT  TO  PROVIDE FOR THE PROTECTION OF WILD BIRDS, ANIMALS AND PLANTS AND FOR THE DESIGNATION AND PRESERVATION OF PROTECTED AREAS FOR THE PURPOSE OF NATURE CONSERVATION AND MATTERS INCIDENTAL THERETO.
+1991-11 AN ACT TO PROVIDE FOR THE TERRESTRIAL AND MARINE PROTECTION OF WILD BIRDS, ANIMALS AND PLANTS, DESIGNATION AND PRESERVATION OF PROTECTED AREAS FOR THE PURPOSE OF NATURE CONSERVATION, PROVIDE FOR THE IMPLEMENTATION OF ANY INTERNATIONAL OBLIGATION AND MATTERS INCIDENTAL THERETO.
