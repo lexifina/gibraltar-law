@@ -38,9 +38,7 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
-
-2.1.3. The road:
+Subsidiary [1958.03.06] 2.1.3. The road:
 
 - the most important principles concerning the observance of a safe distance between vehicles, braking distances and road holding under various weather and road conditions,
 
@@ -74,9 +72,7 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
-
-2.1.9. Rules regarding vehicle use in relation to the environment (appropriate use of audible warning devices, moderate fuel consumption, limitation of pollutant emissions, etc.).
+Subsidiary [1958.03.06] 2.1.9. Rules regarding vehicle use in relation to the environment (appropriate use of audible warning devices, moderate fuel consumption, limitation of pollutant emissions, etc.).
 
 3. Specific provisions concerning categories A1, A2 and A
 
@@ -94,7 +90,7 @@ Subsidiary [1958.03.06]
 
 4.1. Compulsory check of general knowledge on:
 
-4.1.1. Rules on driving hours and rest periods as defined by Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport (8); use of the recording equipment as defined by Regulation (EEC) No 3821/85 on recording equipment in road transport;
+4.1.1. Rules on driving hours and rest periods as defined by Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport; use of the recording equipment as defined by Regulation (EU) No 165/2014;
 
 4.1.2. Rules concerning the type of transport concerned: goods or passengers;
 
@@ -102,15 +98,13 @@ Subsidiary [1958.03.06]
 
 4.1.4. How to behave in the event of an accident; knowledge of measures to be taken after an accident or similar occurrence, including emergency action such as evacuation of passengers and basic knowledge of first aid;
 
-4.1.5. The precautions to be taken during the removal and replacement of wheels;
+4.1.5. The precautions to be taken during the removal and replacement of wheels; 4.1.6. Rules on vehicle weights and dimensions; rules on speed limiters;
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 4.1.6. Rules on vehicle weights and dimensions; rules on speed limiters;
-
-4.1.7. Obstruction of the field of view caused by the characteristics of their vehicles;
+Subsidiary [1958.03.06] 4.1.7. Obstruction of the field of view caused by the characteristics of their vehicles;
 
 4.1.8. Reading a road map, route planning, including the use of electronic navigation systems (optional);
 
@@ -118,7 +112,7 @@ Subsidiary [1958.03.06] 4.1.6. Rules on vehicle weights and dimensions; rules on
 
 4.1.10. The driver's responsibility in respect to the carriage of passengers; comfort and safety of passengers; transport of children; necessary checks before driving away; all sorts of buses should be part of the theory test (public service buses and coaches, buses with special dimensions,   ) (categories D, DE, D1, D1E only).
 
-4.1a. The Government may exempt applicants to a licence for a category C1 or C1E vehicle outside the scope of Regulation (EEC) No 3821/85 from demonstrating their knowledge of the subjects listed in points 4.1.1 to 4.1.3.
+4.1a. The Government may exempt applicants to a licence for a category C1 or C1E vehicle outside the scope of Regulation (EU) No 165/2014 from demonstrating their knowledge of the subjects listed in points 4.1.1 to 4.1.3.
 
 4.2. Compulsory check of general knowledge on the following additional provisions concerning categories C, CE, D and DE:
 
@@ -134,13 +128,13 @@ Subsidiary [1958.03.06] 4.1.6. Rules on vehicle weights and dimensions; rules on
 
 4.2.6. Methods of locating causes of breakdowns;
 
+4.2.7. Preventive maintenance of vehicles and necessary running repairs;
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 4.2.7. Preventive maintenance of vehicles and necessary running repairs;
-
-4.2.8. The driver’s responsibility in respect of the receipt, carriage and delivery of goods in accordance with the agreed conditions (categories C, CE only).
+Subsidiary [1958.03.06] 4.2.8. The driver’s responsibility in respect of the receipt, carriage and delivery of goods in accordance with the agreed conditions (categories C, CE only).
 
 B. TEST OF SKILLS AND BEHAVIOUR
 
@@ -152,25 +146,19 @@ The driving of a vehicle with manual transmission shall be subject to the passin
 
 “Vehicle with manual transmission” means a vehicle in which a clutch pedal (or lever operated manually for categories A, A2 and A1) is present and must be operated by the driver when starting or stopping the vehicle and changing gears. 5.1.2. Vehicles that do not meet the criteria laid down in point 5.1.1 shall be considered to have automatic transmission.
 
-Without prejudice to point 5.1.3, if an applicant takes the test of skills and behaviour on a vehicle with automatic transmission this shall be recorded on any licence issued on the basis of such a test. Licences with this indication shall be used only for driving vehicles with automatic transmission.
-
-5.1.3.
+Without prejudice to point 5.1.3, if an applicant takes the test of skills and behaviour on a vehicle with automatic transmission this shall be recorded on any licence issued on the basis of such a test. Licences with this indication shall be used only for driving vehicles with automatic transmission. 5.1.3.
 
 Specific provisions concerning vehicles of category C, CE, D and DE
 
-The Government may decide that no restriction to vehicles with automatic transmission shall be recorded on the driving licence for a category C, CE, D or DE vehicle referred to in point 5.1.2, when the applicant already holds a driving licence obtained on a vehicle with manual transmission in at least one of the following categories: B, BE, C, CE, C1, C1E, D, DE, D1 or D1E, and has performed the actions described in point 8.4 during the test of skills and behaviour.
+The Government may decide that no restriction to vehicles with automatic transmission shall be recorded on the driving licence for a category C, CE, D or DE vehicle referred to in point 5.1.2, when the applicant already holds a driving licence obtained on a vehicle with manual transmission in at least one of the following categories: B, BE, C, CE, C1, C1E, D, DE, D1 or D1E, and has performed the actions described in point 8.4 during the test of skills and behaviour. 5.2. The vehicles used in tests of skills and behaviour shall comply with the minimum criteria given below.  The Government may make provisions for more stringent criteria or add others.  The Licensing Authority may apply to vehicles of category A1, A2 and A, used in the test of skills and behaviour, a tolerance of 5 cm3 below the required minimum cylinder capacity.
 
-5.2. The vehicles used in tests of skills and behaviour shall comply with the minimum criteria given below.  The Government may make provisions for more stringent criteria or add others.  The Licensing Authority may apply to vehicles of category A1, A2 and A, used in the test of skills and behaviour, a tolerance of 5 cm3 below the required minimum cylinder capacity.
+Category A1:
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
-
-Category A1:
-
-Category A1 motorcycle without sidecar, with a power rating not exceeding 11 kW and with a power to weight ratio not exceeding 0,1 kW/kg, and capable of a speed of at least 90 km/h.
+Subsidiary [1958.03.06] Category A1 motorcycle without sidecar, with a power rating not exceeding 11 kW and with a power to weight ratio not exceeding 0,1 kW/kg, and capable of a speed of at least 90 km/h.
 
 If the motorcycle is powered by an internal combustion engine, the cylinder capacity of the engine shall be at least 120 cm3.
 
@@ -198,15 +186,15 @@ Category B:
 
 A four-wheeled category B vehicle capable of a speed of at least 100 km/h;
 
+Category BE:
+
+A combination, made up of a category B test vehicle and a trailer with a maximum authorised mass of at least 1 000 kg, capable of a speed of at least
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
-
-Category BE:
-
-A combination, made up of a category B test vehicle and a trailer with a maximum authorised mass of at least 1 000 kg, capable of a speed of at least 100 km/h, which does not fall within category B; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the motor vehicle; the closed box body may also be slightly less wide than the motor vehicle provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
+Subsidiary [1958.03.06] 100 km/h, which does not fall within category B; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the motor vehicle; the closed box body may also be slightly less wide than the motor vehicle provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
 
 Category B1:
 
@@ -214,29 +202,27 @@ A motor-powered quadricycle capable of a speed of at least 60 km/h;
 
 Category C:
 
-A category C vehicle with a maximum authorised mass of at least 12 000 kg, a length of at least 8 m, a width of at least 2,40 m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes, equipped with a transmission system providing for a manual selection of gears by the driver and recording equipment as defined by Regulation (EEC) No 3821/85; the cargo compartment shall consist of a closed box body which is at least as wide and as high as the cab; the vehicle shall be presented with a minimum of 10 000 kg real total mass;
+A category C vehicle with a maximum authorised mass of at least 12 000 kg, a length of at least 8 m, a width of at least 2,40 m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes, equipped with a transmission system providing for a manual selection of gears by the driver and recording equipment as defined by Regulation (EU) No 165/2014; the cargo compartment shall consist of a closed box body which is at least as wide and as high as the cab; the vehicle shall be presented with a minimum of 10 000 kg real total mass;
 
 Category CE:
 
-Either an articulated vehicle or a combination of a category C test vehicle and a trailer of at least 7,5 m in length; both the articulated vehicle and the combination shall have a maximum authorised mass of at least 20 000 kg, a length of at least 14 m and a width of at least 2,40 m, shall be capable of a speed of at least 80 km/h, fitted with anti-lock brakes, equipped with a transmission system providing for a manual selection of gears by the driver and with recording equipment as defined by Regulation (EEC) No 3821/85; the cargo compartment shall consist of a closed box body which is at least as wide and as high as the cab; both the articulated vehicle and the combination shall be presented with a minimum of 15 000 kg real total mass;
+Either an articulated vehicle or a combination of a category C test vehicle and a trailer of at least 7,5 m in length; both the articulated vehicle and the combination shall have a maximum authorised mass of at least 20 000 kg, a length of at least 14 m and a width of at least 2,40 m, shall be capable of a speed of at least 80 km/h, fitted with anti-lock brakes, equipped with a transmission system providing for a manual selection of gears by the driver and with recording equipment as defined by Regulation (EU) No 165/2014; the cargo compartment shall consist of a closed box body which is at least as wide and as high as the cab; both the articulated vehicle and the combination shall be presented with a minimum of 15 000 kg real total mass;
 
 Category C1:
 
-A subcategory C1 vehicle with a maximum authorised mass of at least 4 000 kg, with a length of at least 5 m and capable of a speed of at least 80 km/h;
+A subcategory C1 vehicle with a maximum authorised mass of at least 4 000 kg, with a length of at least 5 m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes and equipped with recording equipment as defined by Regulation (EU) No 165/2014; the cargo compartment shall consist of a closed box body which is at least as wide and as high as the cab;
+
+Category C1E:
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] fitted with anti-lock brakes and equipped with recording equipment as defined by Regulation (EEC) No 3821/85; the cargo compartment shall consist of a closed box body which is at least as wide and as high as the cab;
-
-Category C1E:
-
-A combination made up of a subcategory C1 test vehicle and a trailer with a maximum authorised mass of at least 1 250 kg; this combination shall be at least 8 m in length and capable of a speed of at least 80 km/h; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the cab; the closed box body may also be slightly less wide than the cab provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
+Subsidiary [1958.03.06] A combination made up of a subcategory C1 test vehicle and a trailer with a maximum authorised mass of at least 1 250 kg; this combination shall be at least 8 m in length and capable of a speed of at least 80 km/h; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the cab; the closed box body may also be slightly less wide than the cab provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
 
 Category D:
 
-A category D vehicle with a length of at least 10 m, a width of at least 2,40 m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes and equipped with recording equipment as defined by Regulation (EEC) No 3821/85;
+A category D vehicle with a length of at least 10 m, a width of at least 2,40 m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes and equipped with recording equipment as defined by Regulation (EU) No 165/2014;
 
 Category DE:
 
@@ -244,21 +230,21 @@ A combination made up of a category D test vehicle and a trailer with a maximum 
 
 Category D1:
 
-A subcategory D1 vehicle with a maximum authorised mass of at least 4 000 kg, with a length of at least 5 m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes and equipped with recording equipment as defined by Regulation (EEC) No 3821/85;
+A subcategory D1 vehicle with a maximum authorised mass of at least 4 000 kg, with a length of at least 5 m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes and equipped with recording equipment as defined by Regulation (EU) No 165/2014;
 
 Category D1E:
 
 A combination made up of a subcategory D1 test vehicle and a trailer with a maximum authorised mass of at least 1 250 kg and capable of a speed of at least 80 km/h; the cargo compartment of the trailer shall consist of a closed box body which is at least 2 m wide and 2 m high; the trailer shall be presented with a minimum of 800 kg real total mass;
+
+Testing vehicles for categories BE, C, CE, C1, C1E, D, DE, D1 and D1E which are not in conformity with the minimum criteria given above but which were in use on or before 19 January 2007, may still be used for a period not exceeding ten years after that date.
+
+6. Skills and behaviour to be tested concerning categories A1, A2 and A
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
 Subsidiary [1958.03.06]
-
-Testing vehicles for categories BE, C, CE, C1, C1E, D, DE, D1 and D1E which are not in conformity with the minimum criteria given above but which were in use on or before 19 January 2007, may still be used for a period not exceeding ten years after that date.
-
-6. Skills and behaviour to be tested concerning categories A1, A2 and A
 
 6.1. Preparation and technical check of the vehicle with a bearing on road safety
 
@@ -280,15 +266,17 @@ Applicants must demonstrate that they are capable of preparing to ride safely by
 
 6.2.5. Braking: at least two braking exercises shall be executed, including an emergency brake at a minimum speed of 50 km/h; this should allow competence to be assessed in handling of the front and rear brake, vision direction and the position on the motorcycle.
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] The special manoeuvres mentioned under points 6.2.3 to 6.2.5 have to be implemented at the latest five years after entry into force of Directive 2000/56/EC.
+The special manoeuvres mentioned under points 6.2.3 to 6.2.5 have to be implemented at the latest five years after entry into force of Directive 2000/56/EC.
 
 6.3. Behaviour in traffic
 
 Applicants must perform all the following actions in normal traffic situations, in complete safety and taking all necessary precautions: 6.3.1. Riding away: after parking, after a stop in traffic; exiting a driveway;
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 6.3.2. Riding on straight roads; passing oncoming vehicles, including in confined spaces;
 
@@ -318,17 +306,15 @@ Applicants must demonstrate that they are capable of preparing to drive safely b
 
 7.1.3. Checking that the doors are closed;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 7.1.4. Performing a random check on the condition of the tyres, steering, brakes, fluids (e.g. engine oil, coolant, washer fluid), lights, reflectors, direction indicators and audible warning device;
 
 7.1.5. Checking the safety factors relating to vehicle loading: body, sheets, cargo doors, cabin locking, way of loading, securing load (category BE only);
 
-7.1.6. Checking the coupling mechanism and the brake and electrical connections (category BE only). 7.2. Categories B and B1: special manoeuvres to be tested with a bearing on road safety
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] 7.1.6. Checking the coupling mechanism and the brake and electrical connections (category BE only). 7.2. Categories B and B1: special manoeuvres to be tested with a bearing on road safety
 
 A selection of the following manoeuvres shall be tested (at least two manoeuvres for the four points, including one in reverse gear):
 
@@ -352,12 +338,6 @@ A selection of the following manoeuvres shall be tested (at least two manoeuvres
 
 Applicants must perform all the following actions in normal traffic situations, in complete safety and taking all necessary precautions:
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 7.4.1. Driving away: after parking, after a stop in traffic; exiting a driveway;
 
 7.4.2. Driving on straight roads; passing oncoming vehicles, including in confined spaces;
@@ -366,7 +346,11 @@ Subsidiary [1958.03.06]
 
 7.4.4. Crossroads: approaching and crossing of intersections and junctions;
 
-7.4.5. Changing direction: left and right turns; changing lanes;
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] 7.4.5. Changing direction: left and right turns; changing lanes;
 
 7.4.6. Approach/exit of motorways or similar (if available): joining from the acceleration lane; leaving on the deceleration lane;
 
@@ -388,19 +372,17 @@ Applicants must demonstrate that they are capable of preparing to drive safely b
 
 8.1.3. Random checks on the condition of the tyres, steering, brakes, lights, reflectors, direction indicators and audible warning device;
 
-8.1.4. Checking the power-assisted braking and steering systems; checking the condition of the wheels, wheel-nuts, mudguards, windscreen, windows and wipers, fluids (e.g. engine oil, coolant, washer fluid); checking and using the instrument panel including the recording equipment as defined in
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] Regulation (EEC) No 3821/85. This latter requirement does not apply to the applicants for a driving licence for a category C1 or C1E vehicle not falling within the scope of that Regulation;
+8.1.4. Checking the power-assisted braking and steering systems; checking the condition of the wheels, wheel-nuts, mudguards, windscreen, windows and wipers, fluids (e.g. engine oil, coolant, washer fluid); checking and using the instrument panel including the recording equipment as defined in Regulation (EU) No 165/2014. This latter requirement does not apply to the applicants for a driving licence for a category C1 or C1E vehicle not falling within the scope of that Regulation;
 
 8.1.5. Checking the air pressure, air tanks and the suspension;
 
 8.1.6. Checking the safety factors relating to vehicle loading: body, sheets, cargo doors, loading mechanism (if available), cabin locking (if available), way of loading, securing load (categories C, CE, C1, C1E only);
 
-8.1.7. Checking the coupling mechanism and the brake and electrical connections (categories CE, C1E, DE, D1E only);
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] 8.1.7. Checking the coupling mechanism and the brake and electrical connections (categories CE, C1E, DE, D1E only);
 
 8.1.8. Being capable of taking special vehicle safety measures; controlling the body, service doors, emergency exits, first aid equipment, fire extinguishers and other safety equipment (categories D, DE, D1, D1E only);
 
@@ -424,12 +406,6 @@ Applicants must perform all the following actions in normal traffic situations, 
 
 8.3.2. Driving on straight roads; passing oncoming vehicles, including in confined spaces;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 8.3.3. Driving round bends;
 
 8.3.4. Crossroads: approaching and crossing of intersections and junctions;
@@ -438,7 +414,11 @@ Subsidiary [1958.03.06]
 
 8.3.6. Approach/exit of motorways or similar (if available): joining from the acceleration lane; leaving on the deceleration lane;
 
-8.3.7. Overtaking/passing: overtaking other traffic (if possible); driving alongside obstacles, e.g. parked cars; being overtaken by other traffic (if appropriate);
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] 8.3.7. Overtaking/passing: overtaking other traffic (if possible); driving alongside obstacles, e.g. parked cars; being overtaken by other traffic (if appropriate);
 
 8.3.8. Special road features (if available): roundabouts; railway level crossings; tram/bus stops; pedestrian crossings; riding up-/downhill on long slopes; tunnels;
 
@@ -454,15 +434,15 @@ Subsidiary [1958.03.06]
 
 Driving examiners must be trained to assess correctly the applicants’ ability to drive safely. The work of driving examiners must be monitored and supervised, by a body authorised by the EEA State, to ensure correct and consistent application of fault assessment in accordance with the standards laid down in this Schedule.
 
+9.2. During their assessment, driving examiners shall pay special attention to whether an applicant is showing a defensive and social driving behaviour. This should reflect the overall style of driving and the driving examiner should take this into account in the overall picture of the applicant. It includes adapted and determined (safe) driving, taking into account road and weather conditions, taking into account other traffic, taking into account the interests of other road users (particularly the more vulnerable) and anticipation.
+
+9.3. The driving examiner will furthermore assess whether the applicant is:
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 9.2. During their assessment, driving examiners shall pay special attention to whether an applicant is showing a defensive and social driving behaviour. This should reflect the overall style of driving and the driving examiner should take this into account in the overall picture of the applicant. It includes adapted and determined (safe) driving, taking into account road and weather conditions, taking into account other traffic, taking into account the interests of other road users (particularly the more vulnerable) and anticipation.
-
-9.3. The driving examiner will furthermore assess whether the applicant is:
-
-9.3.1. Controlling the vehicle; taking into account: proper use of safety belts, rear-view mirrors, head restraints; seat; proper use of lights and other equipment; proper use of clutch, gearbox, accelerator, braking systems (including third braking system, if available), steering; controlling the vehicle under different circumstances, at different speeds; steadiness on the road; the weight and dimensions and characteristics of the vehicle; the weight and type of load (categories BE, C, CE, C1, C1E, DE, D1E only); the comfort of the passengers (categories D, DE, D1, D1E only) (no fast acceleration, smoothly driving and no hard braking);
+Subsidiary [1958.03.06] 9.3.1. Controlling the vehicle; taking into account: proper use of safety belts, rear-view mirrors, head restraints; seat; proper use of lights and other equipment; proper use of clutch, gearbox, accelerator, braking systems (including third braking system, if available), steering; controlling the vehicle under different circumstances, at different speeds; steadiness on the road; the weight and dimensions and characteristics of the vehicle; the weight and type of load (categories BE, C, CE, C1, C1E, DE, D1E only); the comfort of the passengers (categories D, DE, D1, D1E only) (no fast acceleration, smoothly driving and no hard braking);
 
 9.3.2. Driving economically and in a safe and energy-efficient way, taking into account the revolutions per minute, changing gears, braking and accelerating (categories B, BE, C, CE, C1, C1E, D, DE, D1, D1E only);
 
@@ -476,15 +456,17 @@ Subsidiary [1958.03.06] 9.2. During their assessment, driving examiners shall pa
 
 9.3.7. Speed: not exceeding the maximum allowed speed; adapting speed to weather/traffic conditions and where appropriate up to national speed limits; driving at such a speed that stopping within distance of the visible and free road is possible; adapting speed to general speed of same kind of road users;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 9.3.8. Traffic lights, road signs and other indications: acting correctly at traffic lights; obeying instructions from traffic controllers; acting correctly at road signs (prohibitions or commands); take appropriate action at road markings;
+9.3.8. Traffic lights, road signs and other indications: acting correctly at traffic lights; obeying instructions from traffic controllers; acting correctly at road signs (prohibitions or commands); take appropriate action at road markings;
 
 9.3.9. Signalling: give signals where necessary, correctly and properly timed; indicating directions correctly; taking appropriate action with regard to all signals made by other road users;
 
 9.3.10. Braking and stopping: decelerating in time, braking or stopping according to circumstances; anticipation; using the various braking systems (only for categories C, CE, D, DE); using speed reduction systems other than the brakes (only for categories C, CE, D, DE).
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 10. Length of the test
 
@@ -498,11 +480,7 @@ II. KNOWLEDGE, SKILL AND BEHAVIOUR FOR DRIVING A POWER-DRIVEN VEHICLE
 
 Drivers of all power-driven vehicles must at any moment have the knowledge, skills and behaviour described under points 1 to 9, with a view to be able to:
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] - Recognise traffic dangers and assess their seriousness,
+- Recognise traffic dangers and assess their seriousness,
 
 - Have sufficient command of their vehicle not to create dangerous situations and to react appropriately should such situations occur,
 
@@ -511,6 +489,12 @@ Subsidiary [1958.03.06] - Recognise traffic dangers and assess their seriousness
 - Detect any major technical faults in their vehicles, in particular those posing a safety hazard, and have them remedied in an appropriate fashion,
 
 - Take account of all the factors affecting driving behaviour (e.g. alcohol, fatigue, poor eyesight, etc.) so as to retain full use of the faculties needed to drive safely,
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 - Help ensure the safety of all road users, and in particular of the weakest and most exposed by showing due respect for others.
 
@@ -548,11 +532,13 @@ The overall security lies in the system in its entirety, consisting of the appli
 
 - a security background pattern designed to be resistant to counterfeit by scanning, printing or copying, using rainbow printing with multicolour security inks and positive and negative guilloche printing. The pattern shall not be composed of the primary colours (CMYK), shall contain complex pattern designs in a minimum of two special colours and shall include micro lettering,
 
+- optical variable elements providing adequate protection against copying and tampering of the photograph,
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] - optical variable elements providing adequate protection against copying and tampering of the photograph,
+Subsidiary [1958.03.06]
 
 - laser engraving,
 
@@ -588,13 +574,13 @@ Page 1 shall contain:
 
 (b)  the name of the EEA State issuing the licence (optional);
 
+(c)  the distinguishing sign of the EEA State issuing the licence, printed in negative in a blue rectangle and encircled by twelve yellow stars; the distinguishing signs shall be as follows:
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] (c)  the distinguishing sign of the EEA State issuing the licence, printed in negative in a blue rectangle and encircled by twelve yellow stars; the distinguishing signs shall be as follows:
-
-B : Belgium
+Subsidiary [1958.03.06] B : Belgium
 
 BG: Bulgaria
 
@@ -636,17 +622,15 @@ A : Austria
 
 PL : Poland
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 P : Portugal
 
 SLO : Slovenia
 
-SK : Slovakia
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] SK : Slovakia
 
 FIN : Finland
 
@@ -680,19 +664,17 @@ UK : The United Kingdom;
 
 9. category of vehicle(s) the holder is entitled to drive (national categories shall be printed in a different type from harmonised categories);
 
-(e) the words “European Union model” in the language(s) of the EEA State issuing the licence and the words “Driving Licence”
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] in the other languages of the Community, printed in pink to form the background of the licence:
+(e) the words “European Union model” in the language(s) of the EEA State issuing the licence and the words “Driving Licence” in the other languages of the Community, printed in pink to form the background of the licence:
 
 Свидетелство за управление на МПС
 
 Permiso de Conducción
 
-Řidičský průkaz
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] Řidičský průkaz
 
 Kørekort
 
@@ -730,11 +712,7 @@ Vodičský preukaz
 
 Vozniško dovoljenje
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] Ajokortti
+Ajokortti
 
 Körkort;
 
@@ -742,7 +720,11 @@ Körkort;
 
 - blue: Pantone Reflex Blue,
 
-- yellow: Pantone Yellow.
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] - yellow: Pantone Yellow.
 
 Page 2 shall contain:
 
@@ -772,12 +754,6 @@ DRIVER (medical reasons)
 
 01.07. Specific optical aid
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 02. Hearing aid/communication aid
 
 03. Prosthesis/orthosis for the limbs
@@ -786,7 +762,11 @@ Subsidiary [1958.03.06]
 
 03.02. Lower limb prosthesis/orthosis
 
-VEHICLE ADAPTATIONS
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] VEHICLE ADAPTATIONS
 
 10. Modified transmission
 
@@ -822,12 +802,6 @@ VEHICLE ADAPTATIONS
 
 20.12. Measure to prevent obstruction or actuation of brake pedal
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 20.13. Knee operated brake
 
 20.14. Brake system operation supported by external force
@@ -837,6 +811,12 @@ Subsidiary [1958.03.06]
 25.01. Adapted accelerator pedal
 
 25.03. Tilted accelerator pedal
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 25.04. Hand operated accelerator
 
@@ -868,12 +848,6 @@ Subsidiary [1958.03.06]
 
 33.01. Accelerator, service brake and steering as combined system operation by external force with one hand
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 33.02. Accelerator, service brake and steering as combined system operation by external force with two hands
 
 35. Modified control layouts (lights switches, windscreen wiper/washer, horn, direction indicators, etc.)
@@ -881,6 +855,12 @@ Subsidiary [1958.03.06]
 35.02. Control devices operable without releasing the steering device
 
 35.03. Control devices operable without releasing the steering device with the left hand
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 35.04. Control devices operable without releasing the steering device with the right hand
 
@@ -912,12 +892,6 @@ Subsidiary [1958.03.06]
 
 43. Driver seating position
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 43.01. Driver seat height for normal view and in normal distance from the steering wheel and the pedals
 
 43.02. Driver seat adapted to body shape
@@ -927,6 +901,12 @@ Subsidiary [1958.03.06]
 43.04. Driver seat with armrest
 
 43.06. Seat belt adaptation
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 43.07. Seat belt type with support for good stability
 
@@ -956,11 +936,7 @@ Subsidiary [1958.03.06]
 
 47. Restricted to vehicles of more than two wheels not requiring balance by the driver for starting, stopping and standing
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 50. Restricted to a specific vehicle/chassis number (vehicle identification number, VIN)
+50. Restricted to a specific vehicle/chassis number (vehicle identification number, VIN)
 
 Letters used in combination with codes 01 to 44 for further specification:
 
@@ -971,6 +947,12 @@ b right
 c hand
 
 d foot
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 e middle
 
@@ -1000,12 +982,6 @@ LIMITED USE CODES
 
 ADMINISTRATIVE MATTERS
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 70. Exchange of licence No … issued by … (EU/UN distinguishing sign in the case of a third country; for example “70.0123456789.NL”)
 
 71. Duplicate of licence No … (EU/UN distinguishing sign in the case of a third country; for example “71.987654321.HR”)
@@ -1015,6 +991,12 @@ Subsidiary [1958.03.06]
 78. Restricted to vehicles with automatic transmission
 
 79. (…) Restricted to vehicles which comply with the specifications indicated in brackets, for the application of Article 13 of this Directive
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 79.01. Restricted to two-wheel vehicles with or without side-car
 
@@ -1036,13 +1018,7 @@ Subsidiary [1958.03.06]
 
 96. Category B vehicles combined with a trailer with a maximum authorised mass exceeding 750 kg where the maximum authorised mass of such combination exceeds 3 500 kg but does not exceed 4 250 kg
 
-97. Not authorised to drive a category C1 vehicle which falls within the scope of Council Regulation (EEC) No 3821/85
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
+97. Not authorised to drive a category C1 vehicle which falls within the scope of Council Regulation (EU) No 165/2014
 
 — codes 100 and above: national codes valid only for driving in the territory of the Member State which issued the licence.
 
@@ -1052,7 +1028,13 @@ Where a code applies to all categories for which the licence is issued, it may b
 
 13. in implementation of section 4(a) of this Schedule, a space reserved for the possible entry by the host EEA State of information essential for administering the licence;
 
-14. a space reserved for the possible entry by the EEA State which issues the licence of information essential for administering the licence or related to road safety (optional). If the information relates to one of the headings defined in this Schedule, it should be preceded by the number of the heading in question.
+14. a space reserved for the possible entry by the EEA State which issues the licence of information essential for administering the licence or related
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06] to road safety (optional). If the information relates to one of the headings defined in this Schedule, it should be preceded by the number of the heading in question.
 
 With the specific written agreement of the holder, information which is not related to the administration of the driving licence or road safety may also be added in this space; such addition shall not alter in any way the use of the model as a driving licence;
 
@@ -1064,13 +1046,7 @@ If an EEA State wishes to make the entries in a national language other than one
 
 4. Special provisions
 
-(a)  Where the holder of a driving licence issued by an EEA State in accordance with this Schedule has his normal place of residence in another EEA State, that EEA State may enter in
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] the licence such information as is essential for administering it, provided that it also enters this type of information in the licences which it issues and provided that there remains enough space for the purpose.
+(a)  Where the holder of a driving licence issued by an EEA State in accordance with this Schedule has his normal place of residence in another EEA State, that EEA State may enter in the licence such information as is essential for administering it, provided that it also enters this type of information in the licences which it issues and provided that there remains enough space for the purpose.
 
 (b)  After consulting the Commission, EEA States may add colours or markings, such as bar codes and national symbols, without prejudice to the other provisions of this Schedule.
 
@@ -1122,9 +1098,7 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
-
-(c)  shall return the permit to the holder.
+Subsidiary [1958.03.06] (c)  shall return the permit to the holder.
 
 (3)  A person who fails to produce a driving permit in compliance with this paragraph is guilty of an offence under the Act.
 
@@ -1148,13 +1122,13 @@ Regulations 95(1)
 
 DESCRIPTION OF INTERNATIONAL DRIVING PERMITS.
 
-A - The form for an international driving permit set out in Annex 10 of the Convention of 1949 as issued in the United Kingdom.
+A - The form for an international driving permit set out in Annex 10 of the Convention of 1949.
 
-B - The form for an international driving permit set out in Annex E of the Convention of 1926 as issued in the United Kingdom.
+B - The form for an international driving permit set out in Annex E of the Convention of 1926.
 
-C - The form of international certificate for motor vehicles set out in Annex B of the Convention of 1926 as issued in the United Kingdom.
+C - The form of an international certificate for motor vehicles set out in Annex B of the Convention of 1926.
 
-D - The form of international certificate for motor vehicles set out in Annex 7 of the Convention of 1968 as issued in the United Kingdom.
+D - The form of an international driving permit set out in Annex 7 of the Convention of 1968.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 

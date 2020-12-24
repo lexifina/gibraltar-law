@@ -34,11 +34,13 @@ MINIMUM STANDARDS FOR PERSONS WHO CONDUCT PRACTICAL DRIVING TESTS
 
 - accurate determination of cause and likely effect of such situations,
 
+- achievement of competence and recognition of errors,
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] - achievement of competence and recognition of errors,
+Subsidiary [1958.03.06]
 
 - uniformity and consistency in assessment,
 
@@ -78,15 +80,17 @@ Subsidiary [1958.03.06] - achievement of competence and recognition of errors,
 
 (a) must have held a category B licence for at least 3 years;
 
+(b) must be at least 23 years old;
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] (b) must be at least 23 years old;
+Subsidiary [1958.03.06]
 
 (c) must have successfully completed the initial qualification provided for in point 3 of this Schedule and subsequently followed the quality assurance and the periodic training arrangements as provided for in point 4 of this Schedule;
 
-(d) must have terminated a vocational education that leads at least to a completion of level 3 as defined by Council Decision 85/368/EEC of 16 July 1985 on the comparability of vocational training qualifications between the EEA States of the European Community;
+(d) must have terminated a vocational education that leads at least to a completion of level 3 as defined by Council Decision 85/368/EEC of 16 July 1985 on the comparability of vocational training qualifications between the Member States of the European Community;
 
 (e) may not be active as a commercial driving instructor in a driving school simultaneously.
 
@@ -108,13 +112,13 @@ Subsidiary [1958.03.06] (b) must be at least 23 years old;
 
 2.3.3. EEA States may authorise an examiner to conduct driving tests for categories BE, C1E, CE, D1E and DE upon passing the initial qualification prescribed in point 3 for one of these categories.
 
+3. Initial qualification
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 3. Initial qualification
-
-3.1. Initial training
+Subsidiary [1958.03.06] 3.1. Initial training
 
 3.1.1. Before a person may be authorised to conduct driving tests, that person must satisfactorily complete such training programme as an EEA State may specify in order to have the competences set out in point 1.
 
@@ -136,11 +140,13 @@ Subsidiary [1958.03.06] 3. Initial qualification
 
 4.1.3. EEA States must provide that each examiner is subject to yearly supervision making use of quality assurance arrangements listed in point
 
+4.1.2. Moreover, the EEA States must provide that each examiner is observed conducting tests once every 5 years, for a minimum period cumulatively of at least half a day, allowing the observation of several tests. When issues are identified corrective action should be put in place. The
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 4.1.2. Moreover, the EEA States must provide that each examiner is observed conducting tests once every 5 years, for a minimum period cumulatively of at least half a day, allowing the observation of several tests. When issues are identified corrective action should be put in place. The person undertaking the supervision must be a person authorised by the EEA State for that purpose.
+Subsidiary [1958.03.06] person undertaking the supervision must be a person authorised by the EEA State for that purpose.
 
 4.1.4 EEA States may provide that where an examiner is authorised to conduct driving tests in more than one category, satisfying the supervision requirement in relation to tests for one category satisfies the requirement for more than one category.
 
@@ -164,17 +170,17 @@ Subsidiary [1958.03.06] 4.1.2. Moreover, the EEA States must provide that each e
 
 4.2.2. EEA States shall take the appropriate measures for ensuring that specific training is given promptly to those examiners that have found to be seriously malfunctioning by the quality assurance system in place.
 
-4.2.3. The nature of periodic training may take the form of briefing, classroom training, conventional or electronic-based learning, and it may be
+4.2.3. The nature of periodic training may take the form of briefing, classroom training, conventional or electronic-based learning, and it may be undertaken on an individual or group basis. It may include such re- accreditation of standards as EEA States consider appropriate.
+
+4.2.4. EEA States may provide that where an examiner is authorised to conduct driving tests in more than one category, satisfying the periodic training requirement in relation to tests for one category satisfies the
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] undertaken on an individual or group basis. It may include such re- accreditation of standards as EEA States consider appropriate.
+Subsidiary [1958.03.06] requirement for more than one category, provided the condition set out in point 4.2.5 is satisfied.
 
-4.2.4. EEA States may provide that where an examiner is authorised to conduct driving tests in more than one category, satisfying the periodic training requirement in relation to tests for one category satisfies the requirement for more than one category, provided the condition set out in point 4.2.5 is satisfied.
-
-4.2.5. Where an examiner has not conducted tests for a category within a 24- month period, the examiner shall undertake a suitable reassessment before being allowed to carry out driving tests relating to that category. That re- assessment may be undertaken as part of the requirement set out in point 4.2.1.
+4.2.5. Where an examiner has not conducted tests for a category within a 24-month period, the examiner shall undertake a suitable reassessment before being allowed to carry out driving tests relating to that category. That re-assessment may be undertaken as part of the requirement set out in point 4.2.1.
 
 5. Acquired rights
 
