@@ -92,7 +92,7 @@ Social Security (Employment Injuries Insurance)
 
 28.11.2013 2014-10 ss. 2, 3(2)(iv), 18(1)(a)-(b), 19(1), (2)(a)-(b), (3), 20(b), 21(2), 22(1), 27(3)
 
-28.3.2014 2017-13 ss. 5(1A), (4), 6(2)(a) 1.7.2015 LN. 2017/0571 Sch.1 1.4.2017 Act. 2017-10 s. 15(2)(a) 13.6.2018
+28.3.2014 2017-13 ss. 5(1A), (4), 6(2)(a) 1.7.2015 LN. 2017/0571 Sch.1 1.4.2017 Act. 2017-10 s. 15(2)(a) 13.6.2018 LN. 2020/535 s. 54(1), (3) 24.12.2020
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
