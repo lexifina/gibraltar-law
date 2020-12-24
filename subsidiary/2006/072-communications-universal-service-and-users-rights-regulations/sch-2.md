@@ -16,12 +16,6 @@ The calculation is to be based upon the costs attributable to–
 
 This category may include service elements such as access to emergency telephone services, provision of certain public pay telephones, provision of certain services or equipment for disabled people, etc;
 
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/072
-
 (ii) specific end-users or groups of end-users who, taking into account the cost of providing the specified network and service, the revenue generated and any geographical averaging of prices imposed by the Authority, can only be served at a loss or under cost conditions falling outside normal commercial standards.
 
 This category includes those end-users or groups of end-users who would not be served by a person who did not have an obligation to provide universal service.
@@ -30,22 +24,10 @@ The calculation of the net cost of specific aspects of universal service obligat
 
 Part B : Principles applicable to a sharing mechanism in accordance with regulation 12 (7).
 
-The recovery or financing of any net costs of universal service obligations requires designated universal service providers to be compensated for the services they provide under non-commercial conditions. Since such a compensation involves financial transfers, the Authority must ensure that these are undertaken in an objective, transparent, non-discriminatory and proportionate manner. This means that the transfers result in the least distortion to competition and to user demand.
+The recovery or financing of any net costs of universal service obligations requires designated universal service providers to be compensated for the services they provide under non- commercial conditions. Since such a compensation involves financial transfers, the Authority must ensure that these are undertaken in an objective, transparent, non-discriminatory and proportionate manner. This means that the transfers result in the least distortion to competition and to user demand.
 
-In accordance with Article 13(3) of the Universal Service Directive, a sharing mechanism based on a fund should use a transparent and neutral means for collecting contributions that avoids the danger of a double imposition of contributions falling on both outputs and inputs of persons.
+In accordance with Article 90(3) of the Directive, a sharing mechanism based on a fund should use a transparent and neutral means for collecting contributions that avoids the danger of a double imposition of contributions falling on both outputs and inputs of persons.
 
 The independent person administering the fund is to be responsible for collecting contributions from those who are assessed as liable to contribute to the net cost of universal service obligations in Gibraltar and is to oversee the transfer of sums due and/or administrative payments to the persons entitled to receive payments from the fund.
 
 _________________
-
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/072 SCHEDULE 3 Repealed.
-
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/072

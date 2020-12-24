@@ -1,105 +1,69 @@
 SCHEDULE 1
 
-Regulations 9(2), and 25 and 26
+DESCRIPTION OF FACILITIES AND SERVICES REFERRED TO IN REGULATION 9 (CONTROL OF EXPENDITURE), REGULATION 25 (ADDITIONAL FACILITIES) AND REGULATION 26 (PROVIDER SWITCHING AND NUMBER PORTABILITY)
 
-DESCRIPTION OF FACILITIES AND SERVICES REFERRED TO IN REGULATIONS 9, 25 and 26
+Regulations 9,25 and 26
 
-Part A : Facilities and services referred to in Regulation 9
+Part A: Facilities and services referred to in regulations 9 and 25.
+
+When applied on the basis of regulation 9, Part A is applicable to consumers and other categories of end-users where the Authority has extended the beneficiaries of regulation 9(2A).
+
+When applied on the basis of regulation 25, Part A is applicable to the categories of end-users determined by the Authority, except for paragraphs (c), (d) and (g) of this Part which are applicable only to consumers.
 
 (a)  Itemised billing
 
-The Authority may, subject to the requirements of relevant legislation on the protection of personal data and privacy applicable in Gibraltar, lay down the basic level of itemised bills which are to be provided by persons providing a publicly available telephone service to subscribers free of charge in order that subscribers can–
+The Authority may, subject to the requirements of relevant law on the protection of personal data and privacy applicable in Gibraltar, lay down the basic level of itemised bills which are to be offered by providers to end-users free of charge in order that they can:
 
-(i) allow verification and control of the charges incurred in using the public communications network at a fixed location or related publicly available telephone services or both such network and services, and
+(i)  allow verification and control of the charges incurred in using internet access services or voice communications services, or number-based interpersonal communications services in the case of regulation 25; and
 
-(ii) adequately monitor their usage and expenditure and thereby exercise a reasonable degree of control over their bills. Where appropriate, additional levels of detail may be offered to subscribers at a reasonable tariff or at no charge. Calls which are free of charge to the calling subscriber, including calls to help lines, are not to be identified in the calling subscribers’ itemised bill.
+(ii)  adequately monitor their usage and expenditure and thereby exercise a reasonable degree of control over their bills. Where appropriate, additional levels of detail may be offered to end-users at reasonable tariffs or at no charge. Such itemised bills shall include an explicit mention of the identity of the supplier and of the duration of the services charged by any premium numbers unless the end-user has requested that information not to be mentioned. Calls which are free of charge to the calling end-users, including calls to helplines, shall not be required to be identified in the calling end-user’s itemised bill.
+
+The Authority may require operators to provide calling-line identification free of charge.
 
 (b)  Selective barring for outgoing calls or premium SMS or MMS, or, where technically feasible, other kinds of similar applications, free of charge.
 
-This is a facility whereby a subscriber can, on request to the designated universal service providers that provide telephone services, bar outgoing calls, or premium SMS or MMS, or other kinds of similar applications of defined types or to defined types of numbers.
+This is a facility whereby the end-users can, on request to the providers of voice communications services, or number-based interpersonal communications services in the case of regulation 25, bar outgoing calls or premium SMS or MMS or other kinds of similar applications of defined types or to defined types of numbers free of charge.
 
-(c)  Pre-payment systems.
+(c)  Pre-payment systems
 
-The Authority may require designated universal service providers to provide adequate means to enable consumers to pay for access to the public
+The Authority may require providers to offer means for consumers to pay for access to the public electronic communications network and use of voice communications services, or internet access services, or number-based interpersonal communications services in the case of regulation 25, on pre-paid terms.
 
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
+(d)  Phased payment of connection fees
 
-2006-15
+The Authority may require providers to allow consumers to pay for connection to the public electronic communications network on the basis of payments phased over time.
 
-Subsidiary 2006/072 communications network and use of publicly available telephone services on prepaid terms.
+(e)  Non-payment of bills
 
-(d)  Phased payment of connection fees.
+The Authority shall authorise specified measures, which are to be proportionate, non- discriminatory and published, to cover non-payment of bills issued by providers. Those measures are to ensure that due warning of any consequent service interruption or disconnection is given to the end-users beforehand. Except in cases of fraud, persistent late payment or non-payment, those measures shall ensure, as far as is technically feasible, that any service interruption is confined to the service concerned. Disconnection for non-payment of bills shall take place only after due warning is given to the end-users. The Authority may allow a period of limited service prior to complete disconnection, during which only calls that do not incur a charge to the end-users (for example, calls to the ‘112’ number) and minimum service level of internet access services, defined by Member States in light of national conditions, are permitted.
 
-The Authority may require designated universal service providers to allow consumers to pay for connection to the public communications network on the basis of payments phased over time.
+(f)  Tariff advice
 
-(e)  Non-payment of bills.
+This is a facility whereby end-users may request the provider to offer information regarding alternative lower-cost tariffs, if available.
 
-(i) The Authority shall authorise specified measures to ensure that, in cases of non-payment by a subscriber of telephone bills, due warning is given to that subscriber before–
+(g)  Cost control
 
-(a) the service which he is receiving is interrupted; or
+This is a facility whereby providers offer other means, if determined to be appropriate by competent authorities in coordination, where relevant, with national regulatory authorities, to control the costs of voice communications services or internet access services, or number- based interpersonal communications services in the case of regulation 25, including free-of- charge alerts to consumers in the case of abnormal or excessive consumption patterns.
 
-(b) he is disconnected from the network, as a result of such non-payment.
+(h)  Facility to deactivate third party billing
 
-(ii) The measures referred to in paragraph (i) shall be proportionate, non-discriminatory and published in accordance with regulation 18.
+This is a facility for end-users to deactivate the ability for third party service providers to use the bill of a provider of an internet access service or a provider of a publicly available interpersonal communications service to charge for their products or services.
 
-(iii) Except in the case of any one or more of the following–
+Part B: Facilities referred to in regulation 25.
 
-(a) fraud,
+(a)  Calling-line identification
 
-(b) persistent late payment of the telephone bills referred to in paragraph (i), or
+This is a facility whereby the calling party’s number is presented to the called party prior to the call being established. This facility shall be provided in accordance with relevant law on protection of personal data and privacy, in particular Directive 2002/58/EC. To the extent technically feasible, operators shall provide data and signals to facilitate the offering of calling-line identity and tone dialling across boundaries within the European Union.
 
-(c) non-payment of the telephone bills referred to in paragraph (i),
+(b)  E-mail forwarding or access to e-mails after termination of the contract with a provider of an internet access service.
 
-the said measures shall ensure, as far as is technically feasible, that any interruption of a service is limited to interruption of the service the subject of the unpaid bill.
-
-(iv) The Authority may decide that, where appropriate, complete disconnection from the network for non-payment of the bill takes place only after such a period as the Authority may prescribe. During such period, calls for which the subscriber the subject of the disconnection does not incur charges (e.g. “112” calls) shall be permitted.
-
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/072
-
-(f)  Tariff advice.
-
-This is a facility whereby subscribers may request the person to provide information regarding alternative lower cost tariffs, if available.
-
-(g)  Cost control.
-
-This is a facility whereby persons offer other means, if determined to be appropriate by the Authority, to control the costs of publicly available telephone services, including free of charge alerts to consumers in case of abnormal or excessive consumption patterns.
-
-Part B : Facilities referred to in Regulation 25.
-
-(a)  Tone dialling or DTMF (dual-tone multi-frequency operation).
-
-This is a facility whereby the public communications network and/or publicly available services support the use of DTMF tones as defined in ETSI ETR 207 for end-to-end signalling throughout the network both within Gibraltar and between Gibraltar and a Member State.
-
-(b)  Calling-line identification.
-
-This is a facility whereby the calling party's number is presented to the called party prior to the call being established.
-
-This facility should be provided in accordance with relevant legislation on protection of personal data and privacy, in particular Directive 2002/58/EC.
-
-To the extent technically feasible, data and signals should be provided to facilitate the offering of calling-line identity and tone dialling across boundaries within the European Community.
+This facility shall, on request and free-of-charge, enable end-users who terminate their contract with a provider of an internet access service to either access their e-mails received on the e- mail address(es) based on the commercial name or trade mark of the former provider, during a period that the Authority considers necessary and proportionate, or to transfer e-mails sent to that (or those) address(es) during that period to a new email address specified by the end- user.
 
 Part C: Implementation of the number portability provisions referred to in regulation 26.
 
-The requirement that all subscribers with numbers from the Gibraltar Numbering Plan, who so request can retain their number or numbers independently of the person providing the service shall apply:
+The requirement that all end-users with numbers from the Gibraltar Numbering Plan, who so request can retain their numbers independently of the person providing the service shall apply:
 
 (a) in the case of geographic numbers, at a specific location; and
 
 (b) in the case of non-geographic numbers, at any location.
 
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/072
-
 This part does not apply to the porting of numbers between networks providing services at a fixed location and mobile networks.
-
-Communications COMMUNICATIONS (UNIVERSAL SERVICE AND USERS’ RIGHTS) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/072
