@@ -12,9 +12,9 @@ Commencement 25.9.2008*
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2013/194 Sch. 2 1.7.2013 2020/190 rr. 2(3), 3(2)(b), (d)-(h), (2A), 8(1)-(3), 10(1)(a), 11(4)-(6), Sch. 1-3
+LN.  2013/194 Sch. 2 1.7.2013 2020/190 rr. 2(3), 3(2)(b), (d)-(h), (2A), 8(1)- (3), 10(1)(a), 11(4)-(6), Sch. 1-3
 
-23.5.2020
+23.5.2020 2020/540 rr. 11(4), Sch.1 24.12.2020
 
 Transposing:
 
@@ -310,17 +310,15 @@ as the competent authority sees fit.
 
 (3)  Upon the issue of a driver qualification card, the competent authority shall check the validity of the driving licence whose number is mentioned on the card.
 
-(4)  A driver referred to in regulation 3(1)(ii) who drives a vehicle used for the carriage of goods by road shall prove to the competent authority that he has the qualification and training provided for in these Regulations by means of the driver's attestation’provided for in Regulation (EC) No 1072/2009 provided that it bears the Community code 95.
+(4)  A driver referred to in regulation 3(1)(ii) who drives a vehicle used for the carriage of goods by road shall prove to the competent authority that he has the qualification and training provided for in these Regulations by means of the driver's attestation’provided for in Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market provided that it bears the Community code 95.
 
 (5)  For the purposes of these Regulations, the competent authority shall indicate the Community code 95 in the remarks section of the attestation if the driver concerned has fulfilled the qualification and training requirements provided for in these Regulations.
-
-(6)  Driver attestations that do not bear the Community code 95 and that were issued before 23 May 2020 in accordance with Article 5 of Regulation (EC) No 1072/2009 with a view to certifying compliance under these
 
 Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
 
 2005-26
 
-Subsidiary 2008/076 Regulations shall be accepted as a proof of qualification until their date of expiry.
+Subsidiary 2008/076 (6)  Driver attestations that do not bear the Community code 95 and that were issued before 23 May 2020 in accordance with Article 5 of Regulation (EC) No 1072/2009 with a view to certifying compliance under these Regulations shall be accepted as a proof of qualification until their date of expiry.
 
 Schedules.
 
