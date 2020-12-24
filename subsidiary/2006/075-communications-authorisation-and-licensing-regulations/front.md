@@ -14,9 +14,11 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2011/069 rr. 4(10A), (12) & (15), 7(5)(a), (b) & (c) & (6), 11(1), (2), (5)(e) & (8), 11A, 13, 14(7), 17(6)(c), (d) & (e), 18, 19(1), (3)9a)(ii) & (iii), (h), (i) & (j), 21(3), (4), (5), (6) & (7), 22(2)(b), (3), (3A) & (4)(a), 25(3), (5)(b), 27(1)(a), 29, 38, 39(9), (10) & (11) & Sch.
 
-26.5.2011
+26.5.2011 2020/505 rr. 4(3), (10A), 6(1)(a)-(d), 13A, 17(3)(a)-(c), (6)(d)-(f), 17A-17B, 19(3)-(4), (4A), Sch.
 
-EU Legislation/International Agreements involved: Directive 89/336/EEC Directive 89/552/EEC Directive 95/46/EC Directive 1999/5/EC Directive 2000/31/EC Directive 2002/20/EC Directive 2002/21/EC Directive 2002/58/EC Directive 2009/140/EC
+24.12.2020
+
+EU Legislation/International Agreements involved: Directive 89/336/EEC Directive 89/552/EEC Directive 95/46/EC Directive 1999/5/EC Directive 2000/31/EC Directive 2002/20/EC Directive 2002/21/EC Directive 2002/58/EC Directive 2009/140/EC Directive (EU) 2018/1972
 
 Communications COMMUNICATIONS (AUTHORISATION AND LICENSING) REGULATIONS 2006
 
@@ -48,19 +50,17 @@ Miscellaneous
 
 Part 4 : Numbers
 
-14. Procedure for the allocation of numbers. 15. Withdrawal of telephone number allocations. 16. Numbering Re-organisations.
+13A. Procedure for granting of rights of use for numbering resources. 14. Procedure for the allocation of numbers. 15. Withdrawal of telephone number allocations. 16. Numbering Re-organisations.
 
 Part 5 : Common Provisions
-
-Conditions
 
 Communications COMMUNICATIONS (AUTHORISATION AND LICENSING) REGULATIONS 2006
 
 2006-15
 
-Subsidiary 2006/075
+Subsidiary 2006/075 Conditions
 
-17. The power of the Authority and the Minister to set conditions. 18. The power to modify conditions generally.
+17. The power of the Authority and the Minister to set conditions. 17A. Conditions attached to individual rights of use for radio spectrum. 17B. (1) When attaching conditions to individual rights of use for …… 18. The power to modify conditions generally.
 
 Enforcement and Compliance
 
@@ -76,13 +76,11 @@ Miscellaneous
 
 SCHEDULE
 
-PART A
+Communications COMMUNICATIONS (AUTHORISATION AND LICENSING) REGULATIONS 2006
 
-List of General Conditions. PART B
+2006-15
 
-List of Licence Conditions. PART C
-
-List of Numbering Conditions.
+Subsidiary 2006/075 LIST OF CONDITIONS WHICH MAY BE ATTACHED TO GENERAL AUTHORISATIONS, RIGHTS OF USE FOR RADIO SPECTRUM AND RIGHTS OF USE FOR NUMBERING RESOURCES
 
 Communications COMMUNICATIONS (AUTHORISATION AND LICENSING) REGULATIONS 2006
 
