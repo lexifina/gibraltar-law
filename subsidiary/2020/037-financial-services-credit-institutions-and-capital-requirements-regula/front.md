@@ -10,7 +10,11 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/475 r. 16C 27.12.2020
+LN.2020/475 r. 16C 27.12.2020 “
+
+rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45(3A)-(3B), 46(1)-(3), (11)-(12), 49, 51(13)(a), (14), (18A)-(18B), 54(1)(a)-(c), (4A)-(4C), (6)-(8), 56(3)(b)-(c), 59(5)- (6), 60(2)-(9), 66, 68, 70(5), 74(1), 75(2), 80(2A), 82A, 83-84, 85(2), (4), (7A)-(7D), (12), (12A)- (12C), (14)-(26), 86-87, 89(5), (10)-(12), 94(1)-(9), 99(2A), 134(1A), (2), (2A), 136(3), 139, 140(1)-(2), (2A)-(2B), (3), 140A-140C, 141(1)(d), 145(g), 146(d), 167(1)(f)-(h), 168(1), 169A, 173(1)(c), 175A-175C
+
+28.12.2020
 
 2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
@@ -34,11 +38,15 @@ Permission
 
 8. Application for permission by credit institutions. 9. Application of threshold conditions. 10. Effective direction of business and place of head office. 11. Initial capital. 12. Controllers and close links. 13. Suitability. 14. Resources and internal governance. 15. Waiver for credit institutions permanently affiliated to central body. 16. Scope of permission: credit institutions.
 
+Parent undertakings
+
+16A. Approval of financial holding companies and mixed financial holding companies. 16B. Intermediate EU parent undertaking.
+
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+
 Authorisation of specific credit institutions
 
 16C. Authorisation of Article 4.1(1)(b) CRR credit institutions.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
 
 Third country firms
 
@@ -64,11 +72,11 @@ Chapter 1 Internal capital adequacy assessment process
 
 30. Internal capital.
 
+2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
+
 Chapter 2 Arrangements, processes and mechanisms of institutions
 
 General principles
-
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 31. Internal governance and recovery and resolution plans. 32. Oversight of remuneration policies.
 
@@ -82,9 +90,11 @@ Governance
 
 Chapter 3 Supervisory review and evaluation process
 
-54. Supervisory review and evaluation. 55. Technical criteria for the supervisory review and evaluation. 56. Supervisory examination programme. 57. Supervisory stress testing. 58. Ongoing review of the permission to use internal approaches.
+54. Supervisory review and evaluation.
 
 Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+
+55. Technical criteria for the supervisory review and evaluation. 56. Supervisory examination programme. 57. Supervisory stress testing. 58. Ongoing review of the permission to use internal approaches.
 
 Chapter 4 Level of application
 
@@ -104,19 +114,19 @@ SECTION 1 Principles for conducting supervision on consolidated basis
 
 66. Determination of consolidating supervisor. 67. Coordination of supervisory activities by consolidating supervisor. 68. Joint decisions on institution-specific prudential requirements. 69. Information requirements in emergency situations. 70. Coordination and cooperation arrangements. 71. Colleges of supervisors. 72. Cooperation obligations. 73. Checking information concerning entities in Member States.
 
-SECTION 2 Financial holding companies, mixed financial holding companies and mixed-activity holding companies
-
-74. Inclusion of holding companies in consolidated supervision. 75. Supervision of mixed financial holding companies.
+SECTION 2
 
 2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
-76. Qualification of directors. 77. Requests for information and inspections. 78. Supervision. 79. Exchange of information. 80. Cooperation. 81. Assessment of equivalence of third countries’ consolidated  supervision.
+Financial holding companies, mixed financial holding companies and mixed-activity holding companies
+
+74. Inclusion of holding companies in consolidated supervision. 75. Supervision of mixed financial holding companies. 76. Qualification of directors. 77. Requests for information and inspections. 78. Supervision. 79. Exchange of information. 80. Cooperation. 81. Assessment of equivalence of third countries’ consolidated  supervision.
 
 Chapter 3 Capital buffers
 
 SECTION 1 Buffers
 
-82. Definitions. 83. Requirement to maintain capital conservation buffer. 84. Requirement to maintain institution-specific countercyclical capital buffer. 85. Global and other systemically important institutions. 86. Requirement to maintain systemic risk buffer. 87. Recognition of systemic risk buffer rate.
+82. Definitions. 82A. Use of buffer capital. 83. Requirement to maintain a capital conservation buffer. 84. Requirement to maintain an institution-specific countercyclical capital buffer. 85. Global and other systemically important institutions. 86. Requirement to maintain a systemic risk buffer. 87. Recognition of a systemic risk buffer rate.
 
 SECTION 2 Setting and calculating countercyclical capital buffers
 
@@ -126,11 +136,11 @@ SECTION 3 Capital conservation measures
 
 94. Restrictions on distributions. 95. Capital conservation plan.
 
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+
 PART 6 REPORTING AND NOTIFICATION
 
 Information to be provided by credit institutions
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
 
 96. Disclosure of transactions. 97. Disclosure of inability to meet obligations. 98. Notification of controllers etc.
 
@@ -152,13 +162,15 @@ Services business
 
 112. EEA firms qualifying for authorisation: services.
 
-Chapter 2 Gibraltar firms
+Chapter 2
+
+2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
+
+Gibraltar firms
 
 113. Application of Chapter 2. 114. Extent of Gibraltar firm’s activities in an EEA State.
 
 Branch business
-
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 115. Gibraltar firms: branches in an EEA State. 116. Changes to information provided under regulation 115. 117. Branch business of Gibraltar firms.
 
@@ -180,11 +192,11 @@ Chapter 4 Third country institutions
 
 Representative offices of third country credit institutions
 
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+
 131. Third country credit institutions: establishing a representative office or changing its name. 132. Powers to object to names of third country credit institutions. 133. Powers to require information and documents.
 
 Relations with third countries
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
 
 134. Notification in relation to third country branches and conditions of access for credit institutions with such branches. 135. Cooperation with supervisory authorities of third countries regarding supervision on consolidated basis.
 
@@ -196,19 +208,19 @@ General
 
 Intervention
 
-137. Information gathering and investigatory powers. 138. Regulatory measures: general. 139. Regulatory measures: application to institutions with similar risk profiles. 140. Exercise of powers for specific purposes. 141. Specific liquidity requirements. 142. Specific publication requirements. 143. Consistency of regulatory reviews, evaluations and measures.
+137. Information gathering and investigatory powers. 138. Regulatory measures: general. 139. Omitted. 140. Exercise of powers for specific purposes. 140A. Additional own funds requirement. 140B. Guidance on additional own funds. 140C. Cooperation with resolution authorities. 141. Specific liquidity requirements. 142. Specific publication requirements. 143. Consistency of regulatory reviews, evaluations and measures.
 
 Sanctions
 
 144. Sanctioning powers. 145. Additional persons subject to sanctioning powers. 146. Contravention of regulatory requirements. 147. Additional sanctioning power: management prohibiting order. 148. Maximum amounts of administrative penalty. 149. Publication of sanctioning action.
+
+2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 PART 9 MISCELLANEOUS
 
 General
 
 150. The Register: accepting deposits. 151. Delegated and implementing acts. 152. Civil liability. 153. Protection of legal privilege. 154. Data protection.
-
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 Restrictions on use of names etc
 
@@ -224,7 +236,11 @@ Cooperation
 
 Confidentiality and exchange of information
 
-164. Professional secrecy. 165. Use of confidential information. 166. Investigations by European Parliament. 167. Exchange of information between authorities. 168. Exchange of information with oversight bodies. 169. Transmission of information concerning monetary, deposit protection, systemic and payment aspects. 170. Transmission of information to other entities. 171. Disclosure of information obtained by on-the-spot checks and inspections. 172. Disclosure of information concerning clearing and settlement services.
+164. Professional secrecy. 165. Use of confidential information. 166. Investigations by European Parliament. 167. Exchange of information between authorities. 168. Exchange of information with oversight bodies. 169. Transmission of information concerning monetary, deposit protection, systemic and payment aspects. 169A. Transmission of information to international bodies. 170. Transmission of information to other entities. 171. Disclosure of information obtained by on-the-spot checks and inspections.
+
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+
+172. Disclosure of information concerning clearing and settlement services.
 
 Publication of information by the GFSC
 
@@ -234,7 +250,13 @@ Offence: fraudulent inducement to make a deposit.
 
 175. Fraudulent inducement to make a deposit.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+Transitional provisions: financial and mixed financial holding companies
+
+175A. Transitional provisions on approval of financial holding companies and mixed financial holding companies.
+
+Capital Requirements Regulation
+
+175B. Designated authority. 175C. Modified application of Capital Requirements Regulation.
 
 Savings and revocations
 
