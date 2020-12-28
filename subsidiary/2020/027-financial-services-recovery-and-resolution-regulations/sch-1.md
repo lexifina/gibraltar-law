@@ -26,7 +26,7 @@ The recovery plan must include the following information:
 
 (11) arrangements and measures to ensure that the institution has adequate access to contingency funding sources, including potential liquidity sources, an assessment of available collateral and an assessment of the possibility to transfer liquidity across group entities and business lines, to ensure that it can continue to carry out its operations and meet its obligations as they fall due;
 
-Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
+2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
 
 (12) arrangements and measures to reduce risk and leverage;
 
@@ -56,13 +56,13 @@ Resolution authorities may request institutions to provide for the purposes of d
 
 (3) the location, jurisdiction of incorporation, licensing and key management associated with each legal person;
 
-2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
 
 (4) a mapping of the institution’s critical operations and core business lines including material asset holdings and liabilities relating to such operations and business lines, by reference to legal persons;
 
 (5) a detailed description of the components of the institution’s and all its legal entities’ liabilities, separating, at a minimum by types and amounts of short term and long-term debt, secured, unsecured and subordinated liabilities;
 
-(6) details of those liabilities of the institution that are eligible liabilities;
+(6) details of those liabilities of the institution that are bail-inable liabilities;
 
 (7) an identification of the processes needed to determine to whom the institution has pledged collateral, the person that holds the collateral and the jurisdiction in which the collateral is located;
 
@@ -82,7 +82,7 @@ Resolution authorities may request institutions to provide for the purposes of d
 
 (15) an identification and mapping of the legal persons and the interconnections and interdependencies among the different legal persons such as:
 
-Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
+2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
 
 (a) common or shared personnel, facilities and systems;
 
@@ -112,7 +112,7 @@ When assessing the resolvability of an institution or group, the resolution auth
 
 (1) the extent to which the institution is able to map core business lines and critical operations to legal persons;
 
-2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
 
 (2) the extent to which legal and corporate structures are aligned with core business lines and critical operations;
 
@@ -138,7 +138,7 @@ When assessing the resolvability of an institution or group, the resolution auth
 
 (12) the extent to which the institution has established adequate processes to ensure that it provides the resolution authorities with the information necessary to identify depositors and the amounts covered by the deposit guarantee schemes;
 
-Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
+2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
 
 (13) where the group uses intra-group guarantees, the extent to which those guarantees are provided at market conditions and the risk management systems concerning those guarantees are robust;
 
@@ -148,7 +148,7 @@ Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATI
 
 (16) the extent to which the legal structure of the group inhibits the application of the resolution tools as a result of the number of legal persons, the complexity of the group structure or the difficulty in aligning business lines to group entities;
 
-(17) the amount and type of eligible liabilities of the institution;
+(17) the amount and type of bail-inable liabilities of the institution;
 
 (18) where the assessment involves a mixed activity holding company, the extent to which the resolution of group entities that are institutions or financial institutions could have a negative impact on the non-financial part of the group;
 
@@ -164,7 +164,7 @@ Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATI
 
 (24) the credibility of using resolution tools in such a way which meets the resolution objectives, given possible impacts on creditors, counterparties, customers and employees and possible actions that third-country authorities may take;
 
-2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
 
 (25) the extent to which the impact of the institution’s resolution on the financial system and on financial market’s confidence can be adequately evaluated;
 
