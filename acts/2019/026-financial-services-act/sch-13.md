@@ -18,7 +18,7 @@ Accepting deposits.
 
 (c) the firm no longer meets the conditions that a firm must meet in order to obtain permission to carry on the regulated activity of accepting deposits;
 
-(d) the firm no longer meets the prudential requirements set out in Parts 3, 4 or 6 of the Capital Requirements Regulation or imposed under article 104(1)(a) or 105 of the Capital Requirements Directive or can no longer be relied on to fulfil its obligations to its creditors and, in particular, no longer provides security for the assets entrusted to it by its depositors;
+(d) the firm no longer meets the prudential requirements set out in Parts 3, 4 or 6 of the Capital Requirements Regulation (other than Articles 92a and 92b) or imposed under article 104(1)(a) or 105 of the Capital Requirements Directive or can no longer be relied on to fulfil its obligations to its creditors and, in particular, no longer provides security for the assets entrusted to it by its depositors;
 
 (e) the firm has committed any breach referred to in article 67.1 of the Capital Requirements Directive;
 
