@@ -18,9 +18,7 @@ LN. 2019/073 s. 3(1), (2) 28.3.2019 2019/092 s. 3(1), (2) 11.4.2019 2019/218 s. 
 
 31.1.2020 LN. 2020/064 ss. 10(1), (6), 15(3), Sch. 4 (para 5-6, 8-10)(Notice of Commencement)
 
-31.1.2020 Act. 2020-01 ss. 9(5A)-(5C), 11B 12.11.2020
-
-English sources: None cited
+31.1.2020 Act. 2020-01 ss. 9(5A)-(5C), 11B 12.11.2020 2020/533 s. 15(6)( Notice of Commencement) 31.12.2020
 
 EU Legislation/International Agreements involved: European Council Decision (EU) 2019/584
 
