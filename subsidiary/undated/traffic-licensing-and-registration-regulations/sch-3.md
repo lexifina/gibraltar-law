@@ -106,6 +106,8 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 Subsidiary [1958.03.06] SCHEDULE 3A
 
+VEHICLES FIRST REGISTERED ON OR AFTER 6 SEPTEMBER 2001 AND UNTIL IP COMPLETION DAY
+
 PART 1
 
 ILLUSTRATED REQUIREMENTS AS TO REGISTRATION MARKS
@@ -130,13 +132,13 @@ Length 111mm Width 45mm
 
 Character Size Colour Height 20mm white Width 11mm white Stroke 4mm white Space between letters 3mm blue
 
-In the case of Export Vehicles Expiry Date
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
 Subsidiary [1958.03.06]
+
+In the case of Export Vehicles Expiry Date
 
 Colour
 
@@ -154,6 +156,12 @@ Space between figures 5mm
 
 Dividing Line 1mm
 
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
+
 DIAGRAM  1
 
 Dimensions
@@ -170,11 +178,13 @@ Side Margin 5mm Numbers 25mm
 
 Top & Bottom
 
+Margin 4.5mm
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] Margin 4.5mm
+Subsidiary [1958.03.06]
 
 DIAGRAM  2
 
@@ -196,13 +206,13 @@ Top & Bottom Dimensions
 
 Margin 13mm Length 90mm Width 45mm
 
-DIAGRAM  3 (REAR PLATE OF MOTORCYCLES ONLY)
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
 Subsidiary [1958.03.06]
+
+DIAGRAM  3 (REAR PLATE OF MOTORCYCLES ONLY)
 
 Dimensions
 
@@ -214,15 +224,17 @@ Characters to Black Border
 
 10mm Character Size Height 45mm Space between Width 30mm Numbers 10mm Stroke 9mm Space between Letters & Numbers 20mm Top & Bottom Dimensions Margin 13mm Length 75mm Width 45mm
 
-DIAGRAM  4
-
-Dimensions Black Border
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
 Subsidiary [1958.03.06]
+
+DIAGRAM  4
+
+Dimensions
+
+Black Border
 
 Length 520mm Width 1.5mm Width 111mm
 
@@ -233,6 +245,12 @@ Character Size Characters to Black Border
 Width 50mm Space between 11mm Stroke 14mm Numbers Side Margin 5mm Space between 25mm Letters & Numbers
 
 Top & Bottom Dimensions Length 111mm Margin 4.5mm Width 45mm
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 DIAGRAM  5
 
@@ -252,17 +270,17 @@ Character Size Space between Numbers
 
 Width 50mm Space between Stroke 14mm Letters & Numbers 25mm
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 Top & Bottom
 
 Dimensions
 
 Margin 13mm Length 90mm Width 45mm
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 DIAGRAM  6 (REAR PLATE OF MOTORCYCLES ONLY)
 
@@ -305,26 +323,6 @@ Numbers and letters shall be equally spaced between the black border. No number 
 PART 2
 
 MANADATORY CHARACTER FONTS
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] SCHEDULE 4.
-
-Regulation 17
-
-DISTINGUISHING SIGN OF VEHICLES IN INTERNATIONAL TRAFFIC.
-
-1. The distinguishing sign shall be composed of one to three letters in capital Latin characters. The letters shall have a minimum height of 80mm. and their strokes a width of 10mm. The letters shall be painted in black on a white ground of elliptical form with the major axes horizontal.
-
-2. If the distinguishing mark is composed of three letters, the dimensions of the ellipse shall be at least 240 mm.  in width and 145 mm. in height. The dimensions may be reduced to 175 mm.  in width and 115 mm.  in height it the sign carries less than three letters. in the case of motor cycles the dimensions of the ellipse, whether the sign is composed of one, two or three letters may be reduced to 175 mm.  in width and 115 mm  in height.
-
-3. The distinctive letters shall be those of the Contracting Country to which they refer.
-
-4. When the distinguishing sign is carried on a special plate, this plate shall be fixed in a vertical or nearly vertical position and in a plane perpendicular to the longitudinal axes of the vehicle itself. When the sign is fixed to or painted on the vehicle itself, this shall be done on a vertical or nearly vertical surface at the back of the vehicle.
-
-5.Nothing in this Schedule shall prejudice the provisions of regulation 17A.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 

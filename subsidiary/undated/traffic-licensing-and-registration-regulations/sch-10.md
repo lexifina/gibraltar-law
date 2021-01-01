@@ -2,8 +2,6 @@ SCHEDULE 10 Regulation 103
 
 MINIMUM STANDARDS FOR PERSONS WHO CONDUCT PRACTICAL DRIVING TESTS
 
-(This Schedule reproduces Annex IV to the Directive)
-
 1. Competences required by a driving examiner
 
 1.1. A person authorised to conduct practical assessments in a motor vehicle of the driving performance of a candidate must have knowledge, skills and understanding related to the topics listed in points 1.2 to 1.6.
@@ -36,13 +34,13 @@ MINIMUM STANDARDS FOR PERSONS WHO CONDUCT PRACTICAL DRIVING TESTS
 
 - achievement of competence and recognition of errors,
 
+- uniformity and consistency in assessment,
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
 Subsidiary [1958.03.06]
-
-- uniformity and consistency in assessment,
 
 - assimilate information quickly and extract key points,
 
@@ -86,9 +84,7 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
-
-(c) must have successfully completed the initial qualification provided for in point 3 of this Schedule and subsequently followed the quality assurance and the periodic training arrangements as provided for in point 4 of this Schedule;
+Subsidiary [1958.03.06] (c) must have successfully completed the initial qualification provided for in point 3 of this Schedule and subsequently followed the quality assurance and the periodic training arrangements as provided for in point 4 of this Schedule;
 
 (d) must have terminated a vocational education that leads at least to a completion of level 3 as defined by Council Decision 85/368/EEC of 16 July 1985 on the comparability of vocational training qualifications between the Member States of the European Community;
 
@@ -106,55 +102,57 @@ Subsidiary [1958.03.06]
 
 2.3. Equivalences
 
-2.3.1. EEA States may authorise an examiner to conduct driving tests for categories AM, A1, A2 and A upon passing the initial qualification prescribed in point 3 for one of these categories.
+2.3.1. EEA states may authorise an examiner to conduct driving tests for categories AM, A1, A2 and A upon passing the initial qualification prescribed in point 3 for one of these categories.
 
-2.3.2. EEA States may authorise an examiner to conduct driving tests for categories C1, C, D1 and D upon passing the initial qualification prescribed in point 3 for one of these categories.
+2.3.2. EEA states may authorise an examiner to conduct driving tests for categories C1, C, D1 and D upon passing the initial qualification prescribed in point 3 for one of these categories.
 
-2.3.3. EEA States may authorise an examiner to conduct driving tests for categories BE, C1E, CE, D1E and DE upon passing the initial qualification prescribed in point 3 for one of these categories.
+2.3.3. EEA states may authorise an examiner to conduct driving tests for categories BE, C1E, CE, D1E and DE upon passing the initial qualification prescribed in point 3 for one of these categories.
 
 3. Initial qualification
+
+3.1. Initial training
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 3.1. Initial training
+Subsidiary [1958.03.06]
 
-3.1.1. Before a person may be authorised to conduct driving tests, that person must satisfactorily complete such training programme as an EEA State may specify in order to have the competences set out in point 1.
+3.1.1. Before a person may be authorised to conduct driving tests, that person must satisfactorily complete such training programme as an EEA state may specify in order to have the competences set out in point 1.
 
-3.1.2. EEA States must determine whether the content of any particular training programme will relate to authorisation to conduct driving tests for one driving licence category, or more than one.
+3.1.2. EEA states must determine whether the content of any particular training programme will relate to authorisation to conduct driving tests for one driving licence category, or more than one.
 
 3.2. Examinations
 
 3.2.1. Before a person may be authorised to conduct driving tests, that person must demonstrate a satisfactory standard of knowledge, understanding, skills and aptitude in respect of the subjects listed in point 1.
 
-3.2.2. EEA States shall operate an examination process that assesses, in a pedagogically appropriate manner, the competences of the person as defined under point 1, in particular point 1.4. The examination process must include both a theoretical element and a practical element. Computer-based assessment may be used where appropriate. The details concerning the nature and duration of any tests and assessments within the examination shall be at the discretion of the individual EEA States.
+3.2.2. EEA states shall operate an examination process that assesses, in a pedagogically appropriate manner, the competences of the person as defined under point 1, in particular point 1.4. The examination process must include both a theoretical element and a practical element. Computer-based assessment may be used where appropriate. The details concerning the nature and duration of any tests and assessments within the examination shall be at the discretion of the individual EEA states.
 
-3.2.3. EEA States must determine whether the content of any particular examination will relate to authorisation to conduct driving tests for one driving licence category, or more than one. 4. Quality assurance and periodic training
+3.2.3. EEA states must determine whether the content of any particular examination will relate to authorisation to conduct driving tests for one driving licence category, or more than one. 4. Quality assurance and periodic training
 
 4.1. Quality assurance
 
-4.1.1. EEA States shall have in place quality assurance arrangements to provide for the maintenance of standards of driving examiners.
+4.1.1. EEA states shall have in place quality assurance arrangements to provide for the maintenance of standards of driving examiners.
 
 4.1.2. Quality assurance arrangements should involve the supervision of examiners at work, their further training and re-accreditation, their continuing professional development, and by periodic review of the outcomes of the driving tests that they have conducted.
 
-4.1.3. EEA States must provide that each examiner is subject to yearly supervision making use of quality assurance arrangements listed in point
+4.1.3. EEA states must provide that each examiner is subject to yearly supervision making use of quality assurance arrangements listed in point
 
-4.1.2. Moreover, the EEA States must provide that each examiner is observed conducting tests once every 5 years, for a minimum period cumulatively of at least half a day, allowing the observation of several tests. When issues are identified corrective action should be put in place. The
+4.1.2. Moreover, the EEA states must provide that each examiner is observed conducting tests once every 5 years, for a minimum period cumulatively of at least half a day, allowing the observation of several tests. When issues are identified corrective action should be put in place. The
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] person undertaking the supervision must be a person authorised by the EEA State for that purpose.
+Subsidiary [1958.03.06] person undertaking the supervision must be a person authorised by the EEA state for that purpose.
 
-4.1.4 EEA States may provide that where an examiner is authorised to conduct driving tests in more than one category, satisfying the supervision requirement in relation to tests for one category satisfies the requirement for more than one category.
+4.1.4 EEA states may provide that where an examiner is authorised to conduct driving tests in more than one category, satisfying the supervision requirement in relation to tests for one category satisfies the requirement for more than one category.
 
-4.1.5 The work of driving examination must be monitored and supervised by a body authorised by the EEA State, to ensure correct and consistent application of assessment.
+4.1.5 The work of driving examination must be monitored and supervised by a body authorised by the EEA state, to ensure correct and consistent application of assessment.
 
 4.2. Periodic training
 
-4.2.1. EEA States shall provide that, in order to remain authorised, driving examiners, irrespective of the number of categories for which they are accredited, undertake:
+4.2.1. EEA states shall provide that, in order to remain authorised, driving examiners, irrespective of the number of categories for which they are accredited, undertake:
 
 - a minimum regular periodic training of four days in total per period of two years in order to:
 
@@ -168,11 +166,11 @@ Subsidiary [1958.03.06] person undertaking the supervision must be a person auth
 
 - in order to develop and maintain the necessary practical driving skills.
 
-4.2.2. EEA States shall take the appropriate measures for ensuring that specific training is given promptly to those examiners that have found to be seriously malfunctioning by the quality assurance system in place.
+4.2.2. EEA states shall take the appropriate measures for ensuring that specific training is given promptly to those examiners that have found to be seriously malfunctioning by the quality assurance system in place.
 
-4.2.3. The nature of periodic training may take the form of briefing, classroom training, conventional or electronic-based learning, and it may be undertaken on an individual or group basis. It may include such re- accreditation of standards as EEA States consider appropriate.
+4.2.3. The nature of periodic training may take the form of briefing, classroom training, conventional or electronic-based learning, and it may be undertaken on an individual or group basis. It may include such re- accreditation of standards as EEA states consider appropriate.
 
-4.2.4. EEA States may provide that where an examiner is authorised to conduct driving tests in more than one category, satisfying the periodic training requirement in relation to tests for one category satisfies the
+4.2.4. EEA states may provide that where an examiner is authorised to conduct driving tests in more than one category, satisfying the periodic training requirement in relation to tests for one category satisfies the
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
@@ -184,6 +182,6 @@ Subsidiary [1958.03.06] requirement for more than one category, provided the con
 
 5. Acquired rights
 
-5.1.  EEA States may allow persons authorised to conduct driving tests immediately before these provisions come into force to continue to conduct driving tests, notwithstanding that they were not authorised in accordance with the general conditions in point 2 or the initial qualification process set out in point 3.
+5.1.  EEA states may allow persons authorised to conduct driving tests immediately before these provisions come into force to continue to conduct driving tests, notwithstanding that they were not authorised in accordance with the general conditions in point 2 or the initial qualification process set out in point 3.
 
 5.2. Such examiners are nonetheless subject to the regular supervision and quality assurance arrangements set out in point 4.

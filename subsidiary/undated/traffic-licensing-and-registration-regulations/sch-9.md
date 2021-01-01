@@ -2,8 +2,6 @@ SCHEDULE 9
 
 MINIMUM REQUIREMENTS FOR DRIVER TRAINING AND TESTING FOR MOTORCYCLES WITHIN CATEGORY A (PROGRESSIVE ACCESS)
 
-(This Schedule reproduces Annex VI to the Directive)
-
 1.  The Government shall−
 
 (a) approve and supervise the training provided for in section 32(1)(c) of the Act; or

@@ -1,6 +1,6 @@
 SCHEDULE 4A
 
-MINIMUM STANDARDS OF PHYSICAL AND MENTAL FITNESS FOR DRIVING A POWER-DRIVEN VEHICLE (This Schedule reproduces Annex III to the Directive)
+MINIMUM STANDARDS OF PHYSICAL AND MENTAL FITNESS FOR DRIVING A POWER-DRIVEN VEHICLE
 
 DEFINITIONS
 
@@ -22,9 +22,9 @@ Applicants shall be required to undergo a medical examination if it becomes appa
 
 4. Group 2:
 
-Applicants shall undergo medical examinations before a driving licence is first issued to them and thereafter drivers shall be checked in accordance with the national system in place in the EEA State of normal residence whenever their driving licence is renewed
+Applicants shall undergo medical examinations before a driving licence is first issued to them and thereafter drivers shall be checked in accordance with the national system in place in the in the relevant state of normal residence whenever their driving licence is renewed, or in Gibraltar.
 
-5. The standards set by EEA States for the issue or any subsequent renewal of driving licences may be stricter than those set out in this Schedule.
+5. The standards set by relevant states for the issue or any subsequent renewal of driving licences may be stricter than those set out in this Schedule.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 

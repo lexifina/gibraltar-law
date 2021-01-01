@@ -36,6 +36,10 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 Subsidiary [1958.03.06]
 
+“ rr. 2, 16A, 16AZ, 16AA(1)-(2), (2A), (3)(a), 16AB, 16B, 16C(1), (4), 20(3)- (5), 21(3A)-(3B), (5)(a)-(d), 21A(2)(b), (bb)-(bc), 79A, 80(1)-(2), 80A(1)-(3), 103(1)-(2), Sch. 1, 3A- 3B, 4, 4A- 4C, 7-10
+
+1.1.2021
+
 Transposing:
 
 Directive 62/106/EEC Directive 91/439/EEC Regulation 2411/98 Directive 2000/53/EC Directive 2005/14/EC Directive 2006/126/EC Directive 2012/36/EU Directive 2013/47/EU Directive 2014/46/EU Directive 2014/85/EU Directive 2015/653/EU Directive (EU) 2016/1106
@@ -56,13 +60,13 @@ PART I. VEHICLE LICENCES AND REGISTRATION.
 
 Motor Vehicles (Civilian).
 
-3. Applications for licences. 4. Duration of validity of motor vehicle licence. 4A. Licences renewed after expiry. 5. Registration. 6. Certificate of registration. 7. Transfer of vehicle. 8. Change of character or use. 9. Notification of alteration to vehicle. 10. Notification of destruction or permanent export. 11. Cancellation of registration. 11A. Vehicles to which the End-of life Rules 2004 apply. 12. Exhibition of licence on vehicle. 13. Alteration of licence, etc. 14. Application for duplicate licence or certificate of registration. 15. Surrender of licence. 16. Exhibition of registration marks. 16A. Exhibition of Registration Marks for motor vehicles registered after 6 September 2001. 16AA. Exhibition of registration marks - classic motor vehicles. 16AB. Registration marks in International traffic. 16B. Voluntary change of style of licence plate. 16C. Register of vehicle licence-plate suppliers. 16D. No further marks. 17. Distinguishing sign for vehicles taken abroad. 17A. Deleted. 17B. In order to be entitled to the benefits of the Convention of 1968, a motor vehicle…. 18. Exhibition of registration marks on trailers. 19. Illumination of registration marks. 20. Vehicles belonging to bona fide visitors. 21. Vehicles to be exported from Gibraltar.
+3. Applications for licences. 4. Duration of validity of motor vehicle licence. 4A. Licences renewed after expiry. 5. Registration. 6. Certificate of registration. 7. Transfer of vehicle. 8. Change of character or use. 9. Notification of alteration to vehicle. 10. Notification of destruction or permanent export. 11. Cancellation of registration. 11A. Vehicles to which the End-of life Rules 2004 apply. 12. Exhibition of licence on vehicle. 13. Alteration of licence, etc. 14. Application for duplicate licence or certificate of registration. 15. Surrender of licence. 16. Exhibition of registration marks. 16A. Exhibition of Registration Marks for motor vehicles registered after 6 September 2001, until IP completion day. 16AZ. Exhibition of registration marks for motor vehicles registered after IP completion day 16AA. Exhibition of registration marks - classic motor vehicles. 16AB. Registration marks in International traffic. 16B. Voluntary change of style of licence plate. 16C. Register of vehicle licence-plate suppliers. 16D. No further marks. 17. Distinguishing sign for vehicles taken abroad. 17A. Deleted. 17B. In order to be entitled to the benefits of the Convention of 1968, a motor vehicle…. 18. Exhibition of registration marks on trailers. 19. Illumination of registration marks. 20. Vehicles belonging to bona fide visitors.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 21A. Issue of licence and registration of vehicle to be exported from Gibraltar. 22. Vehicles brought temporarily into Gibraltar. 22A. Vehicles brought temporarily into Gibraltar from Spain. 22B. Road vehicles (lorries, tractors trailers or semi-trailers) routed in combined…. 23. General penalty. 24. Delegation. 25. Waiver for vehicles in transit from Spain. 26. Waiver for vehicles of visiting warships. 26A. Waiver for special events or purposes.
+Subsidiary [1958.03.06] 21. Vehicles to be exported from Gibraltar. 21A. Issue of licence and registration of vehicle to be exported from Gibraltar. 22. Vehicles brought temporarily into Gibraltar. 22A. Vehicles brought temporarily into Gibraltar from Spain. 22B. Road vehicles (lorries, tractors trailers or semi-trailers) routed in combined…. 23. General penalty. 24. Delegation. 25. Waiver for vehicles in transit from Spain. 26. Waiver for vehicles of visiting warships. 26A. Waiver for special events or purposes.
 
 Motor Vehicles (Services ).
 
@@ -82,13 +86,13 @@ PART IV. Repealed
 
 PART V. DRIVING LICENCES.
 
-65.  Application for driving test. 66. Notice of appointment. 67.  Applicant to provide vehicle.
+65.  Application for driving test. 66. Notice of appointment.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 68.  Conditions to be satisfied: motor vehicles. 69.  Revoked 70. Revoked 70A. Conditions for passing driving test. 71. Conditions to be satisfied for public service vehicles. 72. Endorsement and transmission of applications and issue of certificates of competency.
+Subsidiary [1958.03.06] 67.  Applicant to provide vehicle. 68.  Conditions to be satisfied: motor vehicles. 69.  Revoked 70. Revoked 70A. Conditions for passing driving test. 71. Conditions to be satisfied for public service vehicles. 72. Endorsement and transmission of applications and issue of certificates of competency.
 
 PHYSICAL AND MENTAL FITNESS
 
@@ -96,9 +100,7 @@ PHYSICAL AND MENTAL FITNESS
 
 ISSUE OF DRIVING LICENCES
 
-79. Issue of driving licences. 79A. Community member state driving licences.
-
-80. Form of driving licence. 80A.  Driving licence may include a storage medium. 81. Sufferers from epilepsy. 82. Physically disabled persons. 83. Fees.
+79. Issue of driving licences. 79A. Exchange of relevant state driving licences. 80. Form of driving licence. 80A.  Driving licence may include a storage medium. 81. Sufferers from epilepsy. 82. Physically disabled persons. 83. Fees.
 
 LEARNERS AND VISITORS
 
@@ -108,13 +110,11 @@ PART VI. LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES.
 
 88 to 92. Revoked. 93. Forms.
 
-PART VII.
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] ADVANCED DRIVING CERTIFICATE.
+Subsidiary [1958.03.06] PART VII. ADVANCED DRIVING CERTIFICATE.
 
 94. Advanced driving certificates. 94A. Written test for the purposes of regulation 94(2)(f).
 
@@ -140,21 +140,23 @@ SCHEDULE 2. Fees.
 
 SCHEDULE 3. Requirements as to Registration Marks.
 
-SCHEDULE 3A. Illustrated Requirements as to Registration Marks
-
-SCHEDULE 4.
+SCHEDULE 3A. VEHICLES FIRST REGISTERED ON OR AFTER 6 SEPTEMBER 2001 AND UNTIL IP COMPLETION DAY
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] Distinguishing Sign of Vehicles in International Traffic.
+Subsidiary [1958.03.06]
+
+SCHEDULE 3B. VEHICLES FIRST REGISTERED ON OR AFTER IP COMPLETION DAY
+
+SCHEDULE 4. Distinguishing Sign of Vehicles in International Traffic.
 
 SCHEDULE 4A MINIMUM STANDARDS OF PHYSICAL AND MENTAL FITNESS FOR DRIVING A POWER-DRIVEN VEHICLE
 
 SCHEDULE 4B. Knowledge, Skill And Behaviour For Driving A Power Driven Vehicle
 
-Schedule 4C Provisions concerning the European Union model driving licence
+SCHEDULE 4C Provisions concerning the European Union model driving licence (including the United Kingdom and Gibraltar until IP completion day)
 
 SCHEDULE 5. Visitors’ Driving Permits.
 

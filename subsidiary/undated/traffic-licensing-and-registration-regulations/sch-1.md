@@ -4,7 +4,7 @@ FORMS
 
 List of Forms
 
-1. Application for a Motor Vehicle Licence. 2. Certificate of Lawful Importation. 3. Revoked. 4. Particulars to be contained in a register of motor vehicles. 5. Application for registration of a motor vehicle on transfer. 6. Notification of change of possession of motor vehicle. 7. Return of services vehicles. 8. Revoked. 9. Revoked. 10. Revoked. 11. Revoked. 12. Application for a Dealer’s Licence. 13. Dealer’s Licence. 14. Dealer’s record book. 15. Revoked. 16. Revoked. 17. Application for licence for self-drive car. 18. Application for a driving test. 19. Medical certificate. 20. Application for Gibraltar driving licence in exchange for a driving licence licence issued by a member State of the European Community. 21. Application for a learner’s licence. 22. Learner’s licence. 23. Certificate of competence. 24. Revoked. 25. Application for duplicate motor vehicle licence, certificate of registration, licence for a horse drawn vehicle or driving licence. 26. Application for advanced driving certificate. 27. Advanced driving certificate. 28. Application for an international driving permit.
+1. Application for a Motor Vehicle Licence. 2. Certificate of Lawful Importation. 3. Revoked. 4. Particulars to be contained in a register of motor vehicles. 5. Application for registration of a motor vehicle on transfer. 6. Notification of change of possession of motor vehicle. 7. Return of services vehicles. 8. Revoked. 9. Revoked. 10. Revoked. 11. Revoked. 12. Application for a Dealer’s Licence. 13. Dealer’s Licence. 14. Dealer’s record book. 15. Revoked. 16. Revoked. 17. Application for licence for self-drive car. 18. Application for a driving test. 19. Medical certificate. 20. Application for Gibraltar driving licence in exchange for a driving licence issued by a relevant state. 21. Application for a learner’s licence. 22. Learner’s licence. 23. Certificate of competence. 24. Revoked. 25. Application for duplicate motor vehicle licence, certificate of registration, licence for a horse drawn vehicle or driving licence. 26. Application for advanced driving certificate. 27. Advanced driving certificate. 28. Application for an international driving permit.
 
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
@@ -130,7 +130,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] FORM 5.
+Subsidiary [1958.03.06]
+
+FORM 5.
 
 Regulation 7(1)
 
@@ -154,6 +156,12 @@ Dated this. . . . . . . . . . ., day of . . . . . . . . . . . 20. . . .
 
 (a) Name of former owner in capital letters (b) Full name in capital letters (c) Address (d) Registration mark. _______________
 
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
+
 FORM 6
 
 Regulation 7(1).
@@ -168,17 +176,19 @@ Take notice that on the (a) . . . . . . . . . . .
 
 I (b) . . . . . . . . . . . transferred the possession of motor vehicle (c) . . . . . . . . . . . to (d) . . . . . . . . . . .
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] I enclose herewith the certificate of registration, the motor vehicle licence and the international certificate (if any) for the vehicle.
+I enclose herewith the certificate of registration, the motor vehicle licence and the international certificate (if any) for the vehicle.
 
 Dated this. . . . . . . . . . .day of. . . . . . . . . . . 20. . . . .
 
 (Signature) . . . . . . . . . . . Informant.
 
 (a) Date of transfer (b) Name (c) Registration mark (d) Full name and address of transferee in capital letters. ______________
+
+Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
+
+2005-26
+
+Subsidiary [1958.03.06]
 
 FORM 7.
 
@@ -212,7 +222,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] FORM 12.
+Subsidiary [1958.03.06]
+
+FORM 12.
 
 Regulation 45.
 
@@ -260,7 +272,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] FORM 14.
+Subsidiary [1958.03.06]
+
+FORM 14.
 
 Regulation 46(9).
 
@@ -276,13 +290,13 @@ Date Description of vehicle (make and chassis number or other sufficient descrip
 
 Registration mark used on vehicle Name and address of driver Purpose for which vehicle was used From To
 
+FORM  15 and 16. Revoked.
+
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
 Subsidiary [1958.03.06]
-
-FORM  15 and 16. Revoked.
 
 FORM 17. Regulation 50.
 
@@ -448,7 +462,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] FORM 19.
+Subsidiary [1958.03.06]
+
+FORM 19.
 
 Regulation 78
 
@@ -474,9 +490,11 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] FORM 20. Regulation 79A
+Subsidiary [1958.03.06]
 
-APPLICATION FOR A GIBRALTAR DRIVING LICENCE IN EXCHANGE FOR A DRIVING LICENCE ISSUED BY A MEMBER STATE OF THE EUROPEAN COMMUNITY.
+FORM 20. Regulation 79A
+
+APPLICATION FOR GIBRALTAR DRIVING LICENCE IN EXCHANGE FOR A DRIVING LICENCE ISSUED BY A RELEVANT STATE.
 
 TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
 
@@ -512,7 +530,9 @@ Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] (i) epilepsy, seizures, fainting or any  mental illness or defect . . . . . . . . . . . . . . .
+Subsidiary [1958.03.06]
+
+(i) epilepsy, seizures, fainting or any  mental illness or defect . . . . . . . . . . . . . . .
 
 (ii) or any other disability or medical condition which could affect your fitness as a driver either now or in the future  . . . . . . . . . . . . . . .,if the answer to either question is YES  give details . . . . . . . . . . . . . . .
 
@@ -542,13 +562,11 @@ Date . . . . . . . . . . . . . . .
 
 A. A business, club or hotel address cannot be accepted unless you live there permanently.
 
-B. Driving or attempting to drive while under the influence of drink  or drugs.
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] B. Driving or attempting to drive while under the influence of drink  or drugs.
 
 Driving or attempting to drive with an excess of alcohol in the body.
 
