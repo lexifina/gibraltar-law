@@ -1,0 +1,7 @@
+SCHEDULE 3
+
+Regulation 2
+
+CORRESPONDENCE TABLE FOR THE REFERENCES TO CERTAIN CATEGORIES  OF DRIVING LICENCES
+
+Reference in these Regulations Reference in the Traffic Act 2005 C + E CE C1 + E C1E D + E DE D1 + E D1E

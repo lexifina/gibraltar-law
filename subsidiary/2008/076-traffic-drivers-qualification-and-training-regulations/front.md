@@ -1,20 +1,14 @@
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
+Subsidiary Legislation made under ss.57 and 101.
 
-2005-26
+Traffic (Drivers’ Qualification and Training) Regulations 2008
 
-Subsidiary 2008/076 Subsidiary Legislation made under s. 57 and 101.
-
-TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-(LN. 2008/076)
+LN.2008/076
 
 Commencement 25.9.2008*
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date LN. 2013/194 Sch. 2 1.7.2013 2020/190 rr. 2(3), 3(2)(b), (d)-(h), (2A), 8(1)-(3), 10(1)(a), 11(4)-(6), Schs.1-3
 
-LN.  2013/194 Sch. 2 1.7.2013 2020/190 rr. 2(3), 3(2)(b), (d)-(h), (2A), 8(1)- (3), 10(1)(a), 11(4)-(6), Sch. 1-3
-
-23.5.2020 2020/540 rr. 11(4), Sch.1 24.12.2020
+23.5.2020 2020/540 rr. 11(4), Sch.1 24.12.2020 “ rr. 2(1), 3(1), 10(1)(b)-(c), 11, (2), Sch.2 1.1.2021
 
 Transposing:
 
@@ -22,27 +16,19 @@ Directive 2003/59/EC Directive 2013/22/EU Directive (EU) 2018/645
 
 * See regulation 1(2)(b) for commencement application regards the initial qualification required to drive vehicles in licence categories C1, C1+E, C and C+E.
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. Scope. 4. Acquired rights. 5. Qualification and training. 6. Initial qualification. 7. CPC certifying the initial qualification. 8. Periodic training. 9. CPC certifying periodic training. 10. Place of training. 11. Community code. 12. Schedules.
+1. Title and commencement. 2. Interpretation. 3. Scope. 4. Acquired rights. 5. Qualification and training. 6. Initial qualification. 7. CPC certifying the initial qualification. 8. Periodic training. 9. CPC certifying periodic training. 10. Place of training. 11. Code. 12. Schedules.
 
 SCHEDULE 1 MINIMUM QUALIFICATION AND TRAINING REQUIREMENTS
 
-SCHEDULE 2 ARRANGEMENTS FOR THE EUROPEAN COMMUNITIES MODEL FOR A DRIVER QUALIFICATION CARD
+SCHEDULE 2 ARRANGEMENTS FOR THE EUROPEAN UNION MODEL FOR A DRIVER QUALIFICATION CARD (INCLUDING THE UNITED KINGDOM AND GIBRALTAR UNTIL IP COMPLETION DAY)
 
-SCHEDULE 3 CORRESPONDENCE TABLE FOR THE REFERENCES TO CERTAIN CATEGORIES  OF DRIVING LICENCES
+SCHEDULE 3 CORRESPONDENCE TABLE FOR THE REFERENCES TO CERTAIN CATEGORIES OF DRIVING LICENCES
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076 In exercise of the powers conferred on the Government by sections 57 and 101 of the Traffic Act 2005, and in order to transpose into the law of Gibraltar Directive 2003/59/EC of the European Parliament and of the Council of 15 July 2003 on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers, amending Council Regulation (EEC) No 3820/85 and Council Directive 91/439/EEC and repealing Council Directive 76/914/EEC, as amended by Council Directive 2004/66/EC of 26 April 2004, and Council Directive 2006/103/EC of 20 November 2006, the Government has made the following Regulations–
+In exercise of the powers conferred on the Government by sections 57 and 101 of the Traffic Act 2005, and in order to transpose into the law of Gibraltar Directive 2003/59/EC of the European Parliament and of the Council of 15 July 2003 on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers, amending Council Regulation (EEC) No 3820/85 and Council Directive 91/439/EEC and repealing Council Directive 76/914/EEC, as amended by Council Directive 2004/66/EC of 26 April 2004, and Council Directive 2006/103/EC of 20 November 2006, the Government has made the following Regulations–
 
 Title and commencement.
 
@@ -60,7 +46,7 @@ Interpretation.
 
 “approved training centre” means a training centre approved by the competent authority in accordance with regulations 7 and 8;
 
-“Community code” shall be construed in accordance with regulation 80 of the Traffic (Licensing and Registration) Regulations;
+“Code” shall be construed in accordance with regulation 80 of the Traffic (Licensing and Registration) Regulations;
 
 “competent authority” means the Minister responsible for transport or such person as he may appoint for the purposes of these Regulations;
 
@@ -68,13 +54,11 @@ Interpretation.
 
 “driver qualification card” shall be construed in accordance with regulation 11;
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
+“drivers” shall be construed in accordance with regulation 3;
 
-2005-26
+“EEA state” has the meaning attributed to it in the Interpretation and General Clauses Act; and
 
-Subsidiary 2008/076
-
-“drivers” shall be construed in accordance with regulation 3.
+“relevant state” means the United Kingdom, a member State of the European Union and an EEA State.
 
 (2)  References in these Regulations to categories of licence, are to categories of licence as set out in section 31 of the Act.
 
@@ -82,13 +66,13 @@ Subsidiary 2008/076
 
 Scope.
 
-3.(1)  These Regulations apply to drivers being–
+3.(1)  These Regulations apply to drivers being-
 
-(i) nationals of a Member State; or
+(i) nationals of a relevant state or Gibraltarians;
 
-(ii) nationals of third countries who are employed or used by an undertaking established in Gibraltar or in a Member State,
+(ii) nationals of third countries who are employed or used by an undertaking established in Gibraltar or in a relevant state,
 
-engaged in road transport within the Community, on roads open to the public, using
+engaged in road transport within a relevant state, on roads open to the public using
 
 (a) vehicles for which a driving licence of category C1, C1+E, C or C+E, or a driving licence recognised as equivalent, is required;
 
@@ -101,12 +85,6 @@ engaged in road transport within the Community, on roads open to the public, usi
 (b) vehicles used by, or under the control of, the armed forces, civil defence, the fire service, forces responsible for maintaining public order and emergency ambulance services, when the carriage is undertaken as a consequence of the tasks assigned to those services;
 
 (c) vehicles undergoing road tests for technical development, repair or maintenance purposes, or of new or rebuilt vehicles which have not yet been put into service;
-
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076
 
 (d) vehicles used in states of emergency or assigned to rescue missions including vehicles used in the non-commercial transport of humanitarian aid;
 
@@ -128,12 +106,6 @@ Acquired rights.
 
 (a) drivers who hold a category D1, D1+E, D or D+E licence, or a licence recognised as equivalent, issued no later than 9 September 2008;
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076
-
 (b) drivers who hold a category C1, C1+E, C or C+E licence, or a licence recognised by the competent authority as equivalent, issued no later than 9 September 2009.
 
 Qualification and training.
@@ -152,15 +124,9 @@ and
 
 (2)  Notwithstanding sub-regulation (1), the competent authority may authorise a driver to drive in Gibraltar for a maximum period of three years before obtaining a CPC, when he is undergoing a national vocational training course of at least six months. In the context of this vocational training course, the tests referred to in sub-regulation (1)(a)(i) and (ii) may be completed in stages.
 
-(3)  A driver may, in accordance with section 3 of Schedule 1, in cases referred to in regulation 6(2)(a)(ii) and (b), (3)(a)(i) and (b) as read with (4)(a) and (b), accelerate his initial qualification in a course involving compulsory course attendance and concluding with a test. Upon successful
+(3)  A driver may, in accordance with section 3 of Schedule 1, in cases referred to in regulation 6(2)(a)(ii) and (b), (3)(a)(i) and (b) as read with (4)(a) and (b), accelerate his initial qualification in a course involving compulsory course attendance and concluding with a test. Upon successful completion of the test, the qualification shall be certified by a CPC as provided for in regulation 7(4).
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076 completion of the test, the qualification shall be certified by a CPC as provided for in regulation 7(4).
-
-(4)  The competent authority may exempt drivers who have obtained the certificate of professional competence provided for in paragraph 11 of Schedule 1 to the Transport Act 1998 from the tests referred to in sub- regulations (1) and (3) in the subjects covered by the test provided for in that Schedule.
+(4)  The competent authority may exempt drivers who have obtained the certificate of professional competence provided for in paragraph 11 of Schedule 1 to the Transport Act 1998 from the tests referred to in sub-regulations (1) and (3) in the subjects covered by the test provided for in that Schedule.
 
 Initial qualification.
 
@@ -184,13 +150,9 @@ Initial qualification.
 
 (ii) a vehicle in licence categories D and D+E, provided they hold a CPC as referred to in regulation 7(2) or (3);
 
-(b) from the age of 23, a vehicle in licence categories D and D+E, provided they hold a CPC as referred to in (c) regulation 7(4).
+(b) from the age of 23, a vehicle in licence categories D and D+E, provided they hold a CPC as referred to in
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076
+(c) regulation 7(4).
 
 (4)  The competent authority may authorise drivers of a vehicle in one of the categories set out in–
 
@@ -212,12 +174,6 @@ CPC certifying the initial qualification.
 
 (b) ensure that the courses referred to in paragraph (a) cover all subjects referred to in section 1 of Schedule 1 and that the training concludes with the successful completion of the test provided for in section 2(2.1) of Schedule 1;
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076
-
 (c) itself or an entity designated by it, organise and supervise the test referred to in paragraph (b), in order to check whether, for the aforementioned subjects, the trainee driver has the level of knowledge required in section 1 of Schedule 1,
 
 and upon successful completion of the test, the competent authority or entity, as the case may be, shall issue the driver with a CPC certifying an initial qualification.
@@ -238,11 +194,7 @@ and upon successful completion of the tests, the competent authority or entity, 
 
 (c) ensure that the test referred to in paragraph (b) serves to check whether, for the aforementioned subjects, the trainee driver has the level of knowledge required in section 1 of Schedule 1,
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076 and upon successful completion of the test, the competent authority or entity, as the case may be, shall issue the driver with a CPC certifying an accelerated initial qualification.
+and upon successful completion of the test, the competent authority or entity, as the case may be, shall issue the driver with a CPC certifying an accelerated initial qualification.
 
 Periodic training.
 
@@ -266,19 +218,13 @@ CPC certifying periodic training.
 
 (a) holders of a CPC as referred to in regulation 7, within five years of the issue of that CPC;
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076
-
 (b) the drivers referred to in regulation 4, within five years of the respective dates referred to in regulation 1(2) in accordance with such timetable as the competent authority may see fit to impose.
 
-(3)  The competent authority may reduce or extend the periods of time referred to in sub-regulation (2), inter alia, so that they coincide with the date of expiry of the driving licence or so as to ensure the gradual introduction of periodic training, but the period may not, however, be shorter than three years or longer than seven years.
+(3)  The competent authority may reduce or extend the periods of time referred to in sub- regulation (2), inter alia, so that they coincide with the date of expiry of the driving licence or so as to ensure the gradual introduction of periodic training, but the period may not, however, be shorter than three years or longer than seven years.
 
-(4)  A driver who has completed a first course of periodic training as referred to in sub-regulation (2) shall undergo periodic training every five years, before the end of the period of validity of the CPC certifying periodic training.
+(4)  A driver who has completed a first course of periodic training as referred to in sub- regulation (2) shall undergo periodic training every five years, before the end of the period of validity of the CPC certifying periodic training.
 
-(5)  Holders of the CPC as referred to in regulation 7 or the CPC as referred to in sub-regulation (1) and the drivers referred to in regulation 4 who have ceased pursuit of the occupation and do not meet the requirements of this regulation shall undergo a course of periodic training before resuming pursuit of the occupation.
+(5)  Holders of the CPC as referred to in regulation 7 or the CPC as referred to in sub- regulation (1) and the drivers referred to in regulation 4 who have ceased pursuit of the occupation and do not meet the requirements of this regulation shall undergo a course of periodic training before resuming pursuit of the occupation.
 
 (6)  Drivers undertaking the carriage of goods or passengers by road who have completed courses of periodic training for one of the licence categories provided for in regulation 6(2) and (3) shall be exempt from the obligation to undergo further periodic training for another of the categories provided for in those sub-regulations.
 
@@ -288,17 +234,13 @@ Place of training.
 
 (a) in regulation 3(1)(i) whose normal residence, as defined in Article 12 of Directive 2006/126/EC, is in Gibraltar shall obtain the initial qualification referred to in regulation 6 in Gibraltar;
 
-(b) in regulation 3(1)(ii) shall obtain the initial qualification referred to in regulation 6 in the place where the undertaking is established or which issued a work permit to them, be it Gibraltar or a Member State;
+(b) in regulation 3(1)(ii) shall obtain the initial qualification referred to in regulation 6 in the place where the undertaking is established or which issued a work permit to them, be it Gibraltar or a relevant state;
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
+(c) in regulation 3(1)(i) and (ii) shall undergo the periodic training referred to in regulation 8 in the place where they have their normal residence or in which they work, be it Gibraltar or a relevant state.
 
-2005-26
+Code.
 
-Subsidiary 2008/076 (c) in regulation 3(1)(i) and (ii) shall undergo the periodic training referred to in regulation 8 in the place where they have their normal residence or in which they work, be it Gibraltar or a Member State.
-
-Community code.
-
-11.(1)  On the basis of the CPC referred to in regulation 7 and the CPC referred to in regulation 9(1), there shall be marked, taking into account the provisions of regulation 6(2) and (3) and regulation 9, Community code 95, as provided for in regulation 80 of the Traffic (Licensing and Registration) Regulations, alongside the corresponding categories of licence–
+11.(1)  On the basis of the CPC referred to in regulation 7 and the CPC referred to in regulation 9(1), there shall be marked, taking into account the provisions of regulation 6(2) and (3) and regulation 9, Code 95, as provided for in regulation 80 of the Traffic (Licensing and Registration) Regulations, alongside the corresponding categories of licence–
 
 (a) on the driving licence; or
 
@@ -306,29 +248,19 @@ Community code.
 
 as the competent authority sees fit.
 
-(2)  Driver qualification cards issued by Member States in accordance with provisions in their domestic legislation equivalent to these Regulations shall be recognised by the competent authority as conferring on the holders the same rights and privileges as driver qualification cards issued under these Regulations.
+(2)  Driver qualification cards issued by relevant states in accordance with provisions in their domestic legislation equivalent to these Regulations shall be recognised by the competent authority as conferring on the holders the same rights and privileges as driver qualification cards issued under these Regulations.
 
 (3)  Upon the issue of a driver qualification card, the competent authority shall check the validity of the driving licence whose number is mentioned on the card.
 
-(4)  A driver referred to in regulation 3(1)(ii) who drives a vehicle used for the carriage of goods by road shall prove to the competent authority that he has the qualification and training provided for in these Regulations by means of the driver's attestation’provided for in Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market provided that it bears the Community code 95.
+(4)  A driver referred to in regulation 3(1)(ii) who drives a vehicle used for the carriage of goods by road shall prove to the competent authority that he has the qualification and training provided for in these Regulations by means of the driver's attestation’provided for in Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market provided that it bears the Code 95.
 
-(5)  For the purposes of these Regulations, the competent authority shall indicate the Community code 95 in the remarks section of the attestation if the driver concerned has fulfilled the qualification and training requirements provided for in these Regulations.
+(5)  For the purposes of these Regulations, the competent authority shall indicate the Code 95 in the remarks section of the attestation if the driver concerned has fulfilled the qualification and training requirements provided for in these Regulations.
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076 (6)  Driver attestations that do not bear the Community code 95 and that were issued before 23 May 2020 in accordance with Article 5 of Regulation (EC) No 1072/2009 with a view to certifying compliance under these Regulations shall be accepted as a proof of qualification until their date of expiry.
+(6)  Driver attestations that do not bear the Code 95 and that were issued before 23 May 2020 in accordance with Article 5 of Regulation (EC) No 1072/2009 with a view to certifying compliance under these Regulations shall be accepted as a proof of qualification until their date of expiry.
 
 Schedules.
 
 12.  The Schedules shall have effect.
-
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076
 
 SCHEDULE 1 Regulations 5, 12
 

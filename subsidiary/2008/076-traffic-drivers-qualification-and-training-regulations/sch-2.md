@@ -1,6 +1,8 @@
-SCHEDULE 2 Regulations 11, 12
+SCHEDULE 2 (regulations 11 and 12)
 
-ARRANGEMENTS FOR THE EUROPEAN COMMUNITIES MODEL FOR A DRIVER QUALIFICATION CARD
+PART A
+
+ARRANGEMENTS FOR THE EUROPEAN UNION MODEL FOR A DRIVER QUALIFICATION CARD (INCLUDING THE UNITED KINGDOM AND GIBRALTAR UNTIL IP COMPLETION DAY)
 
 1.  The physical characteristics of the card must comply with ISO standards 7810 and 7816-1.
 
@@ -10,19 +12,15 @@ The methods for verifying the physical characteristics of the card to ensure tha
 
 Side 1 contains:
 
-(a) the heading “driver qualification card” printed in large type in the official language or languages of the Member State issuing the card;
+(a) the heading “driver qualification card” printed in large type in the official language or languages of the relevant state issuing the card;
 
-(b) the name of the Member State issuing the card (optional) and, in the case of Gibraltar, the word “Gibraltar” appearing immediately below it in the same size, print and font;
+(b) the name of the relevant state issuing the card (optional) and, in the case of Gibraltar, the word “Gibraltar” appearing immediately below it in the same size, print and font;
 
-(c) the distinguishing sign of the Member State issuing the card, printed in negative in a blue rectangle and encircled by 12 yellow stars; the distinguishing signs are as follows
+(c) the distinguishing sign of the relevant state issuing the card, printed in negative in a blue rectangle and encircled by 12 yellow stars; the distinguishing signs are as follows
 
-B : Belgium BG : Bulgaria CZ : The Czech Republic DK : Denmark D : Germany EST : Estonia GR : Greece E : Spain F : France HR : Croatia IRL : Ireland I : Italy CY : Cyprus LV : Latvia
+B : Belgium BG : Bulgaria CZ : The Czech Republic DK : Denmark D : Germany EST : Estonia GR : Greece E : Spain F : France HR : Croatia IRL : Ireland I : Italy CY : Cyprus
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076 LT : Lithuania L : Luxembourg H : Hungary M : Malta NL : The Netherlands A : Austria PL : Poland P : Portugal RO : Romania SLO : Slovenia SK : Slovakia FIN : Finland S : Sweden UK                      : The United Kingdom (also being the distinguishing sign for the purposes of cards issued by Gibraltar given that the United Kingdom is the Member State responsible for Gibraltar’s external affairs);
+LV : Latvia LT : Lithuania L : Luxembourg H : Hungary M : Malta NL : The Netherlands A : Austria PL : Poland P : Portugal RO : Romania SLO : Slovenia SK : Slovakia FIN : Finland S : Sweden UK : The United Kingdom (also being the distinguishing sign for the purposes of cards issued by Gibraltar given that the United Kingdom is the Member State responsible for Gibraltar’s external affairs);
 
 (d) information specific to the card, numbered as follows
 
@@ -32,31 +30,27 @@ Subsidiary 2008/076 LT : Lithuania L : Luxembourg H : Hungary M : Malta NL : The
 
 3. date and place of birth of the holder;
 
-4. (a) date of issue;
+4.  (a) date of issue;
 
 (b) date of expiry;
 
 (c) the name of the issuing authority (may be printed on side 2), being, in the case of Gibraltar, the Government of Gibraltar;
 
-(d) a different number from the driving licence number for administrative purposes (optional); 5.         (a) driving licence number;
+(d) a different number from the driving licence number for administrative purposes (optional);
+
+5. (a) driving licence number;
 
 (b) serial number;
 
 6. photograph of the holder;
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/076
-
 7. signature of the holder;
 
 8. normal place of residence, or postal address of the holder (optional);
 
-9. the categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
+9. the (sub)categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
 
-(e) the title “European Union model” in the language or languages of the Member State issuing the card and the heading “driver qualification card” in the other official languages of the Union, printed in blue so as to form the background to the card:
+(e) the title “European Union model” in the language or languages of the relevant state issuing the card (and for the purposes of this section, Gibraltar is included in the definition of relevant state) and the heading “driver qualification card” in the other official languages of the EEA, printed in blue so as to form the background to the card:
 
 tarjeta de cualificación del conductor
 
@@ -106,17 +100,15 @@ yrkeskompetensbevis för förare;
 
 (f) the reference colours
 
-- blue : Pantone Reflex blue, - yellow : Pantone yellow;
+- blue : Pantone Reflex blue,
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
+- yellow : Pantone yellow;
 
-2005-26
-
-Subsidiary 2008/076 Side 2 contains:
+Side 2 contains:
 
 (a) 9. the categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
 
-10. the harmonised Union code, “95”, provided for in Annex I to Directive 2006/126/EC;
+10. the harmonised Union Code “95” provided for in Annex 1 to Directive 2006/126/EC;
 
 11. a space reserved for the possible entry of essential administrative details or details relating to road safety (optional). If the details relate to a heading set out in this Schedule, such details must be preceded by the corresponding heading number;
 
@@ -132,22 +124,82 @@ The competent authority must ensure that the level of security of the card is at
 
 4.  Particular arrangements.
 
-After consulting the Commission, the competent authority may add colours or markings, such as a bar code, national symbols and security features, without prejudice to the other provisions of this Schedule.
+The competent authority may add colours or markings, such as a bar code, national symbols and security features, without prejudice to the other provisions of this Schedule.
 
 In connection with the mutual recognition of cards, the bar code may not contain any information other than that already legibly appearing on the driver qualification card or which is essential for the card-issuing process.
 
-5.  Transitional Provisions.
+5.  Transitional Provisions
 
 Driver qualification cards issued before 23 May 2020 shall be valid until their date of expiry.
 
-Traffic TRAFFIC (DRIVERS’ QUALIFICATION AND TRAINING) REGULATIONS 2008
+PART B
 
-2005-26
+ARRANGEMENTS FOR THE MODEL FOR A DRIVER QUALIFICATION CARD FOR THE UNITED KINGDOM AND GIBRALTAR AFTER IP COMPLETION DAY
 
-Subsidiary 2008/076 SCHEDULE 3
+(regulations 11 and 12)
 
-Regulation 2
+1.  The physical characteristics of the card must comply with ISO standards 7810 and 7816-1.
 
-CORRESPONDENCE TABLE FOR THE REFERENCES TO CERTAIN CATEGORIES  OF DRIVING LICENCES
+The methods for verifying the physical characteristics of the card to ensure that they are consistent with international standards must comply with ISO standard 10373.
 
-Reference in these Regulations Reference in the Traffic Act 2005 C + E CE C1 + E C1E D + E DE D1 + E D1E
+2.  The card has two sides
+
+Side 1 contains:
+
+(a) the heading “driver qualification card” printed in large type in English;
+
+(b) “UK” and, in the case of Gibraltar, the word “Gibraltar” appearing immediately below it in the same size, print and font;
+
+(c) the distinguishing sign of the United Kingdom or Gibraltar; the distinguishing signs are as follows
+
+UK : The United Kingdom GBZ : Gibraltar
+
+(d) information specific to the card, numbered as follows
+
+1. surname of the holder;
+
+2. first name of the holder;
+
+3. date and place of birth of the holder;
+
+4. (a) date of issue;
+
+(b) date of expiry;
+
+(c) the name of the issuing authority (may be printed on side 2), being, in the case of Gibraltar, the Government of Gibraltar;
+
+(d) a different number from the driving licence number for administrative purposes (optional);
+
+5. (a) driving licence number;
+
+(b) serial number;
+
+6. photograph of the holder;
+
+7. signature of the holder;
+
+8. normal place of residence, or postal address of the holder (optional);
+
+9. the (sub)categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
+
+Side 2 contains:
+
+(a) 9. the (sub)categories of vehicles for which the driver satisfies the initial qualification and periodic training requirements;
+
+10. the Code provided for in regulation 11;
+
+11. a space reserved for the possible entry of essential administrative details or details relating to road safety (optional). If the details relate to a heading set out in this Schedule, such details must be preceded by the corresponding heading number;
+
+(b) an explanation of the numbered entries appearing on sides 1 and 2 of the card (at least headings 1, 2, 3, 4(a), 4(b), 4(c), 5(a), 5(b) and 10).
+
+3.  Security, including data protection.
+
+The aim of the various constituent parts of the card is to rule out any forgery or tampering and to detect any attempts to do so.
+
+The competent authority must ensure that the level of security of the card is at least comparable to the level of security of the driving licence.
+
+4.  Particular arrangements.
+
+The competent authority may add colours or markings, such as a bar code, national symbols and security features, without prejudice to the other provisions of this Schedule.
+
+In connection with the mutual recognition of cards, the bar code may not contain any information other than that already legibly appearing on the driver qualification card or which is essential for the card-issuing process.
