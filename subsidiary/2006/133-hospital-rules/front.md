@@ -1,24 +1,16 @@
-Medical and Health HOSPITAL RULES 2006
+Subsidiary Legislation made under s.59.
 
-1997-25
+Hospital Rules 2006
 
-Subsidiary 2006/133 Subsidiary Legislation made under s. 59.
+LN.2006/133
 
-HOSPITAL RULES 2006
-
-(LN. 2006/133)
-
-Commencement 1.2.2007 (LN. 2007/021)
+Commencement (LN.2007/021) 1.2.2007
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2011/128 rr. 3A, 6(7) & Sch. 1 1.9.2011 2012/164 Sch. 1 22.11.2012 Act. 2017-12 rr. 2, 3, 6, 8, 9, 10, 11 20.7.2017 LN. 2017/207 Sch.1 01.11.2017 2017/221 rr. 4, 4(1) – (4) 9.11.2017 2019/015 r. 2(a) 31.1.2019
+LN. 2011/128 rr. 3A, 6(7), Sch.1 1.9.2011 2012/164 Sch.1 22.11.2012 Act. 2017-12 rr. 2-3, 6, 8-11 20.7.2017 LN. 2017/207 Sch.1 01.11.2017 2017/221 r. 4, (1)-(4) 9.11.2017 2019/015 r. 2(a) 31.1.2019 2020/555 r. 2 1.1.2021
 
-Medical and Health HOSPITAL RULES 2006
-
-1997-25
-
-Subsidiary 2006/133 ARRANGEMENT OF RULES
+ARRANGEMENT OF RULES
 
 Rule
 
@@ -30,8 +22,4 @@ SCHEDULE 2
 
 SCHEDULE 3
 
-Medical and Health HOSPITAL RULES 2006
-
-1997-25
-
-Subsidiary 2006/133 In exercise of the powers conferred on him by section 59 of the Medical and Health Act 1997 and all other enabling powers, the Minister for Health has made the following Rules.
+In exercise of the powers conferred on him by section 59 of the Medical and Health Act 1997 and all other enabling powers, the Minister for Health has made the following Rules.
