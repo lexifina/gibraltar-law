@@ -8,7 +8,13 @@ LN.2020/043
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/497 rr. 3(b)-(c), 4, 6(2)(c), (3)(b), 7(2)(f), (4), (5)(c), (9), 8(5)-(6), 13(7)(e), (11), 14, 15(3), 16(2)(b), 18(1), 20(2), (a)-(b), (9)(a), 21(1)(c)-(d), (4A), 23(1), 28
+
+1.1.2021
+
+2019-26 Financial Services 2020/043 FINANCIAL SERVICES (PAYMENT ACCOUNTS) REGULATIONS 2020
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -24,13 +30,13 @@ PART 2 PAYMENT ACCOUNTS: COMPARABILITY OF FEES
 
 PART 3 SWITCHING SERVICE
 
-12. Provision of switching service. 13. Switching service. 14. Facilitating cross-border account-opening for consumers. 15. Switching service fees. 16. Switching: consumer financial losses. 17. Information about switching service.
-
-2019-26 Financial Services 2020/043 FINANCIAL SERVICES (PAYMENT ACCOUNTS) REGULATIONS 2020
+12. Provision of switching service. 13. Switching service. 14. Omitted. 15. Switching service fees. 16. Switching: consumer financial losses. 17. Information about switching service.
 
 PART 4 PAYMENT ACCOUNTS
 
 18. Non-discrimination. 19. Designated credit institutions. 20. Eligibility for basic payment account. 21. Basic payment accounts. 22. Associated fees. 23. Framework contracts and termination. 24. General information on basic payment accounts.
+
+Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT ACCOUNTS) REGULATIONS 2020 2020/043
 
 PART 5 ENFORCEMENT AND SANCTIONS
 
@@ -38,12 +44,12 @@ PART 5 ENFORCEMENT AND SANCTIONS
 
 PART 6 MISCELLANEOUS
 
-28.       Evaluation.
+28. Omitted.
 
 PART 7 REVOCATION
 
 29. Revocation of 2016 Regulations.
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT ACCOUNTS) REGULATIONS 2020 2020/043
+2019-26 Financial Services 2020/043 FINANCIAL SERVICES (PAYMENT ACCOUNTS) REGULATIONS 2020
 
 In exercise of the powers conferred upon the Minister by sections 150(1), 620(1) and 621(1) of the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and upon the Government by section 23(g)(ii) of that Act, the Minister and the Government have made these Regulations.
