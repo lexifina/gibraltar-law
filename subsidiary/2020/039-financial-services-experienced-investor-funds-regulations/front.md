@@ -8,7 +8,13 @@ LN.2020/039
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2021/091 rr. 2, 4(1)(b)(vi), 8(2)(a)-(b), (4), 9(3)(b)(i), 12(1)(a)-(g), (6)
+
+1.1.2021
+
+2019-26 Financial Services 2020/039 FINANCIAL SERVICES (EXPERIENCED INVESTOR FUNDS) REGULATIONS 2020
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -30,15 +36,15 @@ PART 4 OPERATION
 
 General arrangements
 
-9. Arrangements for administration. 10. Management and control. 11. Delegation of functions.
-
-2019-26 Financial Services 2020/039 FINANCIAL SERVICES (EXPERIENCED INVESTOR FUNDS) REGULATIONS 2020
-
-12. Arrangements for safe custody of assets. 13. Arrangements for audit. 14. Name of experienced investor fund. 15. Jurisdiction of Gibraltar courts. 16. Requirement to issue an offer document. 17. Contents of an offer document.
+9. Arrangements for administration. 10. Management and control. 11. Delegation of functions. 12. Arrangements for safe custody of assets. 13. Arrangements for audit. 14. Name of experienced investor fund. 15. Jurisdiction of Gibraltar courts. 16. Requirement to issue an offer document. 17. Contents of an offer document.
 
 Reporting
 
-18. Duties to notify the GFSC. 19. Financial reporting requirements. 20. Annual returns to the GFSC.
+18. Duties to notify the GFSC. 19. Financial reporting requirements.
+
+Financial Services 2019-26 FINANCIAL SERVICES (EXPERIENCED INVESTOR FUNDS) REGULATIONS 2020 2020/039
+
+20. Annual returns to the GFSC.
 
 Supervisory powers
 
@@ -56,6 +62,6 @@ Supplemental
 
 SCHEDULE CONTENTS OF OFFER DOCUMENT
 
-Financial Services 2019-26 FINANCIAL SERVICES (EXPERIENCED INVESTOR FUNDS) REGULATIONS 2020 2020/039
+2019-26 Financial Services 2020/039 FINANCIAL SERVICES (EXPERIENCED INVESTOR FUNDS) REGULATIONS 2020
 
 In exercise of the powers conferred on the Minister by section 24(3)(v) and 339(1) of the Financial Services Act 2019, the Minister has made these Regulations.
