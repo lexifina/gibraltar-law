@@ -10,7 +10,7 @@ Section I: Categories of client who are considered to be professionals
 
 The following shall all be regarded as professionals in all investment services or activities and financial instruments for the purposes of these Regulations.
 
-(1)  Entities which are required to be authorised or regulated to operate in the financial markets. The list below includes all authorised entities carrying out the characteristic activities of the entities mentioned, including entities authorised by an EEA State under a Directive, entities authorised or regulated by an EEA State without reference to a Directive, and entities authorised or regulated by a third country–
+(1)  Entities which are required to be authorised or regulated to operate in the financial markets. The list below includes all authorised entities carrying out the characteristic activities of the entities mentioned, including entities authorised or regulated by a third country–
 
 (a) credit institutions;
 
@@ -62,7 +62,7 @@ Investment firms shall therefore be allowed to treat any of those clients as pro
 
 Any such waiver of the protection afforded by the standard conduct of business regime shall be considered to be valid only if an adequate assessment of the expertise, experience and knowledge of the client, undertaken by the investment firm, gives reasonable assurance, in light of the nature of the transactions or services envisaged, that the client is capable of making investment decisions and understanding the risks involved.
 
-The fitness test applied to managers and directors of entities licensed under Directives in the financial field could be regarded as an example of the assessment of expertise and knowledge. In the case of small entities, the person subject to that assessment shall be the person authorised to carry out transactions on behalf of the entity.
+The fitness test applied to managers and directors of entities with Part 7 permission in the financial field could be regarded as an example of the assessment of expertise and knowledge. In the case of small entities, the person subject to that assessment shall be the person authorised to carry out transactions on behalf of the entity.
 
 In the course of that assessment, as a minimum, two of the following criteria shall be satisfied:
 

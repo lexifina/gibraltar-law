@@ -312,9 +312,9 @@ Disciplinary action.
 
 (c) the reasons for taking that action.
 
-(3)  Where a person appeals against any disciplinary action, the market operator must notify the GFSC of the appeal and its outcome.
-
 Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
+
+(3)  Where a person appeals against any disciplinary action, the market operator must notify the GFSC of the appeal and its outcome.
 
 Offences.
 

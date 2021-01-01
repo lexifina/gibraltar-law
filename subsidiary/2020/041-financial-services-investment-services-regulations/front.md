@@ -12,7 +12,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-126, Sch.2
 
-30.1.2020 2020/118 r. 47(1A) 26.3.2020
+30.1.2020 2020/118 r. 47(1A) 26.3.2020 2020/492 rr. 2, 3(1)-(2), 4(1)(b)-(c), (7), 8(1)-(3), (c)-(d), (4), (c)(i)-(v), (5)-(6), (a)(i), (b)(i), (7)-(10), 9(1)(a)-(d), 11, 12(4)-(6), 15(2), 16(1)-(2), 18(4)(a), 20(4), 23(2), (3)(c), (4), 24(2), 26(2)(a), (3)(c)-(d), 29(1)(a), (9)(b), (10), 30(7)(a), 32(1)(b), (2), 35(1)(a)(iv), (2), (5)-(6), (10)(d)(iii), (14)-(15),(18), 36(9), (19), (21), 37(11), 39(11)(b), 40(8)(a)(iv), (16), 42(15), 43(5), 44(3)(d), (f), (6), 46(9), (12)(a)(i), (18), 47(1)(a)-(b), (3), 48(5), (6)(b), (8), 49(1), 50, 51(1)-(2), (4), 53(9), (19)(h), 54(2), (5), (6)(a), (7), 56(5), 57(1)(b)(iv), (d)(iv), (2)-(3), (5), 58(8), (18), 61(3), (6)-(9), 62(1)(b)(iv), (2)(d), (3)- (4), (6), 63(9)-(10), 66(2)(c)(ii), (e), (g), (6), (9), 67(2), 68(3), (6)(c), (7)-(11), (14), (16), (18), (20)- (21), 69(1)(b), (2)-(4), (6)(c)(i)-(ii), (e), (9), 74(3), 76(1)-(2), 78-98, 99(3)-(4), 101(1), 107(9)-(10), 108-109, 110(2)(c)-(d), 111(4), 114(2), 116-121, 122(3), 123(5), 124, 125(1), Sch.1
+
+1.1.2021
 
 2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
@@ -22,13 +24,13 @@ Regulation
 
 PART 1 PRELIMINARY
 
-1. Title, commencement and saving. 2. Interpretation. 3. Delegated acts relevant to certain exclusions. 4. Application: investment firms, trading venues and others. 5. Application: credit institutions. 6. Application: regulated activities in relation to structured deposits. 7. Application: UCITS management companies and AIFMs. 8. Application: local firms. 9. Exempt persons in respect of investment services and activities.
+1. Title, commencement and saving. 2. Interpretation. 3. Technical standards relevant to certain exclusions. 4. Application: investment firms, trading venues and others. 5. Application: credit institutions. 6. Application: regulated activities in relation to structured deposits. 7. Application: UCITS management companies and AIFMs. 8. Application: restricted firms. 9. Exempt persons in respect of investment services and activities.
 
 PART 2 THRESHOLD CONDITIONS
 
 Chapter 1 General
 
-10. Introduction to Part 2. 11. Consultation with competent authorities before giving permission.
+10. Introduction to Part 2. 11. Omitted.
 
 Chapter 2 Investment firms
 
@@ -124,47 +126,9 @@ PART 6 NOTIFICATION AND REPORTING
 
 2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
-PART 7 FREEDOM OF ESTABLISHMENT AND FREEDOM TO PROVIDE SERVICES
+PART 7 THIRD COUNTRY FIRMS
 
-Chapter 1 EEA firms
-
-78. Application and interpretation of Chapter 1.
-
-Branch etc business
-
-79. EEA firms qualifying for authorisation: branches and tied agents in Gibraltar. 80. Changes to information provided under regulation 79. 81. General responsibilities of GFSC for branches and tied agents. 82. Business of branches and tied agents of EEA firms in Gibraltar.
-
-Services business
-
-83. EEA firms qualifying for authorisation: services. 84. Changes to information provided under regulation 83. 85. Business of EEA firms providing services in Gibraltar.
-
-Chapter 2 Gibraltar firms
-
-86. Application and interpretation of Chapter 2. 87. Extent of Gibraltar firm’s services and activities in an EEA State.
-
-Branch etc business
-
-88. Gibraltar firms: branches and tied agents in an EEA State. 89. Changes to information provided under regulation 88. 90. Business of branches and tied agents of Gibraltar firms in an EEA State.
-
-Services business
-
-91. Gibraltar firms: services in an EEA State. 92. Changes to information provided under regulation 91. 93. Business of Gibraltar firms providing services in an EEA State.
-
-Chapter 3 Access to trading venues and settlement systems
-
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
-Access to trading facilities in an EEA State
-
-94. Facilitating access to MTFs or OTFs operated from an EEA State.
-
-Access to trading facilities in Gibraltar
-
-95. Access to regulated markets in Gibraltar. 96. Facilitating access to MTFs or OTFs operated from Gibraltar. 97. Access to CCP, clearing and settlement systems and right to designate settlement system. 98. CCP, clearing and settlement arrangements for MTFs in Gibraltar.
-
-Chapter 4 Third country firms
-
-99. Requirements applying to third country firm. 100. Services provided at the client’s exclusive initiative.
+78. to 98. Omitted. 99. Requirements applying to third country firm. 100. Services provided at the client’s exclusive initiative.
 
 PART 8 REGULATORY POWERS
 
@@ -174,31 +138,21 @@ Intervention
 
 Sanctions
 
-102. Sanctioning powers. 103. Additional persons subject to powers. 104. Additional power: management prohibition order. 105. Additional power: market participation suspension order. 106. Maximum amounts of administrative penalty. 107. Publication of sanctioning action.
-
-GFSC acting as host State competent authority
-
-108.  Powers as host State competent authority. 109. Precautionary measures as host State competent authority.
+102. Sanctioning powers. 103. Additional persons subject to powers. 104. Additional power: management prohibition order. 105. Additional power: market participation suspension order. 106. Maximum amounts of administrative penalty. 107. Publication of sanctioning action. 108.  Omitted. 109. Omitted.
 
 PART 9 MISCELLANEOUS
 
-110. The Register: investment services and investment activities.
+110. The Register: investment services and investment activities. 111. Application of MiFIR. 112. Codes of practice. 113. Civil proceedings for loss.
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
+Monitoring compliance
 
-111. Application of MiFIR. 112. Codes of practice. 113. Civil proceedings for loss.
-
-Monitoring compliance and notifying ESMA
-
-114. GFSC duties to monitor compliance by investment firms. 115. GFSC duties to monitor compliance by regulated markets. 116. Notifying ESMA: permissions and regulated markets.
-
-Cooperation
-
-117. Cooperation and exchange of information with ESMA. 118. Obligation to cooperate. 119. Cooperation between competent authorities. 120. Refusal to co-operate. 121. Binding mediation. 122. Cooperation agreements with third countries.
+114. GFSC duties to monitor compliance by investment firms. 115. GFSC duties to monitor compliance by regulated markets. 116. to 121 Omitted. 122. Cooperation agreements with third countries.
 
 Confidentiality and exchange of information
 
-123. Professional secrecy. 124. Exchange of information.
+Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
+
+123. Professional secrecy. 124. Omitted.
 
 Conduct of investment services in United Kingdom
 
@@ -208,6 +162,6 @@ SCHEDULE 1 PROFESSIONAL CLIENTS
 
 SCHEDULE 2 NOTIFICATIONS OF EVENTS AND CIRCUMSTANCES
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
+2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 In exercise of the powers conferred on the Minister by sections 6(1), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1), 623 and 627 of, and paragraphs 6 and 7 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
