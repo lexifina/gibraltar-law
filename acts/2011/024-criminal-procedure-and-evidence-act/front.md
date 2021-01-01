@@ -26,7 +26,9 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 23.4.2018 2017-10 s. 358(1)(b)(i), (3) 13.6.2018 2018-29 ss. 77(1), 110(3), 110(3A)-(3B), 117(1), 119(1A), (2)-(5), (7), (9)(b), (11)
 
-24.1.2019 LN. 2019/017 ss. 107(9), 108(1) 31.1.2019 Act. 2018-25 ss. 2(1), 77(1), 84(8), 85(3), 94A, 685(3), Sch. 14 22.2.2019
+24.1.2019 LN. 2019/017 ss. 107(9), 108(1) 31.1.2019 Act. 2018-25 ss. 2(1), 77(1), 84(8), 85(3), 94A, 685(3), Sch. 14 22.2.2019 LN. 2020/511 ss. 144(4A)-(4B), 211(5)-(6), 351(3), 352(1), (4)(c), 371(6)-(7), 376(1A)-(1B), 480(4), (4A), (5)
+
+1.1.2021 2020/521 s. 77(1) 1.1.2021
 
 Transposing: Directive 2010/64/EU Directive 2011/36/EU Decision 2008/675/JHA
 
@@ -328,7 +330,7 @@ Competence and compellability
 
 Convictions and acquittals
 
-349. Admissibility of evidence of previous conviction. 350. Evidence in Magistrates’ Court. 351. Conviction as evidence of commission of offence. 352. Proof of convictions and acquittal in Gibraltar and in Member States of the European Union. 353. Proof of convictions elsewhere. 354. Proof by fingerprints.
+349. Admissibility of evidence of previous conviction. 350. Evidence in Magistrates’ Court. 351. Conviction as evidence of commission of offence. 352. Proof of convictions and acquittals in Gibraltar. 353. Proof of convictions elsewhere. 354. Proof by fingerprints.
 
 Admissions and confessions
 
