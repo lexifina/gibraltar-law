@@ -2,31 +2,13 @@ SCHEDULE 8 Section 33
 
 DESIGNATION OF GFSC AS COMPETENT AUTHORITY
 
-The GFSC is designated as the competent authority under the following EU instruments–
-
-the AIFM Directive;
-
-the Audit Directive;
+1.  The GFSC is designated as the competent authority under the following Regulations as they form part of the law of Gibraltar by virtue of section 6 of the European Union (Withdrawal) Act 2019–
 
 the Benchmarks Regulation;
 
-the Capital Requirements Directive;
-
 the Capital Requirements Regulation;
 
-the Consumer Credit Directive;
-
-the DGS Directive;
-
-the Distance Marketing Directive;
-
 EMIR;
-
-the E-Money Directive;
-
-EUMAR;
-
-EU Prospectus Regulation;
 
 the ELTIF Regulation;
 
@@ -34,17 +16,41 @@ the EUSEF Regulation;
 
 the EuVECA Regulation;
 
-the Insurance Distribution Directive;
-
 the Interchange Fee Regulation;
+
+MiFIR;
+
+the Market Abuse Regulation;
+
+the PRIIP Regulation;
+
+the Prospectus Regulation;
+
+the SFTR Regulation.
+
+2.  The GFSC is designated as the competent authority under the law of Gibraltar which gives effect to the following Directives as they applied immediately before IP completion day–
+
+the AIFM Directive;
+
+the Audit Directive;
+
+the Capital Requirements Directive;
+
+the Consumer Credit Directive;
+
+the DGS Directive;
+
+2019-26 Financial Services
+
+the Distance Marketing Directive;
+
+the E-Money Directive;
+
+the Insurance Distribution Directive;
 
 the Listing Directive;
 
 the MiFID 2 Directive;
-
-MiFIR;
-
-2019-26 Financial Services
 
 the Mortgage Credit Directive;
 
@@ -54,11 +60,7 @@ the Payment Accounts Directive;
 
 the Payment Services Directive;
 
-the PRIIP Regulation;
-
-the Recovery and Resolution Directive ;
-
-the SFTR Regulation;
+the Recovery and Resolution Directive;
 
 the Solvency 2 Directive;
 

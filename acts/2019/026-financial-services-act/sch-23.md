@@ -4,11 +4,11 @@ INVESTMENTS OF UCITS SCHEMES
 
 1.  The transferable securities or other liquid financial assets referred to in section 292(1)(a) in which a UCITS scheme may invest comprise only one or more of the following–
 
-(a) transferable securities and money market instruments admitted to or dealt in on a regulated market;
+(a) transferable securities and money market instruments admitted to or dealt in on a regulated market in Gibraltar;
 
-(b) transferable securities and money market instruments dealt in on another regulated market in an EEA State, which operates regularly and is recognised and open to the public;
+(b) Omitted
 
-(c) transferable securities and money market instruments admitted to official listing on a stock exchange in a third country or dealt in on another regulated market in a third country which operates regularly and is recognised and open to the public provided that–
+(c) transferable securities and money market instruments admitted to official listing on a stock exchange in a country or territory outside Gibraltar or dealt in on another regulated market in a country or territory outside Gibraltar which operates regularly and is recognised and open to the public provided that–
 
 (i) the choice of stock exchange or market has been approved by GFSC; or
 
@@ -16,29 +16,27 @@ INVESTMENTS OF UCITS SCHEMES
 
 (d) recently issued transferable securities, provided that–
 
-(i) the terms of issue include an undertaking that an application will be made for admission to official listing on a stock exchange or to another regulated market which operates regularly and is recognised and open to the public, provided that the choice of stock exchange or market has been approved by the competent authority of an EEA State or is provided for in law or in the UCITS scheme’s fund rules or instruments of incorporation; and
+(i) the terms of issue include an undertaking that an application will be made for admission to official listing on a stock exchange or to another regulated market which operates regularly and is recognised and open to the public, provided that the choice of stock exchange or market has been approved by the GFSC or is provided for in law or in the UCITS scheme’s fund rules or instruments of incorporation; and
 
 (ii) the admission referred to in paragraph (i) is secured within a year of issue;
 
-(e) units of UCITS schemes authorised according to the UCITS Directive or of other collective investment undertakings which fall within the meaning of section 292(1)(a) to (c), whether or not established in an EEA State, provided that–
+(e) units of UCITS schemes or of other collective investment undertakings which fall within the meaning of section 292(1)(a) to (c), provided that–
 
-(i) such other collective investment undertakings are authorised under laws which provide that they are subject to supervision considered by the GFSC to be equivalent to that laid down in European Union law, and that cooperation between authorities is sufficiently ensured;
+(i) such other collective investment undertakings are authorised under laws which provide that they are subject to supervision considered by the GFSC to be equivalent to that laid down by or under this Act, and that cooperation between authorities is sufficiently ensured;
 
-2019-26 Financial Services
+(ii) the level of protection for unitholders in the other collective investment undertakings is equivalent to that provided for unit-holders in a UCITS scheme, and in particular that the rules on asset segregation, borrowing,
 
-(ii) the level of protection for unitholders in the other collective investment undertakings is equivalent to that provided for unit-holders in a UCITS scheme, and in particular that the rules on asset segregation, borrowing, lending, and uncovered sales of transferable securities and money market instruments are equivalent to the requirements of the UCITS Directive;
+Financial Services 2019-26
+
+lending, and uncovered sales of transferable securities and money market instruments are equivalent to the requirements of the Financial Services (UCITS) Regulations 2020;
 
 (iii) the business of the other collective investment undertakings is reported in half-yearly and annual reports to enable an assessment to be made of the assets and liabilities, income and operations over the reporting period; and
 
 (iv) no more than 10% of the assets of the UCITS schemes or of the other collective investment undertakings, whose acquisition is contemplated, can, according to their fund rules or instruments of incorporation, be invested in aggregate in units of other UCITS schemes or other collective investment undertakings;
 
-(f) deposits with credit institutions which are repayable on demand or have the right to be withdrawn, and maturing in no more than 12 months, provided that–
+(f) deposits with credit institutions which are repayable on demand or have the right to be withdrawn, and maturing in no more than 12 months, provided that, if the credit institution has its registered office in a country or territory outside Gibraltar, it is subject to prudential rules considered by the GFSC as equivalent to those laid down by of under this Act;
 
-(i) the credit institution has its registered office in an EEA State; or
-
-(ii) if the credit institution has its registered office in a third country, it is subject to prudential rules considered by the GFSC as equivalent to those laid down in this Act;
-
-(g) financial derivative instruments, including equivalent cash-settled instruments, dealt in on a regulated market referred to in sub-paragraphs (a) to (c) or financial derivative instruments dealt in derivatives traded solely over the counter (“OTC derivatives”), provided that–
+(g) financial derivative instruments, including equivalent cash-settled instruments, dealt in on a regulated market referred to in sub-paragraph (a) or (c) or financial derivative instruments dealt in derivatives traded solely over the counter (“OTC derivatives”), provided that–
 
 (i) the underlying of the derivative consists of instruments covered by this paragraph, financial indices, interest rates, foreign exchange rates or currencies, in which the UCITS scheme may invest according to its investment objectives as stated in the UCITS scheme’s fund rules or instruments of incorporation;
 
@@ -46,15 +44,23 @@ INVESTMENTS OF UCITS SCHEMES
 
 (iii) the OTC derivatives are subject to reliable and verifiable valuation on a daily basis and can be sold, liquidated or closed by an offsetting transaction at any time at their fair value at the UCITS scheme’s initiative; or
 
-Financial Services 2019-26
-
 (h) money market instruments other than those dealt in on a regulated market, if the issue or issuer of such instruments is itself regulated for the purpose of protecting investors and savings, provided that the instruments–
 
-(i) are issued or guaranteed by a central, regional or local authority or central bank of an EEA State, the European Central Bank, the European Union or the European Investment Bank, a third country or, in the case of a Federal State, by one of the members making up the federation, or by a public international body to which one or more EEA States belong;
+(i) are issued or guaranteed by–
 
-(ii) are issued by an undertaking whose securities are dealt in on regulated markets referred to in sub-paragraphs (a) to (c);
+2019-26 Financial Services
 
-(iii) are issued or guaranteed by an establishment subject to prudential supervision, in accordance with criteria defined by European Union law, or by an establishment which is subject to and complies with prudential rules considered by the GFSC to be at least as stringent as those laid down by European Union law; or
+(aa) the government of Gibraltar or the government of a country or territory outside Gibraltar;
+
+(bb) a central, regional or local authority or central bank of a country or territory outside Gibraltar;
+
+(cc) the European Union, the European Central Bank or the European Investment Bank; or
+
+(dd) a public international body to which Gibraltar, the United Kingdom or one or more EEA States belongs;
+
+(ii) are issued by an undertaking whose securities are dealt in on regulated markets referred to in sub-paragraph (a) or (c);
+
+(iii) are issued or guaranteed by an establishment which is subject to and complies with prudential rules considered by the GFSC to be at least as stringent as those laid down by or under this Act; or
 
 (iv) if the UCITS scheme is authorised in Gibraltar, are issued by other bodies belonging to the categories approved by the GFSC and provided that–
 
@@ -72,7 +78,7 @@ Financial Services 2019-26
 
 but a UCITS scheme may hold ancillary liquid assets.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 3.  An open-ended investment company may acquire movable or immovable property which is essential for the direct pursuit of its business.
 
@@ -108,7 +114,7 @@ Transferable securities.
 
 (ii) in the case of other securities referred to in paragraph 2 or 3, in the form of a valuation on a periodic basis which is derived from information from the issuer of the instrument or from competent investment research;
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (d) appropriate information is available for them–
 
@@ -122,7 +128,7 @@ Financial Services 2019-26
 
 (g) their risks are adequately captured by the risk management process of the UCITS scheme.
 
-(2)  For the purposes of sub-paragraph (1)(b) and (e), any financial instrument within paragraph 1(a) to (c) is to be presumed–
+(2)  For the purposes of sub-paragraph (1)(b) and (e), any financial instrument within paragraph 1(a) or (c) is to be presumed–
 
 (a) not to compromise the ability of the UCITS scheme to repurchase or redeem its units at the request of a unit holder in accordance with regulations made under Part 18; and
 
@@ -138,7 +144,7 @@ Financial Services 2019-26
 
 (ii) the closed-ended funds are subject to corporate governance mechanisms applied to companies; and
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (iii) where asset management activity is carried out by another entity on behalf of the closed-ended fund, that entity is itself regulated for the purpose of investor protection;
 
@@ -164,7 +170,7 @@ Money market instruments
 
 9.  The reference in paragraph 8 to money market instruments as “instruments” is to be understood as a reference to the following–
 
-(a) financial instruments within paragraph 1(a) to (c); or
+(a) financial instruments within paragraph 1(a) or (c); or
 
 (b) financial instruments which are not admitted to trading.
 
@@ -172,7 +178,7 @@ Instruments normally dealt in on the money market.
 
 10.  The reference in paragraph 8 to money market instruments as instruments “normally dealt in on the money market” is to be understood as a reference to financial instruments which meet one of the following criteria–
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (a) they have a maturity at issuance of up to and including 397 days;
 
@@ -196,7 +202,7 @@ Liquid instruments with a value which can be accurately determined at any time.
 
 (a) are normally dealt in on the money market for the purposes of paragraph 8; and
 
-(b) are admitted to, or dealt in, on a regulated market in accordance with paragraph 1(a), (b) or (c).
+(b) are admitted to, or dealt in, on a regulated market in accordance with paragraph 1(a) or (c).
 
 (4)  But sub-paragraph (3) does not apply if there is information available to the UCITS scheme that would lead to a different determination.
 
@@ -204,7 +210,7 @@ Liquid financial assets with respect to financial derivative instruments.
 
 12.(1)  The reference to “liquid financial assets” in section 292(1)(a) is to be understood with respect to financial derivative instruments as a reference to financial derivative instruments which meet the following criteria–
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (a) their underlyings consist of one or more of the following—
 
@@ -238,7 +244,7 @@ Liquid financial assets with respect to financial derivative instruments.
 
 (2)  For the purposes of paragraph 1(g)(iii), the reference to fair value is to be understood as a reference to the amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm’s length transaction.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (3)  For the purposes of paragraph 1(g)(iii), the reference to reliable and verifiable valuation is to be understood as a reference to a valuation, by the UCITS scheme, corresponding to the fair value as referred to in sub-paragraph (2), which does not rely only on market quotations by the counterparty and which meets the following criteria–
 
@@ -266,7 +272,7 @@ Financial indices
 
 (i) the index measures the performance of a representative group of underlying assets in a relevant and appropriate way;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (ii) the index is revised or rebalanced periodically to ensure that it continues to reflect the markets to which it refers following criteria which are publicly available;
 
@@ -290,11 +296,11 @@ Instruments whose issue or issuer is regulated for the purpose of protecting inv
 
 (c) the instruments are freely transferable.
 
-(2)  Where money market instruments are covered by paragraph 1(h)(ii) and (iv) or are issued by a local or regional authority of an EEA State or by a public international body but not guaranteed by an EEA State or, in the case of a federal State which is an EEA State, by
+(2)  Where money market instruments are covered by paragraph 1(h)(ii) and (iv) or are issued by a local or regional authority but not guaranteed by the country or territory concerned or by a public international body but not guaranteed by a country or territory
 
-Financial Services 2019-26
+2019-26 Financial Services
 
-one of the members making up the federation, the “appropriate information” referred to in sub-paragraph (1)(b) is–
+which is a member of that body, the “appropriate information” referred to in sub-paragraph (1)(b) is–
 
 (a) information on both the issue or the issuance programme and the legal and financial situation of the issuer prior to the issue of the money market instrument;
 
@@ -312,7 +318,7 @@ one of the members making up the federation, the “appropriate information” r
 
 (c) available and reliable statistics on the issue or the issuance programme or other data enabling an appropriate assessment of the credit risks related to the investment in such instruments.
 
-(4)  In the case of all money market instruments covered by paragraph 1(h)(i), except those referred to in sub-paragraph (2) and those issued by the European Central Bank or by a central bank from an EEA State, the “appropriate information” referred to in sub-paragraph (1)(b) is information on–
+(4)  In the case of all money market instruments covered by paragraph 1(h)(i), except those referred to in sub-paragraph (2) and those issued by the European Central Bank or by a central bank, the “appropriate information” referred to in sub-paragraph (1)(b) is information on–
 
 (a) the issue or the issuance programme; or
 
@@ -320,17 +326,17 @@ one of the members making up the federation, the “appropriate information” r
 
 Money market instruments: prudential rules.
 
-16.  The reference in paragraph 1(h)(iii) to an establishment which is subject to, and complies with, prudential rules considered by the GFSC to be at least as stringent as those laid down by European Union law is to be understood as a reference to an issuer which is subject to, and complies with, prudential rules and meets one of the following criteria–
+16.  The reference in paragraph 1(h)(iii) to an establishment which is subject to, and complies with, prudential rules considered by the GFSC to be at least as stringent as those laid down by or under this Act is to be understood as a reference to an issuer which is subject to, and complies with, prudential rules and meets one of the following criteria–
 
-(a) it is located in the European Economic Area;
+(a) it is located in the United Kingdom or the European Economic Area;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (b) it is located in an OECD country belonging to the Group of Ten;
 
 (c) it has at least investment grade rating;
 
-(d) it can be demonstrated on the basis of an in-depth analysis of the issuer that the prudential rules applicable to that issuer are at least as stringent as those laid down by European Union law.
+(d) it can be demonstrated on the basis of an in-depth analysis of the issuer that the prudential rules applicable to that issuer are at least as stringent as those laid down by or under this Act.
 
 Securitisation vehicles which benefit from a banking liquidity line.
 
@@ -340,4 +346,4 @@ Securitisation vehicles which benefit from a banking liquidity line.
 
 (b) the reference to “banking liquidity lines” is to be understood as a reference to banking facilities secured by a financial institution which itself complies with paragraph 1(h)(iii).
 
-Financial Services 2019-26
+2019-26 Financial Services

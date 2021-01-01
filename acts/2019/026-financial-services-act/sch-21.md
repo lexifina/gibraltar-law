@@ -32,7 +32,7 @@ Membership.
 
 (ii) an auditor who is approved or registered under Part 24, nominated by the Gibraltar Society of Accountants;
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (iii) a barrister or solicitor nominated by the General Council of the Bar in Gibraltar;
 
@@ -58,7 +58,7 @@ Financial Services 2019-26
 
 (8)  The Minister may re-appoint as a member or alternate a person who is (or has been) a member or alternate, except where the person was removed under paragraph 5(2)(b) to (e).
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (9)  Any vacancy in the membership of the Board must be filled by the Minister making an appointment in accordance with sub-paragraph (1) as it applied to the appointment of the person who has ceased to be a member.
 
@@ -96,7 +96,7 @@ Disclosure of interests.
 
 (a) must declare that interest on any occasion on which the matter is due to be considered by the Board; and
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (b) subject to sub-paragraph (2) must not participate in the Board’s consideration of the matter.
 
@@ -126,7 +126,7 @@ Procedure and meetings.
 
 (a) the Chair’s alternate must preside at the meeting; or
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (b) if the Chair’s alternate is not present or unable to preside, the member appointed under paragraph 4(1)(b)(i) must preside at the meeting.
 
@@ -162,7 +162,7 @@ Audit.
 
 (i) in the case of the balance sheet, of the Board’s finances as at the end of the financial year; and
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (ii) in the case of the income and expenditure account, of the surplus or deficit for that financial year; and
 
@@ -182,4 +182,4 @@ Transitional provisions.
 
 12.  The members of the Board (including the chair) who held office immediately before Part 16 comes into operation continue to hold office when this Part comes into operation, as if they had been appointed in accordance with paragraph 4.
 
-2019-26 Financial Services
+Financial Services 2019-26

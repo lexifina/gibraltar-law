@@ -1,18 +1,14 @@
 SCHEDULE 26 Section 419(1)
 
-EU MARKET ABUSE REGULATION (“EUMAR”)
+THE MARKET ABUSE REGULATION
 
-Designation of competent authority.
+1.  Omitted.
 
-1.  The GFSC is designated as the competent authority for the purposes of EUMAR.
-
-Public disclosure of inside information.
-
-2.  An issuer or emission allowance market participant that has delayed the public disclosure of inside information in accordance with Article 17.4 of EUMAR must provide to the GFSC, at its request, a written explanation of how the conditions set out in that Article were met in respect of the delay.
+2.  Omitted.
 
 GFSC’s powers.
 
-3.(1)  For the purpose of supervising or investigating compliance with EUMAR, the GFSC may–
+3.(1)  For the purpose of supervising or investigating compliance with the Market Abuse Regulation, the GFSC may–
 
 (a) exercise any power that the GFSC has under this Act or any other law that confers regulatory responsibilities on the GFSC;
 
@@ -36,21 +32,21 @@ GFSC’s powers.
 
 (iii) require direct access to traders’ systems;
 
-Financial Services 2019-26
-
 (d) carry out on-site inspections and investigations other than at premises used wholly or mainly as a dwelling;
 
 (e) require–
 
+Financial Services 2019-26
+
 (i) existing recordings of telephone conversations, electronic communications or data traffic records held by regulated firms which are investment firms, credit institutions or financial institutions; or
 
-(ii) where permitted by the laws of Gibraltar, existing data traffic records held by a telecommunications operator, where there is a reasonable suspicion of a contravention of Article 14(a), 14(b) or 15 of EUMAR and where those records may be relevant to the investigation of that contravention;
+(ii) where permitted by the laws of Gibraltar, existing data traffic records held by a telecommunications operator, where there is a reasonable suspicion of a contravention of Article 14(a), 14(b) or 15 of the Market Abuse Regulation and where those records may be relevant to the investigation of that contravention;
 
 (f) suspend the trading of a financial instrument;
 
 (g) impose a temporary prohibition of professional activity;
 
-(h) require the temporary cessation of any practice that the GFSC considers to be contrary to EUMAR;
+(h) require the temporary cessation of any practice that the GFSC considers to be contrary to the Market Abuse Regulation;
 
 (i) request the freezing or sequestration of assets;
 
@@ -62,7 +58,7 @@ Financial Services 2019-26
 
 (ii) requiring an issuer or other person who has published or disseminated false or misleading information to publish a corrective statement.
 
-(3)  A person who provides information to the GFSC in accordance with EUMAR does not–
+(3)  A person who provides information to the GFSC in accordance with the Market Abuse Regulation does not–
 
 (a) contravene any restriction on the disclosure of information, whether imposed by contract or any legislative, regulatory or administrative provision; or
 
@@ -70,25 +66,37 @@ Financial Services 2019-26
 
 (4)  This paragraph applies without limiting the GFSC’s powers under any other provision of this Act or any enactment which confers supervisory functions on the GFSC.
 
-2019-26 Financial Services
-
 (5)  The Minister may, by Regulations, make further provision in respect of the GFSC’s powers under this paragraph.
 
 Sanctions for certain contraventions.
 
+2019-26 Financial Services
+
 4.(1)  The GFSC may take any of the steps in section 153 or 154 or paragraphs 5 to 8 if it is satisfied that a person has–
 
-(a) contravened a provision of EUMAR specified in Article 30.1(a) of that Regulation; or
+(a) contravened any of the following provisions of the Market Abuse Regulation–
+
+(i) Articles 14 or 15;
+
+(ii) Article 16(1) or (2);
+
+(iii) Article 17(1), (2), (4), (5) or (8);
+
+(iv) Article 18(1) to (6);
+
+(v) Article 19(1), (2), (3), (5), (6), (7) or (11); or
+
+(vi) Article 20(1); or
 
 (b) failed to cooperate or comply with an investigation, inspection or request made in the exercise of a power–
 
 (i) under paragraph 3(2); or
 
-(ii) under section 413 or 414 in respect of the investigation of a contravention of EUMAR.
+(ii) under section 413 or 414 in respect of the investigation of a contravention of the Market Abuse Regulation.
 
 (2)  This paragraph and paragraphs 5 to 8 apply without limiting the GFSC’s powers under–
 
-(a) EUMAR;
+(a) the Market Abuse Regulation;
 
 (b) any other provision of this Act and, in particular, section 413 or 414 or paragraph 3; or
 
@@ -104,13 +112,13 @@ Prohibition order.
 
 (c) from dealing in financial instruments on the person’s own account.
 
+Financial Services 2019-26
+
 (2)  A prohibition order–
 
 (a) must specify a period during which it has effect; and
 
-Financial Services 2019-26
-
-(b) in the case of an order made under sub-paragraph (1)(a) or (b), may specify an indefinite period in respect of repeated contraventions of Article 14 or 15 of EUMAR.
+(b) in the case of an order made under sub-paragraph (1)(a) or (b), may specify an indefinite period in respect of repeated contraventions of Article 14 or 15 of the Market Abuse Regulation.
 
 Suspension of permission.
 
@@ -134,21 +142,21 @@ Administrative penalties.
 
 (b) in the case of a legal person, for a contravention of–
 
-(i) Article 14 or 15 of EUMAR, EUR 15,000,000 or 15% of the total annual turnover according to the last available annual accounts approved by its management body;
+(i) Article 14 or 15 of the Market Abuse Regulation, EUR 15,000,000 or 15% of the total annual turnover according to the last available annual accounts approved by its management body;
 
-(ii) Article 16 or 17 of EUMAR, EUR 2,500,000 or 2% of the total annual turnover according to the last available annual accounts approved by its management body; or
+(ii) Article 16 or 17 of the Market Abuse Regulation, EUR 2,500,000 or 2% of the total annual turnover according to the last available annual accounts approved by its management body; or
 
-(iii) Article 18, 19 or 20 of EUMAR, EUR 1,000,000; or
+(iii) Article 18, 19 or 20 of the Market Abuse Regulation, EUR 1,000,000; or
 
 (c) in the case of an individual, for a contravention of–
 
-(i) Article 14 or 15 of EUMAR, EUR 5,000,000;
-
-(ii) Article 16 or 17 of EUMAR, EUR 1,000,000; or
-
 2019-26 Financial Services
 
-(iii) Article 18, 19 or 20 of EUMAR, EUR 500,000.
+(i) Article 14 or 15 of the Market Abuse Regulation, EUR 5,000,000;
+
+(ii) Article 16 or 17 of the Market Abuse Regulation, EUR 1,000,000; or
+
+(iii) Article 18, 19 or 20 of the Market Abuse Regulation, EUR 500,000.
 
 (2)  A penalty under sub-paragraph (1)(b) or (c) may be imposed as an equivalent amount expressed in Sterling, based on the exchange rate as at 2 July 2014.
 
@@ -174,9 +182,9 @@ Exercise of powers.
 
 (6)  The GFSC must take one of the steps in subsection (7) where–
 
-(a) following an obligatory prior assessment, it considers that it would be disproportionate to publish the identity of the person, or personal data of an individual or details of a sanctioning action from which such person could be identified; or
-
 Financial Services 2019-26
+
+(a) following an obligatory prior assessment, it considers that it would be disproportionate to publish the identity of the person, or personal data of an individual or details of a sanctioning action from which such person could be identified; or
 
 (b) it considers that publication would jeopardise the stability of financial markets or an ongoing investigation.
 
@@ -192,9 +200,9 @@ Financial Services 2019-26
 
 Reporting of contraventions.
 
-10.(1)  The GFSC must establish appropriate arrangements for the reporting of contraventions and potential contraventions of EUMAR to it by any person.
+10.(1)  The GFSC must establish appropriate arrangements for the reporting of contraventions and potential contraventions of the Market Abuse Regulation to it by any person.
 
-(2)  Schedule 27, which transposes Directive (EU) 2015/2392, makes further provision in respect of the reporting of contraventions of EUMAR and related matters.
+(2)  Schedule 27 makes further provision in respect of the reporting of contraventions of the Market Abuse Regulation and related matters.
 
 (3)  The arrangements established under sub-paragraph (1) must include–
 
@@ -206,11 +214,11 @@ Reporting of contraventions.
 
 (4)  The GFSC must treat information about the identity of a person who reports a contravention as confidential, except where its disclosure is necessary for the purpose of any further investigations or subsequent judicial proceedings.
 
+2019-26 Financial Services
+
 (5)  Regulated firms must establish appropriate internal procedures for their employees to report contraventions.
 
 (6)  An employee of a regulated firm who reports a contravention in accordance with arrangements established under sub-paragraph (1) or (5)–
-
-2019-26 Financial Services
 
 (a) is not to be considered to be in breach of any restriction on disclosure of information imposed by contract or by any enactment and any provision in an agreement is void in so far as it purports to preclude an employee from reporting a contravention; and
 

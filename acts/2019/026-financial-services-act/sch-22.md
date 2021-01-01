@@ -36,7 +36,7 @@ Certain employee share schemes
 
 4.  Arrangements do not amount to a collective investment scheme where–
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (a) each of the participants is a bona fide employee or former employee (or the wife, husband, civil partner, widow, widower, former civil partner, child or step-child under the age of eighteen of such an employee or former employee) of the operator or of a body corporate in the same group as the operator;
 
@@ -70,7 +70,7 @@ Schemes relating to the use of property
 
 (b) the property to which the arrangements relate does not consist of the currency of any country or territory and does not consist of or include any of the items listed in section 5(2) in relation to which  a regulated activity is carried on.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 Debt issues
 
@@ -100,7 +100,7 @@ Debt issues
 
 (3)  In sub-paragraph (2), “swap arrangement” means an arrangement the purpose of which is to facilitate the making of payments to participants whether in a particular amount or currency or at a particular time or rate of interest or all or any combination of those things, being an arrangement under which the counterparty–
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (a) is entitled to receive amounts (whether representing principal or interest) payable in respect of any property subject to the arrangements or sums determined by reference to such amounts; and
 
@@ -114,29 +114,21 @@ Financial Services 2019-26
 
 “sovereign issuer” means any of the following that issues debt instruments–
 
-(a) the Government of Gibraltar or the government of any country or territory outside Gibraltar;
+(a) the Government;
 
-(b) a local authority;
+(b) the government of any country or territory outside Gibraltar;
 
-(c) a public authority;
+(c) a public or local authority in Gibraltar or elsewhere; or
 
-(d) the European Union;
+(d) a body the members of which comprise–
 
-(e) an EEA State, including a government department, an agency or a special purpose vehicle of the EEA State;
+(i) states including Gibraltar or the United Kingdom; or
 
-(f) in the case of a federal EEA State, a member of the federation;
-
-(g) a special purpose vehicle for several EEA States;
-
-(h) an international financial institution established by two or more EEA States which has the purpose of mobilising funding and providing financial assistance to the benefit of its members that are experiencing or threatened by severe financing problems; or
-
-(i) the European Investment Bank.
+(ii) bodies whose members comprise states including Gibraltar or the United Kingdom.
 
 Common accounts
 
 11.  Arrangements do not amount to a collective investment scheme if–
-
-2019-26 Financial Services
 
 (a) they are arrangements under which the rights or interests of participants are rights to or interests in money held in a common account;
 
@@ -145,6 +137,8 @@ Common accounts
 (i) in making payments to that participant;
 
 (ii) in satisfaction of sums owed by that participant; or
+
+Financial Services 2019-26
 
 (iii) in the acquisition of property or the provision of services for that participant.
 
@@ -162,4 +156,4 @@ Friendly societies
 
 14.  A society registered under the Friendly Societies Act does not amount to a collective investment scheme.
 
-Financial Services 2019-26
+2019-26 Financial Services

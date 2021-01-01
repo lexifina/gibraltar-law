@@ -32,7 +32,7 @@ Appropriate resources.
 
 (b) the risks to the continuity of the services provided by, or to be provided by, the firm;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (c) the firm’s membership of a group and any effect which that membership may have.
 
@@ -52,7 +52,7 @@ Effective supervision.
 
 (d) if the firm is a member of a group, whether membership of the group is likely to prevent the GFSC’s effective supervision of the firm;
 
-(e) whether the firm is subject to consolidated supervision required under–
+(e) whether the firm is subject to consolidated supervision required under an enactment which, immediately before IP completion day, implemented in Gibraltar any of the following Directives –
 
 (i) the Capital Requirements Directive;
 
@@ -68,11 +68,9 @@ Effective supervision.
 
 (ii) whether those links are or that relationship is likely to prevent the GFSC’s effective supervision of the firm; and
 
-(iii) if the firm is subject to the laws, regulations or administrative provisions of a territory which is not an EEA State (“the foreign provisions”),
+2019-26 Financial Services
 
-Financial Services 2019-26
-
-whether those foreign provisions, or any deficiency in their enforcement, would prevent the GFSC’s effective supervision of the firm.
+(iii) if the firm is subject to the laws, regulations or administrative provisions of a country or territory outside Gibraltar (“the foreign provisions”), whether those foreign provisions, or any deficiency in their enforcement, would prevent the GFSC’s effective supervision of the firm.
 
 (3)  The firm has close links with CL if–
 
@@ -108,9 +106,9 @@ Suitability.
 
 (iii) requests made by the GFSC relating to the provision of information to the GFSC;
 
-(e) whether those who manage the firm’s affairs have adequate skills and experience and have acted and may be expected to act with probity;
+Financial Services 2019-26
 
-2019-26 Financial Services
+(e) whether those who manage the firm’s affairs have adequate skills and experience and have acted and may be expected to act with probity;
 
 (f) the need to minimise the extent to which it is possible for the business carried on by the firm, or to be carried on by the applicant, to be used for a purpose connected with financial crime.
 
@@ -132,4 +130,4 @@ Fees
 
 6.  The firm concerned must pay such periodical and other fees as the Minister may by regulations prescribe.
 
-Financial Services 2019-26
+2019-26 Financial Services

@@ -26,7 +26,7 @@ Persons exempted from section 293(1)
 
 (iii) the Administration of Justice Act.
 
-2.  Section 293(1) does not apply to a person who provides the trading facilities constituting a regulated market which operates without any requirement that a person dealing on the market should have a physical presence in the territory of the member State from which the trading facilities are provided or on any trading floor that the market may have, to the extent of anything done by that person in connection with or for the purposes of the provision of those trading facilities.
+2.  Omitted
 
 PART 2
 
@@ -36,9 +36,9 @@ Private schemes
 
 (a) are not listed on a stock exchange; and
 
-2019-26 Financial Services
-
 (b) are not authorised by the scheme’s constituting instrument to have more than 50 participants.
+
+Financial Services 2019-26
 
 4.(1)  A private scheme is promoted in accordance with this Part of this Schedule where the scheme is promoted by way of an offer addressed exclusively to a restricted category of persons.
 
@@ -54,4 +54,4 @@ Private schemes
 
 5.  The Minister may by regulations amend this Part of this Schedule by adding, modifying or removing provisions or by substituting any provision contained in it.
 
-Financial Services 2019-26
+2019-26 Financial Services

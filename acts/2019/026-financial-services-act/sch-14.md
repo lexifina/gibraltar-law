@@ -14,7 +14,7 @@ Partner (if firm is a partnership)
 
 Sole trader (if firm is a sole trader)
 
-Branch manager of branches in EEA countries (if firm has branches in EEA countries)
+Branch manager of branches in outside Gibraltar (if firm has branches in outside Gibraltar)
 
 Part 2 Regulated Functions: Certain Categories of Regulated Firms
 
@@ -30,7 +30,7 @@ Investment firms
 
 Chief Investment Officer Head of Risk Management
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 Regulated market
 
@@ -52,8 +52,4 @@ DLT providers
 
 Head of Security Head of Technology Head of Risk Management Head of Finance
 
-Part 3 Regulated Functions: Incoming EEA Firms with Branch in Gibraltar
-
-Branch manager Money Laundering Reporting Officer
-
-2019-26 Financial Services
+Financial Services 2019-26

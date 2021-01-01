@@ -1,16 +1,16 @@
 SCHEDULE 27 Section 419(2)
 
-REPORTING EUMAR CONTRAVENTIONS
+REPORTING CONTRAVENTIONS OF THE MARKET ABUSE REGULATION
 
 Interpretation.
 
 1.(1)  In this Schedule–
 
-“contravention report” means a report submitted by a reporting person to the GFSC about a contravention or potential contravention of EUMAR;
+“contravention report” means a report submitted by a reporting person to the GFSC about a contravention or potential contravention of the Market Abuse Regulation;
 
-“reported person” means a person who is alleged to have committed or intend to commit a contravention of EUMAR; and
+“reported person” means a person who is alleged to have committed or intend to commit a contravention of the Market Abuse Regulation; and
 
-“reporting person” means a person reporting a contravention or potential contravention of EUMAR to the GFSC.
+“reporting person” means a person reporting a contravention or potential contravention of the Market Abuse Regulation to the GFSC.
 
 (2)  Section 406 also applies to the interpretation of this Schedule.
 
@@ -44,7 +44,7 @@ Information about reporting contraventions.
 
 (d) the procedures for the protection of employed persons who report contraventions; and
 
-(e) a statement clearly explaining that a person, in providing information to the GFSC in accordance with EUMAR, does not–
+(e) a statement clearly explaining that a person, in providing information to the GFSC in accordance with the Market Abuse Regulation, does not–
 
 (i) contravene any restriction on the disclosure of information, whether imposed by contract or any legislative, regulatory or administrative provision; or
 
@@ -60,9 +60,9 @@ Contravention reporting procedures.
 
 (c) the information that the reporting person can expect to receive from the GFSC in respect of the outcome of a contravention report, including the time in which that information is likely to be provided; and
 
-(d) the confidentiality regime that applies to contravention reports, including the circumstances under which the confidential data of a reporting person may be disclosed in accordance with Articles 27, 28 and 29 of EUMAR.
+(d) the confidentiality regime that applies to contravention reports, including the circumstances under which the confidential data of a reporting person may be disclosed in accordance with Articles 27, 28 and 29 of the Market Abuse Regulation.
 
-(2)  The information provided under sub-paragraph (1)(d) must ensure that a reporting person is aware of the exceptional cases in which confidentiality of data may not be ensured, including where its disclosure is a necessary and proportionate obligation required by European Union or domestic law in the context of investigations or subsequent judicial proceedings or to safeguard the freedoms of others including the right of defence of the reported person, and in each case subject to appropriate safeguards under such law.
+(2)  The information provided under sub-paragraph (1)(d) must ensure that a reporting person is aware of the exceptional cases in which confidentiality of data may not be ensured, including where its disclosure is a necessary and proportionate obligation required by law in the context of investigations or subsequent judicial proceedings or to safeguard the freedoms of others including the right of defence of the reported person, and in each case subject to appropriate safeguards under the relevant law.
 
 Financial Services 2019-26
 

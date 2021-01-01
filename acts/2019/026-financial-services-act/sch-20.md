@@ -2,7 +2,7 @@ SCHEDULE 20 Section 239
 
 INVESTORS TO WHOM PART 16 DOES NOT APPLY
 
-1.  The persons referred to in points (1) to (4) of section I of Annex II of the MiFID 2 Directive (professional and institutional investors).
+1.  The persons referred to in points (1) to (4) of section I of Schedule 1 to the Financial Services (Investment Services) Regulations 2020.
 
 2.  Local and municipal authorities.
 
@@ -32,4 +32,4 @@ INVESTORS TO WHOM PART 16 DOES NOT APPLY
 
 7.  Investors who have any responsibility for or have taken advantage of certain facts relating to a participating firm which gave rise to the firm’s financial difficulties or contributed to the deterioration of its financial situation.
 
-2019-26 Financial Services
+Financial Services 2019-26

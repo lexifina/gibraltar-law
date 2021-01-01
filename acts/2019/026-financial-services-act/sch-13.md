@@ -18,9 +18,9 @@ Accepting deposits.
 
 (c) the firm no longer meets the conditions that a firm must meet in order to obtain permission to carry on the regulated activity of accepting deposits;
 
-(d) the firm no longer meets the prudential requirements set out in Parts 3, 4 or 6 of the Capital Requirements Regulation (other than Articles 92a and 92b) or imposed under article 104(1)(a) or 105 of the Capital Requirements Directive or can no longer be relied on to fulfil its obligations to its creditors and, in particular, no longer provides security for the assets entrusted to it by its depositors;
+(d) the firm no longer meets the prudential requirements set out in Parts 3, 4 or 6 of the Capital Requirements Regulation (other than Articles 92a and 92b) or imposed by regulations 140(1)(a) and 141 of the Financial Services (Credit Institutions and Capital Requirements) Regulations 2020 or can no longer be relied on to fulfil its obligations to its creditors and, in particular, no longer provides security for the assets entrusted to it by its depositors;
 
-(e) the firm has committed any breach referred to in article 67.1 of the Capital Requirements Directive;
+(e) the firm has committed any breach referred to in regulation 146 of the Financial Services (Credit Institutions and Capital Requirements) Regulations 2020;
 
 (f) the firm’s carrying on of the regulated activity of accepting deposits is otherwise unlawful.
 
@@ -28,7 +28,7 @@ Issuing electronic money.
 
 3.(1)  This paragraph applies to a regulated firm (“electronic money institution”) which has permission under Part 7 to carry on the regulated activity of issuing electronic money.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (2)  The GFSC may exercise its power under section 69 to cancel or vary the regulated firm’s permission to carry on that regulated activity if it appears to the GFSC that–
 
@@ -60,7 +60,7 @@ Providing payment services.
 
 (d) the firm has provided payment services otherwise than in accordance with its permission;
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (e) the firm would constitute a threat to the stability of, or trust in, the payment system by continuing its payment services business;
 
@@ -88,13 +88,13 @@ Direct insurance or direct reinsurance.
 
 (iii) after the GFSC has approved a finance scheme submitted to it, the firm has failed to comply with the finance scheme within a period of three months beginning with the date when the firm first became aware that it had failed to comply with the appropriate capital requirement to which the scheme relates;
 
-(e) the firm has seriously failed to comply with requirements imposed by or under this Act in accordance with the Solvency 2 Directive;
+(e) the firm has seriously failed to comply with requirements imposed by or under this Act including, in particular, by or under the Financial Services (Insurance Companies) Regulations 2020;
 
 (f) the firm’s carrying on of the regulated activity in question is otherwise unlawful.
 
 Services and activities relating to investments and structured deposits.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 6.(1)  This paragraph applies to any regulated firm (“investment firm”) which has permission under Part 7 to carry on any of the following regulated activities–
 
@@ -126,19 +126,15 @@ Services and activities relating to investments and structured deposits.
 
 (c) the firm no longer meets the conditions that a firm must meet in order to obtain permission to carry on the regulated activity in question;
 
-(d) the firm has seriously and systematically infringed–
-
-(i) requirements imposed by or under this Act in accordance with Chapter 2 of Title 2 of the MiFID 2 Directive; or
-
-(ii) requirements imposed under or contained in any EU legislation made under that Chapter;
-
-Financial Services 2019-26
+(d) the firm has seriously or systematically infringed requirements imposed by or under this Act including, in particular, by or under the Financial Services (Investment Services) Regulations 2020;
 
 (e) the firm has seriously or systematically infringed MiFIR;
 
 (f) the firm’s carrying on of the regulated activity in question is otherwise unlawful.
 
-(4)  The GFSC may exercise its power under section 69 to cancel or vary the regulated firm’s Part 7 permission to carry on the regulated activity in question if it appears to the GFSC that the firm has failed to comply with a requirement of EUMAR or of a directly applicable EU regulation made under EUMAR.
+2019-26 Financial Services
+
+(4)  The GFSC may exercise its power under section 69 to cancel or vary the regulated firm’s Part 7 permission to carry on the regulated activity in question if it appears to the GFSC that the firm has failed to comply with a requirement of the Market Abuse Regulation of any provision made under it.
 
 Administering benchmarks.
 
@@ -166,15 +162,11 @@ Operating a regulated market.
 
 (b) the firm obtained the permission by making a false statement or by any other irregular means;
 
-2019-26 Financial Services
-
 (c) the firm no longer meets the conditions that a firm must meet in order to obtain permission to carry on the regulated activity of operating a regulated market;
 
-(d) the firm has seriously and systematically infringed–
+Financial Services 2019-26
 
-(i) requirements imposed by or under this Act in accordance with Title 3 of the MiFID 2 Directive; or
-
-(ii) requirements imposed under or contained in any EU legislation made under that Title;
+(d) the firm has seriously or systematically infringed requirements imposed by or under this Act including, in particular, by or under the Financial Services (Investment Services) Regulations 2020;
 
 (e) the firm has seriously or systematically infringed MiFIR;
 
@@ -198,11 +190,9 @@ Providing data reporting services.
 
 (c) the firm no longer meets the conditions that a firm must meet in order to obtain permission to carry on the regulated activity in question;
 
-(d) the firm has seriously or systematically infringed requirements imposed by or under this Act in accordance with the MiFID 2 Directive;
+(d) the firm has seriously or systematically infringed requirements imposed by or under this Act including, in particular, by or under the Financial Services (Investment Services) Regulations 2020;
 
 (e) the firm has seriously or systematically infringed MiFIR;
-
-Financial Services 2019-26
 
 (f) the firm’s carrying on of the regulated activity in question is otherwise unlawful.
 
@@ -210,21 +200,19 @@ Managing a UCITS.
 
 10.(1)  This paragraph applies to a regulated firm (“UCITS management company”) which has permission under Part 7 to carry on the regulated activity of managing a UCITS.
 
+2019-26 Financial Services
+
 (2)  The GFSC may exercise its power under section 69 to cancel or vary the regulated firm’s permission to carry on that activity if it appears to the GFSC that–
 
 (a) the firm has failed, during a period of at least six months, to carry on that regulated activity;
 
 (b) the firm obtained the permission by making a false statement or by any other irregular means;
 
-(c) in a case where the permission includes permission to provide the discretionary portfolio management service referred to in Article 6.3(a) of the UCITS Directive, the firm no longer complies with the Capital Requirements Regulation or the Capital Requirements Directive;
+(c) in a case where the permission includes permission to provide the discretionary portfolio management service referred to in regulation 15(1)(a) of the Financial Services (UCITS) Regulations 2020, the firm no longer complies with the Capital Requirements Regulation or the Capital Requirements Directive;
 
 (d) the firm no longer meets the conditions that a firm must meet in order to obtain a permission to carry on the regulated activity of managing a UCITS;
 
-(e) the firm has seriously or systematically infringed–
-
-(i) requirements imposed by or under this Act in accordance with the UCITS Directive; or
-
-(ii) requirements imposed under or contained in any EU legislation made under that Directive;
+(e) the firm has seriously or systematically infringed requirements imposed by or under this Act including, in particular, by or under the Financial Services (UCITS) Regulations 2020;
 
 (f) the firm’s carrying on of the regulated activity of managing a UCITS is otherwise unlawful.
 
@@ -236,23 +224,25 @@ In-scope Gibraltar AIFMs.
 
 (b) is not a small AIFM.
 
-2019-26 Financial Services
-
 (2)  The GFSC may exercise its power under section 69 to cancel or vary the regulated firm’s permission to carry on that regulated activity if it appears to the GFSC that–
 
 (a) the firm has failed, during a period of at least six months, to carry on that regulated activity;
 
 (b) the firm obtained the permission by making a false statement or by any other irregular means;
 
-(c) in a case where the permission includes permission to provide the discretionary portfolio management service referred to in Article 6.4(a) of the AIFM Directive, the firm no longer complies with the Capital Requirements Regulation or the Capital Requirements Directive;
+(c) in a case where the permission includes permission to provide the discretionary portfolio management service referred to in regulation 12(4)(a) of the Financial
+
+Financial Services 2019-26
+
+Services (Alternative Investment Fund Managers) Regulations 2020, the firm no longer complies with those Regulations, the Financial Services (Credit Institutions and Capital Requirements) Regulations 2020 or the Capital Requirements Regulation;
 
 (d) the firm no longer meets the conditions that a firm must meet in order to obtain a permission to carry on the regulated activity of managing AIFs (in-scope AIFM);
 
 (e) the firm has seriously or systematically infringed–
 
-(i) requirements imposed by or under this Act in accordance with the AIFM Directive;
+(i) requirements imposed by or under this Act including, in particular, by or under Financial Services (Alternative Investment Fund Managers) Regulations 2020;
 
-(ii) requirements imposed under or contained in any legislation made under that Directive; or
+(ii) Omitted
 
 (iii) requirements contained in the ELTIF Regulation or any legislation made under that Regulation; or
 
@@ -270,13 +260,13 @@ Mortgage credit intermediaries.
 
 (a) the firm has failed, during a period of at least six months, to carry on the regulated activity in question;
 
-Financial Services 2019-26
-
 (b) the firm obtained the permission by making a false statement or by any other irregular means;
 
 (c) the firm no longer meets the conditions that a firm must meet in order to obtain permission to carry on the regulated activity in question;
 
-(d) the firm has seriously or systematically infringed requirements imposed by or under this Act pursuance to the Mortgage Credit Directive.
+2019-26 Financial Services
+
+(d) the firm has seriously or systematically infringed requirements imposed by or under this Act including, in particular, by or under the Financial Services (Mortgage Credit) Regulations 2020.
 
 Other regulated activities.
 
@@ -294,4 +284,4 @@ Other regulated activities.
 
 (f) the firm’s carrying on of the regulated activity in question is otherwise unlawful.
 
-2019-26 Financial Services
+Financial Services 2019-26
