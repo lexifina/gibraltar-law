@@ -1,8 +1,4 @@
-Working Time
-
-1999-33
-
-WORKING TIME ACT
+Working Time Act, 1999
 
 Principal Act
 
@@ -12,19 +8,15 @@ Assent 4.11.1999
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2004-24 s.2, 4A, 5A, 7, 12A to 12P, 13(1) and (2), 17(1), 17A, 17B and 19(1)
+Act. 2004-24 s.2, 4A, 5A, 7, 12A-12P, 13(1)-(2), 17(1), 17A-17B, 19(1)
 
-17.8.2004 2016-20 ss. 12P, 20 13.10.2016
+17.8.2004 2016-20 ss. 12P, 20 13.10.2016 LN.2020/539 s. 13(1), (2)(b) 1.1.2021 2021/228 s. 2 1.1.2021
 
-English sources
+ARRANGEMENT OF SECTIONS
 
-None cited
+Section
 
-Working Time
-
-1999-33 ARRANGEMENT OF SECTIONS
-
-Section PART I. GENERAL.
+PART I. GENERAL.
 
 1. Title and commencement. 2. Interpretation.
 
@@ -34,11 +26,9 @@ PART II. RIGHTS AND OBLIGATIONS CONCERNING WORKING TIME.
 
 PART IIA WORKING TIME IN CIVIL AVIATION.
 
-12A. Scope. 12B. Interpretation. 12C. Entitlement to annual leave. 12D. Health assessments. 12F. Health and safety protection at work. 12G. Pattern of work. 12H. Provision of information. 12 I. Maximum annual working time. 12J. Rest days. 12K. Offences. 12L. Offences due to fault of other person. 12M. Offences by bodies corporate. 12N. Restriction on institution of proceedings. 12O. Power of court to order cause of offence to be remedied or, in certain cases, forfeiture. 12P. Remedies.
+12A. Scope. 12B. Interpretation. 12C. Entitlement to annual leave. 12D. Health assessments. 12F. Health and safety protection at work. 12G. Pattern of work. 12H. Provision of information. 12 I. Maximum annual working time. 12J. Rest days. 12K. Offences. 12L. Offences due to fault of other person. 12M. Offences by bodies corporate. 12N. Restriction on institution of proceedings. 12O. Power of court to order cause of offence to be remedied or, in certain cases, forfeiture.
 
-Working Time
-
-1999-33
+12P. Remedies.
 
 PART III. EXCEPTIONS.
 
@@ -48,6 +38,4 @@ PART IV. MISCELLANEOUS.
 
 18. Enforcement. 19. Offences. 20. Remedies.
 
-Working Time
-
-1999-33 AN ACT TO IMPLEMENT IN GIBRALTAR THE PROVISIONS OF COUNCIL DIRECTIVE 93/104/EC CONCERNING CERTAIN ASPECTS OF THE ORGANISATION OF WORKING TIME.
+AN ACT TO IMPLEMENT IN GIBRALTAR THE PROVISIONS OF COUNCIL DIRECTIVE 93/104/EC CONCERNING CERTAIN ASPECTS OF THE ORGANISATION OF WORKING TIME.
