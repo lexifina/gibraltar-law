@@ -30,8 +30,6 @@ Consistency of Format.
 
 2.(1)  Where in accordance with paragraph 1 , a company’s profit and loss account for any financial year has been prepared by reference to one  of  the formats  set  out  in  Part  2 ,  the directors  of  the company must adopt the same format in preparing the profit and loss account for subsequent financial years of the company unless in their opinion there are special reasons for a change.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (2)  Particulars of any change in the format adopted in preparing a company’s profit and loss account in accordance with sub-paragraph (1) must be disclosed, and the reasons for the change must be explained in a note to the accounts in which the new format is first adopted.
 
 (3)  Any item required in accordance with paragraph 1 to be shown in a company’s balance sheet or profit and loss account may be shown in greater detail than so required.
@@ -57,8 +55,6 @@ but in a case within paragraph (b) the individual amounts of any items so combin
 Content of profit and loss account.
 
 3.  Every profit and loss account of a company must show separately as additional items –
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (a) any amount set aside as proposed to be set aside to, or withdrawn or proposed to be withdrawn from, reserves;
 
@@ -89,8 +85,6 @@ may, however, be set off against income required to be included in –
 (c) format 1, items 12(a) and 12(b); or
 
 (d) format 2, items B 5 (a) and B 5 (b);
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 and the resulting figure shown as a single item (in format 2 at position A7 if negative and at position B 5 if positive).
 
@@ -124,11 +118,7 @@ General Rules.
 
 Required formats for accounts.
 
-9.(1)  References in these Regulations to the balance sheet format or to profit and loss account formats are to the balance sheet format or profit and loss account format set out in
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
-Part  2 and references to the items listed in any of the formats are to those items read together with any of the notes following the formats which apply to any of those items.
+9.(1)  References in these Regulations to the balance sheet format or to profit and loss account formats are to the balance sheet format or profit and loss account format set out in Part  2 and references to the items listed in any of the formats are to those items read together with any of the notes following the formats which apply to any of those items.
 
 (2)  The requirement imposed by paragraph 1 to show the items listed in any such format in the order adopted in the format is subject to any provision in the notes following the formats for alternative positions for any particular items.
 
@@ -155,8 +145,6 @@ Accounting principles.
 (c) all provisions for diminution of value must be recognised, whether the result of the financial year is a profit or loss.
 
 (5)  All income and charges relating to the financial year to which the accounts relate must be taken into account, without regard to the date of receipt or payment.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (6)  In determining the aggregate amount of any item the amount of each individual asset or liability that falls to be taken into account must be determined separately.
 
@@ -188,8 +176,6 @@ must be reduced by provisions for depreciation calculated to write off that amou
 
 (a) of a description falling to be included under Assets items 7 (Participating interests) or 8 (Shares in group undertakings) in the balance sheet format; or
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (b) any other holding of securities held as a financial fixed asset;
 
 has diminished in value, provisions for diminution in value may be made in respect of it and the amount to be included in respect of it may be reduced accordingly, and provisions made under this paragraph must be charged to the profit and loss account and disclosed separately in a note to the accounts if they have not been shown separately in the profit and loss account.
@@ -213,8 +199,6 @@ Development costs.
 Intangible assets.
 
 16.(1)  Intangible assets must be written off over the useful economic life of the intangible asset.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (2)  Where in exceptional cases the useful life of intangible assets cannot be reliably estimated, such assets must be written off over a period chosen by the directors of the company.
 
@@ -242,8 +226,6 @@ Financial Fixed assets.
 
 (4)  The notes to the accounts must disclose the amount of any un-amortised premium or discount not extinguished which is included in the balance sheet by virtue of sub-paragraph (1).
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (5)  For the purposes of this paragraph “premium” means any excess of the amount paid for a security over its maturity value and “discount” means any deficit of the amount paid for a security over its maturity value.
 
 Current Assets.
@@ -269,8 +251,6 @@ Excess of money owed over value received as an asset item.
 (b) if the current amount is not shown as a separate item in the company’s balance sheet it must be disclosed in a note to the accounts.
 
 Determination of cost.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 22.(1)  The cost of an asset that has been acquired by the company must be determined by adding to the actual price paid any expenses incidental to its acquisition and then subtracting any incidental reductions in the cost of acquisition.
 
@@ -300,8 +280,6 @@ Cost of fungible assets.
 
 (3)  Where, in the case of any company–
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (a) the cost of assets falling to be included under any item shown in the company’s balance sheet has been determined by the application of any method permitted by this paragraph; and
 
 (b) the amount shown in respect of that item differs materially from the relevant alternative amount specified in sub-paragraph (4),
@@ -328,8 +306,6 @@ Alternative accounting rules.
 
 26.(1)  Intangible fixed assets, other than goodwill, may be included at their current cost.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (2)  Tangible fixed assets may be included at a market value determined as at the date of their last valuation or at their current cost.
 
 (3)  Investments of any description falling to be included under Assets items 7 (Participating interests) or 8 (Shares in group undertakings) of the balance sheet format and any other securities held as financial fixed assets may be included either –
@@ -339,8 +315,6 @@ Alternative accounting rules.
 (b) at a value determined on any basis which appears to the directors to be appropriate in the circumstances of the company;
 
 but where the value is that provided for in paragraph (b), particulars of the method of valuation adopted and of the reasons for adopting it must be disclosed in a note to the accounts.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 Application of the depreciation rules.
 
@@ -361,8 +335,6 @@ Additional information to be provided in case of departure from historical cost 
 (4)  In sub-paragraph (3), references in relation to any item to the comparable amounts determined as there mentioned are references to–
 
 (a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
 
@@ -392,8 +364,6 @@ and the revaluation reserve must be reduced to the extent that the amounts trans
 
 Assets and liabilities denominated in foreign currencies.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 30.(1)  Subject to the provisions of sub-paragraphs (2) to (7), amounts to be included in respect of assets and liabilities denominated in foreign currencies must be in sterling (or the currency in which the accounts are drawn up) after translation at an appropriate spot rate of exchange prevailing at the balance sheet date.
 
 (2)  If they are not covered or not specifically covered in either the spot or forward currency markets, an appropriate rate of exchange prevailing on the date of purchase may be used for assets held as financial fixed assets and assets to be included under Assets items 9 (Intangible fixed assets) and 10 (Tangible fixed assets) in the balance sheet format.
@@ -418,8 +388,6 @@ Inclusion of financial instruments at fair value.
 
 (a) they are held as part of a trading portfolio; or
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (b) they are derivatives.
 
 (3)  Sub-paragraph (1) does not apply to–
@@ -436,7 +404,7 @@ Inclusion of financial instruments at fair value.
 
 (f) other financial instruments with such special characteristics that the instruments, according to generally accepted accounting principles or practice, should be accounted for differently from other financial instruments.
 
-(4)  Financial instruments which under international accounting standards may be included in accounts at fair value, may be so included, provided that the disclosures required by such accounting standards are made.
+(4)  Financial instruments which under UK-adopted international accounting standards may be included in accounts at fair value, may be so included, provided that the disclosures required by such accounting standards are made.
 
 (5)  If the fair value of a financial instrument cannot be determined reliably in accordance with paragraph 32, sub-paragraph (1) does not apply to that financial instrument.
 
@@ -451,8 +419,6 @@ Determination of fair value.
 32.(1)  The fair value of a financial instrument is determined in accordance with this paragraph.
 
 (2)  If a reliable market can readily be identified for the financial instrument, its fair value is determined by reference to its market value.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (3)  If a reliable market cannot readily be identified for the financial instrument but can be identified for its components or for a similar instrument, its fair value is determined by reference to the market value of its components or of the similar instrument.
 
@@ -483,8 +449,6 @@ Accounting for changes in value
 (2)  Despite paragraph 11 of Part 1 of Schedule 1 (Accounting principles), and subject to sub-paragraphs (3) and (4) below, a change in the value of the financial instrument or of the investment property or living animal or plant must be included in the profit and loss account.
 
 (3)  Where–
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (a) the financial instrument accounted for is a hedging instrument under a hedge accounting system that allows some or all of the change in value not to be shown in the profit and loss account; or
 
@@ -517,8 +481,6 @@ Interpretation of paragraphs 31 to 36.
 (b) were designated for such purpose at their inception; and
 
 (c) are expected to be settled by delivery of the commodity.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (3)  The expressions listed in sub-paragraph (4) have the same meaning as they have in the Accouting Directive.
 
@@ -555,8 +517,6 @@ Assets.
 6.  Equity shares and other variable-yield securities.
 
 7.  Participating interests.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 8.  Shares in group undertakings.
 
@@ -602,8 +562,6 @@ Liabilities.
 
 6.  Provisions for liabilities–
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (a) provisions for pensions and similar obligations;
 
 (b) provisions for tax;
@@ -646,8 +604,6 @@ Cash and balances at central or post office banks: (Assets item 1).
 
 1.(1)  Cash in hand comprises all currency including foreign notes and coins.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (2)  Only those balances which may be withdrawn without notice and which are deposited with central or post office banks of the country or countries in which the credit institution is established may be included in this item. All other claims on central or post office banks must be shown under Assets items 3 or 4.
 
 Treasury bills and other eligible bills: (Assets item 2).
@@ -671,8 +627,6 @@ Debt securities including fixed-income securities: (Assets item 5).
 5.(1)  This item comprises negotiable debt securities including fixed-income securities issued by credit institutions, by other undertakings or by public bodies; such securities issued by the latter, however, must be included only if they are not to be shown under Treasury bills and other eligible bills.
 
 (2)  Securities bearing interest rates that vary in accordance with specific factors, for example the interest rate on the inter-bank market or on the Euromarket, must also be regarded as debt securities including fixed-income securities.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (3)  Only repurchased and negotiable own-debt securities may be included in debt securities issued by other borrowers.
 
@@ -712,8 +666,6 @@ Called up capital not paid: (Assets items 11 and 14).
 
 8.  The two positions shown for this item are alternatives.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 Own shares: (Assets item 12).
 
 9.  The nominal value of the shares held must be shown separately under this item.
@@ -724,7 +676,7 @@ Amounts owed to credit institutions: (Liabilities item 1).
 
 The only exception is liabilities represented by debt securities or by any other security, which must be shown under Liabilities item 3.
 
-(2)  For the purposes of this paragraph credit institutions comprise all undertakings on the list published in the Official Journal of the European Communities pursuant to Article 11 of the Financial Conglomerates Directive, as  well  as  central  banks  and  official  domestic and international banking organisations and all private and public undertakings which are not established in the Community but which satisfy the definition in Article 1 of the Financial Conglomerates Directive.
+(2)  For the purposes of this paragraph credit institutions comprise central banks and official domestic and international banking organisations and all private and public undertakings which are not established in Gibraltar but which satisfy the definition in regulation 2 of the Financial Services (Financial Conglomerates) Regulations 2020.
 
 Amounts owed to customers: (Liabilities item 2).
 
@@ -741,8 +693,6 @@ Debts evidenced by certificates: (Liabilities item 3).
 Subordinated liabilities: (Liabilities item 7).
 
 13.  This item comprises all liabilities in respect of which there is a contractual obligation that, in the event of winding up or bankruptcy, they are to be repaid only after the claims of other creditors have been met.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 Called up share capital: (Liabilities item 8).
 
@@ -778,8 +728,6 @@ Claims on, and liabilities to, undertakings in which a participating interest is
 
 (b) liabilities to undertakings in which the company has a participating interest included therein.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 CHAPTER 3 FURTHER DISCLOSURE
 
 Subordinated assets.
@@ -808,8 +756,6 @@ Sale and repurchase transactions.
 
 (c) the value of the assets transferred must be disclosed in a note to its accounts.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (3)  Where the company is the transferee of the assets under the transaction it may not include the assets transferred in its balance sheet but the purchase price paid by it to the transferor must be so included as an amount owed by the transferor.
 
 Sale and option to resell transactions.
@@ -837,8 +783,6 @@ FORMAT 1 - VERTICAL LAYOUT
 (b) other interest receivable and similar income.
 
 2.  Interest payable: (2).
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 3.  Dividend income –
 
@@ -881,8 +825,6 @@ FORMAT 1 - VERTICAL LAYOUT
 12.  Adjustments to provisions –
 
 (a) adjustments to provisions for bad and doubtful debts: (9);
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (b) adjustments to Provisions for contingent liabilities and commitments: (10).
 
@@ -928,8 +870,6 @@ A.  Charges.
 
 (ii) social security costs;
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (iii) other pension costs;
 
 (b) other administrative expenses.
@@ -972,8 +912,6 @@ B.  Income.
 
 2.  Dividend income –
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (a) income from equity shares and other variable-yield securities;
 
 (b) income from participating interests;
@@ -1012,8 +950,6 @@ Interest receivable: (Format 1, item 1; Format 2, item B1)
 
 (a) income from assets included in Assets items 1 to 5 in the balance sheet format, however calculated;
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (b) income resulting from covered forward contracts spread over the actual duration of the contract and similar in nature to interest; and
 
 (c) fees and commissions receivable similar in nature to interest and calculated on a time basis or by reference to the amount of the claim (but not other fees and commissions receivable).
@@ -1041,8 +977,6 @@ In particular the following fees and commissions receivable must be included (un
 (c) fees and commissions for foreign currency transactions and for the sale and purchase of coin and precious metals; and
 
 (d) fees and commissions charged for brokerage services in connection with savings and insurance contracts and loans.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 Fees and commissions payable: (Format 1, item 5; Format 2, item A2)
 
@@ -1072,8 +1006,6 @@ Depreciation and amortisation: (Format 1, item 9; Format 2, item A5)
 
 6.  This item comprises depreciation and other amounts written off in respect of balance sheet Assets 9 and 10.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 Provisions: Provisions for bad and doubtful debts: (Format 1, item 11(a); Format 2, item A7(a))
 
 7.  This item comprises charges for amounts written off and for provisions made in respect of loans and advances shown under balance sheet Assets items 3 and 4.
@@ -1101,8 +1033,6 @@ Adjustments to amounts written off fixed asset investments: (Format 1, item 14; 
 PART 3
 
 NOTES TO THE ACCOUNTS
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 Preliminary.
 
@@ -1133,8 +1063,6 @@ Share capital.
 4.(1)  The following information must be given with respect to the company’s share capital –
 
 (a) the authorised share capital; and
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (b) where shares of more than one class have been allotted, the number and aggregate nominal value of shares of each class allotted.
 
@@ -1168,8 +1096,6 @@ Debentures.
 
 6.(1)  If the company has issued any debentures during the financial year to which the accounts relate, the following information must be given –
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (a) the classes of debentures issued; and
 
 (b) as respects each class of debentures, the amount issued and the consideration received by the company for the issue.
@@ -1198,8 +1124,6 @@ Fixed Assets.
 
 (b) on any basis permitted by paragraph 26 of Part 1;
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (leaving out of account in either case any provisions for depreciation or diminution in value).
 
 (3)  In addition, in respect of any fixed assets of the company included in any assets item in the company’s balance sheet, there must be stated (by reference to each such item) –
@@ -1227,8 +1151,6 @@ Tangible fixed assets.
 9.  In relation to any amount which is included under Assets item 10 in the balance sheet format (Tangible fixed assets) with respect to land and buildings there must be stated–
 
 (a) how much of that amount is ascribable to land of freehold tenure and how much to land of leasehold tenure; and
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (b) how much of the amount ascribable to land of leasehold tenure is ascribable to land held on long lease and how much to land held on short lease.
 
@@ -1264,8 +1186,6 @@ and the reserves or provisions are or would but for paragraph 7(3) be shown as s
 
 Provision for taxation.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 12.  The amount of any provision for deferred taxation must be stated separately from the amount of any provision for other taxation.
 
 Maturity analysis.
@@ -1300,8 +1220,6 @@ Subordinated liabilities.
 
 (a) its amount;
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (b) the currency in which it is denominated;
 
 (c) the rate of interest and the maturity date (or the fact that it is perpetual);
@@ -1331,8 +1249,6 @@ Details of assets charged.
 Guarantees and other financial commitments.
 
 18.(1)  Particulars and the total amount of any financial commitments, guarantees and contingencies that are not included in the balance sheet must be disclosed.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (2)  An indication of the nature and form of any valuable security given by the company in respect of commitments, guarantees and contingencies within subparagraph (1) must be given.
 
@@ -1364,8 +1280,6 @@ Memorandum items: Group undertakings.
 
 of the company, and in addition the amount incurred in respect of the undertakings referred to in paragraph (a) must be stated separately from the amount incurred in respect of the undertakings referred to in paragraph (b).
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (2)  With respect to commitments required to be included under Memorandum item 2 in the balance sheet format, there must be stated in a note to the accounts the amount of such commitments undertaken on behalf of or for the benefit of –
 
 (a) any parent undertaking or fellow subsidiary undertaking; or
@@ -1389,8 +1303,6 @@ Leasing transactions.
 Assets and liabilities denominated in a currency other than sterling (or the currency in which the accounts are drawn up).
 
 22.(1)  The aggregate amount, in sterling (or the currency in which the accounts are drawn up), of all assets denominated in a currency other than sterling (or the currency used), together with the aggregate amount, in sterling (or the currency used), of all liabilities so denominated, must be disclosed.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (2)  For the purposes of this paragraph an appropriate rate of exchange prevailing at the balance sheet date must be used to determine the amounts concerned.
 
@@ -1422,8 +1334,6 @@ Particulars of tax.
 
 (2)  The following amounts must be stated–
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (a) the amount of the charge to tax in Gibraltar;
 
 (b) if that amount would have been greater but for relief from double taxation, the amount which it would have been but for such relief; and
@@ -1453,8 +1363,6 @@ Particulars of income.
 (4)  Where in the opinion of the directors the disclosure of any information required by this paragraph would be seriously prejudicial to the interests of the company, that information need not be disclosed but the fact that any such information has not been disclosed must be stated.
 
 Management and agency services.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 27.  A company providing any management and agency services to customers must disclose that fact, if the scale of such services is material in the context of its business as a whole.
 
@@ -1492,8 +1400,6 @@ Information about fair value of assets and liabilities.
 
 (2)  There must be stated–
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (a) the significant assumptions underlying the valuation models and techniques used to determine the fair value of the financial instruments or other assets;
 
 (b) for each category of financial instrument or other asset, the fair value of the assets in that category and the changes in value–
@@ -1524,8 +1430,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIR
 
 (b) the amount at which those assets are included under any item in the company’s accounts is in excess of their fair value; and
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (c) the company has not made provision for diminution in value of those assets in accordance with paragraph 14 of Part 1, Chapter 3 of this Schedule.
 
 (2)  There must be stated–
@@ -1552,8 +1456,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIR
 
 (b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 Appropriations.
 
 35.  Particulars must be given of the proposed appropriation of profit or treatment of loss or, where applicable, particulars of the actual appropriation of the profits or treatment of the losses.
@@ -1568,16 +1470,10 @@ Post balance sheet events.
 
 (a) the nature and business purpose of the company’s arrangements that are not included in the balance sheet and the financial impact on the company of those arrangements, provided that the risks or benefits arising from such arrangements are material and in so far as the disclosure of such risks or benefits is necessary for assessing the financial position of the company;
 
-(b) transactions which have been entered into with related parties, as defined in the IAS Regulation, by the company, including the amount of such transactions, the nature of the related party relationship and other information about the transactions necessary for an understanding of the financial position of the company, if such transactions are material and have not been concluded under normal market conditions. Information about individual transactions may be aggregated according to their nature except where separate information is necessary for an understanding of the effects of related party transactions on the financial position of the company:
+(b) transactions which have been entered into with related parties by the company, including the amount of such transactions, the nature of the related party relationship and other information about the transactions necessary for an understanding of the financial position of the company, if such transactions are material and have not been concluded under normal market conditions. Information about individual transactions may be aggregated according to their nature except where separate information is necessary for an understanding of the effects of related party transactions on the financial position of the company:
 
 provided that transactions entered into between two or more members of a group are exempt from the provisions of this paragraph provided that subsidiaries which are party to the transaction are wholly owned by such a member.
 
 Fees.
 
-39.  The total fees for the financial year charged by each statutory auditor or audit firm for the statutory audit of the annual accounts, the total fees charged for other assurance services,
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
-the total fees charged for tax advisory services and the total fees charged for other non-audit services must be stated.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
+39.  The total fees for the financial year charged by each statutory auditor or audit firm for the statutory audit of the annual accounts, the total fees charged for other assurance services, the total fees charged for tax advisory services and the total fees charged for other non-audit services must be stated.

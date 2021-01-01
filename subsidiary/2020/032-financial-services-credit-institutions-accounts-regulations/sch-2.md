@@ -24,8 +24,6 @@ General Rules.
 
 (b) from interim accounts prepared by the subsidiary undertaking as at the end of the parent company’s financial year.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 3.(1)  Where assets and liabilities to be included in the group accounts have been valued or otherwise determined by undertakings according to accounting rules differing from those used for the group accounts, the values or amounts must be adjusted so as to accord with the rules used for the group accounts.
 
 (2)  If it appears to the directors of the parent company that there are special reasons for departing from sub-paragraph (1) they may do so, but particulars of any such departure, the reasons for it and its effect must be given in a note to the accounts.
@@ -51,8 +49,6 @@ Acquisition accounting.
 7.(1)  The following provisions apply where an undertaking becomes a subsidiary undertaking of the parent company.
 
 (2)  That event is referred to in those provisions as an “acquisition”, and references to the “undertaking acquired” will be construed accordingly.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 8.  An acquisition must be accounted for by the acquisition method of accounting.
 
@@ -80,8 +76,6 @@ For this purpose–
 
 (2)  References to the undertaking acquired will be construed as references to the group; and references to the assets and liabilities, income and expenditure and capital and reserves of the undertaking acquired will be construed as references  to the assets  and  liabilities, income and expenditure and capital and reserves of the group after making the set-offs and other adjustments required by this Schedule in the case of group accounts.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 11.(1)  The following information with respect to acquisitions taking place in the financial year must be given in a note to the accounts.
 
 (2)  The name of the undertaking acquired or, where a group was acquired, the name of the parent undertaking of that group must be stated, and in relation to an acquisition which significantly affects the figures shown in the group accounts, the following further information must be given.
@@ -103,8 +97,6 @@ For this purpose–
 (b) the extent to which the profit or loss shown in the group accounts is attributable to profit or loss of that undertaking or group.
 
 14.  The information required by paragraph 11, 12 or 13 need not be disclosed with respect to an undertaking which –
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (a) is established under the law of a country outside the United Kingdom or Gibraltar, or
 
@@ -130,11 +122,7 @@ and under that item must be shown the amount of any profit or loss on ordinary a
 
 (a) in Format 1, between items 22 and 23; or
 
-(b) in Format 2, between items A14 and A15 or between items B11 and B12 ,
-
-and under that item must be shown the amount of any profit or loss on extraordinary activities attributable to shares in subsidiary undertakings included in the consolidation held by or on behalf of persons other than the parent company and its subsidiary undertakings.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
+(b) in Format 2, between items A14 and A15 or between items B11 and B12 , and under that item must be shown the amount of any profit or loss on extraordinary activities attributable to shares in subsidiary undertakings included in the consolidation held by or on behalf of persons other than the parent company and its subsidiary undertakings.
 
 Joint ventures.
 
@@ -166,8 +154,6 @@ Associated undertakings.
 
 (2)  In the Balance Sheet Format, Asset item 7 (participating interests) is replaced by two items, “Interests in associated undertakings” and “Other participating interests”.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (3)  In the Profit and Loss Account Format , items 3(b) in Format 1 and B2(b) in Format 2 (income from participating interests, with a separate indication of that derived from group undertakings) are each replaced by the following items –
 
 (a) “Income from associated undertakings”, which must be shown as items 3(b) in Format 1 and B2(b) in Format 2;
@@ -190,11 +176,7 @@ Foreign currency translation.
 
 (a) the amount included in the consolidated accounts for the previous financial year with respect to any undertaking included in the consolidation or the group’s interest in any associated undertaking, together with the amount of any transactions undertaken to cover any such interest; and
 
-(b) the opening amount for the financial year in respect of those undertakings and in respect of any such transactions,
-
-arising as a result of paragraph 22 of Part  3 of Schedule 1 may be credited to (where (a) is less than (b)), or deducted from (where (a) is greater than (b)), consolidated reserves.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
+(b) the opening amount for the financial year in respect of those undertakings and in respect of any such transactions, arising as a result of paragraph 22 of Part  3 of Schedule 1 may be credited to (where (a) is less than (b)), or deducted from (where (a) is greater than (b)), consolidated reserves.
 
 22.  Any income and expenditure of undertakings included in the consolidation and associated undertakings in a foreign currency may be translated for the purposes of the consolidated accounts at the average rates of exchange prevailing during the financial year.
 
@@ -227,8 +209,6 @@ Subsidiary undertakings.
 Holdings in subsidiary undertakings.
 
 2.(1)  There must be stated in relation to shares of each class held by the company in a subsidiary undertaking–
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (a) the identity of the class; and
 
@@ -264,8 +244,6 @@ Financial information about subsidiary undertakings.
 
 Financial years of subsidiary undertakings.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 4.  Where–
 
 (a) disclosure is made under paragraph 3(1) with respect to a subsidiary undertaking; and
@@ -295,8 +273,6 @@ Significant holdings in undertakings other than subsidiary undertakings.
 7.(1)  There must be stated–
 
 (a) the name of the undertaking;
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (b) the address of the undertaking’s registered office (whether in or outside Gibraltar); and
 
@@ -329,8 +305,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIR
 (4)  Information otherwise required by this paragraph need not be given if it is not material.
 
 (5)  For the purposes of this paragraph the “relevant financial year” of an undertaking is –
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (a) if its financial year ends with that of the company, that year; and
 
@@ -366,8 +340,6 @@ Parent undertaking drawing up accounts for larger group.
 
 (3)  If copies of the group accounts referred to in sub-paragraph (1) are available to the public, the addresses from which copies of the accounts can be obtained must be given.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 Identification of ultimate parent company.
 
 11.(1)  Where the company is a subsidiary undertaking, the following information must be given with respect to the company (if any) regarded by the directors as being the company’s ultimate parent company–
@@ -398,11 +370,7 @@ Constructions of references to shares held by company.
 
 (a) where apart from the right to exercise them for the purpose  of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in accordance with his instructions; and
 
-(b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
-purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in his interests.
+(b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in his interests.
 
 PART 2 COMPANIES REQUIRED TO PREPARE GROUP ACCOUNTS
 
@@ -422,17 +390,15 @@ Subsidiary undertakings.
 
 (2)  It must also be stated whether the subsidiary undertaking is included in the consolidation and, if it is not, the reasons for excluding it from consolidation must be given.
 
-(3)  It must be stated with respect to each subsidiary undertaking by virtue of which of the conditions specified in Article 22 of the Accounting Directive of the Act it is a subsidiary undertaking of its immediate parent undertaking.
+(3)  It must be stated with respect to each subsidiary undertaking by virtue of which of the conditions specified in Section 276 of the Companies Act 2014 of the Act it is a subsidiary undertaking of its immediate parent undertaking.
 
-That information need not be given if the relevant condition is that specified in Article 22(1)(a) of the Accounting Directive  (holding of a majority of the voting rights) and the immediate parent undertaking holds the same proportion of the shares in the undertaking as it holds voting rights.
+That information need not be given if the relevant condition is that specified in Section 276 (2)(a) of the Companies Act 2014 (holding of a majority of the voting rights) and the immediate parent undertaking holds the same proportion of the shares in the undertaking as it holds voting rights.
 
 Holdings in subsidiary undertakings.
 
 15.(1)  The following information must be given with respect to the shares of a subsidiary undertaking held–
 
 (a) by the parent company; and
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (b) by the group;
 
@@ -468,8 +434,6 @@ Financial information about subsidiary undertakings not included in the consolid
 
 Shares and debentures of company held by subsidiary undertakings.
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 17.(1)  The number, description and amount of the shares in the company held by or on behalf of its subsidiary undertakings must be disclosed.
 
 (2)  Sub-paragraph (1) does not apply in relation to shares in the case of which the subsidiary undertaking is concerned as personal representative or,  subject as follows, as trustee.
@@ -497,8 +461,6 @@ Associated undertakings.
 (a) the name of the associated undertaking;
 
 (b) the address of the undertaking’s registered office (whether in or outside Gibraltar); and
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
 
 (c) if it is unincorporated, the address of its principal place of business.
 
@@ -532,8 +494,6 @@ Other significant holdings of parent company or group.
 
 (a) the name of the undertaking;
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (b) the address of the undertaking’s registered office (whether in or outside Gibraltar); and
 
 (c) if it is unincorporated, the address of its principal place of business.
@@ -566,8 +526,6 @@ Other significant holdings of parent company or group.
 
 23.(1)  The information required by paragraphs 24 and 25 must be given where at the end of the financial year the group has a significant holding in an undertaking which is  not  a subsidiary undertaking of the parent company and does not fall within paragraph 18 (joint ventures) or paragraph 19 (associated undertakings).
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (2)  A holding is significant for this purpose if –
 
 (a) it amounts to 20 per cent or more of the nominal value of any class of shares in the undertaking; or
@@ -599,8 +557,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIR
 (a) the undertaking is not required by any provision made by or under the Act or any other Act to deliver to the Registrar a  copy of its balance  sheet  for its relevant financial year and does not otherwise publish that balance sheet in Gibraltar or elsewhere; and
 
 (b) the holding of the group is less than 50 per cent of the nominal value of the shares in the undertaking.
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
 
 (3)  Information otherwise required by this paragraph need not be given if it is not material.
 
@@ -636,8 +592,6 @@ Parent undertaking drawing up accounts for larger group.
 
 (b) the address of the undertaking’s registered office (whether in or outside Gibraltar); and
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032
-
 (c) if it is unincorporated, the address of its principal place of business.
 
 (3)  If copies of the group accounts referred to in sub-paragraph (1) are available to the public, the addresses from which copies of the accounts can be obtained must also be stated.
@@ -668,8 +622,4 @@ Construction of references to shares held by parent company or group.
 
 (a) where apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in accordance with his instructions; and
 
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
 (b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in his interests.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020 2020/032

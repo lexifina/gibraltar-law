@@ -28,8 +28,4 @@ and emoluments in respect of a person’s accepting office as director will be t
 
 4.  The total amount of directors’ or past directors’ retirement pensions must be shown, and the amount so shown must distinguish between retirement pensions in respect of services as director, whether of the company or any of its subsidiary undertakings, and other pensions.
 
-5.  The amounts of advances and credits granted to the directors of the parent undertaking by that undertaking or one of its subsidiary undertakings must be shown, with indications of the interest rates, main conditions and any amounts repaid, as well as commitments entered into
-
-2019-26 Financial Services 2020/032 FINANCIAL SERVICES (CREDIT INSTITUTIONS: ACCOUNTS DIRECTIVE) REGULATIONS 2020
-
-on their behalf by way of guarantee of any kind with an indication of the total for each category.
+5.  The amounts of advances and credits granted to the directors of the parent undertaking by that undertaking or one of its subsidiary undertakings must be shown, with indications of the interest rates, main conditions and any amounts repaid, as well as commitments entered into on their behalf by way of guarantee of any kind with an indication of the total for each category.
