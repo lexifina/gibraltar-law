@@ -23,3 +23,9 @@ Provided that
 (ii) these Regulations shall apply to a ship the registration of which has not been completed on the date on which these Regulations shall come into effect;
 
 (b) 12, 16 (a) and (b), 17, 18, 19, 20, 24, 25, 26, 51, 52, 53 and 54.
+
+Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
+
+1995-12
+
+Subsidiary 1997/158

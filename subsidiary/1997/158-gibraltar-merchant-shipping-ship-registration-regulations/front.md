@@ -10,7 +10,9 @@ GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
 
 22.12.1997
 
-Amending enactments Relevant current provisions Commencement date LN. 2005/087 Sch. 1 1.7.2005 2016/006 r. 27(2)(f), Sch. 1 14.1.2016
+Amending enactments Relevant current provisions Commencement date LN. 2005/087 Sch. 1 1.7.2005 2016/006 r. 27(2)(f), Sch. 1 14.1.2016 2020/432 rr. 2, 2A-2C, 4(3A), 18(1A), (2)(c), 19(c), 27(1A)-(1B), 28(3), 34(1A), (2)(b), 35(b), 36(1), Sch. 2-3, 9
+
+1.1.2021 2021/112 r. 2C(1) 1.1.2021
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
 
@@ -24,7 +26,7 @@ Regulation
 
 PART I. GENERAL.
 
-2. Interpretation.
+2. Interpretation. 2A Registration of sanctioned ships. 2B. Gibraltar connection. 2C. Qualified persons.
 
 PART II. REGISTERS.
 
@@ -44,13 +46,13 @@ PART V. SHIP NAMES AND MARKINGS.
 
 PART VI. REFUSAL OF REGISTRATION AND REMOVAL FROM A REGISTER.
 
-15. Refusal of registration and removal from a register. 16. Prohibited ships.
-
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
 
 1995-12
 
 Subsidiary 1997/158
+
+15. Refusal of registration and removal from a register. 16. Prohibited ships.
 
 PART VII. PROVISIONAL AND FULL REGISTRATION ON THE REGISTER.
 
@@ -60,13 +62,13 @@ PART VIII. BAREBOAT REGISTRATION.
 
 33. Application of Part VIII. 34. Application for bareboat registration. 35. Declaration by or on behalf of bareboat charterers. 36. Bareboat registration. 37. Certificate of Bareboat Registry. 38. Period of bareboat registration. 39. Retention of documents on bareboat registration. 40. Application of the Act and these Regulations to ships bareboat registered. 41. Application for transfer of bareboat registration. 42. Closure of bareboat registration on transfer. 43. Notification of and declaration of transfer of ownership of ship bareboat chartered. 44. Notice of change in status of bareboat charterer. 45. Change of bareboat charterer. 46. Issue of certificate of deletion of bareboat registration.
 
-PART IX. CERTIFICATE OF PERMISSION.
-
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
 
 1995-12
 
 Subsidiary 1997/158
+
+PART IX. CERTIFICATE OF PERMISSION.
 
 47. Application for Certificate of Permission. 48. Certificate of Permission etc.. 49. Termination of Certificate of Permission. 50. Application of the Act and these Regulations to a ship in respect of which a Certificate of Permission is in effect.
 
@@ -92,16 +94,18 @@ SCHEDULE 4 Entry of provisional registration and provisional certificate of regi
 
 SCHEDULE 5 Entry of registration and certificate of registry
 
-SCHEDULE 6 Entry of bareboat registration and certificate of bareboat registry
-
-SCHEDULE 7
+SCHEDULE 6
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
 
 1995-12
 
-Subsidiary 1997/158 Entry of ship under construction registration and certificate of registry of ship under construction
+Subsidiary 1997/158 Entry of bareboat registration and certificate of bareboat registry
+
+SCHEDULE 7 Entry of ship under construction registration and certificate of registry of ship under construction
 
 SCHEDULE 8 Provisions applicable to transitional ships
+
+SCHEDULE 9 Approved countries
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997

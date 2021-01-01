@@ -1,4 +1,4 @@
-SCHEDULE 2 Regulation 2
+SCHEDULE 2 Regulations 28, 29, 41 and 42
 
 RELEVANT COUNTRIES
 
