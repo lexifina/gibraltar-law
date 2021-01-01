@@ -18,12 +18,6 @@ CRITERIA FOR THE DETERMINATION OF WHOLESALE VOICE TERMINATION RATES Section 40A 
 
 (h) for mobile network operators, the minimum efficient scale shall be set at a market share not below 20 %;
 
-Communications
-
-2006-15 (i) the relevant approach for asset depreciation shall be economic depreciation; and
+(i) the relevant approach for asset depreciation shall be economic depreciation; and
 
 (j) the technology choice of the modelled networks shall be forward looking, based on an IP core network, taking into account the various technologies likely to be used over the period of validity of the maximum rate; in the case of fixed networks, calls shall be considered to be exclusively packet switched.
-
-Communications
-
-2006-15

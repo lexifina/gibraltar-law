@@ -69,7 +69,3 @@ The whole Regulations
 The whole Regulations
 
 The whole Regulations
-
-Communications
-
-2006-15
