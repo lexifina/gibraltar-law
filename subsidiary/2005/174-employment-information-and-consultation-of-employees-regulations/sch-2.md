@@ -18,11 +18,7 @@ Ballot arrangements
 
 (e) the employer must, in accordance with paragraph 6, appoint an independent ballot supervisor to supervise the conduct of the ballot;
 
-Employment EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/174 (f) after the employer has formulated proposals as to the arrangements for the ballot and before he has published the final arrangements under sub-paragraph (g) he must, so far as reasonably practicable, consult with employees' representatives or, if no such representatives exist, the employees, on the proposed arrangements for the ballot; and
+(f) after the employer has formulated proposals as to the arrangements for the ballot and before he has published the final arrangements under sub-paragraph (g) he must, so far as reasonably practicable, consult with employees' representatives or, if no such representatives exist, the employees, on the proposed arrangements for the ballot; and
 
 (g) the employer must publish the final arrangements for the ballot in such manner as to bring them to the attention of, so far as reasonably practicable, his employees and, where they exist, the employees' representatives.
 
@@ -42,11 +38,7 @@ Conduct of the ballot.
 
 (a) ensure that a ballot supervisor appointed under paragraph 2(e) carries out his functions under this Schedule and that there is no interference with his carrying out of those functions; and
 
-Employment EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/174 (b) comply with all reasonable requests made by a ballot supervisor for the purposes of or in connection with the carrying out of those functions.
+(b) comply with all reasonable requests made by a ballot supervisor for the purposes of or in connection with the carrying out of those functions.
 
 9.  A ballot supervisor's appointment shall require that he
 
@@ -70,11 +62,7 @@ Subsidiary 2005/174 (b) comply with all reasonable requests made by a ballot sup
 
 10.  As soon as reasonably practicable after the date of the ballot, the ballot supervisor must publish the results of the ballot in such manner as to make them available to the employer and, so far as reasonably practicable, the employees entitled to vote in the ballot and the persons who stood as candidates in the ballot.
 
-Employment EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/174 11.  A ballot supervisor shall publish a report (“an ineffective ballot report”) where he considers (whether or not on the basis of representations made to him by another person) that
+11.  A ballot supervisor shall publish a report (“an ineffective ballot report”) where he considers (whether or not on the basis of representations made to him by another person) that
 
 (a) any of the requirements referred to in paragraph 2 was not satisfied with the result that the outcome of the ballot would have been different; or
 
@@ -94,8 +82,4 @@ Subsidiary 2005/174 11.  A ballot supervisor shall publish a report (“an ineff
 
 (ii) no such ballot shall have effect until it has been reheld and no ineffective ballot report has been published in respect of it.
 
-Employment EMPLOYMENT (INFORMATION AND CONSULTATION OF EMPLOYEES) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/174 15.  All costs relating to the holding of the ballot, including payments made to a ballot supervisor for supervising the conduct of the ballot, shall be borne by the employer (whether or not an ineffective ballot report has been made).
+15.  All costs relating to the holding of the ballot, including payments made to a ballot supervisor for supervising the conduct of the ballot, shall be borne by the employer (whether or not an ineffective ballot report has been made).
