@@ -10,7 +10,9 @@ Act. No. 1995-13 Commencement LN. 1997/157 except 59(4), (5) and 121(1) 22.12.19
 
 Assent 22.9.1995
 
-Amending enactments Relevant current provisions Commencement date Act. 2001-25 s.2 2.8.2001 2004-35 s.2 24.11.2004 2014-17 Sch. 12.6.2014
+Amending enactments Relevant current provisions Commencement date Act. 2001-25 s.2 2.8.2001 2004-35 s.2 24.11.2004 2014-17 Sch. 12.6.2014 LN.2020/410 s.95(1A), (3) 1.1.2021
+
+Implementing EC Regulation No. 392/2009
 
 Gibraltar Merchant Shipping (Safety, etc.)
 
