@@ -16,10 +16,6 @@ PART I
 
 5.  A vehicle which is being used for funerals.
 
-Transport
-
-1998-44
-
 6. A vehicle which is being used for police, fire brigade or ambulance purposes.
 
 7. A vehicle which is being used for fire-fighting or rescue operations at mines.
@@ -48,9 +44,7 @@ Transport
 
 (a) for the purposes of the enactments relating to weights and measures or the sale of food and drugs; or
 
-Transport
-
-1998-44 (b) road cleansing or road watering; or
+(b) road cleansing or road watering; or
 
 (c) the collection or disposal of refuse, night soil or the contents of cess-pools or septic tanks.
 
@@ -70,7 +64,7 @@ Transport
 
 23.  A recovery vehicle.
 
-24  A vehicle which is being used for snow clearing, or for the distribution of grit, salt or other materials on frosted, icebound or snow-covered roads or for going to or from the place where it is to be used for the said purposes or for any other purpose directly connected with those purposes.
+24.  A vehicle which is being used for snow clearing, or for the distribution of grit, salt or other materials on frosted, icebound or snow-covered roads or for going to or from the place where it is to be used for the said purposes or for any other purpose directly connected with those purposes.
 
 25.  A vehicle proceeding to or from the motor vehicle test centre provided that–
 
@@ -81,10 +75,6 @@ Transport
 PART II
 
 PURPOSES REFERRED TO IN PARAGRAPH 1 OF PART I OF THIS ANNEX
-
-Transport
-
-1998-44
 
 1.  Hauling–
 
@@ -112,6 +102,4 @@ Transport
 
 (b) a mowing machine, where the keeper is a local authority.
 
-Transport
-
-1998-44
+________________________

@@ -30,10 +30,6 @@ Interpretation.
 
 “relevant conviction” means any conviction in respect of an offence which is a serious offence as defined in sub-paragraph (3)(a) and (b) of paragraph 9 below or a road transport offence as defined in sub-paragraph (3)(c) of that paragraph;
 
-Transport
-
-1998-44
-
 (2) For the purpose of this Schedule, a person who is an applicant for, or a holder of, a licence, or who is a transport manager, shall be regarded as being engaged in a road transport undertaking if the person in question is–
 
 (a) the holder or, if an individual, one of the joint holders, of a licence, or
@@ -58,9 +54,7 @@ Classification of operator licences.
 
 (4) Where the Commission issues a driver attestation in accordance with Regulation (EC) No 1072/2009 the driver attestation shall accord with the format of Annex III of that Regulation.
 
-Transport
-
-1998-44 Manner of application and manner of objections and representations.
+Manner of application and manner of objections and representations.
 
 3.(1) Every application shall–
 
@@ -94,10 +88,6 @@ Transport
 
 (iii) if made by persons in partnership, by all of the partners or by one of them with the authority of the others;
 
-Transport
-
-1998-44
-
 or, in any of the above cases. by a solicitor acting on behalf of (as the case may be) the person, body or group; and
 
 (c) state the grounds on which it is made.
@@ -128,10 +118,6 @@ Restrictions on applications.
 
 (iii) a licence which was issued to him, but which has been suspended under section 29;
 
-Transport
-
-1998-44
-
 (b) which has ceased to be an authorised vehicle under a licence which was issued to him, but which is the subject of conditions under the Act.
 
 Inspections of applications.
@@ -155,10 +141,6 @@ Inspections of applications.
 (a) making a copy of the licence or, as the case may require, part of it, available for inspection at its offices, or
 
 (b) on prior receipt of its expenses in that behalf, by posting a copy of the licence or, as the case may require, part of it, to the address given for that purpose by the person requesting to make the inspection.
-
-Transport
-
-1998-44
 
 Qualifications of applicants.
 
@@ -186,10 +168,6 @@ Qualifications for operator licence– good repute.
 
 (3) The Commission shall determine that an individual is not of good repute if he has been convicted–
 
-Transport
-
-1998-44
-
 (a) of a serious offence;
 
 (b) of an offence under the Act which has resulted in the exercise by the Commission of its powers under section 29 to suspend or revoke a licence;
@@ -213,10 +191,6 @@ Provided that account shall only be taken of offences falling within (c) in resp
 (6) Sub-paragraph (3) is without prejudice to the power of the Commission to determine that an individual is not of good repute for reasons other than convictions of the kind there mentioned.
 
 (7) In this paragraph references to an individual include references to a transport manager as well as to an individual who is an applicant for, or the holder of, a licence.
-
-Transport
-
-1998-44
 
 Qualifications for operator licences– appropriate financial standing.
 
@@ -242,9 +216,7 @@ Qualifications for operator licences– appropriate financial standing.
 
 (d) the amount and cost of working capital adequate in respect of the undertaking.
 
-Transport
-
-1998-44 (4) The applicant or holder shall provide such evidence as the Commission may require for the purpose of establishing that the provisions of sub-paragraph (3) are met, including, if so required, guarantees by a bank or other similar institution.
+(4) The applicant or holder shall provide such evidence as the Commission may require for the purpose of establishing that the provisions of sub-paragraph (3) are met, including, if so required, guarantees by a bank or other similar institution.
 
 (5) The Commission may, in exercise of its power under section 5, summon to attend, or to produce any document or to give evidence, any person who, in the view of the Commission, has in his possession information or documents relevant to determining the financial resources available to an applicant, or to a holder of a licence for the purposes of setting up and operating the undertaking in respect of which the application has been made, or the licence is held.
 
@@ -266,9 +238,7 @@ Qualification of applicants– Professional competence.
 
 (c) ceases to be of good repute,
 
-Transport
-
-1998-44 the holder shall, nevertheless, not be treated as failing to satisfy that requirement until the expiry of such period (not exceeding 18 months) as, in the opinion of the Commission, is reasonably required for the appointment of a new transport manager.
+the holder shall, nevertheless, not be treated as failing to satisfy that requirement until the expiry of such period (not exceeding 18 months) as, in the opinion of the Commission, is reasonably required for the appointment of a new transport manager.
 
 (5) Where the holder of a licence is a company with two or more transport managers, and any of them ceases to be of good repute, the company shall, nevertheless, not be treated as failing to satisfy the requirement as to professional competence until the expiry of such period as, in the opinion of the Commission, is reasonably required for his removal or the appointment of a transport manager in his place.
 
@@ -276,7 +246,7 @@ Transport
 
 (a) he has demonstrated possession of the requisite skills by passing a written examination, which may take the form of a multiple-choice examination, organised by an approved body and he is the holder of a certificate to that effect issued by the approved body; or
 
-(b) he is the holder of any other certificate of competence, diploma or other qualifications recognised for the purposes of this sub- paragraph by the Commission.
+(b) he is the holder of any other certificate of competence, diploma or other qualifications recognised for the purposes of this sub-paragraph by the Commission.
 
 (7) In subparagraph (6) “approved body” means–
 
@@ -290,11 +260,9 @@ Death, bankruptcy etc. of applicant or licence holder.
 
 12.(1) In any event specified in sub-paragraph (3) an application for a licence shall fail save in a case specified in sub-paragraph (4).
 
-(2) In any event specified in sub-paragraph (3) a licence shall cease to have effect  save in a case specified in sub-paragraph (4).
+(2) In any event specified in sub-paragraph (3) a licence shall cease to have effect save in a case specified in sub-paragraph (4).
 
-Transport
-
-1998-44 (3) The events referred to in sub-paragraph (1) and (2) are–
+(3) The events referred to in sub-paragraph (1) and (2) are–
 
 (a) where an application is made, or a licence is held, by an individual–
 
@@ -320,9 +288,7 @@ Transport
 
 (vi) the requirements of professional competence cease to be satisfied;
 
-Transport
-
-1998-44 (c) where an application is made, or a licence is held, by persons in partnership–
+(c) where an application is made, or a licence is held, by persons in partnership–
 
 (i) the partnership is dissolved, or
 
@@ -346,11 +312,7 @@ with the result that only one other of such persons who is not such a patient re
 
 (ii) within four months of the sending of such notice, an application for a new licence is made by that person,
 
-Transport
-
-1998-44
-
-the licence shall, subject to the provisions specified in sub- paragraphs (5) and (6), continue in force for the benefit of that person who shall so long as the licence so continues be deemed to be the holder thereof;
+the licence shall, subject to the provisions specified in subparagraphs (5) and (6), continue in force for the benefit of that person who shall so long as the licence so continues be deemed to be the holder thereof;
 
 (b) where the requirement of professional competence ceases to be satisfied the Commission shall not be required to revoke the licence during such period, not exceeding one year from the date of such cessation, or during such further period, not exceeding six months from the end of that first period as the Commission may determine and this provision applies to a successor mentioned in (a) as well as to the person to whom the licence was granted.
 
@@ -370,11 +332,7 @@ the licence shall, subject to the provisions specified in sub- paragraphs (5) an
 
 (iii) where the applicant or the holder, as the case may be, is a company, any person who is a director of the company;
 
-(iv) where the applicant proposes to operate authorised vehicles, or the holder operates authorised vehicles, as
-
-Transport
-
-1998-44 the case may be, in partnership with any other persons, any of those other persons;
+(iv) where the applicant proposes to operate authorised vehicles, or the holder operates authorised vehicles, as the case may be, in partnership with any other persons, any of those other persons;
 
 (v) any company of which any person as is mentioned in (iii) or (iv) is or has been a director;
 
@@ -400,9 +358,7 @@ Partnerships.
 
 (a) every one of such persons is of good repute,
 
-Transport
-
-1998-44 (b) the firm satisfies the requirement of appropriate financial standing, and
+(b) the firm satisfies the requirement of appropriate financial standing, and
 
 (c) either–
 
@@ -422,9 +378,7 @@ Transport
 
 (4) The provision in paragraph 11(2) that a company satisfies the requirement as to professional competence if, and so long as, it has a transport manager or transport managers of its road transport business who, or if more than one each of whom, is of good repute and professionally competent shall apply in the case of persons in partnership so that the firm satisfies the said requirement if, and so long as, each of such persons is of good repute, and either–
 
-Transport
-
-1998-44 (a) if one or more of those persons manage the road transport business carried on by the partnership, he, or if more than one each of them, is professionally competent, or
+(a) if one or more of those persons manage the road transport business carried on by the partnership, he, or if more than one each of them, is professionally competent, or
 
 (b) the firm employs a transport manager or transport managers of its road transport business who, or if more than one each of whom, is of good repute and professionally competent.
 
@@ -444,11 +398,7 @@ Conditions to be attached to operator licences.
 
 (2) A condition attached by the Commission to a licence under subparagraph (1) shall be regarded as having been attached under section 26.
 
-(3) A condition attached by the Commission to a licence under subparagraph (1), in a case where the holder of the licence is a company,
-
-Transport
-
-1998-44 shall not require the holder to inform the Commission of any change in the persons holding shares of the company unless the change is such as to cause a change in the control of the company.
+(3) A condition attached by the Commission to a licence under subparagraph (1), in a case where the holder of the licence is a company, shall not require the holder to inform the Commission of any change in the persons holding shares of the company unless the change is such as to cause a change in the control of the company.
 
 (4) For the purposes of sub-paragraph (3) a change in the control of a company occurs when the controlling interest (as defined in subparagraph (5)) passes from one person to another person or from one group of persons to a wholly or substantially different group of persons.
 
@@ -472,9 +422,7 @@ Considerations relevant to suitability of site as an operating centre.
 
 (a) the nature and the use of any other land in the viscinity of the land proposed to be used or used as an operating centre, and, in the case of an application for a licence, any effect which the use of the land as an operating centre, would be likely to have, or the use has on the environment of that vicinity;
 
-Transport
-
-1998-44 (b) in a case where the land proposed to be used as an operating centre is, or has previously been, used as an operating centre, the extent to which the grant of the application would result in any material change as regards that operating centre, or its use, which would adversely affect the environment of the viscinity of that land;
+(b) in a case where the land proposed to be used as an operating centre is, or has previously been, used as an operating centre, the extent to which the grant of the application would result in any material change as regards that operating centre, or its use, which would adversely affect the environment of the viscinity of that land;
 
 (c) in the case of an application which, if granted, would result in land which has not previously been used as an operating centre being used as one, any in formation known to the Commission about any approved planning scheme, any application for outline planning permission, any such permission granted or any planning permit relating to the land or any other land in the vicinity of that land;
 
@@ -492,9 +440,7 @@ Transport
 
 “approved planning scheme”, “outline planning permission” and “planning permit” have the meanings given to those expressions in the Town Planning Act as amended from time to time;
 
-Transport
-
-1998-44 “authorised vehicles”, in relation to an application for a licence, includes any one or more vehicles which would be authorised vehicles if the application were granted or any one or more vehicles; and
+“authorised vehicles”, in relation to an application for a licence, includes any one or more vehicles which would be authorised vehicles if the application were granted or any one or more vehicles; and
 
 “operating centre” in relation to an application for a licence, includes the place which would be the operating centre if the application were granted and includes part of an operating centre.
 
@@ -510,13 +456,9 @@ Variation, review, renewal and amendment of operator licences.
 
 Suspension and revocation of operator licences.
 
-18.(1) Subject to the provisions of paragraphs 12 and 30 and of sub- paragraph (2) the Commission shall suspend or revoke a licence if it appears to the Commission at any time that the holder no longer satisfies the requirement to be of good repute, the requirement to be of appropriate financial standing or the requirement as to professional competence, and the provisions of paragraphs 9, 10 and 11 shall apply for the purposes of this sub-paragraph as they apply for the purposes of paragraph 8.
+18.(1) Subject to the provisions of paragraphs 12 and 30 and of sub-paragraph (2) the Commission shall suspend or revoke a licence if it appears to the Commission at any time that the holder no longer satisfies the requirement to be of good repute, the requirement to be of appropriate financial standing or the requirement as to professional competence, and the provisions of paragraphs 9, 10 and 11 shall apply for the purposes of this sub-paragraph as they apply for the purposes of paragraph 8.
 
-(2) Before acting under sub-paragraph (1) the Commission shall give notice in writing to the holder of the licence that it is considering suspension or revocation of the licence, and shall state in the notice the grounds on
-
-Transport
-
-1998-44 which suspension or revocation is being considered and that written representations may be made by the holder of the licence to the Commission with respect thereto, so as to be received by the Commission within 21 days from the date of the notice, and the Commission shall consider all such representations duly made.
+(2) Before acting under sub-paragraph (1) the Commission shall give notice in writing to the holder of the licence that it is considering suspension or revocation of the licence, and shall state in the notice the grounds on which suspension or revocation is being considered and that written representations may be made by the holder of the licence to the Commission with respect thereto, so as to be received by the Commission within 21 days from the date of the notice, and the Commission shall consider all such representations duly made.
 
 (3) A licence which has been suspended by the Commission shall during any time of suspension be of no effect.
 
@@ -530,7 +472,7 @@ Transport
 
 (a) is a director of or holds a controlling interest in–
 
-(i) a company which holds a licence of  the kind to which the disqualification applies; or
+(i) a company which holds a licence of the kind to which the disqualification applies; or
 
 (ii) a company of which such a company is a subsidiary; or
 
@@ -540,9 +482,7 @@ the licence of that company, or as the case may be, of that person shall be liab
 
 (6) The powers conferred by paragraphs (4) and (5) in relation to the person who was the holder of the licence shall be exercisable also, where that person was a company, in relation to any director of the company, and, where that person operated the authorised vehicles in partnership with other persons, in relation to any of those other persons.
 
-Transport
-
-1998-44 (7) Where the Commission suspends a licence or imposes conditions which have the effect of removing any vehicle from being an authorised vehicle under the licence–
+(7) Where the Commission suspends a licence or imposes conditions which have the effect of removing any vehicle from being an authorised vehicle under the licence–
 
 (a) in the case of a suspension, any vehicle specified in the licence may not be used under any other licence;
 
@@ -560,9 +500,7 @@ Requirement for transport manager to be notified.
 
 20.(1) The Commission shall not make a finding that a transport manager is not of good repute or is not professionally competent unless the Commission is satisfied that the transport manager has been served with a notice–
 
-Transport
-
-1998-44 (a) stating that the Commission has before it allegations concerned with whether or not he is of good repute or is professionally competent (as the case may be);
+(a) stating that the Commission has before it allegations concerned with whether or not he is of good repute or is professionally competent (as the case may be);
 
 (b) stating that he is entitled to make representations under this paragraph, within 28 days beginning with the date that the notice is served on him; and
 
@@ -580,13 +518,11 @@ Identification of vehicles.
 
 (2) Those discs shall distinguish between a vehicle specified in a licence which covers both international and national carriage and one specified in a licence which covers national carriage only.
 
-(3) The holder of a licence shall, during such time as any vehicle is specified in the licence and whether or not for the time being the vehicle is being used for the purpose for which a licence is required, cause a disc appropriate to the vehicle to be affixed to that vehicle in a waterproof container–
+(3) The holder of a licence shall, during such time as any vehicle is specified in the licence and whether or not for the time being the vehicle is being used for the purpose for which a licence is required, cause a disc appropriate to the vehicle to be affixed to that vehicle in a waterproof   container–
 
 (a) in the case of a vehicle fitted with a front windscreen, on the near side and near the lower edge of the windscreen with the obverse side facing forwards;
 
-Transport
-
-1998-44 (b) in the case of a vehicle not fitted with a front windscreen, in a conspicuous position on the front or near side of the vehicle.
+(b) in the case of a vehicle not fitted with a front windscreen, in a conspicuous position on the front or near side of the vehicle.
 
 (4) At all times while a disc is affixed to a vehicle in accordance with the requirements of sub-paragraph (3) the person for the time being in control of that vehicle shall keep that disc readily legible, and at no time shall any person except the Commission, or a person authorised to do so on its behalf, write on or make any other alteration to a disc.
 
@@ -612,9 +548,7 @@ Production of licence for examination.
 
 (b) an officer of the Commission;
 
-Transport
-
-1998-44 (c) a person authorised by the Minister under Part IVA to carry out checks and inspections of recording equipment;
+(c) a person authorised by the Minister under Part IVA to carry out checks and inspections of recording equipment;
 
 (d) a person appointed under section 10 of the Shop Hours Act;
 
@@ -642,9 +576,7 @@ Return of licences and discs.
 
 26.(1) If the holder of a licence ceases to use under the licence any vehicle specified in the licence he shall within 21 days notify the Commission and return to the Commission the licence for variation and the disc relating to the vehicle.
 
-Transport
-
-1998-44 (2) If a licence is varied or amended its holder shall, when required by the Commission so to do, return to the Commission–
+(2) If a licence is varied or amended its holder shall, when required by the Commission so to do, return to the Commission–
 
 (a) the licence, and
 
@@ -654,9 +586,7 @@ Transport
 
 (a) the licence, and
 
-(b) the disc relating to any vehicle which the Commission may specify
-
-for cancellation, retention during the time of suspension, or alteration as the case may be.
+(b) the disc relating to any vehicle which the Commission may specify for cancellation, retention during the time of suspension, or alteration as the case may be.
 
 Expiry of licences.
 
@@ -672,11 +602,7 @@ Holding companies and subsidiaries.
 
 which would have the effect, if the application were granted, of including in the licence to be issued to, or already held by, the holding company, vehicles belonging to or in the possession of a subsidiary of that company specified in the application.
 
-(2) An application by a holding company under sub-paragraph (1) shall, unless the subsidiary is not the holder of a licence, or the licence or
-
-Transport
-
-1998-44 amendment applied for by the holding company will not take effect until any licence held by the subsidiary has expired by effluxion of time, be accompanied by an application by the subsidiary for the amendment of the licence held by the subsidiary for the removal therefrom of all or some of the vehicles authorised to be used thereunder, being the vehicles to which the application of the holding company relates.
+(2) An application by a holding company under sub-paragraph (1) shall, unless the subsidiary is not the holder of a licence, or the licence or amendment applied for by the holding company will not take effect until any licence held by the subsidiary has expired by effluxion of time, be accompanied by an application by the subsidiary for the amendment of the licence held by the subsidiary for the removal therefrom of all or some of the vehicles authorised to be used thereunder, being the vehicles to which the application of the holding company relates.
 
 (3) Where a holding company, on an application under sub-paragraph (1) signifies to the Commission its desire that the provisions of this paragraph should have effect as respects a subsidiary of that company, then, in relation to the application and to any licence granted to the holding company, or held by the holding company and amended, on that application, and to the use of the vehicles authorised to be used under any such licence sections 25 to 34 and 42 and this Schedule shall have effect subject to the modifications specified in paragraph 29.
 
@@ -690,9 +616,7 @@ Transport
 
 (6) In a case where the applicant for, or the holder, of a licence is a holding company and the goods vehicles used, or to be used, under the licence belong to, or are in the possession of, a subsidiary of that holding company, the provisions of this Schedule apply as if–
 
-Transport
-
-1998-44 (a) the road transport undertaking and any operating centre of the subsidiary were the road transport undertaking and an operating centre of the holding company,
+(a) the road transport undertaking and any operating centre of the subsidiary were the road transport undertaking and an operating centre of the holding company,
 
 (b) for purposes of, or relating to, the reputation and financial standing of the holding company, the activities, relevant convictions and financial resources of the subsidiary were activities, convictions and resources of the holding company, and
 
@@ -700,9 +624,9 @@ Transport
 
 Modifications in relation to holding companies and subsidiaries.
 
-29.(1) Sections  25 to 30, and 32 to 34 and 42 and this Schedule shall have effect in relation to licences as if any reference (except in this paragraph) to a provision which is modified by this paragraph were a reference to that provision as so modified.
+29.(1) Sections 25 to 30, and 32 to 34 and 42 and this Schedule shall have effect in relation to licences as if any reference (except in this paragraph) to a provision which is modified by this paragraph were a reference to that provision as so modified.
 
-(2) Sections  25 to 30, and 32 to 34 and 42 and this Schedule have effect as if–
+(2) Sections 25 to 30, and 32 to 34 and 42 and this Schedule have effect as if–
 
 (a) vehicles belonging to, or in the possession of, the subsidiary, belonged to, or were in possession of, the holding company;
 
@@ -710,7 +634,9 @@ Modifications in relation to holding companies and subsidiaries.
 
 (c) a trade or business carried on by the subsidiary were carried on by the holding company;
 
-(d) the subsidiary were an applicant for the grant or variation of the licence; (e) any operating centre of the subsidiary were an operating centre of the holding company;
+(d) the subsidiary were an applicant for the grant or variation of the licence;
+
+(e) any operating centre of the subsidiary were an operating centre of the holding company;
 
 (f) any person who is a director of the subsidiary were a director of the holding company;
 
@@ -718,9 +644,7 @@ Modifications in relation to holding companies and subsidiaries.
 
 (3) This Schedule shall have effect as if–
 
-Transport
-
-1998-44 (a) in paragraph 6 the reference to an operating centre of the applicant included a reference to an operating centre of the subsidiary;
+(a) in paragraph 6 the reference to an operating centre of the applicant included a reference to an operating centre of the subsidiary;
 
 (b) in paragraph 24 the reference to the holder of the licence included a reference to the subsidiary.
 
@@ -738,7 +662,7 @@ Direction as to “holder” of an operator licence.
 
 (3) This paragraph also applies in the event of the actual holder of a licence becoming a person who lacks capacity within the meaning of Part 5 of the Mental Health Act 2016.
 
-(4) After the happening of any of the events mentioned in sub- paragraphs (2) and (3) the Commission may direct that a person carrying on the trade or business of the actual holder of the licence is to be treated for the purposes of sections  25 to 34, and 42 and this Schedule as if he were the holder thereof for such purpose and to such extent as is specified in the direction for a period not exceeding–
+(4) After the happening of any of the events mentioned in sub-paragraphs (2) and (3) the Commission may direct that a person carrying on the trade or business of the actual holder of the licence is to be treated for the purposes of sections 25 to 34, and 42 and this Schedule as if he were the holder thereof for such purpose and to such extent as is specified in the direction for a period not exceeding–
 
 (a) if it appears to the Commission that there are special circumstances, 18 months;
 
@@ -748,9 +672,7 @@ from the date of the happening of the event.
 
 (5) The powers under sub-paragraph (4) shall be exercisable in relation to a licence whether or not the person carrying on the trade or business of the actual holder of the licence satisfies the requirement of professional competence.
 
-Transport
-
-1998-44 (6) Where a person is treated as if he were the holder of the licence by virtue of a direction under this paragraph–
+(6) Where a person is treated as if he were the holder of the licence by virtue of a direction under this paragraph–
 
 (a) any vehicle belonging to the actual holder of the licence or in his possession under an agreement for hire purchase, hire or loan, shall for the purposes of sections 25 to 34 and this Schedule be treated as if it belonged to that person, or was in the possession of that person under an agreement for hire purchase, hire or loan as the case may be, and
 
@@ -768,15 +690,11 @@ Offences.
 
 (2) A person who uses a goods or passenger vehicle under a licence, which covers carrying goods or passengers for hire or reward on national carriage only, for carrying goods or passengers for hire or reward on international carriage shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale
 
-(3) The provisions of this paragraph do not apply in relation to offences committed before the date on which this Schedule comes into effect and
-
-Transport
-
-1998-44 subject to any transitional provisions in respect of the effect of this Schedule.
+(3) The provisions of this paragraph do not apply in relation to offences committed before the date on which this Schedule comes into effect and subject to any transitional provisions in respect of the effect of this Schedule.
 
 Classes of vehicle for which an operator licence is not required.
 
-32.  The classes of vehicle specified under sub-section (4) of section 25 as those to which sub-section (1)(a) of that section does not apply are the classes mentioned in Part I of the Annex to this Schedule.
+32.  The classes of vehicle specified under sub-section (4) of section 25 as those to which sub- section (1)(a) of that section does not apply are the classes mentioned in Part I of the Annex to this Schedule.
 
 Temporary exemption.
 
@@ -794,15 +712,11 @@ Persons engaged in road passenger transport before the coming into effect of the
 
 (b) he was, under or by virtue of any provision in this Act deemed to be the holder or one of the joint holders of such a licence; or
 
-(c) he was so authorised under the law of a relevant State ; or
+(c) he was so authorised under the law of a relevant State; or
 
 (d) he was the transport manager of a person within paragraph (a), (b) or (c).
 
-36.(1) An individual or company authorised to engage in the occupation of road passenger transport operator at any time before the coming into force of this Act shall be deemed until the contrary is proved to
-
-Transport
-
-1998-44 satisfy the requirements to be of good repute, appropriate financial standing and professional competence.
+36.(1) An individual or company authorised to engage in the occupation of road passenger transport operator at any time before the coming into force of this Act shall be deemed until the contrary is proved to satisfy the requirements to be of good repute, appropriate financial standing and professional competence.
 
 (2) An applicant for a licence to which this paragraph applies, or for the variation of such a licence, shall not be obliged to furnish the Commission in support of his application information relating to a requirement that is deemed to be satisfied by virtue of sub-paragraph (1) above, unless it appears to the Commission that there are grounds for thinking that the requirement is not satisfied.
 

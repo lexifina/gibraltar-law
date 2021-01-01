@@ -28,10 +28,6 @@ Exemption Listings.
 
 (c) is being used by the Elderly Care Agency to provide, in the exercise of social services functions–
 
-Transport
-
-1998-44
-
 (i) services for old persons; or
 
 (ii) services for physically and mentally disabled persons;
@@ -58,9 +54,7 @@ Transport
 
 2.5(1) Any vehicle which is being used for driving instruction and examination with a view to obtaining a driving licence or certificate of professional competence.
 
-Transport
-
-1998-44 (2) A vehicle does not fall within the description specified in this paragraph if the vehicle or any trailer or semi-trailer drawn by it is being used for the commercial carriage of goods or passengers.
+(2) A vehicle does not fall within the description specified in this paragraph if the vehicle or any trailer or semi-trailer drawn by it is being used for the commercial carriage of goods or passengers.
 
 2.6 Any vehicle which is being used in connection with–
 
@@ -90,10 +84,6 @@ Transport
 
 (2) For the purposes of this paragraph, examples of “hub facilities” include the port and the airport.
 
-3.  For the purpose of Article 3(i) of the Community Drivers’ Hours Regulation and for the purpose of Article 2(2)(k) of the AETR a vehicle has a historic status if it is a vehicle which is by virtue of its construction and
-
-Transport
-
-1998-44 equipment suitable for carrying passengers or goods and which was manufactured more than 25 years before the date on which it is being driven.
+3.  For the purpose of Article 3(i) of the Community Drivers’ Hours Regulation and for the purpose of Article 2(2)(k) of the AETR a vehicle has a historic status if it is a vehicle which is by virtue of its construction and equipment suitable for carrying passengers or goods and which was manufactured more than 25 years before the date on which it is being driven.
 
 4.  Pursuant to Article 3(2) of the EU Tachographs Regulation, exemption is granted from the provisions of that Regulation in respect of any vehicle falling within a description specified in this Part of this Schedule.
