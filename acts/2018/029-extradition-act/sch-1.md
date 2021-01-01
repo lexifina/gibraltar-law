@@ -40,9 +40,9 @@ List of conduct constituting extradition offence
 
 18. Organised or armed robbery.
 
-2018-29 Extradition
+19. Illicit trafficking in cultural goods, including antiques and works of art.
 
-19. Illicit trafficking in cultural goods, including antiques and      works of art. 20. Swindling.
+20. Swindling.
 
 21. Racketeering and extortion.
 
@@ -67,7 +67,5 @@ List of conduct constituting extradition offence
 31. Unlawful seizure of aircraft/ships.
 
 32 Sabotage.
-
-Extradition 2018-29
 
 (Taken from Part 1 of Schedule 2 of the 2003 Act)

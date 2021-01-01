@@ -2,9 +2,9 @@ SCHEDULE 2 Section 108
 
 Re-extradition: Modifications
 
-1.In section 14, omit subsections (2), (3), (5) and (8).
+1. In section 14, omit subsections (2), (3), (5) and (8).
 
-2.In section 14, for subsection (4) substitute with-
+2. In section 14, for subsection (4) substitute with-
 
 “(4) The Magistrate must decide whether the offence specified in the request is an extradition offence.”
 
@@ -24,7 +24,7 @@ Re-extradition: Modifications
 
 (5) If the Magistrate remands the person in custody he may later grant bail.”.
 
-9.In section 39(1)-
+9. In section 39(1)-
 
 (a)  for the words from “sends a case” to “extradited” substitute “orders a person’s extradition under this Part”; and
 
@@ -35,8 +35,6 @@ Re-extradition: Modifications
 11. In section 39, omit subsections (3), (5), (6), (7) and (8).
 
 12. In section 39(9), for the words from “the Central Authority” to “person” substitute with “the order is made”.
-
-2018-29 Extradition
 
 13. In section 40, omit subsections (1)(b), (6) and (7).
 
@@ -68,15 +66,13 @@ Re-extradition: Modifications
 
 “(aa) must be given before the Magistrate;”.
 
-25.In section 63, omit subsections (4) and (5)
+25. In section 63, omit subsections (4) and (5)
 
-26.In section 64, after subsection (1) insert-
+26. In section 64, after subsection (1) insert-
 
 “(1A) The Magistrate must remand the person in custody or on bail.
 
 (1B) If the Magistrate remands the person in custody he may later grant bail.”.
-
-Extradition 2018-29
 
 27. In section 64(4), for the words from “send the case” to “extradited” substitute with “within the period of 10 days starting with the day on which consent is given order the person’s extradition to the Requesting State”.
 
@@ -92,7 +88,7 @@ Extradition 2018-29
 
 64A.(1)  This section applies if the Magistrate makes an order under section 64(4) for a person’s extradition to the Requesting State.
 
-(2)  The person must be extradited to the Requesting State before the  end of the required period, which is 28 days starting with the day on which the order is made.
+(2)  The person must be extradited to the Requesting State before the end of the required period, which is 28 days starting with the day on which the order is made.
 
 (3)  If subsection (2) is not complied with and the person applies to the Magistrate to be discharged the Magistrate must order his discharge, unless reasonable cause is shown for the delay.
 
@@ -113,8 +109,6 @@ Extradition claim following consent.
 (3)  The conditions are that-
 
 (a)  a European arrest warrant has been issued in respect of the person;
-
-2018-29 Extradition
 
 (b)  the European arrest warrant has not been disposed of.
 
