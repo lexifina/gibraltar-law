@@ -12,7 +12,7 @@ Description of development.
 
 (b) initial afforestation for the purposes of conversion to another land use;
 
-(c) intensive livestock  installations  (unless included in Schedule 1);
+(c) intensive livestock installations (unless included in Schedule 1);
 
 (d) intensive fish farming;
 
@@ -20,7 +20,7 @@ Description of development.
 
 (2) Extractive industry.
 
-(a) Quarries and  open-cast  mining (unless included in Schedule 1);
+(a) Quarries and open-cast mining (unless included in Schedule 1);
 
 (b) underground mining;
 
@@ -36,9 +36,7 @@ Description of development.
 
 with the exception of drillings for investigating the stability of the soil.
 
-(e) Surface  industrial  installations  for  the extraction of coal, petroleum, natural gas and ores, as well as bituminous shale.
-
-Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulations 2019 2019/195
+(e) Surface industrial installations for the extraction of coal, petroleum, natural gas and ores, as well as bituminous shale.
 
 (3) Energy industry.
 
@@ -76,8 +74,6 @@ Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulation
 
 (c) Ferrous metal foundries;
 
-2018-19 Town Planning 2019/195 Town Planning (Environmental Impact Assessment) Regulations 2019
-
 (d) installations for the smelting, including the alloyage,  of non-ferrous  metals, excluding precious metals, including recovered products (refining, foundry casting, etc);
 
 (e) installations for surface treatment of metals and plastic materials using an electrolytic or chemical process;
@@ -113,8 +109,6 @@ Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulation
 (a) Treatment of intermediate products and production of chemicals;
 
 (b) Production of pesticides and pharmaceutical products, paint and varnishes, elastomers and peroxides;
-
-Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulations 2019 2019/195
 
 (c) Storage facilities for petroleum, petrochemical and chemical products.
 
@@ -156,13 +150,11 @@ Manufacture and treatment of elastomer-based products.
 
 (a) Industrial estate development projects;
 
-2018-19 Town Planning 2019/195 Town Planning (Environmental Impact Assessment) Regulations 2019
-
 (b) Urban development projects, including the construction of shopping centres and car parks;
 
 (c) Construction of intermodal transshipment facilities and of intermodal terminals (unless included in Schedule 1);
 
-(d) Construction of railways (unless included in  Schedule 1);
+(d) Construction of railways (unless included in Schedule 1);
 
 (e) Construction of airfields (unless included in Schedule 1);
 
@@ -190,9 +182,7 @@ Manufacture and treatment of elastomer-based products.
 
 (a) Permanent racing and test tracks for motorised vehicles;
 
-(b) Installations for the disposal of waste (unless included  in Schedule 1);
-
-Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulations 2019 2019/195
+(b) Installations for the disposal of waste (unless included in Schedule 1);
 
 (c) Waste-water treatment plants (unless included in Schedule 1);
 
@@ -225,5 +215,3 @@ Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulation
 (a) Any change to or extension of development of a description listed in Schedule 1 (other than a change or extension falling within paragraph 22 of that Schedule) or in paragraphs 1 to 12 of this Schedule, where that development is already authorised, executed or in the process of being executed, which may have significant adverse effects on the environment;
 
 (b) Development of a description mentioned in Schedule 1 undertaken exclusively or mainly for the development and testing of new methods or products and not used for more than two years.
-
-2018-19 Town Planning 2019/195 Town Planning (Environmental Impact Assessment) Regulations 2019

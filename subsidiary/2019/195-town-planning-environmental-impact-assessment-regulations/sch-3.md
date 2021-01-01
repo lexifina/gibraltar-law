@@ -34,15 +34,13 @@ The environmental sensitivity of geographical areas likely to be affected by dev
 
 (ii) coastal zones and the marine environment;
 
-Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulations 2019 2019/195
-
 (iii) mountain and forest areas;
 
 (iv) nature reserves and parks;
 
-(v) areas classified or protected under national legislation; Natura 2000 areas designated under Directive 92/43/EEC and Directive 2009/147/EC;
+(v) areas classified or protected under the Nature Protection Act 1991 and any other domestic legislation;
 
-(vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in European Union legislation and relevant to the development, or in which it is considered that there is such a failure;
+(vi) areas in which there has already been a failure to meet the environmental quality standards, laid down in European Union legislation as it applied in Gibraltar immediately prior to exit day, or in retained European Union law and relevant to the development, or in which it is considered that there is such a failure;
 
 (vii) densely populated areas;
 
@@ -67,5 +65,3 @@ The likely significant effects of developments on the environment shall be consi
 (g) the cumulation of the impact with the impact of other existing and/or approved developments;
 
 (h) the possibility of effectively reducing the impact.
-
-2018-19 Town Planning 2019/195 Town Planning (Environmental Impact Assessment) Regulations 2019

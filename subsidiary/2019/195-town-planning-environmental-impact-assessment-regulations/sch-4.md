@@ -20,8 +20,6 @@ INFORMATION FOR INCLUSION IN ENVIRONMENTAL STATEMENT
 
 5.  A description of the likely significant effects of the development on the environment resulting from, inter alia-
 
-Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulations 2019 2019/195
-
 (a) the construction and existence of the development, including, where relevant, demolition works;
 
 (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
@@ -36,15 +34,13 @@ Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulation
 
 (g) the technologies and the substances used.
 
-The description of the likely significant effects on the factors specified in regulation 4(2) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short- term, medium-term and long-term, permanent and temporary, positive and negative effects of the development. This description should take into account the environmental protection objectives established at European Union or national level which are relevant to the development.
+The description of the likely significant effects on the factors specified in regulation 4(2) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short- term, medium-term and long-term, permanent and temporary, positive and negative effects of the development. This description should take into account the environmental protection objectives established in retained European Union legislation or under the law of any part of Gibraltar which are relevant to the development.
 
 6.  A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
 
 7.  A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-development analysis). That description should explain the extent, to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
 
-2018-19 Town Planning 2019/195 Town Planning (Environmental Impact Assessment) Regulations 2019
-
-8.  A description of the expected significant adverse effects of the development on the environment deriving from the vulnerability of the development to risks of major accidents and/or disasters which are relevant to the development concerned. Relevant information available and obtained through risk assessments pursuant to European Union legislation such as Directive 2012/18/EU of the European Parliament and of the Council or Council Directive 2009/71/Euratom or relevant assessments carried out pursuant to national legislation may be used for this purpose provided that the requirements of this Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+8.  A description of the expected significant adverse effects of the development on the environment deriving from the vulnerability of the development to risks of major accidents and/or disasters which are relevant to the development concerned. Relevant information available and obtained through risk assessments pursuant to retained European Union legislation such as any law that implemented Directive 2012/18/EU of the European Parliament and of the Council or Council Directive 2009/71/Euratom or relevant assessments carried out pursuant to national legislation may be used for this purpose provided that the requirements of any law that implemented these Regulations are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
 
 9.  A non-technical summary of the information provided under paragraphs 1 to 8.
 

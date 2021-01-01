@@ -28,8 +28,6 @@ Descriptions of development.
 
 (b) Installations designed–
 
-Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulations 2019 2019/195
-
 (i) for the production or enrichment of nuclear fuel,
 
 (ii) for the processing of irradiated nuclear fuel or high-level radioactive waste,
@@ -60,8 +58,6 @@ Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulation
 
 (iii) for the production of phosphorous-, nitrogen- or potassium-based fertilisers (simple or compound fertilisers),
 
-2018-19 Town Planning 2019/195 Town Planning (Environmental Impact Assessment) Regulations 2019
-
 (iv) for the production of basic plant health products and of biocides,
 
 (v) for the production of basic pharmaceutical products using a chemical or biological process,
@@ -78,9 +74,9 @@ Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulation
 
 (8) trading ports, piers for loading and unloading connected to land and outside ports (excluding ferry piers) which can take vessels of over 1,350 tonnes;
 
-(9) waste disposal installations for the incineration, chemical treatment (as defined in Annex IIA to Council Directive 75/442/EEC under heading D9), or landfill of hazardous waste (that is to say, waste to which Council Directive 91/689/EEC applies);
+(9) waste disposal installations for the incineration, chemical treatment (as defined in Schedule 12 of the Public Health Act under heading D9), or landfill of hazardous waste (that is to say, waste to which Schedule 11A, Part II of the Public Health Act applies);
 
-(10) waste disposal installations for the incineration or chemical treatment (as defined in Annex IIA to Council Directive 75/442/EEC under heading D9) of non-hazardous waste with a capacity exceeding 100 tonnes per day;
+(10) waste disposal installations for the incineration or chemical treatment (as defined in Schedule 12 of the Public Health Act under heading D9) of non-hazardous waste with a capacity exceeding 100 tonnes per day;
 
 (11) groundwater abstraction or artificial groundwater recharge schemes where the annual volume of water abstracted or recharged is equivalent to or exceeds 10 million cubic metres.
 
@@ -88,15 +84,13 @@ Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulation
 
 (b) in all other cases, works for the transfer of water resources, other than piped drinking water, between river basins where the multi-annual average flow of the basin of abstraction exceeds 2,000 million cubic metres per year and where the amount of water transferred exceeds 5% of this flow;
 
-Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulations 2019 2019/195
-
-(13) waste water treatment plants with a capacity exceeding 150,000 population equivalent as defined in Article 2 point (6) of Council Directive 91/271/EEC;
+(13) waste water treatment plants with a capacity exceeding 150,000 population equivalent as defined in regulation 2 under “1 p.e. (population equivalent)” of the Public Health (Urban Waste Water Collection and Treatment) Regulations 1999;
 
 (14) extraction of petroleum and natural gas for commercial purposes where the amount extracted exceeds 500 tonnes per day in the case of petroleum and 500,000 cubic metres per day in the case of gas;
 
-(15) installations designed for the permanent storage of water, where a new or additional amount of water  stored exceeds 10 million cubic metres;
+(15) installations designed for the permanent storage of water, where a new or additional amount of water stored exceeds 10 million cubic metres;
 
-(16) pipelines for the transport of  gas, oil or chemicals with a diameter of  more than 800 millimetres and a length of more than 40 kilometres;
+(16) pipelines for the transport of gas, oil or chemicals with a diameter of more than 800 millimetres and a length of more than 40 kilometres;
 
 (17) installations for the intensive rearing of poultry or pigs with more than–
 
@@ -119,5 +113,3 @@ Town Planning 2018-19 Town Planning (Environmental Impact Assessment) Regulation
 (21) installations for storage of petroleum. petrochemical or chemical products with a capacity of 200,000 tonnes or more.
 
 (22) Any change to or extension of projects listed in this Schedule where such a change or extension in itself meets the thresholds, if any, set out in this Schedule.
-
-2018-19 Town Planning 2019/195 Town Planning (Environmental Impact Assessment) Regulations 2019
