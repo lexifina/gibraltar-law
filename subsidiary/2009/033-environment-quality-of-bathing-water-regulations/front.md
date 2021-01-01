@@ -1,28 +1,18 @@
-Environment ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
+Subsidiary Legislation made under s.18(c).
 
-2005-27
+Environment (Quality of Bathing Water) Regulations 2009
 
-Subsidiary 2009/033 Subsidiary Legislation made under s. 18(c).
+LN.2009/033
 
-ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
-
-(LN. 2009/033)
-
-Commencement 4.6.2009 rr. 1, 2 to 6, 10, 12, 13 and 17 24.3.2011 rr. 7 to 9, 11, 24, 26 and 27 24.3.2015 rr. 14 to 16, 18 to 23, 25 and 28
+Commencement (rr. 1-6, 10, 12-13, 17) 4.6.2009 (rr. 7-9, 11, 24, 26-27) 24.3.2011 (rr. 14-16, 18-23, 25, 28) 24.3.2015
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2011/153 r. 27A 22.9.2011 2013/139 rr. 2, 3(2)(b), 6, 9(1), (5), 11, 15, 18, 19, 20, 21, 22(a),(b),(c), 23(2), 25, 28(3), Schs. 1 & 2
+LN. 2011/153 r. 27A 22.9.2011 2013/139 rr. 2, 3(2)(b), 6, 9(1), (5), 11, 15, 18-21, 22(a)-(c), 23(2), 25, 28(3), Schs. 1-2
 
-10.10.2013
+10.10.2013 2021/423 rr. 2(3), 5(1), (3)-(4), 28 1.1.2021
 
 EU Legislation/International Agreements involved: Directive 76/160/EEC Directive 2006/7/EC Directive 2008/99/EC
-
-Environment ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/033
 
 ARRANGEMENT OF REGULATIONS
 
@@ -44,22 +34,12 @@ PART 4 BATHING WATER ASSESSMENT AND CLASSIFICATION
 
 22. Bathing Water Quality Assessment. 23. Classification.
 
-PART 5
+PART 5 MANAGEMENT OF BATHING WATERS
 
-Environment ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/033 MANAGEMENT OF BATHING WATERS
-
-24. Management measures at bathing waters subject to pollution incidents. 25. Additional management measures at “poor” bathing waters. 26. Relevant procedures for short-term pollution. 27 Enforcement. 27A.  Liability of bodies corporate - general. 28. Reporting procedures.
+24. Management measures at bathing waters subject to pollution incidents. 25. Additional management measures at “poor” bathing waters. 26. Relevant procedures for short-term pollution. 27 Enforcement. 27A.  Liability of bodies corporate - general. 28. Annual reports.
 
 SCHEDULE  1 CLASSIFICATION
 
 SCHEDULE 2 SYMBOLS
 
-Environment ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/033 In exercise of the powers conferred upon it by section 18(c) of the Environment Act 2005 the Government has, for the purpose of transposing Directive 2006/7/EC of the European Parliament and of the Council concerning the management of bathing water quality and repealing Directive 76/160/EEC into the law of Gibraltar, made the following Regulations
+In exercise of the powers conferred upon it by section 18(c) of the Environment Act 2005 the Government has, for the purpose of transposing Directive 2006/7/EC of the European Parliament and of the Council concerning the management of bathing water quality and repealing Directive 76/160/EEC into the law of Gibraltar, made the following Regulations

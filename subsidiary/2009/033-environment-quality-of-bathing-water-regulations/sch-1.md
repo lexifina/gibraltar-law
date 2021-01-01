@@ -26,21 +26,15 @@ Methodology.
 
 (i) take the log10 value of allbacterial concentrations in the data sequence to be evaluated; or
 
-Environment ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/033
-
 (ii) where the value under paragraph (a)(i) is zero, take the log10 value of the minimum detection limit of the analytical method used;
 
 (b) calculate the arithmetic mean (“m”) of the log10 value taken under subparagraph (a);
 
 (c) calculate the standard deviation (“s”) of the log10 value taken under paragraph (a)
 
-(d) derive the upper 90-percentile point of the data probability density function from the following equation: upper 90- percentile = antilog (m + 1.282s); and
+(d) derive the upper 90-percentile point of the data probability density function from the following equation: upper 90-percentile = antilog (m + 1.282s); and
 
-(e) derive the upper 95-percentile point of the data probability density function from the following equation: upper 95- percentile = antilog (m + 1.65s).
+(e) derive the upper 95-percentile point of the data probability density function from the following equation: upper 95-percentile = antilog (m + 1.65s).
 
 (3)  Where bathing water is subject to short-term pollution incidents, it may only be classified under sub-paragraph 3 below as “sufficient”, “good” or “excellent” if
 
@@ -58,12 +52,6 @@ Classification.
 
 (2)  At the end of every bathing season, the competent authority shall classify bathing water as “sufficient” if
 
-Environment ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/033
-
 (a) in the set of bathing water quality data, the percentile values for microbiological concentrations are equal to or lower than the “sufficient” standards set out in paragraph 1; and
 
 (b) the bathing water is not classifiable as “good” or “excellent”.
@@ -75,9 +63,3 @@ Subsidiary 2009/033
 (b) the bathing water is not classifiable as “excellent”.
 
 (4)  At the end of every bathing season, the competent authority shall classify bathing water as “excellent” if, in the set of bathing water quality data used, the percentile values for microbiological concentrations are equal to or lower than the “excellent” standards set out in paragraph 1.
-
-Environment ENVIRONMENT (QUALITY OF BATHING WATER) REGULATIONS 2009
-
-2005-27
-
-Subsidiary 2009/033
