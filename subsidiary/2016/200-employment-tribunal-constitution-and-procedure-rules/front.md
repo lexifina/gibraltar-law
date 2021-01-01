@@ -2,9 +2,7 @@ Employment EMPLOYMENT TRIBUNAL (CONSTITUTION AND PROCEDURE) RULES 2016
 
 1932-16
 
-Subsidiary 2016/200
-
-Subsidiary Legislation made under s.12.
+Subsidiary 2016/200 Subsidiary Legislation made under s.12.
 
 EMPLOYMENT TRIBUNAL (CONSTITUTION AND PROCEDURE) RULES 2016
 
@@ -12,7 +10,7 @@ EMPLOYMENT TRIBUNAL (CONSTITUTION AND PROCEDURE) RULES 2016
 
 Commencement 13.10.2016
 
-Amending enactments Relevant current provisions Commencement date LN. 2019/157 r. 2A 13.10.2016
+Amending enactments Relevant current provisions Commencement date LN. 2019/157 r. 2A 13.10.2016 2020/539 rr. 32, 79 1.1.2021
 
 Employment EMPLOYMENT TRIBUNAL (CONSTITUTION AND PROCEDURE) RULES 2016
 
@@ -46,7 +44,7 @@ Subsidiary 2016/200 28. Dismissal of response (or part).
 
 CASE MANAGEMENT ORDERS AND OTHER POWERS
 
-29. Case management orders. 30. Disclosure of documents and information. 31. Requirement to attend to give evidence. 32. Evidence from other EU Member States. 33. Addition, substitution and removal of parties. 34. Other persons. 35. Lead cases. 36. Striking out. 37. Unless orders.
+29. Case management orders. 30. Disclosure of documents and information. 31. Requirement to attend to give evidence. 32. Deleted. 33. Addition, substitution and removal of parties. 34. Other persons. 35. Lead cases. 36. Striking out. 37. Unless orders.
 
 RULES COMMON TO ALL KINDS OF HEARING
 
@@ -84,7 +82,7 @@ DELIVERY OF DOCUMENTS
 
 MISCELLANEOUS
 
-77. National security proceedings. 78. Collective agreements. 79. References to the Court of Justice of the European Union. 80. Transfer of proceedings from a court. 81. Information to the Equal Opportunities Commission. 82. Levy appeals. 83. Appeals against improvement and prohibition notices. 84. Conciliation: recovery of sums payable under compromises. 85. Repeal. 86. Savings and transitional provisions. 87. Enforcement.
+77. National security proceedings. 78. Collective agreements. 79. Deleted. 80. Transfer of proceedings from a court. 81. Information to the Equal Opportunities Commission. 82. Levy appeals. 83. Appeals against improvement and prohibition notices. 84. Conciliation: recovery of sums payable under compromises. 85. Repeal. 86. Savings and transitional provisions. 87. Enforcement.
 
 Employment EMPLOYMENT TRIBUNAL (CONSTITUTION AND PROCEDURE) RULES 2016
 
