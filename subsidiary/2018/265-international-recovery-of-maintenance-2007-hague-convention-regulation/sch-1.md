@@ -12,11 +12,7 @@ Article 1 Object
 
 The object of the present Convention is to ensure the effective international recovery of child support and other forms of family maintenance, in particular by –
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 a) establishing a comprehensive system of co-operation between the authorities of the Contracting States;
+a) establishing a comprehensive system of co-operation between the authorities of the Contracting States;
 
 b) making available applications for the establishment of maintenance decisions;
 
@@ -42,11 +38,7 @@ c) with the exception of Chapters II and III, to spousal support.
 
 Article 3 Definitions
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 For the purposes of this Convention –
+For the purposes of this Convention –
 
 a) “creditor” means an individual to whom maintenance is owed or is alleged to be owed;
 
@@ -70,13 +62,7 @@ Article 4 Designation of Central Authorities
 
 (1)  A Contracting State shall designate a Central Authority to discharge the duties that are imposed by the Convention on such an authority.
 
-(2)  Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and shall specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it
-
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State.
+(2)  Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and shall specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State.
 
 (3)  The designation of the Central Authority or Central Authorities, their contact details, and where appropriate the extent of their functions as specified in paragraph 2, shall be communicated by a Contracting State to the Permanent Bureau of the Hague Conference on Private International Law at the time when the instrument of ratification or accession is deposited or when a declaration is submitted in accordance with Article 61. Contracting States shall promptly inform the Permanent Bureau of any changes.
 
@@ -96,17 +82,13 @@ a) transmit and receive such applications;
 
 b) initiate or facilitate the institution of proceedings in respect of such applications.
 
-(2)  In relation to such applications they shall take all appropriate measures –
+(2)  In relation to such applications they shall take all appropriate   measures –
 
 a) where the circumstances require, to provide or facilitate the provision of legal assistance;
 
 b) to help locate the debtor or the creditor;
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 c) to help obtain relevant information concerning the income and, if necessary, other financial circumstances of the debtor or creditor, including the location of assets;
+c) to help obtain relevant information concerning the income and, if necessary, other financial circumstances of the debtor or creditor, including the location of assets;
 
 d) to encourage amicable solutions with a view to obtaining voluntary payment of maintenance, where suitable by use of mediation, conciliation or similar processes;
 
@@ -128,13 +110,7 @@ j) to facilitate service of documents.
 
 Article 7 Requests for specific measures
 
-(1)  A Central Authority may make a request, supported by reasons, to another Central Authority to take appropriate specific measures under Article 6(2) b), c), g), h), i) and j) when no application under Article 10 is
-
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 pending. The requested Central Authority shall take such measures as are appropriate if satisfied that they are necessary to assist a potential applicant in making an application under Article 10 or in determining whether such an application should be initiated.
+(1)  A Central Authority may make a request, supported by reasons, to another Central Authority to take appropriate specific measures under Article 6(2) b), c), g), h), i) and j) when no application under Article 10 is pending. The requested Central Authority shall take such measures as are appropriate if satisfied that they are necessary to assist a potential applicant in making an application under Article 10 or in determining whether such an application should be initiated.
 
 (2)  A Central Authority may also take specific measures on the request of another Central Authority in relation to a case having an international element concerning the recovery of maintenance pending in the requesting State.
 
@@ -159,12 +135,6 @@ Article 10 Available applications
 a) recognition or recognition and enforcement of a decision;
 
 b) enforcement of a decision made or recognised in the requested State;
-
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265
 
 c) establishment of a decision in the requested State where there is no existing decision, including where necessary the establishment of parentage;
 
@@ -194,12 +164,6 @@ b) the name and contact details, including the address and date of birth of the 
 
 c) the name and, if known, address and date of birth of the respondent;
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265
-
 d) the name and date of birth of any person for whom maintenance is sought;
 
 e) the grounds upon which the application is based;
@@ -224,11 +188,7 @@ c) any other information that may assist with the location of the respondent.
 
 Article 12 Transmission, receipt and processing of applications and cases through Central Authorities
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 (1)  The Central Authority of the requesting State shall assist the applicant in ensuring that the application is accompanied by all the information and documents known by it to be necessary for consideration of the application.
+(1)  The Central Authority of the requesting State shall assist the applicant in ensuring that the application is accompanied by all the information and documents known by it to be necessary for consideration of the application.
 
 (2)  The Central Authority of the requesting State shall, when satisfied that the application complies with the requirements of the Convention, transmit the application on behalf of and with the consent of the applicant to the Central Authority of the requested State. The application shall be accompanied by the transmittal form set out in Annex 1. The Central Authority of the requesting State shall, when requested by the Central Authority of the requested State, provide a complete copy certified by the competent authority in the State of origin of any document specified under Articles 16(3), 25(1) a), b) and d) and (3) b) and 30(3).
 
@@ -246,19 +206,15 @@ b) the progress of the case, and shall provide timely responses to enquiries.
 
 (7)  Central Authorities shall employ the most rapid and efficient means of communication at their disposal.
 
-(8)  A requested Central Authority may refuse to process an application only if it is manifest that the requirements of the Convention are not
-
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 fulfilled. In such case, that Central Authority shall promptly inform the requesting Central Authority of its reasons for refusal.
+(8)  A requested Central Authority may refuse to process an application only if it is manifest that the requirements of the Convention are not fulfilled. In such case, that Central Authority shall promptly inform the requesting Central Authority of its reasons for refusal.
 
 (9)  The requested Central Authority may not reject an application solely on the basis that additional documents or information are needed. However, the requested Central Authority may ask the requesting Central Authority to provide these additional documents or information. If the requesting Central Authority does not do so within three months or a longer period specified by the requested Central Authority, the requested Central Authority may decide that it will no longer process the application. In this case, it shall inform the requesting Central Authority of this decision.
 
 Article 13 Means of communication
 
-Any application made through Central Authorities of the Contracting States in accordance with this Chapter, and any document or information appended thereto or provided by a Central Authority, may not be challenged by the respondent by reason only of the medium or means of communication employed between the Central Authorities concerned.
+Any application made through Central Authorities of the Contracting States in accordance with this Chapter, and any document or information appended thereto or provided by a Central
+
+Authority, may not be challenged by the respondent by reason only of the medium or means of communication employed between the Central Authorities concerned.
 
 Article 14 Effective access to procedures
 
@@ -273,12 +229,6 @@ Article 14 Effective access to procedures
 (5)  No security, bond or deposit, however described, shall be required to guarantee the payment of costs and expenses in proceedings under the Convention.
 
 Article 15 Free legal assistance for child support applications
-
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265
 
 (1)  The requested State shall provide free legal assistance in respect of all applications by a creditor under this Chapter concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21 years.
 
@@ -299,12 +249,6 @@ Article 17 Applications not qualifying under Article 15 or Article 16
 In the case of all applications under this Convention other than those under Article 15 or Article 16 –
 
 a) the provision of free legal assistance may be made subject to a means or a merits test;
-
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265
 
 b) an applicant, who in the State of origin has benefited from free legal assistance, shall be entitled, in any proceedings for recognition or enforcement, to benefit, at least to the same extent, from free legal assistance as provided for by the law of the State addressed under the same circumstances.
 
@@ -328,13 +272,7 @@ CHAPTER V – RECOGNITION AND ENFORCEMENT
 
 Article 19 Scope of the Chapter
 
-(1) This Chapter shall apply to a decision rendered by a judicial or administrative authority in respect of a maintenance obligation. The term “decision” also includes a settlement or agreement concluded before or
-
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 approved by such an authority. A decision may include automatic adjustment by indexation and a requirement to pay arrears, retroactive maintenance or interest and a determination of costs or expenses. (2)  If a decision does not relate solely to a maintenance obligation, the effect of this Chapter is limited to the parts of the decision which concern maintenance obligations.
+(1) This Chapter shall apply to a decision rendered by a judicial or administrative authority in respect of a maintenance obligation. The term “decision” also includes a settlement or agreement concluded before or approved by such an authority. A decision may include automatic adjustment by indexation and a requirement to pay arrears, retroactive maintenance or interest and a determination of costs or expenses. (2)  If a decision does not relate solely to a maintenance obligation, the effect of this Chapter is limited to the parts of the decision which concern maintenance obligations.
 
 (3)  For the purpose of paragraph 1, “administrative authority” means a public body whose decisions, under the law of the State where it is established –
 
@@ -358,11 +296,7 @@ c) the creditor was habitually resident in the State of origin at the time proce
 
 d) the child for whom maintenance was ordered was habitually resident in the State of origin at the time proceedings were instituted, provided that the respondent has lived with the child in that State or has resided in that State and provided support for the child there;
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 e) except in disputes relating to maintenance obligations in respect of children, there has been agreement to the jurisdiction in writing by the parties; or
+e) except in disputes relating to maintenance obligations in respect of children, there has been agreement to the jurisdiction in writing by the parties; or
 
 f) the decision was made by an authority exercising jurisdiction on a matter of personal status or parental responsibility, unless that jurisdiction was based solely on the nationality of one of the parties.
 
@@ -386,12 +320,6 @@ Article 22 Grounds for refusing recognition and enforcement
 
 Recognition and enforcement of a decision may be refused if –
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265
-
 a) recognition and enforcement of the decision is manifestly incompatible with the public policy (“ordre public”) of the State addressed;
 
 b) the decision was obtained by fraud in connection with a matter of procedure;
@@ -414,11 +342,7 @@ Article 23 Procedure on an application for recognition and enforcement
 
 (2)  Where an application for recognition and enforcement of a decision has been made through Central Authorities in accordance with Chapter III, the requested Central Authority shall promptly either –
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 a) refer the application to the competent authority which shall without delay declare the decision enforceable or register the decision for enforcement; or
+a) refer the application to the competent authority which shall without delay declare the decision enforceable or register the decision for enforcement; or
 
 b) if it is the competent authority take such steps itself.
 
@@ -444,12 +368,6 @@ c) the authenticity or integrity of any document transmitted in accordance with 
 
 (10)  A further appeal, if permitted by the law of the State addressed, shall not have the effect of staying the enforcement of the decision unless there are exceptional circumstances.
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265
-
 (11)  In taking any decision on recognition and enforcement, including any appeal, the competent authority shall act expeditiously.
 
 Article 24 Alternative procedure on an application for recognition and enforcement
@@ -474,11 +392,7 @@ b) if it is the competent authority, take such a decision itself.
 
 Article 25 Documents
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 (1)  An application for recognition and enforcement under Article 23 or Article 24 shall be accompanied by the following –
+(1)  An application for recognition and enforcement under Article 23 or Article 24 shall be accompanied by the following –
 
 a) a complete text of the decision;
 
@@ -500,11 +414,7 @@ b) by the applicant, where the request has been made directly to a competent aut
 
 (3)  A Contracting State may specify in accordance with Article 57 –
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 a) that a complete copy of the decision certified by the competent authority in the State of origin must accompany the application;
+a) that a complete copy of the decision certified by the competent authority in the State of origin must accompany the application;
 
 b) circumstances in which it will accept, in lieu of a complete text of the decision, an abstract or extract of the decision drawn up by the competent authority of the State of origin, which may be made in the form recommended and published by the Hague Conference on Private International Law; or
 
@@ -516,7 +426,9 @@ This Chapter shall apply mutatis mutandis to an application for recognition of a
 
 Article 27 Findings of fact
 
-Any competent authority of the State addressed shall be bound by the findings of fact on which the authority of the State of origin based its jurisdiction. Article 28 No review of the merits
+Any competent authority of the State addressed shall be bound by the findings of fact on which the authority of the State of origin based its jurisdiction.
+
+Article 28 No review of the merits
 
 There shall be no review by any competent authority of the State addressed of the merits of a decision.
 
@@ -528,11 +440,7 @@ Article 30 Maintenance arrangements
 
 (1)  A maintenance arrangement made in a Contracting State shall be entitled to recognition and enforcement as a decision under this Chapter provided that it is enforceable as a decision in the State of origin.
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 (2)  For the purpose of Article 10(1) a) and b) and (2) a), the term “decision” includes a maintenance arrangement.
+(2)  For the purpose of Article 10(1) a) and b) and (2) a), the term “decision” includes a maintenance arrangement.
 
 (3)  An application for recognition and enforcement of a maintenance arrangement shall be accompanied by the following –
 
@@ -558,11 +466,7 @@ i) the grounds for refusing recognition and enforcement set out in paragraph 4;
 
 ii) the authenticity or integrity of any document transmitted in accordance with paragraph 3;
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 c) as regards the procedure under Article 24(4), the competent authority may review of its own motion the ground for refusing recognition and enforcement set out in paragraph 4 a) of this Article. It may review all grounds listed in paragraph 4 of this Article and the authenticity or integrity of any document transmitted in accordance with paragraph 3 if raised by the respondent or if concerns relating to those grounds arise from the face of those documents.
+c) as regards the procedure under Article 24(4), the competent authority may review of its own motion the ground for refusing recognition and enforcement set out in paragraph 4 a) of this Article. It may review all grounds listed in paragraph 4 of this Article and the authenticity or integrity of any document transmitted in accordance with paragraph 3 if raised by the respondent or if concerns relating to those grounds arise from the face of those documents.
 
 (6)  Proceedings for recognition and enforcement of a maintenance arrangement shall be suspended if a challenge concerning the arrangement is pending before a competent authority of a Contracting State.
 
@@ -584,11 +488,7 @@ d) Article 18 shall not prevent proceedings for the modification of the decision
 
 CHAPTER VI – ENFORCEMENT BY THE STATE ADDRESSED
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 Article 32 Enforcement under internal law
+Article 32 Enforcement under internal law
 
 (1)  Subject to the provisions of this Chapter, enforcement shall take place in accordance with the law of the State addressed.
 
@@ -622,12 +522,6 @@ e) tax refund withholding;
 
 f) withholding or attachment of pension benefits;
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265
-
 g) credit bureau reporting;
 
 h) denial, suspension or revocation of various licenses (for example, driving licenses);
@@ -654,11 +548,7 @@ a) a decision rendered against a debtor on the application of a public body whic
 
 b) a decision rendered between a creditor and debtor to the extent of the benefits provided to the creditor in place of maintenance.
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 (4)  The public body seeking recognition or claiming enforcement of a decision shall upon request furnish any document necessary to establish its right under paragraph 2 and that benefits have been provided to the creditor.
+(4)  The public body seeking recognition or claiming enforcement of a decision shall upon request furnish any document necessary to establish its right under paragraph 2 and that benefits have been provided to the creditor.
 
 CHAPTER VIII – GENERAL PROVISIONS
 
@@ -682,17 +572,15 @@ Article 40 Non-disclosure of information
 
 (1)  An authority shall not disclose or confirm information gathered or transmitted in application of this Convention if it determines that to do so could jeopardise the health, safety or liberty of a person.
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 (2)  A determination to this effect made by one Central Authority shall be taken into account by another Central Authority, in particular in cases of family violence.
+(2)  A determination to this effect made by one Central Authority shall be taken into account by another Central Authority, in particular in cases of family violence.
 
 (3)  Nothing in this Article shall impede the gathering and transmitting of information by and between authorities in so far as necessary to carry out the obligations under the Convention.
 
 Article 41 No legalisation
 
-No legalisation or similar formality may be required in the context of this Convention. Article 42 Power of attorney
+No legalisation or similar formality may be required in the context of this Convention.
+
+Article 42 Power of attorney
 
 The Central Authority of the requested State may require a power of attorney from the applicant only if it acts on his or her behalf in judicial proceedings or before other authorities, or in order to designate a representative so to act.
 
@@ -710,11 +598,7 @@ Article 44 Language requirements
 
 (1)  Any application and related documents shall be in the original language, and shall be accompanied by a translation into an official language of the requested State or another language which the requested State has indicated, by way of declaration in accordance with Article 63, it will accept, unless the competent authority of that State dispenses with translation.
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 (2)  A Contracting State which has more than one official language and cannot, for reasons of internal law, accept for the whole of its territory documents in one of those languages shall, by declaration in accordance with Article 63, specify the language in which such documents or translations thereof shall be drawn up for submission in the specified parts of its territory.
+(2)  A Contracting State which has more than one official language and cannot, for reasons of internal law, accept for the whole of its territory documents in one of those languages shall, by declaration in accordance with Article 63, specify the language in which such documents or translations thereof shall be drawn up for submission in the specified parts of its territory.
 
 (3)  Unless otherwise agreed by the Central Authorities, any other communications between such Authorities shall be in an official language of the requested State or in either English or French. However, a Contracting State may, by making a reservation in accordance with Article 62, object to the use of either English or French.
 
@@ -726,11 +610,7 @@ Article 45 Means and costs of translation
 
 (3)  Notwithstanding Article 8, the requesting Central Authority may charge an applicant for the costs of translation of an application and related documents, except in so far as those costs may be covered by its system of legal assistance.
 
-Maintenance INTERNATIONAL RECOVERY OF MAINTENANCE (2007 HAGUE CONVENTION) REGULATIONS 2018
-
-1961-25
-
-Subsidiary 2018/265 regulation 5(3) SCHEDULE 2
+regulation 5(3) SCHEDULE 2
 
 Address and contact details of the Central Authority and the court in Gibraltar.
 
