@@ -26,9 +26,7 @@ Privilege of witnesses.
 
 (6)  Sub-paragraphs (4) and (5) are without prejudice to the generality of sub-paragraph (1).
 
-Mutual Legal Assistance (European Union)
-
-2004-03 Forwarding evidence.
+Forwarding evidence.
 
 4.(1)  The evidence received by the court is to be given to the Central Authority for forwarding to the court or authority that made the request.
 
