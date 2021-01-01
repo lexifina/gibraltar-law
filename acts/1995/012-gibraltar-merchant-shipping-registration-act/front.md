@@ -1,26 +1,26 @@
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12
-
-GIBRALTAR MERCHANT SHIPPING (REGISTRATION) ACT
+Gibraltar Merchant Shipping (Registration) Act, 1993
 
 Principal Act
 
-Act. No. 1995-12 Commencement Except as follows 22.12.1997
+Act. No. 1995-12 Commencement (ss. 2, 3(3), 5, 6(4), 10-11, 14, 17, 25, Part IV, Part VIII, 86)
 
-ss. 2, 3(3), 5 6(4), 10, 11, 14, 17 and 25, Part IV, VIII and 86 1.12.1997 For extent of implementation see LN. 1997/152
+1.12.19971
+
+(All remaining sections) 22.12.19972
 
 Assent 22.9.1995
 
 Amending enactments Relevant current provisions Commencement date
 
-Acts. 2001-26 s.2 2.8.2001 2004-37 s.2 24.11.2004 2005-34 s. 14(3)(vii) 23.5.2005
+Act. 2001-26 s. 2 2.8.2001 2004-37 s. 2 24.11.2004 2005-34 s. 14(3)(vii) 23.5.2005 LN. 2020/432 ss. 2, 7(3), 14(3)(b)(ii)(aa), 38(1)(b) 1.1.2021
 
-Gibraltar  Merchant Shipping (Registration)
+1 For Extent of Implementation see (LN.1997/152) 2 Notice of Commencement (LN.1997/156)
 
-1995-12 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
-Section PART I. PRELIMINARY PROVISIONS.
+Section
+
+PART I. PRELIMINARY PROVISIONS.
 
 1. Title and commencement. 2. Interpretation.
 
@@ -30,11 +30,9 @@ PART II. ADMINISTRATION.
 
 PART III. REGISTRATION OF SHIPS.
 
-6. Register of ships. 7. Registerable ships. 8. Registration of property in ships. 9. Tonnage and description of ships. 10. Ship names. 11. Marking of the ship. 12. Application for registration. 13. Evidence of first registration. 14. Refusal of registration and removal from the Register. 15. Registration of an altered ship. 16. Duty to secure termination of registration outside of Gibraltar. 17. Provisional Certificate of Registry. 18. Particulars to be entered. 19. Registration while a ship is at sea. 20. Certificate of Registry. 21. Documents to be retained. 22. Unregistered ship not recognised. 23. Proper colours. 24. Port of registry. 25. Transfer of registration. 26. Use of certificate. 27. Use of improper certificate. 28. Power to grant new certificate. 29. Loss of certificate. 30. Change of ownership. 31. Closure of registration. 32. Bareboat  registration into the Register.
+6. Register of ships. 7. Registerable ships. 8. Registration of property in ships. 9. Tonnage and description of ships. 10. Ship names. 11. Marking of the ship. 12. Application for registration. 13. Evidence of first registration. 14. Refusal of registration and removal from the Register. 15. Registration of an altered ship. 16. Duty to secure termination of registration outside of Gibraltar. 17. Provisional Certificate of Registry. 18. Particulars to be entered. 19. Registration while a ship is at sea. 20. Certificate of Registry. 21. Documents to be retained. 22. Unregistered ship not recognised. 23. Proper colours. 24. Port of registry. 25. Transfer of registration. 26. Use of certificate. 27. Use of improper certificate. 28. Power to grant new certificate. 29. Loss of certificate. 30. Change of ownership.
 
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12 33. Bareboat registration out of the Register. 34. Transfers of ships or shares by Bill of Sale. 35. Transmission on death or bankruptcy, etc. 36. Transfer of ship or share by order of court. 37. Power of court to prohibit transfer.
+31. Closure of registration. 32. Bareboat registration into the Register. 33. Bareboat registration out of the Register. 34. Transfers of ships or shares by Bill of Sale. 35. Transmission on death or bankruptcy, etc. 36. Transfer of ship or share by order of court. 37. Power of court to prohibit transfer.
 
 PART IV. REGISTRATION OF PLEASURE YACHTS.
 
@@ -50,11 +48,9 @@ PART VI. MARITIME LIENS.
 
 PART VII. GOVERNMENT SHIPS.
 
-56. Registrability of Government ships. 57. Application for registration of Government ship. 58. Entry of particulars of Government ship in the Register. 59. Certificate of registry of Government ship. 60. Retention of documents relating to Government ship. 61. Transfer of registered Government ship.
+56. Registrability of Government ships. 57. Application for registration of Government ship. 58. Entry of particulars of Government ship in the Register. 59. Certificate of registry of Government ship.
 
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12 62. Application of Act to Government ships.
+60. Retention of documents relating to Government ship. 61. Transfer of registered Government ship. 62. Application of Act to Government ships.
 
 PART VIII. SHIP REGISTRATION TRANSITIONAL PROVISIONS.
 
@@ -68,6 +64,4 @@ SCHEDULE 1. Proper colours.
 
 SCHEDULE 2. Foreign maritime entities.
 
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12 AN ACT TO MAKE PROVISION FOR THE REGISTRATION OF MERCHANT SHIPS AND PLEASURE YACHTS IN GIBRALTAR, TO REPEAL THE APPLICATION TO SHIPS REGISTERED IN GIBRALTAR OF CERTAIN ACTS AND ACTS OF PARLIAMENT AND FOR MATTERS CONNECTED WITH AND INCIDENTAL TO THE FOREGOING.
+AN ACT TO MAKE PROVISION FOR THE REGISTRATION OF MERCHANT SHIPS AND PLEASURE YACHTS IN GIBRALTAR, TO REPEAL THE APPLICATION TO SHIPS REGISTERED IN GIBRALTAR OF CERTAIN ACTS AND ACTS OF PARLIAMENT AND FOR MATTERS CONNECTED WITH AND INCIDENTAL TO THE FOREGOING.

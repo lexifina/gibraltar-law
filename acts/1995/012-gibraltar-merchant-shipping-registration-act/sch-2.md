@@ -26,10 +26,6 @@ FOREIGN MARITIME ENTITIES
 
 (h) the date of the application.
 
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12
-
 (4) The Maritime Administrator shall, as a condition to registering the foreign maritime entity, require a copy of the document creating the legal existence of the entity to be registered.
 
 (5) Each application and any other document required or allowed to be registered under this Schedule shall be executed in accordance with the provisions of paragraph 2.
@@ -53,10 +49,6 @@ Provided that where an instrument required to be registered is not in the Englis
 (c) signed by an officer of the entity or by a person authorised to sign on behalf of that entity and such signature shall appear over the printed name and title of the signatory:
 
 Provided that any signature on any instrument required or permitted to be registered under this Schedule may be a facsimile.
-
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12
 
 (2) The original signed instrument shall be delivered to the Maritime Administrator together with prescribed fees.
 
@@ -82,13 +74,9 @@ A registered foreign maritime entity shall have the power–
 
 4. Subsequent change of business address etc.
 
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12
-
 (1) The representative person of a foreign maritime entity shall give notice in writing to the Maritime Administrator of any change in any of the matters specified in paragraph 3 and shall provide to the Maritime Administrator details of any change which affects the legal nature, the jurisdiction or creation, the power to own or operate a ship, or the ability to sue and be sued of the foreign maritime entity and such notice shall comply with the provisions of paragraph 2.
 
-(2) The representative person shall at the time of giving notice in accordance with sub-paragraph (1) provide to the Maritime Administrator a certified translation into English of any documents required by that sub- paragraph and which are not in the English language.
+(2) The representative person shall at the time of giving notice in accordance with sub- paragraph (1) provide to the Maritime Administrator a certified translation into English of any documents required by that sub-paragraph and which are not in the English language.
 
 (3) When a registered foreign maritime entity is dissolved or its authority or existence is otherwise terminated or cancelled in the jurisdiction of its creation or when such foreign maritime entity is merged into or consolidated with another foreign maritime entity, a copy of the certificate from the competent authority in the jurisdiction of creation of such foreign maritime entity, which certificate attests to the occurrence of any such event, or a copy of an order or decree of a court of such jurisdiction directing the dissolution of such foreign entity, or the termination of its existence shall be delivered to the Maritime Administrator who shall register such document.
 
@@ -98,9 +86,7 @@ Gibraltar  Merchant Shipping (Registration)
 
 (6) The Maritime Administrator, on receipt of the application to deregister or the certificate provided for in sub-paragraph (3) or, in circumstances where the provisions of sub-paragraph (4) or (5) apply, after the expiry of the 90 day period without the application having been withdrawn, shall deregister the entity and from that date–
 
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12 (a) the registration of the entity as a foreign maritime entity will cease;
+(a) the registration of the entity as a foreign maritime entity will cease;
 
 (b) the entity ceases to be a qualified person.
 
@@ -120,10 +106,6 @@ Gibraltar  Merchant Shipping (Registration)
 
 6. Notice to ship mortgagee of striking off.
 
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12
-
 (1) Where an entity registered under this Schedule is the owner of a registered ship, the Maritime Administrator shall, where the entity has failed to remedy a defect specified in the notice served on the entity under paragraph 5(1) and the Maritime Administrator proposes to strike the entity off the Register of Foreign Maritime Entities, give notice of that intention to any mortgagees whose interest in the ship is recorded on the registration of that ship, and the Maritime Administrator shall not then for a period of 90 days after the service of such notice on the mortgagee strike the name of the entity off the Register of Foreign Maritime Entities.
 
 (2) Where an entity registered under this Schedule is the owner of a ship registered in a registry outside of Gibraltar, any mortgagee of such ship may, upon the payment of the prescribed fee, cause a record to be made on the entry in the Register of Foreign Maritime Entities in respect of that entity of the mortgagee’s interest in the ship, and such record shall include the name of the mortgagee, the name and place of registration of the ship and the name and address of a representative of the mortgagee to whom notice may be given of an intention to strike the entity off the Register of Foreign Maritime Entities.
@@ -138,9 +120,7 @@ Gibraltar  Merchant Shipping (Registration)
 
 7. Deregistration of Foreign Maritime Entity.
 
-Gibraltar  Merchant Shipping (Registration)
-
-1995-12 (1) A foreign maritime entity registered under this Schedule may deregister by lodging with the Maritime Administrator an application which shall specify–
+(1) A foreign maritime entity registered under this Schedule may deregister by lodging with the Maritime Administrator an application which shall specify–
 
 (a) the name of the entity and the jurisdiction of its creation;
 
@@ -160,4 +140,4 @@ Gibraltar  Merchant Shipping (Registration)
 
 (1) The Maritime Administrator shall keep a register of Foreign Maritime Entities registered under this Schedule and the provisions of section 4 shall apply mutatis mutandis to that register.
 
-(2) The Maritime Administrator shall keep in alphabetical form an index of the names of foreign maritime entities registered under this Schedule and such index shall be in addition to the register kept by virtue of sub- paragraph (1).
+(2) The Maritime Administrator shall keep in alphabetical form an index of the names of foreign maritime entities registered under this Schedule and such index shall be in addition to the register kept by virtue of sub-paragraph (1).
