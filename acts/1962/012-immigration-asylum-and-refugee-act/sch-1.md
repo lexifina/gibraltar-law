@@ -4,7 +4,7 @@ States Party to the EEA Agreement include those states listed in this schedule a
 
 1.  European Union States–
 
-The Republic of Austria The Kingdom of Belgium The Republic of Bulgaria The Republic of Cyprus The Czech Republic The Kingdom of Denmark The Republic of Estonia The Republic of Finland The French Republic The Federal Republic of Germany The Hellenic Republic The Republic of Hungary Ireland The Italian Republic The Republic of Latvia The Republic of Lithuania The Grand Duchy of Luxembourg The Republic of Malta The Kingdom of the Netherlands The Republic of Poland The Portuguese Republic Romania The Slovak Republic The Republic of Slovenia The Kingdom of Spain The Kingdom of Sweden The United Kingdom of Great Britain and Northern Ireland.
+The Republic of Austria The Kingdom of Belgium The Republic of Bulgaria The Republic of Cyprus The Czech Republic The Kingdom of Denmark The Republic of Estonia The Republic of Finland The French Republic The Federal Republic of Germany The Hellenic Republic The Republic of Hungary Ireland The Italian Republic The Republic of Latvia The Republic of Lithuania The Grand Duchy of Luxembourg The Republic of Malta The Kingdom of the Netherlands The Republic of Poland The Portuguese Republic Romania The Slovak Republic The Republic of Slovenia The Kingdom of Spain The Kingdom of Sweden
 
 2.  European Free Trade Association States–
 
