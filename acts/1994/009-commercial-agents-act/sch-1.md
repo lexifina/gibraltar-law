@@ -16,7 +16,7 @@ SECONDARY ACTIVITIES
 
 (ii) procuring a transaction on one occasion is likely to lead to further transactions in those goods with that customer on future occasions, or to transactions in those goods with other customers in that same geographical area or among the same group of customers, and
 
-that accordingly, it is in the commercial interest of  the principal in developing the market in those goods to appoint a representative to such customers with a view to a representative devoting effort, skill  and expenditure from his own resources to that end.
+that accordingly, it is in the commercial interest of the principal in developing the market in those goods to appoint a representative to such customers with a view to a representative devoting effort, skill and expenditure from his own resources to that end.
 
 3. The following are indications that an arrangement falls within paragraph 2 and the absence of any of them is an indication to the contrary–
 
@@ -25,10 +25,6 @@ that accordingly, it is in the commercial interest of  the principal in developi
 (b) the goods are specifically identified with the principal in the market in question rather than, or to a greater extent than, any other person;
 
 (c) the agent devotes substantially the whole of his time to representative activities (whether for one principal or for a number of principals whose interests are not conflicting);
-
-Commercial Agents
-
-1994-09
 
 (d) the goods are not normally available in the market in question other than by means of the agent;
 
