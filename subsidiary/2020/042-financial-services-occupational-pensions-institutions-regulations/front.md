@@ -8,7 +8,13 @@ LN.2020/042
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/495 rr. 3(1), 7(2)(e), 9(1)(a), 11(2), 19(5)-(6), 25(3)(f), 29(a)-(c), 30(4)(c)(ii), 31(5), 34(3)-(6), 37-39
+
+1.1.2021
+
+2019-26 Financial Services 2020/042 FINANCIAL SERVICES (OCCUPATIONAL PENSIONS INSTITUTIONS) REGULATIONS 2020
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -32,8 +38,6 @@ Pension benefit statements and supplementary information
 
 10. Pension benefit statements. 11. Content of pension benefit statements. 12. Supplementary information.
 
-2019-26 Financial Services 2020/042 FINANCIAL SERVICES (OCCUPATIONAL PENSIONS INSTITUTIONS) REGULATIONS 2020
-
 Other information and documents to be provided
 
 13. Information to be given to members during the pre-retirement phase. 14. Information to be given to beneficiaries during the pay-out phase. 15. Additional information to be given on request to members and beneficiaries.
@@ -41,6 +45,8 @@ Other information and documents to be provided
 PART 3 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
 Investment rules
+
+Financial Services 2019-26 FINANCIAL SERVICES (OCCUPATIONAL PENSIONS INSTITUTIONS) REGULATIONS 2020 2020/042
 
 16. Investment rules.
 
@@ -64,8 +70,6 @@ PART 4 PRUDENTIAL REQUIREMENTS
 
 Technical provisions
 
-Financial Services 2019-26 FINANCIAL SERVICES (OCCUPATIONAL PENSIONS INSTITUTIONS) REGULATIONS 2020 2020/042
-
 30. Technical provisions. 31. Funding of technical provisions.
 
 Regulatory own funds
@@ -74,16 +78,14 @@ Regulatory own funds
 
 Solvency margin
 
+2019-26 Financial Services 2020/042 FINANCIAL SERVICES (OCCUPATIONAL PENSIONS INSTITUTIONS) REGULATIONS 2020
+
 33. Available solvency margin. 34. Required solvency margin. 35. Required solvency margin for the purpose of regulation 34(3).
 
 PART 5 SUPERVISION
 
 36. Information to be provided to the GFSC.
 
-PART 6 CROSS-BORDER ACTIVITY
-
-37. Cross-border activities and procedures. 38. Cross-border transfers. 39. Investment rules where Gibraltar is host State.
-
-2019-26 Financial Services 2020/042 FINANCIAL SERVICES (OCCUPATIONAL PENSIONS INSTITUTIONS) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (OCCUPATIONAL PENSIONS INSTITUTIONS) REGULATIONS 2020 2020/042
 
 In exercise of the powers conferred on the Minister by sections 585, 586, 587, 620(1), 621(1) and 627 of the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and upon the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made these Regulations.
