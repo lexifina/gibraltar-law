@@ -87,3 +87,9 @@ as prescribed in Schedule 6.
 Retention of documents on registration of a yacht under construction.
 
 3.  Where a yacht under construction is registered and a Certificate of Registry of a Yacht under Construction issued in accordance with regulation 28, the Registrar shall retain in his possession in respect of that yacht under construction, the documents required by this Schedule to accompany an application under regulation 21, together with the application.
+
+Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
+
+1995-12
+
+Subsidiary 1997/153
