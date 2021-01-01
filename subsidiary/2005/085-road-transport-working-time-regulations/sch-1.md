@@ -18,19 +18,13 @@ Regulation 2
 
 (d) the agreement is signed–
 
-(i) in the case of an agreement of the kind referred to in sub- paragraph (c)(i), by the representatives of the workforce, and in the case of an agreement of the kind referred to in sub-paragraph (c)(ii), by the representatives of the group to which the agreement applies (excluding, in either case, any representative not a relevant member of the workforce on the date on which the agreement was first made available for signature), or
+(i) in the case of an agreement of the kind referred to in sub-paragraph (c)(i), by the representatives of the workforce, and in the case of an agreement of the kind referred to in sub-paragraph (c)(ii), by the representatives of the group to which the agreement applies (excluding, in either case, any representative not a relevant member of the workforce on the date on which the agreement was first made available for signature), or
 
-(ii) if the employer employed 20 or fewer workers on the date referred to in sub-paragraph (d)(i), either by the appropriate representatives in accordance with that sub- paragraph or by the majority of the workers employed by him; and
+(ii) if the employer employed 20 or fewer workers on the date referred to in sub-paragraph (d)(i), either by the appropriate representatives in accordance with that sub-paragraph or by the majority of the workers employed by him; and
 
 (e) before the agreement was made available for signature, the employer provided all the workers to whom it was intended to apply on the date on which it came into effect with copies of the text of the agreement and such guidance as those employees might reasonably require in order to understand it in full.
 
 For the purposes of this Schedule–
-
-Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/085
 
 “a particular group” is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace or belong to a particular department or unit within their employer's business;
 
@@ -56,16 +50,4 @@ and representatives are “duly elected” if the election at which they were el
 
 (i) so far as is reasonably practicable, those voting do so in secret, and
 
-Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/085
-
 (ii) the votes given at the election are fairly and accurately counted.
-
-Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/085

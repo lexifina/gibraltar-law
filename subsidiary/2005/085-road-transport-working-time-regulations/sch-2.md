@@ -18,23 +18,17 @@ Powers of inspectors.
 
 (ii) any equipment or material required for any purpose for which the power of entry is being exercised;
 
-(d) to make such examination and investigation as may in any circumstances be necessary for the purpose mentioned in sub- paragraph (1);
+(d) to make such examination and investigation as may in any circumstances be necessary for the purpose mentioned in sub-paragraph (1);
 
 (e) to require any person whom he has reasonable cause to believe to be able to give any information relevant to any examination or investigation under paragraph (d) to answer (in the absence of persons other than a person nominated by him to be present and any persons whom the inspector may allow to be present) such questions as the inspector thinks fit to ask and to sign a declaration of the truth of his answers;
 
 (f) to require the production of, inspect, and take copies of or of any entry in–
 
-Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/085
-
 (i) any records which by virtue of these Regulations are required to be kept, and
 
 (ii) any other books, records or documents which it is necessary for him to see for the purposes of any examination or investigation under paragraph (d);
 
-(g) to require any person to afford him such facilities and assistance with respect to any matters or things within that person's control or in relation to which that person has responsibilities as are necessary to enable the inspector to exercise any of the powers conferred on him by this sub- paragraph;
+(g) to require any person to afford him such facilities and assistance with respect to any matters or things within that person's control or in relation to which that person has responsibilities as are necessary to enable the inspector to exercise any of the powers conferred on him by this sub-paragraph;
 
 (h) any other power which is necessary for the purpose mentioned in sub-paragraph (1).
 
@@ -54,12 +48,6 @@ he may serve on him a notice (in this Schedule referred to as “an improvement 
 
 Prohibition notices.
 
-Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/085
-
 3.(1)  This paragraph applies to any activities which are being or are likely to be carried on by or under the control of any person, being activities to or in relation to which any of these Regulations apply or will, if the activities are so carried on, apply.
 
 (2)  If as regards any activities to which this paragraph applies an inspector is of the opinion that, as carried on by or under the control of the person in question, the activities involve or, as the case may be, will involve a risk of serious personal injury, the inspector may serve on that person a notice (in this Schedule referred to as “a prohibition notice”).
@@ -74,21 +62,17 @@ Subsidiary 2005/085
 
 (d) direct that the activities to which the notice relates shall not be carried on by or under the control of the person on whom the notice is served unless the matters specified in the notice in pursuance of paragraph (b) and any associated contraventions of provisions so specified in pursuance of paragraph (c) have been remedied.
 
-(4)  A direction contained in a prohibition notice in pursuance of sub- paragraph (3)(d) shall take effect–
+(4)  A direction contained in a prohibition notice in pursuance of sub-paragraph (3)(d) shall take effect–
 
-(a) at the end of the period specified in the notice; or (b) if the notice so declares, immediately.
+(a) at the end of the period specified in the notice; or
+
+(b) if the notice so declares, immediately.
 
 Provisions supplementary to paragraphs 2 and 3.
 
 4.(1)  In this paragraph “a notice” means an improvement notice or a prohibition notice.
 
 (2)  A notice may (but need not) include directions as to the measures to be taken to remedy any contravention or matter to which the notice relates; and any such directions–
-
-Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/085
 
 (a) may be framed to any extent by reference to any approved code of practice; and
 
@@ -114,11 +98,7 @@ Appeal against improvement or prohibition notice.
 
 (4)  One or more assessors may be appointed for the purposes of any proceedings brought before an employment tribunal under this paragraph.
 
-Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/085 Restrictions on disclosure of information.
+Restrictions on disclosure of information.
 
 6.(1)  In this paragraph–
 
@@ -138,19 +118,13 @@ Subsidiary 2005/085 Restrictions on disclosure of information.
 
 (d) disclosure by the recipient of information in a form calculated to prevent it from being  identified as relating to a particular person or case.
 
-(4)  A person to whom information is disclosed in pursuance of sub- paragraph (3) shall not use the information for a purpose other than–
+(4)  A person to whom information is disclosed in pursuance of sub-paragraph (3) shall not use the information for a purpose other than–
 
 (a) in a case falling within sub-paragraph (3)(a), a purpose of  a government department in connection with these Regulations or with the relevant statutory provisions, or any enactment relating to working time;
 
 (b) in the case of information given to a police officer, the purposes of the police in connection with these Regulations, the relevant statutory provisions or any enactment relating to working time.
 
-(5)  A person shall not disclose any information obtained by him as a result of the exercise of any power conferred by paragraph 1 (including in
-
-Employment ROAD TRANSPORT (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/085 particular any information with respect to any trade secret obtained by him in any premises entered by him by virtue of any such power) except–
+(5)  A person shall not disclose any information obtained by him as a result of the exercise of any power conferred by paragraph 1 (including in particular any information with respect to any trade secret obtained by him in any premises entered by him by virtue of any such power) except–
 
 (a) for the purposes of his functions; or
 
@@ -162,7 +136,7 @@ In this sub-paragraph “the relevant consent” means, in the case of informati
 
 (6)  Notwithstanding anything in sub-paragraph (5) an inspector shall, in circumstances in which it is necessary to do so for the purpose of assisting in keeping persons (or the representatives of persons) adequately informed about matters affecting their health, safety and welfare or working time, give to such persons or their representatives the following descriptions of information, that is to say–
 
-(a) factual information obtained by him as mentioned in that sub- paragraph which relates to their working environment; and
+(a) factual information obtained by him as mentioned in that sub-paragraph which relates to their working environment; and
 
 (b) information with respect to any action which he has taken or proposes to take in or in connection with the performance of his functions in relation to their working environment;
 
