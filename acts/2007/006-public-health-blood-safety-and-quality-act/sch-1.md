@@ -20,11 +20,7 @@ Information to be provided to prospective donors of blood or blood components.
 
 7.  Specific information on the nature of the procedures involved either in the allogeneic or autologous donation process and their respective associated risks. For autologous donations, the possibility that the autologous blood and blood components may not suffice for the intended transfusion requirements.
 
-8.  Information on the option for donors to change their mind about donating prior to proceeding further, or the possibility of withdrawing or self-
-
-Public Health (Blood Safety and Quality)
-
-2007-06 deferring at any time during the donation process, without any undue embarrassment or discomfort.
+8.  Information on the option for donors to change their mind about donating prior to proceeding further, or the possibility of withdrawing or self-deferring at any time during the donation process, without any undue embarrassment or discomfort.
 
 9.  The reasons why it is important that donors inform the blood establishment of any subsequent event that may render any prior donation unsuitable for transfusion.
 
@@ -54,9 +50,7 @@ Signature of the donor
 
 (a) read and understood the educational materials provided;
 
-Public Health (Blood Safety and Quality)
-
-2007-06 (b) had an opportunity to ask questions;
+(b) had an opportunity to ask questions;
 
 (c) been provided with satisfactory responses to any questions asked;
 
@@ -65,7 +59,3 @@ Public Health (Blood Safety and Quality)
 (e) been informed, in the case of autologous donations, that the donated blood and blood components may not be sufficient for the intended transfusion requirements; and
 
 (f) acknowledged that all the information provided by the donor is true to the best of his knowledge.
-
-Public Health (Blood Safety and Quality)
-
-2007-06

@@ -6,9 +6,13 @@ PART A Rapid notification format for suspected serious adverse reactions
 
 Reporting establishment Report identification
 
-Reporting date (year/month/day) Date of transfusion (year/month/day) Age and sex of recipient
+Reporting date (year/month/day)
 
-Date of serious adverse reaction (year/month/day) Serious adverse reaction is related to-
+Date of transfusion (year/month/day)
+
+Age and sex of recipient Date of serious adverse reaction (year/month/day)
+
+Serious adverse reaction is related to-
 
 (a) Whole blood
 
@@ -32,9 +36,7 @@ Date of serious adverse reaction (year/month/day) Serious adverse reaction is re
 
 (f) Transfusion related acute lung injury
 
-Public Health (Blood Safety and Quality)
-
-2007-06 (g)Transfusion-transmitted viral infection (HBV)
+(g)Transfusion-transmitted viral infection (HBV)
 
 (h) Transfusion-transmitted viral infection (HCV)
 
@@ -54,15 +56,13 @@ Public Health (Blood Safety and Quality)
 
 Imputability level (NA, 0-3)
 
-Public Health (Blood Safety and Quality)
-
-2007-06
-
 PART B Serious adverse reactions — imputability levels
 
 Imputability levels to assess serious adverse reactions.
 
-Imputability level Explanation NA Not assessable When there is insufficient data for imputability assessment.
+Imputability level Explanation
+
+NA Not assessable When there is insufficient data for imputability assessment.
 
 0 Unlikely When there is conclusive evidence beyond reasonable doubt for attributing the adverse reaction to alternative causes.
 
@@ -74,19 +74,17 @@ Unlikely When the evidence is clearly in favour of attributing the adverse react
 
 3 Certain When there is conclusive evidence beyond reasonable doubt for attributing the adverse reaction to the blood or blood component.
 
-Public Health (Blood Safety and Quality)
-
-2007-06
-
 PART C Confirmation format for serious adverse reactions
 
 Reporting establishment
 
-Report identification Confirmation date (year/month/day)
+Report identification
 
-Date of serious adverse reaction (year/month/day)
+Confirmation date (year/month/day) Date of serious adverse reaction (year/month/day)
 
-Confirmation of serious adverse reaction (Yes/No) Imputability level (NA, 0-3)
+Confirmation of serious adverse reaction (Yes/No)
+
+Imputability level (NA, 0-3)
 
 Change of type of serious adverse reaction (Yes/No) If Yes, specify
 
@@ -100,10 +98,6 @@ Clinical outcome (if known)-
 
 (d) Death
 
-Public Health (Blood Safety and Quality)
-
-2007-06
-
 PART D
 
 Annual notification format for serious adverse reactions ________________________________________________________ Reporting establishment ________________________________________________________ Reporting period
@@ -116,11 +110,11 @@ This Table refers to
 
 Total number reported
 
-Number of serious adverse reactions with imputability level 0 to 3 after confirmation (see Part A of this Schedule)
+Number of serious adverse reactions with imputability level 0 to 3 after confirmation (see  Part A of this Schedule)
 
 Number of deaths
 
-not assessable Level 0 Level 1 Level 2 Level 3 Immunological Haemolysis Due to ABO incompatability Total
+not assessable Level 0 Level 1 Level 2 Leve l 3 Immunological Haemolysis Due to ABO incompatability Total
 
 Deaths
 
@@ -179,7 +173,3 @@ Deaths
 Other serious reactions (specify) Total
 
 Deaths
-
-Public Health (Blood Safety and Quality)
-
-2007-06

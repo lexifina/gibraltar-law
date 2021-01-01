@@ -20,11 +20,7 @@ QUALITY SYSTEM STANDARDS AND SPECIFICATIONS
 
 2.  PERSONNEL AND ORGANISATION
 
-1. Personnel in blood establishments shall be available in sufficient numbers to carry out the activities related to the collection, testing, processing, storage and distribution of blood
-
-Public Health (Blood Safety and Quality)
-
-2007-06 and blood components and be trained and assessed to be competent to perform their tasks.
+1. Personnel in blood establishments shall be available in sufficient numbers to carry out the activities related to the collection, testing, processing, storage and distribution of blood and blood components and be trained and assessed to be competent to perform their tasks.
 
 2. All personnel in blood establishments shall have up to date job descriptions which clearly set out their tasks and responsibilities. Blood establishments shall assign the responsibility for processing management and quality assurance to different individuals and who function independently.
 
@@ -48,10 +44,6 @@ Blood collection shall be carried out in an area intended for the safe withdrawa
 
 3.4.  Blood testing and processing areas
 
-Public Health (Blood Safety and Quality)
-
-2007-06
-
 There shall be a dedicated laboratory area for testing that is separate from the blood donor and blood component processing area with access restricted to authorised personnel.
 
 3.5.  Storage area
@@ -70,7 +62,7 @@ An area shall be designated for the safe disposal of waste, disposable items use
 
 2. Equipment shall be selected to minimise any hazard to donors, personnel, or blood components.
 
-3. Only reagents and materials from approved suppliers that meet the documented requirements and specifications shall be used. Critical materials shall be released by a person qualified to perform this task. Where relevant, materials, reagents and equipment.
+3. Only reagents and materials from approved suppliers that meet the documented requirements and specifications shall be used. Critical materials shall be released by a person qualified to perform this task. Where relevant, materials, reagents and equipment shall meet the requirements of Council Directive 93/42/EEC for medical devices, as amended from time to time and Directive 98/79/EC of the European Parliament and of the Council for in vitro diagnostic medical devices, as amended from time to time, or comply with equivalent standards in the case of collection in third countries.
 
 4. Inventory records shall be retained for a period acceptable to and agreed with the competent authority.
 
@@ -78,9 +70,7 @@ An area shall be designated for the safe disposal of waste, disposable items use
 
 5.  DOCUMENTATION
 
-Public Health (Blood Safety and Quality)
-
-2007-06 1. Documents setting out specifications, procedures and records covering each activity performed by the blood establishment shall be in place and kept up to date.
+1. Documents setting out specifications, procedures and records covering each activity performed by the blood establishment shall be in place and kept up to date.
 
 2. Records shall be legible and may be handwritten, transferred to another medium such as microfilm or documented in a computerised system.
 
@@ -100,15 +90,13 @@ Public Health (Blood Safety and Quality)
 
 1. The blood collection procedure shall be designed to ensure that the identity of the donor is verified and securely recorded and that the link between the donor and the blood, blood components and blood samples is clearly established.
 
-2. The sterile blood bag systems used for the collection of blood and blood components and their processing shall be CE- marked or comply with equivalent standards if the blood and blood components are collected in third countries. The batch number of the blood bag shall be traceable for each blood component.
+2. The sterile blood bag systems used for the collection of blood and blood components and their processing shall be CE-marked or comply with equivalent standards if the blood and blood components are collected in third countries. The batch number of the blood bag shall be traceable for each blood component.
 
 3. Blood collection procedures shall minimise the risk of microbial contamination.
 
 4. Laboratory samples shall be taken at the time of donation and appropriately stored prior to testing.
 
-Public Health (Blood Safety and Quality)
-
-2007-06 5. The procedure used for the labelling of records, blood bags and laboratory samples with donation numbers shall be designed to avoid any risk of identification error and mix-up.
+5. The procedure used for the labelling of records, blood bags and laboratory samples with donation numbers shall be designed to avoid any risk of identification error and mix-up.
 
 6. After blood collection, the blood bags shall be handled in a way that maintains the quality of the blood and at a storage and transport temperature appropriate to further processing requirements.
 
@@ -132,11 +120,7 @@ Public Health (Blood Safety and Quality)
 
 1. All equipment and technical devices shall be used in accordance with validated procedures.
 
-2. The processing of blood components shall be carried out using appropriate and validated procedures including measures to
-
-Public Health (Blood Safety and Quality)
-
-2007-06 avoid the risk of contamination and microbial growth in the prepared blood components.
+2. The processing of blood components shall be carried out using appropriate and validated procedures including measures to avoid the risk of contamination and microbial growth in the prepared blood components.
 
 6.5.  Labelling
 
@@ -152,13 +136,9 @@ Public Health (Blood Safety and Quality)
 
 3. In the event that the final component fails release due to a confirmed positive infection test result, in conformity with the requirements set out in paragraphs 6.3.2 and 6.3.3 of this Schedule, a check shall be made to ensure that other components from the same donation and components prepared from previous donations given by the donor are identified. There shall be an immediate update of the donor record.
 
-Public Health (Blood Safety and Quality)
-
-2007-06
-
 7.  STORAGE AND DISTRIBUTION
 
-1. The quality system of the blood establishment shall ensure that, for blood and blood components intended for the manufacture of medicinal products, the storage and distribution requirements shall comply with Directive 2003/94/EC.
+1. The quality system of the blood establishment shall ensure that, for blood and blood components intended for the manufacture of medicinal products, the storage and distribution requirements shall comply with Directive 2003/94/EC as amended from time to time.
 
 2. Procedures for storage and distribution shall be validated to ensure blood and blood component quality during the entire storage period and to exclude mix-ups of blood components. All transportation and storage actions, including receipt and distribution, shall be defined by written procedures and specifications.
 
@@ -182,11 +162,7 @@ Blood components deviating from required standards set out in Schedule 4 shall b
 
 9.2.  Complaints
 
-All complaints and other information, including serious adverse reactions and serious adverse events, which may suggest that defective blood components have been issued, shall be documented, carefully investigated for causative factors of the defect and, where necessary, followed by recall
-
-Public Health (Blood Safety and Quality)
-
-2007-06 and the implementation of corrective actions to prevent recurrence. Procedures shall be in place to ensure that the competent authorities are notified as appropriate of serious adverse reactions or serious adverse events in accordance with regulatory requirements.
+All complaints and other information, including serious adverse reactions and serious adverse events, which may suggest that defective blood components have been issued, shall be documented, carefully investigated for causative factors of the defect and, where necessary, followed by recall and the implementation of corrective actions to prevent recurrence. Procedures shall be in place to ensure that the competent authority is notified as appropriate of serious adverse reactions or serious adverse events in accordance with regulatory requirements.
 
 9.3.  Recall
 
@@ -198,7 +174,7 @@ Public Health (Blood Safety and Quality)
 
 9.4.  Corrective and preventive actions
 
-1. A system to ensure corrective and preventive actions on blood component non-conformity and quality problems shall be in place.
+1. A system to ensure corrective and preventive actions on blood component non- conformity and quality problems shall be in place.
 
 2. Data shall be routinely analysed to identify quality problems that may require corrective action or to identify unfavourable trends that may require preventive action.
 
@@ -208,6 +184,4 @@ Public Health (Blood Safety and Quality)
 
 1. Self-inspection or audit systems shall be in place for all parts of the operations to verify compliance with the standards set out in this Schedule. They shall be carried out regularly by trained and competent persons in an independent way according to approved procedures.
 
-Public Health (Blood Safety and Quality)
-
-2007-06 2. All results shall be documented and appropriate corrective and preventive actions shall be taken in a timely and effective manner.
+2. All results shall be documented and appropriate corrective and preventive actions shall be taken in a timely and effective manner.
