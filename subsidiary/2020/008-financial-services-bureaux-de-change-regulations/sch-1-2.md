@@ -12,9 +12,9 @@ B. CURRENT ASSETS
 
 I. Physical stocks
 
-II. Debtors (1) 1. Trade debtors (2) 2. Other debtors 3. Amounts due from connected and group companies
+II. Debtors (1) 1. Trade debtors (2) 2. Other debtors
 
-4. Prepayments and accrued income
+3. Amounts due from connected and group companies 4. Prepayments and accrued income
 
 III. Investments (long positions)(3)
 
@@ -64,7 +64,9 @@ Outstanding for more than 30 days Outstanding for 30 days or less.
 
 (c) Other
 
-Amounts outstanding for more than 30 days Amounts outstanding for 30 days or less.
+Amounts outstanding for more than 30 days
+
+Amounts outstanding for 30 days or less.
 
 (3)  Investments (long positions)
 
