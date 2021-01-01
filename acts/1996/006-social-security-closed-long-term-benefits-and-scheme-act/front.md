@@ -38,6 +38,8 @@ Social Security (Closed Long-Term Benefits and Scheme)
 
 28.3.2014 LN. 2015/086 s. 16(a), Sch. 1 1.8.2014 2015/156 s. 16(a), Sch. 1 1.8.2015 2016/155 s. 16(a), Sch. 1 1.8.2016 2017/183 s. 16(a), Sch. 1 1.8.2017 2018/186 s. 16(a), Sch. 1 1.8.2018 2019/161 s. 16(a), Sch. 1 1.8.2019 2020/535 s. 37(1), (3) 24.12.2020
 
+“ s. 3(3)(a), (8) 1.1.2021
+
 Social Security (Closed Long-Term Benefits and Scheme)
 
 1996-06 ARRANGEMENT OF SECTIONS
