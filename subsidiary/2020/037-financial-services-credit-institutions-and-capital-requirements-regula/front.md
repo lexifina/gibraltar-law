@@ -14,9 +14,15 @@ LN.2020/475 r. 16C 27.12.2020 “
 
 rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45(3A)-(3B), 46(1)-(3), (11)-(12), 49, 51(13)(a), (14), (18A)-(18B), 54(1)(a)-(c), (4A)-(4C), (6)-(8), 56(3)(b)-(c), 59(5)- (6), 60(2)-(9), 66, 68, 70(5), 74(1), 75(2), 80(2A), 82A, 83-84, 85(2), (4), (7A)-(7D), (12), (12A)- (12C), (14)-(26), 86-87, 89(5), (10)-(12), 94(1)-(9), 99(2A), 134(1A), (2), (2A), 136(3), 139, 140(1)-(2), (2A)-(2B), (3), 140A-140C, 141(1)(d), 145(g), 146(d), 167(1)(f)-(h), 168(1), 169A, 173(1)(c), 175A-175C
 
-28.12.2020
+28.12.2020 2021/250 rr. 2, 4(7), 5(1)(a), (f), (3), 7, 11(4), 12(5), 14(3)- (4), 15, 16(1)(c), (2)-(3), 16A, (1)(a)-(b), (2)-(3), (5)(b), (9), (14)-(19), 16B, 16C(1), (4)-(5), (7), 17, (a), 21, 22(1)(b), (2), (b), 25(4)-(5), 26(3), 28, 29(1)(a), (2), 31(3), 32, 33(9), 34(2), (5)-(6), 35(3)- (4), (7), (10)-(11), 40(3), 43(3), (8), (13), (18), (21), 46(1)-(3), 48(7)(b), (10), (16)-(17), 51(8)(c)(vi)- (vii), (d), (19), 54(1), (4C), (5)-(6), (7)(a), (8), 55(1)(g), (4), (8), 56(2)(c), (5), 57(1)-(2), 58(9), 59(4), (7), 60(5)-(8), 62-73, 75(1)-(4), 77(1), (3)- (4), 78(1), 79(1)-(5), 80, 81(2), (4)-(6), 82(1)-(2), 82A(1)(b), 83(5), 84(6), 85(2)-(4), (5)(e), (7A)(b), (9)(b), (10), (12A)-(12C), (13)(a), (14)-(15), (b), (17)(c), (19)-(20), (27), 86(4)(c)-(d), (7)(a), (8)- (20), (25)-(26), 87(1)(a)-(b), (2)-(3), (5), 88, 89(1), (4)(b), (5)(b), (7), (8)(a), (11)-(12), 90(1), (2)(b), 91, 92(1)-(2), (5), 93(1), (3), (6), (7)(a)-(c), (9), 96(1)-(2), (4)-(5), 99, 100(1), 105-118, 120-129,
 
 2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
+
+131(5), 134(1), (1A), (b), (2)-(3), 135(1), (a)-(b), (2), 136(3), 140C, 141(2), 143, 146(b), 148(1)-(2), 149(1), 150(2)(a)-(c), (3), (7), 151, 154, 155(2)(a), 156(1)(a), 157(1)(b), 158-163, 164(1), (4)-(5), 165(b)-(d), 166-169, 170(4)-(6), 171, 172(1), (3), 173, 174(1), 175B-175C, 176(1)-(2), Sch.
+
+1.1.2021
+
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -30,19 +36,19 @@ PART 2 THRESHOLD CONDITIONS
 
 Chapter 1 General
 
-6. Introduction. 7 Consultation with competent authorities before giving permission.
+6. Introduction. 7 Omitted.
 
 Chapter 2 Credit institutions
 
 Permission
 
-8. Application for permission by credit institutions. 9. Application of threshold conditions. 10. Effective direction of business and place of head office. 11. Initial capital. 12. Controllers and close links. 13. Suitability. 14. Resources and internal governance. 15. Waiver for credit institutions permanently affiliated to central body. 16. Scope of permission: credit institutions.
+8. Application for permission by credit institutions. 9. Application of threshold conditions. 10. Effective direction of business and place of head office. 11. Initial capital. 12. Controllers and close links. 13. Suitability. 14. Resources and internal governance. 15. Omitted. 16. Scope of permission: credit institutions.
 
 Parent undertakings
 
-16A. Approval of financial holding companies and mixed financial holding companies. 16B. Intermediate EU parent undertaking.
+16A. Approval of financial holding companies and mixed financial holding companies. 16B. Omitted.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 Authorisation of specific credit institutions
 
@@ -72,13 +78,13 @@ Chapter 1 Internal capital adequacy assessment process
 
 30. Internal capital.
 
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
 
 Chapter 2 Arrangements, processes and mechanisms of institutions
 
 General principles
 
-31. Internal governance and recovery and resolution plans. 32. Oversight of remuneration policies.
+31. Internal governance and recovery and resolution plans. 32. Omitted.
 
 Technical criteria concerning the organisation and treatment of risks
 
@@ -92,7 +98,7 @@ Chapter 3 Supervisory review and evaluation process
 
 54. Supervisory review and evaluation.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 55. Technical criteria for the supervisory review and evaluation. 56. Supervisory examination programme. 57. Supervisory stress testing. 58. Ongoing review of the permission to use internal approaches.
 
@@ -104,23 +110,23 @@ PART 5 PRUDENTIAL REQUIREMENTS
 
 Chapter 1 Principles of prudential supervision
 
-Responsibilities of the GFSC as home or host member State
+Responsibilities of the GFSC
 
-62. Competence of the GFSC. 63. Collaboration concerning supervision. 64. Significant branches. 65. On-the-spot checking and inspection of branches.
+62. GFSC responsible for prudential supervision. 63. to 65. Omitted.
 
 Chapter 2 Supervision on a consolidated basis
 
 SECTION 1 Principles for conducting supervision on consolidated basis
 
-66. Determination of consolidating supervisor. 67. Coordination of supervisory activities by consolidating supervisor. 68. Joint decisions on institution-specific prudential requirements. 69. Information requirements in emergency situations. 70. Coordination and cooperation arrangements. 71. Colleges of supervisors. 72. Cooperation obligations. 73. Checking information concerning entities in Member States.
+66. GFSC as consolidating supervisor. 67. to 73. Omitted.
 
-SECTION 2
+SECTION 2 Financial holding companies, mixed financial holding companies and mixed-activity holding companies
 
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
+74. Inclusion of holding companies in consolidated supervision. 75. Supervision of mixed financial holding companies. 76. Qualification of directors. 77. Requests for information and inspections. 78. Supervision.
 
-Financial holding companies, mixed financial holding companies and mixed-activity holding companies
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
 
-74. Inclusion of holding companies in consolidated supervision. 75. Supervision of mixed financial holding companies. 76. Qualification of directors. 77. Requests for information and inspections. 78. Supervision. 79. Exchange of information. 80. Cooperation. 81. Assessment of equivalence of third countries’ consolidated  supervision.
+79. Exchange of information. 80. Omitted. 81. Assessment of equivalence of third countries’ consolidated  supervision.
 
 Chapter 3 Capital buffers
 
@@ -130,61 +136,43 @@ SECTION 1 Buffers
 
 SECTION 2 Setting and calculating countercyclical capital buffers
 
-88. ESRB guidance on setting countercyclical buffer rates. 89. Setting countercyclical buffer rates. 90. Recognition of countercyclical buffer rates in excess of 2.5%. 91. ESRB recommendation on third country countercyclical buffer rate. 92. Decision by designated authorities on third country countercyclical buffer rates. 93. Calculation of institution-specific countercyclical capital buffer rates.
+88. Omitted. 89. Setting countercyclical buffer rates. 90. Recognition of countercyclical buffer rates in excess of 2.5%. 91. Omitted. 92. Decision on third country countercyclical buffer rates. 93. Calculation of institution-specific countercyclical capital buffer rates.
 
 SECTION 3 Capital conservation measures
 
 94. Restrictions on distributions. 95. Capital conservation plan.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
-
 PART 6 REPORTING AND NOTIFICATION
 
 Information to be provided by credit institutions
 
-96. Disclosure of transactions. 97. Disclosure of inability to meet obligations. 98. Notification of controllers etc.
-
-Accounts and information
-
-99. Duty of persons responsible for legal control of annual and consolidated accounts. 100. Audit of accounts. 101. Appointment of auditors. 102. Notification in respect of auditors. 103. Communications by auditors to GFSC. 104. Auditor to notify GFSC of adverse occurrence etc.
-
-PART 7 FREEDOM OF ESTBALISHMENT AND FREEDOM TO PROVIDE SERVICES
-
-Chapter 1 EEA firms
-
-105. Application and interpretation of Chapter 1.
-
-Branch business
-
-106. EEA firms qualifying for authorisation: branches in Gibraltar. 107. Changes to information provided under regulation 106. 108. Commencement of branch business. 109. Supervision of branches of EEA credit institutions. 110. Information about refusals. 111. Aggregation of branches.
-
-Services business
-
-112. EEA firms qualifying for authorisation: services.
-
-Chapter 2
+96. Disclosure of transactions. 97. Disclosure of inability to meet obligations.
 
 2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
-Gibraltar firms
+98. Notification of controllers etc.
 
-113. Application of Chapter 2. 114. Extent of Gibraltar firm’s activities in an EEA State.
+Accounts and information
 
-Branch business
+99. Omitted. 100. Audit of accounts. 101. Appointment of auditors. 102. Notification in respect of auditors. 103. Communications by auditors to GFSC. 104. Auditor to notify GFSC of adverse occurrence etc.
 
-115. Gibraltar firms: branches in an EEA State. 116. Changes to information provided under regulation 115. 117. Branch business of Gibraltar firms.
+PART 7 GIBRALTAR AND THIRD COUNTRIES
 
-Services business
+Chapter 1 Omitted
 
-118. Gibraltar firms: services in an EEA State.
+105. to 112. Omitted.
+
+Chapter 2 Gibraltar firms
+
+113. Application of Chapter 2. 114. to 118. Omitted.
 
 Overseas offices
 
 119. Gibraltar firms: restrictions on opening overseas offices.
 
-Chapter 3 EEA firms and Gibraltar firms
+Chapter 3 Omitted
 
-120. Reporting requirements of EEA firms. 121. Measures taken by GFSC in relation to activities carried out in host Member State. 122. Reasons and communication. 123. Precautionary measures. 124. Powers of Gibraltar as host Member State. 125. Measures following withdrawal of authorisation. 126. Advertising. 127. Loss of authorisation of EEA credit institutions or subsidiaries. 128. Limitations of authorisation of EEA credit institutions or subsidiaries. 129. Power to prohibit the carrying on of certain activities.
+120. to 129. Omitted.
 
 Chapter 4 Third country institutions
 
@@ -208,7 +196,7 @@ General
 
 Intervention
 
-137. Information gathering and investigatory powers. 138. Regulatory measures: general. 139. Omitted. 140. Exercise of powers for specific purposes. 140A. Additional own funds requirement. 140B. Guidance on additional own funds. 140C. Cooperation with resolution authorities. 141. Specific liquidity requirements. 142. Specific publication requirements. 143. Consistency of regulatory reviews, evaluations and measures.
+137. Information gathering and investigatory powers. 138. Regulatory measures: general. 139. Omitted. 140. Exercise of powers for specific purposes. 140A. Additional own funds requirement. 140B. Guidance on additional own funds. 140C. Cooperation with resolution authority. 141. Specific liquidity requirements. 142. Specific publication requirements. 143. Omitted.
 
 Sanctions
 
@@ -220,31 +208,19 @@ PART 9 MISCELLANEOUS
 
 General
 
-150. The Register: accepting deposits. 151. Delegated and implementing acts. 152. Civil liability. 153. Protection of legal privilege. 154. Data protection.
+150. The Register: accepting deposits. 151. Omitted. 152. Civil liability. 153. Protection of legal privilege. 154. Data protection.
 
 Restrictions on use of names etc
 
-155. Restrictions on use of word “bank”. 156. Restrictions on use of name derived from shareholder credit institution. 157. Restriction on use of words “building society”. 158. Name of EEA credit institutions.
-
-Notifying permission and group structure
-
-159. GFSC duties to notify the EBA and other competent authorities.
-
-Cooperation
-
-160. Cooperation within European System of Financial Supervision. 161. Union dimension of supervision. 162. Review. 163. Cooperation agreements with third countries.
+155. Restrictions on use of word “bank”. 156. Restrictions on use of name derived from shareholder credit institution. 157. Restriction on use of words “building society”. 158. to 163. Omitted.
 
 Confidentiality and exchange of information
 
-164. Professional secrecy. 165. Use of confidential information. 166. Investigations by European Parliament. 167. Exchange of information between authorities. 168. Exchange of information with oversight bodies. 169. Transmission of information concerning monetary, deposit protection, systemic and payment aspects. 169A. Transmission of information to international bodies. 170. Transmission of information to other entities. 171. Disclosure of information obtained by on-the-spot checks and inspections.
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
-
-172. Disclosure of information concerning clearing and settlement services.
+164. Professional secrecy. 165. Use of confidential information. 166. to 169. Omitted. 169A. Transmission of information to international bodies. 170. Transmission of information to other entities. 171. Omitted. 172. Disclosure of information concerning clearing and settlement services.
 
 Publication of information by the GFSC
 
-173. General disclosure requirements. 174. Specific disclosure requirements.
+173. Omitted. 174. Specific disclosure requirements.
 
 Offence: fraudulent inducement to make a deposit.
 
@@ -254,15 +230,15 @@ Transitional provisions: financial and mixed financial holding companies
 
 175A. Transitional provisions on approval of financial holding companies and mixed financial holding companies.
 
-Capital Requirements Regulation
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
 
-175B. Designated authority. 175C. Modified application of Capital Requirements Regulation.
+175B. Omitted. 175C. Omitted.
 
 Savings and revocations
 
 176. Directive 2006/48/EC and Directive 2006/49/EC. 177. Revocations.
 
-SCHEDULE TEXT OF ANNEX 1 TO THE CAPITAL REQUIREMENTS DIRECTIVE
+SCHEDULE ADDITIONAL ACTIVITIES
 
 2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 

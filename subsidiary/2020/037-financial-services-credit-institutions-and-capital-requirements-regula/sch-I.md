@@ -8,9 +8,9 @@ LIST OF ACTIVITIES SUBJECT TO MUTUAL RECOGNITION
 
 3.  Financial leasing.
 
-4.  Payment services as defined in Article 4(3) of Directive (EU) 2015/2366.
+4.  Payment services within the meaning of paragraph 17 of Schedule 2 to the Act.
 
-5. Issuing and administering other means of payment (e.g. travellers’ cheques and bankers’ drafts) insofar as such activity is not covered by point 4.
+5. Issuing and administering other means of payment (e.g. travellers’ cheques and bankers’ drafts) to the extent that such activity is not covered by paragraph 4.
 
 6.  Guarantees and commitments.
 
@@ -44,4 +44,4 @@ LIST OF ACTIVITIES SUBJECT TO MUTUAL RECOGNITION
 
 15.  Issuing electronic money.
 
-The services and activities provided for in Sections A and B of Annex I to Directive 2014/65/EC, when referring to the financial instruments provided for in Section C of Annex I of that Directive, are subject to mutual recognition in accordance with this Directive.
+16.  The services and activities in paragraphs 45(2) and 48 to 56 of Schedule 2 to the Act, in respect to the financial instruments listed in paragraph 46(1) of that Schedule.
