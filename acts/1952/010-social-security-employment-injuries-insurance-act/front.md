@@ -92,7 +92,9 @@ Social Security (Employment Injuries Insurance)
 
 28.11.2013 2014-10 ss. 2, 3(2)(iv), 18(1)(a)-(b), 19(1), (2)(a)-(b), (3), 20(b), 21(2), 22(1), 27(3)
 
-28.3.2014 2017-13 ss. 5(1A), (4), 6(2)(a) 1.7.2015 LN. 2017/0571 Sch.1 1.4.2017 Act. 2017-10 s. 15(2)(a) 13.6.2018 LN. 2020/535 s. 54(1), (3) 24.12.2020
+28.3.2014 2017-13 ss. 5(1A), (4), 6(2)(a) 1.7.2015 LN. 2017/0571 Sch.1 1.4.2017 Act. 2017-10 s. 15(2)(a) 13.6.2018 LN. 2020/535 s. 54(1), (3) 24.12.2020 “
+
+s. 51(1), (5) 1.1.2021
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
@@ -126,11 +128,11 @@ PART IV. BENEFITS.
 
 Death benefit.
 
-19. Widows, widowers, surviving civil partners and children. 20. Orphans. 21. Parents.
+19. Widows, widowers, surviving civil partners and children. 20. Orphans.
 
 Social Security (Employment Injuries Insurance)
 
-1952-10 22. Dependants. 23. Payment of benefit. 24. Payment of benefit where beneficiary is an orphan. 25. Benefit to be inalienable. 26. Claim for benefit. 27. Disqualifications. 28. Repayment of benefits. 29. Recovery of benefit. 30. Insured persons entitled to free medical treatment. 31. Occupational diseases and injuries not caused by accident. 32. Disqualifications, etc., to be disregarded for certain purposes.
+1952-10 21. Parents. 22. Dependants. 23. Payment of benefit. 24. Payment of benefit where beneficiary is an orphan. 25. Benefit to be inalienable. 26. Claim for benefit. 27. Disqualifications. 28. Repayment of benefits. 29. Recovery of benefit. 30. Insured persons entitled to free medical treatment. 31. Occupational diseases and injuries not caused by accident. 32. Disqualifications, etc., to be disregarded for certain purposes.
 
 PART V. DETERMINATION OF QUESTIONS AND CLAIMS.
 
@@ -144,11 +146,11 @@ PART VI. ADMINISTRATION AND ENFORCEMENT.
 
 43. Appointment of inspectors and officers. 44. Employment Injuries Insurance Advisory Committee. 45. Proceedings in court. 45A.  Civil proceedings to recover sums. 46. Penalties for certain offences. 47. General penalty. 48. Payment of employer of unpaid contributions. 49. Limitation. 50. General power to make regulations.
 
-PART VII. FINANCE.
+PART VII.
 
 Social Security (Employment Injuries Insurance)
 
-1952-10
+1952-10 FINANCE.
 
 51. Employment In juries Insurance Fund. 52. Report by actuary. 53. Exemption from stamp duty. 54. Reciprocal agreements. 55. Review of contributions, benefits, etc.
 
