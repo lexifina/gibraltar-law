@@ -2,7 +2,7 @@ SCHEDULE 2 Section 36
 
 OFFENCES REFERRED TO IN SECTION 27(1)(b)
 
-The following offences, if they are punishable in the issuing State by a custodial sentence or a detention order for a maximum period of at least three years and as they are defined by the law of the issuing State, shall give rise to surrender pursuant to a European arrest warrant:
+The following offences, if they are punishable in the issuing State by a custodial sentence or a detention order for a maximum period of at least three years and as they are defined by the law of the issuing State, shall give rise to surrender pursuant to an Extradition arrest warrant:
 
 (a) participation in a criminal organisation,
 
@@ -36,10 +36,6 @@ The following offences, if they are punishable in the issuing State by a custodi
 
 (p) kidnapping, illegal restraint and hostage-taking,
 
-European Arrest Warrant
-
-2004-04
-
 (q) racism and xenophobia,
 
 (r) organised or armed robbery,
@@ -71,7 +67,3 @@ European Arrest Warrant
 (ae) unlawful seizure of aircraft/ships,
 
 (af) sabotage.
-
-European Arrest Warrant
-
-2004-04
