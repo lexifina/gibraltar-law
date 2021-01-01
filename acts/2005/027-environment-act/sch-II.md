@@ -1,72 +1,70 @@
 ANNEX II
 
-PROJECTS SUBJECT TO ARTICLE 4 (2)
+PROJECTS REFERRED TO IN ARTICLE 4(2)
 
-1. Agriculture, silviculture and aquaculture
+1.AGRICULTURE, SILVICULTURE AND AQUACULTURE
 
-Environment
+(a) Projects for the restructuring of rural land holdings;
 
-2005-27 (a)  Projects for the restructuring of rural land holdings;
+(b) Projects for the use of uncultivated land or semi-natural areas for intensive agricultural purposes;
 
-(b)  Projects for the use of uncultivated land or semi-natural areas for intensive agricultural purposes;
+(c) Water management projects for agriculture, including irrigation and land drainage projects;
 
-(c)  Water management projects for agriculture, including irrigation and land drainage projects;
+(d) Initial afforestation and deforestation for the purposes of conversion to another type of land use;
 
-(d)  Initial afforestation and deforestation for the purposes of conversion to another type of land use;
+(e) Intensive livestock installations (projects not included in Annex I);
 
-(e)  Intensive livestock installations (projects not included in Annex I);
+(f) Intensive fish farming;
 
-(f)  Intensive fish farming;
+(g) Reclamation of land from the sea.
 
-(g)  Reclamation of land from the sea.
+2.EXTRACTIVE INDUSTRY
 
-2. Extractive industry
+(a) Quarries, open-cast mining and peat extraction (projects not included in Annex I);
 
-(a)  Quarries, open-cast mining and peat extraction (projects not included in Annex I);
+(b) Underground mining;
 
-(b)  Underground mining;
+(c) Extraction of minerals by marine or fluvial dredging;
 
-(c)  Extraction of minerals by marine or fluvial dredging;
+(d) Deep drillings, in particular:
 
-(d)  Deep drillings, in particular:
+(i) geothermal drilling;
 
-— geothermal drilling,
+(ii) drilling for the storage of nuclear waste material;
 
-— drilling for the storage of nuclear waste material,
-
-— drilling for water supplies,
+(iii) drilling for water supplies;
 
 with the exception of drillings for investigating the stability of the soil;
 
 (e) Surface industrial installations for the extraction of coal, petroleum, natural gas and ores, as well as bituminous shale.
 
-3. Energy industry
+3.ENERGY INDUSTRY
 
-(a)  Industrial installations for the production of electricity, steam and hot water (projects not included in Annex I);
+(a) Industrial installations for the production of electricity, steam and hot water (projects not included in Annex I);
 
-Environment
+(b) Industrial installations for carrying gas, steam and hot water; trans- mission of electrical energy by overhead cables (projects not included in Annex I);
 
-2005-27 (b)  Industrial installations for carrying gas, steam and hot water; transmission of electrical energy by overhead cables (projects not included in Annex I);
+(c) Surface storage of natural gas;
 
-(c)  Surface storage of natural gas;
+(d) Underground storage of combustible gases;
 
-(d)  Underground storage of combustible gases;
+(e) Surface storage of fossil fuels;
 
-(e)  Surface storage of fossil fuels;
+(f) Industrial briquetting of coal and lignite;
 
-(f)  Industrial briquetting of coal and lignite;
+(g) Installations for the processing and storage of radioactive waste (unless included in Annex I);
 
-(g)  Installations for the processing and storage of radioactive waste (unless included in Annex I);
+(h) Installations for hydroelectric energy production;
 
-(h)  Installations for hydroelectric energy production;
+(i) Installations for the harnessing of wind power for energy production (wind farms);
 
-(i)  Installations for the harnessing of wind power for energy production (wind farms).
+(j) Installations for the capture of CO2 streams for the purposes of geological storage pursuant to Directive 2009/31/EC from installations not covered by Annex I to this Directive.
 
-4. Production and processing of metals
+4.PRODUCTION AND PROCESSING OF METALS
 
-(a)  Installations for the production of pig iron or steel (primary or secondary fusion) including continuous casting;
+(a) Installations for the production of pig iron or steel (primary or secondary fusion) including continuous casting;
 
-(b)  Installations for the processing of ferrous metals:
+(b) Installations for the processing of ferrous metals:
 
 (i) hot-rolling mills;
 
@@ -74,152 +72,140 @@ Environment
 
 (iii) application of protective fused metal coats;
 
-(c)  Ferrous metal foundries;
+(c) Ferrous metal foundries;
 
-(d)  Installations for the smelting, including the alloyage, of non-ferrous metals, excluding precious metals, including recovered products (refining, foundry casting, etc.);
+(d) Installations for the smelting, including the alloyage, of non-ferrous metals, excluding precious metals, including recovered products (refining, foundry casting, etc.);
 
-(e)  Installations for surface treatment of metals and plastic materials using an electrolytic or chemical process;
+(e) Installations for surface treatment of metals and plastic materials using an electrolytic or chemical process;
 
-(f)  Manufacture and assembly of motor vehicles and manufacture of motor vehicle engines;
+(f) Manufacture and assembly of motor vehicles and manufacture of motor- vehicle engines;
 
-(g)  Shipyards;
+(g) Shipyards;
 
-Environment
+(h) Installations for the construction and repair of aircraft;
 
-2005-27
-
-(h)  Installations for the construction and repair of aircraft;
-
-(i)  Manufacture of railway equipment;
+(i) Manufacture of railway equipment;
 
 (j) Swaging by explosives;
 
 (k) Installations for the roasting and sintering of metallic ores.
 
-5. Mineral industry
+5.MINERAL INDUSTRY
 
-(a)  Coke ovens (dry coal distillation);
+(a) Coke ovens (dry coal distillation);
 
-(b)  Installations for the manufacture of cement;
+(b) Installations for the manufacture of cement;
 
-(c)  Installations for the production of asbestos and the manufacture of asbestos-products (projects not included in Annex I);
+(c) Installations for the production of asbestos and the manufacture of asbestos products (projects not included in Annex I);
 
-(d)  Installations for the manufacture of glass including glass fibre;
+(d) Installations for the manufacture of glass including glass fibre;
 
-(e)  Installations for smelting mineral substances including the production of mineral fibres;
+(e) Installations for smelting mineral substances including the production of mineral fibres;
 
-(f)  Manufacture of ceramic products by burning, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain.
+(f) Manufacture of ceramic products by burning, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain.
 
-6. Chemical industry (Projects not included in Annex I)
+6.CHEMICAL INDUSTRY (PROJECTS NOT INCLUDED IN ANNEX I)
 
 (a) Treatment of intermediate products and production of chemicals;
 
-(b)  Production of pesticides and pharmaceutical products, paint and varnishes, elastomers and peroxides;
+(b) Production of pesticides and pharmaceutical products, paint and varnishes, elastomers and peroxides;
 
-(c)  Storage facilities for petroleum, petrochemical and chemical products.
+(c) Storage facilities for petroleum, petrochemical and chemical products.
 
-7. Food industry
+7.FOOD INDUSTRY
 
 (a) Manufacture of vegetable and animal oils and fats;
 
-(b)  Packing and canning of animal and vegetable products;
+(b) Packing and canning of animal and vegetable products;
 
 (c) Manufacture of dairy products;
 
-(d)  Brewing and malting;
+(d) Brewing and malting;
 
-(e)  Confectionery and syrup manufacture;
+(e) Confectionery and syrup manufacture;
 
-Environment
+(f) Installations for the slaughter of animals;
 
-2005-27
+(g) Industrial starch manufacturing installations;
 
-(f)  Installations for the slaughter of animals;
+(h) Fish-meal and fish-oil factories;
 
-(g)  Industrial starch manufacturing installations;
+(i) Sugar factories.
 
-(h)  Fish-meal and fish-oil factories;
+8.TEXTILE, LEATHER, WOOD AND PAPER INDUSTRIES
 
-(i)  Sugar factories.
+(a) Industrial plants for the production of paper and board (projects not included in Annex I);
 
-8. Textile, leather, wood and paper industries
+(b) Plants for the pre-treatment (operations such as washing, bleaching, mercerisation) or dyeing of fibres or textiles;
 
-(a)  Industrial plants for the production of paper and board (projects not included in Annex I);
+(c) Plants for the tanning of hides and skins;
 
-(b)  Plants for the pre-treatment (operations such as washing, bleaching, mercerisation) or dyeing of fibres or textiles;
+(d) Cellulose-processing and production installations.
 
-(c)  Plants for the tanning of hides and skins;
-
-(d)  Cellulose-processing and production installations.
-
-9. Rubber industry
+9.RUBBER INDUSTRY
 
 Manufacture and treatment of elastomer-based products.
 
-10. Infrastructure projects
+10. INFRASTRUCTURE PROJECTS
 
-(a)  Industrial estate development projects;
+(a) Industrial estate development projects;
 
-(b)  Urban development projects, including the construction of shopping centres and car parks;
+(b) Urban development projects, including the construction of shopping centres and car parks;
 
-(c)  Construction of railways and intermodal transhipment facilities, and of intermodal terminals (projects not included in Annex I);
+(c) Construction of railways and intermodal transhipment facilities, and of intermodal terminals (projects not included in Annex I);
 
-(d)  Construction of (projects not included in Annex I);
+(d) Construction of airfields (projects not included in Annex I);
 
-(e)  Construction of roads, harbours and port installations, including fishing harbours (projects not included in Annex I);
+(e) Construction of roads, harbours and port installations, including fishing harbours (projects not included in Annex I);
 
-(f)  Inland-waterway construction not included in Annex I, canalisation and flood-relief works;
+(f) Inland-waterway construction not included in Annex I, canalisation and flood- relief works;
 
-(g)  Dams and other installations designed to hold water or store it on  a long-term basis (projects not included in Annex I);
+(g) Dams and other installations designed to hold water or store it on a long-term basis (projects not included in Annex I);
 
-Environment
+(h) Tramways, elevated and underground railways, suspended lines or similar lines of a particular type, used exclusively or mainly for passenger transport;
 
-2005-27 (h)  Tramways, elevated and underground railways, suspended lines or similar lines of a particular type, used exclusively or mainly for passenger transport;
+(i) Oil and gas pipeline installations and pipelines for the transport of CO2 streams for the purposes of geological storage (projects not included in Annex I);
 
-(i)  Oil and gas pipeline installations (projects not included in Annex I);
+(j) Installations of long-distance aqueducts;
 
-(j)  Installations of long-distance aqueducts;
+(k) Coastal work to combat erosion and maritime works capable of altering the coast through the construction, for example, of dykes, moles, jetties and other sea defence works, excluding the maintenance and reconstruction of such works;
 
-(k)  Coastal work to combat erosion and maritime works capable of altering the coast through the construction, for example, of dykes, moles, jetties and other sea defence works, excluding the maintenance and reconstruction of such works;
+(l) Groundwater abstraction and artificial groundwater recharge schemes not included in Annex I;
 
-(l)  Groundwater abstraction and artificial groundwater recharge schemes not included in Annex I;
+(m) Works for the transfer of water resources between river basins not included in Annex I.
 
-(m)  Works for the transfer of water resources between river basins not included in Annex I.
+11. OTHER PROJECTS
 
-11.Other projects
-
-(a)  Permanent racing and test tracks for motorized vehicles;
+(a) Permanent racing and test tracks for motorised vehicles;
 
 (b) Installations for the disposal of waste (projects not included in Annex I);
 
-(c)  Waste-water treatment plants (projects not included in Annex I);
+(c) Waste-water treatment plants (projects not included in Annex I);
 
-(d)  Sludge-deposition sites;
+(d) Sludge-deposition sites;
 
-(e)  Storage of scrap iron, including scrap vehicles;
+(e) Storage of scrap iron, including scrap vehicles;
 
-(f)  Test benches for engines, turbines or reactors;
+(f) Test benches for engines, turbines or reactors;
 
-(g)  Installations for the manufacture of artificial mineral fibres;
+(g) Installations for the manufacture of artificial mineral fibres;
 
-(h)  Installations for the recovery or destruction of explosive substances;
+(h) Installations for the recovery or destruction of explosive substances;
 
-(i)  Knackers’ yards.
+(i) Knackers’ yards.
 
-12.Tourism and leisure
+12. TOURISM AND LEISURE
 
-(a)  Ski-runs, ski-lifts and cable-cars and associated developments;
+(a) Ski runs, ski lifts and cable cars and associated developments;
 
-(b)  Marinas;
+(b) Marinas;
 
-Environment
+(c) Holiday villages and hotel complexes outside urban areas and associated developments;
 
-2005-27 (c)  Holiday villages and hotel complexes outside urban areas and associated developments;
+(d) Permanent campsites and caravan sites;
 
-(d)  Permanent camp sites and caravan sites;
+(e) Theme parks.
 
-(e)  Theme parks.
+13.      (a) Any change or extension of projects listed in Annex I or this Annex, already authorised, executed or in the process of being executed, which may have significant adverse effects on the environment (change or extension not included in Annex I);
 
-13.Any change or extension of projects listed in Annex I or Annex II, already authorized, executed or in the process of being executed, which may have significant adverse effects on the environment  (change or extension not included in Annex I);
-
-- Projects in Annex I, undertaken exclusively or mainly for the development and testing of new methods or products and not used for more than two years.
+(b) Projects in Annex I, undertaken exclusively or mainly for the development and testing of new methods or products and not used for more than two years.

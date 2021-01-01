@@ -1,5 +1,3 @@
 SCHEDULE 3
 
-Section 4(2)(b)
-
-This Schedule reproduces Annexes I and II of Council Directive 85/337/EEC on the assessment of the effects of certain public and private projects on the environment, as amended by Council Directive 97/11/EC.
+This Schedule reproduces Annexes I and II of Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment.

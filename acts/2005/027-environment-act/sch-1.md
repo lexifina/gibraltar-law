@@ -14,7 +14,7 @@ CRITERIA FOR DETERMINING THE LIKELY SIGNIFICANCE OF EFFECTS ON THE ENVIRONMENT
 
 (d) environmental problems relevant to the plan or programme; and
 
-(e) the relevance of the plan or programme for the implementation of Community legislation on the environment (e.g. plans and programmes linked to waste management or water protection).
+(e) the relevance of the plan or programme for the implementation of retained EU law on the environment (e.g. plans and programmes linked to waste management or water protection).
 
 2. Characteristics of the effects and of the area likely to be affected, having regard, in particular, to–
 
@@ -28,10 +28,6 @@ CRITERIA FOR DETERMINING THE LIKELY SIGNIFICANCE OF EFFECTS ON THE ENVIRONMENT
 
 (e) the magnitude and spatial extent of the effects (geographical area and size of the population likely to be affected);
 
-Environment
-
-2005-27
-
 (f) the value and vulnerability of the area likely to be affected due to–
 
 (i) special natural characteristics or cultural heritage;
@@ -40,8 +36,4 @@ Environment
 
 (iii) intensive land-use; and
 
-(g) the effects on areas or landscapes which have a recognised national, Community or international protection status.
-
-Environment
-
-2005-27
+(g) the effects on areas or landscapes which have a recognised national, European Union or international protection status.

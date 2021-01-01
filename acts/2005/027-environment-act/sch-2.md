@@ -10,9 +10,9 @@ INFORMATION FOR ENVIRONMENTAL REPORTS
 
 3. The environmental characteristics of areas likely to be significantly affected.
 
-4. Any existing environmental problems which are relevant to the plan or programme including, in particular, those relating to any areas of a particular environmental importance, such as areas designated pursuant to Council Directive 79/409/EEC on the conservation of wild birds and the Habitats Directive.
+4. Any existing environmental problems which are relevant to the plan or programme including, in particular, those relating to any areas of a particular environmental importance, such as areas designated pursuant to Directive 2009/147/EC on the conservation of wild birds and the Habitats Directive.
 
-5. The environmental protection objectives, established at international, Community or Member State level, which are relevant to the plan or programme and the way those objectives and any environmental considerations have been taken into account during its preparation.
+5. The environmental protection objectives, established at international, European Union or national level, which are relevant to the plan or programme and the way those objectives and any environmental considerations have been taken into account during its preparation.
 
 6. The likely significant effects on the environment, including short, medium and long-term effects, permanent and temporary effects, positive and negative effects, and secondary, cumulative and synergistic effects, on issues such as–
 
@@ -30,9 +30,7 @@ INFORMATION FOR ENVIRONMENTAL REPORTS
 
 (g) water;
 
-Environment
-
-2005-27 (h) air;
+(h) air;
 
 (i) climatic factors;
 
@@ -42,7 +40,7 @@ Environment
 
 (l) landscape; and
 
-(m) the inter-relationship between the issues referred to in sub- paragraphs (a) to (l).
+(m) the inter-relationship between the issues referred to in sub-paragraphs (a) to (l).
 
 7. The measures envisaged to prevent, reduce and as fully as possible offset any significant adverse effects on the environment of implementing the plan or programme.
 
@@ -51,7 +49,3 @@ Environment
 9. A description of the measures envisaged concerning monitoring in accordance with section 16.
 
 10. A non-technical summary of the information provided under paragraphs 1 to 9.
-
-Environment
-
-2005-27
