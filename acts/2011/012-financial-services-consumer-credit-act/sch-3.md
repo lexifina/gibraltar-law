@@ -28,9 +28,7 @@ where -
 
 Remarks
 
-Financial Services (Consumer Credit)
-
-2011-12 (a) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.
+(a) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.
 
 (b) The starting date shall be that of the first drawdown.
 
@@ -50,11 +48,7 @@ Additional assumptions for the calculation of the annual percentage rate of char
 
 (a) if a credit agreement gives the consumer freedom of drawdown, the total amount of credit shall be deemed to be drawn down immediately and in full;
 
-(b) if a credit agreement gives the consumer freedom of drawdown in general but imposes, amongst the different ways of drawdown, a limitation with regard to the amount of credit and period of time, the amount of credit shall be deemed to be
-
-Financial Services (Consumer Credit)
-
-2011-12 drawn down on the earliest date provided for in the credit agreement and in accordance with those drawdown limits;
+(b) if a credit agreement gives the consumer freedom of drawdown in general but imposes, amongst the different ways of drawdown, a limitation with regard to the amount of credit and period of time, the amount of credit shall be deemed to be drawn down on the earliest date provided for in the credit agreement and in accordance with those drawdown limits;
 
 (c) if a credit agreement provides different ways of drawdown with different charges or borrowing rate, the total amount of credit shall be deemed to be drawn down at the highest charge and borrowing rate applied to the most common drawdown mechanism for this type of credit agreement;
 
@@ -68,13 +62,9 @@ Financial Services (Consumer Credit)
 
 for the purposes of this subparagraph, an open-end credit agreement is a credit agreement without fixed duration and includes credits which must be repaid in full within or after a period but, once repaid, become available to be drawn down again;
 
-(f) in the case of credit agreements other than overdrafts and open- end credits as referred to in the assumptions set out in subparagraphs (d) and (e)–
+(f) in the case of credit agreements other than overdrafts and open-end credits as referred to in the assumptions set out in subparagraphs (d) and (e)–
 
-(i) if the date or amount of a repayment of capital to be made by the consumer cannot be ascertained, it shall be
-
-Financial Services (Consumer Credit)
-
-2011-12 assumed that the repayment is made at the earliest date provided for in the credit agreement and is for the lowest amount for which the credit agreement provides,
+(i) if the date or amount of a repayment of capital to be made by the consumer cannot be ascertained, it shall be assumed that the repayment is made at the earliest date provided for in the credit agreement and is for the lowest amount for which the credit agreement provides,
 
 (ii) if the date of conclusion of the credit agreement is not known, the date of the initial drawdown shall be assumed to be the date which results in the shortest interval between that date and the date of the first payment to be made by the consumer;
 
@@ -92,8 +82,4 @@ Financial Services (Consumer Credit)
 
 (i) if different borrowing rates and charges are offered for a limited period or amount, the borrowing rate and the charges shall be deemed to be the highest rate for the whole duration of the credit agreement;
 
-(j) for consumer credit agreements for which a fixed borrowing rate is agreed in relation to the initial period, at the end of which a new borrowing rate is determined and subsequently periodically adjusted according to an agreed indicator, the calculation of the annual percentage rate shall be based on the assumption that, at the end of the fixed borrowing rate period, the borrowing rate is the same as at the time of calculating the
-
-Financial Services (Consumer Credit)
-
-2011-12 annual percentage rate, based on the value of the agreed indicator at the time.
+(j) for consumer credit agreements for which a fixed borrowing rate is agreed in relation to the initial period, at the end of which a new borrowing rate is determined and subsequently periodically adjusted according to an agreed indicator, the calculation of the annual percentage rate shall be based on the assumption that, at the end of the fixed borrowing rate period, the borrowing rate is the same as at the time of calculating the annual percentage rate, based on the value of the agreed indicator at the time.
