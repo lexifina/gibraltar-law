@@ -6,7 +6,11 @@ LN.2020/011
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/486 rr. 2(1), (3), 23(1), (3)-(4), 32, 35(1)-(3), 36, 39, Sch.
+
+1.1.2021 2022/188 Sch. 1.1.2021
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -28,9 +32,7 @@ Independence
 
 Advertising and marketing
 
-8. Issue of advertisements. 9. Identification of issuer. 10. Fair and clear communications. 11. Information about the depositary.
-
-12. Representatives of the depositary.
+8. Issue of advertisements. 9. Identification of issuer. 10. Fair and clear communications. 11. Information about the depositary. 12. Representatives of the depositary.
 
 Customer relations
 
@@ -48,15 +50,15 @@ Accounting records
 
 Customer assets
 
-30. Application. 31. Customer assets. 32. Duty to keep customer assets safe. 33. Customer assets are held on trust. 34. Accounting for and use of customer assets. 35. Customer bank accounts. 36. Interest on customer assets. 37. Payment of other assets into the customer bank account. 38. Payment out of customer bank account.
-
-39. Depositary as authorised credit institution.
+30. Application. 31. Customer assets. 32. Duty to keep customer assets safe. 33. Customer assets are held on trust. 34. Accounting for and use of customer assets. 35. Customer bank accounts. 36. Interest on customer assets. 37. Payment of other assets into the customer bank account. 38. Payment out of customer bank account. 39. Depositary as recognised credit institution.
 
 PART 5 PRUDENTIAL REQUIREMENTS
 
 Financial statements
 
-40. Duty to prepare annual financial statements. 41. Balance sheet to give true and fair view. 42. Profit and loss account to give true and fair view. 43. Form and content of financial statements. 44. Annual financial statements to be submitted to meeting of partners, etc. 45. Annual financial statements must be submitted to GFSC. 46. Depositary must obtain auditor’s report, etc. 47. Contents of auditor’s report. 48. Qualified reports.
+40. Duty to prepare annual financial statements. 41. Balance sheet to give true and fair view. 42. Profit and loss account to give true and fair view. 43. Form and content of financial statements.
+
+44. Annual financial statements to be submitted to meeting of partners, etc. 45. Annual financial statements must be submitted to GFSC. 46. Depositary must obtain auditor’s report, etc. 47. Contents of auditor’s report. 48. Qualified reports.
 
 PART 6 REPORTING AND NOTIFICATION
 

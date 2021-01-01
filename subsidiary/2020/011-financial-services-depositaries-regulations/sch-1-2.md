@@ -38,9 +38,7 @@ H. TOTAL ASSETS LESS TOTAL LIABILITIES
 
 I. CAPITAL AND RESERVES
 
-1. Called up share capital (7)
-
-2. Share premium account 3. Partners’ or proprietors’ capital accounts 4. Partners’ or proprietors’ current accounts 5. Revaluation reserve 6. Other reserves 7. Profit and loss account
+1. Called up share capital (7) 2. Share premium account 3. Partners’ or proprietors’ capital accounts 4. Partners’ or proprietors’ current accounts 5. Revaluation reserve 6. Other reserves 7. Profit and loss account
 
 Approved by the directors/partners/governing body on _________________________________
 
@@ -76,7 +74,7 @@ Residual Maturity
 
 0- 90 days 90 days- 12 Months 12 months - 5 years more than 5 years Total
 
-- UK Government, Government of Gibraltar and Local Authority debt - Accepted or issued by an approved bank - Floating Rate Notes - Other debt instruments: - marketable investments - not marketable investments
+- UK Government, Government of Gibraltar and Local Authority debt - Accepted or issued by a recognised credit institution - Floating Rate Notes - Other debt instruments: - marketable investments - not marketable investments
 
 ____ ____ ____ ____ ____ ____ ____
 
