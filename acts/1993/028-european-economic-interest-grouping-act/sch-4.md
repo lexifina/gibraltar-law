@@ -2,11 +2,11 @@ SCHEDULE 4.
 
 Section 18
 
-Provisions of Companies Act applying to EEIGs and their establishments.
+Provisions of Companies Act applying to GEIGs and EEIG establishments
 
 1.  Section 17(1), (c) to (e), (2), (3) and (4) and (6) as if it referred to EEIGs or their establishment registered under this Act.
 
-2.  Section 19A(1)to(4).
+2.  Section 19A(1) to (4).
 
 3.  Part III, for the purpose of the creation and regulation of charges to which it applies.
 
