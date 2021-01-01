@@ -34,9 +34,7 @@ CATEGORIES OF GOODS, TECHNOLOGY AND TECHNICAL ASSISTANCE
 
 (a) technology intended, designed or adapted for military use (whether or not in military use); and
 
-Export Control
-
-2005-33 (b) technology intended, designed or adapted for use in connection with the development, production or use of military equipment or goods falling within sub-paragraph (1)(c).
+(b) technology intended, designed or adapted for use in connection with the development, production or use of military equipment or goods falling within sub- paragraph (1)(c).
 
 (5)  For the purposes of sub-paragraph (4) the reference to firearms and other weapons includes a reference to–
 
@@ -68,13 +66,7 @@ A(1).  In the Governor’s opinion, an adverse effect on–
 
 (a) the national security; or
 
-Export Control
-
-2005-33
-
-(b) the security of members of the armed forces,
-
-of or in Gibraltar.
+(b) the security of members of the armed forces, of or in Gibraltar.
 
 A(2).  In the opinion of the Secretary of State for Defence, an adverse effect on–
 
@@ -82,7 +74,7 @@ A(2).  In the opinion of the Secretary of State for Defence, an adverse effect o
 
 (b) the security of members of the armed forces,
 
-of the United Kingdom, any member State or any other friendly State.
+of the United Kingdom or any friendly State.
 
 Regional stability and internal conflict
 
@@ -107,10 +99,6 @@ D(1).  The carrying out in Gibraltar of acts which, in the Governor’s opinion,
 (c) internal repression in any country;
 
 (d) breaches of human rights.
-
-Export Control
-
-2005-33
 
 D(2).  The carrying out anywhere in the world of acts which, in the opinion of the Secretary of State for Defence, facilitates–
 
