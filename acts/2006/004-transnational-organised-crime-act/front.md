@@ -1,8 +1,4 @@
-Transnational Organised Crime
-
-2006-04
-
-TRANSNATIONAL ORGANISED CRIME ACT 2006
+Transnational Organised Crime Act 2006
 
 Principal Act
 
@@ -10,13 +6,11 @@ Act. No. 2006-04 Commencement 20.4.2006
 
 Assent 20.4.2006
 
-English sources: None cited
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/521 s. 7(b) 1.1.2021
 
 EU legislation/International agreements involved: United Nations Convention Against Transnational Organised Crime
-
-Transnational Organised Crime
-
-2006-04
 
 ARRANGEMENT OF SECTIONS
 
@@ -38,6 +32,4 @@ PART IV Miscellaneous
 
 10.  Corruption. 11.  Television link evidence. 12.  Protection of Witnesses. 13.  Controlled delivery. 14.  Liability of corporate bodies. 15.  Rules of Court. 16.  Regulations.
 
-Transnational Organised Crime
-
-2006-04 AN ACT TO MAKE PROVISION FOR THE IMPLEMENTATION OF THE UNITED NATIONS CONVENTION AGAINST TRANSNATIONAL ORGANISED CRIME.
+AN ACT TO MAKE PROVISION FOR THE IMPLEMENTATION OF THE UNITED NATIONS CONVENTION AGAINST TRANSNATIONAL ORGANISED CRIME.
