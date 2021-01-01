@@ -1,28 +1,20 @@
-Environment FREEDOM OF ACCESS TO INFORMATION ON THE ENVIRONMENT REGULATIONS 2005
+Subsidiary Legislation made under s.18.
 
-2005-27
+Freedom of Access to Information on the Environment Regulations 2005
 
-Subsidiary 2005/165 Subsidiary Legislation made under s. 18.
+LN.2005/165
 
-FREEDOM OF ACCESS TO INFORMATION ON THE ENVIRONMENT REGULATIONS 2005
-
-(LN. 2005/165)
-
-Commencement 18.1.2007 (LN. 2007/006)
+Commencement (LN.2007/006) 18.1.2007
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.  2014/060 rr. 19 & 20 2.5.2014 2018/124 rr. 2(2)(a), 13(2)-(4) 25.5.2018
+LN. 2014/060 rr. 19-20 2.5.2014 2018/124 rr. 2(2)(a), 13(2)-(4) 25.5.2018 2019/211 rr. 2(2), 13(2)(ii) 1.1.2021
 
 EU Legislation/International Agreements involved: Directive 90/313/EEC Directive 2003/4/EC
 
-______________________
+ARRANGEMENT OF REGULATIONS
 
-Environment FREEDOM OF ACCESS TO INFORMATION ON THE ENVIRONMENT REGULATIONS 2005
-
-2005-27
-
-Subsidiary 2005/165 ARRANGEMENT OF REGULATIONS
+Regulation
 
 PART 1 Introductory
 
@@ -42,18 +34,10 @@ PART 4 Appeals and revocation
 
 PART 5 Miscellaneous
 
-19. Information to be made available in emergencies. 20. Quality of information.
+19. Information to be made available in emergencies.
 
-SCHEDULE
+20. Quality of information.
 
-Environment FREEDOM OF ACCESS TO INFORMATION ON THE ENVIRONMENT REGULATIONS 2005
+SCHEDULE Directive 2003/4/EC on public access to environmental information and repealing Council Directive 90/313/EEC
 
-2005-27
-
-Subsidiary 2005/165 Directive 2003/4/EC on public access to environmental information and repealing Council Directive 90/313/EEC
-
-Environment FREEDOM OF ACCESS TO INFORMATION ON THE ENVIRONMENT REGULATIONS 2005
-
-2005-27
-
-Subsidiary 2005/165 In the exercise of the powers conferred on it by section 18 of the Environment Act 2005 and all other enabling powers, the Government has made the following Regulations
+In the exercise of the powers conferred on it by section 18 of the Environment Act 2005 and all other enabling powers, the Government has made the following Regulations
