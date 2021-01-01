@@ -22,11 +22,13 @@ Acts. 1934- 27 ss. 2, 3(2), (5), 4, 10-13, 15, 17-18, Sch.
 
 1995-15 ss. 4, 5(1)(3), 12, 13(1), 16, 17, 19(2)
 
-1.2.1996 2007-04 s. 1 19.4.2007 2008-06 ss. 2(1), (e), 4, 5(1) & (2), 6(2), (5), (7), 9, 19(1)
+1.2.1996 2007-04 s. 1 19.4.2007 2008-06 ss. 2(1), (e), 4, 5(1), (2), 6(2), (5), (7), 9, 19(1)
 
-29.5.2008 LN. 2011/031 ss. 2-29, 30(1), (2), 31(2), (5), 32, 33(2), 34(3)(c), 36(2), 38(2), 39, 41(1)(a), (b), 43(1), (2), 47(1), Sch 1 – 4.
+29.5.2008 LN. 2011/031 ss. 2-29, 30(1), (2), 31(2), (5), 32, 33(2), 34(3)(c), 36(2), 38(2), 39, 41(1)(a), (b), 43(1), (2), 47(1), Sch, 1-4.
 
-24.3.2011
+24.3.2011 2021/105 ss. 2, 3(1)-(3), 4(2)(i), 14(5), 20, Sch. 2, 3
+
+1.1.2021
 
 Transposing: Directive 2008/48/EC
 
@@ -42,9 +44,9 @@ Section
 
 1. Short title. PART I
 
-REGULATION OF CREDIT FALLING WITHIN THE SCOPE OF DIRECTIVE 2008/48/EC
+REGULATION OF CREDIT FALLING WITHIN SCOPE OF THIS PART
 
-2. Scope of Part. 3. Interpretation.
+2. Omitted. 3. Interpretation.
 
 Agreements to which this Part applies
 
@@ -60,7 +62,7 @@ Rights of the consumer
 
 Supplementary provisions
 
-19. Advertisements. 20. Cross border credit. 21. Calculation of the annual percentage rate of charge. 22. Enforcement and monitoring.
+19. Advertisements. 20. Omitted. 21. Calculation of the annual percentage rate of charge. 22. Enforcement and monitoring.
 
 Financial Services (Moneylending)
 

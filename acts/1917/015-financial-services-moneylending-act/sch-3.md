@@ -4,7 +4,7 @@ EUROPEAN CONSUMER CREDIT INFORMATION FOR
 
 (1) overdrafts
 
-(2) consumer credit offered by certain credit organisations (Article 2(5) of Directive 2008/48/EC)
+(2) consumer credit offered by certain credit organisations
 
 (3) debt conversion
 
@@ -24,31 +24,33 @@ The total amount of credit This means the ceiling or the total sums made availab
 
 The duration of the credit agreement
 
+If applicable
+
 Financial Services (Moneylending)
 
-1917-15 If applicable You may be requested to repay the amount of credit in full on demand at any time.
+1917-15 You may be requested to repay the amount of credit in full on demand at any time.
 
 3. Costs of the credit.
 
-The borrowing rate or, if applicable, different borrowing rates which apply to the credit agreement [ % — fixed or, — variable (with the index or reference rate applicable to the initial borrowing rate)], If applicable The annual percentage rate of charge (APR) (*) This is the total cost of credit expressed as an annual percentage of the total amount of credit. The APR is there to help you compare different offers. [ % A representative example mentioning all the assumptions used for calculating the rate to be set out here] If applicable Costs If applicable The conditions under which those costs may be changed [The costs applicable from the time the credit agreement is concluded] Costs in the case of late payments You will be charged […… (applicable interest rate and arrangements for its adjustment and, where applicable, default charges)] for missing payments. (*) Not applicable to European Consumer Credit Information for overdrafts in those Member States which decide on the basis of Article 6(2) of Directive 2008/48/EC that the APR need not be provided for overdrafts.
+The borrowing rate or, if applicable, different borrowing rates which apply to the credit agreement [ % — fixed or, — variable (with the index or reference rate applicable to the initial borrowing rate)], If applicable The annual percentage rate of charge (APR) This is the total cost of credit expressed as an annual percentage of the total amount of credit. The APR is there to help you compare different offers. [ % A representative example mentioning all the assumptions used for calculating the rate to be set out here] If applicable Costs If applicable The conditions under which those costs may be changed [The costs applicable from the time the credit agreement is concluded] Costs in the case of late payments You will be charged […… (applicable interest rate and arrangements for its adjustment and, where applicable, default charges)] for missing payments.
 
 4. Other important legal aspects.
 
-Termination of the credit agreement [The conditions and procedure for terminating the credit agreement] Consultation of a database The creditor must inform you immediately and without charge of
+Termination of the credit agreement [The conditions and procedure for terminating the credit agreement] Consultation of a database The creditor must inform you immediately and without charge of the result of a consultation of a database if a credit application is rejected on the basis of such a consultation. This does not apply if the provision of such information is prohibited by Gibraltar law or is contrary to objectives of public policy or public security.
 
 Financial Services (Moneylending)
 
-1917-15 the result of a consultation of a database if a credit application is rejected on the basis of such a consultation. This does not apply if the provision of such information is prohibited by European Community law or is contrary to objectives of public policy or public security. If applicable The period of time during which the creditor is bound by the pre- contractual information This information is valid from … until…
+1917-15 If applicable The period of time during which the creditor is bound by the pre- contractual information This information is valid from … until…
 
 If applicable
 
-5. Additional information to be given where the pre-contractual information is provided by certain credit organisations (Article 2(5) of Directive 2008/48/EC or relates to a consumer credit for debt conversion.
+5. Additional information to be given where the pre-contractual information is provided by certain credit organisations or relates to a consumer credit for debt conversion.
 
 Instalments and, where appropriate, the order in which instalments will be allocated You will have to pay the following: [Representative example of an instalment table including the amount, number and frequency of payments to be made by the consumer] The total amount you will have to pay
 
 Early repayment You have the right to repay the credit early at any time in full or partially. If applicable The creditor is entitled to compensation in the case of early repayment
 
-[Determination of the compensation (calculation method) in accordance with the provisions implementing Article 16 of Directive 2008/48/EC]
+[Determination of the compensation (calculation method) in accordance with section 16 of this Act]
 
 If applicable
 
@@ -56,13 +58,15 @@ If applicable
 
 (a) concerning the creditor
 
-If applicable Representative of the creditor in your Member State of residence
+If applicable Representative of the creditor in Gibraltar Address Telephone number (*) E-mail address (*) Fax number (*) Web address (*)
 
 [Identity]
 
+[Geographical address to be used by the consumer] If applicable Registration [The trade register in which the creditor is entered and his registration number or an equivalent means of identification in that
+
 Financial Services (Moneylending)
 
-1917-15 Address Telephone number (*) E-mail address (*) Fax number (*) Web address (*) [Geographical address to be used by the consumer] If applicable Registration [The trade register in which the creditor is entered and his registration number or an equivalent means of identification in that register] If applicable The supervisory authority
+1917-15 register] If applicable The supervisory authority
 
 (b) concerning the credit agreement
 

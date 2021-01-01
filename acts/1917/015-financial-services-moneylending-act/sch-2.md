@@ -84,7 +84,7 @@ If applicable [Determination of the compensation
 
 Financial Services (Moneylending)
 
-1917-15 The creditor is entitled to compensation in the case of early repayment (calculation method) in accordance with the provisions implementing Article 16 of Directive 2008/48/EC] Consultation of a database The creditor must inform you immediately and without charge of the result of a consultation of a database, if a credit application is rejected on the basis of such a consultation. This does not apply if the provision of such information is prohibited by European Community law or is contrary to objectives of public policy or public security.
+1917-15 The creditor is entitled to compensation in the case of early repayment (calculation method) in accordance with section 16 of this Act] Consultation of a database The creditor must inform you immediately and without charge of the result of a consultation of a database, if a credit application is rejected on the basis of such a consultation. This does not apply if the provision of such information is prohibited by Gibraltar law or is contrary to objectives of public policy or public security.
 
 Right to a draft credit agreement You have the right, upon request, to obtain a copy of the draft credit agreement free of charge. This provision does not apply if the creditor is at the time of the request unwilling to proceed to the conclusion of the credit agreement with you.
 
@@ -96,7 +96,7 @@ If applicable
 
 (a) concerning the creditor
 
-If applicable Representative of the creditor in your Member State of residence Address Telephone number (*) E-mail address (*) Fax number (*) Web address (*) [Identity]
+If applicable Representative of the creditor in Gibraltar Address Telephone number (*) E-mail address (*) Fax number (*) Web address (*) [Identity]
 
 [Geographical address to be used by the consumer]
 
