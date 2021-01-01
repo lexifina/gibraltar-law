@@ -1,28 +1,18 @@
-Employment THE FIXED-TERM AND PART-TIME EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
+Subsidiary Legislation made under s. 86.
 
-1932-16
+Fixed-term and Part-time Employees (Prevention of Less Favourable Treatment) Regulations 2003
 
-Subsidiary 2003/032 Regulations made under s.86.
+LN.2003/032
 
-THE FIXED-TERM AND PART-TIME EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
+Commencement 1.4.2003
 
-(LN. 2003/032)
-
-1.4.2003
-
-Amending enactments Relevant current provisions Commencement date LN. 2013/007 rr. 1(1), (2), 2, 7, 9A-9I & 12 24.1.2013 Act. 2016-20 rr. 5(3), 7(1), (2), (7), 9(3), (5), 9H(1), (2), (3), (7), (8)
-
-13.10.2016
+Amending enactments Relevant current provisions Commencement date LN. 2013/007 rr. 1(1)-(2), 2, 7, 9A-9I, 12 24.1.2013 Act. 2016-20 rr. 5(3), 7(1)-(2), (7), 9(3), (5), 9H(1)-(3), (7)-(8) 13.10.2016 LN.2020/539 r. 12(1) 1.1.2021
 
 Implementing: Directive 1999/70/EC
 
 Transposing: Directive 97/81/EC Directive 98/23/EC
 
-Employment THE FIXED-TERM AND PART-TIME EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
-
-1932-16
-
-Subsidiary 2003/032 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -44,11 +34,7 @@ PART IIA PART-TIME EMPLOYEES
 
 PART III MISCELLANEOUS
 
-Employment THE FIXED-TERM AND PART-TIME EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
-
-1932-16
-
-Subsidiary 2003/032 10. Liability of employers and principals.
+10. Liability of employers and principals.
 
 PART IV SPECIAL CLASSES OF PERSON
 
@@ -56,8 +42,4 @@ PART IV SPECIAL CLASSES OF PERSON
 
 SCHEDULE 1 WORKFORCE AGREEMENTS
 
-Employment THE FIXED-TERM AND PART-TIME EMPLOYEES (PREVENTION OF LESS FAVOURABLE TREATMENT) REGULATIONS 2003
-
-1932-16
-
-Subsidiary 2003/032 In exercise of his powers under section 86 of the Employment Act, and all other enabling powers, and in order to implement Council Directive 1999/70/EC concerning the framework agreement on fixed term work, the Minister has made the following regulations–
+In exercise of his powers under section 86 of the Employment Act, and all other enabling powers, and in order to implement Council Directive 1999/70/EC concerning the framework agreement on fixed term work, the Minister has made the following regulations–
