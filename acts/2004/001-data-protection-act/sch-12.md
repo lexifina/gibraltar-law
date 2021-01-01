@@ -14,7 +14,7 @@ Powers of the Commissioner.
 
 (b) may liaise with any persons or organizations as useful or necessary to the performance of his functions;
 
-(c) shall co-operate with and render assistance to supervisory authorities in States party to the Convention of 19 June 1990 applying the Schengen Agreement of 14 June 1985 by the furnishing of information on Gibraltar law and practice on data protection and automatic processing carried out in Gibraltar;
+(c) Deleted
 
 (d) may co-operate with and render assistance to supervisory authorities in other states or territories by the furnishing of information on Gibraltar law and practice on data protection and automatic processing carried out in Gibraltar;
 

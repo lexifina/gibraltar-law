@@ -34,13 +34,13 @@ Data subject access right.
 
 4.  In this Schedule, “data subject access right” means a right under-
 
-(a) Article 15 of the GDPR (right of access by the data subject);
+(a) Article 15 of the Gibraltar GDPR (right of access by the data subject);
 
 Data Protection
 
 2004-01
 
-(b) Article 20 of the GDPR (right to data portability);
+(b) Article 20 of the Gibraltar GDPR (right to data portability);
 
 (c) section 54 of this Act (law enforcement processing: right of access by the data subject).
 
@@ -51,3 +51,7 @@ Records stating that personal data is not processed.
 Power to amend.
 
 6.  The Minister may by regulations amend this Schedule.
+
+Data Protection
+
+2004-01

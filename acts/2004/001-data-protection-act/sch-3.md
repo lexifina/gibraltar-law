@@ -1,12 +1,12 @@
 SCHEDULE 3
 
-EXEMPTIONS ETC FROM THE GDPR: HEALTH, SOCIAL WORK, EDUCATION AND CHILD ABUSE DATA
+EXEMPTIONS ETC FROM THE GIBRALTAR GDPR: HEALTH, SOCIAL WORK, EDUCATION AND CHILD ABUSE DATA
 
 PART 1
 
-GDPR PROVISIONS TO BE RESTRICTED: “THE LISTED GDPR PROVISIONS”
+GIBRALTAR GDPR PROVISIONS TO BE RESTRICTED: “THE LISTED GDPR PROVISIONS”
 
-1.  In this Schedule “the listed GDPR provisions” means the following provisions of the GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the GDPR)-
+1.  In this Schedule “the listed GDPR provisions” means the following provisions of the Gibraltar GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the Gibraltar GDPR)-
 
 (a) Article 13(1) to (3) (personal data collected from data subject: information to be provided);
 
@@ -46,7 +46,7 @@ Data Protection
 
 (c) a health professional who has the necessary experience and qualifications to provide an opinion on the question, where there is no health professional available falling within subsubparagraphs (a) or (b).
 
-(2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to data concerning health if the application of Article 15 of the GDPR to the data would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
+(2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to data concerning health if the application of Article 15 of the Gibraltar GDPR to the data would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
 
 Exemption from the listed GDPR provisions: data processed by a court.
 
@@ -80,9 +80,9 @@ Data Protection
 
 (3)  The exemptions under subparagraph (2)(a) and (b) do not apply if the data subject has expressly indicated that he or she no longer has the expectation mentioned there.
 
-Exemption from Article 15 of the GDPR: serious harm.
+Exemption from Article 15 of the Gibraltar GDPR: serious harm.
 
-5.(1)  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to data concerning health to the extent that the serious harm test is met with respect to the data.
+5.(1)  Article 15(1) to (3) of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to data concerning health to the extent that the serious harm test is met with respect to the data.
 
 (2)  A controller who is not a health professional may not rely on subparagraph (1) to withhold data concerning health unless the controller has obtained an opinion from the person who appears to the controller to be the appropriate health professional to the effect that the serious harm test is met with respect to the data.
 
@@ -94,13 +94,13 @@ Exemption from Article 15 of the GDPR: serious harm.
 
 (4)  In this paragraph, “the relevant period” means the period of 6 months ending with the day on which the opinion would be relied on.
 
-Restriction of Article 15 of the GDPR: prior opinion of appropriate health professional
+Restriction of Article 15 of the Gibraltar GDPR: prior opinion of appropriate health professional
 
 Data Protection
 
 2004-01
 
-6.(1)  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not permit the disclosure of data concerning health by a controller who is not a health professional unless the controller has obtained an opinion from the person who appears to the controller to be the appropriate health professional to the effect that the serious harm test is not met with respect to the data.
+6.(1)  Article 15(1) to (3) of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not permit the disclosure of data concerning health by a controller who is not a health professional unless the controller has obtained an opinion from the person who appears to the controller to be the appropriate health professional to the effect that the serious harm test is not met with respect to the data.
 
 (2)  Subparagraph (1) does not apply to the extent that the controller is satisfied that the data concerning health has already been seen by, or is within the knowledge of, the data subject.
 
@@ -128,7 +128,7 @@ Definitions.
 
 (b) is not education data or data concerning health.
 
-(2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to social work data if the application of Article 15 of the GDPR to the data would be likely to prejudice carrying out social work, because it would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
+(2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to social work data if the application of Article 15 of the Gibraltar GDPR to the data would be likely to prejudice carrying out social work, because it would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
 
 Data Protection
 
@@ -200,9 +200,9 @@ Data Protection
 
 2004-01
 
-Exemption from Article 15 of the GDPR: serious harm.
+Exemption from Article 15 of the Gibraltar GDPR: serious harm.
 
-11.  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to social work data to the extent that the serious harm test is met with respect to the data.
+11.  Article 15(1) to (3) of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to social work data to the extent that the serious harm test is met with respect to the data.
 
 PART 4
 
@@ -236,15 +236,15 @@ Other definitions.
 
 14.(1)  In this Part of this Schedule “education data” means personal data consisting of information which-
 
-(a) constitutes an educational record; but
-
 Data Protection
 
 2004-01
 
+(a) constitutes an educational record; but
+
 (b) is not data concerning health;
 
-(2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to education data if the application of Article 15 of the GDPR to the data would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
+(2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to education data if the application of Article 15 of the Gibraltar GDPR to the data would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
 
 Exemption from the listed GDPR provisions: data processed by a court.
 
@@ -256,15 +256,15 @@ Exemption from the listed GDPR provisions: data processed by a court.
 
 (c) in accordance with those rules, the data may be withheld by the court in whole or in part from the data subject.
 
-Exemption from Article 15 of the GDPR: serious harm.
+Exemption from Article 15 of the Gibraltar GDPR: serious harm.
 
-16.  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to education data to the extent that the serious harm test is met with respect to the data.
+16.  Article 15(1) to (3) of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to education data to the extent that the serious harm test is met with respect to the data.
 
 PART 5
 
 CHILD ABUSE DATA
 
-Exemption from Article 15 of the GDPR: child abuse data.
+Exemption from Article 15 of the Gibraltar GDPR: child abuse data.
 
 17.(1)  This paragraph applies where a request for child abuse data is made in exercise of a power conferred by an enactment or rule of law and-
 
@@ -272,16 +272,14 @@ Exemption from Article 15 of the GDPR: child abuse data.
 
 (b) the data subject is incapable of managing his or her own affairs and the person making the request has been appointed by a court to manage those affairs.
 
-(2)  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to child abuse
-
 Data Protection
 
 2004-01
 
-data to the extent that the application of that provision would not be in the best interests of the data subject.
+(2)  Article 15(1) to (3) of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to child abuse data to the extent that the application of that provision would not be in the best interests of the data subject.
 
 (3)  “Child abuse data” is personal data consisting of information as to whether the data subject is or has been the subject of, or may be at risk of, child abuse.
 
 (4)  For this purpose, “child abuse” includes physical injury (other than accidental injury) to, and physical and emotional neglect, ill-treatment and sexual abuse of, an individual aged under 18.
 
-____________________________
+________________________

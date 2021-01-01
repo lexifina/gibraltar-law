@@ -1,22 +1,26 @@
 SCHEDULE 2
 
-EXEMPTIONS ETC FROM THE GDPR
+EXEMPTIONS ETC FROM THE GIBRALTAR GDPR
 
 PART 1
 
-ADAPTATIONS AND RESTRICTIONS BASED ON ARTICLES 6(3) AND 23(1)
+ADAPTATIONS AND RESTRICTIONS AS DESCRIBED IN ARTICLES 6(3) AND 23(1)
 
-GDPR provisions to be adapted or restricted: “the listed GDPR provisions”.
+Gibraltar GDPR provisions to be adapted or restricted: “the listed GDPR provisions”.
 
 1.  In this Part of this Schedule, “the listed GDPR provisions” means-
 
-(a) the following provisions of the GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the GDPR)-
+(a) the following provisions of the Gibraltar GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the Gibraltar GDPR)-
 
 (i) Article 13(1) to (3) (personal data collected from data subject: information to be provided),
 
 (ii) Article 14(1) to (4) (personal data collected other than from data subject: information to be provided),
 
 (iii) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers),
+
+Data Protection
+
+2004-01
 
 (iv) Article 16 (right to rectification),
 
@@ -32,11 +36,7 @@ GDPR provisions to be adapted or restricted: “the listed GDPR provisions”.
 
 (x) Article 5 (general principles) so far as its provisions correspond to the rights and obligations provided for in the provisions mentioned in subsubparagraphs (i) to (ix); and
 
-Data Protection
-
-2004-01
-
-(b) the following provisions of the GDPR (the application of which may be adapted by virtue of Article 6(3) of the GDPR)-
+(b) the following provisions of the Gibraltar GDPR (the application of which may be adapted by virtue of Article 6(3) of the Gibraltar GDPR)-
 
 (i) Article 5(1)(a) (lawful, fair and transparent processing), other than the lawfulness requirements set out in Article 6,
 
@@ -44,7 +44,7 @@ Data Protection
 
 Crime and taxation: general.
 
-2.(1)  The listed GDPR provisions and Article 34(1) and (4) of the GDPR (communication of personal data breach to the data subject) do not apply to personal data processed for any of the following purposes-
+2.(1)  The listed Gibraltar GDPR provisions and Article 34(1) and (4) of the Gibraltar GDPR (communication of personal data breach to the data subject) do not apply to personal data processed for any of the following purposes-
 
 (a) the prevention or detection of crime;
 
@@ -56,11 +56,15 @@ to the extent that the application of those provisions would be likely to prejud
 
 (2)  Subparagraph (3) applies where-
 
+Data Protection
+
+2004-01
+
 (a) personal data is processed by a person (“Controller 1”) for any of the purposes mentioned in subparagraph (1)(a) to (c); and
 
 (b) another person (“Controller 2”) obtains the data from Controller 1 for the purpose of discharging statutory functions and processes it form the purpose of discharging statutory functions.
 
-(3)  Controller 2 is exempt from the obligations in the following provisions of the GDPR-
+(3)  Controller 2 is exempt from the obligations in the following provisions of the Gibraltar GDPR-
 
 (a) Article 13(1) to (3) (personal data collected from data subject: information to be provided);
 
@@ -68,17 +72,13 @@ to the extent that the application of those provisions would be likely to prejud
 
 (c) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers); and
 
-Data Protection
-
-2004-01
-
 (d) Article 5 (general principles) so far as its provisions correspond to the rights and obligations provided for in the provisions mentioned in subsubparagraphs (a) to (c),
 
 to the same extent that Controller 1 is exempt from those obligations by virtue of subparagraph (1).
 
 Crime and taxation: risk assessment systems.
 
-3.(1)  The GDPR provisions listed in subparagraph (3) do not apply to personal data which consists of a classification applied to the data subject as part of a risk assessment system falling within subparagraph (2) to the extent that the application of those provisions would prevent the system from operating effectively.
+3.(1)  The Gibraltar GDPR provisions listed in subparagraph (3) do not apply to personal data which consists of a classification applied to the data subject as part of a risk assessment system falling within subparagraph (2) to the extent that the application of those provisions would prevent the system from operating effectively.
 
 (2)  A risk assessment system falls within this subparagraph if-
 
@@ -88,19 +88,19 @@ Crime and taxation: risk assessment systems.
 
 (i) the assessment or collection of a tax or duty or an imposition of a similar nature, or
 
+Data Protection
+
+2004-01
+
 (ii) the prevention or detection of crime or apprehension or prosecution of offenders, where the offence concerned involves the unlawful use of public money or an unlawful claim for payment out of public money.
 
-(3)  The GDPR provisions referred to in subparagraph (1) are the following provisions of the GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the GDPR)-
+(3)  The Gibraltar GDPR provisions referred to in subparagraph (1) are the following provisions of the Gibraltar GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the Gibraltar GDPR)-
 
 (a) Article 13(1) to (3) (personal data collected from data subject: information to be provided);
 
 (b) Article 14(1) to (4) (personal data collected other than from data subject: information to be provided);
 
 (c) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers);
-
-Data Protection
-
-2004-01
 
 (d) Article 5 (general principles) so far as its provisions correspond to the rights and obligations provided for in the provisions mentioned in subsubparagraphs (a) to (c).
 
@@ -118,21 +118,21 @@ Information required to be disclosed by law etc or in connection with legal proc
 
 (c) is otherwise necessary for the purposes of establishing, exercising or defending legal rights,
 
+Data Protection
+
+2004-01
+
 to the extent that the application of those provisions would prevent the controller from making the disclosure.
 
 PART 2
 
-RESTRICTIONS BASED ON ARTICLE 23(1): RESTRICTIONS OF RULES IN ARTICLES 13 TO 21 AND 34
+RESTRICTIONS AS DESCRIBED IN ARTICLE 23(1): RESTRICTIONS OF RULES IN ARTICLES 13 TO 21 AND 34
 
-GDPR provisions to be restricted: “the listed GDPR provisions”.
+Gibraltar GDPR provisions to be restricted: “the listed GDPR provisions”.
 
-5.  In this Part of this Schedule, “the listed GDPR provisions” means the following provisions of the GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the GDPR)-
+5.  In this Part of this Schedule, “the listed GDPR provisions” means the following provisions of the Gibraltar GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the Gibraltar GDPR)-
 
 (a) Article 13(1) to (3) (personal data collected from data subject: information to be provided);
-
-Data Protection
-
-2004-01
 
 (b) Article 14(1) to (4) (personal data collected other than from data subject: information to be provided);
 
@@ -156,6 +156,10 @@ Functions designed to protect the public etc.
 
 6.  The listed GDPR provisions do not apply to personal data processed for the purposes of discharging a function that-
 
+Data Protection
+
+2004-01
+
 (a) is designed as described in column 1 of the Table; and
 
 (b) meets the condition relating to the function specified in column 2 of the Table,
@@ -166,19 +170,13 @@ TABLE
 
 Description of function design Condition 1. The function is designed to protect members of the public against-
 
-(a) financial loss due to dishonesty, malpractice or other The function is-
+(a) financial loss due to dishonesty, malpractice or other seriously improper conduct by, or the unfitness or incompetence of, persons concerned in the provision of banking, insurance, investment or other financial services or in the management of bodies corporate; or
+
+(b) financial loss due to the conduct of discharged or undischarged bankrupts. The function is-
 
 (a) conferred on a person by an enactment;
 
-(b) a function of the Crown, a
-
-Data Protection
-
-2004-01
-
-seriously improper conduct by, or the unfitness or incompetence of, persons concerned in the provision of banking, insurance, investment or other financial services or in the management of bodies corporate; or
-
-(b) financial loss due to the conduct of discharged or undischarged bankrupts. Minister or a government department; or
+(b) a function of the Crown, a Minister or a government department; or
 
 (c) of a public nature, and is exercised in the public interest. 2. The function is designed to protect members of the public against-
 
@@ -196,23 +194,7 @@ The function is-
 
 3. The function is designed-
 
-(a) to protect charities or community interest companies against misconduct or mismanagement (whether by trustees, directors or other persons) in their administration;
-
-(b) to protect the property of charities or community interest companies from loss or misapplication; or
-
-(c) to recover the property of charities or community interest companies.
-
-The function is-
-
-(a) conferred on a person by an enactment;
-
-(b) a function of the Crown, a Minister or a government department; or
-
-(c) of a public nature, and is exercised in the public interest. 4. The function is designed-
-
-(a) to secure the health, safety and welfare of persons at work; or
-
-The function is-
+(a) to protect charities or community interest companies against misconduct or The function is-
 
 (a) conferred on a person by an enactment;
 
@@ -220,7 +202,23 @@ Data Protection
 
 2004-01
 
+mismanagement (whether by trustees, directors or other persons) in their administration;
+
+(b) to protect the property of charities or community interest companies from loss or misapplication; or
+
+(c) to recover the property of charities or community interest companies.
+
+(b) a function of the Crown, a Minister or a government department; or
+
+(c) of a public nature, and is exercised in the public interest. 4. The function is designed-
+
+(a) to secure the health, safety and welfare of persons at work; or
+
 (b) to protect persons other than those at work against risk to health or safety arising out of or in connection with the action of persons at work.
+
+The function is-
+
+(a) conferred on a person by an enactment;
 
 (b) a function of the Crown, a Minister or a government department; or
 
@@ -244,27 +242,27 @@ The function is-
 
 (a) to protect members of the public against conduct which may adversely affect their interests by persons carrying on a business;
 
-(b) to regulate agreements or conduct which have as their object or effect the prevention, restriction or distortion of competition in connection with any commercial activity; or
-
-(c) to regulate conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market.
-
 The function is-
 
 (a) conferred on a person by an enactment;
 
-(b) a function of the Crown, a Minister or a government department; or
-
-(c) of a public nature, and is exercised in the public interest.
-
-Audit functions.
-
-7.(1)  The listed GDPR provisions do not apply to personal data processed for the purposes of discharging a function listed in subparagraph (2) to the
+(b) a function of the Crown, a Minister or a government
 
 Data Protection
 
 2004-01
 
-extent that the application of those provisions would be likely to prejudice the proper discharge of the function.
+(b) to regulate agreements or conduct which have as their object or effect the prevention, restriction or distortion of competition in connection with any commercial activity; or
+
+(c) to regulate conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market.
+
+department; or
+
+(c) of a public nature, and is exercised in the public interest.
+
+Audit functions.
+
+7.(1)  The listed GDPR provisions do not apply to personal data processed for the purposes of discharging a function listed in subparagraph (2) to the extent that the application of those provisions would be likely to prejudice the proper discharge of the function.
 
 (2)  The functions are any function that is conferred by an enactment on the Principal Auditor.
 
@@ -274,11 +272,15 @@ Regulatory functions relating to legal services, the health service and children
 
 Parliamentary privilege.
 
-9.  The listed GDPR provisions and Article 34(1) and (4) of the GDPR (communication of personal data breach to the data subject) do not apply to personal data where this is required for the purpose of avoiding an infringement of the privileges of Parliament.
+9.  The listed GDPR provisions and Article 34(1) and (4) of the Gibraltar GDPR (communication of personal data breach to the data subject) do not apply to personal data where this is required for the purpose of avoiding an infringement of the privileges of Parliament.
 
 Judicial appointments, judicial independence and judicial proceedings.
 
 10.(1)  The listed GDPR provisions do not apply to personal data processed for the purposes of assessing a person’s suitability for judicial office or the office of Queen’s Counsel.
+
+Data Protection
+
+2004-01
 
 (2)  The listed GDPR provisions do not apply to personal data processed by-
 
@@ -290,15 +292,11 @@ Judicial appointments, judicial independence and judicial proceedings.
 
 PART 3
 
-RESTRICTION BASED ON ARTICLE 23(1): PROTECTION OF RIGHTS OF OTHERS
+RESTRICTION FOR THE PROTECTION OF RIGHTS OF OTHERS
 
 Protection of the rights of others: general.
 
-Data Protection
-
-2004-01
-
-11.(1)  Article 15(1) to (3) of the GDPR (confirmation of processing, access to data and safeguards for third country transfers), and Article 5 of the GDPR so far as its provisions correspond to the rights and obligations provided for in Article 15(1) to (3), do not oblige a controller to disclose information to the data subject to the extent that doing so would involve disclosing information relating to another individual who can be identified from the information.
+11.(1)  Article 15(1) to (3) of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers), and Article 5 of the Gibraltar GDPR so far as its provisions correspond to the rights and obligations provided for in Article 15(1) to (3), do not oblige a controller to disclose information to the data subject to the extent that doing so would involve disclosing information relating to another individual who can be identified from the information.
 
 (2)  Subparagraph (1) does not remove the controller’s obligation where-
 
@@ -316,6 +314,10 @@ Data Protection
 
 (d) whether the other individual is capable of giving consent; and
 
+Data Protection
+
+2004-01
+
 (e) any express refusal of consent by the other individual.
 
 (4)  For the purposes of this paragraph-
@@ -325,10 +327,6 @@ Data Protection
 (b) an individual can be identified from information to be provided to a data subject by a controller if the individual can be identified from-
 
 (i) that information, or
-
-Data Protection
-
-2004-01
 
 (ii) that information and any other information that the controller reasonably believes the data subject is likely to possess or obtain.
 
@@ -354,6 +352,10 @@ Assumption of reasonableness for health workers, social workers and education wo
 
 (i) a children’s court officer,
 
+Data Protection
+
+2004-01
+
 (ii) a person who is or has been employed by a person or body referred to in paragraph 8 of Schedule 3 in connection with functions exercised in relation to the information, or
 
 (iii) a person who has provided for reward a service that is similar to a service provided in the exercise of any relevant social services functions, and
@@ -361,10 +363,6 @@ Assumption of reasonableness for health workers, social workers and education wo
 (b) the information relates to the other individual in an official capacity or the other individual supplied the information-
 
 (i) in an official capacity, or
-
-Data Protection
-
-2004-01
 
 (ii) in a case within subsubparagraph (a)(iii), in connection with providing the service mentioned in subsubparagraph (a)(iii).
 
@@ -380,13 +378,17 @@ Data Protection
 
 PART 4
 
-RESTRICTIONS BASED ON ARTICLE 23(1): RESTRICTIONS OF RULES IN ARTICLES 13 TO 15
+RESTRICTIONS AS DESCRIBED IN ARTICLE 23(1): RESTRICTIONS OF RULES IN ARTICLES 13 TO 15
 
-GDPR provisions to be restricted: “the listed GDPR provisions”.
+Gibraltar GDPR provisions to be restricted: “the listed GDPR provisions”.
 
-13.  In this Part of this Schedule, “the listed GDPR provisions” means the following provisions of the GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the GDPR)-
+13.  In this Part of this Schedule, “the listed GDPR provisions” means the following provisions of the Gibraltar GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the Gibraltar GDPR)-
 
 (a) Article 13(1) to (3) (personal data collected from data subject: information to be provided);
+
+Data Protection
+
+2004-01
 
 (b) Article 14(1) to (4) (personal data collected other than from data subject: information to be provided);
 
@@ -397,10 +399,6 @@ GDPR provisions to be restricted: “the listed GDPR provisions”.
 Legal professional privilege.
 
 14.  The listed GDPR provisions do not apply to personal data that consists of-
-
-Data Protection
-
-2004-01
 
 (a) information in respect of which a claim to legal professional privilege could be maintained in legal proceedings; or
 
@@ -416,11 +414,15 @@ Self incrimination.
 
 (b) section 466 of the Crimes Act 2011 (false statutory declarations and other false statements).
 
-(3)   Information disclosed by any person in compliance with Article 15 of the GDPR is not admissible against the person in proceedings for an offence under this Act.
+(3)   Information disclosed by any person in compliance with Article 15 of the Gibraltar GDPR is not admissible against the person in proceedings for an offence under this Act.
 
 Corporate finance.
 
 16.(1)  The listed GDPR provisions do not apply to personal data processed for the purposes of or in connection with a corporate finance service provided by a relevant person to the extent that either Condition A or Condition B is met.
+
+Data Protection
+
+2004-01
 
 (2)  Condition A is that the application of the listed GDPR provisions would be likely to affect the price of an instrument.
 
@@ -430,13 +432,7 @@ Corporate finance.
 
 (i) whether to deal in, subscribe for or issue an instrument, or
 
-(ii) whether to act in a way likely to have an effect on a business activity (such as an effect on the industrial strategy of a person, the capital structure of an
-
-Data Protection
-
-2004-01
-
-undertaking or the legal or beneficial ownership of a business or asset), and
+(ii) whether to act in a way likely to have an effect on a business activity (such as an effect on the industrial strategy of a person, the capital structure of an undertaking or the legal or beneficial ownership of a business or asset), and
 
 (b) the application of the listed GDPR provisions to that personal data would have a prejudicial effect on the orderly functioning of financial markets or the efficient allocation of capital within the economy.
 
@@ -456,7 +452,13 @@ undertaking or the legal or beneficial ownership of a business or asset), and
 
 Management forecasts.
 
-17.  The listed GDPR provisions do not apply to personal data processed for the purposes of management forecasting or management planning in relation to a business or other activity, to the extent that the application of those provisions would be likely to prejudice the conduct of the business or activity concerned.
+17.  The listed GDPR provisions do not apply to personal data processed for the purposes of management forecasting or management planning in relation
+
+Data Protection
+
+2004-01
+
+to a business or other activity, to the extent that the application of those provisions would be likely to prejudice the conduct of the business or activity concerned.
 
 Negotiations.
 
@@ -465,10 +467,6 @@ Negotiations.
 Confidential references.
 
 19.  The listed GDPR provisions do not apply to personal data consisting of a reference given, or to be given, in confidence for the purposes of-
-
-Data Protection
-
-2004-01
 
 (a) the education, training or employment, or prospective education, training or employment, of the data subject;
 
@@ -488,19 +486,19 @@ Exam scripts and exam marks.
 
 (b) in consequence of the determination of the results of an exam,
 
-the duty in Article 12(3) or (4) of the GDPR for the controller to provide information requested by the data subject within a certain time period, as it applies to Article 15 of the GDPR (confirmation of processing, access to data and safeguards for third country transfers), is modified as set out in subparagraph (3).
+the duty in Article 12(3) or (4) of the Gibraltar GDPR for the controller to provide information requested by the data subject within a certain time period, as it applies to Article 15 of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers), is modified as set out in subparagraph (3).
 
-(3)  Where a question arises as to whether the controller is obliged by Article 15 of the GDPR to disclose personal data, and the question arises before the day on which the exam results are announced, the controller must provide the information mentioned in Article 12(3) or (4)-
+Data Protection
+
+2004-01
+
+(3)  Where a question arises as to whether the controller is obliged by Article 15 of the Gibraltar GDPR to disclose personal data, and the question arises before the day on which the exam results are announced, the controller must provide the information mentioned in Article 12(3) or (4)-
 
 (a) before the end of the period of 5 months beginning when the question arises; or
 
 (b) if earlier, before the end of the period of 40 days beginning with the announcement of the results.
 
 (4)  In this paragraph, “exam” means an academic, professional or other examination used for determining the knowledge, intelligence, skill or ability of a candidate and may include an exam consisting of an assessment of the candidate’s performance while undertaking work or any other activity.
-
-Data Protection
-
-2004-01
 
 (5)  For the purposes of this paragraph, the results of an exam are treated as announced when they are first published or, if not published, first communicated to the candidate.
 
@@ -516,11 +514,17 @@ Trusts.
 
 (d) relates to the exercise or proposed exercise of such power or discretion, or the performance or proposed performance of such duty, referred to in subparagraph (b); or
 
-(e) relates to or forms part of the accounts of the trust, and a trustee is satisfied that it is in the interests of one or more of the beneficiaries, or the beneficiaries as a whole, to restrict the listed GDPR provisions.
+(e) relates to or forms part of the accounts of the trust, and a trustee is satisfied that it is in the interests of one or more of the
+
+Data Protection
+
+2004-01
+
+beneficiaries, or the beneficiaries as a whole, to restrict the listed GDPR provisions.
 
 PART 5
 
-EXEMPTIONS ETC BASED ON ARTICLE 85(2) FOR REASONS OF FREEDOM OF EXPRESSION AND INFORMATION
+EXEMPTIONS ETC FOR REASONS OF FREEDOM OF EXPRESSION AND INFORMATION
 
 Journalistic, academic, artistic and literary purposes.
 
@@ -529,10 +533,6 @@ Journalistic, academic, artistic and literary purposes.
 (a) the purposes of journalism;
 
 (b) academic purposes;
-
-Data Protection
-
-2004-01
 
 (c) artistic purposes;
 
@@ -552,6 +552,10 @@ Data Protection
 
 (6)  The codes of practice and guidelines are-
 
+Data Protection
+
+2004-01
+
 (a) Programme Standards Code;
 
 (b) Right of Reply Code;
@@ -564,13 +568,9 @@ Data Protection
 
 (7)  The Minister  may by regulations amend the list in subparagraph (6).
 
-(8)  For the purposes of this paragraph, the listed GDPR provisions are the following provisions of the GDPR (which may be exempted or derogated from by virtue of Article 85(2) of the GDPR)-
+(8)  For the purposes of this paragraph, the listed GDPR provisions are the following provisions of the Gibraltar GDPR (which may be exempted or derogated from by virtue of Article 85(2) of the Gibraltar GDPR)-
 
-Data Protection
-
-2004-01
-
-(a) in Chapter II of the GDPR (principles)-
+(a) in Chapter II of the Gibraltar GDPR (principles)-
 
 (i) Article 5(1)(a) to (e) (principles relating to processing),
 
@@ -586,7 +586,7 @@ Data Protection
 
 (vii) Article 11(2) (processing not requiring identification);
 
-(b) in Chapter III of the GDPR (rights of the data subject)-
+(b) in Chapter III of the Gibraltar GDPR (rights of the data subject)-
 
 (i) Article 13(1) to (3) (personal data collected from data subject: information to be provided),
 
@@ -595,6 +595,10 @@ Data Protection
 (iii) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers),
 
 (iv) Article 16 (right to rectification),
+
+Data Protection
+
+2004-01
 
 (v) Article 17(1) and (2) (right to erasure),
 
@@ -606,31 +610,21 @@ Data Protection
 
 (ix) Article 21(1) (objections to processing);
 
-(c) in Chapter IV of the GDPR (controller and processor)-
+(c) in Chapter IV of the Gibraltar GDPR (controller and processor)-
 
 (i) Article 34(1) and (4) (communication of personal data breach to the data subject),
 
-Data Protection
-
-2004-01
-
 (ii) Article 36 (requirement for controller to consult Commissioner prior to high risk processing);
 
-(d) in Chapter V of the GDPR (transfers of data to third countries etc), Article 44 (general principles for transfers);
-
-(e) in Chapter VII of the GDPR (co-operation and consistency)-
-
-(i) Articles 60 to 62 (co-operation),
-
-(ii) Articles 63 to 67 (consistency).
+(d) in Chapter V of the Gibraltar GDPR (transfers of data to third countries etc), Article 44 (general principles for transfers).
 
 PART 6
 
-DEROGATIONS ETC BASED ON ARTICLE 89 FOR RESEARCH, STATISTICS AND ARCHIVING
+DEROGATIONS ETC FOR RESEARCH, STATISTICS AND ARCHIVING
 
 Research and statistics.
 
-23.(1)  Subject to subparagraph (3), the listed GDPR provisions do not apply to personal data processed for-
+23.(1)  Subject to subparagraphs (3) and (4), the listed GDPR provisions do not apply to personal data processed for-
 
 (a) scientific or historical research purposes; or
 
@@ -638,9 +632,13 @@ Research and statistics.
 
 to the extent that the application of those provisions would prevent or seriously impair the achievement of the purposes in question.
 
-(2)  For the purposes of this paragraph, the listed GDPR provisions are the following provisions of the GDPR (the rights in which may be derogated from by virtue of Article 89(2) of the GDPR)-
+(2)  For the purposes of this paragraph, the listed GDPR provisions are the following provisions of the Gibraltar GDPR-
 
 (a) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers);
+
+Data Protection
+
+2004-01
 
 (b) Article 16 (right to rectification);
 
@@ -650,19 +648,17 @@ to the extent that the application of those provisions would prevent or seriousl
 
 (3)  The exemption in subparagraph (1) is available only where-
 
-(a) the personal data is processed in accordance with Article 89(1) of the GDPR (as supplemented by section 23); and
-
-Data Protection
-
-2004-01
+(a) the personal data is processed in accordance with Article 89(1) of the Gibraltar GDPR (as supplemented by section 23); and
 
 (b) as regards the disapplication of Article 15(1) to (3), the results of the research or any resulting statistics are not made available in a form which identifies a data subject.
 
+(4)  Where processing for a purpose described in subparagraph (1) serves at the same time another purpose, the exemption in subparagraph (1) is available only where the personal data is processed for a purpose referred to in that subparagraph.
+
 Archiving in the public interest.
 
-24.(1)  Subject to subparagraph (3), the listed GDPR provisions do not apply to personal data processed for archiving purposes in the public interest to the extent that the application of those provisions would prevent or seriously impair the achievement of those purposes.
+24.(1)  Subject to subparagraphs (3) and (4), the listed GDPR provisions do not apply to personal data processed for archiving purposes in the public interest to the extent that the application of those provisions would prevent or seriously impair the achievement of those purposes.
 
-(2)  For the purposes of this paragraph, the listed GDPR provisions are the following provisions of the GDPR (the rights in which may be derogated from by virtue of Article 89(3) of the GDPR)-
+(2)  For the purposes of this paragraph, the listed GDPR provisions are the following provisions of the Gibraltar GDPR -
 
 (a) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers);
 
@@ -676,7 +672,13 @@ Archiving in the public interest.
 
 (f) Article 21(1) (objections to processing).
 
-(3)  The exemption in subparagraph (1) is available only where the personal data is processed in accordance with Article 89(1) of the GDPR (as supplemented by section 23).
+Data Protection
+
+2004-01
+
+(3)  The exemption in subparagraph (1) is available only where the personal data is processed in accordance with Article 89(1) of the Gibraltar GDPR (as supplemented by section 23).
+
+(4)  Where processing for a purpose described in subparagraph (1) serves at the same time another purpose, the exemption in subparagraph (1) is available only where the personal data is processed for a purpose referred to in that subparagraph.
 
 Data Protection
 

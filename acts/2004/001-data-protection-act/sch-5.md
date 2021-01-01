@@ -16,9 +16,9 @@ Introduction.
 
 (a) the Commissioner; or
 
-(b) a national accreditation body;
+(b) a Gibraltar national accreditation body;
 
-“certification provider” and “national accreditation body” have the same meaning as in section 21.
+“certification provider” and “Gibraltar national accreditation body” have the same meaning as in section 21.
 
 Review.
 
@@ -76,7 +76,7 @@ Data Protection
 
 2004-01
 
-(4)  Where the request relates to a decision of the national accreditation body-
+(4)  Where the request relates to a decision of the Gibraltar national accreditation body -
 
 (a) the Minister-
 
@@ -84,7 +84,7 @@ Data Protection
 
 (ii) may direct the Commissioner to appoint one person to be a member of the appeal panel other than the chair; and
 
-(b) subject to subsubparagraph (a), the chair of the national accreditation body must appoint the members of the appeal panel.
+(b) subject to subsubparagraph (a), the chair of the Gibraltar national accreditation body must appoint the members of the appeal panel.
 
 (5)  A person may not be a member of an appeal panel if the person-
 
@@ -130,7 +130,7 @@ Decision following referral to appeal panel.
 
 (b) give a copy of the decision to the applicant.
 
-(4)  Where the accreditation authority is the national accreditation body, the recommendation must be given to, and the final decision must be made by, the chief executive of that body.
+(4)  Where the accreditation authority is the Gibraltar national accreditation body, the recommendation must be given to, and the final decision must be made by, the chief executive of that body.
 
 Meaning of “working day”.
 
@@ -142,6 +142,4 @@ Meaning of “working day”.
 
 (c) a day which is a bank holiday.
 
-Data Protection
-
-2004-01
+________________________
