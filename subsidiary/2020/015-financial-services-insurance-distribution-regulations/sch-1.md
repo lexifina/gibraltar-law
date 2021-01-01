@@ -2,7 +2,7 @@ SCHEDULE 1
 
 MINIMUM PROFESSIONAL KNOWLEDGE AND COMPETENCE REQUIREMENTS
 
-I.  Non-life risks classified under classes 1 to 18 in Part A of Annex I to the Solvency 2 Directive–
+I.  Non-life risks classified under classes 1 to 18 in paragraph 22 of Schedule 2 to the Act –
 
 (a) minimum necessary knowledge of terms and conditions of policies offered, including ancillary risks if covered by such policies;
 
@@ -32,7 +32,7 @@ II.  Insurance-based investment products–
 
 (e) minimum necessary knowledge of organisation and benefits guaranteed by the pension system;
 
-2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
 
 (f) minimum necessary knowledge of applicable laws governing the distribution of insurance products, such as consumer protection law and relevant tax law;
 
@@ -48,11 +48,11 @@ II.  Insurance-based investment products–
 
 (l) minimum necessary financial competency.
 
-III.  Life risks classified in Annex II to the Solvency 2 Directive–
+III.  Life risks classified paragraph 23 of Schedule 2 to the Act –
 
 (a) minimum necessary knowledge of policies including terms, conditions, the guaranteed benefits and, where applicable, ancillary risks;
 
-(b) minimum necessary knowledge of organisation and benefits guaranteed by the pension system of the relevant Member State;
+(b) minimum necessary knowledge of organisation and benefits guaranteed by the pension system of Gibraltar;
 
 (c) knowledge of applicable insurance contract law, consumer protection law, data protection law, anti- money laundering law and, where applicable, relevant tax law and relevant social and labour law;
 
@@ -68,6 +68,4 @@ III.  Life risks classified in Annex II to the Solvency 2 Directive–
 
 (i) minimum necessary financial competency.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020 2020/015
-
-2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020

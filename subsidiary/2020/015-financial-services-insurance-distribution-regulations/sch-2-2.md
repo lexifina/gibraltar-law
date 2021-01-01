@@ -10,7 +10,7 @@ IV. Commissions on transactions in futures, options, contracts for differences, 
 
 V.  Investment management fees
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020 2020/015
+Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
 
 VI.  Fee income in respect of financial advice VII.  Company management fees VIII.  Trustee fees IX.  Interest and dividends 1.  financial instrument positions 2.  loan accounts and margin accounts 3.  in respect of balances in client bank accounts 4.  other specify
 
@@ -20,7 +20,7 @@ II. Salaries and other employment costs (exclusive of commission) III. Directors
 
 VI. Establishment costs VII.  Communications and marketing VIII.  Office equipment and services
 
-2019-26 Financial Services 2020/015 FINANCIAL SERVICES (INSURANCE DISTRIBUTION) REGULATIONS 2020
+2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020
 
 IX.  Provisions for losses, bad and doubtful debts X.  Professional charges XI.  Investment exchange and clearing house charges XII.  Regulatory fees and expenses XIII.  Audit fees (including expenses) XIV.  Miscellaneous office expenses XV.  Other expenditure - specify if material D.  PROFIT OR LOSS BEFORE TAXATION
 
