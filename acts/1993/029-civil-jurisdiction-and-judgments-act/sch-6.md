@@ -1,1439 +1,925 @@
 SCHEDULE 6.
 
-Section 4(4)
+CONVENTION on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
 
-CONVENTION
+PREAMBLE THE HIGH CONTRACTING PARTIES TO THIS CONVENTION,
 
-on jurisdiction and the enforcement of judgements  in civil and commercial matters
+DETERMINED to strengthen in their territories the legal protection of persons therein established,
 
-Done at Lugano on 16 September 1988
+CONSIDERING that it is necessary for this purpose to determine the international jurisdiction of the courts, to facilitate recognition, and to introduce an expeditious procedure for securing the enforcement of judgments, authentic instruments and court settlements,
 
-(88/592/EEC)
+AWARE of the links between them, which have been sanctioned in the economic field by the free trade agreements concluded between the European Community and certain States members of the European Free Trade Association,
 
-PREAMBLE
+TAKING INTO ACCOUNT:
 
-THE HIGH CONTRACTING PARTIES TO THIS CONVENTION,
+the Brussels Convention of 27 September 1968 on jurisdiction and the enforcement of judgments in civil and commercial matters, as amended by the Accession Conventions under the successive enlargements of the European Union,
 
-ANXIOUS to strengthen in their territories the legal protection of persons therein established,
+the Lugano Convention of 16 September 1988 on jurisdiction and the enforcement of judgments in civil and commercial matters, which extends the application of the rules of the 1968 Brussels Convention to certain States members of the European Free Trade Association,
 
-CONSIDERING that it is necessary for this purpose to determine the international jurisdiction of their courts, to facilitate recognition and to introduce an expeditious procedure for securing the enforcement of judgments, authentic instruments and court settlements,
+Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, which has replaced the abovementioned Brussels Convention,
 
-AWARE of the links between them, which have been sanctioned in the economic field by the free trade agreements concluded between the European Economic Community and the States members of the European Free Trade Association,
+the Agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, signed at Brussels on 19 October 2005,
 
-TAKING INTO ACCOUNT the Brussels Convention of 27 September 1968 on jurisdiction and the enforcement of judgments in civil and commercial matters, as amended by the Accession Conventions under the successive enlargements of the European Communities,
+PERSUADED that the extension of the principles laid down in Regulation (EC) No 44/2001 to the Contracting Parties to this instrument will strengthen legal and economic cooperation,
 
-PERSUADED that the extension of the principles of that Convention to the States parties to this instrument will strengthen legal and economic co- operation in Europe,
-
-DESIRING to ensure as uniform an interpretation as possible of this instrument,
-
-HAVE in this spirit DECIDED to conclude this Convention and
+DESIRING to ensure as uniform an interpretation as possible of this instrument, HAVE in this spirit DECIDED to conclude this Convention, and
 
 HAVE AGREED AS FOLLOWS:
-
-Civil Jurisdiction and Judgments
-
-1993-29
 
 TITLE I
 
 SCOPE
 
-ARTICLE 1.
+Article 1
 
-This Convention shall apply in civil and commercial matters whatever the nature of the court or tribunal. It shall not extend, in particular, to revenue, customs or administrative matters.
+1.  This Convention shall apply in civil and commercial matters whatever the nature of the court or tribunal. It shall not extend, in particular, to revenue, customs or administrative matters.
 
-The Convention shall not apply to:
+2.  The Convention shall not apply to:
 
-1. the status or legal capacity of natural persons, rights in property arising out of a matrimonial relationship, wills and succession;
+(a) the status or legal capacity of natural persons, rights in property arising out of a matrimonial relationship, wills and succession;bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings;
 
-2. bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, composition and analogous proceedings;
+(b) social security;
 
-3. social security;
+(c) arbitration.
 
-4. arbitration.
+3.  In this Convention, the term ‘State bound by this Convention’ shall mean any State that is a Contracting Party to this Convention or a Member State of the European Community. It may also mean the European Community.
 
 TITLE II
 
 JURISDICTION
 
-Section 1
+SECTION 1
 
 General provisions
 
-ARTICLE 2
+Article 2
 
-Subject to the provisions of this Convention, persons domiciled in a Contracting State shall, whatever their nationality, be sued in the courts of that State.
+1.  Subject to the provisions of this Convention, persons domiciled in a State bound by this Convention shall, whatever their nationality, be sued in the courts of that State.
 
-Persons who are not nationals of the State in which they are domiciled shall be governed by the rules of jurisdiction applicable to nationals of that State.
+2.  Persons who are not nationals of the State bound by this Convention in which they are domiciled shall be governed by the rules of jurisdiction applicable to nationals of that State.
 
-ARTICLE 3
+Article 3
 
-Persons domiciled in a Contracting State may be sued in the courts of another Contracting State only by virtue of the rules set out in Sections 2 to 6 of this Title.
+1.  Persons domiciled in a State bound by this Convention may be sued in the courts of another State bound by this Convention only by virtue of the rules set out in Sections 2 to 7 of this Title.
 
-Civil Jurisdiction and Judgments
+2.  In particular the rules of national jurisdiction set out in Annex I shall not be applicable as against them.
 
-1993-29
+Article 4
 
-In particular the following provisions shall not be applicable as against them:
+1.  If the defendant is not domiciled in a State bound by this Convention, the jurisdiction of the courts of each State bound by this Convention shall, subject to the provisions of Articles 22 and 23, be determined by the law of that State.
 
-- in Belgium: Article 15 of the civil code (Code civil - Burgerlijk Wetboek) and Article 638 of the judicial code (Code judiciarie -Gerehtelijk Wetboek),
+2.  As against such a defendant, any person domiciled in a State bound by this Convention may, whatever his nationality, avail himself in that State of the rules of jurisdiction there in force, and in particular those specified in Annex I, in the same way as the nationals of that State.
 
-- in Denmark: Article 246(2) and (3) of the law on civil procedure (Lov om rettens pleje),
-
-- in the Federal Republic of Germany: Article 23 of the code of civil procedure (ZivilprozeBordnung),
-
-- in Greece: Article 40 of the code of civil procedure (K
-
-in France: Articles 14 and 15 of the civil code (Code civil),
-
-- in Ireland: the rules which enable jurisdiction to be founded on the document instituting the proceedings having been served on the defendant during his temporary presence in Ireland,
-
-- in Iceland: Article 77 of the Civil Proceedings Act (lög um mefereinlamála í hérai),
-
-- in Italy: Articles 2 and 4, Nos 1 and 2 of the code of civil procedure (Codice di procedura civile),
-
-- in Luxembourg: Articles 14 and 15 of the civil code (Code civil),
-
-in the Netherlands: Articles 126(3) andy 127 of the code of civil procedure (Wetboek van Burgerlijke Rechtsvordering),
-
-in Norway: Section 32 of the Civil Proceedings Act (tvistemalsloven),
-
-- in Austria: Article 99 of the Law of Court Jurisdiction (Jurisdiktionsnorm),
-
-- in Portugal: Articles 65(1)(c), 65(2) and 65A(c) of the code of civil procedure (Codigo de Processo Civil) and Article 11 of the code of labour procedure (Código de Processo de Trabalho),
-
-- in Switzerland: le for du lieu du séquestre/Gerichtsstand des Arrestortes/foro del luogo del sequestro within the meaning of Article 4 of the loi fédérale sur le droit international privé/Bundesgesetz uber das internationale Privatrecht/legge federalesul diritto internazionale privato,
-
-Civil Jurisdiction and Judgments
-
-1993-29
-
-- in Finland: the second, third and fourth sentences of Section 1 of Chapter 10 of the Code of Judicial Procedure (oikeudenkäymiskaari/rättegangsbalken),
-
-- in Sweden: the first sentence of Section 3 of Chapter 10 of the Code of Judicial Procedure (Rättegangsbalken),
-
-- in the United Kingdom: the rules which enable jurisdiction to be founded on:
-
-(a) the document instituting the proceedings having been served on the defendant during his temporary presence in the United Kingdom; or
-
-(b) the presence within the United Kingdom of property belonging to the defendant; or
-
-(c) the seizure by the plaintiff of property situated in the United Kingdom.
-
-ARTICLE 4
-
-If the defendant is not domiciled in a Contracting State, the jurisdiction of the courts of each Contracting State shall, subject to the provisions of Article 16, be determined by the law of that State.
-
-As against such a defendant, any person domiciled in a Contracting State may, whatever his nationality, avail himself in that State of the rules of jurisdiction there in force, and in particular those specified in the second paragraph of Article 3, in the same way as the nationals of that State.
-
-Section 2
+SECTION 2
 
 Special jurisdiction
 
-ARTICLE 5
+Article 5
 
-A person domiciled in a Contracting State may, in another Contracting State, be sued:
+A person domiciled in a State bound by this Convention may, in another State bound by this Convention, be sued:
 
-1. in matters relating to a contract, in the courts for the place of performance of the obligation in question; in matters relating to individual contracts of employment, this place is that where the employee habitually carries out his work, or if the employee does not habitually carry out his work in any one
+1(a)  in matters relating to a contract, in the courts for the place of performance of the obligation in question;
 
-Civil Jurisdiction and Judgments
+(b)  for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall be:
 
-1993-29 country, this place shall be the place of business through which he was engaged;
+— in the case of the sale of goods, the place in a State bound by this Convention where, under the contract, the goods were delivered or should have been delivered;
 
-2. in matters relating to maintenance, in the courts for the place where the maintenance creditor is domiciled or habitually resident or, if the matter is ancillary to proceedings concerning the status of a person, in the court which, according to its own law, has jurisdiction to entertain those proceedings, unless that jurisdiction is based solely on the nationality of one of the parties;
+— in the case of the provision of services, the place in a State bound by this Convention where, under the contract, the services were provided or should have been provided.
 
-3. in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred;
+(c)  if (b) does not apply then subparagraph (a) applies;
 
-4. as regards a civil claim for damages or restitution which is based on an act giving rise to criminal proceedings, in the court seised of those proceedings, to the extent that that court has jurisdiction under its own law to entertain civil proceedings;
+2.  in matters relating to maintenance:
 
-5. as regards a dispute arising out of the operations of a branch, agency or other establishment, in the courts for the place in which the branch, agency or other establishment is situated;
+(a) in the courts for the place where the maintenance creditor is domiciled or habitually resident; or
 
-6. in his capacity as settlor, trustee or beneficiary of a trust created by the operation of a statute, or by a written instrument, or created orally and evidenced in writing, in the courts of the Contracting State in which the trust is domiciled;
+(b) in the court which, according to its own law, has jurisdiction to entertain proceedings concerning the status of a person if the matter relating to maintenance is ancillary to those proceedings, unless that jurisdiction is based solely on the nationality of one of the parties; or
 
-7. as regards a dispute concerning the payment of remuneration claimed in respect of the salvage of a cargo or freight, in the court under the authority of which the cargo or freight in question:
+(c) in the court which, according to its own law, has jurisdiction to entertain proceedings concerning parental responsibility, if the matter relating to maintenance is ancillary to those proceedings, unless that jurisdiction is based solely on the nationality of one of the parties;
 
-(a)  has been arrested to secure such payment, or
+3.  in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur;
+
+4.  as regards a civil claim for damages or restitution which is based on an act giving rise to criminal proceedings, in the court seised of those proceedings, to the extent that that court has jurisdiction under its own law to entertain civil proceedings;
+
+5.  as regards a dispute arising out of the operations of a branch, agency or other establishment, in the courts for the place in which the branch, agency or other establishment is situated;
+
+6.  as settlor, trustee or beneficiary of a trust created by the operation of a statute, or by a written instrument, or created orally and evidenced in writing, in the courts of the State bound by this Convention in which the trust is domiciled;
+
+7.  as regards a dispute concerning the payment of remuneration claimed in respect of the salvage of a cargo or freight, in the court under the authority of which the cargo or freight in question:
+
+(a) has been arrested to secure such payment; or
 
 (b) could have been so arrested, but bail or other security has been given;
 
 provided that this provision shall apply only if it is claimed that the defendant has an interest in the cargo or freight or had such an interest at the time of salvage.
 
-ARTICLE 6
+Article 6
 
-A person domiciled in a Contracting State may also be sued:
+A person domiciled in a State bound by this Convention may also be sued:
 
-1. where he is one of a number of defendants, in the courts for the place where any one of them is domiciled;
+1.  where he is one of a number of defendants, in the courts for the place where any one of them is domiciled, provided the claims are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable judgments resulting from separate proceedings;
 
-Civil Jurisdiction and Judgments
+2.  as a third party in an action on a warranty or guarantee, or in any other third party proceedings, in the court seised of the original proceedings, unless these were instituted solely with the object of removing him from the jurisdiction of the court which would be competent in his case;
 
-1993-29
+3.  on a counter-claim arising from the same contract or facts on which the original claim was based, in the court in which the original claim is pending;
 
-2. as a third party in an action on a warranty or guarantee or in any other third party proceedings, in the court seised of the original proceedings, unless these were instituted solely with the object of removing him from the jurisdiction of the court which would be competent in his case;
+4.  in matters relating to a contract, if the action may be combined with an action against the same defendant in matters relating to rights in rem in immovable property, in the court of the State bound by this Convention in which the property is situated.
 
-3. on a counter claim arising from the same contract or facts on which the original claim was based, in the court in which the original claim is pending;
+Article 7
 
-4. in matters relating to a contract, if the action may be combined with an action against the same defendant in matters relating to rights in rem in immovable property in the court of the Contracting State in which the property is situated.
+Where by virtue of this Convention a court of a State bound by this Convention has jurisdiction in actions relating to liability from the use or operation of a ship, that court, or any other court substituted for this purpose by the internal law of that State, shall also have jurisdiction over claims for limitation of such liability.
 
-ARTICLE 6A
-
-Where by virtue of this Convention a court of a Contracting State has jurisdiction in actions relating to liability arising from the use or operation of a ship, that court, or any other court substituted for this purpose by the internal law of that State, shall also have jurisdiction over claims for limitation of such liability.
-
-Section 3
+SECTION 3
 
 Jurisdiction in matters relating to insurance
 
-ARTICLE 7
+Article 8
 
-In matters relating to insurance, jurisdiction shall be determined by this Section, without prejudice to the provisions of Articles 4 and 5(5).
+In matters relating to insurance, jurisdiction shall be determined by this Section, without prejudice to Articles 4 and 5(5).
 
-ARTICLE 8
+Article 9
 
-An insurer domiciled in a Contracting State may be sued:
+1.  An insurer domiciled in a State bound by this Convention may be sued:
 
-1. in the courts of the State where he is domiciled, or
+(a) in the courts of the State where he is domiciled; or
 
-2. in another Contracting State, in the courts for the place where the policyholder is domiciled; or
+(b) in another State bound by this Convention, in the case of actions brought by the policyholder, the insured or a beneficiary, in the courts for the place where the plaintiff is domiciled; or
 
-3. if he is a co-insurer, in the courts of a Contracting State in which proceedings are brought against the leading insurer.
+(c) if he is a co-insurer, in the courts of a State bound by this Convention in which proceedings are brought against the leading insurer.
 
-An insurer who is not domiciled in a Contracting State but has a branch, agency or other in one of the Contracting States shall, in disputes arising out
+2.  An insurer who is not domiciled in a State bound by this Convention but has a branch, agency or other establishment in one of the States bound by this Convention shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that State.
 
-Civil Jurisdiction and Judgments
+Article 10
 
-1993-29 of the operators of the branch, agency or establishment, be deemed to be domiciled in that State.
+In respect of liability insurance or insurance of immovable property, the insurer may in addition be sued in the courts for the place where the harmful event occurred. The same applies if movable and immovable property are covered by the same insurance policy and both are adversely affected by the same contingency.
 
-ARTICLE 9
+Article 11
 
-In respect of liability insurance or insurance of immovable property, the insurer may in addition be sued in the courts for the place where the harmful event occurred. The same applies of movable and immovable property are covered by the same insurance policy and both are adversely affected by the same contingency.
+1.  In respect of liability insurance, the insurer may also, if the law of the court permits it, be joined in proceedings which the injured party has brought against the insured.
 
-ARTICLE 10
+2.  Articles 8, 9 and 10 shall apply to actions brought by the injured party directly against the insurer, where such direct actions are permitted.
 
-In respect of liability insurance, the insurance may also, if the law of the court permits it, be joined in proceedings which the injured party has brought against the insured.
+3.  If the law governing such direct actions provides that the policyholder or the insured may be joined as a party to the action, the same court shall have jurisdiction over them.
 
-The provisions of Articles 7, 8 and 9 shall apply to actions brought by the injured party directly against the insurer, where such direct actions are permitted.
+Article 12
 
-If the law governing such direct actions provides that the policy holder or the insured may be joined as a party to the action, the same court shall have jurisdiction over them.
+1.  Without prejudice to Article 11(3), an insurer may bring proceedings only in the courts of the State bound by this Convention in which the defendant is domiciled, irrespective of whether he is the policyholder, the insured or a beneficiary.
 
-ARTICLE 11
+2.  The provisions of this Section shall not affect the right to bring a counter-claim in the court in which, in accordance with this Section, the original claim is pending.
 
-Without prejudice to the provisions of the third paragraph of Article 10, an insurer may bring proceedings only in the courts of the Contracting State in which the defendant is domiciled, irrespective of whether he is the policy- holder, the insured or a beneficiary.
-
-The provisions of this Section shall not affect the right to bring a counterclaim in the court in which, in accordance with this Section the original claim is pending.
-
-ARTICLE 12
-
-The provisions of this Section may be departed from only by an agreement on jurisdiction:
-
-1. which is entered into after the dispute has arisen, or
-
-2. which allows the policy-holder, the insured or a beneficiary to bring proceedings in courts other than those indicated in this Section, or
-
-Civil Jurisdiction and Judgments
-
-1993-29 3. which is concluded between a policy-holder and an insurer, both of whom are at the time of conclusion of the contract domiciled or habitually resident in the same Contracting State, and which has the effect of conferring jurisdiction on the courts of that State even if the harmful event were to occur abroad, provided that such an agreement is not contrary to the law of that State; or
-
-4. which is concluded with a policy-holder who is not domiciled in a Contracting State, except in so far as the insurance is compulsory or relates to immovable property in a Contracting State; or
-
-5. which relates to a contract of insurance in so far as it covers one or more of the risks set out in Article 12A.
-
-ARTICLE 12A
-
-The following are the risks referred to in Article 12(5):
-
-1. any loss of or damage to:
-
-(a) sea-going ships, installations situated off-shore or on the high seas, or aircraft, arising from perils which relate to their use for commercial purposes,
-
-(b) goods in transit other than passenger’s baggage where the transit consists of or includes carriage by such ships or aircraft;
-
-2. any liability, other than for bodily injury to passengers or loss of or damage to their baggage;
-
-(a) arising out of the use or operation of ship, installations or aircraft as referred to in (1)(a) above in so far as the law of the Contracting State in which such aircraft are registered does not prohibit agreements on jurisdiction regarding insurance of such risks;
-
-(b)  for loss or damage caused by goods in transit as described in (1)(b) above;
-
-3. any financial loss connected with the use or operation of ships, installations or aircraft as referred to in (1)(a) above, in particular loss of freight or charter-hire;
-
-4. any risk or interest connected with any of those referred to in (1) to (3) above.
-
-Civil Jurisdiction and Judgments
-
-1993-29 Section 4
-
-Jurisdiction over consumer contracts
-
-ARTICLE 13
-
-In proceedings concerning a contract concluded by a person for a purpose which can be regarded as being outside his trade or profession, hereinafter called “the consumer”, jurisdiction shall be determined by this Section, without prejudice to the provisions of Articles 4 and 5(5), if it is:
-
-1. a contract for the sale of goods on instalment credit terms; or
-
-2. a contract for a loan repayable by instalments, or for any other form of credit, made to finance the sale of goods; or
-
-3. any other contract for the supply of goods or a contract for the supply of services, and
-
-(a) in the State of the consumer's domicile the conclusion of the contract was preceded by a specific invitation addressed to him or by advertising, and
-
-(b) the consumer took in that State the steps necessary for the conclusion of the contract.
-
-Where a consumer enters into a contract with a party who is not domiciled in a Contracting State but has a branch, agency or other establishment in one of the Contracting States, that party shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that State.
-
-This Section shall not apply to contracts of transport.
-
-ARTICLE 14
-
-A consumer may bring proceedings against the other party to a contract either in the courts of the Contracting State in which that party is domiciled or in the courts of the Contracting State in which he is himself domiciled.
-
-Proceedings may be brought against a consumer by the other party to the contract only in the courts of the Contracting State in which the consumer is domiciled.
-
-Civil Jurisdiction and Judgments
-
-1993-29 These provisions shall not affect the right to bring a counterclaim in the court in which, in accordance with the Section, the original claim is pending.
-
-ARTICLE 15
+Article 13
 
 The provisions of this Section may be departed from only by an agreement:
 
-1. which is entered into after the dispute has arisen; or
+1.  which is entered into after the dispute has arisen; or
 
-2. which allows the consumer to bring proceedings in courts other than those indicated in this Section; or
+2.  which allows the policyholder, the insured or a beneficiary to bring proceedings in courts other than those indicated in this Section; or
 
-3. which is entered into by the consumer and the other party to the contract, both of whom are at the time of conclusion of the contract domiciled or habitually resident in the same Contracting State, and which confers jurisdiction on the courts of that State, provided that such an agreement is not contrary to the law of that State.
+3.  which is concluded between a policyholder and an insurer, both of whom are at the time of conclusion of the contract domiciled or habitually resident in the same State bound by this Convention, and which has the effect of conferring jurisdiction on the courts of that State even if the harmful event were to occur abroad, provided that such an agreement is not contrary to the law of that State; or
 
-Section 5
+4.  which is concluded with a policyholder who is not domiciled in a State bound by this Convention, except insofar as the insurance is compulsory or relates to immovable property in a State bound by this Convention; or
 
-Exclusive jurisdiction
+5.  which relates to a contract of insurance insofar as it covers one or more of the risks set out in Article 14.
 
-ARTICLE 16
+Article 14
 
-The following courts shall have exclusive jurisdiction; regardless of domicile:
+The following are the risks referred to in Article 13(5):
 
-1.         (a)  in proceedings which have as their object rights in rem in immovable property or tenancies of immovable property, the courts of the Contracting State in which the property is situated;
+1.  any loss of or damage to:
 
-(b) however, in proceedings which have as their object tenancies of immovable property concluded for temporary private use for a maximum period of six consecutive months, the courts of the Contracting State in which the defendant is domiciled shall also have jurisdiction, provided that the tenant is a natural person and neither party is domiciled in the Contracting State in which the property is situated;
+(a) seagoing ships, installations situated offshore or on the high seas, or aircraft, arising from perils which relate to their use for commercial purposes;
 
-2. in proceedings which have as their object the validity of the constitution, the nullity or the dissolution of companies or other legal persons or associations of natural or legal persons, or the decisions of their organs, the courts of the Contracting State in which the company, legal person or association has its seat;
+(b) goods in transit, other than passengers' baggage, where the transit consists of or includes carriage by such ships or aircraft;
 
-Civil Jurisdiction and Judgments
+2.  any liability, other than for bodily injury to passengers or loss of or damage to their baggage:
 
-1993-29
+(a) arising out of the use or operation of ships, installations or aircraft as referred to in point 1(a) insofar as, in respect of the latter, the law of the State bound by this Convention in which such aircraft are registered does not prohibit agreements on jurisdiction regarding insurance of such risks;
 
-3. in proceedings which have as their object the validity of entries in public registers, the courts of the Contracting State in which the register is kept;
+(b) for loss or damage caused by goods in transit as described in point 1(b);
 
-4. in proceedings concerned with the registration or validity of patents, trade marks, designs, or other similar rights required to be deposited or registered, the courts of the Contracting State in which the deposit or registration has been applied for, has taken place or is under the terms of an international convention deemed to have taken place;
+3.  any financial loss connected with the use or operation of ships, installations or aircraft as referred to in point 1(a), in particular loss of freight or charter-hire;
 
-5. in proceedings concerned with the enforcement of judgments, the courts of the Contracting State in which the judgment has been or is to be enforced.
+4.  any risk or interest connected with any of those referred to in points 1 to 3;
 
-Section 6
+5.  notwithstanding points 1 to 4, all large risks.
+
+SECTION 4
+
+Jurisdiction over consumer contracts
+
+Article 15
+
+1.  In matters relating to a contract concluded by a person, the consumer, for a purpose which can be regarded as being outside his trade or profession, jurisdiction shall be determined by this Section, without prejudice to Articles 4 and 5(5), if:
+
+(a) it is a contract for the sale of goods on instalment credit terms; or
+
+(b) it is a contract for a loan repayable by instalments, or for any other form of credit, made to finance the sale of goods; or
+
+(c) in all other cases, the contract has been concluded with a person who pursues commercial or professional activities in the State bound by this Convention of the consumer's domicile or, by any means, directs such activities to that State or to several States including that State, and the contract falls within the scope of such activities.
+
+2.  Where a consumer enters into a contract with a party who is not domiciled in the State bound by this Convention but has a branch, agency or other establishment in one of the States bound by this Convention, that party shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that State.
+
+3.  This section shall not apply to a contract of transport other than a contract which, for an inclusive price, provides for a combination of travel and accommodation.
+
+Article 16
+
+1.  A consumer may bring proceedings against the other party to a contract either in the courts of the State bound by this Convention in which that party is domiciled or in the courts for the place where the consumer is domiciled.
+
+2.  Proceedings may be brought against a consumer by the other party to the contract only in the courts of the State bound by this Convention in which the consumer is domiciled.
+
+3.  This Article shall not affect the right to bring a counter-claim in the court in which, in accordance with this Section, the original claim is pending.
+
+Article 17
+
+The provisions of this Section may be departed from only by an agreement:
+
+1.  which is entered into after the dispute has arisen; or
+
+2.  which allows the consumer to bring proceedings in courts other than those indicated in this Section; or
+
+3.  which is entered into by the consumer and the other party to the contract, both of whom are at the time of conclusion of the contract domiciled or habitually resident in the same State bound by this Convention, and which confers jurisdiction on the courts of that State, provided that such an agreement is not contrary to the law of that State.
+
+SECTION 5
+
+Jurisdiction over individual contracts of employment
+
+Article 18
+
+1.  In matters relating to individual contracts of employment, jurisdiction shall be determined by this Section, without prejudice to Articles 4 and 5(5).
+
+2.  Where an employee enters into an individual contract of employment with an employer who is not domiciled in a State bound by this Convention but has a branch, agency or other establishment in one of the States bound by this Convention, the employer shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that State.
+
+Article 19
+
+An employer domiciled in a State bound by this Convention may be sued:
+
+1.  in the courts of the State where he is domiciled; or
+
+2.  in another State bound by this Convention:
+
+(a) in the courts for the place where the employee habitually carries out his work or in the courts for the last place where he did so; or
+
+(b) if the employee does not or did not habitually carry out his work in any one country, in the courts for the place where the business which engaged the employee is or was situated.
+
+Article 20
+
+1.  An employer may bring proceedings only in the courts of the State bound by this Convention in which the employee is domiciled.
+
+2.  The provisions of this Section shall not affect the right to bring a counter-claim in the court in which, in accordance with this Section, the original claim is pending.
+
+Article 21
+
+The provisions of this Section may be departed from only by an agreement on jurisdiction:
+
+1.  which is entered into after the dispute has arisen; or
+
+2.  which allows the employee to bring proceedings in courts other than those indicated in this Section.
+
+SECTION 6
+
+Exclusive jurisdiction Article 22
+
+The following courts shall have exclusive jurisdiction, regardless of domicile:
+
+1.  in proceedings which have as their object rights in rem in immovable property or tenancies of immovable property, the courts of the State bound by this Convention in which the property is situated.
+
+However, in proceedings which have as their object tenancies of immovable property concluded for temporary private use for a maximum period of six consecutive months, the courts of the State bound by this Convention in which the defendant is domiciled shall also have jurisdiction, provided that the tenant is a natural person and that the landlord and the tenant are domiciled in the same State bound by this Convention;
+
+2.  in proceedings which have as their object the validity of the constitution, the nullity or the dissolution of companies or other legal persons or associations of natural or legal persons, or of the validity of the decisions of their organs, the courts of the State bound by this Convention in which the company, legal person or association has its seat. In order to determine that seat, the court shall apply its rules of private international law;
+
+3.  in proceedings which have as their object the validity of entries in public registers, the courts of the State bound by this Convention in which the register is kept;
+
+4.  in proceedings concerned with the registration or validity of patents, trade marks, designs, or other similar rights required to be deposited or registered, irrespective of whether the issue is raised by way of an action or as a defence, the courts of the State bound by this Convention in which the deposit or registration has been applied for, has taken place or is, under the terms of a Community instrument or an international convention, deemed to have taken place.
+
+Without prejudice to the jurisdiction of the European Patent Office under the Convention on the grant of European patents, signed at Munich on 5 October 1973, the courts of each State bound by this Convention shall have exclusive jurisdiction, regardless of domicile, in proceedings concerned with the registration or validity of any European patent granted for that State irrespective of whether the issue is raised by way of an action or as a defence;
+
+5.  in proceedings concerned with the enforcement of judgments, the courts of the State bound by this Convention in which the judgment has been or is to be enforced.
+
+SECTION 7
 
 Prorogation of jurisdiction
 
-ARTICLE 17
+Article 23
 
-1. If the parties one or more of whom is domiciled in a Contracting State, have agreed that a court or the courts of a Contracting State are to have jurisdiction to settle any disputes which have arisen or which may arise in connection with a particular legal relationship that court or those courts shall have exclusive jurisdiction. Such an agreement conferring jurisdiction shall be either:
+1.  If the parties, one or more of whom is domiciled in a State bound by this Convention, have agreed that a court or the courts of a State bound by this Convention are to have jurisdiction to settle any disputes which have arisen or which may arise in connection with a particular legal relationship, that court or those courts shall have jurisdiction. Such jurisdiction shall be exclusive unless the parties have agreed otherwise. Such an agreement conferring jurisdiction shall be either:
 
-(a) in writing or evidenced in writing, or
+(a) in writing or evidenced in writing; or
 
-(b) in a form which accords with practices which the parties have established between themselves, or
+(b) in a form which accords with practices which the parties have established between themselves; or
 
 (c) in international trade or commerce, in a form which accords with a usage of which the parties are or ought to have been aware and which in such trade or commerce is widely known to, and regularly observed by, parties to contracts of the type involved in the particular trade or commerce concerned.
 
-Where such an agreement is concluded by parties, none of whom is domiciled in a Contracting State, the courts of other Contracting States shall have no jurisdiction over their disputes unless the court or courts chosen have declined jurisdiction.
+2.  Any communication by electronic means which provides a durable record of the agreement shall be equivalent to ‘writing’.
 
-2. The court or courts of a Contracting State on which a trust instrument has conferred jurisdiction shall have exclusive jurisdiction in any
+3.  Where such an agreement is concluded by parties, none of whom is domiciled in a State bound by this Convention, the courts of other States bound by this Convention shall have no jurisdiction over their disputes unless the court or courts chosen have declined jurisdiction.
 
-Civil Jurisdiction and Judgments
+4.  The court or courts of a State bound by this Convention on which a trust instrument has conferred jurisdiction shall have exclusive jurisdiction in any proceedings brought against a settlor, trustee or beneficiary, if relations between these persons or their rights or obligations under the trust are involved.
 
-1993-29 proceedings brought against a settlor, trustee or beneficiary, if relations between these persons or their rights or obligations under the trust are involved.
+5.  Agreements or provisions of a trust instrument conferring jurisdiction shall have no legal force if they are contrary to the provisions of Articles 13, 17 or 21, or if the courts whose jurisdiction they purport to exclude have exclusive jurisdiction by virtue of Article 22.
 
-3. Agreements or provisions of a trust instrument conferring jurisdiction shall have no legal force if they are contrary to the provisions of Articles 12 or 15, or if the courts whose jurisdiction they purport to exclude have exclusive jurisdiction by virtue of Article 16.
+Article 24
 
-4. If an agreement conferring jurisdiction was concluded for the benefit of only one of the parties, that party shall retain the right to bring proceedings in any other court which has jurisdiction by virtue of this Convention.
+Apart from jurisdiction derived from other provisions of this Convention, a court of a State bound by this Convention before which a defendant enters an appearance shall have jurisdiction. This rule shall not apply where appearance was entered to contest the jurisdiction, or where another court has exclusive jurisdiction by virtue of Article 22.
 
-5. In matters relating to individual contracts of employment an agreement conferring jurisdiction shall have legal force only if it entered into after the dispute has arisen.
-
-ARTICLE 18
-
-Apart from jurisdiction derived from other provisions of this Convention, a court of a Contracting State before whom a defendant enters an appearance shall have jurisdiction. This rule shall not apply where appearance was entered solely to contest the jurisdiction or where another court has exclusive jurisdiction by virtue of Article 16.
-
-Section 7
+SECTION 8
 
 Examination as to jurisdiction and admissibility
 
-ARTICLE 19
+Article 25
 
-Where a court of a Contracting State is seised of a claim which is Principally concerned with a matter over which the courts of another Contracting State have exclusive jurisdiction by virtue of Article 16, it shall declare of its own motion that it has no jurisdiction.
+Where a court of a State bound by this Convention is seised of a claim which is principally concerned with a matter over which the courts of another State bound by this Convention have exclusive jurisdiction by virtue of Article 22, it shall declare of its own motion that it has no jurisdiction.
 
-ARTICLE 20
+Article 26
 
-Where a defendant domiciled in one Contracting State is sued in a court of another Contracting State and does not enter an appearance, the court shall declare of its own motion that it has no jurisdiction unless its jurisdiction is derived from the provisions of this Convention.
+1.  Where a defendant domiciled in one State bound by this Convention is sued in a court of another State bound by this Convention and does not enter an appearance, the court shall declare of its own motion that it has no jurisdiction unless its jurisdiction is derived from the provisions of this Convention.
 
-Civil Jurisdiction and Judgments
+2.  The court shall stay the proceedings so long as it is not shown that the defendant has been able to receive the document instituting the proceedings or an equivalent document in sufficient time to enable him to arrange for his defence, or that all necessary steps have been taken to this end.
 
-1993-29 The court shall stay the proceedings so long as it is not shown that the defendant has been able to receive the document instituting the proceedings or an equivalent document in sufficient time to enable him to arrange for his defence, or that all necessary steps have been taken to this end.
+3.  Instead of the provisions of paragraph 2, Article 15 of the Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil and Commercial matters shall apply if the document instituting the proceedings or an equivalent document had to be transmitted pursuant to that Convention.
 
-The provisions of the foregoing paragraph shall be replaced by those of Article 15 of the Hague Convention of 15 November 1965 on the service abroad of judicial and extrajudicial documents in civil or commercial matters, if the document instituting the proceedings or notice thereof had to be transmitted abroad in accordance with that Convention.
+4.  Member States of the European Community bound by Council Regulation (EC) No 1348/2000 of 29 May 2000 or by the Agreement between the European Community and the Kingdom of Denmark on the service of judicial and extrajudicial documents in civil or commercial matters, signed at Brussels on 19 October 2005, shall apply in their mutual relations the provision in Article 19 of that Regulation if the document instituting the proceedings or an equivalent document had to be transmitted pursuant to that Regulation or that Agreement.
 
-Section 8
+SECTION 9
 
-Lis Pendens - related actions
+Lis pendens — related actions Article 27
 
-ARTICLE 21
+1.  Where proceedings involving the same cause of action and between the same parties are brought in the courts of different States bound by this Convention, any court other than the court first seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established.
 
-Where proceedings involving the same cause of action and between the same parties are brought in the courts of different Contracting States, any court other than the court first seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established.
+2.  Where the jurisdiction of the court first seised is established, any court other than the court first seised shall decline jurisdiction in favour of that court.
 
-Where the jurisdiction of the court first seised is established, any court other than the court first seised shall decline jurisdiction in favour of that court.
+Article 28
 
-ARTICLE 22
+1.  Where related actions are pending in the courts of different States bound by this Convention, any court other than the court first seised may stay its proceedings.
 
-Where related actions are brought in the courts of different Contracting States, any court other than the court first seised may, while the actions are pending at first instance, stay its proceedings.
+2.  Where these actions are pending at first instance, any court other than the court first seised may also, on the application of one of the parties, decline jurisdiction if the court first seised has jurisdiction over the actions in question and its law permits the consolidation thereof.
 
-A court other than the court first seised may also, on application of one of the parties, decline jurisdiction if the law of that court permits the consolidation of related actions and the court first seised has jurisdiction over both actions.
+3.  For the purposes of this Article, actions are deemed to be related where they are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable judgments resulting from separate proceedings.
 
-For the purposes of this Article, actions are deemed to be related where they are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable judgments resulting from separate proceedings.
+Article 29
 
-ARTICLE 23
+Where actions come within the exclusive jurisdiction of several courts, any court other than the court first seised shall decline jurisdiction in favour of that court.
 
-Civil Jurisdiction and Judgments
+Article 30
 
-1993-29 Where actions come within the exclusive jurisdiction of several courts, any court other than the court first seised shall decline jurisdiction in favour of that court.
+For the purposes of this Section, a court shall be deemed to be seised:
 
-Section 9
+1.  at the time when the document instituting the proceedings or an equivalent document is lodged with the court, provided that the plaintiff has not subsequently failed to take the steps he was required to take to have service effected on the defendant; or
+
+2.  if the document has to be served before being lodged with the court at the time when it is received by the authority responsible for service, provided that the plaintiff has not subsequently failed to take the steps he was required to take to have the document lodged with the court.
+
+SECTION 10
 
 Provisional, including protective, measures
 
-ARTICLE 24
+Article 31
 
-Application may be made to the courts of a Contracting State for such provisional, including protective, measures as may be available under the law of that State, even if, under this Convention, the courts of another Contracting State have jurisdiction as to the substance of the matter.
+Application may be made to the courts of a State bound by this Convention for such provisional, including protective, measures as may be available under the law of that State, even if, under this Convention, the courts of another State bound by this Convention have jurisdiction as to the substance of the matter.
 
 TITLE III
 
 RECOGNITION AND ENFORCEMENT
 
-ARTICLE 25
+Article 32
 
-For the purposes of this Convention, “judgement” means any judgment given by a court or tribunal of a Contracting State, whatever the judgment may be called, including a decree, order, decision or writ of execution, as well as the determination of costs or expenses by an officer of the court.
+For the purposes of this Convention, ‘judgment’ means any judgment given by a court or tribunal of a State bound by this Convention, whatever the judgment may be called, including a decree, order, decision or writ of execution, as well as the determination of costs or expenses by an officer of the court.
 
-Section 1
+SECTION 1
 
-Recognition
+Recognition Article 33
 
-ARTICLE 26
+1.  A judgment given in a State bound by this Convention shall be recognised in the other States bound by this Convention without any special procedure being required.
 
-A judgment given in a Contracting State shall be recognised in the other Contracting States without any special procedure being required.
+2.  Any interested party who raises the recognition of a judgment as the principal issue in a dispute may, in accordance with the procedures provided for in Sections 2 and 3 of this Title, apply for a decision that the judgment be recognised.
 
-Any interested party who raises the recognition of a judgement as the principal issue in a dispute may, in accordance with the procedures provided for in Sections 2 and 3 of this Title, apply for a decision that the judgment be recognised.
+3.  If the outcome of proceedings in a court of a State bound by this Convention depends on the determination of an incidental question of recognition that court shall have jurisdiction over that question.
 
-If the outcome of proceedings in a court of a Contracting State depends on the determination of an incidental question of recognition that court shall have jurisdiction over that question.
-
-ARTICLE 27
+Article 34
 
 A judgment shall not be recognised:
 
-Civil Jurisdiction and Judgments
+1.  if such recognition is manifestly contrary to public policy in the State in which recognition is sought;
 
-1993-29
+2.  where it was given in default of appearance, if the defendant was not served with the document which instituted the proceedings or with an equivalent document in sufficient time and in such a way as to enable him to arrange for his defence, unless the defendant failed to commence proceedings to challenge the judgment when it was possible for him to do so;
 
-1. if such recognition is contrary to public policy in the State in which recognition is sought;
+3.  if it is irreconcilable with a judgment given in a dispute between the same parties in the State in which recognition is sought;
 
-2. where it was given in default of appearance, if the defendant was not duly served with the document which instituted the proceedings or with equivalent document in sufficient time to enable him to arrange for his defence;
+4.  if it is irreconcilable with an earlier judgment given in another State bound by this Convention or in a third State involving the same cause of action and between the same parties, provided that the earlier judgment fulfils the conditions necessary for its recognition in the State addressed.
 
-3. if the judgment is irreconcilable with a judgment given in a dispute between the same parties in the State in which recognition is sought;
+Article 35
 
-4. if the court of the State of origin, in order to arrive at its judgment, has decided a preliminary question concerning the status or legal capacity of natural persons, rights in property arising out of a matrimonial relationship, wills or succession in a way that conflicts with a rule on the private international law of the State in which the recognition sought, unless the same result would have been reached by the application of the rules of private international law of that State;
+1.  Moreover, a judgment shall not be recognised if it conflicts with Sections 3, 4 or 6 of Title II, or in a case provided for in Article 68. A judgment may furthermore be refused recognition in any case provided for in Article 64(3) or 67(4).
 
-5. if the judgment is irreconcilable with an earlier judgment given in non- contracting State involving the same cause of action and between the same parties, provided that this latter judgment fulfils the condition necessary for its recognition in the State addressed.
+2.  In its examination of the grounds of jurisdiction referred to in the foregoing paragraph, the court or authority applied to shall be bound by the findings of fact on which the court of the State of origin based its jurisdiction.
 
-ARTICLE 28
+3.  Subject to the provisions of paragraph 1, the jurisdiction of the court of the State of origin may not be reviewed. The test of public policy referred to in Article 34(1) may not be applied to the rules relating to jurisdiction.
 
-Moreover, a judgment shall not be recognised if it conflicts with the provisions of Sections 3, 4 or 5 of Title II or in a case provided for Article 59.
+Article 36
 
-A judgment may furthermore-be refused recognition in any case provided for Article 54B(3) or 57(4).
+Under no circumstances may a foreign judgment be reviewed as to its substance.
 
-In its examination of the grounds of jurisdiction referred to in the foregoing paragraphs, the court or authority applied to shall be bound by the findings of fact on which the court of the State of origin based its jurisdiction.
+Article 37
 
-Subject to the provisions of the first and second paragraphs, the jurisdiction of the court of the State of origin may not be reviewed; the test of public policy referred to in Article 27(1) may not be applied to the rules relating to jurisdiction.
+1.  A court of a State bound by this Convention in which recognition is sought of a judgment given in another State bound by this Convention may stay the proceedings if an ordinary appeal against the judgment has been lodged.
 
-ARTICLE 29
+2.  A court of a State bound by this Convention in which recognition is sought of a judgment given in Ireland or the United Kingdom may stay the proceedings if enforcement is suspended in the State of origin, by reason of an appeal.
 
-Civil Jurisdiction and Judgments
-
-1993-29 Under no circumstances may a foreign judgment be reviewed as to its substance.
-
-ARTICLE 30
-
-A court of a Contracting State in which recognition is sought of a judgment given in another Contracting State may stay the proceedings if an ordinary appeal against the judgment has been lodged.
-
-A court of a Contracting State in which recognition is sought of a judgment given in Ireland or the United Kingdom may stay the proceedings if enforcement is suspended in the State of origin by reason of an appeal.
-
-Section 2.
+SECTION 2
 
 Enforcement
 
-ARTICLE 31
+Article 38
 
-A judgment given in a Contracting State and enforceable in that State shall be enforced in another Contracting State when, on the application of any interested party, it has been declared enforceable there.
+1.  A judgment given in a State bound by this Convention and enforceable in that State shall be enforced in another State bound by this Convention when, on the application of any interested party, it has been declared enforceable there.
 
-However, in the United Kingdom, such a judgment shall be enforced in England and Wales, in Scotland, or in Northern Ireland when, on the application of any interested party, it has been registered for enforcement in that part of the United Kingdom.
+2.  However, in the United Kingdom, such a judgment shall be enforced in England and Wales, in Scotland, or in Northern Ireland when, on the application of any interested party, it has been registered for enforcement in that part of the United Kingdom.
 
-ARTICLE 32
+Article 39
 
-1. The application shall be submitted:
+1.  The application shall be submitted to the court or competent authority indicated in the list in Annex II.
 
-- in Belgium, to the tribunal de premiere instance or rechtbank van eerste aanleg,
+2.  The local jurisdiction shall be determined by reference to the place of domicile of the party against whom enforcement is sought, or to the place of enforcement.
 
-- in Denmark, to the byret,
+Article 40
 
-- in The Republic of Germany, to the presiding judge of a chamber of the Landgericht,
+1.  The procedure for making the application shall be governed by the law of the State in which enforcement is sought.
 
-- in Spain, to the Juzgado de Primera Instancia,
+2.  The applicant must give an address for service of process within the area of jurisdiction of the court applied to. However, if the law of the State in which enforcement is sought does not provide for the furnishing of such an address, the applicant shall appoint a representative ad litem.
 
-- in France, to the presiding judge of the tribunal de grande instance,
+3.  The documents referred to in Article 53 shall be attached to the application.
 
-- in Greece, to the í,
+Article 41
 
-Civil Jurisdiction and Judgments
+The judgment shall be declared enforceable immediately on completion of the formalities in Article 53 without any review under Articles 34 and 35. The party against whom enforcement is sought shall not at this stage of the proceedings be entitled to make any submissions on the application.
 
-1993-29 - in Ireland, to the High Court,
+Article 42
 
-- in Iceland, to the hérasdómari,
+1.  The decision on the application for a declaration of enforceability shall forthwith be brought to the notice of the applicant in accordance with the procedure laid down by the law of the State in which enforcement is sought.
 
-- in Italy, to the corte d’appello,
+2.  The declaration of enforceability shall be served on the party against whom enforcement is sought, accompanied by the judgment, if not already served on that party.
 
-- in Luxembourg, to the presiding judge of the tribunal darrondissement,
+Article 43
 
-- in the Netherlands, to the presiding judge of the arrondissementsrechtbank,
+1.  The decision on the application for a declaration of enforceability may be appealed against by either party.
 
-- in Norway, to the herredsrett or byrett as namsrett,
+2.  The appeal is to be lodged with the court indicated in the list in Annex III.
 
-- in Austria, to the Landesgericht or the Kreisgericht,
+3.  The appeal shall be dealt with in accordance with the rules governing procedure in contradictory matters.
 
-- in Portugal, to the Tribunal Judicial de Circulo,
+4.  If the party against whom enforcement is sought fails to appear before the appellate court in proceedings concerning an appeal brought by the applicant, Article 26(2) to (4) shall apply even where the party against whom enforcement is sought is not domiciled in any of the States bound by this Convention.
 
-- in Switzerland:
+5.  An appeal against the declaration of enforceability is to be lodged within one month of service thereof. If the party against whom enforcement is sought is domiciled in a State bound by this Convention other than that in which the declaration of enforceability was given, the time for appealing shall be two months and shall run from the date of service, either on him in person or at his residence. No extension of time may be granted on account of distance.
 
-(a) in respect of judgments ordering the payment of a sum of money, to the juge de Ia mainlevée/Rechtsöffnungsrichter/giudice competente a pronunciare sul rigetto dell’opposizione, within the framework of the procedure governed by Articles 80 and 81 of the loi federale sur la poursuite pour dettes et la faillite/Bundesgesetz über Schuldbetreibung und Konkurs/legge federale sulla esecuzione e sul fallimento;
+Article 44
 
-(b) in respect of judgments ordering a performance other than the payment of a sum of money, to the juge cantonal dexequatur compétent/zuständiger kantonaler Vollstreckungsrichter/giudice cantonale competente a pronunciare l’exequatur,
+The judgment given on the appeal may be contested only by the appeal referred to in Annex IV.
 
-- in Finland, to the ulosotonhaltija/överexekutor,
+Article 45
 
-– in Sweden, to the Svea hovrätt,
+1.  The court with which an appeal is lodged under Article 43 or Article 44 shall refuse or revoke a declaration of enforceability only on one of the grounds specified in Articles 34 and 35. It shall give its decision without delay.
 
-- in the United Kingdom:
+2.  Under no circumstances may the foreign judgment be reviewed as to its substance.
 
-(a) in England and Wales, to the High Court of Justice, or in the case of a maintenance judgment to the Magistrate’s Court on transmission by the Secretary of State;
+Article 46
 
-(b) in Scotland, to the Court of Session, or in the case of a maintenance judgment to the Sheriff Court on transmission by the Secretary of State;
+1.  The court with which an appeal is lodged under Article 43 or Article 44 may, on the application of the party against whom enforcement is sought, stay the proceedings if an ordinary appeal has been lodged against the judgment in the State of origin or if the time for such an appeal has not yet expired; in the latter case, the court may specify the time within which such an appeal is to be lodged.
 
-Civil Jurisdiction and Judgments
+2.  Where the judgment was given in Ireland or the United Kingdom, any form of appeal available in the State of origin shall be treated as an ordinary appeal for the purposes of paragraph 1.
 
-1993-29
+3.  The court may also make enforcement conditional on the provision of such security as it shall determine.
 
-(c) in Northern Ireland, to the High Court of Justice, or in the case of a maintenance judgment to the Magistrates' Court on transmission by the Secretary of State.
+Article 47
 
-2. The jurisdiction of local courts shall be determined by reference to the place of domicile of the party against whom enforcement is sought. If he is not domiciled in the State in which enforcement is sought, it shall be determined by reference to the place of enforcement.
+1.  When a judgment must be recognised in accordance with this Convention, nothing shall prevent the applicant from availing himself of provisional, including protective, measures in accordance with the law of the State requested without a declaration of enforceability under Article 41 being required.
 
-ARTICLE 33
+2.  The declaration of enforceability shall carry with it the power to proceed to any protective measures.
 
-The procedure for making the application shall be governed by the law of the State in which enforcement is sought. The applicant must give an address for service of process within the area of jurisdiction of the court applied to. However, if the law of the State in which enforcement is sought does not provide for the furnishing of such an address, the applicant shall appoint a representative  ad litem.
+3. During the time specified for an appeal pursuant to Article 43(5) against the declaration of enforceability and until any such appeal has been determined, no measures of enforcement may be taken other than protective measures against the property of the party against whom enforcement is sought.
 
-The documents referred to in Articles 46 and 47 shall be attached to the application.
+Article 48
 
-ARTICLE 34
+1.  Where a foreign judgment has been given in respect of several matters and the declaration of enforceability cannot be given for all of them, the court or competent authority shall give it for one or more of them.
 
-The court applied to shall give its decision without delay; the party against whom enforcement is sought shall not at this stage of the proceedings be entitled to make any submissions on the applicat.
+2.  An applicant may request a declaration of enforceability limited to parts of a judgment.
 
-The application may be refused only for one of the reasons specified in Articles 27 and 28.
-
-Under no circumstances may the foreign judgment be reviewed as to its substance.
-
-ARTICLE 35
-
-The appropriate officer of the court shall without delay bring the decision given on the application to the notice of the applicant in accordance with the procedure laid down by the law of the State in which enforcement is sought.
-
-ARTICLE 36
-
-If enforcement is authorised, the party against whom enforcement is sought may appeal against the decision within one month of service thereof.
-
-If that party is domiciled in a Contracting State other than that in which the decision authorising enforcement was given, the time for appealing shall be two months and shall run from the date of service, either on him in person or
-
-Civil Jurisdiction and Judgments
-
-1993-29 at his residence. No extension of time may be granted on account of distance.
-
-ARTICLE 37
-
-1. An appeal against the decision authorising enforcement shall be lodged in accordance with the rules governing procedure in contentious matters:
-
-- in Belgium, with the tribunal de première instance or rechtbank van eerste aanleg,
-
-- in Denmark, with the landsret,
-
-- in the federal Republic of Germany, with the Oberlandesgerichy,
-
-- in Greece, with the ,
-
-- in Spain, with the Audiencia Provincial,
-
-- in France, with the cour d’appel,
-
-- in Ireland, with the High Court,
-
-- in Iceland, with the hérasdómari,
-
-- in Italy, with the corte d’appello,
-
-- in Luxembourg, with the Cour supérieure de justice sitting as a court of civil appeal,
-
-- in the Netherlands, with the arrondissementsrechtbank in Norway, with the lagmannsrett,
-
-- in Austria, with the Landesgericht or the Kreisgericht,
-
-- in Portugal, with the Tribunal da Relaçao,
-
-- in Switzerland, with the tribunal cantonacKantonsgericht/tribunale cantonale,
-
-- in Finland, with the hoviokeus/hovrätt,
-
--  in Sweden, with the Svea hovrätt,
-
--  in the United Kingdom:
-
-Civil Jurisdiction and Judgments
-
-1993-29 (a)  in England and Wales, with the High Court of Justice, or in the case of a maintenance judgment with the Magistrate’s Court,
-
-(b) in Scotland, with the Court of Session, or in the case of a maintenance judgment with the Sheriff Court,
-
-(c) in Northern Ireland, with the High Court of Justice, or in the case of a maintenance judgment with the Magistrates’ Court.
-
-2. The judgment given on the appeal may be contested only:
-
-- in Belgium, Greece, Spain, France, Italy, Luxembourg and in the Netherlands, by an appeal in cassation,
-
-– in Denmark, by an appeal to the højesteret, with the leave of the Minister of Justice,
-
-- in the Federal Republic of Germany, by a Rechtsbeschwerde,
-
-- in Ireland, by an appeal on a point of law to the Supreme Court,
-
-- in Iceland, by an appeal to the Haestiréttur,
-
-- in Norway, by an appeal (kjaeremal or anke) to the Hoyesteretts Kjaeremalsutvalg or Hoyesterett,
-
-- in Austria, in the case of an appeal, by a Revisionsrekurs and, in the case of opposition proceedings, by a Berufung with the Possibility of a Revision,
-
-- in Portugal, by an appeal on a point of law,
-
-- In Switzerland, by a recours de droit public devant le tribunal fédéral/staats-rechtliche Beschwerde beim Bundesgericht/ricorso de diritto pubblico davanti al tribunale federale,
-
-- in Finland, by an appeal to the korkein oikeus/högsta domstolen,
-
-- in Sweden, be an appeal to the högsta domstolen,
-
-- in the United Kingdom, by a single further appeal on a point of law.
-
-ARTICLE 38
-
-The court with which the appeal under Article 37(1) is lodged may, on the application of the appellant, stay the proceedings if an ordinary appeal has
-
-Civil Jurisdiction and Judgments
-
-1993-29 been lodged against the judgment in the State of origin or if the time for such an appeal has not yet expired; in the latter case, the court may specify the time within which such an appeal is to be lodged.
-
-Where the judgment was given in Ireland or the United Kingdom, any form of appeal available in the State of origin shall be treated as an ordinary appeal for the purposes of the first paragraph.
-
-The court may also make enforcement conditional on the provision of such security as it shall determine.
-
-ARTICLE 39
-
-During the time specified for an appeal pursuant to Article 36 and until any such appeal has been determined, no measures of enforcement may be taken other than protective measures taken against the property of the party against whom enforcement is sought.
-
-The decision authorising enforcement shall carry with it the power to proceed to any such protective measures.
-
-ARTICLE 40
-
-1. If the application for enforcement is refused, the applicant may appeal:
-
-- in Belgium, to the cour d’appel or hof van beroep,
-
-- in Denmark, to the landsret,
-
-- in the Federal Republic of Germany, to the Oberlandesgericht,
-
-- in Greece, to the ,
-
-- in Spain, to the Audiencia Provincial,
-
-- in France, to the cour d’appel,
-
-- in Ireland, to the High Court,
-
-- in Iceland, to the héraosdómari,
-
-- in Italy, to the corte d’appello,
-
-- in Luxembourg, to the Cour supérieure de justice sitting as a court of civil appeal,
-
-- in the Netherlands, to the gerechtshof,
-
-Civil Jurisdiction and Judgments
-
-1993-29
-
-- in Norway, to the lagmannsrett,
-
-- in Austria, to the Landesgericht or the Kreisgericht,
-
-- in Portugal, to the Tribunal da Relaçao,
-
-- in Switzerland, to the tribunal cantonal/Kantonsgericht/tribunale,
-
-- in Finland, to the hovioikeus/hovrätt,
-
-- in Sweden, to the Svea hovrätt,
-
-- in the United Kingdom:
-
-(a) in England and Wales, to the High Court of Justice, or in the case of a maintenance judgment to the Magistrate’s Court;
-
-(b)  in Scotland, to the Court of Session, or in the case of a maintenance  judgment   to the Sheriff Court;
-
-(c) in Northern Ireland, to the High Court of Justice, or in the case of a maintenance judgment to the Magistrate’s Court.
-
-2. The party against whom enforcement is sought shall be summoned to appear before the appellate court. If he fails to appear, the provisions of the second and third paragraphs of Article 20 shall apply even where he is not domiciled in any of the Contracting States.
-
-ARTICLE 41
-
-A judgment given on an appeal provided for in Article 40 may be contested only:
-
-- in Belgium, Greece, Spain, France, Italy, Luxembourg and in the Netherlands, by an appeal in cassation,
-
-- in Denmark, by an appeal to the højesteret with the leave of the Minister of Justice,
-
-- in the Federal Republic of Germany, by a Rechtsbeschwerde,
-
-- in Ireland, by an appeal on a point of law to the Supreme Court.
-
-- in Iceland, by an appeal to the Haestiréttur,
-
-Civil Jurisdiction and Judgments
-
-1993-29 - in Norway, by an appeal (kjaeremal or anke) to the Hoyesteretts kjaeremalsutvalg or Hoyesterett,
-
-- in Austria, by a Revisionsrekurs,
-
-- in Portugal, by an appeal on a point of law,
-
-- in Switzerland, by a recours de droit public devant le tribunal fédéral/staats-rechtliche Beschwerde beim Bundesgericht/ricorso di diritto pubblico davanti al tribunale federale,
-
-- in Finland, by an appeal to the korkein oikeus/högsta domstolen,
-
-- in Sweden, by an appeal to the högsta domstolen,
-
-- in the United Kingdom, by a single further appeal on a point of law.
-
-ARTICLE 42
-
-Where a foreign judgment has been given in respect of several matters and enforcement cannot be authorised for all of them, the court shall authorise enforcement for one or more of them.
-
-An applicant may request partial enforcement of a judgment.
-
-ARTICLE 43
+Article 49
 
 A foreign judgment which orders a periodic payment by way of a penalty shall be enforceable in the State in which enforcement is sought only if the amount of the payment has been finally determined by the courts of the State of origin.
 
-ARTICLE 44
+Article 50
 
-An applicant who, in the State of origin, has benefitted from complete or partial legal aid or exemption from costs or expenses, shall be entitled, in the procedures provided for in Articles 32 to 35, to benefit from the most favourable legal aids or the most extensive exemption from costs or expenses provided for by the law of the State addressed.
+1.  An applicant who in the State of origin has benefited from complete or partial legal aid or exemption from costs or expenses shall be entitled, in the procedure provided for in this Section, to benefit from the most favourable legal aid or the most extensive exemption from costs or expenses provided for by the law of the State addressed.
 
-However, an applicant who requests the enforcement of a decision given by an administrative authority in Denmark or in Iceland in respect of a maintenance order may, in the State addressed, claim the benefits referred to in the first paragraph if he presents a statement from, respectively, the Danish Ministry of Justice or the Icelandic Ministry of Justice to the effect
+2.  However, an applicant who requests the enforcement of a decision given by an administrative authority in Denmark, in Iceland or in Norway in respect of maintenance may, in the State addressed, claim the benefits referred to in paragraph 1 if he presents a statement from the Danish, Icelandic, or Norwegian Ministry of Justice to the effect that he fulfils the economic requirements to qualify for the grant of complete or partial legal aid or exemption from costs or expenses.
 
-Civil Jurisdiction and Judgments
+Article 51
 
-1993-29 that he fulfills the economic requirements to qualify for the grant of complete or partial legal aid or exemption from costs or expenses.
+No security, bond or deposit, however described, shall be required of a party who in one State bound by this Convention, applies for enforcement of a judgment given in another State bound by this Convention on the ground that he is a foreign national or that he is not domiciled or resident in the State in which enforcement is sought.
 
-ARTICLE 45
+Article 52
 
-No security, bond or deposit, however described, shall be required of a party who in one Contracting State applies for enforcement of a judgment given in another Contracting State on the ground that he is a foreign national or that he is not domiciled or resident in the State in which enforcement is sought.
+In proceedings for the issue of a declaration of enforceability, no charge, duty or fee calculated by reference to the value of the matter at issue may be levied in the State in which enforcement is sought.
 
-Section 3
+SECTION 3
 
 Common provisions
 
-ARTICLE 46
+Article 53
 
-A party seeking recognition or applying for enforcement of a judgment shall produce:
+1.  A party seeking recognition or applying for a declaration of enforceability shall produce a copy of the judgment which satisfies the conditions necessary to establish its authenticity.
 
-1. a copy of the judgment which satisfies the conditions necessary to establish its authenticity;
+2.  A party applying for a declaration of enforceability shall also produce the certificate referred to in Article 54, without prejudice to Article 55.
 
-2. in the case of a judgment given in default, the original or a certified true copy of the document which establishes that the party in default was served with the document instituting the proceedings or with an equivalent document.
+Article 54
 
-ARTICLE 47
+The court or competent authority of a State bound by this Convention where a judgment was given shall issue, at the request of any interested party, a certificate using the standard form in Annex V to this Convention.
 
-A party applying for enforcement shall also produce:
+Article 55
 
-1. documents which establish that according to the law of the State of origin, the judgment is enforceable and has been served;
+1.  If the certificate referred to in Article 54 is not produced, the court or competent authority may specify a time for its production or accept an equivalent document or, if it considers that it has sufficient information before it, dispense with its production.
 
-2. where appropriate, a document showing that the applicant is in receipt of legal aid in the State of origin.
+2.  If the court or competent authority so requires, a translation of the documents shall be produced. The translation shall be certified by a person qualified to do so in one of the States bound by this Convention.
 
-ARTICLE 48
+Article 56
 
-If the documents specified in Article 46(2) and Article 47(2) are not produced, the court may specify a time for their production, accept equivalent documents or, if it considers that it has sufficient information before it, dispense with their production.
-
-Civil Jurisdiction and Judgments
-
-1993-29 If the court so requires, a translation of the documents shall be produced; the translation shall be certified by a person qualified to do so in one of the Contracting States.
-
-ARTICLE 49
-
-No legislation or other similar formality shall be required in respect of the documents referred to in Articles 46 or 47 or the second paragraph of Article 48, or in respect of a document appointing a representative ad litem.
+No legalisation or other similar formality shall be required in respect of the documents referred to in Article 53 or Article 55(2), or in respect of a document appointing a representative ad litem.
 
 TITLE IV
 
 AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS
 
-ARTICLE 50
+Article 57
 
-A document which has been formally drawn up or registered as an authentic instrument and is enforceable in one Contracting State shall, in another Contracting State, be declared enforceable there, on application made in accordance with the procedures provided for in Article 31 et seq. The application may be refused only if enforcement of the instrument is contrary to public policy in the State addressed.
+1.  A document which has been formally drawn up or registered as an authentic instrument and is enforceable in one State bound by this Convention shall, in another State bound by this Convention, be declared enforceable there, on application made in accordance with the procedures provided for in Article 38, et seq. The court with which an appeal is lodged under Article 43 or Article 44 shall refuse or revoke a declaration of enforceability only if enforcement of the instrument is manifestly contrary to public policy in the State addressed.
 
-The instrument produced must satisfy the conditions necessary to establish its authenticity in the State of origin.
+2.  Arrangements relating to maintenance obligations concluded with administrative authorities or authenticated by them shall also be regarded as authentic instruments within the meaning of paragraph 1.
 
-The provisions of Section 3 of Title III shall apply as appropriate.
+3.  The instrument produced must satisfy the conditions necessary to establish its authenticity in the State of origin.
 
-ARTICLE 51
+4.  Section 3 of Title III shall apply as appropriate. The competent authority of a State bound by this Convention where an authentic instrument was drawn up or registered shall issue, at the request of any interested party, a certificate using the standard form in Annex VI to this Convention.
 
-A settlement which has been approved by a court in the course of proceedings and is enforceable in the State in which it was concluded shall be enforceable in the State addressed under the same conditions as authentic instruments.
+Article 58
+
+A settlement which has been approved by a court in the course of proceedings and is enforceable in the State bound by this Convention in which it was concluded shall be enforceable in the State addressed under the same conditions as authentic instruments. The court or competent authority of a State bound by this Convention where a court settlement was approved shall issue, at the request of any interested party, a certificate using the standard form in Annex V to this Convention.
 
 TITLE V
 
 GENERAL PROVISIONS
 
-ARTICLE 52
+Article 59
 
-In order to determine whether a party is domiciled in the Contracting State whose courts are seised of a matter, the Court shall apply its internal law.
+1.  In order to determine whether a party is domiciled in the State bound by this Convention whose courts are seised of a matter, the court shall apply its internal law.
 
-Civil Jurisdiction and Judgments
+2.  If a party is not domiciled in the State whose courts are seised of the matter, then, in order to determine whether the party is domiciled in another State bound by this Convention, the court shall apply the law of that State.
 
-1993-29 If a party is not domiciled in the State whose Courts are seised of the matter, then, in order to determine whether the party is domiciled in another Contracting State, the court shall apply the law of that State.
+Article 60
 
-ARTICLE 53
+1.  For the purposes of this Convention, a company or other legal person or association of natural or legal persons is domiciled at the place where it has its:
 
-For the purposes of this Convention, the seat of a company or other legal person or association of natural or legal persons shall be treated as its domicile. However, in order to determine that seat, the court shall apply its rules of private international law.
+(a) statutory seat; or
 
-In order to determine whether a trust is domiciled in the Contracting State whose courts are seised of the matter, the court shall apply its rules of private international law.
+(b) central administration; or
+
+(c) principal place of business.
+
+2.  For the purposes of the United Kingdom and Ireland ‘statutory seat’ means the registered office or, where there is no such office anywhere, the place of incorporation or, where there is no such place anywhere, the place under the law of which the formation took place.
+
+3.  In order to determine whether a trust is domiciled in the State bound by this Convention whose courts are seised of the matter, the court shall apply its rules of private international law.
+
+Article 61
+
+Without prejudice to any more favourable provisions of national laws, persons domiciled in a State bound by this Convention who are being prosecuted in the criminal courts of another State bound by this Convention of which they are not nationals for an offence which was not intentionally committed may be defended by persons qualified to do so, even if they do not appear in person. However, the court seised of the matter may order appearance in person; in the case of failure to appear, a judgment given in the civil action without the person concerned having had the opportunity to arrange for his defence need not be recognised or enforced in the other States bound by this Convention.
+
+Article 62
+
+For the purposes of this Convention, the expression ‘court’ shall include any authorities designated by a State bound by this Convention as having jurisdiction in the matters falling within the scope of this Convention.
 
 TITLE VI
 
 TRANSITIONAL PROVISIONS
 
-ARTICLE 54
+Article 63
 
-The provisions of this Convention shall apply only to legal proceedings instituted and to documents formally drawn up or registered as authentic instruments after its entry into force in the State of origin and, where recognition or enforcement of a judgment or authentic instrument is sought, in the State addressed.
+1.  This Convention shall apply only to legal proceedings instituted and to documents formally drawn up or registered as authentic instruments after its entry into force in the State of origin and, where recognition or enforcement of a judgment or authentic instruments is sought, in the State addressed.
 
-However, judgments given after the date of entry into force of this Convention between the State of origin and the State addressed in proceedings instituted before that date shall be recognised and enforced in accordance with the provisions of Title III if jurisdiction was founded upon rules which accorded with those provided for either in Title II of this Convention or in a convention concluded between the State of origin and the State addressed which was in force when the proceedings were instituted.
+2.  However, if the proceedings in the State of origin were instituted before the entry into force of this Convention, judgments given after that date shall be recognised and enforced in accordance with Title III:
 
-If the parties to a dispute concerning a contract had agreed in writing before the entry into force of this Convention that the contract was to be governed by the law of Ireland or of a part of the United Kingdom, the courts of Ireland or of that part of the United Kingdom shall retain the right to exercise jurisdiction in the dispute.
+(a) if the proceedings in the State of origin were instituted after the entry into force of the Lugano Convention of 16 September 1988 both in the State of origin and in the State addressed;
 
-ARTICLE 54A
-
-For a period of three years from the entry into force of this Convention for Denmark, Greece, Ireland, Iceland, Norway, Finland and Sweden, respectively, jurisdiction in maritime matters shall be determined in these
-
-Civil Jurisdiction and Judgments
-
-1993-29 States not only in accordance with the provisions of Title II, but also in accordance with the provisions of paragraphs 1 to 7 following. However, upon the entry into force of the International Convention relating to the arrest of sea-going ships, signed at Brussels on 10 May 1952, for one of these States these provisions shall cease to have effect for that State.
-
-1. A person who is domiciled in a Contracting State may be sued in the courts of one of the States mentioned above in respect of a maritime claim if the ship to which the claim relates or any other ship owned by him has been arrested by judicial process within the territory of the latter State to secure the claim, or could have been so arrested there but bail or other security has been given, and either:
-
-(a) the claimant is domiciled in the latter State; or
-
-(b) the claim arose in the latter State; or
-
-(c) the claim concerns the voyage during which the arrest was made or could have been made; or
-
-(d) the claim arises out of a collision or out of damage caused by a ship to another ship or to goods or persons on board either ship, either by the execution or non execution of a manoeuvre or by the non observance of regulations; or
-
-(e) the claim is for salvage; or
-
-(f) the claim is in respect of a mortgage or hypothecation of the ship arrested.
-
-2. A claimant may arrest either the particular ship to which the maritime claim relates, or any other ship which is owned by the person who was, at the time when the maritime claim arose, the owner of the particular ship. However, only the particular ship to which the maritime claim relates may be arrested in respect of the maritime claims set out under 5(o), (p) or (q) of this Article.
-
-3. Ships shall be deemed to be in the same ownership when all the shares therein are owned by the same person or persons.
-
-4. When in the case of a charter by demise of a ship the charterer alone is liable in respect of a maritime claim relating to that ship, the claimant may arrest that ship or any other ship owned by the charterer, but no other ship owned by the owners may be arrested in respect of such claim. The same shall apply to any case in which a person other than the owner of a ship is liable in respect of a maritime claim relating to that ship.
-
-Civil Jurisdiction and Judgments
-
-1993-29
-
-5. The expression “maritime claim” means a claim arising out of one or more of the following:
-
-(a) damage caused by any ship either in collision or otherwise;
-
-(b)  loss of life or personal injury caused by any ship or occurring in connection with the operation on any ship;
-
-(c) salvage;
-
-(d) agreement relating to the use or hire of any ship whether by charterparty or otherwise;
-
-(e) agreement relating to the carriage of goods in any ship whether by charterparty or otherwise;
-
-(f) loss of or damage to goods including baggage carried in any ship;
-
-(g) general average;
-
-(h) bottomry;
-
-(i) towage;
-
-(j) pilotage;
-
-(k) goods or materials wherever supplied to a ship for her operation or maintenance;
-
-(I) construction, repair or equipment of any ship or dock charges and dues;
-
-(m) wages of masters, officers or crew;
-
-(n) master’s disbursements, including disbursements made by shippers, charterers or agents on behalf of a ship or her owner;
-
-(o) dispute as to the title to or ownership of any ship;
-
-(p) disputes between co-owners of any ship as to the ownership, possession, employment or earnings of that ship;
-
-(q) the mortgage or hypothecation of any ship.
-
-Civil Jurisdiction and Judgments
-
-1993-29 6. In Denmark, the expression “arrest” shall be deemed as regards the maritime claims referred to under 5(o) and (p) of this Article, to include a “forbud”, where that is the only procedure allowed in respect of such a claim under Articles 646 to 653 of the law on civil procedure (lov om terrens pleje).
-
-7. In Iceland, the expression “arrest” shall be deemed, as regards the maritime claims referred to under 5(o) and (p) of this Article, to include a “lögbann”, where that is the only procedure allowed in respect of such a claim under Chapter III of the law on arrest and injunction (lög urn kyrrsetningu og lögbann).
+(b) in all other cases, if jurisdiction was founded upon rules which accorded with those provided for either in Title II or in a convention concluded between the State of origin and the State addressed which was in force when the proceedings were instituted.
 
 TITLE VII
 
-RELATIONSHIP TO THE BRUSSELS CONVENTION AND TO OTHER CONVENTIONS
+RELATIONSHIP TO COUNCIL REGULATION (EC) No 44/2001 AND OTHER INSTRUMENTS
 
-ARTICLE 54B
+Article 64
 
-1. This Convention shall not prejudice the application by the Member States of the European Communities of the Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters, signed at Brussels on 27 September 1968 and of the Protocol on interpretation of that Convention by the Court of Justice, signed at Luxembourg on 3 June 1971, as amended by the Conventions of Accession to the said Convention and the said Protocol by the States acceding to the European Communities, all of these Conventions and the Protocol being hereinafter referred to as the “Brussels Convention”.
+1.  This Convention shall not prejudice the application by the Member States of the European Community of the Council Regulation (EC) No 44/2001 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, as well as any amendments thereof, of the Convention on Jurisdiction and the
 
-2. However, this Convention shall in any event be applied:
+Enforcement of Judgments in Civil and Commercial Matters, signed at Brussels on 27 September 1968, and of the Protocol on interpretation of that Convention by the Court of Justice of the European Communities, signed at Luxembourg on 3 June 1971, as amended by the Conventions of Accession to the said Convention and the said Protocol by the States acceding to the European Communities, as well as of the Agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, signed at Brussels on 19 October 2005.
 
-(a) in matters of jurisdiction, where the defendant is domiciled in the territory of a Contracting State which is not a member of the European Communities, or where Articles 16 or 17 of this Convention confer a jurisdiction on the courts of such a Contracting State;
+2.  However, this Convention shall in any event be applied:
 
-(b) in relation to a lis pendens or to related actions as provided for in Articles 21 and 22, when proceedings are instituted in a Contracting State which is not a member of the European Communities and in a Contracting State which is a member of the European Communities;
+(a) in matters of jurisdiction, where the defendant is domiciled in the territory of a State where this Convention but not an instrument referred to in paragraph 1 of this Article applies, or where Articles 22 or 23 of this Convention confer jurisdiction on the courts of such a State;
 
-(c) in matters of recognition and enforcement, where either the State of origin or the State addressed is not a member of the European Communities.
+(b) in relation to lis pendens or to related actions as provided for in Articles 27 and 28, when proceedings are instituted in a State where the Convention but not an instrument referred to in paragraph 1 of this Article applies and in a State where this Convention as well as an instrument referred to in paragraph 1 of this Article apply;
 
-Civil Jurisdiction and Judgments
+(c) in matters of recognition and enforcement, where either the State of origin or the State addressed is not applying an instrument referred to in paragraph 1 of this Article.
 
-1993-29
+3.  In addition to the grounds provided for in Title III, recognition or enforcement may be refused if the ground of jurisdiction on which the judgment has been based differs from that resulting from this Convention and recognition or enforcement is sought against a party who is domiciled in a State where this Convention but not an instrument referred to in paragraph 1 of this Article applies, unless the judgment may otherwise be recognised or enforced under any rule of law in the State addressed.
 
-3. In addition to the grounds provided for in Title III recognition or enforcement may be refused if the ground of jurisdiction on which that judgment has been based differs from that resulting from this Convention and recognition or enforcement is sought against a party who is domiciled in a Contracting State which is not a member of the European Communities, unless the judgment may otherwise be recognised or enforced under any rule of law in the State addressed.
+Article 65
 
-ARTICLE 55
+Subject to the provisions of Articles 63(2), 66 and 67, this Convention shall, as between the States bound by this Convention, supersede the conventions concluded between two or more of them that cover the same matters as those to which this Convention applies. In particular, the conventions mentioned in Annex VII shall be superseded.
 
-Subject to the provisions of the second paragraph of Article 54(2) and of Article 56, this Convention shall, for the States which are parties to it, supersede the following conventions concluded between two or more of them:
+Article 66
 
-- the Convention between the Swiss Confederation and France on jurisdiction and enforcement of judgments in civil matters, signed at Paris on 15 June 1869,
+1.  The conventions referred to in Article 65 shall continue to have effect in relation to matters to which this Convention does not apply.
 
-- the Treaty between the Swiss Confederation and Spain on the mutual enforcement of judgments in civil or commercial matters, signed at Madrid on 19 November 1896,
+2.  They shall continue to have effect in respect of judgments given and documents formally drawn up or registered as authentic instruments before the entry into force of this Convention.
 
-- the Convention between the Swiss Confederation and the German Reich on the recognition and enforcement of judgments and arbitration awards, signed at Berne on 2 November 1929,
+Article 67
 
-- the Convention between Denmark, Finland, Iceland, Norway and Sweden on the recognition and enforcement of judgments, signed at Copenhagen on 16 March 1932,
+1.  This Convention shall not affect any conventions by which the Contracting Parties and/or the States bound by this Convention are bound and which in relation to particular matters, govern jurisdiction or the recognition or enforcement of judgments. Without prejudice to obligations resulting from other agreements between certain Contracting Parties, this Convention shall not prevent Contracting Parties from entering into such conventions.
 
-- the Convention between the Swiss Confederation and Italy on the recognition and enforcement of judgments, signed at Rome on 3 January 1933,
+2.  This Convention shall not prevent a court of a State bound by this Convention and by a convention on a particular matter from assuming jurisdiction in accordance with that convention, even where the defendant is domiciled in another State bound by this Convention which is not a party to that convention. The court hearing the action shall, in any event, apply Article 26 of this Convention.
 
-- the Convention between Sweden and the Swiss Confederation on the recognition and enforcement of judgments and arbitral awards signed at Stockholm on 15 January 1936,
+3.  Judgments given in a State bound by this Convention by a court in the exercise of jurisdiction provided for in a convention on a particular matter shall be recognised and enforced in the other States bound by this Convention in accordance with Title III of this Convention.
 
-- the Convention between the Kingdom of Belgium and Austria on the reciprocal recognition and enforcement of judgments and authentic instruments relating to maintenance obligations, signed at Vienna on 25 October 1957,
+4.  In addition to the grounds provided for in Title III, recognition or enforcement may be refused if the State addressed is not bound by the convention on a particular matter and the person against whom recognition or enforcement is sought is domiciled in that State, or, if the State addressed is a Member State of the European Community and in respect of conventions which would have to be concluded by the European Community, in any of its Member States, unless the judgment may otherwise be recognised or enforced under any rule of law in the State addressed.
 
-Civil Jurisdiction and Judgments
+5.  Where a convention on a particular matter to which both the State of origin and the State addressed are parties lays down conditions for the recognition or enforcement of judgments, those conditions shall apply. In any event, the provisions of this Convention which concern the procedures for recognition and enforcement of judgments may be applied.
 
-1993-29 - the Convention between the Swiss Confederation and Belgium on the recognition and enforcement of judgments and arbitration awards, signed at Berne on 29 April 1959,
+Article 68
 
-- the Convention between the Federal republic of Germany and Austria on the reciprocal recognition and enforcement of judgments, settlements and authentic instruments in civil and commercial matters, signed at Vienna on 6 June 1959,
+1.  This Convention shall not affect agreements by which States bound by this Convention undertook, prior to the entry into force of this Convention, not to recognise judgments given in other States bound by this Convention against defendants domiciled or habitually resident in a third State where, in cases provided for in Article 4, the judgment could only be founded on a ground of jurisdiction as specified in Article 3(2). Without prejudice to obligations resulting from other agreements between certain Contracting Parties, this Convention shall not prevent Contracting Parties from entering into such conventions.
 
-- the Convention between the Kingdom of Belgium and Austria on the reciprocal recognition and enforcement of judgments, arbitral awards and authentic instruments in civil and commercial matters, signed at Vienna on 16 June 1959,
+2.  However, a Contracting Party may not assume an obligation towards a third State not to recognise a judgment given in another State bound by this Convention by a court basing its jurisdiction on the presence within that State of property belonging to the defendant, or the seizure by the plaintiff of property situated there:
 
-- the Convention between Austria and the Swiss Confederation on the recognition and enforcement of judgments, signed at Berne on 16 December 1960,
+(a) if the action is brought to assert or declare proprietary or possessory rights in that property, seeks to obtain authority to dispose of it, or arises from another issue relating to such property; or
 
-- the Convention between Norway and the United Kingdom providing for the reciprocal recognition and enforcement of judgments in civil matters, signed at London on 12 June 1961,
-
-- the Convention between the United Kingdom and Austria providing for the reciprocal recognition and enforcement of judgments in civil and commercial matters, signed at Vienna on 14 July 1961, with amending Protocol signed at London on 6 March 1970,
-
-- the Convention between the Kingdom of the Netherlands and Austria on the reciprocal recognition and enforcement of judgments and authentic instruments in civil and commercial matters, signed at The Hague on 6 February 1963,
-
-- the Convention between France and Austria on the recognition and enforcement of judgments and authentic instruments in civil and commercial matters, signed at Vienna on 15 July 1966,
-
-- the Convention between Luxembourg and Austria on the recognition and enforcement of judgments and authentic instruments in civil and commercial matters, signed at Luxembourg on 29 July 1971,
-
-- the Convention between Italy and Austria on the recognition and enforcement of judgments in civil and commercial matters, of judicial settlements and of authentic instruments, signed at Rome on 16 November 1971,
-
-Civil Jurisdiction and Judgments
-
-1993-29 - the Convention between Norway and the Federal Republic of Germany on the recognition and enforcement of judgments and enforceable documents, in civil and commercial matters, signed at Oslo on 17 June 1977,
-
-- the Convention between Denmark, Finland, Iceland, Norway and Sweden on the recognition and enforcement of judgments in civil matters, signed at Copenhagen on 11 October 1977,
-
-- the Convention between Austria and Sweden on the recognition and enforcement of judgments in civil matters, signed at Stockholm on 16 September 1982,
-
-- the Convention between Austria and Spain on the recognition and enforcement of judgments, settlements and enforceable authentic instruments in civil and commercial matters, signed at Vienna on 17 February 1984,
-
-- the Convention between Norway and Austria on the recognition and enforcement of judgments in civil matters, signed at Vienna on 21 May 1984, and
-
-- the Convention between Finland and Austria on the recognition and enforcement of judgments in civil matters, signed at Vienna on 17 November 1986.
-
-ARTICLE 56
-
-The Treaty and the conventions referred to in Article 55 shall continue to have effect in relation to matters to which this Convention does not apply.
-
-They shall continue to have effect in respect of judgments given and documents formally drawn up or registered as authentic instruments before the entry into force of this Convention.
-
-ARTICLE 57
-
-1. This Convention shall not affect any conventions to which the Contracting States are or will be parties and which in relation to particular matters, govern jurisdiction or the recognition or enforcement of judgments.
-
-2. This Convention shall not prevent a court of a Contracting State which is party to a convention referred to in the first paragraph from assuming jurisdiction in accordance with that convention, even where the defendant is domiciled in a Contracting State which is not a party to that convention .The court hearing the action shall, in any event, apply Article 20 of this Convention.
-
-Civil Jurisdiction and Judgments
-
-1993-29
-
-3. Judgments given in a Contracting State by a court in the exercise of jurisdiction provided for in a convention referred to in the first paragraph shall be recognised and enforced in the other Contracting States in accordance with Title III of this Convention.
-
-4. In addition to the grounds provided for in Title III, recognition or enforcement may he refused if the State addressed is not a contracting party to a convention referred to in the first paragraph and the person against whom recognition or enforcement is sought is domiciled in that State, unless the judgment may otherwise be recognised or enforced under any rule of law in the State addressed.
-
-5.Where a convention referred to in the first paragraph to which both the State of origin and the State addressed are parties lays down conditions for the recognition or enforcement of judgments, those conditions shall apply. In any event, the provisions of this Convention which concern the procedures for recognition and enforcement of judgments may be applied.
-
-ARTICLE 58
-
-(None)
-
-ARTICLE 59
-
-This Convention shall not prevent a Contracting State from assuming, in a convention on the recognition and enforcement of judgments, an obligation towards a third State not to recognise judgments given in other Contracting States against defendants domiciled or habitually resident in the third State where, in cases provided for in Article 4, the judgment could only be founded on a ground of jurisdiction in the second paragraph of Article 3.
-
-However, a Contracting State may not assume an obligation towards a third State not to recognise a judgment given in another Contracting State by a court basing its jurisdiction on the presence within that State of property belonging to the defendant, or the seizure by the plaintiff of property situated there:
-
-1. if the action is brought to assert or declare proprietary or possessory rights in that property, seeks to obtain authority to dispose of it or arises from another issue relating to such property,
-
-2. if the property constitutes the security for a debt which is the subject- matter of the action.
+(b) if the property constitutes the security for a debt which is the subject-matter of the action.
 
 TITLE VIII
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
 FINAL PROVISIONS
 
-ARTICLE 60
+Article 69
 
-The following may be parties to this Convention:
+1.  The Convention shall be open for signature by the European Community, Denmark, and States which, at the time of the opening for signature, are Members of the European Free Trade Association.
 
-(a) States which, at the time of the opening of this Convention for signature are members of the European Communities or of the European Free Trade Association;
+2.  This Convention shall be subject to ratification by the Signatories. The instruments of ratification shall be deposited with the Swiss Federal Council, which shall act as Depositary of this Convention.
 
-(b) States which, after the opening of this Convention for signature, become members of the European Communities or of the European Free Trade Association;
+3.  At the time of the ratification, the Contracting Parties may submit declarations in accordance with Articles I, II and III of Protocol 1.
 
-(c) States invited to accede in accordance with Article 62(1)(b).
+4.  The Convention shall enter into force on the first day of the sixth month following the date on which the European Community and a Member of the European Free Trade Association deposit their instruments of ratification.
 
-ARTICLE 61
+5.  The Convention shall enter into force in relation to any other Party on the first day of the third month following the deposit of its instrument of ratification.
 
-1. This Convention shall be opened for signature by the States members of the European Communities or of the European Free Trade Association.
+6.  Without prejudice to Article 3(3) of Protocol 2, this Convention shall replace the Convention on jurisdiction and the enforcement of judgments in civil and commercial matters done at Lugano on 16 September 1988 as of the date of its entry into force in accordance with paragraphs 4 and 5 above. Any reference to the 1988 Lugano Convention in other instruments shall be understood as a reference to this Convention.
 
-2. The Convention shall be submitted for ratification by the signatory States. The instruments of ratification shall be deposited with the Swiss Federal Council.
+7.  Insofar as the relations between the Member States of the European Community and the non-European territories referred to in Article 70(1)(b) are concerned, this Convention shall replace the Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters, signed at Brussels on 27 September 1968, and of the Protocol on interpretation of that Convention by the Court of Justice of the European Communities, signed at Luxembourg on 3 June 1971, as amended by the Conventions of Accession to the said Convention and the said Protocol by the States acceding to the European Communities, as of the date of the entry into force of this Convention with respect to these territories in accordance with Arti- cle 73(2).
 
-3. The Convention shall enter into force on the first day of the third month following the date on which two States, of which one is a member of the European Communities and the other a member of the European Free Trade Association, deposit their instruments of ratification.
+Article 70
 
-4. The Convention shall take effect in relation to any other signatory State on the first day of the third month following the deposit of its instrument of ratification.
+1.  After entering into force this Convention shall be open for accession by:
 
-ARTICLE 62
+(a) the States which, after the opening of this Convention for signature, become Members of the European Free Trade Association, under the conditions laid down in Article 71;
 
-1. After entering into force this Convention shall be open to accession by:
+(b) Member States of the European Community acting on behalf of certain non- European territories that are part of the territory of that Member State or for whose external relations that Member State is responsible, under the conditions laid down in Article 71;
 
-(a) the States referred to in Article 60(b),
+(c) any other State, under the conditions laid down in Article 72.
 
-(b) other States which have been invited to accede upon a request made by one of the Contracting States to the depository State. The depository State shall invite the State concerned to accede only if, after having communicated the contents of the
+2.  States referred to in paragraph 1, which wish to become a Contracting Party to this Convention, shall address their application to the Depositary. The application, including the information referred to in Articles 71 and 72 shall be accompanied by a translation into English and French.
 
-Civil Jurisdiction and Judgments
+Article 71
 
-1993-29 communications that this State intends to make in accordance with Article 63, it has obtained the unanimous agreement of the signatory States and the Contracting States referred to in Article 60(a) and (b).
+1.  Any State referred to in Article 70(1)(a) and (b) wishing to become a Contracting Party to this Convention:
 
-2. if an acceding State wishes to furnish details for the purposes of Protocol No.1, negotiations shall be entered into to that end. A negotiating conference shall be convened by the Swiss Federal Council.
+(a) shall communicate the information required for the application of this Convention;
 
-3. In respect of an acceding State, the Convention shall take effect on the first day of the third month following the deposit of its instrument of accession.
+(b) may submit declarations in accordance with Articles I and III of Protocol 1.
 
-4. However, in respect of an acceding State referred to in paragraph 1(a) or (b), the Convention shall take effect only in relations between the acceding State and the Contracting States which have not made any objections to the accession before the first day of the third month following the deposit of the instrument of accession.
+2.  The Depositary shall transmit any information received pursuant to paragraph 1 to the other Contracting Parties prior to the deposit of the instrument of accession by the State concerned.
 
-ARTICLE 63
+Article 72
 
-Each acceding State shall, when depositing its instrument of accession, Communicate the information required for the application of Articles 3, 32, 37, 40, 41 and 55 of this Convention and furnish, if need be, the details prescribed during the negotiations for the purposes of Protocol No.1.
+1.  Any State referred to in Article 70(1)(c) wishing to become a Contracting Party to this Convention:
 
-ARTICLE 64
+(a) shall communicate the information required for the application of this Convention;
 
-1. This Convention is Concluded for an initial period of five years from the date of its entry into force in accordance with Article 61(3), even in the case of States which ratify it or accede to it after that date.
+(b) may submit declarations in accordance with Articles I and III of Protocol 1; and
 
-2. At the end of the initial five-year period, the Convention shall be automatically renewed from year to year.
+(c) shall provide the Depositary with information on, in particular:
 
-3. Upon the expiry of the initial five-year period, any Contracting State may, at any time, denounce the Convention by sending a notification to the Swiss Federal Council.
+(1) their judicial system, including information on the appointment and independence of judges;
 
-4. The denunciation shall take effect at the end of the calendar year following, the expiry of a period of Six months from the date of receipt by the Swiss Federal Council of the notification of denunciation.
+(2) their internal law concerning civil procedure and enforcement of judgments; and
 
-ARTICLE 65
+(3) their private international law relating to civil procedure.
+
+2.  The Depositary shall transmit any information received pursuant to paragraph 1 to the other Contracting Parties prior to inviting the State concerned to accede in accordance with paragraph 3 of this Article.
+
+3.  Without prejudice to paragraph 4, the Depositary shall invite the State concerned to accede only if it has obtained the unanimous agreement of the Contracting Parties. The Contracting
+
+Parties shall endeavour to give their consent at the latest within one year after the invitation by the Depositary.
+
+1. The Convention shall enter into force only in relations between the acceding State and the Contracting Parties which have not made any objections to the accession before the first day of the third month following the deposit of the instrument of accession.
+
+Article 73
+
+1.  The instruments of accession shall be deposited with the Depositary.
+
+2.  In respect of an acceding State referred to in Article 70, the Convention shall enter into force on the first day of the third month following the deposit of its instrument of accession. As of that moment, the acceding State shall be considered a Contracting Party to the Convention.
+
+3.  Any Contracting Party may submit to the Depositary a text of this Convention in the language or languages of the Contracting Party concerned, which shall be authentic if so agreed by the Contracting Parties in accordance with Article 4 of Protocol 2.
+
+Article 74
+
+1.  This Convention is concluded for an unlimited period.
+
+2.  Any Contracting Party may, at any time, denounce the Convention by sending a notification to the Depositary.
+
+3.  The denunciation shall take effect at the end of the calendar year following the expiry of a period of six months from the date of receipt by the Depositary of the notification of denunciation.
+
+Article 75
 
 The following are annexed to this Convention:
 
-Civil Jurisdiction and Judgments
+— a Protocol 1, on certain questions of jurisdiction, procedure and enforcement,
 
-1993-29
+— a Protocol 2, on the uniform interpretation of this Convention and on the Standing Committee,
 
-- a Protocol No.1, on certain questions of jurisdiction, procedure and enforcement,
+— a Protocol 3, on the application of Article 67 of this Convention,
 
-- a Protocol No. 2, on the uniform interpretation of the Convention,
+— Annexes I through IV and Annex VII, with information related to the application of this Convention,
 
-- a Protocol No.3, on the application of Article 57.
+— Annexes V and VI, containing the certificates referred to in Articles 54, 58 and 57 of this
 
-These Protocols shall form an integral part of the Convention.
+Convention,
 
-ARTICLE 66
+— Annex VIII, containing the authentic languages referred to in Article 79 of this Convention, and
 
-Any Contracting State may request the revision of this Convention. To that end, the Swiss Federal Council shall issue invitations to a revision conference within a period of six months from the date of the request for revision.
+— Annex IX, concerning the application of Article II of Protocol 1.
 
-ARTICLE 67
+These Protocols and Annexes shall form an integral part of this Convention.
 
-The Swiss Federal Council shall notify the States represented at the Diplomatic Conference of Lugano and the States who have later acceded to the Convention of:
+Article 76
 
-(a) the deposit of each instrument of ratification or accession,
+Without prejudice to Article 77, any Contracting Party may request the revision of this Convention. To that end, the Depositary shall convene the Standing Committee as laid down in Article 4 of Protocol 2.
 
-(b) the dates of entry into force of this Convention in respect of the Contracting States;
+Article 77
 
-(c) any denunciation received pursuant to Article 64;
+1.  The Contracting Parties shall communicate to the Depositary the text of any provisions of the laws which amend the lists set out in Annexes I through IV as well as any deletions in or additions to the list set out in Annex VII and the date of their entry into force. Such communication shall be made within reasonable time before the entry into force and be accompanied by a translation into English and French. The Depositary shall adapt the Annexes concerned accordingly, after having consulted the Standing Committee in accordance with Article 4 of Protocol 2. For that purpose, the Contracting Parties shall provide a translation of the adaptations into their languages.
 
-(d) any declaration received pursuant to Article Ia of Protocol No.1;
+2.  Any amendment of Annexes V through VI and VIII through IX to this Convention shall be adopted by the Standing Committee in accordance with Article 4 of Protocol 2.
 
-(e) any declaration received pursuant to article Ib of Protocol No.1;
+Article 78
 
-(f) any declaration received pursuant to Article IV of Protocol No.1;
+1.  The Depositary shall notify the Contracting Parties of:
 
-(g) any Communication made pursuant to Article VI of Protocol No.1.
+(a) the deposit of each instrument of ratification or accession;
 
-ARTICLE 68
+(b) the dates of entry into force of this Convention in respect of the Contracting Parties;
 
-This Convention drawn up in a single original in the Danish, Dutch, English, Finnish, French, German, Greek, Icelandic, Irish, Italian, Norwegian, Portuguese, Spanish and Swedish languages, all fourteen texts
+(c) any declaration received pursuant to Articles I to IV of Protocol 1;
 
-Civil Jurisdiction and Judgments
+(d) any communication made pursuant to Article 74(2), Article 77(1) and paragraph 4 of Protocol 3.
 
-1993-29 being equally authentic, shall be deposited in the archives of the Swiss Federal Council. The Swiss Federal Council shall transmit a certified copy to the Government of each State represented at the Diplomatic Conference of Lugano and to the Government of each acceding State.
+2.  The notifications will be accompanied by translations into English and French.
 
-In witness whereof, the undersigned Plenipotentiaries have signed this Convention.
+Article 79
 
-Done at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight.
+This Convention, drawn up in a single original in the languages listed in Annex VIII, all texts being equally authentic, shall be
 
-[Signatures]
+deposited in the Swiss Federal Archives. The Swiss Federal Council shall transmit a certified copy to each Contracting Party.
 
-______________
+PROTOCOL 1 on certain questions of jurisdiction, procedure and enforcement
 
-PROTOCOL No.1
+THE HIGH CONTRACTING PARTIES HAVE AGREED AS FOLLOWS:
 
-on certain questions of jurisdiction, procedure and enforcement
+Article I
 
-THE HIGH CONTRACTING PARTIES HAVE AGREED UPON THE FOLLOWING PROVISIONS, WHICH SHALL BE ANNEXED TO THE CONVENTION:
+1.Judicial and extrajudicial documents drawn up in one State bound by this Convention which have to be served on persons in another State bound by this Convention shall be transmitted in accordance with the procedures laid down in the conventions and agreements applicable between these States.
 
-ARTICLE 1
+2.Unless the Contracting Party on whose territory service is to take place objects by declaration to the Depositary, such documents may also be sent by the appropriate public officers of the State in which the document has been drawn up directly to the appropriate public officers of the State in which the addressee is to be found. In this case the officer of the State of origin shall send a copy of the document to the officer of the State applied to who is competent to forward it to the addressee. The document shall be forwarded in the manner specified by the law of the State applied to. The forwarding shall be recorded by a certificate sent directly to the officer of the State of origin.
 
-Any person domiciled in Luxembourg who is sued in a court of another Contracting State pursuant to Article 5(1) may refuse to submit to the jurisdiction of that court.
+3 Member States of the European Community bound by Council Regulation (EC) No 1348/2000 of 29 May 2000 or by the Agreement between the European Community and the Kingdom of Denmark on the service of judicial and extrajudicial documents in civil or commercial matters, signed at Brussels on 19 October 2005, shall apply in their mutual relations that Regulation and that Agreement.
 
-If the defendant does not enter an appearance the court shall declare of its own motion that it has no jurisdiction.
+Article II
 
-An agreement conferring jurisdiction, within the meaning of Article 7, shall be valid with respect to a person domiciled in Luxembourg only if that person has expressly and specifically so agreed.
+1.The jurisdiction specified in Articles 6(2) and 11 in actions on a warranty or guarantee or in any other third party proceedings may not be fully resorted to in the States bound by this Convention referred to in Annex IX. Any person domiciled in another State bound by this Convention may be sued in the courts of these States pursuant to the rules referred to in Annex IX.
 
-ARTICLE Ia
+2.At the time of ratification the European Community may declare that proceedings referred to in Articles 6
 
-I. Switzerland reserves the right to declare, at the time of depositing its instrument of ratification, that a judgment given in another Contracting State shall be neither recognised nor enforced in Switzerland if the following conditions are met:
+(2) and 11 may not be resorted to in some other Member States and provide information on the rules that shall apply.
 
-(a) the jurisdiction of the court which has given the judgment is based only on Article 5(1) of this Convention; and
+3.Judgments given in the other States bound by this Convention by virtue of Article 6(2) or Article 11 shall be recognised and enforced in the States mentioned in paragraphs 1 and 2 in accordance with Title III. Any effects which judgments given in these States may have on third parties by application of the provisions in paragraphs 1 and 2 shall also be recognised in the other States bound by this Convention.
 
-Civil Jurisdiction and Judgments
+Article III
 
-1993-29
+1.Switzerland reserves the right to declare upon ratification that it will not apply the following part of the provision in Article 34(2):
 
-(b) the defendant was domiciled in Switzerland at the time of the introduction of the proceedings; for the purposes of this Article, a company or other legal person is considered to be domiciled in Switzerland if it has its registered seat and the effective centre of activities in Switzerland; and
+‘unless the defendant failed to commence proceedings to challenge the judgment when it was possible for him to do so’.
 
-(c) the defendant raises an objection to the recognition or enforcement of the judgment in Switzerland, provided that he has not waived the benefit of the declaration foreseen under this paragraph.
+If Switzerland makes such declaration, the other Contracting Parties shall apply the same reservation in respect of judgments rendered by the courts of Switzerland.
 
-2. This reservation shall not apply to the extent that at the time recognition or enforcement is sought a derogation has been granted from Article 59 of the Swiss Federal Constitution. The Swiss Government shall communicate such derogations to the signatory States and the acceding States.
+2.Contracting Parties may, in respect of judgments rendered in an acceding State referred to in Arti- cle 70(1)(c), by declaration reserve:
 
-3. This reservation shall cease to have effect on 31 December 1999. It maybe withdrawn at any time.
+(a) the right mentioned in paragraph 1; and
 
-ARTICLE Ib
+(b) the right of an authority mentioned in Article 39, notwithstanding the provisions of Article 41, to examine of its own motion whether any of the grounds for refusal of recognition and enforcement of a judgment is present or not.
 
-Any Contracting State may, by declaration made at the time of signing or of deposit of its instrument of ratification or of accession, reserve the right, notwithstanding the provisions of Article 28, not to recognise and enforce judgments given in the other Contracting States if the jurisdiction of the court of the State of origin is based, pursuant to Article 16(1)(b), exclusively on the domicile of the defendant in the State of origin, and the property is situated in the territory of the State which entered the reservation.
+3.If a Contracting Party has made such a reservation towards an acceding State as referred to in paragraph 2, this acceding State may by declaration reserve the same right in respect of judgments rendered by the courts of that Contracting Party.
 
-ARTICLE II
+4.Except for the reservation mentioned in paragraph 1, the declarations are valid for periods of five years and are renewable at the end of such periods. The Contracting Party shall notify a renewal of a declaration referred to under paragraph 2 not later than six months prior to the end of such period. An acceding State may only renew its declaration made under paragraph 3 after renewal of the respective declaration under paragraph 2.
 
-Without prejudice to any more favourable provisions of national laws, persons domiciled in a Contracting State who are being prosecuted in the criminal courts of another Contracting State of which they are not nationals for an offence which was not intentionally committed may be defended by persons qualified to do so, even if they do not appear in person.
+Article IV
 
-However, the court seised of the matter may order appearance in person; in the case of failure to appear, a judgment given in the civil action without the person concerned having had the opportunity to arrange for his defence need not be recognised or enforced in the other Contracting States.
+The declarations referred to in this Protocol may be withdrawn at any time by notification to the Depositary. The notification shall be accompanied by a translation into English and French. The Contracting Parties provide for translations into their languages. Any such withdrawal shall take effect as of the first day of the third month following that notification.
 
-ARTICLE III
-
-Civil Jurisdiction and Judgments
-
-1993-29 In proceedings for the issue of an order for enforcement, no charge, duty or fee calculated by reference to the value of the matter in issue may be levied in the State in which enforcement is sought.
-
-ARTICLE IV
-
-Judicial and extrajudicial documents drawn up in one Contracting State which have to be served on persons in another Contracting State shall be transmitted in accordance with the procedures laid down in the conventions and agreements concluded between the Contracting States.
-
-Unless the State in which service is to take place objects by declaration to the Swiss Federal Council, such documents may also be sent by the appropriate public officers of the State in which the document has been drawn up directly to the appropriate public officers of the State in which the addressee is to be found. In this case the officer of the State of origin shall send a copy of the document to the officer of the State applied to who is competent to forward it to the addressee. The document shall be forwarded in the manner specified by the law of the State applied to. The forwarding shall be recorded by a certificate sent directly to the officer of the State of origin.
-
-ARTICLE V
-
-The jurisdiction specified in Articles 6(2) and 10 in actions on a warranty or guarantee or in any other third party proceedings may not be resorted to in the Federal Republic of Germany, in Spain, in Austria and in Switzerland. Any person domiciled in another Contracting State may be sued in the courts:
-
-- of the Federal Republic of Germany, pursuant to Articles 68, 72, 73 and 74 of the code of civil procedure (Zivilprozessordnung) concerning third- party notices;
-
-- of Spain, pursuant to Article 1482 of the civil code;
-
-- of Austria, pursuant to article 21 of the code of civil procedure (zivilprozessordnung) concerning third-party notices;
-
-- of Switzerland, pursuant to the appropriate provisions concerning third- party notices of the cantonal codes of civil procedure.
-
-Judgments given in the other Contracting States by virtue of Article 6(2) or Article 10 shall be recognised and enforced in the Federal Republic of Germany, in Spain, in Austria and in Switzerland in accordance with Title III. Any effects which judgment given in these States may have on third
-
-Civil Jurisdiction and Judgments
-
-1993-29 parties by application of the provisions in the preceding paragraph shall also be recognised in the other Contracting States.
-
-ARTICLE Va
-
-In matters relating to maintenance, the expression “court” includes the Danish, Icelandic and Norwegian administrative authorities.
-
-In civil and commercial matters, the expression “court” includes the Finnish ulosoton haltija/överexekutor.
-
-ARTICLE Vb
-
-In proceedings involving a dispute between the master and a member of the crew of a sea-going ship registered in Denmark, in Greece, in Ireland, in Iceland, in Norway, in Portugal or in Sweden concerning remuneration or other conditions of service, a court in a Contracting State shall establish whether the diplomatic or consular officer responsible for the ship has been notified of the dispute. It shall stay the proceedings so long as he has not been  notified.  It  shall  of  its own motion decline jurisdiction if the officer, having been duly notified, has exercised the powers accorded to him in the matter by a consular convention, or in the absence of such a convention has, within the time allowed, raised any objection to the exercise of such jurisdiction.
-
-ARTICLE Vc
-
-(None)
-
-ARTICLE Vd
-
-Without prejudice to the jurisdiction of the European Patent Office under the Convention on the grant of European patents, signed at Munich on 5 October 1973, the courts of each Contracting State shall have exclusive jurisdiction, regardless of domicile, in proceedings concerned with the registration or validity of any European patent granted for that State which is not a Community patent by virtue of the provision of Article 86 of the Convention for the European patent for the common market, signed at Luxembourg on 15 December 1975.
-
-ARTICLE VI
-
-The Contracting States shall communicate to the Swiss Federal Council the text of any provisions of their laws which amend either those provisions of their laws mentioned in the Convention or the lists of courts specified in Section 2 of Title III.
-
-Civil Jurisdiction and Judgments
-
-1993-29
-
-__________________
-
-PROTOCOL No. 2
-
-on the uniform interpretation of the Convention
+PROTOCOL 2 on the uniform interpretation of the Convention and on the Standing Committee
 
 PREAMBLE
 
 THE HIGH CONTRACTING PARTIES,
 
-HAVING REGARD to Article 65 of this Convention,
+HAVING REGARD to Article 75 of this Convention,
 
-CONSIDERING the substantial link between this Convention and the Brussels Convention,
+CONSIDERING the substantial link between this Convention, the 1988 Lugano Convention, and the instruments referred to in Article 64(1) of this Convention,
 
-CONSIDERING that the Court of Justice of the European Communities by virtue of the Protocol of 3 June 1971 has jurisdiction to give rulings on the interpretation of the provisions of the Brussels Convention,
+CONSIDERING that the Court of Justice of the European Communities has jurisdiction to give rulings on the interpretation of the provisions of the instruments referred to in Article 64(1) of this Convention,
 
-BEING AWARE of the rulings delivered by the Court of Justice of the European Communities on the interpretation of the Brussels Convention up to the time of signature of this Convention,
+CONSIDERING that this Convention becomes part of Community rules and that therefore the Court of Justice of the European Communities has jurisdiction to give rulings on the interpretation of the provisions of this Convention as regards the application by the courts of the Member States of the European Community,
 
-CONSIDERING that the negotiations which led to the conclusion of the Convention were based on the Brussels Convention in the light of these rulings,
+BEING AWARE of the rulings delivered by the Court of Justice of the European Communities on the interpretation of the instruments referred to in Article 64(1) of this Convention up to the time of signature of this Convention, and of the rulings delivered by the courts of the Contracting Parties to the 1988 Lugano Convention on the latter Convention up to the time of signature of this Convention,
 
-DESIRING to prevent, in full defence to the independence of the courts, divergent interpretations and to arrive at as uniform an interpretation as possible of the provisions of the Convention, and of these provisions and those of the Brussels Convention which are substantially reproduced in this Convention,
+CONSIDERING that the parallel revision of both the 1988 Lugano and Brussels Conventions, which led to the conclusion of a revised text for these Conventions, was substantially based on the above mentioned rulings on the 1968 Brussels and the 1988 Lugano Conventions,
+
+CONSIDERING that the revised text of the Brussels Convention has been incorporated, after the entry into force of the Amsterdam Treaty, into Regulation (EC) No 44/2001,
+
+CONSIDERING that this revised text also constituted the basis for the text of this Convention,
+
+DESIRING to prevent, in full deference to the independence of the courts, divergent interpretations and to arrive at an interpretation as uniform as possible of the provisions of this Convention and of those of the Regulation (EC) No 44/2001 which are substantially reproduced in this Convention and of other instruments referred to in Article 64(1) of this Convention,
 
 HAVE AGREED AS FOLLOWS:
 
-ARTICLE 1
+Article 1
 
-The courts of each Contracting State shall, when applying and interpreting the provisions of the Convention, pay due account to the principles laid down by any relevant decision delivered by courts of the other Contracting States concerning provisions of this Convention.
+1.Any court applying and interpreting this Convention shall pay due account to the principles laid down by any relevant decision concerning the provision(s) concerned or any similar provision(s) of the 1988 Lugano Convention and the instruments referred to in Article 64(1) of the Convention rendered by the courts of the States bound by this Convention and by the Court of Justice of the European Communities.
 
-ARTICLE 2
+2.For the courts of Member States of the European Community, the obligation laid down in paragraph 1 shall apply without prejudice to their obligations in relation to the Court of Justice of the European Communities resulting from the Treaty establishing the European Community or from the Agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters, signed at Brussels on 19 October 2005.
 
-Civil Jurisdiction and Judgments
+Article 2
 
-1993-29 1. The Contracting Parties agree to set up a system of exchange of information concerning judgments delivered pursuant to this Convention as well as relevant judgments under the Brussels Convention. This system shall comprise:
+Any State bound by this Convention and which is not a Member State of the European Community is entitled to submit statements of case or written observations, in accordance with Article 23 of the Protocol on the Statute of the Court of Justice of the European Communities, where a court or tribunal of a Member State of the European Community refers to the Court of Justice for a preliminary ruling a question on the interpretation of this Convention or of the instruments referred to in Article 64(1) of this Convention.
 
-- transmission to a central body by the competent authorities of judgments delivered by courts of last instance and the Court of Justice of the European Communities as well as judgments of particular importance which have become final and have been delivered pursuant to this Convention or the Brussels Convention;
+Article 3
 
-- classification of these judgments by the central body including, as far as necessary, the drawing-up and publication of translations and abstracts;
+1.The Commission of the European Communities shall set up a system of exchange of information concerning relevant judgments delivered pursuant to this Convention as well as relevant judgments under the 1988 Lugano Convention and the instruments referred to in Article 64(1) of this Convention. This system shall be accessible to the public and contain judgments delivered by the courts of last instance and of the Court of Justice of the European Communities as well as judgments of particular importance which have become final and have been delivered pursuant to this Convention, the 1988 Lugano Convention, and the instruments referred to in Article 64(1) of this Convention. The judgments shall be classified and provided with an abstract.
 
-- communication by the central body of the relevant documents to the competent national authorities of all signatories and acceding States to the Convention and to the Commission of the European Communities.
+The system shall comprise the transmission to the Commission by the competent authorities of the States bound by this Convention of judgments as referred to above delivered by the courts of these States.
 
-2. The central body is the Registrar of the Court of Justice of the European Communities.
+2.A selection of cases of particular interest for the proper functioning of the Convention will be made by the Registrar of the Court of Justice of the European Communities, who shall present the selected case law at the meeting of experts in accordance with Article 5 of this Protocol.
 
-ARTICLE 3
+3.Until the European Communities have set up the system pursuant to paragraph 1, the Court of Justice of the European Communities shall maintain the system for the exchange of information established by Protocol 2 of the 1988 Lugano Convention for judgments delivered under this Convention and the 1988 Lugano Convention.
 
-1. A Standing Committee shall be set up for the purpose of this Protocol.
+Article 4
 
-2. The Committee shall be composed of representatives appointed by each signatory and acceding State.
+1. A Standing Committee shall be set up, composed of the representatives of the Contracting Parties.
 
-3. The European Communities (Commission, Court of Justice and General Secretariat of the Council) and the European Free Trade Association may attend the meetings as observers.
+2. At the request of a Contracting Party, the Depositary of the Convention shall convene meetings of the Committee for the purpose of:
 
-ARTICLE 4
+— a consultation on the relationship between this Convention and other international instruments,
 
-1. At the request of a Contracting Party, the depository of the Convention shall convene meetings of the Committee for the purpose of exchanging views on the functioning of the Convention and in particular on:
+— a consultation on the application of Article 67, including intended accessions to instruments on particular matters according to Article 67(1), and proposed legislation according to Protocol 3,
 
-- the development of the case law as communicated under the first paragraph first indent of Article 2;
+— the consideration of the accession of new States. In particular, the Committee may ask acceding States referred to in Article 70(1)(c) questions about their judicial systems and the implementation of the Convention. The Committee may also consider possible adaptations to the Convention necessary for its application in the acceding States,
 
-- the application of Article 57 of the Convention.
+— the acceptance of new authentic language versions pursuant to Article 73(3) of this Convention and the necessary amendments to Annex VIII,
 
-Civil Jurisdiction and Judgments
+— a consultation on a revision of the Convention pursuant to Article 76,
 
-1993-29 2. The Committee, in the light of these exchanges, may also examine the appropriateness of starting on particular topics a revision of the Convention and make recommendations.
+— a consultation on amendments to Annexes I through IV and Annex VII pursuant to Article 77(1),the adoption of amendments to Annexes V and VI pursuant to Article 77(2),
 
-PROTOCOL No. 3
+— a withdrawal of the reservations and declarations made by the Contracting Parties pursuant to Protocol 1 and necessary amendments to Annex IX.
 
-on the application of Article 57
+3. The Committee shall establish the procedural rules concerning its functioning and decision- making. These rules shall provide for the possibility to consult and decide by written procedure.
+
+Article 5
+
+1.The Depositary may convene, whenever necessary, a meeting of experts to exchange views on the functioning of the Convention, in particular on the development of the case-law and new legislation that may influence the application of the Convention.
+
+2.This meeting shall be composed of experts of the Contracting Parties, of the States bound by this Convention, of the Court of Justice of the European Communities, and of the European Free Trade Association. It shall be open to any other experts whose presence is deemed appropriate.
+
+3.Any problems arising on the functioning of the Convention may be referred to the Standing Committee referred to in Article 4 of this Protocol for further action.
+
+PROTOCOL 3 on the application of Article 67 of the Convention
 
 THE HIGH CONTRACTING PARTIES HAVE AGREED AS FOLLOWS:
 
-1. For the purposes of the Convention, provisions which, in relation to particular matters, govern jurisdiction or the recognition or enforcement of judgments and which are, or will be contained in acts of the Institutions of the European Communities shall be treated in the same way as the conventions referred to in paragraph 1 of Article 57.
+1.For the purposes of the Convention, provisions which, in relation to particular matters, govern jurisdiction or the recognition or enforcement of judgments and which are or will be contained in acts of the institutions of the European Communities shall be treated in the same way as the conventions referred to in Article 67(1).
 
-2. If one Contracting State is of the opinion that a provision contained in an act of the Institutions of the European Communities is incompatible with the Convention, the Contracting States shall promptly consider amending the Convention pursuant to Article 66, without prejudice to the procedure established by Protocol No. 2. _____________
+2.If one of the Contracting Parties is of the opinion that a provision contained in a proposed act of the institutions of the European Communities is incompatible with the Convention, the Contracting Parties shall promptly consider amending the Convention pursuant to Article 76, without prejudice to the procedure established by Protocol 2.
 
-DECLARATION
+3.Where a Contracting Party or several Parties together incorporate some or all of the provisions contained in acts of the institutions of the European Community referred to in paragraph 1 into national law, then these provisions of national law shall be treated in the same way as the conventions referred to in Article 67(1).
 
-by the representatives of the Governments of the States signatories to the Lugano Convention which are members of the European Communities on Protocol No.3 on the application of Article 57 of the Convention
-
-Upon signature of the Convention on jurisdiction and the enforcement of judgments in civil and commercial matters done at Lugano on 16 September 1988,
-
-THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES OF THE EUROPEAN COMMUNITIES,
-
-taking into account the undertakings entered into vis-à-vis the Member States of the European Free Trade Association,
-
-anxious not to prejudice the unity of the legal system set up by the Convention,
-
-declare  that  they will take all measures  in their powers to ensure, when Community acts referred  to in paragraph 1 of Protocol No. 3 on the application of Article 57 are being  drawn up, respect  for  the rules of
-
-Civil Jurisdiction and Judgments
-
-1993-29 jurisdiction and recognition and  enforcement of judgments established by the Convention.
-
-In witness whereof , the undersigned  have signed this Declaration.
-
-Done at Lugano on the sixteenth day of September in the year one thousand nine hundred  and eighty eight.
-
-[Signatures]
-
-DECLARATION
-
-by the Representatives of the Governments of the States signatories to the Lugano Convention which are members of the European Communities
-
-Upon signature of the Convention on jurisdiction and the enforcement of judgments in civil and commercial matters done at Lugano on 16 September 1988,
-
-THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES OF THE EUROPEAN COMMUNITIES
-
-declare that they consider  as appropriate  that  the Court of  Justice of the European Communities, when interpreting  the Brussels Convention, pay due attention to the rulings  contained  in the case law  of the  Lugano Convention.
-
-In witness whereof, the undersigned have signed this Declaration.
-
-Done at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight
-
-[Signatures] ________________
-
-DECLARATION
-
-by the Representatives of the Governments of the States signatories to the Lugano Convention which are members of the European Communities
-
-Upon signature of the Convention on jurisdiction and the enforcement of judgments in civil and commercial matters done at Lugano on 16 September 1988,
-
-Civil Jurisdiction and Judgments
-
-1993-29
-
-THE REPRESENTATIVES OF THE GOVERNMENTS OF THE MEMBER STATES OF THE EUROPEAN FREE TRADE ASSOCIATION
-
-declare that they consider  as appropriate  that  their  courts, when interpreting the Lugano  Convention, pay due account to the rulings contained in the case law of the Court of  Justice of the European Communities and of courts of the Member States  of the European Communities  in respect of provisions  of the Brussels Convention which are substantially  reproduced in the   Lugano Convention.
-
-In witness whereof, the undersigned have signed this Declaration.
-
-Done at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight
-
-[Signatures]
-
-FINAL ACT
-
-The Representatives of:
-
-THE GOVERNMENT OF THE KINGDOM OF BELGIUM,
-
-THE GOVERNMENT OF THE KINGDOM OF DENMARK,
-
-THE GOVERNMENT OF THE FEDERAL REPUBLIC OF GERMANY,
-
-THE GOVERNMENT OF THE HELLENIC REPUBLIC,
-
-THE GOVERNMENT OF THE KINGDOM OF SPAIN,
-
-THE GOVERNMENT OF THE FRENCH REPUBLIC,
-
-THE GOVERNMENT OF IRELAND,
-
-THE GOVERNMENT OF THE REPUBLIC OF ICELAND,
-
-THE GOVERNMENT OF THE ITALIAN REPUBLIC,
-
-THE GOVERNMENT OF THE GRAND DUCHY OF LUXEMBOURG,
-
-THE GOVERNMENT OF THE KINGDOM OF THE NETHERLANDS,
-
-Civil Jurisdiction and Judgments
-
-1993-29
-
-THE GOVERNMENT OF THE KINGDOM OF NORWAY,
-
-THE GOVERNMENT OF THE REPUBLIC OF AUSTRIA,
-
-THE GOVERNMENT OF THE PORTUGUESE REPUBLIC,
-
-THE GOVERNMENT OF THE KINGDOM OF SWEDEN,
-
-THE GOVERNMENT OF THE SWISS CONFEDERATION,
-
-THE GOVERNMENT OF THE REPUBLIC OF FINLAND,
-
-THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,
-
-Assembled at Lugano on the sixteenth day of September in the year one thousand nine hundred and eighty-eight on the occasion of the Diplomatic Conference on jurisdiction in civil matters, have placed on record the fact that the following texts have been drawn up and adopted within the Conference:
-
-I. the Convention on jurisdiction and the enforcement of judgments in civil and commercial matters;
-
-II. the following Protocols, which form an integral part of the Convention:
-
-- No. 1, on certain questions of jurisdiction, procedure and enforcement;
-
-- No.2, on the uniform interpretation of the Convention;
-
-- No.3, on the application of Article 57;
-
-III. the following Declarations:
-
-- Declaration by the Representatives of the Governments of the States signatories to the Lugano Convention which are members of the European Communities on Protocol No.3 on the application of Article 57 of the Convention;
-
-- Declaration by the Representatives of the Governments of the States signatories to the Lugano Convention which are members of the European Communities;
-
-Civil Jurisdiction and Judgments
-
-1993-29 - Declaration by the Representatives of the Governments of the States signatories to the Lugano Convention which are members of the European Free Association.
-
-[Signatures]
-
-Civil Jurisdiction and Judgments
-
-1993-29
+4.The Contracting Parties shall communicate to the Depositary the text of the provisions mentioned in paragraph 3. Such communication shall be accompanied by a translation into English and French.

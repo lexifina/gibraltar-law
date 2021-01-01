@@ -24,10 +24,6 @@ The Secretary-General of the Council of the European Communities shall transmit 
 
 The Texts of the 1968 Convention, of the 1971 Protocol and of the 1978 Convention. drawn up in the Greek language, shall be annexed to this Convention. The texts drawn up in the Greek language shall be authentic under the same conditions as the other texts of the 1968 Convention, the 1971 Protocol and the 1978 Convention.
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
 ARTICLE 14
 
 This Convention shall be ratified by the signatory States. The instruments of ratification shall be deposited with the Secretary-General of the Council of the European Communities.
@@ -48,8 +44,4 @@ The Secretary-General of the Council of the European Communities shall notify th
 
 ARTICLE 17
 
-This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish and Italian languages, all eight texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Communities. The Secretary- General shall transmit a certified copy to the Government of each signatory State.
-
-Civil Jurisdiction and Judgments
-
-1993-29
+This Convention, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish and Italian languages, all eight texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy to the Government of each signatory State.

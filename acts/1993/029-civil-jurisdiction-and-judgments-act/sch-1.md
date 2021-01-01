@@ -8,9 +8,15 @@ TITLE I. SCOPE (Article 1)
 
 TITLE II. JURISDICTION
 
-Section 1. General provisions (Article 2-4). Section 2. Special jurisdiction (Articles 5-6A). Section 3.
+Section 1.
 
-Jurisdiction in matters relating to insurance (Articles 7- 12A). Section 4. Jurisdiction over consumer contracts (Articles 13-15). Section 5.
+General provisions (Article 2-4). Section 2.
+
+Special jurisdiction (Articles 5-6A). Section 3.
+
+Jurisdiction in matters relating to insurance (Articles 7-12A). Section 4.
+
+Jurisdiction over consumer contracts (Articles 13-15). Section 5.
 
 Exclusive jurisdiction (Article 16). Section 6.
 
@@ -20,9 +26,15 @@ Examination as to jurisdiction and admissibility (Articles 19-20). Section 8.
 
 Lis pendens - Related actions (Articles 21-23). Section 9.
 
-Provisions, including protective measures (Article 24). TITLE III. RECOGNITION AND ENFORCEMENT
+Provisions, including protective measures (Article 24).
 
-Definition of “judgment” (Article 25). Section 1. Recognition (Articles 26-30). Section 2. Enforcement (Articles 31-45). Section 3.
+TITLE III. RECOGNITION AND ENFORCEMENT
+
+Definition of “judgment” (Article 25). Section 1.
+
+Recognition (Articles 26-30). Section 2.
+
+Enforcement (Articles 31-45). Section 3.
 
 Common Provision (Articles 46-49).
 
@@ -38,13 +50,7 @@ TITLE VII. RELATIONSHIP TO OTHER CONVENTIONS (Articles 55-59).
 
 TITLE VIII. FINAL PROVISIONS (Articles 60 (deleted) -68).
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
-Civil Jurisdiction and Judgments
-
-1993-29 CONVENTION ON JURISDICTION AND THE ENFORCEMENT OF JUDGMENTS IN CIVIL AND COMMERCIAL MATTERS
+CONVENTION ON JURISDICTION AND THE ENFORCEMENT OF JUDGMENTS IN CIVIL AND COMMERCIAL MATTERS
 
 Preamble
 
@@ -76,9 +82,7 @@ The Convention shall not apply to:
 
 (1)  the status or legal capacity of natural persons, rights in property arising out of a matrimonial relationship, wills and succession;
 
-Civil Jurisdiction and Judgments
-
-1993-29 (2)  bankruptcy, proceedings relating to the winding up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings;
+(2)  bankruptcy, proceedings relating to the winding up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings;
 
 (3)  social security;
 
@@ -104,31 +108,37 @@ Persons domiciled in a Contracting State may be sued in the courts of another Co
 
 In particular the following provisions shall not be applicable as against them:
 
-in Belgium: Article 15 of the civil code (Code civil - Burgerlijk Wetboek) and Article 638 of the Judicial code (Code judiciaire Gerechtelijk Wetboek); in Denmark: Article 246 (2) and (3) of the law on civil procedure (Lov om rettens pleje);
+in Belgium: Article 15 of the civil code (Code civil - Burgerlijk Wetboek) and Article 638 of the Judicial code (Code judiciaire Gerechtelijk Wetboek);
 
-Civil Jurisdiction and Judgments
+in Denmark: Article 246 (2) and (3) of the law on civil procedure (Lov om rettens pleje);
 
-1993-29 in the Federal Republic of Germany: Article 23 of the code of civil procedure (Zivilprozessordnung); in France:
+in the Federal Republic of Germany:
+
+Article 23 of the code of civil procedure (Zivilprozessordnung); in France:
 
 Articles 14 and 15 of the civil code (Code civil); in Ireland: the rules which enable jurisdiction to be founded on the document instituting the proceedings having been served on the defendant during his temporary presence in Ireland;
 
-in Italy: Article 2 and Article 4, Nos 1 and 2 of the code of civil procedure (Codice di procedura civile); in Luxembourg: Articles 14 and 15 of the civil code (Code Civil); in the Netherlands: Article 126 (3) and Article 127 of the code of civil procedure (Wetboek van Burgerlijke Rechtsvordering);
+in Italy: Article 2 and Article 4, Nos 1 and 2 of the code of civil procedure (Codice di procedura civile);
 
-in Portugal: Article 65 (1) (c) and 65 (2) and 65A (c) of the Code of Civil Procedure (codigo de processo civil) and Article 11 of the code of labour procedure (codigo de proceso de trabalho); in the United Kingdom: the rules which enable jurisdiction to be founded on:
+in Luxembourg: Articles 14 and 15 of the civil code (Code Civil);
 
-(a)  the document instituting the proceedings having been  served on the defendant during his temporary presence in the United Kingdom; or
+in the Netherlands: Article 126 (3) and Article 127 of the code of civil procedure (Wetboek van Burgerlijke Rechtsvordering);
 
-(b)  the presence within the United Kingdom of property belonging  to the defendant; or
+in Portugal: Article 65 (1) (c) and 65 (2) and 65A (c) of the Code of Civil Procedure (codigo de processo civil) and Article 11 of the code of labour procedure (codigo de proceso de trabalho);
 
-(c)  the seizure by the plaintiff of  property situated in the  United Kingdom.
+in the United Kingdom: the rules which enable jurisdiction to be founded on:
+
+(a)  the document instituting the proceedings having been served on the defendant during his temporary presence in the United Kingdom; or
+
+(b)  the presence within the United Kingdom of property belonging to the defendant; or
+
+(c)  the seizure by the plaintiff of property situated in the United Kingdom.
 
 ARTICLE 4
 
 If the defendant is not domiciled in a Contracting State, the jurisdiction of the courts of each Contracting State shall, subject to the provisions of Article 16, be determined by the law of that State.
 
-Civil Jurisdiction and Judgments
-
-1993-29 As against such a defendant, any person domiciled in a Contracting State may, whatever his nationality, avail himself in that State of the rules of jurisdiction there in force, and in particular those specified in the second paragraph of Article 3, in the same way as the nationals of that State.
+As against such a defendant, any person domiciled in a Contracting State may, whatever his nationality, avail himself in that State of the rules of jurisdiction there in force, and in particular those specified in the second paragraph of Article 3, in the same way as the nationals of that State.
 
 Section 2
 
@@ -150,9 +160,7 @@ A person domiciled in a Contracting State may, in another Contracting State, be 
 
 (6) in his capacity as settlor, trustee or beneficiary of a trust created by the operation of a statute, or by a written instrument, or created orally and evidenced in writing, in the courts of the Contracting State in which the trust is domiciled;
 
-Civil Jurisdiction and Judgments
-
-1993-29 (7) as regards a dispute concerning the payment of remuneration claimed in respect of the salvage of a cargo or freight, in the court under the authority of which the cargo or freight in question:
+(7) as regards a dispute concerning the payment of remuneration claimed in respect of the salvage of a cargo or freight, in the court under the authority of which the cargo or freight in question:
 
 (a) has been arrested to secure such payment; or
 
@@ -182,10 +190,6 @@ Jurisdiction in matters relating to insurance.
 
 ARTICLE 7
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
 In matters relating to insurance, jurisdiction shall be determined by this section, without prejudice to the provisions of Articles 4 and 5 (5).
 
 ARTICLE 8
@@ -198,7 +202,7 @@ An insurer domiciled in a Contracting State may be sued:
 
 (3)  if he is a co-insurer, in the courts of a Contracting State in which proceedings are brought against the leading insurer.
 
-An insurer who is not  domiciled in a Contracting State but has a branch, agency or other establishment in one of the Contracting States shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that State.
+An insurer who is not domiciled in a Contracting State but has a branch, agency or other establishment in one of the Contracting States shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that State.
 
 ARTICLE 9
 
@@ -214,9 +218,7 @@ If the law governing such direct actions provides that the policy-holder or the 
 
 ARTICLE 11
 
-Civil Jurisdiction and Judgments
-
-1993-29 Without prejudice to the provisions of the third paragraph of Article 10, an insurer may bring proceedings only in the courts of the Contracting State in which the defendant is domiciled, irrespective of whether he is the policy- holder, the insured or a beneficiary.
+Without prejudice to the provisions of the third paragraph of Article 10, an insurer may bring proceedings only in the courts of the Contracting State in which the defendant is domiciled, irrespective of whether he is the policy-holder, the insured or a beneficiary.
 
 The provisions of this section shall not affect the right to bring a counterclaim in the court in which, in accordance with this section, the original claim is pending.
 
@@ -244,9 +246,7 @@ The following are risks referred to in Article 12 (5):
 
 (b) goods in transit other than passengers’ baggage where the transit consists of or includes carriage by such ships or aircraft.
 
-Civil Jurisdiction and Judgments
-
-1993-29 (2)  Any liability, other than for bodily injury to passengers or loss of or damage to their baggage,
+(2)  Any liability, other than for bodily injury to passengers or loss of or damage to their baggage,
 
 (a) arising out of the use or operation of ships, installations or aircraft as referred to in (1)(a) above in so far as the law of the Contracting State in which such aircraft are registered does not prohibit agreements on jurisdiction regarding insurance of such risks,
 
@@ -274,9 +274,7 @@ In proceedings concerning a contract concluded by a person for a purpose which c
 
 (b) the consumer took in that State the steps necessary for the conclusion of the contract.
 
-Civil Jurisdiction and Judgments
-
-1993-29 Where a consumer enters into a contract with a party who is not domiciled in a Contracting State but has a branch, agency or other establishment in one of the Contracting States, that party shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that State.
+Where a consumer enters into a contract with a party who is not domiciled in a Contracting State but has a branch, agency or other establishment in one of the Contracting States, that party shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that State.
 
 This section shall not apply to contracts of transport.
 
@@ -286,7 +284,7 @@ A consumer may bring proceedings against the other party to a contract either in
 
 Proceedings may be brought against a consumer by the other party to the contract only in the courts of the Contracting State in which the consumer is domiciled.
 
-These provisions shall not affect the right to bring a counterclaim in the court in which, in accordance with  this section, the original claim is pending.
+These provisions shall not affect the right to bring a counterclaim in the court in which, in accordance with this section, the original claim is pending.
 
 ARTICLE 15
 
@@ -306,9 +304,7 @@ ARTICLE 16
 
 The following courts shall have exclusive jurisdiction, regardless of domicile:
 
-Civil Jurisdiction and Judgments
-
-1993-29 (1) (a) in proceedings which have as their object rights in rem in immovable property or tenancies of immovable property, the courts of the Contracting State in which the property is situated;
+(1) (a) in proceedings which have as their object rights in rem in immovable property or tenancies of immovable property, the courts of the Contracting State in which the property is situated;
 
 (b) however, in proceedings which have as their object tenancies of immovable property concluded for temporary private use for a maximum period of six consecutive months, the courts of the Contracting State in which the defendant is domiciled shall also have jurisdiction, provided that the landlord and the tenant are natural persons and are domiciled in the same Contracting State;
 
@@ -328,9 +324,7 @@ ARTICLE 17
 
 If the parties, one or more of whom is domiciled in a Contracting State, have agreed that a court or the courts of a Contracting State are to have jurisdiction to settle any disputes which have arisen or which may arise in connection with a particular legal relationship, that court or those courts shall have exclusive jurisdiction.Such an agreement conferring jurisdiction shall be either–
 
-Civil Jurisdiction and Judgments
-
-1993-29 (a) in writing or evidenced in writing, or
+(a) in writing or evidenced in writing, or
 
 (b) in a form which accords with practices which the parties have established between themselves, or
 
@@ -353,10 +347,6 @@ Apart from jurisdiction derived from other provisions of this Convention, a cour
 Section 7
 
 Examination as to jurisdiction and admissibility
-
-Civil Jurisdiction and Judgments
-
-1993-29
 
 ARTICLE 19
 
@@ -383,10 +373,6 @@ Where the jurisdiction of the court first seised is established, any court other
 ARTICLE 22
 
 Where related actions are brought in the courts of different Contracting States, any court other than the court first seised may, while the actions are pending at first instance, stay its proceedings.
-
-Civil Jurisdiction and Judgments
-
-1993-29
 
 A court other than the court first seised may also, on the application of one of the parties, decline jurisdiction if the law of that court permits the consolidation of related actions and the court first seised has jurisdiction over both actions.
 
@@ -418,9 +404,7 @@ Recognition
 
 ARTICLE 26
 
-Civil Jurisdiction and Judgments
-
-1993-29 A judgment given in a Contracting State shall be recognised in the other Contracting State without any special procedure being required.
+A judgment given in a Contracting State shall be recognised in the other Contracting State without any special procedure being required.
 
 Any interested party who raises the recognition of a judgment as the principal issue in a dispute may, in accordance with the procedures provided for in sections 2 and 3 of this Title, apply for a decision that the judgment be recognised.
 
@@ -432,7 +416,7 @@ A judgment shall not be recognised:
 
 (1)  if such recognition is contrary to public policy in the State in which recognition is sought;
 
-(2)  where it was given in default of  appearance, if the defendant was not duly served with the document which instituted the proceedings or with an equivalent document in sufficient time to enable him to arrange for his defence;
+(2)  where it was given in default of appearance, if the defendant was not duly served with the document which instituted the proceedings or with an equivalent document in sufficient time to enable him to arrange for his defence;
 
 (3)  if the judgment is irreconcilable with a judgment given in a dispute between the same parties in the State in which recognition is sought;
 
@@ -444,9 +428,7 @@ ARTICLE 28
 
 Moreover, a judgment shall not be recognised if it conflicts with the provisions of sections 3, 4 or 5 of Title II, or in a case provided for in Article 59.
 
-Civil Jurisdiction and Judgments
-
-1993-29 In its examination of the grounds of jurisdiction referred to in the foregoing paragraph, the court or authority applied to shall be bound by the findings of fact on which the court of the State in which the judgment was given based its jurisdiction.
+In its examination of the grounds of jurisdiction referred to in the foregoing paragraph, the court or authority applied to shall be bound by the findings of fact on which the court of the State in which the judgment was given based its jurisdiction.
 
 Subject to the provisions of the first paragraph, the jurisdiction of the court of the State in which the judgment was given may not be reviewed; the test of public policy referred to in Article 27(1) may not be applied to the rules relating to jurisdiction.
 
@@ -474,13 +456,11 @@ ARTICLE 32
 
 (1)  The application shall be submitted–
 
-- in Belgium, to the tribunal de premiere  instance or rechtbank van eerste aanleg,
+- in Belgium, to the tribunal de premiere instance or rechtbank van eerste aanleg,
 
-Civil Jurisdiction and Judgments
+- in Denmark, to the byret,
 
-1993-29 - in Denmark, to the byret,
-
-- in the Federal Republic of Germany, to the presiding judge of a chamber of the Landgericht ,
+- in the Federal Republic of Germany, to the presiding judge of a chamber of the Landgericht,
 
 - in Greece, to the í,
 
@@ -512,9 +492,7 @@ ARTICLE 33
 
 The procedure for making the application shall be governed by the law of the State in which enforcement is sought.
 
-Civil Jurisdiction and Judgments
-
-1993-29 The applicant must give an address for service of process within the area of jurisdiction of the court applied to. However, if the law of the State in which enforcement is sought does not provide for the furnishing of such an address, the applicant shall appoint a representative ad litem.
+The applicant must give an address for service of process within the area of jurisdiction of the court applied to. However, if the law of the State in which enforcement is sought does not provide for the furnishing of such an address, the applicant shall appoint a representative ad litem.
 
 The documents referred to in Article 46 and 47 shall be attached to the application.
 
@@ -543,10 +521,6 @@ ARTICLE 37
 - in Belgium, with the tribunal de premiere instance or rechtbank van eerste aanleg,
 
 - in Denmark, with the landsret,
-
-Civil Jurisdiction and Judgments
-
-1993-29
 
 - in the Federal Republic of Germany, with the Oberlandesgericht,
 
@@ -588,10 +562,6 @@ Civil Jurisdiction and Judgments
 
 - in the United Kingdom, by a single further appeal on a point of law.
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
 ARTICLE 38
 
 The court with which the appeal under Article 37 (1) is lodged may, on the application of the appellant, stay the proceedings if an ordinary appeal has been lodged against the judgment in the State of origin or if the time for such an appeal has not yet expired; in the latter case, the court may specify the time within which such an appeal is to be lodged.
@@ -626,9 +596,7 @@ ARTICLE 40
 
 - in Italy, to the corte d’appello,
 
-Civil Jurisdiction and Judgments
-
-1993-29 - in Luxembourg, to the Cour superieure de justice sitting as a court of civil appeal,
+- in Luxembourg, to the Cour superieure de justice sitting as a court of civil appeal,
 
 - in the Netherlands, to the gerechtshof,
 
@@ -636,7 +604,7 @@ Civil Jurisdiction and Judgments
 
 - in the United Kingdom–
 
-(a)  in England and Wales, to the High Court of Justice, or in the case of a maintenance  judgment to the Magistrates’ Court;
+(a)  in England and Wales, to the High Court of Justice, or in the case of a maintenance judgment to the Magistrates’ Court;
 
 (b)  in Scotland, to the Court of Session, or in the case of a maintenance judgment to the Sheriff Court;
 
@@ -662,9 +630,7 @@ A judgment given on an appeal provided for in Article 40 may be contested only�
 
 ARTICLE 42
 
-Civil Jurisdiction and Judgments
-
-1993-29 Where a foreign judgment has been given in respect of several matters and enforcement cannot be authorised for all of them, the court shall authorise enforcement for one or more of them.
+Where a foreign judgment has been given in respect of several matters and enforcement cannot be authorised for all of them, the court shall authorise enforcement for one or more of them.
 
 An applicant may request partial enforcement of a judgment.
 
@@ -678,7 +644,7 @@ An applicant who, in the State in which the judgment was given, has benefitted f
 
 An applicant who requests the enforcement of a decision given by an administrative authority in Denmark in respect of a maintenance order may, in the State addressed, claim the benefits referred to in the first paragraph if he presents a statement from the Danish Ministry of Justice to the effect that he fulfils the economic requirements to qualify for the grant of complete or partial legal aid or exemption from costs or expenses.
 
-Article 45
+ARTICLE 45
 
 No security, bond or deposit, however described, shall be required of a party who in one Contracting State applies for enforcement of a judgment given in another Contracting State on the ground that he is a foreign national or that he is not domiciled or resident in the State in which enforcement is sought.
 
@@ -690,9 +656,7 @@ ARTICLE 46
 
 A party seeking recognition or applying for enforcement of a judgment shall produce:
 
-Civil Jurisdiction and Judgments
-
-1993-29 (1)  a copy of the judgment which satisfies the conditions necessary to establish its authenticity;
+(1)  a copy of the judgment which satisfies the conditions necessary to establish its authenticity;
 
 (2) in the case of a judgment given in default, the original or a certified true copy of the document which establishes that the party in default was served with the document instituting the proceedings or with an equivalent document.
 
@@ -720,11 +684,7 @@ AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS
 
 ARTICLE 50
 
-A document which has been formally drawn up or registered as an authentic instrument and is enforceable in one Contracting State shall, in another Contracting State, be declared enforceable there, on application made in accordance with the procedures provided for in Article 31 et seq. The
-
-Civil Jurisdiction and Judgments
-
-1993-29 application may be refused only if enforcement of the instrument is contrary to public policy in the State addressed.
+A document which has been formally drawn up or registered as an authentic instrument and is enforceable in one Contracting State shall, in another Contracting State, be declared enforceable there, on application made in accordance with the procedures provided for in Article 31 et seq. The application may be refused only if enforcement of the instrument is contrary to public policy in the State addressed.
 
 The instrument produced must satisfy the conditions necessary to establish its authenticity in the State of origin.
 
@@ -756,11 +716,9 @@ TRANSITIONAL PROVISIONS
 
 ARTICLE 54
 
-Civil Jurisdiction and Judgments
+The provisions of this Convention shall apply only to legal proceedings instituted and to documents formally drawn up or registered as authentic instruments after its entry into force in the State of origin and, where recognition or enforcement of a judgment or authentic instruments is sought, in the State addressed.
 
-1993-29 The provisions of this Convention shall apply only to legal proceedings instituted and to documents formally drawn up or registered as authentic instruments after its entry into force in the State of origin and, where recognition or enforcement of a judgment or authentic instruments is sought, in the State addressed.
-
-However, judgments given after the date of entry into force of this Convention between the State of origin and the State addressed in proceedings instituted before that date shall be recognized and enforced in accordance with the provisions of Title III if jurisdiction was founded  upon rules  which  accorded  with  those  provided  for either in Title II of this Convention or in a convention included between the State of origin and the State addressed which was in force when the proceedings were instituted.
+However, judgments given after the date of entry into force of this Convention between the State of origin and the State addressed in proceedings instituted before that date shall be recognized and enforced in accordance with the provisions of Title III if jurisdiction was founded  upon  rules  which  accorded  with  those  provided  for either in Title II of this Convention or in a convention included between the State of origin and the State addressed which was in force when the proceedings were instituted.
 
 If the parties to a dispute concerning a contract had agreed in writing before 1st June 1988 for Ireland or before 1st January 1987 for the United Kingdom that the contract was to be governed by the law of Ireland or of a part of the United Kingdom, the courts of Ireland or of that part of the United Kingdom shall retain the right to exercise jurisdiction in the dispute.
 
@@ -776,9 +734,7 @@ For a period of three years from 1st November 1986 for Denmark and from 1st June
 
 (c) the claim concerns the voyage during which the arrest was made or could have been made, or
 
-Civil Jurisdiction and Judgments
-
-1993-29 (d) the claim arises out of a collision or out of damage caused by a ship to another ship or to goods or persons on board either ship, either by the execution or non-execution of a manoeuvre or by the non-observance of regulations, or
+(d) the claim arises out of a collision or out of damage caused by a ship to another ship or to goods or persons on board either ship, either by the execution or non- execution of a manoeuvre or by the non-observance of regulations, or
 
 (e) the claim is for salvage, or
 
@@ -804,9 +760,7 @@ Civil Jurisdiction and Judgments
 
 (f) loss of or damage to goods including baggage carried in any ship;
 
-Civil Jurisdiction and Judgments
-
-1993-29 (g) general average;
+(g) general average;
 
 (h) bottomry;
 
@@ -840,17 +794,13 @@ Subject to the provisions of the second paragraph of Article 54, and of Article 
 
 - the Convention between Belgium and France on Jurisdiction and the Validity and Enforcement of Judgments, Arbitration Awards and Authentic Instruments, signed at Paris on 8 July 1989;
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
 - the Convention between Belgium and the Netherlands on Jurisdiction, Bankruptcy, and the Validity and Enforcement of Judgments, Arbitration Awards and Authentic Instruments, signed at Brussels on 28th March 1925;
 
 - the Convention between France and Italy on the Enforcement of Judgments in Civil and Commercial Matters, signed at Rome on 3 June 1930;
 
 - the Convention between the United Kingdom and the French Republic providing for the Reciprocal Enforcement of Judgments in Civil and Commercial Matters, with Protocol, signed at Paris on 18 January 1934;
 
-- the Convention between the United Kingdom and the Kingdom of Belgium providing for the Reciprocal Enforcement  in Civil and Commercial Matters, with Protocol, signed at Brussels on 2 May 1934;
+- the Convention between the United Kingdom and the Kingdom of Belgium providing for the Reciprocal Enforcement in Civil and Commercial Matters, with Protocol, signed at Brussels on 2 May 1934;
 
 - the Convention between Germany and Italy on the Recognition and Enforcement of Judgments in Civil and Commercial matters, signed at Rome on 9 March 1936;
 
@@ -864,9 +814,7 @@ Civil Jurisdiction and Judgments
 
 - the Convention between the Kingdom of the Netherlands and the Federal Republic of Germany on the Mutual Recognition and Enforcement of Judgments and other Enforceable Instruments in Civil and Commercial Matters, signed at The Hague on 30 August 1962;
 
-Civil Jurisdiction and Judgments
-
-1993-29 - the Convention between the United Kingdom and the Republic of Italy for the Reciprocal Recognition and Enforcement of Judgments in Civil and Commercial Matters, signed at Rome on 7 February 1964, with amending Protocol signed at Rome on 14 July 1970;
+- the Convention between the United Kingdom and the Republic of Italy for the Reciprocal Recognition and Enforcement of Judgments in Civil and Commercial Matters, signed at Rome on 7 February 1964, with amending Protocol signed at Rome on 14 July 1970;
 
 - the Convention between the United Kingdom and the Kingdom of the Netherlands providing for the Reciprocal Recognition and Enforcement of Judgments in Civil Matters, signed at the Hague on 17th November 1967;
 
@@ -890,9 +838,7 @@ ARTICLE 57
 
 (1) This Convention shall not affect any conventions to which the Contracting States are or will be parties and which in relation to particular matters, govern jurisdiction or the recognition or enforcement of judgments.
 
-Civil Jurisdiction and Judgments
-
-1993-29 (2) With a view to its uniform interpretation, paragraph 1 shall be applied in the following manner–
+(2) With a view to its uniform interpretation, paragraph 1 shall be applied in the following manner–
 
 (a) this Convention shall not prevent a court of a Contracting State which is a party to a convention on a particular matter from assuming jurisdiction in accordance with that Convention, even where the defendant is domiciled in another Contracting State which is not a party to that Convention. The court hearing the action shall in any event, apply Article 20 of this Convention;
 
@@ -909,10 +855,6 @@ Until such time as the Convention on jurisdiction and the enforcement of judgmen
 ARTICLE 59
 
 This Convention shall not prevent a Contracting State from assuming, in a convention on the recognition and enforcement of judgments, an obligation towards a third State not to recognise judgments given in other Contracting States against defendants domiciled or habitually resident in the third State where, in cases provided for in Article 4, the judgment could only be founded on a ground of jurisdiction specified in the second paragraph of Article 3.
-
-Civil Jurisdiction and Judgments
-
-1993-29
 
 However, a Contracting State may not assume an obligation towards a third State not to recognise a judgment given in another Contracting State by a court basing its jurisdiction on the presence within the State of property belonging to the defendant, or the seizure by the plaintiff of property situated there:
 
@@ -940,9 +882,7 @@ The Contracting States recognise that any State which becomes a member of the Eu
 
 The necessary adjustments may be the subject of a special convention between the Contracting States of the one part and the new Member State of the other part.
 
-Civil Jurisdiction and Judgments
-
-1993-29 ARTICLE 64
+ARTICLE 64
 
 The Secretary-General of the Council of the European Communities shall notify the signatory States of:
 
@@ -978,9 +918,7 @@ ANNEXED PROTOCOL
 
 The High Contracting Parties have agreed upon the following provisions which shall be annexed to the Convention.
 
-Civil Jurisdiction and Judgments
-
-1993-29 ARTICLE I
+ARTICLE I
 
 Any person domiciled in Luxembourg who is sued in a court of another Contracting State pursuant to Article 5 (1) may refuse to submit to the jurisdiction of that court. If the defendant does not enter an appearance the court shall declare of its own motion that it has no jurisdiction.
 
@@ -1000,11 +938,7 @@ ARTICLE IV
 
 Judicial and extrajudicial documents drawn up in one Contracting State which have to be served on persons in another Contracting State shall be transmitted in accordance with the procedures laid down in the conventions and agreements concluded between the Contracting States.
 
-Unless the State in which service is to take place objects by declaration to the Secretary-General of the Council of the European Communities, such documents may also be sent by the appropriate public officers of the State in which the document has been drawn up directly to the appropriate public officers of the State in which the addressee is to be found. In this case the officer of the State of origin shall send a copy of the document to the officer of the State addressed who is competent to forward it to the addressee. The document shall be forwarded in the manner specified by the law of the State
-
-Civil Jurisdiction and Judgments
-
-1993-29 addressed. The forwarding shall be recorded by a certificate sent directly to the officer of the State of origin.
+Unless the State in which service is to take place objects by declaration to the Secretary- General of the Council of the European Communities, such documents may also be sent by the appropriate public officers of the State in which the document has been drawn up directly to the appropriate public officers of the State in which the addressee is to be found. In this case the officer of the State of origin shall send a copy of the document to the officer of the State addressed who is competent to forward it to the addressee. The document shall be forwarded in the manner specified by the law of the State addressed. The forwarding shall be recorded by a certificate sent directly to the officer of the State of origin.
 
 ARTICLE V
 
@@ -1018,15 +952,13 @@ In matters relating to maintenance, the expression “court” includes the Dani
 
 ARTICLE V B
 
-In proceedings involving a dispute between the master and a member of the crew of a sea-going ship registered in Denmark or in Ireland or in Portugal, concerning remuneration or other conditions of service, a court in a Contracting State shall establish whether the diplomatic or consular officer responsible for the ship has been notified of the dispute. It shall stay the proceedings so long as he has not been notified. It shall of its own motion decline jurisdiction if the officer, having been duly notified, has exercised the powers accorded to him in the matter by a consular convention, or in the absence of such a convention, has, within the time allowed, raised any objection to the exercise of such jurisdiction.
+In proceedings involving a dispute between the master and a member of the crew of a sea- going ship registered in Denmark or in Ireland or in Portugal, concerning remuneration or other conditions of service, a court in a Contracting State shall establish whether the diplomatic or consular officer responsible for the ship has been notified of the dispute. It shall stay the proceedings so long as he has not been notified. It shall of its own motion decline jurisdiction if the officer, having been duly notified, has exercised the powers accorded to him in the matter by a consular convention, or in the absence of such a convention, has, within the time allowed, raised any objection to the exercise of such jurisdiction.
 
 ARTICLE V C
 
 Articles 52 and 53 of this Convention shall, when applied by Article 69(5) of the Convention for the European Patent for the Common Market, signed at Luxembourg on 15 December 1975, to the provisions relating to “residence” in the English text of that Convention, operate as if “residence” in that text were the same as “domicile” in Articles 52 and 53.
 
-Civil Jurisdiction and Judgments
-
-1993-29 ARTICLE V D
+ARTICLE V D
 
 Without prejudice to the jurisdiction of the European Patent Office under the Convention on the Grant of European Patents, signed at Munich on 5 October 1973, the courts of each Contracting State shall have exclusive jurisdiction, regardless of domicile, in proceedings concerned with the registration or validity of any European patent granted for that State which is not a Community patent by virtue of the provisions of Article 86 of the Convention for the European Patent for the Common Market, signed at Luxembourg on 15 December 1975.
 
@@ -1035,7 +967,3 @@ ARTICLE VI
 The Contracting States shall communicate to the Secretary-General of the Council of the European Communities the text of any provisions of their laws which amend either those articles of their laws mentioned in the Convention or the lists of courts specified in section 2 of Title III of the Convention.
 
 (Signatures of Plenipotentiaries of the original six Contracting States).
-
-Civil Jurisdiction and Judgments
-
-1993-29

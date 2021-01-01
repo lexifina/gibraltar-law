@@ -32,10 +32,6 @@ Enforcement of judgments other than maintenance orders (section 6).
 
 4. Deleted
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
 Interest on judgments (section 9).
 
 5.(1) Subject to sub-paragraph (2), where a person applying for enforcement of a judgment under the Regulation shows
@@ -67,10 +63,6 @@ Proof and admissibility of judgments and related documents (section 11).
 (a)  to bear the seal of that court; or
 
 (b)  to be certified by any person in his capacity as a judge or officer of that court to be a true copy of a judgment given by that court.
-
-Civil Jurisdiction and Judgments
-
-1993-29
 
 (3)  Nothing in this paragraph shall prejudice the admission in evidence of any document which is admissible apart from this paragraph.
 
@@ -110,9 +102,7 @@ Seat of company, or other legal person or association for purposes of Article 24
 
 (3)  Subject to sub-paragraph (4), a company, legal person or association has its seat in a Regulation State other than Gibraltar if and only if
 
-Civil Jurisdiction and Judgments
-
-1993-29 (a) it was incorporated or formed under the law of that state; or
+(a) it was incorporated or formed under the law of that state; or
 
 (b) its central management and control is exercised in that state.
 
@@ -154,9 +144,7 @@ AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS
 
 Interpretation.
 
-Civil Jurisdiction and Judgments
-
-1993-29 12. In this Part, references to authentic instruments and court settlements are references to those instruments and settlements referred to in Chapter IV of the Regulation.
+12. In this Part, references to authentic instruments and court settlements are references to those instruments and settlements referred to in Chapter IV of the Regulation.
 
 Application to authentic instruments and court settlements.
 
@@ -173,39 +161,3 @@ Application to authentic instruments and court settlements.
 Rules of Court.
 
 14.  Section 32 (matters for which rules of court may provide) will apply to authentic instruments and court settlements as if they were judgments to which the Regulation applies.
-
-Civil Jurisdiction and Judgments
-
-1993-29 SCHEDULE 11 Section 38A
-
-APPLICATION OF REGULATION 2201/2003 Jurisdiction and the recognition and enforcement of judgments in matrimonial and parental responsibility matters.
-
-Interpretation.
-
-1.  In this Schedule, words defined in Regulation 2201/2003 have the same meaning.
-
-Central authority for Gibraltar.
-
-2.  The Minister responsible for justice shall be the central authority in Gibraltar for the purposes of Article 53 of Regulation 2201/2003.
-
-Recognition and enforcement of judgments.
-
-3.(1)  The Supreme Court–
-
-(a) may, for the purposes of Chapter III of Regulation 2201/2003, make an order that a judgment of a court in a Regulation State is recognised, or not recognised, in Gibraltar;
-
-(b) may, for the purposes of Article 28(1) of Regulation 2201/2003, make an order declaring that a judgment on the exercise of parental responsibility of a court in a Regulation State is enforceable in Gibraltar;
-
-(c) shall be the competent court for the purposes of Article 39 of Regulation 2201/2003.
-
-(2)  Where a judgment has been recognised or declared enforceable under subsection (1)(a) or (1)(b), any court in Gibraltar shall have the same powers for the purpose of enforcing the judgment as if the judgment had been made by the Supreme Court and, subject to Regulation 2201/2003, proceedings for or with respect to enforcement may be taken accordingly.
-
-(3)  For the purposes of Article 37(1)(a) of Regulation 2201/2003 a copy of a judgment shall be considered authentic unless the contrary is shown.
-
-Rules of Court.
-
-4.  The Chief Justice may make rules of court to give effect to this Schedule, in particular in relation to the form and manner in which
-
-Civil Jurisdiction and Judgments
-
-1993-29 judgments may be recognised, and applications under Regulation 2201/2003 are made.

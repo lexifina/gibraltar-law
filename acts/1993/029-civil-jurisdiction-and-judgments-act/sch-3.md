@@ -22,9 +22,7 @@ ARTICLE 36 (Deleted)
 
 TITLE VI
 
-Civil Jurisdiction and Judgments
-
-1993-29 FINAL PROVISIONS
+FINAL PROVISIONS
 
 ARTICLE 37
 
@@ -52,10 +50,4 @@ The Secretary-General of the Council of the European Communities shall notify th
 
 ARTICLE 41
 
-Civil Jurisdiction and Judgments
-
-1993-29 This Convention, drawn up in a single original in the Danish, Dutch, English, French. German, Irish and Italian languages, all seven texts being equally authentic, shall be deposited in the archives of the Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy to the Government of each signatory State.
-
-Civil Jurisdiction and Judgments
-
-1993-29
+This Convention, drawn up in a single original in the Danish, Dutch, English, French. German, Irish and Italian languages, all seven texts being equally authentic, shall be deposited in the archives of the Secretariat of the Council of the European Communities. The Secretary- General shall transmit a certified copy to the Government of each signatory State.

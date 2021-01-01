@@ -28,10 +28,6 @@ The following courts may request the Court of Justice to give preliminary ruling
 
 -  in Italy: la Corte Suprema di Cassazione,
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
 - in Luxembourg: la Cour superieure de Justice when sitting as Cour de Cassation,
 
 -  in the Netherlands: de Hoge Road,
@@ -58,10 +54,6 @@ ARTICLE 4
 
 (2) The interpretation given by the Court of Justice in response to such a request shall not affect the judgments which gave rise to the request for interpretation.
 
-Civil Jurisdiction and Judgments
-
-1993-29
-
 (3) The Procurators-General of the Courts of Cassation of the Contracting States, or any other authority designated by a Contracting State, shall be entitled to request the Court of Justice for a ruling on interpretation in accordance with paragraph (1).
 
 (4) The Registrar of the Court of Justice shall give notice of the request to the Contracting States, to the Commission and to the Council of the European Communities; they shall then be entitled within 2 months of the notification to submit statements of case or written observations to the court.
@@ -87,10 +79,6 @@ ARTICLE 8
 This Protocol shall enter into force on the first day of the third month following the deposit of the instrument of ratification by the last signatory State to take this step: provided that it shall at the earliest enter into force at the same time as the Convention of 27 September 1968 on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters.
 
 ARTICLE 9
-
-Civil Jurisdiction and Judgments
-
-1993-29
 
 The Contracting States recognise that any State which becomes a member of the European Community, and to which Article 63 of the Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters applies, must accept the provisions of this Protocol, subject to such adjustments as may be required.
 
@@ -121,7 +109,3 @@ Any Contracting State may request the revision of this Protocol. In this event, 
 ARTICLE 14
 
 This Protocol, drawn up in a single original in the Dutch, French, German and Italian languages, all four texts being equally authentic, shall be deposited in the archives of the Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy to the Government of each signatory State.
-
-Civil Jurisdiction and Judgments
-
-1993-29

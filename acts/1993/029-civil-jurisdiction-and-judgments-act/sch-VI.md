@@ -1,0 +1,5 @@
+ANNEX VI
+
+Certificate on authentic instruments referred to in Article 57(4) of the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters 1. State of origin 2. Court or competent authority issuing the certificate 2.1. Name 2.2. Address 2.3. Tel./fax/e-mail
+
+3. Authority which has given authenticity to the instrument 3.1. Authority involved in the drawing up of the authentic instrument (if applicable) 3.1.1. Name and designation of authority 3.1.2. Place of authority 3.2. Authority which has registered the authentic instrument (if applicable) 3.2.1. Type of authority 3.2.2. Place of authority 4. Authentic instrument 4.1. Description of the instrument 4.2. Date 4.2.1. On which the instrument was drawn up 4.2.2. If different: on which the instrument was registered 4.3. Reference number 4.4. Parties to the instrument 4.4.1. Name of the creditor 4.4.2. Name of the debtor 5. Text of the enforceable obligation as annexed to this certificate. The authentic instrument is enforceable against the debtor in the State of origin (Article 57(1) of the Convention). Done at …, date … Signature and/or stamp
