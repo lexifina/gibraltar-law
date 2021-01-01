@@ -1,28 +1,22 @@
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICATION OF SHIPS) REGULATIONS 2011
+Subsidiary Legislation made under s.118.
 
-1995-13
+Gibraltar Merchant Shipping (Organisations for Inspection, Survey and Certification of Ships) Regulations 2011
 
-Subsidiary 2011/158 Subsidiary Legislation made under s. 118.
-
-GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICATION OF SHIPS) REGULATIONS 2011
-
-(LN. 2011/158)
+LN.2011/158
 
 Commencement 22.9.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2015/223 r. 2 31.12.2015
+LN. 2015/223 r. 2 31.12.2015 2020/385 Long title, rr. 2(1), 3(4)(a), 6(1)-(2), 7(4), 8(2), 9(2)- (4), Sch.
+
+1.1.2021
 
 Transposing: Directive 2009/15/EC Directive 2014/111/EU
 
 Implementing: Regulation (EC) No 391/2009
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICATION OF SHIPS) REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/158 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -32,8 +26,4 @@ SCHEDULE
 
 MINIMUM CRITERIA FOR ORGANISATIONS TO OBTAIN OR TO CONTINUE TO ENJOY COMMUNITY RECOGNITION
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICATION OF SHIPS) REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/158 In exercise of the powers conferred on it by section 118 of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993, and all other enabling powers, and for the purposes of transposing into the law of Gibraltar Directive 2009/15/EC of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations and of implementing Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations, the Government has made the following Regulations–
+In exercise of the powers conferred on it by section 118 of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993, and all other enabling powers, the Government has made the following Regulations–

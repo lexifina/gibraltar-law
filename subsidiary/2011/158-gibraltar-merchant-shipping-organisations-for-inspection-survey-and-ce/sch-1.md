@@ -16,13 +16,7 @@ PART A GENERAL MINIMUM CRITERIA
 
 5.  The recognised organisation must have its register of ships published on an annual basis or maintained in an electronic database accessible to the public.
 
-6.  The recognised organisation must not be controlled by shipowners or shipbuilders, or by others engaged commercially in the manufacture, equipping, repair or operation of ships. The recognised organisation is not substantially dependent on a single commercial enterprise for its revenue. The recognised organisation does not carry out class or statutory work if it is identical to or has business, personal or family links to the shipowner or
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICATION OF SHIPS) REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/158 operator. This incompatibility shall also apply to surveyors employed by the recognised organisation.
+6.  The recognised organisation must not be controlled by shipowners or shipbuilders, or by others engaged commercially in the manufacture, equipping, repair or operation of ships. The recognised organisation is not substantially dependent on a single commercial enterprise for its revenue. The recognised organisation does not carry out class or statutory work if it is identical to or has business, personal or family links to the shipowner or operator. This incompatibility shall also apply to surveyors employed by the recognised organisation.
 
 7. The recognised organisation must operate in accordance with the provisions set out in the Annex to IMO Resolution A.789(19) on specifications on the survey and certification functions of recognised organisations acting on behalf of the administration, in so far as they cover matters falling within the scope of the EU Regulation.
 
@@ -34,17 +28,13 @@ PART B SPECIFIC MINIMUM CRITERIA
 
 3.  The recognised organisation must be managed and administered in such a way as to ensure the confidentiality of information required by the administration.
 
-4.  The recognised organisation must provide relevant information to the administration, to the Commission and to interested parties.
+4.  The recognised organisation must provide relevant information to the administration and to interested parties.
 
-5.  The recognised organisation, its surveyors and its technical staff shall carry out their work without in any way harming the intellectual property rights of shipyards, equipment suppliers, and shipowners, including patents, licences, know-how, or any other kind of knowledge whose use is legally protected at international, European Union or national level; under no circumstances, and without prejudice to the assessment powers of Member States and the Commission and in particular under Article 9 of the EU Regulation, may either the recognised organisation or the surveyors and technical staff, whom it employs, pass on or divulge commercially relevant data obtained in the course of their work of inspecting, checking, and monitoring ships under construction or repair.
+5.  The recognised organisation, its surveyors and its technical staff shall carry out their work without in any way harming the intellectual property rights of shipyards, equipment suppliers, and shipowners, including patents, licences, know-how, or any other kind of knowledge whose use is legally protected at international, European Union or national level; under no circumstances, and without prejudice to the assessment powers of the Administration and in particular under Article 9 of the EU Regulation, may either the recognised organisation or the surveyors and technical staff, whom it employs, pass on or divulge commercially relevant data obtained in the course of their work of inspecting, checking, and monitoring ships under construction or repair.
 
 6.  The recognised organisation’s management must define and document its policy and objectives for, and commitment to, quality and must ensure that this policy is understood, implemented and maintained at all levels in the recognised organisation. The recognised organisation’s policy must refer to safety and pollution prevention performance targets and indicators.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICATION OF SHIPS) REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/158 7.  The recognised organisation must ensure that–
+7.  The recognised organisation must ensure that–
 
 (a) its rules and procedures are established and maintained in a systematic manner;
 
@@ -66,13 +56,7 @@ Subsidiary 2011/158 7.  The recognised organisation must ensure that–
 
 (j) a comprehensive system of planned and documented internal audits of the quality related activities is maintained in all locations;
 
-(k) the statutory surveys and inspections required by the harmonised system of survey and certification for which the
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (ORGANISATIONS FOR INSPECTION, SURVEY AND CERTIFICATION OF SHIPS) REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/158 recognised organisation is authorised are carried out in accordance with the provision set out in the Annex and Appendix to IMO Resolution A.948(23) on survey guidelines under the harmonised system of survey and certification;
+(k) the statutory surveys and inspections required by the harmonised system of survey and certification for which the recognised organisation is authorised are carried out in accordance with the provision set out in the Annex and Appendix to IMO Resolution A.948(23) on survey guidelines under the harmonised system of survey and certification;
 
 (l) clear and direct lines of responsibility and control are established between the central and the regional offices of the recognised organisation and between the recognised organisations and their surveyors.
 
