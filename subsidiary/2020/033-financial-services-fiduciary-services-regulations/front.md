@@ -8,7 +8,13 @@ LN.2020/033
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/489 rr. 2(1), 36(1)(a), (e), (2)-(3), 42-43, 44(a)-(b), (5)(b), 48, Sch.
+
+1.1.2021 2022/188 Sch. 1.1.2021
+
+2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -32,8 +38,6 @@ Customer relations
 
 6. Advertising by fiduciary services provider. 7. Communication with customers. 8. Management agreement. 9. Confidentiality undertaking by staff. 10. Customer due diligence.
 
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
-
 Companies under management
 
 11. Duties of director provided by fiduciary services provider. 12. Powers of attorney. 13. Termination and transfer of customers.
@@ -41,6 +45,8 @@ Companies under management
 Ethical standards
 
 14. Money laundering prevention. 15. Conflict of interest. 16. Disclosure of interest. 17. Inducements prohibited.
+
+Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
 
 PART 3 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
@@ -64,8 +70,6 @@ Cessation of business
 
 29. Cessation of business by fiduciary services provider.
 
-Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
-
 PART 4 PRUDENTIAL REQUIREMENTS
 
 CHAPTER 1 GENERAL
@@ -76,6 +80,8 @@ Continuing compliance
 
 Financial resources
 
+2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
+
 31. Sufficient financial resources.
 
 Customer assets
@@ -84,7 +90,7 @@ Customer assets
 
 Customer money
 
-33. Customer money. 34. Customer money must be deposited in customer bank account. 35. Customer money is held on trust. 36. Requirements for customer bank account. 37. Payment of other money into customer bank account. 38. Restrictions on use of customer bank account. 39. Withdrawals from customer bank account. 40. Restrictions on withdrawals from customer bank account. 41. Accounting for customer money. 42. Interest on customer money. 43. Fiduciary services provider as authorised credit institution. 44. Customer safeguard accounts
+33. Customer money. 34. Customer money must be deposited in customer bank account. 35. Customer money is held on trust. 36. Requirements for customer bank account. 37. Payment of other money into customer bank account. 38. Restrictions on use of customer bank account. 39. Withdrawals from customer bank account. 40. Restrictions on withdrawals from customer bank account. 41. Accounting for customer money. 42. Interest on customer money. 43. Fiduciary services provider as recognised credit institution. 44. Customer safeguard accounts
 
 Professional indemnity insurance
 
@@ -94,13 +100,11 @@ CHAPTER 2 FINANCIAL REPORTING
 
 Accounting records
 
-46. General duty to keep accounting records.
-
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
-
-47. Records of transactions and commitments. 48. Reconciliation of customer money. 49. Reconciliation of customers’ financial instruments held by fiduciary services provider. 50. Records to be kept up to date. 51. Audit trail. 52. Conformity with accounting standards. 53. Retention of records. 54. Inspection of records.
+46. General duty to keep accounting records. 47. Records of transactions and commitments. 48. Reconciliation of customer money. 49. Reconciliation of customers’ financial instruments held by fiduciary services provider. 50. Records to be kept up to date. 51. Audit trail. 52. Conformity with accounting standards. 53. Retention of records. 54. Inspection of records.
 
 Financial statements
+
+Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
 
 55. Duty to prepare financial statements. 56 Balance sheet to give true and fair view. 57. Profit and loss account to give true and fair view. 58. Form and content of financial statements. 59. Annual financial statements to be submitted to meeting of partners, etc. 60. Additional requirement in case of sole proprietor. 61. Annual financial statements must be submitted to GFSC. 62. Fiduciary services provider to obtain auditor’s report. 63. Contents of auditor’s report. 64. Qualified reports.
 
@@ -116,8 +120,6 @@ PART 6 REGULATORY POWERS
 
 Directions
 
-Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
-
 74. Directions.
 
 Sanctions
@@ -126,10 +128,14 @@ Sanctions
 
 PART 7 MISCELLANEOUS
 
-77. The Register: fiduciary services providers. 78. Restriction on use of the word “trust”.
+77. The Register: fiduciary services providers.
+
+2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
+
+78. Restriction on use of the word “trust”.
 
 SCHEDULE FORM AND CONTENT OF FINANCIAL STATEMENTS
 
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
 
 In exercise of the powers conferred upon the Minister under sections 6(1), 24(3)(v), 44(4), 63(3), 64(3), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of the Financial Services Act 2019, the Minister has made these Regulations.
