@@ -34,15 +34,13 @@ Employment
 
 13.10.20162 2016-20 ss. 2, 45N(1), (3), 45O(1), 52E- 52F, 52P, 62(1)(a)-(b), 70(1), 77A(1), (4), (7), (c), 77B(1), 77D, 78J, 78M(1), (7)-(8), (10)-(13), 78N(1)-(2), (5), 78P, 83A(3), 88-90
 
-13.10.2016 LN. 2017/158 ss. 74(1)(b), 76(8A), 78B(3), (3A) 10.10.2017
-
-English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act 1920 (10 & II Geo. 5 c. 65)
+13.10.2016 LN. 2017/158 ss. 74(1)(b), 76(8A), 78B(3), (3A) 10.10.2017 2020/523 s. 83A 1.1.2021 2020/539 ss. 2, 20, 31A(3), 78B(3), 86(1)(g) 1.1.2021
 
 1 Commencement Notice see LN. 2012/128 2 Commencement Notice see LN. 2016/206
 
 Employment
 
-1932-16 Equal Pay Act 1970 (1970 c. 41)
+1932-16 English sources: Truck Act 1831 (1 & 2 Will. 4 c. 37) Employment of Women, Young Persons and Children Act  1920 (10 & II Geo. 5 c. 65) Equal Pay Act 1970 (1970 c. 41)
 
 Transposing: Directive 77/187/EEC Directive 86/378 Directives 89/391/EEC Directive 91/533/EEC Directive 92/56/EEC Directives 92/85/EEC Directive 98/49/EC Directive 98/59/EC Directive 2001/23/EC Directive 2008/52/EC Directive 2008/104/EC Directive (EU) 2015/1794 Regulation 1612/68
 
@@ -66,15 +64,15 @@ Employment
 
 Section
 
-PART I. PRELIMINARY. 1. Short title. 2. Interpretation. PART II. STATUTORY BODIES AND ADMINISTRATION. 3. Repealed. 4. Repealed. 5. Repealed. The Conditions of Employment Board. 6. Establishment and membership of Conditions of Employment Board. 7. Functions. 8. Power to summon witnesses, etc. Joint Industrial Councils. 9. Registration of Joint Industrial Councils. 10. Functions. 11. Duty to supply copies of records. The Employment Tribunal. 12. Power to establish an Employment Tribunal. 13. Appeals. Employment Exchanges. 14. Industrial Tribunal to be known as Employment Tribunal. 14A. Originating applications to be known as claim forms. 14B. Complaint to be known as claim. 14C. Chairperson. 14D. Composition of Employment Tribunal. 14E. Oaths. 14F. Remuneration of Chairpersons and Mediators. 14G. Conduct of hearings. 15. Keeping of registers. 16. Appointment of inspectors.
+PART I. PRELIMINARY. 1. Short title. 2. Interpretation. PART II. STATUTORY BODIES AND ADMINISTRATION. 3. Repealed. 4. Repealed. 5. Repealed. The Conditions of Employment Board. 6. Establishment and membership of Conditions of Employment Board. 7. Functions. 8. Power to summon witnesses, etc. Joint Industrial Councils. 9. Registration of Joint Industrial Councils. 10. Functions. 11. Duty to supply copies of records. The Employment Tribunal. 12. Power to establish an Employment Tribunal. 13. Appeals. Employment Exchanges. 14. Industrial Tribunal to be known as Employment Tribunal. 14A. Originating applications to be known as claim forms. 14B. Complaint to be known as claim. 14C. Chairperson. 14D. Composition of Employment Tribunal. 14E. Oaths. 14F. Remuneration of Chairpersons and Mediators. 14G. Conduct of hearings. 15. Keeping of registers.
 
 Employment
 
-1932-16 17. Powers and duties of inspectors. PART III. RESTRICTIONS ON EMPLOYMENT. 18. Interpretation. 19. Application. 20. Requirement in respect of work permits. 21. Repealed. 22. Repealed. 23. Repealed. 24. Return of permits. 25. Issue of certificates of employment. 26. Surrender of certificates. 26A. Repealed. 27. Power to require returns. 28. Offences and penalties. Women, Young Persons and Children. 29. Interpretation. 30. Restriction on employment in industrial undertakings. 31. Restriction on employment in ships. 31A. Prohibition for certain work. 32. Offences. 33. Saving. PART IV. CONDITIONS OF EMPLOYMENT. Recommendations and Orders. 34. References to Conditions of Employment Board. 35. Investigation, etc. 36. Powers of Minister. 37. Scope of orders. 38. Exhibition of orders. Recognised Conditions. 39. Recognised conditions of employment. 40. Exceptions for employer’s family. 41. Authorization of overtime outside recognised conditions. 42. Special conditions for aged, disabled and infirm workers. 43. Offences. Payment of Wages.
+1932-16 16. Appointment of inspectors. 17. Powers and duties of inspectors. PART III. RESTRICTIONS ON EMPLOYMENT. 18. Interpretation. 19. Application. 20. Requirement in respect of work permits. 21. Repealed. 22. Repealed. 23. Repealed. 24. Return of permits. 25. Issue of certificates of employment. 26. Surrender of certificates. 26A. Repealed. 27. Power to require returns. 28. Offences and penalties. Women, Young Persons and Children. 29. Interpretation. 30. Restriction on employment in industrial undertakings. 31. Restriction on employment in ships. 31A. Prohibition for certain work. 32. Offences. 33. Saving. PART IV. CONDITIONS OF EMPLOYMENT. Recommendations and Orders. 34. References to Conditions of Employment Board. 35. Investigation, etc. 36. Powers of Minister. 37. Scope of orders. 38. Exhibition of orders. Recognised Conditions. 39. Recognised conditions of employment. 40. Exceptions for employer’s family. 41. Authorization of overtime outside recognised conditions. 42. Special conditions for aged, disabled and infirm workers. 43. Offences.
 
 Employment
 
-1932-16 44. Wages to be paid to the employee. 45. Wages to be paid at regular intervals.
+1932-16 Payment of Wages. 44. Wages to be paid to the employee. 45. Wages to be paid at regular intervals.
 
 Part IVA.
 
@@ -82,19 +80,19 @@ Public Interest Disclosures 45A. Interpretation of this Part. 45B. Disclosures q
 
 PART VA. SEX DESCRIMINATION.
 
-52A. Principle of equal treatment. 52B. Application of the principle of equal treatment. 52C. Principle of equal pay. 52D. Laws, etc. contrary to the principles cease to have effect. 52E. Enforcement of the principles.
+52A. Principle of equal treatment. 52B. Application of the principle of equal treatment. 52C. Principle of equal pay. 52D. Laws, etc. contrary to the principles cease to have effect.
 
 Employment
 
-1932-16 52F. Remedies on complaint. 52G. Employer’s duty to bring principles to notice of employees. 52H. Interest on compensation.
+1932-16 52E. Enforcement of the principles. 52F. Remedies on complaint. 52G. Employer’s duty to bring principles to notice of employees. 52H. Interest on compensation.
 
 PART VB. EQUAL TREATMENT AND NON-DISCRIMINATION IN OCCUPATIONAL PENSION SCHEMES.
 
-52J. Interpretation of Part VB. 52K. The Equal Treatment Rule. 52L. Equal Treatment Rule: Supplementary. 52M. Equal Treatment Rule: Exceptions. 52N. Equal Treatment Rule: Consequential alteration of Schemes. 52P. Reference to the Employment Tribunal. 52Q. Prohibition on different rules for overseas residents etc. 52R. Regulations. PART VI. TERMINATION OF EMPLOYMENT. General. 53. Probationary employment. 54. Notice to terminate contract. 55. Compensation. 56. Exceptions to sections 54 and 55. 57. Incapacity of employee. 58. Certificates of service. Right not to be Dismissed Unfairly. 59. Right not to be dismissed unfairly. 60. Qualifications as to length of service and age. 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 65A. Dismissal in maternity cases. 65B. Dismissal in health and safety cases. 65C. Dismissal in relevant and statutory right cases. 65D. Protected disclosure. 66. Pressure on employer to be disregarded.
+52J. Interpretation of Part VB. 52K. The Equal Treatment Rule. 52L. Equal Treatment Rule: Supplementary. 52M. Equal Treatment Rule: Exceptions. 52N. Equal Treatment Rule: Consequential alteration of Schemes. 52P. Reference to the Employment Tribunal. 52Q. Prohibition on different rules for overseas residents etc. 52R. Regulations. PART VI. TERMINATION OF EMPLOYMENT. General. 53. Probationary employment. 54. Notice to terminate contract. 55. Compensation. 56. Exceptions to sections 54 and 55. 57. Incapacity of employee. 58. Certificates of service. Right not to be Dismissed Unfairly. 59. Right not to be dismissed unfairly. 60. Qualifications as to length of service and age. 61. Exclusion of certain employments. 62. Modification of section 60. 63. Exclusion of contracts for fixed term. Meaning of Fair and Unfair Dismissal and Onus of Proof. 64. Interpretation. 65. Onus on employer. 65A. Dismissal in maternity cases. 65B. Dismissal in health and safety cases. 65C. Dismissal in relevant and statutory right cases. 65D. Protected disclosure.
 
 Employment
 
-1932-16 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Employment Tribunal. 70. Complaints and recommendations. 71. Awards. 72. Repealed. 73. Contribution by third party.
+1932-16 66. Pressure on employer to be disregarded. 67. Dismissal in connection with a lock-out. 68. Dismissal for participation in industrial action. 69. Safeguarding of national security. Complaints to and Powers of the Employment Tribunal. 70. Complaints and recommendations. 71. Awards. 72. Repealed. 73. Contribution by third party.
 
 PART VIA Collective redundancies
 
@@ -102,15 +100,15 @@ PART VIA Collective redundancies
 
 PART VIB Transfer of Undertakings
 
-78A. Part VIB: Interpretation. 78B. Application of this Part and a relevant transfer. 78C. Effect of relevant transfer on contracts of employment. 78D. Effect of relevant  transfer on collective agreements. 78E. Effect of relevant transfer on trade union recognition. 78F. Dismissal of employee because of relevant transfer 78G. Variations of contract where transferors are subject to relevant insolvency proceedings. 78H. Pensions. 78I. Notification of employee liability information. 78J. Remedy for failure to notify employee liability information. 78K. Duty to inform and consult representatives. 78L. Election of employee representatives. 78M. Failure to inform or consult. 78N. Failure to inform or consult : supplemental. 78P. Contracting out against Part VIB. PART VII.
+78A. Part VIB: Interpretation. 78B. Application of this Part and a relevant transfer. 78C. Effect of relevant transfer on contracts of employment. 78D. Effect of relevant  transfer on collective agreements. 78E. Effect of relevant transfer on trade union recognition. 78F. Dismissal of employee because of relevant transfer 78G. Variations of contract where transferors are subject to relevant insolvency proceedings. 78H. Pensions. 78I. Notification of employee liability information. 78J. Remedy for failure to notify employee liability information. 78K. Duty to inform and consult representatives. 78L. Election of employee representatives. 78M. Failure to inform or consult. 78N. Failure to inform or consult : supplemental. 78P. Contracting out against Part VIB.
 
 Employment
 
-1932-16 MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 83A.
+1932-16 PART VII. MISCELLANEOUS. Records. 79. Records of employees. 80. Language. Offences and Prosecution. 81. Miscellaneous offences. 82. Orders for payment of wages underpaid or withheld. 83. Limitation. 83A. Deleted. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. 90. Jurisdiction of the Supreme Court. 91. Repeal. 92. Savings and transitional provisions.
 
-Postponement of effect of expiry of limitation periods for certain mediated cross-border disputes. 84. Restriction on prosecutions. 85. Appearances. Rules and Regulations. 86. Regulations. 87. Repealed. 88. Rules of court. The Crown. 89. The Crown. 90. Jurisdiction of the Supreme Court. 91. Repeal. 92. Savings and transitional provisions.
+Schedule 1. Chairperson Oath. Schedule 2. Conventions.
 
-Schedule 1. Chairperson Oath. Schedule 2. Conventions. Schedule 3. Non-Exhaustive List of Agents, Processes and Work
+Schedule 3. Non-Exhaustive List of Agents, Processes and Work
 
 Employment
 
