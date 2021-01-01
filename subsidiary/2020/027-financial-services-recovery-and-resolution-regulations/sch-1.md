@@ -46,9 +46,9 @@ The recovery plan must include the following information:
 
 (20) a framework of indicators which identifies the points at which appropriate actions referred to in the plan may be taken.
 
-PART 2 INFORMATION THAT RESOLUTION AUTHORITIES MAY REQUEST INSTITUTIONS TO PROVIDE FOR THE PURPOSES OF DRAWING UP AND MAINTAINING RESOLUTION PLANS
+PART 2 INFORMATION THAT THE RESOLUTION AUTHORITY MAY REQUEST INSTITUTIONS TO PROVIDE FOR THE PURPOSES OF DRAWING UP AND MAINTAINING RESOLUTION PLANS
 
-Resolution authorities may request institutions to provide for the purposes of drawing up and maintaining resolution plans at least the following information:
+The Gibraltar Resolution Authority may request institutions to provide for the purposes of drawing up and maintaining resolution plans at least the following information:
 
 (1) a detailed description of the institution’s organisational structure including a list of all legal persons;
 
@@ -100,7 +100,7 @@ Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATI
 
 (18) a description of the arrangements that the institution has in place to ensure that, in the event of resolution, the resolution authority will have all the necessary information, as determined by the resolution authority, for applying the resolution tools and powers;
 
-(19) all the agreements entered into by the institutions and their legal entities with third parties the termination of which may be triggered by a decision of the authorities to apply a resolution tool and whether the consequences of termination may affect the application of the resolution tool;
+(19) all the agreements entered into by the institutions and their legal entities with third parties the termination of which may be triggered by a decision of the Gibraltar Resolution Authority to apply a resolution tool and whether the consequences of termination may affect the application of the resolution tool;
 
 (20) a description of possible liquidity sources for supporting resolution;
 
@@ -108,7 +108,7 @@ Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATI
 
 PART 3 MATTERS THAT THE RESOLUTION AUTHORITY IS TO CONSIDER WHEN ASSESSING THE RESOLVABILITY OF AN INSTITUTION OR GROUP
 
-When assessing the resolvability of an institution or group, the resolution authority must consider the following (but when assessing the resolvability of a group, references to an institution include any institution or entity in regulation 2(1)(c) or (d) within a group):
+When assessing the resolvability of an institution or group, the Gibraltar Resolution Authority must consider the following (but when assessing the resolvability of a group, references to an institution include any institution or entity in regulation 2(1)(c) or (d) within a group):
 
 (1) the extent to which the institution is able to map core business lines and critical operations to legal persons;
 
@@ -132,44 +132,44 @@ Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATI
 
 (10) the capacity of the management information systems to provide the information essential for the effective resolution of the institution at all times even under rapidly changing conditions;
 
-(11) the extent to which the institution has tested its management information systems under stress scenarios as defined by the resolution authority;
+(11) the extent to which the institution has tested its management information systems under stress scenarios as defined by the Gibraltar Resolution Authority;
 
-(11) the extent to which the institution can ensure the continuity of its management information systems both for the affected institution and the new institution in the case that the critical operations and core business lines are separated from the rest of the operations and business lines;
+(12) the extent to which the institution can ensure the continuity of its management information systems both for the affected institution and the new institution in the case that the critical operations and core business lines are separated from the rest of the operations and business lines;
 
-(12) the extent to which the institution has established adequate processes to ensure that it provides the resolution authorities with the information necessary to identify depositors and the amounts covered by the deposit guarantee schemes;
+(13) the extent to which the institution has established adequate processes to ensure that it provides the Gibraltar Resolution Authority with the information necessary to identify depositors and the amounts covered by the deposit guarantee schemes;
 
 2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
 
-(13) where the group uses intra-group guarantees, the extent to which those guarantees are provided at market conditions and the risk management systems concerning those guarantees are robust;
+(14) where the group uses intra-group guarantees, the extent to which those guarantees are provided at market conditions and the risk management systems concerning those guarantees are robust;
 
-(14) where the group engages in back-to-back transactions, the extent to which those transactions are performed at market conditions and the risk management systems concerning those transactions practices are robust;
+(15) where the group engages in back-to-back transactions, the extent to which those transactions are performed at market conditions and the risk management systems concerning those transactions practices are robust;
 
-(15) the extent to which the use of intra-group guarantees or back-to-back booking transactions increases contagion across the group;
+(16) the extent to which the use of intra-group guarantees or back-to-back booking transactions increases contagion across the group;
 
-(16) the extent to which the legal structure of the group inhibits the application of the resolution tools as a result of the number of legal persons, the complexity of the group structure or the difficulty in aligning business lines to group entities;
+(17) the extent to which the legal structure of the group inhibits the application of the resolution tools as a result of the number of legal persons, the complexity of the group structure or the difficulty in aligning business lines to group entities;
 
-(17) the amount and type of bail-inable liabilities of the institution;
+(18) the amount and type of bail-inable liabilities of the institution;
 
-(18) where the assessment involves a mixed activity holding company, the extent to which the resolution of group entities that are institutions or financial institutions could have a negative impact on the non-financial part of the group;
+(19) where the assessment involves a mixed activity holding company, the extent to which the resolution of group entities that are institutions or financial institutions could have a negative impact on the non-financial part of the group;
 
-(19) the existence and robustness of service level agreements;
+(20) the existence and robustness of service level agreements;
 
-(20) whether third-country authorities have the resolution tools necessary to support resolution actions by EEA resolution authorities, and the scope for coordinated action between EEA and third-country authorities;
+(21) whether third-country authorities have the resolution tools necessary to support resolution actions by the Gibraltar Resolution Authority, and the scope for coordinated action between the Gibraltar Resolution Authority and third-country authorities;
 
-(21) the feasibility of using resolution tools in such a way which meets the resolution objectives, given the tools available and the institution’s structure;
+(22) the feasibility of using resolution tools in such a way which meets the resolution objectives, given the tools available and the institution’s structure;
 
-(22) the extent to which the group structure allows the resolution authority to resolve the whole group or one or more of its group entities without causing a significant direct or indirect adverse effect on the financial system, market confidence or the economy and with a view to maximising the value of the group as a whole;
+(23) the extent to which the group structure allows the Gibraltar Resolution Authority to resolve the whole group or one or more of its group entities without causing a significant direct or indirect adverse effect on the financial system, market confidence or the economy and with a view to maximising the value of the group as a whole;
 
-(23) the arrangements and means through which resolution could be facilitated in the cases of groups that have subsidiaries established in different jurisdictions;
+(24) the arrangements and means through which resolution could be facilitated in the cases of groups that have subsidiaries established in different jurisdictions;
 
-(24) the credibility of using resolution tools in such a way which meets the resolution objectives, given possible impacts on creditors, counterparties, customers and employees and possible actions that third-country authorities may take;
+(25) the credibility of using resolution tools in such a way which meets the resolution objectives, given possible impacts on creditors, counterparties, customers and employees and possible actions that third-country authorities may take;
 
 Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
 
-(25) the extent to which the impact of the institution’s resolution on the financial system and on financial market’s confidence can be adequately evaluated;
+(26) the extent to which the impact of the institution’s resolution on the financial system and on financial market’s confidence can be adequately evaluated;
 
-(26) the extent to which the resolution of the institution could have a significant direct or indirect adverse effect on the financial system, market confidence or the economy;
+(27) the extent to which the resolution of the institution could have a significant direct or indirect adverse effect on the financial system, market confidence or the economy;
 
-(27) the extent to which contagion to other institutions or to the financial markets could be contained through the application of the resolution tools and powers;
+(28) the extent to which contagion to other institutions or to the financial markets could be contained through the application of the resolution tools and powers;
 
-(28) the extent to which the resolution of the institution could have a significant effect on the operation of payment and settlement systems.
+(29) the extent to which the resolution of the institution could have a significant effect on the operation of payment and settlement systems.
