@@ -1,18 +1,14 @@
-Employment EMPLOYMENT (SICK PAY) ORDER
+Subsidiary Legislation made under s. 36.
 
-Subsidiary 1974/004 1932-16 Order made under s.36.
+Employment (Sick Pay) Order
 
-EMPLOYMENT (SICK PAY) ORDER
+LN.1974/004
 
-(LN. 1974/004)
+Commencement 1.2.1974
 
-1.2.1974
+Amending enactments Relevant current provisions Commencement date LN. 1986/060 Para. 3(c) 12.6.1986 2021/228 Para. 3(c) 1.1.2021
 
-Amending enactments Relevant current provisions Commencement date LN. 1986/060 Para. 3(c) 12.6.1986
-
-Employment EMPLOYMENT (SICK PAY) ORDER
-
-Subsidiary 1974/004 1932-16 ARRANGEMENT OF PARAGRAPHS
+ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 
