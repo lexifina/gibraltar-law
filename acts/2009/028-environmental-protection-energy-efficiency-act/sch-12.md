@@ -8,7 +8,7 @@ Part 1 General principles of the cost-benefit analysis
 
 The purpose of preparing cost-benefit analyses in relation to measures for promoting efficiency in heating and cooling as referred to in section 13B(4) is to provide a decision base for qualified prioritisation of limited resources at society level.
 
-The cost-benefit analysis may either cover a project assessment or a group of projects for a broader assessment in order to establish the most cost- effective and beneficial heating or cooling option for a given geographical area for the purpose of heat planning.
+The cost-benefit analysis may either cover a project assessment or a group of projects for a broader assessment in order to establish the most cost-effective and beneficial heating or cooling option for a given geographical area for the purpose of heat planning.
 
 Cost-benefit analyses for the purposes of section 13B(4) shall include an economic analysis covering socio-economic and environmental factors.
 
@@ -16,17 +16,13 @@ The cost-benefit analyses shall include the following steps and considerations:
 
 (a) Establishing a system boundary and geographical boundary
 
-The scope of the cost-benefit analyses in question determines the relevant energy system. The geographical boundary shall cover a suitable well-defined geographical area, e.g. a given region or metropolitan area, to avoid selecting sub-optimised solutions on a project by project basis.
+The scope of the cost-benefit analyses in question determines the relevant energy system. The geographical boundary shall cover a suitable well-defined geographical area, e.g. a given region or metropolitan area, to avoid selecting sub- optimised solutions on a project by project basis.
 
 (b) Integrated approach to demand and supply options
 
 The cost-benefit analysis shall take into account all relevant supply resources available within the system and geographical boundary, using the data available, including waste heat from electricity generation and industrial installations and renewable energy, and the characteristics of, and trends in heat and cooling demand.
 
 (c) Constructing a baseline
-
-Environmental Protection (Energy Efficiency)
-
-2009-28
 
 The purpose of the baseline is to serve as a reference point, to which the alternative scenarios are evaluated.
 
@@ -49,10 +45,6 @@ Only high-efficiency cogeneration, efficient district heating and cooling or eff
 (i) The competent authority must provide assumptions, for the purpose of the cost-benefit analyses, on the prices of major input and output factors and the discount rate.
 
 (ii) The discount rate used in the economic analysis for the calculation of net present value shall be chosen according to European or Gibraltar’s guidelines. (The discount rate chosen for the purpose of economic analysis should take into account data provided by the European Central Bank).
-
-Environmental Protection (Energy Efficiency)
-
-2009-28
 
 (iii) The competent authority must use it’s own, European or international energy price development forecasts.
 
@@ -84,9 +76,7 @@ The costs and benefits referred to in the first paragraph shall include at least
 
 - Energy costs
 
-Environmental Protection (Energy Efficiency)
-
-2009-28 - Environmental, health and safety costs, to the extent possible
+- Environmental, health and safety costs, to the extent possible
 
 - Labour market costs, energy security and competitiveness, to the extent possible.
 
@@ -104,11 +94,7 @@ Heat loads shall include existing heat loads, such as an industrial installation
 
 The cost-benefit analysis shall be based on a description of the planned installation and the comparison installation(s), covering electrical and thermal capacity, as applicable, fuel type, planned usage and the number of planned operating hours annually, location and electricity and thermal demand.
 
-For the purpose of the comparison, the thermal energy demand and the types of heating and cooling used by the nearby heat
-
-Environmental Protection (Energy Efficiency)
-
-2009-28 demand points shall be taken into account. The comparison shall cover infrastructure related costs for the planned and comparison installation.
+For the purpose of the comparison, the thermal energy demand and the types of heating and cooling used by the nearby heat demand points shall be taken into account. The comparison shall cover infrastructure related costs for the planned and comparison installation.
 
 Cost-benefit analyses for the purposes of Article 14(5) shall include an economic analysis covering a financial analysis reflecting actual cash flow transactions from investing in and operating individual installations.
 
@@ -117,7 +103,3 @@ Projects with positive cost-benefit outcome are those where the sum of discounte
 The competent authority must shall set guiding principles for the methodology, assumptions and time horizon for the economic analysis.
 
 The competent authority may require that the companies responsible for the operation of thermal electric generation installations, industrial companies, district heating and cooling networks, or other parties influenced by the defined system boundary and geographical boundary, contribute data for use in assessing the costs and benefits of an individual installation.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28

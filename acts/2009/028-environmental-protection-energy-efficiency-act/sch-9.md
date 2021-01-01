@@ -17,7 +17,3 @@ The energy audits referred to in section 10 shall be based on the following guid
 Energy audits shall allow detailed and validated calculations for the proposed measures so as to provide clear information on potential savings.
 
 The data used in energy audits shall be storable for historical analysis and tracking performance.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28

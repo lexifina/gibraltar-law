@@ -26,10 +26,4 @@ Minimum items to be included in energy performance contracts with the public sec
 
 11. Provisions clarifying the procedure to deal with changing framework conditions that affect the content and the outcome of the contract (i.e. changing energy prices, use intensity of an installation).
 
-Environmental Protection (Energy Efficiency)
-
-2009-28 12. Detailed information on the obligations of each of the contracting party and of the penalties for their breach.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28
+12. Detailed information on the obligations of each of the contracting party and of the penalties for their breach.

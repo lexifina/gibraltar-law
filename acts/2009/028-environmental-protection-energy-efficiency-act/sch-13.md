@@ -6,7 +6,7 @@ Guarantee of origin for electricity produced from high-efficiency cogeneration
 
 1. The competent authority shall take measures to ensure that-
 
-(a) the guarantee of origin of the electricity produced from high- efficiency cogeneration:
+(a) the guarantee of origin of the electricity produced from high-efficiency cogeneration:
 
 (i) enable producers to demonstrate that the electricity they sell is produced from high-efficiency cogeneration and is issued to this effect in response to a request from the producer,
 
@@ -30,9 +30,7 @@ Guarantee of origin for electricity produced from high-efficiency cogeneration
 
 (f) the primary energy savings calculated in accordance with Schedule 5 based on the harmonised efficiency reference values indicated in paragraph (f) of Schedule 5;
 
-Environmental Protection (Energy Efficiency)
-
-2009-28 (g) the nominal electric and thermal efficiency of the plant;
+(g) the nominal electric and thermal efficiency of the plant;
 
 (h) whether and to what extent the installation has benefited from investment support;
 
@@ -43,7 +41,3 @@ Environmental Protection (Energy Efficiency)
 (k) the date and country of issue and a unique identification number.
 
 The guarantee of origin shall be of the standard size of 1 MWh. It shall relate to the net electricity output measured at the station boundary and exported to the grid.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28

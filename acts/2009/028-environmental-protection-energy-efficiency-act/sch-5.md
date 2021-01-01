@@ -10,7 +10,7 @@ For the purpose of this Act high-efficiency cogeneration shall fulfil the follow
 
 (a) cogeneration production from cogeneration units shall provide primary energy savings calculated according to paragraph 2 of at least 10 % compared with the references for separate production of heat and electricity; and
 
-(b) production from small-scale and micro-cogeneration units providing primary energy savings may qualify as high- efficiency cogeneration.
+(b) production from small-scale and micro-cogeneration units providing primary energy savings may qualify as high-efficiency cogeneration.
 
 2.  Calculation of primary energy savings
 
@@ -21,10 +21,6 @@ Where:
 PES is primary energy savings.
 
 CHP Hη is the heat efficiency of the cogeneration production defined as annual useful heat output divided by the fuel input used to produce the sum of useful heat output and electricity from cogeneration.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28
 
 Ref Hη is the efficiency reference value for separate heat production.
 
@@ -42,9 +38,7 @@ Hη shall mean the heat efficiency of the process, defined as the annual heat ou
 
 Eη shall mean the electricity efficiency of the process, defined as the annual electricity output divided by the fuel input used to produce the sum of heat output and electricity output. Where a cogeneration unit generates mechanical energy, the annual electricity from cogeneration may be increased by an additional element representing the amount of electricity which is equivalent to that of mechanical energy. This additional element will not create a right to issue guarantees of origin in accordance with section 13B (17).
 
-Environmental Protection (Energy Efficiency)
-
-2009-28 4. The competent authority may use other reporting periods than one year for the purpose of the calculations according to paragraphs 2 and 3 of this Schedule.
+4. The competent authority may use other reporting periods than one year for the purpose of the calculations according to paragraphs 2 and 3 of this Schedule.
 
 5. For micro-cogeneration units the calculation of primary energy savings may be based on certified data.
 
@@ -63,7 +57,3 @@ B. Each cogeneration unit shall be compared with the best available and economic
 C. The efficiency reference values for cogeneration units older than 10 years of age shall be fixed on the reference values of units of 10 years of age.
 
 D. The efficiency reference values for separate electricity production and heat production shall reflect the climatic differences between Member States.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28

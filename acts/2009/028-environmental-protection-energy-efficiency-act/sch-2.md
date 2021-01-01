@@ -14,7 +14,7 @@ Values used for calculation of electricity from cogeneration shall be determined
 
 (b) in cogeneration units of types (a) and (c) referred to in Part II with an annual overall efficiency set by the competent authority at a level of at least 80%.
 
-2. In cogeneration units with an annual overall efficiency below the value referred to in paragraph 1(a) above (cogeneration units of types (b), (d), (e), (f), (g), and (h) referred to in Part II) or with an annual overall efficiency below the value referred to in paragraph 1(b) above (cogeneration units of types (a) and (c) referred to in Part II) cogeneration is calculated according to the following formula:
+2.In cogeneration units with an annual overall efficiency below the value referred to in paragraph 1(a) above (cogeneration units of types (b), (d), (e), (f), (g), and (h) referred to in Part II) or with an annual overall efficiency below the value referred to in paragraph 1(b) above (cogeneration units of types (a) and (c) referred to in Part II) cogeneration is calculated according to the following formula:
 
 ECHP=HCHP*C
 
@@ -24,11 +24,7 @@ ECHP is the amount of electricity from cogeneration;
 
 C is the power-to-heat ratio;
 
-HCHP is the amount of useful heat from cogeneration (calculated for this purpose as total heat production minus any heat produced in separate
-
-Environmental Protection (Energy Efficiency)
-
-2009-28 boilers or by live steam extraction from the steam generator before the turbine).
+HCHP is the amount of useful heat from cogeneration (calculated for this purpose as total heat production minus any heat produced in separate boilers or by live steam extraction from the steam generator before the turbine).
 
 The calculation of electricity from cogeneration must be based on the actual power-to-heat ratio. If the actual power-to-heat ratio of a cogeneration unit is not known, the following default values may be used, in particular for statistical purposes, for units of types (a), (b), (c), (d) and (e) referred to in Part II provided that the calculated cogeneration electricity is less or equal to total electricity production of the unit:
 
@@ -50,10 +46,6 @@ Part II Cogeneration technologies covered by this Act
 
 (c) Steam condensing extraction turbine
 
-Environmental Protection (Energy Efficiency)
-
-2009-28
-
 (d) Gas turbine with heat recovery
 
 (e) Internal combustion engine
@@ -70,8 +62,6 @@ Environmental Protection (Energy Efficiency)
 
 (k) Any other type of technology or combination thereof falling within the meaning of “cogeneration” as defined by section 2.
 
-When implementing and applying the general principles for the calculation of electricity from cogeneration, the competent authority shall use the detailed Guidelines established by Commission Decision 2008/952/EC of 19 November 2008 establishing detailed guidelines for the implementation and application of Annex II to Directive 2004/8/EC of the European Parliament and of the Council.”.
+When implementing and applying the general principles for the calculation of electricity from cogeneration, the competent authority shall use the detailed Guidelines established by Commission Decision 2008/952/EC of 19 November 2008 establishing detailed guidelines for the implementation and application of Annex II to Directive 2004/8/EC of the European Parliament and of the Council.
 
-Environmental Protection (Energy Efficiency)
-
-2009-28
+_________________________

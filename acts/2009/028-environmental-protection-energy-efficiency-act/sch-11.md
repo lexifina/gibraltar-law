@@ -28,11 +28,9 @@ Potential for efficiency in heating and cooling
 
 - existing and planned cogeneration installations using technologies referred to in Part II of Schedule 2, and district heating installations;
 
-(d) identification of the heating and cooling demand that could be satisfied by high-efficiency cogeneration, including residential micro-cogeneration, and by district heating and cooling;
+(d) identification of the heating and cooling demand that could be satisfied by high- efficiency cogeneration, including residential micro-cogeneration, and by district heating and cooling;
 
-Environmental Protection (Energy Efficiency)
-
-2009-28 (e) identification of the potential for additional high-efficiency cogeneration, including from the refurbishment of existing and the construction of new generation and industrial installations or other facilities generating waste heat;
+(e) identification of the potential for additional high-efficiency cogeneration, including from the refurbishment of existing and the construction of new generation and industrial installations or other facilities generating waste heat;
 
 (f) identification of energy efficiency potentials of district heating and cooling infrastructure;
 
@@ -40,7 +38,7 @@ Environmental Protection (Energy Efficiency)
 
 (i) increase the share of cogeneration in heating and cooling production and in electricity production;
 
-(ii) develop efficient district heating and cooling infrastructure to accommodate the development of high- efficiency cogeneration and the use of heating and cooling from waste heat and renewable energy sources;
+(ii) develop efficient district heating and cooling infrastructure to accommodate the development of high-efficiency cogeneration and the use of heating and cooling from waste heat and renewable energy sources;
 
 (iii) encourage new thermal electricity generation installations and industrial plants producing waste heat to be located in sites where a maximum amount of the available waste heat will be recovered to meet existing or forecasted heat and cooling demand;
 
@@ -50,10 +48,6 @@ Environmental Protection (Energy Efficiency)
 
 (vi) encourage residential zones and industrial plants which consume heat in their production processes to be connected to the local district heating or cooling network;
 
-Environmental Protection (Energy Efficiency)
-
-2009-28
-
 (h) the share of high-efficiency cogeneration and the potential established and progress achieved under the Electricity (High Efficiency Cogeneration) Regulations 2010;
 
 (i) an estimate of the primary energy to be saved;
@@ -61,7 +55,3 @@ Environmental Protection (Energy Efficiency)
 (j) an estimate of public support measures to heating and cooling, if any, with the annual budget and identification of the potential aid element. This does not prejudge a separate notification of the public support schemes for a State aid assessment.
 
 2.  To the extent appropriate, the comprehensive assessment may be made up of an assembly of regional or local plans and strategies.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28

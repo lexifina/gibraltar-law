@@ -36,10 +36,6 @@ B. services;
 
 1 X= current year.
 
-Environmental Protection (Energy Efficiency)
-
-2009-28
-
 (viii) electricity generation from combined heat and power;
 
 (ix) heat generation from thermal power generation;
@@ -68,9 +64,7 @@ The second and subsequent reports shall also include points (b) to (e)–
 
 (e) energy savings achieved through the energy efficiency obligation schemes referred to in section 9(1) to (3) or the alternative measures adopted in application of section 9(16) to (20).
 
-Environmental Protection (Energy Efficiency)
-
-2009-28 The first report shall also include the target referred to in section 5.
+The first report shall also include the target referred to in section 5.
 
 In the annual reports referred to in section 14(1) and (2), the competent authority may also include additional targets for Gibraltar. These may be related in particular to the statistical indicators enumerated in paragraph (a) of this Part or combinations thereof, such as primary or final energy intensity or sectoral energy intensities.
 
@@ -94,11 +88,7 @@ The Energy Efficiency Action Plans of Gibraltar shall provide information on mea
 
 (a) Primary energy savings
 
-I. The Energy Efficiency Action Plans shall list significant measures and actions taken towards primary energy saving in all sectors of the economy. For every measure or package of measures/actions estimations of expected savings for 2020 and savings
-
-Environmental Protection (Energy Efficiency)
-
-2009-28 achieved by the time of the reporting shall be provided.
+I. The Energy Efficiency Action Plans shall list significant measures and actions taken towards primary energy saving in all sectors of the economy. For every measure or package of measures/actions estimations of expected savings for 2020 and savings achieved by the time of the reporting shall be provided.
 
 II. Where available, information on other impacts/benefits of the measures (greenhouse gas emissions reduction, improved air quality, job creation, etc.) and the budget for the implementation should be provided.
 
@@ -120,17 +110,15 @@ Energy Efficiency Action Plans shall include the coefficients chosen in accordan
 
 The first Energy Efficiency Action Plan shall include a short description of the scheme referred to in section 9(1) to (3) or the alternative measures adopted in application of section 9(16) to (20).
 
-2 Recommendations on Measurement and Verification Methods in the framework of the Directive 2006/32/EC on Energy End-Use Efficiency and Energy Services.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28 3.3. Energy audits and management systems (section 10)
+3.3. Energy audits and management systems (section 10)
 
 Energy Efficiency Action Plans shall include–
 
 (a) the number of energy audits carried out in the previous period;
 
 (b) the number of energy audits carried out in large enterprises in the previous period;
+
+2 Recommendations on Measurement and Verification Methods in the framework of the Directive 2006/32/EC on Energy End-Use Efficiency and Energy Services.
 
 (c) the number of large companies in their territory, with an indication of the number of those to which section (10) and (11) is applicable.
 
@@ -149,10 +137,6 @@ The first Energy Efficiency Action Plan and the subsequent reports due every 10 
 Energy Efficiency Action Plans shall include information on the available qualification, accreditation and certification schemes or equivalent qualification schemes for the providers of energy services, energy audits and energy efficiency improvement measures.
 
 3.8. Energy Services (section 13F)
-
-Environmental Protection (Energy Efficiency)
-
-2009-28
 
 Energy Efficiency Action Plans shall include an internet link to the website where the list or the interface of energy services providers referred to in paragraph (c) of section 13F(1) can be accessible.
 

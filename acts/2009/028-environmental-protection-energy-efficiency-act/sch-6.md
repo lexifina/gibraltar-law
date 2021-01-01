@@ -14,9 +14,7 @@ Where the Government purchases products, services or buildings, insofar as this 
 
 (d) require in their tenders for service contracts that service providers use, for the purposes of providing the services in question, only products that comply with the requirements referred to in points (a) to (d), when providing the services in question. This requirement shall apply only to new products purchased by service providers partially or wholly for the purpose of providing the service in question;
 
-Environmental Protection (Energy Efficiency)
-
-2009-28 (e) purchase, or make new rental agreements for, only buildings that comply at least with the minimum energy performance requirements referred to in section 7(1) to (6)  unless the purpose of the purchase is–
+(e) purchase, or make new rental agreements for, only buildings that comply at least with the minimum energy performance requirements referred to in section 7(1) to (6) unless the purpose of the purchase is–
 
 (i) to undertake deep renovation or demolition;
 
@@ -25,7 +23,3 @@ Environmental Protection (Energy Efficiency)
 (iii) to preserve it as a building officially protected as part of a designated environment, or because of its special architectural or historical merit.
 
 Compliance with these requirements shall be verified by means of the energy performance certificates referred to in regulation 12 of the Environment (Energy Performance of Buildings) Regulations 2012.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28

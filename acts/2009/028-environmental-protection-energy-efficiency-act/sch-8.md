@@ -16,21 +16,15 @@ Obligated, participating or entrusted parties, or implementing public authoritie
 
 (d) surveyed savings, where consumers' response to advice, information campaigns, labelling or certification schemes or smart metering is determined. This approach may be used only for savings resulting from changes in consumer behaviour. It shall not be used for savings resulting from the installation of physical measures.
 
-Environmental Protection (Energy Efficiency)
+2.  In determining the energy savings for an energy efficiency measure for the purposes of sections 9(11)(c) and (15), 9A(12), 9B(4) and 13H(c), the following principles apply:
 
-2009-28 2.  In determining the energy savings for an energy efficiency measure for the purposes of sections 9(11)(c) and (15), 9A(12), 9B(4) and 13H(c), the following principles apply:
-
-(a) the savings shall be shown to be additional to those that would have occurred in any event without the activity of the obligated, participating or entrusted parties, or implementing public authorities. To determine the savings that can be claimed as additional, the competent authority shall have regard to how energy use and demand would evolve in the absence of the policy measure in question by taking into account at least the following factors: energy consumption trends, changes in consumer behaviour, technological progress and changes caused by other measures implemented in the European Union and Gibraltar.
+(a) Deleted
 
 (b) savings resulting from the implementation of mandatory Union law shall be considered to be savings that would have occurred in any event, and thus shall not be claimed as energy savings for the purpose of section 9(1). By way of derogation from that requirement, savings related to the renovation of existing buildings may be claimed as energy savings for the purpose of section 9(1), provided that the materiality criterion referred to in point 3(h) of this Schedule is ensured. Savings resulting from the implementation of national minimum requirements established for new buildings prior to the coming into force of the Environment (Energy Performance of Buildings) Regulations 2012 can be claimed as energy savings for the purpose of point (a) of section 9(1), provided that the materiality criterion referred to in point 3(h) of this Schedule is ensured and those savings have been notified by the competent authority in its Energy Efficiency Action Plans in accordance with the relevant provisions of section 14.
 
 (c) credit may be given only for savings exceeding the following levels:
 
-(i) Union emission performance standards for new passenger cars and new light commercial vehicles following the implementation of Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community’s integrated approach to reduce CO₂ emissions from light- duty vehicles and Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011
-
-Environmental Protection (Energy Efficiency)
-
-2009-28 setting emission performance standards for new light commercial vehicles as part of the Union’s integrated approach to reduce CO₂ emissions from light-duty vehicles, respectively;
+(i) Union emission performance standards for new passenger cars and new light commercial vehicles following the implementation of Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community’s integrated approach to reduce CO₂ emissions from light-duty vehicles and Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for new light commercial vehicles as part of the Union’s integrated approach to reduce CO₂ emissions from light-duty vehicles, respectively;
 
 (ii) Union requirements relating to the removal from the market of certain energy related products following the implementation of implementing measures under Directive 2009/125/EC.
 
@@ -44,15 +38,11 @@ Environmental Protection (Energy Efficiency)
 
 (h) to account for climatic variations between regions, the competent authority may choose to adjust the savings to a standard value or to accord different energy savings in accordance with temperature variations between regions.
 
-(i) the calculation of energy savings shall take into account the lifetime of the measures and the rate at which the savings decline over time. That calculation shall count the savings each individual action will achieve during the period from its date of implementation to 31 December 2020 or 31 December 2030 as
-
-Environmental Protection (Energy Efficiency)
-
-2009-28 appropriate. Alternatively, the competent authority may adopt another method that is estimated to achieve at least the same total quantity of savings. When using another method, the competent authority shall ensure that the total amount of energy savings calculated using that method does not exceed the amount of energy savings that would have been the result of their calculation when counting the savings each individual action will achieve during the period from its date of implementation to 31 December 2020 or 31 December 2030 as appropriate. The competent authority shall describe in detail in its integrated national energy and climate plans under Regulation (EU) 2018/1999 the other method and the provisions made to ensure that the binding calculation requirement is met.
+(i) the calculation of energy savings shall take into account the lifetime of the measures and the rate at which the savings decline over time. That calculation shall count the savings each individual action will achieve during the period from its date of implementation to 31 December 2020 or 31 December 2030 as appropriate. Alternatively, the competent authority may adopt another method that is estimated to achieve at least the same total quantity of savings. When using another method, the competent authority shall ensure that the total amount of energy savings calculated using that method does not exceed the amount of energy savings that would have been the result of their calculation when counting the savings each individual action will achieve during the period from its date of implementation to 31 December 2020 or 31 December 2030 as appropriate. The competent authority shall describe in detail in its integrated national energy and climate plans under Regulation (EU) 2018/1999 the other method and the provisions made to ensure that the binding calculation requirement is met.
 
 3.  The competent authority shall ensure that the following requirements for policy measures taken pursuant to sections 9B and 13H(3) are met:
 
-(a) policy measures and individual actions produce verifiable end- use energy savings;
+(a) policy measures and individual actions produce verifiable end-use energy savings;
 
 (b) the responsibility of each participating party, entrusted party or implementing public authority, as relevant, is clearly defined;
 
@@ -67,10 +57,6 @@ Environmental Protection (Energy Efficiency)
 (g) the energy savings from an individual action are not claimed by more than one party;
 
 (h) the activities of the participating party, entrusted party or implementing public authority are shown to be material to the achievement of the energy savings claimed.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28
 
 4.  In determining the energy saving from taxation related policy measures introduced under section 9B, the following principles shall apply:
 
@@ -96,9 +82,7 @@ The competent authority shall in accordance with Regulation (EU) 2018/1999 of th
 
 (f) the actions provided for by the policy measure;
 
-Environmental Protection (Energy Efficiency)
-
-2009-28 (g) the calculation methodology, including how additionality and materiality have been determined and which methodologies and benchmarks are used for deemed and scaled savings;
+(g) the calculation methodology, including how additionality and materiality have been determined and which methodologies and benchmarks are used for deemed and scaled savings;
 
 (h) the lifetimes of measures, and how they are calculated or what they are based upon;
 
@@ -117,7 +101,3 @@ Environmental Protection (Energy Efficiency)
 (iv) the duration of the taxation measure; and
 
 (v) the calculation methodology, including the price elasticities used and how they have been established.
-
-Environmental Protection (Energy Efficiency)
-
-2009-28
