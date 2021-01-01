@@ -1,34 +1,26 @@
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
+Subsidiary Legislation made under s.69.
 
-1998-44
+Transport (Recording Equipment) (Minimum Conditions) Regulations 2008
 
-Subsidiary 2008/075 Subsidiary Legislation made under s. 69.
-
-TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-(LN. 2008/075)
+LN.2008/075
 
 Commencement 25.9.2008
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date LN. 2012/132 r. 2, Schs.1-3 4.10.2012 2016/037 rr. 2(b), 10(1), 12(2), Sch.1 2.3.2016 2019/236 rr. 2-3, 4(1)-(2), (4), (6), 6(6), 7, 8(1), (4), 9(2)(a), (c), 10(3), 11(1), (3), 12(1), (2)(c), 13, Schs.1, 3
 
-LN.  2012/132 r. 2 & Schs.1, 2 & 3 4.10.2012 2016/037 rr. 2(b), 10(1), 12(2), Sch. 1 2.3.2016 2019/236 rr. 2, 3, 4(1)-(2), (4), (6), 6(6), 7, 8(1), (4), 9(2)(a), (c), 10(3), 11(1), (3), 12(1), (2)(c), 13, Sch. 1, 3
+21.11.2019 “ rr. 2, 4(3), (6), 5(2), 6(6), 8(4), 9(2)(a)-(c), (3), 10(1)- (3), 12(1)-(2), (c), 13, Sch.1
 
-21.11.2019
+1.1.2021
 
 Transposing: Directive 2006/22/EC Directive 2009/4/EC Directive 2009/5/EC Regulation (EU) No. 165/2014
 
 EU Legislation/International Agreements involved: Regulations (EEC) No. 3821/85 Regulations (EEC) No. 561/2006
 
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-1998-44
-
-Subsidiary 2008/075 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. Purpose. 4. Checking systems. 5. Statistics. 6. Roadside checks. 7. Concerted checks. 8. Checks at the premises of undertakings. 9. Intracommunity liaison. 10. Exchange of information. 11. Risk rating system. 12. Best practice. 13. Negotiations with third countries. 14. Schedules.
+1. Title and commencement. 2. Interpretation. 3. Purpose. 4. Checking systems. 5. Statistics. 6. Roadside checks. 7. Concerted checks. 8. Checks at the premises of undertakings. 9. Intracommunity liaison. 10. Exchange of information. 11. Risk rating system. 12. Best practice. 13. Deleted. 14. Schedules.
 
 SCHEDULE 1
 
@@ -36,8 +28,4 @@ SCHEDULE 2 STANDARD EQUIPMENT TO BE AVAILABLE TO ENFORCEMENT UNITS
 
 SCHEDULE 3 INFRINGEMENTS
 
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-1998-44
-
-Subsidiary 2008/075 In exercise of the powers conferred on me by section 69 of the Transport Act 1998 and in order to transpose into the law of Gibraltar Directive 2006/22/EC of the European Parliament and of the Council of 15 March 2006 on minimum conditions for the implementation of Council Regulations (EEC) No. 561/2006 and (EEC) No. 3821/85 concerning social legislation relating to road transport activities and repealing Council Directive 88/599/EEC, I have made the following Regulations–
+In exercise of the powers conferred on me by section 69 of the Transport Act 1998 and in order to transpose into the law of Gibraltar Directive 2006/22/EC of the European Parliament and of the Council of 15 March 2006 on minimum conditions for the implementation of Council Regulations (EEC) No. 561/2006 and (EEC) No. 3821/85 concerning social legislation relating to road transport activities and repealing Council Directive 88/599/EEC, I have made the following Regulations–

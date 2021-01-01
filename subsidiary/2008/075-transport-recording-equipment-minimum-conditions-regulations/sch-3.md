@@ -4,21 +4,13 @@ INFRINGEMENTS
 
 In accordance with regulation 11(3), the following table contains guidelines on a common range of infringements of Regulation (EC) No. 561/2006 and Regulation (EU) No. 165/2014, divided into categories according to their gravity.
 
-1.   Groups of infringements against Regulation (EC) No. 561/2006 (Hours) No LEGAL BASIS TYPE OF INFRINGEMENT LEVEL OF SERIOUSNESS (1) MSI VSI SI MI A Crew A1 Art 5.1 Not respecting minimum ages for conductors
-
-X
-
-B Driving periods B1 Article 6.1 Exceed daily driving time of 9h if possibilities to extend to 10h not allowed 9h < … < 10h
+1.   Groups of infringements against Regulation (EC) No. 561/2006  (Hours) No LEGAL BASIS TYPE OF INFRINGEMENT LEVEL OF SERIOUSNESS (1) MSI VSI SI MI A Crew A1 Art 5.1 Not respecting minimum ages for conductors X B Driving periods B1 Article 6.1 Exceed daily driving time of 9h if possibilities to extend to 10h not allowed 9h < … < 10h
 
 X B2 10h ≤ … < 11h
 
 X
 
-B3 11h ≤ …
-
-X
-
-B4 Exceed daily driving time of 9h by 50 % or more without taking a break or without any rest of at least 4,5 hours 13h30 ≤ … and no break/rest X
+B3 11h ≤ … X B4 Exceed daily driving time of 9h by 50 % or more without taking a break or without any rest of at least 4,5 hours 13h30 ≤ … and no break/rest X
 
 B5 Exceed extended daily driving time of 10h if extension allowed 10h < … < 11h
 
@@ -26,17 +18,9 @@ X B6 11h ≤ … < 12h
 
 X
 
-B7 12h ≤ …
+B7 12h ≤ … X B8 Exceed daily driving time of 10h by 50 % or more without taking a break of or without any rest of at least 4,5 hours 15h ≤ … and no break/rest X
 
-X
-
-B8 Exceed daily driving time of 10h by 50 % or more 15h ≤ … and no X
-
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-1998-44
-
-Subsidiary 2008/075 without taking a break of or without any rest of at least 4,5 hours break/rest B9 Article 6.2 Exceed weekly driving time 56h < … < 60h
+B9 Article 6.2 Exceed weekly driving time 56h < … < 60h
 
 X B10 60h ≤ … < 65h
 
@@ -62,41 +46,15 @@ B16 Exceed maximum total driving time during 2 consecutive weeks by 25 % or more
 
 C Breaks C1 Article 7 Exceed uninterrupted driving time of 4,5 hours before taking the break 4h30 < … < 5h
 
-X C2 5h ≤ … < 6h
-
-X
-
-C3 6h ≤ …
-
-X
-
-D Rest Periods D1 Article 8.2 Insufficient daily rest period of less than 11h if reduced daily rest period not allowed 10h ≤ … < 11h
+X C2 5h ≤ … < 6h X C3 6h ≤ … X D Rest Periods D1 Article 8.2 Insufficient daily rest period of less than 11h if reduced daily rest period not allowed 10h ≤ … < 11h
 
 X D2 8h30 ≤ … < 10h
 
 X
 
-D3 … < 8h30
+D3 … < 8h30 X D4 8h ≤ … < 9h X
 
-X
-
-D4 Insufficient reduced daily 8h ≤ …
-
-X
-
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-1998-44
-
-Subsidiary 2008/075 rest period of less than 9h if reduce allowed < 9h D5 7h ≤ … < 8h
-
-X
-
-D6 … < 7h
-
-X
-
-D7 Insufficient split daily rest period of less than 3h + 9h 3h + [8h ≤ … < 9h]
+D5 Insufficient reduced daily rest period of less than 9h if reduce allowed 7h ≤ … < 8h X D6 … < 7h X D7 Insufficient split daily rest period of less than 3h + 9h 3h + [8h ≤ … < 9h]
 
 X D8 3h + [7h ≤ … < 8h]
 
@@ -106,79 +64,37 @@ D9 3h + [… < 7h]
 
 X
 
-D10 Article 8.5 Insufficient daily rest period of less than 9h for multi- manning 8h ≤ … < 9h
-
-X D11 7h ≤ … < 8h
-
-X
-
-D12 … < 7h
-
-X
-
-D13 Article 8.6 Insufficient reduced weekly resting period of less than 24 h 22h ≤ … < 24h
+D10 Article 8.5 Insufficient daily rest period of less than 9h for multi-manning 8h ≤ … < 9h X D11 7h ≤ … < 8h X D12 … < 7h X D13 Article 8.6 Insufficient reduced weekly resting period of less than 24 h 22h ≤ … < 24h
 
 X D14 20h ≤ … < 22h
 
 X
 
-D15 … < 20h
-
-X
-
-D16 Insufficient weekly resting period of less than 45 h if reduced weekly resting period not allowed 42h ≤ … < 45h
+D15 … < 20h X D16 Insufficient weekly resting period of less than 45 h if reduced weekly resting period not allowed 42h ≤ … < 45h
 
 X D17 36h ≤ … < 42h
 
 X
 
-D18 … < 36h
+D18 … < 36h X D19 Article 8.6 Exceeding 6 consecutive 24-hour periods following the previous weekly rest period … < 3h X D20 3h ≤ … < 12h
 
 X
 
-D19 Article 8.6 Exceeding 6 consecutive 24- hour periods following the previous weekly rest period … < 3h
+D21 12h ≤ … X E 12-day rule derogation E1 … < 3h X
 
-X D20 3h ≤ … < 12h
-
-X
-
-D21 12h ≤ …
+E2 Article 8.6a. Exceeding 12 consecutive 24-hour periods following a previous regular weekly rest 3h ≤ … < 12h
 
 X
 
-E 12-day rule derogation E1 Article Exceeding 12 consecutive … < 3h
+E3 12h ≤ … X E4 Article 8.6a. (b)(ii) Weekly rest period taken following 12 consecutive 24-hour periods 65h < … ≤ 67h
 
 X
 
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-1998-44
-
-Subsidiary 2008/075 E2 8.6a. 24-hour periods following a previous regular weekly rest 3h ≤ … < 12h
+E5 … ≤ 65h X E6 Article 8.6a. (d) Driving period, between 22.00 and 6.00, of more than 3 hours before the break, if the vehicle is not multi-manned 3h < … < 4,5 h
 
 X
 
-E3 12h ≤ …
-
-X
-
-E4 Article 8.6a. (b)(ii) Weekly rest period taken following 12 consecutive 24- hour periods 65h < … ≤ 67h
-
-X
-
-E5 … ≤ 65h
-
-X
-
-E6 Article 8.6a. (d) Driving period, between 22.00 and 6.00, of more than 3 hours before the break, if the vehicle is not multi- manned 3h < … < 4,5 h
-
-X
-
-E7 4,5 h ≤ …
-
-X
-
-F Work organisation F1 Article 10.1 Link between wage and distance travelled or amount of goods carried
+E7 4,5 h ≤ … X F Work organisation F1 Article 10.1 Link between wage and distance travelled or amount of goods carried
 
 X
 
@@ -192,15 +108,7 @@ H Use of tachograph, driver card or record sheet H1 Article 23.1 Using a tachogr
 
 X
 
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-1998-44
-
-Subsidiary 2008/075 H2 Article 27 Driver holding and/or using more than one own driver card
-
-X
-
-H3 Driving with a driver card that has been falsified (considered as driving without driver card) X
+H2 Article 27 Driver holding and/or using more than one own driver card X H3 Driving with a driver card that has been falsified (considered as driving without driver card) X
 
 H4 Driving with a driver card of which the driver is not the holder (considered as driving without driver card) X
 
@@ -222,15 +130,7 @@ H10 Article 33.2 Undertaking not keeping record sheets, printouts and downloaded
 
 X
 
-H11 Recorded and stored data not available for at least a year
-
-X
-
-H12 Art 34.1 Incorrect use of record sheets/driver card
-
-X
-
-H13 Unauthorised withdrawal of record sheets or driver card which has an impact on the record of relevant data
+H11 Recorded and stored data not available for at least a year X H12 Art 34.1 Incorrect use of record sheets/driver card X H13 Unauthorised withdrawal of record sheets or driver card which has an impact on the record of relevant data
 
 X
 
@@ -242,11 +142,7 @@ H15 Article 34.2 Use dirty or damaged record sheets or drivers card and data not
 
 X
 
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-1998-44
-
-Subsidiary 2008/075 H16 Article 34.3 Not using manual input when required to do so
+H16 Article 34.3 Not using manual input when required to do so
 
 X
 
@@ -258,11 +154,7 @@ H18 Article 34.5 Incorrect use of switch mechanism
 
 X
 
-I Producing information I1 Article 36 Refusing to be checked
-
-X
-
-I2 Article 36 Unable to produce records of current day and the previous 28 days
+I Producing information I1 Article 36 Refusing to be checked X I2 Article 36 Unable to produce records of current day and the previous 28 days
 
 X
 
@@ -274,11 +166,7 @@ I4 Article 36 Unable to produce manual records and printouts made during the cur
 
 X
 
-I5 Article 36 Unable to produce a driver card, if the driver holds one
-
-X
-
-J Malfunctioning J1 Article 37.1 and Article 22.1 Tachograph not repaired by an approved fitter or workshop
+I5 Article 36 Unable to produce a driver card, if the driver holds one X J Malfunctioning J1 Article 37.1 and Article 22.1 Tachograph not repaired by an approved fitter or workshop
 
 X
 

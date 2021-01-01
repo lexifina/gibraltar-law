@@ -1,4 +1,6 @@
-SCHEDULE 2 Regulations 6, 8 and 14
+SCHEDULE 2
+
+Regulations 6, 8 and 14
 
 STANDARD EQUIPMENT TO BE AVAILABLE TO ENFORCEMENT UNITS
 
@@ -9,9 +11,3 @@ The competent authority shall ensure that the following standard equipment is av
 (2) equipment to check the tachograph sheets;
 
 (3) Specific analysis equipment, with appropriate software, to verify and confirm the digital signature attached to data, as well as specific analysis software to provide a detailed speed profile of vehicles prior to the inspection of their recording equipment.
-
-Transport TRANSPORT (RECORDING EQUIPMENT) (MINIMUM CONDITIONS) REGULATIONS 2008
-
-1998-44
-
-Subsidiary 2008/075
