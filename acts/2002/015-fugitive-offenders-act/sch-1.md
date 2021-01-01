@@ -1,6 +1,6 @@
 SCHEDULE Section 4
 
-DESCRIPTION OF RELEVANT OFFENCES IN DESIGNATED COMMONWEALTH COUNTRIES
+DESCRIPTION OF RELEVANT OFFENCES IN DESIGNATED COMMONWEALTH COUNTRIES OR THE REPUBLIC OF IRELAND
 
 1. Murder of any degree.
 
@@ -8,9 +8,7 @@ DESCRIPTION OF RELEVANT OFFENCES IN DESIGNATED COMMONWEALTH COUNTRIES
 
 3. An offence against the law relating to abortion.
 
-4. Maliciously or wilfully wounding or inflicting grievous bodily
-
-harm.
+4. Maliciously or wilfully wounding or inflicting grievous bodily harm.
 
 5. Assault occasioning actual bodily harm.
 
@@ -20,9 +18,7 @@ harm.
 
 8. Indecent assault.
 
-9. Procuring, or trafficking in, women or young persons for immoral
-
-purposes.
+9. Procuring, or trafficking in, women or young persons for immoral purposes.
 
 10. Bigamy.
 
@@ -32,9 +28,7 @@ purposes.
 
 13. Bribery.
 
-14. Perjury or subornation of perjury or conspiring to defeat the course
-
-of justice.
+14. Perjury or subornation of perjury or conspiring to defeat the course of justice.
 
 15. Arson or fire-raising.
 
@@ -42,17 +36,7 @@ of justice.
 
 17. An offence against the law relating to forgery.
 
-18. Stealing, embezzlement, fraudulent conversion, fraudulent false
-
-accounting, obtaining property or credit by false pretences, receiving
-
-stolen property or any other offence in respect of property involving
-
-fraud.
-
-Fugitive Offenders
-
-2002-15
+18. Stealing, embezzlement, fraudulent conversion, fraudulent false accounting, obtaining property or credit by false pretences, receiving stolen property or any other offence in respect of property involving fraud.
 
 19. Burglary, housebreaking or any similar offence.
 
@@ -64,18 +48,12 @@ Fugitive Offenders
 
 23. Malicious or wilful damage to property.
 
-24. Acts done with the intention of endangering vehicles, vessels or
-
-aircraft.
+24. Acts done with the intention of endangering vehicles, vessels or aircraft.
 
 25. An offence against the law relating to dangerous drugs or narcotics.
 
 26. Piracy.
 
-27. Revolt against the authority of the master of a ship or the
+27. Revolt against the authority of the master of a ship or the commander of an aircraft.
 
-commander of an aircraft.
-
-28. Contravention of import or export prohibitions relating to precious
-
-stones, gold and other precious metals.
+28. Contravention of import or export prohibitions relating to precious  stones, gold and other precious metals.
