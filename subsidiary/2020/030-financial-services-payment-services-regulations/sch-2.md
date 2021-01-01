@@ -4,7 +4,7 @@ PRIOR GENERAL INFORMATION FOR FRAMEWORK CONTRACTS
 
 1.  The following information about the payment service provider–
 
-(a) the name of the payment service provider, the geographical address of its head office and, where applicable, the geographical address of its agent or branch established in the Member State where the payment service is offered, and any other address, including electronic mail address, relevant for communication with the payment service provider;
+(a) the name of the payment service provider, the geographical address of its head office and, where applicable, the geographical address of its agent or branch where the payment service is offered, and any other address, including electronic mail address, relevant for communication with the payment service provider;
 
 (b) the particulars of the GFSC and of the Register referred to in regulation 106 or of any other relevant public register of authorisation of the payment service provider and the registration number or equivalent means of identification in that register.
 
@@ -22,11 +22,11 @@ PRIOR GENERAL INFORMATION FOR FRAMEWORK CONTRACTS
 
 (f) whether there is a possibility to agree on spending limits for the use of the payment instrument in accordance with regulation 45(1);
 
-(g) in the case of card-based payment instruments which are co-badged within the meaning of Regulation (EU) 2015/751, the payment service user’s rights under Article 8 of that Regulation.
-
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
+(g) in the case of card-based payment instruments which are co-badged within the meaning of the Interchange Fees Regulation, the payment service user’s rights under Article 8 of that Regulation.
 
 3.  The following information about charges, interest and exchange rates–
+
+Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
 
 (a) all charges payable by the payment service user to the payment service provider including those connected to the manner in and frequency with which information under these Regulations is provided or made available and, where applicable, the breakdown of the amounts of such charges;
 
@@ -50,9 +50,9 @@ PRIOR GENERAL INFORMATION FOR FRAMEWORK CONTRACTS
 
 (b) the secure procedure for notification of the payment service user by the payment service provider in the event of suspected or actual fraud or security threats;
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
-
 (c) if agreed, the conditions under which the payment service provider reserves the right to block a payment instrument in accordance with regulation 45;
+
+2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
 
 (d) the liability of the payer in accordance with regulation 51, including information on the relevant amount;
 
@@ -76,4 +76,4 @@ Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 202
 
 (b) the ADR procedures available to the payment service user in accordance with regulations 74 to 77.
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030

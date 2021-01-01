@@ -22,7 +22,7 @@ Registration
 
 (g) a security policy document, including a detailed risk assessment in relation to the AISP’s account information services and a description of security control and mitigation measures taken to adequately protect payment service users against the risks identified, including fraud and illegal use of sensitive and personal data;
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
 
 (h) a description of the AISP’s structural organisation, including, where applicable, a description of the intended use of agents and branches and of the off-site and on- site checks that the AISP undertakes to perform on them at least annually, as well as a description of outsourcing arrangements, and of its participation in a national or international payment system;
 
@@ -46,7 +46,7 @@ and evidence that they are of good repute and possess appropriate knowledge and 
 
 (b) include the security measures required by regulation 78(1); and
 
-(c) take account of any guidelines on security measures issued by the EBA under Article 95.3 of the Payment Services Directive.
+(c) take account of any guidance on security measures issued by the GFSC in accordance with Article 95.3 of the Payment Services Directive.
 
 (4)  An application for registration must–
 
@@ -54,13 +54,13 @@ and evidence that they are of good repute and possess appropriate knowledge and 
 
 (b) contain or be accompanied by such other information as the GFSC may reasonably require.
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
+2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
 
 (5)  At any time after the application is received and before it is determined, the GFSC may require the applicant to provide it with such further information as it reasonably considers necessary to enable it to determine the application.
 
 3.(1)  An AISP must, as a condition of registration, hold professional indemnity insurance covering the territories in which it offers services, or a comparable guarantee against liability, to ensure that it can cover its liabilities to any account servicing payment service provider or payment service user resulting from unauthorised or fraudulent access to or use of payment account information.
 
-(2)  In specifying the minimum monetary amount of any professional indemnity insurance or comparable guarantee required under sub-regulation (1), the GFSC must have regard to any guidelines issued by the EBA under Article 5.4 of the Payment Services Directive and any regulatory technical standards adopted by the European Commission under Article 5.6 of that Directive.
+(2)  Technical standards may specify the information to be provided to the GFSC in the application for the authorisation of an AISP.
 
 Scope of exemption
 
@@ -82,9 +82,9 @@ Supervision by the GFSC
 
 (b) may be taken in relation to a payment institution which is a regulated firm.
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
-
 (4)  If the GFSC proposes to exercise any power under sub-paragraph (2)(b) or (3), it must give the AISP a warning notice.
+
+Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
 
 (5)  If the GFSC decides to exercise that power, it must give the AISP a decision notice.
 
@@ -108,8 +108,8 @@ Rights and obligations of AISPs
 
 (h) regulation 100(2) and (3).
 
-(2)  An AISP having an EEA right deriving from the Payment Services Directive is subject to Chapters 2 and 3 of Part 7.
+(2)  Omitted.
 
 (3)  In the application of any provision of these Regulations in relation to an AISP, the AISP is to be treated as if it were a payment institution.
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
+2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
