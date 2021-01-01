@@ -1,30 +1,18 @@
-Environment ENVIRONMENT (MARITIME SPATIAL PLANNING) REGULATIONS 2016
+Subsidiary Legislation made under s.18(c).
 
-2005-27
+Environment (Maritime Spatial Planning) Regulations 2016
 
-Subsidiary 2016/179 Subsidiary Legislation made under s.18(c).
-
-ENVIRONMENT (MARITIME SPATIAL PLANNING) REGULATIONS 2016
-
-(LN. 2016/179)
+LN.2016/179
 
 Commencement 18.9.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2018-19 r. 4(3)(b) 26.9.2019 LN.2021/374 rr. 3, 5(1), (3)-(4), 8(4)(f)-(g), 10(3)(a)-(b), 11-13 1.1.2021
+Act. 2018-19 r. 4(3)(b) 26.9.2019 LN. 2021/374 rr. 3, 5(1), (3)-(4), 8(4)(f)-(g), 10(3)(a)-(b), 11-13 1.1.2021
 
 Transposing: Directive 2014/89/E
 
-_______________________
-
-Environment ENVIRONMENT (MARITIME SPATIAL PLANNING) REGULATIONS 2016
-
-2005-27
-
-Subsidiary 2016/179
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -44,8 +32,4 @@ PART 4 Procedural requirements.
 
 9. Public Participation. 10. Data Use and Sharing. 11. Omitted. 12. Cooperation with Countries outside Gibraltar. 13. Omitted.
 
-Environment ENVIRONMENT (MARITIME SPATIAL PLANNING) REGULATIONS 2016
-
-2005-27
-
-Subsidiary 2016/179 In exercise of the powers conferred upon it by section 18(c) of the Environment Act 2005, and in order to transpose into the law of Gibraltar, Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for maritime spatial planning, the Government has made the following Regulations-
+In exercise of the powers conferred upon it by section 18(c) of the Environment Act 2005, and in order to transpose into the law of Gibraltar, Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for maritime spatial planning, the Government has made the following Regulations-
