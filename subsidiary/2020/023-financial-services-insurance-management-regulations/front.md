@@ -10,7 +10,9 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/421 rr. 2(1), 4A 26.11.2020
+LN.2020/421 rr. 2(1), 4A 26.11.2020 2020/491 rr. 2(1), 22, 39, 42(1)-(3), 43, 46(4), (a)-(b), (5)(b), Sch.
+
+1.1.2021 2022/188 Sch. 1.1.2021
 
 2019-26 Financial Services 2020/023 FINANCIAL SERVICES (INSURANCE MANAGEMENT) REGULATIONS 2020
 
