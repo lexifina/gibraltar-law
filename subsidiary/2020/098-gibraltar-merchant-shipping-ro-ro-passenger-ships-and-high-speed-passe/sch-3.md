@@ -18,8 +18,6 @@ That the procedure to ensure that the ship is secured for sea before leaving the
 
 4.  Safety announcements
 
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2020/098 GIBRALTAR MERCHANT SHIPPING (RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFTS ON REGULAR SERVICE) REGULATIONS 2020
-
 That the form of routine safety announcements and the posting of instructions and guidance on emergency procedures occurs in the appropriate language or languages. That the routine safety announcement takes place at the commencement of the voyage and can be heard in all public spaces, including open decks, to which passengers have access.
 
 5.  Log book entries
@@ -37,8 +35,6 @@ That vehicles carrying dangerous and polluting goods are properly placarded and 
 How freight vehicles are secured, for example, whether block stow or individual lashings. Whether sufficient strong points are available. The arrangements for securing freight vehicles when adverse weather is experienced or expected. The method of securing coaches and motor cycles, if any. That the ship has a cargo securing manual.
 
 8.  Vehicle decks
-
-Gibraltar Merchant Shipping (Safety, etc.) 1995-13 GIBRALTAR MERCHANT SHIPPING (RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFTS ON REGULAR SERVICE) REGULATIONS 2020 2020/098
 
 Whether special category and ro-ro cargo spaces are being continuously patrolled or monitored by a TV surveillance system so that the movement of vehicles in adverse weather and the unauthorised entry of passengers may be observed. That fire doors and entrances are kept shut and that notices are posted to keep passengers off the vehicle decks whilst the ship is at sea.
 
@@ -59,8 +55,6 @@ That there are sufficient crew members in accordance with the muster list to ass
 (b) the likelihood that an ability to use elementary English vocabulary for basic instructions can provide a means of communicating with a passenger in need of assistance if the passenger and crew Member do not share a common language;
 
 (c) the possible need to communicate during an emergency by other means (e.g. by demonstration, hand signals, or calling attention to the location of instructions, muster stations, life-saving devices or evacuation routes when verbal communication is impractical);
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2020/098 GIBRALTAR MERCHANT SHIPPING (RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFTS ON REGULAR SERVICE) REGULATIONS 2020
 
 (d) whether complete safety instructions have been provided to passengers in their native language or languages;
 
@@ -85,8 +79,6 @@ That supplementary emergency lighting is fitted, when required by the regulation
 16.  Means of escape
 
 That means of escape, including escape routes, are marked, in accordance with the applicable requirements, and lighted, from both the main and emergency sources of power. That measures are taken to keep vehicles clear of escape routes where those escape routes cross or pass through vehicle decks. That exits, particularly exits from duty free shops, which have been found to be blocked by an excess of goods, are kept clear.
-
-Gibraltar Merchant Shipping (Safety, etc.) 1995-13 GIBRALTAR MERCHANT SHIPPING (RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFTS ON REGULAR SERVICE) REGULATIONS 2020 2020/098
 
 17.  Engine room cleanliness
 

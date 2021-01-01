@@ -28,8 +28,6 @@ PROCEDURES FOR INSPECTIONS
 
 (l) the closing of watertight bulkhead doors; both from the local and remote control positions,
 
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2020/098 GIBRALTAR MERCHANT SHIPPING (RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFTS ON REGULAR SERVICE) REGULATIONS 2020
-
 (m) a demonstration that shows that key crew members are acquainted with the damage control plan,
 
 (n) the lowering of at least one rescue boat and one lifeboat to the water, starting and testing their propulsion and steering system, and recovering them from the water into their stowed position on board, and
@@ -48,6 +46,4 @@ PROCEDURES FOR INSPECTIONS
 
 3. The inspection shall include an assessment whether rostering patterns are causing unreasonable fatigue particularly for watch-keeping personnel.
 
-4. Certificates of competency of crew members serving on board vessels falling within the scope of this Directive shall comply with the provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.
-
-Gibraltar Merchant Shipping (Safety, etc.) 1995-13 GIBRALTAR MERCHANT SHIPPING (RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFTS ON REGULAR SERVICE) REGULATIONS 2020 2020/098
+4. Certificates of competency of crew members serving on board vessels falling within the scope of the Directive shall comply with the provisions of the Gibraltar Merchant Shipping (Manning, Training and Certification for Seafarers) Regulations 2006.

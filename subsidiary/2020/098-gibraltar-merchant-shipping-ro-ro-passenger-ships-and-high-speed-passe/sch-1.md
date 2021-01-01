@@ -18,12 +18,6 @@ SPECIFIC REQUIREMENTS FOR VESSELS IN REGULAR SERVICE The following shall be veri
 
 (f) that any damage to, or permanent deflection of shell doors and associated hull plating that may affect the integrity of the ro-ro passenger ship or high-speed passenger craft, and any deficiencies in the securing arrangements of such doors, are promptly reported to both the flag State administration and the port State and are promptly repaired to their satisfaction;
 
-(g) that an up-to-date voyage plan is available before the departure of the ro-ro passenger ship or high-speed passenger craft on its voyage and that in preparing the voyage plan the guidelines set out in IMO Assembly Resolution A.893(21) of
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2020/098 GIBRALTAR MERCHANT SHIPPING (RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFTS ON REGULAR SERVICE) REGULATIONS 2020
-
-25 November 1999 ‘Guidelines for voyage planning’ are taken fully into account; and
+(g) that an up-to-date voyage plan is available before the departure of the ro-ro passenger ship or high-speed passenger craft on its voyage and that in preparing the voyage plan the guidelines set out in IMO Assembly Resolution A.893(21) of 25 November 1999 ‘Guidelines for voyage planning’ are taken fully into account; and
 
 (h) that general information about the services and assistance available to elderly and disabled persons on board is made known to the passengers and is made available in formats suitable for people with impaired sight.
-
-Gibraltar Merchant Shipping (Safety, etc.) 1995-13 GIBRALTAR MERCHANT SHIPPING (RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFTS ON REGULAR SERVICE) REGULATIONS 2020 2020/098
