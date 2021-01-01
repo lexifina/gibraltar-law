@@ -10,17 +10,11 @@ The information of the European Works Council shall relate in particular to the 
 
 The consultation shall be conducted in such a way that the employees’ representatives can meet with the central management and obtain a response, and the reasons for that response, to any opinion they might express;
 
-(b) the European Works Council shall be composed of employees of the Community-scale undertaking or Community-scale group of undertakings elected or appointed from their number by the employees’ representatives or, in the absence thereof, by the entire body of employees.
+(b) the European Works Council shall be composed of employees of the Community- scale undertaking or Community-scale group of undertakings elected or appointed from their number by the employees’ representatives or, in the absence thereof, by the entire body of employees.
 
 The election or appointment of members of the European Works Council shall be carried out in accordance with regulation 10;
 
-(c) the members of the European Works Council shall be elected or appointed in proportion to the number of employees employed in each EEA State by the Community-scale undertaking or Community-scale group of undertakings, by allocating in respect of each EEA State one seat per portion of employees employed in that EEA State amounting to 10%, or a
-
-Employment EMPLOYMENT (EUROPEAN WORKS COUNCIL) REGULATIONS 2012
-
-1932-16
-
-Subsidiary 2012/060 fraction thereof, of the number of employees employed in all the EEA States taken together;
+(c) the members of the European Works Council shall be elected or appointed in proportion to the number of employees employed in each Relevant State by the Community-scale undertaking or Community-scale group of undertakings, by allocating in respect of each Relevant State one seat per portion of employees employed in that Relevant State amounting to 10%, or a fraction thereof, of the number of employees employed in all the Relevant States taken together;
 
 (d) to ensure that it can coordinate its activities, the European Works Council shall elect a select committee from among its members, comprising at most five members, which must benefit from conditions enabling it to exercise its activities on a regular basis. It shall adopt its own rules of procedure;
 
@@ -36,19 +30,13 @@ Regulations 11 and 12 shall apply, mutatis mutandis, if a decision has been take
 
 Those members of the European Works Council who have been elected or appointed by the establishments and, or undertakings which are directly concerned by the circumstances or decisions in question shall also have the right to participate where a meeting is organised with the select committee.
 
-Employment EMPLOYMENT (EUROPEAN WORKS COUNCIL) REGULATIONS 2012
-
-1932-16
-
-Subsidiary 2012/060
-
 This information and consultation meeting shall take place as soon as possible on the basis of a report drawn up by the central management or any other appropriate level of management of the Community-scale undertaking or group of undertakings, on which an opinion may be delivered at the end of the meeting or within a reasonable time.
 
 This meeting shall not affect the prerogatives of the central management.
 
 The information and consultation procedures provided for in the above circumstances shall be carried out without prejudice to regulations 2, 5(1)(a), 13 and 14(1).
 
-4.  The EEA States may lay down rules on the chairing of information and consultation meetings.
+4.  The Relevant States may lay down rules on the chairing of information and consultation meetings.
 
 Before any meeting with the central management, the European Works Council or the select committee, where necessary enlarged in accordance with the second paragraph of point 3, shall be entitled to meet without the management concerned being present.
 
