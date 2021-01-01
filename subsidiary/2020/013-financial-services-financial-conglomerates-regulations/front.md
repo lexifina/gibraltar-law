@@ -8,15 +8,19 @@ LN.2020/013
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2021/134 rr. 2, 3(6)-(12), (15), 4(2)-(3), 5(2)(b), (4)-(8), 6(4)- (6), (8), (10), (a), (11)(a)-(c), 7(2)-(3), (b), (4), 8(2), (4), (b), (5), 9(6)-(7), 10-11, 12(1), (a), (e)-(f), (2)- (9), 13, 15(1), (3)-(4), 16-17, 18(3), (b)-(c), (7)-(9), 21(2), 22(1)-(2), (3)(b), (4)-(6), (b), (7), 23-24, Sch.1-2
+
+1.1.2021
+
+2019-26 Financial Services 2020/013 Financial Services (Financial Conglomerates) Regulations 2020
 
 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title and commencement. 2.  Interpretation. 3. Thresholds for identifying a financial conglomerate. 4. Identifying a financial conglomerate. 5. Scope of supplementary supervision of regulated entities 6. Capital adequacy. 7. Risk concentration. 8. Intra-group transactions. 9. Internal control mechanisms and risk management processes. 10. Stress testing. 11. The coordinator. 12. Functions of the coordinator. 13. Cooperation and exchange of information between competent authorities. 14. Management body of mixed financial holding companies. 15. Access to information. 16. Verification. 17. Necessary measures. 18. Additional powers of the GFSC. 19. Appeals. 20. Additional persons subject to sanctioning powers. 21. Administrative Penalties. 22. Parent undertakings in a third country. 23. Cooperation and exchange of information with the Joint Committee. 24. Cooperation with third-country competent authorities. 25. Revocation of 2012 Regulations.
-
-2019-26 Financial Services 2020/013 Financial Services (Financial Conglomerates) Regulations 2020
+1. Title and commencement. 2.  Interpretation. 3. Thresholds for identifying a financial conglomerate. 4. Identifying a financial conglomerate. 5. Scope of supplementary supervision of regulated entities 6. Capital adequacy. 7. Risk concentration. 8. Intra-group transactions. 9. Internal control mechanisms and risk management processes. 10. Stress testing. 11. Omitted. 12. Supplementary supervision functions. 13. Omitted. 14. Management body of mixed financial holding companies. 15. Access to information. 16. Omitted. 17. Necessary measures. 18. Additional powers of the GFSC. 19. Appeals. 20. Additional persons subject to sanctioning powers. 21. Administrative Penalties. 22. Parent undertakings in a third country. 23. Omitted. 24. Omitted. 25. Revocation of 2012 Regulations.
 
 SCHEDULE 1
 
