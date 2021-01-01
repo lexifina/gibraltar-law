@@ -112,6 +112,6 @@ For the purposes of this point, an open-ended credit agreement is a credit agree
 
 (i) the payments by consumers shall be deemed to occur at the latest date or dates permitted under the credit agreement;
 
-(ii) percentage increases in value of the immovable property which secures the shared equity credit agreement, and the rate of any inflation index referred to in the agreement, shall be assumed to be a percentage equal to the higher of the current central bank target inflation rate or the level of inflation in the Member State where the immovable property is located at the time of conclusion of the credit agreement or 0% if those percentages are negative.
+(ii) percentage increases in value of the immovable property which secures the shared equity credit agreement, and the rate of any inflation index referred to in the agreement, shall be assumed to be a percentage equal to the higher of the current central bank target inflation rate or the level of inflation in the country where the immovable property is located at the time of conclusion of the credit agreement or 0% if those percentages are negative.
 
 Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024

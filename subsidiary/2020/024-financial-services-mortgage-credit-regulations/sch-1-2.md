@@ -14,7 +14,7 @@ I. Physical stocks
 
 II. Debtors (1) 1. Trade debtors (2) 2. Other debtors 3. Amounts due from connected and group companies 4. Prepayments and accrued income
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
+2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 III. Investments (long positions)(3)
 
@@ -38,7 +38,7 @@ G. PROVISIONS FOR LIABILITIES AND CHARGES
 
 H. TOTAL ASSETS LESS TOTAL LIABILITIES
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
 
 I. CAPITAL AND RESERVES
 
@@ -72,7 +72,7 @@ Outstanding for more than 30 days Outstanding for 30 days or less.
 
 Amounts outstanding for more than 30 days Amounts outstanding for 30 days or less.
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
+2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 (3)  Investments (long positions)
 
@@ -82,7 +82,7 @@ Residual Maturity
 
 0 - 90 days 90 days - 12 Months 12 months - 5 years more than 5 years Total UK Government, Government of Gibraltar and local authority debt
 
-Accepted or issued by an approved bank
+Accepted or issued by a recognised credit institution
 
 Floating Rate Notes
 
@@ -108,9 +108,9 @@ Units in authorised and recognised unit trust schemes Other
 
 Futures Purchased options Written options Contracts for differences
 
-(v) Shares in group companies
+Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
+(v) Shares in group companies
 
 (vi) Other investments (specify)
 
@@ -137,3 +137,5 @@ Any amount of share capital which has not been paid up shall be shown separately
 The following additional information shall be given, where relevant–
 
 (i) Whether any valuable security has been provided by the licensee in connection with a contingent liability or commitment (ii) The amounts which relate to undertakings on behalf of or for the benefit of group and connected companies.
+
+2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020

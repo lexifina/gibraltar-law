@@ -26,10 +26,10 @@ SCHEDULE 3 MINIMUM KNOWLEDGE AND COMPETENCE REQUIREMENTS
 
 (a) professional qualifications; or
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
 
 (b) relevant professional experience (which may be defined as a minimum number of years working in areas related to the origination, distribution or intermediation of credit products).
 
 4.  After 21st March 2019, any determination of appropriate level of knowledge and competence must not be based solely on relevant professional experience.
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
+2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020

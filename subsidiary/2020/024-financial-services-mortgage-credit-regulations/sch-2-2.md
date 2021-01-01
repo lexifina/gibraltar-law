@@ -1,8 +1,4 @@
-APPENDIX 2
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
-PROFIT AND LOSS ACCOUNT FORMAT
+APPENDIX 2 PROFIT AND LOSS ACCOUNT FORMAT
 
 A. DEALING
 
@@ -26,7 +22,7 @@ VII. Company management fees
 
 VIII. Trustee fees
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
 
 IX. Interest and dividends 1. investment positions 2. loan accounts and margin accounts 3. in respect of balances in client bank accounts 4. other - specify
 
@@ -62,7 +58,7 @@ X. Professional charges
 
 XI. Investment exchange and clearing house charges
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
+2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 XII. Regulatory fees and expenses
 
