@@ -21,5 +21,3 @@ Anticipatory exercise of powers in relation to the withdrawal agreement etc.
 Scope of appointed day power.
 
 4.  The power of the Chief Minister under section 2(2) to appoint a day includes a power to appoint a time on that day if the Chief Minister considers it appropriate to do so.
-
-2020-01 European Union (Withdrawal Agreement)

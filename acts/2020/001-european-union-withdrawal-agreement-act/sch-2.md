@@ -30,8 +30,6 @@ Power to make consequential regulations under EUWA 2019.
 
 2.(1)  The power of a Minister under section 15(1) of the European Union (Withdrawal) Act 2019 to make such provision as the Minister considers appropriate in consequence of that Act includes the power to make such provision as the Minister considers appropriate in consequence of that Act as modified, or to be modified, by or under this Act (and references in the European Union (Withdrawal) Act 2019 to the power under section 15(1) of that Act are to be read accordingly).
 
-European union (withdrawal agreement) 2020-01
-
 (2)  Subparagraph (1) does not limit the power conferred by section 25(1) above.
 
 (3)  The reference in subparagraph (1) to any modification by or under this Act of the European Union (Withdrawal) Act 2019 includes a reference to any modification made by or under this Act of a provision of another Act which was inserted into that other Act or otherwise modified by the European Union (Withdrawal) Act 2019.
@@ -65,8 +63,6 @@ Interpretation and General Clauses Act.
 (f) in the definition of “the Treaties” or “the EU Treaties”-
 
 (i) for “or EU Treaties,” substitute “or EU Treaties as at immediately before IP completion day and”; and
-
-2020-01 European Union (Withdrawal Agreement)
 
 (ii) for the words from “its repeal” to the end of the definition substitute “IP completion day”.
 
@@ -104,8 +100,6 @@ European Union (Withdrawal) Act 2019.
 
 (b) references to anything which continues to be domestic law on or after exit day by virtue of section 4B(2) (as that body of law is added to or otherwise modified by or under this Act or by other domestic law from time to time).”.
 
-European union (withdrawal agreement) 2020-01
-
 (4)  In subsection (7) for “exit day” substitute “IP completion day”.
 
 (5)  In subsection (11)-
@@ -130,11 +124,11 @@ European union (withdrawal agreement) 2020-01
 
 ”; (g) after the entry for “Relevant criminal offence” insert- “ Relevant separation agreement law Section 10C(3)
 
-”; (h) after the entry for “Subsidiary legislation” insert- “ Swiss citizens’ rights agreement Section 10B(6)
+”; (h) after the entry for “Subsidiary legislation” insert- “
+
+Swiss citizens’ rights agreement Section 10B(6)
 
 ”; (i) in the entry for “Withdrawal agreement” for “Section 3(1)” substitute “Section 4A(7)”.
-
-2020-01 European Union (Withdrawal Agreement)
 
 10.  In the italic heading before section 5, for “existing EU law” substitute “saved EU law at end of implementation period”.
 
@@ -176,8 +170,6 @@ continues to be domestic law as an enactment of the same kind.”.
 
 (b) in subparagraph (2) omit the definition of “interpreting retained EU law”.
 
-European union (withdrawal agreement) 2020-01
-
 (3)  In paragraph 2-
 
 (a) in subparagraph (4) for “this Act is passed” substitute “IP completion day”; and
@@ -218,8 +210,6 @@ European union (withdrawal agreement) 2020-01
 
 “Anticipatory exercise of powers in relation to section 4B(2) saved law.
 
-2020-01 European Union (Withdrawal Agreement)
-
 3A. Any power to make regulations under this Act which modify anything which continues to be domestic law by virtue of section 4B(2) is capable of being exercised before exit day so that the regulations come into force on or after exit day.”.
 
 (5)  In paragraph 4 for “exit day”, in both places where it appears, substitute “IP completion day”.
@@ -251,8 +241,6 @@ European union (withdrawal agreement) 2020-01
 (a) on or after exit day, without that restriction; and
 
 (b) on or after IP completion day, without any corresponding restriction in relation to compatibility with retained EU law,
-
-European union (withdrawal agreement) 2020-01
 
 so far as the restriction concerned is not applicable to and in Gibraltar by virtue of the withdrawal agreement.”.
 
@@ -294,8 +282,6 @@ if in force or effective immediately before exit day, continues to be in force o
 
 (a) in connection with anything which continues to be domestic law by virtue of section 4A(2) or (4) or 4B(2); or
 
-2020-01 European Union (Withdrawal Agreement)
-
 (b) for a purpose mentioned in section 4(1) of the European Communities Act or section 23(g) of the Interpretation and General Clauses Act or otherwise related to the EU or the EEA,
 
 which, immediately before exit day, is in the process of being done continues to be done on and after exit day.
@@ -330,8 +316,6 @@ which, immediately before exit day, is in the process of being done continues to
 
 12A.  The repeal of section 4A(1) to (5) by section 4A(6) and the repeal of section 4B(1) to (5) by section 4B(6) do not prevent an enactment to which section 5 applies from continuing to be read, on and after IP completion day and by virtue of section 5, in accordance with section 4B(3) or (4).
 
-European union (withdrawal agreement) 2020-01
-
 13.  Section 7(2)(b) does not apply in relation to any rights, powers, liabilities, obligations, restrictions, remedies or procedures so far as they are of a kind recognised by a court or tribunal in Gibraltar in a case decided on or after IP completion day but begun before IP completion day (whether or not as an essential part of the decision in the case).”.
 
 (3)  In paragraph 14-
@@ -365,8 +349,6 @@ PART 3
 TRANSITIONAL, TRANSITORY AND SAVING PROVISION
 
 Regulations under EUWA 2019 etc.
-
-2020-01 European Union (Withdrawal Agreement)
 
 18.(1)  The fact that a power to make regulations is conferred by this Act in the European Union (Withdrawal) Act 2019 does not affect the extent of any other power to make regulations under that Act.
 

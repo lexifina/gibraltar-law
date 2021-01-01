@@ -18,11 +18,11 @@ Notice of Commencement (LN.2020/399) (ss. 9-14, 17, 20(1)(d)
 
 12.11.2020
 
+Notice of Commencement (LN.2020/533) (ss. 19(1)-(3), (4)(a), (5), (6)(b), 20(1)(b)-(c), (e), 22, Sch.2 (para 4, 5(f), 6, 10, 11(3)-(4), 13(2), 15(2)-(3), (6), 16(3), 17(2)- (3)
+
+1.1.2021
+
 Assent 21.1.2020
-
-_______________________________
-
-2020-01 European Union (Withdrawal Agreement)
 
 ARRANGEMENT OF SECTIONS
 
@@ -66,8 +66,6 @@ CITIZENS’ RIGHTS
 
 Rights in relation to entry and residence
 
-European union (withdrawal agreement) 2020-01
-
 9. Rights related to residence 10. Frontier workers 11. Restrictions of rights of entry and residence
 
 Professional qualifications
@@ -110,8 +108,6 @@ Other matters
 
 22. Certain dispute procedures under withdrawal agreement 23. Repeal of unnecessary or spent enactments
 
-2020-01 European Union (Withdrawal Agreement)
-
 PART 6
 
 FINAL PROVISION
@@ -123,8 +119,6 @@ Supplementary and final
 SCHEDULE 1 REGULATIONS UNDER THIS ACT
 
 SCHEDULE 2 CONSEQUENTIAL AND TRANSITIONAL PROVISION ETC.
-
-European union (withdrawal agreement) 2020-01
 
 AN ACT TO IMPLEMENT, AND MAKE OTHER PROVISION IN CONNECTION WITH, THE AGREEMENT BETWEEN THE UNITED KINGDOM AND THE EU UNDER ARTICLE 50(2) OF THE TREATY ON EUROPEAN UNION WHICH SETS OUT THE ARRANGEMENTS FOR GIBRALTAR’S WITHDRAWAL FROM THE EU, AND FOR CONNECTED PURPOSES.
 
