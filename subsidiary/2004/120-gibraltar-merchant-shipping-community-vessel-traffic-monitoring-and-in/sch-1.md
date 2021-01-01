@@ -22,13 +22,7 @@ Passenger ships, irrespective of size, and all ships of 300 gross tonnage and up
 
 (d) ships, other than passenger ships and tankers, of 10000 gross tonnage and upwards but less than 50000 gross tonnage - not later than 1 July 2005 or, as regards ships engaged in international voyages, any earlier date decided within the framework of the IMO;
 
-(e) ships, other than passenger ships and tankers, of 3000 gross tonnage and upwards but less than 10000 gross tonnage - not later than 1 July 2006 or, as regards ships engaged in international voyages, any earlier date decided upon within the
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/120 framework of the IMO;
+(e) ships, other than passenger ships and tankers, of 3000 gross tonnage and upwards but less than 10000 gross tonnage - not later than 1 July 2006 or, as regards ships engaged in international voyages, any earlier date decided upon within the framework of the IMO;
 
 (f) ships, other than passenger ships and tankers, of 300 gross tonnage and upwards but less than 3000 gross tonnage - not later than 1 July 2007 or, as regards ships engaged in international voyages, any earlier date decided upon within the framework of the IMO.
 
@@ -46,7 +40,7 @@ Ships including Gibraltar ships in the following classes shall, inasmuch as they
 
 (d) ships other than passenger ships, of 3000 gross tonnage and upwards, built on or after 1 July 2002.
 
-In this Schedule, “ the effective date of these Regulations” means the date on which these Regulations come into operation.
+In this Schedule, “the effective date of these Regulations” means the date on which these Regulations come into operation.
 
 Part 3 Fishing Vessels
 
@@ -56,18 +50,6 @@ Fishing vessels with a length of more than 15 metres overall shall be fitted wit
 
 (b) fishing vessels of overall length 18 metres and upwards but less than 24 metres: not later than 31 May 2013;
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/120
-
 (c) fishing vessels of overall length exceeding 15 metres but less than 18 metres: not later than 31 May 2014; and
 
 (d) new-built fishing vessels of overall length exceeding 15 metres are subject to the carrying requirement laid down in regulation 10A as from 30 November 2010.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COMMUNITY VESSEL TRAFFIC MONITORING AND INFORMATION SYSTEM) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/120
