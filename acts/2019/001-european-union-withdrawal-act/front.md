@@ -1,8 +1,4 @@
-European Union (Withdrawal)
-
-2019-01
-
-EUROPEAN UNION (WITHDRAWAL) ACT 2019
+European Union (Withdrawal) Act 2019
 
 Principal Act
 
@@ -18,17 +14,23 @@ LN. 2019/073 s. 3(1), (2) 28.3.2019 2019/092 s. 3(1), (2) 11.4.2019 2019/218 s. 
 
 31.1.2020 LN. 2020/064 ss. 10(1), (6), 15(3), Sch. 4 (para 5-6, 8-10)(Notice of Commencement)
 
-31.1.2020 Act. 2020-01 ss. 9(5A)-(5C), 11B 12.11.2020 2020/533 s. 15(6)( Notice of Commencement) 31.12.2020
+31.1.2020 Act. 2020-01 ss. 9(5A)-(5C), 11B 12.11.2020 2020/533 s. 15(6)( Notice of Commencement) 31.12.2020 “ ss. 4A(1)-(5), 4B(1)-(5) 1.1.2021 LN. 2020/447 Sch. 4 1.1.2021 2020/533 ss. 5, 6, 7, 8(1)-(5), 9(1)-(5), (6), 10(2)-(5), Sch.1 (papa 1(1), (2)(a), 2-5), Sch.2 (para 1), Sch.4 (para 1-4, 7, 11(a)-(b), (d), 11A, 12-15) (Notice of Commencement)
+
+1.1.2021 Act. 2020-01 ss. 5(1)-(3), 6(1), (2)(a), (ai)-(bi), (2)(b), (ai)-(bi), (2)(c), (3), (5), 7(1), (2)(aa), (b), (3), 8(1)-(5), 8A, 9(4)(aa), (5), (6A), 12A, 10(1A), (5)(a), (ba), Sch. 1, 2, 4
+
+1.1.2021
 
 EU Legislation/International Agreements involved: European Council Decision (EU) 2019/584
 
-European Union (Withdrawal)
-
-2019-01
-
 ARRANGEMENT OF SECTIONS
 
-Sections General provisions 1. Short title. 2. Commencement. 3. Interpretation. Repeals
+Section
+
+General provisions
+
+1. Short title. 2. Commencement. 3. Interpretation.
+
+Repeals
 
 4. Repeals.
 
@@ -36,26 +38,20 @@ Savings for implementation period
 
 4A. Saving for ECA for implementation period. 4B. Saving for EU-derived domestic legislation for implementation period.
 
-Retention of existing EU law
+Retention of saved EU law at end of implementation period
 
-5. Saving for EU-derived domestic legislation. 6. Incorporation of direct EU legislation. 7. Saving for rights etc. under section 3(1) of the ECA. 8. Exceptions to savings and incorporation. 9. Interpretation of retained EU law. 10. Status of retained EU law.
+5. Saving for EU-derived domestic legislation. 6. Incorporation of direct EU legislation. 7. Saving for rights etc. under section 3(1) of the ECA. 8. Exceptions to savings and incorporation. 8A. Savings and incorporation: supplementary. 9. Interpretation of retained EU law. 10. Status of retained EU law.
 
 Further aspects of withdrawal
 
-10A. General implementation of remainder of withdrawal agreement. 10B. General implementation of EEA EFTA and Swiss agreements. 10C. Interpretation of relevant separation agreement law. 11. Dealing with deficiencies arising from withdrawal. 11A. Supplementary powers in connection with implementation period. 11B. Power in connection with certain other separation issues. 11C. Power in connection with Gibraltar Protocol in withdrawal agreement. 12. Repealed. 13. Rules of evidence. 14. Regulations. 15. Consequential and transitional provision. 16. Repealed.
+10A. General implementation of remainder of withdrawal agreement. 10B. General implementation of EEA EFTA and Swiss agreements. 10C. Interpretation of relevant separation agreement law. 11. Dealing with deficiencies arising from withdrawal. 11A. Supplementary powers in connection with implementation period. 11B. Power in connection with certain other separation issues. 11C. Power in connection with Gibraltar Protocol in withdrawal agreement. 12. Repealed. 12A. Certain dispute procedures under withdrawal agreement. 13. Rules of evidence. 14. Regulations. 15. Consequential and transitional provision. 16. Repealed.
 
 SCHEDULE 1 FURTHER PROVISION ABOUT EXCEPTIONS TO SAVINGS AND INCORPORATION
 
-SCHEDULE 2
-
-European Union (Withdrawal)
-
-2019-01 RULES OF EVIDENCE
+SCHEDULE 2 RULES OF EVIDENCE
 
 SCHEDULE 3 REGULATIONS
 
 SCHEDULE 4 CONSEQUENTIAL, TRANSITIONAL, TRANSITORY AND SAVING PROVISION
 
-European Union (Withdrawal)
-
-2019-01 AN ACT TO PROVIDE FOR THE REPEAL OF THE EUROPEAN COMMUNITIES ACT, TO REPEAL SECTION 23(G) OF THE INTERPRETATION AND GENERAL CLAUSES ACT, TO PROVIDE FOR THE CONTINUING VALIDITY OF LEGISLATION PASSED OR MADE FOR THE PURPOSES OF COMPLYING WITH ANY OBLIGATION ARISING OUT OF GIBRALTAR’S MEMBERSHIP OF THE EUROPEAN UNION, TO REPEAL THE EUROPEAN PARLIAMENTARY ELECTIONS ACT; TO PROVIDE FOR THE CONTINUATION AND VALIDITY OF ANY ADMINISTRATIVE ACT OR DECISION MADE PURSUANT TO ANY SUCH OBLIGATION, AND TO PROVIDE, BY WAY OF SUBSIDIARY LEGISLATION, POWERS TO AMEND, REPEAL OR REPLACE ANY ENACTMENT WHICH WAS MADE, WHETHER PRIMARILY OR OTHERWISE FOR OR IN CONNECTION WITH ANY SUCH EUROPEAN UNION OBLIGATIONS, TO MAKE SUCH CONSEQUENTIAL AMENDMENTS RELATING TO MEMBERSHIP OF THE EUROPEAN ECONOMIC AREA; TO PROVIDE SUCH TRANSITIONAL OR OTHER PROVISIONS AS ARE DEEMED NECESSARY, AND FOR CONNECTED PURPOSES.
+AN ACT TO PROVIDE FOR THE REPEAL OF THE EUROPEAN COMMUNITIES ACT, TO REPEAL SECTION 23(G) OF THE INTERPRETATION AND GENERAL CLAUSES ACT, TO PROVIDE FOR THE CONTINUING VALIDITY OF LEGISLATION PASSED OR MADE FOR THE PURPOSES OF COMPLYING WITH ANY OBLIGATION ARISING OUT OF GIBRALTAR’S MEMBERSHIP OF THE EUROPEAN UNION, TO REPEAL THE EUROPEAN PARLIAMENTARY ELECTIONS ACT; TO PROVIDE FOR THE CONTINUATION AND VALIDITY OF ANY ADMINISTRATIVE ACT OR DECISION MADE PURSUANT TO ANY SUCH OBLIGATION, AND TO PROVIDE, BY WAY OF SUBSIDIARY LEGISLATION, POWERS TO AMEND, REPEAL OR REPLACE ANY ENACTMENT WHICH WAS MADE, WHETHER PRIMARILY OR OTHERWISE FOR OR IN CONNECTION WITH ANY SUCH EUROPEAN UNION OBLIGATIONS, TO MAKE SUCH CONSEQUENTIAL AMENDMENTS RELATING TO MEMBERSHIP OF THE EUROPEAN ECONOMIC AREA; TO PROVIDE SUCH TRANSITIONAL OR OTHER PROVISIONS AS ARE DEEMED NECESSARY, AND FOR CONNECTED PURPOSES.
