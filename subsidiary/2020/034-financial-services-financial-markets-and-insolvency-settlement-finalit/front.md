@@ -10,7 +10,9 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/425 r. 2(1) 28.12.2020
+LN.2020/425 r. 2(1) 28.12.2020 2021/106 rr. 2(1)-(2), (4)-(5), 3(4)-(5), 4(1)(a), 5, 6(1)-(2), 9(1), (5), 11(1), (4), 12(3)(a)-(b), 13, 16, 17A
+
+1.1.2021
 
 2019-26 Financial Services 2020/034 FINANCIAL SERVICES (FINANCIAL MARKETS AND INSOLVENCY: SETTLEMENT FINALITY) REGULATIONS 2020
 
@@ -18,7 +20,7 @@ ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. References to commencement of insolvency proceedings. 4. Application. 5. Designation of designated systems, etc. 6. The GFSC may decide that person should be treated as participant in designated system. 7. Transfer order and netting to be binding despite insolvency proceedings. 8. Requirements for rules of designated systems and interoperable systems. 9. Certain matters to be notified to the GFSC. 10. Gibraltar law relating to insolvency or insolvency proceedings not to affect certain rights and obligations. 11. Certain questions to be determined in accordance with foreign law. 12. Insolvency proceedings not to affect certain rights. 13. Operators to notify the GFSC of participation in system. 14. Institutions to provide information to certain persons about designated systems. 15. Commencement of insolvency proceedings against participant not to prevent certain funds, etc., from being used to fulfil obligations. 16. Duty to cooperate with ESMA. 17. Maximum amounts of administrative penalty. 18. Revocation of 2011 Regulations.
+1. Title and commencement. 2. Interpretation. 3. References to commencement of insolvency proceedings. 4. Application. 5. Designation of designated systems. 6. The GFSC may decide that person should be treated as participant in designated system. 7. Transfer order and netting to be binding despite insolvency proceedings. 8. Requirements for rules of designated systems and interoperable systems. 9. Certain matters to be notified to the GFSC. 10. Gibraltar law relating to insolvency or insolvency proceedings not to affect certain rights and obligations. 11. Certain questions to be determined in accordance with foreign law. 12. Insolvency proceedings not to affect certain rights. 13. Provision of information by designated systems. 14. Institutions to provide information to certain persons about designated systems. 15. Commencement of insolvency proceedings against participant not to prevent certain funds, etc., from being used to fulfil obligations. 16. Omitted. 17. Maximum amounts of administrative penalty. 17A. Applicable law for orders made and collateral provided before IP completion day. 18. Revocation of 2011 Regulations.
 
 Financial Services 2019-26 FINANCIAL SERVICES (FINANCIAL MARKETS AND INSOLVENCY: SETTLEMENT FINALITY) REGULATIONS 2020 2020/034
 
