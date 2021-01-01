@@ -2,13 +2,13 @@ SCHEDULE 2
 
 Sections 4N and 4O
 
-QUALITY STANDARDS FOR INTRA-EUROPEAN UNION CROSS-BORDER MAIL
+QUALITY STANDARDS FOR CROSS-BORDER MAIL
 
-The quality standards for intra-European Union cross-border mail in each country are to be established in relation to the time limit for routing measured from end to end (*) for postal items of the fastest standard category according to the formula D + n, where D represents the date of deposit (**) and n the number of working days which elapse between that date and that deliver to the addressee.
+The quality standards for cross-border mail in each country are to be established in relation to the time limit for routing measured from end to end (*) for postal items of the fastest standard category according to the formula D + n, where D represents the date of deposit (**) and n the number of working days which elapse between that date and that deliver to the addressee.
 
-Quality standards for Intra−Community Cross Border Mail Time Limit Objective D+3 85% of items D+5 97% of items
+Quality standards for Cross Border Mail Time Limit Objective D+3 85% of items D+5 97% of items
 
-The standards must be achieved not only for the entirety of intra-European Union traffic but also for each of the bilateral flows between two Member States.
+The standards must be achieved not only for the entirety of cross-border traffic but also for each of the bilateral flows between two countries.
 
 (*)  End-to-end routing is measured from the access point to the network to the point of delivery to the addressee.
 

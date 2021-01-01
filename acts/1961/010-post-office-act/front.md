@@ -1,14 +1,8 @@
-Post Office
-
-1961-10
-
-POST OFFICE ACT
+Post Office Act
 
 Principal Act
 
-Act. No. 1961-10 Commencement 30.6.1961
-
-Assent 29.6.1961
+Act. No. 1961-10 Commencement 30.6.1961 Assent 29.6.1961
 
 Amending enactment Relevant current provisions Commencement date
 
@@ -18,21 +12,21 @@ GN. 1975/0078
 
 Act. 1981-17 s. 5(5)
 
-1988-01 s. 48A(1), (2) 4.4.1988 1988-13 ss. 32, 35(1) 23.6.1988 2007-17 ss. 3(1), 5(2)(c), 6(1), (5), 35(2), 48A(1), (2), 50, 54, 56
+1988-01 s. 48A(1)-(2) 4.4.1988 1988-13 ss. 32, 35(1) 23.6.1988 2007-17 ss. 3(1), 5(2)(c), 6(1), (5), 35(2), 48A(1)-(2), 50, 54, 56
 
-14.6.2007 LN. 2012/218 ss. 2, 3, 4, 4A-4S, 5, 6, 7(1), (2), 8(1)(a), (c), (d), (2), (3), (3A), 9, 10(1), (2), (3), (4), (5), 11(1), (2), (3), (3A), (4), 12, 13(2)(a),(c), (3), 14(1),   (4), 15, 16(1), (2), (3), 17(1), (2), (3), (5), 18(1), (2), 19(1), (2), 21, 22, 23(2), (5), (6), 24(1), (2), (3), 25, 26(1), (2), 27, 28, 30, 32, 33, 35(1), (2), 36(a), 38, 39(1)(a), (b), 40(2), (3), (6), 41(1), (2), 42(1), (2), 43, 46, 47(1), (2), 48A, 49(1), (2), 50, 51, 52, 53, 55(1), (2), (3), 56, 57(1), (2), 58, Sch. 1 & 2
+14.6.2007 LN. 2012/218 ss. 2-4, 4A-4S, 5-6, 7(1)-(2), 8(1)(a), (c)-(d), (2)-(3), (3A), 9, 10(1)-(5), 11(1)-(3), (3A), (4), 12, 13(2)(a), (c), (3), 14(1), (4), 15, 16(1)-(3), 17(1)-(3), (5), 18(1)- (2), 19(1)-(2), 21-22, 23(2), (5)-(6), 24(1)-(3), 25, 26(1)-(2), 27-28, 30, 32-33, 35(1)-(2), 36(a), 38, 39(1)(a)-(b), 40(2)-(3), (6), 41(1)-(2), 42(1)-(2), 43, 46, 47(1)-(2), 48A, 49(1)-(2), 50-53, 55(1)-(3), 56, 57(1)-(2), 58, Schs. 1-2
 
-13.12.2012
+13.12.2012 2020/438 ss. 2(1), 3(2), 4(4), 4A(4), (7), 4B(1)-(2), (4), 4C(2), 4D(3)-(4), 4E(2), 4k(1)(a), 4L(5), (7)-(8), 4M, 4N(2), 4O(1)(b), (2), (4), 4S(5), Sch. 2
+
+1.1.2021
 
 English sources Post Office Act 1953(1 & 2 Eliz.2 c.36)
 
 Transposing: Directive 97/67/EC
 
-Post Office
+ARRANGEMENT OF SECTIONS
 
-1961-10 ARRANGEMENT OF SECTIONS.
-
-Section.
+Section
 
 1. Short title. 2. Interpretation.
 
@@ -44,9 +38,7 @@ PART II.–GENERAL PROVISIONS AS TO TRANSMISSION OF POSTAL PACKETS.
 
 5. Postage to be charged on postal packets. 6. General provisions relating to postage, etc. 7. Provisions as to postage, etc., not prepaid or insufficiently prepaid. 8. Conditions of transit of postal packets. 9. Decision as to postal packets. 10. Cash on delivery service. 11. Prohibition on sending by post of certain articles. 12. Power of the Postal Service Provider to carry into effect postal arrangements with other countries. 13. Application of customs laws to postal packets. 14. Power to detain postal packets containing contraband.
 
-Post Office
-
-1961-10 15. Recovery of postage, etc. 16. Post Office mark evidence of amount of postage, etc.
+15. Recovery of postage, etc. 16. Post Office mark evidence of amount of postage, etc.
 
 PART III.–MONEY ORDERS.
 
@@ -58,11 +50,7 @@ PART IV.–CONVEYANCE OF MAIL BAGS BY SHIPS AND AIRCRAFT.
 
 PART V.–GENERAL OFFENCES.
 
-29. Stealing mail bag or postal packet. 30. Unlawfully taking away or opening mail bag. 31. Receiver of stolen mail bag or postal packet. 32. Fraudulent retention of mail bag or postal packet. 33. Criminal diversion of letters from addressee. 34. Secreting or destroying postal packets. 35. Opening or delaying of postal packets by officers of the Post Office. 36. Carelessness, negligence or misconduct of persons employed in carrying or delivering mail bags, postal packets, etc. 37. Prohibition of placing injurious substances in or against post office letter boxes. 38. Prohibition of affixing placards, etc., on post office letter boxes, etc. 39. Prohibition of imitation of post office stamps, envelopes, forms and marks. 40. Prohibition of fictitious stamps. 41. Prohibition of false notice as to reception of letters, etc. 42. Obstruction and molestation of officers of a Postal Service Provider. 42A.  Transferred.
-
-Post Office
-
-1961-10 43. Provision against hawing opposite Main Office of the Universal Service Provider. 44. Endeavouring to procure the commission of offences.
+29. Stealing mail bag or postal packet. 30. Unlawfully taking away or opening mail bag. 31. Receiver of stolen mail bag or postal packet. 32. Fraudulent retention of mail bag or postal packet. 33. Criminal diversion of letters from addressee. 34. Secreting or destroying postal packets. 35. Opening or delaying of postal packets by officers of the Post Office. 36. Carelessness, negligence or misconduct of persons employed in carrying or delivering mail bags, postal packets, etc. 37. Prohibition of placing injurious substances in or against post office letter boxes. 38. Prohibition of affixing placards, etc., on post office letter boxes, etc. 39. Prohibition of imitation of post office stamps, envelopes, forms and marks. 40. Prohibition of fictitious stamps. 41. Prohibition of false notice as to reception of letters, etc. 42. Obstruction and molestation of officers of a Postal Service Provider. 42A.  Transferred. 43. Provision against hawing opposite Main Office of the Universal Service Provider. 44. Endeavouring to procure the commission of offences.
 
 PART VI. –LEGAL PROCEEDINGS.
 
@@ -74,6 +62,4 @@ PART VII.–MISCELLANEOUS AND GENERAL.
 
 SCHEDULE 1 GUIDANCE ON CALCULATING THE NET COST, IF ANY, OF UNIVERSAL SERVICE
 
-SCHEDULE 2 QUALITY STANDARDS FOR INTRA-EUROPEAN UNION CROSS-BORDER MAIL
-
-Post Office
+SCHEDULE 2 QUALITY STANDARDS FOR CROSS-BORDER MAIL

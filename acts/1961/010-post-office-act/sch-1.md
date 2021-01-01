@@ -18,7 +18,7 @@ Those obligations may include, among others, the following
 
 (d) uniform prices for universal service;
 
-(e) the provision of certain free services for blind and partially- sighted persons.
+(e) the provision of certain free services for blind and partially-sighted persons.
 
 PART B
 
@@ -28,9 +28,7 @@ The Authority is to consider all means to ensure appropriate incentives for post
 
 The net cost of universal service obligations is any cost related to and necessary for the operation of the universal service provision.  The net cost of universal service obligations is to be calculated, as the difference between the net cost for a designated universal service provider of operating with the universal service obligation and the same postal service provider operating without the universal service obligations.
 
-Post Office
-
-1961-10 The calculation shall take into account all other relevant elements, including any intangible and market benefits which accrue to a postal service provider designated to provide universal service, the entitlement to a reasonable profit and incentives for cost efficiency.
+The calculation shall take into account all other relevant elements, including any intangible and market benefits which accrue to a postal service provider designated to provide universal service, the entitlement to a reasonable profit and incentives for cost efficiency.
 
 Due attention is to be given to correctly assessing the cost that any designated universal service provider would have chosen to avoid, had there been no universal service obligation.  The net cost calculation should assess the benefits, including intangible benefits, to the universal service operator.
 
@@ -48,16 +46,10 @@ PART C
 
 RECOVERY OF ANY NET COSTS OF UNIVERSAL SERVICE OBLIGATIONS
 
-The recovery or financing of any net costs of universal service obligations may require designated universal service providers to be compensated for the services that they provide under non-commercial conditions. As such compensation involves financial transfers, the Authority has to ensure that
-
-Post Office
-
-1961-10 they are undertaken in an objective, transparent, non-discriminatory and proportionate manner.  This means that the transfers result as far as possible in the least distortion to competition and to user demand.
+The recovery or financing of any net costs of universal service obligations may require designated universal service providers to be compensated for the services that they provide under non-commercial conditions. As such compensation involves financial transfers, the Authority has to ensure that they are undertaken in an objective, transparent, non- discriminatory and proportionate manner.  This means that the transfers result as far as possible in the least distortion to competition and to user demand.
 
 A sharing mechanism based on a fund referred to in section 4F(4) should use a transparent and neutral mechanism for collecting contributions that avoids a double imposition of contributions falling on both outputs and inputs of  undertakings.
 
-The fund administrator is to be responsible for collecting contributions from undertakings, which are assessed as liable to contribute to the net cost of universal service obligations in Gibraltar and is to oversee the transfer of sums due to the undertakings entitled to receive payments from the fund.
+The fund administrator is to be responsible for collecting contributions from undertakings, which are assessed as liable to contribute to the net cost of universal service obligations in
 
-Post Office
-
-1961-10
+Gibraltar and is to oversee the transfer of sums due to the undertakings entitled to receive payments from the fund.
