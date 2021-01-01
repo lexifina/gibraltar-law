@@ -10,14 +10,4 @@ Profile High Risk Ship (HRS) Standard Risk Ship (SRS) Low Risk Ship (LRS) Generi
 
 6 Number of deficiencies recorded in each insp. within previous 36 months Deficiencies Not eligible - ≤ 5 (and at least one inspectio n carried out in previous 36 months)
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 7 Number of detentions within previous 36 months Deficiencies ≥ 2 detentions 1 No detention HRS are ships which meet criteria to a total value of 5 or more weighting points. LRS are ships which meet all the criteria of the Low Risk Parameters. SRS are ships which are neither HRS nor LRS.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
+7 Number of detentions within previous 36 months Deficiencies ≥ 2 detentions 1 No detention HRS are ships which meet criteria to a total value of 5 or more weighting points. LRS are ships which meet all the criteria of the Low Risk Parameters. SRS are ships which are neither HRS nor LRS.

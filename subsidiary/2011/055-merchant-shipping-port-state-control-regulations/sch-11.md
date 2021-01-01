@@ -20,11 +20,7 @@ MINIMUM CRITERIA FOR INSPECTORS
 
 (b) gained an equivalent level of competence by following a minimum of one year’s field training participating in Port State Control inspections under the guidance of experienced Port State Control Officers.
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 4.  The inspectors mentioned under 2(a) must have gained a maritime experience of at least 5 years, including periods served at sea as officers in the deck- or engine-department respectively, or as a flag State inspector or as an assistant port State control inspector. Such experience shall include a period of at least two years at sea as a deck or engine officer.
+4.  The inspectors mentioned under 2(a) must have gained a maritime experience of at least 5 years, including periods served at sea as officers in the deck- or engine-department respectively, or as a flag State inspector or as an assistant port State control inspector. Such experience shall include a period of at least two years at sea as a deck or engine officer.
 
 5.  The inspectors must have the ability to communicate orally and in writing with seafarers in the language most commonly spoken at sea.
 
@@ -41,9 +37,3 @@ This shall normally include:
 (c) a knowledge of inspection principles, procedures and techniques;
 
 (d) a working knowledge of the operations being examined.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055

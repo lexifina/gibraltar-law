@@ -24,11 +24,7 @@ Where the ground for detention is the result of accidental damage suffered on th
 
 When exercising his professional judgement as to whether or not a ship should be detained the inspector must apply the following criteria:
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 Timing:
+Timing:
 
 Ships which are unsafe to proceed to sea must be detained upon the first inspection irrespective of how much time the ship will stay in port.
 
@@ -58,12 +54,6 @@ When deciding whether the deficiencies found in a ship are sufficiently serious 
 
 8. abandon ship speedily and safely and effect rescue if necessary during the forthcoming voyage;
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
-
 9. prevent pollution of the environment throughout the forthcoming voyage;
 
 10. maintain adequate stability throughout the forthcoming voyage;
@@ -78,7 +68,7 @@ Subsidiary 2011/055
 
 If the answer to any of these assessments is negative, taking into account all deficiencies found, the ship must be strongly considered for detention. A combination of deficiencies of a less serious nature may also warrant the detention of the ship.
 
-3. To assist the inspector in the use of these guidelines, there follows a list of deficiencies, grouped under relevant Conventions and/or codes, which are considered of such a serious nature that they may warrant the detention of the ship involved. This list is not intended to be exhaustive.
+3.  To assist the inspector in the use of these guidelines, there follows a list of deficiencies, grouped under relevant Conventions and/or codes, which are considered of such a serious nature that they may warrant the detention of the ship involved. This list is not intended to be exhaustive.
 
 3.1.  General
 
@@ -88,11 +78,7 @@ The lack of valid certificates and documents as required by the relevant instrum
 
 1. Failure of the proper operation of propulsion and other essential machinery, as well as electrical installations.
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 2. Insufficient cleanliness of engine room, excessive amount of oily-water mixtures in bilges, insulation of piping, including exhaust pipes in engine room contaminated by oil, improper operation of bilge pumping arrangements.
+2. Insufficient cleanliness of engine room, excessive amount of oily-water mixtures in bilges, insulation of piping, including exhaust pipes in engine room contaminated by oil, improper operation of bilge pumping arrangements.
 
 3. Failure of the proper operation of emergency generator, lighting, batteries and switches.
 
@@ -100,7 +86,7 @@ Subsidiary 2011/055 2. Insufficient cleanliness of engine room, excessive amount
 
 5. Absence, insufficient capacity or serious deterioration of personal life-saving appliances, survival craft and launching arrangements.
 
-6. Absence, non-compliance or substantial deterioration of fire detection system, fire alarms, firefighting equipment, fixed fire- extinguishing installation, ventilation valves, fire dampers, quick-closing devices to the extent that they cannot comply with their intended use.
+6. Absence, non-compliance or substantial deterioration of fire detection system, fire alarms, firefighting equipment, fixed fire-extinguishing installation, ventilation valves, fire dampers, quick-closing devices to the extent that they cannot comply with their intended use.
 
 7. Absence, substantial deterioration or failure of proper operation of the cargo deck area fire protection on tankers.
 
@@ -114,11 +100,7 @@ Subsidiary 2011/055 2. Insufficient cleanliness of engine room, excessive amount
 
 12. Absence of non-sparking exhaust ventilation for cargo pump rooms.
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 13. Serious deficiency in the operational requirements, as described in Section 5.5 of Annex 1 to the Paris MOU.
+13. Serious deficiency in the operational requirements, as described in Section 5.5 of Annex 1 to the Paris MOU.
 
 14. Number, composition or certification of crew not corresponding with the safe manning document.
 
@@ -154,11 +136,7 @@ Subsidiary 2011/055 13. Serious deficiency in the operational requirements, as d
 
 7. Electrical installations not intrinsically safe or not corresponding to code requirements.
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 8. Ventilators in cargo area not operable.
+8. Ventilators in cargo area not operable.
 
 9. Pressure alarms for cargo tanks not operable.
 
@@ -187,12 +165,6 @@ Subsidiary 2011/055 8. Ventilators in cargo area not operable.
 2. Remaining capacity of slop and/or sludge tank insufficient for the intended voyage.
 
 3. Oil Record Book not available.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
 
 4. Unauthorised discharge bypass fitted.
 
@@ -226,11 +198,7 @@ Subsidiary 2011/055
 
 3. Failure to comply with the applicable safe manning requirements of the flag state administration.
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 4. Failure of navigational or engineering watch arrangements to conform to the requirements specified for the ship by the flag state administration.
+4. Failure of navigational or engineering watch arrangements to conform to the requirements specified for the ship by the flag state administration.
 
 5. Absence in a watch of a person qualified to operate equipment essential to safe navigation, safety radio communications or the prevention of marine pollution.
 
@@ -256,20 +224,8 @@ Subsidiary 2011/055 4. Failure of navigational or engineering watch arrangements
 
 8. The conditions on board are clearly hazardous to the safety, health or security of seafarers.
 
-9. The non-conformity constitutes a serious or repeated breach of the requirements of the Maritime Labour Convention 2006 (including seafarer’s rights) relating to the living and working conditions of seafarers on the ship, as stipulated in the ship’s
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 maritime labour certificate and declaration of maritime labour compliance.
+9. The non-conformity constitutes a serious or repeated breach of the requirements of the Maritime Labour Convention 2006 (including seafarer’s rights) relating to the living and working conditions of seafarers on the ship, as stipulated in the ship’s maritime labour certificate and declaration of maritime labour compliance.
 
 3.11.  Areas which may not warrant a detention, but where, e.g. cargo operations have to be suspended.
 
 Failure of the proper operation (or maintenance) of inert gas system, cargo-related gear or machinery are considered sufficient grounds for stopping cargo operation.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055

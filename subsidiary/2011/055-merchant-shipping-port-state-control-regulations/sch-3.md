@@ -25,9 +25,3 @@ The information listed below shall be submitted to the port authority at least t
 (e) planned statutory survey inspections and substantial maintenance and repair work to be carried out whilst in the port of destination;
 
 (f) date of last expanded inspection in the Paris MOU region.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055

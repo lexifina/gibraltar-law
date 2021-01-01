@@ -30,11 +30,7 @@ Annex I, ‘Port State Control Procedures’, to the Paris MOU and the following
 
 — Instruction 39/2006/03: Optimisation of Banning and Notification Checklist,
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 — Instruction 39/2006/10: Guidelines for PSCOs for the Examination of Ballast Tanks and Main Power Failure Simulation (black-out test),
+— Instruction 39/2006/10: Guidelines for PSCOs for the Examination of Ballast Tanks and Main Power Failure Simulation (black-out test),
 
 — Instruction 39/2006/11: Guidance for Checking the Structure of Bulk Carriers,
 
@@ -43,9 +39,3 @@ Subsidiary 2011/055 — Instruction 39/2006/10: Guidelines for PSCOs for the Exa
 — Instruction 40/2007/04: Criteria for Responsibility Assessment of Recognised Organisations (R/O),
 
 — Instruction 40/2007/09: Guidelines for Port State Control Inspections for Compliance with Annex VI of MARPOL 73/78.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055

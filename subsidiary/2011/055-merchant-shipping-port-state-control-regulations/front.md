@@ -1,26 +1,24 @@
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
+Subsidiary Legislation made under s.223A.
 
-1935-09
+Merchant Shipping (Port State Control) Regulations 2011
 
-Subsidiary 2011/055 Subsidiary Legislation made under s. 223A.
-
-MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-(LN. 2011/055)
+LN.2011/055
 
 Commencement 12.4.2011
 
-Amending enactments Relevant current provisions Commencement date LN.   2013/102 Corrigendum 2013/120 r. 2(1) 20.8.2013 2014/214 rr. 2(1), (3), 3(4), (5), (6), 18(3), (4), (5), 18A, 19(6), 20(3A), (3B), (3C), (8), (8A), (8B), (8C), Schs. 1, 4, 5, 10 21.11.2014 2015/044 rr. 2(1), Sch. 4 19.3.2015 2015/089 Sch. 4 1.7.2015 2020/097 rr. 2(1), 3(7), 14(1), 14A, 16(3)-(5), 17(1), (1A), (2), Sch. 15 5.3.2020
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2013/102 Corrigendum 2013/120 r. 2(1) 20.8.2013 2014/214 rr. 2(1), (3), 3(4)-(6), 18(3)-(5), 18A, 19(6), 20(3A)- (3C), (8), (8A)-(8C), Schs. 1, 4-5, 10
+
+21.11.2014 2015/044 rr. 2(1), Sch. 4 19.3.2015 2015/089 Sch. 4 1.7.2015 2020/097 rr. 2(1), 3(7), 14(1), 14A, 16(3)-(5), 17(1), (1A), (2), Sch. 15
+
+5.3.2020 2020/387 rr. 2(1), 14A(8), 21(9), 28(1), Schs. 1, 8, 12, 15 1.1.2021
 
 Transposing: Directive 96/40/EC Directive 2009/16/EC Directive 2013/38/EU Directive (EU) 2017/2110
 
 Implementing: Regulation (EU) No. 428/2010 Regulation (EU) No. 1257/2013 Regulation (EC) No 757/2015
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -28,13 +26,9 @@ Regulation
 
 SCHEDULE 1 ELEMENTS OF THE COMMUNITY PORT STATE INSPECTION SYSTEM
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
+SCHEDULE 2
 
-1935-09
-
-Subsidiary 2011/055
-
-SCHEDULE 2 DESIGN OF SHIP RISK PROFILE
+DESIGN OF SHIP RISK PROFILE
 
 SCHEDULE 3 INFORMATION TO BE PROVIDED UNDER REGULATION 10(1)
 
@@ -60,14 +54,8 @@ SCHEDULE 13 LIST OF SPECIFIC ITEMS TO BE VERIFIED IN AN EXPANDED INSPECTION
 
 SCHEDULE 14 REQUIREMENTS FOR THE IDENTITY CARD FOR PORT STATE CONTROL INSPECTORS
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
+SCHEDULE 15
 
-1935-09
+INSPECTION OF RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFT ON A REGULAR SERVICE
 
-Subsidiary 2011/055 SCHEDULE 15 INSPECTION OF RO-RO PASSENGER SHIPS AND HIGH-SPEED PASSENGER CRAFT ON A REGULAR SERVICE
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 In exercise of the powers conferred on him by section 223A of the Merchant Shipping Act and all other enabling powers, and for the purpose of transposing and implementing into the law of Gibraltar Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port state control, Commission Directive 96/40/EC of 25 June 1996 establishing a common model for an identity card for inspectors carrying out port State control and Commission Regulation (EU) No. 428/2010 of 20 May 2010 implementing Article 14 of Directive 2009/16/EC, the Minister has made the following Regulations−
+In exercise of the powers conferred on him by section 223A of the Merchant Shipping Act and all other enabling powers, the Minister has made the following Regulations−

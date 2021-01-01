@@ -19,9 +19,3 @@ REQUIREMENTS FOR THE IDENTITY CARD FOR PORT STATE CONTROL INSPECTORS.
 2.  If the main language used on the identity card is not English, it must include a translation into that language.
 
 3.  The format of the identity card is left to the discretion of the competent authority.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055

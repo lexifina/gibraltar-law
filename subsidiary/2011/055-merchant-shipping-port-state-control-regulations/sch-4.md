@@ -36,11 +36,7 @@ LIST OF CERTIFICATES AND DOCUMENTS
 
 9.(a)  International Load Line Certificate (1966).
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 9.(b)  International Load Line Exemption Certificate.
+9.(b)  International Load Line Exemption Certificate.
 
 10.  Oil record book, parts I and II.
 
@@ -71,12 +67,6 @@ Subsidiary 2011/055 9.(b)  International Load Line Exemption Certificate.
 23.  Ship’s log book with respect to the records of tests and drills, including security drills, and the log for records of inspection and maintenance of lifesaving appliances and arrangements and of fire fighting appliances and arrangements.
 
 24.  Special purpose ship safety certificate.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
 
 25.  Mobile offshore drilling unit safety certificate.
 
@@ -114,12 +104,6 @@ Subsidiary 2011/055
 
 42.  Certificate required under Regulation (EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents.
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
-
 43.  International Air Pollution Prevention Certificate.
 
 44.  International Sewage Pollution Prevention Certificate.
@@ -135,9 +119,3 @@ Subsidiary 2011/055
 49. A certificate on the inventory of hazardous materials or a statement of compliance as applicable under Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation (EC) No 1013/2006 and Directive 2009/16/EC.
 
 50. Document of Compliance issued under Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055

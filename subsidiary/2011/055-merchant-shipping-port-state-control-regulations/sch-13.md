@@ -38,11 +38,7 @@ A. All types of ships
 
 - Test of global maritime distress safety system (GMDSS) portable very high frequency (VHF) sets
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 (e) Fire safety
+(e) Fire safety
 
 - Fire drill, including a demonstration of the ability to use firemen’s outfits and firefighting equipment and appliances
 
@@ -80,12 +76,6 @@ In addition to the items listed under Section A, the following items shall be co
 
 (a)  Documentation
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
-
 Verification that the following documents are on board, complete and endorsed by the flag State or recognised organisation:
 
 -The enhanced survey programme (ESP) including:
@@ -120,13 +110,7 @@ In addition to the items listed under Section A, the following items shall be co
 
 - Cargo tank monitoring and safety devices relating to temperature, pressure and ullage
 
-- Oxygen analysing and explosimeter devices, including their calibration. Availability of chemical detection equipments
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 (bellows) with an appropriate number of suitable gas detection tubes for the cargo carried
+- Oxygen analysing and explosimeter devices, including their calibration. Availability of chemical detection equipments (bellows) with an appropriate number of suitable gas detection tubes for the cargo carried
 
 - Test of deck shower
 
@@ -160,11 +144,7 @@ In addition to the items listed under Section A, the following items shall be co
 
 (a)  Documentation
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 Verification that the following documents are on board, complete and endorsed by the flag State or recognised organisation
+Verification that the following documents are on board, complete and endorsed by the flag State or recognised organisation
 
 - The enhanced survey programme (ESP) including:
 
@@ -192,15 +172,11 @@ F.  Passenger HSC, passenger ship, ro-ro passenger ship
 
 In addition to the items listed under Section A, the following items shall be considered as part of the expanded inspection for passenger ships:
 
-If deemed appropriate, parts of the inspection on ro-ro ferries and high- speed passenger craft referred to in the Gibraltar Merchant Shipping (Ro-Ro Ferry and High-speed Passenger Craft on Regular Service) Regulations 2005 may be continued while the ship is on passage to or from ports of Member States with the consent of the master or the operator in order to demonstrate that the ferry or craft continues to fulfil all the necessary requirements for safe operation. Port State control officers must not obstruct the operation of the ship or induce situations that, in the master’s judgement, could endanger the safety of the passengers, the crew or the ship.
+If deemed appropriate, parts of the inspection on ro-ro ferries and high-speed passenger craft referred to in the Gibraltar Merchant Shipping (Ro-Ro Ferry and High-speed Passenger Craft on Regular Service) Regulations 2005 may be continued while the ship is on passage to or from ports of Member States with the consent of the master or the operator in order to demonstrate that the ferry or craft continues to fulfil all the necessary requirements for safe operation. Port State control officers must not obstruct the operation of the ship or induce situations that, in the master’s judgement, could endanger the safety of the passengers, the crew or the ship.
 
 (a)  Documentation
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 Documented evidence of:
+Documented evidence of:
 
 - Crowd-management training
 
@@ -240,11 +216,7 @@ Subsidiary 2011/055 Documented evidence of:
 
 G.  Ro-ro cargo ship
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 In addition to the items listed under Section A, the following items shall be considered as part of the expanded inspection for ro-ro cargo ships:
+In addition to the items listed under Section A, the following items shall be considered as part of the expanded inspection for ro-ro cargo ships:
 
 (a)  Watertight/weathertight condition
 
@@ -253,9 +225,3 @@ Subsidiary 2011/055 In addition to the items listed under Section A, the followi
 (b)  Cargo operations
 
 - Lashing arrangements.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055

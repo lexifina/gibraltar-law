@@ -28,12 +28,6 @@ A.  Examples of clear grounds for a more detailed inspection
 
 11.  The absence of principal equipment or arrangements required by the Conventions.
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
-
 12.  Excessively unsanitary conditions on board the ship.
 
 13.  Evidence from the inspector’s general impression and observations that serious hull or structural deterioration or deficiencies exist that may place at risk the structural, watertight or weather tight integrity of the ship.
@@ -60,26 +54,16 @@ B.  Examples of clear grounds for the control of ships on security aspects
 
 1.3. Drills related to the security of the ship have not been carried out.
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 1.4. Records for the last 10 ship/port or ship/ship interfaces are incomplete.
+1.4. Records for the last 10 ship/port or ship/ship interfaces are incomplete.
 
 1.5. Evidence or observation that key members of the ship’s personnel cannot communicate with each other.
 
 1.6. Evidence from observations that serious deficiencies exist in security arrangements.
 
-1.7. Information from third parties such as a report or a complaint concerning security-related information.
+1.7. Information from third parties such as a report or a complaint concerning security- related information.
 
 1.8. The ship holds a subsequent, consecutively issued Interim International Ship Security Certificate (ISSC) and in the professional judgement of the inspector one of the purposes of the ship or company in requesting such a certificate is to avoid full compliance with SOLAS 74 Chapter XI-2 and Part A of the ISPS Code, beyond the period of the initial Interim Certificate. ISPS Code Part A specifies the circumstances when an Interim Certificate may be issued.
 
 2.  If clear grounds as described above are established, the inspector shall immediately inform the competent security authority. The competent security authority shall then decide on what further control measures are necessary taking into account the security level in accordance with Regulation 9 of SOLAS 74, Chapter XI.
 
 3.  Clear grounds other than those above are a matter for the competent security authority.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055

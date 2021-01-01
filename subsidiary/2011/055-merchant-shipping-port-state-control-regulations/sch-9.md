@@ -34,12 +34,6 @@ I. General
 
 13. Name and address of the ship’s company or the operator
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
-
 14. Name and address of the charterer responsible for the selection of the ship and type of charter in the case of ships carrying liquid or solid cargoes in bulk
 
 15. Final date of writing the inspection report
@@ -70,14 +64,4 @@ III. Additional information in the event of detention
 
 4. Indication, where relevant, of whether the recognised organisation or any other private body that carried out the survey has a responsibility in relation to the deficiencies which, alone or in combination, led to detention
 
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055 5. Measures taken.
-
-Merchant Shipping MERCHANT SHIPPING (PORT STATE CONTROL) REGULATIONS 2011
-
-1935-09
-
-Subsidiary 2011/055
+5. Measures taken.
