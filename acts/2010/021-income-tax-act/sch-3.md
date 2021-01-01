@@ -10,7 +10,7 @@ GENERAL
 
 Measure of profits or gains.
 
-1.(1)  Subject to the provisions of this Act the amount of profits or gains of any period for any purposes of this Act shall be the full amount of the profits or gains of the year or period computed in accordance with Gibraltar Generally Accepted Accounting Practice or any other accounting standards (as approved by the Commissioner); or UK, or international accounting standards as may from time to time be modified for the purposes of this Act by Regulations provided that capital gains and capital losses shall be excluded in ascertaining the amount of such profits or gains.
+1.(1)  Subject to the provisions of this Act the amount of profits or gains of any period for any purposes of this Act shall be the full amount of the profits or gains of the year or period computed in accordance with Gibraltar Generally Accepted Accounting Practice or any other accounting standards (as approved by the Commissioner); or UK, or UK-adopted international accounting standards, within the meaning given by section 237(1) of the Companies Act 2014 as may from time to time be modified for the purposes of this Act by Regulations provided that capital gains and capital losses shall be excluded in ascertaining the amount of such profits or gains.
 
 (2)  Expenditure incurred by any person with a view to carrying on a trade, business, profession or vocation will be treated as incurred on the first day on which the trade, business, profession or vocation is carried on for the purposes of computing the profits or gains of the trade, business, profession or vocation or capital allowances due against those profits or gains as appropriate.
 
@@ -22,7 +22,9 @@ Deductions not allowable.
 
 Income Tax
 
-2010-21 (b) any sum expended for repairs of premises occupied, or for the supply, repairs or alterations of any implements, utensils or articles employed, for the purposes of the trade, business, profession or vocation, beyond the sum actually expended for those purposes;
+2010-21
+
+(b) any sum expended for repairs of premises occupied, or for the supply, repairs or alterations of any implements, utensils or articles employed, for the purposes of the trade, business, profession or vocation, beyond the sum actually expended for those purposes;
 
 (c) any loss not connected with or arising out of the trade, business, profession or vocation;
 

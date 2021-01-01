@@ -26,7 +26,7 @@ Income Tax
 
 23.3.2020 LN. 2020/128 Sch.12 23.3.2020 2020/176 ss. 10L, 10O(1)(b) 7.5.2020 2020/055 ss. 5F(1), (2)(b), 10ZE-10ZL, Sch. 11 1.7.2020 2020/256 ss. 10ZI(1), (1A), (3), (3A), (9)(b), 10ZJ(2A), (7)(b), 10ZK(7)
 
-10.7.2020
+10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952 Directive (EU) 2018/822 Directive (EU) 2020/876
 
@@ -266,17 +266,15 @@ SCHEDULE 5
 
 Part I
 
-Parent and Subsidiary Company Directive
+PARENT AND SUBSIDIARY DIRECTIVE
 
 1. Interpretation. 2. Parent and subsidiary companies. 3. Corporation tax.
 
 Part II
 
-Taxation applicable to Interest and Royalty
-
 Income Tax
 
-2010-21 payments made between associated companies of different Member States
+2010-21 TAXATION APPLICABLE TO INTEREST AND ROYALTY PAYMENTS MADE BETWEEN ASSOCIATED COMPANIES OF DIFFERENT MEMBER STATES RULE
 
 4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
 
@@ -298,11 +296,11 @@ Part 1
 
 Tax at the higher rate on utilities
 
-1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage.
+1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions.
 
 Income Tax
 
-2010-21 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
+2010-21 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
 
 Part II-Taxation on companies who abuse a dominant position
 
@@ -334,11 +332,9 @@ Chapter 4
 
 Living accommodation
 
-12. Living accommodation to which this Chapter applies.
-
 Income Tax
 
-2010-21 13. Accommodation provided for performance of duties. 14. Benefit of living accommodation treated as earnings. 15. Cash equivalent. 16. Cash equivalent: accommodation provided for more than one employee. 17. Meaning of “annual value”. 18. Disputes as to annual value. 19. Meaning of “the property”.
+2010-21 12. Living accommodation to which this Chapter applies. 13. Accommodation provided for performance of duties. 14. Benefit of living accommodation treated as earnings. 15. Cash equivalent. 16. Cash equivalent: accommodation provided for more than one employee. 17. Meaning of “annual value”. 18. Disputes as to annual value. 19. Meaning of “the property”.
 
 Chapter 5
 
@@ -356,11 +352,11 @@ Chapter 7
 
 Taxable benefits; residual liability to charge
 
-37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule.
+37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings.
 
 Income Tax
 
-2010-21 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
+2010-21 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
 
 Chapter 8
 
@@ -372,11 +368,11 @@ Chapter 9
 
 Dispensations from obligations to report Benefits-in-kind
 
-70 General. 71 Commissioner’s power to give dispensation.
+70 General.
 
 Income Tax
 
-2010-21 72 Meaning of “dispensation”. 73 Non taxable allowance in respect of benefits. 74 Employer’s payment of tax due on benefits. 75 Effect of dispensation. 76 Revocation of dispensation. 77 Effect of revocation from date given. 78 Effect of revocation from later date.
+2010-21 71 Commissioner’s power to give dispensation. 72 Meaning of “dispensation”. 73 Non taxable allowance in respect of benefits. 74 Employer’s payment of tax due on benefits. 75 Effect of dispensation. 76 Revocation of dispensation. 77 Effect of revocation from date given. 78 Effect of revocation from later date.
 
 Chapter 10
 
@@ -408,11 +404,11 @@ Part II
 
 Transitional Provisions
 
-2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests. 8. Not used.
+2. Cessation. 3. Capital Allowances and deductions allowed. 4. Carry forward of Income Tax losses. 5. Write back of provisions. 6. Designations, appointments, etc. 7. Information requests.
 
 Income Tax
 
-2010-21 9. Advances not satisfied by dividends. 10. Deleted. 11. Liquidations, etc. 12. The surcharge/penalties.
+2010-21 8. Not used. 9. Advances not satisfied by dividends. 10. Deleted. 11. Liquidations, etc. 12. The surcharge/penalties.
 
 Part III
 
