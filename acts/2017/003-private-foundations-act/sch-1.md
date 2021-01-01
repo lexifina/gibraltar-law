@@ -18,9 +18,11 @@ DE-REGISTRATION OF COMPANIES LIMITED BY GUARANTEE OR BY SHARES AND GUARANTEE ON 
 
 (c) for the making of such alterations to the memorandum and articles of the company as are necessary to bring them (in substance and in form) into conformity with the requirements of this Act as the Charter and Rules (if applicable) of the Foundation under this Act.
 
+(3)  A copy of the special resolution referred to in subparagraph (1)(a) shall be forwarded to the Registrar within 30 days.
+
 Private Foundations
 
-2017-03 (3)  A copy of the special resolution referred to in subparagraph (1)(a) shall be forwarded to the Registrar within 30 days.
+2017-03
 
 2.(1)  An application for the company to be de-registered as a company on registration as a Foundation under this Act, framed in the form prescribed by the Registrar from time to time and signed by a director or by the secretary of the company, shall be lodged with the Registrar, as follows–
 
