@@ -32,11 +32,7 @@ Long-term effects.
 
 Severe disfigurement.
 
-Equal Opportunities
-
-2006-37
-
-3.(1)  An impairment which consists of a severe disfigurement is to be treated as having a substantial adverse effect on the ability of the person concerned to carry out normal day-to-day activities.
+3.(1)  An impairment which consists of a severe disfigurement is to be treated as having a substantial adverse effect on the ability of the person concerned to carry out normal day-to- day activities.
 
 (2)  Regulations may provide that in prescribed circumstances a severe disfigurement is not to be treated as having that effect.
 
@@ -50,7 +46,7 @@ Normal day-to-day activities.
 
 (b) manual dexterity;
 
-(c) physical co-ordination;
+(c)  physical co-ordination;
 
 (d) continence;
 
@@ -62,25 +58,21 @@ Normal day-to-day activities.
 
 (h) perception of the risk of physical danger. (2)  Regulations may prescribe–
 
-(a) circumstances in which an impairment which does not have an effect falling within sub-paragraph (1) is to be taken to affect the ability of the person concerned to carry out normal day-to- day activities;
+(a) circumstances in which an impairment which does not have an effect falling within sub-paragraph (1) is to be taken to affect the ability of the person concerned to carry out normal day-to-day activities;
 
-(b) circumstances in which an impairment which has an effect falling within sub-paragraph (1) is to be taken not to affect the ability of the person concerned to carry out normal day-to-day activities.
+(b) circumstances in which an impairment which has an effect falling within sub- paragraph (1) is to be taken not to affect the ability of the person concerned to carry out normal day-to-day activities.
 
 Substantial adverse effects.
 
-Equal Opportunities
-
-2006-37
-
 5.  Regulations may make provision for the purposes of this Act–
 
-(a) for an effect of a prescribed kind on the ability of a person to carry out normal day-to-day activities to be treated as a substantial adverse effect;
+(a) for an effect of a prescribed kind on the ability of a person to carry out normal day- to-day activities to be treated as a substantial adverse effect;
 
-(b) for an effect of a prescribed kind on the ability of a person to carry out normal day-to-day activities to be treated as not being a substantial adverse effect.
+(b) for an effect of a prescribed kind on the ability of a person to carry out normal day- to-day activities to be treated as not being a substantial adverse effect.
 
 Effect of medical treatment.
 
-6.(1)An impairment which would be likely to have a substantial adverse effect on the ability of the person concerned to carry out normal day-to-day activities, but for the fact that measures are being taken to treat or correct it, is to be treated as having that effect.
+6.(1) An impairment which would be likely to have a substantial adverse effect on the ability of the person concerned to carry out normal day-to-day activities, but for the fact that measures are being taken to treat or correct it, is to be treated as having that effect.
 
 (2)  In sub-paragraph (1) “measures” includes, in particular, medical treatment and the use of a prosthesis or other aid.
 
@@ -101,10 +93,6 @@ Cancer, HIV infection, Multiple Sclerosis.
 Progressive conditions.
 
 8.(1)  Where–
-
-Equal Opportunities
-
-2006-37
 
 (a) a person has a progressive condition (such as cancer, multiple sclerosis or muscular dystrophy or HIV infection),
 
@@ -138,25 +126,17 @@ PART 2 Section 3(3) Past Disabilities
 
 5.  For paragraph 2(1) to (3) of Part 1 to this Schedule, substitute–
 
-Equal Opportunities
-
-2006-37
-
 “(1) The effect of an impairment is a long-term effect if it has lasted for at least 12 months.
 
 (2) Where an impairment ceases to have a substantial adverse effect on a person’s ability to carry out normal day-to-day activities, it is to be treated as continuing to have that effect if that effect recurs.
 
-(3) For the purposes of sub-paragraph (2), the recurrence of an effect shall be disregarded in prescribed circumstances.”
-
-Equal Opportunities
-
-2006-37
-
-Schedule 2 Section 27(8)
+(3) For the purposes of sub-paragraph (2), the recurrence of an effect shall be disregarded in prescribed circumstances.” SCHEDULE 2 Section 27(8)
 
 Occupational Pension Schemes – Exceptions for Age
 
-Part 1 Excepted rules, practices, actions and decisions relating to occupational pension Schemes
+Part 1
+
+Excepted rules, practices, actions and decisions relating to occupational pension Schemes
 
 Admission to schemes.
 
@@ -184,9 +164,7 @@ Contributions under money purchase arrangements.
 
 4.  Under a money purchase arrangement–
 
-Equal Opportunities
-
-2006-37 (a) different rates of member or employer contributions according to the age of the members by or in respect of whom contributions are made where the aim in setting the different rates is–
+(a) different rates of member or employer contributions according to the age of the members by or in respect of whom contributions are made where the aim in setting the different rates is–
 
 (i) to equalise the amount of benefit to which members of different ages who are otherwise in a comparable situation will become entitled under the arrangement, or
 
@@ -210,11 +188,7 @@ Age related rules, practices, actions and decisions relating to benefit.
 
 (b) the member is not credited with additional periods of pensionable service.
 
-7.  In relation to workers who are active or prospective members of a scheme on the date on which these Regulations come into force, a minimum age for entitlement to or payment of any age related benefit to such members
-
-Equal Opportunities
-
-2006-37 under defined benefit arrangements before any early retirement pivot age, where such benefit is calculated in one or both of the following ways–
+7.  In relation to workers who are active or prospective members of a scheme on the date on which these Regulations come into force, a minimum age for entitlement to or payment of any age related benefit to such members under defined benefit arrangements before any early retirement pivot age, where such benefit is calculated in one or both of the following ways–
 
 (a) it is not made subject to actuarial reduction for early receipt;
 
@@ -234,13 +208,11 @@ Other rules, practices, actions and decisions relating to benefit.
 
 13.  Any difference in the amount of any age related benefit or death benefit payable under a defined benefits arrangement to or in respect of members with different lengths of pensionable service to the extent that the difference in amount is attributable to their differing lengths of service, provided that, for each year of pensionable service, members in a comparable situation are entitled to accrue a right to benefit based upon the same fraction of pensionable pay.
 
-Equal Opportunities
-
-2006-37 14.  Any difference in the amount of any age related benefit or death benefit payable from a scheme to or in respect of different members to the extent that the difference in amount is attributable to differences over time in the pensionable pay of those members.
+14.  Any difference in the amount of any age related benefit or death benefit payable from a scheme to or in respect of different members to the extent that the difference in amount is attributable to differences over time in the pensionable pay of those members.
 
 15.  Any limitation of the amount of any age related benefit or death benefit payable from a scheme where the limitation results from imposing a maximum number of years of service by reference to which such benefit may be calculated.
 
-16.  Any rule, practice, action or decision whereby any age related benefit or death benefit is only payable to or in respect of members who have completed a minimum period of service, provided that such a minimum period is not longer than 2 years qualifying service;  “2 years’ qualifying service” means 2 years (whether a single period of that duration or two or more periods, continuous or discontinuous, totalling 2 years) in which the member was at all times employed either–
+16.  Any rule, practice, action or decision whereby any age related benefit or death benefit is only payable to or in respect of members who have completed a minimum period of service, provided that such a minimum period is not longer than 2 years qualifying service; “2 years’ qualifying service” means 2 years (whether a single period of that duration or two or more periods, continuous or discontinuous, totalling 2 years) in which the member was at all times employed either–
 
 (a) in pensionable service under the scheme;
 
@@ -259,10 +231,6 @@ Closure of schemes.
 Other rules, practices, actions and decisions.
 
 20.  Increases of pensions in payment which are made to members over 55 but not to members below that age.
-
-Equal Opportunities
-
-2006-37
 
 21.  Any difference in the rate of increase of pensions in payment for members of different ages to the extent that the aim in setting the different rates is to maintain the relative value of members’ pensions.
 
@@ -288,10 +256,4 @@ Contributions by employers.
 
 (b) to make the amount of benefit to which such workers will become entitled under their personal pension schemes more nearly equal.
 
-Equal Opportunities
-
-2006-37 26.  Any difference in the rate of contributions by an employer in respect of different workers to the extent that this is attributable to any differences in remuneration payable to those workers.
-
-Equal Opportunities
-
-2006-37
+26.  Any difference in the rate of contributions by an employer in respect of different workers to the extent that this is attributable to any differences in remuneration payable to those workers.

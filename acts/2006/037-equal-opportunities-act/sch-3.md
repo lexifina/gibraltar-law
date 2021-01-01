@@ -1,4 +1,6 @@
-SCHEDULE 3 DUTY TO CONSIDER WORKING BEYOND RETIREMENT
+SCHEDULE 3
+
+DUTY TO CONSIDER WORKING BEYOND RETIREMENT
 
 Section 57(4) PART 1 Duty to Consider Working Beyond Retirement
 
@@ -30,10 +32,6 @@ Interpretation.
 
 (i) the employer has not notified a date in accordance with paragraph 2,
 
-Equal Opportunities
-
-2006-37
-
 (ii) a request is made before the employer has notified a date in accordance with paragraph 4 (including where no notification in accordance with that paragraph is given),
 
 (iii) the request is made by an employee who has reasonable grounds for believing that the employer intends to retire him on a certain date, and,
@@ -64,9 +62,7 @@ not more than one year and not less than six months before that date.
 
 (c) any other information about the employee’s right to make a request given to him by the employer at any time.
 
-Equal Opportunities
-
-2006-37 3.(1)  This paragraph applies if the employer has notified the employee in accordance with paragraph 2 or 4 or the employee has made a request before being notified in accordance with paragraph 4 (including where no notification in accordance with that paragraph is given), and–
+3.(1)  This paragraph applies if the employer has notified the employee in accordance with paragraph 2 or 4 or the employee has made a request before being notified in accordance with paragraph 4 (including where no notification in accordance with that paragraph is given), and–
 
 (a) the employer and employee agree, in accordance with paragraph 7(3)(b) or 8(5)(b), that the dismissal is to take effect on a date later than the relevant date;
 
@@ -76,7 +72,7 @@ Equal Opportunities
 
 (2)  This Schedule does not require the employer to give the employee a further notification in respect of dismissal taking effect on a date–
 
-(a) agreed as mentioned in sub-paragraph (1)(a) or notified as mentioned in sub-paragraph (1)(b) that is later than the relevant date and falls six months or less after the relevant date; or
+(a) agreed as mentioned in sub-paragraph (1)(a) or notified as mentioned in sub- paragraph (1)(b) that is later than the relevant date and falls six months or less after the relevant date; or
 
 (b) agreed as mentioned in sub-paragraph (1)(c) that is earlier than the relevant date.
 
@@ -93,10 +89,6 @@ the earlier or later date shall supersede the relevant date as the intended date
 Continuing duty to inform employee.
 
 4.  Where the employer has failed to comply with paragraph 2, he has a continuing duty to notify the employee in writing as described in paragraph 2(1) until the fourteenth day before the operative date of termination.
-
-Equal Opportunities
-
-2006-37
 
 Statutory right to request not to retire.
 
@@ -122,15 +114,13 @@ and, if the request is made at a time when it is no longer possible for the empl
 
 (b) in a case where the employer has not complied with paragraph 2, before, but not more than six months before, the intended date of retirement.
 
-An employer’s duty to consider a request .
+An employer’s duty to consider a request.
 
 6.  An employer to whom a request is made is under a duty to consider the request in accordance with paragraphs 7 to 9.
 
 Meeting to consider request.
 
-Equal Opportunities
-
-2006-37 7.(1)  An employer having a duty under paragraph 6 to consider a request shall hold a meeting to discuss the request with the employee within a reasonable period after receiving it.
+7.(1)  An employer having a duty under paragraph 6 to consider a request shall hold a meeting to discuss the request with the employee within a reasonable period after receiving it.
 
 (2)  The employer and employee must take all reasonable steps to attend the meeting.
 
@@ -158,9 +148,7 @@ Equal Opportunities
 
 (ii) where the decision is that the employee’s employment will continue for a further period, state that fact and specify the length of the period or the date on which it will end,
 
-Equal Opportunities
-
-2006-37 (b) where the decision is to refuse the request, confirm that the employer wishes to retire the employee and the date on which the dismissal is to take effect,
+(b) where the decision is to refuse the request, confirm that the employer wishes to retire the employee and the date on which the dismissal is to take effect,
 
 and, in the case of a notice falling within paragraph (b), and of a notice referred to in paragraph (a) that specifies a period shorter than the period proposed by the employee in the request, shall inform the employee of his right to appeal.
 
@@ -188,9 +176,7 @@ by giving notice in accordance with sub-paragraph (2) as soon as is reasonably p
 
 (b) the employer and employee agree that the employee’s employment will continue for an agreed period and the employer gives notice to the employee of the length of that period or of the date on which it will end.
 
-Equal Opportunities
-
-2006-37 (6)  The duty to hold a meeting does not apply if–
+(6)  The duty to hold a meeting does not apply if–
 
 (a) it is not practicable to hold a meeting within the period that is reasonable, and
 
@@ -222,9 +208,7 @@ Right to be accompanied.
 
 (2)  Where this paragraph applies the employer must permit the employee to be accompanied at the meeting by one companion who–
 
-Equal Opportunities
-
-2006-37 (a) is chosen by the employee;
+(a) is chosen by the employee;
 
 (b) is an employee employed by, or a person within the meaning of section 2(2)(a)(ii) working for, the same employer as the employee; (c) is to be permitted to address the meeting (but not to answer questions on behalf of the employee); and
 
@@ -236,7 +220,7 @@ Equal Opportunities
 
 (b) his chosen companion will not be available at the time proposed for the meeting by the employer, and
 
-(c) the employee proposes an alternative time which satisfies sub- paragraph (4),
+(c) the employee proposes an alternative time which satisfies sub-paragraph (4),
 
 the employer must postpone the meeting to the time proposed by the employee.
 
@@ -246,7 +230,7 @@ the employer must postpone the meeting to the time proposed by the employee.
 
 (b) fall before the end of the period of seven days beginning with the first day after the day proposed by the employer.
 
-(5)  An employer shall permit an employee or a person within the meaning of section 2(2)(a)(ii) to take time off during working hours for the purpose of accompanying an employee in accordance with a request under sub- paragraph (1)(b).
+(5)  An employer shall permit an employee or a person within the meaning of section 2(2)(a)(ii) to take time off during working hours for the purpose of accompanying an employee in accordance with a request under sub-paragraph (1)(b).
 
 Dismissal before request considered.
 
@@ -256,9 +240,7 @@ Dismissal before request considered.
 
 (b) the employer dismisses the employee;
 
-Equal Opportunities
-
-2006-37 (c) that dismissal is the contemplated dismissal to which the request relates; and
+(c) that dismissal is the contemplated dismissal to which the request relates; and
 
 (d) the operative date of termination would, but for sub-paragraph (3), fall on or before the day on which the employer gives notice in accordance with paragraph 7(6).
 
@@ -284,13 +266,9 @@ Complaint to Employment Tribunal: failure to comply with paragraph 2.
 
 (ii) if the employee did not then know the date that would be the intended date of retirement, the first day on which he knew or should have known that date; or
 
-(b) within such further period as the Tribunal considers reasonable in a case where it is satisfied that it was not reasonably
+(b) within such further period as the Tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six months.
 
-Equal Opportunities
-
-2006-37 practicable for the complaint to be presented before the end of that period of six months.
-
-(3)  Where the Tribunal finds that a complaint under this paragraph is well- founded it shall order the employer to pay compensation to the employee of such amount, not exceeding 8 weeks’ pay, as the tribunal considers just and equitable in all the circumstances.
+(3)  Where the Tribunal finds that a complaint under this paragraph is well-founded it shall order the employer to pay compensation to the employee of such amount, not exceeding 8 weeks’ pay, as the tribunal considers just and equitable in all the circumstances.
 
 (4)  For the purposes of sub-paragraph (3) “a weeks pay” has the meaning given in section 2 of the Employment Act and in applying that meaning, if a calculation date is required, the calculation date shall be taken to be the date on which the complaint was presented or, if earlier, the operative date of termination.
 
@@ -304,7 +282,7 @@ Complaint to Employment Tribunal: denial of right to be accompanied.
 
 (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(3)  Where the Tribunal finds that a complaint under this paragraph is well- founded it shall order the employer to pay compensation to the employee or person within the meaning of section 2(2)(a)(ii) of an amount not exceeding two weeks’ pay.
+(3)  Where the Tribunal finds that a complaint under this paragraph is well-founded it shall order the employer to pay compensation to the employee or person within the meaning of section 2(2)(a)(ii) of an amount not exceeding two weeks’ pay.
 
 (4)  For the purposes of sub-paragraph (3) “a weeks pay” has the meaning given in section 2 of the Employment Act and in applying that meaning, if a calculation date is required, the calculation date shall be taken to be the date on which the relevant meeting took place (or was to have taken place).
 
@@ -312,9 +290,7 @@ Detriment and dismissal.
 
 13.(1)  An employee has the right not to be subjected to any detriment by any act by his employer done on the ground that he exercised or sought to exercise his right to be accompanied in accordance with paragraph 9.
 
-Equal Opportunities
-
-2006-37 (2)  An employee, or a person within the meaning of section 2(2)(a)(ii), has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that he accompanied or sought to accompany an employee pursuant to a request under paragraph 9.
+(2)  An employee, or a person within the meaning of section 2(2)(a)(ii), has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that he accompanied or sought to accompany an employee pursuant to a request under paragraph 9.
 
 (3)  Sub-paragraph (2) does not apply to an employee where the detriment in question amounts to dismissal (within the meaning of section 64 of the Employment Act).
 
@@ -342,9 +318,7 @@ Part 2 Duty to consider working beyond retirement - transitional provisions
 
 (ii) where the period required by the contract exceeds four weeks, at least four weeks;
 
-Equal Opportunities
-
-2006-37 (b) the expiry date falls before 1st April 2007; and
+(b) the expiry date falls before 1st April 2007; and
 
 (c) the employer has made the employee aware, before the commencement date, that the employer considers that the employee is being retired on the expiry date.
 
@@ -372,13 +346,9 @@ Equal Opportunities
 
 (i) the employer had failed to notify in accordance with paragraph 2 of that Schedule; and
 
-Equal Opportunities
-
-2006-37
-
 (ii) the duty was one to notify at any time before the expiry date;
 
-(c) a request shall be treated as being a request made under paragraph 5 of Part 1 if it satisfies the requirements of sub- paragraphs (2) and (3) of that paragraph and is made–
+(c) a request shall be treated as being a request made under paragraph 5 of Part 1 if it satisfies the requirements of sub-paragraphs (2) and (3) of that paragraph and is made–
 
 (i) before any notification given in accordance with paragraph 4 of Part 1; or
 
@@ -404,9 +374,7 @@ Equal Opportunities
 
 (ii) the duty was one to notify at any time before the expiry date;
 
-Equal Opportunities
-
-2006-37 (c) a request shall be treated as being a request made under paragraph 5 of Part 1 if it satisfies the requirements of sub- paragraphs (2) and (3) of that paragraph and is made–
+(c) a request shall be treated as being a request made under paragraph 5 of Part 1 if it satisfies the requirements of sub-paragraphs (2) and (3) of that paragraph and is made–
 
 (i) before any notification given in accordance with paragraph 4 of Part 1; or
 
@@ -424,7 +392,7 @@ Equal Opportunities
 
 (ii) if longer, the period required by section 54 of the Employment Act; and
 
-(b) the expiry date falls before 1st April 2007.
+(b)  the expiry date falls before 1st April 2007.
 
 (2)  Where this paragraph applies and the employer notifies the employee in writing of the employee’s right to make a request under paragraph 5 of Part 1 before, or on the same day as, the day on which notice of dismissal is given– (a) the employer shall be treated as complying with the duty in paragraph 2 of Part 1;
 
@@ -433,10 +401,6 @@ Equal Opportunities
 (i) is made after the employer notified the employee of his right to make a request;
 
 (ii) satisfies the requirements of sub-paragraphs (2) and (3) of paragraph 5 of Part 1; and
-
-Equal Opportunities
-
-2006-37
 
 (iii) is made–
 
@@ -454,7 +418,7 @@ Equal Opportunities
 
 (ii) the duty was one to notify at any time before the expiry date;
 
-(c) a request shall be treated as being a request made under paragraph 5 of Part 1 if it satisfies the requirements of sub- paragraphs (2) and (3) of that paragraph and is made–
+(c) a request shall be treated as being a request made under paragraph 5 of Part 1 if it satisfies the requirements of sub-paragraphs (2) and (3) of that paragraph and is made–
 
 (i) before any notification given in accordance with paragraph 4 of Part 1; or
 
@@ -464,9 +428,7 @@ Equal Opportunities
 
 (bb) where that is not practicable, as soon as reasonably practicable (whether before or after the expiry date) after the employer notified the employee of his right to make a request, but not more than four weeks after the expiry date.
 
-Equal Opportunities
-
-2006-37 5.(1)  This paragraph applies in a case where–
+5.(1)  This paragraph applies in a case where–
 
 (a) notice of dismissal is given on or after the commencement date and is for a period shorter than
 
@@ -484,7 +446,7 @@ Equal Opportunities
 
 (ii) the duty was one to notify at any time before the expiry date;
 
-(c) a request shall be treated as being a request made under paragraph 5 of Part 1 if it satisfies the requirements of sub- paragraphs (2) and (3) of that paragraph and is made–
+(c) a request shall be treated as being a request made under paragraph 5 of Part 1 if it satisfies the requirements of sub-paragraphs (2) and (3) of that paragraph and is made–
 
 (i) before any notification given in accordance with paragraph 4 of Part 1; or
 
@@ -496,128 +458,6 @@ Equal Opportunities
 
 6.  In every case to which paragraph 2, 3, 4 or 5 applies–
 
-Equal Opportunities
-
-2006-37 (a) paragraph 10 of Part 1 does not apply; and
+(a) paragraph 10 of Part 1 does not apply; and
 
 (b) the employer is under a duty to consider any request which complies with the requirements of paragraph 2(2)(b), 2(3)(c), 3(2)(c), 4(2)(b), 4(3)(c) or 5(2)(c) in accordance with paragraphs 7 to 9 of Part 1.
-
-Equal Opportunities
-
-2006-37
-
-Schedule 4 Section 65 Forms
-
-FORM 1
-
-Equal Opportunities Act 2006
-
-Question Form (for complainant)
-
-To……………………………………………… (name of the person to he questioned (the respondent)) of...........................................…………………………(address)
-
-From………………….……………………………….(name of complainant)
-
-of........................………………………………. ............ (address)
-
-Part I Discrimination and Harassment Claims under the Equal Opportunities Act 2006
-
-1.(1)  I, the complainant, consider that you may have discriminated against me/subjected me to harassment contrary to the Equal Opportunities Act 2006.
-
-1.(2) (Give date, approximate time and a factual description of the treatment received and of the circumstances leading up to the treatment).
-
-1.(3) I consider that this treatment may have been unlawful because (complete if you wish to give reasons, otherwise delete). 2. Do you agree that the statement in paragraph 1(2) is an accurate description of what happened? If not, in what respect do you disagree or what is your version of what happened? 3. Do you accept that your treatment of me was unlawful discrimination/ harassment/sexual harassment?  If you do not– (a)  why not? (b)  for what reason did I receive the treatment accorded to me?
-
-Equal Opportunities
-
-2006-37 (c)  how far did considerations of sex/ religion or belief/ racial or ethnic origin/ pregnancy and maternity/ marital status/ sexual orientation/ gender reassignment/ disability/ age/ affect your treatment of me?
-
-4.  (Add any other questions you may wish to ask.)
-
-Part II – Claims in respect of equality clauses (contracts of employment) and equal treatment rules (occupational pensions) under Part IV of the Equal Opportunities Act 2006
-
-1. I, the complainant, believe, for the following reasons, that I may not have received equal pay or other contract terms/pension in accordance with the Equal Opportunities Act 2006. (Give a short summary of the reason(s) that cause you to believe this).
-
-2. I am claiming equal pay/pension with the following comparator(s) …………………………………………….. (Give the names or, if not known, the job titles, of the person or persons in relation to whom you are comparing yourself.)
-
- Do you agree that I have received less pay/pension than my comparator(s)?
-
- If you agree that I have received less pay/pension, please explain the reasons for this difference.
-
- If you do not agree that I have received less pay/pension, please explain why you disagree.
-
-3. The Equal Opportunities Act requires equal pay/pension between men and women where they are employed on equal work, which comprises like work, work rated as equivalent, or work of equal value.
-
- Do you agree that my work is equal to that of my comparator(s)?
-
- If you do not think that I am doing equal work, please give your reasons.
-
-4. Include any other relevant questions you may want to ask.
-
-Return Address
-
-Please send your reply to the following address if different from my home address above.
-
-Equal Opportunities
-
-2006-37
-
-………………………………………………………………………………
-
-……………………………………………………………….…..(address) ……………………………………………………(signature of complainant) ……………………………………………………(date) IMPORTANT By virtue of section 65(3) of the Act, this questionnaire and any reply are (subject to the provisions of the section) admissible in proceedings under the Act and the Employment Tribunal may draw any such inference as is just and equitable from a failure without reasonable excuse to reply within 4 weeks or from an evasive or equivocal reply, including an inference that the person questioned has discriminated unlawfully.
-
-Equal Opportunities
-
-2006-37
-
-FORM 2 Section 65 Equal Opportunities Act
-
-Reply Form (for respondent’s replies to complainant’s questions)
-
-To…………………………......…………………….....………..………… …(name of complainant) of..……………………………………………………………….……....... …(address)
-
-1. I…………………………………………………………………………….…….… (name of person questioned) of..........……………………………………………………………….…………… (address) acknowledge receipt of the questionnaire signed by you and dated ...………………….. (date) which was served on me on ...…………………….……………….. (date).
-
-Part I Discrimination and Harassment Claims under the Equal Opportunities Act 2006
-
-1.  (delete and give details as appropriate)
-
- I agree that the statement in paragraph 1(2) of the questionnaire is an accurate description of what happened.
-
- I disagree with the statement in paragraph 1(2) of the questionnaire in that–
-
-2.  (delete and give details as appropriate)
-
- I accept that my treatment of you was unlawful discrimination/ harassment/ sexual harassment.  I dispute that my treatment of you was unlawful discrimination/ harassment/ sexual harassment for the following reasons–
-
-3.  The reason why you received the treatment accorded to you and the answers to the other questions in paragraph 3 of the questionnaire are–
-
-Equal Opportunities
-
-2006-37
-
-4.  My replies to questions in paragraph 4 of the questionnaire are–
-
-5.  I have deleted (in whole or in part) the paragraph(s) numbered above, since I am unable/unwilling (delete as appropriate) to reply to the relevant questions in the correspondingly numbered paragraph(s) of the questionnaire for the following reasons–
-
-Part II Claims in respect of equality clauses (contracts of employment) and equal treatment rules (occupational pensions) under Part IV of the Equal Opportunities Act 2006
-
-2.(1)  In respect of question 2– (delete as appropriate)  I agree that the complainant has not received equal pay/pension in accordance with the Equal Opportunities Act.
-
- I do not agree that the complainant has not received equal pay/pension in accordance with the Equal Opportunities Act for the following reasons–
-
-2.(2)  In respect of question 2– (delete as appropriate)
-
- I agree that the complainant has received less pay/pension than his or her comparator(s); the reason for this are –
-
- I do not agree that the complainant has received less pay/pension than his or her comparator(s) for the following reasons–
-
-2.(3)  In respect of question– (delete as appropriate)  I agree that the complainant is doing work equal to that of her comparator.  I do not agree that the complainant is doing work equal to that of her comparator.  The reason that I disagree is– 2.(4)  My replies to the questions in Part II, paragraph 4 of the questionnaire are–
-
-Equal Opportunities
-
-2006-37 3.  I have deleted (in whole or in part) the paragraphs numbered _____ above since I am unable/unwilling (delete as appropriate) to reply to the corresponding questions of the questionnaire for the following reasons–
-
-……………………………………..(signature of respondent) ……………………………………..(date)
-
-IMPORTANT By virtue of section 65(3) of the Act, this questionnaire and any reply are (subject to the provisions of the section) admissible in proceedings under the Act and the Employment Tribunal may draw any such inference as is just and equitable from a failure without reasonable excuse to reply within 4 weeks or from an evasive or equivocal reply, including an inference that the person questioned has discriminated unlawfully.
