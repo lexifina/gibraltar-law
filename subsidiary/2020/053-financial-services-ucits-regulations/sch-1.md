@@ -1,6 +1,6 @@
 SCHEDULE Regulation 28 PART A
 
-1. Information concerning the common fund 1. Information concerning the management company including an indication whether the management company is established in a EEA State other than the UCITS’ home State.
+1. Information concerning the common fund 1. Information concerning the management company including an indication whether the management company is established in in Gibraltar or in a third country.
 
 1. Information concerning the open-ended investment company | 1.1. Name
 
@@ -104,7 +104,7 @@ Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
 
 3.3. Other significant activities.
 
-4. Information concerning the arrangements for making payments to unitholders, repurchasing or redeeming units and making available information concerning the UCITS. Such information must in any case be given in Gibraltar. In addition, where units are marketed in another EEA State, such information must be given in respect of that EEA State in the prospectus published there.
+4. Information concerning the arrangements for making payments to unitholders, repurchasing or redeeming units and making available information concerning the UCITS. Such information must in any case be given in Gibraltar. In addition, where units are marketed in a third country, such information must be given in respect of that third country in the prospectus published there.
 
 5. Other investment information as follows–
 
