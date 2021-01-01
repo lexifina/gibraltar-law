@@ -14,7 +14,7 @@ under the authority of the Government of
 
 by
 
-...................................................................................................................... (Full official designation of the competent organisation recognised under the provision of Council Directive 94/57/EC.
+...................................................................................................................... (Full official designation of the competent organisation recognised.
 
 Particulars of ship
 
@@ -24,11 +24,7 @@ Port of registry:
 
 Distinctive number or letters:
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 IMO number1
+IMO number1
 
 Length
 
@@ -44,11 +40,11 @@ Sea Areas in which the ship is certified to operate (SOLAS Regulation IV/2)
 
 A1 / A2 / A3/ A42
 
-Class of ship in accordance with the sea area in which the ship is certified to operate, subject to following restrictions or additional requirements3: A / B / C / D2
+Class of ship in accordance with the sea area in which the ship is certified to operate, subject to following restrictions or additional requirements3:
+
+A / B / C / D2
 
 Initial2 / Periodical2 survey This is to certify,
-
-(a) that the ship has been surveyed in accordance with regulation 19 of the Gibraltar Merchant Shipping (Safety Rules and Standards for Passenger Ships on Domestic Voyages) Regulations 2011;
 
 1 IMO ship identification number in accordance with resolution A.600(15), if any.
 
@@ -60,13 +56,11 @@ Initial2 / Periodical2 survey This is to certify,
 
 2 Delete as appropriate.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
+(a) that the ship has been surveyed in accordance with regulation 19 of the Gibraltar Merchant Shipping (Safety Rules and Standards for Passenger Ships on Domestic Voyages) Regulations 2011;
 
-1995-13
+(b) that the survey showed that the ship fully complies with the requirements of the Gibraltar Merchant Shipping (Safety Rules and Standards for Passenger Ships on Domestic Voyages) Regulations 2011; and
 
-Subsidiary 2011/146 (b) that the survey showed that the ship fully complies with the requirements of the Gibraltar Merchant Shipping (Safety Rules and Standards for Passenger Ships on Domestic Voyages) Regulations 2011; and
-
-(c) that the ship is, under the authority conferred by regulation 16 of the Gibraltar Merchant Shipping (Safety Rules and Standards for Passenger Ships on Domestic Voyages) Regulations 2011, exempted from the following requirements of those Regulations: ............................................................................................................... ............................................................................................................... ............................................................................. Conditions, if any, on which the exemption is granted:...................................................................................................................... ................................................................................................................................... .................................
+(c) that the ship is, under the authority conferred by regulation 16 of the Gibraltar Merchant Shipping (Safety Rules and Standards for Passenger Ships on Domestic Voyages) Regulations 2011, exempted from the following requirements of those Regulations: .......................................................................................................................................... .......................................................................................................................................... ....................... Conditions, if any, on which the exemption is granted:............................................................................................................................ ......................................................................................................................................... .....................
 
 (d) that the following subdivision load lines have been assigned:
 
@@ -78,17 +72,13 @@ C.2
 
 C.3
 
+(1) The Arabic numerals following the letter ‘C’ in the subdivision load line notations may be replaced by Roman numerals or letters if the Administration of the Flag State consider this necessary to distin¬guish them from the international subdivision load line notation.
+
 This certificate is valid until …...... in accordance with regulation 19 of (Date of the next periodical survey)
 
 the Gibraltar Merchant Shipping (Safety Rules and Standards for Passenger Ships on Domestic Voyages) Regulations 2011
 
-(1) The Arabic numerals following the letter ‘C’ in the subdivision load line notations may be replaced by Roman numerals or letters if the Administration of the Flag State consider this necessary to distin¬guish them from the international subdivision load line notation.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 Place ….......................................................................Date ……………
+Place ….......................................................................Date ……………
 
 (Signature and / or seal of issuing authority) If signed the following paragraph to be added:
 
@@ -102,11 +92,7 @@ This certificate shall in accordance with regulation 20(2) & (4) of the Gibralta
 
 Place..............................................................................Date............. …................................................................................................ (Signature and / or seal of issuing authority)
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 RECORD OF EQUIPMENT FOR THE PASSENGER SHIP SAFETY CERTIFICATE
+RECORD OF EQUIPMENT FOR THE PASSENGER SHIP SAFETY CERTIFICATE
 
 This Record shall be permanently attached to the Passenger Ship Safety Certificate
 
@@ -134,11 +120,7 @@ Port side Starboard side 2.1 Total number of lifeboats
 
 2.3 Total number of lifeboats LSA 4.5
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 2.4 Total number of lifeboats LSA 4.6
+2.4 Total number of lifeboats LSA 4.6
 
 2.5 Total number of lifeboats LSA 4.7
 
@@ -166,11 +148,7 @@ Details of life-saving appliances
 
 4.1  Number of lifebuoys
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 4.2  Number of adult lifejackets
+4.2  Number of adult lifejackets
 
 4.3  Number of child life jackets
 
@@ -178,7 +156,9 @@ Subsidiary 2011/146 4.2  Number of adult lifejackets
 
 4.5  Number of immersion suits complying with the requirements for lifejackets
 
-4.6  Number of thermal protective aids(1) 5 Pyrotechnics
+4.6  Number of thermal protective aids(1)
+
+5 Pyrotechnics
 
 5.1  Line throwing appliance
 
@@ -206,11 +186,7 @@ Details of radio facilities
 
 1.2 MF radio installation
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 1.2.1
+1.2.1
 
 1.2.1 DSC encoder
 
@@ -250,11 +226,7 @@ Subsidiary 2011/146 1.2.1
 
 6 Ship’s radar transponder
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 Methods used to ensure availability of radio facilities
+Methods used to ensure availability of radio facilities
 
 (Regulations IV/15.6 and 15.7)
 
@@ -290,13 +262,7 @@ Details of navigational systems and equipment
 
 2.3 Nautical publications
 
-3.1 Receiver for a global navigation satellite system/terrestrial radio navigation
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 system (2) (3)
+3.1 Receiver for a global navigation satellite system/terrestrial radio navigation system (2) (3)
 
 3.2 9 GHz radar (3)
 
@@ -320,7 +286,9 @@ Subsidiary 2011/146 system (2) (3)
 
 7
 
-8.1 Speed and distance measuring device (over the ground in the forward and the athwartship direction) (3)
+8.1
+
+Speed and distance measuring device (over the ground in the forward and the athwartship direction) (3)
 
 Echo-sounding device (3)
 
@@ -329,9 +297,3 @@ Rudder, propeller, thrust, pitch and operational mode indicators (3)
 8.2 Rate-of-turn indicator (3)
 
 (2) Delete as appropriate. (3) Alternative means of meeting this requirement are permitted under SOLAS V/19. In case of other means they shall be specified.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146

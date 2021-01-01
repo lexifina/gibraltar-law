@@ -24,8 +24,4 @@ Alarm.
 
 Additional requirements ensuring mobility inside the ship.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (SAFETY RULES AND STANDARDS FOR PASSENGER SHIPS ON DOMESTIC VOYAGES REGULATIONS 2011
-
-1995-13
-
-Subsidiary 2011/146 5.  Handrails, corridors and passageways, doorways and doors shall accommodate the movement of a person in a wheelchair. Elevators, vehicle decks, passenger lounges, accommodation and washrooms shall be designed in order to be accessible in a reasonable and proportionate manner to persons with reduced mobility.
+5.  Handrails, corridors and passageways, doorways and doors shall accommodate the movement of a person in a wheelchair. Elevators, vehicle decks, passenger lounges, accommodation and washrooms shall be designed in order to be accessible in a reasonable and proportionate manner to persons with reduced mobility.
