@@ -1,4 +1,6 @@
-SCHEDULE 2 Regulation 5
+SCHEDULE 2
+
+Regulation 5
 
 Notices etc.
 
@@ -6,7 +8,7 @@ Notices etc.
 
 2.  An instrument must be in writing.
 
-3.  An instrument may be served on or given to a person  (“P”) by−
+3.  An instrument may be served on or given to a person (“P”) by−
 
 (a) delivering it to P in person;
 
@@ -30,12 +32,6 @@ Notices etc.
 
 (b) in the case of a partnership or a partner or person having control or management of the partnership business−
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 (i) the principal office of the partnership, or
 
 (ii) the e-mail address (or, in the case of a partnership established outside Gibraltar, the last known address) of a partner or a person having that control or management;
@@ -49,9 +45,3 @@ Subsidiary 2012/211
 (2)  For that purpose, “relevant address” means an address derived from information supplied to the regulator by Eurocontrol (or any other organisation) at the request of the European Commission.
 
 10.  The provisions of this Schedule do not apply where a contrary provision applies under paragraph 8 of Schedule 9.
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211

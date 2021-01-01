@@ -30,12 +30,6 @@ Issue of a benchmarking plan.
 
 (b) P has not agreed to amendments of the plan that so satisfy the regulator.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 (3)  Where the regulator by notice refuses to issue a benchmarking plan under subparagraph (1)(b), the notice must state what changes must be made to the proposed plan for the purposes of any fresh application under paragraph 2.
 
 Amendment of a benchmarking plan.
@@ -66,11 +60,7 @@ Submission of the report to the Minister and the European Commission.
 
 7.(1)  Where P has made an application under paragraph 6(c) the regulator must−
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (a) grant the application and submit the report to the Minister; or
+(a) grant the application and submit the report to the Minister; or
 
 (b) subject to subparagraph (2), refuse the application where the regulator is not satisfied that P has complied with the requirements of this Schedule.
 
@@ -96,11 +86,7 @@ Force majeure.
 
 Recovery of allowances.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 10.(1)  This subparagraph applies where a Gibraltar administered operator (“Q”)−
+10.(1)  This subparagraph applies where a Gibraltar administered operator (“Q”)−
 
 (a) has a duty to return excess aviation allowances under Article 68(3) of the Monitoring and Reporting Regulation; or
 
@@ -123,9 +109,3 @@ Subsidiary 2012/211 10.(1)  This subparagraph applies where a Gibraltar administ
 (d) the date by which they must be returned.
 
 (4)  Q must comply with a notice given under subparagraph (2).
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211

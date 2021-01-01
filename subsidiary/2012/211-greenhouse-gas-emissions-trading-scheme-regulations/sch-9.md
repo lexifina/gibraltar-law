@@ -1,4 +1,6 @@
-SCHEDULE 9 Regulations 32, 42 and 57
+SCHEDULE 9
+
+Regulations 32, 42 and 57
 
 Detention and sale of aircraft
 
@@ -10,7 +12,7 @@ Interpretation.
 
 “airport charges” means charges payable to the owner or manager of an aerodrome for the use of, or for services provided at, an aerodrome;
 
-“civil penalty” means  any civil penalty which is due under regulation 42, or regulation 12(7) to (9)  of the 2010 Regulations (even where the failure giving rise to that civil penalty arose before 1st January 2012);
+“civil penalty” means any civil penalty which is due under regulation 42, or regulation 12(7) to (9) of the 2010 Regulations (even where the failure giving rise to that civil penalty arose before 1st January 2012);
 
 “the court” means the Supreme Court;
 
@@ -29,12 +31,6 @@ Interpretation.
 Sale following detention of aircraft.
 
 2.  Where an aircraft has been detained−
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
 
 (a) under regulation 32(1)(a) and the Gibraltar aircraft operator has not paid the civil penalty and regulator expenses within−
 
@@ -64,13 +60,7 @@ Release of aircraft.
 
 (iii) pays the regulator any regulator expenses;
 
-(c) the defaulting operator or any other person claiming an interest in the aircraft demonstrates to the satisfaction of the regulator
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 that the defaulting operator is no longer entitled to possession of the detained aircraft, or no longer entitled to possession of a part of it, in particular by virtue of the termination of any lease of the aircraft or of any part;
+(c) the defaulting operator or any other person claiming an interest in the aircraft demonstrates to the satisfaction of the regulator that the defaulting operator is no longer entitled to possession of the detained aircraft, or no longer entitled to possession of a part of it, in particular by virtue of the termination of any lease of the aircraft or of any part;
 
 (d) in relation to a detention under regulation 32(1)(a), the defaulting operator pays to the regulator−
 
@@ -102,12 +92,6 @@ Subsidiary 2012/211 that the defaulting operator is no longer entitled to posses
 
 (2)  Where an aircraft has been detained, but subsequently released under subparagraph (1)(c), any unpaid regulator expenses incurred in relation to that detention are deemed to be added to any regulator expenses that may subsequently be incurred in relation to an aircraft of which the defaulting operator is the operator.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 Court procedures.
 
 4.(1)  The regulator must not sell an aircraft under paragraph 2 without the leave of the court.
@@ -128,7 +112,7 @@ Court procedures.
 
 (c) the regulator is entitled to apply to the court for leave to sell the aircraft.
 
-(4)  Before applying to the court for leave under subparagraph (1) the regulator  must,  in accordance with the procedure set out in paragraph 8−
+(4)  Before applying to the court for leave under subparagraph (1) the regulator must, in accordance with the procedure set out in paragraph 8−
 
 (a) take steps for bringing the proposed application to the notice of any person who may have an interest in the aircraft; and
 
@@ -140,11 +124,7 @@ Court procedures.
 
 Proceeds of sale.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 5.(1)  The proceeds of any sale under this Schedule must be applied by the regulator in the following order−
+5.(1)  The proceeds of any sale under this Schedule must be applied by the regulator in the following order−
 
 (a) in payment of any import duty which is due in consequence of the aircraft having been brought into Gibraltar;
 
@@ -168,11 +148,7 @@ Assistance of aerodrome operator.
 
 7.(1)  An aerodrome operator must provide such reasonable assistance and advice as the regulator may require in connection with any of the regulator’s functions under this Part.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (2)  An aerodrome operator is entitled to recover from the regulator a sum equal to any expense reasonably incurred in providing the regulator with assistance or advice under subparagraph (1).
+(2)  An aerodrome operator is entitled to recover from the regulator a sum equal to any expense reasonably incurred in providing the regulator with assistance or advice under subparagraph (1).
 
 Procedure for applying for leave to sell an aircraft.
 
@@ -198,11 +174,7 @@ Procedure for applying for leave to sell an aircraft.
 
 (a) in the Gazette; and
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (b) in one or more local newspapers.
+(b) in one or more local newspapers.
 
 (5)  A notice under subparagraph (2) must−
 
@@ -234,12 +206,6 @@ the regulator may apply to the court for leave to sell the aircraft.
 
 the regulator may apply to the court for leave to sell the aircraft.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 (8)  A notice under subparagraph (2) must be served by the regulator−
 
 (a) delivering it to the person to whom it is to be sent;
@@ -251,9 +217,3 @@ Subsidiary 2012/211
 (d) if the person to whom it is to be sent is an incorporated company or body, delivering it to the secretary, clerk or other appropriate officer of the company or body at its registered or principal office or sending it, addressed to the secretary, clerk or other officer of the company or body at that office, by a registered post service or by a postal service which provides for the delivery of the notice by post to be recorded.
 
 (9)  In subparagraph (8), any notice which is sent by a postal service in accordance with that subparagraph to a place outside the Gibraltar must be sent by air mail or by some other equally expeditious means.
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211

@@ -38,12 +38,6 @@ Interpretation.
 
 Application for an allocation from the new entrant reserve: new entrants.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 2.(1)  Subject to subparagraph (2), where−
 
 (a) the permit for an installation was granted on or after 30 June 2011, or
@@ -62,7 +56,7 @@ the operator of the installation may apply to the regulator for an allocation of
 
 (4) The application must contain−
 
-(a) all relevant information regarding each parameter listed in Annex 5 to the Free Allocation Decision for each separate sub- installation; and
+(a) all relevant information regarding each parameter listed in Annex 5 to the Free Allocation Decision for each separate sub-installation; and
 
 (b) the initial installed capacity for each sub-installation calculated by the operator in accordance with Article 17(4) of the Free Allocation Decision; and
 
@@ -73,12 +67,6 @@ the operator of the installation may apply to the regulator for an allocation of
 (a) the activity levels of the installation in accordance with Article 18(1) and (2) of the Free Allocation Decision; and
 
 (b) the preliminary annual number of allowances to be allocated as from the start of normal operation of the installation for each sub-installation in accordance with Article 19(1) to (3) of the Free Allocation Decision; and
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
 
 (c) the preliminary total amount of allowances to be allocated to the installation.
 
@@ -106,23 +94,17 @@ the operator of the installation may (subject to subparagraph (2)) apply to the 
 
 (3)  The application must contain−
 
-(a) all relevant information regarding each parameter listed in Annex 5 to the Free Allocation Decision for each separate sub- installation;
+(a) all relevant information regarding each parameter listed in Annex 5 to the Free Allocation Decision for each separate sub-installation;
 
-(b) the installed capacity, and a calculation of the added capacity, for each such sub-installation;
+(b) the installed capacity, and a calculation of the added capacity, for each such sub- installation;
 
 (c) any other evidence necessary to demonstrate that the criteria for a significant capacity extension have been met; and
 
 (d) a statement that the data referred to in subsubparagraphs (a) to (c) have been verified.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 (4)  If the regulator approves the calculation of added capacity the regulator must calculate−
 
-(a) the activity levels (for the added capacity only) of the sub- installations to which the significant capacity extension applies in accordance with Article 18(1) and (2) of the Free Allocation Decision;
+(a) the activity levels (for the added capacity only) of the sub-installations to which the significant capacity extension applies in accordance with Article 18(1) and (2) of the Free Allocation Decision;
 
 (b) the preliminary number of allowances to be allocated for each sub-installation insofar as the extension is concerned in accordance with Articles 19(1) to (3) and 20 of the Free Allocation Decision; and
 
@@ -144,13 +126,7 @@ Notification of preliminary annual number of allowances: new entrants and signif
 
 Calculation of final annual amount of allowances allocated free of charge: new entrants and significant capacity extensions.
 
-5.(1)  Where the European Commission approves the preliminary total annual amount notified under paragraph 4(1), the regulator must calculate
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 the final total annual amount of allowances allocated to the installation concerned.
+5.(1)  Where the European Commission approves the preliminary total annual amount notified under paragraph 4(1), the regulator must calculate the final total annual amount of allowances allocated to the installation concerned.
 
 (2)  For the purpose of subparagraph (1) the final total annual amount is−
 
@@ -178,17 +154,13 @@ Adjustment of allocation: significant capacity reductions.
 
 (2)  Where subparagraph (1) applies the operator of the installation must, by the relevant date, submit to the regulator a notice containing−
 
-(a) a statement of the reduced capacity, and of the installed capacity of the sub-installation after taking into account the capacity reduction; and
+(a) a statement of the reduced capacity, and of the installed capacity of the sub- installation after taking into account the capacity reduction; and
 
-(b) a statement that the data submitted under subsubparagraph (a) have been verified. (3)  For that purpose, the relevant date is the later of−
+(b) a statement that the data submitted under subsubparagraph (a) have been verified.
+
+(3)  For that purpose, the relevant date is the later of−
 
 (a) the last day of the period of 7 months following the date of the change of capacity;
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
 
 (b) 31 December in the year in which that change occurred; or
 
@@ -196,7 +168,7 @@ Subsidiary 2012/211
 
 (4)  Once the operator has submitted the information required by subparagraph (2) the regulator must−
 
-(a) in accordance with Article 18 of the Free Allocation Decision, calculate the activity levels for the reduced capacity of the sub- installation to which the significant capacity reduction relates in accordance with Article 18(3) of the Free Allocation Decision;
+(a) in accordance with Article 18 of the Free Allocation Decision, calculate the activity levels for the reduced capacity of the sub-installation to which the significant capacity reduction relates in accordance with Article 18(3) of the Free Allocation Decision;
 
 (b) in accordance with Article 21(2) of the Free Allocation Decision, reduce the preliminary annual number of allowances allocated to each sub-installation by the preliminary annual number of allowances allocated to the sub-installation concerned calculated in accordance with Article 19(1) of the Free Allocation Decision insofar as the significant capacity reduction is concerned; and
 
@@ -214,11 +186,7 @@ Subsidiary 2012/211
 
 (c) the regulator is carrying out functions under subparagraph (4);
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (d) a notification has been given to the European Commission pursuant to paragraph 9(3)(d) and the notified amount of allowances has not yet been approved by the European Commission; or
+(d) a notification has been given to the European Commission pursuant to paragraph 9(3)(d) and the notified amount of allowances has not yet been approved by the European Commission; or
 
 (e) a notification has been made to the registry administrator under regulation 70(11) but the necessary changes to the national allocation table have not yet been made.
 
@@ -244,11 +212,7 @@ Adjustment of allocation to an installation: permanent cessations of regulated a
 
 (b) the operation of regulated activities at the installation is technically impossible;
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (c) the installation was, but is no longer, carrying out regulated activities and it is technically impossible for it to resume doing so;
+(c) the installation was, but is no longer, carrying out regulated activities and it is technically impossible for it to resume doing so;
 
 (d) subject to subparagraphs (2) and (3), the operator−
 
@@ -272,11 +236,7 @@ Subsidiary 2012/211 (c) the installation was, but is no longer, carrying out reg
 
 (6)  This subparagraph applies where the operator−
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (a) has suspended the carrying out of regulated activities at the installation; and
+(a) has suspended the carrying out of regulated activities at the installation; and
 
 (b) intends to recommence regulated activities before the expiry of relevant period.
 
@@ -296,19 +256,13 @@ Subsidiary 2012/211 (a) has suspended the carrying out of regulated activities a
 
 (i) has not yet been determined, or
 
-(ii) has been refused and the relevant period has not yet expired;
-
-(c) an application under regulation 11(1) has been made but has not yet been determined;
+(ii) has been refused and the relevant period has not yet expired; (c) an application under regulation 11(1) has been made but has not yet been determined;
 
 (d) a notice of surrender or revocation notice has been given but has not yet taken effect;
 
 (e) an appeal against such a notice has been made but has not been determined or withdrawn;
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (f) a notification has been made to the registry administrator under regulation 70(11) but the necessary changes to the allocation table have not yet been made.
+(f) a notification has been made to the registry administrator under regulation 70(11) but the necessary changes to the allocation table have not yet been made.
 
 (10)  The registry administrator must comply with a request made under subparagraph (9).
 
@@ -320,9 +274,7 @@ Subsidiary 2012/211 (f) a notification has been made to the registry administrat
 
 (i) the allocation of allowances will be permanently reduced; or
 
-(ii) the allowances (or a proportion of them) will be issued.
-
-(12)  In this paragraph−
+(ii) the allowances (or a proportion of them) will be issued. (12)  In this paragraph−
 
 (a) a “licence” for an installation is a permit in force issued in relation to that installation in accordance with−
 
@@ -336,11 +288,7 @@ Adjustment of allocation to an installation: partial cessation of regulated acti
 
 8.(1)  For the purposes of this paragraph, an installation partially ceases regulated activities where subparagraph (2) applies in relation to that installation.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (2)  This subparagraph applies where one sub-installation of the installation which contributes to−
+(2)  This subparagraph applies where one sub-installation of the installation which contributes to−
 
 (a) at least 30% of the final annual amount of allowances allocated to the installation, or
 
@@ -366,13 +314,7 @@ reduces its activity level in a given year by at least 50% compared to the activ
 
 (i) adjust the allocation of allowances in accordance with subparagraph (6),
 
-(ii) revise the preliminary annual number of allowances allocated to each sub-installation; and
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
+(ii) revise the preliminary annual number of allowances allocated to each sub- installation; and
 
 (iii) revise the preliminary total annual amount of allowances to be allocated, commencing with the year following the year in which the reduction in activity level occurred.
 
@@ -388,17 +330,13 @@ Subsidiary 2012/211
 
 (b) by 75% or more but less than 90% compared to the initial activity level, the operator is entitled to receive a quantity of allowances representing 25% of the final annual amount of allocated allowances in respect of that sub-installation, commencing with the year following the year during which the reduction took place;
 
-(c) by 90% or more, the operator is entitled to no allowances in respect of that sub-installation, commencing with the year following the year during which the reduction took place.
+(c) by 90% or more, the operator is entitled to no allowances in respect of that sub- installation, commencing with the year following the year during which the reduction took place.
 
-(7)  Where, following such reduction, the activity level of a sub- installation subsequently reaches more than−
+(7)  Where, following such reduction, the activity level of a sub-installation subsequently reaches more than−
 
-(a) 50% compared to the initial activity level, the operator is entitled to receive a quantity of allowances equal to the full quantity of the final annual amount of allowances  allocated in respect of that sub-installation, commencing with the year following the year during which the activity level exceeded 50%;
+(a) 50% compared to the initial activity level, the operator is entitled to receive a quantity of allowances equal to the full quantity of the final annual amount of allowances allocated in respect of that sub-installation, commencing with the year following the year during which the activity level exceeded 50%;
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (b) 25% compared to the initial activity level, the operator is entitled to receive a quantity of allowances equal to half of the final annual amount of allowances allocated in respect of that sub-installation, commencing with the year following the year during which the activity level exceeded 25%.
+(b) 25% compared to the initial activity level, the operator is entitled to receive a quantity of allowances equal to half of the final annual amount of allowances allocated in respect of that sub-installation, commencing with the year following the year during which the activity level exceeded 25%.
 
 (8)  Where subparagraph (7) applies−
 
@@ -408,13 +346,13 @@ Subsidiary 2012/211 (b) 25% compared to the initial activity level, the operator
 
 (i) adjust the allocation of allowances in accordance with subparagraph (7);
 
-(ii) revise the preliminary annual number of allowances allocated to each sub-installation; and
+(ii) revise the preliminary annual number of allowances allocated to each sub- installation; and
 
 (iii) revise the preliminary total annual amount of allowances to be allocated, commencing with the year following the year in which the subsequent change occurred.
 
 (9)  The regulator must request the registry administrator to withhold the allocation of allowances to the operator of an installation for as long as any of the following circumstances obtains−
 
-(a) the regulator is investigating whether or not the installation has partially ceased regulated activities ;
+(a) the regulator is investigating whether or not the installation has partially ceased regulated activities;
 
 (b) the information required under subparagraph (4)−
 
@@ -426,11 +364,7 @@ Subsidiary 2012/211 (b) 25% compared to the initial activity level, the operator
 
 (d) a notification has been given to the European Commission pursuant to paragraph 9(3)(d) and the notified amount of allowances has not yet been approved by it;
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (e) a notification has been made to the registry administrator under regulation 70(11) but the necessary changes to the allocation table have not yet been made.
+(e) a notification has been made to the registry administrator under regulation 70(11) but the necessary changes to the allocation table have not yet been made.
 
 (10)  The registry administrator must comply with a request made under subparagraph (9).
 
@@ -460,11 +394,7 @@ notify the revised preliminary total annual amount of allowances to the persons 
 
 (3)  Those persons are−
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (a) the operator;
+(a) the operator;
 
 (b) the authority;
 
@@ -496,11 +426,7 @@ Calculation of final total annual amount of allowances: significant capacity red
 
 Recovery of allowances.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 11.(1)  This subparagraph applies where an operator (“P”) has been issued allowances to which P is not entitled as a result, in particular, of−
+11.(1)  This subparagraph applies where an operator (“P”) has been issued allowances to which P is not entitled as a result, in particular, of−
 
 (a) a failure to notify the regulator of any change to an installation’s capacity, activity level or operation;
 
@@ -523,9 +449,3 @@ Subsidiary 2012/211 11.(1)  This subparagraph applies where an operator (“P”
 (d) the date by which those allowances must be returned.
 
 (4)  An operator must comply with a notice given under subparagraph (2).
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211

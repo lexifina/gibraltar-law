@@ -1,4 +1,6 @@
-SCHEDULE 10 Regulations 33 and 58
+SCHEDULE 10
+
+Regulations 33 and 58
 
 Aircraft operating bans
 
@@ -28,12 +30,6 @@ Application for an operating ban.
 
 (a) evidence that A has not complied with obligations under these Regulations;
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 (b) details of any enforcement action against A that has been taken by the regulator;
 
 (c) a justification for the imposition of an operating ban at European Union level; and
@@ -59,9 +55,3 @@ Enforcement of an operating ban.
 (b) is entitled to recover from the regulator a sum equal to any expense reasonably incurred by that person in complying with the direction.
 
 (5)  The regulator is entitled to recover as a civil debt from the operator concerned all sums incurred under subparagraph (4).
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211

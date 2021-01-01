@@ -1,4 +1,6 @@
-SCHEDULE 3 Regulation 6, 27, 62
+SCHEDULE 3
+
+Regulation 6, 27, 62
 
 Applications etc.
 
@@ -32,11 +34,7 @@ and for that purpose the provision of updated information in relation to such an
 
 (b) unless agreed otherwise in writing with the regulator, must be submitted on a form made available by the regulator for that purpose.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (5)  Such a form must specify, as the case may be−
+(5)  Such a form must specify, as the case may be−
 
 (a) the information required by the regulator to determine the application; or
 
@@ -64,11 +62,7 @@ and in the case of an application under regulation 11 (transfer of permits) thos
 
 (13)  The application is deemed to have been withdrawn where−
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (a) the applicant has failed to provide that information by the end of that period (or by such later date as may be agreed with the regulator); and
+(a) the applicant has failed to provide that information by the end of that period (or by such later date as may be agreed with the regulator); and
 
 (b) the regulator gives notice to the applicant that the application is treated as having been withdrawn.
 
@@ -93,9 +87,3 @@ Determination of applications.
 (b) the application is then deemed to have been refused at the end of that period.
 
 (4)  Where the application is an application for a permit or the transfer of a permit, any permit that is granted as a result of the application must be attached to the notice given under subparagraph (2)(a).
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211

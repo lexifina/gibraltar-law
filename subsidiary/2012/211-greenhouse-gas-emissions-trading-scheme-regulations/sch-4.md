@@ -26,15 +26,13 @@ Applications for permits.
 
 (ii) any directly associated activities (within Article 3(e) of the Directive) that are also to be carried out,
 
-and the technologies used; (d) a description of the raw and auxiliary materials used in carrying out regulated activities in the installation, the use of which is likely to lead to specified emissions;
+and the technologies used;
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
+(d) a description of the raw and auxiliary materials used in carrying out regulated activities in the installation, the use of which is likely to lead to specified emissions;
 
-2005-27
+(e) a description of the sources of specified emissions from the regulated activities carried out in the installation;
 
-Subsidiary 2012/211 (e) a description of the sources of specified emissions from the regulated activities carried out in the installation;
-
-(f) a monitoring plan submitted under Article 12 of the Monitoring and Reporting Regulation, together with−
+(f) a monitoring plan submitted under Article 12 of the Monitoring and Reporting Regulation 2018, together with−
 
 (i) the supporting documents under Article 12(1) of that Regulation;
 
@@ -46,7 +44,7 @@ Subsidiary 2012/211 (e) a description of the sources of specified emissions from
 
 (h) any additional information which the applicant wishes the regulator to take into account in considering the application; and
 
-(i) a non-technical summary of the information referred to in sub- paragraphs (c) to (h).
+(i) a non-technical summary of the information referred to in sub-paragraphs (c) to (h).
 
 (2) For the purposes of subparagraph (1)(g), “environmental licence” means an authorisation or a permit under any enactment relating to the control or prevention of pollution.
 
@@ -61,12 +59,6 @@ Content of greenhouse gas emissions permits.
 (b) the postal address of the installation;
 
 (c) a description of the installation, including−
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
 
 (i) the regulated activities to be carried out at the installation and the specified emissions from those activities; and
 
@@ -84,25 +76,21 @@ Subsidiary 2012/211
 
 (iv) the supplementary requirements.
 
-(2)  The monitoring plan is the plan approved in accordance with Articles 11 to 13 of the Monitoring and Reporting Regulation.
+(2)  The monitoring plan is the plan approved in accordance with Articles 11 to 13 of the Monitoring and Reporting Regulation 2018.
 
 (3)  The monitoring and reporting requirements are−
 
 (a) a requirement to monitor the annual reportable emissions of the installation in accordance with−
 
-(i) the Monitoring and Reporting Regulation; and
+(i) the Monitoring and Reporting Regulation 2018; and
 
 (ii) the monitoring plan (including the written procedures supplementing that plan);
 
-(b) a requirement to prepare, for each scheme year, a verified report of those emissions in accordance with the Monitoring and  Reporting Regulation and the Verification Regulation, and to submit that report to the regulator by 31 March in the following year; and
+(b) a requirement to prepare, for each scheme year, a verified report of those emissions in accordance with the Monitoring and Reporting Regulation 2018 and the Verification Regulation, and to submit that report to the regulator by 31 March in the following year; and
 
 (c) a requirement to satisfy the regulator, if an emission factor of zero has been reported in respect of the use of bioliquids, that the sustainability criteria set out in Article 17(2) to (5) of the Renewable Energy Directive have been fulfilled in accordance with Article 18(1) of that Directive; and
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (d) any further conditions that the regulator considers necessary to give effect to the Monitoring and Reporting Regulation or the Verification Regulation.
+(d) any further conditions that the regulator considers necessary to give effect to the Monitoring and Reporting Regulation 2018 or the Verification Regulation.
 
 (4)  The surrender requirements are conditions obliging the operator to surrender, by 30 April in the year following a scheme year, a number of allowances equal to the annual reportable emissions of the installation in that scheme year.
 
@@ -126,11 +114,7 @@ Subsidiary 2012/211 (d) any further conditions that the regulator considers nece
 
 (c) any other conditions that the regulator considers appropriate to include in the permit.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 Transfer of permits.
+Transfer of permits.
 
 3.(1)  An application under regulation 11 must−
 
@@ -158,13 +142,7 @@ Subsidiary 2012/211 Transfer of permits.
 
 (b) in relation to the new operator, the information mentioned in paragraph 1(1)(a)(i) and (ii); and
 
-(c) a monitoring plan and other information mentioned in paragraph 1(1)(f) submitted by the new operator, or a
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 specification by that operator of the parts of the existing monitoring plan that it is proposed should be varied and any necessary corresponding updating of that information.
+(c) a monitoring plan and other information mentioned in paragraph 1(1)(f) submitted by the new operator, or a specification by that operator of the parts of the existing monitoring plan that it is proposed should be varied and any necessary corresponding updating of that information.
 
 (4)  Where the application relates to a partial transfer, a transfer of the permit is effected by the regulator giving notice−
 
@@ -186,15 +164,11 @@ Subsidiary 2012/211 specification by that operator of the parts of the existing 
 
 (a) the name and other particulars of the new operator;
 
-(b) the date referred to in subparagraph (8); and
+(b)  the date referred to in subparagraph (8); and
 
 (c) such variations to the monitoring plan as the regulator considers appropriate.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (8)  From a date agreed with the applicants, the new operator is to be treated as the holder of the permit as varied under subparagraph (7).
+(8)  From a date agreed with the applicants, the new operator is to be treated as the holder of the permit as varied under subparagraph (7).
 
 (9)  If the new operator already holds a permit (an “existing permit”) for an installation that is on the same site as the transferred unit the regulator may effect a transfer within subparagraph (7) by−
 
@@ -220,11 +194,7 @@ Surrender of permits.
 
 (b) ensure that the surrender report is prepared and verified in accordance with the monitoring and reporting requirements of the greenhouse gas emissions permit to which the application to surrender relates (“the permit”); and
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (c) by a date specified in the notice, surrender allowances equal to−
+(c) by a date specified in the notice, surrender allowances equal to−
 
 (i) the reportable emissions specified in the surrender report;
 
@@ -244,11 +214,7 @@ Subsidiary 2012/211 (c) by a date specified in the notice, surrender allowances 
 
 (ii) that there is no reasonable prospect of further allowances being surrendered by the operator in respect of the installation to which the notice relates.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 (3)  From the scheme year following the relevant year, for the purposes of assessing compliance with any surrender requirements of the permit the reportable emissions of the installation (before any increase in accordance with paragraph 2(5)) is deemed to be zero.
+(3)  From the scheme year following the relevant year, for the purposes of assessing compliance with any surrender requirements of the permit the reportable emissions of the installation (before any increase in accordance with paragraph 2(5)) is deemed to be zero.
 
 (4)  Where the regulator certifies in accordance with sub-paragraph (2)(b)(ii) that there is no reasonable prospect of further allowances being surrendered by the operator the regulator must notify the registry administrator.
 
@@ -270,13 +236,7 @@ Revocation of permits.
 
 (a) submit to the regulator by a date specified in the notice a report (“the revocation report”) specifying the reportable emissions from the beginning of the relevant year until the date on which it takes effect;
 
-(b) ensure that the revocation report is  prepared and verified in accordance  with  the monitoring and reporting requirements of
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 the greenhouse gas emissions permit to which the revocation notice relates (“the permit”); and
+(b) ensure that the revocation report is prepared and verified in accordance with the monitoring and reporting requirements of the greenhouse gas emissions permit to which the revocation notice relates (“the permit”); and
 
 (c) by a date specified in the notice surrender allowances equal to−
 
@@ -298,12 +258,6 @@ Subsidiary 2012/211 the greenhouse gas emissions permit to which the revocation 
 
 (i) that those requirements and any surrender requirements of the permit imposed have been complied with, or
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 (ii) that there is no reasonable prospect of further allowances being surrendered by the operator in respect of the installation to which the notice relates.
 
 (4)  From the scheme year following the relevant year, for the purposes of assessing compliance with the surrender requirements of the permit the amount of reportable emissions of the installation (before any increase in accordance with paragraph 2(5)) is deemed to be zero.
@@ -323,9 +277,3 @@ Subsidiary 2012/211
 (9)  Where the operator fails to comply with the requirements of a revocation notice included pursuant to subparagraph (1), the regulator must notify the registry administrator.
 
 (10)  A regulator who has served a revocation notice may, at any time before the date on which it takes effect, withdraw the notice.
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211

@@ -32,12 +32,6 @@ Approval of and authorisation of participation in project activities.
 
 (c) any other information that the Minister may require for the purpose of determining the application.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 (4)  Any application made under this paragraph shall be made in such a form as may be required by the Minister.
 
 (5)  The Minister may require any information included in an application under this paragraph to be independently verified and a requirement under this paragraph may include a requirement for the verification to be provided by a person of a description specified by the Minister, and any costs related thereto will be borne by the applicant.
@@ -64,12 +58,6 @@ Determination of application.
 
 (2)  When determining an application duly made under paragraph 2, the Minister may attach such conditions to an approval or authorization as he thinks necessary.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
 (3)  The Minister may not approve a proposed project activity to be carried out in Gibraltar.
 
 (4)  The Minister may only approve a proposed project activity if he is satisfied that–
@@ -89,12 +77,6 @@ Offence.
 5.(1)  It is an offence for a person to make a statement which he knows to be false or misleading in a material particular, or recklessly to make a statement which is false or misleading in a material particular, where the statement is made in the connection with an application under paragraph 2.
 
 (2)  A person convicted of an offence under subparagraph (1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
 
 (3)  Where a body corporate is guilty of an offence under this paragraph and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of–
 

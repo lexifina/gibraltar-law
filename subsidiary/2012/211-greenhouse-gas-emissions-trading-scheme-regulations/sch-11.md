@@ -1,4 +1,8 @@
-SCHEDULE 11 Regulation 3 FEES
+SCHEDULE 11
+
+Regulation 3
+
+FEES
 
 1. The following fees are prescribed and shall be payable to the regulator–
 
@@ -15,9 +19,3 @@ SCHEDULE 11 Regulation 3 FEES
 (5) Application by a Gibraltar aircraft operator for approval of an emissions monitoring plan £750
 
 2.  Except where the regulator considers that a variation relates to changes of a purely administrative nature, where a regulator serves a variation notice varying the conditions of a greenhouse gas emissions permit, the fee prescribed in respect of the variation shall be £240 and shall be payable by the date specified in the variation notice.
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211

@@ -24,11 +24,7 @@ Benchmarking plan for eligible persons.
 
 (2)  That application must contain a plan to monitor tonne-kilometre data from R’s aviation activity (together with supporting documents) submitted under Article 12(1) of the Monitoring and Reporting Regulation.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 Issue of a benchmarking plan.
+Issue of a benchmarking plan.
 
 3.(1)  Where R has made an application under paragraph 2 the regulator must, by notice given to R−
 
@@ -60,11 +56,7 @@ Monitoring tonne-kilometre data.
 
 Application for an allocation of allowances.
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211 6.(1)  R must apply to the regulator by 30 June in the third year of a trading period.
+6.(1)  R must apply to the regulator by 30 June in the third year of a trading period.
 
 (2) That application must−
 
@@ -92,13 +84,7 @@ Submission of an application to the Minister and the European Commission.
 
 (2)  The regulator may grant the application under subparagraph (1)(a) where R has otherwise complied with the requirements of this Schedule but failed to comply with the deadline in Article 51(2) of the Monitoring and Reporting Regulation or paragraph 6(1).
 
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
-
-(3)  Where the regulator refuses the application under subparagraph (1)(b), the notice of determination must state the regulator’s reasons for doing so.
+(3)  Where the regulator refuses the application under subparagraph (1)(b),  the notice of determination must state the regulator’s reasons for doing so.
 
 (4)  The Minister must ensure that an application received under subparagraph (1)(a) is submitted to the European Commission within 6 months of the deadline in paragraph 6(1).
 
@@ -113,9 +99,3 @@ Publication of aviation allowances from the special reserve.
 Restriction on allocation of allowances.
 
 9.  No more than 1 million allowances from the special reserve may be allocated to R where he is eligible by reason of his compliance with paragraph 1(2)(b).
-
-Environment GREENHOUSE GAS EMISSIONS TRADING SCHEME REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/211
