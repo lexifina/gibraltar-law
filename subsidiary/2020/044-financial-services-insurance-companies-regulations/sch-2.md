@@ -22,17 +22,13 @@ Appointment of liquidator.
 
 (b) that the company has failed to keep proper records of its insurance business and, as a result, the GFSC is unable to ascertain whether the company is financially sound; or
 
-(c) in the case of a Gibraltar insurer, that the company has failed to satisfy an obligation under the law of another EEA State which–
-
-(i) gives effect to the Solvency 2 Directive; or
-
-(ii) is otherwise applicable to the insurance or reinsurance activities of the insurer in that State.
-
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+(c) in the case of a Gibraltar insurer, that the company has failed to satisfy an obligation under the law of a country or territory outside Gibraltar which applies to the insurance or reinsurance activities of the insurer in that jurisdiction.
 
 (4)  The court must not appoint a liquidator on an application made under sub-paragraph (1)(b) unless the policyholders give security for costs in such amount as the court may determine.
 
 (5)  Where policyholders make an application under sub-paragraph (1)(b)–
+
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 (a) the policyholders must serve a copy of the application on the GFSC; and
 
@@ -58,11 +54,11 @@ Delinquent directors, etc.
 
 Continuation of long-term business.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
-
 7.(1)  A liquidator carrying on the business of an insurer or reinsurer may agree to the variation of existing contracts but has no power to enter into new contracts of insurance.
 
 (2)  A liquidator may apply to the court for the appointment of a special manager for the long-term business.
+
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (3)  The liquidator must serve on the GFSC a copy of any application made under sub- paragraph (2) and–
 

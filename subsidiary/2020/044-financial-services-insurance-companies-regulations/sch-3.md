@@ -4,13 +4,11 @@ Regulation 283
 
 Application
 
-1.  This Schedule applies to Swiss general insurers who, in accordance with the EU-Swiss Direct Insurance Agreement, establish and operate a branch in Gibraltar or propose to do so.
+1.  This Schedule applies to Swiss general insurers who, in accordance with the UK-Swiss Agreement, establish and operate a branch in Gibraltar or propose to do so.
 
 Interpretation.
 
 2.  In these Regulations–
-
-“the EU-Swiss Direct Insurance Agreement”  means the Agreement between the European Economic Community and the Swiss Confederation on direct insurance other than life assurance (OJ L205, 27.07.1991), as amended from time to time.
 
 “principal Gibraltar executive” means an officer or employee of a Swiss general insurer–
 
@@ -30,9 +28,11 @@ Interpretation.
 
 (c) whose permission is not restricted to the effecting or carrying out of contracts of reinsurance.
 
-Approval of principal Gibraltar executive.
+“UK-Swiss Agreement” means the Agreement between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation on Direct Insurance other than Life Insurance (CP 26), as amended from time to time (which, by virtue of Article 43 of the Agreement, extends to Gibraltar)
 
 2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+
+Approval of principal Gibraltar executive.
 
 3.(1)  A Swiss general insurer must not appoint a person as its principal Gibraltar executive unless–
 
@@ -119,3 +119,5 @@ Asset values.
 Grounds for exercise of powers of intervention.
 
 6.  Without limiting the exercise of any other powers, the GFSC’s powers of intervention under Parts 7 and 10 of the Act are exercisable in relation to a Swiss general insurer which has ceased to be authorised to effect contracts of insurance, or contracts of a particular description, in Switzerland.
+
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
