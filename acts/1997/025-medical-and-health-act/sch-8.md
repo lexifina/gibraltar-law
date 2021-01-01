@@ -28,9 +28,7 @@ NURSES, MIDWIVES AND HEALTH VISITORS REGISTRATION BOARD
 
 3. If the place of any member of the Board (other than an ex officio member) becomes vacant before the expiration of his term of office the Minister may appoint another person of the same description to fill the vacancy for the unexpired portion of the term of the vacating member.
 
-Medical and Health
-
-1997-25 4. The Minister may in his discretion terminate the appointment of any member of the Board (other than an ex officio member).
+4. The Minister may in his discretion terminate the appointment of any member of the Board (other than an ex officio member).
 
 5. If any member of the Board be temporarily absent from Gibraltar and occasion arises which in the opinion of the Chairman necessitates a meeting of the full Board the Minister may, upon the request of the Chairman, appoint some other person of the same description temporarily to fill the vacancy.
 

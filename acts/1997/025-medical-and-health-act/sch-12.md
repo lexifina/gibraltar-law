@@ -40,10 +40,6 @@ Paragraph 11 substitutes definitions in section 2.
 
 Paragraph 12 substitutes words in sections 144, 149, 150, 162, 163, 168, 173(3), 174, 196, 203, 204 229 and 230.
 
-Medical and Health
-
-1997-25
-
 THE QUARANTINE ACT
 
 Paragraph 13 substitutes definitions in section 2.
@@ -51,7 +47,3 @@ Paragraph 13 substitutes definitions in section 2.
 THE SUPREME COURT ACT
 
 Paragraph 14 substitutes words in section 20(q).
-
-Medical and Health
-
-1997-25

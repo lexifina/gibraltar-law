@@ -14,7 +14,7 @@ Section 4(2)
 
 (c)  one member of such professions or occupations supplementary to medicine as the Minister may determine.
 
-2. The members of the Board shall hold office for three years and shall be eligible for re-appointment.
+2. The members of the Board shall hold office for three years and shall be eligible for re- appointment.
 
 3. The Board shall meet at least once every three months in every calendar year at such time and place as the Chairman shall appoint.
 
@@ -24,14 +24,8 @@ Section 4(2)
 
 6. If any member of the Board be temporarily absent from Gibraltar and occasion arises which in the opinion of the Chairman necessitates a meeting of the full Board, the Minister may, upon the request of the Chairman, appoint some other person of the same description temporarily to fill the vacancy.
 
-Medical and Health
-
-1997-25 7. The powers of the Board may be exercised notwithstanding any vacancy in their number.
+7. The powers of the Board may be exercised notwithstanding any vacancy in their number.
 
 8. Three members of the Board shall form a quorum, except at the investigation of any complaint made against a person registered under Part II of the Act, when the quorum shall be five.
 
 9. The Board may, subject to rules made under section 22(c) make standing orders regulating the proceedings of the Board.
-
-Medical and Health
-
-1997-25
