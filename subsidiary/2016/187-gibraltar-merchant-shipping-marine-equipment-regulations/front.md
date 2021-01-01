@@ -1,77 +1,49 @@
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARINE EQUIPMENT) REGULATIONS 2016
+Subsidiary Legislation made under ss.59 and 118.
 
-1995-13
+Gibraltar Merchant Shipping (Marine Equipment) Regulations 2016
 
-Subsidiary 2016/187
-
-Subsidiary Legislation made under s.59 and 118.
-
-GIBRALTAR MERCHANT SHIPPING (MARINE EQUIPMENT) REGULATIONS 2016
-
-(LN. 2016/187)
+LN.2016/187
 
 Commencement 18.9.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-Transposing: Directive 2014/90/EU _______________________
+LN.2021/108 Long Title, rr. 2-40, Schs.1-5 1.1.2021
 
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-PART 1 PRELIMINARY
+PART 1 Preliminary
 
-1. Title and commencement. 2. Interpretation. 3. The purposes and application of these Regulations.
+1. Title and commencement. 2. Interpretation. 3. Application of these Regulations. 4. Designation of approved and nominated bodies.
 
-PART 2 GENERAL PROVISIONS FOR MARINE EQUIPMENT
+PART 2 Requirements for equipment
 
-4. Requirements for marine equipment. 5. Marine equipment to comply with these Regulations and international instruments. 6. Functioning of the internal market 7. Transfer of a ship to the flag of a Member State.
+5. Requirements for equipment. 6. Exemptions. 7. Transfer of a ship.
 
-PART 3 THE WHEEL MARK
+PART 3 Conformity Assessment Procedures
 
-8. The wheel mark.
+8. Applications for grant of conformity approval. 9. Grant of conformity approval: obligations of an approved body. 10. Amendments to conformity approval. 11. Declaration of conformity. 12. Affixing the conformity mark. 13. Authorised representatives.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARINE EQUIPMENT) REGULATIONS 2016
+PART 4 Other Conformity Assessment Procedures
 
-1995-13
+14. Application for grant of conformity approval. 15. Grant of conformity approval: obligations of nominated bodies.
 
-Subsidiary 2016/187 9. Rules and conditions for affixing the wheel mark. 10. Electronic tag.
+PART 5 Obligations of Economic Operators
 
-PART 4 OBLIGATIONS OF ECONOMIC OPERATORS
+16. Application of Part 5. 17. Obligations of a manufacturer. 18. Obligations of an importer. 19. Obligations of an economic operator.
 
-11. Obligation of manufacturer. 12. Authorised representatives. 13. Other economic operators.
+20. Restricting, suspending or withdrawing conformity approval. 21. Sample checks. 22. Defective equipment. 23. Delegation of powers. 24. Appeals. 25. Offences and penalties. 26. Market Surveillance. 27. Review. 28. Defence to offences. 29. Power to detain. 30. Repeal. 31. Savings and transitional provision.
 
-PART 5 CONFORMITY ASSESSMENT AND NOTIFICATION OF CONFORMITY ASSESSMENT BODIES
+SCHEDULE 1 Technical Information and Guidance
 
-14. Conformity assessment procedures. 15. EU declaration of conformity. 16. Notification of conformity assessment bodies. 17. Notifying authorities. 18. Information obligation on notifying authorities. 19. Subsidiaries of, and subcontracting by, notified bodies. 20. Changes to notifications. 21. Challenges to the competence of notified bodies. 22. Operational obligations of notified bodies. 23. Obligation of notified bodies to provide information.
+SCHEDULE 2 Conformity Assessment Procedures
 
-PART 6 EUROPEAN UNION MARKET SURVEILLANCE, CONTROL OF PRODUCTS, SAFEGUARD PROVISIONS
+SCHEDULE 3 Requirements to be met by Conformity Assessment Bodies in order to become Approved Bodies
 
-24. EU market surveillance framework. 25. Procedure for dealing with marine equipment presenting a risk. 26. EU safeguard procedure. 27. Compliant products which present a risk to maritime safety, to health or to the environment. 28. Formal non-compliance. 29. Exemptions based on technical innovation. 30. Exemptions for testing or evaluation. 31. Exemptions in exceptional circumstances. 32. Coordination of notified bodies.
+SCHEDULE 4 Designation Procedure
 
-PART 7 ENFORCEMENT, ETC.
+SCHEDULE 5 Declaration of Conformity
 
-33. Unauthorised use of mark of conformity. 34. Delegation of powers.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARINE EQUIPMENT) REGULATIONS 2016
-
-1995-13
-
-Subsidiary 2016/187 35. Appeals. 36. Offences and penalties. 37. Defence to offences. 38. Power to detain. 39. Repeal. 40. Savings and transitional provision.
-
-SCHEDULE 1 WHEEL MARK
-
-SCHEDULE 2 CONFORMITY ASSESSMENT PROCEDURES
-
-SCHEDULE 3 REQUIREMENTS TO BE MET BY CONFORMITY ASSESSMENT BODIES IN ORDER TO BECOME NOTIFIED BODIES
-
-SCHEDULE 4 NOTIFICATION PROCEDURE
-
-SCHEDULE 5 REQUIREMENTS TO BE MET BY NOTIFYING AUTHORITIES
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARINE EQUIPMENT) REGULATIONS 2016
-
-1995-13
-
-Subsidiary 2016/187 In exercise of the powers conferred on it by sections 59 and 118 of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993 and all other enabling powers, and for the purpose of transposing into the law of Gibraltar Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment and repealing Council Directive 96/98/EC, the Government has made the following Regulations–
+In exercise of the powers conferred on it by sections 59 and 118 of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993 and all other enabling powers, the Government has made the following Regulations–
