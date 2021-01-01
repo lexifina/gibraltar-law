@@ -1,36 +1,26 @@
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
-
-INTELLECTUAL PROPERTY (COPYRIGHT AND RELATED RIGHTS) ACT 2005
+Intellectual Property (Copyright and Related Rights) Act 2005
 
 Principal Act
 
-Act. No. 2005-22 Commencement (LN.2005/080) 28.4.2005
+Act. No. 2005-22 Commencement (LN.2005/080) 28.4.2005 Assent 10.3.2005
 
-Assent 10.3.2005
+Amending enactments Relevant current provisions Commencement date Act. 2006-21 ss. 61(3), 62(4), 63(2), 65(2), 254-269, Schs. 2, 4-5 20.7.2006 LN. 2013/153 ss. 13A, 15(8), 16(2), (b)-(c), 209(1), 217(b)-(c), 225A-225B, 231
 
-Amending enactments Relevant current provisions Commencement date
+1.11.2013 Act. 2014-04 s. 187 27.2.2014 LN. 2014/173 ss. 54A, 93A, 215, Schs. 1A, 5 29.10.2014 2016/107 s. 137(2)(a)-(b) 12.5.2016 Act. 2017-10 ss. 39A-39F, 91(1) 13.6.2018 LN. 2018/286 ss. 39A(1)-(3), (5),  39B(1)-(9A), (12)-(13), 39C(3)- (9), 39F(3), (7), (9), (9A), (12), 132(5), 189(1), 197A, 274(1), (9), (9A)
 
-Act. 2006-21 ss. 61(3), 62(4), 63(2) & 65(2), Part IV (ss.254-269), Schs. 2, 4 & 5
+20.12.2018 Act. 2020-14 ss. 23(2), (3)(a)-(b), 38, (1), (1A), (2), (5), 39A(2), 39B(2), 39D(3), 39F(3), 88(1)(b)-(c), (3)
 
-20.7.2006 LN.  2013/1531 ss. 13A, 15(8), 16(2),(2)(b), (c), 209(1), 217(b),(c), 225A, 225B & 231
+11.12.2020 LN. 2019/210 ss. 15(6), (8)(c), 16(3), 17(7)-(8), 20(4)(a)-(b), 23(2), 33(5), 34(4), 39B(1), (9A), 39C(9), 166(1), 167(1), 182, (2), 188, 195(1)-(2), 201(1), 217(2), 254(1), 259(4)(b), 262(3)(a)-(b), Sch. A1, 1, 5
 
-1.11.2013 Act.   2014-04 s. 187 27.2.2014 LN.  2014/173 ss. 54A, 93A, 215, Schs. 1A & 5 29.10.2014 2016/107 s. 137(2)(a), (b) 12.5.2016 Act. 2017-10 ss. 39A-39F, 91(1) 13.6.2018 LN. 2018/286 ss. 39A(1)-(3), (5),  39B(1)-(9A), (12), (13), 39C(3)-(9), 39F(3), (7), (9), (9A), (12), 132(5), 189(1), 197A, 274(1), (9), (9A)
-
-20.12.2018 Act.2020-14 ss. 23(2), (3)(a)-(b), 38, (1), (1A), (2), (5), 39A(2), 39B(2), 39D(3), 39F(3), 88(1)(b)-(c), (3)
-
-11.12.2020
+1.1.2021 2019/245 ss. 10, (1)-(3), (b), (4), 18(3), 164(1), 168(1), Sch. 1 1.1.2021
 
 Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU Directive 2012/28/EU Directive 2014/26/EU Directive 2017/1564/EU
 
-1 Transitional and saving provisions as published in the Legal Notice are reproduced at the end of this Act.
+ARRANGEMENT OF SECTIONS
 
-Intellectual Property (Copyright and Related Rights)
+Section
 
-2005-22 ARRANGEMENT OF SECTIONS
-
-Sections PART I COPYRIGHT
+PART I COPYRIGHT
 
 CHAPTER I SUBSISTENCE, OWNERSHIP AND DURATION OF COPYRIGHT
 
@@ -50,11 +40,11 @@ Duration of copyright
 
 15. Duration of copyright in literary, dramatic, musical or artistic works. 16. Duration of copyright in sound recordings. 17. Duration of copyright in films. 18. Duration of copyright in broadcasts. 19. Duration of copyright in typographical arrangement of published editions. 20. Meaning of country of origin.
 
-CHAPTER II RIGHTS OF COPYRIGHT OWNER
+CHAPTER II
 
-Intellectual Property (Copyright and Related Rights)
+RIGHTS OF COPYRIGHT OWNER
 
-2005-22 The acts restricted by copyright
+The acts restricted by copyright
 
 21. The acts restricted by copyright in a work. 22. Infringement of copyright by copying. 23. Infringement by issue of copies to the public. 24. Infringement by rental or lending of work to the public. 25. Infringement by performance, showing or playing of work in public. 26. Infringement by communication to the public. 27. Infringement by making adaptation or act done in relation to adaptation.
 
@@ -80,9 +70,7 @@ Visual impairment
 
 39A. Making a single accessible copy for personal use. 39B. Multiple copies for visually impaired persons. 39C. Intermediate copies and records.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 39D. Licensing schemes. 39E. Limitations, etc. following infringement of copyright. 39F. Definitions and other supplementary provision for sections 39A to 39E
+39D. Licensing schemes. 39E. Limitations, etc. following infringement of copyright. 39F. Definitions and other supplementary provision for sections 39A to 39E
 
 Education
 
@@ -102,11 +90,9 @@ Public administration
 
 Computer programs: lawful users
 
-61. Back up copies. 62. Decompilation. 63. Observing, studying and testing of computer programs.
+61. Back up copies. 62. Decompilation.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 64. Other acts permitted to lawful users.
+63. Observing, studying and testing of computer programs. 64. Other acts permitted to lawful users.
 
 Databases: permitted acts
 
@@ -134,11 +120,9 @@ Miscellaneous: lending of works and playing of sound recordings
 
 Miscellaneous: broadcasts
 
-84. Incidental recording for purposes of broadcast. 85. Recording for purposes of supervision and control of broadcasts and other services. 86. Recording for the purposes of time-shifting.
+84. Incidental recording for purposes of broadcast.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 87. Photographs of broadcasts. 88. Free public showing or playing of broadcast. 89. Reception and re-transmission of wireless broadcast by cable. 90. Royalty or other sum payable in pursuance of section 89(4). 91. Provision of sub-titled copies of broadcast. 92. Recording for archival purposes.
+85. Recording for purposes of supervision and control of broadcasts and other services. 86. Recording for the purposes of time-shifting. 87. Photographs of broadcasts. 88. Free public showing or playing of broadcast. 89. Reception and re-transmission of wireless broadcast by cable. 90. Royalty or other sum payable in pursuance of section 89(4). 91. Provision of sub-titled copies of broadcast. 92. Recording for archival purposes.
 
 Adaptations
 
@@ -170,9 +154,7 @@ Supplementary
 
 103. Duration of rights. 104. Consent and waiver of rights. 105. Application of provisions to joint works. 106. Application of provisions to parts of works.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 CHAPTER V DEALINGS WITH RIGHTS IN COPYRIGHT WORKS
+CHAPTER V DEALINGS WITH RIGHTS IN COPYRIGHT WORKS
 
 Copyright
 
@@ -202,9 +184,7 @@ Remedies for infringement of moral rights
 
 Presumptions
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 125. Presumptions relevant to literary, dramatic, musical and artistic works. 126. Presumptions relevant to sound recordings and films. 127. Presumptions relevant to works subject to Crown copyright.
+125. Presumptions relevant to literary, dramatic, musical and artistic works. 126. Presumptions relevant to sound recordings and films. 127. Presumptions relevant to works subject to Crown copyright.
 
 Offences
 
@@ -226,13 +206,11 @@ Licensing schemes and licensing bodies
 
 References and applications with respect to licensing by licensing bodies
 
-145. Licences to which the following sections apply. 146. Reference to Court of proposed licence. 147. Reference to Court of expiring licence. 148. Application for review of order as to licence. 149. Effect of order of Court as to licence.
+145. Licences to which the following sections apply.
+
+146. Reference to Court of proposed licence. 147. Reference to Court of expiring licence. 148. Application for review of order as to licence. 149. Effect of order of Court as to licence.
 
 Factors to be taken into account in certain classes of case
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
 
 150. General considerations: unreasonable discrimination. 151. Licenses for reprographic copying. 152. Licences for educational establishments in respect of works included in broadcasts. 153. Licences to reflect conditions imposed by promoters of events. 154. Licences to reflect payments in respect of underlying rights. 155. Licences in respect of works included in re-transmissions. 156. Mention of specific matters not to exclude other relevant considerations.
 
@@ -256,11 +234,9 @@ CHAPTER VIII QUALIFICATION FOR AND EXTENT OF COPYRIGHT PROTECTION
 
 Qualification for copyright protection
 
-165. Qualification for copyright protection. 166. Qualification by reference to author. 167. Qualification by reference to country of first publication. 168. Qualification by reference to place of transmission. 169. Application of this Part to foreign countries. 170. Denial of copyright protection to citizens of countries not giving adequate protection to Gibraltarian works.
+165. Qualification for copyright protection. 166. Qualification by reference to author. 167. Qualification by reference to country of first publication. 168. Qualification by reference to place of transmission.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
+169. Application of this Part to foreign countries. 170. Denial of copyright protection to citizens of countries not giving adequate protection to Gibraltarian works.
 
 Supplementary
 
@@ -278,11 +254,9 @@ Interpretation
 
 PART II DATABASE RIGHT
 
-189. Interpretation. 190. Database right. 191. The maker of a database. 192. First ownership of database right. 193. Acts infringing database right. 194. Term of protection. 195. Qualification for database right. 196. Avoidance of certain terms affecting lawful users. 197. Exceptions to database right. 197A. Exceptions to database right: Marrakesh beneficiaries. 198. Acts permitted on assumption as to expiry of database right. 199. Presumptions relevant to database right.
+189. Interpretation. 190. Database right. 191. The maker of a database. 192. First ownership of database right. 193. Acts infringing database right. 194. Term of protection. 195. Qualification for database right.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 200. Application of copyright provisions.
+196. Avoidance of certain terms affecting lawful users. 197. Exceptions to database right. 197A. Exceptions to database right: Marrakesh beneficiaries. 198. Acts permitted on assumption as to expiry of database right. 199. Presumptions relevant to database right. 200. Application of copyright provisions.
 
 PART III RIGHTS IN PERFORMANCES
 
@@ -306,13 +280,13 @@ Exceptions
 
 Duration of rights
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 217. Duration of performer’s rights.
+217. Duration of performer’s rights.
 
 Performer’s property rights
 
-218. Performers’ property rights. 219. Assignments and licences. 220. Prospective ownership of a performer’s property rights. 221. Exclusive licences. 222. Performer’s property rights to pass under will with unpublished original recording. 223. Presumption of transfer of rental right in case of film production agreement. 224. Right to equitable remuneration where rental right transferred. 225. Equitable remuneration: reference of amount to Court. 225A. Assignment of performer’s property rights in a sound recording. 225B. Payment in consideration of assignment. 226. Infringement actionable by rights owner. 227. Provisions as to damages in infringement action. 228. Rights and remedies of exclusive licensee. 229. Exercise of concurrent rights. 230. Requirement for signatures and its application in relation to body corporate. Non-property rights
+218. Performers’ property rights. 219. Assignments and licences. 220. Prospective ownership of a performer’s property rights. 221. Exclusive licences. 222. Performer’s property rights to pass under will with unpublished original recording. 223. Presumption of transfer of rental right in case of film production agreement. 224. Right to equitable remuneration where rental right transferred. 225. Equitable remuneration: reference of amount to Court. 225A. Assignment of performer’s property rights in a sound recording. 225B. Payment in consideration of assignment. 226. Infringement actionable by rights owner. 227. Provisions as to damages in infringement action. 228. Rights and remedies of exclusive licensee. 229. Exercise of concurrent rights. 230. Requirement for signatures and its application in relation to body corporate.
+
+Non-property rights
 
 231. Performer’s non-property rights. 232. Consent. 233. Remedies for infringement of a performer’s rights and recording rights.
 
@@ -326,9 +300,7 @@ Offences
 
 Extension of protection
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 243. Countries enjoying reciprocal protection.
+243. Countries enjoying reciprocal protection.
 
 CHAPTER III MORAL RIGHTS
 
@@ -350,11 +322,9 @@ Remedies for infringement of rights
 
 PART IV ARTISTS RESALE RIGHT
 
-254.  Interpretation. 255. Artist’s resale right. 256. Works covered. 257.  Joint authorship. 258. Proof of authorship. 259. Assignment etc. 260. Waiver etc. 261. Persons entitled on succession. 262. Requirements as to nationality etc. 263.  Trusts. 264.  “Resale”. 265. Liability to pay resale royalty. 266. Collective management. 267. Right to information. 268. Transitional provisions. 269. Sales before 1st January 2010.
+254.  Interpretation. 255. Artist’s resale right. 256. Works covered. 257.  Joint authorship. 258. Proof of authorship. 259. Assignment etc. 260. Waiver etc. 261. Persons entitled on succession. 262. Requirements as to nationality etc. 263.  Trusts. 264.  “Resale”. 265. Liability to pay resale royalty.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
+266. Collective management. 267. Right to information. 268. Transitional provisions. 269. Sales before 1st January 2010.
 
 PART V MISCELLANEOUS AND GENERAL
 
@@ -386,23 +356,13 @@ SCHEDULE 2 Permitted acts to which section 274 applies.
 
 SCHEDULE 3 Application of Part II to other countries and territories.
 
-SCHEDULE 4
+SCHEDULE 4 CALCULATION OF RESALE ROYALTY
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 CALCULATION OF RESALE ROYALTY
-
-SCHEDULE 5 COUNTRIES OUTSIDE THE EEA WHOSE NATIONALS MAY ENJOY RESALE RIGHT
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 RE-NUMBERING OF SECTIONS AS A CONSEQUENCE OF AMENDING ACT Act. 2006-21 AS FROM 20.7.2006
+RE-NUMBERING OF SECTIONS AS A CONSEQUENCE OF AMENDING ACT Act. 2006-21 AS FROM 20.7.2006
 
 Old number New Number PART IV PART V 254 270 255 271 256 272 257 273 258 274 259 275 260 276 261 277 262 278 263 279
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 AN ACT TO MAKE PROVISION FOR COPYRIGHT AND OTHER RELATED RIGHTS; AND TO TRANSPOSE INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 91/250/EEC OF 14 MAY 1991 ON THE LEGAL PROTECTION OF COMPUTER PROGRAMS; COUNCIL DIRECTIVE 92/100/EEC OF 19 NOVEMBER 1992 ON RENTAL RIGHT AND LENDING RIGHT AND ON CERTAIN RIGHTS RELATING TO COPYRIGHT IN THE FIELD OF INTELLECTUAL PROPERTY; COUNCIL DIRECTIVE 93/83/EEC OF 27 SEPTEMBER 1993 ON THE CO-ORDINATION OF CERTAIN RULES CONCERNING COPYRIGHT AND RIGHTS RELATED TO COPYRIGHT APPLICABLE TO SATELLITE BROADCASTING AND CABLE RE-TRANSMISSION; COUNCIL DIRECTIVE 93/98/EEC OF 29 OCTOBER 1993 HARMONISING THE TERM OF PROTECTION OF COPYRIGHT AND CERTAIN RELATED RIGHTS; DIRECTIVE 96/9/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 11 MARCH 1996 ON THE LEGAL PROTECTION OF DATABASES; AND DIRECTIVE 2001/29/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 22 MAY 2001 ON THE HARMONISATION OF CERTAIN ASPECTS OF COPYRIGHT AND RELATED RIGHTS IN THE INFORMATION SOCIETY; AND FOR CONNECTED PURPOSES.
+AN ACT TO MAKE PROVISION FOR COPYRIGHT AND OTHER RELATED RIGHTS; AND TO TRANSPOSE INTO THE LAW OF GIBRALTAR COUNCIL DIRECTIVE 91/250/EEC OF 14 MAY 1991 ON THE LEGAL PROTECTION OF COMPUTER PROGRAMS; COUNCIL DIRECTIVE 92/100/EEC OF 19 NOVEMBER 1992 ON RENTAL RIGHT AND LENDING RIGHT AND ON CERTAIN RIGHTS RELATING TO COPYRIGHT IN THE FIELD OF INTELLECTUAL PROPERTY; COUNCIL DIRECTIVE 93/83/EEC OF 27 SEPTEMBER 1993 ON THE CO-ORDINATION OF CERTAIN RULES CONCERNING COPYRIGHT AND RIGHTS RELATED TO COPYRIGHT APPLICABLE TO SATELLITE BROADCASTING AND CABLE RE-TRANSMISSION; COUNCIL DIRECTIVE 93/98/EEC OF 29 OCTOBER 1993 HARMONISING THE TERM OF PROTECTION OF COPYRIGHT AND CERTAIN RELATED RIGHTS; DIRECTIVE 96/9/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 11 MARCH 1996 ON THE LEGAL PROTECTION OF DATABASES; AND DIRECTIVE 2001/29/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL OF 22 MAY 2001 ON THE HARMONISATION OF CERTAIN ASPECTS OF COPYRIGHT AND RELATED RIGHTS IN THE INFORMATION SOCIETY; AND FOR CONNECTED PURPOSES.
 
 PART I COPYRIGHT
 

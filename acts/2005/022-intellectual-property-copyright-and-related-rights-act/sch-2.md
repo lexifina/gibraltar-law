@@ -22,7 +22,7 @@ Section 52 (copying by librarians or archivists: replacement copies of works)
 
 Section 53 (copying by librarians or archivists: certain unpublished works)
 
-Section 54 (copy of work  required to by made as condition of export)
+Section 54 (copy of work required to by made as condition of export)
 
 Section 55 (parliamentary and judicial proceedings)
 
@@ -37,10 +37,6 @@ Section 59 (public records)
 Section 60 (acts done under statutory authority)
 
 Section 76 (recording of folksongs)
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
 
 Section 84 (incidental recording for purposes of broadcast)
 

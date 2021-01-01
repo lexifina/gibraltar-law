@@ -28,10 +28,6 @@ Introductory
 
 (c) references in this Schedule to copyright in a film are to any copyright under that Act in the film (so far as it constituted a dramatic work for the purposes of that Act) or in photographs forming part of the film.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
-
 General principles: continuity of the law
 
 3.  The new copyright provisions apply in relation to things existing at commencement as they apply in relation to things coming into existence after commencement, subject to any express provision to the contrary.
@@ -53,10 +49,6 @@ Subsistence of copyright
 5.(1)  Copyright subsists in an existing work after commencement only if copyright subsisted in it immediately before commencement.
 
 (2)  Sub-paragraph (1) does not prevent an existing work qualifying for copyright protection after commencement–
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
 
 (a) under section 167 (qualification by virtue of first publication); or
 
@@ -86,9 +78,7 @@ Intellectual Property (Copyright and Related Rights)
 
 7.(1)  No copyright subsists in a film, as such, made before 1st June 1960.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 (2)  Where a film made before that date was an original dramatic work within the meaning of the 1911 Act, the new copyright provisions have effect in relation to the film as if it was an original dramatic work within the meaning of Part I.
+(2)  Where a film made before that date was an original dramatic work within the meaning of the 1911 Act, the new copyright provisions have effect in relation to the film as if it was an original dramatic work within the meaning of Part I.
 
 (3)  The new copyright provisions have effect in relation to photographs forming part of a film made before 1st June 1960 as they have effect in relation to photographs not forming part of a film.
 
@@ -116,19 +106,13 @@ Authorship of work
 
 First ownership of copyright
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
-
 11.(1)  The question who was first owner of copyright in an existing work shall be determined in accordance with the law in force at the time the work was made.
 
 (2)  Where before commencement a person commissioned the making of a work in circumstances falling within–
 
 (a) section 4(3) of the 1956 Act or paragraph (a) of the proviso to section 5(1) of the 1911 Act (photographs, portraits and engravings); or
 
-(b) the proviso to section 12(4) of the 1956 Act (sound recordings),
-
-those provisions apply to determine first ownership of copyright in any work made in pursuance of the commission after commencement.
+(b) the proviso to section 12(4) of the 1956 Act (sound recordings), those provisions apply to determine first ownership of copyright in any work made in pursuance of the commission after commencement.
 
 Duration of copyright in existing works
 
@@ -146,9 +130,7 @@ The question which provision applies to a work shall be determined by reference 
 
 (d) published sound recordings and sound recordings made before 1st June 1960;
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 (e) published films and films falling within section 13(3)(a) of the 1956 Act (films registered under former enactments relating to registration of films).
+(e) published films and films falling within section 13(3)(a) of the 1956 Act (films registered under former enactments relating to registration of films).
 
 (3)  Copyright in anonymous or pseudonymous literary, dramatic, musical or artistic works (other than photographs) continues to subsist–
 
@@ -172,11 +154,7 @@ unless, in any case, the identity of the author becomes known before that date, 
 
 (b) films not falling within sub-paragraph (2)(e) above,
 
-unless the recording or film is published before the end of that period in which case copyright in it shall continue until the end of the period of 50
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 years from the end of the calendar year in which the recording or film is published.
+unless the recording or film is published before the end of that period in which case copyright in it shall continue until the end of the period of 50 years from the end of the calendar year in which the recording or film is published.
 
 (6)  Copyright in any other description of existing work continues to subsist until the date on which copyright in that description of work expires in accordance with sections 15 to 19 of this Act.
 
@@ -198,11 +176,7 @@ Acts infringing copyright
 
 (5)  Section 71 (transfer of copies, adaptations, &c. of work in electronic form) does not apply in relation to a copy purchased before commencement.
 
-(6)  In section 80 (reconstruction of buildings) the reference to the owner of the copyright in the drawings or plans is, in relation to buildings constructed before commencement, to the person who at the time of the
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 construction was the owner of the copyright in the drawings or plans under the 1956 Act, the 1911 Act or any enactment repealed by the 1911 Act.
+(6)  In section 80 (reconstruction of buildings) the reference to the owner of the copyright in the drawings or plans is, in relation to buildings constructed before commencement, to the person who at the time of the construction was the owner of the copyright in the drawings or plans under the 1956 Act, the 1911 Act or any enactment repealed by the 1911 Act.
 
 14.(1)  Section 72 (anonymous or pseudonymous works: acts permitted on assumptions as to expiry of copyright or death of author) has effect in relation to existing works subject to the following provisions.
 
@@ -230,10 +204,6 @@ and subsection (9)(d) (illustrations) continues to apply for the purposes of tho
 
 (b) communicating the work to the public; or
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
-
 (c) doing any of the above in relation to an adaptation of the work;
 
 and where the right conferred by the 1911 Act consisted only of the sole right to perform the work in public, the acts restricted by the copyright shall be treated as consisting only of those acts.
@@ -256,9 +226,7 @@ Designs
 
 Moral rights
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 19.(1)  No act done before commencement is actionable by virtue of any provision of Chapter IV of Part I (moral rights).
+19.(1)  No act done before commencement is actionable by virtue of any provision of Chapter IV of Part I (moral rights).
 
 (2)  Section 43 of the 1956 Act (false attribution of authorship) continues to apply in relation to acts done before commencement.
 
@@ -290,9 +258,7 @@ Assignments and licences
 
 (b) creating, transferring or terminating an interest, right or licence in respect of the copyright in an existing work,
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 has the corresponding operation in relation to copyright in the work under this Act.
+has the corresponding operation in relation to copyright in the work under this Act.
 
 (2)  Expressions used in such a document shall be construed in accordance with their effect immediately before commencement.
 
@@ -318,10 +284,6 @@ Intellectual Property (Copyright and Related Rights)
 
 (a) any encyclopaedia, dictionary, yearbook, or similar work;
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
-
 (b) a newspaper, review, magazine, or similar periodical; and
 
 (c) any work written in distinct parts by different authors, or in which works or parts of works of different authors are incorporated.
@@ -344,9 +306,7 @@ Bequests
 
 27.(1)  Section 110 of this Act (copyright to pass under will with original document or other material thing embodying unpublished work)–
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 (a) does not apply where the testator died before 1st June 1960; and
+(a) does not apply where the testator died before 1st June 1960; and
 
 (b) where the testator died on or after that date and before commencement, applies only in relation to an original document embodying a work.
 
@@ -366,17 +326,13 @@ Remedies for infringement
 
 30.(1)  The provisions of section 128 of this Act (criminal liability for making or dealing with infringing articles) apply only in relation to acts done after commencement; section 21 of the 1956 Act (penalties and summary proceedings in respect of dealings which infringe copyright) continues to apply in relation to acts done before commencement.
 
-(2)  Section 130 of this Act (search warrants) applies in relation to offences committed before commencement in relation to which section 21A or 21B
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 of the 1956 Act applied; sections 21A and 21B continue to apply in relation to warrants issued before commencement.
+(2)  Section 130 of this Act (search warrants) applies in relation to offences committed before commencement in relation to which section 21A or 21B of the 1956 Act applied; sections 21A and 21B continue to apply in relation to warrants issued before commencement.
 
 Qualification for copyright protection
 
 31.  Every work in which copyright subsisted under the 1956 Act immediately before commencement shall be deemed to satisfy the requirements of Part I of this Act as to qualification for copyright protection.
 
-Gibraltarian ships,  aircraft and hovercraft
+Gibraltarian ships, aircraft and hovercraft
 
 32.  Section 171 (Gibraltarian ships, aircraft and hovercraft) does not apply in relation to anything done before commencement.
 
@@ -400,9 +356,7 @@ The question which provision applies to a work shall be determined by reference 
 
 (b) artistic works other than engravings or photographs;
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 (c) published engravings;
+(c) published engravings;
 
 (d) published photographs and photographs taken before 1st June 1960;
 
@@ -424,7 +378,7 @@ whichever is the later.
 
 (b) unpublished photographs taken on or after 1st June 1960.
 
-(5)  Copyright in a film or sound recording not falling within sub- paragraph (2) above continues to subsist until the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force, unless the film or recording is published before the end of that period, in which case copyright expires 50 years from the end of the calendar year in which it is published.
+(5)  Copyright in a film or sound recording not falling within sub-paragraph (2) above continues to subsist until the end of the period of 50 years from the end of the calendar year in which the new copyright provisions come into force, unless the film or recording is published before the end of that period, in which case copyright expires 50 years from the end of the calendar year in which it is published.
 
 (6)  Section 173 (copyright in Acts) applies to existing Acts.
 
@@ -432,9 +386,7 @@ Parliamentary copyright
 
 35.(1)  Section 174 of this Act (general provisions as to Parliamentary copyright) applies to existing unpublished literary, dramatic, musical or artistic works, but does not otherwise apply to existing works.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 (2)  Section 175 (copyright in Parliamentary Bills) does not apply to a Bill which was introduced into the Parliament and published before commencement.
+(2)  Section 175 (copyright in Parliamentary Bills) does not apply to a Bill which was introduced into the Parliament and published before commencement.
 
 Copyright vesting in certain international organisations
 
@@ -462,9 +414,7 @@ EU DIRECTIVES: COPYRIGHT AND RELATED RIGHTS – TRANSITIONAL PROVISIONS
 
 Introductory
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 39.(1)  For the purposes of this Part–
+39.(1)  For the purposes of this Part–
 
 (a) a work of which the making extended over a period shall be taken to have been made when its making was completed;
 
@@ -498,13 +448,11 @@ Saving for certain existing agreements
 
 42.  No act done after commencement in pursuance of any agreement made before commencement shall be regarded as an infringement of any new right.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 Satellite broadcasting: international co-production agreements
+Satellite broadcasting: international co-production agreements
 
 43.(1)  This paragraph applies to an agreement concluded before 1 January 1995–
 
-(a) between two or more co-producers of a film, one of whom is a Gibraltarian or a national of the United Kingdom or another EEA state; and
+(a) between two or more co-producers of a film, one of whom is a Gibraltarian or a national of the United Kingdom; and
 
 (b) the provisions of which grant to the parties exclusive rights to exploit all communication to the public of the film in separate geographical areas.
 
@@ -526,9 +474,7 @@ New rights: effect of pre-commencement of film production agreement
 
 As section 111 so applies, the restriction in subsection (3) of that section shall be omitted (exclusion of presumption in relation to screenplay, dialogue or music specifically created for the film).
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 (2)  Sections 112 and 224 (right to equitable remuneration where rental right transferred) have effect accordingly, but subject to paragraph 46.
+(2)  Sections 112 and 224 (right to equitable remuneration where rental right transferred) have effect accordingly, but subject to paragraph 46.
 
 Right to equitable remuneration applicable to rental
 
@@ -546,7 +492,7 @@ Savings for existing stocks
 
 Lending of copies by libraries or archives
 
-48. Until the making of regulations under section 46  for the purposes of section 50 (lending of copies by libraries or archives), the reference in section 50(2) to a prescribed library shall be construed as a reference to any library in Gibraltar prescribed by the Copyright (Libraries) Regulations.
+48. Until the making of regulations under section 46 for the purposes of section 50 (lending of copies by libraries or archives), the reference in section 50(2) to a prescribed library shall be construed as a reference to any library in Gibraltar prescribed by the Copyright (Libraries) Regulations.
 
 Authorship of films
 
@@ -554,9 +500,7 @@ Authorship of films
 
 Databases
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 50.(1)  No act done in respect of any database in which the maker of the database (or one or more of its makers) fell within one of the provisions of section 195(1) (a), (b) and (c) of this Act–
+50.(1)  No act done in respect of any database in which the maker of the database (or one or more of its makers) fell within one of the provisions of section 195(1) (a), (b) and (c) of this Act–
 
 (a) before 1 January 1998; or
 
@@ -588,11 +532,7 @@ copyright shall continue to subsist in the database for the remainder of its cop
 
 (b) either–
 
-(i) on  1 January 1998, the database was a database in which the maker of the database (or one or more of its makers)
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 fell within the provisions of section 195(1) (a), (b) and (c) of this Act; or
+(i) on  1 January 1998, the database was a database in which the maker of the database (or one or more of its makers)  fell within the provisions of section 195(1) (a), (b) and (c) of this Act; or
 
 (ii) on 1 November 2003, the database was a database in which the maker of the database (or one or more of its makers) fell within the provisions of sections 195(1) (d), (e) and (f) of this Act,
 
@@ -622,15 +562,13 @@ Duration of copyright: application of new copyright provisions
 
 55.  The provisions of this Act relating to duration of copyright apply–
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 (a) to copyright works made after commencement;
+(a) to copyright works made after commencement;
 
 (b) to existing works which first qualify for copyright protection after commencement;
 
 (c) to existing copyright works; and
 
-(d) to existing works in which copyright expired before 31 December 1995 but which were on 1 July 1995 protected in Gibraltar, the United Kingdom or another EEA state under legislation relating to copyright or related rights.
+(d) to existing works in which copyright expired before 31 December 1995 but which were on 1 July 1995 protected in Gibraltar, the United Kingdom or an EEA state under legislation relating to copyright or related rights.
 
 Ownership of extended copyright
 
@@ -652,15 +590,11 @@ Ownership of revived copyright
 
 Prospective ownership of extended or revived copyright
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
-
 58.(1)  Where by an agreement made before commencement in relation to extended or revived copyright, and signed by or on behalf of the prospective owner of the copyright, the prospective owner purports to assign the extended or revived copyright (wholly or partially) to another person, then if, on commencement the assignee or another person claiming under him would be entitled as against all other persons to require the copyright to be vested in him, the copyright shall vest in the assignee or his successor in title by virtue of this paragraph.
 
 (2)  A licence granted by a prospective owner of extended or revived copyright is binding on every successor in title to his interest (or prospective interest) in the right, except a purchaser in good faith for valuable consideration and without notice (actual or constructive) of the licence or a person deriving title from such a purchaser; and references in Part I of the Act to doing anything with, or without, the licence of the copyright owner shall be construed accordingly.
 
-(3)  In sub-paragraph (2) “prospective owner” includes a person who is prospectively entitled to extended or revived copyright by virtue of such an agreement as is mentioned in sub-paragraph (1).
+(3)  In sub-paragraph (2) “prospective owner” includes a person who is prospectively entitled to extended or revived copyright by virtue of such an agreement as is mentioned in sub- paragraph (1).
 
 Extended copyright: existing licences, agreements etc.
 
@@ -668,9 +602,7 @@ Extended copyright: existing licences, agreements etc.
 
 (a) subsists immediately before commencement in relation to an existing copyright work; and
 
-(b) is not to expire before the end of the copyright period under the provisions of the 1956 Act,
-
-shall continue to have effect during the period of any extended copyright, subject to any agreement to the contrary.
+(b) is not to expire before the end of the copyright period under the provisions of the 1956 Act, shall continue to have effect during the period of any extended copyright, subject to any agreement to the contrary.
 
 (2)  Any copyright licence, or term or condition relating to the exploitation of a copyright work, imposed by order of the Court which–
 
@@ -678,9 +610,7 @@ shall continue to have effect during the period of any extended copyright, subje
 
 (b) is not to expire before the end of the copyright period under the provisions of the 1956 Act,
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 shall continue to have effect during the period of any extended copyright, subject to any further order of the Court.
+shall continue to have effect during the period of any extended copyright, subject to any further order of the Court.
 
 Revived copyright: exercise of moral rights
 
@@ -706,10 +636,6 @@ Revived copyright: saving for acts of exploitation when work in public domain et
 
 (b) the copy or adaptation was made in pursuance of arrangements made before 1st July 1995 at a time when copyright did not subsist in the work in which revived copyright subsists.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
-
 (4)  It is not an infringement of revived copyright in a work to do after commencement anything which is a restricted act in relation to the work if the act is done at a time when, or is done in pursuance of arrangements made at a time when, the name and address of a person entitled to authorise the act cannot by reasonable inquiry be ascertained.
 
 (5)  In this paragraph “arrangements” means arrangements for the exploitation of the work in question.
@@ -734,38 +660,28 @@ Revived copyright: application to Court
 
 (2)  The Court shall consider the matter and make such order as it may determine to be reasonable in the circumstances.
 
-(3)  Either party may subsequently apply to the Court to vary the order, and the Court shall consider the matter and make such order confirming or
+(3)  Either party may subsequently apply to the Court to vary the order, and the Court shall consider the matter and make such order confirming or varying the original order as it may determine to be reasonable in the circumstances.
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 varying the original order as it may determine to be reasonable in the circumstances.
-
-(4)  An application under sub-paragraph (3) shall not, except with the special leave of the Court, be made within twelve months from the date of the original order or of the order on a previous application under that sub- paragraph.
+(4)  An application under sub-paragraph (3) shall not, except with the special leave of the Court, be made within twelve months from the date of the original order or of the order on a previous application under that sub-paragraph.
 
 (5) An order under sub-paragraph (3) has effect from the date on which it is made or such later date as may be specified by the Court.
 
 Construction of references to EEA states
 
-64.(1)  For the purpose of the new copyright provisions relating to the term of copyright protection applicable to a work of which the country of origin is not Gibraltar, the United Kingdom or another EEA state and of which the author is not a Gibraltarian or a national of the United Kingdom or another EEA state–
+64.(1)  For the purpose of the new copyright provisions relating to the term of copyright protection applicable to a work of which the country of origin is not Gibraltar, the United Kingdom or an EEA state and of which the author is not a Gibraltarian or a national of the United Kingdom or an EEA state–
 
-(a) a work first published before 1st July 1995 shall be treated as published in Gibraltar, the United Kingdom or another EEA state if it was on that date regarded under the law of Gibraltar, the United Kingdom or another EEA state as having been published in that country;
+(a) a work first published before 1st July 1995 shall be treated as published in Gibraltar, the United Kingdom or an EEA state if it was on that date regarded under the law of Gibraltar, the United Kingdom or an EEA state as having been published in that country;
 
-(b) an unpublished film made before 1st July 1995 shall be treated as originating in Gibraltar, the United Kingdom or another EEA state if it was on that date regarded under the law of Gibraltar, the United Kingdom or another EEA state as a film whose maker had his headquarters in, or was domiciled or resident in, that country; and
+(b) an unpublished film made before 1st July 1995 shall be treated as originating in Gibraltar, the United Kingdom or an EEA state if it was on that date regarded under the law of Gibraltar, the United Kingdom or an EEA state as a film whose maker had his headquarters in, or was domiciled or resident in, that country; and
 
-(c) the author of a work made before 1st July 1995 shall be treated as a Gibraltarian or a national of the United Kingdom or another EEA state if he was on that date regarded under the law of Gibraltar, the United Kingdom or another EEA state as a Gibraltarian or a national of the United Kingdom or another EEA state.
+(c) the author of a work made before 1st July 1995 shall be treated as a Gibraltarian or a national of the United Kingdom or an EEA state if he was on that date regarded under the law of Gibraltar, the United Kingdom or an EEA state as a Gibraltarian or a national of the United Kingdom or an EEA state.
 
-The references above to the law of Gibraltar, the United Kingdom or another EEA state are to the law of that country having effect for the purposes of rights corresponding to those provided for in Part I of this Act.
+The references above to the law of Gibraltar, the United Kingdom or an EEA state are to the law of that country having effect for the purposes of rights corresponding to those provided for in Part I of this Act.
 
 Performers’ moral rights
 
-Intellectual Property (Copyright and Related Rights)
-
-2005-22 65.  The rights conferred by Chapter IV of Part III do not apply in relation to a sound recording–
+65.  The rights conferred by Chapter IV of Part III do not apply in relation to a sound recording–
 
 (a) where the performer of that recording died before commencement;
 
 (b) where the performer’s property rights in that recording are no longer owned by the performer immediately prior to commencement, to anything done by or with the licence of the owner of those rights.
-
-Intellectual Property (Copyright and Related Rights)
-
-2005-22
