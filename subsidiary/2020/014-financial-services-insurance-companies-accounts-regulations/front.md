@@ -1,24 +1,30 @@
 Subsidiary Legislation made under ss.6(1), 64(3), 150(1), 620(1), 621(1) and 627.
 
-Financial Services (Insurance Companies: Accounts Directive) Regulations 2020
+Financial Services (Insurance Companies) (Accounts) Regulations 2021
 
 LN.2020/014
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2021/093 rr. 1(1), 3(1), 4(2), 8(2), (7), 12(1), (2)(a)-(b), (d)(i), (3), 13(1), (2)(b)(i), (iii)-(iv), (3), 14(3), 22(8), 23(5)(b), (7), 24(7), 25(2), 26, Sch.1, 3
+
+1.1.2021 2021/392 r. 3(1) 1.1.2021 2022/188 rr. 3(1), 3(11)(b), 3(13), 5(2)(b), 5(3), 7, 8(2), (3)(b), (4), 10, 12(2)(b)(ii), 13(2)(b)(ii), (iv), 26, Sch.1
+
+1.1.2021
 
 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
-1. Title and commencement. 2. Application 3. Interpretation. 4. Accounts to be kept in Gibraltar 5. Duty to prepare individual accounts. 6. Insurance Regulations accounts. 7. IAS accounts. 8. Duty to prepare group accounts. 9. Insurance Regulations group accounts. 10. IAS group accounts. 11. Consistency of accounts. 12. Exemption for parent companies included in accounts of larger group. 13. Exemption for parent companies included in non-EEA group accounts. 14. Subsidiary undertakings included in the consolidation. 15. Treatment of individual profit and loss account where group accounts prepared. 16. Disclosure required in notes to accounts:  related undertakings. 17. Disclosure required in notes to annual accounts: particulars of staff. 18. Additional disclosures required in notes to accounts:-  emoluments and other benefits of directors and others. 19. Duty to prepare directors’ reports. 20. Directors’ report: general requirements. 21. Directors’ report: business reviews. 22. Director’s report: corporate governance requirements. 23. Directors’ report: Non-financial information statement. 24. Contents of the non-financial information statement. 25. Financial instruments.
-
-26. Director’s duties. 27. Approval of accounts and delivery to the Registrar. 28. Auditors’ reports. 29. Offences. 30. Period allowed for delivering accounts and reports. 31. Delivery and publication of accounts in euros. 32. Requirements in connection with publication of accounts. 33. Revocation and saving.
+1. Title and commencement. 2. Application 3. Interpretation. 4. Accounts to be kept in Gibraltar 5. Duty to prepare individual accounts. 6. Insurance Regulations accounts. 7. IAS accounts. 8. Duty to prepare group accounts. 9. Insurance Regulations group accounts. 10. IAS group accounts. 11. Consistency of accounts. 12. Exemption for parent companies included in accounts of larger group. 13. Exemption for parent companies included in non-Gibraltar group accounts. 14. Subsidiary undertakings included in the consolidation. 15. Treatment of individual profit and loss account where group accounts prepared. 16. Disclosure required in notes to accounts:  related undertakings. 17. Disclosure required in notes to annual accounts: particulars of staff. 18. Additional disclosures required in notes to accounts:-  emoluments and other benefits of directors and others. 19. Duty to prepare directors’ reports. 20. Directors’ report: general requirements. 21. Directors’ report: business reviews. 22. Director’s report: corporate governance requirements. 23. Directors’ report: Non-financial information statement. 24. Contents of the non-financial information statement. 25. Financial instruments. 26. Director’s duties. 27. Approval of accounts and delivery to the Registrar. 28. Auditors’ reports. 29. Offences. 30. Period allowed for delivering accounts and reports. 31. Delivery and publication of accounts in euros. 32. Requirements in connection with publication of accounts. 33. Revocation and saving.
 
 SCHEDULE 1
 
-FORM AND CONTENT OF ACCOUNTS OF INSURANCE COMPANIES INDIVIDUAL ACCOUNTS
+FORM AND CONTENT OF ACCOUNTS OF INSURANCE COMPANIES
+
+INDIVIDUAL ACCOUNTS
 
 CHAPTER I GENERAL RULES AND FORMATS
 
@@ -36,9 +42,7 @@ Balance Sheet Format Notes on the Balance Sheet Format. Special rules for Balanc
 
 Profit and loss account format I. TECHNICAL ACCOUNT - GENERAL BUSINESS. II. TECHNICAL ACCOUNT - LONG TERM BUSINESS. III. NON-TECHNICAL ACCOUNT. Notes on the Profit and Loss Account Format
 
-CHAPTER II
-
-ACCOUNTING PRINCIPLES AND RULES
+CHAPTER II ACCOUNTING PRINCIPLES AND RULES
 
 SECTION A ACCOUNTING PRINCIPLES
 
@@ -46,7 +50,9 @@ SECTION A ACCOUNTING PRINCIPLES
 
 SECTION B CURRENT VALUE ACCOUNTING RULES
 
-24 to 25.  Valuation of assets:  general. 26. Alternative valuation of fixed-income securities. 27 to 28.  Meaning of “current value”. 29. Application of depreciation rules. 30. Additional information to be provided. 31. Revaluation reserve.
+24 to 25.  Valuation of assets:  general.
+
+26. Alternative valuation of fixed-income securities. 27 to 28.  Meaning of “current value”. 29. Application of depreciation rules. 30. Additional information to be provided. 31. Revaluation reserve.
 
 SECTION C FAIR VALUE ACCOUNTING
 
@@ -58,9 +64,7 @@ SECTION D HISTORICAL COST ACCOUNTING RULES Valuation of assets
 
 Miscellaneous and supplemental
 
-45. Excess of money owed over value received as an asset item.
-
-46. Assets included at a fixed amount. 47 to 48. Determination of cost. 49. Substitution of original amount where price or cost unknown.
+45. Excess of money owed over value received as an asset item. 46. Assets included at a fixed amount. 47 to 48. Determination of cost. 49. Substitution of original amount where price or cost unknown.
 
 SECTION E RULES FOR DETERMINING PROVISIONS
 
@@ -102,7 +106,9 @@ PART I COMPANIES NOT REQUIRED TO PREPARE GROUP ACCOUNTS
 
 PART II COMPANIES REQUIRED TO PREPARE GROUP ACCOUNTS
 
-13. Introductory. 14. Subsidiary undertakings. 15. Holdings in subsidiary undertakings. 16. Financial information about subsidiary undertakings not included in the consolidation. 17. Shares and debentures of company held by subsidiary undertakings 18. Joint ventures. 19. Associated undertakings. 20 to 25.  Other significant holdings of parent company or group. 26. Membership of certain undertakings. 27. Parent undertaking drawing up accounts for larger group. 28. Identification of ultimate parent company. 29. Construction of references to shares held by parent company or group.
+13. Introductory. 14. Subsidiary undertakings. 15. Holdings in subsidiary undertakings. 16. Financial information about subsidiary undertakings not included in the consolidation. 17. Shares and debentures of company held by subsidiary undertakings 18. Joint ventures. 19. Associated undertakings. 20 to 25.  Other significant holdings of parent company or group. 26. Membership of certain undertakings. 27. Parent undertaking drawing up accounts for larger group. 28. Identification of ultimate parent company.
+
+29. Construction of references to shares held by parent company or group.
 
 SCHEDULE 4 DISCLOSURE OF INFORMATION - EMOLUMENTS AND OTHER BENEFITS OF DIRECTORS AND OTHERS
 
@@ -110,7 +116,7 @@ In exercise of the powers conferred upon the Minister under section 6(1), 64(3),
 
 Title and commencement.
 
-1.(1)  These regulations may be cited as the Financial Services (Insurance Companies: Accounts Directive) Regulations 2020.
+1.(1)  These regulations may be cited as the Financial Services (Insurance Companies) (Accounts) Regulations 2021.
 
 (2) These Regulations come into operation on the day of publication.
 
@@ -148,8 +154,6 @@ Interpretation.
 
 “insurance undertaking” means an insurance undertaking as defined under regulation 3(1) of the Financial Services (Insurance Companies) Regulations 2020;
 
-“international accounting standards” means the international accounting standards, within the meaning of the IAS Regulation, adopted from time to time by the European Commission in accordance with the Regulation;
-
 “investment property” means land held to earn rent or for capital appreciation;
 
 “lease” includes an agreement for a lease;
@@ -162,7 +166,7 @@ Interpretation.
 
 “participating interest” means a participating interest as defined in section 278 of the Companies Act 2014;
 
-“profit and loss account” in relation to a company that prepares IAS accounts, includes an income statement or other equivalent financial statement required to be prepared by international accounting standards;
+“profit and loss account” in relation to a company that prepares IAS accounts, includes an income statement or other equivalent financial statement required to be prepared by UK-adopted international accounting standards;
 
 “provision for unexpired risks” means the amount set aside in addition to unearned premiums in respect of risks to be borne by the company after the end of the financial year, in order to provide for all claims and expenses in connection with insurance contracts in force in excess of the related unearned premiums and any premiums receivable on those contracts;
 
@@ -175,6 +179,8 @@ Interpretation.
 “short lease” means a lease which is not a long lease;
 
 “subsidiary undertaking” means a subsidiary undertaking as defined under section 276 of the Companies Act 2014;
+
+“UK-adopted international accounting standards” has the meaning given in section 237 of the Companies Act 2014;
 
 “undertaking” means an undertaking as defined under section 277 of the Companies Act 2014.
 
@@ -228,17 +234,17 @@ Interpretation.
 
 (a) in the case of Insurance Regulations accounts, to the requirement under regulation 6 to give a true and fair view;
 
-(b) in the case of IAS accounts, to the requirement under international accounting standards that such accounts achieve a fair presentation.
+(b) in the case of IAS accounts, to the requirement under UK-adopted international accounting standards that such accounts achieve a fair presentation.
 
 (12)  Information required by these Regulations to be given in notes on the accounts may be contained in the accounts or in a separate document annexed to the accounts.
 
-(13)  References in these Regulations to a company’s accounts, or to a balance sheet or profit and loss account, include notes to the accounts giving information which is required by any provision of these Regulations or international accounting standards, and required or allowed by any such provision to be given in a note to company accounts.
+(13)  References in these Regulations to a company’s accounts, or to a balance sheet or profit and loss account, include notes to the accounts giving information which is required by any provision of these Regulations or UK-adopted international accounting standards, and required or allowed by any such provision to be given in a note to company accounts.
 
 Accounts to be kept in Gibraltar.
 
 4.(1)  An insurance undertaking or reinsurance undertaking that has its head office in Gibraltar must maintain in Gibraltar proper accounts and records in respect of its entire business.
 
-(2)  An insurer undertaking or reinsurance undertaking – (a) whose head office is not in an EEA State; and (b) which is not a Swiss general insurance company, must keep in Gibraltar proper accounts and records in respect of the business carried on in Gibraltar.
+(2)  An insurance undertaking or reinsurance undertaking – (a) whose head office is not in Gibraltar; and (b) which is not a Swiss general insurance company, must keep in Gibraltar proper accounts and records in respect of the business carried on in Gibraltar.
 
 Duty to prepare individual accounts.
 
@@ -250,11 +256,11 @@ Those accounts are referred to in these Regulations as the company’s “indivi
 
 (a) in accordance with regulation 6 (“Insurance Regulations accounts”); or
 
-(b) in accordance with international accounting standards (“IAS accounts”).
+(b) in accordance with UK-adopted international accounting standards (“IAS accounts”).
 
 This sub-regulation is subject to the following provisions of this regulation and regulation 12 (consistency of accounts).
 
-(3)  After the first financial year in which the directors of a company prepare IAS accounts (the “first IAS year”), all subsequent individual accounts of the company must be prepared in accordance with international accounting standards unless there is a relevant change of circumstance.
+(3)  After the first financial year in which the directors of a company prepare IAS accounts (the “first IAS year”), all subsequent individual accounts of the company must be prepared in accordance with UK-adopted international accounting standards unless there is a relevant change of circumstance.
 
 (4)  There is a relevant change of circumstance if, at any time during or after the first IAS year
 
@@ -292,7 +298,7 @@ and these documents together must constitute a composite whole.
 
 IAS accounts.
 
-7.  Where the directors of a company prepare IAS accounts, they must state in the notes to those accounts that the accounts have been prepared in accordance with international accounting standards.
+7.  Where the directors of a company prepare IAS accounts, they must state in the notes to those accounts that the accounts have been prepared in accordance with UK-adopted international accounting standards.
 
 Duty to prepare group accounts.
 
@@ -300,17 +306,17 @@ Duty to prepare group accounts.
 
 Those accounts are referred to in these Regulations as the company’s “group accounts”.
 
-(2)  The group accounts of certain parent companies are required by Article 4 of the IAS Regulation to be prepared in accordance with international accounting standards (“IAS group accounts”).
+(2)  The group accounts of a parent company whose securities are, on its balance sheet, admitted to trading on a regulated market must be prepared in accordance with UK-adopted international accounting standards (“IAS group accounts”).
 
 (3)  The group accounts of other companies may be prepared
 
 (a) in accordance with regulation 9 (“Insurance Regulations group accounts”); or
 
-(b) in accordance with international accounting standards (“IAS group accounts”).
+(b) in accordance with UK-adopted international accounting standards (“IAS group accounts”).
 
 This sub-regulation is subject to the following provisions of this regulation.
 
-(4)  After the first financial year in which the directors of a parent company prepare IAS group accounts (“the first IAS year”), all subsequent group accounts of the company must be prepared in accordance with international accounting standards unless there is a relevant change of circumstance.
+(4)  After the first financial year in which the directors of a parent company prepare IAS group accounts (“the first IAS year”), all subsequent group accounts of the company must be prepared in accordance with UK-adopted international accounting standards unless there is a relevant change of circumstance.
 
 (5)  There is a relevant change of circumstance if, at any time during or after the first IAS year
 
@@ -322,7 +328,7 @@ This sub-regulation is subject to the following provisions of this regulation.
 
 (6)  If, having changed to preparing Insurance Regulations group accounts following a relevant change of circumstance, the directors again prepare IAS group accounts for the company, sub-regulations (4) and (5) apply again as if the first financial year for which such accounts are again prepared were the first IAS year.
 
-(7)  This regulation is subject to the exemptions provided by regulations 12 (exemption for parent companies included in accounts of larger group), 13 (parent companies included in non-EEA group accounts) and 14(5) (all subsidiary undertakings excluded from consolidation).
+(7)  This regulation is subject to the exemptions provided by regulations 12 (exemption for parent companies included in accounts of larger group), 13 (parent companies included in non-Gibraltar group accounts) and 14(5) (all subsidiary undertakings excluded from consolidation).
 
 Insurance Regulations group accounts.
 
@@ -354,7 +360,7 @@ and these documents together must constitute a composite whole.
 
 IAS group accounts.
 
-10.  Where the directors of a parent company prepare IAS group accounts, they must state in the notes to those accounts that the accounts have been prepared in accordance with international accounting standards.
+10.  Where the directors of a parent company prepare IAS group accounts, they must state in the notes to those accounts that the accounts have been prepared in accordance with UK- adopted international accounting standards.
 
 Consistency of accounts.
 
@@ -362,7 +368,9 @@ Consistency of accounts.
 
 (a) the parent company; and
 
-(b) each of its subsidiary undertakings, are all prepared using the same financial reporting framework, except to the extent that in their opinion there are good reasons for not doing so.
+(b) each of its subsidiary undertakings,
+
+are all prepared using the same financial reporting framework, except to the extent that in their opinion there are good reasons for not doing so.
 
 (2)  Sub-regulation (1) does not apply if the directors do not prepare group accounts for the parent company.
 
@@ -372,7 +380,7 @@ Consistency of accounts.
 
 Exemption for parent companies included in accounts of larger group.
 
-12.(1)  A company is exempt from the requirement to prepare group accounts if it is itself a subsidiary undertaking and its immediate parent undertaking is established under the law of Gibraltar or a member State of the European Economic Area, in the following cases—
+12.(1)  A company is exempt from the requirement to prepare group accounts if it is itself a subsidiary undertaking and its immediate parent undertaking is established under the law of Gibraltar, in the following cases—
 
 (a) where the company is a wholly-owned subsidiary of that parent undertaking;
 
@@ -384,15 +392,19 @@ That notice must be served at least 6 months before the end of the financial yea
 
 (2)  Exemption is conditional upon compliance with all of the following conditions —
 
-(a) that the company and all of its subsidiary undertakings are included in consolidated accounts for a larger group drawn up to the same date, or to an earlier date in the same financial year, by a parent undertaking established under the law of Gibraltar or a member State of the European Economic Area;
+(a) that the company and all of its subsidiary undertakings are included in consolidated accounts for a larger group drawn up to the same date, or to an earlier date in the same financial year, by a parent undertaking established under the law of Gibraltar;
 
-(b) that those accounts are drawn up and audited, and that parent undertaking’s annual report is drawn up, according to that law, in accordance with the provisions of the Accounting Directive or in accordance with international accounting standards;
+(b) that those accounts are drawn up and audited, and that parent undertaking’s annual report is drawn up–
+
+(i) if the undertaking is a company, in accordance with the requirements of these Regulations, or, if the undertaking is not a company, the legal requirements which apply to the drawing up of consolidated accounts for that undertaking; or
+
+(ii) in accordance with UK-adopted international accounting standards;
 
 (c) that the company discloses in the notes to its individual accounts that it is exempt from the obligation to prepare and deliver group accounts;
 
 (d) that the company states in the notes to its individual accounts the name of the parent undertaking which draws up the group accounts referred to above and —
 
-(i) the address of the undertaking’s registered office (whether in or outside Gibraltar); and
+(i) the address of the undertaking’s registered office; or
 
 (ii) if it is unincorporated, the address of its principal place of business;
 
@@ -400,7 +412,7 @@ That notice must be served at least 6 months before the end of the financial yea
 
 (f) that if any document comprised in accounts and reports delivered in accordance with paragraph (e) is in a language other than English, there is annexed to the copy of that document delivered a translation of it into English, certified in accordance with rule 5 of the Companies Rules to be a correct translation.
 
-(3)  The exemption does not apply to a company any of whose securities are admitted to trading on a regulated market where that regulated market is in Gibraltar or an EEA State.
+(3)  The exemption does not apply to a company any of whose securities are admitted to trading on a regulated market where that regulated market is in Gibraltar.
 
 (4)  Shares held by directors of a company for the purpose of complying with any share qualification requirement will be disregarded in determining for the purposes of sub- regulation (1)(a) whether the company is a wholly-owned  subsidiary.
 
@@ -422,9 +434,9 @@ That notice must be served at least 6 months before the end of the financial yea
 
 (iii) a contractual right (other than an option) to acquire any such security otherwise than by subscription.
 
-Exemption for parent companies included in non-EEA group accounts.
+Exemption for parent companies included in non-Gibraltar group accounts.
 
-13.(1)  A company is exempt from the requirement to prepare group accounts if it is itself a subsidiary undertaking and its parent undertaking is not established under the law of Gibraltar or an EEA State, in the following cases
+13.(1)  A company is exempt from the requirement to prepare group accounts if it is itself a subsidiary undertaking and its parent undertaking is not established under the law of Gibraltar, in the following cases
 
 (a) where the company is a wholly-owned subsidiary of that parent undertaking;
 
@@ -440,13 +452,13 @@ Such notice must be served at least 6 months before the end of the financial yea
 
 (b) that those accounts and, where appropriate, the group’s annual report, are drawn up–
 
-(i) in accordance with the provisions of the Accounting Directive;
+(i) Omitted
 
-(ii) in accordance with international accounting standards;
+(ii) in accordance with UK-adopted international accounting standards;
 
-(iii) in a manner equivalent to consolidated accounts and consolidated annual reports so drawn up; or
+(iii) in a manner equivalent to consolidated accounts and consolidated annual reports so drawn up in accordance with the requirements of these Regulations; or
 
-(iv) in a manner equivalent to international accounting standards as determined in accordance with Commission Regulation (EC) No 1569/2007 of 21 December establishing a mechanism for the determination of equivalence of accounting standards applied by third country issuers of securities pursuant to the EU Prospectus Regulation and the Transparency Directive;
+(iv) in a manner equivalent to UK-adopted international accounting standards;
 
 (c) that the consolidated accounts are audited by one or more persons authorised to audit accounts under the law under which the parent undertaking which draws them up is established;
 
@@ -462,7 +474,7 @@ Such notice must be served at least 6 months before the end of the financial yea
 
 (g) that if any document comprised in accounts and reports delivered in accordance with paragraph (f) is in a language other than English, there is annexed to the copy of that document delivered a translation of it into English, certified to be a correct translation.
 
-(3)  The exemption does not apply to a company any of whose securities are admitted to trading on a regulated market where that regulated market is in Gibraltar or an EEA State.
+(3)  The exemption does not apply to a company any of whose securities are admitted to trading on a regulated market where that regulated market is in Gibraltar.
 
 (4)  Shares held by directors of a company for the purpose of complying with any share qualification requirement are disregarded in determining for the purposes of sub-regulation (1)(a) whether the company is a wholly-owned subsidiary.
 
@@ -498,7 +510,7 @@ Subsidiary undertakings included in the consolidation.
 
 (c) the interest of the parent company is held exclusively with a view to subsequent resale,
 
-the reference in paragraph (a) to the rights of the parent company and the reference in paragraph (c) to the interest of the parent company are, respectively, to rights and interests held by or attributed to the company for the purposes of Article 22(1) of the Accounting Directive in the absence of which it would not be the parent company.
+the reference in paragraph (a) to the rights of the parent company and the reference in paragraph (c) to the interest of the parent company are, respectively, to rights and interests held by or attributed to the company for the purposes of the definition of “parent undertaking” (within the meaning of section 276 of the Companies Act 2014) in the absence of which it would not be the parent company.
 
 (4)  A parent company is exempt from the requirement to prepare group accounts if under sub-regulation (2) or (3) all of its subsidiary undertakings could be excluded from consolidation in Insurance Regulations group accounts.
 
@@ -688,7 +700,7 @@ Director’s report: corporate governance requirements.
 
 (7)  Companies which have only issued securities other than shares admitted to trading on a regulated market, may choose not to apply the provisions of sub-regulations (1) to (3), (4)(c), (4)(d) and (4)(e), unless such companies have issued shares which are traded in a multilateral trading facility,.
 
-(8)  Despite Article 40 of the Accounting Directive, subsection (4)(e) does not apply to small and medium sized companies.
+(8)  , subsection (4)(e) does not apply to small and medium sized companies.
 
 Directors’ report: Non-financial information statement.
 
@@ -716,9 +728,9 @@ Directors’ report: Non-financial information statement.
 
 (5)  Sub-regulations (1) and (2) do not apply if the company is a subsidiary company at the end of that financial year and is included in-
 
-(a) a directors’ group report of a parent company of the company that satisfies the requirements in sub-regulation (6); or
+(a) a directors’ group report of a parent company of the company that satisfies the requirements in sub-regulation (6)
 
-(b) a report that satisfies the requirements in sub-regulation (7).
+(b) Omitted.
 
 (6)  The requirements in this sub-regulation are that-
 
@@ -728,19 +740,7 @@ Directors’ report: Non-financial information statement.
 
 (c) the report includes a group non-financial information statement in respect of all the companies included in the consolidation.
 
-(7)  The requirements in this sub-regulation are that-
-
-(a) the report is-
-
-(i) a consolidated management report under article 29 of the Accounting Directive; or
-
-(ii) such separate report as is referred to in article 19a(3) or article 29a(3) the Accounting Directive;
-
-(b) the report is the report of a parent company of the company established under the law of  a Member State;
-
-(c) the report relates to companies that include the company and its subsidiary companies, if any; and
-
-(d) the report includes such information as is required by article 19a (non-financial statement) or article 29a (consolidated non-financial statement) of the Accounting Directive, as the case may be.
+(7)  Omitted.
 
 (8)  A company to which sub-regulations (1) and (2) do not apply may include a non- financial information statement in its directors’ report or, as the case may be, a group non- financial information statement in its group directors’ report.
 
@@ -788,7 +788,7 @@ Contents of the non-financial information statement.
 
 (6)  The non-financial information statement must, where appropriate, include references to, and additional explanations of, amounts included in the company’s annual accounts.
 
-(7)  If information required by sub-regulation (1) to (6) to be included in the non-financial information statement is published by the company by means of a national, EU-based or international reporting framework, the non-financial information statement must specify the framework or frameworks used, instead of including that information.
+(7)  If information required by sub-regulation (1) to (6) to be included in the non-financial information statement is published by the company by means of a national, or international reporting framework, the non-financial information statement must specify the framework or frameworks used, instead of including that information.
 
 (8)  If a non-financial information statement complies with sub-regulation (1) to (7), the directors’ report of which it is part is to be treated as complying with the requirements in-
 
@@ -810,11 +810,11 @@ Financial instruments.
 
 unless such information is not material for the assessment of the assets, liabilities, financial position and profit or loss of the company and its subsidiary undertakings included in the consolidation.
 
-(2)  In sub-regulation (1) the expressions “hedge accounting”, “price risk”, “credit risk”, “liquidity risk” and “cash flow risk” have the same meaning as they have in the Accounting Directive, as amended.
+(2)  In sub-regulation (1) the expressions “hedge accounting”, “price risk”, “credit risk”, “liquidity risk” and “cash flow risk” have the same meaning as they have in the Accounting Directive.
 
 Director’s duties.
 
-26.  The directors of a company have collectively the duty to ensure that the annual accounts, the directors’ report, the group directors’ report and, where applicable the non-financial information statement or group non-financial information statement and, when provided separately, the corporate governance statement to be provided pursuant to regulation 22 are drawn up and filed with the Registrar or made available to the public in accordance with the requirements of these Regulations, and, where applicable, in accordance with the international accounting standards adopted in accordance with the IAS Regulation.
+26.  The directors of a company have collectively the duty to ensure that the annual accounts, the directors’ report, the group directors’ report and, where applicable the non-financial information statement or group non-financial information statement and, when provided separately, the corporate governance statement to be provided pursuant to regulation 22 are drawn up and filed with the Registrar or made available to the public in accordance with the requirements of these Regulations, and, where applicable, in accordance with the UK- adopted international accounting standards.
 
 Approval of accounts and delivery to the Registrar.
 

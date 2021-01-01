@@ -206,9 +206,9 @@ Subsidiary undertakings.
 
 (2)  It must also be stated whether the subsidiary undertaking is included in the consolidation and, if it is not, the reasons for excluding it from consolidation must be given.
 
-(3)  It must be stated with respect to each subsidiary undertaking by virtue of which of the conditions specified in Article 22 of the Accounting Directive it is a subsidiary undertaking of its immediate parent undertaking.
+(3)  It must be stated with respect to each subsidiary undertaking by virtue of which of the conditions specified in Section 276 of the Companies Act 2014 it is a subsidiary undertaking of its immediate parent undertaking.
 
-That information need not be given if the relevant condition is that specified in Article 22(1) (a) of the Accounting Directive (holding of a majority of the voting rights) and the immediate parent undertaking holds the same proportion of the shares in the undertaking as it holds voting rights.
+That information need not be given if the relevant condition is that specified in Section 276 (2)(a) of the Companies Act 2014 (holding of a majority of the voting rights) and the immediate parent undertaking holds the same proportion of the shares in the undertaking as it holds voting rights.
 
 Holdings in subsidiary undertakings.
 

@@ -26,7 +26,9 @@ Without limiting the application of sections 246 and 248 of, and Schedule 16 to,
 
 (c) contributions paid in respect of him under any pension scheme; and
 
-(d) the estimated money value of any benefits received by him otherwise than in cash, and emoluments in respect of a person’s accepting office as director will be treated as emoluments in respect of his services as director.
+(d) the estimated money value of any benefits received by him otherwise than in cash,
+
+and emoluments in respect of a person’s accepting office as director will be treated as emoluments in respect of his services as director.
 
 5.  The total amount of directors’ or past directors’ retirement pensions must be shown, and the amount so shown must distinguish between retirement pensions in respect of services as director, whether of the company or any of its subsidiary undertakings, and other pensions.
 
