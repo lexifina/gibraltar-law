@@ -27,7 +27,3 @@ Article 13(1), (2) Control of use and (3)
 Article 14(1) and (2) Pre-charging of equipment with hydrofluorocarbons
 
 Article 15(1) and (3) Reduction of the quantity of hydrofluorocarbons placed on the market
-
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13

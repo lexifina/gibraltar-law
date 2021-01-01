@@ -1,10 +1,10 @@
 ANNEX VI
 
-ALLOCATION  MECHANISM REFERRED TO IN ARTICLE 16
+ALLOCATION MECHANISM REFERRED TO IN ARTICLE 16
 
 1.Determination of the quantity to be allocated to undertakings for which a reference value has been established under Article 16(1) and (3)
 
-Each undertaking for which a reference value has been established receives a quota corresponding to 89 % of the reference value multiplied by the percentage indicated in Annex V for the respective year. 2.Determination of the quantity to be allocated to undertakings that have submitted a declaration under Article 16(2) The sum of the quotas allocated under point 1 is subtracted from the maximum quantity for the given year set out in Annex V to determine the quantity to be allocated to  undertakings for which no reference value has been established and which have submitted a declaration under Article 16(2) (quantity to be allocated in step 1 of the calculation).
+Each undertaking for which a reference value has been established receives a quota corresponding to 89 % of the reference value multiplied by the percentage indicated in Annex V for the respective year. 2.Determination of the quantity to be allocated to undertakings that have submitted a declaration under Article 16(2) The sum of the quotas allocated under point 1 is subtracted from the maximum quantity for the given year set out in Annex V to determine the quantity to be allocated to undertakings for which no reference value has been established and which have submitted a declaration under Article 16(2) (quantity to be allocated in step 1 of the calculation).
 
 2.1. Step 1 of the calculation
 
@@ -20,11 +20,9 @@ The pro-rata share is calculated by dividing 100 by the number of undertakings e
 
 2.3. Step 3 of the calculation
 
-Environmental Protection (Controls on Ozone-Depleting Substances)
+Step 2 is repeated until all requests are satisfied or the remaining quantity to be allocated in the next phase is less than 500 tonnes of CO2 equivalent.
 
-2014-13 Step 2 is repeated until all requests are satisfied or the remaining quantity to be allocated in the next phase is less than 500 tonnes of CO2 equivalent.
-
-3. Determination of the quantity to be allocated to undertakings that have submitted a declaration under Article 16(4) For the allocation of quotas for 2015 to 2017 the sum of the quotas allocated under points 1 and 2 is subtracted from the maximum quantity for the given year set out in Annex V to determine the quantity to be allocated to undertakings for which a reference value has  been  established and that have submitted a declaration under Article 16(4).
+3. Determination of the quantity to be allocated to undertakings that have submitted a declaration under Article 16(4) For the allocation of quotas for 2015 to 2017 the sum of the quotas allocated under points 1 and 2 is subtracted from the maximum quantity for the given year set out in Annex V to determine the quantity to be allocated to undertakings for which a reference value has been established and that have submitted a declaration under Article 16(4).
 
 The allocation mechanism set out under points 2.1 and 2.2 applies.
 

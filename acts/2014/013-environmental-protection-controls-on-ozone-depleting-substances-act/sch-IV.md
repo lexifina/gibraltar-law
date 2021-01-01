@@ -4,7 +4,7 @@ METHOD OF CALCULATING THE TOTAL GWP OF A MIXTURE
 
 The GWP of a mixture is calculated as a weighted average, derived from the sum of the weight fractions of the individual substances multiplied by their GWP, unless otherwise specified, including substances that are not fluorinated greenhouse gases.
 
-Σ ðSubstance X % Ü GWPÞ þ ðSubstance Y% Ü GWPÞ þ ðSubstance N % Ü GWPÞ, where %  is the contribution by weight with a weight tolerance of +/– 1 %.
+Σ ðSubstance X % Ü GWPÞ þ ðSubstance Y% Ü GWPÞ þ ðSubstance N % Ü GWPÞ, where % is the contribution by weight with a weight tolerance of +/– 1 %.
 
 For example: applying the formula to a blend of gases consisting of 60% dimethyl ether, 10 % HFC-152a and 30% isobutane:
 
@@ -14,13 +14,9 @@ For example: applying the formula to a blend of gases consisting of 60% dimethyl
 
 The GWP of the following non-fluorinated substances are used to calculate the GWP of mixtures. For other substances not listed in this annex a default value of 0 applies.
 
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13
-
 Substance
 
-GWP (1) Common name Industrial designation Chemical Formula methane nitrous  oxide dimethyl  ether methylene chloride methyl  chloride chloroform ethane propane butane isobutane pentane isopentane ethoxyethane (diethyl ether)
+GWP (1) Common name Industrial designation Chemical Formula methane nitrous oxide dimethyl ether methylene chloride methyl chloride chloroform ethane propane butane isobutane pentane isopentane ethoxyethane (diethyl ether)
 
 methyl formate hydrogen ammonia ethylene propylene cyclopentane
 
@@ -101,7 +97,3 @@ C2H4 25
 6
 
 0 (1) Based on the Fourth Assessment Report adopted by the Intergovernmental Panel on Climate Change, unless otherwise indicated. (2) Substance not listed in the Fourth Assessment Report adopted by the Intergovernmental Panel on Climate Change, default value on the basis of the GWPs of other hydrocarbons.
-
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13

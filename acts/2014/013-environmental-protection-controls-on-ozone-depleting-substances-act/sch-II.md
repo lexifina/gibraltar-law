@@ -1,18 +1,6 @@
 ANNEX II
 
-OTHER FLUORINATED  GREENHOUSE GASE  SUBJECT TO REPORTING IN ACCORDANCE WITH ARTICLE 19
-
-HFC-245ca
-
-1,1,2,2,3- pentafluoropropane
-
-CH2FCF2CHF2
-
-693 HFC-245fa 1,1,1,3,3- pentafluoropropane CHF2CH2CF3 1 030
-
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13
+OTHER FLUORINATED GREENHOUSE GASE SUBJECT TO REPORTING IN ACCORDANCE WITH ARTICLE 19
 
 Substance
 
@@ -80,7 +68,13 @@ HFE-245cb2
 
 CH3OCF2CF3
 
-708 HFE-245fa2 CHF2OCH2C F3 659
+708
+
+HFE-245fa2
+
+CHF2OCH2C F3
+
+659
 
 HFE-254cb2
 
@@ -112,10 +106,6 @@ C4F9OCH3
 
 297
 
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13
-
 HFE-569sf2 (HFE-7200)
 
 C4F9OC2H5
@@ -142,7 +132,13 @@ HFE-338pcc13 (HG-01)
 
 CHF2OCF2CF2OCHF 2
 
-1 500 HFE-347mmy1 (CF3)2CFOCH3 343
+1 500
+
+HFE-347mmy1
+
+(CF3)2CFOCH3
+
+343
 
 2,2,3,3,3-pentafluoropropanol
 
@@ -190,7 +186,13 @@ HFE-329 mcc2
 
 CHF2CF2OCF2CF3
 
-919 HFE-338 mcf2 CF3CH2OCF2CF3 552
+919
+
+HFE-338 mcf2
+
+CF3CH2OCF2CF3
+
+552
 
 HFE-338mmz1
 
@@ -208,11 +210,13 @@ HFE-356 mec3
 
 CH3OCF2CHFCF3
 
-101 HFE-356mm1 (CF3)2CHOCH3 27
+101
 
-Environmental Protection (Controls on Ozone-Depleting Substances)
+HFE-356mm1
 
-2014-13
+(CF3)2CHOCH3
+
+27
 
 HFE-356pcf2 CHF2CH2OCF2CH F2 265
 
@@ -230,7 +234,13 @@ CF3CF2CH2OCH3
 
 Substance
 
-GWP (1) Common name/industrial designation Chemical formula HFE-374pc2 CHF2CF2OCH2CH3 557
+GWP (1) Common name/industrial designation Chemical formula
+
+HFE-374pc2
+
+CHF2CF2OCH2CH3
+
+557
 
 - (CF2)4CH (OH)-
 
@@ -256,4 +266,10 @@ perfluorocyclopropane
 
 c-C3F6
 
-17 340 Fn (4) (1) Based on the Fourth Assessment Report adopted by the Intergovernmental Panel on Climate Change, unless otherwise indicated. (2) GWP according to the Report of the 2010 Assessment of the Scientific Assessment  Panel (SAP) of the Montreal Protocol, Tables 1-11, citing two peer-reviewed scientific references. http://ozone.unep.org/Assessment_Panels/SAP/Scientific_Assessment_2010 /index.shtml (3) Default value, global warming potential not yet available. (4) Minimum value according to the Fourth Assessment Report adopted by the Intergovernmental Panel on Climate Change.
+17 340 Fn (4) (1) Based on the Fourth Assessment Report adopted by the Intergovernmental Panel on Climate Change, unless otherwise indicated.
+
+(2) GWP according to the Report of the 2010 Assessment of the Scientific Assessment Panel (SAP) of the Montreal Protocol, Tables 1-11, citing two peer-reviewed scientific references. http://ozone.unep.org/Assessment_Panels/SAP/Scientific_Assessment_2010/index.shtml
+
+(3) Default value, global warming potential not yet available.
+
+(4) Minimum value according to the Fourth Assessment Report adopted by the Intergovernmental Panel on Climate Change.

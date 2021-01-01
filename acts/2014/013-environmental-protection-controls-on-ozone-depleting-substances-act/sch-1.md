@@ -30,14 +30,6 @@ Meaning of “offshore installation”
 
 (b) “gas” means–
 
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13
-
 (i) any substance which is gaseous at a temperature of 15oC and a pressure of 101.325 kPa (1013.25 mb); or
 
 (ii) carbon dioxide.
-
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13

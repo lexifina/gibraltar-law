@@ -6,13 +6,9 @@ Products and equipment Where relevant, the GWP of mixtures containing fluorinate
 
 Date of prohibition
 
-1.  Non-refillable containers for fluorinated greenhouse gases used to  service, maintain or  fill refrigeration, air-conditioning or heat-pump equipment, fire protection systems or switchgear, or for use as solvents
+1.  Non-refillable containers for fluorinated greenhouse gases used to service, maintain or fill refrigeration, air-conditioning or heat-pump equipment, fire protection systems or switchgear, or for use as solvents
 
 4 July 2007
-
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13
 
 2.  Non-confined direct evaporation systems that contain HFCs and PFCs as refrigerants
 
@@ -22,7 +18,15 @@ Environmental Protection (Controls on Ozone-Depleting Substances)
 
 that contain PFCs
 
-4 July 2007 that contain HFC-23 1 January 2016 4.  Windows for domestic use that contain fluorinated greenhouse gases 4 July 2007
+4 July 2007
+
+that contain HFC-23
+
+1 January 2016
+
+4.  Windows for domestic use that contain fluorinated greenhouse gases
+
+4 July 2007
 
 5.  Other windows that contain fluorinated greenhouse gases
 
@@ -56,7 +60,7 @@ that contain HFCs with GWP of 2 500 or more
 
 1 January 2022
 
-12.  Stationary refrigeration equipment, that contains, or  whose functioning relies upon, HFCs with GWP of 2 500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C
+12.  Stationary refrigeration equipment, that contains, or whose functioning relies upon, HFCs with GWP of 2 500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C
 
 1 January 2020
 
@@ -64,9 +68,7 @@ that contain HFCs with GWP of 2 500 or more
 
 1 January 2022
 
-Environmental Protection (Controls on Ozone-Depleting Substances)
-
-2014-13 Products and equipment Where relevant, the GWP of mixtures containing fluorinated greenhouse gases shall be calculated in accordance with Annex IV, as provided for in point 6 of Article 2
+Products and equipment Where relevant, the GWP of mixtures containing fluorinated greenhouse gases shall be calculated in accordance with Annex IV, as provided for in point 6 of Article 2
 
 Date of prohibition
 
