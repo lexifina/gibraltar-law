@@ -10,7 +10,9 @@ Act. No. 1960-02 Commencement 1.9.1960
 
 Assent 17.3.1960
 
-Amending enactment Relevant current provisions Commence- ment date Acts. 1960-11 ss.8, 14, 17 and 38(1)
+Amending enactment Relevant current provisions Commence- ment date
+
+Acts. 1960-11 ss.8, 14, 17 and 38(1)
 
 1961-19 s.6
 
@@ -62,15 +64,13 @@ Supreme Court
 
 1.1.20112 LN.  2011/105 ss. 72A -72G 7.7.2011 Act.  2012-09 ss. 27E(2) & (3) & 27G(3) 27.9.2012 2012-17 s. 12A(1), (2), (2A), (3) & (4) 22.11.2012 LN.  2013/134 ss. 35A(1), 35H(1), 41 & Sch. 1 1.7.2013 2015/003 s. 72C(3) 10.1.2015 Act.  2015-14 ss. 27W, 27X, 28(1)(c), (2A), 29(1)(a), (ba), (1A), 34(3)(b), 35
 
-1.7.20153 2015-19 ss. 29 (Transitional Provision) 6.8.2015 2016-18 s. 16, Sch. 2 23.4.2018 2017-10 Sch. 2 13.6.2018
+1.7.20153 2015-19 ss. 29 (Transitional Provision) 6.8.2015 2016-18 s. 16, Sch. 2 23.4.2018 2017-10 Sch. 2 13.6.2018 LN.2020/523 ss. 72A-72G 1.1.2021 2020/528 ss. 41, 42(1), 64(1), 67 1.1.2021
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
 The Supreme Court Fund Regulations are printed under the title Public Finance (Control and Audit).
 
 Transposing: Directive 77/249/EEC Directive 98/5/EC Directive 2006/100/EC Directive 2008/52/EC Directive 2013/25/EU
-
-Implementing: Regulation (EU) No 1215/2012
 
 1 Transitional and miscellaneous provisions.
 
@@ -86,7 +86,7 @@ Implementing: Regulation (EU) No 1215/2012
 
 Supreme Court
 
-1960-02
+1960-02 Implementing: Regulation (EU) No 1215/2012
 
 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
@@ -296,15 +296,15 @@ PART X ENTRY OF EUROPEAN LAWYERS INTO THE PROFESSION OF SOLICITOR OR BARRISTER
 
 Supreme Court
 
-1960-02 66. Evidence in support of application for exemption under section 64(2). 67. Evidence in support of application for exemption under section 64(3). 68. Meaning of “effectively and regularly pursued”. 69. Time limit for decision and notification by professional body. 70. Appeal by registered European lawyer. 71. Practice under the title of solicitor or barrister.
+1960-02 66. Evidence in support of application for exemption under section 64(2). 67. Evidence in support of application under section 64(3). 68. Meaning of “effectively and regularly pursued”. 69. Time limit for decision and notification by professional body. 70. Appeal by registered European lawyer. 71. Practice under the title of solicitor or barrister.
 
 PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
 
 72. Modification of enactments.
 
-PART XIA CROSS-BORDER MEDIATION
+PART XIA Deleted
 
-72A.  Application of Part XIA. 72B.  Interpretation under Part XIA. 72C.  Cross-border disputes. 72D.  Recourse to mediation. 72E.  Making a mediation settlement enforceable. 72F.  Mediation Evidence. 72G.  Competent authority.
+72A. to 72G. Deleted.
 
 PART X
 
