@@ -1,24 +1,16 @@
-Employment FISHING VESSELS (WORKING TIME) REGULATIONS 2005
+Subsidiary Legislation made under s. 86.
 
-1932-16
+Fishing Vessels (Working Time) Regulations 2005
 
-Subsidiary 2005/083 Regulations made under s. 86 of the Employment Act.
+LN.2005/083
 
-FISHING VESSELS (WORKING TIME) REGULATIONS 2005
+Commencement 19.5.2005
 
-(LN. 2005/083)
-
-19.5.2005
-
-Amending enactments Relevant current provisions Commencement date Act. 2016-20 r. 17 13.10.2016
+Amending enactments Relevant current provisions Commencement date Act. 2016-20 r. 17 13.10.2016 LN.2021/228 r. 2(1) 1.1.2021
 
 Implementing: Directive 2003/88/EC
 
-Employment FISHING VESSELS (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/083 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -39,9 +31,3 @@ PART 4 MISCELLANEOUS
 14. Power to require information. 15. Detention and enforcement of detention. 16. Offences. 17. Remedies. 20. Restriction on contracting out.
 
 SCHEDULE
-
-Employment FISHING VESSELS (WORKING TIME) REGULATIONS 2005
-
-1932-16
-
-Subsidiary 2005/083
