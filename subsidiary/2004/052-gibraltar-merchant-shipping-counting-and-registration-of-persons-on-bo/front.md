@@ -1,28 +1,22 @@
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COUNTING AND REGISTRATION OF PERSONS ON BOARD PASSENGER SHIPS) REGULATIONS 2004
+Subsidiary Legislation made under s.118.
 
-1995-13
+Gibraltar Merchant Shipping (Counting and Registration of persons on board passenger ships) Regulations 2004
 
-Subsidiary 2004/052 Regulations made under s. 118.
+LN.2004/052
 
-GIBRALTAR MERCHANT SHIPPING (COUNTING AND REGISTRATION OF PERSONS ON BOARD PASSENGER SHIPS) REGULATIONS 2004
-
-(LN. 2004/052)
-
-9.9.2004 (LN. 2004/083)
+Commencement (LN.2004/083) 9.9.2004
 
 Amending enactments Relevant current provisions Commencement date
 
 LN. 2019/247 rr. 2, 3(2), 4(1)(c), (4), (4A), 5-7, 8(1)(b)(i), (2), (2A), (5), 8A-8B, Sch.
 
-21.12.2019
+21.12.2019 2020/411 rr. 2(1), 3(1), 4(1)(a), (aa), 6,  8(1)(b)(i), (2), (2A), (5)
+
+1.1.2021
 
 Transposing: Directive 98/41/EC Directive (EU) 2017/2109
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COUNTING AND REGISTRATION OF PERSONS ON BOARD PASSENGER SHIPS) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/052 ARRANGEMENT OF REGULATIONS
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -30,8 +24,4 @@ Regulation
 
 Schedule Deleted.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (COUNTING AND REGISTRATION OF PERSONS ON BOARD PASSENGER SHIPS) REGULATIONS 2004
-
-1995-13
-
-Subsidiary 2004/052 In exercise of the powers conferred on it by section 118 of the Gibraltar Merchant Shipping (Safety, etc.) Act, 1993 and all other enabling powers, the Government, for the purposes of transposing into the law of Gibraltar Council Directive 98/41/EC of 18 June 1998 on the registration of persons sailing on board passenger ships operating to or from ports of the Member States of the Community as amended by Article 8 of Directive 2002/84/EC of 5 November 2002 amending the Directives on maritime safety and the prevention of pollution from ships, has made the following Regulations:
+In exercise of the powers conferred on it by section 118 of the Gibraltar Merchant Shipping (Safety, etc.) Act, 1993 and all other enabling powers, the Government, has made the following Regulations:
