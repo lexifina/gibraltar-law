@@ -8,7 +8,7 @@ Common general framework for the calculation of energy performance of buildings.
 
 The energy performance of a building shall be expressed by a numeric indicator of primary energy use in kWh/(m².y) for the purpose of both energy performance certification and compliance with minimum energy performance requirements. The methodology applied for the determination of the energy performance of a building shall be transparent and open to innovation.
 
-The competent authority shall describe its calculation methodology following applicable European Union and Gibraltar legislation of the overarching standards.
+The competent authority shall describe its calculation methodology following applicable retained EU law and Gibraltar legislation of the overarching standards.
 
 2.  The energy needs for space heating, space cooling, domestic hot water, ventilation, lighting and other technical building systems shall be calculated in order to optimise health, indoor air quality and comfort levels, as may be defined by the competent authority.
 
@@ -18,11 +18,7 @@ Primary energy factors or weighting factors shall be defined by the competent au
 
 In the calculation of the primary energy factors for the purpose of calculating the energy performance of buildings, the competent authority may take into account renewable energy sources supplied through the energy carrier and renewable energy sources that may be generated and used on-site, provided that it applies on a non-discriminatory basis.”
 
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/131 2A. For the purpose of expressing the energy performance of a building, the competent authority may define additional  numeric indicators of total, non- renewable and renewable primary energy use, and of greenhouse gas emission produced in kgCO₂eq/(m².y).
+2A. For the purpose of expressing the energy performance of a building, the competent authority may define additional numeric indicators of total, non-renewable and renewable primary energy use, and of greenhouse gas emission produced in kgCO₂eq/(m².y).
 
 3.  The methodology shall be laid down taking into consideration at least the following aspects−
 
@@ -42,7 +38,7 @@ Subsidiary 2012/131 2A. For the purpose of expressing the energy performance of 
 
 (c) air-conditioning installations;
 
-(d) natural and mechanical ventilation which may include air- tightness;
+(d) natural and mechanical ventilation which may include air-tightness;
 
 (e) built-in lighting installation (mainly in the non-residential sector);
 
@@ -56,11 +52,7 @@ Subsidiary 2012/131 2A. For the purpose of expressing the energy performance of 
 
 4.  The positive influence of the following aspects shall be taken into account.
 
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/131 (a) local solar exposure conditions, active solar systems and other heating and electricity systems based on energy from renewable sources;
+(a) local solar exposure conditions, active solar systems and other heating and electricity systems based on energy from renewable sources;
 
 (b) electricity produced by cogeneration;
 
@@ -87,9 +79,3 @@ Subsidiary 2012/131 (a) local solar exposure conditions, active solar systems an
 (h) wholesale and retail trade services buildings;
 
 (i) other types of energy-consuming buildings.
-
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/131

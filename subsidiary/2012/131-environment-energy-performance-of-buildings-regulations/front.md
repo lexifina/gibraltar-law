@@ -1,32 +1,20 @@
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
+Subsidiary Legislation made under s.18(c).
 
-2005-27
+Environment (Energy Performance of Buildings) Regulations 2012
 
-Subsidiary 2012/131 Subsidiary Legislation made under s. 18(c).
+LN.2012/131
 
-ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
+Commencement (rr.1-3, 11, 19, 21-22, 24-27) 4.10.2012 (rr. 4, 10, 12-141, 18, 20, 23) 9.1.2013 (rr. 5-9, 15-17) 9.1.20132
 
-(LN. 2012/131)
+Amending enactments Relevant current provisions Commencement date LN. 2016/100 rr. 2(1), 4-5, 8-10, 14-18, 20, 23 27.4.2016 Act. 2018-19 r. 2 26.9.2019 LN. 2020/099 rr. 2(1), 8(5), 9(7)-(16), 11(3), (3A)-(3B), 15-16, 21(2), (2A), Sch. 1, 2
 
-Commencement 4.10.2012 rr.1-3, 11, 19, 21, 22, 24-27 9.1.2013 rr. 4, 10, 12, 131, 14, 18, 20, 23 9.1.20132 rr. 5, 6, 7, 8, 9, 15, 16, 17
+10.3.2020 2021/424 rr. 2(1), 3(4), 6(2)-(5), 9(12)(c), 10(3), (4)(c), (6), 11(2)(b)-(c), Sch. 1
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2016/100 rr. 2(1), 4, 5, 8, 9, 10, 14, 15, 16, 17, 18, 20 & 23 27.4.2016 Act. 2018-19 r. 2 26.9.2019 LN. 2020/099 rr. 2(1), 8(5), 9(7)-(16), 11(3), (3A)-(3B), 15-16, 21(2), (2A), Sch. 1, 2 10.3.2020
+1.1.2021
 
 Transposing: Directive 2010/31/EU Directive (EU) 2018/844
 
-EU Legislation/International Agreements involved:
-
-_______________________
-
 1 13(1) to (4) shall not apply to single buildings which are rented out until 31 December 2015. 2  See r.1(4)(a) & (b)
-
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/131
 
 ARRANGEMENT OF REGULATIONS
 
@@ -38,14 +26,4 @@ SCHEDULE 1 Common general framework for the calculation of energy performance of
 
 SCHEDULE 2 Independent control systems for energy performance certificates and inspection reports
 
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/131
-
-Environment ENVIRONMENT (ENERGY PERFORMANCE OF BUILDINGS) REGULATIONS 2012
-
-2005-27
-
-Subsidiary 2012/131 In exercise of the powers conferred on it by section 18(c) of the Environment Act 2005 and in order to transpose into the law of Gibraltar Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings, the Government has made the following Regulations–
+In exercise of the powers conferred on it by section 18(c) of the Environment Act 2005 and in order to transpose into the law of Gibraltar Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings, the Government has made the following Regulations–
