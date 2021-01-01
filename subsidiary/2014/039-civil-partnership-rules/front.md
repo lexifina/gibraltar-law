@@ -2,9 +2,7 @@ Civil Partnership CIVIL PARTNERSHIP RULES 2014
 
 2014-10
 
-Subsidiary 2014/039
-
-Subsidiary Legislation made under s. 123.
+Subsidiary 2014/039 Subsidiary Legislation made under s. 123.
 
 CIVIL PARTNERSHIP RULES 2014
 
@@ -13,6 +11,8 @@ CIVIL PARTNERSHIP RULES 2014
 Commencement 28.3.2014
 
 Amending enactments Relevant current provisions Commencement date
+
+LN.2020/455 rr. 84(1), 89 1.1.2021
 
 _______________________
 
@@ -30,13 +30,13 @@ PART II Formation of civil partnership
 
 PART III Dissolution, nullity and other proceedings
 
-11. Applications for leave to present a petition for dissolution before three years. 12. Commencement of proceedings.
+11. Applications for leave to present a petition for dissolution before three years. 12. Commencement of proceedings. 13. Contents of petition. 14. Presentation of the petition.
 
 Civil Partnership CIVIL PARTNERSHIP RULES 2014
 
 2014-10
 
-Subsidiary 2014/039 13. Contents of petition. 14. Presentation of the petition. 15. Discontinuance of cause before service of petition. 16. Notice of petition and the proceedings. 17. Service of petition and originating summons. 18. Service out of Gibraltar. 19. Proof of service. 20. Notice of intention to defend. 21. Consent to making of order. 22. Supplemental and amended petitions. 23. Filing and service of answer to petition, etc. 24. Pleadings out of time. 25. Contents of answer and subsequent pleadings. 26. Filing of reply and subsequent pleadings. 27. Particulars of allegations or other matters pleaded. 28. Preliminary appointment. 29. Discovery by interrogatories. 30. Discovery and inspection of documents. 31. Registrar’s certificate and directions for trial. 32. Listing of petition and fixing date of trial.
+Subsidiary 2014/039 15. Discontinuance of cause before service of petition. 16. Notice of petition and the proceedings. 17. Service of petition and originating summons. 18. Service out of Gibraltar. 19. Proof of service. 20. Notice of intention to defend. 21. Consent to making of order. 22. Supplemental and amended petitions. 23. Filing and service of answer to petition, etc. 24. Pleadings out of time. 25. Contents of answer and subsequent pleadings. 26. Filing of reply and subsequent pleadings. 27. Particulars of allegations or other matters pleaded. 28. Preliminary appointment. 29. Discovery by interrogatories. 30. Discovery and inspection of documents. 31. Registrar’s certificate and directions for trial. 32. Listing of petition and fixing date of trial.
 
 PART IV Trial, evidence, etc.
 
@@ -44,13 +44,13 @@ PART IV Trial, evidence, etc.
 
 PART V Arrangements for children
 
-43. Respondent’s statement as to arrangements for children. 44. Applications relating to children of the family. 45. Procedure for complying with section 42 of the Civil Partnerships Act. 46. Orders. 47. Application for rescission of order. 48. Intervention to show cause by Attorney General.
+43. Respondent’s statement as to arrangements for children. 44. Applications relating to children of the family. 45. Procedure for complying with section 42 of the Civil Partnerships Act. 46. Orders. 47. Application for rescission of order. 48. Intervention to show cause by Attorney General. 49. Intervention to show cause by person other than Attorney General. 50. Rescission of conditional order by consent.
 
 Civil Partnership CIVIL PARTNERSHIP RULES 2014
 
 2014-10
 
-Subsidiary 2014/039 49. Intervention to show cause by person other than Attorney General. 50. Rescission of conditional order by consent. 51. Final order on lodging notice. 52. Final order on application. 53. Expedition of final order. 54. Endorsement and certificate of final order. 55. Application under section 29 of the Civil Partnerships Act.
+Subsidiary 2014/039 51. Final order on lodging notice. 52. Final order on application. 53. Expedition of final order. 54. Endorsement and certificate of final order. 55. Application under section 29 of the Civil Partnerships Act.
 
 PART V Financial reliefs, etc
 
@@ -58,13 +58,13 @@ PART V Financial reliefs, etc
 
 PART VII Other Civil Partnership etc Proceedings
 
-77. Application in case of failure to provide reasonable maintenance. 78. Application for alteration of maintenance agreement during lifetime of parties. 79. Application for alteration of maintenance agreement after death of one party.
+77. Application in case of failure to provide reasonable maintenance. 78. Application for alteration of maintenance agreement during lifetime of parties. 79. Application for alteration of maintenance agreement after death of one party. 80. Further proceedings on application under rule 79. 81. Investigation by the Court and other relevant orders.
 
 Civil Partnership CIVIL PARTNERSHIP RULES 2014
 
 2014-10
 
-Subsidiary 2014/039 80. Further proceedings on application under rule 79. 81. Investigation by the Court and other relevant orders.
+Subsidiary 2014/039
 
 PART VII Jurisdiction and recognition of judgements
 
@@ -88,15 +88,13 @@ FORM –CP8 STATEMENT OF FINANCIAL INFORMATION
 
 FORM –CP9 NOTICE OF APPLICATION FOR CONDITIONAL ORDER TO BE MADE FINAL
 
-FORM –CP10
+FORM –CP10 CERTIFICATE OF MAKING CONDITIONAL ORDER FINAL (DISSOLUTION)
 
 Civil Partnership CIVIL PARTNERSHIP RULES 2014
 
 2014-10
 
-Subsidiary 2014/039 CERTIFICATE OF MAKING CONDITIONAL ORDER FINAL (DISSOLUTION)
-
-FORM –CP11 CERTIFICATE OF MAKING CONDITIONAL ORDER FINAL (NULLITY)
+Subsidiary 2014/039 FORM –CP11 CERTIFICATE OF MAKING CONDITIONAL ORDER FINAL (NULLITY)
 
 FORM –CP12 NOTICE OF AN APPLICATION UNDER RULE 55 TO CONSIDER THE FINANCIAL POSITION OF THE RESPONDENT AFTER DISSOLUTION
 
@@ -116,15 +114,15 @@ FORM –CP19 PENSION SHARING ANNEX UNDER SECTION 113 OF THE CIVIL PARTNERSHIP
 
 FORM –CP20 PENSION SHARING ANNEX UNDER SECTION 117 OR 118 OF THE CIVIL PARTNERSHIP ACT
 
-FORM –CP21
+FORM –CP21 PENSION INQUIRY FORM INFORMATION NEEDED WHEN A PENSION SHARING ORDER OR PENSION ATTACHMENT ORDER MAY BE MADE
+
+FORM –CP22
 
 Civil Partnership CIVIL PARTNERSHIP RULES 2014
 
 2014-10
 
-Subsidiary 2014/039 PENSION INQUIRY FORM INFORMATION NEEDED WHEN A PENSION SHARING ORDER OR PENSION ATTACHMENT ORDER MAY BE MADE
-
-FORM –CP22 ORIGINATING APPLICATION ON GROUND OF FAILURE TO PROVIDE REASONABLE MAINTENANCE
+Subsidiary 2014/039 ORIGINATING APPLICATION ON GROUND OF FAILURE TO PROVIDE REASONABLE MAINTENANCE
 
 FORM –CP23 ORIGINATING APPLICATION FOR ALTERATION OF MAINTENANCE AGREEMENT DURING PARTIES’ LIFETIME
 
