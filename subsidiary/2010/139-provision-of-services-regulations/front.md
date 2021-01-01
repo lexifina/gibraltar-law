@@ -1,22 +1,22 @@
-Interpretation and General Clauses PROVISION OF SERVICES REGULATIONS 2010
+Subsidiary Legislation made under s. 23(g)(ii).
 
-1962-08
+Provision of Services Regulations 2010
 
-Subsidiary 2010/139 Subsidiary Legislation made under s. 23(g)(ii).
-
-PROVISION OF SERVICES REGULATIONS 2010
-
-(LN. 2010/139)
+LN.2010/139
 
 Commencement 29.7.2010
 
-EU Legislation/International Agreements involved: Directive 2006/123/EC
+Amending enactments Relevant current provisions Commencement date
 
-______________________
+LN.2020/522 rr. 2(1), (4), 3(1)-(2), (3)(b), (4A), (5)(b)-(d), (f), (7)(a)-(b), (8)(a)-(b), (9), 4(1)-(2), 5(1)(d), 6(1), (4), 8(2)-(4), 9(1)-(2), 10(3)-(4), (6), (a)-(b), (d)-(e), 11(3), 13(1)(a)-(b), (2)(a)-(b), 14(2)(a)-(b), (3), (5), 15, 16(3), 18(1)(a)-(d), (g), (4), 19(2)(d), (3)(a), (5), 20- 26, 27(3), 28-35
+
+1.1.2021
+
+Transposing: Directive 2006/123/EC
 
 ARRANGEMENT OF REGULATIONS
 
-Regulation.
+Regulation
 
 Part I Preliminary
 
@@ -28,28 +28,18 @@ Part II Duties of service providers
 
 Part III Duties of competent authorities in Gibraltar
 
-9. Application of this Part. 10. Simplification of procedures. 11. Right to information. 12. Procedures by electronic means. 13. Authorisation schemes. 14. Conditions for the granting of authorisation. 15. Duration of authorisation.
+9. Application of this Part. 10. Simplification of procedures. 11. Right to information. 12. Procedures by electronic means. 13. Authorisation schemes. 14. Conditions for the granting of authorisation. 15. Deleted. 16. Selection from among several candidates. 17. Authorisation procedures. 18. Prohibited requirements. 19. Requirements to be to evaluated.
 
-Interpretation and General Clauses PROVISION OF SERVICES REGULATIONS 2010
+Part IV Deleted
 
-1962-08
+20. to 23. Deleted.
 
-Subsidiary 2010/139 16. Selection from among several candidates. 17. Authorisation procedures. 18. Prohibited requirements. 19. Requirements to be to evaluated.
+Part V Deleted
 
-Part IV Services provided from an EEA State
-
-20. Application of this Part. 21. Freedom to provide services. 22. Derogations from the freedom to provide services. 23. Derogation relating to the safety of a service.
-
-Part V Recipients of services
-
-24. Prohibited restrictions. 25. Non-discrimination. 26. Assistance for recipients.
+24. to 26. Deleted.
 
 Part VI Other duties of competent authorities
 
-27. Commercial communications by the regulated professions. 28. Multi-disciplinary activities. 29. Mutual assistance – general obligations. 30. Supervision of the temporary movement of a service provider to an EEA State. 31. Supervision of the temporary movement of a service provider from an EEA State. 32. Alert mechanism. 33. Information on the good repute of service providers. 34. Mutual assistance in the event of case-by-case derogations – Gibraltar the place where the service is being provided. 35. Mutual assistance in the event of case-by-case derogations – Gibraltar the place where the service provider is established.
+27. Commercial communications by the regulated professions. 28. to 35. Deleted.
 
-Interpretation and General Clauses PROVISION OF SERVICES REGULATIONS 2010
-
-1962-08
-
-Subsidiary 2010/139 In exercise of the powers conferred on it by section 23(g)(ii) of the Interpretation and General Clauses Act and all other enabling powers, and in order to transpose into the law of Gibraltar Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market, the Government has made the following Regulations–
+In exercise of the powers conferred on it by section 23(g)(ii) of the Interpretation and General Clauses Act and all other enabling powers, and in order to transpose into the law of Gibraltar Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market, the Government has made the following Regulations–
