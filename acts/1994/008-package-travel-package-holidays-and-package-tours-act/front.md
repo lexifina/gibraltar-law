@@ -1,8 +1,4 @@
-Package Travel, Package Holidays and Package Tours
-
-1994-08
-
-PACKAGE TRAVEL, PACKAGE HOLIDAYS AND PACKAGE TOURS ACT
+Package Travel, Package Holidays and Package Tours Act 1994
 
 Principal Act
 
@@ -10,17 +6,19 @@ Act. No. 1994-08 Commencement (LN.1994/070) 17.10.1994
 
 Assent 7.7.1994
 
-Amending enactments Relevant current provisions Commencement date Act.   2007-17 ss. 17(7), 18(5) & (6) 14.6.2007 LN. 2017/2501 ss. 2-14, 14A, 15-16, 16A-16B, 17(1), (3)-(4), (7), 18(1), (3)-(7), 19(1)-(3), 20(1), (4), (6)-(7), 21(1), (3)-(7), 23, 24(1), 25(1), 26(1), 27(1), 29-45, Sch. 1 & 2
+Amending enactments Relevant current provisions Commencement date
 
-1.7.2018
+Act. 2007-17 ss. 17(7), 18(5)-(6) 14.6.2007 LN. 2017/2501 ss. 2-14, 14A, 15-16, 16A-16B, 17(1), (3)-(4), (7), 18(1), (3)-(7), 19(1)-(3), 20(1), (4), (6)-(7), 21(1), (3)-(7), 23, 24(1), 25(1), 26(1), 27(1), 29-45, Schs. 1-2
+
+1.7.2018 2020/439 ss. 2(1), 9(5)(c), (g), 14(14), (16), 14A(4), 16(5), (8), 16A(3), (10), 16B, 18(6)(a), 19(1), 42(1)-(2), Schs. 1-2
+
+1.1.2021 2021/228 s. 2(1) 1.1.2021
 
 Transposing: Directive 90/314/EEC Directive (EU) 2015/2302
 
 1 For transitional provisions please refer to s.33 of the Package Travel, Package Holidays and Package Tours Act 1994 (Amendment) Regulations 2017 (LN. 2017/250)
 
-Package Travel, Package Holidays and Package Tours
-
-1994-08 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -50,11 +48,9 @@ PERFORMANCE OF THE PACKAGE
 
 PART 5
 
-Package Travel, Package Holidays and Package Tours
+INSOLVENCY PROTECTION
 
-1994-08 INSOLVENCY PROTECTION
-
-16 Security in event of insolvency. 16A. Insolvency protection and information requirements for linked travel arrangements. 16B. The Gibraltar contact point and mutual recognition of insolvency protection. 17 Bonding. 18 Bonding where approved person has reserve fund or insurance. 19 Insurance. 20 Monies in trust. 21 Monies in trust where other party to contract is acting otherwise than in the course of business. 22 Offences arising from breach of sections 20 and 21. 23 Repealed. 24 Due diligence defence. 25 Liability of persons other than the principal offender. 26 Prosecution time limit. 27 Saving for civil consequences. 28 Terms implied in contract.
+16 Security in event of insolvency. 16A. Insolvency protection and information requirements for linked travel arrangements. 16B. Deleted. 17 Bonding. 18 Bonding where approved person has reserve fund or insurance. 19 Insurance. 20 Monies in trust. 21 Monies in trust where other party to contract is acting otherwise than in the course of business. 22 Offences arising from breach of sections 20 and 21. 23 Repealed. 24 Due diligence defence. 25 Liability of persons other than the principal offender. 26 Prosecution time limit. 27 Saving for civil consequences. 28 Terms implied in contract.
 
 PART 5A
 
@@ -66,18 +62,14 @@ PART 6
 
 GENERAL PROVISIONS
 
-42. Organiser established outside the European Economic Area. 43. Liability for booking errors. 44. Right of redress.
+42. Organiser established outside Gibraltar.
 
-Package Travel, Package Holidays and Package Tours
+43. Liability for booking errors. 44. Right of redress. 45. Imperative nature of the Act.
 
-1994-08 45. Imperative nature of the Act.
+SCHEDULE 1
 
-Schedule 1
+SCHEDULE 2
 
-Schedule 2
-
-Package Travel, Package Holidays and Package Tours
-
-1994-08 AN ACT TO TRANSPOSE INTO THE NATIONAL LAW OF GIBRALTAR COUNCIL DIRECTIVE 90/314/EEC ON PACKAGE TRAVEL, PACKAGE HOLIDAYS AND PACKAGE TOURS.
+AN ACT TO TRANSPOSE INTO THE NATIONAL LAW OF GIBRALTAR COUNCIL DIRECTIVE 90/314/EEC ON PACKAGE TRAVEL, PACKAGE HOLIDAYS AND PACKAGE TOURS.
 
 PART 1
