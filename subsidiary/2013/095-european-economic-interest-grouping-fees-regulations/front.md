@@ -1,15 +1,23 @@
-European Economic Interest Grouping
+Subsidiary Legislation made under s.19.
 
-1993-28
+European Economic Interest Grouping (Fees) Regulations 2013
 
-Subsidiary 2013/095 Subsidiary Legislation made under s. 19.
-
-EUROPEAN ECONOMIC INTEREST GROUPING (FEES) REGULATIONS 2013
-
-(LN. 2013/095)
+LN.2013/095
 
 Commencement 1.1.2014
 
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/209 Sch. 1.1.2021
+
 _______________________
+
+ARRANGEMENT OF REGULATIONS
+
+Regulation
+
+1. Title and commencement. 2. Fees payable to the Registrar.
+
+SCHEDULE
 
 In exercise of the powers conferred on it by section 19 of the European Economic Interest Grouping Act, and all other enabling powers, the Government has made the following Regulations−
