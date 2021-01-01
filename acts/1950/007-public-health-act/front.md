@@ -180,13 +180,19 @@ Public Health
 
 23.2.2017 2018-14 ss. 273(3)(b), 279(j) 16.8.2018 2019-15 ss. 95QA, 95S(1) 10.6.2019 2018-19 ss. 192V(b), 273(4) 26.9.2019 LN. 2020/226 ss. 192A(1)-(3), 192B(3)(g)(v), 192BA(1)-(2), (2A)-(2B), (3)-(4), 192(3)(ab)-(ae), (4)(a)-(c), 192KC(3), 192L(1), (a), (aa), 192M(1B)(b)-(c), (ca)-(cb), (f)- (g), (2), 192MA(1)-(4), 192MC, 192W, Schs. 11B-11C, 13, 14A- 14C
 
-18.6.2020
+18.6.2020 2019/216 ss. 98D-98F, 98H-98J, 98M(1), 98N(1), 98O, 98PA(2)-(3), 98PB(1)(a), 98Q, 98R(1),
 
 1Commencement Notice LN. 2011/076
 
 Public Health
 
-1950-07 Power to depute
+1950-07 98U(1), 98W(1)-(2), 98X(1)(a)- (b), (2), 98Z(1)(a), (2), 98ZA(1)(a), 98ZB(1)(a), 98ZC(1), 98ZX, Sch. 19
+
+1.1.2021 2020/531 ss. 192A(1), 192B(3)(g), 192BA(2)-(3), 192C(3)(c)(i), 192DA(5), 192JC(1), 192JD(1)- (3), 192KA(8), (8A), 192M(1B)(b), 192U, 192W(1), 192X-192Y
+
+1.1.2021
+
+Power to depute
 
 The power to depute conferred by s.41 of the Interpretation and General Clauses Act has been extended to the Accountant General in relation to the Public Health Act.
 
@@ -310,37 +316,37 @@ PART IIB - Transfrontier Shipment of Waste
 
 Introduction
 
-98A. Interpretation of Part IIB. 98B. Scope of this Part. 98C. Meaning of transport and person who transports waste. 98D. Competent authorities of despatch and destination. 98E. Correspondent authority of transit. 98F. Correspondent. 98G. Notices. 98H. Transitional provisions.
+98A. Interpretation of Part IIB. 98B. Scope of this Part. 98C. Meaning of transport and person who transports waste. 98D. Competent authorities of despatch and destination. 98E. Correspondent authority of transit. 98F. Repealed. 98G. Notices. 98H. Repealed.
 
-Waste management plans
+Gibraltar Plans for Shipments of Waste
 
 Public Health
 
-1950-07 98I. Waste management plans. 98J. Objections to shipments of waste.
+1950-07 98I. Gibraltar Plan for Shipments of Waste: continuation and changes. 98J. Objections to shipments of waste.
 
 General requirements for shipment of waste
 
 98K. Protection of the environment. 98L. Compliance with notification etc.
 
-Shipment of waste within the European Union
+Shipment of waste between Gibraltar and EU countries
 
 98M. Requirements for shipments of notifiable waste. 98N. Requirements for shipment of waste specified in Article 3(2) and (4).
 
-Export of waste to third countries
+Export of waste to non-EU countries
 
-98O. Prohibition on export of waste for disposal other than to EFTA countries. 98P. Requirements for export of waste for disposal to EFTA countries. 98PA.  Requirements for export of waste listed in Annex III or IIIA to non-OECD Decision countries. 98PB.  Requirements for export of waste classified under more than one entry in Annex III etc. to non-OECD Decision countries. 98Q. Prohibition on export of certain waste for recovery to non-OECD Decision countries. 98R. Requirements for export of waste for recovery to OECD Decision countries. 98S. Miscellaneous prohibitions on export of waste.
+98O. Prohibition on export of waste for disposal other than to EFTA countries. 98P. Requirements for export of waste for disposal to EFTA countries. 98PA.  Requirements for export of waste listed in Annex III or IIIA to non-EU, non-OECD Decision countries. 98PB.  Requirements for export of waste classified under more than one entry in Annex III etc. to non-EU, non-OECD Decision countries. 98Q. Prohibition on export of certain waste for recovery to non-EU non- OECD Decision countries. 98R. Requirements for export of waste for recovery to non-EU OECD Decision countries. 98S. Miscellaneous prohibitions on export of waste.
 
 Import of waste from third countries
 
-98T. Prohibition on the import of waste for disposal. 98U. Procedure for import of waste for disposal from a country Party to the Basel Convention. 98V. Prohibition on import of waste for recovery. 98W. Requirements for import of waste for recovery from or through an OECD Decision country. 98X. Requirements for import of waste for recovery from a non-OECD Decision country Party to the Basel Convention. 98Y. Requirements for import of waste from overseas countries or territories.
+98T. Prohibition on the import of waste for disposal. 98U. Procedure for import of waste for disposal from a non-EU country Party to the Basel Convention. 98V. Prohibition on import of waste for recovery. 98W. Requirements for import of waste for recovery from or through a non-EU OECD Decision country. 98X. Requirements for import of waste for recovery from a non-EU, non-OECD Decision country Party to the Basel Convention. 98Y. Requirements for import of waste from overseas countries or territories.
 
 Transit of waste
 
-98Z. Requirements for transit of waste for disposal. 98ZA. Requirements for transit of waste for recovery: non-OECD Decision countries.
+98Z. Requirements for transit of waste for disposal. 98ZA. Requirements for transit of waste for recovery: non-EU, non- OECD Decision countries.
 
 Public Health
 
-1950-07 98ZB. Requirements for transit of waste for recovery: OECD Decision countries. 98ZC. Requirements for transit of waste between OECD Decision countries and non-OECD Decision countries.
+1950-07 98ZB. Requirements for transit of waste for recovery: EU, OECD Decision countries. 98ZC. Requirements for transit of waste between EU or OECD Decision countries and non-EU, non-OECD Decision countries.
 
 Additional duties
 
@@ -416,31 +422,29 @@ Rules for the prevention and treatment of infectious diseases.
 
 Public Health
 
-1950-07
-
-PART IVA GENETICALLY MODIFIED ORGANISMS
+1950-07 PART IVA GENETICALLY MODIFIED ORGANISMS
 
 180A. Interpretation of Part IVA. 180B. Meaning of “damage to the environment”, “control” and related expressions in this Part. 180C. Risk Assessment  and notification requirements. 180D. General duties relating to importation, acquisition, keeping, release or marketing of organisms. 180E. Prohibition notices. 180F. Consents required by certain persons. 180G. Consents: limitations and conditions. 180H. Fees and charges. 180J. Appointment  etc of inspectors. 180K. Rights of entry and inspection. 180L. Obtaining of information from persons. 180M. Power to deal with cause of imminent danger of damage to the environment. 180N. Offences. 180P. Onus of proof  as regards techniques and evidence. 180Q. Power of court to order cause of offence to be remedied. 180R. Power of competent authority to remedy harm. 180S. The competent authority. 180T. Offences by bodies corporate. 180U. Offences under  these Regulations  due to fault of others. 180V. Application  to Crown. 180W. Public Register. 180X. Power to make regulations to give effect to Community obligations.
 
 PART V. DESTRUCTION OF RATS AND MICE.
 
-181. General duty of Government. 182. Duty to report infestations to Director. 183. Powers of Director and authorized persons. 184. Powers of Government to require work and treatment to be carried out for certain purposes. 185. Temporary closing of buildings. 186. Powers of demolition, etc., where infestation cannot be remedied. 187. Directions as to storage of rat-attracting material. 188. Control of rat destruction carried out otherwise than by the Government. 189. Recovery of expenses by Government.
-
-Public Health
-
-1950-07 190. Offences and penalties. 191. When owner of premises to be deemed occupier. 192. Defrayal of expenses.
-
-PART VA WASTE.
-
-192A. Interpretation. 192B. Application of Part VA and Schedules 11A to 18. 192BA. End-of-waste status. 192C. Competent authority. 192D. Waste licences. 192DA. Exemption from requirement for a licence. 192E. Registration of certain establishments and undertakings. 192F. Duty of holders. 192G. Repealed. 192H. Repealed. 192J. Provisions as to PCBs. 192JA.  Provisions as to specific hazardous waste. 192JB. Waste batteries and waste accumulators. 192JC.  Reporting of recycling efficiencies. 192JD.  Export of waste batteries and accumulators. 192K. Repealed. 192KA. Meaning of hazardous waste. 192KB. Provisions as to hazardous waste. 192KC. Exemptions for household waste. 192L. Duty to keep records. 192M. Waste management plan. 192MA. Waste prevention programmes. 192MB. Evaluation and review of plans and programmes. 192MC. Bio-waste. 192N. Power to encourage waste reduction. 192P. Publicity. 192Q. Procedures for licence application. 192R. Charges by the Government etc. 192S. Offences by corporations etc. 192T. Defences. 192U. Provision of information. 192V. Savings in respect of other provisions. 192W. Rules. 192X.  Reporting to Commission. 192Y.  Cooperation.
-
-PART VI. VACCINATION AND IMMUNIZATION.
+181. General duty of Government. 182. Duty to report infestations to Director. 183. Powers of Director and authorized persons. 184. Powers of Government to require work and treatment to be carried out for certain purposes. 185. Temporary closing of buildings. 186. Powers of demolition, etc., where infestation cannot be remedied. 187. Directions as to storage of rat-attracting material. 188. Control of rat destruction carried out otherwise than by the Government. 189. Recovery of expenses by Government. 190. Offences and penalties. 191. When owner of premises to be deemed occupier. 192. Defrayal of expenses.
 
 Public Health
 
 1950-07
 
-193. Repealed. 194. Repealed. 195. Repealed. 196. Notice of births to Director. 197. Repealed. 198. Repealed. 199. Repealed. 200. Repealed. 201. Repealed. 202. Repealed. 203. Immunization against diphtheria, etc. 204. Charges. 205. Payment for vaccination by certain medical practitioners.
+PART VA WASTE.
+
+192A. Interpretation. 192B. Application of Part VA and Schedules 11A to 18. 192BA. End-of-waste status. 192C. Competent authority. 192D. Waste licences. 192DA. Exemption from requirement for a licence. 192E. Registration of certain establishments and undertakings. 192F. Duty of holders. 192G. Repealed. 192H. Repealed. 192J. Provisions as to PCBs. 192JA.  Provisions as to specific hazardous waste. 192JB. Waste batteries and waste accumulators. 192JC.  Reporting of recycling efficiencies. 192JD.  Export of waste batteries and accumulators. 192K. Repealed. 192KA. Meaning of hazardous waste. 192KB. Provisions as to hazardous waste. 192KC. Exemptions for household waste. 192L. Duty to keep records. 192M. Waste management plan. 192MA. Waste prevention programmes. 192MB. Evaluation and review of plans and programmes. 192MC. Bio-waste. 192N. Power to encourage waste reduction. 192P. Publicity. 192Q. Procedures for licence application. 192R. Charges by the Government etc. 192S. Offences by corporations etc. 192T. Defences. 192U. Deleted. 192V. Savings in respect of other provisions. 192W. Rules. 192X.  Deleted. 192Y.  Deleted.
+
+PART VI. VACCINATION AND IMMUNIZATION.
+
+193. Repealed. 194. Repealed.
+
+Public Health
+
+1950-07 195. Repealed. 196. Notice of births to Director. 197. Repealed. 198. Repealed. 199. Repealed. 200. Repealed. 201. Repealed. 202. Repealed. 203. Immunization against diphtheria, etc. 204. Charges. 205. Payment for vaccination by certain medical practitioners.
 
 PART VII. BATHS, WASHHOUSES, BATHING PLACES, ETC.
 
@@ -456,9 +460,11 @@ PART VIII. CELLAR DWELLINGS, LODGING HOUSES, ETC.
 
 Cellar dwellings.
 
+219. Cellars not to be let or occupied as dwellings without permission. 220. Penalty for unlawful letting, etc., of cellars. 221. Power to close cellar in case of two convictions.
+
 Public Health
 
-1950-07 219. Cellars not to be let or occupied as dwellings without permission. 220. Penalty for unlawful letting, etc., of cellars. 221. Power to close cellar in case of two convictions.
+1950-07
 
 Common lodging-houses.
 
@@ -474,11 +480,11 @@ Tents, vans, caravans, sheds, etc.
 
 PART IX. PUBLIC HIGHWAYS, ETC.
 
-238. Duty of Government to maintain public highways. 239. Deleted. 240. Provisions as to extraordinary traffic. 241. The Government may declare streets to be public highways. 242. Deleted. 243. Power to purchase lands. 244. Government to pave and repair public highways, etc. 245. Lighting of streets.
+238. Duty of Government to maintain public highways. 239. Deleted. 240. Provisions as to extraordinary traffic. 241. The Government may declare streets to be public highways. 242. Deleted. 243. Power to purchase lands. 244. Government to pave and repair public highways, etc. 245. Lighting of streets. 246. Refuges, etc., in streets. 247. Shelters. 248. Statues and monuments.
 
 Public Health
 
-1950-07 246. Refuges, etc., in streets. 247. Shelters. 248. Statues and monuments. 249. Street bins. 250. Seats, etc., in streets. 251. Government may embellish streets. 252. Power to alter names of streets. 252A. Regulations. 253. Power to grant licences for bridges over streets. 254. Restriction on placing rails, beams, wires, etc., over streets. 255. Lopping of trees overhanging highways. 256. Repair of cellars, etc., under streets. 257. Unauthorized disturbance of street. 258. Penalty for leaving litter, etc. 259. Breaking open of streets. 260. Damage to footway to be made good. 261. Lighting and fencing building materials and excavations. 262. Dangerous places to be repaired or enclosed. 263. Precautions during repairs, erection of bars and placing of lights. 264. Government authorized to take stone.
+1950-07 249. Street bins. 250. Seats, etc., in streets. 251. Government may embellish streets. 252. Power to alter names of streets. 252A. Regulations. 253. Power to grant licences for bridges over streets. 254. Restriction on placing rails, beams, wires, etc., over streets. 255. Lopping of trees overhanging highways. 256. Repair of cellars, etc., under streets. 257. Unauthorized disturbance of street. 258. Penalty for leaving litter, etc. 259. Breaking open of streets. 260. Damage to footway to be made good. 261. Lighting and fencing building materials and excavations. 262. Dangerous places to be repaired or enclosed. 263. Precautions during repairs, erection of bars and placing of lights. 264. Government authorized to take stone.
 
 PART X. RECREATION GROUNDS, ETC.
 
@@ -488,11 +494,11 @@ PART XI. RATING AND VALUATION.
 
 Rating.
 
-270. Interpretation of Part XI. 271. Levy of and provisions as to general rates. 272. Operation and incidence of rate. 272A. Owner’s liability if occupier in default. 273. Liability to be rated in respect of certain unoccupied property. 274. Amendment of rate. 275. When rates due and payable. 276. Demand note for rates. 277. Late payment of rates. 277A. Discount on rates of non-domestic hereditaments. 277B.  Additional discount in certain cases following the commencement of the Smoke-Free Environment Act, 2012.
+270. Interpretation of Part XI. 271. Levy of and provisions as to general rates. 272. Operation and incidence of rate. 272A. Owner’s liability if occupier in default. 273. Liability to be rated in respect of certain unoccupied property. 274. Amendment of rate. 275. When rates due and payable. 276. Demand note for rates. 277. Late payment of rates. 277A. Discount on rates of non-domestic hereditaments. 277B.  Additional discount in certain cases following the commencement of the Smoke-Free Environment Act, 2012. 277C.  Discount on rates of hereditaments occupied by new businesses. 278. No premises exempt because belonging to the Crown. 279. Exemption from assessment.
 
 Public Health
 
-1950-07 277C.  Discount on rates of hereditaments occupied by new businesses. 278. No premises exempt because belonging to the Crown. 279. Exemption from assessment. 280. Repealed. 281. Advertising stations to be separate hereditaments in certain cases. 282. Power to order exemption from rates. 283. Officers for rates and expenses. 284. Rating of owners. 285. Recovery of rates from tenants and lodgers. 286. Where owners omit to pay rates, the occupiers paying the same may deduct amount due from rent. 287. Proceedings for recovery of rates. 288. Penalty for leaving rates in arrears. 289. Contributions in lieu of payment of rates on premises of the United Kingdom Government.
+1950-07 280. Repealed. 281. Advertising stations to be separate hereditaments in certain cases. 282. Power to order exemption from rates. 283. Officers for rates and expenses. 284. Rating of owners. 285. Recovery of rates from tenants and lodgers. 286. Where owners omit to pay rates, the occupiers paying the same may deduct amount due from rent. 287. Proceedings for recovery of rates. 288. Penalty for leaving rates in arrears. 289. Contributions in lieu of payment of rates on premises of the United Kingdom Government.
 
 Valuation.
 
@@ -506,11 +512,11 @@ PART XII. GENERAL.
 
 Supplemental as to powers of Government.
 
+309. Expenses and Contractor companies. 310. Interpretation of “provide”.
+
 Public Health
 
-1950-07
-
-309. Expenses and Contractor companies. 310. Interpretation of “provide”. 311. Power to require pipes, etc., in public highways to be moved. 312. Power of Government to execute certain work on behalf of owners or occupiers. 313. Power of Government to sell certain materials. 314. Power of Government to require information as to ownership of premises. 315. Compensation to individuals for damage resulting from exercise of powers under Act.
+1950-07 311. Power to require pipes, etc., in public highways to be moved. 312. Power of Government to execute certain work on behalf of owners or occupiers. 313. Power of Government to sell certain materials. 314. Power of Government to require information as to ownership of premises. 315. Compensation to individuals for damage resulting from exercise of powers under Act.
 
 Notices, etc.
 
@@ -532,13 +538,13 @@ Appeals against notices.
 
 330. Appeals against and enforcement of certain notices.
 
-Other appeals to the magistrates’ court and appeals
+Other appeals to the magistrates’ court and appeals to the Supreme Court.
+
+331. Appeals and applications to magistrates’ court.
 
 Public Health
 
-1950-07 to the Supreme Court.
-
-331. Appeals and applications to magistrates’ court. 332. Appeals to Supreme Court against decision of justices. 333. Effect of decision of court upon appeal.
+1950-07 332. Appeals to Supreme Court against decision of justices. 333. Effect of decision of court upon appeal.
 
 Judges and justices.
 
@@ -572,11 +578,11 @@ SCHEDULE 5C Repealed
 
 SCHEDULE 5D Repealed
 
+SCHEDULE 5E Repealed
+
 Public Health
 
 1950-07
-
-SCHEDULE 5E Repealed
 
 SCHEDULE 5F Repealed
 
@@ -598,13 +604,11 @@ SCHEDULE 10B INSPECTION PLANS
 
 SCHEDULE 11 Criteria for notification of a major accident to the European Commission and information to be notified. Part 1 Criteria (This Part sets out the provisions of Annex VI to the Directive) and Part 2 Information.
 
-SCHEDULE 11A
+SCHEDULE 11A List of wastes pursuant to article 1(a) of Directive 75/442/EEC on waste and Article 1(4) of Directive 91/689/EEC on hazardous wastes
 
 Public Health
 
-1950-07 List of wastes pursuant to article 1(a) of Directive 75/442/EEC on waste and Article 1(4) of Directive 91/689/EEC on hazardous wastes
-
-SCHEDULE 11B Waste Hierarchy
+1950-07 SCHEDULE 11B Waste Hierarchy
 
 SCHEDULE 11C Examples of economic instruments and other measures to provide incentives for the application of the waste hierarchy referred to in Schedule 11B
 
@@ -630,11 +634,11 @@ SCHEDULE 17 Repealed.
 
 SCHEDULE 18 Article 4 in the Marking Directive
 
+SCHEDULE 19 Deleted
+
 Public Health
 
-1950-07 SCHEDULE 19 Transitional provisions for shipments to Poland, Slovakia, Bulgaria or Romania
-
-SCHEDULE 20 Application for approval of a financial guarantee
+1950-07 SCHEDULE 20 Application for approval of a financial guarantee
 
 SCHEDULE 21 Enforcement powers
 

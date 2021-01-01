@@ -2936,6 +2936,4 @@ PART B: RECYCLING
 
 (c) recycling of 50 % by average weight of other waste batteries and accumulators.
 
-Public Health
-
-1950-07 SCHEDULE 17 Repealed. ________________________
+________________________
