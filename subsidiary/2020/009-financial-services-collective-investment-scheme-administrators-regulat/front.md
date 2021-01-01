@@ -6,7 +6,9 @@ LN.2020/009
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/485 rr. 2(1), 25, 35, 38(1)-(3), 39, 42, Sch. 1.1.2021 2022/188 Sch. 1.1.2021
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -26,13 +28,13 @@ Independence
 
 Advertising and marketing
 
-9. Issue of advertisements. 10. Identification of issuer.
-
-11 Fair and clear communications. 12. Customer’s understanding of risk. 13. Information about the administrator. 14. Representatives of the administrator.
+9. Issue of advertisements. 10. Identification of issuer. 11 Fair and clear communications. 12. Customer’s understanding of risk. 13. Information about the administrator. 14. Representatives of the administrator.
 
 Customer relations
 
-15. Service agreements. 16. Where written service agreement required. 17. Customer’s rights. 18. Suitability. 19. Charges.
+15. Service agreements. 16. Where written service agreement required. 17. Customer’s rights. 18. Suitability.
+
+19. Charges.
 
 Administration 20. Complaints. 21. Compliance. 22. Supervision. 23. Cessation of business.
 
@@ -44,9 +46,7 @@ Accounting records
 
 Customer money
 
-32. Application. 33. Customer money. 34. Duty to segregate. 35. Duty to keep customer money safe. 36. Customer money to be held on trust. 37. Accounting for and use of customer money.
-
-38. Customer bank accounts. 39. Interest on customer money. 40. Payment of other money into a customer bank account. 41. Payment out of a customer bank account. 42. An administrator as authorised credit institution.
+32. Application. 33. Customer money. 34. Duty to segregate. 35. Duty to keep customer money safe. 36. Customer money to be held on trust. 37. Accounting for and use of customer money. 38. Customer bank accounts. 39. Interest on customer money. 40. Payment of other money into a customer bank account. 41. Payment out of a customer bank account. 42. An administrator as recognised credit institution.
 
 PART 5 PRUDENTIAL REQUIREMENTS
 

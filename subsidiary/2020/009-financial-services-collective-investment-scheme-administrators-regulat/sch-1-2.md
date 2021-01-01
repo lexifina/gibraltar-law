@@ -80,7 +80,7 @@ Residual Maturity
 
 0- 90 days 90 days- 12 Months 12 months - 5 years more than 5 years Total
 
-- UK Government, Government of Gibraltar and Local Authority debt - Accepted or issued by an approved bank - Floating Rate Notes - Other debt instruments: - marketable investments - not marketable investments
+- UK Government, Government of Gibraltar and Local Authority debt - Accepted or issued by a recognised credit institution - Floating Rate Notes - Other debt instruments: - marketable investments - not marketable investments
 
 ____ ____ ____ ____ ____ ____ ____
 
