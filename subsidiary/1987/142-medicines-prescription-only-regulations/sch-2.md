@@ -56,6 +56,12 @@ PART II
 
 (f) health visitors registered in the register maintained pursuant to section 28 of the Medical and Health Act, 1997.
 
+PART III
+
+(a) paramedics;
+
+(b) anyone deemed by the Director of Public Health to be competent who meets the additional requirements set out in the direction.
+
 Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
 
 Subsidiary 1987/142 1997-25
