@@ -39,7 +39,3 @@ Allowance for second dependent child £18.69
 £1.45
 
 £0.93
-
-Social Security (Employment Injuries Insurance)
-
-1952-10

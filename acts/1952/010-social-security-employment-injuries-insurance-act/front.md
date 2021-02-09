@@ -1,8 +1,4 @@
-Social Security (Employment Injuries Insurance)
-
-1952-10
-
-SOCIAL SECURITY (EMPLOYMENT INJURIES INSURANCE) ACT
+Social Security (Employment Injuries Insurance) Act
 
 Principal Act
 
@@ -24,29 +20,21 @@ Act. 1954-01 ss. 2, 3(2), 14(1), 15(2), (5), (7), 19(3), 20, 22, 26(3), 29(1)-(2
 
 1966-08 ss. 2, 16(2), 20, 22(1), 24, 27(1)
 
-1966-27 –
+1966-27 – Regs. of 29.5.1970 s. 2
 
-Regs.of 29.5.1970 s. 2
+Act. 1970-12 – LN. 1971/008 –
 
-Act. 1970-12 –
-
-LN. 1971/008 –
-
-1971/021 –
-
-Act. 1973-15 ss. 5, 6(3), 7(2), 16(2), 19(1)-(2), (4), 20, 21(4), 22(1), 23(2), 43(4), 46(1), 47
+1971/021 – Act. 1973-15 ss. 5, 6(3), 7(2), 16(2), 19(1)-(2), (4), 20, 21(4), 22(1), 23(2), 43(4), 46(1), 47
 
 1973-28 ss. 16(2), 19(1)-(2), (4), 20, 21(4), 22(1)
 
-1974-31 ss. 4A, 16(2), 19(1)-(2), (4), 20, 21(4), 22(1)
-
-1975-27 ss. 2, 16(2), 19(1)-(2), (4), 20, 21(4), 22(1), Sch. 1
+1974-31 ss. 4A, 16(2), 19(1)-(2), (4), 20, 21(4), 22(1) 1975-27 ss. 2, 16(2), 19(1)-(2), (4), 20, 21(4), 22(1), Sch.1
 
 1976-31 Schs.1, 6
 
 1976-32 ss. 15(6)-(7), 16(2), 19(1)-(2), 20, 21(4), 22(1)
 
-1977-21 ss. 19(1)-(2), 51(1), 55, Schs.1, 2
+1977-21 ss. 19(1)-(2), 51(1), 55, Schs.1-2
 
 LN. 1977/136 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Sch.1
 
@@ -54,9 +42,7 @@ LN. 1977/136 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Sch.1
 
 1979/095 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Sch.1
 
-Social Security (Employment Injuries Insurance)
-
-1952-10 1980/109 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1)
+1980/109 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1)
 
 Act. 1981-02 ss. 4(4), 6(3), 43(4), 46(1), 47, 50(2)
 
@@ -70,31 +56,25 @@ LN. 1983/097 ss. 16(2), 19(1)-(2), 20, 21(4), 22(1), Schs.2-5
 
 1986/131 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.1-5
 
-1.1.1987 1987/026 ss. 3, 4B 29.10.1987 1987/164 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.1-5
+1.1.1987 Act. 1987-26 ss. 3, 4B 29.10.1987 LN. 1987/164 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.1-5
 
 1.1.1988 1988/122 ss, 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.2-5
 
-1.1.1989 Act. 1989-40 ss. 2, 51(1), (5), 55 21.12.1989 LN. 1989/115 ss, 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.1-5
+1.1.1989
 
-1.1.1990 1990/188 Sch. 1 7.1.1991 Act. 1997-18 ss. 2, 3, 10 5.6.1997 LN.1997/165 Sch.1 5.1.1998 Act. 1999-21 Sch.1 5.7.1999 LN. 1999/097 s. 43 12.8.1999 Act. 2001-04 ss. 2, 4(2)(a)-(c), (3)-(5), 6(3), 7(2), 9, 31(2), (8), 32, 35(1)-(2), (4), 38(1)-(2), 39, 43(1), (4), 46(1), (a)- (c), (2), 47, 50(1)-(2), 51(4), 52, 54
+Act. 1989-40 ss. 2, 51(1), (5), 55 21.12.1989 LN. 1989/115 ss, 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.1-5
+
+1.1.1990 1990/188 Sch. 1 7.1.1991 Act. 1997-18 ss. 2, 3, 10 5.6.1997 LN.1997/165 Sch.1 5.1.1998 Act. 1999-21 Sch.1 5.7.1999 LN. 1999/097 s. 43 12.8.1999 Act. 2001-04 ss. 2, 4(2)(a)-(c), (3)-(5), 6(3), 7(2), 9, 31(2), (8), 32, 35(1)-(2), (4), 38(1)-(2), 39, 43(1), (4), 46(1), (a)-(c), (2), 47, 50(1)-(2), 51(4), 52, 54
 
 14.3.2001 LN. 2002/004 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.2-5
 
 1.1.2002 2004/129 Sch.1 3.1.2005 Act. 2007-22 s. 5(1)-(3) 1.7.2006 LN. 2007/052 Sch.1 1.4.2007 Act. 2007-17 s. 51(3)-(4) 14.6.2007 LN. 2007/132 ss. 16(2), 19(1)-(2), (a)-(b), 20, 21(4)(a)-(b), 22(1), Schs.2-5
 
-1.9.2007 2008/0451 Sch.1 1.7.2008 2009/0412 Sch.1 16.7.2009 2010/1143 Sch.1 1.7.2010
+1.9.2007 2008/0451 Sch.1 1.7.2008 2009/0412 Sch.1 16.7.2009 2010/1143 Sch.1 1.7.2010 Act. 2013-27 ss. 5(1), 6(4), 45A, 48(3)-(4), 55(1), Sch.1 28.11.2013 2014-10 ss. 2, 3(2)(iv), 18(1)(a)-(b), 19(1), (2)(a)-(b), (3), 20(b), 21(2), 22(1), 27(3)
 
-1 LN. 2008/45 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/42) 2 LN. 2009/041amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/42) 3 LN. 2010/114 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/46).
+28.3.2014 2017-13 ss. 5(1A), (4), 6(2)(a) 1.7.2015 LN. 2017/0571 Sch.1 1.4.2017 Act. 2017-10 s. 15(2)(a) 13.6.2018 LN. 2020/535 s. 54(1), (3) 24.12.2020 “ s. 51(1), (5) 1.1.2021 Act. 2021-09 s. 2 9.2.2021
 
-Social Security (Employment Injuries Insurance)
-
-1952-10 Act. 2013-27 ss. 5(1), 6(4), 45A, 48(3)-(4), 55(1), Sch.1
-
-28.11.2013 2014-10 ss. 2, 3(2)(iv), 18(1)(a)-(b), 19(1), (2)(a)-(b), (3), 20(b), 21(2), 22(1), 27(3)
-
-28.3.2014 2017-13 ss. 5(1A), (4), 6(2)(a) 1.7.2015 LN. 2017/0571 Sch.1 1.4.2017 Act. 2017-10 s. 15(2)(a) 13.6.2018 LN. 2020/535 s. 54(1), (3) 24.12.2020 “
-
-s. 51(1), (5) 1.1.2021
+1 LN. 2008/045 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/042) 2 LN. 2009/041 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/042) 3 LN. 2010/114 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/046). 1 LN. 2017/057 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/042)
 
 (The corresponding enactment in the United Kingdom appears under the title National Insurance Act 1965).
 
@@ -102,13 +82,9 @@ English source
 
 National Insurance (Industrial Injuries) Act 1946 (9 & 10 Geo.6 c.62)
 
-1 LN. 2017/057 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Employment Injuries Insurance) (Amendment of Contributions) Regulations 2008 (LN. 2008/42)
+ARRANGEMENT OF SECTIONS
 
-Social Security (Employment Injuries Insurance)
-
-1952-10 ARRANGEMENT OF SECTIONS.
-
-Section.
+Section
 
 PART I. GENERAL.
 
@@ -130,9 +106,7 @@ Death benefit.
 
 19. Widows, widowers, surviving civil partners and children. 20. Orphans.
 
-Social Security (Employment Injuries Insurance)
-
-1952-10 21. Parents. 22. Dependants. 23. Payment of benefit. 24. Payment of benefit where beneficiary is an orphan. 25. Benefit to be inalienable. 26. Claim for benefit. 27. Disqualifications. 28. Repayment of benefits. 29. Recovery of benefit. 30. Insured persons entitled to free medical treatment. 31. Occupational diseases and injuries not caused by accident. 32. Disqualifications, etc., to be disregarded for certain purposes.
+21. Parents. 22. Dependants. 23. Payment of benefit. 24. Payment of benefit where beneficiary is an orphan. 25. Benefit to be inalienable. 26. Claim for benefit. 27. Disqualifications. 28. Repayment of benefits. 29. Recovery of benefit. 30. Insured persons entitled to free medical treatment. 31. Occupational diseases and injuries not caused by accident. 32. Disqualifications, etc., to be disregarded for certain purposes.
 
 PART V. DETERMINATION OF QUESTIONS AND CLAIMS.
 
@@ -146,13 +120,9 @@ PART VI. ADMINISTRATION AND ENFORCEMENT.
 
 43. Appointment of inspectors and officers. 44. Employment Injuries Insurance Advisory Committee. 45. Proceedings in court. 45A.  Civil proceedings to recover sums. 46. Penalties for certain offences. 47. General penalty. 48. Payment of employer of unpaid contributions. 49. Limitation. 50. General power to make regulations.
 
-PART VII.
+PART VII. FINANCE.
 
-Social Security (Employment Injuries Insurance)
-
-1952-10 FINANCE.
-
-51. Employment In juries Insurance Fund. 52. Report by actuary. 53. Exemption from stamp duty. 54. Reciprocal agreements. 55. Review of contributions, benefits, etc.
+51. Employment Injuries Insurance Fund. 52. Report by actuary. 53. Exemption from stamp duty. 54. Reciprocal agreements. 55. Review of contributions, benefits, etc.
 
 SCHEDULE 1. Combined Social Insurance and Other Contribution Rates
 
@@ -166,6 +136,4 @@ SCHEDULE 5. Disablement Gratuity.
 
 SCHEDULE 6. Constitution, etc., of Employment Injuries Insurance Advisory Committee.
 
-Social Security (Employment Injuries Insurance)
-
-1952-10 AN ACT TO MAKE PROVISION FOR INSURANCE AGAINST PERSONAL INJURY CAUSED BY ACCIDENT ARISING OUT OF AND IN THE COURSE OF AN INSURED PERSON'S EMPLOYMENT AND AGAINST PRESCRIBED DISEASES AND INJURIES DUE TO THE NATURE OF SUCH A PERSON'S EMPLOYMENT AND FOR PURPOSES CONNECTED THEREWITH.
+AN ACT TO MAKE PROVISION FOR INSURANCE AGAINST PERSONAL INJURY CAUSED BY ACCIDENT ARISING OUT OF AND IN THE COURSE OF AN INSURED PERSON'S EMPLOYMENT AND AGAINST PRESCRIBED DISEASES AND INJURIES DUE TO THE NATURE OF SUCH A PERSON'S EMPLOYMENT AND FOR PURPOSES CONNECTED THEREWITH.
