@@ -1,42 +1,32 @@
-Animals
-
-1948-30
-
-ANIMALS ACT
+Animals Act
 
 Principal Act
 
 Act. No. 1948-30 Commencement 1.1.1949 Assent 24.8.1948
 
-Amending enactments Relevant current provisions Commencement date Acts. 1960-21 ss. 5-6, 9, 17 1968-17 ss. 2(1), 8, 17(1) Reg. of  28.5.1970 ss. 2(1), 4, 7, 24(4)-(5) Acts. 1974-16 s. 2(2) 1975-32 ss. 2(1), 10, 21, 26 1983-48 s. 12 1987-34 ss. 4, 7, 10, 24 1.2.1988 1987-33 ss. 2(1), 10(1A)-(1B), (2), (9), 14(2), 15, 18(3), 20-24, 25(2)-(3), 25A
+Amending enactments Relevant current provisions Commencement date Act. 1960-21 ss. 5-6, 9, 17 1968-17 ss. 2(1), 8, 17(1) Reg. of 28.5.1970 ss. 2(1), 4, 7, 24(4)-(5) Act. 1974-16 s. 2(2) 1975-32 ss. 2(1), 10, 21, 26 1983-48 s. 12 1987-34 ss. 4, 7, 10, 24 1.2.1988 1987-33 ss. 2(1), 10(1A)-(1B), (2), (9), 14(2), 15, 18(3), 20-24, 25(2)-(3), 25A
 
-1.3.1988 1991-11 ss. 8-9 9.5.1991 2004-27 ss. 2(1)-(2), 4, 7(1)-(2), 10(1)(a), (1C), (3)-(4), 21, 22(1A)-(1B), (4)- (6), 23, 24(2), (4)-(5), 26, (kk)
+1.3.1988 1991-11 ss. 8-9 9.5.1991 2004-27 ss. 2(1)-(2), 4, 7(1)-(2), 10(1)(a), (1C), (3)-(4), 21, 22(1A)-(1B), (4)-(6), 23, 24(2), (4)-(5), 26, (kk)
 
 17.8.2004 2006-10 ss. 10(2), (9), 14(2), 15, 18(3), 20, 23, 25(3), 25A
 
-20.4.2006 2014-03 ss. 2, 6A-6B, 27, Sch. 27.2.2014 2016-02 ss. 10(3), (3A), (4)-(6), (6A)-(6C), (7)-(8), 10A
+20.4.2006 2014-03 ss. 2, 6A-6B, 27, Sch. 27.2.2014 2016-02 ss. 10(3), (3A), (4)-(6), (6A)-(6C), (7)-(8), 10A 28.1.2016 2016-19 ss. 2(1), 10(2), (6)(c)-(d), 10(7A)-(7C), 26(ja), (k), Sch.
 
-28.1.2016 2016-19 ss. 2(1), 10(2), (6)(c)-(d), 10(7A)- (7C), 26(ja), (k), Sch.
+2.12.20161 2018-21 ss. 1-6, 6A(1)(c), 7(1), 10(4), (6), (d), (6C), (7B)- (7C), (10), 11, 12A-12B, 13, 14(1), 15, 16(1)- (2), 17(1)-(2), 18(2)-(3), 19(1), (b), (2), 21A- 21C, 22(1), (3)-(6), 24(1)-(2), (4)-(6), 25-26, (b), (bb), (c), (e)-(f), Sch.
 
-2.12.20161 2018-21 ss. 1-6, 6A(1)(c), 7(1), 10(4), (6), (d), (6C), (7B)-(7C), (10), 11, 12A- 12B, 13, 14(1), 15, 16(1)-(2), 17(1)-(2), 18(2)-(3), 19(1), (b), (2), 21A-21C, 22(1), (3)-(6), 24(1)-(2), (4)-(6), 25-26, (b), (bb), (c), (e)-(f), Sch.
+15.11.2018 2020-09 s. 6A(1)(b)-(d) 6.8.2020 2021-02 ss. 2(1), 5(1)(h)-(i), (3A)-(3B) 9.2.2021
 
-15.11.2018 2020-09 s. 6A(1)(b)-(d) 6.8.2020
+English sources: Protection of Birds Act 1954 (2 and 3 Eliz. 2 c.30) Protection of Animals (Amendment) Act 1954 (2 and 3 Ell. 2 c.40) Abandonment of Animals Act 1960 (8 and 9 Eliz. 2 c.43)
 
 1 Notice of Commencement (LN. 2016/243)
 
-Transitional provisions - In respect of a dog registered prior to the coming into force of this Act, section 2(4) and (5) of this Act shall apply upon the renewal of the licence under rule 16 of the Animals Rules 2004.
-
-Animals
-
-1948-30 English sources: Protection of Birds Act 1954 (2 and 3 Eliz. 2 c.30) Protection of Animals (Amendment) Act 1954 (2 and 3 Ell. 2 c.40) Abandonment of Animals Act 1960 (8 and 9 Eliz. 2 c.43)
-
 Implementing: Regulation (EC) No 998/2003
 
-Animals
+ARRANGEMENT OF SECTIONS
 
-1948-30 ARRANGEMENT OF SECTIONS.
+Section
 
-Section PART I. INTRODUCTORY. 1. Short title. 2. Interpretation.
+PART I. INTRODUCTORY. 1. Short title. 2. Interpretation.
 
 PART II. DISEASES OF ANIMALS.
 
@@ -50,13 +40,11 @@ PART IV. LEGAL PROCEEDINGS.
 
 13.  Proceedings to be summary. 14.  Dangerous animals. 15.  Damage to animals. 16.  Destruction and deprivation of ownership. 17.  Power to disqualify persons convicted of cruelty to animals. 18.  Production of drivers, etc., and animals. 19. Burden of proof.
 
-PART V. PENALTIES.
+PART V.
 
-20.  Penalty for an offence against this Act.
+PENALTIES.
 
-Animals
-
-1948-30 21.  Penalties for breach of rules.
+20.  Penalty for an offence against this Act. 21.  Penalties for breach of rules.
 
 PART VA ANIMALS IN DISTRESS
 
@@ -68,4 +56,4 @@ PART VI. MISCELLANEOUS PROVISIONS.
 
 SCHEDULE AUTHORISED OFFICERS
 
-Animals
+AN ACT TO AMEND AND CONSOLIDATE THE LAW RELATING TO ANIMALS.
