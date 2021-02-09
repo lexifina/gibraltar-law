@@ -28,9 +28,7 @@ NARROWER-RANGE INVESTMENTS REQUIRING ADVICE.
 
 6. In fixed-interest securities issued in the United Kingdom by any public authority or nationalized industry or undertaking in the United Kingdom.
 
-Trustees
-
-1895-18 7. In fixed-interest securities issued in the United Kingdom by the government of any overseas territory within the Commonwealth or by any public or local authority within such a territory, being securities registered in the United Kingdom.
+7. In fixed-interest securities issued in the United Kingdom by the government of any overseas territory within the Commonwealth or by any public or local authority within such a territory, being securities registered in the United Kingdom.
 
 8. In fixed-interest securities issued in the United Kingdom by the International Bank for Reconstruction and Development, being securities registered in the United Kingdom.
 
@@ -51,10 +49,6 @@ This paragraph applies to the following authorities that is to say–
 (c)  any authority the majority of the members of which are appointed or elected by one or more local authorities in the United Kingdom, being an authority which by virtue of any enactment has power to issue a precept to a local authority in England and Wales, or a requisition to a local authority in Scotland or to the expenses of which, by virtue of any enactment a local authority in the United Kingdom is or can be required to contribute;
 
 (d)  the Receiver for the Metropolitan Police District or a combined police authority (within the meaning of the Police Act, 1946);
-
-Trustees
-
-1895-18
 
 (e)  the Belfast City and District Water Commissioners.
 
@@ -80,10 +74,6 @@ WIDER-RANGE INVESTMENTS.
 
 PART IV.
 
-Trustees
-
-1895-18
-
 SUPPLEMENTAL.
 
 1. The securities mentioned in Parts I to III of this Schedule do not include any securities where the holder can be required to accept repayment of the principal, or the payment of any interest, otherwise than in sterling.
@@ -106,11 +96,7 @@ For the purposes of sub-paragraph (b) of this paragraph a company formed–
 
 (ii) to acquire the securities of, or control of, another company or other companies,
 
-or for either of those purposes and for other purposes shall be deemed to have paid a dividend as mentioned in that sub-paragraph in any year in
-
-Trustees
-
-1895-18 which such a dividend has been paid by the other company or all the other companies, as the case may be.
+or for either of those purposes and for other purposes shall be deemed to have paid a dividend as mentioned in that sub-paragraph in any year in which such a dividend has been paid by the other company or all the other companies, as the case may be.
 
 4. In this Schedule, unless the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them, that is to say–
 
@@ -138,14 +124,6 @@ Trustees
 
 5. It is hereby declared that in this Schedule “mortgage”, in relation to freehold or leasehold property in Northern Ireland, includes a registered charge which, by virtue of section 40(4) of the Local Registration of Title (Ireland) Act, 1891, or any other enactment, operates as a mortgage by deed.
 
-Trustees
-
-1895-18
-
 6. References in this Schedule to an incorporated company are references to a company incorporated by or under any enactment and include references to a body of persons established for the purpose of trading for profit and incorporated by Royal Charter.
 
 7. The references in paragraph 15 of Part II and paragraph 2 of Part III of this Schedule to a building society designated under section I of the House Purchase and Housing Act, 1959, include references to a permanent society incorporated under the Building Societies Acts (Northern Ireland) 1874 to 1940 for the time being designated by the Registrar for Northern Ireland under subsection (2) of that section (which enables such a society to be so designated for the purpose of trustees powers of investment specified in paragraph (a) of subsection (1) of that section ).
-
-Trustees
-
-1895-18
