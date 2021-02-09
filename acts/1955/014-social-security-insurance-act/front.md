@@ -126,11 +126,9 @@ Social Security (Insurance)
 
 28.3.2014 2015-111 ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3
 
-30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017 2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020
+30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017 2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
-
-Transposing:
 
 1 Transitional provisions: If between 30 June 2014 and the date of publication of this Act–
 
@@ -152,7 +150,7 @@ the prescribed time for claiming the benefit shall be the period of 18 months be
 
 Social Security (Insurance)
 
-1955-14 Directive 86/613/EEC Directive 2010/41/EU
+1955-14 Transposing: Directive 86/613/EEC Directive 2010/41/EU
 
 Social Security (Insurance)
 
