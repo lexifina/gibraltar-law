@@ -2,11 +2,9 @@ Climate Change Act 2019
 
 Principal Act
 
-Act. No. 2019-29 Commencement (LN. 2019/201) 10.10.2019
+Act. No. 2019-29 Commencement (LN. 2019/201) 10.10.2019 Assent 23.7.2019
 
-Assent 23.7.2019
-
-_______________________________
+Amending enactments Relevant current provisions Commencement date Act.2021-04 ss. 11(2)(a), 45(5), 47(3) 9.2.2021
 
 ARRANGEMENT OF SECTIONS
 
@@ -34,9 +32,7 @@ The interim target
 
 Progress targets
 
-10. Progress targets.
-
-11. Setting progress targets. 12. Modifying progress targets. 13. Limits on use of carbon units.
+10. Progress targets. 11. Setting progress targets. 12. Modifying progress targets. 13. Limits on use of carbon units.
 
 PART 4 FUNCTIONS OF CLIMATE CHANGE COMMITTEE
 
@@ -66,7 +62,9 @@ PART 6 REPORTING DUTIES
 
 30. Reports on progress targets. 31. Reports on progress targets: content. 32. Reports on proposals and policies for meeting progress targets. 33. Report on the interim target. 34. Report on the 2045 target. 35. Further provision about reporting duties.
 
-PART 7 DUTIES OF PUBLIC BODIES RELATING TO CLIMATE CHANGE
+PART 7
+
+DUTIES OF PUBLIC BODIES RELATING TO CLIMATE CHANGE
 
 Duties of Public Bodies
 
@@ -128,9 +126,7 @@ TRANSPORT
 
 63. Reduction of Gibraltar emissions from transport.
 
-SCHEDULE
-
-Categories of waste
+SCHEDULE Categories of waste
 
 AN ACT TO SET A TARGET FOR THE YEAR 2045, AND INTERIM TARGET FOR THE YEAR 2030, AND TO PROVIDE FOR PROGRESS TARGETS FOR THE REDUCTION OF GREENHOUSE GAS EMISSIONS; TO ESTABLISH A COMMITTEE ON CLIMATE CHANGE; TO CONFER POWER ON MINISTERS TO IMPOSE CLIMATE CHANGE DUTIES ON PUBLIC BODIES; TO MAKE FURTHER PROVISION ABOUT MITIGATION OF AND ADAPTATION TO CLIMATE CHANGE; TO MAKE PROVISION ABOUT ENERGY EFFICIENCY; TO MAKE PROVISION ABOUT THE REDUCTION AND RECYCLING OF WASTE; TO MAKE OTHER PROVISION ABOUT CLIMATE CHANGE; AND FOR CONNECTED PURPOSES.
 
