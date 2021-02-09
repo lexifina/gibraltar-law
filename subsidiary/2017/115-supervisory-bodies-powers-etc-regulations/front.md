@@ -14,11 +14,17 @@ Amending enactments Relevant current provisions Commencement date
 
 Act. 2019-05 r. 11(3) 21.3.2019 LN. 2019/116 r. 31(4A) 13.6.2019 2020/110 rr. 3, 9(1)-(4), 9A, 10A, 32, 32A, 34A
 
-13.3.2020
+13.3.2020 Act.2021-08 rr. 3, 5(2)(a), (c), 6, 9A(1)(a)- (b), 10A(3)(a)(i), 11(1)(a)
+
+9.2.2021
 
 Transposing – Directive (EU) 2015/849
 
-_______________________
+Proceeds of Crime SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
+
+2015-22
+
+Subsidiary 2017/115
 
 ARRANGEMENT OF REGULATIONS
 
@@ -28,13 +34,7 @@ Regulation Part 1 General
 
 Part 2 Cooperation
 
-9. Cooperation with competent authorities outside Gibraltar. 9A. Cooperation between supervisory bodies and equivalent authorities.
-
-Proceeds of Crime SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
-
-2015-22
-
-Subsidiary 2017/115 10. Cooperation with EBA, EIOPA and ESMA.
+9. Cooperation with competent authorities outside Gibraltar. 9A. Cooperation between supervisory bodies and equivalent authorities. 10. Cooperation with EBA, EIOPA and ESMA.
 
 Part 2a Confidentiality
 
@@ -50,7 +50,13 @@ Powers to obtain information
 
 12. Power to require information and production of documents, etc. 13. Skilled person report. Powers to appoint inspectors
 
-14. Appointment of inspectors. 15. Powers of inspectors. 16. Inspector’s report. 17. Duty to produce records, etc.
+14. Appointment of inspectors. 15. Powers of inspectors. 16. Inspector’s report.
+
+Proceeds of Crime SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
+
+2015-22
+
+Subsidiary 2017/115 17. Duty to produce records, etc.
 
 Part 4 Enforcement and Sanctioning Powers
 
@@ -60,13 +66,7 @@ Sanctions
 
 Determination of sanction
 
-22. Liability of legal persons. 23. Liability of natural persons. 24. Effective application of sanctions. 25. Cooperation on the imposition of sanctions. 26. Warning notices. 27. Decision notices. 28. Interim orders.
-
-Proceeds of Crime SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
-
-2015-22
-
-Subsidiary 2017/115 29. Service of notice and documents.
+22. Liability of legal persons. 23. Liability of natural persons. 24. Effective application of sanctions. 25. Cooperation on the imposition of sanctions. 26. Warning notices. 27. Decision notices. 28. Interim orders. 29. Service of notice and documents.
 
 Appeals and Miscellaneous
 
