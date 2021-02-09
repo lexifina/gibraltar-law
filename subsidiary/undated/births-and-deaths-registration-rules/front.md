@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 17.12.1963 r. 5
 
-LN. 1998/027 Sch. 2 2.4.1998 2003/021 Sch. 2 1.4.2003 2008/014 r. 3, Sch. 1 20.3.2008 2009/027 Sch. 1 (Form D) 7.5.2009 2011/009 Sch. 1 (Form D) 3.2.2011 2018/224 Sch. 1 (Form G) 18.10.2018 2020/351 Sch. 2 15.10.2020
+LN. 1998/027 Sch. 2 2.4.1998 2003/021 Sch. 2 1.4.2003 2008/014 r. 3, Sch. 1 20.3.2008 2009/027 Sch. 1 (Form D) 7.5.2009 2011/009 Sch. 1 (Form D) 3.2.2011 2018/224 Sch. 1 (Form G) 18.10.2018 2020/351 Sch. 2 15.10.2020 Act. 2021-09 r. 8(aa) 9.2.2021
 
 Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
 
