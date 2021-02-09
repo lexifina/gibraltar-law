@@ -1,26 +1,24 @@
-Terrorism
-
-2018-25
-
-TERRORISM ACT 2018
+Terrorism Act 2018
 
 Principal Act
 
-Act. No. 2018-25 Commencement (LN.2019/038) ss. 1-84, 86(1), 90-99, 108-142, 144(1)(a)- (b), 145-151, 152(1)- (2), 153- 156, 157(1)-(6), (7)(b)-(e), (8), 158, 159(1), (2)(a), (6), (8), (9), (14), (16), 160, Schs. 1-8, 12-14, 15(para.1(a), 2, 3, 4(1), 6-8, 16. 22.2.2019
+Act. No. 2018-25 Commencement (LN.2019/038) ss. 1-84, 86(1), 90-99, 108-142, 144(1)(a)- (b), 145-151, 152(1)- (2), 153-156, 157(1)-(6), (7)(b)-(e), (8), 158, 159(1), (2)(a), (6), (8)-(9), (14), (16), 160, Schs. 1-8, 12-14, 15(para.1(a), 2-3, 4(1), 6-8, 16.
+
+22.2.2019
 
 Assent 20.12.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2019-05 ss. 19(1)(b), 41(5), 43(3), (4), 51(2)(c), 53(4), 96(1), 160(2)- (3), Schs. 2, 9 21.3.2019 LN. 2019/093 s. 39A, Sch. 17 11.4.2019 2019/243 ss. 151A, 140B, 151(1)(b) 19.12.2019 2020/110 s. 53(4), Sch. 2 13.3.2020 2020/521 s. 128(9)(c) 1.1.2021
+Act. 2019-05 ss. 19(1)(b), 41(5), 43(3)-(4), 51(2)(c), 53(4), 96(1), 160(2)-(3), Schs. 2, 9
 
-Terrorism
-
-2018-25
+21.3.2019 LN. 2019/093 s. 39A, Sch. 17 11.4.2019 2019/243 ss. 140B, 151(1)(b), 151A 19.12.2019 2020/110 s. 53(4), Sch. 2 13.3.2020 2020/521 s. 128(9)(c) 1.1.2021 Act.2021-08 s. 38A, Sch. 1 9.2.2021
 
 ARRANGEMENT OF SECTIONS
 
-Section No. PART 1 PRELIMINARY
+Section
+
+PART 1 PRELIMINARY
 
 1. Title. 2. Commencement. 3. Interpretation. 4. Terrorism: interpretation. 5. Terrorist property.
 
@@ -44,11 +42,9 @@ Encouragement of Terrorism
 
 Preparation of terrorist acts and terrorist training
 
-16. Preparation of terrorist acts. 17. Training for terrorism. 18. Powers for forfeiture for an offence under section 17. 19. Attendance at a place used for terrorist training. 20. Directing a terrorist organisation. 21. Possession for terrorist purposes.
+16. Preparation of terrorist acts. 17. Training for terrorism. 18. Powers for forfeiture for an offence under section 17. 19. Attendance at a place used for terrorist training.
 
-Terrorism
-
-2018-25 22. Travelling abroad for the purpose of terrorism. 23. Funding travelling abroad for the purpose of terrorism. 24. Organising or otherwise facilitating travelling abroad for the purpose of terrorism.
+20. Directing a terrorist organisation. 21. Possession for terrorist purposes. 22. Travelling abroad for the purpose of terrorism. 23. Funding travelling abroad for the purpose of terrorism. 24. Organising or otherwise facilitating travelling abroad for the purpose of terrorism.
 
 Radioactive and Nuclear Terrorism Offences
 
@@ -62,11 +58,9 @@ PART 4 TERRORIST PROPERTY
 
 Finance Offences
 
-35. Raising funds for terrorism. 36. Use and possession of money or other property for terrorism. 37. Arranging funds for terrorism. 38. Insurance against payments made in response to terrorist demands. 39. Money Laundering. 39A. Interpretation for the purposes of sections 35 to 39. 40. Disclosure of information: duty. 41. Disclosure of information: permission. 42. Cooperation with police. 43. Arrangements with prior consent. 44. Disclosure after entering into arrangements. 45. Reasonable excuse for failure to disclose. 46. Failure to disclose: regulated sector. 47. Protected disclosures. 48. Disclosures to the GFIU. 49. Tipping off: regulated sector. 50. Disclosures within an undertaking or group etc. 51. Other permitted disclosures between institutions etc. 52. Other permitted disclosures etc. 53. Interpretation of sections 49 to 52.
+35. Raising funds for terrorism. 36. Use and possession of money or other property for terrorism. 37. Arranging funds for terrorism. 38. Insurance against payments made in response to terrorist demands. 38A. Offence of Proliferation Financing. 39. Money Laundering. 39A. Interpretation for the purposes of sections 35 to 39. 40. Disclosure of information: duty. 41. Disclosure of information: permission. 42. Cooperation with police. 43. Arrangements with prior consent. 44. Disclosure after entering into arrangements. 45. Reasonable excuse for failure to disclose. 46. Failure to disclose: regulated sector. 47. Protected disclosures. 48. Disclosures to the GFIU. 49. Tipping off: regulated sector. 50. Disclosures within an undertaking or group etc.
 
-Terrorism
-
-2018-25 54. Penalties. 55. Meaning of “employment”.
+51. Other permitted disclosures between institutions etc. 52. Other permitted disclosures etc. 53. Interpretation of sections 49 to 52. 54. Penalties. 55. Meaning of “employment”.
 
 Forfeiture
 
@@ -92,13 +86,11 @@ Miscellaneous
 
 PART 6 DISCLOSURE OF INFORMATION
 
-71. Extension of existing disclosure powers. 72. Restriction on disclosure of information for overseas purposes. 73. Disclosure of information held by revenue departments. 74. Interpretation of Part 6.
+71. Extension of existing disclosure powers. 72. Restriction on disclosure of information for overseas purposes. 73. Disclosure of information held by revenue departments.
+
+74. Interpretation of Part 6.
 
 PART 7 TERRORIST INVESTIGATIONS
-
-Terrorism
-
-2018-25
 
 Cordons
 
@@ -120,15 +112,13 @@ Powers to stop and search in specified locations
 
 Parking
 
-95. Authorisations. 96. Exercise of power. 97. Duration of authorisation. 98. Offences. 99. Interpretation.
+95. Authorisations. 96. Exercise of power. 97. Duration of authorisation.
+
+98. Offences. 99. Interpretation.
 
 Port and Border Controls
 
 100. Port and border controls.
-
-Terrorism
-
-2018-25
 
 Bail for arrest under section 85 and continuing detention under Schedule 9
 
@@ -154,11 +144,7 @@ Period for which notification requirements apply
 
 Review and Appeals of Notification Requirements
 
-121. Review of notification requirement: qualifying relevant offender. 122. Review of notification requirements: application for review and qualifying dates.
-
-Terrorism
-
-2018-25 123. Review of notification requirements: determination of application for review. 124. Review of notification requirements: factors applying to determination under section 123. 125. Review of notification requirements: appeals. 126. Review of notification requirements: guidance.
+121. Review of notification requirement: qualifying relevant offender. 122. Review of notification requirements: application for review and qualifying dates. 123. Review of notification requirements: determination of application for review. 124. Review of notification requirements: factors applying to determination under section 123. 125. Review of notification requirements: appeals. 126. Review of notification requirements: guidance.
 
 Offences in relation to notification
 
@@ -174,11 +160,9 @@ PART 10 TERRORISM OVERSEAS
 
 PART 11 GENERAL
 
-141. Police powers. 142. Officers’ powers. 143. Powers to stop and search. 144. Consent to prosecution. 145. Defences. 146. Sentences for offences with a terrorist connection. 147. Crown servants, regulators, etc 148. Evidence. 149. Supplementary powers of forfeiture.
+141. Police powers. 142. Officers’ powers. 143. Powers to stop and search. 144. Consent to prosecution. 145. Defences.
 
-Terrorism
-
-2018-25 150. Money. 151. Liability of, and penalties for, a body corporate. 151A. Application to ships registered in Gibraltar.
+146. Sentences for offences with a terrorist connection. 147. Crown servants, regulators, etc 148. Evidence. 149. Supplementary powers of forfeiture. 150. Money. 151. Liability of, and penalties for, a body corporate. 151A. Application to ships registered in Gibraltar.
 
 PART 12 SUPPLEMENTARY PROVISIONS
 
@@ -202,11 +186,7 @@ SCHEDULE 8 ACCOUNT MONITORING ORDERS
 
 SCHEDULE 9 DETENTION - TREATMENT, REVIEW AND EXTENSION
 
-Part 1 Treatment of persons detained under section 85 Part 2 Review of detention under Schedule 10 Part 3 Review of detention under section 85
-
-Terrorism
-
-2018-25 Part 4 Extension of detention under section 85 Part 5 Emergency power for temporary extension of maximum period for extension of detention under section 85 Part 6 Code of practice
+Part 1 Treatment of persons detained under section 85 Part 2 Review of detention under Schedule 10 Part 3 Review of detention under section 85 Part 4 Extension of detention under section 85 Part 5 Emergency power for temporary extension of maximum period for extension of detention under section 85 Part 6 Code of practice
 
 SCHEDULE 10 PORT AND BORDER CONTROLS
 
@@ -224,6 +204,4 @@ SCHEDULE 16 QUALIFYING OFFENCES
 
 SCHEDULE 17 TREATY OFFENCES CONTAINED IN THE CONVENTIONS AND PROTOCOLS LISTED IN THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE SUPPRESSION OF THE FINANCING OF TERRORISM (ADOPTED BY THE GENERAL ASSEMBLY OF THE UNITED NATIONS IN RESOLUTION 54/109 OF 9 DECEMBER 1999)
 
-Terrorism
-
-2018-25 AN ACT TO MAKE PROVISION ABOUT TERRORISM OFFENCES, TO MAKE PROVISION FOR THE PROSCRIBING OF ORGANISATIONS, TO PROVIDE FOR ORDERS FOR THE FREEZING AND FORFEITURE OF TERRORIST PROPERTY AND FUNDS, TO PROVIDE FOR THE INVESTIGATION OF TERRORIST OFFENCES AND PROVIDE INVESTIGATION MEASURES, TO MAKE PROVISION IN CONNECTION WITH OVERSEAS TERRORISM, TO REPEAL AND REPLACE THE TERRORISM ACT 2005 AND FOR CONNECTED PURPOSES.
+AN ACT TO MAKE PROVISION ABOUT TERRORISM OFFENCES, TO MAKE PROVISION FOR THE PROSCRIBING OF ORGANISATIONS, TO PROVIDE FOR ORDERS FOR THE FREEZING AND FORFEITURE OF TERRORIST PROPERTY AND FUNDS, TO PROVIDE FOR THE INVESTIGATION OF TERRORIST OFFENCES AND PROVIDE INVESTIGATION MEASURES, TO MAKE PROVISION IN CONNECTION WITH OVERSEAS TERRORISM, TO REPEAL AND REPLACE THE TERRORISM ACT 2005 AND FOR CONNECTED PURPOSES.

@@ -34,9 +34,7 @@ Licences.
 
 4.(1)  A freezing order must include-
 
-Terrorism
-
-2018-25 (a) provision for the granting of licences authorising funds to be made available;
+(a) provision for the granting of licences authorising funds to be made available;
 
 (b) provision that a prohibition under the order is not to apply if funds are made available in accordance with a licence.
 
@@ -62,7 +60,7 @@ Terrorism
 
 (j) for licences to be of a defined or indefinite duration;
 
-(k) for the charging of a fee to cover the administrative costs of granting a licence;
+(k)  for the charging of a fee to cover the administrative costs of granting a licence;
 
 (l) for the variation and revocation of licences.
 
@@ -71,10 +69,6 @@ Information and documents.
 5.(1)  A freezing order may include provision that a person-
 
 (a) must provide information if required to do so and it is reasonably needed for the purpose of ascertaining whether an offence under the order has been committed;
-
-Terrorism
-
-2018-25
 
 (b) must produce a document if required to do so and it is reasonably needed for that purpose.
 
@@ -102,11 +96,7 @@ Disclosure of information.
 
 (2)  The first condition is that the person required to disclose is specified or falls within a description specified in the order.
 
-(3)  The second condition is that the person required to disclose knows or suspects, or has grounds for knowing or suspecting, that a person specified
-
-Terrorism
-
-2018-25 in the freezing order as a person to whom or for whose benefit funds are not to be made available-
+(3)  The second condition is that the person required to disclose knows or suspects, or has grounds for knowing or suspecting, that a person specified in the freezing order as a person to whom or for whose benefit funds are not to be made available-
 
 (a) is a customer of his or has been a customer of his at any time since the freezing order came into force; or
 
@@ -136,9 +126,7 @@ Terrorism
 
 Offences.
 
-Terrorism
-
-2018-25 7.(1)  A freezing order may include any of the provisions set out in this paragraph.
+7.(1)  A freezing order may include any of the provisions set out in this paragraph.
 
 (2)  A person commits an offence if he fails to comply with a prohibition imposed by the order.
 
@@ -162,9 +150,7 @@ Terrorism
 
 (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine or to both.
 
-Terrorism
-
-2018-25 (7)  A person guilty of an offence under a provision included under subparagraph (4) is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale or to both.
+(7)  A person guilty of an offence under a provision included under subparagraph (4) is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding level 5 on the standard scale or to both.
 
 Offences: procedure.
 
@@ -194,9 +180,7 @@ he as well as the body corporate is guilty of the offence and liable to be proce
 
 (4)  If the affairs of a body corporate are managed by its members subparagraph (2) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were an officer of the body.
 
-Terrorism
-
-2018-25 Compensation.
+Compensation.
 
 10.(1)  A freezing order may include provision for the award of compensation to or on behalf of a person on the grounds that he has suffered loss as a result of-
 
@@ -230,16 +214,10 @@ Minister’s duty to give reasons.
 
 11.(1) A freezing order must include provision that if-
 
-Terrorism
-
-2018-25
-
 (a) a person is specified in the order as a person to whom or for whose benefit funds are not to be made available; and
 
 (b) he makes a written request to the Minister to give him the reason why he is so specified, as soon as is practicable the Minister must give the person the reason in writing.
 
 (2)  Subparagraph (1) does not apply if, or to the extent that, particulars of the reason would not be required to be disclosed to the applicant in proceedings to set aside the freezing order.
 
-Terrorism
-
-2018-25
+_________________________
