@@ -28,9 +28,7 @@ Statements relating to conversions and transfers
 
 (ii) the officers of the company participating in the transfer;
 
-Friendly Societies
-
-1888-11 (d) any other matter which the Registrar requires in the case of the particular transfer.
+(d) any other matter which the Registrar requires in the case of the particular transfer.
 
 (2) No statement shall be sent unless its contents, so far as they concern the matters specified in this paragraph, have been approved by the Registrar.
 
@@ -56,11 +54,9 @@ PART II CONFIRMATION BY REGISTRAR
 
 Applications for confirmation
 
-5.(1)An application by a registered society for confirmation by the Registrar–
+5.(1) An application by a registered society for confirmation by the Registrar–
 
-Friendly Societies
-
-1888-11 (a) of a transfer of engagements of a registered society under section 67A above; or
+(a) of a transfer of engagements of a registered society under section 67A above; or
 
 (b) of the conversion of a registered society into a company under section 67D above,
 
@@ -94,10 +90,6 @@ it shall cause the direction, variation or revocation to be entered on a registe
 
 (b) if the Registrar so directs, in one or more newspapers.
 
-Friendly Societies
-
-1888-11
-
 (2) The notice shall–
 
 (a) state that any interested party has the right to make representations to the Registrar with respect to the application;
@@ -124,9 +116,7 @@ and the Registrar shall allow that society an opportunity to comment on the writ
 
 (b) where it has confirmed the transfer, shall withdraw its confirmation;
 
-Friendly Societies
-
-1888-11 but it may not withdraw its confirmation on or after the transfer date for the transfer.
+but it may not withdraw its confirmation on or after the transfer date for the transfer.
 
 (3) For the purposes of sub-paragraph (2) above, the Registrar may have regard to any requirements of the law of a country or territory outside Gibraltar which appear to the Registrar to be relevant.
 
@@ -152,11 +142,9 @@ Friendly Societies
 
 (a) from confirming a transfer by reason of any of the defects specified in paragraph 9(1) above; or
 
-Friendly Societies
+(b) from confirming a conversion by reason of any of the defects specified in paragraph 9(2) above,
 
-1888-11 (b) from confirming a conversion by reason of any of the defects specified in paragraph 9(2) above,
-
-it may give to any registered society participating in the transfer or, as the case may be, to the society proposing to convert a direction under sub- paragraph (2) below.
+it may give to any registered society participating in the transfer or, as the case may be, to the society proposing to convert a direction under sub-paragraph (2) below.
 
 (2) A direction under this sub-paragraph is a direction requiring a registered society–
 
@@ -184,8 +172,6 @@ Effect of failure to comply with relevant requirements
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-Friendly Societies
-
-1888-11 Interpretation
+Interpretation
 
 13. In this Part of this Schedule “relevant requirement", with reference to this Act or the rules of a registered society, means a requirement of this Schedule or of Sections 67A to 67E of this Act or of any rules prescribing the procedure to be followed by the society in approving or effecting a transfer of engagements or its conversion into a company.

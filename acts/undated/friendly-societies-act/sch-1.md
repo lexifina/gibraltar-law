@@ -1,6 +1,6 @@
 SCHEDULE 1
 
-Section  8
+Section 8
 
 MATTERS TO BE PROVIDED FOR BY THE RULES OF SOCIETIES REGISTERED UNDER THIS ACT.
 
@@ -26,16 +26,10 @@ MATTERS TO BE PROVIDED FOR BY THE RULES OF SOCIETIES REGISTERED UNDER THIS ACT.
 
 (a)  the keeping of separate accounts of all moneys received or paid on account of every particular fund or benefit assured for which a separate table of contributions payable shall have been adopted, and the keeping of a separate account of the expenses of management, and of all contributions on account thereof;
 
-Friendly Societies
-
-1888-11 (b)  returns every five years to the Registrar of the sickness and mortality of the society;
+(b)  returns every five years to the Registrar of the sickness and mortality of the society;
 
 (c)  a valuation once at least every five years of the assets and liabilities of the society, including the estimated risks and contributions;
 
 (d)  the voluntary dissolution of the society by consent of not less than five-sixths in value of the members, and of every person for the time being entitled to any benefit from the funds of the society, unless his claim be first satisfied or adequately provided for;
 
 (e)  the right of one-fifth of the total number of members, to apply to the Registrar for an investigation of the affairs of the society, or for winding up the same.
-
-Friendly Societies
-
-1888-11

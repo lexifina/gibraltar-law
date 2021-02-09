@@ -18,12 +18,10 @@ ______________
 
 ACKNOWLEDGEMENT OF REGISTRY OF AMENDMENT OF RULES.
 
-The foregoing amendment of the rules of the society is registered under the Friendly Societies Act, this  day of 20.
+The foregoing amendment of the rules of the society is registered under the Friendly Societies Act, this  day of
+
+20.
 
 (Signed)
 
 [Signature of Registrar] Registrar of Friendly Societies.
-
-Friendly Societies
-
-1888-11

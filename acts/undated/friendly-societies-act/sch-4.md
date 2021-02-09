@@ -18,9 +18,7 @@ Provided that–
 
 RULE FOR ASCERTAINING THE AMOUNT OF A FREE PAID-UP POLICY.
 
-Friendly Societies
-
-1888-11 The amount of a free paid-up policy is to be a sum bearing the same proportion to seventy five per cent of the value of the policy as the sum of one pound bears to the value of the reversion in the sum of one pound according to the contingency upon which the sum assured under the original policy was payable.
+The amount of a free paid-up policy is to be a sum bearing the same proportion to seventy five per cent of the value of the policy as the sum of one pound bears to the value of the reversion in the sum of one pound according to the contingency upon which the sum assured under the original policy was payable.
 
 GENERAL RULES APPLICABLE BOTH FOR VALUING POLICIES AND FOR ASCERTAINING THE AMOUNT OF A FREE PAID-UP POLICY.
 
@@ -31,7 +29,3 @@ GENERAL RULES APPLICABLE BOTH FOR VALUING POLICIES AND FOR ASCERTAINING THE AMOU
 3. The age of the person whose life is assured shall be obtained by adding to the age attained by him at his birthday next after the date of the issue of the policy, the duration of the policy in completed years at the date as at which the value of the policy is required to be ascertained.
 
 4. In the case of a policy issued for a term other than the whole term of life the remaining term at the date at which the value of the policy is required to be ascertained shall be obtained by deducting from the original term of the policy the duration of the policy in completed years at that date.
-
-Friendly Societies
-
-1888-11
