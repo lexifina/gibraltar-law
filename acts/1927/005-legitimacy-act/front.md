@@ -12,7 +12,7 @@ With which is consolidated Relevant current provisions Commencement date Act. 19
 
 ss.14 and 15
 
-Amending enactments Relevant current provisions Commencement date Act. 1932-10 Sch. 1934-11 ss. 2, 6(1), 10 1935-08 s. 8 1960-35 ss. 4, 5 1962-09 – 1972-06 s. 6(1), (2) 1975-31 s. 3(3) 1983-48 Sch. 2005-42 s. 10, Sch. 2.8.2005 2007-17 s. 5(4) 14.6.2007
+Amending enactments Relevant current provisions Commencement date Act. 1932-10 Sch. 1934-11 ss. 2, 6(1), 10 1935-08 s. 8 1960-35 ss. 4, 5 1962-09 – 1972-06 s. 6(1), (2) 1975-31 s. 3(3) 1983-48 Sch. 2005-42 s. 10, Sch. 2.8.2005 2007-17 s. 5(4) 14.6.2007 2021-09 s. 14(3)(c) 9.2.2021
 
 English sources
 
@@ -186,6 +186,8 @@ Legitimacy
 
 (b)  an adopted person under an adoption order made in Gibraltar or in any part of the United Kingdom, the Isle of Man or the Channel Islands or under an overseas adoption as defined in section 4(3) of the Adoption Act 1968.
 
+(c) a person who is the subject of a parental order made in Gibraltar or in any part of the United Kingdom, the Isle of Man or the Channel Islands
+
 Presumption that in dispositions of property references to children and other relatives  include references  to, and to persons related through, illegitimate children.
 
 15.(1). In any disposition made after the lst day of January, 1928–
@@ -198,11 +200,9 @@ Presumption that in dispositions of property references to children and other re
 
 (3) In this section references to an illegitimate child include references to an illegitimate child who is or becomes a legitimate person within the meaning of this ordnance or a person recognized by virtue of this Act or at common law as having been legitimated.
 
-(4) Where under any disposition any real or personal property or any interest in such property is limited (whether subject to any preceding limitation or charge or not) in such a way that it would, apart from this section, devolve (as nearly as the law permits) along with a dignity or title
-
 Legitimacy
 
-1927-05 of honour, then, whether or not the disposition contains an express reference to the dignity or title of honour, and whether or not the property or some interest in the property may in some event become severed therefrom, nothing in this section shall operate to sever the property or any interest therein from the dignity or title, but the property or interest shall devolve in all respect as if this section had not been enacted.
+1927-05 (4) Where under any disposition any real or personal property or any interest in such property is limited (whether subject to any preceding limitation or charge or not) in such a way that it would, apart from this section, devolve (as nearly as the law permits) along with a dignity or title of honour, then, whether or not the disposition contains an express reference to the dignity or title of honour, and whether or not the property or some interest in the property may in some event become severed therefrom, nothing in this section shall operate to sever the property or any interest therein from the dignity or title, but the property or interest shall devolve in all respect as if this section had not been enacted.
 
 (5)  There is hereby abolished, as respects dispositions made after the 1st day of September 1972 any rule of law that a disposition in favour of illegitimate children not in being when the disposition takes effect is void as contrary to public policy.
 
