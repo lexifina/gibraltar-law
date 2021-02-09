@@ -2,7 +2,11 @@ Information gathering powers
 
 Reporter to provide additional information.
 
-1ZDA.  Where a person makes a report (including, but not limited to, a disclosure or suspicious activity report in accordance with this or any other enactment) that person must provide the GFIU with such additional information relating to that disclosure as that officer may reasonably request in such form and within such reasonable period as the GFIU may require.
+1ZDA.  Where a person makes a report (including, but not limited to, a disclosure or suspicious activity report in accordance with this or any other enactment) that person must provide the GFIU with such additional
+
+Proceeds of Crime
+
+2015-22 information relating to that disclosure as that officer may reasonably request in such form and within such reasonable period as the GFIU may require.
 
 Information gathering.
 
@@ -13,10 +17,6 @@ Information gathering.
 (b) the GFIU reasonably considers that, for the proper fulfilment of any of its functions, it is necessary or expedient to seek additional information from any relevant person (“A”) who is not the reporter but who–
 
 (i) is mentioned in or otherwise identifiable from the report, or
-
-Proceeds of Crime
-
-2015-22
 
 (ii) to the reasonable knowledge or belief of the GFIU, holds information that is relevant to analysis of the report.
 
@@ -40,6 +40,10 @@ Proceeds of Crime
 
 (5)  In this section a “relevant person” means a person carrying on a relevant financial business within the meaning given by section 9.
 
+Proceeds of Crime
+
+2015-22
+
 Information Request.
 
 1DAA.(1) This section applies where the GFIU reasonably considers that, for the proper fulfilment of any of its functions, it is necessary or expedient to seek information from any relevant person (“A”) who to the reasonable knowledge or belief of the GFIU, holds information that is relevant to the fulfilment of those functions.
@@ -49,10 +53,6 @@ Information Request.
 (3) Upon receipt of a request duly made, A must provide the information in such form and by such date or within such reasonable period as the GFIU may require.
 
 (4) In this section a “relevant person” means a person carrying on a relevant financial business within the meaning given by section 9.
-
-Proceeds of Crime
-
-2015-22
 
 Criteria for making request.
 
@@ -74,11 +74,13 @@ Criteria for making request.
 
 (b) information in relation to which record-keeping requirements, or reporting and disclosure requirements under Part III, are imposed on a relevant person;
 
-(c) any other information which is necessary to determine whether a person is a holder or beneficial owner of one or more accounts of whatever nature;
+Proceeds of Crime
+
+2015-22 (c) any other information which is necessary to determine whether a person is a holder or beneficial owner of one or more accounts of whatever nature;
 
 (d) the particulars of specified accounts, or of operations which have been carried out during a specified period;
 
-(e)   the information is motivated by concerns relating to money laundering, an associated predicate offence, or terrorist financing.
+(e) the information is motivated by concerns relating to money laundering, an associated predicate offence, proliferation financing, or terrorist financing.
 
 Offence and penalty etc.
 
@@ -86,9 +88,7 @@ Offence and penalty etc.
 
 (2)  It is a defence for a person who is charged with an offence under subsection (1) to prove–
 
-Proceeds of Crime
-
-2015-22 (a) that the information requested was not within the person’s possession; or
+(a) that the information requested was not within the person’s possession; or
 
 (b) that it was not reasonably practicable for the person to comply with the request.
 
@@ -106,7 +106,11 @@ Proceeds of Crime
 
 that person as well as the body corporate is guilty of that offence and is liable to be proceeded against and punished accordingly.
 
-(5)  Where the affairs of a body corporate are managed by its members, subsection (4) shall apply in relation to acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
+(5)  Where the affairs of a body corporate are managed by its members, subsection (4) shall apply in relation to acts and defaults of a member in
+
+Proceeds of Crime
+
+2015-22 connection with the member’s functions of management as if the member were a director of the body corporate.
 
 (6)  Information provided by A under this Part shall not be admissible in evidence in criminal proceedings against A or any of A’s employees, except in proceedings in relation to an offence under this Part.
 
@@ -114,15 +118,11 @@ Cooperation
 
 Cooperation with other FIUs.
 
-1E.(1) The GFIU shall exchange with other FIUs, spontaneously or upon request, any information that may be relevant for the processing or analysis of information related to money laundering or terrorist financing.
+1E.(1) The GFIU shall exchange with other FIUs, spontaneously or upon request, any information that may be relevant for the processing or analysis of information related to money laundering, terrorist financing, proliferation financing or other criminal conduct.
 
 (2)  The information referred to in subsection (1) shall–
 
 (a) include, where available, the name of the natural or legal person involved; and
-
-Proceeds of Crime
-
-2015-22
 
 (b) be exchanged regardless of the type of associated predicate offences and even if the type of associated predicate offence that may be involved is not identified at the time of the exchange.”; and
 
@@ -142,7 +142,9 @@ Contents of requests and mechanisms of exchange.
 
 (2)  Different exchange mechanisms may apply if so agreed between the GFIU and other FIUs, in particular as regards any exchanges through the FIU.net or its successor.
 
-(3) In exchanging information the GFIU must ensure that the confidentiality of requests is ensured and to that end must use secure channels of communication.
+Proceeds of Crime
+
+2015-22 (3) In exchanging information the GFIU must ensure that the confidentiality of requests is ensured and to that end must use secure channels of communication.
 
 Forwarding of disclosures.
 
@@ -154,9 +156,7 @@ Requests from FIU’s.
 
 1GA.(1) Where the GFIU receives a request from an FIU it shall use the whole range of its available powers which it would normally use domestically for receiving and analysing information and must respond to any such request in a timely manner.
 
-Proceeds of Crime
-
-2015-22 (2)  When an FIU seeks to obtain additional information from a relevant financial business established in Gibraltar which operates on its territory, the request shall be addressed to the GFIU, which shall obtain information in accordance with any of its information gathering powers under this Act and transfer the answers promptly.
+(2)  When an FIU seeks to obtain additional information from a relevant financial business established in Gibraltar which operates on its territory, the request shall be addressed to the GFIU, which shall obtain information in accordance with any of its information gathering powers under this Act and transfer the answers promptly.
 
 Obtaining further information.
 
@@ -166,7 +166,9 @@ Obtaining further information.
 
 (2)  A refusal under subsection (1) must be recorded in the GFIU’s records and include the reasons for the refusal.
 
-Restrictions and conditions for use.
+Proceeds of Crime
+
+2015-22 Restrictions and conditions for use.
 
 1IA.(1) When exchanging information and documents pursuant to sections 1E to 1I, the GFIU may impose restrictions and conditions for the use of that information.
 
@@ -180,10 +182,6 @@ Tax crimes and other criminal conduct.
 
 (a) an offence in connection with taxes or duties, customs and exchange; or
 
-Proceeds of Crime
-
-2015-22
-
 (b) any criminal conduct,
 
 shall not be impeded on the ground that Gibraltar law does not impose the same kind of tax or duty or does not contain a tax, duty, customs and exchange regulation of the same kind as the law of the State or territory where the FIU is located or where the offence took place, or otherwise on the ground that there are differences between Gibraltar law definitions of predicate offences or criminal conduct and the law of the State or territory where the FIU is located or where the criminal conduct took place.
@@ -194,7 +192,11 @@ Use of exchanged information.
 
 (2)  The GFIU must seek prior consent from the FIU from which it received the information or document referred to in subsection (1) prior to disseminating it to a competent authority, agency or department for a purpose beyond that originally approved by the FIU providing the information or document.
 
-(3)  A competent authority, agency or department in Gibraltar that receives information or a document from the GFIU shall not use that information or document for a purpose beyond that for which such information or document was originally supplied.
+(3)  A competent authority, agency or department in Gibraltar that receives information or a document from the GFIU shall not use that information or
+
+Proceeds of Crime
+
+2015-22 document for a purpose beyond that for which such information or document was originally supplied.
 
 (4) Where the GFIU receives a request for the dissemination of information or a document exchanged pursuant to sections 1E to 1I from an EU FIU for a purpose beyond that originally approved it must, subject to subsection (5), promptly and to the largest extent possible, regardless of the type of associated predicate offences, grant consent to the dissemination of the information or document by the EU FIU to a competent authority, agency or department within the Member State of the EU FIU.
 
@@ -202,11 +204,7 @@ Use of exchanged information.
 
 (a) would fall beyond the scope of the application of the GFIU’s anti-money laundering or counter terrorism financing provisions;
 
-(b) could lead to impairment of an investigation, whether into a criminal cause or matter or in relation to any investigation referred to in section 146 (investigations) or any investigation
-
-Proceeds of Crime
-
-2015-22 which falls within the definition of “terrorist investigation” as defined in section 3 of the Terrorism Act 2018; or
+(b) could lead to impairment of an investigation, whether into a criminal cause or matter or in relation to any investigation referred to in section 146 (investigations) or any investigation which falls within the definition of “terrorist investigation” as defined in section 3 of the Terrorism Act 2018; or
 
 (c) would not be in accordance with the fundamental principles of Gibraltar law.
 
@@ -220,6 +218,10 @@ Proceeds of Crime
 
 it may, on a case by case basis, grant consent to the dissemination of the information or document by the FIU to a competent authority, agency or department within the State or Territory of the FIU subject to such restrictions and conditions for the use of that information or document as the GFIU deems appropriate and reasonable.
 
+Proceeds of Crime
+
+2015-22
+
 (8)  Where under subsection (7) the GFIU refuses to consent to the dissemination of information or documents exchanged under sections 1E to 1I, the GFIU must appropriately explain its decision to the FIU which sent the request for dissemination of such information or documents.
 
 (9) In deciding whether to refuse consent under subsection (5) or subsection (7), the GFIU must have particular regard to the need for as unfettered an exchange of relevant information in response to such requests as possible in order for the EU FIU or FIU concerned to carry out its functions efficiently and effectively.
@@ -230,13 +232,9 @@ Internal cooperation.
 
 (2)  The Royal Gibraltar Police, HM Customs and supervisory authorities must provide the GFIU with information about the use made of the information provided to them by the GFIU and about the outcome of the investigations or inspections performed on the basis of that information.
 
-Proceeds of Crime
-
-2015-22
-
 Feedback.
 
-1JA.  Where practicable, the GFIU must ensure that timely feedback on the effectiveness of and follow-up to reports of suspected money laundering or terrorist financing is provided to relevant financial businesses.
+1JA.  Where practicable, the GFIU must ensure that timely feedback on the effectiveness of and follow-up to reports of suspected money laundering, terrorist financing or proliferation financing is provided to relevant financial businesses.
 
 Access to information
 
@@ -244,9 +242,13 @@ Access to information held by GFIU.
 
 1K.(1) No person is entitled to information held by the GFIU, except–
 
-(a) the Collector of Customs, the Commissioner of Police, the Commissioner of Income Tax the authority designated by the Government to coordinate Gibraltar’s response to the risks of money laundering and terrorist financing pursuant to Article 7(2) of the Directive, or a supervisory body listed in Part I of Schedule 2, and, in each case, only if the Head reasonably believes such information is required to investigate suspected criminal conduct;
+(a) the Collector of Customs, the Commissioner of Police, the Commissioner of Income Tax the authority designated by the Government to coordinate Gibraltar’s response to the risks of money laundering, terrorist financing and proliferation financing pursuant to Article 7(2) of the Directive, or a supervisory body listed in Part I of Schedule 2, and, in each case, only if the Head reasonably believes such information is required to investigate suspected criminal conduct;
 
-(b) an entity outside Gibraltar performing similar functions to those of the GFIU, which may, at the initiative of the GFIU or on written request, obtain information which the Head reasonably believes is relevant to the identification of the proceeds of criminal activities or the combating of money laundering activities or similar offences in the country in which that entity is established;
+(b) an entity outside Gibraltar performing similar functions to those of the GFIU, which may, at the initiative of the GFIU or
+
+Proceeds of Crime
+
+2015-22 on written request, obtain information which the Head reasonably believes is relevant to the identification of the proceeds of criminal activities or the combating of money laundering activities or similar offences in the country in which that entity is established;
 
 (c) any person who may, at the initiative of the GFIU or on written request, be provided with information regarding the steps taken by the GFIU in connection with transactions reported by such person, unless the Head reasonably believes that disclosure to such person of the information requested could–
 
@@ -258,21 +260,21 @@ Access to information held by GFIU.
 
 (e) in terms of other legislation.
 
-Proceeds of Crime
-
-2015-22 (2)  A request for information contemplated in subsection (1) shall be in writing and shall specify the desired information and the purpose for which the information is required.
+(2)  A request for information contemplated in subsection (1) shall be in writing and shall specify the desired information and the purpose for which the information is required.
 
 (3)  The Head may make such reasonable procedural arrangements and impose such reasonable safeguards regarding the furnishing of information referred to in subsection (1) as the Head considers appropriate to maintain the confidentiality of that information.
 
 (4)  A person who obtains information from the GFIU may use that information only within the scope of that person’s powers and duties and only for the purpose specified in subsection (2).
 
-(5)  The processing of personal data on the basis of Part II, this Part or the Money Laundering Directive for the purposes of the prevention of money laundering and terrorist financing shall be considered to be a matter of public interest under the Data Protection Act 2004 and GDPR.
+(5)  The processing of personal data on the basis of Part II, this Part or the Money Laundering Directive for the purposes of the prevention of money laundering, terrorist financing and proliferation financing shall be considered to be a matter of public interest under the Data Protection Act 2004 and GDPR.
 
 Protection of confidential information.
 
 1L.(1)  No person may disclose confidential information held by or obtained from the GFIU except–
 
-(a) for the purpose of carrying out the provisions of this Part;
+Proceeds of Crime
+
+2015-22 (a) for the purpose of carrying out the provisions of this Part;
 
 (b) with the permission of the GFIU; or
 
@@ -288,15 +290,11 @@ Protection of confidential information.
 
 Referral of suspected offences.
 
-1M. If the GFIU in the performance of its functions has reasonable grounds to suspect that a relevant financial business, or any other person, has engaged in conduct which is prohibited by law or contravenes any regulatory standards, the GFIU, if it considers it appropriate to do so, may
-
-Proceeds of Crime
-
-2015-22 refer the matter to the Royal Gibraltar Police, HM Customs, the Income Tax Office or a supervisory body listed in Part I of Schedule 2, as appropriate.
+1M. If the GFIU in the performance of its functions has reasonable grounds to suspect that a relevant financial business, or any other person, has engaged in conduct which is prohibited by law or contravenes any regulatory standards, the GFIU, if it considers it appropriate to do so, may refer the matter to the Royal Gibraltar Police, HM Customs, the Income Tax Office or a supervisory body listed in Part I of Schedule 2, as appropriate.
 
 Duty to inform.
 
-1N.(1) If the Commissioner of Police, the Collector of Customs, the Commissioner for the Income Tax or a supervisory body listed in Part I of Schedule 2 in the performance of its functions has reasonable grounds to suspect that a relevant financial business, or any other person, has engaged in money laundering or terrorist financing, it shall inform the GFIU promptly.
+1N.(1) If the Commissioner of Police, the Collector of Customs, the Commissioner for the Income Tax or a supervisory body listed in Part I of Schedule 2 in the performance of its functions has reasonable grounds to suspect that a relevant financial business, or any other person, has engaged in money laundering, terrorist financing or proliferation financing, it shall inform the GFIU promptly.
 
 (2)  Subsection (1) applies to any person working for or under the supervision or direction of a person or body referred to in that subsection.
 
@@ -308,7 +306,9 @@ Reports.
 
 (a) connected with the exercise of the GFIU’s functions, or
 
-(b) otherwise connected with any of the GFIU’s activities,
+Proceeds of Crime
+
+2015-22 (b) otherwise connected with any of the GFIU’s activities,
 
 as may be specified in the requirement.
 
@@ -322,9 +322,7 @@ Preservation of powers.
 
 Personal liability.
 
-Proceeds of Crime
-
-2015-22 1R. No personal liability shall attach to the Head or such other person seconded to the GFIU in respect of anything done or omitted to be done, in good faith, under the provisions of this Part.
+1R. No personal liability shall attach to the Head or such other person seconded to the GFIU in respect of anything done or omitted to be done, in good faith, under the provisions of this Part.
 
 References in enactments.
 
@@ -342,6 +340,10 @@ Interpretation of Part and Part III.
 
 “criminal conduct” has the meaning given to it in section 182;
 
+Proceeds of Crime
+
+2015-22
+
 “criminal property” has the meaning given in section 182;
 
 “property” has the meaning given to it by section 183.
@@ -352,12 +354,26 @@ Interpretation of Part and Part III.
 
 “European Insurance and Occupational Pensions Authority” and “EIOPA” mean the European Insurance and Occupational Pensions Authority established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC;
 
-Proceeds of Crime
-
-2015-22
-
 “European Securities and Markets Authority” and “ESMA” means the European Securities and Markets Authority established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC;
 
 ““the Money Laundering Directive” means Directive (EU) 2015/849  of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system  for the purposes of money  laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018, and as the same may from time to time be further amended.
 
 (3)  For the avoidance of doubt, “independent legal professional” includes, but is not limited to, a barrister, solicitor or other lawyer.
+
+Arrangements.
+
+Proceeds of Crime
+
+2015-22 2.(1) A person commits an offence if he enters into or becomes concerned in an arrangement which he knows or suspects facilitates (by whatever means) the acquisition, retention, use or control of criminal property by or on behalf of another person.
+
+(2) But a person does not commit such an offence if-
+
+(a) he makes an authorised disclosure under section 4G and (if the disclosure is made before he does the act mentioned in subsection (1)) he has the appropriate consent;
+
+(b) he intended to make such a disclosure but had a reasonable excuse for not doing so;
+
+(c) the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other enactment relating to criminal conduct or benefit from criminal conduct.
+
+(3) A person guilty of an offence under this section is liable–
+
+(a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding level 5 on the standard scale or to both; or

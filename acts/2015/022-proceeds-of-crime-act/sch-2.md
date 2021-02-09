@@ -14,19 +14,21 @@ The following are supervisory bodies–
 
 (d) the Commissioner of Insurance and the Insurance Supervisor;
 
-(e) the Financial Secretary, or such other person or entity as may from time to time be designated by the Minister for Finance by notice in the Gazette in respect of relevant financial businesses
-
-Proceeds of Crime
-
-2015-22 to which section 9(1) applies and which are not supervised by a body listed in paragraphs (a) to (d) and (f) to (h).
+(e) the Financial Secretary, or such other person or entity as may from time to time be designated by the Minister for Finance by notice in the Gazette in respect of relevant financial businesses to which section 9(1) applies and which are not supervised by a body listed in paragraphs (a) to (d) and (f) to (h).
 
 (f) the Gambling Commissioner as defined in section 2 of the Gambling Act 2005;
 
-(g) the Office of Fair Trading as defined in section 3 of the Fair Trading Act 2015 (in relation to businesses engaging in relevant financial business in accordance with sections 9(1)(h) (estate agents and letting agents), 9(1)(ha) (art market participants) and 9(1)(k) (dealers in high value goods) of the Proceeds of Crime Act 2015);
+(g) the Office of Fair Trading as defined in section 3 of the Fair Trading Act 2015 (in relation to businesses engaging in relevant financial business in accordance with sections 9(1)(h) (estate agents and letting agents), 9(1)(ha) (art market participants) and 9(1)(k) (dealers in high value goods) of this Act);
+
+(ga) HM Customs (in relation to businesses engaging in relevant financial business in accordance with section 9(1)(hb) (art storage freeport operators) of this Act)
 
 (h) the Registrar of the Supreme Court.
 
 PART II
+
+Proceeds of Crime
+
+2015-22
 
 (a) the Financial Services (Banking) Act, 1992;
 
