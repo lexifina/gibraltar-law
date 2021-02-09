@@ -4,12 +4,6 @@ Name and Surname Condition Rank or Profession Age Dwelling Place
 
 This licence expires on the day of , 20
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 FORMCP4
 
 Rules 11(1) and 17(1)
@@ -18,7 +12,7 @@ ORIGINATING SUMMONS
 
 In the Matter of a Proposed Petition by AB for the Dissolution of his (or her) Civil Partnership with CD.
 
-LET………of …………attend the Judge in Chambers at   …… on the…..  day of ……. 20….., at……..o’clock in the ………noon on the hearing of an application of ………. for an order that the said……….may be at liberty to file an order for the Dissolution of his or her civil partnership with the said ……………..entered into on the………………day of……….20……, notwithstanding that 3 years have not passed since the date of the said civil partnership.
+LET………of…………attend the Judge in Chambers at   …… on the…..  day of ……. 20….., at……..o’clock in the ………noon on the hearing of an application of ………. for an order that the said……….may be at liberty to file an order for the Dissolution of his or her civil partnership with the said ……………..entered into on the………………day of……….20……, notwithstanding that 3 years have not passed since the date of the said civil partnership.
 
 A copy of the affidavit to be used in support of the application is delivered herewith.
 
@@ -34,31 +28,19 @@ Note:
 
 1.  You must complete the accompanying acknowledgement of service and send it so as to reach the Court within fourteen days after you receive this summons.
 
-In the Supreme Court of Gibraltar
-
-Application No.
+In the Supreme Court of Gibraltar Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 2.  In default of your giving notice of intention to defend the Court will proceed to hear and determine the application and make such order thereon as it may think fit, notwithstanding your absence.
+2.  In default of your giving notice of intention to defend the Court will proceed to hear and determine the application and make such order thereon as it may think fit, notwithstanding your absence.
 
 3.  If you intend to instruct a lawyer to act for you, you should at once give him all the documents served on you, so that he may take the necessary steps on your behalf.
 
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP5 Rules 12(3), 16 and 23(3)
 
@@ -78,23 +60,17 @@ NOTES ON QUESTIONS IN FORM –CP6
 
 (a) you are under no obligation to answer this question but you may do so if you wish;
 
-(b) the answer Yes will be treated by the Court as an admission on which the petitioner is entitled to rely and may result in an order for costs being made against you; and In the Supreme Court of Gibraltar
+(b) the answer Yes will be treated by the Court as an admission on which the petitioner is entitled to rely and may result in an order for costs being made against you; and
+
+(c) if you are in any doubt about the answer to give you should consult a Lawyer.
+
+5.  Before you answer Yes to Question 6 you should understand that In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
-(c) if you are in any doubt about the answer to give you should consult a Lawyer.
-
-5.  Before you answer Yes to Question 6 you should understand that
 
 (a) if the petitioner satisfies the Court that the petitioner and you have lived apart for 2 years immediately before the presentation of the petition and that you consent to an order, the Court will grant one unless it considers that the dissolution has not broken down irretrievably;
 
@@ -112,11 +88,7 @@ Subsidiary 2014/039
 
 7.  The petitioner relies in support of the petition on the fact that the parties to the civil partnership have lived apart for at least 3 years. Section 29 of the civil partnership Act provides that if in such a case the respondent applies to the Court for it to consider the respondent's financial position after the dissolution, a final order based on 3 years’ separation only cannot be made final unless the Court is satisfied that the petitioner has made or will make proper financial provision for the respondent, or else that the petitioner should not be required to make any financial provision for the respondent. The petition will tell you whether the petitioner proposes to make any financial provision for you. It is important that you should consider this information carefully before answering Question 7 in the acknowledgement.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 8.  If you answer Yes to Question 8 you must, before the order is made final, make application to the Court by filing and serving on the petitioner a notice in FORM- CP12.
+8.  If you answer Yes to Question 8 you must, before the order is made final, make application to the Court by filing and serving on the petitioner a notice in FORM- CP12.
 
 9. (a) If you do not wish to defend the case but object to the claim for costs, you should answer Yes to Question 9 in the acknowledgement. You must state the grounds on which you object. An objection cannot be entertained unless grounds are given which, if established, would form a valid reason for not paying the costs. If such grounds are given, you will be notified of a date on which you must attend before the judge if you wish to pursue your objection.
 
@@ -136,15 +108,9 @@ Subsidiary 2014/039 8.  If you answer Yes to Question 8 you must, before the ord
 
 — a prohibited steps order
 
-in respect of a child you will have to make a separate application on the prescribed form under the Family Proceedings (Children) Rules 2010. Before you apply for any of these orders or any other order which may be available to you under the Children Act 2009 you are advised to see a Lawyer.
+in respect of a child you will have to make a separate application on the prescribed form under the Family Proceedings (Children) Rules 2010.  Before you apply for any of these orders or any other order which may be available to you under the Children Act 2009 you are advised to see a Lawyer.
 
-12.  If you wish to contest the petitioner’s financial or property claim, you will have an opportunity of doing so when you receive a notice stating that
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 the petitioner intends to proceed with the claim. You will then be required to file an affidavit giving particulars of your property and income and be notified of the date when the claim is to be heard.
+12.  If you wish to contest the petitioner’s financial or property claim, you will have an opportunity of doing so when you receive a notice stating that the petitioner intends to proceed with the claim. You will then be required to file an affidavit giving particulars of your property and income and be notified of the date when the claim is to be heard.
 
 13.  If you wish to make some financial or property claim on your own account, you will have to make a separate application.  If you are in doubt as to the consequences of dissolution on your financial position, you should obtain legal advice from a Lawyer.
 
@@ -153,12 +119,6 @@ Dated this         day of          20             .
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP6
 
@@ -186,19 +146,13 @@ Read carefully the Notice of Proceedings before answering the following question
 
 8.  In the event of an order being made final on the basis of 2 years’ separation, coupled with the respondent's consent, or 3 years’ separation, do you intend to apply to the Court for it to consider your financial position as it will be after the dissolution?
 
-In the Supreme Court of Gibraltar
+9.  Even if you do not intend to defend the case, do you object to paying the costs of the proceedings?  If so, on what grounds? In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 9.  Even if you do not intend to defend the case, do you object to paying the costs of the proceedings?  If so, on what grounds?
 
 10.(a)  Have you received a copy of the Statement of Arrangements for Children?
 
@@ -215,12 +169,6 @@ Signed Address for service:
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP7
 
@@ -246,9 +194,9 @@ Before you issue a petition for dissolution try to reach agreement with your civ
 
 If your civil partner does not agree with the proposals he/she will have an opportunity at a later stage to state why he/she does not agree and will be able to make his/her own proposals.
 
-You should take or send the completed form, signed by you (and, if agreement is reached, by your civil partner) together with a copy to the Court when you issue your petition.
+You should take or send the completed form, signed by you (and, if agreement is reached, by your civil partner) together with a copy to the Court when you issue your petition. Please refer to the explanatory notes issued regarding completion of the prayer of the petition if you are asking the Court to make any order regarding the children.
 
-Please refer to the explanatory notes issued regarding completion of the prayer of the petition if you are asking the Court to make any order regarding the children.
+If you wish to apply for any of the orders which may be available to you under the Children Act 2009 you are advised to see a Lawyer.
 
 In the Supreme Court of Gibraltar Application No.
 
@@ -256,13 +204,7 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 If you wish to apply for any of the orders which may be available to you under the Children Act 2009 you are advised to see a Lawyer.
-
-You should obtain legal advice from a Lawyer or, alternatively, from an advice agency.  Addresses of Lawyers and the Gibraltar Citizen’s Advice Bureau can be found in the telephone directory.
+You should obtain legal advice from a Lawyer or, alternatively, from an advice agency. Addresses of Lawyers and the Gibraltar Citizen’s Advice Bureau can be found in the telephone directory.
 
 To the Respondent
 
@@ -278,7 +220,7 @@ If you do not agree with all or some of the arrangements of proposals you will b
 
 Please   read   the   instructions   for   boxes 1, 2 and 3 before you   complete this section. 1. Children of both parties
 
-(Give details of any children born to you and the Respondent or adopted by you both)
+(Give details of any children born to you and the Respondent your children by virtue of a parental order or adopted by you both)
 
 Forenames Surname Date of Birth (i)
 
@@ -292,13 +234,7 @@ Forenames Surname Date of Birth (i)
 
 2. Other children of the family
 
-(Give details of any other
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 children treated by both of you as children of the family: for example your own or the Respondent’s
+(Give details of any other children treated by both of you as children of the family: for example your own or the Respondent’s
 
 Forenames Surname Date of birth Relationship to Yourself Respondent (i)
 
@@ -312,7 +248,7 @@ Forenames Surname Date of birth Relationship to Yourself Respondent (i)
 
 3. Other children who are not children of the family
 
-(Give details of any children born to you or the Respondent that have not been treated as children of the family or adopted by you both)
+(Give details of any children born to you or the Respondent that have not been treated as children of the family or your children by virtue of a parental order or adopted by you both)
 
 Forenames Surname Date of Birth (i)
 
@@ -323,12 +259,6 @@ Forenames Surname Date of Birth (i)
 (iv)
 
 (v)
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 PART II – ARRANGEMENTS FOR THE CHILDREN OF THE FAMILY
 
@@ -353,12 +283,6 @@ Yes
 (e) Will there be any change in these arrangements? No
 
 Yes (please give details)
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 5. Education and training details
 
@@ -388,13 +312,7 @@ Yes (please give details)
 
 (Please tick the appropriate boxes)
 
-(a) Which parent looks after the children from day to day?  If
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 responsibility is shared, please give details
+(a) Which parent looks after the children from day to day?  If responsibility is shared, please give details
 
 (b) Does that parent go out to work? No
 
@@ -422,13 +340,7 @@ Yes
 
 (please give detail) of how much)
 
-If there is another source of
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 maintenance, please specify.
+If there is another source of maintenance, please specify.
 
 (b) Is the payment made under a Court order? No
 
@@ -456,12 +368,6 @@ Yes (please give details of how often and where)
 
 Yes (please give details of how much)
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 (c) Will there be any change to these arrangements? No
 
 Yes (please give details of how much)
@@ -472,9 +378,7 @@ Please give details of the proposed arrangements for
 
 9. Details of health
 
-(Please tick the appropriate boxes)
-
-(a) Are the children generally in good health? No
+(Please tick the appropriate boxes) (a) Are the children generally in good health? No
 
 Yes (please give details of any serious disability or chronic illness)
 
@@ -486,12 +390,6 @@ Yes (please give details of the care needed and how it is to be provided)
 
 (Please tick the appropriate boxes)
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 (a) Are the children in the care of the Care Agency, or under the supervision of a social worker or probation officer or equivalent? No
 
 Yes (please give details including any Court proceedings)
@@ -500,9 +398,9 @@ Yes (please give details including any Court proceedings)
 
 Yes (please give details of the local authority and the date of registration)
 
-(c) Are there or have there been any proceedings in any Court involving the children, for example adoption, custody/residence, access/contact, wardship, care, supervision or maintenance? No
+(c) Are there or have there been any proceedings in any Court No
 
-Yes (please give details and send a copy of any order to the Court)
+Yes (please give details and involving the children, for example adoption surrogacy, custody/residence, access/contact, wardship, care, supervision or maintenance? send a copy of any order to the Court)
 
 PART III – TO THE PETITIONER
 
@@ -514,11 +412,7 @@ No
 
 Yes
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 Declaration
+Declaration
 
 I declare that the information I have given is correct and complete to the best of my knowledge.
 
@@ -526,11 +420,7 @@ Signed……………………………………………………….(Resp onde
 
 Date………………………………………
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 PART IV – TO THE RESPONDENT
+PART IV – TO THE RESPONDENT
 
 I agree with the arrangements and proposals contained in Part I and II of this form.
 
@@ -542,17 +432,11 @@ The Supreme Court office at is open between __ am and __ pm Monday to Friday. Wh
 
 If you do not do so, your correspondence may be returned.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 FORM-CP8 Rules 28(2) and 65(1)
 
 STATEMENT OF FINANCIAL INFORMATION
 
-Please fill in this form fully and accurately.  Where any box is not applicable write “N/A”.  You have a duty to the Court to give a full, frank and clear disclosure of all your financial and other relevant circumstances.
+Please fill in this form fully and accurately.  Where any box is not applicable write “N/A”. You have a duty to the Court to give a full, frank and clear disclosure of all your financial and other relevant circumstances.
 
 A failure to give full and accurate disclosure may result in any order the Court makes being set aside.
 
@@ -568,7 +452,7 @@ This statement must be sworn before an Officer of the Court, a Lawyer or a Commi
 
 PART 1- GENERAL INFORMATION
 
-1.1 Full Name In the Supreme Court of Gibraltar
+In the Supreme Court of Gibraltar
 
 Application/Case No.
 
@@ -576,11 +460,7 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
+1.1 Full Name
 
 1.2 Date of Birth
 
@@ -588,7 +468,7 @@ Date
 
 Mont h Yea r 1.3 Date of civil partnersh ip Date Mont h Year
 
-1.4 Occupatio n
+1.4 Occupation
 
 1.5 Date of separation
 
@@ -596,7 +476,7 @@ Date Month Year
 
 Tick here       if not applicable
 
-1.6 Date of  the:
+1.6 Date of the:
 
 Petition Conditional Order/Judicial Separation Order Final Order Date
 
@@ -614,11 +494,7 @@ Ye s
 
 No
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 1.9 Do you intend to live with someone within the  next six months?
+1.9 Do you intend to live with someone within the next six months?
 
 Ye s
 
@@ -630,21 +506,13 @@ Full names Date of Birth With whom does the child live? Date Month Year
 
 Yourself Children
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 1.12 Give details of the present and proposed future educational arrangements for the children. Present arrangements Future arrangements
+1.12 Give details of the present and proposed future educational arrangements for the children. Present arrangements Future arrangements
 
 1.13 Give details of any Child Maintenance Orders or any agreement as to Child Maintenance  made between the parties.
 
 1.14 If this application is to vary an order, give details of the order that is to be varied and attach a copy of the order. Give the reasons for asking for the order to be varied.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 1.15 Give details of any other Court cases between you and your civil partner, whether in relation to money, property, children or anything else.
+1.15 Give details of any other Court cases between you and your civil partner, whether in relation to money, property, children or anything else.
 
 Case No. Court
 
@@ -658,13 +526,7 @@ Capital:  Realisable Assets
 
 2.1 Give details of your interest in the matrimonial home.
 
-Property name and address Land Registry Title No. Nature and extent of your interest (and that of any other person who Property value
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 may have an interest in it)
+Property name and address Land Registry Title No. Nature and extent of your interest (and that of any other person who may have an interest in it) Property value
 
 Mortgagee’s name and address Type of mortgage Balance outstanding on any mortgage (including any penalties which would apply if property were sold now) Total current value of your beneficial interest 1.
 
@@ -674,11 +536,7 @@ Other
 
 NET value of your interest in the family home (A)
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 2.2 Give details of all other properties, land and buildings in which you have an interest
+2.2 Give details of all other properties, land and buildings in which you have an interest
 
 Property name(s) and address(es) Land Registry Title No. Nature and extent of your interest (and that of any other person who may have an interest in it) *Property value 1.
 
@@ -694,13 +552,7 @@ Mortgagee’s Name(s) and address(es) Type of mortgage Balance outstanding on an
 
 TOTAL value of the above (not including the matrimonial home) (B1)
 
-2.3 Give details of all bank, building society and National Savings accounts, in credit, which you hold or have an interest in or have at any time in the last 12 months had any interest in.  For joint accounts, give your interest
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 and the name of the account holder.
+2.3 Give details of all bank, building society and National Savings accounts, in credit, which you hold or have an interest in or have at any time in the last 12 months had any interest in.  For joint accounts, give your interest and the name of the account holder.
 
 If the account is overdrawn, include in Liabilities section at 2.12.  You must attach your bank statements covering the last 12 months for each account listed.
 
@@ -722,12 +574,6 @@ Do not include dividend income as this will be dealt with separately later on.
 
 Name Type Size Current Value Total current value of your interest
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 TOTAL value of your interest in ALL holdings (B3)
 
 2.5 Give details of all life insurance policies which you hold or in which you have an interest, including those that do not have a surrender value, for each policy. Policy details, including name of company, policy type and number If policy is charged, state in whose favour and amount of charge Maturity date Surrender value Total current value of your interest Date Month Year
@@ -736,11 +582,7 @@ You must attach any surrender value quotations
 
 TOTAL value of your interest in ALL policies (B4)
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 2.6 Give details of all issues of National Savings Certificates which you hold or have an interest in.
+2.6 Give details of all issues of National Savings Certificates which you hold or have an interest in.
 
 Name of issue Nominal amount Current value Total current value of your interest
 
@@ -758,11 +600,9 @@ Brief description of debt Balance outstanding Total current value of your intere
 
 TOTAL value of your interest in ALL debts owed to you (B7)
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
+2.9
 
-2014-10
-
-Subsidiary 2014/039 2.9 Give details of all cash savings held in excess of £300.  You must state where it is held and the currency it is held in.
+Give details of all cash savings held in excess of £300.  You must state where it is held and the currency it is held in.
 
 Where held Amount Currency Total current value of your interest
 
@@ -773,12 +613,6 @@ TOTAL value of ALL your cash (B8)
 Include cars (gross value, collections, pictures, jewellery, furniture and household belongings (this list is not exhaustive).
 
 Item Sale value Total estimated current value of your interest
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 TOTAL value of your interest in ALL personal belongings (B9)
 
@@ -796,12 +630,6 @@ PART 2 FINANCIAL DETAILS: Capital:  Liabilities
 
 Liability (i.e. total amount owed, current monthly payments and term of loan/debt) Current amount Total current value of your share of the liability
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 TOTAL value of ALL your liabilities (C1)
 
 PART 2 FINANCIAL DETAILS:   Capital- Business Assets
@@ -809,12 +637,6 @@ PART 2 FINANCIAL DETAILS:   Capital- Business Assets
 2.13 Give details of all your business interests. You must attach a copy of the last 2 years, accounts and any other document on which you base your valuation.
 
 Name and nature of your business Your ESTIMATE of the current value of your interest Your ESTIMATE of any possible tax payable on disposal Basis of valuation (No formal valuation is required at this time) What is the extent of your interest? Total net current value of your interest
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 TOTAL current value of your interest in business assets (E)
 
@@ -832,11 +654,7 @@ Name and address of scheme, plan or policy
 
 Your National Insurance number (if applicable)
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 Number of scheme, plan or policy
+Number of scheme, plan or policy
 
 Type of scheme, plan or policy (e.g. final salary, money purchase or other)
 
@@ -864,11 +682,7 @@ On death in service
 
 On death in deferment
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 On death in retirement
+On death in retirement
 
 Defendant’s Benefits
 
@@ -896,12 +710,6 @@ Specify also any asset that is likely to be received in the foreseeable future, 
 
 Type of Asset Value Total net value of your interest
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 TOTAL value of your other assets (G)
 
 TOTAL value of your net assets (excluding pensions) (D+E+G)                 (H)
@@ -918,11 +726,7 @@ Job title/type of work Nature of income (e.g. salary, bonus) Last financial year
 
 Gross Net Gross Net
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 2.18 Additional Income: benefits etc. Give details and the value of all benefits in kind, perks, or other remuneration not disclosed elsewhere, received in the last financial year and current financial year.
+2.18 Additional Income: benefits etc. Give details and the value of all benefits in kind, perks, or other remuneration not disclosed elsewhere, received in the last financial year and current financial year.
 
 Nature of income Last financial year Current financial year (estimated for the whole year)
 
@@ -932,15 +736,11 @@ Nature of income and date your accounti ng year begins Details of the last two a
 
 Year 1 Year 2 Ye ar 1 Year 2 Yea r 1 Year 2
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
+Net income SINCE Net Incom e Esti mate You must attach the accounts for the last two date of last accounts and estimate for the whole year
 
-2014-10
+completed accounting years
 
-Subsidiary 2014/039
-
-Net income SINCE date of last accounts and estimate for the whole year Net Incom e Esti mate You must attach the accounts for the last two completed accounting years
-
-2.2 0 Investment income (e.g. dividends, interest). Give details of net income received in the last financial year, and in the current financial year, and state whether it was paid gross of net of income tax.  You are not required to calculate any tax payable that may arise.
+2.20 Investment income (e.g. dividends, interest). Give details of net income received in the last financial year, and in the current financial year, and state whether it was paid gross of net of income tax.  You are not required to calculate any tax payable that may arise.
 
 Nature of income and the asset from which it derived Paid gross or net (delete that which is not applicable) Last financial year Current financial year
 
@@ -949,12 +749,6 @@ Gross / Net
 2.21 State benefits (including state pension).  Give details of all state benefits received in the last 52 weeks.
 
 Nature of income Total income received in the last 52 weeks
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 2.22 Any other income.  Give details of any other income (including benefits) received in the last 52 weeks.
 
@@ -968,13 +762,9 @@ Your estimate of your current annual net income from all sources (2.18 – 2.23)
 
 2.24 Summary of financial information
 
-Reference of the section on this statement Value Net value of your interest in the A
+Reference of the section on this statement Value Net value of your interest in the matrimonial home
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 matrimonial home
+A
 
 Total current value of all your interest in the other realisable assets
 
@@ -1012,11 +802,7 @@ Your estimated net income for the next 52 weeks J
 
 PART 3 REQUIREMENTS: Income Needs
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 3.1 Give the reasonable future income needs of yourself (e.g. housing, care etc.) and of any children living with you, or provided for by you.
+3.1 Give the reasonable future income needs of yourself (e.g. housing, care etc.) and of any children living with you, or provided for by you.
 
 This may be expressed as annual, monthly or weekly figures (state which), but you should not use a combination of any of these periods.
 
@@ -1028,21 +814,11 @@ Item Income needs of child(ren) living with you, or provided by for by you
 
 Amount
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 Sub-total
 
 Total income needs
 
-PART 3
-
-REQUIREMENTS:
-
-Capital Needs
+PART 3 REQUIREMENTS: Capital Needs
 
 3.2 Give the reasonable future capital needs of yourself and of any children living with you, or provided for by you.
 
@@ -1051,12 +827,6 @@ Item Income needs of yourself Cost
 Sub-total
 
 Item Income needs of child(ren) living with you, or provided by for by you Cost
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 Sub-total
 
@@ -1068,23 +838,15 @@ PART 4 OTHER INFORMATION
 
 4.2 Give brief details of the standard of living enjoyed by you and your civil partner during the civil partnership.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 4.3 Are there any particular contributions to the family property and assets or outgoings, or to family life, that have been made by you, your partner or anyone else that you think should be taken into account?  If so, give a brief description of the contribution, the amount, when it was made, and by whom.
+4.3 Are there any particular contributions to the family property and assets or outgoings, or to family life, that have been made by you, your partner or anyone else that you think should be taken into account?  If so, give a brief description of the contribution, the amount, when it was made, and by whom.
 
 4.4 Bad behaviour or conduct by the other party will only be taken into account in very exceptional circumstances when deciding how the assets should be divided after dissolution.  If you feel it should be taken into account in your case identify the nature of the behaviour or conduct.  ALTERNATIVE – Do you wish such behaviour to be taken into account in this case?
 
-4.5 Give details of any other circumstances which you consider could significantly affect the extent of the financial provision to be made by or for you or for any child of the family, e.g. earning capacity, disability, inheritance prospects or redundancy, entering into a subsequent civil partnership or marriage and cohabitation plans, any contingent liabilities. (This list is not exhaustive).
+4.5 Give details of any other circumstances which you consider could significantly affect the extent of the financial provision to be made by or for you or for any child of the family, e.g. earning capacity, disability, inheritance prospects or redundancy, entering into a subsequent civil partnership or marriage and cohabitation plans, any contingent liabilities.  (This list is not exhaustive).
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
+4.6
 
-2014-10
-
-Subsidiary 2014/039
-
-4.6 If you have married, entered into a subsequent civil partnership (or intend to) or are living with another person (or intend to), give brief details so far as they are known to you, of his or her income and assets.
+If you have married, entered into a subsequent civil partnership (or intend to) or are living with another person (or intend to), give brief details so far as they are known to you, of his or her income and assets.
 
 Annual Income Assets Nature of income Value (state whether gross or net, if known) Item Value (if known)
 
@@ -1100,25 +862,21 @@ Total
 
 Total
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 PART 5 ORDER SOUGHT
+PART 5 ORDER SOUGHT
 
 5.1 If you are able to at this stage, specify what kind of orders you are asking the Court to make, and state whether at this stage you see the case being appropriate for a “clean break”.  (A “clean break” means a settlement or order which provides, amongst other things, that neither you nor your spouse will have any further claim against the income or capital of the other party.  A clean break does not terminate the responsibility of a parent to a child).
 
-5.2 **If you are seeking a transfer or settlement of any property or other asset, you must identify the asset in question.
+5.2
 
-5.3 **If you are seeking a variation of a pre-Civil Partnership or post-Civil Partnership settlement, you must identify the settlement, by whom it was made, its trustees and beneficiaries, and state why you allege it is a pre Civil Partnership settlement. .
+**If you are seeking a transfer or settlement of any property or other asset, you must identify the asset in question.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
+5.3
 
-2014-10
+**If you are seeking a variation of a pre-Civil Partnership or post-Civil Partnership settlement, you must identify the settlement, by whom it was made, its trustees and beneficiaries, and state why you allege it is a pre Civil Partnership settlement.
 
-Subsidiary 2014/039
+5.4
 
-5.4 **If you are seeking an avoidance of disposition order, you must identify the property to which the disposition relates ad the person or body in whose favour the disposition is alleged to have been made.
+**If you are seeking an avoidance of disposition order, you must identify the property to which the disposition relates ad the person or body in whose favour the disposition is alleged to have been made.
 
 **IMPORTANT NOTE:  Where 5.2, 5.3 or 5.4 apply, you should seek legal advice before completing the sections.
 
@@ -1140,18 +898,6 @@ The Supreme Court office at is open between __ am and __ pm Monday to Friday. Wh
 
 If you do not do so, your correspondence may be returned.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 FORM – CP9 Rule 51(1)
 
 NOTICE OF APPLICATION FOR CONDITIONAL ORDER TO BE MADE FINAL
@@ -1168,25 +914,17 @@ The Supreme Court office at is open between __ am and __ pm Monday to Friday. Wh
 
 If you do not do so, your correspondence may be returned.
 
-In the Supreme Court of Gibraltar
-
-Application No.
+In the Supreme Court of Gibraltar Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 FORM – CP10 Rule 54(2)
 
 CERTIFICATE OF MAKING CONDITIONAL ORDER FINAL (DISSOLUTION)
 
-Referring to the order entered into on the      day of     20     , whereby it was ordered that the civil partnership entered into on the   day of    20….    at between   the petitioner and the respondent be dissolved unless sufficient cause be shown to the Court within  from the making thereof why the said order should not be made final, and no such cause having been shown it is hereby certified that the said order was on the     day of      20        , made final and that the said civil partnership was thereby dissolved.
+Referring to the order entered into on the      day of     20     , whereby it was ordered that the civil partnership entered into on the   day of    20….    at between   the petitioner and the respondent be dissolved unless sufficient cause be shown to the Court within from the making thereof why the said order should not be made final, and no such cause having been shown it is hereby certified that the said order was on the     day of      20        , made final and that the said civil partnership was thereby dissolved.
 
 Dated this     day of      20
 
@@ -1200,7 +938,7 @@ Where a will has already been made by either party to the civil partnership then
 
 (b) any property comprising or included in a gift to the former civil partner passes as if the former civil partner had died on that date.
 
-The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to In the Supreme Court of Gibraltar
+The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number. In the Supreme Court of Gibraltar
 
 Application No.
 
@@ -1208,19 +946,7 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 the Registrar and quote the case number.
-
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORM – CP11 Rule 54(2)
 
@@ -1240,7 +966,7 @@ Where a will has already been made by either party to the civil partnership then
 
 (a) any appointment of the former civil partner as an executor or trustee is treated as if omitted; and
 
-In the Supreme Court of Gibraltar
+(b) any gift in the will to the former civil partner lapses. In the Supreme Court of Gibraltar
 
 Application No.
 
@@ -1248,31 +974,19 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 (b) any gift in the will to the former civil partner lapses.
-
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORM CP12 Rule 55(1)
 
 NOTICE OF AN APPLICATION UNDER RULE 55 TO CONSIDER THE FINANCIAL POSITION OF THE RESPONDENT AFTER DISSOLUTION.
 
-The Civil Partnership of and
+The Civil Partnership of                                    and
 
 TAKE NOTICE that the respondent applies to the Court under section 29(1) of the Civil Partnership Act for the Court to consider the financial position of the respondent after the dissolution.
 
-The application will be heard on a date to be fixed [or if, in the case of an application made after a conditional order], a date has been fixed by the Court in chambers at    on       day, the       day of       20        , at o’clock.
+The application will be heard on a date to be fixed [or if, in the case of an application made after a conditional order], a date has been fixed by the Court in chambers at    on       day, the day of       20        , at        o’clock.
 
 TAKE NOTICE ALSO that you must within 14 days after you receive this notice, file in the Registry an affidavit giving full particulars of your property and income. You must at the same time send a copy of your affidavit to the [Lawyer for the] respondent.
 
@@ -1288,19 +1002,9 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
+The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORM–CP13 Rules 58, 59(1) and 64(1)
 
@@ -1328,7 +1032,7 @@ and there is a written agreement made before about maintenance for the benefit o
 
 and there is a written agreement made on or after about maintenance for the benefit of children, tick this box
 
-but there is no agreement , tick any of the boxes below to show if you are applying for payment:
+but there is no agreement, tick any of the boxes below to show if you are applying for payment:
 
 for a step-child or stepchildren
 
@@ -1340,13 +1044,7 @@ Application No.
 
 Petitioner/Applicant (including ref)
 
-Respondent/Defendant
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 educated or training for work; or
+Respondent/Defendant educated or training for work; or
 
 when either the child or the person with care of the child or the absent parent of the child is not habitually resident in Gibraltar.
 
@@ -1357,12 +1055,6 @@ Signed:                                                                         
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP14
 
@@ -1392,35 +1084,23 @@ The First Appointment will be heard by
 
 on                                               20
 
-at                                                [a.m.] [p.m.]
-
 In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
-Respondent/Defendant
+Respondent/Defendant at                                                [a.m.] [p.m.]
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
+The probable length of the hearing is
 
-2014-10
-
-Subsidiary 2014/039 The probable length of the hearing is
-
-You and your legal representative, if you have one, must attend the appointment.  At the appointment you must provide the Court with a written estimate in FORM-CP16 of any legal costs which you have incurred.  Non- compliance may render you liable to costs penalties.
+You and your legal representative, if you have one, must attend the appointment.  At the appointment you must provide the Court with a written estimate in FORM-CP16 of any legal costs which you have incurred.  Non-compliance may render you liable to costs penalties.
 
 Signed:                                                                                 Dated: (Applicant/Lawyer for the Applicant)
 
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP15 Rule 62(1)
 
@@ -1452,21 +1132,9 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP16 Rule 68(1)
 
@@ -1476,7 +1144,7 @@ Estimate of Costs (Financial Relief) of
 
 (Name of party)
 
-the Applicant
+the     Applicant
 
 Respondent
 
@@ -1486,13 +1154,15 @@ and
 
 Estimate of costs relating to financial relief application for hearing on: [     ] Please note it is a requirement of the rules to provide full costs information to the Court.
 
-(Does not include here costs incurred in respect of other aspects of the case, for example, the dissolution proceedings, children matters,  or injunction etc.)
+(Does not include here costs incurred in respect of other aspects of the case, for example, the dissolution proceedings, children matters, or injunction etc.)
 
 SUMMARY OF COSTS ESTIMATE
 
 Prescribed rates for publicly funded services £ Indemnity Rates
 
 £ GRAND TOTAL (Box 7+ Box 14)
+
+State what has been paid towards the grand total above
 
 In the Supreme Court of Gibraltar
 
@@ -1502,15 +1172,9 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 State what has been paid towards the grand total above
-
 Amount of any contributions paid by the funded client towards their publicly funded services
 
-Signature of Lawyer(or party, if not represented)
+Signature of Lawyer (or party, if not represented)
 
 Dated:
 
@@ -1530,11 +1194,7 @@ Prescribed rates for publicly funded services £ Indemnity Rate
 
 2. Financial Relief Lawyer’s costs incurred by the current Lawyers.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 3. Disbursements incurred by any previous Lawyers.
+3. Disbursements incurred by any previous Lawyers.
 
 4.  Disbursements incurred by current Lawyers.
 
@@ -1564,11 +1224,7 @@ Prescribed rates for publicly funded services £ Indemnity Rate
 
 11. Disbursements incurred by current  Lawyers
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 12.  All counsel’s fees
+12.  All counsel’s fees
 
 SUB-TOTAL
 
@@ -1584,11 +1240,7 @@ The Supreme Court office at is open between __ am and __ pm Monday to Friday. Wh
 
 If you do not do so, your correspondence may be returned.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 FORMCP17 Rule 68(2)
+FORMCP17 Rule 68(2)
 
 FULL PARTICULARS OF ALL FINANCIAL RELIEF COSTS
 
@@ -1628,19 +1280,13 @@ Status: Hourly Rate Claimed: £
 
 Status: Hourly Rate Claimed: £
 
-SUMMARY OF COSTS STATEMENT In the Supreme Court of Gibraltar
+SUMMARY OF COSTS STATEMENT
 
-Application No.
+In the Supreme Court of Gibraltar Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 Prescribed rates for publicly funded services £ Indemnity Rate
 
@@ -1666,13 +1312,9 @@ Signature of Lawyer
 
 Name of firm                                                           Ref:
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
+SECTION A:
 
-2014-10
-
-Subsidiary 2014/039 SECTION A:
-
-Costs incurred in the Financial Relief proceedings prior to issue of FORM- CP13
+Costs incurred in the Financial Relief proceedings prior to issue of FORM-CP13
 
 PART 1
 
@@ -1698,17 +1340,11 @@ PART 2
 
 SECTION B:
 
-Costs incurred in the Financial Relief proceedings after issue of FORM– CP13 up to the date of the last Form–CP16).
+Costs incurred in the Financial Relief proceedings after issue of FORM–CP13 up to the date of the last Form–CP16).
 
 PART 3
 
-Prescribed rates Indemnity
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 for publicly funded services £ Rate
+Prescribed rates for publicly funded services £ Indemnity Rate
 
 £ 8. Financial Relief Lawyer’s costs incurred by any previous Lawyers.
 
@@ -1736,13 +1372,9 @@ PART 5
 
 Prescribed rates for publicly funded services £ Indemnity Rate
 
-£ 15. Financial Relief Lawyer’s costs incurred by any previous Lawyers.
+£ 15. Financial Relief Lawyer’s costs incurred  by any previous Lawyers.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 16. Financial Relief Lawyer’s costs incurred by the current Lawyers.
+16. Financial Relief Lawyer’s costs incurred by the current Lawyers.
 
 17. Disbursements incurred by any previous Lawyers.
 
@@ -1770,13 +1402,7 @@ Prescribed rates for publicly funded services £ Indemnity Rate
 
 23.  Disbursements
 
-24.Counsel’s fees (All
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 counsel’s fees expected to be incurred for final hearing should be included here.)
+24.Counsel’s fees (All counsel’s fees expected to be incurred for final hearing should be included here.)
 
 11. Disbursements incurred by current Lawyers.
 
@@ -1792,17 +1418,13 @@ PART 8
 
 Prescribed rates for publicly funded services £ Indemnity Rate
 
-£ 26. TOTAL OF SECTION E (Total estimated costs of implementing proposed order)
+£ 26. TOTAL OF SECTION E
+
+(Total estimated costs of implementing proposed order)
 
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP18 Rule 71(2)
 
@@ -1828,27 +1450,13 @@ If you object to the making of such a Periodical Payments Order, you must notify
 
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
-If you do not do so, your correspondence may be returned.
-
-In the Supreme Court of Gibraltar
+If you do not do so, your correspondence may be returned. In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP19 Rule 75(10)
 
@@ -1858,7 +1466,7 @@ PENSION SHARING ANNEX UNDER SECTION 113 OF THE CIVIL PARTNERSHIP ACT
 
 Between
 
-(Petitione r) And
+(Petitioner) And
 
 (Respondent)
 
@@ -1882,21 +1490,13 @@ A. Transferor’s Details:
 
 (iv) The Transferor’s address:
 
-B. Transferee’s Details:
-
-In the Supreme Court of Gibraltar
+B. Transferee’s Details: In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 (i) The full name by which the Transferee is known:
 
@@ -1906,7 +1506,7 @@ Subsidiary 2014/039
 
 (iv) The Transferee’s address:
 
-(v) If the Transferee is also a member of the pension scheme from which the credit is derived, or a beneficiary of the same scheme because of                                survivor’s benefits, the membership number:
+(v) If the Transferee is also a member of the pension scheme from which the credit is derived, or a beneficiary of the same scheme because of survivor’s benefits, the membership number:
 
 C. Details of the Transferor’s Pension Arrangement:
 
@@ -1932,17 +1532,15 @@ or
 
 E.  Have you filed FORM-CP26 (Statement of Information for a Consent Order)* under rule 63?
 
-If Yes delete the text opposite Yes
+Yes
 
 No
 
+If Yes delete the text opposite
+
 The parties certify that:
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 (i) they have received the information required by regulation 7 of the Pensions on Divorce etc. Regulations 2010;
+(i) they have received the information required by regulation 7 of the Pensions on Divorce etc. Regulations 2010;
 
 (ii) that information is attached on FORMCP21 (Pension Inquiry Form); and
 
@@ -1968,11 +1566,7 @@ G. In the case of external transfer only (recommended but optional information)
 
 Please complete boxes H to J where applicable.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 H.  Where the credit is derived from an occupational Scheme which is being wound up, has the Transferee indicated whether he wishes to transfer his pension credit rights to a qualifying arrangement.
+H.  Where the credit is derived from an occupational Scheme which is being wound up, has the Transferee indicated whether he wishes to transfer his pension credit rights to a qualifying arrangement.
 
 Yes
 
@@ -1984,9 +1578,7 @@ Yes
 
 No
 
-J.  Where the pension arrangement has requested further information has that information been provided?
-
-Yes
+J.  Where the pension arrangement has requested further information has that information been provided? Yes
 
 No
 
@@ -2006,15 +1598,11 @@ Take notice that you must discharge your liabilities within the period of 4 mont
 
 ¤ the first day on which you are in receipt of
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 a. the pension sharing order including this annex and where appropriate any attachment;
+a. the pension sharing order including this annex and where appropriate any attachment;
 
 b. in a case of dissolution or annulment, a copy of the order of dissolution or nullity of the civil partnership and a copy of the certificate that the order has been made final;
 
-c. the information specified in paragraph A, B and C of this Annex and, where applicable, paragraphs G to J of this  annex; and
+c. the information specified in paragraph A, B and C of this Annex and, where applicable, paragraphs G to J of this annex; and
 
 d. payment of all outstanding charges requested by the pension scheme.
 
@@ -2040,19 +1628,7 @@ TAKE NOTICE that
 
 On                                          the Court
 
-In the Supreme Court of Gibraltar
-
-Application No.
-
-Petitioner/Applicant (including ref)
-
-Respondent/Defendant
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039  Made an order including provision under section [*117] [118] of the Civil Partnership Act.
+ Made an order including provision under section [*117] [118] of the Civil Partnership Act.
 
  *[varied] [discharged] an order which included provision under section*[117][118] of the Civil Partnership Act and dated………………………………………..
 
@@ -2068,13 +1644,21 @@ The annex to the order provides the pension arrangement with the information req
 
 (ii) Policy Reference Number
 
+In the Supreme Court of Gibraltar
+
+Application No.
+
+Petitioner/Applicant (including ref)
+
+Respondent/Defendant
+
 (iii) if appropriate, such other details to enable the pension arrangement to be identified
 
 4 .
 
 (i) To be completed where a Periodical Payments order is made under s.117 of the Civil Partnership Act.
 
-The specified percentage of any payment due to the party with the pension rights that is to be paid for the benefits of the other party. %
+The specified percentage of any payment due to the party with the pension rights that is to be paid for the benefits of the other party.      %
 
 (ii) To be completed where the Court orders that the party with pension rights commutes a percentage of his pension to a tax free lump sum on retirement under section 117 of the Civil Partnership Act.
 
@@ -2082,11 +1666,7 @@ The specified percentage of any payment due to the party with the pension rights
 
 (b) the specified percentage of the commuted sum which is to be paid to the spouse or the former spouse of the party with pension rights:
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 (iii) To be completed where the Court orders under section 118 of the Civil Partnership Act, that all or part of a lump sum payable to the party with pension rights in respect of his death be paid to the other party.
+(iii) To be completed where the Court orders under section 118 of the Civil Partnership Act, that all or part of a lump sum payable to the party with pension rights in respect of his death be paid to the other party.
 
 (a) the percentage of the lump sums to be paid by the person responsible for the pension arrangement to the other party:          %
 
@@ -2112,19 +1692,9 @@ The Court also concerns: (*Delete as appropriate)
 
 *That notice has been served on the person responsible for the pension arrangement and that the Court has considered any objection received.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
+The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP21 Rule 67(2)
 
@@ -2134,7 +1704,7 @@ PENSION INQUIRY FORM INFORMATION NEEDED WHEN A PENSION SHARING ORDER OR PENSION 
 
 Between
 
-(Petitione r)
+(Petitioner)
 
 And
 
@@ -2168,19 +1738,15 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 (The scheme member’s signature is necessary to authorise the release of the requested information, unless a Court order requiring the information is attached to this form).
+(The scheme member’s signature is necessary to authorise the release of the requested information, unless a Court order requiring the information is attached to this form).
 
 B. To be completed by the pension arrangement.
 
-This section deals with information required to be provided under the regulations 5 and 6 of the Pension on Divorce etc Regulations 2010 and rule 72(2) Civil Partnership Rules 2014 of the Family Proceedings (Matrimonial Causes) Rules 2010.  If a request for a Cash Equivalent Transfer Value has been made, the pension arrangement has 3 months to provide the information or 6 weeks if notified that the information is needed in connection with matrimonial proceedings, or such shorter time as notified by the Court.  Otherwise, the information should be provided within one month or such shorter time as notified by the Court.  The valuation referred to in paragraph 1(a) below must have been made not more that 12 months before the date fixed for the first appointment.
+This section deals with information required to be provided under the regulations 5 and 6 of the Pension on Divorce etc Regulations 2010 and rule 72(2) Civil Partnership Rules 2014 of the Family Proceedings (Matrimonial Causes) Rules 2010.  If a request for a Cash Equivalent Transfer Value has been made, the pension arrangement has 3 months to provide the information or 6 weeks if notified that the information is needed in connection with matrimonial proceedings, or such shorter time as notified by the Court.  Otherwise, the information should be provided within one month or such shorter time as notified by the Court. The valuation referred to in paragraph 1(a) below must have been made not more that 12 months before the date fixed for the first appointment.
 
 If this information has already been prepared in a standard form please send this instead.
 
-1.(a)  Please confirm that you have already provided a valuation of the member’s pension rights to the scheme member or to the Court.
+1.(a) Please confirm that you have already provided a valuation of the member’s pension rights to the scheme member or to the Court.
 
 (b)  If the answer to (a) is No. details of the CETV quotation should be attached and the date on which it was calculated.
 
@@ -2206,11 +1772,7 @@ Yes
 
 No
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 5.  If the answer to 4(a) is Yes, what benefits are available to the person with the pension credit?
+5.  If the answer to 4(a) is Yes, what benefits are available to the person with the pension credit?
 
 6.  Charging Policy
 
@@ -2240,17 +1802,11 @@ No
 
 When did the winding up commence, and give the name and address of the trustees who are dealing with the winding up.
 
-3.  In the case of an occupational pension scheme only assuming that a calculation of the member’s CETV was carried out on the day the pension
+3.  In the case of an occupational pension scheme only assuming that a calculation of the member’s CETV was carried out on the day the pension scheme received modification that a pension sharing order may be made, would that CETV be reduced?
 
 Yes
 
 No
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 scheme received modification that a pension sharing order may be made, would that CETV be reduced?
 
 4.  As far as you are aware are the member’s rights under the pension scheme subject to any of the following:
 
@@ -2266,11 +1822,7 @@ Yes
 
 No
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 A forfeiture order
+A forfeiture order
 
 A bankruptcy order
 
@@ -2312,11 +1864,7 @@ The following information should be provided if the scheme member requests it or
 
 1.  Disregard any future service or premiums that might be paid and future inflation, what is the largest lump sum payment that the member would be entitled to take if she/he were to retire at a normal retirement age?
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 2. What is the earliest date on which the member has the right to take benefits, excluding retirement on grounds of ill health?
+2. What is the earliest date on which the member has the right to take benefits, excluding retirement on grounds of ill health?
 
 3.  Are civil partner’s benefits payable? Yes
 
@@ -2356,11 +1904,7 @@ Note:  Until the information requested in A, B (and as far as applicable G, H I 
 
 THIS ORDER TAKES EFFECT FROM the date on which the final order relating to the Dissolution or Annulment of the civil partnership is granted or if later, either:
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 a. 21 days from the date of this order, unless an appeal has been lodged, in which case; or
+a. 21 days from the date of this order, unless an appeal has been lodged, in which case; or
 
 b. the effective date of the order determining that appeal.
 
@@ -2368,13 +1912,11 @@ To the person responsible for the pension arrangement: *(delete as appropriate)
 
 *the day on which this order takes effect, or
 
-*the first day on which you are in receipt of
-
-a. the pension sharing order including this annex and where appropriate any attachment;
+*the first day on which you are in receipt of a. the pension sharing order including this annex and where appropriate any attachment;
 
 b. in the case of a dissolution or annulment, a copy of the order of dissolution or annulment of the civil partnership and a copy of the certificate that the order has been made final;
 
-c. the information specified in paragraph A and B of this annex and, where applicable, paragraphs G to J of this  annex; and
+c. the information specified in paragraph A and B of this annex and, where applicable, paragraphs G to J of this annex; and
 
 d. payment of all outstanding charges requested by the pension scheme.
 
@@ -2382,11 +1924,7 @@ The Supreme Court office at is open between __ am and __ pm Monday to Friday. Wh
 
 If you do not do so, your correspondence may be returned.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 FORMC22 Rule 77(1)
+FORMC22 Rule 77(1)
 
 ORIGINATING APPLICATION ON GROUND OF FAILURE TO PROVIDE REASONABLE MAINTENANCE.
 
@@ -2412,7 +1950,13 @@ of (hereinafter called the ‘respondent’) say that the respondent has failed 
 
 ] and I apply for an order for [here set out the financial relief claimed and any order for residence claimed under the Children Act 2009].
 
-In the Supreme Court of Gibraltar
+My address for service is [where the applicant sues by a Lawyer, state the Lawyer’s name or firm and address or, where the applicant sues in person, state her place of residence as given above, or, if, no place of residence in Gibraltar is given, the address of a place in Gibraltar at or to which the documents for her may be delivered or sent].
+
+Dated:
+
+The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
+
+If you do not do so, your correspondence may be returned. In the Supreme Court of Gibraltar
 
 Application No.
 
@@ -2420,23 +1964,7 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 My address for service is [where the applicant sues by a Lawyer, state the Lawyer’s name or firm and address or, where the applicant sues in person, state her place of residence as given above, or, if, no place of residence in Gibraltar is given, the address of a place in Gibraltar at or to which the documents for her may be delivered or sent].
-
-Dated:
-
-The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
-
-If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 FORMCP23
+FORMCP23
 
 Rule 78(1)
 
@@ -2454,27 +1982,21 @@ And
 
 (Respondent)
 
-1.  I                                                                                  , the *[civil partner] of                                                     (hereinafter called ‘the respondent’), apply for an order altering the maintenance agreement made between me and the respondent on the                             day of      20 ,
+1.  I                                                                                  , the *[civil partner] of (hereinafter called ‘the respondent’), apply for an order altering the maintenance agreement made between me and the respondent on the                             day of      20 ,
 
 2. I reside at                                                                                       , and the respondent at resides at                                     [Add, unless both parties are resident in Gibraltar. We are both domiciled in [ or as the case may be].
 
 3.  On the                              day of                                 20  , I entered into a civil partnership
 
-4. There is *[are] [no [ or state number] child[ren] of the family [namely [state the full name (including surname) of each child now living and his date of birth or, if it be the case, that he is over 18 and, in the case of each child over the age of 16, whether he is or will be, or if an order or provision were made would be, receiving instruction at an education establishment or undergoing training for a trade, profession or vocation] who is now residing at [state the place] with [state the person] [and [state name of any child who has died since the date of the agreement] who died on the day of                                 20  .] [The agreement also makes financial arrangements for [give similar particulars of any other child for whom the agreement makes such arrangements]].
-
-In the Supreme Court of Gibraltar
+4. There is *[are] [no [ or state number] child[ren] of the family [namely [state the full name (including surname) of each child now living and his date of birth or, if it be the case, that he is over 18 and, in the case of each child over the age of 16, whether he is or will be, or if an order or provision were made would be, receiving instruction at an education establishment or undergoing training for a trade, profession or vocation] who is now residing at [state the place] with [state the person] [and [state name of any child who has died since the date of the agreement] who died on the In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
-Respondent/Defendant
+Respondent/Defendant day of                                 20  .] [The agreement also makes financial arrangements for [give similar particulars of any other child for whom the agreement makes such arrangements]].
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 5. There have been no previous proceedings in any court with reference to the agreement or to the civil partnership [or to the child(ren) of the family] [or to the other child(ren) for whom the agreement makes financial arrangements] or between the applicant and the respondent with reference to any property of either or both of them [except state the nature of the proceedings and the date and effect or any order].
+5. There have been no previous proceedings in any court with reference to the agreement or to the civil partnership [or to the child(ren) of the family] [or to the other child(ren) for whom the agreement makes financial arrangements] or between the applicant and the respondent with reference to any property of either or both of them [except state the nature of the proceedings and the date and effect or any order].
 
 6.  My means are as follows
 
@@ -2489,12 +2011,6 @@ Dated this             day of                   20  .
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP24 Rule 79(1) and 81(3)
 
@@ -2534,9 +2050,7 @@ who died on the
 
 day of
 
-20
-
-, [and the respondent] should be altered as shown in the affidavit accompanying this summons so as to make different {or contain] financial arrangements.
+20  , [and the respondent] should be altered as shown in the affidavit accompanying this summons so as to make different {or contain] financial arrangements.
 
 Dated this
 
@@ -2548,6 +2062,8 @@ To the Respondent,
 
 TAKE NOTICE that
 
+1. A copy of the affidavit to be used in support of the application is delivered herewith.
+
 In the Supreme Court of Gibraltar
 
 Application No.
@@ -2555,12 +2071,6 @@ Application No.
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 1. A copy of the affidavit to be used in support of the application is delivered herewith.
 
 2. You must complete the accompanying acknowledgement of service and send it so as to reach the Court within eight days after you receive this summons.
 
@@ -2576,11 +2086,7 @@ The Supreme Court office at is open between __ am and __ pm Monday to Friday. Wh
 
 If you do not do so, your correspondence may be returned.
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 FORMCP25 Rules 77(4) and 78(4)
+FORMCP25 Rules 77(4) and 78(4)
 
 NOTICE OF PROCEEDINGS AND ACKNOWLEDGEMENT OF SERVICE
 
@@ -2604,19 +2110,13 @@ TAKE NOTICE THAT an application [in case of a failure to provide reasonable main
 
 1.  You must complete the acknowledgement of service and send it so that it reaches the Court within 14 days after you receive this notice. Delay in returning this form may add to the costs.
 
-In the Supreme Court of Gibraltar
-
-Application No.
+In the Supreme Court of Gibraltar Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 2.  If you intend to instruct a Lawyer to act for you, you should at once give him all the documents that have been served on you, so that he may send the acknowledgement to the Court on your behalf. If you do not intend to instruct a Lawyer, you should give an address in the acknowledgement of service so that any documents affecting your interests which are sent to you will, in fact, reach you. This address should be your place of residence or, if you do not reside in Gibraltar the address of a place in Gibraltar to which documents may be sent to you. Please make certain that you notify the Court immediately if you change your address.
+2.  If you intend to instruct a Lawyer to act for you, you should at once give him all the documents that have been served on you, so that he may send the acknowledgement to the Court on your behalf. If you do not intend to instruct a Lawyer, you should give an address in the acknowledgement of service so that any documents affecting your interests which are sent to you will, in fact, reach you. This address should be your place of residence or, if you do not reside in Gibraltar the address of a place in Gibraltar to which documents may be sent to you. Please make certain that you notify the Court immediately if you change your address.
 
 3.  Where the application is for failure to provide reasonable maintenance and you wish to challenge the jurisdiction of the Court to hear the application, you must file in the Court an affidavit setting out the grounds of your challenge. Where you do not wish to challenge the jurisdiction of the Court (or where the Court decides the question of jurisdiction in the applicant's favour) you must file an affidavit stating:
 
@@ -2632,11 +2132,7 @@ In either case the affidavit must be sent, together with a copy for the applican
 
 Dated this      day of                       20          .
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 After completing the Acknowledgement of Service below detach this part of the form and return it to the Court.
+After completing the Acknowledgement of Service below detach this part of the form and return it to the Court.
 
 ACKNOWLEDGEMENT OF SERVICE
 
@@ -2644,9 +2140,7 @@ PLEASE COMPLETE THIS FORM IN BLACK INK
 
 QUESTION ANSWER 1.  Have you received the originating application and a copy of the supporting affidavit delivered with this form?
 
-2.  On what date and at what address did you receive them? Date: Address: 3.  Are you the person named as the respondent in the originating application?
-
-Only answer this question if the application is for failure to provide reasonable maintenance.
+2.  On what date and at what address did you receive them? Date: Address: 3.  Are you the person named as the respondent in the originating application? Only answer this question if the application is for failure to provide reasonable maintenance.
 
 4.  Do you intend to challenge the jurisdiction of the Court?
 
@@ -2668,19 +2162,9 @@ Address for service of documents:
 
 Dated this        day of        20     .
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
+The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 FORMCP26 Rule 63(1)
 
@@ -2690,9 +2174,7 @@ Duration of civil partnership:
 
 Age of Parties:
 
-Petitioner___________ Respondent ___________ Minor (i.e. under the age of 18) or dependent children
-
-Summary of means
+Petitioner___________ Respondent ___________ Minor (i.e. under the age of 18) or dependent children Summary of means
 
 Give as the date of the statement the approximate amount or value of capital resources and net income of petitioner and respondent and, where relevant, of minor children of the family. State also the net equity in any property concerned and the effect of its proposed distribution.
 
@@ -2702,7 +2184,7 @@ Respondent
 
 Children
 
-Note: If the application is only for an order for interim periodical payments or variation of then only the information In the Supreme Court of Gibraltar
+In the Supreme Court of Gibraltar
 
 Application No.
 
@@ -2710,11 +2192,7 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039 required under net income” need be given.
+Note: If the application is only for an order for interim periodical payments or variation of then only the information required under net income” need be given.
 
 Where the parties are to live
 
@@ -2733,12 +2211,6 @@ To be answered by the applicant where the terms of the order provide for a trans
 Notice to mortgagee
 
 Has any and every mortgagee of the property been served with notice of the application?
-
-Civil Partnership CIVIL PARTNERSHIP RULES 2014
-
-2014-10
-
-Subsidiary 2014/039
 
 Yes                   No
 
