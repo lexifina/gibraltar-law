@@ -34,11 +34,9 @@ ENACTMENTS REPEALED
 
 16. The Companies (Amendment) Act 1999 (1999 No.30): the whole Act
 
-17. The Companies (Execution of Documents by Foreign Companies) Act 2001 (2001 No. 2): the whole Act.
-
 Companies
 
-2014-19
+2014-19 17. The Companies (Execution of Documents by Foreign Companies) Act 2001 (2001 No. 2): the whole Act.
 
 18. The Companies (Amendment) Act 2001 (2001 No.03): the whole Act.
 

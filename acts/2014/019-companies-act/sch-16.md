@@ -24,7 +24,9 @@ The information concerning capital and reserves and the profit or loss may also 
 
 Companies
 
-2014-19 (h) the total amount of any financial commitments, guarantees or contingencies that are not included in the balance sheet, and an indication of the nature and form of any valuable security that has been provided.
+2014-19
+
+(h) the total amount of any financial commitments, guarantees or contingencies that are not included in the balance sheet, and an indication of the nature and form of any valuable security that has been provided.
 
 Any commitments concerning pensions and affiliated or associated undertakings must be disclosed separately;
 
@@ -40,11 +42,13 @@ Information about individual transactions may be aggregated according to their n
 
 (m) where a provision for deferred tax is recognized in the balance sheet, the deferred tax balances at the end of the financial year, and the movement in those balances during the financial year;
 
-(n) the amount of the emoluments granted in respect of the financial year to the directors by reason of their responsibilities, and any commitments arising or entered into in respect of retirement pensions for former directors, with an indication of the total for each category; and
+(n) the amount of the emoluments granted in respect of the financial year to the directors by reason of their responsibilities, and any commitments arising or entered into in
 
 Companies
 
-2014-19 (o) the amount of advances and credits granted to the directors with indications of the interest rates, main conditions and any amounts repaid, written off or waived, as well as commitments entered into on their behalf by way of guarantees of any kind, with an indication of the total for each category.
+2014-19 respect of retirement pensions for former directors, with an indication of the total for each category; and
+
+(o) the amount of advances and credits granted to the directors with indications of the interest rates, main conditions and any amounts repaid, written off or waived, as well as commitments entered into on their behalf by way of guarantees of any kind, with an indication of the total for each category.
 
 (p) separately, the total fees for the financial year charged by the statutory auditor or audit firm for the statutory audit of annual accounts, the total fees charged for other assurance services, the total fees charged for tax advisory services and the total fees charged for other non-audit services.
 
@@ -66,11 +70,11 @@ The Minister may by regulations provide that this requirement shall not apply wh
 
 (iii) the members of the administrative, management and supervisory bodies of the company;
 
-(b) transactions entered into between two or more members of a group are exempt from the provisions of paragraph (j) provided
-
 Companies
 
-2014-19 that subsidiaries which are party to the transaction are wholly owned by such a member; and
+2014-19
+
+(b) transactions entered into between two or more members of a group are exempt from the provisions of paragraph (j) provided that subsidiaries which are party to the transaction are wholly owned by such a member; and
 
 (c) In relation to group accounts, paragraph 1(j) applies to transactions which the parent company, or other undertakings included in the consolidation, have entered into with related parties, unless they are intra-group transactions.
 
@@ -92,13 +96,13 @@ Companies
 
 (b) that participating interest has been dealt with by that parent company in its annual accounts in accordance with paragraph 13A of Schedule 15, or in the consolidated accounts drawn up by that parent company in accordance with paragraph 19 of Schedule 21.
 
-5B. Disclosures required under paragraph 1(k) of this Schedule may be omitted where disclosure of that information would be seriously prejudicial to the undertaking provided that any such omission shall be disclosed in the notes to the accounts.
-
-6.  Deleted
+5B. Disclosures required under paragraph 1(k) of this Schedule may be omitted where disclosure of that information would be seriously prejudicial
 
 Companies
 
-2014-19
+2014-19 to the undertaking provided that any such omission shall be disclosed in the notes to the accounts.
+
+6.  Deleted
 
 7.(1)  This paragraph applies where financial instruments have been valued in accordance with paragraphs 22, 24 or 25 of Schedule 15.
 
@@ -110,9 +114,7 @@ Companies
 
 (i) included directly in the profit and loss account, and
 
-(ii) credited to or (as the case may  be) debited from the fair value reserve, in respect of those instruments or other
-
-assets; and
+(ii) credited to or (as the case may  be) debited from the fair value reserve, in respect of those instruments or other  assets; and
 
 (c) for each class of derivatives, the extent and nature of the instruments, including significant terms and conditions that may affect the amount, timing and certainty of future cash flows.
 
@@ -128,13 +130,13 @@ assets; and
 
 (b) the extent and nature of the derivatives.
 
-9.(1) Sub-paragraph (2) applies if–
-
-(a) the company has financial fixed assets that have been measured at purchase price or production cost; and
-
 Companies
 
 2014-19
+
+9.(1) Sub-paragraph (2) applies if–
+
+(a) the company has financial fixed assets that have been measured at purchase price or production cost; and
 
 (b) the amount at which those assets are included under any item in the company’s accounts is in excess of their fair value.
 
@@ -158,13 +160,11 @@ Companies
 
 (4)  In subparagraph (3), references in relation to any item to the comparable amounts determined in accordance with that subparagraph are references to−
 
-(a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
-
-(b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted
-
 Companies
 
-2014-19 or required in determining those amounts according to those rules.
+2014-19 (a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
+
+(b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
 
 10A.(1) This paragraph applies where fixed assets are measured at revalued amounts.
 
@@ -176,6 +176,4 @@ Companies
 
 11.  Where used in this Schedule, the expressions defined in paragraph 28 of Schedule 15 have the same meaning as in that Schedule.
 
-Companies
-
-2014-19
+__________________________

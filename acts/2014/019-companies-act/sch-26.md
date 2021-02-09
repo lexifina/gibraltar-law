@@ -26,11 +26,9 @@ Duty to deliver copies in Gibraltar.
 
 (2)  The body corporate shall deliver to the Registrar for registration in respect of the branch copies of all the accounting documents prepared in relation to a financial period of the body corporate which are disclosed in accordance with its parent law on or after the end of the period allowed for compliance in respect of the branch with section 445 or, if earlier, the date on which the body corporate complies with that section in respect of the branch.
 
-(3)  Where the company’s parent law permits it to discharge its obligation with respect to the disclosure of accounting documents by disclosing
-
 Companies
 
-2014-19 documents in a modified form, it may discharge its obligations under subparagraph (2) by delivering copies of documents modified as permitted by that law.
+2014-19 (3)  Where the company’s parent law permits it to discharge its obligation with respect to the disclosure of accounting documents by disclosing documents in a modified form, it may discharge its obligations under subparagraph (2) by delivering copies of documents modified as permitted by that law.
 
 (4)  If any document, a copy of which is delivered under subparagraph (2), is in a language other than English, the body corporate shall annex to the copy delivered a translation of it into English, certified in accordance with rule 5 of the Companies Rules to be a correct translation.
 
@@ -56,11 +54,11 @@ Interpretation.
 
 6.(1)  In this Part–
 
-“financial period”–
-
 Companies
 
 2014-19
+
+“financial period”–
 
 (a) in relation to a body corporate falling within paragraph (2)(a) above, means a period for which the body corporate is required or permitted by its parent law to prepare accounts; and
 
@@ -84,11 +82,11 @@ Companies
 
 (3)  For the purposes of this Part of this Schedule, the accounting documents in relation to a financial period of a body corporate falling within paragraph (2)(b) are the consolidated accounts of its parent undertaking.
 
-PART II
-
 Companies
 
-2014-19 BODIES CORPORATE NOT REQUIRED TO MAKE DISCLOSURE UNDER PARENT LAW
+2014-19 PART II
+
+BODIES CORPORATE NOT REQUIRED TO MAKE DISCLOSURE UNDER PARENT LAW
 
 Scope of Part.
 
@@ -114,11 +112,9 @@ Duty to deliver accounts and reports.
 
 (a) before the end of the period allowed for compliance with that paragraph, they are delivered in respect of another branch in Gibraltar or the United Kingdom; and
 
-(b) the particulars registered under section 445 in respect of the branch indicate an intention that they are to be registered in respect of that other branch and include the details of that other branch mentioned in section 448(b).
-
 Companies
 
-2014-19
+2014-19 (b) the particulars registered under section 445 in respect of the branch indicate an intention that they are to be registered in respect of that other branch and include the details of that other branch mentioned in section 448(b).
 
 Time for delivery.
 

@@ -108,11 +108,11 @@ Companies
 
 (5)  The book values immediately prior to the acquisition, and the fair values at the date of acquisition, of each class of assets and liabilities of the undertaking or group acquired shall be stated in tabular form, including a statement of the amount of any goodwill or negative consolidation difference arising on the acquisition, together with an explanation of any significant adjustments made.
 
-(6)  In ascertaining for the purposes of subparagraph (4) or (5) the profit or loss of a group, the book values and fair values of assets and liabilities of a group or the amount of the assets and liabilities of a group, the set-offs and other adjustments required by this Schedule in the case of group accounts must be made.
+(6)  In ascertaining for the purposes of subparagraph (4) or (5) the profit or loss of a group, the book values and fair values of assets and liabilities of a group or the amount of the assets and liabilities of a group, the set-offs and
 
 Companies
 
-2014-19
+2014-19 other adjustments required by this Schedule in the case of group accounts must be made.
 
 12.(1)  A note to the accounts shall state the cumulative amount of goodwill resulting from acquisitions in that and earlier financial years which has been written off.
 
@@ -136,17 +136,17 @@ Non-controlling interests.
 
 15.(1) The formats in Schedules 11 and 12 have effect in relation to group accounts with the following additions.
 
-(2) In the Balance Sheet Formats a further item headed “Non-controlling interests” is added–
+(2) In the Balance Sheet Formats a further item headed “Non- controlling interests” is added–
 
 (a) in Format 1, either after item J or at the end (after item K); and
 
 (b) in Format 2, under the general heading “CAPITAL RESERVES AND LIABILITIES”, between items A and B,
 
-and that item shall include the amount of capital and reserves attributable to shares in subsidiary undertakings included in the consolidation held by or on behalf of persons other than the parent company and its subsidiary undertakings.
-
 Companies
 
 2014-19
+
+and that item shall include the amount of capital and reserves attributable to shares in subsidiary undertakings included in the consolidation held by or on behalf of persons other than the parent company and its subsidiary undertakings.
 
 (3) In the Profit and Loss Account Formats a further item headed “Non- controlling interests” is added–
 
@@ -174,11 +174,11 @@ Associated undertakings.
 
 (a) a subsidiary undertaking of the parent company; or
 
-(b) a joint venture dealt with in accordance with paragraph 16.
-
 Companies
 
-2014-19 (2)  Where an undertaking holds 20 per cent or more of the voting rights in another undertaking, it shall be presumed to exercise a significant influence over it unless the contrary is shown.
+2014-19 (b) a joint venture dealt with in accordance with paragraph 16.
+
+(2)  Where an undertaking holds 20 per cent or more of the voting rights in another undertaking, it shall be presumed to exercise a significant influence over it unless the contrary is shown.
 
 (3)  The voting rights in an undertaking means the rights conferred on shareholders in respect of their shares or, in the case of an undertaking not having a share capital, on members, to vote at general meetings of the undertaking on all, or substantially all, matters.
 
@@ -204,13 +204,13 @@ are replaced by two items, “Income from interests in associated undertakings�
 
 19.(1)  The interest of an undertaking in an associated undertaking, and the amount of profit or loss attributable to such an interest, shall be shown by the equity method of accounting (including dealing with any goodwill arising in accordance with paragraphs 1 to 3 and 5 of section A of Schedule 15).
 
-(2)  Where the associated undertaking is itself a parent undertaking, the net assets and profits or losses to be taken into account are those of the parent and its subsidiary undertakings (after making any consolidation adjustments).
-
-(3)  The equity method of accounting need not be applied if the amounts in question are not material for the purpose of giving a true and fair view.
+(2)  Where the associated undertaking is itself a parent undertaking, the net assets and profits or losses to be taken into account are those of the parent
 
 Companies
 
-2014-19
+2014-19 and its subsidiary undertakings (after making any consolidation adjustments).
+
+(3)  The equity method of accounting need not be applied if the amounts in question are not material for the purpose of giving a true and fair view.
 
 Deferred tax balances.
 

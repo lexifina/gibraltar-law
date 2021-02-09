@@ -104,11 +104,9 @@ E. Creditors amounts falling due within 1 year
 
 F. Net current assets (liabilities) (12)
 
-G. Total assets less current liabilities
-
 Companies
 
-2014-19
+2014-19 G. Total assets less current liabilities
 
 H. Creditors amounts falling due after more than 1 year
 
@@ -160,11 +158,11 @@ IV Other reserves
 
 V Profit and loss account
 
-BALANCE SHEET FORMAT 2
-
 Companies
 
 2014-19
+
+BALANCE SHEET FORMAT 2
 
 ASSETS
 
@@ -216,13 +214,11 @@ I Stocks
 
 2. Work in progress
 
-3. Finished goods and goods for resale
-
-4. Payments on account
-
 Companies
 
-2014-19
+2014-19 3. Finished goods and goods for resale
+
+4. Payments on account
 
 II Debtors (6)
 
@@ -272,13 +268,11 @@ IV Other reserves
 
 V Profit and loss account
 
-B. Provisions for liabilities (16)
-
-1. Pensions and similar obligations
-
 Companies
 
-2014-19
+2014-19 B. Provisions for liabilities (16)
+
+1. Pensions and similar obligations
 
 2. Taxation including deferred taxation
 
@@ -324,13 +318,13 @@ Amounts in respect of assets may only be included in a company’s balance sheet
 
 (b) the assets in question were created by the company itself.
 
-(3)  Land and buildings
-
-(Formats 1 and 2, items B. II. 1)
-
 Companies
 
 2014-19
+
+(3)  Land and buildings
+
+(Formats 1 and 2, items B. II. 1)
 
 Rights to immovables and other similar rights must be shown under land and buildings.
 
@@ -368,13 +362,11 @@ The amount of any convertible loans must be shown separately.
 
 (Format 1, items E.3 and H.3 and Format 2, item C.3)
 
-Payments received on account of orders must be shown for each of these items in so far as they are not shown as deduction from stocks.
-
-(10)  Other creditors including taxation and social security
-
 Companies
 
-2014-19
+2014-19 Payments received on account of orders must be shown for each of these items in so far as they are not shown as deduction from stocks.
+
+(10)  Other creditors including taxation and social security
 
 (Format 1, items E.8 and H.8 and Format 2, item C.8)
 
@@ -406,13 +398,13 @@ The amount of allotted share capital and the amount of called-up share capital w
 
 Amounts falling due within 1 year and after 1 year must be shown separately for each of these items and their aggregate must be shown separately for all of these items. A small company need not comply with this requirement if it discloses in the notes to its accounts the aggregate amount included under “Creditors” falling due within 1 year and the aggregate amount falling due after 1 year.
 
-Provisions for liabilities
-
-(15Deleted
-
 Companies
 
-2014-19 (16)(1)  Provisions for liabilities are intended to cover losses or debts the nature of which is clearly defined and which at the date of the balance sheet are either likely to be incurred, or certain to be incurred but uncertain as to amount or as to the date on which they will arise. At the balance sheet date, a provision must represent the best estimate of the expenses likely to be incurred or, in the case of a liability, of the amount required to meet that liability.
+2014-19 Provisions for liabilities
+
+(15) Deleted
+
+(16)(1)  Provisions for liabilities are intended to cover losses or debts the nature of which is clearly defined and which at the date of the balance sheet are either likely to be incurred, or certain to be incurred but uncertain as to amount or as to the date on which they will arise. At the balance sheet date, a provision must represent the best estimate of the expenses likely to be incurred or, in the case of a liability, of the amount required to meet that liability.
 
 (2) Provisions for liabilities may not be used to adjust the values of assets.
 
@@ -424,202 +416,4 @@ Companies
 
 Companies
 
-2014-19 SCHEDULE 12 Section 245
-
-PROFIT AND LOSS ACCOUNT FORMATS
-
-Format 1 (see note (22) below)
-
-1.  Turnover
-
-2.  Cost of sales (19)
-
-3.  Gross profit or loss
-
-4.  Distribution costs (19)
-
-5.  Administrative expenses (19)
-
-6.  Other operating income
-
-7.  Income from shares in group undertakings
-
-8.  Income from participating interests
-
-9.  Income from other fixed asset investments (20)
-
-10.  Other interests receivable and similar income (20)
-
-11.  Amounts written off investments
-
-12.  Interest payable and similar expenses (21)
-
-13.  Tax on profit or loss
-
-14.  Profit or loss after taxation
-
-15.  Deleted
-
-16.  Deleted
-
-17.  Deleted
-
-18.  Deleted
-
-19.  Other taxes not shown under the above items
-
-20.  Profit or loss for the financial year.
-
-Companies
-
 2014-19
-
-Format 2
-
-1.  Turnover
-
-2.  Change in stocks of finished goods and in work in progress
-
-3.  Own work capitalised
-
-4.  Other operating income
-
-5.    (a)  Raw materials and consumables
-
-(b) Other external expenses
-
-6.  Staff costs–
-
-(a) wages and salaries
-
-(b) social security costs
-
-(c) other pension costs
-
-7.    (a) depreciation and other amounts written off tangible and intangible fixed assets
-
-(b) exceptional amounts written off current assets, to the extent that they exceed write-offs which are normal in the undertaking concerned
-
-8.  Other operating expenses
-
-9.  Income from shares in group undertakings
-
-10. Income from participating interests
-
-11. Income from other fixed asset investments (20)
-
-12. Other interest receivable and similar income (20)
-
-13. Amounts written off investments
-
-14. Interest payable and similar expenses (21)
-
-15. Tax on profit or loss
-
-16. Profit or loss after taxation
-
-Companies
-
-2014-19 17. Deleted
-
-18. Deleted
-
-19. Deleted
-
-20. Deleted
-
-21. Other taxes not shown under the above items
-
-22. Profit or loss for the financial year.
-
-Format 3 Deleted
-
-Format 4 A. Charges
-
-1. Reduction in stocks of finished goods and in work in progress
-
-2. (a) Raw materials and consumables
-
-(b) Other external charges
-
-3. Staff costs–
-
-(a) wages and salaries
-
-(b) social security costs
-
-(c) other pension costs
-
-4.    (a) Depreciation and other amounts written off tangible and intangible fixed assets
-
-(b) Exceptional amounts written off current assets
-
-5. Other operating charges
-
-6. Amounts written off investments
-
-7. Interest payable and similar charges (21)
-
-8. Tax on profit or loss on ordinary activities
-
-9. Profit or loss on ordinary activities after taxation
-
-Companies
-
-2014-19 10. Extraordinary charges
-
-11. Tax on extraordinary profit or loss
-
-12. Other taxes not shown under the above items
-
-13. Profit or loss for the financial year
-
-B. Income
-
-1. Turnover
-
-2. Increase in stocks of finished goods and in work in progress
-
-3. Own work capitalised
-
-4. Other operating income
-
-5. Income from shares in group undertakings
-
-6. Income from participating interests
-
-7. Income from other fixed asset investments (20)
-
-8. Other interest receivable and similar income (20)
-
-9. Profit or loss on ordinary activities after taxation
-
-10. Extraordinary income
-
-11. Profit or loss for the financial year.
-
-Notes on the profit and loss account formats
-
-(19) Cost of sales: distribution costs: administrative expenses
-
-(Format 1, items 2, 4 and 5)
-
-These items must be stated after taking into account any necessary provisions for depreciation or diminution in value of assets.
-
-(20) Income from other fixed asset investments: other interest receivable and similar income
-
-(Format 1, items 9 and 10: Format 2, items 11 and 12)
-
-Companies
-
-2014-19 Income and interest derived from group undertakings must be shown separately from income and interest derived from other sources.
-
-(21) Interest payable and similar expenses
-
-(Format 1, item 12: Format 2, item 14)
-
-The amount payable to group undertakings must be shown separately.
-
-(22) Format 1
-
-The amount of any provisions for depreciation and diminution in value of tangible and intangible fixed assets falling to be shown under item 7(a) in Format 2 must be disclosed in a note to the accounts in any case where the profit and loss account is prepared by reference to Format 1.

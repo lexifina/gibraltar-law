@@ -20,7 +20,7 @@ DEFINITION OF MICRO-ENTITY, SMALL, MEDIUM-SIZED AND LARGE COMPANIES
 
 (c) that the average number of persons employed by the company in each year did not exceed 50.
 
-2.  Subject to paragraph 3 in respect of any financial year (“the relevant year”) a company is a medium-sized company if, in respect of the year or years specified in paragraph 4(2), the company satisfied was not a micro-entity or small company and at least two of the following conditions–
+2.  Subject to paragraph 3 in respect of any financial year (“the relevant year”) a company is a medium-sized company if, in respect of the year or years specified in paragraph 4(2), the company satisfied was not a micro- entity or small company and at least two of the following conditions–
 
 (a) that the amount of its net turnover did not exceed £36 million;
 

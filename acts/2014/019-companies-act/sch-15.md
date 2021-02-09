@@ -22,11 +22,11 @@ must be reduced by provisions for depreciation calculated to write off that amou
 
 3.(1) Where a fixed asset investment of a description falling to be included under item B.III of any of the balance sheet formats set out in Schedule 11 has diminished in value, provisions for diminution in value may be made in respect of it and the amount to be included in respect of it may be reduced accordingly; and those provisions must be charged to the profit and loss account and disclosed separately in a note to the accounts if not shown separately in the profit and loss account.
 
-(2) Provisions for diminution in value must be made in respect of any fixed asset which has diminished in value if the reduction in its value is expected to be permanent (whether its useful economic life is limited or not), and the amount to be included in respect of it will be reduced accordingly; and those provisions must be charged to the profit and loss account and
+(2) Provisions for diminution in value must be made in respect of any fixed asset which has diminished in value if the reduction in its value is expected to be permanent (whether its useful economic life is limited or not), and the amount to be included in respect of it will be reduced accordingly; and those provisions must be charged to the profit and loss
 
 Companies
 
-2014-19 disclosed separately in a note to the accounts if not shown separately in the profit and loss account.
+2014-19 account and disclosed separately in a note to the accounts if not shown separately in the profit and loss account.
 
 (3) Where the reasons for which any provision was made in accordance with subparagraph (1) or (2) have ceased to apply to any extent, that provision will be written back to the extent that it is no longer necessary; and any amounts written back under this subparagraph must be recognized in the profit and loss account and disclosed separately in a note to the accounts if not shown separately in the profit and loss account.
 
@@ -84,11 +84,11 @@ Excess of money owed over value received as an asset item.
 
 10. Deleted
 
-Determination of purchase price or production cost.
-
 Companies
 
 2014-19
+
+Determination of purchase price or production cost.
 
 11.(1)  The purchase price of an asset shall be determined by adding to the actual price paid any expenses incidental to its acquisition minus any incidental reductions in the cost of acquisition.
 
@@ -118,13 +118,11 @@ may be determined by the application of any of the methods mentioned in subparag
 
 (3)  Those methods are–
 
-(a) the method known as “first in, first out” (FIFO);
-
-(b) the method known as “last in, first out” (LIFO);
-
 Companies
 
-2014-19
+2014-19 (a) the method known as “first in, first out” (FIFO);
+
+(b) the method known as “last in, first out” (LIFO);
 
 (c) a weighted average price; and
 
@@ -146,13 +144,13 @@ Substitution of original stated amount where price or cost unknown.
 
 (2) If participating interests are accounted for using the equity method–
 
-(a) the proportion of profit or loss attributable to a participating interest and recognized in the profit and loss account may be that proportion which corresponds to the amount of any dividends, and
-
-(b) where the profit attributable to a participating interest and recognized in the profit and loss account exceeds the amount of
+(a) the proportion of profit or loss attributable to a participating interest and recognized in the profit and loss account may be
 
 Companies
 
-2014-19 any dividends, the difference must be placed in a reserve which cannot be distributed to shareholders.
+2014-19 that proportion which corresponds to the amount of any dividends, and
+
+(b) where the profit attributable to a participating interest and recognized in the profit and loss account exceeds the amount of any dividends, the difference must be placed in a reserve which cannot be distributed to shareholders.
 
 (3) The reference to “dividends” in subparagraph (2) includes dividends already paid to those whose payment can be claimed.
 
@@ -182,13 +180,13 @@ Companies
 
 SECTION B– ALTERNATIVE ACCOUNTING RULES
 
-Preliminary.
-
-16.  The rules set out in Section A are referred to in this Schedule as the historical cost accounting rules and the rules set out in Section B are referred to in this Schedule as the alternative accounting rules.
-
 Companies
 
 2014-19
+
+Preliminary.
+
+16.  The rules set out in Section A are referred to in this Schedule as the historical cost accounting rules and the rules set out in Section B are referred to in this Schedule as the alternative accounting rules.
 
 Alternative accounting rules.
 
@@ -212,13 +210,15 @@ Application of the depreciation rules.
 
 18.(1)  Where the value of any asset of a company is determined on a basis mentioned in paragraph 17 that value will be, or (as the case may require) will be the starting point for determining, the amount to be included in respect of that asset in the company’s accounts, instead of its purchase price or production cost or any value previously so determined for that asset; and the depreciation rules apply accordingly in relation to any such asset with the substitution for any reference to its purchase price or production cost of a reference to the value most recently determined for that asset on any basis mentioned in paragraph 17.
 
-(2)  The amount of any provision for depreciation required in the case of any fixed asset by paragraph 2 or 3 as it applies by virtue of subparagraph (1) is referred to in this paragraph as the adjusted amount, and the amount of any provision which would be required by that paragraph in the case of that asset according to the historical cost accounting rules is referred to as the historical cost amount.
-
-(3) Where subparagraph (1) applies in the case of any fixed asset the amount of any provision for depreciation in respect of that asset–
+(2)  The amount of any provision for depreciation required in the case of any fixed asset by paragraph 2 or 3 as it applies by virtue of subparagraph (1) is referred to in this paragraph as the adjusted amount, and the amount of any provision which would be required by that paragraph in the case of that
 
 Companies
 
-2014-19 (a) included in any item shown in the profit and loss account in respect of amounts written off assets of the description in question; or
+2014-19 asset according to the historical cost accounting rules is referred to as the historical cost amount.
+
+(3) Where subparagraph (1) applies in the case of any fixed asset the amount of any provision for depreciation in respect of that asset–
+
+(a) included in any item shown in the profit and loss account in respect of amounts written off assets of the description in question; or
 
 (b) taken into account in stating any item so shown which is required to be disclosed by note (19) of the notes on the profit and loss account formats set out in Schedule 12 to be stated after taking into account any necessary provisions for depreciation or diminution in value of assets included under it,
 
@@ -238,13 +238,11 @@ Additional information to be provided in case of departure from historical cost 
 
 (b) the total amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
 
-Revaluation reserve.
-
-20.(1)  With respect to any determination of the value of an asset of a company on any basis mentioned in paragraph 17, the amount of any profit or loss arising from that determination (after allowing, where appropriate, for any provisions for depreciation or diminution in value made otherwise than
-
 Companies
 
-2014-19 by reference to the value so determined and any adjustments of any such provisions made in the light of that determination) shall be credited or (as the case may be) debited to a separate reserve (“the revaluation reserve”).
+2014-19 Revaluation reserve.
+
+20.(1)  With respect to any determination of the value of an asset of a company on any basis mentioned in paragraph 17, the amount of any profit or loss arising from that determination (after allowing, where appropriate, for any provisions for depreciation or diminution in value made otherwise than by reference to the value so determined and any adjustments of any such provisions made in the light of that determination) shall be credited or (as the case may be) debited to a separate reserve (“the revaluation reserve”).
 
 (2)  The amount of the revaluation reserve shall be shown in the company’s balance sheet under a separate sub-heading in the position given for the item “revaluation reserve” under Capital and Reserves in Format 1 or 2 of the balance sheet formats set out in Schedule 11.
 
@@ -268,13 +266,13 @@ Special provisions where the company is an investment company.
 
 (2)  Any provisions made by virtue of paragraph 3(1) or (2) in the case of an investment company in respect of any fixed assets investments need not be charged to the profit and loss account provided they are either–
 
-(a) charged against any reserve account to which any account excluded by subparagraph (1) from the requirements of paragraph 20 has been credited; or
-
-(b) shown as a separate item in the company’s balance sheet under the sub-heading “other reserves”.
-
 Companies
 
 2014-19
+
+(a) charged against any reserve account to which any account excluded by subparagraph (1) from the requirements of paragraph 20 has been credited; or
+
+(b) shown as a separate item in the company’s balance sheet under the sub-heading “other reserves”.
 
 (3) For the purposes of this paragraph, as it applies in relation to any company, “fixed asset investment” means any asset falling to be included under any item shown in the company’s balance sheet under the subdivision ‘investments’ under the general item ‘fixed assets’.
 
@@ -304,13 +302,11 @@ Inclusion of financial instruments at fair value.
 
 (f) other financial instruments with such special characteristics that the instruments, according to generally accepted accounting principles or practice, should be accounted for differently from other financial instruments.
 
-(4)  If the fair value of a financial instrument cannot be determined reliably in accordance with paragraph 23, sub-paragraph (1) does not apply to that financial instrument.
-
-(5)  Financial instruments that, under UK-adopted international accounting standards, may be included in accounts at fair value, may be so included, provided that the disclosures required by such accounting standards are made.
-
 Companies
 
-2014-19
+2014-19 (4)  If the fair value of a financial instrument cannot be determined reliably in accordance with paragraph 23, sub-paragraph (1) does not apply to that financial instrument.
+
+(5)  Financial instruments that, under UK-adopted international accounting standards, may be included in accounts at fair value, may be so included, provided that the disclosures required by such accounting standards are made.
 
 (6)  In this paragraph–
 
@@ -336,7 +332,9 @@ Inclusion of hedged items at fair value.
 
 24.  A company may include any assets and liabilities that qualify as hedged items under a fair value hedge accounting system, or identified portions of such assets or liabilities, at the amount required under that system.
 
-Other items that may be included at fair value.
+Companies
+
+2014-19 Other items that may be included at fair value.
 
 25.(1)  This paragraph applies to−
 
@@ -344,9 +342,7 @@ Other items that may be included at fair value.
 
 (b) living animals and plants,
 
-Companies
-
-2014-19 which, under UK-adopted international accounting standards, may be included in accounts at fair value.
+which, under UK-adopted international accounting standards, may be included in accounts at fair value.
 
 (2)  Such investment property and such living animals and plants may be included at fair value, provided that all such investment property or, as the case may be, all such living animals and plants are so included where their fair value can reliably be determined.
 
@@ -370,15 +366,17 @@ the amount of the change in value must be credited to or (as the case may be) de
 
 (a) is an available for sale financial asset; and
 
+Companies
+
+2014-19
+
 (b) is not a derivative,
 
 the change in value may be credited to or (as the case may be) debited from the fair value reserve.
 
 The fair value reserve.
 
-Companies
-
-2014-19 27.(1)  The fair value reserve must be adjusted to the extent that the amounts shown in it are no longer necessary for the purposes of paragraph 26(3) or (4).
+27.(1)  The fair value reserve must be adjusted to the extent that the amounts shown in it are no longer necessary for the purposes of paragraph 26(3) or (4).
 
 (2)  The treatment for taxation purposes of amounts credited or debited to the fair value reserve must be disclosed in a note to the accounts.
 

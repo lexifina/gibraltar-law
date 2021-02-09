@@ -22,15 +22,15 @@ Right to appoint or remove a majority of the directors.
 
 (a) a person’s appointment to it follows necessarily from his appointment as director of the undertaking; or
 
-Companies
-
-2014-19
-
 (b) the directorship is held by the undertaking itself.
 
 (3)  A right to appoint or remove which is exercisable only with the consent or concurrence of another person will be left out of account unless no other person has a right to appoint or, as the case may be, remove in relation to that directorship.
 
 Right to exercise dominant influence.
+
+Companies
+
+2014-19
 
 4.(1)  For the purposes of section 276(2)(c) an undertaking shall not be regarded as having the right to exercise a dominant influence over another undertaking unless it has a right to give directions with respect to the operating and financial policies of that other undertaking with which its directors are obliged to comply, whether or not they are for the benefit of that other undertaking.
 
@@ -54,15 +54,17 @@ Rights which are exercisable only in certain circumstances or temporarily incapa
 
 Rights held by one person on behalf of another.
 
-Companies
-
-2014-19 6.  Rights held by a person in a fiduciary capacity shall be regarded as not held by him.
+6.  Rights held by a person in a fiduciary capacity shall be regarded as not held by him.
 
 7.(1)  Rights held by a person as nominee for another shall be regarded as held by the other.
 
 (2)  Rights shall be regarded as held as nominee for another if they are exercisable only on his instructions or with his consent.
 
 Rights attached to shares held by way of security.
+
+Companies
+
+2014-19
 
 8.(1)  Rights attached to shares held by way of security shall be regarded as held by the person providing the security–
 
@@ -84,11 +86,7 @@ Disregard of certain rights.
 
 Supplementary.
 
-11.  References in any provision of paragraphs 6 to 10 to rights held by a person include rights falling to be regarded as held by him by virtue of any
-
-Companies
-
-2014-19 other provision of those paragraphs but not rights which by virtue of any such provision are to be regarded as not held by him.
+11.  References in any provision of paragraphs 6 to 10 to rights held by a person include rights falling to be regarded as held by him by virtue of any other provision of those paragraphs but not rights which by virtue of any such provision are to be regarded as not held by him.
 
 Companies
 

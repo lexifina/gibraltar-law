@@ -18,10 +18,6 @@ Balance sheet.
 
 3.  The provisions of section 241 on signing the balance sheet apply to a copy of an abbreviated balance sheet delivered to the Registrar in accordance with this Schedule.
 
-Companies
-
-2014-19
-
 PART II
 
 Small company balance sheet formats
@@ -37,6 +33,10 @@ I Intangible assets
 II Tangible assets
 
 III Investments
+
+Companies
+
+2014-19
 
 C. Current assets
 
@@ -68,9 +68,7 @@ I Called-up share capital (13)
 
 II Share premium account
 
-Companies
-
-2014-19 III Revaluation reserve
+III Revaluation reserve
 
 IV Other reserves
 
@@ -85,6 +83,10 @@ ASSETS
 A. Called-up share capital not paid (1)
 
 B. Fixed assets I Intangible assets
+
+Companies
+
+2014-19
 
 II Tangible assets
 
@@ -116,9 +118,7 @@ IV Other reserves
 
 V Profit and loss account
 
-Companies
-
-2014-19 B. Provisions for liabilities
+B. Provisions for liabilities
 
 C. Creditors (14)
 

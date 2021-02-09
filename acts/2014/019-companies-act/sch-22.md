@@ -164,7 +164,9 @@ Membership of certain undertakings.
 
 Companies
 
-2014-19 (b) the address of the undertaking’s registered office (whether in or outside Gibraltar) or, if it does not have such an office, its head office (whether in or outside Gibraltar).
+2014-19
+
+(b) the address of the undertaking’s registered office (whether in or outside Gibraltar) or, if it does not have such an office, its head office (whether in or outside Gibraltar).
 
 (3)  Information otherwise required by subparagraph (2) need not be given if it is not material.
 
@@ -198,11 +200,9 @@ Identification of ultimate parent company.
 
 (2)  In this paragraph “company” includes any corporate body.
 
-Construction of references to shares held by company.
-
 Companies
 
-2014-19
+2014-19 Construction of references to shares held by company.
 
 13.(1)  References in this Part to shares held by a company shall be construed as follows.
 
@@ -234,7 +234,9 @@ Introductory.
 
 Companies
 
-2014-19 Subsidiary undertakings.
+2014-19
+
+Subsidiary undertakings.
 
 15.(1)  The following information shall be given with respect to the undertakings which are subsidiary undertakings of the parent company at the end of the financial year–
 
@@ -268,7 +270,9 @@ Financial information about subsidiary undertakings not included in the consolid
 
 Companies
 
-2014-19 17.(1)  Each subsidiary undertaking not included in the consolidation shall disclose–
+2014-19
+
+17.(1)  Each subsidiary undertaking not included in the consolidation shall disclose–
 
 (a) the total amount of its capital and reserves as at the end of its relevant financial year; and
 
@@ -296,11 +300,11 @@ Further information about subsidiary undertakings excluded from consolidation.
 
 (a) any qualifications contained in the auditors’ reports on the accounts of the undertaking for financial years ending with or during the financial year of the company; and
 
-(b) any note or saving contained in such accounts to call attention to a matter which, apart from the note or saving, would properly have been referred to in such a qualification, insofar as the matter which is the subject of the qualification or note is not
+(b) any note or saving contained in such accounts to call attention to a matter which, apart from the note or saving, would
 
 Companies
 
-2014-19 covered by the consolidated accounts and is material from the point of view of the members of the parent company.
+2014-19 properly have been referred to in such a qualification, insofar as the matter which is the subject of the qualification or note is not covered by the consolidated accounts and is material from the point of view of the members of the parent company.
 
 (3)  In so far as information required by this paragraph is not obtainable, a statement to that effect shall be given.
 
@@ -328,11 +332,13 @@ Joint ventures.
 
 (a) the name of the undertaking;
 
-(b) the address of the undertaking’s registered office;
-
 Companies
 
-2014-19 (c) the factors on which joint management of the undertaking is based; and
+2014-19
+
+(b) the address of the undertaking’s registered office;
+
+(c) the factors on which joint management of the undertaking is based; and
 
 (d) the proportion of the capital of the undertaking held by or on behalf of undertakings included in the consolidation.
 
@@ -366,11 +372,11 @@ and the information under heads (a) and (b) shall be shown separately.
 
 Other significant holdings of parent company or group.
 
-23.(1)  The information required by paragraph 24 and 25 shall be given where at the end of the financial year the parent company has a participating interest
-
 Companies
 
-2014-19 in an undertaking which is not one of its subsidiary undertakings and does not fall within paragraph 21 (joint ventures) or paragraph 22 (associated undertakings).
+2014-19
+
+23.(1)  The information required by paragraph 24 and 25 shall be given where at the end of the financial year the parent company has a participating interest in an undertaking which is not one of its subsidiary undertakings and does not fall within paragraph 21 (joint ventures) or paragraph 22 (associated undertakings).
 
 (2)  Deleted
 
@@ -404,11 +410,11 @@ Companies
 
 (4)  For the purposes of this paragraph the “relevant financial year” of an undertaking is–
 
-(a) if its financial year ends with that of the company, that year; and
-
 Companies
 
-2014-19 (b) if not, its financial year ending last before the end of the company’s financial year.
+2014-19 (a) if its financial year ends with that of the company, that year; and
+
+(b) if not, its financial year ending last before the end of the company’s financial year.
 
 26.(1)  The information required by paragraphs 27 and 28 shall be given where at the end of the financial year the group has a participating interests in an undertaking which is not a subsidiary undertaking of the parent company and does not fall within paragraph 21 (joint ventures) or paragraph 22 (associated undertakings).
 
@@ -440,11 +446,11 @@ Companies
 
 (b) Deleted
 
-(3)  Deleted
-
 Companies
 
-2014-19 (4)  For the purposes of this paragraph the “relevant financial year” of an undertaking is–
+2014-19 (3)  Deleted
+
+(4)  For the purposes of this paragraph the “relevant financial year” of an undertaking is–
 
 (a) if its financial year ends with that of the parent company, that year; and
 
@@ -478,11 +484,11 @@ Parent undertaking drawing up accounts for larger group.
 
 (b) the address of the undertaking’s registered office; and
 
-(c) if it is unincorporated, the address of its principal place of business.
-
 Companies
 
 2014-19
+
+(c) if it is unincorporated, the address of its principal place of business.
 
 (3)  If copies of the group accounts referred to in subparagraph (1) are available to the public, the addresses from which copies of the accounts can be obtained shall also be given.
 
@@ -512,11 +518,11 @@ Construction of references to shares held by parent company or group.
 
 (a) where apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in accordance with his instructions; and
 
-(b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the
-
 Companies
 
-2014-19 right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in his interests.
+2014-19
+
+(b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in his interests.
 
 Risk management systems.
 
@@ -529,66 +535,6 @@ PART III
 EMOLUMENTS OF DIRECTORS AND STAFF COSTS
 
 1.When applying subparagraphs (n) and (o) of paragraph 1 of Schedule 16 to group accounts, only the amounts granted to the directors of the parent company by the parent company and any of its subsidiary undertakings must be disclosed in the notes to the accounts.
-
-Companies
-
-2014-19 SCHEDULE 23
-
-Section 377
-
-POWERS OF VOLUNTARY LIQUIDATOR
-
-PART I
-
-POWERS EXERCISABLE WITH SANCTION
-
-1.  Power to pay any class of creditors in full.
-
-2.  Power to make a compromise or arrangement with creditors or persons claiming to be creditors, or having or alleging that they have any claim against the company, whether present or future, certain or contingent, ascertained or not.
-
-PART II
-
-POWERS EXERCISABLE WITHOUT SANCTION
-
-3.  Power to commence, continue, discontinue or defend any action or other legal proceedings in the name and on behalf of the company.
-
-4.  Power to carry on the business of the company so far as may be necessary for its beneficial liquidation.
-
-5.  Power to sell or otherwise dispose of property of the company.
-
-6.  Power to compromise, on such terms as may be agreed–
-
-(a) calls and liabilities to calls, debts and liabilities capable of resulting in debts, and claims, whether present or future, certain or contingent, ascertained or not, subsisting or supposed to subsist between the company and any person; and
-
-(b) questions in any way relating to or affecting the assets or the liquidation of the company,
-
-and take security for the discharge of any such call, debt, liability or claim and give a complete discharge in respect of it.
-
-7.  Power to do all acts and execute, in the name and on behalf of the company, any deeds, receipts or other documents.
-
-8.  Power to use the company’s seal.
-
-Companies
-
-2014-19 9.  Power to prove, rank and claim in the bankruptcy, liquidation, insolvency or sequestration of any member or past member for any balance against his estate, and to receive dividends, in the bankruptcy, liquidation, insolvency, sequestration or in respect of that balance, as a separate debt due from the bankrupt or insolvent, and rateably with the other separate creditors.
-
-10.  Power to draw, accept, make and endorse any bill of exchange or promissory note in the name and on behalf of  the company with the same effect with respect to the company’s liability as if the bill or note had been drawn, accepted, made or indorsed by or on behalf of the company in the course of its business.
-
-11.  Power to borrow money, whether on the security of the assets of the company or otherwise.
-
-12.  Power to take out in his official name letters of administration to any deceased member or past member or debtor, and to do any other act necessary for obtaining payment of any money due from a member or past member or debtor, or his estate, that cannot conveniently be done in the name of the company. For the purposes of enabling the voluntary liquidator to take out letters of administration or do any other act under this paragraph, to be due to the voluntary liquidator himself.
-
-13.  Power to call meetings of creditors or members for–
-
-(a) the purpose of informing creditors or members concerning the progress of or matters arising in the liquidation;
-
-(b) the purpose of ascertaining the views of creditors or members on any matter arising in the liquidation; or
-
-(c) such other purpose connected with the liquidation as the voluntary liquidator considers appropriate.
-
-14.  Power to appoint a solicitor, accountant or other professionally qualified person to assist him in the performance of his duties.
-
-15.  Power to appoint an agent to do any business that the voluntary liquidator is unable to do himself, or which can be more conveniently done by an agent.
 
 Companies
 

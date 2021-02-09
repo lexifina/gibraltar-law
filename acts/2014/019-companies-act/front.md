@@ -18,7 +18,7 @@ Act. 2014-34 ss. 12, 24(1)(a), 65(1), 70(4), 102(5)(b), 126(3), 137(2)(c), 154(1
 
 22.12.2014 2015-21 ss. 360(2), (3), 366(1), 369(1A), 414(1), Sch. 5
 
-6.7.2015 LN. 2015/1131 Amended by LN. 2015/231 ss. 180(1)(e), (4), 237(1), 237A, 240(1A), (3), 244(2)(b), (c), (d), (da), (g), (j), 245(2), (2A) - (2C), (7A), (7B), 246(2), (3), 247(2), (4), 248, 250(3), (4), (6), 251(1), (2), (6A), (7), (8), 252(7), 253(1), (1A), 254(2),(5)(b), 258(1), (1A), (2), (2A), (3), (4), (5), 259(3), 270(a), (e), 271, 272(1)(a), (2), 273(2), 276(7), 279(1), 281(2), 282(A1), (5), (7), 283, 285(1), (aa), (b), (2), (3), (5), 286(1), (aa), (b), (2), (3), (5), 287(3), (4), (6), 288(3), 289(2),
+6.7.2015 LN. 2015/1131 Amended by LN. 2015/231 ss. 180(1)(e), (4), 237(1), 237A, 240(1A), (3), 244(2)(b), (c), (d), (da), (g), (j), 245(2), (2A) - (2C), (7A), (7B), 246(2), (3), 247(2), (4), 248, 250(3), (4), (6), 251(1), (2), (6A), (7), (8), 252(7), 253(1), (1A), 254(2),(5)(b), 258(1), (1A), (2), (2A), (3), (4), (5), 259(3), 270(a), (e), 271, 272(1)(a), (2), 273(2), 276(7), 279(1), 281(2), 282(A1), (5), (7), 283, 285(1), (aa), (b), (2), (3), (5), 286(1), (aa), (b), (2), (3), (5), 287(3), (4), (6), 288(3), 289(2), (6), (7), (8), 291, 292(2), (3), 293, 294A,
 
 1  These Regulations have effect in relation to financial years beginning on or after 1 January 2016, and a financial year of a company beginning on or after 1 January 2015, but before 1 January 2016, if the directors of the company so decide.
 
@@ -26,17 +26,17 @@ In determining whether a company or group qualifies as small or medium-sized und
 
 Companies
 
-2014-19 (6), (7), (8), 291, 292(2), (3), 293, 294A, Sch. 9, 11, 12, 13, 14, 15, 16, 17, 18,  19, 21, 22
+2014-19 Sch. 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22
 
 20.7.2015 2015/165 s. 168A 1.11.2015 2016/143 s. 478A 7.7.2016 2016/236 ss. 249(1), (2), (4), 251(5)(c), (d), (e), (7), (8), (9), 252A, 252B, 254(1), 258(2B), 281(2), Sch. 9
 
 6.12.20162 Act. 2017-03 s. 67A, Sch. 1A 11.4.2017 LN. 2017/196 s. 426, Sch. 24 1.1.2018 Act. 2019-33 ss. 431, 432(a)-(c), 433, (b)-(c), 434, (b), 435, (a)-(d), (i), 436(1)(a)-(b), (2), 437(1)-(6), 438(1), (a), 439(1)- (2), 440, 441, 443, 444(1), (5)-(6), 445(1), (a), (c), (2), (3)(a)-(b), (5), (6), 446(1)(a), (d)-(f), (2)-(4), (6)(a)- (b), 447(d), (f), 450(1), (a), 451(1), (4)(a)-(b), (5)(a), 452 (2), (3)(i), (4)- (5), 453(1)-(2), 453A, 454(1)-(3), 455(1)-(4), 456(1)-(2), (a), (3), (a), 457(1)-(4), 458, 459, 460(1)-(2), 461(1), (a)-(e), (2)-(5), 462(1), (a), (2), (a), (3)-(4), 463(1), 464(1)-(2), Sch. 26
 
-5.9.2019 LN. 2022/188 ss. 237(1), (4)(b), 238(1)(b), (2), 246(4), 248(2), 254(1), 267(1), (2)(a), 269(1), (9), 270(a), (e), 279(2), 280(1), (5)(b), 281(2)-(3), (4)(b), (5), (8), 283(2), 285(1), (2)(a)-(b), 286(1), (2)(b)(i)-(iv), 294, 311(4), (8), 332(3), (5)(b), Sch. 15-16, 28
+5.9.2019 LN. 2022/188 ss. 237(1), (4)(b), 238(1)(b), (2), 246(4), 248(2), 254(1), 267(1), (2)(a), 269(1), (9), 270(a), (e), 279(2), 280(1), (5)(b), 281(2)-(3), (4)(b), (5), (8), 283(2), 285(1), (2)(a)-(b), 286(1), (2)(b)(i)-(iv), 294, 311(4), (8), 332(3), (5)(b), Sch. 15- 16, 28
 
-1.1.2021
+1.1.2021 Act. 2021-08 ss. 182(3), 191(3)(a), 222(5) 9.2.2021
 
-Directive 2013/34/EU Directive 2014/95/EU
+Transposing: Directive 2013/34/EU Directive 2014/95/EU
 
 2 The amendments made by these regulations apply in relation to the financial years of companies and qualifying partnerships beginning on or after 1 January 2017.
 
@@ -112,11 +112,11 @@ Provisions with respect to names of companies
 
 General provisions with respect to company’s constitution
 
-33. Effect of company’s constitution 34. Provision as to memorandum and articles of companies limited by guarantee.
+33. Effect of company’s constitution 34. Provision as to memorandum and articles of companies limited by guarantee. 35. Constitutional documents to be provided to members.
 
 Companies
 
-2014-19 35. Constitutional documents to be provided to members. 36. Statutory alterations.
+2014-19 36. Statutory alterations.
 
 CHAPTER 3 RE-REGISTRATION AS A MEANS OF ALTERING A COMPANY’S STATUS
 
@@ -142,9 +142,11 @@ Public company becoming private and unlimited
 
 57. Re-registration of public company as private and unlimited. 58. Issue of certificate of incorporation on re-registration.
 
+Company limited by shares becoming a company limited by guarantee and not having a share capital
+
 Companies
 
-2014-19 Company limited by shares becoming a company limited by guarantee and not having a share capital
+2014-19
 
 59. Re-registration of company limited by shares as company limited by guarantee and not having a share capital. 60. Certificate of re-registration under section 59.
 
@@ -192,11 +194,11 @@ Allotment
 
 Commissions and discounts
 
-97. Power to pay certain commissions and prohibition of payment of all other commissions and discounts. 98. Statement in balance sheet as to commissions and discounts. 99. Holding of shares in public company by another company.
+97. Power to pay certain commissions and prohibition of payment of all other commissions and discounts. 98. Statement in balance sheet as to commissions and discounts. 99. Holding of shares in public company by another company. 100. Prohibition of provision of financial assistance by company for purchase of its own shares. 101. Relaxations of section 100 in the case of private companies.
 
 Companies
 
-2014-19 100. Prohibition of provision of financial assistance by company for purchase of its own shares. 101. Relaxations of section 100 in the case of private companies. 102. Statutory declaration under section 101. 103. Special resolution under section 101. 104. Time for giving financial assistance under section 101. 105. Power of company to purchase own shares and interpretation of sections 101 to 115. 106. Acquisition other than for value, in reduction of capital, alteration of objects and on forfeiture. 107. Restrictions on power of company to purchase own shares. 108. Definitions of “off-market” and “market” purchase. 109. Authority for off-market purchase. 110. Authority for contingent purchase contract. 111. Authority for market purchase. 112. Assignment or release of company’s right to purchase own shares. 113. Payments apart from purchase price to be made out of distributable profits. 114. Disclosure by company of purchase of own shares. 115. The capital redemption reserve.
+2014-19 102. Statutory declaration under section 101. 103. Special resolution under section 101. 104. Time for giving financial assistance under section 101. 105. Power of company to purchase own shares and interpretation of sections 101 to 115. 106. Acquisition other than for value, in reduction of capital, alteration of objects and on forfeiture. 107. Restrictions on power of company to purchase own shares. 108. Definitions of “off-market” and “market” purchase. 109. Authority for off-market purchase. 110. Authority for contingent purchase contract. 111. Authority for market purchase. 112. Assignment or release of company’s right to purchase own shares. 113. Payments apart from purchase price to be made out of distributable profits. 114. Disclosure by company of purchase of own shares. 115. The capital redemption reserve.
 
 Redemption or purchase of own shares out of capital (private companies only)
 
@@ -208,11 +210,11 @@ Issue of redeemable preference shares and shares at discount.
 
 Miscellaneous provisions as to share capital.
 
-127. Power of company to arrange for different amounts being paid on shares. 128. Fractional shares. 129. Reserve liability of limited company. 130. Power of company limited by shares to alter its share capital.
+127. Power of company to arrange for different amounts being paid on shares. 128. Fractional shares. 129. Reserve liability of limited company. 130. Power of company limited by shares to alter its share capital. 131. Notice to Registrar of consolidation of share capital and conversion of shares into stock. 132. Notice of increase of share capital.
 
 Companies
 
-2014-19 131. Notice to Registrar of consolidation of share capital and conversion of shares into stock. 132. Notice of increase of share capital. 133. Power of unlimited company to provide for reserve share capital on re-registration. 134. Power of company to pay interest out of capital in certain cases. 135. Authorised minimum.
+2014-19 133. Power of unlimited company to provide for reserve share capital on re-registration. 134. Power of company to pay interest out of capital in certain cases. 135. Authorised minimum.
 
 Reduction of share capital
 
@@ -232,9 +234,11 @@ Transfer of shares and debentures and evidence of title
 
 Redenomination of share capital
 
+159. Redenomination of share capital. 160. Effect of redenomination. 161. Notice to Registrar of redenomination.
+
 Companies
 
-2014-19 159. Redenomination of share capital. 160. Effect of redenomination. 161. Notice to Registrar of redenomination. 162. Reduction of capital in connection with redenomination. 163. Notice to Registrar of reduction of capital in connection with redenomination.
+2014-19 162. Reduction of capital in connection with redenomination. 163. Notice to Registrar of reduction of capital in connection with redenomination.
 
 Special provisions as to debentures
 
@@ -260,13 +264,11 @@ Registered office and name
 
 178. Registered office of company. 179. Publication of name by company. 180. Particulars to be shown on letterheads, etc.
 
-Companies
-
-2014-19
-
 Restrictions on commencement of business
 
-181. Restrictions on commencement of business.
+Companies
+
+2014-19 181. Restrictions on commencement of business.
 
 Register of members
 
@@ -282,11 +284,11 @@ Meetings and proceedings
 
 Inspection
 
+211. Investigation of companies and their affairs, etc.
+
 Companies
 
-2014-19
-
-211. Investigation of companies and their affairs, etc. 212. Proceedings on report by inspectors. 213. Power of company to appoint inspectors. 214. Report of inspectors to be evidence.
+2014-19 212. Proceedings on report by inspectors. 213. Power of company to appoint inspectors. 214. Report of inspectors to be evidence.
 
 Directors and managers
 
@@ -304,11 +306,11 @@ PART VII
 
 ACCOUNTS AND AUDIT
 
+CHAPTER 1 PRELIMINARY
+
 Companies
 
-2014-19 CHAPTER 1 PRELIMINARY
-
-237. Interpretation of Part VII. 237A.  Public-interest entity excluded from exemptions. 238. Preparation of annual accounts: mainstream companies.
+2014-19 237. Interpretation of Part VII. 237A.  Public-interest entity excluded from exemptions. 238. Preparation of annual accounts: mainstream companies.
 
 CHAPTER 2 ACCOUNTS OTHER THAN CONSOLIDATED ACCOUNTS
 
@@ -328,11 +330,11 @@ Directors reports: mainstream companies
 
 Auditors and auditor’ reports
 
-255. Appointment auditors. 256. Supplementary provisions as to auditors and their remuneration. 257. Auditors’ report and right of access to books and right to attend general meetings. 258. Auditors’ reports.
+255. Appointment auditors. 256. Supplementary provisions as to auditors and their remuneration. 257. Auditors’ report and right of access to books and right to attend general meetings. 258. Auditors’ reports. 259. Exemption for small companies. 260. Voidness of provisions protecting auditors from liability. 261. Indemnity for costs of successfully defending proceedings.
 
 Companies
 
-2014-19 259. Exemption for small companies. 260. Voidness of provisions protecting auditors from liability. 261. Indemnity for costs of successfully defending proceedings. 262. Liability limitation agreements. 263. Terms of liability limitation agreement. 264. Authorisation of agreement by members of the company. 265. Effect of liability limitation agreement. 266. Disclosure of agreement by company. 267. Voluntary revision of defective accounts and reports. 268. Change of accounting reference period.
+2014-19 262. Liability limitation agreements. 263. Terms of liability limitation agreement. 264. Authorisation of agreement by members of the company. 265. Effect of liability limitation agreement. 266. Disclosure of agreement by company. 267. Voluntary revision of defective accounts and reports. 268. Change of accounting reference period.
 
 Supplementary
 
@@ -346,11 +348,11 @@ Interpretation and general
 
 Preparation of group accounts
 
-281. Preparation of group accounts. 282. Chapter 3 Accounts. 283. IAS group accounts. 284. Consistency of accounts. 285. Exemption for parent companies included in accounts of larger group. 286. Exemption for parent companies included in non-EEA and non-UK group accounts. 287. Subsidiary undertakings included in the consolidation. 288. Treatment of individual profit and loss account where group accounts prepared. 289. Disclosure required in notes to accounts: related undertakings.
+281. Preparation of group accounts. 282. Chapter 3 Accounts. 283. IAS group accounts. 284. Consistency of accounts. 285. Exemption for parent companies included in accounts of larger group. 286. Exemption for parent companies included in non-EEA and non-UK group accounts. 287. Subsidiary undertakings included in the consolidation. 288. Treatment of individual profit and loss account where group accounts prepared. 289. Disclosure required in notes to accounts: related undertakings. 290. Disclosure required in notes to annual accounts: particulars of staff. 291. Deleted
 
 Companies
 
-2014-19 290. Disclosure required in notes to annual accounts: particulars of staff. 291. Deleted 292. Exemption for small and medium-sized groups. 293. Qualification of group as small or medium-sized or large. 294. Offences. 294A.  Transmission of Information.
+2014-19 292. Exemption for small and medium-sized groups. 293. Qualification of group as small or medium-sized or large. 294. Offences. 294A.  Transmission of Information.
 
 PART VIII
 
@@ -380,11 +382,11 @@ Merger
 
 Requirements applicable to merger
 
-305. Draft terms of scheme (merger). 306. Publication of draft terms (merger) by Registrar. 307. Publication of draft terms on company website (merger). 308. Approval of members of merging companies. 309. Directors’ explanatory report (merger). 310. Expert’s report (merger). 311. Supplementary accounting statement (merger). 312. Inspection of documents (merger). 313. Publication of documents on company website (merger).
+305. Draft terms of scheme (merger). 306. Publication of draft terms (merger) by Registrar. 307. Publication of draft terms on company website (merger). 308. Approval of members of merging companies. 309. Directors’ explanatory report (merger). 310. Expert’s report (merger). 311. Supplementary accounting statement (merger). 312. Inspection of documents (merger). 313. Publication of documents on company website (merger). 314. Report on material changes of assets of merging companies. 315. Approval of articles of new transferee company (merger).
 
 Companies
 
-2014-19 314. Report on material changes of assets of merging companies. 315. Approval of articles of new transferee company (merger). 316. Protection of holders of securities to which special rights attached (merger). 317. No allotment of shares to transferor company or its nominee (merger).
+2014-19 316. Protection of holders of securities to which special rights attached (merger). 317. No allotment of shares to transferor company or its nominee (merger).
 
 Exceptions where shares of transferor company held by transferee company.
 
@@ -440,11 +442,11 @@ PART IX
 
 DISTRIBUTION OF PROFITS AND ASSETS
 
-353. Certain distributions prohibited. 354. Further provisions as to distributions.
+353. Certain distributions prohibited.
 
 Companies
 
-2014-19 355. Investment companies. 356. Insurance companies. 357. Consequences of unlawful distribution. 358. Amount of distribution which may be made.
+2014-19 354. Further provisions as to distributions. 355. Investment companies. 356. Insurance companies. 357. Consequences of unlawful distribution. 358. Amount of distribution which may be made.
 
 PART X LIQUIDATION
 
@@ -474,11 +476,11 @@ Consequences of voluntary liquidation 370. Effects of Voluntary Liquidation. 371
 
 Voluntary liquidators and their powers and duties
 
-375. Status of voluntary liquidator. 376. Notice of appointment.
+375. Status of voluntary liquidator.
 
 Companies
 
-2014-19 377. General Powers of voluntary liquidator. 378. Power to apply to Court. 379. General duties of voluntary liquidator. 380. Power to fill vacancy in office of voluntary liquidator. 381. Removal of liquidator. 382. Resignation of voluntary liquidator. 383. Directors’ powers where no voluntary liquidator in office. 384. Power of voluntary liquidator to accept shares as consideration for sale of property of company. 385. Progress report to company at year’s end.
+2014-19 376. Notice of appointment. 377. General Powers of voluntary liquidator. 378. Power to apply to Court. 379. General duties of voluntary liquidator. 380. Power to fill vacancy in office of voluntary liquidator. 381. Removal of liquidator. 382. Resignation of voluntary liquidator. 383. Directors’ powers where no voluntary liquidator in office. 384. Power of voluntary liquidator to accept shares as consideration for sale of property of company. 385. Progress report to company at year’s end.
 
 Distribution of company’s assets
 
@@ -502,11 +504,9 @@ Offences antecedent to or in course of winding up
 
 398. Offences by officers of companies in liquidation. 399. Penalty for falsification of books. 400. Frauds by officers of companies which have gone into liquidation. 401. Liability where proper accounts not kept. 402. Power of court to assess damages against delinquent directors. 403. Prosecution of delinquent officers and members of company.
 
-Supplementary provisions as to winding up
-
 Companies
 
-2014-19
+2014-19 Supplementary provisions as to winding up
 
 404. Exemption of certain documents from stamp duty on winding up of companies. 405. Disposal of books and papers of company. 406. Information as to pending liquidations. 407. Resolutions passed at adjourned meetings of creditors and members. 408. Judicial notice of signature of officers. 409. Affidavits in Gibraltar, United Kingdom or elsewhere within the Commonwealth, etc. 410. Power of court to declare dissolution of company void. 411. Companies in default in respect of annual returns. 412. Registrar may strike defunct company off register. 413. Voluntary request to strike company off  Register. 414. Restoration of dissolved companies to the register; the Registrar’s functions. 415. Restoration of dissolved companies to the register; the Court's functions. 416. Property of dissolved company to be bona vacantia.
 
@@ -524,11 +524,9 @@ PART XII
 
 BODIES CORPORATE INCORPORATED OUTSIDE GIBRALTAR CARRYING ON BUSINESS WITHIN GIBRALTAR
 
-431. Bodies Corporate to which Part XII applies.
-
 Companies
 
-2014-19 432. Documents to be delivered to Registrar by bodies corporate carrying on business in Gibraltar. 433. Return to be delivered to Registrar where documents altered. 434. Application of sections 432 and 433. 435. Obligation to state name of body corporate, whether limited, and country where incorporated. 436. Contracts. 437. Execution of documents. 438. Execution of deeds. 439. Service on overseas body corporate. 440. Penalties. 441. Interpretation of Part XII.
+2014-19 431. Bodies Corporate to which Part XII applies. 432. Documents to be delivered to Registrar by bodies corporate carrying on business in Gibraltar. 433. Return to be delivered to Registrar where documents altered. 434. Application of sections 432 and 433. 435. Obligation to state name of body corporate, whether limited, and country where incorporated. 436. Contracts. 437. Execution of documents. 438. Execution of deeds. 439. Service on overseas body corporate. 440. Penalties. 441. Interpretation of Part XII.
 
 PART XIII
 
@@ -546,11 +544,11 @@ PART XV
 
 CHANGE IN REGISTRATION REGIME
 
-453. Change in registration regime. 453A. 454. Change in registration regime: transitional provisions. 455. Change in registration regime: further transitional provisions 456. Duty to state name, etc. 457. Service of documents: bodies corporate to which Part XIV applies. 458. Documents to be filed on cessation of business: bodies corporate to which Part XIV applies.
+453. Change in registration regime. 453A. 454. Change in registration regime: transitional provisions. 455. Change in registration regime: further transitional provisions 456. Duty to state name, etc. 457. Service of documents: bodies corporate to which Part XIV applies.
 
 Companies
 
-2014-19 459. Penalties for non-compliance. 460. Delivery of accounts and reports: general.
+2014-19 458. Documents to be filed on cessation of business: bodies corporate to which Part XIV applies. 459. Penalties for non-compliance. 460. Delivery of accounts and reports: general.
 
 PART XVI
 
@@ -578,11 +576,9 @@ General provisions as to offences
 
 Service of documents and legal proceedings
 
-475. Service of documents on company. 476. Costs in actions by certain limited companies. 477. Power of court to grant relief in certain cases. 478. Power to enforce orders.
-
 Companies
 
-2014-19 478A. Exercise of powers and rights during resolution period.
+2014-19 475. Service of documents on company. 476. Costs in actions by certain limited companies. 477. Power of court to grant relief in certain cases. 478. Power to enforce orders. 478A. Exercise of powers and rights during resolution period.
 
 General provisions
 
@@ -608,11 +604,13 @@ SCHEDULE 4
 
 VALUATION PROVISIONS ENTITLEMENT TO FULL DISCLOSURE
 
-SCHEDULE 5
-
 Companies
 
-2014-19 FORM OF ANNUAL RETURN OF A COMPANY HAVING A SHARE CAPITAL
+2014-19
+
+SCHEDULE 5
+
+FORM OF ANNUAL RETURN OF A COMPANY HAVING A SHARE CAPITAL
 
 SCHEDULE 6
 
@@ -626,9 +624,7 @@ SCHEDULE 8
 
 INVESTIGATION OF COMPANIES AND THEIR AFFAIRS: REQUISITION OF DOCUMENTS
 
-SCHEDULE 9
-
-DEFINITION OF MICRO-ENTITY, SMALL, MEDIUM-SIZED AND LARGE COMPANIES
+SCHEDULE 9 DEFINITION OF MICRO-ENTITY, SMALL, MEDIUM-SIZED AND LARGE COMPANIES
 
 SCHEDULE 10
 
@@ -654,7 +650,9 @@ SCHEDULE 15
 
 Companies
 
-2014-19 AMOUNTS TO BE INCLUDED IN RESPECT OF ITEMS SHOWN IN COMPANY ACCOUNTS
+2014-19
+
+AMOUNTS TO BE INCLUDED IN RESPECT OF ITEMS SHOWN IN COMPANY ACCOUNTS
 
 SCHEDULE 16
 
@@ -694,11 +692,11 @@ TABLE OF FEES TO BE PAID TO THE REGISTRAR OF COMPANIES BY OR IN RESPECT OF CERTA
 
 SCHEDULE 25
 
-CREDIT AND FINANCIAL INSTITUTIONS TO WHICH THE BANK BRANCHES DIRECTIVE (89/117/EEC) APPLIES
+CREDIT AND FINANCIAL INSTITUTIONS TO WHICH THE BANK
 
 Companies
 
-2014-19
+2014-19 BRANCHES DIRECTIVE (89/117/EEC) APPLIES
 
 SCHEDULE 26
 
@@ -712,7 +710,11 @@ SCHEDULE 28
 
 INDEX OF DEFINED EXPRESSIONS
 
-SCHEDULE 29 ENACTMENTS REPEALED AN ACT TO RE-ENACT, WITH AMENDMENTS, THE PROVISIONS OF THE COMPANIES ACT (1930-07) AS AMENDED; TO INCORPORATE THE COMPANIES (ACCOUNTS) ACT 1999 AND THE COMPANIES (CONSOLIDATED ACCOUNTS) ACT 1999; TO TAKE ACCOUNT OF THE EFFECT OF THE INSOLVENCY ACT; TO INCORPORATE AMENDMENTS PROPOSED BY A LAW REFORM COMMITTEE OF THE GIBRALTAR FINANCE CENTRE COUNCIL; AND FOR CONNECTED PURPOSES.
+SCHEDULE 29
+
+ENACTMENTS REPEALED
+
+AN ACT TO RE-ENACT, WITH AMENDMENTS, THE PROVISIONS OF THE COMPANIES ACT (1930-07) AS AMENDED; TO INCORPORATE THE COMPANIES (ACCOUNTS) ACT 1999 AND THE COMPANIES (CONSOLIDATED ACCOUNTS) ACT 1999; TO TAKE ACCOUNT OF THE EFFECT OF THE INSOLVENCY ACT; TO INCORPORATE AMENDMENTS PROPOSED BY A LAW REFORM COMMITTEE OF THE GIBRALTAR FINANCE CENTRE COUNCIL; AND FOR CONNECTED PURPOSES.
 
 PART I
 
