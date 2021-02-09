@@ -2,6 +2,8 @@ SCHEDULE 9 Section 45
 
 DOMESTIC AUTHORITIES
 
+Board of Charity Commissioners
+
 Financial Services Resolution and Compensation Committee;
 
 Gambling Commissioner;
@@ -28,6 +30,6 @@ National Coordinator for anti-money laundering and combating terrorist financing
 
 Office of Criminal Prosecutions & Litigation;
 
-Royal Gibraltar Police.
+Registrar of Friendly Societies
 
-_____________________________
+Royal Gibraltar Police. _____________________________
