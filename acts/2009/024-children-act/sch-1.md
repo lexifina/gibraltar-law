@@ -30,10 +30,6 @@ a to determine the State whose authorities have jurisdiction to take measures di
 
 b to determine which law is to be applied by such authorities in exercising their jurisdiction;
 
-Children
-
-2009-24
-
 c to determine the law applicable to parental responsibility;
 
 d to provide for the recognition and enforcement of such measures of protection in all Contracting States;
@@ -61,10 +57,6 @@ d the designation and functions of any person or body having charge of the child
 e the placement of the child in a foster family or in institutional care, or the provision of care by kafala or an analogous institution;
 
 f the supervision by a public authority of the care of a child by any person having charge of the child;
-
-Children
-
-2009-24
 
 g the administration, conservation or disposal of the child's property.
 
@@ -102,9 +94,7 @@ Article 5
 
 Article 6
 
-Children
-
-2009-24 1.  For refugee children and children who, due to disturbances occurring in their country, are internationally displaced, the authorities of the Contracting State on the territory of which these children are present as a result of their displacement have the jurisdiction provided for in paragraph 1 of Article 5.
+1.  For refugee children and children who, due to disturbances occurring in their country, are internationally displaced, the authorities of the Contracting State on the territory of which these children are present as a result of their displacement have the jurisdiction provided for in paragraph 1 of Article 5.
 
 2.  The provisions of the preceding paragraph also apply to children whose habitual residence cannot be established.
 
@@ -124,11 +114,7 @@ b at the time of removal or retention those rights were actually exercised, eith
 
 The rights of custody mentioned in sub-paragraph a above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State.
 
-3. So long as the authorities first mentioned in paragraph 1 keep their jurisdiction, the authorities of the Contracting State to which the child has been removed or in which he or she has been retained can take only such
-
-Children
-
-2009-24 urgent measures under Article 11 as are necessary for the protection of the person or property of the child.
+3. So long as the authorities first mentioned in paragraph 1 keep their jurisdiction, the authorities of the Contracting State to which the child has been removed or in which he or she has been retained can take only such urgent measures under Article 11 as are necessary for the protection of the person or property of the child.
 
 Article 8
 
@@ -156,11 +142,7 @@ Article 9
 
 1. If the authorities of a Contracting State referred to in Article 8, paragraph 2, consider that they are better placed in the particular case to assess the child’s best interests, they may either
 
-— request the competent authority of the Contracting State of the habitual residence of the child, directly or with the assistance of the Central Authority of that State, that they be authorised to
-
-Children
-
-2009-24 exercise jurisdiction to take the measures of protection which they consider to be necessary, or
+— request the competent authority of the Contracting State of the habitual residence of the child, directly or with the assistance of the Central Authority of that State, that they be authorised to exercise jurisdiction to take the measures of protection which they consider to be necessary, or
 
 — invite the parties to introduce such a request before the authority of the Contracting State of the habitual residence of the child.
 
@@ -170,9 +152,7 @@ Children
 
 Article 10
 
-1. Without prejudice to Articles 5 to 9, the authorities of a Contracting State exercising jurisdiction to decide upon an application for divorce or legal separation of the parents of a child habitually resident in another Contracting State, or for annulment of their marriage, may, if the law of their State so provides, take measures directed to the protection of the person or property of such child if
-
-a at the time of commencement of the proceedings, one of his or her parents habitually resides in that State and one of them has parental responsibility in relation to the child, and
+1. Without prejudice to Articles 5 to 9, the authorities of a Contracting State exercising jurisdiction to decide upon an application for divorce or legal separation of the parents of a child habitually resident in another Contracting State, or for annulment of their marriage, may, if the law of their State so provides, take measures directed to the protection of the person or property of such child if a at the time of commencement of the proceedings, one of his or her parents habitually resides in that State and one of them has parental responsibility in relation to the child, and
 
 b the jurisdiction of these authorities to take such measures has been accepted by the parents, as well as by any other person who has parental responsibility in relation to the child, and is in the best interests of the child.
 
@@ -182,11 +162,7 @@ Article 11
 
 1. In all cases of urgency, the authorities of any Contracting State in whose territory the child or property belonging to the child is present have jurisdiction to take any necessary measures of protection.
 
-2. The measures taken under the preceding paragraph with regard to a child habitually resident in a Contracting State shall lapse as soon as the
-
-Children
-
-2009-24 authorities which have jurisdiction under Articles 5 to 10 have taken the measures required by the situation.
+2. The measures taken under the preceding paragraph with regard to a child habitually resident in a Contracting State shall lapse as soon as the authorities which have jurisdiction under Articles 5 to 10 have taken the measures required by the situation.
 
 3. The measures taken under paragraph 1 with regard to a child who is habitually resident in a non-Contracting State shall lapse in each Contracting State as soon as measures required by the situation and taken by the authorities of another State are recognised in the Contracting State in question.
 
@@ -206,10 +182,6 @@ Article 13
 
 Article 14
 
-Children
-
-2009-24
-
 The measures taken in application of Articles 5 to 10 remain in force according to their terms, even if a change of circumstances has eliminated the basis upon which jurisdiction was founded, so long as the authorities which have jurisdiction under the Convention have not modified, replaced or terminated such measures.
 
 Chapter III — applicable law
@@ -226,7 +198,9 @@ Article 16
 
 1. The attribution or extinction of parental responsibility by operation of law, without the intervention of a judicial or administrative authority, is governed by the law of the State of the habitual residence of the child.
 
-2. The attribution or extinction of parental responsibility by an agreement or a unilateral act, without intervention of a judicial or administrative authority, is governed by the law of the State of the child’s habitual residence at the time when the agreement or unilateral act takes effect.
+2. The attribution or extinction of parental responsibility by an agreement or a unilateral act, without intervention of a judicial or administrative authority, is governed by the law of the
+
+State of the child’s habitual residence at the time when the agreement or unilateral act takes effect.
 
 3. Parental responsibility which exists under the law of the State of the child’s habitual residence subsists after a change of that habitual residence to another State.
 
@@ -234,9 +208,7 @@ Article 16
 
 Article 17
 
-Children
-
-2009-24 The exercise of parental responsibility is governed by the law of the State of the child’s habitual residence.  If the child’s habitual residence changes, it is governed by the law of the State of the new habitual residence.
+The exercise of parental responsibility is governed by the law of the State of the child’s habitual residence.  If the child’s habitual residence changes, it is governed by the law of the State of the new habitual residence.
 
 Article 18
 
@@ -250,21 +222,19 @@ Article 19
 
 Article 20
 
-The provisions of this Chapter apply even if the law designated by them is the law of a non-Contracting State.
+The provisions of this Chapter apply even if the law designated by them is the law of a non- Contracting State.
 
 Article 21
 
 1. In this Chapter the term ‘law’ means the law in force in a State other than its choice of law rules.
 
-2. However, if the law applicable according to Article 16 is that of a non- Contracting State and if the choice of law rules of that State designate the law of another non-Contracting State which would apply its own law, the law of the latter State applies.  If that other non-Contracting State would not apply its own law, the applicable law is that designated by Article 16.
+2. However, if the law applicable according to Article 16 is that of a non-Contracting State and if the choice of law rules of that State designate the law of another non-Contracting State which would apply its own law, the law of the latter State applies.  If that other non-Contracting State would not apply its own law, the applicable law is that designated by Article 16.
 
 Article 22
 
 The application of the law designated by the provisions of this Chapter can be refused only if this application would be manifestly contrary to public policy, taking into account the best interests of the child.
 
-Children
-
-2009-24 Chapter IV — recognition and enforcement
+Chapter IV — recognition and enforcement
 
 Article 23
 
@@ -286,13 +256,11 @@ f if the procedure provided in Article 33 has not been complied with.
 
 Article 24
 
-Without prejudice to Article 23, paragraph 1, any interested person may request from the competent authorities of a Contracting State that they decide on the recognition or non-recognition of a measure taken in another Contracting State. The procedure is governed by the law of the requested State.
+Without prejudice to Article 23, paragraph 1, any interested person may request from the competent authorities of a Contracting State that they decide on the recognition or non- recognition of a measure taken in another Contracting State. The procedure is governed by the law of the requested State.
 
 Article 25
 
-Children
-
-2009-24 The authority of the requested State is bound by the findings of fact on which the authority of the State where the measure was taken based its jurisdiction.
+The authority of the requested State is bound by the findings of fact on which the authority of the State where the measure was taken based its jurisdiction.
 
 Article 26
 
@@ -316,15 +284,11 @@ Article 29
 
 1. A Contracting State shall designate a Central Authority to discharge the duties which are imposed by the Convention on such authorities.
 
-2. Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and to specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be
-
-Children
-
-2009-24 addressed for transmission to the appropriate Central Authority within that State
+2. Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and to specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State
 
 Article 30
 
-1. Central Authorities shall co-operate with each other and promote co- operation amongst the competent authorities in their States to achieve the purposes of the Convention.
+1. Central Authorities shall co-operate with each other and promote co-operation amongst the competent authorities in their States to achieve the purposes of the Convention.
 
 2. They shall, in connection with the application of the Convention, take appropriate steps to provide information as to the laws of, and services available in, their States relating to the protection of children.
 
@@ -348,9 +312,7 @@ b request the competent authority of its State to consider the need to take meas
 
 Article 33
 
-Children
-
-2009-24 1. If an authority having jurisdiction under Articles 5 to 10 contemplates the placement of the child in a foster family or institutional care, or the provision of care by kafala or an analogous institution, and if such placement or such provision of care is to take place in another Contracting State, it shall first consult with the Central Authority or other competent authority of the latter State. To that effect it shall transmit a report on the child together with the reasons for the proposed placement or provision of care
+1. If an authority having jurisdiction under Articles 5 to 10 contemplates the placement of the child in a foster family or institutional care, or the provision of care by kafala or an analogous institution, and if such placement or such provision of care is to take place in another Contracting State, it shall first consult with the Central Authority or other competent authority of the latter State. To that effect it shall transmit a report on the child together with the reasons for the proposed placement or provision of care
 
 2. The decision on the placement or provision of care may be made in the requesting State only if the Central Authority or other competent authority of the requested State has consented to the placement or provision of care, taking into account the child’s best interests
 
@@ -367,10 +329,6 @@ Article 35
 2. The authorities of a Contracting State in which the child does not habitually reside may, on the request of a parent residing in that State who is seeking to obtain or to maintain access to the child, gather information or evidence and may make a finding on the suitability of that parent to exercise access and on the conditions under which access is to be exercised. An authority exercising jurisdiction under Articles 5 to 10 to determine an application concerning access to the child, shall admit and consider such information, evidence and finding before reaching its decision.
 
 3. An authority having jurisdiction under Articles 5 to 10 to decide on access may adjourn a proceeding pending the outcome of a request made under paragraph 2, in particular, when it is considering an application to restrict or terminate access rights granted in the State of the child’s former habitual residence.
-
-Children
-
-2009-24
 
 4. Nothing in this Article shall prevent an authority having jurisdiction under Articles 5 to 10 from taking provisional measures pending the outcome of the request made under paragraph 2.
 
@@ -396,11 +354,7 @@ Chapter VI — general provisions
 
 Article 40
 
-1. The authorities of the Contracting State of the child’s habitual residence, or of the Contracting State where a measure of protection has been taken, may deliver to the person having parental responsibility or to the person entrusted with protection of the child’s person or property, at his or her
-
-Children
-
-2009-24 request, a certificate indicating the capacity in which that person is entitled to act and the powers conferred upon him or her.
+1. The authorities of the Contracting State of the child’s habitual residence, or of the Contracting State where a measure of protection has been taken, may deliver to the person having parental responsibility or to the person entrusted with protection of the child’s person or property, at his or her request, a certificate indicating the capacity in which that person is entitled to act and the powers conferred upon him or her.
 
 2. The capacity and powers indicated in the certificate are presumed to be vested in that person, in the absence of proof to the contrary.
 
@@ -434,10 +388,6 @@ A Contracting State in which different systems of law or sets of rules of law ap
 
 Article 47
 
-Children
-
-2009-24
-
 In relation to a State in which two or more systems of law or sets of rules of law with regard to any matter dealt with in this Convention apply in different territorial units
 
 1. any reference to habitual residence in that State shall be construed as referring to habitual residence in a territorial unit;
@@ -458,17 +408,11 @@ In relation to a State in which two or more systems of law or sets of rules of l
 
 9. any reference to the law or procedure or authority of the State in which a measure has been taken shall be construed as referring to the law or procedure or authority of the territorial unit in which such measure was taken;
 
-10. any reference to the law or procedure or authority of the requested State shall be construed as referring to the law or
-
-Children
-
-2009-24 procedure or authority of the territorial unit in which recognition or enforcement is sought.
+10. any reference to the law or procedure or authority of the requested State shall be construed as referring to the law or procedure or authority of the territorial unit in which recognition or enforcement is sought.
 
 Article 48
 
-For the purpose of identifying the applicable law under Chapter III, in relation to a State which comprises two or more territorial units each of which has its own system of law or set of rules of law in respect of matters covered by this Convention, the following rules apply
-
-a if there are rules in force in such a State identifying which territorial unit's law is applicable, the law of that unit applies;
+For the purpose of identifying the applicable law under Chapter III, in relation to a State which comprises two or more territorial units each of which has its own system of law or set of rules of law in respect of matters covered by this Convention, the following rules apply a if there are rules in force in such a State identifying which territorial unit's law is applicable, the law of that unit applies;
 
 b in the absence of such rules, the law of the relevant territorial unit as defined in Article 47 applies.
 
@@ -486,11 +430,7 @@ This Convention shall not affect the application of the Convention of 25 October
 
 Article 51
 
-In relations between the Contracting States this Convention replaces the Convention of 5 October 1961 concerning the powers of authorities and the law applicable in respect of the protection of minors, and the Convention governing the guardianship of minors, signed at The Hague 12 June 1902,
-
-Children
-
-2009-24 without prejudice to the recognition of measures taken under the Convention of 5 October 1961 mentioned above.
+In relations between the Contracting States this Convention replaces the Convention of 5 October 1961 concerning the powers of authorities and the law applicable in respect of the protection of minors, and the Convention governing the guardianship of minors, signed at The Hague 12 June 1902, without prejudice to the recognition of measures taken under the Convention of 5 October 1961 mentioned above.
 
 Article 52
 
@@ -517,10 +457,6 @@ Article 54
 Article 55
 
 1. A Contracting State may, in accordance with Article 60,
-
-Children
-
-2009-24
 
 a reserve the jurisdiction of its authorities to take measures directed to the protection of property of a child situated on its territory;
 
@@ -550,10 +486,6 @@ Article 58
 
 Article 59
 
-Children
-
-2009-24
-
 1. If a State has two or more territorial units in which different systems of law are applicable in relation to matters dealt with in this Convention, it may at the time of signature, ratification, acceptance, approval or accession declare that the Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time.
 
 2. Any such declaration shall be notified to the depositary and shall state expressly the territorial units to which the Convention applies.
@@ -578,11 +510,7 @@ a for each State ratifying, accepting or approving it subsequently, on the first
 
 b for each State acceding, on the first day of the month following the expiration of three months after the expiration of the period of six months provided in Article 58, paragraph 3;
 
-c for a territorial unit to which the Convention has been extended in conformity with Article 59, on the first day of the month
-
-Children
-
-2009-24 following the expiration of three months after the notification referred to in that Article.
+c for a territorial unit to which the Convention has been extended in conformity with Article 59, on the first day of the month following the expiration of three months after the notification referred to in that Article.
 
 Article 62
 
@@ -610,8 +538,4 @@ g the denunciations referred to in Article 62.
 
 In witness whereof the undersigned, being duly authorised thereto, have signed this Convention.
 
-Done at The Hague, on the 19th day of October 1996, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic
-
-Children
-
-2009-24 channels, to each of the States Members of the Hague Conference on Private International Law at the date of its Eighteenth Session.
+Done at The Hague, on the 19th day of October 1996, in the English and French languages, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Government of the Kingdom of the Netherlands, and of which a certified copy shall be sent, through diplomatic channels, to each of the States Members of the Hague Conference on Private International Law at the date of its Eighteenth Session.
