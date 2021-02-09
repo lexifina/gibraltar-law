@@ -28,13 +28,13 @@ Act. 1972-06 –
 
 1983-30 ss. 2-4, 7, 10, 12(3), 13-19, 20(2), 21, 30-32, 35, 37(1), 38-39, 41, 43(8), 45, 49
 
-2005-08 s. 60A 22.2.2005 Act. 2009-45 ss. 2-5, 5A-5B, 16(2)(c)-(e), (3)(c)(i)-(ii), (4)-(5), 17A, 18, 19A, 20-21, 25, 25A-25E, 26(2)- (3), 26A, 27(3), 30(1)-(2), (4), 31A-31M, 32-34, 34A, 35-43, 43A-43E, 46A-46J, 47, 48(1), 49, 50(1)-(2), 51-52, 58
+2005-08 s. 60A 22.2.2005 Act. 2009-45 ss. 2-5, 5A-5B, 16(2)(c)-(e), (3)(c)(i)-(ii), (4)-(5), 17A, 18, 19A, 20-21, 25, 25A-25E, 26(2)- (3), 26A, 27(3), 30(1)-(2),(4), 31A-31M, 32-34, 34A, 35-43, 43A-43E, 46A-46J, 47, 48(1), 49, 50(1)-(2), 51-52, 58
 
 14.1.20101 LN. 2015/003 s. 60A(b) 10.1.2015 Act. 2016-22 ss. 16(2)(a), 17(6A), 25(1)(b)-(c), 25A,
 
 15.12.20161 2016-18 ss. 25A(1)(d), 25B(4)(a) 23.4.2018 LN. 2018/112 ss. 2, 47(2)-(3) 21.5.2018 Act. 2019-24 ss. 10-11, 12(1), (3), 16(2)-(5), 17, 17A, 18(1), (3)(a), 19, 20(1)-(2), 26(1), (2)(a), 26A, 30(1), (3), 31(4), 31E(7)(b), 62-77
 
-15.8.20192
+15.8.20192 2021-09 ss. 5B(5), 48(1) 9.2.2021
 
 1 Notice of Commencement - LN. 2010/002 1 Notice of Commencement - LN. 2016/248 2 Notice of Commencement – LN.2019/170
 
@@ -108,13 +108,11 @@ Matrimonial Causes
 
 PART VII–FINANCIAL RELIEF FOR PARTIES TO MARRIAGE AND CHILDREN OF FAMILY
 
-32. Financial provision and property adjustment orders. 33. Maintenance pending suit. 34. Financial provision orders in connection with divorce proceedings, etc. 34A.  Deduction of maintenance at source. 35. Property adjustment orders in connection with divorce proceedings, etc 36. Orders for sale of property. 37. Matters to which court is to have regard in deciding how to exercise its powers under sections 34 to 36. 38. Exercise of court’s powers in favour of party to marriage on decree of divorce or nullity of marriage. 40. Financial provision orders, etc, in case of neglect by party to marriage to maintain other party or child of the family. 41. Duration of continuing financial provision orders in favour of a party to the marriage, and effect of remarriage. 42. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour. 43. Direction for settlement of instrument for securing payments or effecting property adjustment. 43A.  Variation, discharge, etc, of certain orders for financial relief. 43B.  Orders for repayment in certain cases of sums paid after cessation of order by reason of remarriage. 43C.  Orders for repayment in certain cases of sums paid under certain orders. 43D.  Consent orders for financial provision on property adjustment. 43E.  Avoidance of transactions intended to prevent or reduce financial relief. 44. Extension of Married Women Act. 45. Vesting of possession in tenancy.
-
-Inheritance.
+32. Financial provision and property adjustment orders. 33. Maintenance pending suit. 34. Financial provision orders in connection with divorce proceedings, etc. 34A.  Deduction of maintenance at source. 35. Property adjustment orders in connection with divorce proceedings, etc 36. Orders for sale of property. 37. Matters to which court is to have regard in deciding how to exercise its powers under sections 34 to 36. 38. Exercise of court’s powers in favour of party to marriage on decree of divorce or nullity of marriage. 39. Commencement of proceedings for financial relief, etc. 40. Financial provision orders, etc, in case of neglect by party to marriage to maintain other party or child of the family. 41. Duration of continuing financial provision orders in favour of a party to the marriage, and effect of remarriage. 42. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour. 43. Direction for settlement of instrument for securing payments or effecting property adjustment. 43A.  Variation, discharge, etc, of certain orders for financial relief. 43B.  Orders for repayment in certain cases of sums paid after cessation of order by reason of remarriage. 43C.  Orders for repayment in certain cases of sums paid under certain orders. 43D.  Consent orders for financial provision on property adjustment. 43E.  Avoidance of transactions intended to prevent or reduce financial relief. 44. Extension of Married Women Act. 45. Vesting of possession in tenancy.
 
 Matrimonial Causes
 
-1962-09
+1962-09 Inheritance.
 
 46. Power to bar applications under the Inheritance (Provision for Family and  Dependants) Act.
 
@@ -132,11 +130,9 @@ PART IX.–RECOGNITION OF DIVORCES AND LEGAL SEPARATIONS  OBTAINED ELSEWHERE THA
 
 PART X–JURISDICTION, AND RECOGNITION AND ENFORCEMENT OF JUDGMENTS MADE IN A MEMBER STATE OF THE EUROPEAN UNION.
 
-60A.  Jurisdiction, and recognition and enforcement of judgments made in a member state of the European Union.
-
 Matrimonial Causes
 
-1962-09
+1962-09 60A.  Jurisdiction, and recognition and enforcement of judgments made in a member state of the European Union.
 
 PART XI.–RULES.
 
