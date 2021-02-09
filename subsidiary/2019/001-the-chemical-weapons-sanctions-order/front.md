@@ -1,14 +1,8 @@
-Export Control THE CHEMICAL WEAPONS (SANCTIONS) ORDER 2019
+Subsidiary Legislation made under ss.3, 4, 6, 7 & 9.
 
-2005-33
+Chemical Weapons (Sanctions) Order 2019
 
-Subsidiary 2019/001
-
-Subsidiary Legislation made under s.3, 4, 6, 7 and 9.
-
-THE CHEMICAL WEAPONS (SANCTIONS) ORDER 2019
-
-(LN. 2019/001)
+LN.2019/001
 
 Commencement 9.1.2019
 
@@ -16,15 +10,17 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2019/008
 
-Sch. 2 24.1.2019
+Sch. 2
+
+24.1.2019 Act. 2021-08 Para. 4(2A) 9.2.2021
 
 Implementing: Council Regulation (EU) No 2018/1542 Council Regulation (EU) 2019/84
 
-_______________________
-
 ARRANGEMENT OF PARAGRAPHS
 
-Paragraph. Part 1 Preliminary
+Paragraph
+
+Part 1 Preliminary
 
 1. Title. 2. Commencement. 3. Interpretation. Part 2 Freezing of funds etc.
 
@@ -32,13 +28,7 @@ Paragraph. Part 1 Preliminary
 
 Part 3 General
 
-7. Licences granted by the Minister. 8. Licences granted outside Gibraltar. 9. Claims for indemnity or under contract. 10. Evidence and information. 11. Functions of the Minister.
-
-Export Control THE CHEMICAL WEAPONS (SANCTIONS) ORDER 2019
-
-2005-33
-
-Subsidiary 2019/001 12. Circumvention and contravention of prohibitions. 13. Penalties. 14. Extra-territorial application of offences. 15. Proceedings. 16. Crown application.
+7. Licences granted by the Minister. 8. Licences granted outside Gibraltar. 9. Claims for indemnity or under contract. 10. Evidence and information. 11. Functions of the Minister. 12. Circumvention and contravention of prohibitions. 13. Penalties. 14. Extra-territorial application of offences. 15. Proceedings. 16. Crown application.
 
 Schedule 1 Evidence and information
 
@@ -47,11 +37,5 @@ Schedule 2
 Annex I
 
 LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 2 OF COUNCIL REGULATION (EU) 2018/1542
-
-Export Control THE CHEMICAL WEAPONS (SANCTIONS) ORDER 2019
-
-2005-33
-
-Subsidiary 2019/001
 
 In exercise of the powers conferred upon him by sections 3, 4, 6, 7 and 9 of the Export Control Act 2005, section 23(g) (i) of the Interpretation and General Clauses Act and all other enabling powers, for the purpose of implementing Council Regulation (EU) No 2018/1542 of 15 October 2018 concerning restrictive measures against the proliferation and use of chemical weapons, the Minister has made the following Order-
