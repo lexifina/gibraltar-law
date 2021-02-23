@@ -8,7 +8,7 @@ Entry No. 1.  Date and Place of birth                         CHILD
 
 2.  Name and surname 3. Sex
 
-4.  Name and surname                               FATHER
+4.  Name and surname                               FATHER/PARENT
 
 5.  Place of birth 6.  Occupation
 
@@ -16,25 +16,17 @@ Entry No. 1.  Date and Place of birth                         CHILD
 
 8. (a)  Place of birth 8.(b)  Occupation
 
-9.(a)  Maiden surname 9.(b)  Surname at marriage if different from maiden surname
+9.(a)  Maiden surname 9.(b)  Surname at marriage/civil partnership if different from maiden surname
 
-10. Usual address (if different from place of child’s birth) INFORMANT 11.  Name and surname (if not the mother or father) 12.  Qualification
+10.  Usual address (if different from place of child’s birth) INFORMANT 11.  Name and surname (if not the mother or father/parent) 12.  Qualification
 
 13.  Usual address (if different from that in 10 above)
 
 14.  I certify that the particulars entered above are true to the best of my knowledge and belief
 
-................................................................................Signature of Informant 15.  Date of registration 16.  Signature of Registrar
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11 17.  Name given after registration and surname
+................................................................................Signature of Informant 15.  Date of registration 16.  Signature of Registrar 17.  Name given after registration and surname
 
 18.  Observations
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01
 
 Entry No.
 
@@ -86,17 +78,15 @@ Observations
 
 11
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11
-
 FORM C.—CERTIFICATE OF NAME GIVEN IN BAPTISM.
 
 Section 16.
 
 I, A. B., do hereby certify that on the
 
-day of 19    , I baptised by the name of
+day of
+
+19    , I baptised by the name of
 
 a male (or female) child produced to me by C.D. as the son (or daughter) of E.F. and C.D. and declared by the said C. D. to have been born at Gibraltar on the
 
@@ -120,7 +110,9 @@ FORM C.(1).—CERTIFICATE OF NAME GIVEN NOT IN BAPTISM.
 
 Section 16.
 
-I, X.Y., do hereby certify that the male (or female) child born on the day of
+I, X.Y., do hereby certify that the male (or female) child born on the
+
+day of
 
 19    , at Gibraltar to X.Y. and M.N. and registered in the registry office at Gibraltar aforesaid, on the day of
 
@@ -136,11 +128,7 @@ day of
 
 X.Y.
 
-(Father, Mother or other person).
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01
+(Father/Parent, Mother or other person).
 
 FORM D.—MEDICAL CERTIFICATE OF CAUSE OF DEATH.
 
@@ -176,11 +164,7 @@ I(a) Disease or condition directly leading to death*. . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(b) Other disease or condition, if any, leading
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11 to I(a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (c) Other disease or condition leading to I(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b) Other disease or condition, if any, leading to I(a) . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . (c) Other disease or condition leading to I(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 II Other significant conditions CONTRIBUTING TO THE DEATH but not related to the disease or condition causing it. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,9 +186,7 @@ _____________________________________________________
 
 B. Has the deceased been fitted with- (a)  a cardiac-pacemaker?                                            YES/NO (b)  a radio-active or other implant?                            YES/NO If the answer to either of the questions above is yes (c)  has it/they been removed?                                     YES/NO
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01 [Delete whichever is not applicable]
+[Delete whichever is not applicable]
 
 C. Is there any impediment to the body being cremated? YES/NO Please ring the appropriate answer. If the answer is YES please set out the impediment.
 
@@ -212,15 +194,11 @@ C. Is there any impediment to the body being cremated? YES/NO Please ring the ap
 
 (The particulars in A-C are not to be entered in the register)
 
-I hereby certify that I was in Medical attendance during the above-named deceased’s last illness and that the particulars and cause of death above written are true to the best of my knowledge and belief
+I hereby certify that I was in Medical attendance during the above- named deceased’s last illness and that the particulars and cause of death above written are true to the best of my knowledge and belief
 
 Signature . . . . . . . . . . . . . . .                     Qualifications . . . . . . . . . . .
 
 (as Registered) Residence . . . . . . . . . . . . . . . .                    Date . . . . . . . . . . . . .
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11
 
 FORM E.—DECLARATION AS TO DEATH.
 
@@ -262,9 +240,7 @@ Cause of death . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signature, description, and  residence of informant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01 Taken and declared by the above-named, at the registry office for Births and Deaths in Gibraltar, this
+Taken and declared by the above-named, at the registry office for Births and Deaths in Gibraltar, this
 
 day of
 
@@ -276,10 +252,6 @@ Before me, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Registrar of Births and Deaths.
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11
-
 FORM F.—CORONER'S CERTIFICATE OF DEATH.
 
 Section 31.
@@ -288,9 +260,7 @@ I hereby certify that at an inquest begun on the
 
 day of
 
-19      , and concluded on the day of the date hereof held upon view of the body of
-
-lying dead, the following particulars required to be registered touching his (or her) death were found (and recorded by the Jury), that is to say:—
+19      , and concluded on the day of the date hereof held upon view of the body of lying dead, the following particulars required to be registered touching his (or her) death were found (and recorded by the Jury), that is to say:—
 
 When died . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -321,10 +291,6 @@ Witness my hand this day of
 (Signed)
 
 Coroner.
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01
 
 FORM G.—REGISTRAR’S CERTIFICATE OF DEATH TO CEMETERY AUTHORITY, MINISTER OR PERSON IN CHARGE OF BODY ABOUT TO BE BURIED.
 
@@ -364,10 +330,6 @@ Witness my hand this day of
 
 Coroner.
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11
-
 FORM I.—CERTIFICATE BY PERSON IN CHARGE OF FUNERAL.
 
 Section 37.
@@ -390,19 +352,19 @@ Sections 4 and 5.
 
 I,
 
-Registrar of Births and Deaths in Gibraltar, do hereby certify   that  the  birth   (or  death  as  the  case  may  be)  of
+Registrar of Births and Deaths in Gibraltar, do hereby   certify   that  the birth   (or  death  as  the  case  may  be)  of
 
-was fully registered by (me) on the day of 20      , as follows:–
+was fully registered by (me) on the
+
+day of
+
+20      , as follows:–
 
 (Insert extract from register). Witness my hand and seal this day of
 
 20     .
 
 (Signed) Registrar of Births and Deaths.
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01
 
 Witness my hand this
 
@@ -438,10 +400,6 @@ Period of residence in Gibraltar
 
 Observations
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11
-
 FORM L.—REGISTRAR'S CERTIFICATE FOR BURIAL OF STILLBORN CHILD.
 
 Section 19(4)
@@ -452,17 +410,13 @@ Witness my hand this . . . . . day of . . . . . . . . . . . . . . . . . 20 . . .
 
 Registrar of Births and Deaths.
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01
-
 FORM M.—DECLARATION AS TO STILLBIRTH.
 
 1 Date of Stillbirth . . . . . . . . . . . . . . .Sex . . . . . . . . . . . . . . . . . . . . .
 
 2  Place of Stillbirth. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3 Name and Surname of Parents of Stillborn child, or, in case of an illegitimate   child,   of the Mother only. . . . . . . . . } . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3 Name and Surname of Parents of Stillborn child, or, in case of an illegitimate   child,   of    the Mother only. . . . . . . . . } . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 4  Residence of Parents  (or  of
 
@@ -484,17 +438,9 @@ I, the undersigned, declare that the particulars above stated are true to the be
 
 Signature . . . . . . . . . . . . . . . . . . .
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11
-
-State whether “Mother” or “Father” of the child or in what other capacity liable to   give   information concerning   the stillbirth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+State whether “Mother” , “Father” or “Parent of the child or in what other capacity liable to   give   information    concerning   the stillbirth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Date. . . . . . . . . . . . . . . . . . . . . . .
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01
 
 FORM N– REGISTER OF STILLBIRTHS
 
@@ -512,7 +458,7 @@ Name of child (if any) and sex
 
 3
 
-Name and surname of father and where born
+Name and surname of father/parent and where born
 
 4
 
@@ -520,7 +466,7 @@ Name and maiden name of mother and where born
 
 5
 
-Occupation of father 6
+Occupation of father/parent 6
 
 Signature, description and residence of informant
 
@@ -541,10 +487,6 @@ Signature of Registrar
 Remarks
 
 11
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11
 
 FORM O Rule 3(2)
 
@@ -577,10 +519,6 @@ I declare that–  I am the mother of the child named above
 Signature of mother
 
 Dated
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01
 
 FORM P Rule 3(3)
 
@@ -616,9 +554,7 @@ Signature of father
 
 Dated
 
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-1887-01 Subsidiary 1934.09.11 Part B Request by mother for re-registration of birth
+Part B Request by mother for re-registration of birth
 
 I, the mother of the child named above, request the re-registration of the child’s birth to show the following person as the biological father of the child–
 
@@ -631,7 +567,3 @@ Please find attached my declaration as to the identity of the child’s father.
 Signature of mother
 
 Dated
-
-Births and Deaths Registration BIRTHS AND DEATHS REGISTRATION RULES.
-
-Subsidiary 1934.09.11 1887-01
