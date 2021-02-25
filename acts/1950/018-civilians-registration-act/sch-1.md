@@ -17,7 +17,3 @@ CIVILIANS AND ENTITLEMENT TO CARDS.
 2. An individual falling within sub-paragraphs (a), (b) or (c) of paragraph 1, shall, on registration, be issued with an identity card.
 
 3. An individual falling within sub-paragraph (d) shall, on registration, be issued with a civilian registration card.
-
-Civilians Registration
-
-1950-18
