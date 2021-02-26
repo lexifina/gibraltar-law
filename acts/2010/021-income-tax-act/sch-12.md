@@ -12,4 +12,4 @@ The Table in this Schedule sets out the following information–
 
 (d) in column 4, the references set out opposite the name of the country or territory correspond to the number and date of the Legal Notice in the Gazette in which the International Agreement concluded with that country or territory is published.
 
-Column 1 Column 2 Column 3 Column 4 United Kingdom Signed in London on 1 October 2019 and in Gibraltar on 15 October 2019 24 March 2020 LN 127 of 2020, published on 23rd March 2020
+Column 1 Column 2 Column 3 Column 4 United Kingdom Signed in London on 1 October 2019 and in Gibraltar on 15 October 2019 24 March 2020 LN 127 of 2020, published on 23rd March 2020 Spain 4 March 2019 26 February 2021 LN 157 of 2021, published on 26th February 2021

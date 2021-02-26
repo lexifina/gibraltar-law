@@ -26,7 +26,7 @@ Income Tax
 
 23.3.2020 LN. 2020/128 Sch.12 23.3.2020 2020/176 ss. 10L, 10O(1)(b) 7.5.2020 2020/055 ss. 5F(1), (2)(b), 10ZE-10ZL, Sch. 11 1.7.2020 2020/256 ss. 10ZI(1), (1A), (3), (3A), (9)(b), 10ZJ(2A), (7)(b), 10ZK(7)
 
-10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021
+10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952 Directive (EU) 2018/822 Directive (EU) 2020/876
 
