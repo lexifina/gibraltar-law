@@ -18,7 +18,9 @@ LN.  2014/159 Corrigenda
 
 12.7.2018 2020/174 rr. 2(1), 32(5)(a), (6), 32B(1)(b), (3), 32D(3A), 32E(1)(b), (12), 32L(1A)-(1B), 32N(1A), (2A), 32Q(1A), (2), 32T
 
-7.5.2020
+7.5.2020 2021/165 rr. 2(1), 6(6)(a)(i), 15, 15A-15B, 19C, 38(2), (2A)-(2B), Sch.1-2
+
+4.3.2021
 
 Transposing: Directive 1999/63/EC Directive 2009/13/EC Directive 2013/54/EU Directive (EU) 2018/131
 
@@ -44,17 +46,15 @@ PART II: MINIMUM REQUIREMENTS FOR SEAFARERS TO WORK ON A SHIP
 
 PART III: CONDITIONS OF SEAFARERS’ EMPLOYMENT
 
-11. Seafarers’ employment agreements. 12. Early termination of seafarers’ employment agreements. 13. Documentation relating to seafarer’s employment agreements. 14. Seafarers’ wages. 15. Hours of work and rest on Gibraltar ships. 16. Hours of work and rest on MLC and other ships. 17. Documentation of seafarer’s hours of work. 18. Seafarers’ entitlement to leave. 19. Seafarers’ right to repatriation. 19A. Place for return. 19B. Scope of duty to repatriate. 20. Seafarer compensation for a ship’s loss or foundering. 21. Manning levels. 22. Career and skill development and opportunities for seafarers’ employment.
+11. Seafarers’ employment agreements. 12. Early termination of seafarers’ employment agreements. 13. Documentation relating to seafarer’s employment agreements. 14. Seafarers’ wages. 15. Hours of work and rest on Gibraltar ships. 15A. Authorised exceptions to minimum hours of rest. 15B. Exception for emergencies. 16. Hours of work and rest on MLC and other ships. 17. Documentation of seafarer’s hours of work. 18. Seafarers’ entitlement to leave. 19. Seafarers’ right to repatriation. 19A. Place for return. 19B. Scope of duty to repatriate. 19C. Lapse of right to be repatriated. 20. Seafarer compensation for a ship’s loss or foundering. 21. Manning levels. 22. Career and skill development and opportunities for seafarers’ employment.
 
 PART IV: ACCOMMODATION, FOOD AND CATERING
-
-23. Crew accommodation on Gibraltar, etc. ships. 24. Crew accommodation: exemptions and equivalences. 25. Crew accommodation on MLC ships.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
 
 1995-13
 
-Subsidiary 2013/120 26. Food and catering on Gibraltar, etc. ships. 27. Food and catering on MLC ships.
+Subsidiary 2013/120 23. Crew accommodation on Gibraltar, etc. ships. 24. Crew accommodation: exemptions and equivalences. 25. Crew accommodation on MLC ships. 26. Food and catering on Gibraltar, etc. ships. 27. Food and catering on MLC ships.
 
 PART V: HEALTH PROTECTION, MEDICAL CARE, WELFARE AND SOCIAL SECURITY PROTECTION
 
@@ -66,13 +66,13 @@ PART VA: SECURITY AGAINST SHIPOWNER’S LIABILITY FOR DEATH OR LONG TERM DISABIL
 
 PART VB: SECURITY AGAINST THE ABANDONMENT OF SEAFARERS
 
-32K. Interpretation for Part VB. 32L. Abandonment. 32M. Abandonment security requirement applicable to all ships. 32N. Abandonment security. 32O. Consideration and payment of abandonment claims. 32P. Subrogation. 32Q. Duty to carry and display an abandonment security document. 32R. Termination of abandonment security effective only where notice given. 32S. Duty on shipowner to notify seafarers if abandonment security is to be terminated. 32T. Savings and adjustments.
+32K. Interpretation for Part VB. 32L. Abandonment. 32M. Abandonment security requirement applicable to all ships. 32N. Abandonment security. 32O. Consideration and payment of abandonment claims. 32P. Subrogation. 32Q. Duty to carry and display an abandonment security document. 32R. Termination of abandonment security effective only where notice given.
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
 
 1995-13
 
-Subsidiary 2013/120
+Subsidiary 2013/120 32S. Duty on shipowner to notify seafarers if abandonment security is to be terminated. 32T. Savings and adjustments.
 
 PART VI: INSPECTION AND CERTIFICATION
 
@@ -86,7 +86,9 @@ PART VII: COMPLIANCE AND ENFORCEMENT
 
 44. Inspection and detention of Gibraltar ships. 45. Inspection and detention of MLC ships. 46. Offences and penalties. 47. Consequential amendment.
 
-SCHEDULE Medical Certificates
+SCHEDULE 1 Medical Certificates
+
+SCHEDULE 2 Workforce Agreements
 
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
 

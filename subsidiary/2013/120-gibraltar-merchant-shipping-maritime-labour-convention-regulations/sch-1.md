@@ -1,4 +1,6 @@
-SCHEDULE MEDICAL CERTIFICATES
+SCHEDULE 1 MEDICAL CERTIFICATES
+
+Regulation (6)(6)(a)(i).
 
 Applications for and issuing of medical certificates.
 
@@ -24,13 +26,13 @@ further determine the nature of the medical examination to be conducted in accor
 
 Review of medical practitioner’s decision.
 
-4.  A person who has been refused a medical certificate or who has had a restriction imposed on such a certificate and who−
-
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
 
 1995-13
 
-Subsidiary 2013/120 (a) has applied to the Maritime Administrator, within one month of that refusal or imposition of a restriction, for review of that decision;
+Subsidiary 2013/120 4.  A person who has been refused a medical certificate or who has had a restriction imposed on such a certificate and who−
+
+(a) has applied to the Maritime Administrator, within one month of that refusal or imposition of a restriction, for review of that decision;
 
 (b) has included in that application the name of the medical practitioner who refused the certificate or imposed the restriction;
 
@@ -50,13 +52,13 @@ Interpretation.
 
 “approved medical practitioner” means−
 
-(a) a medical practitioner entitled to practise in Gibraltar, and approved for the purpose of issuing medical certificates by the Maritime Administrator;
-
 Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
 
 1995-13
 
-Subsidiary 2013/120 (b) a medical practitioner approved by the Secretary of State to issue medical fitness certificates to seafarers;
+Subsidiary 2013/120 (a) a medical practitioner entitled to practise in Gibraltar, and approved for the purpose of issuing medical certificates by the Maritime Administrator;
+
+(b) a medical practitioner approved by the Secretary of State to issue medical fitness certificates to seafarers;
 
 (c) in the case of a certificate solely concerning eyesight, a person approved by the Maritime Administrator as a person qualified to issue such a certificate.
 
@@ -75,3 +77,9 @@ Subsidiary 2013/120 (b) a medical practitioner approved by the Secretary of Stat
 (a) restricted to such capacity of sea service or geographical areas as are recorded on the certificate by the medical practitioner,;
 
 (b) subject to such conditions as are recorded on the certificate by the medical practitioner.
+
+Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
+
+1995-13
+
+Subsidiary 2013/120
