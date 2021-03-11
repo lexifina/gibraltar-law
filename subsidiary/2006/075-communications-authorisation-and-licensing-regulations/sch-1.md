@@ -1,6 +1,6 @@
 SCHEDULE
 
-LIST OF CONDITIONS WHICH MAY BE ATTACHED TO GENERAL AUTHORISATIONS, RIGHTS OF USE FOR RADIO SPECTRUM AND RIGHTS OF USE FOR NUMBERING RESOURCES Regulation 17 This Schedule provides for the maximum list of conditions which may be attached to general authorisations for electronic communications networks and electronic communications networks services, except number- independent interpersonal communications services (Part A), electronic communications networks (Part B), electronic communications services, except number-independent interpersonal communications services (Part C), rights of use for radio spectrum (Part D), and rights of use for numbering resources (Part E)
+LIST OF CONDITIONS WHICH MAY BE ATTACHED TO GENERAL AUTHORISATIONS, RIGHTS OF USE FOR RADIO SPECTRUM AND RIGHTS OF USE FOR NUMBERING RESOURCES Regulation 17 This Schedule provides for the maximum list of conditions which may be attached to general authorisations for electronic communications networks and electronic communications networks services, except number-independent interpersonal communications services (Part A), electronic communications networks (Part B), electronic communications services, except number-independent interpersonal communications services (Part C), rights of use for radio spectrum (Part D), and rights of use for numbering resources (Part E)
 
 A.  General conditions which may be attached to a general authorisation
 
@@ -18,11 +18,7 @@ A.  General conditions which may be attached to a general authorisation
 
 7.  Access obligations other than specific obligations applying to persons providing electronic communications networks or services.
 
-Communications COMMUNICATIONS (AUTHORISATION AND LICENSING) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/075 8.  Measures designed to ensure compliance with the standards or specifications referred to in section 20 of the Act.
+8.  Measures designed to ensure compliance with the standards or specifications referred to in section 20 of the Act.
 
 9. Transparency obligations on providers of public electronic communications network providing publicly available electronic communications services to ensure end-to-end connectivity, in accordance with the objectives and principles set out in section 19 of the Act and, where necessary and proportionate, access by the Authority to such information needed to verify the accuracy of such disclosure.
 
@@ -44,13 +40,7 @@ C.  Specific conditions which may be attached to a general authorisation for the
 
 1.  Interoperability of services in accordance with the Access Directive.
 
-2.  Accessibility by end-users of numbers from the Gibraltar Numbering Plan, numbers from the UIFN and, where technically and economically
-
-Communications COMMUNICATIONS (AUTHORISATION AND LICENSING) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/075 feasible, from numbering plans of other Member States, and conditions in accordance with the Universal Service Regulations.
+2.  Accessibility by end-users of numbers from the Gibraltar Numbering Plan, numbers from the UIFN and, where technically and economically feasible, from numbering plans of other Member States, and conditions in accordance with the Universal Service Regulations.
 
 3.  Consumer protection rules specific to the electronic communications sector.
 
@@ -75,12 +65,6 @@ D.  Conditions which may be attached to rights of use for radio spectrum
 8. Obligations to pool or share radio spectrum or allow access to radio spectrum for other users in specific regions or at national level.
 
 9. Obligations under relevant international agreements relating to the use of radio spectrum bands.
-
-Communications COMMUNICATIONS (AUTHORISATION AND LICENSING) REGULATIONS 2006
-
-2006-15
-
-Subsidiary 2006/075
 
 10. Obligations specific to an experimental use of radio spectrum bands.
 
