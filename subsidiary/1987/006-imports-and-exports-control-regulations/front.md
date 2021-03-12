@@ -20,7 +20,7 @@ Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
 
 1986-21
 
-Subsidiary 1987/006 2020/310 Sch. 2 11.9.2020
+Subsidiary 1987/006 2020/310 Sch. 2 11.9.2020 2021/179 Sch. 1 12.3.2021
 
 Transposing: Directive 92/3/Euratom
 
