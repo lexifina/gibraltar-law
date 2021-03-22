@@ -12,13 +12,13 @@ Amending enactments Relevant current provisions Commencement date LN. 2016/148 s
 
 26.6.2017 Act. 2017-07 ss. 1C(d), 2, 3, 4, 4A, 4B, 4C, 4D, 4E, 4F, 4G, 4H, 6B, 35(1), 35A, 35B, 36(1) & (3), 37(5), 58(1)(c), (3A), 59(1), (3), (7A), (7B), (7C), 59A, 60(1), (8A), (8B), (8C), 117(2), (3)(a), (4) & (5)(b), 120(1), (4), (9), 122(2), (4), 123(1), (5), (6), 124(1)(c), 128(2), (3), 130(1), 131(1), 133(1), & 134(1), 145(1), 161(3), 164(2)(b), 167(3)(a), 182(1), (1A), (2A), (5) (za), (zb)
 
-20.7.2017 LN. 2017/205 Sch. 2 1.11.2017
+20.7.2017 LN. 2017/205 Sch. 2 1.11.2017 2018/013 s. 26(1A) 18.1.2018
 
 1 Amended by Notice of Corrigendum LN. 2016/018
 
 Proceeds of Crime
 
-2015-22 2018/013 s. 26(1A) 18.1.2018 Act. 2018-01 ss. 1B(2)(a), 1C(d), 1L(1)-(3), 70(2A), 70A-70B, 145, 146(6)
+2015-22 Act. 2018-01 ss. 1B(2)(a), 1C(d), 1L(1)-(3), 70(2A), 70A-70B, 145, 146(6)
 
 8.2.2018 LN. 2018/064 s. 9(1)(p) 16.3.2018 2018/124 ss. 5(7)(d), 34A(4) 25.5.2018 2018/194 s. 9(1)(oa) 13.9.2018 Act. 2018-25 s. 1C(a) 21.2.2019 2019-05 ss. 1E(1), 1F(2), 1G(1), 1GA(1)-(2), 1H, 1IA(2), 1IB, 1IC(2), (7)-(8), 1T(3), 4F(8), 7(1B)-(1C), 8(2)-(3), 11(1), (6), 19, 26(2A), 33(1), 184(3), 184A-184D,  Sch2
 
@@ -26,13 +26,17 @@ Proceeds of Crime
 
 13.3.2020 Act.2021-08 ss. 1ZA, 1ZB, 1A, 1C(a), 1D(b), 1DB(2)(e), 1E(1), 1JA, 1K(1)(a), (5), 1N(1), 4F(1), (3)(a), 5(9)(b), 6B, 7(1), (1ZA), (1A)-(1B), (2)(b), 9(1)(hb), 9A-9B, 10, 11(1)(c), (2), (3)(b), (4B), (5)(b), (5A), 12(2), 13(3)(b), 15(1)(b), 16(1)(a)-(c), (3), (5), 17(1)(c)(i)-(iii), (2), (4), (4A), 17A, 19, (1), (ba), (c), (e), (ea), (2), 20(1), (b), 21(1)-(2), 22(2), 23(1), (1B)-(1C), 23A(b), 24(1), 25(2)(a)-(b), (2A), (3)(a)(i), (5), (a)-(b), (6), (a)-(b), (6A), (11), 25ZA(3), 25A(1), 26(1), (f), (1ZA)- (1ZB), (1A)-(1B), (1BB), (1C), (2), (a)(iii), (b)-(c), (d)(ii)-(iii), (e), (2A), (3), (5A)-(5B), (6), 27(1)(a)(i), (b), (3), 28(1), (3), 30(1), 30A, 30C(3), 33, 34A(2), (4)-(5), (b), 184ZA, Sch. 2, 9
 
-9.2.2021
+9.2.2021 LN.2021/191 ss. 7, 9(1)(oa), (p)-(q), (1A), 11(f)-(g), 13(1), 23(1A), 25A(1), 30(3)
+
+22.3.2021
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849 Directive (EU) 2018/843
 
 Proceeds of Crime
 
-2015-22 ARRANGEMENT OF SECTIONS
+2015-22
+
+ARRANGEMENT OF SECTIONS
 
 PART I. PRELIMINARY
 
@@ -52,11 +56,13 @@ Cooperation
 
 Access to information
 
-1K. Access to information held by GFIU. 1L. Protection of confidential information. 1M. Referral of suspected offences. 1N. Duty to inform.
+1K. Access to information held by GFIU. 1L. Protection of confidential information. 1M. Referral of suspected offences.
 
 Proceeds of Crime
 
-2015-22 Miscellaneous
+2015-22 1N. Duty to inform.
+
+Miscellaneous
 
 1O. Reports. 1P. Terms and conditions of employment unaffected. 1Q. Preservation of powers. 1R. Personal liability. 1S. References in enactments.
 
@@ -70,11 +76,11 @@ PART III MEASURES TO PREVENT THE USE OF THE FINANCIAL SYSTEM FOR PURPOSES OF MON
 
 Customer Due Diligence
 
-10. Meaning of customer due diligence measures. 10A. Actions through authorised persons. 11. Application of customer due diligence measures. 12. Ongoing monitoring. 13. Timing of verification.
+10. Meaning of customer due diligence measures. 10A. Actions through authorised persons.
 
 Proceeds of Crime
 
-2015-22 14. Casinos. 15. Requirement to cease transactions etc. 16. Simplified customer due diligence. 17. Enhanced customer due diligence measures: application. 17A. Deleted. 18. Non face-to-face. 19. Correspondent banking. 20. Politically exposed persons. 20A. Politically exposed person: interpretation. 20B. Politically exposed person: continuing obligations. 21. Branches and subsidiaries. 22. Shell banks, anonymous accounts etc. 23. Reliance. 23A. Reliance: additional provisions. 24. Directions where Financial Action Task Force applies counter- measures.
+2015-22 11. Application of customer due diligence measures. 12. Ongoing monitoring. 13. Timing of verification. 14. Casinos. 15. Requirement to cease transactions etc. 16. Simplified customer due diligence. 17. Enhanced customer due diligence measures: application. 17A. Deleted. 18. Non face-to-face. 19. Correspondent banking. 20. Politically exposed persons. 20A. Politically exposed person: interpretation. 20B. Politically exposed person: continuing obligations. 21. Branches and subsidiaries. 22. Shell banks, anonymous accounts etc. 23. Reliance. 23A. Reliance: additional provisions. 24. Directions where Financial Action Task Force applies counter- measures.
 
 Record-keeping, procedures and training
 
@@ -82,11 +88,11 @@ Record-keeping, procedures and training
 
 PART IV CONFISCATION OF THE PROCEEDS OF CRIMINAL CONDUCT
 
-35. Confiscation orders. 35A.  Committal by magistrates’ court 35B.  Sentencing by Supreme Court. 36. Postponed determinations. 37. Assessing the proceeds of criminal conduct. 38. Amount to be recovered under confiscation order.
+35. Confiscation orders. 35A.  Committal by magistrates’ court 35B.  Sentencing by Supreme Court.
 
 Proceeds of Crime
 
-2015-22 39. Meaning of “amount that might be realised” and “realisable
+2015-22 36. Postponed determinations. 37. Assessing the proceeds of criminal conduct. 38. Amount to be recovered under confiscation order. 39. Meaning of “amount that might be realised” and “realisable
 
 property”. 40. Value of property, etc. 41. Gifts caught by this Part. 42. Application of procedure for enforcing fines. 43. Interest on sums unpaid under confiscation orders. 44. Reconsideration of case where the court has not proceeded under section 35. 45. Re-assessment of whether defendant has benefited from criminal conduct. 46. Increase in realisable property. 47. Revised assessment of proceeds of criminal conduct. 48. Inadequacy of realisable property. 49. Compensation. 50. Powers of the court where the defendant has absconded or died. 51. Effect of conviction where the court has acted under section 50. 52. Variation of confiscation orders made by virtue of section 50. 53. Compensation, etc. where absconder is acquitted. 54. Power to discharge confiscation order and order compensation where absconder returns. 55. Provisions supplementary to sections 52, 53 and 54. 56. Statements relating to criminal conduct. 57. Provision of information by defendant. 58. Cases in which restraint orders and charging orders may be made. 59. Restraint orders. 59A.   Enforcement abroad. 60. Charging orders in respect of land, securities, etc. 61. Charging orders:  supplementary provisions. 62. Realisation of property. 63. Application of proceeds of realisation and other sums. 64. Exercise by the court or receiver of powers for the realisation of property. 65. Bankruptcy of defendant, etc. 66. Liquidation or Administration of company holding realisable property. 67. Persons acting as insolvency practitioners. 68. Receivers:  supplementary provisions.
 
@@ -94,11 +100,11 @@ PART V CIVIL RECOVERY OF THE PROCEEDS ETC. OF UNLAWFUL CONDUCT
 
 Chapter 1 Introductory
 
-69. General purpose of this Part. 70. “Unlawful conduct”.
-
 Proceeds of Crime
 
-2015-22 70A. “Gross human rights abuse or violation”. 70B. “Gross human rights abuse or violation” – Supplementary. 71. “Property obtained through unlawful conduct”.
+2015-22
+
+69. General purpose of this Part. 70. “Unlawful conduct”. 70A. “Gross human rights abuse or violation”. 70B. “Gross human rights abuse or violation” – Supplementary. 71. “Property obtained through unlawful conduct”.
 
 Chapter 2 Civil Recovery Proceedings for recovery orders
 
@@ -124,11 +130,11 @@ Interim receiving orders: further provisions
 
 Vesting and realisation of recoverable property
 
-90. Recovery orders. 91. Functions of the trustee for civil recovery. 92. Rights of pre-emption, etc. 93. Associated and joint property.
+90. Recovery orders.
 
 Proceeds of Crime
 
-2015-22 94. Agreements about associated and joint property. 95. Associated and joint property: default of agreement. 96. Payments in respect of rights under pension schemes. 97. Consequential adjustment of liabilities under pension schemes. 98. Pension schemes: supplementary. 99. Consent orders. 100. Consent orders: pensions. 101. Limit on recovery. 102. Section 101: supplementary. 103. Applying realised proceeds.
+2015-22 91. Functions of the trustee for civil recovery. 92. Rights of pre-emption, etc. 93. Associated and joint property. 94. Agreements about associated and joint property. 95. Associated and joint property: default of agreement. 96. Payments in respect of rights under pension schemes. 97. Consequential adjustment of liabilities under pension schemes. 98. Pension schemes: supplementary. 99. Consent orders. 100. Consent orders: pensions. 101. Limit on recovery. 102. Section 101: supplementary. 103. Applying realised proceeds.
 
 Exemptions etc.
 
@@ -154,11 +160,13 @@ Searches
 
 116. Searches. 117. Prior approval. 118. Report on exercise of powers.
 
-Seizure and detention
-
 Proceeds of Crime
 
-2015-22 119. Seizure of cash. 120. Detention of seized cash. 121. Interest. 122. Release of detained cash.
+2015-22
+
+Seizure and detention
+
+119. Seizure of cash. 120. Detention of seized cash. 121. Interest. 122. Release of detained cash.
 
 Forfeiture without court order
 
@@ -180,13 +188,11 @@ Chapter 4 General Recoverable property
 
 Insolvency
 
-143. Insolvency.
-
-Interpretation
-
 Proceeds of Crime
 
-2015-22
+2015-22 143. Insolvency.
+
+Interpretation
 
 144. Obtaining and disposing of property. 145. General interpretation.
 
@@ -206,11 +212,11 @@ Disclosure orders
 
 Customer information orders
 
-167.  Customer information orders. 168.  Meaning of customer information. 169.  Requirements for making of customer information order. 170.  Offences.
+167.  Customer information orders.
 
 Proceeds of Crime
 
-2015-22 171.  Statements. 172.  Disclosure of information. 173.  Supplementary.
+2015-22 168.  Meaning of customer information. 169.  Requirements for making of customer information order. 170.  Offences. 171.  Statements. 172.  Disclosure of information. 173.  Supplementary.
 
 Account monitoring orders
 
@@ -230,11 +236,11 @@ PART VIII REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS, CONSEQUENTIAL AMENDMENTS
 
 185. Repeals. 186. Savings and transitional provisions. 187. Consequential amendments.
 
-SCHEDULE 1 Repealed
-
 Proceeds of Crime
 
 2015-22
+
+SCHEDULE 1 Repealed
 
 SCHEDULE 2
 
