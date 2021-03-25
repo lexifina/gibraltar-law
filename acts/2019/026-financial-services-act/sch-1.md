@@ -66,7 +66,7 @@ debt securities (in Chapter 4 of Part 19):
 
 section 356
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 deposit (in Chapter 3 of Part 15):
 
@@ -152,7 +152,7 @@ section 473
 
 micro, small or medium-sized enterprise (in Part 15): section 196
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 multiple-vote securities (in Part 20):
 
@@ -232,7 +232,7 @@ section 344 (in Chapter 4 of Part 19):
 
 section 356
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (in Part 20):
 
@@ -278,7 +278,7 @@ Part 2 References to EU Regulations
 
 “the CSD Regulation” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 “the ELTIF Regulation” means Regulation (EU) No 760/2015 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds;
 
@@ -302,7 +302,7 @@ Part 2 References to EU Regulations
 
 “Regulation (EU) No 231/2013” means Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision;
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 “Regulation (EU) No 1031/2010” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community;
 
@@ -326,7 +326,7 @@ Part 3 References to EU Directives
 
 “the Bank Accounts Directive” means Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 “the Capital Requirements Directive” means Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending directive 2002/87/EC and repealing directives 2006/48/EC and 2006/49/EC;
 
@@ -348,7 +348,7 @@ Part 3 References to EU Directives
 
 “the Financial Conglomerates Directive” means Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC,
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council;
 
@@ -372,7 +372,7 @@ Financial Services 2019-26
 
 “the Payment Accounts Directive” means Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 “the Payment Services Directive” means Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC;
 
@@ -388,4 +388,4 @@ Financial Services 2019-26
 
 “the UCITS Directive” means Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities.
 
-Financial Services 2019-26
+2019-26 Financial Services

@@ -40,7 +40,7 @@ the Consumer Credit Directive;
 
 the DGS Directive;
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 the Distance Marketing Directive;
 
@@ -70,4 +70,4 @@ the Transparency Directive;
 
 the UCITS Directive.
 
-Financial Services 2019-26
+2019-26 Financial Services

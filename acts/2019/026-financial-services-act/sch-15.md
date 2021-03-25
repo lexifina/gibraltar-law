@@ -32,4 +32,4 @@ Head of Customer Care (if regulated firm is a DLT provider)
 
 Head of Business Continuity (if regulated firm is a DLT provider)
 
-Financial Services 2019-26
+2019-26 Financial Services
