@@ -310,7 +310,7 @@ Free
 
 Free
 
-28. Furniture and furnishings, electro-domestic appliances (only those commonly known as white goods with an energy rating of A) imported by a business licensed to trade in such goods
+28. Furniture and furnishings; electro-domestic appliances (only those commonly known as white goods with an energy rating of A or higher for items labelled prior to 1 March 2021, or an energy rating of A, B, C or D for items labelled on or after 1 March 2021) imported by a business licensed to trade in such goods
 
 3%
 
@@ -354,15 +354,15 @@ Capped at £25,000
 
 Free
 
-39. Single use carrier bags made from    biodegradable materials.
-
-0.05p
-
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 1986-21
 
 Subsidiary 2017/190
+
+39. Single use carrier bags made from    biodegradable materials.
+
+0.05p
 
 40. Commercial importation of unmounted precious stones
 
