@@ -28,7 +28,7 @@ Application for a Part 7 permission as an EIF bank and/or broker
 
 10,000
 
-2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
 Application for a Part 7 permission as an AIF Depositary
 
@@ -44,7 +44,7 @@ Application for a Part 7 permission as an AIF Depositary
 
 5,000 Application to extend permitted activities
 
-3,500 Incoming non-EEA credit institution branch (third country branch) Application to establish in Gibraltar 37,500
+3,500 Incoming third country credit institution branch (third country branch) Application to establish in Gibraltar 37,500
 
 Fee Block A2.
 
@@ -54,7 +54,7 @@ Regulated Person Nature of application Application Fee (£) Market operator Appl
 
 75,000
 
-Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
+2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
 Application to vary the scope of permission to operate a regulated market
 
@@ -80,19 +80,19 @@ Regulated Person Nature of application Application Fee (£) EIF Application for 
 
 Fee Block A4.
 
-Regulated Person Nature of application Application Fee (£) Incoming EEA credit institution branch Notification of intention to passport into Gibraltar on an establishment basis
+Regulated Person Nature of application Application Fee (£) Incoming UK credit institution branchNotification of intention to passport into Gibraltar on an establishment basis
 
-37,500 Incoming EEA insurer or reinsurer branch Notification of intention to passport into Gibraltar on an establishment basis
+37,500 Incoming UK insurer or reinsurer branch Notification of intention to passport into Gibraltar on an establishment basis
 
-3,500 Incoming (non-EEA) insurance branch Application to establish in Gibraltar
+3,500 Incoming (third country) insurance branch Application to establish in Gibraltar
 
 3,500
 
-2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-Incoming EEA electronic money institution branch Notification of intention to passport into Gibraltar on an establishment basis
+Incoming UK electronic money institution branch Notification of intention to passport into Gibraltar on an establishment basis
 
-5,500 Incoming EEA electronic money institution agent Notification of intention to appoint an agent
+5,500 Incoming UK electronic money institution agent Notification of intention to appoint an agent
 
 1,100
 
@@ -122,7 +122,7 @@ Regulated Person Nature of application Application Fee (£) CIS administrator Ap
 
 6,025
 
-Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
+2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
 Class C payment institution Application for a Part 7 permission
 
@@ -134,9 +134,7 @@ Class C payment institution Application for a Part 7 permission
 
 4,125 Payment institution Notification of appointment of an agent
 
-250 Notification of intention to passport on an establishment basis into a new jurisdiction
-
-1,100 Application to extend permitted activitiesn
+250 Notification of intention to passport on an establishment basis 1,100 Application to extend permitted activitiesn
 
 2,500 MiFID Firm Category 1 Application for a Part 7 permission
 
@@ -146,35 +144,29 @@ Class C payment institution Application for a Part 7 permission
 
 7,000 MiFID Firm Categories 1, 2, and 3 Application to extend permitted activities
 
-3,000 Notification of intention to passport on an establishment basis into a new jurisdiction
-
-1,500 Pension adviser Application for a Part 7 permission
+3,000 Notification of intention to passport on an establishment basis 1,500 Pension adviser Application for a Part 7 permission
 
 7,000 UCITS management company Application for a Part 7 permission as a UCITS manager
 
-11,000 Application to passport as a UCITS manager on an establishment basis into a new jurisdiction
+11,000 Application to passport as a UCITS manager on an establishment basis 1,500 Small Scheme Manager Application for a Part 7 permission
 
-1,500 Small Scheme Manager Application for a Part 7 permission
-
-3,000
-
-2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
-
-AIFM (Self-managed AIF) (In-scope) Application for a Part 7 permission
+3,000 AIFM (Self-managed AIF) (In-scope) Application for a Part 7 permission
 
 9,000 AIFM (External AIFM) (In-scope) Application for a Part 7 permission
 
-9,000 Small AIFM Application to be registered 500 AIFM Notification of intention to passport on an establishment basis into a new jurisdiction
+9,000
 
-1,500 Application for the approval to manage an ELTIF
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
+
+Small AIFM Application to be registered 500 AIFM Notification of intention to passport on an establishment basis 1,500 Application for the approval to manage an ELTIF
 
 400 Small AIFM Application to use the EUVECA designation
 
 1,000 Small AIFM Application to use the EUSEF designation
 
-1,000 Incoming EEA UCITS scheme Application for recognition
+1,000 Incoming UK UCITS scheme Application for recognition
 
-500 Foreign Collective Investment Scheme
+500 Third country Collective Investment Scheme
 
 Application for recognition
 
@@ -188,23 +180,23 @@ Application for a Part 7 permission
 
 Fee Block B2.
 
-Regulated Person Nature of application Application Fee (£) AIFM Notification of intention to passport into Gibraltar on an establishment basis
+Regulated Person Nature of application Application Fee (£) UK AIFM Notification of intention to passport into Gibraltar on an establishment basis
 
 2,000 Small AIFM (established in an EEA State outside Gibraltar) Notification to market AIFs to professional investors in Gibraltar
 
-150
+150 Small AIFM (the UK) Application to market AIFs to professional investors in Gibraltar
 
-Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
+500 Incoming UK MiFID branch Notification of intention to passport into Gibraltar on an establishment 2,500
 
-Small AIFM (not established in an EEA State) Application to market AIFs to professional investors in Gibraltar
+2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
-500 Incoming EEA MiFID branch Notification of intention to passport into Gibraltar on an establishment basis
+basis
 
-2,500 Incoming EEA payment institution branch Notification of intention to passport into Gibraltar on an establishment basis
+Incoming UK payment institution branch Notification of intention to passport into Gibraltar on an establishment basis
 
-1,100 Incoming EEA payment institution Notification of intention to appoint an agent in Gibraltar
+1,100 Incoming UK payment institution Notification of intention to appoint an agent in Gibraltar
 
-1,100 Incoming EEA UCITS manager branch Notification of intention to passport into Gibraltar on an establishment basis
+1,100 Incoming UK UCITS manager branchNotification of intention to passport into Gibraltar on an establishment basis
 
 2,000
 
@@ -220,25 +212,23 @@ Regulated Person Nature of application Application Fee (£) Audit firm Applicati
 
 Application for approval to conduct business in an individual capacity
 
-3,000 Incoming EEA audit firm Application for recognition
+3,000 Incoming UK audit firm Application for recognition
 
-1,000 Incoming EEA statutory auditor Application for approval
+1,000 Incoming UK statutory auditor Application for approval
 
-500 Incoming non-EEA audit entity Application for approval
+500 Incoming third country audit entity Application for approval
 
-4,200 Incoming non-EEA auditor
+4,200 Incoming third country auditor
 
 Application for approval
 
-500
-
-2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
-
-Bureau de change Application for a Part 7 permission
+500 Bureau de change Application for a Part 7 permission
 
 3,500
 
 Fee Block C2.
+
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
 Regulated Person Nature of application Application Fee (£) Company manager (one legal entity or group)
 
@@ -268,11 +258,13 @@ Application for a Part 7 permission
 
 250 Personal pension scheme controller Application for a Part 7 permission
 
-3,000 Application for approval of a scheme 500
+3,000 Application for approval of a scheme
 
-Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
+500
 
 Fee Block D1.
+
+2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
 Regulated Person Nature of application Application Fee (£) Insolvency Practitioner Application to be licensed
 
@@ -288,21 +280,27 @@ Regulated Person Nature of application Application Fee (£) Insurance intermedia
 
 4,200 Application to extend permitted activities
 
-2,000 Notification of intention to passport on an establishment basis into a new jurisdiction
+2,000 Notification of intention to passport on an establishment basis
 
 1,100 Insurance intermediaries (life) Application for a Part 7 permission
 
 4,500 Application to extend permitted activities
 
-2,000 Notification of intention to passport on an establishment basis into a new jurisdiction 1,100 Mortgage credit intermediary Application for a Part 7 permission  5,000 Application for registration of an appointed representative 1,500 Notification of intention to passport on an establishment basis into a new jurisdiction 1,500
+2,000 Notification of intention to passport on an establishment basis
+
+1,100 Mortgage credit intermediary Application for a Part 7 permission  5,000 Application for registration of an appointed representative 1,500 Notification of intention to passport on an establishment basis
+
+1,500
 
 Fee Block E2.
 
-2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
+Regulated Person Nature of application Application Fee (£) Incoming UK insurance intermediary (general and life) branch Notification of intention to passport into Gibraltar on an establishment 1,100
 
-Regulated Person Nature of application Application Fee (£) Incoming EEA insurance intermediary (general and life) branch Notification of intention to passport into Gibraltar on an establishment basis
+Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-1,100 Incoming EEA mortgage credit intermediary branch Notification of intention to passport into Gibraltar on an establishment basis
+basis
+
+Incoming UK mortgage credit intermediary branch Notification of intention to passport into Gibraltar on an establishment basis
 
 2,500
 
@@ -310,16 +308,14 @@ Fee Block F1.
 
 Regulated Person Nature of application Application Fee (£) IORP Application for authorisation
 
-3,500 Application for registration of cross- border activity in a new jurisdiction
+3,500 Application for registration of cross- border activity in the UK
 
-100 for each jurisdiction IORP which is a small institution Application for registration
+100 IORP which is a small institution Application for registration
 
 500
 
 Fee Block G1.
 
 Regulated Person Nature of Application Application Fee (£) DLT Provider Initial application assessment request An initial application assessment fee of 2,000 Application for a Part 7 permission A flat fee of 8,000 to 28,000, depending upon the complexity of the application as determined by the related initial application assessment.
-
-Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020

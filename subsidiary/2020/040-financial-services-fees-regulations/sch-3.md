@@ -10,19 +10,15 @@ The complexity of applications will be assessed by the GFSC on a case by case ba
 
 Part 2 Other Fees
 
-Regulatory Service Payable by Fee (£) Notification of outgoing passporting on a services basis (all entities) (per country and per notification) All regulated persons who have rights to passport under an EU Directive
+Regulatory Service Payable by Fee (£) Notification of outgoing passporting on a services basis (all entities) All regulated persons who have passporting rights
 
-100 Issue of certificate of approval Audit firms seeking to provide services in an EEA State
+100 Issue of certificate of approval Audit firms seeking to provide services outside Gibraltar
 
 100
 
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-Notification of outgoing passporting when using an agent or distributor (per country and per notification)
-
-Electronic money institutions, Payment services institutions (agents only) 50 Requests for amendment of records held
-
-Regulated persons 50 Notification of a material change in business plan Regulated persons These are treated in the same way as new applications so the relevant application fee is payable Resubmission of notification (payable where notification of passporting or change of controller form is submitted to the GFSC in the incorrect form.)
+Notification of outgoing passporting when using an agent or distributor Electronic money institutions, Payment services institutions (agents only) 50 Notification of a material change in business plan Regulated persons These are treated in the same way as new applications so the relevant application fee is payable Resubmission of notification (payable where notification of passporting or change of controller form is submitted to the GFSC in the incorrect form.)
 
 Regulated persons The full fee in respect of the relevant notification Notification of a new sub-fund or PCC cell
 
