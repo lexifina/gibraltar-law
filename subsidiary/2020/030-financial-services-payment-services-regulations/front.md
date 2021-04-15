@@ -12,7 +12,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/498 rr. 1(3)(b), 2(1), 3(3), 4(2)-(7), 6(8), 7(4), 8(3)(c), 10(8), 11(2)(c), 14(10), 17(3), 39(2), (2A), (4)(b), (5), 42(2)(c)(ii), 43(2)(a), (4)(d)(ii), 44(2)(a), (4)(c)(ii), 53(4), 55(1)(a), (c), (2)-(3), 63(2)(b), 69(2), 75(2), 76(2)-(3), 77(1), (5), 78(4), 86(2), 87(3)-(6), 88-99, 105(1)-(2), 106(2)(b), (7), 107- 108, Sch. 1, 2
 
-1.1.2021 2021/094 r. 84(2)(b)(i), (5)(a)(ii), (10) 1.1.2021 2022/188 r. 85(1)(c) 1.1.2021
+1.1.2021 2021/094 r. 84(2)(b)(i), (5)(a)(ii), (10) 1.1.2021 2022/188 r. 85(1)(c) 1.1.2021 2021/229 rr. 42(2)(c)(ii), 43(2)(a), (4)(d)(ii), 44(2)(a), (4)(c)(ii), 79A
+
+15.4.2021
 
 2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
 
@@ -100,7 +102,7 @@ Complaints and ADR procedures
 
 PART 4 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
-78. Management of operational and security risks. 79. Authentication.
+78. Management of operational and security risks. 79. Authentication. 79A. Technical standards.
 
 PART 5 PRUDENTIAL REQUIREMENTS
 

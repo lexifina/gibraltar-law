@@ -22,7 +22,7 @@ Registration
 
 (g) a security policy document, including a detailed risk assessment in relation to the AISP’s account information services and a description of security control and mitigation measures taken to adequately protect payment service users against the risks identified, including fraud and illegal use of sensitive and personal data;
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
+2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
 
 (h) a description of the AISP’s structural organisation, including, where applicable, a description of the intended use of agents and branches and of the off-site and on- site checks that the AISP undertakes to perform on them at least annually, as well as a description of outsourcing arrangements, and of its participation in a national or international payment system;
 
@@ -54,7 +54,7 @@ and evidence that they are of good repute and possess appropriate knowledge and 
 
 (b) contain or be accompanied by such other information as the GFSC may reasonably require.
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
 
 (5)  At any time after the application is received and before it is determined, the GFSC may require the applicant to provide it with such further information as it reasonably considers necessary to enable it to determine the application.
 
@@ -84,7 +84,7 @@ Supervision by the GFSC
 
 (4)  If the GFSC proposes to exercise any power under sub-paragraph (2)(b) or (3), it must give the AISP a warning notice.
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
+2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
 
 (5)  If the GFSC decides to exercise that power, it must give the AISP a decision notice.
 
@@ -112,4 +112,4 @@ Rights and obligations of AISPs
 
 (3)  In the application of any provision of these Regulations in relation to an AISP, the AISP is to be treated as if it were a payment institution.
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
