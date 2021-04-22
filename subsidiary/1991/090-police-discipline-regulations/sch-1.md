@@ -1,6 +1,8 @@
 SCHEDULE 1.
 
-DISCIPLINE CODE. Discreditable conduct.
+DISCIPLINE CODE.
+
+Discreditable conduct.
 
 1. Discreditable conduct which offence is committed where a member of the police force acts in a disorderly manner or any manner prejudicial to discipline or reasonably likely to bring discredit on the reputation of the force or of the police service.
 
@@ -23,12 +25,6 @@ Disobedience to orders.
 (c)  a police officer shall not, without the previous consent of the Commissioner, receive a lodger in a house or quarters with which he is provided by Government or sub-let any part of the house or quarters;
 
 (d)  a police officer shall not wilfully refuse or neglect to discharge any lawful debt.
-
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090
 
 Neglect of duty.
 
@@ -58,12 +54,6 @@ Improper disclosure of information.
 
 6. Improper disclosure of information, which offence is committed where a member of the police force–
 
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090
-
 (a)  without proper authority communicates to any person, any information which he has in his possession as a member of the police force, or
 
 (b)  makes any anonymous communication to the Governor, the Chief Minister, the Gibraltar Police Authority, any public officer, the Commissioner or to any superior officer, or
@@ -89,12 +79,6 @@ Abuse of authority.
 8. Abuse of authority, which offence is committed where a member of the police force–
 
 (a)  without good and sufficient cause makes an arrest, or
-
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090
 
 (b)  uses any unnecessary violence towards any prisoner or other person with whom he may be brought into contact in the execution of his duty, or
 
@@ -124,19 +108,13 @@ Drunkedness.
 
 (b)  demands or endeavours to presuade any other person to give him, or to purchase or obtain for him, any intoxicating liquor.
 
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090 Entering licensed premises.
+Entering licensed premises.
 
 14. Entering licensed premises, which offence is committed where a member of the police force–
 
-(a) while on duty, or
+(a)  while on duty, or
 
-(b) while off duty but wearing uniform
-
-without good and sufficient cause, enters any premises in respect of which a licence or permit has been granted in pursuance of the law relating to liquor licensing or betting and gaming or regulating places of entertainment.
+(b)  while off duty but wearing uniform without good and sufficient cause, enters any premises in respect of which a licence or permit has been granted in pursuance of the law relating to liquor licensing or betting and gaming or regulating places of entertainment.
 
 Criminal conduct.
 
@@ -157,9 +135,3 @@ Cowardice in the performance of duty.
 Malingering.
 
 19. Malingering, which offence is committed where a member feigns or exagerates any sickness or injury with a view to avoiding duty.
-
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090

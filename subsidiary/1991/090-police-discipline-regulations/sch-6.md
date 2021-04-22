@@ -8,11 +8,11 @@ POLICE COMPLAINTS BOARD.
 
 3. If an independent member dies, resigns or otherwise ceases to be a member, the Gibraltar Police Authority may appoint another in his place.
 
-4. In the event of the Commissioner not being able to sit on the Board by reason of relationship to the member of the Police Force under investigation, then his place shall be taken by the Superintendent, failing whom the next highest ranking officer.
+4. In the event of the Commissioner not being able to sit on the Board by reason of relationship to the member of the Police Force under investigation, then his place shall be taken by the Assistant Commissioner, failing whom the next highest ranking officer.
 
-5. The two Police Officers on the Board shall be selected by the Superintendent and appointed for two years at a time. They shall be eligible for reappointment. The Superintendent shall determine when it is inappropriate  for one or both of the Police members to sit on the Board by reason of personal or professional relationship with the member of the Police Force under investigation, and in such cases the Superintendent may appoint an additional temporary police member if necessary in order to ensure a quorum.
+5. The two Police Officers on the Board shall be selected by the Assistant Commissioner and appointed for two years at a time. They shall be eligible for reappointment. The Assistant Commissioner shall determine when it is inappropriate  for one or both of the Police members to sit on the Board by reason of personal or professional relationship with the member of the Police Force under investigation, and in such cases the Assistant Commissioner may appoint an additional temporary police member if necessary in order to ensure a quorum.
 
-6. If a police member dies, resigns from the Police Force or is otherwise unable to continue as a member, the Superintendent may appoint another in his place.
+6. If a police member dies, resigns from the Police Force or is otherwise unable to continue as a member, the Assistant Commissioner may appoint another in his place.
 
 7. A person is disqualified from being considered for the appointment of independent member if he has been convicted by any Court of a criminal offence involving dishonesty, or any other offence for which a sentence of imprionment has been imposed.
 

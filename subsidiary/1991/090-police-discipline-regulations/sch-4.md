@@ -29,9 +29,3 @@ Disciplinary Offence found proved Punishment therefor
 .............................................. (insert date).
 
 5. I desire to appeal against (the said finding(s) and punishment(s)] [the said Punishment(s) but not against the said finding(s)].
-
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090

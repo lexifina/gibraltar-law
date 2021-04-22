@@ -38,16 +38,4 @@ Names and addresses  in of the charge and whose statements are attached -
 
 Date ........................................
 
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090
-
 Signed .....................................
-
-Police POLICE (DISCIPLINE) REGULATIONS 1991
-
-2006-20
-
-Subsidiary 1991/090
