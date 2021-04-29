@@ -9,5 +9,3 @@ It is hereby certified that (name) was admitted to the Gibraltar Qualified Teach
 The holder of this certificate is limited to teaching children aged 0 to 5.
 
 …………………………… Director of Education.
-
-1974-11 Education and Training 2020/268 Education (Gibraltar Qualified Teacher Status) Regulations 2020

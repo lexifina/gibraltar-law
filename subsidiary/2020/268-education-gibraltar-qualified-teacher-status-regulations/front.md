@@ -1,14 +1,14 @@
-1974-11 Education and Training
-
 Subsidiary Legislation made under s.82.
 
-EDUCATION (GIBRALTAR QUALIFIED TEACHER STATUS) REGULATIONS 2020
+Education (Gibraltar Qualified Teacher Status) Regulations 2020
 
 LN.2020/268
 
 Commencement 30.7.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2021/248 Sch. 5 29.4.2021
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -25,7 +25,5 @@ SCHEDULE 3 CERTIFICATE OF REGISTRATION
 SCHEDULE 4 CERTIFICATE OF REGISTRATION
 
 SCHEDULE 5 CERTIFICATE OF REGISTRATION
-
-1974-11 Education and Training 2020/268 Education (Gibraltar Qualified Teacher Status) Regulations 2020
 
 In exercise of the powers conferred upon him by section 82 of the Education and Training Act, and all other enabling powers, the Minister has made the following Regulations–
