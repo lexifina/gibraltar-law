@@ -109,3 +109,5 @@ Free Trade Agreement between the United Kingdom of Great Britain and Northern Ir
 Memorandum of understanding between the United Kingdom of Great Britain and Northern Ireland and the Republic of Cameroon concerning the arrangements for applying the effects of the Interim Agreement establishing an Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, on the one part, and the Republic of Cameroon, on the other part, signed at Yaoundé on 28 December 2020
 
 Interim Trade Partnership Agreement between the Republic of Ghana, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part, signed at London on 2 March 2021
+
+Interim Agreement establishing an Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, on the one part, and the Republic of Cameroon, on the other part, signed at Yaoundé on 28 December 2020
