@@ -113,3 +113,5 @@ Interim Trade Partnership Agreement between the Republic of Ghana, of the one pa
 Interim Agreement establishing an Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, on the one part, and the Republic of Cameroon, on the other part, signed at Yaoundé on 28 December 2020
 
 Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Hashemite Kingdom of Jordan, done at Amman on 5 November 2019
+
+Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Albania, done at Tirana on 5 February 2021
