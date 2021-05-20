@@ -115,3 +115,5 @@ Interim Agreement establishing an Economic Partnership Agreement between the Uni
 Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Hashemite Kingdom of Jordan, done at Amman on 5 November 2019
 
 Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Albania, done at Tirana on 5 February 2021
+
+Partnership, Trade and Cooperation Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Serbia, done at Belgrade on 16 April 2021
