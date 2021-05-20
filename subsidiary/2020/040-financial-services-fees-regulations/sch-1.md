@@ -744,27 +744,29 @@ Base Fee A flat fee of £8,172.
 
 Fee Block C1.
 
-Regulated person Base Fee Method of Calculating Annual Fees Audit firms and statutory auditors £ 1,683 Base Fee + PIE Fee + Individual Statutory Auditor Fee + Additional Fee
+Regulated person Base Fee Method of Calculating Annual Fees Audit firms and statutory auditors £ 2,000 Base Fee + PIE Fee + Individual Statutory Auditor Fee + Additional Fee
 
-Base Fee A flat fee of £1,683.
+Base Fee A flat fee of £2,000.
 
-PIE (public-interest entity) Fee A flat fee of £1,123 applicable to every audit firm or statutory auditor that conducts statutory audits of public-interest entities as defined in Part 24 of the Act.
+PIE (public-interest entity) Fee A fee, charged at a rate of £1,000 per public-interest entity audit client, up to a maximum of £12,000, payable by every audit firm or statutory auditor that conducts statutory audits of public-interest entities as defined in Part 24 of the Act.
 
-Individual Statutory Auditor Fee A fee, charged at a rate of £561 per individual statutory auditor (excluding the first) where the audit firm is not a sole practitioner.
+Individual Statutory Auditor Fee A fee, charged at a rate of £2,000 per individual statutory auditor (excluding the first) where the audit firm is not a sole practitioner.
 
 Additional Fee An additional fee based on audit turnover–
 
 £0 ≤ audit turnover ≤ £10,000 – no additional charge
 
-£10,001 ≤ audit turnover ≤ £100,000 – a flat fee of £1,123
+£10,001 ≤ audit turnover ≤ £100,000 – a flat fee of
 
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
-£100,001 ≤ audit turnover ≤ £500,000 – a flat fee of £2,245
+£2,500
 
-£500,001 ≤ audit turnover ≤ £1,000,000 – a flat fee of £4,491
+£100,001 ≤ audit turnover ≤ £500,000 – a flat fee of £5,000
 
-Audit turnover ≥ £1,000,001 – a flat fee of £6,735.
+£500,001 ≤ audit turnover ≤ £1,000,000 – a flat fee of £8,000
+
+Audit turnover ≥ £1,000,001 – a flat fee of £11,000.
 
 Bureaux de change £ 1,750 Base Fee + Additional Fee
 
@@ -784,11 +786,11 @@ Company Under Management Fee A flat fee based on the number of companies under m
 
 (b) over 150 companies under management – a flat fee of £118 per 50 companies under management.
 
-Trusts and Foundations Under Management Fee A flat fee based on the number of trusts and
+Trusts and Foundations Under Management Fee
 
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-foundations under management–
+A flat fee based on the number of trusts and foundations under management–
 
 (a) up to 25 trusts or foundations (or combination of both) under management – no additional charges;
 
@@ -846,9 +848,9 @@ Additional Fee 1 An additional fee, based on licence type–
 
 Additional Fee 2 An additional fee based on turnover–
 
-(a) turnover ≤ £500,000 - no additional charge;
-
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
+
+(a) turnover ≤ £500,000 - no additional charge;
 
 (b) turnover ≥ £500,001 - a flat fee of £466.
 
@@ -902,13 +904,11 @@ Regulated person Base Fee Method of Calculating Annual Fees Incoming insurance i
 
 Base Fee A flat fee of £6,421.
 
-Incoming UK mortgage credit intermediary £ 6,421 Base Fee Only
-
-Base Fee
+Incoming UK mortgage credit £ 6,421 Base Fee Only
 
 Financial Services 2019-26 FINANCIAL SERVICES (FEES) REGULATIONS 2020 2020/040
 
-branches A flat fee of £6,421.
+intermediary branches Base Fee A flat fee of £6,421.
 
 Fee Block F1.
 

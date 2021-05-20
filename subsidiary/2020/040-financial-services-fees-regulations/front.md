@@ -10,7 +10,7 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/139 Sch. 1 31.3.2020 2020/442 Sch. 2 & 3 10.12.2020 2021/218 rr. 3(1), 4(4), 6, 7(1), Sch. 1, 2, 3 1.4.2021
+LN.2020/139 Sch. 1 31.3.2020 2020/442 Sch. 2 & 3 10.12.2020 2021/218 rr. 3(1), 4(4), 6, 7(1), Sch. 1, 2, 3 1.4.2021 2021/273 Sch. 1 20.5.2021
 
 2019-26 Financial Services 2020/040 FINANCIAL SERVICES (FEES) REGULATIONS 2020
 
