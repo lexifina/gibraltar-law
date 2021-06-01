@@ -36,10 +36,6 @@ Safeguarding of children and of individuals at risk.
 
 (c) the processing is carried out without the consent of the data subject for one of the reasons listed in subparagraph (2); and
 
-Data Protection
-
-2004-01
-
 (d) the processing is necessary for reasons of substantial public interest.
 
 (2)  The reasons mentioned in subparagraph (1)(c) are-
@@ -58,7 +54,7 @@ Data Protection
 
 (c) as a result of those needs is unable to protect himself or herself against the neglect or harm or the risk of it.
 
-(4)  In subparagraph (1)(a), the reference to the protection of an individual or of the well-being of an individual includes both protection relating to a particular individual and protection relating to a type of individual.
+(4)  In subparagraph (1)(a), the reference to the protection of an individual or of the well- being of an individual includes both protection relating to a particular individual and protection relating to a type of individual.
 
 Personal data already in the public domain.
 
@@ -71,10 +67,6 @@ Legal claims.
 (a) is necessary for the purpose of, or in connection with, any legal proceedings, including prospective legal proceedings;
 
 (b) is necessary for the purpose of obtaining legal advice; or
-
-Data Protection
-
-2004-01
 
 (c) is otherwise necessary for the purposes of establishing, exercising or defending legal rights.
 
@@ -106,4 +98,4 @@ Archiving etc.
 
 (c) for statistical purposes.
 
-_______________________
+____________________

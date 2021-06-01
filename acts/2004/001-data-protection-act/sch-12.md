@@ -21,7 +21,3 @@ Powers of the Commissioner.
 (e) shall render assistance to data subjects whether resident in Gibraltar or abroad;
 
 (f) may request supervisory authorities in other states to exercise their powers.
-
-Data Protection
-
-2004-01

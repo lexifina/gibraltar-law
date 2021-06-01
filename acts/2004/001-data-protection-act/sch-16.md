@@ -32,10 +32,6 @@ Contents of notice of intent.
 
 (3)  A notice of intent must also-
 
-Data Protection
-
-2004-01
-
 (a) state that the person may make written representations about the Commissioner’s intention to give a penalty notice; and
 
 (b) specify the period within which such representations may be made.
@@ -65,10 +61,6 @@ Contents of penalty notice.
 (c) whether the Commissioner received oral or written representations in accordance with the notice of intent;
 
 (d) the reasons why the Commissioner proposes to impose the penalty (see subparagraph (2));
-
-Data Protection
-
-2004-01
 
 (e) the reasons for the amount of the penalty, including any aggravating or mitigating factors that the Commissioner has taken into account;
 
@@ -108,10 +100,6 @@ Variation of penalty.
 
 (c) otherwise vary the penalty notice to the detriment of the person to whom it was given.
 
-Data Protection
-
-2004-01
-
 (4)  If-
 
 (a) a penalty variation notice reduces the amount of the penalty; and
@@ -143,7 +131,3 @@ Enforcement of payment.
 (d) the period for the person to whom the penalty notice was given to appeal against the penalty, and any variation of it, has ended.
 
 (2)  A penalty is recoverable if a court so orders, as if it were payable under an order of that court.
-
-Data Protection
-
-2004-01

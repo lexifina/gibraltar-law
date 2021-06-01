@@ -18,10 +18,6 @@ Gibraltar GDPR provisions to be adapted or restricted: “the listed GDPR provis
 
 (iii) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers),
 
-Data Protection
-
-2004-01
-
 (iv) Article 16 (right to rectification),
 
 (v) Article 17(1) and (2) (right to erasure),
@@ -56,10 +52,6 @@ to the extent that the application of those provisions would be likely to prejud
 
 (2)  Subparagraph (3) applies where-
 
-Data Protection
-
-2004-01
-
 (a) personal data is processed by a person (“Controller 1”) for any of the purposes mentioned in subparagraph (1)(a) to (c); and
 
 (b) another person (“Controller 2”) obtains the data from Controller 1 for the purpose of discharging statutory functions and processes it form the purpose of discharging statutory functions.
@@ -88,10 +80,6 @@ Crime and taxation: risk assessment systems.
 
 (i) the assessment or collection of a tax or duty or an imposition of a similar nature, or
 
-Data Protection
-
-2004-01
-
 (ii) the prevention or detection of crime or apprehension or prosecution of offenders, where the offence concerned involves the unlawful use of public money or an unlawful claim for payment out of public money.
 
 (3)  The Gibraltar GDPR provisions referred to in subparagraph (1) are the following provisions of the Gibraltar GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the Gibraltar GDPR)-
@@ -117,10 +105,6 @@ Information required to be disclosed by law etc or in connection with legal proc
 (b) is necessary for the purpose of obtaining legal advice; or
 
 (c) is otherwise necessary for the purposes of establishing, exercising or defending legal rights,
-
-Data Protection
-
-2004-01
 
 to the extent that the application of those provisions would prevent the controller from making the disclosure.
 
@@ -156,10 +140,6 @@ Functions designed to protect the public etc.
 
 6.  The listed GDPR provisions do not apply to personal data processed for the purposes of discharging a function that-
 
-Data Protection
-
-2004-01
-
 (a) is designed as described in column 1 of the Table; and
 
 (b) meets the condition relating to the function specified in column 2 of the Table,
@@ -170,15 +150,15 @@ TABLE
 
 Description of function design Condition 1. The function is designed to protect members of the public against-
 
-(a) financial loss due to dishonesty, malpractice or other seriously improper conduct by, or the unfitness or incompetence of, persons concerned in the provision of banking, insurance, investment or other financial services or in the management of bodies corporate; or
-
-(b) financial loss due to the conduct of discharged or undischarged bankrupts. The function is-
+(a) financial loss due to dishonesty, malpractice or other seriously improper conduct by, or the unfitness or incompetence of, persons concerned in the provision of banking, insurance, investment or other financial services or in the management of bodies corporate; or The function is-
 
 (a) conferred on a person by an enactment;
 
 (b) a function of the Crown, a Minister or a government department; or
 
-(c) of a public nature, and is exercised in the public interest. 2. The function is designed to protect members of the public against-
+(c) of a public nature, and is exercised in the public interest.
+
+(b) financial loss due to the conduct of discharged or undischarged bankrupts. 2. The function is designed to protect members of the public against-
 
 (a) dishonesty, malpractice or other seriously improper conduct; or
 
@@ -190,23 +170,15 @@ The function is-
 
 (b) a function of the Crown, a Minister or a government department; or
 
-(c) of a public nature, and is exercised in the public interest.
+(c) of a public nature, and is exercised in the public interest. 3. The function is designed-
 
-3. The function is designed-
-
-(a) to protect charities or community interest companies against misconduct or The function is-
-
-(a) conferred on a person by an enactment;
-
-Data Protection
-
-2004-01
-
-mismanagement (whether by trustees, directors or other persons) in their administration;
+(a) to protect charities or community interest companies against misconduct or mismanagement (whether by trustees, directors or other persons) in their administration;
 
 (b) to protect the property of charities or community interest companies from loss or misapplication; or
 
-(c) to recover the property of charities or community interest companies.
+(c) to recover the property of charities or community interest companies. The function is-
+
+(a) conferred on a person by an enactment;
 
 (b) a function of the Crown, a Minister or a government department; or
 
@@ -214,49 +186,35 @@ mismanagement (whether by trustees, directors or other persons) in their adminis
 
 (a) to secure the health, safety and welfare of persons at work; or
 
-(b) to protect persons other than those at work against risk to health or safety arising out of or in connection with the action of persons at work.
-
-The function is-
+(b) to protect persons other than those at work against risk to health or safety arising out of or in connection with the action of persons at work. The function is-
 
 (a) conferred on a person by an enactment;
 
 (b) a function of the Crown, a Minister or a government department; or
 
-(c) of a public nature, and is exercised in the public interest.
-
-5. The function is designed to protect members of the public against-
+(c) of a public nature, and is exercised in the public interest. 5. The function is designed to protect members of the public against-
 
 (a) maladministration by public bodies;
 
-(b) failures in services provided by public bodies; or
-
-(c) a failure of a public body to provide a service which it is a function of the body to provide.
-
-The function is-
+(b) failures in services provided by public bodies; or The function is-
 
 (a) conferred on a person by an enactment; or
 
 (b) of a public nature, and is exercised in the public interest.
 
+(c) a failure of a public body to provide a service which it is a function of the body to provide.
+
 6. The function is designed-
 
 (a) to protect members of the public against conduct which may adversely affect their interests by persons carrying on a business;
 
-The function is-
+(b) to regulate agreements or conduct which have as their object or effect the prevention, restriction or distortion of competition in connection with any commercial activity; or
+
+(c) to regulate conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market. The function is-
 
 (a) conferred on a person by an enactment;
 
-(b) a function of the Crown, a Minister or a government
-
-Data Protection
-
-2004-01
-
-(b) to regulate agreements or conduct which have as their object or effect the prevention, restriction or distortion of competition in connection with any commercial activity; or
-
-(c) to regulate conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market.
-
-department; or
+(b) a function of the Crown, a Minister or a government department; or
 
 (c) of a public nature, and is exercised in the public interest.
 
@@ -277,10 +235,6 @@ Parliamentary privilege.
 Judicial appointments, judicial independence and judicial proceedings.
 
 10.(1)  The listed GDPR provisions do not apply to personal data processed for the purposes of assessing a person’s suitability for judicial office or the office of Queen’s Counsel.
-
-Data Protection
-
-2004-01
 
 (2)  The listed GDPR provisions do not apply to personal data processed by-
 
@@ -313,10 +267,6 @@ Protection of the rights of others: general.
 (c) any steps taken by the controller with a view to seeking the consent of the other individual;
 
 (d) whether the other individual is capable of giving consent; and
-
-Data Protection
-
-2004-01
 
 (e) any express refusal of consent by the other individual.
 
@@ -352,10 +302,6 @@ Assumption of reasonableness for health workers, social workers and education wo
 
 (i) a children’s court officer,
 
-Data Protection
-
-2004-01
-
 (ii) a person who is or has been employed by a person or body referred to in paragraph 8 of Schedule 3 in connection with functions exercised in relation to the information, or
 
 (iii) a person who has provided for reward a service that is similar to a service provided in the exercise of any relevant social services functions, and
@@ -385,10 +331,6 @@ Gibraltar GDPR provisions to be restricted: “the listed GDPR provisions”.
 13.  In this Part of this Schedule, “the listed GDPR provisions” means the following provisions of the Gibraltar GDPR (the rights and obligations in which may be restricted by virtue of Article 23(1) of the Gibraltar GDPR)-
 
 (a) Article 13(1) to (3) (personal data collected from data subject: information to be provided);
-
-Data Protection
-
-2004-01
 
 (b) Article 14(1) to (4) (personal data collected other than from data subject: information to be provided);
 
@@ -420,10 +362,6 @@ Corporate finance.
 
 16.(1)  The listed GDPR provisions do not apply to personal data processed for the purposes of or in connection with a corporate finance service provided by a relevant person to the extent that either Condition A or Condition B is met.
 
-Data Protection
-
-2004-01
-
 (2)  Condition A is that the application of the listed GDPR provisions would be likely to affect the price of an instrument.
 
 (3)  Condition B is that-
@@ -452,13 +390,7 @@ Data Protection
 
 Management forecasts.
 
-17.  The listed GDPR provisions do not apply to personal data processed for the purposes of management forecasting or management planning in relation
-
-Data Protection
-
-2004-01
-
-to a business or other activity, to the extent that the application of those provisions would be likely to prejudice the conduct of the business or activity concerned.
+17.  The listed GDPR provisions do not apply to personal data processed for the purposes of management forecasting or management planning in relation to a business or other activity, to the extent that the application of those provisions would be likely to prejudice the conduct of the business or activity concerned.
 
 Negotiations.
 
@@ -488,10 +420,6 @@ Exam scripts and exam marks.
 
 the duty in Article 12(3) or (4) of the Gibraltar GDPR for the controller to provide information requested by the data subject within a certain time period, as it applies to Article 15 of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers), is modified as set out in subparagraph (3).
 
-Data Protection
-
-2004-01
-
 (3)  Where a question arises as to whether the controller is obliged by Article 15 of the Gibraltar GDPR to disclose personal data, and the question arises before the day on which the exam results are announced, the controller must provide the information mentioned in Article 12(3) or (4)-
 
 (a) before the end of the period of 5 months beginning when the question arises; or
@@ -514,13 +442,7 @@ Trusts.
 
 (d) relates to the exercise or proposed exercise of such power or discretion, or the performance or proposed performance of such duty, referred to in subparagraph (b); or
 
-(e) relates to or forms part of the accounts of the trust, and a trustee is satisfied that it is in the interests of one or more of the
-
-Data Protection
-
-2004-01
-
-beneficiaries, or the beneficiaries as a whole, to restrict the listed GDPR provisions.
+(e) relates to or forms part of the accounts of the trust, and a trustee is satisfied that it is in the interests of one or more of the beneficiaries, or the beneficiaries as a whole, to restrict the listed GDPR provisions.
 
 PART 5
 
@@ -552,10 +474,6 @@ Journalistic, academic, artistic and literary purposes.
 
 (6)  The codes of practice and guidelines are-
 
-Data Protection
-
-2004-01
-
 (a) Programme Standards Code;
 
 (b) Right of Reply Code;
@@ -566,7 +484,7 @@ Data Protection
 
 (e) Objectivity, Impartiality, Accuracy and Undue Prominence Code.
 
-(7)  The Minister  may by regulations amend the list in subparagraph (6).
+(7)  The Minister may by regulations amend the list in subparagraph (6).
 
 (8)  For the purposes of this paragraph, the listed GDPR provisions are the following provisions of the Gibraltar GDPR (which may be exempted or derogated from by virtue of Article 85(2) of the Gibraltar GDPR)-
 
@@ -595,10 +513,6 @@ Data Protection
 (iii) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers),
 
 (iv) Article 16 (right to rectification),
-
-Data Protection
-
-2004-01
 
 (v) Article 17(1) and (2) (right to erasure),
 
@@ -636,10 +550,6 @@ to the extent that the application of those provisions would prevent or seriousl
 
 (a) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers);
 
-Data Protection
-
-2004-01
-
 (b) Article 16 (right to rectification);
 
 (c) Article 18(1) (restriction of processing);
@@ -672,14 +582,6 @@ Archiving in the public interest.
 
 (f) Article 21(1) (objections to processing).
 
-Data Protection
-
-2004-01
-
 (3)  The exemption in subparagraph (1) is available only where the personal data is processed in accordance with Article 89(1) of the Gibraltar GDPR (as supplemented by section 23).
 
 (4)  Where processing for a purpose described in subparagraph (1) serves at the same time another purpose, the exemption in subparagraph (1) is available only where the personal data is processed for a purpose referred to in that subparagraph.
-
-Data Protection
-
-2004-01

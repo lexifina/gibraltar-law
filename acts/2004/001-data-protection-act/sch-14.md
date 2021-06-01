@@ -28,10 +28,6 @@ Assisting persons resident outside Gibraltar with requests under Article 14 of t
 
 (2)  The Commissioner must take appropriate measures to assist the person to exercise those rights.
 
-Data Protection
-
-2004-01
-
 Assisting Gibraltar residents with requests under Article 8 of the Convention.
 
 8.(1)  This paragraph applies where a request for assistance in exercising any of the rights referred to in Article 8 of the Data Protection Convention in a country or territory (other than Gibraltar) specified in the request is-
@@ -57,7 +53,3 @@ the Commissioner may use the information only for the purposes specified in the 
 Foreign designated authority.
 
 10.  In this Part of this Schedule, “foreign designated authority” means an authority designated for the purposes of Article 13 of the Data Protection Convention by a party, other than Gibraltar, which is bound by that Data Protection Convention.
-
-Data Protection
-
-2004-01

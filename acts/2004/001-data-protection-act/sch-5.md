@@ -34,10 +34,6 @@ Review.
 
 (4)  The request may be accompanied by additional documents which the applicant wants the accreditation authority to take into account for the purposes of the review.
 
-Data Protection
-
-2004-01
-
 (5)  If the applicant makes a request in accordance with subparagraphs (1) to (4), the accreditation authority must-
 
 (a) review the decision, and
@@ -72,10 +68,6 @@ Appeal panel.
 
 (b) subject to subsubparagraph (a), the Commissioner must appoint the members of the appeal panel.
 
-Data Protection
-
-2004-01
-
 (4)  Where the request relates to a decision of the Gibraltar national accreditation body -
 
 (a) the Minister-
@@ -108,10 +100,6 @@ Hearing.
 
 (2)  Any additional documents which the applicant or the accreditation authority want the appeal panel to take into account must be submitted to the chair of the appeal panel at least 5 working days before the hearing.
 
-Data Protection
-
-2004-01
-
 (3)  The appeal panel may allow experts and witnesses to give evidence at a hearing.
 
 Decision following referral to appeal panel.
@@ -142,4 +130,4 @@ Meaning of “working day”.
 
 (c) a day which is a bank holiday.
 
-________________________
+____________________

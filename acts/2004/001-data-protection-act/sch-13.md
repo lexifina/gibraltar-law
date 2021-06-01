@@ -26,10 +26,6 @@ General tasks.
 
 General powers.
 
-Data Protection
-
-2004-01
-
 2.  The Commissioner has the following investigative, corrective, authorisation and advisory powers in relation to processing of personal data to which Part III of this Act applies-
 
 (a) to notify the controller or the processor of an alleged infringement of Part III of this Act;
@@ -45,7 +41,3 @@ Definitions.
 3.  In this Schedule-
 
 “foreign designated authority” means an authority designated for the purposes of Article 13 of the Data Protection Convention by a party, other than Gibraltar, which is bound by that Convention;
-
-Data Protection
-
-2004-01

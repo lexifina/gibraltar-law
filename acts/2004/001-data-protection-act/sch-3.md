@@ -34,10 +34,6 @@ Definitions.
 
 2.(1)  In this Part of this Schedule-
 
-Data Protection
-
-2004-01
-
 “the appropriate health professional”, in relation to a question as to whether the serious harm test is met with respect to data concerning health, means-
 
 (a) the health professional who is currently or was most recently responsible for the diagnosis, care or treatment of the data subject in connection with the matters to which the data relates;
@@ -63,10 +59,6 @@ Exemption from the listed GDPR provisions: data subject’s expectations and wis
 4.(1)  This paragraph applies where a request for data concerning health is made in exercise of a power conferred by an enactment or rule of law and-
 
 (a) the data subject is an individual aged under 18 and the person making the request has parental responsibility for the data subject; or
-
-Data Protection
-
-2004-01
 
 (b) the data subject is incapable of managing his or her own affairs and the person making the request has been appointed by a court to  manage those affairs.
 
@@ -95,10 +87,6 @@ Exemption from Article 15 of the Gibraltar GDPR: serious harm.
 (4)  In this paragraph, “the relevant period” means the period of 6 months ending with the day on which the opinion would be relied on.
 
 Restriction of Article 15 of the Gibraltar GDPR: prior opinion of appropriate health professional
-
-Data Protection
-
-2004-01
 
 6.(1)  Article 15(1) to (3) of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not permit the disclosure of data concerning health by a controller who is not a health professional unless the controller has obtained an opinion from the person who appears to the controller to be the appropriate health professional to the effect that the serious harm test is not met with respect to the data.
 
@@ -130,10 +118,6 @@ Definitions.
 
 (2)  For the purposes of this Part of this Schedule, the “serious harm test” is met with respect to social work data if the application of Article 15 of the Gibraltar GDPR to the data would be likely to prejudice carrying out social work, because it would be likely to cause serious harm to the physical or mental health of the data subject or another individual.
 
-Data Protection
-
-2004-01
-
 8.(1)  This Part applies to personal data processed for any of the following descriptions-
 
 (a) by a public authority in connection with social services functions;
@@ -164,10 +148,6 @@ Data Protection
 
 (j) data processed by a court officer for family proceedings or proceedings involving children.
 
-Data Protection
-
-2004-01
-
 Exemption from the listed GDPR provisions: data processed by a court.
 
 9.(1)  The listed GDPR provisions do not apply to data that is not education data or data concerning health if-
@@ -195,10 +175,6 @@ Exemption from the listed GDPR provisions: data subject’s expectations and wis
 (c) which the data subject has expressly indicated should not be so disclosed.
 
 (3)  The exemptions under subparagraph (2)(a) and (b) do not apply if the data subject has expressly indicated that he or she no longer has the expectation mentioned there.
-
-Data Protection
-
-2004-01
 
 Exemption from Article 15 of the Gibraltar GDPR: serious harm.
 
@@ -236,10 +212,6 @@ Other definitions.
 
 14.(1)  In this Part of this Schedule “education data” means personal data consisting of information which-
 
-Data Protection
-
-2004-01
-
 (a) constitutes an educational record; but
 
 (b) is not data concerning health;
@@ -272,14 +244,10 @@ Exemption from Article 15 of the Gibraltar GDPR: child abuse data.
 
 (b) the data subject is incapable of managing his or her own affairs and the person making the request has been appointed by a court to manage those affairs.
 
-Data Protection
-
-2004-01
-
 (2)  Article 15(1) to (3) of the Gibraltar GDPR (confirmation of processing, access to data and safeguards for third country transfers) do not apply to child abuse data to the extent that the application of that provision would not be in the best interests of the data subject.
 
 (3)  “Child abuse data” is personal data consisting of information as to whether the data subject is or has been the subject of, or may be at risk of, child abuse.
 
 (4)  For this purpose, “child abuse” includes physical injury (other than accidental injury) to, and physical and emotional neglect, ill-treatment and sexual abuse of, an individual aged under 18.
 
-________________________
+______________________

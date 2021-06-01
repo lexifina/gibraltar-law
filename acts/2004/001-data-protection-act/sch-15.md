@@ -30,10 +30,6 @@ Restrictions on issuing warrants: procedural requirements.
 
 4.(1)  A judge must not issue a warrant under this Schedule unless satisfied that-
 
-Data Protection
-
-2004-01
-
 (a) the conditions in subparagraphs (2) to (4) are met;
 
 (b) compliance with those conditions would defeat the object of entry to the premises in question; or
@@ -66,10 +62,6 @@ Content of warrants.
 
 (c) to inspect, examine, operate and test any equipment found on the premises which is used or intended to be used for the processing of personal data.
 
-Data Protection
-
-2004-01
-
 (2)  A warrant issued under paragraph 1 must authorise the Commissioner or any of the Commissioner’s officers or staff-
 
 (a) to inspect and seize any documents or other material found on the premises which may be evidence of the failure or offence mentioned in that paragraph;
@@ -89,10 +81,6 @@ Data Protection
 (b) to require any person on the premises to provide an explanation of any document or other material found on the premises and of any information capable of being viewed using equipment on the premises; and
 
 (c) to require any person on the premises to provide such other information as may reasonably be required for the purpose of determining whether the controller or processor has complied or is complying with the data protection legislation.
-
-Data Protection
-
-2004-01
 
 (4)  A warrant issued under this Schedule must authorise the Commissioner or any of the Commissioner’s officers or staff to do the things described in subparagraphs (1) to (3) at any time in the period of 7 days beginning with the day on which the warrant is issued.
 
@@ -128,10 +116,6 @@ Execution of warrants: occupier of premises.
 
 (2)  Otherwise, a copy of the warrant must be left in a prominent place on the premises.
 
-Data Protection
-
-2004-01
-
 Execution of warrants: seizure of documents etc.
 
 10.(1)  This paragraph applies where a person executing a warrant under this Schedule seizes something.
@@ -164,10 +148,6 @@ Matters exempt from inspection and seizure: privileged communications.
 
 (3)  Subparagraphs (1) and (2) do not prevent the exercise of powers conferred by a warrant issued under this Schedule in respect of-
 
-Data Protection
-
-2004-01
-
 (a) anything in the possession of a person other than the professional legal adviser or the adviser’s client; or
 
 (b) anything held with the intention of furthering a criminal purpose.
@@ -197,10 +177,6 @@ Return of warrants.
 (a) it must be returned to the court from which it was issued after being executed; and
 
 (b) the person by whom it is executed must write on the warrant a statement of the powers that have been exercised under the warrant.
-
-Data Protection
-
-2004-01
 
 (2)  Where a warrant issued under this Schedule is not executed, it must be returned to the court from which it was issued within the time authorised for its execution.
 
@@ -234,10 +210,6 @@ Self-incrimination.
 
 (a) paragraph 15; or
 
-Data Protection
-
-2004-01
-
 (b) section 466 of the Crimes Act 2011 (false statutory declarations and other false statements).
 
 Vessels, vehicles etc.
@@ -247,7 +219,3 @@ Vessels, vehicles etc.
 (a) “premises” includes a vehicle, vessel or other means of transport, and
 
 (b) references to the occupier of premises include the person in charge of a vehicle, vessel or other means of transport.
-
-Data Protection
-
-2004-01

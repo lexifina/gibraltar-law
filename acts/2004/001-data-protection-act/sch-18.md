@@ -30,10 +30,6 @@ Merger of the directly applicable GDPR and the applied GDPR.
 
 (b) in relation to references in other enactments, unless the context otherwise requires.
 
-Data Protection
-
-2004-01
-
 3.(1)  Anything done in connection with the EU GDPR as it was directly applicable to Gibraltar before IP completion day, the applied GDPR or this Act-
 
 (a) if in force or effective immediately before IP completion day, continues to be in force or effective on and after IP completion day; and
@@ -59,10 +55,6 @@ Gibraltar GDPR: transfers subject to appropriate safeguards provided by standard
 (b) none of the changes alters the effect of the clauses.
 
 (4)  The following changes are to be treated as falling within subparagraph (3)(a) and (b)-
-
-Data Protection
-
-2004-01
 
 (a) changing references to adequacy decisions made by the European Commission into references to equivalent provision based on adequacy regulations made in accordance with Article 45 of the Gibraltar GDPR;
 
@@ -92,10 +84,6 @@ Data Protection
 
 (2)  Subsections (3) to (8) of section 128A apply in relation to a document issued by the Commissioner under this paragraph as they apply to a document issued by the Commissioner under section 128A(2).
 
-Data Protection
-
-2004-01
-
 Gibraltar GDPR: transfers subject to appropriate safeguards provided by binding corporate rules.
 
 6.(1)  The appropriate safeguards referred to in Article 46(1) of the Gibraltar GDPR may be provided for on and after IP completion day as described in subparagraphs (2) to (4), subject to subparagraph (5).
@@ -117,10 +105,6 @@ Gibraltar GDPR: transfers subject to appropriate safeguards provided by binding 
 (5) Subparagraphs (2) to (4) cease to apply in relation to binding corporate rules if, on or after IP completion day, the Commissioner withdraws the authorisation of the rules (or, where subparagraph (3) is relied on, the authorisation of the rules mentioned in subparagraph (2)).
 
 (5A)  For the purposes of subparagraph (2), binding corporate rules which, immediately before IP completion day, provided for the appropriate safeguards referred to in Article 46(1) of the EU GDPR by virtue of Article 46(5) of the EU GDPR based on an authorisation other than by the Commissioner are to be treated as authorised by the Commissioner where-
-
-Data Protection
-
-2004-01
 
 (a) the rules have been notified to the Commissioner, and
 
@@ -158,10 +142,6 @@ Data Protection
 
 (8)  This paragraph has effect in addition to Article 46(2) and (3) of the Gibraltar GDPR.
 
-Data Protection
-
-2004-01
-
 Part 4
 
 Repeal of provisions in Chapter 3 of Part II
@@ -193,10 +173,6 @@ Part 6
 Enforcement
 
 GDPR: maximum amount of penalties.
-
-Data Protection
-
-2004-01
 
 10.  In relation to an infringement, before IP completion day, of a provision of the EU GDPR (as it was directly applicable to Gibraltar) or the applied GDPR-
 
