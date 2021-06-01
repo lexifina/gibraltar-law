@@ -1,16 +1,14 @@
-Extradition ORDER UNDER SECTION 101 (COMING INTO OPERATION OF THE CODES OF PRACTICE)
+Subsidiary Legislation made under s.101 (2), (3) and (4).
 
-2018-29
+Order Under Section 101 (Coming into Operation of the Codes of Practice)
 
-Subsidiary 2019/105 Subsidiary Legislation made under s.101 (2), (3) and (4).
-
-ORDER UNDER SECTION 101 (COMING INTO OPERATION OF THE CODES OF PRACTICE)
-
-(LN. 2019/105)
+LN.2019/105
 
 Commencement 30.5.2019
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+Act.2018-12 Annex D 1.6.2021
 
 In exercise of the powers conferred upon him by Section 101 (2), (3) and (4) of the Extradition Act 2018, the Minister has appointed 30th May 2019 as the day the Codes of Practice set out in Legal Notice No. 011 of 2019 and modified and laid before the Parliament on 9th May 2019 as annexed to this Notice, come into operation.
 
@@ -36,11 +34,7 @@ Code B Code of Practice for searches of premises by police officers and the seiz
 
 2. General
 
-Extradition ORDER UNDER SECTION 101 (COMING INTO OPERATION OF THE CODES OF PRACTICE)
-
-2018-29
-
-Subsidiary 2019/105 3. Search warrants and production orders
+3. Search warrants and production orders
 
 (a) Before making an application
 
@@ -82,13 +76,7 @@ Subsidiary 2019/105 3. Search warrants and production orders
 
 9. Action after searches and search registers
 
-Code C
-
-Extradition ORDER UNDER SECTION 101 (COMING INTO OPERATION OF THE CODES OF PRACTICE)
-
-2018-29
-
-Subsidiary 2019/105 Code of practice for the arrest, detention and treatment of persons detained under the Extradition Act 2018
+Code C Code of practice for the arrest, detention and treatment of persons detained under the Extradition Act 2018
 
 1. General
 
@@ -129,9 +117,3 @@ ANNEX A -  ARREST UNDER THE EXTRADITION ACT 2018
 ANNEX B- CHECKLIST OF DUTIES FOR CUSTODY OFFICERS IN EXTRADITION CASES
 
 ANNEX C -  SUMMARY OF THE GIBRALTAR EXTRADITION PROCESS
-
-Extradition ORDER UNDER SECTION 101 (COMING INTO OPERATION OF THE CODES OF PRACTICE)
-
-2018-29
-
-Subsidiary 2019/105
