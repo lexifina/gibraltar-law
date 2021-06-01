@@ -8,31 +8,17 @@ Sector Subsector Type of Entity
 
 1. Energy a) Electricity - Electricity undertakings as defined in point (35) of Article 2 of Directive 2009/72/EC of the European Parliament and of the Council (1), which carry out the function of ‘supply’ as defined in point (19) of Article 2 of that Directive
 
-- Distribution system operators as defined in point (6) of Article 2 of Directive 2009/72/EC
+- Distribution system operators as defined in point (6) of Article 2 of Directive 2009/72/EC - Transmission system operators as defined in point (4) of Article 2 of Directive 2009/72/EC
 
-- Transmission system operators as defined in point (4) of Article 2 of Directive 2009/72/EC
+b) Oil - Operators of oil transmission pipelines - Operators of oil production, refining and treatment facilities, storage and transmission c) Gas - Supply undertakings as defined in point (8) of Article 2 of Directive 2009/73/EC of the European Parliament and of the Council (2) - Distribution system operators as defined in point (6) of Article 2 of Directive 2009/73/EC - Transmission system operators as defined in point (4) of Article 2 of Directive 2009/73/EC
 
-b) Oil - Operators of oil transmission pipelines
-
-- Operators of oil production, refining and treatment facilities, storage and transmission
-
-c) Gas - Supply undertakings as defined in point (8) of Article 2 of Directive 2009/73/EC of the European Parliament and of the Council (2)
-
-- Distribution system operators as defined in point (6) of Article 2 of Directive 2009/73/EC
-
-- Transmission system operators as defined in point (4) of Article 2 of Directive 2009/73/EC
-
-Civil Contingencies
-
-2007-14 - Storage system operators as defined in point (10) of Article 2 of Directive 2009/73/EC
+- Storage system operators as defined in point (10) of Article 2 of Directive 2009/73/EC
 
 - LNG system operators as defined in point (12) of Article 2 of Directive 2009/73/EC
 
 - Natural gas undertakings as defined in point (1) of Article 2 of Directive 2009/73/EC
 
-- Operators of natural gas refining and treatment facilities
-
-2. Transport a) Air transport - Air carriers as defined in point (4) of Article 3 of Regulation (EC) No 300/2008 of the  European Parliament and of the Council (3)
+- Operators of natural gas refining and treatment facilities 2. Transport a) Air transport - Air carriers as defined in point (4) of Article 3 of Regulation (EC) No 300/2008 of the European Parliament and of the Council (3)
 
 - Airport managing bodies as defined in point (2) of Article 2 of Directive 2009/12/EC of the European Parliament and of the Council (4), airports as defined in point (1) of Article 2 of that Directive, including the core airports listed in Section 2 of Annex II to Regulation (EU) No 1315/2013 of the European Parliament and of the Council (5), and entities operating ancillary installations contained within airports
 
@@ -40,23 +26,15 @@ Civil Contingencies
 
 b) Rail transport - Infrastructure managers as defined in point (2) of Article 3 of Directive 2012/34/EU of the European Parliament and of the Council (7)
 
-- Railway undertakings as defined in point (1) of Article 3 of Directive 2012/34/EU, including operators of service facilities as defined in point (12) of Article 3 of
+- Railway undertakings as defined in point (1) of Article 3 of Directive 2012/34/EU, including operators of service facilities as defined in point (12) of Article 3 of Directive 2012/34/EU
 
-Civil Contingencies
-
-2007-14 Directive 2012/34/EU
-
-c) Water transport - Inland, sea and coastal passenger and freight water transport companies, as defined for maritime transport in Annex I to Regulation (EC) No 725/2004 of the European Parliament and of the Council (8), not including the individual vessels operated by those companies
-
-- Managing bodies of ports as defined in point (1) of Article 3 of Directive 2005/65/EC of the European Parliament and of the Council (9), including their port facilities as defined in point (11) of Article 2 of Regulation (EC) No 725/2004, and entities operating works and equipment contained within ports
+c) Water transport - Inland, sea and coastal passenger and freight water transport companies, as defined for maritime transport in Annex I to Regulation (EC) No 725/2004 of the European Parliament and of the Council (8), not including the individual vessels operated by those companies - Managing bodies of ports as defined in point (1) of Article 3 of Directive 2005/65/EC of the European Parliament and of the Council (9), including their port facilities as defined in point (11) of Article 2 of Regulation (EC) No 725/2004, and entities operating works and equipment contained within ports
 
 - Operators of vessel traffic services as defined in point (o) of Article 3 of Directive 2002/59/EC of the European Parliament and of the Council (10)
 
 d) Road transport - Road authorities as defined in point (12) of Article 2 of Commission Delegated Regulation (EU) 2015/962 (11) responsible for traffic management control
 
-- Operators of Intelligent Transport Systems as defined in point (1) of Article 4 of Directive 2010/40/EU of the European Parliament and of the Council (12)
-
-3. Banking
+- Operators of Intelligent Transport Systems as defined in point (1) of Article 4 of Directive 2010/40/EU of the European Parliament and of the Council (12) 3. Banking
 
 Credit institutions as defined in point (1) of Article 4 of Regulation (EU) No 575/2013 of the European Parliament and of the Council (13)
 
@@ -64,11 +42,7 @@ Credit institutions as defined in point (1) of Article 4 of Regulation (EU) No 5
 
 - Operators of trading venues as defined in point (24) of Article 4 of Directive 2014/65/EU of the European Parliament and of the Council (14)
 
-- Central counterparties (CCPs) as defined in point (1) of Article 2 of Regulation (EU)
-
-Civil Contingencies
-
-2007-14 No 648/2012 of the European Parliament and of the Council (15)
+- Central counterparties (CCPs) as defined in point (1) of Article 2 of Regulation (EU) No 648/2012 of the European Parliament and of the Council (15)
 
 5. Health sector Health care settings (including hospitals and private clinics) Healthcare providers as defined in point (g) of Article 3 of Directive 2011/24/EU of the European Parliament and of the Council (16)
 
@@ -80,16 +54,8 @@ Suppliers and distributors of water intended for human consumption as defined in
 
 - IXPs
 
-- DNS service providers
+- DNS service providers -TLD name registries
 
--TLD name registries
+(1) Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ L 211, 14.8.2009, p. 55). (2) Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas and repealing Directive 2003/55/EC (OJ L 211, 14.8.2009, p. 94). (3) Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 (OJ L 97, 9.4.2008, p. 72). (4) Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges (OJ L 70, 14.3.2009,   p. 11). (5) Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans–European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p.  1). (6) Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky (the framework Regulation) (OJ L 96, 31.3.2004, p. 1). (7) Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (OJ L 343, 14.12.2012, p. 32). (8) Regulation (EC) No 725/2004 of the European Parliament and of the Council of 31 March 2004 on enhancing ship and port facility security (OJ L 129, 29.4.2004, p. 6). (9) Directive 2005/65/EC of the European Parliament and of the Council of 26 October 2005 on enhancing port security (OJ L 310, 25.11.2005, p. 28). (10) Directive 2002/59/EC of the European Parliament and of the Council of 27 June 2002 establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC (OJ L 208, 5.8.2002, p. 10). (11) Commission Delegated Regulation (EU) 2015/962 of 18 December 2014 supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to the provision of EU–wide real–time traffic information services (OJ L 157, 23.6.2015, p. 21). (12) Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport (OJ L 207, 6.8.2010,  p. 1). (13) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1). (14) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349). (15) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counter-parties and trade repositories (OJ L 201, 27.7.2012, p. 1).
 
-(1) Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ L 211, 14.8.2009, p. 55). (2) Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas and repealing Directive 2003/55/EC (OJ L 211, 14.8.2009, p. 94). (3) Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 (OJ L 97, 9.4.2008, p. 72). (4) Directive 2009/12/EC of the European Parliament and of the Council of 11 March 2009 on airport charges (OJ L 70, 14.3.2009,   p. 11). (5) Regulation (EU) No 1315/2013 of the European Parliament and of the Council of 11 December 2013 on Union guidelines for the development of the trans–European transport network and repealing Decision No 661/2010/EU (OJ L 348, 20.12.2013, p.  1). (6) Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for  the creation of the single European sky (the framework Regulation) (OJ L 96, 31.3.2004, p. 1).
-
-Civil Contingencies
-
-2007-14 (7) Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (OJ L 343, 14.12.2012, p. 32). (8) Regulation (EC) No 725/2004 of the European Parliament and of the Council of 31 March 2004 on enhancing ship and port facility security (OJ L 129, 29.4.2004, p. 6). (9) Directive 2005/65/EC of the European Parliament and of the Council of 26 October 2005 on enhancing port security (OJ L 310, 25.11.2005, p. 28). (10) Directive 2002/59/EC of the European Parliament and of the Council of 27 June 2002 establishing a Community vessel traffic monitoring and information system and repealing Council Directive 93/75/EEC (OJ L 208, 5.8.2002, p. 10). (11) Commission Delegated Regulation (EU) 2015/962 of 18 December 2014 supplementing Directive 2010/40/EU of the European Parliament and of the Council with regard to the provision of EU–wide real–time traffic information services (OJ L 157, 23.6.2015, p. 21). (12) Directive 2010/40/EU of the European Parliament and of the Council of 7 July 2010 on the framework for the deployment of Intelligent Transport Systems in the field of road transport and for interfaces with other modes of transport (OJ L 207, 6.8.2010,  p. 1). (13) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1). (14) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349). (15) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counter-parties and trade repositories (OJ L 201, 27.7.2012, p. 1). (16) Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients' rights in cross– border healthcare (OJ L 88, 4.4.2011, p. 45). (17) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption (OJ L 330, 5.12.1998,  p. 32).
-
-Civil Contingencies
-
-2007-14
+(16) Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients' rights in cross–border healthcare (OJ L 88, 4.4.2011, p. 45). (17) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption (OJ L 330, 5.12.1998, p. 32).

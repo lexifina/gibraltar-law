@@ -32,9 +32,7 @@ The Gibraltar CSIRT –
 
 (d) provide dynamic risk and incident analysis and situational awareness;
 
-Civil Contingencies
-
-2007-14 (e) participate and cooperate in the CSIRTs network.
+(e) participate and cooperate in the CSIRTs network.
 
 (8)  Must establish cooperation relationships with the private sector.
 
@@ -43,7 +41,3 @@ Civil Contingencies
 (a) incident and risk-handling procedures;
 
 (b) incident, risk and information classification schemes.
-
-Civil Contingencies
-
-2007-14
