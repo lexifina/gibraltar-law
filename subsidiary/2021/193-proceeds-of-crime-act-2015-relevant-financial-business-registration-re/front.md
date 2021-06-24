@@ -10,7 +10,7 @@ Commencement 22.3.2021
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2021/209 r. 4(1)(d) 30.3.2021
+LN.2021/209 r. 4(1)(d) 30.3.2021 2021/308 r. 12(2) 24.6.2021
 
 2015-22 Proceeds of Crime 2021/193 Proceeds of Crime Act 2015 (Relevant Financial Business) (Registration) Regulations 2021
 
