@@ -70,7 +70,11 @@ Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 199
 
 rr. 3(46), 6(1), 7(1),(c)(i), 7A(1), 8(1), (4), 9, 12, 14A, 16A(2), 16B(1)-(2), 16C(1)-(2), 16E(1)-(2), (3)(a), 17, 18(a), (d), 20A(1)
 
-1.7.2019
+1.7.2019 2021/343
+
+rr. 7A(1), 9, 12, 14A(1), 16, 16A(2), 16B(7)-(10), (12) 16E(3)(a), 17-18, (a), (d), 19
+
+1.7.2021 2021/433 rr. 2, 3A(1) 1.7.2021
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
@@ -78,7 +82,7 @@ ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title and commencement. 2. Interpretation. 3. Income Exempted. 3A. Treatment of specified pension income. 3B. Revoked. 4. Loans charged on Consolidated Fund. 5. Revoked. 5A. Revoked. 5B. Revoked. 5C. Revoked. 5D. Revoked. 5E. Revoked. 6. Personal Allowance under Allowances Based System. 6A. Limitation on entitlement to claim allowances and deductions under Allowances Based System for individuals. 6B. Restrictions on entitlement to Allowances Based System for spouses or civil partners. 6C. Tax credit for Individuals in Allowances Based System. 7. Deduction for a spouse or a civil partner. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deductions for persons over 65. 16A. Special deduction for senior citizens. 16B. Low income tax allowance and credit. 16C. Special allowance for individuals with total deductions amounting to less than £4,343. 16D. Tax credit for individual’s aged 60 years and over. 16E. Special tax treatment of an individual on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deduction in respect of services of unmarried daughters.
+1. Title and commencement. 2. Interpretation. 3. Income Exempted. 3A. Treatment of specified pension income. 3B. Revoked. 4. Loans charged on Consolidated Fund. 5. Revoked. 5A. Revoked. 5B. Revoked. 5C. Revoked. 5D. Revoked. 5E. Revoked. 6. Personal Allowance under Allowances Based System. 6A. Limitation on entitlement to claim allowances and deductions under Allowances Based System for individuals. 6B. Restrictions on entitlement to Allowances Based System for spouses or civil partners. 6C. Tax credit for Individuals in Allowances Based System. 7. Deduction for a spouse or a civil partner. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deleted. 16A. Special deduction for senior citizens. 16B. Low income tax allowance and credit. 16C. Special allowance for individuals with total deductions amounting to less than £4,343. 16D. Tax credit for individual’s aged 60 years and over. 16E. Special tax treatment of an individual on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deleted.
 
 Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992 1992/016
 
