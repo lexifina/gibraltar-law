@@ -1,8 +1,6 @@
 Entertainments ENTERTAINMENTS (LICENCES AND FEES) RULES.
 
-Subsidiary 1949.06.01 1934-38
-
-Rules deemed to have been made under s.19.
+Subsidiary 1949.06.01 1934-38 Rules deemed to have been made under s.19.
 
 ENTERTAINMENTS (LICENCES AND FEES) RULES
 
@@ -10,11 +8,17 @@ ENTERTAINMENTS (LICENCES AND FEES) RULES
 
 1.1.1950
 
-Amending enactments Relevant current provisions Commencement date rules of   30.4.1953 Sch. 1 regs. of   28.5.1970 Sch. 1
+Amending enactments Relevant current provisions Commencement date
+
+rules of   30.4.1953 Sch. 1 regs. of   28.5.1970 Sch. 1 LN.2021/272 Sch. 2 1.7.2021
+
+________________________
 
 ARRANGEMENT OF RULES.
 
-Rule 1. Title. 2. Form of licence. 3. Fees.
+Rule
+
+1. Title. 2. Form of licence. 3. Fees.
 
 SCHEDULE 1. Form of licence.
 
@@ -33,6 +37,8 @@ Form of licence.
 Fees.
 
 3. The fees payable on the grant or transfer of a licence are those set out in Schedule 2.
+
+__________________
 
 Entertainments ENTERTAINMENTS (LICENCES AND FEES) RULES.
 
