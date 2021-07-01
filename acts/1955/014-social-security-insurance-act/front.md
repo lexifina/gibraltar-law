@@ -126,7 +126,7 @@ Social Security (Insurance)
 
 28.3.2014 2015-111 ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3
 
-30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017 2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021
+30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017 2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021 LN. 2021/304 Sch.1 1.7.2021
 
 English Sources National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -151,10 +151,6 @@ the prescribed time for claiming the benefit shall be the period of 18 months be
 Social Security (Insurance)
 
 1955-14 Transposing: Directive 86/613/EEC Directive 2010/41/EU
-
-Social Security (Insurance)
-
-1955-14
 
 ARRANGEMENT OF SECTIONS.
 
@@ -182,11 +178,13 @@ Widow’s Benefit.
 
 Guardian’s Allowance.
 
-15. revoked.
-
 Social Security (Insurance)
 
-1955-14 Old Age Pensions.
+1955-14
+
+15. revoked.
+
+Old Age Pensions.
 
 16. revoked.. 16A.  revoked. 17. revoked.
 
@@ -214,11 +212,11 @@ Finance.
 
 Administration.
 
-31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board. 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit.
+31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board.
 
 Social Security (Insurance)
 
-1955-14 38. Interim payments, arrears and repayments. 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
+1955-14 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit. 38. Interim payments, arrears and repayments. 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
 
 Legal Proceedings.
 
