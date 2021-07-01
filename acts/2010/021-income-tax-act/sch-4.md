@@ -24,9 +24,7 @@ then, the interest so paid, or payable, to either the connected person or to the
 
 Income Tax
 
-2010-21
-
-“loan capital” means the total interest-bearing debt of a company in an accounting period.
+2010-21 “loan capital” means the total interest-bearing debt of a company in an accounting period.
 
 “equity” means preference shares, whether redeemable or irredeemable and regardless of their accounting treatment, together with shareholders’ funds including the called-up share capital, the share premium account, any capital redemption reserve, the retained profits and any revaluation reserve only where the Commissioner is satisfied as to the substance of such a revaluation.
 
@@ -48,11 +46,11 @@ TRANSACTIONS WITH CONNECTED PERSONS
 
 Transactions with Connected persons.
 
-4.(1)  Where a person carries on business with a connected person and it appears to the Commissioner that the course of business between those persons is so arranged, that the business done by the person chargeable to taxation in pursuance of his connection with the other person produces to the person either no profits, less than the ordinary profits, losses or increases the loss which might be expected to arise from that business, the person shall be assessable and chargeable to tax in respect of the profits which
+4.(1)  Where a person carries on business with a connected person and it appears to the Commissioner that the course of business between those persons is so arranged, that the business done by the person chargeable to taxation in pursuance of his connection with the other person produces to the person either no profits, less than the ordinary profits, losses or increases the loss which might be expected to arise from that business, the person shall be assessable and chargeable to tax in respect of the profits which might be expected to arise from that business if it were transacted in accordance with the remainder of this Schedule.
 
 Income Tax
 
-2010-21 might be expected to arise from that business if it were transacted in accordance with the remainder of this Schedule.
+2010-21
 
 (2)  The amount of any interest paid by a person to a connected party in any year which exceeds the amount of interest which would have been paid to an arm’s length party shall be deemed to be a dividend paid by the person and received by the connected party at the time of payment and shall not be deductible in ascertaining the profits or gains of the person for that year.
 
@@ -106,9 +104,11 @@ Chargeability of dual employment contracts.
 
 6.  Where an employee of an employer ordinarily resident in Gibraltar has one or more other contracts with that or another employer, whether resident in Gibraltar or elsewhere who is a connected person to the employer ordinarily resident in Gibraltar, the income derived from or accruing from all the contracts held by the employee, whether the duties are performed in Gibraltar or elsewhere shall be charged to tax under Schedule 1 Table B (1).
 
+Exemption from Paragraphs 2 and 4 to 6.
+
 Income Tax
 
-2010-21 Exemption from Paragraphs 2 and 4 to 6.
+2010-21
 
 7.(1)  Paragraphs 2 and 4 to 6 shall not apply if the person who would otherwise be assessed shows in writing or otherwise to the satisfaction of the Commissioner either-
 
@@ -138,9 +138,11 @@ Interpretation.
 
 8A. For the purposes of Part V to Part VII unless the context otherwise requires (and subject to paragraph 22) –
 
+“associated enterprise” means:
+
 Income Tax
 
-2010-21 “associated enterprise” means:
+2010-21
 
 (a) an entity in which the taxpayer holds directly or indirectly a participation in terms of voting rights or capital ownership of 25% or more or is entitled to receive 25% or more of the profits of that entity; or
 
@@ -156,9 +158,11 @@ If an individual or entity holds directly or indirectly a participation of 25% o
 
 “entity” means a company, partnership, trust or foundation;
 
+“exceeding borrowing costs” means the amount by which the deductible borrowing costs of a taxpayer exceed taxable interest revenues and other economically equivalent taxable revenues;
+
 Income Tax
 
-2010-21 “exceeding borrowing costs” means the amount by which the deductible borrowing costs of a taxpayer exceed taxable interest revenues and other economically equivalent taxable revenues;
+2010-21
 
 “financial undertaking” means any of the following entities:
 
@@ -180,9 +184,7 @@ Income Tax
 
 Income Tax
 
-2010-21
-
-(i) a central securities depository as defined in point (1) of Article 2(1) of Regulation (EU) No 909/2014 of the European Parliament and of the Council;
+2010-21 (i) a central securities depository as defined in point (1) of Article 2(1) of Regulation (EU) No 909/2014 of the European Parliament and of the Council;
 
 “long-term public infrastructure project” means:
 

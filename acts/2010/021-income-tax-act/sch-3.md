@@ -166,7 +166,23 @@ Provided that where the sum realised or likely to be realised is greater than th
 
 Income Tax
 
-2010-21 Chapter 2 Deleted
+2010-21 Deduction for real property in Gibraltar.
+
+6A.(1) The Commissioner may allow a deduction in an accounting period, or year of assessment, as the case may be, in respect of the amount by which the value of any real property in Gibraltar has diminished by reason of wear and tear arising out of the use by its owner for the purposes of a trade, business, profession or vocation at the rate of 1% per annum of the acquisition cost thereof, excluding the cost of the land on which the premises are situated.
+
+(2) Subject to subparagraph (4) below, where the person carrying on the trade, is not the owner of the premises, the deduction may be allowed on either the former or the latter or apportioned between them.
+
+(3) For the purposes of subparagraph (2), the Minister may make regulations prescribing the manner in which such deductions should be apportioned.
+
+(4) No deduction shall be allowed for any accounting period, or year of assessment, as the case may be, if the deduction exceeds the written down value.
+
+(5) No deduction shall be allowed for any accounting period, or year of assessment, as the case may be, if the person qualifies for a deduction in accordance with paragraph 6 of this Schedule.
+
+(6) A deduction shall only be permitted in relation to any accounting period, or year of assessment, as the case may be, ending in the period extending from 1 July 2021 to 30 June 2023.
+
+(7) For any accounting period, or year of assessment, as the case may be, an amount equivalent to the written down value of the real property disposed of, less any sum realized or likely to be realized by the sale thereof or recoverable under any insurance or indemnity, will be allowed as a deduction, provided that where the sum realised, or likely to be realised, is greater than the written down value, no deduction shall be allowed.
+
+Chapter 2 Deleted
 
 7. Deleted
 
@@ -174,7 +190,9 @@ Chapter 3
 
 First Year Allowances
 
-First year allowances.
+Income Tax
+
+2010-21 First year allowances.
 
 8.(1) Subject to the provisions of this paragraph, where–
 
@@ -182,7 +200,11 @@ First year allowances.
 
 (b) in consequence of his incurring that expenditure, the plant and machinery belongs to the person at some time during the year of assessment or accounting period,
 
-then, for the purpose of ascertaining the assessable income of that person from that trade, business, profession or vocation, a deduction shall be given equivalent to the whole amount of that expenditure up to a maximum of £30,000.
+then, for the purpose of ascertaining the assessable income of that person from that trade, business, profession or vocation, a deduction shall be given equivalent to the whole amount of that expenditure up to a maximum of £30,000, subject to any accounting periods, or years of assessment, as the case may be, ending within the period extending from 1 July 2021 up to and including 30 June 2023, for which the deduction shall be the higher of the following:
+
+(i) £60,000; or
+
+(ii) 50% of the expenditure incurred by the person in accordance with (a) above;
 
 (c) in this paragraph, “plant and machinery”, whether used conjunctively or disjunctively–
 
@@ -200,9 +222,13 @@ Income Tax
 
 (a) a person carrying on any trade, business, profession or vocation incurs in any year of assessment or accounting period, capital expenditure wholly and exclusively on computer equipment for the purposes of producing the income of the trade, business, profession or vocation; and
 
-(b) in consequence of his incurring that expenditure, the computer equipment belong to the person at some time during the year of assessment or accounting period,
+(b) in consequence of his incurring that expenditure, the computer equipment belongs to the person at some time during the year of assessment or accounting period,
 
-then, for the purposes of ascertaining the assessable income of that person from that trade, business, profession or vocation, a deduction shall be given equivalent to the whole amount of that expenditure up to a maximum of £50,000.
+then, for the purposes of ascertaining the assessable income of that person from that trade, business, profession or vocation, a deduction shall be given equivalent to the whole amount of that expenditure up to a maximum of £50,000, subject to any accounting periods, or years of assessment, as the case may be, ending within the period extending from 1 July 2021 to 30 June 2023, for which the deduction shall be the higher of the following:
+
+(i) £100,000; or
+
+(ii) 50% of the expenditure incurred by the person in accordance with (a) above;
 
 (c) in this paragraph, “computer equipment” means any device for electronically storing and processing information, including–
 
@@ -214,15 +240,13 @@ then, for the purposes of ascertaining the assessable income of that person from
 
 (4) Where a person incurs capital expenditure on the provision of plant and machinery or computer equipment under a contract which provides that the person shall become the owner of that plant and machinery or computer equipment on the performance of the contract, that person shall be entitled to the deductions referred to in subparagraphs (1) and (2) above.
 
-(5) In the event of an extended accounting period, as defined by this Act, the allowances under this paragraph will be available in respect of each accounting period determined by the Commissioner in accordance with the provisions of section 16(6) or (7) for the purposes of obtaining the measure of profits for assessment to tax, provided that the Commissioner is satisfied as to the date on which the expenditure being claimed has been incurred.
+Income Tax
+
+2010-21 (5) In the event of an extended accounting period, as defined by this Act, the allowances under this paragraph will be available in respect of each accounting period determined by the Commissioner in accordance with the provisions of section 16(6) or (7) for the purposes of obtaining the measure of profits for assessment to tax, provided that the Commissioner is satisfied as to the date on which the expenditure being claimed has been incurred.
 
 Pool allowance.
 
 9.(1)  Subject to the provisions of this paragraph, where –
-
-Income Tax
-
-2010-21
 
 (a) a person has incurred capital expenditure on the provision of plant and machinery, computer equipment and motor vehicles, wholly and exclusively for the purposes of producing the income of the trade, business, profession or vocation; and
 
@@ -240,15 +264,13 @@ Provided that this expenditure, or any part thereof, has not formed part of a cl
 
 Provided that this expenditure, or any part thereof, has not formed part of a claim for deduction in any previous year of assessment or accounting period;
 
-(c) the capital expenditure incurred on motor vehicles in the year of assessment or accounting period excluding any amount of first year allowance given under paragraph 8(1)(c)(iii);
+Income Tax
+
+2010-21 (c) the capital expenditure incurred on motor vehicles in the year of assessment or accounting period excluding any amount of first year allowance given under paragraph 8(1)(c)(iii);
 
 (d) any balance of (a) to (c) above available from the preceding year of assessment or accounting period;
 
-(e) the attributable value of any “disposed assets” on which capital expenditure has been incurred for the purposes of the production of the income of the trade, business, profession or vocation and which belong to the person at some time during
-
-Income Tax
-
-2010-21 the year of assessment or accounting period and in respect of which, during the year of assessment or accounting period, one of the following applies –
+(e) the attributable value of any “disposed assets” on which capital expenditure has been incurred for the purposes of the production of the income of the trade, business, profession or vocation and which belong to the person at some time during the year of assessment or accounting period and in respect of which, during the year of assessment or accounting period, one of the following applies –
 
 (i) the disposed assets cease to belong to the person;
 
@@ -260,11 +282,21 @@ Income Tax
 
 for the purposes of this subparagraph, the term “disposed assets” includes plant and machinery, computer equipment and motor vehicles as defined in paragraph 8. The reference to value is taken to mean the sale proceeds. Where the sale proceeds are not at arm’s length, the net book value at the date of disposal shall be substituted for the amount received.
 
-(3)  For the purposes of this paragraph and subject to subsubparagraphs (c) to (g) above, the term “pool allowance” shall, for a year of assessment or accounting period, be an allowance equal to –
+(3)  For the purposes of this paragraph and subject to subsubparagraphs (c) to (e) above, the term “pool allowance” shall, for a year of assessment or accounting period, be an allowance equal to –
 
-(a) 20% of the balance of qualifying expenditure in respect of that year of assessment for any person other than a company, or for a company chargeable in accordance with the provisions of Schedule 6 to this Act,
+(a) 20% of the balance of qualifying expenditure in respect of that year of assessment for any person other than a company, or for a company chargeable in accordance with the provisions of Schedule 6 to this Act;
 
-(b) 15% of the balance of qualifying expenditure in respect of the accounting period for any other company.
+(b) 15% of the balance of qualifying expenditure in respect of the accounting period for any other company,
+
+Except that for any accounting periods or years of assessment ending within the period extending from 1 July 2021 to 30
+
+Income Tax
+
+2010-21 June 2023, the allowance shall, for a year or assessment or accounting period, be an allowance equal to-
+
+(c) 30% of the balance of qualifying expenditure in respect of that year of assessment for any person other than a company, or for a company chargeable in accordance with the provisions of Schedule 6 to this Act;
+
+(d) 25% of the balance of qualifying expenditure in respect of the accounting period for any other company.
 
 (4)  If the accounting period is for a period of less than 12 months the allowance in subparagraph (3) shall be apportioned by reference to time.
 
@@ -272,15 +304,17 @@ for the purposes of this subparagraph, the term “disposed assets” includes p
 
 (6)  If for any year of assessment or accounting period, the balance of qualifying expenditure is less than the value of disposed assets referred to in subparagraph (2)(e), the allowance in subparagraph (3) shall be restricted to the value of these disposed assets.
 
-Income Tax
-
-2010-21 (7)  If the balance of qualifying expenditure for any year of assessment or accounting period is less than £1,000, the full amount of the residual qualifying expenditure will be allowed as a deduction for that year of assessment or accounting period.
+(7)  If the balance of qualifying expenditure for any year of assessment or accounting period is less than £1,000, the full amount of the residual qualifying expenditure will be allowed as a deduction for that year of assessment or accounting period.
 
 (8)  If the accounting period is an extended accounting period as defined by this Act, the allowance in subparagraph (3) will be available in respect of each accounting period determined by the Commissioner in accordance with the provisions of sections 16(6) or 16(7) for the purposes of obtaining the measure of profits for assessment to tax, provided that the Commissioner is satisfied as to the date on which the expenditure being claimed has been incurred.
 
 (9)  Where plant and machinery, computer equipment or motor vehicles are used for the purpose of a trade, business, profession or vocation on such terms that the burden of the wear and tear falls on the user and not on the owner thereof, the former person shall, in such circumstances, be entitled to the deduction referred to in subparagraph (3).
 
-(10)  Where a person incurs capital expenditure on the provision of plant and machinery, computer equipment or motor vehicles under a contract which provides that the person shall become the owner of that plant and machinery or computer equipment on the performance of the contract, the person shall be entitled to the deductions referred to in subparagraph (3).
+(10)  Where a person incurs capital expenditure on the provision of plant and machinery, computer equipment or motor vehicles under a contract which provides that the person shall become the owner of that plant and
+
+Income Tax
+
+2010-21 machinery or computer equipment on the performance of the contract, the person shall be entitled to the deductions referred to in subparagraph (3).
 
 (11)  For the purposes of this paragraph–
 
@@ -296,11 +330,11 @@ Income Tax
 
 (a) equipment peripheral to the operation of such a computer; and
 
-Income Tax
-
-2010-21
-
 (b) any software used on such a computer.
+
+(11A)  In respect of the accounting periods or years of assessment ending within the period extending from 1 July 2021 to 30 June 2023, the definition of “plant and machinery” shall include a full electric vehicle, used wholly or partly in the ordinary course of a trade, business, profession or vocation.
+
+(11B)  The Commissioner shall allow up to a maximum of 50% of any allowance or deduction claimed by any person in relation to a full electric vehicle used partly in the ordinary course of the trade, business, profession or vocation.
 
 (12)  Subparagaph (2) shall not apply to any assets purchased and disposed of in the same year of assessment or accounting period.
 
@@ -308,7 +342,11 @@ Income Tax
 
 Deduction for construction costs.
 
-12A.(1) Where a property developer carries out the development of a qualifying project which consists entirely of office accommodation and construction commences between 1 July 2013 and 31 March 2015, the property developer shall be entitled to a deduction of the total amount of the construction costs in accordance with this paragraph.
+12A.(1) Where a property developer carries out the development of a qualifying project which consists entirely of office accommodation and
+
+Income Tax
+
+2010-21 construction commences between 1 July 2013 and 31 March 2015, the property developer shall be entitled to a deduction of the total amount of the construction costs in accordance with this paragraph.
 
 (2) In the first year of assessment or accounting period, as the case may be, following completion of construction of the development project, a deduction of 30 per cent of the total construction costs.
 
@@ -328,15 +366,17 @@ Deduction for construction costs.
 
 (7) In this paragraph–
 
-Income Tax
-
-2010-21 “construction costs” means the total expenditure incurred in the construction of the qualifying project, excluding the cost of the land on which the qualifying project is built, and includes the cost of –
+“construction costs” means the total expenditure incurred in the construction of the qualifying project, excluding the cost of the land on which the qualifying project is built, and includes the cost of –
 
 (a) planning and design of the project including in connection with the obtaining of full planning permission for the erection of the building;
 
 (b) digging and laying foundations for drains, water-pipes and electric cables;
 
 (c) cost of demolition of any building on the land on which the new building was constructed;
+
+Income Tax
+
+2010-21
 
 (d) installing fittings forming part of the building;
 
@@ -354,11 +394,7 @@ Deduction for construction costs: high value accommodation.
 
 (2) In the first year of assessment or accounting period, as the case may be, following completion of construction of the development project, a deduction of 30 per cent of the total construction costs.
 
-(3) In the second to eighth year of assessment or accounting period, as the case may be, following completion of construction of the development
-
-Income Tax
-
-2010-21 project, a deduction of 10 per cent of the total construction costs per year of assessment.
+(3) In the second to eighth year of assessment or accounting period, as the case may be, following completion of construction of the development project, a deduction of 10 per cent of the total construction costs per year of assessment.
 
 (4) A deduction under this paragraph may, at the election of the property developer of the qualifying project, be made from the assessable income of–
 
@@ -368,7 +404,9 @@ Income Tax
 
 (c) the property developer and the occupier in the proportion of 50 per cent each of the total construction costs.
 
-(5) No deduction shall be permitted under this rule unless the claim for deduction is accompanied by a certificate of completion of construction.
+Income Tax
+
+2010-21 (5) No deduction shall be permitted under this rule unless the claim for deduction is accompanied by a certificate of completion of construction.
 
 (6) Any deduction for expenditure given in accordance with this paragraph shall be in addition to any deduction, relief or allowance which may be given in accordance with any other provision of this Act in respect of that same expenditure.
 
@@ -388,9 +426,7 @@ Income Tax
 
 “property developer” means a person who carries out the development of a qualifying project;
 
-Income Tax
-
-2010-21 “qualifying project” means a building development project consisting of high value accommodation and approved by the Commissioner as being a qualifying project for the purposes of this paragraph.
+“qualifying project” means a building development project consisting of high value accommodation and approved by the Commissioner as being a qualifying project for the purposes of this paragraph.
 
 (8) The Minister may make rules for the implementation of the provisions in this paragraph.
 
@@ -399,6 +435,10 @@ Relocation costs.
 12C.(1) A person who–
 
 (a) holds a licence to retail tobacco pursuant to section 6 of the Tobacco Act 1997; and
+
+Income Tax
+
+2010-21
 
 (b) by virtue of changes to that Act and to subsidiary legislation thereto, has been required to relocate from those areas commonly known as Laguna Estate and Glacis Estate to another location,
 
@@ -422,17 +462,17 @@ Chapter 6
 
 Start-ups
 
-Income Tax
-
-2010-21
-
 14A.(1) The capital allowances referred to in Chapters 1 to 5 may be claimed in full against the tax liability arising from the first year of trade, subject to subparagraphs (2) and (3).
 
 (2) No claim can be made under this paragraph if a claim has already been made in accordance with the provisions of Chapters 1 to 5 of this Part and in respect of that same expenditure.
 
 (3) Where the Commissioner is of the opinion-
 
-(a) that a person connected to the company undertook business in Gibraltar before the company’s commencement of business in Gibraltar and that the business undertaken by him was of the same or similar nature (or of an ancillary nature) to the business being undertaken by the company; or
+(a) that a person connected to the company undertook business in Gibraltar before the company’s commencement of business in
+
+Income Tax
+
+2010-21 Gibraltar and that the business undertaken by him was of the same or similar nature (or of an ancillary nature) to the business being undertaken by the company; or
 
 (b) that the incorporation of the company or the commencement of business in Gibraltar by that company is an artificial or fictitious arrangement,
 
@@ -452,13 +492,15 @@ Additional definition of income - interest as a trading receipt.
 
 (a) which carries out the activity of money lending to members of the general public or who advertises or announces itself or holds itself out in any way as carrying on that business or actually carries on that business whether solely or jointly with any other business, trade or vocation; or
 
-Income Tax
-
-2010-21 (b) which is in receipt of interest on funds derived from deposit taking activities as defined in the Financial Services (Banking) Act other than with related counterparts or the proceeds of investment of that interest, which has been placed on deposit with, invested with or loaned to any person; or
+(b) which is in receipt of interest on funds derived from deposit taking activities as defined in the Financial Services (Banking) Act other than with related counterparts or the proceeds of investment of that interest, which has been placed on deposit with, invested with or loaned to any person; or
 
 (3)  Where a person is in receipt of interest which is not taxable in accordance with subparagraph (2), no deduction or expense shall be allowed solely in relation to any amount of interest expended or incurred for the purpose of generating the interest.
 
 (4)  The Commissioner may issue guidance consisting of such information and advice as he considers appropriate with respect to matters within his competence relating to the operation of this paragraph.
+
+Income Tax
+
+2010-21
 
 PART IV
 
@@ -469,6 +511,8 @@ Qualifying training.
 16.(1) Where a person has incurred cost in the provision of qualifying training, an employer may claim a further deduction of 50% of those costs as a deduction under this paragraph in addition to the 100% deduction which may be claimed under paragraph 2(1).
 
 (2) A self-employed individual undertaking qualifying training may also claim the 50% deduction specified in subparagraph (1).
+
+(2A) In respect of accounting periods or years of assessment, as the case may be, ending within the period extending from 1 July to 2021 up to and including 30 June 2023, the deduction referred to in subparagraphs (1) and (2) shall be of 60%.
 
 (3) In this paragraph “qualifying training” means any qualification and training as approved by the Commissioner.
 
@@ -484,15 +528,15 @@ that person may claim a credit of up to 100% of the costs of the architects fees
 
 (2) The total amount which may be claimed under subparagraph (1)–
 
-Income Tax
-
-2010-21
-
 (a) must not exceed £5,000;
 
 (b) may be claimed in respect of any tax liability incurred in the first 3 years of operation; and
 
-(c) the proportion of that credit attributed to an accounting period or year of assessment, as the case may be, must not exceed the amount of tax payable in any given accounting period or year of assessment.
+(c) the proportion of that credit attributed to an accounting period or year of assessment, as the case may be, must not exceed the
+
+Income Tax
+
+2010-21 amount of tax payable in any given accounting period or year of assessment.
 
 Tax credit for Start-Ups.
 
@@ -518,15 +562,63 @@ Tax credit for properties.
 
 the owner of such property shall be entitled to a tax credit in accordance with this paragraph.
 
-Income Tax
-
-2010-21
-
 (2) The tax credit shall be equal to the tax payable on any profits earned by the owner of the property during the first 24 months of rental income.
 
 (3) The rental income must be received within the first five years following the date of completion of the development in which the property is located.
 
-(4) No tax credit shall be permitted under this paragraph unless the claim for the tax credit is accompanied by a certificate of completion of development.
+Income Tax
+
+2010-21 (4) No tax credit shall be permitted under this paragraph unless the claim for the tax credit is accompanied by a certificate of completion of development.
+
+Marketing and promotion.
+
+18.(1) Where a person has incurred cost in the provision of marketing and promotion in an accounting period, or year of assessment, as the case may be, that person may claim a further deduction of 50% of those costs as a deduction under this paragraph in addition to the deduction claimed under paragraph 2(1) of this Schedule.
+
+(2) Any deduction claimed under (1) above, shall be applied in computing the assessable profits for the accounting periods, or years of assessment, as the case may be, ending in the period extending from 1 July 2021 up to and including 30 June 2023.
+
+(3) For the purposes of this paragraph -
+
+“marketing and promotion” means any costs incurred in relation to the active marketing or promotion of products or services to consumers for the purposes of the production of the assessable income of the trade, business, profession or vocation in or from Gibraltar.
+
+Fixed payroll costs.
+
+19.(1) Where a person has incurred fixed payroll costs in an accounting period, or year of assessment, as the case may be, that person may claim a further deduction of 50% of those costs as a deduction under this paragraph in addition to the deduction claimed under paragraph 2(1) of this Schedule.
+
+(2) Any deductions claimed under (1) above, shall be applied in computing the assessable profits for the accounting periods, or years of assessment, as the case may be, ending in the period extending from 1 July 2021 up to and including 30 June 2023.
+
+(3) For the purposes of this paragraph -
+
+(a) “fixed payroll costs” means all payments to registered employees in the form of contracted salaries and wages and excluding bonuses, incentive or compensation payments, overtime, allowances and any similar non-fixed or contracted amount; and
+
+Income Tax
+
+2010-21 (b) “registered employees” mean those registered in employment after 1 July 2021 and in accordance with all the requirements of H.M. Government of Gibraltar’s Employment Service.
+
+Power to amend this Schedule.
+
+20.(1) The Minister may by regulations amend the relevant paragraphs of this Schedule so as to-
+
+(a) amend the amount of any expenditure, allowance or deduction; or
+
+(b) extend any time period;
+
+prescribed in those paragraphs.
+
+(2)  The relevant paragraphs of this Schedule are-
+
+(a) paragraph 6A(1) and (6);
+
+(b) paragraph 8(1)(b) and (2)(b);
+
+(c) the exception to paragraph 9(3) including paragraphs 9(3)(c) and (d);
+
+(d) paragraph 9(11A) and (11B);
+
+(e) paragraph 16(2A); and
+
+(f) paragraphs 18 and 19.
+
+(3)  The regulations may include such supplementary, incidental or consequential provisions as appear to the Minister to be necessary or expedient.
 
 Income Tax
 
