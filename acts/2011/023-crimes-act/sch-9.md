@@ -23,37 +23,3 @@ CONSTITUTION, ETC., OF ADVISORY COUNCIL ON THE MISUSE OF DRUGS
 2.  The Advisory Council may appoint committees, which may consist in part of persons who are not members of the Council, to consider and report to the Council on any matter referred to them by the Council.
 
 3.  At meetings of the Advisory Council the quorum is 3 members, and subject to that the Council may determine its own procedure.
-
-Crimes
-
-2011-23 SCHEDULE 10
-
-(Sections 583 and 590)
-
-DANGEROUS DOGS
-
-PART A
-
-1. Pit Bull Terrier
-
-2. American Staffordshire
-
-3. Japanese Tosa
-
-4. Dogo Argentino
-
-5. Fila Braziliero
-
-6. American Bulldog
-
-PART B Composition of the advisory committee
-
-(a) a veterinary surgeon appointed by Minister with responsibility for the environment, as Chair;
-
-(b) a senior police officer appointed by the Commissioner of Police;
-
-(c) the chief executive officer of the Department of Environment;
-
-(d) two members appointed by the Minister with responsibility for the environment;
-
-(e) an officer of the Environmental Agency, as Secretary.
