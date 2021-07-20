@@ -388,7 +388,17 @@ Free
 
 15%
 
-18%
+18% 45. Duty on motor spirit supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
+
+NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
+
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. A third of the applicabl e stated duty rate for motor spirits 46. Diesel fuel supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
+
+NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
+
+“Diesel fuel” means Automotive Gasoil supplied in litres as contained in the Integrated Tariff Regulations.
+
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. 12p per litre
 
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
