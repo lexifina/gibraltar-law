@@ -44,8 +44,6 @@ that the material should be produced or that access to it should be given.
 
 4.  An order under this paragraph is an order that the person who appears to the judge or magistrate to be in possession of the material to which the application relates must–
 
-2011-24 Criminal Procedure and Evidence
-
 (a) produce it to a police officer for him to take away; or
 
 (b) give a police officer access to it,
@@ -96,8 +94,6 @@ until–
 
 (ii) he has complied with an order under paragraph 4 made on the application.
 
-2011-24 Criminal Procedure and Evidence
-
 Issue of warrant by a judge or magistrate
 
 12.  If on an application made by a police officer a judge or magistrate is satisfied–
@@ -135,5 +131,3 @@ he may issue a warrant authorising a police officer to enter and search the prem
 15.(1)  If a person fails to comply with an order under paragraph 4 or contravenes paragraph 11, a judge may deal with him as if he had committed a contempt of the Supreme Court.
 
 (2)  Any enactment relating to contempt of the Supreme Court has effect in relation to such a failure as if it were such a contempt.
-
-2011-24 Criminal Procedure and Evidence

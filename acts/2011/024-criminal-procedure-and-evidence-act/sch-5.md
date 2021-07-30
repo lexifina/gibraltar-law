@@ -52,12 +52,8 @@ Section 417 (Fraud by failing to disclose information)
 
 Section 418 (Fraud by abuse of position)
 
-2011-24 Criminal Procedure and Evidence
-
 Section 425 (False accounting)
 
 Section 427 (Suppression, etc. of documents)
 
 3.  Any offence under section 504 or 506 of the Crimes Act 2011 (production, supply or possession of controlled drugs) is a trigger offence.
-
-2011-24 Criminal Procedure and Evidence

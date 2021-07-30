@@ -52,8 +52,6 @@ Unlawful importation of Class A drug
 
 Unlawful exportation of Class A drug
 
-2011-24 Criminal Procedure and Evidence
-
 Fraudulent evasion in respect of Class A drug
 
 Producing or being concerned in production of Class A drug
@@ -79,5 +77,3 @@ Inchoate offences
 An offence of conspiracy to commit an offence listed in this Schedule
 
 Aiding, abetting, counselling or procuring the commission of an offence listed in this Schedule
-
-2011-24 Criminal Procedure and Evidence

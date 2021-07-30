@@ -40,8 +40,6 @@ In this Schedule–
 
 “vulnerable adult” means a person aged 18 or over who has a condition of the following type–
 
-2011-24 Criminal Procedure and Evidence
-
 (a) a substantial learning or physical disability;
 
 (b) physical or mental illness or mental disorder, chronic or otherwise, including an addiction to alcohol or drugs; or
@@ -90,8 +88,6 @@ EXCEPTED OFFICES AND EMPLOYMENTS
 
 9.  Any office or employment concerned with the provision of care services to vulnerable adults, and of such a kind as to enable a person, in the course of his normal duties, to have access to vulnerable adults in receipt of such services.
 
-2011-24 Criminal Procedure and Evidence
-
 10.  Any employment or other work concerned with the provision of health services and of such a kind as to enable the holder of the employment or the person engaged in the work to have access to persons in receipt of such services in the course of his normal duties.
 
 11.  Any work in an educational institution if the normal duties of the work involve regular contact with juveniles.
@@ -131,8 +127,6 @@ EXCEPTED OFFICES AND EMPLOYMENTS
 28.  Persons whose work in any Government department gives them access to sensitive or personal information about children or vulnerable adults.
 
 29.  Any office, employment or other work concerned with the establishment or operation of a database under Part XII of the Children Act 2009, if the person has access to information included in the database.
-
-2011-24 Criminal Procedure and Evidence
 
 30.  Any office, employment or other work of a kind that requires or permits a person to be given access to a database under Part XII of the Children Act 2009.
 
@@ -180,11 +174,7 @@ EXCEPTED QUESTIONERS
 
 (b) the approval of any activity; or
 
-(c) the making of an order or the giving of a direction,
-
-2011-24 Criminal Procedure and Evidence
-
-under the financial services legislation.
+(c) the making of an order or the giving of a direction, under the financial services legislation.
 
 2.  Any person who is required by law or who is duly authorised by the Financial Services Commissioner to ask questions as mentioned in paragraph 1, when asking such questions.
 
@@ -236,8 +226,6 @@ EXCEPTED PROCEEDINGS
 
 3.  Proceedings under or arising out of the Gambling Act 2005.
 
-2011-24 Criminal Procedure and Evidence
-
 4.  Proceedings at any hearing conducted pursuant to, or before any tribunal established under, the financial services legislation.
 
 5.  Proceedings under the Mental Health Act 2016 before any tribunal.
@@ -280,10 +268,6 @@ under the financial services legislation, made by reason of, or partly by reason
 
 3.  Any decision by the Financial Services Commission, or any other person or body, to dismiss an individual from, to fail to promote to or to exclude an individual from a status under the financial services legislation by reason of, or partly by reason of, a spent conviction of that individual or of his associate, or of any circumstances ancillary to such a conviction, or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
 
-2011-24 Criminal Procedure and Evidence
-
 4.  Any decision of an investment exchange or clearing house to refuse to admit any person as, or to exclude, a member by reason of, or partly by reason of, a spent conviction of an individual, or of any circumstances ancillary to such a conviction or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
 
 5.  Any decision of the Licensing Authority under the Gambling Act 2005.
-
-2011-24 Criminal Procedure and Evidence

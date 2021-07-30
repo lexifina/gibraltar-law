@@ -1,6 +1,4 @@
-2011-24 Criminal Procedure and Evidence
-
-CRIMINAL PROCEDURE AND EVIDENCE ACT 2011
+Criminal Procedure and Evidence Act 2011
 
 Principal Act
 
@@ -10,15 +8,17 @@ ss. 1 & 703 (LN. 2011/186) 6.10.2011
 
 s.690 (LN. 2011/203) 14.10.2011
 
-ss. 2(1), 610-620, 698, Schs. 11 & 12 (LN. 2012/017) 8.3.2012 ss. 415 and 420 to 423 (LN. 2012/091) 28.6.2012
+ss. 2(1), 610-620, 698, Schs. 11 & 12 (LN. 2012/017) 8.3.2012
 
-ss 3-84, 86-414, 416-419, 424-609, 621- 689, 691-697, 699-702, Schs 1-10 & 13 (LN. 2012/184)
+ss. 415 and 420 to 423 (LN. 2012/091) 28.6.2012
 
-23.11.2012
+ss 3-84, 86-414, 416-419, 424-609, 621- 689, 691-697, 699- 702, Schs 1-10 & 13 (LN. 2012/184)
 
-Assent 12.8.2011
+23.11.2012 Assent 12.8.2011
 
-Amending enactments Relevant current provisions Commencement date Act. 2012-13 ss. 2(1), 170(3), (3)(a) & (4), 225, 226, 241, 244(1) & (4), 245, 246, 247(1)(a) & (4)(a), 248(5), 249, 251(1), (2)(a) & (b), (3), (4), (7), (9) & (12), 252(1), 266A, 359-364, 427(1), 433(1), 434(5) & 695(2)
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2012-13 ss. 2(1), 170(3), (3)(a) & (4), 225, 226, 241, 244(1) & (4), 245, 246, 247(1)(a) & (4)(a), 248(5), 249, 251(1), (2)(a) & (b), (3), (4), (7), (9) & (12), 252(1), 266A, 359-364, 427(1), 433(1), 434(5) & 695(2)
 
 23.11.20121 2013-03 s. 199(3) 17.1.2013 LN. 2013/056 ss. 2(1), 258 & 259 4.4.2013 Act. 2013-21 ss. 12(1)(a), (5), 690(5),(6), 690A & Sch. 14 10.10.20132 LN. 2013/142 ss. 85A - 85F 27.10.2013 Act. 2014-15 ss. 612(1)(b), 613(1), (2), (2A), (2B), (3), (5), (6) & Sch. 11 12.6.2014 LN. 2014/230 ss. 144(4A), (4B), 211(5), (6), 351(3), 352(1), (4), 371(6), (7), 376(1A), (1B), 480(4), (4A), (5)
 
@@ -28,13 +28,11 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 24.1.2019 LN. 2019/017 ss. 107(9), 108(1) 31.1.2019 Act. 2018-25 ss. 2(1), 77(1), 84(8), 85(3), 94A, 685(3), Sch. 14 22.2.2019 LN. 2020/511 ss. 144(4A)-(4B), 211(5)-(6), 351(3), 352(1), (4)(c), 371(6)-(7), 376(1A)-(1B), 480(4), (4A), (5)
 
-1.1.2021 2020/521 s. 77(1) 1.1.2021
+1.1.2021 2020/521 s. 77(1) 1.1.2021 Act. 2021-19 Sch. 14 30.7.2021
 
 Transposing: Directive 2010/64/EU Directive 2011/36/EU Decision 2008/675/JHA
 
 1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136
-
-2011-24 Criminal Procedure and Evidence
 
 ARRANGEMENT OF SECTIONS
 
@@ -64,9 +62,9 @@ General power of seizure, etc
 
 Additional powers of seizure
 
-29. Additional powers of seizure from premises. 30. Additional powers of seizure from the person. 31. Notice of exercise of power under section 29 or 30.
+29. Additional powers of seizure from premises. 30. Additional powers of seizure from the person.
 
-2011-24 Criminal Procedure and Evidence
+31. Notice of exercise of power under section 29 or 30.
 
 Return or retention of seized property
 
@@ -88,11 +86,7 @@ Police detention – conditions and duration
 
 Police detention – miscellaneous
 
-70. Detention after charge.
-
-2011-24 Criminal Procedure and Evidence
-
-71. Power of arrest for failure to answer to police bail. 72. Bail after arrest. 73. Conditions of police bail. 74. Re-arrest of persons on bail. 75. Records of detention. 76. Saving for habeas corpus.
+70. Detention after charge. 71. Power of arrest for failure to answer to police bail. 72. Bail after arrest. 73. Conditions of police bail. 74. Re-arrest of persons on bail. 75. Records of detention. 76. Saving for habeas corpus.
 
 PART 6 – QUESTIONING AND TREATMENT OF PERSONS BY POLICE
 
@@ -110,11 +104,9 @@ Fingerprints, samples, etc]
 
 Retention and destruction of samples, etc
 
-93. Retention of samples and fingerprints, etc. generally. 94. Destruction of samples etc. 94A. Destruction of samples. 95. Destruction of data given voluntarily. 96. Destruction of data relating to persons not convicted. 97. Destruction of data relating to persons under 18 not convicted: Recordable offences other than qualifying offences. 98. Destruction of data relating to persons under 16 not convicted: Qualifying offences. 99. Destruction of data relating to persons aged 16 or 17 not convicted: Qualifying offences. 100. Destruction of data relating to persons under 18 convicted of a recordable offence other than a qualifying offence. 101. Sections 95 to 100: Supplementary provision. 102. Destruction of fingerprints taken under section 86(12).
+93. Retention of samples and fingerprints, etc. generally. 94. Destruction of samples etc. 94A. Destruction of samples. 95. Destruction of data given voluntarily. 96. Destruction of data relating to persons not convicted. 97. Destruction of data relating to persons under 18 not convicted: Recordable offences other than qualifying offences. 98. Destruction of data relating to persons under 16 not convicted: Qualifying offences. 99. Destruction of data relating to persons aged 16 or 17 not convicted: Qualifying offences.
 
-2011-24 Criminal Procedure and Evidence
-
-103. Retention for purposes of security. 104. Retention with consent. 105. Destruction of copies, and notification of destruction. 106. Use of retained material.
+100. Destruction of data relating to persons under 18 convicted of a recordable offence other than a qualifying offence. 101. Sections 95 to 100: Supplementary provision. 102. Destruction of fingerprints taken under section 86(12). 103. Retention for purposes of security. 104. Retention with consent. 105. Destruction of copies, and notification of destruction. 106. Use of retained material.
 
 Photographing of suspects, etc
 
@@ -148,8 +140,6 @@ Sittings of the court
 
 Institution of proceedings
 
-2011-24 Criminal Procedure and Evidence
-
 133. Manner of instituting proceedings. 134. Issue of summons or warrant for arrest. 135. Service of summons after failure to prove service by post. 136. Proceedings invalid if accused did not know of them. 137. Defect in process. 138. Remaining in force of process. 139. Construction of references to “complaints”.
 
 Offences triable on indictment or summarily
@@ -162,15 +152,13 @@ Summary trial
 
 Remands by the Magistrates’ Court
 
-167. Remand: General principles. 168. Remand in custody. 169. Remand on bail. 170. Remands in custody for more than 8 days. 171. Further remand. 172. Remand of defendant already in custody.
+167. Remand: General principles. 168. Remand in custody. 169. Remand on bail. 170. Remands in custody for more than 8 days. 171. Further remand.
+
+172. Remand of defendant already in custody.
 
 Recognizances for good behaviour
 
-173. Binding over. 174. Discharge of recognizance on complaint of surety.
-
-2011-24 Criminal Procedure and Evidence
-
-175. Varying or dispensing with requirements as to sureties. 176. Postponement of taking recognizance. 177. Forfeiture of recognizance.
+173. Binding over. 174. Discharge of recognizance on complaint of surety. 175. Varying or dispensing with requirements as to sureties. 176. Postponement of taking recognizance. 177. Forfeiture of recognizance.
 
 Proceedings against corporations
 
@@ -196,13 +184,13 @@ Committal or sending for trial: Supplementary
 
 Taking of depositions
 
-202. Taking of depositions by a magistrate. 203. Use of depositions as evidence.
+202. Taking of depositions by a magistrate.
+
+203. Use of depositions as evidence.
 
 Reporting restrictions
 
 204. Reporting restrictions: Committal or sending proceedings. 205. Reporting restrictions: Application for dismissal. 206. Offences in connection with reporting.
-
-2011-24 Criminal Procedure and Evidence
 
 Miscellaneous procedure provisions
 
@@ -230,11 +218,7 @@ Preliminary
 
 Duty of disclosure
 
-239. Initial duty of prosecutor to disclose.
-
-2011-24 Criminal Procedure and Evidence
-
-240. Initial duty to disclose: Further provisions. 241. Deleted 242. Voluntary disclosure by defendant 243. Contents of defence statement. 244. Updated disclosure by defendant. 245. Deleted 246. Deleted 247. Disclosure by defendant: Further provisions. 248. Continuing duty of prosecutor to disclose. 249. Application by defendant for disclosure. 250. Prosecutor’s failure to observe time limits. 251. Faults in disclosure by defendant. 252. Time limit for defence disclosure.
+239. Initial duty of prosecutor to disclose. 240. Initial duty to disclose: Further provisions. 241. Deleted 242. Voluntary disclosure by defendant 243. Contents of defence statement. 244. Updated disclosure by defendant. 245. Deleted 246. Deleted 247. Disclosure by defendant: Further provisions. 248. Continuing duty of prosecutor to disclose. 249. Application by defendant for disclosure. 250. Prosecutor’s failure to observe time limits. 251. Faults in disclosure by defendant. 252. Time limit for defence disclosure.
 
 Disclosure: Miscellaneous
 
@@ -264,8 +248,6 @@ Procedure
 
 Powers of the Supreme Court on appeal
 
-2011-24 Criminal Procedure and Evidence
-
 276. Powers of Supreme Court on appeal. 277. Determination of appeals. 278. Appeals against special findings or verdicts. 279. Supplementary powers. 280. Enlargement of time. 281. Power to correct omissions or mistakes. 282. Manner of enforcement of decision. 283. Notification to Magistrates’ Court.
 
 Cases stated
@@ -288,13 +270,13 @@ Pleas
 
 Attendance of witnesses
 
-298. Issue of witness summons on application to Supreme Court. 299. Power to require advance production. 300. Directions if summons no longer needed. 301. Application to make summons under section 298 ineffective. 302. Issue of witness summons of court’s own motion. 303. Application to make summons under section 302 ineffective. 304. Penalty for disobeying a witness summons or requirement. 305. Further process to ensure attendance of witness. 306. Expenses of witnesses.
+298. Issue of witness summons on application to Supreme Court. 299. Power to require advance production. 300. Directions if summons no longer needed. 301. Application to make summons under section 298 ineffective. 302. Issue of witness summons of court’s own motion.
+
+303. Application to make summons under section 302 ineffective. 304. Penalty for disobeying a witness summons or requirement. 305. Further process to ensure attendance of witness. 306. Expenses of witnesses.
 
 Tainted acquittals
 
 307. Acquittals tainted by intimidation, etc. 308. Conditions for making order. 309. Time limits for proceedings.
-
-2011-24 Criminal Procedure and Evidence
 
 Miscellaneous provisions
 
@@ -318,15 +300,13 @@ Principles for admission of evidence
 
 Summoning and calling of witnesses
 
-334. General power to examine witnesses, etc. 335. Witnesses in custody. 336. Arrest and punishment of recalcitrant witnesses. 337 Calling of persons charged. 338. Time for taking defendant’s evidence.
+334. General power to examine witnesses, etc.
+
+335. Witnesses in custody. 336. Arrest and punishment of recalcitrant witnesses. 337 Calling of persons charged. 338. Time for taking defendant’s evidence.
 
 Competence and compellability
 
-339. Competence of witnesses to give evidence. 340. Determining competence of witnesses. 341. Deciding whether witness to be sworn. 342. Reception of unsworn evidence.
-
-2011-24 Criminal Procedure and Evidence
-
-343. Abolition of right of defendant to make unsworn statement. 344. Competence of persons charged and their spouses. 345. Defendant’s spouse as a witness. 346. Defendant’s spouse as a witness: Supplementary. 347. Evidence by spouses about property. 348. Limitation of rule against self-incrimination.
+339. Competence of witnesses to give evidence. 340. Determining competence of witnesses. 341. Deciding whether witness to be sworn. 342. Reception of unsworn evidence. 343. Abolition of right of defendant to make unsworn statement. 344. Competence of persons charged and their spouses. 345. Defendant’s spouse as a witness. 346. Defendant’s spouse as a witness: Supplementary. 347. Evidence by spouses about property. 348. Limitation of rule against self-incrimination.
 
 Convictions and acquittals
 
@@ -342,13 +322,13 @@ Inferences from silence
 
 Evidence of bad character
 
-365. Interpretation of sections 366 to 379. 366. “Bad character”. 367 Abolition of common law rules. 368. Non-defendant’s bad character. 369. Defendant’s bad character. 370. “Important explanatory evidence”. 371. “Matter in issue between the defendant and the prosecution”. 372. “Matter in issue between the defendant and a co-defendant”. 373. Evidence to correct a false impression. 374. Attack on another person’s character. 375. Stopping the case if evidence contaminated. 376. Offences committed by defendant when a child. 377. Assumption of truth in assessment of relevance or probative value. 378. Court’s duty to give reasons for rulings. 379. Rules of court.
+365. Interpretation of sections 366 to 379. 366. “Bad character”. 367 Abolition of common law rules. 368. Non-defendant’s bad character. 369. Defendant’s bad character. 370. “Important explanatory evidence”. 371. “Matter in issue between the defendant and the prosecution”. 372. “Matter in issue between the defendant and a co-defendant”. 373. Evidence to correct a false impression.
+
+374. Attack on another person’s character. 375. Stopping the case if evidence contaminated. 376. Offences committed by defendant when a child. 377. Assumption of truth in assessment of relevance or probative value. 378. Court’s duty to give reasons for rulings. 379. Rules of court.
 
 Derogatory assertions
 
 380. Orders in respect of certain assertions. 381. Restriction on reporting of assertions. 382. Reporting of assertions: Offences.
-
-2011-24 Criminal Procedure and Evidence
 
 Expert evidence
 
@@ -364,7 +344,7 @@ PART 17 – HEARSAY EVIDENCE
 
 Principal categories of admissibility
 
-391. Cases where a witness is unavailable. 392. Business and other documents. 393. Preservation of certain common law categories of admissibility. 394. Inconsistent statements. 395. Witness may be discredited by the party producing . 396. Proof of contradictory statements of adverse witness . 397. Other previous statements of witnesses.
+391. Cases where a witness is unavailable. 392. Business and other documents. 393. Preservation of certain common law categories of admissibility. 394. Inconsistent statements. 395. Witness may be discredited by the party producing. 396. Proof of contradictory statements of adverse witness. 397. Other previous statements of witnesses.
 
 Hearsay: Supplementary
 
@@ -372,7 +352,9 @@ Hearsay: Supplementary
 
 Documents
 
-405. Proof by written statement. 406. Evidence by certificate. 407. Proof of identity of driver of vehicle. 408. Proof of statements in documents. 409. Use of documents to refresh memory. 410. Microfilm copies.
+405. Proof by written statement. 406. Evidence by certificate.
+
+407. Proof of identity of driver of vehicle. 408. Proof of statements in documents. 409. Use of documents to refresh memory. 410. Microfilm copies.
 
 Video recordings
 
@@ -380,11 +362,7 @@ Video recordings
 
 Documentary evidence: Supplementary
 
-413. Documentary evidence: Supplementary.
-
-2011-24 Criminal Procedure and Evidence
-
-414. Documents produced as exhibits.
+413. Documentary evidence: Supplementary. 414. Documents produced as exhibits.
 
 PART 18 – LIVE LINK EVIDENCE, ETC.
 
@@ -416,8 +394,6 @@ Special measures: General
 
 Use of live link and intermediary for evidence of certain defendants
 
-2011-24 Criminal Procedure and Evidence
-
 446. Live link directions. 447. Meaning of “live link”. 448. Examination of defendant through intermediary. 449. Further provision as to directions under section 448.
 
 Protection of witnesses from cross-examination by defendant in person
@@ -438,15 +414,15 @@ Reporting restrictions: Identity of victims
 
 Anonymity of witnesses
 
-469. Witness anonymity orders. 470. Applications for orders. 471. Conditions for making order. 472. Relevant considerations. 473. Warning to jury. 474. Discharge or variation of order. 475. Discharge or variation after proceedings. 476. Discharge or variation on appeal.
+469. Witness anonymity orders.
+
+470. Applications for orders. 471. Conditions for making order. 472. Relevant considerations. 473. Warning to jury. 474. Discharge or variation of order. 475. Discharge or variation after proceedings. 476. Discharge or variation on appeal.
 
 Miscellaneous provisions
 
 477. Regulations, orders and rules of court. 478. Savings.
 
 PART 20 – SENTENCING: GENERAL PRINCIPLES
-
-2011-24 Criminal Procedure and Evidence
 
 Principles for sentencing
 
@@ -484,8 +460,6 @@ Consecutive sentences
 
 Suspended sentences
 
-2011-24 Criminal Procedure and Evidence
-
 507. Suspended sentences. 508. Prison sentence partly served and partly suspended. 509. Powers of court on conviction for further offence.
 
 Detention
@@ -506,15 +480,13 @@ Discharge
 
 Community sentences
 
-521. Community orders. 522. Youth rehabilitation orders. 523. Unpaid work requirement. 524. Activity requirement. 525. Programme requirement. 526. Prohibited activity requirement. 527. Curfew requirement. 528. Exclusion requirement. 529. Residence requirement. 530. Mental health treatment requirement. 531. Mental health treatment at place other than as specified in order. 532. Drug rehabilitation requirement. 533. Drug rehabilitation requirement: Provision for review by court. 534. Periodic review of drug rehabilitation requirement. 535. Alcohol treatment requirement. 536. Intoxicating substance treatment requirement. 537. Supervision requirement.
+521. Community orders. 522. Youth rehabilitation orders. 523. Unpaid work requirement. 524. Activity requirement. 525. Programme requirement. 526. Prohibited activity requirement. 527. Curfew requirement. 528. Exclusion requirement.
+
+529. Residence requirement. 530. Mental health treatment requirement. 531. Mental health treatment at place other than as specified in order. 532. Drug rehabilitation requirement. 533. Drug rehabilitation requirement: Provision for review by court. 534. Periodic review of drug rehabilitation requirement. 535. Alcohol treatment requirement. 536. Intoxicating substance treatment requirement. 537. Supervision requirement.
 
 Further provisions about relevant orders
 
-538. Relevant order made by Supreme Court: Direction in relation to further proceedings. 539. Relevant orders made on appeal. 540. Duties of responsible officer. 541. Requirement must avoid conflict with religious beliefs, etc. 542. Provision of copies of relevant orders.
-
-2011-24 Criminal Procedure and Evidence
-
-543. Duty of offender to keep in touch with responsible officer.
+538. Relevant order made by Supreme Court: Direction in relation to further proceedings. 539. Relevant orders made on appeal. 540. Duties of responsible officer. 541. Requirement must avoid conflict with religious beliefs, etc. 542. Provision of copies of relevant orders. 543. Duty of offender to keep in touch with responsible officer.
 
 Breach or requirement of community sentence
 
@@ -540,11 +512,7 @@ Imposing of fines
 
 Juvenile offenders
 
-575. Limit on fines imposed by Magistrates’ Court in respect of juveniles. 576. Power to order statement as to financial circumstances of parent or guardian. 577. Power to order parent or guardian to pay fine, costs or compensation.
-
-2011-24 Criminal Procedure and Evidence
-
-578. Fixing of fine or compensation to be paid by parent or guardian.
+575. Limit on fines imposed by Magistrates’ Court in respect of juveniles. 576. Power to order statement as to financial circumstances of parent or guardian. 577. Power to order parent or guardian to pay fine, costs or compensation. 578. Fixing of fine or compensation to be paid by parent or guardian.
 
 Enforcement of fines and recognizances
 
@@ -574,9 +542,7 @@ Forfeiture
 
 Miscellaneous
 
-607. Awards for courage in arrest. 608. Levels of compensation. 609. Power of court to allow time for payment, or payment by  instalments, of costs and compensation.
-
-2011-24 Criminal Procedure and Evidence
+607. Awards for courage in arrest. 608. Levels of compensation. 609. Power of court to allow time for payment, or payment by instalments, of costs and compensation.
 
 PART 25 – REHABILITATION OF OFFENDERS
 
@@ -594,7 +560,9 @@ Juvenile Courts
 
 Imprisonment or detention of young offenders
 
-628. Restrictions on reports of proceedings in which juveniles are concerned. 629. Juveniles who commit murder, etc. to be detained at Her Majesty’s pleasure. 630. Juveniles who commit certain serious offences to be detained for specified period. 631. Duty to impose imprisonment for life in certain cases where offender under 21. 632. Duty to remit young offenders to the Juvenile Court for sentence. 633. Remitting an offender who attains the age of 18 to the Magistrates’ Court for sentence.
+628. Restrictions on reports of proceedings in which juveniles are concerned. 629. Juveniles who commit murder, etc. to be detained at Her Majesty’s pleasure. 630. Juveniles who commit certain serious offences to be detained for specified period.
+
+631. Duty to impose imprisonment for life in certain cases where offender under 21. 632. Duty to remit young offenders to the Juvenile Court for sentence. 633. Remitting an offender who attains the age of 18 to the Magistrates’ Court for sentence.
 
 Reparation orders on young offenders
 
@@ -606,11 +574,7 @@ Fines on young offenders
 
 Binding over of parent or guardian
 
-641. Binding over of parent or guardian.
-
-2011-24 Criminal Procedure and Evidence
-
-642. Attendance at court of parent or guardian.
+641. Binding over of parent or guardian. 642. Attendance at court of parent or guardian.
 
 Schedule 13 offences
 
@@ -638,11 +602,7 @@ Hospital orders
 
 Transfer to hospital of prisoners, etc.
 
-671. Removal to hospital of persons serving sentences of imprisonment, etc. 672. Removal to hospital of other prisoners. 673. Prisoners under sentence. 674. Detained persons. 675. Persons remanded by the Magistrates’ Court.
-
-2011-24 Criminal Procedure and Evidence
-
-676. Persons detained under the Immigration, Asylum and Refugee Act.
+671. Removal to hospital of persons serving sentences of imprisonment, etc. 672. Removal to hospital of other prisoners. 673. Prisoners under sentence. 674. Detained persons. 675. Persons remanded by the Magistrates’ Court. 676. Persons detained under the Immigration, Asylum and Refugee Act.
 
 Supervision orders
 
@@ -660,7 +620,9 @@ Codes of practice
 
 PART 30 – MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-693. Police officers performing duties of higher rank. 694. Power of police officer to use reasonable force. 695. Application of Act to other public officers. 696. Rules of court. 697. Regulations. 698. Amendment of Schedules. 699. Repeals and savings. 700. Transitional provisions. 701. Consequential amendments. 702. Service of documents. 703. Amendment of the Criminal Procedure Act (Police Detention).
+693. Police officers performing duties of higher rank.
+
+694. Power of police officer to use reasonable force. 695. Application of Act to other public officers. 696. Rules of court. 697. Regulations. 698. Amendment of Schedules. 699. Repeals and savings. 700. Transitional provisions. 701. Consequential amendments. 702. Service of documents. 703. Amendment of the Criminal Procedure Act (Police Detention).
 
 SCHEDULES
 
@@ -673,8 +635,6 @@ Schedule 3 Designated police stations (Sections 2(1) and 56)
 Schedule 4 Fingerprinting and samples: attendance at police station (Section 90(11)
 
 Schedule 5 Trigger offences for testing for drugs (Sections 2(1) and 91)
-
-2011-24 Criminal Procedure and Evidence
 
 Schedule 6 Offences that are only triable summarily (Sections 145(3), 148(1) and (9) and 163(1))
 
@@ -693,7 +653,5 @@ Schedule 12 Exceptions to rehabilitation (Sections 616 and 617(1))
 Schedule 13 Offences against juveniles with respect to which special provisions apply (Sections 643 to 648)
 
 Schedule 14 Summary offences in respect of which an application under section 12 may be made
-
-2011-24 Criminal Procedure and Evidence
 
 AN ACT TO MAKE FRESH PROVISION IN RELATION TO THE POWERS AND DUTIES OF THE POLICE, THE TREATMENT OF PERSONS IN POLICE DETENTION, AND EVIDENCE AND PROCEDURE IN CRIMINAL CASES; AND FOR CONNECTED PURPOSES.

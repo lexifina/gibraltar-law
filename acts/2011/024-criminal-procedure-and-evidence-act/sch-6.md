@@ -34,8 +34,6 @@ In the case of damage to the vehicle involved in the offence –
 
 (a) if immediately after the vehicle was recovered the damage was capable of repair–
 
-2011-24 Criminal Procedure and Evidence
-
 (i)  what would probably then have been the market price for the repair of the damage, or
 
 (ii) what the vehicle would probably have cost to buy in the open market immediately before it was unlawfully taken,
@@ -43,5 +41,3 @@ In the case of damage to the vehicle involved in the offence –
 whichever is the less; or
 
 (b) if immediately after the vehicle was recovered the damage was beyond repair, what the vehicle would probably have cost to buy in the open market immediately before it was unlawfully taken.
-
-2011-24 Criminal Procedure and Evidence

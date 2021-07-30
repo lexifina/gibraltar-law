@@ -46,8 +46,6 @@ Sexual offences (persons under the age of 16) category
 
 4.  An offence under section 110 of that Act (Intercourse with a defective) if it was committed in relation to a person under the age of 16.
 
-2011-24 Criminal Procedure and Evidence
-
 5.  An offence under section 112 of that Act (Incest by a man) if it was committed in relation to a person under the age of 16.
 
 6.  An offence under section 113 of that Act (Incest by a woman) if it was committed in relation to a person under the age of 16.
@@ -86,8 +84,6 @@ Sexual offences (persons under the age of 16) category
 
 25.  An offence under section 246 of that Act (Causing a person with a mental disorder to engage in or agree to engage in sexual activity by inducement, threat or deception) if the person is under 16.
 
-2011-24 Criminal Procedure and Evidence
-
 26.  An offence under section 249 of that Act (Care workers: Sexual activity with a person with a mental disorder) if the person is under 16.
 
 27.  An offence under section 250 of that Act (Care workers: Causing or inciting sexual activity) if it was committed in relation to a person under the age of 16.
@@ -97,5 +93,3 @@ Sexual offences (persons under the age of 16) category
 (a) aiding, abetting, counselling, procuring or inciting the commission of an offence specified in this Part of this Schedule; or
 
 (b) attempting or conspiring to commit an offence so specified.
-
-2011-24 Criminal Procedure and Evidence

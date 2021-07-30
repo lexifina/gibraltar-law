@@ -30,11 +30,7 @@ Persons convicted, etc. of an offence in Gibraltar 3.(1)  A police officer may r
 
 Persons convicted, etc. of an offence outside Gibraltar 4.  A police officer may require a person to attend a police station for the purpose of taking his fingerprints under section 86(14).
 
-Multiple attendance 5.(1)  If a person’s fingerprints have been taken under section 86 on 2 occasions in relation to any offence, he may not under this Schedule be required to attend a police station to have his fingerprints taken under that
-
-2011-24 Criminal Procedure and Evidence
-
-section in relation to that offence on a subsequent occasion without the authorisation of an officer of at least the rank of Inspector.
+Multiple attendance 5.(1)  If a person’s fingerprints have been taken under section 86 on 2 occasions in relation to any offence, he may not under this Schedule be required to attend a police station to have his fingerprints taken under that section in relation to that offence on a subsequent occasion without the authorisation of an officer of at least the rank of Inspector.
 
 (2)  If an authorisation is given under sub-paragraph (1)–
 
@@ -64,9 +60,7 @@ Persons charged. etc. 9.(1)  A police officer may require a person to attend a p
 
 Persons convicted etc of an offence in Gibraltar 10.(1)  A police officer may require a person to attend a police station for the purpose of taking a non-intimate sample from him under section 89(8)(a).
 
-(2)  If the condition in section 89(8)(c) is satisfied (sample not taken previously), the power under sub- paragraph (1) above may not be exercised later than 2 years after the day on which the person was convicted or cautioned.
-
-2011-24 Criminal Procedure and Evidence
+(2)  If the condition in section 89(8)(c) is satisfied (sample not taken previously), the power under sub-paragraph (1) above may not be exercised later than 2 years after the day on which the person was convicted or cautioned.
 
 (3)  If the condition in section 89(8)(d) is satisfied (sample taken on a previous occasion not suitable, etc.), the power under subparagraph (1) may not be exercised later than 2 years after the day on which an appropriate officer was informed of the matters specified in section 89(8)(d)(i) or(ii).
 
@@ -108,10 +102,6 @@ Date and time of attendance 14.(1)  A requirement under this Schedule–
 
 (b) the reasons for giving it,
 
-2011-24 Criminal Procedure and Evidence
-
 must be recorded as soon as practicable after it has been given.
 
 (5)  If the police officer giving a requirement under this Schedule and the person to whom it is given so agree, it may be varied so as to specify any period within which, or date or time at which, the person must attend; but a variation does not have effect unless confirmed by the police officer in writing.
-
-2011-24 Criminal Procedure and Evidence

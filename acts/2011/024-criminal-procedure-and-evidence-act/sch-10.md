@@ -13,5 +13,3 @@ An amount not exceeding £200 7 days An amount exceeding £200 but not exceeding
 (a) any fraction of a day is to be left out of account; and
 
 (b) the maximum period must not be reduced to less than 5 days.
-
-2011-24 Criminal Procedure and Evidence

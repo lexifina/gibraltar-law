@@ -19,5 +19,3 @@ PART C
 MAXIMUM FINE PAYABLE BY A YOUNG PERSON
 
 The maximum fine payable by a young person is £2,000.
-
-2011-24 Criminal Procedure and Evidence
