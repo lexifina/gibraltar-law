@@ -1,8 +1,6 @@
 Public Health
 
-1950-07
-
-PUBLIC HEALTH ACT
+1950-07 PUBLIC HEALTH ACT
 
 Principal Act
 
@@ -62,11 +60,11 @@ Regs. of 28.5.1970
 
 Acts 1971-02 s. 282
 
+1972-05 ss.13(12), 21(3), 25(3), 29(2), 30(3), 31(2), 32, 33(6), 37(4),
+
 Public Health
 
-1950-07 1972-05 ss.13(12), 21(3), 25(3), 29(2), 30(3), 31(2), 32, 33(6), 37(4), 38(1), 39(2), 40(4), 41(2), 42(2), 43(2), 55(2), 61(3), 65(2), 66(3), 72(2), 77(1), 78(2), 83(2), 84(1), 94, 111, 124, 126(1), 127, 128(1), 129, 130(1), 131(2), 141, 143(4), 144(2), 147, 154(2), 156(1), 157, 158(1), 159(3), 160(4), 163(3), 164, 165, 170(3), 173(4), 174(2), 190, 207, 233, 253(2), 254(2), 257, 259(2), 261(2)-(3), 263(3), 314, 321, 322(2), 330(6)
-
-1973-08 –
+1950-07 38(1), 39(2), 40(4), 41(2), 42(2), 43(2), 55(2), 61(3), 65(2), 66(3), 72(2), 77(1), 78(2), 83(2), 84(1), 94, 111, 124, 126(1), 127, 128(1), 129, 130(1), 131(2), 141, 143(4), 144(2), 147, 154(2), 156(1), 157, 158(1), 159(3), 160(4), 163(3), 164, 165, 170(3), 173(4), 174(2), 190, 207, 233, 253(2), 254(2), 257, 259(2), 261(2)-(3), 263(3), 314, 321, 322(2), 330(6) 1973-08 –
 
 1973-18 s. 242
 
@@ -112,11 +110,11 @@ Public Health
 
 1983-32 –
 
-1985-03 s. 280 24.1.1985 1985-04 Sch. 2 1.4.1985 1985-14 s. 294, Sch. 4 26.4.1985 “ s. 272(5) 1.7.1985 1986-08 s. 279 1.5.1986
+1985-03 s. 280 24.1.1985 1985-04 Sch. 2 1.4.1985 1985-14 s. 294, Sch. 4 26.4.1985 “ s. 272(5) 1.7.1985 1986-08 s. 279 1.5.1986 “ Sch. 1 1.6.1986 1987-09 ss. 301A, 302, 302A, 303(5), 19.2.1987
 
 Public Health
 
-1950-07 “ Sch. 1 1.6.1986 1987-09 ss. 301A, 302, 302A, 303(5), 306(2) 19.2.1987 “ ss. 272(4) and 297(1A) 1.4.1987 1987-34 ss. 2, 72-74, 87, 144, 149-152, 155- 158, 160, 162-163, 167-168, 168, 173(3), 174, 178(1), (1A), 182-185, 187-188, 190, 193- 195, 197-204, 223-226, 228- 230, 235,
+1950-07 306(2) “ ss. 272(4) and 297(1A) 1.4.1987 1987-34 ss. 2, 72-74, 87, 144, 149-152, 155- 158, 160, 162-163, 167-168, 168, 173(3), 174, 178(1), (1A), 182-185, 187-188, 190, 193- 195, 197-204, 223-226, 228- 230, 235,
 
 1.2.1988 “ s. 178(1), (1A), (2) 31.3.1988 1988-07 ss. 110, 213A 23.6.1988 “ s. 272(3) 1.7.1988 1988-36 ss. 117(2), 271(1), 272A, 275, 289(2)-(3), 291(2), 294(4), 297(1), (1A), 300(1)
 
@@ -126,11 +124,13 @@ Public Health
 
 9.8.1990 1990-32 ss. 2, 4, 269(b), 271(4), 279(i), 293(3), 301A(1)(a)-(b), 308(1)- (2), 314, 316(1), 317(1)-(2), 320(1)-(3), (7)
 
-1.11.1990 1991-07 ss. 8(3), 13(2), 15(5), 16(1), 21(3), 25(3), 29(2), 30(3), 31(2), 32(a)- (b), 33(5)-(6), 35, 37(4), 38(1), 39, 40(4), 41, 42(3), 43, 54-55, 61(3), 65(2), 66-67, 69, 71-72, 77(1), 78(2), 83(3), 84, 92, 94(1)-(3), 97(1), 107(4), 111(1)- (2), 112(1)(f), 117(1), 124, 126(1), 127(1)-(3), 128(1), 129, 130(1), 131(2), 141, 143(4), 144(2), 147-148, 149(2), 150(2), 151(4) 152(4), 153(3), 154(2), 155(4), 156(1), 157(1)-(3), 158(1), 159(3), 160(4), 163(3), 164-165, 170(3), 173(4), 174(2), 190, 220, 233, 253(2), 254(2), 257-258, 259(2), 261(2)-(3), 263(3), 288, 304(3), (5), 308(3), 309(1)-(3), 310(3), 314, 320(5), 321, 322(2), 330(6)(b), 337(b)-
+1.11.1990 1991-07 ss. 8(3), 13(2), 15(5), 16(1), 21(3), 25(3), 29(2), 30(3), 31(2), 32(a)- (b), 33(5)-(6), 35, 37(4), 38(1), 39, 40(4), 41, 42(3), 43, 54-55, 61(3), 65(2), 66-67, 69, 71-72, 77(1), 78(2), 83(3), 84, 92, 94(1)-(3), 97(1), 107(4), 111(1)- (2), 112(1)(f), 117(1), 124, 126(1), 127(1)-(3), 128(1), 129, 130(1), 131(2), 141, 143(4), 144(2), 147-148, 149(2), 150(2), 151(4) 152(4), 153(3), 154(2), 155(4), 156(1), 157(1)-(3), 158(1), 159(3), 160(4), 163(3), 164-165, 170(3), 173(4), 174(2), 190, 220, 233, 253(2), 254(2), 257-258, 259(2), 261(2)-(3), 263(3), 288, 304(3), (5), 308(3), 309(1)-(3), 310(3), 314, 320(5), 321, 322(2), 330(6)(b), 337(b)- (d)
+
+4.4.1991 1993-24 ss. 117(3), 272A(5)-(6) 9.12.1993
 
 Public Health
 
-1950-07 (d) 4.4.1991 1993-24 ss. 117(3), 272A(5)-(6) 9.12.1993 LN. 1994/115 ss. 95A-95H, 95J-95N, 95P, Schs. 4-11
+1950-07 LN. 1994/115 ss. 95A-95H, 95J-95N, 95P, Schs. 4-11
 
 27.10.1994 1994/129 Sch. 7 27.10.1994 1994/125 ss. 99(1)-(4), 110(1)-(7), 111(1), 114
 
@@ -154,11 +154,11 @@ Public Health
 
 1.8.2003 2004-10 s. 192KA(1)-(3), (5), (7)-(9), Sch. 11A
 
-7.6.2004
+7.6.2004 2005-02 ss. 113(3), 117(2), Schs. 1-2 17.3.2005 2005-54 s. 279(k) 1.7.2005
 
 Public Health
 
-1950-07 2005-02 ss. 113(3), 117(2), Schs. 1-2 17.3.2005 2005-54 s. 279(k) 1.7.2005
+1950-07
 
 “ s. 277A 1.10.2005 2005-71 s. 192M(2A)-(2E) 22.12.2005 2006-09 ss. 95A(1), 95B(3)(c)-(e), 95D(1), 95E(3A), (4)(b)(iii), (ba), 95F(8A)-(8B), 95G(1), (2), (3)(b), 95H(2)(c)-(d), (3), 95J(1), 95M(1) Schs. 6-9
 
@@ -166,11 +166,15 @@ Public Health
 
 14.6.2007 2007-23 s. 19(1)(b) 28.6.2007 2009-36 s. 277A 1.7.2009 LN. 2010/092 s. 76(1)(b) 13.5.2010 Act. 2010-19 s. 277A(a)-(c), Sch. 3 1.7.2010 LN. 2011/052 ss. 192A, 192B(2)(bb), (e), (3), (3A), 192BA, 192C(3a) (aa)-(ac), (4)(a)-(d), 192D(2)(a)(ii), (1A), (2)(c)(iii), (iv), (3), (6), (6A), (8)(a)-(d), (9)-(10), 192DA, 192E(2), 192G-192H, 192KA(8). (8A)-(8B), 192KB-192KC, 192L, 192M(1), (1A)-(1C), (2)-(3), 192MA-192MC, 192U, 192W(1), (3), 192X-192Y, Schs. 11A-11B, 12-14, 14A-14C, 15
 
-12.4.2011 Act. 2011-10 ss. 2, 36(2), 44-45, 47, 48(5)(a), 52, 54, 62(2), 63(1), 70, 76(2), 85(1)(a), 93(1), 94(1)(c), 95(1)- (3), 98C, 140(1), 143(3), 146, 152,(1), (5), 161, 174(1), 180, 192(5), 192J(5), 192N(1), 192W(1), 208(1), 211(1), 213, 213A, 214(1), 218(1), 219(1), 227, 236(1), 237(4), 238-239, 241-245, 264, 265(2)-(3), 269(a), 279(k), 290(1), (4), 305(1), 316(2), 319, 320(7), 323(3), 336,
+12.4.2011 Act. 2011-10 ss. 2, 36(2), 44-45, 47, 48(5)(a), 52, 54, 62(2), 63(1), 70, 76(2), 85(1)(a), 93(1), 94(1)(c), 95(1)- (3), 98C, 140(1), 143(3), 146, 152,(1), (5), 161, 174(1), 180, 192(5), 192J(5), 192N(1), 192W(1), 208(1), 211(1), 213, 213A, 214(1), 218(1), 219(1), 227, 236(1), 237(4), 238-239, 241-245, 264, 265(2)-(3), 269(a), 279(k), 290(1), (4), 305(1), 316(2), 319, 320(7), 323(3), 336, 337, (d), Sch. 5G
+
+2.6.20111 2012-07 s. 277A(b) 1.7.2011
+
+1Commencement Notice LN. 2011/076
 
 Public Health
 
-1950-07 337, (d), Sch. 5G 2.6.20111 2012-07 s. 277A(b) 1.7.2011 LN. 2011/147 s. 329A 22.9.2011 2011/171 s. 192B(3)(a) 29.9.2011 2011/212 ss. 98A-98ZX, Schs. 19-21 27.10.2011 2011/213 ss. 192A, 192C-192D, 192JB- 192JD, 192K, 192P, Schs. 16-17
+1950-07 LN. 2011/147 s. 329A 22.9.2011 2011/171 s. 192B(3)(a) 29.9.2011 2011/212 ss. 98A-98ZX, Schs. 19-21 27.10.2011 2011/213 ss. 192A, 192C-192D, 192JB- 192JD, 192K, 192P, Schs. 16-17
 
 27.10.2011 2011/226 ss. 98A, 98M(1), 98PA-98PB 3.11.2011 LN. 2013/010 s. 98A(1) 31.1.2012 Act. 2013-06 ss. 277A(b)-(c), 277C 1.7.2012 2012-07 s. 277B 1.10.2012 2013-06 ss. 277B(1)(a), (2) 1.10.2012 LN. 2013/042 ss. 192A(1), 192B(2)(bbb), 192D(11), Schs. 5A-5G
 
@@ -180,17 +184,13 @@ Public Health
 
 23.2.2017 2018-14 ss. 273(3)(b), 279(j) 16.8.2018 2019-15 ss. 95QA, 95S(1) 10.6.2019 2018-19 ss. 192V(b), 273(4) 26.9.2019 LN. 2020/226 ss. 192A(1)-(3), 192B(3)(g)(v), 192BA(1)-(2), (2A)-(2B), (3)-(4), 192(3)(ab)-(ae), (4)(a)-(c), 192KC(3), 192L(1), (a), (aa), 192M(1B)(b)-(c), (ca)-(cb), (f)- (g), (2), 192MA(1)-(4), 192MC, 192W, Schs. 11B-11C, 13, 14A- 14C
 
-18.6.2020 2019/216 ss. 98D-98F, 98H-98J, 98M(1), 98N(1), 98O, 98PA(2)-(3), 98PB(1)(a), 98Q, 98R(1),
-
-1Commencement Notice LN. 2011/076
+18.6.2020 2019/216 ss. 98D-98F, 98H-98J, 98M(1), 98N(1), 98O, 98PA(2)-(3), 98PB(1)(a), 98Q, 98R(1), 98U(1), 98W(1)-(2), 98X(1)(a)- (b), (2), 98Z(1)(a), (2), 98ZA(1)(a), 98ZB(1)(a),
 
 Public Health
 
-1950-07 98U(1), 98W(1)-(2), 98X(1)(a)- (b), (2), 98Z(1)(a), (2), 98ZA(1)(a), 98ZB(1)(a), 98ZC(1), 98ZX, Sch. 19
+1950-07 98ZC(1), 98ZX, Sch. 19 1.1.2021 2020/531 ss. 192A(1), 192B(3)(g), 192BA(2)-(3), 192C(3)(c)(i), 192DA(5), 192JC(1), 192JD(1)- (3), 192KA(8), (8A), 192M(1B)(b), 192U, 192W(1), 192X-192Y
 
-1.1.2021 2020/531 ss. 192A(1), 192B(3)(g), 192BA(2)-(3), 192C(3)(c)(i), 192DA(5), 192JC(1), 192JD(1)- (3), 192KA(8), (8A), 192M(1B)(b), 192U, 192W(1), 192X-192Y
-
-1.1.2021
+1.1.2021 Act. 2021-20 ss. 92A, 93(3), Sch. 21 30.7.2021
 
 Power to depute
 
@@ -292,7 +292,7 @@ Nuisances which may be dealt with summarily.
 
 Smoke nuisances.
 
-90. Smoke nuisances. 91. Notice to occupier of existence of smoke nuisance. 92. Procedure with respect to smoke nuisances. 93. Rules as to smoke.
+90. Smoke nuisances. 91. Notice to occupier of existence of smoke nuisance. 92. Procedure with respect to smoke nuisances. 92A. Emission of dark smoke from vessels. 93. Rules as to smoke.
 
 Large combustion plants.
 
@@ -306,7 +306,9 @@ PART IIA Control of major accident hazards involving dangerous substances.
 
 Public Health
 
-1950-07 95A. Interpretation in respect of sections 95A to 95P and Schedules 4 to 11. 95B. Application of sections 95A to 95P and Schedules 4-11. 95C. General Duty. 95D. Major accident prevention policy. 95DA.  Domino effects. 95E. Notifications. 95F. Safety report. 95G. Review and revision of safety report. 95H. On-site emergency plan. 95I. Off-site emergency plan. 95J. Review and testing of emergency plans. 95K. Implementing emergency plans. 95L. Charge for preparation, review and testing of off-site emergency plan. 95M. Provision for information to the public. 95N. Provision of information to competent authority. 95O. Provision of information to other establishments. 95P. Functions of competent authority in relation to the safety report. 95Q. Prohibition of use. 95QA. Improvement notices. 95R. Inspections and investigations. 95S. Enforcement. 95T. Provision of information by competent authority. 95U. Penalties.
+1950-07
+
+95A. Interpretation in respect of sections 95A to 95P and Schedules 4 to 11. 95B. Application of sections 95A to 95P and Schedules 4-11. 95C. General Duty. 95D. Major accident prevention policy. 95DA.  Domino effects. 95E. Notifications. 95F. Safety report. 95G. Review and revision of safety report. 95H. On-site emergency plan. 95I. Off-site emergency plan. 95J. Review and testing of emergency plans. 95K. Implementing emergency plans. 95L. Charge for preparation, review and testing of off-site emergency plan. 95M. Provision for information to the public. 95N. Provision of information to competent authority. 95O. Provision of information to other establishments. 95P. Functions of competent authority in relation to the safety report. 95Q. Prohibition of use. 95QA. Improvement notices. 95R. Inspections and investigations. 95S. Enforcement. 95T. Provision of information by competent authority. 95U. Penalties.
 
 Noise.
 
@@ -322,7 +324,9 @@ Gibraltar Plans for Shipments of Waste
 
 Public Health
 
-1950-07 98I. Gibraltar Plan for Shipments of Waste: continuation and changes. 98J. Objections to shipments of waste.
+1950-07
+
+98I. Gibraltar Plan for Shipments of Waste: continuation and changes. 98J. Objections to shipments of waste.
 
 General requirements for shipment of waste
 
@@ -342,11 +346,11 @@ Import of waste from third countries
 
 Transit of waste
 
-98Z. Requirements for transit of waste for disposal. 98ZA. Requirements for transit of waste for recovery: non-EU, non- OECD Decision countries.
+98Z. Requirements for transit of waste for disposal.
 
 Public Health
 
-1950-07 98ZB. Requirements for transit of waste for recovery: EU, OECD Decision countries. 98ZC. Requirements for transit of waste between EU or OECD Decision countries and non-EU, non-OECD Decision countries.
+1950-07 98ZA. Requirements for transit of waste for recovery: non-EU, non- OECD Decision countries. 98ZB. Requirements for transit of waste for recovery: EU, OECD Decision countries. 98ZC. Requirements for transit of waste between EU or OECD Decision countries and non-EU, non-OECD Decision countries.
 
 Additional duties
 
@@ -356,11 +360,11 @@ PART III. WATER SUPPLY.
 
 General duties and power of Government.
 
-99. Interpretation of Part III. 100. General powers of Government for supplying water. 101. Government to keep works in repairs. 102. Water collecting areas in Upper Rock. 103. Powers and duties of Government in respect of laying and maintaining water mains. 104. Power to lay service pipes, etc. 105. Cutting off supply. 106. Laying of supply pipes. 107. Laying of communication pipes, etc. 108. Power of Government to require separate service pipes. 109. Exemption from liability.
+99. Interpretation of Part III. 100. General powers of Government for supplying water. 101. Government to keep works in repairs. 102. Water collecting areas in Upper Rock. 103. Powers and duties of Government in respect of laying and maintaining water mains. 104. Power to lay service pipes, etc. 105. Cutting off supply. 106. Laying of supply pipes. 107. Laying of communication pipes, etc.
 
 Public Health
 
-1950-07
+1950-07 108. Power of Government to require separate service pipes. 109. Exemption from liability.
 
 Potable water.
 
@@ -376,11 +380,11 @@ Provisions for preventing waste, etc., of water and as to meters and other fitti
 
 General.
 
-133. Charges for hire of and repairs to meters. 134. Register of meter to be evidence. 135. Notice of discontinuance. 136. Vesting of communication pipes and repair of such pipes and of supply pipes in public highways. 137. Provisions as to position, etc., of stop-cocks. 138. Duty of Government to give notice of certain works. 139. Water for public baths, washhouses, etc.
+133. Charges for hire of and repairs to meters. 134. Register of meter to be evidence. 135. Notice of discontinuance. 136. Vesting of communication pipes and repair of such pipes and of supply pipes in public highways. 137. Provisions as to position, etc., of stop-cocks.
 
 Public Health
 
-1950-07 140. Rules. 141. Penalty for causing water to be fouled, etc. 142. Recovery of water charges, etc. 143. Control on importation of water.
+1950-07 138. Duty of Government to give notice of certain works. 139. Water for public baths, washhouses, etc. 140. Rules. 141. Penalty for causing water to be fouled, etc. 142. Recovery of water charges, etc. 143. Control on importation of water.
 
 PART IV. NOTIFICATION AND PREVENTION OF DISEASES.
 
@@ -390,11 +394,11 @@ Notification of disease.
 
 Provisions for preventing spread of infection.
 
-147. Penalty on exposure of persons and articles liable to convey notifiable disease 148. Person suffering from or being a carrier of notifiable disease not to carry on occupation to danger of others. 149. Child liable to convey notifiable disease may be ordered not to attend school. 150. Director may require list of day-scholars at school where notifiable disease exists. 151. Restrictions on sending or taking infected articles to laundry or public wash-house, or to cleaners. 152. Power to prohibit home work on premises where notifiable disease exists. 153. Restrictions on bringing certain articles into Gibraltar. 154. Restrictions on sales, etc., by persons collecting, or dealing in, rags, old clothes or similar articles. 155. Provisions as to library books. 156. Infectious matter not to be placed in dustbins. 157. Provisions as to the letting of houses, or rooms in hotels, after recent case of notifiable disease. 158. Persons ceasing to occupy house to disclose to owner any recent case of notifiable disease, and to disinfect. 159. Provisions as to use of public conveyance by persons suffering from notifiable disease. 160. Duty of owner, etc., of public conveyance in regard to case of notifiable disease. 161. Power of Government to make regulations as to disposal of dead bodies. 162. Power of justice to order dead body to be removed to mortuary or buried forthwith. 163. Restrictions in certain cases on removal of bodies of persons dying in hospital.
+147. Penalty on exposure of persons and articles liable to convey notifiable disease 148. Person suffering from or being a carrier of notifiable disease not to carry on occupation to danger of others. 149. Child liable to convey notifiable disease may be ordered not to attend school. 150. Director may require list of day-scholars at school where notifiable disease exists. 151. Restrictions on sending or taking infected articles to laundry or public wash-house, or to cleaners. 152. Power to prohibit home work on premises where notifiable disease exists. 153. Restrictions on bringing certain articles into Gibraltar. 154. Restrictions on sales, etc., by persons collecting, or dealing in, rags, old clothes or similar articles. 155. Provisions as to library books. 156. Infectious matter not to be placed in dustbins. 157. Provisions as to the letting of houses, or rooms in hotels, after recent case of notifiable disease. 158. Persons ceasing to occupy house to disclose to owner any recent case of notifiable disease, and to disinfect. 159. Provisions as to use of public conveyance by persons suffering from notifiable disease. 160. Duty of owner, etc., of public conveyance in regard to case of notifiable disease. 161. Power of Government to make regulations as to disposal of dead bodies. 162. Power of justice to order dead body to be removed to mortuary or buried forthwith.
 
 Public Health
 
-1950-07 164. Avoidance of contact with body of person who suffered from notifiable disease. 165. Wake not to be held over body of person who suffered from notifiable disease.
+1950-07 163. Restrictions in certain cases on removal of bodies of persons dying in hospital. 164. Avoidance of contact with body of person who suffered from notifiable disease. 165. Wake not to be held over body of person who suffered from notifiable disease.
 
 Provisions as to disinfection of premises and articles, and the removal of infected persons.
 
@@ -418,21 +422,21 @@ Laboratories, ambulances, mortuaries, etc.
 
 Rules for the prevention and treatment of infectious diseases.
 
-180. Power of the Government to make rules.
-
 Public Health
 
-1950-07 PART IVA GENETICALLY MODIFIED ORGANISMS
+1950-07 180. Power of the Government to make rules.
+
+PART IVA GENETICALLY MODIFIED ORGANISMS
 
 180A. Interpretation of Part IVA. 180B. Meaning of “damage to the environment”, “control” and related expressions in this Part. 180C. Risk Assessment  and notification requirements. 180D. General duties relating to importation, acquisition, keeping, release or marketing of organisms. 180E. Prohibition notices. 180F. Consents required by certain persons. 180G. Consents: limitations and conditions. 180H. Fees and charges. 180J. Appointment  etc of inspectors. 180K. Rights of entry and inspection. 180L. Obtaining of information from persons. 180M. Power to deal with cause of imminent danger of damage to the environment. 180N. Offences. 180P. Onus of proof  as regards techniques and evidence. 180Q. Power of court to order cause of offence to be remedied. 180R. Power of competent authority to remedy harm. 180S. The competent authority. 180T. Offences by bodies corporate. 180U. Offences under  these Regulations  due to fault of others. 180V. Application  to Crown. 180W. Public Register. 180X. Power to make regulations to give effect to Community obligations.
 
 PART V. DESTRUCTION OF RATS AND MICE.
 
-181. General duty of Government. 182. Duty to report infestations to Director. 183. Powers of Director and authorized persons. 184. Powers of Government to require work and treatment to be carried out for certain purposes. 185. Temporary closing of buildings. 186. Powers of demolition, etc., where infestation cannot be remedied. 187. Directions as to storage of rat-attracting material. 188. Control of rat destruction carried out otherwise than by the Government. 189. Recovery of expenses by Government. 190. Offences and penalties. 191. When owner of premises to be deemed occupier. 192. Defrayal of expenses.
+181. General duty of Government. 182. Duty to report infestations to Director. 183. Powers of Director and authorized persons. 184. Powers of Government to require work and treatment to be carried out for certain purposes. 185. Temporary closing of buildings. 186. Powers of demolition, etc., where infestation cannot be remedied. 187. Directions as to storage of rat-attracting material. 188. Control of rat destruction carried out otherwise than by the Government. 189. Recovery of expenses by Government. 190. Offences and penalties.
 
 Public Health
 
-1950-07
+1950-07 191. When owner of premises to be deemed occupier. 192. Defrayal of expenses.
 
 PART VA WASTE.
 
@@ -440,11 +444,9 @@ PART VA WASTE.
 
 PART VI. VACCINATION AND IMMUNIZATION.
 
-193. Repealed. 194. Repealed.
-
 Public Health
 
-1950-07 195. Repealed. 196. Notice of births to Director. 197. Repealed. 198. Repealed. 199. Repealed. 200. Repealed. 201. Repealed. 202. Repealed. 203. Immunization against diphtheria, etc. 204. Charges. 205. Payment for vaccination by certain medical practitioners.
+1950-07 193. Repealed. 194. Repealed. 195. Repealed. 196. Notice of births to Director. 197. Repealed. 198. Repealed. 199. Repealed. 200. Repealed. 201. Repealed. 202. Repealed. 203. Immunization against diphtheria, etc. 204. Charges. 205. Payment for vaccination by certain medical practitioners.
 
 PART VII. BATHS, WASHHOUSES, BATHING PLACES, ETC.
 
@@ -460,11 +462,11 @@ PART VIII. CELLAR DWELLINGS, LODGING HOUSES, ETC.
 
 Cellar dwellings.
 
-219. Cellars not to be let or occupied as dwellings without permission. 220. Penalty for unlawful letting, etc., of cellars. 221. Power to close cellar in case of two convictions.
+219. Cellars not to be let or occupied as dwellings without permission.
 
 Public Health
 
-1950-07
+1950-07 220. Penalty for unlawful letting, etc., of cellars. 221. Power to close cellar in case of two convictions.
 
 Common lodging-houses.
 
@@ -480,11 +482,11 @@ Tents, vans, caravans, sheds, etc.
 
 PART IX. PUBLIC HIGHWAYS, ETC.
 
-238. Duty of Government to maintain public highways. 239. Deleted. 240. Provisions as to extraordinary traffic. 241. The Government may declare streets to be public highways. 242. Deleted. 243. Power to purchase lands. 244. Government to pave and repair public highways, etc. 245. Lighting of streets. 246. Refuges, etc., in streets. 247. Shelters. 248. Statues and monuments.
+238. Duty of Government to maintain public highways. 239. Deleted. 240. Provisions as to extraordinary traffic. 241. The Government may declare streets to be public highways. 242. Deleted. 243. Power to purchase lands. 244. Government to pave and repair public highways, etc. 245. Lighting of streets. 246. Refuges, etc., in streets.
 
 Public Health
 
-1950-07 249. Street bins. 250. Seats, etc., in streets. 251. Government may embellish streets. 252. Power to alter names of streets. 252A. Regulations. 253. Power to grant licences for bridges over streets. 254. Restriction on placing rails, beams, wires, etc., over streets. 255. Lopping of trees overhanging highways. 256. Repair of cellars, etc., under streets. 257. Unauthorized disturbance of street. 258. Penalty for leaving litter, etc. 259. Breaking open of streets. 260. Damage to footway to be made good. 261. Lighting and fencing building materials and excavations. 262. Dangerous places to be repaired or enclosed. 263. Precautions during repairs, erection of bars and placing of lights. 264. Government authorized to take stone.
+1950-07 247. Shelters. 248. Statues and monuments. 249. Street bins. 250. Seats, etc., in streets. 251. Government may embellish streets. 252. Power to alter names of streets. 252A. Regulations. 253. Power to grant licences for bridges over streets. 254. Restriction on placing rails, beams, wires, etc., over streets. 255. Lopping of trees overhanging highways. 256. Repair of cellars, etc., under streets. 257. Unauthorized disturbance of street. 258. Penalty for leaving litter, etc. 259. Breaking open of streets. 260. Damage to footway to be made good. 261. Lighting and fencing building materials and excavations. 262. Dangerous places to be repaired or enclosed. 263. Precautions during repairs, erection of bars and placing of lights. 264. Government authorized to take stone.
 
 PART X. RECREATION GROUNDS, ETC.
 
@@ -494,11 +496,11 @@ PART XI. RATING AND VALUATION.
 
 Rating.
 
-270. Interpretation of Part XI. 271. Levy of and provisions as to general rates. 272. Operation and incidence of rate. 272A. Owner’s liability if occupier in default. 273. Liability to be rated in respect of certain unoccupied property. 274. Amendment of rate. 275. When rates due and payable. 276. Demand note for rates. 277. Late payment of rates. 277A. Discount on rates of non-domestic hereditaments. 277B.  Additional discount in certain cases following the commencement of the Smoke-Free Environment Act, 2012. 277C.  Discount on rates of hereditaments occupied by new businesses. 278. No premises exempt because belonging to the Crown. 279. Exemption from assessment.
+270. Interpretation of Part XI. 271. Levy of and provisions as to general rates. 272. Operation and incidence of rate. 272A. Owner’s liability if occupier in default. 273. Liability to be rated in respect of certain unoccupied property. 274. Amendment of rate. 275. When rates due and payable. 276. Demand note for rates. 277. Late payment of rates. 277A. Discount on rates of non-domestic hereditaments. 277B.  Additional discount in certain cases following the commencement of the Smoke-Free Environment Act, 2012. 277C.  Discount on rates of hereditaments occupied by new businesses.
 
 Public Health
 
-1950-07 280. Repealed. 281. Advertising stations to be separate hereditaments in certain cases. 282. Power to order exemption from rates. 283. Officers for rates and expenses. 284. Rating of owners. 285. Recovery of rates from tenants and lodgers. 286. Where owners omit to pay rates, the occupiers paying the same may deduct amount due from rent. 287. Proceedings for recovery of rates. 288. Penalty for leaving rates in arrears. 289. Contributions in lieu of payment of rates on premises of the United Kingdom Government.
+1950-07 278. No premises exempt because belonging to the Crown. 279. Exemption from assessment. 280. Repealed. 281. Advertising stations to be separate hereditaments in certain cases. 282. Power to order exemption from rates. 283. Officers for rates and expenses. 284. Rating of owners. 285. Recovery of rates from tenants and lodgers. 286. Where owners omit to pay rates, the occupiers paying the same may deduct amount due from rent. 287. Proceedings for recovery of rates. 288. Penalty for leaving rates in arrears. 289. Contributions in lieu of payment of rates on premises of the United Kingdom Government.
 
 Valuation.
 
@@ -512,11 +514,9 @@ PART XII. GENERAL.
 
 Supplemental as to powers of Government.
 
-309. Expenses and Contractor companies. 310. Interpretation of “provide”.
-
 Public Health
 
-1950-07 311. Power to require pipes, etc., in public highways to be moved. 312. Power of Government to execute certain work on behalf of owners or occupiers. 313. Power of Government to sell certain materials. 314. Power of Government to require information as to ownership of premises. 315. Compensation to individuals for damage resulting from exercise of powers under Act.
+1950-07 309. Expenses and Contractor companies. 310. Interpretation of “provide”. 311. Power to require pipes, etc., in public highways to be moved. 312. Power of Government to execute certain work on behalf of owners or occupiers. 313. Power of Government to sell certain materials. 314. Power of Government to require information as to ownership of premises. 315. Compensation to individuals for damage resulting from exercise of powers under Act.
 
 Notices, etc.
 
@@ -540,11 +540,11 @@ Appeals against notices.
 
 Other appeals to the magistrates’ court and appeals to the Supreme Court.
 
-331. Appeals and applications to magistrates’ court.
-
 Public Health
 
-1950-07 332. Appeals to Supreme Court against decision of justices. 333. Effect of decision of court upon appeal.
+1950-07
+
+331. Appeals and applications to magistrates’ court. 332. Appeals to Supreme Court against decision of justices. 333. Effect of decision of court upon appeal.
 
 Judges and justices.
 
@@ -578,11 +578,9 @@ SCHEDULE 5C Repealed
 
 SCHEDULE 5D Repealed
 
-SCHEDULE 5E Repealed
-
 Public Health
 
-1950-07
+1950-07 SCHEDULE 5E Repealed
 
 SCHEDULE 5F Repealed
 
@@ -604,11 +602,13 @@ SCHEDULE 10B INSPECTION PLANS
 
 SCHEDULE 11 Criteria for notification of a major accident to the European Commission and information to be notified. Part 1 Criteria (This Part sets out the provisions of Annex VI to the Directive) and Part 2 Information.
 
-SCHEDULE 11A List of wastes pursuant to article 1(a) of Directive 75/442/EEC on waste and Article 1(4) of Directive 91/689/EEC on hazardous wastes
+SCHEDULE 11A
 
 Public Health
 
-1950-07 SCHEDULE 11B Waste Hierarchy
+1950-07 List of wastes pursuant to article 1(a) of Directive 75/442/EEC on waste and Article 1(4) of Directive 91/689/EEC on hazardous wastes
+
+SCHEDULE 11B Waste Hierarchy
 
 SCHEDULE 11C Examples of economic instruments and other measures to provide incentives for the application of the waste hierarchy referred to in Schedule 11B
 
@@ -634,12 +634,14 @@ SCHEDULE 17 Repealed.
 
 SCHEDULE 18 Article 4 in the Marking Directive
 
-SCHEDULE 19 Deleted
-
 Public Health
 
-1950-07 SCHEDULE 20 Application for approval of a financial guarantee
+1950-07 SCHEDULE 19 Deleted
+
+SCHEDULE 20 Application for approval of a financial guarantee
 
 SCHEDULE 21 Enforcement powers
+
+SCHEDULE 22
 
 Public Health
