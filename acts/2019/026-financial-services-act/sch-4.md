@@ -126,7 +126,7 @@ Accounts and auditing.
 
 (e) whether in the auditor’s opinion the GFSC has discharged with diligence its obligations in relation to the collection of its revenues.
 
-(7)  Within five months after the end of the financial year, the GFSC must prepare and submit to the Minister a written report of its operations for that year together with a copy of the audited accounts for that year and the Minister must lay a copy of such report and of the audited accounts before Parliament at the earliest possible opportunity.
+(7)  Within seven months after the end of the financial year, the GFSC must prepare and submit to the Minister a written report of its operations for that year together with a copy of the audited accounts for that year and the Minister must lay a copy of such report and of the audited accounts before Parliament at the earliest possible opportunity.
 
 Preparation of estimates and value for money.
 

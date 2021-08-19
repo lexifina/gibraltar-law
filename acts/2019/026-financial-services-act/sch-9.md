@@ -20,6 +20,8 @@ Gibraltar Resolution Authority;
 
 HM Customs;
 
+Legal Services Regulatory Authority;
+
 Liquidators or administrators of former regulated persons;
 
 Minister with responsibility for finance;
@@ -32,4 +34,6 @@ Office of Criminal Prosecutions & Litigation;
 
 Registrar of Friendly Societies
 
-Royal Gibraltar Police. _____________________________
+Royal Gibraltar Police.
+
+Financial Services 2019-26

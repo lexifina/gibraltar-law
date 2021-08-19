@@ -46,7 +46,7 @@ Requirements equivalent to section 359(3)(a).
 
 Requirements equivalent to section 359(3)(b).
 
-5.(1)  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in section 359(3)(b) in relation to individual accounts where, under the law of a third country, an issuer whose registered office is in that third country is not required to prepare consolidated accounts but is required to prepare its individual accounts in accordance with international accounting standards recognised under Article 3 of the IAS Regulation as applied in UK-adopted international accounting standards or with third country national accounting standards equivalent to those standards.
+5.(1)  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in section 359(3)(b) in relation to individual accounts where, under the law of a third country, an issuer whose registered office is in that third country is not required to prepare consolidated accounts but is required to prepare its individual accounts in accordance with UK-adopted international accounting standards or with third country national accounting standards equivalent to those standards.
 
 (2)  For the purposes of equivalence–
 
@@ -54,9 +54,9 @@ Requirements equivalent to section 359(3)(b).
 
 (b) the individual accounts must be audited independently.
 
-2019-26 Financial Services
-
 Requirements equivalent to section 366(11).
+
+2019-26 Financial Services
 
 6.(1)  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those in section 366(11) where, under the law of that country, the time period within which an issuer whose registered office is in that third country must be notified of major holdings and within which it must disclose to the public those major holdings is in total equal to or shorter than seven trading days.
 
@@ -80,11 +80,11 @@ Requirements equivalent to section 371.
 
 Requirements equivalent to sections 373(3)(a) and 374(2)(c)(i).
 
-9.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 373(3)(a) and 374(2)(c)(i), as far as the content of the
+9.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 373(3)(a) and 374(2)(c)(i), as far as the content of the information about meetings is concerned, where, under the law of that country, an issuer
 
 Financial Services 2019-26
 
-information about meetings is concerned, where, under the law of that country, an issuer whose registered office is in that third country is required to provide at least information on the place, time and agenda of meetings.
+whose registered office is in that third country is required to provide at least information on the place, time and agenda of meetings.
 
 Equivalence in relation to the test of independence for parent undertakings of management companies and investment firms.
 
