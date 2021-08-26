@@ -1,0 +1,49 @@
+SCHEDULE 1.
+
+Rule 7.
+
+To the Captain of the Port
+
+Notice of expected Arrival of ship.
+
+1. Name of ship .................
+
+2. Nationality  .....................................
+
+3. Last port of call...................................
+
+4. Date and time expected........................
+
+5. Registered tonnage of ship-Gross ............. Net ...........
+
+6. Dimensions-Length........................ Draft Fore .........
+
+Aft..................
+
+7. B. of L. Cargo to be landed tons ......................
+
+Shipped tons ............. Nature of cargo .............
+
+8. Bunkers Gas Oil tons ...............Fuel Oil tons ................
+
+Coal tons ...................
+
+9. Approximate number of passengers to be disembarked  .....................
+
+embarked ...................
+
+10. Any other purpose for call ............................
+
+11. Remarks ................................................
+
+Port of
+
+20    .
+
+Agents.
+
+Port PORT RULES
+
+1960-16
+
+Subsidiary 1960.08.11
