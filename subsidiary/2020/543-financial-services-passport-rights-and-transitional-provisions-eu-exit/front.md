@@ -1,8 +1,6 @@
-2019-01 European Union (Withdrawal)
-
 Subsidiary Legislation made under ss.11 & 15 of, and Sch.3.
 
-FINANCIAL SERVICES (PASSPORT RIGHTS AND TRANSITIONAL PROVISIONS) (EU EXIT) REGULATIONS 2020
+Financial Services (Passport Rights and Transitional Provisions) (EU Exit) Regulations 2020
 
 LN.2020/543
 
@@ -10,11 +8,7 @@ Commencement 1.1.2021
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2021/126 r. 4A 1.1.2021 2021/310 rr. 3, 11, 13,13A-13B, 14(1)-(2), 15(1)(c)-(e), (2)(c)-(e)
-
-1.1.2021
-
-_______________________
+LN.2021/126 r. 4A 1.1.2021 2021/310 rr. 3, 11, 13,13A-13B, 14(1)-(2), 15(1)(c)-(e), (2)(c)-(e) 1.1.2021 2021/400 r. 9(2) 23.9.2021
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -33,8 +27,6 @@ Passporting
 Savings
 
 5. Saving for UK collective investment schemes. 6. Saving for UK-related financial services legislation.
-
-2019-01 European Union (Withdrawal) 2020/543 Financial Services (Passport Rights and Transitional Provisions) (EU Exit) Regulations 2020
 
 PART 3 TRANSITIONAL ARRANGEMENTS FOR EEA FIRMS
 
@@ -67,7 +59,5 @@ Requirements imposed by home State regulator
 Exercise of GFSC’s powers
 
 15. GFSC’s powers.
-
-European Union (Withdrawal) 2019-01 Financial Services (Passport Rights and Transitional Provisions) (EU Exit) Regulations 2020 2020/543
 
 In exercise of the powers conferred on the Minister by sections 11 and 15 of, and Schedule 3 to, the European Union (Withdrawal) Act 2019, the Minister has made these Regulations-
