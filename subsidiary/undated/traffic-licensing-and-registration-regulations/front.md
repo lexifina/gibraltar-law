@@ -38,7 +38,9 @@ Subsidiary [1958.03.06]
 
 “ rr. 2, 16A, 16AZ, 16AA(1)-(2), (2A), (3)(a), 16AB, 16B, 16C(1), (4), 20(3)- (5), 21(3A)-(3B), (5)(a)-(d), 21A(2)(b), (bb)-(bc), 79A, 80(1)-(2), 80A(1)-(3), 103(1)-(2), Sch. 1, 3A- 3B, 4, 4A- 4C, 7-10
 
-1.1.2021
+1.1.2021 2021/410 rr. 6(2), 7(2), 8(2), 9, 14(1), 33(a)-(b), Sch. 2
+
+30.9.2021
 
 Transposing:
 
@@ -76,6 +78,8 @@ PART II. DEALERS’ LICENCES.
 
 45.  Application for licences. 46.  Issue and use of licences.
 
+PART III. SELF-DRIVE CAR LICENCES.
+
 PART III. Repealed
 
 47 to 55. Repealed.
@@ -86,13 +90,13 @@ PART IV. Repealed
 
 PART V. DRIVING LICENCES.
 
-65.  Application for driving test. 66. Notice of appointment.
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] 67.  Applicant to provide vehicle. 68.  Conditions to be satisfied: motor vehicles. 69.  Revoked 70. Revoked 70A. Conditions for passing driving test. 71. Conditions to be satisfied for public service vehicles. 72. Endorsement and transmission of applications and issue of certificates of competency.
+Subsidiary [1958.03.06]
+
+65.  Application for driving test. 66. Notice of appointment. 67.  Applicant to provide vehicle. 68.  Conditions to be satisfied: motor vehicles. 69.  Revoked 70. Revoked 70A. Conditions for passing driving test. 71. Conditions to be satisfied for public service vehicles. 72. Endorsement and transmission of applications and issue of certificates of competency.
 
 PHYSICAL AND MENTAL FITNESS
 
@@ -108,13 +112,13 @@ LEARNERS AND VISITORS
 
 PART VI. LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES.
 
-88 to 92. Revoked. 93. Forms.
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06] PART VII. ADVANCED DRIVING CERTIFICATE.
+Subsidiary [1958.03.06] 88 to 92. Revoked. 93. Forms.
+
+PART VII. ADVANCED DRIVING CERTIFICATE.
 
 94. Advanced driving certificates. 94A. Written test for the purposes of regulation 94(2)(f).
 
@@ -140,13 +144,11 @@ SCHEDULE 2. Fees.
 
 SCHEDULE 3. Requirements as to Registration Marks.
 
-SCHEDULE 3A. VEHICLES FIRST REGISTERED ON OR AFTER 6 SEPTEMBER 2001 AND UNTIL IP COMPLETION DAY
-
 Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
 
 2005-26
 
-Subsidiary [1958.03.06]
+Subsidiary [1958.03.06] SCHEDULE 3A. VEHICLES FIRST REGISTERED ON OR AFTER 6 SEPTEMBER 2001 AND UNTIL IP COMPLETION DAY
 
 SCHEDULE 3B. VEHICLES FIRST REGISTERED ON OR AFTER IP COMPLETION DAY
 
