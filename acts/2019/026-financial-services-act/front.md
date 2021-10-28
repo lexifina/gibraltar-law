@@ -22,7 +22,7 @@ LN.2020/005 ss.24(3)(g), 25(2)(a), 382, 344(1)-(3), 345(2), 346- 348A, 349(2)(a)
 
 1.1.2021 2021/125 s. 474(3)(a)(ii), (b)-(c) 1.1.2021 2022/188 ss. 2(2), 359(3)(a)(i), 360(3), (4)(c), 473, 481(a)(iii), Sch.1, 25
 
-1.1.2021 Act.2021-08 s. 131(3), Sch. 9 9.2.2021 LN.2021/200 ss. 45(1), 473 25.3.2021 2021/375 Sch. 4, 9 19.8.2021
+1.1.2021 Act.2021-08 s. 131(3), Sch. 9 9.2.2021 LN.2021/200 ss. 45(1), 473 25.3.2021 2021/375 Sch. 4, 9 19.8.2021 2021/436 ss. 86(1)(d), 87(2A), 90(1), 294(a)-(b), Sch. 15 28.10.2021
 
 Financial Services 2019-26
 
@@ -1006,7 +1006,7 @@ SCHEDULE 13 GFSC’s power under section 69: sector-specific conditions
 
 SCHEDULE 14 Regulated functions
 
-SCHEDULE 15 Significant influence: regulated firms
+SCHEDULE 15 Significant influence: additional regulated functions
 
 2019-26 Financial Services
 

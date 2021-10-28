@@ -1,6 +1,6 @@
-SCHEDULE 15 Section 89
+SCHEDULE 15 Section 86
 
-REGULATED FIRMS
+ADDITIONAL REGULATED FUNCTIONS
 
 Chair (if regulated firm is a company)
 
