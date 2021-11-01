@@ -20,8 +20,6 @@ Agreement between the United Kingdom of Great Britain and Northern Ireland and t
 
 Agreement on Trade in Wine between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Australia, signed at London on 18 January 2019
 
-2019-34 European Union Withdrawal (Application of International Agreements)
-
 Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Swiss Federal Council on the International Carriage of Passengers and Goods by Road, signed at Davos on 25 January 2019
 
 Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Republic of Chile, signed at Santiago on 30 January 2019
@@ -43,8 +41,6 @@ Interim Political, Trade and Partnership Agreement between the United Kingdom of
 Trade and Partnership Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the State of Israel, signed at Tel Aviv on 18 February 2019
 
 Interim Economic Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Pacific States, of the other part, signed at London on 14 March 2019
-
-European Union Withdrawal (Application of International Agreements) 2019-34
 
 Record of Discussions between the Aeronautical Authorities of the Hashemite Kingdom of Jordan and the United Kingdom of Great Britain and Northern Ireland, signed at Amman on 14 March 2019
 
@@ -69,8 +65,6 @@ Agreement establishing an Association between the United Kingdom of Great Britai
 Partnership and Cooperation Agreement establishing a Partnership between the United Kingdom of Great Britain and Northern Ireland, of the one part, and the Republic of Uzbekistan, of the other part, signed at Tashkent on 31 October 2019
 
 Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Kosovo, signed at Pristina on 3 December 2019
-
-2019-34 European Union Withdrawal (Application of International Agreements)
 
 Agreement establishing an Association between the United Kingdom of Great Britain and Northern Ireland and the Republic of Lebanon, signed at London on 19 September 2019
 
@@ -98,8 +92,6 @@ Temporary Agreement between the United Kingdom of Great Britain and Northern Ire
 
 Trade Continuity Agreement between the United Kingdom of Great Britain and Northern Ireland and the United Mexican States, signed at Mexico City on 15 December 2020
 
-European Union Withdrawal (Application of International Agreements) 2019-34
-
 Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government the Kingdom of Norway Concerning Air Services, signed at Oslo on 16 December 2020
 
 Strategic Partnership, Trade and Cooperation Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Moldova, signed at Chisinau on 24 December 2020
@@ -119,3 +111,5 @@ Partnership, Trade and Cooperation Agreement between the United Kingdom of Great
 Partnership, Trade and Cooperation Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of Serbia, done at Belgrade on 16 April 2021
 
 Agreement on the mutual recognition and protection of designations for spirit drinks between the United Kingdom of Great Britain and Northern Ireland and the United Mexican States, done at Mexico City on 30 November 2020
+
+Convention on Social Security Coordination between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation, done at London on 9 September 2021
