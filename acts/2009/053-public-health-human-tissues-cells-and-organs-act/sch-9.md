@@ -12,9 +12,7 @@ Number of serious adverse reaction(s) per type of tissue and cell (or product in
 
 Type of tissue/cell (or product in contact with the tissues and cells) Number of serious adverse reaction(s) Total number of tissues/cells of this type distributed (if available) 1
 
-2
-
-3
+2 3
 
 4
 
@@ -38,9 +36,7 @@ HCV
 
 HIV-1/2
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 Other (Specify)
+Other (Specify)
 
 Transmitted parasitical
 
@@ -79,11 +75,3 @@ Distribution
 Materials
 
 Others (specify)
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53

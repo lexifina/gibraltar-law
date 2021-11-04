@@ -24,9 +24,7 @@ In case of sperm processed for intrauterine insemination, not to be stored and i
 
 2.4. HTLV-I antibody testing must be performed for donors living in, or originating from, high-prevalence areas or with sexual partners originating from those areas or where the donor’s parents originate from those areas;
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 2.5. In certain circumstances, additional testing may be required depending on the donor’s travel and exposure history and the characteristics of the tissue or cells donated (e.g. RhD, malaria, CMV, T cruzi).
+2.5. In certain circumstances, additional testing may be required depending on the donor’s travel and exposure history and the characteristics of the tissue or cells donated (e.g. RhD, malaria, CMV, T cruzi).
 
 2.6. Positive results will not necessarily prevent partner donation in accordance with national rules.
 
@@ -48,10 +46,6 @@ The use of reproductive cells other than for partner donation must meet the foll
 
 4.  General requirements to be met for determining biological markers.
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
-
 4.1. The tests must be carried out in accordance with points 2.1 and 2.2 of Schedule 2.
 
 4.2. For donations other than by partners, blood samples must be obtained at the time of each donation.
@@ -59,7 +53,3 @@ Public Health (Human Tissues, Cells and Organs)
 For donation by partners (not for direct use), blood samples must be obtained within three months before the first donation. For further partner donations by the same donor, further blood samples must be obtained according to national legislation, but no later than 24 months from the previous sampling.
 
 4.3. Sperm donations other than by partners will be quarantined for a minimum of 180 days, after which repeat testing is required. If the blood donation sample is additionally tested by the nucleic acid amplification technique (NAT) for HIV, HBV and HCV, testing of a repeat blood sample is not required. Retesting is also not required if the processing includes an inactivation step that has been validated for the viruses concerned.
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53

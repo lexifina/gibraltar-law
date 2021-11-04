@@ -22,11 +22,7 @@ HIV 1 and 2 Anti-HIV-1,2 Hepatitis B HbsAg Anti HBc Hepatitis C Anti- HCV- Ab Sy
 
 2.  General requirements to be met for determining biological markers.
 
-2.1. The tests must be carried out by a qualified laboratory, authorised as a testing centre by the competent authority, using CE marked testing kits
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 where appropriate. The type of test used must be validated for the purpose in accordance with current scientific knowledge.
+2.1. The tests must be carried out by a qualified laboratory, authorised as a testing centre by the competent authority, using CE marked testing kits where appropriate. The type of test used must be validated for the purpose in accordance with current scientific knowledge.
 
 2.2. The biological tests will be carried out on the donor’s serum or plasma; they must not be performed on other fluids or secretions such as the aqueous or vitreous humour unless specifically justified clinically using a validated test for such a fluid.
 
@@ -36,7 +32,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 (b) post-mortem blood sampling: if blood, blood components or colloids were infused in the 48 hours preceding death or if crystalloids were infused in the hour preceding death.
 
-Tissue establishments may accept tissues and cells from donors with plasma dilution of more than 50% only if the testing procedures used are validated for such plasma or if a pre-transfusion sample is available.
+Tissue establishments may accept tissues and cells from donors with plasma dilution of more than 50% only if the testing procedures used are validated for such plasma or if a pre- transfusion sample is available.
 
 2.4. In the case of a deceased donor, blood samples must have been obtained just prior to death, or if not possible, the time of sampling must be as soon as possible after death and in any case within 24 hours after death.
 
@@ -46,16 +42,8 @@ Tissue establishments may accept tissues and cells from donors with plasma dilut
 
 (c) Where tissues and cells of allergenic living donors cannot be stored for long periods and repeat sampling is therefore not possible, paragraph 2.5(a) above applies.
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
-
 2.6. If, in a living donor (except bone marrow stem-cell and peripheral blood stem-cell donors) the ‘donation sample’ as defined in paragraph 2.5(a) above, is additionally tested by the nucleic acid amplification technique (NAT) for HIV, HBV and HCV, testing of a repeat blood sample is not required. Retesting is also not required if the processing includes an inactivation step that has been validated for the viruses concerned.
 
 2.7. In the case of bone marrow and peripheral blood stem-cell collection, blood samples must be taken for testing within 30 days prior to donation.
 
 2.8. In the case of neonatal donors, the biological tests may be carried out on the donor’s mother to avoid medically unnecessary procedures upon the infant.
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53

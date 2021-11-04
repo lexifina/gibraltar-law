@@ -20,9 +20,7 @@ A. ORGANISATION AND MANAGEMENT
 
 8. In the event of termination of activities the agreements concluded and the procedures adopted in accordance with section 14(9) of this Part shall include traceability data and material concerning the quality and safety of tissues and cells.
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 9. There must be a documented system in place that ensures the identification of every unit of tissue or cells at all stages of the activities for which authorisation is sought.
+9. There must be a documented system in place that ensures the identification of every unit of tissue or cells at all stages of the activities for which authorisation is sought.
 
 B. PERSONNEL
 
@@ -44,11 +42,7 @@ C. EQUIPMENT AND MATERIALS
 
 1. All equipment and material must be designed and maintained to suit its intended purpose and must minimise any hazard to recipients or staff or to both.
 
-2. All critical equipment and technical devices must be identified and validated, regularly inspected and preventively maintained in accordance with the manufacturers' instructions. Where equipment or materials affect critical processing or storage parameters (e.g. temperature, pressure, particle counts, microbial contamination levels), they must be identified and must be the subject of appropriate monitoring, alerts, alarms and corrective action, as required, to detect malfunctions and defects and to ensure that the critical
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 parameters are maintained within acceptable limits at all times. All equipment with a critical measuring function must be calibrated against a traceable standard if available.
+2. All critical equipment and technical devices must be identified and validated, regularly inspected and preventively maintained in accordance with the manufacturers' instructions. Where equipment or materials affect critical processing or storage parameters (e.g. temperature, pressure, particle counts, microbial contamination levels), they must be identified and must be the subject of appropriate monitoring, alerts, alarms and corrective action, as required, to detect malfunctions and defects and to ensure that the critical parameters are maintained within acceptable limits at all times. All equipment with a critical measuring function must be calibrated against a traceable standard if available.
 
 3. New and repaired equipment must be tested when installed and must be validated before use. Test results must be documented.
 
@@ -70,9 +64,7 @@ D. FACILITIES OR PREMISES
 
 (a) a validated microbial inactivation or validated terminal sterilisation process is applied;
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 (b) or, where it is demonstrated that exposure in a Grade A environment has a detrimental effect on the required properties of the tissue or cell concerned;
+(b) or, where it is demonstrated that exposure in a Grade A environment has a detrimental effect on the required properties of the tissue or cell concerned;
 
 (c) or, where it is demonstrated that the mode and route of application of the tissue or cell to the recipient implies a significantly lower risk of transmitting bacterial or fungal infection to the recipient than with cell and tissue transplantation;
 
@@ -90,9 +82,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 E. DOCUMENTATION AND RECORDS
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 1. There must be a system in place that results in clearly defined and effective documentation, correct records and registers and authorised Standard Operating Procedures (SOPs), for the activities for which authorisation is sought. Documents must be regularly reviewed and must conform to the standards laid down in this Part. The system must ensure that work performed is standardised, and that all steps are traceable; i.e. coding, donor eligibility, procurement, processing, preservation, storage, transport, distribution or disposal, including aspects relating to quality control and quality assurance.
+1. There must be a system in place that results in clearly defined and effective documentation, correct records and registers and authorised Standard Operating Procedures (SOPs), for the activities for which authorisation is sought. Documents must be regularly reviewed and must conform to the standards laid down in this Part. The system must ensure that work performed is standardised, and that all steps are traceable; i.e. coding, donor eligibility, procurement, processing, preservation, storage, transport, distribution or disposal, including aspects relating to quality control and quality assurance.
 
 2. For every critical activity, the materials, equipment and personnel involved must be identified and documented.
 
@@ -112,16 +102,8 @@ F. QUALITY REVIEW
 
 1. An audit system must be in place for the activities for which authorisation is sought. Trained and competent persons must conduct the audit in an independent way, at least every two years, in order to verify compliance with the approved protocols and the regulatory requirements. Findings and corrective actions must be documented.
 
-2. Deviations from the required standards of quality and safety must lead to documented investigations, which include a decision on possible
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 corrective and preventive actions.  The fate of non-conforming tissues and cells must be decided in accordance with written procedures supervised by the responsible person and recorded. All affected tissues and cells must be identified and accounted for.
+2. Deviations from the required standards of quality and safety must lead to documented investigations, which include a decision on possible corrective and preventive actions.  The fate of non-conforming tissues and cells must be decided in accordance with written procedures supervised by the responsible person and recorded. All affected tissues and cells must be identified and accounted for.
 
 3. Corrective actions must be documented, initiated and completed in a timely and effective manner. Preventive and corrective actions should be assessed for effectiveness after implementation.
 
 4. The tissue establishment should have processes in place for review of the performance of the quality management system to ensure continuous and systematic improvement.
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53

@@ -22,10 +22,6 @@ When the activities for which the authorisation is sought include processing of 
 
 5. Where a microbial inactivation procedure is applied to the tissue or cells it must be specified, documented, and validated.
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
-
 6. Before implementing any significant change in processing, the modified process must be validated and documented.
 
 7. The processing procedures must undergo regular critical evaluation to ensure that they continue to achieve the intended results.
@@ -44,11 +40,7 @@ When the activities for which the authorisation is sought include storage and re
 
 4. Records must demonstrate that before tissues and cells are released all appropriate specifications are met, in particular all current declaration forms, relevant medical records, processing records and test results have been verified according to a written procedure by a person authorised for this task by the responsible person as specified in section 8 of this Part. If a computer is used to release results from the laboratory, an audit trail should indicate who was responsible for their release.
 
-5. A documented risk assessment approved by the responsible person as defined in section 8 of this Part must be undertaken
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 to determine the fate of all stored tissues and cells following the introduction of any new donor selection or testing criterion or any significantly modified processing step that enhances safety or quality.
+5. A documented risk assessment approved by the responsible person as defined in section 8 of this Part must be undertaken to determine the fate of all stored tissues and cells following the introduction of any new donor selection or testing criterion or any significantly modified processing step that enhances safety or quality.
 
 D. DISTRIBUTION AND RECALL
 
@@ -68,9 +60,7 @@ When the activities for which the authorisation is sought include distribution o
 
 7. Procedures must be in place for the handling of requests for tissues and cells. The rules for allocation of tissues and cells to certain patients or health care institutions must be documented and made available to these parties upon request.
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 8. A documented system must be in place for the handling of returned products including criteria for their acceptance into the inventory, if applicable.
+8. A documented system must be in place for the handling of returned products including criteria for their acceptance into the inventory, if applicable.
 
 E. FINAL LABELLING FOR DISTRIBUTION
 
@@ -88,9 +78,7 @@ The primary tissue or cell container must provide
 
 (f) when tissues and cells are known to be positive for a relevant infectious disease marker, it must be marked as BIOLOGICAL HAZARD;
 
-(g) Single European Code as applicable to the tissues and cells being distributed for human application or the donation identification sequence as applicable to the tissues and cells released for circulation, other than distributed for human application.
-
-If any of the information under points (d), (e) and (g) above cannot be included on the primary container label, it must be provided on a separate sheet accompanying the primary container. This sheet must be packaged with the primary container in a manner that ensures that they remain together.
+If any of the information under points (d) and (e) above cannot be included on the primary container label, it must be provided on a separate sheet accompanying the primary container. This sheet must be packaged with the primary container in a manner that ensures that they remain together.
 
 2. The following information must be provided either on the label or in accompanying documentation
 
@@ -99,10 +87,6 @@ If any of the information under points (d), (e) and (g) above cannot be included
 (b) morphology and functional data where relevant;
 
 (c) date of distribution of the tissue or cells;
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
 
 (d) biological determinations carried out on the donor and results;
 
@@ -115,8 +99,6 @@ Public Health (Human Tissues, Cells and Organs)
 (h) instructions for reporting serious adverse reactions or events or both as set out in sections 11 and 12 of this Part;
 
 (i) presence of potential harmful residues (e.g. antibiotics, ethylene oxide etc);
-
-(j) for imported tissues and cells, the country of procurement and the exporting country (if different from the procurement country).
 
 F. EXTERNAL LABELLING OF THE SHIPPING CONTAINER
 
@@ -133,7 +115,3 @@ For transport, the primary container must be placed in a shipping container that
 (e) recommended transport conditions (e.g. keep cool, in upright position, etc.);
 
 (f) safety instructions or method of cooling (when applicable).
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53

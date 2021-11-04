@@ -40,11 +40,7 @@ PART B
 
 Complementary data set
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
-
-Complementary data – information for the characterisation of organs and donors to be collected in addition to minimum data specified in Part A, based on the decision of the medical team, taking into account the availability of such information and the particular circumstances of the case, in accordance with the second subparagraph of Article 7(1) of the Organ Directive  .
+Complementary data – information for the characterisation of organs and donors to be collected in addition to minimum data specified in Part A, based on the decision of the medical team, taking into account the availability of such information and the particular circumstances of the case, in accordance with the second subparagraph of Article 7(1) of the Organ Directive.
 
 Complementary data set
 
@@ -73,9 +69,5 @@ Image tests
 Image explorations necessary for the assessment of the anatomical status of the organs for transplantation.
 
 Therapy
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
 
 Treatments administered to the donor and relevant for the assessment of the functional status of the organs and the suitability for organ donation, in particular the use of antibiotics, inotropic support or transfusion therapy.

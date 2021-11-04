@@ -30,9 +30,7 @@ CELL OR TISSUE OR BOTH DONATION AND PROCUREMENT PROCEDURES AND RECEPTION AT THE 
 
 (b) an interview with a person who knew the donor well, for deceased donors;
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 (c) an interview with the treating physician;
+(c) an interview with the treating physician;
 
 (d) an interview with the general practitioner;
 
@@ -56,9 +54,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 1.3.6. Any adverse event occurring during procurement that has or may have resulted in harm to a living donor and the outcome of any investigation to determine the cause must be recorded and reviewed.
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 1.3.7. Policies and procedures must be in place to minimise the risk of tissue or cell contamination by staff who might be infected with transmissible diseases.
+1.3.7. Policies and procedures must be in place to minimise the risk of tissue or cell contamination by staff who might be infected with transmissible diseases.
 
 1.3.8. Sterile instruments and devices must be used for tissue and cell procurement. Instruments or devices must be of good quality, validated or specifically certified and regularly maintained for the procurement of tissues and cells.
 
@@ -84,11 +80,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 (g) if an autopsy was performed, the results must be included in the record (for tissues and cells that cannot be stored for extended periods, a preliminary verbal report of the autopsy must be recorded);
 
-(h) for haematopoietic progenitor cell donors, the donor’s suitability for the chosen recipient must be documented. For unrelated donations, when the organisation responsible for procurement has limited access to recipient data, the
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 transplanting organisation must be provided with donor data relevant for confirming suitability.
+(h) for haematopoietic progenitor cell donors, the donor’s suitability for the chosen recipient must be documented. For unrelated donations, when the organisation responsible for procurement has limited access to recipient data, the transplanting organisation must be provided with donor data relevant for confirming suitability.
 
 1.4.2. The organisation performing the procurement must produce a procurement report, which is passed on to the tissue establishment. This report must contain at least:
 
@@ -100,7 +92,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 (d) identification of the person who is responsible for the procurement session, including signing;
 
-(e) date, time(where relevant, start and end) and location of procurement and procedure (SOP) used, including any incidents that occurred; where relevant, environmental conditions at the procurement facility (description of the physical area where procurement took place);
+(e) date, time (where relevant, start and end) and location of procurement and procedure (SOP) used, including any incidents that occurred; where relevant, environmental conditions at the procurement facility (description of the physical area where procurement took place);
 
 (f) for deceased donors, conditions under which the cadaver is kept: refrigerated (or not), time of start and end of refrigeration;
 
@@ -116,9 +108,7 @@ Where sperm is procured at home, the procurement report must state this and must
 
 1.4.3. All the records must be clear and readable, protected from unauthorised amendment and retained and readily retrieved in this condition throughout their specified retention period in compliance with data protection legislation.
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 1.4.4. Donor records, required for full traceability must be kept for a minimum of 30 years after clinical use, or the expiry date, in an appropriate archive acceptable to the competent authority.
+1.4.4. Donor records, required for full traceability must be kept for a minimum of 30 years after clinical use, or the expiry date, in an appropriate archive acceptable to the competent authority.
 
 1.5. Packaging
 
@@ -146,9 +136,7 @@ If any of the information under points (a) to (e) above cannot be included on th
 
 1.7. Labelling of the shipping container
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 When tissues/cells are shipped by an intermediary, every shipping container must be labelled at least with
+When tissues/cells are shipped by an intermediary, every shipping container must be labelled at least with
 
 (a) TISSUES AND CELLS and HANDLE WITH CARE;
 
@@ -174,11 +162,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 2.2. Each establishment must ensure that the tissue and cells received are quarantined until they, along with the associated documentation, have been inspected or otherwise verified as conforming to requirements. The review of relevant donor/procurement information and thus acceptance of the donation needs to be carried out by specified/authorised persons.
 
-2.3. Each tissue establishment must have a documented policy and specifications against which each consignment of tissues and cells,
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 including samples, are verified. These must include the technical requirements and other criteria considered by the tissue establishment to be essential for the maintenance of acceptable quality. The tissue establishment must have documented procedures for the management and segregation of non-conforming consignments, or those with incomplete test results, to ensure that there is no risk of contamination of other tissues and cells being processed, preserved or stored.
+2.3. Each tissue establishment must have a documented policy and specifications against which each consignment of tissues and cells, including samples, are verified. These must include the technical requirements and other criteria considered by the tissue establishment to be essential for the maintenance of acceptable quality. The tissue establishment must have documented procedures for the management and segregation of non-conforming consignments, or those with incomplete test results, to ensure that there is no risk of contamination of other tissues and cells being processed, preserved or stored.
 
 2.4. The data that must be registered at the tissue establishment (except for donors of reproductive cells intended for partner donation) include
 
@@ -200,14 +184,6 @@ Public Health (Human Tissues, Cells and Organs)
 
 (c) partner identification;
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
-
 (d) place of procurement;
 
 (e) tissues and cells obtained and relevant characteristics.
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53

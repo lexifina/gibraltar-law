@@ -18,13 +18,11 @@ Selection criteria for donors are based on an analysis of risks related to the a
 
 1.1.4. Risk of transmission of diseases caused by prions. This risk applies, for example, to
 
-(a) people diagnosed with Creutzfeldt-Jakob Disease, or variant Creutzfeld-Jakob Disease, or having a family history of non- iatrogenic Creutzfeldt-Jakob disease.
+(a) people diagnosed with Creutzfeldt-Jakob Disease, or variant Creutzfeld-Jakob Disease, or having a family history of non-iatrogenic Creutzfeldt-Jakob disease.
 
 (b) People with a history of rapid progressive dementia or degenerative neurological disease, including those of unknown origin;
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 (c) Recipients of hormones derived from the human pituitary gland (such as growth hormones) and recipients of grafts of cornea, sclera and dura mater, and persons that have undergone undocumented neurosurgery (where dura mater may have been used).
+(c) Recipients of hormones derived from the human pituitary gland (such as growth hormones) and recipients of grafts of cornea, sclera and dura mater, and persons that have undergone undocumented neurosurgery (where dura mater may have been used).
 
 For variant Creutzfeld-Jakob Disease, further precautionary measures may be recommended.
 
@@ -48,9 +46,7 @@ For variant Creutzfeld-Jakob Disease, further precautionary measures may be reco
 
 1.2. Additional exclusion criteria for deceased child donors.
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 1.2.1. Any children born from mothers with HIV infection or that meet any of the exclusion criteria described in section 1.1 must be excluded as donors until the risk of transmission of infection can be definitely ruled out.
+1.2.1. Any children born from mothers with HIV infection or that meet any of the exclusion criteria described in section 1.1 must be excluded as donors until the risk of transmission of infection can be definitely ruled out.
 
 (a) Children aged less than 18 months born from mothers with HIV, hepatitis B, hepatitis C or HTLV infection or at risk of such infection, and who have been breastfed by their mothers during the previous 12 months, cannot be considered as donors regardless of the results of the analytical tests;
 
@@ -66,11 +62,7 @@ Public Health (Human Tissues, Cells and Organs)
 
 2.2.1. Allogeneic living donors must be selected on the basis of their health and medical history, provided on a questionnaire and through an interview performed by a qualified and trained healthcare professional with the donor, in compliance with point 2.2.2. This assessment must include relevant factors that may assist in identifying and screening our persons whose donation could present a health risk to others, such as the possibility of transmitting diseases or health risks to themselves. For any donation, the collection process must not interfere with or compromise the health or care of the donor. In the case of cord blood or amniotic membrane donation, this applies to both mother and baby.
 
-2.2.2. Selection criteria for allogeneic living donors must be established and documented by the tissue establishment (and the transplanting clinician in the case of direct distribution to the recipient) based on the specific tissue or cells to be donated, together with the donor’s physical status and medical
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 and behavioural history and the results of clinical investigations and laboratory tests establishing the donor’s state of health.
+2.2.2. Selection criteria for allogeneic living donors must be established and documented by the tissue establishment (and the transplanting clinician in the case of direct distribution to the recipient) based on the specific tissue or cells to be donated, together with the donor’s physical status and medical and behavioural history and the results of clinical investigations and laboratory tests establishing the donor’s state of health.
 
 2.2.3. The same exclusion criteria must be applied as for deceased donors with the exception of point 1.1.1 Depending on the tissue or cell to be donated, other specific exclusion criteria may need to be added, such as:
 
@@ -79,7 +71,3 @@ Public Health (Human Tissues, Cells and Organs)
 (b) breastfeeding;
 
 (c) in the case of haematopoietic progenitor cells, the potential for transmission of inherited conditions.
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53

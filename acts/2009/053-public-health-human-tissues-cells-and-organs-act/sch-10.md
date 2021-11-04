@@ -1,6 +1,6 @@
 SCHEDULE 10 Section 16(8)
 
-Minimum data to be kept in accordance with Article 9(2)
+Information on the minimum donor or recipient (or both) data set to be kept
 
 A. BY TISSUE ESTABLISHMENTS
 
@@ -10,7 +10,7 @@ A. BY TISSUE ESTABLISHMENTS
 
 -Identification of the procurement organisation (including contact details) or the tissue establishment
 
--Unique donation number
+-Unique donation ID number
 
 -Date of procurement
 
@@ -36,11 +36,9 @@ A. BY TISSUE ESTABLISHMENTS
 
 -Identification of the facility issuing the final label
 
-(4) Single European Code (if applicable)
+(4) Omitted
 
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53 (5) Human application identification that will include at least:
+(5) Human application identification that will include at least:
 
 -Date of distribution/disposal
 
@@ -60,8 +58,4 @@ B. BY ORGANISATIONS RESPONSIBLE FOR HUMAN APPLICATION
 
 (6) Date of application
 
-(7) Single European Code (if applicable)”.
-
-Public Health (Human Tissues, Cells and Organs)
-
-2009-53
+_________________________
