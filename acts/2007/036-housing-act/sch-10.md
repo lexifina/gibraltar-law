@@ -6,31 +6,29 @@ CONSTITUTION AND ROLE OF HOUSING TRIBUNAL
 
 Membership of the Tribunal.
 
-1.(1)  The Tribunal shall consist of a chairperson and four members appointed by the Chief Minister, one of whom shall be a barrister or solicitor admitted to practice in Gibraltar.
+1.(1)  The Tribunal shall consist of at least five members appointed by the Minister, one of whom shall be a barrister or solicitor admitted to practice in Gibraltar and one of whom shall be so appointed as chairperson.
+
+(1A) If a member appointed under sub-paragraph (1) is for any reason unable to discharge the functions of his or her office the Minister may appoint a temporary member of the Tribunal.
 
 (2)  Members of the Tribunal shall hold office for such period as may be specified in their instrument of appointment.
 
-(3)  Notwithstanding anything contained in sub-paragraph (2), the Chief Minister may, at any time, in his discretion terminate the appointment of the chairperson and any member of the Tribunal on the grounds of inability, neglect of duty or misconduct.
+(3)  Notwithstanding anything contained in sub-paragraph (2), the Minister may, at any time, in his discretion terminate the appointment of the chairperson and any member of the Tribunal on the grounds of inability, neglect of duty or misconduct.
 
 (4)  The validity of any proceedings of the Tribunal shall not be affected by a defect in the appointment of any of its members.
 
-(5)  The Chief Minister shall designate a public officer to be the secretary of the Tribunal and shall hold office for such period of time as may be specified in the instrument of appointment.
+(5)  The Minister shall designate a public officer to be the secretary of the Tribunal and shall hold office for such period of time as may be specified in the instrument of appointment.
 
 (6)  The secretary to the Tribunal shall act under the direction of the chairperson of the Tribunal.
 
-(7)  The chairperson and members of the Tribunal shall not act as such in relation to any matter in which he has a personal interest.
+(7)  The chairperson and members of the Tribunal shall not act as such in relation to any matter in which they have a personal interest.
 
-(8)  The chairperson and members of the Tribunal shall not disclose any information received in the course of his duties except in such cases as may be required by law.
+(8)  The chairperson and members of the Tribunal shall not disclose any information received in the course of their duties except in such cases as may be required by law.
 
-(9)  The chairperson and two members of the Tribunal shall form a quorum.
+(9)  The chairperson and two members of the Tribunal shall form a quorum, one of whom shall be a barrister or solicitor in accordance with the requirement in sub-paragraph (1).
 
 Procedure.
 
 2.(1)  Proceedings before the Tribunal may be continued by the chairperson and any one or more of the members of the Tribunal if all parties give their consent.
-
-Housing
-
-2007-36
 
 (2)  Unless the Tribunal otherwise fixes a date for a hearing, any party to proceedings which are to be heard by the Tribunal shall serve notice on the secretary that he wishes a date for the hearing to be fixed.
 
@@ -56,9 +54,7 @@ Hearings.
 
 Provided that the Tribunal may require any witness to give evidence on oath or affirmation and for that purpose there may be administered an oath or affirmation in due form.
 
-Housing
-
-2007-36 Decisions.
+Decisions.
 
 4.(1)  A decision of the Tribunal shall be made by the votes of the majority of the members comprising that Tribunal and in the event of an equality of votes the chairperson shall be entitled to a second or casting vote.
 
@@ -85,7 +81,3 @@ Notices.
 8.(1)  Every notice required by this Schedule shall be in writing unless the members of the Tribunal authorise it to be given orally.
 
 (2)  Any notice or document required or authorised by this Schedule to be sent, delivered to or served on any person shall be duly sent, delivered or served by hand, by post or by facsimile transmission.
-
-Housing
-
-2007-36

@@ -25,7 +25,3 @@ Role of the Board.
 Secretary.
 
 3.  The Minister shall designate an officer of the Ministry of Housing to be the secretary of the Board.
-
-Housing
-
-2007-36

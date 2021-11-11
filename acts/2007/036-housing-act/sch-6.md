@@ -20,9 +20,7 @@ TRANSITIONAL PROVISIONS
 
 the Tribunal may make any order in respect of the dwelling that it could have made under section 43 or 49 on the application of the landlord if the improvement works or structural alterations had been carried out after the commencement of this Act and where it makes such an order the provisions of section 43 or 49 (as the case requires) shall apply to the dwelling as they apply to applications made under that section.
 
-Housing
-
-2007-36 6.  Where–
+6.  Where–
 
 (a) any application has been made to or any proceeding has been instituted before any court or the Tribunal or any other authority under the former Act; and
 
@@ -33,7 +31,3 @@ Housing
 the court, Tribunal or authority before whom it was brought shall notwithstanding any other provision of this Act, continue to have jurisdiction to hear and determine it in accordance with the provisions of this Act.
 
 7.  If it appears to the Minister to be desirable to do so, he may for such period as he may specify appoint, in addition to the Rent Assessor provided for in section 37, one or more other fit and proper persons to be Rent Assessors; and every additional Rent Assessor so appointed shall, during the term of his appointment and thereafter until he has disposed of all matters referred to him during that term, have all the functions, powers and duties of the Rent Assessor appointed under section 37.
-
-Housing
-
-2007-36

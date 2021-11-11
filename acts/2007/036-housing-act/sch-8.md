@@ -38,10 +38,6 @@ FURNITURE TO BE PROVIDED IF PROPERTY IS LET FURNISHED
 
 (5)  One sink unit.
 
-Housing
-
-2007-36
-
 (6)  One kitchen cupboard.
 
 (7)  One washing machine.
@@ -65,7 +61,3 @@ Housing
 (8)  One electric cooker.
 
 (9)  One fridge.
-
-Housing
-
-2007-36

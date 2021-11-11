@@ -36,9 +36,7 @@ Awnings
 
 Repair to fittings.
 
-Housing
-
-2007-36 Glass
+Glass
 
 Replacement of broken glass to doors and windows.
 
@@ -65,7 +63,3 @@ Unchoking of and renewal of missing or broken gratings.
 In addition, the tenant is also responsible for any damage to the premises, including fixtures and fittings, caused by neglect, carelessness or willfulness.
 
 Provided that the tenant will not be liable for any repairs, the need for which arose from failure of the landlord to discharge any legal obligation.
-
-Housing
-
-2007-36

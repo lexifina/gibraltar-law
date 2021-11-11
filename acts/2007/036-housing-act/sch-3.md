@@ -17,7 +17,3 @@ The functions of a tenants association shall be as follows—
 (e) to foment among tenants and their families a sense of community well being;
 
 (f) to promote and defend the interests of tenants of the housing area in general
-
-Housing
-
-2007-36

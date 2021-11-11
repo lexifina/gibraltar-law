@@ -22,11 +22,7 @@ Membership of the Committee.
 
 (5)  Notwithstanding anything contained in sub-paragraph (4), the Minister may, in his discretion, terminate the appointment of the chairman, any member and any alternate member of the Committee at any time on the grounds of inability, neglect of duty, persistent failure to attend meetings or misconduct.
 
-(6)  The chairman shall preside at all meetings and whilst three members of the Committee shall form a quorum there shall be present the medical practitioner and the occupational therapist or their alternates when an award
-
-Housing
-
-2007-36 of medical points is considered and the social worker or his alternate present when an award of social points is considered.
+(6)  The chairman shall preside at all meetings and whilst three members of the Committee shall form a quorum there shall be present the medical practitioner and the occupational therapist or their alternates when an award of medical points is considered and the social worker or his alternate present when an award of social points is considered.
 
 Procedure.
 
@@ -39,7 +35,3 @@ Procedure.
 Secretary.
 
 3.  The Minister shall designate an officer of the Ministry of Housing to be the secretary of the Committee.
-
-Housing
-
-2007-36

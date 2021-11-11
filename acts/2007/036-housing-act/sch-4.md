@@ -28,9 +28,7 @@ Part II
 
 “square” means 100 square feet of the floor space of a dwelling house measured in such manner and excluding such areas as may be prescribed.
 
-Housing
-
-2007-36 2.  The statutory rent of a dwelling or part of a dwelling to which Part II of this Act applies shall be as follows—
+2.  The statutory rent of a dwelling or part of a dwelling to which Part II of this Act applies shall be as follows—
 
 (a) where the dwelling or part of a dwelling is a self-contained unit, with a bathroom.
 
@@ -46,12 +44,8 @@ Housing
 
 3.  In the case of a dwelling or part of a dwelling referred to in paragraph 2(a), where the bathroom has been built by the tenant, and there was no previous bathroom, the statutory rent shall be calculated until the period of 5 years following the completion of the bathroom at the appropriate rate specified in paragraph 2(b) or 2(c).
 
-4.  In the case of a dwelling that is let furnished so long as the furniture shall be fit and proper for the purpose and shall at least comply with the provisions of Schedule 8, the statutory rent shall be increased, for the period of 8 years following the date on which the furniture is provided, by one- eighth of the value of the furniture on the date that it is so provided.
+4.  In the case of a dwelling that is let furnished so long as the furniture shall be fit and proper for the purpose and shall at least comply with the provisions of Schedule 8, the statutory rent shall be increased, for the period of 8 years following the date on which the furniture is provided, by one-eighth of the value of the furniture on the date that it is so provided.
 
 5.  Where any reference is made in this Schedule to the payment of a statutory rent “exclusive of rates”, this shall be construed, subject to the provisions of Part II of this Act, as imposing upon the tenant the obligation to pay rates.
 
 6.  Where any reference is made in this Schedule to the payment of a statutory rent “inclusive of rates”, this shall be construed, subject to the provisions of Part II of this Act, as imposing upon the landlord the obligation to pay rates.
-
-Housing
-
-2007-36
