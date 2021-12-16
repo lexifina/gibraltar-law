@@ -32,7 +32,7 @@ Disclosure of interest.
 
 (a) must declare that interest on the first occasion on which the matter is due to be considered by the GFSC; and
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (b) subject to sub-paragraph (2) must not participate in the GFSC’s consideration of the matter.
 
@@ -64,7 +64,7 @@ Committees of the GFSC.
 
 (2)  A committee established under sub-paragraph (1) may not discharge any function of the ARC, DMC or FSRCC.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (3)  The GFSC must establish terms of reference and rules of procedure for any committee it establishes and for the ARC.
 
@@ -100,7 +100,7 @@ Establishment and operation of general fund.
 
 (3)  The GFSC may borrow on such terms as may be agreed from time to time from the Government such sums as it may require to enable it to discharge its functions and for the purposes of meeting expenditure of a capital nature.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 Accounts and auditing.
 
@@ -130,7 +130,7 @@ Accounts and auditing.
 
 Preparation of estimates and value for money.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 7.(1)  The GFSC must prepare and submit to the Minister annual estimates of income and expenditure, including capital expenditure, not later than three months prior to the commencement of each financial year and such additional information and explanations as the Minister may require.
 
@@ -152,4 +152,4 @@ Common seal.
 
 (b) the sealing and witnessing of the instrument must be recorded in a register kept by the GFSC for the purpose.
 
-Financial Services 2019-26
+2019-26 Financial Services

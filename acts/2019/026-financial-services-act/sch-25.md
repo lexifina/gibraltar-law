@@ -26,7 +26,7 @@ Requirements equivalent to section 360(7).
 
 Requirements equivalent to sections 359(2)(c) and 360(2)(c).
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 3.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 359(2)(c) and 360(2)(c) where, under the law of that country, a person or persons within the issuer are responsible for the annual and half-yearly financial information and, in particular, for–
 
@@ -56,7 +56,7 @@ Requirements equivalent to section 359(3)(b).
 
 Requirements equivalent to section 366(11).
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 6.(1)  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those in section 366(11) where, under the law of that country, the time period within which an issuer whose registered office is in that third country must be notified of major holdings and within which it must disclose to the public those major holdings is in total equal to or shorter than seven trading days.
 
@@ -82,7 +82,7 @@ Requirements equivalent to sections 373(3)(a) and 374(2)(c)(i).
 
 9.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 373(3)(a) and 374(2)(c)(i), as far as the content of the information about meetings is concerned, where, under the law of that country, an issuer
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 whose registered office is in that third country is required to provide at least information on the place, time and agenda of meetings.
 
@@ -102,4 +102,4 @@ Equivalence in relation to the test of independence for parent undertakings of m
 
 (3)  Without limiting section 380, where the issuer’s registered office is in Gibraltar the parent undertaking must be able to demonstrate to the GFSC, on request, that the requirements set out in section 367(4) are respected.
 
-2019-26 Financial Services
+Financial Services 2019-26

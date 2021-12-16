@@ -22,7 +22,7 @@ LN.2020/005 ss.24(3)(g), 25(2)(a), 382, 344(1)-(3), 345(2), 346- 348A, 349(2)(a)
 
 1.1.2021 2021/125 s. 474(3)(a)(ii), (b)-(c) 1.1.2021 2022/188 ss. 2(2), 359(3)(a)(i), 360(3), (4)(c), 473, 481(a)(iii), Sch.1, 25
 
-1.1.2021 Act.2021-08 s. 131(3), Sch. 9 9.2.2021 LN.2021/200 ss. 45(1), 473 25.3.2021 2021/375 Sch. 4, 9 19.8.2021 2021/436 ss. 86(1)(d), 87(2A), 90(1), 294(a)-(b), Sch. 15 28.10.2021
+1.1.2021 Act.2021-08 s. 131(3), Sch. 9 9.2.2021 LN.2021/200 ss. 45(1), 473 25.3.2021 2021/375 Sch. 4, 9 19.8.2021 2021/436 ss. 86(1)(d), 87(2A), 90(1), 294(a)-(b), Sch. 15 28.10.2021 2021/487 ss. 78(2A), 79(3), 79A 16.12.2021
 
 Financial Services 2019-26
 
@@ -190,7 +190,7 @@ Persons whose interests will be protected
 
 Procedure
 
-76. Applications under this Part. 77. Determination of applications. 78. Determination of applications: notice procedure. 79. GFSC’s variation or requirement power: notice procedure. 80. Directions in urgent cases. 81. Revocation or variation of directions. 82. Cancellation of permission under Part 7: notice procedure.
+76. Applications under this Part. 77. Determination of applications. 78. Determination of applications: notice procedure. 79. GFSC’s variation or requirement power: notice procedure. 79A. Notice: sections 78(2A) and 79(3). 80. Directions in urgent cases. 81. Revocation or variation of directions. 82. Cancellation of permission under Part 7: notice procedure.
 
 Notification
 
@@ -204,11 +204,11 @@ Introduction
 
 Regulated individuals
 
-86. Regulated functions. 87. Obligation to ensure regulated functions being performed. 88. Regulated functions only to be performed by regulated individuals. 89. Significant influence. 90. Temporary position.
+86. Regulated functions. 87. Obligation to ensure regulated functions being performed. 88. Regulated functions only to be performed by regulated individuals. 89. Significant influence.
 
 2019-26 Financial Services
 
-91. Power to amend list of regulated functions. 92. Power to issue guidance on regulated functions.
+90. Temporary position. 91. Power to amend list of regulated functions. 92. Power to issue guidance on regulated functions.
 
 Approval of regulated individuals by the GFSC
 
@@ -240,9 +240,9 @@ Introduction
 
 106. Application of Part 9. 107. Interpretation of Part 9. 108. Parent and subsidiary undertakings. 109. Groups. 110. Meaning of “participating interest”.
 
-Notices of acquisitions of control over regulated firms
-
 Financial Services 2019-26
+
+Notices of acquisitions of control over regulated firms
 
 111. Obligation to notify the GFSC of acquisitions of control. 112. Section 111 notices. 113. Acknowledgment of receipt.
 
@@ -308,9 +308,9 @@ Liability for contravention of regulatory requirement
 
 147. Liability for contravention of regulatory requirement. 148. Liability of regulated individual for authorised person’s contravention of regulatory requirement. 149. Liability: general and sector specific. 150. Sector specific regulatory requirements.
 
-Sanctioning powers
-
 Financial Services 2019-26
+
+Sanctioning powers
 
 151. Sanctioning powers. 152. Administrative penalties. 153. Public statement. 154. Cease and desist order. 155. Temporary suspension of permission order. 156. Prohibition order.
 
@@ -338,9 +338,11 @@ Misleading an auditor or actuary
 
 Enforcement powers
 
-170. Liability for contravention. 171. Enforcement powers. 172. Public statement. 173. Administrative penalties. 174. Disqualification order.
+170. Liability for contravention. 171. Enforcement powers. 172. Public statement. 173. Administrative penalties.
 
 2019-26 Financial Services
+
+174. Disqualification order.
 
 Enforcement actions
 
@@ -480,11 +482,9 @@ Right of investors to compensation
 
 Participation in investor compensation scheme
 
-246. Gibraltar investor compensation scheme.
-
 2019-26 Financial Services
 
-247. Participation in scheme: Gibraltar investment firms. 248. Participation in scheme: UK firms. 249. Participation in scheme: third country investment firm. 250. Omitted. 251. Omitted. 252. Omitted. 253. Omitted.
+246. Gibraltar investor compensation scheme. 247. Participation in scheme: Gibraltar investment firms. 248. Participation in scheme: UK firms. 249. Participation in scheme: third country investment firm. 250. Omitted. 251. Omitted. 252. Omitted. 253. Omitted.
 
 Failure to participate
 
@@ -508,11 +508,11 @@ Gibraltar Investor Compensation Board
 
 Administration of the Gibraltar scheme
 
-268. Administration of the Gibraltar scheme. 269. Establishment of fund. 270. Annual fee. 271. Levies on participating firms (in cases of default). 272. Levies on participating firms (precautionary).
+268. Administration of the Gibraltar scheme. 269. Establishment of fund. 270. Annual fee. 271. Levies on participating firms (in cases of default).
 
 Financial Services 2019-26
 
-273. Liquidation or receivership of participating firm in default. 274. Subrogation. 275. Information to investors.
+272. Levies on participating firms (precautionary). 273. Liquidation or receivership of participating firm in default. 274. Subrogation. 275. Information to investors.
 
 Miscellaneous provisions
 
@@ -564,11 +564,11 @@ Power to impose conditions
 
 CHAPTER 5 RECOGNITION OF FOREIGN SCHEMES
 
-316. Recognised schemes. 317. Application for recognition of a foreign scheme. 318. Recognition of a foreign scheme.
+316. Recognised schemes. 317. Application for recognition of a foreign scheme.
 
 Financial Services 2019-26
 
-319. Determination of application: foreign schemes. 320. Procedure when refusing an application for recognition. 321. Application for revocation of recognition.
+318. Recognition of a foreign scheme. 319. Determination of application: foreign schemes. 320. Procedure when refusing an application for recognition. 321. Application for revocation of recognition.
 
 CHAPTER 6 Omitted
 
@@ -590,9 +590,11 @@ CHAPTER 8 MISCELLANEOUS
 
 PART 19 LISTING AND PROSPECTUSES
 
-CHAPTER 1 PRELIMINARY
+CHAPTER 1
 
 2019-26 Financial Services
+
+PRELIMINARY
 
 342. Overview.
 
@@ -628,11 +630,9 @@ Infringements
 
 Appeals
 
-351A. Appeals.
-
 Financial Services 2019-26
 
-352. Omitted. 353. Omitted. 354. Omitted.
+351A. Appeals. 352. Omitted. 353. Omitted. 354. Omitted.
 
 CHAPTER 4 TRANSPARENCY REQUIREMENTS
 
@@ -650,9 +650,11 @@ Ongoing information
 
 Information for holders of securities traded on a regulated market
 
-373. Information requirements for issuers whose shares are admitted to trading on a regulated market. 374. Information requirements for issuers whose debt securities are admitted to trading on a regulated market. 375. Control by the GFSC. 376. Languages. 377. Access to regulated information. 378. Minimum Standards. 379. Third countries.
+373. Information requirements for issuers whose shares are admitted to trading on a regulated market. 374. Information requirements for issuers whose debt securities are admitted to trading on a regulated market. 375. Control by the GFSC. 376. Languages. 377. Access to regulated information. 378. Minimum Standards.
 
 2019-26 Financial Services
+
+379. Third countries.
 
 Supervision, sanctions and other measures
 
@@ -678,9 +680,9 @@ Squeeze-out and sell-out
 
 Offence of contravening Part 20
 
-404. Offences.
-
 Financial Services 2019-26
+
+404. Offences.
 
 PART 21 MARKET ABUSE
 
@@ -712,9 +714,9 @@ Introduction
 
 Power to require suspension or removal
 
-422. Power to require suspension or removal from trading.
-
 2019-26 Financial Services
+
+422. Power to require suspension or removal from trading.
 
 Procedure
 
@@ -734,9 +736,11 @@ CHAPTER 2 TRANSFER OF GENERAL BUSINESS
 
 435. Application of Chapter 2. 436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required. 438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision. 444. Effect of approval. 445. Notice of transfer. 446. Omitted. 447. Service of notices under this Chapter.
 
-CHAPTER 3 TRANSFER OF LONG TERM BUSINESS
+CHAPTER 3
 
 Financial Services 2019-26
+
+TRANSFER OF LONG TERM BUSINESS
 
 448. Application of Chapter 3. 449. Disapplication of certain provisions: reinsurance undertakings. 450. Sanction of court required. 451. Notice of proposed transfer. 452. Obligation to comply with notice requirements. 453. Scheme reports. 454. Right to participate in proceedings. 455. Conditions for sanction of the court. 456. Omitted. 457. Omitted. 458. Omitted. 459. Omitted. 460. Effect of order sanctioning transfer. 461. Limitation on rights to terminate etc. 462. Appointment of actuary in relation to reduction of benefits. 463. Notice of transfer. 464. Omitted.
 
@@ -758,9 +762,9 @@ Approval and mutual recognition
 
 474. Approval of statutory auditors and audit firms. 475. Omitted. 476. Good repute. 477. Withdrawal of approval. 478. Omitted.
 
-Education, training and experience requirements
-
 2019-26 Financial Services
+
+Education, training and experience requirements
 
 479. Educational qualifications. 480. Examination of professional competence. 481. Test of theoretical knowledge. 482. Exemptions. 483. Practical training. 484. Qualification through long-term practical experience. 485. Combination of practical training and theoretical instruction.
 
@@ -788,9 +792,9 @@ Fees and scope of audit
 
 501. Audit fees. 502. Scope of the statutory audit.
 
-Auditing standards and audit reporting
-
 Financial Services 2019-26
+
+Auditing standards and audit reporting
 
 503. Auditing standards. 504. Statutory audits of consolidated financial statements. 505. Audit reporting.
 
@@ -814,9 +818,9 @@ Appointment and dismissal of auditors
 
 529. Appointment of statutory auditors or audit firms. 530. Dismissal and resignation of statutory auditors or audit firms.
 
-Audit Committee
-
 2019-26 Financial Services
+
+Audit Committee
 
 531. Audit committee.
 
@@ -876,11 +880,11 @@ Intervention
 
 Sanctions
 
-572. Sanctions: general. 573. Administrative penalties. 574. Public statement. 575. Cease and desist order. 576. Prohibition order.
+572. Sanctions: general. 573. Administrative penalties. 574. Public statement. 575. Cease and desist order.
 
 2019-26 Financial Services
 
-577. Sanctioning actions: procedure etc.
+576. Prohibition order. 577. Sanctioning actions: procedure etc.
 
 Professional secrecy and exchange of information
 
@@ -906,11 +910,11 @@ Approval
 
 Procedure
 
-599. Applications in connection with approvals. 600. Notice procedure. 601. Procedure on suspension of a scheme’s approval.
+599. Applications in connection with approvals. 600. Notice procedure.
 
 Financial Services 2019-26
 
-602. Appeals.
+601. Procedure on suspension of a scheme’s approval. 602. Appeals.
 
 Intervention
 

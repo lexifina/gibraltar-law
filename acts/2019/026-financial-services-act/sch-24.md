@@ -38,7 +38,7 @@ Private schemes
 
 (b) are not authorised by the scheme’s constituting instrument to have more than 50 participants.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 4.(1)  A private scheme is promoted in accordance with this Part of this Schedule where the scheme is promoted by way of an offer addressed exclusively to a restricted category of persons.
 
@@ -54,4 +54,4 @@ Financial Services 2019-26
 
 5.  The Minister may by regulations amend this Part of this Schedule by adding, modifying or removing provisions or by substituting any provision contained in it.
 
-2019-26 Financial Services
+Financial Services 2019-26

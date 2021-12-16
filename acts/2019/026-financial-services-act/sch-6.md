@@ -30,7 +30,7 @@ Membership.
 
 (9)  The Minister, having consulted the GFSC, may re-appoint as a member a person who is (or has been) a member.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (10)  A GFSC member or employee is not eligible to be appointed as a member of the DMC.
 
@@ -68,7 +68,7 @@ Procedure and meetings.
 
 (5)  If at any time, as a result of members being unable to act due to conflicts of interest or otherwise unavailable, there are insufficient members available to discharge the DMC’s functions (whether generally or in relation to a particular matter), the Minister may, after
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 consulting with the GFSC, appoint temporary members for a specified period or to make decisions in respect of a particular matter.
 
@@ -98,7 +98,7 @@ General powers.
 
 6.  The DMC may do anything which is calculated to facilitate, or is conducive or incidental to, the discharge of any function conferred on the DMC by or under this Act.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 Immunity.
 
@@ -108,4 +108,4 @@ Immunity.
 
 (3)  The GFSC must (unless bad faith is definitively found to have existed) indemnify any existing and former members of the DMC for the costs of defending any action brought by a third party in respect of anything they are alleged to have done or omitted in the discharge or purported discharge of any powers or functions conferred on the DMC by this Act.
 
-Financial Services 2019-26
+2019-26 Financial Services

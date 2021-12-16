@@ -28,7 +28,7 @@ Transitional provision in respect of Statutory auditors and audit firms.
 
 4.  A statutory auditor or audit firm that, immediately before Part 24 comes into operation, is approved or registered under the Financial Services (Auditors) Act 2009 is to be treated as if that approval or registration was granted by the GFSC under Part 24.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 Transitional provision in respect of insolvency practitioners.
 
@@ -62,7 +62,7 @@ Transitional provision in respect of appeals.
 
 (ii) after that date in accordance with paragraph 7,
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 the appeal must be determined in accordance with the repealed enactment.
 
@@ -98,10 +98,10 @@ Acquired rights: regulated individuals
 
 (a) the approval referred to in sub-paragraph (1)(b)(i); or
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (b) the satisfaction referred to in sub-paragraph (1)(b)(ii).
 
 (4)  Approval under this paragraph does not affect an individual’s liability for any contravention of a repealed enactment which occurred before Part 8 comes into operation.
 
-Financial Services 2019-26
+2019-26 Financial Services

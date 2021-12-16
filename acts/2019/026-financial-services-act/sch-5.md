@@ -34,7 +34,7 @@ In considering what degree of protection may be appropriate, the GFSC must have 
 
 (a) the general principle that those providing financial services should provide consumers with a level of care that is appropriate, having regard to the degree of
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 risk involved in relation to the investment or other transaction and the capabilities of the consumer in question;
 
@@ -68,4 +68,4 @@ In considering the reduction of financial crime objective, the GFSC must, in par
 
 (c) authorised persons devoting adequate resources to the matters mentioned in paragraph (b).
 
-Financial Services 2019-26
+2019-26 Financial Services
