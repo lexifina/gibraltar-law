@@ -30,7 +30,7 @@ SCRdefault denotes the counterparty default risk module.
 
 i\j Market Default Life Health Non-life Market 1 0.25 0.25 0.25 0.25 Default 0.25 1 0.25 0.25 0.5
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 Life 0.25 0.25 1 0.25 0 Health 0.25 0.25 0.25 1 0 Non-life 0.25 0.5 0 0 1
 
@@ -60,7 +60,7 @@ where–
 
 SCRi denotes the sub-module i;
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 SCRj denotes the sub-module j; and
 
@@ -98,7 +98,7 @@ SCRj denotes the sub-module j; and
 
 (2)  In the calculation, SCRi and SCRj are replaced by the following–
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 SCR interest rate denotes the interest rate risk sub-module;
 

@@ -24,7 +24,7 @@ Regulation 281 General measures.
 
 but sub-paragraphs (1) and (2) must not prevent any undertaking from operating in accordance with Parts 1 to 11 of these Regulations.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (4)  The GFSC must draw up and supply to the Government a list of the insurance and reinsurance undertakings concerned for onward communication to all the other EEA States.
 
@@ -44,11 +44,11 @@ Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 
 
 (7)  Despite regulations 90, 91(3) and 94, the following must apply–
 
-(a) until 31 December 2017 the standard parameters to be used when calculating the concentration risk sub-module and the spread risk sub-module in accordance with the standard formula must be the same in relation to exposures to Member States' central governments or central banks denominated and funded in the domestic currency of any EEA State as the ones that would be applied to such exposures denominated and funded in their domestic currency;
+(a) until 31 December 2017 the standard parameters to be used when calculating the concentration risk sub-module and the spread risk sub-module in accordance with the standard formula must be the same in relation to exposures to Member  States' central governments or central banks denominated and funded in the domestic currency of any EEA State as the ones that would be applied to such exposures denominated and funded in their domestic currency;
 
 (b) in 2018 the standard parameters to be used when calculating the concentration risk sub-module and the spread risk submodule in accordance with the standard
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 formula must be reduced by 80% in relation to exposures to EEA States' central governments or central banks denominated and funded in the domestic currency of any other EEA State;
 
@@ -56,17 +56,17 @@ formula must be reduced by 80% in relation to exposures to EEA States' central g
 
 (d) from 1 January 2020 the standard parameters to be used when calculating the concentration risk sub-module and the spread risk sub-module in accordance with the standard formula must not be reduced in relation to exposures to EEA States' central governments or central banks denominated and funded in the domestic currency of any other EEA State.
 
-(8)  Despite regulations 90, 91(3) and 94, the standard parameters to be used for equities that the undertaking purchased on or before 1 January 2016, when calculating the equity risk sub-module in accordance with the standard formula without the option set out in regulations 97, must be calculated as the weighted averages of–
+(8)  Despite regulations 90, 91(3) and 94, the standard parameters to be used for equities that the undertaking purchased on or before 1 January 2016, when calculating the equity risk sub- module in accordance with the standard formula without the option set out in regulations 97, must be calculated as the weighted averages of–
 
 (a) the standard parameter to be used when calculating the equity risk sub-module in accordance with that regulation; and
 
-(b) the standard parameter to be used when calculating the equity risk sub-module in accordance with the standard formula without the option set out in that regulation, and the weight for the parameter expressed in paragraph (b) of the first sub-paragraph must increase at least linearly at the end of each year from 0% during the year starting on 1 January 2016 to 100% on 1 January 2023.
+(b) the standard parameter to be used when calculating the equity risk sub-module in accordance with the standard formula without the option set out in that regulation, and the weight for the parameter expressed in paragraph (b) of the first sub- paragraph must increase at least linearly at the end of each year from 0% during the year starting on 1 January 2016 to 100% on 1 January 2023.
 
 (9)  Despite regulation 122(3) and without limiting sub-regulation (5) of that regulation, where insurance and reinsurance undertakings comply with the Required Solvency Margin referred to in  Article 16a of Directive 73/239/EEC, Article 28 of Directive 2002/83/EC or Article 37, 38 or 39 of Directive 2005/68/EC respectively as applicable in the law of the Gibraltar on the day before those Directives are repealed pursuant to Article 310 of the Solvency 2 Directive but do not comply with the Solvency Capital Requirement in the first year of application of the Solvency 2 Directive–
 
 (a) the GFSC must require the insurance or reinsurance undertaking concerned to take the necessary measures to achieve the establishment of the level of eligible own funds covering the Solvency Capital Requirement or the reduction of its risk profile to ensure compliance with the Solvency Capital Requirement by 31 December 2017;
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (b) the insurance or reinsurance undertaking concerned must, every three months, submit a progress report to the GFSC setting out the measures taken and the progress made to establish the level of eligible own funds covering the Solvency Capital Requirement or to reduce the risk profile to ensure compliance with the Solvency Capital Requirement; and
 
@@ -88,15 +88,15 @@ Transitional measure on risk-free interest rates.
 
 (a) the interest rate as determined by the insurance or reinsurance undertaking in accordance with the laws, regulations and administrative provisions which are
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 adopted pursuant to Article 20 of Directive 2002/83/EC at the last date of the application of that Directive;
 
 (b) the annual effective rate, calculated as the single discount rate that, where applied to the cash flows of the portfolio of admissible insurance and reinsurance obligations, results in a value that is equal to the value of the best estimate of the portfolio of admissible insurance and reinsurance obligations where the time value of money is taken into account using the relevant risk-free interest rate term structure referred to in regulation 67(2) and (2).
 
-(3)  Where Gibraltar has adopted laws, regulations and administrative provisions pursuant to Article 20(1)B(a)(ii) of Directive 2002/83/EC, the interest rate referred to in sub- paragraph (2)(a) must be determined using the methods used by the insurance or reinsurance undertaking at the last date of the application of Directive 2002/83/EC; and the portion referred to in the sub-paragraph (2) must decrease linearly at the end of each year from 100% during the year starting from 1 January 2016 to 0% on 1 January 2032.
+(3)  Where Gibraltar has adopted laws, regulations and administrative provisions pursuant to Article 20(1)B(a)(ii) of Directive 2002/83/EC, the interest rate referred to in sub-paragraph (2)(a) must be determined using the methods used by the insurance or reinsurance undertaking at the last date of the application of Directive 2002/83/EC; and the portion referred to in the sub-paragraph (2) must decrease linearly at the end of each year from 100% during the year starting from 1 January 2016 to 0% on 1 January 2032.
 
-(4)  Where insurance and reinsurance undertakings apply the volatility adjustment referred to in regulation 70, the relevant risk-free interest rate term structure referred to in sub- regulation (2)(b) must be the adjusted relevant risk-free interest rate term structure set out in that paragraph.
+(4)  Where insurance and reinsurance undertakings apply the volatility adjustment referred to in regulation 70, the relevant risk-free interest rate term structure referred to in sub-regulation (2)(b) must be the adjusted relevant risk-free interest rate term structure set out in that paragraph.
 
 (5)  The admissible insurance and reinsurance obligations must comprise only insurance or reinsurance obligations that meet the following requirements–
 
@@ -112,7 +112,7 @@ adopted pursuant to Article 20 of Directive 2002/83/EC at the last date of the a
 
 (b) not apply paragraph 3 of this Schedule;
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (c) as part of their report on their solvency and financial condition referred to in regulation 52, publicly disclose that they apply the transitional risk-free interest rate term structure, and the quantification of the impact of not applying this transitional measure on their financial position.
 
@@ -130,11 +130,11 @@ Transitional measure on technical provisions.
 
 (4)  Subject to prior approval by or on the initiative of the supervisory authority, the amounts of technical provisions, including where applicable the amount of the volatility adjustment, used to calculate the transitional deduction referred to in sub-paragraph (2)(a) and (b) may be recalculated every 24 months, or more frequently where the risk profile of the undertaking has materially changed.
 
-(5)  The deduction referred to in sub-paragraph (2) may be limited by the supervisory authority if its application could result in a reduction of the financial resources requirements that apply to the undertaking when compared with those calculated in accordance with the
+(5)  The deduction referred to in sub-paragraph (2) may be limited by the supervisory authority if its application could result in a reduction of the financial resources requirements that apply to the undertaking when compared with those calculated in accordance with the laws, regulations and administrative provisions which are adopted pursuant to Directive
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
-laws, regulations and administrative provisions which are adopted pursuant to Directive 73/239/EEC, Directive 2002/83/EC and Directive 2005/68/EC on the day before those Directives are repealed pursuant to Article 310 of the Solvency 2 Directive.
+73/239/EEC, Directive 2002/83/EC and Directive 2005/68/EC on the day before those Directives are repealed pursuant to Article 310 of the Solvency 2 Directive.
 
 (6)  Insurance and reinsurance undertakings which apply sub-paragraph (1)–
 
@@ -154,10 +154,10 @@ Phasing-in plan on transitional measures on risk-free interest rates and on tech
 
 (4)  The insurance or reinsurance undertaking concerned may update the phasing-in plan during the transitional period.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
 (5)  The insurance and reinsurance undertakings concerned must submit annually a report to the GFSC setting out the measures taken and the progress made to ensure compliance with the Solvency Capital Requirement at the end of the transitional period.
+
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (6)  The GFSC must revoke the approval for the application of the transitional measure where that progress report shows that compliance with  the Solvency Capital Requirement at the end of the transitional period is unrealistic.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044

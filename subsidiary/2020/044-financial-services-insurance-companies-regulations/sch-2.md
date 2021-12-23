@@ -28,7 +28,7 @@ Appointment of liquidator.
 
 (5)  Where policyholders make an application under sub-paragraph (1)(b)–
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (a) the policyholders must serve a copy of the application on the GFSC; and
 
@@ -56,9 +56,9 @@ Continuation of long-term business.
 
 7.(1)  A liquidator carrying on the business of an insurer or reinsurer may agree to the variation of existing contracts but has no power to enter into new contracts of insurance.
 
-(2)  A liquidator may apply to the court for the appointment of a special manager for the long-term business.
+(2)  A liquidator may apply to the court for the appointment of a special manager for the long- term business.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 (3)  The liquidator must serve on the GFSC a copy of any application made under sub- paragraph (2) and–
 
@@ -80,4 +80,4 @@ Penalties.
 
 8.  A liquidator who contravenes paragraph 5 or 7 commits an offence and is liable on summary conviction to a fine at level 3 on the standard scale.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020

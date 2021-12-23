@@ -10,9 +10,9 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1), 4(1), 5(5), (8), 8, 11(1), (3), 14(8), 16(1)(a), (3)(b), (g), 18(2)(a), 21(3)(a)-(b), (4), 23-24, 26(1), 28(1), (4)-(5), 29(2)(d), (3), 31, 33(1)(c), (2)(b), 34(2)(b), (f), (j), (5), (a), 37(3), (10), 38(1), 39(7), 41, 44(3), 46(9), 47(2)(a), 51(1)-(6), 53, 57(1), (3), 58(1), (f), (2)(a), (b)(ii), (4)(b)-(c), (7), 59-61, 66(3)(d), 67(8), 69(1)(d), (2)(b)-(c), 71-72, 87(2), 94(1), 95(2)(c), (3)(b), (5)(c), 97(1), (3), 118(2), 119, 119A, 121(1), 122(5)-(6), (8), (11), 123(3), (5), 124(1), 127(6)-(8), 128-150, 151(1)(a), (2)(a), (g), 153, 155(6), 156, 157(1)-(2), 158(4), 159-160, 161(1)(a), 162, 163(4)-(5), 164, 168, 169(1)(b), (7), 172-178, 179(2)(c), (4), 186, 190(2), 191(1), 192(3)(a)-(d), (4)-(7), 193(2)-(4), 194-196, 197(4)- (5), 198(1)-(2), (4)-(5), 199(3), 200(4)-(5), (a)-(c), 201(5), (7), 204(1)-(2), 205(4), 206(2), (b), (3), 207(1)-(2), (4), 208, 210(1)-(7), (c), 211(1), (b), (2), 212(7), 213(1), 214-220, 221(1)-(3), (b), (5)-(6), 222(1)-(2), (4), (b), (6)-(7), 223(1), (5), (6)(a), (7)- (8), 224-232, 233(4), 236(1)-(4), 237-240, 241(1)- (2), 242, 243(1)-(2), 244(1)-(5), 245(1)-(2), 246(1)- (3), (5), 247, 248(1)-(5), (7), 249, 251(6), 255, 256(1), 257(1)-(2), 258, 259(1)-(2), 260-262, 263(1), 264(1)-(2), 265-267, 268(1)-(4), 269-273, 274(2)(b)-(d), 279, 281, Sch.2-4
+LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1), 4(1), 5(5), (8), 8, 11(1), (3), 14(8), 16(1)(a), (3)(b), (g), 18(2)(a), 21(3)(a)-(b), (4), 23-24, 26(1), 28(1), (4)-(5), 29(2)(d), (3), 31, 33(1)(c), (2)(b), 34(2)(b), (f), (j), (5), (a), 37(3), (10), 38(1), 39(7), 41, 44(3), 46(9), 47(2)(a), 51(1)-(6), 53, 57(1), (3), 58(1), (f), (2)(a), (b)(ii), (4)(b)-(c), (7), 59-61, 66(3)(d), 67(8), 69(1)(d), (2)(b)-(c), 71-72, 87(2), 94(1), 95(2)(c), (3)(b), (5)(c), 97(1), (3), 118(2), 119, 119A, 121(1), 122(5)-(6), (8), (11), 123(3), (5), 124(1), 127(6)-(8), 128-150, 151(1)(a), (2)(a), (g), 153, 155(6), 156, 157(1)-(2), 158(4), 159-160, 161(1)(a), 162, 163(4)-(5), 164, 168, 169(1)(b), (7), 172-178, 179(2)(c), (4), 186, 190(2), 191(1), 192(3)(a)-(d), (4)-(7), 193(2)-(4), 194-196, 197(4)- (5), 198(1)-(2), (4)-(5), 199(3), 200(4)-(5), (a)-(c), 201(5), (7), 204(1)-(2), 205(4), 206(2), (b), (3), 207(1)-(2), (4), 208, 210(1)-(7), (c), 211(1), (b), (2), 212(7), 213(1), 214-220, 221(1)-(3), (b), (5)-(6), 222(1)-(2), (4), (b), (6)-(7), 223(1), (5), (6)(a), (7)- (8), 224-232, 233(4), 236(1)-(4), 237-240, 241(1)- (2), 242, 243(1)-(2), 244(1)-(5), 245(1)-(2), 246(1)- (3), (5), 247, 248(1)-(5), (7), 249, 251(6), 255, 256(1), 257(1)-(2), 258, 259(1)-(2), 260-262, 263(1), 264(1)-(2), 265-267, 268(1)-(4), 269-273, 274(2)(b)- (d), 279, 281, Sch.2-4
 
-1.1.2021
+1.1.2021 2021/496 rr. 237(1), 240(2) 23.12.2021
 
 2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
@@ -154,9 +154,9 @@ Re-insurance
 
 160. Equivalence in relation to reinsurance undertakings. 161. Prohibition on pledging of assets or more favourable treatment.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
-
 Subsidiaries of insurance and reinsurance undertakings governed by the laws of a third country and acquisitions of holdings by such undertakings
+
+2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 162. Omitted.
 
@@ -194,9 +194,11 @@ Community co-insurance
 
 Legal expenses insurance
 
+179. Legal expenses insurance. 180. Separate contracts.
+
 Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
-179. Legal expenses insurance. 180. Separate contracts. 181. Management of claims. 182. Freedom to choose lawyer. 183. Exception to free choice of lawyer. 184. Arbitration. 185. Conflict of interest. 186. Omitted.
+181. Management of claims. 182. Freedom to choose lawyer. 183. Exception to free choice of lawyer. 184. Arbitration. 185. Conflict of interest. 186. Omitted.
 
 Provisions specific to life insurance
 
@@ -218,11 +220,11 @@ Levels
 
 Group solvency
 
-197. Supervision of group solvency. 198. Frequency of calculations. 199. Choice of calculation method. 200. Inclusion of proportional share. 201. Elimination of double use of eligible own funds. 202. Elimination of intra-group creation of capital. 203. Valuation. 204. Related insurance and reinsurance undertakings. 205. Intermediate insurance holding companies.
+197. Supervision of group solvency. 198. Frequency of calculations. 199. Choice of calculation method. 200. Inclusion of proportional share. 201. Elimination of double use of eligible own funds. 202. Elimination of intra-group creation of capital. 203. Valuation. 204. Related insurance and reinsurance undertakings. 205. Intermediate insurance holding companies. 206. Equivalence concerning related third-country insurance and reinsurance undertakings. 207. Related credit institutions, investment firms and financial institutions.
 
 2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
-206. Equivalence concerning related third-country insurance and reinsurance undertakings. 207. Related credit institutions, investment firms and financial institutions. 208. Non-availability of necessary information. 209. Method 1 (default method): the accounting consolidation-based method. 210. Group internal model. 211. Group capital add-on. 212. Method 2 (alternative method): the deduction and aggregation method. 213. Group solvency of an insurance holding company or mixed financial holding company.
+208. Non-availability of necessary information. 209. Method 1 (default method): the accounting consolidation-based method. 210. Group internal model. 211. Group capital add-on. 212. Method 2 (alternative method): the deduction and aggregation method. 213. Group solvency of an insurance holding company or mixed financial holding company.
 
 Groups with centralised risk management
 
@@ -248,9 +250,11 @@ Mixed-activity insurance holding companies
 
 241. Intra-group transactions.
 
+PART 12
+
 Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
-PART 12 REORGANISATION AND WINDING-UP OF INSURANCE UNDERTAKINGS
+REORGANISATION AND WINDING-UP OF INSURANCE UNDERTAKINGS
 
 Preliminary
 
@@ -268,11 +272,9 @@ Common provisions
 
 260. to 262. Omitted. 263. Set-off. 264. Regulated markets. 265. to 267. Omitted. 268. Administrators and liquidators. 269. to 271. Omitted. 272. Professional secrecy. 273. Omitted.
 
-PART 13
+PART 13 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
 2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
-
-MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
 274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 282. Liquidation: supplementary provisions. 283. Swiss general insurers. 284. Revocations.
 
