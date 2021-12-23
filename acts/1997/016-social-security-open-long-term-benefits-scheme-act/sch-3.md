@@ -6,7 +6,7 @@ CONTRIBUTION CONDITIONS
 
 SURVIVOR’S BENEFIT
 
-1. (1) The contribution conditions for survivor’s benefit are that–
+1.(1) The contribution conditions for survivor’s benefit are that–
 
 (a) not less than two hundred and fifty contributions have been paid by the husband, wife or civil partner as the case may be in respect of the period between his or her entry into insurance and the relevant time; and
 
@@ -30,10 +30,6 @@ GUARDIAN’S ALLOWANCE
 
 OLD AGE PENSION
 
-Social Security (Open Long-Term Benefits Scheme)
-
-1997-16
-
 3.(1) The contribution conditions for old age pension are that–
 
 (a) not less than one hundred and fifty-six contributions have been paid by the relevant person in respect of the period between that person’s entry into insurance and the relevant time; and
@@ -52,12 +48,8 @@ ADDITIONAL CONTRIBUTION CONDITIONS
 
 Benefits at the rates specified in Part III of Schedule 2 shall be payable if the contributions which satisfy the contribution conditions specified in Part I of this Schedule include contributions paid after the 1st day of January, 1968, as follows–
 
-(a)  Survivor’s benefit:..........................not less than 104;
+(a) Survivor’s benefit:...........................not less than 104;
 
-(b)  Guardian’s allowance:....................not less than 26;
+(b) Guardian’s allowance:.....................not less than 26;
 
 (c) Old age pensions:.............................not less than 104.
-
-Social Security (Open Long-Term Benefits Scheme)
-
-1997-16

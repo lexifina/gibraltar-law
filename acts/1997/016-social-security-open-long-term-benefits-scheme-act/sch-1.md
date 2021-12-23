@@ -34,10 +34,6 @@ Rate of Additional voluntary Contribution for a Self-employed Woman.
 
 In addition to the rate of contribution for a self-employed person a fixed amount of £2.20 per week is optionally payable for the purpose of Maternity Allowance.
 
-Social Security (Open Long-Term Benefits Scheme)
-
-1997-16
-
 Apportionment of Contributions.
 
 All contributions shall be deemed to be collected as follows–
@@ -55,7 +51,3 @@ Gibraltar Health Authority – GPMS
 Total
 
 100.00%.
-
-Social Security (Open Long-Term Benefits Scheme)
-
-1997-16
