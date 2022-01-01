@@ -34,9 +34,7 @@ ENACTMENTS REPEALED
 
 16. The Companies (Amendment) Act 1999 (1999 No.30): the whole Act
 
-Companies
-
-2014-19 17. The Companies (Execution of Documents by Foreign Companies) Act 2001 (2001 No. 2): the whole Act.
+17. The Companies (Execution of Documents by Foreign Companies) Act 2001 (2001 No. 2): the whole Act.
 
 18. The Companies (Amendment) Act 2001 (2001 No.03): the whole Act.
 
@@ -56,7 +54,7 @@ Companies
 
 26. The Companies (Accounts) Act 1999 (Amendment) Regulations 2011 L.N. No 2011=159: the whole of the regulations.
 
-27. The Companies (Consolidated Accounts) Act 1999 (Amendment) Regulations 2011 L.N.  2011=160: the whole of the regulations.
+27. The Companies (Consolidated Accounts) Act 1999 (Amendment) Regulations 2011 L.N. 2011=160: the whole of the regulations.
 
 28.. The Companies, Partnerships and Trusts (Miscellaneous Amendments) Act 2012 s.2(2)(4).
 

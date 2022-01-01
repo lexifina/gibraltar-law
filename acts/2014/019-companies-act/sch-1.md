@@ -22,10 +22,6 @@ DE-REGISTRATION OF CERTAIN COMPANIES ON BECOMING LIMITED PARTNERSHIPS
 
 (c) for the making of such alterations in the memorandum and articles as are necessary to bring them (in substance and in form) into conformity with the requirements of the Partnership Act and the Limited Partnerships Act as the partnership agreement.
 
-Companies
-
-2014-19
-
 (4)  The special resolution referred to in subparagraph (1)(a) is subject to section 206 (copy to be forwarded to the Registrar within 30 days).
 
 (5)  A cancellation of shares in pursuance of this Schedule shall not be deemed to be a reduction of share capital within the meaning of this Act.
@@ -52,11 +48,9 @@ Companies
 
 (iii) the date on which it is proposed to register under the Limited Partnerships Act, and
 
-(iv) a copy of the statement to be submitted to the Registrar of Limited Partnerships in accordance with section 7A of the Limited Partnerships Act.
+(iv) a copy of the statement to be submitted to the Registrar of Limited
 
-Companies
-
-2014-19
+Partnerships in accordance with section 7A of the Limited Partnerships Act.
 
 (b) a certificate of good standing in respect of the company issued by the Registrar;
 
@@ -68,7 +62,7 @@ Companies
 
 (iii) licensed or authorised in accordance with a Community requirement other than one falling within subparagraph (i) or (ii),
 
-evidence of the consent of the competent authority under the relevant legislation to the company de-registering under this Act and registering under the Limited Partnerships Act,
+evidence of the consent of the competent authority under the relevant legislation to the company de- registering under this Act and registering under the Limited Partnerships Act,
 
 (d) evidence to the satisfaction of the Registrar that no proceedings for insolvency have been commenced against the company in Gibraltar; and
 
@@ -84,11 +78,7 @@ evidence of the consent of the competent authority under the relevant legislatio
 
 (a) on being satisfied that the requirements of paragraphs 1 and 2 are satisfied; and
 
-(b) having received notice in writing from the Registrar of Limited Partnerships appointed under section 13 of the Limited
-
-Companies
-
-2014-19 Partnerships Act that, on receipt of confirmation from the Registrar that the requirements of this Schedule have been met in respect of the body, the body may be registered under section 4 of that Act,
+(b) having received notice in writing from the Registrar of Limited Partnerships appointed under section 13 of the Limited Partnerships Act that, on receipt of confirmation from the Registrar that the requirements of this Schedule have been met in respect of the body, the body may be registered under section 4 of that Act,
 
 shall de-register the body as a company registered under this Act with effect from the date and the time which the Registrar of Limited Partnerships notifies to the Registrar as the date and time at which the registration of the body under section 4 of the Limited Partnerships Act is to take effect.
 
@@ -102,7 +92,7 @@ shall de-register the body as a company registered under this Act with effect fr
 
 (b) section 7A of the Limited Partnerships Act,
 
-is on the date and time referred to in subparagraph  (2) a continuation of the undertaking of the company de-registered by virtue of the procedures referred to in paragraph (a).
+is on the date and time referred to in subparagraph (2) a continuation of the undertaking of the company de-registered by virtue of the procedures referred to in paragraph (a).
 
 PART II
 
@@ -112,9 +102,7 @@ DE-REGISTRATION OF LIMITED PARTNERSHIPS ON BECOMING A REGISTERED COMPANY
 
 (a) a special resolution that it should be so re-registered is passed by the general partner of the limited partnership; and
 
-Companies
-
-2014-19 (b) the requirements of this paragraph and paragraph 2 are complied with in respect of the resolution and otherwise.
+(b) the requirements of this paragraph and paragraph 2 are complied with in respect of the resolution and otherwise.
 
 (2)  The special resolution referred to in subparagraph (1)(a) shall state the capital contributions of the limited partnership and shall provide–
 
@@ -122,7 +110,7 @@ Companies
 
 (b) for the method of converting participation in the capital of the limited partnership, into shares or membership, as the case may be, specifying which limited partners shall become members and how the general partner shall be treated and the sum contributed to the capital of the company by each partner; and
 
-(c) for the making of such alterations in the partnership agreement as are necessary to bring them (in substance and in form)  into conformity with the requirements of memorandum and articles of the Company under this Act.
+(c) for the making of such alterations in the partnership agreement as are necessary to bring them (in substance and in form) into conformity with the requirements of memorandum and articles of the Company under this Act.
 
 (3)  The special resolution referred to in subparagraph (1)(a) is subject to section 206 (copy to be forwarded to the Registrar within 30 days).
 
@@ -139,10 +127,6 @@ Companies
 (i) the name of the limited partnership and the firm name under which registration as a company is to be sought,
 
 (ii) the proposed principal place of business of the company,
-
-Companies
-
-2014-19
 
 (iii) the date on which it is proposed to register under this Act, and
 
@@ -168,9 +152,7 @@ Companies
 
 shall de-register the body as a limited partnership registered under the Limited Partnership Act with effect from the date and the time when the company is registered as a company under this Act.
 
-Companies
-
-2014-19 (3)  On the date and immediately before the time notified to the Registrar under subparagraph (2) the alterations in the memorandum of the company specified in the special resolution and the alterations in, and additions to, the articles of the company so specified take effect.
+(3)  On the date and immediately before the time notified to the Registrar under subparagraph (2) the alterations in the memorandum of the company specified in the special resolution and the alterations in, and additions to, the articles of the company so specified take effect.
 
 (4)  The notification given by the Registrar of Limited Partnerships under subparagraph (2) is conclusive evidence that the requirements of this Schedule in respect of de-registration and of matters precedent and incidental to it have been complied with, and that the limited partnership was authorised to be de-registered in pursuance of this Schedule and was duly so de-registered.
 
@@ -180,7 +162,7 @@ CONSEQUENTIAL AMENDMENTS OF LIMITED PARTNERSHIPS ACT
 
 4.(1)  In section 7A of the Limited Partnerships Act, after the words “Companies Act” in each place where they occur, there shall be inserted 2014”.
 
-(2)  Section 7A shall also be subject to the following  amendments–
+(2)  Section 7A shall also be subject to the following amendments–
 
 (a) in subsection (2)(a) for the words “section 37 of” there shall be substituted “paragraph 1 of Schedule 1 to”;
 
@@ -194,16 +176,8 @@ CONSEQUENTIAL AMENDMENTS OF LIMITED PARTNERSHIPS ACT
 
 (a) register the limited partnership under this Act with effect from the date and time specified in subsection (3); and
 
-Companies
-
-2014-19
-
 (b) issue a Certificate of Registration and Continuation as a Limited Partnership”; and
 
 (e) in subsection (5)(b) for the words “sections 37 and 38 of” there shall be substituted the words “Part 1 of Schedule 1 to”; and for “subsection (4)” there shall be substituted “subsection (3)”; and
 
 (f) in subsection (6) for the words “means the person appointed under section 343 of” there shall be substituted the words “has the same meaning as in”.
-
-Companies
-
-2014-19

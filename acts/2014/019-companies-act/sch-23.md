@@ -34,13 +34,9 @@ and take security for the discharge of any such call, debt, liability or claim a
 
 8.  Power to use the company’s seal.
 
-Companies
-
-2014-19
-
 9.  Power to prove, rank and claim in the bankruptcy, liquidation, insolvency or sequestration of any member or past member for any balance against his estate, and to receive dividends, in the bankruptcy, liquidation, insolvency, sequestration or in respect of that balance, as a separate debt due from the bankrupt or insolvent, and rateably with the other separate creditors.
 
-10.  Power to draw, accept, make and endorse any bill of exchange or promissory note in the name and on behalf of  the company with the same effect with respect to the company’s liability as if the bill or note had been drawn, accepted, made or indorsed by or on behalf of the company in the course of its business.
+10.  Power to draw, accept, make and endorse any bill of exchange or promissory note in the name and on behalf of the company with the same effect with respect to the company’s liability as if the bill or note had been drawn, accepted, made or indorsed by or on behalf of the company in the course of its business.
 
 11.  Power to borrow money, whether on the security of the assets of the company or otherwise.
 
@@ -57,7 +53,3 @@ Companies
 14.  Power to appoint a solicitor, accountant or other professionally qualified person to assist him in the performance of his duties.
 
 15.  Power to appoint an agent to do any business that the voluntary liquidator is unable to do himself, or which can be more conveniently done by an agent.
-
-Companies
-
-2014-19

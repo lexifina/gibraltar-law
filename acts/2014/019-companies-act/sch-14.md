@@ -11,7 +11,3 @@ Items 1, 2, 3 and 6 in Format 1;
 Items 1 to 5 in Format 2.
 
 2. Where a small company delivers to the Registrar a profit and loss account it may do so in accordance with paragraph 1.
-
-Companies
-
-2014-19

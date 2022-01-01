@@ -2,7 +2,7 @@ SCHEDULE 24
 
 TABLE OF FEES TO BE PAID TO THE REGISTRAR OF COMPANIES BY OR IN RESPECT OF COMPANIES HAVING A SHARE CAPITAL, COMPANIES NOT HAVING A SHARE CAPITAL, COMPANIES TO WHICH PARTS XII AND XIII OF THE ACT APPLY AND COMPANIES TO WHICH REGULATION (EC) No. 2157/2001 (THE “EC REGULATION”) APPLIES
 
-ITEM FEE 1.(a) Incorporation, registration (including registration under Part XII of the Act) or submission of any change in status of a company, that is to say, the fact of its being public or private or limited or unlimited or limited by shares or by guarantee or de-registering on registering as limited partnership (except on re-domiciliation) regardless of share capital.
+ITEM FEE 1.(a) Incorporation, registration (including registration under Part XII of the Act) or submission of any change in status of a company, that is to say, the fact of its being public or private or limited or unlimited or limited by shares or by guarantee or de- registering on registering as limited partnership (except on re-domiciliation) regardless of share capital.
 
 £100.00 (b) *Stamp Duty payment on nominal share capital and increases with share capital will be payable at Companies House at the time of incorporation and increase.
 
@@ -16,9 +16,9 @@ Same day urgency fee for incorporation or registration of a company including re
 
 Or re-domiciling outside Gibraltar under section 442(1)(b)
 
-£585.00 (d) Registration of Prospectus Or Statement in Lieu of Prospectus
+£620.00 (d) Registration of Prospectus Or Statement in Lieu of Prospectus
 
-£200.00 (e) Registration of change of name
+£210.00 (e) Registration of change of name
 
 £100.00 (f) Same day urgency fee for registration of a change of name of a company (correct documents to be lodged with the Registrar before 12.00 midday)
 
@@ -28,45 +28,47 @@ Plus where company is a cell Company, in respect of:
 
 1 Active Cell 2 Active Cells 3 to 15 Active Cells 15+ Active Cells
 
-£86.00
+£91.00
 
-£86.00 £150.00 £250.00 £500.00
+£91.00 £160.00 £265.00 £525.00
 
 Annual or Voluntary Statement of Allotments, Redemptions and Purchase of Own Shares under section 189
 
-Companies
+£200.00 (h) Lodging of particulars of directors and/or secretaries or change in the directors and/or secretaries.
 
-2014-19 £117.00 (h) Lodging of particulars of directors and/or secretaries or change in the directors and/or secretaries.
+£20.00
 
-£17.50 (i) Lodging any document required to be given, delivered, sent, forwarded, lodged or filed by the Registrar (except where otherwise specified) or to lodge a substitute document for a document lodged or filed in the Register (other than an Annual Return)
+(i) Lodging any document required to be given, delivered, sent, forwarded, lodged or filed by the Registrar (except where otherwise specified) or to lodge a substitute document for a document lodged or filed in the Register (other than an Annual Return)
 
-£17.50 (j) Mortgage
+£20.00 (j) Mortgage
 
 (i) Registration of a Mortgage / Charge including prescribed particulars or any other forms of security, Mortgage Instrument and certificate of registration of charge
 
-£105.00
+£110.00
 
 (ii) Entry of memorandum of satisfaction and Certificate of discharge under section 174.
 
-£58.50 (k) Filing of accounts
+£62.00 (k) Filing of accounts
 
-£17.50 (l) Application to Registrar to file Return of Allotments out of time £87.75 (m) Lodging with the Registrar information for the purposes of enabling the Registrar to commence the procedure to strike off a Company or in compliance with regulation 10(2) of the Companies (Re- domiciliation) Regulation 1996 (as amended)
+£25.00 (l) Application to Registrar to file Return of Allotments out of time
 
-£35.00 (n) Application to the Registrar to restore to the register a company which has been struck off
+£92.00 (m) Lodging with the Registrar information for the purposes of enabling the Registrar to commence the procedure to strike off a Company or in compliance with regulation 10(2) of the Companies (Re-domiciliation) Regulation 1996 (as amended)
+
+£37.00 (n) Application to the Registrar to restore to the register a company which has been struck off
 
 £200.00 (o) Application for a licence under section 28
 
 £200.00 (p) Certificate of good standing
 
-£52.50 (q) Searches & Profiles  –
+£55.00 (q) Searches & Profiles  –
 
-Personal Search £17.50
+Personal Search £20.00
 
 Electronic Search (viewing of file online). £10.00
 
-Company profile (Over the counter). £17.50
+Company profile (Over the counter). £20.00
 
-Company profile (within same day). £23.50
+Company profile (within same day). £25.00
 
 Company profile (online). £10.00
 
@@ -88,10 +90,6 @@ Certification of any document held by the Registrar. £5.00
 
 £15.00
 
-Companies
-
-2014-19
-
 (bb) each subsequent copy supplied on the same occasion and of the same company.
 
 £10.00
@@ -100,15 +98,17 @@ Companies
 
 £10.00
 
-(dd) electronic copy of the full archives (1993 to present - including electronic filings).
-
-£50.00
+(dd) electronic copy of the full archives (1993 to present - including electronic filings). £55.00
 
 (ee)  electronic copy of the full historical archives (1931 to 1993)
 
-£50.00
+£55.00
 
-(ff)  electronic copy of the full archives including historical archives (1931 to present) and electronic filings. £75.00 (r) Exceptional Work (per hour). £300.00 (s) Merger of Companies
+(ff)  electronic copy of the full archives including historical archives (1931 to present) and electronic filings.
+
+£80.00 (r) Exceptional Work (per hour).
+
+£315.00 (s) Merger of Companies
 
 (i)  up to and including 5 merging bodies £750.00
 
@@ -120,28 +120,30 @@ Companies
 
 For Registration of an SE whose registered office is in Gibraltar on its formation
 
-2(a) By merger in accordance with Article 2(1) of the EC Regulation
+2(a) By merger in accordance with Article 2(1) of the EC Regulation £200.00
 
-£200.00 (b) By the formation of a holding SE in accordance with Article 2(2) of the EC Regulation
+(b) By the formation of a holding SE in accordance with Article 2(2) of the EC Regulation
 
-£200.00 (c) By the formation of a subsidiary SE in accordance with Article 2(3) of the EC Regulation
+£200.00
 
-£200.00 (d) By the transference of a public company in accordance with Article 2(4) of the EC Regulation
+(c) By the formation of a subsidiary SE in accordance with Article 2(3) of the EC Regulation
 
-£200.00 (e) By the formation of a subsidiary SE in accordance with Article 3(2) of the EC Regulation
+£200.00
+
+(d) By the transference of a public company in accordance with Article 2(4) of the EC Regulation
+
+£200.00
+
+(e) By the formation of a subsidiary SE in accordance with Article 3(2) of the EC Regulation
 
 £200.00 3 For Registration of a public company by the conversion of an SE in accordance with Article 66 of the EC Regulation
 
-£200.00 4 For registration of an SE on the transfer of its registered office to Gibraltar in accordance with Article 8 of the EC Regulation
+£200.00
 
-£250.00 5 For an application for a certificate under article 8(8) of the EC Regulation attesting to the completion of the acts and formalities to be accomplished before the transfer of the registered office of an SE from Gibraltar
-
-Companies
-
-2014-19
+4 For registration of an SE on the transfer of its registered office to Gibraltar in accordance with Article 8 of the EC Regulation
 
 £250.00
 
-Companies
+5 For an application for a certificate under article 8(8) of the EC Regulation attesting to the completion of the acts and formalities to be accomplished before the transfer of the registered office of an SE from Gibraltar
 
-2014-19
+£250.00

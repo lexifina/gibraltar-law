@@ -24,13 +24,11 @@ Summary of Share Capital and Shares: 1. Nominal Share Capital  ……...........
 
 ...……...... 3. Number of Shares issued subject to payment wholly in Cash…………………………………
 
-...……….. 4. Number of Shares issued as fully paid up otherwise than in Cash ………………………..
+...………..
 
-.................
+4. Number of Shares issued as fully paid up otherwise than in Cash ………………………..
 
-Companies
-
-2014-19 5. Number of Shares issued as partly paid up to the extent of ................ per share otherwise than in Cash ………………………………………..
+................. 5. Number of Shares issued as partly paid up to the extent of ................ per share otherwise than in Cash ………………………………………..
 
 ................. 6. Number of ......................Shares (if any) issued at a Discount .......................................................
 
@@ -44,17 +42,15 @@ Companies
 
 ................. 11. There has been called up on each of .................Shares....................………… ……….
 
-................. 12. Total Amount of Calls received, including Payments on Applications and Allotments
+.................
+
+12. Total Amount of Calls received, including Payments on Applications and Allotments
 
 ……......... 13. Total Amount (if any) agreed to be considered as paid on ....................................................... which have been issued as fully paid up otherwise than in Cash.......................................
 
 .................
 
-14. Total Amount (if any) agreed to be
-
-Companies
-
-2014-19 considered as paid on .................................................. Shares which have been issued as partly paid up to the extent of ..........................per Share otherwise than in Cash……………………….
+14. Total Amount (if any) agreed to be considered as paid on .................................................. Shares which have been issued as partly paid up to the extent of ..........................per Share otherwise than in Cash……………………….
 
 .................
 
@@ -78,17 +74,13 @@ on the ………………..day of …………………………….. and of Per
 
 Folio in
 
-NAMES, ADDRESSES, AND OCCUPATIONS Register Ledger containing
+NAMES, ADDRESSES, AND OCCUPATIONS Register Ledger containing Particulars
 
-Given Names
+Given Names & Surname
 
 Address
 
 Occupation
-
-Companies
-
-2014-19 Particulars & Surname
 
 Names and Addresses and an Account of Shares so held.
 
@@ -103,10 +95,6 @@ Particulars of Shares transferred since the date of the last Return, or (in the 
 REMARKS
 
 Number Date of Registra- tion of Transfer Number Date of Registra- tion of Transfer
-
-Companies
-
-2014-19
 
 Certificate to be given by a Private Company
 
@@ -124,21 +112,9 @@ Limited
 
 at the date of the Annual Return
 
-The Present Fore Name or Names and Surname
+Nation-
 
-Any former Fore Name or Names or Surname
-
-Nation ality
-
-Nation- ality of Origin
-
-Usual Residen -tial Address
-
-Business Occupation
-
-Companies
-
-2014-19
+The Present Fore Name or Names and Surname Any former Fore Name or Names or Surname Nation ality ality of Origin Usual Residen -tial Address Business Occupation
 
 Particulars of Secretaries of
 
@@ -164,25 +140,21 @@ Main Activity of the Company Enter Reference Code as per attached schedule:
 
 Size of Company
 
-Size of Company as per Schedule 9 of the Companies  Act 2014
+Size of Company as per Schedule 9 of the Companies Act 2014
 
 large company
 
 medium- sized company
+
+small company
+
+micro- entity
 
 Please tick the appropriate box
 
 
 
 
-
-Companies
-
-2014-19
-
-small company
-
-micro- entity
 
 
 
@@ -202,10 +174,6 @@ _______________________________ Write Name in Full Director, Manager or Secretar
 
 Classification of a company’s main activity
 
-A company must  define its main activity and provide the information to Companies House by entering the relevant activity code in the box provided.
+A company must define its main activity and provide the information to Companies House by entering the relevant activity code in the box provided.
 
 A complete list of activities and their corresponding codes can be found on the Companies House website at: www.companieshouse.gi.
-
-Companies
-
-2014-19

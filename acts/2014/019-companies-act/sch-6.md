@@ -36,10 +36,6 @@ PART 3
 
 COMMUNICATIONS IN ELECTRONIC FORM
 
-Companies
-
-2014-19
-
 5.   A document or information is validly sent or supplied to a company if it is sent or supplied in electronic form in accordance with this Part of this Schedule.
 
 Conditions for use of communications in electronic form
@@ -65,7 +61,3 @@ PART 4
 OTHER AGREED FORMS OF COMMUNICATION
 
 8.  A document or information that is sent or supplied to a company otherwise than in hard copy form or electronic form is validly sent or supplied if it is sent or supplied in a form or manner that has been agreed by the company.
-
-Companies
-
-2014-19

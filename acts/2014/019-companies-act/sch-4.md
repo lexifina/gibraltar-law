@@ -26,10 +26,6 @@ he may arrange for or accept such a valuation, together with a report which will
 
 (d) the extent to which the nominal value of the shares and any premium are to be treated as paid up–
 
-Companies
-
-2014-19
-
 (i) by the consideration, and
 
 (ii) in cash.
@@ -54,11 +50,7 @@ Companies
 
 (a) the valuer shall carry out, or arrange for, such other valuations as will enable him to determine that proportion; and
 
-(b) his report shall state what valuations have been made under this paragraph and also the reason for, and method and date of
-
-Companies
-
-2014-19 any such valuation and any other matters which may be relevant to that determination.
+(b) his report shall state what valuations have been made under this paragraph and also the reason for, and method and date of any such valuation and any other matters which may be relevant to that determination.
 
 PART II
 
@@ -86,22 +78,12 @@ PART III
 
 ENTITLEMENT OF VALUER TO FULL DISCLOSURE
 
-11.  A person carrying out a valuation or making a report under section 91 or 93, with respect to any consideration proposed to be accepted or given by
-
-Companies
-
-2014-19 a company, is entitled to require from the officers of the company such information and explanation as he thinks necessary to enable him to carry out the valuation or make the report and provide a note under paragraph 6 of Part I or (as the case may be) paragraph 2(c) of Part II.
+11.  A person carrying out a valuation or making a report under section 91 or 93, with respect to any consideration proposed to be accepted or given by a company, is entitled to require from the officers of the company such information and explanation as he thinks necessary to enable him to carry out the valuation or make the report and provide a note under paragraph 6 of Part I or (as the case may be) paragraph 2(c) of Part II.
 
 12.  A person who knowingly or recklessly makes a statement which–
 
 (a) is misleading, false or deceptive in a material particular; and
 
-(b) is a statement to which this paragraph applies,
-
-shall be guilty of an offence and liable on summary conviction to imprisonment for a term of 6 months or to a fine up to a maximum of level 5 on the standard scale or both.
+(b) is a statement to which this paragraph applies, shall be guilty of an offence and liable on summary conviction to imprisonment for a term of 6 months or to a fine up to a maximum of level 5 on the standard scale or both.
 
 13.  Paragraph 12 applies to any statement made (whether orally or in writing) to a person carrying out a valuation or making a report under Part I or II, being a statement which conveys or purports to convey any information or explanation which that person requires, or may require, under paragraph 11.
-
-Companies
-
-2014-19

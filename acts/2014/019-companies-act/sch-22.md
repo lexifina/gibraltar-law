@@ -32,9 +32,7 @@ Holdings in subsidiary undertakings.
 
 (b) the proportion of the nominal value of the shares of that class represented by those shares.
 
-Companies
-
-2014-19 (2)  The shares held by or for the company itself shall be distinguished from those attributed to the company which are held by or for a subsidiary undertaking.
+(2)  The shares held by or for the company itself shall be distinguished from those attributed to the company which are held by or for a subsidiary undertaking.
 
 Financial information about subsidiary undertakings.
 
@@ -64,9 +62,7 @@ Financial years of subsidiary undertakings.
 
 4.  Where the financial year of one or more subsidiary undertakings did not end with that of the company, there shall be shown in relation to each such undertaking–
 
-Companies
-
-2014-19 (a) the reasons why the company’s directors consider that its financial year should not end with that of the company; and
+(a) the reasons why the company’s directors consider that its financial year should not end with that of the company; and
 
 (b) the date its latest financial year ended.
 
@@ -94,9 +90,7 @@ Shares and debentures of company held by subsidiary undertakings.
 
 6.(1)  The number, description and amount of the shares in and debentures of the company held by or on behalf of its subsidiary undertakings shall be shown.
 
-Companies
-
-2014-19 (2)  Subparagraph (1) does not apply in relation to shares or debentures in the case of which the subsidiary undertaking is concerned as personal representative or, subject to subparagraph (3), as trustee.
+(2)  Subparagraph (1) does not apply in relation to shares or debentures in the case of which the subsidiary undertaking is concerned as personal representative or, subject to subparagraph (3), as trustee.
 
 (3)  The exception for shares or debentures in relation to which the subsidiary undertaking is concerned as trustee does not apply if the company, or any subsidiary undertaking of the company, is beneficially interested under the trust, otherwise than by way of security only for the purposes of a transaction entered into by it in the ordinary course of a business which includes the lending of money.
 
@@ -126,17 +120,13 @@ Significant holdings in undertaking other than subsidiary undertakings.
 
 9.(1)  Where the company has a significant holding in an undertaking amounting to 20 per cent or more of the nominal value of the shares in the undertaking, there shall also be stated–
 
-Companies
-
-2014-19
-
 (a) the total amount of the capital and reserves of the undertaking as at the end of its relevant financial year; and
 
 (b) its profit or loss for that year.
 
 (2)  That information need not be given if–
 
-(a) the company is exempt by virtue of section 285 from  the requirement to prepare group accounts; and
+(a) the company is exempt by virtue of section 285 from the requirement to prepare group accounts; and
 
 (b) the investment of the company in all undertakings in which it has such a holding as is mentioned in subparagraph (1) is shown, in total, in the notes to the accounts by way of the equity method of valuation.
 
@@ -161,10 +151,6 @@ Membership of certain undertakings.
 (2)  There shall be stated–
 
 (a) the name and legal form of the undertaking; and
-
-Companies
-
-2014-19
 
 (b) the address of the undertaking’s registered office (whether in or outside Gibraltar) or, if it does not have such an office, its head office (whether in or outside Gibraltar).
 
@@ -200,9 +186,7 @@ Identification of ultimate parent company.
 
 (2)  In this paragraph “company” includes any corporate body.
 
-Companies
-
-2014-19 Construction of references to shares held by company.
+Construction of references to shares held by company.
 
 13.(1)  References in this Part to shares held by a company shall be construed as follows.
 
@@ -231,10 +215,6 @@ COMPANIES REQUIRED TO PREPARE GROUP ACCOUNTS
 Introductory.
 
 14.  In this Part “the group” means the group consisting of the parent company and its subsidiary undertakings.
-
-Companies
-
-2014-19
 
 Subsidiary undertakings.
 
@@ -268,10 +248,6 @@ and the information under heads (a) and (b) must (if different) be shown separat
 
 Financial information about subsidiary undertakings not included in the consolidation.
 
-Companies
-
-2014-19
-
 17.(1)  Each subsidiary undertaking not included in the consolidation shall disclose–
 
 (a) the total amount of its capital and reserves as at the end of its relevant financial year; and
@@ -280,7 +256,7 @@ Companies
 
 (2)  That information need not be given if the group’s investment in the undertaking is included in the accounts by way of the equity method of valuation or if–
 
-(a) the undertaking is not required by any provision  under this Act to deliver to the Registrar a copy of its balance sheet for its relevant financial year and does not otherwise publish that balance sheet in Gibraltar or elsewhere; and
+(a) the undertaking is not required by any provision under this Act to deliver to the Registrar a copy of its balance sheet for its relevant financial year and does not otherwise publish that balance sheet in Gibraltar or elsewhere; and
 
 (b) the holding of the group is less than 50 per cent of the nominal value of the shares in the undertaking.
 
@@ -300,11 +276,7 @@ Further information about subsidiary undertakings excluded from consolidation.
 
 (a) any qualifications contained in the auditors’ reports on the accounts of the undertaking for financial years ending with or during the financial year of the company; and
 
-(b) any note or saving contained in such accounts to call attention to a matter which, apart from the note or saving, would
-
-Companies
-
-2014-19 properly have been referred to in such a qualification, insofar as the matter which is the subject of the qualification or note is not covered by the consolidated accounts and is material from the point of view of the members of the parent company.
+(b) any note or saving contained in such accounts to call attention to a matter which, apart from the note or saving, would properly have been referred to in such a qualification, insofar as the matter which is the subject of the qualification or note is not covered by the consolidated accounts and is material from the point of view of the members of the parent company.
 
 (3)  In so far as information required by this paragraph is not obtainable, a statement to that effect shall be given.
 
@@ -331,10 +303,6 @@ Joint ventures.
 21.(1)  The following information shall be given where an undertaking is dealt with in the consolidated accounts by the method of proportional consolidation in accordance with paragraph 16 of Schedule 21 (joint ventures)–
 
 (a) the name of the undertaking;
-
-Companies
-
-2014-19
 
 (b) the address of the undertaking’s registered office;
 
@@ -372,10 +340,6 @@ and the information under heads (a) and (b) shall be shown separately.
 
 Other significant holdings of parent company or group.
 
-Companies
-
-2014-19
-
 23.(1)  The information required by paragraph 24 and 25 shall be given where at the end of the financial year the parent company has a participating interest in an undertaking which is not one of its subsidiary undertakings and does not fall within paragraph 21 (joint ventures) or paragraph 22 (associated undertakings).
 
 (2)  Deleted
@@ -410,9 +374,7 @@ Companies
 
 (4)  For the purposes of this paragraph the “relevant financial year” of an undertaking is–
 
-Companies
-
-2014-19 (a) if its financial year ends with that of the company, that year; and
+(a) if its financial year ends with that of the company, that year; and
 
 (b) if not, its financial year ending last before the end of the company’s financial year.
 
@@ -442,13 +404,11 @@ Companies
 
 (2)  That information need not be given if–
 
-(a) the undertaking is not required by any provision made by this Act  to deliver to the Registrar a copy of its balance sheet for its relevant financial year and does not otherwise publish that balance sheet in Gibraltar or elsewhere;
+(a) the undertaking is not required by any provision made by this Act to deliver to the Registrar a copy of its balance sheet for its relevant financial year and does not otherwise publish that balance sheet in Gibraltar or elsewhere;
 
 (b) Deleted
 
-Companies
-
-2014-19 (3)  Deleted
+(3)  Deleted
 
 (4)  For the purposes of this paragraph the “relevant financial year” of an undertaking is–
 
@@ -484,13 +444,9 @@ Parent undertaking drawing up accounts for larger group.
 
 (b) the address of the undertaking’s registered office; and
 
-Companies
-
-2014-19
-
 (c) if it is unincorporated, the address of its principal place of business.
 
-(3)  If copies of the group accounts referred to in subparagraph (1) are available to the public, the addresses from which copies of the accounts can be obtained shall also be given.
+(3)  If copies of the group accounts referred to in subparagraph (1) are   available to the public, the addresses from which copies of the accounts can be obtained shall also be given.
 
 Identification of ultimate parent company.
 
@@ -518,10 +474,6 @@ Construction of references to shares held by parent company or group.
 
 (a) where apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in accordance with his instructions; and
 
-Companies
-
-2014-19
-
 (b) where the shares are held in connection with the granting of loans as part of normal business activities and apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights attached to the shares are exercisable only in his interests.
 
 Risk management systems.
@@ -535,7 +487,3 @@ PART III
 EMOLUMENTS OF DIRECTORS AND STAFF COSTS
 
 1.When applying subparagraphs (n) and (o) of paragraph 1 of Schedule 16 to group accounts, only the amounts granted to the directors of the parent company by the parent company and any of its subsidiary undertakings must be disclosed in the notes to the accounts.
-
-Companies
-
-2014-19

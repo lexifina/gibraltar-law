@@ -14,7 +14,7 @@ Prohibition of allotment in certain cases unless statement in lieu of prospectus
 
 Return as to allotments; s.86.
 
-Registration of charges created by companies registered  in Gibraltar; s.168.
+Registration of charges created by companies registered in Gibraltar; s.168.
 
 Duty of company to register charges created by company; s.170(1).
 
@@ -35,7 +35,3 @@ Documents to be delivered to Registrar by companies carrying on business in Gibr
 Return to be delivered to Registrar where documents altered; s.433.
 
 Obligation to state name of company. s.435.
-
-Companies
-
-2014-19

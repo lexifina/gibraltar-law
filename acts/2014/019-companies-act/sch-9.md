@@ -20,7 +20,7 @@ DEFINITION OF MICRO-ENTITY, SMALL, MEDIUM-SIZED AND LARGE COMPANIES
 
 (c) that the average number of persons employed by the company in each year did not exceed 50.
 
-2.  Subject to paragraph 3 in respect of any financial year (“the relevant year”) a company is a medium-sized company if, in respect of the year or years specified in paragraph 4(2), the company satisfied was not a micro- entity or small company and at least two of the following conditions–
+2.  Subject to paragraph 3 in respect of any financial year (“the relevant year”) a company is a medium-sized company if, in respect of the year or years specified in paragraph 4(2), the company satisfied was not a micro-entity or small company and at least two of the following conditions–
 
 (a) that the amount of its net turnover did not exceed £36 million;
 
@@ -28,9 +28,7 @@ DEFINITION OF MICRO-ENTITY, SMALL, MEDIUM-SIZED AND LARGE COMPANIES
 
 (c) that the average number of persons employed by the company in each year did not exceed 250.
 
-Companies
-
-2014-19 2A. In respect of any financial year (“the relevant year”) a company is a large company if, in respect of the year or years specified in paragraph 4(2), the company satisfied at least two of the following conditions–
+2A. In respect of any financial year (“the relevant year”) a company is a large company if, in respect of the year or years specified in paragraph 4(2), the company satisfied at least two of the following conditions–
 
 (a) that the amount of its net turnover exceeded £36 million;
 
@@ -44,7 +42,7 @@ Companies
 
 (b) it has been designated by the Minister under the Financial Services (Auditors) Act 2009 as a public-interest entity.
 
-3.  A company is not a micro-entity, a  small company or a medium-sized company if it is, or was at any time within the financial year to which the accounts relate, a public company.
+3.  A company is not a micro-entity, a small company or a medium-sized company if it is, or was at any time within the financial year to which the accounts relate, a public company.
 
 4.(1)  In paragraphs 1 and 2 “net turnover” means the amounts derived from the provision of goods and services falling within the company’s ordinary activities, after deduction of trade discounts and sales-based taxes (for example excise duty and value added tax).
 
@@ -58,10 +56,6 @@ Companies
 
 (a) in the case of Non-IAS accounts–
 
-Companies
-
-2014-19
-
 (i) the aggregate of the amounts shown in the balance sheet under the headings corresponding to items A to D of Format I set out in Schedule 11, or
 
 (ii) if Format 2 is adopted, the aggregate of the amounts shown under the general heading “ASSETS”;
@@ -69,7 +63,3 @@ Companies
 (b) in the case of IAS accounts, the aggregate of the amounts shown as assets in the balance sheet.
 
 6.  In the application of this Schedule to any year which is a financial year of a company, but not a year, the maximum figures for turnover set out in paragraphs 1 and 2 must be proportionately adjusted.
-
-Companies
-
-2014-19

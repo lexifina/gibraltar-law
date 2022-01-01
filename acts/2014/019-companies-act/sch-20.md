@@ -28,10 +28,6 @@ Right to appoint or remove a majority of the directors.
 
 Right to exercise dominant influence.
 
-Companies
-
-2014-19
-
 4.(1)  For the purposes of section 276(2)(c) an undertaking shall not be regarded as having the right to exercise a dominant influence over another undertaking unless it has a right to give directions with respect to the operating and financial policies of that other undertaking with which its directors are obliged to comply, whether or not they are for the benefit of that other undertaking.
 
 (2)  A “control contract” means a contract in writing conferring such a right which–
@@ -62,10 +58,6 @@ Rights held by one person on behalf of another.
 
 Rights attached to shares held by way of security.
 
-Companies
-
-2014-19
-
 8.(1)  Rights attached to shares held by way of security shall be regarded as held by the person providing the security–
 
 (a) where, apart from the right to exercise them for the purpose of preserving the value of the security, or of realising it, the rights are exercisable only in accordance with his instructions; and
@@ -87,7 +79,3 @@ Disregard of certain rights.
 Supplementary.
 
 11.  References in any provision of paragraphs 6 to 10 to rights held by a person include rights falling to be regarded as held by him by virtue of any other provision of those paragraphs but not rights which by virtue of any such provision are to be regarded as not held by him.
-
-Companies
-
-2014-19

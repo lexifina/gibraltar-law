@@ -50,9 +50,7 @@ I Stocks
 
 2. Work in progress
 
-Companies
-
-2014-19 3. Finished goods and goods for resale
+3. Finished goods and goods for resale
 
 4. Payments on account
 
@@ -104,9 +102,7 @@ E. Creditors amounts falling due within 1 year
 
 F. Net current assets (liabilities) (12)
 
-Companies
-
-2014-19 G. Total assets less current liabilities
+G. Total assets less current liabilities
 
 H. Creditors amounts falling due after more than 1 year
 
@@ -157,10 +153,6 @@ IV Other reserves
 4. Other reserves, including the fair value reserve
 
 V Profit and loss account
-
-Companies
-
-2014-19
 
 BALANCE SHEET FORMAT 2
 
@@ -214,9 +206,7 @@ I Stocks
 
 2. Work in progress
 
-Companies
-
-2014-19 3. Finished goods and goods for resale
+3. Finished goods and goods for resale
 
 4. Payments on account
 
@@ -268,9 +258,7 @@ IV Other reserves
 
 V Profit and loss account
 
-Companies
-
-2014-19 B. Provisions for liabilities (16)
+B. Provisions for liabilities (16)
 
 1. Pensions and similar obligations
 
@@ -318,10 +306,6 @@ Amounts in respect of assets may only be included in a company’s balance sheet
 
 (b) the assets in question were created by the company itself.
 
-Companies
-
-2014-19
-
 (3)  Land and buildings
 
 (Formats 1 and 2, items B. II. 1)
@@ -362,9 +346,7 @@ The amount of any convertible loans must be shown separately.
 
 (Format 1, items E.3 and H.3 and Format 2, item C.3)
 
-Companies
-
-2014-19 Payments received on account of orders must be shown for each of these items in so far as they are not shown as deduction from stocks.
+Payments received on account of orders must be shown for each of these items in so far as they are not shown as deduction from stocks.
 
 (10)  Other creditors including taxation and social security
 
@@ -398,9 +380,7 @@ The amount of allotted share capital and the amount of called-up share capital w
 
 Amounts falling due within 1 year and after 1 year must be shown separately for each of these items and their aggregate must be shown separately for all of these items. A small company need not comply with this requirement if it discloses in the notes to its accounts the aggregate amount included under “Creditors” falling due within 1 year and the aggregate amount falling due after 1 year.
 
-Companies
-
-2014-19 Provisions for liabilities
+Provisions for liabilities
 
 (15) Deleted
 
@@ -413,7 +393,3 @@ Companies
 (2) Own shares and shares in affiliated undertakings must be shown only under the items prescribed for that purpose.
 
 (18)  All commitments by way of guarantee of any kind, if there is no obligation to show them as liabilities, must be clearly set out at the foot of the balance sheet or in the notes on the accounts, and a distinction made between the various types of guarantee. Specific disclosure must be made of any valuable security which has been provided. Commitments of this kind existing in respect of affiliated undertakings must be shown separately.
-
-Companies
-
-2014-19

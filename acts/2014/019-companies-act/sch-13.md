@@ -34,10 +34,6 @@ II Tangible assets
 
 III Investments
 
-Companies
-
-2014-19
-
 C. Current assets
 
 I Stocks
@@ -84,10 +80,6 @@ A. Called-up share capital not paid (1)
 
 B. Fixed assets I Intangible assets
 
-Companies
-
-2014-19
-
 II Tangible assets
 
 III Investments
@@ -123,7 +115,3 @@ B. Provisions for liabilities
 C. Creditors (14)
 
 D. Accruals and deferred income (11)
-
-Companies
-
-2014-19

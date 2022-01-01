@@ -42,9 +42,7 @@ Format 1 (see note (22) below)
 
 19.  Other taxes not shown under the above items
 
-Companies
-
-2014-19 20.  Profit or loss for the financial year.
+20.  Profit or loss for the financial year.
 
 Format 2
 
@@ -70,7 +68,7 @@ Format 2
 
 7.    (a) depreciation and other amounts written off tangible and intangible fixed assets
 
-(b) exceptional amounts written off current assets, to the extent that they exceed write-offs which are normal in the undertaking concerned
+(b) exceptional amounts written off current assets, to the extent that they exceed write- offs which are normal in the undertaking concerned
 
 8.  Other operating expenses
 
@@ -89,10 +87,6 @@ Format 2
 15. Tax on profit or loss
 
 16. Profit or loss after taxation
-
-Companies
-
-2014-19
 
 17. Deleted
 
@@ -138,10 +132,6 @@ Format 4 A. Charges
 
 9. Profit or loss on ordinary activities after taxation
 
-Companies
-
-2014-19
-
 10. Extraordinary charges
 
 11. Tax on extraordinary profit or loss
@@ -186,9 +176,7 @@ These items must be stated after taking into account any necessary provisions fo
 
 (Format 1, items 9 and 10: Format 2, items 11 and 12)
 
-Companies
-
-2014-19 Income and interest derived from group undertakings must be shown separately from income and interest derived from other sources.
+Income and interest derived from group undertakings must be shown separately from income and interest derived from other sources.
 
 (21) Interest payable and similar expenses
 
@@ -199,7 +187,3 @@ The amount payable to group undertakings must be shown separately.
 (22) Format 1
 
 The amount of any provisions for depreciation and diminution in value of tangible and intangible fixed assets falling to be shown under item 7(a) in Format 2 must be disclosed in a note to the accounts in any case where the profit and loss account is prepared by reference to Format 1.
-
-Companies
-
-2014-19

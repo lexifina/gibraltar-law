@@ -2,7 +2,7 @@ SCHEDULE 1A
 
 DE-REGISTRATION OF CERTAIN COMPANIES ON BECOMING FOUNDATIONS
 
-1.(1) Subject to the provisions of this Schedule, a company which is registered as limited by guarantee or by shares and guarantee may be de- registered on being registered as a foundation under the Private Foundations Act 2017 if–
+1.(1) Subject to the provisions of this Schedule, a company which is registered as limited by guarantee or by shares and guarantee may be de-registered on being registered as a foundation under the Private Foundations Act 2017 if–
 
 (a) a special resolution that it should be so re-registered is passed by the vote of each member entitled to receive notice of an extraordinary meeting of the company;
 
@@ -20,15 +20,11 @@ DE-REGISTRATION OF CERTAIN COMPANIES ON BECOMING FOUNDATIONS
 
 (c) licensed or authorised in accordance with a Community requirement
 
-shall not be de-registered under section 67A or this Schedule..
+shall not be de-registered under section 67A or this Schedule.
 
 (4)  The special resolution referred to in subparagraph (1)(a) shall state the share capital or the total amount of the guarantee or both, as the case may be, of the company limited by guarantee or by shares and guarantee and shall provide–
 
-(a) that the total amount of the guarantee of the company and (where applicable) the share capital of the company shall
-
-Companies
-
-2014-19 become the endowment of the foundation and that each member of the company shall become a founder of the foundation for all the purposes of the foundation and the Private Foundations Act 2017;
+(a) that the total amount of the guarantee of the company and (where applicable) the share capital of the company shall become the endowment of the foundation and that each member of the company shall become a founder of the foundation for all the purposes of the foundation and the Private Foundations Act 2017;
 
 (b) for the method of converting membership or both shares and membership, as the case may be, into the endowment of the foundation, specifying the sum contributed to the endowment of the foundation by each member or shareholder or both, as the case may be; and
 
@@ -52,9 +48,7 @@ Companies
 
 (2)  The documents required to be lodged with the Registrar for the purposes of subparagraph (1)(b) are–
 
-Companies
-
-2014-19 (a) a printed copy of the memorandum and articles as altered in pursuance of the special resolution for the company to become a foundation containing–
+(a) a printed copy of the memorandum and articles as altered in pursuance of the special resolution for the company to become a foundation containing–
 
 (i) the name of the company and the name under which registration as a foundation is to be sought,
 
@@ -78,11 +72,7 @@ Companies
 
 (b) having received notice in writing from the Registrar of Foundations appointed under the Private Foundations Act 2017 that, on receipt of confirmation from the Registrar that the requirements of this Schedule have been met in respect of the body, the body shall be registered as a foundation under Schedule 1 of that Act,
 
-shall confirm to the Registrar of Foundations that the requirements of this Schedule have been complied with by that company and shall de-register the body as a company registered under this Act with effect from the date
-
-Companies
-
-2014-19 and the time which the Registrar of Foundations notifies to the Registrar as the date and time at which the registration of the body under Schedule 1 to the Private Foundations Act 2017 is to take effect.
+shall confirm to the Registrar of Foundations that the requirements of this Schedule have been complied with by that company and shall de-register the body as a company registered under this Act with effect from the date and the time which the Registrar of Foundations notifies to the Registrar as the date and time at which the registration of the body under Schedule 1 to the Private Foundations Act 2017 is to take effect.
 
 5.  For the avoidance of doubt it is hereby declared that a foundation registered under Schedule 1 of the Private Foundations Act 2017 as a result of the procedures contained in–
 
@@ -91,7 +81,3 @@ Companies
 (b) Schedule 1 of the Private Foundations Act 2017,
 
 is on the date and time referred to in paragraph 4 a continuation of the undertaking of the company de-registered by virtue of the procedures referred to in this Schedule.”.
-
-Companies
-
-2014-19

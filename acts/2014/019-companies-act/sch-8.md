@@ -28,9 +28,7 @@ Other company investigations.
 
 2.(1)  The Minister shall appoint one or more competent inspectors to investigate the affairs of a company and report on them in such manner as he directs, if the court by order declares that its affairs ought to be so investigated.
 
-Companies
-
-2014-19 (2)  The Minister may make such an appointment if it appears to him that there are circumstances suggesting–
+(2)  The Minister may make such an appointment if it appears to him that there are circumstances suggesting–
 
 (a) that the company’s affairs are being or have been conducted with intent to defraud its creditors or the creditors of any other person, or otherwise for a fraudulent or unlawful purpose, or in a manner which is unfairly prejudicial to some part of its members; or
 
@@ -49,10 +47,6 @@ Companies
 Inspectors’ powers during investigation.
 
 3.(1)  If inspectors appointed under paragraph 1 or 2 to investigate the affairs of a company think it necessary for the purposes of their investigation to investigate also the affairs of another corporate body which is or at any relevant time has been the company’s subsidiary or holding company, or a subsidiary of its holding company or a holding company of its subsidiary, they have power to do so; and they shall report on the affairs of the other corporate body so far as they think that the results of their investigation of its affairs are relevant to the investigation of the affairs of the company first mentioned above.
-
-Companies
-
-2014-19
 
 (2)  Inspectors appointed under either paragraph may at any time in the course of their investigation, without the necessity of making an interim report, inform the Minister of matters coming to their knowledge as a result of the investigation tending to show that an offence has been committed.
 
@@ -74,11 +68,9 @@ Production of documents and evidence to inspectors.
 
 (5)  An answer given by a person to a question put to him in exercise of powers conferred by this paragraph (whether as it has effect in relation to an investigation under any of paragraphs 1 to 3, or as applied by any other paragraph in this Schedule) may be used in evidence against him.
 
-Companies
+Power of inspector to call for directors’ bank accounts.
 
-2014-19 Power of inspector to call for directors’ bank accounts.
-
-5.  If an inspector has reasonable grounds for believing that a director, or past director, of the company or other corporate body whose affairs he is investigating maintains or has maintained a bank account of any description (whether alone or jointly with another person and whether in Gibraltar or elsewhere), into or out of which there has been paid–
+5.  If an inspector has reasonable grounds for believing that a director, or past director, of the company or other corporate body whose affairs he is investigating maintains or has maintained a bank account of any description  (whether alone or jointly with another person and whether in Gibraltar or elsewhere), into or out of which there has been paid–
 
 (a) the emoluments or part of the emoluments of his office as director, particulars of which have not been disclosed to the shareholders of the company or other corporate body; or
 
@@ -105,10 +97,6 @@ Obstruction of inspectors treated as contempt of court.
 (a) refuses to produce any book or document which it is his duty under paragraph 4 or 5 to produce; or
 
 (b) refuses to attend before the inspectors when required to do so; or
-
-Companies
-
-2014-19
 
 (c) refuses to answer any question put to him by the inspectors with respect to the affairs of the company or other corporate body (as the case may be),
 
@@ -138,9 +126,7 @@ Inspectors’ reports.
 
 (v) any other person whose financial interests appear to the Minister to be affected by the matters dealt with in the report, whether as a creditor of the company or corporate body, or otherwise; and
 
-Companies
-
-2014-19 (c) cause any such report to be printed and published.
+(c) cause any such report to be printed and published.
 
 (4)  The Minister may require former inspectors whose appointments have been terminated, to provide information which may assist the inspectors in preparing their report.
 
@@ -161,10 +147,6 @@ Expenses of investigating a company’s affairs.
 (4)  A corporate body dealt with by the inspectors’ report, where the inspectors were appointed otherwise than of the Minister’s own motion, is liable except where it was the applicant for the investigation to repay to the Consolidated Fund the full amount of those expenses except so far as the Minister otherwise directs.
 
 (5)  The applicant or applicants for the investigation, where the inspectors were appointed under paragraph 1, is or are liable to repay to the Consolidated Fund the full amount of those expenses except so far as the Minister otherwise directs.
-
-Companies
-
-2014-19
 
 (6)  The report of inspectors appointed otherwise than of the Minister’s own motion may, if they think fit, and shall if the Minister so directs, include a recommendation as to the directions (if any) which they think appropriate, in the light of their investigation, to be given under subparagraph (4) or (5) above.
 
@@ -188,10 +170,6 @@ Other powers of investigation available to the Minister
 
 Power to investigate company ownership.
 
-Companies
-
-2014-19
-
 12.(1)  Where it appears to the Minister that there is good reason to do so, he may appoint one or more competent inspectors to investigate and report on the membership of any company, and otherwise with respect to the company, for the purpose of determining the true persons who are or have been financially interested in the success or failure (real or apparent) of the company or able to control or materially to influence its policy.
 
 (2)  The appointment of inspectors under this paragraph may define the scope of their investigation (whether as respects the matter or the period to which it is to extend or otherwise) and in particular may limit the investigation to matters connected with particular shares or debentures.
@@ -210,11 +188,7 @@ Provisions applicable on investigation under paragraph 12.
 
 (2)  Those paragraphs apply to–
 
-(a) all persons who are or have been, or whom the inspector has reasonable cause to believe to be or have been, financially interested in the success or failure or the apparent success or failure of the company or any other corporate body whose
-
-Companies
-
-2014-19 membership is investigated with that of the company, or able to control or materially influence its policy (including persons concerned only on behalf of others); and
+(a) all persons who are or have been, or whom the inspector has reasonable cause to believe to be or have been, financially interested in the success or failure or the apparent success or failure of the company or any other corporate body whose membership is investigated with that of the company, or able to control or materially influence its policy (including persons concerned only on behalf of others); and
 
 (b) any other person whom the inspector has reasonable cause to believe possesses information relevant to the investigation,
 
@@ -235,10 +209,6 @@ Power to obtain information as to those interested in shares, etc.
 Requisition and seizure of books and papers
 
 Minister’s power to require production of documents.
-
-Companies
-
-2014-19
 
 15.(1)  The powers of this paragraph are exercisable in relation to the following bodies–
 
@@ -262,9 +232,7 @@ Companies
 
 (ii) to require that person, or any other person who is a present or past officer of, or is or was at any time employed by, the body in question, to provide an explanation of any of them;
 
-Companies
-
-2014-19 (b) if the books or papers are not produced, to require the person who was required to produce them to state, to the best of his knowledge and belief, where they are.
+(b) if the books or papers are not produced, to require the person who was required to produce them to state, to the best of his knowledge and belief, where they are.
 
 (6)  If the requirement to produce books or papers or provide an explanation or make a statement is not complied with, the body or other person on whom the requirement was so imposed shall be guilty of an offence and liable to a fine.
 
@@ -284,11 +252,7 @@ Entry and search of premises.
 
 (a) for a period of 3 months; or
 
-(b) if within that period any criminal proceedings such as are mentioned in paragraph 17 (1)(a) are begun (being proceedings
-
-Companies
-
-2014-19 to which the books or papers are relevant), until the conclusion of those proceedings.
+(b) if within that period any criminal proceedings such as are mentioned in paragraph 17 (1)(a) are begun (being proceedings to which the books or papers are relevant), until the conclusion of those proceedings.
 
 (5)  A person who obstructs the exercise of a right of entry or search conferred by a warrant issued under this paragraph, or who obstructs the exercise of a right so conferred to take possession of any books or papers, shall be guilty of an offence and liable to a fine.
 
@@ -318,9 +282,7 @@ Provision for security of information obtained.
 
 (e) the Commissioner of Insurance and the Insurance Supervisor;
 
-Companies
-
-2014-19 (f) the Registrar; and
+(f) the Registrar; and
 
 (g) any police officer.
 
@@ -350,10 +312,6 @@ Privileged information.
 
 (a) by any person of information which he would in an action in the Supreme Court be entitled to refuse to disclose on grounds of legal professional privilege except, if he is a lawyer, the name and address of his client;
 
-Companies
-
-2014-19
-
 (b) by a company’s bankers (as such) of information as to the affairs of any of their customers other than the company.
 
 (2)  Nothing in paragraphs 15 to 19 compels the production by any person of a document which he would in an action in the Supreme Court be entitled to refuse to produce on grounds of legal professional privilege, or authorises the taking of possession of any such document which is in the person’s possession.
@@ -365,7 +323,3 @@ Companies
 Investigation of overseas companies.
 
 21.  Paragraphs 2 to 7, 9, 11 and 20(1) apply to all corporate bodies incorporated outside Gibraltar which are carrying on business in Gibraltar or have at any time carried on business there as if they were companies under this Act, but subject to such (if any) adaptations and modifications as may be specified by regulations made by the Minister.
-
-Companies
-
-2014-19

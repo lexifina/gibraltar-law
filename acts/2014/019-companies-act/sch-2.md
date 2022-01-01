@@ -22,13 +22,9 @@ MATTERS REQUIRED TO BE STATED IN PROSPECTUS.
 
 (i) the purchase price of any property purchased or to be purchased which is to be defrayed in whole or in part out of the proceeds of the issue,
 
-(ii) any preliminary expenses payable by the company, and any commission  payable to any person in consideration of his agreeing to subscribe for, or of his procuring or agreeing to procure subscriptions for, any shares in the company,
+(ii) any preliminary expenses payable by the company, and any commission payable to any person in consideration of his agreeing to subscribe for, or of his procuring or agreeing to procure subscriptions for, any shares in the company,
 
 (iii) the repayment of any moneys borrowed by the company in respect of any of the preceding matters,
-
-Companies
-
-2014-19
 
 (iv) working capital; and
 
@@ -36,7 +32,7 @@ Companies
 
 6.(1)  Subject to subparagraphs (2) to (4), the amount payable on application and allotment on each share, and, in the case of a second or subsequent offer of shares, the amount offered for subscription on each previous allotment made within the 2 preceding years, the amount actually allotted, and the amount (if any) paid on the shares so allotted.
 
-(2)  The requirements of subparagraph (1) shall not apply to a prospectus issued by an open-ended investment company inviting the public to subscribe for the company’s redeemable preference shares.
+(2)  The requirements of subparagraph (1) shall not apply to a prospectus issued by an open- ended investment company inviting the public to subscribe for the company’s redeemable preference shares.
 
 (3)  The prospectus of an open-ended investment company inviting the public to subscribe for the company’s redeemable preference shares shall–
 
@@ -56,10 +52,6 @@ Companies
 
 (4)  For the purpose of subparagraphs (2) and (3) an open-ended investment company means a company–
 
-Companies
-
-2014-19
-
 (a) the sole object of which is to invest its funds in property of any description, including money, with the aim of spreading investment risk and giving its shareholders the benefit of the results of the management of those funds by, or on behalf of, the company; and
 
 (b) which gives to the holders of redeemable preference shares in the company the right to have those shares redeemed by or out of the funds of the company at a price related to the net asset value of the company, for the purposes of which it has established regular dealing days.
@@ -76,11 +68,7 @@ Companies
 
 12.  The amount paid within the 2 preceding years or intended to be paid to any promoter, and the consideration for any such payment.
 
-13.  The dates of and parties to every material contract, not being a contract entered into in the ordinary course of the business carried on or intended to be carried on by the company or a contract entered into more than 2 years
-
-Companies
-
-2014-19 before the date of issue of the prospectus, and a reasonable time and place at which the material contract or a copy of it may be inspected.
+13.  The dates of and parties to every material contract, not being a contract entered into in the ordinary course of the business carried on or intended to be carried on by the company or a contract entered into more than 2 years before the date of issue of the prospectus, and a reasonable time and place at which the material contract or a copy of it may be inspected.
 
 14.  The names and addresses of the auditors (if any) of the company.
 
@@ -102,11 +90,7 @@ REPORTS TO BE SET OUT IN PROSPECTUS
 
 if no accounts have been made up in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
 
-19.  If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in the purchase of
-
-Companies
-
-2014-19 any business, a report made by accountants who shall be named in the prospectus upon the profits of the business in respect of each of the 3 financial years immediately preceding the issue of the prospectus.
+19.  If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are or is to be applied directly or indirectly in the purchase of any business, a report made by accountants who shall be named in the prospectus upon the profits of the business in respect of each of the 3 financial years immediately preceding the issue of the prospectus.
 
 PART III
 
@@ -122,18 +106,10 @@ PROVISIONS APPLYING TO PARTS I AND II OF SCHEDULE
 
 (c) the contract depends for its validity or fulfilment on the result of that issue.
 
-22.  Where any property to be acquired by the company is to be taken on lease, this Schedule shall have effect as if “vendor” included the lessor, “purchase money” included the consideration for the lease, and “sub- purchaser” included a sub-lessee.
+22.  Where any property to be acquired by the company is to be taken on lease, this Schedule shall have effect as if “vendor” included the lessor, “purchase money” included the consideration for the lease, and “sub-purchaser” included a sub-lessee.
 
 23.  For the purposes of paragraph 8 of Part I of this Schedule where the vendors or any of them are a firm, the members of the firm shall not be treated as separate vendors.
 
 24.  If in the case of a company which has been carrying on business, or of a business which has been carried on for less than 3 years, the accounts of the company or business have only been made up in respect of 2 years or 1 year, Part II of this Schedule shall have effect as if references to 2 years or 1 year, as the case may be, were substituted for references to 3 years.
 
-25.  The expression “financial year” in Part II of this Schedule means the year in respect of which the accounts of the company or of the business, as
-
-Companies
-
-2014-19 the case may be, are made up, and where by reason of any alteration of the date on which the financial year of the company or business terminates the accounts of the company or business have been made up for a period greater or less than a year, that greater or less period shall for the purpose of the said Part of this Schedule be deemed to be a financial year.
-
-Companies
-
-2014-19
+25.  The expression “financial year” in Part II of this Schedule means the year in respect of which the accounts of the company or of the business, as the case may be, are made up, and where by reason of any alteration of the date on which the financial year of the company or business terminates the accounts of the company or business have been made up for a period greater or less than a year, that greater or less period shall for the purpose of the said Part of this Schedule be deemed to be a financial year.

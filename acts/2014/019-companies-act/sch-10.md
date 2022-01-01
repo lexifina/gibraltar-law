@@ -6,7 +6,7 @@ FORM OF STATEMENT TO BE PUBLISHED BY INSURANCE COMPANIES AND DEPOSIT, PROVIDENT,
 
 The number of shares issued is
 
-Calls to the amount of           pounds per share have been made, under which the sum of                 pounds has been received.
+Calls to the amount of           pounds per share have been made, under which the sum of pounds has been received.
 
 The liabilities of the company on the first day of January (or July) were–
 
@@ -19,7 +19,3 @@ The assets of the company on that day were–
 Government securities (stating them) Bills of exchange and promissory notes, £ Cash at the bankers, £ Other securities, £
 
 * If the company has no share capital the portion of the statement relating to capital and shares must be omitted.
-
-Companies
-
-2014-19

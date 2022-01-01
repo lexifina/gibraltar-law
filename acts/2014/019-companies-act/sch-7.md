@@ -34,9 +34,7 @@ Address for communications in hard copy form
 
 (c) to a person in his capacity as a member of the company at his address as shown in the company’s register of members;
 
-Companies
-
-2014-19 (d) to a person in his capacity as a director of the company at his address as shown in the company’s register of directors;
+(d) to a person in his capacity as a director of the company at his address as shown in the company’s register of directors;
 
 (e) to an address to which any provision of this Act authorises the document or information to be sent or supplied.
 
@@ -69,10 +67,6 @@ Address for communications in electronic form
 (a) handed to the intended recipient; or
 
 (b) sent or supplied to an address to which it could be validly sent if it were in hard copy form.
-
-Companies
-
-2014-19
 
 PART 4
 
@@ -110,10 +104,6 @@ Deemed agreement of members of company etc to use of website
 
 a person in relation to whom the following conditions are met is taken to have agreed that the company may send or supply documents or information to him in that manner.
 
-Companies
-
-2014-19
-
 (3)  The conditions are that–
 
 (a) the person has been asked individually by the company to agree that the company may send or supply documents or information generally, or the documents or information in question, to him by means of a website; and
@@ -142,9 +132,7 @@ Deemed agreement of debenture holders to use of website
 
 (a) the debenture holder has been asked individually by the company to agree that the company may send or supply documents or information generally, or the documents or information in question, to him by means of a website; and
 
-Companies
-
-2014-19 (b) the company has not received a response within the period of 28 days beginning with the date on which the company’s request was sent.
+(b) the company has not received a response within the period of 28 days beginning with the date on which the company’s request was sent.
 
 (4)  A person is not taken to have so agreed if the company’s request–
 
@@ -178,9 +166,7 @@ Notification of availability
 
 (a) the presence of the document or information on the website;
 
-Companies
-
-2014-19 (b) the address of the website;
+(b) the address of the website;
 
 (c) the place on the website where it may be accessed; and
 
@@ -214,9 +200,7 @@ PART 6
 
 SUPPLEMENTARY PROVISIONS
 
-Companies
-
-2014-19 Joint holders of shares or debentures
+Joint holders of shares or debentures
 
 16.(1)  This paragraph applies in relation to documents or information to be sent or supplied to joint holders of shares or debentures of a company.
 
@@ -243,7 +227,3 @@ Death or bankruptcy of holder of shares
 (3)  Until such an address has been so supplied, a document or information may be sent or supplied in any manner in which it might have been sent or supplied if the death or bankruptcy had not occurred.
 
 (4)  This paragraph has effect subject to anything in the company’s articles.
-
-Companies
-
-2014-19
