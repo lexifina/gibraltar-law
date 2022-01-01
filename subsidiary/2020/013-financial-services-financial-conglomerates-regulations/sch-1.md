@@ -26,7 +26,7 @@ Regardless of the method used for the calculation of the supplementary capital a
 
 2019-26 Financial Services 2020/013 Financial Services (Financial Conglomerates) Regulations 2020
 
-(i) the multiple use of elements eligible for the calculation of own funds at the level of the financial conglomerate (multiple gearing) as well as any inappropriate intra-group creation of own funds is not permissible; in order to ensure the elimination of multiple gearing and the intra-group creation of own funds, the GFSC must apply by analogy the relevant principles laid down in the relevant sectoral rules;
+(i) the multiple use of elements eligible for the calculation of own funds at the level of the financial conglomerate (multiple gearing) as well as any inappropriate intra- group creation of own funds is not permissible; in order to ensure the elimination of multiple gearing and the intra-group creation of own funds, the GFSC must apply by analogy the relevant principles laid down in the relevant sectoral rules;
 
 (ii) the solvency requirements for each different financial sector represented in a financial conglomerate must be covered by own funds elements in accordance with the corresponding sectoral rules;
 
