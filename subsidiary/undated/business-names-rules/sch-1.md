@@ -12,27 +12,17 @@ NOTE.–£2.50 in stamps must be affixed in the space provided and the statement
 
 I, the undersigned, hereby apply for registration pursuant to the provisions of the Business Names Registration Act, and for that purpose furnish the following statement of particulars.
 
-(1)  The business name. (2)  The general nature of the business. (3) The principal place of the business. (4)  The present fore  name (or names) and surname of the  individual.
+(1)  The business name. (2)  The general nature of the business. (3) The principal place of the business. (4)  The present fore  name (or names) and surname of the  individual. (5)  Any former fore  name (or names) or surname of the individual. (6)  The nationality of the individual. (7)   The nationality of origin of the individual, if not the same as the present nationality.
 
-(5)  Any former fore  name (or names) or surname of the individual.
-
-(6)  The nationality of the individual. (7)   The nationality of origin of the individual, if not the same as the present nationality.
-
-(8)  The usual residence of the individual. (9)  The other business occupation (if any) of the individual.
-
-(10)  The date of the commencement of the business. (11)  Any other business name or names under which the business is carried on.
+(8)  The usual residence of the individual. (9)  The other business occupation (if any) of the individual. (10)  The date of the commencement of the business. (11)  Any other business name or names under which the business is carried on.
 
 Dated this day of
 
 , 20       .
 
-(See Note C). (See Note B).
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
-
 (Signature)
+
+(See Note C). (See Note B).
 
 NOTE A.–This statement must in all cases be signed by the individual applying for registration, and must be sent by post or delivered to the Registrar within fourteen days of commencing to carry on such business.
 
@@ -42,11 +32,9 @@ Where the individual applying for registration carries on the business wholly or
 
 NOTE B.–Section 2(1) and (2) of the Act provide that a fore   name includes any forename and that in the case of a peer or person usually known by a British title different from his surname, the title by which he is known shall be substituted in the Act for his surname.
 
-NOTE C.–Section 2(3) of the Act provides that reference in the Act to a former fore name or surname shall not, in the case of natural-born British subjects, include a former fore name or surname where that name or surname has been changed or disused before the person bearing the name had attained the age of eighteen years; and, in the case of a married woman, shall not include the name or surname by which she was known previous to the marriage. (See Note A).
+NOTE C.–Section 2(3) of the Act provides that reference in the Act to a former fore name or surname shall not, in the case of natural-born British subjects, include a former fore name or surname where that name or surname has been changed or disused before the person bearing the name had attained the age of eighteen years; and, in the case of a married woman, shall not include the name or surname by which she was known previous to the marriage.
 
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
+(See Note A).
 
 FORM R.B.N. 1a.–Application for Registration by a Firm.
 
@@ -70,7 +58,7 @@ NOTE.–£2.50 in stamps must be affixed in the space provided and the statement
 
 5.–Any other business name or names under which the business is carried on.
 
-6.– The present fore name or names, and surname, of every individual who is– and the corporate name of every corporation which is–a partner in the firm.
+6.– The present fore name or names, and surname, of every individual who is–and the corporate name of every corporation which is–a partner in the firm.
 
 7.– Any former fore name or names or surname, of every individual partner in the firm.
 
@@ -82,12 +70,6 @@ NOTE.–£2.50 in stamps must be affixed in the space provided and the statement
 
 11.– The other business occupation (if any) of every individual partner in the firm.
 
-(See Note B).
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
-
 Dated this
 
 day of
@@ -96,7 +78,7 @@ day of
 
 Signatures
 
-Signatures (See Note A)
+Signatures (See Note A) (See Note B). (See Note C).
 
 NOTE A.–This statement must in all cases be signed either–
 
@@ -110,21 +92,13 @@ and in either of the cases (b) (i) or (ii) must be verified by a statutory decla
 
 This statement, when signed, must be sent by post or delivered to the Registrar within fourteen days of commencing to carry on such business, and where the signature to the statement is required to be verified by statutory declaration, the statutory declaration must be sent or delivered with the statement.
 
-Failure without reasonable excuse to furnish the required  statement of particulars within the time specified will, in addition to  any disability imposed by the Act entail liability on  conviction to a fine of £5 for every day during which the default  continues. Any statement which contains any matter which is false  in any material particular to the knowledge of any person signing it  will entail liability on conviction to imprisonment for three months  and to a fine of £20.
+Failure without reasonable excuse to furnish the required  statement of particulars within the time specified will, in addition to  any disability imposed by the Act entail liability on conviction to a fine of £5 for every day during which the default  continues. Any statement which contains any matter which is false  in any material particular to the knowledge of any person signing it  will entail liability on conviction to imprisonment for three months  and to a fine of £20.
 
 Where the individual applying for registration carries on the business wholly or mainly as nominee or trustee of or for another person or other persons or a corporation, or acts as general agent for any foreign firm, the additional particulars specified in Form R.B.N. 2a must also be furnished on such form and sent by post or delivered to the Registrar in manner and within the time before specified.
 
-NOTE B.–Section 2(1) and (2) of the Act provide that a fore name includes any forename and that in the case of a peer or person usually (See Note C).
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21 known by a British title different from his surname, the title by which he is known shall be substituted for his  surname.
+NOTE B.–Section 2(1) and (2) of the Act provide that a fore name includes any forename and that in the case of a peer or person usually known by a British title different from his surname, the title by which he is known shall be substituted for his  surname.
 
 NOTE C.–Section 2(3) of the Act provides that references in the Act to a former fore name or surname shall not, in thecase of natural-born British subjects, include a former fore name or surname where that name or surname has been changed or disused before the person bearing the name had attained the age of eighteen years; and, in the case of a married woman, shall not include the name or surname by which she was known previous to the marriage.
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
 
 FORM R.B.N. 1b. – Application for Registration by a Corporation carrying on the business wholly or mainly as nominee or trustee, etc., or acting as general agent for any foreign firm
 
@@ -154,13 +128,11 @@ NOTE.–£2.50 in stamps must be affixed in the space provided and the statement
 
 The following Statement of Additional Particulars (8), (9), (10), (11), (12) and (13) is to be furnished in respect of the carrying on by such corporation of the business wholly or mainly as nominee or trustee of or for another corporation, provided that if the business is carried on under any trust and any of the beneficiaries are a class of children or other persons, then the particulars required under (13) only need be furnished.
 
-1 2 3 4 5 6 7 8.– The present fore  name or names and surname or the corporation name of every person or
+1 2 3 4 5 6 7 8.– The present fore  name or names and surname or the corporation name of every person or corporation on whose behalf the business is carried on.
 
 (See Note B).
 
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21 corporation on whose behalf the business is carried on. 9.– Any former name or names of any person on whose behalf the business is carried on.
+9.– Any former name or names of any person on whose behalf the business is carried on.
 
 10.– The nationality of every person on whose behalf the business is carried on.
 
@@ -186,19 +158,13 @@ Signature.
 
 NOTE A.–This statement must in all cases be signed by a director or the secretary of the corporation applying for registration and must be sent by post or delivered to the Registrar within fourteen days of commencing to carry on such business.
 
-Failure without reasonable excuse to furnish the required statement of particulars, within the time specified will, in addition to any disability imposed by the Act, entail liability on conviction to a fine of £5 for every day during which the default continues, and where a corporation is guilty of an offence against the Act, every director, secretary and officer of the corporation who is knowingly a party to the default will be guilty of a like offence and liable to a like penalty. Any statement which contains any matter which is false in any material particular to the knowledge of any person signing it will entail liability on conviction to imprisonment for three months and to a fine of £20. (See Note C). (See Note A).
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
+Failure without reasonable excuse to furnish the required statement of particulars, within the time specified will, in addition to any disability imposed by the Act, entail liability on conviction to a fine of £5 for every day during which the default continues, and where a corporation is guilty of an offence against the Act, every director, secretary and officer of the corporation who is knowingly a party to the default will be guilty of a like offence and liable to a like penalty. Any statement which contains any matter which is false in any material particular to the knowledge of any person signing it will entail liability on conviction to imprisonment for three months and to a fine of £20.
 
 NOTE B.–Section 2(1) and (2) of the Act provide that a fore name includes any forename and that in the case of a peer or a person usually known by a British title different from his surname, the title by which he is known shall be substituted for his surname.
 
-NOTE C.–Section 2(3) of the Act provides that references in the Act to a former fore name or surname shall not, in the case of natural-born British subjects, include a former fore name or surname where that name or surname has been changed or disused before the person bearing the name had attained the age of eighteen years, and, in the case of a married woman, shall not include the name or surname by which she was known previous to the marriage.
+NOTE C.–Section 2(3) of the Act provides that references in the Act to a former fore name or surname shall not, in the case of natural-born British subjects, include a former fore name or (See Note C). (See Note A).
 
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
+surname where that name or surname has been changed or disused before the person bearing the name had attained the age of eighteen years, and, in the case of a married woman, shall not include the name or surname by which she was known previous to the marriage.
 
 FORM R.B.N. 2.– Statement of Additional Particulars to be furnished by an individual.
 
@@ -222,11 +188,7 @@ A.–Where an individual having a place of business within Gibraltar carries on 
 
 B.–Where any individual having a place of business within Gibraltar acts as general agent for any foreign firm* the following particilars must be furnished. The business name and address of the foreign firm as agent for whom the business is carried on.
 
-(See Note B). (See Note C).
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21 If the business is carried on as agent for three or more foreign firms, it is sufficient to state the fact that the business is so carried on, specifying the countries in which such foreign firms carry on business. * “Foreign firm” means any firm, individual or corporaton whose principal place of business is situated outside Her Majesty’s dominions.
+If the business is carried on as agent for three or more foreign firms, it is sufficient to state the fact that the business is so carried on, specifying the countries in which such foreign firms carry on business. * “Foreign firm” means any firm, individual or corporaton whose principal place of business is situated outside Her Majesty’s dominions.
 
 Dated this
 
@@ -234,7 +196,7 @@ Dated this
 
 Signature.
 
-NOTE A.–This statement must in all cases be signed by the individual applying for registration, and must be sent by post or delivered to the Registrar within fourteen days of commencing to carry on such business. Where the individual is only under liability to furnish one set of these additional particulars he should strike out the other set.
+NOTE A.–This statement must in all cases be signed by the individual applying for registration, and must be sent by post or delivered to the Registrar within fourteen days of (See Note B). (See Note C). (See Note A) commencing to carry on such business. Where the individual is only under liability to furnish one set of these additional particulars he should strike out the other set.
 
 Failure without reasonable excuse to furnish the required statement of particulars within the time specified will, in addition to any disability imposed by the Act, entail liability on conviction to a fine of £5 for every day during which the default continues. Any statement which contains any matter which is false in any material particular to the knowledge of any person signing it will entail liability on conviction to imprisonment for three months and to a fine of £20.
 
@@ -242,19 +204,13 @@ NOTE B.–Section 2(1) and (2) of the Act provide that a fore name includes any 
 
 NOTE C.–Section 2(3) of the Act provides that references in the Act to a former fore name or surname shall not, in the case of natural-born British subjects include a former fore name or surname where that name or surname has been changed or disused before the person bearing the name had attained the age of eighteen years, and, in the case of a married woman, shall not include the name or surname by which she was known previous to the marriage.
 
-(See Note A)
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
-
 Section 4.
 
 FORM R.B.N. 2a–Statement of Additional Particulars to be  furnished.
 
 No. of Certificate.
 
-A.–Where any firm having a place of business within Gibraltar  carries on the business wholly or mainly as nominee or trustee  of or for another person or other persons or a corporation, the  particulars required under (1), (2), (3), (4) and (5) must be  furnished, provided that if the business is carried on under any  trust and any of the beneficiaries are a class of children or other  persons, then the particulars required under (6) only need be  furnished.
+A.–Where any firm having a place of business within Gibraltar  carries on the business wholly or mainly as nominee or trustee  of or for another person or other persons or a corporation, the particulars required under (1), (2), (3), (4) and (5) must be  furnished, provided that if the business is carried on under any  trust and any of the beneficiaries are a class of children or other  persons, then the particulars required under (6) only need be  furnished.
 
 1.– The present fore name or names and surname or the corporate name of every person or corporation on whose behalf the business is carried on.
 
@@ -270,13 +226,7 @@ A.–Where any firm having a place of business within Gibraltar  carries on the 
 
 B.– Where any firm having a place of business within Gibraltar acts as general agent for any foreign firm* the following particilars must be furnished. The business name and address of the foreign firm as agent for whom the business is carried on.
 
-If the business is carried on as agent for three or more foreign firms it is sufficient to state the fact that the business is so carried on, specifying the countries in which such foreign firms carry on business. * “Foreign firm” means any firm, individual or corporaton whose principal place of business is situate outside Her Majesty’s
-
-(See Note B). A. (See Note C).
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21 dominions.
+If the business is carried on as agent for three or more foreign firms it is sufficient to state the fact that the business is so carried on, specifying the countries in which such foreign firms carry on business. * “Foreign firm” means any firm, individual or corporaton whose principal place of business is situate outside Her Majesty’s dominions.
 
 Signatures.
 
@@ -286,13 +236,15 @@ day of
 
 20           .
 
+(See Note B). A. (See Note C). (See Note A).
+
 NOTE A.–This statement must in all cases be signed either–
 
 (a)   By all the individuals who are partners and by a director or the secretary of every corporation which is a partner; or
 
 (b)    (i) by some individual who is a partner; or
 
-(ii) by a director or the secretary of some corporation which is a   partner, and in either of the cases (b)(i) and (ii) must be verified by statutory declaration made by the signatory.
+(ii) by a director or the secretary of some corporation which  is a   partner, and in either of the cases (b)(i) and (ii) must be verified by statutory declaration made by the signatory.
 
 This statement, when signed, must be sent by post or delivered to the Registrar within fourteen days of commencing to carry on such business, and where the signature of the statement is required to be verified by statutory declaration, the statutory declaration must be sent or delivered with the statement.
 
@@ -302,15 +254,7 @@ Failure, without reasonable excuse to furnish the required statement of particul
 
 NOTE B.–Section 2(1) and (2) of the Act provide that a fore name includes any forename and that in the case of a peer or person usually known by a British title different from his surname, the title by which he is known shall be substituted for his surname.
 
-NOTE C.–Section 2(3) of the Act provides that references in the Act to a former fore name or surname shall not, in the case of natural-born British subjects, include a former fore name or surname where that name or (See Note A).
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21 surname has been changed or disused before the person bearing the name had attained  the age of eighteen years, and, in the case of a married woman, shall not include the name or surname by which she was known previous to the marriage.
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
+NOTE C.–Section 2(3) of the Act provides that references in the Act to a former fore name or surname shall not, in the case of natural-born British subjects, include a former fore name or surname where that name or surname has been changed or disused before the person bearing the name had attained  the age of eighteen years, and, in the case of a married woman, shall not include the name or surname by which she was known previous to the marriage.
 
 FORM R.B.N. 3.– Statement of Change in the Particulars registered by an Individual.
 
@@ -334,10 +278,6 @@ Failure, without reasonable excuse, to furnish the required statement of any cha
 
 * * Here insert business name of individual. Here insert nature and date of change. ( See Note A ).
 
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
-
 FORM R.B.N. 3a.– Statement of Change in the Particulars registered  by a Firm.
 
 Section 8.
@@ -360,7 +300,7 @@ NOTE A.–This statement must be signed either–
 
 (b)   (i) by some individual who is a partner; or
 
-(ii) by a director or the secretary of some corporation which is a partner, and in either cases (b) (i) and (ii) must be verified by a statutory declaration made by the signatory.
+(ii) by a director or the secretary of some corporation which  is a partner, and in either cases (b) (i) and (ii) must be verified by a statutory declaration made by the signatory.
 
 This statement, when signed, must be sent by post or delivered to the Registrar within fourteen days after any change in any of the particulars registered or within such longer period as the Minister responsible for finance may, on application being made in any particular case, whether before or after the expiration of such fourteen days, allow.
 
@@ -368,9 +308,7 @@ Failure without reasonable excuse to furnish the required statement of any chang
 
 * Here insert business name of firm. Here insert nature and date of change. ( See Note A ).
 
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21 FORM R. B. N. 3b.–Statement of Change in the Particulars registered by a Corporation. Section 8.
+FORM R. B. N. 3b.–Statement of Change in the Particulars registered by a Corporation. Section 8.
 
 No. of Certificate.
 
@@ -389,10 +327,6 @@ NOTE A.–This statement must be signed by a director or the secretary of the co
 Failure without reasonable excuse to furnish the required statement of any change in particulars within the time specified will, in addition to any disability imposed by the Act, entail liability on conviction to a fine of £5 for every day during which the default continues, and every director, secretary or officer of the corporation who is knowingly a party to the default will be liable to a like penalty. Any statement which contains any matter which is false in any material particular to the knowledge of any person signing it will entail liability on conviction to imprisonment for three months and to a fine of £20.
 
 * Here insert business name of corporation. Here insert nature and date of change. ( See Note A ).
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
 
 FORM R.B. N. 4.–Notice of Cessation of business by a  registered Firm or Individual.
 
@@ -422,10 +356,6 @@ Failure to give the required notice within the time above specified entails liab
 
 * Insert name and address of firm or individual as the case may be.
 
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
-
 FORM R. B. N. 5.–Form of Certificate.
 
 Section 13.
@@ -442,7 +372,9 @@ of
 
 pursuant to section
 
-of the above-mentioned Act was registered on the day of
+of the above-mentioned Act was registered on the
+
+day of
 
 , 20       .
 
@@ -455,10 +387,6 @@ day of
 (Signed)
 
 Registrar of Business Names.
-
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
 
 FORM R. B. N. 6.– Form of Appeal from the decision of the Registrar.
 
@@ -492,19 +420,13 @@ An unstamped copy of this notice of appeal, together with copies of the statemen
 
 (a) Insert full name and address of appellant. (b) Insert the decision complained of. (c) Strike out if not so desired.
 
-Business Names Registration BUSINESS NAMES RULES.
-
-Subsidiary 1918.10.29 1918-21
-
 FORM R. B. N. S. D.–Form of Statutory Declaration Verifying  a Statement furnished under the Act.
 
 I
 
 of
 
-do hereby solemnly and sincerely declare that all the particulars contained in the statement dated the
-
-day of
+do hereby solemnly and sincerely declare that all the particulars contained in the statement dated the day of
 
 , 20      , and signed by me which is now produced and shown to me marked
 
