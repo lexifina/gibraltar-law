@@ -14,7 +14,9 @@ LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-1
 
 30.1.2020 2020/118 r. 47(1A) 26.3.2020 2020/492 rr. 2, 3(1)-(2), 4(1)(b)-(c), (7), 8(1)-(3), (c)-(d), (4), (c)(i)-(v), (5)-(6), (a)(i), (b)(i), (7)-(10), 9(1)(a)-(d), 11, 12(4)-(6), 15(2), 16(1)-(2), 18(4)(a), 20(4), 23(2), (3)(c), (4), 24(2), 26(2)(a), (3)(c)-(d), 29(1)(a), (9)(b), (10), 30(7)(a), 32(1)(b), (2), 35(1)(a)(iv), (2), (5)-(6), (10)(d)(iii), (14)-(15),(18), 36(9), (19), (21), 37(11), 39(11)(b), 40(8)(a)(iv), (16), 42(15), 43(5), 44(3)(d), (f), (6), 46(9), (12)(a)(i), (18), 47(1)(a)-(b), (3), 48(5), (6)(b), (8), 49(1), 50, 51(1)-(2), (4), 53(9), (19)(h), 54(2), (5), (6)(a), (7), 56(5), 57(1)(b)(iv), (d)(iv), (2)-(3), (5), 58(8), (18), 61(3), (6)-(9), 62(1)(b)(iv), (2)(d), (3)- (4), (6), 63(9)-(10), 66(2)(c)(ii), (e), (g), (6), (9), 67(2), 68(3), (6)(c), (7)-(11), (14), (16), (18), (20)- (21), 69(1)(b), (2)-(4), (6)(c)(i)-(ii), (e), (9), 74(3), 76(1)-(2), 78-98, 99(3)-(4), 101(1), 107(9)-(10), 108-109, 110(2)(c)-(d), 111(4), 114(2), 116-121, 122(3), 123(5), 124, 125(1), Sch.1
 
-1.1.2021
+1.1.2021 2021/493 rr. 2(1), 14(1), 51(1), 70, 73(b), 76(1)(a), 99(3)(aa), 101(1), (a), (2), 111(2), (5)-(7), 112(1), 113(1)-(2), 114(1)(b), 123(1), (b), (3), (a)(i), (4)
+
+1.1.2022
 
 2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
@@ -114,7 +116,7 @@ PART 5 PRUDENTIAL REQUIREMENTS
 
 Investment firms
 
-70. Application of the Financial Services (Credit Institutions and Capital Requirements) Regulations 2020.
+70. Application of IFPR Regulations.
 
 Regulated markets
 
@@ -150,9 +152,11 @@ Monitoring compliance
 
 Confidentiality and exchange of information
 
+123. Professional secrecy.
+
 Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
 
-123. Professional secrecy. 124. Omitted.
+124. Omitted.
 
 Conduct of investment services in United Kingdom
 
