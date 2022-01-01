@@ -30,7 +30,7 @@ LIST OF ACTIVITIES SUBJECT TO MUTUAL RECOGNITION
 
 9. Advice to undertakings on capital structure, industrial strategy and related questions and advice as well as services relating to mergers and the purchase of undertakings.
 
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
+Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
 
 10.  Money broking.
 
