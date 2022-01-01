@@ -158,9 +158,9 @@ VI. Statement of the developments concerning the assets of the UCITS during the 
 
 - income from investments;
 
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
-
 - other income;
+
+Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
 
 - management charges;
 
