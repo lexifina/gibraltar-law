@@ -20,7 +20,7 @@ THE EDUCATION ACT.
 
 4. Sections 54(1), 56(1) and (5), 58(1) and 59 are amended by repealing the words “Director of Medical and Health Services” in each place where they appear and substituting in each such place the words “Specialist in Community Medicine”.
 
-THE  FOOD AND DRUGS ACT.
+THE FOOD AND DRUGS ACT.
 
 5.  Section 2 is amended–
 
@@ -30,9 +30,7 @@ THE  FOOD AND DRUGS ACT.
 
 “Specialist in Community Medicine” means the registered medical practitioner appointed as such by the Gibraltar Health Authority;”.
 
-Medical (Gibraltar Health Authority)
-
-1987-34 6.  Sections 15, 16, 17,21 and 39 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
+6.  Sections 15, 16, 17,21 and 39 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
 
 7. Sections 18A and 20 are amended by repealing the word “Director” in each place where it appears and substituting in each such place the words “Specialist in Community Medicine”.
 
@@ -64,9 +62,7 @@ THE MENTAL HEALTH ACT.
 
 THE POLICE ACT.
 
-Medical (Gibraltar Health Authority)
-
-1987-34 21. Section 4 is amended –
+21. Section 4 is amended –
 
 (a) in paragraph (e) by substituting a full stop for the semi-colon at the end thereof; and
 
@@ -98,9 +94,7 @@ THE PUBLIC HEALTH ACT.
 
 (1A) The Chief Environmental Health Officer may provide hearses and may make charges for the use thereof.”
 
-Medical (Gibraltar Health Authority)
-
-1987-34 (b) in subsection (2), by repealing the word “Government” and substituting the word “Authority”.
+(b) in subsection (2), by repealing the word “Government” and substituting the word “Authority”.
 
 27. Section 204 is amended –
 
@@ -114,7 +108,7 @@ Medical (Gibraltar Health Authority)
 
 (b) by repealing the word “Government” in each place where it appears and substituting in each such place the words “Chief Environmental Health Officer”.
 
-29. Sections 193, 194, 195, 197, 198, 199, 200, 201, 202 and  are repealed.
+29. Sections 193, 194, 195, 197, 198, 199, 200, 201, 202 and are repealed.
 
 THE QUARANTlNE ACT.
 
