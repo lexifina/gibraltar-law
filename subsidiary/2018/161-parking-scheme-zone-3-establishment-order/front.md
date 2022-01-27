@@ -1,20 +1,20 @@
-Traffic PARKING SCHEME (ZONE 3) ESTABLISHMENT ORDER
+Subsidiary Legislation made under r.8 of the Traffic (Parking and Waiting) Regulations 2011.
 
-2005-26
+Parking Scheme (Zone 3) Establishment Order
 
-Subsidiary 2018/161 Subsidiary Legislation made under r.8 of the Traffic (Parking and Waiting) Regulations 2011.
-
-PARKING SCHEME (ZONE 3) ESTABLISHMENT ORDER
-
-(LN.2018/161)
+LN.2018/161
 
 Commencement 11.9.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2019/184 Para. 3(1) 16.9.2019
+LN. 2019/184 Para. 3(1) 16.9.2019 2022/023 Para. 3, (10) 27.1.2022
 
-_______________________
+ARRANGEMENT OF PARAGRAPHS
+
+Paragraph
+
+1. Title. 2. Commencement. 3. Parking Scheme.
 
 In exercise of the powers conferred on him by regulation 8 of the Traffic (Parking and Waiting) Regulations 2011, the Minister has established a Parking Scheme within Zone 3 as set out below–
 
@@ -28,4 +28,4 @@ Commencement.
 
 Parking Scheme.
 
-3.  Parking facilities in Zone 3 are divided into 9 types–
+3.  Parking facilities in Zone 3 are divided into 10 types–
