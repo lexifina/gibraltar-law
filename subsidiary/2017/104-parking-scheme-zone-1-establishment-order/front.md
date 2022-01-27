@@ -1,20 +1,20 @@
-Traffic PARKING SCHEME (ZONE 1) ESTABLISHMENT ORDER
+Subsidiary Legislation made under r.8 of the Traffic (Parking and Waiting) Regulations 2011.
 
-2005-26
+Parking Scheme (Zone 1) Establishment Order
 
-Subsidiary 2017/104 Subsidiary Legislation made under r.8 of the Traffic (Parking and Waiting) Regulations 2011.
-
-PARKING SCHEME (ZONE 1) ESTABLISHMENT ORDER
-
-(LN. 2017/104)
+LN.2017/104
 
 Commencement 1.7.2017
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2019/188 Para. 3(1) 16.9.2019
+LN. 2019/188 Para. 3(1) 16.9.2019 2022/022 Para. 3(1) 27.1.2022
 
-_______________________
+ARRANGEMENT OF PARAGRAPHS
+
+Paragraph
+
+1. Title. 2. Commencement. 3. Parking Scheme.
 
 In exercise of the powers conferred on him by regulation 8 of the Traffic (Parking and Waiting) Regulations 2011, the Minister has established a Parking Scheme within Zone 1 as set out below–
 
