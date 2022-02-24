@@ -12,7 +12,7 @@ GENERAL LABELLING REQUIREMENT.
 
 (c) the name or business name and an address or registered office of the milk processor or packer, or of a seller established within the European Economic Community; and
 
-(d) particulars of the place of origin or provenance of the milk if failure to give such particulars might mislead a purchaser to a material degree as to the true origin or provenance of the milk..
+(d) particulars of the place of origin or provenance of the milk if failure to give such particulars might mislead a purchaser to a material degree as to the true origin or provenance of the milk.
 
 NAME OF THE MILK.
 
@@ -28,11 +28,7 @@ INDICATION OF MINIMUM DURABILITY.
 
 3.(1)  Subject to the following sub-paragraph, the minimum durability of milk shall be indicated by-
 
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008 (a) the words ‘best before’ followed by the date up to and including which the milk can reasonably be expected to retain its specific properties if properly stored, and
+(a) the words ‘best before’ followed by the date up to and including which the milk can reasonably be expected to retain its specific properties if properly stored, and
 
 (b) any storage conditions which need to be observed if the milk is to retain its specific properties until that date.
 
@@ -54,11 +50,7 @@ Subsidiary 1988/008 (a) the words ‘best before’ followed by the date up to a
 
 (b) any storage conditions which need to be observed if the milk is to retain its specific properties for the period referred to in paragraph (a)(ii) of this sub-paragraph.
 
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008 (5) Where the minimum durability of milk is indicated in the manner permitted by sub-paragraph (4), the latest recommended date of sale may appear on the labelling of the milk separately from the words ‘sell by’, provided that those words are followed by a reference to the place where the date appears.
+(5) Where the minimum durability of milk is indicated in the manner permitted by sub- paragraph (4), the latest recommended date of sale may appear on the labelling of the milk separately from the words ‘sell by’, provided that those words are followed by a reference to the place where the date appears.
 
 FIELD OF VISION.
 
@@ -82,11 +74,7 @@ EXEMPTIONS.
 
 (3) The container of any milk which-
 
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008 (a) is sold at a catering establishment for immediate consumption there, and
+(a) is sold at a catering establishment for immediate consumption there, and
 
 (b) is sold as one individual portion, and
 
@@ -111,9 +99,3 @@ DEFINITIONS.
 (b) for the purposes of a catering establishment, or
 
 (c) for the purposes of a manufacturing business.
-
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008

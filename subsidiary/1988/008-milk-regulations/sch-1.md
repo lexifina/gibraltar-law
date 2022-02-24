@@ -10,9 +10,9 @@ Part I - Pazteurised
 
 (c) retained at such temperature for such period as may be approved by the Government.
 
-2. The whole of the apparatus in which the milk is pasteurised including the cooler, shall be so constructed as to secure the protection of the milk from risk of atmospheric contamination by dust or otherwise
+2.The whole of the apparatus in which the milk is pasteurised including the cooler, shall be so constructed as to secure the protection of the milk from risk of atmospheric contamination by dust or otherwise
 
-3. Any apparatus in which the milk is to be heated to and maintained at a temperature of more than 65.6°C shall be provided with a device which shall automatically divert the flow of any milk which is not raised to the authorised temperature:
+3.Any apparatus in which the milk is to be heated to and maintained at a temperature of more than 65.6°C shall be provided with a device which shall automatically divert the flow of any milk which is not raised to the authorised temperature:
 
 Provided that this paragraph shall only apply when the milk is heated by a continuous-flow method and is pasteurised in accordance with-
 
@@ -24,11 +24,7 @@ Provided that this paragraph shall only apply when the milk is heated by a conti
 
 (2)  The records of recording thermometers shall be marked with graduations adequately spaced to give clear readings, and they shall be dated and shall be preserved for a period of not less than one month.
 
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008 5.(1) A sample of the milk taken in accordance with Part I of Schedule 3 to these regulations after pasteurisation and before delivery to the consumer shall satisfy the phosphatase test prescribed in Part III of that Schedule.
+5.(1) A sample of the milk taken in accordance with Part I of Schedule 3 to these regulations after pasteurisation and before delivery to the consumer shall satisfy the phosphatase test prescribed in Part III of that Schedule.
 
 (2)  A sample of the milk taken in accordance with Part I of Schedule 3 to these regulations after pasteurisation and on the day of but before delivery to the consumer shall, if it is kept in an insulated container without artificial cooling until it reaches the laboratory, satisfy the methylene blue test prescribed in Part II of that Schedule.
 
@@ -50,13 +46,7 @@ A. CONDITIONS APPLICABLE WHEN THE MILK IS HEATED IN BOTTLES OR BY A CONTINUOUS-P
 
 (b) by a continuous-flow method.
 
-3. Such thermometers and pressure gauges as are considered necessary shall be installed in suitable places in the apparatus so as to indicate the
-
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008 temperature or pressure to which the milk is raised or subjected, as the case may be.
+3. Such thermometers and pressure gauges as are considered necessary shall be installed in suitable places in the apparatus so as to indicate the temperature or pressure to which the milk is raised or subjected, as the case may be.
 
 4. A sample of the milk taken in accordance with Part I of Schedule 3 to these regulations after treatment and before delivery to the consumer shall satisfy the turbidity test prescribed in Part IV of that Schedule.
 
@@ -78,11 +68,7 @@ Part III- Ultra heat treated
 
 A. CONDITIONS APPLICABLE WHETHER OR NOT THE TREATMENT OF THE MILK INCLUDES THE DIRECT APPLICATION OF STEAM.
 
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008 1. The milk shall be treated by the ultra high temperature method, that is to say retained at a temperature of not less than 132.2°C for not less than one second.
+1. The milk shall be treated by the ultra high temperature method, that is to say retained at a temperature of not less than 132.2°C for not less than one second.
 
 2. Any apparatus in which the milk is to be heated to and maintained at a temperature of not less than 132.2°C shall be provided with a device which shall automatically divert the flow of any milk which is not raised to the authorised temperature.
 
@@ -102,13 +88,7 @@ B. ADDITIONAL CONDITIONS APPLICABLE WHEN THE TREATMENT OF THE MILK INCLUDES THE 
 
 1. In the following paragraphs of this Part of this Schedule
 
-“input temperature”  means the temperature of the milk immediately before the application of the steam;
-
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008
+“input temperature” means the temperature of the milk immediately before the application of the steam;
 
 “operational change” means any change in the site, layout or construction of equipment for treating milk by the ultra high temperature method by the direct application of steam, or any change in the steam supply or in the particular temperature used for treating the milk as aforesaid;
 
@@ -128,12 +108,6 @@ Subsidiary 1988/008
 
 (b) either both of these temperatures or one of them and the difference between them shall be continuously recorded on charts marked with graduations adequately spaced to give clear readings.
 
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008
-
 (2) The records on such charts shall be dated and shall be preserved for a period of not less than three months.
 
 5. Any treatment of milk as aforesaid or calibration of control apparatus in compliance with paragraph B .3 of this Part of this Schedule shall be carried out only with dry saturated steam.
@@ -150,16 +124,4 @@ Subsidiary 1988/008
 
 (a) any of the following boiler feed water treatment compounds:
 
-Potassium alginate Sodium alginate Potassium carbonate Sodium carbonate Sodium hydroxide Sodium dihydrogen orthophosphate Disodium hydrogen orthophosphate Trisodium orthophosphate Penta Sodium triphosphate Sodium polyphosphates Tetrasodium diphosphate Sodium silicate Sodium metasilicate Sodium sulphate Magnesium sulphate Neutral or alkaline sodium sulphite
-
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008 Uumodified starch Sodium aluminate Polyoxyethylene glucol (minimum molecular weight, 1000).
-
-Food and Drugs MILK REGULATIONS, 1988
-
-1964-07
-
-Subsidiary 1988/008
+Potassium alginate Sodium alginate Potassium carbonate Sodium carbonate Sodium hydroxide Sodium dihydrogen orthophosphate Disodium hydrogen orthophosphate Trisodium orthophosphate Penta Sodium triphosphate Sodium polyphosphates Tetrasodium diphosphate Sodium silicate Sodium metasilicate Sodium sulphate Magnesium sulphate Neutral or alkaline sodium sulphite Uumodified starch Sodium aluminate Polyoxyethylene glucol (minimum molecular weight, 1000).
