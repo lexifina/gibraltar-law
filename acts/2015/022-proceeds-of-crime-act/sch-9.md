@@ -2,8 +2,6 @@ SCHEDULE 9
 
 Section 7(1ZA)
 
-LIST OF NON-EEA MARKETS
-
 In Israel— — Tel Aviv Stock Exchange
 
 In Japan— — Fukuoka Stock Exchange — Nagoya Stock Exchange — Osaka Securities Exchange — Sapporo Securities Exchange — Tokyo Stock Exchange

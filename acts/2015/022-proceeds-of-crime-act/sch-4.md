@@ -32,13 +32,13 @@ Compromise
 
 Supplementary
 
-6.(1)  For the purposes of, or in connection with, the exercise of any of his powers– (a) power by his official name to do any of the things mentioned in sub-paragraph (2),
+6.(1)  For the purposes of, or in connection with, the exercise of any of his powers–
+
+(a) power by his official name to do any of the things mentioned in sub-paragraph (2),
 
 (b) power to do any other act which is necessary or expedient.
 
-Proceeds of Crime
-
-2015-22 (2)  Those things are-
+(2)  Those things are-
 
 (a) holding property,
 
@@ -49,7 +49,3 @@ Proceeds of Crime
 (d) employing agents,
 
 (e) executing a power of attorney, deed or other instrument.
-
-Proceeds of Crime
-
-2015-22

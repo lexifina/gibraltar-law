@@ -18,17 +18,13 @@ The following are supervisory bodies–
 
 (f) the Gambling Commissioner as defined in section 2 of the Gambling Act 2005;
 
-(g) the Office of Fair Trading as defined in section 3 of the Fair Trading Act 2015 (in relation to businesses engaging in relevant financial business in accordance with sections 9(1)(h) (estate agents and letting agents), 9(1)(ha) (art market participants) and 9(1)(k) (dealers in high value goods) of this Act);
+(g) the Office of Fair Trading as defined in section 3 of the Fair Trading Act 2015 (in relation to businesses engaging in relevant financial business in accordance with sections 9(1)(h) (estate agents and letting agents), 9(1)(i) (art market participants) and 9(1)(m) (dealers in high value goods) of this Act);
 
-(ga) HM Customs (in relation to businesses engaging in relevant financial business in accordance with section 9(1)(hb) (art storage freeport operators) of this Act)
+(ga) HM Customs (in relation to businesses engaging in relevant financial business in accordance with section 9(1)(j) (art storage freeport operators) of this Act)
 
 (h) the Registrar of the Supreme Court.
 
 PART II
-
-Proceeds of Crime
-
-2015-22
 
 (a) the Financial Services (Banking) Act, 1992;
 
@@ -39,7 +35,3 @@ Proceeds of Crime
 (d) the Companies Act 2014.
 
 (e) the Insolvency Act 2011.
-
-Proceeds of Crime
-
-2015-22

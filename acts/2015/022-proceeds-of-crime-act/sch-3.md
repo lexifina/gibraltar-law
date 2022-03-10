@@ -36,9 +36,7 @@ Entry, search, etc.
 
 (b) to make or obtain a copy, photograph or other record of anything so described,
 
-Proceeds of Crime
-
-2015-22 (c) to remove anything which he is required to take possession of in pursuance of the order or which may be required as evidence in the proceedings under Chapter 2 of Part 5.
+(c) to remove anything which he is required to take possession of in pursuance of the order or which may be required as evidence in the proceedings under Chapter 2 of Part 5.
 
 (3)  The order may describe anything generally, whether by reference to a class or otherwise.
 
@@ -63,7 +61,3 @@ Management
 (b) where the property comprises assets of a trade or business, carrying on, or arranging for another to carry on, the trade or business,
 
 (c) incurring capital expenditure in respect of the property.
-
-Proceeds of Crime
-
-2015-22

@@ -14,17 +14,17 @@ Property
 
 3.  There is a connection where there is other property in Gibraltar that is recoverable property in relation to the unlawful conduct.
 
-4. T here has been a connection where, at any time, there has been other property in Gibraltar that, at the time, was recoverable property in relation to the unlawful conduct.
+4. There has been a connection where, at any time, there has been other property in Gibraltar that, at the time, was recoverable property in relation to the unlawful conduct.
 
 Person
 
-5.(1)  There is or has been a connection where a person described in sub- paragraph (2)–
+5.(1)  There is or has been a connection where a person described in sub-paragraph (2)–
 
 (a) is linked to Gibraltar,
 
 (b) was linked to Gibraltar at a time when the unlawful conduct, or some of the unlawful conduct, was taking place, or
 
-(c) has been linked to Gibraltar  at any time since that conduct took place.
+(c) has been linked to Gibraltar at any time since that conduct took place.
 
 (2)  Those persons are–
 
@@ -33,10 +33,6 @@ Person
 (b) a person who was deprived of property by the unlawful conduct;
 
 (c) a person who holds the property in question;
-
-Proceeds of Crime
-
-2015-22
 
 (d) a person who has held the property in question, but only if it was recoverable property in relation to the unlawful conduct at the time;
 
@@ -74,10 +70,6 @@ Property held on trust
 
 (3)  “Beneficiaries” includes beneficiaries with a contingent interest in the trust property and potential beneficiaries.
 
-Proceeds of Crime
-
-2015-22
-
 Interpretation
 
 8.  “the unlawful conduct” means–
@@ -87,7 +79,3 @@ Interpretation
 (b) in a case in which the property in question represents property obtained through unlawful conduct, that conduct, or
 
 (c) in a case in which it is shown that the property in question was obtained through unlawful conduct of one of a number of kinds or represents property so obtained.
-
-Proceeds of Crime
-
-2015-22

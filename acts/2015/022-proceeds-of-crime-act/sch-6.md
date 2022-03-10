@@ -1,12 +1,10 @@
 SCHEDULE 6 Section 16(3)
 
-THIS SCHEDULE REPRODUCES ANNEX II OF THE MONEY LAUNDERING DIRECTIVE
-
-The following is a non-exhaustive list of factors and types of evidence of potentially lower risk referred to in Article 16:
+The following is a non-exhaustive list of factors and types of evidence of potentially lower risk referred to in section 16:
 
 (1) Customer risk factors-
 
-(a) public companies listed on a stock exchange and subject to disclosure requirements (either by stock exchange rules or through  law or enforceable means), which impose requirements to ensure adequate transparency of beneficial ownership;
+(a) public companies listed on a stock exchange and subject to disclosure requirements (either by stock exchange rules or through law or enforceable means), which impose requirements to ensure adequate transparency of beneficial ownership;
 
 (b) public administrations or enterprises;
 
@@ -26,16 +24,10 @@ The following is a non-exhaustive list of factors and types of evidence of poten
 
 (3) Geographical risk factors (registration, establishment, residence in)-
 
-(a) Member States;
+(a) Gibraltar;
 
-Proceeds of Crime
-
-2015-22 (b) third countries having effective AML/CFT systems;
+(b) third countries having effective AML/CFT systems;
 
 (c) third countries identified by credible sources as having a low level of corruption or other criminal activity;
 
 (d) third countries which, on the basis of credible sources such as mutual evaluations, detailed assessment reports or published follow-up reports, have requirements to combat money laundering and terrorist financing consistent with the revised FATF Recommendations and effectively implement those requirements.
-
-Proceeds of Crime
-
-2015-22

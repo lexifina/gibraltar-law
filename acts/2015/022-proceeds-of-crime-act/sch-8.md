@@ -34,9 +34,7 @@ Customer due diligence
 
 (b) during a business relationship with such a person;
 
-Proceeds of Crime
-
-2015-22 (2)  A direction pursuant to subparagraph (1) may require a relevant person to undertake specific measures identified or described in the direction.
+(2)  A direction pursuant to subparagraph (1) may require a relevant person to undertake specific measures identified or described in the direction.
 
 Ongoing Monitoring
 
@@ -66,9 +64,7 @@ Systematic reporting
 
 (3)  The power conferred by this paragraph is not exercisable in relation to information or documents in respect of which there a claim to legal professional privilege.
 
-Proceeds of Crime
-
-2015-22 (4)  Subject to subparagraph (3), the exercise of the power conferred by this paragraph and the provision of information under it is not otherwise subject to any restriction on the disclosure of information, whether imposed by statute or otherwise.
+(4)  Subject to subparagraph (3), the exercise of the power conferred by this paragraph and the provision of information under it is not otherwise subject to any restriction on the disclosure of information, whether imposed by statute or otherwise.
 
 Limiting or ceasing business
 
@@ -79,7 +75,3 @@ Limiting or ceasing business
 (b) a specified description of transactions or business relationships with a designated person; or
 
 (c) any transaction or business relationship with a designated person.”.
-
-Proceeds of Crime
-
-2015-22
