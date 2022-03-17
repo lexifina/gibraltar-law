@@ -22,8 +22,6 @@ VII. Company management fees
 
 VIII. Trustee fees
 
-Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
-
 IX. Interest and dividends 1. investment positions 2. loan accounts and margin accounts 3. in respect of balances in client bank accounts 4. other - specify
 
 X. Dealing and settlement services
@@ -57,8 +55,6 @@ IX. Provisions for losses, bad and doubtful debts
 X. Professional charges
 
 XI. Investment exchange and clearing house charges
-
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
 
 XII. Regulatory fees and expenses
 

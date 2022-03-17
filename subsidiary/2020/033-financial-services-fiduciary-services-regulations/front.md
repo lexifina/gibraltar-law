@@ -1,20 +1,14 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 24(3)(v), 44(4), 63(3), 64(3), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627.
 
-FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
+Financial Services (Fiduciary Services) Regulations 2020
 
 LN.2020/033
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date LN.2020/489 rr. 2(1), 36(1)(a), (e), (2)-(3), 42-43, 44(a)-(b), (5)(b), 48, Sch.
 
-LN.2020/489 rr. 2(1), 36(1)(a), (e), (2)-(3), 42-43, 44(a)-(b), (5)(b), 48, Sch.
-
-1.1.2021 2022/188 Sch. 1.1.2021
-
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
+1.1.2021 2022/188 Sch. 1.1.2021 2022/067 r. 76(2) 17.3.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -44,9 +38,9 @@ Companies under management
 
 Ethical standards
 
-14. Money laundering prevention. 15. Conflict of interest. 16. Disclosure of interest. 17. Inducements prohibited.
+14. Money laundering prevention. 15. Conflict of interest.
 
-Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
+16. Disclosure of interest. 17. Inducements prohibited.
 
 PART 3 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
@@ -80,8 +74,6 @@ Continuing compliance
 
 Financial resources
 
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
-
 31. Sufficient financial resources.
 
 Customer assets
@@ -103,8 +95,6 @@ Accounting records
 46. General duty to keep accounting records. 47. Records of transactions and commitments. 48. Reconciliation of customer money. 49. Reconciliation of customers’ financial instruments held by fiduciary services provider. 50. Records to be kept up to date. 51. Audit trail. 52. Conformity with accounting standards. 53. Retention of records. 54. Inspection of records.
 
 Financial statements
-
-Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
 
 55. Duty to prepare financial statements. 56 Balance sheet to give true and fair view. 57. Profit and loss account to give true and fair view. 58. Form and content of financial statements. 59. Annual financial statements to be submitted to meeting of partners, etc. 60. Additional requirement in case of sole proprietor. 61. Annual financial statements must be submitted to GFSC. 62. Fiduciary services provider to obtain auditor’s report. 63. Contents of auditor’s report. 64. Qualified reports.
 
@@ -128,14 +118,8 @@ Sanctions
 
 PART 7 MISCELLANEOUS
 
-77. The Register: fiduciary services providers.
-
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
-
-78. Restriction on use of the word “trust”.
+77. The Register: fiduciary services providers. 78. Restriction on use of the word “trust”.
 
 SCHEDULE FORM AND CONTENT OF FINANCIAL STATEMENTS
-
-Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
 
 In exercise of the powers conferred upon the Minister under sections 6(1), 24(3)(v), 44(4), 63(3), 64(3), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of the Financial Services Act 2019, the Minister has made these Regulations.

@@ -12,11 +12,9 @@ B. CURRENT ASSETS
 
 I. Physical stocks
 
-II. Debtors (1) 1. Trade debtors (2) 2. Other debtors 3. Amounts due from connected and group companies
+II. Debtors (1) 1. Trade debtors (2)
 
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
-
-4. Prepayments and accrued income
+2. Other debtors 3. Amounts due from connected and group companies 4. Prepayments and accrued income
 
 III. Investments (long positions)(3)
 
@@ -39,8 +37,6 @@ G. PROVISIONS FOR LIABILITIES AND CHARGES
 1. Commissions on indemnity terms 2. Pension and similar obligations 3. Taxation including deferred taxation 4. Other provisions
 
 H. TOTAL ASSETS LESS TOTAL LIABILITIES
-
-Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
 
 I. CAPITAL AND RESERVES
 
@@ -72,11 +68,7 @@ Outstanding for more than 30 days Outstanding for 30 days or less.
 
 (c) Other
 
-Amounts outstanding for more than 30 days
-
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
-
-Amounts outstanding for 30 days or less.
+Amounts outstanding for more than 30 days Amounts outstanding for 30 days or less.
 
 (3)  Investments (long positions)
 
@@ -92,13 +84,9 @@ Floating Rate Notes
 
 Other debt instruments:
 
-- marketable investments
+- marketable investments - not marketable investments
 
-- not marketable investments
-
-______ ______ ______ ______ ______
-
-______ ______ ______ ______ ______
+______ ______ ______ ______ ______ ______ ______ ______ ______ ______
 
 (ii) Shares (other than in group companies)
 
@@ -110,9 +98,9 @@ Units in authorised and recognised unit trust schemes Other
 
 (iv) Futures, options, contracts for differences
 
-Futures Purchased options Written options Contracts for differences
+Futures
 
-Financial Services 2019-26 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020 2020/033
+Purchased options Written options Contracts for differences
 
 (v) Shares in group companies
 
@@ -141,5 +129,3 @@ Any amount of share capital which has not been paid up shall be shown separately
 The following additional information shall be given, where relevant–
 
 (i) Whether any valuable security has been provided by the licensee in connection with a contingent liability or commitment (ii) The amounts which relate to undertakings on behalf of or for the benefit of group and connected companies.
-
-2019-26 Financial Services 2020/033 FINANCIAL SERVICES (FIDUCIARY SERVICES) REGULATIONS 2020
