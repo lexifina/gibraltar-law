@@ -6,7 +6,9 @@ LN.2020/007
 
 Commencement 15.1.2020
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2022/067 r. 16(3) 17.3.2022
 
 ARRANGEMENT OF REGULATIONS.
 
