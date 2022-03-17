@@ -1,5 +1,3 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 63(3), 64(3), 150(1), 620(1), 621(1) and 627 of, and para. 6 of Sch.10.
 
 Financial Services (Financial Conglomerates) Regulations 2020
@@ -12,9 +10,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2021/134 rr. 2, 3(6)-(12), (15), 4(2)-(3), 5(2)(b), (4)-(8), 6(4)- (6), (8), (10), (a), (11)(a)-(c), 7(2)-(3), (b), (4), 8(2), (4), (b), (5), 9(6)-(7), 10-11, 12(1), (a), (e)-(f), (2)- (9), 13, 15(1), (3)-(4), 16-17, 18(3), (b)-(c), (7)-(9), 21(2), 22(1)-(2), (3)(b), (4)-(6), (b), (7), 23-24, Sch.1-2
 
-1.1.2021 2021/493 r. 2 1.1.2022
-
-2019-26 Financial Services 2020/013 Financial Services (Financial Conglomerates) Regulations 2020
+1.1.2021 2021/493 r. 2 1.1.2022 2022/067 rr. 2, 5(2)(c), 21(2), 22(1), (6)(b)(ii), (7), Sch.1 17.3.2022
 
 ARRANGEMENT OF REGULATIONS
 
@@ -29,7 +25,5 @@ CAPITAL ADEQUACY
 SCHEDULE 2
 
 TECHNICAL APPLICATION OF THE PROVISIONS ON INTRA-GROUP TRANSACTIONS AND RISK CONCENTRATION
-
-Financial Services 2019-26 Financial Services (Financial Conglomerates) Regulations 2020 2020/013
 
 In exercise of the powers conferred upon the Minister under section 6(1), 63(3), 64(3), 150(1), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.

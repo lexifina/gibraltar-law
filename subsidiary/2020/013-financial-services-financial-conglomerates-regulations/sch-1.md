@@ -24,8 +24,6 @@ Where there are no capital ties between entities in a financial conglomerate, th
 
 Regardless of the method used for the calculation of the supplementary capital adequacy requirements of regulated entities in a financial conglomerate as laid down in Section II of this Schedule, the GFSC concerned, must ensure that the following principles will apply–
 
-2019-26 Financial Services 2020/013 Financial Services (Financial Conglomerates) Regulations 2020
-
 (i) the multiple use of elements eligible for the calculation of own funds at the level of the financial conglomerate (multiple gearing) as well as any inappropriate intra- group creation of own funds is not permissible; in order to ensure the elimination of multiple gearing and the intra-group creation of own funds, the GFSC must apply by analogy the relevant principles laid down in the relevant sectoral rules;
 
 (ii) the solvency requirements for each different financial sector represented in a financial conglomerate must be covered by own funds elements in accordance with the corresponding sectoral rules;
@@ -42,15 +40,13 @@ Method 1: Accounting consolidation method
 
 The calculation of the supplementary capital adequacy requirements of the regulated entities in a financial conglomerate must be carried out on the basis of the consolidated accounts.
 
-Financial Services 2019-26 Financial Services (Financial Conglomerates) Regulations 2020 2020/013
-
 The supplementary capital adequacy requirements must be calculated as the difference between-
 
 (i) the own funds of the financial conglomerate calculated on the basis of the consolidated position of the group; the elements eligible are those that qualify in accordance with the relevant sectoral rules; and
 
 (ii) the sum of the solvency requirements for each different financial sector represented in the group; the solvency requirements for each different financial sector are calculated in accordance with the corresponding sectoral rules.
 
-The sectoral rules referred to are in particular Directives 2000/12/EC, Title V, Chapter 3, as regards credit institutions, 98/78/EC as regards insurance undertakings, and 93/6/EEC as regards credit institutions and investment firm as those Directives applied in Gibraltar immediately before IP completion day.
+The sectoral rules referred to are, in particular, the law of Gibraltar that implemented Chapter 3 of Title V of Directive 2000/12/EC as regards credit institutions, Directive 98/78/EC as regards insurance undertakings, and Directive 93/6/EEC as regards credit institutions and investment firms.
 
 In the case of non-regulated financial sector entities which are not included in the aforementioned sectoral solvency requirement calculations, a notional solvency requirement must be calculated.
 
@@ -68,8 +64,6 @@ The calculation of the supplementary capital adequacy requirements of the regula
 
 - the book value of the participations in other entities of the group.
 
-2019-26 Financial Services 2020/013 Financial Services (Financial Conglomerates) Regulations 2020
-
 In the case of non-regulated financial sector entities, a notional solvency requirement must be calculated. Own funds and solvency requirements must be taken into account for their proportional share as provided for in regulation 6(9) and in accordance with Section I of this Schedule.
 
 The difference must not be negative.
@@ -77,5 +71,3 @@ The difference must not be negative.
 Method 3: “Combination Method”
 
 The GFSC may allow a combination of method 1 and method 2.
-
-Financial Services 2019-26 Financial Services (Financial Conglomerates) Regulations 2020 2020/013
