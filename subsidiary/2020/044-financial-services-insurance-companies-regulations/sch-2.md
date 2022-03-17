@@ -28,8 +28,6 @@ Appointment of liquidator.
 
 (5)  Where policyholders make an application under sub-paragraph (1)(b)–
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
-
 (a) the policyholders must serve a copy of the application on the GFSC; and
 
 (b) the GFSC is entitled to be heard on the application.
@@ -58,8 +56,6 @@ Continuation of long-term business.
 
 (2)  A liquidator may apply to the court for the appointment of a special manager for the long- term business.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
 (3)  The liquidator must serve on the GFSC a copy of any application made under sub- paragraph (2) and–
 
 (a) the application must not be heard until 14 days have elapsed from the date of service; and
@@ -79,5 +75,3 @@ and on any such report, the court may reduce the amount of those contracts.
 Penalties.
 
 8.  A liquidator who contravenes paragraph 5 or 7 commits an offence and is liable on summary conviction to a fine at level 3 on the standard scale.
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020

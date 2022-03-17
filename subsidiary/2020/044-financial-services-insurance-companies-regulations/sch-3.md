@@ -30,8 +30,6 @@ Interpretation.
 
 “UK-Swiss Agreement” means the Agreement between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation on Direct Insurance other than Life Insurance (CP 26), as amended from time to time (which, by virtue of Article 43 of the Agreement, extends to Gibraltar)
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
 Approval of principal Gibraltar executive.
 
 3.(1)  A Swiss general insurer must not appoint a person as its principal Gibraltar executive unless–
@@ -63,8 +61,6 @@ Approval of principal Gibraltar executive.
 (5)  The GFSC is not be obliged to disclose to the insurer or the candidate any particulars of the ground on which the GFSC is proposing to issue a notice of objection.
 
 (6)  The GFSC must consider any representations made in accordance with sub-paragraph (4)(b) in deciding whether to issue a notice of objection.
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 (7)  The GFSC must exchange information with the supervisory authority in Switzerland regarding the suitability of any person who is the principal Gibraltar executive of a Swiss general insurer where it is of relevance to that supervisory authority for the giving of permission or the ongoing assessment of compliance with operating conditions.
 
@@ -98,8 +94,6 @@ Duty to notify change of executive or representative.
 
 (ii) a corporation, has a place of business in Gibraltar and itself has an individual representative resident in Gibraltar who is authorised to act generally and to accept service of any document, on behalf of the corporation in its capacity as the insurer’s representative;
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
 (b) is not an auditor, or a partner or employee of an auditor, of the accounts of any business carried on by the insurer; and
 
 (c) is authorised to act generally, and to accept service of any document, on the insurer’s behalf.
@@ -119,5 +113,3 @@ Asset values.
 Grounds for exercise of powers of intervention.
 
 6.  Without limiting the exercise of any other powers, the GFSC’s powers of intervention under Parts 7 and 10 of the Act are exercisable in relation to a Swiss general insurer which has ceased to be authorised to effect contracts of insurance, or contracts of a particular description, in Switzerland.
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020

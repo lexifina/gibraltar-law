@@ -1,8 +1,6 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 24(3), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(7), 620(1), 621(1), 627 of, and paragraph 6 of Schedule 10.
 
-FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+Financial Services (Insurance Companies) Regulations 2020
 
 LN.2020/044
 
@@ -12,9 +10,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1), 4(1), 5(5), (8), 8, 11(1), (3), 14(8), 16(1)(a), (3)(b), (g), 18(2)(a), 21(3)(a)-(b), (4), 23-24, 26(1), 28(1), (4)-(5), 29(2)(d), (3), 31, 33(1)(c), (2)(b), 34(2)(b), (f), (j), (5), (a), 37(3), (10), 38(1), 39(7), 41, 44(3), 46(9), 47(2)(a), 51(1)-(6), 53, 57(1), (3), 58(1), (f), (2)(a), (b)(ii), (4)(b)-(c), (7), 59-61, 66(3)(d), 67(8), 69(1)(d), (2)(b)-(c), 71-72, 87(2), 94(1), 95(2)(c), (3)(b), (5)(c), 97(1), (3), 118(2), 119, 119A, 121(1), 122(5)-(6), (8), (11), 123(3), (5), 124(1), 127(6)-(8), 128-150, 151(1)(a), (2)(a), (g), 153, 155(6), 156, 157(1)-(2), 158(4), 159-160, 161(1)(a), 162, 163(4)-(5), 164, 168, 169(1)(b), (7), 172-178, 179(2)(c), (4), 186, 190(2), 191(1), 192(3)(a)-(d), (4)-(7), 193(2)-(4), 194-196, 197(4)- (5), 198(1)-(2), (4)-(5), 199(3), 200(4)-(5), (a)-(c), 201(5), (7), 204(1)-(2), 205(4), 206(2), (b), (3), 207(1)-(2), (4), 208, 210(1)-(7), (c), 211(1), (b), (2), 212(7), 213(1), 214-220, 221(1)-(3), (b), (5)-(6), 222(1)-(2), (4), (b), (6)-(7), 223(1), (5), (6)(a), (7)- (8), 224-232, 233(4), 236(1)-(4), 237-240, 241(1)- (2), 242, 243(1)-(2), 244(1)-(5), 245(1)-(2), 246(1)- (3), (5), 247, 248(1)-(5), (7), 249, 251(6), 255, 256(1), 257(1)-(2), 258, 259(1)-(2), 260-262, 263(1), 264(1)-(2), 265-267, 268(1)-(4), 269-273, 274(2)(b)- (d), 279, 281, Sch.2-4
 
-1.1.2021 2021/496 rr. 237(1), 240(2) 23.12.2021
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
+1.1.2021 2021/496 rr. 237(1), 240(2) 23.12.2021 2022/067 rr. 3(1), 61A(1), 275(2), Sch.1 17.3.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -46,11 +42,9 @@ Exclusions from scope: reinsurance
 
 PART 2 THRESHOLD CONDITIONS
 
-12. Introduction. 13. Permission required to carry on insurance or reinsurance activity. 14. Scope of permission. 15. Ancillary risks. 16. Additional conditions for permission. 17. Scheme of operations.
+12. Introduction. 13. Permission required to carry on insurance or reinsurance activity. 14. Scope of permission. 15. Ancillary risks.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
-18. Close links. 19. Policy conditions and scales of premiums. 20. Economic requirements of the market. 21. Shareholders and members with qualifying holdings. 22. Qualifying holdings: reporting of acquisitions and disposals. 23. Omitted. 24. Omitted.
+16. Additional conditions for permission. 17. Scheme of operations. 18. Close links. 19. Policy conditions and scales of premiums. 20. Economic requirements of the market. 21. Shareholders and members with qualifying holdings. 22. Qualifying holdings: reporting of acquisitions and disposals. 23. Omitted. 24. Omitted.
 
 PART 3 SUPERVISION
 
@@ -62,11 +56,9 @@ PART 4 CONDITIONS GOVERNING BUSINESS
 
 Corporate Governance
 
-42. Compliance obligation. 43. General governance requirements. 44. Fit and proper persons and proof of good repute. 45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit.
+42. Compliance obligation. 43. General governance requirements. 44. Fit and proper persons and proof of good repute.
 
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
-
-49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities.
+45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities.
 
 Public disclosure
 
@@ -90,11 +82,7 @@ PART 5 PURSUIT OF LIFE AND NON-LIFE ACTIVITY
 
 PART 6 VALUATION OF ASSETS AND LIABILITIES, TECHNICAL PROVISIONS, OWN FUNDS, SOLVENCY CAPITAL REQUIREMENT, MINIMUM CAPITAL REQUIREMENT AND INVESTMENT RULES
 
-CHAPTER 1
-
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
-VALUATION OF ASSETS AND LIABILITIES AND RULES RELATING TO TECHNICAL PROVISIONS
+CHAPTER 1 VALUATION OF ASSETS AND LIABILITIES AND RULES RELATING TO TECHNICAL PROVISIONS
 
 Valuation of assets and liabilities
 
@@ -106,11 +94,11 @@ Technical provisions
 
 CHAPTER 2 OWN FUNDS
 
-81. Determination of own funds. 82. Basic own funds. 83. Ancillary own funds. 84. Supervisory approval of ancillary own funds. 85. Characteristics and features used to classify own funds into tiers. 86. Main criteria for classification into tiers. 87. Classification of own funds into tiers. 88. Classification of specific insurance own fund items. 89. Eligibility and limits applicable to Tiers 1, 2 and 3.
+81. Determination of own funds. 82. Basic own funds. 83. Ancillary own funds. 84. Supervisory approval of ancillary own funds. 85. Characteristics and features used to classify own funds into tiers.
+
+86. Main criteria for classification into tiers. 87. Classification of own funds into tiers. 88. Classification of specific insurance own fund items. 89. Eligibility and limits applicable to Tiers 1, 2 and 3.
 
 CHAPTER 3 SOLVENCY CAPITAL REQUIREMENT
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 90. General provisions. 91. Calculation of Solvency Capital Requirement. 92. Frequency of calculation.
 
@@ -122,17 +110,15 @@ Internal models
 
 101. General provisions for approval of full and partial internal models. 102. Specific provisions for approval of partial internal models. 103. Policy for changing full and partial internal models. 104. Responsibilities of administrative, management or supervisory bodies. 105. Reversion to standard formula 106. Non-compliance of internal model. 107. Significant deviations from assumptions underlying standard formula calculation. 108. Use test. 109. Statistical quality standards. 110. Calibration standards. 111. Profit and loss attribution. 112. Validation standards. 113. Documentation standards. 114. External models and data.
 
-CHAPTER 4 MINIMUM CAPITAL REQUIREMENT
+CHAPTER 4
+
+MINIMUM CAPITAL REQUIREMENT
 
 115. General provisions. 116. Calculation of Minimum Capital Requirement.
 
 CHAPTER 5 INVESTMENTS
 
-117. Prudent person principle. 118. Freedom of investment.
-
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
-119. Localisation of assets and prohibition of pledging of assets. 119A. Saving for Covered Agreement.
+117. Prudent person principle. 118. Freedom of investment. 119. Localisation of assets and prohibition of pledging of assets. 119A. Saving for Covered Agreement.
 
 PART 7 INSURANCE AND REINSURANCE UNDERTAKINGS IN DIFFICULTY
 
@@ -148,15 +134,15 @@ PART 8 Omitted
 
 PART 9 BRANCHES OF THIRD-COUNTRY INSURERS AND REINSURERS
 
-151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions. 155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
+151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions. 155. Solvency Capital Requirement and Minimum Capital Requirement.
+
+156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
 
 Re-insurance
 
 160. Equivalence in relation to reinsurance undertakings. 161. Prohibition on pledging of assets or more favourable treatment.
 
 Subsidiaries of insurance and reinsurance undertakings governed by the laws of a third country and acquisitions of holdings by such undertakings
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 162. Omitted.
 
@@ -194,11 +180,7 @@ Community co-insurance
 
 Legal expenses insurance
 
-179. Legal expenses insurance. 180. Separate contracts.
-
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
-181. Management of claims. 182. Freedom to choose lawyer. 183. Exception to free choice of lawyer. 184. Arbitration. 185. Conflict of interest. 186. Omitted.
+179. Legal expenses insurance. 180. Separate contracts. 181. Management of claims. 182. Freedom to choose lawyer. 183. Exception to free choice of lawyer. 184. Arbitration. 185. Conflict of interest. 186. Omitted.
 
 Provisions specific to life insurance
 
@@ -220,11 +202,7 @@ Levels
 
 Group solvency
 
-197. Supervision of group solvency. 198. Frequency of calculations. 199. Choice of calculation method. 200. Inclusion of proportional share. 201. Elimination of double use of eligible own funds. 202. Elimination of intra-group creation of capital. 203. Valuation. 204. Related insurance and reinsurance undertakings. 205. Intermediate insurance holding companies. 206. Equivalence concerning related third-country insurance and reinsurance undertakings. 207. Related credit institutions, investment firms and financial institutions.
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
-
-208. Non-availability of necessary information. 209. Method 1 (default method): the accounting consolidation-based method. 210. Group internal model. 211. Group capital add-on. 212. Method 2 (alternative method): the deduction and aggregation method. 213. Group solvency of an insurance holding company or mixed financial holding company.
+197. Supervision of group solvency. 198. Frequency of calculations. 199. Choice of calculation method. 200. Inclusion of proportional share. 201. Elimination of double use of eligible own funds. 202. Elimination of intra-group creation of capital. 203. Valuation. 204. Related insurance and reinsurance undertakings. 205. Intermediate insurance holding companies. 206. Equivalence concerning related third-country insurance and reinsurance undertakings. 207. Related credit institutions, investment firms and financial institutions. 208. Non-availability of necessary information. 209. Method 1 (default method): the accounting consolidation-based method. 210. Group internal model. 211. Group capital add-on. 212. Method 2 (alternative method): the deduction and aggregation method. 213. Group solvency of an insurance holding company or mixed financial holding company.
 
 Groups with centralised risk management
 
@@ -240,7 +218,9 @@ Risk management and internal control
 
 Measures to facilitate group supervision
 
-224. Group supervisor. 225. Functions of group supervisor and other supervisors. 226. to 232. Omitted. 233. Group solvency and financial condition report. 234. Group structure. 235. Administrative, management or supervisory body of insurance holding companies and mixed financial holding companies. 236. Enforcement measures.
+224. Group supervisor. 225. Functions of group supervisor and other supervisors. 226. to 232. Omitted.
+
+233. Group solvency and financial condition report. 234. Group structure. 235. Administrative, management or supervisory body of insurance holding companies and mixed financial holding companies. 236. Enforcement measures.
 
 Third countries
 
@@ -250,11 +230,7 @@ Mixed-activity insurance holding companies
 
 241. Intra-group transactions.
 
-PART 12
-
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
-REORGANISATION AND WINDING-UP OF INSURANCE UNDERTAKINGS
+PART 12 REORGANISATION AND WINDING-UP OF INSURANCE UNDERTAKINGS
 
 Preliminary
 
@@ -266,15 +242,15 @@ Reorganisation measures
 
 Winding-up proceedings
 
-248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register. 252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets. 254. Cancellation of permission. 255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
+248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register. 252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets. 254. Cancellation of permission.
+
+255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
 
 Common provisions
 
 260. to 262. Omitted. 263. Set-off. 264. Regulated markets. 265. to 267. Omitted. 268. Administrators and liquidators. 269. to 271. Omitted. 272. Professional secrecy. 273. Omitted.
 
 PART 13 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 282. Liquidation: supplementary provisions. 283. Swiss general insurers. 284. Revocations.
 
@@ -285,7 +261,5 @@ SCHEDULE 2 LIQUIDATION OF GIBRALTAR INSURERS AND REINSURERS
 SCHEDULE 3 SWISS GENERAL INSURERS
 
 SCHEDULE 4 SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA
-
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 In exercise of the powers conferred on the Minister by sections 6(1), 24(3), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(7), 620(1), 621(1), 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and of all other enabling powers, the Minister and the Government have made these Regulations.

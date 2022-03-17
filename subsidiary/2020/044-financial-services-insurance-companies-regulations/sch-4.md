@@ -28,11 +28,9 @@ SCRdefault denotes the counterparty default risk module.
 
 (3)  The factor Corri,j denotes the item set out in row i and column j of the following correlation matrix–
 
-i\j Market Default Life Health Non-life Market 1 0.25 0.25 0.25 0.25 Default 0.25 1 0.25 0.25 0.5
+i\j Market Default Life Health Non-life Market 1 0.25 0.25 0.25 0.25
 
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
-
-Life 0.25 0.25 1 0.25 0 Health 0.25 0.25 0.25 1 0 Non-life 0.25 0.5 0 0 1
+Default 0.25 1 0.25 0.25 0.5 Life 0.25 0.25 1 0.25 0 Health 0.25 0.25 0.25 1 0 Non-life 0.25 0.5 0 0 1
 
 Calculation of the non-life underwriting risk module.
 
@@ -54,13 +52,9 @@ SCRnl catastrophe denotes the non-life catastrophe risk sub-module.
 
 Calculation of the life underwriting risk module.
 
-3.(1)  The life underwriting risk module set out in regulation 95(3) must be equal to the following–
-
-where–
+3.(1)  The life underwriting risk module set out in regulation 95(3) must be equal to the following– where–
 
 SCRi denotes the sub-module i;
-
-2019-26 Financial Services 2020/044 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020
 
 SCRj denotes the sub-module j; and
 
@@ -97,8 +91,6 @@ SCRj denotes the sub-module j; and
 ‘i,j’ means that the sum of the different terms should cover all possible combinations of i and j.
 
 (2)  In the calculation, SCRi and SCRj are replaced by the following–
-
-Financial Services 2019-26 FINANCIAL SERVICES (INSURANCE COMPANIES) REGULATIONS 2020 2020/044
 
 SCR interest rate denotes the interest rate risk sub-module;
 
