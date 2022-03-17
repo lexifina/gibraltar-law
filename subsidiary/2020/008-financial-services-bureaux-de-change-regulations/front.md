@@ -6,9 +6,7 @@ LN.2020/008
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2022/188 Sch. 1.1.2021
+Amending enactments Relevant current provisions Commencement date LN. 2022/188 Sch. 1.1.2021 2022/067 rr. 2(1), (3), 49(2) 17.3.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -34,9 +32,9 @@ Customer relations
 
 Administration
 
-18. Complaints. 19. Compliance. 20. Supervision.
+18. Complaints. 19. Compliance.
 
-21. Cessation of business.
+20. Supervision. 21. Cessation of business.
 
 PART 3 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
@@ -80,4 +78,6 @@ Part 1 General Rules
 
 Part 2 Accounting Principles and Rules
 
-Appendix 1 Balance Sheet Format In exercise of the powers conferred upon the Minister under sections 6(1), 24(3)(v), 44(4), 61(1), 63(3), 64(3), 150(1), 164(1),166(2), 620(1), 621(1) and 627 of the Financial Services Act 2019, the Minister has made the following Regulations.
+Appendix 1 Balance Sheet Format
+
+In exercise of the powers conferred upon the Minister under sections 6(1), 24(3)(v), 44(4), 61(1), 63(3), 64(3), 150(1), 164(1),166(2), 620(1), 621(1) and 627 of the Financial Services Act 2019, the Minister has made the following Regulations.
