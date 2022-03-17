@@ -38,7 +38,9 @@ H. TOTAL ASSETS LESS TOTAL LIABILITIES
 
 I. CAPITAL AND RESERVES
 
-1. Called up share capital (7) 2. Share premium account 3. Partners’ or proprietors’ capital accounts 4. Partners’ or proprietors’ current accounts 5. Revaluation reserve 6. Other reserves 7. Profit and loss account
+1. Called up share capital (7) 2. Share premium account 3. Partners’ or proprietors’ capital accounts
+
+4. Partners’ or proprietors’ current accounts 5. Revaluation reserve 6. Other reserves 7. Profit and loss account
 
 Approved by the directors/partners/governing body on _________________________________
 
@@ -92,7 +94,9 @@ ____ ____ ____ ____ ____ ____ ____
 
 (4)  Trade Creditors
 
-(a) Amounts due to be paid against delivery of securities (b) Amounts due to be paid in respect of securities transactions otherwise than against delivery of securities. (c) Others
+(a) Amounts due to be paid against delivery of securities
+
+(b) Amounts due to be paid in respect of securities transactions otherwise than against delivery of securities. (c) Others
 
 (5)  Investments (short positions)
 

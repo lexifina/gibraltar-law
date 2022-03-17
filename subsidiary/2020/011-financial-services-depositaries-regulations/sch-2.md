@@ -2,7 +2,9 @@ APPENDIX 2. PROFIT AND LOSS ACCOUNT FORMAT
 
 A. DEALING
 
-Gains/losses on principal dealings (trading) 1. equities 2. debt instruments 3. futures, options and contracts for differences 4. units in collective investment schemes 5. foreign exchange 6. other - specify
+Gains/losses on principal dealings (trading)
+
+1. equities 2. debt instruments 3. futures, options and contracts for differences 4. units in collective investment schemes 5. foreign exchange 6. other - specify
 
 B. REVENUE
 

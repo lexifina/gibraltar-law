@@ -8,9 +8,7 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/486 rr. 2(1), (3), 23(1), (3)-(4), 32, 35(1)-(3), 36, 39, Sch.
-
-1.1.2021 2022/188 Sch. 1.1.2021
+LN.2020/486 rr. 2(1), (3), 23(1), (3)-(4), 32, 35(1)-(3), 36, 39, Sch. 1.1.2021 2022/188 Sch. 1.1.2021 2022/067 r. 60(2) 17.3.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -56,9 +54,9 @@ PART 5 PRUDENTIAL REQUIREMENTS
 
 Financial statements
 
-40. Duty to prepare annual financial statements. 41. Balance sheet to give true and fair view. 42. Profit and loss account to give true and fair view. 43. Form and content of financial statements.
+40. Duty to prepare annual financial statements. 41. Balance sheet to give true and fair view. 42. Profit and loss account to give true and fair view. 43. Form and content of financial statements. 44. Annual financial statements to be submitted to meeting of partners, etc.
 
-44. Annual financial statements to be submitted to meeting of partners, etc. 45. Annual financial statements must be submitted to GFSC. 46. Depositary must obtain auditor’s report, etc. 47. Contents of auditor’s report. 48. Qualified reports.
+45. Annual financial statements must be submitted to GFSC. 46. Depositary must obtain auditor’s report, etc. 47. Contents of auditor’s report. 48. Qualified reports.
 
 PART 6 REPORTING AND NOTIFICATION
 
@@ -84,7 +82,9 @@ PART 8 MISCELLANEOUS
 
 61. The Register: depositaries.
 
-SCHEDULE FORM AND CONTENT OF FINANCIAL STATEMENTS
+SCHEDULE
+
+FORM AND CONTENT OF FINANCIAL STATEMENTS
 
 Part 1 – General Rules
 
