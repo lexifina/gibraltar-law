@@ -1,8 +1,6 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.150, 620, 621 & 627.
 
-FINANCIAL SERVICES (INSTITUTIONAL INVESTORS, ASSET MANAGERS AND PROXY ADVISORS) REGULATIONS 2020
+Financial Services (Institutional Investors, Asset Managers and Proxy Advisors) Regulations 2020
 
 LN.2020/277
 
@@ -10,9 +8,7 @@ Commencement 6.8.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2021/092 rr. 2, 3(c), 4(9), 5(5), 6(3) 1.1.2021
-
-2019-26 Financial Services 2020/277 Financial Services (Institutional Investors, Asset Managers and Proxy Advisors) Regulations 2020
+LN.2021/092 rr. 2, 3(c), 4(9), 5(5), 6(3) 1.1.2021 2022/067 rr. 2, 12(2) 17.3.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -29,7 +25,5 @@ PART 2 TRANSPARENCY OF INSTITUTIONAL INVESTORS, ASSET MANAGERS AND PROXY ADVISOR
 PART 3 CONTRAVENTIONS AND OFFENCES
 
 11. Sanctioning powers. 12. Maximum amounts of administrative penalty. 13. Contraventions by proxy advisors. 14. Providing misleading information.
-
-Financial Services 2019-26 Financial Services (Institutional Investors, Asset Managers and Proxy Advisors) Regulations 2020 2020/277
 
 In exercise of the powers conferred on the Minister by sections 150, 620, 621 and 627 of the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act, the Minister and the Government have made the following Regulations.
