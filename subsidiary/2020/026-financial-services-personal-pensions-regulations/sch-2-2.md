@@ -38,8 +38,6 @@ The services the pension adviser will provide.
 
 Details of any payment for services payable by the retail client to the pension adviser, including where appropriate−
 
-Financial Services 2019-26 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020 2020/026
-
 (a) the basis of calculation;
 
 (b) how it is to be paid and collected;
@@ -75,8 +73,6 @@ The relevant risk warning when a pension adviser chooses to fulfil any of its ob
 (c) penny shares;
 
 (d) securities which may be subject to stabilisation;
-
-2019-26 Financial Services 2020/026 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020
 
 € stock lending activity.
 

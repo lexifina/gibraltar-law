@@ -22,8 +22,6 @@ PART 1. GENERAL RULES.
 
 6.  In the case of a pension scheme firm which is a sole proprietor, the items to be included in the pension scheme firm’s financial statements prepared in accordance with these Regulations must be those which arise in the course of the pension scheme business or pension advice business, as the case may be, of that pension scheme firm.
 
-2019-26 Financial Services 2020/026 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020
-
 PART 2. ACCOUNTING PRINCIPLES AND RULES.
 
 7.(1)  The amounts to be included in respect of all items shown in the annual financial statements of a pension scheme firm must be determined in accordance with the Companies Act 2014 and either Gibraltar Financial Reporting Standards or UK-adopted international accounting standards within the meaning of section 237(1) of the Companies Act 2014.

@@ -1,8 +1,6 @@
-2019-26 Financial Services
+Subsidiary Legislation made under ss.6(1), 24(3)(v), 44(4), 61(1), 63(3), 64(3), 150(1), 164(1), 166 (2), 610(1), 620(1), 621(1) and 627.
 
-Subsidiary Legislation made under ss.6(1), 24(3)(v), 44(4), 61(1), 63(3), 64(3), 150(1), 164(1), 166 (2),  610(1), 620(1), 621(1) and 627.
-
-FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020
+Financial Services (Personal Pensions) Regulations 2020
 
 LN.2020/026
 
@@ -10,11 +8,7 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/499 rr. 2(1), 79(1), (3), 87(1)(a), (e), (2)-(3), 93(2), Sch.1
-
-1.1.2021 2022/188 Sch.1 1.1.2021
-
-2019-26 Financial Services 2020/026 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020
+LN.2020/499 rr. 2(1), 79(1), (3), 87(1)(a), (e), (2)-(3), 93(2), Sch.1 1.1.2021 2022/188 Sch.1 1.1.2021 2022/067 r. 125(2) 17.3.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -46,8 +40,6 @@ PART 3 CONDUCT OF BUSINESS
 
 Chapter 1 Conduct of business generally
 
-Financial Services 2019-26 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020 2020/026
-
 10. Chapter applies to pension scheme firms. 11. Complaints. Outsourcing
 
 12. Outsourcing by pension scheme firms.
@@ -74,9 +66,9 @@ Advertisements
 
 Ethical standards
 
-28. Money laundering prevention. 29. Conflict of interest. 30. Disclosure of interest. 31. Inducements prohibited.
+28. Money laundering prevention. 29. Conflict of interest.
 
-2019-26 Financial Services 2020/026 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020
+30. Disclosure of interest. 31. Inducements prohibited.
 
 Chapter 3 Pension adviser: conduct of business
 
@@ -101,8 +93,6 @@ Dealing with customers
 PART 4 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
 Chapter 1 Pension scheme operator: internal organisation
-
-Financial Services 2019-26 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020 2020/026
 
 52. Chapter applies to pension scheme operators.
 
@@ -130,11 +120,11 @@ Introductions
 
 69. Restrictions on introduction arrangements.
 
-Chapter 3 Cessation of business by pension scheme firms
+Chapter 3
+
+Cessation of business by pension scheme firms
 
 70. Chapter applies to pension scheme firms
-
-2019-26 Financial Services 2020/026 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020
 
 Cessation of business by pension scheme operator
 
@@ -170,8 +160,6 @@ Customer assets
 
 Customer money
 
-Financial Services 2019-26 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020 2020/026
-
 84. Customer money 85. Customer money must be deposited in customer bank account. 86. Customers money is held on trust. 87. Requirements for customer bank account. 88. Payment of other money into customer bank account. 89. Restriction on use of customer bank account. 90. Withdrawals from customer bank account. 91. Restrictions on withdrawal from customer bank account. 92. Accounting for customer money. 93. Interest on customer money.
 
 Chapter 3 Requirements for pension advisers only
@@ -186,13 +174,11 @@ Accounting records
 
 Financial statements
 
-102. Duty to prepare financial statements. 103. Balance sheet to give true and fair view. 104. Profit and loss account to give true and fair view. 105. Form and content of financial statements. 106. Annual financial statements to be submitted to meeting of partners, etc. 107. Additional requirement in case of sole proprietor. 108. Annual financial statements must be submitted to GFSC. 109. Pension scheme firm must obtain auditor’s report. 110. Contents of auditor’s report. 111. Qualified reports.
+102. Duty to prepare financial statements. 103. Balance sheet to give true and fair view. 104. Profit and loss account to give true and fair view. 105. Form and content of financial statements. 106. Annual financial statements to be submitted to meeting of partners, etc. 107. Additional requirement in case of sole proprietor.
 
-Chapter 5
+108. Annual financial statements must be submitted to GFSC. 109. Pension scheme firm must obtain auditor’s report. 110. Contents of auditor’s report. 111. Qualified reports.
 
-2019-26 Financial Services 2020/026 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020
-
-Appointment of auditors
+Chapter 5 Appointment of auditors
 
 112. Auditor required. 113. Qualification for appointment as auditor. 114. Ineligibility on ground of lack of independence. 115. Engagement letters. 116. Auditor to notify GFSC of certain matters. 117. Report on financial statements 118. Resignation or removal of auditors.
 
@@ -214,12 +200,6 @@ PART 8 MISCELLANEOUS
 
 SCHEDULE 1 FORM AND CONTENT OF FINANCIAL STATEMENTS
 
-SCHEDULE 2
-
-Financial Services 2019-26 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020 2020/026
-
-CONTENT OF AGREEMENT
-
-2019-26 Financial Services 2020/026 FINANCIAL SERVICES (PERSONAL PENSIONS) REGULATIONS 2020
+SCHEDULE 2 CONTENT OF AGREEMENT
 
 In exercise of the powers conferred upon the Minister under sections 6(1), 24(3)(v), 44(4), 61(1), 63(3), 64(3), 150(1), 164(1), 166 (2),  610(1), 620(1), 621(1) and 627 of the Financial Services Act 2019, the Minister has made the following Regulations.
