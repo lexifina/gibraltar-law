@@ -1,8 +1,6 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 44(4), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10.
 
-FINANCIAL SERVICES (DATA REPORTING SERVICES PROVIDERS) REGULATIONS 2020
+Financial Services (Data Reporting Services Providers) Regulations 2020
 
 LN.2020/038
 
@@ -12,9 +10,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/487 rr. 5(2), (5), 7(4), 8(4), 9(7), 10(6), (9), 11(5), 12(1), 13, 15(1), 19(2), 20(9)-(10), 21(1), 23
 
-1.1.2021
-
-2019-26 Financial Services 2020/038 FINANCIAL SERVICES (DATA REPORTING SERVICES PROVIDERS) REGULATIONS 2020
+1.1.2021 2022/067 rr. 16(1), 19(2) 17.3.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -48,11 +44,9 @@ Conditions for ARM providers
 
 PART 4 REPORTING AND NOTIFICATION
 
-12. Relations with auditors. 13. Omitted.
+12. Relations with auditors.
 
-Financial Services 2019-26 FINANCIAL SERVICES (DATA REPORTING SERVICES PROVIDERS) REGULATIONS 2020 2020/038
-
-14. GFSC Co-Operation and exchange of information.
+13. Omitted. 14. GFSC Co-Operation and exchange of information.
 
 Reporting notifications of the GFSC
 
@@ -70,4 +64,6 @@ Chapter 2 Sanctions
 
 PART 6 MISCELLANEOUS
 
-22. Register of data reporting services providers. 23. Application of MiFIR. In exercise of the powers conferred upon the Minister under section 6(1), 44(4), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
+22. Register of data reporting services providers. 23. Application of MiFIR.
+
+In exercise of the powers conferred upon the Minister under section 6(1), 44(4), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
