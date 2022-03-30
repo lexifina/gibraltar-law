@@ -1,4 +1,4 @@
-SCHEDULE CONTENTS OF OFFER DOCUMENT
+SCHEDULE 1 CONTENTS OF OFFER DOCUMENT
 
 1.  For the purposes of regulation 17(2), the information and statements which are to be contained in the offer document of an experienced investor fund are those specified in paragraphs 2 to 27.
 
@@ -25,8 +25,6 @@ SCHEDULE CONTENTS OF OFFER DOCUMENT
 (ii) any investment adviser;
 
 (iii) any secretary;
-
-2019-26 Financial Services 2020/039 FINANCIAL SERVICES (EXPERIENCED INVESTOR FUNDS) REGULATIONS 2020
 
 (f)  the auditor of the experienced investor fund; and
 
@@ -59,8 +57,6 @@ SCHEDULE CONTENTS OF OFFER DOCUMENT
 17.  The basis upon which the value of the experienced investor fund is to be calculated and the basis upon which the value of units in the experienced investor fund is to be determined.
 
 18.  The manner in which errors in valuation likely to have a material effect on participants will be dealt with and notified to the participants.
-
-Financial Services 2019-26 FINANCIAL SERVICES (EXPERIENCED INVESTOR FUNDS) REGULATIONS 2020 2020/039
 
 19.  The manner in which units in the experienced investor fund are to be created, issued and paid for, cancelled and redeemed.
 
