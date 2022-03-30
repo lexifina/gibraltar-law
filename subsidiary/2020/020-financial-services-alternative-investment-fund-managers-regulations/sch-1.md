@@ -12,8 +12,6 @@ PART 1
 
 (a) Administration–
 
-Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
-
 (i) legal and fund management accounting services;
 
 (ii) customer inquiries;
@@ -23,6 +21,8 @@ Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAG
 (iv) regulatory compliance monitoring;
 
 (v) maintenance of unit-/shareholder register;
+
+2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
 
 (vi) distribution of income;
 
@@ -42,11 +42,11 @@ PART 2 REMUNERATION POLICY
 
 (a) the remuneration policy is consistent with and promotes sound and effective risk management and does not encourage risk- taking which is inconsistent with the risk profiles, rules or instruments of incorporation of the AIFs they manage;
 
-2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
-
 (b) the remuneration policy is in line with the business strategy, objectives, values and interests of the AIFM and the AIFs it manages or the investors of such AIFs, and includes measures to avoid conflicts of interest;
 
 (c) the management body of the AIFM, in its supervisory function, adopts and periodically reviews the general principles of the remuneration policy and is responsible for its implementation;
+
+Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
 
 (d) the implementation of the remuneration policy is, at least annually, subject to central and independent internal review for compliance with policies and procedures for remuneration adopted by the management body in its supervisory function;
 
@@ -60,15 +60,13 @@ PART 2 REMUNERATION POLICY
 
 (i) guaranteed variable remuneration is exceptional, occurs only in the context of hiring new staff and is limited to the first year;
 
-(j) fixed and variable components of total remuneration are appropriately balanced and the fixed component represents a sufficiently high proportion of the total remuneration to allow the operation of a fully flexible policy, on variable
-
-Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
-
-remuneration components, including the possibility to pay no variable remuneration component;
+(j) fixed and variable components of total remuneration are appropriately balanced and the fixed component represents a sufficiently high proportion of the total remuneration to allow the operation of a fully flexible policy, on variable remuneration components, including the possibility to pay no variable remuneration component;
 
 (k) payments related to the early termination of a contract reflect performance achieved over time and are designed in a way that does not reward failure;
 
 (l) the measurement of performance used to calculate variable remuneration components or pools of variable remuneration components includes a comprehensive adjustment mechanism to integrate all relevant types of current and future risks;
+
+2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
 
 (m) subject to the legal structure of the AIF and its rules or instruments of incorporation, a substantial portion, and in any event at least 50% of any variable remuneration consists of units or shares of the AIF concerned, or equivalent ownership interests, or share-linked instruments or equivalent non-cash instruments, unless the management of AIFs accounts for less than 50% of the total portfolio managed by the AIFM, in which case the minimum of 50% does not apply.
 
@@ -78,15 +76,13 @@ The instruments referred to in this point shall be subject to an appropriate ret
 
 The period referred to in this point shall be at least three to five years unless the life cycle of the AIF concerned is shorter; remuneration payable under deferral arrangements vests no faster than on a pro-rata basis; in the case of a variable remuneration component of a particularly high amount, at least 60% of the amount is deferred;
 
-(o) the variable remuneration, including the deferred portion, is paid or vests only if it is sustainable according to the financial situation of the AIFM as a whole, and
-
-2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
-
-justified according to the performance of the business unit, the AIF and the individual concerned.
+(o) the variable remuneration, including the deferred portion, is paid or vests only if it is sustainable according to the financial situation of the AIFM as a whole, and justified according to the performance of the business unit, the AIF and the individual concerned.
 
 The total variable remuneration shall generally be considerably contracted where subdued or negative financial performance of the AIFM or of the AIF concerned occurs, taking into account both current compensation and reductions in payouts of amounts previously earned, including through malus or clawback arrangements;
 
 (p) the pension policy is in line with the business strategy, objectives, values and long- term interests of the AIFM and the AIFs it manages.
+
+Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
 
 If the employee leaves the AIFM before retirement, discretionary pension benefits shall be held by the AIFM for a period of five years in the form of instruments defined in point (m). In the case of an employee reaching retirement, discretionary pension benefits shall be paid to the employee in the form of instruments defined in point (m), subject to a five year retention period;
 
@@ -98,8 +94,4 @@ If the employee leaves the AIFM before retirement, discretionary pension benefit
 
 3. AIFMs that are significant in terms of their size or the size of the AIFs they manage, their internal organisation and the nature, the scope and the complexity of their activities shall establish a remuneration committee. The remuneration committee shall be constituted in a way that enables it to exercise competent and independent judgment on remuneration policies and practices and the incentives created for managing risk.
 
-The remuneration committee shall be responsible for the preparation of decisions regarding remuneration, including those which have implications for the risk and risk management of the AIFM or the AIF concerned and which are to be taken by the management body in its
-
-Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
-
-supervisory function. The remuneration committee shall be chaired by a member of the management body who does not perform any executive functions in the AIFM concerned. The members of the remuneration committee shall be members of the management body who do not perform any executive functions in the AIFM concerned.
+The remuneration committee shall be responsible for the preparation of decisions regarding remuneration, including those which have implications for the risk and risk management of the AIFM or the AIF concerned and which are to be taken by the management body in its supervisory function. The remuneration committee shall be chaired by a member of the management body who does not perform any executive functions in the AIFM concerned. The members of the remuneration committee shall be members of the management body who do not perform any executive functions in the AIFM concerned.

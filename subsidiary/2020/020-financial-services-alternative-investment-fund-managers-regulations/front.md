@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/483 rr. 2(1)-(2), 4(1), (3), (5), 5(1), 6(1)(b)(i)-(ii), (c), 8(4)-(5), 9, 10(1), (3), (5), 12(4), (6), (7)(a)-(b), (8), 13(1)(b), (3)(a), (5), 14(2)-(3), (8), 15(5), (6)(a)-(b), (7), (9), 19, 20(1), 21(1), 22(1), 35(3), 36(1), (4)(a)- (b), (8)-(9), 37(1), (6)-(9), 38(1), (3), (5)-(6), 39(1)- (2), 40(2), 41(8), 42(8), 43(4), 44, 45(2), 46(16), 47(10), 48(3)(a)-(c), (4), (9)(a)-(c), (10)(a)-(b), (d), (11)-(12), (13)(c), (15)(a)(iii), (29)-(30), 50(3), (4)(a), (7)-(10), 51(2)-(3), (4)(b), (5)-(9), 52(2)(a), 56(3)(c), 57-59, 60(1)-(2), 61, 62(1)-(4), 63(1)-(15), (16)(a)-(g), (17)-(18), (19)(a)(i)-(iii), (b), (20)-(39), 64-67, 68(1), (a)-(c), (2)-(5), 69(1)(b), (5), (7), (9)- (10), 77(1)-(2), 78(2)-(3), 79(1)-(2), 81(1)-(2), (3)(a)-(b), (4)-(10), 82-90, Sch.
 
-1.1.2021 2021/493 rr. 12(4), 15(5) 1.1.2022
+1.1.2021 2021/493 rr. 12(4), 15(5) 1.1.2022 2022/080 rr. 4(1), 8A-8B 30.3.2022
 
 2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
 
@@ -26,7 +26,7 @@ PART 1 PRELIMINARY
 
 Exemptions
 
-6. Exemption for holding companies and public service entities. 7. Exemption for self-investment AIFMs. 8. Exemption for small AIFMs.
+6. Exemption for holding companies and public service entities. 7. Exemption for self-investment AIFMs. 8. Exemption for small AIFMs. 8A. Exempt internally managed EIFs. 8B. Exempt EIFs.
 
 Principal duties of AIFMs and AIFs
 
@@ -40,9 +40,9 @@ PART 3 SMALL AIFMs AND SMALL SCHEME MANAGERS
 
 CHAPTER 1 SMALL AIFMs
 
-General
-
 Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
+
+General
 
 17. Interpretation. 18. Small AIFMs.
 
@@ -68,11 +68,9 @@ Information for potential investors
 
 PART 4 CONDUCT OF BUSINESS
 
-35. General principles.
-
 2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
 
-36. Annual report. 37. Disclosure to investors.
+35. General principles. 36. Annual report. 37. Disclosure to investors.
 
 Marketing to retail investors
 
@@ -102,9 +100,9 @@ Reporting and notification
 
 PART 6 SPECIAL CASE AIFMS
 
-AIFMs managing leveraged AIFs
-
 Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
+
+AIFMs managing leveraged AIFs
 
 51. Use of information by the GFSC and limits to leverage.
 
@@ -124,9 +122,9 @@ CHAPTER 2
 
 PART 8 REGULATORY POWERS
 
-CHAPTER 1 INVESTIGATORY AND SUPERVISORY POWERS
-
 2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
+
+CHAPTER 1 INVESTIGATORY AND SUPERVISORY POWERS
 
 69. Powers of GFSC. 70. Directions. 71. Investigations. 72. Protection order.
 
@@ -150,10 +148,8 @@ Information
 
 Final provisions
 
-89. Omitted.
-
 Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
 
-90. Omitted.
+89. Omitted. 90. Omitted.
 
 SCHEDULE TEXTS OF ANNEXES TO AIFM DIRECTIVE In exercise of the powers conferred upon the Minister under sections 6(1), 24(3), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 130, 164(2), 150(1), 620(1), 621(1), 627 and paragraph 6 of Schedule 10 of the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
