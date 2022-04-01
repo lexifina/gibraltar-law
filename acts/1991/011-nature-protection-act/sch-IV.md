@@ -18,10 +18,6 @@ INSECTIVORA
 
 Erinaceidae
 
-Nature Protection
-
-1991-11
-
 Erinaceus algirus
 
 Soricidae
@@ -84,10 +80,6 @@ Microtus tatricus
 
 Zapodidae
 
-Nature Protection
-
-1991-11
-
 Sicista betulina
 
 Sicista subtilis
@@ -139,10 +131,6 @@ Capra aegagrus (natural populations)
 Capra pyrenaica pyrenaica Ovis gmelini musimon (Ovis ammon musimon) (natural populations — Corsica and Sardinia)
 
 Ovis orientalis ophion (Ovis gmelini ophion)
-
-Nature Protection
-
-1991-11
 
 Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata)
 
@@ -215,10 +203,6 @@ Gallotia stehlini
 Lacerta agilis
 
 Lacerta bedriagae
-
-Nature Protection
-
-1991-11
 
 Lacerta bonnali (Lacerta monticola)
 
@@ -306,9 +290,7 @@ Chamaeleontidae
 
 Chamaeleo chamaeleon
 
-Nature Protection
-
-1991-11 Anguidae
+Anguidae
 
 Ophisaurus apodus
 
@@ -389,10 +371,6 @@ Salamandra atra
 Salamandra aurorae
 
 Salamandra lanzai
-
-Nature Protection
-
-1991-11
 
 Salamandrina terdigitata
 
@@ -478,10 +456,6 @@ Pelobates syriacus
 
 Bufonidae
 
-Nature Protection
-
-1991-11
-
 Bufo calamita
 
 Bufo viridis
@@ -540,9 +514,7 @@ Isopoda
 
 Armadillidium ghardalamensis
 
-Nature Protection
-
-1991-11 INSECTA
+INSECTA
 
 Coleoptera
 
@@ -634,10 +606,6 @@ Hypodryas maturna
 
 Hyles hippophaes
 
-Nature Protection
-
-1991-11
-
 Leptidea morsei
 
 Lignyoptera fumidaria
@@ -726,10 +694,6 @@ Isophya costata
 
 Isophya harzi
 
-Nature Protection
-
-1991-11
-
 Isophya stysi
 
 Myrmecophilus baronii
@@ -814,10 +778,6 @@ Theodoxus transversalis
 
 BIVALVIA
 
-Nature Protection
-
-1991-11
-
 Anisomyaria
 
 Lithophaga lithophaga
@@ -843,6 +803,8 @@ Centrostephanus longispinus
 (b) PLANTS
 
 Annex IV (b) contains all the plant species listed in Annex II (b)(*) plus those mentioned below:
+
+(*) Except bryophytes in Annex II (b).
 
 PTERIDOPHYTA
 
@@ -871,12 +833,6 @@ CAMPANULACEAE
 Campanula morettiana Reichenb.
 
 Physoplexis comosa (L.) Schur.
-
-(*) Except bryophytes in Annex II (b).
-
-Nature Protection
-
-1991-11
 
 CARYOPHYLLACEAE
 
@@ -937,10 +893,6 @@ Androcymbium europaeum (Lange) K. Richter
 Bellevalia hackelli Freyn
 
 Colchicum corsicum Baker
-
-Nature Protection
-
-1991-11
 
 Colchicum cousturieri Greuter
 
@@ -1007,10 +959,6 @@ SOLANACEAE
 Mandragora officinarum L.
 
 THYMELAEACEAE
-
-Nature Protection
-
-1991-11
 
 Thymelaea broterana P. Cout.
 

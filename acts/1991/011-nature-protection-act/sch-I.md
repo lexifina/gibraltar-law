@@ -12,15 +12,11 @@ The sign “*” indicates priority habitat types.
 
 1.  COASTAL AND HALOPHYTIC HABITATS
 
-11.  Open sea and tidal areas
-
-1110 Sandbanks which are slightly covered by sea water all the time
-
 (*)“Interpretation Manual of European Union Habitats”, version EUR 15/2″ adopted by the Habitats Committee on 4 October 1999 and “Amendments to the “Interpretation Manual of European Union Habitats” with a view to EU enlargement” (Hab. 01/11b-rev. 1) adopted by the Habitats Committee on 24 April 2002 after written consultation, European Commission, Directorate General for Environment.
 
-Nature Protection
+11.  Open sea and tidal areas
 
-1991-11 1120 * Posidonia beds (Posidonion oceanicae) 1130 Estuaries 1140 Mudflats and sandflats not covered by seawater at low tide 1150 * Coastal lagoons 1160 Large shallow inlets and bays 1170 Reefs 1180 Submarine structures made by leaking gases
+1110 Sandbanks which are slightly covered by sea water all the time 1120 * Posidonia beds (Posidonion oceanicae) 1130 Estuaries 1140 Mudflats and sandflats not covered by seawater at low tide 1150 * Coastal lagoons 1160 Large shallow inlets and bays 1170 Reefs 1180 Submarine structures made by leaking gases
 
 12.  Sea cliffs and shingle or stony beaches
 
@@ -40,13 +36,11 @@ Nature Protection
 
 16.  Boreal Baltic archipelago, coastal and landupheaval areas
 
-1610 Baltic esker islands with sandy, rocky and shingle beach vegetation and sublittoral vegetation 1620 Boreal Baltic islets and small islands 1630 * Boreal Baltic coastal meadows 1640 Boreal Baltic sandy beaches with perennial vegetation 1650 Boreal Baltic narrow inlets
+1610 Baltic esker islands with sandy, rocky and shingle beach vegetation and sublittoral vegetation 1620 Boreal Baltic islets and small islands 1630 * Boreal Baltic coastal meadows
+
+1640 Boreal Baltic sandy beaches with perennial vegetation 1650 Boreal Baltic narrow inlets
 
 2.  COASTAL SAND DUNES AND INLAND DUNES
-
-Nature Protection
-
-1991-11
 
 21.  Sea dunes of the Atlantic, North Sea and Baltic coasts
 
@@ -64,29 +58,23 @@ Nature Protection
 
 31.  Standing water
 
-3110 Oligotrophic waters containing very few minerals of sandy plains (Littorelletalia uniflorae) 3120 Oligotrophic waters containing very few minerals generally on sandy soils of the West Mediterranean, with Isoetes spp. 3130 Oligotrophic to mesotrophic standing waters with vegetation of the Littorelletea uniflorae and/or of the Isoëto-Nanojuncetea 3140 Hard oligo-mesotrophic waters with benthic vegetation of Chara spp. 3150 Natural eutrophic lakes with Magnopotamion or Hydrocharition — type vegetation 3160 Natural dystrophic lakes and ponds 3170 * Mediterranean temporary ponds
+3110 Oligotrophic waters containing very few minerals of sandy plains (Littorelletalia uniflorae) 3120 Oligotrophic waters containing very few minerals generally on sandy soils of the West Mediterranean, with Isoetes spp.
 
-Nature Protection
+3130 Oligotrophic to mesotrophic standing waters with vegetation of the Littorelletea uniflorae and/or of the Isoëto-Nanojuncetea 3140 Hard oligo-mesotrophic waters with benthic vegetation of Chara spp. 3150 Natural eutrophic lakes with Magnopotamion or Hydrocharition — type vegetation 3160 Natural dystrophic lakes and ponds 3170 * Mediterranean temporary ponds 3180 * Turloughs 3190 Lakes of gypsum karst 31A0 * Transylvanian hot-spring lotus beds
 
-1991-11 3180 * Turloughs 3190 Lakes of gypsum karst 31A0 * Transylvanian hot-spring lotus beds
+32.  Running water—sections of water courses with natural or semi-natural dynamics (minor, average and major beds) where the water quality shows no significant deterioration
 
-32.  Running water—sections of water courses with natural or semi- natural dynamics (minor, average and major beds) where the water quality shows no significant deterioration
-
-3210 Fennoscandian natural rivers 3220 Alpine rivers and the herbaceous vegetation along their banks 3230 Alpine rivers and their ligneous vegetation with Myricaria germanica 3240 Alpine rivers and their ligneous vegetation with Salix elaeagnos 3250 Constantly flowing Mediterranean rivers with Glaucium flavum 3260 Water courses of plain to montane levels with the Ranunculion fluitantis and Callitricho-Batrachion vegetation 3270 Rivers with muddy banks with Chenopodion rubri p.p. and Bidention p.p. vegetation 3280 Constantly flowing Mediterranean rivers with Paspalo-Agrostidion species and hanging curtains of Salix and Populus alba 3290 Intermittently flowing Mediterranean rivers of the Paspalo- Agrostidion 32A0 Tufa cascades of karstic rivers in the Dinaric Alps
+3210 Fennoscandian natural rivers 3220 Alpine rivers and the herbaceous vegetation along their banks 3230 Alpine rivers and their ligneous vegetation with Myricaria germanica 3240 Alpine rivers and their ligneous vegetation with Salix elaeagnos 3250 Constantly flowing Mediterranean rivers with Glaucium flavum 3260 Water courses of plain to montane levels with the Ranunculion fluitantis and Callitricho-Batrachion vegetation 3270 Rivers with muddy banks with Chenopodion rubri p.p. and Bidention p.p. vegetation 3280 Constantly flowing Mediterranean rivers with Paspalo-Agrostidion species and hanging curtains of Salix and Populus alba 3290 Intermittently flowing Mediterranean rivers of the Paspalo-Agrostidion 32A0 Tufa cascades of karstic rivers in the Dinaric Alps
 
 4.  TEMPERATE HEATH AND SCRUB
 
-4010 Northern Atlantic wet heaths with Erica tetralix 4020 * Temperate Atlantic wet heaths with Erica ciliaris and Erica tetralix 4030 European dry heaths 4040 * Dry Atlantic coastal heaths with Erica vagans 4050 * Endemic macaronesian heaths 4060 Alpine and Boreal heaths 4070 * Bushes with Pinus mugo and Rhododendron hirsutum (Mugo- Rhododendretum hirsuti) 4080 Sub-Arctic Salix spp. Scrub 4090 Endemic oro-Mediterranean heaths with gorse 40A0 * Subcontinental peri-Pannonic scrub 40B0 Rhodope Potentilla fruticosa thickets 40C0 * Ponto-Sarmatic deciduous thickets
+4010 Northern Atlantic wet heaths with Erica tetralix 4020 * Temperate Atlantic wet heaths with Erica ciliaris and Erica tetralix 4030 European dry heaths 4040 * Dry Atlantic coastal heaths with Erica vagans 4050 * Endemic macaronesian heaths 4060 Alpine and Boreal heaths 4070 * Bushes with Pinus mugo and Rhododendron hirsutum (Mugo-Rhododendretum hirsuti) 4080 Sub-Arctic Salix spp. Scrub 4090 Endemic oro-Mediterranean heaths with gorse 40A0 * Subcontinental peri-Pannonic scrub 40B0 Rhodope Potentilla fruticosa thickets 40C0 * Ponto-Sarmatic deciduous thickets
 
 5.  SCLEROPHYLLOUS SCRUB (MATORRAL)
 
 51.  Sub-Mediterranean and temperate scrub
 
-5110 Stable xerothermophilous formations with Buxus sempervirens on rock slopes (Berberidion p.p.) 5120 Mountain Cytisus purgans formations
-
-Nature Protection
-
-1991-11 5130 Juniperus communis formations on heaths or calcareous grasslands 5140 * Cistus palhinhae formations on maritime wet heaths
+5110 Stable xerothermophilous formations with Buxus sempervirens on rock slopes (Berberidion p.p.) 5120 Mountain Cytisus purgans formations 5130 Juniperus communis formations on heaths or calcareous grasslands 5140 * Cistus palhinhae formations on maritime wet heaths
 
 52.  Mediterranean arborescent matorral
 
@@ -104,15 +92,11 @@ Nature Protection
 
 61.  Natural grasslands
 
-6110 * Rupicolous calcareous or basophilic grasslands of the Alysso- Sedion albi 6120 * Xeric sand calcareous grasslands 6130 Calaminarian grasslands of the Violetalia calaminariae 6140 Siliceous Pyrenean Festuca eskia grasslands 6150 Siliceous alpine and boreal grasslands 6160 Oro-Iberian Festuca indigesta grasslands 6170 Alpine and subalpine calcareous grasslands 6180 Macaronesian mesophile grasslands 6190 Rupicolous pannonic grasslands (Stipo-Festucetalia pallentis)
+6110 * Rupicolous calcareous or basophilic grasslands of the Alysso-Sedion albi 6120 * Xeric sand calcareous grasslands 6130 Calaminarian grasslands of the Violetalia calaminariae 6140 Siliceous Pyrenean Festuca eskia grasslands 6150 Siliceous alpine and boreal grasslands 6160 Oro-Iberian Festuca indigesta grasslands 6170 Alpine and subalpine calcareous grasslands 6180 Macaronesian mesophile grasslands 6190 Rupicolous pannonic grasslands (Stipo-Festucetalia pallentis)
 
 62.  Semi-natural dry grasslands and scrubland facies
 
-6210 Semi-natural dry grasslands and scrubland facies on calcareous substrates (Festuco-Brometalia) (* important orchid sites) 6220 * Pseudo-steppe with grasses and annuals of the Thero- Brachypodietea 6230 * Species-rich Nardus grasslands, on silicious substrates in mountain areas (and submountain areas in Continental Europe) 6240 * Sub-Pannonic steppic grasslands 6250 * Pannonic loess steppic grasslands
-
-Nature Protection
-
-1991-11 6260 * Pannonic sand steppes 6270 * Fennoscandian lowland species-rich dry to mesic grasslands 6280 * Nordic alvar and precambrian calcareous flatrocks 62A0 Eastern sub-Mediterranean dry grasslands (Scorzoneratalia villosae) 62B0 * Serpentinophilous grassland of Cyprus 62C0 * Ponto-Sarmatic steppes 62D0 Oro-Moesian acidophilous grasslands
+6210 Semi-natural dry grasslands and scrubland facies on calcareous substrates (Festuco- Brometalia) (* important orchid sites) 6220 * Pseudo-steppe with grasses and annuals of the Thero-Brachypodietea 6230 * Species-rich Nardus grasslands, on silicious substrates in mountain areas (and submountain areas in Continental Europe) 6240 * Sub-Pannonic steppic grasslands 6250 * Pannonic loess steppic grasslands 6260 * Pannonic sand steppes 6270 * Fennoscandian lowland species-rich dry to mesic grasslands 6280 * Nordic alvar and precambrian calcareous flatrocks 62A0 Eastern sub-Mediterranean dry grasslands (Scorzoneratalia villosae) 62B0 * Serpentinophilous grassland of Cyprus 62C0 * Ponto-Sarmatic steppes 62D0 Oro-Moesian acidophilous grasslands
 
 63.  Sclerophillous grazed forests (dehesas)
 
@@ -120,7 +104,9 @@ Nature Protection
 
 64.  Semi-natural tall-herb humid meadows
 
-6410 Molinia meadows on calcareous, peaty or clayey-silt-laden soils (Molinion caeruleae) 6420 Mediterranean tall humid grasslands of the Molinio-Holoschoenion 6430 Hydrophilous tall herb fringe communities of plains and of the montane to alpine levels 6440 Alluvial meadows of river valleys of the Cnidion dubii 6450 Northern boreal alluvial meadows 6460 Peat grasslands of Troodos
+6410 Molinia meadows on calcareous, peaty or clayey-silt-laden soils
+
+(Molinion caeruleae) 6420 Mediterranean tall humid grasslands of the Molinio-Holoschoenion 6430 Hydrophilous tall herb fringe communities of plains and of the montane to alpine levels 6440 Alluvial meadows of river valleys of the Cnidion dubii 6450 Northern boreal alluvial meadows 6460 Peat grasslands of Troodos
 
 65.  Mesophile grasslands
 
@@ -130,15 +116,13 @@ Nature Protection
 
 71.  Sphagnum acid bogs
 
-7110 * Active raised bogs 7120 Degraded raised bogs still capable of natural regeneration 7130 Blanket bogs (* if active bog) 7140 Transition mires and quaking bogs 7150 Depressions on peat substrates of the Rhynchosporion 7160 Fennoscandian mineral-rich springs and springfens
+7110 * Active raised bogs 7120 Degraded raised bogs still capable of natural regeneration 7130 Blanket bogs (* if active bog) 7140 Transition mires and quaking bogs
+
+7150 Depressions on peat substrates of the Rhynchosporion 7160 Fennoscandian mineral-rich springs and springfens
 
 72.  Calcareous fens
 
-7210 * Calcareous fens with Cladium mariscus and species of the Caricion davallianae 7220 * Petrifying springs with tufa formation (Cratoneurion)
-
-Nature Protection
-
-1991-11 7230 Alkaline fens 7240 * Alpine pioneer formations of the Caricion bicoloris-atrofuscae
+7210 * Calcareous fens with Cladium mariscus and species of the Caricion davallianae 7220 * Petrifying springs with tufa formation (Cratoneurion) 7230 Alkaline fens 7240 * Alpine pioneer formations of the Caricion bicoloris-atrofuscae
 
 73.  Boreal mires
 
@@ -152,7 +136,7 @@ Nature Protection
 
 82.  Rocky slopes with chasmophytic vegetation
 
-8210 Calcareous rocky slopes with chasmophytic vegetation 8220 Siliceous rocky slopes with chasmophytic vegetation 8230 Siliceous rock with pioneer vegetation of the Sedo-Scleranthion or of the Sedo albi-Veronicion dillenii 8240 * Limestone pavements
+8210 Calcareous rocky slopes with chasmophytic vegetation 8220 Siliceous rocky slopes with chasmophytic vegetation 8230 Siliceous rock with pioneer vegetation of the Sedo-Scleranthion or of the Sedo albi- Veronicion dillenii 8240 * Limestone pavements
 
 83.  Other rocky habitats
 
@@ -164,19 +148,13 @@ Nature Protection
 
 90.  Forests of Boreal Europe
 
-9010 * Western Taïga 9020 * Fennoscandian hemiboreal natural old broad-leaved deciduous forests (Quercus, Tilia, Acer, Fraxinus or Ulmus) rich in epiphytes 9030 * Natural forests of primary succession stages of landupheaval coast
-
-Nature Protection
-
-1991-11 9040 Nordic subalpine/subarctic forests with Betula pubescens ssp. czerepanovii 9050 Fennoscandian herb-rich forests with Picea abies 9060 Coniferous forests on, or connected to, glaciofluvial eskers 9070 Fennoscandian wooded pastures 9080 * Fennoscandian deciduous swamp woods
+9010 * Western Taïga 9020 * Fennoscandian hemiboreal natural old broad-leaved deciduous forests (Quercus, Tilia, Acer, Fraxinus or Ulmus) rich in epiphytes 9030 * Natural forests of primary succession stages of landupheaval coast 9040 Nordic subalpine/subarctic forests with Betula pubescens ssp. czerepanovii 9050 Fennoscandian herb-rich forests with Picea abies 9060 Coniferous forests on, or connected to, glaciofluvial eskers 9070 Fennoscandian wooded pastures 9080 * Fennoscandian deciduous swamp woods
 
 91.  Forests of Temperate Europe
 
-9110 Luzulo-Fagetum beech forests 9120 Atlantic acidophilous beech forests with Ilex and sometimes also Taxus in the shrublayer (Quercion roboripetraeae or Ilici-Fagenion) 9130 Asperulo-Fagetum beech forests 9140 Medio-European subalpine beech woods with Acer and Rumex arifolius 9150 Medio-European limestone beech forests of the Cephalanthero- Fagion 9160 Sub-Atlantic and medio-European oak or oak-hornbeam forests of the Carpinion betuli 9170 Galio-Carpinetum oak-hornbeam forests 9180 * Tilio-Acerion forests of slopes, screes and ravines 9190 Old acidophilous oak woods with Quercus robur on sandy plains 91A0 Old sessile oak woods with Ilex and Blechnum in the British Isles 91B0 Thermophilous Fraxinus angustifolia woods 91C0 * Caledonian forest 91D0 * Bog woodland 91E0 * Alluvial forests with Alnus glutinosa and Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) 91F0 Riparian mixed forests of Quercus robur, Ulmus laevis and Ulmus minor, Fraxinus excelsior or Fraxinus angustifolia, along the great rivers (Ulmenion minoris) 91G0 * Pannonic woods with Quercus petraea and Carpinus betulus 91H0 * Pannonian woods with Quercus pubescens 91I0 * Euro-Siberian steppic woods with Quercus spp. 91J0 * Taxus baccata woods of the British Isles 91K0 Illyrian Fagus sylvatica forests (Aremonio-Fagion) 91L0 Illyrian oak-hornbeam forests (Erythronio-Carpinion) 91M0 Pannonian-Balkanic turkey oak –sessile oak forests 91N0 * Pannonic inland sand dune thicket (Junipero-Populetum albae) 91P0 Holy Cross fir forest (Abietetum polonicum) 91Q0 Western Carpathian calcicolous Pinus sylvestris forests 91R0 Dinaric dolomite Scots pine forests (Genisto januensis-Pinetum) 91S0 * Western Pontic beech forests 91T0 Central European lichen Scots pine forests 91U0 Sarmatic steppe pine forest 91V0 Dacian Beech forests (Symphyto-Fagion) 91W0 Moesian beech forests
+9110 Luzulo-Fagetum beech forests 9120 Atlantic acidophilous beech forests with Ilex and sometimes also Taxus in the shrublayer (Quercion roboripetraeae or Ilici-Fagenion) 9130 Asperulo-Fagetum beech forests 9140 Medio-European subalpine beech woods with Acer and Rumex arifolius 9150 Medio-European limestone beech forests of the Cephalanthero-Fagion 9160 Sub-Atlantic and medio-European oak or oak-hornbeam forests of the Carpinion betuli 9170 Galio-Carpinetum oak-hornbeam forests 9180 * Tilio-Acerion forests of slopes, screes and ravines 9190 Old acidophilous oak woods with Quercus robur on sandy plains 91A0 Old sessile oak woods with Ilex and Blechnum in the British Isles 91B0 Thermophilous Fraxinus angustifolia woods 91C0 * Caledonian forest 91D0 * Bog woodland 91E0 * Alluvial forests with Alnus glutinosa and Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) 91F0 Riparian mixed forests of Quercus robur, Ulmus laevis and Ulmus minor, Fraxinus excelsior or Fraxinus angustifolia, along the great rivers (Ulmenion minoris) 91G0 * Pannonic woods with Quercus petraea and Carpinus betulus 91H0 * Pannonian woods with Quercus pubescens 91I0 * Euro-Siberian steppic woods with Quercus spp. 91J0 * Taxus baccata woods of the British Isles 91K0 Illyrian Fagus sylvatica forests (Aremonio-Fagion) 91L0 Illyrian oak-hornbeam forests (Erythronio-Carpinion) 91M0 Pannonian-Balkanic turkey oak –sessile oak forests
 
-Nature Protection
-
-1991-11 91X0 *Dobrogean beech forests 91Y0 Dacian oak & hornbeam forests 91Z0 Moesian silver lime woods 91AA * Eastern white oak woods 91BA Moesian silver fir forests 91CA Rhodopide and Balkan Range Scots pine forests
+91N0 * Pannonic inland sand dune thicket (Junipero-Populetum albae) 91P0 Holy Cross fir forest (Abietetum polonicum) 91Q0 Western Carpathian calcicolous Pinus sylvestris forests 91R0 Dinaric dolomite Scots pine forests (Genisto januensis-Pinetum) 91S0 * Western Pontic beech forests 91T0 Central European lichen Scots pine forests 91U0 Sarmatic steppe pine forest 91V0 Dacian Beech forests (Symphyto-Fagion) 91W0 Moesian beech forests 91X0 *Dobrogean beech forests 91Y0 Dacian oak & hornbeam forests 91Z0 Moesian silver lime woods 91AA * Eastern white oak woods 91BA Moesian silver fir forests 91CA Rhodopide and Balkan Range Scots pine forests
 
 92.  Mediterranean deciduous forests
 
@@ -184,15 +162,13 @@ Nature Protection
 
 93.  Mediterranean sclerophyllous forests
 
-9310 Aegean Quercus brachyphylla woods 9320 Olea and Ceratonia forests 9330 Quercus suber forests 9340 Quercus ilex and Quercus rotundifolia forests 9350 Quercus macrolepis forests 9360 * Macaronesian laurel forests (Laurus, Ocotea) 9370 * Palm groves of Phoenix 9380 Forests of Ilex aquifolium 9390 * Scrub and low forest vegetation with Quercus alnifolia 93A0 Woodlands with Quercus infectoria (Anagyro foetidae-Quercetum infectoriae)
+9310 Aegean Quercus brachyphylla woods 9320 Olea and Ceratonia forests 9330 Quercus suber forests 9340 Quercus ilex and Quercus rotundifolia forests 9350 Quercus macrolepis forests 9360 * Macaronesian laurel forests (Laurus, Ocotea) 9370 * Palm groves of Phoenix 9380 Forests of Ilex aquifolium
+
+9390 * Scrub and low forest vegetation with Quercus alnifolia 93A0 Woodlands with Quercus infectoria (Anagyro foetidae-Quercetum infectoriae)
 
 94.  Temperate mountainous coniferous forests
 
-9410 Acidophilous Picea forests of the montane to alpine levels (Vaccinio-Piceetea) 9420 Alpine Larix decidua and/or Pinus cembra forests
-
-Nature Protection
-
-1991-11 9430 Subalpine and montane Pinus uncinata forests (* if on gypsum or limestone)
+9410 Acidophilous Picea forests of the montane to alpine levels (Vaccinio-Piceetea) 9420 Alpine Larix decidua and/or Pinus cembra forests 9430 Subalpine and montane Pinus uncinata forests (* if on gypsum or limestone)
 
 95.  Mediterranean and Macaronesian mountainous coniferous forests
 

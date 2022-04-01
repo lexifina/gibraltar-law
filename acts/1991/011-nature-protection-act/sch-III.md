@@ -2,9 +2,7 @@ ANNEX III
 
 CRITERIA FOR SELECTING SITES ELIGIBLE FOR IDENTIFICATION AS SITES OF COMMUNITY IMPORTANCE AND DESIGNATION AS SPECIAL AREAS OF CONSERVATION
 
-Nature Protection
-
-1991-11 STAGE 1: Assessment at national level of the relative importance of sites for each natural habitat type in Annex I and each species in Annex II (including priority natural habitat types and priority species)
+STAGE 1: Assessment at national level of the relative importance of sites for each natural habitat type in Annex I and each species in Annex II (including priority natural habitat types and priority species)
 
 A. Site assessment criteria for a given natural habitat type in Annex I
 
@@ -33,10 +31,6 @@ D. That list will show the sites containing the priority natural habitat types a
 STAGE 2: Assessment of the Community importance of the sites included on the national lists
 
 1. All the sites identified by the Member States in Stage 1 which contain priority natural habitat types and/or species will be considered as sites of Community importance.
-
-Nature Protection
-
-1991-11
 
 2. The assessment of the Community importance of other sites on Member States' lists, i.e. their contribution to maintaining or re-establishing, at a favourable conservation status, a natural habitat in Annex I or a species in Annex II and/or to the coherence of Natura 2000 will take account of the following criteria:
 

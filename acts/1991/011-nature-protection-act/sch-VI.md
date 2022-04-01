@@ -1,43 +1,47 @@
 ANNEX VI
 
-PART A
+PROHIBITED METHODS AND MEANS OF CAPTURE AND KILLING AND MODES OF TRANSPORT
 
-REPEALED DIRECTIVE WITH LIST OF ITS SUCCESSIVE AMENDMENTS
+(a) Non-selective means
 
-(referred to in Article 18)
+MAMMALS
 
-Council Directive 79/409/EEC (OJ L 103, 25.4.1979, p. 1)
+— Blind or mutilated animals used as live decoys
 
-1979 Act of Accession, Annex I, point XIII.1.F (OJ L 291, 19.11.1979, p. 111)
+— Tape recorders
 
-Council Directive 81/854/EEC (OJ L 319, 7.11.1981, p. 3)
+— Electrical and electronic devices capable of killing or stunning
 
-Commission Directive 85/411/EEC (OJ L 233, 30.8.1985, p. 33)
+— Artificial light sources
 
-1985 Act of Accession, Annex I, points X.1.(h) and X.6 (OJ L 302, 15.11.1985, p. 218)
+— Mirrors and other dazzling devices
 
-Council Directive 86/122/EEC (OJ L 100, 16.4.1986, p. 22)
+— Devices for illuminating targets
 
-Commission Directive 91/244/EEC (OJ L 115, 8.5.1991, p. 41)
+— Sighting devices for night shooting comprising an electronic image magnifier or image converter
 
-Council Directive 94/24/EC (OJ L 164, 30.6.1994, p. 9)
+— Explosives
 
-Nature Protection
+— Nets which are non-selective according to their principle or their conditions of use
 
-1991-11 1994 Act of Accession, Annex I, point VIII.E.1 (OJ C 241, 29.8.1994, p. 175)
+— Traps which are non-selective according to their principle or their conditions of use
 
-Commission Directive 97/49/EC (OJ L 223, 13.8.1997, p. 9)
+— Crossbows
 
-Council Regulation (EC) No 807/2003
+— Poisons and poisoned or anaesthetic bait
 
-only Annex III, point 29 (OJ L 122, 16.5.2003, p. 36)
+— Gassing or smoking out
 
-2003 Act of Accession, Annex II, point 16.C.1 (OJ L 236, 23.9.2003, p. 667)
+— Semi-automatic or automatic weapons witha magazine capable of holding more than two rounds of ammunition
 
-Council Directive 2006/105/EC
+FISH
 
-only as regards the reference, (OJ L 363, 20.12.2006, p. 368)
+— Poison
 
-in Article 1, to Directive
+— Explosives
 
-79/409/EEC and point A.1 of the
+(b) Modes of transport
+
+— Aircraft
+
+— Moving motor vehicles

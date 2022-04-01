@@ -2,9 +2,7 @@ SCHEDULE 2
 
 Section 11
 
-Name Common Name
-
-PTERIDACEAE Anogramma leptophylla Annual Gymnogram
+Name Common Name PTERIDACEAE Anogramma leptophylla Annual Gymnogram
 
 ASPLENIACEAE Asplenium ceterach
 
@@ -30,25 +28,17 @@ Pellitory-of-the-wall
 
 Mediterranean Pellitory-of-the-wall
 
-Moroccan Pellitory-of-the-wall
-
-SANTALACEAE Osyris lanceolata
+Moroccan Pellitory-of-the-wall SANTALACEAE Osyris lanceolata
 
 Osyris ARISTOLOCHIACEAE Aristolochia baetica Pipe Vine
 
 POLYGONACEAE Polygonum aviculare
 
-Rumex intermedius
-
-Common Knotgrass
+Rumex intermedius Common Knotgrass
 
 Intermediate Dock AMARANTHACEAE Amaranthus blitoides
 
-Spreading Amaranth
-
-Nature Protection
-
-1991-11 Amaranthus blitum
+Amaranthus blitum
 
 Achyranthes aspera var. sicula
 
@@ -59,6 +49,8 @@ Dysphania ambrosioides
 Chenopodium murale
 
 Chenopodium album
+
+Spreading Amaranth
 
 Black Amaranth
 
@@ -92,16 +84,6 @@ Paronychia argentea
 
 Polycarpon tetraphyllum
 
-Spergularia marina
-
-Silene obtusifolia
-
-Silene colorata
-
-Silene nocturna
-
-Silene nicaeensis
-
 Fine-leaved Sandwort
 
 Chickweed
@@ -116,6 +98,16 @@ Silver Paronychia
 
 Four-leaved All-seed
 
+Spergularia marina
+
+Silene obtusifolia
+
+Silene colorata
+
+Silene nocturna
+
+Silene nicaeensis
+
 Sea Spurrey
 
 Blunt-leaved Catchfly
@@ -124,11 +116,7 @@ Pink Mediterranean Catchfly
 
 Night Catchfly
 
-Sticky Catchfly
-
-Nature Protection
-
-1991-11 RANUNCULACEAE Clematis cirrhosa
+Sticky Catchfly RANUNCULACEAE Clematis cirrhosa
 
 Ranunculus paludosus
 
@@ -168,8 +156,6 @@ Hirschfeldia incana
 
 Raphanus raphanistrum
 
-Lepidium coronopus
-
 Hedge Mustard
 
 Mediterranean Rocket
@@ -186,6 +172,8 @@ Hoary Mustard
 
 Wild Radish
 
+Lepidium coronopus
+
 Lesser Swine-cress
 
 RESEDACEAE Reseda alba
@@ -196,17 +184,7 @@ Aeonium haworthii
 
 Umbilicus rupestris
 
-Umbilicus horizontalis Tree Houseleek
-
-Haworth’s Aeonium
-
-Wall Pennywort
-
-Horizontal Navelwort
-
-Nature Protection
-
-1991-11
+Umbilicus horizontalis
 
 Sedum sediforme
 
@@ -214,7 +192,13 @@ Sedum album
 
 Sedum rubens
 
-Bryophyllum delagoense
+Bryophyllum delagoense Tree Houseleek
+
+Haworth’s Aeonium
+
+Wall Pennywort
+
+Horizontal Navelwort
 
 Yellow Stonecrop
 
@@ -244,22 +228,6 @@ Lathyrus clymenum
 
 Pisum sativum
 
-Ononis reclinata
-
-Melilotus indica
-
-Medicago truncatula
-
-Medicago littoralis
-
-Medicago polymorpha
-
-Trifolium tomentosum
-
-Trifolium campestre
-
-Trifolium scabrum
-
 Red-eye Wattle
 
 Blue-leaved Wattle
@@ -282,25 +250,21 @@ Perennial Pea
 
 Wild Pea
 
-Small Restharrow
+Ononis reclinata
 
-Small-flowered Melilot
+Melilotus indica
 
-Barrel Medick
+Medicago truncatula
 
-Coastal Medick
+Medicago littoralis
 
-Hairy Medick
+Medicago polymorpha
 
-Woolly Trefoil
+Trifolium tomentosum
 
-Hop Trefoil
+Trifolium campestre
 
-Rough Trefoil
-
-Nature Protection
-
-1991-11
+Trifolium scabrum
 
 Trifolium stellatum
 
@@ -317,6 +281,22 @@ Lotus creticus
 Hippocrepis multisiliquosa
 
 Scorpiurus muricatus
+
+Small Restharrow
+
+Small-flowered Melilot
+
+Barrel Medick
+
+Coastal Medick
+
+Hairy Medick
+
+Woolly Trefoil
+
+Hop Trefoil
+
+Rough Trefoil
 
 Star Clover
 
@@ -344,12 +324,6 @@ Geranium purpureum
 
 Erodium chium
 
-Erodium malacoides
-
-Erodium moschatum
-
-Pelargonium inquinans
-
 Round-leaved Cranesbill
 
 Doves-foot Cranesbill
@@ -357,6 +331,12 @@ Doves-foot Cranesbill
 Lesser Herb Robert
 
 Three-lobed Storksbill
+
+Erodium malacoides
+
+Erodium moschatum
+
+Pelargonium inquinans
 
 Soft Storksbill
 
@@ -372,27 +352,23 @@ Upright Yellow Flax EUPHORBIACEAE Mercurialis annua
 
 Euphorbia peplus
 
-Euphorbia chamaesyce Annual Mercury
-
-Petty Spurge
-
-Prostrate Spurge
-
-Nature Protection
-
-1991-11
+Euphorbia chamaesyce
 
 Euphorbia serpens
 
 Euphorbia maculata
 
+Annual Mercury
+
+Petty Spurge
+
+Prostrate Spurge
+
 Matted Sandmat
 
 Spotted Spurge
 
-RUTACEAE Ruta angustifolia
-
-Fringed Rue SIMAROUBACEAE All species
+RUTACEAE Ruta angustifolia Fringed Rue SIMAROUBACEAE All species
 
 ANACARDIACEAE Pistacia terebinthus
 
@@ -410,11 +386,11 @@ Mediterranean Buckthorn MALVACEAE Malva hispanica
 
 Malva sylvestris
 
-Lavatera cretica
-
 Spanish Mallow
 
 Common Mallow
+
+Lavatera cretica
 
 Smaller Tree Mallow
 
@@ -434,13 +410,7 @@ Ivy APIACEAE Smyrnium olusatrum
 
 Crithmum maritimum
 
-Alexanders
-
-Rock Samphire
-
-Nature Protection
-
-1991-11 Foeniculum vulgare subsp piperitum
+Foeniculum vulgare subsp piperitum
 
 Kundmannia sicula
 
@@ -451,6 +421,10 @@ Thapsia villosa
 Daucus carota subsp maximus
 
 Daucus carota subsp hispanicus
+
+Alexanders
+
+Rock Samphire
 
 Fennel
 
@@ -472,7 +446,9 @@ Olea europaea
 
 Wild Jasmine
 
-Olive GENTIANACEAE Blackstonia perfoliata
+Olive GENTIANACEAE
+
+Blackstonia perfoliata
 
 Centaurium erythraea
 
@@ -480,9 +456,7 @@ Yellow Wort
 
 Common Centaury APOCYNACEAE Vinca difformis
 
-Nerium oleander
-
-Intermediate Periwinkle
+Nerium oleander Intermediate Periwinkle
 
 Oleander RUBIACEAE Sherardia arvensis
 
@@ -510,15 +484,11 @@ Horned Valantia
 
 Wild Madder
 
-Dog’s Cabbage
-
-CONVOLVULACEAE Convolvulus althaeoides Mallow-leaved Bindweed
-
-Nature Protection
-
-1991-11
+Dog’s Cabbage CONVOLVULACEAE Convolvulus althaeoides
 
 Ipomoea indica
+
+Mallow-leaved Bindweed
 
 Morning Glory BORAGINACEAE Heliotropium europaeum
 
@@ -536,6 +506,12 @@ Bush Lantana LAMIACEAE Teucrium fruticans
 
 Teucrium lusitanicum
 
+Tree Germander
+
+Felty Germander
+
+Prasium
+
 Prasium majus
 
 Phlomis purpurea
@@ -547,12 +523,6 @@ Micromeria graeca
 Rosmarinus officinalis
 
 Lavandula dentata
-
-Tree Germander
-
-Felty Germander
-
-Prasium
 
 Purple Jerusalem Sage
 
@@ -568,9 +538,7 @@ SOLANACEAE Solanum luteum subsp. luteum
 
 Solanum alatum
 
-Nicotiana glauca
-
-Hairy Nightshade
+Nicotiana glauca Hairy Nightshade
 
 Orange Nightshade
 
@@ -586,13 +554,7 @@ Branched Broomrape
 
 Lesser Broomrape
 
-Bean Broomrape
-
-Nature Protection
-
-1991-11
-
-SCROPHULARIACEAE Myoporum laetum
+Bean Broomrape SCROPHULARIACEAE Myoporum laetum
 
 Waterbush PLANTAGINACEAE Plantago coronopus
 
@@ -603,16 +565,6 @@ Plantago afra
 Antirrhinum majus subsp cirrhigerum
 
 Antirrhinum majus subsp tortuosum
-
-Misopates orontium
-
-Linaria amethystea
-
-Cymbalaria muralis
-
-Veronica cymbalaria
-
-Veronica arvensis
 
 Bucks Horn Plantain
 
@@ -626,15 +578,23 @@ Snapdragon
 
 Weasel’s Snout
 
+Misopates orontium
+
+Linaria amethystea
+
+Cymbalaria muralis
+
+Veronica cymbalaria
+
+Veronica arvensis
+
 Spanish Toadflax
 
 Ivy-leaved Toadflax
 
 Pale Speedwell
 
-Wall Speedwell
-
-CAPRIFOLIACEAE Lonicera implexa
+Wall Speedwell CAPRIFOLIACEAE Lonicera implexa
 
 Fedia cornucopiae
 
@@ -660,15 +620,7 @@ Erigeron sumatrensis
 
 Erigeron bonariensis
 
-Squamate Aster
-
-Tall Fleabane
-
-Horseweed
-
-Nature Protection
-
-1991-11 Helichrysum boissieri
+Helichrysum boissieri
 
 Phagnalon saxatile
 
@@ -681,6 +633,26 @@ Pallenis maritima
 Glebionis coronaria
 
 Anacyclus radiatus
+
+Squamate Aster
+
+Tall Fleabane
+
+Horseweed
+
+Wall Helichrysum
+
+Rock Phagnalon
+
+Aromatic Inula
+
+Spiny Daisy
+
+Mediterranean Beach Daisy
+
+Crown Daisy
+
+Yellow Anacyclus
 
 Arctotheca calendula
 
@@ -714,21 +686,19 @@ Centaurea pullata
 
 Carthamus arborescens
 
-Scolymus hispanicus Wall Helichrysum
+Scolymus hispanicus
 
-Rock Phagnalon
+Hyoseris radiata
 
-Aromatic Inula
+Hedypnois arenaria
 
-Spiny Daisy
+Urospermum picroides
 
-Mediterranean Beach Daisy
+Reichardia picroides
 
-Crown Daisy
+Reichardia intermedia
 
-Yellow Anacyclus
-
-Cape Weed
+Leontodon saxatilis subsp rothii Cape Weed
 
 Silver Ragwort; Cineraria
 
@@ -762,30 +732,6 @@ Yellow Tree Thistle
 
 Spanish Oyster Plant
 
-Nature Protection
-
-1991-11
-
-Hyoseris radiata
-
-Hedypnois arenaria
-
-Urospermum picroides
-
-Reichardia picroides
-
-Reichardia intermedia
-
-Leontodon saxatilis subsp rothii
-
-Sonchus oleraceus
-
-Sonchus tenerrimus
-
-Lactuca tenerrima
-
-Andryala integrifolia
-
 Perennial Hyoseris
 
 Sand Hedypnois
@@ -795,6 +741,14 @@ Prickly Goldenfleece
 Common Reichardia
 
 Intermediate Reichardia
+
+Sonchus oleraceus
+
+Sonchus tenerrimus
+
+Lactuca tenerrima
+
+Andryala integrifolia
 
 Hairy Hawkbit
 
@@ -808,9 +762,7 @@ Rabbit’s Bread XANTHORRHOEACEAE Asphodelus macrocarpus
 
 Asphodelus ramosus
 
-All species of the genus Aloe
-
-White Asphodel
+All species of the genus Aloe White Asphodel
 
 Branched Asphodel COLCHICACEAE Colchicum lusitanum
 
@@ -824,9 +776,7 @@ Ruscus hypophyllum
 
 Ruscus aculeatus
 
-All species of the genus Agave
-
-Spiny or White Asparagus
+All species of the genus Agave Spiny or White Asparagus
 
 Bridal Creeper
 
@@ -836,21 +786,13 @@ Southern Butcher’s Broom
 
 Butcher’s Broom
 
-SMILACACEAE Smilax aspera
-
-Smilax
-
-Nature Protection
-
-1991-11 AMARYLLIDACEAE Allium roseum
+SMILACACEAE Smilax aspera Smilax AMARYLLIDACEAE Allium roseum
 
 Allium triquetrum
 
 Allium ampeloprasum
 
 Nothoscordum borbonicum
-
-Narcissus papyraceus
 
 Rose Garlic
 
@@ -859,6 +801,8 @@ Triquetrous Garlic
 Wild leek
 
 Fragrant or False Garlic
+
+Narcissus papyraceus
 
 Paper-white Narcissus DIOSCOREACEAE Dioscorea communis
 
@@ -900,7 +844,13 @@ Bromus diandrus
 
 Bromus rigidus
 
-Bromus madritensis Italian Rye Grass
+Bromus madritensis
+
+Brachypodium distachyon
+
+Trisetaria panicea
+
+Italian Rye Grass
 
 Jointed Fescue
 
@@ -922,13 +872,11 @@ Upright Brome
 
 Compact Brome
 
-Nature Protection
+Purple False-brome
 
-1991-11
+Oat Grass
 
-Brachypodium distachyon
-
-Trisetaria panicea
+Wall Barley
 
 Hordeum murinum subsp leporinum
 
@@ -961,12 +909,6 @@ Digitaria sanguinalis
 Pennisetum clandestinum
 
 Setaria verticillata
-
-Purple False-brome
-
-Oat Grass
-
-Wall Barley
 
 Bearded Wild Oat
 
@@ -1002,16 +944,6 @@ Phoenix canariensis
 
 Dwarf Fan Palm
 
-Canary Palm ARACEAE Arisarum simorrhinum
-
-Friar’s Cowl CYPERACEAE Cyperus rotundus
+Canary Palm ARACEAE Arisarum simorrhinum Friar’s Cowl CYPERACEAE Cyperus rotundus
 
 Purple Nut Sedge
-
-Nature Protection
-
-1991-11
-
-Nature Protection
-
-1991-11

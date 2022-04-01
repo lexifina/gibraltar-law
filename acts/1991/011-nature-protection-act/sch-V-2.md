@@ -1,8 +1,6 @@
 ANNEX V
 
-Nature Protection
-
-1991-11 (a) National lists of species in danger of extinction or particularly endangered species, taking into account their geographical distribution.
+(a) National lists of species in danger of extinction or particularly endangered species, taking into account their geographical distribution.
 
 (b) Listing and ecological description of areas particularly important to migratory species on their migratory routes and as wintering and nesting grounds.
 

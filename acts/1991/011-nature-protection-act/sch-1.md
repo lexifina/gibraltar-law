@@ -1,35 +1,97 @@
-Annex
+SCHEDULE 1.
 
-Directive 2008/102/EC of the European Parliament and of the Council (OJ L 323, 3.12.2008, p. 31)
+Section 8
 
-PART B
+SPECIFIED WILD ANIMALS
 
-LST OF TIME LIMITS FOR TRANSPOSITION INTO NATIONAL LAW
+NAME COMMON NAME MAMMALIA MAMMALS Insectivora Insectivores Erinaceidae hedgehogs Talpidae moles Soricidae shrews
 
-(referred to in Article 18)
+Chiroptera Bats all species all species
 
-Directives Time limit for transposition 79/409/EEC 7 April 1981 81/854/EEC - 85/411/EEC 31 July 1986 86/122/EEC - 91/244/EEC 31 July 1992 94/24/EC 29 September 1995 97/49/EC 30 September 1998 2006/105/EC 1 January 2007 2008/102/EC -
+Primates Apes & monkeys Macaca sylvanus Barbary Macaque
 
-Nature Protection
+Carnivora Carnivores Vulpes vulpes Red Fox Lutra lutra European Otter
 
-1991-11 ANNEX VII
+Rodentia Rodents Eliomys quercinus Garden dormouse Lagomorpha Rabbits & hares Oryctolagus cuniculus Rabbit
 
-CORRELATION TABLE
+Phocidae Seals all species all species Cetacea Whales,porpoises and dolphins all species all species
 
-Directive 79/409/EEC This Directive Article 1(1) and (2) Article 1(1) and (2) Article 1(3) — Articles 2 to 5 Articles 2 to 5 Article 6(1), (2) and (3) Article 6(1), (2) and (3) Article 6(4) — Article 7(1), (2) and (3) Article 7(1), (2) and (3) Article 7(4), first sentence Article 7(4), first subparagraph Article 7(4), second sentence Article 7(4), second subparagraph Article 7(4), third sentence Article 7(4), third subparagraph Article 7(4), fourth sentence Article 7(4), fourth subparagraph Article 8 Article 8 Article 9(1) Article 9(1) Article 9(2), introductory wording Article 9(2), introductory wording Article 9(2), first indent Article 9(2), point (a) Article 9(2), second indent Article 9(2), point (b) Article 9(2), third indent Article 9(2), point (c) Article 9(2), fourth indent Article 9(2), point (d) Article 9(2), fifth indent Article 9(2), point (e) Article 9(3) Article 9(3) Article 9(4) Article 9(4) Article 10(1) Article 10(1), first sentence Article 10(2), first sentence Article 10(1), second sentence Article 10(2), second sentence Article 10(2) Articles 11 to 15 Articles 11 to 15 Article 16(1) — Article 17 Article 16 Article 18(1) — Article 18(2) Article 17 — Article 18 — Article 19 Article 19 Article 20 Annex I Annex I Annex II/1 Annex II, Part A Annex II/2 Annex II, Part B Annex III/1 Annex III, Part A Annex III/2 Annex III, Part B Annex IV Annex IV
+AMPHIBIA AMPHIBIANS all species all species REPTILIA REPTILES all species all species
 
-Nature Protection
+PISCES FISH Sciaena umbra Brown Meagre
 
-1991-11 Annex V Annex V — Annex VI — Annex VII
+Hippocampus spp. seahorses Syngnathus spp. pipefish Thalassoma spp. Turkish wrasse Blennius spp, blennies Gobius spp. gobies Chromogobius spp. gobies Thorogobius spp. gobies ELASMOBRANCHII
 
-Nature Protection
+(all species of elasmobranchii not limited to those set out below) SHARKS, RAYS, SKATES AND STINGRAYS (all species of sharks, rays, skates and stingrays not limited to those set out below)
 
-1991-11 SCHEDULE 9 section 3 (1)(bb)
+HEXANCHIFORMES COW & FRILLED SHARKS Family HEXANCHIDAE SIXGILL & SEVENGILL SHARKS Heptranchias perlo Sharpnose sevengill shark Hexanchus griseus Bluntnose sixgill shark Hexanchus nakamurai Bigeye sixgill shark
 
-WILD BIRDS WHICH RE-USE THEIR NESTS
+SQUALIFORMES DOGFISH SHARKS Family ECHINORHINIDAE BRAMBLE SHARKS Echinorhinus brucus Bramble shark Family SQUALIDAE DOGFISH SHARKS Squalus acanthias Piked dogfish Squalus blainvillei Longnose spurdog Squalus megalops Shortnose spurdog Family CENTROPHORIDAE GULPER SHARKS Centrophorus granulosus Gulper shark Centrophorus uyato Little gulper shark Family ETMOPTERIDAE LANTERN SHARKS Etmopterus spinax Velvet belly Family SOMNIOSIDAE SLEEPER SHARKS Centroscymnus coelolepis Portugese dogfish Somniosus rostratus Little sleeper shark Family OXYNOTIDAE ROUGHSHARKS Oxynotus centrina Angular roughshark Family DALATIIDAE KITEFIN SHARKS Dalatias licha Kitefin shark
 
-Common Name Scientific Name Eagle Owl Bubo bubo Lesser Kestrel Falco naumanni Shag Phalacrocorax aristotelis desmarestii
+SQUATINIFORMES ANGEL SHARKS Family SQUATINIDAE ANGEL SHARKS Squatina aculeata Sawback angelshark Squatina oculata Smoothback angelshark Squatina squatina Angel shark
 
-NOTE: The common name or names given in the first column of this Schedule are included by way of guidance only; in the event of any dispute or proceedings, the common name or names shall not be taken into account.
+LAMNIFORMES MACKEREL SHARKS Family ODONTASPIDIDAE SAND TIGER SHARKS Carcharias taurus Sand tiger shark Odontaspis ferox Smalltooth sand tiger Family ALOPIIDAE THRESHER SHARKS Alopias superciliosus Bigeye thresher Alopias vulpinus Thresher shark Family CETORHINIDAE BASKING SHARKS Cetorhinus maximus Basking shark Family LAMNIDAE MACKEREL SHARKS Carcharodon carcharias Great white shark Isurus oxyrinchus Shortfin mako Isurus paucus Longfin mako Lamna nasus Porbeagle shark
 
-_______________________
+CARCHARHINIFORMES GROUND SHARKS Family SCYLIORHINIDAE CAT SHARKS Scyliorhinus stellaris Nursehound Scyliorhinus canicula Small Spotted Catshark Galeus atlanticus Atlantic catshark Galeus melastomus Blackmouth catshark Family TRIAKIDAE HOUND SHARKS Galeorhinus galeus Tope shark Mustelus asterias Starry smoothhound Mustelus mustelus Smoothhound Mustelus punctulatus Blackspot smoothhound Family CARCHARHINIDAE REQUIEM SHARKS Carcharhinus altimus Bignose shark Carcharhinus brachyurus Bronze whaler shark Carcharhinus brevipinna Spinner shark Carcharhinus falciformis Silky shark C. limbatus Blacktip shark C. melanopterus Blacktip reef shark Carcharhinus obscurus Dusky shark Carcharhinus plumbeus Sandbar shark Galeocerdo cuvier Tiger shark Prionace glauca Blue shark Rhizoprionodon acutus Milk shark Family SPHYRNIDAE HAMMERHEAD SHARKS Sphyrna (Sphyrna) lewini Scalloped hammerhead Sphyrna (Sphyrna) mokarran Great hammerhead Sphyrna (Mesozygaena) tudes Smalleye hammerhead Sphyrna (Sphyrna) zygaena Smooth hammerhead
+
+BATOIDS SKATES and RAYS PRISTIFORMES SAWFISHES Family PRISTIDAE SAWFISHES Pristis pectinata Smalltooth sawfish Pristis pristis Common sawfish RHINOBATIFORMES GUITARFISHES Family RHINOBATIDAE GUITARFISHES Rhinobatos (Glaucostegus) cemiculus Blackchin guitarfish Rhinobatos (Rhinobatos) rhinobatos Common guitarfish
+
+TORPEDINIFORMES ELECTRIC RAYS Family TORPEDINIDAE TORPEDO RAYS Torpedo (Tetronarce) nobiliana Great torpedo Torpedo(Torpedo) sinuspersici Variable torpedo ray Torpedo (Torpedo) marmorata Spotted torpedo Torpedo (Torpedo) torpedo Ocellate torpedo
+
+RAJIFORMES SKATES Family RAJIDAE SKATES Dipturus batis Gray skate Dipturus oxyrhynchus Sharpnose skate Dipturus nidarosiensis Norwegian skate Leucoraja circularis Sandy skate Leucoraja fullonica Shagreen skate Leucoraja melitensis Maltese skate Leucoraja naevus Cuckoo skate Raja undulata Undulate skate Raja africana African skate Raja asterias Atlantic starry skate Raja brachyura Blonde skate Raja clavata Linnaeus Thornback skate Raja montagui Fowler Spotted skate Raja polystigma Speckled skate Raja radula Rough skate Raja miraletus Brown Ray Rostroraja alba White skate
+
+MYLIOBATIFORMES STINGRAYS Family DASYATIDAE WHIPTAIL STINGRAYS Dasyatis centroura Roughtail stingray Dasyatis marmorata Marbled stingray Dasyatis pastinaca Common stingray Dasyatis tortonesei Tortonese's stingray
+
+Himantura uarnak Honeycomb whipray Pteroplatytrygon violacea Pelagic stingray Taeniura grabata Round fantail stingray Family GYMNURIDAE BUTTERFLY RAYS Gymnura altavela Spiny butterfly ray Family MYLIOBATIDAE EAGLE RAYS Myliobatis aquila Common eagle ray Pteromylaeus bovinus Bullray Family RHINOPTERIDAE COWNOSE RAYS Rhinoptera marginata Lusitanian cownose ray Family MOBULIDAE DEVIL RAYS Mobula mobular Giant devilray
+
+INSECTA INSECTS Phasmatodea All stick insects
+
+Mantatodea All mantids
+
+Coleoptera
+
+Buprestis sanguinea Jewel beetle Paratyphlus tristancanoi (Gibraltar endemic beetle) Lusitanopsis herculeana (Gibraltar endemic beetle) Torneuma bensusani (A near-endemic beetle)
+
+Hymenoptera Technomyrmex vexatus (A rare ant) Anochetus ghilianii (A trap-jaw ant) Lepidoptera Butterflies and Moths Iphiclides podalinus Scarce Swallowtail Euchloe tagis Portuguese Dappled White Anthocaris belia Morroco Orange Tip Gonepterix rhamni Brimstone Danaus chryssipus Plain Tiger Melanargria ines Spanish Marbled White Pyronia cecilia Southern Gatekeeper Strymonidia spini Blue-spot Hairstreak Tomares ballus Provence Hairstreak Zizeenia knysna African Grass Blue Carcharodus alceae Mallow Skipper Spialia sertorius Red Underwing Skipper Gegenes nostrodamus Mediterranean Skipper Borbo borbonica Zeller’s Skipper Zygaena fausta gibraltarica Gibraltar Burnet Moth
+
+ARACHNIDA SPIDERS Macrothele calpeiana Gibraltar Funnel-web Spider
+
+CRUSTACEA CRUSTACEANS Pollicipes Pollicipes Goose Barnacle Maja spp. spider crabs. all Scyllarides Slipper lobsters CHILOPODA CENTIPEDES & MILLIPEDES Scolopendra cingulatus
+
+MOLLUSCA MOLLUSCS Bivalvia Bivalves Atrina pectinata Brittle Pen Shell Pinna nobilis Noble Pen Shell PINNA RUDIS Rough Pen Shell
+
+Gastropoda Gastropods Haliotis tuberculata Sea Ormer Patella ferruginea Ribbed Mediterranean Limpet Monodonta spp. toothed topshells Jujubinus spp. top shells Gibbula spp. top shells Acicula norrisi
+
+Thais haemastoma Rock Shell Aplysia spp. sea hares Onchidella celtica Lauria cylindracea Chrysalis Snails Truncatellina cylindrica Cylindrical Whorl Snail Pyramidula rupestris Rock Snail Chondrina calpica Granopupa granum
+
+Ferussacia follicula Charonia spp. tritons Epitonium spp. wentletraps Trivia spp. cowries Cypraea spp. cowries Mitra zonata Zoned Mitre Shell Bolinus brandaris Purple Dye Murex Hexaplex trunculus Banded Murex Cecilioides spp.
+
+Testacella maugei Mauge’s slug Vitrea contracta Glass Snail Oxychilus draparnaudi
+
+Oxychilus hudatinus
+
+Parmacella valencienii Milax nigricans Black slug Deroceras ponsonbyi Ponsonbyi’s slug Trichia hispida Hairy snail Helicella apicina Helicella conspurcata
+
+Candidula intersecta Wrinkled snail Cernuella virgata Striped snail Cochlicella acuta Pointed snail Caracollina lenticula
+
+Osteophora calpeana
+
+Cumbium olla
+
+Cephalopoda Cephalopods Argonauto argo Paper Nautilus Eledone spp. Lesser Octopus
+
+ECHINOIDEA SEA URCHINS all species all species ANTHOZOA ANEMONES, CORALS, Hexacorralia
+
+all Antipathes spp. Black Coral
+
+Madreporaria Balanophyllia regia Regal Coral Clodocora cespitosa Carpet Coral Dendrophyllia ramea Yellow Coral Lophelia pertusa coral Leptopsammia pruroti Yellow Cup Coral Astroides calcycularis Star Coral
+
+Alcyonacea Alcyonium palmatum Deadman’s fingers Parerythropodium corralloides soft coral
+
+Gorgonacea Eunicella cavolinii Yellow Gorgonian Eunicella clavata Violet Sea Whip Eunicella singularis gorgonian Eunicella verrucosa White Gorgonian Corallium rubrum Red Coral
+
+PORIFERA Hippospongia communis
+
+Spongia agaricina Spongia officinalis
+
+Spongia zimocca
