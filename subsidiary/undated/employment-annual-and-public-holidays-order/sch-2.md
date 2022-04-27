@@ -4,9 +4,7 @@ Duration of employees’ annual holidays
 
 TABLE I.
 
-Period of  employment preceding 1st January each year (i.e. during qualifying period)
-
-Duration of Annual Holiday for employees with not more than three years continuous service  conditioned to a week of:
+Period of employment preceding 1st January each year (i.e. during qualifying period) Duration of Annual Holiday for employees with not more than three years continuous service conditioned to a week of:
 
 5 days 5.5 or 6 days 7 days
 
@@ -72,9 +70,7 @@ Not less than 48 weeks
 
 5     “    “
 
-Employment EMPLOYMENT (ANNUAL AND PUBLIC HOLIDAYS) ORDER.
-
-Subsidiary 1968.12.17 1932-16 Not less than 8 weeks but less than 12 weeks
+Not less than 8 weeks but less than 12 weeks
 
 2       “    “
 
@@ -152,9 +148,7 @@ Not less than 48 weeks
 
 9      “    “
 
-Employment EMPLOYMENT (ANNUAL AND PUBLIC HOLIDAYS) ORDER.
-
-Subsidiary 1968.12.17 1932-16 Not less than 12 weeks but less than 16 weeks
+Not less than 12 weeks but less than 16 weeks
 
 5      “    “
 
@@ -220,17 +214,15 @@ Not less than 48 weeks
 
 15  “    “
 
-18    “    “ Not less than 24 weeks but less than 28 weeks
+18    “    “
+
+Not less than 24 weeks but less than 28 weeks
 
 11    “    “
 
 13  “    “
 
-16    “    “
-
-Employment EMPLOYMENT (ANNUAL AND PUBLIC HOLIDAYS) ORDER.
-
-Subsidiary 1968.12.17 1932-16 Not less than 20 weeks but less than 24 weeks
+16    “    “ Not less than 20 weeks but less than 24 weeks
 
 9     “    “
 
@@ -268,7 +260,7 @@ Minimum Annual Holiday Entitlements for Employees with Eight or More Years Conti
 
 Period of employment preceding 1st January each year (i.e. during qualifying period)
 
-Duration of Annual Holiday for employees with eight or more years continuous service  conditioned to a week of:
+Duration of Annual Holiday for employees with eight or more years continuous service conditioned to a week of:
 
 5 days 5.5 days or 6 days 7 days
 
@@ -296,17 +288,15 @@ Not less than 48 weeks
 
 23  “    “
 
-26     “    “ Not less than 32 weeks but less than 36 weeks
+26     “    “
+
+Not less than 32 weeks but less than 36 weeks
 
 17   “    “
 
 20  “    “
 
-23    “    “
-
-Employment EMPLOYMENT (ANNUAL AND PUBLIC HOLIDAYS) ORDER.
-
-Subsidiary 1968.12.17 1932-16 Not less than 28 weeks but less than 32 weeks
+23    “    “ Not less than 28 weeks but less than 32 weeks
 
 15   “    “
 
