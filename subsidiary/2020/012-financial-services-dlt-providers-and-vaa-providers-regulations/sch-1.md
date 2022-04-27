@@ -17,3 +17,5 @@ SCHEDULE THE REGULATORY PRINCIPLES
 8. A DLT Provider must have systems in place to prevent, detect and disclose financial crime risks such as money laundering and terrorist financing.
 
 9. A DLT Provider must be resilient and have contingency arrangements for the orderly and solvent wind down of its business
+
+10. A DLT Provider must conduct itself in a manner which maintains or enhances the integrity of any markets in which it participates.
