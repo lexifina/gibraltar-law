@@ -22,17 +22,11 @@ VISITOR’S DRIVING PERMITS.
 
 3. (1)  Where a court disqualifies the holder of a driving permit from obtaining or holding a driving licence or orders particulars of a conviction to be endorsed on any driving licence held by him, the holder of such driving permit shall, if so required by the court, produce his driving permit within five days, or such longer time as the court may determine, and the court shall forward it to the Government.
 
-(2)  The Government on receiving a permit forwarded under sub- paragraph (1) of this paragraph–
+(2)  The Government on receiving a permit forwarded under sub-paragraph (1) of this paragraph–
 
 (a)  shall record particulars of the disqualification or endorsement on the permit;
 
 (b)  send the holder’s name and address, together with the said particulars, to the authority by whom the driving permit was issued; and
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 (c)  shall return the permit to the holder.
 
@@ -47,9 +41,3 @@ Subsidiary [1958.03.06]
 (b)  section 53(2) (which authorizes a police officer to arrest a driver committing certain offences unless the driver gives his name and address or produces his driving licence); and
 
 (c)  section 95(1) and (3) (which relate to the use of a driving licence by a person other than the holder and to forgery of such licence).
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]

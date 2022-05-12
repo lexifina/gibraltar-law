@@ -26,13 +26,7 @@ The overall security lies in the system in its entirety, consisting of the appli
 
 - card bodies shall be UV dull,
 
-- a security background pattern designed to be resistant to counterfeit by scanning, printing or copying, using rainbow printing with multicolour security inks and positive and negative guilloche printing. The pattern shall not be composed of the primary colours
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] (CMYK), shall contain complex pattern designs in a minimum of two special colours and shall include micro lettering,
+- a security background pattern designed to be resistant to counterfeit by scanning, printing or copying, using rainbow printing with multicolour security inks and positive and negative guilloche printing. The pattern shall not be composed of the primary colours (CMYK), shall contain complex pattern designs in a minimum of two special colours and shall include micro lettering,
 
 - optical variable elements providing adequate protection against copying and tampering of the photograph,
 
@@ -69,12 +63,6 @@ Page 1 shall contain:
 (a)  the words “Driving Licence” printed in large type in the language or languages of the EEA state issuing the licence;
 
 (b)  the name of the EEA state issuing the licence (optional);
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 (c)  the distinguishing sign of the EEA state issuing the licence, printed in negative in a blue rectangle and encircled by twelve yellow stars; the distinguishing signs shall be as follows:
 
@@ -120,12 +108,6 @@ A : Austria
 
 PL : Poland
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 P : Portugal
 
 SLO : Slovenia
@@ -146,7 +128,7 @@ UK : The United Kingdom;
 
 3. date and place of birth;
 
-4.            (a)  date of issue of the licence;
+4.        (a)   date of issue of the licence;
 
 (b) date of expiry of the licence or a dash if the licence is valid indefinitely under the provision of Article 7(2)(c);
 
@@ -164,13 +146,7 @@ UK : The United Kingdom;
 
 9. category of vehicle(s) the holder is entitled to drive (national categories shall be printed in a different type from harmonised categories);
 
-(e) the words “European Union model” in the language(s) of the EEA state issuing the licence and the words “Driving Licence”
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] in the other languages of the EEA states, printed in pink to form the background of the licence:
+(e) the words “European Union model” in the language(s) of the EEA state issuing the licence and the words “Driving Licence” in the other languages of the EEA states, printed in pink to form the background of the licence:
 
 Свидетелство за управление на МПС
 
@@ -216,15 +192,9 @@ Vozniško dovoljenje
 
 Ajokortti
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 Körkort;
 
-(f) Colour references:
+(f)  Colour references:
 
 - blue: Pantone Reflex Blue,
 
@@ -259,12 +229,6 @@ DRIVER (medical reasons)
 01.07. Specific optical aid
 
 02. Hearing aid/communication aid
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 03. Prosthesis/orthosis for the limbs
 
@@ -310,12 +274,6 @@ VEHICLE ADAPTATIONS
 
 20.13. Knee operated brake
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 20.14. Brake system operation supported by external force
 
 25. Modified accelerator system
@@ -356,11 +314,7 @@ Subsidiary [1958.03.06]
 
 33.02. Accelerator, service brake and steering as combined system operation by external force with two hands
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 35. Modified control layouts (lights switches, windscreen wiper/washer, horn, direction indicators, etc.)
+35. Modified control layouts (lights switches, windscreen wiper/washer, horn, direction indicators, etc.)
 
 35.02. Control devices operable without releasing the steering device
 
@@ -399,12 +353,6 @@ Subsidiary [1958.03.06] 35. Modified control layouts (lights switches, windscree
 43.01. Driver seat height for normal view and in normal distance from the steering wheel and the pedals
 
 43.02. Driver seat adapted to body shape
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 43.03. Driver seat with lateral support for good stability
 
@@ -446,12 +394,6 @@ Letters used in combination with codes 01 to 44 for further specification:
 
 a left
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 b right
 
 c hand
@@ -490,11 +432,7 @@ ADMINISTRATIVE MATTERS
 
 71. Duplicate of licence No … (EU/UN distinguishing sign in the case of a third country; for example “71.987654321.HR”)
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 73. Restricted to category B vehicles of the motor quadricycle type (B1)
+73. Restricted to category B vehicles of the motor quadricycle type (B1)
 
 78. Restricted to vehicles with automatic transmission
 
@@ -528,12 +466,6 @@ Where a code applies to all categories for which the licence is issued, it may b
 
 (*) This force indicates the driver's capability for operating the system;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 13. in implementation of section 4(a) of this Schedule, a space reserved for the possible entry by the host EEA state of information essential for administering the licence;
 
 14. a space reserved for the possible entry by the EEA state which issues the licence of information essential for administering the licence or related to road safety (optional). If the information relates to one of the headings defined in this Schedule, it should be preceded by the number of the heading in question.
@@ -542,7 +474,9 @@ With the specific written agreement of the holder, information which is not rela
 
 (b)  an explanation of the numbered items which appear on pages 1 and 2 of the licence (at least items 1, 2, 3, 4 (a), 4 (b), 4 (c), 5, 10, 11 and 12).
 
-If an EEA state wishes to make the entries in a national language other than one of the following languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovak, Slovenian, Spanish or Swedish, it shall draw up a bilingual version of the licence using one of the aforementioned languages, without prejudice to the other provisions of this Schedule;
+If an EEA state wishes to make the entries in a national language other than one of the following languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish,
+
+French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovak, Slovenian, Spanish or Swedish, it shall draw up a bilingual version of the licence using one of the aforementioned languages, without prejudice to the other provisions of this Schedule;
 
 (c)  a space shall be reserved on the European Union model driving licence to allow for the possible introduction of a microchip or similar computer device.
 
@@ -552,19 +486,9 @@ If an EEA state wishes to make the entries in a national language other than one
 
 (b)  After consulting the Commission, EEA States may add colours or markings, such as bar codes and national symbols, without prejudice to the other provisions of this Schedule.
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] In the context of mutual recognition of licences, the bar code may not contain information other than what can already be read on the driving licence or which is essential to the process of issuing the licence.
+In the context of mutual recognition of licences, the bar code may not contain information other than what can already be read on the driving licence or which is essential to the process of issuing the licence.
 
 (c) Information contained in the front and reverse side of the card shall be legible with the eye, using a minimum character height of 5 points for items 9 to 12 on the reverse side.
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 PART B Provisions concerning the model driving licence for the United Kingdom and Gibraltar after IP completion day
 
@@ -592,11 +516,7 @@ The overall security lies in the system in its entirety, consisting of the appli
 
 - optical variable elements providing adequate protection against copying and tampering of the photograph,
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] - laser engraving,
+- laser engraving,
 
 - in the area of the photograph the security design background and photograph should overlap on at least its border (weakening pattern).
 
@@ -632,11 +552,7 @@ Page 1 shall contain:
 
 (ba) the United Kingdom licence shall bear the flag of the United Kingdom;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] (c) the distinguishing sign of the United Kingdom or Gibraltar; the distinguishing signs are as follows
+(c) the distinguishing sign of the United Kingdom or Gibraltar; the distinguishing signs are as follows
 
 UK                      : The United Kingdom GBZ                    : Gibraltar
 
@@ -670,13 +586,7 @@ Page 2 shall contain:
 
 (a) 9. category of vehicle(s) the holder is entitled to drive (national categories shall be printed in a different type from harmonised categories);
 
-10.  date of first issue of each category (this date must be repeated on the new licence in the event of subsequent replacement or exchange) each field
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] of the date shall be written with two digits and in the following sequence: day.month.year (DD.MM.YY);
+10.  date of first issue of each category (this date must be repeated on the new licence in the event of subsequent replacement or exchange) each field of the date shall be written with two digits and in the following sequence: day.month.year (DD.MM.YY);
 
 11.  date of expiry of each category each field of the date shall be written with two digits and in the following sequence: day.month.year (DD.MM.YY);
 
@@ -718,12 +628,6 @@ VEHICLE ADAPTATIONS
 
 15. Modified clutch
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 15.01. Adapted clutch pedal
 
 15.02. Hand operated clutch
@@ -768,12 +672,6 @@ Subsidiary [1958.03.06]
 
 25.08. Accelerator pedal on the left
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 25.09. Measure to prevent obstruction or actuation of accelerator pedal
 
 31. Pedal adaptations and pedal safeguards
@@ -809,12 +707,6 @@ Subsidiary [1958.03.06]
 35.05. Control devices operable without releasing the steering device and the accelerator and braking mechanisms
 
 40. Modified steering
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 40.01. Steering with maximum operation force of … N (*) (for example “40.01(140N)”)
 
@@ -860,12 +752,6 @@ Subsidiary [1958.03.06]
 
 44.03. Adapted rear wheel brake
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 44.04. Adapted accelerator
 
 44.08. Seat height allowing the driver, in sitting position, to have two feet on the surface at the same time and balance the motorcycle during stopping and standing.
@@ -892,9 +778,7 @@ a left
 
 b right
 
-c hand
-
-d foot
+c hand d foot
 
 e middle
 
@@ -904,11 +788,7 @@ g thumb
 
 LIMITED USE CODES
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 61. Limited to day time journeys (for example: one hour after sunrise and one hour before sunset)
+61. Limited to day time journeys (for example: one hour after sunrise and one hour before sunset)
 
 62. Limited to journeys within a radius of … km from holder's place of residence or only inside city/region
 
@@ -944,12 +824,6 @@ ADMINISTRATIVE MATTERS
 
 79.03. Restricted to tricycles
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 79.04. Restricted to tricycles combined with a trailer having a maximum authorised mass not exceeding 750 kg
 
 79.05. Category A1 motorcycle with a power/weight ratio above 0,1 kW/kg
@@ -978,12 +852,6 @@ Where a code applies to all categories for which the licence is issued, it may b
 
 With the specific written agreement of the holder, information which is not related to the administration of the driving licence or road safety may also be added in this space; such addition shall not alter in any way the use of the model as a driving licence;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 (b) an explanation of the numbered items which appear on pages 1 and 2 of the licence (at least items 1, 2, 3, 4 (a), 4 (b), 4 (c), 5, 10, 11 and 12).
 
 (c) a space shall be reserved on the model driving licence to allow for the possible introduction of a microchip or similar computer device.
@@ -997,15 +865,3 @@ Subsidiary [1958.03.06]
 In the context of mutual recognition of licences, the bar code may not contain information other than what can already be read on the driving licence or which is essential to the process of issuing the licence.
 
 (c) Information contained in the front and reverse side of the card shall be legible with the eye, using a minimum character height of 5 points for items 9 to 12 on the reverse side.
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]

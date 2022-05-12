@@ -22,12 +22,6 @@ Dimensions Length 111mm Width 45mm
 
 Character Size Colour Height 20mm white Width 11mm white Stroke 4mm white Space between letters 3mm blue
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 In the case of Export Vehicles Expiry Date
 
 Colour
@@ -46,12 +40,6 @@ Space between figures 5mm
 
 Dividing Line 1mm
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 DIAGRAM  1
 
 Dimensions
@@ -69,12 +57,6 @@ Side Margin 5mm Numbers 25mm
 Top & Bottom
 
 Margin 4.5mm
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 DIAGRAM  2
 
@@ -96,12 +78,6 @@ Top & Bottom Dimensions
 
 Margin 13mm Length 90mm Width 45mm
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 DIAGRAM  3 (REAR PLATE OF MOTORCYCLES ONLY)
 
 Dimensions
@@ -114,11 +90,7 @@ Characters to Black Border
 
 10mm Character Size Height 45mm Space between Width 30mm Numbers 10mm Stroke 9mm Space between Letters & Numbers 20mm Top & Bottom Dimensions Margin 13mm Length 75mm Width 45mm
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] DIAGRAM  4
+DIAGRAM  4
 
 Dimensions
 
@@ -133,12 +105,6 @@ Character Size Characters to Black Border
 Width 50mm Space between 11mm Stroke 14mm Numbers Side Margin 5mm Space between 25mm Letters & Numbers
 
 Top & Bottom Dimensions Length 111mm Margin 4.5mm Width 45mm
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 DIAGRAM  5
 
@@ -164,12 +130,6 @@ Dimensions
 
 Margin 13mm Length 90mm Width 45mm
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 DIAGRAM  6 (REAR PLATE OF MOTORCYCLES ONLY)
 
 Dimensions
@@ -181,12 +141,6 @@ Length 228mm Width 3mm Width 165mm
 Characters to Black Border
 
 10mm Character Size Height 45mm Space between Width 30mm Numbers 10mm Stroke 9mm Space between Letters & Numbers 20mm Top & Bottom Dimensions Margin 13mm Length 75mm Width 45mm
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 DIAGRAM  7 (Dealer Licence Plates)
 
@@ -211,9 +165,3 @@ Numbers and letters shall be equally spaced between the black border. No number 
 PART 2
 
 MANADATORY CHARACTER FONTS
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]

@@ -34,11 +34,7 @@ Any applicant for a licence in one category who has passed a theory test for a l
 
 2.1.3. The road:
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] - the most important principles concerning the observance of a safe distance between vehicles, braking distances and road holding under various weather and road conditions,
+- the most important principles concerning the observance of a safe distance between vehicles, braking distances and road holding under various weather and road conditions,
 
 - driving risk factors related to various road conditions, in particular as they change with the weather and the time of day or night,
 
@@ -68,12 +64,6 @@ Subsidiary [1958.03.06] - the most important principles concerning the observanc
 
 2.1.9. Rules regarding vehicle use in relation to the environment (appropriate use of audible warning devices, moderate fuel consumption, limitation of pollutant emissions, etc.).
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
-
 3. Specific provisions concerning categories A1, A2 and A
 
 3.1. Compulsory check of general knowledge on:
@@ -102,15 +92,11 @@ Subsidiary [1958.03.06]
 
 4.1.7. Obstruction of the field of view caused by the characteristics of their vehicles;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 4.1.8. Reading a road map, route planning, including the use of electronic navigation systems (optional);
+4.1.8. Reading a road map, route planning, including the use of electronic navigation systems (optional);
 
 4.1.9. Safety factors relating to vehicle loading: controlling the load (stowing and fastening), difficulties with different kinds of load (e.g. liquids, hanging loads, …), loading and unloading goods and the use of loading equipment (categories C, CE, C1, C1E only);
 
-4.1.10. The driver's responsibility in respect to the carriage of passengers; comfort and safety of passengers; transport of children; necessary checks before driving away; all sorts of buses should be part of the theory test (public service buses and coaches, buses with special dimensions,   ) (categories D, DE, D1, D1E only).
+4.1.10. The driver's responsibility in respect to the carriage of passengers; comfort and safety of passengers; transport of children; necessary checks before driving away; all sorts of buses should be part of the theory test (public service buses and coaches, buses with special dimensions,) (categories D, DE, D1, D1E only).
 
 4.1a. The Government may exempt applicants to a licence for a category C1 or C1E vehicle outside the scope of Regulation (EU) No 165/2014 from demonstrating their knowledge of the subjects listed in points 4.1.1 to 4.1.3.
 
@@ -132,11 +118,7 @@ Subsidiary [1958.03.06] 4.1.8. Reading a road map, route planning, including the
 
 4.2.8. The driver’s responsibility in respect of the receipt, carriage and delivery of goods in accordance with the agreed conditions (categories C, CE only).
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] B. TEST OF SKILLS AND BEHAVIOUR
+B. TEST OF SKILLS AND BEHAVIOUR
 
 5.1. Vehicle transmission
 
@@ -150,17 +132,13 @@ Without prejudice to point 5.1.3, if an applicant takes the test of skills and b
 
 Specific provisions concerning vehicles of category C, CE, D and DE
 
-The Government may decide that no restriction to vehicles with automatic transmission shall be recorded on the driving licence for a category C, CE, D or DE vehicle referred to in point 5.1.2, when the applicant already holds a driving licence obtained on a vehicle with manual transmission in at least one of the following categories: B, BE, C, CE, C1, C1E, D, DE, D1 or D1E, and has performed the actions described in point 8.4 during the test of skills and behaviour. 5.2. The vehicles used in tests of skills and behaviour shall comply with the minimum criteria given below.  The Government may make provisions for more stringent criteria or add others.  The Licensing Authority may apply to vehicles of category A1, A2 and A, used in the test of skills and behaviour, a tolerance of 5 cm3 below the required minimum cylinder capacity.
+The Government may decide that no restriction to vehicles with automatic transmission shall be recorded on the driving licence for a category C, CE, D or DE vehicle referred to in point 5.1.2, when the applicant already holds a driving licence obtained on a vehicle with manual transmission in at least one of the following categories: B, BE, C, CE, C1, C1E, D, DE, D1 or D1E, and has performed the actions described in point 8.4 during the test of skills and behaviour.
 
-Category A1:
+5.2. The vehicles used in tests of skills and behaviour shall comply with the minimum criteria given below.  The Government may make provisions for more stringent criteria or add others.  The Licensing Authority may apply to vehicles of category A1, A2 and A, used in the test of skills and behaviour, a tolerance of 5 cm3 below the required minimum cylinder capacity. Category A1:
 
 Category A1 motorcycle without sidecar, with a power rating not exceeding 11 kW and with a power to weight ratio not exceeding 0,1 kW/kg, and capable of a speed of at least 90 km/h.
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] If the motorcycle is powered by an internal combustion engine, the cylinder capacity of the engine shall be at least 120 cm3.
+If the motorcycle is powered by an internal combustion engine, the cylinder capacity of the engine shall be at least 120 cm3.
 
 If the motorcycle is powered by an electric motor, the power to weight ratio of the vehicle shall be at least 0,08 kW/kg;
 
@@ -188,13 +166,7 @@ A four-wheeled category B vehicle capable of a speed of at least 100 km/h;
 
 Category BE:
 
-A combination, made up of a category B test vehicle and a trailer with a maximum authorised mass of at least 1 000 kg, capable of a speed of at least 100 km/h, which does not fall within category B; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the motor vehicle; the closed box body may also be slightly less wide than the motor vehicle provided that the view to the rear is only
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
+A combination, made up of a category B test vehicle and a trailer with a maximum authorised mass of at least 1 000 kg, capable of a speed of at least 100 km/h, which does not fall within category B; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the motor vehicle; the closed box body may also be slightly less wide than the motor vehicle provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
 
 Category B1:
 
@@ -202,7 +174,7 @@ A motor-powered quadricycle capable of a speed of at least 60 km/h;
 
 Category C:
 
-A category C vehicle with a maximum authorised mass of at least 12 000 kg, a length of at least 8 m, a width of at least 2,40 m and capable of a speed of at least 80 km/h; fitted with anti-lock brakes, equipped with a transmission system providing for a manual selection of gears by the driver and recording equipment as defined by Regulation (EU) No 165/2014; the cargo compartment shall consist of a closed box body which is at least as wide and as high as the cab; the vehicle shall be presented with a minimum of 10 000 kg real total mass;
+A category C vehicle with a maximum authorised mass of at least 12 000 kg, a length of at least 8 m, a width of at least 2,40 m and capable of a speed of at least 80 km/h; fitted with anti- lock brakes, equipped with a transmission system providing for a manual selection of gears by the driver and recording equipment as defined by Regulation (EU) No 165/2014; the cargo compartment shall consist of a closed box body which is at least as wide and as high as the cab; the vehicle shall be presented with a minimum of 10 000 kg real total mass;
 
 Category CE:
 
@@ -214,13 +186,7 @@ A subcategory C1 vehicle with a maximum authorised mass of at least 4 000 kg, wi
 
 Category C1E:
 
-A combination made up of a subcategory C1 test vehicle and a trailer with a maximum authorised mass of at least 1 250 kg; this combination shall be at least 8 m in length and capable of a speed of at least 80 km/h; the cargo compartment of the trailer shall consist of a closed box body which is at
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] least as wide and as high as the cab; the closed box body may also be slightly less wide than the cab provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
+A combination made up of a subcategory C1 test vehicle and a trailer with a maximum authorised mass of at least 1 250 kg; this combination shall be at least 8 m in length and capable of a speed of at least 80 km/h; the cargo compartment of the trailer shall consist of a closed box body which is at least as wide and as high as the cab; the closed box body may also be slightly less wide than the cab provided that the view to the rear is only possible by use of the external rear-view mirrors of the motor vehicle; the trailer shall be presented with a minimum of 800 kg real total mass;
 
 Category D:
 
@@ -244,11 +210,7 @@ Testing vehicles for categories BE, C, CE, C1, C1E, D, DE, D1 and D1E which are 
 
 6.1. Preparation and technical check of the vehicle with a bearing on road safety
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] Applicants must demonstrate that they are capable of preparing to ride safely by satisfying the following requirements:
+Applicants must demonstrate that they are capable of preparing to ride safely by satisfying the following requirements:
 
 6.1.1. Adjust the protective outfit, such as gloves, boots, clothes and safety helmet;
 
@@ -268,7 +230,9 @@ Subsidiary [1958.03.06] Applicants must demonstrate that they are capable of pre
 
 6.3. Behaviour in traffic
 
-Applicants must perform all the following actions in normal traffic situations, in complete safety and taking all necessary precautions: 6.3.1. Riding away: after parking, after a stop in traffic; exiting a driveway;
+Applicants must perform all the following actions in normal traffic situations, in complete safety and taking all necessary precautions:
+
+6.3.1. Riding away: after parking, after a stop in traffic; exiting a driveway;
 
 6.3.2. Riding on straight roads; passing oncoming vehicles, including in confined spaces;
 
@@ -276,11 +240,7 @@ Applicants must perform all the following actions in normal traffic situations, 
 
 6.3.4. Crossroads: approaching and crossing of intersections and junctions;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 6.3.5. Changing direction: left and right turns; changing lanes;
+6.3.5. Changing direction: left and right turns; changing lanes;
 
 6.3.6. Approach/exit of motorways or similar (if available): joining from the acceleration lane; leaving on the deceleration lane;
 
@@ -306,15 +266,13 @@ Applicants must demonstrate that they are capable of preparing to drive safely b
 
 7.1.5. Checking the safety factors relating to vehicle loading: body, sheets, cargo doors, cabin locking, way of loading, securing load (category BE only);
 
-7.1.6. Checking the coupling mechanism and the brake and electrical connections (category BE only). 7.2. Categories B and B1: special manoeuvres to be tested with a bearing on road safety
+7.1.6. Checking the coupling mechanism and the brake and electrical connections (category BE only).
+
+7.2. Categories B and B1: special manoeuvres to be tested with a bearing on road safety
 
 A selection of the following manoeuvres shall be tested (at least two manoeuvres for the four points, including one in reverse gear):
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 7.2.1. Reversing in a straight line or reversing right or left round a corner while keeping within the correct traffic lane;
+7.2.1. Reversing in a straight line or reversing right or left round a corner while keeping within the correct traffic lane;
 
 7.2.2. Turning the vehicle to face the opposite way, using forward and reverse gears;
 
@@ -346,11 +304,7 @@ Applicants must perform all the following actions in normal traffic situations, 
 
 7.4.6. Approach/exit of motorways or similar (if available): joining from the acceleration lane; leaving on the deceleration lane;
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 7.4.7. Overtaking/passing: overtaking other traffic (if possible); driving alongside obstacles, e.g. parked cars; being overtaken by other traffic (if appropriate);
+7.4.7. Overtaking/passing: overtaking other traffic (if possible); driving alongside obstacles, e.g. parked cars; being overtaken by other traffic (if appropriate);
 
 7.4.8. Special road features (if available): roundabouts; railway level crossings; tram/bus stops; pedestrian crossings; riding up-/downhill on long slopes; tunnels;
 
@@ -377,12 +331,6 @@ Applicants must demonstrate that they are capable of preparing to drive safely b
 8.1.7. Checking the coupling mechanism and the brake and electrical connections (categories CE, C1E, DE, D1E only);
 
 8.1.8. Being capable of taking special vehicle safety measures; controlling the body, service doors, emergency exits, first aid equipment, fire extinguishers and other safety equipment (categories D, DE, D1, D1E only);
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
 
 8.1.9. Reading a road map, route planning, including the use of electronic navigation systems (optional).
 
@@ -414,11 +362,7 @@ Applicants must perform all the following actions in normal traffic situations, 
 
 8.3.7. Overtaking/passing: overtaking other traffic (if possible); driving alongside obstacles, e.g. parked cars; being overtaken by other traffic (if appropriate);
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] 8.3.8. Special road features (if available): roundabouts; railway level crossings; tram/bus stops; pedestrian crossings; riding up-/downhill on long slopes; tunnels;
+8.3.8. Special road features (if available): roundabouts; railway level crossings; tram/bus stops; pedestrian crossings; riding up-/downhill on long slopes; tunnels;
 
 8.3.9. Taking the necessary precautions when alighting from the vehicle.
 
@@ -436,13 +380,7 @@ Driving examiners must be trained to assess correctly the applicants’ ability 
 
 9.3. The driving examiner will furthermore assess whether the applicant is:
 
-9.3.1. Controlling the vehicle; taking into account: proper use of safety belts, rear-view mirrors, head restraints; seat; proper use of lights and other equipment; proper use of clutch, gearbox, accelerator, braking systems (including third braking system, if available), steering; controlling the vehicle under different circumstances, at different speeds; steadiness on the
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] road; the weight and dimensions and characteristics of the vehicle; the weight and type of load (categories BE, C, CE, C1, C1E, DE, D1E only); the comfort of the passengers (categories D, DE, D1, D1E only) (no fast acceleration, smoothly driving and no hard braking);
+9.3.1. Controlling the vehicle; taking into account: proper use of safety belts, rear-view mirrors, head restraints; seat; proper use of lights and other equipment; proper use of clutch, gearbox, accelerator, braking systems (including third braking system, if available), steering; controlling the vehicle under different circumstances, at different speeds; steadiness on the road; the weight and dimensions and characteristics of the vehicle; the weight and type of load (categories BE, C, CE, C1, C1E, DE, D1E only); the comfort of the passengers (categories D, DE, D1, D1E only) (no fast acceleration, smoothly driving and no hard braking);
 
 9.3.2. Driving economically and in a safe and energy-efficient way, taking into account the revolutions per minute, changing gears, braking and accelerating (categories B, BE, C, CE, C1, C1E, D, DE, D1, D1E only);
 
@@ -464,13 +402,7 @@ Subsidiary [1958.03.06] road; the weight and dimensions and characteristics of t
 
 10. Length of the test
 
-The length of the test and the distance travelled must be sufficient to assess the skills and behaviour laid down in paragraph B of this Schedule. In no
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] circumstances should the time spent driving on the road be less than 25 minutes for categories A, A1, A2, B, B1 and BE and 45 minutes for the other categories. This does not include the reception of the applicant, the preparation of the vehicle, the technical check of the vehicle with a bearing on road safety, the special manoeuvres and the announcement of the outcome of the practical test.
+The length of the test and the distance travelled must be sufficient to assess the skills and behaviour laid down in paragraph B of this Schedule. In no circumstances should the time spent driving on the road be less than 25 minutes for categories A, A1, A2, B, B1 and BE and 45 minutes for the other categories. This does not include the reception of the applicant, the preparation of the vehicle, the technical check of the vehicle with a bearing on road safety, the special manoeuvres and the announcement of the outcome of the practical test.
 
 11. Location of the test
 
@@ -492,14 +424,4 @@ Drivers of all power-driven vehicles must at any moment have the knowledge, skil
 
 - Help ensure the safety of all road users, and in particular of the weakest and most exposed by showing due respect for others.
 
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06] The Government may implement the appropriate measures to ensure that drivers who have lost the knowledge, skills and behaviour as described under points 1 to 9 can recover this knowledge and these skills and will continue to exhibit such behaviour required for driving a motor vehicle.
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
+The Government may implement the appropriate measures to ensure that drivers who have lost the knowledge, skills and behaviour as described under points 1 to 9 can recover this knowledge and these skills and will continue to exhibit such behaviour required for driving a motor vehicle.

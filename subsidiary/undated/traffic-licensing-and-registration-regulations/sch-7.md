@@ -14,11 +14,11 @@ DESCRIPTION OF DOCUMENTS WHICH MAY BE ISSUED AFTER HOURS.
 
 (q)  Certificates of fitness.
 
-(r) Duplicate certificates of fitness.
+(r)  Duplicate certificates of fitness.
 
-(s) Driving licences.
+(s)  Driving licences.
 
-(t) Renewed driving licences.
+(t)  Renewed driving licences.
 
 (u)  Duplicate driving licences.
 
@@ -33,9 +33,3 @@ DESCRIPTION OF DOCUMENTS WHICH MAY BE ISSUED AFTER HOURS.
 (z) international driving permit.
 
 Numbers and letters shall be equally spaced between the black border. No number plate fixing bolt shall alter the appearance of the letters or numbers.
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]

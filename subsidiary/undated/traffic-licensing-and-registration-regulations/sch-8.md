@@ -1,6 +1,6 @@
 SCHEDULE 8
 
-MINIMUM REQUIREMENTS FOR DRIVER TRAINING AND TESTING FOR COMBINATIONS AS DEFINED IN SECTION 31(1) (HEADING CATEGORY B-SUBPARAGRAPH (I)
+MINIMUM REQUIREMENTS FOR DRIVER TRAINING AND TESTING FOR COMBINATIONS AS DEFINED IN SECTION 31(1) (HEADING CATEGORY B- SUBPARAGRAPH (I)
 
 1. The Government shall−
 
@@ -25,9 +25,3 @@ A practical component shall include the following exercises: acceleration, decel
 4. Duration and contents of the test of skills and behavior
 
 The length of the test and the distance travelled must be sufficient to assess the skills and behaviour laid down in point 3.
-
-Traffic TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS.
-
-2005-26
-
-Subsidiary [1958.03.06]
