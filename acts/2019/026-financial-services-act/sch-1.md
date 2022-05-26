@@ -302,9 +302,11 @@ Part 2 References to EU Regulations
 
 “Regulation (EU) No 231/2013” means Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision;
 
+“Regulation (EU) No 1031/2010” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of
+
 Financial Services 2019-26
 
-“Regulation (EU) No 1031/2010” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community;
+greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community;
 
 “the REMIT Regulation” means Regulation (EU) No 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency; and
 
@@ -326,9 +328,11 @@ Part 3 References to EU Directives
 
 “the Bank Accounts Directive” means Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions;
 
+“the Capital Requirements Directive” means Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms,
+
 2019-26 Financial Services
 
-“the Capital Requirements Directive” means Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending directive 2002/87/EC and repealing directives 2006/48/EC and 2006/49/EC;
+amending directive 2002/87/EC and repealing directives 2006/48/EC and 2006/49/EC;
 
 “the Consumer Credit Directive” means Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers;
 
@@ -346,11 +350,9 @@ Part 3 References to EU Directives
 
 “the E-Money Directive” means Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC;
 
-“the Financial Conglomerates Directive” means Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC,
+“the Financial Conglomerates Directive” means Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council;
 
 Financial Services 2019-26
-
-92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council;
 
 “the Insurance Accounts Directive” means Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings;
 
@@ -372,9 +374,9 @@ Financial Services 2019-26
 
 “the Payment Accounts Directive” means Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features;
 
-2019-26 Financial Services
-
 “the Payment Services Directive” means Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC;
+
+2019-26 Financial Services
 
 “the Professional Qualifications Directive” means Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications;
 

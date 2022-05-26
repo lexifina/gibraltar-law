@@ -36,7 +36,7 @@ GFSC’s powers.
 
 (e) require–
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (i) existing recordings of telephone conversations, electronic communications or data traffic records held by regulated firms which are investment firms, credit institutions or financial institutions; or
 
@@ -70,7 +70,7 @@ GFSC’s powers.
 
 Sanctions for certain contraventions.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 4.(1)  The GFSC may take any of the steps in section 153 or 154 or paragraphs 5 to 8 if it is satisfied that a person has–
 
@@ -112,7 +112,7 @@ Prohibition order.
 
 (c) from dealing in financial instruments on the person’s own account.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (2)  A prohibition order–
 
@@ -150,7 +150,7 @@ Administrative penalties.
 
 (c) in the case of an individual, for a contravention of–
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (i) Article 14 or 15 of the Market Abuse Regulation, EUR 5,000,000;
 
@@ -182,7 +182,7 @@ Exercise of powers.
 
 (6)  The GFSC must take one of the steps in subsection (7) where–
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (a) following an obligatory prior assessment, it considers that it would be disproportionate to publish the identity of the person, or personal data of an individual or details of a sanctioning action from which such person could be identified; or
 
@@ -214,7 +214,7 @@ Reporting of contraventions.
 
 (4)  The GFSC must treat information about the identity of a person who reports a contravention as confidential, except where its disclosure is necessary for the purpose of any further investigations or subsequent judicial proceedings.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (5)  Regulated firms must establish appropriate internal procedures for their employees to report contraventions.
 
@@ -226,4 +226,4 @@ Financial Services 2019-26
 
 (7)  An employee who has been subjected to a detriment contrary to sub-paragraph (6)(b) may present a complaint to the Employment Tribunal as if the reporting of a contravention was a protected disclosure within the meaning of Part IVA of the Employment Act.
 
-2019-26 Financial Services
+Financial Services 2019-26

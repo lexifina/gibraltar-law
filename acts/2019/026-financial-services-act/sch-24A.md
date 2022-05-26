@@ -34,7 +34,7 @@ Statements by experts.
 
 2.(1)  A person (“P”) is not liable under section 346E for loss in respect of any securities caused by an expert statement if P satisfies the court–
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 (a) that, at the time when the prospectus was submitted to the GFSC, P reasonably believed that the other person–
 
@@ -70,7 +70,7 @@ Correction of statements.
 
 (b) that P took all reasonable steps to secure such publication and reasonably believed that it had taken place before the securities were acquired.
 
-Financial Services 2019-26
+2019-26 Financial Services
 
 (2)  This paragraph applies without affecting paragraph 1.
 
@@ -110,8 +110,8 @@ False or misleading information known about.
 
 Belief that supplementary prospectus not called for.
 
-2019-26 Financial Services
+Financial Services 2019-26
 
 7.  A person (“P”) is not liable under section 346E if P satisfies the court that P reasonably believed that the change or new matter in question was not such as to call for supplementary prospectus.
 
-Financial Services 2019-26
+2019-26 Financial Services

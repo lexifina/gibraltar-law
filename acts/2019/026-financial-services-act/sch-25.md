@@ -26,9 +26,11 @@ Requirements equivalent to section 360(7).
 
 Requirements equivalent to sections 359(2)(c) and 360(2)(c).
 
-2019-26 Financial Services
+3.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 359(2)(c) and 360(2)(c) where, under the law of that
 
-3.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 359(2)(c) and 360(2)(c) where, under the law of that country, a person or persons within the issuer are responsible for the annual and half-yearly financial information and, in particular, for–
+Financial Services 2019-26
+
+country, a person or persons within the issuer are responsible for the annual and half-yearly financial information and, in particular, for–
 
 (a) the compliance of the financial statements with the applicable reporting framework or set of accounting standards; and
 
@@ -56,9 +58,11 @@ Requirements equivalent to section 359(3)(b).
 
 Requirements equivalent to section 366(11).
 
-Financial Services 2019-26
+6.(1)  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those in section 366(11) where, under the law of that country, the time period
 
-6.(1)  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those in section 366(11) where, under the law of that country, the time period within which an issuer whose registered office is in that third country must be notified of major holdings and within which it must disclose to the public those major holdings is in total equal to or shorter than seven trading days.
+2019-26 Financial Services
+
+within which an issuer whose registered office is in that third country must be notified of major holdings and within which it must disclose to the public those major holdings is in total equal to or shorter than seven trading days.
 
 (2)  The time frames for the notification to the issuer and for the subsequent disclosure to the public by the issuer may be different from those set out in sections 366(2) and (11).
 
@@ -80,13 +84,11 @@ Requirements equivalent to section 371.
 
 Requirements equivalent to sections 373(3)(a) and 374(2)(c)(i).
 
-9.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 373(3)(a) and 374(2)(c)(i), as far as the content of the information about meetings is concerned, where, under the law of that country, an issuer
-
-2019-26 Financial Services
-
-whose registered office is in that third country is required to provide at least information on the place, time and agenda of meetings.
+9.  For the purposes of section 379(1), a third country is to be treated as setting requirements equivalent to those set out in sections 373(3)(a) and 374(2)(c)(i), as far as the content of the information about meetings is concerned, where, under the law of that country, an issuer whose registered office is in that third country is required to provide at least information on the place, time and agenda of meetings.
 
 Equivalence in relation to the test of independence for parent undertakings of management companies and investment firms.
+
+Financial Services 2019-26
 
 10.(1)  For the purposes of section 379(5), a third country is to be treated as setting requirements equivalent to those set out in section 366(7) and (9) where, under the law of that country, a management company or investment firm as referred to in section 379(5) is required to meet the following conditions–
 
@@ -98,8 +100,8 @@ Equivalence in relation to the test of independence for parent undertakings of m
 
 (a) comply with the notification requirements set out in section 367(2)(a) and (3); and
 
-(b) make a statement that, in the case of each management company or investment firm concerned, the parent undertaking complies with the conditions set out in sub-paragraph (1).
+(b) make a statement that, in the case of each management company or investment firm concerned, the parent undertaking complies with the conditions set out in sub- paragraph (1).
 
 (3)  Without limiting section 380, where the issuer’s registered office is in Gibraltar the parent undertaking must be able to demonstrate to the GFSC, on request, that the requirements set out in section 367(4) are respected.
 
-Financial Services 2019-26
+2019-26 Financial Services
