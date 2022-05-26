@@ -26,8 +26,6 @@ Changes and events relating to key individuals.
 
 2.(1)  Subject to sub-paragraph (2), a market operator must notify the GFSC if any person is to become or has ceased to be–
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
-
 (a) the chair of the market operator;
 
 (b) the chief executive of the market operator;
@@ -62,8 +60,6 @@ Changes and events relating to key individuals.
 
 (c) has initiated bankruptcy, winding-up, sequestration or similar proceedings;
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
 (d) has been refused authorisation (however described) under any legislation relating to financial services or had authorisation of that kind suspended or revoked;
 
 (e) has been the subject of any disciplinary measure or sanction imposed by a regulatory or professional body in relation to the individual’s professional or business activities; or
@@ -94,11 +90,9 @@ Changes to constitution.
 
 (3)  The market operator must notify the GFSC of–
 
-(a) any change made as a result of the proposals notified under sub-paragraph (1)(a) and the subsequent consideration  and approval by members; and
+(a) any change made as a result of the proposals notified under sub-paragraph (1)(a) and the subsequent consideration and approval by members; and
 
 (b) the date from which those changes took or will take effect.
-
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 Auditors.
 
@@ -132,8 +126,6 @@ Investments listed or dealt on the regulated market.
 
 8.(1)  A market operator must notify the GFSC of any financial instrument to be traded when it is given permission to manage or operate the business of a regulated market or when the investment is first admitted to trading.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
 (2)  The market operator must notify the GFSC of any proposed change in the type of investments admitted to trading.
 
 (3)  The market operator must notify the GFSC when trading in any type of financial instrument is discontinued or suspended, other than where a particular trading limit has been reached.
@@ -165,8 +157,6 @@ Suspension, expulsion and resignation from membership.
 (c) in the case of a suspension, its duration; and
 
 (d) any other action taken by the market operator in relation to the member concerned.
-
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 (3)  Where a person who has been expelled or suspended appeals against expulsion or suspension, the market operator must notify the GFSC of the appeal and its outcome.
 
@@ -206,8 +196,6 @@ Default of exchange member.
 
 (b) the reasons for the action;
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
 (c) the name of the clearance system on which the member clears business; and
 
 (d) where appropriate, a summary of the member’s open positions, collateral liability and cash and collateral balances in respect of the member’s client account and other accounts.
@@ -239,8 +227,6 @@ Complaints.
 (ii) any clearing arrangements made by the market operator;
 
 (iii) the conduct of a member of the regulated market in relation to its dealings on the market;
-
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 (b) the total number of those complaints–
 
@@ -278,8 +264,6 @@ Fees and Charges.
 
 Annual accounting reference date.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
 18.  A market operator must notify the GFSC of any change in the market operator’s annual accounting reference date.
 
 Insolvency and legal proceedings.
@@ -314,8 +298,6 @@ Disciplinary action.
 
 (3)  Where a person appeals against any disciplinary action, the market operator must notify the GFSC of the appeal and its outcome.
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
-
 Offences.
 
 21.  A market operator must notify the GFSC on becoming aware that any person who is or was formerly a member or employee of the regulated market–
@@ -328,4 +310,4 @@ Investor protection.
 
 22.(1)  A market operator must notify the GFSC immediately if any event occurs or circumstances arise which make it impossible or impracticable (for however short a period of time) for the market operator to continue to satisfy the requirements of this Schedule.
 
-(2)  A notification under sub-paragraph (1) must specify the event or circumstances  and the action which is being or has been taken by the market operator  to deal with the situation.
+(2)  A notification under sub-paragraph (1) must specify the event or circumstances and the action which is being or has been taken by the market operator to deal with the situation.

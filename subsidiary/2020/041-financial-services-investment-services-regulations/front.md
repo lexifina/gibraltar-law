@@ -1,8 +1,6 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1), 623 and 627 of, and paragraphs 6 and 7 of Schedule 10.
 
-FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
+Financial Services (Investment Services) Regulations 2020
 
 LN.2020/041
 
@@ -16,9 +14,9 @@ LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-1
 
 1.1.2021 2021/493 rr. 2(1), 14(1), 51(1), 70, 73(b), 76(1)(a), 99(3)(aa), 101(1), (a), (2), 111(2), (5)-(7), 112(1), 113(1)-(2), 114(1)(b), 123(1), (b), (3), (a)(i), (4)
 
-1.1.2022
+1.1.2022 2022/131 rr. 1(3), 2(3), 32(2), 36(19), 38(3)(d)-(l), (3A), 40(8)(a)(iv), (9), (16)(b), 42(7), (12), (13)(b), (15)(d)-(e), 46(18)(b), 54(7), 58(18), 99(4)(a), 106(3), 122(3)
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
+26.5.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -40,11 +38,9 @@ Chapter 2 Investment firms
 
 Chapter 3 Regulated markets
 
-20. General requirements: regulated markets and market operators. 21. Financial resources.
+20. General requirements: regulated markets and market operators.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
-22. Market operator operating an MTF or OTF.
+21. Financial resources. 22. Market operator operating an MTF or OTF.
 
 PART 3 CONDUCT OF BUSINESS
 
@@ -72,9 +68,9 @@ Investor protection: general principles
 
 Inducements
 
-37. Inducements. 38. Inducements: advice on independent basis or portfolio management. 39. Inducements in relation to research.
+37. Inducements. 38. Inducements: advice on independent basis or portfolio management.
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
+39. Inducements in relation to research.
 
 Provisions to ensure investor protection
 
@@ -96,11 +92,9 @@ Chapter 1 Investment firms
 
 Chapter 2 Regulated markets
 
-58. Requirements for management body of market operator. 59. Requirements relating to persons exercising significant influence over regulated market. 60. Organisational requirements: regulated markets.
+58. Requirements for management body of market operator.
 
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
-61. Access to regulated market. 62. Monitoring compliance with regulated market rules and other legal obligations. 62A. Complaints. 62B. Co-operation with GFSC and Government. 62C. General notification obligations.
+59. Requirements relating to persons exercising significant influence over regulated market. 60. Organisational requirements: regulated markets. 61. Access to regulated market. 62. Monitoring compliance with regulated market rules and other legal obligations. 62A. Complaints. 62B. Co-operation with GFSC and Government. 62C. General notification obligations.
 
 Chapter 3 Specific requirements for trading venues
 
@@ -124,9 +118,9 @@ Regulated markets
 
 PART 6 NOTIFICATION AND REPORTING
 
-72. Management body. 73. Duty to notify changes. 74. Notification of controllers etc. 75. Reports by external auditors. 76. Relations with auditors. 77. Reporting of contraventions.
+72. Management body. 73. Duty to notify changes. 74. Notification of controllers etc.
 
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
+75. Reports by external auditors. 76. Relations with auditors. 77. Reporting of contraventions.
 
 PART 7 THIRD COUNTRY FIRMS
 
@@ -148,15 +142,13 @@ PART 9 MISCELLANEOUS
 
 Monitoring compliance
 
-114. GFSC duties to monitor compliance by investment firms. 115. GFSC duties to monitor compliance by regulated markets. 116. to 121 Omitted. 122. Cooperation agreements with third countries.
+114. GFSC duties to monitor compliance by investment firms. 115. GFSC duties to monitor compliance by regulated markets. 116. to 121 Omitted.
+
+122. Cooperation agreements with third countries.
 
 Confidentiality and exchange of information
 
-123. Professional secrecy.
-
-Financial Services 2019-26 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020 2020/041
-
-124. Omitted.
+123. Professional secrecy. 124. Omitted.
 
 Conduct of investment services in United Kingdom
 
@@ -165,7 +157,5 @@ Conduct of investment services in United Kingdom
 SCHEDULE 1 PROFESSIONAL CLIENTS
 
 SCHEDULE 2 NOTIFICATIONS OF EVENTS AND CIRCUMSTANCES
-
-2019-26 Financial Services 2020/041 FINANCIAL SERVICES (INVESTMENT SERVICES) REGULATIONS 2020
 
 In exercise of the powers conferred on the Minister by sections 6(1), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1), 623 and 627 of, and paragraphs 6 and 7 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
