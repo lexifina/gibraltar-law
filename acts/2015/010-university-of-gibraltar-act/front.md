@@ -1,20 +1,20 @@
-University of Gibraltar
-
-2015-10
-
-UNIVERSITY OF GIBRALTAR ACT 2015
+University of Gibraltar Act 2015
 
 Principal Act
 
-Act. No.  2015-10 Commencement (see LN. 2015/103) 2.7.2015
+Act. No. 2015-10 Commencement (LN.2015/103) 2.7.2015
 
 Assent 1.4.2015
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2022-02 ss. 2, 8(1), 9(1), 11(2), (3)(b)-(c), 13(3), 15-16, 18(2)(e)-(f), (h)(i)-(ii), (k), 19, 21-22, 44(1)(a), 56(2)
+
+27.5.2022
 
 ARRANGEMENT OF SECTIONS
 
-Sections.
+Section
 
 1. Short title and commencement.
 
@@ -38,15 +38,13 @@ Part 5 Chancellor
 
 9. Chancellor. 10. Vacancy in office of chancellor.
 
-University of Gibraltar
-
-2015-10
-
 Part 6 Governance
 
 Vice-chancellor and Registrar
 
-11. Powers of vice-chancellor. 12. Suspension or dismissal of staff member. 13. Suspension or expulsion of student. 14. Duties of vice-chancellor. 15. Registrar. 16. Acting registrar.
+11. Powers of vice-chancellor. 12. Suspension or dismissal of staff member. 13. Suspension or expulsion of student. 14. Duties of vice-chancellor. 15. Registrar.
+
+16. Acting registrar.
 
 Board of Governors
 
@@ -68,10 +66,6 @@ Part 7 Interim governing arrangements
 
 33. Initial governing authority. 34. Powers and duties of initial governing authority.
 
-University of Gibraltar
-
-2015-10
-
 Part 8 Financing and investments
 
 35. Annual grant etc. 36. Expenditures. 37. General borrowing. 38. Short term borrowing. 39. Investments.
@@ -91,5 +85,3 @@ Part 11 Quality Assurance and Regulatory Authority
 Part 12 Miscellaneous
 
 50. Use of name and coat of arms, etc. 51. No liability for acts of students. 52. Limitation of liability. 53. Execution of documents. 54. Charitable status. 55. Offences. 56. Power to make subordinate legislation.
-
-University of Gibraltar
