@@ -10,7 +10,7 @@ GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
 
 Commencement 1.7.2009
 
-Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012
+Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
 
@@ -54,16 +54,38 @@ SCHEDULE Regulation 2
 
 Table ‘A’ – Ship Registration Fees
 
-SHIP REGISTRATION FEES Fee £ Application to register a ship ( Full/Bareboat/Under Construction) 550 Application for provisional registration 450 Registration following provisional registration 350 Application for extension of provisional registration 200 Application for annual renewal of registration 110 Application for re-issue of certificate of bareboat registration 275 Transfer of registry 350 Application to change name of ship 350 Transfer of ownership 350 Recording / Discharge / Transfer of  mortgage 200 Endorsement of counterpart of recorded mortgage 200 Application for issue/re-issue of Certificate of Permission 200 Issue of Certificate of Deletion 110 Issue of Duplicate Certificate 110 Restoration of registration 110 Transcript of register 110 Alteration of registered particulars 110 Inspection of register 50 Letter of Consent 50 Administration/office hourly fee ( not involving Surveyors) 65 CLC / Bunker Certificate 65
+SHIP REGISTRATION FEES Fee £ Application to register a ship (Full/Bareboat/Under Construction) 660 Administration fee for initial registration 520 Application for provisional registration 540 Registration following provisional registration 420 Application for extension of provisional registration 240 Application for renewal of registration 660 Application for re-issue of certificate of bareboat registration 330 Transfer of registry 420 Application to change name of ship 420 Transfer of ownership 420 Recording/Discharge/Transfer of mortgage 240 Endorsement of counterpart of recorded mortgage 240 Application for issue/re-issue of Certificate of Permission 240 Issue of Certificate of Deletion 240 Issue of Duplicate Certificate 132 Restoration of registration 132 Transcript of register 132 Alteration of registered particulars 132 Inspection of register 60 Letter of Consent 60 Administration/office hourly fee (not involving Surveyors) 65 CLC/Bunker Certificate/Wreck Convention Certificate (Gibraltar registered vessel) 78 Wreck Convention Certificate (Non Gibraltar registered vessel) 250
 
-Table ‘B’ – Seafarers’ Certification & Services Fees
+Table ‘B’ – Seafarers’ Certification & Service Fees
 
-SEAFARERS
-
-Fee £ Issue of Record of Sea Service (Discharge Book) 110 Gibraltar Endorsement for Master or Chief Engineer Officer 65 Gibraltar Endorsement for ONW / OEW 65 Gibraltar Endorsement for Chief Mate / Second 65
+SEAFARERS Fee £ Issue of Record of Sea Service (Discharge Book) 132 Gibraltar Endorsement for Master or Chief Engineer 78
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
 
 1995-12
 
-Subsidiary 2009/032 Engineer Officer Watchrating/Ship’s Cook/Able seaman Certificate/Dispensation 65 Tanker Endorsement  (without Gibraltar Endorsement) 40 Tanker Endorsement  (with Gibraltar Endorsement) 40 Tanker Familiarisation Certificate/Revalidation 40 Article of Agreement for Gibraltar-registered ship 20 Duplicate (re-issue) of endorsement 40 Boatmaster Examination (full) 70 Boatmasters Examination (if the exam is only on local knowledge) 50 Boatmaster Certificate 40 Marine Engine Operator Examination 65 Marine Engine Operator Certificate 40
+Subsidiary 2009/032 Officer Gibraltar Endorsement for OOW (Nav) / OOW (Eng) 78 Gibraltar Endorsement for Chief Mate / Second Engineer Officer 78 Watch rating/Ship’s Cook/Able Seaman Certificate/Dispensation 78 Tanker Endorsement (without Gibraltar Endorsement) 48 Tanker Endorsement (with Gibraltar Endorsement) 48 Revalidation/extension of a certificate/endorsement 48 Duplicate (re-issue) of endorsement 48 Boat master Examination (full) 228 Boat master Certificate 48 Marine Engine Operator Examination 228 Marine Engine Operator Certificate 48
+
+Annual Tonnage Tax
+
+1.  An Annual Tonnage Tax (ATT) shall be due and paid in respect of every ship registered, other than a ship of less than 24 metres registered length or under 150 gross registered tons which is plying in the Port of Gibraltar and licensed by the port authority under the Port Act.
+
+2.  The ATT shall be payable in advance before the first day of January of the year in respect of which it is due.
+
+3.  The ATT fee would be payable on a pro-rata basis by any vessel registered after the 1st of January, on a daily basis. For example, a vessel of 2400 GT registering on the 1st December would pay a pro-rata fee of £169.86 on registration (i.e. £2,000 ÷ 365 x 31 days).
+
+4.  The ATT, based on the vessel’s Gross Tonnage (GT), shall be payable at the following rates–
+
+Table 1 Vessel Tonnage (Gross Tons) Annual Tonnage Tax Up to 3000 GT £ 2,000 3000 to 10,000 GT £ 2,500 10,000 to 50,000 GT £ 4,000 50,000 to 100,000 GT £ 5,000 Over 100,000 GT £ 6,000
+
+5.  The fees and tonnage tax payable and paid shall not be refundable.
+
+Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
+
+1995-12
+
+Subsidiary 2009/032 DISCOUNTS
+
+(a) Multiple vessel registration discounts
+
+A discount of the ATT per vessel annually (payable on 1st January) is available to owners who register multiple ships with the Gibraltar ship register. The discounts applied will be as specified in Table 2 below–
