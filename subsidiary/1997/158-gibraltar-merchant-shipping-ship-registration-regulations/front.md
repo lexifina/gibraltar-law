@@ -1,24 +1,18 @@
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
+Subsidiary Legislation made under ss.5, 6, 10, 11, 14, 17, 25, 32, 33, and 86.
 
-1995-12
+Gibraltar Merchant Shipping (Ship Registration) Regulations l997
 
-Subsidiary 1997/158 Regulations made under ss. 5, 6, 10, 11, 14, 17, 25, 32, 33, and 86.
+LN.1997/158
 
-GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
+Commencement 22.12.1997
 
-(LN. 1997/158)
+Amending enactments Relevant current provisions Commencement date
 
-22.12.1997
+LN. 2005/087 Sch. 1 1.7.2005 2016/006 r. 27(2)(f), Sch. 1 14.1.2016 2020/432 rr. 2, 2A-2C, 4(3A), 18(1A), (2)(c), 19(c), 27(1A)- (1B), 28(3), 34(1A), (2)(b), 35(b), 36(1), Schs.2-3, 9
 
-Amending enactments Relevant current provisions Commencement date LN. 2005/087 Sch. 1 1.7.2005 2016/006 r. 27(2)(f), Sch. 1 14.1.2016 2020/432 rr. 2, 2A-2C, 4(3A), 18(1A), (2)(c), 19(c), 27(1A)-(1B), 28(3), 34(1A), (2)(b), 35(b), 36(1), Sch. 2-3, 9
+1.1.2021 2021/112 r. 2C(1) 1.1.2021 2022/138 r. 2, Sch. 1, 3 1.6.2022
 
-1.1.2021 2021/112 r. 2C(1) 1.1.2021
-
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
-
-1995-12
-
-Subsidiary 1997/158 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -46,12 +40,6 @@ PART V. SHIP NAMES AND MARKINGS.
 
 PART VI. REFUSAL OF REGISTRATION AND REMOVAL FROM A REGISTER.
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
-
-1995-12
-
-Subsidiary 1997/158
-
 15. Refusal of registration and removal from a register. 16. Prohibited ships.
 
 PART VII. PROVISIONAL AND FULL REGISTRATION ON THE REGISTER.
@@ -60,13 +48,9 @@ PART VII. PROVISIONAL AND FULL REGISTRATION ON THE REGISTER.
 
 PART VIII. BAREBOAT REGISTRATION.
 
-33. Application of Part VIII. 34. Application for bareboat registration. 35. Declaration by or on behalf of bareboat charterers. 36. Bareboat registration. 37. Certificate of Bareboat Registry. 38. Period of bareboat registration. 39. Retention of documents on bareboat registration. 40. Application of the Act and these Regulations to ships bareboat registered. 41. Application for transfer of bareboat registration. 42. Closure of bareboat registration on transfer. 43. Notification of and declaration of transfer of ownership of ship bareboat chartered. 44. Notice of change in status of bareboat charterer. 45. Change of bareboat charterer. 46. Issue of certificate of deletion of bareboat registration.
+33. Application of Part VIII. 34. Application for bareboat registration. 35. Declaration by or on behalf of bareboat charterers. 36. Bareboat registration. 37. Certificate of Bareboat Registry. 38. Period of bareboat registration. 39. Retention of documents on bareboat registration. 40. Application of the Act and these Regulations to ships bareboat registered. 41. Application for transfer of bareboat registration. 42. Closure of bareboat registration on transfer. 43. Notification of and declaration of transfer of ownership of ship bareboat chartered.
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
-
-1995-12
-
-Subsidiary 1997/158
+44. Notice of change in status of bareboat charterer. 45. Change of bareboat charterer. 46. Issue of certificate of deletion of bareboat registration.
 
 PART IX. CERTIFICATE OF PERMISSION.
 
@@ -84,28 +68,20 @@ PART XII. OFFENCES AND PENALTIES.
 
 56. Offences and penalties.
 
-SCHEDULE 1 Fees, charges and taxes
+SCHEDULE 1 Omitted
 
 SCHEDULE 2 relevant countries
 
 SCHEDULE 3 Accepted classification societies
 
-SCHEDULE 4 Entry of provisional registration and provisional certificate of registry
+SCHEDULE 4
+
+Entry of provisional registration and provisional certificate of registry
 
 SCHEDULE 5 Entry of registration and certificate of registry
 
-SCHEDULE 6
-
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
-
-1995-12
-
-Subsidiary 1997/158 Entry of bareboat registration and certificate of bareboat registry
+SCHEDULE 6 Entry of bareboat registration and certificate of bareboat registry
 
 SCHEDULE 7 Entry of ship under construction registration and certificate of registry of ship under construction
 
 SCHEDULE 8 Provisions applicable to transitional ships
-
-SCHEDULE 9 Approved countries
-
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (SHIP REGISTRATION) REGULATIONS 1997
