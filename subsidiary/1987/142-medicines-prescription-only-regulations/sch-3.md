@@ -42,10 +42,6 @@ Lodoxomide 10ml
 
 Nedocromil Sodium
 
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25
-
 Sodium Cromoglicate
 
 Azelastine Hydrochloride
@@ -90,10 +86,6 @@ Age Related Macula Degeneration
 
 Blepharitis
 
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25
-
 Repeat prescriptions for Chronic Ocular Disease where the original therapy has been initiated and followed by a Consultant Ophthalmologist, with the guidance issued by the Consultant Ophthalmologist of the Gibraltar Health Authority.
 
 PART III
@@ -105,10 +97,6 @@ Medicines specified in the GHA Paramedics Formulary from the Gibraltar National 
 PART IV
 
 Exemptions from the restriction on administration of prescription only medicines
-
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25
 
 Column 1
 

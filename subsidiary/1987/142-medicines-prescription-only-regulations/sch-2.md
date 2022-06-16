@@ -30,9 +30,7 @@ PARTICULARS TO BE INCLUDED IN A PATIENT GROUP DIRECTION
 
 (l) the frequency of administration;
 
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25 (m) any minimum or maximum period of administration applicable to prescription only medicines of that description or class;
+(m) any minimum or maximum period of administration applicable to prescription only medicines of that description or class;
 
 (n) whether there are any relevant warnings to note, and, if so, what warnings;
 
@@ -61,7 +59,3 @@ PART III
 (a) paramedics;
 
 (b) anyone deemed by the Director of Public Health to be competent who meets the additional requirements set out in the direction.
-
-Medical and Health MEDICINES (PRESCRIPTION ONLY) REGULATIONS, 1987
-
-Subsidiary 1987/142 1997-25
