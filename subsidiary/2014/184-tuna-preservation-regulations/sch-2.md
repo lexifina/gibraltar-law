@@ -2,7 +2,7 @@ SCHEDULE 2
 
 DECLARATION
 
-I [insert name] being the holder of Tuna Fishing Permit [insert permit details] make  the following declaration-
+I [insert name] being the holder of Tuna Fishing Permit [insert permit details] make the following declaration-
 
 On [insert date] whilst fishing from motor vessel [insert vessel name and registration number] landed the following tuna-
 
