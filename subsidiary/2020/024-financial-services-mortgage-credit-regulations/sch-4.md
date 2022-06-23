@@ -22,8 +22,6 @@ PART 1 GENERAL RULES
 
 PART 2 ACCOUNTING PRINCIPLES AND RULES
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
 7.(1)  The amounts to be included in respect of all items shown in the annual financial statements of a regulated firm must be determined in accordance with the Companies Act 2014 and either Gibraltar Financial Reporting Standards or UK-adopted international accounting standards within the meaning of section 237(1) of the Companies Act 2014.
 
 (2)  Sub-paragraph (1) is subject to regulation 44.

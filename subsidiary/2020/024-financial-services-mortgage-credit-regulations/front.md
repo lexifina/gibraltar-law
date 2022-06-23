@@ -1,20 +1,14 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 24(3)(v), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10.
 
-FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
+Financial Services (Mortgage Credit) Regulations 2020
 
 LN.2020/024
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date LN.2020/494 rr. 3(1), 9(6)(c), 12(8), 14(7)(b)-(c), (8), (b)-(c), 15(3), 16(6), 20(3), (5), 21(2), 22(2)(b), 24(2)(c), (3), 25(6)(a)-(b), (8), 29(7)(a), (8), 31(7), 32(1), (3), 43(1), (3), 64-69, 74, Sch. 1, 2, 4
 
-LN.2020/494 rr. 3(1), 9(6)(c), 12(8), 14(7)(b)-(c), (8), (b)-(c), 15(3), 16(6), 20(3), (5), 21(2), 22(2)(b), 24(2)(c), (3), 25(6)(a)-(b), (8), 29(7)(a), (8), 31(7), 32(1), (3), 43(1), (3), 64-69, 74, Sch. 1, 2, 4
-
-1.1.2021 2022/188 Sch.4 1.1.2021
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
+1.1.2021 2022/188 Sch.4 1.1.2021 2022/153 rr. 3(1), 58, 72(2), Sch.1 23.6.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -48,8 +42,6 @@ Appointed representatives
 
 12. Appointed representatives. 13. Exemption from general prohibition.
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
 Registration and supervision of exclusively-tied mortgage credit intermediaries and appointed representatives
 
 14. Registration of exclusively-tied mortgage credit intermediaries and appointed representatives. 15. Supervision of exclusively-tied mortgage credit intermediaries and appointed representatives. 16. Revocation of registration.
@@ -76,8 +68,6 @@ Database access
 
 32. Database access.
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
 Mortgage advisory services
 
 33. Standards for mortgage advisory services.
@@ -101,8 +91,6 @@ Financial statements
 47. Duty to prepare annual financial statements. 48. Balance sheet to give a true and fair view. 49. Profit and loss account to give a true and fair view. 50. Form and content of financial statements. 51. Annual financial statements to be submitted to meeting of partners, etc. 52. Additional requirement in case of sole proprietor. 53. Annual financial statements to be submitted to GFSC.
 
 Audit requirements
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
 
 54. Regulated firm to obtain auditor’s report, etc. 55. Contents of auditor’s report. 56. Qualified reports.
 
@@ -128,10 +116,6 @@ SCHEDULE 2 EUROPEAN STANDARDISED INFORMATION SHEET (ESIS)
 
 SCHEDULE 3 MINIMUM KNOWLEDGE AND COMPETENCE REQUIREMENTS
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
 SCHEDULE 4 FORM AND CONTENT OF FINANCIAL STATEMENTS
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
 
 In exercise of the powers conferred upon the Minister under sections 6(1), 24(3)(v), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and upon the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made these Regulations.

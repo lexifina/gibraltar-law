@@ -30,9 +30,7 @@ Remarks:
 
 (b) The starting date shall be that of the first drawdown.
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
-(c) Intervals between dates used in the calculations shall be expressed in years or in fractions of a year. A year is presumed to have 365 days (or 366 days for leap years), 52 weeks or 12 equal months. An equal month is presumed to have 30,41666 days (i.e. 365/12) regardless of whether or not it is a leap year.
+(c) Intervals between dates used in the calculations shall be expressed in years or in fractions of a year. A year is presumed to have 365 days (or 366 days for leap years), 52 weeks or 12 equal months. An equal month is presumed to have 30.4166 days (i.e. 365/12) regardless of whether or not it is a leap year.
 
 Where intervals between dates used in the calculations cannot be expressed as a whole number of weeks, months or years, the intervals shall be expressed as a whole number of one of those periods in combination with a number of days. Where using days–
 
@@ -52,11 +50,7 @@ II. Additional assumptions for the calculation of the APRC.
 
 (a) If a credit agreement gives the consumer freedom of drawdown, the total amount of credit shall be deemed to be drawn down immediately and in full.
 
-(b) If a credit agreement provides different ways of drawdown with different charges or borrowing rates, the total amount of credit shall be deemed to be drawn down
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
-at the highest charge and borrowing rate applied to the most common drawdown mechanism for this type of credit agreement.
+(b) If a credit agreement provides different ways of drawdown with different charges or borrowing rates, the total amount of credit shall be deemed to be drawn down at the highest charge and borrowing rate applied to the most common drawdown mechanism for this type of credit agreement.
 
 (c) If a credit agreement gives the consumer freedom of drawdown in general but imposes, amongst the different ways of drawdown, a limitation with regard to the amount of credit and period of time, the amount of credit shall be deemed to be drawn down on the earliest date provided for in the credit agreement and in accordance with those drawdown limits.
 
@@ -72,11 +66,7 @@ at the highest charge and borrowing rate applied to the most common drawdown mec
 
 (ii) if the interval between the date of initial drawdown and the date of the first payment to be made by the consumer cannot be ascertained, it shall be assumed to be the shortest interval.
 
-(h) Where the date or amount of a payment to be made by the consumer cannot be ascertained on the basis of the credit agreement or the assumptions set out in
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
-points (g), (i), (j), (k), (l) and (m) it shall be assumed that the payment is made in accordance with the dates and conditions required by the creditor and, when these are unknown–
+(h) Where the date or amount of a payment to be made by the consumer cannot be ascertained on the basis of the credit agreement or the assumptions set out in points (g), (i), (j), (k), (l) and (m) it shall be assumed that the payment is made in accordance with the dates and conditions required by the creditor and, when these are unknown–
 
 (i) interest charges are paid together with the repayments of the capital;
 
@@ -94,11 +84,7 @@ points (g), (i), (j), (k), (l) and (m) it shall be assumed that the payment is m
 
 (i) for credit agreements, the purpose of which is to acquire or retain rights in immovable property the credit is provided for a period of 20 years starting from the date of the initial drawdown, and that the final payment made by the consumer clears the balance of capital, interest and other charges, if any; in the case of credit agreements the purpose of which is not to acquire or retain rights in immovable property or which are drawn down by deferred debit cards or credit cards, this period shall be of one year;
 
-(ii) the capital is repaid by the consumer in equal monthly payments, commencing one month after the date of the initial drawdown. However, in cases where the capital must be repaid only in full, in a single payment, within each payment period, successive drawdowns and repayments of the entire capital by the consumer shall be assumed to occur over the
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
-period of one year. Interest and other charges shall be applied in accordance with those drawdowns and repayments of capital and as provided for in the credit agreement.
+(ii) the capital is repaid by the consumer in equal monthly payments, commencing one month after the date of the initial drawdown. However, in cases where the capital must be repaid only in full, in a single payment, within each payment period, successive drawdowns and repayments of the entire capital by the consumer shall be assumed to occur over the period of one year. Interest and other charges shall be applied in accordance with those drawdowns and repayments of capital and as provided for in the credit agreement.
 
 For the purposes of this point, an open-ended credit agreement is a credit agreement without fixed duration and includes credits which must be repaid in full within or after a period but, once repaid, become available to be drawn down again.
 
@@ -113,5 +99,3 @@ For the purposes of this point, an open-ended credit agreement is a credit agree
 (i) the payments by consumers shall be deemed to occur at the latest date or dates permitted under the credit agreement;
 
 (ii) percentage increases in value of the immovable property which secures the shared equity credit agreement, and the rate of any inflation index referred to in the agreement, shall be assumed to be a percentage equal to the higher of the current central bank target inflation rate or the level of inflation in the country where the immovable property is located at the time of conclusion of the credit agreement or 0% if those percentages are negative.
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024

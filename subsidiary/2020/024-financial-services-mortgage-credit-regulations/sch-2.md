@@ -30,8 +30,6 @@ The information below remains valid until [validity date], (where applicable) ap
 
 (Where applicable) This document does not constitute an obligation for [name of mortgage creditor] to grant you a loan.
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
 1. Lender [Name]
 
 [Telephone number]
@@ -50,8 +48,6 @@ The information below remains valid until [validity date], (where applicable) ap
 
 [We recommend, having assessed your needs and circumstances, that you take out this mortgage.][We are not recommending a particular mortgage for you. However, based on your answers to some questions, we are giving you information about this mortgage so that you can make your own choice.] 2. (Where applicable) Mortgage credit intermediary
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
 [Name]
 
 [Telephone number]
@@ -69,8 +65,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 (Where applicable [information as to whether mortgage advisory services are being provided]) [(We recommend, having assessed your needs and circumstances, that you take out this mortgage./We are not recommending a particular mortgage for you. However, based on your answers to some questions, we are giving you information about this mortgage so that you can make your own choice.)]
 
 [Remuneration] 3. Main features of the loan
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 Amount and currency of the loan to be granted: [value][currency]
 
@@ -99,8 +93,6 @@ This means that you will pay back [amount] for every [unit of the currency] borr
 (Where applicable) Maximum available loan amount relative to the value of the property [insert ratio] or Minimum value of the property required to borrow the illustrated amount [insert amount]
 
 (Where applicable) [Security] 4. Interest rate and other costs
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
 
 The annual percentage rate of charge (APRC) is the total cost of the loan expressed as an annual percentage. The APRC is provided to help you to compare different offers.
 
@@ -132,8 +124,6 @@ Please make sure that you are aware of all other taxes and costs associated with
 
 Number of payments: [number]
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
 6. Amount of each instalment [Amount] [currency]
 
 Your income may change. Please consider whether you will still be able to afford your [frequency] repayment instalments if your income falls.
@@ -146,15 +136,13 @@ Your income may change. Please consider whether you will still be able to afford
 
 (Where applicable) The exchange rate used for converting your repayment in [credit currency] to sterling will be the rate published by [name of institution publishing exchange rate] on [date] or will be calculated on [date] using [insert name of benchmark or method of calculation].
 
-(Where applicable) [Details on tied savings products, deferred-interest loans] 7. (Where applicable) Illustrative repayment table This table shows the amount to be paid every [frequency].
+(Where applicable) [Details on tied savings products, deferred-interest loans] 7. (Where applicable) Illustrative repayment table
+
+This table shows the amount to be paid every [frequency].
 
 The instalments (column [relevant no.]) are the sum of interest to be paid (column [relevant no.]), where applicable, capital paid (column [relevant no.]) and, where applicable, other costs (column [relevant no.]). (Where applicable) The costs in the other costs column relate to [list of costs]. Outstanding capital (column [relevant no.]) is the amount of the loan that remains to be reimbursed (repaid) after each instalment.
 
-[Table]
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
-8. Additional obligations The borrower must comply with the following obligations in order to benefit from the lending conditions described in this document.
+[Table] 8. Additional obligations The borrower must comply with the following obligations in order to benefit from the lending conditions described in this document.
 
 [Obligations]
 
@@ -166,15 +154,13 @@ Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 (Where applicable) [Conditions] (Where applicable) Exit charge (Early repayment charge): [insert amount or, where not possible, the method of calculation]
 
-(Where applicable) Should you decide to repay this loan early, please contact us to ascertain the exact level of the exit charge (early repayment charge) at that moment. 10. Flexible features (Where applicable) [Information on portability/subrogation] You have the possibility to (the right to) transfer this loan to another [lender][or] [property]. [Insert conditions]
+(Where applicable) Should you decide to repay this loan early, please contact us to ascertain the exact level of the exit charge (early repayment charge) at that moment. 10. Flexible features
+
+(Where applicable) [Information on portability/subrogation] You have the possibility to (the right to) transfer this loan to another [lender][or] [property]. [Insert conditions]
 
 (Where applicable) You do not have the possibility to (the right to) transfer this loan to another [lender] [or] [property].
 
-(Where applicable) Additional features: [insert explanation of additional features listed in Part 2 and, optionally, any other features offered by the lender as part of the mortgage credit agreement not referred to in previous sections]. 11. Other rights of the borrower You have [length of reflection period] after [point in time when the reflection period begins] to reflect before committing yourself to taking out this loan.
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
-12. Complaints If you have a complaint please contact [insert internal contact point and source of information on procedure].
+(Where applicable) Additional features: [insert explanation of additional features listed in Part 2 and, optionally, any other features offered by the lender as part of the mortgage credit agreement not referred to in previous sections]. 11. Other rights of the borrower You have [length of reflection period] after [point in time when the reflection period begins] to reflect before committing yourself to taking out this loan. 12. Complaints If you have a complaint please contact [insert internal contact point and source of information on procedure].
 
 (Where applicable) Maximum time for handling the complaint [period of time]
 
@@ -184,15 +170,15 @@ Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 Should you encounter difficulties in making your [frequency] payments, please contact us straight away to explore possible solutions.
 
-(Where applicable) As a last resort, your home may be repossessed if you do not keep up with payments. (Where applicable) 14. Additional information (Where applicable) [Indication of the law applicable to the credit contract].
+(Where applicable) As a last resort, your home may be repossessed if you do not keep up with payments. (Where applicable) 14. Additional information
+
+(Where applicable) [Indication of the law applicable to the credit contract].
 
 (Where the lender intends to use a language different from the language of the ESIS) Information and contractual terms will be supplied in [language]. With your consent, we intend to communicate in [language/s] during the duration of the mortgage credit agreement.
 
 [Insert statement on right to be provided with or offered, as applicable, a draft mortgage credit agreement] 15. Supervisor This lender is supervised by [Name(s), and web address(es) of supervisory authority/ies]
 
 (Where applicable) This mortgage credit intermediary is supervised by [Name and web address of supervisory authority].
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
 
 Part 2 Instructions to complete the ESIS
 
@@ -222,8 +208,6 @@ Introductory text.
 
 (3)  Indication of the telephone number, e-mail address and web address of the representative of the credit provider is optional.
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
 (4)  Where Section 2 is not applicable, the mortgage creditor must inform the consumer whether mortgage advisory services are being provided and on what basis using the wording in Part 1.
 
 2.  Mortgage credit intermediary (where applicable).
@@ -244,15 +228,11 @@ Where the product information is being provided to the consumer by a mortgage cr
 
 (1)  This section must clearly explain the main characteristics of the credit, including the value and currency and the potential risks associated with the borrowing rate, including the ones referred to in point (8), and amortisation structure.
 
-(2)  Where the credit currency is different from the national currency of the consumer, the mortgage creditor must indicate that the consumer will receive a regular warning at least when the exchange rate fluctuates by more than 20 %, where applicable the right to convert the currency of the mortgage credit agreement or to the possibility to renegotiate the conditions and any other arrangements available to the consumer to limit their exposure to
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
-exchange rate risk. Where there is a provision in the mortgage credit agreement to limit the exchange rate risk, the mortgage creditor must indicate the maximum amount the consumer could have to pay back. Where there is no provision in the mortgage credit agreement to limit the exchange rate risk to which the consumer is exposed to a fluctuation in the exchange rate of less than 20 %, the mortgage creditor must indicate an illustration of the effect of a 20 % fall in the value of consumer’s national currency relative to the credit currency on the value of the credit.
+(2)  Where the credit currency is different from the national currency of the consumer, the mortgage creditor must indicate that the consumer will receive a regular warning at least when the exchange rate fluctuates by more than 20 %, where applicable the right to convert the currency of the mortgage credit agreement or to the possibility to renegotiate the conditions and any other arrangements available to the consumer to limit their exposure to exchange rate risk. Where there is a provision in the mortgage credit agreement to limit the exchange rate risk, the mortgage creditor must indicate the maximum amount the consumer could have to pay back. Where there is no provision in the mortgage credit agreement to limit the exchange rate risk to which the consumer is exposed to a fluctuation in the exchange rate of less than 20 %, the mortgage creditor must indicate an illustration of the effect of a 20 % fall in the value of consumer’s national currency relative to the credit currency on the value of the credit.
 
 (3)  The duration of the credit must be expressed in years or months, whichever is the most relevant. Where the duration of the credit can vary during the lifetime of the contract, the mortgage creditor must explain when and under which conditions this can occur. Where the credit is open-ended, for example, for a secured credit card, the mortgage creditor must clearly state that fact.
 
-(4) The type of credit must be clearly indicated (e.g. mortgage credit, home loan, secured credit card). The description of the type of credit must clearly indicate how the capital and the interest must be reimbursed during the life of the credit (i.e. the amortisation structure), specifying clearly whether the mortgage credit agreement is on capital repayment or interest- only basis, or a mixture of the two.
+(4) The type of credit must be clearly indicated (e.g. mortgage credit, home loan, secured credit card). The description of the type of credit must clearly indicate how the capital and the interest must be reimbursed during the life of the credit (i.e. the amortisation structure), specifying clearly whether the mortgage credit agreement is on capital repayment or interest-only basis, or a mixture of the two.
 
 (5)  Where all or part of the credit is an interest-only credit, a statement clearly indicating that fact must be inserted prominently at the end of this section using the wording in Part 1.
 
@@ -264,11 +244,7 @@ The formula used to revise the borrowing rate and its different components (e.g.
 
 (8)  The ‘total amount to be reimbursed (repaid)’ corresponds to the total amount payable by the consumer. It must be shown as the sum of the credit amount and the total cost of the credit to the consumer. Where the borrowing rate is not fixed for the duration of the contract, it must be highlighted that this amount is illustrative and may vary in particular in relation with the variation in the borrowing rate.
 
-(9)  Where the credit will be secured by a mortgage on the immovable property or another comparable security or by a right related to immovable property, the mortgage creditor must
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
-draw the consumer’s attention to this. Where applicable the mortgage creditor must indicate the assumed value of the immovable property or other security used for the purpose of preparing this information sheet.
+(9)  Where the credit will be secured by a mortgage on the immovable property or another comparable security or by a right related to immovable property, the mortgage creditor must draw the consumer’s attention to this. Where applicable the mortgage creditor must indicate the assumed value of the immovable property or other security used for the purpose of preparing this information sheet.
 
 In order for the mortgage creditor to comply with the principle of ‘clear, fair and not misleading’, where the assumed value is not a value provided by the consumer, the valuation must be a reasonable assessment based on all the facts available at the time.
 
@@ -290,8 +266,6 @@ In order for the mortgage creditor to comply with the principle of ‘clear, fai
 
 (ii) where the lender has made a binding offer for an initial amount, the initial amount; and
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
 (iii) where the lender’s binding offer for an initial amount has been replaced by a binding offer for a larger amount, the larger amount.
 
 4. Interest rate and other costs.
@@ -305,8 +279,6 @@ Where the borrowing rate is variable the information must include: (a) the assum
 Where there is a cap on the borrowing rate, the example must assume that the borrowing rate rises at the earliest possible opportunity to the highest level foreseen in the mortgage credit agreement. Where there is no cap the example must illustrate the APRC at the highest borrowing rate in at least the last 20 years, or where the underlying data for the calculation of the borrowing rate is available for a period of less than 20 years the longest period for which such data is available, based on the highest value of any external reference rate used in calculating the borrowing rate where applicable or the highest value of a benchmark rate specified by the GFSC where the mortgage creditor does not use an external reference rate. Such requirement must not apply to mortgage credit agreements where the borrowing rate is fixed for a material initial period of several years and may then be fixed for a further period following negotiation between the mortgage creditor and the consumer.
 
 For mortgage credit agreements where the borrowing rate is fixed for a material initial period of several years and may then be fixed for a further period following negotiation between the mortgage creditor and the consumer, the information must include a warning that the APRC is calculated on the basis of the borrowing rate for the initial period. The warning must be accompanied by an additional, illustrative APRC calculated in accordance with regulation 28(5). Where credits are multi-part credits (e.g. concurrently part fixed rate, part variable rate), the information must be given for each part of the credit. Where credits are multi-part credits, the mortgage creditor must calculate and provide the additional illustrative APRC once in respect of the entire mortgage credit agreement.
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 (3)  The benchmark rate is the difference in percentage points between the Bank of England’s base rate on the date the ESIS is issued and the highest value of the Bank of England’s base rate over at least the last 20 years, added to the borrowing rate shown in the ESIS.
 
@@ -324,33 +296,19 @@ In the event of a scenario in column (1) in the table immediately below, the mor
 
 NB: A mortgage creditor’s standard variable rate is not to be used as an external reference rate (ERR)
 
-Mortgage with an interest-rate cap Calculate the APRC based on the borrowing rate rising at the earliest possible opportunity to the level of the cap.
+Mortgage with an interest-rate cap Calculate the APRC based on the borrowing rate rising at the earliest possible opportunity to the level of the cap. Where the product is not linked to an ERR Use the benchmark rate. Mortgage creditor uses an ERR and has 20 years of data relating to the margin applied by the mortgage creditor Use the highest ERR in the previous 20 years, and apply the highest margin over that or lowest margin under it, to produce the highest additional APRC.
 
-Where the product is not linked to an ERR
+Mortgage creditor uses an ERR and has less than 20 years of data relating to the margin applied by the mortgage creditor Use the highest ERR in the previous 20 years, and apply the highest margin over that or lowest margin under it, used in the period of data available, to produce the highest additional APRC. Mortgage creditor comprises a group which contains separate legal entities or comprises distinct product brands and has 20 years of data relating to the margin applied by that legal entity or product brand. It may have similar products across entities or brands within the same group or company with different margins above or below the ERR Use the highest ERR in the previous 20 years with respect to the pricing approach for the specific legal entity or product brand and apply the highest margin over that or lowest margin under it to produce the highest additional APRC. Mortgage creditor comprises a group which contains separate legal entities or comprises distinct product brands and has less than 20 years of data relating to the margin applied by that legal entity or product brand. It may have similar products across entities or brands within the same group or company with Use the highest ERR in the previous 20 years with respect to the pricing approach for the specific legal entity or product brand and apply the highest margin over that or lowest margin under it used in the period of data available to produce the highest additional APRC.
 
-Use the benchmark rate. Mortgage creditor uses an ERR and has 20 years of data relating to the margin applied by the mortgage creditor Use the highest ERR in the previous 20 years, and apply the highest margin over that or lowest margin under it, to produce the highest additional APRC.
+different margins above or below the ERR.
 
-Mortgage creditor uses an ERR and has less than 20 years of data relating Use the highest ERR in the previous 20 years, and apply the highest margin over that or lowest
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
-to the margin applied by the mortgage creditor margin under it, used in the period of data available, to produce the highest additional APRC.
-
-Mortgage creditor comprises a group which contains separate legal entities or comprises distinct product brands and has 20 years of data relating to the margin applied by that legal entity or product brand. It may have similar products across entities or brands within the same group or company with different margins above or below the ERR
-
-Use the highest ERR in the previous 20 years with respect to the pricing approach for the specific legal entity or product brand and apply the highest margin over that or lowest margin under it to produce the highest additional APRC. Mortgage creditor comprises a group which contains separate legal entities or comprises distinct product brands and has less than 20 years of data relating to the margin applied by that legal entity or product brand. It may have similar products across entities or brands within the same group or company with different margins above or below the ERR.
-
-Use the highest ERR in the previous 20 years with respect to the pricing approach for the specific legal entity or product brand and apply the highest margin over that or lowest margin under it used in the period of data available to produce the highest additional APRC. Mortgage creditor has previously purchased a brand that uses an ERR and has 20 years of data relating to the margin applied by the mortgage creditor for the same product
+Mortgage creditor has previously purchased a brand that uses an ERR and has 20 years of data relating to the margin applied by the mortgage creditor for the same product
 
 Where the purchaser is carrying on new lending under the purchased brand - same as above, using previous mortgage creditor’s data where relevant and where it may be reasonably obtained. Mortgage creditor has previously purchased a brand that uses an ERR and has less than 20 years of data relating to the margin applied by the mortgage creditor for the same product
 
-Where the purchaser is carrying on new lending under the purchased brand - same as above, using previous mortgage creditor’s data, where relevant and where it may be reasonably obtained. Otherwise, use the benchmark rate. Mortgage creditor has different ERR calculation methods that apply over time (e.g., 0.5% over Bank of England rate for the first two years and then 2% Calculate using the method which produces the highest additional APRC.
+Where the purchaser is carrying on new lending under the purchased brand - same as above, using previous mortgage creditor’s data, where relevant and where it may be reasonably obtained. Otherwise, use the benchmark rate. Mortgage creditor has different ERR calculation methods that apply over time (e.g., 0.5% over Bank of England rate for the first two years and then 2% over Bank of England rate for the rest of the mortgage lifetime).
 
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
-over Bank of England rate for the rest of the mortgage lifetime).
-
-Mortgage creditor has different methods that apply to different proportions of the principal (e.g., ERR + x% applies to 50% principal and SVR applies to the other 50%)
+Calculate using the method which produces the highest additional APRC. Mortgage creditor has different methods that apply to different proportions of the principal (e.g., ERR + x% applies to 50% principal and SVR applies to the other 50%)
 
 Calculate using the ERR where applicable and the benchmark rate, where applicable, and use both to calculate the additional APRC. Mortgage creditor uses an ERR where its basis has changed in the past 20 years Consider whether there was an equivalent predecessor ERR and use the ERR (and its equivalent predecessor(s), if any) provided that it (or they) have existed at least 20 years, otherwise use the benchmark rate.
 
@@ -360,11 +318,7 @@ Calculate using the method which produces the highest additional APRC.
 
 (4)  In the section on ‘other components of the APRC’ all the other costs contained in the APRC must be listed, including one-off costs such as administration fees, and regular costs, such as annual administration fees. The mortgage creditor must list each of the costs by category (costs to be paid on a one-off basis, costs to be paid regularly and included in the instalments, costs to be paid regularly but not included in the instalments), indicating their amount, to whom they are to be paid and when. This does not have to include costs incurred for breaches of contractual obligations. Where the amount is not known, the mortgage creditor must provide an indication of the amount if possible, or if not possible, how the amount will be calculated and specify that the amount provided is indicative only. Where certain costs are not included in the APRC because they are unknown to the mortgage creditor, this must be highlighted.
 
-Where the consumer has informed the mortgage creditor of one or more components of his preferred credit, such as the duration of the mortgage credit agreement and the total amount of credit, the mortgage creditor must, where possible, use those components; if a mortgage credit agreement provides different ways of drawdown with different charges or borrowing
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
-rates and the mortgage creditor uses the assumptions set out in Schedule 2 to these Regulations, it must indicate that other drawdown mechanisms for this type of mortgage credit agreement may result in a higher APRC. Where the conditions for drawdown are used for calculating the APRC, the mortgage creditor must highlight the charges associated with other drawdown mechanisms that are not necessarily the ones used in calculating the APRC.
+Where the consumer has informed the mortgage creditor of one or more components of his preferred credit, such as the duration of the mortgage credit agreement and the total amount of credit, the mortgage creditor must, where possible, use those components; if a mortgage credit agreement provides different ways of drawdown with different charges or borrowing rates and the mortgage creditor uses the assumptions set out in Schedule 2 to these Regulations, it must indicate that other drawdown mechanisms for this type of mortgage credit agreement may result in a higher APRC. Where the conditions for drawdown are used for calculating the APRC, the mortgage creditor must highlight the charges associated with other drawdown mechanisms that are not necessarily the ones used in calculating the APRC.
 
 (5)  Where a fee is payable for registration of the mortgage or comparable security that must be disclosed in this section with the amount, where known, or where this is not possible the basis for determining the amount. Where the fees are known and included in the APRC the existence and amount of the fee must be listed under ‘Costs to be paid on a one-off basis’. Where the fees are not known to the mortgage creditor and therefore not included in the APRC the existence of the fee must be clearly mentioned in the list of costs which are not known to the mortgage creditor. In either case the standardised wording in Part 1 must be used under the appropriate heading.
 
@@ -382,11 +336,7 @@ rates and the mortgage creditor uses the assumptions set out in Schedule 2 to th
 
 (3)  Where all or part of the credit is an interest-only credit, a statement clearly indicating that fact, must be inserted prominently at the end of this section using the wording in Part 1. If there is a requirement for the consumer to take out a tied savings product as a condition for being granted an interest-only credit secured by a mortgage or another comparable security, the amount and frequency of any payments for this product must be provided.
 
-(4)  Where the borrowing rate is variable the information must include a statement indicating that fact, using the wording in Part 1 and an illustration of a maximum instalment amount. Where there is a cap, the illustration must show the amount of the instalments if the borrowing rate rises to the level of the cap. Where there is no cap, the worst case scenario must illustrate the level of instalments at the highest borrowing rate in the last 20 years, or
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
-
-where the underlying data for the calculation of the borrowing rate is available for a period of less than 20 years the longest period for which such data is available, based on the highest value of any external reference rate used in calculating the borrowing rate where applicable, or the highest value of a benchmark rate specified by–
+(4)  Where the borrowing rate is variable the information must include a statement indicating that fact, using the wording in Part 1 and an illustration of a maximum instalment amount. Where there is a cap, the illustration must show the amount of the instalments if the borrowing rate rises to the level of the cap. Where there is no cap, the worst case scenario must illustrate the level of instalments at the highest borrowing rate in the last 20 years, or where the underlying data for the calculation of the borrowing rate is available for a period of less than 20 years the longest period for which such data is available, based on the highest value of any external reference rate used in calculating the borrowing rate where applicable, or the highest value of a benchmark rate specified by–
 
 (i) point 3 of section 4 in this Part 2;
 
@@ -404,11 +354,7 @@ The requirement to provide an illustrative example must not apply to mortgage cr
 
 (7)  Where the currency used for the payment of instalments is different from the credit currency or where the amount of each instalment expressed in the consumer’s national currency depends on the corresponding amount in a different currency, this section must indicate the date at which the applicable exchange rate is calculated and either the exchange rate or the basis on which it will be calculated and the frequency of their adjustment. Where applicable such indication must include the name of institution publishing the exchange rate.
 
-(8)  Where the credit is a deferred-interest credit under which interest due is not fully repaid by the instalments and is added to the total amount of credit outstanding, there must be an
-
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
-explanation of: how and when deferred interest is added to the credit as a cash amount; and what the implications are for the consumer in terms of their remaining debt.
+(8)  Where the credit is a deferred-interest credit under which interest due is not fully repaid by the instalments and is added to the total amount of credit outstanding, there must be an explanation of: how and when deferred interest is added to the credit as a cash amount; and what the implications are for the consumer in terms of their remaining debt.
 
 7.  Illustrative repayment table.
 
@@ -425,8 +371,6 @@ Where the consumer has the right to receive a revised amortisation table, this m
 8.  Additional obligations.
 
 (1)  The mortgage creditor must refer in this section to obligations such as the obligation to insure the immovable property, to purchase life insurance, to have a salary paid into an account with the mortgage creditor or to buy any other product or service. For each obligation, the mortgage creditor must specify towards whom and by when the obligation needs to be fulfilled.
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 (2)  The mortgage creditor must specify the duration of the obligation, e.g. until the end of the mortgage credit agreement. The mortgage creditor must specify for each obligation any costs to be paid by the consumer, which are not included in the APRC.
 
@@ -448,8 +392,6 @@ Where the mortgage credit agreement is bundled with other products the mortgage 
 
 10.  Flexible features.
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
 (1)  Where applicable, the mortgage creditor must explain the possibility to and conditions for transferring the credit to another mortgage creditor or immovable property.
 
 The mortgage creditor may replace “possibility to” with the “the right to” (shown in round brackets).
@@ -467,8 +409,6 @@ The mortgage creditor may replace “possibility to” with the “the right to�
 11.  Other rights of the borrower.
 
 (1)  The mortgage creditor must clearly specify the consumer’s reflection period and where applicable other rights such as, portability (including subrogation) that exist, specify the conditions to which this/these right(s) is subject, the procedure that the consumer will need to follow in order to exercise this/these right(s), inter alia, the address to which the notification of withdrawal must be sent, and the corresponding fees (where applicable).
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 
 (2)  In line with sections 7 and 8 of the Financial Services (Distance Marketing) Act 2006, where the transaction is being offered at a distance, the consumer must be informed of the existence or absence of a right of withdrawal.
 
@@ -494,8 +434,6 @@ The mortgage creditor may provide detail relating to the (2) in the terms and co
 
 14.  Additional information.
 
-Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020 2020/024
-
 (1)  In the case of distance marketing, this section will include any clause stipulating the law applicable to the mortgage credit agreement or the competent court.
 
 (2)  Where the mortgage creditor intends to communicate with the consumer during the life of the contract in a language different from the language of the ESIS that fact must be included and the language of communication named. This is without prejudice to paragraph 3(g) of Schedule 1 to the Financial Services (Distance Marketing) Act 2006.
@@ -505,5 +443,3 @@ Financial Services 2019-26 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
 15.  Supervisor.
 
 (1)  The relevant authority or authorities for the supervision of the pre-contractual stage of lending must be indicated.
-
-2019-26 Financial Services 2020/024 FINANCIAL SERVICES (MORTGAGE CREDIT) REGULATIONS 2020
