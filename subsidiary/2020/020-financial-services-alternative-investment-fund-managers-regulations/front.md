@@ -1,8 +1,6 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 24(3), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 130, 164(2), 150(1), 620(1), 621(1), 627 and paragraph 6 of Schedule 10.
 
-FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
+Financial Services (Alternative Investment Fund Managers) Regulations 2020
 
 LN.2020/020
 
@@ -12,9 +10,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/483 rr. 2(1)-(2), 4(1), (3), (5), 5(1), 6(1)(b)(i)-(ii), (c), 8(4)-(5), 9, 10(1), (3), (5), 12(4), (6), (7)(a)-(b), (8), 13(1)(b), (3)(a), (5), 14(2)-(3), (8), 15(5), (6)(a)-(b), (7), (9), 19, 20(1), 21(1), 22(1), 35(3), 36(1), (4)(a)- (b), (8)-(9), 37(1), (6)-(9), 38(1), (3), (5)-(6), 39(1)- (2), 40(2), 41(8), 42(8), 43(4), 44, 45(2), 46(16), 47(10), 48(3)(a)-(c), (4), (9)(a)-(c), (10)(a)-(b), (d), (11)-(12), (13)(c), (15)(a)(iii), (29)-(30), 50(3), (4)(a), (7)-(10), 51(2)-(3), (4)(b), (5)-(9), 52(2)(a), 56(3)(c), 57-59, 60(1)-(2), 61, 62(1)-(4), 63(1)-(15), (16)(a)-(g), (17)-(18), (19)(a)(i)-(iii), (b), (20)-(39), 64-67, 68(1), (a)-(c), (2)-(5), 69(1)(b), (5), (7), (9)- (10), 77(1)-(2), 78(2)-(3), 79(1)-(2), 81(1)-(2), (3)(a)-(b), (4)-(10), 82-90, Sch.
 
-1.1.2021 2021/493 rr. 12(4), 15(5) 1.1.2022 2022/080 rr. 4(1), 8A-8B 30.3.2022
+1.1.2021 2021/493 rr. 12(4), 15(5) 1.1.2022 2022/080 rr. 4(1), 8A-8B 30.3.2022 2022/153 rr. 3, 4(1), (5), 6(1)(b), 33(3), 35(2)(b), 36(2), 40(2), 42(2)(b), 46(1)(a), (2)(a), 48(3)(b)(i)-(ii), (13)(b)- (c), (15)(a)(iii), (15A), (24), 52(2)(a), (2A), (5)(c), (6)(a)-(b), 55(2)(c), 56(3)(c), 60(2)-(3), 62(1)(a), (4), 63(2)-(3), (4)(a)-(b), (16)(g), (19)(a)(ii), (37), 68(1)(b), (5), 69(1), (2)(d), (g), (9), 74(2), 77, 78(1), 79(1), 81(1), (3)(a), (c), (4), 87(1)(b), Sch.
 
-2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
+23.6.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -39,8 +37,6 @@ PART 2 AUTHORISATION CONDITIONS
 PART 3 SMALL AIFMs AND SMALL SCHEME MANAGERS
 
 CHAPTER 1 SMALL AIFMs
-
-Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
 
 General
 
@@ -67,8 +63,6 @@ Information for potential investors
 34. Information to potential investors.
 
 PART 4 CONDUCT OF BUSINESS
-
-2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
 
 35. General principles. 36. Annual report. 37. Disclosure to investors.
 
@@ -100,8 +94,6 @@ Reporting and notification
 
 PART 6 SPECIAL CASE AIFMS
 
-Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
-
 AIFMs managing leveraged AIFs
 
 51. Use of information by the GFSC and limits to leverage.
@@ -122,8 +114,6 @@ CHAPTER 2
 
 PART 8 REGULATORY POWERS
 
-2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
-
 CHAPTER 1 INVESTIGATORY AND SUPERVISORY POWERS
 
 69. Powers of GFSC. 70. Directions. 71. Investigations. 72. Protection order.
@@ -140,15 +130,13 @@ General
 
 Administration
 
-77. Duty to monitor compliance. 78. Responsibility for AIFMs. 79. Information. 80. Notifications. 81. Action in relation to breaches of rules. 82. Omitted. 83. Omitted. 84. Omitted. 85. Omitted.
+77. Duty to monitor compliance. 78. Responsibility for AIFMs. 79. Information. 80. Notifications. 81. Action in relation to breaches by non-Gibraltar AIFMs. 82. Omitted. 83. Omitted. 84. Omitted. 85. Omitted.
 
 Information
 
 86. Transfer and retention of personal data. 87. Disclosure of information to third countries. 88. Omitted.
 
 Final provisions
-
-Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
 
 89. Omitted. 90. Omitted.
 

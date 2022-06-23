@@ -1,6 +1,6 @@
-SCHEDULE ANNEXES I TO IV TO THE DIRECTIVE
+SCHEDULE
 
-PART 1
+PART 1 INVESTMENT MANAGEMENT AND OTHER FUNCTIONS
 
 1. Investment management functions which an AIFM shall at least perform when managing an AIF–
 
@@ -21,8 +21,6 @@ PART 1
 (iv) regulatory compliance monitoring;
 
 (v) maintenance of unit-/shareholder register;
-
-2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
 
 (vi) distribution of income;
 
@@ -46,8 +44,6 @@ PART 2 REMUNERATION POLICY
 
 (c) the management body of the AIFM, in its supervisory function, adopts and periodically reviews the general principles of the remuneration policy and is responsible for its implementation;
 
-Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
-
 (d) the implementation of the remuneration policy is, at least annually, subject to central and independent internal review for compliance with policies and procedures for remuneration adopted by the management body in its supervisory function;
 
 (e) staff engaged in control functions are compensated in accordance with the achievement of the objectives linked to their functions, independent of the performance of the business areas they control;
@@ -66,8 +62,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAG
 
 (l) the measurement of performance used to calculate variable remuneration components or pools of variable remuneration components includes a comprehensive adjustment mechanism to integrate all relevant types of current and future risks;
 
-2019-26 Financial Services 2020/020 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020
-
 (m) subject to the legal structure of the AIF and its rules or instruments of incorporation, a substantial portion, and in any event at least 50% of any variable remuneration consists of units or shares of the AIF concerned, or equivalent ownership interests, or share-linked instruments or equivalent non-cash instruments, unless the management of AIFs accounts for less than 50% of the total portfolio managed by the AIFM, in which case the minimum of 50% does not apply.
 
 The instruments referred to in this point shall be subject to an appropriate retention policy designed to align incentives with the interests of the AIFM and the AIFs it manages and the investors of such AIFs. The GFSC may exercise its powers under Part 7 of the Act to place restrictions on the types and designs of those instruments or ban certain instruments as appropriate. This point shall be applied to both the portion of the variable remuneration component deferred in line with point (n) and the portion of the variable remuneration component not deferred;
@@ -82,13 +76,11 @@ The total variable remuneration shall generally be considerably contracted where
 
 (p) the pension policy is in line with the business strategy, objectives, values and long- term interests of the AIFM and the AIFs it manages.
 
-Financial Services 2019-26 FINANCIAL SERVICES (ALTERNATIVE INVESTMENT FUND MANAGERS) REGULATIONS 2020 2020/020
-
 If the employee leaves the AIFM before retirement, discretionary pension benefits shall be held by the AIFM for a period of five years in the form of instruments defined in point (m). In the case of an employee reaching retirement, discretionary pension benefits shall be paid to the employee in the form of instruments defined in point (m), subject to a five year retention period;
 
 (q) staff are required to undertake not to use personal hedging strategies or remuneration- and liability-related insurance to undermine the risk alignment effects embedded in their remuneration arrangements;
 
-(r) variable remuneration is not paid through vehicles or methods that facilitate the avoidance of the requirements of this Directive.
+(r) variable remuneration is not paid through vehicles or methods that facilitate the avoidance of the requirements of these Regulations.
 
 2. The principles set out in paragraph 1 shall apply to remuneration of any type paid by the AIFM, to any amount paid directly by the AIF itself, including carried interest, and to any transfer of units or shares of the AIF, made to the benefits of those categories of staff, including senior management, risk takers, control functions and any employee receiving total remuneration that takes them into the same remuneration bracket as senior management and risk takers, whose professional activities have a material impact on their risk profile or the risk profiles of the AIF that they manage.
 
