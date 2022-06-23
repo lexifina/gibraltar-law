@@ -24,8 +24,6 @@ IV. Cash at bank and in hand
 
 C. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
 
-Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
-
 1. Bank loans and overdrafts. 2. Eligible subordinated loans (6) 3. Other debenture loans 4. Trade creditors (4) 5. Financial instruments (short positions)(5) 6. Income tax 7. Other taxation and social security 8. Amounts due to group and connected companies 9. Other creditors 10. Accruals and deferred income
 
 D. NET CURRENT ASSETS (LIABILITIES)
@@ -44,11 +42,9 @@ H. TOTAL ASSETS LESS TOTAL LIABILITIES
 
 I. CAPITAL AND RESERVES
 
-1. Called up share capital (7) 2. Share premium account 3. Partners’ or proprietors’ capital accounts 4. Partners’ or proprietors’ current accounts 5. Revaluation reserve
+1. Called up share capital (7)
 
-2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020
-
-6. Other reserves 7. Profit and loss account.
+2. Share premium account 3. Partners’ or proprietors’ capital accounts 4. Partners’ or proprietors’ current accounts 5. Revaluation reserve 6. Other reserves 7. Profit and loss account.
 
 Approved by the directors / partners / governing body on
 
@@ -80,8 +76,6 @@ Amounts outstanding for more than 30 days Amounts outstanding for 30 days or les
 
 Residual Maturity
 
-Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
-
 0- 90 days 90 days- 12 Months 12 months - 5 years more than 5 years Total UK Government, Government of Gibraltar and Local Authority debt
 
 Accepted or issued by a recognised credit institution
@@ -105,8 +99,6 @@ ____ ____ ___ ____ (ii)  Shares (other than in group companies)
 (iv)  Futures, options, contracts for differences
 
 - Futures - Purchased options - Written options - Contracts for differences
-
-2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020
 
 (v)  Shares in group companies
 
@@ -139,7 +131,3 @@ The following additional information must be given, where relevant–
 (i) Whether any valuable security has been provided by the insurance distributor in connection with a contingent liability or commitment
 
 (ii) The amounts which relate to undertakings on behalf of or for the benefit of group and connected companies.
-
-Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
-
-2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020

@@ -1,5 +1,3 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 24(3)(v), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10.
 
 Financial Services (Insurance Distribution) Regulations 2020
@@ -12,9 +10,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/107 rr. 2(1), 9, 38(2)(c)-(g), 38A-38B,54A-54J 12.3.2020 2020/207 rr. 5(1)((b)-(c), 54(1)(a)-(b), (3)(b), 85A 11.6.2020 2020/421 rr. 37A, 54K 26.11.2020 2020/490 rr. 2(1), 5(3)(a), 10(1)(b), 13(9)(d), (11), 16(1)(c), 17(8), 18(8), 20(6), 21(6)(b)(i), (13), 30(2), (4), 31, 37(4), 38A, 54(1), (4), 54D(2), 54F(1), (3)(c), 54G(2), 54J(1), 55(11), 57, 66-78, 85(2), (5), (8), 85A(2), Sch.1
 
-1.1.2021 2022/188 Sch.2 1.1.2021
-
-2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020
+1.1.2021 2022/188 Sch.2 1.1.2021 2022/153 rr. 5(3)(a), 17(8), 21(13)(b), 59, 84(2), 85(9) 23.6.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -40,11 +36,9 @@ PART 3 CONDUCT OF BUSINESS
 
 10. Use of intermediaries.
 
-Information requirements and conduct of business rules 11. General principle. 12. General information provided by insurance intermediary or undertaking. 13. Advice and sales where no advice is given. 14. Information provided by ancillary insurance intermediaries. 15. Information exemptions and flexibility. 16. Information conditions. 17. Cross-selling.
+Information requirements and conduct of business rules 11. General principle. 12. General information provided by insurance intermediary or undertaking. 13. Advice and sales where no advice is given. 14. Information provided by ancillary insurance intermediaries. 15. Information exemptions and flexibility.
 
-Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
-
-18. Product oversight and governance requirements.
+16. Information conditions. 17. Cross-selling. 18. Product oversight and governance requirements.
 
 Additional requirements: insurance-based investment products
 
@@ -70,9 +64,9 @@ PART 4 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
 Professional and organisational requirements
 
-32. Knowledge, ability and continuing development requirements. 33. Fit and proper requirements. 34. Remuneration. 35. Conflicts of interest and transparency. 36. Prevention of conflicts of interest. 37. Conflicts of interest. 37A. Outsourcing.
+32. Knowledge, ability and continuing development requirements. 33. Fit and proper requirements. 34. Remuneration. 35. Conflicts of interest and transparency.
 
-2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020
+36. Prevention of conflicts of interest. 37. Conflicts of interest. 37A. Outsourcing.
 
 Accounting records.
 
@@ -90,11 +84,9 @@ Chapter 1 Indemnity Arrangements
 
 Chapter 2 Customer Money
 
-54A. Application. 54B. Customer money. 54C. Duty to segregate. 54D. Customer money to be held on trust and kept safe. 54E. Accounting for and use of customer money. 54F. Customer bank accounts. 54G. Interest on customer money.
+54A. Application.
 
-Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
-
-54H. Payment of other money into a customer bank account. 54I. Payment out of a customer bank account. 54J. Intermediary as recognised credit institution. 54K. Money held as agent of insurer.
+54B. Customer money. 54C. Duty to segregate. 54D. Customer money to be held on trust and kept safe. 54E. Accounting for and use of customer money. 54F. Customer bank accounts. 54G. Interest on customer money. 54H. Payment of other money into a customer bank account. 54I. Payment out of a customer bank account. 54J. Intermediary as recognised credit institution. 54K. Money held as agent of insurer.
 
 PART 6 REPORTING AND NOTIFICATION
 
@@ -118,8 +110,6 @@ Chapter 1 Investigatory and supervisory powers
 
 Chapter 2 Sanctions for contravention
 
-2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020
-
 80. Sanctioning powers. 81. Contravention of regulatory requirements: failure to register. 82. Additional persons subject to sanctioning powers. 83. Additional sanctioning power: management prohibition order. 84. Maximum amounts of administrative penalty.
 
 PART 9 MISCELLANEOUS
@@ -129,7 +119,5 @@ PART 9 MISCELLANEOUS
 SCHEDULE 1 MINIMUM PROFESSIONAL KNOWLEDGE AND COMPETENCE REQUIREMENTS
 
 SCHEDULE 2 FORM AND CONTENTS OF FINANCIAL STATEMENTS
-
-Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
 
 In exercise of the powers conferred upon the Minister under sections 6(1), 24(3)(v), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and upon the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.

@@ -32,8 +32,6 @@ II.  Insurance-based investment products–
 
 (e) minimum necessary knowledge of organisation and benefits guaranteed by the pension system;
 
-Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
-
 (f) minimum necessary knowledge of applicable laws governing the distribution of insurance products, such as consumer protection law and relevant tax law;
 
 (g) minimum necessary knowledge of the insurance market and of the saving products market;
@@ -67,5 +65,3 @@ III.  Life risks classified paragraph 23 of Schedule 2 to the Act –
 (h) minimum necessary knowledge of business ethics standards; and
 
 (i) minimum necessary financial competency.
-
-2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020

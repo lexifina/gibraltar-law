@@ -20,8 +20,6 @@ PART 1. GENERAL RULES.
 
 6.  In the case of an insurance, reinsurance or ancillary insurance intermediary which is a sole proprietor, the items to be included in the intermediary’s financial statements prepared in accordance with these Regulations must be those which arise in the course of the regulated activity of that intermediary.
 
-Financial Services 2019-26 Financial Services (Insurance Distribution) Regulations 2020 2020/015
-
 PART 2. ACCOUNTING PRINCIPLES AND RULES.
 
 7.(1)  The amounts to be included in respect of all items shown in the annual financial statements of an insurance, reinsurance or ancillary insurance intermediary must be determined in accordance with the Companies Act 2014 and either Gibraltar Financial Reporting Standards or UK-adopted international accounting standards within the meaning of section 237(1) of the Companies Act 2014.
@@ -29,5 +27,3 @@ PART 2. ACCOUNTING PRINCIPLES AND RULES.
 (2) Subparagraph (1) is subject to regulation 41.
 
 8.  Subject to paragraph 7, items must be included in such a way as to reflect the substance and not merely the form of the underlying transactions and balances.
-
-2019-26 Financial Services 2020/015 Financial Services (Insurance Distribution) Regulations 2020
