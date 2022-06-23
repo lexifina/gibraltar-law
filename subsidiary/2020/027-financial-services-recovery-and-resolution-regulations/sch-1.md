@@ -26,8 +26,6 @@ The recovery plan must include the following information:
 
 (11) arrangements and measures to ensure that the institution has adequate access to contingency funding sources, including potential liquidity sources, an assessment of available collateral and an assessment of the possibility to transfer liquidity across group entities and business lines, to ensure that it can continue to carry out its operations and meet its obligations as they fall due;
 
-2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
-
 (12) arrangements and measures to reduce risk and leverage;
 
 (13) arrangements and measures to restructure liabilities;
@@ -56,8 +54,6 @@ The Gibraltar Resolution Authority may request institutions to provide for the p
 
 (3) the location, jurisdiction of incorporation, licensing and key management associated with each legal person;
 
-Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
-
 (4) a mapping of the institution’s critical operations and core business lines including material asset holdings and liabilities relating to such operations and business lines, by reference to legal persons;
 
 (5) a detailed description of the components of the institution’s and all its legal entities’ liabilities, separating, at a minimum by types and amounts of short term and long-term debt, secured, unsecured and subordinated liabilities;
@@ -81,8 +77,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATI
 (14) an identification of the owners of the systems identified in point (13), service level agreements related to them, and any software and systems or licenses, including a mapping to their legal entities, critical operations and core business lines;
 
 (15) an identification and mapping of the legal persons and the interconnections and interdependencies among the different legal persons such as:
-
-2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
 
 (a) common or shared personnel, facilities and systems;
 
@@ -112,8 +106,6 @@ When assessing the resolvability of an institution or group, the Gibraltar Resol
 
 (1) the extent to which the institution is able to map core business lines and critical operations to legal persons;
 
-Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
-
 (2) the extent to which legal and corporate structures are aligned with core business lines and critical operations;
 
 (3) the extent to which there are arrangements in place to provide for essential staff, infrastructure, funding, liquidity and capital to support and maintain the core business lines and the critical operations;
@@ -138,8 +130,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATI
 
 (13) the extent to which the institution has established adequate processes to ensure that it provides the Gibraltar Resolution Authority with the information necessary to identify depositors and the amounts covered by the deposit guarantee schemes;
 
-2019-26 Financial Services 2020/027 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020
-
 (14) where the group uses intra-group guarantees, the extent to which those guarantees are provided at market conditions and the risk management systems concerning those guarantees are robust;
 
 (15) where the group engages in back-to-back transactions, the extent to which those transactions are performed at market conditions and the risk management systems concerning those transactions practices are robust;
@@ -163,8 +153,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATI
 (24) the arrangements and means through which resolution could be facilitated in the cases of groups that have subsidiaries established in different jurisdictions;
 
 (25) the credibility of using resolution tools in such a way which meets the resolution objectives, given possible impacts on creditors, counterparties, customers and employees and possible actions that third-country authorities may take;
-
-Financial Services 2019-26 FINANCIAL SERVICES (RECOVERY AND RESOLUTION) REGULATIONS 2020 2020/027
 
 (26) the extent to which the impact of the institution’s resolution on the financial system and on financial market’s confidence can be adequately evaluated;
 
