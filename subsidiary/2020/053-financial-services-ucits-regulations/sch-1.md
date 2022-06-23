@@ -18,8 +18,6 @@ SCHEDULE Regulation 28 PART A
 
 1.5. Brief indications relevant to unitholders of the tax system applicable to the company. Details of whether deductions are made at source from the income and capital gains paid by the company to unitholders.
 
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
-
 and capital gains paid by the common fund to unitholders.
 
 1.6. Accounting and distribution dates
@@ -36,13 +34,9 @@ and capital gains paid by the common fund to unitholders.
 
 1.10. Details of the types and main characteristics of the units and in particular:
 
- original securities or certificates providing evidence of title; entry in a register or in an account,  Characteristics of the units: registered or bearer. Indication of any
+ original securities or certificates providing evidence of title; entry in a register or in an account,  Characteristics of the units: registered or
 
- characteristics of the units: registered or bearer. Indication of any denominations which may be provided for,
-
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
-
-denominations which may be provided for,  original securities or certificates providing evidence of title; entry in a register or in an account,
+ characteristics of the units: registered or bearer. Indication of any bearer. Indication of any denominations which may be provided for, denominations which may be provided for,  original securities or certificates providing evidence of title; entry in a register or in an account,
 
  indication of unitholders’ voting rights,  indication of unitholders’ voting rights if these exist,
 
@@ -54,13 +48,11 @@ denominations which may be provided for,  original securities or certificates
 
 1.11. Where applicable, indication of stock exchanges or markets where the units are listed or dealt in. 1.12. Procedures and conditions of issue and sale of units.
 
-1.12. Procedures and conditions of issue and sale of units. 1.13. Procedures and conditions for repurchase or redemption of units, and circumstances in
+1.12. Procedures and conditions of issue and sale of units.
 
-1.13. Procedures and conditions for repurchase or redemption of units, and circumstances in which repurchase or redemption
+1.13. Procedures and conditions for repurchase or redemption of units, and circumstances in which repurchase or redemption may be suspended.
 
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
-
-which repurchase or redemption may be suspended. may be suspended. In the case of open-ended investment companies having different investment compartments, information on how a unitholder may pass from one compartment into another and the charges applicable in such cases.
+1.13. Procedures and conditions for repurchase or redemption of units, and circumstances in which repurchase or redemption may be suspended. In the case of open-ended investment companies having different investment compartments, information on how a unitholder may pass from one compartment into another and the charges applicable in such cases.
 
 1.14. Description of rules for determining and applying income.
 
@@ -68,15 +60,13 @@ which repurchase or redemption may be suspended. may be suspended. In the case o
 
 1.15. Description of the company’s investment objectives, including its financial objectives (e.g. capital growth or income), investment policy (e.g. specialisation in geographical or industrial sectors), any limitations on that investment policy and an indication of any techniques and instruments or borrowing powers which may be used in the management of the company. 1.16. Rules for the valuation of assets.
 
-1.16. Rules for the valuation of assets. 1.17. Determination of the sale or issue price and the repurchase or redemption price of units, in particular:
+1.16. Rules for the valuation of assets. 1.17. Determination of the sale or issue price and the repurchase or
 
-1.17. Determination of the sale or issue price and the repurchase or redemption price of units, in particular:  the method and frequency of the calculation of those prices,
+1.17. Determination of the sale or issue price and the repurchase or redemption price of units, in particular:
 
- the method and frequency of the calculation of those prices,
+redemption price of units, in particular:  the method and frequency of the calculation of those prices,
 
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
-
- information concerning the charges relating to the sale or issue and the repurchase or redemption of units,
+ the method and frequency of the calculation of those prices,  information concerning the charges relating to the sale or issue and the repurchase or redemption of units,
 
  information concerning the charges relating to the sale or issue and the repurchase or redemption of units,  the means, places and frequency of the publication of those prices.
 
@@ -84,11 +74,11 @@ which repurchase or redemption may be suspended. may be suspended. In the case o
 
 1.18. Information concerning the manner, amount and calculation of remuneration payable by the company to its directors, and members of the administrative, management and supervisory bodies, to the depositary, or to third parties, and reimbursement of costs by the company to its directors, to the depositary or to third parties.
 
-[1] Open-ended investment companies within the meaning of section 291 of the Act must also indicate –  the method and frequency of calculation of the net asset value of units,  the means, place and frequency of publication of that value,  the stock exchange in the country of marketing the price on which determines the price of transactions effected outwith stock exchanges in that country.
+[1] Open-ended investment companies within the meaning of section 291 of the Act must also indicate –  the method and frequency of calculation of the net asset value of units,
+
+ the means, place and frequency of publication of that value,  the stock exchange in the country of marketing the price on which determines the price of transactions effected outwith stock exchanges in that country.
 
 2. Information concerning the depositary.
-
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
 
 2.1 the identity of the depositary of the UCITS and a description of its duties and of conflicts of interest that may arise;
 
@@ -119,8 +109,6 @@ Possible expenses or fees, other than the charges mentioned in point 1.17, disti
 PART B
 
 INFORMATION TO BE INCLUDED IN THE PERIODIC REPORTS
-
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
 
 I. Statement of assets and liabilities–
 
@@ -159,8 +147,6 @@ VI. Statement of the developments concerning the assets of the UCITS during the 
 - income from investments;
 
 - other income;
-
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
 
 - management charges;
 

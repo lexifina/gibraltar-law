@@ -1,8 +1,6 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.59, 64, 83, 150, 337, 338, 340, 620, 621 and 627.
 
-FINANCIAL SERVICES (UCITS) REGULATIONS 2020
+Financial Services (UCITS) Regulations 2020
 
 LN.2020/053
 
@@ -14,9 +12,9 @@ LN.2020/545
 
 rr. 3(1), (7), 4, 7(3)(a)-(c), 9(1)(b), (4)(a), (6)(a)-(b), 12(4), (a)-(b), 14(2)-(3), 17(2), (d)(i), 20(b)-(c), 21(2), 30(2)(b), 33, 37(7), 41(1), 43(2)(b), (4), 59(1)(a), (d), 62(3), 63(4)(b)-(c), (6)(a)(ii), (11), 65(1), (2)(b)-(c), (ii), 69(1)-(2), 71(2), 81(a)-(c), (d)(i)(aa), (e), (ii), (f)-(g), (h)(i)-(iii), 83, (d), 86(2), 89(2)(a), (4), (5)(a), (d), 92(1)-(3), 94(2), (4)(a)-(d), (5), 100(2), 105(1), (3)(b), 106(2)(i), 115(2), 120(1), 127-128, 129(1)-(2), (a), (3)-(8), 130(1)(a), (2), (4), 131(1), (3), (8), 132-135, 137(1), (a), (3)-(8), 138(2), 139(1), 140-146, 148(2)-(7), 153(10), 155, 156(1)- (2), (b), (3)-(8), (b)-(c), (9), 159(1), (3), 160(2)(a), (4), 164(1)-(3), 166(1), 172(2)(b), 173(1), (4), 174(6)-(9), 177(3), 181(1), (3), 182(1)-(3), 189(1)- (2), 196(4), 198(6), 200(1), (2)(a)-(b), 203(1)(a)-(b), (2)(a)-(b), 206(1)-(5), (9)-(10), 207(2), (4), (6), 209(2), 211-212, Sch.
 
-1.1.2021 2021/493 r. 15(3) 1.1.2022
+1.1.2021 2021/493 r. 15(3) 1.1.2022 2022/153 rr. 3(1), 4, 62(3), 64(6), 82(2), (4), 89(4), (5)(a)(i), 92(1)(a), 94(4)(a), 105(1), (4), 120(1), 130(3), 152(1)(b)(i), (c), (3)-(4), 206(3)(b), (5)-(6)
 
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
+23.6.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -42,11 +40,9 @@ PART 3 CONDUCT OF BUSINESS
 
 Chapter 1 General
 
-18. Exclusion clauses. 19. Conduct of management companies.
+18. Exclusion clauses.
 
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
-
-20. Investor complaints. 21. Disputes.
+19. Conduct of management companies. 20. Investor complaints. 21. Disputes.
 
 Chapter 2 Constituting instrument
 
@@ -66,11 +62,7 @@ Chapter 5 Key investor information
 
 Chapter 6 General obligations of UCITS
 
-42. Borrowing powers.
-
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
-
-43. Redemptions on request. 44. Asset valuation. 45. Distribution and reinvestment. 46. Issue of units. 47. Granting of loans. 48. Uncovered sales. 49. Expenditure and remuneration.
+42. Borrowing powers. 43. Redemptions on request. 44. Asset valuation. 45. Distribution and reinvestment. 46. Issue of units. 47. Granting of loans. 48. Uncovered sales. 49. Expenditure and remuneration.
 
 Chapter 7 Rules of conduct
 
@@ -98,11 +90,7 @@ PART 4 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
 Chapter 1 General
 
-58. Internal requirements of management company. 59. Delegation of responsibilities. 60. Management companies’ remuneration policies.
-
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
-
-61. Remuneration policy principles. 62. Remuneration committees.
+58. Internal requirements of management company. 59. Delegation of responsibilities. 60. Management companies’ remuneration policies. 61. Remuneration policy principles. 62. Remuneration committees.
 
 Chapter 2 Depositaries
 
@@ -118,11 +106,9 @@ Chapter 4 Open-ended investment companies
 
 Chapter 5 UCITS investment policies
 
-80. UCITS with investment compartments. 81. Authorised investments. 82. Instruments where issue or issuer is regulated to protect investors and savings. 83. Money market instruments: prudential rules. 84. Securitisation vehicles which benefit from banking liquidity line. 85. Financial indices. 86. Portfolio management. 87. Transferable securities and money market instruments embedding derivatives.
+80. UCITS with investment compartments. 81. Authorised investments. 82. Instruments where issue or issuer is regulated to protect investors and savings. 83. Money market instruments: prudential rules.
 
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
-
-88. Techniques and instruments for purpose of efficient portfolio management. 89. Investment restrictions. 90. Investment limit increases. 91. Index-replicating UCITS. 92. Derogations from regulation 89. 93. Investments in other collective investment schemes. 94. Shareholding restrictions. 95. Derogations from this Chapter: further provisions.
+84. Securitisation vehicles which benefit from banking liquidity line. 85. Financial indices. 86. Portfolio management. 87. Transferable securities and money market instruments embedding derivatives. 88. Techniques and instruments for purpose of efficient portfolio management. 89. Investment restrictions. 90. Investment limit increases. 91. Index-replicating UCITS. 92. Derogations from regulation 89. 93. Investments in other collective investment schemes. 94. Shareholding restrictions. 95. Derogations from this Chapter: further provisions.
 
 Chapter 6 Administrative procedures and control mechanisms
 
@@ -140,9 +126,9 @@ Internal control mechanisms
 
 Chapter 7 Conflict of interests
 
-109. Criteria for the identification of conflicts of interest. 110. Conflicts of interest policy. 111. Independence in conflicts management. 112. Management of activities giving rise to detrimental conflict of interest 113. Strategies for the exercise of voting rights
+109. Criteria for the identification of conflicts of interest.
 
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
+110. Conflicts of interest policy. 111. Independence in conflicts management. 112. Management of activities giving rise to detrimental conflict of interest 113. Strategies for the exercise of voting rights
 
 Chapter 8 Risk management
 
@@ -160,15 +146,11 @@ Chapter 1 General
 
 Chapter 2 Special provisions applicable to UCITS which market their units in Gibraltar
 
-134. Omitted. 135. Omitted. 136. Payments to unitholders. 137. Cross border notifications. 138. Access to documents.
-
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
-
-139. Updates of documents. 140. Omitted. 141. Omitted. 142. Omitted. 143. Omitted.
+134. Omitted. 135. Omitted. 136. Payments to unitholders. 137. Cross border notifications. 138. Access to documents. 139. Updates of documents. 140. to 143. Omitted.
 
 Chapter 3 Omitted
 
-144. Omitted. 145. Omitted. 146. Omitted.
+144. to 146. Omitted.
 
 PART 7 REGULATORY POWERS
 
@@ -188,9 +170,9 @@ PART 8 MERGERS OF UCITS
 
 Chapter 1 Principle, authorisation and approval
 
-154. Definition of UCITS. 155. Mergers. 156. Prior authorisation of merger. 157. Terms of mergers.
+154. Definition of UCITS. 155. Mergers. 156. Prior authorisation of merger.
 
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
+157. Terms of mergers.
 
 Chapter 2 Third-party control, information of unitholders and other rights of unitholders
 
@@ -208,9 +190,9 @@ PART 9 MASTER-FEEDER STRUCTURES
 
 Chapter 1 General
 
-171. Feeder UCITS. 172. Master UCITS. 173. Feeder investment limits. 174. General matters. 175. Master-feeder structures: depositaries. 176. Master-feeder structures: auditors. 177. Feeder UCITS: prospectuses. 178. Feeder UCITS: supplementary provision of information. 179. Manner of providing information to unitholders. 180. Monitoring by feeder UCITS. 181. Master UCITS: supplementary regulatory requirements. 182. Master-Feeder structures: communication of decisions.
+171. Feeder UCITS. 172. Master UCITS. 173. Feeder investment limits. 174. General matters. 175. Master-feeder structures: depositaries. 176. Master-feeder structures: auditors. 177. Feeder UCITS: prospectuses. 178. Feeder UCITS: supplementary provision of information. 179. Manner of providing information to unitholders.
 
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
+180. Monitoring by feeder UCITS. 181. Master UCITS: supplementary regulatory requirements. 182. Master-Feeder structures: communication of decisions.
 
 Chapter 2 Agreement and internal conduct of business rules between feeder UCITS and master UCITS
 
@@ -236,11 +218,7 @@ Chapter 4 Depositaries and auditors
 
 Depositaries
 
-199. Content of information-sharing agreement between depositaries. 200. Choice of applicable law.
-
-Financial Services 2019-26 FINANCIAL SERVICES (UCITS) REGULATIONS 2020 2020/053
-
-201. Reporting of irregularities by depositary of master UCITS.
+199. Content of information-sharing agreement between depositaries. 200. Choice of applicable law. 201. Reporting of irregularities by depositary of master UCITS.
 
 Auditors
 
@@ -269,7 +247,5 @@ Consequential amendments and revocation
 213. Consequential amendments. 214. Revocation.
 
 SCHEDULE
-
-2019-26 Financial Services 2020/053 FINANCIAL SERVICES (UCITS) REGULATIONS 2020
 
 In exercise of the powers conferred on the Minister by sections 5, 59, 64, 83, 150, 337, 338, 340, 620, 621 and 627 of the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and upon the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
