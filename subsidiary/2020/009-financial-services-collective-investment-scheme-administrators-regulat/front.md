@@ -8,7 +8,7 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/485 rr. 2(1), 25, 35, 38(1)-(3), 39, 42, Sch. 1.1.2021 2022/188 Sch. 1.1.2021
+LN.2020/485 rr. 2(1), 25, 35, 38(1)-(3), 39, 42, Sch. 1.1.2021 2022/188 Sch. 1.1.2021 2022/153 rr. 2(1), 54, 64(2) 23.6.2022
 
 ARRANGEMENT OF REGULATIONS.
 
