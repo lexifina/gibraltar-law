@@ -32,8 +32,6 @@ Method C
 
 (a) interest income;
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
-
 (b) interest expenses;
 
 (c) commissions and fees received; and
@@ -70,8 +68,6 @@ Scaling Factor
 
 4. The scaling factor k, to be used in Methods B and C, is–
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
+(a) 0.5 where the payment institution only provides the payment service with paragraph 17(6) to Schedule 2 of the Act; or
 
-(a) 0.5 where the payment institution only provides the payment service with point (6) of paragraph 17 to Schedule 2 of the Act; or
-
-(b) 1 where the payment institution provides any of the payment services in points (1) to (5) of paragraph 17 of Schedule 2 to the Act.
+(b) 1 where the payment institution provides any of the payment services in paragraph 17(1) to (5) of Schedule 2 to the Act.

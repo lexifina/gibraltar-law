@@ -1,8 +1,6 @@
-2019-26 Financial Services
+Subsidiary Legislation made under ss.6(1), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10.
 
-Subsidiary Legislation made under ss.6(1), 44(4), 59(3), 61(1), 63(3), 64(3),  83(1), 150(1), 164(1), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10.
-
-FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
+Financial Services (Payment Services) Regulations 2020
 
 LN.2020/030
 
@@ -10,13 +8,13 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/498 rr. 1(3)(b), 2(1), 3(3), 4(2)-(7), 6(8), 7(4), 8(3)(c), 10(8), 11(2)(c), 14(10), 17(3), 39(2), (2A), (4)(b), (5), 42(2)(c)(ii), 43(2)(a), (4)(d)(ii), 44(2)(a), (4)(c)(ii), 53(4), 55(1)(a), (c), (2)-(3), 63(2)(b), 69(2), 75(2), 76(2)-(3), 77(1), (5), 78(4), 86(2), 87(3)-(6), 88-99, 105(1)-(2), 106(2)(b), (7), 107- 108, Sch. 1, 2
+LN.2020/498 rr. 1(3)(b), 2(1), 3(3), 4(2)-(7), 6(8), 7(4), 8(3)(c), 10(8), 11(2)(c), 14(10), 17(3), 39(2), (2A), (4)(b), (5), 42(2)(c)(ii), 43(2)(a), (4)(d)(ii), 44(2)(a), (4)(c)(ii), 53(4), 55(1)(a), (c), (2)-(3), 63(2)(b), 69(2), 75(2), 76(2)-(3), 77(1), (5), 78(4), 86(2), 87(3)-(6), 88-99, 105(1)-(2), 106(2)(b), (7), 107-108, Schs. 1, 2
 
-1.1.2021 2021/094 r. 84(2)(b)(i), (5)(a)(ii), (10) 1.1.2021 2022/188 r. 85(1)(c) 1.1.2021 2021/229 rr. 42(2)(c)(ii), 43(2)(a), (4)(d)(ii), 44(2)(a), (4)(c)(ii), 79A
+1.1.2021 2021/094 r. 84(2)(b)(i), (5)(a)(ii), (10) 1.1.2021 2022/188 r. 85(1)(c) 1.1.2021 2021/229 rr.  42(2)(c)(ii), 43(2)(a), (4)(d)(ii), 44(2)(a), (4)(c)(ii), 79A
 
-15.4.2021
+15.4.2021 2022/153 rr. 1(3)-(4), 2, 8(1)(k), (3)(c), 10(7), 11(3), 14(2)(b), (11)(c)(i), 43(1), 44(1), 78(4), 80(1)(a)-(c), 81(3)(a), 82(1)(a)-(b), 84(1), 85(1)(a)-(b), (2), 87(6), 104(2), 106(2)(d), Schs. 1, 3
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
+23.6.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -44,8 +42,6 @@ Chapter 1 Transparency of conditions and information requirements for payment se
 
 General rules
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
-
 17. Scope of Chapter 1 of Part 3. 18. Charges for information. 19. Burden of proof on information requirements. 20. Derogation from information requirements for low-value payment instruments and electronic money.
 
 Single payment transactions
@@ -68,8 +64,6 @@ Common provisions for Chapter 2 of Part 3
 
 Authorisation of payment transactions
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
-
 41. Consent and withdrawal of consent. 42. Confirmation on availability of funds. 43. Access to payment account for payment initiation services. 44. Access to payment accounts for information services. 45. Limits on use of payment instruments and access to payment accounts by payment service providers. 46. Obligations of payment service user in relation to payment instruments and personalised security credentials. 47. Obligations of payment service provider in relation to payment instruments. 48. Notification and rectification of unauthorised or incorrectly executed payment transactions. 49. Evidence of authentication and execution of payment transactions. 50. Payment service provider’s liability for unauthorised payment transactions. 51. Payer’s liability for unauthorised payment transactions. 52. Payment transactions where transaction amount not known in advance. 53. Refunds for payment transactions initiated by or through payee. 54. Requests for refunds for payment transactions initiated by or through payee.
 
 Execution of payment orders and amounts transferred
@@ -82,11 +76,9 @@ Execution time and value date
 
 Liability
 
-64. Incorrect unique identifiers. 65. Payment service providers: liability for non-execution, defective or late execution of payment transactions. 66. Payment initiation services: liability for non-execution, defective or late execution of payment transactions. 67. Additional financial compensation. 68. Right of recourse.
+64. Incorrect unique identifiers. 65. Payment service providers: liability for non-execution, defective or late execution of payment transactions.
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
-
-69. Abnormal and unforeseeable circumstances.
+66. Payment initiation services: liability for non-execution, defective or late execution of payment transactions. 67. Additional financial compensation. 68. Right of recourse. 69. Abnormal and unforeseeable circumstances.
 
 Data protection
 
@@ -110,11 +102,11 @@ Prudential requirements 80. Initial capital. 81. Own funds. 82. Calculation of o
 
 Safeguarding
 
-84. Safeguarding of funds. 85. Accounting and statutory audit. 86. Record-keeping.
+84. Safeguarding of funds.
+
+85. Accounting and statutory audit. 86. Record-keeping.
 
 PART 6 REPORTING AND NOTIFICATION
-
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
 
 87. Incident reporting.
 
@@ -141,9 +133,5 @@ SCHEDULE 1 ACCOUNT INFORMATION SERVICE PROVIDERS
 SCHEDULE 2 PRIOR GENERAL INFORMATION FOR FRAMEWORK CONTRACTS
 
 SCHEDULE 3 OWN FUNDS
-
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
-
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
 
 In exercise of the powers conferred on the Minister under sections 6(1), 44(4), 59(3), 61(1), 63(3), 64(3),  83(1), 150(1), 164(1), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.

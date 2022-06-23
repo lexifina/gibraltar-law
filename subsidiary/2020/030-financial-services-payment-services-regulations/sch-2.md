@@ -26,8 +26,6 @@ PRIOR GENERAL INFORMATION FOR FRAMEWORK CONTRACTS
 
 3.  The following information about charges, interest and exchange rates–
 
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
-
 (a) all charges payable by the payment service user to the payment service provider including those connected to the manner in and frequency with which information under these Regulations is provided or made available and, where applicable, the breakdown of the amounts of such charges;
 
 (b) where applicable, the interest and exchange rates to be applied or, if reference interest and exchange rates are to be used, the method of calculating the actual interest, and the relevant date and index or base for determining such reference interest or exchange rate;
@@ -52,8 +50,6 @@ PRIOR GENERAL INFORMATION FOR FRAMEWORK CONTRACTS
 
 (c) if agreed, the conditions under which the payment service provider reserves the right to block a payment instrument in accordance with regulation 45;
 
-Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020 2020/030
-
 (d) the liability of the payer in accordance with regulation 51, including information on the relevant amount;
 
 (e) how and within what period of time the payment service user is to notify the payment service provider of any unauthorised or incorrectly initiated or executed payment transaction in accordance with regulation 48, as well as the payment service provider’s liability for unauthorised payment transactions in accordance with regulation 50;
@@ -75,5 +71,3 @@ Financial Services 2019-26 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 202
 (a) any contractual clause on the law applicable to the framework contract and/or the competent courts;
 
 (b) the ADR procedures available to the payment service user in accordance with regulations 74 to 77.
-
-2019-26 Financial Services 2020/030 FINANCIAL SERVICES (PAYMENT SERVICES) REGULATIONS 2020
