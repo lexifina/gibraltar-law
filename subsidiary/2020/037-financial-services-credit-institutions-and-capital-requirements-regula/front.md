@@ -1,8 +1,6 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 44(4), 59(3), 61(1), 64(3), 83(1), 130, 150(1), 164(1), 166(2), 167(3), 620(1), 621(1), 627 & para.6 of Sch.10.
 
-FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
+Financial Services (Credit Institutions and Capital Requirements) Regulations 2020
 
 LN.2020/037
 
@@ -12,19 +10,15 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/475 r. 16C 27.12.2020 “
 
-rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45(3A)-(3B), 46(1)-(3), (11)-(12), 49, 51(13)(a), (14), (18A)-(18B), 54(1)(a)-(c), (4A)-(4C), (6)-(8), 56(3)(b)-(c), 59(5)- (6), 60(2)-(9), 66, 68, 70(5), 74(1), 75(2), 80(2A), 82A, 83-84, 85(2), (4), (7A)-(7D), (12), (12A)- (12C), (14)-(26), 86-87, 89(5), (10)-(12), 94(1)-(9), 99(2A), 134(1A), (2), (2A), 136(3), 139, 140(1)-(2), (2A)-(2B), (3), 140A-140C, 141(1)(d), 145(g), 146(d), 167(1)(f)-(h), 168(1), 169A, 173(1)(c), 175A-175C
+rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45(3A)-(3B), 46(1)-(3), (11)- (12), 49, 51(13)(a), (14), (18A)-(18B), 54(1)(a)-(c), (4A)-(4C), (6)-(8), 56(3)(b)-(c), 59(5)-(6), 60(2)-(9), 66, 68, 70(5), 74(1), 75(2), 80(2A), 82A, 83-84, 85(2), (4), (7A)-(7D), (12), (12A)-(12C), (14)-(26), 86-87, 89(5), (10)-(12), 94(1)-(9), 99(2A), 134(1A), (2), (2A), 136(3), 139, 140(1)-(2), (2A)-(2B), (3), 140A-140C, 141(1)(d), 145(g), 146(d), 167(1)(f)- (h), 168(1), 169A, 173(1)(c), 175A-175C
 
-28.12.2020 2021/250 rr. 2, 4(7), 5(1)(a), (f), (3), 7, 11(4), 12(5), 14(3)- (4), 15, 16(1)(c), (2)-(3), 16A, (1)(a)-(b), (2)-(3), (5)(b), (9), (14)-(19), 16B, 16C(1), (4)-(5), (7), 17, (a), 21, 22(1)(b), (2), (b), 25(4)-(5), 26(3), 28, 29(1)(a), (2), 31(3), 32, 33(9), 34(2), (5)-(6), 35(3)- (4), (7), (10)-(11), 40(3), 43(3), (8), (13), (18), (21), 46(1)-(3), 48(7)(b), (10), (16)-(17), 51(8)(c)(vi)- (vii), (d), (19), 54(1), (4C), (5)-(6), (7)(a), (8), 55(1)(g), (4), (8), 56(2)(c), (5), 57(1)-(2), 58(9), 59(4), (7), 60(5)-(8), 62-73, 75(1)-(4), 77(1), (3)- (4), 78(1), 79(1)-(5), 80, 81(2), (4)-(6), 82(1)-(2), 82A(1)(b), 83(5), 84(6), 85(2)-(4), (5)(e), (7A)(b), (9)(b), (10), (12A)-(12C), (13)(a), (14)-(15), (b), (17)(c), (19)-(20), (27), 86(4)(c)-(d), (7)(a), (8)- (20), (25)-(26), 87(1)(a)-(b), (2)-(3), (5), 88, 89(1), (4)(b), (5)(b), (7), (8)(a), (11)-(12), 90(1), (2)(b), 91, 92(1)-(2), (5), 93(1), (3), (6), (7)(a)-(c), (9), 96(1)-(2), (4)-(5), 99, 100(1), 105-118, 120-129,
+28.12.2020 2021/250 rr. 2, 4(7), 5(1)(a), (f), (3), 7, 11(4), 12(5), 14(3)-(4), 15, 16(1)(c), (2)-(3), 16A, (1)(a)-(b), (2)-(3), (5)(b), (9), (14)-(19), 16B, 16C(1), (4)-(5), (7), 17, (a), 21, 22(1)(b), (2), (b), 25(4)-(5), 26(3), 28, 29(1)(a), (2), 31(3), 32, 33(9), 34(2), (5)-(6), 35(3)-(4), (7), (10)- (11), 40(3), 43(3), (8), (13), (18), (21), 46(1)-(3), 48(7)(b), (10), (16)-(17), 51(8)(c)(vi)-(vii), (d), (19), 54(1), (4C), (5)-(6), (7)(a), (8), 55(1)(g), (4), (8), 56(2)(c), (5), 57(1)-(2), 58(9), 59(4), (7), 60(5)-(8), 62-73, 75(1)-(4), 77(1), (3)-(4), 78(1), 79(1)-(5), 80, 81(2), (4)-(6), 82(1)-(2), 82A(1)(b), 83(5), 84(6), 85(2)-(4), (5)(e), (7A)(b), (9)(b), (10), (12A)-(12C), (13)(a), (14)-(15), (b), (17)(c), (19)-(20), (27), 86(4)(c)-(d), (7)(a), (8)-(20), (25)-(26), 87(1)(a)-(b), (2)-(3), (5), 88, 89(1), (4)(b), (5)(b), (7), (8)(a), (11)- (12), 90(1), (2)(b), 91, 92(1)-(2), (5), 93(1), (3), (6), (7)(a)-(c), (9), 96(1)-(2), (4)-(5), 99, 100(1), 105-
 
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
-
-131(5), 134(1), (1A), (b), (2)-(3), 135(1), (a)-(b), (2), 136(3), 140C, 141(2), 143, 146(b), 148(1)-(2), 149(1), 150(2)(a)-(c), (3), (7), 151, 154, 155(2)(a), 156(1)(a), 157(1)(b), 158-163, 164(1), (4)-(5), 165(b)-(d), 166-169, 170(4)-(6), 171, 172(1), (3), 173, 174(1), 175B-175C, 176(1)-(2), Sch.
+118, 120-129, 131(5), 134(1), (1A), (b), (2)-(3), 135(1), (a)-(b), (2), 136(3), 140C, 141(2), 143, 146(b), 148(1)-(2), 149(1), 150(2)(a)-(c), (3), (7), 151, 154, 155(2)(a), 156(1)(a), 157(1)(b), 158-163, 164(1), (4)-(5), 165(b)-(d), 166-169, 170(4)-(6), 171, 172(1), (3), 173, 174(1), 175B-175C, 176(1)-(2), Sch.
 
 1.1.2021 2020/475 rr. 41, 55(1)(h)-(j), (7), (7A)-(7B), (8), (13) 28.6.2021 “ rr. 94A-94C, 95(1) 1.1.2022 2021/493 rr. 2(1), 3(a)-(b), (d), 4(1)-(4), (6), 18-23, 33(19), 43(21), 61, 82, 83(2)-(4), 84(3)-(5), 145(da), 164(1)
 
-1.1.2022
-
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
+1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -49,8 +43,6 @@ Permission
 Parent undertakings
 
 16A. Approval of financial holding companies and mixed financial holding companies. 16B. Omitted.
-
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 Authorisation of specific credit institutions
 
@@ -84,8 +76,6 @@ Chapter 2 Arrangements, processes and mechanisms of institutions
 
 General principles
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
-
 31. Internal governance and recovery and resolution plans. 32. Omitted.
 
 Technical criteria concerning the organisation and treatment of risks
@@ -99,8 +89,6 @@ Governance
 Chapter 3 Supervisory review and evaluation process
 
 54. Supervisory review and evaluation. 55. Technical criteria for the supervisory review and evaluation. 56. Supervisory examination programme. 57. Supervisory stress testing. 58. Ongoing review of the permission to use internal approaches.
-
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 Chapter 4 Level of application
 
@@ -126,8 +114,6 @@ SECTION 2 Financial holding companies, mixed financial holding companies and mix
 
 Chapter 3
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
-
 Capital buffers
 
 SECTION 1 Buffers
@@ -147,8 +133,6 @@ PART 6 REPORTING AND NOTIFICATION
 Information to be provided by credit institutions
 
 96. Disclosure of transactions. 97. Disclosure of inability to meet obligations. 98. Notification of controllers etc.
-
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 Accounts and information
 
@@ -178,8 +162,6 @@ Chapter 4 Third country institutions
 
 Representative offices of third country credit institutions
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
-
 131. Third country credit institutions: establishing a representative office or changing its name. 132. Powers to object to names of third country credit institutions. 133. Powers to require information and documents.
 
 Relations with third countries
@@ -199,8 +181,6 @@ Intervention
 Sanctions
 
 144. Sanctioning powers. 145. Additional persons subject to sanctioning powers. 146. Contravention of regulatory requirements. 147. Additional sanctioning power: management prohibiting order. 148. Maximum amounts of administrative penalty. 149. Publication of sanctioning action.
-
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 PART 9 MISCELLANEOUS
 
@@ -228,8 +208,6 @@ Transitional provisions: financial and mixed financial holding companies
 
 175A. Transitional provisions on approval of financial holding companies and mixed financial holding companies.
 
-Financial Services 2019-26 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020 2020/037
-
 175B. Omitted. 175C. Omitted.
 
 Savings and revocations
@@ -237,7 +215,5 @@ Savings and revocations
 176. Directive 2006/48/EC and Directive 2006/49/EC. 177. Revocations.
 
 SCHEDULE ADDITIONAL ACTIVITIES
-
-2019-26 Financial Services 2020/037 FINANCIAL SERVICES (CREDIT INSTITUTIONS AND CAPITAL REQUIREMENTS) REGULATIONS 2020
 
 In exercise of the powers conferred on the Minister under sections 6(1), 44(4), 59(3), 61(1), 64(3), 83(1), 130, 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
