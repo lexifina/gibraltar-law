@@ -60,13 +60,9 @@ section 356
 
 covered deposit (in Part 15):
 
-section 196
-
-debt securities (in Chapter 4 of Part 19):
+section 196 debt securities (in Chapter 4 of Part 19):
 
 section 356
-
-Financial Services 2019-26
 
 deposit (in Chapter 3 of Part 15):
 
@@ -144,15 +140,11 @@ section 406(2)
 
 market operator (in Part 22):
 
-section 423
-
-medium-sized undertakings (in Part 24):
+section 423 medium-sized undertakings (in Part 24):
 
 section 473
 
 micro, small or medium-sized enterprise (in Part 15): section 196
-
-2019-26 Financial Services
 
 multiple-vote securities (in Part 20):
 
@@ -230,11 +222,7 @@ securities: (in Chapter 3 of Part 19):
 
 section 344 (in Chapter 4 of Part 19):
 
-section 356
-
-Financial Services 2019-26
-
-(in Part 20):
+section 356 (in Part 20):
 
 section 387
 
@@ -278,8 +266,6 @@ Part 2 References to EU Regulations
 
 “the CSD Regulation” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012;
 
-2019-26 Financial Services
-
 “the ELTIF Regulation” means Regulation (EU) No 760/2015 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds;
 
 “EMIR” means Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories;
@@ -302,11 +288,7 @@ Part 2 References to EU Regulations
 
 “Regulation (EU) No 231/2013” means Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision;
 
-“Regulation (EU) No 1031/2010” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of
-
-Financial Services 2019-26
-
-greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community;
+“Regulation (EU) No 1031/2010” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community;
 
 “the REMIT Regulation” means Regulation (EU) No 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency; and
 
@@ -328,11 +310,7 @@ Part 3 References to EU Directives
 
 “the Bank Accounts Directive” means Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions;
 
-“the Capital Requirements Directive” means Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms,
-
-2019-26 Financial Services
-
-amending directive 2002/87/EC and repealing directives 2006/48/EC and 2006/49/EC;
+“the Capital Requirements Directive” means Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending directive 2002/87/EC and repealing directives 2006/48/EC and 2006/49/EC;
 
 “the Consumer Credit Directive” means Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers;
 
@@ -351,8 +329,6 @@ amending directive 2002/87/EC and repealing directives 2006/48/EC and 2006/49/EC
 “the E-Money Directive” means Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC;
 
 “the Financial Conglomerates Directive” means Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council;
-
-Financial Services 2019-26
 
 “the Insurance Accounts Directive” means Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings;
 
@@ -376,8 +352,6 @@ Financial Services 2019-26
 
 “the Payment Services Directive” means Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC;
 
-2019-26 Financial Services
-
 “the Professional Qualifications Directive” means Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications;
 
 “the Recovery and Resolution Directive” means Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council;
@@ -389,5 +363,3 @@ Financial Services 2019-26
 “the Transparency Directive” means Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC; and
 
 “the UCITS Directive” means Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities.
-
-Financial Services 2019-26

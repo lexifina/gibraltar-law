@@ -30,8 +30,6 @@ Investment firms
 
 Chief Investment Officer Head of Risk Management
 
-2019-26 Financial Services
-
 Regulated market
 
 Head of Markets (if market is trading) Head of Regulation
@@ -51,5 +49,3 @@ Head of Credit
 DLT providers
 
 Head of Security Head of Technology Head of Risk Management Head of Finance
-
-Financial Services 2019-26

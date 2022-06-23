@@ -32,8 +32,6 @@ Disclosure of interest.
 
 (a) must declare that interest on the first occasion on which the matter is due to be considered by the GFSC; and
 
-2019-26 Financial Services
-
 (b) subject to sub-paragraph (2) must not participate in the GFSC’s consideration of the matter.
 
 (2)  Where a member declares an interest under sub-paragraph (1))(a) but is of the opinion that the interest is of a nature that does not prevent the member from participating in the consideration of the matter–
@@ -63,8 +61,6 @@ Committees of the GFSC.
 (b) may establish other standing or special committees, (or sub-committees) and may refer any matter for consideration, enquiry or management  to any committee.
 
 (2)  A committee established under sub-paragraph (1) may not discharge any function of the ARC, DMC or FSRCC.
-
-Financial Services 2019-26
 
 (3)  The GFSC must establish terms of reference and rules of procedure for any committee it establishes and for the ARC.
 
@@ -100,8 +96,6 @@ Establishment and operation of general fund.
 
 (3)  The GFSC may borrow on such terms as may be agreed from time to time from the Government such sums as it may require to enable it to discharge its functions and for the purposes of meeting expenditure of a capital nature.
 
-2019-26 Financial Services
-
 Accounts and auditing.
 
 6.(1)  The GFSC must keep proper accounting records of its income and other receipts and expenditures during each financial year, and must also cause a statement of its accounts for each financial year to be prepared within three months after the end of that year.
@@ -130,8 +124,6 @@ Accounts and auditing.
 
 Preparation of estimates and value for money.
 
-Financial Services 2019-26
-
 7.(1)  The GFSC must prepare and submit to the Minister annual estimates of income and expenditure, including capital expenditure, not later than three months prior to the commencement of each financial year and such additional information and explanations as the Minister may require.
 
 (2)  The Minister may at any time appoint a person to conduct a value for money review of the GFSC’s expenditure budget and to report on that review to the Minister.
@@ -151,5 +143,3 @@ Common seal.
 (a) the instrument must be signed by the persons so present as witnesses to the sealing; and
 
 (b) the sealing and witnessing of the instrument must be recorded in a register kept by the GFSC for the purpose.
-
-2019-26 Financial Services

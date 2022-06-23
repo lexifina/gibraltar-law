@@ -32,8 +32,6 @@ Membership.
 
 (10)  A GFSC member or employee is not eligible to be appointed as a member of the DMC.
 
-Financial Services 2019-26
-
 Term of office of members
 
 2.(1)  The DMC Chair and members of the DMC are to be appointed for such term as the Minister may specify in the instrument of appointment.
@@ -68,8 +66,6 @@ Procedure and meetings.
 
 (5)  If at any time, as a result of members being unable to act due to conflicts of interest or otherwise unavailable, there are insufficient members available to discharge the DMC’s functions (whether generally or in relation to a particular matter), the Minister may, after consulting with the GFSC, appoint temporary members for a specified period or to make decisions in respect of a particular matter.
 
-2019-26 Financial Services
-
 (6)  If, after the Minister has appointed temporary members under sub-paragraph (5), there are insufficient members available who may decide a matter before the DMC, the Minister may make appointments under paragraph 1(4) or may direct that the decision is to be taken by the members of the GFSC.
 
 (7)  For the purpose of this Schedule, in respect of conflicts of interest, paragraph 2 of Schedule 4 applies to the DMC (with any necessary modifications) as it applies to the GFSC.
@@ -98,12 +94,8 @@ General powers.
 
 Immunity.
 
-Financial Services 2019-26
-
 7.(1)  Any person who is a member of the DMC is not liable in damages for anything done or omitted in the discharge or purported discharge of any powers or functions conferred on the DMC by this Act.
 
 (2)  Sub-paragraph (1) does not apply to an act or omission which is shown to be in bad faith.
 
 (3)  The GFSC must (unless bad faith is definitively found to have existed) indemnify any existing and former members of the DMC for the costs of defending any action brought by a third party in respect of anything they are alleged to have done or omitted in the discharge or purported discharge of any powers or functions conferred on the DMC by this Act.
-
-2019-26 Financial Services

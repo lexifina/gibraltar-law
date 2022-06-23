@@ -24,11 +24,7 @@ INVESTMENTS OF UCITS SCHEMES
 
 (i) such other collective investment undertakings are authorised under laws which provide that they are subject to supervision considered by the GFSC to be equivalent to that laid down by or under this Act, and that cooperation between authorities is sufficiently ensured;
 
-(ii) the level of protection for unitholders in the other collective investment undertakings is equivalent to that provided for unit-holders in a UCITS scheme, and in particular that the rules on asset segregation, borrowing, lending, and uncovered sales of transferable securities and money market
-
-Financial Services 2019-26
-
-instruments are equivalent to the requirements of the Financial Services (UCITS) Regulations 2020;
+(ii) the level of protection for unitholders in the other collective investment undertakings is equivalent to that provided for unit-holders in a UCITS scheme, and in particular that the rules on asset segregation, borrowing, lending, and uncovered sales of transferable securities and money market instruments are equivalent to the requirements of the Financial Services (UCITS) Regulations 2020;
 
 (iii) the business of the other collective investment undertakings is reported in half-yearly and annual reports to enable an assessment to be made of the assets and liabilities, income and operations over the reporting period; and
 
@@ -49,8 +45,6 @@ instruments are equivalent to the requirements of the Financial Services (UCITS)
 (i) are issued or guaranteed by–
 
 (aa) the government of Gibraltar or the government of a country or territory outside Gibraltar;
-
-2019-26 Financial Services
 
 (bb) a central, regional or local authority or central bank of a country or territory outside Gibraltar;
 
@@ -81,8 +75,6 @@ but a UCITS scheme may hold ancillary liquid assets.
 3.  An open-ended investment company may acquire movable or immovable property which is essential for the direct pursuit of its business.
 
 Interpretation
-
-Financial Services 2019-26
 
 4.  The following provisions have effect for the purposes of paragraphs 1 and 2 of this Schedule.
 
@@ -116,8 +108,6 @@ Transferable securities.
 
 (d) appropriate information is available for them–
 
-2019-26 Financial Services
-
 (i) in the case of securities within paragraph 1(a) to (d), in the form of regular, accurate and comprehensive information to the market in question on the security or, where relevant, on the portfolio of the security;
 
 (ii) in the case of other securities referred to in paragraph 2 or 3, in the form of regular and accurate information to the UCITS scheme on the security or, where relevant, on the portfolio of the security;
@@ -147,8 +137,6 @@ Transferable securities.
 (iii) where asset management activity is carried out by another entity on behalf of the closed-ended fund, that entity is itself regulated for the purpose of investor protection;
 
 (b) units in closed-ended funds constituted under the law of contract which meet the following criteria–
-
-Financial Services 2019-26
 
 (i) the units of the closed-ended funds meet the criteria set out in paragraph 6;
 
@@ -184,8 +172,6 @@ Instruments normally dealt in on the money market.
 
 (c) they undergo regular yield adjustments in line with money market conditions at least every 397 days; or
 
-2019-26 Financial Services
-
 (d) their risk profile, including credit and interest rate risks, corresponds to that of financial instruments which have a maturity as referred to in sub-paragraphs (a) or (b), or are subject to a yield adjustment as referred to in sub-paragraph (c).
 
 Liquid instruments with a value which can be accurately determined at any time.
@@ -216,8 +202,6 @@ Liquid financial assets with respect to financial derivative instruments.
 
 (ii) interest rates;
 
-Financial Services 2019-26
-
 (iii) foreign exchange rates or currencies;
 
 (iv) financial indices;
@@ -245,8 +229,6 @@ Financial Services 2019-26
 (2)  For the purposes of paragraph 1(g)(iii), the reference to fair value is to be understood as a reference to the amount for which an asset could be exchanged, or a liability settled, between knowledgeable, willing parties in an arm’s length transaction.
 
 (3)  For the purposes of paragraph 1(g)(iii), the reference to reliable and verifiable valuation is to be understood as a reference to a valuation, by the UCITS scheme, corresponding to the fair value as referred to in sub-paragraph (2), which does not rely only on market quotations by the counterparty and which meets the following criteria–
-
-2019-26 Financial Services
 
 (a) the basis for the valuation is either a reliable up-to-date market value of the instrument, or, if such a value is not available, a pricing model using an adequate recognised methodology;
 
@@ -276,8 +258,6 @@ Financial indices
 
 (iii) the underlying assets are sufficiently liquid, which allows users to replicate the index, if necessary;
 
-Financial Services 2019-26
-
 (c) they are published in an appropriate manner, in that the following criteria are met–
 
 (i) their publication process relies on sound procedures to collect prices and to calculate and subsequently to publish the index value, including pricing procedures for components where a market price is not available;
@@ -303,8 +283,6 @@ Instruments whose issue or issuer is regulated for the purpose of protecting inv
 (b) updates of the information referred to in paragraph (a) on a regular basis and whenever a significant event occurs;
 
 (c) the information referred to in paragraph (a), verified by appropriately qualified third parties not subject to instructions from the issuer;
-
-2019-26 Financial Services
 
 (d) available and reliable statistics on the issue or the issuance programme.
 
@@ -338,10 +316,6 @@ Securitisation vehicles which benefit from a banking liquidity line.
 
 17.  In paragraph 1(h)(iv)(cc)–
 
-Financial Services 2019-26
-
 (a) the reference to “securitisation vehicles” is to be understood as a reference to structures, whether in corporate, trust or contractual form, set up for the purpose of securitisation operations; and
 
 (b) the reference to “banking liquidity lines” is to be understood as a reference to banking facilities secured by a financial institution which itself complies with paragraph 1(h)(iii).
-
-2019-26 Financial Services

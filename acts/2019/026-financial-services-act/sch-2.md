@@ -32,8 +32,6 @@ The regulated activity
 
 13. Issuing electronic money.
 
-2019-26 Financial Services
-
 PART 4 PAYMENT SERVICES
 
 General
@@ -64,8 +62,6 @@ Chapter 3 Insurance management
 
 28. Interpretation of Chapter 3 of Part 5.
 
-Financial Services 2019-26
-
 The regulated activity
 
 29. Insurance management.
@@ -94,9 +90,9 @@ Chapter 1 General
 
 Chapter 2 Investment services and investment activities
 
-44. Interpretation of Chapter 2 of Part 6. 45. Ancillary services. 46. Financial instruments to which Chapter 2 applies. 47. Terminology used in paragraph 46.
+44. Interpretation of Chapter 2 of Part 6. 45. Ancillary services. 46. Financial instruments to which Chapter 2 applies.
 
-2019-26 Financial Services
+47. Terminology used in paragraph 46.
 
 The regulated activities
 
@@ -118,9 +114,9 @@ The regulated activities
 
 Exclusions
 
-72. Exclusions from paragraph 71. 73. Instructions on behalf of participating issuers. 74. Instructions on behalf of settlement banks. 75. Instructions in connection with takeover offers. 76. Instructions in the course of providing a network.
+72. Exclusions from paragraph 71. 73. Instructions on behalf of participating issuers. 74. Instructions on behalf of settlement banks.
 
-Financial Services 2019-26
+75. Instructions in connection with takeover offers. 76. Instructions in the course of providing a network.
 
 PART 7 STRUCTURED DEPOSITS
 
@@ -162,8 +158,6 @@ General
 
 86. Application of Part 10 of this Schedule.
 
-2019-26 Financial Services
-
 The regulated activity
 
 87. Operating an APA. 88. Operating a CTP. 89. Operating an ARM.
@@ -192,8 +186,6 @@ Exclusions
 
 Chapter 3 Personal pensions
 
-Financial Services 2019-26
-
 105. Interpretation of Chapter 3 of Part 11.
 
 The regulated activities
@@ -216,17 +208,15 @@ The regulated activities
 
 Exclusions
 
-121. Omitted. 122. Mortgage creditors. 123. Mere introducers. 124. Recommendations relating to existing debt.
+121. Omitted. 122. Mortgage creditors. 123. Mere introducers.
+
+124. Recommendations relating to existing debt.
 
 PART 13 COMPANIES, FOUNDATIONS, PARTNERSHIPS AND UNINCORPORATED ASSOCIATIONS
 
 General
 
-2019-26 Financial Services
-
 125. Application and interpretation of Part 13 of this Schedule.
-
-Financial Services 2019-26
 
 The regulated activity
 
@@ -268,8 +258,6 @@ PART 16 VALUE STORED OR TRANSMITTED BY DATABASE
 
 General
 
-2019-26 Financial Services
-
 138. Application of Part 16 of this Schedule.
 
 The regulated activity
@@ -304,8 +292,6 @@ Interpretation of Schedule 2.
 
 (a) in Gibraltar, complies with provisions contained in or made under the Financial Services Act 2019 (a “Gibraltar MTF”);
 
-Financial Services 2019-26
-
 (b) in the United Kingdom, complies with the requirements of Article 2.1(14A)(b) of Regulation (EU) No 600/2014 as it applies in the United Kingdom after IP completion day (a “UK MTF”); or
 
 (c) in an EU State, complies with Title III of Directive 2014/65/EU (an “EU MTF”);
@@ -333,8 +319,6 @@ Financial Services 2019-26
 (b) “UK trading venue” means a UK regulated market, UK MTF or UK OTF; and
 
 (c) “EU trading venue” means an EU regulated market, EU MTF or EU OTF;
-
-2019-26 Financial Services
 
 “UCITS” has the meaning given in Part 18.
 
@@ -371,8 +355,6 @@ Application and interpretation of Part 2 of this Schedule.
 The regulated activity
 
 Accepting deposits.
-
-Financial Services 2019-26
 
 3.  Accepting deposits is a specified kind of activity if–
 
@@ -412,8 +394,6 @@ Sums paid by certain persons.
 
 (b) paid by one company to another at a time when both are members of the same group or when the same individual is a majority shareholder controller of both of them; or
 
-2019-26 Financial Services
-
 (c) paid by a person who, at the time when it is paid, is a close relative of the person receiving it or who is, or is a close relative of, a director or manager of that person or who is, or is a close relative of, a controller of that person.
 
 (2)  For the purposes of sub-paragraph (1)(b), an individual is a majority shareholder controller of a company if–
@@ -447,8 +427,6 @@ Sums received by persons authorised to deal etc.
 (i) Chapter 2 of Part 6;
 
 (ii) Chapter 2 of Part 11; or
-
-Financial Services 2019-26
 
 (iii) Chapter 3 of Part 11; or (b) an exempt person in relation to any such activity.
 
@@ -484,11 +462,7 @@ Funds received for payment services.
 
 “payment service user” has the same meaning as in the Payment Services Regulations.
 
-PART 3
-
-2019-26 Financial Services
-
-ELECTRONIC MONEY
+PART 3 ELECTRONIC MONEY
 
 General
 
@@ -524,8 +498,6 @@ Interpretation of Part 3 of this Schedule.
 
 The regulated activity
 
-Financial Services 2019-26
-
 Issuing electronic money.
 
 13.  Issuing electronic money is a specified kind activity.
@@ -560,8 +532,6 @@ Interpretation of Part 4.
 
 “direct debit” means a payment service for debiting a payer’s payment account, where a payment transaction is initiated by the payee on the basis of consent given by the payer to the payee, to the payee’s payment service provider or to the payer’s own payment service provider;
 
-2019-26 Financial Services
-
 “funds” means banknotes, coins, scriptural money or electronic money;
 
 “payee” means a person who is the intended recipient of funds which have been the subject of a payment transaction;
@@ -591,8 +561,6 @@ Interpretation of Part 4.
 “payment services” is to be understood in accordance with paragraph 16;
 
 “payment service user” means a person making use of a payment service in the capacity of payer, payee, or both; and
-
-Financial Services 2019-26
 
 “payment transaction” means an act, initiated by or on behalf of the payer or by the payee, of placing, transferring or withdrawing funds, irrespective of any underlying obligations between the payer and the payee.
 
@@ -632,8 +600,6 @@ Activities which are payment services.
 
 In point (5)–
 
-2019-26 Financial Services
-
 (a) “issuing of payment instruments” means a payment service by a payment service provider contracting to provide a payer with a payment instrument to initiate and process the payer’s payment transactions; and
 
 (b) “acquiring of payment transactions” means a payment service provided by a payment service provider contracting with a payee to accept and process payment transactions, which results in a transfer of funds to the payee.
@@ -662,8 +628,6 @@ Activities which are not payment services.
 
 (b) Payment transactions between the payer and the payee through a commercial agent authorised in an agreement to negotiate or conclude the sale or purchase of goods or services on behalf of either the payer or the payee but not both the payer and the payee.
 
-Financial Services 2019-26
-
 (c) The professional physical transport of banknotes and coins, including their collection, processing and delivery.
 
 (d) Payment transactions consisting of non-professional cash collection and delivery as part of a not-for-profit or charitable activity.
@@ -689,8 +653,6 @@ Financial Services 2019-26
 In point (h) “payment system” means a funds transfer system with formal and standardised arrangements and common rules for the processing, clearing and settlement of payment transactions.
 
 (i) Payment transactions related to securities asset servicing, including dividends, income or other distributions, or redemption or sale, carried out by the persons referred to in point (h) or by investment firms, credit institutions, collective investment undertakings or asset management companies providing investment services or by any other entities allowed to have the custody of financial instruments.
-
-2019-26 Financial Services
 
 (j) Services provided by technical service providers, which support the provision of payment services, without the provider entering at any time into possession of the funds to be transferred–
 
@@ -721,8 +683,6 @@ In point (h) “payment system” means a funds transfer system with formal and 
 In point (l)–
 
 “electronic communications network” means a network as defined in Article 2(a) of Directive 2002/21/EC of the European Parliament and of the Council;
-
-Financial Services 2019-26
 
 “electronic communications service” means a service as defined in Article 2(c) of Directive 2002/21/EC.
 
@@ -757,8 +717,6 @@ Application and interpretation of Part 5 of this Schedule.
 20.(1)  This Part of this Schedule–
 
 (a) has effect in relation to the item listed in section 5(2)(d) (contracts of insurance);
-
-2019-26 Financial Services
 
 (b) specifies the kinds of contracts of insurance to which Chapters 2, 3 and 4 of this Part apply; and
 
@@ -799,8 +757,6 @@ Classes of non-life insurance and classification of multiple classes.
 – fixed pecuniary benefits;
 
 – benefits in the nature of indemnity;
-
-Financial Services 2019-26
 
 – combinations of the two.
 
@@ -846,8 +802,6 @@ All damage to or loss of property (other than property included in classes 3, 4,
 
 – natural forces other than storm;
 
-2019-26 Financial Services
-
 – nuclear energy;
 
 – land subsidence.
@@ -890,8 +844,6 @@ All liability other than those referred to in classes 10, 11 and 12.
 
 – suretyship (indirect).
 
-Financial Services 2019-26
-
 16. Miscellaneous financial loss
 
 – employment risks;
@@ -928,11 +880,9 @@ Assistance for persons who get into difficulties while travelling, while away fr
 
 Table: Classification of multiple classes of non-life insurance
 
-Column 1 Column 2 Column 3 Entry Classes of non-life insurance Classification (a) Classes 1 and 2 Accident and Health Insurance
+Column 1 Column 2 Column 3 Entry Classes of non-life insurance Classification (a) Classes 1 and 2 Accident and Health Insurance (b) Classes 1 (fourth indent), 3, 7 and 10 Motor Insurance (c) Classes 1 (fourth indent), 4, 6, 7 and 12 Marine and Transport Insurance (d) Classes 1 (fourth indent), 5, 7 and 11 Aviation Insurance
 
-2019-26 Financial Services
-
-(b) Classes 1 (fourth indent), 3, 7 and 10 Motor Insurance (c) Classes 1 (fourth indent), 4, 6, 7 and 12 Marine and Transport Insurance (d) Classes 1 (fourth indent), 5, 7 and 11 Aviation Insurance (e) Classes 8 and 9 Insurance against Fire and other Damage to Property (f) Classes 10, 11, 12 and 13 Liability Insurance (g) Classes 14 and 15 Credit and Suretyship Insurance (h) All classes. General
+(e) Classes 8 and 9 Insurance against Fire and other Damage to Property (f) Classes 10, 11, 12 and 13 Liability Insurance (g) Classes 14 and 15 Credit and Suretyship Insurance (h) All classes. General
 
 Classes of life insurance.
 
@@ -959,8 +909,6 @@ The insurance referred to in paragraphs (i) or (ii) of Class I which are linked 
 IV. Permanent health
 
 Types of permanent health insurance not subject to cancellation currently existing in Ireland and the United Kingdom.
-
-Financial Services 2019-26
 
 V. Tontines
 
@@ -996,8 +944,6 @@ Effecting and carrying out contracts of insurance.
 
 Exclusions
 
-2019-26 Financial Services
-
 Exclusions from paragraph 24.
 
 25.  The kinds of activity specified by paragraph 24(1) and (2) are subject to the exclusions specified by paragraphs 26 and 27.
@@ -1025,8 +971,6 @@ Breakdown insurance.
 (a) which causes the driver of the relevant vehicle to be unable to start a journey in the vehicle or involuntarily to bring the vehicle to a halt on a journey because of some malfunction of the vehicle or failure of it to function, and
 
 (b) after which the journey cannot reasonably be commenced or continued in the relevant vehicle.
-
-Financial Services 2019-26
 
 Chapter 3 Insurance management
 
@@ -1066,8 +1010,6 @@ Employees of firms or intermediaries.
 
 Firms carrying on other regulated activities.
 
-2019-26 Financial Services
-
 32.  There is excluded from paragraph 29 any activity which is carried on by a regulated firm with permission under Part 7 of this Act to carry on an activity of a kind specified by–
 
 (a) Chapter 4 of this Part;
@@ -1100,11 +1042,7 @@ Interpretation of Chapter 4 of Part 5.
 
 (iii) assisting in the administration and performance of such contracts, in particular in the event of a claim; and
 
-(b) includes the provision of information concerning one or more contracts of insurance in accordance with criteria selected by customers through a website or other media and the compilation of an insurance product ranking list, including
-
-Financial Services 2019-26
-
-price and product comparison, or a discount on the price of a contract of insurance, when the customer is able to directly or indirectly conclude a contract of insurance using a website or other media;
+(b) includes the provision of information concerning one or more contracts of insurance in accordance with criteria selected by customers through a website or other media and the compilation of an insurance product ranking list, including price and product comparison, or a discount on the price of a contract of insurance, when the customer is able to directly or indirectly conclude a contract of insurance using a website or other media;
 
 “insurance intermediary” means any natural or legal person, other than an insurance undertaking or reinsurance undertaking or their employees and other than an ancillary insurance intermediary, who carries on the activity specified by paragraph 34;
 
@@ -1135,8 +1073,6 @@ Exclusions from paragraphs 34 and 35.
 36.  The kinds of activity specified by paragraphs 34 and 35 are subject to the exclusions specified by paragraphs 37 to 41.
 
 Activities complementary to supply of certain goods or services.
-
-2019-26 Financial Services
 
 37.   There is excluded from paragraph 34 any activity carried out by an ancillary insurance intermediary in relation to an insurance product which–
 
@@ -1172,8 +1108,6 @@ Mere provision of information about potential policyholders.
 
 40.  There is excluded from paragraphs 34 and 35 any activity consisting in the mere provision of data and information on potential policyholders to insurance intermediaries, reinsurance intermediaries, insurance undertakings or reinsurance undertakings where the provider does not take any additional steps to assist in the conclusion of a contract of insurance or a contract of reinsurance.
 
-Financial Services 2019-26
-
 Mere provision of information to potential policyholders.
 
 41.  There is excluded from paragraphs 34 and 35 any activity consisting in the mere provision of information about insurance or reinsurance products, an insurance intermediary, a reinsurance intermediary, an insurance undertaking or a reinsurance undertaking to potential policyholders where the provider does not take any additional steps to assist in the conclusion of a contract of insurance or a contract of reinsurance.
@@ -1200,15 +1134,15 @@ Application of Part 6 of this Schedule.
 
 (b) specifies the kinds of activity carried on relation to such financial instruments which are to be regulated activities (sending dematerialised instructions).
 
-Chapter 2 Investment services and investment activities
+Chapter 2
+
+Investment services and investment activities
 
 Interpretation of Chapter 2 of Part 6. of this Schedule
 
 44.(1)  In this Chapter–
 
 “algorithmic trading”–
-
-2019-26 Financial Services
 
 (a) means trading in financial instruments where a computer algorithm, with limited or no human intervention, automatically determines individual parameters of orders such as whether to initiate the order, the timing, price or quantity of the order or how to manage the order after its submission; but
 
@@ -1244,8 +1178,6 @@ Interpretation of Chapter 2 of Part 6. of this Schedule
 
 (i) co-location;
 
-Financial Services 2019-26
-
 (ii) proximity hosting; or
 
 (iii) high-speed direct electronic access;
@@ -1277,8 +1209,6 @@ Financial Services 2019-26
 (c) any other securities giving the right to acquire or sell any such transferable securities or giving rise to a cash settlement determined by reference to transferable securities, currencies, interest rates or yields, commodities or other indices or measures.
 
 (2)  Money-market instruments includes treasury bills, certificates of deposits, commercial papers and other instruments with substantively equivalent features where they have the following characteristics–
-
-2019-26 Financial Services
 
 (a) they have a value that can be determined at any time;
 
@@ -1312,8 +1242,6 @@ Financial instruments to which Chapter 2 applies.
 
 (1)  Transferable securities;
 
-Financial Services 2019-26
-
 (2)  Money-market instruments;
 
 (3)  Units in collective investment undertakings;
@@ -1338,8 +1266,6 @@ Terminology used in paragraph 46.
 
 47.  The provisions of paragraph 46 of this Schedule are to be read with extracts A to E , which are derived from Commission Delegated Regulation (EU) 2017/565 (the “Commission Regulation”).
 
-2019-26 Financial Services
-
 EXTRACT A Wholesale energy products that must be physically settled (Derived from Article 5 of the Commission Regulation)
 
 (1)  For the purposes of point (6) of paragraph 46, a wholesale energy product must be physically settled where all the following conditions are satisfied:
@@ -1358,11 +1284,7 @@ For the purposes of point (d), operational netting in power and gas markets shal
 
 (3)  For the purposes of point (6) of paragraph 46, force majeure shall include any exceptional event or a set of circumstances which are outside the control of the parties to the contract, which the parties to the contract could not have reasonably foreseen or avoided by the exercise of appropriate and reasonable due diligence and which prevent one or both parties to the contract from fulfilling their contractual obligations.
 
-(4)  For the purposes of point (6) of paragraph 46, bona fide inability to settle shall include any event or set of circumstances, not qualifying as force majeure as referred to in sub-paragraph (3), which are objectively and expressly defined in the contract
-
-Financial Services 2019-26
-
-terms, for one or both parties to the contract, acting in good faith, not to fulfil their contractual obligations.
+(4)  For the purposes of point (6) of paragraph 46, bona fide inability to settle shall include any event or set of circumstances, not qualifying as force majeure as referred to in sub-paragraph (3), which are objectively and expressly defined in the contract terms, for one or both parties to the contract, acting in good faith, not to fulfil their contractual obligations.
 
 (5)  The existence of force majeure or bona fide inability to settle provisions shall not prevent a contract from being considered as ‘physically settled’ for the purposes of point (6) of paragraph 46.
 
@@ -1376,8 +1298,6 @@ terms, for one or both parties to the contract, acting in good faith, not to ful
 
 (c) other methods of bringing about the transfer of rights of an ownership nature in relation to the relevant quantity of goods without physically delivering them including notification, scheduling or nomination to the operator of an energy supply network, that entitles the recipient to the relevant quantity of the goods.
 
-2019-26 Financial Services
-
 EXTRACT B Energy derivative contracts relating to oil and coal and wholesale energy products (Derived from Article 6 of the Commission Regulation)
 
 (1)  For the purposes of point (6) of paragraph 46, energy derivative contracts relating to oil shall be contracts with mineral oil, of any description and petroleum gases, whether in liquid or vapour form, including products, components and derivatives of oil and oil transport fuels, including those with biofuel additives, as an underlying.
@@ -1385,8 +1305,6 @@ EXTRACT B Energy derivative contracts relating to oil and coal and wholesale ene
 (2)  For the purposes of point (6) of paragraph 46, energy derivative contracts relating to coal shall be contracts with coal, defined as a black or dark- brown combustible mineral substance consisting of carbonised vegetable matter, used as a fuel, as an underlying.
 
 (3)  For the purposes of point (6) of paragraph 46, derivative contracts that have the characteristics of wholesale energy products as defined in Article 2(4) of the REMIT Regulation.
-
-Financial Services 2019-26
 
 EXTRACT C Other derivative financial instruments (Derived from Article 7 of the Commission Regulation)
 
@@ -1412,8 +1330,6 @@ A contract shall not be considered a spot contract where, irrespective of its ex
 
 (3)  For the purposes of point (10) of paragraph 46, a derivative contract relating to an underlying referred to in point (10) or in the text contained in Extract D below shall be considered to have the characteristics of other derivative financial instruments where one of the following conditions is satisfied:
 
-2019-26 Financial Services
-
 (a) it is settled in cash or may be settled in cash at the option of one or more of the parties, otherwise than by reason of a default or other termination event;
 
 (b) it is traded on a regulated market, an MTF, an OTF, or a third country trading venue that performs a similar function to a regulated market, MTF or an OTF;
@@ -1425,8 +1341,6 @@ A contract shall not be considered a spot contract where, irrespective of its ex
 (a) it is entered into with or by an operator or administrator of an energy transmission grid, energy balancing mechanism or pipeline network;
 
 (b) it is necessary to keep in balance the supplies and uses of energy at a given time, including the case when the reserve capacity contracted by an electricity transmission system operator as defined in Article 2(4) of Directive 2009/72/EC is being transferred from one prequalified balancing service provider to another prequalified balancing service provider with the consent of the relevant transmission system operator.
-
-Financial Services 2019-26
 
 EXTRACT D Derivatives under point (10) of paragraph 46 (derived from Article 8 of the Commission Regulation)
 
@@ -1447,8 +1361,6 @@ D. In addition to derivative contracts expressly referred to in point (10) of pa
 (g) an index or measure related to the price or value of, or volume of transactions in any asset, right, service or obligation;
 
 (h) an index or measure based on actuarial statistics.
-
-2019-26 Financial Services
 
 EXTRACT E Characteristics of other derivative contracts relating to currencies (Derived from Article 10 of the Community Regulation)
 
@@ -1475,8 +1387,6 @@ EXTRACT E Characteristics of other derivative contracts relating to currencies (
 (c) where the contract for the exchange of those currencies is used for the main purpose of the sale or purchase of a transferable security or a unit in a collective investment undertaking, the period generally accepted in the market for the settlement of that transferable security or a unit in a collective investment undertaking as the standard delivery period or 5 trading days, whichever is shorter.
 
 A contract shall not be considered a spot contract where, irrespective of its explicit terms, there is an understanding between the parties to the contract that delivery of the currency is to be postponed and not to be performed within the period set out in sub- paragraph (2)(a).
-
-Financial Services 2019-26
 
 (3)  The major currencies for the purposes of sub-paragraph (2) shall only include the US dollar, Euro, Japanese yen, Pound sterling, Australian dollar, Swiss franc, Canadian dollar, Hong Kong dollar, Swedish krona, New Zealand dollar, Singapore dollar, Norwegian krone, Mexican peso, Croatian kuna, Bulgarian lev, Czech koruna, Danish krone, Hungarian forint, Polish złoty and Romanian leu.
 
@@ -1509,8 +1419,6 @@ Dealing on own account.
 (2)  “Dealing on own account” means trading against proprietary capital resulting in the conclusion of transactions in one or more financial instruments.
 
 Portfolio management.
-
-2019-26 Financial Services
 
 51.(1)  Portfolio management is a specified kind of activity.
 
@@ -1546,8 +1454,6 @@ Underwriting or placing on a firm commitment basis.
 
 Placing without a firm commitment basis.
 
-Financial Services 2019-26
-
 54.  Placing of financial instruments without a firm commitment basis is a specified kind of activity.
 
 Operation of an MTF.
@@ -1579,8 +1485,6 @@ Investment services incidental to another professional activity.
 (2)  For the purposes of sub-paragraph (1), an investment service is to be treated as being provided in an incidental manner in the course of a professional activity where the following conditions are satisfied–
 
 (a) a close and factual connection exists between the professional activity and the provision of the investment service to the same client, such that the investment service can be regarded as accessory to the main professional activity;
-
-2019-26 Financial Services
 
 (b) the provision of investment services to the clients of the main professional activity does not aim to provide a systematic source of income to the person providing the professional activity; and
 
@@ -1614,8 +1518,6 @@ Own-account dealing in specified financial instruments.
 
 (ii) has direct electronic access to a trading venue;
 
-Financial Services 2019-26
-
 apart from non-financial entities who execute transactions on a trading venue which are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity of those non-financial entities or their groups;
 
 (c) a person who applies a high-frequency algorithmic trading technique; or
@@ -1647,8 +1549,6 @@ Own-account dealing in other financial instruments.
 (b) the person does not apply a high-frequency algorithmic trading technique; and
 
 (c) the person notifies annually the relevant competent authority that the person makes use of this exemption and on request reports to the competent authority the basis on which the person considers that the activity in sub-paragraph (1)(a) and (b) is ancillary to the person’s main business.
-
-2019-26 Financial Services
 
 63.  Omitted.
 
@@ -1686,8 +1586,6 @@ Interpretation of Chapter 3 of Part 6.
 
 “dematerialised instruction” means an instruction sent or received by means of relevant system;
 
-Financial Services 2019-26
-
 “relevant system” means a computer-based system (and procedures) which enable title to units of securities to be evidenced and transferred without a written instrument and, in respect of which, the operator is authorised by a regulator outside Gibraltar having functions equivalent to those of the GFSC or by a prescribed authority in another territory;
 
 “sovereign debt” means a debt instrument issued by a sovereign issuer;
@@ -1719,8 +1617,6 @@ Financial Services 2019-26
 Financial instruments to which Chapter applies.
 
 70.  The financial instruments referred to in section 5(2)(e) to which this Chapter applies are–
-
-2019-26 Financial Services
 
 (a) transferable securities; and
 
@@ -1758,8 +1654,6 @@ Instructions on behalf of participating issuers.
 
 73.(1)  There is excluded from paragraph 71 the act of sending, or causing to be sent, a dematerialised instruction where the person on whose behalf the instruction is sent or caused to be sent is a participating issuer.
 
-Financial Services 2019-26
-
 (2)  “Participating issuer” means a person who has issued a relevant financial instrument where title to units of that instrument is permitted by an operator to be transferred by means of a relevant system.
 
 Instructions on behalf of settlement banks.
@@ -1776,7 +1670,9 @@ Instructions in the course of providing a network.
 
 76.  There is excluded from paragraph 71 the act of sending, or causing to be sent, a dematerialised instruction as a necessary part of the provision of a network for the purposes of a relevant system by a network provider who is accredited for that purpose by the GFSC.
 
-PART 7 STRUCTURED DEPOSITS
+PART 7
+
+STRUCTURED DEPOSITS
 
 General
 
@@ -1791,8 +1687,6 @@ Application and interpretation of Part 7 of this Schedule.
 (2)  In this Part “structured deposit” means a deposit which is fully repayable at maturity on terms under which interest or a premium will be paid or is at risk, according to a formula involving factors such as–
 
 (a) an index or combination of indices, excluding variable rate deposits whose return is directly linked to an interest rate index such as Euribor or Libor;
-
-2019-26 Financial Services
 
 (b) a financial instrument or combination of financial instruments;
 
@@ -1834,8 +1728,6 @@ Interpretation of Part 8.
 
 “benchmark” means any index which is used to–
 
-Financial Services 2019-26
-
 (a) determine the amount payable under a financial instrument or a financial contract, or the value of a financial instrument; or
 
 (b) measure the performance of an investment fund for the purpose of tracking the return of such index, defining the asset allocation of a portfolio or computing the performance fees;
@@ -1868,8 +1760,6 @@ Financial Services 2019-26
 
 (b) the ‘substantial basis’ is to be measured either–
 
-2019-26 Financial Services
-
 (i) by the size of the OTC trading carried out by the investment firm in relation to the total trading of the investment firm in a specific financial instrument; or
 
 (ii) by the size of the OTC trading carried out by the investment firm in relation to the total trading in the relevant area in a specific financial instrument; and
@@ -1900,11 +1790,7 @@ Administering a benchmark.
 
 (c) determining a benchmark through the application of a formula or other method of calculation or by an assessment of input data provided for that purpose.
 
-PART 9
-
-Financial Services 2019-26
-
-MARKETS IN FINANCIAL INSTRUMENTS
+PART 9 MARKETS IN FINANCIAL INSTRUMENTS
 
 Application of Part 9 of this Schedule.
 
@@ -1942,8 +1828,6 @@ Application of Part 10 of this Schedule.
 
 86.  This Part of this Schedule–
 
-2019-26 Financial Services
-
 (a) has effect in relation to the item listed in section 5(2)(i) (data reporting services); and
 
 (b) specifies the kinds of activity carried on in relation to different kinds of data reporting services which are to be regulated activities.
@@ -1977,8 +1861,6 @@ Operating an ARM.
 Exclusions
 
 Exclusions from paragraphs 87 to 89.
-
-Financial Services 2019-26
 
 90.  The kinds of activity specified by paragraphs 87 to 89 are subject to the exclusions specified by paragraphs 58 to 68.
 
@@ -2018,8 +1900,6 @@ Managing a UCITS.
 
 (b) customer inquiries;
 
-2019-26 Financial Services
-
 (c) valuation and pricing (including tax returns);
 
 (d) regulatory compliance monitoring;
@@ -2057,8 +1937,6 @@ Acting as sole director of a UCITS.
 Managing an AIF (in-scope AIFM).
 
 95.(1)  Managing one or more AIFs is a specified kind of activity where–
-
-Financial Services 2019-26
 
 (a) the value of assets under management is equal to, or more than, either of the limits specified in paragraph 97(1)(a) or (b); or
 
@@ -2098,8 +1976,6 @@ those activities are included in the activity specified by sub-paragraph (1).
 
 (vii) unit/shares issues and redemptions;
 
-2019-26 Financial Services
-
 (viii) contract settlements, including certificate dispatch;
 
 (ix) record keeping;
@@ -2131,8 +2007,6 @@ Managing an AIF (small scheme manager).
 Acting as depositary of an AIF with a small scheme manager.
 
 98.(1)  Acting as the depositary of an AIF managed by a small scheme manager.
-
-Financial Services 2019-26
 
 (2)  “Small scheme manager” means a person who has permission under Part 7 of this Act to carry on an activity of the kind specified by paragraph 97.
 
@@ -2169,8 +2043,6 @@ Operating a collective investment scheme that is a UCITS or AIF.
 (a) the person carries on the activity in relation to a UCITS; and
 
 (b) at the time the person carries on the activity, the UCITS is managed by a regulated firm with permission under Part 7 of this Act to carry on an activity of the kind specified by paragraph 93.
-
-2019-26 Financial Services
 
 (2)  A person does not carry on an activity of the kind specified by paragraph 99 (operating a collective scheme) if–
 
@@ -2210,8 +2082,6 @@ Operating a pension scheme in relation to a UCITS or AIF.
 
 109.  A person does not carry an activity of the kind specified by paragraph 106 if the activity–
 
-Financial Services 2019-26
-
 (a) is carried on by a regulated firm with permission under Part 7 of this Act to carry on an activity of the kind specified by paragraph 93 and is carried on with or for the purposes of managing a UCITS; or
 
 (b) is carried on by a regulated firm with permission under Part 7 of this Act to carry on an activity of the kind specified by paragraph 95 or 97 and is carried on with or for the purposes of managing an AIF.
@@ -2240,11 +2110,7 @@ Advice incidental to another professional activity.
 
 Advice in newspapers etc.
 
-114.(1)  There is excluded from paragraph 107 the giving of advice in writing or other legible form if the advice is contained in a newspaper, journal, magazine or other periodical
-
-2019-26 Financial Services
-
-publication, or is given by way of a service comprising regularly updated news or information, if the principal purpose of the publication or service, taken as a whole and including any advertisements or other promotional material contained in it, is not that of leading or enabling persons to–
+114.(1)  There is excluded from paragraph 107 the giving of advice in writing or other legible form if the advice is contained in a newspaper, journal, magazine or other periodical publication, or is given by way of a service comprising regularly updated news or information, if the principal purpose of the publication or service, taken as a whole and including any advertisements or other promotional material contained in it, is not that of leading or enabling persons to–
 
 (a) participate in or become a member of a personal pension scheme or occupational pension scheme; or
 
@@ -2273,8 +2139,6 @@ Interpretation of Part 12.
 “annual percentage rate of charge” means the total cost of the credit to the consumer, expressed as an annual percentage of the total amount of credit which equates, on an annual basis, to the present value of all future or existing commitments (drawdowns, repayments and charges) agreed by the mortgage creditor and the consumer;
 
 “consumer” means an individual acting for purposes which are outside the individual’s trade business or profession;
-
-Financial Services 2019-26
 
 “credit agreement” means an agreement by which a person grants, or promises to grant, to a consumer a credit in the form of a deferred payment, loan or other similar financial accommodation;
 
@@ -2308,8 +2172,6 @@ Credit agreements to which this Part applies.
 
 (i) a mortgage (or other comparable security) on residential immovable property; or
 
-2019-26 Financial Services
-
 (ii) a right related to residential immovable property; or
 
 (b) a credit agreement which is for the purpose of acquiring or retaining property rights in land or in an existing or projected building.
@@ -2339,8 +2201,6 @@ Granting credit by means of a mortgage credit agreement.
 118.(1)  Granting credit by means of a mortgage credit agreement is a specified kind of activity.
 
 (2)  Promising to carry on an activity of the kind specified in sub-paragraph (1) is a specified kind of activity.
-
-Financial Services 2019-26
 
 Acting as a mortgage credit intermediary.
 
@@ -2375,8 +2235,6 @@ Recommendations relating to existing debt.
 (a) by an insolvency practitioner who is licensed under Part 25; or
 
 (b) as part of a public or voluntary debt advisory service which does not operate on a commercial basis.
-
-2019-26 Financial Services
 
 PART 13 COMPANIES, FOUNDATIONS, PARTNERSHIPS AND UNINCORPORATED ASSOCIATIONS
 
@@ -2413,8 +2271,6 @@ Company etc. management.
 (c) providing it with individuals or companies to act as company secretary;
 
 (d) acting in any other capacity as an officer of it;
-
-Financial Services 2019-26
 
 (e) providing it with nominee services including, in particular, acting as or providing nominee shareholders;
 
@@ -2458,8 +2314,6 @@ Application of Part 14 of this Schedule.
 
 130.(1)  This Part of this Schedule–
 
-2019-26 Financial Services
-
 (a) has effect in relation to the item listed in section 5(2)(m) (trusts and foundations); and
 
 (b) specifies the kinds of activities carried on relation to trusts and foundations which are to be regulated activities.
@@ -2497,8 +2351,6 @@ Miscellaneous exclusions.
 (b) a statutory auditor or audit firm who is approved under Part 24; or
 
 (c) a trustee of one or more personal pension schemes (within the meaning of Part 27); and
-
-Financial Services 2019-26
 
 (b) the person is performing duties within the ambit of the person’s profession which are carried out other than in connection with any other regulated activity.
 
@@ -2538,8 +2390,6 @@ Miscellaneous exclusions.
 
 137.  There is excluded from paragraph 135 any activity carried on in relation to foreign currency, precious metals or cheques by–
 
-2019-26 Financial Services
-
 (a) a regulated firm with permission under Part 7 of this Act to carry on an activity of the kind specified by paragraph 3, 13 or 19; or
 
 (b) an electronically based foreign exchange trading platform.
@@ -2576,8 +2426,6 @@ Exclusions
 
 Exclusions from paragraph 139.
 
-Financial Services 2019-26
-
 140.  The kind of activity specified by paragraph 139 is subject to the exclusions specified by paragraphs 141 and 142.
 
 Activities incidental to carrying on other regulated activities.
@@ -2603,5 +2451,3 @@ Activities of persons subject to other forms of statutory regulation.
 (iv) such other enactments as the Minister may by regulations prescribe; and
 
 (b) uses DLT only in the course of carrying on that activity.
-
-2019-26 Financial Services

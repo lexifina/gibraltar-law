@@ -32,8 +32,6 @@ Membership.
 
 (ii) an auditor who is approved or registered under Part 24, nominated by the Gibraltar Society of Accountants;
 
-2019-26 Financial Services
-
 (iii) a barrister or solicitor nominated by the General Council of the Bar in Gibraltar;
 
 (iv) two individuals nominated by the Gibraltar Bankers Association; and
@@ -57,8 +55,6 @@ Membership.
 (b) in the case of a person nominated under paragraph 4(1)(b)(iv) or (v), the person is no longer a director, officer or employee of an entity which is a member of the body referred to in that paragraph.
 
 (8)  The Minister may re-appoint as a member or alternate a person who is (or has been) a member or alternate, except where the person was removed under paragraph 5(2)(b) to (e).
-
-Financial Services 2019-26
 
 (9)  Any vacancy in the membership of the Board must be filled by the Minister making an appointment in accordance with sub-paragraph (1) as it applied to the appointment of the person who has ceased to be a member.
 
@@ -96,8 +92,6 @@ Disclosure of interests.
 
 (a) must declare that interest on any occasion on which the matter is due to be considered by the Board; and
 
-2019-26 Financial Services
-
 (b) subject to sub-paragraph (2) must not participate in the Board’s consideration of the matter.
 
 (2)  Where a member declares an interest under sub-paragraph (1)(a) but is of the opinion that the interest is of a nature that does not prevent the member from participating in consideration of the matter–
@@ -125,8 +119,6 @@ Procedure and meetings.
 (3)  If the Chair is absent from or unable to preside at a meeting–
 
 (a) the Chair’s alternate must preside at the meeting; or
-
-Financial Services 2019-26
 
 (b) if the Chair’s alternate is not present or unable to preside, the member appointed under paragraph 4(1)(b)(i) must preside at the meeting.
 
@@ -162,8 +154,6 @@ Audit.
 
 (i) in the case of the balance sheet, of the Board’s finances as at the end of the financial year; and
 
-2019-26 Financial Services
-
 (ii) in the case of the income and expenditure account, of the surplus or deficit for that financial year; and
 
 (e) whether in the auditor’s opinion, the Board has exercised with diligence its obligations in relation to the collection of its revenues.
@@ -181,5 +171,3 @@ Reports.
 Transitional provisions.
 
 12.  The members of the Board (including the chair) who held office immediately before Part 16 comes into operation continue to hold office when this Part comes into operation, as if they had been appointed in accordance with paragraph 4.
-
-Financial Services 2019-26

@@ -34,8 +34,6 @@ Information about reporting contraventions.
 
 (i) telephone numbers, indicating whether or not calls are recorded when using those numbers; and
 
-2019-26 Financial Services
-
 (ii) dedicated electronic and postal addresses which are secure and ensure confidentiality;
 
 (b) the contravention reporting procedures set out in paragraph 4;
@@ -63,8 +61,6 @@ Contravention reporting procedures.
 (d) the confidentiality regime that applies to contravention reports, including the circumstances under which the confidential data of a reporting person may be disclosed in accordance with Articles 27, 28 and 29 of the Market Abuse Regulation.
 
 (2)  The information provided under sub-paragraph (1)(d) must ensure that a reporting person is aware of the exceptional cases in which confidentiality of data may not be ensured, including where its disclosure is a necessary and proportionate obligation required by law in the context of investigations or subsequent judicial proceedings or to safeguard the freedoms of others including the right of defence of the reported person, and in each case subject to appropriate safeguards under the relevant law.
-
-Financial Services 2019-26
 
 Dedicated communication channels.
 
@@ -102,8 +98,6 @@ Record keeping.
 
 (a) the reporting person requests otherwise; or
 
-2019-26 Financial Services
-
 (b) the GFSC reasonably believes that acknowledging receipt would jeopardise the protection of the reporting person’s identity.
 
 (3)  Where a recorded telephone line is used for receiving contravention reports, the GFSC may record those reports by means of–
@@ -135,8 +129,6 @@ Data transmission.
 8.(1)  The GFSC must have adequate arrangements for transmitting, both within and outside of the GFSC, the personal data of reporting persons and reported persons.
 
 (2)  The GFSC must ensure that the transmission of data related to a contravention report does not–
-
-Financial Services 2019-26
 
 (a) disclose the identity of the reporting person or reported person, whether directly or indirectly; or
 
@@ -170,8 +162,6 @@ Protection of reported persons.
 
 10.(1)  Where the identity of a reported person is not known to the public, the GFSC must ensure that the person’s identity is protected in the same manner as a person who is the subject of an investigation by the GFSC.
 
-2019-26 Financial Services
-
 (2)  The requirements of paragraph 7 also apply to records which contain the identity of a reported person.
 
 Review of procedures.
@@ -185,5 +175,3 @@ Review of procedures.
 (a) have regard to its experience, and that of other competent authorities, in receiving and following up contravention reports; and
 
 (b) take account of that experience and market and technological developments in adapting its procedures.
-
-Financial Services 2019-26

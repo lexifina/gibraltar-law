@@ -38,12 +38,8 @@ Additional roles
 
 (b) a parent undertaking of P;
 
-Financial Services 2019-26
-
 (c) a subsidiary undertaking of P;
 
 (d) a subsidiary undertaking of a parent undertaking of P; or
 
 (e) a parent undertaking of a subsidiary undertaking of P.
-
-2019-26 Financial Services

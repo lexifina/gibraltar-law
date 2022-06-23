@@ -31,5 +31,3 @@ Head of Client Asset Oversight
 Head of Customer Care (if regulated firm is a DLT provider)
 
 Head of Business Continuity (if regulated firm is a DLT provider)
-
-2019-26 Financial Services

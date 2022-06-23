@@ -36,8 +36,6 @@ GFSC’s powers.
 
 (e) require–
 
-Financial Services 2019-26
-
 (i) existing recordings of telephone conversations, electronic communications or data traffic records held by regulated firms which are investment firms, credit institutions or financial institutions; or
 
 (ii) where permitted by the laws of Gibraltar, existing data traffic records held by a telecommunications operator, where there is a reasonable suspicion of a contravention of Article 14(a), 14(b) or 15 of the Market Abuse Regulation and where those records may be relevant to the investigation of that contravention;
@@ -69,8 +67,6 @@ Financial Services 2019-26
 (5)  The Minister may, by Regulations, make further provision in respect of the GFSC’s powers under this paragraph.
 
 Sanctions for certain contraventions.
-
-2019-26 Financial Services
 
 4.(1)  The GFSC may take any of the steps in section 153 or 154 or paragraphs 5 to 8 if it is satisfied that a person has–
 
@@ -112,8 +108,6 @@ Prohibition order.
 
 (c) from dealing in financial instruments on the person’s own account.
 
-Financial Services 2019-26
-
 (2)  A prohibition order–
 
 (a) must specify a period during which it has effect; and
@@ -150,8 +144,6 @@ Administrative penalties.
 
 (c) in the case of an individual, for a contravention of–
 
-2019-26 Financial Services
-
 (i) Article 14 or 15 of the Market Abuse Regulation, EUR 5,000,000;
 
 (ii) Article 16 or 17 of the Market Abuse Regulation, EUR 1,000,000; or
@@ -181,8 +173,6 @@ Exercise of powers.
 (5)  The GFSC must ensure that any publication remains on its website for not less than five years, but any personal data contained in the publications must only be kept on the website for the period which the GFSC considers to be necessary in accordance with the data protection legislation.
 
 (6)  The GFSC must take one of the steps in subsection (7) where–
-
-Financial Services 2019-26
 
 (a) following an obligatory prior assessment, it considers that it would be disproportionate to publish the identity of the person, or personal data of an individual or details of a sanctioning action from which such person could be identified; or
 
@@ -214,8 +204,6 @@ Reporting of contraventions.
 
 (4)  The GFSC must treat information about the identity of a person who reports a contravention as confidential, except where its disclosure is necessary for the purpose of any further investigations or subsequent judicial proceedings.
 
-2019-26 Financial Services
-
 (5)  Regulated firms must establish appropriate internal procedures for their employees to report contraventions.
 
 (6)  An employee of a regulated firm who reports a contravention in accordance with arrangements established under sub-paragraph (1) or (5)–
@@ -225,5 +213,3 @@ Reporting of contraventions.
 (b) has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his or her employer done on the ground that the employee has reported a contravention.
 
 (7)  An employee who has been subjected to a detriment contrary to sub-paragraph (6)(b) may present a complaint to the Employment Tribunal as if the reporting of a contravention was a protected disclosure within the meaning of Part IVA of the Employment Act.
-
-Financial Services 2019-26

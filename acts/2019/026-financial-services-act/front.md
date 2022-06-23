@@ -1,4 +1,4 @@
-FINANCIAL SERVICES ACT 2019
+Financial Services Act 2019
 
 Principal Act
 
@@ -14,17 +14,13 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/005 ss.24(3)(g), 25(2)(a), 382, 344(1)-(3), 345(2), 346- 348A, 349(2)(a), (3)(a), (c), (7)(a)-(b), 350(1), 351- 351A, Sch.2, 8, 21, 24A, 28, 29
 
-15.1.2019 2020/053 Sch. 2 30.1.2020 2020/175 s. 163(2)-(6), Sch. 28 7.5.2020 2020/421 Sch. 2 26.11.2020 2020/475 Sch. 13 28.12.2020 2020/457 s. 216(8) 1.1.2021 2020/500 ss. 2(1)(a)-(c), 2(2), (3)(b), (4)-(5), 7(2)(b)-(d), 12(6)(b)(iv), 19, 20(1)-(2), 22(1)(k), 33(1), 46(1)(a), 50(2), 53(b), 54(1)(b)-(c), 57-60, 61(2)(c), 63(6), 66, 73(4)-(5), (7), 77(3)(c), 83(1), (3), 84, 86(1)(b)-(c), 87(3), 88(3), 107(1), 108(b), 117(4)(b), (6)(a)(ii), 121, 123(4)(a)-(b), 149(1)(c), (d)(ii), 179(1), 182(6), 188(3), 195(a)-(b), 196, 200(1)(e), (4), 205(1)-(3), 206(1)(b), (2), 207(1)-(4), (6), 208(1), (7)(a)-(c), (9), 209(5), (19), 211, 212(1)(b), (2)(c), (f)-(g), 216(2), 217(8)(e), (9), 218(1), (3), 221(4)(a)-(c), 222(1)-(2), (4)(a), (6), 223-225, 226(c), 227, 228(6), 229(a)(i)- (ii), (b)(i), 230(8), 231(6), 233-234, 236, 237(1)-(2), 244(2)(a), 247-248, 249(1), (3), 250-253, 254(1), (3), 255(4), 256(a), 258(1)-(2), (2A), (3), 259-264, 265(1), (a), (2), 266(1), 269(4)(a), 275(4), 277, 278(1)(a)-(b), 279, 281, 282(1), 283(1)(d)-(e), (2), 284(2), (4)(f), (5)(a)-(b), (6), 287, 288(b)(ii)-(iv), 289, 291(4)(a)-(c), 292(3)(b), (d), (9), 294, 299(5)- (6), 300, 302(1)(b)-(d), 304(4)(b), 305(5), 309(5)(c), (6)(a), (8), 313(4)(b), 316, 322-324, 328(1)(g), 331(1)(f)-(h), 338(1), (2)(a), (c)-(e), 340(1), 342(1)- (2), 343(2), 344(1)-(2), 345(1)-(3), 346, 346A(1), (a), (2), (3), (b), 346B(5), 346(C)(1)-(2), 346D(5), 346E(1)(b)(ii), (4)(b), 347(1), 348, 348A(1), 349(2)(a), (3)(a), (c), (7), 350(1)(d), 351(10), 351A(1)(a)-(b), 352-354, 355(1), 356(1)-(3), 357, 358(1), (6), 359(3), 362(1)(b)-(e), (3)(a)-(b), 363(1),
+15.1.2019 2020/053 Sch. 2 30.1.2020 2020/175 s. 163(2)-(6), Sch. 28 7.5.2020 2020/421 Sch. 2 26.11.2020 2020/475 Sch. 13 28.12.2020 2020/457 s. 216(8) 1.1.2021 2020/500 ss. 2(1)(a)-(c), 2(2), (3)(b), (4)-(5), 7(2)(b)-(d), 12(6)(b)(iv), 19, 20(1)-(2), 22(1)(k), 33(1), 46(1)(a), 50(2), 53(b), 54(1)(b)-(c), 57-60, 61(2)(c), 63(6), 66, 73(4)-(5), (7), 77(3)(c), 83(1), (3), 84, 86(1)(b)-(c), 87(3), 88(3), 107(1), 108(b), 117(4)(b), (6)(a)(ii), 121, 123(4)(a)-(b), 149(1)(c), (d)(ii), 179(1), 182(6), 188(3), 195(a)-(b), 196, 200(1)(e), (4), 205(1)-(3), 206(1)(b), (2), 207(1)-(4), (6), 208(1), (7)(a)-(c), (9), 209(5), (19), 211, 212(1)(b), (2)(c), (f)-(g), 216(2), 217(8)(e), (9), 218(1), (3), 221(4)(a)-(c), 222(1)-(2), (4)(a), (6), 223-225, 226(c), 227, 228(6), 229(a)(i)- (ii), (b)(i), 230(8), 231(6), 233-234, 236, 237(1)-(2), 244(2)(a), 247-248, 249(1), (3), 250-253, 254(1), (3), 255(4), 256(a), 258(1)-(2), (2A), (3), 259-264, 265(1), (a), (2), 266(1), 269(4)(a), 275(4), 277, 278(1)(a)-(b), 279, 281, 282(1), 283(1)(d)-(e), (2), 284(2), (4)(f), (5)(a)-(b), (6), 287, 288(b)(ii)-(iv), 289, 291(4)(a)-(c), 292(3)(b), (d), (9), 294, 299(5)- (6), 300, 302(1)(b)-(d), 304(4)(b), 305(5), 309(5)(c), (6)(a), (8), 313(4)(b), 316, 322-324, 328(1)(g), 331(1)(f)-(h), 338(1), (2)(a), (c)-(e), 340(1), 342(1)- (2), 343(2), 344(1)-(2), 345(1)-(3), 346, 346A(1), (a), (2), (3), (b), 346B(5), 346(C)(1)-(2), 346D(5), 346E(1)(b)(ii), (4)(b), 347(1), 348, 348A(1), 349(2)(a), (3)(a), (c), (7), 350(1)(d), 351(10), 351A(1)(a)-(b), 352-354, 355(1), 356(1)-(3), 357,
 
-2019-26 Financial Services
-
-(3), (6)-(9), (11), 365, 366(9), (12)-(13), 367(2), (a), 368(5)(b), (7)(b), (8)(h), 370(1), 371, 373(2), (4)-(5), 374(2)(a), (3), (5)-(6), 375(1)(a)-(b), (3), (5), 376- 377, 378(1)-(2), 379(1)-(2), (4)-(5), (7), 380(1)(f), 383-385, 386(1), (4), 388(1)-(4), (5)(a), 389, 391(4), 393(1), (4), 396(2)(a), 398(1)(c), 399(1), (8), 400(1)- (2), (3)(b), (4), (a)-(d), 405, 406(1)-(3), 407(2), 408(1)(a)-(c), (2), 410(2)(a)(iii), (4), 411(3), 413(1), 414(1)(b)(ii), (4)(b)(ii), 419, 420(a)(ii), 421, 429(3), 430(6), 431(4), 432-433, 434(1)-(2), 435(2)(b), (3), (5), 438(2), 439(2), 441-442, 444(1)-(3), 445-446, 448(1), (2)(b), (3), (6), 451(1)(b)-(d), 455(2), 456- 459, 460(11), 463-473, 474(3)(a)-(c), (5), 475, 477(4), 478, 479(1)-(3), 481, 483(1)(b), 484(a)-(b), 487(3), 488(1)(c), (2), 489(1)(h)-(i), (2), 492(1)-(3), 494(6), 496(d), 498(5)-(7), 503(1), 504(2), (4)(b), (6)-(8), (10), 505(1), (2)(e), 506(1)(h), (4), 512, 520(1)(b), (3), 522(1)(b), 524, 526-528, 531(3), (6)(a), (c), (d)(i), (e), (6A), 532, 533(1)-(2), (4)-(9), 534(1)-(3), 535(1)(a), (c), (e), (2)(e)(i), (3), (4)(a), (c), (5), 536, 556, 560(1)-(3), 565(3), 568(1), (2)(a), 570(1), (6), 580, 581(1)(a), 582(a)-(c), 583(a)-(c), 584, 586-587, 588(b), 589, 624(1), 626(2)(b), 626A, Sch.1-3, 8, 10-14, 19-20, 22-24, 24A, 25-27
+358(1), (6), 359(3), 362(1)(b)-(e), (3)(a)-(b), 363(1), (3), (6)-(9), (11), 365, 366(9), (12)-(13), 367(2), (a), 368(5)(b), (7)(b), (8)(h), 370(1), 371, 373(2), (4)-(5), 374(2)(a), (3), (5)-(6), 375(1)(a)-(b), (3), (5), 376- 377, 378(1)-(2), 379(1)-(2), (4)-(5), (7), 380(1)(f), 383-385, 386(1), (4), 388(1)-(4), (5)(a), 389, 391(4), 393(1), (4), 396(2)(a), 398(1)(c), 399(1), (8), 400(1)- (2), (3)(b), (4), (a)-(d), 405, 406(1)-(3), 407(2), 408(1)(a)-(c), (2), 410(2)(a)(iii), (4), 411(3), 413(1), 414(1)(b)(ii), (4)(b)(ii), 419, 420(a)(ii), 421, 429(3), 430(6), 431(4), 432-433, 434(1)-(2), 435(2)(b), (3), (5), 438(2), 439(2), 441-442, 444(1)-(3), 445-446, 448(1), (2)(b), (3), (6), 451(1)(b)-(d), 455(2), 456- 459, 460(11), 463-473, 474(3)(a)-(c), (5), 475, 477(4), 478, 479(1)-(3), 481, 483(1)(b), 484(a)-(b), 487(3), 488(1)(c), (2), 489(1)(h)-(i), (2), 492(1)-(3), 494(6), 496(d), 498(5)-(7), 503(1), 504(2), (4)(b), (6)-(8), (10), 505(1), (2)(e), 506(1)(h), (4), 512, 520(1)(b), (3), 522(1)(b), 524, 526-528, 531(3), (6)(a), (c), (d)(i), (e), (6A), 532, 533(1)-(2), (4)-(9), 534(1)-(3), 535(1)(a), (c), (e), (2)(e)(i), (3), (4)(a), (c), (5), 536, 556, 560(1)-(3), 565(3), 568(1), (2)(a), 570(1), (6), 580, 581(1)(a), 582(a)-(c), 583(a)-(c), 584, 586-587, 588(b), 589, 624(1), 626(2)(b), 626A, Sch.1-3, 8, 10-14, 19-20, 22-24, 24A, 25-27
 
 1.1.2021 2021/125 s. 474(3)(a)(ii), (b)-(c) 1.1.2021 2022/188 ss. 2(2), 359(3)(a)(i), 360(3), (4)(c), 473, 481(a)(iii), Sch.1, 25
 
-1.1.2021 Act.2021-08 s. 131(3), Sch. 9 9.2.2021 LN.2021/200 ss. 45(1), 473 25.3.2021 2021/375 Sch. 4, 9 19.8.2021 2021/436 ss. 86(1)(d), 87(2A), 90(1), 294(a)-(b), Sch. 15 28.10.2021 2021/487 ss. 78(2A), 79(3), 79A 16.12.2021 2021/492 s. 626A(1), (3)(b)(ii) 1.1.2022 2021/493 ss. 281, 282(1), 284(4)(g), Sch. 13 1.1.2022 2022/132 ss. 24(4)(a)-(b), 45(1), 83A, 474(2A), (3)(c) 26.5.2022
-
-Financial Services 2019-26
+1.1.2021 Act.2021-08 s. 131(3), Sch. 9 9.2.2021 LN.2021/200 ss. 45(1), 473 25.3.2021 2021/375 Sch. 4, 9 19.8.2021 2021/436 ss. 86(1)(d), 87(2A), 90(1), 294(a)-(b), Sch. 15 28.10.2021 2021/487 ss. 78(2A), 79(3), 79A 16.12.2021 2021/492 s. 626A(1), (3)(b)(ii) 1.1.2022 2021/493 ss. 281, 282(1), 284(4)(g), Sch. 13 1.1.2022 2022/132 ss. 24(4)(a)-(b), 45(1), 83A, 474(2A), (3)(c) 26.5.2022 2022/156 s. 214(1)-(2) 23.6.2022
 
 ARRANGEMENT OF SECTIONS
 
@@ -56,9 +52,9 @@ Financial promotion
 
 Enforceability of agreements
 
-14. Agreements made by persons contravening the general prohibition. 15. Agreements made through persons contravening the general prohibition. 16. Agreements made unenforceable by section 14 and 15. 17. Accepting deposits in breach of general prohibition. 18. Agreements resulting from contravention of section 12.
+14. Agreements made by persons contravening the general prohibition. 15. Agreements made through persons contravening the general prohibition. 16. Agreements made unenforceable by section 14 and 15. 17. Accepting deposits in breach of general prohibition.
 
-2019-26 Financial Services
+18. Agreements resulting from contravention of section 12.
 
 Miscellaneous
 
@@ -96,11 +92,7 @@ Delegation, incidental powers, etc.
 
 Ministerial oversight
 
-34. Review of the GFSC’s supervisory activities. 35. Right to obtain documents and information.
-
-Financial Services 2019-26
-
-36. Default powers of the Minister.
+34. Review of the GFSC’s supervisory activities. 35. Right to obtain documents and information. 36. Default powers of the Minister.
 
 Rules and guidance
 
@@ -136,8 +128,6 @@ Provision of assistance to other regulators
 
 50. Providing assistance to other regulators. 51. Refusing to provide assistance. 52. Transitional Provision.
 
-2019-26 Financial Services
-
 PART 6 AUTHORISATION AND EXEMPTION
 
 Introduction
@@ -164,15 +154,15 @@ Interpretation
 
 Initial applications for permission
 
-63. Persons who can apply for permission. 64. Meaning of “the threshold conditions”. 65. Requirement to satisfy the threshold conditions. 66. Firms based outside Gibraltar. 67. Giving permission.
+63. Persons who can apply for permission. 64. Meaning of “the threshold conditions”. 65. Requirement to satisfy the threshold conditions. 66. Firms based outside Gibraltar.
+
+67. Giving permission.
 
 Variation and cancellation of permission
 
 68. Variation or cancellation at request of a regulated firm. 69. Variation or cancellation on initiative of GFSC.
 
 Imposition and variation of requirements
-
-Financial Services 2019-26
 
 70. Imposition of requirements by GFSC. 71. Requirements under section 70: further provisions. 72. Application to the Supreme Court: asset protection orders.
 
@@ -208,8 +198,6 @@ Introduction
 
 Regulated individuals
 
-2019-26 Financial Services
-
 86. Regulated functions. 87. Obligation to ensure regulated functions being performed. 88. Regulated functions only to be performed by regulated individuals. 89. Significant influence. 90. Temporary position. 91. Power to amend list of regulated functions. 92. Power to issue guidance on regulated functions.
 
 Approval of regulated individuals by the GFSC
@@ -240,11 +228,7 @@ PART 9 CONTROL OVER REGULATED FIRMS
 
 Introduction
 
-106. Application of Part 9. 107. Interpretation of Part 9.
-
-Financial Services 2019-26
-
-108. Parent and subsidiary undertakings. 109. Groups. 110. Meaning of “participating interest”.
+106. Application of Part 9. 107. Interpretation of Part 9. 108. Parent and subsidiary undertakings. 109. Groups. 110. Meaning of “participating interest”.
 
 Notices of acquisitions of control over regulated firms
 
@@ -264,7 +248,9 @@ Assessment procedure
 
 Objections and enforcement
 
-124. Objections to existing control. 125. Restriction notices. 126. Orders for sale of shares.
+124. Objections to existing control.
+
+125. Restriction notices. 126. Orders for sale of shares.
 
 Notices of reductions of control of Gibraltar regulated firms
 
@@ -275,8 +261,6 @@ Offences
 129. Offences under this Part.
 
 Miscellaneous
-
-2019-26 Financial Services
 
 130. Power to change definitions of control etc.
 
@@ -310,11 +294,7 @@ PART 11 COMMON SANCTIONING POWERS
 
 Liability for contravention of regulatory requirement
 
-147. Liability for contravention of regulatory requirement.
-
-Financial Services 2019-26
-
-148. Liability of regulated individual for authorised person’s contravention of regulatory requirement. 149. Liability: general and sector specific. 150. Sector specific regulatory requirements.
+147. Liability for contravention of regulatory requirement. 148. Liability of regulated individual for authorised person’s contravention of regulatory requirement. 149. Liability: general and sector specific. 150. Sector specific regulatory requirements.
 
 Sanctioning powers
 
@@ -343,8 +323,6 @@ Misleading an auditor or actuary
 169. Provision of false or misleading information to auditor or actuary.
 
 Enforcement powers
-
-2019-26 Financial Services
 
 170. Liability for contravention. 171. Enforcement powers. 172. Public statement. 173. Administrative penalties. 174. Disqualification order.
 
@@ -378,8 +356,6 @@ Staff and delegation of functions
 
 Procedure
 
-Financial Services 2019-26
-
 188. Ombudsman’s procedure. 189. Determinations. 190. Power to require information. 191. Confidentiality. 192. Obstruction and contempt.
 
 Annual report
@@ -396,7 +372,9 @@ CHAPTER 1 PRELIMINARY
 
 195. Overview. 196. Interpretation of Part 15. 197. Functions of the FSRCC.
 
-CHAPTER 2 THE FUNDS
+CHAPTER 2
+
+THE FUNDS
 
 The Funds
 
@@ -414,8 +392,6 @@ CHAPTER 3 DEPOSIT GUARANTEE SCHEME
 
 Introduction
 
-2019-26 Financial Services
-
 204. Interpretation of Chapter 3. 205. Competent authority and designated authority.
 
 Scheme participation
@@ -432,7 +408,9 @@ Funding
 
 Deposits covered by Scheme
 
-212. Eligible deposits. 213. Marking of deposits. 214. Coverage limits. 215. Determination that deposit is unavailable.
+212. Eligible deposits. 213. Marking of deposits.
+
+214. Coverage limits. 215. Determination that deposit is unavailable.
 
 Compensation
 
@@ -447,8 +425,6 @@ Scheme funds
 222. Use of Scheme funds. 223. Omitted. 224. Omitted. 225. Omitted.
 
 Transitional arrangements
-
-Financial Services 2019-26
 
 226. Transitional provision.
 
@@ -482,11 +458,7 @@ Introduction
 
 Right of investors to compensation
 
-238. Right of investors to compensation where firm in default. 239. Meaning of investor. 240. Meaning of eligible investments. 241. Meaning of in default. 242. Amount of compensation. 243. Payment of compensation: joint investments, partnerships, trusts etc.
-
-2019-26 Financial Services
-
-244. Procedure for payment of compensation. 245. Right of investors to appeal.
+238. Right of investors to compensation where firm in default. 239. Meaning of investor. 240. Meaning of eligible investments. 241. Meaning of in default. 242. Amount of compensation. 243. Payment of compensation: joint investments, partnerships, trusts etc. 244. Procedure for payment of compensation. 245. Right of investors to appeal.
 
 Participation in investor compensation scheme
 
@@ -514,8 +486,6 @@ Gibraltar Investor Compensation Board
 
 Administration of the Gibraltar scheme
 
-Financial Services 2019-26
-
 268. Administration of the Gibraltar scheme. 269. Establishment of fund. 270. Annual fee. 271. Levies on participating firms (in cases of default). 272. Levies on participating firms (precautionary). 273. Liquidation or receivership of participating firm in default. 274. Subrogation. 275. Information to investors.
 
 Miscellaneous provisions
@@ -534,11 +504,7 @@ CHAPTER 1 INTRODUCTION
 
 CHAPTER 2 RESTRICTIONS AND REQUIREMENTS
 
-293. Restrictions on promotion of collective investment schemes. 294. Requirement for UCITS schemes to be authorised or recognised.
-
-2019-26 Financial Services
-
-295. Restrictions as to the use of certain names. 296. Contravention of section 293, 294 or 295.
+293. Restrictions on promotion of collective investment schemes. 294. Requirement for UCITS schemes to be authorised or recognised. 295. Restrictions as to the use of certain names. 296. Contravention of section 293, 294 or 295.
 
 CHAPTER 3 AUTHORISATION OF UCITS SCHEMES
 
@@ -568,8 +534,6 @@ Power to impose conditions
 
 314. Power to impose conditions on authorised non-UCITS retail schemes. 315. Imposition of conditions under section 314: procedure.
 
-Financial Services 2019-26
-
 CHAPTER 5 RECOGNITION OF FOREIGN SCHEMES
 
 316. Recognised schemes. 317. Application for recognition of a foreign scheme. 318. Recognition of a foreign scheme. 319. Determination of application: foreign schemes. 320. Procedure when refusing an application for recognition. 321. Application for revocation of recognition.
@@ -591,8 +555,6 @@ Sanctions
 CHAPTER 8 MISCELLANEOUS
 
 336. Publication of information in connection with UCITS schemes. 337. Regulations for schemes authorised under Chapter 3 or 4. 338. Regulations for schemes recognised under Chapter 5. 339. Regulations for experienced investor funds. 340. Other regulations. 341. Codes of practice and guidance notes.
-
-2019-26 Financial Services
 
 PART 19 LISTING AND PROSPECTUSES
 
@@ -628,11 +590,7 @@ Investigations and intervention powers
 
 Infringements
 
-348A. Reporting of infringements. 349. Entry of premises under warrant.
-
-Financial Services 2019-26
-
-350. Sanctions for contraventions. 351. Exercise of powers.
+348A. Reporting of infringements. 349. Entry of premises under warrant. 350. Sanctions for contraventions. 351. Exercise of powers.
 
 Appeals
 
@@ -654,11 +612,7 @@ Ongoing information
 
 Information for holders of securities traded on a regulated market
 
-373. Information requirements for issuers whose shares are admitted to trading on a regulated market.
-
-2019-26 Financial Services
-
-374. Information requirements for issuers whose debt securities are admitted to trading on a regulated market. 375. Control by the GFSC. 376. Languages. 377. Access to regulated information. 378. Minimum Standards. 379. Third countries.
+373. Information requirements for issuers whose shares are admitted to trading on a regulated market. 374. Information requirements for issuers whose debt securities are admitted to trading on a regulated market. 375. Control by the GFSC. 376. Languages. 377. Access to regulated information. 378. Minimum Standards. 379. Third countries.
 
 Supervision, sanctions and other measures
 
@@ -679,8 +633,6 @@ Regulations
 401. Regulations applicable to the conduct of bids.
 
 Squeeze-out and sell-out
-
-Financial Services 2019-26
 
 402. Squeeze-out. 403. Sell-out.
 
@@ -714,8 +666,6 @@ PART 22 SUSPENSION AND REMOVAL OF FINANCIAL INSTRUMENTS FROM TRADING
 
 Introduction
 
-2019-26 Financial Services
-
 420. Overview. 421. Interpretation of Part 22.
 
 Power to require suspension or removal
@@ -738,11 +688,9 @@ CHAPTER 1 PRELIMINARY
 
 CHAPTER 2 TRANSFER OF GENERAL BUSINESS
 
-435. Application of Chapter 2. 436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required. 438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision.
+435. Application of Chapter 2. 436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required. 438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision. 444. Effect of approval. 445. Notice of transfer.
 
-Financial Services 2019-26
-
-444. Effect of approval. 445. Notice of transfer. 446. Omitted. 447. Service of notices under this Chapter.
+446. Omitted. 447. Service of notices under this Chapter.
 
 CHAPTER 3 TRANSFER OF LONG TERM BUSINESS
 
@@ -763,8 +711,6 @@ Interpretation
 473. Interpretation of Part 24.
 
 Approval and mutual recognition
-
-2019-26 Financial Services
 
 474. Approval of statutory auditors and audit firms. 475. Omitted. 476. Good repute. 477. Withdrawal of approval. 478. Omitted.
 
@@ -792,8 +738,6 @@ Organisational requirements
 
 499. Internal organisation of statutory auditors and audit firms. 500. Organisation of the work.
 
-Financial Services 2019-26
-
 Fees and scope of audit
 
 501. Audit fees. 502. Scope of the statutory audit.
@@ -817,8 +761,6 @@ Sanctions
 Public oversight and regulatory arrangements between EEA States
 
 525. Principles of public oversight. 526. Omitted. 527. Omitted. 528. Omitted.
-
-2019-26 Financial Services
 
 Appointment and dismissal of auditors
 
@@ -844,13 +786,13 @@ Licensing
 
 Control of licensees and enforcement
 
-545. Production of accounts and records. 546. Suspension and revocation of licence. 547. Other sanctions. 548. Directions. 549. Procedure.
+545. Production of accounts and records. 546. Suspension and revocation of licence. 547. Other sanctions.
+
+548. Directions. 549. Procedure.
 
 Eligibility to act as insolvency practitioner
 
 550. Eligible insolvency practitioner.
-
-Financial Services 2019-26
 
 Foreign insolvency practitioners
 
@@ -876,13 +818,13 @@ Authorisation
 
 Supervision
 
-565. Prudential supervision. 566. Requirements as to procedures and mechanisms for IORPs. 567. Supervisory review process. 568. Transparency and accountability.
+565. Prudential supervision. 566. Requirements as to procedures and mechanisms for IORPs. 567. Supervisory review process.
+
+568. Transparency and accountability.
 
 Intervention
 
 569. Application to the Supreme Court. 570. Intervention powers. 571. Intervention: procedure.
-
-2019-26 Financial Services
 
 Sanctions
 
@@ -908,11 +850,7 @@ Requirement for personal pension schemes to be approved
 
 Approval
 
-594. Application for scheme approval. 595. Approval of a personal pension scheme. 596. Determination of application for approval. 597. Power to impose conditions on approved schemes.
-
-Financial Services 2019-26
-
-598. Revocation or suspension of approval.
+594. Application for scheme approval. 595. Approval of a personal pension scheme. 596. Determination of application for approval. 597. Power to impose conditions on approved schemes. 598. Revocation or suspension of approval.
 
 Procedure
 
@@ -946,11 +884,7 @@ Appeals
 
 Publication of sanctions
 
-616. Publication of sanctioning action.
-
-2019-26 Financial Services
-
-617. Restrictions on publication. 618. Limited publication while appeal is pending.
+616. Publication of sanctioning action. 617. Restrictions on publication. 618. Limited publication while appeal is pending.
 
 Service
 
@@ -980,11 +914,7 @@ Offences involving misleading statements or misleading the GFSC
 
 632. Misleading statements. 633. Misleading the GFSC. 634. Penalties. 635. Proceedings for offences.
 
-PART 31
-
-Financial Services 2019-26
-
-FINAL PROVISIONS
+PART 31 FINAL PROVISIONS
 
 636. Data protection. 637. Continuity of the law. 638. Transitional provisions. 639. Repeals and revocations.
 
@@ -1002,7 +932,9 @@ SCHEDULE 6 Decision Making Committee
 
 SCHEDULE 7 Financial Services Resolution and Compensation Committee
 
-SCHEDULE 8 Designation of GFSC as competent authority
+SCHEDULE 8
+
+Designation of GFSC as competent authority
 
 SCHEDULE 9 Domestic Authorities
 
@@ -1013,8 +945,6 @@ SCHEDULE 11 Omitted
 SCHEDULE 12 The threshold conditions
 
 SCHEDULE 13 GFSC’s power under section 69: sector-specific conditions
-
-2019-26 Financial Services
 
 SCHEDULE 14 Regulated functions
 
@@ -1046,12 +976,8 @@ SCHEDULE 26 The Market Abuse Regulation
 
 SCHEDULE 27 Reporting Contraventions Of The Market Abuse Regulation
 
-Financial Services 2019-26
-
 SCHEDULE 28 Transitional provisions
 
 SCHEDULE 29 Repeals and revocations
-
-2019-26 Financial Services
 
 AN ACT TO PROVIDE FOR THE REGULATION OF FINANCIAL SERVICES AND MARKETS AND FIDUCIARY SERVICES; TO MAKE PROVISION IN RESPECT OF THE GIBRALTAR FINANCIAL SERVICES COMMISSION; TO ESTABLISH A FINANCIAL SERVICES OMBUDSMAN; TO MAKE PROVISION IN RESPECT OF A DEPOSIT GUARANTEE SCHEME, AN INVESTOR COMPENSATION SCHEME AND RECOVERY AND RESOLUTION ARRANGEMENTS AND THEIR FINANCING; TO PROVIDE FOR THE REGULATION OF THE LISTING OF SECURITIES, PROSPECTUSES AND TAKEOVERS; TO MAKE PROVISION IN RESPECT OF MARKET ABUSE; TO PROVIDE FOR THE CONTROL OF INSURANCE BUSINESS TRANSFERS; TO MAKE PROVISION IN RESPECT OF OCCUPATIONAL AND PERSONAL PENSION SCHEMES; TO PROVIDE FOR THE REGULATION OF AUDITORS AND INSOLVENCY PRACTITIONERS, AND FOR CONNECTED PURPOSES.

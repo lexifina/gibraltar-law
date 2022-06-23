@@ -32,11 +32,7 @@ The protection of consumers’ objective is securing the appropriate degree of p
 
 In considering what degree of protection may be appropriate, the GFSC must have regard to–
 
-(a) the general principle that those providing financial services should provide consumers with a level of care that is appropriate, having regard to the degree of
-
-Financial Services 2019-26
-
-risk involved in relation to the investment or other transaction and the capabilities of the consumer in question;
+(a) the general principle that those providing financial services should provide consumers with a level of care that is appropriate, having regard to the degree of risk involved in relation to the investment or other transaction and the capabilities of the consumer in question;
 
 (b) the differing degrees of risk involved in different kinds of investment or other transaction;
 
@@ -67,5 +63,3 @@ In considering the reduction of financial crime objective, the GFSC must, in par
 (b) authorised persons taking appropriate measures (in relation to their administration and employment practices, the conduct of transactions by them and otherwise) to prevent financial crime, facilitate its detection and monitor its incidence;
 
 (c) authorised persons devoting adequate resources to the matters mentioned in paragraph (b).
-
-2019-26 Financial Services

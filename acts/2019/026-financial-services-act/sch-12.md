@@ -32,8 +32,6 @@ Appropriate resources.
 
 (b) the risks to the continuity of the services provided by, or to be provided by, the firm;
 
-Financial Services 2019-26
-
 (c) the firm’s membership of a group and any effect which that membership may have.
 
 (4)  The “non-financial resources” of a firm include any systems, controls, plans or policies that the firm maintains, any information that the firm holds and the human resources that the firm has available.
@@ -67,8 +65,6 @@ Effective supervision.
 (i) the nature of the relationship between the firm and CL;
 
 (ii) whether those links are or that relationship is likely to prevent the GFSC’s effective supervision of the firm; and
-
-2019-26 Financial Services
 
 (iii) if the firm is subject to the laws, regulations or administrative provisions of a country or territory outside Gibraltar (“the foreign provisions”), whether those foreign provisions, or any deficiency in their enforcement, would prevent the GFSC’s effective supervision of the firm.
 
@@ -106,8 +102,6 @@ Suitability.
 
 (iii) requests made by the GFSC relating to the provision of information to the GFSC;
 
-Financial Services 2019-26
-
 (e) whether those who manage the firm’s affairs have adequate skills and experience and have acted and may be expected to act with probity;
 
 (f) the need to minimise the extent to which it is possible for the business carried on by the firm, or to be carried on by the applicant, to be used for a purpose connected with financial crime.
@@ -129,5 +123,3 @@ Business model.
 Fees
 
 6.  The firm concerned must pay such periodical and other fees as the Minister may by regulations prescribe.
-
-2019-26 Financial Services
