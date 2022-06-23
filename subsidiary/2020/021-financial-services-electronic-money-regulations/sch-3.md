@@ -14,7 +14,7 @@ Small e-money institution
 
 3.(1)  Where the business activities of an applicant for registration as a small e-money institution generate average outstanding electronic money of 500,000 Euro or more, the institution must hold an amount of initial capital at least equal to 2% of the average outstanding electronic money of the institution.
 
-(2)  Where the applicant has not completed a sufficiently long period of business to calculate the amount of average outstanding electronic money for the purposes of sub- paragraph (1), the applicant must make an estimate on the basis of projected outstanding electronic money as evidenced by its business plan, subject to any adjustments to that plan which are, or have been, required by the GFSC.
+(2)  Where the applicant has not completed a sufficiently long period of business to calculate the amount of average outstanding electronic money for the purposes of sub-paragraph (1), the applicant must make an estimate on the basis of projected outstanding electronic money as evidenced by its business plan, subject to any adjustments to that plan which are, or have been, required by the GFSC.
 
 PART 2 OWN FUNDS
 
@@ -25,8 +25,6 @@ Qualifying items.
 Limits on qualifying items
 
 5.  For the purposes of calculating own funds–
-
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
 
 (a) the amount of Tier 2 capital must be equal to or less than one third of the amount of Tier 1 capital; and
 
@@ -50,9 +48,7 @@ Own funds requirement
 
 9.  An electronic money institution which is a regulated firm must calculate its own funds requirement–
 
-(a) in accordance with such of Method A, Method B or Method C as the GFSC may direct in respect of any activities carried on by the electronic money institution consisting of payment services specified in points 1 to 5 of  paragraph 17 of Schedule 2 to the Act that are not related to the issuance of electronic money; and
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
+(a) in accordance with such of Method A, Method B or Method C as the GFSC may direct in respect of any activities carried on by the electronic money institution consisting of payment services specified in paragraph 17(1) to (5) of Schedule 2 to the Act that are not related to the issuance of electronic money; and
 
 (b) in accordance with Method D in respect of any activities carried on by the electronic money institution that consist of the issuance of electronic money and payment services that are related to the issuance of electronic money.
 
@@ -78,15 +74,13 @@ Provision for start-up electronic money institutions
 
 15.  If an electronic money institution or a small e-money institution has not completed a full financial year’s business, references to a figure for the preceding financial year are to be read as the equivalent figure projected in the business plan provided in the relevant institution’s application for Part 7 permission or registration, subject to any adjustment to that plan required by the GFSC.
 
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
 Method A
 
 16.(1)  “Method A” means the calculation method set out in this paragraph.
 
 (2)  The own funds requirement is 10% of the fixed overheads for the preceding financial year of an electronic money institution which is a regulated firm.
 
-(3)  If a material change has occurred since the preceding financial year in the business of an electronic money institution which is a regulated firm, the GFSC may direct that the own funds requirement is to be a higher or lower amount than that calculated in accordance with sub-paragraph (2).
+(3)  If a material change has occurred since the preceding financial year in the business of an electronic money institution which is a regulated firm, the GFSC may direct that the own funds requirement is to be a higher or lower amount than that calculated in accordance with sub- paragraph (2).
 
 Method B
 
@@ -108,11 +102,9 @@ Method B
 
 (4)  The “scaling factor” is–
 
-(a) 0.5 for an electronic money institution which is a regulated firm providing a payment service specified in point 6 of paragraph 17 of Schedule 2 to the Act (money remittance); and
+(a) 0.5 for an electronic money institution which is a regulated firm providing a payment service specified in paragraph 17(6) of Schedule 2 to the Act (money remittance); and
 
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
-
-(b) 1 for an electronic money institution which is a regulated firm providing any other payment service specified in points 1 to 5 of paragraph 17 of Schedule 2 to the Act.
+(b) 1 for an electronic money institution which is a regulated firm providing any other payment service specified in paragraph 17(1) to (5) of Schedule 2 to the Act.
 
 Method C
 
@@ -150,8 +142,6 @@ subject to the proviso in sub-paragraph (7).
 
 (f) audited figures must be used unless they are not available in which case business estimates may be used.
 
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
 (5)  The “multiplication factor” is the sum of–
 
 (a) 10% of the first 2,500,000 Euro of the relevant indicator;
@@ -182,11 +172,7 @@ Method D
 
 the institution may calculate its own funds requirement on the basis of a representative portion assumed to be used for the issuance of electronic money and payment services related to the issuance of electronic money, provided that such representative portion can be reasonably estimated on the basis of historical data and to the satisfaction of the GFSC.
 
-(2)  Where an electronic money institution or small e-money institution has not completed a sufficiently long period of business to compile historical data adequate to make the calculation under sub-paragraph (1), it must make an estimate on the basis of projected
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
-
-outstanding electronic money as evidenced by its business plan, subject to any adjustments to that plan which are, or have been, required by the GFSC.
+(2)  Where an electronic money institution or small e-money institution has not completed a sufficiently long period of business to compile historical data adequate to make the calculation under sub-paragraph (1), it must make an estimate on the basis of projected outstanding electronic money as evidenced by its business plan, subject to any adjustments to that plan which are, or have been, required by the GFSC.
 
 Application of accounting standards
 

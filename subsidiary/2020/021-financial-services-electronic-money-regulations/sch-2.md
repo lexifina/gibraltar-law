@@ -22,13 +22,9 @@ ELECTRONIC MONEY INSTITUTION: APPLICATION FOR PERMISSION
 
 9.  A description of the principles and definitions applied for the collection of statistical data on performance, transactions and fraud.
 
-10.  A security policy document, including a detailed risk assessment in relation to the payment services to be provided and a description of security control and mitigation
+10.  A security policy document, including a detailed risk assessment in relation to the payment services to be provided and a description of security control and mitigation measures taken to adequately protect payment service users against the risks identified, including fraud and illegal use of sensitive and personal data.
 
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
-
-measures taken to adequately protect payment service users against the risks identified, including fraud and illegal use of sensitive and personal data.
-
-11.  A description of the internal control mechanisms which the electronic money institution has established in order to comply with the Money Laundering Directive and Regulation 2015/847/EU of the European Parliament and of the Council of 20 May 2015 as it forms part of the law of Gibraltar after IP completion day on information accompanying transfers of funds.
+11.  A description of the internal control mechanisms which the electronic money institution has established in order to comply with Part 3 of the Proceeds of Crime Act 2015 and Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 as it forms part of the law of Gibraltar after IP completion day on information accompanying transfers of funds.
 
 12.  A description of the electronic money institution’s structural organisation, including, where applicable, a description of the intended use of agents and branches and the off-site and on-site checks that the institution undertakes to perform on them at least annually, a description of outsourcing arrangements, and of its participation in a national and international payment system.
 
@@ -54,8 +50,4 @@ and evidence that they are of good repute and that they possess appropriate know
 
 (b) the organisational arrangements that the institution has set up,
 
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
 with a view to the institution taking all reasonable steps to protect the interests of its electronic money holders and payment service users and to ensuring continuity and reliability in the performance of the issuance of electronic money and payment services activities.
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020

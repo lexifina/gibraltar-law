@@ -32,8 +32,6 @@ Registration
 
 (a) details of the change;
 
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
-
 (b) the complete information; or
 
 (c) a correction of the inaccuracy.
@@ -44,7 +42,7 @@ Registration
 
 (b) if the change has not yet occurred, as soon as the applicant is aware of it.
 
-(4)  The GFSC may require an applicant to provide the information required by sub- paragraph (2) in such form, or to verify it in such way, as the GFSC may direct.
+(4)  The GFSC may require an applicant to provide the information required by sub-paragraph (2) in such form, or to verify it in such way, as the GFSC may direct.
 
 5.  The GFSC may refuse to register a small e-money institution only if one or more of the conditions in paragraph 6 are not met.
 
@@ -62,11 +60,7 @@ Registration
 
 (a) robust governance arrangements for its electronic money and payment services business, including a clear organisational structure with well-defined, transparent and consistent lines of responsibility; and
 
-(b) effective procedures to identify, manage, monitor and report any risks to which it might be exposed,
-
-that are comprehensive and proportionate to the nature, scale and complexity of electronic money to be issued and payment services to be provided by the institution.
-
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
+(b) effective procedures to identify, manage, monitor and report any risks to which it might be exposed, that are comprehensive and proportionate to the nature, scale and complexity of electronic money to be issued and payment services to be provided by the institution.
 
 (7)  The applicant must satisfy the GFSC that–
 
@@ -82,7 +76,7 @@ Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 202
 
 (10)  For the purposes of sub-paragraph (4), where the applicant has yet to commence the provision of payment services which are not related to the issuance of electronic money, or has been providing such payment services for less than 12 months, the monthly average may be based on the projected total amount of relevant payment transactions over a 12-month period.
 
-(11)  In sub-paragraph (4) “relevant payment transactions” in respect of a small e- money institution means payment transactions which–
+(11)  In sub-paragraph (4) “relevant payment transactions” in respect of a small e-money institution means payment transactions which–
 
 (a) are not related to the issuance of electronic money; and
 
@@ -93,8 +87,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 202
 7.(1)  Where–
 
 (a) an applicant provides payment services that are not related to the issuance of electronic money or carries on any of the activities referred to in regulation 10(2) or (3); and
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
 
 (b) the amount of outstanding electronic money is unknown in advance,
 
@@ -120,8 +112,6 @@ Scope of exemption
 
 9.(1)  Where a small e-money institution is entered on the Register, the GFSC may limit the activities referred to in sub-paragraph (2)(b) or (c) which a small e-money institution may carry on.
 
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
 (2)  A small e-money institution’s exemption from the general prohibition under regulation 5 applies in relation to–
 
 (a) the regulated activity of issuing electronic money;
@@ -144,13 +134,11 @@ Supervision by the GFSC
 
 Information gathering and investigatory powers
 
-11.  For the purposes of paragraph 8, the GFSC may exercise in relation to small e-money institutions any power conferred on the GFSC under Part 10 of the Act (and for this purpose references to relevant persons or authorised persons are to be read as including small e- money institutions).
+11.  For the purposes of paragraph 8, the GFSC may exercise in relation to small e-money institutions any power conferred on the GFSC under Part 10 of the Act (and for this purpose references to relevant persons or authorised persons are to be read as including small e-money institutions).
 
 Sanctioning actions
 
 12.  In relation to any contravention of a requirement of these Regulations or the Payment Services Regulations by small e-money institutions or those who effectively control their business, the GFSC may take any sanctioning action in relation to small e-money institutions which may be taken under Part 11 of the Act in relation to a regulated firms (and, for this purpose, any reference to a suspension of permission is to be read as a reference to a suspension of registration).
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
 
 Imposition of requirements
 
@@ -186,8 +174,6 @@ Variation of requirements at request of small e-money institution
 
 (a) imposing a requirement that may be included in a registration under paragraph 13;
 
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
 (b) cancelling a requirement included in the registration or previously imposed under paragraph (a); or
 
 (c) varying such a requirement,
@@ -220,8 +206,6 @@ provided that the conditions set out in sub-paragraph (2) continue to be met.
 
 (8)  The notice must state the date on which the variation takes effect.
 
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
-
 Withdrawal of registration
 
 15.(1)  The GFSC may withdraw a small e-money institution’s registration and remove the institution from the Register where–
@@ -252,11 +236,7 @@ Withdrawal of registration
 
 (2)  A request for the withdrawal of a small e-money institution’s registration under sub- paragraph (1)(b) must be made in such manner as the GFSC may direct.
 
-(3)  At any time after receiving a request under sub-paragraph (1)(b) and before determining it, the GFSC may require the institution making the request to provide it with
-
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
-such further information as it reasonably considers necessary to enable it to determine the request.
+(3)  At any time after receiving a request under sub-paragraph (1)(b) and before determining it, the GFSC may require the institution making the request to provide it with such further information as it reasonably considers necessary to enable it to determine the request.
 
 Variation on initiative of GFSC
 
@@ -287,8 +267,6 @@ Notice procedure
 17.(1)  Except in any case to which paragraph 18 applies, the GFSC must give the small e- money institution a warning notice if it proposes–
 
 (a) to exercise the GFSC’s power under power paragraph 13(1) (“the GFSC’s requirement power”);
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
 
 (b) to exercise the GFSC’s power under power paragraph 15(1) (“the GFSC’s withdrawal power”); or
 
@@ -324,8 +302,6 @@ Directions in urgent cases
 
 (c) the reputation of Gibraltar.
 
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
 (4)  Condition C is that the GFSC reasonably considers that the giving of a direction under this section is–
 
 (a) to a material extent, likely to avoid the occurrence of the damage referred to in sub-paragraph (3) or to reduce the extent of such damage; and
@@ -356,8 +332,6 @@ Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 202
 
 (8)  The GFSC may extend the period allowed under the notice for making representations.
 
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
-
 Revocation or variation of directions
 
 19.(1)  The Supreme Court may, on an application made to it by the small e-money institution of which not less than two working days’ notice has been given to the GFSC–
@@ -382,13 +356,11 @@ Revocation or variation of directions
 
 (5)  Where, before the end of the period referred to in sub-paragraph (4)(b), a warning notice under paragraph 17(1) is given to the small e-money institution in connection with the requirement or the withdrawal or variation of registration that is the subject of the direction under paragraph 18(1), the direction does not cease to have effect until–
 
-(a) the expiry of the period within which an appeal may be made against any decision notice under paragraph 17(2) which has been given to the small e- money institution in connection with the requirement in question or the small e- money institution’s registration; or
+(a) the expiry of the period within which an appeal may be made against any decision notice under paragraph 17(2) which has been given to the small e-money institution in connection with the requirement in question or the small e-money institution’s registration; or
 
 (b) when any appeal is finally determined or withdrawn.
 
 Application for Part 7 permission where financial limit is exceeded
-
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
 
 20.  Where a small e-money institution ceases to comply with a condition referred to in paragraph 14(2)(c) or (d) it must, within 30 days of becoming aware of the change in circumstances, apply for Part 7 permission to issue electronic money if it intends to continue issuing electronic money in Gibraltar.
 
@@ -423,7 +395,3 @@ Rights and obligations of small e-money institutions
 (3)  In the application of regulation 59 to small e-money institutions, sub- paragraph (1) is to have effect as if, for paragraph (a), there were substituted–
 
 “(a) in any case where a small e-money institution issues electronic money or carries on payment services otherwise than in accordance with this Schedule;”.
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
-
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021

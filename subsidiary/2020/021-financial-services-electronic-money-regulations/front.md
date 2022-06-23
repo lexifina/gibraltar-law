@@ -1,8 +1,6 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.6(1), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10.
 
-FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
+Financial Services (Electronic Money) Regulations 2020
 
 LN.2020/021
 
@@ -12,9 +10,9 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/488 rr. 2, (4), 3(1), 5(d), 6(5), 9(2)(b), (9), 10(2)(c), (5), 12(3), 13(2)(b), (10)-(11), 31(7)-(8), 32(3), 41(1)(a), 43-53, 57(2)(b), (10), 61-62, Sch. 2
 
-1.1.2021 2022/188 r. 36(1)(c) 1.1.2021
+1.1.2021 2022/188 r. 36(1)(c) 1.1.2021 2022/153 rr. 2(5)-(6), 9(2)(b), (9)(a), 10(3), (5), 14(1)(c)(i), 18(2), 36(1)(a)-(b), (2), 56(2), Schs.2-3
 
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
+23.6.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -44,8 +42,6 @@ PART 3 CONDUCT OF BUSINESS
 
 Issuance and redemption of electronic money
 
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
 18. Issuance and redeemability. 19. Conditions of redemption. 20. Fees for redemption. 21. Amount of redemption. 22. Requests for redemption. 23. Redemption rights of persons other than consumers. 24. Prohibition of interest. 25. Termination of contract. 26. Complaints.
 
 PART 4 PRUDENTIAL REQUIREMENTS
@@ -66,11 +62,7 @@ PART 5 REPORTING AND NOTIFICATION
 
 41. Duty of electronic money institution to notify change in circumstances. 42. Reporting requirements for electronic money issuers.
 
-PART 6
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
-
-Omitted
+PART 6 Omitted
 
 43. to 53. Omitted.
 
@@ -101,10 +93,6 @@ SCHEDULE 1 SMALL E-MONEY INSTITUTIONS
 SCHEDULE 2 ELECTRONIC MONEY INSTITUTION: APPLICATION FOR PERMISSION
 
 SCHEDULE 3 CAPITAL REQUIREMENTS
-
-Financial Services 2019-26 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020 2020/021
-
-2019-26 Financial Services 2020/021 FINANCIAL SERVICES (ELECTRONIC MONEY) REGULATIONS 2020
 
 In exercise of the powers conferred upon the Minister by sections 6(1), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and upon the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made these Regulations.
 
