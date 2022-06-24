@@ -12,7 +12,7 @@ LN.2020/488 rr. 2, (4), 3(1), 5(d), 6(5), 9(2)(b), (9), 10(2)(c), (5), 12(3), 13
 
 1.1.2021 2022/188 r. 36(1)(c) 1.1.2021 2022/153 rr. 2(5)-(6), 9(2)(b), (9)(a), 10(3), (5), 14(1)(c)(i), 18(2), 36(1)(a)-(b), (2), 56(2), Schs.2-3
 
-23.6.2022
+23.6.2022 2022/321 r. 36A 24.11.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -56,11 +56,13 @@ Safeguarding
 
 Appointment and duties of auditors
 
-36. Accounting and statutory audit. 37. Appointment of auditors. 38. Notification in respect of auditors. 39. Communications by auditors to GFSC. 40. Auditor to notify GFSC of adverse occurrences etc.
+36. Accounting and statutory audit. 36A. Submission of accounts, etc. to GFSC. 37. Appointment of auditors. 38. Notification in respect of auditors. 39. Communications by auditors to GFSC. 40. Auditor to notify GFSC of adverse occurrences etc.
 
 PART 5 REPORTING AND NOTIFICATION
 
-41. Duty of electronic money institution to notify change in circumstances. 42. Reporting requirements for electronic money issuers.
+41. Duty of electronic money institution to notify change in circumstances.
+
+42. Reporting requirements for electronic money issuers.
 
 PART 6 Omitted
 
@@ -90,7 +92,9 @@ Revocation
 
 SCHEDULE 1 SMALL E-MONEY INSTITUTIONS
 
-SCHEDULE 2 ELECTRONIC MONEY INSTITUTION: APPLICATION FOR PERMISSION
+SCHEDULE 2
+
+ELECTRONIC MONEY INSTITUTION: APPLICATION FOR PERMISSION
 
 SCHEDULE 3 CAPITAL REQUIREMENTS
 
