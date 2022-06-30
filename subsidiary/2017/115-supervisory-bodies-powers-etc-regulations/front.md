@@ -12,11 +12,11 @@ Commencement 26.6.2017
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2019-05 r. 11(3) 21.3.2019 LN. 2019/116 r. 31(4A) 13.6.2019 2020/110 rr. 3, 9(1)-(4), 9A, 10A, 32, 32A, 34A
+Act. 2019-05 r. 11(3) 21.3.2019 LN. 2019/116 r. 31(4A) 13.6.2019 2020/110 rr. 3, 9(1)-(4), 9A, 10A, 32, 32A, 34A 13.3.2020 Act.2021-08 rr. 3, 5(2)(a), (c), 6, 9A(1)(a)-(b), 10A(3)(a)(i), 11(1)(a)
 
-13.3.2020 Act.2021-08 rr. 3, 5(2)(a), (c), 6, 9A(1)(a)- (b), 10A(3)(a)(i), 11(1)(a)
+9.2.2021 LN.2021/191 r. 9A(3) 22.3.2021 2022/160 rr. 3, 9(1), (2)(a)-(b), (3)(b), (4), 9A(2)-(3), 10, 10A(4)(a)-(b), 11(3), 12(1)(a)-(b), 13(1), (5)-(6), 14, 16(2)(a), 17A, 18(1)-(2), (5), 19(1), 20(1)(a), 22(1)(a)-(b), 23, 24(1)(a), (d)-(e), (g), (2), 25(1)-(3), 31(1), (3)(a), (4)(c)(ii), 32, 32A
 
-9.2.2021 LN.2021/191 r. 9A(3) 22.3.2021
+30.6.2022
 
 Transposing – Directive (EU) 2015/849
 
@@ -34,7 +34,7 @@ Regulation Part 1 General
 
 Part 2 Cooperation
 
-9. Cooperation with competent authorities outside Gibraltar. 9A. Cooperation between supervisory bodies and equivalent authorities. 10. Cooperation with EBA, EIOPA and ESMA.
+9. Cooperation with competent authorities outside Gibraltar. 9A. Cooperation between supervisory bodies and equivalent authorities. 10. Omitted.
 
 Part 2a Confidentiality
 
@@ -56,7 +56,7 @@ Proceeds of Crime SUPERVISORY BODIES (POWERS ETC.) REGULATIONS 2017
 
 2015-22
 
-Subsidiary 2017/115 17. Duty to produce records, etc.
+Subsidiary 2017/115 17. Duty to produce records, etc. 17A. Admissibility of statements.
 
 Part 4 Enforcement and Sanctioning Powers
 
@@ -70,7 +70,7 @@ Determination of sanction
 
 Appeals and Miscellaneous
 
-30. Appeals. 31. Public statement. 32. Notification of sanctions to EBA, EIOPA and ESMA. 32A. Notification of breaches to law enforcement authorities.
+30. Appeals. 31. Public statement. 32. Omitted. 32A. Reporting offences to law enforcement authorities.
 
 Part 5 Offences
 
