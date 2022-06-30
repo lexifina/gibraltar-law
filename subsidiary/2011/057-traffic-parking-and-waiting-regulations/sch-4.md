@@ -2,21 +2,9 @@ SCHEDULE 4
 
 Regulation 39 Part I Form of individual’s badge
 
-Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
-
-2005-26
-
-Subsidiary 2011/057
-
 Part II Form of Institutional Badge
 
 Part III Specifications for Badge
-
-Traffic TRAFFIC (PARKING AND WAITING) REGULATIONS 2011
-
-2005-26
-
-Subsidiary 2011/057
 
 Part III Specifications for Badge
 
