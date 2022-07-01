@@ -1,12 +1,10 @@
-2019-26 Financial Services
-
 Subsidiary Legislation made under ss.620, 621, 623, 626 & 627 and s.4 of the European Union Laws (Voluntary Implementation) Act 2019.
 
 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 LN.2021/493
 
-Commencement (Except s.4(2)) 1.1.2021
+Commencement (Except s.4(2)) 1.1.2021 s.4(2) 1.7.2022
 
 _______________________
 
@@ -28,11 +26,7 @@ Prudential consolidation and exemptions for an investment firm group
 
 PART 3 INITIAL CAPITAL AND OWN FUNDS
 
-11. Initial capital. 12. Composition of own funds.
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
-
-13. Qualifying holdings outside the financial sector.
+11. Initial capital. 12. Composition of own funds. 13. Qualifying holdings outside the financial sector.
 
 PART 4 CAPITAL REQUIREMENTS
 
@@ -56,8 +50,6 @@ Chapter 4 RtF K-factors
 
 32. RtF K-factor requirement.
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 Trading counterparty default
 
 33. Scope of counterparty default provisions. 34. Calculating K-TCD. 35. Calculation of exposure value. 36. Replacement cost (RC). 37. Potential future exposure. 38. Collateral. 39. Netting. 40. Credit valuation adjustment.
@@ -78,11 +70,7 @@ PART 7 PRUDENTIAL SUPERVISION
 
 Chapter 1 Investigatory Powers and Sanctions
 
-55. Investigatory powers.
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
-
-56. Sanctioning powers. 57. Administrative penalties. 58. Temporary suspension orders.
+55. Investigatory powers. 56. Sanctioning powers. 57. Administrative penalties. 58. Temporary suspension orders.
 
 Chapter 2 ICARA Process
 
@@ -108,8 +96,6 @@ Reviewing and documenting the ICARA process
 
 ICARA process: investment firm groups
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 77. Analysis of group risk by individual firms. 78. Group ICARA process. 79. Combined ICARA documents.
 
 Chapter 3 Internal governance, transparency and remuneration
@@ -130,8 +116,6 @@ Chapter 5 Supervision of Investment Firm Groups
 
 96. GFSC as group supervisor. 97. Inclusion of holding companies in supervision of group capital test compliance. 98. Qualifications of directors. 99. Mixed-activity holding companies. 100. Additional persons subject to sanctions. 101. Assessment of third-country supervision and other supervisory techniques.
 
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
-
 PART 8 DISCLOSURE BY INVESTMENT FIRMS
 
 102. Scope of Part 8. 103. Risk management objectives and policies. 104. Governance. 105. Own funds. 106. Own funds requirements. 107. Remuneration policy and practices. 108. Investment policy. 109. Environmental, social and governance risks.
@@ -146,14 +130,14 @@ PART 10 TRANSITIONAL AND FINAL PROVISIONS
 
 SCHEDULE 1 ICARA ASSESSMENT QUESTIONNAIRE
 
-SCHEDULE 2 CRITERIA FOR IDENTIFYING STAFF WHOSE ACTIVITIES HAVE A MATERIAL IMPACT ON THE RISK PROFILE OF INVESTMENT FIRMS
+SCHEDULE 2
+
+CRITERIA FOR IDENTIFYING STAFF WHOSE ACTIVITIES HAVE A MATERIAL IMPACT ON THE RISK PROFILE OF INVESTMENT FIRMS
 
 SCHEDULE 3 INSTRUMENTS THAT REFLECT THE CREDIT QUALITY OF INVESTMENT FIRMS AND ALTERNATIVE VARIABLE REMUNERATION ARRANGEMENTS
 
 SCHEDULE 4 MODIFIED APPLICATION OF MiFIR
 
 SCHEDULE 5 CONSEQUENTIAL AMENDMENTS
-
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
 
 In exercise of the powers conferred on the Minister by sections 620, 621, 623, 626 and 627 of the Financial Services Act 2019 and section 4 of the European Union Laws (Voluntary Implementation) Act 2019, the Minister has made these Regulations-

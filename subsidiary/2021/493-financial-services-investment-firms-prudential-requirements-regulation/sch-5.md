@@ -30,8 +30,6 @@ Amendment of the Financial Services (Alternative Investment Fund Managers) Regul
 
 2.(1)  The Financial Services (Alternative Investment Fund Managers) Regulations 2020 are amended as follows.
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (2)  In regulation 12(4), after “Financial Services (Investment Services) Regulations 2020” insert “and the Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021”.
 
 (3)  In regulation 15(5), for “Article 21 of Directive 2006/49/EC as that Directive applied in Gibraltar immediately before IP completion day” substitute “regulation 16 of the Financial Services (Investment Firms) (Prudential Requirements) Regulations 2020”.
@@ -65,8 +63,6 @@ Amendment of the Financial Services (Credit Institutions and Capital Requirement
 (c) in sub-regulation (6), omit “paragraph (2) and”.
 
 (5)  In Part 2, omit Chapter 3.
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 (6)  Omit regulation 33(19).
 
@@ -104,8 +100,6 @@ Amendment of the Financial Services (Financial Conglomerates) Regulations 2020.
 
 (b) the Financial Services (Credit Institutions and Capital Requirements) Regulations 2020;
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (c) the Financial Services (Investment Services) Regulations 2020;
 
 (d) the Financial Services (Investment Firms) (Prudential Requirements) Regulations 2020; and
@@ -137,8 +131,6 @@ Amendment of the Financial Services (Investment Services) Regulations 2020.
 (i) own funds requirements relating to quantifiable, uniform and standardised elements of risk‐to‐firm, risk‐to‐client and risk‐to‐ market;
 
 (ii) requirements limiting concentration risk;
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 (iii) liquidity requirements relating to quantifiable, uniform and standardised elements of liquidity risk;
 
@@ -173,8 +165,6 @@ Amendment of the Financial Services (Investment Services) Regulations 2020.
 (11)  In regulation 112(1), for “Act or these Regulations” substitute “Act, these Regulations or the IFPR Regulations”.
 
 (12)  In regulation 113–
-
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
 
 (a) in sub-regulation (1), for “these Regulations or MiFIR” substitute “these Regulations, the IFPR Regulations or MiFIR”; and
 

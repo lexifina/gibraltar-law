@@ -30,8 +30,6 @@ Application of criteria.
 
 (3)  Paragraph 4(1)(b) must only be applied on an individual basis.
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (4)  Paragraph 4(1)(c) must be applied on an individual and consolidated basis.
 
 Qualitative criteria.
@@ -68,8 +66,6 @@ Qualitative criteria.
 
 (f) in respect of decisions approving or vetoing the introduction of new products, the staff member–
 
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
-
 (i) has authority to take such decisions; or
 
 (ii) is a voting member of a committee which has authority to take such decisions.
@@ -94,8 +90,6 @@ Quantitative criteria.
 
 (b) who was awarded total remuneration of £750,000 or more in or for the preceding financial year.
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (5)  The GFSC may only give approval under sub-paragraph (4) where the investment firm can demonstrate that the condition in sub-paragraph (2) is satisfied, having regard to the assessment criteria set out in sub-paragraph (3).
 
 (6)  Where in a given financial year the staff member was awarded total remuneration of £1,000,000 or more in or for the preceding financial year, the GFSC may only give its approval under sub-paragraph (4) where the investment firm demonstrates to the GFSC’s satisfaction that exceptional circumstances exist related to the staff member concerned.
@@ -111,5 +105,3 @@ Calculation of the variable remuneration awarded.
 (a) the year preceding the financial year in which the variable remuneration is awarded; or
 
 (b) the year preceding the financial year for which the variable remuneration is awarded.
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021

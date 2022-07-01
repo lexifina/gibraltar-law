@@ -18,9 +18,9 @@ Own funds threshold requirement - identified through the ICARA process
 
 Additional own funds requirement specified by GFSC
 
-13 Has the GFSC specified an own funds requirement for the firm? Y/N If yes, what is the basis for GFSC specified requirement: 14 Own funds threshold requirement Y/N 15 Own funds wind-down trigger Y/N 16 Own funds threshold requirement set by the GFSC number 17 Own funds wind-down trigger set by the GFSC number
+13 Has the GFSC specified an own funds requirement for the firm? Y/N If yes, what is the basis for GFSC specified requirement: 14 Own funds threshold requirement Y/N 15 Own funds wind-down trigger Y/N 16 Own funds threshold requirement set by the GFSC number
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
+17 Own funds wind-down trigger set by the GFSC number
 
 Part B1: Breakdown of additional own funds requirement to address risks from ongoing activities (non S-NII firms only)
 
@@ -38,9 +38,9 @@ Liquid assets held as at ICARA reference date
 
 Liquid assets required as identified through the ICARA process
 
-33 Liquid assets threshold requirement number Additional liquid assets required to fund ongoing business operations at any given point in time: 35 Quarter 1 number 36 Quarter 2 number 37 Quarter 3 number 38 Quarter 4 number 39 Additional liquid assets required to start wind-down number
+33 Liquid assets threshold requirement number Additional liquid assets required to fund ongoing business operations at any given point in time: 35 Quarter 1 number 36 Quarter 2 number
 
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
+37 Quarter 3 number 38 Quarter 4 number 39 Additional liquid assets required to start wind-down number
 
 Meeting debts as they fall due
 
@@ -62,10 +62,4 @@ Other business activities
 
 Indicate the other business services and activities the firm provides:
 
-56 Holding client assets or client money for non-MiFID business Y/N 57 Receive money or assets from clients under title transfer collateral agreements Y/N 58 Operating 'name give-up' as an inter-dealer broker Y/N
-
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
-59 Clearing activities Y/N 60 Corporate finance business Y/N 61 Venture capital business Y/N 62 Are you part of a financial conglomerate Y/N 63 Delegation of discretionary portfolio management to other firms Y/N 64 If yes, what is the value delegated to other firms number number 65 Discretionary portfolio management delegated from other firms Y/N 66 If yes, what is the value delegated from other firms number number 67 Provide advice of an ongoing nature Y/N 68 If yes, what is the current value of assets included within the K-AUM calculation number 69 Calculation of AUM at ICARA reference date excluding offsetting - when calculating AUM has the firm applied any offsetting of negative values or liabilities attributed to positions within the relevant portfolios Y/N 70 If yes, what is the AUM value without any offsetting number
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
+56 Holding client assets or client money for non-MiFID business Y/N 57 Receive money or assets from clients under title transfer collateral agreements Y/N 58 Operating 'name give-up' as an inter-dealer broker Y/N 59 Clearing activities Y/N 60 Corporate finance business Y/N 61 Venture capital business Y/N 62 Are you part of a financial conglomerate Y/N 63 Delegation of discretionary portfolio management to other firms Y/N 64 If yes, what is the value delegated to other firms number number 65 Discretionary portfolio management delegated from other firms Y/N 66 If yes, what is the value delegated from other firms number number 67 Provide advice of an ongoing nature Y/N 68 If yes, what is the current value of assets included within the K-AUM calculation number 69 Calculation of AUM at ICARA reference date excluding offsetting - when calculating AUM has the firm applied any offsetting of negative values or liabilities attributed to positions within the relevant portfolios Y/N 70 If yes, what is the AUM value without any offsetting number

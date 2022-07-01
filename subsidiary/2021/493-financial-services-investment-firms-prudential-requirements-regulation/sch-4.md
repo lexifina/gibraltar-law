@@ -32,8 +32,6 @@ MODIFIED APPLICATION OF MiFIR
 
 (a) either–
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (i) a financial instrument, structured deposit or activity or practice gives rise to significant investor protection concerns or poses a threat to the orderly functioning and integrity of financial markets or commodity markets or to the stability of whole or part of the financial system in Gibraltar; or
 
 (ii) a derivative has a detrimental effect on the price formation mechanism in the underlying market;
@@ -51,8 +49,6 @@ Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Req
 6.  In exceptional cases where the GFSC considers it necessary to take urgent action under this Article in order to prevent detriment arising from the financial instruments, structured deposits, practices or activities referred to in paragraph 1, the GFSC may take action on a provisional basis for a period not exceeding three months if all the criteria in this Article are met and, in addition, it is clearly established that waiting for one month would not adequately address the specific concern or threat.
 
 7.  The GFSC must publish on its website notice of any decision to impose a prohibition or restriction under paragraph 1, which must specify–
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 (a) details of the prohibition or restriction;
 
@@ -77,8 +73,6 @@ Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Req
 “TITLE VIII PROVISION OF SERVICES AND PERFORMANCE OF ACTIVITIES BY THIRD-COUNTRY FIRMS FOLLOWING AN EQUIVALENCE DECISION WITH OR WITHOUT A BRANCH
 
 Article 46 General provisions
-
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
 
 1.  A third-country firm may provide investment services or perform investment activities with or without any ancillary services to eligible counterparties and professional clients within the meaning of Section I of Schedule 1 to the Financial Services (Investment Services) Regulations 2020 (“Section I professional clients”) established in Gibraltar without establishing a branch where it is registered in the register of third-country firms kept by the GFSC in accordance with Article 47.
 
@@ -106,9 +100,7 @@ is to be treated as an equivalence determination made by the Minister under Arti
 
 6.  The GFSC must–
 
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
-
-(a) within 30 working days of receiving an application, assess whether it is complete and, if it is not, set a deadline by which the applicant third- country firm is to provide additional information; and
+(a) within 30 working days of receiving an application, assess whether it is complete and, if it is not, set a deadline by which the applicant third-country firm is to provide additional information; and
 
 (b) within 180 working days of receiving a complete application, decide whether to grant or refuse registration and provide the applicant with a reasoned written decision.
 
@@ -132,8 +124,6 @@ is to be treated as an equivalence determination made by the Minister under Arti
 
 11.  The provision by a third-country firm of an investment service or activity at the client’s exclusive initiative does not entitle the firm to market new categories of investment products or services to that client.
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 12.  Third-country firms providing services or performing activities in accordance with this Article must, on an annual basis, inform the GFSC of the following–
 
 (a) the scale and scope of the services and activities carried out by the firm in and from Gibraltar;
@@ -154,11 +144,9 @@ Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Req
 
 13.  Where a third-country firm provides services or performs activities in accordance with this Article, it must keep at the GFSC’s disposal the data relating to all orders and all transactions in Gibraltar in financial instruments which it has carried out, whether on its own account or on behalf of a client, for a period of five years.
 
-14.  The Minister may make technical standards specifying the information that a third-country firm must provide in a registration application under paragraph 4 and in accordance with paragraph 12.
+14.  The Minister may make technical standards specifying the information that a third- country firm must provide in a registration application under paragraph 4 and in accordance with paragraph 12.
 
 Article 47 Equivalence determination
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 1.  The Minister may determine that the legal and supervisory arrangements of a third country ensure all of the following–
 
@@ -182,11 +170,7 @@ Article 47 Equivalence determination
 
 (a) firms providing investment services or performing investment activities in that third country are subject to authorisation and to effective supervision and enforcement on an ongoing basis;
 
-(b) firms providing investment services or performing investment activities in that third country are subject to sufficient capital requirements and, in particular, firms performing the activities in paragraph 50 or 53 of Schedule 2 to the Financial Services Act 2019 are subject to comparable
-
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
-capital requirements to those that would apply if they were established in Gibraltar;
+(b) firms providing investment services or performing investment activities in that third country are subject to sufficient capital requirements and, in particular, firms performing the activities in paragraph 50 or 53 of Schedule 2 to the Financial Services Act 2019 are subject to comparable capital requirements to those that would apply if they were established in Gibraltar;
 
 (c) firms providing investment services or performing investment activities in that third country are subject to appropriate requirements applicable to shareholders and members of their management body;
 
@@ -202,11 +186,9 @@ capital requirements to those that would apply if they were established in Gibra
 
 (b) the mechanism for prompt notification of the GFSC where a third-country supervisory authority considers that a third-country firm that it is supervising and which the GFSC has registered has infringed the conditions of its authorisation or other law to which it is obliged to adhere;
 
-(c) the procedures concerning the coordination of supervisory activities, including investigations and on-site inspections which the GFSC may carry out where a third-country firm provides investment services or performs investment activities in accordance with Article 46, which is necessary for the accomplishment of the tasks of the GFSC or the third- country supervisory authority in accordance with this Regulation; and
+(c) the procedures concerning the coordination of supervisory activities, including investigations and on-site inspections which the GFSC may carry out where a third-country firm provides investment services or performs investment activities in accordance with Article 46, which is necessary for the accomplishment of the tasks of the GFSC or the third-country supervisory authority in accordance with this Regulation; and
 
 (d) the procedures concerning a request for information under Article 46(12) or (13) that the GFSC may submit to a registered third-country firm.
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 5.  A third-country firm may no longer use the rights under Article 46 where the Minister revokes a determination under paragraph 1 in relation to that third country.
 
@@ -234,8 +216,6 @@ Article 49 Measures to be taken by the GFSC
 
 (i) has not taken the appropriate measures needed to protect investors or the proper functioning of the markets in Gibraltar; or
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (ii) has not demonstrated that the third-country firm complies with the requirements applicable to it in that country or with the conditions under which a determination under Article 47(1) has been made; and
 
 (b) the GFSC reasonably believes that, in the provision of investment services and activities in Gibraltar, the third-country firm–
@@ -257,5 +237,3 @@ Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Req
 (d) whether the risk has arisen intentionally or negligently.
 
 5.  The GFSC must inform the Minister and the third-country firm concerned of any measure adopted in accordance with paragraph 1 or 2 without delay and publish its decision on its website.”.
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021

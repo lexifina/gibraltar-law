@@ -22,8 +22,6 @@ Classes of instruments that adequately reflect the credit quality of an investme
 
 (c) the provisions governing convertible instruments which are used for the sole purpose of variable remuneration must ensure that the value of the instrument into which the instrument initially awarded is converted is not higher than the value, at the time of that conversion, of the instrument initially awarded;
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (d) the provisions governing the instrument must provide that any distributions are paid on at least an annual basis and are paid to the holder of the instrument;
 
 (e) instruments must be priced at their value at the time the instrument is awarded, in accordance with the applicable accounting standard; and
@@ -47,8 +45,6 @@ Conditions for classes of Additional Tier 1 instruments.
 (c) one of the following requirements is met–
 
 (i) the instruments are issued for the sole purpose of being awarded as variable remuneration and the provisions governing the instrument ensure that any distributions are paid at a rate which is consistent with market rates for similar instruments issued either by the investment firm or by investment firms or institutions of comparable credit quality and which in any case is, at the time the remuneration is awarded, no higher than 8 percentage points above the annual average rate of change in the General Index of Retail Prices;
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 (ii) at the time of the award of the instruments as variable remuneration, at least 60% of the instruments in issuance were issued other than as an award of variable remuneration and are not held by, or by any undertaking that has close links with–
 
@@ -76,8 +72,6 @@ Conditions for classes of Tier 2 instruments.
 
 (i) 7% of the product of 12.5 multiplied by the own funds requirements calculated in accordance with regulation 14(1); or
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (ii) a level higher than the one specified in sub-paragraph (i), where determined by the investment firm or institution issuing the instrument and specified in the provisions governing the instrument; and
 
 (d) one of the requirements in paragraph 2(1)(c) is met.
@@ -99,8 +93,6 @@ Conditions for classes of Other Instruments.
 (b) the provisions governing the Other Instruments do not give the holder the right to accelerate the scheduled payment of distributions or principal other than in the case of the insolvency or liquidation of the institution or investment firm issuing that instrument;
 
 (c) at the time of the award of the Other Instruments as variable remuneration the remaining period before maturity of the Other Instruments is equal to or exceeds the sum of the deferral periods and retention periods that apply in respect of the award of those instruments;
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 (d) the provisions governing the instrument provide that, on the occurrence of a trigger event, the principal amount of the instruments must be written down on a permanent or temporary basis or the instrument must be converted to Common Equity Tier 1 instruments;
 
@@ -126,11 +118,7 @@ Conditions for classes of Other Instruments.
 
 (e) the value of any distributions paid after the Other Instrument has vested is linked to the reference instrument such that distributions paid are at no time more than the value of any distributions paid under the reference instrument; and
 
-(f) the provisions governing the Other Instruments provide that if the reference instrument is called, converted, repurchased or redeemed within the deferral or retention period the Other Instruments must be linked to an equivalent reference
-
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
-instrument which fulfils the conditions in this paragraph such that the total value of the Other Instruments does not increase.
+(f) the provisions governing the Other Instruments provide that if the reference instrument is called, converted, repurchased or redeemed within the deferral or retention period the Other Instruments must be linked to an equivalent reference instrument which fulfils the conditions in this paragraph such that the total value of the Other Instruments does not increase.
 
 (4)  The conditions in sub-paragraph (1)(c) are–
 
@@ -154,15 +142,13 @@ Write-down, write-up and conversion procedures.
 
 (b) the amount to be paid in the event of the call or redemption of the instrument; and
 
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
-
 (c) the distributions made on the instrument.
 
 (4)  Any distributions payable after a write-down must be based on the reduced amount of the principal.
 
 (5)  Write-down or conversion of the instruments must, under the applicable accounting framework, generate items that qualify as Common Equity Tier 1 items.
 
-(6)  Where the investment firm or institution issuing the instrument has established that the Common Equity Tier 1 ratio has fallen below the level that activates conversion or write- down of the instrument, the management body or any other relevant body of the investment firm or institution issuing the instrument must be required to determine without delay that a trigger event has occurred and there must be an irrevocable obligation to write-down or convert the instrument.
+(6)  Where the investment firm or institution issuing the instrument has established that the Common Equity Tier 1 ratio has fallen below the level that activates conversion or write-down of the instrument, the management body or any other relevant body of the investment firm or institution issuing the instrument must be required to determine without delay that a trigger event has occurred and there must be an irrevocable obligation to write-down or convert the instrument.
 
 (7)  The aggregate amount of instruments that are required to be written down or converted on the occurrence of a trigger event must be no less than the lower of–
 
@@ -174,11 +160,11 @@ Write-down, write-up and conversion procedures.
 
 (a) the investment firm must inform the staff members who have been awarded the instruments as variable remuneration and the persons who continue to hold such instruments; and
 
-(b) the investment firm or institution issuing the instrument must write down the principal amount of the instruments, or convert the instruments into Common Equity Tier 1 instruments as soon as possible and within a maximum period of one month in accordance with the requirements of this paragraph.
+(b) the investment firm or institution issuing the instrument must write down the principal amount of the instruments, or convert the instruments into Common
+
+Equity Tier 1 instruments as soon as possible and within a maximum period of one month in accordance with the requirements of this paragraph.
 
 (9)  Where Additional Tier 1 instruments, Tier 2 instruments and Other Instruments include an identical trigger level, the principal amount must be written down or converted on a pro- rata basis to all holders of such instruments which are used for the purposes of variable remuneration.
-
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
 
 (10)  The amount of the instrument to be written-down or converted must be subject to independent review, which must be completed as soon as possible and not impede the write- down or conversion of the instrument.
 
@@ -199,8 +185,6 @@ Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Req
 (c) a write-up must be operated on a pro-rata basis among Additional Tier 1 instruments, Tier 2 instruments and Other Instruments used for the purpose of variable remuneration that have been subject to a write-down;
 
 (d) the maximum amount to be attributed to the sum of the write-up of Tier 2 and Other Instruments together with the payment of coupons on the reduced amount of the principal must be equal to the profit of the investment firm or institution issuing the instrument multiplied by the amount obtained by dividing the amount determined in sub-paragraph (i) by the amount determined in sub-paragraph (ii)–
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
 
 (i) the sum of the nominal amount of all Tier 2 instruments and Other Instruments of the investment firm before write-down that have been subject to a write-down; and
 
@@ -228,8 +212,6 @@ Alternative arrangements.
 
 (d) for amounts received under deferral and retention arrangements the alternative arrangement ensures that staff cannot access, transfer or redeem the deferred part of variable remuneration during such periods;
 
-Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021 2021/493
-
 (e) the alternative arrangement does not provide for the increase of the value of the variable remuneration received during deferral periods by interest payments or other similar arrangements, other than by arrangements that fulfil the conditions in paragraph (f);
 
 (f) where the alternative arrangement allows for predetermined changes of the value received as variable remuneration during deferral and retention periods, based on the performance of the firm or the managed assets, the following conditions must be met–
@@ -245,5 +227,3 @@ Financial Services 2019-26 Financial Services (Investment Firms) (Prudential Req
 (v) where the value change under sub-paragraph (i) is based on the credit quality of the firm, the percentage of value change is limited to the percentage of the annual total gross revenue in relation to the investment firm’s total own funds; and
 
 (g) the alternative arrangement does not hinder the application of regulation 85(1)(m).
-
-2019-26 Financial Services 2021/493 Financial Services (Investment Firms) (Prudential Requirements) Regulations 2021
