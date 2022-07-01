@@ -22,9 +22,7 @@ then, the interest so paid, or payable, to either the connected person or to the
 
 (c) for the purposes of this subparagraph –
 
-Income Tax
-
-2010-21 “loan capital” means the total interest-bearing debt of a company in an accounting period.
+“loan capital” means the total interest-bearing debt of a company in an accounting period.
 
 “equity” means preference shares, whether redeemable or irredeemable and regardless of their accounting treatment, together with shareholders’ funds including the called-up share capital, the share premium account, any capital redemption reserve, the retained profits and any revaluation reserve only where the Commissioner is satisfied as to the substance of such a revaluation.
 
@@ -48,10 +46,6 @@ Transactions with Connected persons.
 
 4.(1)  Where a person carries on business with a connected person and it appears to the Commissioner that the course of business between those persons is so arranged, that the business done by the person chargeable to taxation in pursuance of his connection with the other person produces to the person either no profits, less than the ordinary profits, losses or increases the loss which might be expected to arise from that business, the person shall be assessable and chargeable to tax in respect of the profits which might be expected to arise from that business if it were transacted in accordance with the remainder of this Schedule.
 
-Income Tax
-
-2010-21
-
 (2)  The amount of any interest paid by a person to a connected party in any year which exceeds the amount of interest which would have been paid to an arm’s length party shall be deemed to be a dividend paid by the person and received by the connected party at the time of payment and shall not be deductible in ascertaining the profits or gains of the person for that year.
 
 (3)  Where a person chargeable to taxation in Gibraltar claims a deduction or deductions in computing its profits and gains for taxation for any year of assessment or accounting period in respect of an expense or expenses incurred in favour of a connected party or connected parties (for the purposes of this subparagraph collectively known as “the Expense”), the aggregate amount of the deduction to be allowed in respect of the Expense in computing the profits and gains of the person shall be the least of-
@@ -60,9 +54,9 @@ Income Tax
 
 (b) 5 per cent of the gross turnover of the person for the accounting period or year of assessment; and
 
-(c) (i)  75 per cent of the pre- Expense net profit of the person for the accounting period or year of assessment.
+(c)   (i) 75 per cent of the pre- Expense net profit of the person for the accounting period or year of assessment.
 
-(ii) For the purpose of (i) above the pre Expense net profit of the person shall be the net profit after the Expense has been added back.
+(ii) For the purpose of (i) above the pre Expense net profit of the     person shall be the net profit after the Expense has been added back.
 
 (iii) For the purpose of (i) above, any losses available for relief brought forward shall first be deducted from the pre-Expense net profit before applying the 75 per cent.
 
@@ -75,10 +69,6 @@ Income Tax
 (i) accounting standard or convention applicable to the trade, profession, business or vocation of the person;
 
 (ii) where applicable, any practice in computing the turnover imposed by any statutory regulation,
-
-Income Tax
-
-2010-21
 
 as amended by the Commissioner for the purposes of imposing taxation on persons conducting the particular trade, profession, business or vocation; or
 
@@ -105,10 +95,6 @@ Chargeability of dual employment contracts.
 6.  Where an employee of an employer ordinarily resident in Gibraltar has one or more other contracts with that or another employer, whether resident in Gibraltar or elsewhere who is a connected person to the employer ordinarily resident in Gibraltar, the income derived from or accruing from all the contracts held by the employee, whether the duties are performed in Gibraltar or elsewhere shall be charged to tax under Schedule 1 Table B (1).
 
 Exemption from Paragraphs 2 and 4 to 6.
-
-Income Tax
-
-2010-21
 
 7.(1)  Paragraphs 2 and 4 to 6 shall not apply if the person who would otherwise be assessed shows in writing or otherwise to the satisfaction of the Commissioner either-
 
@@ -140,10 +126,6 @@ Interpretation.
 
 “associated enterprise” means:
 
-Income Tax
-
-2010-21
-
 (a) an entity in which the taxpayer holds directly or indirectly a participation in terms of voting rights or capital ownership of 25% or more or is entitled to receive 25% or more of the profits of that entity; or
 
 (b) an individual or entity which holds directly or indirectly a participation in terms of voting rights or capital ownership in a taxpayer of 25% or more or is entitled to receive 25% or more of the profits of the taxpayer;
@@ -159,10 +141,6 @@ If an individual or entity holds directly or indirectly a participation of 25% o
 “entity” means a company, partnership, trust or foundation;
 
 “exceeding borrowing costs” means the amount by which the deductible borrowing costs of a taxpayer exceed taxable interest revenues and other economically equivalent taxable revenues;
-
-Income Tax
-
-2010-21
 
 “financial undertaking” means any of the following entities:
 
@@ -182,9 +160,7 @@ Income Tax
 
 (h) a central counterparty as defined in point (1) of Article 2 of Regulation (EU) No 648/2012 of the European Parliament and of the Council; or
 
-Income Tax
-
-2010-21 (i) a central securities depository as defined in point (1) of Article 2(1) of Regulation (EU) No 909/2014 of the European Parliament and of the Council;
+(i) a central securities depository as defined in point (1) of Article 2(1) of Regulation (EU) No 909/2014 of the European Parliament and of the Council;
 
 “long-term public infrastructure project” means:
 
@@ -200,19 +176,13 @@ c. the debt or financing arrangement in question is secured against the Property
 
 d. at the date of the loan or other relevant liability which generates the borrowing costs in question, the Property is expected to generate income for a minimum of ten years; and
 
-e. the Property is recognised in accordance with the International Financial Reporting Standards in force from time to time in the financial statements of the taxpayer for the relevant accounting period; and
-
-f. any lease or other similar interest in land granted by the taxpayer on the Property is granted for less than 50 years; and
+e. the Property is recognised in accordance with the International Financial Reporting Standards in force from time to time in the financial statements of the taxpayer for the relevant accounting period; and f. any lease or other similar interest in land granted by the taxpayer on the Property is granted for less than 50 years; and
 
 g. all transactions carried out by the taxpayer in relation to the Property are carried out in accordance with the arm’s length principle; and
 
 h. any income generated by the Property is taxable in Gibraltar;
 
-“standalone entity” means a taxpayer that is not part of a consolidated group for financial accounting purposes and has no associated
-
-Income Tax
-
-2010-21 enterprise or permanent establishment situated in a country other than Gibraltar;
+“standalone entity” means a taxpayer that is not part of a consolidated group for financial accounting purposes and has no associated enterprise or permanent establishment situated in a country other than Gibraltar;
 
 “structured arrangement” means an arrangement involving a hybrid mismatch where the mismatch outcome is priced into the terms of the arrangement or an arrangement that has been designed to produce a hybrid mismatch outcome, unless the taxpayer or an associated enterprise could not reasonably have been expected to be aware of the hybrid mismatch and did not share in the value of the tax benefit resulting from the hybrid mismatch.
 
@@ -230,9 +200,7 @@ Connected persons.
 
 9.(1) For the purposes of, and subject to, the provisions of this Act which apply this paragraph, any question of whether a person is connected with another shall be determined in accordance with the following provisions of this paragraph (any provision that one person is connected with another being taken to mean that they are connected with one another).
 
-Income Tax
-
-2010-21 (2)  A person is connected with an individual if that person is the individual's wife or husband living with him or her, or is a relative, or the wife or husband of a relative, of the individual or of the individual's wife or husband and a man and a woman living together as husband and wife are treated as if they were married to each other.
+(2)  A person is connected with an individual if that person is the individual's wife or husband living with him or her, or is a relative, or the wife or husband of a relative, of the individual or of the individual's wife or husband and a man and a woman living together as husband and wife are treated as if they were married to each other.
 
 (3)  A person, in his capacity as trustee of a settlement, is connected with-
 
@@ -266,10 +234,6 @@ and for the purposes of this paragraph a body corporate is connected with a foun
 
 (5)  A company is connected with another company-
 
-Income Tax
-
-2010-21
-
 (a) if the same person has control of both, or a person has control of one and persons connected with him, or he and persons connected with him, have control of the other; or
 
 (b) if a group of two or more persons has control of each company, and the groups either consist of the same persons or could be regarded as consisting of the same persons by treating (in one or more cases) a member of either group as replaced by a person with whom he is connected.
@@ -290,9 +254,7 @@ Income Tax
 
 “relative” means brother, sister, cousin of the first blood, uncle, aunt, ancestor, lineal descendant or lineal descendant of a brother or sister;
 
-Income Tax
-
-2010-21 “settlement” includes any disposition, trust, covenant, agreement, arrangement or transfer of assets; and
+“settlement” includes any disposition, trust, covenant, agreement, arrangement or transfer of assets; and
 
 “settlor”, in relationship to a settlement, means any person by whom the settlement was made and a person shall be deemed to have made a settlement if he has made or entered into the settlement directly or indirectly, and, in particular, but without prejudice to the generality of the preceding words, if he has provided or undertaken to provide funds directly or indirectly for the purpose of the settlement, or has made with any other person a reciprocal arrangement for that other person to make or enter into the settlement.
 
@@ -310,11 +272,7 @@ Control.
 
 (3)  For the purposes of subparagraph (1) above a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire.
 
-(4)  For the purposes of subparagraph (1) and (2) above, there shall be attributed to any person any rights or powers of a nominee for him, that is to
-
-Income Tax
-
-2010-21 say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
+(4)  For the purposes of subparagraph (1) and (2) above, there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
 
 (5)  For the purposes of subparagraph (1) and (2) above, there may also be attributed to any person all the rights and powers of any company of which he has, or he and associates of his have, control or any two or more such companies, or of any associate of his or of any two or more associates of his, including those attributed to a company or associate under subparagraph (4) above, but not those attributed to an associate under this subparagraph; and such attributions shall be made under this subparagraph as will result in the company being treated as under the control of five or fewer participators if it can be so treated.
 
@@ -337,10 +295,6 @@ Participator.
 (4)  For the purposes of Paragraph 9 and 10 "associate" means, in relation to a participator-
 
 (a) any relative or partner of the participator;
-
-Income Tax
-
-2010-21
 
 (b) the trustee or trustees of any settlement in relation to which the participator is, or any relative of his (living or dead) is or was, a settlor (for the purposes of this subparagraph "settlor" and “settlement” have the meaning given in subparagraph 9(9)); and
 
@@ -366,11 +320,7 @@ and has a corresponding meaning in relation to a person other than a participato
 
 (b) any redeemable loan capital issued by the company.
 
-(7)  Subject to subparagraph (8) below, a person who is not the creditor in respect of any debt or loan capital to which subparagraph (6) above applies but nevertheless has a beneficial interest therein shall, to the extent of that
-
-Income Tax
-
-2010-21 interest, be treated for the purposes of paragraphs 9 and 10 as a loan creditor in respect of that debt or loan capital.
+(7)  Subject to subparagraph (8) below, a person who is not the creditor in respect of any debt or loan capital to which subparagraph (6) above applies but nevertheless has a beneficial interest therein shall, to the extent of that interest, be treated for the purposes of paragraphs 9 and 10 as a loan creditor in respect of that debt or loan capital.
 
 (8)  A person carrying on a business of banking shall not be deemed to be a loan creditor in respect of any loan capital or debt issued or incurred by the company for money lent by him to the company in the ordinary course of that business.
 
@@ -390,11 +340,7 @@ Prevention of avoidance of income tax.
 
 (3)  Where by virtue or in consequence of any such transfer, either alone or in conjunction with associated operations, the individual has, within the meaning of this paragraph, power to enjoy, whether forthwith or in the future, any income of a person resident outside Gibraltar which, if it were income of that individual received by him in Gibraltar, would be chargeable to income tax by deduction or otherwise, that income shall, whether it would or would not have been chargeable to tax apart from the provisions of this paragraph, be deemed to be income of that individual for all purposes of this Act.
 
-(4)  Where, whether before or after any such transfer, the individual receives or is entitled to receive any capital sum the payment of which is in any way connected with the transfer or any associated operation, any income which, by virtue or in consequence of the transfer, either alone or in conjunction with associated operations, has become the income of a person resident outside Gibraltar shall, whether it would or would not have been
-
-Income Tax
-
-2010-21 chargeable to tax apart from the provisions of this paragraph, be deemed to be income of that individual for all purposes of this Act.
+(4)  Where, whether before or after any such transfer, the individual receives or is entitled to receive any capital sum the payment of which is in any way connected with the transfer or any associated operation, any income which, by virtue or in consequence of the transfer, either alone or in conjunction with associated operations, has become the income of a person resident outside Gibraltar shall, whether it would or would not have been chargeable to tax apart from the provisions of this paragraph, be deemed to be income of that individual for all purposes of this Act.
 
 (5)  In subparagraph (4) above “capital sum” means, subject to subparagraph (6) below-
 
@@ -406,7 +352,9 @@ Income Tax
 
 (7)  Income shall not by virtue of subparagraph (3) above be deemed to be that of a individual for any year of assessment by reason only of his having received a sum by way of loan if that sum has been wholly repaid before the beginning of that year.
 
-(8)  Income chargeable to tax by virtue of this paragraph shall be charged under Schedule 1, Table C, Class 5. (9)  This paragraph applies irrespective of when the transfer or associated operations referred to in subparagraph (1) above took place, but applies only to relevant income arising on or after the date this act came into effect.
+(8)  Income chargeable to tax by virtue of this paragraph shall be charged under Schedule 1, Table C, Class 5.
+
+(9)  This paragraph applies irrespective of when the transfer or associated operations referred to in subparagraph (1) above took place, but applies only to relevant income arising on or after the date this act came into effect.
 
 Liability of non-transferors.
 
@@ -416,9 +364,7 @@ Liability of non-transferors.
 
 (b) an individual who is not liable to tax under paragraph 12 by reference to the transfer receives a benefit provided out of assets which are available for the purpose by virtue or in consequence of the transfer or of any associated operations.
 
-Income Tax
-
-2010-21 (2)  Subject to the provisions of this paragraph, the amount or value of any such benefit as is mentioned in subparagraph (1) above, if not otherwise chargeable to tax in the hands of the recipient, shall-
+(2)  Subject to the provisions of this paragraph, the amount or value of any such benefit as is mentioned in subparagraph (1) above, if not otherwise chargeable to tax in the hands of the recipient, shall-
 
 (a) to the extent to which it falls within the amount of relevant income of years of assessment up to and including the year of assessment in which the benefit is received, be treated for all the purposes of this Act as the income of the individual for that year;
 
@@ -437,10 +383,6 @@ Exemption from Paragraphs 12 and 13.
 (a) that the purpose of avoiding liability to taxation was not the purpose or one of the purposes for which the transfer or associated operations or any of them were effected; or
 
 (b) that the transfer and any associated operations were bona fide commercial transactions and were not designed for the purpose of avoiding liability to taxation.
-
-Income Tax
-
-2010-21
 
 (2)  The jurisdiction of the Tribunal on any appeal shall include jurisdiction to review any relevant decision taken by the Commissioner in exercise of their functions under this paragraph.
 
@@ -464,9 +406,7 @@ Interpretation of Paragraphs 12 to 14.
 
 (a) regard shall be had to the substantial result and effect of the transfer and any associated operations, and
 
-Income Tax
-
-2010-21 (b) all benefits which may at any time accrue to the individual (whether or not he has rights at law or in equity in or to those benefits) as a result of the transfer and any associated operations shall be taken into account irrespective of the nature or form of the benefits.
+(b) all benefits which may at any time accrue to the individual (whether or not he has rights at law or in equity in or to those benefits) as a result of the transfer and any associated operations shall be taken into account irrespective of the nature or form of the benefits.
 
 (4)  For the purposes of paragraphs 12 to 14, any body corporate managed and controlled outside Gibraltar shall be treated as if it were resident outside Gibraltar whether it is ordinarily resident in Gibraltar or not.
 
@@ -478,7 +418,7 @@ Income Tax
 
 (c) “benefit” includes a payment of any kind;
 
-(d) “transfer” includes the waiver by an individual of dividends or any other distribution by a company in any manner the effect of which is to transfer to a non-resident person the benefit of such dividends either directly or indirectly and whether by enhancement of the dividend or other distribution made to the non-resident person;
+(d) “transfer” includes the waiver by an individual of dividends or any other distribution by a company in any manner the effect of which is to transfer to a non- resident person the benefit of such dividends either directly or indirectly and whether by enhancement of the dividend or other distribution made to the non- resident person;
 
 (e) references to assets representing any assets, income or accumulations of income include references to shares in or obligations of any company to which, or obligations of any other person to whom, those assets, that income or those accumulations are or have been transferred.
 
@@ -488,9 +428,7 @@ Supplemental provisions.
 
 (2)  Where an individual has been charged to tax on any income deemed to be his by virtue of paragraph 12 and that income is subsequently received by him, it shall be deemed not to form part of his income again for the purposes of this Act.
 
-Income Tax
-
-2010-21 (3)  In any case where an individual has for the purposes of that paragraph power to enjoy income of a person abroad by reason of his receiving any such benefit as is referred to in paragraph 15(2)(c), then notwithstanding anything in subparagraph (1) above, the individual shall be chargeable to tax by virtue of paragraph 12 for the year of assessment in which the benefit is received on the whole of the amount or value of that benefit except in so far as it is shown that the benefit derives directly or indirectly from income on which he has already been charged to tax for that or a previous year of assessment.
+(3)  In any case where an individual has for the purposes of that paragraph power to enjoy income of a person abroad by reason of his receiving any such benefit as is referred to in paragraph 15(2)(c), then notwithstanding anything in subparagraph (1) above, the individual shall be chargeable to tax by virtue of paragraph 12 for the year of assessment in which the benefit is received on the whole of the amount or value of that benefit except in so far as it is shown that the benefit derives directly or indirectly from income on which he has already been charged to tax for that or a previous year of assessment.
 
 No duplication of charge.
 
@@ -514,10 +452,6 @@ INTEREST LIMITATION RULE
 
 Interest limitation rule
 
-Income Tax
-
-2010-21
-
 18.(1)  Financial undertakings, including where financial undertakings are part of a consolidated group for financial accounting purposes, and standalone entities shall be excluded from the scope of this Part.
 
 (2)  Consolidated groups for financial accounting purposes consists of all entities which are fully included in the consolidated financial statements drawn up in accordance with the International Financial Reporting Standards or the national financial reporting system of Gibraltar. For the purposes of this paragraph, the taxpayer shall be given the right to use consolidated financial statements prepared under accounting standards other than the International Financial Reporting Standards or the national financial reporting system of Gibraltar.
@@ -540,9 +474,7 @@ Income Tax
 
 (7)  Where a taxpayer is a member of a consolidated group for financial accounting purposes, the taxpayer may choose to either-
 
-Income Tax
-
-2010-21 (a) fully deduct its exceeding borrowing costs if it can demonstrate that the ratio of its equity over its total assets is equal to or higher than the equivalent ratio of the group and subject to the following conditions-
+(a) fully deduct its exceeding borrowing costs if it can demonstrate that the ratio of its equity over its total assets is equal to or higher than the equivalent ratio of the group and subject to the following conditions-
 
 (i) the ratio of the taxpayer’s entity over its total assets is considered to be equal to the equivalent ratio of the group if the ratio of the taxpayer’s equity over its total assets is lower by up to two percentage points; and
 
@@ -564,11 +496,7 @@ EXIT TAXATION
 
 18A.(1)  This paragraph applies in any of the following circumstances-
 
-(a) a taxpayer transfers assets from its head office to its permanent establishment in the United Kingdom, a Member State of the European Union or in a third country in so far as Gibraltar, as
-
-Income Tax
-
-2010-21 the jurisdiction of the head office, no longer has the right to tax the transferred assets due to the transfer;
+(a) a taxpayer transfers assets from its head office to its permanent establishment in the United Kingdom, a Member State of the European Union or in a third country in so far as Gibraltar, as the jurisdiction of the head office, no longer has the right to tax the transferred assets due to the transfer;
 
 (b) a taxpayer transfers assets from its permanent establishment in Gibraltar to its head office or another permanent establishment in the United Kingdom, a Member State of the European Union or in a third country in so far as Gibraltar as the jurisdiction of the permanent establishment no longer has the right to tax the transferred assets due to the transfer;
 
@@ -584,9 +512,7 @@ Income Tax
 
 (b) where a taxpayer transfers assets from its permanent establishment in Gibraltar to its head office or another permanent establishment in the United Kingdom, a Member State of the European Union outside Gibraltar or a third country that is party to the EEA Agreement;
 
-Income Tax
-
-2010-21 (c) where a taxpayer transfers its tax residence to the United Kingdom, a Member State of the European Union or to a third country that is party to the EEA Agreement;
+(c) where a taxpayer transfers its tax residence to the United Kingdom, a Member State of the European Union or to a third country that is party to the EEA Agreement;
 
 (d) a taxpayer transfers the business carried on by its permanent establishment to the United Kingdom, a Member State of the European Union or a third country that is party to the EEA Agreement.
 
@@ -608,9 +534,7 @@ Income Tax
 
 (7)  Subparagraph (6)(b) and (c) shall not apply to third countries that are party to the EEA Agreement if they have concluded an agreement with the jurisdiction of the taxpayer on the mutual assistance for the recovery of tax claims.
 
-Income Tax
-
-2010-21 (8)  Where a transfer of assets, tax residence or the business carried on by a permanent establishment is from the United Kingdom or a European Union Member State outside Gibraltar to Gibraltar, Gibraltar shall accept the value established by the United Kingdom or the Member State of the European Union of the taxpayer or of the permanent establishment as the starting value of the assets for tax purposes (in accordance with paragraph 18A(2)), unless this does not reflect the market value.
+(8)  Where a transfer of assets, tax residence or the business carried on by a permanent establishment is from the United Kingdom or a European Union Member State outside Gibraltar to Gibraltar, Gibraltar shall accept the value established by the United Kingdom or the Member State of the European Union of the taxpayer or of the permanent establishment as the starting value of the assets for tax purposes (in accordance with paragraph 18A(2)), unless this does not reflect the market value.
 
 (9)  For the purposes of this paragraph, “market value” is the amount for which an asset can be exchanged or mutual obligations can be settled between willing unrelated buyers and sellers in a direct transaction.
 
@@ -632,11 +556,7 @@ Controlled foreign company rule
 
 (iii) is entitled to receive more than 50 percent of the profits of that entity; and
 
-(b) the actual tax paid on its profits by the entity or permanent establishment is lower than the difference between the tax that would have been charged on the entity or permanent establishment in accordance with this Act and the actual tax
-
-Income Tax
-
-2010-21 paid on its profits by the entity or permanent establishment. For the purposes of this subparagraph, the permanent establishment of a controlled foreign company within the meaning of this paragraph which are not taxable or are exempt from tax in the jurisdiction of the controlled foreign company shall not be taken into account. Furthermore, the tax that would have been charged in the United Kingdom or a Member State of the European Union of the taxpayer means as computed according to the rules of that jurisdiction.
+(b) the actual tax paid on its profits by the entity or permanent establishment is lower than the difference between the tax that would have been charged on the entity or permanent establishment in accordance with this Act and the actual tax paid on its profits by the entity or permanent establishment. For the purposes of this subparagraph, the permanent establishment of a controlled foreign company within the meaning of this paragraph which are not taxable or are exempt from tax in the jurisdiction of the controlled foreign company shall not be taken into account. Furthermore, the tax that would have been charged in the United Kingdom or a Member State of the European Union of the taxpayer means as computed according to the rules of that jurisdiction.
 
 (2)  Where an entity or permanent establishment is treated as a controlled foreign company under paragraph 19(1), the non-distributed income of the company or permanent establishment arising from non-genuine arrangements which have been put in place for the essential purpose of obtaining a tax advantage shall be included as income of the taxpayer for that tax period.
 
@@ -644,7 +564,7 @@ Income Tax
 
 (4)  This Part shall not apply to a controlled foreign company-
 
-(a) with accounting profits of no more than €750,000, and non- trading income of no more than €75,000; or
+(a) with accounting profits of no more than €750,000, and non-trading income of no more than €75,000; or
 
 (b) of which the accounting profits amount to no more than 10% of its operating costs for the tax period.
 
@@ -654,11 +574,7 @@ Computation of controlled foreign company income
 
 20.  The income of the controlled foreign company which is to be included as income of a taxpayer in accordance with paragraph 19(2) shall be calculated as follows-
 
-(a) the income shall be limited to amounts generated through assets and risks which are linked to significant people functions
-
-Income Tax
-
-2010-21 carried out by the controlling company. The attribution of controlled foreign company income shall be calculated in accordance with the arm’s length principle;
+(a) the income shall be limited to amounts generated through assets and risks which are linked to significant people functions carried out by the controlling company. The attribution of controlled foreign company income shall be calculated in accordance with the arm’s length principle;
 
 (b) the income shall be calculated in proportion to the taxpayer’s participation in the entity as defined in paragraph 19(1)(a);
 
@@ -682,10 +598,6 @@ Hybrid mismatch.
 
 (i) such payment is not included within a reasonable period of time; and
 
-Income Tax
-
-2010-21
-
 (ii) the mismatch outcome is attributable to differences in the characterisation of the instrument or the payment made under it;
 
 (b) a payment to a hybrid entity gives rise to a deduction without inclusion and that mismatch outcome is the result of differences in the allocation of payments made to the hybrid entity under the laws of the jurisdiction where the hybrid entity is established or registered and the jurisdiction of any person with a participation in that hybrid entity;
@@ -704,11 +616,7 @@ Income Tax
 
 (a) the payment is included by the jurisdiction of the payee in a tax period that commences within 12 months of the end of the payer's tax period; or
 
-(b) it is reasonable to expect that the payment will be included by the jurisdiction of the payee in a future tax period and the terms
-
-Income Tax
-
-2010-21 of payment are those that would be expected to be agreed between independent enterprises.
+(b) it is reasonable to expect that the payment will be included by the jurisdiction of the payee in a future tax period and the terms of payment are those that would be expected to be agreed between independent enterprises.
 
 (3)  For the purposes of this paragraph-
 
@@ -724,11 +632,7 @@ Income Tax
 
 (b) “double deduction” means a deduction of the same payment, expenses or losses in the jurisdiction in which the payment has its source, the expenses are incurred or the losses are suffered (payer jurisdiction) and in another jurisdiction (investor jurisdiction); and in the case of a payment by a hybrid entity or permanent establishment the payer jurisdiction is the jurisdiction where the hybrid entity or permanent establishment is established or situated;
 
-(c) “deduction without inclusion” means the deduction of a payment or deemed payment between the head office and permanent establishment or between two or more permanent establishments in any jurisdiction in which that payment or deemed payment is treated as made (payer jurisdiction) without a corresponding inclusion for tax purposes of that payment or deemed payment in the payee jurisdiction; and the payee
-
-Income Tax
-
-2010-21 jurisdiction is any jurisdiction where that payment or deemed payment is received, or is treated as being received under the laws of any other jurisdiction;
+(c) “deduction without inclusion” means the deduction of a payment or deemed payment between the head office and permanent establishment or between two or more permanent establishments in any jurisdiction in which that payment or deemed payment is treated as made (payer jurisdiction) without a corresponding inclusion for tax purposes of that payment or deemed payment in the payee jurisdiction; and the payee jurisdiction is any jurisdiction where that payment or deemed payment is received, or is treated as being received under the laws of any other jurisdiction;
 
 (d) “deduction” means the amount that is treated as deductible from the taxable income under the laws of the payer or investor jurisdiction (and the term “deductible” shall be construed accordingly);
 
@@ -750,9 +654,7 @@ Income Tax
 
 (k) “financial trader” is a person or entity engaged in the business of regularly buying and selling financial instruments on its own account for the purposes of making a profit;
 
-Income Tax
-
-2010-21 (l) “hybrid transfer” means any arrangement to transfer a financial instrument where the underlying return on the transferred financial instrument is treated for tax purposes as derived simultaneously by more than one of the parties to that arrangement;
+(l) “hybrid transfer” means any arrangement to transfer a financial instrument where the underlying return on the transferred financial instrument is treated for tax purposes as derived simultaneously by more than one of the parties to that arrangement;
 
 (m) “on-market hybrid transfer” means any hybrid transfer that is entered into by a financial trader in the ordinary course of business, and not as part of a structured arrangement;
 
@@ -778,9 +680,7 @@ Denial of deductions.
 
 23.(1)  To the extent that a hybrid mismatch results in a double deduction-
 
-Income Tax
-
-2010-21 (a) the deduction shall be denied in Gibraltar where it is the investor jurisdiction; and
+(a) the deduction shall be denied in Gibraltar where it is the investor jurisdiction; and
 
 (b) where the deduction is not denied in the investor jurisdiction, the deduction shall be denied in Gibraltar where it is the payer jurisdiction.
 
@@ -806,9 +706,7 @@ Income Tax
 
 (iii) not as part of a structured arrangement; and
 
-Income Tax
-
-2010-21 (d) the overall net deduction for the consolidated group under the arrangement does not exceed the amount that it would have been had the taxpayer issued such financial instrument directly to the market.
+(d) the overall net deduction for the consolidated group under the arrangement does not exceed the amount that it would have been had the taxpayer issued such financial instrument directly to the market.
 
 (3)  The exclusion in subparagraph (2) applies in relation to accounting periods ending on or before 31 December 2022.
 
@@ -828,10 +726,4 @@ Tax residency mismatches.
 
 28.(1)  To the extent that a deduction for payment, expenses or losses of a taxpayer who is resident for tax purposes in two or more jurisdictions is deductible from the tax base in both jurisdictions, Gibraltar as the jurisdiction of the taxpayer shall deny the deduction to the extent that the other jurisdiction allows the duplicate deduction to be set off against income that is not dual-inclusion income.
 
-Income Tax
-
-2010-21 (2)  If the other jurisdiction is the United Kingdom or a Member State of the European Union, Gibraltar as the jurisdiction where the taxpayer is not deemed to be a resident according to the double taxation treaty concerned shall deny the deduction.
-
-Income Tax
-
-2010-21
+(2)  If the other jurisdiction is the United Kingdom or a Member State of the European Union, Gibraltar as the jurisdiction where the taxpayer is not deemed to be a resident according to the double taxation treaty concerned shall deny the deduction.

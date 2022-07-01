@@ -20,10 +20,6 @@ Deductions not allowable.
 
 (a) the rent of the whole or any part of any dwelling-house or domestic offices, except any such part as is used for the purposes of the production of the income of the trade or profession and where any such part is so used, the sum so deducted shall not, unless in any particular case it appears that having regard to all the circumstances some greater sum ought to be deducted, exceed two-thirds of the rent bona fide paid for that dwelling house or those offices;
 
-Income Tax
-
-2010-21
-
 (b) any sum expended for repairs of premises occupied, or for the supply, repairs or alterations of any implements, utensils or articles employed, for the purposes of the trade, business, profession or vocation, beyond the sum actually expended for those purposes;
 
 (c) any loss not connected with or arising out of the trade, business, profession or vocation;
@@ -46,9 +42,7 @@ Income Tax
 
 (i) any sum recoverable under an insurance or contract of indemnity;
 
-Income Tax
-
-2010-21 (j) any interest paid or payable to a person not resident in Gibraltar if and so far as it is interest at more than a reasonable commercial rate;
+(j) any interest paid or payable to a person not resident in Gibraltar if and so far as it is interest at more than a reasonable commercial rate;
 
 (k) depreciation of any assets;
 
@@ -68,10 +62,6 @@ Income Tax
 
 (aa) “business entertainment” means entertainment (including hospitality of any kind) provided by a person, or by a member of his staff in connection with a trade carried on by that person, but does not include anything provided by him for bona fide members of his staff unless its provision for them is incidental to its provision also for others;
 
-Income Tax
-
-2010-21
-
 (bb) the term “expenses incurred in” providing entertainment includes expenses incurred in providing anything incidental thereto;
 
 (cc) references to the members of a person’s staff are references to persons employed by, or providing services to, that person, directors of a company or persons engaged in the management of a company being for this purpose deemed to be persons employed by it.
@@ -88,29 +78,21 @@ Income Tax
 
 (aa) which fall within guidelines to be published by the Commissioner in the Gazette; and
 
-(bb) where the person claiming the deduction can show to the satisfaction of the Commissioner that the claim for deduction only includes the expenditure incurred on those occasions when the claimant is entertaining a client or clients
-
-Income Tax
-
-2010-21 and the benefit to the claimant from the entertainment is merely incidental.
+(bb) where the person claiming the deduction can show to the satisfaction of the Commissioner that the claim for deduction only includes the expenditure incurred on those occasions when the claimant is entertaining a client or clients and the benefit to the claimant from the entertainment is merely incidental.
 
 (vi)  (aa) Subparagraph (v) shall not apply to any person who has in three of the previous ten years made a claim for expenditure in reliance on that subparagraph which following investigation by the Commissioner has been refused in whole or in part.
 
-(bb)
+(bb) The inability to apply subparagraph (v) in (aa) above will apply for the 5 years of assessment, or in the case of a company for 5 years, since the end of the third year of assessment or accounting period for which the claim for a deduction in reliance on subparagraph (v) is restricted or eliminated.
 
-The inability to apply subparagraph (v) in (aa) above will apply for the 5 years of assessment, or in the case of a company for 5 years, since the end of the third year of assessment or accounting period for which the claim for a deduction in reliance on subparagraph (v) is restricted or eliminated.
-
-(p)      (i) head office expenses or expenses incurred by any branch for the common purpose of the company and its branches or for the purposes of the head office or another branch exclusively (all for the purposes of (ii) referred to as “head office expenses”) in excess of 5% of the gross income of the branch in Gibraltar.
+(p)   (i) head office expenses or expenses incurred by any branch for the common purpose of the company and its branches or for the purposes of the head office or another branch exclusively (all for the purposes of (ii) referred to as “head office expenses”) in excess of 5% of the gross income of the branch in Gibraltar.
 
 (ii) For the purposes of (i) above head office expenses shall mean a deduction claimed by a branch of a person in respect of expenditure which is incurred in common between the branch in Gibraltar, the person and other branches of the person and is shared on an apportionment basis either between the person and the branches of the person.
 
-(2)      (a) In the case of a person who has income some of which is chargeable to tax and some of which is not chargeable to tax, in computing the profits and gains liable to tax, the deductions allowed in accordance with this Schedule shall be apportioned on a pro-rata basis between the chargeable and non-chargeable income.
+(2)    (a) In the case of a person who has income some of which is chargeable to tax and some of which is not chargeable to tax, in computing the profits and gains liable to tax, the deductions allowed in accordance with this Schedule shall be apportioned on a pro-rata basis between the chargeable and non-chargeable income.
 
 (b) The Minister may from time to time by rules prescribe additional disbursements or expenses for which no allowance will be available or amend the list in subparagraph (1) in whatsoever manner is necessary.
 
-Income Tax
-
-2010-21 (c) The Commissioner may from time to time issue guidance notes in relation to the interpretation of this paragraph and the classes of expenditure which will be allowed as a deduction.
+(c) The Commissioner may from time to time issue guidance notes in relation to the interpretation of this paragraph and the classes of expenditure which will be allowed as a deduction.
 
 Items to be included in net profits.
 
@@ -138,10 +120,6 @@ General
 
 Capital Allowances.
 
-Income Tax
-
-2010-21
-
 5.  In computing the profits or gains of a person for any basis period there shall be allowed a deduction ascertained in accordance with the provisions of this Part.
 
 6.(1) The Commissioner may allow a deduction in respect of the amount by which the value of any hotel, mill, factory or other similar premises has diminished by reason of wear and tear arising out of the use by its owner in a trade, business, profession or vocation at the rate of 4 per cent per annum of the cost thereof excluding the cost of the land on which the premises are situated.
@@ -164,9 +142,7 @@ Provided that where the sum realised or likely to be realised is greater than th
 
 (b) a building the depreciation of which is substantially increased by the operation of machinery so worked on the premises in any such building as mentioned in (a) above.
 
-Income Tax
-
-2010-21 Deduction for real property in Gibraltar.
+Deduction for real property in Gibraltar.
 
 6A.(1) The Commissioner may allow a deduction in an accounting period, or year of assessment, as the case may be, in respect of the amount by which the value of any real property in Gibraltar has diminished by reason of wear and tear arising out of the use by its owner for the purposes of a trade, business, profession or vocation at the rate of 1% per annum of the acquisition cost thereof, excluding the cost of the land on which the premises are situated.
 
@@ -190,9 +166,7 @@ Chapter 3
 
 First Year Allowances
 
-Income Tax
-
-2010-21 First year allowances.
+First year allowances.
 
 8.(1) Subject to the provisions of this paragraph, where–
 
@@ -216,10 +190,6 @@ then, for the purpose of ascertaining the assessable income of that person from 
 
 (2) Subject to the provisions of this paragraph, where–
 
-Income Tax
-
-2010-21
-
 (a) a person carrying on any trade, business, profession or vocation incurs in any year of assessment or accounting period, capital expenditure wholly and exclusively on computer equipment for the purposes of producing the income of the trade, business, profession or vocation; and
 
 (b) in consequence of his incurring that expenditure, the computer equipment belongs to the person at some time during the year of assessment or accounting period,
@@ -240,9 +210,7 @@ then, for the purposes of ascertaining the assessable income of that person from
 
 (4) Where a person incurs capital expenditure on the provision of plant and machinery or computer equipment under a contract which provides that the person shall become the owner of that plant and machinery or computer equipment on the performance of the contract, that person shall be entitled to the deductions referred to in subparagraphs (1) and (2) above.
 
-Income Tax
-
-2010-21 (5) In the event of an extended accounting period, as defined by this Act, the allowances under this paragraph will be available in respect of each accounting period determined by the Commissioner in accordance with the provisions of section 16(6) or (7) for the purposes of obtaining the measure of profits for assessment to tax, provided that the Commissioner is satisfied as to the date on which the expenditure being claimed has been incurred.
+(5) In the event of an extended accounting period, as defined by this Act, the allowances under this paragraph will be available in respect of each accounting period determined by the Commissioner in accordance with the provisions of section 16(6) or (7) for the purposes of obtaining the measure of profits for assessment to tax, provided that the Commissioner is satisfied as to the date on which the expenditure being claimed has been incurred.
 
 Pool allowance.
 
@@ -264,9 +232,7 @@ Provided that this expenditure, or any part thereof, has not formed part of a cl
 
 Provided that this expenditure, or any part thereof, has not formed part of a claim for deduction in any previous year of assessment or accounting period;
 
-Income Tax
-
-2010-21 (c) the capital expenditure incurred on motor vehicles in the year of assessment or accounting period excluding any amount of first year allowance given under paragraph 8(1)(c)(iii);
+(c) the capital expenditure incurred on motor vehicles in the year of assessment or accounting period excluding any amount of first year allowance given under paragraph 8(1)(c)(iii);
 
 (d) any balance of (a) to (c) above available from the preceding year of assessment or accounting period;
 
@@ -288,11 +254,7 @@ for the purposes of this subparagraph, the term “disposed assets” includes p
 
 (b) 15% of the balance of qualifying expenditure in respect of the accounting period for any other company,
 
-Except that for any accounting periods or years of assessment ending within the period extending from 1 July 2021 to 30
-
-Income Tax
-
-2010-21 June 2023, the allowance shall, for a year or assessment or accounting period, be an allowance equal to-
+Except that for any accounting periods or years of assessment ending within the period extending from 1 July 2021 to 30 June 2023, the allowance shall, for a year or assessment or accounting period, be an allowance equal to-
 
 (c) 30% of the balance of qualifying expenditure in respect of that year of assessment for any person other than a company, or for a company chargeable in accordance with the provisions of Schedule 6 to this Act;
 
@@ -310,11 +272,7 @@ Income Tax
 
 (9)  Where plant and machinery, computer equipment or motor vehicles are used for the purpose of a trade, business, profession or vocation on such terms that the burden of the wear and tear falls on the user and not on the owner thereof, the former person shall, in such circumstances, be entitled to the deduction referred to in subparagraph (3).
 
-(10)  Where a person incurs capital expenditure on the provision of plant and machinery, computer equipment or motor vehicles under a contract which provides that the person shall become the owner of that plant and
-
-Income Tax
-
-2010-21 machinery or computer equipment on the performance of the contract, the person shall be entitled to the deductions referred to in subparagraph (3).
+(10)  Where a person incurs capital expenditure on the provision of plant and machinery, computer equipment or motor vehicles under a contract which provides that the person shall become the owner of that plant and machinery or computer equipment on the performance of the contract, the person shall be entitled to the deductions referred to in subparagraph (3).
 
 (11)  For the purposes of this paragraph–
 
@@ -342,11 +300,7 @@ Income Tax
 
 Deduction for construction costs.
 
-12A.(1) Where a property developer carries out the development of a qualifying project which consists entirely of office accommodation and
-
-Income Tax
-
-2010-21 construction commences between 1 July 2013 and 31 March 2015, the property developer shall be entitled to a deduction of the total amount of the construction costs in accordance with this paragraph.
+12A.(1) Where a property developer carries out the development of a qualifying project which consists entirely of office accommodation and construction commences between 1 July 2013 and 31 March 2015, the property developer shall be entitled to a deduction of the total amount of the construction costs in accordance with this paragraph.
 
 (2) In the first year of assessment or accounting period, as the case may be, following completion of construction of the development project, a deduction of 30 per cent of the total construction costs.
 
@@ -374,10 +328,6 @@ Income Tax
 
 (c) cost of demolition of any building on the land on which the new building was constructed;
 
-Income Tax
-
-2010-21
-
 (d) installing fittings forming part of the building;
 
 “occupier” means the person occupying the office accommodation in respect of which the total construction costs are the subject of a deduction under this paragraph;
@@ -404,9 +354,7 @@ Deduction for construction costs: high value accommodation.
 
 (c) the property developer and the occupier in the proportion of 50 per cent each of the total construction costs.
 
-Income Tax
-
-2010-21 (5) No deduction shall be permitted under this rule unless the claim for deduction is accompanied by a certificate of completion of construction.
+(5) No deduction shall be permitted under this rule unless the claim for deduction is accompanied by a certificate of completion of construction.
 
 (6) Any deduction for expenditure given in accordance with this paragraph shall be in addition to any deduction, relief or allowance which may be given in accordance with any other provision of this Act in respect of that same expenditure.
 
@@ -436,10 +384,6 @@ Relocation costs.
 
 (a) holds a licence to retail tobacco pursuant to section 6 of the Tobacco Act 1997; and
 
-Income Tax
-
-2010-21
-
 (b) by virtue of changes to that Act and to subsidiary legislation thereto, has been required to relocate from those areas commonly known as Laguna Estate and Glacis Estate to another location,
 
 may claim an additional capital allowance equivalent to the relocation costs, where such costs are approved by the Commissioner, but for the avoidance of doubt, the cost of the land or lease is not to be taken into consideration.
@@ -448,9 +392,7 @@ may claim an additional capital allowance equivalent to the relocation costs, wh
 
 Chapter 4 Deleted
 
-13. Deleted
-
-Chapter 5
+13. Deleted Chapter 5
 
 Hire Purchase
 
@@ -468,11 +410,7 @@ Start-ups
 
 (3) Where the Commissioner is of the opinion-
 
-(a) that a person connected to the company undertook business in Gibraltar before the company’s commencement of business in
-
-Income Tax
-
-2010-21 Gibraltar and that the business undertaken by him was of the same or similar nature (or of an ancillary nature) to the business being undertaken by the company; or
+(a) that a person connected to the company undertook business in Gibraltar before the company’s commencement of business in Gibraltar and that the business undertaken by him was of the same or similar nature (or of an ancillary nature) to the business being undertaken by the company; or
 
 (b) that the incorporation of the company or the commencement of business in Gibraltar by that company is an artificial or fictitious arrangement,
 
@@ -497,10 +435,6 @@ Additional definition of income - interest as a trading receipt.
 (3)  Where a person is in receipt of interest which is not taxable in accordance with subparagraph (2), no deduction or expense shall be allowed solely in relation to any amount of interest expended or incurred for the purpose of generating the interest.
 
 (4)  The Commissioner may issue guidance consisting of such information and advice as he considers appropriate with respect to matters within his competence relating to the operation of this paragraph.
-
-Income Tax
-
-2010-21
 
 PART IV
 
@@ -532,11 +466,7 @@ that person may claim a credit of up to 100% of the costs of the architects fees
 
 (b) may be claimed in respect of any tax liability incurred in the first 3 years of operation; and
 
-(c) the proportion of that credit attributed to an accounting period or year of assessment, as the case may be, must not exceed the
-
-Income Tax
-
-2010-21 amount of tax payable in any given accounting period or year of assessment.
+(c) the proportion of that credit attributed to an accounting period or year of assessment, as the case may be, must not exceed the amount of tax payable in any given accounting period or year of assessment.
 
 Tax credit for Start-Ups.
 
@@ -566,19 +496,21 @@ the owner of such property shall be entitled to a tax credit in accordance with 
 
 (3) The rental income must be received within the first five years following the date of completion of the development in which the property is located.
 
-Income Tax
-
-2010-21 (4) No tax credit shall be permitted under this paragraph unless the claim for the tax credit is accompanied by a certificate of completion of development.
+(4) No tax credit shall be permitted under this paragraph unless the claim for the tax credit is accompanied by a certificate of completion of development.
 
 Marketing and promotion.
 
 18.(1) Where a person has incurred cost in the provision of marketing and promotion in an accounting period, or year of assessment, as the case may be, that person may claim a further deduction of 50% of those costs as a deduction under this paragraph in addition to the deduction claimed under paragraph 2(1) of this Schedule.
 
-(2) Any deduction claimed under (1) above, shall be applied in computing the assessable profits for the accounting periods, or years of assessment, as the case may be, ending in the period extending from 1 July 2021 up to and including 30 June 2023.
+(2) Any deduction claimed under (1) above, shall be applied in computing the assessable profits for the accounting periods, or years of assessment, as the case may be, ending in the period extending from 1 July 2021 up to and including 30 June 2022.
 
-(3) For the purposes of this paragraph -
+(3) For the purposes of this paragraph-
 
-“marketing and promotion” means any costs incurred in relation to the active marketing or promotion of products or services to consumers for the purposes of the production of the assessable income of the trade, business, profession or vocation in or from Gibraltar.
+“marketing and promotion” means any costs incurred in relation to the advertising or promotion of Gibraltar as a-
+
+(i) destination for the purposes of enhancing tourism, attracting visitors for leisure- related events, conventions, conferences or similar gatherings, or
+
+(ii) jurisdiction for the purposes of attracting new business ventures and enterprises to set up and operate in and from Gibraltar.
 
 Fixed payroll costs.
 
@@ -590,9 +522,7 @@ Fixed payroll costs.
 
 (a) “fixed payroll costs” means all payments to registered employees in the form of contracted salaries and wages and excluding bonuses, incentive or compensation payments, overtime, allowances and any similar non-fixed or contracted amount; and
 
-Income Tax
-
-2010-21 (b) “registered employees” mean those registered in employment after 1 July 2021 and in accordance with all the requirements of H.M. Government of Gibraltar’s Employment Service.
+(b) “registered employees” mean those registered in employment after 1 July 2021 and in accordance with all the requirements of H.M. Government of Gibraltar’s Employment Service.
 
 Power to amend this Schedule.
 
@@ -616,10 +546,6 @@ prescribed in those paragraphs.
 
 (e) paragraph 16(2A); and
 
-(f) paragraphs 18 and 19.
+(f) paragraph 19.
 
 (3)  The regulations may include such supplementary, incidental or consequential provisions as appear to the Minister to be necessary or expedient.
-
-Income Tax
-
-2010-21

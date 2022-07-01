@@ -24,10 +24,6 @@ Interpretation.
 
 (b) by reason of any agreement or arrangement with another person, it has the right to acquire an interest in those shares or the right to enjoy a dividend or other benefit from those shares.
 
-Income Tax
-
-2010-21
-
 (3)  A company shall not be deemed to have an interest in the shares of a company by reason of its holding those shares or an interest therein acting in a representative or financial capacity only, even though it may be entitled to remuneration for so acting or may have a charge or lien on those shares in respect of such remuneration.
 
 Parent and subsidiary companies.
@@ -58,11 +54,7 @@ Parent and subsidiary companies.
 
 (b) tax such profits to the extent that such profits are deductible by the subsidiary.
 
-5.(1) The benefits conferred by the Directive must not be applied where an arrangement or a series of arrangements which have been put into place for
-
-Income Tax
-
-2010-21 the main purpose or one of the main purposes of obtaining a tax advantage that defeats the object or purpose of the Directive, are not genuine having regard to all the relevant facts and circumstances, and for the purposes of this paragraph an arrangement or a series of arrangements shall be regarded as not genuine to the extent that they are not put in place for valid commercial reasons which reflect economic reality, in the opinion of the Commissioner.
+5.(1) The benefits conferred by the Directive must not be applied where an arrangement or a series of arrangements which have been put into place for the main purpose or one of the main purposes of obtaining a tax advantage that defeats the object or purpose of the Directive, are not genuine having regard to all the relevant facts and circumstances, and for the purposes of this paragraph an arrangement or a series of arrangements shall be regarded as not genuine to the extent that they are not put in place for valid commercial reasons which reflect economic reality, in the opinion of the Commissioner.
 
 (2) For the purposes of subparagraph (1), the Commissioner may apply the provisions of–
 
@@ -86,9 +78,7 @@ Interpretation of Part.
 
 “permanent establishment” means-
 
-Income Tax
-
-2010-21 (a) a fixed place of business situated in Gibraltar through which the business of a company of a Member State is wholly or partly carried on;
+(a) a fixed place of business situated in Gibraltar through which the business of a company of a Member State is wholly or partly carried on;
 
 (b) a fixed place of business situated in a Member State through which the business of a company of Gibraltar is wholly or partly carried on; or
 
@@ -114,9 +104,7 @@ Application of Part.
 
 5.(1)  This Part shall not apply in the following cases−
 
-Income Tax
-
-2010-21 (a) payments which are treated as a distribution of profits or as a repayment of capital under the law of the source State;
+(a) payments which are treated as a distribution of profits or as a repayment of capital under the law of the source State;
 
 (b) payments from debt-claims which carry a right to participate in the debtor’s profits;
 
@@ -139,10 +127,6 @@ Scope of Part.
 (a) shall apply only where the company which is the payer, or the company whose permanent establishment is treated as the payer of interest or royalties is an associated company of the company which is the beneficial owner, or whose permanent establishment is treated as the beneficial owner, of that interest or those royalties;
 
 (b) shall not apply where interest or royalties are paid by or to a permanent establishment of a company situated in a State outside the EEA and the business of the company is wholly or partly carried on through that permanent establishment.
-
-Income Tax
-
-2010-21
 
 (3)  Subparagraph (1) shall apply only where the Commissioner has issued an exemption certificate in accordance with paragraph11.
 
@@ -174,10 +158,6 @@ there shall be allowed an amount equal to the tax paid in Greece, Spain, Portuga
 
 (4)  The deduction provided for in subparagraph (3) shall not exceed the lower of−
 
-Income Tax
-
-2010-21
-
 (a) in the case of Greece, Latvia, Poland and Portugal, 10% during the first four years and 5% during the final four years;
 
 (b) in the case of Spain and the Czech Republic, 10% during the six years;
@@ -202,11 +182,7 @@ Criterion for establishing identity of beneficial owner.
 
 (a) if the debt-claim, right or use of information in respect of which interest or royalty payments arise is effectively connected with that permanent establishment; and
 
-(b) if the interest or royalty payments represent income in respect of which that permanent establishment is subject in the Member State in which it is situated to one of the taxes
-
-Income Tax
-
-2010-21 mentioned in Article 3(a)(iii) of the Directive as set out in Schedule 2 or in the case of Belgium to the ‘impôt des non- résidents/belasting der niet-verblijfhouders’ or in the case of Spain to the ‘Impuesto sobre la Renta de no Residentes’ or to a tax which is identical or substantially similar and which is imposed after the date of entry into force of this Part in addition to, or in place of, those existing taxes.
+(b) if the interest or royalty payments represent income in respect of which that permanent establishment is subject in the Member State in which it is situated to one of the taxes mentioned in Article 3(a)(iii) of the Directive as set out in Schedule 2 or in the case of Belgium to the ‘impôt des non-résidents/belasting der niet-verblijfhouders’ or in the case of Spain to the ‘Impuesto sobre la Renta de no Residentes’ or to a tax which is identical or substantially similar and which is imposed after the date of entry into force of this Part in addition to, or in place of, those existing taxes.
 
 (3)  Where a permanent establishment of a company is treated−
 
@@ -234,10 +210,6 @@ Information to be provided in a request under Paragraph 11.
 
 (2)  For the purposes of subparagraph (1), the written statement shall be valid for at least one year but for not more than three years from the date of issue and shall provide−
 
-Income Tax
-
-2010-21
-
 (a) proof of residence for tax purposes of the company which is the beneficial owner, and where necessary, the existence of a permanent establishment certified by the tax authority of the Member State in which the receiving company is resident for tax purposes or in which the permanent establishment is situated;
 
 (b) information as to the beneficial ownership of the company set out in paragraph (a) of the income in respect of which the payment is made in accordance with paragraph 9;
@@ -262,11 +234,7 @@ and the Commissioner shall cancel the exemption certificate by notice in writing
 
 Recovery of tax not deducted.
 
-14.  If, after an exemption certificate has been issued, it is discovered that any of the requirements of this Part was not satisfied, and tax deductible from a payment was not so deducted, that tax may be recovered whether by
-
-Income Tax
-
-2010-21 assessment or otherwise in such manner as the Commissioner deems appropriate.
+14.  If, after an exemption certificate has been issued, it is discovered that any of the requirements of this Part was not satisfied, and tax deductible from a payment was not so deducted, that tax may be recovered whether by assessment or otherwise in such manner as the Commissioner deems appropriate.
 
 Repayment by company of tax deducted.
 
@@ -295,10 +263,6 @@ For the purposes of this Directive−
 (a) the term “company of a Member State” means any company-
 
 (i) taking one of the forms listed in the Annex hereto; and
-
-Income Tax
-
-2010-21
 
 (ii) which in accordance with the tax laws of a Member State is considered to be resident in that Member State and is not, within the meaning of a Double Taxation Convention on Income concluded with a third state, considered to be resident for tax purposes outside the Community; and
 
@@ -337,10 +301,6 @@ statlig inkomstskatt in Sweden;
 -Daň z příjmů právnických osob in the Czech Republic,
 
 -Tulumaks in Estonia,
-
-Income Tax
-
-2010-21
 
 -φόρος  εισοδήµατος in Cyprus,
 

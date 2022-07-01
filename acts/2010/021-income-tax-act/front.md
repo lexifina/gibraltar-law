@@ -1,38 +1,28 @@
-Income Tax
-
-2010-21 INCOME TAX ACT 2010
+Income Tax Act 2010
 
 Principal Act
 
-Act No 2010-21 Commencement (LN.2010/180) 1.1.2011
+Act. No. 2010-21 Commencement (LN.2010/180) 1.1.2011 Assent 1.11.2010
 
-Assent 1.11.2010
+Amending enactments Relevant current provisions Commencement date
 
-Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Sch. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014 2015-23 ss. 77-78 22.6.2015 “ ss. 30(1)(b), (bb), Sch. 3 1.7.2015 “ ss. 6, 6A, 18A, 19, 30(1)(ca), (cb), (f), 31, 31A, 32, 32A, 33-34, 39(1)(b), (2), (4)-(6), (8), 41(10), 56A, 59, 59A, 60, 63, 63A, 64(1)(b)-(c), 65, 65A-65F, 67(2), 68, 74, Schs. 1, 3, 9-10
+Act. 2015-23 ss. 25A, Sch. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014 2015-23 ss. 77-78 22.6.2015 “ ss. 30(1)(b), (bb), Sch. 3 1.7.2015 “ ss. 6, 6A, 18A, 19, 30(1)(ca), (cb), (f), 31, 31A, 32, 32A, 33-34, 39(1)(b), (2), (4)-(6), (8), 41(10), 56A, 59, 59A, 60, 63, 63A, 64(1)(b)-(c), 65, 65A-65F, 67(2), 68, 74, Schs. 1, 3, 9-10
 
-6.8.2015 LN. 2015/229 Sch. 5 31.12.2015 Act. 2015-23 ss. 16, 29(1), (3)-(4), Sch. 3 1.1.2016 LN. 2015/239  ss. 5A(3), (5), (5A), 5D(5), 5F, 1.1.2016 Act. 2015-23 ss. 28(1), Sch. 4 1.7.2016 2024-21 ss. 77(1A)-(1B), 77(2), 78(1), (1A), Schs. 3, 6
+6.8.2015 LN. 2015/229 Sch. 5 31.12.2015 Act. 2015-23 ss. 16, 29(1), (3)-(4), Sch. 3 1.1.2016 LN. 2015/239  ss. 5A(3), (5), (5A), 5D(5), 5F, 1.1.2016 Act. 2015-23 ss. 28(1), Sch. 4 1.7.2016 2024-21 ss. 77(1A)-(1B), 77(2), 78(1), (1A), Schs. 3, 6 1.7.2016 LN. 2016/253 ss. 5D(5), 5F 22.12.2016 2016/246 ss. 5A(6)(b), 5B(2A), 5E(8), 5F(1), (2)(b), (3), 10A- 10K
 
-1.7.2016 LN. 2016/253 ss. 5D(5), 5F 22.12.2016 2016/246 ss. 5A(6)(b), 5B(2A), 5E(8), 5F(1), (2)(b), (3), 10A-10K
-
-1.1.2017 Act. 2017-04 ss. 12A, 13A, 28(1), (8)-(12), 74, Schs. 1, 4
-
-11.4.20172 LN. 2017/101 ss. 5E(8), 5F(1), (2)(b), 10L-10ZD 5.6.2017
+1.1.2017 Act. 2017-04 ss. 12A, 13A, 28(1), (8)-(12), 74, Schs. 1, 4 11.4.20172 LN. 2017/101 ss. 5E(8), 5F(1), (2)(b), 10L-10ZD 5.6.2017 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019
 
 1 Notice of corrigendum see LN. 2013/011 2 Notice of Commencement see LN. 2017/069
 
-Income Tax
-
-2010-21 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019 2019/025 Sch. 1 7.2.2019 2020/056 Sch. 4 1.1.2020 2020/057 Sch. 4 1.1.2020 Act. 2020-06 Long Title, ss. 3(1), 3A-3E, 6C, 30A, 37(8A), 65G, 74, Sch.12
+2019/025 Sch. 1 7.2.2019 2020/056 Sch. 4 1.1.2020 2020/057 Sch. 4 1.1.2020 Act. 2020-06 Long Title, ss. 3(1), 3A-3E, 6C, 30A, 37(8A), 65G, 74, Sch.12
 
 23.3.2020 LN. 2020/128 Sch.12 23.3.2020 2020/176 ss. 10L, 10O(1)(b) 7.5.2020 2020/055 ss. 5F(1), (2)(b), 10ZE-10ZL, Sch. 11 1.7.2020 2020/256 ss. 10ZI(1), (1A), (3), (3A), (9)(b), 10ZJ(2A), (7)(b), 10ZK(7)
 
-10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021 Act. 2021-22 Sch. 3 1.7.2021
+10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021 Act. 2021-22 Sch. 3 1.7.2021 2024-21 ss. 30(1)(b), (bb), (cb)(ii)-(iii), 79, Sch. 3 1.7.2022
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952 Directive (EU) 2018/822 Directive (EU) 2020/876
 
-Income Tax
-
-2010-21 ARRANGEMENT OF SECTIONS
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -40,17 +30,13 @@ Section
 
 Part I- Administration
 
-2. Administration. 3. Confidentiality. 3A. International agreements on taxation matters. 3B. Giving effect to International Tax Agreement. 3C. Appointment of members of bodies established by an International Agreement. 3D. Power to make regulations for carrying out an International Tax Agreement. 3E.
-
-4. Information requests from or to Member States. 5. Administrative enquiries. 5A. Exchange of information about foreign residents. 5B. Other exchange of information with Member States. 5C. Administrative cooperation with tax authorities of Member States. 5D. Sharing experience of tax cooperation with Member States. 5E. Cooperation Directive: supplemental. 5F. Review of operation of exchange of information. 6. Information powers. 6A. Information Powers: International obligations under exchange of information agreements. 6B. Information Powers: Implementation and enforcement of the Cooperation Directive. 6C. Information Powers: Implementation of International Tax Agreement. 7. Restrictions on powers. 8. Falsification etc. of documents. 9. Entry with warrant to obtain documents. 10. Service of notices.
+2. Administration. 3. Confidentiality. 3A. International agreements on taxation matters. 3B. Giving effect to International Tax Agreement. 3C. Appointment of members of bodies established by an International Agreement. 3D.  Power to make regulations for carrying out an International Tax Agreement. 3E. Save as may be expressly provided for in this Act, nothing …. 4. Information requests from or to Member States. 5. Administrative enquiries. 5A. Exchange of information about foreign residents. 5B. Other exchange of information with Member States. 5C. Administrative cooperation with tax authorities of Member States. 5D. Sharing experience of tax cooperation with Member States. 5E. Cooperation Directive: supplemental. 5F. Review of operation of exchange of information. 6. Information powers. 6A. Information Powers: International obligations under exchange of information agreements. 6B. Information Powers: Implementation and enforcement of the Cooperation Directive. 6C. Information Powers: Implementation of International Tax Agreement. 7. Restrictions on powers. 8. Falsification etc. of documents. 9. Entry with warrant to obtain documents. 10. Service of notices.
 
 Part IA- Advance cross-border rulings and pricing arrangements
 
-10A. Interpretation. 10B. Meaning of cross-border transaction. 10C. Obligation to exchange information. 10D. Information to be exchanged. 10E. Exclusion. 10F. Confirmation of Receipt. 10G. Additional Information.
+10A. Interpretation. 10B. Meaning of cross-border transaction. 10C. Obligation to exchange information. 10D. Information to be exchanged. 10E. Exclusion. 10F. Confirmation of Receipt. 10G. Additional Information. 10H. Statistics. 10I. Feedback.
 
-Income Tax
-
-2010-21 10H. Statistics. 10I. Feedback. 10J. Use of Information. 10K. Method of exchange.
+10J. Use of Information. 10K. Method of exchange.
 
 Part 1B- Country by Country Reporting
 
@@ -62,11 +48,9 @@ Part 1C- Reportable Cross-Border Arrangements
 
 Part II- Charge to tax
 
-11. The charge to taxation. 12. Taxation of beneficiaries. 12A. Taxation of Foundation Beneficiaries. 13. Taxation of trusts.
+11. The charge to taxation. 12. Taxation of beneficiaries. 12A. Taxation of Foundation Beneficiaries. 13. Taxation of trusts. 13A. Taxation of Foundations. 14. Refund of certain contributions.
 
-Income Tax
-
-2010-21 13A. Taxation of Foundations. 14. Refund of certain contributions. 14A. Pensions imported from another country, territory or jurisdiction. 14B.  Pensions in connection with a statutory instrument.
+14A. Pensions imported from another country, territory or jurisdiction. 14B.  Pensions in connection with a statutory instrument.
 
 Part III- Computation of assessments
 
@@ -80,9 +64,7 @@ Part V- Payment of taxation
 
 39. Time within which payment is to be made.
 
-Income Tax
-
-2010-21 Part VI- Anti-avoidance
+Part VI- Anti-avoidance
 
 40. Anti-avoidance. 41. Notification of arrangements. 42. Procedure for clearance in advance. 43. Notification of exercise of anti-avoidance provisions
 
@@ -98,13 +80,11 @@ Part IX- Offences, surcharges, penalties and miscellaneous
 
 63. Duty to keep and preserve records and books of account. 63A.  Penalty for failure to keep and preserve records. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply with requirements on return. 65A.  Penalties for failure to comply with requirements on certain notices. 65B.  Offence for failure to comply with requirements on certain notices and returns. 65C.  Penalties for failure to comply with requirements under section 41. 65E.  Penalties where no penalty is specifically provided by this Act.
 
-Income Tax
-
-2010-21 65F.  Failure to comply with requirement or notice. 65G. Penalty for failure to comply with requirements relating to an International Tax Agreement. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay taxes. 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
+65F.  Failure to comply with requirement or notice. 65G. Penalty for failure to comply with requirements relating to an International Tax Agreement. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay taxes. 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
 
 PART X -AMNESTY
 
-77. Fixed penalty charge during amnesty. 78. Expiry of amnesty.
+77. Fixed penalty charge during amnesty. 78. Expiry of amnesty. 79. Corporate Tax Amnesty.
 
 SCHEDULE 1
 
@@ -122,11 +102,9 @@ Table C
 
 Other income
 
-Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 3A Royalties Class 3B Income from Movable Property. Class 4 Pension, charge or annuity income. Class 5 Sweeping Up Class.
+Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 3A Royalties
 
-Income Tax
-
-2010-21 Class 6 State Aid Recovery.
+Class 3B Income from Movable Property. Class 4 Pension, charge or annuity income. Class 5 Sweeping Up Class. Class 6 State Aid Recovery.
 
 SCHEDULE 2
 
@@ -158,10 +136,6 @@ Part VI- Interpretation
 
 SCHEDULE 3
 
-Income Tax
-
-2010-21
-
 RULES FOR ASCERTAINING PROFITS OR GAINS
 
 Part I-General
@@ -176,11 +150,11 @@ Chapter 1- General
 
 Chapter 2- Deleted
 
-7. Deleted.
+7.Deleted.
 
 Chapter 3 – First Year Allowances
 
-8. First year allowances. 9. Pool allowance. 10. Deleted. 11. Deleted. 12. Deleted. 12A. Deduction for construction costs. 12B. Deduction for construction costs: high value accommodation. 12C. Relocation costs.
+8.First year allowances. 9.Pool allowance. 10. Deleted. 11. Deleted. 12. Deleted. 12A. Deduction for construction costs. 12B. Deduction for construction costs: high value accommodation. 12C. Relocation costs.
 
 Chapter 4 - Deleted
 
@@ -196,10 +170,6 @@ Chapter 6 - Start-ups
 
 Part III-
 
-Income Tax
-
-2010-21
-
 Additional definition of income- interest as a trading receipt
 
 15. Additional definition of income- interest as a trading receipt.
@@ -208,7 +178,7 @@ Part IV
 
 Other Deductions and Credits
 
-16. Qualifying training. 17. Architects fees and planning costs. 18. Marketing and promotion. 19. Fixed payroll costs. 20. Power to amend this Schedule.
+16. Qualifying training. 17. Architects fees and planning costs. 17A. Tax credit for Start-Ups. 17B. Tax credit for properties. 18. Marketing and promotion. 19. Fixed payroll costs. 20. Power to amend this Schedule.
 
 SCHEDULE 4
 
@@ -226,19 +196,15 @@ Part II
 
 Transactions with connected persons
 
-4. Transactions with connected persons. 5. Non-deductibility of interest paid on certain secured loans. 6. Chargeability of dual employment contracts. 7. Exemption from Paragraphs 2 and 4 to 6.
+4. Transactions with connected persons. 5. Non-deductibility of interest paid on certain secured loans. 6. Chargeability of dual employment contracts.
+
+7. Exemption from Paragraphs 2 and 4 to 6.
 
 Part III
 
 Definitions
 
-8. Interpretation. 8A.
-
-9. Connected persons. 10. Control. 11. Participator.
-
-Income Tax
-
-2010-21
+8. Interpretation. 8A. For the purposes of Part V to Part VII unless the context otherwise requires …. 9. Connected persons. 10. Control. 11. Participator.
 
 Part IV
 
@@ -256,7 +222,7 @@ Part VA
 
 EXIT TAXATION
 
-18A.
+18A. This paragraph applies in any of the following circumstances ….
 
 Part VI
 
@@ -268,13 +234,11 @@ Part VII
 
 Hybrid Mismatch
 
-21. Hybrid Mismatch 22. Associated enterprise 23. Denial of deductions 24. 25. 26. 27. 28. Tax residency mismatches
+21. Hybrid Mismatch 22. Associated enterprise 23. Denial of deductions 24. To the extent that a hybrid mismatch results in a deduction without …. 25. A deduction shall be denied in Gibraltar for any payment by a …. 26. To the extent that a hybrid mismatch involves disregarded permanent …. 27. To the extent that a hybrid transfer is designed to produce a relief for …. 28. Tax residency mismatches
 
 SCHEDULE 5
 
-Income Tax
-
-2010-21 Part I
+Part I
 
 PARENT AND SUBSIDIARY DIRECTIVE
 
@@ -304,9 +268,7 @@ Part 1
 
 Tax at the higher rate on utilities
 
-Income Tax
-
-2010-21 1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
+1. The Tax at the higher rate. 2. Recovery of the Tax at the higher rate. 3. Telecommunications. 4. Services of telecommunications. 5. Application to providers/definitions. 6. Electricity. 7. Application to providers/definitions. 8. Water. 9. Application to providers. 10. Definitions. 11. Sewage. 12. Application to providers. 13. Definitions. 14. Petroleum. 15. Application to providers. 16. Definitions. 17. Further definitions.
 
 Part II-Taxation on companies who abuse a dominant position
 
@@ -332,9 +294,7 @@ Chapter 3
 
 Taxable benefits; vouchers and credit tokens
 
-Income Tax
-
-2010-21 7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies. 9. Credit tokens. 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
+7. Cash vouchers to which this Chapter applies. 8. Non-cash vouchers to which this Chapter applies. 9. Credit tokens. 10. Benefit of a credit token treated as earnings. 11. Disregard for money, goods or services obtained.
 
 Chapter 4
 
@@ -346,17 +306,15 @@ Chapter 5
 
 Cars, vans and related benefits
 
-20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use. 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
+20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use.
+
+24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
 
 Chapter 6
 
 Taxable benefits; Loans
 
-29. Loans to which this Chapter applies. 30. Employment-related loans. 31. Benefit of taxable cheap loan treated as earnings. 32. Exception for loans where interest qualifies for tax relief. 33. Exceptions for certain advances for necessary expenses. 34. Apportionment of cash equivalent in case of joint loan, etc. 35. Loan released or written off or made to directors; amounts treated as earnings.
-
-Income Tax
-
-2010-21 36. Exclusion of charge after death of employee.
+29. Loans to which this Chapter applies. 30. Employment-related loans. 31. Benefit of taxable cheap loan treated as earnings. 32. Exception for loans where interest qualifies for tax relief. 33. Exceptions for certain advances for necessary expenses. 34. Apportionment of cash equivalent in case of joint loan, etc. 35. Loan released or written off or made to directors; amounts treated as earnings. 36. Exclusion of charge after death of employee.
 
 Chapter 7
 
@@ -368,11 +326,9 @@ Chapter 8
 
 Exemptions; removal benefits and expenses.
 
-52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves.
+52. Limited exemption of removal benefits and expenses; general.
 
-Income Tax
-
-2010-21 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
+53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
 
 Chapter 9
 
@@ -406,10 +362,6 @@ Repeals
 
 1. Repeals and revocations.
 
-Income Tax
-
-2010-21
-
 Part II
 
 Transitional Provisions
@@ -431,9 +383,5 @@ REPORTABLE CROSS-BORDER ARRANGEMENTS: HALLMARKS
 SCHEDULE 12
 
 INTERNATIONAL AGREEMENTS
-
-Income Tax
-
-2010-21
 
 AN ACT TO IMPOSE TAXATION ON INCOME AND TO REGULATE THE COLLECTION THEREOF, AND TO PROVIDE FOR THE IMPLEMENTATION OF INTERNATIONAL AGREEMENTS ON TAXATION MATTERS

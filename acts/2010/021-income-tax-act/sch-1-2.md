@@ -12,9 +12,7 @@ companies under German law known as “Aktiengesellschaft, Kommanditgesellschaft
 
 companies under Greek law known as:  avώvuμη   εтαιрíα”;
 
-Income Tax
-
-2010-21 companies under Spanish law known as: “sociedad anónima, sociedad comanditaria por acciones, sociedad de responsabilidad limitada” and those public law bodies which operate under private law;
+companies under Spanish law known as: “sociedad anónima, sociedad comanditaria por acciones, sociedad de responsabilidad limitada” and those public law bodies which operate under private law;
 
 companies under French law known  as: “société anonyme, société en commandite par actions, société à responsabilité limitée” and industrial and commercial public establishments and undertakings;
 
@@ -34,13 +32,13 @@ companies under Finnish law known as: “osakeyhtiö/aktiebolag, osuuskunta/ande
 
 companies under Swedish law known as “aktiebolag” and “försäkringsaktiebolag”;
 
-companies incorporated under the law of the United Kingdom. companies under Czech law known as: “akciová společnost”, “společnost s ručením omezeným”, “veřejná obchodní společnost”, “komanditní společnost”, “družstvo”;
+companies incorporated under the law of the United Kingdom.
+
+companies under Czech law known as: “akciová společnost”, “společnost s ručením omezeným”, “veřejná obchodní společnost”, “komanditní společnost”, “družstvo”;
 
 companies under Estonian law known as: “täisühing”, “usaldusühing”, “osaühing”,“aktsiaselts”, “tulundusühistu”;
 
-Income Tax
-
-2010-21 companies under Cypriot law known as: companies in accordance with the Company's Law, Public Corporate Bodies as well as any other Body which is considered as a company in accordance with the Income tax Laws;
+companies under Cypriot law known as: companies in accordance with the Company's Law, Public Corporate Bodies as well as any other Body which is considered as a company in accordance with the Income tax Laws;
 
 companies under Latvian law known as: “akciju sabiedrība”, “sabiedrība ar ierobe˛otu atbildību”;
 
@@ -59,7 +57,3 @@ companies under Slovak law known as: “akciová spoločnos”, “spoločnosť 
 companies under Bulgarian law known as: “събирателното дружество”, “командитното дружество”, “дружеството с ограничена отговорност”, “акционерното ружество”, “командитното дружество с акции”, “кооперации”, “кооперативни съюзи”,“държавни предприятия” constituted under Bulgarian law and carrying on commercial activities;
 
 companies under Romanian law known as: “societăţi pe acţiuni”, “societăţi în comandită pe acţiuni”, “societăţi cu răspundere limitată”.
-
-Income Tax
-
-2010-21
