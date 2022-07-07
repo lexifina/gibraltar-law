@@ -14,15 +14,15 @@ LN. 1993/133 r.3(9) 1.7.1991 1992/118 r.3(9A) 1.7.1992 1993/114 r.3(8)-(9) 1.1.1
 
 1.7.1998 1999/025 r.3(43) 25.3.1999 1999/085 rr.3(23), 5(1)(c)-(e), (2), 5A- 5B, 6(1), 7(1)-(2), 8(1), (4),  9-10, 11(d), 12, 14A(1), 16(1)(a)-(b), 17, 18(1), (a)
 
-1.7.1999 1999/104 rr.3(44), 26(1)-(2), (5), 27 1.7.1999 *2000/003 rr.7A, 10-11, 14(1)(a), (2) 1.7.1999 2000/005 r.5C 1.7.1999
+1.7.1999 1999/104 rr.3(44), 26(1)-(2), (5), 27 1.7.1999 *2000/003 rr.7A, 10-11, 14(1)(a), (2) 1.7.1999 2000/005 r.5C 1.7.1999 2000/068 rr. 3(45)-(46), 6-7, 7A(1), 8(1)(c), (4), 9, 12, 14(1)(b)(i), 14A, 15-16, 16A, 17-18, 20A, 25
 
-2000/068 rr. 3(45)-(46), 6-7, 7A(1), 8(1)(c), (4), 9, 12,
+1.7.2000 2002/013 r. 16A(2)(b), (5), 1.7.2000
 
 * See saving provisions at the end of these Regulations.
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
-14(1)(b)(i), 14A, 15-16, 16A, 17-18, 20A, 25 1.7.2000 2002/013 r. 16A(2)(b), (5), 1.7.2000 “ rr. 5A(d), 5B(1), 5C(1), 5D-5E, 6-7, 7A(1), 8(1)(c), (4), 9, 12, 14A, 16-18
+“ rr. 5A(d), 5B(1), 5C(1), 5D-5E, 6-7, 7A(1), 8(1)(c), (4), 9, 12, 14A, 16-18
 
 1.7.2001 2002/084 r. 16B 1.7.2001 “ rr. 2(1)-(2), 3(22)-(23), (23A), 6, 7(1)(i), (2), 7A(1), 8(1), (4), 9, 12, 14A, 15-16, 16A(6), 16B, (1)-(3), 17-18, 18(a), (d), 20A
 
@@ -40,13 +40,13 @@ LN. 1993/133 r.3(9) 1.7.1991 1992/118 r.3(9A) 1.7.1992 1993/114 r.3(8)-(9) 1.1.1
 
 1.7.2010 “ rr. 2, 3(26)-(27), (35), (40)-(41), (45), 5, 5A- 5E, 6A, 6B(6), 7, 24- 26, 28-29
 
-1.1.2011 LN. 2011/117 r. 6C 1.7.2011 2015/032 rr. 3A-3B, 21A 1.7.2011
+1.1.2011 LN. 2011/117 r. 6C 1.7.2011 2015/032 rr. 3A-3B, 21A 1.7.2011 2021/425 r. 3A(1)(a)-(c) 1.11.2011
 
 1 For the avoidance of doubt, section 24 of the Interpretation and General Clauses Act restricting the retrospective commencement of subsidiary legislation shall not apply to subsidiary legislation made under sections 4 to 7 of Act 2011-11. (s.2(4))
 
 Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992 1992/016
 
-2021/425 r. 3A(1)(a)-(c) 1.11.2011 2015/032 rr. 3(46), (52), 3A(1), 6A-6B, 7A(1)(c), 14A(1)-(2), 16B(1)-(2), 16E, 20A(1), 21A(1A), 22(1), (8)(a)
+2015/032 rr. 3(46), (52), 3A(1), 6A-6B, 7A(1)(c), 14A(1)-(2), 16B(1)-(2), 16E, 20A(1), 21A(1A), 22(1), (8)(a)
 
 1.7.2012 2021/433 r. 3A(1)(aa) 1.7.2012 2015/032 rr. 3(46), (54), 6(1), 7, 7A(1), 12, 14A(1), 16B(1)- (2), 16C(1)-(2), 17, 20A(1), 24A
 
@@ -74,7 +74,7 @@ rr. 3(46), 6(1), 7(1),(c)(i), 7A(1), 8(1), (4), 9, 12, 14A, 16A(2), 16B(1)-(2), 
 
 rr. 7A(1), 9, 12, 14A(1), 16, 16A(2), 16B(7)-(10), (12) 16E(3)(a), 17-18, (a), (d), 19
 
-1.7.2021 2021/433 rr. 2, 3A(1) 1.7.2021
+1.7.2021 2021/433 rr. 2, 3A(1) 1.7.2021 2022/171 r. 16E 7.7.2022
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
@@ -82,11 +82,11 @@ ARRANGEMENT OF RULES.
 
 Rule
 
-1. Title and commencement. 2. Interpretation. 3. Income Exempted. 3A. Treatment of specified pension income. 3B. Revoked. 4. Loans charged on Consolidated Fund. 5. Revoked. 5A. Revoked. 5B. Revoked. 5C. Revoked. 5D. Revoked. 5E. Revoked. 6. Personal Allowance under Allowances Based System. 6A. Limitation on entitlement to claim allowances and deductions under Allowances Based System for individuals. 6B. Restrictions on entitlement to Allowances Based System for spouses or civil partners. 6C. Tax credit for Individuals in Allowances Based System. 7. Deduction for a spouse or a civil partner. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deleted. 16A. Special deduction for senior citizens. 16B. Low income tax allowance and credit. 16C. Special allowance for individuals with total deductions amounting to less than £4,343. 16D. Tax credit for individual’s aged 60 years and over. 16E. Special tax treatment of an individual on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deleted.
+1. Title and commencement. 2. Interpretation. 3. Income Exempted. 3A. Treatment of specified pension income. 3B. Revoked. 4. Loans charged on Consolidated Fund. 5. Revoked. 5A. Revoked. 5B. Revoked. 5C. Revoked. 5D. Revoked. 5E. Revoked. 6. Personal Allowance under Allowances Based System. 6A. Limitation on entitlement to claim allowances and deductions under Allowances Based System for individuals. 6B. Restrictions on entitlement to Allowances Based System for spouses or civil partners. 6C. Tax credit for Individuals in Allowances Based System. 7. Deduction for a spouse or a civil partner. 7A. Deduction for disabled individuals. 8. Deduction for children. 9. Deduction for children educated abroad. 10. Revoked. 11. Revoked. 12. Deduction for maintenance of children. 13. Joint custody. 14. Exceptions for certain children. 14A. Nursery school allowance. 15. Apprentices. 16. Deleted. 16A. Special deduction for senior citizens. 16B. Low income tax allowance and credit. 16C. Special allowance for individuals with total deductions amounting to less than £4,343. 16D. Tax credit for individual’s aged 60 years and over. 16E. Special tax treatment of an individual on low income. 17. Deductions for blind persons. 18. Deduction in respect of dependent relatives. 19. Deleted. 20. Effect of non residence. 20A. Deduction for health insurance premiums.
 
 Income Tax 2010-21 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992 1992/016
 
-20. Effect of non residence. 20A. Deduction for health insurance premiums. 20B. Deduction for health insurance premiums; Gross Income Based System. 21. Deduction in respect of life assurance premiums etc. 21A. Deduction in respect of contributions paid to a Personal Pension Scheme and a Retirement Annuity Contract. 22. Deduction in respect of loan interest. 23. Deduction in respect of certain investments. 24. Entitlement to specified deductions for non resident individuals. 24A. Deduction for approved pension. 25. Revoked. 26. Revoked. 27. Repealed. 27A. Repealed. 28. Revoked. 29. Allowances and deductions subject to return of income being made and proof of claim. 30. Amendment to Act. 31. Repeal and Revocation.
+20B. Deduction for health insurance premiums; Gross Income Based System. 21. Deduction in respect of life assurance premiums etc. 21A. Deduction in respect of contributions paid to a Personal Pension Scheme and a Retirement Annuity Contract. 22. Deduction in respect of loan interest. 23. Deduction in respect of certain investments. 24. Entitlement to specified deductions for non resident individuals. 24A. Deduction for approved pension. 25. Revoked. 26. Revoked. 27. Repealed. 27A. Repealed. 28. Revoked. 29. Allowances and deductions subject to return of income being made and proof of claim. 30. Amendment to Act. 31. Repeal and Revocation.
 
 2010-21 Income Tax 1992/016 Income Tax (Allowances, Deductions and Exemptions) Rules, 1992
 
