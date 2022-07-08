@@ -30,11 +30,7 @@ Membership
 
 (a) who does not hold and, during the five years preceding his appointment, has not held a practising certificate in Gibraltar or has ceased to practise law;
 
-(b) against whom, whether before or after the passing of this Act, no disciplinary action has been taken, other than a reprimand or the foregoing or repayment of
-
-Legal Services Act 2017-15
-
-fees or contributing to the costs or making a payment towards the cost of an investigation; and
+(b) against whom, whether before or after the passing of this Act, no disciplinary action has been taken, other than a reprimand or the foregoing or repayment of fees or contributing to the costs or making a payment towards the cost of an investigation; and
 
 (c) who is not and never has been an EEA lawyer or a registered European lawyer.
 
@@ -70,8 +66,6 @@ Terms of appointment and tenure of members
 
 (b) be removed from office on notice in writing given to him by the Chief Justice;
 
-2017-15 Legal Services Act
-
 but the removal of the chairman from office under paragraph (b) shall not affect any rights he may have by virtue of the terms of his appointment.
 
 (2)  A member may at any time–
@@ -91,5 +85,3 @@ but the removal of the chairman from office under paragraph (b) shall not affect
 (d) is otherwise unfit to hold the office or unable to discharge its functions.
 
 (4)  Where a person ceases to be employed as Chief Executive, he shall forthwith cease to be a member of the LSRA.
-
-Legal Services Act 2017-15

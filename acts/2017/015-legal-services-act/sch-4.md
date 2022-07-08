@@ -16,21 +16,19 @@ The transitional period.
 
 2.(1)  In this Part of this Schedule references to “the transitional period” are to the period which-
 
-(a) begins with the appointed day (within the meaning given by paragraph 9), and
+(a) begins with the appointed day (within the meaning given by paragraph 7), and
 
 (b) ends with the day appointed by the Minister by order for the purposes of this paragraph.
 
 (2)  Different days may be appointed under sub-paragraph (1)(b) for different purposes.
 
-(3)  An order may be made under sub-paragraph (1)(b) only on the recommendation of the Board.
+(3)  An order may be made under sub-paragraph (1)(b) only on the recommendation of the LSRA.
 
 Lawyers and Foreign Lawyers.
 
 3.(1)  Subject to sub-paragraph (6) during the transitional period, every barrister or solicitor who was approved, admitted and enrolled under the Supreme Court Act and who either holds a practising certificate under the Practising Certificate Rules or is in the employment of the Crown in right of Gibraltar is deemed to be authorised by the LSRA to carry on the activities in sub-paragraph (2) and eligible for registration in Parts 1 or 3 of the Register as the case may be.
 
 (2)  Those activities are-
-
-2017-15 Legal Services Act
 
 (a) the exercise of a right of audience before every court in relation to all proceedings;
 
@@ -48,7 +46,7 @@ Lawyers and Foreign Lawyers.
 
 (5)  Subject to sub-paragraph (6) during the transitional period any person who was either a lawyer or a foreign lawyer and in both cases was in employment for a company, business, trades union, entity or statutory authority in an in-house capacity for the purposes of providing legal services to that company, business, trades union, entity or statutory authority or is employed in any other capacity but during the course of their employment provides legal services to that company, business, trades union, entity or statutory authority in or from within Gibraltar to that company, business, trades union, entity or statutory authority is deemed to be authorised by the LSRA to carry on such activities as if they had been authorised under Part 5 of the Register and eligible for registration on Part 5 of the Register.
 
-(6)  All Barristers and Solicitors and other persons to which this paragraph applies who wish to benefit from these transitional arrangements and maintain registration under this Act shall, within a period of 90 days from commencement of this Act, pay the initial registration fee to the LSRA.
+(6)  All Barristers and Solicitors and other persons to which this paragraph applies who wish to benefit from these transitional arrangements and maintain registration under this Act shall, within a period of 21 days from commencement of this Act, pay the initial registration fee to the LSRA.
 
 European Lawyers.
 
@@ -58,25 +56,25 @@ European Lawyers.
 
 (b) the registered European lawyer is entitled to carry on under his home professional title by virtue of the Supreme Court Act.
 
-Legal Services Act 2017-15
-
 (2)  The authority conferred on a registered European lawyer by virtue of this paragraph is exercisable in accordance with, and subject to, the regulatory arrangements of the LSRA (as they apply to the registered European lawyer by virtue of the European regulations).
 
 (3)  In this paragraph-
 
 “home professional title” and “registered European lawyer” have the same meaning as in the Supreme Court Act.
 
+(4)  All European lawyers to which this paragraph applies who wish to benefit from these transitional arrangements and maintain registration under this Act shall, within a period of 21 days from commencement of this Act, pay the initial registration fee to the LSRA.
+
 Legal Executives.
 
-6.(1)  Subject to the provisions of this Act on the coming into effect of this Act any person who-
+5.(1)  Subject to the provisions of this Act on the coming into effect of this Act any person who-
 
 (a) was employed in a capacity as a Legal Executive; and
 
-(b) has been in the employ in Gibraltar of a person, or partnership of persons who are, either barristers and/or solicitors approved, admitted and enrolled under the provisions of the Supreme Court Act and who held a practising certificate or practising certificates as the case may be on the date of commencement of this Act,
+(b) has been in the employ in Gibraltar of a person, or partnership of persons who are, either barristers and/or solicitors approved, admitted and enrolled under the provisions of the Supreme Court Act and who held a practising certificate or practising certificates as the case may be under the Practising Certificate Rules on the date of commencement of this Act,
 
 may on production of the necessary proof of the employment referred to in paragraphs (a) and (b) above apply for and be registered in Parts 4 or 6 of the Register established under this Act as the case may be provided that such person will lose the entitlement of annual registration if such registration is not maintained on an annual basis hereafter and may only then regain such status on completion of the requirements set out in sub-paragraph (2) below
 
-(2)  From the date of commencement of this Act and unless the person seeking registration as an Authorised Person on Parts 4 or 6 of the Register is entitled to registration by virtue of paragraph 6(1) above such person must hold-
+(2)  From the date of commencement of this Act and unless the person seeking registration as an Authorised Person on Parts 4 or 6 of the Register is entitled to registration by virtue of paragraph 5(1) above such person must hold-
 
 (a) a formal professional qualification as a Legal Executive from an approved establishment and;
 
@@ -84,13 +82,11 @@ may on production of the necessary proof of the employment referred to in paragr
 
 (c) such other requirements as may be established by the Chief Justice.
 
-(3)  All Legal Executives to which sub-paragraph (1) applies who wish to benefit from these transitional arrangements and maintain registration under this Act shall, within a period of 90 days from commencement of this Act, pay the initial registration fee to the LSRA.
+(3)  All Legal Executives to which sub-paragraph (1) applies who wish to benefit from these transitional arrangements and maintain registration under this Act shall, within a period of 21 days from commencement of this Act, pay the initial registration fee to the LSRA.
 
 Law costs draftsmen.
 
-2017-15 Legal Services Act
-
-7.(1)  Subject to the provisions of this Act on the coming into effect of this Act any person who-
+6.(1)  Subject to the provisions of this Act on the coming into effect of this Act any person who-
 
 (a) was employed in Gibraltar or offering services in Gibraltar in a capacity as a Law Costs Draftsman; and
 
@@ -98,17 +94,17 @@ Law costs draftsmen.
 
 may on production of the necessary proof of the employment and certification referred to in paragraphs (a) and (b) above apply for and be registered in Part 7 of the Register established under this Act provided that such person will lose the entitlement of annual registration if such registration is not maintained on an annual basis hereafter and may only then regain such status on completion of the requirements set out in sub-paragraph (2) below.
 
-(2)  From the date of commencement of this Act and unless the person seeking registration as an Authorised Person on Part 7 of the Register is entitled to registration by virtue of paragraph 7(1) above such person must hold-
+(2)  From the date of commencement of this Act and unless the person seeking registration as an Authorised Person on Part 7 of the Register is entitled to registration by virtue of paragraph 6(1) above such person must hold-
 
 (a) a formal professional qualification as a Law Costs Draftsman from an approved establishment; and
 
 (b) such other requirements as may be established by the LSRA.
 
-(3)  All Law Costs Draftsmen to which sub-paragraph (1) applies who wish to benefit from these transitional arrangements and maintain registration under this Act shall, within a period of 90 days from commencement of this Act, pay the initial registration fee to the LSRA.
+(3)  All Law Costs Draftsmen to which sub-paragraph (1) applies who wish to benefit from these transitional arrangements and maintain registration under this Act shall, within a period of 21 days from commencement of this Act, pay the initial registration fee to the LSRA.
 
 Interpretation.
 
-8.  In this Schedule-
+7.  In this Schedule-
 
 “the appointed day” means the day appointed for the coming into force of section 5 (entitlement to carry on a reserved legal activity);
 
@@ -120,11 +116,7 @@ Part I
 
 Applications for admission and enrolment
 
-1.(1)  An application to be enrolled as a barrister under section 28 of the Supreme Court Act or as a solicitor under section 30 of that Act shall be made by petition, which shall be substantially in the form in Part II of this Schedule, shall be verified by oath or statutory
-
-Legal Services Act 2017-15
-
-declaration and shall be filed in the Registry of the Supreme Court with two recent testimonials to the character of the applicant.
+1.(1)  An application to be enrolled as a barrister under section 28 of the Supreme Court Act or as a solicitor under section 30 of that Act shall be made by petition, which shall be substantially in the form in Part II of this Schedule, shall be verified by oath or statutory declaration and shall be filed in the Registry of the Supreme Court with two recent testimonials to the character of the applicant.
 
 (2)  Every person applying to be admitted as a barrister or solicitor shall deliver to the Registry a notice intimating that he has so applied, which notice shall (unless the Chief Justice shall otherwise allow) be posted and continue to be posted in the Supreme Court for twenty-one days before any order is made on the petition.
 
@@ -146,7 +138,7 @@ Form of Petition
 
 To the Honourable the Chief Justice
 
-In the Matter of the Schedule to the Legal Services Act 2016
+In the Matter of the Schedule to the Legal Services Act 2017
 
 - and -
 
@@ -156,11 +148,7 @@ THE PETITION OF   …………………………….
 
 SHEWETH
 
-That your petitioner was admitted as a barrister/solicitor in
-
-2017-15 Legal Services Act
-
-on the          day of                                      and is qualified for admission and enrolment as a barrister/solicitor under section 28/29 of the Supreme Court Act:
+That your petitioner was admitted as a barrister/solicitor in on the          day of                                      and is qualified for admission and enrolment as a barrister/solicitor under section 28/29 of the Supreme Court Act:
 
 Your petitioner prays that an order may be made for his admission and enrolment as a barrister/solicitor in the following terms ……………………………
 
@@ -171,5 +159,3 @@ Your petitioner’s address for service is ………………………………�
 Dated this          day of             , 20
 
 Petitioner
-
-Legal Services Act 2017-15

@@ -26,8 +26,6 @@ In this Constitution of the Law Council of Gibraltar, unless the context otherwi
 
 “Authorised Person” shall mean a person registered under section 6 of the Act in Parts 1-9 of the Register established under the Act.
 
-2017-15 Legal Services Act
-
 “The Legal Profession” means all Authorised Persons who are duly registered under the provisions of the Act and providing legal services in accordance with the Act.
 
 “The Finance Committee” means the standing committee of the Law Council described in section 2.8.2 of the Constitution.
@@ -60,8 +58,6 @@ The masculine shall include the feminine gender.
 
 The plural shall include the singular and vice versa.
 
-Legal Services Act 2017-15
-
 PART II
 
 ELIGIBILITY TO MEMBERSHIP OF LAW COUNCIL
@@ -88,13 +84,11 @@ FUNCTIONS AND POWERS OF THE LAW COUNCIL
 
 (d)  to represent and act for Authorised Persons generally as well as in their relations with others and also in matters affecting the administration of justice;
 
-2017-15 Legal Services Act
-
 (e)  to consider all recommendations and other matters referred to the Board or the Law Council by the LSRA, the Chief Justice, any authority, Authorised Person or member of the public;
 
 (f)  to encourage and promote the study of law and the market of legal services;
 
-(g)  to work with the LSRA in respect of standards for the systems of control to prevent, detect and report money laundering and terrorist financing and
+(g)  to work with the LSRA in respect of standards for the systems of control to prevent, detect and report money laundering, terrorist financing and proliferation financing; and
 
 (h)  to work with the LSRA and do everything that is reasonably incidental or conducive to carrying out the above functions
 
@@ -120,9 +114,7 @@ The Vice-Chairperson and Treasurer shall be appointed by the Law Council Board f
 
 2.2.2 The elected members of the Law Council Board comprising a total of fifteen will be made up as follows:-
 
-Legal Services Act 2017-15
-
-(i) Five  Authorised Persons, of which at least three are on Part 1 of the Register and who on the day on which they are to take their place as members of the Law Council Board, are of more than fifteen years standing who have been nominated for election in accordance with Clause 2.3.1 and duly elected by secret ballot of Authorised Persons at an Annual or Extraordinary General Meeting of Authorised Persons;
+(i) Five Authorised Persons, of which at least three are on Part 1 of the Register and who on the day on which they are to take their place as members of the Law Council Board, are of more than fifteen years standing who have been nominated for election in accordance with Clause 2.3.1 and duly elected by secret ballot of Authorised Persons at an Annual or Extraordinary General Meeting of Authorised Persons;
 
 (ii) Three Authorised Persons, of which at least two are on Part 1 of the Register and not being Authorised Persons, who are of more than fifteen years standing, who on the day on which they are to take their place as members of the Law Council Board, are of more than seven years standing, who have been nominated for election in accordance with Clause 2.3.1 and duly elected by secret ballot of the Authorised Persons at an Annual General Meeting of the Authorised Persons;
 
@@ -138,11 +130,7 @@ ELECTION OF MEMBERS AND DURATION OF MEMBERSHIP
 
 (i) The Secretary will convene the Annual General Meeting ("the Meeting") of Authorised Persons  by giving Authorised Persons  one month’s notice of the Meeting;
 
-(ii) Nomination forms proposed by one Authorised Person and seconded by another proposing an Authorised Person for election to the Law Council Board shall be delivered to the Treasurer fourteen days prior to the date fixed for calling the Annual General Meeting. The maximum number of Authorised Persons s being
-
-2017-15 Legal Services Act
-
-partners, associates, consultants, members or employees of the same Law Firm eligible for nomination shall be three.
+(ii) Nomination forms proposed by one Authorised Person and seconded by another proposing an Authorised Person for election to the Law Council Board shall be delivered to the Treasurer fourteen days prior to the date fixed for calling the Annual General Meeting. The maximum number of Authorised Persons s being partners, associates, consultants, members or employees of the same Law Firm eligible for nomination shall be three.
 
 (iii) The Meeting will elect the members of the Law Council Board by secret ballot of Authorised Persons each Authorised Person having the same number of votes as equate with the number of vacancies in the Law Council Board at the time of the election.
 
@@ -162,15 +150,13 @@ partners, associates, consultants, members or employees of the same Law Firm eli
 
 2.3.3 Further provisions concerning the election of members of the Law Council are set out in Part III of this Constitution.
 
-2.3.4 A person co-opted to membership of the Law Council Board shall retire immediately before the Annual General Meeting following his co-option, but shall then be eligible for election, or co-option (as the case  may be) to the Law Council Board.
+2.3.4 A person co-opted to membership of the Law Council Board shall retire immediately before the Annual General Meeting following his co-option, but shall then be eligible for election, or co-option (as the case may be) to the Law Council Board.
 
 CESSATION OF MEMBERSHIP
 
 2.4.1 A person shall cease to be a member of the Law Council Board forthwith if:
 
 2.4.1.1 he ceases to be an Authorised Person and is not a Retired Member
-
-Legal Services Act 2017-15
 
 2.4.1.2 he ceases to be a Retired Member or Student Member and is not an Authorised Member
 
@@ -198,11 +184,7 @@ Legal Services Act 2017-15
 
 2.6.1 The following shall be the procedure for election of the Chairperson:-
 
-(i) Nomination forms proposed by one Authorised Person and seconded by another Authorised Person  and accompanied by a statement by the person proposed of his or her willingness to accept office if elected proposing an Authorised Person, who on the day on which he will take his place as a member of the Law Council
-
-2017-15 Legal Services Act
-
-Board, is of more than fifteen years standing, for election as Chairperson of the Law Council shall be delivered to the Treasurer fourteen days prior to the next Annual General Meeting.
+(i) Nomination forms proposed by one Authorised Person and seconded by another Authorised Person  and accompanied by a statement by the person proposed of his or her willingness to accept office if elected proposing an Authorised Person, who on the day on which he will take his place as a member of the Law Council Board, is of more than fifteen years standing, for election as Chairperson of the Law Council shall be delivered to the Treasurer fourteen days prior to the next Annual General Meeting.
 
 (ii) The Meeting will elect the Chairperson by secret ballot of Authorised Persons from amongst those Authorised Persons of more than fifteen years standing nominated in accordance with Clause 2.6.1(i) who have been elected as members of the Law Council Board in accordance with Clause 2.3.1 of this Constitution.
 
@@ -222,8 +204,6 @@ Board, is of more than fifteen years standing, for election as Chairperson of th
 
 2.7.2 Meeting of and ballots of the Law Council Board shall be conducted in accordance with the provisions set out in Part III hereof.
 
-Legal Services Act 2017-15
-
 2.7.3 The Law Council Board shall cause proper minutes to be kept of the proceedings of all meetings of the Law Council Board and all business transacted at such meetings, and any such minutes of any meeting, if purporting to be signed by the Chairperson of such meeting or by the Chairperson of the next succeeding meeting, shall be sufficient evidence without further proof of the facts therein stated.
 
 2.7.4 The continuing members of the Law Council Board may act notwithstanding any vacancy in their body; provided always that in case the members of the Law Council Board shall at any time be reduced in number to less than 5 they may act as a Law Council Board for the purpose of filling up vacancies in their body up to that number but not for any other purpose.
@@ -236,7 +216,9 @@ Legal Services Act 2017-15
 
 2.8.2 Without prejudice to the generality of Section 2.8.1 there shall be four committees of the Law Council which shall be called the Finance Committee, the Law Reform Committee, the Education, Communication and Member Services and Representation Committee, the Committee for Non-Contentious work and the Court Users and Professional Conduct Committee each of which shall have, among others, the powers and functions conferred in or under the Constitution.
 
-2.8.3 The Law Council Board may, at any time, resolve to exercise some or all of the powers and functions of the Standing Committees referred to in Section 2.8.2 in place of such Committees or any of them and it may at any time delegate the exercise of any of such powers and functions to some other committee or committees of the Law Council.
+2.8.3 The Law Council Board may, at any time, resolve to exercise some or all of the powers and functions of the Standing Committees referred to in Section 2.8.2 in place of such
+
+Committees or any of them and it may at any time delegate the exercise of any of such powers and functions to some other committee or committees of the Law Council.
 
 2.9 STANDING ORDERS
 
@@ -244,17 +226,13 @@ Save and except as elsewhere expressly provided in these Regulations the composi
 
 2.10 ANNUAL GENERAL MEETING OF THE LAW COUNCIL
 
-2.10.1 An Annual General Meeting of the Law Council shall be held once in every year in the month of April (or so soon thereafter as possible provided it is no later than the 21 May)
-
-2017-15 Legal Services Act
-
-on such day at such time and place as the Law Council Board shall determine.    At the Annual General Meeting the Law Council Board shall present its annual report and accounts. Every Authorised Person shall be entitled to attend the Annual General Meeting.
+2.10.1 An Annual General Meeting of the Law Council shall be held once in every year in the month of October (or so soon thereafter as possible provided it is no later than the 30 November) on such day at such time and place as the Law Council Board shall determine.    At the Annual General Meeting the Law Council Board shall present its annual report and accounts.    Every Authorised Person shall be entitled to attend the Annual General Meeting.
 
 2.10.2 The Annual General Meeting of Authorised Persons and ballots of the Authorised Persons shall be conducted in accordance with the provisions set out in Part IV hereto.
 
 2.11 EXTRAORDINARY GENERAL MEETINGS AND BALLOTS OF THE LAW COUNCIL
 
-2.11.1 Upon a request made to the Secretary in writing by not less than twenty Authorised Persons of whom at least fifteen are on Parts 1 or 3 of the Register and stating the objects for which the meeting is required, the Law Council Board shall as soon as reasonably practicable convene a meeting of Authorised Persons  for the discussion of the objects for which the meeting is required and such other matters as the Law Council Board may think fit.
+2.11.1 Upon a request made to the Secretary in writing by not less than twenty Authorised Persons of whom at least fifteen are on Parts 1 or 3 of the Register and stating the objects for which the meeting is required, the Law Council Board shall as soon as reasonably practicable convene a meeting of Authorised Persons for the discussion of the objects for which the meeting is required and such other matters as the Law Council Board may think fit.
 
 2.11.2 The Law Council Board may convene such meetings or conduct such ballots as it may think fit.
 
@@ -269,8 +247,6 @@ The Law Council Board and its Officers shall have regard to but shall not be bou
 2.13 THE SECRETARY AND OTHER ADMINISTRATIVE STAFF OF THE LAW COUNCIL BOARD
 
 2.13.1 The Law Council Board shall appoint a Secretary or other principal administrative officer and such other administrative officers for such periods and on such terms as to remuneration and otherwise as it thinks fit.    Such administrative officers shall discharge all such duties as the Law Council Board shall assign to them respectively.    The services of such administrative officers shall be freely available to the Law Council Board and its committees and sub-committees.
-
-Legal Services Act 2017-15
 
 2.13.2 Anything required to be done and any discretions required to be exercised by, and any notice required to be given to the Secretary may be done or exercised by, or given to, any deputy for the Secretary authorised by the Chairperson or Vice-Chairperson to act in the latter’s place (either prospectively or retrospectively and either generally or for a particular purpose).
 
@@ -296,11 +272,7 @@ Moneys not required for current purposes may be placed on deposit or invested in
 
 2.17.1.2 by leaving it or sending it by e-mail or through the post addressed to him at his professional address.
 
-2.17.2 Any document sent by e-mail shall be deemed to have been received by the person to whom it is addressed and so duly given to him on the day that it was sent and if posted, shall
-
-2017-15 Legal Services Act
-
-be deemed to have been received by and so duly given to, such person on the third day after the day on which the envelope or package containing it is put into the post.
+2.17.2 Any document sent by e-mail shall be deemed to have been received by the person to whom it is addressed and so duly given to him on the day that it was sent and if posted, shall be deemed to have been received by and so duly given to, such person on the third day after the day on which the envelope or package containing it is put into the post.
 
 2.17.3 No proceedings of any general meeting of the Law Council  shall be invalidated notwithstanding that it be afterwards discovered that notice was not duly given to any person or persons entitled thereto or that any person not entitled to such notice was present at or voted at such meeting.
 
@@ -314,21 +286,21 @@ be deemed to have been received by and so duly given to, such person on the thir
 
 2.19 COMMENCEMENT AND TRANSITIONAL PROVISION
 
-This Constitution shall take effect on and from the commencement of the Act. PART III
+This Constitution shall take effect on and from the commencement of the Act.
+
+PART III
 
 Meetings and Ballots of the Law Council Board
 
-3.1 On the request of the Chairperson or of not less than three members of the Law Council Board the Secretary shall at any time summon a meeting of the Law Council Board. Four clear days' notice at least of each such meeting shall be given unless the Chairperson in any case of emergency shall otherwise direct.
+3.1 On the request of the Chairperson or of not less than three members of the Law Council Board the Secretary shall at any time summon a meeting of the Law Council Board.    Four clear days' notice at least of each such meeting shall be given unless the Chairperson in any case of emergency shall otherwise direct.
 
 3.2 Notice of any matters to be placed on the agenda for a meeting of the Law Council Board shall be sent to the Secretary, with the name of the sender.   The Chairperson shall not be bound to include any matter on the agenda of any meeting unless notice thereof pursuant to this paragraph shall have been received by the Secretary at least eight clear days before the date of the meeting.
 
 3.3 Unless those present at the meeting otherwise resolve, no business except that appearing on the agenda shall be brought before a meeting of the Law Council Board.
 
-Legal Services Act 2017-15
-
 3.4 Five members of the Law Council Board shall constitute a quorum.
 
-3.5 The Chairperson shall preside at all meetings of the Law Council Board at which s/he shall be present, but if there by no Chairperson, or if s/he be absent, then the Vice- Chairperson shall so preside, but if there be no Vice-Chairperson, of if s/he be absent, then the members present shall choose one of their number to be Chairperson of that meeting.
+3.5 The Chairperson shall preside at all meetings of the Law Council Board at which s/he shall be present, but if there by no Chairperson, or if s/he be absent, then the Vice-Chairperson shall so preside, but if there be no Vice-Chairperson, of if s/he be absent, then the members present shall choose one of their number to be Chairperson of that meeting.
 
 3.6 The Law Council Board may at any time invite any person to attend in an advisory capacity at any of its meeting(s).
 
@@ -344,11 +316,7 @@ Legal Services Act 2017-15
 
 3.10.2 Each member of the Law Council Board wishing to vote in the ballot shall complete his ballot paper and return it to the office of the Law Council so as to be received there not more than fourteen days after the date of the meeting at which the ballot was demanded and any ballot paper not so received shall not be counted in determining the result of the ballot.
 
-3.10.3 On a ballot, the chairperson of the meeting at which the ballot was demanded shall not have a casting vote, and, in the event of a tie, the resolution balloted (if
-
-2017-15 Legal Services Act
-
-it is on a question to be decided by a majority of those voting) shall not be carried.
+3.10.3 On a ballot, the chairperson of the meeting at which the ballot was demanded shall not have a casting vote, and, in the event of a tie, the resolution balloted (if it is on a question to be decided by a majority of those voting) shall not be carried.
 
 3.10.4 The accidental omission to send a ballot paper to any person, or the failure of any person to receive a ballot paper, shall not invalidate the ballot.
 
@@ -360,13 +328,13 @@ Annual General Meetings and Ballots of Authorised Persons/Members of Law Council
 
 4.1 Not less than one month’s notice of an Annual General Meeting shall be given by giving notice individually to every person who is entitled to attend.    Such notices shall specify the place, the day and the hour of the meeting, and the general nature of any matter which is to be brought forward for discussion.   The accidental omission to give such notice in manner provided to any person entitled to same shall not invalidate the proceedings of any meeting.
 
-4.2 Any member of the Law Council shall be at liberty to bring forward any resolution (not disallowable under Section 4.7 of this Part) for discussion and decision to any Annual General Meeting provided that prior notice of his intention to do so shall have been given in writing to the Secretary not less than 14 clear days before the day of the meeting and provided that the resolution is seconded by another Authorised Person.    The Secretary shall thereupon give notice of all such resolutions in the manner prescribed under Paragraph 1 of this Part not less than 7 clear days before the day of the meeting.   Notwithstanding any failure to comply with all or any of these requirements the chairperson of the meeting may at his or her discretion allow a resolution to be brought forward for discussion and decision upon such terms as he considers reasonable.
+4.2 Any member of the Law Council shall be at liberty to bring forward any resolution (not disallowable under Section 4.7 of this Part) for discussion and decision to any Annual General
+
+Meeting provided that prior notice of his intention to do so shall have been given in writing to the Secretary not less than 14 clear days before the day of the meeting and provided that the resolution is seconded by another Authorised Person.    The Secretary shall thereupon give notice of all such resolutions in the manner prescribed under Paragraph 1 of this Part not less than 7 clear days before the day of the meeting.   Notwithstanding any failure to comply with all or any of these requirements the chairperson of the meeting may at his or her discretion allow a resolution to be brought forward for discussion and decision upon such terms as he considers reasonable.
 
 4.3 No business shall be transacted at an Annual General Meeting unless a quorum is present at the time when the meeting proceeds to business and, save as hereinafter otherwise provided, 20 members of the Law Council personally present shall constitute a quorum.
 
 4.4 If within thirty minutes from the time appointed for an Annual General Meeting a quorum be not present the meeting shall stand adjourned to the same day in the next week at the same time and place or at some other time and place as the chairperson of the meeting shall appoint; and if at such adjourned meeting a quorum be not present within a quarter of an hour from the time appointed for the meeting, those persons who are present shall constitute a quorum.
-
-Legal Services Act 2017-15
 
 4.5 The chairperson of any Annual General Meeting may, if a quorum was present at the time when the meeting proceeded to business, adjourn the meeting with its consent to another time or another place, but -
 
@@ -390,8 +358,6 @@ Legal Services Act 2017-15
 
 4.10 At any Annual General Meeting any resolution put to the vote of the meeting shall be decided on a show of hands by a majority of those who, being entitled to attend, are present in person at the meeting, unless a ballot of the members of the Law Council is upon declaration of the result of the show of hands required by the chairperson of the meeting or by 10 persons present and entitled to vote on the resolution, but:
 
-2017-15 Legal Services Act
-
 4.10.1 if the resolution affects only a class of member of the Law Council or any section thereof, only members of the class or section shall be entitled to vote and the references to a ballot in this Schedule shall be read as referring to a ballot of that class or section;
 
 4.10.2 for the purposes of Section 4.10.1 of this Paragraph, a resolution shall be regarded as affecting a class or section only of members of the Law Council if (and only if):
@@ -410,11 +376,7 @@ Legal Services Act 2017-15
 
 4.14 Unless the Law Council otherwise directs, a ballot on a resolution put at an Annual General Meeting of members of the Law Council shall be taken in accordance with the following provisions:
 
-4.14.1 Within 10 days after the date on which the resolution was put to the meeting the Secretary shall send to each member of the Law Council to be balloted a
-
-Legal Services Act 2017-15
-
-ballot paper setting out the resolution in respect of which the Ballot has been demanded.   The ballot paper shall contain instructions as to voting and be in such form generally as, subject to any directions of the Law Council, the Secretary considers appropriate.
+4.14.1 Within 10 days after the date on which the resolution was put to the meeting the Secretary shall send to each member of the Law Council to be balloted a ballot paper setting out the resolution in respect of which the Ballot has been demanded. The ballot paper shall contain instructions as to voting and be in such form generally as, subject to any directions of the Law Council, the Secretary considers appropriate.
 
 4.14.2 Each member of the Law Council entitled and wishing to vote in the ballot shall complete his ballot paper and return it to the office of the Law Council so as to be received there not more than thirty-five days after the date on which the resolution was put to the meeting, and any ballot paper not so received shall not be counted in determining the result of the ballot.
 
@@ -439,8 +401,6 @@ STANDING ORDER FOR COMMITTEES AND SUB-COMMITTEES OF THE LAW COUNCIL COMMITTEE ST
 COMMITTEES
 
 1.  There shall be the following Main Committees which shall be standing committees of, and shall report to, the Law Council-
-
-2017-15 Legal Services Act
 
 (a) The Law Reform Committee;
 
@@ -482,9 +442,7 @@ Law Reform Committee (“LRC”)
 
 (vi) Any matter of proposed law reform referred to the Committee by the Chairperson of the Law Council Board.
 
-Legal Services Act 2017-15
-
-4. The Committee will govern its own procedure and liaise with the Law Council  Board and any other Committee thereof as might be appropriate.
+4. The Committee will govern its own procedure and liaise with the Law Council Board and any other Committee thereof as might be appropriate.
 
 Finance Committee (“FC”).
 
@@ -524,15 +482,13 @@ d. Review and updating the Law Council’s website.
 
 e. Monitoring and communications (especially via social media) of the Law Council.
 
-2017-15 Legal Services Act
-
 The Committee for Non-Contentious Work (“CNCW”)
 
 9.  The membership of the Committee for Non-Contentious Work shall be five Authorised Persons.
 
 10.  The terms of reference of the CNCW shall be to-
 
-(a) advise the Law Council Board on such matters concerning non-contentious private client work, property  and commercial matters as the Board should refer to the Committee;
+(a) advise the Law Council Board on such matters concerning non-contentious private client work, property and commercial matters as the Board should refer to the Committee;
 
 (b) To advise and assist the Law Council Board in any matter in respect to financial services, the development of Gibraltar as a finance centre, business, trade, consumer affairs, electronic business or the gaming industry.
 
@@ -560,11 +516,7 @@ PROCEEDINGS OF COMMITTEES
 
 Term of office
 
-13.  The chairpersons and members of the committees defined in these Standing Orders shall be appointed by the Law Council Board from among the body of Authorised Persons
-
-Legal Services Act 2017-15
-
-following nomination by the Chairperson of the Law Council Board.  All persons holding the position of chairperson of any committee  or sub-committee shall hold the appointment, unless  s/he  resigns, notwithstanding that s/he may cease to be qualified, until his successor is appointed.  Chairpersons if still qualified, shall be eligible for re-appointment to their respective offices.
+13.  The chairpersons and members of the committees defined in these Standing Orders shall be appointed by the Law Council Board from among the body of Authorised Persons following nomination by the Chairperson of the Law Council Board.  All persons holding the position of chairperson of any committee or sub-committee shall hold the appointment, unless s/he resigns, notwithstanding that s/he may cease to be qualified, until his successor is appointed. Chairpersons if still qualified, shall be eligible for re-appointment to their respective offices.
 
 Chairperson limits
 
@@ -572,11 +524,11 @@ Chairperson limits
 
 Additional members
 
-15.  Committees of the Law Council may appoint additional members in accordance with their Terms of Reference as set out in these Standing Orders.  Where arrangements for appointing additional members are not specified, there shall be a general power of committees and sub-committees to appoint  additional members at their discretion, providing the number of additional member shall not exceed two unless the  Law Council agree otherwise.
+15.  Committees of the Law Council may appoint additional members in accordance with their Terms of Reference as set out in these Standing Orders.  Where arrangements for appointing additional members are not specified, there shall be a general power of committees and sub- committees to appoint additional members at their discretion, providing the number of additional member shall not exceed two unless the Law Council agree otherwise.
 
 Quorum
 
-16.  No business shall be transacted at an  meeting of any committee, sub-committee or subsidiary body unless  three  of its members are present.
+16.  No business shall be transacted at an meeting of any committee, sub-committee or subsidiary body unless three of its members are present.
 
 General.
 
@@ -584,13 +536,9 @@ General.
 
 18.  Matters requiring a vote in committees shall be decided by a simple majority.  The persons presiding at a meeting of a committee, sub-committee or subsidiary body shall have a second or casting vote.
 
-19.  Between meetings the chairperson of a committee, sub-committee or subsidiary body may take action on their behalf  on matters which are of a routine character or will not admit of delay, and may act similarly on minor or specially urgent matters.  In addition, a chairperson may deal with such other matters within a committee's terms of reference and the approved budget as the committee may from time to time determine.  All such action is to be recorded, and reported to the next committee meeting.
+19.  Between meetings the chairperson of a committee, sub-committee or subsidiary body may take action on their behalf on matters which are of a routine character or will not admit of delay, and may act similarly on minor or specially urgent matters.  In addition, a chairperson may deal with such other matters within a committee's terms of reference and the approved budget as the committee may from time to time determine.  All such action is to be recorded, and reported to the next committee meeting.
 
-20..  The chairperson of each committee or, in his or her absence, the vice-chairperson of  the committee shall take the chair at every meeting of such committee.  In the absence of the
-
-2017-15 Legal Services Act
-
-chairperson and the vice-chairperson the members actually present shall proceed to elect a chairperson from among their members.
+20..  The chairperson of each committee or, in his or her absence, the vice-chairperson of the committee shall take the chair at every meeting of such committee.  In the absence of the chairperson and the vice-chairperson the members actually present shall proceed to elect a chairperson from among their members.
 
 21.  Any committee may appoint a sub-committee or other subsidiary body in order to delegate to it a part of its terms of reference. The appointing committee shall state the membership and terms of reference for any sub-committee or subsidiary body.
 
