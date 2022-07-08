@@ -22,7 +22,9 @@ Amending enactments Relevant current provisions Commencement date Act.   2011-18
 
 “ ss. 2, 14(6), 29(1A), (2), 31(1)(ii), (2), 31B(3), 32(2)-(3), 37(1)(a), 43(1), 59, (6), (8), 59A, 60(3), 60A, 60C, 60D(1), 61(e)
 
-1.1.2021 Act. 2021-28 s. 34(3), (3B)-(3C) 27.9.2021
+1.1.2021 Act. 2021-28 s. 34(3), (3B)-(3C) 27.9.2021 2022-07 ss. 6(1), (4)-(5), 77(1)(ca), (e)-(g), (1A), 65(2)(ba), 91(3), 98(1)
+
+8.7.2022
 
 Transposing: Directive 2006/126/EC Directive 2014/46/EU Directive (EU) 2018/645
 
