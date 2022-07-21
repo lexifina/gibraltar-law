@@ -30,7 +30,9 @@ Chapter 3 International accounting standards after IP completion day
 
 6. International accounting standards in Gibraltar after IP completion day.
 
-Chapter 4 Consequential amendments, revocations and transitional provision relating to the adoption of international accounting standards
+Chapter 4
+
+Consequential amendments, revocations and transitional provision relating to the adoption of international accounting standards
 
 7. Consequential amendments and transitional provision relating to the adoption of international accounting standards.
 
@@ -56,7 +58,9 @@ Title.
 
 Commencement.
 
-2.(1)  These Regulations are deemed to have come into operation on 1 January 2021.
+2.(1)  Subject to subregulation (1A), these Regulations are deemed to come into operation on 1st January 2021.
+
+(1A) Paragraph 40 of Schedule 1 comes into operation on the day of publication.
 
 (2)  Parts 1 to 3 of Schedule 1 have effect in relation to accounts for financial years beginning on or after IP completion day.
 
