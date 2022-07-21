@@ -2,7 +2,9 @@ Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
 
 1950–07
 
-Subsidiary 1997/126 Regulations made under ss. 337 and 316.
+Subsidiary 1997/126
+
+Regulations made under ss. 337 and 316.
 
 SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
 
@@ -10,9 +12,13 @@ SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
 
 30.10.1997
 
-____________________________
+Amending enactments Relevant current provisions Commencement date LN. 2022/126 r. 7(3)-(4) 21.7.2022
 
-ARRANGEMENT OF REGULATIONS.
+Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
+
+1950–07
+
+Subsidiary 1997/126 ARRANGEMENT OF REGULATIONS.
 
 Regulation
 

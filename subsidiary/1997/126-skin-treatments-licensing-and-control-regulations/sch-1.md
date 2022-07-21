@@ -14,11 +14,7 @@ DATE OF BIRTH...................................................................
 
 NATIONALITY...............................................................................................
 
-Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
-
-1950–07
-
-Subsidiary 1997/126 Name (if any) and address of premises where practice will be carried on:
+Name (if any) and address of premises where practice will be carried on:
 
 .......................................................................................................................
 
@@ -35,6 +31,12 @@ I declare that –
 (c) the above particulars are true in every respect.
 
 Date....................................... Signature.................................................
+
+Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
+
+1950–07
+
+Subsidiary 1997/126
 
 PART II
 
@@ -74,13 +76,15 @@ Dated the                         day of                     20
 
 This certificate expires (subject to regulation 8 of the Skin Treatments (Licensing and Control) Regulations) on the 31st day of March next following the date set out above.
 
-PART IV
-
 Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
 
 1950–07
 
-Subsidiary 1997/126 CERTIFICATE EVIDENCING THE LICENSING OF PREMISES TO BE USED FOR THE BUSINESS OF SKIN PIERCING, ELECTROLYSIS ACUPUNCTURE OR TATTOOING.
+Subsidiary 1997/126
+
+PART IV
+
+CERTIFICATE EVIDENCING THE LICENSING OF PREMISES TO BE USED FOR THE BUSINESS OF SKIN PIERCING, ELECTROLYSIS ACUPUNCTURE OR TATTOOING.
 
 It is hereby certified that premises ......................................................... known as................................................. have been duly licensed under the provisions of the Skin Treatments (Licensing and Control) Regulations to be used for the business of skin piercing, tattooing, acupuncture or electrolysis.
 
