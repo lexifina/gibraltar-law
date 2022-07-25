@@ -42,9 +42,7 @@ Conditions:
 
 Entry of worker into Gibraltar
 
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
-
-Subsidiary 1994/023 1932-16
+Employment EMPLOYMENT REGULATIONS, 1994 This version is out date Subsidiary 1994/023 1932-16
 
 The Commissioner of Police has been notified of the issue of this permit and if for any reason the entry of this worker cannot be authorised the police authorities will notify you accordingly. Before commencing the engagement it is essential that the worker should report to the Director at his office in order that a Certificate of Employment may be issued.
 

@@ -20,6 +20,4 @@ profession
 
 Date: Signature of employee: Date:
 
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
-
-Subsidiary 1994/023 1932-16
+Employment EMPLOYMENT REGULATIONS, 1994 This version is out date Subsidiary 1994/023 1932-16
