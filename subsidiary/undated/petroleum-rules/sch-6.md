@@ -8,9 +8,9 @@ Couplings.
 
 Bottom loading and vapour recovery for MC-306 tank motor vehicles (Section 2.1.1.1 Type of adapter used for bottom loading).
 
-(2)  The vapour-collection coupler on the loading-gantry vapour-collection hose must be a cam-and-groove female coupler which must mate with a 4- inch (101.6mm) cam-and-groove male adapter located on the vehicle as defined by -API Recommended Practice 1004, Seventh Edition, November 1988
+(2)  The vapour-collection coupler on the loading-gantry vapour-collection hose must be a cam-and-groove female coupler which must mate with a 4-inch (101.6mm) cam-and-groove male adapter located on the vehicle as defined by -API Recommended Practice 1004, Seventh Edition, November 1988
 
-Bottom loading and vapour recovery for MC-306 tank motor vehicles (Section 4.1.1.2 Vapour-recovery adapter).
+Bottom loading and vapour recovery for MC-306 tank motor vehicles (Section 4.1.1.2 Vapour- recovery adapter).
 
 Loading conditions.
 
@@ -22,13 +22,9 @@ Loading conditions.
 
 Connection of vehicle earth/overfill detection.
 
-Petroleum PETROLEUM RULES
+3.(1) The loading gantry must be equipped with an overfill-detection control unit which, when connected to the vehicle, must provide a fail-safe permission signal to enable loading, providing no compartment-overfill sensors detect a high level.
 
-1931-10
-
-Subsidiary 1932.01.18 3.(1) The loading gantry must be equipped with an overfill-detection control unit which, when connected to the vehicle, must provide a fail-safe permission signal to enable loading, providing no compartment-overfill sensors detect a high level.
-
-(2)  The vehicle must be connected to the control unit on the gantry via a 10-pin industry-standard electrical connector. The male connector must be mounted on the vehicle and the female connector must be attached to a flying lead connected to the gantry-mounted control unit.
+(2)  The vehicle must be connected to the control unit on the gantry via a 10-pin industry- standard electrical connector. The male connector must be mounted on the vehicle and the female connector must be attached to a flying lead connected to the gantry-mounted control unit.
 
 (3)  The high-level detectors on the vehicle must be either 2-wire thermistor sensors, 2-wire optical sensors, 5-wire optical sensors or a compatible equivalent, provided the system is failsafe. Thermistors must have a negative temperature coefficient.
 
@@ -36,7 +32,7 @@ Subsidiary 1932.01.18 3.(1) The loading gantry must be equipped with an overfill
 
 (5)  The vehicle must be bonded to the gantry via the common return wire of the overfill sensors, which must be connected to pin lO on the male connector via the vehicle chassis. Pin 10 on the female connector must be connected to the control-unit enclosure which must be connected to the gantry earth.
 
-(6)  All approved bottom-loading vehicles must carry an identification plate (see paragraph 2(3) above) which specifies the type of overfill- detection sensors installed (that is, 2-wire or 5-wire)
+(6)  All approved bottom-loading vehicles must carry an identification plate (see paragraph 2(3) above) which specifies the type of overfill-detection sensors installed (that is, 2-wire or 5-wire)
 
 Location of the connections.
 
@@ -52,15 +48,11 @@ Location of the connections.
 
 (b) the horizontal spacing of the adapters must be not less than 0.25 metres (preferred minimum spacing is 0.3 metres);
 
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18 (c) all liquid adapters must be located within an envelope not exceeding 2.5 metres in length;
+(c) all liquid adapters must be located within an envelope not exceeding 2.5 metres in length;
 
 (d) the vapour-collection adapter should be located preferably to the right of the liquid adapters and at a height not exceeding 1.5 metres (unladen) and not less than 0.5 metres (laden).
 
-(2)  The earth/overfill connector must be located to the right of the liquid and vapour-collection adapters and at a height not exceeding 1.5 metres (unladen) and not less than 0.5 metre (laden)
+(2)  The earth/overfill connector must be located to the right of the liquid and vapour- collection adapters and at a height not exceeding 1.5 metres (unladen) and not less than 0.5 metre (laden)
 
 (3)  The above connections must be located on one side of the vehicle only.
 

@@ -1,14 +1,10 @@
-Petroleum PETROLEUM RULES
+Subsidiary Legislation made under s.7.
 
-1931-10
+Petroleum Rules
 
-Subsidiary 1932.01.18 Rules made under s. 7.
+1932.01.18
 
-PETROLEUM RULES
-
-(1932.01.18)
-
-18.1.1932
+Commencement 18.1.1932
 
 Amending enactments Relevant current provisions Commencement date
 
@@ -30,17 +26,9 @@ L.N. 1976/073 r. 5
 
 1982/029 r .5(2)
 
-1984/004 r. 5(2) 2.4.1984 1984/098 r. 5(2) 29.11.1984 1985/130 r. 5(2) 28.11.1985 1987/013 r. 5(2) 15.1.1987 1987/151 r. 5(2) 26.11.1987 1988/028 r. 34(3) 18.2.1988 1988/100 r. 5(2) 27.10.1988 1990/084 r. 5(2) 5.7.1990 1991/138 rr. 12(1)-(2), 20(1)-(2) 18.7.1991 1993/097 r. 5(2) 20.5.1993 2001/014 rr. 2, 31-32, 34, 39, Schs.1-6 22.3.2001 2005/045 r. 36(4) 1.4.2005 2012/115 rr. 2, 25A-25D, 38 26.7.2012 2016/095 rr. 25B(1)-(2), 25C(1), (5) 12.5.2016 2021/164 rr. 24, 26A, 32A, 34(1), 35, 36(4), 38, Sch.1
-
-4.3.2021 Act. 2021-25 r. 38 27.9.2021
+1984/004 r. 5(2) 2.4.1984 1984/098 r. 5(2) 29.11.1984 1985/130 r. 5(2) 28.11.1985 1987/013 r. 5(2) 15.1.1987 1987/151 r. 5(2) 26.11.1987 1988/028 r. 34(3) 18.2.1988 1988/100 r. 5(2) 27.10.1988 1990/084 r. 5(2) 5.7.1990 1991/138 rr. 12(1)-(2), 20(1)-(2) 18.7.1991 1993/097 r. 5(2) 20.5.1993 2001/014 rr. 2, 31-32, 34, 39, Schs.1-6 22.3.2001 2005/045 r. 36(4) 1.4.2005 2012/115 rr. 2, 25A-25D, 38 26.7.2012 2016/095 rr. 25B(1)-(2), 25C(1), (5) 12.5.2016 2021/164 rr. 24, 26A, 32A, 34(1), 35, 36(4), 38, Sch.1 4.3.2021 Act. 2021-25 r. 38 27.9.2021 LN. 2022/220 rr. 5(2), 26A(6), 32A(6), 36(4) 28.7.2022
 
 EU Legislation/International Agreements involved: Directive 94/63/EC Directive 2009/126/EC
-
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18
 
 ARRANGEMENT OF RULES.
 
@@ -66,13 +54,7 @@ Rules for Loading or Discharge of Petroleum Spirit applicable to Petroleum Ships
 
 PART II – PROVISIONS RELATING TO GARAGES ONLY.
 
-21. Construction of garage.
-
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18 22. Entrance and ventilation. 23. Not more than three motor cars to be kept in unlicensed garage. 24. Not more than 100 litres of petrol to be kept in unlicensed garage. 25. Use of petrol.
+21. Construction of garage. 22. Entrance and ventilation. 23. Not more than three motor cars to be kept in unlicensed garage. 24. Not more than 100 litres of petrol to be kept in unlicensed garage. 25. Use of petrol.
 
 PART IIA – PROVISIONS RELATING TO STAGE II PETROL VAPOUR RECOVERY DURING REFUELLING OF MOTOR VEHICLES AT SERVICE STATIONS.
 
@@ -84,13 +66,9 @@ PART III. – GENERAL PROVISIONS.
 
 SCHEDULE 1.
 
-FORM A. Licence for the Storage of Petroleum in a Hulk or Lighter. FORM B. Licence to keep more than three motor cars in one garage. FORM C. Licence to store Petroleum Spirit in bulk. FORM D. Permit for a Perambulating Tank-Wagon or similar vehicle. FORM E. Licence to store motor fuel in a bulk at a terminal or storage installation. FORM F. Permit for a mobile container. FORM G. Permit for a motor car. FORM H. Permit for storage of 100 litres of petrol or less.
+FORM A. Licence for the Storage of Petroleum in a Hulk or Lighter. FORM B. Licence to keep more than three motor cars in one garage. FORM C. Licence to store Petroleum Spirit in bulk. FORM D. Permit for a Perambulating Tank-Wagon or similar vehicle. FORM E. Licence to store motor fuel in a bulk at a terminal or storage installation. FORM F. Permit for a mobile container. FORM G. Permit for a motor car.
 
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18
+FORM H. Permit for storage of 100 litres of petrol or less.
 
 SCHEDULE 2.
 
@@ -109,9 +87,3 @@ SCHEDULE 5.
 Requirements for design and operation of mobile containers.
 
 SCHEDULE 6
-
-Specifications for bottom-loading, vapour collection and overfill protection of European road tankers
-
-Petroleum PETROLEUM RULES
-
-1931-10

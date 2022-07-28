@@ -15,9 +15,3 @@ REQUIREMENTS FOR DESIGN AND OPERATION OF MOBILE CONTAINERS
 (a) existing mobile containers; and
 
 (b) new mobile containers, which come into operation during the period of four years beginning on 1st January 1996.
-
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18

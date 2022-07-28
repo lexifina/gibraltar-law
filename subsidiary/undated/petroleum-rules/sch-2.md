@@ -6,7 +6,7 @@ REQUIREMENTS FOR STORAGE INSTALLATIONS AT TERMINALS
 
 (2)  Sub-paragraph (1) above shall not apply to a tank which is linked to a vapour recovery unit which conforms with the requirements set out in paragraph 3 of Schedule 3 below.
 
-2.  Tanks with external floating roofs must be equipped with a primary seal to cover the annular space between the tank wall and the outer periphery of the floating roof and with a secondary seal fitted above the primary seal. The seals should be designed to achieve an overall containment of vapours of 95 per cent. or more as compared to a comparable fixed-roof tank with no vapour-containment controls (that is a fixed-roof tank with only vacuum/pressure relief valve).
+2.  Tanks with external floating roofs must be equipped with a primary seal to cover the annular space between the tank wall and the outer periphery of the floating roof and with a secondary seal fitted above the primary seal.  The seals should be designed to achieve an overall containment of vapours of 95 per cent. or more as compared to a comparable fixed-roof tank with no vapour-containment controls (that is a fixed-roof tank with only vacuum/pressure relief valve).
 
 3.  All new storage installations at terminals, where vapour recovery is required pursuant to article 4 of the directive and Schedule 3 below, must be–
 
@@ -18,18 +18,6 @@ REQUIREMENTS FOR STORAGE INSTALLATIONS AT TERMINALS
 
 (a) must be connected to a vapour-recovery unit in conformity with the requirements of Schedule 3 to these Rules; or
 
-(b) must have an internal floating roof with a primary seal which should be designed to achieve an overall containment of
-
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18 vapours of 90 per cent. or more in relation to a comparable fixed-roof tank with no vapour controls.
+(b) must have an internal floating roof with a primary seal which should be designed to achieve an overall containment of vapours of 90 per cent. or more in relation to a comparable fixed-roof tank with no vapour controls.
 
 5.  The requirements for vapour-containment controls mentioned in paragraphs 3 and 4 above do not apply to fixed-roof tanks at terminals where intermediate storage of vapours is permitted according to paragraph 1(2) of Schedule 3 below.
-
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18

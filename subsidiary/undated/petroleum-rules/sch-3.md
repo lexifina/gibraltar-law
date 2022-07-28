@@ -20,11 +20,7 @@ REQUIREMENTS FOR LOADING AND UNLOADING INSTALLATIONS
 
 (2)  Until 31st December 2004 the limit value of 35 g/Nm3 for any one our need not be required for vapour recovery units installed before 1st January 1993, provided that the installation meets a limit value of 50 g/Nm3 for any one hour measured in accordance with paragraph 4 below.
 
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18 4.  The monitoring and analysis of the mean concentration of vapours in the exhaust from the vapour recovery unit shall satisfy the following requirements–
+4.  The monitoring and analysis of the mean concentration of vapours in the exhaust from the vapour recovery unit shall satisfy the following requirements–
 
 (a) measurements must be made over the course of one full working day (seven hours minimum) of normal throughput;
 
@@ -39,9 +35,3 @@ Subsidiary 1932.01.18 4.  The monitoring and analysis of the mean concentration 
 (a) vapours displaced by the delivery of motor fuel in fixed-roof tanks used for the intermediate storage of vapours must be returned through a vapour-tight connection line to the mobile container delivering the motor fuel;
 
 (b) loading operations may not take place unless the arrangements are in place and properly functioning.
-
-Petroleum PETROLEUM RULES
-
-1931-10
-
-Subsidiary 1932.01.18
