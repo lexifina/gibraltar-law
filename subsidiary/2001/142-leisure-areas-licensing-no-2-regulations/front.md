@@ -1,16 +1,14 @@
-Leisure Areas (Licensing) LEISURE AREAS (LICENSING) (No. 2) REGULATIONS 2001
+Subsidiary Legislation made under s.32.
 
-Subsidiary 2001/142 2001-24 Regulations made under s.32.
+Leisure Areas (Licensing) (No.2) Regulations, 2001
 
-LEISURE AREAS (LICENSING) (No. 2) REGULATIONS,  2001
+LN.2001/142
 
-(LN.2001/142)
-
-11.12.2001
+Commencement 11.12.2001
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/402 Sch.1 12.11.2020
+LN.2020/402 Sch. 1 12.11.2020 2022/219 Sch. 1 28.7.2022
 
 ARRANGEMENT OF REGULATIONS
 
@@ -22,9 +20,7 @@ SCHEDULE 1. Fees
 
 SCHEDULE 2. Miscellaneous Forms
 
-Leisure Areas (Licensing) LEISURE AREAS (LICENSING) (No. 2) REGULATIONS 2001
-
-Subsidiary 2001/142 2001-24 Citation.
+Citation.
 
 1. These regulations may be cited as the Leisure Areas (Licensing) (No.2) Regulations, 2001.
 
@@ -40,10 +36,6 @@ Fees.
 
 4.  The fees payable on the grant or renewal of a licence under these Regulations are those set out in Schedule 1.
 
-Leisure Areas (Licensing) LEISURE AREAS (LICENSING) (No. 2) REGULATIONS 2001
-
-Subsidiary 2001/142 2001-24
-
 SCHEDULE 1
 
 Regulation 4
@@ -52,38 +44,34 @@ FEES
 
 licences for places of entertainment (reg.2) - - per annum
 
-£7.50
+£8.00
 
 liquor manufacturing licences (reg. 2)
 
-£40.00
+£43.00
 
 licences to sell food, drink or intoxicating liquor to be consumed off the premises (reg.2)
 
-£80.00
+£86.50
 
 licences to sell food, drink or intoxicating liquor to be consumed on the premises (reg.2) –
 
 - for any premises whose net annual value is rated from £501 to £1000
 
-£260.00
+£281.00
 
 - for any premises whose net annual value is rated from £1001 to £1500
 
-£320.00
+£345.50
 
 - for any premises whose net annual value is rated above £1501
 
-£400.00
+£432.00
 
 Licence to sell food, drink or intoxicating liquor for consumption in an external area (reg.6)
 
-£0.60 per
+£0.65 per
 
 square metre
-
-Leisure Areas (Licensing) LEISURE AREAS (LICENSING) (No. 2) REGULATIONS 2001
-
-Subsidiary 2001/142 2001-24
 
 SCHEDULE 2
