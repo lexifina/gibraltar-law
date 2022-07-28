@@ -1,26 +1,18 @@
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
+Subsidiary Legislation made under s.24(1) & (2).
 
-1997-34
+Tobacco Licensing (Forms, Fees, etc.) Regulations 1997
 
-Subsidiary 1997/146 Regulations made under section 24 (1) and (2) of the Tobacco Act 1997.
+LN.1997/146
 
-TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-(LN. 1997/146)
-
-27.11.1997
+Commencement 27.11.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/147 Corrigendum.
+LN. 1997/147 Corrigendum
 
-1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019 2020/216 r. 7(2)(d), (3)(f) 30.6.2020
+1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019 2020/216 r. 7(2)(d), (3)(f) 30.6.2020 2022/213 r. 7 28.7.2022
 
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -52,12 +44,6 @@ Form 2C: Long form retail licence
 
 Form 2C: Short form retail licence (for exhibition purposes only)
 
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146
-
 Form 3: Application for import permit
 
 Form 3 (For office use only) Import permit
@@ -74,11 +60,7 @@ Form 5B: Short form tobacco transportation licence
 
 Form 6: Renewal form.
 
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 Title.
+Title.
 
 1.  These Regulations may be cited as the Tobacco Licensing (Forms, Fees, etc.) Regulations 1997.
 
@@ -106,13 +88,7 @@ Applications for import permits.
 
 4.(1)  An application for an import permit under section 9 of the Act shall be made in Part I of form 3 in the Schedule hereto.
 
-(2)   An import permit under section 9 of the Act shall be granted in Part II of form 3 in the Schedule hereto.
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 Applications for export permits.
+(2)   An import permit under section 9 of the Act shall be granted in Part II of form 3 in the Schedule hereto. Applications for export permits.
 
 5.(1)  An application for an export permit under section 11 of the Act shall be made in Part I of form 4 in the Schedule hereto.
 
@@ -126,115 +102,111 @@ Applications for tobacco transportation licences.
 
 Fees.
 
-7.(1)  The fees payable to the Government on an application for a wholesale or retail licence shall be -
+7.(1)  The fees payable to the Government on an application for a wholesale or retail licence shall be–
 
-(a) an application by a  members club
+(a) an application by a members club
 
 for a retail licence
 
-- £100
+- £108
 
 (b) any other application for a retail licence
 
 for single premises
 
-- £5,000
+- £5400
 
 supplement for each additional premises
 
 to which the licence relates
 
-- £5,000
+- £5400
 
 (c) an application for a wholesale licence
 
 for single premises
 
-- £20,000
+- £21,600
 
 supplement for each additional premises
 
 to which the licence relates
 
-- £150
+- £162
 
 (d) an application for a wholesale licence
 
-under section 6(2) of the Act by
+under section 6(2) of the Act by a ship
 
-a ship agent or ship chandler
+agent or ship chandler
 
-- £10,000
+- £10,800
 
-(2)  The fees payable to the Government in relation to the other matters provided for by the Act shall be -
+(2)  The fees payable to the Government in relation to the other matters provided for by the Act shall be–
 
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
+(a) application for an import permit
 
-1997-34
-
-Subsidiary 1997/146 (a) application for an import permit
-
-- £1,000
+- £1,080
 
 (b) application for an export permit
 
-- £150
+- £162
 
-(c) application for a tobacco
+(c) application for a tobacco transportation
 
-transportation licence per vehicle:
+licence per vehicle
 
-- £250
+- £270
 
 (d) application for a tobacco products
 
-manufacturing licence:
+manufacturing licence
 
-£100,000
+- £108,000
 
 Provided that no fee shall be payable upon the application for a permit to import or export tobacco in transit.
 
-(3)  The fees payable to the Government upon annual renewal of licences shall be  -
+(3)  The fees payable to the Government upon annual renewal of licences shall be–
 
 (a) a members club retail licence
 
-_           £25
+- £27
 
 (b) any other retail licence
 
-_ £200 supplement for each additional
+- £216
 
-premises to which the licence
+supplement for each additional premises
 
-relates
+to which the licence relates
 
-_ £5,000
+- £5,400
 
 (c) a wholesale licence
 
-_         £10,000
+- £10,800
 
-supplement for each additional
+supplement for each additional premises
 
-premises to which the licence
+to which the licence relates
 
-relates
-
-- £50
+- £54
 
 (d) a wholesale licence under section 6(2)
 
-of the Act by a ship agent
+of the Act by a ship agent or ship
 
-or ship chandler
+chandler
 
-- £5,000
+- £5,400
 
 (e) a tobacco transportation licence
 
--           £250 per vehicle
+per vehicle
 
-(f) tobacco products manufacturing licence: - £50,000
+- £270
+
+(f) tobacco products manufacturing licence - £54,000
 
 New licence applications from existing licencees.
 
@@ -242,19 +214,11 @@ New licence applications from existing licencees.
 
 (a) whose licence is current; and
 
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 (b) who is able to lawfully certify that there have been no changes to the information submitted in his application for that licence,
+(b) who is able to lawfully certify that there have been no changes to the information submitted in his application for that licence,
 
 may apply for a new licence of the same kind in Form 6 of the Schedule.
 
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 SCHEDULE Regulations 2, 3, 4, 5, 6 and 7
+SCHEDULE Regulations 2, 3, 4, 5, 6 and 7
 
 FORMS
 
@@ -263,443 +227,3 @@ FORM 1A
 TOBACCO ACT 1997
 
 TOBACCO LICENSING (FORMS, FEES, ETC) REGULATIONS 1997
-
-APPLICATION FOR A WHOLESALE LICENCE BY AN INDIVIDUAL OR PARTNERSHIP Regulation 2 (1)
-
-To:  The Collector of Customs*
-
-1.  Full name(s) of applicant(s):
-
-1st applicant.........................................
-
-2nd applicant.......................................
-
-3rd applicant........................................
-
-4th applicant........................................
-
-5th applicant........................................
-
-6th applicant........................................
-
-2. Nationality of applicant(s):
-
-1st applicant.........................................
-
-2nd applicant.......................................
-
-3rd applicant........................................
-
-4th applicant........................................
-
-5th applicant........................................
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 6th applicant........................................
-
-3. Address of applicant(s):
-
-1st applicant.........................................
-
-2nd applicant.......................................
-
-3rd applicant........................................
-
-4th applicant........................................
-
-5th applicant........................................
-
-6th applicant........................................
-
-4. Date of birth of applicant(s):
-
-1st applicant.........................................
-
-2nd applicant.......................................
-
-3rd applicant........................................
-
-4th applicant........................................
-
-5th applicant........................................
-
-6th applicant........................................
-
-5. Home telephone number of applicant(s):
-
-1st applicant.........................................
-
-2nd applicant.......................................
-
-3rd applicant........................................
-
-4th applicant........................................
-
-5th applicant........................................
-
-6th applicant........................................
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 6. Business details;
-
-Business name.....................................
-
-Telephone number...............................
-
-Address(es) to which the application relates (being the commercial  premises at which any trading activity authorised by a wholesale licence would be carried out including, where different, the commercial premises at which tobacco is to be stored):
-
-1st address........................................
-
-Address used for storage/wholesale trading**
-
-2nd address........................................
-
-Address used for storage/wholesale trading**
-
-3rd address........................................
-
-Address used for storage/wholesale trading**
-
-4th address........................................
-
-Address used for storage/wholesale trading**
-
-5th address........................................
-
-Address used for storage/wholesale trading**
-
-6th address........................................
-
-Address used for storage/wholesale trading**
-
-7. I/we declare that I/we have not at any time been convicted of any offence contrary to the Tobacco Act 1997 or any one or more of the following enactments, namely -
-
-(a) The Imports and Exports Act, 1986;
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 (b) the Fast Launches (Control) Act, 1987;
-
-(c) The Port Act or the Port Rules;
-
-(d) The Drugs (Misuse) Act;
-
-(e) The Drug Trafficking Offences Act, 1995;
-
-(f) The Criminal Justice Act, 1995.
-
-8. Address specified under section 6(3) of the Act at which all documents required to be kept under the Act shall be kept and shall be available for inspection -
-
-9. I/we attach a copy of a licence issued to the applicant(s)*** hereunder under the Trade Licensing Act extending to the wholesale of tobacco.
-
-DECLARATION:
-
-I/we hereby apply to the Collector of Customs for a wholesale licence under Part II of the Tobacco Act 1997 and declare that the information given above is true to the best of my/our knowledge and belief.
-
-SIGNATURE(S):
-
-This application must be individually signed and dated by each applicant. Where the application is by a partnership, each partner must sign and date the application.
-
-1st applicant......................................
-
-Signature...........................................
-
-Date...................................................
-
-2nd applicant......................................
-
-Signature............................................
-
-Date....................................................
-
-3rd applicant.......................................
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 Signature............................................
-
-Date.....................................................
-
-4th applicant......................................
-
-Signature...........................................
-
-Date...................................................
-
-5th applicant......................................
-
-Signature............................................
-
-Date....................................................
-
-6th applicant.......................................
-
-Signature............................................
-
-Date.....................................................
-
-WARNING:  IT IS AN OFFENCE KNOWINGLY TO GIVE FALSE INFORMATION IN CONNECTION WITH AN APPLICATION FOR A WHOLESALE LICENCE OR TO MAKE A FALSE ENTRY ON THIS APPLICATION FORM.
-
-* Please continue your application on another sheet in necessary,
-
-and attach it securely to this form.
-
-** Delete as necessary.
-
-*** Please include a valid Trade Licence(s) with respect to each
-
-applicant.
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 FORM 1B
-
-TOBACCO ACT 1997
-
-TOBACCO LICENSING (FORMS, FEES, ETC) REGULATIONS 1997
-
-APPLICATION FOR A WHOLESALE LICENCE BY A BODY CORPORATE Regulation 2 (2)
-
-To:  The Collector of Customs*
-
-1. Full name of company:
-
-2. Date of incorporation:
-
-3. Registered number:
-
-4. Registered office of company:
-
-5. Issued share capital:
-
-6. Telephone number of the company’s
-
-principal place of business:
-
-7.  Full name(s) of each of the directors of the company:
-
-1st director.........................................
-
-2nd director.......................................
-
-3rd director........................................
-
-4th director........................................
-
-5th director........................................
-
-6th director........................................
-
-8. Business name(s) under which the company trades:
-
-Business name.................................
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 Business name.................................
-
-Business name.................................
-
-9. Business details;
-
-Address(es) to which the application relates (being the commercial  premises at which any trading activity authorised by a wholesale licence would be carried out including, where different, the commercial premises at which tobacco is to be stored):
-
-1st address........................................
-
-Address used for storage/wholesale trading**
-
-2nd address........................................
-
-Address used for storage/ wholesale trading**
-
-3rd address........................................
-
-Address used for storage/ wholesale trading**
-
-4th address........................................
-
-Address used for storage/wholesale trading**
-
-5th address........................................
-
-Address used for storage/wholesale trading**
-
-6th address........................................
-
-Address used for storage/wholesale trading**
-
-10.  Details of shareholders:
-
-1st shareholder -
-
-Name:
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 Residential address:
-
-Nationality:
-
-Number of shares held:***
-
-2nd shareholder -
-
-Name:
-
-Residential address:
-
-Nationality:
-
-Number of shares held:***
-
-3rd shareholder -
-
-Name:
-
-Residential address:
-
-Nationality:
-
-Number of shares held:***
-
-4th shareholder -
-
-Name:
-
-Residential address:
-
-Nationality:
-
-Number of shares held:***
-
-5th shareholder -
-
-Name:
-
-Residential address:
-
-Nationality:
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 Number of shares held:***
-
-6th shareholder -
-
-Name:
-
-Residential address:
-
-Nationality:
-
-Number of shares held:***
-
-11.  We declare that none of the directors, nor any legal or beneficial shareholders, directly or indirectly holding or controlling at least ten percent of the issued share capital of the company have, at any time, been convicted of any offence contrary to the Tobacco Act 1997 or any one or more of the following enactments, namely -
-
-(a) The Imports and Exports Act 1986;
-
-(b) The Fast Launches (Control) Act 1987;
-
-(c) The Port Act and the Port Rules;
-
-(d) The Drugs (Misuse) Act;
-
-(e) The Drug Trafficking Offences Act, 1995;
-
-(f) The Criminal Justice Act 1995.
-
-12.  Address specified under section 6(3) of the Act at which all documents required to be kept under the Act shall be kept and shall be available for inspection:
-
-13.  We attach a copy of the licence issued to the company under the Trade Licensing Act, extending to wholesaling of tobacco.
-
-DECLARATION:
-
-We hereby apply to the Collector of Customs for a wholesale licence under Part II of the Tobacco Act 1997 and declare that the information given above is true to the best of our knowledge and belief.
-
-SIGNATURE(S):
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146
-
-This application must be individually signed and dated by each director of the applicant company. 1st director......................................
-
-Signature...........................................
-
-Date...................................................
-
-2nd director......................................
-
-Signature............................................
-
-Date....................................................
-
-3rd director.......................................
-
-Signature............................................
-
-Date.....................................................
-
-4th director......................................
-
-Signature...........................................
-
-Date...................................................
-
-5th director......................................
-
-Signature............................................
-
-Date....................................................
-
-6th director.......................................
-
-Signature............................................
-
-Date.....................................................
-
-WARNING:  IT IS AN OFFENCE KNOWINGLY TO GIVE FALSE INFORMATION IN CONNECTION WITH AN APPLICATION FOR A WHOLESALE LICENCE OR TO MAKE A FALSE ENTRY ON THIS APPLICATION FORM.
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 * Please continue on another sheet if necessary, and attach it securely to this form.
-
-**Delete as necessary.
-
-***(1)  Where shares are held by nominees or trustees, the identity of the ultimate beneficial owner must be disclosed, failing which the nominee or trustee shall be deemed to be the beneficial owner for all the purposes of the Act.
-
-(2)  No additional shares in the company may be issued and no shares may be transferred without the consent of the Collector of Customs, unless the company has sought and obtained from the Collector in writing an exemption from these conditions.
-
-Tobacco TOBACCO LICENSING (FORMS, FEES, ETC.) REGULATIONS 1997
-
-1997-34
-
-Subsidiary 1997/146 FORM 1C
-
-TOBACCO ACT 1997
-
-TOBACCO LICENSING (FORMS, FEES, ETC) REGULATIONS 1997
-
-APPLICATION FOR A WHOLESALE LICENCE BY A SHIP AGENT OR SHIP CHANDLER
