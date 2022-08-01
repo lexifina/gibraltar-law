@@ -1,8 +1,4 @@
-Licensing and Fees
-
-1961-29
-
-LICENSING AND FEES ACT
+Licensing and Fees Act
 
 Principal Act
 
@@ -10,17 +6,27 @@ Act. No. 1961-29 Commencement 1.1.1962
 
 Assent 28.12.1961
 
-Amending enactments Relevant current provisions Commencement date Notices of 30.10 1962 7.11.1963 Act. 1965-01 ss.48 and 49 1965-22 ss.2 and 28 1966-21 ss.33A and 36 Notices of 23.12.1966 3.5.1967 29.12.1967 26.8.1968 LNs. 1971/08 Sch.2 1971/040 – 1971/078 Sch.2 1971/091 Corrigendum 1972/034 Sch.1 1972/041 – Act. 1973-11 Sch.2, Item 1 and 8 LN. 1974/114 – 1975/013 – 1975/014 – 1975/047 Sch.2 1975/065 – Act. 1975-33 ss.2, 7(4) and (5), 8, 11, 15 16, 23(1), 28, 36, 36A and Sch. 1976-28 – LN. 1977/024 – 1977/135 Sch.2 1977/165 Sch.2 1978/066 Sch.2 1978/112 – 1979/019 Sch.2 Act. 1979-05 Sch.1 LN. 1979/088 Sch.2 1979/089 – 1980/036 Sch. 1980/121 –
+Amending enactments Relevant current provisions Commencement date
 
-Licensing and Fees
+Notices of 30.10.1962
 
-1961-29 Act. 1980-21 s.29A 1981-05 Sch.2 LN. 1981/122 Sch.2 1982/063 – 1982/083 Sch.2 1982/110 Sch.2 Act. 1983-11 ss.2, 29B, 29C and Sch.1 LN. 1983/111 Sch.1 and 2 1984/061 Sch. 2 5.7.1984 1985/041 Sch. 2 1.4.1985 Act. 1985-14 Sch. 2 26.4.1985 LN. 1986/073 Sch. 2 17.7.1986 Act. 1986-08 Sch. 2 1.11.1986 LN. 1986/132 Sch. 2 23.12.1986 1986/109 Sch. 1 1.1.1987 1987/069 Sch. 2 1.4.1987 Act. 1987-16 Sch. 2 1.5.1987 LN. 1987/110 Sch. 2 16.7.1987 1987/175 Sch. 2 31.12.1987 1988/121 Sch. 2 1.4.1989 Act. 1989-09 s. 36, Sch. 1 & Sch. 2 1.4.1989 LN. 1989/062 Sch. 2 10.8.1989 Act. 1990-32 s. 37 1.11.1990 1991-22 ss. 22, 27, 29A, 30, 33, 34, 36, 37, 39, 40, 41, 42, 44, 46, 52. Sch. 1 and 2. 1.11.1991 1992-14 ss. 44(1) 24.12.1992 LN. 1995/031 Sch. 9.3.1995 Act. 1997-34 ss. 25 and 26 13.11.1997 1998-34 Sch. 1.4.1998 “ Sch. 1.7.1998 1998-40 Sch. 20.8.1998 LN. 2005/056 Sch. 1.4.2005 Act. 2013-10 ss. 2, 3(1), (2), (3), 4, 6, 7(1)(b), (2), 11, 19, 21(1), (2), (3), 24, 27(2)(a), 29(4), 30, 31(2), 32, 35(1), (2), 36, 39, 40, 51, 52 & Sch. 30.5.2013 LN. 2019/177 Sch. 2.7.2018 “ Sch. 1.9.2019
+7.11.1963
 
-Licensing and Fees
+Act. 1965-01 ss. 48-49 1965-22 ss. 2, 28 1966-21 ss. 33A, 36 Notices of 23.12.1966
 
-1961-29 ARRANGEMENT OF SECTIONS.
+3.5.1967
 
-Section.
+29.12.1967
+
+26.8.1968
+
+1971/08 Sch. 2 LN. 1971/040 – 1971/078 Sch. 2 1971/091 Corrigendum 1972/034 Sch. 1 1972/041 – Act. 1973-11 Sch. 2, Item 1 and 8 LN. 1974/114 – 1975/013 – 1975/014 – 1975/047 Sch. 2 1975/065 – Act. 1975-33 ss. 2, 7(4)-(5), 8, 11, 15-16, 23(1), 28, 36, 36A, Sch. 1976-28 – LN. 1977/024 – 1977/135 Sch. 2 1977/165 Sch. 2 1978/066 Sch. 2 1978/112 – 1979/019 Sch. 2 Act. 1979-05 Sch. 1 LN. 1979/088 Sch. 2 1979/089 – 1980/036 Sch. 1980/121 –
+
+Act. 1980-21 s. 29A 1981-05 Sch. 2 LN. 1981/122 Sch. 2 1982/063 – 1982/083 Sch. 2 1982/110 Sch. 2 Act. 1983-11 ss. 2, 29B-29C, Sch.1 LN. 1983/111 Sch. 1-2 1984/061 Sch. 2 5.7.1984 1985/041 Sch. 2 1.4.1985 Act. 1985-14 Sch. 2 26.4.1985 LN. 1986/073 Sch. 2 17.7.1986 Act. 1986-08 Sch. 2 1.11.1986 LN. 1986/132 Sch. 2 23.12.1986 1986/109 Sch. 1 1.1.1987 1987/069 Sch. 2 1.4.1987 Act. 1987-16 Sch. 2 1.5.1987 LN. 1987/110 Sch. 2 16.7.1987 1987/175 Sch. 2 31.12.1987 1988/121 Sch. 2 1.4.1989 Act. 1989-09 s. 36, Sch. 1-2 1.4.1989 LN. 1989/062 Sch. 2 10.8.1989 Act. 1990-32 s. 37 1.11.1990 1991-22 ss. 22, 27, 29A, 30, 33-34, 36-37, 39-42, 44, 46, 52. Sch. 1-2. 1.11.1991 1992-14 ss. 44(1) 24.12.1992 LN. 1995/031 Sch. 9.3.1995 Act. 1997-34 ss. 25-26 13.11.1997 1998-34 Sch. 1.4.1998 “ Sch. 1.7.1998 1998-40 Sch. 20.8.1998 LN. 2005/056 Sch. 1.4.2005 Act. 2013-10 ss. 2, 3(1)-(3), 4, 6, 7(1)(b), (2), 11, 19, 21(1)- (3), 24, 27(2)(a), 29(4), 30, 31(2), 32, 35(1)- (2), 36, 39-40, 51-52, Sch. 30.5.2013 LN. 2019/177 Sch. 2.7.2018 “ Sch. 1.9.2019 2022/223 Sch. 1.8.2022
+
+ARRANGEMENT OF SECTIONS
+
+Section
 
 1. Short title. 2. Interpretation.
 
@@ -36,11 +42,7 @@ PART III –LICENCES OTHER THAN INTOXICATING LIQUOR LICENCES.
 
 25. Revoked. 26. Revoked. 27. Auctioneers’ licences, bonds and charges. 28. Licences for brokers, bakers, guides and porters. 29. Licences for vessels not licensed under Port Rules. 29A.  Licences for amusement machines.
 
-PART IV.–TRANSFER, DURATION, CONDITIONS AND
-
-Licensing and Fees
-
-1961-29 CANCELLATION OF LICENCES.
+PART IV.–TRANSFER, DURATION, CONDITIONS AND CANCELLATION OF LICENCES.
 
 30. Transfer of licences. 31. Procedure on death of licensee. 32. Refund of part of licence fee upon surrender of licence. 33. Duration of licences. 33A.  Period covered by annual licences. 34. Conditions of licences. 35. Cancellation of licences.
 
@@ -58,6 +60,4 @@ PART VII. –MISCELLANEOUS.
 
 SCHEDULE Matters in respect of which fees and charges may be prescribed.
 
-Licensing and Fees
-
-1961-29 AN ACT TO AMEND AND CONSOLIDATE THE LAW RELATING TO LICENSING AND THE IMPOSITION OF VARIOUS FEES AND CHARGES AND FOR MATTERS CONNECTED THEREWITH.
+AN ACT TO AMEND AND CONSOLIDATE THE LAW RELATING TO LICENSING AND THE IMPOSITION OF VARIOUS FEES AND CHARGES AND FOR MATTERS CONNECTED THEREWITH.
