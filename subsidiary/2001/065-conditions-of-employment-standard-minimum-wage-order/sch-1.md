@@ -6,8 +6,8 @@ Standard Minimum Remuneration Rates
 
 Age 15 and over
 
-Amount Relevant calculation Hourly Remuneration £7.50
+Amount Relevant calculation Hourly Remuneration £8.10
 
-Weekly Remuneration £292.50 hourly remuneration x 39
+Weekly Remuneration £315.90 hourly remuneration x 39
 
-Monthly Remuneration £1267.50 (weekly remuneration x 52) ÷ 12
+Monthly Remuneration £1368.90 (weekly remuneration x 52) ÷ 12
