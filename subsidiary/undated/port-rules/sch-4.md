@@ -406,9 +406,9 @@ Overland containers unloading at Port
 
 £50 Issue of what is commonly known as a Suez Canal Certificate
 
-£250 Pratique certificates for Yachts
+£500 Pratique certificates for Yachts
 
-£250 Issue of harbour craft passenger certificates
+£500 Issue of harbour craft passenger certificates
 
 £100 Petroleum Licence
 
@@ -440,9 +440,7 @@ Port PORT RULES
 
 1960-16
 
-Subsidiary 1960.08.11 (ii) A 25% discount shall apply to yachts whose main purpose of call is bunkers, and depart within 24 hours.
-
-Discounts for visits of more than 4 days shall also apply on a case by case basis
+Subsidiary 1960.08.11 (ii) Deleted Discounts for visits of more than 4 days shall also apply on a case by case basis
 
 (i) 5 to 7 days @ 2%.
 
