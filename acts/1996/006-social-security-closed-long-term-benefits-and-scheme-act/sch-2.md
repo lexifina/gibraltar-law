@@ -14,7 +14,7 @@ SURVIVOR’S BENEFIT
 
 (b) the yearly average of the contributions paid by or credited to the husband, wife or civil partner as the case may be (ascertained at the relevant time) is not less than forty-five.
 
-(2) In this paragraph the expression “relevant time” means the date of the husband or wife as the case may be attaining pensionable age or dying under that age.
+(2)  In this paragraph the expression “relevant time” means the date of the husband or wife as the case may be attaining pensionable age or dying under that age.
 
 GUARDIAN’S ALLOWANCE
 
@@ -28,13 +28,9 @@ GUARDIAN’S ALLOWANCE
 
 (ii) the yearly average number of contributions paid by or credited to that person (ascertained at the relevant time) is not less than thirteen.
 
-(2) In this paragraph “relevant time” means the date of the death of the last surviving parent.
+(2)  In this paragraph “relevant time” means the date of the death of the last surviving parent.
 
 OLD AGE PENSION
-
-Social Security (Closed Long-Term Benefits and Scheme)
-
-1996-06
 
 3.(1) The contribution conditions for old age pension are that–
 
@@ -63,7 +59,3 @@ not less than 104 (b) Guardian’s allowance  ....................
 not less than 26 (c) Old age pensions.............................
 
 not less than 104
-
-Social Security (Closed Long-Term Benefits and Scheme)
-
-1996-06
