@@ -26,14 +26,6 @@ Provided that any member may by notice in writing to the Government resign offic
 
 6. There may be paid as part of the expenses of the Committee to persons attending its meetings at the request of the Committee such allowances (including compensation for loss of remunerative time) as may be prescribed.
 
-Social Security (Insurance)
-
-1955-14
-
 7. The Committee may act notwithstanding any vacancy among the members of the Committee.
 
 8. The Committee may make rules for regulating the procedure (including the quorum) of the Committee.
-
-Social Security (Insurance)
-
-1955-14

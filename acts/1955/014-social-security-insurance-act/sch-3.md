@@ -8,7 +8,7 @@ CONTRIBUTION CONDITIONS.
 
 MATERNITY GRANT.
 
-1. (1)  The contribution conditions for maternity grant are that–
+1.(1)  The contribution conditions for maternity grant are that–
 
 (a)  not less than fifty-two contributions have been paid by the relevant person in respect of the period beginning with that person’s entry into insurance and ending immediately before the relevant time; and
 
@@ -22,21 +22,17 @@ MATERNITY GRANT.
 
 WIDOW’S BENEFIT OR WIDOWER’S PENSION.
 
-2. (1)  omitted.
+2. Omitted.
 
 GUARDIAN’S ALLOWANCE.
 
-3. (1)  omitted.
+3. Omitted.
 
 OLD AGE PENSION.
 
-4. (1)  omitted.
+4. Omitted.
 
 DEATH GRANT.
-
-Social Security (Insurance)
-
-1955-14
 
 5. (1)  The contribution conditions for death grant are that–
 
@@ -60,14 +56,8 @@ ADDITIONAL CONTRIBUTION CONDITIONS.
 
 Benefits at the rate specified in Part IV of Schedule 2 shall be payable if the contributions which satisfy the contribution conditions specified in Part I of this Schedule includes contributions paid after the 1st day of January 1968 as follows-
 
-(a) Maternity grant
-
-not less than 52.
+(a) Maternity grant not less than 52.
 
 (b) Death grant
 
 not less than 45.
-
-Social Security (Insurance)
-
-1955-14
