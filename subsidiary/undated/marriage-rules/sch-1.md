@@ -28,8 +28,6 @@ Witness by my hand at Gibraltar this day of
 
 (Signature of one of the parties).
 
-Marriage 1948-36 Marriage Rules 1948.03.11
-
 NOTICE OF MARRIAGE Section 8.
 
 To *
@@ -59,8 +57,6 @@ Witness by my hand at Gibraltar this day of
 , 20
 
 (Signature of one of the parties).
-
-1948-36 Marriage 1948.03.11 Marriage Rules
 
 REGISTRAR’S CERTIFICATE
 
@@ -108,8 +104,6 @@ And that–
 
 (a) no necessary consent is lacking; and
 
-Marriage 1948-36 Marriage Rules 1948.03.11
-
 (b) no lawful impediment to the marriage has been shown to the Registrar to exist.
 
 Witness by my hand at Gibraltar this day of
@@ -124,8 +118,6 @@ day of
 
 , 20      .
 
-1948-36 Marriage 1948.03.11 Marriage Rules
-
 SPECIAL LICENCE FOR MARRIAGE
 
 Section 13 City of Gibraltar (l.3)
@@ -136,7 +128,9 @@ Whereas under provisions of section 13 of the Marriage Act, the Minister is auth
 
 And Whereas the Minister is satisfied that the said requirements have been fulfilled in regard to the intended marriage of the parties in the Schedule hereto named and described:
 
-These are therefore to grant to the said parties special licence to proceed in due form of law to contract or solemnize such marriage at (1) between the hours of (2)       (or  at any hour) on any day within but not after a period of three months from  the date of the issue hereof.
+These are therefore to grant to the said parties special licence to proceed in due form of law to contract or solemnize such marriage at (1)
+
+between the hours of (2)       (or  at any hour) on any day within but not after a period of three months from  the date of the issue hereof.
 
 Dated the
 

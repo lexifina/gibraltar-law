@@ -8,8 +8,6 @@ This licence expires on the day of
 
 (1) Place. (2) Limit of time, if any.
 
-Marriage 1948-36 Marriage Rules 1948.03.11
-
 Section 23(1)
 
 MARRIAGE ACT
@@ -32,8 +30,6 @@ In the presence of  {
 
 {
 
-1948-36 Marriage 1948.03.11 Marriage Rules
-
 MARRIAGE ACT
 
 Section 23(3) Registrar’s Marriage Register Book.
@@ -55,5 +51,3 @@ in the presence of
 (
 
 )
-
-Marriage 1948-36 Marriage Rules 1948.03.11
