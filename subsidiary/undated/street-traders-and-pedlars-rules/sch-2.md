@@ -30,8 +30,4 @@ Signature of Applicant. . . . . . . . . . . . . . . .
 
 To
 
-Markets, Street Traders and Pedlars STREET TRADERS AND PEDLARS RULES
-
-1953-13
-
-Subsidiary 1960.12.20 The Chief Environmental Health Officer, Gibraltar.
+The Chief Environmental Health Officer, Gibraltar.

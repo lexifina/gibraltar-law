@@ -1,34 +1,26 @@
-Markets, Street Traders and Pedlars STREET TRADERS AND PEDLARS RULES
+Subsidiary Legislation made under s.15.
 
-1953-13
+Street Traders and Pedlars Rules
 
-Subsidiary 1960.12.20 Rules made under s.15.
+1960.12.20
 
-STREET TRADERS AND PEDLARS RULES
-
-(1960.12.20)
-
-1.3.1963
+Commencement 1.3.1963
 
 Amending enactments Relevant current provisions Commencement date
 
-Regs. of 28.5.1970 rr.6, 8, 17, 18 and 22
+Regs. of 28.5.1970 rr. 6, 8, 17-18, 22
 
-LN. 1974/045 rr.6(3) and 11 and Sch.1
+LN. 1974/045 rr. 6(3), 11, Sch. 1
 
-1980/085 Sch.1
+1980/085 Sch. 1
 
-1981/064 r.7
+1981/064 r. 7
 
-1985/064 Sch. 1 1.7.1985 2005/057 Sch. 1 1.4.2005 2018/191 rr. 2, 5, 6(1), (2), 6A, 7, 8, 14(1), 22, 25, Sch. 1 & 2
+1985/064 Sch. 1 1.7.1985 2005/057 Sch. 1 1.4.2005 2018/191 rr. 2, 5, 6(1), (2), 6A, 7-8, 14(1), 22, 25, Sch. 1-2
 
-13.9.2018
+13.9.2018 2022/226 rr. 6A(4), 7, Sch. 1 4.8.2022
 
-Markets, Street Traders and Pedlars STREET TRADERS AND PEDLARS RULES
-
-1953-13
-
-Subsidiary 1960.12.20 ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES.
 
 Rule
 
@@ -39,7 +31,3 @@ SCHEDULE 1.
 Categories of street traders.
 
 SCHEDULE 2.
-
-Application for a licence under the Street Traders and Pedlars Rules.
-
-Markets, Street Traders and Pedlars STREET TRADERS AND PEDLARS RULES
