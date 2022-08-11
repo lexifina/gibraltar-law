@@ -1,30 +1,18 @@
-Public Finance (Control and Audit) PROCUREMENT (CONCESSION CONTRACTS) REGULATIONS 2016
+Subsidiary Legislation made under s.75.
 
-1977-09
+Procurement (Concession Contracts) Regulations 2016
 
-Subsidiary 2016/086
-
-Subsidiary Legislation made under s. 75 of the Public Finance (Control and Audit) Act and s. 23(g)(i) of the Interpretation and General Clauses Act.
-
-PROCUREMENT (CONCESSION CONTRACTS) REGULATIONS 2016
-
-(LN. 2016/086)
+LN.2016/086
 
 Commencement 18.4.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/452 rr. 2(1), 4(2), (7)-(10), 8(1)- (2), (4), 9(2)-(3), (5)(a), (6)(a), 11(a)-(b), (g), 12, 13(d)(i), (aa), (bb), (ii)(bb), (13A), (15), 12(5)(a)-(b), 14, 16(1)(c), (2), (4)(c), 19(5), 20(1)-(2), (6)(a), (8), 21(6), 22(1), (5)(a), (7), 24(1), 29(2)(a), (5)(a), 30(1)-(4), 31(1)-(5), 32(1), 36(15)(a), 37(3), 41(3)-(4), 42(a)-(c), 43(5)(a), 46(1)(b), (2), 50(3), 56(2), (3)(a)-(c), (4), (c) 1.1.2021 2021/029 s. 47 1.1.2021 2021/228 rr. 5(2)(b)(i), (c), 9(4), (7) 1.1.2021
+LN.2020/452 rr. 2(1), 4(2), (7)-(10), 8(1)-(2), (4), 9(2)-(3), (5)(a), (6)(a), 11(a)-(b), (g), 12, 13(d)(i), (aa), (bb), (ii)(bb), (13A), (15), 12(5)(a)-(b), 14, 16(1)(c), (2), (4)(c), 19(5), 20(1)-(2), (6)(a), (8), 21(6), 22(1), (5)(a), (7), 24(1), 29(2)(a), (5)(a), 30(1)-(4), 31(1)-(5), 32(1), 36(15)(a), 37(3), 41(3)-(4), 42(a)-(c), 43(5)(a), 46(1)(b), (2), 50(3), 56(2), (3)(a)-(c), (4), (c) 1.1.2021 2021/029 r. 47 1.1.2021 2021/228 rr. 5(2)(b)(i), (c), 9(4), (7) 1.1.2021 2022/239 r. 8(1) 11.8.2022
 
 Transposing: Directive 2014/23/EU
 
-_______________________
-
-Public Finance (Control and Audit) PROCUREMENT (CONCESSION CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/086 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -42,13 +30,9 @@ Subchapter 2 Exclusions
 
 Subchapter 3 General Provisions
 
-17. Duration of the concession contract. 18. Social and other specific services. 19. Mixed contracts. 20. Mixed procurement contracts involving defence or security aspects. 21. Contracts covering both activities listed in Annex II to the Concessions Directive and other activities.
+17. Duration of the concession contract. 18. Social and other specific services. 19. Mixed contracts. 20. Mixed procurement contracts involving defence or security aspects.
 
-Public Finance (Control and Audit) PROCUREMENT (CONCESSION CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/086 22. Contracts covering both activities listed in Annex II to the Concessions Directive and activities involving defence or security aspects.
+21. Contracts covering both activities listed in Annex II to the Concessions Directive and other activities. 22. Contracts covering both activities listed in Annex II to the Concessions Directive and activities involving defence or security aspects.
 
 Subchapter 4 Specific Situations
 
@@ -68,15 +52,11 @@ Chapter 2 Procedural guarantees
 
 34. Technical and functional requirements. 35. Procedural guarantees. 36. Selection of and qualitative assessment of candidates. 37. Time limits for receipt of applications and tenders for the concession contract. 38. Informing candidates and tenderers. 39. Award criteria.
 
-PART 3 RULES ON THE PERFORMANCE OF CONCESSION CONTRACTS
+PART 3
 
-40. Subcontracting.
+RULES ON THE PERFORMANCE OF CONCESSION CONTRACTS
 
-Public Finance (Control and Audit) PROCUREMENT (CONCESSION CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/086 41. Modification of concession contracts during their term. 42. Termination of concession contracts.
+40. Subcontracting. 41. Modification of concession contracts during their term. 42. Termination of concession contracts.
 
 PART 4 REMEDIES
 
@@ -91,12 +71,6 @@ Chapter 2 Application to the court
 PART 5 TRANSITIONAL PROVISIONS
 
 61. General transitional provisions.
-
-Public Finance (Control and Audit) PROCUREMENT (CONCESSION CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/086
 
 In exercise of the powers conferred on him by section 75 of the Public Finance (Control and Audit) Act and section 23(g)(i) of the Interpretation and General Clauses Act, and of all other enabling powers, and for the purpose of transposing into the law of Gibraltar Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014, on the award of concession contracts, the Minister has made the following Regulations−
 
