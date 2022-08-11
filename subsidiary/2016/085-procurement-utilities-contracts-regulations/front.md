@@ -1,30 +1,20 @@
-Public Finance (Control and Audit) PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
+Subsidiary Legislation made under s.75.
 
-1977-09
+Procurement (Utilities Contracts) Regulations 2016
 
-Subsidiary 2016/085 Subsidiary Legislation made under s. 75 of the Public Finance (Control and Audit) Act 1977 and s. 23(g)(i) of the Interpretation and General Clauses Act.
-
-PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
-
-(LN. 2016/085)
+LN.2016/085
 
 Commencement 18.4.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2016/185 r. 112(4)(b) 15.9.2016 2017/130 rr. 2, 38(16)(c), (i)(cc), (ii) 29.6.2017 2020/453 rr. 2(1), 4(4)-(7), 6(3), 7(3), 16(1)(a)- (c), 17(6), (13), 18(2), 19(1)(b), (2), 20(1)(a), (2), (6), 21(1)(c)(i), (aa), (bb), (ii)(bb), (vi), 22, 24(2)(a), 25(1), (5)(a), (8), 26(4)(b), (6), 27(1)(a)-(b), (2), 28(1)(c), (2), (4)(c), 29(5)(a)-(b), 31, 34, 36(1), 38(15)(a)(i), (16)(c), (20), (b), 42(1), 43(2), (4)(a)-(b), (5), 44(2)(a), 47(5), 50(8)(a), (26), (26A), 55, 58(5), (7), 65(1), (2)(a), (3), (4)(c)- (d), 66(1), (1A), (3), (a), 67, 68(1)-(2), (4), (5)(a)-(b), (6), 69(1)-(6), 70, 71(1), 74(6), 79(2), (4)(a)-(c), (6), 81(4)(c), (5)-(6), 82(2)(f), (6)-(7), 83(1), (6), 85(5), 86(2)-(3), 87(c), 89(4)-(6), 92(2)(a)-(b), (3)(a), (c), 93(2), 95(1)(a)-(b), (2), 96(4), (10)- (11), 97-98, 102, (1)(b), (2), 106(3), 112(2), (3)(b)-(c), 4(a)(iii), (b)
+LN. 2016/185 r. 112(4)(b) 15.9.2016 2017/130 rr. 2, 38(16)(c), (i)(cc), (ii) 29.6.2017 2020/453 rr. 2(1), 4(4)-(7), 6(3), 7(3), 16(1)(a)-(c), 17(6), (13), 18(2), 19(1)(b), (2), 20(1)(a), (2), (6), 21(1)(c)(i), (aa), (bb), (ii)(bb), (vi), 22, 24(2)(a), 25(1), (5)(a), (8), 26(4)(b), (6), 27(1)(a)-(b), (2), 28(1)(c), (2), (4)(c), 29(5)(a)-(b), 31, 34, 36(1), 38(15)(a)(i), (16)(c), (20), (b), 42(1), 43(2), (4)(a)-(b), (5), 44(2)(a), 47(5), 50(8)(a), (26), (26A), 55, 58(5), (7), 65(1), (2)(a), (3), (4)(c)-(d), 66(1), (1A), (3), (a), 67, 68(1)-(2), (4), (5)(a)-(b), (6), 69(1)-(6), 70, 71(1), 74(6), 79(2), (4)(a)-(c), (6), 81(4)(c), (5)-(6), 82(2)(f), (6)-(7), 83(1), (6), 85(5), 86(2)-(3), 87(c), 89(4)-(6), 92(2)(a)- (b), (3)(a), (c), 93(2), 95(1)(a)-(b), (2), 96(4), (10)- (11), 97-98, 102, (1)(b), (2), 106(3), 112(2), (3)(b)-(c), 4(a)(iii), (b)
 
-1.1.2021 2021/029 rr. 41, 103 1.1.2021 2021/228 rr. 4(2), 5(2)(b)-(c) 1.1.2021
+1.1.2021 2021/029 rr. 41, 103 1.1.2021 2021/228 rr. 4(2), 5(2)(b)-(c) 1.1.2021 2022/241 r. 16(1)(a)-(b) 11.8.2022
 
 Transposing: Directive 2014/25/EU Directive 2004/17/EC
 
-Public Finance (Control and Audit) PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/085
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -44,13 +34,7 @@ Subchapter 1 Thresholds 16. Threshold amounts. 17. Methods for calculating the e
 
 Subchapter 2 Excluded contracts and design contests; special provisions for procurement involving defence and security aspects
 
-18. Contracts awarded for the purpose of resale or lease to third parties.
-
-Public Finance (Control and Audit) PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/085 19. Contracts and design contests awarded or organised for purposes other than the pursuit of a covered activity or for the pursuit of such an activity outside Gibraltar 20. Contracts awarded and design contests organised pursuant to international rules. 21. Specific exclusions for service contracts. 22. Service contracts awarded on the basis of an exclusive right. 23. Contracts awarded by certain utilities for the purchase of water and for the supply of energy or of fuels for the production of energy. 24. Defence and security. 25. Mixed procurement covering the same activity and involving defence and security aspects. 26. Procurement covering several activities and involving defence or security aspects. 27. Contracts and design contests involving defence and security aspects which are awarded or organised pursuant to international rules. 28. Contracts between contracting authorities. 29. Contracts awarded to an affiliated undertaking. 30. Contracts awarded to a joint venture or to a utility forming part of a joint venture. 31. Deleted. 32. Research and development services. 33. Activities directly exposed to competition. 34. Deleted.
+18. Contracts awarded for the purpose of resale or lease to third parties. 19. Contracts and design contests awarded or organised for purposes other than the pursuit of a covered activity or for the pursuit of such an activity outside Gibraltar 20. Contracts awarded and design contests organised pursuant to international rules. 21. Specific exclusions for service contracts. 22. Service contracts awarded on the basis of an exclusive right. 23. Contracts awarded by certain utilities for the purchase of water and for the supply of energy or of fuels for the production of energy. 24. Defence and security. 25. Mixed procurement covering the same activity and involving defence and security aspects. 26. Procurement covering several activities and involving defence or security aspects. 27. Contracts and design contests involving defence and security aspects which are awarded or organised pursuant to international rules. 28. Contracts between contracting authorities. 29. Contracts awarded to an affiliated undertaking. 30. Contracts awarded to a joint venture or to a utility forming part of a joint venture. 31. Deleted. 32. Research and development services. 33. Activities directly exposed to competition. 34. Deleted.
 
 Chapter 4 General Principles
 
@@ -60,13 +44,9 @@ PART 2 RULES APPLICABLE TO CONTRACTS
 
 Chapter 1 Procedures
 
-41. Conditions relating to international agreements. 42. Choice of procedures. 43. Open Procedure. 44. Restricted Procedure. 45. Negotiated procedure with prior call for competition.
+41. Conditions relating to international agreements. 42. Choice of procedures. 43. Open Procedure. 44. Restricted Procedure.
 
-Public Finance (Control and Audit) PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/085 46. Competitive dialogue. 47. Innovation partnership. 48. Use of the negotiated procedure without prior call for competition.
+45. Negotiated procedure with prior call for competition. 46. Competitive dialogue. 47. Innovation partnership. 48. Use of the negotiated procedure without prior call for competition.
 
 Chapter 2 Techniques and Instruments for Electronic and Aggregated Procurement
 
@@ -80,13 +60,11 @@ Subchapter 1 Preparation
 
 Subchapter 2 Publication and Transparency
 
-65. Periodic indicative notices. 66. Notices on the existence of a qualification system. 67. Contract notices. 68. Contract award notices. 69. Publication on the UK e-notification service. 70. Publication of notices otherwise than on the UK e-notification service. 71. Electronic availability of procurement documents. 72. Invitations to candidates. 73. Informing applicants for qualification, candidates and tenderers.
+65. Periodic indicative notices. 66. Notices on the existence of a qualification system. 67. Contract notices. 68. Contract award notices. 69. Publication on the UK e-notification service. 70. Publication of notices otherwise than on the UK e-notification service. 71. Electronic availability of procurement documents.
 
-Public Finance (Control and Audit) PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
+72. Invitations to candidates. 73. Informing applicants for qualification, candidates and tenderers.
 
-1977-09
-
-Subsidiary 2016/085 Subchapter 3 Choice of participants and award of contracts
+Subchapter 3 Choice of participants and award of contracts
 
 74. General principles. 75. Qualification systems. 76. Criteria for qualitative selection. 77. Reliance on the capacities of other entities. 78. Use of exclusion grounds and selection criteria provided for under the Public Contracts Regulations. 79. Quality assurance standards and environmental management standards. 80. Contract award criteria. 81. Life-cycle costing. 82. Abnormally low tenders.
 
@@ -104,15 +82,11 @@ Chapter 1 Social and Other Specific Services
 
 88. Award of contracts for social and other specific services. 89. Publication of notices. 90. Principles of awarding contracts.
 
-Chapter 2 Rules Governing Design Contests
+Chapter 2
 
-91. Scope. 92. Notices. 93. Rules on the organisation of design contests and the selection of participants and the jury.
+Rules Governing Design Contests
 
-Public Finance (Control and Audit) PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/085 94. Decisions of the jury.
+91. Scope. 92. Notices. 93. Rules on the organisation of design contests and the selection of participants and the jury. 94. Decisions of the jury.
 
 PART 4 INFORMATION AND DOCUMENTATION
 
@@ -126,21 +100,15 @@ Chapter 1 Facilitation of Remedies
 
 Chapter 2 Application to the Court
 
-101. Interpretation of Part Chapter. 102.  Duty owed to economic operators from Gibraltar or the United Kingdom. 103.  Duty owed to economic operators from other States. 104.  Enforcement of duties through the Court. 105.  General time limits for starting proceedings. 106.  Special time limits for seeking a declaration of ineffectiveness. 107.  Starting proceedings. 108.  Contract-making suspended by challenge to award decision. 109.  Interim orders. 110.  Remedies where the contract has not been entered into. 111.  Remedies where the contract has been entered into. 112.  Grounds for ineffectiveness. 113. General interest grounds for not making a declaration of ineffectiveness. 114.  The consequences of ineffectiveness. 115.  Penalties in addition to, or instead of, ineffectiveness. 116.  Ineffectiveness etc in relation to specific contracts under a framework agreement. 117.  Injunctions against the Crown.
+101. Interpretation of Part Chapter. 102.  Duty owed to economic operators from Gibraltar or the United Kingdom. 103.  Duty owed to economic operators from other States. 104.  Enforcement of duties through the Court. 105.  General time limits for starting proceedings. 106.  Special time limits for seeking a declaration of ineffectiveness. 107.  Starting proceedings. 108.  Contract-making suspended by challenge to award decision. 109.  Interim orders. 110.  Remedies where the contract has not been entered into. 111.  Remedies where the contract has been entered into. 112.  Grounds for ineffectiveness. 113. General interest grounds for not making a declaration of ineffectiveness. 114.  The consequences of ineffectiveness.
+
+115.  Penalties in addition to, or instead of, ineffectiveness. 116.  Ineffectiveness etc in relation to specific contracts under a framework agreement. 117.  Injunctions against the Crown.
 
 PART 6 REVOCATION, SAVINGS AND TRANSITIONAL PROVISIONS
 
-Public Finance (Control and Audit) PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
+118. Revocation. 119.  Savings and transitional provisions.
 
-1977-09
-
-Subsidiary 2016/085 118. Revocation. 119.  Savings and transitional provisions.
-
-Public Finance (Control and Audit) PROCUREMENT (UTILITIES CONTRACTS) REGULATIONS 2016
-
-1977-09
-
-Subsidiary 2016/085 In exercise of the powers conferred on him by section 75 of the Public Finance (Control and Audit) Act 1977 and section 23(g)(i) of the Interpretation and General Clauses Act, and of all other enabling powers, and for the purpose of transposing into the law of Gibraltar Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC, the Minister has made the following Regulations−
+In exercise of the powers conferred on him by section 75 of the Public Finance (Control and Audit) Act 1977 and section 23(g)(i) of the Interpretation and General Clauses Act, and of all other enabling powers, and for the purpose of transposing into the law of Gibraltar Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC, the Minister has made the following Regulations−
 
 PART 1
 
