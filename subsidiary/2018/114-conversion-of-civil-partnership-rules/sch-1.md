@@ -26,6 +26,4 @@ SCHEDULE 1 Rule 7
 
 (v) if none of the documents listed in (i) to (iv) are available, such other documents as the Registrar determines it is reasonable to accept in the particular circumstances of the case.
 
-1948-36 Marriage 2018/114 Conversion of Civil Partnership Rules 2018
-
 2.  The evidence which must be provided for the purposes of rules 7(2)(c)(ii), 8, 9, 10 and 11 to establish the formation of the civil partnership, is a certified copy of the entry in the Register made on the formation of the civil partnership.

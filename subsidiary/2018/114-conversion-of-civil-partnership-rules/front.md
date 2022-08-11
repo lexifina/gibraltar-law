@@ -1,8 +1,6 @@
-1948-36 Marriage
-
 Subsidiary Legislation made under s.40A.
 
-CONVERSION OF CIVIL PARTNERSHIP RULES 2018
+Conversion of Civil Partnership Rules 2018
 
 LN.2018/114
 
@@ -10,9 +8,7 @@ Commencement 24.5.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2020/353 Sch. 2 15.10.2020
-
-_______________________
+LN. 2020/353 Sch. 2 15.10.2020 2022/243 Sch. 2 11.8.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -23,7 +19,5 @@ Regulation
 SCHEDULE 1
 
 SCHEDULE 2
-
-1948-36 Marriage 2018/114 Conversion of Civil Partnership Rules 2018
 
 In exercise of the powers conferred upon him by section 40A of the Marriage Act, and all other enabling powers, the Minister responsible for personal status has made the following Rules–
