@@ -16,13 +16,27 @@ In this Schedule–
 
 (d) any services provided in an establishment catering for a person with learning difficulties;
 
-“Financial Services Commission” means the body established by the Financial Services Commission Act 2007;
+“financial services legislation” means–
 
-“financial services legislation” means any of the Acts listed in Part 5 of this Schedule and any item of subsidiary legislation made under any of them;
+(a) the following Acts and any subsidiary legislation made under any of them–
+
+(i) the Financial Services Act 2019;
+
+(ii) the Financial Services (Temporary Business Continuity) Act 2007;
+
+(iii) the Financial Services (Distance Marketing) Act 2006;
+
+(iv) the Financial Collateral Arrangements Act 2004; and
+
+(v) the Financial Services (Moneylending) Act; and
+
+(b) the Proceeds of Crime Act 2015 (Relevant Financial Business) (Registration) Regulations 2021;
 
 “firearms dealer” has the meaning given by section 2 of the Firearms Act;
 
 “funds in court” has the meaning given by the Supreme Court Fund Rules;
+
+“GFSC” means the Gibraltar Financial Services Commission within the meaning of section 21(1) of the Financial Services Act 2019;
 
 “judicial appointment” means an appointment to any office by virtue of which the holder has power (whether alone or with others) under any enactment or rule of law to determine any question affecting the rights, privileges, obligations or liabilities of any person;
 
@@ -136,7 +150,7 @@ EXCEPTED OFFICES AND EMPLOYMENTS
 
 33.  Office as or employment with the Licensing Authority or the Gambling Commissioner under the Gambling Act 2005.
 
-34.  Any office or employment with the Financial Services Commission.
+34.  Any office or employment with the GFSC.
 
 35.  Any employment or other work in which the normal duties involve caring for, training, supervising, or being solely in charge of, juveniles serving in the naval, military or air forces of the Crown.
 
@@ -168,53 +182,17 @@ PART 5
 
 EXCEPTED QUESTIONERS
 
-1.  The Financial Services Commission when asking questions of any person in connection with–
+1.  The GFSC when asking questions of any person in connection with–
 
-(a) the issue of a certificate, licence, permit or declaration;
+(a) the issue or variation of a permission, authorisation, registration, approval, recognition, certificate, licence, permit or declaration;
 
 (b) the approval of any activity; or
 
-(c) the making of an order or the giving of a direction, under the financial services legislation.
+(c) the making or variation of an order or the giving of a direction,
 
-2.  Any person who is required by law or who is duly authorised by the Financial Services Commissioner to ask questions as mentioned in paragraph 1, when asking such questions.
+under the financial services legislation.
 
-For purposes of this Schedule, the financial services legislation means any of the following Acts and any item of subsidiary legislation made under any of them–
-
-Financial Collateral Arrangements Act 2004.
-
-Financial Institutions (Prudential Supervision) Act, 1997.
-
-Financial Services (Auditors) Act 2009.
-
-Financial Services (Banking) Act.
-
-Financial Services (Collective Investment Schemes) Act 2005.
-
-Financial Services (Distance Marketing) Act 2006.
-
-Financial Services (Insurance Companies) Act.
-
-Financial Services (Investment and Fiduciary Services) Act.
-
-Financial Services (Investor Compensation Scheme) Act 2002.
-
-Financial Services (Listing of Securities) Act 2006.
-
-Financial Services (Markets in Financial Instruments) Act 2006.
-
-Financial Services (Moneylending) Act.
-
-Financial Services (Occupational Pensions Institutions) Act 2006.
-
-Financial Services (Takeover Bids) Act 2006.
-
-Financial Services (Temporary Business Continuity) Act 2007.
-
-Financial Services (Training and Competence) Act 2006.
-
-Financial Services Act, 1998.
-
-Financial Services Commission Act 2007.
+2.  Any person who is required by law or who is duly authorised by the GFSC to ask questions as mentioned in paragraph 1, when asking such questions.
 
 PART 6
 
@@ -254,20 +232,20 @@ PART 7
 
 EXCEPTED DECISIONS
 
-1.  Any decision by the Financial Services Commission, or any other person or body relating to–
+1.  Any decision by the GFSC, or any other person or body relating to–
 
-(a) the issue of a certificate, licence, permit or declaration;
+(a) the issue or variation of a permission, authorisation, registration, approval, recognition, certificate, licence, permit or declaration;
 
 (b) the approval of any activity; or
 
-(c) the making of an order or the giving of a direction,
+(c) the making or variation of an order or the giving of a direction,
 
 under the financial services legislation, made by reason of, or partly by reason of, a spent conviction of an individual, or of any circumstances ancillary to such a conviction, or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
 
-2.  Any decision of the Financial Services Commission to dismiss, fail to promote or exclude a person from being a key worker of the Commission, made by reason of, or partly by reason of, a spent conviction of an individual, or of any circumstances ancillary to such a conviction, or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
+2.  Any decision of the GFSC to dismiss, fail to promote or exclude a person from being a key worker of the GFSC, made by reason of, or partly by reason of, a spent conviction of an individual, or of any circumstances ancillary to such a conviction, or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
 
-3.  Any decision by the Financial Services Commission, or any other person or body, to dismiss an individual from, to fail to promote to or to exclude an individual from a status under the financial services legislation by reason of, or partly by reason of, a spent conviction of that individual or of his associate, or of any circumstances ancillary to such a conviction, or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
+3.  Any decision by the GFSC, or any other person or body, to dismiss an individual from, to fail to promote to or to exclude an individual from a status under the financial services legislation by reason of, or partly by reason of, a spent conviction of that individual or of his associate, or of any circumstances ancillary to such a conviction, or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
 
-4.  Any decision of an investment exchange or clearing house to refuse to admit any person as, or to exclude, a member by reason of, or partly by reason of, a spent conviction of an individual, or of any circumstances ancillary to such a conviction or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
+4.  Any decision of a regulated market, market operator or clearing house to refuse to admit any person as, or to exclude, a member by reason of, or partly by reason of, a spent conviction of an individual, or of any circumstances ancillary to such a conviction or of a failure (whether or not by that individual) to disclose such a conviction or any such circumstances.
 
 5.  Any decision of the Licensing Authority under the Gambling Act 2005.
