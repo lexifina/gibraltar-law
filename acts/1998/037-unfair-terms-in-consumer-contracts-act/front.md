@@ -6,7 +6,9 @@ Act. No. 1998-37- Commencement 13.8.1998
 
 Assent 13.8.1998
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2022/256 ss. 2, 7, Sch.1 1.9.2022
 
 ARRANGEMENT OF SECTIONS
 

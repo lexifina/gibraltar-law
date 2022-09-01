@@ -16,4 +16,4 @@ The Act does not apply to –
 
 (i) statutory or regulatory provisions of Gibraltar; or
 
-(ii) the provisions or principles or international conventions to which the member States, Gibraltar or the Community are party.
+(ii) the provisions or principles or international conventions which apply to or in Gibraltar.
