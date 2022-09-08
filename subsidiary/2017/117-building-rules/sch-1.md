@@ -34,9 +34,7 @@ Schedule 8, Part VIII, footnote ‘A’ BS 4011: 1966 1 AMD 1775 Schedule 7, rul
 
 C5(d)
 
-Schedule 5, Table 5, item 3 BS 4471: Part 1:1969 1 AMD 730 A4(6)(b)(ii) BS 4543: 1970 1 AMD 749 L22(2)(a)
-
-2 AMD 919 L22(2)(d) BS 4876: 1972 – – M5(1) BS 4978:1973 – – Schedule 6, rule 1(d) BS 5056:1974 – – Schedule 5, Table 5, item 4 CP3: Chapter V: Part 1: 1967 1 2 3 AMD 141 AMD 5117 AMD 1024 D2(2)(a) D2(2)(b) H6(2)(b) H7 CP3: Chapter V: Part 2: 1972 – – D2(2)(c) CP101: 1972 1 AMD 1754 D6 CP110: Part 1:1972 1 AMD 1553 D5(1)(a) D(11)(1)(a) D19(1)(a) CP110: Part 2:1972 – – D5(1)(a) D11(1)(a) CP110: Part 3:1972 – – D5(1)(a) D11(1)(a) CP111: Part 2:1970 1 AMD 744 D13(a) CP112: Part 2:1971 1 2 AMD 1265 AMD 1846 D12(a) D12(b)(ii) Schedule 6, rule 1(b) CP112: Part 3.1973 – – D12(c) CP114: 1969 1 2 AMD 1241 AMD 1552 D5(1)(b) D11(1)(b) D19(1)(b) CP115: 1969 1 AMD 1242 D11(1)(b)
+Schedule 5, Table 5, item 3 BS 4471: Part 1:1969 1 AMD 730 A4(6)(b)(ii) BS 4543: 1970 1 AMD 749 L22(2)(a) 2 AMD 919 L22(2)(d) BS 4876: 1972 – – M5(1) BS 4978:1973 – – Schedule 6, rule 1(d) BS 5056:1974 – – Schedule 5, Table 5, item 4 CP3: Chapter V: Part 1: 1967 1 2 3 AMD 141 AMD 5117 AMD 1024 D2(2)(a) D2(2)(b) H6(2)(b) H7 CP3: Chapter V: Part 2: 1972 – – D2(2)(c) CP101: 1972 1 AMD 1754 D6 CP110: Part 1:1972 1 AMD 1553 D5(1)(a) D(11)(1)(a) D19(1)(a) CP110: Part 2:1972 – – D5(1)(a) D11(1)(a) CP110: Part 3:1972 – – D5(1)(a) D11(1)(a) CP111: Part 2:1970 1 AMD 744 D13(a) CP112: Part 2:1971 1 2 AMD 1265 AMD 1846 D12(a) D12(b)(ii) Schedule 6, rule 1(b) CP112: Part 3.1973 – – D12(c) CP114: 1969 1 2 AMD 1241 AMD 1552 D5(1)(b) D11(1)(b) D19(1)(b) CP115: 1969 1 AMD 1242 D11(1)(b)
 
 2 AMD 1551 D19(1)(b) CP116: 1969 1 2 AMD 1239 AMD 1550 D11(1)(b) D19(1)(b) D19(4) CP116: Addendum No 1:1970 – –
 

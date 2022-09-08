@@ -40,35 +40,23 @@ Hardwoods
 
 Softwoods (1)
 
-(2) Afrormosia Keruing, Indonesian Cedar, western red Afzelia Keruing, Malayan Sequoia Agba Keruing, Saban
+(2) Afrormosia Keruing, Indonesian Cedar, western red Afzelia Keruing, Malayan Sequoia Agba Keruing, Saban Dahoma Keruing, Sarawak
 
-Dahoma Keruing, Sarawak
+Danta Mahogany, African Gedu nohor Makoni
 
-Danta Mahogany, African
-
-Gedu nohor Makoni
-
-Guarea Meranti, dark red
-
-Gurjun, Andaman Meranti, light red
+Guarea Meranti, dark red Gurjun, Andaman Meranti, light red
 
 Gurjun, Burma Niangon
 
-Gurjun, Indian Oak, European
+Gurjun, Indian Oak, European Idigbo Opepe
 
-Idigbo Opepe
-
-Iroko Sapele
-
-Kapur Teak
+Iroko Sapele Kapur Teak
 
 Kempas Utile
 
 Schedule 5 Table 4: Species of timber for use after being subjected to a preservative treatment prescribed In Table 5 Hardwoods Softwoods (1) (2) Abura Fir, Douglas Elm Hemlock, western
 
-Larch, European
-
-Larch, japanese
+Larch, European Larch, japanese
 
 Redwood (European) or Scots pine
 

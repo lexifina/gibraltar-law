@@ -104,9 +104,7 @@ B. Framed and composite construction (non-loabearing) Construction and materials
 
 (a) metal lathing with cement-sand or gypsum plaster of thickness of–
 
-19 mm 1
-
-12.5 mm 1/2 (b) metal lathing with vermiculite-gypsum or perlite-gypsum plaster of thickness of–
+19 mm 1 12.5 mm 1/2 (b) metal lathing with vermiculite-gypsum or perlite-gypsum plaster of thickness of–
 
 25mm 2
 
@@ -134,7 +132,7 @@ Part I: Walls – continued
 
 C. External walls (non-loadbearing) more than 1 m from the relevant boundary Construction and materials Period of fire resistance (in hours) 1. Steel frame with external cladding of noncombustible sheets and internal lining of–
 
-(a)  9 mm asbestos insulating board 4 (b)  12.5 mm cement-sand or gypsum plaster on metal lathing 4 (c) sprayed asbestos of thickness of 12.5 mm 4 (d)  two layers of 9.5 mm plasterboard 1/2 (e) 9.5 mm plasterboard finished with gypsum plaster of thickness of 12.5 mm 1/2 (f) 12.5 mm plasterboard finished with 5 mm gypsum plaster 1/2 (g) 50 mm compressed straw slabs 1/2 (h) 50 mm compressed straw slabs finished with 5 mm gypsum plaster 1 2.† Timber frame with external cladding of 10 mm cement-sand or cement-lime rendering and internal lining of–
+(a)  9 mm asbestos insulating board 4 (b) 12.5 mm cement-sand or gypsum plaster on metal lathing 4 (c) sprayed asbestos of thickness of 12.5 mm 4 (d)  two layers of 9.5 mm plasterboard 1/2 (e) 9.5 mm plasterboard finished with gypsum plaster of thickness of 12.5 mm 1/2 (f) 12.5 mm plasterboard finished with 5 mm gypsum plaster 1/2 (g) 50 mm compressed straw slabs 1/2 (h) 50 mm compressed straw slabs finished with 5 mm gypsum plaster 1 2.† Timber frame with external cladding of 10 mm cement-sand or cement-lime rendering and internal lining of–
 
 (a) 9 mm asbestos insulating board 1 (b) 16 mm gypsum plaster on metal lathing 1 (c) 9.5 mm plasterboard finished with 12.5 mm gypsum plaster 1 (d) 12.5 mm plasterboard finished with 5 mm gypsum plaster 1 (e) 50 mm compressed straw slabs 1 (f) aerated concrete block–
 
@@ -200,9 +198,7 @@ Part V: Structural steel A. Encased steel stanchions (mass per metre not less th
 
 1. Concrete not leaner than 1:2:4 mix with natural aggregates–
 
-(a) concrete not assumed to be loadbearing, reinforced † 50 25 25 25 25 (b) concrete assumed to be loadbearing, reinforced in accordance with BS449: Part 2:1969¶ 75 50 50 50 50 2. Solid bricks of clay, composition or sand-lime 75 50 50 50 50 3. Solid blocks of foamed slag or pumice concrete reinforced in every horizontal joint 62 50 50 50 50 4. Sprayed asbestos of density 140-240 kg/m3 (70) (30) (25) (20) (10) 5. Sprayed vermiculite-cement
-
-38 32 19 12.5
+(a) concrete not assumed to be loadbearing, reinforced † 50 25 25 25 25 (b) concrete assumed to be loadbearing, reinforced in accordance with BS449: Part 2:1969¶ 75 50 50 50 50 2. Solid bricks of clay, composition or sand-lime 75 50 50 50 50 3. Solid blocks of foamed slag or pumice concrete reinforced in every horizontal joint 62 50 50 50 50 4. Sprayed asbestos of density 140-240 kg/m3 (70) (30) (25) (20) (10) 5. Sprayed vermiculite-cement 38 32 19 12.5
 
 (B) Hollow protection‡
 
@@ -222,9 +218,7 @@ Part V: Structural steel A. Encased steel stanchions (mass per metre not less th
 
 25 19 12 9
 
-B Encased steel beams (mass per metre not less than 30 kg) (Note: In the following table, figures in brackets are applicable only in relation to universal beams of serial size 254 x 146 (10 x 53/4) as designated in BS 4: Part 1:1972)
-
-(A) Solid protection* (unplastered)
+B Encased steel beams (mass per metre not less than 30 kg) (Note: In the following table, figures in brackets are applicable only in relation to universal beams of serial size 254 x 146 (10 x 53/4) as designated in BS 4: Part 1:1972) (A) Solid protection* (unplastered)
 
 1. Concrete not leaner than 1:2:4 mix with natural aggregates–
 
@@ -238,9 +232,7 @@ B Encased steel beams (mass per metre not less than 30 kg) (Note: In the followi
 
 (a) with cement–lime plaster of thickness of
 
-38 25 19 12.5 (b) with gypsum plaster of thickness of
-
-22 19 16 12.5 (c) with vermiculite-gypsum or perlite-gypsum plaster of thickness of 32 12.5 12.5 12.5 12.5 2. Gypsum plasterboard with 1.6 mm wire binding at 100 mm pitch–
+38 25 19 12.5 (b) with gypsum plaster of thickness of 22 19 16 12.5 (c) with vermiculite-gypsum or perlite-gypsum plaster of thickness of 32 12.5 12.5 12.5 12.5 2. Gypsum plasterboard with 1.6 mm wire binding at 100 mm pitch–
 
 (a) 9.5 mm plasterboard with gypsum plaster of thickness of
 
@@ -306,17 +298,11 @@ Part VII: Timber floors Construction and materials Minimum thickness (in mm) of 
 
 12.5
 
-(iii) metal lathing and plaster-thickness of plaster–
-
-(a) gypsum
+(iii) metal lathing and plaster-thickness of plaster– (a) gypsum
 
 16
 
-(b) vermiculite
-
-12.5
-
-(iv) one layer of plasterboard of thickness
+(b) vermiculite 12.5 (iv) one layer of plasterboard of thickness
 
 12.5
 
@@ -390,11 +376,7 @@ thickness of plaster
 
 (xi) wood wool slab 25 mm thick finished with–
 
-(a) gypsum plaster of thickness
-
-5
-
-(b) vermiculite-gypsum plaster of thickness 10
+(a) gypsum plaster of thickness 5 (b) vermiculite-gypsum plaster of thickness 10
 
 (C) Tongued and grooved boarding of not less than 21 mm (finished) thickness† on timber joists not less than 175 mm deep by 50 mm wide with ceiling of–
 
@@ -412,9 +394,7 @@ thickness of plaster
 
 (iii) metal lathing and sprayed asbestos‡ to thickness of 19 12.5
 
-(iv) one layer of plasterboard of thickness
-
-9.5 (v) one layer of plasterboard of minimum thickness of 9.5 mm finished with–
+(iv) one layer of plasterboard of thickness 9.5 (v) one layer of plasterboard of minimum thickness of 9.5 mm finished with–
 
 (a) gypsum plaster of thickness
 
@@ -444,9 +424,7 @@ thickness of plaster
 
 5
 
-(b) vermiculite-gypsum plaster of thickness
-
-10
+(b) vermiculite-gypsum plaster of thickness 10
 
 *MODIFIED ½ HOUR refers to the requirements specified in item 3(b) in Table A1 in the Approved Document for Part E. † or an equivalent thickness of wood chipboard. ‡ Sprayed asbestos in accordance with BS 3590:1970.
 

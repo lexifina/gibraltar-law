@@ -8,13 +8,9 @@ Deemed-to-satisfy provisions Notional designations of roof coverings Part I: Pit
 
 4. Concrete tiles
 
-5. Strip slates of bitumen felt Class 1 or 2 2. Timber rafters and boarding, plywood, wood wool slabs, compressed straw slabs, wood or flax chipboard, or fibre insulating board CC 6. Bitumen felt strip slates Type 2E, with underlayer of bitumen felt Type 2B or 2C 3. Timber rafters and boarding, plywood, wood wool slabs, compressed straw slabs, wood or flax chipboard, or fibre insulating board BB
+5. Strip slates of bitumen felt Class 1 or 2 2. Timber rafters and boarding, plywood, wood wool slabs, compressed straw slabs, wood or flax chipboard, or fibre insulating board CC 6. Bitumen felt strip slates Type 2E, with underlayer of bitumen felt Type 2B or 2C 3. Timber rafters and boarding, plywood, wood wool slabs, compressed straw slabs, wood or flax chipboard, or fibre insulating board BB Note: Any reference in this Part of the schedule to bitumen felt of a specified class or type is a reference to bitumen felt as so designated in BS 747: Part 2:1970.
 
-Note: Any reference in this Part of the schedule to bitumen felt of a specified class or type is a reference to bitumen felt as so designated in BS 747: Part 2:1970.
-
-Part II: Pitched roofs covered with preformed self-supporting sheets
-
-Details of covering
+Part II: Pitched roofs covered with preformed self-supporting sheets Details of covering
 
 Supporting structure Designation Material Construction
 
@@ -30,9 +26,7 @@ Supporting structure Designation Material Construction
 
 Corrugated sheets of– 2. Double skin without interlayer or with inter layer of– Structure of timber, steel or concrete AA (i) galvanised steel;
 
-(ii) aluminium;
-
-(iii) composite steel and asbestos; (i) resin-bonded glass fibre;
+(ii) aluminium; (iii) composite steel and asbestos; (i) resin-bonded glass fibre;
 
 (iv) asbestos- cement; or (ii) bitumen-bonded glass fibre;
 

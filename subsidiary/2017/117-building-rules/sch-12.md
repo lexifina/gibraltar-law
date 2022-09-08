@@ -18,13 +18,9 @@ Specification Construction of wall (1) (2) 1. A solid wall consisting of–
 
 in each case the average mass of the wall (calculated over any portion of the wall measuring 1 metre square and including the mass of any plaster) being not less than 415 kg/m2.
 
-2 A wall having a cavity not less than 50 mm wide constructed of two leaves each consisting of bricks, blocks or dense concrete with plaster not less than 12.5 mm thick on both faces of the wall, and having any wall ties of the butterfly wire type, the average mass of the wall (calculated over any portion measuring 1 metre square and including the mass of the plaster) being not less than 415 kg/m2.
+2 A wall having a cavity not less than 50 mm wide constructed of two leaves each consisting of bricks, blocks or dense concrete with plaster not less than 12.5 mm thick on both faces of the wall, and having any wall ties of the butterfly wire type, the average mass of the wall (calculated over any portion measuring 1 metre square and including the mass of the plaster) being not less than 415 kg/m2. 3. A wall having a cavity not less than 75 mm wide constructed of two leaves each consisting of lightweight concrete with plaster not less than 12.5 mm thick on both faces of the wall and having any wall ties of the butterfly wire type, the average mass of the wall (calculated over any portion of the wall measuring 1 metre square and including the mass of the plaster) being not less than 250 kg/m2
 
-3. A wall having a cavity not less than 75 mm wide constructed of two leaves each consisting of lightweight concrete with plaster not less than 12.5 mm thick on both faces of the wall and having any wall ties of the butterfly wire type, the average mass of the wall (calculated over any portion of the wall measuring 1 metre square and including the mass of the plaster) being not less than 250 kg/m2
-
-Part II: Floors providing resistance to the transmission of airborne and impact sound
-
-Rules G4(2) and G5(2) Specification Construction of floor (1) (2) 1. A floor consisting of–
+Part II: Floors providing resistance to the transmission of airborne and impact sound Rules G4(2) and G5(2) Specification Construction of floor (1) (2) 1. A floor consisting of–
 
 (a) a solid concrete slab; or
 

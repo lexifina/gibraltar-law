@@ -38,9 +38,7 @@ Table to Rule 2: Species, origin and grade of timber to which Tables 1 to 24 rel
 
 Grade Species Origin in relation to which Tables 1 to 12 are appropriate in relation to which Tables 13 to 24 are appropriate (1) (2) (3) (4) 1. Fir, Douglas Home-grown or imported GS or MGS SS or MSS 2. Hemlock, western Imported GS or MGS SS or MSS 3. Larch, European Home-grown GS or MGS SS or MSS 4. Larch, Japanese Home-grown GS or MGS SS or MSS 5. Pine, American pitch Imported GS or MGS SS or MSS 6. Pine, Caribbean pitch Imported GS or MGS SS or MSS 7. Pine, Scots Home-grown GS or MGS SS or MSS 8. Redwood Imported GS or MGS SS or MSS 9. Spruce, Norway Home-grown M75 – 10. Spruce, Sitka Home-grown M75 – 11. Spruce, western white Imported M50 – 12. Whitewood Imported GS or MGS SS or MSS 13. Douglas fir-larch Imported from Canada No.2 – 14. Hem-fir Imported from Canada No.2 – 15. Spruce-pine fir Imported from Canada No.2 –
 
-Table 1: Floor joists GS, MGS, M50, M75 or No.2 grade timber
-
-Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+Table 1: Floor joists GS, MGS, M50, M75 or No.2 grade timber Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
 
 Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
 
@@ -60,17 +58,13 @@ Maximum span of joist (in m)
 
 75 x 200 5.10 4.93 4.51 4.90 4.72 4.27 4.43 4.20 3.67 75 x 225 5.72 5.52 5.06 5.49 5.30 4.79 4.97 4.71 4.11
 
-Table 2: Ceiling joists GS, MGS, M50, M75 or No.2 grade timber
-
-Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+Table 2: Ceiling joists GS, MGS, M50, M75 or No.2 grade timber Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
 
 Not more than 25 More than 25 but not more than 50
 
 Spacing of joists (in mm)
 
-400 450 600 400 450 600
-
-Maximum span of joist (in m)
+400 450 600 400 450 600 Maximum span of joist (in m)
 
 38 x 75 1.88 1.80 1.57 1.71 1.61 1.40 38 x 100 2.50 2.39 2.08 2.27 1.14 1.86 38 x 125 3.11 2.97 2.59 2.82 2.67 2.32 38 x 150 3.72 3.55 3.10 3.37 3.19 2.78 3 x 175 4.32 4.12 3.60 3.92 3.71 3.23 38 x 200 4.92 4.69 4.10 4.46 4.22 3.68 38 x 225 5.51 5.25 4.60 4.99 4.73 4.13
 
@@ -234,13 +228,9 @@ Maximum span of purlin (in m)
 
 75 x 175 3.01 2.75 2.55 2.39 226 2.14 2.75 2.51 2.33 2.18 2.06 1.96 2.52 2.33 2.16 2.02 1.91 1.81 75 x 200 3.43 3.14 2.91 2.73 2.57 2.44 3.13 2.87 2.66 2.49 2.35 2.23 2.87 2.66 2.46 2.31 2.18 2.07 75 x 225 3.85 3.53 3.27 3.07 2.89 2.75 3.52 3.22 2.99 2.80 2.64 2.51 3.23 2.99 2.77 2.59 2.45 2.32
 
-Table 11: Common or jack rafters for roofs having a pitch more than 30o but not more than 421/2o with access only for the purposes of maintenance or repair GS, MGS, M50, M75 or No.2 grade timber
+Table 11: Common or jack rafters for roofs having a pitch more than 30o but not more than 421/2o with access only for the purposes of maintenance or repair GS, MGS, M50, M75 or No.2 grade timber Size of rafter (in mm) Dead load (in kg/m2) supported by rafter, excluding the mass of the rafter
 
-Size of rafter (in mm) Dead load (in kg/m2) supported by rafter, excluding the mass of the rafter
-
-Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
-
-Spacing of rafters (in mm)
+Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100 Spacing of rafters (in mm)
 
 400 450 600 400 450 600 400 450 600
 
@@ -310,11 +300,7 @@ Maximum span of joist (in m)
 
 50 x 75 2.16 2.08 1.9 2.01 1.93 1.76 50 x 100 2.86 2.76 2.52 2.66 2.57 2.34 50 x 125 3.56 3.43 3.14 3.32 3.20 2.92 50 x 150 4.25 4.10 3.75 3.97 3.82 3.49 50 x 175 4.94 4.77 4.36 4.61 4.45 4.06 50 x 200 5.62 5.42 4.97 5.25 5.06 4.63 50 x 225 6.29 6.08 5.57 5.88 5.68 5.20
 
-Table 15: Binders or beams supporting joists to which Table 14 relates SS or MSS grade timber
-
-Size of binder or beam(in mm) Dead load (in kg/m2) supported by joist as calculated for the purposes of Table 14
-
-Not more than 25 More than 25 but not more than 50
+Table 15: Binders or beams supporting joists to which Table 14 relates SS or MSS grade timber Size of binder or beam(in mm) Dead load (in kg/m2) supported by joist as calculated for the purposes of Table 14 Not more than 25 More than 25 but not more than 50
 
 Spacing of binders or beams (in m)
 
@@ -334,9 +320,7 @@ Maximum span of binder or beam (in m)
 
 75 x 200 4.44 4.14 3.89 3.61 3.38 4.16 3.83 3.51 325 3.05 75 x 225 4.99 4.65 4.36 4.05 3.80 4.67 4.30 3.94 3.66 3.43
 
-Table 16: Joists for flat roofs with access only for the purposes of maintenance or repair SS or MSS grade timber
-
-Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
+Table 16: Joists for flat roofs with access only for the purposes of maintenance or repair SS or MSS grade timber Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mass of the joist
 
 Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
 
@@ -358,9 +342,7 @@ Size of joist (in mm) Dead load (in kg/m2) supported by joist, excluding the mas
 
 Not more than 25 More than 25 but not more than 50 More than 50 but not more than 125
 
-Spacing of rafters (in mm)
-
-400 450 600 400 450 600 400 450 600
+Spacing of rafters (in mm) 400 450 600 400 450 600 400 450 600
 
 Maximum span of joist (in m)
 
@@ -368,9 +350,7 @@ Maximum span of joist (in m)
 
 44 x 75 1.51 1.43 1.24 1.39 1.32 1.16 1.35 1.28 1.13 44 x 100 2.25 2.13 1.87 2.03 1.94 1.71 1.96 1.86 1.65 44 x 125 2.87 2.76 2.52 2.64 2.54 2.28 2.55 2.45 2.19 44 x 150 3.43 3.31 3.01 3.16 3.04 2.77 3.06 2.94 2.68 44 x 175 3.99 3.85 3.51 3.68 3.55 3.23 3.56 3.43 3.12 44 x 200 4.55 4.39 4.00 4.20 4.05 3.69 4.06 3.91 3.56 44 x 225 5.11 4.93 4.50 4.72 4.54 4.14 4.56 4.39 4.00
 
-50 x 75 1.60 1.51 1.32 1.45 1.40 1.23 1.43 1.36 1.20 50 x 100 2.38 2.26 1.98 2.15 2.04 1.81 2.06 1.96 1.74 50 x 125 2.99 2.88 2.62 2.75 2.65 2.41 2.66 2.56 2.31 50 x 150 3.57 3.44 3.14 3.30 3.17 2.89 3.18 3.07 2.79 50 x 175 4.16 4.01 3.66 3.84 3.69 3.37 3.71 3.57 3.25 50 x 200 4.74 4.57 4.17 4.37 4.21 3.84 4.23 4.07 3.71 50 x 225 5.32 5.13 4.68 4.91 4.73 4.32 4.75 4.57 4.17
-
-63 x 150 3.84 3.70 3.38 3.55 3.42 3.12 3.43 3.30 3.01 63 x 175 4.47 4.31 3.94 4.13 3.98 3.63 3.99 3.84 3.51 63 x 200 5.09 4.91 4.49 4.70 4.53 4.14 4.55 4.38 4.00 63 x 225 5.71 5.51 5.04 5.28 5.09 4.65 5.11 4.92 4.49
+50 x 75 1.60 1.51 1.32 1.45 1.40 1.23 1.43 1.36 1.20 50 x 100 2.38 2.26 1.98 2.15 2.04 1.81 2.06 1.96 1.74 50 x 125 2.99 2.88 2.62 2.75 2.65 2.41 2.66 2.56 2.31 50 x 150 3.57 3.44 3.14 3.30 3.17 2.89 3.18 3.07 2.79 50 x 175 4.16 4.01 3.66 3.84 3.69 3.37 3.71 3.57 3.25 50 x 200 4.74 4.57 4.17 4.37 4.21 3.84 4.23 4.07 3.71 50 x 225 5.32 5.13 4.68 4.91 4.73 4.32 4.75 4.57 4.17 63 x 150 3.84 3.70 3.38 3.55 3.42 3.12 3.43 3.30 3.01 63 x 175 4.47 4.31 3.94 4.13 3.98 3.63 3.99 3.84 3.51 63 x 200 5.09 4.91 4.49 4.70 4.53 4.14 4.55 4.38 4.00 63 x 225 5.71 5.51 5.04 5.28 5.09 4.65 5.11 4.92 4.49
 
 75 x 200 5.37 5.18 4.74 4.97 4.79 4.37 4.80 4.63 4.23 75 x 225 6.02 5.81 5.32 5.57 5.37 4.91 5.39 5.20 4.75
 
@@ -402,9 +382,7 @@ Spacing of rafters (in mm)
 
 Maximum span of rafter (in m)
 
-38 x 100 2.88 2.72 2.36 2.63 2.48 2.15 2.44 2.30 1.98 38 x 125 3.59 3.39 2.94 3.28 3.09 2.68 3.03 2,86 2.47 38 x 150 4.29 4.05 3.52 3.92 3.70 3.21 3.63 3.42 2.96
-
-44 x 75 2.33 2.20 1.91 2.13 2.01 1.74 1.95 1.86 1.61 44 x 100 3.10 2.92 2.54 2.83 2.67 2.31 2.59 2.47 2.14 44 x 125 3.85 3.64 3.16 3.52 3.32 2.88 3.22 3.08 2.66 44 x 150 4.60 4.35 3.78 4.20 3.97 3.45 3.85 3.68 3.19
+38 x 100 2.88 2.72 2.36 2.63 2.48 2.15 2.44 2.30 1.98 38 x 125 3.59 3.39 2.94 3.28 3.09 2.68 3.03 2,86 2.47 38 x 150 4.29 4.05 3.52 3.92 3.70 3.21 3.63 3.42 2.96 44 x 75 2.33 2.20 1.91 2.13 2.01 1.74 1.95 1.86 1.61 44 x 100 3.10 2.92 2.54 2.83 2.67 2.31 2.59 2.47 2.14 44 x 125 3.85 3.64 3.16 3.52 3.32 2.88 3.22 3.08 2.66 44 x 150 4.60 4.35 3.78 4.20 3.97 3.45 3.85 3.68 3.19
 
 50 x 75 2.48 2.34 2.04 2.22 2.14 1.86 2.03 1.95 1.72 50 x 100 3.29 3.11 2.70 2.95 2.84 2.47 2.69 2.59 2.28 50 x 125 4.09 3.87 3.37 3.66 3.53 3.07 3.35 3.23 2.84
 
@@ -464,9 +442,7 @@ Maximum span of purlin (in m)
 
 75 x 175 3.19 3.02 2.87 2.75 2.65 2.56 2.84 2.68 2.55 2.44 2.35 2.27 2.60 2.46 2.34 2.24 2.15 2.08 75 x 200 3.64 3.44 3.28 3.14 3.02 2.92 3.24 3.06 2.91 2.79 2.68 2.59 2.97 2.80 2.67 2.55 2.46 2.37 75 x 225 4.09 3.86 3.68 3.53 3.40 3.28 3.64 3.43 3.27 3.13 3.01 2.91 3.34 3.15 3.00 2.87 2.76 2.67
 
-Table 23: Common or jack rafters for roofs having a pitch more than 30o but not more than 42o with access only for the purposes of maintenance or repair SS or MSS grade timber
-
-Size of rafter (in mm) Dead load (in kg/m2) supported by rafter, excluding the mass of the rafter
+Table 23: Common or jack rafters for roofs having a pitch more than 30o but not more than 42o with access only for the purposes of maintenance or repair SS or MSS grade timber Size of rafter (in mm) Dead load (in kg/m2) supported by rafter, excluding the mass of the rafter
 
 Not more than 50 More than 50 but not more than 75 More than 75 but not more than 100
 
