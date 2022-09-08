@@ -64,9 +64,7 @@ Date by which scaffolding shall be removed:
 
 Commencement date:
 
-Authorised Officer
-
-(Signature)
+Authorised Officer (Signature)
 
 Department for Trade & Industry Building Control Section
 

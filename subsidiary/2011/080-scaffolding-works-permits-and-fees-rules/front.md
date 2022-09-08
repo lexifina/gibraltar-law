@@ -6,7 +6,9 @@ LN.2011/080
 
 Commencement 9.6.2011
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2022/270 r. 11(1), (3) 8.9.2022
 
 ARRANGEMENT OF RULES
 
