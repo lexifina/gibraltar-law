@@ -8,7 +8,7 @@ Commencement 1.8.1994
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1994/120 r. 11(1) 1.8.1994 1997/102 r. 11(1)(a), (b), (2) 9.10.1997 1999/015 r. 1, 3(7), (8), (9) (10), 12 18.2.1999 2011/079 rr. 4(1)(d) & (g), 4(1A) 9.6.2011
+LN. 1994/120 r. 11(1) 1.8.1994 1997/102 r. 11(1)(a)-(b), (2) 9.10.1997 1999/015 r. 1, 3(7)-(10), 12 18.2.1999 2011/079 rr. 4(1)(d), (g), 4(1A) 9.6.2011 2022/269 r. 11(1)(a)-(b), (2) 8.9.2022
 
 ARRANGEMENT OF RULES
 
@@ -172,15 +172,15 @@ Fees.
 
 11. (1)  The fee payable in accordance with rules 3 (4) and 10(3), shall be–
 
-(a) £0.50 per linear metre of hoarding for each day of the period specified in the notice issued under rule 3(4) or the days by which the date for removal of the hoarding is deferred subject to a maximum of £5000; or
+(a) £1.00 per linear metre of hoarding for each day of the period specified in the notice issued under rule 3(4) or the days by which the date for removal of the hoarding is deferred subject to a maximum of £5,400; or
 
-(b) where no part of a street, court or public place is obstructed, £0.25 per linear metre for each day of the period specified in the notice issued under rule 3(4) or the days by which the date for removal of the hoarding is deferred, subject to a maximum of £5,000.
+(b) where no part of a street, court or public place is obstructed, £0.50 per linear metre for each day of the period specified in the notice issued under rule 3(4) or the days by which the date for removal of the hoarding is deferred, subject to a maximum of £5,400.
 
 for each day of the period specified in the notice issued under rule 3 (4) or the days by which the date for removal of the hoarding is deferred:
 
 Provided that where the works in respect of which the hoarding is erected are works undertaken by virtue of a building licence granted by the Government or a project of similar duration and size and designated for this purpose by the Minister with the responsibility for the environment, the fees payable in accordance with these Rules shall be that amount agreed by the Building Control Officer.
 
-(2) Where any hoarding remains in place beyond the date or the deferred date by which the hoarding shall have been removed and without prejudice to any other provision of the Act, a penalty of £20 per day or part thereof for every day that the hoarding remains in place, shall be payable.
+(2) Where any hoarding remains in place beyond the date or the deferred date by which the hoarding shall have been removed and without prejudice to any other provision of the Act, a penalty of £40 per day or part thereof for every day that the hoarding remains in place, shall be payable.
 
 Application of these rules to fences.
 
