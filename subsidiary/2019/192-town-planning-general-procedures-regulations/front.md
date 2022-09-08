@@ -6,7 +6,9 @@ LN.2019/192
 
 Commencement 26.9.2019
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2022/267 Sch. 4 8.9.2022
 
 ARRANGEMENT OF REGULATIONS
 
@@ -28,9 +30,7 @@ PART IV Register
 
 9. Register of applications and decisions.
 
-PART V
-
-Directions and Consultations
+PART V Directions and Consultations
 
 10. Directions by the Minister. 11. Development not in accordance with the Planning Scheme. 12. Consultation before the grant of planning permission.
 

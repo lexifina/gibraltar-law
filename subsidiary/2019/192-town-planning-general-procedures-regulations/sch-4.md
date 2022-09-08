@@ -34,49 +34,37 @@ The fees contained below under the heading in paragraph 2 “Full Applications�
 
 Nature of Application
 
-Fee Payable
-
-1. Applications for outline planning permission.
+Fee Payable 1. Applications for outline planning permission.
 
 (A) Operations:
 
 (1)  Application for the erection of dwelling houses.
 
-(i)  £100 for site areas up to 200m²; (ii)  Where the site area exceeds 200m² - £100 + £150 for each 200m² (or part thereof) in excess of 200m² subject to a maximum of £6000.
+(i)  £110 for site areas up to 200m²; (ii)  Where the site area exceeds 200m² - £110 + £165 for each 200m² (or part thereof) in excess of 200m² subject to a maximum of £6500.
 
 (2)  Application for the erection of buildings other than buildings falling within subparagraphs (1), (3), (4), (5) (6) or (7).
 
-(i)  Where the area of gross floor space to be created by the development does not exceed 40m² - £100. (ii)  Where the area of gross floor space to be created by the development exceeds 40m² but does not exceed 75m² - £240. (iii)  Where the area of gross floor space to be created by the development exceeds 75m² - £240 for each 75m² (or part thereof) subject to a maximum of £9,000.
+(i)  Where the area of gross floor space to be created by the development does not exceed 40m² - £110. (ii)  Where the area of gross floor space to be created by the development exceeds 40m² but does not exceed 75m² - £260. (iii)  Where the area of gross floor space to be created by the development exceeds 75m² - £260 for each 75m² (or part thereof) subject to a maximum of £9,800.
 
 (3)  Application for the erection on land used for the purpose of agriculture or buildings to be used for agricultural purposes other than buildings falling within subparagraph (4).
 
-£160 for each 100m² (or part thereof) of the site area subject to a maximum of £4000.
+£175 for each 100m² (or part thereof) of the site area subject to a maximum of £4400. (4)  Application for the erection of glass houses on land used for the purpose of agriculture.
 
-(4)  Application for the erection of glass houses on land used for the purpose of agriculture.
+£100 where the gross floor space to be created by the development does not exceed 500m². Where the gross floor space to be created by the development exceeds 500m² - £100 + £65 for each 500m² (or part thereof) in excess of 500m² subject to a maximum of £2200. (5)  Application for the erection, alteration or replacement of plant and machinery.
 
-£90 where the gross floor space to be created by the development does not exceed 500m². Where the gross floor space to be created by the development exceeds 500m² - £90 +£60 for each 500m² (or part thereof) in excess of 500m² subject to a maximum of £2000.
+£195 up to 500m² (or part thereof) of the site area, subject to a maximum of £9,800. (6)  Application for the construction of car parks, multi- storey car parks, service roads and other means of access on land used for the purposes of a single undertaking, where the development is required for a purpose incidental to the existing use of the land.
 
-(5)  Application for the erection, alteration or replacement of plant and machinery.
-
-£180 up to 500m² (or part thereof) of the site area, subject to a maximum of £9,000.
-
-(6)  Application for the construction of car parks, multi- storey car parks, service roads and other means of access on land used for the purposes of a single undertaking, where the development is required for a purpose incidental to the existing use of the land.
-
-£180
+£195
 
 (7)  Application for the carrying out of any operations not coming within any of the above categories.
 
-£100 for each 500m² (or part thereof) of the site area, subject to a maximum of £9,000.
-
-(B) Uses of land (that do not fall under any of the above categories):
+£110 for each 500m² (or part thereof) of the site area, subject to a maximum of £9,800. (B) Uses of land (that do not fall under any of the above categories):
 
 (1)  The change of use of a building to use as one or more dwelling houses.
 
-£100 for each dwelling created subject to a maximum of £6000.
+£110 for each dwelling created subject to a maximum of £6500. (2)  The making of a material change in the use of a building or land (other than a material change of use coming within the above category).
 
-(2)  The making of a material change in the use of a building or land (other than a material change of use coming within the above category).
-
-(i) Where the site area does  not exceed 100m²- £90 (ii) Where the site area exceeds 100m²- £90 + £70 for every 100m², (or part thereof) in excess of 100m² subject to a maximum of £6000.
+(i) Where the site area does not exceed 100m²- £100 (ii) Where the site area exceeds 100m²- £100 + £80  for every 100m², (or part thereof) in excess of 100m² subject to a maximum of £6500.
 
 2.  Full applications.
 
@@ -86,315 +74,211 @@ Stage 2 Fee (1)  Domestic Extensions to a single dwelling-
 
 £
 
-£
+£ (a) Where the area of gross floor space to be created does not exceed 20m²
 
-(a) Where the area of gross floor space to be created does not exceed 20m²
+35
 
-30.00
-
-70.00
+80
 
 (b) Where the area of gross floor space to be created exceeds 20m² but does not exceed 40m²
 
-70.00
+80
 
-130.00
+145
 
 (c) Where the area of gross floor space exceeds 40m² but does not exceed 80m²
 
-100.00
+110
 
-200.00
+220
 
 (d) Detached garages or car ports
 
-40.00
+45
 
-70.00
+80
 
 (e) Loft conversion
 
-70.00
+80
 
-130.00
+145
 
 (2)  Improvements to an existing single dwelling-
 
 Applications for the alteration of an existing dwelling that does not result in an increase in gross floor space
 
-30.00
+35
 
-70.00
-
-(3)  New dwellings-
+80 (3)  New dwellings-
 
 Number of dwellings to be created:
 
-1
+1 100.00 160.00 2
 
-90.00
+200.00
 
-145.00 2
+335.00 3 325.00 500.00 4
 
-185.00
+395.00
 
-310.00 3
+725.00 5 495.00 965.00 6
 
-300.00
+560.00
 
-460.00 4
-
-365.00
-
-670.00 5
-
-455.00
-
-890.00 6
-
-515.00
-
-1090.00 7
-
-550.00
-
-1290.00 8
-
-645.00
-
-1510.00 9
+1180.00 7 595.00 1395.00 8
 
 700.00
 
-1730.00 10
+1635.00 9 760.00 1870.00 10
 
-760.00
+825.00
 
-1910.00 11
-
-790.00
-
-2090.00 12
-
-845.00
-
-2260.00 13
-
-860.00
-
-2430.00 14
-
-880.00
-
-2590.00 15
+2065.00 11 855.00 2260.00 12
 
 915.00
 
-2740.00
+2445.00 13
 
-16
+930.00
 
-945.00
+2625.00
 
-2890.00 17
+14 955.00 2800.00 15
 
 990.00
 
-3040.00 18
+2960.00 16 1025.00 3125.00 17
 
-1045.00
+1070.00
 
-3160.00 19
+3285.00 18 1130.00 3415.00 19
 
-1100.00
+1190.00
 
-3280.00 20
+3545.00 20 1310.00 3675.00 21
 
-1210.00
+1360.00 3805.00 22 1430.00 3935.00 23
 
-3400.00 21
+1475.00 4065.00 24
 
-1255.00 3520.00 22
+1515.00 4195.00 25
 
-1320.00 3640.00 23
+1570.00 4320.00 26
 
-1365.00 3760.00 24
+1615.00 4450.00 27
 
-1400.00 3880.00 25
+1665.00 4580.00 28
 
-1450.00 4000.00 26
+1725.00 4710.00 29
 
-1495.00 4120.00 27
+1755.00 4840.00 30
 
-1540.00 4240.00 28
+1805.00 4970.00 For each additional dwelling in excess of 30 add
 
-1595.00 4360.00 29
-
-1625.00 4480.00 30
-
-1670.00 4600.00 For each additional dwelling in excess of 30 add
-
-30.00 per dwelling 40.00 per dwelling
+35.00 per dwelling 45.00 per dwelling
 
 (4)  All other works where 80% of the estimated cost is-
 
 Less than £1,000
 
-10.00 30.00 £1,001 - £2,000
+15.00 35.00 £1,001 - £2,000 20.00 55.00 £2,001 - £3,000
 
-17.00 50.00 £2,001 - £3,000
+25.00 65.00 £3,001 - £4,000 30.00 90.00 £4,001 - £5,000
 
-20.00 60.00 £3,001 - £4,000
+35.00 110.00 £5,001 - £6,000 45.00 120.00 £6,001 - £7,000
 
-27.00 80.00 £4,001 - £5,000
+50.00 145.00 £7,001 - £8,000 55.00 165.00 £8,001 - £9,000
 
-33.00 102.00 £5,001 - £6,000
+60.00 175.00 £9,001 - £10,000 65.00 185.00 £10,001 - £12,000
 
-38.00 109.00 £6,001 - £7,000
+70.00 205.00 £12,001 - £14,000 80.00 235.00 £14,001 - £16,000
 
-45.00 132.00 £7,001 - £8,000
+90.00 270.00 £16,001 - £18,000 100.00 295.00 £18,001 - £20,000
 
-51.00 151.00 £8,001 - £9,000
+110.00 330.00 £20,001 - £25,000 125.00 370.00 £25,001 - £30,000
 
-53.00 160.00 £9,001 - £10,000
+140.00 420.00 £30,001 - £35,000
 
-57.00 170.00 £10,001 - £12,000
+165.00 470.00
 
-63.00 189.00 £12,001 - £14,000
+£35,001 - £40,000 180.00 540.00 £40,001 - £45,000
 
-73.00 217.00 £14,001 - £16,000
+200.00 590.00 £45,001 - £50,000 215.00 640.00 £50,001 - £60,000
 
-82.00 247.00 £16,001 - £18,000
+240.00 710.00 £60,001 - £70,000 280.00 835.00 £70,001 - £80,000
 
-92.00 273.00 £18,001 - £20,000
+310.00 955.00 £80,001 - £90,000 345.00 1030.00 £90,001 - £100,000
 
-101.00 302.00 £20,001 - £25,000
+380.00 1130.00 £100,001 - £140,000 415.00 1240.00 £140,001 - £180,000
 
-114.00 340.00 £25,001 - £30,000
+535.00 1600.00 £180,001 - £240,000
 
-129.00 385.00 £30,001 - £35,000
+665.00 1665.00 £240,001 - £300,000
 
-149.00 431.00 £35,001 - £40,000
+825.00 2,470.00 £300,001 - £400,000
 
-166.00 498.00 £40,001 - £45,000
+995.00 2,955.00 £400,001 -£500,000
 
-182.00 544.00 £45,001 - £50,000
+1,255.00 3,755.00 £500,001 - £700,000
 
-196.00 591.00
+1,470.00 5,060.00 £700,001-£1,000,000
 
-£50,001 - £60,000
+1,915.00 5,740.00 £1,000,001-£1,100,000
 
-220.00 657.00 £60,001 - £70,000
+2,240.00 6,710.00 £1,100,001-£1,200,000
 
-257.00 770.00 £70,001 - £80,000
+2,565.00 7,680.00 £1,200,001-£1,300,000
 
-285.00 884.00 £80,001 - £90,000
+2,885.00 8,650.00 £1,300,001-£1,400,000 3,210.00 9,615.00 £1,400,001-£1,500,000
 
-318.00 952.00 £90,001 - £100,000
+3,535.00 10,585.00 £1,500,001-£1,600,000 3,860.00 11,555.00 £1,600,001-£1,700,000
 
-348.00 1,043.00 £100,001 - £140,000
+4,185.00 12,525.00 £1,700,001-£1,800,000 4,505.00 13,490.00 £1,800,001-£1,900,000
 
-381.00 1,144.00 £140,001 - £180,000
+4,830.00 14,460.00 £1,900,001-£2,000,000 5,155.00 15,430.00 £2,000,001-£2,100,000
 
-493.00 1,480.00 £180,001 - £240,000
+5,480.00 16,400.00 £2,100,001-£2,200,000 5,805.00 17,370.00 £2,200,001-£2,300,000
 
-613.00 1,538.00 £240,001 - £300,000
+6,125.00 18,335.00 £2,300,001-£2,400,000 6,450.00 19,305.00 £2,400,001-£2,500,000
 
-762.00 2,287.00 £300,001 - £400,000
+6,775.00 20,275.00 £2,500,001-£2,600,000 7,100.00 21,245.00 £2,600,001-£2,700,000
 
-918.00 2,736.00 £400,001 -£500,000
+7,425.00 22,210.00 £2,700,001-£2,800,000 7,745.00 23,180.00 £2,800,001-£2,900,000
 
-1,158.00 3,476.00 £500,001 - £700,000
+8,070.00 24,150.00 £2,900,001-£3,000,000 8,395.00 25,120.00 £3,000,001-£3,100,000
 
-1,360.00 4,681.00 £700,001-£1,000,000
+8,720.00 26,085.00 £3,100,001-£3,200,000 9,045.00 27,055.00 £3,200,001-£3,300,000
 
-1,771.00 5,315.00 £1,000,001-£1,100,000
+9,365.00 28,025.00 £3,300,001-£3,400,000 9,690.00 28,995.00 £3,400,001-£3,500,000
 
-2,071.00 6,212.00 £1,100,001-£1,200,000
+10,015.00 29,960.00 £3,500,001-£3,600,000
 
-2,371.00 7,109.00 £1,200,001-£1,300,000
+10,340.00 30,930.00
 
-2,671.00 8,006.00 £1,300,001-£1,400,000
+£3,600,001-£3,700,000 10,665.00 31,900.00 £3,700,001-£3,800,000
 
-2,971.00 8,903.00 £1,400,001-£1,500,000
+10,985.00 32,870.00 £3,800,001-£3,900,000 11,310.00 33,835.00 £3,900,001-£4,000,000
 
-3,271.00 9,800.00 £1,500,001-£1,600,000
+11,635.00 34,805.00 £4,000,001-£4,100,000 11,960.00 35,775.00 £4,100,001-£4,200,000
 
-3,571.00 10,697.00 £1,600,001-£1,700,000
+12,285.00 36,745.00 £4,200,001-£4,300,000 12,605.00 37,710.00 £4,300,001-£4,400,000
 
-3,871.00 11,594.00 £1,700,001-£1,800,000
+12,930.00 38,680.00 £4,400,001-£4,500,000 13,255.00 39,650.00 £4,500,001-£4,600,000
 
-4,171.00 12,491.00 £1,800,001-£1,900,000
+13,580.00 40,620.00 £4,600,001-£4,700,000
 
-4,471.00 13,388.00 £1,900,001-£2,000,000
+13,905.00 41,585.00 £4,700,001-£4,800,000
 
-4,771.00 14,285.00 £2,000,001-£2,100,000
+14,225.00 42,555.00 £4,800,001-£4,900,000
 
-5,071.00 15,182.00 £2,100,001-£2,200,000
+14,550.00 43,525.00 £4,900,001-£5,000,000
 
-5,371.00 16,079.00 £2,200,001-£2,300,000
-
-5,671.00 16,976.00 £2,300,001-£2,400,000
-
-5,971.00 17,873.00 £2,400,001-£2,500,000
-
-6,271.00 18,770.00 £2,500,001-£2,600,000
-
-6,571.00 19,667.00 £2,600,001-£2,700,000
-
-6,871.00 20,564.00 £2,700,001-£2,800,000
-
-7,171.00 21,461.00 £2,800,001-£2,900,000
-
-7,471.00 22,358.00 £2,900,001-£3,000,000
-
-7,771.00 23,255.00 £3,000,001-£3,100,000
-
-8,071.00 24,152.00 £3,100,001-£3,200,000
-
-8,371.00 25,049.00 £3,200,001-£3,300,000
-
-8,671.00 25,946.00 £3,300,001-£3,400,000
-
-8,971.00 26,843.00 £3,400,001-£3,500,000
-
-9,271.00 27,740.00 £3,500,001-£3,600,000
-
-9,571.00 28,637.00 £3,600,001-£3,700,000
-
-9,871.00 29,534.00 £3,700,001-£3,800,000
-
-10,171.00 30,431.00 £3,800,001-£3,900,000
-
-10,471.00 31,328.00
-
-£3,900,001-£4,000,000
-
-10,771.00 32,225.00 £4,000,001-£4,100,000
-
-11,071.00 33,122.00 £4,100,001-£4,200,000
-
-11,371.00 34,019.00 £4,200,001-£4,300,000
-
-11,671.00 34,916.00 £4,300,001-£4,400,000
-
-11,971.00 35,813.00 £4,400,001-£4,500,000
-
-12,271.00 36,710.00 £4,500,001-£4,600,000
-
-12,571.00 37,607.00 £4,600,001-£4,700,000
-
-12,871.00 38,504.00 £4,700,001-£4,800,000
-
-13,171.00 39,401.00 £4,800,001-£4,900,000
-
-13,471.00 40,298.00 £4,900,001-£5,000,000
-
-13,771.00 41,195.00
+14,875.00 44,495.00
 
 and thereafter for each additional £100,000 or part thereof
 
-13,771.00 plus £300.00 for each £100,000 (or part thereof) 41,195.00 plus £900.00 for each £100,000 (or part thereof)
+14,875.00 plus £325.00 for each £100,000 (or part thereof) 44,495.00 plus £975.00 for each £100,000 (or part thereof)
 
 3. Other.
 
@@ -402,10 +286,10 @@ and thereafter for each additional £100,000 or part thereof
 
 Renewal of permission
 
-25% of the total original fee or £100 whichever is the lesser
+25% of the total original fee or £110 whichever is the lesser
 
 (B) Amendments:
 
 Minor amendments to an application after permission has been granted
 
-25% of the total original fee or £200 whichever is the lesser
+25% of the total original fee or £220 whichever is the lesser
