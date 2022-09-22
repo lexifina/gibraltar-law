@@ -7,9 +7,3 @@ MEANING OF “MEDICAL CERTIFICATE”
 2.  A certificate shall not be regarded as a medical certificate in relation to a person driving or travelling in a vehicle for the purposes of these Regulations unless it specifies its period of validity and otherwise complies with the requirements of Article 5 of the Directive.
 
 3.  Paragraph 2 does not apply in relation to a certificate issued before the coming into force of these Regulations.
-
-Traffic TRAFFIC (WEARING OF SAFETY BELTS) REGULATIONS 2008
-
-2005-26
-
-Subsidiary 2008/004
