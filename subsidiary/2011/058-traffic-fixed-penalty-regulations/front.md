@@ -1,26 +1,16 @@
-Traffic TRAFFIC (FIXED PENALTY) REGULATIONS 2011
+Subsidiary Legislation made under s.97.
 
-2005-26
+Traffic (Fixed Penalty) Regulations 2011
 
-Subsidiary 2011/058 Subsidiary Legislation made under s. 97.
-
-TRAFFIC (FIXED PENALTY) REGULATIONS 2011
-
-(LN. 2011/058)
+LN.2011/058
 
 Commencement 14.4.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2011/084 Sch. 1 9.6.2011 2012/015 Sch. 1 16.2.2012 2012/068 Sch. 1 26.4.2012 2012/141 Sch. 1 18.10.2012 2012/153 Sch. 1 8.11.2012 2013/032 Sch. 1 14.2.2013 2013/035 Sch. 1 21.2.2013 2013/060 Sch. 1 18.4.2013 2017/077 rr. 4, 8(1), (3), Sch. 1 & 2 20.4.2017 2017/109 Sch. 1 14.6.2017 2018/176 Sch. 1 6.8.2018 2018/274 Sch. 1 3.12.2018 2022/020 Sch. 1 27.1.2022
+LN. 2011/084 Sch. 1 9.6.2011 2012/015 Sch. 1 16.2.2012 2012/068 Sch. 1 26.4.2012 2012/141 Sch. 1 18.10.2012 2012/153 Sch. 1 8.11.2012 2013/032 Sch. 1 14.2.2013 2013/035 Sch. 1 21.2.2013 2013/060 Sch. 1 18.4.2013 2017/077 rr. 4, 8(1), (3), Sch. 1 & 2 20.4.2017 2017/109 Sch. 1 14.6.2017 2018/176 Sch. 1 6.8.2018 2018/274 Sch. 1 3.12.2018 2022/020 Sch. 1 27.1.2022 2022/277 Sch. 1 22.9.2022
 
-Traffic TRAFFIC (FIXED PENALTY) REGULATIONS 2011
-
-2005-26
-
-Subsidiary 2011/058
-
-ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -30,11 +20,7 @@ SCHEDULE 1 FIXED PENALTY OFFENCES
 
 SCHEDULE 2 Revoked
 
-Traffic TRAFFIC (FIXED PENALTY) REGULATIONS 2011
-
-2005-26
-
-Subsidiary 2011/058 In exercise of the powers conferred on the Government by section 97 of the Traffic Act 2005, the Government has made the following Regulations–
+In exercise of the powers conferred on the Government by section 97 of the Traffic Act 2005, the Government has made the following Regulations–
 
 Title and commencement.
 
@@ -64,12 +50,6 @@ Only full amount of penalty to be accepted.
 
 7. If less than the full amount of a fixed penalty payable on the date of payment is tendered to the designated person in payment of the fixed penalty the clerk shall, as soon as practicable, return to the sender the amount tendered.
 
-Traffic TRAFFIC (FIXED PENALTY) REGULATIONS 2011
-
-2005-26
-
-Subsidiary 2011/058
-
 Discounts for prompt payment.
 
 8.(1)  This regulation applies where a person is served a fixed penalty notice under Part VIIA of the Act.
@@ -86,18 +66,6 @@ Revocation.
 
 10.  The Traffic (Fixed Penalty Offences) Notice 2005, the Traffic (Fixed Penalty) Regulations and the Traffic (Fixed Penalty Rates) Order are revoked.
 
-Traffic TRAFFIC (FIXED PENALTY) REGULATIONS 2011
-
-2005-26
-
-Subsidiary 2011/058
-
-SCHEDULE 1 Regulations 2 and 3
+SCHEDULE 1
 
 FIXED PENALTY OFFENCES
-
-DESCRIPTION OF THE OFFENCE ENACTMENT FIXED PENALTY (£)
-
-CONTROL OF TRAFFIC REGULATIONS
-
-1ZA. Overtaking traffic other than on the left Regulation 8(2) (50% discount) does not apply.
