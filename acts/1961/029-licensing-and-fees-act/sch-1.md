@@ -212,10 +212,18 @@ Sustainable Tourism Fee.
 
 (6) In this paragraph-
 
+“charity” has the meaning given by the Charities Act;
+
 “hotel” includes, a hostel;
 
 “letting agent” means any person who engages in the activity of letting properties in exchange for a fee or commission;
 
 “rented accommodation” means any accommodation that is made available to a visitor for a fee, it includes a single room in a property where it is rented on that basis, and where the rented accommodation is on board a vessel, it includes a single cabin in that vessel or the whole vessel, as the case may be.
 
-(7) This paragraph does not apply to a visitor who arrives in Gibraltar on a cruise ship and to whom the charges in paragraph 3(e) of Schedule 4 to the Port Rules apply.
+(7) This paragraph does not apply to-
+
+(a) a child under the age of 12 years;
+
+(b) a visitor who is staying in accommodation that is owned, operated or managed by a charity and approved by the Minister as being exempted accommodation for the purposes of this paragraph; or
+
+(c) a visitor who arrives in Gibraltar on a cruise ship and to whom the charges in paragraph 3(e) of Schedule 4 to the Port Rules apply.
