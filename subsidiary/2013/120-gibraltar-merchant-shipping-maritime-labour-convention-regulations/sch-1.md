@@ -26,11 +26,7 @@ further determine the nature of the medical examination to be conducted in accor
 
 Review of medical practitioner’s decision.
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
-
-1995-13
-
-Subsidiary 2013/120 4.  A person who has been refused a medical certificate or who has had a restriction imposed on such a certificate and who−
+4.  A person who has been refused a medical certificate or who has had a restriction imposed on such a certificate and who−
 
 (a) has applied to the Maritime Administrator, within one month of that refusal or imposition of a restriction, for review of that decision;
 
@@ -42,7 +38,7 @@ may have the matter reviewed by an independent medical practitioner appointed by
 
 5.  An independent medical practitioner appointed by the Maritime Administrator in accordance with paragraph 4 must−
 
-(a) examine the person to whom the application relates in accordance with the ILO/WHO Guidelines for Conducting Pre- Sea and Periodic Medical Fitness Examinations for Seafarers, as currently in force, and any other applicable international guidelines published by the International Labour Organisation, the International Maritime Organisation and the World Health Organisation; and
+(a) examine the person to whom the application relates in accordance with the ILO/WHO Guidelines for Conducting Pre-Sea and Periodic Medical Fitness Examinations for Seafarers, as currently in force, and any other applicable international guidelines published by the International Labour Organisation, the International Maritime Organisation and the World Health Organisation; and
 
 (b) if the medical practitioner, exercising full professional independence, considers that person to be fit to perform the duties which that person will carry out at sea, must issue that person with a medical certificate, and include in that certificate any restrictions or conditions appropriate to that person’s medical condition and the duties which that person is to carry out at sea.
 
@@ -52,11 +48,7 @@ Interpretation.
 
 “approved medical practitioner” means−
 
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
-
-1995-13
-
-Subsidiary 2013/120 (a) a medical practitioner entitled to practise in Gibraltar, and approved for the purpose of issuing medical certificates by the Maritime Administrator;
+(a) a medical practitioner entitled to practise in Gibraltar, and approved for the purpose of issuing medical certificates by the Maritime Administrator;
 
 (b) a medical practitioner approved by the Secretary of State to issue medical fitness certificates to seafarers;
 
@@ -74,12 +66,6 @@ Subsidiary 2013/120 (a) a medical practitioner entitled to practise in Gibraltar
 
 (iii) for such shorter period as is specified on the certificate,
 
-(a) restricted to such capacity of sea service or geographical areas as are recorded on the certificate by the medical practitioner,;
+(a) restricted to such capacity of sea service or geographical areas as are recorded on the certificate by the medical practitioner;
 
 (b) subject to such conditions as are recorded on the certificate by the medical practitioner.
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
-
-1995-13
-
-Subsidiary 2013/120

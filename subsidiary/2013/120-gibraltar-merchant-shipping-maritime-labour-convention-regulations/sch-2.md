@@ -16,19 +16,13 @@ WORKFORCE AGREEMENTS
 
 (d) the agreement is signed–
 
-(i) in the case of an agreement of the kind referred to in sub- paragraph (c)(i), by the representatives of the workforce, and in the case of an agreement of the kind referred to in sub-paragraph (c)(ii), by the representatives of the group to which the agreement applies (excluding, in either case, any representative not a relevant member of the workforce on the date on which the agreement was first made available for signature); or
+(i) in the case of an agreement of the kind referred to in sub-paragraph (c)(i), by the representatives of the workforce, and in the case of an agreement of the kind referred to in sub-paragraph (c)(ii), by the representatives of the group to which the agreement applies (excluding, in either case, any representative not a relevant member of the workforce on the date on which the agreement was first made available for signature); or
 
 (ii) if the employer employed 20 or fewer individuals on the date referred to in sub-paragraph (d)(i) above, either by the appropriate representatives in accordance with that sub-paragraph or by the majority of the individuals employed by him; and
 
 (iii) before the agreement was made available for signature, the employer provided all the employees to whom it was intended to apply on the date on which it came into effect with copies of the text of the agreement and such guidance as those employees might reasonably require in order to understand it in full.
 
 2.  For the purposes of this Schedule–
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
-
-1995-13
-
-Subsidiary 2013/120
 
 “a particular group” is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace or belong to a particular department or unit within their employer’s business;
 
@@ -51,12 +45,6 @@ Subsidiary 2013/120
 (f) the election is conducted so as to secure that–
 
 (i) so far as reasonably practicable, those voting do so in secret, and
-
-Gibraltar Merchant Shipping (Safety, etc.) GIBRALTAR MERCHANT SHIPPING (MARITIME LABOUR CONVENTION) REGULATIONS 2013
-
-1995-13
-
-Subsidiary 2013/120
 
 (ii) the votes given at the election are fairly and accurately counted.
 
