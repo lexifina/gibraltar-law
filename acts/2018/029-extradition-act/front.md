@@ -4,13 +4,9 @@ Principal Act
 
 Act. No. 2018-29 Notice of Commencement L.N 2019/010 (except for ss.79-85, 99(3)(d) & Sch.1)
 
-24.1.2019
+24.1.2019 Assent 20.12.2018
 
-Assent 20.12.2018
-
-Amending enactments Relevant current provisions Commencement date
-
-LN.  2019/017 ss.2(3)(b), 12(1)(a), 86(2), 123(1)(b), 123(1)(c) 31.1.2019 2020/521 ss.2(3)(b), 3(1), 67(4), (6) 1.1.2021
+Amending enactments Relevant current provisions Commencement date LN. 2019/017 ss.2(3)(b), 12(1)(a), 86(2), 123(1)(b), 123(1)(c) 31.1.2019 2020/521 ss.2(3)(b), 3(1), 67(4), (6) 1.1.2021 Act. 2022-09 ss. 17(1)(e), 19A, 109A, 110A-110B 20.10.2022
 
 ARRANGEMENT OF SECTIONS
 
@@ -36,9 +32,9 @@ Arrest
 
 The extradition hearing
 
-11. Date of extradition hearing: arrest under warrant. 12. Date of extradition hearing:  arrest under provisional warrant. 13. Magistrates’ power at extradition hearing. 14. Initial stages of extradition hearing. 15. Person charged with offence in Gibraltar. 16. Person serving sentence in Gibraltar. 17. Bars to extradition. 18. Rule against double jeopardy. 19. Extraneous considerations. 20. Passage of time. 21. Hostage-taking considerations.
+11. Date of extradition hearing: arrest under warrant. 12. Date of extradition hearing:  arrest under provisional warrant. 13. Magistrates’ power at extradition hearing. 14. Initial stages of extradition hearing. 15. Person charged with offence in Gibraltar. 16. Person serving sentence in Gibraltar. 17. Bars to extradition. 18. Rule against double jeopardy. 19. Extraneous considerations. 19A. Age. 20. Passage of time.
 
-22. Case where person has not been convicted. 23. Case where person has been convicted. 24. Conviction in person’s absence. 25. Human rights. 26. Competing extradition claim. 27. Physical or mental condition. 28. Case sent to Central Authority.
+21. Hostage-taking considerations. 22. Case where person has not been convicted. 23. Case where person has been convicted. 24. Conviction in person’s absence. 25. Human rights. 26. Competing extradition claim. 27. Physical or mental condition. 28. Case sent to Central Authority.
 
 Central Authority’s functions
 
@@ -50,9 +46,9 @@ Appeals
 
 Time for extradition
 
-53. Extradition where no appeal. 54. Extradition following appeal. 55. Undertaking in relation to person serving sentence in Gibraltar. 56. Extradition following deferral for competing claim.
+53. Extradition where no appeal. 54. Extradition following appeal. 55. Undertaking in relation to person serving sentence in Gibraltar.
 
-57. Asylum claim.
+56. Extradition following deferral for competing claim. 57. Asylum claim.
 
 Withdrawal of extradition request
 
@@ -126,11 +122,15 @@ Re-extradition
 
 International Conventions and Agreements
 
-109. International Conventions and Agreements.
+109. International Conventions and Agreements. 109A. Power to make regulations to implement conventions and international agreements.
 
 Special extradition arrangements.
 
-110. Special extradition arrangements. 111. Custody.
+110. Special extradition arrangements.
+
+Transit arrangements
+
+110A. Interpretation. 110B. Transit through Gibraltar. 111. Custody.
 
 Evidence
 
@@ -138,9 +138,7 @@ Evidence
 
 Other miscellaneous provisions
 
-115. Service of notices. 116. Language of documents received. 117. Burden and standard of proof. 118. Extradition for more than one offence. 119. Reasonable force.
-
-120. Rules of court. 121. Regulations. 122. Form of documents.
+115. Service of notices. 116. Language of documents received. 117. Burden and standard of proof. 118. Extradition for more than one offence. 119. Reasonable force. 120. Rules of court. 121. Regulations. 122. Form of documents.
 
 Consequential amendments
 
