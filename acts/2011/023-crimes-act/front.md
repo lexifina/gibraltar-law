@@ -16,7 +16,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136 3 Commencement notice see LN. 2017/097 4 Commencement notice see LN. 2018/271
 
-2019-19 ss. 163A-163E 15.7.20215
+2019-19 ss. 163A-163E 15.7.20215 2022-11 ss. 315G-315M 27.10.2022
 
 Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU Directive 2013/40/EU
 
@@ -328,7 +328,9 @@ PART 13 SEX OFFENDERS (NOTIFICATION AND ORDERS)
 
 Notification requirements
 
-306. Persons subject to notification requirements. 307. The notification period. 308. Notification requirements: Initial notification. 309. Notification requirements: Changes. 310. Notification requirements: Periodic notification. 311. Notification requirements: Travel outside Gibraltar. 312. Method of notification and related matters. 313. Young offenders: Parental directions. 314. Parental directions: Variation, renewal and discharge. 315. Offences relating to notification. 315A.  Review of indefinite notification requirements: qualifying relevant offender. 315B.   Review of indefinite notification requirements: application for review and qualifying dates. 315C.  Review of indefinite notification requirements: determination of application for review. 315D.  Review of indefinite notification requirements: factors applying to determination under section 315C. 315E.  Review of indefinite notification requirements: appeals. 315F.  Review of indefinite notification requirements: guidance. 316. Certificates for purposes of Part.
+306. Persons subject to notification requirements. 307. The notification period. 308. Notification requirements: Initial notification. 309. Notification requirements: Changes. 310. Notification requirements: Periodic notification. 311. Notification requirements: Travel outside Gibraltar. 312. Method of notification and related matters. 313. Young offenders: Parental directions. 314. Parental directions: Variation, renewal and discharge. 315. Offences relating to notification. 315A.  Review of indefinite notification requirements: qualifying relevant offender. 315B.   Review of indefinite notification requirements: application for review and qualifying dates. 315C.  Review of indefinite notification requirements: determination of application for review. 315D.  Review of indefinite notification requirements: factors applying to determination under section 315C. 315E.  Review of indefinite notification requirements: appeals. 315F.  Review of indefinite notification requirements: guidance. 315G. Review of notification requirements: cases where the victim was 16 or over when the offence was committed and the activity was consensual. 315H. Review of notification requirements: application for review.
+
+315I. Review of notification requirements: determination of application for review. 315J. Review of notification requirements: factors applying to determinations under section 315G. 315K. Review of notification requirements: appeals. 315L. Review of indefinite notification requirements: guidance. 315M. Review of notification requirements: successive applications under section 315G. 316. Certificates for purposes of Part.
 
 Information relating to notification
 
@@ -364,13 +366,13 @@ PART 15 COMPUTER MISUSE
 
 Computer misuse offences
 
-362. Unauthorised access to computer material. 363. Unauthorised access with intent to commit or facilitate commission of further offences. 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc. 365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364, 365 or 366A. 366A.  Unauthorised acts causing, or creating risk of, serious damage. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
+362. Unauthorised access to computer material. 363. Unauthorised access with intent to commit or facilitate commission of further offences. 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc. 365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364, 365 or 366A.
+
+366A.  Unauthorised acts causing, or creating risk of, serious damage. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
 
 Jurisdiction
 
-369. Territorial scope of offences under this Part. 370. Significant links with Gibraltar. 371. Territorial scope of inchoate offences related to offences under this Part.
-
-372. Relevance of external law. 373. National status immaterial.
+369. Territorial scope of offences under this Part. 370. Significant links with Gibraltar. 371. Territorial scope of inchoate offences related to offences under this Part. 372. Relevance of external law. 373. National status immaterial.
 
 Investigation of offences
 
@@ -426,7 +428,9 @@ Counterfeiting and kindred offences
 
 Penalties and powers
 
-450. Penalties for forgery offences. 451. Penalties for counterfeiting offences. 452. Powers of search and seizure. 453. Power of forfeiture.
+450. Penalties for forgery offences.
+
+451. Penalties for counterfeiting offences. 452. Powers of search and seizure. 453. Power of forfeiture.
 
 Counterfeiting of Euros
 
@@ -482,9 +486,7 @@ PART 21 DRUGS MISUSE
 
 Preliminary
 
-500. Interpretation of Part.
-
-501. Meaning and evidence of “corresponding law”. 502. Controlled drugs and their classification.
+500. Interpretation of Part. 501. Meaning and evidence of “corresponding law”. 502. Controlled drugs and their classification.
 
 Restrictions concerning controlled drugs
 
@@ -500,13 +502,13 @@ Vienna Convention
 
 Offences and enforcement
 
-518. Liabilities of occupiers. 519. Prohibitions concerning opium. 520. Prohibition of supply, etc. of articles for administering or preparing controlled drugs. 521. Miscellaneous offences. 522. Assisting, etc. commission of offence outside Gibraltar. 523. Powers of search and seizure. 524. Prosecution and punishment.
+518. Liabilities of occupiers. 519. Prohibitions concerning opium. 520. Prohibition of supply, etc. of articles for administering or preparing controlled drugs. 521. Miscellaneous offences. 522. Assisting, etc. commission of offence outside Gibraltar. 523. Powers of search and seizure.
+
+524. Prosecution and punishment.
 
 Miscellaneous
 
-525. Forfeiture. 526. Evidence and defences. 527. Licences and authorities. 528. Certificate of analysis. 529. General provisions as to regulations.
-
-530. Advisory Council.
+525. Forfeiture. 526. Evidence and defences. 527. Licences and authorities. 528. Certificate of analysis. 529. General provisions as to regulations. 530. Advisory Council.
 
 PART 22 CRIMINAL TRESPASS
 
@@ -528,13 +530,13 @@ Designated sites
 
 546. Trespassing on designated site.
 
-PART 23 PUBLIC NUISANCES, ETC.
+PART 23
+
+PUBLIC NUISANCES, ETC.
 
 Public nuisances
 
-547. Feeding of Barbary Macaques. 548. Noise. 549. Exemptions. 550. Other nuisances. 551. Disposal of proceeds of sale, etc.
-
-552. Posting bills and graffiti. 553. Prohibited areas for pleasure boats and bathing. 554. Vessels not to inconvenience bathers. 555. Underwater fishing. 556. Discharging firearms, etc.
+547. Feeding of Barbary Macaques. 548. Noise. 549. Exemptions. 550. Other nuisances. 551. Disposal of proceeds of sale, etc. 552. Posting bills and graffiti. 553. Prohibited areas for pleasure boats and bathing. 554. Vessels not to inconvenience bathers. 555. Underwater fishing. 556. Discharging firearms, etc.
 
 Intoxication
 
@@ -582,9 +584,7 @@ The Armed Forces
 
 PART 27 SUPPLEMENTARY PROVISIONS
 
-598. Regulations.
-
-599. Repeals and savings. 600. Savings for other laws. 601. Transitional provisions. 602. Consequential amendments.
+598. Regulations. 599. Repeals and savings. 600. Savings for other laws. 601. Transitional provisions. 602. Consequential amendments.
 
 SCHEDULE 1 Forfeiture of indecent photographs of children
 
