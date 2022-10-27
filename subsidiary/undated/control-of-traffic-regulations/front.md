@@ -1,20 +1,14 @@
-Traffic CONTROL OF TRAFFIC REGULATIONS
+Subsidiary Legislation made under ss.76 & 89
 
-2005-26
+Control of Traffic Regulations
 
-Subsidiary [1960.03.15] Regulations made or deemed to have been made under ss.76 & 89.
+1960.03.15
 
-CONTROL OF TRAFFIC REGULATIONS
+Commencement 15.03.1960
 
-[1960.03.15]
+Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996 1996/090 rr. 47A-47D, Schs.8-Sch.11 19.9.1996 Act. 1998-44 rr. 34-36 22.9.2000 LN. 2000/085 r. 59(2)(b) 2.11.2000 2001/005 Sch.4 1.2.2001 2002/073 rr. 56-58, 64 17.10.2002 Act. 2007-17 r. 19(3)(c) 14.6.2007 LN. 2008/061 r. 32 14.8.2008 2011/057 rr. 54-63 9.6.2011 2011/178 r. 14 29.9.2011 2012/031 r. 32 10.4.2012 2012/142 rr. 53A-53C, Sch.12 18.10.2012 2015/124 r. 33 29.7.2015 2018/253 r. 33A 8.11.2018 2018/260 r. 33A(3) 15.11.2018 2018/292 r. 9, Sch.13 20.12.2018 2019/034 rr. 9A, 31A 14.2.2019 2022/294 r. 3A 27.10.2022 ARRANGEMENT OF REGULATIONS
 
-Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996 1996/090 rr. 47A-47D, Schs.8-Sch.11 19.9.1996 Act. 1998-44 rr. 34-36 22.9.2000 LN. 2000/085 r. 59(2)(b) 2.11.2000 2001/005 Sch.4 1.2.2001 2002/073 rr. 56-58, 64 17.10.2002 Act. 2007-17 r. 19(3)(c) 14.6.2007 LN. 2008/061 r. 32 14.8.2008 2011/057 rr. 54-63 9.6.2011 2011/178 r. 14 29.9.2011 2012/031 r. 32 10.4.2012 2012/142 rr. 53A-53C, Sch.12 18.10.2012 2015/124 r. 33 29.7.2015 2018/253 r. 33A 8.11.2018 2018/260 r. 33A(3) 15.11.2018 2018/292 r. 9, Sch.13 20.12.2018 2019/034 rr. 9A, 31A 14.2.2019
-
-Traffic CONTROL OF TRAFFIC REGULATIONS
-
-2005-26
-
-Subsidiary [1960.03.15] ARRANGEMENT OF REGULATIONS.
+Regulation
 
 Preliminary
 
@@ -22,17 +16,13 @@ Preliminary
 
 General Rules of the Road
 
-3. Overtaking. 4. Roundabouts. 5. Turning left or right. 6. Giving way. 7. Slow traffic. 8. Unattended vehicles. 9. Driving or riding on the footpath. 9A. Tunnels
+3. Overtaking. 3A. Overtaking of bicycles, etc. 4. Roundabouts. 5. Turning left or right. 6. Giving way. 7. Slow traffic. 8. Unattended vehicles. 9. Driving or riding on the footpath. 9A. Tunnels
 
 Motor Vehicles
 
-10. Driver to have proper control. 11. Maintenance of vehicle and conditions of loading so as not to be a danger. 12. Riding in a dangerous position. 13. Passengers on goods vehicles. 14. Restriction on reversing. 15. Signalling change of direction. 16. Direction indicators and brake lights. 17. Obstructing roads. 18. Obstructing entrances. 19. Vehicles excluded from City. 19A. Bomb House Lane restriction. 20. Restrictions on lamps. 21. Sound warnings. 22. Avoidable excessive noise. 23. Use and maintenance of silencer. 24. Stopping of engine when stationary. 25. Refuelling. 26. Repairing vehicles on roads. 27. Length of tow rope. 28. Trailers not to be drawn by public service vehicles. 29. Number of trailers permitted. 30. Trailer couplings. 31. Trailers on motor cycles. 31A. Loads longer or wider than the vehicle. 32. Wearing of protective headgear.
+10. Driver to have proper control. 11. Maintenance of vehicle and conditions of loading so as not to be a danger. 12. Riding in a dangerous position. 13. Passengers on goods vehicles. 14. Restriction on reversing. 15. Signalling change of direction. 16. Direction indicators and brake lights. 17. Obstructing roads. 18. Obstructing entrances. 19. Vehicles excluded from City. 19A. Bomb House Lane restriction. 20. Restrictions on lamps. 21. Sound warnings. 22. Avoidable excessive noise. 23. Use and maintenance of silencer. 24. Stopping of engine when stationary. 25. Refuelling. 26. Repairing vehicles on roads. 27. Length of tow rope. 28. Trailers not to be drawn by public service vehicles. 29. Number of trailers permitted. 30. Trailer couplings.
 
-Traffic CONTROL OF TRAFFIC REGULATIONS
-
-2005-26
-
-Subsidiary [1960.03.15] 33. Footrests for passengers on motor cycles. 33A. Control of motorcycle.
+31. Trailers on motor cycles. 31A. Loads longer or wider than the vehicle. 32. Wearing of protective headgear. 33. Footrests for passengers on motor cycles. 33A. Control of motorcycle.
 
 34 to 36. Revoked.
 
@@ -46,7 +36,7 @@ Speed Limits.
 
 One-way Streets
 
-45. Constitution of one-way streets. 46. Direction of traffic at Glacis Estate. 47. Direction of traffic at Laguna Estate. 47A. Repealed. 47B. Direction of  traffic at Varyl Begg Estate. 47C. Direction of  traffic in Moorish Castle Estate. 47D. Direction of  traffic at Harbour Views Road and Westside Road.
+45. Constitution of one-way streets. 46. Direction of traffic at Glacis Estate. 47. Direction of traffic at Laguna Estate. 47A. Repealed. 47B. Direction of traffic at Varyl Begg Estate. 47C. Direction of traffic in Moorish Castle Estate. 47D. Direction of traffic at Harbour Views Road and Westside Road.
 
 Pedestrian Crossings
 
@@ -58,13 +48,7 @@ No Stopping within a Clearway
 
 Box Junctions
 
-53B.  Box junctions.
-
-Traffic CONTROL OF TRAFFIC REGULATIONS
-
-2005-26
-
-Subsidiary [1960.03.15] 53C.   Interpretation.
+53B.  Box junctions. 53C.  Interpretation.
 
 Traffic Wardens
 
@@ -96,14 +80,4 @@ SCHEDULE 10. Moorish Castle Estate
 
 SCHEDULE 11. Harbour Views Road and Westside Road.
 
-SCHEDULE 12
-
-Traffic CONTROL OF TRAFFIC REGULATIONS
-
-2005-26
-
-Subsidiary [1960.03.15] Clearway
-
-SCHEDULE 13 Vehicles and classes of vehicle authorized to drive or ride on footpaths
-
-Traffic CONTROL OF TRAFFIC REGULATIONS
+SCHEDULE 12 Clearway

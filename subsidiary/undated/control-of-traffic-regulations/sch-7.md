@@ -1,0 +1,7 @@
+SCHEDULE 7.
+
+TRAFFIC WARDEN’S SIGN
+
+____________________ SCHEDULE 8. Repealed
+
+STOP CHILDREN CROSSING 18” 4” 4” 2” 2” ” ”
