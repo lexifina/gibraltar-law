@@ -14,7 +14,7 @@ rr. 3(1), (7), 4, 7(3)(a)-(c), 9(1)(b), (4)(a), (6)(a)-(b), 12(4), (a)-(b), 14(2
 
 1.1.2021 2021/493 r. 15(3) 1.1.2022 2022/153 rr. 3(1), 4, 62(3), 64(6), 82(2), (4), 89(4), (5)(a)(i), 92(1)(a), 94(4)(a), 105(1), (4), 120(1), 130(3), 152(1)(b)(i), (c), (3)-(4), 206(3)(b), (5)-(6)
 
-23.6.2022
+23.6.2022 2022/308 rr. 3(1), 4, 6(1)(a), (3), 7, (1)-(3), 25(3) 10.11.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -26,7 +26,7 @@ PART 1 PRELIMINARY
 
 PART 2 AUTHORISATION CONDITIONS
 
-6. Introduction. 7. Authorisation of collective investment scheme. 8. Scheme property of open-ended investment company to be entrusted to depositary. 9. Managers, trustees and depositaries of UCITS. 10. Directors of authorised open-ended investment company. 11. Participants’ rights with respect to redemption and repurchase.
+6. Introduction. 7. Authorisation of UCITS scheme. 8. Scheme property of open-ended investment company to be entrusted to depositary. 9. Managers, trustees and depositaries of UCITS. 10. Directors of authorised open-ended investment company. 11. Participants’ rights with respect to redemption and repurchase.
 
 Management companies
 
