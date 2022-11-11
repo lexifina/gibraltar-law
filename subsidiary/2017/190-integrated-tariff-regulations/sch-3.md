@@ -44,11 +44,13 @@ Provided that the provision shall apply only to those Consular Officers and Dipl
 
 Free
 
-5. Products imported by or on behalf of a charity or cause approved in writing for the purpose by the Collector and any components of any such articles imported specifically for the purpose of the manufacture or production in Gibraltar of any such article or part thereof
+5. Products imported by or on behalf of a charity or cause approved in writing by the Collector for the purposes of this paragraph.
 
 Free
 
 6. Awards recognising distinction
+
+Free
 
 Free
 
@@ -57,8 +59,6 @@ Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 1986-21
 
 Subsidiary 2017/190 7. Goods imported by or on behalf of a disabled person and specially designed to improve the quality of life, for educational, scientific or cultural advancement of such a person
-
-Free
 
 8. Dutiable goods imported into Gibraltar by a contractor or sub-contractor for the purpose of a contract awarded by the Crown
 
@@ -308,7 +308,9 @@ Free
 
 Free
 
-28. Furniture and furnishings; electro-domestic appliances (only those commonly known as white goods with an energy rating of A or higher for items labelled prior to 1 March 2021, or an energy rating of A, B, C or D for items labelled on or after 1 March 2021) imported by a business licensed to trade in such goods
+28. Goods imported by a business that is licensed to trade in goods listed within this paragraph, as follows-
+
+Furniture and Furnishings; Domestic use vacuum cleaners and sewing machines; Electric toothbrushes; electric shavers; hair clippers; hair removing appliances; Table, floor, wall, window, ceiling or roof fans with an output not exceeding 125W.
 
 3%
 
@@ -340,27 +342,27 @@ Free
 
 Capped at £25,000
 
-36. All electro-domestic appliances (only those commonly known as white goods) with  an energy rating of  B, C and D
+36. Electro-domestic appliances with an energy rating of A or higher for items labelled prior to 1 March 2021, or an energy rating of A, B, C or D for items labelled on or after 1 March 2021, imported by a business that is licensed to trade in such goods.
 
-12%
+In this paragraph “electro-domestic appliances” means domestic use cookers (oven/hob/grill), refrigerators, freezers, combination fridge-freezers, washing machines, tumble driers, combination washer driers, dishwashers, electric instantaneous or storage water heaters and immersion heaters.
+
+3%
 
 37. Single use carrier bags not made from recycled material.
 
 10p
 
-38.  Electronic equipment and spare parts for use exclusively on vessels.
+Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
+
+1986-21
+
+Subsidiary 2017/190 38.  Electronic equipment and spare parts for use exclusively on vessels.
 
 Free
 
 39. Single use carrier bags made from    biodegradable materials.
 
 0.05p
-
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190
 
 40. Commercial importation of unmounted precious stones
 
@@ -396,7 +398,7 @@ NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
 “Diesel fuel” means Automotive Gasoil supplied in litres as contained in the Integrated Tariff Regulations.
 
-“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. 12p per litre
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. 12p per litre 47. Materials, components or other goods imported for manufacture, production or processing in Gibraltar for an industrial activity in respect of which the Minister for Finance has issued a certificate. Free 48. Goods liable to import duty under Chapters 29 and 30 imported by a pharmacy registered and licensed under the Medical and Health Act,1997 and regulations made under it. Free
 
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
@@ -412,9 +414,7 @@ Regulation 6(3)
 
 The corresponding rate under Schedule 1 shall  apply 2. On a transfer of ownership in Gibraltar in respect of a motor vehicle classified under paragraph 20(a) and (b) of Schedule 3
 
-with an engine capacity not exceeding 1500cc
-
-with an engine capacity exceeding 1500cc but not exceeding 2000cc
+with an engine capacity not exceeding 1500cc with an engine capacity exceeding 1500cc but not exceeding 2000cc
 
 with an engine capacity exceeding 2000cc
 
@@ -444,9 +444,7 @@ Subsidiary 2017/190
 
 4.A vehicle ceases to be  classified as a taxi under  paragraph 23 of Schedule 3
 
-with an engine capacity not exceeding 1500cc
-
-with an engine capacity exceeding 1500cc but not exceeding 2000cc
+with an engine capacity not exceeding 1500cc with an engine capacity exceeding 1500cc but not exceeding 2000cc
 
 with an engine capacity exceeding 2000cc
 
@@ -468,9 +466,7 @@ Trailer
 
 with an engine capacity not exceeding 1500cc
 
-with an engine capacity exceeding 1500cc but not exceeding 2000cc
-
-with an engine capacity exceeding 2000cc
+with an engine capacity exceeding 1500cc but not exceeding 2000cc with an engine capacity exceeding 2000cc
 
 25%
 
