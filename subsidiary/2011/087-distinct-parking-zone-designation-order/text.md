@@ -8,15 +8,13 @@ Commencement 9.6.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2015/187
+LN. 2015/187 15.10.2015 2017/106
 
-15.10.2015 2017/106
-
-1.7.2017
+1.7.2017 2022/318 17.11.2022
 
 In exercise of the powers conferred on me by regulation 7 of the Traffic (Parking and Waiting) Regulations 2011 and all other enabling powers the North District is designated a Distinct Parking Zone for the purposes of the Regulations.
 
-For the purposes of the preceding paragraph, the North District consists of the following areas, that is to say, Laguna Estate, Devil’s Tower Road and all adjacent and parallel streets, Catalan Bay and Both Worlds as more particularly set out below–
+For the purposes of the preceding paragraph, the North District consists of the following areas, that is to say, Laguna Estate, Devil’s Tower Road and all adjacent and parallel streets excluding 4 Stirling Lane and 92 Devil’s Tower Road, Catalan Bay and Both Worlds as more particularly set out below–
 
 Residents’ Permit Holders only :
 
@@ -28,9 +26,9 @@ Free Parking Motorcycles Only (available to everyone):
 
 Free Parking Cars Only (available to everyone):
 
- Cemetery Road  Eastern Beach Road  Flint Road  Garrod Road  Halifax Road  Corral Road  Landport Ditch
+ Cemetery Road  Eastern Beach Road  Flint Road  Garrod Road  Halifax Road  Corral Road
 
- Catalan Bay Beach Car Park
+ Landport Ditch  Catalan Bay Beach Car Park
 
 Pay Parking:
 
