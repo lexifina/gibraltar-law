@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/495 rr. 3(1), 7(2)(e), 9(1)(a), 11(2), 19(5)-(6), 25(3)(f), 29(a)-(c), 30(4)(c)(ii), 31(5), 34(3)-(6), 37-39
 
-1.1.2021 2022/067 rr. 3(1), 16(4), 29(b) 17.3.2022
+1.1.2021 2022/067 rr. 3(1), 16(4), 29(b) 17.3.2022 2022/321 r. 26A. 24.11.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -54,7 +54,7 @@ Key functions
 
 Documents concerning governance
 
-25. Own-risk assessment. 26. Annual accounts and annual reports. 27. Statement of investment policy principles.
+25. Own-risk assessment. 26. Annual accounts and annual reports. 26A. Submission of accounts, etc. to GFSC. 27. Statement of investment policy principles.
 
 Outsourcing and investment management
 
