@@ -18,6 +18,8 @@ LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-1
 
 26.5.2022
 
+2022/321 r. 74A(1)-(2) 24.11.2022
+
 ARRANGEMENT OF REGULATIONS.
 
 Regulation
@@ -120,7 +122,7 @@ PART 6 NOTIFICATION AND REPORTING
 
 72. Management body. 73. Duty to notify changes. 74. Notification of controllers etc.
 
-75. Reports by external auditors. 76. Relations with auditors. 77. Reporting of contraventions.
+74A. Submission of accounts, etc. to GFSC. 75. Reports by external auditors. 76. Relations with auditors. 77. Reporting of contraventions.
 
 PART 7 THIRD COUNTRY FIRMS
 
@@ -142,9 +144,9 @@ PART 9 MISCELLANEOUS
 
 Monitoring compliance
 
-114. GFSC duties to monitor compliance by investment firms. 115. GFSC duties to monitor compliance by regulated markets. 116. to 121 Omitted.
+114. GFSC duties to monitor compliance by investment firms. 115. GFSC duties to monitor compliance by regulated markets.
 
-122. Cooperation agreements with third countries.
+116. to 121 Omitted. 122. Cooperation agreements with third countries.
 
 Confidentiality and exchange of information
 
