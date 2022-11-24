@@ -14,7 +14,7 @@ rr. 3(1), (7), 4, 7(3)(a)-(c), 9(1)(b), (4)(a), (6)(a)-(b), 12(4), (a)-(b), 14(2
 
 1.1.2021 2021/493 r. 15(3) 1.1.2022 2022/153 rr. 3(1), 4, 62(3), 64(6), 82(2), (4), 89(4), (5)(a)(i), 92(1)(a), 94(4)(a), 105(1), (4), 120(1), 130(3), 152(1)(b)(i), (c), (3)-(4), 206(3)(b), (5)-(6)
 
-23.6.2022 2022/308 rr. 3(1), 4, 6(1)(a), (3), 7, (1)-(3), 25(3) 10.11.2022
+23.6.2022 2022/308 rr. 3(1), 4, 6(1)(a), (3), 7, (1)-(3), 25(3) 10.11.2022 2022/321 r. 96A(1)-(2) 24.11.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -40,9 +40,9 @@ PART 3 CONDUCT OF BUSINESS
 
 Chapter 1 General
 
-18. Exclusion clauses.
+18. Exclusion clauses. 19. Conduct of management companies.
 
-19. Conduct of management companies. 20. Investor complaints. 21. Disputes.
+20. Investor complaints. 21. Disputes.
 
 Chapter 2 Constituting instrument
 
@@ -62,7 +62,9 @@ Chapter 5 Key investor information
 
 Chapter 6 General obligations of UCITS
 
-42. Borrowing powers. 43. Redemptions on request. 44. Asset valuation. 45. Distribution and reinvestment. 46. Issue of units. 47. Granting of loans. 48. Uncovered sales. 49. Expenditure and remuneration.
+42. Borrowing powers.
+
+43. Redemptions on request. 44. Asset valuation. 45. Distribution and reinvestment. 46. Issue of units. 47. Granting of loans. 48. Uncovered sales. 49. Expenditure and remuneration.
 
 Chapter 7 Rules of conduct
 
@@ -90,7 +92,9 @@ PART 4 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
 Chapter 1 General
 
-58. Internal requirements of management company. 59. Delegation of responsibilities. 60. Management companies’ remuneration policies. 61. Remuneration policy principles. 62. Remuneration committees.
+58. Internal requirements of management company. 59. Delegation of responsibilities. 60. Management companies’ remuneration policies.
+
+61. Remuneration policy principles. 62. Remuneration committees.
 
 Chapter 2 Depositaries
 
@@ -106,15 +110,15 @@ Chapter 4 Open-ended investment companies
 
 Chapter 5 UCITS investment policies
 
-80. UCITS with investment compartments. 81. Authorised investments. 82. Instruments where issue or issuer is regulated to protect investors and savings. 83. Money market instruments: prudential rules.
+80. UCITS with investment compartments. 81. Authorised investments. 82. Instruments where issue or issuer is regulated to protect investors and savings. 83. Money market instruments: prudential rules. 84. Securitisation vehicles which benefit from banking liquidity line. 85. Financial indices. 86. Portfolio management. 87. Transferable securities and money market instruments embedding derivatives.
 
-84. Securitisation vehicles which benefit from banking liquidity line. 85. Financial indices. 86. Portfolio management. 87. Transferable securities and money market instruments embedding derivatives. 88. Techniques and instruments for purpose of efficient portfolio management. 89. Investment restrictions. 90. Investment limit increases. 91. Index-replicating UCITS. 92. Derogations from regulation 89. 93. Investments in other collective investment schemes. 94. Shareholding restrictions. 95. Derogations from this Chapter: further provisions.
+88. Techniques and instruments for purpose of efficient portfolio management. 89. Investment restrictions. 90. Investment limit increases. 91. Index-replicating UCITS. 92. Derogations from regulation 89. 93. Investments in other collective investment schemes. 94. Shareholding restrictions. 95. Derogations from this Chapter: further provisions.
 
 Chapter 6 Administrative procedures and control mechanisms
 
 General principles
 
-96. General requirements on procedures and organisation. 97. Resources.
+96. General requirements on procedures and organisation. 96A. Submission of accounts, etc. to GFSC. 97. Resources.
 
 Administrative and accounting procedures
 
@@ -126,9 +130,7 @@ Internal control mechanisms
 
 Chapter 7 Conflict of interests
 
-109. Criteria for the identification of conflicts of interest.
-
-110. Conflicts of interest policy. 111. Independence in conflicts management. 112. Management of activities giving rise to detrimental conflict of interest 113. Strategies for the exercise of voting rights
+109. Criteria for the identification of conflicts of interest. 110. Conflicts of interest policy. 111. Independence in conflicts management. 112. Management of activities giving rise to detrimental conflict of interest 113. Strategies for the exercise of voting rights
 
 Chapter 8 Risk management
 
@@ -146,7 +148,9 @@ Chapter 1 General
 
 Chapter 2 Special provisions applicable to UCITS which market their units in Gibraltar
 
-134. Omitted. 135. Omitted. 136. Payments to unitholders. 137. Cross border notifications. 138. Access to documents. 139. Updates of documents. 140. to 143. Omitted.
+134. Omitted. 135. Omitted. 136. Payments to unitholders. 137. Cross border notifications.
+
+138. Access to documents. 139. Updates of documents. 140. to 143. Omitted.
 
 Chapter 3 Omitted
 
@@ -170,13 +174,13 @@ PART 8 MERGERS OF UCITS
 
 Chapter 1 Principle, authorisation and approval
 
-154. Definition of UCITS. 155. Mergers. 156. Prior authorisation of merger.
-
-157. Terms of mergers.
+154. Definition of UCITS. 155. Mergers. 156. Prior authorisation of merger. 157. Terms of mergers.
 
 Chapter 2 Third-party control, information of unitholders and other rights of unitholders
 
-158. Duty to verify. 159. Audits. 160. Information to unitholders. 161. Approval by unitholders. 162. Redemption and repurchase of units.
+158. Duty to verify.
+
+159. Audits. 160. Information to unitholders. 161. Approval by unitholders. 162. Redemption and repurchase of units.
 
 Chapter 3 Costs and entry into effect
 
@@ -190,9 +194,7 @@ PART 9 MASTER-FEEDER STRUCTURES
 
 Chapter 1 General
 
-171. Feeder UCITS. 172. Master UCITS. 173. Feeder investment limits. 174. General matters. 175. Master-feeder structures: depositaries. 176. Master-feeder structures: auditors. 177. Feeder UCITS: prospectuses. 178. Feeder UCITS: supplementary provision of information. 179. Manner of providing information to unitholders.
-
-180. Monitoring by feeder UCITS. 181. Master UCITS: supplementary regulatory requirements. 182. Master-Feeder structures: communication of decisions.
+171. Feeder UCITS. 172. Master UCITS. 173. Feeder investment limits. 174. General matters. 175. Master-feeder structures: depositaries. 176. Master-feeder structures: auditors. 177. Feeder UCITS: prospectuses. 178. Feeder UCITS: supplementary provision of information. 179. Manner of providing information to unitholders. 180. Monitoring by feeder UCITS. 181. Master UCITS: supplementary regulatory requirements. 182. Master-Feeder structures: communication of decisions.
 
 Chapter 2 Agreement and internal conduct of business rules between feeder UCITS and master UCITS
 
