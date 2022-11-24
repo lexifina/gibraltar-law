@@ -10,7 +10,11 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1), 4(1), 5(5), (8), 8, 11(1), (3), 14(8), 16(1)(a), (3)(b), (g), 18(2)(a), 21(3)(a)-(b), (4), 23-24, 26(1), 28(1), (4)-(5), 29(2)(d), (3), 31, 33(1)(c), (2)(b), 34(2)(b), (f), (j), (5), (a), 37(3), (10), 38(1), 39(7), 41, 44(3), 46(9), 47(2)(a), 51(1)-(6), 53, 57(1), (3), 58(1), (f), (2)(a), (b)(ii), (4)(b)-(c), (7), 59-61, 66(3)(d), 67(8), 69(1)(d), (2)(b)-(c), 71-72, 87(2), 94(1), 95(2)(c), (3)(b), (5)(c), 97(1), (3), 118(2), 119, 119A, 121(1), 122(5)-(6), (8), (11), 123(3), (5), 124(1), 127(6)-(8), 128-150, 151(1)(a), (2)(a), (g), 153, 155(6), 156, 157(1)-(2), 158(4), 159-160, 161(1)(a), 162, 163(4)-(5), 164, 168, 169(1)(b), (7), 172-178, 179(2)(c), (4), 186, 190(2), 191(1), 192(3)(a)-(d), (4)-(7), 193(2)-(4), 194-196, 197(4)- (5), 198(1)-(2), (4)-(5), 199(3), 200(4)-(5), (a)-(c), 201(5), (7), 204(1)-(2), 205(4), 206(2), (b), (3), 207(1)-(2), (4), 208, 210(1)-(7), (c), 211(1), (b), (2), 212(7), 213(1), 214-220, 221(1)-(3), (b), (5)-(6), 222(1)-(2), (4), (b), (6)-(7), 223(1), (5), (6)(a), (7)- (8), 224-232, 233(4), 236(1)-(4), 237-240, 241(1)- (2), 242, 243(1)-(2), 244(1)-(5), 245(1)-(2), 246(1)- (3), (5), 247, 248(1)-(5), (7), 249, 251(6), 255, 256(1), 257(1)-(2), 258, 259(1)-(2), 260-262, 263(1), 264(1)-(2), 265-267, 268(1)-(4), 269-273, 274(2)(b)- (d), 279, 281, Sch.2-4
 
-1.1.2021 2021/496 rr. 237(1), 240(2) 23.12.2021 2022/067 rr. 3(1), 61A(1), 275(2), Sch.1 17.3.2022
+1.1.2021 2021/496 rr. 237(1), 240(2) 23.12.2021
+
+2022/067 rr. 3(1), 61A(1), 275(2), Sch.1 17.3.2022 2022/322 rr. 14(8), 192(3), (3A), (4), 197(1), 198(1), 200(5), 221(1), 222(1), 223(6), 224(1)-(2), 225(1), 225A, 240(3)
+
+24.11.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -218,9 +222,9 @@ Risk management and internal control
 
 Measures to facilitate group supervision
 
-224. Group supervisor. 225. Functions of group supervisor and other supervisors. 226. to 232. Omitted.
+224. Group supervisor. 225. Functions of group supervisor and other supervisors. 225A. Disapplication or modification of Regulations 197, 198, 221 to 223 and 225.
 
-233. Group solvency and financial condition report. 234. Group structure. 235. Administrative, management or supervisory body of insurance holding companies and mixed financial holding companies. 236. Enforcement measures.
+226. to 232. Omitted. 233. Group solvency and financial condition report. 234. Group structure. 235. Administrative, management or supervisory body of insurance holding companies and mixed financial holding companies. 236. Enforcement measures.
 
 Third countries
 
@@ -242,9 +246,9 @@ Reorganisation measures
 
 Winding-up proceedings
 
-248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register. 252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets. 254. Cancellation of permission.
+248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register. 252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets.
 
-255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
+254. Cancellation of permission. 255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
 
 Common provisions
 
