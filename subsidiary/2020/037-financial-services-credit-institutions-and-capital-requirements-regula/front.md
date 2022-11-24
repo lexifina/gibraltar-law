@@ -18,7 +18,7 @@ rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45
 
 1.1.2021 2020/475 rr. 41, 55(1)(h)-(j), (7), (7A)-(7B), (8), (13) 28.6.2021 “ rr. 94A-94C, 95(1) 1.1.2022 2021/493 rr. 2(1), 3(a)-(b), (d), 4(1)-(4), (6), 18-23, 33(19), 43(21), 61, 82, 83(2)-(4), 84(3)-(5), 145(da), 164(1)
 
-1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022
+1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022 2022/321 r. 100A. 24.11.2022
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -136,7 +136,7 @@ Information to be provided by credit institutions
 
 Accounts and information
 
-99. Omitted. 100. Audit of accounts. 101. Appointment of auditors. 102. Notification in respect of auditors. 103. Communications by auditors to GFSC. 104. Auditor to notify GFSC of adverse occurrence etc.
+99. Omitted. 100. Audit of accounts. 100A. Submission of accounts, etc. to GFSC. 101. Appointment of auditors. 102. Notification in respect of auditors. 103. Communications by auditors to GFSC. 104. Auditor to notify GFSC of adverse occurrence etc.
 
 PART 7 GIBRALTAR AND THIRD COUNTRIES
 
