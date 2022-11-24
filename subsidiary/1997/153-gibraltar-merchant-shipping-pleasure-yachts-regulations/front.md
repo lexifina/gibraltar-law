@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN. 2012/038 rr. 4(1)(c) & 76(3)(e) 29.3.2012 2014/108 rr. 21(1)(d), (2), 28(2), 29,  Schs. 4 & 9 26.6.2014 2016/167 rr. 2(1), 79 - 85 11.8.2016 2020/432 rr. 2, 2A, 4(3)(a)(viii)-(ix), 15(1A), 16(c), 80(4)(h)-(i), 81(1A), Sch. 10
 
-1.1.2021 2021/111 r. 4(3)(a)-(b) 1.1.2021 2021/228 r. 2(1) 1.1.2021
+1.1.2021 2021/111 r. 4(3)(a)-(b) 1.1.2021 2021/228 r. 2(1) 1.1.2021 2022/140 rr. 2(1), 30(2)(f), Sch. 4 1.6.2022 2022/319 r. 80(4)(h)-(i) 24.11.2022
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 

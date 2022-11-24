@@ -32,7 +32,19 @@ Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASUR
 
 1995-12
 
-Subsidiary 1997/153 Signal letters when not submitted on first registration 110.00 Restoration of registration 110.00
+Subsidiary 1997/153 Signal letters when not submitted on first registration 110.00 Restoration of registration 110.00 Annual Tonnage Tax
+
+1.  An Annual Tonnage Tax (ATT) shall be due and paid in respect of every commercial yacht registered under these regulations, other than a yacht of less than 24 metres registered length or under 150 gross registered tons which is plying in the Port of Gibraltar and licensed by the port authority under the Port Act.
+
+2.  The ATT shall be payable in advance before the first day of January of the year in respect of which it is due.
+
+3.  The ATT fee would be payable on a pro-rata basis by any vessel registered after the 1st of January, on a daily basis. For example, a vessel of 2400 GT registering on the 1st December would pay a pro-rata fee of £169.86 on registration (i.e. £2,000 ÷ 365 x 31 days).
+
+4.  The ATT, based on the vessel’s Gross Tonnage (GT), shall be payable at the following rates–
+
+Table 1 Vessel Tonnage (Gross Tons) Annual Tonnage Tax Up to 3000 GT £ 2,000 3000 to 10,000 GT £ 2,500 10,000 to 50,000 GT £ 4,000 50,000 to 100,000 GT £ 5,000 Over 100,000 GT £ 6,000
+
+5.  The fees and tonnage tax payable and paid shall not be refundable.
 
 Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
 
