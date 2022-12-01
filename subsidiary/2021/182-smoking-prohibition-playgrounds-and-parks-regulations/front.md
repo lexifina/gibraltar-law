@@ -6,7 +6,9 @@ LN.2021/182
 
 Commencement 18.3.2021
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2022/330 r. 3(1)(s), (dd)-(ff), Sch. 1.12.2022
 
 ARRANGEMENT OF REGULATIONS.
 
