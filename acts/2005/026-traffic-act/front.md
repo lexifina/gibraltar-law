@@ -20,11 +20,13 @@ Act.   2011-18 ss. 44(4), 89(1)(j), (2), 92, 97, 98A, 98(2), 101(c), 104
 
 1.1.2021 Act. 2021-28 s. 34(3), (3B)-(3C) 27.9.2021 2022-07 ss. 6(1), (4)-(5), 77(1)(ca), (e)-(g), (1A), 65(2)(ba), 91(3), 98(1)
 
-8.7.2022 2016-21 s. 61B 1.9.20223 2022/310 s. 59(5) 10.11.2022
+8.7.2022 2016-21 s. 61B 1.9.20223 2022/310 s. 59(5) 10.11.2022 Act. 2022-15 ss. 9(2), 15(4), 16(2), 17(3)9a)-(b), 21(1)(a), 22, 40(5), 41(4), 44(1), 46(1), 47(1)(a), 50(1), 51(2), 53(3), 63A(2A), 75(2)(a)-(b), 81(3), 83(9), 86(1)- (2), 95(1)(i)-(ii), (2)
 
-Transposing: Directive 2006/126/EC Directive 2014/46/EU Directive (EU) 2018/645
+1.12.2022
 
 1 Notice of Commencement – LN. 2017/011 2 Notice of Commencement – LN. 2017/076 For Savings and Transitional Provisions please refer to s.24 of the Traffic (Amendment) Act 2016 (2016-21) 3 Notice of Commencement – LN. 2022/224
+
+Transposing: Directive 2006/126/EC Directive 2014/46/EU Directive (EU) 2018/645
 
 ARRANGEMENT OF SECTIONS
 
