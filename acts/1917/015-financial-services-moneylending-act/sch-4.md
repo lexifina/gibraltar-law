@@ -28,9 +28,7 @@ where -
 
 Remarks
 
-Financial Services (Moneylending)
-
-1917-15 (a) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.
+(a) The amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals.
 
 (b) The starting date shall be that of the first drawdown.
 
@@ -48,11 +46,7 @@ II.  Additional assumptions for the calculation of the annual percentage rate of
 
 (b) if a credit agreement provides different ways of drawdown with different charges or borrowing rates, the total amount of credit shall be deemed to be drawn down at the highest charge and borrowing rate applied to the most common drawdown mechanism for this type of credit agreement;
 
-(c) if a credit agreement gives the consumer freedom of drawdown in general but imposes, amongst the different ways of drawdown, a limitation with regard to the amount and period of
-
-Financial Services (Moneylending)
-
-1917-15 time, the amount of credit shall deemed to be drawn down on the earliest date provided for in the agreement and in accordance with those drawdown limits;
+(c) if a credit agreement gives the consumer freedom of drawdown in general but imposes, amongst the different ways of drawdown, a limitation with regard to the amount and period of time, the amount of credit shall deemed to be drawn down on the earliest date provided for in the agreement and in accordance with those drawdown limits;
 
 (d) if there is no fixed timetable for repayment, it shall be assumed
 
@@ -71,7 +65,3 @@ Financial Services (Moneylending)
 (i) if different interest rates and charges are offered for a limited period or amount, the interest rate and the charges shall be deemed to be the highest rate for the whole duration of the credit agreement;
 
 (j) for consumer credit agreements for which a fixed borrowing rate is agreed in relation to the initial period, at the end of which a new borrowing rate is determined and subsequently periodically adjusted according to an agreed indicator, the calculation of the annual percentage rate shall be based on the assumption that, at the end of the fixed borrowing rate period, the borrowing rate is the same as at the time of calculating the annual percentage rate, based on the value of the agreed indicator at that time.
-
-Financial Services (Moneylending)
-
-1917-15

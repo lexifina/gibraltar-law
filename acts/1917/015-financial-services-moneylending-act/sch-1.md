@@ -12,8 +12,4 @@ CALCULATION OF INTEREST WHERE THE INTEREST CHARGED ON A LOAN IS NOT EXPRESSED IN
 
 4. If having regard to the intervals between successive payments it is desired so to do, the calculation of interest may be made by reference to weeks instead of months, and in such a case the lore going paragraphs of this Schedule shall have effect as though in paragraph 2 the word ‘weeks’ were substituted for the words calendar months’, and in paragraph 3 the words ‘one-fifty-second’ were substituted for the words ‘one-twelfth’.
 
-5. Where any interval between successive payments is not a number of complete weeks or complete months, the foregoing paragraphs shall have effect as though one day were one-seventh part of a week or one-thirtieth part of a month, as the case may be.
-
-Financial Services (Moneylending)
-
-1917-15
+5. Where any interval between successive payments is not a number of complete weeks or complete months, the foregoing paragraphs shall have effect as though one day were one- seventh part of a week or one-thirtieth part of a month, as the case may be.

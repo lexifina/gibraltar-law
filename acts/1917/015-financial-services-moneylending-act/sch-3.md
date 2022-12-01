@@ -26,9 +26,7 @@ The duration of the credit agreement
 
 If applicable
 
-Financial Services (Moneylending)
-
-1917-15 You may be requested to repay the amount of credit in full on demand at any time.
+You may be requested to repay the amount of credit in full on demand at any time.
 
 3. Costs of the credit.
 
@@ -38,9 +36,7 @@ The borrowing rate or, if applicable, different borrowing rates which apply to t
 
 Termination of the credit agreement [The conditions and procedure for terminating the credit agreement] Consultation of a database The creditor must inform you immediately and without charge of the result of a consultation of a database if a credit application is rejected on the basis of such a consultation. This does not apply if the provision of such information is prohibited by Gibraltar law or is contrary to objectives of public policy or public security.
 
-Financial Services (Moneylending)
-
-1917-15 If applicable The period of time during which the creditor is bound by the pre- contractual information This information is valid from … until…
+If applicable The period of time during which the creditor is bound by the pre-contractual information This information is valid from … until…
 
 If applicable
 
@@ -62,22 +58,12 @@ If applicable Representative of the creditor in Gibraltar Address Telephone numb
 
 [Identity]
 
-[Geographical address to be used by the consumer] If applicable Registration [The trade register in which the creditor is entered and his registration number or an equivalent means of identification in that
-
-Financial Services (Moneylending)
-
-1917-15 register] If applicable The supervisory authority
+[Geographical address to be used by the consumer] If applicable Registration [The trade register in which the creditor is entered and his registration number or an equivalent means of identification in that register] If applicable The supervisory authority
 
 (b) concerning the credit agreement
 
-Right of withdrawal You have the right to withdraw from the credit agreement within a period of 14 calendar days. If applicable Exercise of the right of withdrawal Yes/no [Practical instructions for exercising the right of withdrawal indicating, inter alia, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract
+Right of withdrawal You have the right to withdraw from the credit agreement within a period of 14 calendar days. If applicable Exercise of the right of withdrawal Yes/no [Practical instructions for exercising the right of withdrawal indicating, inter alia, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable
 
-If applicable Clause stipulating the law applicable to the credit agreement and/or the competent court [Relevant clause to be set out here] If applicable Language regime Information and contractual terms will be supplied in [specific language]. With your consent, we intend to communicate in [specific language/languages] during the duration of the credit agreement. (c) concerning redress
+The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract If applicable Clause stipulating the law applicable to the credit agreement and/or the competent court [Relevant clause to be set out here] If applicable Language regime Information and contractual terms will be supplied in [specific language]. With your consent, we intend to communicate in [specific language/languages] during the duration of the credit agreement. (c) concerning redress
 
-Existence of and access to out-of- court complaint and redress mechanism [Whether or not there is an out-of- court complaint and
-
-redress mechanism for the consumer who is party to the distance contract and, if so, the methods of access to it] (*) This information is optional for the creditor.
-
-Financial Services (Moneylending)
-
-1917-15
+Existence of and access to out-of-court complaint and redress mechanism [Whether or not there is an out-of-court complaint and  redress mechanism for the consumer who is party to the distance contract and, if so, the methods of access to it] (*) This information is optional for the creditor.

@@ -1,44 +1,30 @@
-Financial Services (Moneylending)
-
-1917-15
-
-FINANCIAL SERVICES (MONEYLENDING) ACT
+Financial Services (Moneylending) Act
 
 Principal Act
 
-Act. No. 1917-15 Commencement 1 .10.1917
+Act. No. 1917-15 Commencement 1.10.1917
 
 Assent 1.10.1917
 
 Amending enactment Relevant current provisions Commencement date
 
-Acts. 1934- 27 ss. 2, 3(2), (5), 4, 10-13, 15, 17-18, Sch.
+Act. 1934- 27 ss. 2, 3(2), (5), 4, 10-13, 15, 17-18, Sch.
 
-1948-27 ss. 5, 6, 7, 9, 19
+1948-27 ss. 5-7, 9, 19
 
-1949-25 ss. 5, 6
+1949-25 ss. 5-6
 
 1983-12 s. 12(1)
 
-1995-15 ss. 4, 5(1)(3), 12, 13(1), 16, 17, 19(2)
+1995-15 ss. 4, 5(1), (3), 12, 13(1), 16-17, 19(2) 1.2.1996 2007-04 s. 1 19.4.2007 2008-06 ss. 2(1), (e), 4, 5(1)-(2), 6(2), (5), (7), 9, 19(1) 29.5.2008 LN. 2011/031 ss. 2-29, 30(1)-(2), 31(2), (5), 32, 33(2), 34(3)(c), 36(2), 38(2), 39, 41(1)(a)-(b), 43(1)-(2), 47(1), Schs. 1-4.
 
-1.2.1996 2007-04 s. 1 19.4.2007 2008-06 ss. 2(1), (e), 4, 5(1), (2), 6(2), (5), (7), 9, 19(1)
-
-29.5.2008 LN. 2011/031 ss. 2-29, 30(1), (2), 31(2), (5), 32, 33(2), 34(3)(c), 36(2), 38(2), 39, 41(1)(a), (b), 43(1), (2), 47(1), Sch, 1-4.
-
-24.3.2011 2021/105 ss. 2, 3(1)-(3), 4(2)(i), 14(5), 20, Sch. 2, 3
-
-1.1.2021
+24.3.2011 2021/105 ss. 2, 3(1)-(3), 4(2)(i), 14(5), 20, Schs. 2-3 1.1.2021 Act. 2022-13 s. 33(1), (1A), Sch. 5 1.12.2022
 
 Transposing: Directive 2008/48/EC
 
-English Sources
+English Sources: Betting and Loans (Infants) Act 1892 (55 & 56 Vict.c.4) Money-Lenders Act 1900 (63 & 64 Vict.c.51) Money-Lenders Act 1901 (1 & 2 Geo.5 c.38) Money-Lenders Act 1927 (17 & 18 Geo.5 c.21)
 
-Betting and Loans (Infants) Act 1892 (55 & 56 Vict.c.4) Money-Lenders Act 1900 (63 & 64 Vict.c.51) Money-Lenders Act 1901 (1 & 2 Geo.5 c.38) Money-Lenders Act 1927 (17 & 18 Geo.5 c.21)
-
-Financial Services (Moneylending)
-
-1917-15 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -62,11 +48,9 @@ Rights of the consumer
 
 Supplementary provisions
 
-19. Advertisements. 20. Omitted. 21. Calculation of the annual percentage rate of charge. 22. Enforcement and monitoring.
+19. Advertisements. 20. Omitted. 21. Calculation of the annual percentage rate of charge.
 
-Financial Services (Moneylending)
-
-1917-15 23. Offences. 24. Act to prevail. 25. Application of existing law. 26. Continuity of the law. 27. Regulations. 28. Codes of practice. 29. Alternative dispute resolution.
+22. Enforcement and monitoring. 23. Offences. 24. Act to prevail. 25. Application of existing law. 26. Continuity of the law. 27. Regulations. 28. Codes of practice. 29. Alternative dispute resolution.
 
 PART II MISCELANEOUS PROVISIONS
 
@@ -80,6 +64,4 @@ SCHEDULE 3 EUROPEAN CONSUMER CREDIT INFORMATION FOR
 
 SCHEDULE 4
 
-Financial Services (Moneylending)
-
-1917-15 AN ACT TO AMEND THE LAW AS TO THE LENDING OF MONEY AND WITH RESPECT TO PERSONS CARRYING ON BUSINESS AS MONEYLENDERS.
+SCHEDULE 5
