@@ -15,9 +15,3 @@ Provided that
 (b) regulations 13, 15, 16, 17, 18(1), (3) and (4), 19, 20, 21, 23, 25, 26, 27, 28, 29 and 51;
 
 (c) regulations 61 to 64 inclusive in respect of matters arising prior to the effective date.
-
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153

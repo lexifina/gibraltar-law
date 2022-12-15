@@ -40,10 +40,6 @@ The approved countries are-
 
 (r) Suriname;
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153 (s) the United Arab Emirates; and
+(s) the United Arab Emirates; and
 
 (t) the United States of America.

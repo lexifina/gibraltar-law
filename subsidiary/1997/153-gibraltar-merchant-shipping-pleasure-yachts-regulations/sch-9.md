@@ -32,13 +32,9 @@ related instrument to be recorded in respect of that yacht; and
 
 (ix) the prescribed fee.
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
+(3)  An application for registration on the Register of Yachts under Construction and yachts registered on that register shall be in accordance with instructions made by the Registrar and to the extent required by those instructions there shall be added to the list of information contained herein such other information as is necessary to comply with those instructions:
 
-1995-12
-
-Subsidiary 1997/153 (3)  An application for registration on the Register of Yachts under Construction and yachts registered on that register shall be in accordance with instructions made by the Registrar and to the extent required by those instructions there shall be added to the list of information contained herein such other information as is necessary to comply with those instructions:
-
-(4)  Provided that, where the owner of the yacht during the period of registration is the builder, mortgagee or other person temporarily holding an interest in the building contract, the requirement in respect of a declaration of ownership shall not apply in respect of the builder but in respect of the purchaser or ultimate owner.
+(4)   Provided that, where the owner of the yacht during the period of registration is the builder, mortgagee or other person temporarily holding an interest in the building contract, the requirement in respect of a declaration of ownership shall not apply in respect of the builder but in respect of the purchaser or ultimate owner.
 
 (5)  The provisions of regulation 20 in respect of–
 
@@ -64,12 +60,6 @@ the Registrar shall enter on the Register of Yachts under Construction the follo
 
 (d) where there are more owners than one, the percentage interest of each owner in the yacht or a share or part therein;
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153
-
 (e) the name and registered address of the builder where he is not the owner;
 
 (f) the name and address of any registered agent in respect of the yacht;
@@ -87,9 +77,3 @@ as prescribed in Schedule 6.
 Retention of documents on registration of a yacht under construction.
 
 3.  Where a yacht under construction is registered and a Certificate of Registry of a Yacht under Construction issued in accordance with regulation 28, the Registrar shall retain in his possession in respect of that yacht under construction, the documents required by this Schedule to accompany an application under regulation 21, together with the application.
-
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153

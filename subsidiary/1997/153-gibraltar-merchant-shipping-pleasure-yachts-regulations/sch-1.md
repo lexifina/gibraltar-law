@@ -22,12 +22,6 @@ Method of registration.
 
 (g) the name and address within Gibraltar of the representative person; and
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153
-
 (h) the date of the application.
 
 (4) The Registrar shall, as a condition to registering the foreign maritime entity, require a copy of the document creating the legal existence of the entity to be registered.
@@ -52,12 +46,6 @@ Provided that where an instrument required to be registered is not in the Englis
 
 (c) signed by an officer of the entity or by a person authorised to sign on behalf of that entity and such signature shall appear over the printed name and title of the signatory:
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153
-
 Provided that any signature on any instrument required or permitted to be registered under this Schedule may be a facsimile.
 
 (2) The original signed instrument shall be delivered to the Registrar together with prescribed fees.
@@ -80,29 +68,19 @@ Powers granted on registration.
 
 (a) to own and operate pleasure yachts registered under the laws of Gibraltar;
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153 (b) to do all things necessary for the conduct of the business of ownership and operation of pleasure yachts so registered and, for that purpose, to have one or more offices in Gibraltar and to hold, purchase, lease, mortgage and convey real and personal property.
+(b) to do all things necessary for the conduct of the business of ownership and operation of pleasure yachts so registered and, for that purpose, to have one or more offices in Gibraltar and to hold, purchase, lease, mortgage and convey real and personal property.
 
 Subsequent change of business address etc.
 
 4.(1) The representative person of a foreign maritime entity shall give notice in writing to the Registrar of any change in any of the matters specified in paragraph 3 and shall provide to the Registrar details of any change which affects the legal nature, the jurisdiction or creation, the power to own or operate a pleasure yacht, or the ability to sue and be sued of the foreign maritime entity and such notice shall comply with the provisions of paragraph 2.
 
-(2) The representative person shall at the time of giving notice in accordance with sub-paragraph (1) provide to the Registrar a certified translation into English of any documents required by that sub-paragraph and which are not in the English language.
+(2) The representative person shall at the time of giving notice in accordance with sub- paragraph (1) provide to the Registrar a certified translation into English of any documents required by that sub-paragraph and which are not in the English language.
 
 (3) When a registered foreign maritime entity is dissolved or its authority or existence is otherwise terminated or cancelled in the jurisdiction of its creation or when such foreign maritime entity is merged into or consolidated with another foreign maritime entity, a copy of the certificate from the competent authority in the jurisdiction of creation of such foreign maritime entity, which certificate attests to the occurrence of any such event, or a copy of an order or decree of a court of such jurisdiction directing the dissolution of such foreign entity, or the termination of its existence shall be delivered to the Registrar who shall register such document.
 
 (4) Where the Registrar has received an application under sub-paragraph (1) or a certificate under sub-paragraph (3) in respect of a foreign maritime entity which is the owner of a registered pleasure yacht, the Registrar shall give notice of that fact to any mortgagee whose interest in the pleasure yacht is recorded on the registration of that pleasure yacht and the Registrar shall not then for a period of ninety days after the service of the notice on the mortgagee deregister the entity.
 
-(5) Where a record provided for in paragraph 6 (2) has been made on the Register of Foreign Maritime Entities in respect of an entity, the provisions of sub-paragraph (4) shall apply in respect of the giving of notice to the mortgagee whose interest has been so recorded, and the entity shall not be
-
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153 deregistered for a period of ninety days from the date on which notice was served on such mortgagee by the Registrar.
+(5) Where a record provided for in paragraph 6 (2) has been made on the Register of Foreign Maritime Entities in respect of an entity, the provisions of sub-paragraph (4) shall apply in respect of the giving of notice to the mortgagee whose interest has been so recorded, and the entity shall not be deregistered for a period of ninety days from the date on which notice was served on such mortgagee by the Registrar.
 
 (6) The Registrar, on receipt of the application to deregister or the certificate provided for in sub-paragraph (3) or, in circumstances where the provisions of sub-paragraph (4) or (5) apply, after the expiry of the ninety day period without the application having been withdrawn, shall deregister the entity and from that date–
 
@@ -120,17 +98,15 @@ Striking off of registration of Foreign Maritime Entity.
 
 (2) If an entity on which a notice has been served in accordance with sub-paragraph (1) fails to remedy the defect in the prescribed time, then, subject to the provisions of paragraph 6, the Registrar may strike the name of the entity off the Register of Foreign Maritime Entities and if the Registrar strikes the name off, the entity ceases to be a foreign maritime entity for the purposes of these Regulations.
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153 (3) An entity, the name of which has been struck off the Register of Foreign Maritime Entities in accordance with sub-paragraph (2) remains liable for all claims, debts, liabilities and obligations of the entity and the striking off shall not affect the liability of any of its members, directors, officers, agents or representatives in respect of the activities of the entity.
+(3) An entity, the name of which has been struck off the Register of Foreign Maritime Entities in accordance with sub-paragraph (2) remains liable for all claims, debts, liabilities and obligations of the entity and the striking off shall not affect the liability of any of its members, directors, officers, agents or representatives in respect of the activities of the entity.
 
 (4) An entity, the name of which has been struck off the Register of Foreign Maritime Entities, at the date of striking of ceases to be a qualified person.
 
 Notice to pleasure yacht mortgagee of striking off.
 
-6.(1) Where an entity registered under this Schedule is the owner of a registered pleasure yacht, the Registrar shall, where the entity has failed to remedy a defect specified in the notice served on the entity under paragraph 5(1) and the Registrar proposes to strike the entity off the Register of Foreign Maritime Entities, give notice of that intention to any mortgagees whose interest in the pleasure yacht is recorded on the registration of that pleasure yacht, and the Registrar shall not then for a period of ninety days after the service of such notice on the mortgagee strike the name of the entity off the Register of Foreign Maritime Entities.
+6.(1) Where an entity registered under this Schedule is the owner of a registered pleasure yacht, the Registrar shall, where the entity has failed to remedy a defect specified in the notice served on the entity under paragraph 5(1) and the Registrar proposes to strike the entity off the Register of Foreign Maritime Entities, give notice of that intention to any mortgagees whose interest in the pleasure yacht is recorded on the registration of that pleasure yacht, and the
+
+Registrar shall not then for a period of ninety days after the service of such notice on the mortgagee strike the name of the entity off the Register of Foreign Maritime Entities.
 
 (2) Where an entity registered under this Schedule is the owner of a pleasure yacht registered in a registry outside of Gibraltar, any mortgagee of such pleasure yacht may, upon the payment of the prescribed fee, cause a record to be made on the entry in the Register of Foreign Maritime Entities in respect of that entity of the mortgagee’s interest in the pleasure yacht, and such record shall include the name of the mortgagee, the name and place of registration of the pleasure yacht and the name and address of a representative of the mortgagee to whom notice may be given of an intention to strike the entity off the Register of Foreign Maritime Entities.
 
@@ -138,11 +114,7 @@ Notice to pleasure yacht mortgagee of striking off.
 
 (4) For the purposes of this paragraph and paragraph 7, notice shall be presumed to have been served on the date on which such notice was sent by post to the address–
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153 (a) in the case of the mortgagee of a pleasure yacht registered in Gibraltar, shown as the address of the mortgagee in the record of the mortgage recorded in the entry on the register in respect of that pleasure yacht;
+(a) in the case of the mortgagee of a pleasure yacht registered in Gibraltar, shown as the address of the mortgagee in the record of the mortgage recorded in the entry on the register in respect of that pleasure yacht;
 
 (b) in the case of the mortgagee of a pleasure yacht registered on a registry outside of Gibraltar, shown in the record on the entry in the Register of Foreign Maritime Entities in respect of the entity.
 
@@ -164,18 +136,8 @@ Deregistration of Foreign Maritime Entity.
 
 (2) The application under sub-paragraph (1) shall be made in the specified form and shall be executed in accordance with paragraph 2, and if the entity is in the hands of a receiver, liquidator or trustee in bankruptcy, it may be executed on behalf of the entity by such receiver, liquidator or trustee.
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153 Register and index.
+Register and index.
 
 8.(1) The Registrar shall keep a register of Foreign Maritime Entities registered under this Schedule and the provisions of regulation 3(10) and (11) shall apply mutatis mutandis to that register.
 
 (2) The Registrar shall keep in alphabetical form an index of the names of foreign maritime entities registered under this Schedule and such index shall be in addition to the register kept by virtue of sub-paragraph (1).
-
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (PLEASURE YACHTS) REGULATIONS, 1997
-
-1995-12
-
-Subsidiary 1997/153
