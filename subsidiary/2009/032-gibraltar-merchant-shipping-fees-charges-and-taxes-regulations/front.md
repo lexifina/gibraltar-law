@@ -1,22 +1,14 @@
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
+Subsidiary Legislation made under s.86(a) of the and s.118(1)(e) of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993.
 
-1995-12
+Gibraltar Merchant Shipping (Fees, Charges and Taxes) Regulations 2009
 
-Subsidiary 2009/032 Subsidiary Legislation made under s. 86(a) of the Gibraltar Merchant Shipping (Registration) Act, l993 and section 118(1)(e) of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993.
-
-GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
-
-(LN. 2009/032)
+LN.2009/032
 
 Commencement 1.7.2009
 
-Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022
+Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022 2022/332 Sch. 15.12.2022
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
-
-1995-12
-
-Subsidiary 2009/032 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -24,11 +16,7 @@ Regulation
 
 SCHEDULE
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
-
-1995-12
-
-Subsidiary 2009/032 In exercise of the powers conferred on it by section 86(a) of the Gibraltar Merchant Shipping (Registration) Act, l993 and section 118(1)(e) of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993, and of all other enabling powers, the Government has made the following Regulations
+In exercise of the powers conferred on it by section 86(a) of the Gibraltar Merchant Shipping (Registration) Act, l993 and section 118(1)(e) of the Gibraltar Merchant Shipping (Safety, etc.) Act 1993, and of all other enabling powers, the Government has made the following Regulations
 
 Title and commencement.
 
@@ -44,12 +32,6 @@ Revocations.
 
 3.  The Gibraltar Merchant Shipping (Ship Registration) (Amendment) Regulations 2005, (Legal Notice No. 87 of 2005), the Gibraltar Merchant Shipping (Survey Fees and Charges) (Amendment) Regulations 2006 (Legal Notice No. 50 of 2006) and all Fee scales in Administrative Instructions under the Merchant Shipping (Safety, etc.) Act 1993 (Legal Notice. 2004/068) are revoked.
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
-
-1995-12
-
-Subsidiary 2009/032
-
 SCHEDULE Regulation 2
 
 Table ‘A’ – Ship Registration Fees
@@ -58,13 +40,9 @@ SHIP REGISTRATION FEES Fee £ Application to register a ship (Full/Bareboat/Unde
 
 Table ‘B’ – Seafarers’ Certification & Service Fees
 
-SEAFARERS Fee £ Issue of Record of Sea Service (Discharge Book) 132 Gibraltar Endorsement for Master or Chief Engineer 78
+SEAFARERS Fee £ Issue of Record of Sea Service (Discharge Book) 132 Gibraltar Endorsement for Master or Chief Engineer Officer 78 Gibraltar Endorsement for OOW (Nav) / OOW (Eng) 78
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
-
-1995-12
-
-Subsidiary 2009/032 Officer Gibraltar Endorsement for OOW (Nav) / OOW (Eng) 78 Gibraltar Endorsement for Chief Mate / Second Engineer Officer 78 Watch rating/Ship’s Cook/Able Seaman Certificate/Dispensation 78 Tanker Endorsement (without Gibraltar Endorsement) 48 Tanker Endorsement (with Gibraltar Endorsement) 48 Revalidation/extension of a certificate/endorsement 48 Duplicate (re-issue) of endorsement 48 Boat master Examination (full) 228 Boat master Certificate 48 Marine Engine Operator Examination 228 Marine Engine Operator Certificate 48
+Gibraltar Endorsement for Chief Mate / Second Engineer Officer 78 Watch rating/Ship’s Cook/Able Seaman Certificate/Dispensation 78 Tanker Endorsement (without Gibraltar Endorsement) 48 Tanker Endorsement (with Gibraltar Endorsement) 48 Revalidation/extension of a certificate/endorsement 48 Duplicate (re-issue) of endorsement 48 Boat master Examination (full) 228 Boat master Certificate 48 Marine Engine Operator Examination 228 Marine Engine Operator Certificate 48
 
 Annual Tonnage Tax
 
@@ -80,11 +58,7 @@ Table 1 Vessel Tonnage (Gross Tons) Annual Tonnage Tax Up to 3000 GT £ 2,000 30
 
 5.  The fees and tonnage tax payable and paid shall not be refundable.
 
-Gibraltar  Merchant Shipping (Registration) GIBRALTAR MERCHANT SHIPPING (FEES, CHARGES AND TAXES) REGULATIONS 2009
-
-1995-12
-
-Subsidiary 2009/032 DISCOUNTS
+DISCOUNTS
 
 (a) Multiple vessel registration discounts
 
