@@ -1,16 +1,14 @@
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
+Subsidiary Legislation made under s.337.
 
-1950-07
+Public Health (International Health) Rules 2014
 
-Subsidiary 2014/115 Subsidiary Legislation made under s. 337.
+LN.2014/115
 
-PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
+Commencement (LN.2014/170) 2.10.2014
 
-(LN. 2014/115)
+Amending enactments Relevant current provisions Commencement date
 
-Commencement 2.10.2014 LN. 2014/170
-
-_______________________
+LN. 2022/342 Sch.7 22.12.2022
 
 ARRANGEMENT OF RULES
 
@@ -24,12 +22,6 @@ SCHEDULE 2 MODEL SHIP SANITATION CONTROL EXEMPTION CERTIFICATE AND SHIP SANITATI
 
 SCHEDULE 3 EVIDENCE REPORT FORM
 
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115
-
 SCHEDULE 4 MODEL INTERNATIONAL CERTIFICATE OF VACCINATION OR PROPHYLAXIS
 
 SCHEDULE 5 MODEL MARITIME DECLARATION OF HEALTH
@@ -38,8 +30,4 @@ SCHEDULE 6 AIRCRAFT GENERAL DECLARATION ATTACHMENT
 
 SCHEDULE 7 FEES CHARGED FOR SHIP SANITATION CERTIFICATES
 
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115 In exercise of the powers conferred upon it by section 337 of the Public Health Act, the Government has made the following Rules–
+In exercise of the powers conferred upon it by section 337 of the Public Health Act, the Government has made the following Rules–

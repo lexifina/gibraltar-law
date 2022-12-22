@@ -30,21 +30,17 @@ Quarters:
 
 Potable water
 
+1 Provide evidence of infection or contamination, including: vectors in all stages of growth; animal reservoirs for vectors; rodents or other species that could carry human disease, microbiological, chemical and other risks to human health; signs of inadequate sanitary measures (Information concerning any human cases should be included in the Maritime Declaration of Health).
+
+2 Results from samples taken on board. Analysis to be provided to ship’s master by most expedient means and, if re-inspection is required, to the next appropriate port of call coinciding with the re-inspection date specified in this certificate.
+
 Sewage
 
 Ballast tanks
 
 Solid and medical waste
 
-1 Provide evidence of infection or contamination, including: vectors in all stages of growth; animal reservoirs for vectors; rodents or other species that could carry human disease, microbiological, chemical and other risks to human health; signs of inadequate sanitary measures (Information concerning any human cases should be included in the Maritime Declaration of Health).
-
-2 Results from samples taken on board. Analysis to be provided to ship’s master by most expedient means and, if re-inspection is required, to the next appropriate port of call coinciding with the re-inspection date specified in this certificate.
-
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115 Standing water
+Standing water
 
 Engine room
 
@@ -65,12 +61,6 @@ Date…………………………………
 Model Ship Sanitation Control Certificate
 
 Control measures applied Re-inspection date Comments regarding conditions found
-
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115
 
 Control measures indicated were applied on the date below.
 
@@ -125,9 +115,3 @@ Medical facilities
 Other areas inspected
 
 Indicate when the areas listed are not applicable by marking N/A.
-
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115

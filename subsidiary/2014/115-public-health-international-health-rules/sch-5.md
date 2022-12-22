@@ -46,9 +46,7 @@ Number of passengers on board ……………..
 
 Health questions
 
-(1) Has any person died on board during the voyage otherwise than as a result of accident? Yes…… No……..
-
-If yes, state particulars in attached schedule.
+(1) Has any person died on board during the voyage otherwise than as a result of accident? Yes…… No…….. If yes, state particulars in attached schedule.
 
 Total number of deaths…….
 
@@ -56,11 +54,7 @@ Total number of deaths…….
 
 (3) Has the number of ill passengers during the voyage been greater than normal/expected? Yes .....No...... How many ill persons? ..........
 
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115 (4) Is there any ill person on board now? Yes ........ No …..... If yes, state particulars in attached schedule.
+(4) Is there any ill person on board now? Yes ........ No …..... If yes, state particulars in attached schedule.
 
 (5) Was a medical practitioner consulted? Yes ....... No …..... If yes, state particulars of medical treatment or advice provided in attached schedule.
 
@@ -68,7 +62,7 @@ Subsidiary 2014/115 (4) Is there any ill person on board now? Yes ........ No �
 
 If yes, state particulars in attached schedule.
 
-(7) Has any sanitary measure (e.g. quarantine, isolation, disinfection or decontamination) been applied on board? Yes ....... No …...
+(7) Has any sanitary measure (e.g. quarantine, isolation, disinfection or decontamination) been applied on board?  Yes ....... No …...
 
 If yes, specify type, place and date……………………………………………
 
@@ -110,11 +104,7 @@ Port and date joined ship
 
 Nature of illness
 
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115 Date of onset of symptoms
+Date of onset of symptoms
 
 Reported to a port medical officer?
 
@@ -125,9 +115,3 @@ Drugs, medicines or other treatment given to patient
 Comments
 
 3 State: (1) whether the person recovered, is still ill or died; and (2) whether the person is still on board, was evacuated (including the name of the port or airport), or was buried at sea.
-
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115

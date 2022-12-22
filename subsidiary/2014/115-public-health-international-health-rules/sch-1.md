@@ -25,9 +25,3 @@ An event involving the following diseases shall always lead to utilization of th
 -West Nile fever;
 
 -Other diseases that are of special national or regional concern, e.g. dengue fever, Rift Valley fever, and meningococcal disease. or or Is the public health impact of  the event serious? Is the event unusual or unexpected? Is the event unusual or unexpected? Is there a significant risk of international spread? Is there a significant risk of international spread? Is there a significant risk of international spread? Not notified at this stage. Reassess when more information becomes available. Event must be notified No Yes Yes Yes No No Yes No No No Yes Yes
-
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115

@@ -13,9 +13,3 @@ Detected health events on board Yes No Evidence code Evidence found (brief descr
 Name of issuing inspector: Signature of issuing inspector: Stamp of issuing authority:
 
 Page ___ of ___
-
-Public Health PUBLIC HEALTH (INTERNATIONAL HEALTH) RULES 2014
-
-1950-07
-
-Subsidiary 2014/115
