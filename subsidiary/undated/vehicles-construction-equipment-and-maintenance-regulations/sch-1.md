@@ -32,9 +32,7 @@ As set out in relation to category N3 vehicles in Annexes I, II and VII to the C
 
 Trailers which have a gross weight of 750 kilograms or less.
 
-As set out in relation to category O1 vehicles in Annexes I, II and VII to the Council Directive and,  if relevant, in Annexes III, IV, V, VI and VIII to the Council Directive.
-
-8
+As set out in relation to category O1 vehicles in Annexes I, II and VII to the Council Directive and,  if relevant, in Annexes III, IV, V, VI and VIII to the Council Directive. 8
 
 Trailers which have a gross weight exceeding 750 kilograms but not exceeding 3,500 kilograms.
 
