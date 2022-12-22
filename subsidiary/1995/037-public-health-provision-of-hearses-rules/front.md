@@ -1,15 +1,15 @@
-Public Health PUBLIC HEALTH (PROVISION OF HEARSES) RULES, 1995
+Subsidiary Legislation made under s.337.
 
-1950-07
+Public Health (Provision of Hearses) Rules 1995
 
-Subsidiary 1995/037 Rules made under s.337.
+LN.1995/037
 
-PUBLIC HEALTH (PROVISION OF HEARSES) RULES, 1995
+Commencement 14.3.1995
 
-(LN. 1995/037)
+Amending enactments Relevant current provisions Commencement date LN. 2005/058 Sch. 1.4.2005 2022/341 Sch. 22.12.2022
 
-14.3.1995
+ARRANGEMENT OF RULES
 
-Amending enactments Relevant current provisions Commencement date
+Rule
 
-LN. 2005/058 Sch. 1 1.4.2005
+1. Title and commencement. 2. Charges for the use of the hearse.
