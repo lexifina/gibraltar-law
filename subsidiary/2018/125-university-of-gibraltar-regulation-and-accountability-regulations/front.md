@@ -6,7 +6,9 @@ LN.2018/125
 
 Commencement 31.5.2018
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2022/333 r. 3(3), Sch. 22.12.2022
 
 ARRANGEMENT OF REGULATIONS
 
@@ -18,6 +20,6 @@ Powers of Gibraltar Higher Education Commission and the Gibraltar Authority for 
 
 4. Information Notices. 5. Enforcement Notices.
 
-SCHEDULE MEMORANDUM OF REGULATION
+SCHEDULE Revoked
 
 In exercise of the powers conferred on him by sections 46, 49 and 56 of the University of Gibraltar Act 2015, the Minister has made the following Regulations–
