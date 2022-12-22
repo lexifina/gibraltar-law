@@ -8,7 +8,7 @@ Commencement 4.9.1986
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/080 r. 6 20.4.2017
+LN. 2017/080 r. 6 20.4.2017 2022/335 r. 6 22.12.2022
 
 ARRANGEMENT OF REGULATIONS
 
