@@ -28,9 +28,7 @@ International Conventions
 
 (m) The International Convention on Civil Liability for Oil Pollution Damage 1969 (CLC).
 
-Gibraltar Merchant Shipping (Safety, etc.)
-
-1995-13 (n) The International Convention for the Prevention of Pollution from Ships 1973, as modified by the Protocol of 1978 (MARPOL 73/78).
+(n) The International Convention for the Prevention of Pollution from Ships 1973, as modified by the Protocol of 1978 (MARPOL 73/78).
 
 (o) The Inter-Governmental Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972, as amended (London Dumping Convention) (LDC) (Gibraltar not now a Contracting State, although UK and all other UK Commonwealth countries are).
 
@@ -58,9 +56,7 @@ Gibraltar Merchant Shipping (Safety, etc.)
 
 (aa) Protocol to the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties - London 2 November 1973 EIF 30 March 1982, UK Ratification 5 November 1979.
 
-Gibraltar Merchant Shipping (Safety, etc.)
-
-1995-13 (bb) Protocol to the International Convention on Civil Liability for Oil Pollution Damage 1969 - London 19 November 1976, EIF 8 APRIL 1981, UK Ratification 31 January 1980.
+(bb) Protocol to the International Convention on Civil Liability for Oil Pollution Damage 1969 - London 19 November 1976, EIF 8 APRIL 1981, UK Ratification 31 January 1980.
 
 (cc) Special Trade Passenger Ships Agreement - London 6 October 1971, EIF 2 January 1974, UK Acceptance 16 August 1979, EIF 15 November 1979.
 
