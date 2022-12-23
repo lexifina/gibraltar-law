@@ -1,8 +1,6 @@
 Merchant Shipping
 
-1935-09
-
-MERCHANT SHIPPING ACT
+1935-09 MERCHANT SHIPPING ACT
 
 Principal Act
 
@@ -18,21 +16,21 @@ Merchant Shipping
 
 1.3.2003 2004-36 s.2(1) 29.11.2004 2007-17 ss. 5(1)-(2), 6, 7(1)-(2), 8(2), 9, 13(1)-(2), (4), 16, 27(1), 28, 31(1), 39(1), 40(2)-(3), 56, 57(1)- (2), 65, 68(1), 69(2), 70(1), 71, 72(2), 73(1), 75(1), 76(1)-(2), 77(1)-(2), 78(1), 84(1)-(2), 85(1)- (2), 101A(3)-(4), 102, 105(3), 106, 109(1), 116(1)-(3), (6), 117(3), 118(1)-(2), 119(1), 120(3), (6), 122(2), 136(1), 137(1)-(2), (5)-(6), (8), 139-140, 142(1), (3), 144(1), 145, 146(1)- (2), 149, 150(5)-(7), 152, 158(2), 164(2), 165(1), 173(3), 177(2), 178(1), (3), 179(1)-(2), 180(1), 181, 182(1), 188(5)-(6), 204(1), 206, 212, 213(1), 213(2), 214(1)- (3), (5), 216(1), 218, 220, 222(2), 223, 224(1)-(3), 225(3)-(5)
 
-14.6.2007 LN. 2015/070 ss. 179A-179T, Sch. 6 16.4.2015 Act. 2016-09 ss. 180-203, 221A 10.3.2016
+14.6.2007 LN. 2015/070 ss. 179A-179T, Sch. 6 16.4.2015 Act. 2016-09 ss. 180-203, 221A 10.3.2016 2022-17 ss. 49(5), 179H(5), 179P(5)-(6) 23.12.2022
 
 Notes: Rules of court made under s.148 and under other powers appear under the title Supreme Court.
 
-Delegation to the Captain of the Port of the powers of the Governor under s.220 by notice of 16 March 1964 appears under the title Interpretation  and General Clauses.
+Delegation to the Captain of the Port of the powers of the Governor under s.220 by notice of 16 March 1964 appears under the title Interpretation and General Clauses.
 
 Transposing:
 
 EU Legislation/International Agreements involved: Nairobi International Convention on the Removal of Wrecks, 2007
 
-English sources Merchant Shipping Act 1894 (57 & 58 Vict. c.60) Merchant Shipping Act 1897 (60 & 61 Vict. c.59) Wireless Telegraphy Act 1904 (4 Edw.7 c.24) Merchant Shipping Act 1906 (6 Edw.7 c.48) Merchant Shipping (Seaman’s Allotment) Act 1911 (1 & 2 Geo.5 c.8) Pilotage Act 1913 (2 & 3 Geo.5 c.31) Merchant Shipping (Wireless Telegraphy) Act 1919 (9 & 10 Geo.5 c.38) Merchant Shipping Acts Amendment Act 1923 (13 & 14 Geo.5 c.38)
+English sources Merchant Shipping Act 1894 (57 & 58 Vict. c.60) Merchant Shipping Act 1897 (60 & 61 Vict. c.59) Wireless Telegraphy Act 1904 (4 Edw.7 c.24) Merchant Shipping Act 1906 (6 Edw.7 c.48) Merchant Shipping (Seaman’s Allotment) Act 1911 (1 & 2 Geo.5 c.8) Pilotage Act 1913 (2 & 3 Geo.5 c.31) Merchant Shipping (Wireless Telegraphy) Act 1919 (9 & 10 Geo.5 c.38)
 
 Merchant Shipping
 
-1935-09 Merchant Shipping (International Labour Conventions) Act 1925 (15 & 16 Geo.5 c.42) Criminal Justice Act 1925 (15 & 16 Geo.5 c.86) Merchant Shipping (Line–throwing Appliance) Act 1923 (18 & 19 Geo.5 c.40) Merchant Shipping (Safety and Load Line Conventions) Act 1932 (22 & 23 Geo.5 c.9) Milford Haven Conservancy Act 1958 (6 & 8 Eliz.2 c.23)
+1935-09 Merchant Shipping Acts Amendment Act 1923 (13 & 14 Geo.5 c.38) Merchant Shipping (International Labour Conventions) Act 1925 (15 & 16 Geo.5 c.42) Criminal Justice Act 1925 (15 & 16 Geo.5 c.86) Merchant Shipping (Line–throwing Appliance) Act 1923 (18 & 19 Geo.5 c.40) Merchant Shipping (Safety and Load Line Conventions) Act 1932 (22 & 23 Geo.5 c.9) Milford Haven Conservancy Act 1958 (6 & 8 Eliz.2 c.23)
 
 Merchant Shipping
 
@@ -126,7 +124,9 @@ Merchant Shipping
 
 PART V. PROVISIONS RELATING TO LOAD LINES.
 
-121. Implementation of Merchant Shipping (Load Lines) Act 1967, etc. 122. Exemptions. 123. Revoked 124. Revoked 125. Revoked 126. Revoked 127. Revoked 128. Revoked 129. Revoked 130. Revoked 131. Revoked 132. Revoked PART VA. IMPLEMENTATION OF COUNCIL DIRECTIVE 95/21/EC.
+121. Implementation of Merchant Shipping (Load Lines) Act 1967, etc. 122. Exemptions. 123 - 132. Revoked
+
+PART VA. IMPLEMENTATION OF COUNCIL DIRECTIVE 95/21/EC.
 
 132A - 132R. Revoked.
 
@@ -138,13 +138,11 @@ PART VII. SPECIAL SHIPPING INQUIRIES AND COURTS.
 
 Inquiries and Investigations as to Shipping Casualties.
 
-Merchant Shipping
-
-1935-09
-
 135. General power of inquiry or investigation into shipping casualties and conduct of officers. 136. Preliminary inquiry into shipping casualties. 137. Formal investigation of shipping casualties. 138. Method of conducting formal investigations. 139. Inquiry in case of loss of life from fishing vessel’s boat.
 
-Power as to Certificates of Officers and Others.
+Merchant Shipping
+
+1935-09 Power as to Certificates of Officers and Others.
 
 140. Power of Minister responsible for shipping as to certificate. 141. Power of court of investigation or inquiry as to certificate. 142. Inquiry into conduct of certificated officer. 142A. Power to summon witness to inquiry. 143. Removal of master by Supreme Court. 144. Delivery of certificate cancelled or suspended. 145. Power of Minister responsible for shipping to restore certificate.
 
@@ -168,15 +166,15 @@ PART VIII. WRECK AND SALVAGE.
 
 Vessels in Distress.
 
-153. Interpretation. 154. Duty of receiver where vessel in distress. 155. Powers of receiver in case of vessels in distress. 156. Power of receiver to suppress plunder and disorder by force.
-
-Merchant Shipping
-
-1935-09 157. Exercise of powers of receiver in his absence. 158. Examination in respect of ships in distress.
+153. Interpretation. 154. Duty of receiver where vessel in distress. 155. Powers of receiver in case of vessels in distress. 156. Power of receiver to suppress plunder and disorder by force. 157. Exercise of powers of receiver in his absence. 158. Examination in respect of ships in distress.
 
 Dealing with Wreck.
 
-159. Provision as to wreck found in Gibraltar. 160. Penalty for taking wreck at time of casualty. 161. Notice of wreck to be given by receiver. 162. Claims of owners to wreck. 163. Immediate sale of wreck by receiver in certain cases. 164. Rights of Crown to and disposal of unclaimed wreck. 165. Removal of wreck by receiver and recovery of expenditure. 166. Powers of removal to extend to tackle, cargo, etc. 167. Protection of crown interests in wrecks.
+159. Provision as to wreck found in Gibraltar. 160. Penalty for taking wreck at time of casualty. 161. Notice of wreck to be given by receiver.
+
+Merchant Shipping
+
+1935-09 162. Claims of owners to wreck. 163. Immediate sale of wreck by receiver in certain cases. 164. Rights of Crown to and disposal of unclaimed wreck. 165. Removal of wreck by receiver and recovery of expenditure. 166. Powers of removal to extend to tackle, cargo, etc. 167. Protection of crown interests in wrecks.
 
 Offences in Respect of Wreck.
 
@@ -202,15 +200,15 @@ PART VIIIA. WRECK REMOVAL CONVENTION.
 
 Preliminary
 
-Merchant Shipping
-
-1935-09
-
 179A.  Scope of Part: Wreck Removal Convention. 179B.  Interpretation of Part.
 
 Report, marking and removing
 
-179C.  Wreck reports. 179D.   Locating and marking wrecks. 179E.  Removal by registered owner. 179F.  Conditions about removal. 179G.   Removal in default. 179H.  Liability for costs. 179I.   Limitation period.
+179C.  Wreck reports. 179D.   Locating and marking wrecks.
+
+Merchant Shipping
+
+1935-09 179E.  Removal by registered owner. 179F.  Conditions about removal. 179G.   Removal in default. 179H.  Liability for costs. 179I.   Limitation period.
 
 Insurance
 
@@ -226,17 +224,15 @@ PART X. EMPLOYMENT OF ALIENS IN BRITISH SHIPS.
 
 PART XI. LEGAL PROCEEDINGS.
 
-205. Prosecution of offences. 206. Legal proceedings. 207. General penalty. 208. Enforcing detention of ship. 209. Sums ordered to be paid leviable by distress on ship.
-
-Merchant Shipping
-
-1935-09 210. Service of documents.
+205. Prosecution of offences. 206. Legal proceedings. 207. General penalty. 208. Enforcing detention of ship. 209. Sums ordered to be paid leviable by distress on ship. 210. Service of documents.
 
 PART XII. SUPPLEMENTAL.
 
 General Control.
 
-211. Superintendence of merchant shipping by Port Department. 212. Minister responsible for shipping may prescribe form s. 213. Offences as to use of forms.
+Merchant Shipping
+
+1935-09 211. Superintendence of merchant shipping by Port Department. 212. Minister responsible for shipping may prescribe form s. 213. Offences as to use of forms.
 
 Surveyors of Ships.
 
@@ -258,13 +254,13 @@ SCHEDULE 1. Fees Payable.
 
 SCHEDULE 1A. containing Annexes I to VII to Council Directive 95/21/EC as amended by Commission Directive 98/42/EC.
 
-Merchant Shipping
-
-1935-09 SCHEDULE 2. Special Measurements for Passenger Ships plying not south of a line joining Europa Point and Carnero Point.
+SCHEDULE 2. Special Measurements for Passenger Ships plying not south of a line joining Europa Point and Carnero Point.
 
 SCHEDULE 3. Modifications.
 
-SCHEDULE 4. Alteration of penalties
+Merchant Shipping
+
+1935-09 SCHEDULE 4. Alteration of penalties
 
 SCHEDULE 5. International Convention on Salvage, 1989.
 
