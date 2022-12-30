@@ -6,6 +6,10 @@ Act. No. 2017-15 Commencement (LN.2019/126) exception of the following provision
 
 1.7.2019
 
+LN.2022/349 (All remaining provisions that have not been commenced, except for s.40(7))
+
+30.12.2022
+
 Assent 25.9.2017
 
 Amending enactments Relevant current provisions Commencement date
