@@ -14,7 +14,9 @@ ss. 415 and 420 to 423 (LN. 2012/091) 28.6.2012
 
 ss 3-84, 86-414, 416-419, 424-609, 621- 689, 691-697, 699- 702, Schs 1-10 & 13 (LN. 2012/184)
 
-23.11.2012 Assent 12.8.2011
+23.11.2012
+
+Assent 12.8.2011
 
 Amending enactments Relevant current provisions Commencement date
 
@@ -28,11 +30,11 @@ Act. 2012-13 ss. 2(1), 170(3), (3)(a) & (4), 225, 226, 241, 244(1) & (4), 245, 2
 
 24.1.2019 LN. 2019/017 ss. 107(9), 108(1) 31.1.2019 Act. 2018-25 ss. 2(1), 77(1), 84(8), 85(3), 94A, 685(3), Sch. 14 22.2.2019 LN. 2020/511 ss. 144(4A)-(4B), 211(5)-(6), 351(3), 352(1), (4)(c), 371(6)-(7), 376(1A)-(1B), 480(4), (4A), (5)
 
-1.1.2021 2020/521 s. 77(1) 1.1.2021 Act. 2021-19 Sch. 14 30.7.2021 LN. 2022/257 Sch. 12 1.9.2022
+1.1.2021 2020/521 s. 77(1) 1.1.2021 Act. 2021-19 Sch. 14 30.7.2021 LN. 2022/257 Sch. 12 1.9.2022 Act. 2017-15 s. 616(11) 30.12.20223
 
 Transposing: Directive 2010/64/EU Directive 2011/36/EU Decision 2008/675/JHA
 
-1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136
+1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136 3 Commencement notice see LN. 2022/348
 
 ARRANGEMENT OF SECTIONS
 
