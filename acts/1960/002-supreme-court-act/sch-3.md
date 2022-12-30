@@ -23,7 +23,3 @@ Part II – Persons who may be excused.
 4.  Former Judges.
 
 5.  Members of Her Majesty’s naval, military or air forces in respect of whom their commanding officer certifies that it would be significantly prejudicial to the service if they were absent from duty.
-
-Supreme Court
-
-1960-02

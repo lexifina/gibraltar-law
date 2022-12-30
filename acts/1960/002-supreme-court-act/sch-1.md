@@ -10,9 +10,7 @@ PART II
 
 Section 35H (1)
 
-Supreme Court
-
-1960-02 1.  Activities relating to the representation of a client in legal proceedings or before public authorities shall be pursued in Gibraltar under the conditions laid down for lawyers established in Gibraltar, with the exception of any conditions requiring residence or registration with a professional organisation in Gibraltar.
+1.  Activities relating to the representation of a client in legal proceedings or before public authorities shall be pursued in Gibraltar under the conditions laid down for lawyers established in Gibraltar, with the exception of any conditions requiring residence or registration with a professional organisation in Gibraltar.
 
 2.  A lawyer pursuing these activities shall observe the rules of professional conduct of Gibraltar, without prejudice to his obligations in the EEA State from which he comes.
 
@@ -22,14 +20,6 @@ Part III Section 41
 
 Lawyers listed in Article 1 Directive 98/5/EC
 
-State Professional title(s)
+State Professional title(s) Austria Rechtsanwalt Belgium Avocat/Advocaat/Rechtsanwalt Bulgaria Aдвокат Croatia Odvjetnik/Odvjetnica Cyprus ∆ικηγόρος Czech Republic Advokát Denmark Advokat Estonia Vandeadvokaat Finland Asianajaja/Advokat France Avocat Germany Rechtsanwalt Greece Δικηγόρος Hungary Ügyvéd Ireland Barrister/Solicitor Italy Avvocato Latvia Zvērināts advokāts Lithuania Advokatas
 
-Austria Rechtsanwalt Belgium Avocat/Advocaat/Rechtsanwalt Bulgaria Aдвокат Croatia Odvjetnik/Odvjetnica Cyprus ∆ικηγόρος Czech Republic Advokát Denmark Advokat Estonia Vandeadvokaat Finland Asianajaja/Advokat France Avocat Germany Rechtsanwalt Greece Δικηγόρος Hungary Ügyvéd Ireland Barrister/Solicitor Italy Avvocato
-
-Supreme Court
-
-1960-02 Latvia Zvērināts advokāts Lithuania Advokatas Luxembourg Avocat Malta Avukat/Prokuratur Legali Netherlands Advocaat Romania Avocat Poland Adwokat/ Radca prawny Portugal Advogado Slovenia Odvetnik/Odvetnica Slovakia Advokát/Komerčný právnik Sweden Advokat Spain Abogado/Advocat/Avogado/Abokatu United Kingdom Advocate/Barrister/Solicitor
-
-Supreme Court
-
-1960-02
+Luxembourg Avocat Malta Avukat/Prokuratur Legali Netherlands Advocaat Romania Avocat Poland Adwokat/ Radca prawny Portugal Advogado Slovenia Odvetnik/Odvetnica Slovakia Advokát/Komerčný právnik Sweden Advokat Spain Abogado/Advocat/Avogado/Abokatu United Kingdom Advocate/Barrister/Solicitor

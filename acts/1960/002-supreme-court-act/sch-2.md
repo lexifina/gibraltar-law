@@ -30,10 +30,6 @@ Part II – Other persons disqualified.
 
 2.  A person who has at any time been sentenced in Gibraltar or elsewhere to–
 
-Supreme Court
-
-1960-02
-
 (a) imprisonment for life, detention for life or custody for life;
 
 (b) detention during Her Majesty’s pleasure;
@@ -45,7 +41,3 @@ Supreme Court
 (a) served any part of a custodial sentence; or
 
 (b) had passed on him a suspended custodial sentence.
-
-Supreme Court
-
-1960-02

@@ -4,13 +4,13 @@ SCHEDULE 4
 
 FINANCIAL OFFENCES
 
-An  offence  under  any  of  the  following  provisions  is  a  financial offence  for purposes of Part IIIA-
+An offence under any of the following provisions is a financial offence for purposes of Part IIIA-
 
 1.  The following offences under the Crimes Act 2011-
 
 416 – Fraud by false representation 417 – Fraud by failing to disclose information 418 – Fraud by abuse of position 422(1) - Obtaining services dishonestly 425(1) - False accounting 426(1) - False statements by company directors, etc 427(1) - Suppression, etc., of documents
 
-2.  An  offence  under  Part  II  of  the  Proceeds of Crime Act 2015.
+2.  An offence under Part II of the Proceeds of Crime Act 2015.
 
 3. An offence under sections 410, 411, and 412 of the Financial Services Act 2019.
 
