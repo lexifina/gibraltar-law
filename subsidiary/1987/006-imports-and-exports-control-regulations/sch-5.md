@@ -13,9 +13,3 @@ Conditions which may be imposed by the Collector in granting an export licenceâ€
 (c) that notification of export shall be given in the prescribed form;
 
 (d) such other conditions as the Collector may think fit to impose.
-
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006

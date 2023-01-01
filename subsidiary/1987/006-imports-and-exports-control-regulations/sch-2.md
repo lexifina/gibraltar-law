@@ -8,7 +8,7 @@ PART I.
 
 1. Gold bullion and gold coins.
 
-2. Petrol.
+2.Petrol.
 
 PART II.
 
@@ -34,14 +34,4 @@ PART II.
 
 17. Tobacco or tobacco products other than products which are prohibited imports and in this paragraph “tobacco products’ means products entirely or partly made of the leaf tobacco as raw material, which are manufactured to be used for smoking, sucking, chewing or snuffing.
 
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006 18. Products containing Nitrous Oxide.
-
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006
+18. Products containing Nitrous Oxide.

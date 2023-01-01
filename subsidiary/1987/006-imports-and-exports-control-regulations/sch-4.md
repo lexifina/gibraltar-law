@@ -8,12 +8,6 @@ Commercial traveller’s samples. Supplies exported to Her Majesty’s Forces. P
 
 (a) articles wholly or mainly of gold or platinum, or
 
-(b) diamonds, precious and semi-precious stones, pearls and articles mounted or set with diamonds, precious or semi- precious stones or pearls.
+(b) diamonds, precious and semi-precious stones, pearls and articles mounted or set with diamonds, precious or semi-precious stones or pearls.
 
 Foodstuffs personally carried by individuals up to a maximum of 12.70kg. in weight.
-
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006

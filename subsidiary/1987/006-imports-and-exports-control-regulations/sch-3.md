@@ -19,9 +19,3 @@ Conditions which may be imposed by the officer granting an import licence–
 (f) that the reserve stocks shall be open to inspection by the officer granting the licence at all reasonable times;
 
 (g) such other conditions as the officer granting the licence may think fit to impose.
-
-Imports and Exports IMPORTS AND EXPORTS (CONTROL) REGULATIONS, 1987
-
-1986-21
-
-Subsidiary 1987/006
