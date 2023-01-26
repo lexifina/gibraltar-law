@@ -8,12 +8,12 @@ Commencement 25.10.2001
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/110 Paras. 2(j)-(k), (m), 3 14.6.2017 2017/147 Para. 2(p)-(q) 13.7.2017 2018/174 Paras. 2(g)-(h), (m)-(n), (p)-(q), (u), 3-4 6.8.2018 2020/120 Paras. 2(g)-(h), (m)-(n), (p)-(q), (u), 4 31.5.2020
+LN. 2017/110 Paras. 2(j)-(k), (m), 3 14.6.2017 2017/147 Para. 2(p)-(q) 13.7.2017 2018/174 Paras. 2(g)-(h), (m)-(n), (p)-(q), (u), 3-4 6.8.2018 2020/120 Paras. 2(g)-(h), (m)-(n), (p)-(q), (u), 4 31.5.2020 2023/011 Paras.3-4 26.1.2023
 
 ARRANGEMENT OF PARAGRAPHS
 
 Paragraph
 
-1. Title. 2. Pedestrianised Areas. 3. Vehicles. 4. Bicycles.
+1. Title. 2. Pedestrianised Areas. 3. Vehicles. 4. Bicycles and personal light electric transporters.
 
 In exercise of the powers conferred on him by regulation 3 of the Traffic (Pedestrianisation) Regulations 2001, the Minister with responsibility for Transport has made the following Order–
