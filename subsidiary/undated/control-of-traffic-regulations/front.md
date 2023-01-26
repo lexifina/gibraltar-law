@@ -6,7 +6,13 @@ Control of Traffic Regulations
 
 Commencement 15.03.1960
 
-Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996 1996/090 rr. 47A-47D, Schs.8-Sch.11 19.9.1996 Act. 1998-44 rr. 34-36 22.9.2000 LN. 2000/085 r. 59(2)(b) 2.11.2000 2001/005 Sch.4 1.2.2001 2002/073 rr. 56-58, 64 17.10.2002 Act. 2007-17 r. 19(3)(c) 14.6.2007 LN. 2008/061 r. 32 14.8.2008 2011/057 rr. 54-63 9.6.2011 2011/178 r. 14 29.9.2011 2012/031 r. 32 10.4.2012 2012/142 rr. 53A-53C, Sch.12 18.10.2012 2015/124 r. 33 29.7.2015 2018/253 r. 33A 8.11.2018 2018/260 r. 33A(3) 15.11.2018 2018/292 r. 9, Sch.13 20.12.2018 2019/034 rr. 9A, 31A 14.2.2019 2022/294 r. 3A 27.10.2022 2022/335 r. 32(4) 22.12.2022 ARRANGEMENT OF REGULATIONS
+Amending enactments Relevant current provisions Commencement date LN. 1986/090 Sch.4 9.9.1986 1987/085 r. 32(2) 1.6.1987 1987/121 Sch.4 1.8.1987 1988/044 Sch.3 31.3.1988 1988/108 r. 61 14.11.1988 1988/140 r. 61 15.12.1988 1989/007 r. 60 2.2.1989 1989/100 r. 19A, Sch.4 27.11.1989 1991/158 rr. 20(b), 32(3), 36, 58(1) 8.8.1991 1996/089 rr. 47A-47C 5.9.1996 1996/090 rr. 47A-47D, Schs.8-Sch.11 19.9.1996 Act. 1998-44 rr. 34-36 22.9.2000 LN. 2000/085 r. 59(2)(b) 2.11.2000 2001/005 Sch.4 1.2.2001 2002/073 rr. 56-58, 64 17.10.2002 Act. 2007-17 r. 19(3)(c) 14.6.2007 LN. 2008/061 r. 32 14.8.2008 2011/057 rr. 54-63 9.6.2011 2011/178 r. 14 29.9.2011 2012/031 r. 32 10.4.2012 2012/142 rr. 53A-53C, Sch.12 18.10.2012 2015/124 r. 33 29.7.2015 2018/253 r. 33A 8.11.2018 2018/260 r. 33A(3) 15.11.2018 2018/292 r. 9, Sch.13 20.12.2018 2019/034 rr. 9A, 31A 14.2.2019 2022/294 r. 3A 27.10.2022 2022/335 r. 32(4) 22.12.2022
+
+2023/011 rr. 2, 3(3), 3A, 4, 5(2), 6(3), 7, 9(2), 10, 15(3), 19A, 37(1A), (2)-(3), 38, 39(3)-(4), 42, 45(2), 46(b), 47, 47B-47D, 49-52, 53A(1)
+
+26.1.2023
+
+ARRANGEMENT OF REGULATIONS
 
 Regulation
 
@@ -16,19 +22,15 @@ Preliminary
 
 General Rules of the Road
 
-3. Overtaking. 3A. Overtaking of bicycles, etc. 4. Roundabouts. 5. Turning left or right. 6. Giving way. 7. Slow traffic. 8. Unattended vehicles. 9. Driving or riding on the footpath. 9A. Tunnels
-
-Motor Vehicles
-
-10. Driver to have proper control. 11. Maintenance of vehicle and conditions of loading so as not to be a danger. 12. Riding in a dangerous position. 13. Passengers on goods vehicles. 14. Restriction on reversing. 15. Signalling change of direction. 16. Direction indicators and brake lights. 17. Obstructing roads. 18. Obstructing entrances. 19. Vehicles excluded from City. 19A. Bomb House Lane restriction. 20. Restrictions on lamps. 21. Sound warnings. 22. Avoidable excessive noise. 23. Use and maintenance of silencer. 24. Stopping of engine when stationary. 25. Refuelling. 26. Repairing vehicles on roads. 27. Length of tow rope. 28. Trailers not to be drawn by public service vehicles. 29. Number of trailers permitted. 30. Trailer couplings.
+3. Overtaking. 3A. Overtaking of bicycles, etc. 4. Roundabouts. 5. Turning left or right. 6. Giving way. 7. Slow traffic. 8. Unattended vehicles. 9. Driving or riding on the footpath. 9A. Tunnels 10. Driver to have proper control. 11. Maintenance of vehicle and conditions of loading so as not to be a danger. 12. Riding in a dangerous position. 13. Passengers on goods vehicles. 14. Restriction on reversing. 15. Signalling change of direction. 16. Direction indicators and brake lights. 17. Obstructing roads. 18. Obstructing entrances. 19. Vehicles excluded from City. 19A. Bomb House Lane restriction. 20. Restrictions on lamps. 21. Sound warnings. 22. Avoidable excessive noise. 23. Use and maintenance of silencer. 24. Stopping of engine when stationary. 25. Refuelling. 26. Repairing vehicles on roads. 27. Length of tow rope. 28. Trailers not to be drawn by public service vehicles. 29. Number of trailers permitted. 30. Trailer couplings.
 
 31. Trailers on motor cycles. 31A. Loads longer or wider than the vehicle. 32. Wearing of protective headgear. 33. Footrests for passengers on motor cycles. 33A. Control of motorcycle.
 
 34 to 36. Revoked.
 
-Bicycles
+Bicycles and personal light electric transporters.
 
-37. Number of persons on a bicycle. 38. Control of bicycle. 39. Bell. 40. Horns, etc., prohibited. 41. Riding abreast. 42. Offences.
+37. Number of persons on a bicycle or a personal light electric transporter. 38. Control of bicycle or personal light electric transporter. 39. Bell and other warning equipment. 40. Horns, etc., prohibited. 41. Riding abreast. 42. Offences.
 
 Speed Limits.
 
