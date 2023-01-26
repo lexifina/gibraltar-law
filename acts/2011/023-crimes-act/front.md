@@ -16,7 +16,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136 3 Commencement notice see LN. 2017/097 4 Commencement notice see LN. 2018/271
 
-2019-19 ss. 163A-163E 15.7.20215 2022-11 ss. 315G-315M 27.10.2022
+2019-19 ss. 163A-163E 15.7.20215 2022-11 ss. 315G-315M 27.10.2022 2023-03 s. 174 26.1.2023
 
 Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU Directive 2013/40/EU
 
