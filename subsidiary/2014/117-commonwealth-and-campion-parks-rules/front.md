@@ -1,12 +1,14 @@
 Subsidiary Legislation made under s.5.
 
-Commonwealth Park Rules 2014
+Commonwealth and Campion Parks Rules 2014
 
 LN.2014/117
 
 Commencement 10.7.2014
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2023-01 rr. 1-2, Sch. 26.1.2023
 
 ARRANGEMENT OF REGULATIONS
 
