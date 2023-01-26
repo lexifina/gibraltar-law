@@ -6,15 +6,15 @@ Vehicles (Construction, Equipment and Maintenance) Regulations
 
 Commencement 1.4.1958
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 1986/005 r. 30(3) 30.1.1986 1986/013 rr. 2(1), 70(4), 73A, 84 1.3.1986 1986/083 r. 25 28.8.1986 1987/068 rr. 2(1), (4), 5, 6(1)(a)-(f), 6(2)(a)-(e), 7(1)(a)-(c), 8, 9(1)(a)-(g), 9(2)-(3), 10(a)-(e), 11, 13(1)(a)-(e), 10(2), (3)(a)-(b), 16(c), 16A, 17, 17A-17H, 18, 20(1)(a), 20A, 21(1), 24(2), 27A, 28, 29A, 31, 31A, 42(2), 44(1), (3), 47(1)-(2), 48, 49(2), 49(4)(a)-(b), 49(5), 56, 61(1), 70(1)(a)-(c), 71, 72(2)(a), (3)(a)- (b), 74(1)(a)-(c), 74(2)(b), 75(1)-(2), 76(2)(d), 78(b)-(c), 79(1)(a)-(b), (c)(i)-(ii), 80(1)-(3), Sch.1-2
+Amending enactments Relevant current provisions Commencement date LN. 1986/005 r. 30(3) 30.1.1986 1986/013 rr. 2(1), 70(4), 73A, 84 1.3.1986 1986/083 r. 25 28.8.1986 1987/068 rr. 2(1), (4), 5, 6(1)(a)-(f), 6(2)(a)-(e), 7(1)(a)-(c), 8, 9(1)(a)-(g), 9(2)-(3), 10(a)-(e), 11, 13(1)(a)-(e), 10(2), (3)(a)-(b), 16(c), 16A, 17, 17A-17H, 18, 20(1)(a), 20A, 21(1), 24(2), 27A, 28, 29A, 31, 31A, 42(2), 44(1), (3), 47(1)-(2), 48, 49(2), 49(4)(a)-(b), 49(5), 56, 61(1), 70(1)(a)-(c), 71, 72(2)(a), (3)(a)- (b), 74(1)(a)-(c), 74(2)(b), 75(1)-(2), 76(2)(d), 78(b)-(c), 79(1)(a)-(b), (c)(i)-(ii), 80(1)-(3), Sch.1-2
 
 1.4.1987 1987/122 rr. 3A, 84 20.8.1987 1988/069 r. 6(2)(a) 23.6.1988 1989/101 r. 30(3) 30.11.1989 1989/104 rr. 2, 42(4), 44(4), 48 30.11.1989 1991/066 r. 68 18.4.1991 1991/211 r. 29 21.11.1991 1995/035 r. 32A 1.4.1995 1996/002 r. 16 1.3.1996 Act. 1998-44 rr. 35-54, 56-60 22.9.2000 LN. 2006/149 r. 82 7.12.2006 Act. 2007-17 r. 6(4) 14.6.2007 LN. 2009/075 rr. 2, 24(1), 24A, Sch.3 26.11.2009 2011/177 r. 20(8) 29.9.2011 2012/161 rr. 85-92 15.11.2012 2013/016 rr. 2, (5), 5A-5I, 6(1)(a)-(f),  (2)-(4), 8, 9(1), (4), 10, 12-13, 13A-13F, Schs. 4-8
 
 31.1.2013 2017/088 rr. 2(1), 5B(5), 5D, 54A, Sch. 4-5 7.5.2017 Act. 2017-10 r. 17(3)(d) 13.6.2018
 
-LN. 2018/254 r. 27B 9.11.2018 2022.335 r. 3A 22.12.2022
+LN. 2018/254 r. 27B 9.11.2018 2022.335 r. 3A 22.12.2022 2023/011 rr. 2, 64A, 65(1)(ii)-(vi), 66(i)-(iii), 70(1)(b), (c)(ii), (d), 74(1), 75(2)
+
+26.1.2023
 
 Transposing: Directive 89/459/EEC Directive 92/6/EEC Directive 96/53/EC Directive 2007/38/EC Directive (EU) 2015/719
 
@@ -48,9 +48,9 @@ PART II. Revoked
 
 56 to 60 Revoked.
 
-PART III. BICYCLES.
+PART III. BICYCLES AND PERSONAL LIGHT ELECTRIC TRANSPORTERS.
 
-61. Brakes on bicycles. 62. Efficiency of braking systems. 63. Exemptions. 64. Powers of police officers.
+61. Brakes on bicycles. 62. Efficiency of braking systems. 63. Exemptions. 64. Powers of police officers. 64A. Brakes on personal light electric transporters.
 
 PART IV. LAMPS AND REFLECTORS.
 

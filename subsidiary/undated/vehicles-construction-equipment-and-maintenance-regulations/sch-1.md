@@ -18,17 +18,11 @@ As set out in relation to category M3 vehicles in Annexes I, II and VII to the C
 
 4 Goods vehicles which have a gross weight of 3,500 kilograms or less, not being motor cycles with sidecars attached.
 
-As set out in relation to category NI vehicles in Annexes I, II and VII to the Council Directive and, if relevant, in Annexes m, IV, V and VI  to  the  Council Directive.
+As set out in relation to category NI vehicles in Annexes I, II and VII to the Council Directive and, if relevant, in Annexes m, IV, V and VI  to  the  Council Directive. 5 Goods vehicles which have a gross weight exceeding 3,500 kilograms but not exceeding 12,000 kilograms.
 
-5 Goods vehicles which have a gross weight exceeding 3,500 kilograms but not exceeding 12,000 kilograms.
+As set out in relation to category N2 vehicles in Annexes I, II and VII to the Council Directive and,  if relevant,  in Annexes III, IV, V and VI  to  the  Council Directive. 6 Goods vehicles which have a gross weight exceeding 12,000 kilograms.
 
-As set out in relation to category N2 vehicles in Annexes I, II and VII to the Council Directive and,  if relevant,  in Annexes III, IV, V and VI  to  the  Council Directive.
-
-6 Goods vehicles which have a gross weight exceeding 12,000 kilograms.
-
-As set out in relation to category N3 vehicles in Annexes I, II and VII to the Council Directive and,  if relevant,  in Annexes III, IV, V and VI  to  the  Council Directive.
-
-7
+As set out in relation to category N3 vehicles in Annexes I, II and VII to the Council Directive and,  if relevant,  in Annexes III, IV, V and VI  to  the  Council Directive. 7
 
 Trailers which have a gross weight of 750 kilograms or less.
 
@@ -36,9 +30,7 @@ As set out in relation to category O1 vehicles in Annexes I, II and VII to the C
 
 Trailers which have a gross weight exceeding 750 kilograms but not exceeding 3,500 kilograms.
 
-As set out in relation to category O2 vehicles in Annexes I, II and VII to the Council Directive and,  if relevant, in Annexes III, IV, V, VI and VIII to the Council Directive.
-
-9
+As set out in relation to category O2 vehicles in Annexes I, II and VII to the Council Directive and,  if relevant, in Annexes III, IV, V, VI and VIII to the Council Directive. 9
 
 Trailers which have a gross weight exceeding 3,500 kilograms but not exceeding 10,000 kilo- grams.
 

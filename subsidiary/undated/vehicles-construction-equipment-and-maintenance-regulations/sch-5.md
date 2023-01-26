@@ -2,11 +2,7 @@ SCHEDULE 5 Regulations 5A-5C, 5E Part 1
 
 Table 1
 
-Column1 Item Column 2 Categories and types of vehicles and trailers Column 3 Maximum weight (in tonnes) 1 Vehicles forming a part of a vehicle combination
-
-1.1 Two-axle trailer 18 1.2 Three-axle trailer 24 2 Vehicle combinations
-
-2.1 Road trains with five or six axles-
+Column1 Item Column 2 Categories and types of vehicles and trailers Column 3 Maximum weight (in tonnes) 1 Vehicles forming a part of a vehicle combination 1.1 Two-axle trailer 18 1.2 Three-axle trailer 24 2 Vehicle combinations 2.1 Road trains with five or six axles-
 
 (a)Two-axle motor vehicle with three-axle trailer
 
@@ -42,9 +38,7 @@ is greater than 1.80 metres
 
 36
 
-36 + 2 tonnes margin when the maximum authorised weight (MAW) of the motor vehicle (18 tonnes) and the MAW of the tandem axle of the semi-trailer (20 tonnes) are respected and the driving axle is fitted with twin tyres and air suspension or suspension recognised as being equivalent within the Community as defined in Schedule 7 3 Motor vehicles
-
-3.1 Two-axle motor vehicles other than buses 18 tonnes
+36 + 2 tonnes margin when the maximum authorised weight (MAW) of the motor vehicle (18 tonnes) and the MAW of the tandem axle of the semi-trailer (20 tonnes) are respected and the driving axle is fitted with twin tyres and air suspension or suspension recognised as being equivalent within the Community as defined in Schedule 7 3 Motor vehicles 3.1 Two-axle motor vehicles other than buses 18 tonnes
 
 Two-axle alternatively fuelled motor vehicles other than buses: the maximum authorised weight of 18 tonnes is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne
 
@@ -54,23 +48,11 @@ Two-axle buses 19,5 tonnes Three-axle motor vehicles
 
 Three-axle alternatively fuelled motor vehicles the maximum authorised weight of 25 tonnes, or 26 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognised as being equivalent within the European Union as defined in Schedule 7, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9,5 tonnes, is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne 2.3.3
 
-Four-axle motor vehicles with two steering axles
-
-—32 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognized as being equivalent within the Community as defined in Schedule 7, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9.5 tonnes
-
-2.4.1
-
-Three-axle articulated buses
-
-28 tonnes
-
-2.4.2 Three-axle articulated buses alternatively fuelled: the maximum authorised weight of 28 tonnes is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne
+Four-axle motor vehicles with two steering axles —32 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognized as being equivalent within the Community as defined in Schedule 7, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9.5 tonnes 2.4.1 Three-axle articulated buses 28 tonnes 2.4.2 Three-axle articulated buses alternatively fuelled: the maximum authorised weight of 28 tonnes is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne
 
 Table 2
 
-Column1 Item Column 2 Number and description of axles Column 3 Maximum axle weights (in tonnes) 3.1 Single axles
-
-Single non-driving axle 10 tonnes 3.2 Tandem axles of trailers and semi-trailers
+Column1 Item Column 2 Number and description of axles Column 3 Maximum axle weights (in tonnes) 3.1 Single axles Single non-driving axle 10 tonnes 3.2 Tandem axles of trailers and semi-trailers
 
 The sum of the axle weights per tandem axle must not exceed, if the distance (d) between the axles is:
 
@@ -78,9 +60,7 @@ The sum of the axle weights per tandem axle must not exceed, if the distance (d)
 
 The sum of the axle weights per tri-axle must not exceed, if the distance (d) between the axles is:
 
-3.3.1 1.30 metres or less (d ≤ 1.30) 21 tonnes 3.3.2 over 1.30 metres and up to 1.40 metres (1.30 <d ≤ 1.40) 24 tonnes 3.4 Driving axle
-
-3.4.1 Driving axle of the vehicles referred to in 2.2.1 and 2.2.2 11.5 tonnes 3.4.2 Driving axle of the vehicles referred to in points 2.2.3, 2.2.4, 2.3 and 2.4 11.5 tonnes 3.5 Tandem axles of motor vehicles
+3.3.1 1.30 metres or less (d ≤ 1.30) 21 tonnes 3.3.2 over 1.30 metres and up to 1.40 metres (1.30 <d ≤ 1.40) 24 tonnes 3.4 Driving axle 3.4.1 Driving axle of the vehicles referred to in 2.2.1 and 2.2.2 11.5 tonnes 3.4.2 Driving axle of the vehicles referred to in points 2.2.3, 2.2.4, 2.3 and 2.4 11.5 tonnes 3.5 Tandem axles of motor vehicles
 
 The sum of the axle weights per tandem axle must not exceed, if the distance (d) between the axles is:
 
