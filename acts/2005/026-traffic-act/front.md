@@ -22,7 +22,7 @@ Act.   2011-18 ss. 44(4), 89(1)(j), (2), 92, 97, 98A, 98(2), 101(c), 104
 
 8.7.2022 2016-21 s. 61B 1.9.20223 2022/310 s. 59(5) 10.11.2022 Act. 2022-15 ss. 9(2), 15(4), 16(2), 17(3)9a)-(b), 21(1)(a), 22, 40(5), 41(4), 44(1), 46(1), 47(1)(a), 50(1), 51(2), 53(3), 63A(2A), 75(2)(a)-(b), 81(3), 83(9), 86(1)- (2), 95(1)(i)-(ii), (2)
 
-1.12.2022
+1.12.2022 2023-03 ss. 2-3, 74(1), 75(1)-(3), 76, 89(1)(c), 96(3) 26.1.2023
 
 1 Notice of Commencement – LN. 2017/011 2 Notice of Commencement – LN. 2017/076 For Savings and Transitional Provisions please refer to s.24 of the Traffic (Amendment) Act 2016 (2016-21) 3 Notice of Commencement – LN. 2022/224
 
@@ -72,9 +72,9 @@ PART IV DRINKING AND DRIVING
 
 69. Use of specimens in proceedings for an offence under sections 62, 63 or 63A. 70. Documentary evidence as to specimens in such proceedings. 71. Discretionary disqualification. 72. Protection of officers in relation to the arrest of persons suspected of being over the prescribed limit. 73. Interpretation of Part.
 
-PART V REGULATION OF HORSE-DRAWN VEHICLES AND BICYCLES
+PART V REGULATION OF HORSE-DRAWN VEHICLES, BICYCLES AND PERSONAL LIGHT ELECTRIC TRANSPORTERS
 
-74. Examination of vehicles. 75. Application to cyclists and to drivers of horse-drawn vehicles. 76. Regulations.
+74. Examination of vehicles. 75. Application to cyclists and to operators of personal light electric transporters and to drivers of horsedrawn vehicles. 76. Regulations.
 
 PART VI TRAFFIC COMMISSION
 
@@ -86,9 +86,9 @@ Regulations
 
 PART VII STREETS AND HIGHWAYS
 
-81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs. 83A. Informative sign. 83B. Interference with traffic signs. 83C. Obstruction of pavement or verge. 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 85A. Priority of traffic lights. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations. 90. Exemption from liability.
+81. Powers of Commissioner of Police temporarily to prohibit or restrict traffic on roads or public places. 82. Projections against or in front of houses, etc. 83. Traffic signs. 83A. Informative sign. 83B. Interference with traffic signs. 83C. Obstruction of pavement or verge. 84. Traffic Wardens. 85. Penalty for neglect of traffic directions. 85A. Priority of traffic lights. 86. Duty of pedestrians to comply with traffic directions given by police officers. 87. Leaving vehicles in a dangerous position. 88. Stretching of ropes, etc., across road. 89. Regulations.
 
-91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
+90. Exemption from liability. 91. Traffic movement. 92. Fees for use of parking places. 93. Issue of directions for guidance of users of roads. 94. Dumping of abandoned motor vehicles.
 
 PART VIIA FIXED PENALTIES
 
@@ -110,15 +110,15 @@ Proceedings in fixed penalty cases
 
 PART VIII GENERAL
 
-95. Forgery, etc., of licences and certificates. 96. Duty to give information. 97. Repealed. 98. General penalty. 98A. Repealed. 99. Saving of rights. 100.  Nuisances. 101.  Regulations. 102. Repeal of Traffic Act. 103. Transitional provisions.
+95. Forgery, etc., of licences and certificates. 96. Duty to give information. 97. Repealed. 98. General penalty. 98A. Repealed. 99. Saving of rights. 100.  Nuisances. 101.  Regulations. 102. Repeal of Traffic Act.
 
-104. Repealed.
+103. Transitional provisions. 104. Repealed.
 
-SCHEDULE Offences in Respect of which Disqualification or Endorsement  may be ordered.
+SCHEDULE Offences in Respect of which Disqualification or Endorsement  may be ordered. NUMBERING REFERENCE TABLE
 
-NUMBERING REFERENCE TABLE
+Numbering in the 1957 Act Numbering in the 2005 Act Numbering in the 1957 Act Numbering in the 2005 Act 1 1 17 34 PART I PART I 18 35 2 2 19 36 2A 3 20 37 3 4 21 38 PART IA PART II 22 - 4 5 23 39 4A 6 24 40 4B 7 25 41 4C 8 26 42 4D 9 27 43 4E 10 28 44 4F 11 29 45 4G - 30 46 4H 12 31 47 4I 13 32 48 PART II PART III 33 49 5 14 34 - 6 15 35 - 7 16 36 50 8 17 37 51 9 18 38 52 10 19 39 53 11 20 40 54 12 - 41 55 13 21 42 56 14 22 43 - 15 23 44 57 16 24 45 58 16A 25 46 59 16B 26 - 60 16C 27 46A - 16D 28 46B - 16E 29 46C -
 
-Numbering in the 1957 Act Numbering in the 2005 Act Numbering in the 1957 Act Numbering in the 2005 Act 1 1 17 34 PART I PART I 18 35 2 2 19 36 2A 3 20 37 3 4 21 38 PART IA PART II 22 - 4 5 23 39 4A 6 24 40 4B 7 25 41 4C 8 26 42 4D 9 27 43 4E 10 28 44 4F 11 29 45 4G - 30 46 4H 12 31 47 4I 13 32 48 PART II PART III 33 49 5 14 34 - 6 15 35 - 7 16 36 50 8 17 37 51 9 18 38 52 10 19 39 53 11 20 40 54 12 - 41 55 13 21 42 56 14 22 43 - 15 23 44 57 16 24 45 58 16A 25 46 59 16B 26 - 60 16C 27 46A - 16D 28 46B - 16E 29 46C - 16F 30 46D - 16G 31 46E - 16H 32 46F - 16I 33 46G -
+16F 30 46D - 16G 31 46E - 16H 32 46F - 16I 33 46G -
 
 Numbering in the 1957 Act Numbering in the 2005 Act Numbering in the 1957 Act Numbering in the 2005 Act 47 61 73 - PART IIA PART IV 73A - 47A 62 73B - 47B 63 73C - 47C 64 73D - 47D 65 73E - 47E 66 73F - 47F 67 73G - 47G 68 73H - 47H 69 73I - 47J 70 73J - 47K 71 73K - 47L 72 73L - 47M 73 73M - PART III PART V 74 - 48 - 75 - 49 74 76 - 50 - 76A - 51 75 77 TO 82 - 52 76 83 80 PART IV PART VI PART V PART VII 53 77 84 81 54 78 85 82 55 - 86 83 55A 79 87 84 56 - 88 85 57 - 89 86 58 - 90 87 59 - 91 88 60 - 92 89 61 - 93 90 61A - 94 91 62 - 95 92 63 - 96 93 64 - 96A 94 65 - PART VI PART VIII 66 - 97 95 67 - 98 96 68 - 99 97 69 - 100 98 70 - 101 -
 
