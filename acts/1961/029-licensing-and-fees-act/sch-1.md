@@ -48,9 +48,9 @@ The same (h) Supplying a certified or other copy of a notice, certificate, order
 
 The same (i) Administering the oath of allegiance for the purposes of the British Nationality Act, 1981.
 
-If the oath is administered by a Commissioner for Oaths or Notary Public, to the
+If the oath is administered by a Commissioner for Oaths or Notary
 
-Commissioner for Oaths or Notary Public.
+Public, to the Commissioner for Oaths or Notary Public.
 
 4. OFFICE FEES.
 
@@ -227,3 +227,11 @@ Sustainable Tourism Fee.
 (b) a visitor who is staying in accommodation that is owned, operated or managed by a charity and approved by the Minister as being exempted accommodation for the purposes of this paragraph; or
 
 (c) a visitor who arrives in Gibraltar on a cruise ship and to whom the charges in paragraph 3(e) of Schedule 4 to the Port Rules apply.
+
+Administrative Service Requests.
+
+16. The prescribed fees shall be payable for the provision of the following administrative services by the Income Tax Office-
+
+Certificate of ordinarily resident  In respect of a company Certificate of ordinarily resident In respect of an individual meeting the conditions of section 74 of the Income Tax Act 2010, including an individual: - in employment; - carrying on a trade, business, profession or vocation;
+
+- who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. Certificate of compliance In respect of a company Certificate of compliance In respect of an individual: - in employment; - carrying on a trade, business, profession or vocation; or - who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. Statement of account A summary listing in respect of all transactions carried out
