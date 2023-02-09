@@ -23,3 +23,5 @@ PURPOSE FEE (£) REMARKS 1. Entry of Notice of Marriage 54.00 Section 7 2. Issue
 10. Handling fee on an order for a copy or copies of an entry in a marriage register which is sent abroad through post 11.00
 
 11. Mayors Parlour – venue fee 324.00
+
+12. Larios Gallery – venue fee 200.00
