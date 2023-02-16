@@ -78,7 +78,7 @@ Constitution of the Board.
 
 (7)  An appointed trustee may resign his office by notice in writing to the Minister.
 
-(8)  A trustee shall be appointed or elected, as the case may be, for a term of 2 years.  After completion of the term of 2 years, a trustee shall be eligible for re-appointment or re-election.
+(8)  A trustee shall be appointed or elected, as the case may be, for a term of 3 years.  After completion of the term of 3 years, a trustee shall be eligible for re-appointment or re-election.
 
 (9)  A person is disqualified from the office of trustee if–
 
