@@ -8,7 +8,7 @@ Assent 9.2.2005
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2009-39 ss. 3(1)(ca), (2), 21 29.10.2009 2011-15 s. 3(1)(b) 14.7.2011
+Act. 2009-39 ss. 3(1)(ca), (2), 21 29.10.2009 2011-15 s. 3(1)(b) 14.7.2011 2023-10 ss. 2, 6(3)(i), (ia)-(ib) 16.2.2023
 
 ARRANGEMENT OF SECTIONS
 
