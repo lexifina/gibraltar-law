@@ -40,16 +40,6 @@ Health Centre No. Registration No.
 
 Zone
 
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
-
-1973-14
-
-Subsidiary 1973/052 Category
+Category
 
 Renewal
-
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
-
-1973-14
-
-Subsidiary 1973/052

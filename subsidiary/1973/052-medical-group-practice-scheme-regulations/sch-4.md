@@ -4,9 +4,25 @@ FORM OF MEDICAL CARD.
 
 Regulation 7.
 
-GIBRALTAR HEALTH AUTHORITY MEDICAL GROUP PRACTICE SCHEME. Surname Name InsuranceNo. Address Date of Birth Particulars of children and dependants of insured  person within the same household. Name Surname Age .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... Note : Please notify any change of address or family composition.
+GIBRALTAR HEALTH AUTHORITY MEDICAL GROUP PRACTICE SCHEME. Surname
 
-DISTRICT MEDICAL SERVICE. Surname I/C No. Other names Address
+Name
+
+InsuranceNo.
+
+Address
+
+Date of Birth
+
+Particulars of children and dependants of insured  person within the same household. Name Surname Age
+
+.............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... Note : Please notify any change of address or family composition.
+
+DISTRICT MEDICAL SERVICE.
+
+Surname I/C No. Other names
+
+Address
 
 It is certified that the above-mentioned patient and his/her family mentioned overleaf is/are eligible for free medical attention under the District Medical Service.
 
@@ -16,11 +32,7 @@ Date..................
 
 for Director of Labour and Social Security.
 
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
-
-1973-14
-
-Subsidiary 1973/052 Determination made under reg. 6A.
+Determination made under reg. 6A.
 
 DETERMINATION.
 
@@ -31,12 +43,6 @@ Pursuant to regulation 6A of the Medical (Group Practice Scheme) Regulations, th
 (a)  in the case of a married person, the aggregate of the annual amount payable by way of old age pension under the Social Security (Insurance) Act at the full rate for a married couple; and
 
 (b)  in the case of a single person, the annual amount payable by way of old age pension under that Act at the full rate for a single person.
-
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
-
-1973-14
-
-Subsidiary 1973/052
 
  REFERENCE TABLE
 

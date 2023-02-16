@@ -14,8 +14,6 @@ PART III.
 
 1. Dependants of registered persons ordinarily resident in Gibraltar or such other dependants as the Minister for Health may, in his discretion, accept.
 
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
+PART IV.
 
-1973-14
-
-Subsidiary 1973/052
+1. Persons enrolled at the University of Gibraltar on a full-time academic course who have been charged and paid the student health surcharge to the University of Gibraltar.

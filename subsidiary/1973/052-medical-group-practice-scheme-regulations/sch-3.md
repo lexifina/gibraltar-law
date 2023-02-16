@@ -22,14 +22,8 @@ Benefits and Scheme) Act 1997.
 
 £5.
 
-2. in respect of any person to which paragraph 1 above
+2.in respect of any person to which paragraph 1 above
 
 does not apply
 
 £15
-
-Medical (Group Practice Scheme) MEDICAL (GROUP PRACTICE SCHEME) REGULATIONS
-
-1973-14
-
-Subsidiary 1973/052
