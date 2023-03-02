@@ -22,7 +22,7 @@ The following are supervisory bodies–
 
 (ga) HM Customs (in relation to businesses engaging in relevant financial business in accordance with section 9(1)(j) (art storage freeport operators) of this Act)
 
-(h) the Registrar of the Supreme Court.
+(h) the Legal Services Regulatory Authority.
 
 PART II
 
