@@ -6,7 +6,9 @@ LN.2023/015
 
 Commencement 2.2.2023
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2023/051 r. 18(5) 2.3.2023
 
 ARRANGEMENT OF REGULATIONS
 
