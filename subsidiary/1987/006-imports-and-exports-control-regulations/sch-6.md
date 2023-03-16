@@ -17,3 +17,5 @@ Regulation 6B. PROHIBITED EXPORTS.
 (i) ordinarily used in Gibraltar as part of the human diet or to feed other animals; or
 
 (ii) to be used for scientific purposes provided that the approval of the Minister with responsibility for Environment in consultation with the authority established under section 4 of the Endangered Species Act 1990 has been obtained.
+
+4. The raw, dried, or otherwise processed detached fin, or the raw, dried or otherwise processed detached tail of any shark, being any species of the following orders: saw shark ( Pristiophoriformes), angel sharks (Squatiniformes), dogfish sharks (Squaliformes), cow and frilled sharks (Hexanchiformes), mackerel sharks (Lamniformes), ground sharks (Carchariniformes), carpet shark (Orectolobiformes), and bullhead shark (Heterodontiformes), except for tope shark (Galeorhinus galeus) or any part thereof.
