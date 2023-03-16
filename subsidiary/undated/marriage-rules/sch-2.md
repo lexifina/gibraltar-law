@@ -24,4 +24,4 @@ PURPOSE FEE (£) REMARKS 1. Entry of Notice of Marriage 54.00 Section 7 2. Issue
 
 11. Mayors Parlour – venue fee 324.00
 
-12. Larios Gallery – venue fee 200.00
+12. Mario Finlayson Gallery – venue fee 200.00
