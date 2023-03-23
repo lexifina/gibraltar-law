@@ -13,7 +13,3 @@ Section 63A
 (b) Iceland; and
 
 (c) Norway.
-
-Immigration, Asylum and Refugee
-
-1962-12
