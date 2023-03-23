@@ -12,15 +12,13 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 18.12.2013 Act. 2014-03 s. 547 27.2.2014 LN. 2014/217 s. 385(1A), (2) 1.12.2014 Act. 2014-33 s. 555(1)(b) 1.1.2015 LN. 2015/140 ss. 361(1), 366(1)-(4), 366A, 367(1)(b), 370(1A), 370(3A), 384(3A)-(3B), 385
 
-4.9.2015 Act. 2017-05 ss. 97B-97E, 227(1)(a), 227A, Sch. 3 18.5.20173 LN. 2017/118 Sch. 4 26.6.2017 Act. 2016-18 ss. 194(2)(c), 212(1), 305(1), 475(1)(b), Schs. 3-4 23.4.2018 2017-10 s. 19(5)(c)(i) 13.6.2018 LN. 2018/148 Sch. 10 28.6.2018 Act. 2018-24 ss. 293A, 294(3), Sch. 3 30.11.20184 2018-23 s. 594 10.12.2018 2019-05 s. 22(2)(a), (c) 21.3.2019 2021-09 ss. 290(3)-(4), 291(3)-(4) 9.2.2021
+4.9.2015 Act. 2017-05 ss. 97B-97E, 227(1)(a), 227A, Sch. 3 18.5.20173 LN. 2017/118 Sch. 4 26.6.2017 Act. 2016-18 ss. 194(2)(c), 212(1), 305(1), 475(1)(b), Schs. 3-4 23.4.2018 2017-10 s. 19(5)(c)(i) 13.6.2018 LN. 2018/148 Sch. 10 28.6.2018 Act. 2018-24 ss. 293A, 294(3), Sch. 3 30.11.20184 2018-23 s. 594 10.12.2018 2019-05 s. 22(2)(a), (c) 21.3.2019 2021-09 ss. 290(3)-(4), 291(3)-(4) 9.2.2021 2019-19 ss. 163A-163E 15.7.20215
 
-1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136 3 Commencement notice see LN. 2017/097 4 Commencement notice see LN. 2018/271
+1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136 3 Commencement notice see LN. 2017/097 4 Commencement notice see LN. 2018/271 5 Commencement notice see LN. 2021/328
 
-2019-19 ss. 163A-163E 15.7.20215 2022-11 ss. 315G-315M 27.10.2022 2023-03 s. 174 26.1.2023
+2022-11 ss. 315G-315M 27.10.2022 2023-03 s. 174 26.1.2023 2023-14 ss. 34(A1), 35(1), 298 23.3.2023
 
 Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU Directive 2013/40/EU
-
-5 Commencement notice see LN. 2021/328
 
 ARRANGEMENT OF SECTIONS
 
