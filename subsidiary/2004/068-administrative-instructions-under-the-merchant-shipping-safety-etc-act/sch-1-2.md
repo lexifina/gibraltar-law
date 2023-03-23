@@ -6,7 +6,7 @@ DEVELOPMENT OF A DATABASE FOR CERTIFICATE REGISTRATION
 
 2. The following items of information should be recorded and available either on paper or electronically in accordance with regulation I/9, as a minimum:
 
-Status of certificate :
+Status of certificate:
 
 Valid Suspended Cancelled Reported lost Destroyed
 
@@ -18,11 +18,9 @@ Seafarer’s name Date of birth Nationality Sex Preferably a photograph Relevant
 
 Competency details:
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
+STCW competency standard (e.g. regulation II/1) Capacity Function Level of responsibility Endorsements
 
-1995-13
-
-Subsidiary 2004/068 STCW competency standard (e.g. regulation II/1) Capacity Function Level of responsibility Endorsements Limitations
+Limitations
 
 Medical details:
 
@@ -38,13 +36,7 @@ A seafarer may be issued with a Gibraltar Discharge Book if s/he has not been is
 
 1. be between 18 and 55 years of age; 2. be medically fit; 3. be the holder of a Basic Training Certificate; 4. produce evidence of being or to be employed on a Gibraltar registered ship; 5. have the relevant qualification/ certificate, if required, for the intended capacity; 6. produce as proof of nationality and date of birth, a copy of a passport provided a responsible person to the satisfaction of the Maritime Administrator, such as the master of the vessel, has certified it as a true copy.
 
-Applications in the form prescribed at the Annex to this Administrative Instruction and the prescribed fees should be sent to the Maritime Administrator. Three copies of passport size photographs with full frontal/ facial view (with no hats/ caps or dark glasses) should be sent with the
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 application. All copies of the photographs shall be identical and should bear sufficient resemblance with the picture appearing in the passport.
+Applications in the form prescribed at the Annex to this Administrative Instruction and the prescribed fees should be sent to the Maritime Administrator. Three copies of passport size photographs with full frontal/ facial view (with no hats/ caps or dark glasses) should be sent with the application. All copies of the photographs shall be identical and should bear sufficient resemblance with the picture appearing in the passport.
 
 Masters of ships and the Company under whose management the ships operate may take note of the fact that the period of sea-service (with no remark on quality of service or conduct) performed by the seafarer, whether on a Gibraltar registered ship or not, may be duly recorded in the Discharge Book. Such entries should contain the Name of the ship, Port of Registry, IMO Number, GT, Power in kW, Capacity, Date and Place of engagement and the Date and Place of discharge.
 
@@ -60,15 +52,9 @@ Annex – A Form No 21
 
 APPLICATION FOR DISCHARGE BOOK
 
-Name of Applicant:.……………………………………….. Sex…..………..
+Name of Applicant:.………………………………………..   Sex…..………..
 
 Date of birth……………………..    Place of birth………………………
-
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068
 
 Height (in cm.).………………………   Nationality………………………..
 
@@ -92,11 +78,7 @@ Signature of the Applicant                                                      
 
 Applications duly filled in along with supporting documents and the prescribed fees and photographs (as required by Administrative Instruction 13) should be sent to the Maritime Administrator, Registry of Ships, Watergate House, 2/8 Casemates Square, Gibraltar.
 
-Gibraltar Merchant Shipping (Safety, etc.) ADMINISTRATIVE INSTRUCTIONS UNDER THE MERCHANT SHIPPING (SAFETY ETC.) ORDINANCE 1993
-
-1995-13
-
-Subsidiary 2004/068 ADMINISTRATIVE INSTRUCTION No. STCW-14
+ADMINISTRATIVE INSTRUCTION No. STCW-14
 
 QUALIFICATION / CERTIFICATION REQUIRED FOR OPERATION OF A DOMESTIC VESSESL
 
