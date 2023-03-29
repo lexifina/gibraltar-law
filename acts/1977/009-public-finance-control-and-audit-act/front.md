@@ -16,7 +16,7 @@ LN. 1978/117 Sch. 1
 
 Act. 1982-05 ss. 2, 6, 9-11, 12(1), 16(2), 18(2), 32(1), 42(1), 47(3), 55(2), 56(1), 57-58, 60-64, 65(1), 75(2), Sch. 1
 
-LN. 1987/176 s. 12(e)(vii) 1.1.1988 1988/054 s. 12(e)(viii) 21.4.1988 Act. 1988-23 s. 12(e)(viii) 1.12.1988 LN. 1988/131 s. 12(e) 1.12.1988 Act. 1989-06 ss. 6(2), 23(1)(a)-(b), (2) 2.3.1989 LN. 1989/047 Sch. 1 1.4.1989 Act. 1991-04 ss. 18, 20, 59 1.4.1990 LN. 1991/118 s. 12(e)(x) 1.4.1991 Act. 1999-38 s. 6(2)(b)-(c) 1.9.1991 LN. 1992/030 s. 12(e)(x) 1.1.1992 1992/062 s. 12(e)(xi) 1.4.1992 1993/163 s. 12(e)(xi) 1.4.1993 1993/169 s. 12(e)(xii) 1.4.1993 1993/171 s. 12(e)(xiii) 1.1.1994 1995/157 s. 75 1.1.1996 1997/045 s. 12(e), Sch. 24.4.1997 2005/164* s. 12(e), Sch. 1 8.12.2005 Act. 2007-17 ss. 3, 4(1), 5(1)-(2), 7(1), 8(2)-(3), 9(2), 10(1)- (2), 12, 13(1)-(2), 16(2), 17(1)-(2), 21(1)-(2), 22(1), 28(1)-(2), 29, 30(1), 32(1), 33(2), 35, 37(1), 38, 41, 42(1), (3)-(4), 44(2)-(3), 45(1), 47(3)(d), 49, 50(1), 58, 65(1), 66-67, 68(1)-(2), 69, 71, 74(1), 75(3),
+LN. 1987/176 s. 12(e)(vii) 1.1.1988 1988/054 s. 12(e)(viii) 21.4.1988 Act. 1988-23 s. 12(e)(viii) 1.12.1988 LN. 1988/131 s. 12(e) 1.12.1988 Act. 1989-06 ss. 6(2), 23(1)(a)-(b), (2) 2.3.1989 LN. 1989/047 Sch. 1 1.4.1989 Act. 1991-05 ss. 18, 20, 59 1.4.1990 LN. 1991/118 s. 12(e)(x) 1.4.1991 Act. 1999-38 s. 6(2)(b)-(c) 1.9.1991 LN. 1992/030 s. 12(e)(x) 1.1.1992 1992/062 s. 12(e)(xi) 1.4.1992 1993/163 s. 12(e)(xi) 1.4.1993 1993/169 s. 12(e)(xii) 1.4.1993 1993/171 s. 12(e)(xiii) 1.1.1994 1995/157 s. 75 1.1.1996 1997/045 s. 12(e), Sch. 24.4.1997 2005/164* s. 12(e), Sch. 1 8.12.2005 Act. 2007-17 ss. 3, 4(1), 5(1)-(2), 7(1), 8(2)-(3), 9(2), 10(1)- (2), 12, 13(1)-(2), 16(2), 17(1)-(2), 21(1)-(2), 22(1), 28(1)-(2), 29, 30(1), 32(1), 33(2), 35, 37(1), 38, 41, 42(1), (3)-(4), 44(2)-(3), 45(1), 47(3)(d), 49, 50(1), 58, 65(1), 66-67, 68(1)-(2), 69, 71, 74(1), 75(3),
 
 14.6.2007 Act. 2008-17 ss. 2, 7(1), 28(1), (3), 33(2), 41, 44(2) 13.11.2008
 
@@ -24,7 +24,7 @@ LN. 1987/176 s. 12(e)(vii) 1.1.1988 1988/054 s. 12(e)(viii) 21.4.1988 Act. 1988-
 
 2011-021 ss. 17A-17D 1.4.2009 2009-51 ss. 76-82 1.12.2009 2011-02 ss. 18(3)-(4), 19(1), 20(d), 23(1)-(2), 52(1), 62- 64, 70(1)-(2), 74(1), Sch. 3
 
-10.2.2011 LN. 2011/062 Sch. 3 12.5.2011 2017/017 Sch. 1 2.2.2017 2017/248 Sch. 1 14.12.2017 2019/121 Sch. 1 13.6.2019 2020/161 Sch. 1 23.4.2020 2020/453 s. 75(1), (3), (j)-(k) 1.1.2021 2022/214 Sch. 1 1.7.2022
+10.2.2011 LN. 2011/062 Sch. 3 12.5.2011 2017/017 Sch. 1 2.2.2017 2017/248 Sch. 1 14.12.2017 2019/121 Sch. 1 13.6.2019 2020/161 Sch. 1 23.4.2020 2020/453 s. 75(1), (3), (j)-(k) 1.1.2021 2022/214 Sch. 1 1.7.2022 2023/070 Sch. 1 29.3.2023
 
 Transposing: Directive 2006/111/EC
 
@@ -52,7 +52,7 @@ PART III.–SPECIAL FUNDS.
 
 PART IV.–THE IMPROVEMENT AND DEVELOPMENT FUND.
 
-24. Interpretation. 25. The Fund not part of the Consolidated Fund. 26. Revenue of the Fund. 27. Use of the Fund. 28. Annual estimates of the Fund. . 29. Supplementary estimates. 30. authorization of expenditure in advance of appropriation. 31. Conditions attached to grants or loans. 32. Development warrant. 33. Re-allocation. 34. Accounts and audit. 35. Investment of moneys accounted for in the improvement and Development Fund.
+24. Interpretation. 25. The Fund not part of the Consolidated Fund. 26. Revenue of the Fund. 27. Use of the Fund. 28. Annual estimates of the Fund. 29. Supplementary estimates. 30. authorization of expenditure in advance of appropriation. 31. Conditions attached to grants or loans. 32. Development warrant. 33. Re-allocation. 34. Accounts and audit. 35. Investment of moneys accounted for in the improvement and Development Fund.
 
 PART V.–DEPOSITS.
 
