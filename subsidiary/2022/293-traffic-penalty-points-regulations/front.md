@@ -8,7 +8,7 @@ Commencement 01.01.2023
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2023/018 Sch. 9.2.2023
+LN. 2023/018 Sch. 9.2.2023 2023/079 Sch. 30.3.2023
 
 ARRANGEMENT OF REGULATIONS
 
