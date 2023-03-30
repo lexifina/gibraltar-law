@@ -64,106 +64,12 @@ Unless specified otherwise by the relevant European Union legislation, the inter
 
 Table I
 
-Minimum equipment required for the purpose of performing a roadworthiness examinations Vehicles Category Equipment required for each item listed in section I
+Minimum equipment required for the purpose of performing a roadworthiness examinations Vehicles Category Equipment required for each item listed in section I Maximum mass 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 1. Motorcycles 1 L1e P x x x x x x L3e,L4e P x x x x x x L3e,L4e D x x x x x x L2e P x x x x x x x L2e D x x x x x x x L5e P x x x x x x x L5e D x x x x x x x L6e P x x x x x x x L6e D x x x x x x x L7e P x x x x x x x L7e D x x x x x x x 2.Vehicles for the carriage of persons
 
-Maximum mass
+Up to 3 500 kg M1,M2 P x x x x x x x x x Up to 3 500 kg M1,M2 D x x x x x x x x > 3 500 kg M2,M3 P x x x x x x x x x x x x x > 3 500 kg M2,M3 D x x x x x x x x x x x x 3.Vehicles for the carriage of goods
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 1. Motorcycles
+Up to 3 500 kg N1 P x x x x x x x x x Up to 3 500 kg N1 D x x x x x x x x > 3 500 kg N2,N3 P x x x x x x x x x x x x x > 3 500 kg N2,N3 D x x x x x x x x x x x x 4.Special vehicles derived from a category N vehicle, T5
 
-1
-
-L1e P x               x x
-
-x x x
-
-L3e,L4e P x               x x
-
-x x x
-
-L3e,L4e D x               x x x x x
-
-L2e P x x             x x
-
-x x x
-
-L2e D x x             x x x x x
-
-L5e P x x             x x
-
-x x x
-
-L5e D x x             x x x x x
-
-L6e P x x             x x
-
-x x x
-
-L6e D x x             x x x x x
-
-L7e P x x             x x
-
-x x x
-
-L7e D x x             x x x x x
-
-2.Vehicles for the carriage of persons
-
-Up to 3 500  kg M1,M2 P x x   x         x x
-
-x x x x
-
-Up to 3 500  kg M1,M2 D x x   x         x x x x x
-
-> 3 500  kg M2,M3 P x x x   x x x x x x
-
-x x x x
-
-> 3 500  kg M2,M3 D x x x   x x x x x x x x x
-
-3.Vehicles for the carriage of goods
-
-Up to 3 500  kg N1 P x x   x         x x
-
-x x x x
-
-Up to 3 500  kg N1 D x x   x         x x x x x
-
-> 3 500  kg N2,N3 P x x x   x x x x x x
-
-x x x x
-
-> 3 500  kg N2,N3 D x x x   x x x x x x x x x
-
-4.Special vehicles derived from a category N vehicle, T5
-
-Up to 3 500  kg N1 P x x   x         x x
-
-x x x x
-
-Up to 3 500  kg N1 D x x   x         x x x x x
-
-> 3 500  kg N2,N3,T5 P x x x   x x x x x x
-
-x x x x
-
-> 3 500  kg N2,N3,T5 D x x x   x x x x x x x x x
-
-5. Trailers Up to 750 kg O1
-
-x
-
-x
-
-> 750 to 3 500  kg O2
-
-x x   x
-
-x
-
-> 3 500  kg O3,O4
-
-x x x     x x x
-
-x
+Up to 3 500 kg N1 P x x x x x x x x x Up to 3 500 kg N1 D x x x x x x x x > 3 500 kg N2,N3,T5 P x x x x x x x x x x x x x > 3 500 kg N2,N3,T5 D x x x x x x x x x x x x 5. Trailers Up to 750 kg O1 x x > 750 to 3 500 kg O2 x x x x > 3 500 kg O3,O4 x x x x x x x
 
 1 = P…petrol (positive ignition); D…diesel (compression ignition)

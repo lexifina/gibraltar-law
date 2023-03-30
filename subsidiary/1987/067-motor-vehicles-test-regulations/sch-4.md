@@ -60,9 +60,7 @@ SIGNATURE . . . . . . . . . . . . . . . . Examiner
 
 I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . hereby apply for a re-examination of the above vehicle
 
-DATE . . . . . . . . . . . . . . . . SIGNATURE . . . . . . . . . . . . . . .
-
-The above vehicle was at the date of re-examination found NOT to comply with the statutory requirements
+DATE . . . . . . . . . . . . . . . . SIGNATURE . . . . . . . . . . . . . . . The above vehicle was at the date of re-examination found NOT to comply with the statutory requirements
 
 SIGNATURE . . . . . . . . . . . . . . . . Examiner
 

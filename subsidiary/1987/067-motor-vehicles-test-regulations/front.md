@@ -6,9 +6,7 @@ LN.1987/067
 
 Commencement 1.4.1987
 
-Amending enactments Relevant current Provisions Commencement date
-
-LN. 1988/026 r. 37 18.2.1988 1990/010 Sch.5 18.1.1990 1996/046 rr. 7, 37 28.3.1996 1997/077 rr. 2, 7, 10(c), 16(1)-(2), 17, 18(2), 19(1), 20(1), 21(4), 22(1)-(2), 23(1)(a),  24(a)-(c), 30(1), 35-38, 40, 44(a), 46(b), Schs.4-5
+Amending enactments Relevant current Provisions Commencement date LN. 1988/026 r. 37 18.2.1988 1990/010 Sch.5 18.1.1990 1996/046 rr. 7, 37 28.3.1996 1997/077 rr. 2, 7, 10(c), 16(1)-(2), 17, 18(2), 19(1), 20(1), 21(4), 22(1)-(2), 23(1)(a),  24(a)-(c), 30(1), 35-38, 40, 44(a), 46(b), Schs.4-5
 
 24.7.1997 1997/140 rr. 3(c), 6(c) 17.11.1997 1998/021 rr. 6(a)-(b), 7, 13(1A), Schs.2-Sch.3 5.3.1998 2001/048 r. 37(1), (1A)-(1B) 17.5.2001 2005/122 r. 37(1), (1A)-(1B), (3)-(4) 1.5.2004 2005/051 Sch.5 1.4.2005 2005/122 rr. 2, 3(a), (c), 4(1)-(2), (d), 6(d), 7, 9(2)(c), 12(1)(c)-(d), 13(1)(b), (1A), 15, 16(2), 23(1)(b), 24, 25(1)-(2), 26, 37(2), 40, 42, 44-45, 46(b)(ii) Schs. 1, 3
 
@@ -16,7 +14,7 @@ LN. 1988/026 r. 37 18.2.1988 1990/010 Sch.5 18.1.1990 1996/046 rr. 7, 37 28.3.19
 
 20.3.2014 2016/079 Sch. 5 1.5.2016 2017/098 rr. 2-3, 4(2), 7A, 13(2)-(5), 13B-13C, 28(2)-(5), 36, 37(5)-(9), 45(c)-(e), 47, Schs. 3, 7 & 8
 
-20.5.2018
+20.5.2018 2023/077 r. 44(2)-(3) 30.3.2023
 
 EU Legislation/International Agreements involved: Directive 2009/40/EC Directive 2014/45/EU
 
@@ -638,9 +636,9 @@ Using a vehicle in breach of regulations.
 
 (c) after being served with a notice under regulation 28, and not having remedied the defect.
 
-(2) Subject to sub-regulation (3) a person who is guilty of an offence under sub-regulation (1) is liable on summary conviction to a fine up to level 1 on the standard scale.
+(2) Subject to sub-regulation (3) a person who is guilty of an offence under sub-regulation (1) is liable on summary conviction to a fine up to level 3 on the standard scale.
 
-(3) A person who is guilty of an offence under sub-regulation (1) in respect of a vehicle manufactured before 1 January 1960 is liable on summary conviction to a fine up to level 4 on the standard scale.
+(3) A person who is guilty of an offence under sub-regulation (1) in respect of a vehicle manufactured before 1 January 1960 is liable on summary conviction to a fine up to level 5 on the standard scale.
 
 Other offences.
 
@@ -698,59 +696,17 @@ PRESCRIBED REQUIREMENTS.
 
 1.The requirements contained in the following provisions of the Control of Traffic Regulations–
 
-Item Regulation Affecting Applicable to 1 11 Safe condition of the vehicle and its accessories, in particular– Motor Vehicles Trailers
-
-(a) spare wheel carrier Yes No (b) Trailer coupling on vehicle Yes No
-
-(c) Coupling on trailer No Yes
-
-(d) the chassis Yes Yes
-
-(e) electrical wiring and equipment Yes Yes
-
-(f) landing legs
-
-Yes
-
-(g) engine mountings Yes Yes
-
-(h) fuel tanks and systems Yes Yes
+Item Regulation Affecting Applicable to 1 11 Safe condition of the vehicle and its accessories, in particular– Motor Vehicles Trailers (a) spare wheel carrier Yes No (b) Trailer coupling on vehicle Yes No (c) Coupling on trailer No Yes (d) the chassis Yes Yes (e) electrical wiring and equipment Yes Yes (f) landing legs Yes (g) engine mountings Yes Yes (h) fuel tanks and systems Yes Yes
 
 (i) transmission shafts and associated equipment
 
 Yes
 
-No
-
-(j) battery and support Yes Yes
-
-(k) wheels and hubs Yes Yes
-
-(l) suspension systems Yes Yes
-
-(m) axles and steering gears Yes Yes
-
-(n) shock absorbers Yes Yes
-
-(o) bumpers Yes Yes
-
-(p) the cab Yes No
-
-(q) the driving seat Yes No
-
-(r) the body
-
-Yes Yes
-
-(s) driver’s control Yes No
-
-(t) cab step or step ring Yes No 2 14 Direction indicators and stop lights Yes Yes 3 20 Front lamps Yes No
+No (j) battery and support Yes Yes (k) wheels and hubs Yes Yes (l) suspension systems Yes Yes (m) axles and steering gears Yes Yes (n) shock absorbers Yes Yes (o) bumpers Yes Yes (p) the cab Yes No (q) the driving seat Yes No (r) the body Yes Yes (s) driver’s control Yes No (t) cab step or step ring Yes No 2 14 Direction indicators and stop lights Yes Yes 3 20 Front lamps Yes No
 
 2.The requirements contained in the following provisions of the Public Service Vehicles Regulations–
 
-Item Regulation Affecting Applicable to
-
-Taxis Omni-buses 4 4 Seating capacity notice Yes Yes 5 25 Notice of fares Yes Yes 6 28 Taxi sign Yes No
+Item Regulation Affecting Applicable to Taxis Omni-buses 4 4 Seating capacity notice Yes Yes 5 25 Notice of fares Yes Yes 6 28 Taxi sign Yes No
 
 3.The requirements contained in the following provisions of the Traffic (Licensing and Registration) Regulations–
 
@@ -850,9 +806,7 @@ For each vehicle system and component subject to examination, the assessment of 
 
 Defects not listed in this Schedule shall be assessed in terms of the risks that they pose to road safety.
 
-Item Method Reasons for failure Assessment of defects
-
-Minor Major Dangerous 0. IDENTIFICATION OF THE VEHICLE 0.1. Registration number plates (if needed by requirements1)
+Item Method Reasons for failure Assessment of defects Minor Major Dangerous 0. IDENTIFICATION OF THE VEHICLE 0.1. Registration number plates (if needed by requirements1)
 
 Visual inspection (a) Number plate(s) missing or so insecurely fixed that it is (they are) likely to fall off.
 

@@ -10,21 +10,13 @@ FEES
 
 55.00 (f) a goods vehicle the unladen weight of which does not exceeds 1,525 kilograms
 
-20.00
-
-2. On application for the examination of a trailer 25.00
-
-3. On application for the re-examination of a motor vehicle or trailer, where the application for re-examination is made more than 14 days of the last examination The fee payable under item 1 or 2 for a vehicle of the same category 4. On application for the re-examination of a motor vehicle or trailer, where the application for re-examination is made within 14 days of the last examination
-
-50% of the fee payable under item 3 5. On application for re-examination when–
+20.00 2. On application for the examination of a trailer 25.00 3. On application for the re-examination of a motor vehicle or trailer, where the application for re-examination is made more than 14 days of the last examination The fee payable under item 1 or 2 for a vehicle of the same category 4. On application for the re-examination of a motor vehicle or trailer, where the application for re-examination is made within 14 days of the last examination 50% of the fee payable under item 3 5. On application for re-examination when–
 
 (i) the vehicle is submitted for re-examination on the day of the examination; or
 
 (ii) the re-examination was caused by failure to comply with the Lighting Requirements, the Direction Indicator Requirements, the Windscreen Cleaning Requirements or the Audible Warning Requirements
 
-Nil 6. For re-examination of a vehicle under regulation 23
-
-25.00 7. On lodging an appeal under regulation 30 The fee that would be payable under item 1 for examina-tion of the vehicle plus 25% 8. For the issue of a duplicate roadworthiness certificate or roadworthiness classic certificate £20.00
+Nil 6. For re-examination of a vehicle under regulation 23 25.00 7. On lodging an appeal under regulation 30 The fee that would be payable under item 1 for examina-tion of the vehicle plus 25% 8. For the issue of a duplicate roadworthiness certificate or roadworthiness classic certificate £20.00
 
 Annual indexation of fees.
 
