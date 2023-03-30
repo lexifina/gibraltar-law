@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/090 S
 
 2023/011 rr. 2, 3(3), 3A, 4, 5(2), 6(3), 7, 9(2), 10, 15(3), 19A, 37(1A), (2)-(3), 38, 39(3)-(4), 42, 45(2), 46(b), 47, 47B-47D, 49-52, 53A(1)
 
-26.1.2023
+26.1.2023 2023/078 rr. 2, 42A-42C 30.3.2023
 
 ARRANGEMENT OF REGULATIONS
 
@@ -32,6 +32,10 @@ Bicycles and personal light electric transporters.
 
 37. Number of persons on a bicycle or a personal light electric transporter. 38. Control of bicycle or personal light electric transporter. 39. Bell and other warning equipment. 40. Horns, etc., prohibited. 41. Riding abreast. 42. Offences.
 
+Cycle lanes
+
+42A. Cycle lanes. 42B. Motor Vehicles in Cycle lanes. 42C. Contraflow cycle lanes.
+
 Speed Limits.
 
 43. General speed limits. 44. Special speed limits.
@@ -42,7 +46,9 @@ One-way Streets
 
 Pedestrian Crossings
 
-48. Indication of crossings. 49. Precedence of foot passengers. 50. Prohibition of stopping within limits of a crossing. 51. When stopping not allowed. 52. When stopping permissible. 53. Prohibition of foot-passengers remaining on crossing longer than necessary.
+48. Indication of crossings. 49. Precedence of foot passengers.
+
+50. Prohibition of stopping within limits of a crossing. 51. When stopping not allowed. 52. When stopping permissible. 53. Prohibition of foot-passengers remaining on crossing longer than necessary.
 
 No Stopping within a Clearway
 
