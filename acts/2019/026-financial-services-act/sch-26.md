@@ -152,7 +152,7 @@ Administrative penalties.
 
 (2)  A penalty under sub-paragraph (1)(b) or (c) may be imposed as an equivalent amount expressed in Sterling, based on the exchange rate as at 2 July 2014.
 
-(3)  Where a legal person is a parent undertaking or a subsidiary of a parent undertaking which has to prepare consolidated financial accounts under the Accounting Directive, the relevant total turnover for the purpose of sub-paragraph (1)(b)(i) or (ii) is the total annual turnover, or the corresponding type of income in accordance with the relevant accounting directives (the Bank Accounts Directive or the Insurance Accounts Directive), according to the last available consolidated annual accounts approved by the management body of the ultimate parent undertaking.
+(3)  Where a legal person is a parent undertaking or a subsidiary of a parent undertaking which has to prepare consolidated financial accounts in accordance with Part 7 of the Companies Act 2014, the relevant total turnover for the purpose of sub-paragraph (1)(b)(i) or (ii) is the total annual turnover, or the corresponding type of income in accordance with the Financial Services (Credit Institutions) (Accounts) Regulations 2021 or the Financial Services (Insurance Companies) (Accounts) Regulations 2021, according to the last available consolidated annual accounts approved by the management body of the ultimate parent undertaking.
 
 Exercise of powers.
 

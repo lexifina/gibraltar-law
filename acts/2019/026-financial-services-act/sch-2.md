@@ -114,9 +114,9 @@ The regulated activities
 
 Exclusions
 
-72. Exclusions from paragraph 71. 73. Instructions on behalf of participating issuers. 74. Instructions on behalf of settlement banks.
+72. Exclusions from paragraph 71.
 
-75. Instructions in connection with takeover offers. 76. Instructions in the course of providing a network.
+73. Instructions on behalf of participating issuers. 74. Instructions on behalf of settlement banks. 75. Instructions in connection with takeover offers. 76. Instructions in the course of providing a network.
 
 PART 7 STRUCTURED DEPOSITS
 
@@ -208,9 +208,9 @@ The regulated activities
 
 Exclusions
 
-121. Omitted. 122. Mortgage creditors. 123. Mere introducers.
+121. Omitted.
 
-124. Recommendations relating to existing debt.
+122. Mortgage creditors. 123. Mere introducers. 124. Recommendations relating to existing debt.
 
 PART 13 COMPANIES, FOUNDATIONS, PARTNERSHIPS AND UNINCORPORATED ASSOCIATIONS
 
@@ -678,13 +678,15 @@ In point (h) “payment system” means a funds transfer system with formal and 
 
 (iii) instruments valid only in Gibraltar, provided at the request of an undertaking or public sector entity and regulated by a public authority for specific social or tax purposes, to acquire specific goods or services from suppliers having a commercial agreement with the issuer;
 
-(l) In point (l), “electronic communications network” and “electronic communications service” have the meaning given in section 2 of the Communications Act 2006.
+(l) Payment transactions by a provider of electronic communications networks or services provided in addition to electronic communications services for a subscriber to the network or service–
 
-In point (l)–
+(i) for purchase of digital content and voice-based services, regardless of the device used for the purchase or consumption of the digital content and charged to the related bill; or
 
-“electronic communications network” means a network as defined in Article 2(a) of Directive 2002/21/EC of the European Parliament and of the Council;
+(ii) performed from or via an electronic device and charged to the related bill within the framework of a charitable activity or for the purchase of tickets;
 
-“electronic communications service” means a service as defined in Article 2(c) of Directive 2002/21/EC.
+where the value of any single payment transaction does not exceed the sterling equivalent of €50 and either the cumulative value of payment transactions for an individual subscriber does not exceed the sterling equivalent of €300 per month or, where a subscriber pre-funds its account with the provider of the electronic communications network or service, the cumulative value of payment transactions does not exceed the sterling equivalent of €300 per month.
+
+In point (l), “electronic communications network” and “electronic communications service” have the meaning given in section 2 of the Communications Act 2006.
 
 (m) transactions carried out between payment service providers, or their agents or branches, for their own account.
 
@@ -710,7 +712,9 @@ Providing payment services.
 
 PART 5 CONTRACTS OF INSURANCE
 
-Chapter 1 General
+Chapter 1
+
+General
 
 Application and interpretation of Part 5 of this Schedule.
 
@@ -880,9 +884,7 @@ Assistance for persons who get into difficulties while travelling, while away fr
 
 Table: Classification of multiple classes of non-life insurance
 
-Column 1 Column 2 Column 3 Entry Classes of non-life insurance Classification (a) Classes 1 and 2 Accident and Health Insurance (b) Classes 1 (fourth indent), 3, 7 and 10 Motor Insurance (c) Classes 1 (fourth indent), 4, 6, 7 and 12 Marine and Transport Insurance (d) Classes 1 (fourth indent), 5, 7 and 11 Aviation Insurance
-
-(e) Classes 8 and 9 Insurance against Fire and other Damage to Property (f) Classes 10, 11, 12 and 13 Liability Insurance (g) Classes 14 and 15 Credit and Suretyship Insurance (h) All classes. General
+Column 1 Column 2 Column 3 Entry Classes of non-life insurance Classification (a) Classes 1 and 2 Accident and Health Insurance (b) Classes 1 (fourth indent), 3, 7 and 10 Motor Insurance (c) Classes 1 (fourth indent), 4, 6, 7 and 12 Marine and Transport Insurance (d) Classes 1 (fourth indent), 5, 7 and 11 Aviation Insurance (e) Classes 8 and 9 Insurance against Fire and other Damage to Property (f) Classes 10, 11, 12 and 13 Liability Insurance (g) Classes 14 and 15 Credit and Suretyship Insurance (h) All classes. General
 
 Classes of life insurance.
 
@@ -1116,7 +1118,9 @@ Mere provision of information to potential policyholders.
 
 PART 6 FINANCIAL INSTRUMENTS
 
-Chapter 1 General
+Chapter 1
+
+General
 
 Application of Part 6 of this Schedule.
 
@@ -1134,9 +1138,7 @@ Application of Part 6 of this Schedule.
 
 (b) specifies the kinds of activity carried on relation to such financial instruments which are to be regulated activities (sending dematerialised instructions).
 
-Chapter 2
-
-Investment services and investment activities
+Chapter 2 Investment services and investment activities
 
 Interpretation of Chapter 2 of Part 6. of this Schedule
 
@@ -1260,7 +1262,7 @@ Financial instruments to which Chapter 2 applies.
 
 (10)  Options, futures, swaps, forward rate agreements and any other derivative contracts relating to climatic variables, freight rates or inflation rates or other official economic statistics that must be settled in cash or may be settled in cash at the option of one of the parties other than by reason of default or other termination event, as well as any other derivative contracts relating to assets, rights, obligations, indices and measures not otherwise mentioned in paragraph 46 of this Schedule, which have the characteristics of other derivative financial instruments, having regard to whether, inter alia, they are traded on a regulated market, an OTF, or an MTF;
 
-(11)  Emission allowances consisting of any units recognised for compliance by an EEA State with the requirements of Directive 2003/87/EC (Emissions Trading Scheme) as it applies in the European Union.
+(11)  Emission allowances consisting of any units recognised for compliance with the requirements of the UK Emissions Trading Scheme or the EU Emissions Trading System.
 
 Terminology used in paragraph 46.
 
@@ -1940,7 +1942,7 @@ Managing an AIF (in-scope AIFM).
 
 (a) the value of assets under management is equal to, or more than, either of the limits specified in paragraph 97(1)(a) or (b); or
 
-(b) those limits are not exceeded but the person managing the AIF or AIFs has exercised the option mentioned in Article 3.4 of the AIFM Directive to meet the full requirements of the Directive.
+(b) those limits are not exceeded but the person managing the AIF or AIFs is a small AIFM to which regulation 8(4) of the Financial Services (Alternative Investment Fund Managers) Regulations 2020 applies.
 
 (2)  A person manages an AIF when the person performs at least risk management or portfolio management for the AIF.
 

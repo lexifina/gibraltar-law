@@ -50,15 +50,15 @@ Effective supervision.
 
 (d) if the firm is a member of a group, whether membership of the group is likely to prevent the GFSC’s effective supervision of the firm;
 
-(e) whether the firm is subject to consolidated supervision required under an enactment which, immediately before IP completion day, implemented in Gibraltar any of the following Directives –
+(e) whether the firm is subject to consolidated supervision under –
 
-(i) the Capital Requirements Directive;
+(i) the Financial Services (Credit Institutions and Capital Requirements) Regulations 2020;
 
-(ii) the Financial Conglomerates Directive;
+(ii) the Financial Services (Financial Conglomerates) Regulations 2020;
 
-(iii) the Solvency 2 Directive;
+(iii) the Financial Services (Insurance Companies) Regulations 2020; or
 
-(iv) the Recovery and Resolution Directive;
+(iv) the Financial Services (Recovery and Resolution) Regulations 2020;
 
 (f) if the firm has close links with another person (“CL”)–
 

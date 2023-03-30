@@ -198,7 +198,7 @@ Managing a UCITS.
 
 (b) the firm obtained the permission by making a false statement or by any other irregular means;
 
-(c) in a case where the permission includes permission to provide the discretionary portfolio management service referred to in regulation 15(1)(a) of the Financial Services (UCITS) Regulations 2020, the firm no longer complies with the Capital Requirements Regulation or the Capital Requirements Directive;
+(c) in a case where the permission includes permission to provide the discretionary portfolio management service referred to in regulation 15(1)(a) of the Financial Services (UCITS) Regulations 2020, the firm no longer complies with the provisions referred to in regulation 15(3) of those Regulations or with the Capital Requirements Regulation;
 
 (d) the firm no longer meets the conditions that a firm must meet in order to obtain a permission to carry on the regulated activity of managing a UCITS;
 
