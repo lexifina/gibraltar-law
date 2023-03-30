@@ -6,13 +6,11 @@ LN.2020/039
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date
-
-LN.2021/091 rr. 2, 4(1)(b)(vi), 8(2)(a)-(b), (4), 9(3)(b)(i), 12(1)(a)- (g), (6)
+Amending enactments Relevant current provisions Commencement date LN.2021/091 rr. 2, 4(1)(b)(vi), 8(2)(a)-(b), (4), 9(3)(b)(i), 12(1)(a)- (g), (6)
 
 1.1.2021 2022/081 rr. 3(1)(e)-(g), (1A)-(1B), 3A-3B, 8A, 17(2), 17A, 23A, Sch. 2-3
 
-30.3.2022 2022/258 r. 10(1)(b)-(d), (7)-(9) 1.9.2022
+30.3.2022 2022/258 r. 10(1)(b)-(d), (7)-(9) 1.9.2022 2023/074 r. 4(1)(b)(iv)-(iva) 30.3.2023
 
 ARRANGEMENT OF REGULATIONS.
 
