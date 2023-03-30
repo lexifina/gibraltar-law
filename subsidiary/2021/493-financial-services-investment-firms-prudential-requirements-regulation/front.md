@@ -6,7 +6,9 @@ LN.2021/493
 
 Commencement (Except s.4(2)) 1.1.2021 s.4(2) 1.7.2022
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2023/074 rr. 4(5)(b), 8(4)(a)(ii), 30, 31(1)-(2), 80(1), 87(4) 30.3.2023
 
 ARRANGEMENT OF REGULATIONS
 
@@ -52,7 +54,9 @@ Chapter 4 RtF K-factors
 
 Trading counterparty default
 
-33. Scope of counterparty default provisions. 34. Calculating K-TCD. 35. Calculation of exposure value. 36. Replacement cost (RC). 37. Potential future exposure. 38. Collateral. 39. Netting. 40. Credit valuation adjustment.
+33. Scope of counterparty default provisions. 34. Calculating K-TCD. 35. Calculation of exposure value. 36. Replacement cost (RC). 37. Potential future exposure. 38. Collateral. 39. Netting.
+
+40. Credit valuation adjustment.
 
 Daily trading flow
 
@@ -98,7 +102,9 @@ ICARA process: investment firm groups
 
 77. Analysis of group risk by individual firms. 78. Group ICARA process. 79. Combined ICARA documents.
 
-Chapter 3 Internal governance, transparency and remuneration
+Chapter 3
+
+Internal governance, transparency and remuneration
 
 80. Scope of Chapter 3. 81. Internal governance. 82. Country-by-country reporting. 83. Role of the management body in risk management. 84. Remuneration policies. 85. Variable remuneration. 86. Remuneration committee. 87. Oversight of remuneration policies.
 
@@ -130,9 +136,7 @@ PART 10 TRANSITIONAL AND FINAL PROVISIONS
 
 SCHEDULE 1 ICARA ASSESSMENT QUESTIONNAIRE
 
-SCHEDULE 2
-
-CRITERIA FOR IDENTIFYING STAFF WHOSE ACTIVITIES HAVE A MATERIAL IMPACT ON THE RISK PROFILE OF INVESTMENT FIRMS
+SCHEDULE 2 CRITERIA FOR IDENTIFYING STAFF WHOSE ACTIVITIES HAVE A MATERIAL IMPACT ON THE RISK PROFILE OF INVESTMENT FIRMS
 
 SCHEDULE 3 INSTRUMENTS THAT REFLECT THE CREDIT QUALITY OF INVESTMENT FIRMS AND ALTERNATIVE VARIABLE REMUNERATION ARRANGEMENTS
 
