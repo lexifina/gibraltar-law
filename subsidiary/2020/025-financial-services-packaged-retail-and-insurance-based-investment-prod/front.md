@@ -8,7 +8,7 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2022/067 rr. 3, 10(3), 11(10) 17.3.2022
+LN.2022/067 rr. 3, 10(3), 11(10) 17.3.2022 2023/073 rr. 8(a)-(f), 10(1)(b)-(c), (2)-(3) 30.3.2023
 
 ARRANGEMENT OF REGULATIONS.
 
