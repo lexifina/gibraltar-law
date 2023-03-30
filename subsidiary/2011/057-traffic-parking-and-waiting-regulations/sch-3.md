@@ -202,9 +202,7 @@ the cost of the first permit will be charged at the “Second permit per househo
 
 (b) 6/8 Scud Hill Residents’ parking permit; and
 
-(c) Belvedere, Electra Flats and No.24 Scud Hill Residents’ Parking Permit.
-
-Issue of “Zone 4 Residents’ Parking Permit” (fee)
+(c) Belvedere, Electra Flats and No.24 Scud Hill Residents’ Parking Permit. Issue of “Zone 4 Residents’ Parking Permit” (fee)
 
 (a) First permit per household
 
