@@ -166,9 +166,9 @@ Fee Block B2.
 
 Regulated Person Nature of application Application Fee (£) UK AIFM Notification of intention to passport into Gibraltar on an establishment basis
 
-2,000 Small AIFM (established in an EEA State outside Gibraltar) Notification to market AIFs to professional investors in Gibraltar
+2,000 Small AIFM (established in the UK) Notification to market AIFs to professional investors in Gibraltar
 
-150 Small AIFM (the UK) Application to market AIFs to professional investors in Gibraltar
+150 Small AIFM (established outside Gibraltar or the UK) Application to market AIFs to professional investors in Gibraltar
 
 500
 
