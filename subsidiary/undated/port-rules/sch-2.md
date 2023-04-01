@@ -16,7 +16,7 @@ Owners: ..................................................
 
 Port of Registry Official Number Gross Tonnage
 
-LIMITS WITHIN WHICH THE SHIP IS FIT TO PLY :
+LIMITS WITHIN WHICH THE SHIP IS FIT TO PLY:
 
 that area of water lying to the east of an imaginary straight line drawn due south (180°) from San Roque bounded on the North by an imaginary straight line drawn due west (270°) from Punta Mala and on the south by an imaginary straight line drawn due west (270°) from the northern end of Rosia Mole, but not including the waters known as the Admiralty Waters.
 
@@ -26,13 +26,9 @@ Passengers Crew Total
 
 NOTE. – One passenger to be deducted for every three square feet of passenger accommodation occupied by baggage or cargo.
 
-LIFE-SAVING APPLIANCES. apparatus capable of supporting persons.
+LIFE-SAVING APPLIANCES.
 
-Port PORT RULES
-
-1960-16
-
-Subsidiary 1960.08.11 Life-bouys
+apparatus capable of supporting persons. Life-bouys
 
 Life-jackets
 
@@ -51,9 +47,3 @@ Issued at the Port Office, Gibraltar, this........... day of ...................
 4. A similar report is to be forwarded as soon as possible after any alteration or renewal in the ship's hull equipment or machinery which affects the efficiency thereof or the seaworthiness of the ship.
 
 5.  A fee of £60.00 shall be charged for a passenger certificate issued pursuant to rule 72.
-
-Port PORT RULES
-
-1960-16
-
-Subsidiary 1960.08.11

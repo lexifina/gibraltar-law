@@ -14,13 +14,13 @@ VESSELS WHICH MAY BE EXEMPTED FROM PAYMENTS OF TONNAGE DUES.
 
 (b)-(e)  Deleted.
 
-(f) for shelter due to stress of weather ;
+(f)  for shelter due to stress of weather;
 
-(g)  to cast out a tow of any vessel found in distress and brought to Gibraltar without remuneration ;
+(g)  to cast out a tow of any vessel found in distress and brought to Gibraltar without remuneration;
 
 (h)  to land a pilot overcarried from a previous port due to stress of weather;
 
-(i) degaussing ranging.
+(i)  degaussing ranging.
 
 4. Vessels when making a second call within any twenty-four hour period, not having in the meantime called at any foreign port.
 
@@ -30,11 +30,7 @@ VESSELS WHICH MAY BE EXEMPTED FROM PAYMENTS OF TONNAGE DUES.
 
 7. Ships belonging to Her Majesty, the Government, or to a Commonwealth or foreign government other than any such ship carrying cargo or passengers for freight or fares.
 
-Port PORT RULES
-
-1960-16
-
-Subsidiary 1960.08.11 8. Yachts which are not used for any commercial purpose.
+8. Yachts which are not used for any commercial purpose.
 
 9. Any vessel which enters the Port for being used only as a floating storage and that vessel is issued with a safety certificate and a petroleum licence.
 
@@ -45,9 +41,3 @@ Subsidiary 1960.08.11 8. Yachts which are not used for any commercial purpose.
 11. Any other vessel or class of vessel specifically exempted by the Minister.*
 
 * Notice of Governor’s exemptions under Schedule 5 paragraph 11 listed at end of these Rules.
-
-Port PORT RULES
-
-1960-16
-
-Subsidiary 1960.08.11
