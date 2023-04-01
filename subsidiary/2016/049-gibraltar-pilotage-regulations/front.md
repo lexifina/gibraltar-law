@@ -8,7 +8,7 @@ Commencement 10.3.2016
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2017/086 Sch.6 & 7 1.5.2017 2018/072 Sch.6 & 7 1.4.2018 2019/074 Sch.6 & 7 1.4.2019 2020/144 Sch.6 & 7 1.4.2020 2021/210 Sch.6 & 7 1.4.2021 2022/075 Sch.6 & 7 1.4.2022
+LN. 2017/086 Sch.6 & 7 1.5.2017 2018/072 Sch.6 & 7 1.4.2018 2019/074 Sch.6 & 7 1.4.2019 2020/144 Sch.6 & 7 1.4.2020 2021/210 Sch.6 & 7 1.4.2021 2022/075 Sch.6 & 7 1.4.2022 2023/072 Sch.6 & 7 1.4.2023
 
 ARRANGEMENT OF REGULATIONS
 
