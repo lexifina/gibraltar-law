@@ -8,7 +8,7 @@ Assent 1.8.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/253 Sch.2 9.7.2020 2022/325 Sch.2 24.11.2022 2023/029 Sch.5 16.2.2023
+LN.2020/253 Sch.2 9.7.2020 2022/325 Sch.2 24.11.2022 2023/029 Sch.5 16.2.2023 2023/084 Sch.4 6.4.2023
 
 ARRANGEMENT OF SECTIONS
 
