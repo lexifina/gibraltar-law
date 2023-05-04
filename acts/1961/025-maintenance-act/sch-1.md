@@ -16,16 +16,10 @@ PAYMENTS UNDER ATTACHMENT OF EARNINGS ORDERS.
 
 (a) the protected earnings; and
 
-(b) so much of any amount by which the relevant earnings falling to be paid on any previous pay-day fell short of the protected earnings for the purposes of that pay-day or has not been made good by virtue of this sub-paragraph on any other previous pay- day,
+(b) so much of any amount by which the relevant earnings falling to be paid on any previous pay-day fell short of the protected earnings for the purposes of that pay- day or has not been made good by virtue of this sub-paragraph on any other previous pay-day,
 
 the employer shall, so far as that excess permits, pay to the officer designated for the purpose in the order –
 
-Maintenance
-
-1961-25 (i) the normal deduction; and
+(i) the normal deduction; and
 
 (ii) so much of the normal deduction for any previous pay-day as was not paid on that pay-day and has not been paid by virtue of this sub-paragraph on any other previous pay-day
-
-Maintenance
-
-1961-25
