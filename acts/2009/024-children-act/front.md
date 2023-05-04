@@ -4,19 +4,19 @@ Principal Act
 
 Act. No. 2009-24 Commencement (LN.2010/004) All except s.8
 
-14.1.2010
-
-Assent 6.7.2009
+14.1.2010 Assent 6.7.2009
 
 Amending enactments Relevant current provisions Commencement date
 
 Act. 2010-25 ss. 2, 3(1), (7), (11), 4(4)(b), 52(2), (4), 99(11), 142, 147(6), 148(1), (2)(a), (7)-(8), 157(2)(d), (f)-(j), 158(12)-(13)
 
-11.11.2010 “ ss. 93A–93P, Sch. 18.4.20131 2014-10 ss. 2, 14(1), 16(4A), 27(5)(aa), 49(6)(c), 60(2), 63(2) 28.3.2014 2016-18 ss. 73(1), 125(9) 23.4.2018 LN. 2018/112 s. 2(1) 21.5.2018 Act. 2017-11 s. 156A 20.6.2018 2021-09 ss. 25(4)(e), 29(3)(a)-(c), 32(12)(a)-(b) 9.2.2021
+11.11.2010 “ ss. 93A–93P, Sch. 18.4.20131 2014-10 ss. 2, 14(1), 16(4A), 27(5)(aa), 49(6)(c), 60(2), 63(2) 28.3.2014 2016-18 ss. 73(1), 125(9) 23.4.2018 LN. 2018/112 s. 2(1) 21.5.2018 Act. 2017-11 s. 156A 20.6.2018 2021-09 ss. 25(4)(e), 29(3)(a)-(c), 32(12)(a)-(b) 9.2.2021 LN. 2023/116 ss. 2(1), 3(1), 93A, 93F(1)(b)(ii)-(iii), (2)(a)(b)(ii)-(iii), (d)(c)(ii), (d), 93G, 93L(6), 93(M)(1)-(2)
+
+4.5.2023
 
 English sources: Children Act 1989 (1989 Chapter 41).
 
-EU Legislation/International Agreements involved: Council Regulation (EC) No. 2201/2003 Convention on jurisdiction, applicable law, recognition, enforcement and co-operation in respect of parental responsibility and measures for the protection of children, signed at the Hague on the 19th day of October, 1996.
+International Agreements involved: Convention on jurisdiction, applicable law, recognition, enforcement and co-operation in respect of parental responsibility and measures for the protection of children, signed at the Hague on the 19th day of October, 1996.
 
 1 Commencement notice see LN. 2013/067
 
@@ -82,7 +82,7 @@ Guardian ad litem
 
 PART VIIIA Protection of children: 1996 Hague Convention
 
-93A.  Interpretation for Part VIIIA. 93B.  Application of the Convention. 93C.  Exercise of jurisdiction of the Supreme Court. 93D.  Power of the Court to remove stay under Article 8. 93E.  Agency: application to Court to make request under Article 9. 93F.  Agency: application for interim care order or supervision order. 93G.   Application of Article 15. 93H.  Provision of certain court documents. 93I. Evidence in proceedings. 93J.   Letters of request. 93K.  Central Authority. 93L.  Provision of reports and information. 93M.  Agency’s requirement to provide a report. 93N.   Rules of Court. 93O.  Services under Article 35. 93P.   Regulations in relation to the Convention.
+93A.  Interpretation for Part VIIIA. 93B.  Application of the Convention. 93C.  Exercise of jurisdiction of the Supreme Court. 93D.  Power of the Court to remove stay under Article 8. 93E.  Agency: application to Court to make request under Article 9. 93F.  Agency: application for interim care order or supervision order. 93G.   Deleted. 93H.  Provision of certain court documents. 93I. Evidence in proceedings. 93J.   Letters of request. 93K.  Central Authority. 93L.  Provision of reports and information. 93M.  Agency’s requirement to provide a report. 93N.   Rules of Court. 93O.  Services under Article 35. 93P.   Regulations in relation to the Convention.
 
 PART IX Emergency Protection of children
 
