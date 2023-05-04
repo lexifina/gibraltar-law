@@ -26,9 +26,7 @@ The appeals which may be lodged pursuant to Article 44 of the Convention are the
 
 — in Hungary: ‘felülvizsgálati kérelem’,
 
-— in Malta: no further appeal lies to any other court; in the case of a maintenance judgment the ‘Qorti ta’ l-Appell’ in accordance with the procedure laid down for appeal in the ‘kodiċi ta’
-
-Organizzazzjoni u Procedura Ċivili — Kap. 12’,
+— in Malta: no further appeal lies to any other court; in the case of a maintenance judgment the ‘Qorti ta’ l-Appell’ in accordance with the procedure laid down for appeal in the ‘kodiċi ta’ Organizzazzjoni u Procedura Ċivili — Kap. 12’,
 
 — in Norway: an appeal to the ‘Høyesteretts Ankeutvalg’ or ‘Høyesterett’,
 

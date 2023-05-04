@@ -6,37 +6,11 @@ ARRANGEMENT OF PROVISIONS
 
 TITLE I. SCOPE (Article 1)
 
-TITLE II. JURISDICTION
+TITLE II. JURISDICTION Section 1. General provisions (Article 2-4). Section 2. Special jurisdiction (Articles 5-6A). Section 3. Jurisdiction in matters relating to insurance (Articles 7-12A). Section 4. Jurisdiction over consumer contracts (Articles 13-15). Section 5.
 
-Section 1.
+Exclusive jurisdiction (Article 16). Section 6. Prorogation of jurisdiction (Articles 17 and 18). Section 7. Examination as to jurisdiction and admissibility (Articles 19-20). Section 8. Lis pendens - Related actions (Articles 21-23). Section 9. Provisions, including protective measures (Article 24). TITLE III. RECOGNITION AND ENFORCEMENT
 
-General provisions (Article 2-4). Section 2.
-
-Special jurisdiction (Articles 5-6A). Section 3.
-
-Jurisdiction in matters relating to insurance (Articles 7-12A). Section 4.
-
-Jurisdiction over consumer contracts (Articles 13-15). Section 5.
-
-Exclusive jurisdiction (Article 16). Section 6.
-
-Prorogation of jurisdiction (Articles 17 and 18). Section 7.
-
-Examination as to jurisdiction and admissibility (Articles 19-20). Section 8.
-
-Lis pendens - Related actions (Articles 21-23). Section 9.
-
-Provisions, including protective measures (Article 24).
-
-TITLE III. RECOGNITION AND ENFORCEMENT
-
-Definition of “judgment” (Article 25). Section 1.
-
-Recognition (Articles 26-30). Section 2.
-
-Enforcement (Articles 31-45). Section 3.
-
-Common Provision (Articles 46-49).
+Definition of “judgment” (Article 25). Section 1. Recognition (Articles 26-30). Section 2. Enforcement (Articles 31-45). Section 3. Common Provision (Articles 46-49).
 
 TITLE IV. AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS.
 
@@ -108,25 +82,11 @@ Persons domiciled in a Contracting State may be sued in the courts of another Co
 
 In particular the following provisions shall not be applicable as against them:
 
-in Belgium: Article 15 of the civil code (Code civil - Burgerlijk Wetboek) and Article 638 of the Judicial code (Code judiciaire Gerechtelijk Wetboek);
+in Belgium: Article 15 of the civil code (Code civil - Burgerlijk Wetboek) and Article 638 of the Judicial code (Code judiciaire Gerechtelijk Wetboek); in Denmark: Article 246 (2) and (3) of the law on civil procedure (Lov om rettens pleje); in the Federal Republic of Germany: Article 23 of the code of civil procedure (Zivilprozessordnung); in France:
 
-in Denmark: Article 246 (2) and (3) of the law on civil procedure (Lov om rettens pleje);
+Articles 14 and 15 of the civil code (Code civil);
 
-in the Federal Republic of Germany:
-
-Article 23 of the code of civil procedure (Zivilprozessordnung); in France:
-
-Articles 14 and 15 of the civil code (Code civil); in Ireland: the rules which enable jurisdiction to be founded on the document instituting the proceedings having been served on the defendant during his temporary presence in Ireland;
-
-in Italy: Article 2 and Article 4, Nos 1 and 2 of the code of civil procedure (Codice di procedura civile);
-
-in Luxembourg: Articles 14 and 15 of the civil code (Code Civil);
-
-in the Netherlands: Article 126 (3) and Article 127 of the code of civil procedure (Wetboek van Burgerlijke Rechtsvordering);
-
-in Portugal: Article 65 (1) (c) and 65 (2) and 65A (c) of the Code of Civil Procedure (codigo de processo civil) and Article 11 of the code of labour procedure (codigo de proceso de trabalho);
-
-in the United Kingdom: the rules which enable jurisdiction to be founded on:
+in Ireland: the rules which enable jurisdiction to be founded on the document instituting the proceedings having been served on the defendant during his temporary presence in Ireland; in Italy: Article 2 and Article 4, Nos 1 and 2 of the code of civil procedure (Codice di procedura civile); in Luxembourg: Articles 14 and 15 of the civil code (Code Civil); in the Netherlands: Article 126 (3) and Article 127 of the code of civil procedure (Wetboek van Burgerlijke Rechtsvordering); in Portugal: Article 65 (1) (c) and 65 (2) and 65A (c) of the Code of Civil Procedure (codigo de processo civil) and Article 11 of the code of labour procedure (codigo de proceso de trabalho); in the United Kingdom: the rules which enable jurisdiction to be founded on:
 
 (a)  the document instituting the proceedings having been served on the defendant during his temporary presence in the United Kingdom; or
 

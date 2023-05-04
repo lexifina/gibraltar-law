@@ -718,9 +718,7 @@ Article 72
 
 2.  The Depositary shall transmit any information received pursuant to paragraph 1 to the other Contracting Parties prior to inviting the State concerned to accede in accordance with paragraph 3 of this Article.
 
-3.  Without prejudice to paragraph 4, the Depositary shall invite the State concerned to accede only if it has obtained the unanimous agreement of the Contracting Parties. The Contracting
-
-Parties shall endeavour to give their consent at the latest within one year after the invitation by the Depositary.
+3.  Without prejudice to paragraph 4, the Depositary shall invite the State concerned to accede only if it has obtained the unanimous agreement of the Contracting Parties. The Contracting Parties shall endeavour to give their consent at the latest within one year after the invitation by the Depositary.
 
 1. The Convention shall enter into force only in relations between the acceding State and the Contracting Parties which have not made any objections to the accession before the first day of the third month following the deposit of the instrument of accession.
 
@@ -752,9 +750,7 @@ The following are annexed to this Convention:
 
 — Annexes I through IV and Annex VII, with information related to the application of this Convention,
 
-— Annexes V and VI, containing the certificates referred to in Articles 54, 58 and 57 of this
-
-Convention,
+— Annexes V and VI, containing the certificates referred to in Articles 54, 58 and 57 of this Convention,
 
 — Annex VIII, containing the authentic languages referred to in Article 79 of this Convention, and
 
@@ -808,9 +804,7 @@ Article II
 
 1.The jurisdiction specified in Articles 6(2) and 11 in actions on a warranty or guarantee or in any other third party proceedings may not be fully resorted to in the States bound by this Convention referred to in Annex IX. Any person domiciled in another State bound by this Convention may be sued in the courts of these States pursuant to the rules referred to in Annex IX.
 
-2.At the time of ratification the European Community may declare that proceedings referred to in Articles 6
-
-(2) and 11 may not be resorted to in some other Member States and provide information on the rules that shall apply.
+2.At the time of ratification the European Community may declare that proceedings referred to in Articles 6 (2) and 11 may not be resorted to in some other Member States and provide information on the rules that shall apply.
 
 3.Judgments given in the other States bound by this Convention by virtue of Article 6(2) or Article 11 shall be recognised and enforced in the States mentioned in paragraphs 1 and 2 in accordance with Title III. Any effects which judgments given in these States may have on third parties by application of the provisions in paragraphs 1 and 2 shall also be recognised in the other States bound by this Convention.
 

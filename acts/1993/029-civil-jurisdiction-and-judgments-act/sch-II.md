@@ -78,6 +78,8 @@ The courts or competent authorities to which the application referred to in Arti
 
 (b) in Scotland, the Court of Session, or in the case of a maintenance judgment, the Sheriff Court on transmission by the Secretary of State;
 
-(c) in Northern Ireland, the High Court of Justice, or in the case of a maintenance judgment, the Magistrates' Court on transmission by the Secretary of State;
+(c) in Northern Ireland, the High Court of Justice, or in the case of a maintenance judgment, the
+
+Magistrates' Court on transmission by the Secretary of State;
 
 (d) in Gibraltar, the Supreme Court of Gibraltar, or in the case of a maintenance judgment, the Magistrates' Court on transmission by the Attorney General of Gibraltar.
