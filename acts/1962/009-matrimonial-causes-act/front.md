@@ -1,18 +1,10 @@
-Matrimonial Causes
-
-1962-09
-
-MATRIMONIAL CAUSES ACT
+Matrimonial Causes Act
 
 Principal Act
 
-Act. No. 1962-09 Commencement 31.5.1962
+Act. No. 1962-09 Commencement 31.5.1962 Assent 25.5.1962
 
-Assent 25.5.1962
-
-With which are consolidated Relevant current
-
-provisions Acts.  1974-23, ss.2 and 6-14 ss. 2, 8, 23, 53-60 and Sch. 1977-15, s.17(1) and (2) s.46
+With which are consolidated Relevant current provisions Acts.  1974-23, ss.2 and 6-14 ss. 2, 8, 23, 53-60 and Sch. 1977-15, s.17(1) and (2) s.46
 
 Amending enactment
 
@@ -28,27 +20,21 @@ Act. 1972-06 –
 
 1983-30 ss. 2-4, 7, 10, 12(3), 13-19, 20(2), 21, 30-32, 35, 37(1), 38-39, 41, 43(8), 45, 49
 
-2005-08 s. 60A 22.2.2005 Act. 2009-45 ss. 2-5, 5A-5B, 16(2)(c)-(e), (3)(c)(i)-(ii), (4)-(5), 17A, 18, 19A, 20-21, 25, 25A-25E, 26(2)- (3), 26A, 27(3), 30(1)-(2),(4), 31A-31M, 32-34, 34A, 35-43, 43A-43E, 46A-46J, 47, 48(1), 49, 50(1)-(2), 51-52, 58
+2005-08 s. 60A 22.2.2005 2009-45 ss. 2-5, 5A-5B, 16(2)(c)-(e), (3)(c)(i)-(ii), (4)-(5), 17A, 18, 19A, 20-21, 25, 25A-25E, 26(2)-(3), 26A, 27(3), 30(1)-(2),(4), 31A-31M, 32-34, 34A, 35-43, 43A-43E, 46A-46J, 47, 48(1), 49, 50(1)-(2), 51-52, 58
 
-14.1.20101 LN. 2015/003 s. 60A(b) 10.1.2015 Act. 2016-22 ss. 16(2)(a), 17(6A), 25(1)(b)-(c), 25A,
+14.1.20101 LN. 2015/003 s. 60A(b) 10.1.2015 Act. 2016-22 ss. 16(2)(a), 17(6A), 25(1)(b)-(c), 25A, 15.12.20161 2016-18 ss. 25A(1)(d), 25B(4)(a) 23.4.2018 LN. 2018/112 ss. 2, 47(2)-(3) 21.5.2018 Act. 2019-24 ss. 10-11, 12(1), (3), 16(2)-(5), 17, 17A, 18(1), (3)(a), 19, 20(1)-(2), 26(1), (2)(a), 26A, 30(1), (3), 31(4), 31E(7)(b), 62-77
 
-15.12.20161 2016-18 ss. 25A(1)(d), 25B(4)(a) 23.4.2018 LN. 2018/112 ss. 2, 47(2)-(3) 21.5.2018 Act. 2019-24 ss. 10-11, 12(1), (3), 16(2)-(5), 17, 17A, 18(1), (3)(a), 19, 20(1)-(2), 26(1), (2)(a), 26A, 30(1), (3), 31(4), 31E(7)(b), 62-77
+15.8.20192 2021-09 ss. 5B(5), 48(1) 9.2.2021 LN. 2023/116 ss. 4, 60A 4.5.2023
 
-15.8.20192 2021-09 ss. 5B(5), 48(1) 9.2.2021
+Rules of court made under s.61 and other powers appear under the title Supreme Court. (These, inter alia, apply the former English Matrimonial Causes Rules 1957, as amended up to April 1968, with modifications and adaptations.
 
 1 Notice of Commencement - LN. 2010/002 1 Notice of Commencement - LN. 2016/248 2 Notice of Commencement – LN.2019/170
 
-Matrimonial Causes
-
-1962-09 Rules of court made under s.61 and other powers appear under the title Supreme Court. (These, inter alia, apply the former English Matrimonial Causes Rules 1957, as amended up to April 1968, with modifications and adaptations.
-
-Implementing: Regulation (EC) No 1215/2012 Regulation (EC) No 2201/2003
+Implementing: Regulation (EC) No 1215/2012
 
 English sources: Matrimonial Causes Act 1973(1973 Chapter 18).
 
-Matrimonial Causes
-
-1962-09 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -72,11 +58,9 @@ PART V .–DIVORCE, NULLITY AND DISSOLUTION OF MARRIAGE  ON PRESUMPTION OF DEATH
 
 Divorce.
 
-16. Divorce on breakdown of marriage. 17. Repealed. 17A.  Repealed. 18. Restrictions on petitions for divorce within one year of marriage. 19. Repealed. 19A.  Consideration by the court of certain agreements or arrangements. 20. Divorce proceedings after grant of judicial separation or other relief. 21. Repealed.
+16. Divorce on breakdown of marriage. 17. Repealed. 17A.  Repealed. 18. Restrictions on petitions for divorce within one year of marriage. 19. Repealed. 19A.  Consideration by the court of certain agreements or arrangements.
 
-Matrimonial Causes
-
-1962-09 22. Re-marriage of divorced persons. 23. Non-judicial divorces.
+20. Divorce proceedings after grant of judicial separation or other relief. 21. Repealed. 22. Re-marriage of divorced persons. 23. Non-judicial divorces.
 
 Nullity.
 
@@ -102,19 +86,15 @@ PART VIA.–FINANCIAL AGREEMENTS.
 
 31A.  Interpretation and application. 31B.  Financial agreements before marriage. 31C.  Financial agreements during marriage. 31D.  Financial agreements after the decree of divorce are granted. 31E.  Need for a declaration of separation for certain provisions of financial agreement to take effect. 31F.  Whether or when certain other provisions of financial agreements take effect.
 
-Matrimonial Causes
-
-1962-09 31G.  Requirements with respect to provisions in financial agreements relating to the maintenance of a child or children. 31H.  Certain provisions in agreements. 31I. When financial agreements are binding. 31J. Effect of death of party to financial agreement. 31K.  Termination of financial agreement. 31L.  Circumstances in which court may set aside a financial agreement or termination agreement. 31M. Validity, enforceability and effect of financial agreements and termination agreements.
+31G.  Requirements with respect to provisions in financial agreements relating to the maintenance of a child or children. 31H.  Certain provisions in agreements. 31I. When financial agreements are binding. 31J. Effect of death of party to financial agreement. 31K.  Termination of financial agreement. 31L.  Circumstances in which court may set aside a financial agreement or termination agreement. 31M. Validity, enforceability and effect of financial agreements and termination agreements.
 
 PART VII–FINANCIAL RELIEF FOR PARTIES TO MARRIAGE AND CHILDREN OF FAMILY
 
 32. Financial provision and property adjustment orders. 33. Maintenance pending suit. 34. Financial provision orders in connection with divorce proceedings, etc. 34A.  Deduction of maintenance at source. 35. Property adjustment orders in connection with divorce proceedings, etc 36. Orders for sale of property. 37. Matters to which court is to have regard in deciding how to exercise its powers under sections 34 to 36. 38. Exercise of court’s powers in favour of party to marriage on decree of divorce or nullity of marriage. 39. Commencement of proceedings for financial relief, etc. 40. Financial provision orders, etc, in case of neglect by party to marriage to maintain other party or child of the family. 41. Duration of continuing financial provision orders in favour of a party to the marriage, and effect of remarriage. 42. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour. 43. Direction for settlement of instrument for securing payments or effecting property adjustment. 43A.  Variation, discharge, etc, of certain orders for financial relief. 43B.  Orders for repayment in certain cases of sums paid after cessation of order by reason of remarriage. 43C.  Orders for repayment in certain cases of sums paid under certain orders. 43D.  Consent orders for financial provision on property adjustment. 43E.  Avoidance of transactions intended to prevent or reduce financial relief. 44. Extension of Married Women Act. 45. Vesting of possession in tenancy.
 
-Matrimonial Causes
+Inheritance.
 
-1962-09 Inheritance.
-
-46. Power to bar applications under the Inheritance (Provision for Family and  Dependants) Act.
+46. Power to bar applications under the Inheritance (Provision for Family and Dependants) Act.
 
 PART VIIA.–PENSIONS SHARING.
 
@@ -124,15 +104,13 @@ PART VIII.–CHILDREN.
 
 47. Maintenance, etc. of children. 48. Child or children accepted as of the family. 49. Restrictions on decrees for dissolution, annulment or separation affecting children. 50. Power to provide for children on dismissal of proceedings. 51. Repealed. 52. Repealed.
 
-PART IX.–RECOGNITION OF DIVORCES AND LEGAL SEPARATIONS  OBTAINED ELSEWHERE THAN IN GIBRALTAR.
+PART IX.–RECOGNITION OF DIVORCES AND LEGAL SEPARATIONS OBTAINED ELSEWHERE THAN IN GIBRALTAR.
 
 53. Recognition in Gibraltar of divorces and legal separations obtained elsewhere. 54. Grounds for recognition. 55. Cross-proceedings and divorce following legal separations. 56. Proof of facts relevant to recognition. 57. Existing common law and statutory rules. 58. Non-recognition of divorce by third country no bar to re-marriage. 59. Exceptions from recognition. 60. Transitional.
 
-PART X–JURISDICTION, AND RECOGNITION AND ENFORCEMENT OF JUDGMENTS MADE IN A MEMBER STATE OF THE EUROPEAN UNION.
+PART X.–Deleted
 
-Matrimonial Causes
-
-1962-09 60A.  Jurisdiction, and recognition and enforcement of judgments made in a member state of the European Union.
+60A.  Deleted
 
 PART XI.–RULES.
 
@@ -148,6 +126,4 @@ SUPPLEMENTARY
 
 SCHEDULE.
 
-Matrimonial Causes
-
-1962-09 AN ACT TO MAKE FURTHER AND BETTER PROVISION IN RESPECT OF THE LAW GOVERNING MATRIMONIAL CAUSES AND FOR MATTERS INCIDENTAL THERETO OR CONNECTED THEREWITH.
+AN ACT TO MAKE FURTHER AND BETTER PROVISION IN RESPECT OF THE LAW GOVERNING MATRIMONIAL CAUSES AND FOR MATTERS INCIDENTAL THERETO OR CONNECTED THEREWITH.
