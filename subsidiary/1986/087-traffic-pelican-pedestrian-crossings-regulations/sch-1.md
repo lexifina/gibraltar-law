@@ -26,11 +26,11 @@ Vehicular traffic light signals.
 
 Pedestrian light signals.
 
-3. The pedestrian light signals shall be of the colour and type shown either in diagram l or 2 in Part II of this Schedule.
+3. The pedestrian light signals shall be of the colour and type shown either in diagram 1 or 2 in Part II of this Schedule or, subject to regulation 3A, diagram 1, 2, 3, 4, 5, 6 or 7 in Part IIA of this Schedule.
 
 Indicator for pedestrians.
 
-4.The indicator for pedestrians shall be of the colour and type shown either in Diagram 1 or 2 set out in Part III of this Schedule.
+4. The indicator for pedestrians shall be of the colour and type shown either in Diagram 1 or 2 set out in Part III of this Schedule.
 
 Sequence of signs.
 
