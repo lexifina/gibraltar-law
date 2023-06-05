@@ -18,7 +18,7 @@ Particulars of Offence:
 
 I …………………………… have reasonable cause to believe that the offence stated hereunder as identified by a tick, particulars of which are given above, was being or had been committed on ………………………........ by the above named person.
 
-PART A:- (a)Section 5 of the Litter Control Act, 1990 (“litter”) £70 (b)Section 5 of the Litter Control Act, 1990 (“dangerous litter”) £250
+PART A:- (a)Section 5 of the Litter Control Act, 1990 (“litter”) £250 (b)Section 5 of the Litter Control Act, 1990 (“dangerous litter”) £1,000
 
 (To be completed by the authorised officer.  Please tick as appropriate.)
 
@@ -30,9 +30,11 @@ Date
 
 Authority
 
-If before the end of 14 days from the above date, the sum of, in the case of an offence in respect of litter, £70 and, in case of an offence in respect of dangerous litter, £250 (being the fixed penalty for the offence) is paid to the Clerk of the Magistrates’ Court, no proceedings will be taken for the offence and any liability to conviction for the offence will be discharged.  Payment must be made to the Magistrates’ Court whereupon a receipt for the payment will be given.  Part payment will not be accepted by the Clerk.  The person paying the fixed penalty must forward Part 2 of the Notice with the remittance.  This Notice is deemed to have been issued  by–
+If before the end of 14 days from the above date, the sum of, in the case of an offence in respect of litter, £250 and, in case of an offence in respect of dangerous litter, £1,000 (being the fixed penalty for the offence) is paid to the Clerk of the Magistrates’ Court, no proceedings will be taken for the offence and any liability to conviction for the offence will be discharged.  Payment must be made to the Magistrates’ Court whereupon a receipt for the payment will be given.  Part payment will not be accepted by the Clerk.  The person paying the fixed penalty must forward Part 2 of the Notice with the remittance.  This Notice is deemed to have been issued  by–
 
- handing it to;  addressing it to and leaving it at the last known address of; or  sending it by registered post at the last known address of,
+ handing it to;
+
+ addressing it to and leaving it at the last known address of; or  sending it by registered post at the last known address of,
 
 the person liable for the offence indicated above, on ……………………. (Date).
 
@@ -42,13 +44,13 @@ SERIAL No………….. PART 2
 
 To the Clerk of the Magistrates’ Court.
 
-I enclose the sum of £70/£250 as mentioned in Part 1 of the Notice representing payment of the fixed penalty of the offence under–
+I enclose the sum of £250/£1,000 as mentioned in Part 1 of the Notice representing payment of the fixed penalty of the offence under–
 
 PART B:-
 
- (a)Section 5 of the Litter Control Act, 1990 (“litter”) £70
+ (a)Section 5 of the Litter Control Act, 1990 (“litter”) £250
 
- (b)Section 5 of the Litter Control Act, 1990 (“dangerous litter”) £250
+ (b)Section 5 of the Litter Control Act, 1990 (“dangerous litter”) £1,000
 
 Date of Issue:
 
