@@ -12,13 +12,19 @@ Powers.
 
 Immunity.
 
-3.(1)  The Board is not liable to any person for anything done or omitted to be done in the direct exercise or purported direct exercise of its functions.
+3.(1)  The Board is not liable to any person for anything done or omitted in the discharge or purported discharge of any or purported direct exercise of its functions.
 
-(2)  Any person who is, or is acting as, a member, officer or employee of the Board is not liable to any person for anything done or omitted to be done in the direct exercise or purported direct exercise of the Board’s functions.
+(2)  Any person who is, or (when the act or omission occurred) was, a member, officer, employee or delegate of the Board is not liable to any person for anything done or omitted discharge or purported discharge of any of the Board’s functions.
 
-(3)  The Board must indemnify any person who is or was, or who is acting or has acted as, a member, officer or employee of the Board for the costs of defending any action brought by a third party in respect of anything the person is alleged to have done or omitted to do in the direct exercise or purported direct exercise of the Board’s functions.
+(2A)  Sub-paragraphs (1) and (2) do not apply to an act or omission which is shown to have been in bad faith.
 
-(4)  Sub-paragraphs (1) to (3) do not apply to an act or omission in bad faith.
+(3)  The Board must (unless bad faith is definitively found to have existed) indemnify any person to whom sub-paragraph (2) applies for the costs of defending any action brought by a third party in respect of anything the person is alleged to have done or omitted in the discharge or purported discharge of any of the Board’s functions.
+
+(4)  In this paragraph–
+
+“delegate” means any person to whom the Board has delegated any of its functions or who it has authorised to perform any functions on its behalf; and
+
+“functions” means the powers or duties of the Board conferred by or under this Act.
 
 Membership.
 

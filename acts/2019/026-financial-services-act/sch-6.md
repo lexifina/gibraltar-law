@@ -94,8 +94,16 @@ General powers.
 
 Immunity.
 
-7.(1)  Any person who is a member of the DMC is not liable in damages for anything done or omitted in the discharge or purported discharge of any powers or functions conferred on the DMC by this Act.
+7.(1)  The DMC is not liable in damages for anything done or omitted in the discharge or purported discharge of any of its functions.
 
-(2)  Sub-paragraph (1) does not apply to an act or omission which is shown to be in bad faith.
+(1A) Any person who is, or (when the act or omission occurred) was, a member, officer, employee or delegate of the DMC is not liable in damages for anything done or omitted in the discharge or purported discharge of any of the DMC’s functions.
 
-(3)  The GFSC must (unless bad faith is definitively found to have existed) indemnify any existing and former members of the DMC for the costs of defending any action brought by a third party in respect of anything they are alleged to have done or omitted in the discharge or purported discharge of any powers or functions conferred on the DMC by this Act.
+(2)  Sub-paragraphs (1) and (1A) do not apply to an act or omission which is shown to have been in bad faith.
+
+(3)  The GFSC must (unless bad faith is definitively found to have existed) indemnify any person to whom sub-paragraph (1A) applies for the costs of defending any action brought by a third party in respect of anything the person is alleged to have done or omitted in the discharge or purported discharge of any of the DMC’s functions.
+
+(4)  In this paragraph–
+
+“delegate” means any person to whom the DMC has delegated any of its functions or who it has authorised to perform any functions on its behalf; and
+
+“functions” means the powers or duties of the DMC conferred by or under this Act.

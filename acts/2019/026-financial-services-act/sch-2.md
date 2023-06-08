@@ -90,9 +90,9 @@ Chapter 1 General
 
 Chapter 2 Investment services and investment activities
 
-44. Interpretation of Chapter 2 of Part 6. 45. Ancillary services. 46. Financial instruments to which Chapter 2 applies.
+44. Interpretation of Chapter 2 of Part 6. 45. Ancillary services.
 
-47. Terminology used in paragraph 46.
+46. Financial instruments to which Chapter 2 applies. 47. Terminology used in paragraph 46.
 
 The regulated activities
 
@@ -114,9 +114,7 @@ The regulated activities
 
 Exclusions
 
-72. Exclusions from paragraph 71.
-
-73. Instructions on behalf of participating issuers. 74. Instructions on behalf of settlement banks. 75. Instructions in connection with takeover offers. 76. Instructions in the course of providing a network.
+72. Exclusions from paragraph 71. 73. Instructions on behalf of participating issuers. 74. Instructions on behalf of settlement banks. 75. Instructions in connection with takeover offers. 76. Instructions in the course of providing a network.
 
 PART 7 STRUCTURED DEPOSITS
 
@@ -178,7 +176,9 @@ Chapter 2 Collective investment schemes
 
 The regulated activities
 
-93. Managing a UCITS. 94. Acting as depositary of a UCITS. 94A. Acting as trustees of a UCITS. 94B. Acting as sole director of a UCITS. 95. Managing an AIF (in-scope AIFM). 96. Acting as depositary of an AIF with an in-scope AIFM. 97. Managing an AIF (small scheme manager). 98. Acting as depositary of an AIF with a small scheme manager. 99. Establishing etc. a collective investment scheme. 100. Acting as bank and/or broker of an experienced investor fund. 101. Acting as depositary of a private scheme. 102. Acting as administrator of a collective investment scheme.
+93. Managing a UCITS. 94. Acting as depositary of a UCITS. 94A. Acting as trustees of a UCITS. 94B. Acting as sole director of a UCITS. 95. Managing an AIF (in-scope AIFM). 96. Acting as depositary of an AIF with an in-scope AIFM. 97. Managing an AIF (small scheme manager). 98. Acting as depositary of an AIF with a small scheme manager. 99. Establishing etc. a collective investment scheme. 100. Acting as bank and/or broker of an experienced investor fund. 101. Acting as depositary of a private scheme.
+
+102. Acting as administrator of a collective investment scheme.
 
 Exclusions
 
@@ -208,9 +208,7 @@ The regulated activities
 
 Exclusions
 
-121. Omitted.
-
-122. Mortgage creditors. 123. Mere introducers. 124. Recommendations relating to existing debt.
+121. Omitted. 122. Mortgage creditors. 123. Mere introducers. 124. Recommendations relating to existing debt.
 
 PART 13 COMPANIES, FOUNDATIONS, PARTNERSHIPS AND UNINCORPORATED ASSOCIATIONS
 

@@ -62,10 +62,16 @@ Reports.
 
 Immunity.
 
-6.(1)  The FSRCC is not liable in damages for anything done or omitted in the discharge or purported discharge of any powers or functions conferred on the FSRCC by this Act.
+6.(1)  The FSRCC is not liable in damages for anything done or omitted in the discharge or purported discharge of any of its functions.
 
-(2)  Any person who is a member, officer, employee or delegate of the FSRCC is not liable in damages for anything done or omitted in the discharge or purported discharge of any powers or functions conferred on the FSRCC by this Act.
+(2)  Any person who is, or (when the act or omission occurred) was, a member, officer, employee or delegate of the FSRCC is not liable in damages for anything done or omitted in the discharge or purported discharge of any of the FSRCC’s functions.
 
-(3)  Sub-paragraphs (1) and (2) do not apply to an act or omission which is shown to be in bad faith.
+(3)  Sub-paragraphs (1) and (2) do not apply to an act or omission which is shown to have been in bad faith.
 
-(4)  The FSRCC must (unless bad faith is definitely found to have existed) indemnify any of its existing and former members, officers or employees for the costs of defending any action brought by a third party in respect of anything they are alleged to have done or omitted in the discharge or purported discharge of any powers or functions conferred on the FSRCC by this Act.
+(4)  The FSRCC must (unless bad faith is definitively found to have existed) indemnify any person to whom sub-paragraph (2) applies for the costs of defending any action brought by a third party in respect of anything the person is alleged to have done or omitted in the discharge or purported discharge of any of the FSRCC’s functions.
+
+(5)  In this paragraph–
+
+“delegate” means any person to whom the FSRCCC has delegated any of its functions or who it has authorised to perform any functions on its behalf; and
+
+“functions” means the powers or duties of the FSRCC conferred by or under this Act.
