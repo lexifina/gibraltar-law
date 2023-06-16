@@ -1,4 +1,4 @@
-Subsidiary Legislation made under ss.57, 61, 80, 89 and 101
+Subsidiary Legislation made under  ss.57, 61, 80, 89 and 101
 
 Traffic (Licensing and Registration) Regulations
 
@@ -22,7 +22,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/046 r
 
 “ rr. 2, 16A, 16AZ, 16AA(1)-(2), (2A), (3)(a), 16AB, 16B, 16C(1), (4), 20(3)-(5), 21(3A)-(3B), (5)(a)-(d), 21A(2)(b), (bb)-(bc), 79A, 80(1)-(2), 80A(1)-(3), 103(1)-(2), Schs.1, 3A- 3B, 4, 4A- 4C, 7-10
 
-1.1.2021 2021/410 rr. 6(2), 7(2), 8(2), 9, 14(1), 33(a)-(b), Sch. 2 30.9.2021 2022/119 Sch.2 12.5.2022
+1.1.2021 2021/410 rr. 6(2), 7(2), 8(2), 9, 14(1), 33(a)-(b), Sch. 2 30.9.2021 2022/119 Sch.2 12.5.2022 2023/158 Sch.2 16.6.2023
 
 Transposing:
 

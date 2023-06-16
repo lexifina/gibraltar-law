@@ -54,30 +54,24 @@ SECTION 7. – REGISTRATION, CERTIFICATE OF REGISTRATION AND TRANSFER OF OWNERSH
 
 Regulations 3(1), 6(1), 7(2), 8(2), 9 and 14(1)
 
-1. For Registering a motor cycle with an engine capacity up to 50cc £27 2. For Registering any other vehicle £30 3. Certificate of Registration £27 4. Duplicate Certificate of Registration £27 5. Transfer of ownership £27 6. Amendment to certificate of registration £27
+1. For Registering a motor cycle with an engine capacity up to 50cc £30 2. For Registering any other vehicle £30 3. Certificate of Registration £30 4. Duplicate Certificate of Registration £30 5. Transfer of ownership £30 6. Amendment to certificate of registration £30
 
 Regulation 69. PART V.–DRIVING LICENCES
 
 Fee No. £ 1. For the issue or renewal of a driving licence:
 
-Provided that where a licence or a renewal is issued for a period of less than 10 years the fee shall be £3 for each year or part of the year for which it is expressed to be valid. 40.00 1A. For the renewal of a driving licence to any person aged 70 or over. Nil
+Provided that where a licence or a renewal is issued for a period of less than 10 years the fee shall be £3 for each year or part of the year for which it is expressed to be valid. 44.00
 
-2. For the issue of a duplicate driving licence: Provided that where at the date of the application the licence had less than 10 years to run, the fee payable shall be £3 for each year or part of the year for which it is expressed to be valid. 40.00 3. For the issue of an advanced driving licence. 25.00 4. For the issue of a duplicate advanced driving licence. 15.00 5. For inspecting the register, for each hour or part thereof. 15.00 6. For a copy or extract from the register, for each folio of72 words or part thereof. 15.00 7. For the addition of a further category. 25.00 8. For a change in particulars. 25.00 9. For the exchange of an EEA licence. 40.00
+1A. For the renewal of a driving licence to any person aged 70 or over. Nil
+
+2. For the issue of a duplicate driving licence:
+
+Provided that where at the date of the application the licence had less than 10 years to run, the fee payable shall be £3 for each year or part of the year for which it is expressed to be valid. 44.00
+
+3. For the issue of an advanced driving licence. 25.00 4. For the issue of a duplicate advanced driving licence. 15.00 5. For inspecting the register, for each hour or part thereof. 15.00 6. For a copy or extract from the register, for each folio of 72 words or part thereof. 15.00 7. For the addition of a further category. 25.00 8. For a change in particulars. 25.00 9. For the exchange of an EEA licence. 44.00
 
 PART VII–DRIVING TESTS
 
-Category Fee £ A 46.00 B 46.00 C 75.00 C1 75.00 D 75.00 D1 75.00 B+E 69.00 C+E 75.00 C1+E 75.00 D+E 75.00 D1+E 75.00 F to J 69.00 K – moped 30.00 Advanced driving test 50.00 Public service vehicle up to 8 seats in addition to the driver’s seat 69.00 Public service vehicle over 8 seats in addition to the driver’s seat 65.00 Theory “A” Category 18.00 Theory “B” Category 18.00 Theory “C” Category 40.00
+Category Fee £ A 50.00 B 50.00 C 75.00 C1 75.00 D 75.00 D1 75.00 B+E 75.00 C+E 75.00 C1+E 75.00 D+E 75.00 D1+E 75.00 F to J 75.00 K – moped 30.00 Advanced driving test 50.00 Public service vehicle up to 8 seats in addition to the driver’s seat 75.00 Public service vehicle over 8 seats in addition to the driver’s seat 65.00
 
-Theory “D” Category 40.00 Case Studies “C” Category 40.00 Case Studies “D” Category 40.00 Practical Knowledge “C” Category 25.00 Practical Knowledge “D” Category 25.00
-
-Annual indexation of fees.
-
-1.  Subject to the provisions of this regulation, the fees set out in the tables below (using the same paragraph numbering as appearing in Schedule 2) must be revised annually in accordance with the Index of Retail Prices published by the Government Statistician.
-
-2.  The first revision under this regulation shall apply as from the 1 May 2022 and shall apply the index of retail prices as at the 1 January 2022, and subsequent revisions shall apply on each subsequent 1 May and apply the index of retail prices prevailing on the preceding 1 January of that year.
-
-3.  Any figure revised pursuant to subregulation (1) shall be rounded up to the next whole pound.
-
-FEES (SECTION 7- REGISTRATION, CERTIFICATE OF REGISTRATION AND TRANSFER OF OWNERSHIP) Amount (£) 1. For registering a motorcycle with an engine capacity up to 50cc 27 3. Certificate of Registration 27 4. Duplicate Certificate of Registration 27 5. Transfer of Ownership 27 6. Amendment to certificate of registration 27 FEES (PART V – DRIVING LICENCES) Amount (£) 1. For the issue or renewal of a driving licence 40 2. For the issue of a duplicate driving licence 40 9. For the exchange of an EEA Licence 40 FEES (PART VII – DRIVING TESTS) Amount (£) Category A 46 Category B 46
-
-Category B+E 69 Category F to J 69 Public service vehicle up to 8 seats in addition to the driver’s seat 69 Theory “A” Category 18 Theory “B” Category 18
+Theory “A” Category 20.00 Theory “B” Category 20.00 Theory “C” Category 40.00 Theory “D” Category 40.00 Case Studies “C” Category 40.00 Case Studies “D” Category 40.00 Practical Knowledge “C” Category 25.00 Practical Knowledge “D” Category 25.00
