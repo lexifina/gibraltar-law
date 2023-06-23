@@ -58,7 +58,13 @@ Exclusions
 
 25. Exclusions from paragraph 24. 26. Omitted. 27. Breakdown insurance.
 
-Chapter 3 Insurance management
+Supplemental
+
+27A. Prohibited contracts of insurance.
+
+Chapter 3
+
+Insurance management
 
 28. Interpretation of Chapter 3 of Part 5.
 
@@ -90,9 +96,7 @@ Chapter 1 General
 
 Chapter 2 Investment services and investment activities
 
-44. Interpretation of Chapter 2 of Part 6. 45. Ancillary services.
-
-46. Financial instruments to which Chapter 2 applies. 47. Terminology used in paragraph 46.
+44. Interpretation of Chapter 2 of Part 6. 45. Ancillary services. 46. Financial instruments to which Chapter 2 applies. 47. Terminology used in paragraph 46.
 
 The regulated activities
 
@@ -176,9 +180,9 @@ Chapter 2 Collective investment schemes
 
 The regulated activities
 
-93. Managing a UCITS. 94. Acting as depositary of a UCITS. 94A. Acting as trustees of a UCITS. 94B. Acting as sole director of a UCITS. 95. Managing an AIF (in-scope AIFM). 96. Acting as depositary of an AIF with an in-scope AIFM. 97. Managing an AIF (small scheme manager). 98. Acting as depositary of an AIF with a small scheme manager. 99. Establishing etc. a collective investment scheme. 100. Acting as bank and/or broker of an experienced investor fund. 101. Acting as depositary of a private scheme.
+93. Managing a UCITS. 94. Acting as depositary of a UCITS. 94A. Acting as trustees of a UCITS. 94B. Acting as sole director of a UCITS. 95. Managing an AIF (in-scope AIFM). 96. Acting as depositary of an AIF with an in-scope AIFM. 97. Managing an AIF (small scheme manager). 98. Acting as depositary of an AIF with a small scheme manager.
 
-102. Acting as administrator of a collective investment scheme.
+99. Establishing etc. a collective investment scheme. 100. Acting as bank and/or broker of an experienced investor fund. 101. Acting as depositary of a private scheme. 102. Acting as administrator of a collective investment scheme.
 
 Exclusions
 
@@ -710,9 +714,7 @@ Providing payment services.
 
 PART 5 CONTRACTS OF INSURANCE
 
-Chapter 1
-
-General
+Chapter 1 General
 
 Application and interpretation of Part 5 of this Schedule.
 
@@ -972,7 +974,23 @@ Breakdown insurance.
 
 (b) after which the journey cannot reasonably be commenced or continued in the relevant vehicle.
 
-Chapter 3 Insurance management
+Supplemental
+
+Prohibited contracts of insurance.
+
+27A.  The Minister may by notice in the Gazette prohibit authorised persons with permission to carry on an activity of the kind specified by paragraph 24(1) or (2) from effecting or carrying out contracts of insurance–
+
+(a) of a particular class; or
+
+(b) in respect of risks–
+
+(i) of a particular kind; or
+
+(ii) located in a particular country or territory.
+
+Chapter 3
+
+Insurance management
 
 Interpretation of Chapter 3 of Part 5.
 
@@ -1116,9 +1134,7 @@ Mere provision of information to potential policyholders.
 
 PART 6 FINANCIAL INSTRUMENTS
 
-Chapter 1
-
-General
+Chapter 1 General
 
 Application of Part 6 of this Schedule.
 
@@ -1136,7 +1152,9 @@ Application of Part 6 of this Schedule.
 
 (b) specifies the kinds of activity carried on relation to such financial instruments which are to be regulated activities (sending dematerialised instructions).
 
-Chapter 2 Investment services and investment activities
+Chapter 2
+
+Investment services and investment activities
 
 Interpretation of Chapter 2 of Part 6. of this Schedule
 
