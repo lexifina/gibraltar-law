@@ -32,7 +32,7 @@ Membership of Council.
 
 (3)  Where an appointment is made under sub-paragraphs (1) and (2), or any person ceases to hold any such appointment, notice of the fact shall be published in the Gazette.
 
-(4)  An appointed member or alternate member, unless he dies, resigns, or is removed from office under subparagraph (6), shall hold office for a term of three years from the date of his appointment and thereafter until his successor comes into office.
+(4)  An appointed member or alternate member, unless he dies, resigns, or is removed from office under subparagraph (6), shall hold office for a term of up to three years from the date of his appointment and thereafter until his successor comes into office.
 
 (5)  An appointed or an alternate member may be re-appointed.
 
