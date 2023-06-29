@@ -4,33 +4,13 @@ FORM OF MEDICAL CARD.
 
 Regulation 7.
 
-GIBRALTAR HEALTH AUTHORITY MEDICAL GROUP PRACTICE SCHEME. Surname
+GIBRALTAR HEALTH AUTHORITY MEDICAL GROUP PRACTICE SCHEME. Surname Name InsuranceNo. Address Date of Birth Particulars of children and dependants of insured  person within the same household. Name Surname Age .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... Note : Please notify any change of address or family composition.
 
-Name
-
-InsuranceNo.
-
-Address
-
-Date of Birth
-
-Particulars of children and dependants of insured  person within the same household. Name Surname Age
-
-.............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... .............................. ............................. .................... Note : Please notify any change of address or family composition.
-
-DISTRICT MEDICAL SERVICE.
-
-Surname I/C No. Other names
-
-Address
-
-It is certified that the above-mentioned patient and his/her family mentioned overleaf is/are eligible for free medical attention under the District Medical Service.
+DISTRICT MEDICAL SERVICE. Surname I/C No. Other names Address It is certified that the above-mentioned patient and his/her family mentioned overleaf is/are eligible for free medical attention under the District Medical Service.
 
 Date..................
 
-........................
-
-for Director of Labour and Social Security.
+........................ for Director of Labour and Social Security.
 
 Determination made under reg. 6A.
 
