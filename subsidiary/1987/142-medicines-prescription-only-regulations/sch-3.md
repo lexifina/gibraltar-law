@@ -100,9 +100,7 @@ Exemptions from the restriction on administration of prescription only medicines
 
 Column 1
 
-Column 2
-
-Prescription only medicines for parenteral administration containing any of the following substances but no other substance that is classified as a product available on prescription only—
+Column 2 Prescription only medicines for parenteral administration containing any of the following substances but no other substance that is classified as a product available on prescription only—
 
 (a) Adrenaline, (b) Anti-D immunoglobulin, (c) Carboprost, (d) Cyclizine lactate, (e) Diamorphine, (f) Ergometrine maleate, (g) Gelofusine, (h) Hartmann’s solution, (i) Hepatitis B vaccine, (j) Hepatitis immunoglobulin, (k) Lidocaine and Lidocaine hydrochloride, (l) Morphine, (m) Naloxone hydrochloride, (n) Oxytocins, natural and synthetic, (o) Pethidine hydrochloride, (p) Phytomenadione, (q) Prochloperazine, (r) Sodium chloride 0.9%, (s) Benzyl Penicillin, (t) Diphtheria, tetanus, acellular pertussis and poliomyelitis vaccine, (u) Clindamycin, (v) Chloramphenicol eye ointment 1%, (w) Codeine phosphate and Paracetamol compound, (x) Sodium Citrate oral solution.
 
