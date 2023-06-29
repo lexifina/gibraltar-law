@@ -4,11 +4,7 @@ Schedule 4 Controlled Drugs Regulation 3 PART A
 
 1.  The following substances and products, namely
 
-Alprazolam Ketazolam Aminorex Loprazolam Bromazepam Lormetazepam Brotizolam Medazepam Camazepam Mefenorex Chlordiazepoxide Mesocarb Clobazam Midazolam Clotiazepam Nimetazepam Cloxazolam Nitrazepam Delorazepam Nordazepam Estazolam Oxazepam Ethyl loflazepate Oxazolam Fencamfamin Pemoline Fenproporex Pinazepam Fludiazepam Prazepam Flurazepam Pyrovalerone Halazepam Tetrazepam Haloxazolam Triazolam
-
-N-Ethylamphetamine
-
-Zolpidem
+Alprazolam Ketazolam Aminorex Loprazolam Bromazepam Lormetazepam Brotizolam Medazepam Camazepam Mefenorex Chlordiazepoxide Mesocarb Clobazam Midazolam Clotiazepam Nimetazepam Cloxazolam Nitrazepam Delorazepam Nordazepam Estazolam Oxazepam Ethyl loflazepate Oxazolam Fencamfamin Pemoline Fenproporex Pinazepam Fludiazepam Prazepam Flurazepam Pyrovalerone Halazepam Tetrazepam Haloxazolam Triazolam N-Ethylamphetamine Zolpidem
 
 2.  Any stereoisomeric form of a substance specified in paragraph 1.
 
@@ -40,9 +36,7 @@ Chorionic Gonadotrophin (HCG) Somatotropin Clenbuterol Somatrem Non-human chorio
 
 5.  The following substances–
 
-Clonazepam Lorazepam Clorazepic acid
-
-4-Hydroxy-n-butyric acid Diazepam
+Clonazepam Lorazepam Clorazepic acid 4-Hydroxy-n-butyric acid Diazepam
 
 6.  Any stereoisomeric form of a substance specified or described in any of paragraphs 1 to 5 of this Part of this Schedule.
 
