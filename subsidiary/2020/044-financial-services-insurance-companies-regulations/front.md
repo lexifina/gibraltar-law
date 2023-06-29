@@ -14,7 +14,7 @@ LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1)
 
 2022/067 rr. 3(1), 61A(1), 275(2), Sch.1 17.3.2022 2022/322 rr. 14(8), 192(3), (3A), (4), 197(1), 198(1), 200(5), 221(1), 222(1), 223(6), 224(1)-(2), 225(1), 225A, 240(3)
 
-24.11.2022 2023/074 rr. 199(4)-(5), 239(5)-(7) 30.3.2023
+24.11.2022 2023/074 rr. 199(4)-(5), 239(5)-(7) 30.3.2023 2023/163 rr. 5(1)(a)-(c), (e), 14(8), 116(1)(d)(i)-(iii), 191(1) 29.6.2023
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -46,9 +46,9 @@ Exclusions from scope: reinsurance
 
 PART 2 THRESHOLD CONDITIONS
 
-12. Introduction. 13. Permission required to carry on insurance or reinsurance activity. 14. Scope of permission. 15. Ancillary risks.
+12. Introduction. 13. Permission required to carry on insurance or reinsurance activity. 14. Scope of permission.
 
-16. Additional conditions for permission. 17. Scheme of operations. 18. Close links. 19. Policy conditions and scales of premiums. 20. Economic requirements of the market. 21. Shareholders and members with qualifying holdings. 22. Qualifying holdings: reporting of acquisitions and disposals. 23. Omitted. 24. Omitted.
+15. Ancillary risks. 16. Additional conditions for permission. 17. Scheme of operations. 18. Close links. 19. Policy conditions and scales of premiums. 20. Economic requirements of the market. 21. Shareholders and members with qualifying holdings. 22. Qualifying holdings: reporting of acquisitions and disposals. 23. Omitted. 24. Omitted.
 
 PART 3 SUPERVISION
 
@@ -60,9 +60,9 @@ PART 4 CONDITIONS GOVERNING BUSINESS
 
 Corporate Governance
 
-42. Compliance obligation. 43. General governance requirements. 44. Fit and proper persons and proof of good repute.
+42. Compliance obligation. 43. General governance requirements.
 
-45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities.
+44. Fit and proper persons and proof of good repute. 45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities.
 
 Public disclosure
 
@@ -98,9 +98,9 @@ Technical provisions
 
 CHAPTER 2 OWN FUNDS
 
-81. Determination of own funds. 82. Basic own funds. 83. Ancillary own funds. 84. Supervisory approval of ancillary own funds. 85. Characteristics and features used to classify own funds into tiers.
+81. Determination of own funds. 82. Basic own funds. 83. Ancillary own funds. 84. Supervisory approval of ancillary own funds.
 
-86. Main criteria for classification into tiers. 87. Classification of own funds into tiers. 88. Classification of specific insurance own fund items. 89. Eligibility and limits applicable to Tiers 1, 2 and 3.
+85. Characteristics and features used to classify own funds into tiers. 86. Main criteria for classification into tiers. 87. Classification of own funds into tiers. 88. Classification of specific insurance own fund items. 89. Eligibility and limits applicable to Tiers 1, 2 and 3.
 
 CHAPTER 3 SOLVENCY CAPITAL REQUIREMENT
 
@@ -114,9 +114,7 @@ Internal models
 
 101. General provisions for approval of full and partial internal models. 102. Specific provisions for approval of partial internal models. 103. Policy for changing full and partial internal models. 104. Responsibilities of administrative, management or supervisory bodies. 105. Reversion to standard formula 106. Non-compliance of internal model. 107. Significant deviations from assumptions underlying standard formula calculation. 108. Use test. 109. Statistical quality standards. 110. Calibration standards. 111. Profit and loss attribution. 112. Validation standards. 113. Documentation standards. 114. External models and data.
 
-CHAPTER 4
-
-MINIMUM CAPITAL REQUIREMENT
+CHAPTER 4 MINIMUM CAPITAL REQUIREMENT
 
 115. General provisions. 116. Calculation of Minimum Capital Requirement.
 
@@ -138,9 +136,9 @@ PART 8 Omitted
 
 PART 9 BRANCHES OF THIRD-COUNTRY INSURERS AND REINSURERS
 
-151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions. 155. Solvency Capital Requirement and Minimum Capital Requirement.
+151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions.
 
-156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
+155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
 
 Re-insurance
 
@@ -222,9 +220,9 @@ Risk management and internal control
 
 Measures to facilitate group supervision
 
-224. Group supervisor. 225. Functions of group supervisor and other supervisors. 225A. Disapplication or modification of Regulations 197, 198, 221 to 223 and 225.
+224. Group supervisor. 225. Functions of group supervisor and other supervisors.
 
-226. to 232. Omitted. 233. Group solvency and financial condition report. 234. Group structure. 235. Administrative, management or supervisory body of insurance holding companies and mixed financial holding companies. 236. Enforcement measures.
+225A. Disapplication or modification of Regulations 197, 198, 221 to 223 and 225. 226. to 232. Omitted. 233. Group solvency and financial condition report. 234. Group structure. 235. Administrative, management or supervisory body of insurance holding companies and mixed financial holding companies. 236. Enforcement measures.
 
 Third countries
 
@@ -246,9 +244,9 @@ Reorganisation measures
 
 Winding-up proceedings
 
-248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register. 252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets.
+248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register. 252. Subrogation to a guarantee scheme.
 
-254. Cancellation of permission. 255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
+253. Representation of preferential claims by assets. 254. Cancellation of permission. 255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
 
 Common provisions
 
@@ -262,7 +260,9 @@ SCHEDULE 1 TRANSITIONAL PROVISIONS
 
 SCHEDULE 2 LIQUIDATION OF GIBRALTAR INSURERS AND REINSURERS
 
-SCHEDULE 3 SWISS GENERAL INSURERS
+SCHEDULE 3
+
+SWISS GENERAL INSURERS
 
 SCHEDULE 4 SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA
 
