@@ -14,8 +14,10 @@ rr. 2(1), 3(1), 3A(1A) 1.7.2015 2017/070 r. 6B 11.4.2017 2021/345 rr. 4(b), 6(1)
 
 1 For the avoidance of doubt, section 24 of the Interpretation and General Clauses Act restricting the retrospective commencement of subsidiary legislation shall not apply to subsidiary legislation made under sections 4 to 7 of Act 2011-11. (s.2(4))
 
+2024/217 rr. 2(1), 3(1), 3A(1), (1A), 3B, (1), (4)(b)(v), 3C 1.7.2023
+
 ARRANGEMENT OF RULES
 
 Rule
 
-1. Title. 2. Rates of tax chargeable on individuals, etc. 3. Tax charged on certain non-residents. 3A.  Rates of tax chargeable on individuals under Gross Income Based System. 3B. Years of Assessment 1st July 2022 to 30 June 2024. 4. Tax charged on certain amounts received from pension schemes, etc. 5. Standard rate of tax. 6. Corporation tax. 6A.  Rate of Tax for Trusts. 6B. Rate of Tax for Foundations. 6C. Transitional Provision in respect of rules 6(1), 6A and 6B. 7. Deleted. 8. Deleted.
+1. Title. 2. Rates of tax chargeable on individuals, etc. 3. Tax charged on certain non-residents. 3A.  Rates of tax chargeable on individuals under Gross Income Based System. 3B. Years of Assessment 1st July 2022 to 30 June 2023. 3C. Year of Assessment 1st July 2023 to 30 June 2024. 4. Tax charged on certain amounts received from pension schemes, etc. 5. Standard rate of tax. 6. Corporation tax. 6A.  Rate of Tax for Trusts. 6B. Rate of Tax for Foundations. 6C. Transitional Provision in respect of rules 6(1), 6A and 6B. 7. Deleted. 8. Deleted.
