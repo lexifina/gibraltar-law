@@ -18,7 +18,7 @@ Act. 2015-23 ss. 25A, Sch. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6
 
 23.3.2020 LN. 2020/128 Sch.12 23.3.2020 2020/176 ss. 10L, 10O(1)(b) 7.5.2020 2020/055 ss. 5F(1), (2)(b), 10ZE-10ZL, Sch. 11 1.7.2020 2020/256 ss. 10ZI(1), (1A), (3), (3A), (9)(b), 10ZJ(2A), (7)(b), 10ZK(7)
 
-10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021 Act. 2021-22 Sch. 3 1.7.2021 2024-21 ss. 30(1)(b), (bb), (cb)(ii)-(iii), 79, Sch. 3 1.7.2022
+10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021 Act. 2021-22 Sch. 3 1.7.2021 2024-21 ss. 30(1)(b), (bb), (cb)(ii)-(iii), 79, Sch. 3 1.7.2022 “ Sch. 3, 13 1.7.2023
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952 Directive (EU) 2018/822 Directive (EU) 2020/876
 
@@ -140,7 +140,7 @@ RULES FOR ASCERTAINING PROFITS OR GAINS
 
 Part I-General
 
-1. Measure of profits or gains. 2. Deductions not allowable. 3. Items to be included in net profits. 4. Contributions to approved pension funds.
+1. Measure of profits or gains. 2. Deductions not allowable. 3. Items to be included in net profits. 4. Contributions to approved pension funds. 4A. Special assistance payment.
 
 Part II- Capital allowances.
 
@@ -178,7 +178,7 @@ Part IV
 
 Other Deductions and Credits
 
-16. Qualifying training. 17. Architects fees and planning costs. 17A. Tax credit for Start-Ups. 17B. Tax credit for properties. 18. Marketing and promotion. 19. Fixed payroll costs. 20. Power to amend this Schedule.
+16. Qualifying training. 17. Architects fees and planning costs. 17A. Tax credit for Start-Ups. 17B. Tax credit for properties. 18. Marketing and promotion. 19. Fixed payroll costs. 19A. Health and fitness. 19B. Private Education. 19C. Sole practitioners. 20. Power to amend this Schedule.
 
 SCHEDULE 4
 
@@ -196,9 +196,7 @@ Part II
 
 Transactions with connected persons
 
-4. Transactions with connected persons. 5. Non-deductibility of interest paid on certain secured loans. 6. Chargeability of dual employment contracts.
-
-7. Exemption from Paragraphs 2 and 4 to 6.
+4. Transactions with connected persons. 5. Non-deductibility of interest paid on certain secured loans. 6. Chargeability of dual employment contracts. 7. Exemption from Paragraphs 2 and 4 to 6.
 
 Part III
 
@@ -228,7 +226,9 @@ Part VI
 
 Controlled Foreign Company Rule
 
-19. Controlled foreign company rule. 20. Computation of controlled foreign company income.
+19. Controlled foreign company rule.
+
+20. Computation of controlled foreign company income.
 
 Part VII
 
@@ -306,9 +306,7 @@ Chapter 5
 
 Cars, vans and related benefits
 
-20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use.
-
-24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
+20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use. 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
 
 Chapter 6
 
@@ -326,9 +324,7 @@ Chapter 8
 
 Exemptions; removal benefits and expenses.
 
-52. Limited exemption of removal benefits and expenses; general.
-
-53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
+52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
 
 Chapter 9
 
@@ -372,16 +368,16 @@ Part III
 
 Continuity of the law
 
-13. Continuity of the law. 14. Changes in the law. 15. Subordinate legislation. 16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
+13. Continuity of the law. 14. Changes in the law. 15. Subordinate legislation.
+
+16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
 
 SCHEDULE 10
 
-SCHEDULE 11
+SCHEDULE 11 REPORTABLE CROSS-BORDER ARRANGEMENTS: HALLMARKS
 
-REPORTABLE CROSS-BORDER ARRANGEMENTS: HALLMARKS
+SCHEDULE 12 INTERNATIONAL AGREEMENTS
 
-SCHEDULE 12
-
-INTERNATIONAL AGREEMENTS
+SCHEDULE 13 SPECIAL ASSISTANCE PAYMENT
 
 AN ACT TO IMPOSE TAXATION ON INCOME AND TO REGULATE THE COLLECTION THEREOF, AND TO PROVIDE FOR THE IMPLEMENTATION OF INTERNATIONAL AGREEMENTS ON TAXATION MATTERS

@@ -88,6 +88,8 @@ Deductions not allowable.
 
 (ii) For the purposes of (i) above head office expenses shall mean a deduction claimed by a branch of a person in respect of expenditure which is incurred in common between the branch in Gibraltar, the person and other branches of the person and is shared on an apportionment basis either between the person and the branches of the person.
 
+(q) the special assistance payment.
+
 (2)    (a) In the case of a person who has income some of which is chargeable to tax and some of which is not chargeable to tax, in computing the profits and gains liable to tax, the deductions allowed in accordance with this Schedule shall be apportioned on a pro-rata basis between the chargeable and non-chargeable income.
 
 (b) The Minister may from time to time by rules prescribe additional disbursements or expenses for which no allowance will be available or amend the list in subparagraph (1) in whatsoever manner is necessary.
@@ -109,6 +111,12 @@ Items to be included in net profits.
 Contributions to approved pension funds.
 
 4.  Where an employer makes a contribution to an approved provident, pension or other fund for the benefit of his employees which is not an ordinary annual contribution the contributions shall be deducted in the year in which it is paid or spread over such period as the Commissioner decides is proper.
+
+Special assistance payment.
+
+4A.(1) In this Act, “special assistance payment” means a payment falling within the provisions of Schedule 13.
+
+(2) The Minister may by Regulations under this paragraph amend Schedule 13 so as to add, remove or modify a provision.
 
 PART II
 
@@ -524,6 +532,68 @@ Fixed payroll costs.
 
 (b) “registered employees” mean those registered in employment after 1 July 2021 and in accordance with all the requirements of H.M. Government of Gibraltar’s Employment Service.
 
+Health and fitness.
+
+19A.(1) An individual shall be eligible to claim a tax credit under this paragraph against his tax liability.
+
+(2) The tax credit shall not exceed 10 per cent of the total cost incurred by the individual referred to in sub-paragraph (1) above, in relation to–
+
+(a) his enrolment or membership in a gymnasium or fitness centre in Gibraltar;
+
+(b) the contracted fitness related services of a personal trainer in Gibraltar.
+
+(3) For the purposes of sub-paragraph (2)–
+
+(a) a claim shall only be allowed in relation to the services provided by a personal trainer who is registered with the Income Tax Office and is compliant with his tax obligations to the satisfaction of the Commissioner; and
+
+(b) any claim made under sub-paragraph (2) must be accompanied by evidence in support of the entirety of the costs incurred to the satisfaction of the Commissioner.
+
+(4) The tax credit shall not exceed the lower of–
+
+(a) 10 per cent of the total cost incurred referred to in sub-paragraph (2) above; or
+
+(b) the tax liability of the individual referred to in sub-paragraph (1).
+
+(5) Any remaining balance in the tax credit under sub-paragraph (4) above shall be reduced to zero and shall not be available for transfer or carry forward by way of set off against any tax liability in respect of any year of assessment.
+
+Private Education.
+
+19B.(1) A parent, who pays private school tuition fees in Gibraltar in respect of his child, shall be eligible to claim a tax credit under this paragraph against his tax liability.
+
+(2) The tax credit shall not exceed 10 per cent of the cost incurred by the parent referred to in sub-paragraph (1) above in relation to the total private school tuition fees paid in Gibraltar in respect of that child.
+
+(3) For the purposes of this paragraph–
+
+(a) “child” includes a stepchild, an illegitimate child and a child adopted in accordance with an order made by a court of competent jurisdiction;
+
+(b) “private school” means an institution which provides primary or secondary education in Gibraltar and excludes nursery schools; and
+
+(c) any claim must be accompanied by evidence in support of the entirety of the costs incurred to the satisfaction of the Commissioner.
+
+(4) The tax credit shall not exceed the lower of–
+
+(a) 10 per cent of the total cost incurred referred to in sub-paragraph (2) above; or
+
+(b) the tax liability of the parent referred to in sub-paragraph (1) above.
+
+(5) Any remaining balance in the tax credit under sub-paragraph (4) above shall be reduced to zero and shall not be available for transfer or carry forward by way of set off against any tax liability in respect of any year of assessment.
+
+Sole practitioners.
+
+19C.(1) An individual who is a sole practitioner shall be eligible to claim a tax credit under this paragraph against his tax liability.
+
+(2) For the purposes of this paragraph, “sole practitioner” means an individual registered with the Legal Services Regulatory Authority to conduct or provide a legal service in Gibraltar who is a sole practitioner and does not carry out any professional activity in common with other practitioners; whether in a set of chambers, partnership, firm, company or any other arrangement.
+
+(3) The tax credit shall not exceed 75 per cent of the total fees showed to have been paid by the individual referred to in sub-paragraph (1) above to the Legal Services Regulatory Authority in Gibraltar.
+
+(4) The tax credit available shall not exceed the lower of–
+
+(a) 75 per cent of the total fees incurred referred to in sub-paragraph (3) above; or
+
+(b) the tax liability of the individual sole practitioner referred to in sub-paragraph (1) above.
+
+(5) For the purposes of this paragraph, any claim must be accompanied by evidence in support of the entirety of the costs incurred to the satisfaction of the Commissioner.
+
 Power to amend this Schedule.
 
 20.(1) The Minister may by regulations amend the relevant paragraphs of this Schedule so as to-
@@ -546,6 +616,6 @@ prescribed in those paragraphs.
 
 (e) paragraph 16(2A); and
 
-(f) paragraph 19.
+(f) paragraphs 18 to 19C.
 
 (3)  The regulations may include such supplementary, incidental or consequential provisions as appear to the Minister to be necessary or expedient.
