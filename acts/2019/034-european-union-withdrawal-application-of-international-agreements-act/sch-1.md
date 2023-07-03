@@ -115,3 +115,5 @@ Agreement on the mutual recognition and protection of designations for spirit dr
 Convention on Social Security Coordination between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation, done at London on 9 September 2021
 
 Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Georgia on the Readmission of Persons Residing without Authorisation, done in London on 26 January 2023
+
+Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Republic of Serbia on the Readmission of Persons Residing without Authorisation, done in London on 26 January 2022

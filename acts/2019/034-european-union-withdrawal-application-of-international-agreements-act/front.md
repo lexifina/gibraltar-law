@@ -2,13 +2,9 @@ European Union Withdrawal (Application of International Agreements) Act 2019
 
 Principal Act
 
-Act. No. 2019-34 Commencement (LN.2021/042) 1.1.2021
+Act. No. 2019-34 Commencement (LN.2021/042) 1.1.2021 Assent 4.9.2019
 
-Assent 4.9.2019
-
-Amending enactments Relevant current provisions Commencement date
-
-LN.2021/041 Sch 1.1.2021 2021/168 Sch 4.3.2021 2021/232 Sch 30.4.2021 “ Sch 1.5.2021 “ Sch 3.5.2021 2021/274 Sch 20.5.2021 “ Sch 1.6.2021 2021/443 Sch 1.11.2021 2023/103 Sch 1.5.2023
+Amending enactments Relevant current provisions Commencement date LN.2021/041 Sch. 1.1.2021 2021/168 Sch. 4.3.2021 2021/232 Sch. 30.4.2021 “ Sch. 1.5.2021 “ Sch. 3.5.2021 2021/274 Sch. 20.5.2021 “ Sch. 1.6.2021 2021/443 Sch. 1.11.2021 2023/103 Sch. 1.5.2023 2023/180 Sch. 3.7.2023
 
 ARRANGEMENT OF SECTIONS
 
