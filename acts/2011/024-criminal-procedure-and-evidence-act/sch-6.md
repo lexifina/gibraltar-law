@@ -4,11 +4,7 @@ SCHEDULE 6
 
 OFFENCES THAT ARE ONLY TRIABLE SUMMARILY
 
-Offence Value
-
-1. Offences under section 354 of the Crimes Act 2011 (Destroying or damaging property), excluding any offence committed by destroying or damaging property by fire.
-
-As regards property alleged to have been destroyed - what the property would probably have cost to buy in the open market at the material time.
+Offence Value 1. Offences under section 354 of the Crimes Act 2011 (Destroying or damaging property), excluding any offence committed by destroying or damaging property by fire. As regards property alleged to have been destroyed - what the property would probably have cost to buy in the open market at the material time.
 
 If immediately after the material time the damage was capable of repair–
 
@@ -22,9 +18,7 @@ If immediately after the material time the damage was beyond repair - what the p
 
 (b) attempting to commit any offence so mentioned; and
 
-(c) inciting another to commit any offence so mentioned.
-
-The value indicated in paragraph 1 above for the offence alleged to have been aided, abetted, counselled or procured, or attempted or incited, calculated as for the corresponding entry in paragraph 1 above.
+(c) inciting another to commit any offence so mentioned. The value indicated in paragraph 1 above for the offence alleged to have been aided, abetted, counselled or procured, or attempted or incited, calculated as for the corresponding entry in paragraph 1 above.
 
 3. Offences under section 409 of the Crimes Act 2011 (Aggravated vehicle-taking) if no allegation is made under subsection (1)(b) other than of damage The total value of the damage alleged to have been caused.
 
