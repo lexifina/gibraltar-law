@@ -56,6 +56,8 @@ SEXUAL OFFENCES FOR PURPOSES OF PART 13
 
 (b)  is or has been sentenced in respect of the offence to imprisonment for not less than 12 months.
 
+11B. An offence under section 167A (Strangulation or suffocation).
+
 12.  An offence under section 214 (Assault by penetration).
 
 13.  An offence under section 215 (Sexual assault) if–
