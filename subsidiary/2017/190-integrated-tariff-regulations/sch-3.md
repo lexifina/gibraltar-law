@@ -254,55 +254,15 @@ Free
 
 Free
 
-25.  New motor vehicles imported by a licensed dealer
+25. Omitted
 
-(a) Subject to paragraph (b), with an engine capacity not exceeding 1500cc
-
-(aa) With a diesel engine capacity not exceeding 1500cc
-
-15%
-
-25%
+26. Omitted
 
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 1986-21
 
 Subsidiary 2017/190
-
-(b) In the case of a hybrid motor vehicle falling within (a)
-
-(c) Subject to paragraph (d), with an engine capacity exceeding 1500cc and not exceeding 2000cc
-
-(d)
-
-In the case of a hybrid motor vehicle falling within (c)
-
-(e) Subject to paragraph (f), with an engine capacity over 2000cc
-
-(f)
-
-In the case of a hybrid motor vehicle falling within (e)
-
-Free
-
-18%
-
-Free
-
-22%
-
-Free
-
-26. New motorcycles imported by a licensed dealer
-
-(a) With a 4 stroke engine of a capacity not exceeding 50cc 
-
-(b) With a 4 stroke engine of a capacity over 50cc
-
-6%
-
-15%
 
 27.  Printed material not specifically  printed for the purposes and use  of a business carried on in or from within Gibraltar and for which there is no financial payment made
 
@@ -340,9 +300,9 @@ Free
 
 35. Import duty on any one motor vehicle whomsoever is importing
 
-Capped at £25,000
+Capped at £35,000
 
-36. Electro-domestic appliances with an energy rating of A or higher for items labelled prior to 1 March 2021, or an energy rating of A, B, C or D for items labelled on or after 1 March 2021, imported by a business that is licensed to trade in such goods.
+35A. Import duty on any one pleasure vessel whomsoever is importing. Capped at £35,000 36. Electro-domestic appliances with an energy rating of A or higher for items labelled prior to 1 March 2021, or an energy rating of A, B, C or D for items labelled on or after 1 March 2021, imported by a business that is licensed to trade in such goods.
 
 In this paragraph “electro-domestic appliances” means domestic use cookers (oven/hob/grill), refrigerators, freezers, combination fridge-freezers, washing machines, tumble driers, combination washer driers, dishwashers, electric instantaneous or storage water heaters and immersion heaters.
 
@@ -352,11 +312,7 @@ In this paragraph “electro-domestic appliances” means domestic use cookers (
 
 10p
 
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190 38.  Electronic equipment and spare parts for use exclusively on vessels.
+38.  Electronic equipment and spare parts for use exclusively on vessels.
 
 Free
 
@@ -376,29 +332,37 @@ Free
 
 Free
 
-43. Private imports of goods other than tobacco, alcohol and plastic products with an invoiced value of less than £25.00.
+Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
+
+1986-21
+
+Subsidiary 2017/190 43. Private imports of goods other than tobacco, alcohol and plastic products with an invoiced value of less than £25.00.
 
 Free
 
-44.  New motor caravans imported by a licensed dealer, powered by a petrol or diesel engine, and with an engine capacity
+44. Omitted
 
-(a)  exceeding 1500cc but not exceeding 2000cc
-
-(b)  exceeding 2000cc
-
-15%
-
-18% 45. Duty on motor spirit supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
+45. Duty on motor spirit supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
 
 NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
-“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. A third of the applicabl e stated duty rate for motor spirits 46. Diesel fuel supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. A third of the applicabl e stated duty rate for motor spirits
+
+46. Diesel fuel supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
 
 NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
 “Diesel fuel” means Automotive Gasoil supplied in litres as contained in the Integrated Tariff Regulations.
 
-“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. 12p per litre 47. Materials, components or other goods imported for manufacture, production or processing in Gibraltar for an industrial activity in respect of which the Minister for Finance has issued a certificate. Free 48. Goods liable to import duty under Chapters 29 and 30 imported by a pharmacy registered and licensed under the Medical and Health Act,1997 and regulations made under it. Free
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. 12p per litre
+
+47. Materials, components or other goods imported for manufacture, production or processing in Gibraltar for an industrial activity in respect of which the Minister for Finance has issued a certificate. Free
+
+48. Goods liable to import duty under Chapters 29 and 30 imported by a pharmacy registered and licensed under the Medical and Health Act,1997 and regulations made under it. Free
+
+49. Bicycle accessories and spare parts.
+
+Free
 
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
@@ -414,15 +378,17 @@ Regulation 6(3)
 
 The corresponding rate under Schedule 1 shall  apply 2. On a transfer of ownership in Gibraltar in respect of a motor vehicle classified under paragraph 20(a) and (b) of Schedule 3
 
-with an engine capacity not exceeding 1500cc with an engine capacity exceeding 1500cc but not exceeding 2000cc
+with an engine capacity not exceeding 1500cc
+
+with an engine capacity exceeding 1500cc but not exceeding 2000cc
 
 with an engine capacity exceeding 2000cc
 
-25%
+15%
 
-30%
+18%
 
-35% 3. A vehicle ceases to be registered as a self drive vehicle under paragraph 22 of Schedule 3
+22% 3. A vehicle ceases to be registered as a self drive vehicle under paragraph 22 of Schedule 3
 
 with an engine capacity not exceeding 1500cc
 
@@ -436,23 +402,25 @@ with an engine capacity exceeding 2000cc
 
 22%
 
+4.A vehicle ceases to be classified as a taxi under  paragraph 23 of Schedule 3
+
+with an engine capacity not exceeding 1500cc
+
+15%
+
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 1986-21
 
 Subsidiary 2017/190
 
-4.A vehicle ceases to be  classified as a taxi under  paragraph 23 of Schedule 3
-
-with an engine capacity not exceeding 1500cc with an engine capacity exceeding 1500cc but not exceeding 2000cc
+with an engine capacity exceeding 1500cc but not exceeding 2000cc
 
 with an engine capacity exceeding 2000cc
 
-25%
+18%
 
-30%
-
-35%
+22%
 
 5. A vehicle ceases to operate under a Road Haulage Operators Licence under paragraph 24 of Schedule 3
 
@@ -466,10 +434,12 @@ Trailer
 
 with an engine capacity not exceeding 1500cc
 
-with an engine capacity exceeding 1500cc but not exceeding 2000cc with an engine capacity exceeding 2000cc
+with an engine capacity exceeding 1500cc but not exceeding 2000cc
 
-25%
+with an engine capacity exceeding 2000cc
 
-30%
+15%
 
-35%
+18%
+
+22%
