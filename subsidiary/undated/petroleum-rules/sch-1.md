@@ -142,9 +142,7 @@ day of
 
 (Signed)
 
-Licensing authority.
-
-Rule 34.
+Licensing authority. Rule 34.
 
 FORM D.-PERMIT FOR A PERAMBULATING TANK-WAGON OR SIMILAR VEHICLE.
 
