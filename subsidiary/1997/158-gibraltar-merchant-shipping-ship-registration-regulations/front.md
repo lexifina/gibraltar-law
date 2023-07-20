@@ -6,11 +6,9 @@ LN.1997/158
 
 Commencement 22.12.1997
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date LN. 2005/087 Sch. 1 1.7.2005 2016/006 r. 27(2)(f), Sch. 1 14.1.2016 2020/432 rr. 2, 2A-2C, 4(3A), 18(1A), (2)(c), 19(c), 27(1A)- (1B), 28(3), 34(1A), (2)(b), 35(b), 36(1), Schs.2-3, 9
 
-LN. 2005/087 Sch. 1 1.7.2005 2016/006 r. 27(2)(f), Sch. 1 14.1.2016 2020/432 rr. 2, 2A-2C, 4(3A), 18(1A), (2)(c), 19(c), 27(1A)- (1B), 28(3), 34(1A), (2)(b), 35(b), 36(1), Schs.2-3, 9
-
-1.1.2021 2021/112 r. 2C(1) 1.1.2021 2022/138 r. 2, Sch. 1, 3 1.6.2022
+1.1.2021 2021/112 r. 2C(1) 1.1.2021 2022/138 r. 2, Sch. 1, 3 1.6.2022 2023/198 r. 16(c), Sch. 3 20.7.2023
 
 ARRANGEMENT OF REGULATIONS.
 
