@@ -6,7 +6,9 @@ Act. No. 2019-16 Commencement 10.6.2019
 
 Assent 7.6.2019
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date
+
+LN 2023/199 ss. 40(1), 40(4) 20.7.2023
 
 ARRANGEMENT OF SECTIONS
 
@@ -38,7 +40,9 @@ Criminal and civil sanctions
 
 Powers of entry, search and seizure
 
-17. Power to stop and search persons 18. Power to stop and search vehicles 19. Power to board and search vessels and aircraft 20. Warrants authorising entry and search of premises 21. Further provision about search warrants 22. Powers of examination etc 23. Power to require production of documents etc 24. Powers of seizure etc 25. Authorised persons- powers of entry 26. Other powers of authorised persons 27. Excluded items 28. Further provision about seizure under section 24 or 26 29. Notices and records in relation to seized items 30. Powers of entry, search and seizure- supplementary provision 31. Offences of obstruction etc
+17. Power to stop and search persons 18. Power to stop and search vehicles 19. Power to board and search vessels and aircraft
+
+20. Warrants authorising entry and search of premises 21. Further provision about search warrants 22. Powers of examination etc 23. Power to require production of documents etc 24. Powers of seizure etc 25. Authorised persons- powers of entry 26. Other powers of authorised persons 27. Excluded items 28. Further provision about seizure under section 24 or 26 29. Notices and records in relation to seized items 30. Powers of entry, search and seizure- supplementary provision 31. Offences of obstruction etc
 
 Retention and disposal or return of items
 
@@ -48,9 +52,7 @@ Part V- Miscellaneous
 
 37. Application of Imports and Exports Act 1986 38. Contracts of insurance 39. Liability of corporate officers for offences by bodies corporate etc 40. Meaning of “ivory” 41. Regulations 42. Crown application
 
-Schedule 1 — Civil sanctions Part 1 — Monetary penalties Part 2 — Stop notices Part 3 — Enforcement undertakings Part 4 — Enforcement cost recovery notices Part 5 — Power to make supplementary provision etc by regulations
-
-Part 6 — General and supplemental Part 7 — Interpretation
+Schedule 1 — Civil sanctions Part 1 — Monetary penalties Part 2 — Stop notices Part 3 — Enforcement undertakings Part 4 — Enforcement cost recovery notices Part 5 — Power to make supplementary provision etc by regulations Part 6 — General and supplemental Part 7 — Interpretation
 
 Schedule 2 — Search warrants Part 1 — Preliminary Part 2 — Search warrants- applications and safeguards Part 3 — Execution of search warrants
 
