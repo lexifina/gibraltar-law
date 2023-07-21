@@ -1,14 +1,12 @@
 SCHEDULE 2
 
-PURPOSE FEE (£) REMARKS 1. Certified copy of any entry in the conversion register 11.00
+PURPOSE FEE (£) REMARKS 1. Certified copy of any entry in the conversion register 11.50 Rule 6(2) 2. Standard procedure conversion
 
-Rule 6(2) 2. Standard procedure conversion
+114.50 Rule 7(2) (d) 3. Procedure for housebound persons 113.50 Rule 8(3)(e) (The Registrar shall exercise his discretion and waive the standard procedure conversion fee)
 
-108.00 Rule 7(2) (d) 3. Procedure for housebound persons 107.00 Rule 8(3)(e) (The Registrar shall exercise his discretion and waive the standard procedure conversion fee)
+4. Procedure for detained persons 134.50 Rule 9(3)(e) (The Registrar shall exercise his discretion and waive the standard procedure conversion fee)
 
-4. Procedure for detained persons 126.50 Rule 9(3)(e) (The Registrar shall exercise his discretion and waive the standard procedure conversion fee)
-
-5. Special Procedure 16.00 Rule 10(2)(c)
+5. Special Procedure 17.00 Rule 10(2)(c)
 
 6. Conversion at approved premises:
 
@@ -16,6 +14,6 @@ Rule 6(2) 2. Standard procedure conversion
 
 (ii) outside normal working hours
 
-162.00
+172.00
 
-270.00 Rule 12(2) 7. General search of indexes of the conversion register 32.50 Rule 15(2)
+286.50 Rule 12(2) 7. General search of indexes of the conversion register 34.50 Rule 15(2)
