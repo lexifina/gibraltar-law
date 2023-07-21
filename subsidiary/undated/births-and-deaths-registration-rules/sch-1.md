@@ -174,9 +174,7 @@ contributed to by the employment followed at some time by the deceased.
 
 YES/NO
 
-[Delete whichever is not applicable]
-
-* This does not mean the mode of dying, such as Heart Failure, Asphixia, Asthenia, etc; it means the Disease, Injury or Complication which caused death.
+[Delete whichever is not applicable] * This does not mean the mode of dying, such as Heart Failure, Asphixia, Asthenia, etc; it means the Disease, Injury or Complication which caused death.
 
 A. Do you have any reason to suspect that the death might be due, directly or indirectly, to (a)  violence?                                                               YES/NO (b)  poison?                                                                  YES/NO (c)  privation or neglect?                                              YES/NO
 
@@ -538,9 +536,7 @@ Name of child’s mother
 
 Address of child’s mother
 
-Please now complete part A or B of this form as appropriate.
-
-Part A Joint request by mother and father for re-registration of birth
+Please now complete part A or B of this form as appropriate. Part A Joint request by mother and father for re-registration of birth
 
 We, the mother and the father of the child named above, request the re- registration of the child’s birth to show the following person as the biological father of the child - name of child’s father
 
