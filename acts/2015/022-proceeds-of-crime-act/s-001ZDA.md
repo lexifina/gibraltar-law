@@ -110,9 +110,9 @@ Cooperation with other FIUs.
 
 (a) include, where available, the name of the natural or legal person involved; and
 
-(b) be exchanged regardless of the type of associated predicate offences and even if the type of associated predicate offence that may be involved is not identified at the time of the exchange.”; and
+(b) be exchanged regardless of the type of associated predicate offences and even if the type of associated predicate offence that may be involved is not identified at the time of the exchange.
 
-(3) The Head shall be the designated contact person at the GFIU responsible for receiving requests from other FIUs.
+(3)  The Head shall designate at least one contact person at the GFIU responsible for receiving requests from other FIUs and in the absence of a designation the Head shall be the contact person.
 
 Contents of requests and mechanisms of exchange.
 
@@ -210,6 +210,16 @@ Access to information held by GFIU.
 
 (b) an entity outside Gibraltar performing similar functions to those of the GFIU, which may, at the initiative of the GFIU or on written request, obtain information which the Head reasonably believes is relevant to the identification of the proceeds of criminal activities or the combating of money laundering activities or similar offences in the country in which that entity is established;
 
+(ba) a competent authority, agency or department outside Gibraltar whose functions are connected with or related to−
+
+(i) the prevention of abuse of financial systems or the prevention of money laundering, terrorist financing or proliferation financing;
+
+(ii) the prevention, investigation, detection or prosecution of criminal conduct; or
+
+(iii) the safeguarding against, and the prevention of, threats to national security,
+
+which may, at the initiative of the GFIU or on written request, obtain information which the Head reasonably believes is relevant to the fulfilment of those functions, or any of them.
+
 (c) any person who may, at the initiative of the GFIU or on written request, be provided with information regarding the steps taken by the GFIU in connection with transactions reported by such person, unless the Head reasonably believes that disclosure to such person of the information requested could–
 
 (i) inhibit the achievement of the GFIU’s objectives, the performance of its functions, or the achievement of the objectives or the performance of the functions of a law enforcement or Government body; or
@@ -302,8 +312,6 @@ Interpretation of Part II and Part III.
 
 (2) In this Part and in Part III–
 
-“the Money Laundering Directive” means Directive (EU) 2015/849  of the European Parliament and of the Council of 20 May 2015 on  the prevention of the use of the financial system  for the purposes of money  laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the
-
-Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018, and as the same may from time to time be further amended.
+“the Money Laundering Directive” means Directive (EU) 2015/849  of the European Parliament and of the Council of 20 May 2015 on  the prevention of the use of the financial system  for the purposes of money  laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018, and as the same may from time to time be further amended.
 
 (3)  For the avoidance of doubt, “independent legal professional” includes, but is not limited to, a barrister, solicitor or other lawyer.
