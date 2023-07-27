@@ -208,6 +208,22 @@ SEXUAL OFFENCES FOR PURPOSES OF PART 13
 
 (C) made the subject of a community service order of at least 120 hours.
 
+34A. An offence under section 292A (sending etc. photograph or film of genitals) if –
+
+(a) where the offender was under 18, the offender is or has been sentenced in respect of the offence to imprisonment for a term of at least 12 months;
+
+(b) in any other case-
+
+(i) the victim was under 18; or
+
+(ii) the offender, in respect of the offence or finding, is or has been-
+
+(A) sentenced to a term of imprisonment;
+
+(B) detained in a hospital; or
+
+(C) made the subject of a community service order of at least 120 hours.
+
 35.  An offence under section 293 (Voyeurism) or section 293A (Voyeurism: additional offences) if
 
 (a) in the case of an offender under 18 - he is or has been sentenced in respect  of the offence to imprisonment for not less than 12 months;
@@ -233,6 +249,12 @@ SEXUAL OFFENCES FOR PURPOSES OF PART 13
 (i) sentenced to imprisonment; or
 
 (ii) detained in a hospital.
+
+36A.  An offence under section 499A of the Crimes Act 2011 (possession of extreme pornographic images) if the offender –
+
+(a) was 18 or over; and
+
+(b) is sentenced in respect of the offence to imprisonment for a term of at least 2 years.
 
 37. An offence under section 14(1)(b) of the Imports and Exports Act 1986 (Prohibited imports) in relation to indecent or obscene articles), if–
 

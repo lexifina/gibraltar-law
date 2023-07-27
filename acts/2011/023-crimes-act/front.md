@@ -12,17 +12,15 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 18.12.2013 Act. 2014-03 s. 547 27.2.2014 LN. 2014/217 s. 385(1A), (2) 1.12.2014 Act. 2014-33 s. 555(1)(b) 1.1.2015 LN. 2015/140 ss. 361(1), 366(1)-(4), 366A, 367(1)(b), 370(1A), 370(3A), 384(3A)-(3B), 385
 
-4.9.2015 Act. 2017-05 ss. 97B-97E, 227(1)(a), 227A, Sch. 3 18.5.20173 LN. 2017/118 Sch. 4 26.6.2017 Act. 2016-18 ss. 194(2)(c), 212(1), 305(1), 475(1)(b), Schs. 3-4 23.4.2018 2017-10 s. 19(5)(c)(i) 13.6.2018 LN. 2018/148 Sch. 10 28.6.2018 Act. 2018-24 ss. 293A, 294(3), Sch. 3 30.11.20184 2018-23 s. 594 10.12.2018 2019-05 s. 22(2)(a), (c) 21.3.2019 2021-09 ss. 290(3)-(4), 291(3)-(4) 9.2.2021
+4.9.2015 Act. 2017-05 ss. 97B-97E, 227(1)(a), 227A, Sch. 3 18.5.20173 LN. 2017/118 Sch. 4 26.6.2017 Act. 2016-18 ss. 194(2)(c), 212(1), 305(1), 475(1)(b), Schs. 3-4 23.4.2018 2017-10 s. 19(5)(c)(i) 13.6.2018 LN. 2018/148 Sch. 10 28.6.2018 Act. 2018-24 ss. 293A, 294(3), Sch. 3 30.11.20184 2018-23 s. 594 10.12.2018 2019-05 s. 22(2)(a), (c) 21.3.2019 2021-09 ss. 290(3)-(4), 291(3)-(4) 9.2.2021 2019-19 ss. 163A-163E 15.7.20215
 
-1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136 3 Commencement notice see LN. 2017/097 4 Commencement notice see LN. 2018/271
+1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136 3 Commencement notice see LN. 2017/097 4 Commencement notice see LN. 2018/271 5 Commencement notice see LN. 2021/328
 
-2019-19 ss. 163A-163E 15.7.20215 2022-11 ss. 315G-315M 27.10.2022 2023-03 s. 174 26.1.2023 2023-14 ss. 34(A1), 35(1), 298 23.3.2023 2023-06 s. 95(1), 97B(1)-(2), (2A), (4)(a), (5)(a)-(b), (8), 97D(5)(c), 167A
+2022-11 ss. 315G-315M 27.10.2022 2023-03 s. 174 26.1.2023 2023-14 ss. 34(A1), 35(1), 298 23.3.2023 2023-06 s. 95(1), 97B(1)-(2), (2A), (4)(a), (5)(a)-(b), (8), 97D(5)(c), 167A
 
-6.7.2023 LN. 2023/184 Sch. 3 6.7.2023
+6.7.2023 LN. 2023/184 Sch. 3 6.7.2023 2023-30 ss. 96A-96E, 292A, 499A-499F, Schs. 3, 4A 27.7.2023 2023-32 s. 577A 27.7.2023
 
 Transposing: Decision 2005/222/JHA Directive 2011/36/EU Directive 2011/93/EU Directive 2013/40/EU
-
-5 Commencement notice see LN. 2021/328
 
 ARRANGEMENT OF SECTIONS
 
@@ -120,7 +118,7 @@ Course of conduct
 
 Sending letters, etc. with intent to cause distress
 
-96. Offence of sending letters etc. with intent to cause distress or anxiety.
+96. Offence of sending letters etc. with intent to cause distress or anxiety. 96A. Offences of sending or showing flashing images electronically. 96B. Exemptions from offence under section 96A 96C. Recognised news publisher. 97D. Liability of corporate officers. 98E. Extra-territorial application and jurisdiction.
 
 Improper use of public electronic communications network
 
@@ -144,9 +142,9 @@ Racial hatred, religious hatred or hatred on the grounds of sexual orientation �
 
 Racial hatred, religious hatred or hatred on the grounds of sexual orientation – Supplementary
 
-105. Powers of entry and search. 106. Script as evidence of what was performed. 107. Power to make copies of scripts. 108. Power to order forfeiture. 109. Savings for reports of parliamentary or judicial proceedings. 110. Procedure and penalties.
+105. Powers of entry and search.
 
-111. Freedom of expression (religious). 111A.  Freedom of expression (sexual orientation).
+106. Script as evidence of what was performed. 107. Power to make copies of scripts. 108. Power to order forfeiture. 109. Savings for reports of parliamentary or judicial proceedings. 110. Procedure and penalties. 111. Freedom of expression (religious). 111A.  Freedom of expression (sexual orientation).
 
 Aggravated offences
 
@@ -178,7 +176,9 @@ Explosive substances offences
 
 Miscellaneous provisions
 
-144. Inquiry ordered by the Minister. 145. Procedure and saving. 146. Explosives found on vessels. 147. Seizure and detention of explosive liable to forfeiture. 148. Forfeiture of subject-matter of offence.
+144. Inquiry ordered by the Minister.
+
+145. Procedure and saving. 146. Explosives found on vessels. 147. Seizure and detention of explosive liable to forfeiture. 148. Forfeiture of subject-matter of offence.
 
 PART 10 OFFENCES AGAINST THE PERSON
 
@@ -196,7 +196,9 @@ Concealing the birth of a child
 
 Endangering life
 
-165. Impeding rescue from shipwreck. 166. Wounding, etc. with intent to do grievous bodily harm. 167. Malicious wounding. 167A. Strangulation or suffocation. 168. Attempting to choke, etc. with intent to facilitate indictable offence. 169. Using drugs to facilitate offence. 170. Administering poison. 171. Abandoning children or young persons. 172. Cruelty to young persons.
+165. Impeding rescue from shipwreck. 166. Wounding, etc. with intent to do grievous bodily harm. 167. Malicious wounding. 167A. Strangulation or suffocation.
+
+168. Attempting to choke, etc. with intent to facilitate indictable offence. 169. Using drugs to facilitate offence. 170. Administering poison. 171. Abandoning children or young persons. 172. Cruelty to young persons.
 
 Causing or intending bodily injury
 
@@ -246,9 +248,7 @@ PART 12 SEXUAL OFFENCES
 
 Rape and related offences
 
-213. Rape. 214. Assault by penetration. 215. Sexual assault.
-
-216. Causing a person to engage in sexual activity without consent.
+213. Rape. 214. Assault by penetration. 215. Sexual assault. 216. Causing a person to engage in sexual activity without consent.
 
 Rape etc. against children under 13
 
@@ -268,9 +268,7 @@ Familial child sex offences
 
 Offences against persons with a mental disorder impeding choice
 
-241. Sexual activity with a person with a mental disorder impeding choice.
-
-242. Causing or encouraging or assisting a person with a mental disorder impeding choice to engage in sexual activity. 243. Engaging in sexual activity in the presence of a person with a mental disorder impeding choice. 244. Causing a person with a mental disorder impeding choice to watch a sexual act.
+241. Sexual activity with a person with a mental disorder impeding choice. 242. Causing or encouraging or assisting a person with a mental disorder impeding choice to engage in sexual activity. 243. Engaging in sexual activity in the presence of a person with a mental disorder impeding choice. 244. Causing a person with a mental disorder impeding choice to watch a sexual act.
 
 Inducements etc. to persons with a mental disorder
 
@@ -286,7 +284,9 @@ Indecent photographs of children
 
 Abuse of children through prostitution and pornography
 
-262. Paying for sexual services of a child. 263. Causing or encouraging or assisting child prostitution or pornography. 264. Controlling a child prostitute or a child involved in pornography. 265. Arranging or facilitating child prostitution or pornography. 266. Sections 263 to 265: Interpretation.
+262. Paying for sexual services of a child. 263. Causing or encouraging or assisting child prostitution or pornography. 264. Controlling a child prostitute or a child involved in pornography. 265. Arranging or facilitating child prostitution or pornography.
+
+266. Sections 263 to 265: Interpretation.
 
 Pornographic performances involving children
 
@@ -310,11 +310,13 @@ Preparatory offences
 
 Sex with an adult relative
 
-290. Sex with an adult relative: Penetration. 291. Sex with an adult relative: Consenting to penetration.
+290. Sex with an adult relative: Penetration.
+
+291. Sex with an adult relative: Consenting to penetration.
 
 Other offences
 
-292. Genital exposure. 293. Voyeurism. 294. Voyeurism: Interpretation. 295. Intercourse with an animal. 296. Sexual penetration of a corpse. 297. Sexual activity in a public lavatory.
+292. Genital exposure. 292A. Sending etc. photograph or film of genitals. 293. Voyeurism. 294. Voyeurism: Interpretation. 295. Intercourse with an animal. 296. Sexual penetration of a corpse. 297. Sexual activity in a public lavatory.
 
 Miscellaneous provisions
 
@@ -326,9 +328,9 @@ PART 13 SEX OFFENDERS (NOTIFICATION AND ORDERS)
 
 Notification requirements
 
-306. Persons subject to notification requirements. 307. The notification period. 308. Notification requirements: Initial notification. 309. Notification requirements: Changes. 310. Notification requirements: Periodic notification. 311. Notification requirements: Travel outside Gibraltar. 312. Method of notification and related matters. 313. Young offenders: Parental directions. 314. Parental directions: Variation, renewal and discharge. 315. Offences relating to notification. 315A.  Review of indefinite notification requirements: qualifying relevant offender. 315B.   Review of indefinite notification requirements: application for review and qualifying dates. 315C.  Review of indefinite notification requirements: determination of application for review. 315D.  Review of indefinite notification requirements: factors applying to determination under section 315C. 315E.  Review of indefinite notification requirements: appeals. 315F.  Review of indefinite notification requirements: guidance.
+306. Persons subject to notification requirements. 307. The notification period. 308. Notification requirements: Initial notification. 309. Notification requirements: Changes. 310. Notification requirements: Periodic notification. 311. Notification requirements: Travel outside Gibraltar. 312. Method of notification and related matters. 313. Young offenders: Parental directions. 314. Parental directions: Variation, renewal and discharge. 315. Offences relating to notification. 315A.  Review of indefinite notification requirements: qualifying relevant offender. 315B.   Review of indefinite notification requirements: application for review and qualifying dates. 315C.  Review of indefinite notification requirements: determination of application for review.
 
-315G. Review of notification requirements: cases where the victim was 16 or over when the offence was committed and the activity was consensual. 315H. Review of notification requirements: application for review. 315I. Review of notification requirements: determination of application for review. 315J. Review of notification requirements: factors applying to determinations under section 315G. 315K. Review of notification requirements: appeals. 315L. Review of indefinite notification requirements: guidance. 315M. Review of notification requirements: successive applications under section 315G. 316. Certificates for purposes of Part.
+315D.  Review of indefinite notification requirements: factors applying to determination under section 315C. 315E.  Review of indefinite notification requirements: appeals. 315F.  Review of indefinite notification requirements: guidance. 315G. Review of notification requirements: cases where the victim was 16 or over when the offence was committed and the activity was consensual. 315H. Review of notification requirements: application for review. 315I. Review of notification requirements: determination of application for review. 315J. Review of notification requirements: factors applying to determinations under section 315G. 315K. Review of notification requirements: appeals. 315L. Review of indefinite notification requirements: guidance. 315M. Review of notification requirements: successive applications under section 315G. 316. Certificates for purposes of Part.
 
 Information relating to notification
 
@@ -344,9 +346,9 @@ Sexual offences prevention orders (SOPOs)
 
 Foreign travel orders
 
-333. Foreign travel orders: Application and grounds. 334. Section 333: Interpretation. 335. Section 333: Qualifying offenders. 336. Foreign travel orders: Effect. 337. Foreign travel orders: Variation, renewal and discharge. 338. Foreign travel orders: Appeals.
+333. Foreign travel orders: Application and grounds. 334. Section 333: Interpretation.
 
-339. Breach of a foreign travel order. 340 Entry prohibition orders.
+335. Section 333: Qualifying offenders. 336. Foreign travel orders: Effect. 337. Foreign travel orders: Variation, renewal and discharge. 338. Foreign travel orders: Appeals. 339. Breach of a foreign travel order. 340 Entry prohibition orders.
 
 Risk of sexual harm orders (RSHOs)
 
@@ -366,9 +368,7 @@ PART 15 COMPUTER MISUSE
 
 Computer misuse offences
 
-362. Unauthorised access to computer material. 363. Unauthorised access with intent to commit or facilitate commission of further offences. 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc.
-
-365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364, 365 or 366A. 366A.  Unauthorised acts causing, or creating risk of, serious damage. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
+362. Unauthorised access to computer material. 363. Unauthorised access with intent to commit or facilitate commission of further offences. 364. Unauthorised acts with intent to impair, or with recklessness as to impairing, operation of computer, etc. 365. Unauthorised interception of computer service. 366. Making, supplying or obtaining articles for use in offence under section 362, 364, 365 or 366A. 366A.  Unauthorised acts causing, or creating risk of, serious damage. 367. Unauthorised disclosure of access code. 368. Attempts and ancillary offences punishable as offences.
 
 Jurisdiction
 
@@ -384,9 +384,7 @@ PART 16 THEFT AND FRAUD
 
 Definition of theft
 
-391. Basic definition of theft. 392. “Dishonestly”. 393. “Appropriates”.
-
-394. “Property”. 395. “Belonging to another”. 396. “With the intention of permanently depriving the other of it”.
+391. Basic definition of theft. 392. “Dishonestly”. 393. “Appropriates”. 394. “Property”. 395. “Belonging to another”. 396. “With the intention of permanently depriving the other of it”.
 
 Theft, robbery, burglary etc.
 
@@ -406,9 +404,9 @@ Blackmail
 
 Fraud
 
-415. Offence of fraud. 416. Fraud by false representation. 417. Fraud by failing to disclose information. 418. Fraud by abuse of position. 419. Possession etc. of articles for use in frauds. 420. Making or supplying articles for use in frauds. 421. Participating in fraudulent business carried on by sole trader etc. 422. Obtaining services dishonestly.
+415. Offence of fraud. 416. Fraud by false representation. 417. Fraud by failing to disclose information. 418. Fraud by abuse of position.
 
-423. Fraud: Definitions. 424. Fraud: Evidence.
+419. Possession etc. of articles for use in frauds. 420. Making or supplying articles for use in frauds. 421. Participating in fraudulent business carried on by sole trader etc. 422. Obtaining services dishonestly. 423. Fraud: Definitions. 424. Fraud: Evidence.
 
 Offences akin to fraud
 
@@ -428,7 +426,9 @@ Forgery and kindred offences
 
 Counterfeiting and kindred offences
 
-442. Offences of counterfeiting notes and coins. 443. Offences of passing, etc. counterfeit notes and coins. 444. Offences involving the custody or control of counterfeit notes and coins. 445. Offences involving the making, etc. of counterfeiting materials and implements. 446. Meaning of “counterfeit”. 447. The offence of reproducing currency notes. 448. Offences of making, etc. imitation protected coins. 449. Prohibition of importation or exportation of counterfeit notes and coins.
+442. Offences of counterfeiting notes and coins. 443. Offences of passing, etc. counterfeit notes and coins. 444. Offences involving the custody or control of counterfeit notes and coins. 445. Offences involving the making, etc. of counterfeiting materials and implements. 446. Meaning of “counterfeit”.
+
+447. The offence of reproducing currency notes. 448. Offences of making, etc. imitation protected coins. 449. Prohibition of importation or exportation of counterfeit notes and coins.
 
 Penalties and powers
 
@@ -452,11 +452,11 @@ False statements
 
 Miscellaneous provisions
 
-470. Corroboration. 471. Proof of former trial. 472. Form of indictment. 473. Saving for corrupt practice offence.
+470. Corroboration. 471. Proof of former trial.
 
-PART 19
+472. Form of indictment. 473. Saving for corrupt practice offence.
 
-OFFENCES RELATING TO JUDICIAL PROCEEDINGS
+PART 19 OFFENCES RELATING TO JUDICIAL PROCEEDINGS
 
 Reporting, etc.
 
@@ -480,11 +480,17 @@ Harmful publications
 
 Obscene publications
 
-490. Test of obscenity. 491. Publication and possession of obscene matter. 492. Negatives, etc. for production of obscene articles. 493. Common law offence abolished. 494. Powers of search and seizure. 495. Forfeiture of seized articles: Supplementary provisions. 496. Forfeiture on conviction. 497. Defence of public good.
+490. Test of obscenity. 491. Publication and possession of obscene matter. 492. Negatives, etc. for production of obscene articles. 493. Common law offence abolished.
+
+494. Powers of search and seizure. 495. Forfeiture of seized articles: Supplementary provisions. 496. Forfeiture on conviction. 497. Defence of public good.
 
 Indecent displays
 
 498. Indecent displays: Offence. 499. Indecent displays: Powers of entry and seizure.
+
+PART 20A EXTREME PORNOGRAPHY
+
+499A. Possession of extreme pornographic images. 499B. Exclusion of classified films etc. 499C. Defences: general. 499D. Defence: participation in consensual acts. 499E. Penalties etc. for possession of extreme pornographic images. 499F. Special rules relating to providers of information society services.
 
 PART 21 DRUGS MISUSE
 
@@ -506,9 +512,7 @@ Vienna Convention
 
 Offences and enforcement
 
-518. Liabilities of occupiers. 519. Prohibitions concerning opium. 520. Prohibition of supply, etc. of articles for administering or preparing controlled drugs.
-
-521. Miscellaneous offences. 522. Assisting, etc. commission of offence outside Gibraltar. 523. Powers of search and seizure. 524. Prosecution and punishment.
+518. Liabilities of occupiers. 519. Prohibitions concerning opium. 520. Prohibition of supply, etc. of articles for administering or preparing controlled drugs. 521. Miscellaneous offences. 522. Assisting, etc. commission of offence outside Gibraltar. 523. Powers of search and seizure. 524. Prosecution and punishment.
 
 Miscellaneous
 
@@ -568,11 +572,13 @@ Prosecution and penalties
 
 Miscellaneous
 
-577. Territorial application of this Part. 578. Legitimate purpose as a defence. 579. Bribery offences by corporate bodies. 580. Bribery offences by partnerships. 581. Application to Crown. 582. Abolition of common law offences.
+577. Territorial application of this Part. 577A. Offences on Gibraltar registered vessels. 578. Legitimate purpose as a defence. 579. Bribery offences by corporate bodies. 580. Bribery offences by partnerships. 581. Application to Crown. 582. Abolition of common law offences.
 
 PART 25 DANGEROUS DOGS
 
-583. Prohibition of dangerous dogs. 584. Export or destruction of dangerous dogs. 585. Offences. 586. Stray dangerous dogs. 587. Entry and seizure. 588. Compensation. 589. General Exemptions. 590. Exemption for individuals. 591. Consequences of exemption.
+583. Prohibition of dangerous dogs. 584. Export or destruction of dangerous dogs.
+
+585. Offences. 586. Stray dangerous dogs. 587. Entry and seizure. 588. Compensation. 589. General Exemptions. 590. Exemption for individuals. 591. Consequences of exemption.
 
 PART 26 SECURITY AND THE ARMED FORCES
 
@@ -595,6 +601,8 @@ SCHEDULE 2 Offences to which sections 298 and 299 apply
 SCHEDULE 3 Sexual offences for purposes of Part 13
 
 SCHEDULE 4 Other offences for purposes of Part 13
+
+SCHEDULE 4A Exceptions for mere conduits
 
 SCHEDULE 5 Controlled drugs
 
