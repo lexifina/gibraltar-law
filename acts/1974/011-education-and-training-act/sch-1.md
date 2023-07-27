@@ -8,17 +8,13 @@ Constitution of School Committee.
 
 1. A school committee (hereinafter called “the Committee”) shall consist of not less than seven persons selected for their interest in and knowledge of education, and shall be appointed by the Minister as follows;–
 
-(a)  one member shall be appointed after consultation with–
+(a)  Deleted
 
-(i) in the case of a school in which the pupils are predominantly of the Roman Catholic faith, the Bishop;
-
-(ii) in the case of a school in which the pupils are predominantly of another faith, the local head of that faith;
-
-(b) not less than four members, not less than half of whom shall represent the parents or guardians of pupils attending the school;
+(b) not less than five members, not less than half of whom shall represent the parents or guardians of pupils attending the school;
 
 (c)  the headteacher or headteachers of the school;
 
-(d)  one member (not being a member of the staff of the school) appointed after consultation with any association representative of the teachers of Gibraltar.
+(d)  one member appointed after consultation with any association representative of the teachers of Gibraltar.
 
 Secretary.
 
@@ -26,11 +22,11 @@ Secretary.
 
 Term of office.
 
-3. The members of the Committee (other than ex officio members) shall   hold   office   for three years, and shall be eligible for re-appointment.
+3. The members of the Committee (other than ex officio members) shall hold office for three years, and shall be eligible for re-appointment.
 
 Termination of appointment.
 
-4. The Minister may in his discretion terminate the appointment of any member of the Committee other than an ex officio member.
+4. The Minister may remove from office on the grounds of inability, neglect of duty, insolvency or misconduct any appointed member of the Committee.
 
 Vacancy.
 
@@ -40,45 +36,39 @@ Procedure.
 
 6. The committee may, subject to such regulations as may be prescribed, make standing orders regulating their own procedure.
 
-PART II. COMMITTEE FOR COLLEGE OF FURTHER EDUCATION.
+PART II. COMMITTEE FOR THE GIBRALTAR COLLEGE.
 
-Section 29(2)
+section 29(2)
 
-Constitution of committee of College of Further Education.
+Constitution of committee of the Gibraltar College.
 
-1. (1) The committee of the College of Further Education (hereinafter called “the Committee”) shall consist of not less than ten persons selected for their interest in and knowledge of education and shall be constituted as follows:–
+1.  The committee of the Gibraltar College (hereinafter called “the Committee”) shall consist of not less than seven persons selected for their interest in and knowledge of education, and shall be appointed by the Minister as follows–
 
-(a)  the Director of Education or his nominee, who shall be the Chairman;
+(a) not less than five members, not less than half of whom shall represent the parents or guardians of pupils attending the Gibraltar College;
 
-(b)  persons appointed by the Minister from within persons, groups or organisations having an interest in the advancement and promotion of further education.
+(b) the headteacher or headteachers of the Gibraltar College;
 
-Members of the Committee not to be financially interested in the college.
-
-(2) No member of the Committee shall hold any financial interest in the college or receive remuneration for his services, or be financially interested in the supply of work or goods to or for the purpose of the college.
-
-Persons ineligible to be members of the Committee.
-
-(3) No parent, brother, sister, husband or wife of a member of the staff of the college shall be eligible to be a member.
-
-Term of office.
-
-2. The members of the Committee (other than the ex officio member) shall hold office for two years, and shall be eligible for re-appointment.
-
-Termination of appointment.
-
-3. The Minister may in his discretion terminate the appointment of any member of the Committee other than the ex officio member.
-
-Vacancy.
-
-4. The powers of the Committee may be exercised notwithstanding any vacancy in their number.
-
-Procedure.
-
-5. The committee may, subject to such regulations as may be prescribed, make standing orders regulating their own procedure.
+(c) one member (not being a member of the staff of the Gibraltar College) appointed after consultation with any association representative of the teachers of Gibraltar.
 
 Secretary.
 
-6. The Principal of the College or his nominee shall be secretary to the Committee.
+2.  The Director or his nominee shall be secretary to the Committee.
+
+Term of office.
+
+3.  The members of the Committee (other than ex officio members) shall hold office for three years, and shall be eligible for re-appointment.
+
+Termination of appointment.
+
+4.  The Minister may remove from office on the grounds of inability, neglect of duty, insolvency or misconduct any appointed member of the Committee.
+
+Vacancy.
+
+5.  The powers of the Committee may be exercised notwithstanding any vacancy in their number.
+
+Procedure.
+
+6.  The committee may, subject to such regulations as may be prescribed, make standing orders regulating their own procedure.
 
 PART III. MANAGEMENT OF SCHOOLS AND COLLEGES.
 
