@@ -24,7 +24,7 @@ Act. 1972-06 s. 47
 
 1999-19 s. 43 26.8.1999 2007-17 ss. 3, 4(1) & (2), 6, 29, 48, 99 14.6.2007 2016-08 ss. 2(1), 67A, 67B, 67C, 67D, 67E, 68(1), 71A, Sch. 5
 
-10.3.2016 2021-08 ss. 2(1), 4(1), (3)-(4), 100-113, Schs.1A, 6 9.2.2021
+10.3.2016 2021-08 ss. 2(1), 4(1), (3)-(4), 100-113, Schs.1A, 6 9.2.2021 2023-29 Sch. 1A 27.7.2023
 
 English sources
 
@@ -78,9 +78,7 @@ PART 6
 
 Property and Funds of Societies.
 
-50. Investment of funds. 51. Holding of land. 52. Property how vested and devolution on death, etc. 53. Legal proceedings. 54. Discharge of mortgages. 55. Certificate of registry of mortgage, etc. 56. Punishment of fraud or misappropriation in relation to property of society. 57. Extent of liability of trustees. 58. Loans to members.
-
-59. Separate loan fund. 60. Officers in care of money.
+50. Investment of funds. 51. Holding of land. 52. Property how vested and devolution on death, etc. 53. Legal proceedings. 54. Discharge of mortgages. 55. Certificate of registry of mortgage, etc. 56. Punishment of fraud or misappropriation in relation to property of society. 57. Extent of liability of trustees. 58. Loans to members. 59. Separate loan fund. 60. Officers in care of money.
 
 PART 7
 
@@ -134,7 +132,9 @@ PART 15
 
 Confidentiality and cooperation
 
-100. Use of confidential information. 101. Cooperation agreements. 102. Cooperation with other authorities. 103. Refusing to share information. 104. Providing assistance to other registrars. 105. Refusing to provide assistance.
+100. Use of confidential information. 101. Cooperation agreements. 102. Cooperation with other authorities. 103. Refusing to share information.
+
+104. Providing assistance to other registrars. 105. Refusing to provide assistance.
 
 PART 16
 
