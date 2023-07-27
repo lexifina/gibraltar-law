@@ -8,7 +8,7 @@ Assent 20.4.2006
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/521 s. 7(b) 1.1.2021
+LN.2020/521 s. 7(b) 1.1.2021 Act.2023-31 s. 5, 8, 8A, 9(1)(a)-(b), 10, 16A 27.7.2023
 
 EU legislation/International agreements involved: United Nations Convention Against Transnational Organised Crime
 
@@ -26,10 +26,10 @@ PART II Extradition
 
 PART III Mutual Legal Assistance
 
-8. Application of the Mutual Legal Assistance (International) Act 2005. 9. External confiscation orders.
+8. Application of the Mutual Legal Assistance (International) Act 2005. 8A. Refusal and postponement of assistance. 9. External confiscation orders.
 
 PART IV Miscellaneous
 
-10.  Corruption. 11.  Television link evidence. 12.  Protection of Witnesses. 13.  Controlled delivery. 14.  Liability of corporate bodies. 15.  Rules of Court. 16.  Regulations.
+10.  Deleted. 11.  Television link evidence. 12.  Protection of Witnesses. 13.  Controlled delivery. 14.  Liability of corporate bodies. 15.  Rules of Court. 16.  Regulations. 16A. Power to amend the Act.
 
 AN ACT TO MAKE PROVISION FOR THE IMPLEMENTATION OF THE UNITED NATIONS CONVENTION AGAINST TRANSNATIONAL ORGANISED CRIME.
