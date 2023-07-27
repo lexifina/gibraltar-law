@@ -10,7 +10,7 @@ Act. 2006-44 s. 62(1)(a) 1.10.2006 LN. 2011/070 ss. 2, 4(1A), 18(3)(aa), (cc), (
 
 26.5.2011 2016/099 ss. 10, 10A-10D, 11(1), 12 30.4.2016 Act. 2018-19 s. 53(5) 26.9.2019 LN. 2020/506 ss. 2(1), (8), 4(1A)(aa), (1B)-(iD), 9(1)(a), 19(1)(a)(i), (2)(b)(i), (c), (3), (a), (c), (e), (5), 20(1)(a)-(c), (2)- (3), 21(1), 22(1), 23(2)-(3), 24A(7), (9), 26(6)(b), (8), 32(1), 34A(1)-(2), (4), (4A), (8)-(9), 34B(1), (3), (3A)-(3B), 36A, 38(5), 39(2), 40(6A)-(6B), (7A)- (7E), (9)(a)-(b), (10), 40A-40C, 41(1), 48A-48E, 50(1), (b), (2)-(3), (a), (4)-(6), 52(1), (b)-(c), (2), 58A, 59(2), (a)-(b), (3), (a)-(h), (3A)-(3C), (5)(b), (18)-(27), 59B(1), (4A)-(4E), (6), 59C-59E, 61(1A)- (1C), 61A, 62(4), (b)-(c), (ca), (5)-(8), 65A-65C, 91(12), 96(2A), (5A), (5AA), Sch.2-3
 
-24.12.2020 2019/245 ss. 28(1)-(2), 59(8) 1.1.2021
+24.12.2020 2019/245 ss. 28(1)-(2), 59(8) 1.1.2021 2023-30 s. 19A 27.7.2023
 
 Transposing: Directive 2002/19/EC, Directive 2002/20/EC Directive 2002/21/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2002/77/EC Directive 2009/140/EC Directive (EU) 2018/1972
 
@@ -32,7 +32,7 @@ PART III FUNCTIONS AND OBJECTIVES OF THE AUTHORITY.
 
 General functions and objectives of the Authority.
 
-18. General functions of the Authority. 19. Objectives of the Authority. 20. Standardisation. 21. Harmonisation procedures.
+18. General functions of the Authority. 19. Objectives of the Authority. 19A. Duty to promote media literacy. 20. Standardisation. 21. Harmonisation procedures.
 
 Co-operation with the European Commission and the regulatory authorities in the Member States
 
@@ -96,9 +96,7 @@ Miscellaneous
 
 Offences under Part VI
 
-74. Offence of keeping a radiocommunications station or radiocommunications apparatus available for unauthorised use.
-
-75. Causing damage or obstruction. 76. Misleading messages and interception and disclosure of messages. 77. Deliberate interference. 78. Forfeiture of apparatus. 79. Failing to comply with section 67. 80. Failing to comply with section 68. 81. Failing to comply with section 69.
+74. Offence of keeping a radiocommunications station or radiocommunications apparatus available for unauthorised use. 75. Causing damage or obstruction. 76. Misleading messages and interception and disclosure of messages. 77. Deliberate interference. 78. Forfeiture of apparatus. 79. Failing to comply with section 67. 80. Failing to comply with section 68. 81. Failing to comply with section 69.
 
 Regulations for the purposes of Part VI
 
@@ -120,9 +118,7 @@ Dispute resolution
 
 PART VIII FINAL PROVISIONS
 
-99. Transitional provisions and repeals.
-
-100. Payments to the Consolidated Fund. 101. Application to the Crown. 102. Force Majeure.
+99. Transitional provisions and repeals. 100. Payments to the Consolidated Fund. 101. Application to the Crown. 102. Force Majeure.
 
 SCHEDULE 1
 
