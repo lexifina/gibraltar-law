@@ -6,7 +6,7 @@ GOODS THE IMPORTATION OF WHICH IS NOT LICENSED UNDER REGULATION 3.
 
 PART I.
 
-1. Gold bullion and gold coins.
+1. Gold bullion and gold coins (other than any gold bullion or gold coin which constitutes an antiquity or object of interest within the meaning of the Heritage and Antiquities Act 2018).
 
 2.Petrol.
 
