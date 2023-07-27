@@ -42,7 +42,7 @@ Regs. of 28.5.1970 s. 20 Act. 1971-14 s. 28(2)
 
 1.7.20153 2015-19 ss. 29 6.8.2015 2016-18 s. 16, Sch. 2 23.4.2018 2017-10 Sch. 2 13.6.2018 LN. 2020/523 ss. 72A-72G 1.1.2021 2020/528 ss. 41, 42(1), 64(1), 67 1.1.2021 2021/481 Sch. 4 9.12.2021 Act. 2017-15 ss. 2, 27W(5), (10), 28(1)(d), (3), 29(1)(c), 31(1)-(2), 32, 34(1)(aa), 35
 
-30.12.20221
+30.12.20221 LN. 2023/216 ss, 39-72 27.7.2023
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
@@ -112,35 +112,9 @@ PART V. MISCELLANEOUS.
 
 36B.  Recovery of insurance premiums by way of costs. 37. Rules regulating funds in court. 38. Rules of court. 38A. Civil Procedure Rules. 38B. Masters.
 
-PART VI EUROPEAN LAWYERS: INTRODUCTORY
+PARTS VI to XI Deleted
 
-39. Purpose of this Part and Part VII to XI 40. Transitional provisions. 41. Interpretation of this Part and Part VII to XI 42. Exchange of information.
-
-PART VII PRACTICE OF PROFESSIONAL ACTIVITIES BY A REGISTERED EUROPEAN LAWYER
-
-43. Practice of professional activities. 44. Title and description to be used by a registered European lawyer. 45. Joint practice. 46. Name of joint practice. 47. Notification of joint practice. 48. Representation in legal proceedings. 49. Property transactions and probate. 50. Legal aid.
-
-PART VIII REGISTRATION OF EUROPEAN LAWYERS
-
-51. Establishment and maintenance of registers of European lawyers. 52. Application to be entered on a register. 53. Registration by competent authority 54. Time limit for decision and notification by competent authority. 55. Appeal by European lawyer. 56. Offence of pretending to be a registered European lawyer. 57. Costs and fees of an unregistered European lawyer. 58. Evidence of registration. 59. Publication of names of registered European lawyers.
-
-PART IX REGULATION AND DISCIPLINE
-
-60. Rules of professional conduct applicable.
-
-61. Disciplinary proceedings applicable. 62. Disciplinary proceedings against a registered European lawyer. 63. Disciplinary proceedings against a solicitor or barrister.
-
-PART X ENTRY OF EUROPEAN LAWYERS INTO THE PROFESSION OF SOLICITOR OR BARRISTER
-
-64. Application by registered European lawyer. 65. Decision by the competent authority. 66. Evidence in support of application for exemption under section 64(2). 67. Evidence in support of application under section 64(3). 68. Meaning of “effectively and regularly pursued”. 69. Time limit for decision and notification by professional body. 70. Appeal by registered European lawyer. 71. Practice under the title of solicitor or barrister.
-
-PART XI EUROPEAN LAWYERS: SUPPLEMENTARY PROVISIONS
-
-72. Modification of enactments.
-
-PART XIA Deleted
-
-72A. to 72G. Deleted.
+39. to 72. Deleted
 
 PART X
 
