@@ -34,17 +34,17 @@ Part 3 Fortifications-
 
 THE LINE OF FORTIFICATIONS FACING NORTH AND WEST AND COVERING GIBRALTAR BAY AND HARBOUR, COMPRISING–
 
-Description Location Casemates Curtain including Casemates Gates Waterport Western entrance to Grand Casemates Square Chatham Counterguard, including cannon on top of wall. East side Queensway from Waterport Fountain to American War Memorial Curtain Walls to Alexandra Battery West of Rosia Road Devil’s Tongue Battery South side of Old Mole, Waterport Wharf
+Description Location Casemates Curtain including Casemates Gates Waterport Western entrance to Grand Casemates Square Chatham Counterguard, including cannon on top of wall. East side Queensway from Waterport Fountain to American War Memorial Curtain Walls to Alexandra Battery, including Alexandra Battery West of Rosia Road
 
-Dockyard Clocktower Rosia Road Dockyard Gatehouse Ragged Staff Engineer Battery
+Devil’s Tongue Battery South side of Old Mole, Waterport Wharf Dockyard Clocktower Rosia Road Dockyard Gatehouse Ragged Staff Engineer Battery
 
 Grand Battery North East side Grand Casemates Barracks & Square Grand Casemates Hesse’s Demi Bastion North corner of Moorish Castle King’s Bastion including one 12.5–38 ton Gun and two 10in–18 ton Guns Leisure Centre between Queensway and Line Wall Road Landport Gate North East corner Grand Casemates Square Line Wall Road to King’s Bastion Line Wall Road Line Wall Curtain to South Bastion West of Line Wall Road and John Mackintosh Hall Line Wall Curtain to Wellington Front West of Line Wall Road and Convent Montagu Bastion Bounded by Line Wall Road and Fish Market Road Montagu Counterguard including Chatham Wicket West of Montagu Bastion
 
 Montagu Curtain including Boyd’s Gate East of Fish Market Road Napier of Magdala Battery North side of Rosia Bay North Bastion Bounded by Smith Dorrien Avenue and Corral Road Curtain to North Jumpers Bastion West of Rosia Road North Jumpers Bastion
 
-Old Mole Head North West of Devil’s Tongue Battery Orange Bastion, incl. two 10” 18 ton RMLs and including cannon in embrasures. West of Line Wall Road Parson’s Lodge Battery and AA machine gun Rosia Bay Prince Albert’s Front, including Main Sally Ports and Zoca Flank including 12.5” RML. Including 9 cannon on north and south platforms. West of Line Wall Road from American War Memorial to Zoca Defensive Walls of Prince William South end of South Mole
+Old Mole Head North West of Devil’s Tongue Battery Orange Bastion, incl. two 10” 18 ton RMLs and including cannon in embrasures. West of Line Wall Road Parson’s Lodge Battery and AA machine gun Rosia Bay Prince Albert’s Front, including Main Sally Ports and Zoca Flank including 12.5” RML. Including 9 cannon on north and south platforms. West of Line Wall Road from American War Memorial to Zoca
 
-Ragged Staff Flank East of Gates Ragged Staff Gates By Dockyard North Gate Rosia Bay Defensive Wall and batteries including one 64pdr rifled muzzle loading gun East side of Rosia Bay
+Defensive Walls of Prince William South end of South Mole Ragged Staff Flank East of Gates Ragged Staff Gates By Dockyard North Gate Rosia Bay Defensive Wall and batteries including one 64pdr rifled muzzle loading gun East side of Rosia Bay
 
 South Bastion West of Southport Gate Curtain to South Jumpers Bastion
 
@@ -58,9 +58,9 @@ Description Location Buena Vista Battery West side of Buena Vista Parade Ground 
 
 LOWER CHARLES V WALL FROM SOUTH BASTION RUNNING EAST AND INCLUDING–
 
-Description Location Flat Bastion Below Green Lane Flat Bastion Magazine Above Gardiner’s Road
+Description Location Flat Bastion Below Green Lane
 
-Prince Edward’s Gate and two guardhouses Prince Edward’s Road St. Jago’s Bastion Above and East of Trafalgar Cemetery Southport Gates, including 10in. RML 18 ton gun and Coats of Arms Bottom of Trafalgar Hill
+Flat Bastion Magazine Above Gardiner’s Road Prince Edward’s Gate and two guardhouses Prince Edward’s Road St. Jago’s Bastion Above and East of Trafalgar Cemetery Southport Gates, including 10in. RML 18 ton gun and Coats of Arms Bottom of Trafalgar Hill
 
 MOORISH WALL INCLUDING–
 
@@ -172,9 +172,9 @@ EASTERN SEABOARD WORLD WAR TWO DEFENCES–
 
 Description Location Fort Gary and Fort George Canadian constructed bunker on south end of Eastern Beach Fort MOT Canadian constructed bunker by entrance to Eastern Beach Road from Devil’s Tower Road Dudley Ward Tunnel World War Two machine gun positions ES1 and ES2 Dudley Ward Tunnel World War Two machine gun positions ES1 and ES2
 
-Part 4 Caves and geological features- Description Location Bennett’s Cave, Palaeolithic site. Governor’s Beach Collin’s Cave, Neolithic site East Cliffs
+Part 4 Caves and geological features- Description Location Bennett’s Cave, Palaeolithic site. Governor’s Beach
 
-Devil’s Tower Cave– Mousterian Shelter (skull of Neanderthal child found) Off junction Devil’s Tower Road/Eastern Beach Road
+Collin’s Cave, Neolithic site East Cliffs Devil’s Tower Cave– Mousterian Shelter (skull of Neanderthal child found) Off junction Devil’s Tower Road/Eastern Beach Road
 
 Devil’s Fall Cave– Prehistoric Shelter In cliff face between Camp Bay and Little Bay Fig Tree Cave No.2, Archaeological site Off Mediterranean Steps Remains of Forbes Quarry Cave (site of first Neanderthal skull find) Off Devil’s Tower Road Genista Cave Stone– Late Neolithic dwelling site Site marked by stone tablet outside Eastern entrance to QM Block at Lathbury Barracks Goat’s Hair Twin Caves, Palaeolithic occupation site. Also Neolithic site Off Mediterranean Steps Gorham’s Cave– Palaeolithic occupation site. Also Neolithic and Phoenician/Carthaginian site Governor’s Beach Holyboys’ Cave, Archaeological site East cliffs Hyaena Cave, Palaeontological site Governor’s Beach Ibex Cave, Palaeolithic site East side sand dune Judge’s Cave– Neolithic Shelter Glen Rocky North Gorge Martin’s Cave– Palaeolithic occupation site. Also Neolithic and Medieval site Off Mediterranean Steps Mammoth Cave, Neolithic site East cliffs Mediterranean Cave Brian Navarro Way Northern Defenses geological fault and joints. Smart’s Well Reserve and all adjacent caves/faults/joints Prince’s Line Engine Room north chamber.
 

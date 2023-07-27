@@ -8,7 +8,9 @@ Assent 1.8.2018
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2020/253 Sch.2 9.7.2020 2022/325 Sch.2 24.11.2022 2023/029 Sch.5 16.2.2023 2023/084 Sch.4 6.4.2023 2023/173 Sch.1 29.6.2023
+LN.2020/253 Sch.2 9.7.2020 2022/325 Sch.2 24.11.2022 2023/029 Sch.5 16.2.2023 2023/084 Sch.4 6.4.2023 2023/173 Sch.1 29.6.2023 Act.2023-20 ss. 3, 27(a), 28A-29C, 49(1)-(2), (5)-(8), 50, 51(2)(f), Sch.2
+
+27.7.2023
 
 ARRANGEMENT OF SECTIONS
 
@@ -38,7 +40,11 @@ PART 5
 
 ARCHAEOLOGICAL AREAS AND FINDINGS
 
-23. Interpretation of operations on any site on land, etc. 24. Scheduled archaeological areas. 25. Operations in scheduled archaeological areas. 26. Qualifications for archaeological operations. 27. Control of archaeological operations. 28. Modification of scheduled archaeological area consent. 29. Reports of archaeological findings.
+23. Interpretation of operations on any site on land, etc. 24. Scheduled archaeological areas. 25. Operations in scheduled archaeological areas. 26. Qualifications for archaeological operations. 27. Control of archaeological operations. 28. Modification of scheduled archaeological area consent.
+
+PART 5A FINDINGS
+
+28A. Restrictions on use of metal detectors. 29. Reports of archaeological findings. 29A. Offence of dealing in tainted antiquities or objects of interest. 29B. Meaning of “tainted”. 29C. Meaning of “deals in”.
 
 PART 6 THE ARCHAEOLOGICAL OFFICER
 
@@ -50,17 +56,17 @@ PART 7 THE GIBRALTAR NATIONAL MUSEUM
 
 PART  8 GIBRALTAR NATIONAL ARCHIVES
 
-38. Interpretation 39. Archivist. 40. General responsibility. 41. Selection and preservation of public records and archives. 42. Place of deposit of public records and archives. 43. Access to public records. 44. Destruction of public records. 45. Legal validity of public records and authenticated copies.
+38. Interpretation 39. Archivist. 40. General responsibility. 41. Selection and preservation of public records and archives. 42. Place of deposit of public records and archives. 43. Access to public records.
+
+44. Destruction of public records. 45. Legal validity of public records and authenticated copies.
 
 PART 9 THE GIBRALTAR HERITAGE TRUST
 
 46. Gibraltar Heritage Trust.
 
-PART 10
+PART 10 MISCELLANEOUS PROVISIONS
 
-MISCELLANEOUS PROVISIONS
-
-47. Register of scheduled monuments etc. 48. Treatment and preservation of finds. 49. Restrictions on removal of antiquity or object of interests from Gibraltar. 50. Restrictions on use of equipment. 51. Regulations. 52. Legal Deposit. 53. Repeal of Gibraltar Heritage Trust Act 1989. 54. Savings and Transitional Provisions 55. Consequential Amendments
+47. Register of scheduled monuments etc. 48. Treatment and preservation of finds. 49. Restrictions on import or export of antiquity or object of interests in or from Gibraltar. 50. Repealed. 51. Regulations. 52. Legal Deposit. 53. Repeal of Gibraltar Heritage Trust Act 1989. 54. Savings and Transitional Provisions 55. Consequential Amendments
 
 Schedule 1 Heritage and Antiquities Advisory Council.
 
