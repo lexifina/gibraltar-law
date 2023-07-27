@@ -32,7 +32,7 @@ Membership
 
 (b) against whom, whether before or after the passing of this Act, no disciplinary action has been taken, other than a reprimand or the foregoing or repayment of fees or contributing to the costs or making a payment towards the cost of an investigation; and
 
-(c) who is not and never has been an EEA lawyer or a registered European lawyer.
+(c) who is not and never has been a registered European lawyer.
 
 3.  In appointing members of the LSRA, the Judicial Service Commission and the Law Council shall have regard to the desirability of securing that the LSRA includes members who (between them) have experience in or knowledge of –
 
