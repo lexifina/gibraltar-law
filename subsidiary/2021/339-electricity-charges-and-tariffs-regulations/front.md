@@ -1,14 +1,12 @@
 Subsidiary Legislation made under ss.10 & 14.
 
-ELECTRICITY (CHARGES AND TARIFFS) REGULATIONS 2021
+Electricity (Charges and Tariffs) Regulations 2021
 
 LN.2021/339
 
 Commencement 1.8.2021
 
-Amending enactments Relevant current Provisions Commencement Date
-
-LN. 2022/204 rr. 3, 3A, 5(2)-(3) 1.8.2022
+Amending enactments Relevant current Provisions Commencement Date LN. 2022/204 rr. 3, 3A, 5(2)-(3) 1.8.2022 2023/227 r. 5(2) 28.7.2023
 
 ARRANGEMENT OF REGULATIONS.
 
