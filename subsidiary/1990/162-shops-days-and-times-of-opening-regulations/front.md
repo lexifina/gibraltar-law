@@ -10,7 +10,7 @@ SHOPS (DAYS AND TIMES OF OPENING) REGULATIONS, 1990
 
 22.11.1990
 
-Amending enactments Relevant current provisions Commencement date LN. 1990/179 r. 9 and Sch. 22.11.1990 1991/212 r. 9(5) and Sch. 21.11.1991 1996/048 2022/201 r. 2 Sch. 4.4.1996 21.7.2022
+Amending enactments Relevant current provisions Commencement date LN. 1990/179 r. 9 and Sch. 22.11.1990 1991/212 r. 9(5) and Sch. 21.11.1991 1996/048 2022/201 r. 2 Sch. 4.4.1996 21.7.2022 2023/208 Sch. 1.8.2023
 
 Shop Hours SHOPS (DAYS AND TIMES OF OPENING) REGULATIONS, 1990
 
