@@ -8,11 +8,11 @@ PART I.
 
 The fee and penalty payable to the Director in respect of the registration of a vacancy shall be–
 
-(a) when notification has been made in accordance with regulation 4 (1), - a vacancy fee of £18.50 only;
+(a) when notification has been made in accordance with regulation 4 (1), - a vacancy fee of £8.60 only;
 
-(b) when the notification by the employer to the Director of the vacancy is made on or within 10 working days from the commencement date of that worker,– a vacancy fee of £18.50 plus a penalty of £15;
+(b) when the notification by the employer to the Director of the vacancy is made on or within 10 working days from the commencement date of that worker,– a vacancy fee of £8.60 plus a penalty of £15;
 
-(c) when the notification by the employer to the Director of the vacancy is made after the day on which the vacancy is filled, whether that notification is made under these Regulations or otherwise, a vacancy fee of £18.50 plus a penalty of £30;
+(c) when the notification by the employer to the Director of the vacancy is made after the day on which the vacancy is filled, whether that notification is made under these Regulations or otherwise, a vacancy fee of £8.60 plus a penalty of £30;
 
 (d) when the notification–
 
@@ -30,9 +30,11 @@ PART II.
 
 74.00
 
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
+Employment EMPLOYMENT REGULATIONS, 1994
 
-Subsidiary 1994/023 1932-16 PART III.
+Subsidiary 1994/023 1932-16
+
+PART III.
 
 £ The fee payable to the Director in respect of the issue of a replacement certificate under regulation 10(3)
 

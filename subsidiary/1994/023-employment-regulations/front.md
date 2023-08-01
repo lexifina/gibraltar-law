@@ -1,4 +1,6 @@
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date Subsidiary 1994/023 1932-16 Rules made under ss.12, 15, 20 and 86.
+Employment EMPLOYMENT REGULATIONS, 1994
+
+Subsidiary 1994/023 1932-16 Rules made under ss.12, 15, 20 and 86.
 
 EMPLOYMENT REGULATIONS, 1994
 
@@ -10,13 +12,19 @@ Amending enactments Relevant current provisions Commencement date LN. 1994/073 r
 
 2.10.2008 2014/236 r. 7(5) 4.12.2014 2015/021 r. 7(3)(h)-(i) 19.2.2015 2016/065 r. 4(1), (8), Schs. 1, 7 1.4.2016 2016/138 r. 15A(3), (3A)-(3C) 18.6.2016 2016/158 r. 7(3) 21.7.2016 Act. 2016-20 rr. 8(1)-(2), (6)-(7), (9)-(10), 16(1), (3)-(5), 17(1), (3)(a), (c), (5)
 
-13.10.2016 LN. 2019/239 Sch. 7 1.4.2017 2018/070 Sch. 7 1.4.2018 2019/065 r. 4(8), Sch. 7 1.4.2019 2022/134 2022/202 r. 7(6A), (7) Sch. 7 26.5.2022 25.7.2022
+13.10.2016 LN. 2019/239 Sch. 7 1.4.2017 2018/070 Sch. 7 1.4.2018 2019/065 r. 4(8), Sch. 7 1.4.2019 2022/134 2022/202 r. 7(6A), (7) Sch. 7 26.5.2022 25.7.2022 2023/214 Sch. 7 1.8.2023
 
-Transposing: Directive 91/533/ECC Regulation 1612/68 Directive 2001/55/EC Directive 2003/9/EC Directive 2004/83/EC Directive 2014/67/EU
+Transposing: Directive 91/533/ECC Regulation 1612/68 Directive 2001/55/EC Directive 2003/9/EC
 
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
+Employment EMPLOYMENT REGULATIONS, 1994
 
-Subsidiary 1994/023 1932-16 ARRANGEMENT OF REGULATIONS.
+Subsidiary 1994/023 1932-16 Directive 2004/83/EC Directive 2014/67/EU
+
+Employment EMPLOYMENT REGULATIONS, 1994
+
+Subsidiary 1994/023 1932-16
+
+ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -26,7 +34,11 @@ SCHEDULE 1. Information in respect of a vacancy to accompany notification of the
 
 SCHEDULE 2. Notice of terms of engagement and application for permit.
 
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date Subsidiary 1994/023 1932-16 SCHEDULE 3. Notice of variation(s) of terms of engagement.
+Employment EMPLOYMENT REGULATIONS, 1994
+
+Subsidiary 1994/023 1932-16
+
+SCHEDULE 3. Notice of variation(s) of terms of engagement.
 
 SCHEDULE 4. Termination of engagement.
 
@@ -36,4 +48,4 @@ SCHEDULE 6. Certificate of Employment (Permit issued under Regulation 7).
 
 SCHEDULE 7. Fees and Penalties.
 
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
+Employment EMPLOYMENT REGULATIONS, 1994

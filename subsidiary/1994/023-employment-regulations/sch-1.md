@@ -12,6 +12,6 @@ Position in Organisation
 
 Signature 10. Date on which notification registered with Board.
 
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
+Employment EMPLOYMENT REGULATIONS, 1994
 
 Subsidiary 1994/023 1932-16

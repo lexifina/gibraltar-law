@@ -18,6 +18,6 @@ Signature of worker:
 
 Date:
 
-Employment EMPLOYMENT REGULATIONS, 1994 This version is out date
+Employment EMPLOYMENT REGULATIONS, 1994
 
 Subsidiary 1994/023 1932-16
