@@ -42,12 +42,6 @@ In respect of the vessel to which the application is made provide:
 
 12. Engine model
 
-Port SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
-
-1960-16
-
-Subsidiary 2016/019
-
 13. Number of Engines
 
 14. Engine serial number(s)
@@ -68,11 +62,7 @@ NOTE:
 
 I hereby apply for a permit to moor the said small vessel within a designated area and I HEREBY DECLARE that I am the owner of the said small vessel and that the information given in this Application is true and correct to the best of my knowledge and belief:
 
-Port SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
-
-1960-16
-
-Subsidiary 2016/019 Dated this day of 20 .
+Dated this day of 20 .
 
 [Signed] Applicant
 
@@ -83,9 +73,3 @@ PERMIT
 Permit to Moor At.......... Berth Number......... Vessel.......... Permit Ref................................ Renewal
 
 [This permit is issued on condition of compliance with all applicable legislation and directives issued by the Captain of the Port and, if berthed at Mid-Harbour Small Boats Marina, compliance with the Constitution of the Mid-Harbour Small Boats Marina Association.]
-
-Port SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
-
-1960-16
-
-Subsidiary 2016/019

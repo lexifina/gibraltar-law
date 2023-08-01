@@ -19,9 +19,3 @@ The designated area at Mid-Harbour Small Boats Marina shall be all that area enc
 5º 21.700’W (d) 36º 08.478’N
 
 5º 21.638’W
-
-Port SMALL VESSELS (MOORINGS CONTROLS) RULES 2016
-
-1960-16
-
-Subsidiary 2016/019
