@@ -1,13 +1,11 @@
-SCHEDULE
-
-Paragraph 4(1)
+SCHEDULE Paragraph 4(1)
 
 Standard Minimum Remuneration Rates
 
 Age 15 and over
 
-Amount Relevant calculation Hourly Remuneration £8.10
+Amount Relevant calculation Hourly Remuneration £8.60
 
-Weekly Remuneration £315.90 hourly remuneration x 39
+Weekly Remuneration £335.40 hourly remuneration x 39
 
-Monthly Remuneration £1368.90 (weekly remuneration x 52) ÷ 12
+Monthly Remuneration £1453.40 (weekly remuneration x 52) ÷ 12
