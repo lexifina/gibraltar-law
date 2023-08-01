@@ -12,37 +12,39 @@ Description of Benefit Monthly Basic Rate Increase for wife, civil partner or ad
 
 (a) Survivor's Bereavement Allowance.
 
-£617.00
+£660.20
 
 -
 
-£75.30
+£80.60
 
-(b) Widowed Parent's Allowance. £520.20
+(b) Widowed Parent's Allowance. £556.65
 
 -
 
-£75.30 * (c) Survivor’s Pension. £520.20 - -
+£80.60*
 
-2.  Guardian’s Allowance. £132.80 - -
+(c) Survivor’s Pension. £556.65 - -
+
+2.  Guardian’s Allowance. £142.10 - -
 
 3.  Old Age Pensions:
 
 (a) where the pension is payable to a woman by virtue of a husband’s or civil partner’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s or civil partner’s insurance and she is alive.
 
-£260.25
+£278.50
 
 -
 
-£75.30
+£80.60
 
 (b) in any other case.
 
-£520.20
+£556.65
 
-£260.25
+£278.50
 
-£75.30
+£80.60
 
 *  Except in the case of a Widowed Parent’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
 
