@@ -18,9 +18,7 @@ Indications between square brackets provide explanations for the creditor and mu
 
 2. Description of the main features of the credit product.
 
-The type of credit
-
-The total amount of credit This means the ceiling or the total sums made available under the credit agreement.
+The type of credit The total amount of credit This means the ceiling or the total sums made available under the credit agreement.
 
 The duration of the credit agreement
 
@@ -52,9 +50,7 @@ If applicable
 
 6. Additional information to be given in the case of distance marketing of financial services.
 
-(a) concerning the creditor
-
-If applicable Representative of the creditor in Gibraltar Address Telephone number (*) E-mail address (*) Fax number (*) Web address (*)
+(a) concerning the creditor If applicable Representative of the creditor in Gibraltar Address Telephone number (*) E-mail address (*) Fax number (*) Web address (*)
 
 [Identity]
 
@@ -64,6 +60,4 @@ If applicable Representative of the creditor in Gibraltar Address Telephone numb
 
 Right of withdrawal You have the right to withdraw from the credit agreement within a period of 14 calendar days. If applicable Exercise of the right of withdrawal Yes/no [Practical instructions for exercising the right of withdrawal indicating, inter alia, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable
 
-The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract If applicable Clause stipulating the law applicable to the credit agreement and/or the competent court [Relevant clause to be set out here] If applicable Language regime Information and contractual terms will be supplied in [specific language]. With your consent, we intend to communicate in [specific language/languages] during the duration of the credit agreement. (c) concerning redress
-
-Existence of and access to out-of-court complaint and redress mechanism [Whether or not there is an out-of-court complaint and  redress mechanism for the consumer who is party to the distance contract and, if so, the methods of access to it] (*) This information is optional for the creditor.
+The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract If applicable Clause stipulating the law applicable to the credit agreement and/or the competent court [Relevant clause to be set out here] If applicable Language regime Information and contractual terms will be supplied in [specific language]. With your consent, we intend to communicate in [specific language/languages] during the duration of the credit agreement. (c) concerning redress Existence of and access to out-of-court complaint and redress mechanism [Whether or not there is an out-of-court complaint and  redress mechanism for the consumer who is party to the distance contract and, if so, the methods of access to it] (*) This information is optional for the creditor.

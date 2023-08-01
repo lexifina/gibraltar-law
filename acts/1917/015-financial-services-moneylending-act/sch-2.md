@@ -4,13 +4,9 @@ STANDARD EUROPEAN CONSUMER CREDIT INFORMATION
 
 1. Identity and contact details of the creditor/credit intermediary.
 
-Creditor [Identity] Address [Geographical address to be used by the consumer] Telephone number (*)
+Creditor [Identity] Address [Geographical address to be used by the consumer] Telephone number (*) E-mail address (*)
 
-E-mail address (*)
-
-Fax number (*)
-
-Web address
+Fax number (*) Web address
 
 If applicable
 
@@ -26,9 +22,7 @@ Indications between square brackets provide explanations for the creditor and mu
 
 2. Description of the main features of the credit product.
 
-The type of credit
-
-The total amount of credit This means the ceiling or the total sums made available under the credit agreement.
+The type of credit The total amount of credit This means the ceiling or the total sums made available under the credit agreement.
 
 The conditions governing the drawdown This means how and when you will obtain the money.
 
@@ -46,9 +40,7 @@ The borrowing rate or, if applicable, different borrowing rates which apply to t
 
 [% — fixed or, — variable (with the index or reference rate applicable to the initial borrowing rate), — periods],
 
-Annual Percentage Rate of Charge (APR) This is the total cost expressed as an annual percentage of the total amount of credit. The APR is there to help you compare different offers.
-
-[% A representative example mentioning all the assumptions used for calculating the rate to be set out here]
+Annual Percentage Rate of Charge (APR) This is the total cost expressed as an annual percentage of the total amount of credit. The APR is there to help you compare different offers. [% A representative example mentioning all the assumptions used for calculating the rate to be set out here]
 
 Is it compulsory, in order to obtain the credit or to obtain it on the terms and conditions marketed, to take out - — an insurance policy securing the credit, or — another ancillary service contract,
 
@@ -84,17 +76,13 @@ If applicable
 
 5. Additional information in the case of distance marketing of financial services.
 
-(a) concerning the creditor
-
-If applicable Representative of the creditor in Gibraltar Address Telephone number (*) E-mail address (*) Fax number (*) Web address (*) [Identity]
+(a) concerning the creditor If applicable Representative of the creditor in Gibraltar Address Telephone number (*) E-mail address (*) Fax number (*) Web address (*) [Identity]
 
 [Geographical address to be used by the consumer]
 
 If applicable Registration [The trade register in which the creditor is entered and his registration number or an equivalent means of identification in that register] If applicable The supervisory authority
 
-(b) concerning the credit agreement
-
-If applicable Exercise of the right of withdrawal [Practical instructions for exercising the right of withdrawal indicating, inter alia, the period for exercising the right, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable
+(b) concerning the credit agreement If applicable Exercise of the right of withdrawal [Practical instructions for exercising the right of withdrawal indicating, inter alia, the period for exercising the right, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable
 
 The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract If applicable Clause stipulating the governing law applicable to the credit agreement and/or the competent court [Relevant clause to be set out here] If applicable Language regime Information and contractual terms will be supplied in [specific language]. With your consent, we intend to communicate in [specific language/languages] during the duration of the credit agreement. (c) concerning redress
 
