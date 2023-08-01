@@ -2,17 +2,21 @@ Social Security (Open Long-Term Benefits Scheme) Act 1997
 
 Principal Act
 
-Act. No. 1997-16 Commencement 1.4.1997 Assent 10.4.1997
+Act. No. 1997-16 Commencement 1.4.1997
 
-Amending enactments Relevant current provisions Commencement date LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999 2001-04 ss. 2, 8, 39 14.3.2001 LN. 2004/132 Sch.1 3.1.2005 Act. 2007-19 s. 4(9), (10), Sch.1 1.7.2006 “ s. 22(a), Sch.2 1.4.2007 LN. 2007/051 Sch.1 1.4.2007 Act. 2007-17 ss. 10(3)(c), (4)-(5), 30(2), 33(3) 14.6.2007 2008-02 s. 18A 1.7.2007 2009-12 ss. 11(2)-(3), 12(3), 18A(3), 21(1), 22, (a), 34(2)(a), Sch.2 1.4.2008 LN. 2008/0451 Sch.1 12.6.2008 2008/046 Sch.1 12.6.2008 2009/084 s. 22(a), Sch.2 1.4.2009 Act. 2011-29i ss. 11(1)(b)-(c), 14-16, 19(1)(b), (2), (6),  20(1)(b), (2), (6),  21(1), (4), 24(3), Sch.2-3
+Assent 10.4.1997
+
+Amending enactments Relevant current provisions Commencement date
+
+LN. 1997/167 Sch.1 30.12.1997 Act. 1999-23 s. 4(8). 5.7.1999 2001-04 ss. 2, 8, 39 14.3.2001 LN. 2004/132 Sch.1 3.1.2005 Act. 2007-19 s. 4(9), (10), Sch.1 1.7.2006 “ s. 22(a), Sch.2 1.4.2007 LN. 2007/051 Sch.1 1.4.2007 Act. 2007-17 ss. 10(3)(c), (4)-(5), 30(2), 33(3) 14.6.2007 2008-02 s. 18A 1.7.2007 2009-12 ss. 11(2)-(3), 12(3), 18A(3), 21(1), 22, (a), 34(2)(a), Sch.2 1.4.2008 LN. 2008/0451 Sch.1 12.6.2008 2008/046 Sch.1 12.6.2008 2009/084 s. 22(a), Sch.2 1.4.2009 Act. 2011-29i ss. 11(1)(b)-(c), 14-16, 19(1)(b), (2), (6),  20(1)(b), (2), (6),  21(1), (4), 24(3), Sch.2-3
 
 1.7.2009 LN. 2009/0412 Sch.1 16.7.2009 2010/103 s. 22(a), Sch.2 1.4.2010 2010/1143 Sch.1 1.7.2010 2011/138 s. 22(a), Sch.2 1.4.2011 2012/195 s. 22(a), Sch.2 1.8.2012 2013/168 s. 22(a), Sch.2 1.8.2013 Act. 2013-27 ss. 4(2)-(3), 39(5), 41(2), (4)-(5), Sch.1 28.11.2013 2014-10 ss. 2(3)(a), (4)(c), (6), 14-15, 17(2)(b), (3), 18A, 19-20, 21(5)(a), (6), 22(a)-(b), 24(3), 25, 26(1)(a), 29(2), 35(2)(d), 40(5)-(6), 45(1), Schs.1-2
 
-28.3.2014 LN. 2015/136 s. 22(a), Sch.2 1.8.2014
+28.3.2014 LN. 2015/136 s. 22(a), Sch.2 1.8.2014 Act. 2017-13 s. 5(1), (5) 1.7.2015
 
 1 LN. 2008/045 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/046). 2 LN. 2009/041 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/046). 3 LN. 2010/114 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/046).
 
-Act. 2017-13 s. 5(1), (5) 1.7.2015 LN. 2016/196 s. 22(a), Sch.2 1.8.2015 2016/197 s. 22(a), Sch.2 1.8.2016 2017/0572 Sch.1 1.4.2017 2017/200 s. 22(a), Sch.2 1.8.2017 2018/231 s. 22(a), Sch.2 1.8.2018 2019/167 s. 22(a), Sch.2 1.8.2019 2020/502 s. 3(4) 24.12.2020 2020/535 s. 45(1), (4) 24.12.2020 “ s. 10(3)(a), (8) 1.1.2021 Act. 2021-09 ss. 2(4)(cc), 17(2)(a) 9.2.2021 LN. 2021/360 s. 22(a), Sch.2 1.8.2021 2021/497 s. 3(4) 23.12.2021 2023/336 s. 22(a), Sch.2 1.8.2022 2022/339 s. 3(3) 22.12.2022
+LN. 2016/196 s. 22(a), Sch.2 1.8.2015 2016/197 s. 22(a), Sch.2 1.8.2016 2017/0572 Sch.1 1.4.2017 2017/200 s. 22(a), Sch.2 1.8.2017 2018/231 s. 22(a), Sch.2 1.8.2018 2019/167 s. 22(a), Sch.2 1.8.2019 2020/502 s. 3(4) 24.12.2020 2020/535 s. 45(1), (4) 24.12.2020 “ s. 10(3)(a), (8) 1.1.2021 Act. 2021-09 ss. 2(4)(cc), 17(2)(a) 9.2.2021 LN. 2021/360 s. 22(a), Sch.2 1.8.2021 2021/497 s. 3(4) 23.12.2021 2023/336 s. 22(a), Sch.2 1.8.2022 2022/339 s. 3(3) 22.12.2022 2023/337 s. 22(a), Sch.2 1.8.2023
 
 2 LN. 2017/057 amending the Social Security Insurance Act (1955-14) also amends this Act by virtue of the Social Security (Open Long-Term Benefits Scheme) (Contributions) (Amendment) Order 2008 (LN. 2008/046).
 
