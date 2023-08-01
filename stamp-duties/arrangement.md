@@ -14,13 +14,17 @@ PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY
 
 4. Manner of denoting duty.
 
+4A. Electronic Stamping System.
+
+4B. Electronic assessment and stamping of documents.
+
 5. Instruments to be separately charged with duty in certain cases.
 
 6. Facts and circumstances affecting duty to be set forth in instrument.
 
 7. Mode of calculating ad valorem duty in certain cases.
 
-8. Appropriated stamps.
+8. Deleted.
 
 9. Commissioner of Stamp Duties and Assistant Commissioners of Stamp Duties.
 
@@ -52,6 +56,8 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 19B. Special Stamp Duty.
 
+19C. Exemption on certain affordable housing estates.
+
 20. How consideration consisting of stock and securities, to be charged.
 
 21. How consideration consisting of periodical payments, to be charged.
@@ -72,7 +78,7 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 29. What is to be deemed a conveyance on any occasion, not being a sale or mortgage.
 
-30. Provision as to duplicates and counterparts.
+30. Deleted.
 
 31. As to exchange, &c.
 
@@ -114,7 +120,7 @@ MISCELLANEOUS
 
 44. Power of Minister as to penalties and rewards.
 
-45. Spoiled or misused stamps.
+45. Deleted.
 
 46. Regulations.
 
