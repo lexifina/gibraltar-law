@@ -1,24 +1,16 @@
-Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
+Subsidiary Legislation made under ss. 337 and 316.
 
-1950–07
+Skin Treatments (Licensing and Control) Regulations
 
-Subsidiary 1997/126
+LN.1997/126
 
-Regulations made under ss. 337 and 316.
+Commencement 30.10.1997
 
-SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
+Amending enactments Relevant current provisions Commencement date
 
-(LN. 1997/126)
+LN. 2022/126 r. 7(3)-(4) 21.7.2022 2023/226 r. 7(3)-(4) 1.8.2023
 
-30.10.1997
-
-Amending enactments Relevant current provisions Commencement date LN. 2022/126 r. 7(3)-(4) 21.7.2022
-
-Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
-
-1950–07
-
-Subsidiary 1997/126 ARRANGEMENT OF REGULATIONS.
+ARRANGEMENT OF REGULATIONS.
 
 Regulation
 
@@ -31,5 +23,3 @@ Part I Application for licensing of persons carrying on the business of skin pie
 Part II Application for the licensing of premises to be used for the business of skin piercing, electrolysis, acupuncture or tattooing.
 
 Part III Certificate evidencing the licensing or persons carrying on the business of skin piercing, electrolysis, acupuncture or tattooing.
-
-Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS

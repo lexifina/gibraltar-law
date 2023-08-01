@@ -18,7 +18,7 @@ Name (if any) and address of premises where practice will be carried on:
 
 .......................................................................................................................
 
-Have you ever been found guilty by a Court of an offence under the above– mentioned Regulations?
+Have you ever been found guilty by a Court of an offence under the above–mentioned Regulations?
 
 .......................................................................................................................
 
@@ -31,12 +31,6 @@ I declare that –
 (c) the above particulars are true in every respect.
 
 Date....................................... Signature.................................................
-
-Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
-
-1950–07
-
-Subsidiary 1997/126
 
 PART II
 
@@ -56,12 +50,6 @@ Date.........................................
 
 Signature..............................................
 
-Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
-
-1950–07
-
-Subsidiary 1997/126
-
 PART III
 
 CERTIFICATE EVIDENCING THE  LICENSING OF PERSONS CARRYING ON THE BUSINESS OF SKIN PIERCING, ELECTROLYSIS ACUPUNCTURE OR TATTOOING.
@@ -75,12 +63,6 @@ Dated the                         day of                     20
 ........................................................ Chief Environmental Health Officer
 
 This certificate expires (subject to regulation 8 of the Skin Treatments (Licensing and Control) Regulations) on the 31st day of March next following the date set out above.
-
-Public Health SKIN TREATMENTS (LICENCING AND CONTROL) REGULATIONS
-
-1950–07
-
-Subsidiary 1997/126
 
 PART IV
 
