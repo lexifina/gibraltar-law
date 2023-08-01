@@ -8,9 +8,7 @@ Commencement 27.11.1997
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1997/147 Corrigendum
-
-1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019 2020/216 r. 7(2)(d), (3)(f) 30.6.2020 2022/213 r. 7 28.7.2022
+LN. 1997/147 Corrigendum 1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019 2020/216 r. 7(2)(d), (3)(f) 30.6.2020 2022/213 r. 7 28.7.2022 2023/217 r. 7 1.8.2023
 
 ARRANGEMENT OF REGULATIONS
 
@@ -108,31 +106,31 @@ Fees.
 
 for a retail licence
 
-- £108
+- £114.50
 
 (b) any other application for a retail licence
 
 for single premises
 
-- £5400
+- £5735
 
 supplement for each additional premises
 
 to which the licence relates
 
-- £5400
+- £5735
 
 (c) an application for a wholesale licence
 
 for single premises
 
-- £21,600
+- £22,939
 
 supplement for each additional premises
 
 to which the licence relates
 
-- £162
+- £172
 
 (d) an application for a wholesale licence
 
@@ -140,29 +138,25 @@ under section 6(2) of the Act by a ship
 
 agent or ship chandler
 
-- £10,800
+- £11,469.50
 
 (2)  The fees payable to the Government in relation to the other matters provided for by the Act shall be–
 
-(a) application for an import permit
+(a) application for an import permit - £1,147
 
-- £1,080
-
-(b) application for an export permit
-
-- £162
+(b) application for an export permit - £172
 
 (c) application for a tobacco transportation
 
 licence per vehicle
 
-- £270
+- £286.50
 
 (d) application for a tobacco products
 
 manufacturing licence
 
-- £108,000
+- £114,696
 
 Provided that no fee shall be payable upon the application for a permit to import or export tobacco in transit.
 
@@ -170,27 +164,27 @@ Provided that no fee shall be payable upon the application for a permit to impor
 
 (a) a members club retail licence
 
-- £27
+- £28.50
 
 (b) any other retail licence
 
-- £216
+- £229.50
 
 supplement for each additional premises
 
 to which the licence relates
 
-- £5,400
+- £5,735
 
 (c) a wholesale licence
 
-- £10,800
+- £11,469.50
 
 supplement for each additional premises
 
 to which the licence relates
 
-- £54
+- £57.50
 
 (d) a wholesale licence under section 6(2)
 
@@ -198,15 +192,15 @@ of the Act by a ship agent or ship
 
 chandler
 
-- £5,400
+- £5,735
 
 (e) a tobacco transportation licence
 
 per vehicle
 
-- £270
+- £286.50
 
-(f) tobacco products manufacturing licence - £54,000
+(f) tobacco products manufacturing licence - £57,348
 
 New licence applications from existing licencees.
 
