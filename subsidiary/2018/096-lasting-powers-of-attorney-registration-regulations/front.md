@@ -6,9 +6,7 @@ LN.2018/096
 
 Commencement 23.4.2018
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2018/207 Sch. 3 27.9.2018 LN. 2018/237 Sch. 3 1.11.2018
+Amending enactments Relevant current provisions Commencement date LN. 2018/207 Sch. 3 27.9.2018 2018/237 Sch. 3 1.11.2018 2023/221 Sch. 3 1.8.2023
 
 ARRANGEMENT OF REGULATIONS
 
