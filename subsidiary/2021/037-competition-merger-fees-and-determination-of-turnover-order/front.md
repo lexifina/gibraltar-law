@@ -6,7 +6,7 @@ LN.2021/037
 
 Commencement 1.1.2021
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN. 2023/237 Art. 6(1)(a)-(c) 1.8.2023
 
 ARRANGEMENT OF ARTICLES.
 
