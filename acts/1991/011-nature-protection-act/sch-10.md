@@ -6,35 +6,31 @@ Admission Fees.
 
 1.(1)  Subject to paragraph 2, the fee for admission to the Upper Rock Nature Reserve shall be as follows–
 
-(a) £16.00 per person aged 12 years or over entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road, Devil’s Gap Battery or any cable car station;
+(a) £18.00 per person aged 12 years or over entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road, Devil’s Gap Battery or any cable car station;
 
-(aa) £10.00 per person aged from 5 to 11 years inclusive entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road, Devil’s Gap Battery or any cable car station;
+(aa) £12.00 per person aged from 5 to 11 years inclusive entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road, Devil’s Gap Battery or any cable car station;
 
-(b) £16.00 per person aged 12 years or over entering via Jews’ Gate or Willis’s Road;
+(b) £18.00 per person aged 12 years or over entering via Jews’ Gate or Willis’s Road;
 
-(c) £10.00 per person aged from 5 to 11 years inclusive entering via Jews’ Gate or Willis’s Road;
+(c) £12.00 per person aged from 5 to 11 years inclusive entering via Jews’ Gate or Willis’s Road;
 
-(d) £10.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
+(d) £12.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
 
 (e) Deleted.
 
 (f) Deleted.
 
-(g) £16.00 per person aged 12 years or over entering with a bicycle via Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station;
+(g) £18.00 per person aged 12 years or over entering with a bicycle via Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station;
 
-(h) £10.00 per person aged 5 to 11 years inclusive entering with a bicycle via Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station.
+(h) £12.00 per person aged 5 to 11 years inclusive entering with a bicycle via Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station.
 
 (2)  Subject to section 24A(2), the fees for admission to the tourist sites within the Upper Rock Nature Reserve shall be as follows–
 
-(a) £16.00 for each person aged 12 years and over who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road, Devil’s Gap Battery or any cable car station (applicable to all tourist sites with the exception of lower St Michael’s Cave);
+(a) £18.00 for each person aged 12 years and over who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road, Devil’s Gap Battery or any cable car station (applicable to all tourist sites with the exception of lower St Michael’s Cave);
 
-(b) £10.00 for each child aged from 5 to 11 years inclusive who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road, Devil’s Gap Battery or any cable car station (applicable to all tourist sites with the exception of lower St Michael’s Cave);
+(b) £12.00 for each child aged from 5 to 11 years inclusive who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road, Devil’s Gap Battery or any cable car station (applicable to all tourist sites with the exception of lower St Michael’s Cave);
 
-(c) for entering lower St Michael’s Cave–
-
-(i) £25.00 per person;
-
-(ii) £15.00 per person holding a valid Gibraltar identity card or MOD identity document;
+(c) £30.00 per person for entering lower St Michael’s Cave;
 
 (3)  Subject to section 24A(2), the fees in subparagraphs (1) and (2) are cumulative.
 
