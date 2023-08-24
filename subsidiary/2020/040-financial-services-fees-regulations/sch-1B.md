@@ -8,9 +8,7 @@ Open market insurance companies (life) (insurers and reinsurers), including thos
 
 In Fee Block A4:
 
-Incoming UK credit institution branches; Incoming UK insurance (life) branches; Incoming third country insurance (life) branches; Incoming UK electronic money institution branches.
-
-In Fee Block B1: Captive insurers (life), including those set up as a PCC.
+Incoming UK credit institution branches; Incoming UK insurance (life) branches; Incoming third country insurance (life) branches; Incoming UK electronic money institution branches. In Fee Block B1: Captive insurers (life), including those set up as a PCC.
 
 In Fee Block E1: Insurance intermediaries (life).
 

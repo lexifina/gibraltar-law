@@ -42,9 +42,7 @@ An additional fee of £3,643 for passporting on an establishment basis.
 
 Internal Capital Model Fee
 
-An additional fee of £6,073 for the monitoring of a full, partial or group internal capital model, where an internal capital model has been approved in respect of the regulated person.
-
-Open market insurance companies (life) (insurers and reinsurers, including those structured as PCCs)
+An additional fee of £6,073 for the monitoring of a full, partial or group internal capital model, where an internal capital model has been approved in respect of the regulated person. Open market insurance companies (life) (insurers and reinsurers, including those structured as PCCs)
 
 £ 24,283 Base Fee + (GPI Fee + GTL Fee + Passporting Fee) + Internal Capital Model Fee
 
@@ -176,9 +174,7 @@ An additional fee of £1,215 for passporting on an establishment basis.
 
 Additional Fee An additional fee, charged at a rate of £242 per agent.
 
-An additional fee, charged at a rate of £123 per distributor.
-
-Incoming third country credit institution branches £ 24,283 Base Fee + Customer Fee + Fund Depository Fee + E-money Fee + Mortgage Credit Fee + Investment Services Fee
+An additional fee, charged at a rate of £123 per distributor. Incoming third country credit institution branches £ 24,283 Base Fee + Customer Fee + Fund Depository Fee + E-money Fee + Mortgage Credit Fee + Investment Services Fee
 
 Base Fee A flat fee of £24,283.
 
@@ -354,9 +350,7 @@ Mortgage Credit Fee An additional fee of–
 
 Mortgage book ≥ £250,000,001 – a flat fee of £9,713.
 
-(b) a fee, charged at a rate of £1,429 per exclusively tied credit intermediary and per appointed representative.
-
-Incoming UK insurance branches £ 12,141 Base Fee Only
+(b) a fee, charged at a rate of £1,429 per exclusively tied credit intermediary and per appointed representative. Incoming UK insurance branches £ 12,141 Base Fee Only
 
 Base Fee A flat fee of £12,141.
 
@@ -528,9 +522,7 @@ Transaction Fee A fee payable by firms at a rate of 3p per transaction, up to a 
 
 Passporting Fee An additional fee of £123 for passporting on a services basis.
 
-An additional fee of £3,643 for passporting on an establishment basis.
-
-Investment Firms £ 8,499 Base Fee + Additional Fee 1 + Additional Fee 2 + Transaction Fee + Fund Depositary Fee + Passporting Fee
+An additional fee of £3,643 for passporting on an establishment basis. Investment Firms £ 8,499 Base Fee + Additional Fee 1 + Additional Fee 2 + Transaction Fee + Fund Depositary Fee + Passporting Fee
 
 Base Fee A flat fee of £8,499.
 
@@ -592,9 +584,7 @@ Passporting Fee
 
 An additional fee of £123 for passporting on a services basis.
 
-An additional fee of £1,215 for passporting on an establishment basis.
-
-Small scheme manager £ 8,499 (Base Fee – Discount applicable) + Additional Fee
+An additional fee of £1,215 for passporting on an establishment basis. Small scheme manager £ 8,499 (Base Fee – Discount applicable) + Additional Fee
 
 Base Fee A flat fee of £8,499.
 
@@ -638,9 +628,7 @@ Note: The services passporting fee applies to both–
 
 (b) an AIFM passporting the funds that it manages into the UK.
 
-An additional fee of £1,215 for passporting on an establishment basis.
-
-Small AIFMs
+An additional fee of £1,215 for passporting on an establishment basis. Small AIFMs
 
 £ 8,499 Base Fee – Discount Applicable + Additional Fee + EUVECA/EUSEF Designation Fee
 
@@ -678,9 +666,7 @@ Regulated person Base Fee Method of Calculating Annual Fees
 
 AIFM incoming branches £ 8,499 Base Fee only
 
-Base Fee A flat fee of £8,499.
-
-Incoming UK investment firm branches £ 8,499 Base Fee + Additional Fee
+Base Fee A flat fee of £8,499. Incoming UK investment firm branches £ 8,499 Base Fee + Additional Fee
 
 Base Fee A flat fee of £8,499.
 
@@ -794,9 +780,7 @@ Additional Fee 2 An additional fee based on turnover–
 
 (a) turnover ≤ £500,000 - no additional charge;
 
-(b) turnover ≥ £500,001 - a flat fee of £485.
-
-EIF Directors £ 1,820 Base Fee + Additional Incremental Fee
+(b) turnover ≥ £500,001 - a flat fee of £485. EIF Directors £ 1,820 Base Fee + Additional Incremental Fee
 
 Base Fee (active EIF Directors) A flat fee of £1,820.
 

@@ -4,19 +4,11 @@ Fee Block A1.
 
 Regulated Person Nature of application Application Fee (£) Open market insurance company (non-life) (insurer or reinsurer, whether or not structured as a PCC)
 
-Application for a Part 7 permission 60,000 Open market insurance company (life) (insurer or reinsurer, whether or not structured as a PCC)
-
-Application for a Part 7 permission 60,000 Open market insurance company (life or non-life) (insurer or reinsurer, whether or not structured as a PCC)
+Application for a Part 7 permission 60,000 Open market insurance company (life) (insurer or reinsurer, whether or not structured as a PCC) Application for a Part 7 permission 60,000 Open market insurance company (life or non-life) (insurer or reinsurer, whether or not structured as a PCC)
 
 Application for approval of a new class of business 15,000 Open market insurance company (life or non-life) (insurer or reinsurer, structured as a PCC)
 
-Application for approval of an additional cell 2,500 Open market insurance company (life or non-life) (insurer or reinsurer, whether or not structured as a PCC)
-
-Notification of intention to passport on an establishment basis into a new jurisdiction 10,000 Credit institution Application for a Part 7 permission
-
-75,000 Application to extend permitted activities
-
-10,000 Credit institution or investment firm
+Application for approval of an additional cell 2,500 Open market insurance company (life or non-life) (insurer or reinsurer, whether or not structured as a PCC) Notification of intention to passport on an establishment basis into a new jurisdiction 10,000 Credit institution Application for a Part 7 permission 75,000 Application to extend permitted activities 10,000 Credit institution or investment firm
 
 Application for a Part 7 permission as an EIF bank and/or broker
 
@@ -28,11 +20,7 @@ Application for a Part 7 permission as an EIF bank and/or broker
 
 Credit institution Notification of intention to passport on an establishment basis into a new jurisdiction
 
-10,000 Electronic money institution Application for a Part 7 permission
-
-27,500 Notification of intention to appoint an agent
-
-250 Notification of intention to engage a distributor 150 Notification of intention to passport on an establishment basis into a new jurisdiction
+10,000 Electronic money institution Application for a Part 7 permission 27,500 Notification of intention to appoint an agent 250 Notification of intention to engage a distributor 150 Notification of intention to passport on an establishment basis into a new jurisdiction
 
 5,000 Application to extend permitted activities
 
@@ -54,17 +42,13 @@ Fee Block A3.
 
 Regulated Person Nature of application Application Fee (£) EIF Application for fund authorisation
 
-3,000 ELTIF Application for fund authorisation
-
-4,000 UCITS scheme Application for authorisation of scheme
+3,000 ELTIF Application for fund authorisation 4,000 UCITS scheme Application for authorisation of scheme
 
 6,000 UCITS scheme (umbrella fund) Application for approval of a sub- fund
 
 1,500 Non-UCITS retail scheme Application for authorisation of scheme
 
-4,000 Non-UCITS retail scheme (umbrella fund) Application for approval of sub-fund or part
-
-1,000
+4,000 Non-UCITS retail scheme (umbrella fund) Application for approval of sub-fund or part 1,000
 
 Fee Block A4.
 
@@ -86,17 +70,11 @@ Fee Block B1.
 
 Regulated Person Nature of application Application Fee (£) CIS administrator Application for a Part 7 permission
 
-7,000 CIS administrator (non-Gibraltar) Application to be recognised
-
-2,000 Insurance manager Application for a Part 7 permission
-
-20,000 Captive insurer (whether or not structured as a PCC) Application for a Part 7 permission
+7,000 CIS administrator (non-Gibraltar) Application to be recognised 2,000 Insurance manager Application for a Part 7 permission 20,000 Captive insurer (whether or not structured as a PCC) Application for a Part 7 permission
 
 10,000 Application for approval of a new class of business
 
-5,000 Captive Insurer (structured as a PCC) Application for approval of an additional Cell
-
-2,500 Special Purpose Vehicle Application to be authorised
+5,000 Captive Insurer (structured as a PCC) Application for approval of an additional Cell 2,500 Special Purpose Vehicle Application to be authorised
 
 4,400 Application to be authorised (fast track application as defined in guidance issued by the GFSC)
 
@@ -104,11 +82,7 @@ Regulated Person Nature of application Application Fee (£) CIS administrator Ap
 
 2,500 Class A payment institution Application for a Part 7 permission
 
-4,125 Class B payment institution Application for a Part 7 permission
-
-6,025 Class C payment institution Application for a Part 7 permission
-
-8,250 Class A payment institution Application to be registered
+4,125 Class B payment institution Application for a Part 7 permission 6,025 Class C payment institution Application for a Part 7 permission 8,250 Class A payment institution Application to be registered
 
 4,125 Class B payment institution Application to be registered
 
@@ -122,23 +96,15 @@ Class C payment institution Application to be registered
 
 2,500 Category 1 investment firm Application for a Part 7 permission
 
-£17,000 Category 2A investment firm Application for a Part 7 permission
+£17,000 Category 2A investment firm Application for a Part 7 permission 13,000 Category 2B investment firm Application for a Part 7 permission 10,000 Category 3 investment firm Application for a Part 7 permission
 
-13,000 Category 2B investment firm Application for a Part 7 permission
-
-10,000 Category 3 investment firm Application for a Part 7 permission
-
-7,000 Investment firm, all Categories Application to extend permitted activities
-
-3,000 Notification of intention to passport on an establishment basis 1,500 Pension adviser Application for a Part 7 permission
+7,000 Investment firm, all Categories Application to extend permitted activities 3,000 Notification of intention to passport on an establishment basis 1,500 Pension adviser Application for a Part 7 permission
 
 7,000 UCITS management company Application for a Part 7 permission as a UCITS manager
 
 11,000 Application to passport as a UCITS manager on an establishment basis 1,500 Small Scheme Manager Application for a Part 7 permission
 
-3,000 AIFM (Self-managed AIF) (In-scope) Application for a Part 7 permission
-
-9,000 AIFM (External AIFM) (In-scope) Application for a Part 7 permission
+3,000 AIFM (Self-managed AIF) (In-scope) Application for a Part 7 permission 9,000 AIFM (External AIFM) (In-scope) Application for a Part 7 permission
 
 9,000 Small AIFM Application to be registered 500
 
@@ -154,9 +120,7 @@ AIFM Notification of intention to passport on an establishment basis 1,500 Appli
 
 Application for recognition
 
-3,000 Non-credit institution mortgage credit provider
-
-Application for a Part 7 permission
+3,000 Non-credit institution mortgage credit provider Application for a Part 7 permission
 
 10,000 Non-credit institution mortgage credit provider Application for registration of an exclusively tied credit intermediary or an appointed representative
 
@@ -174,13 +138,7 @@ Regulated Person Nature of application Application Fee (£) UK AIFM Notification
 
 Incoming UK investment firm branch Notification of intention to passport into Gibraltar on an establishment basis
 
-2,500 Incoming UK payment institution branch Notification of intention to passport into Gibraltar on an establishment basis
-
-1,100 Incoming UK payment institution Notification of intention to appoint an agent in Gibraltar
-
-1,100 Incoming UK UCITS manager branchNotification of intention to passport into Gibraltar on an establishment basis
-
-2,000
+2,500 Incoming UK payment institution branch Notification of intention to passport into Gibraltar on an establishment basis 1,100 Incoming UK payment institution Notification of intention to appoint an agent in Gibraltar 1,100 Incoming UK UCITS manager branchNotification of intention to passport into Gibraltar on an establishment basis 2,000
 
 Fee Block C1.
 
@@ -190,21 +148,13 @@ Regulated Person Nature of application Application Fee (£) Audit firm Applicati
 
 300 Statutory auditor (individuals) Application for approval
 
-4,200 Statutory auditor (individuals) approved as an individual statutory auditor of an audit firm)
+4,200 Statutory auditor (individuals) approved as an individual statutory auditor of an audit firm) Application for approval to conduct business in an individual capacity
 
-Application for approval to conduct business in an individual capacity
-
-3,000 Incoming UK audit firm Application for recognition
-
-1,000 Incoming UK statutory auditor Application for approval
+3,000 Incoming UK audit firm Application for recognition 1,000 Incoming UK statutory auditor Application for approval
 
 500 Incoming third country audit entity Application for approval
 
-4,200 Incoming third country auditor
-
-Application for approval
-
-500 Bureau de change Application for a Part 7 permission
+4,200 Incoming third country auditor Application for approval 500 Bureau de change Application for a Part 7 permission
 
 3,500
 
@@ -214,13 +164,9 @@ Regulated Person Nature of application Application Fee (£) Company manager (one
 
 Application for a Part 7 permission
 
-2,750 Application for a Part 7 permission for an additional entity within the same group
+2,750 Application for a Part 7 permission for an additional entity within the same group 500 Company manager Application for a Part 7 permission to also be a professional trustee
 
-500 Company manager Application for a Part 7 permission to also be a professional trustee
-
-500 Application for a Part 7 permission to provide nominee shareholder services only
-
-750 Professional trustee (one legal entity or group)
+500 Application for a Part 7 permission to provide nominee shareholder services only 750 Professional trustee (one legal entity or group)
 
 Application for a Part 7 permission
 
@@ -246,23 +192,13 @@ Regulated Person Nature of application Application Fee (£) Insolvency Practitio
 
 2,000 EIF director Application for consent
 
-500 Application to vary scope of consent
-
-150
+500 Application to vary scope of consent 150
 
 Fee Block E1.
 
 Regulated Person Nature of application Application Fee (£) Insurance intermediary (general) Application for a Part 7 permission
 
-4,200 Application to extend permitted activities
-
-2,000 Notification of intention to passport on an establishment basis
-
-1,100 Insurance intermediaries (life) Application for a Part 7 permission
-
-4,500 Application to extend permitted activities
-
-2,000 Notification of intention to passport on an establishment basis
+4,200 Application to extend permitted activities 2,000 Notification of intention to passport on an establishment basis 1,100 Insurance intermediaries (life) Application for a Part 7 permission 4,500 Application to extend permitted activities 2,000 Notification of intention to passport on an establishment basis
 
 1,100 Mortgage credit intermediary Application for a Part 7 permission  5,000 Application for registration of an appointed representative 1,500 Notification of intention to passport on an establishment basis
 
@@ -270,9 +206,7 @@ Regulated Person Nature of application Application Fee (£) Insurance intermedia
 
 Fee Block E2.
 
-Regulated Person Nature of application Application Fee (£) Incoming UK insurance intermediary (general and life) branch Notification of intention to passport into Gibraltar on an establishment basis
-
-1,100 Incoming UK mortgage credit intermediary branch Notification of intention to passport into Gibraltar on an establishment basis
+Regulated Person Nature of application Application Fee (£) Incoming UK insurance intermediary (general and life) branch Notification of intention to passport into Gibraltar on an establishment basis 1,100 Incoming UK mortgage credit intermediary branch Notification of intention to passport into Gibraltar on an establishment basis
 
 2,500
 
