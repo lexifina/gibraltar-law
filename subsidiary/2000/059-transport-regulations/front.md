@@ -12,7 +12,7 @@ LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1), (3), 118(1)(c), (3), 
 
 22.9.2000 2000/082 Sch.1 26.10.2000 2000/090 r. 118(1)(d) 30.11.2000 2003/066 rr. 38-40, 64A, 116(1), 117(1), 124A, Sch.1 29.5.2003 2005/049 r. 3(3), Sch.5 1.4.2005 2005/065 rr. 117A – 117K, Schs.1, 5 7.4.2005 2005/162 r. 117E(c)-(d) 8.12.2005 2010/017 Sch.5 21.1.2010 2010/018 Sch.5 21.1.2010 2011/004 rr. 71(1), 117E(e), 117F(e) 20.1.2011 2011/018 r. 64A(a), (e)-(g) 24.2.2011 2012/152 r. 117E(b) 1.11.2012 2016/066 rr. 12(3), 37(2), 64(1), (1A), (2)-(3), (3A), (4)-(5), 64A, 66, 67(1), (3), (3A), 71(1), 71A, 124, 126-132, Schs.3, 6
 
-24.3.2016 2016/081 Sch.5 1.5.2016 2016/145 r. 67(5)(a)-(b), (6), Sch.3 7.7.2016 2017/256 r. 3(2), Sch.5 21.12.2017 2018/232 rr. 107(1), (2)(c), (5)-(6), 107A 25.10.2018 2019/237 r. 81(3), Sch. 1 28.11.2019
+24.3.2016 2016/081 Sch.5 1.5.2016 2016/145 r. 67(5)(a)-(b), (6), Sch.3 7.7.2016 2017/256 r. 3(2), Sch.5 21.12.2017 2018/232 rr. 107(1), (2)(c), (5)-(6), 107A 25.10.2018 2019/237 r. 81(3), Sch. 1 28.11.2019 2023/252 r. 63A 24.8.2023
 
 ARRANGEMENT OF REGULATIONS
 
@@ -64,15 +64,15 @@ PROVISIONS APPLICABLE TO ALL PUBLIC SERVICE VEHICLES
 
 PROVISIONS APPLICABLE TO BUSES
 
-49. Entrances and exits 50. Entrances, etc., to be kept clear 51. Emergency exits 52. Accessibility from seats to exits 53. Doors 54 Steps 55. Gangway 56. Internal height 57. Seats 58. Glass facing transverse seats 59. Interior light 60. Signal to driver 61. Standing passengers 62. Carriage of goods 63. Availability of Regulations
+49. Entrances and exits 50. Entrances, etc., to be kept clear 51. Emergency exits 52. Accessibility from seats to exits 53. Doors 54 Steps 55. Gangway 56. Internal height 57. Seats 58. Glass facing transverse seats 59. Interior light 60. Signal to driver 61. Standing passengers 62. Carriage of goods 63. Availability of Regulations 63A. Advertising on buses
 
 PART V REGULATIONS OF PASSENGER TRANSPORT VEHICLES
 
 TAXIS
 
-64. Distinguishing marks 64A. Advertising on taxis 65. Use of concessioned taxis 66. Plying or standing for hire and prohibition on touting. 67. Availability of taxis 68. Refusing or neglecting to be hired 69. Only fare paying passenger to sit along-side driver 70. No unreasonable stopping 71. Notice to be displayed 71A.  Plate to be affixed. 72. Passenger refusing to pay fare 73. Passenger damaging taxi 74. Taxis to be fitted with taximeters 75. Use of taximeters 76. Taximeters not to be tampered with 77. Fares for hire by distance and time
+64. Distinguishing marks 64A. Advertising on taxis 65. Use of concessioned taxis 66. Plying or standing for hire and prohibition on touting. 67. Availability of taxis 68. Refusing or neglecting to be hired 69. Only fare paying passenger to sit along-side driver 70. No unreasonable stopping 71. Notice to be displayed 71A.  Plate to be affixed. 72. Passenger refusing to pay fare 73. Passenger damaging taxi 74. Taxis to be fitted with taximeters 75. Use of taximeters 76. Taximeters not to be tampered with
 
-78. Maximum fares
+77. Fares for hire by distance and time 78. Maximum fares
 
 ROUTE BUSES
 
@@ -120,9 +120,7 @@ PART VIIA MISCELLANEOUS PROVISIONS
 
 117A. Keeping and Production of Self-Drive Operator’s Licence. 117B. Prohibition of touting in connection with hire of self-drive cars.
 
-PART VIIB
-
-LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES
+PART VIIB LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES
 
 117C.  Driver and conductor licences. 117D.  Application for licence. 117E.   Conditions for grant of licence to drive. 117F.   Conditions for grant of licence to conduct. 117G.  Renewal of licence. 117H.  Duplicate licence. 117I. Forms and fees. 117J. Periodical examination of drivers of public service vehicles. 117K.  Medical Certificates.
 
@@ -176,4 +174,6 @@ SCHEDULE 3 Fix penalties
 
 Form of notice
 
-SCHEDULE 4 Provisions relating to the seating capacity of public service vehicles
+SCHEDULE 4
+
+Provisions relating to the seating capacity of public service vehicles

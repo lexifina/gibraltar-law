@@ -18,7 +18,7 @@ OPERATOR LICENCES
 
 £
 
-1 For every application for an operator licence 50.00 2 For every operator licence 250.00 3  For every transfer of operator licence 250.00 4 For a duplicate operator licence 25.00 5 For every application for the amendment of an operator licence 50.00 6 For every renewal of an operator licence
+1 For every application for an operator licence 50.00 2 For every operator licence 250.00 3 For every transfer of operator licence 250.00 4 For a duplicate operator licence 25.00 5 For every application for the amendment of an operator licence 50.00 6 For every renewal of an operator licence
 
 Note.
 
