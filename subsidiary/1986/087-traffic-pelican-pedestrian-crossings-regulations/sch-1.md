@@ -16,9 +16,21 @@ Traffic signs.
 
 (c) indicators for pedestrians.
 
+Additional Traffic Signs.
+
+1A.  In addition to the traffic signs listed in paragraph 1, a ‘Pelican’ crossing may also include bicycle and personal light electric transporter traffic light signals.
+
 Vehicular traffic light signals.
 
 2. The vehicular traffic light signals shall be as follows:–
+
+(a) three lights shall be used, one red, one amber and one green;
+
+(b) the lamps showing the aforesaid lights shall be arranged vertically, the lamp showing the red light being the uppermost and that showing the green light the lowermost.
+
+Bicycle and personal light electric transporter traffic light signals.
+
+2A. The bicycle and personal light electric transporter traffic light signals shall be as follows–
 
 (a) three lights shall be used, one red, one amber and one green;
 
@@ -61,6 +73,10 @@ Sequence of signs.
 (b) the period. during which the audible signal is given, commences and terminates in relation to the periods during which the light signals specified in sub-paragraph (i) of this paragraph are given as shown in the columns in the table in Part IV of this Schedule as if each horizontal line had the significance specified in that paragraph-
 
 (3) In this paragraph “vehicle period” means such period as may be fixed from time to time in relation to a 'Pelican' crossing, which commences when the vehicular traffic light signals cease to show a flashing amber light and during which the vehicular traffic light signals show a green light.
+
+Bicycle and personal light electric transporter traffic signal sequencing.
+
+5A. In paragraph 5, “vehicular traffic signal” includes a bicycle and personal light electric transporter traffic signal and the sequencing provisions set out in that paragraph and Part IV of this Schedule are modified accordingly.
 
 Operation by remote control.
 
