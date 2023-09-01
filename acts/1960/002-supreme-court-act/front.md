@@ -22,15 +22,25 @@ Act. 1960-11 ss. 8, 14, 17, 38(1)
 
 1970-03 s. 28(1)
 
-Regs. of 28.5.1970 s. 20 Act. 1971-14 s. 28(2)
+Regs. of 28.5.1970 s. 20
 
-1972-06 s. 19 1974-24 ss. 20-21
+Act. 1971-14 s. 28(2)
 
-1975-24 ss. 27, 36 1977-01 s. 13
+1972-06 s. 19
 
-1977-02 – 1977-35 ss. 2, 4(2), 6(1), 18(2)-(3), 26
+1974-24 ss. 20-21
 
-1978-06 s. 23 1978-29 s. 37
+1975-24 ss. 27, 36
+
+1977-01 s. 13
+
+1977-02 –
+
+1977-35 ss. 2, 4(2), 6(1), 18(2)-(3), 26
+
+1978-06 s. 23
+
+1978-29 s. 37
 
 1980-04 ss. 3(2), 34, 38(1)
 
@@ -38,11 +48,11 @@ Regs. of 28.5.1970 s. 20 Act. 1971-14 s. 28(2)
 
 1983-48 s. 36 1986-24 ss. 28-29, 32, 38(cc). 1.1.1987 1987-34 s. 20(q) 27.12.1987 1988-35 ss. 17, 17A-17B, 20-21, 36A. 15.12.1988 1997-25 s. 20(q) 21.8.1997 1997-32 ss. 35A-35H, 28(1), (c), 29(1)(a), Sch 16.10.1997 2002-12 ss. 39-72 19.12.2002 2004-23 s. 35A(1), Sch Part I. 1.5.2004 2004-11 ss. 38A-38B 1.9.2004 2008-05 ss. 41(1)-(3), 73, Sch. 1.1.2007 2007-17 s. 37 14.6.2007 2007-24 ss. 3, 27(1), 28(3), 36, 38B(4) 28.6.2007 2010-10 s. 12A 6.5.2010 2010-16 s. 36B 8.7.2010
 
-2010-201 ss. 19-22I, 23-27, 27A-27V, 35A, Schs. 2-4 1.1.20112 LN. 2011/105 ss. 72A-72G 7.7.2011 Act. 2012-09 ss. 27E(2)-(3), 27G(3) 27.9.2012 2012-17 s. 12A(1)-(2), (2A), (3)-(4) 22.11.2012 LN. 2013/134 ss. 35A(1), 35H(1), 41, Sch. 1 1.7.2013 2015/003 s. 72C(3) 10.1.2015 Act. 2015-14 ss. 27W, 27X, 28(1)(c), (2A), 29(1)(a), (ba), (1A), 34(3)(b), 35
+2010-20 ss. 19-22I, 23-27, 27A-27V, 35A, Schs. 2-4 1.1.20112 LN. 2011/105 ss. 72A-72G 7.7.2011 Act. 2012-09 ss. 27E(2)-(3), 27G(3) 27.9.2012 2012-17 s. 12A(1)-(2), (2A), (3)-(4) 22.11.2012 LN. 2013/134 ss. 35A(1), 35H(1), 41, Sch. 1 1.7.2013 2015/003 s. 72C(3) 10.1.2015 Act. 2015-14 ss. 27W, 27X, 28(1)(c), (2A), 29(1)(a), (ba), (1A), 34(3)(b), 35
 
 1.7.20153 2015-19 ss. 29 6.8.2015 2016-18 s. 16, Sch. 2 23.4.2018 2017-10 Sch. 2 13.6.2018 LN. 2020/523 ss. 72A-72G 1.1.2021 2020/528 ss. 41, 42(1), 64(1), 67 1.1.2021 2021/481 Sch. 4 9.12.2021 Act. 2017-15 ss. 2, 27W(5), (10), 28(1)(d), (3), 29(1)(c), 31(1)-(2), 32, 34(1)(aa), 35
 
-30.12.20221 LN. 2023/216 ss, 39-72 27.7.2023
+30.12.20221 LN. 2023/216 ss, 39-72 27.7.2023 “ ss. 35A-35H 1.9.2023
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
@@ -52,25 +62,9 @@ Transposing: Directive 77/249/EEC Directive 98/5/EC Directive 2006/100/EC Direct
 
 Implementing: Regulation (EU) No 1215/2012
 
-1 Transitional and miscellaneous provisions.
-
-7.(1)  The jury list which was in force immediately before section 3 of this Act came into operation shall be deemed to remain in force until such time as a new list has come into force in accordance with section 19B of the Supreme Court Act (as inserted by this Act).
-
-(2)  Notwithstanding section 19B(4) of the Supreme Court Act (as inserted by this Act) the first jury list complied under section 19B shall come into force on the day it is received by the Registrar following certification by the clerk of the magistrates’ court
-
-(3)  The first jury list complied under section 19B shall remain in force until the 30th September 2011.
-
-(4)  The Minister may by order amend Schedule 4 to the Supreme Court Act.
-
-2 See LN. 2010/183 3 See LN. 2015/102 1 Commencement Notice (LN.2022/348)
-
 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
-REARRANGEMENT AND RENUMBERING OF SECTIONS
-
-Provisions relating to criminal procedure have been transferred to the Criminal Procedure Act.
-
-Previous number New number Previous number New number 1 1 32 21 2 2 32A Act. 1961-24, s.158 3 Repealed 33 Repealed 4 “ 34 22 5 “ 35 23 6 “ 36 Act. 1961-24, s.139 7 “ 37 Act. 1961-24, s.141 8 9 38 Act. 1961-24, s.142 9 3 39 Act. 1961-24, s.143 10 4 39A Act. 1961-24, s.144 11 5 40 Act. 1961-24, s.138 12 7 41 Repealed 13 6 42 Act. 1961-24, s.140 14 28 43 Act. 1961-24, s.145 15 32 44 Act. 1961-24, s.146 16 29 45 Act. 1961-24, s.149 17 30 46 26 18 31 47 Act. 1961-24, s.150 19 33 47A Act. 1961-24, s.151 20 34 47B Act. 1961-24, s.153 21 35 47C Act. 1961-24, s.147 22 12 48 Act. 1961-24, s.154 22A 13 49 Act. 1961-24, s.155 23 16 50 Act. 1961-24, s.156 24 15 51 27 25 17 51A 36 26 14 52 37 27 Act. 1961-24, s.128 53 38 28 Act. 1961-24, s.148 54 Act. 1961-24, s.157 29 Act. 1961-24, s.158 55 10 30 19 56 18 31 20 57 8
+2 See LN. 2010/183 3 See LN. 2015/102 1 Commencement Notice (LN.2022/348)
 
 ARRANGEMENT OF SECTIONS
 
@@ -102,15 +96,9 @@ PART IV. BARRISTERS AND SOLICITORS.
 
 27W.  Interpretation of Part IV 27X.  Practical training requirement 28. Admission of barristers. 29. Admission of solicitors. 30. Enrolment of solicitors. 31. Barristers and solicitors may practice in all courts. 32. Barristers may act as solicitors. 33. Law relating to barristers and solicitors. 34. Disciplinary powers of Chief Justice. 35. Repealed.
 
-PART IVA EEA LAWYERS
-
-35A. Interpretation of Part IVA. 35B. Purpose of Part. 35C. Representation in legal proceedings. 35D. Drawing of documents, etc, not related to legal proceedings. 35E Legal aid. 35F. Title and description to be used by EEA lawyers. 35G. Power to require an EEA lawyer to verify his status. 35H. Professional misconduct.
-
 PART V. MISCELLANEOUS.
 
-36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court.
-
-36B.  Recovery of insurance premiums by way of costs. 37. Rules regulating funds in court. 38. Rules of court. 38A. Civil Procedure Rules. 38B. Masters.
+36. Interest on judgment debts. 36A. Fees to betaken in the Supreme Court. 36B.  Recovery of insurance premiums by way of costs. 37. Rules regulating funds in court. 38. Rules of court. 38A. Civil Procedure Rules. 38B. Masters.
 
 PARTS VI to XI Deleted
 
