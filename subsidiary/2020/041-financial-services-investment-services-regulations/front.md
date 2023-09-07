@@ -6,9 +6,7 @@ LN.2020/041
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date
-
-LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-126, Sch.2
+Amending enactments Relevant current provisions Commencement date LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-126, Sch.2
 
 30.1.2020 2020/118 r. 47(1A) 26.3.2020 2020/492 rr. 2, 3(1)-(2), 4(1)(b)-(c), (7), 8(1)-(3), (c)-(d), (4), (c)(i)-(v), (5)-(6), (a)(i), (b)(i), (7)-(10), 9(1)(a)-(d), 11, 12(4)-(6), 15(2), 16(1)-(2), 18(4)(a), 20(4), 23(2), (3)(c), (4), 24(2), 26(2)(a), (3)(c)-(d), 29(1)(a), (9)(b), (10), 30(7)(a), 32(1)(b), (2), 35(1)(a)(iv), (2), (5)-(6), (10)(d)(iii), (14)-(15),(18), 36(9), (19), (21), 37(11), 39(11)(b), 40(8)(a)(iv), (16), 42(15), 43(5), 44(3)(d), (f), (6), 46(9), (12)(a)(i), (18), 47(1)(a)-(b), (3), 48(5), (6)(b), (8), 49(1), 50, 51(1)-(2), (4), 53(9), (19)(h), 54(2), (5), (6)(a), (7), 56(5), 57(1)(b)(iv), (d)(iv), (2)-(3), (5), 58(8), (18), 61(3), (6)-(9), 62(1)(b)(iv), (2)(d), (3)- (4), (6), 63(9)-(10), 66(2)(c)(ii), (e), (g), (6), (9), 67(2), 68(3), (6)(c), (7)-(11), (14), (16), (18), (20)- (21), 69(1)(b), (2)-(4), (6)(c)(i)-(ii), (e), (9), 74(3), 76(1)-(2), 78-98, 99(3)-(4), 101(1), 107(9)-(10), 108-109, 110(2)(c)-(d), 111(4), 114(2), 116-121, 122(3), 123(5), 124, 125(1), Sch.1
 
@@ -16,9 +14,9 @@ LN.2020/052 rr. 2(1), 7(1)(a), (2), 62A-62C, 77(5), 96(2), 100(1), 111(6), 125-1
 
 1.1.2022 2022/131 rr. 1(3), 2(3), 32(2), 36(19), 38(3)(d)-(l), (3A), 40(8)(a)(iv), (9), (16)(b), 42(7), (12), (13)(b), (15)(d)-(e), 46(18)(b), 54(7), 58(18), 99(4)(a), 106(3), 122(3)
 
-26.5.2022
+26.5.2022 2022/321 r. 74A(1)-(2) 24.11.2022
 
-2022/321 r. 74A(1)-(2) 24.11.2022
+2023/260 r. 12(1A) 7.9.2023
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -40,9 +38,9 @@ Chapter 2 Investment firms
 
 Chapter 3 Regulated markets
 
-20. General requirements: regulated markets and market operators.
+20. General requirements: regulated markets and market operators. 21. Financial resources.
 
-21. Financial resources. 22. Market operator operating an MTF or OTF.
+22. Market operator operating an MTF or OTF.
 
 PART 3 CONDUCT OF BUSINESS
 
@@ -70,9 +68,7 @@ Investor protection: general principles
 
 Inducements
 
-37. Inducements. 38. Inducements: advice on independent basis or portfolio management.
-
-39. Inducements in relation to research.
+37. Inducements. 38. Inducements: advice on independent basis or portfolio management. 39. Inducements in relation to research.
 
 Provisions to ensure investor protection
 
@@ -94,9 +90,9 @@ Chapter 1 Investment firms
 
 Chapter 2 Regulated markets
 
-58. Requirements for management body of market operator.
+58. Requirements for management body of market operator. 59. Requirements relating to persons exercising significant influence over regulated market. 60. Organisational requirements: regulated markets.
 
-59. Requirements relating to persons exercising significant influence over regulated market. 60. Organisational requirements: regulated markets. 61. Access to regulated market. 62. Monitoring compliance with regulated market rules and other legal obligations. 62A. Complaints. 62B. Co-operation with GFSC and Government. 62C. General notification obligations.
+61. Access to regulated market. 62. Monitoring compliance with regulated market rules and other legal obligations. 62A. Complaints. 62B. Co-operation with GFSC and Government. 62C. General notification obligations.
 
 Chapter 3 Specific requirements for trading venues
 
@@ -120,9 +116,7 @@ Regulated markets
 
 PART 6 NOTIFICATION AND REPORTING
 
-72. Management body. 73. Duty to notify changes. 74. Notification of controllers etc.
-
-74A. Submission of accounts, etc. to GFSC. 75. Reports by external auditors. 76. Relations with auditors. 77. Reporting of contraventions.
+72. Management body. 73. Duty to notify changes. 74. Notification of controllers etc. 74A. Submission of accounts, etc. to GFSC. 75. Reports by external auditors. 76. Relations with auditors. 77. Reporting of contraventions.
 
 PART 7 THIRD COUNTRY FIRMS
 
@@ -144,9 +138,7 @@ PART 9 MISCELLANEOUS
 
 Monitoring compliance
 
-114. GFSC duties to monitor compliance by investment firms. 115. GFSC duties to monitor compliance by regulated markets.
-
-116. to 121 Omitted. 122. Cooperation agreements with third countries.
+114. GFSC duties to monitor compliance by investment firms. 115. GFSC duties to monitor compliance by regulated markets. 116. to 121 Omitted. 122. Cooperation agreements with third countries.
 
 Confidentiality and exchange of information
 
