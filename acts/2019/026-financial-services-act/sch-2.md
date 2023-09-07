@@ -100,7 +100,7 @@ Chapter 2 Investment services and investment activities
 
 The regulated activities
 
-48. Reception and transmission of orders. 49. Execution of orders on behalf of clients. 50. Dealing on own account. 51. Portfolio management. 52. Investment advice. 53. Underwriting or placing on a firm commitment basis. 54. Placing without a firm commitment basis. 55. Operation of an MTF. 56. Operation of an OTF.
+48. Reception and transmission of orders. 49. Execution of orders on behalf of clients. 50. Dealing on own account. 51. Portfolio management. 52. Investment advice. 53. Underwriting or placing on a firm commitment basis. 54. Placing without a firm commitment basis. 54A. Arranging deals in investments. 54B. Safeguarding and administering financial instruments etc. 55. Operation of an MTF. 56. Operation of an OTF.
 
 Exclusions
 
@@ -148,7 +148,9 @@ PART 9 MARKETS IN FINANCIAL INSTRUMENTS
 
 General
 
-83. Application of Part 9 of this Schedule. 84. Markets to which this Part applies.
+83. Application of Part 9 of this Schedule.
+
+84. Markets to which this Part applies.
 
 The regulated activity
 
@@ -180,9 +182,9 @@ Chapter 2 Collective investment schemes
 
 The regulated activities
 
-93. Managing a UCITS. 94. Acting as depositary of a UCITS. 94A. Acting as trustees of a UCITS. 94B. Acting as sole director of a UCITS. 95. Managing an AIF (in-scope AIFM). 96. Acting as depositary of an AIF with an in-scope AIFM. 97. Managing an AIF (small scheme manager). 98. Acting as depositary of an AIF with a small scheme manager.
+93. Managing a UCITS. 94. Acting as depositary of a UCITS. 94A. Acting as trustees of a UCITS. 94B. Acting as sole director of a UCITS. 95. Managing an AIF (in-scope AIFM). 96. Acting as depositary of an AIF with an in-scope AIFM.
 
-99. Establishing etc. a collective investment scheme. 100. Acting as bank and/or broker of an experienced investor fund. 101. Acting as depositary of a private scheme. 102. Acting as administrator of a collective investment scheme.
+97. Managing an AIF (small scheme manager). 98. Acting as depositary of an AIF with a small scheme manager. 99. Establishing etc. a collective investment scheme. 100. Acting as bank and/or broker of an experienced investor fund. 101. Acting as depositary of a private scheme. 102. Acting as administrator of a collective investment scheme.
 
 Exclusions
 
@@ -208,7 +210,9 @@ General
 
 The regulated activities
 
-118. Granting credit by means of a mortgage credit agreement. 119. Acting as a mortgage credit intermediary. 120. Providing advisory services in connection with mortgage credit.
+118. Granting credit by means of a mortgage credit agreement.
+
+119. Acting as a mortgage credit intermediary. 120. Providing advisory services in connection with mortgage credit.
 
 Exclusions
 
@@ -269,6 +273,10 @@ The regulated activity
 Exclusions
 
 140. Exclusions from paragraph 139. 141. Activities incidental to carrying on other regulated activities. 142. Activities of persons subject to other forms of statutory regulation.
+
+PART 17 OTHER SPECIFIED ACTIVITIES
+
+143. Agreeing to carry on specified kinds of activity.
 
 REGULATED ACTIVITIES
 
@@ -944,6 +952,10 @@ Effecting and carrying out contracts of insurance.
 
 (2)  Carrying out a contract of insurance as principal is a specified kind of activity.
 
+(3)  A person with permission under Part 7 of this Act to carry on an activity of a kind specified by sub-paragraph (1) or (2) may also, in connection with or for the purposes of carrying on that activity, carry on activities of a kind specified by paragraphs 48 to 54B as if those activities were included in the activity specified by sub-paragraph (1) or (2).
+
+(4)  For the purposes of sub-paragraph (3), paragraphs 48 to 54B are to apply as if contracts of insurance were included in the kinds of financial instruments specified by paragraph 46.
+
 Exclusions
 
 Exclusions from paragraph 24.
@@ -988,9 +1000,7 @@ Prohibited contracts of insurance.
 
 (ii) located in a particular country or territory.
 
-Chapter 3
-
-Insurance management
+Chapter 3 Insurance management
 
 Interpretation of Chapter 3 of Part 5.
 
@@ -1058,7 +1068,21 @@ Interpretation of Chapter 4 of Part 5.
 
 (ii) concluding such contracts; or
 
-(iii) assisting in the administration and performance of such contracts, in particular in the event of a claim; and
+(iii) assisting the parties to such contracts in the administration and performance of those contracts, in particular in the event of a claim, including (without limiting this paragraph)–
+
+(aa) assisting the parties to comply with obligations under such contracts, such as the obligations of policyholders to notify insurers of claims or other matters;
+
+(bb) assisting the parties in negotiating the settlement of claims under such contracts;
+
+(cc) arranging, on behalf of the parties to group contracts of insurance, for persons to be added to and acquire rights under, or be removed from, such a group contract; or
+
+(dd) assisting the parties to unit-linked contracts of life insurance with the purchase or redemption of units under such contracts; and
+
+(iv) advising policyholders and other persons having rights under or interests in concluded contracts of insurance and assisting the parties to them with–
+
+(aa) the sale, assignment, surrender or switching of rights or interests under such concluded contracts, or
+
+(bb) the purchase or acquisition of further rights under or interests in such concluded contracts; and
 
 (b) includes the provision of information concerning one or more contracts of insurance in accordance with criteria selected by customers through a website or other media and the compilation of an insurance product ranking list, including price and product comparison, or a discount on the price of a contract of insurance, when the customer is able to directly or indirectly conclude a contract of insurance using a website or other media;
 
@@ -1152,9 +1176,7 @@ Application of Part 6 of this Schedule.
 
 (b) specifies the kinds of activity carried on relation to such financial instruments which are to be regulated activities (sending dematerialised instructions).
 
-Chapter 2
-
-Investment services and investment activities
+Chapter 2 Investment services and investment activities
 
 Interpretation of Chapter 2 of Part 6. of this Schedule
 
@@ -1240,7 +1262,7 @@ Ancillary services.
 
 (2)  The following are “ancillary services”.
 
-1.  Safekeeping and administration of financial instruments for the account of clients, including custodianship and related services such as cash/collateral management and excluding maintaining securities accounts at the top tier level (“central maintenance service”) referred to in point (2) of Section A of the Annex to the CSD Regulation.
+1.  Omitted.
 
 2.  Granting credits or loans to an investor to allow the investor to carry out a transaction in one or more financial instruments, where the firm granting the credit or loan is involved in the transaction.
 
@@ -1474,6 +1496,70 @@ Placing without a firm commitment basis.
 
 54.  Placing of financial instruments without a firm commitment basis is a specified kind of activity.
 
+Arranging deals in investments.
+
+54A.(1) Making arrangements with a view to a person who participates in them buying, selling, subscribing for or underwriting a financial instrument, structured deposit or contract of insurance is a specified kind of activity.
+
+(2)  In sub-paragraph (1)–
+
+“contract of insurance” means a contract of insurance of any class in paragraph 22 or 23; and
+
+“structured deposit” has the meaning given in paragraph 77(2).
+
+(3)  The exclusions in sub-paragraph (4)(b), (c) and (f) do not apply in respect of any arrangement relating to a contract of insurance.
+
+(4)  Subject to sub-paragraph (3), there are excluded from sub-paragraph (1)–
+
+(a) the operation of a multilateral trading facility or an organised trading facility;
+
+(b) arrangements which a person makes with a view to entering into transactions as principal or as agent for some other person;
+
+(c) arrangements made by a person (“P”) who is not an authorised person with a view to another person (“the client”) entering into a transaction with or through an authorised person based on advice given to the client by the authorised person where–
+
+(i) the client is not seeking and has not sought advice from P as to the merits of the transaction (or, if the client has done so, P has declined to give it but recommended that the client seek the advice from an authorised person); and
+
+(ii) P does not receive from any person other than the client any pecuniary reward or other advantage for which P does not account to the client;
+
+(d) arrangements under which a person is to accept, as principal or agent, a debenture or similar instrument acknowledging indebtedness in respect of a loan or guarantee provided by that person or the person’s principal;
+
+(e) arrangements solely for the provision of finance to enable a person to buy, sell, subscribe for or underwrite financial instruments, structured deposits or contracts of insurance;
+
+(f) arrangements under which a person (“the client”) is to be introduced to an authorised person with a view to the authorised person giving independent advice to the client; or
+
+(g) arrangements made by a person for the purposes of issuing its own shares, share warrants, debentures or debenture warrants.
+
+Safeguarding and administering financial instruments etc.
+
+54B.(1)  The activity consisting of both–
+
+(a) the safeguarding of relevant assets belonging to another; and
+
+(b) the administration of those relevant assets,
+
+or arranging for one or more other persons to carry on that activity, is a specified kind of activity if the condition in sub-paragraph (a) or (b) of paragraph (2) is met.
+
+(2)  The conditions are that–
+
+(a) the assets consist of or include any investment which is a security or a contractually based investment; or
+
+(b) the arrangements for their safeguarding and administration are such that the assets may consist of or include such investments and the arrangements have at any time been held out as ones under which such investments would be safeguarded and administered.
+
+(3)  In sub-paragraph (1), “relevant assets” means financial instruments or qualifying contracts of insurance.
+
+(4)  A “qualifying contract of insurance" means a contract of life insurance which is not–
+
+(a) a reinsurance contract; nor
+
+(b) a contract in respect of which the following conditions are met–
+
+(i) the benefits under the contract are payable only on death or in respect of incapacity due to injury, sickness or infirmity;
+
+(ii) the contract has no surrender value, or the consideration consists of a single premium and the surrender value does not exceed that premium; and
+
+(iii) the contract makes no provision for its conversion or extension in a manner which would result in it ceasing to comply with sub-paragraph (i) or (ii).
+
+(5)  The activity specified in sub-paragraph (1) includes custodianship and related services such as cash and collateral management but does not include providing or maintaining securities accounts at the top tier level (“central maintenance service”) referred to in point 2 of Section A of the Annex to the CSD Regulation.
+
 Operation of an MTF.
 
 55.  Operating an MTF is a specified kind of activity.
@@ -1490,7 +1576,7 @@ Exclusions from paragraphs 48 to 56.
 
 Insurance etc. undertakings.
 
-58.  An insurance undertaking or an undertaking carrying out the reinsurance and retrocession activities referred to in the Financial Services (Insurance Companies) Regulations 2020does not carry on an activity of a kind specified by paragraphs 48 to 56 when carrying out the activities referred to in those Regulations.
+58.  An insurance undertaking or reinsurance undertaking to which paragraph 24(1) or (2) applies may carry on an activity of a kind specified by paragraphs 48 to 54B in accordance with paragraph 24(3).
 
 Intra-group investment services.
 
@@ -1688,9 +1774,7 @@ Instructions in the course of providing a network.
 
 76.  There is excluded from paragraph 71 the act of sending, or causing to be sent, a dematerialised instruction as a necessary part of the provision of a network for the purposes of a relevant system by a network provider who is accredited for that purpose by the GFSC.
 
-PART 7
-
-STRUCTURED DEPOSITS
+PART 7 STRUCTURED DEPOSITS
 
 General
 
@@ -2438,7 +2522,7 @@ The regulated activity
 
 Providing distributed ledger technology services.
 
-139.  Using DLT for storage or transmission of value belonging to another is a specified activity.
+139.  Using DLT for storage or transmission of value belonging to another is a specified kind of activity.
 
 Exclusions
 
@@ -2469,3 +2553,33 @@ Activities of persons subject to other forms of statutory regulation.
 (iv) such other enactments as the Minister may by regulations prescribe; and
 
 (b) uses DLT only in the course of carrying on that activity.
+
+PART 17 OTHER SPECIFIED ACTIVITIES
+
+Agreeing to carry on specified kinds of activity.
+
+143.(1)  Subject to sub-paragraph (2), agreeing to carry on an activity of the kind specified by any other provision of this Schedule is a specified kind of activity.
+
+(2)  Sub-paragraph (1) does not apply in respect to the following provisions of this Schedule–
+
+(a) the paragraph 3 (accepting deposits);
+
+(b) paragraph 13 (issuing electronic money);
+
+(c) paragraph 24 (effecting or carrying out contracts of insurance);
+
+(d) paragraph 55 or 56 (operating a MTF or an OTF);
+
+(e) paragraph 82 (administering a benchmark);
+
+(f) paragraph 93 (managing a UCITS);
+
+(g) paragraph 94, 94A or 94B (acting as depositary, trustee or sole director of a UCITS);
+
+(h) paragraph 95 or 97 (managing an AIF);
+
+(i) paragraph 96 or 98 (acting as depositary of an AIF);
+
+(j) paragraph 99 (establishing, operating or winding up a collective investment scheme);
+
+(k) paragraph 106 (establishing, operating or winding up a pension scheme).
