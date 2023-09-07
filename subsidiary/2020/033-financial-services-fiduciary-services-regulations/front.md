@@ -6,9 +6,11 @@ LN.2020/033
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date LN.2020/489 rr. 2(1), 36(1)(a), (e), (2)-(3), 42-43, 44(a)-(b), (5)(b), 48, Sch.
+Amending enactments Relevant current provisions Commencement date
 
-1.1.2021 2022/188 Sch. 1.1.2021 2022/067 r. 76(2) 17.3.2022
+LN.2020/489 rr. 2(1), 36(1)(a), (e), (2)-(3), 42-43, 44(a)-(b), (5)(b), 48, Sch.
+
+1.1.2021 2022/188 Sch. 1.1.2021 2022/067 r. 76(2) 17.3.2022 2023/259 r. 74(9) 7.9.2023
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -38,9 +40,9 @@ Companies under management
 
 Ethical standards
 
-14. Money laundering prevention. 15. Conflict of interest.
+14. Money laundering prevention. 15. Conflict of interest. 16. Disclosure of interest.
 
-16. Disclosure of interest. 17. Inducements prohibited.
+17. Inducements prohibited.
 
 PART 3 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
@@ -118,7 +120,9 @@ Sanctions
 
 PART 7 MISCELLANEOUS
 
-77. The Register: fiduciary services providers. 78. Restriction on use of the word “trust”.
+77. The Register: fiduciary services providers.
+
+78. Restriction on use of the word “trust”.
 
 SCHEDULE FORM AND CONTENT OF FINANCIAL STATEMENTS
 

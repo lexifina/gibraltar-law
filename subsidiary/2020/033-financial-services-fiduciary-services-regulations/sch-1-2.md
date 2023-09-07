@@ -12,9 +12,9 @@ B. CURRENT ASSETS
 
 I. Physical stocks
 
-II. Debtors (1) 1. Trade debtors (2)
+II. Debtors (1) 1. Trade debtors (2) 2. Other debtors 3. Amounts due from connected and group companies
 
-2. Other debtors 3. Amounts due from connected and group companies 4. Prepayments and accrued income
+4. Prepayments and accrued income
 
 III. Investments (long positions)(3)
 
@@ -84,9 +84,13 @@ Floating Rate Notes
 
 Other debt instruments:
 
-- marketable investments - not marketable investments
+- marketable investments
 
-______ ______ ______ ______ ______ ______ ______ ______ ______ ______
+- not marketable investments
+
+______ ______ ______ ______ ______
+
+______ ______ ______ ______ ______
 
 (ii) Shares (other than in group companies)
 
@@ -98,9 +102,7 @@ Units in authorised and recognised unit trust schemes Other
 
 (iv) Futures, options, contracts for differences
 
-Futures
-
-Purchased options Written options Contracts for differences
+Futures Purchased options Written options Contracts for differences
 
 (v) Shares in group companies
 
