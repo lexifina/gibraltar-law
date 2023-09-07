@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date LN.2021/091 rr
 
 1.1.2021 2022/081 rr. 3(1)(e)-(g), (1A)-(1B), 3A-3B, 8A, 17(2), 17A, 23A, Sch. 2-3
 
-30.3.2022 2022/258 r. 10(1)(b)-(d), (7)-(9) 1.9.2022 2023/074 r. 4(1)(b)(iv)-(iva) 30.3.2023
+30.3.2022 2022/258 r. 10(1)(b)-(d), (7)-(9) 1.9.2022 2023/074 r. 4(1)(b)(iv)-(iva) 30.3.2023 2023/259 r. 22(6A) 7.9.2023
 
 ARRANGEMENT OF REGULATIONS.
 
