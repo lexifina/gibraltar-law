@@ -6,7 +6,9 @@ LN.2020/026
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date LN.2020/499 rr. 2(1), 79(1), (3), 87(1)(a), (e), (2)-(3), 93(2), Sch.1 1.1.2021 2022/188 Sch.1 1.1.2021 2022/067 r. 125(2) 17.3.2022 2022/326 r. 7(1), (3) 1.12.2022
+Amending enactments Relevant current provisions Commencement date
+
+LN.2020/499 rr. 2(1), 79(1), (3), 87(1)(a), (e), (2)-(3), 93(2), Sch.1 1.1.2021 2022/188 Sch.1 1.1.2021 2022/067 r. 125(2) 17.3.2022 2022/326 r. 7(1), (3) 1.12.2022 2023/259 r. 123(9) 7.9.2023
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -36,9 +38,7 @@ Chapter 4 GFSC powers under the Act: insurance cover and financial resources
 
 PART 3 CONDUCT OF BUSINESS
 
-Chapter 1
-
-Conduct of business generally
+Chapter 1 Conduct of business generally
 
 10. Chapter applies to pension scheme firms. 11. Complaints. Outsourcing
 
@@ -66,9 +66,9 @@ Advertisements
 
 Ethical standards
 
-28. Money laundering prevention.
+28. Money laundering prevention. 29. Conflict of interest. 30. Disclosure of interest.
 
-29. Conflict of interest. 30. Disclosure of interest. 31. Inducements prohibited.
+31. Inducements prohibited.
 
 Chapter 3 Pension adviser: conduct of business
 
@@ -172,9 +172,7 @@ Accounting records
 
 Financial statements
 
-102. Duty to prepare financial statements. 103. Balance sheet to give true and fair view. 104. Profit and loss account to give true and fair view. 105. Form and content of financial statements. 106. Annual financial statements to be submitted to meeting of partners, etc.
-
-107. Additional requirement in case of sole proprietor. 108. Annual financial statements must be submitted to GFSC. 109. Pension scheme firm must obtain auditor’s report. 110. Contents of auditor’s report. 111. Qualified reports.
+102. Duty to prepare financial statements. 103. Balance sheet to give true and fair view. 104. Profit and loss account to give true and fair view. 105. Form and content of financial statements. 106. Annual financial statements to be submitted to meeting of partners, etc. 107. Additional requirement in case of sole proprietor. 108. Annual financial statements must be submitted to GFSC. 109. Pension scheme firm must obtain auditor’s report. 110. Contents of auditor’s report. 111. Qualified reports.
 
 Chapter 5 Appointment of auditors
 
@@ -194,9 +192,7 @@ Chapter 1 Supervisory powers
 
 PART 8 MISCELLANEOUS
 
-126. The Register: pension scheme firms.
-
-127. Revocation of the 2017 Regulations.
+126. The Register: pension scheme firms. 127. Revocation of the 2017 Regulations.
 
 SCHEDULE 1 FORM AND CONTENT OF FINANCIAL STATEMENTS
 

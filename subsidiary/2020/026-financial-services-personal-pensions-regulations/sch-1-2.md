@@ -36,7 +36,9 @@ F. CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
 
 G. PROVISIONS FOR LIABILITIES AND CHARGES
 
-1. Commissions on indemnity terms 2. Pension and similar obligations 3. Taxation including deferred taxation 4. Other provisions
+1. Commissions on indemnity terms 2. Pension and similar obligations
+
+3. Taxation including deferred taxation 4. Other provisions
 
 H. TOTAL ASSETS LESS TOTAL LIABILITIES
 
@@ -126,7 +128,9 @@ Any amount of share capital which has not been paid up must be shown separately.
 
 (8)  Contingent liabilities and commitments
 
-(a) Amounts subject to an investment position risk factor (b) Other amounts arising in the ordinary course of business (c) Other contingent liabilities not provided for (d) Capital commitments contracted for but not provided for (e) Capital commitments authorised but not contracted for (f) Pension commitments not provided for (g) Other financial commitments not provided for
+(a) Amounts subject to an investment position risk factor (b) Other amounts arising in the ordinary course of business (c) Other contingent liabilities not provided for (d) Capital commitments contracted for but not provided for
+
+(e) Capital commitments authorised but not contracted for (f) Pension commitments not provided for (g) Other financial commitments not provided for
 
 The following additional information must be given, where relevant–
 
