@@ -6,7 +6,9 @@ LN.2020/008
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date LN. 2022/188 Sch. 1.1.2021 2022/067 rr. 2(1), (3), 49(2) 17.3.2022
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2022/188 Sch. 1.1.2021 2022/067 rr. 2(1), (3), 49(2) 17.3.2022 2023/259 r. 47(9) 7.9.2023
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -32,9 +34,9 @@ Customer relations
 
 Administration
 
-18. Complaints. 19. Compliance.
+18. Complaints. 19. Compliance. 20. Supervision.
 
-20. Supervision. 21. Cessation of business.
+21. Cessation of business.
 
 PART 3 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 

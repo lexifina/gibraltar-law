@@ -22,9 +22,7 @@ III. Commissions on securities transactions
 
 IV. Commissions on transactions in futures, options, contracts for differences, etc.
 
-1. futures 2. options 3. contracts for differences
-
-4. other– specify (e.g. commodities)
+1. futures 2. options 3. contracts for differences 4. other– specify (e.g. commodities)
 
 V. Investment management fees
 
@@ -60,9 +58,7 @@ IV. Staff bonuses
 
 V. Interest charges
 
-1. payable to customer in respect of customer’s money balances
-
-2. other (specify)
+1. payable to customer in respect of customer’s money balances 2. other (specify)
 
 VI. Establishment costs
 
