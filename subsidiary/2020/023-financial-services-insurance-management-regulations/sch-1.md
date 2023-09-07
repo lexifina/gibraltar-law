@@ -22,7 +22,9 @@ PART 1. GENERAL RULES.
 
 PART 2. ACCOUNTING PRINCIPLES AND RULES.
 
-6.(1)  The amounts to be included in respect of all items shown in the annual financial statements of an insurance manager must be determined in accordance with the Companies Act 2014 and either Gibraltar Financial Reporting Standards or UK-adopted international accounting standards within the meaning of section 237(1) of the Companies Act 2014.
+6.(1)  The amounts to be included in respect of all items shown in the annual financial statements of an insurance manager must be determined in accordance with the Companies
+
+Act 2014 and either Gibraltar Financial Reporting Standards or UK-adopted international accounting standards within the meaning of section 237(1) of the Companies Act 2014.
 
 (2)  Subparagraph (1) is subject to regulation 25 of these Regulations.
 

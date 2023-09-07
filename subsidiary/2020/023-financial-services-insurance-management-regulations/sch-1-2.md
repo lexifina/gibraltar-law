@@ -16,7 +16,9 @@ I.  Physical stocks
 
 II.  Debtors (1)
 
-1.  Trade debtors (2) 2.  Other debtors 3.  Amounts due from connected and group companies 4.  Prepayments and accrued income
+1.  Trade debtors (2) 2.  Other debtors 3.  Amounts due from connected and group companies
+
+4.  Prepayments and accrued income
 
 III.  Financial instruments (long positions)(3)
 
@@ -36,9 +38,7 @@ F.  CREDITORS: AMOUNTS FALLING DUE AFTER MORE THAN ONE YEAR
 
 G. PROVISIONS FOR LIABILITIES AND CHARGES
 
-1.  Commissions on indemnity terms
-
-2.  Pension and similar obligations 3.  Taxation including deferred taxation 4.  Other provisions
+1.  Commissions on indemnity terms 2.  Pension and similar obligations 3.  Taxation including deferred taxation 4.  Other provisions
 
 H.  TOTAL ASSETS LESS TOTAL LIABILITIES
 
@@ -92,9 +92,7 @@ not marketable financial instruments
 
 ____ ____ ___ ____ (ii)  Shares (other than in group companies)
 
-- UK listed - UK unlisted: - marketable financial instruments
-
-- not marketable financial instruments - Overseas listed on an established investment exchange - Overseas unlisted
+- UK listed - UK unlisted: - marketable financial instruments - not marketable financial instruments - Overseas listed on an established investment exchange - Overseas unlisted
 
 (iii)  Collective investment schemes
 
