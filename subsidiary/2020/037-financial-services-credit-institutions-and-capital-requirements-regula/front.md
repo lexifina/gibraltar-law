@@ -18,7 +18,7 @@ rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45
 
 1.1.2021 2020/475 rr. 41, 55(1)(h)-(j), (7), (7A)-(7B), (8), (13) 28.6.2021 “ rr. 94A-94C, 95(1) 1.1.2022 2021/493 rr. 2(1), 3(a)-(b), (d), 4(1)-(4), (6), 18-23, 33(19), 43(21), 61, 82, 83(2)-(4), 84(3)-(5), 145(da), 164(1)
 
-1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022 2022/321 r. 100A. 24.11.2022
+1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022 2022/321 r. 100A 24.11.2022 2023/266 r. 98A 8.9.2023
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -134,6 +134,10 @@ Information to be provided by credit institutions
 
 96. Disclosure of transactions. 97. Disclosure of inability to meet obligations. 98. Notification of controllers etc.
 
+Restriction on dividends and similar payments
+
+98A. Restriction on dividend payments.
+
 Accounts and information
 
 99. Omitted. 100. Audit of accounts. 100A. Submission of accounts, etc. to GFSC. 101. Appointment of auditors. 102. Notification in respect of auditors. 103. Communications by auditors to GFSC. 104. Auditor to notify GFSC of adverse occurrence etc.
@@ -180,7 +184,9 @@ Intervention
 
 Sanctions
 
-144. Sanctioning powers. 145. Additional persons subject to sanctioning powers. 146. Contravention of regulatory requirements. 147. Additional sanctioning power: management prohibiting order. 148. Maximum amounts of administrative penalty. 149. Publication of sanctioning action.
+144. Sanctioning powers. 145. Additional persons subject to sanctioning powers. 146. Contravention of regulatory requirements.
+
+147. Additional sanctioning power: management prohibiting order. 148. Maximum amounts of administrative penalty. 149. Publication of sanctioning action.
 
 PART 9 MISCELLANEOUS
 
@@ -206,9 +212,7 @@ Offence: fraudulent inducement to make a deposit.
 
 Transitional provisions: financial and mixed financial holding companies
 
-175A. Transitional provisions on approval of financial holding companies and mixed financial holding companies.
-
-175B. Omitted. 175C. Omitted.
+175A. Transitional provisions on approval of financial holding companies and mixed financial holding companies. 175B. Omitted. 175C. Omitted.
 
 Savings and revocations
 
