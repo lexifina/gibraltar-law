@@ -14,7 +14,7 @@ ELECTION OF MEMBERS OF THE GIBRALTAR PARLIAMENT
 
 2. Nomination papers must be delivered at. . . . . on any day after the date of this notice, but not later than noon on the . . . . . day of. . . . . . . . .
 
-3. Forms of nomination papers may be obtained from the returning officer at . . . . . .The returning officer will at the request of any elector prepare for signature a nomination paper.
+3. Forms of nomination papers may be obtained from the returning officer  at . . . . . .The returning officer will at the request of any elector prepare for signature a nomination paper.
 
 4. If the election is contested, the poll will take place on the. . . . . . . . . . . day of. . . . . . . . . . 20      .
 
@@ -23,12 +23,6 @@ ELECTION OF MEMBERS OF THE GIBRALTAR PARLIAMENT
 Note 1. The attention of candidates and electors is drawn to the rules for the filling up of nomination papers and other provisions relating to nomination contained in the Elections Rules.
 
 Note 2. Every person guilty of a corrupt or illegal practice is on conviction liable to a fine or imprisonment or both.
-
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
 
 FORM B.
 
@@ -44,27 +38,25 @@ We, the undersigned, being electors, do hereby nominate the undermentioned perso
 
 Candidate’s Surname Other names in full Place of residence Description Electoral Number (see  note 3)
 
-Signature Electoral  Number (see note 3) Proposer Seconder ............................................ We the undersigned being electors do hereby assent to the foregoing nomination.
+Signature Electoral  Number (see note 3) Proposer
+
+Seconder ............................................
+
+We the undersigned being electors do hereby assent to the foregoing nomination.
 
 1. ............................................
 
 2. ............................................
 
-3. ............................................ 4. ............................................ 5. ............................................ 6. ............................................
+3. ............................................ 4. ............................................
 
-7. ............................................
+5. ............................................ 6. ............................................
 
-8. ............................................
+7. ............................................ 8. ............................................
 
 Note 1. The attention of candidates and electors is drawn to the rules for filling up nomination papers and other provisions relating to nomination contained in the Elections Rules.
 
 Note 2. Where a candidate is commonly known by some title, he may be described by his title as if it were part of his surname.
-
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
 
 Note 3. A person’s electoral number is that appearing in respect of such person in the register to be used at the election.
 
@@ -76,12 +68,6 @@ Note 4. An elector may not–
 
 Note 5. An elector shall not include a person who is registered as such in the register to be used for the election and who has not yet acquired voting rights.
 
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
-
 FORM C.
 
 Rule 12
@@ -90,21 +76,13 @@ STATEMENT AS TO PERSONS NOMINATED.
 
 The following is a statement as to the persons nominated for election as Members to the Parliament.
 
-Persons nominated
-
-Surname 1 Surname 2 Surname 3 Surname 4 Decision of returning officer that nomination paper is invalid, or other reason why a person nominated no longer stands nominated. 5
+Persons nominated Surname 1 Surname 2 Surname 3 Surname 4 Decision of returning officer that nomination paper is invalid, or other reason why a person nominated no longer stands nominated. 5
 
 The persons opposite whose names no entry is made in column 5 have been and stand validly nominated.
 
 Dated this. . . . . . . . .day of . . . . . . . . . .20. . . . . .
 
 Returning Officer.
-
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
 
 FORM D.
 
@@ -140,15 +118,11 @@ SMITH (MARY Smith of 27 High, Street, Description)
 
 7
 
-WILLIAMS (FRANCIS Williams of 999, Main Street, Description)
+WILLIAMS (FRANCIS Williams of 999,
 
 Counterfoil No. (The counterfoil is to have a number to correspond with that  on the back  of the Ballot Paper)
 
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
+Main Street, Description)
 
 Form of back of Ballot Paper
 
@@ -178,12 +152,6 @@ Directions as to printing ballot papers.
 
 4. The number on the back of the ballot paper shall be printed in ordinary type.
 
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
-
 FORM E.
 
 Rule 21(4)
@@ -212,11 +180,7 @@ FORM OF DECLARATION OF SECRECY.
 
 Rule  23
 
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1 I solemnly promise and declare that I will not at this election do anything forbidden by section 48 of the Elections Act, which section I have read.
+I solemnly promise and declare that I will not at this election do anything forbidden by section 48 of the Elections Act, which section I have read.
 
 FORM G.
 
@@ -246,12 +210,6 @@ NOTE.– IF the person making the above declaration makes therein a statement fa
 
 π State relationship to the voter
 
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
-
 FORM H.
 
 Rule 33(3)
@@ -280,16 +238,4 @@ I, (name of medical practitioner) of (address), being a duly qualified medical p
 
 Dated this . . . . . . ay of. . . . . . . .  20     . (Signature) Medical Practitioner.
 
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
-
 FORM I Rule 33A
-
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1

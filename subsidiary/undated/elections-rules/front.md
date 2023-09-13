@@ -1,38 +1,32 @@
-Parliament ELECTIONS RULES
+Subsidiary Legislation made under s.25.
 
-1950-15
+Elections Rules
 
-Subsidiary 1950.07.20-1 Rules made under s.25.
+1950.07.20-1
 
-ELECTIONS RULES
-
-(1950.07.20-1)
-
-21.7.1950
+Commencement 21.7.1950
 
 Amending enactments Relevant current provisions Commencement date
 
-Rules of   7.9.1950 r. 3
+Rules of 7.9.1950 r. 3
 
-23.7.1953 r. 4
+23.7.1953 r. 4 20.8.1953 r. 27(2)
 
-20.8.1953 r. 27(2) 14.6.1956 rr. 29, 42(1), (2) and (3) 9.6.1964 rr. 9, 10(1), 45(1), (2) and (3) 1.2.1968 r. 7(5) and Sch. 19.6.1969 rr. 3, 4, 9(1), 15(2), 21(4), 30, 37(4), 42(1), (3) and (5), 44, 45(1), 46(4), 47 and 50 and Sch.
+14.6.1956 rr. 29, 42(1)-(3) 9.6.1964 rr. 9, 10(1), 45(1)-(3)
 
-Act. 1969-24 r. 32(3) and Sch.
+1.2.1968 r. 7(5), Sch. 19.6.1969 rr. 3, 4, 9(1), 15(2), 21(4), 30, 37(4), 42(1), (3), (5), 44, 45(1), 46(4), 47, 50, Sch.
 
-LN. 1980/005 rr. 2, 6(3), 27(1), 33, 38(1) and Sch.
+Act. 1969-24 r. 32(3), Sch.
 
-1983/068 rr. 2, 14(2), 16(2) and (3), 34 and 48
+LN. 1980/005 rr. 2, 6(3), 27(1), 33, 38(1), Sch. 1983/068 rr. 2, 14(2), 16(2)-(3), 34, 48
 
-1987/147 rr. 9(1), 34(1) 5.11.1987 2007/114 r. 44 20.9.2007 2019/020 rr. 2, 14(2), 15(2)(c) – (e), 16(1) & (2), 21(3), 27(1), 27(1)(a) – (d), 29, 30, 31(1), 33A, 36, 40(4), 48(c), 48(g), Sch
+1987/147 rr. 9(1), 34(1) 5.11.1987 2007/114 r. 44 20.9.2007 2019/020 rr. 2, 14(2), 15(2)(c)-(e), 16(1) -(2), 21(3), 27(1), (a)-(d), 29-30, 31(1), 33A, 36, 40(4), 48(c), (g), Sch
 
-31.1.2019
+31.1.2019 2023/267 rr. 2, 8(1), 28(1), 33(1), 34(1) 13.9.2023
 
-Parliament ELECTIONS RULES
+ARRANGEMENT OF RULES
 
-1950-15
-
-Subsidiary 1950.07.20-1 ARRANGEMENT OF RULES Rule
+Rule
 
 1. Title.
 
@@ -52,13 +46,11 @@ General Provisions
 
 Action to be taken before the Poll
 
-17. Notice of poll. 18. Death of candidate. 19. Provision of polling stations. 20. Appointment of presiding officer and clerks. 21. Equipment of polling stations. 22. Appointment of polling and counting agents. 23. Declaration of secrecy.
+17. Notice of poll. 18. Death of candidate. 19. Provision of polling stations. 20. Appointment of presiding officer and clerks. 21. Equipment of polling stations.
 
-Parliament ELECTIONS RULES
+22. Appointment of polling and counting agents. 23. Declaration of secrecy.
 
-1950-15
-
-Subsidiary 1950.07.20-1 The Poll
+The Poll
 
 24. Admission to polling stations. 25. Keeping of order in station. 26. Sealing of ballot boxes. 27. Question to be put to voters. 28. Challenge of voter. 29. Voting procedure. 30. Method of voting. 31. Votes marked by the presiding officer. 32. Voting by blind persons. 33. Absentee voting by incapacitated persons. 33A Proxy Voting 34. Postal voters. 35. Tendered ballot papers. 36. Spoilt ballot papers. 37. Adjournment of poll in case of riot. 38. Procedure on close of poll.
 
@@ -72,18 +64,10 @@ PART IV FINAL PROCEEDINGS IN CONTESTED AND UNCONTESTED ELECTIONS
 
 PART V DISPOSAL OF DOCUMENTS
 
-47. Arrangement of ballot papers. 48. Delivery of documents to Registrar of the Supreme Court. 49. Orders for production of documents. 50. Retention of documents.
+47. Arrangement of ballot papers. 48. Delivery of documents to Registrar of the Supreme Court.
+
+49. Orders for production of documents. 50. Retention of documents.
 
 PART VI SUPPLEMENTAL
 
-Parliament ELECTIONS RULES
-
-1950-15
-
-Subsidiary 1950.07.20-1
-
 51. General duty of returning officer. 52. Powers and savings.
-
-SCHEDULE Forms
-
-Parliament ELECTIONS RULES
