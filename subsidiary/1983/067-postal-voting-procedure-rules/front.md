@@ -1,26 +1,20 @@
-Parliament POSTAL VOTING (PROCEDURE) RULES
+Subsidiary Legislation made under s.25.
 
-1950-15
+Postal Voting (Procedure) Rules
 
-Subsidiary 1983/067 Rules made under s.25.
+LN.1983/067
 
-POSTAL VOTING (PROCEDURE) RULES
-
-(LN. 1983/067)
-
-1.8.1983
+Commencement 1.8.1983
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 1983/106 r. 12(1), (2), Sch.
+LN. 1983/106 r. 12(1)-(2), Sch.
 
-1987/146 r. 5(1), (5), Sch. 5.11.1987 2019/022 r. 7(3)(a) 31.1.2019
+1987/146 r. 5(1), (5), Sch. 5.11.1987 2019/022 r. 7(3)(a) 31.1.2019 2023/268 rr. 2, 5(4), 7(3)(a), (c), (f)-(k), 8(1)(d), (5), 9-21, Sch.
 
-Parliament POSTAL VOTING (PROCEDURE) RULES
+13.9.2023
 
-1950-15
-
-Subsidiary 1983/067 ARRANGEMENT OF RULES
+ARRANGEMENT OF RULES
 
 Rule
 
@@ -42,24 +36,12 @@ PART IV. ACTION TO BE TAKEN BY POSTAL VOTER.
 
 PART V. RECEIPT OF POSTAL BALLOT PAPERS.
 
-9. Receipt of covering envelope. 10. Opening of postal voters ballot box and covering envelopes. 11. Sealing up of rejected votes and declarations of identity. 12. Opening of ballot envelopes. 13. Spoilt postal ballot paper. 14. Late envelopes.
+9. Receipt of covering envelope. 10. Receipt of Postal Votes in London Office. 11. Late Receipt of Envelopes by London Office. 12. Opening of Postal Voters’ Ballot Boxes. 13. Postal Ballot Paper Box. 14. Opening of covering envelopes. 15. Spoilt postal ballot paper. 16. Late envelopes. 17. Counting of Postal Ballot Papers.
 
-PART VI. MISCELLANEOUS.
+PART VI.
 
-15. Abandoned poll. 16. Declaration of secrecy. 17. Voting only by post. 18. Reference to Election Rules.
+MISCELLANEOUS.
 
-Parliament POSTAL VOTING (PROCEDURE) RULES
+18. Abandoned poll. 19. Declaration of secrecy. 20. Voting only by post. 21. Reference to Election Rules.
 
-1950-15
-
-Subsidiary 1983/067
-
-SCHEDULE.
-
-Forms.
-
-Parliament POSTAL VOTING (PROCEDURE) RULES
-
-1950-15
-
-Subsidiary 1983/067
+SCHEDULE. Forms.
