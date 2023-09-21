@@ -6,7 +6,7 @@ LN. 2013/183
 
 Commencement 12.12.2013
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN. 2023/274 r. 3(1) 21.9.2023
 
 ARRANGEMENT OF REGULATIONS
 
