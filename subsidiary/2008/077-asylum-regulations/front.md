@@ -6,9 +6,7 @@ LN.2008/077
 
 Commencement 2.10.2008
 
-Amending enactments Relevant current provisions Commencement date
-
-Act. 2016-18 r. 10(4)(b) 23.4.2018
+Amending enactments Relevant current provisions Commencement date Act. 2016-18 r. 10(4)(b) 23.4.2018 LN. 2023/272 rr. 10(4), (8), 10A-10B 21.9.2023
 
 Transposing: Directive 2003/9/EC Directive 2004/83/EC
 
@@ -26,7 +24,7 @@ Part II Non-refoulement
 
 Part III Reception Conditions for Applicants for International Protection
 
-6. Application of Part III. 7. Applications, photographs and fingerprints. 8. Asylum applicant’s permit. 9. Information document. 10. Residence, reporting conditions and freedom of movement. 11. Medical screening. 12. General rules on material reception conditions including health care. 13. Housing. 14. Housing - family unity. 15. Housing - legal advisors and UNHCR access. 16. Health care. 17. Schooling and education of minors. 18. Employment, self-employment and vocational training. 19. Minors. 20. Unaccompanied minors. 21. Reduction or withdrawal of reception conditions. 22. Legal aid. 23. Material reception conditions in exceptional circumstances. 24. Guidance, monitoring and control systems.
+6. Application of Part III. 7. Applications, photographs and fingerprints. 8. Asylum applicant’s permit. 9. Information document. 10. Residence, reporting conditions and freedom of movement. 10A. Detention. 10B. Guarantees for detained applicants. 11. Medical screening. 12. General rules on material reception conditions including health care. 13. Housing. 14. Housing - family unity. 15. Housing - legal advisors and UNHCR access. 16. Health care. 17. Schooling and education of minors. 18. Employment, self-employment and vocational training. 19. Minors. 20. Unaccompanied minors. 21. Reduction or withdrawal of reception conditions. 22. Legal aid. 23. Material reception conditions in exceptional circumstances. 24. Guidance, monitoring and control systems.
 
 Part IV Criteria for Determining Refugee and Subsidiary Protection Status
 
@@ -48,9 +46,9 @@ Part V Grant & Revocation of Refugee and Subsidiary Protection Status
 
 Part VI Content of Refugee and Subsidiary Protection
 
-46. General rules. 47. Protection from refoulement. 48. Information. 49. Residence permits.
+46. General rules. 47. Protection from refoulement.
 
-50. Travel documents. 51. Access to employment, vocational training and work experience. 52. Access to education. 53. Social assistance. 54. Health care. 55. Unaccompanied minors. 56. Integration facilities. 57. Repatriation.
+48. Information. 49. Residence permits. 50. Travel documents. 51. Access to employment, vocational training and work experience. 52. Access to education. 53. Social assistance. 54. Health care. 55. Unaccompanied minors. 56. Integration facilities. 57. Repatriation.
 
 Part VI Staff training, confidentiality and administrative cooperation
 
