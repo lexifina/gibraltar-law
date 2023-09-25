@@ -11,3 +11,5 @@ Permit Fee Commercial Zone Permit £25 per annum
 £5 per duplicate
 
 £5 per amended version
+
+Cargo Bicycle Permit Free
