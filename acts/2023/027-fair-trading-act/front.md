@@ -4,7 +4,9 @@ Principal Act
 
 Act. No. 2023-27 Commencement (LN.2023/279) (ss. 25(1)(f), 51, 110(10), 111-112)
 
-28.9.2023 Assent 24.7.2023
+28.9.2023
+
+(All remaining sections) 1.10.2023 Assent 24.7.2023
 
 _______________________________
 
