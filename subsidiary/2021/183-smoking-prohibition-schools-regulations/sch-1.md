@@ -1,24 +1,22 @@
 SCHEDULE
 
-Bishop Fitzgerald Middle School
-
-Governor’s Meadow First School
+Bishop Fitzgerald Upper Primary School and Governor’s Meadow Lower Primary School
 
 Hebrew Primary School
 
 Loreto Convent
 
-St. Paul’s First School
+St. Paul’s Lower Primary School
 
-St. Anne’s Middle School and Notre Dame First School
+St. Anne’s Upper Primary School and Notre Dame Lower Primary School
 
-St. Bernard’s First School and St. Bernard’s Middle School
+St. Bernard’s Lower Primary School and St. Bernard’s Upper Primary School
 
-St. Joseph’s First School and St. Joseph’s Middle School;
+St. Joseph’s Lower Primary School and St. Joseph’s Upper Primary School
 
 St. Martin’s School
 
-St. Mary’s First School
+St. Mary’s Lower Primary School
 
 Bayside and Westside Schools
 

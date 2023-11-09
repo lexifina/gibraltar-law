@@ -8,7 +8,7 @@ Commencement 18.3.2021
 
 Amending enactments Relevant current provisions Commencement date
 
-LN.2021/203 r. 3(1)(m)-(s), Sch. 25.3.2021
+LN.2021/203 r. 3(1)(m)-(s), Sch. 25.3.2021 2023/294 r. 3(1), Sch 9.11.2023
 
 ARRANGEMENT OF REGULATIONS.
 
