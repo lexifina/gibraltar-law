@@ -12,7 +12,7 @@ Premises at which business will be managed:
 
 Details of licence if is intended to apply for:
 
-Any person who wishes any objection to the application to be considered by the Gibraltar Port Authority, shall supply details in writing of such objection to the Authority at North Mole Avenue, within 21 days of the date of this notice.
+Any person who wishes any objection to the application to be considered by the Gibraltar Port Authority, shall supply details in writing of such objection to the Authority at 12 Windmill Hill Road, Gibraltar within 21 days of the date of this notice. A copy of every representation shall be sent by the person making the representation to the applicant at the same time as it is sent to the Authority.
 
 This notice is submitted by (name) on behalf of (name of applicant)
 

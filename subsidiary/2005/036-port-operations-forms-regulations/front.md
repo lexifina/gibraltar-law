@@ -8,7 +8,7 @@ Commencement (LN.2006/063) 1.6.2006
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2009-48 Sch. 3 3.12.2009
+Act. 2009-48 Sch. 3 3.12.2009 LN.2023/298 Sch. 2 16.11.2023
 
 ARRANGEMENT OF REGULATIONS
 
