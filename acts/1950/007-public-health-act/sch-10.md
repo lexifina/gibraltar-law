@@ -8,17 +8,13 @@ PART 1 OBJECTIVES OF ON-SITE AND OFF-SITE EMERGENCY PLANS (This Part sets out th
 
 The objectives referred to in sections 95H(1) and 95I(1) are–
 
-1.   containing and controlling incidents so as to minimise the effects, and to limit damage to persons, the environment and property;
+1.   containing and controlling incidents so as to minimise the effects, and   to limit damage to persons, the environment and property;
 
 2.  implementing the measures necessary to protect persons and the environment from the effects of major accidents;
 
 3.  communicating the necessary information to the public and to the emergency services and authorities concerned in the area;
 
 4.   providing for the restoration and clean-up of the environment following a major accident.
-
-Public Health
-
-1950-07
 
 PART 2 INFORMATION TO BE INCLUDED IN ON-SITE EMERGENCY PLAN (This Part sets out the provisions of Paragraph 1 of Annex IV to the Directive)
 
@@ -38,10 +34,6 @@ The information referred to in section 95H(1) is as follows-
 
 7.  arrangements for providing assistance with off-site mitigatory action.
 
-Public Health
-
-1950-07
-
 PART 3
 
 INFORMATION TO BE INCLUDED IN OFF-SITE EMERGENCY PLAN (This Part sets out the provisions of paragraph 2 of Annex IV to the Directive)
@@ -50,7 +42,7 @@ The information referred to in section 95I(1) is as follows–
 
 1.  names or positions of persons authorised to set emergency procedures in motion and of persons authorised to take charge of and co-ordinate off-site action;
 
-2.  arrangements for receiving early warning incidents, and alert and call- out procedures;
+2.  arrangements for receiving early warning incidents, and alert and call-out procedures;
 
 3.  arrangements for co-ordinating resources necessary to implement the off-site emergency plan, including responses to major-accident scenarios as set out in the safety report and considering possible domino effects, including those having an impact on the environment;
 

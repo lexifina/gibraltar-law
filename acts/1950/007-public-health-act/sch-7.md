@@ -20,10 +20,6 @@ PRINCIPLES TO BE TAKEN INTO ACCOUNT WHEN PREPARING MAPP
 
 equipment, and for alarm management and temporary stoppages. Taking into account available information on best practices for monitoring and control, with a view to–
 
-Public Health
-
-1950-07
-
 (i) reducing the risk of system failure; and
 
 (ii) managing and controlling risks associated with ageing equipment installed in the establishment and corrosion;
@@ -46,14 +42,6 @@ Such training shall be given to all personnel working in the establishment, incl
 
 (f) adoption and implementation of procedures for the on-going assessment of compliance with the objectives set by the operator's MAPP and safety management system, and the mechanisms for investigation and taking corrective action in the case of non-compliance.  The procedures should cover the operator's system for reporting major accidents or near misses, particularly those involving failure of protective measures, and their investigation and follow-up on the basis of lessons learnt. The procedures could also include performance indicators such as safety performance indicators (SPIs) or other relevant indicators;
 
-(g) adoption and implementation of procedures for periodic systematic assessment of the MAPP and the effectiveness and suitability of the safety management system; the documented review of performance of the policy and safety management system and its updating by senior management, including
+(g) adoption and implementation of procedures for periodic systematic assessment of the MAPP and the effectiveness and suitability of the safety management system; the documented review of performance of the policy and safety management system and its updating by senior management, including consideration and incorporation of necessary changes indicated by the audit and review;
 
-Public Health
-
-1950-07 consideration and incorporation of necessary changes indicated by the audit and review;
-
-(h) as well as the commitment towards continuously improving the control of major-accident hazards, and ensuring a high level of protection.
-
-Public Health
-
-1950-07
+(h) as well as the commitment towards continuously improving the control of major- accident hazards, and ensuring a high level of protection.
