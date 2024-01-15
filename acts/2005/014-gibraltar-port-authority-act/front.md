@@ -2,13 +2,11 @@ Gibraltar Port Authority Act 2005
 
 Principal Act
 
-Act. No. 2005-14 Commencement (LN.2006/064) 1.6.2006
-
-Assent 9.2.2005
+Act. No. 2005-14 Commencement (LN.2006/064) 1.6.2006 Assent 9.2.2005
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2009-39 ss. 3(1)(ca), (2), 21 29.10.2009 2011-15 s. 3(1)(b) 14.7.2011 2023-10 ss. 2, 6(3)(i), (ia)-(ib) 16.2.2023
+Act. 2009-39 ss. 3(1)(ca), (2), 21 29.10.2009 2011-15 s. 3(1)(b) 14.7.2011 2023-10 ss. 2, 6(3)(i), (ia)-(ib) 16.2.2023 2023-11 s. 2 15.1.2024
 
 ARRANGEMENT OF SECTIONS
 
