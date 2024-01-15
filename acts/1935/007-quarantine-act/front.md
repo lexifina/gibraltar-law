@@ -1,26 +1,20 @@
-Quarantine
-
-1935-07
-
-QUARANTINE ACT
+Quarantine Act
 
 Principal Act
 
-Act. No. 1935-07 Commencement 17.5.1935
+Act. No. 1935-07 Commencement 17.5.1935 Assent 17.5.1935
 
-Assent 17.5.1935
+Amending enactments Relevant current provisions Commencement date
 
-Amending enactments Relevant current provisions Commencement date Act. 1937-04 s. 2 1944-10 -
+Act. 1937-04 s. 2
+
+1944-10 -
 
 1948-09 ss. 2, 4(3), 29
 
-1987-34 s. 2 27.12.1987 1997-25 s. 2 21.8.1997 2007-17 ss. 2, 3, 4(1), (3), 20(5), 21(1), 22(1), 23, 25, 29
+1987-34 s. 2 27.12.1987 1997-25 s. 2 21.8.1997 2007-17 ss. 2-3, 4(1), (3), 20(5), 21(1), 22(1), 23, 25, 29 14.6.2007 2023-11 s. 2 15.1.2024
 
-14.6.2007
-
-Quarantine
-
-1935-07 ARRANGEMENT OF SECTIONS.
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -38,16 +32,12 @@ PART III. ARRIVALS BY LAND.
 
 PART IV. QUARATINE STATIONS AND ISOLATION HOSPITALS.
 
-25. Quarantine stations and isolation hospitals.
+25. Quarantine stations and isolation hospitals. 26. Prohibition on taking articles from quarantine station or isolation hospital.
 
-Quarantine
-
-1935-07 26. Prohibition on taking articles from quarantine station or isolation hospital. 27. Person not to leave or enter quarantine station or isolation hospital.
+27. Person not to leave or enter quarantine station or isolation hospital.
 
 PART V. MISCELLANEOUS.
 
 28. Arrest without warrant. 29. Exemption of Her Majesty's ships, etc.
 
-Quarantine
-
-1935-07 AN ACT TO MAKE PROVISIONS FOR PREVENTING THE INTRODUCTION OF INFECTIOUS DISEASES INTO, AND THE SPREAD OF SUCH DISEASES FROM AND WITHIN, GIBRALTAR.
+AN ACT TO MAKE PROVISIONS FOR PREVENTING THE INTRODUCTION OF INFECTIOUS DISEASES INTO, AND THE SPREAD OF SUCH DISEASES FROM AND WITHIN, GIBRALTAR.
