@@ -1,20 +1,4 @@
-SCHEDULE 1
-
-Regulation 4(1) (Definition of “oil”)
-
-List of oils
-
-Asphalt solutions Blending stocks Roofers flux Straight run residue Gasoline blending stocks Alkylates – fuel Reformates Polymer – fuel Oils Clarified Crude oil Mixtures containing crude oil Diesel oil Fuel oil no. 4 Fuel oil no. 5 Fuel oil no. 6 Residual fuel oil Road oil Transformer oil Aromatic oil (excluding vegetable oil) Lubricating oils and blending stocks Mineral oil Motor oil Penetrating oil Spindle oil Turbine oil Gasolines Casinghead (natural) Automotive Aviation Straight run Fuel oil no. 1 (kerosene) Fuel oil no. 1-D Fuel oil no. 2 Fuel oil no. 2-D
-
-Distillates Straight run Flashed feed stocks
-
-Jet fuels JP-1 (kerosene) JP-3 JP-4 JP-5 (kerosene, heavy) Turbo fuel Kerosene Mineral spirit Gas oil Cracked
-
-Naphtha Solvent Petroleum Heartcut distillate oil
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 164 of 251 SCHEDULE 2 Regulation 15(1)
+SCHEDULE 2 Regulation 15(1)
 
 Form of IOPP Certificate and Supplements
 
@@ -38,7 +22,9 @@ Deadweight of ship (metric tons) . . . . . . . . . . . . . . . . . . . . .
 
  The IOPP certificate shall be at least in English. If an official language of the issuing country is also used, this shall prevail in case of a dispute or discrepancy.  Alternatively, the particulars of the ship may be placed horizontally in boxes.  For oil tankers.
 
-IMO Number. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 162 of 245 IMO Number. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Type of ship:
 
@@ -64,11 +50,9 @@ Issued at. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ENDORSEMENT FOR ANNUAL AND INTERMEDIATE SURVEYS
 
+THIS IS TO CERTIFY that at a survey required by Regulation 6 of Annex I of the MARPOL Convention the ship was found to comply with the relevant provisions of the Convention:
+
  Refer to the IMO Ship Identification Number Scheme adopted by the Organisation by Resolution A. 600(15).  Delete as appropriate.  Insert the date of expiry as specified by the Administration in accordance with Regulation 10.1 of Annex I of the MARPOL Convention. The day and the month of this date correspond to the anniversary date as defined in Regulation 1.27 of Annex I of the MARPOL Convention, unless amended in accordance with Regulation10.8 of Annex I of the MARPOL Convention.
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 166 of 251 THIS IS TO CERTIFY that at a survey required by Regulation 6 of Annex I of the MARPOL Convention the ship was found to comply with the relevant provisions of the Convention:
 
 Annual survey:
 
@@ -104,11 +88,15 @@ Signed . . . . . . . . . . . . . . . (Signature of duly authorised official)
 
 Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
- Delete as appropriate.  Delete as appropriate
-
 Date(dd/mm/yyyy).
 
 (Seal or stamp of the authority, as appropriate)
+
+ Delete as appropriate.  Delete as appropriate
+
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 164 of 245
 
 ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE WITH REGULATION 10.8.3 OF ANNEX I
 
@@ -130,11 +118,9 @@ Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Date(dd/mm/yyyy . . . . . . . . . . . . . . . . . . . . . . (Seal or stamp of the authority, as appropriate)
 
+ENDORSEMENT WHERE THE RENEWAL SURVEY HAS BEEN COMPLETED AND REGULATION 10.4 OF ANNEX I APPLIES
+
  Delete as appropriate.  Delete as appropriate.
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 168 of 251 ENDORSEMENT WHERE THE RENEWAL SURVEY HAS BEEN COMPLETED AND REGULATION 10.4 OF ANNEX I APPLIES
 
 The ship complies with the relevant provisions of the Convention, and this Certificate shall, in accordance with Regulation 10.4 of Annex I of the MARPOL Convention, be accepted as valid until………………
 
@@ -156,13 +142,15 @@ ENDORSEMENT FOR ADVANCEMENT OF ANNIVERSARY DATE WHERE REGULATION 10.8 OF ANNEX I
 
 In accordance with Regulation 10.8 of Annex I of the MARPOL Convention, the new anniversary date is . . . . . . . . . . . . . . . . . . . . . .
 
-Signed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Signature of authorised official)
+Signed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Signature of authorised official) Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Date(dd/mm/yyyy . . . . . . . . . . . . . . . . . . . . . (Seal or stamp of the authority, as appropriate)
 
  Delete as appropriate.
 
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Date(dd/mm/yyyy . . . . . . . . . . . . . . . . . . . . . (Seal or stamp of the authority, as appropriate)
+Page 166 of 245
 
 In accordance with Regulation 10.8 of Annex I of the MARPOL Convention, the new anniversary date is . . . . . . . . . . . . . . . . . . . . . .
 
@@ -185,10 +173,6 @@ Notes: 1. This form is to be used for the third type of ships as categorised in 
 3. The language of the original Record shall be in English. If an official language of the issuing country is also used, this shall prevail in case of a dispute or discrepancy.
 
 4. Entries in boxes shall be made by inserting either a cross (X) for the answers ‘‘yes’’ and ‘‘applicable’’ or a dash (–) for the answers ‘‘no’’ and ‘‘not applicable’’ as appropriate.
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 170 of 251
 
 5. Regulations mentioned in this Record refer to Regulations of Annex I of the MARPOL Convention and resolutions refer to those adopted by the IMO.
 
@@ -230,6 +214,10 @@ Page 170 of 251
 
 2.2.1 Oil filtering (15ppm) equipment (Regulation 14.6 of Annex I of the MARPOL Convention)
 
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 168 of 245
+
 2.2.2 Oil filtering (15 ppm) equipment with alarm and automatic stopping device (Regulation 15.7 of Annex I of the MARPOL Convention
 
 2.3 Approval standards:
@@ -250,15 +238,13 @@ Page 170 of 251
 
 .5 has been approved in accordance with national standards not based upon Resolution A. 393(X) or A. 233(VII);
 
- Refer to the Recommendation on international performance and test specifications of oily-water separating equipment and oil content meters adopted by the Organization on 14 November 1977 by resolution A.393(X), which superseded resolution A.233(VII).  Further reference is made to the Guidelines and specifications for pollution prevention equipment for machinery space bilges adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.60(33), which, effective on 6 July 1993, superseded resolutions A.393(X) and A.444(XI) and the revised Guidelines and specifications for pollution prevention equipment for machinery spaces of ships adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.107(49) which, effective from 1 January 2005, superseded resolutions MEPC.60(33), A.393(X) and A.444(XI).
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 172 of 251 .6 has not been approved
+.6 has not been approved
 
 2.3.2 The process unit has been approved in accordance with Resolution A.444(XI).
 
 2.3.3 The oil content meter:
+
+ Refer to the Recommendation on international performance and test specifications of oily-water separating equipment and oil content meters adopted by the Organization on 14 November 1977 by resolution A.393(X), which superseded resolution A.233(VII).  Further reference is made to the Guidelines and specifications for pollution prevention equipment for machinery space bilges adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.60(33), which, effective on 6 July 1993, superseded resolutions A.393(X) and A.444(XI) and the revised Guidelines and specifications for pollution prevention equipment for machinery spaces of ships adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.107(49) which, effective from 1 January 2005, superseded resolutions MEPC.60(33), A.393(X) and A.444(XI).
 
 .1 has been approved in accordance with Resolution A.393(X);
 
@@ -278,9 +264,7 @@ Page 172 of 251 .6 has not been approved
 
 2.5.2 The ship is fitted with holding tank(s) for the total retention on board of all oily bilge water as follows:
 
-Tank Identification Tank location
-
-Volume (m3) Frames (from) – (to) Lateral position
+Tank Identification Tank location Volume (m3) Frames (from) – (to) Lateral position
 
 Total Volume. . . . . . . . .  (m3) 2A.
 
@@ -290,13 +274,19 @@ paragraph 6 and either 7 or 8 (double hull construction)
 
 paragraph 11 (accidental oil fuel outflow performance)
 
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 170 of 245
+
 2A.2  The ship is not required to comply with the requirements of Regulation 12A of……….………………………………………………
 
 3.  Means for retention and disposal of oil residues (sludge) (Regulation 12 of Annex I) and bilge water holding tank(s)
 
 3.1  The ship is provided with oil residue (sludge) tanks as follows:
 
-Tank Identification Tank location Volume (m3) Frames (from) – (to) Lateral position
+Tank Identification Tank location
+
+Volume (m3) Frames (from) – (to) Lateral position
 
 Total Volume. . (m3)
 
@@ -310,11 +300,7 @@ Total Volume. . (m3)
 
 3.2.4 Other acceptable means:............................
 
- Bilge water holding tanks are not required by the MARPOL Convention, entries in the table under paragraph 3.3 are voluntary.
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 174 of 251 3.3  The ship is fitted with holding tank(s) for the retention on board of oily bilge water as follows:
+3.3  The ship is fitted with holding tank(s) for the retention on board of oily bilge water as follows:
 
 Tank Identification Tank location
 
@@ -323,6 +309,8 @@ Volume (m3) Frames (from) – (to) Lateral position
 Total Volume. . . . . . .  (m3)
 
 4  Standard discharge connection (Regulation 13 of Annex I)
+
+ Bilge water holding tanks are not required by the MARPOL Convention, entries in the table under paragraph 3.3 are voluntary.
 
 4.1 The ship is provided with a pipeline for the discharge of residues from machinery bilges and sludges to reception facilities, fitted with a standard discharge connection in accordance with Regulation 13 of Annex I of the MARPOL Convention
 
@@ -340,9 +328,7 @@ Total Volume. . . . . . .  (m3)
 
 7.1 Equivalents have been approved by the Administration for certain requirements of  Annex I on those items listed under paragraph(s) . . . . . . . . .of this Record
 
-THIS IS TO CERTIFY that this Record is correct in all respects. Issued at. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(Place of issue of the Record) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Signature of duly authorized officer issuing the Record)
+THIS IS TO CERTIFY that this Record is correct in all respects. Issued at. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Place of issue of the Record) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Signature of duly authorized officer issuing the Record)
 
 (Seal or stamp of the issuing authority, as appropriate) FORM B
 
@@ -350,7 +336,9 @@ Supplement to International Oil Pollution Prevention Certificate (IOPP Certifica
 
 RECORD OF CONSTRUCTION AND EQUIPMENT FOR OIL TANKERS
 
-In respect of the provisions of Annex I of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (hereinafter referred to as ‘‘the MARPOL Convention’’).
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 172 of 245 In respect of the provisions of Annex I of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (hereinafter referred to as ‘‘the MARPOL Convention’’).
 
 Notes:
 
@@ -368,9 +356,7 @@ Notes:
 
 1.1 Name of ship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 176 of 251 1.2 Distinctive number or letters . . . . . . . . . . . . . . . . . . . . . . .
+1.2 Distinctive number or letters . . . . . . . . . . . . . . . . . . . . . . .
 
 1.3 Port of registry. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -416,7 +402,9 @@ Page 176 of 251 1.2 Distinctive number or letters . . . . . . . . . . . . . . . 
 
 1.11.4 Crude oil/product carrier
 
-1.11.5 Combination carrier
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 174 of 245 1.11.5 Combination carrier
 
 1.11.6 Ship, other than an oil tanker, with cargo tanks coming under Regulation 2.2 of Annex I
 
@@ -432,15 +420,15 @@ Page 176 of 251 1.2 Distinctive number or letters . . . . . . . . . . . . . . . 
 
 2.1.1 The ship may under normal conditions carry ballast water in oil fuel tanks
 
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 178 of 251 2.2  Type of oil filtering equipment fitted:
+2.2  Type of oil filtering equipment fitted:
 
 2.2.1 Oil filtering (15 ppm) equipment (Regulation 14.6 of Annex I)
 
 2.2.2 Oil filtering (15ppm) equipment with alarm and automatic stopping device (Regulation 14.7 of Annex I)
 
 2.3  Approval standards:
+
+ .  Refer to the Recommendation on international performance and test specifications of oily-water separating equipment and oil content meters adopted by the Organization on 14 November 1977 by resolution A.393(X), which superseded resolution A.233(VII).  Further reference is made to the Guidelines and specifications for pollution prevention equipment for machinery space bilges adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.60(33), which, effective on 6 July 1993, superseded resolutions A.393(X) and A.444(XI) and the revised Guidelines and specifications for pollution prevention equipment for machinery spaces of ships adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.107(49) which, effective from 1 January 2005, superseded resolutions MEPC.60(33), A.393(X) and A.444(XI).
 
 2.3.1 The separating/filtering equipment:
 
@@ -458,8 +446,6 @@ Page 178 of 251 2.2  Type of oil filtering equipment fitted:
 
 2.3.2 The process unit has been approved in accordance with Resolution A.444(XI)
 
- .  Refer to the Recommendation on international performance and test specifications of oily-water separating equipment and oil content meters adopted by the Organization on 14 November 1977 by resolution A.393(X), which superseded resolution A.233(VII).  Further reference is made to the Guidelines and specifications for pollution prevention equipment for machinery space bilges adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.60(33), which, effective on 6 July 1993, superseded resolutions A.393(X) and A.444(XI) and the revised Guidelines and specifications for pollution prevention equipment for machinery spaces of ships adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.107(49) which, effective from 1 January 2005, superseded resolutions MEPC.60(33), A.393(X) and A.444(XI).
-
 2.3.3 The oil content meter:
 
 .1 has been approved in accordance with Resolution A.393(X);
@@ -472,7 +458,9 @@ Page 178 of 251 2.2  Type of oil filtering equipment fitted:
 
 2.5 Waiver of Regulation 14 of Annex I of the MARPOL Convention:
 
-2.5.1  The requirements of Regulation 14.1 or 14.2 of Annex I of the MARPOL Convention are waived in respect of the ship in accordance with Regulation 14.5 of Annex I.
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 176 of 245 2.5.1  The requirements of Regulation 14.1 or 14.2 of Annex I of the MARPOL Convention are waived in respect of the ship in accordance with Regulation 14.5 of Annex I.
 
 The ship is engaged exclusively on voyages within special area(s):.....................
 
@@ -490,10 +478,6 @@ Total Volume. . . . . . .  (m3)
 
 2A.1 The ship is required to be constructed according to Regulation 12A of Annex I and complies with the requirements of:
 
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 180 of 251
-
 paragraphs 6 and either 7 or 8 (double hull construction)
 
 paragraph 11 (accidental oil fuel outflow performance)
@@ -503,6 +487,8 @@ paragraph 11 (accidental oil fuel outflow performance)
 3 Means for retention and disposal of oil residues (sludge) (Regulation 12 of Annex I) and bilge water holding tank(s)
 
 3.1 The ship is provided with oil residue (sludge) tanks as follows:
+
+ Bilge water holding tanks are not required by the MARPOL Convention, entries in the table under paragraph 3.3 are voluntary.
 
 Tank Identification Tank location
 
@@ -522,13 +508,9 @@ Total Volume. . . . . . .  (m3)
 
 3.3  The ship is fitted with holding tank(s) for the retention on board of oily bilge water as follows:
 
-Tank Tank location Volume (m3)
+Tank Identification Tank location
 
- Bilge water holding tanks are not required by the MARPOL Convention, entries in the table under paragraph 3.3 are voluntary.
-
-Identification
-
-Frames (from) – (to) Lateral position
+Volume (m3) Frames (from) – (to) Lateral position
 
 Total Volume. . . . . . .  (m3)
 
@@ -537,6 +519,10 @@ Total Volume. . . . . . .  (m3)
 4.1  The ship is provided with a pipeline for the discharge of residues from machinery bilges to reception facilities, fitted with a standard discharge connection in compliance with Regulation 13 of Annex I
 
 5  Construction (Regulations 18, 19, 20, 23, 26, 27 and 28 of Annex I of the MARPOL Convention)
+
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 178 of 245
 
 5.1 In accordance with the requirements of Regulation 18 of Annex I, the ship is:
 
@@ -558,13 +544,9 @@ Total Volume. . . . . . .  (m3)
 
 5.2.2 The ship is provided with SBT, in compliance with Regulation 18 of Annex I, which are arranged in protective locations (PL) in compliance Regulations 18.12 to 18.15 of Annex I
 
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+5.2.3 SBT are distributed as follows:
 
-Page 182 of 251 5.2.3 SBT are distributed as follows:
-
-Tank Volume (m3)
-
-Tank Volume (m3)
+Tank Volume (m3) Tank Volume (m3)
 
 Total volume . . . . . . . . . . m3
 
@@ -590,9 +572,7 @@ Total volume . . . . . . . . . . m3
 
 5.4.1 The ship is equipped with a COW system in compliance with Regulation 33 of Annex I
 
-5.4.2 The ship is equipped with a COW system in compliance with Regulation 33 of Annex I except that the effectiveness of the system has not been confirmed in accordance with Regulations 33.1 and paragraph 4.2.10 of the Revised COW
-
-Specifications (Resolution A.446(XI)) as amended by Resolution A. 497(XII) and A. 897(21))
+5.4.2 The ship is equipped with a COW system in compliance with Regulation 33 of Annex I except that the effectiveness of the system has not been confirmed in accordance with Regulations 33.1 and paragraph 4.2.10 of the Revised COW Specifications (Resolution A.446(XI)) as amended by Resolution A. 497(XII) and A. 897(21))
 
 5.4.3 The ship has been supplied with a valid Crude Oil Washing Operations and Equipment Manual, which is dated .
 
@@ -602,7 +582,9 @@ Specifications (Resolution A.446(XI)) as amended by Resolution A. 497(XII) and A
 
 5.5.1 The ship is solely engaged in trade between . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .in accordance with Regulation 2.5 of Annex I and is therefore  exempted from the requirements of  Regulation 18 of Annex I
 
-5.5.2 The ship is operating with special ballast arrangements in accordance with Regulation 18.10 of Annex I, and is therefore exempted from the requirements of Regulation 18 of Annex I
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 180 of 245 5.5.2 The ship is operating with special ballast arrangements in accordance with Regulation 18.10 of Annex I, and is therefore exempted from the requirements of Regulation 18 of Annex I
 
 5.6  Limitation of size and arrangements of cargo tanks (Regulation 26 of Annex I):
 
@@ -616,9 +598,7 @@ Specifications (Resolution A.446(XI)) as amended by Resolution A. 497(XII) and A
 
 5.7.2 Information and data required under Regulation 28.5 of Annex I have   been supplied to the ship in an approved form
 
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 184 of 251 5.7.3 The ship is required to be constructed according to, and complies with the requirements of Regulation 27 of Annex I
+5.7.3 The ship is required to be constructed according to, and complies with the requirements of Regulation 27 of Annex I
 
 5.7.4 Information and data required under Regulation 27 of Annex I for combination carriers have been supplied to the ship in a written procedure approved by the Administration
 
@@ -658,6 +638,10 @@ Page 184 of 251 5.7.3 The ship is required to be constructed according to, and c
 
 .5 is exempted from the provisions of Regulation 21 of Annex I in accordance with Regulation 21.7.2 of Annex I .  .  .  . . . . . . . . . . . . .
 
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 182 of 245
+
 5.8.7  The ship is not subject to Regulation 21 of Annex I
 
 5.8.8  The ship is subject to Regulation 22 of Annex I and:
@@ -676,9 +660,7 @@ Page 184 of 251 5.7.3 The ship is required to be constructed according to, and c
 
 6  Retention of oil on board (Regulations 29, 31 and 32 of Annex I)
 
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 186 of 251 6.1  Oil discharge monitoring and control system:
+6.1  Oil discharge monitoring and control system:
 
 6.1.1 The ship comes under category . . . . . . . . . . . oil tanker as defined in Resolution A.496(XII) or A.586(14) (delete as appropriate)
 
@@ -689,6 +671,8 @@ Page 186 of 251 6.1  Oil discharge monitoring and control system:
 .1 control unit
 
 .2 computing unit
+
+ Oil tankers the keel of which are laid, or which are at a similar stage of construction, on or after 2 October 1986 should be fitted with a system approved under Resolution A. 586(14).
 
 .3 calculating unit
 
@@ -703,8 +687,6 @@ Page 186 of 251 6.1  Oil discharge monitoring and control system:
 .1 crude oil
 
 .2 black products
-
- Oil tankers the keel of which are laid, or which are at a similar stage of construction, on or after 2 October 1986 should be fitted with a system approved under Resolution A. 586(14).   For oil content meters installed on tankers built prior to 2 October 1986, refer to the Recommendation on international performance and test specifications for oil-water separating equipment and oil content meters adopted by the Organization by resolution A..393(X).  For oil contents meters as part of discharge monitoring and control systems installed on takers built on or after 2 October 1986, refer to the Guidelines and specifications for oil discharge monitoring and control systems for oil tankers adopted by the Organization by resolution A.586(14).  For oil content meters as part of discharge monitoring and control systems installed on takers built on or after 1 January 2005, refer to the revised Guidelines and specifications for oil discharge monitoring and control systems for oil tankers adopted by the Organization by resolution MEPC.108(49).
 
 .3 white products
 
@@ -722,6 +704,12 @@ attachment to the certificate
 
 .2 Regulation29.2.3.1 of Annex I
 
+  For oil content meters installed on tankers built prior to 2 October 1986, refer to the Recommendation on international performance and test specifications for oil-water separating equipment and oil content meters adopted by the Organization by resolution A..393(X).  For oil contents meters as part of discharge monitoring and control systems installed on takers built on or after 2 October 1986, refer to the Guidelines and specifications for oil discharge monitoring and control systems for oil tankers adopted by the Organization by resolution A.586(14).  For oil content meters as part of discharge monitoring and control systems installed on takers built on or after 1 January 2005, refer to the revised Guidelines and specifications for oil discharge monitoring and control systems for oil tankers adopted by the Organization by resolution MEPC.108(49).
+
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 184 of 245
+
 .3 Regulation 29.2.3.2 of Annex I
 
 .4 Regulation 29.2.3.3 of Annex I
@@ -738,11 +726,7 @@ attachment to the certificate
 
 6.4.2 The ship is exempted from Regulations 29, 31 and 32 of Annex in accordance with Regulation 2.2 of Annex I
 
-  Refer to the Specification for oil/water interface detectors adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.5(XIII).
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 188 of 251 6.5  Waiver of Regulations 31 and 32 of Annex I:
+6.5  Waiver of Regulations 31 and 32 of Annex I:
 
 6.5.1 The requirements of Regulations 31 and 32 are waived in respect of the ship in accordance with Regulation 3.5 of Annex I. The ship is engaged exclusively on:
 
@@ -755,6 +739,8 @@ Page 188 of 251 6.5  Waiver of Regulations 31 and 32 of Annex I:
 7  Pumping, piping and discharge arrangements (Regulation 30 of Annex I)
 
 7.1 The overboard discharge outlets for segregated ballast are  located:
+
+  Refer to the Specification for oil/water interface detectors adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.5(XIII).
 
 7.1.1 Above the waterline
 
@@ -772,8 +758,6 @@ Page 188 of 251 6.5  Waiver of Regulations 31 and 32 of Annex I:
 
 7.3.2 Below the waterline in conjunction with the part flow arrangements in compliance with Regulation 30.6.5 of Annex I
 
- Only those outlets which can be monitored are to be indicated.
-
 7.3.3 Below the waterline
 
 7.4  Discharge of oil from cargo pumps and oil lines (Regulations 30.4 and 30.5 of Annex I):
@@ -788,7 +772,11 @@ Page 188 of 251 6.5  Waiver of Regulations 31 and 32 of Annex I:
 
 8.1 The ship is provided with a shipboard oil pollution emergency plan in compliance with Regulation 37 of Annex I)
 
-8.2 The ship is provided with a shipboard marine pollution emergency plan in compliance with Regulation 37.3 of Annex I)
+ Only those outlets which can be monitored are to be indicated.
+
+1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
+
+Page 186 of 245 8.2 The ship is provided with a shipboard marine pollution emergency plan in compliance with Regulation 37.3 of Annex I)
 
 9 Exemption
 
@@ -798,10 +786,6 @@ Page 188 of 251 6.5  Waiver of Regulations 31 and 32 of Annex I:
 
 10.1 Equivalents have been approved by the Administration for certain requirements of Annex I on those items listed under paragraph(s) . . . . . . . . . . . . of this Record
 
-THIS IS TO CERTIFY that this Record is correct in all respects. Issued at. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . (Place of issue of the Record) (dd/mm/yyyy) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Date of issue). . . . . . . (Signature of duly authorised officer
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 190 of 251 issuing the Record)
+THIS IS TO CERTIFY that this Record is correct in all respects. Issued at. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . (Place of issue of the Record) (dd/mm/yyyy) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Date of issue). . . . . . . (Signature of duly authorised officer issuing the Record)
 
 (Seal or stamp of the issuing authority, as appropriate)

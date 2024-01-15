@@ -18,11 +18,11 @@ Criteria and procedures for designation of SOx emission control areas (Regulatio
 
 .2 a description of the land and sea areas at risk from the impacts of ship SOx emissions;
 
-.3 an assessment that SOx emissions from ships operating in the proposed area of application of the SOx emission controls are contributing to air pollution from SOx, including Sox deposition, and their attendant adverse impacts on the land and sea areas under consideration. Such assessment shall include a description of the impacts of SOx emissions on terrestrial and aquatic ecosystems, areas of natural productivity, critical habitats, water quality, human health, and areas of cultural and scientific
+.3 an assessment that SOx emissions from ships operating in the proposed area of application of the SOx emission controls are contributing to air pollution from SOx, including Sox deposition, and their attendant adverse impacts on the land and sea areas under consideration. Such assessment shall include a description of the impacts of SOx emissions on terrestrial and aquatic ecosystems, areas of natural productivity, critical habitats, water quality, human health, and areas of cultural and scientific significance, if applicable. The sources of relevant data, including methodologies used, shall be identified;
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 248 of 251 significance, if applicable. The sources of relevant data, including methodologies used, shall be identified;
+Page 242 of 245
 
 .4 relevant information pertaining to the meteorological conditions in the proposed area of application of the SOx emission controls and the land and sea areas at risk, in particular prevailing wind patterns, or to topographical, geological, oceanographic, morphological, or other conditions that may lead to an increased probability of higher localised air pollution or levels of acidification;
 

@@ -16,17 +16,19 @@ The following test cycles and weighting factors should be applied for verificati
 
 Test cycle for constant-speed main propulsion application (including diesel-electric drive or variable-pitch propeller installations)
 
-Test cycle type E2 Speed 100% 100% 100% 100% Power 100% 75% 50% 25%
-
-Weighting factor 0.2 0.5 0.15 0.15
+Test cycle type E2 Speed 100% 100% 100% 100% Power 100% 75% 50% 25% Weighting factor 0.2 0.5 0.15 0.15
 
 Test cycle for propeller-law-operated main and propeller-law-operated auxiliary engine application
 
-Test cycle type E3 Speed 100% 91% 80% 63% Power 100% 75% 50% 25% Weighting factor 0.2 0.5 0.15 0.15
+Test cycle type E3 Speed 100% 91% 80% 63% Power 100% 75% 50% 25%
+
+Weighting factor 0.2 0.5 0.15 0.15
+
+Test cycle for constant-speed auxiliary engine application
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 246 of 251 Test cycle for constant-speed auxiliary engine application
+Page 240 of 245
 
 Test cycle type D2 Speed 100% 100% 100% 100% 100%
 

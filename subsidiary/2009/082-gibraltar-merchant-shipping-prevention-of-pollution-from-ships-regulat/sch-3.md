@@ -26,7 +26,7 @@ Each completed operation shall be signed for and dated by the officer or officer
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 192 of 251 The Oil Record Book Part I contains many references to oil quantity.  The limited accuracy of tank measurement devices, temperature variations and clingage will affect the accuracy of these readings. The entries in the Oil Record Book Part I should be considered accordingly.
+Page 188 of 245 The Oil Record Book Part I contains many references to oil quantity.  The limited accuracy of tank measurement devices, temperature variations and clingage will affect the accuracy of these readings. The entries in the Oil Record Book Part I should be considered accordingly.
 
 In the event of accidental or other exceptional discharge of oil statement shall be made in the Oil Record Book Part I of the circumstances of, and the reasons for, the discharge.
 
@@ -88,7 +88,7 @@ Quantities of oil residues (sludge and other oil residues) retained on board. Th
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 194 of 251
+Page 190 of 245
 
 .1 identity of tank(s) . . . . . . . . . . . . . . . . .  m3
 
@@ -118,11 +118,13 @@ State quantity of oil residues disposed of, the tank(s) emptied and the quantity
 
 .1 through 15 ppm equipment (state position at start and end);
 
+.2 to reception facilities (identify port);
+
  Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident.  The receipt or certificate should be kept together with the Oil Record Book Part I.
 
   In case of discharge or disposal of bilge water from holding tank(s), state identity and capacity of holding tank(s) and quantity retained in holding tank.
 
-.2 to reception facilities (identify port);
+  Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer.
 
 .3 transfer to slop tank or holding tank (indicate tank(s); state quantity retained in tank(s)) in cubic metres.
 
@@ -152,15 +154,17 @@ State quantity of oil residues disposed of, the tank(s) emptied and the quantity
 
 25. Circumstances of discharge or escape, the reasons therefore and general remarks.
 
-  Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident.  The receipt or certificate should be kept together with the Oil Record Book Part I.
+(H) Bunkering of fuel or bulk lubricating oil
+
+26. Bunkering:
+
+This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident.  The receipt or certificate should be kept together with the Oil Record Book Part I.
 
   The condition of the oil filtering equipment covers also the alarm and automatic stopping devices, if applicable.
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 196 of 251 (H) Bunkering of fuel or bulk lubricating oil
-
-26. Bunkering:
+Page 192 of 245
 
 .1 Place of bunkering.
 
@@ -196,7 +200,7 @@ Note: Every oil tanker of 150 tons gross tonnage and above shall be provided wit
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 198 of 251
+Page 194 of 245
 
 INTRODUCTION
 
@@ -224,7 +228,7 @@ The competent authority may inspect the Oil Record Book Part II on board any Shi
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 200 of 251 Part II and taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
+Page 196 of 245 Part II and taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
 
 LIST OF ITEMS TO BE RECORDED
 
@@ -288,6 +292,8 @@ LIST OF ITEMS TO BE RECORDED
 
 (F) Ballasting of dedicated clean ballast tanks (CBT tankers only)
 
+20. Identity of tank(s) ballasted.
+
 1 When an individual tank has more machines than can be operated simultaneously, as described in the Operations and Equipment Manual, then the section being crude oil washed should be identified, e.g. No. 2 centre, forward section.
 
 2 In accordance with the Operations and Equipment Manual, enter whether single-stage or multistage method of washing is employed. If multi-stage method is used, give the vertical arc covered by the machines and the number of times that arc is covered for that particular stage of the programme.
@@ -296,7 +302,7 @@ LIST OF ITEMS TO BE RECORDED
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 202 of 251 20. Identity of tank(s) ballasted.
+Page 198 of 245
 
 21. Position of ship when water intended for flushing, or port ballast was taken to dedicated clean ballast tank(s).
 
@@ -324,11 +330,11 @@ Page 202 of 251 20. Identity of tank(s) ballasted.
 
 .1 reception facilities (state port and quantity)5;
 
+.2 slop tank(s) or cargo tank(s) designated as slop tank(s) identify tank(s); state quantity transferred and total quantity, in cubic metres).
+
 4 Hand-hosing, machine washing and/or chemical cleaning. Where chemically cleaned, the chemical concerned and amount used should be stated.
 
 5 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book.
-
-.2 slop tank(s) or cargo tank(s) designated as slop tank(s) identify tank(s); state quantity transferred and total quantity, in cubic metres).
 
 (H) Discharge of dirty ballast
 
@@ -358,13 +364,15 @@ Page 202 of 251 20. Identity of tank(s) ballasted.
 
 43. ime of settling from last discharge.
 
+44. ime and position of ship at start of discharge.
+
+45. llage of total contents at start of discharge.
+
 6 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 204 of 251 44. ime and position of ship at start of discharge.
-
-45. llage of total contents at start of discharge.
+Page 200 of 245
 
 46. llage of oil/water interface at start of discharge.
 
@@ -396,9 +404,9 @@ Page 204 of 251 44. ime and position of ship at start of discharge.
 
 .2 mixed with cargo (state quantity);
 
-7 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
-
 .3 transferred to (an)other tank(s) (identify tank(s); state quantity transferred and total quantity in tank(s)), in cubic metres;
+
+7 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
 
 .4 other method (state which); state quantity disposed of, in cubic metres.
 
@@ -428,15 +436,15 @@ Page 204 of 251 44. ime and position of ship at start of discharge.
 
 .2 to reception facility (identify port)8.
 
+67. Was there any indication of oil contamination of the ballast water before or during discharge into the sea?
+
+68. Was the discharge monitored by an oil content meter?
+
 8 Ships’ masters should obtain from the operator of the reception facilities, which include barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part II, may aid the master of the ship in proving that his ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part II.
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 206 of 251 67. Was there any indication of oil contamination of the ballast water before or during discharge into the sea?
-
-68. Was the discharge monitored by an oil content meter?
-
-69. Time and position of ship when valves separating dedicated clean ballast tanks from the cargo and stripping lines were closed on completion of deballasting.
+Page 202 of 245 69. Time and position of ship when valves separating dedicated clean ballast tanks from the cargo and stripping lines were closed on completion of deballasting.
 
 (M) Condition of oil discharge monitoring and control system
 
@@ -496,7 +504,7 @@ Signature of master . . . . . . . . . . . . . . . . . . . . .
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 208 of 251 SCHEDULE 4 Regulation 65(1)
+Page 204 of 245 SCHEDULE 4 Regulation 65(1)
 
 PART I
 
@@ -520,9 +528,7 @@ The following pages show a comprehensive list of items of cargo and ballast oper
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 210 of 251
-
-When making entries in the Cargo Record Book, the date, operational code and item number shall be inserted in the appropriate columns and the required particulars shall be recorded chronologically in the blank spaces.
+Page 206 of 245 When making entries in the Cargo Record Book, the date, operational code and item number shall be inserted in the appropriate columns and the required particulars shall be recorded chronologically in the blank spaces.
 
 Each completed operation shall be signed for and dated by the officer or officers in charge and, if applicable, by a surveyor authorized by the competent authority of the State in which the ship is unloading.  The master of the ship shall countersign each completed page.
 
@@ -594,7 +600,7 @@ Entries are required only for operations involving all categories of substances.
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 212 of 251 (E) Cleaning of cargo tanks except mandatory prewash (other prewash operations, final wash, ventilation etc.)
+Page 208 of 245 (E) Cleaning of cargo tanks except mandatory prewash (other prewash operations, final wash, ventilation etc.)
 
 15. State time, identify tank(s), substance(s) and category(ies) and   state:
 
@@ -626,9 +632,9 @@ Page 212 of 251 (E) Cleaning of cargo tanks except mandatory prewash (other prew
 
 (G) Ballasting of cargo tanks
 
-2 Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate specifying the quantity of tank washings transferred, together with the time and date of the transfer.  The receipt or certificate should be kept together with the Cargo Record Book.
-
 20. Identity of tank(s) ballasted.
+
+2 Ships’ masters should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate specifying the quantity of tank washings transferred, together with the time and date of the transfer.  The receipt or certificate should be kept together with the Cargo Record Book.
 
 21. Time at start of ballasting.
 
@@ -668,9 +674,7 @@ Page 212 of 251 (E) Cleaning of cargo tanks except mandatory prewash (other prew
 
 1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
 
-Page 214 of 251
-
-33. Have tank washings resulting from the prewash been discharged ashore and is the tank empty?
+Page 210 of 245 33. Have tank washings resulting from the prewash been discharged ashore and is the tank empty?
 
 34. An exemption has been granted from mandatory prewash.
 
@@ -695,209 +699,3 @@ Date Code (letter) Item (number)
 Record of operations/signature of officer in charge/name of and signature of authorised surveyor
 
 Signature of master . . . . . . . . . . . . . . . . . . . . . . . .
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 216 of 251 SCHEDULE 5
-
-Regulation 59(1)
-
-Form of International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk1
-
-INTERNATIONAL POLLUTION PREVENTION CERTIFICATE FOR THE CARRIAGE OF NOXIOUS LIQUID SUBSTANCES IN BULK
-
-Issued under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, and as amended, (hereinafter referred to as ‘‘the MARPOL Convention’’) under the authority of the Government of Gibraltar: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (full designation of the country) by. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (full designation of the competent person or organisation       authorised under the provisions of the Convention)
-
-Particulars of ship
-
-Name of ship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Distinctive number or letters . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-IMO number2  . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Port of registry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Gross tonnage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-THIS IS TO CERTIFY:
-
-1 The NLS Certificate shall be at least in English, French or Spanish.  Where entries in an official national language of the State whose flag the ship is entitled to fly are also used, this shall prevail in case of a dispute or discrepancy.
-
-2 Refer to the IMO Ship Identification Number Scheme adopted by the Organization by resolution A.600(15).
-
-1. That the ship has been surveyed in accordance with Regulation 8 of Annex II of the MARPOL Convention.
-
-2. That the survey showed that the structure, equipment, systems, fitting, arrangements and material of the ship and the condition thereof are in all respects satisfactory and that the ship complies with the applicable requirements of Annex II of the MARPOL Convention.
-
-3. That the ship has been provided with a Manual in accordance with the Standards for Procedures and Arrangements as required by Regulation14 of Annex II of the MARPOL Convention, and that the arrangements and equipment of the ship prescribed in the Manual are in all respects satisfactory.
-
-4. That the ship complies with the requirements of Annex II of the MARPOL Convention for the carriage in bulk of the following noxious liquid substances, provided that all relevant provisions of Annex II of the MARPOL Convention are observed.
-
-Noxious liquid substances Conditions of carriage (tank numbers etc.) Pollution category
-
-Continued on additional signed and dated sheets
-
-This certificate is valid until(dd/mm/yyyy). . . . . . . . . . . . . . . . . . . . . . subject to surveys in accordance with regulation 8 of Annex II of the MARPOL Convention. Completion date of the survey on which this certificate is based (dd/mm/yyyy). . . . . . . ………………………………………………… Issued at. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Place of issue of certificate) (Date of issue). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (Signature of authorised official issuing the certificate)
-
-(Seal or stamp of the authority, as appropriate)
-
-ENDORSEMENT FOR ANNUAL AND INTERMEDIATE SURVEYS
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 218 of 251 THIS IS TO CERTIFY that, at a survey required by Regulation 8 of Annex II of the MARPOL Convention, the ship was found to comply with the relevant provisions of the Convention:
-
-Annual survey:
-
-Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-Annual/Intermediate survey: Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date (dd/mm/yyyy). . . . . . . . . . . . . ..
-
-(Seal or stamp of the authority, as appropriate)
-
-Annual/Intermediate survey: Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date (dd/mm/yyyy). . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-Annual survey:
-
-Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date  (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE WITH   REGULATION 10.8.3 OF ANNEX II OF THE MARPOL CONVENTION
-
- Delete as appropriate.  Delete as appropriate.
-
-THIS IS TO CERTIFY that, at an annual/intermediate survey in accordance with Regulation 1.8.3 of Annex II of the MARPOL Convention, the ship was found to comply with the relevant provisions of the Convention:
-
-Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date(dd/mm/yyyy). . . . . . . . . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-ENDORSEMENT TO EXTEND THE CERTIFICATE IF VALID FOR LESS THAN 5 YEARS WHERE REGULATION 10.3 OF ANNEX II OF THE MARPOL CONVENTION APPLIES
-
-The ship complies with the relevant provisions of the Convention, and this Certificate shall, in accordance with Regulation 10.3 of Annex II of the MARPOL Convention, be accepted as valid until (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-ENDORSEMENT WHERE THE RENEWAL SURVEY HAS BEEN COMPLETED AND REGULATION 10.4 ANNEX II OF THE MARPOL CONVENTION   APPLIES
-
-The ship complies with the relevant provisions of the Convention, and this Certificate shall, in accordance with Regulation 10.4 of Annex II of the MARPOL Convention, be accepted as valid until (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
- Delete as appropriate.
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 220 of 251
-
-Signed . . . . . . . . . . .
-
-(Signature of authorized official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE UNTIL REACHING THE PORT OF SURVEY OR FOR A PERIOD OF GRACE WHERE REGULATION 10.5 OR 10.6 OF ANNEX II OF THE MARPOL CONVENTION APPLIES
-
-This Certificate shall, in accordance with Regulation 10.5 or 10.6 of Annex II of the MARPOL Convention, be accepted as valid until (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-ENDORSEMENT FOR ADVANCEMENT OF ANNIVERSARY DATE WHERE REGULATION 10.8 OF ANNEX II OF THE MARPOL CONVENTION APPLIES
-
-In accordance with Regulation 10.8 of Annex II of the MARPOL Convention, the new anniversary date is (dd/mm/yyyy). . . . . . . . . . . .
-
-Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-In accordance with Regulation 10.8 of Annex II of the MARPOL Convention, the new anniversary date is (dd/mm/yyyy). . . . . . . . . . . .
-
-Signed . . . . . . . . . . .
-
-(Signature of authorised official)
-
-Place . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Date (dd/mm/yyyy). . . . . . . . . . . . . . . . . . . .
-
-(Seal or stamp of the authority, as appropriate)
-
-1995-13 Gibraltar Merchant Shipping (Safety, etc.) 2009/082 Gibraltar Merchant Shipping (Prevention of Pollution from Ships) Regulations 2009
-
-Page 222 of 251 SCHEDULE 6
-
-Regulation 69(6)
-
-Guidelines for the identification of harmful substances in packaged form
-
-For the purposes of this Annex, substances identified by any one of the following criteria are harmful substances:
-
-– bioaccumulated to a significant extent and known to produce a hazard to aquatic life or to human health (Hazard Rating ‘‘+’’ in column A*); or
-
-– bioaccumulated with attendant risk to aquatic organisms or to human health with a short retention of the order of one week or less (Hazard Rating ‘‘Z’’ in column A*); or
-
-– highly toxic to aquatic life, defined by a LC50/96 hour** less than 1 ppm (Hazard Rating ‘‘4’’ in column B*).
-
-* Refer to the Composite List of Hazard Profiles prepared by the IMO/FAO/UNESCO/WMO/WHO/IAEA/UN/UNEP Joint Group Experts on the Scientific Aspects of Marine Pollution (GESAMP), which is circulated annually by the IMO by means 0of BLG circulars to all IMO Member States.
-
-** The concentration of a substance which will, within the specified time (generally 96 hours), kill 50% of the exposed group of test organisms. Also referred to as “96 h LC50”. LC50 is often specified in milligrams per litre (mg/l) or parts per million (ppm).
