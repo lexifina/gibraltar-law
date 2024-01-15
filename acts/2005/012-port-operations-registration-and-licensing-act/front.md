@@ -2,13 +2,15 @@ Port Operations (Registration and Licensing) Act 2005
 
 Principal Act
 
-Act. No. 2005-12 Commencement (LN.2006/065) 1.6.2006 Assent 9.2.2005
+Act. No. 2005-12 Commencement (LN.2006/065) 1.6.2006
+
+Assent 9.2.2005
 
 Amending enactments Relevant current provisions Commencement date
 
 Act. 2009-48 s. 14(1)(c)-(d) 3.12.2009 2011-30 ss. 2, 2A-2N, 3(1), (3)(a), (4)-(8), 4, 5(1), (3)-(5), 7, 8(1)-(2), 9, 10(1)-(2), (3)(a), (4)-(11), 11, 12(3), 13(1), (6)-(7), 14(1)(a)-(b), 16(1)(a)-(l), (2), 19
 
-6.10.2011 2018-27 s. 2 20.12.2018
+6.10.2011 2018-27 s. 2 20.12.2018 2023-11 s. 2 15.1.2024
 
 ARRANGEMENT OF SECTIONS
 
@@ -28,9 +30,9 @@ PART 3 Port workers
 
 PART 4 Miscellaneous
 
-13. Offences, etc.
+13. Offences, etc. 14. Appeals.
 
-14. Appeals. 15. Reference to the Supreme Court. 16. Regulations. 17. Repeals. 18. Transitional provisions. 19. Validity of regulations and the exercise of powers.
+15. Reference to the Supreme Court. 16. Regulations. 17. Repeals. 18. Transitional provisions. 19. Validity of regulations and the exercise of powers.
 
 SCHEDULE
 
