@@ -16,15 +16,13 @@ Name and address of the insurer(s) and/or guarantor(s)
 
 Name …………………………………………………………………………
 
-Address……………………………………………………………………… ……………………………………………………………………………….
+Address………………………………………………………………………………………… …………………………………………………………….
 
 This certificate is valid until ………………………………………
 
 Issued or certified by the Government of ……………………
 
-Merchant Shipping
-
-1935-09 ……………………………………………………………………………
+……………………………………………………………………………
 
 (Full designation of the State)
 
@@ -32,7 +30,9 @@ OR
 
 The following text should be used when a State Party avails itself of article 12, paragraph 3:
 
-The present certificate is issued under the authority of the Government of ………………………………..  (full designation of the State) by ………………………......................... (name of institution or organization) At…………………………………. On  ……………………………………. (Place)
+The present certificate is issued under the authority of the Government of ………………………………..
+
+(full designation of the State) by ………………………......................... (name of institution or organization) At…………………………………. On  ……………………………………. (Place)
 
 (Date)
 

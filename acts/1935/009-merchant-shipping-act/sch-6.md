@@ -28,9 +28,7 @@ For the purposes of this Convention:
 
 1          “Convention area” means the exclusive economic zone of a State Party, established in accordance with international law or, if a State Party has not established such a zone, an area beyond and adjacent to the territorial sea of that State determined by that State in accordance with international law and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured.
 
-Merchant Shipping
-
-1935-09 2  “Ship” means a seagoing vessel of any type whatsoever and includes hydrofoil boats, air-cushion vehicles, submersibles, floating craft and floating platforms, except when such platforms  are  on  location  engaged in  the  exploration,  exploitation  or  production  of  seabed mineral resources.
+2  “Ship” means a seagoing vessel of any type whatsoever and includes hydrofoil boats, air-cushion vehicles, submersibles, floating craft and floating platforms, except when such platforms  are  on  location  engaged  in  the  exploration,  exploitation  or  production  of seabed mineral resources.
 
 3  “Maritime casualty” means a collision of ships, stranding or other incident of navigation, or other occurrence on board a ship or external to it, resulting in material damage or imminent threat of material damage to a ship or its cargo.
 
@@ -48,19 +46,21 @@ Merchant Shipping
 
 (a)  poses a danger or impediment to navigation; or
 
-(b)  may reasonably be expected to result in major harmful consequences to the marine environment, or damage to the coastline or related interests of one or more States.
+(b)  may reasonably be expected to result in major harmful consequences to the marine
+
+environment, or damage to the coastline or related interests of one or more States.
 
 6  “Related interests” means the interests of a coastal State directly affected or threatened by a wreck, such as:
 
-(a) maritime coastal, port and estuarine activities, including fisheries activities, constituting an essential means of livelihood of the persons concerned;
+(a) maritime coastal, port and estuarine activities, including fisheries activities,
+
+constituting an essential means of livelihood of the persons concerned;
 
 (b) tourist attractions and other economic interests of the area concerned;
 
 (c) the health of the coastal population and the wellbeing of the area concerned, including conservation of marine living resources and of wildlife; and
 
-Merchant Shipping
-
-1935-09 (d) offshore and underwater infrastructure.
+(d) offshore and underwater infrastructure.
 
 7  “Removal” means any form of prevention, mitigation or elimination of the hazard created by a wreck. “Remove”, “removed” and “removing” shall be construed accordingly.
 
@@ -86,10 +86,6 @@ Objectives and general principles
 
 3  Such measures shall not go beyond what is reasonably necessary to remove a wreck which poses a hazard and shall cease as soon as the wreck has been removed; they shall not unnecessarily interfere with the rights and interests of other States including the State of the ship’s registry, and of any person, physical or corporate, concerned.
 
-Merchant Shipping
-
-1935-09
-
 4  The application of this Convention within the Convention area shall not entitle a State Party to claim or exercise sovereignty or sovereign rights over any part of the high seas.
 
 5  States Parties shall endeavour to co-operate when the effects of a maritime casualty resulting in a wreck involve a State other than the Affected State.
@@ -110,17 +106,15 @@ Scope of application
 
 Article 4
 
-Merchant Shipping
-
-1935-09 Exclusions
+Exclusions
 
 1  This Convention shall not apply to measures taken under the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, 1969, as amended, or the Protocol relating to Intervention on the High Seas in Cases of Pollution by Substances other than Oil, 1973, as amended.
 
 2  This Convention shall not apply to any warship or other ship owned or operated by a State and used, for the time being, only on Government non-commercial service, unless that State decides otherwise.
 
-3  Where a State Party decides to apply this Convention to its warships or other ships as described in paragraph 2, it shall notify the Secretary- General, thereof, specifying the terms and conditions of such application.
+3  Where a State Party decides to apply this Convention to its warships or other ships as described in paragraph 2, it shall notify the Secretary-General, thereof, specifying the terms and conditions of such application.
 
-4     (a) When a State Party has made a notification under article 3, paragraph 2, the following provisions of this Convention shall not apply in its territory, including the territorial sea:
+4     (a) When a State Party has made a notification under article 3,    paragraph 2, the following provisions of this Convention shall not apply in its territory, including the territorial sea:
 
 (i) Article 2, paragraph 4;
 
@@ -128,7 +122,7 @@ Merchant Shipping
 
 (iii) Article 15.
 
-(b) Article 9, paragraph 4, insofar as it applies to the territory, including the territorial sea of a State Party, shall read:
+(b) Article 9, paragraph 4, insofar as it applies to the territory,   including the territorial sea of a State Party, shall read:
 
 Subject to the national law of the Affected State, the registered owner may contract with any salvor or other person to remove the wreck determined to constitute a hazard on behalf of the owner.  Before such removal ommences, the Affected State may lay down conditions for such removal only to the extent necessary to ensure that the removal proceeds in a manner that is consistent with considerations of safety and protection of the marine environment.
 
@@ -137,10 +131,6 @@ Article 5
 Reporting wrecks
 
 1  A State Party shall require the master and the operator of a ship flying its flag to report to the Affected State without delay when that ship has been involved in a maritime casualty resulting in a wreck. To the extent that the reporting obligation under this article has been fulfilled either by the master or the operator of the ship, the other shall not be obliged to report.
-
-Merchant Shipping
-
-1935-09
 
 2  Such reports shall provide the name and the principal place of business of the registered owner and all the relevant information necessary for the Affected State to determine whether the wreck poses a hazard in accordance with article 6, including:
 
@@ -174,11 +164,7 @@ When determining whether a wreck poses a hazard, the following criteria should b
 
 (g) type of traffic;
 
-(h) nature and quantity of the wreck’s cargo, the amount and types of oil (such as bunker oil and lubricating oil) on board the
-
-Merchant Shipping
-
-1935-09 wreck and, in particular, the damage likely to result should the cargo or oil be released into the marine environment;
+(h) nature and quantity of the wreck’s cargo, the amount and types of oil (such as bunker oil and lubricating oil) on board the wreck and, in particular, the damage likely to result should the cargo or oil be released into the marine environment;
 
 (i) vulnerability of port facilities;
 
@@ -212,10 +198,6 @@ Marking of wrecks
 
 3  The Affected State shall promulgate the particulars of the marking of the wreck by use of all appropriate means, including the appropriate nautical publications.
 
-Merchant Shipping
-
-1935-09
-
 Article 9
 
 Measures to facilitate the removal of wrecks
@@ -240,9 +222,7 @@ Measures to facilitate the removal of wrecks
 
 (b) inform the registered owner in writing of the deadline it has set and specify that, if the registered owner does not remove the wreck within that deadline, it may remove the wreck at the registered owner’s expense; and
 
-Merchant Shipping
-
-1935-09 (c) inform the registered owner in writing that it intends to intervene immediately in circumstances where the hazard becomes particularly severe.
+(c) inform the registered owner in writing that it intends to intervene immediately in circumstances where the hazard becomes particularly severe.
 
 7  If the registered owner does not remove the wreck within the deadline set in accordance with paragraph 6(a), or the registered owner cannot be contacted, the Affected State may remove the wreck by the most practical and expeditious means available, consistent with considerations of safety and protection of the marine environment.
 
@@ -266,10 +246,6 @@ Liability of the owner
 
 (c) was wholly caused by the negligence or other wrongful act of any Government or other authority responsible for the maintenance of lights or other navigational aids in the exercise of that function.
 
-Merchant Shipping
-
-1935-09
-
 2  Nothing in this Convention shall affect the right of the registered owner to limit liability under any applicable national or international regime, such as the Convention on Limitation of Liability for Maritime Claims, 1976, as amended.
 
 3  No claim for the costs referred to in paragraph 1 may be made against the registered owner otherwise than in accordance with the provisions of this Convention.  This is without prejudice to the rights and obligations of a State Party that has made a notification under article 3, paragraph 2, in relation to wrecks located in its territory, including the territorial sea, other than locating, marking and removing in accordance with this Convention.
@@ -284,25 +260,23 @@ Exceptions to liability
 
 (a) the International Convention on Civil Liability for Oil Pollution Damage, 1969, as amended;
 
-(b) the  International Convention on Liability and Compensation for  Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 1996, as amended;
+(b) the  International Convention on Liability and Compensation  for  Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea, 1996, as amended;
 
-(c) the Convention on Third Party Liability in the Field of Nuclear Energy, 1960, as amended, or the Vienna Convention on Civil Liability for Nuclear Damage, 1963, as amended; or national law governing or prohibiting limitation of liability for nuclear damage; or
+(c) the Convention on Third Party Liability in the Field of Nuclear Energy, 1960, as amended, or the Vienna Convention on Civil Liability for Nuclear Damage,
+
+1963, as amended; or national law governing or prohibiting limitation of liability for nuclear damage; or
 
 (d) the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, as amended;
 
 provided that the relevant convention is applicable and in force.
 
-2  To the extent that measures under this Convention are considered to be salvage under applicable national law or an international convention, such law or convention shall apply to questions of the remuneration or
-
-Merchant Shipping
-
-1935-09 compensation payable to salvors to the exclusion of the rules of this Convention.
+2  To the extent that measures under this Convention are considered to be salvage under applicable national law or an international convention, such law or convention shall apply to questions of the remuneration or compensation payable to salvors to the exclusion of the rules of this Convention.
 
 Article 12
 
 Compulsory insurance or other financial security
 
-1  The registered owner of a ship of 300 gross tonnage and above and flying the flag of a State Party shall be required to maintain insurance or other financial security, such as a guarantee of a bank or similar institution, to cover liability under this Convention in an amount equal to the limits of liability under the applicable national or international limitation regime, but in all cases not exceeding an amount calculated in accordance with article 6(1)(b) of the   Convention on Limitation of Liability for Maritime Claims, 1976, as amended.
+1  The registered owner of a ship of 300 gross tonnage and above and flying the flag of a State Party shall be required to maintain insurance or other financial security, such as a guarantee of a bank or similar institution, to cover liability under this Convention in an amount equal to the limits of liability under the applicable national or international limitation regime, but in all cases not exceeding an amount calculated in accordance with article 6(1)(b) of the Convention on Limitation of Liability for Maritime Claims, 1976, as amended.
 
 2  A certificate attesting that insurance or other financial security is in force in accordance with the provisions of this Convention shall be issued to each ship of 300 gross tonnage and above by the appropriate authority of the State of the ship’s registry after determining that the requirements of paragraph 1 have been complied with. With respect to a ship registered in a State Party, such certificate shall be issued or certified by the appropriate authority of the State of the ship’s registry; with respect to a ship not registered in a State Party it may be issued or certified by the appropriate authority of any State Party. This compulsory insurance certificate shall be in the form of the model set out in the annex to this Convention, and shall contain the following particulars:
 
@@ -316,13 +290,11 @@ Compulsory insurance or other financial security
 
 (e) type and duration of security;
 
-(f) name and principal place of business of insurer or other person giving security and, where appropriate, place of business where the insurance or security is established; and
+(f)  name and principal place of business of insurer or other person giving security and, where appropriate, place of business where the insurance or security is established; and
 
 (g) period of validity of the certificate, which shall not be longer than the period of validity of the insurance or other security.
 
-Merchant Shipping
-
-1935-09 3  (a) A State Party may authorize either an institution or an organization recognized by it to issue the certificate referred to in paragraph 2. Such institution or organization shall inform that State of the issue of each certificate. In all cases, the State Party shall fully guarantee the completeness and accuracy of the certificate so issued and shall undertake to ensure the necessary arrangements to satisfy this obligation.
+3  (a) A State Party may authorize either an institution or an organization recognized by it to issue the certificate referred to in paragraph 2. Such institution or organization shall inform that State of the issue of each certificate. In all cases, the State Party shall fully guarantee the completeness and accuracy of the certificate so issued and shall undertake to ensure the necessary arrangements to satisfy this obligation.
 
 (b) A State Party shall notify the Secretary-General of:
 
@@ -340,11 +312,7 @@ An authority delegated shall not take effect prior to three months from the date
 
 5  The certificate shall be carried on board the ship and a copy shall be deposited with the authorities who keep the record of the ship’s registry or, if the ship is not registered in a State Party, with the authorities issuing or certifying the certificate.
 
-6  An insurance or other financial security shall not satisfy the requirements of this article if it can cease for reasons other than the expiry of the period of validity of the insurance or security specified in the certificate under paragraph 2 before three months have elapsed from the date on which notice of its termination is given to the authorities referred to in paragraph 5 unless the certificate has been surrendered to these authorities or a new certificate has been issued within the said period. The foregoing provisions shall
-
-Merchant Shipping
-
-1935-09 similarly apply to any modification, which results in the insurance or security no longer satisfying the requirements of this article.
+6  An insurance or other financial security shall not satisfy the requirements of this article if it can cease for reasons other than the expiry of the period of validity of the insurance or security specified in the certificate under paragraph 2 before three months have elapsed from the date on which notice of its termination is given to the authorities referred to in paragraph 5 unless the certificate has been surrendered to these authorities or a new certificate has been issued within the said period. The foregoing provisions shall similarly apply to any modification, which results in the insurance or security no longer satisfying the requirements of this article.
 
 7  The State of the ship’s registry shall, subject to the provisions of this article and having regard to any guidelines adopted by the Organization on the financial responsibility of the registered owners, determine the conditions of issue and validity of the certificate.
 
@@ -352,15 +320,13 @@ Merchant Shipping
 
 9 Certificates issued and certified under the authority of a State Party shall be accepted by other States Parties for the purposes of this Convention and shall be regarded by other States Parties as having the same force as certificates issued or certified by them, even if issued or certified in respect of a ship not registered in a State Party.  A State Party may at any time request consultation with the issuing or certifying State should it believe that the insurer or guarantor named in the certificate is not financially capable of meeting the obligations imposed by this Convention.
 
-10  Any claim for costs arising under this Convention may be brought directly against the insurer or other person providing financial security for the registered owner’s liability. In such a case the defendant may invoke the defences (other than the bankruptcy or winding up of the registered owner) that the registered owner would have been entitled to invoke, including limitation of liability under any applicable national or international regime. Furthermore, even if the registered owner is not entitled to limit liability, the defendant may limit liability to an amount equal to the amount of the insurance or other financial security required to be maintained in accordance with paragraph 1. Moreover, the defendant may invoke the defence that the maritime casualty was caused by the wilful misconduct of the registered owner, but the defendant shall not invoke any other defence which the defendant might have been entitled to invoke in proceedings brought by the registered owner against the defendant. The defendant shall in any event have the right to require the registered owner to be joined in the proceedings.
+10  Any claim for costs arising under this Convention may be brought directly against the insurer or other person providing financial security for the registered owner’s liability. In such a case the defendant may invoke the defences (other than the bankruptcy or winding up of the registered owner) that the registered owner would have been entitled to invoke, including limitation of liability under any applicable national or international regime.  Furthermore, even if the registered owner is not entitled to limit liability, the defendant may limit liability to an amount equal to the amount of the insurance or other financial security required to be maintained in accordance with paragraph 1. Moreover, the defendant may invoke the defence that the maritime casualty was caused by the wilful misconduct of the registered owner, but the defendant shall not invoke any other defence which the defendant might have been entitled to invoke in proceedings brought by the registered owner against the defendant. The defendant shall in any event have the right to require the registered owner to be joined in the proceedings.
 
 11  A State Party shall not permit any ship entitled to fly its flag to which this article applies to operate at any time unless a certificate has been issued under paragraphs 2 or 14.
 
-Merchant Shipping
+12  Subject to the provisions of this article, each State Party shall ensure, under its national law, that insurance or other security to the extent required by paragraph 1 is in force in respect of any ship of 300 gross tonnage and above, wherever registered, entering or leaving a port in its territory, or arriving at or leaving from an offshore facility in its territorial sea.
 
-1935-09 12  Subject to the provisions of this article, each State Party shall ensure, under its national law, that insurance or other security to the extent required by paragraph 1 is in force in respect of any ship of 300 gross tonnage and above, wherever registered, entering or leaving a port in its territory, or arriving at or leaving from an offshore facility in its territorial sea.
-
-13  Notwithstanding the provisions of paragraph 5, a State Party may notify the Secretary-General that, for the purposes of paragraph 12, ships are not required to carry on board or to produce the certificate required by paragraph 2, when entering or leaving a port in its territory, or arriving at or leaving from an offshore facility in its territorial sea, provided that the State Party which issues the certificate required by paragraph 2 has notified the Secretary-General that it maintains records in an electronic format, accessible to all States Parties, attesting the existence of the certificate and enabling States Parties to discharge their obligations under paragraph 12.
+13  Notwithstanding the provisions of paragraph 5, a State Party may notify the Secretary- General that, for the purposes of paragraph 12, ships are not required to carry on board or to produce the certificate required by paragraph 2, when entering or leaving a port in its territory, or arriving at or leaving from an offshore facility in its territorial sea, provided that the State Party which issues the certificate required by paragraph 2 has notified the Secretary-General that it maintains records in an electronic format, accessible to all States Parties, attesting the existence of the certificate and enabling States Parties to discharge their obligations under paragraph 12.
 
 14  If insurance or other financial security is not maintained in respect of a ship owned by a State Party, the provisions of this article relating thereto shall not be applicable to such ship, but the ship shall carry a certificate issued by the appropriate authority of the State of registry, stating that it is owned by that State and that the ship’s liability is covered within the limits prescribed in paragraph 1. Such a certificate shall follow as closely as possible the model prescribed by paragraph 2.
 
@@ -378,17 +344,13 @@ Amendment provisions
 
 2  Any consent to be bound by this Convention, expressed after the date of entry into force of an amendment to this Convention, shall be deemed to apply to this Convention, as amended.
 
-Merchant Shipping
-
-1935-09
-
 Article 15
 
 Settlement of disputes
 
 1  Where a dispute arises between two or more States Parties regarding the interpretation or application of this Convention, they shall seek to resolve their dispute, in the first instance, through negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement, resort to regional agencies or arrangements or other peaceful means of their choice.
 
-2  If no settlement is possible within a reasonable period of time not exceeding twelve months after one State Party has notified another that a dispute exists between them, the provisions  relating to the settlement of disputes set out in Part XV of the United Nations Convention on the Law of the Sea, 1982, shall apply mutatis mutandis, whether or not the States party to the dispute are also States Parties to the United Nations Convention on the Law of the Sea, 1982.
+2  If no settlement is possible within a reasonable period of time not exceeding twelve months after one State Party has notified another that a dispute exists between them, the provisions relating to the settlement of disputes set out in Part XV of the United Nations Convention on the Law of the Sea, 1982, shall apply mutatis mutandis, whether or not the States party to the dispute are also States Parties to the United Nations Convention on the Law of the Sea, 1982.
 
 3  Any procedure chosen by a State Party to this Convention and to the United Nations Convention on the Law of the Sea, 1982, pursuant to Article 287 of the latter, shall apply to the settlement of disputes under this article, unless that State Party, when ratifying, accepting, approving or acceding to this Convention, or at any time thereafter, chooses another procedure pursuant to Article 287 for the purpose of the settlement of disputes arising out of this Convention.
 
@@ -398,9 +360,7 @@ Settlement of disputes
 
 Article 16
 
-Merchant Shipping
-
-1935-09 Relationship to other conventions and international agreements
+Relationship to other conventions and international agreements
 
 Nothing in this Convention shall prejudice the rights and obligations of any State under the United Nations Convention on the Law of the Sea, 1982, and under the customary international law of the sea.
 
@@ -430,9 +390,7 @@ Entry into force
 
 Article 19
 
-Merchant Shipping
-
-1935-09 Denunciation
+Denunciation
 
 1  This Convention may be denounced by a State Party at any time after the expiry of one year following the date on which this Convention comes into force for that State.
 
@@ -460,20 +418,14 @@ Depositary
 
 (b) transmit certified true copies of this Convention to all States that have signed or acceded to this Convention.
 
-3  As soon as this Convention enters into force, a certified true copy of the text shall be transmitted by the Secretary-General to the Secretary- General of the United Nations, for registration and publication in accordance with Article 102 of the Charter of the United Nations.
+3  As soon as this Convention enters into force, a certified true copy of the text shall be transmitted by the Secretary-General to the Secretary-General of the United Nations, for registration and publication in accordance with Article 102 of the Charter of the United Nations.
 
 Article 21
 
-Merchant Shipping
-
-1935-09 Languages
+Languages
 
 This  Convention is  established in a single original in the  Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
 DONE IN NAIROBI this eighteenth day of May two thousand and seven.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Convention.
-
-Merchant Shipping
-
-1935-09
