@@ -266,7 +266,7 @@ mooring lines.
 
 8.  Guards.
 
-The following charges shall be payable for the services of guards supplied by the Captain of the Port for any purposes of the Quarantine Rules, the Port Rules or the Admiralty Waters (Gibraltar) Regulations, 1972:
+The following charges shall be payable for the services of guards supplied by the Captain of the Port for any purposes of the Quarantine Rules, the Port Rules “ , the Admiralty Waters and Naval Base (Gibraltar) Act 2022 or any regulations made thereunder:
 
 Per guard per hour or part thereof
 
@@ -278,9 +278,7 @@ The following hire charges shall be payable
 
 (a) Port Launch
 
-Weekdays (excluding public holidays) between
-
-8.00 am and 5.00 pm
+Weekdays (excluding public holidays) between 8.00 am and 5.00 pm
 
 £110 per hour Weekdays (excluding public holidays) between 5.00 pm and 8.00 am
 
@@ -306,29 +304,15 @@ Charges for Port Operations.
 
 (c) Annual Fee for a-
 
-(i) Bunkering Licence £50,000
-
-(ii) Stevedoring Licence £3,000
-
-(iii) Ship Repair Licence £1,000
-
-(iv) Ship Agency Licence £1,000
-
-(v) Ship Chandlery Licence £1,000
-
-(vi) Tug Operators Licence £1,000
-
-(vii) Service Craft Operator Licence
-
-£1,000 (viii) Waste Operator Licence £1,000
-
-(ix) Commercial Diving Licence
+(i) Bunkering Licence £50,000 (ii) Stevedoring Licence £3,000 (iii) Ship Repair Licence £1,000 (iv) Ship Agency Licence £1,000 (v) Ship Chandlery Licence £1,000 (vi) Tug Operators Licence £1,000 (vii) Service Craft Operator Licence £1,000 (viii) Waste Operator Licence £1,000 (ix) Commercial Diving Licence
 
 £1,000
 
 (x) Dock Work Licence £1,000
 
-(xi) Ancillary Licence £250 (xii) Any other commercial or Industrial Licence £1,000
+(xi) Ancillary Licence £250
+
+(xii) Any other commercial or Industrial Licence £1,000
 
 Part 2
 
@@ -422,13 +406,9 @@ An operator wishing to have a portacabin shall be liable to pay a fee @ £2.50 p
 
 14. Super Yacht Tariff Card
 
-DESCRIPTION RATE
+DESCRIPTION RATE Berthing Fees (including at anchor) (i) Set at £5/m per day
 
-Berthing Fees (including at anchor) (i) Set at £5/m per day
-
-(ii) Deleted
-
-Discounts for visits of more than 4 days shall also apply on a case by case basis
+(ii) Deleted Discounts for visits of more than 4 days shall also apply on a case by case basis
 
 (i) 5 to 7 days @ 2%.
 
