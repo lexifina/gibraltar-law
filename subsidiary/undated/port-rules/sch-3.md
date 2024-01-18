@@ -292,7 +292,7 @@ Weekends and public holidays
 
 Thereafter                                                              £15 per day or part thereof
 
-Charges for Port Operations.
+9A. Charges for Port Operations.
 
 (a)  Registration as Port employer for an entity first registered after 3 May 2001
 
@@ -304,7 +304,7 @@ Charges for Port Operations.
 
 (c) Annual Fee for a-
 
-(i) Bunkering Licence £50,000 (ii) Stevedoring Licence £3,000 (iii) Ship Repair Licence £1,000 (iv) Ship Agency Licence £1,000 (v) Ship Chandlery Licence £1,000 (vi) Tug Operators Licence £1,000 (vii) Service Craft Operator Licence £1,000 (viii) Waste Operator Licence £1,000 (ix) Commercial Diving Licence
+(i) Bunkering Licence £50,000 (ii) Stevedoring Licence £3,000 (iii) Ship Repair Licence £1,000 (iv) Ship Agency Licence £1,000 (v) Ship Chandlery Licence £1,000 (vi) Tug Operators Licence £50,000 (vii) Service Craft Operator Licence £1,000 (viii) Waste Operator Licence £1,000 (ix) Commercial Diving Licence
 
 £1,000
 
@@ -421,3 +421,7 @@ DESCRIPTION RATE Berthing Fees (including at anchor) (i) Set at £5/m per day
 (v)  Up to 90 days @10%.
 
 (vi) For over 90 days at such rate as may be determined by the Captain of the Port on his discretion.
+
+15. Tug Operations.
+
+Charge in respect of the first grant of a Tug Operator Licence - £250,000
