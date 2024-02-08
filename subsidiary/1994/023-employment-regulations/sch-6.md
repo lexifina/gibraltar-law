@@ -15,7 +15,3 @@ Director:
 Date:
 
 Signature of worker:
-
-Employment EMPLOYMENT REGULATIONS, 1994
-
-Subsidiary 1994/023 1932-16

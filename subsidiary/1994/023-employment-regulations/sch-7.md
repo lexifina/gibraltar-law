@@ -26,13 +26,9 @@ PART II.
 
 56.00 2. The fee payable to the Director in respect of an application for a renewal of a permit under regulation 7
 
-28.00 3.The fee payable to the Director in respect of a notification or application under regulation 15A
+28.00 3. The fee payable to the Director in respect of a notification or application under regulation 15A
 
 74.00
-
-Employment EMPLOYMENT REGULATIONS, 1994
-
-Subsidiary 1994/023 1932-16
 
 PART III.
 
@@ -44,8 +40,14 @@ PART IV.
 
 Annual indexation of fees.
 
-1.  Subject to the provision of this regulation, the fees set out in Part I and Part II above must be revised annually in accordance with the Index of Retail Prices published by the Government Statistician.
+1.  Subject to the provision of this regulation, the fees set out in Part II above must be revised annually in accordance with the Index of Retail Prices published by the Government Statistician.
 
 2.  The first revision under this regulation shall apply as from 1 April 2023 and shall apply the index of retail prices as at 1 January 2023, and subsequent revisions shall apply on each subsequent 1 April and apply the index of retail prices prevailing on the preceding 1st January of that year.
 
 3.  Any figure revised pursuant to paragraph 1 shall be rounded to the nearest 50p.
+
+PART V.
+
+Vacancy fee to correspond with Minimum Wage.
+
+1. Subject to the provision of this regulation, the fees set out in Part I above must be revised to correspond with the hourly remuneration rate set out in the Schedule to the Conditions of Employment (Standard Minimum Wage) Order, 2001, as amended from time to time.
