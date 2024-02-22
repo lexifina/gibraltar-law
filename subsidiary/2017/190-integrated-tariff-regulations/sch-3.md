@@ -346,7 +346,9 @@ Free
 
 NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
-“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. A third of the applicabl e stated duty rate for motor spirits
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time.
+
+£0.12p per litre
 
 46. Diesel fuel supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
 
@@ -402,11 +404,9 @@ with an engine capacity exceeding 2000cc
 
 22%
 
-4.A vehicle ceases to be classified as a taxi under  paragraph 23 of Schedule 3
+4. (1) Subject to paragraph (2) below, after 4 years from the date of importation a vehicle ceases to be classified as a taxi under paragraph 23 of Schedule 3
 
-with an engine capacity not exceeding 1500cc
-
-15%
+£250
 
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
@@ -414,13 +414,15 @@ Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
 Subsidiary 2017/190
 
-with an engine capacity exceeding 1500cc but not exceeding 2000cc
+where powered solely by an internal combustion (spark or compression) ignition engine
 
-with an engine capacity exceeding 2000cc
+where electric motor used partially (hybrid) or solely for propulsion
 
-18%
+(2) Within 4 years from the date of importation a vehicle ceases to be classified as a taxi under paragraph 23 of Schedule 3
 
-22%
+Nil
+
+The corresponding rate under Schedule 1 shall apply
 
 5. A vehicle ceases to operate under a Road Haulage Operators Licence under paragraph 24 of Schedule 3
 
