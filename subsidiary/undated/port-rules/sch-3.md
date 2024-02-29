@@ -374,6 +374,12 @@ Less than 50,000 metric tonnes
 
 £17,000
 
+(c) Charge in respect of the first grant of an LNG Bunkering Licence
+
+£250,000 In additional to any other charges payable under these Rules, there shall be payable in respect of every vessel that takes on board LNG fuel for its own use or for export, an LNG bunkering levy charge at the following rate per tonne of LNG fuel supplied £0.20
+
+Under a Green Initiative Scheme, there will be a discount of 50% applied at the discretion of the Captain of the Port.
+
 11.  Miscellaneous charges.
 
 Overland containers unloading at Port
@@ -386,7 +392,9 @@ Overland containers unloading at Port
 
 £100 Petroleum Licence
 
-£200 Pleasure boat licence
+£200
+
+Pleasure boat licence
 
 £20 Issue of a duplicate pleasure boat licence
 
@@ -406,7 +414,9 @@ An operator wishing to have a portacabin shall be liable to pay a fee @ £2.50 p
 
 14. Super Yacht Tariff Card
 
-DESCRIPTION RATE Berthing Fees (including at anchor) (i) Set at £5/m per day
+DESCRIPTION RATE
+
+Berthing Fees (including at anchor) (i) Set at £5/m per day
 
 (ii) Deleted Discounts for visits of more than 4 days shall also apply on a case by case basis
 
