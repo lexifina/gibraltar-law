@@ -6,13 +6,9 @@ Form of Annual Return of a Company having a Share Capital:- As required by PART 
 
 Company Number
 
-…………………………………………………… ……...
+…………………………………………………… ……... Company Name
 
-Company Name
-
-…………………………………………………… ………
-
-Registered Office address:-
+…………………………………………………… ……… Registered Office address:-
 
 …………………………………………………… …..….
 
@@ -56,9 +52,7 @@ Summary of Share Capital and Shares: 1. Nominal Share Capital  ……...........
 
 15. Total Amount of Calls unpaid ………………. ................. 16. Total Amount of the sums (if any) paid by way of Commission in respect of any Shares or Debentures or allowed by way of Discount in respect of any Debenture since the date of the last Annual Return .............................................
 
-.................
-
-17. Total Number of Shares forfeited …………… ................. 18. Total Amount paid (if any) on Shares forfeited ................. 19. Total Amount of Indebtedness of the Company in respect of all Mortgages and charges of the kind which are required to be registered with the Registrar of Companies under the Companies Act ……………………………….
+................. 17. Total Number of Shares forfeited …………… ................. 18. Total Amount paid (if any) on Shares forfeited ................. 19. Total Amount of Indebtedness of the Company in respect of all Mortgages and charges of the kind which are required to be registered with the Registrar of Companies under the Companies Act ……………………………….
 
 …….........
 
