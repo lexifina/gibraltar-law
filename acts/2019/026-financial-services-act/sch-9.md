@@ -4,6 +4,8 @@ DOMESTIC AUTHORITIES
 
 Board of Charity Commissioners
 
+Commissioner of Income Tax;
+
 Financial Services Resolution and Compensation Committee;
 
 Gambling Commissioner;
