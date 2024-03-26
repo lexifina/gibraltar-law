@@ -42,7 +42,7 @@ LN. 1983/100 Schs. 2-3
 
 1 Notice of Commencement – LN.1993/137
 
-Act. 2014-10 ss. 2(2)(a), 3(1), 11, 13, Sch. 3 28.3.2014
+Act. 2014-10 ss. 2(2)(a), 3(1), 11, 13, Sch. 3 28.3.2014 2024-03 s. 20 26.3.2024
 
 English Sources: National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 
@@ -50,7 +50,7 @@ ARRANGEMENT OF SECTIONS
 
 Section
 
-1. Short title. 2. Interpretation. 3. Application of Act. 4. Source of funds. 5. Revoked. 6. Revoked. 7. Revoked. 8. Unemployment benefit. 9. Exhaustion and re-qualification for benefit. 10. Disqualifications and special conditions. 11. Increase of benefit for adult dependants. 12. Increase of benefit for children. 13. Application of Social Security (Insurance) Act. 14. Recovery of sums by deduction from benefit. 15. General provisions as to offences and penalties. 16. Regulations. 17. Revoked. 18. Review of benefits, etc. 19. Provisions relating to persons who are not community nationals.
+1. Short title. 2. Interpretation. 3. Application of Act. 4. Source of funds. 5. Revoked. 6. Revoked. 7. Revoked. 8. Unemployment benefit. 9. Exhaustion and re-qualification for benefit. 10. Disqualifications and special conditions. 11. Increase of benefit for adult dependants. 12. Increase of benefit for children. 13. Application of Social Security (Insurance) Act. 14. Recovery of sums by deduction from benefit. 15. General provisions as to offences and penalties. 16. Regulations. 17. Revoked. 18. Review of benefits, etc. 19. Provisions relating to persons who are not community nationals. 20. Reciprocal agreements with United Kingdom, foreign countries and international organisations.
 
 SCHEDULE 1 Revoked.
 
