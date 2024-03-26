@@ -1,0 +1,45 @@
+SCHEDULE
+
+PART 1
+
+SUPPLEMENTARY APPROPRIATION OF CONSOLIDATED FUND EXPENDITURE 2021/2022
+
+Head Amount £ 58 Supplementary Provision 30,800,000
+
+PART 2
+
+SUPPLEMENTARY APPROPRIATION OF CONSOLIDATED FUND CONTRIBUTIONS 2021/2022
+
+Head Amount £ 61 Contribution to the Improvement & Development Fund 3,000,000 62 Contribution to the COVID-19 Response Fund 67,610,000 70,610,000
+
+PART 3
+
+SUPPLEMENTARY APPROPRIATION OF IMPROVEMENT AND DEVELOPMENT FUND EXPENDITURE 2021/2022
+
+Head Amount £ 101 Works and Equipment 354,000
+
+PART 4
+
+SUPPLEMENTARY APPROPRIATION OF RECURRENT EXPENDITURE OF PUBLIC UNDERTAKINGS 2021/2022
+
+Public Undertaking Amount £
+
+Gibraltar Health Authority 30,299,000
+
+Gibraltar Health Authority - Elderly Residential Services Section 1,589,000
+
+Care Agency 3,828,000
+
+Gibraltar Sports and Leisure 156,000
+
+Gibraltar Electricity Authority 12,702,000 48,574,000
+
+PART 5
+
+SUPPLEMENTARY APPROPRIATION OF CAPITAL EXPENDITURE OF PUBLIC UNDERTAKINGS 2021/2022
+
+Public Undertaking Amount £
+
+Housing Works Agency 620,000 Gibraltar Sports and Leisure Authority 33,000
+
+653,000
