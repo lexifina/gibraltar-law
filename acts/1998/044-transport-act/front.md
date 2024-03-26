@@ -28,6 +28,8 @@ Act. 2002-23 ss. 2, 10A, 11, 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A, 50(
 
 1 Notice of Commencement (LN.1999/091) 2 Notice of Commencement (LN.2000/066) 3 Notice of Commencement (LN.2000/071)
 
+Act. 2024-08 s. 17(10)-(12) 26.3.2024
+
 EU legislation/International Agreements involved: Regulation (EC) No. 561/2006 Regulation (EC) No 1071/2009 Regulation (EC) No 1072/2009 Regulation (EC) No 1073/2009 Regulation (EU) No 165/2014 Regulation (EU) 2016/799
 
 ARRANGEMENT OF SECTIONS
