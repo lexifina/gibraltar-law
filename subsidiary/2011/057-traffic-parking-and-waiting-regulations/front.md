@@ -8,15 +8,13 @@ Commencement (LN.2011/083) 9.6.2011
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2011/089 r. 3(13), Sch. 3 9.6.2011 2012/015 rr. 23(2)(a), 41, 60A, Sch. 3 16.2.2012 2012/055 r. 4A 5.4.2012 2012/0681 rr. 2, 23(2)(c), 26(1)-(2), 27(1), (3)-(4), 28, 29(1), 59(1)
+LN. 2011/089 r. 3(13), Sch. 3 9.6.2011 2012/015 rr. 23(2)(a), 41, 60A, Sch. 3 16.2.2012 2012/055 r. 4A 5.4.2012 2012/068 rr. 2, 23(2)(c), 26(1)-(2), 27(1), (3)-(4), 28, 29(1), 59(1)
 
 26.4.2012 2013/033 r. 3(3), (3A) 14.2.2013 2013/036 r. 12(1), (1A) 21.2.2013 2013/062 rr. 17(1), (1A), 21(1)-(2), 22(1)-(2), Sch. 2 18.4.2013 2016/041 rr. 16, 18, 22(2), Sch. 3 3.3.2016 2017/105 Sch. 3 1.7.2017 2017/148 rr. 3(13), 3A, Sch. 3 13.7.2017 2018/033 rr. 10(3), 43(1), 47A, Sch. 3 1.3.2018 2018/105 Sch. 3 10.5.2018 2018/159 Sch. 3 11.9.2018 2018/275 rr. 31(1), 33A, 35A, 37(1)(d), (2), (a)-(b), (5)-(6), 40, (a)-(b), 40A, 41, 41A-41C, 42
 
 3.12.2018 2019/006 r. 3(4A)-(4C) 17.1.2019 2019/186 rr. 5(1), (1A), 10(6)-(7), 41(1A), (2)-(3), 41A(1), 41B(1A), 62(1A), Sch. 3
 
-16.9.2019 2022/005 rr. 43(1), (d), (1A), (2), (5), 44(1), 47 13.1.2022 2022/021 Sch. 3 27.1.2022 2022/167 r. 19(1)-(2), Sch.3 30.6.2022 2023/011 r. 2 26.1.2023 2023/080 rr. 2, 3(14)-(15) 30.3.2023
-
-1 Transitional provisions.– For the period of 28 days from the date of the coming into operation of these regulations the reference in regulation 26(2) of the Traffic (Parking and Waiting) Regulations 2011 to “double red line or, in areas where stopping is permitted under regulation 27(4), a red line painted on the roadway” shall be deemed to read “blue line, a double red line or, in areas where stopping is permitted under regulation 27(4), a red line painted on the roadway.
+16.9.2019 2022/005 rr. 43(1), (d), (1A), (2), (5), 44(1), 47 13.1.2022 2022/021 Sch. 3 27.1.2022 2022/167 r. 19(1)-(2), Sch.3 30.6.2022 2023/011 r. 2 26.1.2023 2023/080 rr. 2, 3(14)-(15) 30.3.2023 2024/037 r. 31(1) 1.4.2024
 
 ARRANGEMENT OF REGULATIONS
 
