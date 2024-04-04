@@ -10,11 +10,9 @@ Amending enactments Relevant current provisions Commencement date LN. 1994/073 r
 
 2.10.2008 2014/236 r. 7(5) 4.12.2014 2015/021 r. 7(3)(h)-(i) 19.2.2015 2016/065 r. 4(1), (8), Schs. 1, 7 1.4.2016 2016/138 r. 15A(3), (3A)-(3C) 18.6.2016 2016/158 r. 7(3) 21.7.2016 Act. 2016-20 rr. 8(1)-(2), (6)-(7), (9)-(10), 16(1), (3)-(5), 17(1), (3)(a), (c), (5)
 
-13.10.2016 LN. 2019/239 Sch. 7 1.4.2017 2018/070 Sch. 7 1.4.2018 2019/065 r. 4(8), Sch. 7 1.4.2019 2022/134 r. 7(6A), (7) 26.5.2022 2022/202 Sch. 7 25.7.2022 2023/214 Sch. 7 1.8.2023 2024/014 Sch. 7 8.2.2024
+13.10.2016 LN. 2019/239 Sch. 7 1.4.2017 2018/070 Sch. 7 1.4.2018 2019/065 r. 4(8), Sch. 7 1.4.2019 2022/134 r. 7(6A), (7) 26.5.2022 2022/202 Sch. 7 25.7.2022 2023/214 Sch. 7 1.8.2023 2024/014 Sch. 7 8.2.2024 2024/039 r. 7(6A), (7) 4.4.2024
 
-Transposing: Directive 91/533/ECC Regulation 1612/68
-
-Directive 2001/55/EC Directive 2003/9/EC Directive 2004/83/EC Directive 2014/67/EU
+Transposing: Directive 91/533/ECC Regulation 1612/68 Directive 2001/55/EC Directive 2003/9/EC Directive 2004/83/EC Directive 2014/67/EU
 
 ARRANGEMENT OF REGULATIONS
 
