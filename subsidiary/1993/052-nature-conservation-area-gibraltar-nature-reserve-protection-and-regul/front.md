@@ -6,7 +6,9 @@ LN. 1993/052
 
 Commencement 1.4.1993
 
-Amending enactments Relevant current provisions Commencement date LN. 2019/114 rr. 2(1), 8A-8B, 10 6.6.2019 2022/076 rr. 1, 2(1), 3(1)-(2), 4(2) 24.3.2022 2023/274 r. 2 21.9.2023
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/114 rr. 2(1), 8A-8B, 10 6.6.2019 2022/076 rr. 1, 2(1), 3(1)-(2), 4(2) 24.3.2022 2023/274 r. 2 21.9.2023 2024/041 r. 4(4A) 11.4.2024
 
 ARRANGEMENT OF REGULATIONS
 
