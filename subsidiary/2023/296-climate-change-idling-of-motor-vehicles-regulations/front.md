@@ -6,7 +6,9 @@ LN.2023/296
 
 Commencement 16.11.2023
 
-_______________________
+Amending enactments Relevant current provisions Commencement date
+
+LN.2024/040 r. 3 11.4.2024
 
 ARRANGEMENT OF REGULATIONS
 
