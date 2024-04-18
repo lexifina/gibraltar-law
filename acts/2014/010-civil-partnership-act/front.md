@@ -2,13 +2,11 @@ Civil Partnership Act 2014
 
 Principal Act
 
-Act. No. 2014-10 Commencement 28.3.2014
-
-Assent 25.3.2014
+Act. No. 2014-10 Commencement 28.3.2014 Assent 25.3.2014
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2016-18 s. 31(2) 23.4.2018 LN. 2018/112 s. 2 21.5.2018
+Act. 2016-18 s. 31(2) 23.4.2018 LN. 2018/112 s. 2 21.5.2018 Act. 2023-04 Sch.2 18.4.2024
 
 ARRANGEMENT OF SECTIONS
 

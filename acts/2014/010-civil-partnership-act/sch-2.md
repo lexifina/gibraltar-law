@@ -26,11 +26,11 @@ Each of the child’s special guardians. 3.  A care order has effect with respec
 
 (b) each parent, guardian or special   guardian (in so far as their parental responsibility has not been restricted under the 2009 Act). 4. A residence order has effect with respect to the child. Each of the persons with whom the child lives, or is to live, as a result of the order.
 
-5. An adoption agency is authorised to place the child for adoption under the Adoption Act. Either– (a) the adoption agency, or (b) if a care order has effect with respect to the child, the local authority designated in the order.
+5. An adoption agency is authorised to place the child for adoption under the Adoption Act 2023. Either– (a) the adoption agency, or (b) if a care order has effect with respect to the child, the local authority designated in the order.
 
 6. A placement order is in force with respect to the child. The local authority authorised by the placement order to place the child for adoption.
 
-7. The child has been placed for adoption with prospective adopters. The prospective adopters (in so far as their parental responsibility has not been restricted under the Adoption Act, in addition to any person specified in relation to item 5 or 6.
+7. The child has been placed for adoption with prospective adopters. The prospective adopters (in so far as their parental responsibility has not been restricted under the Adoption Act 2023, in addition to any person specified in relation to item 5 or 6.
 
 8. The circumstances do not fall within any of items 2 to 4, but a residence order was in force with respect to the child immediately before he reached 16. The persons with whom the child lived, or was to live, as a result of the order.
 
@@ -38,7 +38,7 @@ Each of the child’s special guardians. 3.  A care order has effect with respec
 
 “the 2009 Act” means the Children Act 2009 and “guardian of a child”, “parental responsibility”, “residence order”, “special guardian”, “special guardianship order” and “care order” have the same meaning as in that Act;
 
-“adoption agency”, “placed for adoption”, “placement order” and “local authority” have the same meaning as in the Adoption Act;
+“adoption agency”, “placed for adoption”, “placement order” and “local authority” have the same meaning as in the Adoption Act 2023;
 
 “appropriate local authority” means the local authority authorised by the placement order to place the child for adoption.
 
