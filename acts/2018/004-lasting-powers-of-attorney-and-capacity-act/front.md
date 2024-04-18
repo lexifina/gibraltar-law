@@ -2,9 +2,13 @@ Lasting Powers of Attorney and Capacity Act 2018
 
 Principal Act
 
-Act. No. 2018-04 Commencement LN.2018/077 23.04.2018 Assent 21.02.2018
+Act. No. 2018-04 Commencement LN.2018/077 23.04.2018
 
-_______________________________
+Assent 21.02.2018
+
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2023-04 s. 3(1) 18.4.2024
 
 ARRANGEMENT OF SECTIONS
 
@@ -32,9 +36,7 @@ PART 5 – SIGNIFICANT RESTRICTION ON LIBERTY
 
 PART 6 – INDEPENDENT CAPACITY ADVOCATES 50. Application of this Part. 51. Appointment of independent capacity advocates. 52. Functions of independent capacity advocates. 53. Support where serious medical treatment is proposed. 54. Support where provision of or change in accommodation is proposed.
 
-PART 7 - MISCELLANEOUS 55. Protection for acts done in pursuance of this Act. 56. Regulations.
-
-57. Amendments to the Mental Health Act 2016. 58. Consequential amendments and transitional provisions. 59. Amendments to the Medical (Gibraltar Health Authority) Act, 1987 and the Care Agency Act 2009.
+PART 7 - MISCELLANEOUS 55. Protection for acts done in pursuance of this Act. 56. Regulations. 57. Amendments to the Mental Health Act 2016. 58. Consequential amendments and transitional provisions. 59. Amendments to the Medical (Gibraltar Health Authority) Act, 1987 and the Care Agency Act 2009.
 
 SCHEDULE 1 AMENDMENTS TO THE MENTAL HEALTH ACT 2016
 
