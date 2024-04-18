@@ -20,7 +20,7 @@ Act. 1972-06 ss. 24(4), 30(2)
 
 30.9.2010 Act. 2014-10 ss. 2, 2A, 3, 4(1)(e), 5(2), (3)(e)-(f), 6, 8-10, 11(3), 12, 15-16, 16C, 30-31, 40(a), 48(1)(v), 62-63, 65, 69, 70(1), (4), 71
 
-28.3.2014 LN. 2018/112 ss. 2, 30(1) 21.5.2018 2018/268 s. 50(b) 22.11.2018 Act. 2021-09 ss. 2, 30(1), 63 2.9.2021 LN. 2023/116 ss. 74(2), 76-83, Sch. 2 4.5.2023
+28.3.2014 LN. 2018/112 ss. 2, 30(1) 21.5.2018 2018/268 s. 50(b) 22.11.2018 Act. 2021-09 ss. 2, 30(1), 63 2.9.2021 LN. 2023/116 ss. 74(2), 76-83, Sch. 2 4.5.2023 Act. 2023-04 s. 2 18.4.2024
 
 Rules made under s.68 and other powers appear under the title Supreme Court.
 
@@ -46,9 +46,9 @@ PART IA Matrimonial or Civil Partnership Orders
 
 PART II. AFFILIATION PROCEEDINGS.
 
-17. Interpretation of Part II. 18. Commencement of affiliation proceedings. 19. Time for application for summons.
+17. Interpretation of Part II. 18. Commencement of affiliation proceedings. 19. Time for application for summons. 20. Jurisdiction under Part II.
 
-20. Jurisdiction under Part II. 21. Powers of court on hearing of the application. 22. Persons entitled to payments under affiliation order. 23. Duration and continuance of affiliation orders. 24. Repealed 25. Restriction on payments after child reaches eighteen. 26. Duty of the court to consider appropriate relief under the Children Act 2009. 27. Duty of putative father to notify change of address. 28. Misconduct by guardian of illegitimate child.
+21. Powers of court on hearing of the application. 22. Persons entitled to payments under affiliation order. 23. Duration and continuance of affiliation orders. 24. Repealed 25. Restriction on payments after child reaches eighteen. 26. Duty of the court to consider appropriate relief under the Children Act 2009. 27. Duty of putative father to notify change of address. 28. Misconduct by guardian of illegitimate child.
 
 PART III. MAINTENANCE OF CHILDREN AND PARENTS.
 
@@ -56,9 +56,9 @@ PART III. MAINTENANCE OF CHILDREN AND PARENTS.
 
 PART IV. ENFORCEMENT OF ORDERS.
 
-48. Interpretation of Part IV. 49. Powers of courts to make orders attaching earnings of defaulters under maintenance orders. 50. Powers of courts to make attachment of earnings orders in proceedings under other laws.
+48. Interpretation of Part IV. 49. Powers of courts to make orders attaching earnings of defaulters under maintenance orders. 50. Powers of courts to make attachment of earnings orders in proceedings under other laws. 51. Restriction of issue of orders, etc., of commitment. 52. Variation and discharge, etc., of attachment of earnings orders.
 
-51. Restriction of issue of orders, etc., of commitment. 52. Variation and discharge, etc., of attachment of earnings orders. 53. Liabilities of persons to whom attachment of earnings orders are directed. 54. Powers of court to obtain statements of earnings, etc. 55. Power of court to determine whether payments are earnings. 56. Miscellaneous provisions as to payments under attachment of earnings orders. 57. Application of Part IV to earnings paid by the Crown, etc. 58. Offences. 59. Prohibition of committal more than once in respect of same arrears. 60. Powers of magistrates’ court to review committals, etc. 61. Special provisions as to magistrates’ court.
+53. Liabilities of persons to whom attachment of earnings orders are directed. 54. Powers of court to obtain statements of earnings, etc. 55. Power of court to determine whether payments are earnings. 56. Miscellaneous provisions as to payments under attachment of earnings orders. 57. Application of Part IV to earnings paid by the Crown, etc. 58. Offences. 59. Prohibition of committal more than once in respect of same arrears. 60. Powers of magistrates’ court to review committals, etc. 61. Special provisions as to magistrates’ court.
 
 PART V. MAINTENANCE AGREEMENTS.
 
