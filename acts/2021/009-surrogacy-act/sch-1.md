@@ -26,7 +26,9 @@ Amendments to the Adoption Act.
 
 (e) insert subsection (2A)–
 
-“(2A) The Registrar of the Supreme Court shall cause every parental order to be communicated to the Registrar, and upon receipt of such communication the Registrar shall cause compliance to be made with the directions contained in such order in regard both to marking any entry in the Register of Births with the words “Parental Order”, and in regard to making the appropriate entry in the Adoption and Parental Order Register.”;
+“(2A) The Registrar of the Supreme Court shall cause every parental order to be communicated to the Registrar, and upon receipt of such communication the Registrar shall cause compliance to be made with the directions contained in such order in regard both to marking any entry in the Register of Births with the words
+
+“Parental Order”, and in regard to making the appropriate entry in the Adoption and Parental Order Register.”;
 
 (f) in subsection (3) after “any entry in the Adoption” insert “and Parental Order”;
 

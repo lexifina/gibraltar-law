@@ -2,9 +2,13 @@ Surrogacy Act 2021
 
 Principal Act
 
-Act. No. 2021-09 Commencement 9.2.2021 Assent 9.2.2021
+Act. No. 2021-09 Commencement 9.2.2021
 
-_______________________________
+Assent 9.2.2021
+
+Amending enactments Relevant current provisions Commencement date
+
+Act. 2023-04 ss. 13(4)(a), 23(4) 18.4.2024
 
 ARRANGEMENT OF SECTIONS
 
@@ -24,9 +28,9 @@ PART 2 Legal Parenthood
 
 PART 3 Parental Orders
 
-20. Two applicants.
+20. Two applicants. 21. One Applicant. 22. Prohibited degrees of relationship. 23. Jurisdiction and procedure. 24. Effect of a parental order. 25. Devolution and disposal of property. 26. Supplementary provisions as to inheritance, etc. 27. Power to make regulations and rules.
 
-21. One Applicant. 22. Prohibited degrees of relationship. 23. Jurisdiction and procedure. 24. Effect of a parental order. 25. Devolution and disposal of property. 26. Supplementary provisions as to inheritance, etc. 27. Power to make regulations and rules. 28. Offences. 29. Amendments. 30. Power to make consequential amendments.
+28. Offences. 29. Amendments. 30. Power to make consequential amendments.
 
 SCHEDULE 1 Amendment To Other Acts
 
