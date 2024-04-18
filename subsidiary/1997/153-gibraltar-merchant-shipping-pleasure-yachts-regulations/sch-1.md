@@ -104,9 +104,7 @@ Striking off of registration of Foreign Maritime Entity.
 
 Notice to pleasure yacht mortgagee of striking off.
 
-6.(1) Where an entity registered under this Schedule is the owner of a registered pleasure yacht, the Registrar shall, where the entity has failed to remedy a defect specified in the notice served on the entity under paragraph 5(1) and the Registrar proposes to strike the entity off the Register of Foreign Maritime Entities, give notice of that intention to any mortgagees whose interest in the pleasure yacht is recorded on the registration of that pleasure yacht, and the
-
-Registrar shall not then for a period of ninety days after the service of such notice on the mortgagee strike the name of the entity off the Register of Foreign Maritime Entities.
+6.(1) Where an entity registered under this Schedule is the owner of a registered pleasure yacht, the Registrar shall, where the entity has failed to remedy a defect specified in the notice served on the entity under paragraph 5(1) and the Registrar proposes to strike the entity off the Register of Foreign Maritime Entities, give notice of that intention to any mortgagees whose interest in the pleasure yacht is recorded on the registration of that pleasure yacht, and the Registrar shall not then for a period of ninety days after the service of such notice on the mortgagee strike the name of the entity off the Register of Foreign Maritime Entities.
 
 (2) Where an entity registered under this Schedule is the owner of a pleasure yacht registered in a registry outside of Gibraltar, any mortgagee of such pleasure yacht may, upon the payment of the prescribed fee, cause a record to be made on the entry in the Register of Foreign Maritime Entities in respect of that entity of the mortgagee’s interest in the pleasure yacht, and such record shall include the name of the mortgagee, the name and place of registration of the pleasure yacht and the name and address of a representative of the mortgagee to whom notice may be given of an intention to strike the entity off the Register of Foreign Maritime Entities.
 
