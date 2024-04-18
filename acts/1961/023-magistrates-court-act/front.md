@@ -32,13 +32,13 @@ LN. 1977/012 – Act. 1978-06 –
 
 1983-48 – 1988-35 s. 68A 15.12.1988 1993-16 ss. 44(1), 65 1.9.1993 1993-29 s. 45(d)-(e) 5.11.1998 2004-11 s. 26 1.9.2004 2005-09 s. 45(a), (e) 9.2.2005 2007-25 ss. 4, 6(1), (3)-(4), 7-8, 9(1), (4) 12(2), 14 28.6.2007 2010-13 ss. 2(1), 18, 20(2), 45, 46(1)-(4), 47(1), 48(1), 49, 50(1), 70
 
-6.5.2010 2012-06 s. 9(4)(a) 19.7.2012 LN. 2018/267 s. 45(e)-(f) 22.11.2018 2023/116 s. 45(a) 4.5.2023
+6.5.2010 2012-06 s. 9(4)(a) 19.7.2012 LN. 2018/267 s. 45(e)-(f) 22.11.2018 2023/116 s. 45(a) 4.5.2023 Act. 2023-04 s. 45(d) 18.4.2024
 
 Rules of court made under s.69 and other powers appear under the title Supreme Court.
 
-English sources: Justice of the Peace Act 1949 (12, 13, & 14 Geo.6c101) Magistrates’ Court Act 1952 (15 & 16 Geo.6 and 1 Eliz.2 c.55) Maintenance Orders Act 1958 (6 & 7 Eliz.2c.39)
+English sources: Justice of the Peace Act 1949 (12, 13, & 14 Geo.6c101) Magistrates’ Court Act 1952 (15 & 16 Geo.6 and 1 Eliz.2 c.55)
 
-Legitimacy Act 1959 (7 & 8 Eliz.2 c.73) Administration of Justice Act 1964 (1964 c.42)
+Maintenance Orders Act 1958 (6 & 7 Eliz.2c.39) Legitimacy Act 1959 (7 & 8 Eliz.2 c.73) Administration of Justice Act 1964 (1964 c.42)
 
 Previous number New number Previous number New number 1 1 42 Act.1961 No.24, s.106 2 2 43 Act.1961 No.24, s.108 3(1) 3 44 Act.1961 No.24, s.236 3(2) 16 45 Act.1961 No.24, s.168 4 21 46 Act.1961 No.24, s.107 5 24 47 Act.1961 No.24, s.237 6 33 and Act.1961 No. 24, s.4 48 Act.1961 No.24, s.182&183 7 5 49 Repealed 8 Act.1961 No. 24, s.93 50 Act.1961 No.24, s.117(3) 9 20 51 Act.1961 No.24, s.101 10 7 52 Act.1961 No.24, s.230 11 12 53 Act.1961 No.24, s.40 12 6 54 Act.1961 No.24, s.74 13 8 55 Act.1961 No.24, s.102 14 9 56 23 15 Repealed 57 34 16 11 58 25 17 10 59 26 17A 15 60 38 18 Act.1961 No. 24, s.99 61 39 19 Act.1961 No. 24, s.100 62 36 20 22 63 35 21
 
@@ -70,9 +70,9 @@ PART II.–JURISDICTION
 
 Criminal
 
-21. General criminal jurisdiction.
+21. General criminal jurisdiction. 22. Summary and indictable offences.
 
-22. Summary and indictable offences. 23. Extradition.
+23. Extradition.
 
 Civil
 
@@ -92,9 +92,7 @@ Complaints
 
 Domestic proceedings
 
-45. Meaning of “family proceedings”. 46. Arrangements for and attendance at hearings. 47. Reports on attempts at conciliation. 48. Reports on means of parties.
-
-49. Examination of witnesses by court. 50. Restriction on newspaper reports.
+45. Meaning of “family proceedings”. 46. Arrangements for and attendance at hearings. 47. Reports on attempts at conciliation. 48. Reports on means of parties. 49. Examination of witnesses by court. 50. Restriction on newspaper reports.
 
 PART V.–ENFORCEMENT OF ORDERS
 
