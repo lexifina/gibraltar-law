@@ -24,7 +24,7 @@ Act. 1972-06 –
 
 14.1.20101 LN. 2015/003 s. 60A(b) 10.1.2015 Act. 2016-22 ss. 16(2)(a), 17(6A), 25(1)(b)-(c), 25A, 15.12.20161 2016-18 ss. 25A(1)(d), 25B(4)(a) 23.4.2018 LN. 2018/112 ss. 2, 47(2)-(3) 21.5.2018 Act. 2019-24 ss. 10-11, 12(1), (3), 16(2)-(5), 17, 17A, 18(1), (3)(a), 19, 20(1)-(2), 26(1), (2)(a), 26A, 30(1), (3), 31(4), 31E(7)(b), 62-77
 
-15.8.20192 2021-09 ss. 5B(5), 48(1) 9.2.2021 LN. 2023/116 ss. 4, 60A 4.5.2023
+15.8.20192 2021-09 ss. 5B(5), 48(1) 9.2.2021 LN. 2023/116 ss. 4, 60A 4.5.2023 Act. 2023-04 s. 48(2) 18.4.2024
 
 Rules of court made under s.61 and other powers appear under the title Supreme Court. (These, inter alia, apply the former English Matrimonial Causes Rules 1957, as amended up to April 1968, with modifications and adaptations.
 
@@ -58,9 +58,9 @@ PART V .–DIVORCE, NULLITY AND DISSOLUTION OF MARRIAGE  ON PRESUMPTION OF DEATH
 
 Divorce.
 
-16. Divorce on breakdown of marriage. 17. Repealed. 17A.  Repealed. 18. Restrictions on petitions for divorce within one year of marriage. 19. Repealed. 19A.  Consideration by the court of certain agreements or arrangements.
+16. Divorce on breakdown of marriage. 17. Repealed. 17A.  Repealed. 18. Restrictions on petitions for divorce within one year of marriage. 19. Repealed. 19A.  Consideration by the court of certain agreements or arrangements. 20. Divorce proceedings after grant of judicial separation or other relief.
 
-20. Divorce proceedings after grant of judicial separation or other relief. 21. Repealed. 22. Re-marriage of divorced persons. 23. Non-judicial divorces.
+21. Repealed. 22. Re-marriage of divorced persons. 23. Non-judicial divorces.
 
 Nullity.
 
@@ -84,9 +84,9 @@ PART VI.–JUDICIAL SEPARATION.
 
 PART VIA.–FINANCIAL AGREEMENTS.
 
-31A.  Interpretation and application. 31B.  Financial agreements before marriage. 31C.  Financial agreements during marriage. 31D.  Financial agreements after the decree of divorce are granted. 31E.  Need for a declaration of separation for certain provisions of financial agreement to take effect. 31F.  Whether or when certain other provisions of financial agreements take effect.
+31A.  Interpretation and application. 31B.  Financial agreements before marriage. 31C.  Financial agreements during marriage. 31D.  Financial agreements after the decree of divorce are granted. 31E.  Need for a declaration of separation for certain provisions of financial agreement to take effect. 31F.  Whether or when certain other provisions of financial agreements take effect. 31G.  Requirements with respect to provisions in financial agreements relating to the maintenance of a child or children.
 
-31G.  Requirements with respect to provisions in financial agreements relating to the maintenance of a child or children. 31H.  Certain provisions in agreements. 31I. When financial agreements are binding. 31J. Effect of death of party to financial agreement. 31K.  Termination of financial agreement. 31L.  Circumstances in which court may set aside a financial agreement or termination agreement. 31M. Validity, enforceability and effect of financial agreements and termination agreements.
+31H.  Certain provisions in agreements. 31I. When financial agreements are binding. 31J. Effect of death of party to financial agreement. 31K.  Termination of financial agreement. 31L.  Circumstances in which court may set aside a financial agreement or termination agreement. 31M. Validity, enforceability and effect of financial agreements and termination agreements.
 
 PART VII–FINANCIAL RELIEF FOR PARTIES TO MARRIAGE AND CHILDREN OF FAMILY
 
@@ -118,7 +118,9 @@ PART XI.–RULES.
 
 PART XII.-FINANCIAL RELIEF AFTER OVERSEAS DIVORCE
 
-62. Application for financial relief after an overseas divorce. 63. Leave of the Court required for applications for financial relief. 64. Interim orders for maintenance. 65. Jurisdiction of the Court. 66. Duty of the Court to consider whether Gibraltar is an appropriate venue for application. 67. Orders for financial provision, property adjustment and pension sharing. 68. Matters to which the court is to have regard in exercising its powers under section 67. 69. Restriction of powers of court under section 67 where jurisdiction depends on matrimonial home in Gibraltar. 70. Consent orders under section 67. 71. Orders for transfers of tenancies of dwelling-houses. 72. Application to orders under sections 64 and 67 of Part XII. 73. Avoidance of transactions intended to defeat applications for financial relief. 74. Presumptions for the purposes of section 73. 75. Prevention of transactions intended to defeat prospective applications for financial relief.
+62. Application for financial relief after an overseas divorce. 63. Leave of the Court required for applications for financial relief.
+
+64. Interim orders for maintenance. 65. Jurisdiction of the Court. 66. Duty of the Court to consider whether Gibraltar is an appropriate venue for application. 67. Orders for financial provision, property adjustment and pension sharing. 68. Matters to which the court is to have regard in exercising its powers under section 67. 69. Restriction of powers of court under section 67 where jurisdiction depends on matrimonial home in Gibraltar. 70. Consent orders under section 67. 71. Orders for transfers of tenancies of dwelling-houses. 72. Application to orders under sections 64 and 67 of Part XII. 73. Avoidance of transactions intended to defeat applications for financial relief. 74. Presumptions for the purposes of section 73. 75. Prevention of transactions intended to defeat prospective applications for financial relief.
 
 SUPPLEMENTARY
 
