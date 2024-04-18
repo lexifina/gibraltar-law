@@ -100,9 +100,7 @@ Article 6
 
 Article 7
 
-1. In case of wrongful removal or retention of the child, the authorities of the Contracting State in which the child was habitually resident immediately before the removal or retention keep their jurisdiction until the child has acquired a habitual residence in another State, and
-
-a each person, institution or other body having rights of custody has acquiesced in the removal or retention; or
+1. In case of wrongful removal or retention of the child, the authorities of the Contracting State in which the child was habitually resident immediately before the removal or retention keep their jurisdiction until the child has acquired a habitual residence in another State, and a each person, institution or other body having rights of custody has acquiesced in the removal or retention; or
 
 b the child has resided in that other State for a period of at least one year after the person, institution or other body having rights of custody has or should have had knowledge of the whereabouts of the child, no request for return lodged within that period is still pending, and the child is settled in his or her new environment.
 
@@ -126,9 +124,7 @@ Article 8
 
 2.  The Contracting States whose authorities may be addressed as provided in the preceding paragraph are
 
-a a State of which the child is a national,
-
-b a State in which property of the child is located,
+a a State of which the child is a national, b a State in which property of the child is located,
 
 c a State whose authorities are seised of an application for divorce or legal separation of the child’s parents, or for annulment of their marriage,
 
@@ -152,9 +148,9 @@ Article 9
 
 Article 10
 
-1. Without prejudice to Articles 5 to 9, the authorities of a Contracting State exercising jurisdiction to decide upon an application for divorce or legal separation of the parents of a child habitually resident in another Contracting State, or for annulment of their marriage, may, if the law of their State so provides, take measures directed to the protection of the person or property of such child if a at the time of commencement of the proceedings, one of his or her parents habitually resides in that State and one of them has parental responsibility in relation to the child, and
+1. Without prejudice to Articles 5 to 9, the authorities of a Contracting State exercising jurisdiction to decide upon an application for divorce or legal separation of the parents of a child habitually resident in another Contracting State, or for annulment of their marriage, may, if the law of their State so provides, take measures directed to the protection of the person or property of such child if
 
-b the jurisdiction of these authorities to take such measures has been accepted by the parents, as well as by any other person who has parental responsibility in relation to the child, and is in the best interests of the child.
+a at the time of commencement of the proceedings, one of his or her parents habitually resides in that State and one of them has parental responsibility in relation to the child, and b the jurisdiction of these authorities to take such measures has been accepted by the parents, as well as by any other person who has parental responsibility in relation to the child, and is in the best interests of the child.
 
 2. The jurisdiction provided for by paragraph 1 to take measures for the protection of the child ceases as soon as the decision allowing or refusing the application for divorce, legal separation or annulment of the marriage has become final, or the proceedings have come to an end for another reason.
 
@@ -198,9 +194,7 @@ Article 16
 
 1. The attribution or extinction of parental responsibility by operation of law, without the intervention of a judicial or administrative authority, is governed by the law of the State of the habitual residence of the child.
 
-2. The attribution or extinction of parental responsibility by an agreement or a unilateral act, without intervention of a judicial or administrative authority, is governed by the law of the
-
-State of the child’s habitual residence at the time when the agreement or unilateral act takes effect.
+2. The attribution or extinction of parental responsibility by an agreement or a unilateral act, without intervention of a judicial or administrative authority, is governed by the law of the State of the child’s habitual residence at the time when the agreement or unilateral act takes effect.
 
 3. Parental responsibility which exists under the law of the State of the child’s habitual residence subsists after a change of that habitual residence to another State.
 
@@ -412,7 +406,9 @@ In relation to a State in which two or more systems of law or sets of rules of l
 
 Article 48
 
-For the purpose of identifying the applicable law under Chapter III, in relation to a State which comprises two or more territorial units each of which has its own system of law or set of rules of law in respect of matters covered by this Convention, the following rules apply a if there are rules in force in such a State identifying which territorial unit's law is applicable, the law of that unit applies;
+For the purpose of identifying the applicable law under Chapter III, in relation to a State which comprises two or more territorial units each of which has its own system of law or set of rules of law in respect of matters covered by this Convention, the following rules apply
+
+a if there are rules in force in such a State identifying which territorial unit's law is applicable, the law of that unit applies;
 
 b in the absence of such rules, the law of the relevant territorial unit as defined in Article 47 applies.
 
@@ -504,9 +500,7 @@ Article 61
 
 1. The Convention shall enter into force on the first day of the month following the expiration of three months after the deposit of the third instrument of ratification, acceptance or approval referred to in Article 57.
 
-2. Thereafter the Convention shall enter into force
-
-a for each State ratifying, accepting or approving it subsequently, on the first day of the month following the expiration of three months after the deposit of its instrument of ratification, acceptance, approval or accession;
+2. Thereafter the Convention shall enter into force a for each State ratifying, accepting or approving it subsequently, on the first day of the month following the expiration of three months after the deposit of its instrument of ratification, acceptance, approval or accession;
 
 b for each State acceding, on the first day of the month following the expiration of three months after the expiration of the period of six months provided in Article 58, paragraph 3;
 
