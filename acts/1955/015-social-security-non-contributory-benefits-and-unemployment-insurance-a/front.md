@@ -42,7 +42,7 @@ LN. 1983/100 Schs. 2-3
 
 1 Notice of Commencement – LN.1993/137
 
-Act. 2014-10 ss. 2(2)(a), 3(1), 11, 13, Sch. 3 28.3.2014 2024-03 s. 20 26.3.2024
+Act. 2014-10 ss. 2(2)(a), 3(1), 11, 13, Sch. 3 28.3.2014 2024-03 s. 20 26.3.2024 2023-04 s. 2(3)(c) 18.4.2024
 
 English Sources: National Insurance Act 1946 (9 & 10 Geo.6 c.67)
 

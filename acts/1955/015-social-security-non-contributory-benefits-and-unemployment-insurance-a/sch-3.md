@@ -16,9 +16,7 @@ Weekly Rates Payable (1) (2) (3) (4) Beneficiaries Weekly basic rate Increase fo
 
 (b)  Young persons (i.e. over 15 but under 18)
 
-(i)  during any period during which the person is entitled to an increase of benefit in respect of a child or adult dependant. £21.18 £10.58 £5.01
-
-(ii) during any other period. £10.58
+(i)  during any period during which the person is entitled to an increase of benefit in respect of a child or adult dependant. £21.18 £10.58 £5.01 (ii) during any other period. £10.58
 
 PART I (A)
 
