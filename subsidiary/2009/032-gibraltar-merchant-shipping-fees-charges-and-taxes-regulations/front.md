@@ -6,7 +6,7 @@ LN.2009/032
 
 Commencement 1.7.2009
 
-Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022 2022/332 Sch. 15.12.2022
+Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022 2022/332 Sch. 15.12.2022 2024/059 Sch. 18.4.2024
 
 ARRANGEMENT OF REGULATIONS
 
