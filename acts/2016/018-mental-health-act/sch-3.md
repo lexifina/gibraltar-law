@@ -82,9 +82,7 @@ unless that disability is associated with abnormally aggressive or seriously irr
 
 12. In section 669-
 
-(a) in subsection (3) for “medical practitioner   who would  be  in charge of his treatment” substitute
-
-“approved clinician who would have overall responsibility for his case”;
+(a) in subsection (3) for “medical practitioner   who would   be   in charge of his treatment” substitute “approved clinician who would have overall responsibility for his case”;
 
 (b) in subsection (5)(b) for “responsible medical officer” substitute “responsible clinician”;
 
@@ -150,9 +148,7 @@ Data  Protection Act 2004 In section 5(1)(b) for “a patient within the meaning
 
 (b) in paragraph (c)(ii) and (iii) for “a patient within the meaning of Part IV” substitute “a person who lacks capacity within the meaning of Part 5” in the two places where it occurs.
 
-2. In section 30(3) for “a patient within the meaning of Part IV” substitute “a person who lacks capacity within the meaning of
-
-Part 5”. Notice of Publication under Section 690(3)(a) of the Codes of Practice 1. In Annex A for “Sections 75, 76, 79 and 80” substitute “Sections 126, 127, 128 and 129”.
+2. In section 30(3) for “a patient within the meaning of Part IV” substitute “a person who lacks capacity within the meaning of Part 5”. Notice of Publication under Section 690(3)(a) of the Codes of Practice 1. In Annex A for “Sections 75, 76, 79 and 80” substitute “Sections 126, 127, 128 and 129”.
 
 2. In Code C–
 

@@ -2,13 +2,15 @@ Mental Health Act 2016
 
 Principal Act
 
-Act. No. 2016-18 Commencement (LN.2018/078) 23.4.2018 Assent 2.12.2016
+Act. No. 2016-18 Commencement (LN.2018/078) 23.4.2018
+
+Assent 2.12.2016
 
 Amending enactments Relevant current provisions Commencement date
 
 Act. 2018-04 ss. 25(3), 25(7), 26(4), 32(4)(a)-(c), 44(3)(b)-(d), 47(5)(c), (9), 53, 55(3)(b), 56(2)(b), 57(6)-(7), 63(5)-(6), 70(3)(b)-(d), 85(3), 89(7)(a)-(d), (8), (12), 91(1)(g)-(h), 98, 99(1)-(4), 99A, 117(3), (5A)- (5B), 131(3)-(5)
 
-23.4.2018
+23.4.2018 2023-04 s. 78(2) 18.4.2024
 
 ARRANGEMENT OF SECTIONS
 
@@ -20,9 +22,9 @@ PART 1 – Preliminary
 
 PART 2 – Compulsory admission to hospital and guardianship
 
-2. Admission for assessment. 3. Admission for treatment. 4. Admission for assessment in cases of emergency. 5. Application in respect of patient already in hospital. 6. Effect of application for admission. 7. Application for guardianship. 8. Effect of guardianship application, etc. 9. Regulations as to guardianship. 10. Transfer of guardianship in case of death, incapacity, etc of guardian. 11. General provisions as to applications. 12. General provisions as to medical recommendations. 13. Conflicts of interest. 14. Duty of approved mental health professionals to make applications for admission or guardianship. 15. Rectification of applications and recommendations. 16. Leave of absence from hospital. 17. Community treatment orders. 18. Conditions. 19. Duration of community treatment order. 20. Effect of community treatment order. 21. Power to recall to hospital. 22. Powers in respect of recalled patients. 23. Effect of revoking community treatment order. 24. Return and re-admission of patients absent without leave. 25. Duration of authority. 26. Community treatment period. 27. Effect of expiry of community treatment order. 28. Special provisions as to patients absent without leave. 29. Patients who are taken into custody or return within 28 days. 30. Patients who are taken into custody or return after more than 28 days. 31. Special provisions as to patients sentenced to imprisonment, etc. 32. Discharge of patients. 33. Visiting and examination of patients. 34. Restrictions on discharge by nearest relative.
+2. Admission for assessment. 3. Admission for treatment. 4. Admission for assessment in cases of emergency. 5. Application in respect of patient already in hospital. 6. Effect of application for admission. 7. Application for guardianship. 8. Effect of guardianship application, etc. 9. Regulations as to guardianship. 10. Transfer of guardianship in case of death, incapacity, etc of guardian. 11. General provisions as to applications. 12. General provisions as to medical recommendations. 13. Conflicts of interest. 14. Duty of approved mental health professionals to make applications for admission or guardianship. 15. Rectification of applications and recommendations. 16. Leave of absence from hospital. 17. Community treatment orders. 18. Conditions. 19. Duration of community treatment order. 20. Effect of community treatment order. 21. Power to recall to hospital. 22. Powers in respect of recalled patients. 23. Effect of revoking community treatment order. 24. Return and re-admission of patients absent without leave. 25. Duration of authority. 26. Community treatment period. 27. Effect of expiry of community treatment order. 28. Special provisions as to patients absent without leave. 29. Patients who are taken into custody or return within 28 days. 30. Patients who are taken into custody or return after more than 28 days. 31. Special provisions as to patients sentenced to imprisonment, etc. 32. Discharge of patients. 33. Visiting and examination of patients. 34. Restrictions on discharge by nearest relative. 35. Definition of "relative" and "nearest relative".
 
-35. Definition of "relative" and "nearest relative". 36. Children and young persons in care. 37. Nearest relative of minor under guardianship, etc. 38. Appointment by court of acting nearest relative. 39. Discharge and variation of orders under section 38. 40. Rules of court regarding applications to Supreme Court. 41. Regulations for purposes of Part 2. 42. Special provisions as to wards of court. 43. Interpretation of Part 2.
+36. Children and young persons in care. 37. Nearest relative of minor under guardianship, etc. 38. Appointment by court of acting nearest relative. 39. Discharge and variation of orders under section 38. 40. Rules of court regarding applications to Supreme Court. 41. Regulations for purposes of Part 2. 42. Special provisions as to wards of court. 43. Interpretation of Part 2.
 
 PART 3 – Consent to treatment
 
@@ -34,9 +36,9 @@ PART 4 – Treatment of community patients not recalled to hospital
 
 PART 5 – Personal welfare and management of property and affairs of patients
 
-64. The Court of Protection. 65. General powers of the Court. 66. Power to make declarations. 67. Section 65 powers: personal welfare. 68. Section 65 powers: property and affairs. 69. Appointment of deputies.
+64. The Court of Protection. 65. General powers of the Court. 66. Power to make declarations. 67. Section 65 powers: personal welfare. 68. Section 65 powers: property and affairs. 69. Appointment of deputies. 70. Restrictions on deputies. 71. Vesting orders ancillary to settlement, etc.
 
-70. Restrictions on deputies. 71. Vesting orders ancillary to settlement, etc. 72. Variation of settlements. 73. Property and affairs: Wills. 74. Interim orders and directions. 75. Vesting of stock in curator appointed outside Gibraltar. 76. Preservation of interests in property disposed of on behalf of person lacking capacity. 77. Power to call for reports. 78. Excluded decisions: Family relationships. 79. General powers of the Court with respect to proceedings. 80. Appeals. 81. Rules of procedure. 82. Security and accounts. 83. General provisions as to rules under Part 5. 84. Effect and proof of orders, etc. 85. Interpretation of Part 5. 86. The principles. 87. People who lack capacity. 88. Inability to make decisions. 89. Best interests.
+72. Variation of settlements. 73. Property and affairs: Wills. 74. Interim orders and directions. 75. Vesting of stock in curator appointed outside Gibraltar. 76. Preservation of interests in property disposed of on behalf of person lacking capacity. 77. Power to call for reports. 78. Excluded decisions: Family relationships. 79. General powers of the Court with respect to proceedings. 80. Appeals. 81. Rules of procedure. 82. Security and accounts. 83. General provisions as to rules under Part 5. 84. Effect and proof of orders, etc. 85. Interpretation of Part 5. 86. The principles. 87. People who lack capacity. 88. Inability to make decisions. 89. Best interests.
 
 PART 6 – Mental Health Review Tribunal
 
@@ -44,9 +46,9 @@ PART 6 – Mental Health Review Tribunal
 
 PART 7 – Miscellaneous functions
 
-104. Powers of entry and inspection of premises.
+104. Powers of entry and inspection of premises. 105. Welfare of certain hospital patients. 106. Code of practice. 107. Approvals by Minister.
 
-105. Welfare of certain hospital patients. 106. Code of practice. 107. Approvals by Minister. 108. Practitioners approved for Part 3, etc.
+108. Practitioners approved for Part 3, etc.
 
 PART 8 – Offences
 
