@@ -62,7 +62,7 @@ LN. 1981/106 s. 20, Sch.2
 
 * Saving provision inserted at the end of this Act  Date of commencement amended by Act 2009-47  Transitional provisions inserted at the end of this Act 1 Transitional provisions inserted at the end of this Act
 
-2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021 LN. 2021/304 Sch.1 1.7.2021 2022/231 Sch.1 4.8.2022 “ Sch.1 1.7.2023
+2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021 LN. 2021/304 Sch.1 1.7.2021 2022/231 Sch.1 4.8.2022 “ Sch.1 1.7.2023 Act. 2023-04 s. 2(4)(c) 18.4.2024
 
 ARRANGEMENT OF SECTIONS.
 
