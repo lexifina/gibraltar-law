@@ -298,7 +298,9 @@ Additional Fee A flat fee of £4,146.
 
 Passporting Fee An additional fee of £1,000 for passporting on a services basis.
 
-Sub-fund Fee Where a scheme is an umbrella fund, the annual fee payable for each constituent sub-fund or part (however described), with the exception of the first, is 25% of the fees payable by the umbrella fund. Non-UCITS retail scheme £ 1,911 Base Fee + Additional Fee + Sub-fund Fee
+Sub-fund Fee Where a scheme is an umbrella fund, the annual fee payable for each constituent sub-fund or part (however described), with the exception of the first, is 25% of the fees payable by the umbrella fund.
+
+Non-UCITS retail scheme £ 1,911 Base Fee + Additional Fee + Sub-fund Fee
 
 Base Fee A flat fee of £1,911.
 
@@ -376,7 +378,9 @@ Base Fee A flat fee of £12,748.
 
 Incoming third country insurance branches £ 12,748 Base Fee Only
 
-Base Fee A flat fee of £12,748. Incoming UK electronic money institution branches £ 12,748 Base Fee Only
+Base Fee A flat fee of £12,748.
+
+Incoming UK electronic money institution branches £ 12,748 Base Fee Only
 
 Base Fee A flat fee of £12,748.
 
@@ -588,7 +592,9 @@ Note: The fee for holding AIF assets is only payable by an AIF Depositary.
 
 Passporting Fee An additional fee of £1,000 for passporting on a services basis.
 
-An additional fee of £5,000 for passporting on an establishment basis. Pension scheme adviser £ 8,924 Base Fee + Additional Fee
+An additional fee of £5,000 for passporting on an establishment basis.
+
+Pension scheme adviser £ 8,924 Base Fee + Additional Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -664,7 +670,9 @@ Additional Fee An additional fee, charged at a rate of £192 per AIF managed by 
 
 EUVECA/EUSEF Designation Fee An additional fee of £957 to use the designation EUSEF.
 
-An additional fee of £957 to use the designation EUVECA. Non-credit institution mortgage credit providers £ 8,924 Base Fee + Mortgage Credit Fee + Additional Fee
+An additional fee of £957 to use the designation EUVECA.
+
+Non-credit institution mortgage credit providers £ 8,924 Base Fee + Mortgage Credit Fee + Additional Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -756,7 +764,9 @@ Additional Fee An additional fee of–
 
 (b) £636 per individual permission.
 
-Note: This Additional Fee applies only to each additional company which is an affiliated undertaking of the regulated person as defined in section 237 of the Companies Act 2014. Personal pension scheme controller £ 1,276 Base Fee + Members Fee
+Note: This Additional Fee applies only to each additional company which is an affiliated undertaking of the regulated person as defined in section 237 of the Companies Act 2014.
+
+Personal pension scheme controller £ 1,276 Base Fee + Members Fee
 
 Base Fee A flat fee of £1,276.
 
@@ -834,7 +844,9 @@ Passporting Fee
 
 An additional fee of £1,000 for passporting on a services basis.
 
-An additional fee of £5,000 for passporting on an establishment basis. Mortgage credit intermediaries £ 7,012 Base Fee + Additional Fee + Passporting Fee
+An additional fee of £5,000 for passporting on an establishment basis.
+
+Mortgage credit intermediaries £ 7,012 Base Fee + Additional Fee + Passporting Fee
 
 Base Fee A flat fee of £7,012.
 
