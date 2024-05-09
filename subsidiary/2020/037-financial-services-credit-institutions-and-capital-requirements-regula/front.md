@@ -18,7 +18,7 @@ rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45
 
 1.1.2021 2020/475 rr. 41, 55(1)(h)-(j), (7), (7A)-(7B), (8), (13) 28.6.2021 “ rr. 94A-94C, 95(1) 1.1.2022 2021/493 rr. 2(1), 3(a)-(b), (d), 4(1)-(4), (6), 18-23, 33(19), 43(21), 61, 82, 83(2)-(4), 84(3)-(5), 145(da), 164(1)
 
-1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022 2022/321 r. 100A 24.11.2022 2023/266 r. 98A 8.9.2023
+1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022 2022/321 r. 100A 24.11.2022 2023/266 r. 98A 8.9.2023 2024/079 rr. 130-133, 150(2)(b), 155(2)(d) 9.5.2024
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -160,13 +160,9 @@ Chapter 3 Omitted
 
 120. to 129. Omitted.
 
-Chapter 4 Third country institutions
+Chapter 4 Omitted
 
-130. Application and interpretation of Chapter 4.
-
-Representative offices of third country credit institutions
-
-131. Third country credit institutions: establishing a representative office or changing its name. 132. Powers to object to names of third country credit institutions. 133. Powers to require information and documents.
+130. to 133.  Omitted.
 
 Relations with third countries
 
@@ -184,9 +180,7 @@ Intervention
 
 Sanctions
 
-144. Sanctioning powers. 145. Additional persons subject to sanctioning powers. 146. Contravention of regulatory requirements.
-
-147. Additional sanctioning power: management prohibiting order. 148. Maximum amounts of administrative penalty. 149. Publication of sanctioning action.
+144. Sanctioning powers. 145. Additional persons subject to sanctioning powers. 146. Contravention of regulatory requirements. 147. Additional sanctioning power: management prohibiting order. 148. Maximum amounts of administrative penalty. 149. Publication of sanctioning action.
 
 PART 9 MISCELLANEOUS
 
