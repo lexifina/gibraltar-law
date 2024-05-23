@@ -42,9 +42,9 @@ Make:
 
 Colour:
 
-A penalty charge of [£50/£100 as indicated in Part 1 of Schedule 3 or total sum owing where regulation 64 applies] is now payable. Payment must be received by [INSERT DETAILS OF DESIGNATED PERSON], no later than the last day of the period of 28 days beginning with the date on which this notice was issued.
+A penalty charge of [£50/£100/£300 as indicated in Part 1 of Schedule 3 or total sum owing where regulation 64 applies] is now payable. Payment must be received by [INSERT DETAILS OF DESIGNATED PERSON], no later than the last day of the period of 28 days beginning with the date on which this notice was issued.
 
-The fixed penalty will be reduced by a discount of 50% to X if [THE DESIGNATED PERSON] receives payment no later than the last day of the period of 14 days beginning with the date on which this Fixed Penalty Notice was issued.
+The fixed penalty will be reduced by a discount of 50% to X if [THE DESIGNATED PERSON] receives payment no later than the last day of the period of 14 days beginning with the date on which this Fixed Penalty Notice was issued. In accordance with regulation 131(2) of the Transport Regulations 2000, this discount does not apply to a Fixed Penalty Notice issued for an offence committed under regulation 67(5)(b).
 
 SEE OVERLEAF FOR
 
