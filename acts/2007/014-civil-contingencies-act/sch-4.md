@@ -10,13 +10,15 @@ Sector Subsector Type of Entity
 
 - Distribution system operators as defined in point (6) of Article 2 of Directive 2009/72/EC - Transmission system operators as defined in point (4) of Article 2 of Directive 2009/72/EC
 
-b) Oil - Operators of oil transmission pipelines - Operators of oil production, refining and treatment facilities, storage and transmission c) Gas - Supply undertakings as defined in point (8) of Article 2 of Directive 2009/73/EC of the European Parliament and of the Council (2) - Distribution system operators as defined in point (6) of Article 2 of Directive 2009/73/EC - Transmission system operators as defined in point (4) of Article 2 of Directive 2009/73/EC
+b) Oil - Operators of oil transmission pipelines - Operators of oil production, refining and treatment facilities, storage and transmission
+
+c) Gas - Supply undertakings as defined in point (8) of Article 2 of Directive 2009/73/EC of the European Parliament and of the Council (2) - Distribution system operators as defined in point (6) of Article 2 of Directive 2009/73/EC
+
+- Transmission system operators as defined in point (4) of Article 2 of Directive 2009/73/EC
 
 - Storage system operators as defined in point (10) of Article 2 of Directive 2009/73/EC
 
-- LNG system operators as defined in point (12) of Article 2 of Directive 2009/73/EC
-
-- Natural gas undertakings as defined in point (1) of Article 2 of Directive 2009/73/EC
+- LNG system operators as defined in point (12) of Article 2 of Directive 2009/73/EC - Natural gas undertakings as defined in point (1) of Article 2 of Directive 2009/73/EC
 
 - Operators of natural gas refining and treatment facilities 2. Transport a) Air transport - Air carriers as defined in point (4) of Article 3 of Regulation (EC) No 300/2008 of the European Parliament and of the Council (3)
 
@@ -28,7 +30,9 @@ b) Rail transport - Infrastructure managers as defined in point (2) of Article 3
 
 - Railway undertakings as defined in point (1) of Article 3 of Directive 2012/34/EU, including operators of service facilities as defined in point (12) of Article 3 of Directive 2012/34/EU
 
-c) Water transport - Inland, sea and coastal passenger and freight water transport companies, as defined for maritime transport in Annex I to Regulation (EC) No 725/2004 of the European Parliament and of the Council (8), not including the individual vessels operated by those companies - Managing bodies of ports as defined in point (1) of Article 3 of Directive 2005/65/EC of the European Parliament and of the Council (9), including their port facilities as defined in point (11) of Article 2 of Regulation (EC) No 725/2004, and entities operating works and equipment contained within ports
+c) Water transport - Inland, sea and coastal passenger and freight water transport companies, as defined for maritime transport in Annex I to Regulation (EC) No 725/2004 of the European Parliament and of the Council (8), not including the individual vessels operated by those companies
+
+- Managing bodies of ports as defined in point (1) of Article 3 of Directive 2005/65/EC of the European Parliament and of the Council (9), including their port facilities as defined in point (11) of Article 2 of Regulation (EC) No 725/2004, and entities operating works and equipment contained within ports
 
 - Operators of vessel traffic services as defined in point (o) of Article 3 of Directive 2002/59/EC of the European Parliament and of the Council (10)
 
@@ -36,9 +40,7 @@ d) Road transport - Road authorities as defined in point (12) of Article 2 of Co
 
 - Operators of Intelligent Transport Systems as defined in point (1) of Article 4 of Directive 2010/40/EU of the European Parliament and of the Council (12) 3. Banking
 
-Credit institutions as defined in point (1) of Article 4 of Regulation (EU) No 575/2013 of the European Parliament and of the Council (13)
-
-4. Financial market infrastructures
+Credit institutions as defined in point (1) of Article 4 of Regulation (EU) No 575/2013 of the European Parliament and of the Council (13) 4. Financial market infrastructures
 
 - Operators of trading venues as defined in point (24) of Article 4 of Directive 2014/65/EU of the European Parliament and of the Council (14)
 

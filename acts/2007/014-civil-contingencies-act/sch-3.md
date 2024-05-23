@@ -20,7 +20,7 @@ The Gibraltar CSIRT –
 
 (c) only rely on an infrastructure the continuity of which is ensured, including the availability of redundant systems and backup working space.
 
-(5)  May participate in international cooperation networks.
+(5)  May participate in international cooperation networks and the CSIRTs network.
 
 (6)  Must:
 
@@ -32,7 +32,7 @@ The Gibraltar CSIRT –
 
 (d) provide dynamic risk and incident analysis and situational awareness;
 
-(e) participate and cooperate in the CSIRTs network.
+(e) Deleted
 
 (8)  Must establish cooperation relationships with the private sector.
 
