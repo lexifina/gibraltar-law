@@ -24,7 +24,7 @@ LN.2020/005 ss.24(3)(g), 25(2)(a), 382, 344(1)-(3), 345(2), 346- 348A, 349(2)(a)
 
 2023/104 s. 612(4), (4A) 4.5.2023 2023/141 ss. 38(1)-(3), (5)-(6), 286(1), (1A)-(1B), (2)-(3), Schs. 6-7, 21
 
-8.6.2023 2023/161 Sch. 2 23.6.2023 2023/250 ss. 83A(1)-(5) 24.8.2023 2023/260 Sch. 2 7.9.2023 2024/026 Sch. 9 14.3.2024
+8.6.2023 2023/161 Sch. 2 23.6.2023 2023/250 ss. 83A(1)-(5) 24.8.2023 2023/260 Sch. 2 7.9.2023 2024/026 Sch. 9 14.3.2024 Act. 2024-10 s. 23A 31.5.2024
 
 ARRANGEMENT OF SECTIONS
 
@@ -72,7 +72,7 @@ Interpretation
 
 Gibraltar Financial Services Commission
 
-21. Gibraltar Financial Services Commission. 22. Functions of the GFSC. 23. GFSC’s discharge of its functions.
+21. Gibraltar Financial Services Commission. 22. Functions of the GFSC. 23. GFSC’s discharge of its functions. 23A. Directions by Minister concerning macro-economic interests, etc.
 
 Decision Making Committee
 
@@ -158,9 +158,9 @@ Interpretation
 
 Initial applications for permission
 
-63. Persons who can apply for permission. 64. Meaning of “the threshold conditions”. 65. Requirement to satisfy the threshold conditions. 66. Firms based outside Gibraltar.
+63. Persons who can apply for permission. 64. Meaning of “the threshold conditions”. 65. Requirement to satisfy the threshold conditions.
 
-67. Giving permission.
+66. Firms based outside Gibraltar. 67. Giving permission.
 
 Variation and cancellation of permission
 
@@ -252,9 +252,7 @@ Assessment procedure
 
 Objections and enforcement
 
-124. Objections to existing control.
-
-125. Restriction notices. 126. Orders for sale of shares.
+124. Objections to existing control. 125. Restriction notices. 126. Orders for sale of shares.
 
 Notices of reductions of control of Gibraltar regulated firms
 
@@ -312,7 +310,9 @@ Transitional and savings
 
 163. Transitional and savings.
 
-PART 12 DUTIES OF AUDITORS AND ACTUARIES
+PART 12
+
+DUTIES OF AUDITORS AND ACTUARIES
 
 Appointment of auditors and actuaries
 
@@ -376,9 +376,7 @@ CHAPTER 1 PRELIMINARY
 
 195. Overview. 196. Interpretation of Part 15. 197. Functions of the FSRCC.
 
-CHAPTER 2
-
-THE FUNDS
+CHAPTER 2 THE FUNDS
 
 The Funds
 
@@ -412,9 +410,9 @@ Funding
 
 Deposits covered by Scheme
 
-212. Eligible deposits. 213. Marking of deposits.
+212. Eligible deposits.
 
-214. Coverage limits. 215. Determination that deposit is unavailable.
+213. Marking of deposits. 214. Coverage limits. 215. Determination that deposit is unavailable.
 
 Compensation
 
@@ -444,7 +442,9 @@ The financing arrangements
 
 Funding
 
-230. Financing arrangements levy. 231. Extraordinary contributions. 232. Alternative funding. 233. Omitted.
+230. Financing arrangements levy. 231. Extraordinary contributions. 232. Alternative funding.
+
+233. Omitted.
 
 Group resolution.
 
@@ -470,7 +470,9 @@ Participation in investor compensation scheme
 
 Failure to participate
 
-254. Failure to comply with Gibraltar scheme: measures short of exclusion. 255. Failure to comply with Gibraltar scheme: exclusion. 256. Failure to participate in scheme.
+254. Failure to comply with Gibraltar scheme: measures short of exclusion. 255. Failure to comply with Gibraltar scheme: exclusion.
+
+256. Failure to participate in scheme.
 
 Co-operation with Board
 
@@ -494,7 +496,9 @@ Administration of the Gibraltar scheme
 
 Miscellaneous provisions
 
-276. Income tax treatment of participating firms. 277. Omitted. 278. Information requirements: third country investment firm with a branch in Gibraltar. 279. Co-operation with other authorities. 280. Information sharing with other authorities.
+276. Income tax treatment of participating firms. 277. Omitted. 278. Information requirements: third country investment firm with a branch in Gibraltar. 279. Co-operation with other authorities.
+
+280. Information sharing with other authorities.
 
 PART 17 RECOVERY AND RESOLUTION
 
@@ -514,7 +518,9 @@ CHAPTER 3 AUTHORISATION OF UCITS SCHEMES
 
 Applications for authorisation
 
-297. UCITS schemes: authorisation. 298. Application for authorisation of a UCITS scheme. 299. Authorisation of a UCITS scheme. 300. Omitted. 301. Determination of application: UCITS schemes. 302. Certificate of authorisation of a UCITS scheme. 303.  Procedure when refusing authorisation: UCITS schemes.
+297. UCITS schemes: authorisation. 298. Application for authorisation of a UCITS scheme. 299. Authorisation of a UCITS scheme. 300. Omitted. 301. Determination of application: UCITS schemes. 302. Certificate of authorisation of a UCITS scheme.
+
+303.  Procedure when refusing authorisation: UCITS schemes.
 
 Application for revocation of authorisation
 
@@ -566,7 +572,9 @@ CHAPTER 1 PRELIMINARY
 
 342. Overview.
 
-CHAPTER 2 LISTING OF SECURITIES
+CHAPTER 2
+
+LISTING OF SECURITIES
 
 343. Official Listing Rules.
 
@@ -598,7 +606,9 @@ Infringements
 
 Appeals
 
-351A. Appeals. 352. Omitted. 353. Omitted. 354. Omitted.
+351A. Appeals. 352. Omitted. 353. Omitted.
+
+354. Omitted.
 
 CHAPTER 4 TRANSPARENCY REQUIREMENTS
 
@@ -692,9 +702,9 @@ CHAPTER 1 PRELIMINARY
 
 CHAPTER 2 TRANSFER OF GENERAL BUSINESS
 
-435. Application of Chapter 2. 436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required. 438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision. 444. Effect of approval. 445. Notice of transfer.
+435. Application of Chapter 2. 436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required. 438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision. 444. Effect of approval.
 
-446. Omitted. 447. Service of notices under this Chapter.
+445. Notice of transfer. 446. Omitted. 447. Service of notices under this Chapter.
 
 CHAPTER 3 TRANSFER OF LONG TERM BUSINESS
 
@@ -790,9 +800,9 @@ Licensing
 
 Control of licensees and enforcement
 
-545. Production of accounts and records. 546. Suspension and revocation of licence. 547. Other sanctions.
+545. Production of accounts and records. 546. Suspension and revocation of licence.
 
-548. Directions. 549. Procedure.
+547. Other sanctions. 548. Directions. 549. Procedure.
 
 Eligibility to act as insolvency practitioner
 
@@ -822,9 +832,9 @@ Authorisation
 
 Supervision
 
-565. Prudential supervision. 566. Requirements as to procedures and mechanisms for IORPs. 567. Supervisory review process.
+565. Prudential supervision. 566. Requirements as to procedures and mechanisms for IORPs.
 
-568. Transparency and accountability.
+567. Supervisory review process. 568. Transparency and accountability.
 
 Intervention
 
@@ -876,7 +886,9 @@ PART 28 NOTICE PROCEDURE, APPEALS AND PUBLICATION
 
 Notices
 
-612. Warning notice. 613. Decision notices.
+612. Warning notice.
+
+613. Decision notices.
 
 Interim orders
 
@@ -936,9 +948,7 @@ SCHEDULE 6 Decision Making Committee
 
 SCHEDULE 7 Financial Services Resolution and Compensation Committee
 
-SCHEDULE 8
-
-Designation of GFSC as competent authority
+SCHEDULE 8 Designation of GFSC as competent authority
 
 SCHEDULE 9 Domestic Authorities
 
