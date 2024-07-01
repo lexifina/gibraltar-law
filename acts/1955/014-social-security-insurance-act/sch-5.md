@@ -10,9 +10,7 @@ SOCIAL SECURITY (INSURANCE) ACT (AMENDMENT) ACT 1999
 
 Principal Act
 
-Act. No. 1999-27 Commencement 5.7.1999
-
-Assent 21.10.1999
+Act. No. 1999-27 Commencement 5.7.1999 Assent 21.10.1999
 
 Title and commencement.
 

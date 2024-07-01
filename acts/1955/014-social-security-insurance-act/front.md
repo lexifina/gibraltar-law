@@ -4,9 +4,7 @@ Principal Act
 
 Act. No. 1955-14 Commencement 15.7.1955 Assent 14.7.1955
 
-Amending enactments Relevant current provisions Commencement date
-
-Act. 1959-07 s. 33
+Amending enactments Relevant current provisions Commencement date Act. 1959-07 s. 33
 
 1961-06 s. 21(1)
 
@@ -22,15 +20,25 @@ Regs.of 28.5.1970 s. 2(1)
 
 Act. 1970-11 s. 3(4)
 
-LN. 1971/021 Sch.1 Act. 1973-16 ss. 4(5), 10A, 40(4), 43(1)-(2)
+LN. 1971/021 Sch.1
 
-1974-30 ss. 3(1), 4(1)-(2), 10(3), 10A(1), 40(7), 51(1) 1974-39 s. 10A(1)-(2)
+Act. 1973-16 ss. 4(5), 10A, 40(4), 43(1)-(2)
 
-1974-04 s. 3B 1975-08 s. 3A
+1974-30 ss. 3(1), 4(1)-(2), 10(3), 10A(1), 40(7), 51(1)
 
-1975-28 ss. 2(2), 3(1), 51(1), Schs.2-3 1976-31 Sch. 4
+1974-39 s. 10A(1)-(2)
 
-1976-35 ss. 3(2), 10A(1), Sch.2 1977-20 ss.10(1), 13(1), 14(1), (4) 14A, 19(1), (3), 20, 21(1), 29(1), 48, 52, Schs.2-3
+1974-04 s. 3B
+
+1975-08 s. 3A
+
+1975-28 ss. 2(2), 3(1), 51(1), Schs.2-3
+
+1976-31 Sch. 4
+
+1976-35 ss. 3(2), 10A(1), Sch.2
+
+1977-20 ss.10(1), 13(1), 14(1), (4) 14A, 19(1), (3), 20, 21(1), 29(1), 48, 52, Schs.2-3
 
 LN. 1977/141 s. 20, Sch.2
 
@@ -62,7 +70,7 @@ LN. 1981/106 s. 20, Sch.2
 
 * Saving provision inserted at the end of this Act  Date of commencement amended by Act 2009-47  Transitional provisions inserted at the end of this Act 1 Transitional provisions inserted at the end of this Act
 
-2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021 LN. 2021/304 Sch.1 1.7.2021 2022/231 Sch.1 4.8.2022 “ Sch.1 1.7.2023 Act. 2023-04 s. 2(4)(c) 18.4.2024
+2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021 LN. 2021/304 Sch.1 1.7.2021 2022/231 Sch.1 4.8.2022 “ Sch.1 1.7.2023 Act. 2023-04 s. 2(4)(c) 18.4.2024 LN. 2024/107 Sch.1 1.7.2024
 
 ARRANGEMENT OF SECTIONS.
 
