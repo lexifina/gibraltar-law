@@ -14,7 +14,9 @@ LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1)
 
 2022/067 rr. 3(1), 61A(1), 275(2), Sch.1 17.3.2022 2022/322 rr. 14(8), 192(3), (3A), (4), 197(1), 198(1), 200(5), 221(1), 222(1), 223(6), 224(1)-(2), 225(1), 225A, 240(3)
 
-24.11.2022 2023/074 rr. 199(4)-(5), 239(5)-(7) 30.3.2023 2023/163 rr. 5(1)(a)-(c), (e), 14(8), 116(1)(d)(i)-(iii), 191(1) 29.6.2023 2023/259 rr. 36(5) 7.9.2023 2023/266 r. 51A 8.9.2023 2023/305 rr. 238(1), (2)(a), (3), (a)(i), (c), (4) 7.12.2023 Act. 2024-10 r. 13A 31.5.2024
+24.11.2022 2023/074 rr. 199(4)-(5), 239(5)-(7) 30.3.2023 2023/163 rr. 5(1)(a)-(c), (e), 14(8), 116(1)(d)(i)-(iii), 191(1) 29.6.2023 2023/259 rr. 36(5) 7.9.2023 2023/266 r. 51A 8.9.2023 2023/305 rr. 238(1), (2)(a), (3), (a)(i), (c), (4) 7.12.2023 Act. 2024-10 r. 13A 31.5.2024 LN. 2024/134 rr. 45(5A), (6)(b)(i), 68, 68A-68D, 69, 69A-69I, 71(1)(b), (2)(b)(ii), 276A
+
+25.7.2024
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -46,9 +48,9 @@ Exclusions from scope: reinsurance
 
 PART 2 THRESHOLD CONDITIONS
 
-12. Introduction. 13. Permission required to carry on insurance or reinsurance activity. 13A. Requirement to consult Minister on certain permissions. 14. Scope of permission.
+12. Introduction. 13. Permission required to carry on insurance or reinsurance activity. 13A. Requirement to consult Minister on certain permissions.
 
-15. Ancillary risks. 16. Additional conditions for permission. 17. Scheme of operations. 18. Close links. 19. Policy conditions and scales of premiums. 20. Economic requirements of the market. 21. Shareholders and members with qualifying holdings. 22. Qualifying holdings: reporting of acquisitions and disposals. 23. Omitted. 24. Omitted.
+14. Scope of permission. 15. Ancillary risks. 16. Additional conditions for permission. 17. Scheme of operations. 18. Close links. 19. Policy conditions and scales of premiums. 20. Economic requirements of the market. 21. Shareholders and members with qualifying holdings. 22. Qualifying holdings: reporting of acquisitions and disposals. 23. Omitted. 24. Omitted.
 
 PART 3 SUPERVISION
 
@@ -60,9 +62,9 @@ PART 4 CONDITIONS GOVERNING BUSINESS
 
 Corporate Governance
 
-42. Compliance obligation. 43. General governance requirements.
+42. Compliance obligation.
 
-44. Fit and proper persons and proof of good repute. 45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities. 51A. Restriction on dividend payments.
+43. General governance requirements. 44. Fit and proper persons and proof of good repute. 45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities. 51A. Restriction on dividend payments.
 
 Public disclosure
 
@@ -82,9 +84,7 @@ Duties of auditors
 
 PART 5 PURSUIT OF LIFE AND NON-LIFE ACTIVITY
 
-63. Pursuit of life and non-life insurance activity.
-
-64. Separation of life and non-life insurance management.
+63. Pursuit of life and non-life insurance activity. 64. Separation of life and non-life insurance management.
 
 PART 6 VALUATION OF ASSETS AND LIABILITIES, TECHNICAL PROVISIONS, OWN FUNDS, SOLVENCY CAPITAL REQUIREMENT, MINIMUM CAPITAL REQUIREMENT AND INVESTMENT RULES
 
@@ -96,13 +96,13 @@ Valuation of assets and liabilities
 
 Technical provisions
 
-66. General provisions. 67. Calculation of technical provisions. 68. Matching adjustment to relevant risk-free interest rate term structure. 69. Calculating matching adjustment. 70. Volatility adjustment to relevant risk-free interest rate term structure. 71. Use of approved technical information. 72. Omitted. 73. Other elements to be taken into account in calculation of technical provisions. 74. Valuation of financial guarantees and contractual options included in insurance and reinsurance contracts. 75. Segmentation. 76. Recoverables from reinsurance contracts and special purpose vehicles. 77. Data quality and application of approximations, including case-by-case approaches, for technical provisions. 78. Comparison against experience. 79. Appropriateness of level of technical provisions. 80. Increase of technical provisions.
+66. General provisions. 67. Calculation of technical provisions. 68. Application of the matching adjustment. 68A. Matching adjustment: eligible elements. 68B. Matching adjustment: mortality risks. 68C. Matching adjustment approval. 68D. On-going compliance with eligibility conditions. 69. Calculating matching adjustment. 69A. Calculation of fundamental spread. 69B. Assets with cashflows that are not fixed. 69C. Fundamental spread to reflect differences in quality by rating notch. 69D. Internal credit assessments and credit ratings. 69E. Additions to the fundamental spread: assets with highly predictable cashflows. 69F. Attestation requirements. 69G. Internal governance for attestation. 69H. Disclosure of attestation. 69I. Form of attestation. 70. Volatility adjustment to relevant risk-free interest rate term structure. 71. Use of approved technical information. 72. Omitted. 73. Other elements to be taken into account in calculation of technical provisions. 74. Valuation of financial guarantees and contractual options included in insurance and reinsurance contracts.
+
+75. Segmentation. 76. Recoverables from reinsurance contracts and special purpose vehicles. 77. Data quality and application of approximations, including case-by-case approaches, for technical provisions. 78. Comparison against experience. 79. Appropriateness of level of technical provisions. 80. Increase of technical provisions.
 
 CHAPTER 2 OWN FUNDS
 
-81. Determination of own funds. 82. Basic own funds. 83. Ancillary own funds.
-
-84. Supervisory approval of ancillary own funds. 85. Characteristics and features used to classify own funds into tiers. 86. Main criteria for classification into tiers. 87. Classification of own funds into tiers. 88. Classification of specific insurance own fund items. 89. Eligibility and limits applicable to Tiers 1, 2 and 3.
+81. Determination of own funds. 82. Basic own funds. 83. Ancillary own funds. 84. Supervisory approval of ancillary own funds. 85. Characteristics and features used to classify own funds into tiers. 86. Main criteria for classification into tiers. 87. Classification of own funds into tiers. 88. Classification of specific insurance own fund items. 89. Eligibility and limits applicable to Tiers 1, 2 and 3.
 
 CHAPTER 3 SOLVENCY CAPITAL REQUIREMENT
 
@@ -130,7 +130,9 @@ PART 7 INSURANCE AND REINSURANCE UNDERTAKINGS IN DIFFICULTY
 
 Assets requirements: insurers and reinsurers
 
-124. Prohibition of free disposal of assets located in Gibraltar. 125. Supervisory powers in deteriorating financial conditions. 126. Recovery plan and finance scheme. 127. Cancellation of permission.
+124. Prohibition of free disposal of assets located in Gibraltar. 125. Supervisory powers in deteriorating financial conditions.
+
+126. Recovery plan and finance scheme. 127. Cancellation of permission.
 
 PART 8 Omitted
 
@@ -138,9 +140,7 @@ PART 8 Omitted
 
 PART 9 BRANCHES OF THIRD-COUNTRY INSURERS AND REINSURERS
 
-151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted.
-
-154. Technical provisions. 155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
+151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions. 155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
 
 Re-insurance
 
@@ -170,9 +170,7 @@ Information for policy holders: non-life insurance
 
 Life insurance
 
-169. Life insurance: information for policy holders.
-
-170. Cancellation period.
+169. Life insurance: information for policy holders. 170. Cancellation period.
 
 Provisions specific to non-life insurance
 
@@ -224,9 +222,7 @@ Risk management and internal control
 
 Measures to facilitate group supervision
 
-224. Group supervisor.
-
-225. Functions of group supervisor and other supervisors. 225A. Disapplication or modification of Regulations 197, 198, 221 to 223 and 225. 226. to 232. Omitted. 233. Group solvency and financial condition report. 234. Group structure. 235. Administrative, management or supervisory body of insurance holding companies and mixed financial holding companies. 236. Enforcement measures.
+224. Group supervisor. 225. Functions of group supervisor and other supervisors. 225A. Disapplication or modification of Regulations 197, 198, 221 to 223 and 225. 226. to 232. Omitted. 233. Group solvency and financial condition report. 234. Group structure. 235. Administrative, management or supervisory body of insurance holding companies and mixed financial holding companies. 236. Enforcement measures.
 
 Third countries
 
@@ -248,9 +244,7 @@ Reorganisation measures
 
 Winding-up proceedings
 
-248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register.
-
-252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets. 254. Cancellation of permission. 255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
+248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register. 252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets. 254. Cancellation of permission. 255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
 
 Common provisions
 
@@ -258,7 +252,9 @@ Common provisions
 
 PART 13 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 282. Liquidation: supplementary provisions. 283. Swiss general insurers. 284. Revocations.
+274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions.
+
+277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 282. Liquidation: supplementary provisions. 283. Swiss general insurers. 284. Revocations.
 
 SCHEDULE 1 TRANSITIONAL PROVISIONS
 
