@@ -6,9 +6,9 @@ LN.2016/194
 
 Commencement 6.10.2016
 
-Transposing EU: Directive 2012/27/EU
+Amending enactments Relevant current provisions Commencement date LN. 2024/141 rr. 2, 12(3A), 30(4)(a)(ii)-(iii), (c)-(d) 24.7.2024
 
-_______________________
+Transposing EU: Directive 2012/27/EU
 
 ARRANGEMENT OF REGULATIONS
 
@@ -22,13 +22,13 @@ PART 2 Energy Savings Opportunity Scheme
 
 PART 3 Undertakings
 
-12. Relevant undertakings. 13. Groups of undertakings.
-
-14. Employee threshold and change of status. 15. Role of the responsible undertaking. 16. Determination of the responsible undertaking.
+12. Relevant undertakings. 13. Groups of undertakings. 14. Employee threshold and change of status. 15. Role of the responsible undertaking. 16. Determination of the responsible undertaking.
 
 PART 4 ESOS Assessments
 
-17. Duty to carry out ESOS assessment. 18. Role of the lead assessor. 19. Duty to calculate total energy consumption. 20. Energy consumption – general. 21. Energy consumption – transport. 22. Identification of areas of significant energy consumption. 23. Duty to carry out an energy audit. 24. Identification of energy saving opportunities. 25. Evidence packs.
+17. Duty to carry out ESOS assessment. 18. Role of the lead assessor. 19. Duty to calculate total energy consumption. 20. Energy consumption – general. 21. Energy consumption – transport. 22. Identification of areas of significant energy consumption.
+
+23. Duty to carry out an energy audit. 24. Identification of energy saving opportunities. 25. Evidence packs.
 
 PART 5 Reporting of ESOS Assessments
 
