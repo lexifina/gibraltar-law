@@ -1,17 +1,17 @@
-Animals ANIMALS (IMPORTATION) (LICENCE FEES) RULES
+Subsidiary Legislation made under s.26.
 
-Subsidiary 1995/022 1948-30 Rules made under s.26.
+Animals (Importation) (Licence Fees) Rules 1995
 
-ANIMALS (IMPORTATION) (LICENCE FEES) RULES
+LN.1995/022
 
-(LN. 1995/022)
+Commencement 2.3.1995
 
-2.3.1995
+Amending enactments Relevant current provisions Commencement date LN. 2022/191 r. 1, Sch. 21.7.2022 2023/223 Sch. 1.8.2023 2024/109 Sch. 1.8.2024
 
-Amending enactments
+_______________________
 
-LN. 2022/191 Relevant current provisions
+ARRANGEMENT OF RULES
 
-r. 1, Sch. Commencement date
+Rule
 
-21.7.2022 2023/223 Sch. 1.8.2023
+1. Title and commencement. 2. Licence fees.
