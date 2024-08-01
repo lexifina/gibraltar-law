@@ -6,9 +6,7 @@ LN.2016/019
 
 Commencement 4.2.2016
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2016/033 Schs. 2, 4 25.2.2016 2016/127 Sch. 4 16.6.2016 2023/236 Sch. 3 1.8.2023
+Amending enactments Relevant current provisions Commencement date LN. 2016/033 Schs. 2, 4 25.2.2016 2016/127 Sch. 4 16.6.2016 2023/236 Sch. 3 1.8.2023 2024/117 Sch. 3 1.8.2024
 
 ARRANGEMENT OF RULES
 

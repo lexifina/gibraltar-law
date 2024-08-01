@@ -18,17 +18,17 @@ Yearly Rate
 
 in Advance) Up to 4.55 metres
 
-£21.00 Over 4.55 metres but not exceeding 6.10 metres
+£21.50 Over 4.55 metres but not exceeding 6.10 metres
 
-£42.50 Over 6.10 metres but not exceeding 7.60 metres
+£43.50 Over 6.10 metres but not exceeding 7.60 metres
 
-£85.00 Over 7.60 metres but not exceeding 9.05 metres
+£87.00 Over 7.60 metres but not exceeding 9.05 metres
 
-£127.50
+£130.50
 
 (Where the vessel falls within Rule 18(5)) Over 9.05 metres but not exceeding 9.15 metres
 
-£212.50
+£218.00
 
 PART II
 
