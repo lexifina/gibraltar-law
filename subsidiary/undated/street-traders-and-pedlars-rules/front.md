@@ -6,15 +6,9 @@ Street Traders and Pedlars Rules
 
 Commencement 1.3.1963
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date Regs. of 28.5.1970 rr. 6, 8, 17-18, 22 LN. 1974/045 rr. 6(3), 11, Sch. 1 1980/085 Sch. 1 1981/064 r. 7 1985/064 Sch. 1 1.7.1985 2005/057 Sch. 1 1.4.2005 2018/191 rr. 2, 5, 6(1), (2), 6A, 7-8, 14(1), 22, 25, Sch. 1-2
 
-Regs. of 28.5.1970 rr. 6, 8, 17-18, 22 LN. 1974/045 rr. 6(3), 11, Sch. 1
-
-1980/085 Sch. 1 1981/064 r. 7
-
-1985/064 Sch. 1 1.7.1985 2005/057 Sch. 1 1.4.2005 2018/191 rr. 2, 5, 6(1), (2), 6A, 7-8, 14(1), 22, 25, Sch. 1-2
-
-13.9.2018 2022/226 rr. 6A(4), 7, Sch. 1 4.8.2022 2023/220 rr. 6A(4), 7, Sch. 1 1.8.2023
+13.9.2018 2022/226 rr. 6A(4), 7, Sch. 1 4.8.2022 2023/220 rr. 6A(4), 7, Sch. 1 1.8.2023 2024/119 rr. 6A(4), 7, Sch. 1 1.8.2024
 
 ARRANGEMENT OF RULES.
 
