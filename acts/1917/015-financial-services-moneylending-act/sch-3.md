@@ -20,9 +20,7 @@ Indications between square brackets provide explanations for the creditor and mu
 
 The type of credit The total amount of credit This means the ceiling or the total sums made available under the credit agreement.
 
-The duration of the credit agreement
-
-If applicable
+The duration of the credit agreement If applicable
 
 You may be requested to repay the amount of credit in full on demand at any time.
 
@@ -40,9 +38,7 @@ If applicable
 
 5. Additional information to be given where the pre-contractual information is provided by certain credit organisations or relates to a consumer credit for debt conversion.
 
-Instalments and, where appropriate, the order in which instalments will be allocated You will have to pay the following: [Representative example of an instalment table including the amount, number and frequency of payments to be made by the consumer] The total amount you will have to pay
-
-Early repayment You have the right to repay the credit early at any time in full or partially. If applicable The creditor is entitled to compensation in the case of early repayment
+Instalments and, where appropriate, the order in which instalments will be allocated You will have to pay the following: [Representative example of an instalment table including the amount, number and frequency of payments to be made by the consumer] The total amount you will have to pay Early repayment You have the right to repay the credit early at any time in full or partially. If applicable The creditor is entitled to compensation in the case of early repayment
 
 [Determination of the compensation (calculation method) in accordance with section 16 of this Act]
 
@@ -56,8 +52,6 @@ If applicable
 
 [Geographical address to be used by the consumer] If applicable Registration [The trade register in which the creditor is entered and his registration number or an equivalent means of identification in that register] If applicable The supervisory authority
 
-(b) concerning the credit agreement
-
-Right of withdrawal You have the right to withdraw from the credit agreement within a period of 14 calendar days. If applicable Exercise of the right of withdrawal Yes/no [Practical instructions for exercising the right of withdrawal indicating, inter alia, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable
+(b) concerning the credit agreement Right of withdrawal You have the right to withdraw from the credit agreement within a period of 14 calendar days. If applicable Exercise of the right of withdrawal Yes/no [Practical instructions for exercising the right of withdrawal indicating, inter alia, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable
 
 The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract If applicable Clause stipulating the law applicable to the credit agreement and/or the competent court [Relevant clause to be set out here] If applicable Language regime Information and contractual terms will be supplied in [specific language]. With your consent, we intend to communicate in [specific language/languages] during the duration of the credit agreement. (c) concerning redress Existence of and access to out-of-court complaint and redress mechanism [Whether or not there is an out-of-court complaint and  redress mechanism for the consumer who is party to the distance contract and, if so, the methods of access to it] (*) This information is optional for the creditor.
