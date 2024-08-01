@@ -6,9 +6,7 @@ LN.1997/126
 
 Commencement 30.10.1997
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2022/126 r. 7(3)-(4) 21.7.2022 2023/226 r. 7(3)-(4) 1.8.2023
+Amending enactments Relevant current provisions Commencement date LN. 2022/126 r. 7(3)-(4) 21.7.2022 2023/226 r. 7(3)-(4) 1.8.2023 2024/112 r. 7(3)-(4) 1.8.2024
 
 ARRANGEMENT OF REGULATIONS.
 
