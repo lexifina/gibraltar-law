@@ -36,10 +36,6 @@ It is hereby certified  that:–
 
 (c)  the trustee has obtained an affidavit of the settlor of the disposition named in this Application Form to the effect  that the settlor is not insolvent;
 
-Bankruptcy BANKRUPTCY (REGISTER OF DISPOSITIONS) REGULATIONS
-
-Subsidiary 1990/158 1934-13
-
 (d)  the trustee satisfies the requirements of Regulation 4 of the Regulations.
 
 For: .........................................(Trustees)

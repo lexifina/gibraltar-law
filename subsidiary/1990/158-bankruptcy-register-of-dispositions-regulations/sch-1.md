@@ -21,7 +21,3 @@ There shall be entered on the Register by the Registrar the information specifie
 8. Confirmation that the requirements of 5(2)(b) of the Regulations have been met to the satisfaction of the Registrar.
 
 9. Confirmation that the Registration Fee has been paid.
-
-Bankruptcy BANKRUPTCY (REGISTER OF DISPOSITIONS) REGULATIONS
-
-Subsidiary 1990/158 1934-13
