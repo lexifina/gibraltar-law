@@ -122,7 +122,7 @@ Provided that in the case of a container which has not been removed from the Por
 
 (a) to a destination in Morocco, £3,
 
-(b) to any other destination, the sum of £7,
+(b) to any other destination, the sum of £10,
 
 (2) The provisions of sub-paragraph 1(1) shall not apply -
 
