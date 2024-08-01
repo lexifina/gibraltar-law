@@ -4,21 +4,19 @@ PART I Section 11(2)
 
 STANDARD RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
-Description of Benefit Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1. Survivor’s Benefit:
-
-(a) Survivor's Bereavement Allowance. £660.20 - £80.60 (b) Widowed Parent's Allowance. £556.65 - £80.60* (c) Survivor’s Pension. £556.65 - - 2.  Guardian’s Allowance. £142.10 - -
+Description of Benefit Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child 1. Survivor’s Benefit: (a) Survivor's Bereavement Allowance. £677.40 - £82.70 (b) Widowed Parent's Allowance. £571.15 - £82.70* (c) Survivor’s Pension. £571.15 - - 2.  Guardian’s Allowance. £145.80 - -
 
 3.  Old Age Pensions:
 
 (a) where the pension is payable to a woman by virtue of a husband’s or civil partner’s insurance, and he is alive, or where the pension is payable to a man by virtue of his wife’s or civil partner’s insurance and she is alive.
 
-£278.50
+£285.75
 
 -
 
-£80.60
+£82.70
 
-(b) in any other case. £556.65 £278.50 £80.60
+(b) in any other case. £571.15 £285.75 £82.70
 
 * Except in the case of a Widowed Parent’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
 
@@ -26,9 +24,7 @@ PART II Section 11(3)
 
 LOWER RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
-Description of Benefit Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child
-
-£ £ £ 1. Survivor’s Benefit:
+Description of Benefit Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child £ £ £ 1. Survivor’s Benefit:
 
 (a) Survivor’s Bereavement Allowance. 5.22 – 1.09 (b) Widowed Parent’s Allowance. 2.61 – 0.57* (c) Survivor’s Pension. 2.61 – –
 
@@ -48,9 +44,7 @@ Description of Benefit Monthly Basic Rate Increase for wife, civil partner or ad
 
 –
 
-0.57
-
-(b) in any other case. 2.61 1.74 0.57
+0.57 (b) in any other case. 2.61 1.74 0.57
 
 * Except in the case of a Widowed Parent’s Allowance where there is no limit to the number of children in respect of whom increases may be paid.
 
@@ -60,9 +54,7 @@ ADDITIONAL CONTRIBUTIONS RATES OF BENEFITS AND OF INCREASES FOR DEPENDANTS
 
 Description of Benefit
 
-Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child
-
-£ £ £ 1. Survivor’s Benefit:
+Monthly Basic Rate Increase for wife, civil partner or adult dependant where payable Increases for children not exceeding 4*, where payable for child £ £ £ 1. Survivor’s Benefit:
 
 (a) Survivor’s Bereavement Allowance. 8.70 – 1.09 (b) Widowed Parent’s Allowance. 6.53 – 1.09* (c) Survivor’s pension. 6.53 – –
 
