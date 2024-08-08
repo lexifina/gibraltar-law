@@ -6,7 +6,9 @@ LN.2019/068
 
 Commencement 28.3.2019
 
-Amending enactments Relevant current provisions Commencement date LN. 2019/226 Art. 2 7.11.2019
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/226 Art. 2 7.11.2019 2024/154 Art. 35 8.8.2024
 
 ARRANGEMENT OF ARTICLES
 
@@ -28,10 +30,12 @@ PART 3 Disclosure orders
 
 PART 4 Customer information orders
 
-22. Customer information orders 23. Meaning of customer information 24. Requirements for making of customer information order 25. Offences 26. Statements 27. Disclosure of information 28. Supplementary
+22. Customer information orders
+
+23. Meaning of customer information 24. Requirements for making of customer information order 25. Offences 26. Statements 27. Disclosure of information 28. Supplementary
 
 PART 5 Account monitoring orders
 
-29. Account monitoring orders 30. Requirements for making of account monitoring order 31. Statements 32. Applications 33. Disclosure of information 34. Supplementary
+29. Account monitoring orders 30. Requirements for making of account monitoring order 31. Statements 32. Applications 33. Disclosure of information 34. Supplementary 35. Requests under the Strasbourg Convention or Warsaw Convention.
 
 In exercise of the powers conferred on it by sections 184 and 184B of the Proceeds of Crime Act 2015 the Government has made this Order-
