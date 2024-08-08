@@ -6,7 +6,9 @@ LN.2019/069
 
 Commencement 28.3.2019
 
-Amending enactments Relevant current provisions Commencement date LN. 2019/226 Art. 2 7.11.2019
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2019/226 Art. 2 7.11.2019 2024/156 Art. 117 8.8.2024
 
 ARRANGEMENT OF ARTICLES
 
@@ -24,9 +26,9 @@ CHAPTER 1 EXTERNAL REQUESTS
 
 CHAPTER 1A EXTERNAL REQUESTS: SEARCH AND SEIZURE POWERS
 
-18. Conditions for exercise of powers 19. Power to seize property 20. Search power: premises
+18. Conditions for exercise of powers 19. Power to seize property 20. Search power: premises 21. Search power: people
 
-21. Search power: people 22. Search power: vehicles 23. “Appropriate approval” 24. Exercise of powers without judicial approval 25. Report by appointed person on exercise of powers 26. Initial detention of seized property 27. Further detention pending variation of restraint order 28. Release of property
+22. Search power: vehicles 23. “Appropriate approval” 24. Exercise of powers without judicial approval 25. Report by appointed person on exercise of powers 26. Initial detention of seized property 27. Further detention pending variation of restraint order 28. Release of property
 
 CHAPTER 2 EXTERNAL ORDERS
 
@@ -34,9 +36,9 @@ CHAPTER 2 EXTERNAL ORDERS
 
 CHAPTER 2A RECEIVERS AND PROCEDURE
 
-48. Protection of receiver appointed under articles 17 or 41 49. Further applications by receivers 50. Discharge and variation of receiver orders 51. Management receivers: discharge 52. Appeal to Court of Appeal about receivers
+48. Protection of receiver appointed under articles 17 or 41 49. Further applications by receivers 50. Discharge and variation of receiver orders 51. Management receivers: discharge 52. Appeal to Court of Appeal about receivers 53. Appeal to the Privy Council about receivers 54. Powers of court and receiver
 
-53. Appeal to the Privy Council about receivers 54. Powers of court and receiver 55. Procedure on appeal to Court of Appeal under this Part
+55. Procedure on appeal to Court of Appeal under this Part
 
 CHAPTER 2B SEIZED PERSONAL PROPERTY
 
@@ -76,9 +78,7 @@ Interim receiving orders: further provisions
 
 Vesting and realisation of recoverable property
 
-88. Recovery orders 89. Functions of the trustee for civil recovery 90. Rights of pre-emption etc. 91. Associated and joint property 92. Agreements about associated and joint property 93. Associated and joint property: default of agreement 94. Payments in respect of rights under pension schemes 95. Consequential adjustment of liabilities under pension schemes 96. Pension schemes: supplementary 97. Consent orders
-
-98. Consent orders: pensions 99. Limit on recovery 100. Article 99: supplementary 101. Applying realised proceeds
+88. Recovery orders 89. Functions of the trustee for civil recovery 90. Rights of pre-emption etc. 91. Associated and joint property 92. Agreements about associated and joint property 93. Associated and joint property: default of agreement 94. Payments in respect of rights under pension schemes 95. Consequential adjustment of liabilities under pension schemes 96. Pension schemes: supplementary 97. Consent orders 98. Consent orders: pensions 99. Limit on recovery 100. Article 99: supplementary 101. Applying realised proceeds
 
 Exemptions etc.
 
@@ -102,9 +102,15 @@ Interpretation
 
 115. Obtaining and disposing of property 116. General interpretation
 
+Convention requests
+
+117. Requests under the Strasbourg Convention or Warsaw Convention.
+
 SCHEDULE 1 POWERS OF INTERIM RECEIVER
 
-SCHEDULE 2 POWERS OF TRUSTEE FOR CIVIL RECOVERY
+SCHEDULE 2
+
+POWERS OF TRUSTEE FOR CIVIL RECOVERY
 
 In exercise of the powers conferred on him by sections 184 and 184A of the Proceeds of Crime Act 2015, the Government, has made this Order-
 
