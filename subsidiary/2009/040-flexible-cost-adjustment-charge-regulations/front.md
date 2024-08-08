@@ -12,9 +12,7 @@ Relevant current Provisions
 
 Commencement Date
 
-LN. 2022/204 r. 2 01.8.2022
-
-_______________________
+LN. 2022/204 r. 2 01.8.2022 2024/158 r. 2 8.8.2024
 
 ARRANGEMENT OF REGULATIONS
 
