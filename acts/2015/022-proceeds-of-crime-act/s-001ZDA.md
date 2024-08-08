@@ -166,9 +166,7 @@ Tax crimes and other criminal conduct.
 
 (a) an offence in connection with taxes or duties, customs and exchange; or
 
-(b) any criminal conduct,
-
-shall not be impeded on the ground that Gibraltar law does not impose the same kind of tax or duty or does not contain a tax, duty, customs and exchange regulation of the same kind as the law of the State or territory where the FIU is located or where the offence took place, or otherwise on the ground that there are differences between Gibraltar law definitions of predicate offences or criminal conduct and the law of the State or territory where the FIU is located or where the criminal conduct took place.
+(b) any criminal conduct, shall not be impeded on the ground that Gibraltar law does not impose the same kind of tax or duty or does not contain a tax, duty, customs and exchange regulation of the same kind as the law of the State or territory where the FIU is located or where the offence took place, or otherwise on the ground that there are differences between Gibraltar law definitions of predicate offences or criminal conduct and the law of the State or territory where the FIU is located or where the criminal conduct took place.
 
 Use of exchanged information.
 

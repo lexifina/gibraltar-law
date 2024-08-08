@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2016/148 s
 
 22.3.2021 2021/207 s. 9(1)(q), (1A) 29.3.2021 2022/064 Long Title, ss. 1ZC, 1A, 1F(2), 1G(2), 1IC(4)-(7), (9), 1K(5), 1S, 1T, (2), 4F(9), 5(6), (b), (7)(a)-(b), (13), 7, (1B), 9(1)-(2), (4), 11(4A), 16(4), 17(1)(b), (2), (4)-(5), 20B, 21(3)-(4), 23(1B), (2)(c)-(d), (3), (6), 25(9), 27(2), 30(3), (6)-(7), 30C(1)-(5), 31, 109(9), 179(8), 183(5A), 184(2), Sch.2, 6-7, 9
 
-10.3.2022 2023/052 Sch.2 2.3.2023 Act.2023-29 ss. 1E(2)(b), (3), 1K(1)(ba), 4I 27.7.2023 2023-32 ss. 5A 27.7.2023 LN.2023/209 ss. 10(ca), 129(1), 132(1) 27.7.2023 2023/262 s. 9(1)(r) 7.9.2023 Act.2024-12 s. 70B(2) 11.7.2024
+10.3.2022 2023/052 Sch.2 2.3.2023 Act.2023-29 ss. 1E(2)(b), (3), 1K(1)(ba), 4I 27.7.2023 2023-32 ss. 5A 27.7.2023 LN.2023/209 ss. 10(ca), 129(1), 132(1) 27.7.2023 2023/262 s. 9(1)(r) 7.9.2023 Act.2024-12 s. 70B(2) 11.7.2024 LN.2024/151 ss. 180A-180B 8.8.2024
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849 Directive (EU) 2018/843
 
@@ -96,9 +96,9 @@ Property freezing orders and interim receiving orders: registration
 
 Interim receiving orders: further provisions
 
-84. Duties of respondent etc. 85. Supervision of interim receiver and variation of order.
+84. Duties of respondent etc. 85. Supervision of interim receiver and variation of order. 86. Restrictions on dealing etc. with property.
 
-86. Restrictions on dealing etc. with property. 87. Restriction on proceedings and remedies. 88. Exclusion of property which is not recoverable etc. 89. Reporting.
+87. Restriction on proceedings and remedies. 88. Exclusion of property which is not recoverable etc. 89. Reporting.
 
 Vesting and realisation of recoverable property
 
@@ -118,9 +118,7 @@ Enforcement outside Gibraltar
 
 Miscellaneous
 
-112. Compensation. 113. Legal expenses excluded from freezing: required conditions. 114. Legal expenses: regulations for purposes of section 90 or 113.
-
-115. Financial threshold.
+112. Compensation. 113. Legal expenses excluded from freezing: required conditions. 114. Legal expenses: regulations for purposes of section 90 or 113. 115. Financial threshold.
 
 Chapter 3 Recovery of Cash in Summary Proceedings Searches
 
@@ -144,9 +142,9 @@ Supplementary
 
 Chapter 4 General Recoverable property
 
-136. Property obtained through unlawful conduct.
+136. Property obtained through unlawful conduct. 137. Tracing property, etc.
 
-137. Tracing property, etc. 138. Mixing property. 139. Recoverable property: accruing profits. 140. General exceptions. 141. Other exemptions. 142. Granting interests.
+138. Mixing property. 139. Recoverable property: accruing profits. 140. General exceptions. 141. Other exemptions. 142. Granting interests.
 
 Insolvency
 
@@ -182,7 +180,7 @@ Account monitoring orders
 
 Evidence overseas
 
-179.  Evidence overseas. 180.  Evidence overseas: restrictions on use.
+179.  Evidence overseas. 180.  Evidence overseas: restrictions on use. 180A. Request for evidence in criminal proceedings and criminal investigations. 180B. Evidence under section 180A: restrictions on use.
 
 Interpretation 181. “Document” and “excluded material”. 182. Criminal conduct and criminal property. 183. Property and additional terms.
 
