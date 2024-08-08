@@ -14,9 +14,7 @@ Particulars to be completed
 
 2.State address of premises or location of site
 
-3.Has the work already been carried out? (see note 2)
-
-4.State the requirement(s) of building rules sought to be dispensed with or relaxed
+3.Has the work already been carried out? (see note 2) 4.State the requirement(s) of building rules sought to be dispensed with or relaxed
 
 5.State grounds for the application (see notes 3 and 4) (continue overleaf if necessary)
 
