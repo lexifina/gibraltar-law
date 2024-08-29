@@ -6,11 +6,9 @@ LN.2016/084
 
 Commencement 18.4.2016
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date LN. 2016/184 r. 99(4)(b) 15.9.2016 2017/130 rr. 2, 23(16)(c), (i)(cc), (ii) 29.6.2017 2019/024 rr. 57(3), 63(4)(a) 7.2.2019 2020/453 rr. 2(1), 4(2), 5(2)(b)-(c), A6, 6(3), 7(1)(a)-(d), (2)-(3), 8(7), (14)(a)-(b), 11(1)-(2), 12(1)(d)(i), (aa), (bb), (ii), (2)(aa), 13, 14(1)(c), (3)(b), (4)(c), 15(1)(a)-(b), (2), 17(2)(a), 18(1), (5)(a), (8), 19(1)(a)-(b), (2), 20(4), 21(1), 23(15)(a)(i), (16)(c), (17), (20)(a)-(b), 28(2), (4)(a)-(b), (5), 29(2)(a), (6)(a)-(b), (9)(a), 30(4)(a), (6)(a)-(b), (9)(a), 31(2), 32(5), 34(8)(a), (22), (25), (25A), 39, 42(5), (7), 48-49, 50(1), (2),  (4), (5)(a)-(b), 51(2)-(7), 52, 53(1), 56(2), 58(4), 59(1)-(6), (10)(a), (11)-(13), 60(4)(a)-(b), (5), (10)-(11), 61, 62(2), (4)(a)- (c), (6), 64, 68(4)(c), (5)-(6), 69(2)(f), (6)-(8), 71(5), 72(3), 73(a)-(c), 75(3)-(4), 78(2)(a)-(b), (3)-(4), 82(1)(a)-(b), (2), 83(4), (10)-(11), 84-85, 89(1)(b), (2), 93(3), 99(3)(b)-(c), (4)(b)
 
-LN. 2016/184 r. 99(4)(b) 15.9.2016 2017/130 rr. 2, 23(16)(c), (i)(cc), (ii) 29.6.2017 2019/024 rr. 57(3), 63(4)(a) 7.2.2019 2020/453 rr. 2(1), 4(2), 5(2)(b)-(c), A6, 6(3), 7(1)(a)-(d), (2)-(3), 8(7), (14)(a)-(b), 11(1)-(2), 12(1)(d)(i), (aa), (bb), (ii), (2)(aa), 13, 14(1)(c), (3)(b), (4)(c), 15(1)(a)-(b), (2), 17(2)(a), 18(1), (5)(a), (8), 19(1)(a)-(b), (2), 20(4), 21(1), 23(15)(a)(i), (16)(c), (17), (20)(a)-(b), 28(2), (4)(a)-(b), (5), 29(2)(a), (6)(a)-(b), (9)(a), 30(4)(a), (6)(a)-(b), (9)(a), 31(2), 32(5), 34(8)(a), (22), (25), (25A), 39, 42(5), (7), 48-49, 50(1), (2),  (4), (5)(a)-(b), 51(2)-(7), 52, 53(1), 56(2), 58(4), 59(1)-(6), (10)(a), (11)-(13), 60(4)(a)-(b), (5), (10)-(11), 61, 62(2), (4)(a)- (c), (6), 64, 68(4)(c), (5)-(6), 69(2)(f), (6)-(8), 71(5), 72(3), 73(a)-(c), 75(3)-(4), 78(2)(a)-(b), (3)-(4), 82(1)(a)-(b), (2), 83(4), (10)-(11), 84-85, 89(1)(b), (2), 93(3), 99(3)(b)-(c), (4)(b)
-
-1.1.2021 2021/029 rr. 26, 90 1.1.2021 2022/240 r. 7(1)(a)-(c) 11.8.2022 2024/007 r. 7(1)(a)-(c) 25.1.2024
+1.1.2021 2021/029 rr. 26, 90 1.1.2021 2022/240 r. 7(1)(a)-(c) 11.8.2022 2024/007 r. 7(1)(a)-(c) 25.1.2024 2024/164 rr. 2, 27(5)-(5A), 32A, 48, 54, 75(1A) 29.8.2024
 
 Transposing: Directive 2014/24/EU Directive 2004/18/EC
 
@@ -40,7 +38,7 @@ PART 3 RULES ON PUBLIC CONTRACTS
 
 CHAPTER 1 Procedures
 
-26. Conditions relating to international agreements. 27. Choice of procedures. 28. Open procedure. 29. Restricted procedure. 30. Competitive procedure with negotiation. 31. Competitive dialogue. 32. Innovation partnership.
+26. Conditions relating to international agreements. 27. Choice of procedures. 28. Open procedure. 29. Restricted procedure. 30. Competitive procedure with negotiation. 31. Competitive dialogue. 32. Innovation partnership. 32A. Use of the negotiated procedure without prior publication.
 
 CHAPTER 2 Techniques and Instruments for Electronic and Aggregated Procurement
 
@@ -48,9 +46,9 @@ CHAPTER 2 Techniques and Instruments for Electronic and Aggregated Procurement
 
 CHAPTER 3 Conduct of the Procedure
 
-40. Preliminary market consultations. 41. Prior involvement of candidates or tenderers. 42. Technical specifications. 43. Labels. 44. Test reports, certificates and other means of proof. 45. Variants.
+40. Preliminary market consultations. 41. Prior involvement of candidates or tenderers. 42. Technical specifications. 43. Labels. 44. Test reports, certificates and other means of proof.
 
-46. Division of contracts into lots. 47. Setting time limits.
+45. Variants. 46. Division of contracts into lots. 47. Setting time limits.
 
 CHAPTER 4 Publication and Transparency
 
@@ -64,9 +62,7 @@ PART 4 Contract Performance
 
 70. Conditions for performance of contracts. 71. Subcontracting. 72. Modification of contracts during their term. 73. Termination of contracts.
 
-PART 5
-
-PARTICULAR PROCUREMENT REGIMES
+PART 5 PARTICULAR PROCUREMENT REGIMES
 
 CHAPTER 1 Social and Other Specific Services
 
@@ -84,9 +80,9 @@ PART 7 REMEDIES
 
 86. Information about contract award procedures. 87. Standstill period. PART 8 APPLICATIONS TO THE COURT
 
-88. Interpretation of Part 8. 89. Duty owed to economic operators from Gibraltar and the United Kingdom. 90. Duty owed to economic operators from other States. 91. Enforcement of duties through the Court. 92. General time limits for starting proceedings. 93. Special time limits for seeking a declaration of ineffectiveness. 94. Starting proceedings. 95. Contract-making suspended by challenge to award decision.
+88. Interpretation of Part 8. 89. Duty owed to economic operators from Gibraltar and the United Kingdom. 90. Duty owed to economic operators from other States. 91. Enforcement of duties through the Court. 92. General time limits for starting proceedings. 93. Special time limits for seeking a declaration of ineffectiveness. 94. Starting proceedings.
 
-96. Interim orders. 97. Remedies where the contract has not been entered into. 98. Remedies where the contract has been entered into. 99. Grounds for ineffectiveness. 100. General interest grounds for not making a declaration of ineffectiveness. 101. The consequences of ineffectiveness. 102. Penalties in addition to, or instead of, ineffectiveness. 103. Ineffectiveness etc in relation to specific contracts based on a framework agreement. 104. Injunctions against the Crown
+95. Contract-making suspended by challenge to award decision. 96. Interim orders. 97. Remedies where the contract has not been entered into. 98. Remedies where the contract has been entered into. 99. Grounds for ineffectiveness. 100. General interest grounds for not making a declaration of ineffectiveness. 101. The consequences of ineffectiveness. 102. Penalties in addition to, or instead of, ineffectiveness. 103. Ineffectiveness etc in relation to specific contracts based on a framework agreement. 104. Injunctions against the Crown
 
 PART 9 REVOCATION, SAVINGS AND TRANSITIONAL PROVISIONS
 
