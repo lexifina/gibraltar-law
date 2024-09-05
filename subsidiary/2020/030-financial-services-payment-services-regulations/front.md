@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date LN.2020/498 rr
 
 15.4.2021 2022/153 rr. 1(3)-(4), 2, 8(1)(k), (3)(c), 10(7), 11(3), 14(2)(b), (11)(c)(i), 43(1), 44(1), 78(4), 80(1)(a)-(c), 81(3)(a), 82(1)(a)-(b), 84(1), 85(1)(a)-(b), (2), 87(6), 104(2), 106(2)(d), Schs. 1, 3
 
-23.6.2022 2022/321 r. 85A.(1)-(2) 24.11.2022
+23.6.2022 2022/321 r. 85A.(1)-(2) 24.11.2022 2024/166 r. 79(1), (a), (2) 5.9.2024
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -58,7 +58,9 @@ Chapter 2 Rights and obligations in relation to provision and use of payment ser
 
 Common provisions for Chapter 2 of Part 3
 
-38. Scope of Chapter 2 of Part 3. 39. Charges applicable. 40. Derogation of low-value payment instruments and electronic money.
+38. Scope of Chapter 2 of Part 3. 39. Charges applicable.
+
+40. Derogation of low-value payment instruments and electronic money.
 
 Authorisation of payment transactions
 
