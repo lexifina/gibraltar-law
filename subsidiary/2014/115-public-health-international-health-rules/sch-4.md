@@ -10,9 +10,7 @@ national identification document, if applicable ................................
 
 whose signature follows ……………………………………........................... has on the date indicated been vaccinated or received prophylaxis against: (name of disease or condition) ……………………………………………………………………………….. in accordance with the International Health Regulations.
 
-Vaccine or prophylaxis Date Signature and professional status of supervising clinician Manufacturer and batch No. of vaccine or prophylaxis Certificate valid from _____ until_______ Official stamp of administering centre 1.
-
-2.
+Vaccine or prophylaxis Date Signature and professional status of supervising clinician Manufacturer and batch No. of vaccine or prophylaxis Certificate valid from _____ until_______ Official stamp of administering centre 1. 2.
 
 This certificate is valid only if the vaccine or prophylaxis used has been approved by the World Health Organization.
 

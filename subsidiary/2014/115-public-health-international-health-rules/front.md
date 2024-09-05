@@ -6,9 +6,7 @@ LN.2014/115
 
 Commencement (LN.2014/170) 2.10.2014
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2022/342 Sch.7 22.12.2022
+Amending enactments Relevant current provisions Commencement date LN. 2022/342 Sch.7 22.12.2022 2024/173 Sch.7 5.9.2024
 
 ARRANGEMENT OF RULES
 
