@@ -6,7 +6,7 @@ LN.2024/077
 
 Commencement 9.5.2024
 
-Amending enactments Relevant current provisions Commencement date LN.2024/082 Sch. 16.5.2024
+Amending enactments Relevant current provisions Commencement date LN.2024/082 Sch. 16.5.2024 2024/165 rr. 5(2), 6A-6C, 9(2)(d)-(f), 5.9.2024
 
 ARRANGEMENT OF REGULATIONS
 
@@ -18,7 +18,11 @@ PART 1 PRELIMINARY
 
 PART 2 CORE PRINCIPLES
 
-6. The core principles.
+6. The core principles. 6A. Application to DLT Providers.
+
+Specific requirements consistent with core principles
+
+6B. Operational security requirements. 6C. Notification of material operational incidents.
 
 PART 3 CONSUMER DUTY
 
@@ -26,15 +30,15 @@ PART 3 CONSUMER DUTY
 
 PART 4 REVOCATION
 
-12. Revocation of 2022 Regulations. SCHEDULE RETAIL CUSTOMER OUTCOMES
+12. Revocation of 2022 Regulations.
+
+SCHEDULE RETAIL CUSTOMER OUTCOMES
 
 PART 1 PRELIMINARY
 
 PART 2 PRODUCTS AND SERVICES OUTCOME
 
-PART 3
-
-PRICE AND VALUE OUTCOME
+PART 3 PRICE AND VALUE OUTCOME
 
 PART 4 CONSUMER UNDERSTANDING OUTCOME
 
@@ -90,7 +94,7 @@ Guidance.
 
 5.(1)  The GFSC may issue guidance on compliance with the core principles or the consumer duty.
 
-(2)  Section 37 of the Act applies to any guidance issued under this regulation.
+(2)  Section 37 of the Act applies to any guidance issued under these regulations.
 
 PART 2 CORE PRINCIPLES
 
@@ -149,6 +153,72 @@ Dealings with regulators
 Governance consistent with core principles
 
 13. A financial service provider must ensure that its governance is consistent with compliance with principles 1 to 12.
+
+Application to DLT Providers.
+
+6A.  The core principles apply to a DLT provider as they apply to other financial services providers but, in the event of any conflict between a core principle and the regulatory principles in the Schedule to the Financial Services (Distributed Ledger Technology Providers) Regulations 2020, the latter principles are to prevail.
+
+Specific requirements consistent with core principles
+
+Operational security requirements.
+
+6B.(1)  Principles 2, 3 and 10 impose obligations on financial services providers in respect of the effective business management and control, the exercise of due skill, care and diligence and the need to have adequate resources.
+
+(2)  Consistent with those principles, a financial services provider must take appropriate and proportionate technical and organisational measures to manage the risks posed to the security of network and information systems which it uses in its operations.
+
+(3)  A financial services provider must take appropriate and proportionate measures to prevent and minimise the impact of incidents affecting the security of the network and information systems used for the provision of services, with a view to ensuring the continuity of those services.
+
+(4)  The measures taken by a financial services provider under sub-regulation (2) must, having regard to the state of the art, ensure a level of security of network and information systems appropriate to the risk posed.
+
+(5)  The GFSC may issue guidance on the security of networks and information systems, to which a financial services provider must have regard in complying with the obligations imposed by sub-regulations (2) and (3).
+
+Notification of material operational incidents.
+
+6C.(1)  Principle 12 requires a financial services provider to deal with the GFSC in an open, cooperative and timely way and to disclose to the GFSC any matter of which it would reasonably expect notice.
+
+(2)  Consistent with that principle, a financial services provider must notify the GFSC of any material operational incident.
+
+(3)  A “material operational incident” means an incident which has a material impact on the continuity of the services provided by a financial services provider and which–
+
+(a) results in–
+
+(i) a significant loss of data;
+
+(ii) the unavailability or loss of control of the provider’s IT systems; or
+
+(iii) unauthorised access to the provider’s information systems; or
+
+(b) affects a large number of customers.
+
+(4)  A notification under sub-regulation (2) must be provided to the GFSC–
+
+(a) without undue delay as soon as the financial services provider is aware that a material operational incident has occurred; and
+
+(b) in the form and manner that the GFSC determines, which must include–
+
+(i) the name of the financial services provider;
+
+(ii) the services affected;
+
+(iii) the time and duration of the incident; and
+
+(iv) information concerning the nature and impact of the NIS incident, including any, or any likely, cross-border impact.
+
+(5)  The GFSC may issue guidance on determining whether an incident is a material operational incident, to which a financial services provider must have regard in complying with sub-regulation (2).
+
+(6)  The GFSC, acting on the basis of information in a notification under sub-regulation (2), may inform the relevant authorities in a country or territory outside of Gibraltar of a material operational incident if the GFSC considers that the incident has a significant impact on the continuity of services provided in that jurisdiction.
+
+(7)  Following receipt of a notification under sub-regulation (2), the GFSC may–
+
+(a) inform the financial services provider concerned about any relevant information that relates to the incident, including how it has been followed up, in order to assist the provider to deal with the incident more effectively or prevent a future incident; and
+
+(b) subject to sub-regulation (8), inform the public about the incident, as soon as reasonably practicable, if the GFSC considers that public awareness is necessary in order to deal with the incident or prevent a future incident.
+
+(8)  The GFSC must consult the financial services provider concerned before informing the public about an incident under sub-regulation (7) if–
+
+(a) information is confidential; or
+
+(b) sharing the information may prejudice the security or commercial interests of a financial services provider.
 
 PART 3 CONSUMER DUTY
 
@@ -224,9 +294,11 @@ Retail customers.
 
 (c) in the case of investment firms, a customer who is not a professional client;
 
-(d) in the case of specified providers which manage UCITS, AIFs or establish, operate or wind up collective investment schemes, a unitholder, AIF investors or the beneficial owner of units or shares in a fund (other than a person who is or would be a professional client); or
+(d) in the case of specified providers which manage UCITS, AIFs or establish, operate or wind up collective investment schemes, a unitholder, AIF investors or the beneficial owner of units or shares in a fund (other than a person who is or would be a professional client);
 
-(e) in the case of occupational pension schemes or personal pensions, any person who is or would be a beneficiary in relation to investments held in the occupational pension scheme or personal pension (as the case may be).
+(e) in the case of personal pensions, a member who is not a professional client; or
+
+(f) in the case of occupational pension schemes, any person who is or would be a beneficiary in relation to investments held in the scheme.
 
 (3)  In paragraph (2)–
 
@@ -272,4 +344,8 @@ PART 4 REVOCATION
 
 Revocation of 2022 Regulations.
 
-12.  The Financial Services (Core Principles) Regulations 2022 are revoked. SCHEDULE RETAIL CUSTOMER OUTCOMES Regulation 8(7)
+12.  The Financial Services (Core Principles) Regulations 2022 are revoked.
+
+SCHEDULE
+
+RETAIL CUSTOMER OUTCOMES Regulation 8(7)
