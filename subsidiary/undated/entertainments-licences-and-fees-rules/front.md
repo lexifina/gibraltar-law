@@ -1,20 +1,14 @@
-Entertainments ENTERTAINMENTS (LICENCES AND FEES) RULES.
+Subsidiary Legislation made under s..
 
-Subsidiary 1949.06.01 1934-38 Rules deemed to have been made under s.19.
+Entertainments (Licences and Fees) Rules
 
-ENTERTAINMENTS (LICENCES AND FEES) RULES
+1949.06.01
 
-(1949.06.01)
+Commencement 1.1.1950
 
-1.1.1950
+Amending enactments Relevant current provisions Commencement date rules of 30.4.1953 Sch. 1 regs. of 28.5.1970 Sch. 1 LN.2021/272 Sch. 2 1.7.2021 2024/177 Sch. 2 12.9.2024
 
-Amending enactments Relevant current provisions Commencement date
-
-rules of   30.4.1953 Sch. 1 regs. of   28.5.1970 Sch. 1 LN.2021/272 Sch. 2 1.7.2021
-
-________________________
-
-ARRANGEMENT OF RULES.
+ARRANGEMENT OF RULES
 
 Rule
 
@@ -24,9 +18,7 @@ SCHEDULE 1. Form of licence.
 
 SCHEDULE 2. Fees.
 
-Entertainments ENTERTAINMENTS (LICENCES AND FEES) RULES.
-
-Subsidiary 1949.06.01 1934-38 Title.
+Title.
 
 1. These Rules may be cited as the Entertainments (Licences and Fees) Rules.
 
@@ -38,21 +30,17 @@ Fees.
 
 3. The fees payable on the grant or transfer of a licence are those set out in Schedule 2.
 
-__________________
-
-Entertainments ENTERTAINMENTS (LICENCES AND FEES) RULES.
-
-Subsidiary 1949.06.01 1934-38 SCHEDULE 1.
+SCHEDULE 1.
 
 ENTERTAINMENTS ACT.
 
 LICENCE.
 
-The Licensing Authority, under the above Act, hereby  authorizes (name and description of licensee)  to keep and use (name and description of place of entertainment) for the following purposes:– (description of entertainment, such as stage plays; cinematograph entertainments; public dancing, singing and music)  from the
+The Licensing Authority, under the above Act, hereby  authorizes (name and description of licensee)  to keep and use (name and description of place of entertainment) for the following purposes:– (description of entertainment, such as stage plays; cinematograph  entertainments; public dancing, singing and music)  from the
 
 day of
 
-20        , to the day of
+20        , to the      day of
 
 20      , unless revoked in the meantime:
 
