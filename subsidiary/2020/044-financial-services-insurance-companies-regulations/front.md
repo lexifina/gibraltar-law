@@ -16,7 +16,7 @@ LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1)
 
 24.11.2022 2023/074 rr. 199(4)-(5), 239(5)-(7) 30.3.2023 2023/163 rr. 5(1)(a)-(c), (e), 14(8), 116(1)(d)(i)-(iii), 191(1) 29.6.2023 2023/259 rr. 36(5) 7.9.2023 2023/266 r. 51A 8.9.2023 2023/305 rr. 238(1), (2)(a), (3), (a)(i), (c), (4) 7.12.2023 Act. 2024-10 r. 13A 31.5.2024 LN. 2024/134 rr. 45(5A), (6)(b)(i), 68, 68A-68D, 69, 69A-69I, 71(1)(b), (2)(b)(ii), 276A
 
-25.7.2024 2024/163 r. 281A 29.8.2024
+25.7.2024 2024/163 r. 281A 29.8.2024 2024/180 r. 51B 19.9.2024
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -64,7 +64,7 @@ Corporate Governance
 
 42. Compliance obligation. 43. General governance requirements.
 
-44. Fit and proper persons and proof of good repute. 45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities. 51A. Restriction on dividend payments.
+44. Fit and proper persons and proof of good repute. 45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities. 51A. Restriction on dividend payments. 51B. Restriction on transactions with connected persons.
 
 Public disclosure
 
@@ -84,9 +84,7 @@ Duties of auditors
 
 PART 5 PURSUIT OF LIFE AND NON-LIFE ACTIVITY
 
-63. Pursuit of life and non-life insurance activity.
-
-64. Separation of life and non-life insurance management.
+63. Pursuit of life and non-life insurance activity. 64. Separation of life and non-life insurance management.
 
 PART 6 VALUATION OF ASSETS AND LIABILITIES, TECHNICAL PROVISIONS, OWN FUNDS, SOLVENCY CAPITAL REQUIREMENT, MINIMUM CAPITAL REQUIREMENT AND INVESTMENT RULES
 
@@ -98,9 +96,9 @@ Valuation of assets and liabilities
 
 Technical provisions
 
-66. General provisions. 67. Calculation of technical provisions. 68. Application of the matching adjustment. 68A. Matching adjustment: eligible elements. 68B. Matching adjustment: mortality risks. 68C. Matching adjustment approval. 68D. On-going compliance with eligibility conditions. 69. Calculating matching adjustment. 69A. Calculation of fundamental spread. 69B. Assets with cashflows that are not fixed. 69C. Fundamental spread to reflect differences in quality by rating notch. 69D. Internal credit assessments and credit ratings. 69E. Additions to the fundamental spread: assets with highly predictable cashflows. 69F. Attestation requirements. 69G. Internal governance for attestation. 69H. Disclosure of attestation. 69I. Form of attestation. 70. Volatility adjustment to relevant risk-free interest rate term structure. 71. Use of approved technical information. 72. Omitted. 73. Other elements to be taken into account in calculation of technical provisions. 74. Valuation of financial guarantees and contractual options included in insurance and reinsurance contracts. 75. Segmentation.
+66. General provisions. 67. Calculation of technical provisions. 68. Application of the matching adjustment. 68A. Matching adjustment: eligible elements. 68B. Matching adjustment: mortality risks. 68C. Matching adjustment approval. 68D. On-going compliance with eligibility conditions. 69. Calculating matching adjustment. 69A. Calculation of fundamental spread. 69B. Assets with cashflows that are not fixed. 69C. Fundamental spread to reflect differences in quality by rating notch. 69D. Internal credit assessments and credit ratings. 69E. Additions to the fundamental spread: assets with highly predictable cashflows. 69F. Attestation requirements. 69G. Internal governance for attestation. 69H. Disclosure of attestation. 69I. Form of attestation. 70. Volatility adjustment to relevant risk-free interest rate term structure. 71. Use of approved technical information. 72. Omitted. 73. Other elements to be taken into account in calculation of technical provisions. 74. Valuation of financial guarantees and contractual options included in insurance and reinsurance contracts.
 
-76. Recoverables from reinsurance contracts and special purpose vehicles. 77. Data quality and application of approximations, including case-by-case approaches, for technical provisions. 78. Comparison against experience. 79. Appropriateness of level of technical provisions. 80. Increase of technical provisions.
+75. Segmentation. 76. Recoverables from reinsurance contracts and special purpose vehicles. 77. Data quality and application of approximations, including case-by-case approaches, for technical provisions. 78. Comparison against experience. 79. Appropriateness of level of technical provisions. 80. Increase of technical provisions.
 
 CHAPTER 2 OWN FUNDS
 
@@ -116,9 +114,7 @@ Solvency Capital Requirement standard formula
 
 Internal models
 
-101. General provisions for approval of full and partial internal models.
-
-102. Specific provisions for approval of partial internal models. 103. Policy for changing full and partial internal models. 104. Responsibilities of administrative, management or supervisory bodies. 105. Reversion to standard formula 106. Non-compliance of internal model. 107. Significant deviations from assumptions underlying standard formula calculation. 108. Use test. 109. Statistical quality standards. 110. Calibration standards. 111. Profit and loss attribution. 112. Validation standards. 113. Documentation standards. 114. External models and data.
+101. General provisions for approval of full and partial internal models. 102. Specific provisions for approval of partial internal models. 103. Policy for changing full and partial internal models. 104. Responsibilities of administrative, management or supervisory bodies. 105. Reversion to standard formula 106. Non-compliance of internal model. 107. Significant deviations from assumptions underlying standard formula calculation. 108. Use test. 109. Statistical quality standards. 110. Calibration standards. 111. Profit and loss attribution. 112. Validation standards. 113. Documentation standards. 114. External models and data.
 
 CHAPTER 4 MINIMUM CAPITAL REQUIREMENT
 
@@ -134,9 +130,9 @@ PART 7 INSURANCE AND REINSURANCE UNDERTAKINGS IN DIFFICULTY
 
 Assets requirements: insurers and reinsurers
 
-124. Prohibition of free disposal of assets located in Gibraltar. 125. Supervisory powers in deteriorating financial conditions. 126. Recovery plan and finance scheme.
+124. Prohibition of free disposal of assets located in Gibraltar. 125. Supervisory powers in deteriorating financial conditions.
 
-127. Cancellation of permission.
+126. Recovery plan and finance scheme. 127. Cancellation of permission.
 
 PART 8 Omitted
 
@@ -256,9 +252,9 @@ Common provisions
 
 PART 13 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals.
+274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions.
 
-278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions. 283. Swiss general insurers. 284. Revocations.
+277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions. 283. Swiss general insurers. 284. Revocations.
 
 SCHEDULE 1 TRANSITIONAL PROVISIONS
 
