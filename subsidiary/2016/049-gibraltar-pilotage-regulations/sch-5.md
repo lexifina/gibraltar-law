@@ -10,7 +10,7 @@ APPLICANT'S NAME ...............................................................
 
 2. I enclose a Medical Certificate or equivalent and confirm that, to the best of my knowledge and belief, my present state of health is no different to that described therein.
 
-3, I enclose a cheque for £100.00 payable to “Gibraltar Port Authority”.
+3, I enclose a cheque for £117.00 payable to “Gibraltar Port Authority”.
 
 4. I enclose Pilotage Exemption Certificate No. ..........
 
