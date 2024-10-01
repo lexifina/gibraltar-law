@@ -364,7 +364,11 @@ NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
 49. Bicycle accessories and spare parts.
 
-Free
+Free 50. Full hybrid motor vehicle.
+
+NOTE:
+
+“Full hybrid motor vehicle” as defined in Schedule 1, Chapter 87, paragraph 4 of the National Notes to the Integrated Tariff Regulations 2017. 5%
 
 Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
 
