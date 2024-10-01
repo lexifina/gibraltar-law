@@ -202,21 +202,21 @@ A vessel shall be deemed to be berthed until the last mooring rope is cast off.
 
 Length of Boat
 
-Yearly Rate (Payable Quarterly) Weekly Rate
+Yearly Rate
 
-Up to 15 feet £20 38p
+Up to 15 feet £23.50
 
-Over 15 feet but not exceeding 20 feet £40 77p
+Over 15 feet but not exceeding 20 feet £47.00
 
-Over 20 feet but not exceeding 25 feet £80 £1.54
+Over 20 feet but not exceeding 25 feet £93.50
 
-Over 25 feet but not exceeding 30 feet £120 £2.31
+Over 25 feet but not exceeding 30 feet £140.50
 
-Over 30 feet but not exceeding 40 feet £200 £3.85
+Over 30 feet but not exceeding 40 feet £234.50 Over 40 fee but not exceeding 50 feet
 
-Over 40 fee but not exceeding 50 feet £320 £6.15
+£375.00
 
-Over 50 feet £480 £9.23
+Over 50 feet £562.00
 
 7.  Boat, Licensed Bunker Barge and Pontoon licences for use within the Port.
 
@@ -224,39 +224,35 @@ The following fees are payable annually in advance on 1 January each year
 
 For a motor boat or launch
 
-£50.00
+£58.50
 
 For a Licensed Bunker Barge-
 
-(i) 0........3,000   grt £5,000.00
+(i) 0........3,000   grt £6,000.00 (ii) 3,001......5,000  grt £12,000.00
 
-(ii) 3,001......5,000  grt £10,000.00
+(iii) 5,001........7,500  grt £15,000.00 (iv) 7,501 grt onwards £18,000.00
 
-(iii) 5,001........7,500  grt £12,000.00
+For a Pontoon of any description
 
-(iv) 7,501 grt onwards
-
-£15,000.00
-
-For a Pontoon of any description £10.00
+£11.50
 
 For a Pleasure boat over 10 feet in length
 
 (excluding surfboards and sailboats)
 
-£25.00
+£29.50
 
 For Jet Skis
 
-£10.00
+£11.50
 
 For a workboat under 50 tons gross
 
-£250.00
+£293.00
 
 For a workboat over 50 tons gross
 
-£1,000.00
+£1,171.50
 
 For a pilot launch used only for embarking and        Free
 
@@ -270,7 +266,7 @@ The following charges shall be payable for the services of guards supplied by th
 
 Per guard per hour or part thereof
 
-£15.00
+£17.50
 
 9.  Hire.
 
@@ -280,63 +276,55 @@ The following hire charges shall be payable
 
 Weekdays (excluding public holidays) between 8.00 am and 5.00 pm
 
-£110 per hour Weekdays (excluding public holidays) between 5.00 pm and 8.00 am
+£129 per hour Weekdays (excluding public holidays) between 5.00 pm and 8.00 am
 
-£220 per hour
+£257.50 per hour
 
 Weekends and public holidays
 
-£220 per hour
+£257.50 per hour
 
-(b) Floating fender For the first 30 days hire £30 per day or part of a day
+(b) Floating fender
 
-Thereafter                                                              £15 per day or part thereof
+For the first 30 days hire
+
+£35 per day or part of a day
+
+Thereafter £17.50 per day or part thereof
 
 9A. Charges for Port Operations.
 
 (a)  Registration as Port employer for an entity first registered after 3 May 2001
 
-£1,000
+£1,171.50 (b)  Annual re-registration as a Port employer.
 
-(b) Annual re-registration as a Port employer.
+£117.00 (c) Annual Fee for a-
 
-£100
+(i) Bunkering Licence (renewal) £60,000.00 (ii) Stevedoring Licence £3,514.00 (iii) Ship Repair Licence £1,171.50 (iv) Ship Agency Licence £1,171.50 (v) Ship Chandlery Licence £1,171.50 (vi) Tug Operator Licence (renewal)
 
-(c) Annual Fee for a-
-
-(i) Bunkering Licence £50,000 (ii) Stevedoring Licence £3,000 (iii) Ship Repair Licence £1,000 (iv) Ship Agency Licence £1,000 (v) Ship Chandlery Licence £1,000 (vi) Tug Operators Licence £50,000 (vii) Service Craft Operator Licence £1,000 (viii) Waste Operator Licence £1,000 (ix) Commercial Diving Licence
-
-£1,000
-
-(x) Dock Work Licence £1,000
-
-(xi) Ancillary Licence £250
-
-(xii) Any other commercial or Industrial Licence £1,000
+£60,000.00 (vii) Service Craft Operator Licence £1,171.50 (viii) Waste Operator Licence £1,171.50 (ix) Commercial Diving Licence £1,171.50 (x) Dock Work Licence £1,171.50 (xi) Ancillary Licence £293.00 (xii) Any other commercial or Industrial Licence £1,171.50 (xiii) LNG licence (renewal) £60,000.00
 
 Part 2
 
 Fees for registration and re-registration of port workers:
 
-1. Annual fee for registration of a port worker £2 2. Annual fee for re-registration of a port worker £2
+1. Annual fee for registration of a port worker £2.50 2. Annual fee for re-registration of a port worker £2.50
 
 Part 3
 
 Fees for certificates and licences:
 
-1. Fees for the issue or renewal of a certificate of registration as a port operator £5
-
-2. Fees for the issue or renewal of a certificate of registration as a port worker £5 3. Fee for the issue of a duplicate certificate £5 4. Fee for the endorsement of a certificate of registration £5 5. Fee for the amendment of a certificate of registration £5
+1. Fees for the issue or renewal of a certificate of registration as a port operator £6.00 2. Fees for the issue or renewal of a certificate of registration as a port worker £6.00 3. Fee for the issue of a duplicate certificate £6.00 4. Fee for the endorsement of a certificate of registration £6.00 5. Fee for the amendment of a certificate of registration £6.00
 
 Part 4
 
 Fees for inspection and copies:
 
-1. Fee for inspection of a licence £10 2. Fee for a certified copy of a licence or certificate £5 3. Fee for inspection of an application £5 4. Fee for a copy of an application £5
+1. Fee for inspection of a licence £11.50 2. Fee for a certified copy of a licence or certificate £6.00 3. Fee for inspection of an application £6.00 4. Fee for a copy of an application £6.00
 
 10.  Bunkering charges.
 
-Charge in respect of the first grant of bunkering Licence     £250,000
+Charge in respect of the first grant of bunkering Licence     £300,000
 
 In addition to any other charges payable under these Rules  £0.20
 
@@ -374,9 +362,7 @@ Less than 50,000 metric tonnes
 
 £17,000
 
-(c) Charge in respect of the first grant of an LNG Bunkering Licence
-
-£250,000 In additional to any other charges payable under these Rules, there shall be payable in respect of every vessel that takes on board LNG fuel for its own use or for export, an LNG bunkering levy charge at the following rate per tonne of LNG fuel supplied £0.20
+(c) Charge in respect of the first grant of an LNG Bunkering Licence £300,000 In additional to any other charges payable under these Rules, there shall be payable in respect of every vessel that takes on board LNG fuel for its own use or for export, an LNG bunkering levy charge at the following rate per tonne of LNG fuel supplied £0.20
 
 Under a Green Initiative Scheme, there will be a discount of 50% applied at the discretion of the Captain of the Port.
 
@@ -384,39 +370,37 @@ Under a Green Initiative Scheme, there will be a discount of 50% applied at the 
 
 Overland containers unloading at Port
 
-£50 Issue of what is commonly known as a Suez Canal Certificate
+£58.50 Issue of what is commonly known as a Suez Canal Certificate
 
-£500 Pratique certificates for Yachts
+£500.00 Pratique certificates for Yachts
 
-£500 Issue of harbour craft passenger certificates
+£500.00 Issue of harbour craft passenger certificates
 
-£100 Petroleum Licence
+£117.00 Petroleum Licence
 
-£200
+£1,220.00 Pleasure boat licence
 
-Pleasure boat licence
+£23.50 Issue of a duplicate pleasure boat licence
 
-£20 Issue of a duplicate pleasure boat licence
+£11.50 Amendment of a pleasure boat licence
 
-£10 Amendment of a pleasure boat licence
+£6.00 Any other certificate
 
-£5 Any other certificate
+£117.00 Admin fee for incomplete Annex II waste form
 
-£100
+£234.50.
 
 12.  Space for storage.
 
-A person who wishes to use any space for the storage of oil drums or anything else within the confines of the Port at a location approved by the Captain of the Port shall be liable to pay a fee @ £2.50 per sq.ft.
+A person who wishes to use any space for the storage of oil drums or anything else within the confines of the Port at a location approved by the Captain of the Port shall be liable to pay a fee @ £3.00 per sq.ft.
 
 13.  Portacabins.
 
-An operator wishing to have a portacabin shall be liable to pay a fee @ £2.50 per sq. ft.
+An operator wishing to have a portacabin shall be liable to pay a fee @ £3.00 per sq. ft.
 
 14. Super Yacht Tariff Card
 
-DESCRIPTION RATE
-
-Berthing Fees (including at anchor) (i) Set at £5/m per day
+DESCRIPTION RATE Berthing Fees (including at anchor) (i) Set at £5/m per day
 
 (ii) Deleted Discounts for visits of more than 4 days shall also apply on a case by case basis
 
@@ -434,4 +418,4 @@ Berthing Fees (including at anchor) (i) Set at £5/m per day
 
 15. Tug Operations.
 
-Charge in respect of the first grant of a Tug Operator Licence - £250,000
+Charge in respect of the first grant of a Tug Operator Licence - £300,000
