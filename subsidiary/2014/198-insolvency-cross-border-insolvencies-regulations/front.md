@@ -6,9 +6,7 @@ LN.2014/198
 
 Commencement 1.11.2014
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2015/197 r. 34, Sch. 3.11.2015
+Amending enactments Relevant current provisions Commencement date LN. 2015/197 r. 34, Sch. 3.11.2015 2024/194 rr. 2, 5(3)(d), 22(1)(g), 34, Sch. 24.10.2024
 
 ARRANGEMENT OF REGULATIONS
 
@@ -46,9 +44,9 @@ Cooperation with Foreign Courts and Foreign Representatives
 
 Concurrent Proceedings
 
-29.   Commencement of a Gibraltar insolvency proceeding after recognition of foreign main proceeding. 30. Coordination of a Gibraltar insolvency proceeding and foreign proceeding. 31. Coordination of more than one foreign proceeding. 32.   Presumption of insolvency based on recognition of foreign main proceeding. 33.   Rule of payment in concurrent proceedings. 34.  Amendment of Insolvency (Cross Border Insolvencies) Regulations 2014.
+29.   Commencement of a Gibraltar insolvency proceeding after recognition of foreign main proceeding. 30. Coordination of a Gibraltar insolvency proceeding and foreign proceeding. 31. Coordination of more than one foreign proceeding. 32.   Presumption of insolvency based on recognition of foreign main proceeding. 33.   Rule of payment in concurrent proceedings. 34.  Omitted
 
-SCHEDULE
+SCHEDULE Omitted
 
 In exercise of the powers conferred on him by section 495(2)(ii) and (iii) of the Insolvency Act 2011, the Minister has made the following Regulations–
 
