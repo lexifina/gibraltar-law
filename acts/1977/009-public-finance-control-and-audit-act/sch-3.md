@@ -6,7 +6,7 @@ Section 17A
 
 (2) The Gibraltar Electricity Authority;
 
-(3) The Port Authority;
+(3) The Gibraltar Port Authority;
 
 (4) The Care Agency;
 
@@ -16,4 +16,6 @@ Section 17A
 
 (7) The Gibraltar Development Corporation;
 
-(8) The Housing Works Agency.
+(8) The Housing Works Agency;
+
+(9) The Borders and Coastguard Agency.
