@@ -8,7 +8,7 @@ Commencement 10.7.2014
 
 Amending enactments Relevant current provisions Commencement date
 
-Act. 2023-01 rr. 1-2, Sch. 26.1.2023
+Act. 2023-01 rr. 1-2, Sch. 26.1.2023 2023-23 r. 8(10)(a) 24.10.2024
 
 ARRANGEMENT OF REGULATIONS
 
