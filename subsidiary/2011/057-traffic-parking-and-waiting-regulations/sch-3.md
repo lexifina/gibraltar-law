@@ -14,11 +14,11 @@ The parking permits in this entry do not include the following permits –
 
 (c) Zone 3 Residents’ Parking Permit;
 
-(d) Zone 4 Residents’ Parking Permit; and
+(d) Zone 4 Residents’ Parking Permit;
 
-(e) All Zones Residential Parking Permits for Commercial Vehicles.
+(e) All Zones Residential Parking Permits for Commercial Vehicles; and
 
-£zero Issue of “Zone 1 Residents’ Parking Permit” (fee)
+(f) Heavy Goods Vehicle Parking Permit. £zero Issue of “Zone 1 Residents’ Parking Permit” (fee)
 
 (a) First permit per household
 
@@ -42,9 +42,7 @@ The parking permits in this entry do not include the following permits –
 
 £560 per annum
 
-4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name.
-
-Issue of “Zone 1 Residents’ Parking Permit” for a person 60 years of age or over (fee)
+4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name. Issue of “Zone 1 Residents’ Parking Permit” for a person 60 years of age or over (fee)
 
 (a) First permit per household for a person 60 years of age or over
 
@@ -272,6 +270,6 @@ Issue of All Zones Residential Parking Permit for Commercial Vehicles (fee)
 
 £280 per annum
 
-£560 per annum Parking in a Pay and Display car park without having paid the correct fee or without displaying the ticket as required by regulations (fee) £50 Release of a vehicle that has been immobilised or removed (fee) £60
+£560 per annum Issue of Heavy Goods Vehicle Parking Permit (Fee) £1800 per annum Parking in a Pay and Display car park without having paid the correct fee or without displaying the ticket as required by regulations (fee) £50
 
-Daily fee for detention of immobilised or removed vehicle £15
+Release of a vehicle that has been immobilised or removed (fee) £60 Daily fee for detention of immobilised or removed vehicle £15
