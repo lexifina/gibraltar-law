@@ -4,11 +4,7 @@ Principal Act
 
 Act. No. 1986-21 Commencement 1.1.1987 Assent 21.11.1987
 
-Amending enactments Relevant current provisions Commencement date
-
-Act. 1987-06 s. 74(1)(a) , (2), Sch. 2 1.1.1987 1987-16 Sch. 1 28.4.1987 1987-36 Sch. 1 24.12.1987 1989-03 s. 73(1) 2.3.1989 1989-22 ss. 2(1), 63 10.8.1989 1990-01 ss. 49, 62(b), 74, 85, 112, 120, 124(a), Sch. 2 22.2.1990 LN. 1990/021 Sch. 1 22.2.1990
-
-Act. 1990-44 s. 112(1) 15.11.1990 1991-15 s. 66(c)-(d) 1.1.19911 “ ss. 4(3)(a)-(b), 14(2), 15(a)(i)-(ii), (b)(i), 16(2), 20(1), 21(3), 24(3), 25(3), 30(4), 31(2), 33(4), 41(3), 46-49, 64, 79(3), 80(a)(i)-(ii), (b)(i), 83(5), 84(3), 92(3), 93(3), 94(2), 102(a)-(b), 103(i)-(ii), 104(a)-(b), 105(i)-(ii), (iii)(a)-(b), (iv)(a), 106, 108, 109(a)-(b), 110(i)-(ii), 117(2), 125(6), 129
+Amending enactments Relevant current provisions Commencement date Act. 1987-06 s. 74(1)(a) , (2), Sch. 2 1.1.1987 1987-16 Sch. 1 28.4.1987 1987-36 Sch. 1 24.12.1987 1989-03 s. 73(1) 2.3.1989 1989-22 ss. 2(1), 63 10.8.1989 1990-01 ss. 49, 62(b), 74, 85, 112, 120, 124(a), Sch. 2 22.2.1990 LN. 1990/021 Sch. 1 22.2.1990 Act. 1990-44 s. 112(1) 15.11.1990 1991-15 s. 66(c)-(d) 1.1.19911 “ ss. 4(3)(a)-(b), 14(2), 15(a)(i)-(ii), (b)(i), 16(2), 20(1), 21(3), 24(3), 25(3), 30(4), 31(2), 33(4), 41(3), 46-49, 64, 79(3), 80(a)(i)-(ii), (b)(i), 83(5), 84(3), 92(3), 93(3), 94(2), 102(a)-(b), 103(i)-(ii), 104(a)-(b), 105(i)-(ii), (iii)(a)-(b), (iv)(a), 106, 108, 109(a)-(b), 110(i)-(ii), 117(2), 125(6), 129
 
 12.9.1991 “ ss. 45(1), (3), 52(1) 1.3.19932
 
@@ -22,7 +18,7 @@ Act. 1990-44 s. 112(1) 15.11.1990 1991-15 s. 66(c)-(d) 1.1.19911 “ ss. 4(3)(a)
 
 2006-46 ss. 25A, 92(1) 21.12.2006 2007-16 ss. 76-78 6.6.2007 2007-17 ss. 12, 16(1), 20(1), 50, 62, 66, 71(1), 72(1), 74, 79(1), 96(1)-(2), 118, 129, 130, Sch. 3, Part XI heading
 
-14.6.2007 2009-26 s. 64(d) 26.6.2007 2013-19 s. 64(d) 24.6.2013 LN. 2017/223 ss. 91C-91O 16.11.2017 Act. 2020-03 s. 129(g) 27.2.2020 LN. 2020/212 ss. 2(1), 121(a), (aa), 121A 30.6.2020 Act. 2021-18 ss. 2, 64, 70(1), 119A(1) 20.7.2021
+14.6.2007 2009-26 s. 64(d) 26.6.2007 2013-19 s. 64(d) 24.6.2013 LN. 2017/223 ss. 91C-91O 16.11.2017 Act. 2020-03 s. 129(g) 27.2.2020 LN. 2020/212 ss. 2(1), 121(a), (aa), 121A 30.6.2020 Act. 2021-18 ss. 2, 64, 70(1), 119A(1) 20.7.2021 2024-14 s. 121A 31.10.2024
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
 
@@ -174,7 +170,7 @@ Rewards.
 
 Forfeiture.
 
-119. Prohibited imports forfeit to the Crown. 119A. Forfeiture of ships and vessels used or suspected of being used for carrying controlled drugs. 120. Mandatory forfeiture of goods. 121. Discretionary forfeiture of goods. 121A. Destruction of forfeited tobacco. 122. Forfeiture of receptacles. 123. Mandatory forfeiture of ships, etc.
+119. Prohibited imports forfeit to the Crown. 119A. Forfeiture of ships and vessels used or suspected of being used for carrying controlled drugs. 120. Mandatory forfeiture of goods. 121. Discretionary forfeiture of goods. 121A. Repealed. 122. Forfeiture of receptacles. 123. Mandatory forfeiture of ships, etc.
 
 124. Discretionary forfeiture of ships. etc. 125. Seizure of goods liable to forfeiture. 126. Procedure in connection with forfeiture.
 
