@@ -6,6 +6,8 @@ LN.2011/086
 
 Commencement 9.6.2011
 
-Amending enactments Relevant current provisions Commencement date LN. 2018/034 enacting formula 8.2.2018 2019/185 Para. 4 16.9.2019 2024/017 Para. 4 8.2.2024
+Amending enactments Relevant current provisions Commencement date
+
+LN. 2018/034 enacting formula 8.2.2018 2019/185 Para. 4 16.9.2019 2024/017 Para. 4 8.2.2024 2024/203 Paras. 4-5 31.10.2024
 
 In exercise of the powers conferred on me by regulation 8 and all other enabling powers of the Traffic (Parking and Waiting) Regulations 2011 I have established a Parking Scheme within the North District as set out below–
