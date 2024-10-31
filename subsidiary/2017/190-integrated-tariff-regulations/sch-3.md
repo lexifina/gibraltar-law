@@ -52,13 +52,9 @@ Free
 
 Free
 
+7. Goods imported by or on behalf of a disabled person and specially designed to improve the quality of life, for educational, scientific or cultural advancement of such a person
+
 Free
-
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190 7. Goods imported by or on behalf of a disabled person and specially designed to improve the quality of life, for educational, scientific or cultural advancement of such a person
 
 8. Dutiable goods imported into Gibraltar by a contractor or sub-contractor for the purpose of a contract awarded by the Crown
 
@@ -116,17 +112,11 @@ NOTE:
 
 1. Tobacco Products- 200 cigarettes or 100 cigarillos (cigars with a maximum weight of 3 grammes each) or 50 cigars or 250 grammes of smoking tobacco.
 
-2. Alcoholic Beverages – one standard bottle (0.70 to 1 litre) of distilled beverages and spirits of an alcoholic strength exceeding 22% or a total of 2 litres of distilled beverages, spirits, aperitifs,
-
-Free
-
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190 sparkling wines and fortified wines with a wine or alcoholic base or an alcoholic strength not exceeding 22 degrees and also in either case, distilled wines to a total of 2 litres.
+2. Alcoholic Beverages – one standard bottle (0.70 to 1 litre) of distilled beverages and spirits of an alcoholic strength exceeding 22% or a total of 2 litres of distilled beverages, spirits, aperitifs, sparkling wines and fortified wines with a wine or alcoholic base or an alcoholic strength not exceeding 22 degrees and also in either case, distilled wines to a total of 2 litres.
 
 3. Perfume – 50 grammes (60 cc. or 2 fl. ozs).
+
+Free
 
 4. Toilet water  – 250 c.c. or 9 fl. ozs.
 
@@ -168,31 +158,27 @@ Provided that the vehicle–
 
 Provided that the transportation by a sales representative of the samples, handbooks and tools necessary for the exercise of his occupation, shall not be treated as industrial or commercial transportation;
 
-Free
-
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190 (b) is not let, hired out or otherwise disposed of whilst in Gibraltar;
+(b) is not let, hired out or otherwise disposed of whilst in Gibraltar;
 
 (c) is intended to be exported and is so exported from Gibraltar on the departure therefrom by the temporary visitor, unless in any particular case, the Collector shall have otherwise allowed; and
+
+Free
 
 (d) the vehicle has complied at its place of registration with the customs or other duties and taxes to which vehicles of that class or description are normally liable and has not, by reason of its exportation been subject to any exemption from or refund of, such duties and taxes or any turnover tax, excise duty or other consumption tax
 
 20. A vehicle imported into Gibraltar by a person who satisfies and continues to satisfy the  Collector that–
 
-(a)      the person is a serving and uniformed member of one of Her Majesty’s Forces posted from overseas for service in Gibraltar or the spouse of such a member; or
+(a) the person is a serving and uniformed member of one of Her Majesty’s Forces posted from overseas for service in Gibraltar or the spouse of such a member; or
 
 (b) is an officer serving in Gibraltar and recruited by, or on behalf of, the Government of Gibraltar from outside Gibraltar on contract terms approved by the Government of Gibraltar; and
 
-(c)    at the date of his first arrival in Gibraltar, the vehicle had been his property for a period of not less than six months preceding such date:
+(c) at the date of his first arrival in Gibraltar, the vehicle had been his property for a period of not less than six months preceding such date:
 
 Provided that the Collector may, if he is satisfied that the vehicle had been driven for at least 4000 kilometres whilst in the ownership of such person, reduce such period of six months to a period of not less than three months; and
 
-(d)   neither this person or the spouse owns any other vehicle in Gibraltar which had been imported under the provisions of this paragraph and on which duty had not been paid; and
+(d) neither this person or the spouse owns any other vehicle in Gibraltar which had been imported under the provisions of this paragraph and on which duty had not been paid; and
 
-(e)   the conditions of this paragraph and such other conditions as may be imposed by the Collector have and are being complied with:
+(e) the conditions of this paragraph and such other conditions as may be imposed by the Collector have and are being complied with:
 
 Provided that-
 
@@ -212,15 +198,11 @@ Provided that-
 
 (bb) if the importer is a member of one of Her Majesty’s Forces, on his or her being posted to duty elsewhere than in Gibraltar; or
 
+(cc) if the importer is the spouse of a member of one of Her Majesty’s Forces on the member being posted to duty elsewhere than in Gibraltar; or
+
+(dd) on the importer or the spouse of the importer, as the case may be, ceasing to be an officer serving in Gibraltar under a technical  co-operation agreement, whichever is the earlier or within such further period as the Collector may in special circumstances allow and on production of the vehicle and the relevant import documents to the Customs Officer together with such additional information and such declarations relating to the vehicle and the circumstances of its use in Gibraltar as the officer may require
+
 Free
-
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190 (cc) if the importer is the spouse of a member of one of Her Majesty’s Forces on the member being posted to duty elsewhere than in Gibraltar; or
-
-(dd) on the importer or the spouse of the importer, as the case may be, ceasing to be an officer serving in Gibraltar under a technical  co- operation agreement, whichever is the earlier or within such further period as the Collector may in special circumstances allow and on production of the vehicle and the relevant import documents to the Customs Officer together with such additional information and such declarations relating to the vehicle and the circumstances of its use in Gibraltar as the officer may require
 
 21. For this purpose of these Regulations, a personal water craft  commonly known  and meaning a “jet ski” imported into Gibraltar by a person who is not normally resident in Gibraltar and who at the time of importation–
 
@@ -258,12 +240,6 @@ Free
 
 26. Omitted
 
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190
-
 27.  Printed material not specifically  printed for the purposes and use  of a business carried on in or from within Gibraltar and for which there is no financial payment made
 
 Free
@@ -298,11 +274,11 @@ Free
 
 Free
 
-35. Import duty on any one motor vehicle whomsoever is importing
+35. Import duty on any one motor vehicle whomsoever is importing Capped at £35,000
 
-Capped at £35,000
+35A. Import duty on any one pleasure vessel whomsoever is importing. Capped at £35,000
 
-35A. Import duty on any one pleasure vessel whomsoever is importing. Capped at £35,000 36. Electro-domestic appliances with an energy rating of A or higher for items labelled prior to 1 March 2021, or an energy rating of A, B, C or D for items labelled on or after 1 March 2021, imported by a business that is licensed to trade in such goods.
+36. Electro-domestic appliances with an energy rating of A or higher for items labelled prior to 1 March 2021, or an energy rating of A, B, C or D for items labelled on or after 1 March 2021, imported by a business that is licensed to trade in such goods.
 
 In this paragraph “electro-domestic appliances” means domestic use cookers (oven/hob/grill), refrigerators, freezers, combination fridge-freezers, washing machines, tumble driers, combination washer driers, dishwashers, electric instantaneous or storage water heaters and immersion heaters.
 
@@ -332,11 +308,7 @@ Free
 
 Free
 
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190 43. Private imports of goods other than tobacco, alcohol and plastic products with an invoiced value of less than £25.00.
+43. Private imports of goods other than tobacco, alcohol and plastic products with an invoiced value of less than £25.00.
 
 Free
 
@@ -344,11 +316,13 @@ Free
 
 45. Duty on motor spirit supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
 
-NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
-
-“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time.
+NOTE:
 
 £0.12p per litre
+
+“Vessels” as defined in the Imports and Exports Act, 1986.
+
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time.
 
 46. Diesel fuel supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
 
@@ -356,96 +330,24 @@ NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
 “Diesel fuel” means Automotive Gasoil supplied in litres as contained in the Integrated Tariff Regulations.
 
-“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. 12p per litre
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time.
 
-47. Materials, components or other goods imported for manufacture, production or processing in Gibraltar for an industrial activity in respect of which the Minister for Finance has issued a certificate. Free
+12p per litre
 
-48. Goods liable to import duty under Chapters 29 and 30 imported by a pharmacy registered and licensed under the Medical and Health Act,1997 and regulations made under it. Free
+47. Materials, components or other goods imported for manufacture, production or processing in Gibraltar for an industrial activity in respect of which the Minister for Finance has issued a certificate.
+
+Free
+
+48. Goods liable to import duty under Chapters 29 and 30 imported by a pharmacy registered and licensed under the Medical and Health Act,1997 and regulations made under it.
+
+Free
 
 49. Bicycle accessories and spare parts.
 
-Free 50. Full hybrid motor vehicle.
+Free
+
+50. Full hybrid motor vehicle.
 
 NOTE:
 
 “Full hybrid motor vehicle” as defined in Schedule 1, Chapter 87, paragraph 4 of the National Notes to the Integrated Tariff Regulations 2017. 5%
-
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190 SCHEDULE 4
-
-Change of status of goods
-
-Regulation 6(3)
-
-1. On a transfer of ownership on any goods (other than motor vehicles) imported on a temporary importation procedure
-
-The corresponding rate under Schedule 1 shall  apply 2. On a transfer of ownership in Gibraltar in respect of a motor vehicle classified under paragraph 20(a) and (b) of Schedule 3
-
-with an engine capacity not exceeding 1500cc
-
-with an engine capacity exceeding 1500cc but not exceeding 2000cc
-
-with an engine capacity exceeding 2000cc
-
-15%
-
-18%
-
-22% 3. A vehicle ceases to be registered as a self drive vehicle under paragraph 22 of Schedule 3
-
-with an engine capacity not exceeding 1500cc
-
-with an engine capacity exceeding 1500cc but not exceeding 2000cc
-
-with an engine capacity exceeding 2000cc
-
-15%
-
-18%
-
-22%
-
-4. (1) Subject to paragraph (2) below, after 4 years from the date of importation a vehicle ceases to be classified as a taxi under paragraph 23 of Schedule 3
-
-£250
-
-Imports and Exports INTEGRATED TARIFF REGULATIONS 2017
-
-1986-21
-
-Subsidiary 2017/190
-
-where powered solely by an internal combustion (spark or compression) ignition engine
-
-where electric motor used partially (hybrid) or solely for propulsion
-
-(2) Within 4 years from the date of importation a vehicle ceases to be classified as a taxi under paragraph 23 of Schedule 3
-
-Nil
-
-The corresponding rate under Schedule 1 shall apply
-
-5. A vehicle ceases to operate under a Road Haulage Operators Licence under paragraph 24 of Schedule 3
-
-Tractor head
-
-Trailer
-
-18%
-
-25% 6.  On a transfer of ownership to a private individual  in Gibraltar in respect of a motor vehicle under paragraph 30 of Schedule 3
-
-with an engine capacity not exceeding 1500cc
-
-with an engine capacity exceeding 1500cc but not exceeding 2000cc
-
-with an engine capacity exceeding 2000cc
-
-15%
-
-18%
-
-22%
