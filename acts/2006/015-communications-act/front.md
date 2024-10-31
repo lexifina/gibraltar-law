@@ -4,13 +4,11 @@ Principal Act
 
 Act. No. 2006-15 Commencement (LN.2006/071) 5.6.2006 Assent 12.5.2006
 
-Amending enactments Relevant current provisions Commencement date
-
-Act. 2006-44 s. 62(1)(a) 1.10.2006 LN. 2011/070 ss. 2, 4(1A), 18(3)(aa), (cc), (c), (3A), 19(2)(a)(i)-(iii), (b)(iii), (c)(iv), (vii)-(viii), (3)-(4), 20(5), 22(1)-(4), (6), 23(3), (a)-(b), (4), 24(3)(b), (bb), 24A, 34A-34B, 35(11), 38(4), (4A), 40(9)-(12), 49(5), (10), 50(2)- (3), 52, 59, 59A-59B, 61(10)-(12), 62(4), 91(1)(a)- (d), (7), (12), 92(a)-(b), 96(5A)-(5C)
+Amending enactments Relevant current provisions Commencement date Act. 2006-44 s. 62(1)(a) 1.10.2006 LN. 2011/070 ss. 2, 4(1A), 18(3)(aa), (cc), (c), (3A), 19(2)(a)(i)-(iii), (b)(iii), (c)(iv), (vii)-(viii), (3)-(4), 20(5), 22(1)-(4), (6), 23(3), (a)-(b), (4), 24(3)(b), (bb), 24A, 34A-34B, 35(11), 38(4), (4A), 40(9)-(12), 49(5), (10), 50(2)- (3), 52, 59, 59A-59B, 61(10)-(12), 62(4), 91(1)(a)- (d), (7), (12), 92(a)-(b), 96(5A)-(5C)
 
 26.5.2011 2016/099 ss. 10, 10A-10D, 11(1), 12 30.4.2016 Act. 2018-19 s. 53(5) 26.9.2019 LN. 2020/506 ss. 2(1), (8), 4(1A)(aa), (1B)-(iD), 9(1)(a), 19(1)(a)(i), (2)(b)(i), (c), (3), (a), (c), (e), (5), 20(1)(a)-(c), (2)- (3), 21(1), 22(1), 23(2)-(3), 24A(7), (9), 26(6)(b), (8), 32(1), 34A(1)-(2), (4), (4A), (8)-(9), 34B(1), (3), (3A)-(3B), 36A, 38(5), 39(2), 40(6A)-(6B), (7A)- (7E), (9)(a)-(b), (10), 40A-40C, 41(1), 48A-48E, 50(1), (b), (2)-(3), (a), (4)-(6), 52(1), (b)-(c), (2), 58A, 59(2), (a)-(b), (3), (a)-(h), (3A)-(3C), (5)(b), (18)-(27), 59B(1), (4A)-(4E), (6), 59C-59E, 61(1A)- (1C), 61A, 62(4), (b)-(c), (ca), (5)-(8), 65A-65C, 91(12), 96(2A), (5A), (5AA), Sch.2-3
 
-24.12.2020 2019/245 ss. 28(1)-(2), 59(8) 1.1.2021 2023-30 s. 19A 27.7.2023
+24.12.2020 2019/245 ss. 28(1)-(2), 59(8) 1.1.2021 2023-30 s. 19A 27.7.2023 2024-16 s. 60A 31.10.2024
 
 Transposing: Directive 2002/19/EC, Directive 2002/20/EC Directive 2002/21/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2002/77/EC Directive 2009/140/EC Directive (EU) 2018/1972
 
@@ -84,7 +82,7 @@ Control of the Use of the Electro-Magnetic Spectrum.
 
 Radiocommunications Licences
 
-60. The power to grant licences. 61. Licensing. 61A. Procedure for limiting the number of rights of use to be granted for radio spectrum. 62. Exemption from the need to obtain a licence. 63. Fees for licences. 64. Limitation on the number of licences. 65. Bidding for licences. 65A. Duration of rights. 65B. Renewal of individual rights of use for harmonised radio spectrum. 65C. Competition. 66. Register of licences.
+60. The power to grant licences. 60A. Prohibition on issuing certain licences. 61. Licensing. 61A. Procedure for limiting the number of rights of use to be granted for radio spectrum. 62. Exemption from the need to obtain a licence. 63. Fees for licences. 64. Limitation on the number of licences. 65. Bidding for licences. 65A. Duration of rights. 65B. Renewal of individual rights of use for harmonised radio spectrum. 65C. Competition. 66. Register of licences.
 
 Dealing in Radiocommunications Apparatus.
 
