@@ -6,13 +6,7 @@ LN.2011/087
 
 Commencement 9.6.2011
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2015/187 15.10.2015 2017/106
-
-1.7.2017 2022/318 17.11.2022 2024/015
-
-8.2.2024
+Amending enactments Relevant current provisions Commencement date LN. 2015/187 15.10.2015 2017/106 1.7.2017 2022/318 17.11.2022 2024/015 8.2.2024 2024/204 31.10.2024
 
 In exercise of the powers conferred on me by regulation 7 of the Traffic (Parking and Waiting) Regulations 2011 and all other enabling powers the North District is designated a Distinct Parking Zone for the purposes of the Regulations.
 
@@ -35,3 +29,7 @@ Free Parking Cars Only (available to everyone):
 Pay Parking:
 
  Devil’s Tower Road Car Park  Aerial Farm Car Park (under construction)  Landport Ditch (one row against North Bastion)
+
+Heavy Goods Vehicle Parking:
+
+ Halifax Road
