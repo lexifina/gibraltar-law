@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date
 
 6.5.1999 2001-16 ss. 2, 11A-11E 6.6.2001 2006-11 s. 6(6)(g) 7.7.2006 2011-25 ss. 16(4), 16A 8.9.2011 2013-08 ss. 17(2)-(3), 17AA 30.5.2013 2014-05 ss. 11F, 16(1)-(2) 27.2.2014 2014-21 ss. 6(3)(ca), (4)(a), 6A-6B, 8(b)-(d) 10.7.2014 2015-03 ss. 11DA, 17C 26.2.2015 2018-10 ss. 17C(2A)-(2B), (3A), 24A-24C 2.8.2018 2019-07 ss. 4A, 6(4)(b)-(c) 28.3.2019 LN. 2020/214 ss. 2, 6(3)(aa)-(ac), 11G, 12(1)-(2), 13(2), 14(1)(ba), 14A-14J, 14ZI-14ZK, 15(2), 16(1), 16A, 22(1)(a), 23(1), 24D-24O, Sch,.1-2
 
-30.6.2020
+30.6.2020 Act. 2024-14 ss. 16(1), 16A 31.10.2024
 
 ARRANGEMENT OF SECTIONS
 
@@ -60,7 +60,7 @@ False signs, markings etc.
 
 PART V PENALTIES AND ENFORCEMENT
 
-15. Penalties. 16. Forfeiture. 16A.  Disposal of unclaimed tobacco. 17. Provisions as to detention and seizure of goods. 17AA Power to make orders with respect to property in possession of Police or Customs Officer. 17A. Power of arrest. 17B. Power to require information.
+15. Penalties. 16. Forfeiture. 16A.  Destruction and disposal of cigarettes and tobacco products. 17. Provisions as to detention and seizure of goods. 17AA Power to make orders with respect to property in possession of Police or Customs Officer. 17A. Power of arrest. 17B. Power to require information.
 
 17C. Power to enter and search premises etc. 17D. Power to search persons. 18. Protection of officers in relation to the exercise of powers under this Part. 19. Evidence. 20. Exceptions. 21. Restriction on the institution of proceedings. 22. Returns. 23. Keeping and inspection of records. 24. Power to make regulations.
 
