@@ -6,9 +6,7 @@ LN.2021/493
 
 Commencement (Except s.4(2)) 1.1.2021 s.4(2) 1.7.2022
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2023/074 rr. 4(5)(b), 8(4)(a)(ii), 30, 31(1)-(2), 80(1), 87(4) 30.3.2023
+Amending enactments Relevant current provisions Commencement date LN. 2023/074 rr. 4(5)(b), 8(4)(a)(ii), 30, 31(1)-(2), 80(1), 87(4) 30.3.2023 2024/210 r. 110(2), (12) 21.11.2024
 
 ARRANGEMENT OF REGULATIONS
 
