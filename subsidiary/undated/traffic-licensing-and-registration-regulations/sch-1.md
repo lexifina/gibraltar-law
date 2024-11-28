@@ -88,19 +88,9 @@ PARTICULARS TO BE CONTAINED IN REGISTER OF MOTOR VEHICLES.
 
 TRAFFIC (LICENSING AND REGISTRATION) REGULATIONS
 
-REGISTRATION MARK . . . . . . . . . . . . . . . . . OWNER  (SURNAME) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+REGISTRATION MARK . . . . . . . . . . . . . . . . . OWNER (SURNAME) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (FORENAMES) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (ADDRESS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . REGISTERED KEEPER (SURNAME)………………… (FORENAMES)…………………………….. (ADDRESS)………………………………… CLASS MAKE MODEL CHASSIS OR FRAME NUMBER NO. OF CYLINDERS ENGINE CUBIC CAPACITY TYPE BODY COLOUR No. of SEATS (inclusive of driver’s seat) WEIGHT OF MOTOR VEHICLE UNLADEN GROSS VEHICLE WEIGHT
 
-(FORENAMES) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(ADDRESS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-CLASS MAKE MODEL CHASSIS OR FRAME NUMBER NO. OF CYLINDERS ENGINE
-
-CUBIC CAPACITY
-
-TYPE BODY COLOUR No. of SEATS (inclusive  of driver’s seat) WEIGHT OF MOTOR VEHICLE UNLADEN GROSS VEHICLE WEIGHT
-
-DATE OF FIRST REGISTRATION DATE OF MANUFACTURE
+DATE OF FIRST REGISTRATION DATE OF MANUFACTURE”.
 
 FORM 5.
 

@@ -22,7 +22,11 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/046 r
 
 “ rr. 2, 16A, 16AZ, 16AA(1)-(2), (2A), (3)(a), 16AB, 16B, 16C(1), (4), 20(3)-(5), 21(3A)-(3B), (5)(a)-(d), 21A(2)(b), (bb)-(bc), 79A, 80(1)-(2), 80A(1)-(3), 103(1)-(2), Schs.1, 3A- 3B, 4, 4A- 4C, 7-10
 
-1.1.2021 2021/410 rr. 6(2), 7(2), 8(2), 9, 14(1), 33(a)-(b), Sch. 2 30.9.2021 2022/119 Sch.2 12.5.2022 2023/158 Sch.2 16.6.2023
+1.1.2021 2021/410 rr. 6(2), 7(2), 8(2), 9, 14(1), 33(a)-(b), Sch. 2 30.9.2021 2022/119 Sch.2 12.5.2022 2023/158 Sch.2 16.6.2023 2024/212 rr. 16A, 16AZ, 16AC, 16C(1), (4), 97-102, 96A-96I, Schs. 3C,
+
+28.11.2024 2024/213 rr. 2, 6(1A)-(1B), 6(4), 7(1)-(2), 14(1)-(2), 20(2)(c), (3)-(5), 21(2)(c), (3), (3A)-(3B), (4)(d), (7)(b), 21A(2)(c), Sch.1
+
+28.11.2024
 
 Transposing:
 
@@ -40,9 +44,9 @@ PART I. VEHICLE LICENCES AND REGISTRATION.
 
 Motor Vehicles (Civilian).
 
-3. Applications for licences. 4. Duration of validity of motor vehicle licence. 4A. Licences renewed after expiry. 5. Registration. 6. Certificate of registration. 7. Transfer of vehicle. 8. Change of character or use. 9. Notification of alteration to vehicle. 10. Notification of destruction or permanent export. 11. Cancellation of registration. 11A. Vehicles to which the End-of life Rules 2004 apply. 12. Exhibition of licence on vehicle. 13. Alteration of licence, etc. 14. Application for duplicate licence or certificate of registration. 15. Surrender of licence. 16. Exhibition of registration marks. 16A. Exhibition of Registration Marks for motor vehicles registered after 6 September 2001, until IP completion day. 16AZ. Exhibition of registration marks for motor vehicles registered after IP completion day 16AA. Exhibition of registration marks - classic motor vehicles. 16AB. Registration marks in International traffic. 16B. Voluntary change of style of licence plate. 16C. Register of vehicle licence-plate suppliers. 16D. No further marks. 17. Distinguishing sign for vehicles taken abroad. 17A. Deleted. 17B. In order to be entitled to the benefits of the Convention of 1968, a motor vehicle…. 18. Exhibition of registration marks on trailers.
+3. Applications for licences. 4. Duration of validity of motor vehicle licence. 4A. Licences renewed after expiry. 5. Registration. 6. Certificate of registration. 7. Transfer of vehicle. 8. Change of character or use. 9. Notification of alteration to vehicle. 10. Notification of destruction or permanent export. 11. Cancellation of registration. 11A. Vehicles to which the End-of life Rules 2004 apply. 12. Exhibition of licence on vehicle. 13. Alteration of licence, etc. 14. Application for duplicate licence or certificate of registration. 15. Surrender of licence. 16. Exhibition of registration marks. 16A. Exhibition of Registration Marks for motor vehicles registered after 6 September 2001, until IP completion day. 16AZ. Exhibition of registration marks for motor vehicles registered after IP completion day 16AA. Exhibition of registration marks - classic motor vehicles. 16AB. Registration marks in International traffic. 16AC. Personalised registration numbers. 16B. Voluntary change of style of licence plate. 16C. Register of vehicle licence-plate suppliers. 16D. No further marks. 17. Distinguishing sign for vehicles taken abroad. 17A. Deleted. 17B. In order to be entitled to the benefits of the Convention of 1968, a motor vehicle….
 
-19. Illumination of registration marks. 20. Vehicles belonging to bona fide visitors. 21. Vehicles to be exported from Gibraltar. 21A. Issue of licence and registration of vehicle to be exported from Gibraltar. 22. Vehicles brought temporarily into Gibraltar. 22A. Vehicles brought temporarily into Gibraltar from Spain. 22B. Road vehicles (lorries, tractors trailers or semi-trailers) routed in combined…. 23. General penalty. 24. Delegation. 25. Waiver for vehicles in transit from Spain. 26. Waiver for vehicles of visiting warships. 26A. Waiver for special events or purposes.
+18. Exhibition of registration marks on trailers. 19. Illumination of registration marks. 20. Vehicles belonging to bona fide visitors. 21. Vehicles to be exported from Gibraltar. 21A. Issue of licence and registration of vehicle to be exported from Gibraltar. 22. Vehicles brought temporarily into Gibraltar. 22A. Vehicles brought temporarily into Gibraltar from Spain. 22B. Road vehicles (lorries, tractors trailers or semi-trailers) routed in combined…. 23. General penalty. 24. Delegation. 25. Waiver for vehicles in transit from Spain. 26. Waiver for vehicles of visiting warships. 26A. Waiver for special events or purposes.
 
 Motor Vehicles (Services ).
 
@@ -60,9 +64,7 @@ PART IV. Repealed
 
 56 to 64. Repealed
 
-PART V.
-
-DRIVING LICENCES.
+PART V. DRIVING LICENCES.
 
 65. Application for driving test. 66. Notice of appointment. 67. Applicant to provide vehicle. 68. Conditions to be satisfied: motor vehicles. 69. Revoked 70. Revoked 70A. Conditions for passing driving test. 71. Conditions to be satisfied for public service vehicles. 72. Endorsement and transmission of applications and issue of certificates of competency.
 
@@ -78,9 +80,7 @@ LEARNERS AND VISITORS
 
 84. Learners’ licences. 84A. Requirement for CBT Certificate. 84B. Exemption from CBT Certificate. 85. Conditions and restrictions on driving by learners. 86. Visitors’ driving permits. 87. Drivers of vehicles of visiting warships. 87A. Trailers not imported by road.
 
-PART VI.
-
-LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES.
+PART VI. LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES.
 
 88 to 92. Revoked. 93. Forms.
 
@@ -96,9 +96,13 @@ PART IX. AFTER HOURS ATTENDANCE.
 
 96. Fees for attendances after hours.
 
-PART X. PERSONALISED NUMBERS.
+PART X. Deleted
 
-97. Application 98. Interpretation. 99. Re-issue of numbers. 100. Sale of numbers. 101. Transfer of number. 102. Additional fee.
+97 to 102. Deleted.
+
+PART XA.
+
+96A. Application. 96B. Interpretation. 96C. Re-issue of personalised registration numbers. 96D. Sale of numbers. 96E. Assigning a personalised registration number to a vehicle. 96F. Retaining a personalised registration number. 96G. Transfer of personalised registration number. 96H. Removing a personalised registration number from a vehicle. 96I. Additional fees.
 
 PART XI STANDARDS FOR EXAMINERS
 
@@ -113,6 +117,8 @@ SCHEDULE 3. Requirements as to Registration Marks.
 SCHEDULE 3A. VEHICLES FIRST REGISTERED ON OR AFTER 6 SEPTEMBER 2001 AND UNTIL IP COMPLETION DAY
 
 SCHEDULE 3B. VEHICLES FIRST REGISTERED ON OR AFTER IP COMPLETION DAY
+
+SCHEDULE 3C. PERSONALISED REGISTRATION NUMBER PLATES
 
 SCHEDULE 4. Distinguishing Sign of Vehicles in International Traffic.
 
