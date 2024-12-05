@@ -26,6 +26,12 @@ Section 4(2)
 
 7. The powers of the Board may be exercised notwithstanding any vacancy in their number.
 
-8. Three members of the Board shall form a quorum, except at the investigation of any complaint made against a person registered under Part II of the Act, when the quorum shall be five.
+8. Three members of the Board shall form a quorum.
 
-9. The Board may, subject to rules made under section 22(c) make standing orders regulating the proceedings of the Board.
+8A.  Subject to paragraphs 8B and 8C, the Board shall establish panels consisting of a minimum of five persons to hear complaints made against any person registered under Part II or IIA of the Act.
+
+8B.  Each panel must include a minimum of two members of the Board (one whom shall serve as the Chair of the panel).
+
+8C.  The Minister may appoint persons to sit on such panels and the Board shall select any number of such persons as necessary on a case by case basis.
+
+9.  The Board may, subject to rules made under section 22(c) make standing orders regulating the proceedings of the Board.

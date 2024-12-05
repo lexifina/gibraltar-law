@@ -30,12 +30,18 @@ NURSES, MIDWIVES AND HEALTH VISITORS REGISTRATION BOARD
 
 4. The Minister may in his discretion terminate the appointment of any member of the Board (other than an ex officio member).
 
-5. If any member of the Board be temporarily absent from Gibraltar and occasion arises which in the opinion of the Chairman necessitates a meeting of the full Board the Minister may, upon the request of the Chairman, appoint some other person of the same description temporarily to fill the vacancy.
+5.  If any member of the Board be temporarily absent from Gibraltar and occasion arises which in the opinion of the Chairman necessitates a meeting of the full Board the Minister may, upon the request of the Chairman, appoint some other person of the same description temporarily to fill the vacancy.
 
-6. The powers of the Board may be exercised notwithstanding any vacancy in their number.
+6.  The powers of the Board may be exercised notwithstanding any vacancy in their number.
 
-7. Three members of the Board shall form a quorum, except at the investigation of any complaint made against a person registered under Part III of the Act, when the quorum shall be five.
+7.  Three members of the Board shall form a quorum.
 
-8. The Board may, subject to any regulations made under section 36, make standing orders regulating the proceedings of the Board.
+7A.  Subject to paragraphs 7B and 7C, the Board shall establish panels consisting of a minimum of five persons to hear complaints made against any person registered under Part III of the Act.
+
+7B.  Each panel must include a minimum of two members of the Board (one whom shall serve as the Chair of the panel).
+
+7C.  The Minister may appoint persons to sit on such panels and the Board shall select any number of such persons as necessary on a case by case basis.
+
+8.  The Board may, subject to any regulations made under section 36, make standing orders regulating the proceedings of the Board.
 
 ________________________
