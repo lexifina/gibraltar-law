@@ -6,13 +6,15 @@ LN.2013/120
 
 Commencement 20.8.2013
 
-Amending enactments Relevant current provisions Commencement date LN. 2014/159 Corrigenda
+Amending enactments Relevant current provisions Commencement date
 
-2015/051 rr. 43A – 43E 31.3.2015 2018/163 rr. 2(1), 19(5)(a), 19A-19B, 29A, 32A-32S 12.7.2018 2020/174 rr. 2(1), 32(5)(a), (6), 32B(1)(b), (3), 32D(3A), 32E(1)(b), (12), 32L(1A)-(1B), 32N(1A), (2A), 32Q(1A), (2), 32T
+LN. 2014/159 Corrigenda 2015/051 rr. 43A – 43E 31.3.2015 2018/163 rr. 2(1), 19(5)(a), 19A-19B, 29A, 32A-32S 12.7.2018 2020/174 rr. 2(1), 32(5)(a), (6), 32B(1)(b), (3), 32D(3A), 32E(1)(b), (12), 32L(1A)-(1B), 32N(1A), (2A), 32Q(1A), (2), 32T
 
 7.5.2020 2021/165 rr. 2(1), 6(6)(a)(i), 15, 15A-15B, 19C, 38(2), (2A)- (2B), Sch.1-2
 
-4.3.2021 2022/286 rr. 2(1), 12A, 19B, (c), 19C(2) 6.10.2022 2021/165 rr. 2(1), 44(1), (2)(a)-(b), 45(2)-(3), (4)(a), (b)(ii) 23.12.20221
+4.3.2021 2022/286 rr. 2(1), 12A, 19B, (c), 19C(2) 6.10.2022 2021/165 rr. 2(1), 44(1), (2)(a)-(b), 45(2)-(3), (4)(a), (b)(ii) 23.12.20221 2024/229 rr. 10(2)(h)(i)-(iii), 19(8)(a), (8A), 23(1A)-(1D), 25(3)-(5), 26(2)(a)-(b), 28(5), 29(1)(e), 29B, 30(1)(a)-(e), 32G(7)(g), 32Q(7)(g)
+
+23.12.2024
 
 Transposing: Directive 1999/63/EC Directive 2009/13/EC Directive 2013/54/EU Directive (EU) 2018/131
 
@@ -42,7 +44,7 @@ PART IV: ACCOMMODATION, FOOD AND CATERING
 
 PART V: HEALTH PROTECTION, MEDICAL CARE, WELFARE AND SOCIAL SECURITY PROTECTION
 
-28. Medical care on board ship and ashore. 29. Shipowners’ liability. 29A. Shipowners’ liability for wages following sickness or injury sustained by seafarer. 30. Health and safety protection and accident prevention. 31. Access to shore-based welfare facilities. 32. Social security.
+28. Medical care on board ship and ashore. 29. Shipowners’ liability. 29A. Shipowners’ liability for wages following sickness or injury sustained by seafarer. 29B. Death occurring in Gibraltar. 30. Health and safety protection and accident prevention. 31. Access to shore-based welfare facilities. 32. Social security.
 
 PART VA: SECURITY AGAINST SHIPOWNER’S LIABILITY FOR DEATH OR LONG TERM DISABILITY OF SEAFARERS.
 
@@ -50,9 +52,9 @@ PART VA: SECURITY AGAINST SHIPOWNER’S LIABILITY FOR DEATH OR LONG TERM DISABIL
 
 PART VB: SECURITY AGAINST THE ABANDONMENT OF SEAFARERS
 
-32K. Interpretation for Part VB. 32L. Abandonment. 32M. Abandonment security requirement applicable to all ships. 32N. Abandonment security. 32O. Consideration and payment of abandonment claims.
+32K. Interpretation for Part VB. 32L. Abandonment. 32M. Abandonment security requirement applicable to all ships. 32N. Abandonment security. 32O. Consideration and payment of abandonment claims. 32P. Subrogation.
 
-32P. Subrogation. 32Q. Duty to carry and display an abandonment security document. 32R. Termination of abandonment security effective only where notice given. 32S. Duty on shipowner to notify seafarers if abandonment security is to be terminated. 32T. Savings and adjustments.
+32Q. Duty to carry and display an abandonment security document. 32R. Termination of abandonment security effective only where notice given. 32S. Duty on shipowner to notify seafarers if abandonment security is to be terminated. 32T. Savings and adjustments.
 
 PART VI: INSPECTION AND CERTIFICATION
 
