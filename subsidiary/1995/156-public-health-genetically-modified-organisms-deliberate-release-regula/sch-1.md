@@ -126,9 +126,7 @@ PART VI INFORMATION RELATING TO THE RELEASE (Applications for consent to release
 
 32. The approximate number of genetically modified plants (or plants per m2) to be released.
 
-PART VII
-
-INFORMATION ON CONTROL, MONITORING, POST-RELEASE PLANS AND WASTE TREATMENT PLANS (Applications for consent to release only)
+PART VII INFORMATION ON CONTROL, MONITORING, POST-RELEASE PLANS AND WASTE TREATMENT PLANS (Applications for consent to release only)
 
 33. A description of any precautions to–
 

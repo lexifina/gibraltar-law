@@ -6,7 +6,11 @@ LN.1995/156
 
 Commencement 8.1.1995
 
-Amending enactments Relevant current provisions Commencement date LN. 1997/124 rr. 2, 6(1)(a)(ii), 10(1)(a), (2)-(4) 30.10.1997 1998/004 Sch. 3 15.1.1998
+Amending enactments Relevant current provisions Commencement date
+
+LN. 1997/124 rr. 2, 6(1)(a)(ii), 10(1)(a), (2)-(4) 30.10.1997 1998/004 Sch. 3 15.1.1998 2024/230 rr. 2-3, 4(1), (3)(a), 5(1), 9(1), (2)(a)-(b), 10(5), 13(2), 14(3)
+
+23.12.2024
 
 ARRANGEMENT OF REGULATIONS
 
