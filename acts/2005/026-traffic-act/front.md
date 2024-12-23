@@ -4,9 +4,7 @@ Principal Act
 
 Act. No. 2005-26 Commencement (LN. 2005/063) 7.4.2005 Assent 29.3.2005
 
-Amending enactments Relevant current provisions Commencement date
-
-Act.   2011-18 ss. 44(4), 89(1)(j), (2), 92, 97, 98A, 98(2), 101(c), 104
+Amending enactments Relevant current provisions Commencement date Act.   2011-18 ss. 44(4), 89(1)(j), (2), 92, 97, 98A, 98(2), 101(c), 104
 
 14.7.2011 LN. 2012/034 ss. 31A, 59, 59A, 60(3), 60A, 61A 19.3.2012 “ ss. 2, 27, 29(1), (1A)-(1B), 31, 31B, 32, 32A, 37, 60A-60D
 
@@ -22,9 +20,13 @@ Act.   2011-18 ss. 44(4), 89(1)(j), (2), 92, 97, 98A, 98(2), 101(c), 104
 
 8.7.2022 2016-21 s. 61B 1.9.20223 2022/310 s. 59(5) 10.11.2022 Act. 2022-15 ss. 9(2), 15(4), 16(2), 17(3)9a)-(b), 21(1)(a), 22, 40(5), 41(4), 44(1), 46(1), 47(1)(a), 50(1), 51(2), 53(3), 63A(2A), 75(2)(a)-(b), 81(3), 83(9), 86(1)- (2), 95(1)(i)-(ii), (2)
 
-1.12.2022 2023-03 ss. 2-3, 74(1), 75(1)-(3), 76, 89(1)(c), 96(3) 26.1.2023
+1.12.2022 2023-03 ss. 2-3, 74(1), 75(1)-(3), 76, 89(1)(c), 96(3) 26.1.2023 2024-18 s. 54(3) 23.12.2024
 
 1 Notice of Commencement – LN. 2017/011 2 Notice of Commencement – LN. 2017/076 For Savings and Transitional Provisions please refer to s.24 of the Traffic (Amendment) Act 2016 (2016-21) 3 Notice of Commencement – LN. 2022/224
+
+2024-32 ss. 39(3), 62(1)-(2), 63(1)(a)-(b), 63B(8), 65(1), (2)(c), 71(4), 75
+
+23.12.2024
 
 Transposing: Directive 2006/126/EC Directive 2014/46/EU Directive (EU) 2018/645
 
