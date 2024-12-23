@@ -6,7 +6,9 @@ LN.2001/038
 
 Commencement 26.4.2001
 
-Amending enactments Relevant current provisions Commencement date LN.2010/051 Sch. 1, 6 & 7 25.3.2010
+Amending enactments Relevant current provisions Commencement date
+
+LN.2010/051 Sch. 1, 6 & 7 25.3.2010 2024.230 rr. 2(1), 3(3)(a)(i)(aa), (b), 5 23.12.2024
 
 Transposing: Directive 98/81/EC
 
@@ -26,9 +28,7 @@ PART III CONDUCT OF ACTIVITIES INVOLVING GENETIC MODIFICATION.
 
 16. Establishment of a genetic modification safety committee. 17. Principles of occupational and environmental safety. 18. Containment and control measures for activities involving genetic modification of micro-organisms. 19. Review of containment measures. 20. Emergency plans. 21. Information relating to accidents.
 
-PART IV
-
-DISCLOSURE OF INFORMATION AND PUBLICITY.
+PART IV DISCLOSURE OF INFORMATION AND PUBLICITY.
 
 22. Disclosure of information provided pursuant to regulation 9 to 15. 23. Disclosure of information provided pursuant to regulation 21.
 
