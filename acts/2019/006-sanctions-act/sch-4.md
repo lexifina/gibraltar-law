@@ -1,4 +1,4 @@
-SCHEDULE  4
+SCHEDULE 4
 
 INTERNATIONAL SANCTIONS: INFORMATION PROVISIONS
 
@@ -53,6 +53,8 @@ Reporting obligations of relevant institutions and others.
 (h)  a trust or company service provider,
 
 operating in Gibraltar.
+
+(6A)  In this paragraph, “relevant institution” means a person that has permission under Part 7 of the Financial Services Act 2019 or a collective investment scheme authorised under Part 18 of that Act.
 
 (7)  For the purpose of subparagraph (6)-
 

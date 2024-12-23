@@ -4,9 +4,7 @@ Principal Act
 
 Act. No. 2019-06 Commencement 28.3.2019 Assent 28.3.2019
 
-Amending enactments Relevant current provisions Commencement date
-
-Act.2021-08 ss. 4(1), 8(3A) 9.2.2021
+Amending enactments Relevant current provisions Commencement date Act.2021-08 ss. 4(1), 8(3A) 9.2.2021 2024-34 ss. 8(3), (3A), (4), 8A, Sch.4 23.12.2024
 
 ARRANGEMENT OF SECTIONS
 
@@ -22,7 +20,7 @@ Definitions
 
 PART 2 INTERNATIONAL SANCTIONS
 
-6. Purpose of Part. 7. International sanctions to have effect 8. Judicial notice of published lists. 9. Offence of breach of international sanctions. 10. Licences etc. 11. Offence of breaching licence. 12. Request for de-listing of UN-named person. 13. Request for de-listing of UN-designated ship. 14. Request for listing by the United Nations Security Council etc. 15. Temporary powers in relation to EU sanctions lists.
+6. Purpose of Part. 7. International sanctions to have effect 8. Judicial notice of published lists. 8A. Sanctions screening. 9. Offence of breach of international sanctions. 10. Licences etc. 11. Offence of breaching licence. 12. Request for de-listing of UN-named person. 13. Request for de-listing of UN-designated ship. 14. Request for listing by the United Nations Security Council etc. 15. Temporary powers in relation to EU sanctions lists.
 
 PART 3 DOMESTIC SANCTIONS
 
@@ -32,9 +30,7 @@ Power to make sanctions regulations.
 
 Types of sanction
 
-21. Financial sanctions.
-
-22. Immigration sanctions. 23. Trade sanctions. 24. Aircraft sanctions. 25. Shipping sanctions. 26. Other sanctions for purposes of international obligations.
+21. Financial sanctions. 22. Immigration sanctions. 23. Trade sanctions. 24. Aircraft sanctions. 25. Shipping sanctions. 26. Other sanctions for purposes of international obligations.
 
 Designation of persons
 
@@ -62,9 +58,9 @@ Review of regulations
 
 Procedure for requests and reviews
 
-42. Procedure for requests and reviews. 43. Suspension of prohibitions and requirements. 44. Revocation and amendment of regulations under section 16.
+42. Procedure for requests and reviews. 43. Suspension of prohibitions and requirements.
 
-45. Protection for acts done for the purpose of compliance. 46. Power to amend Act so as to authorise additional sanctions. 47. Power to amend Act so as to comply with international standards.
+44. Revocation and amendment of regulations under section 16. 45. Protection for acts done for the purpose of compliance. 46. Power to amend Act so as to authorise additional sanctions. 47. Power to amend Act so as to comply with international standards.
 
 PART 4 COURT REVIEWS
 
@@ -72,7 +68,11 @@ PART 4 COURT REVIEWS
 
 PART 5 GENERAL
 
-51. General penalty. 52. Crown application. 53. Regulations: general. 54. Regulations under section 16: transitory provision. 55. Constitutional responsibilities of Governor. 56. Delegation of powers. 57. Consequential amendment. 58. Repeal and transitional provisions.
+51. General penalty.
+
+Supplementary
+
+52. Crown application. 53. Regulations: general. 54. Regulations under section 16: transitory provision. 55. Constitutional responsibilities of Governor. 56. Delegation of powers. 57. Consequential amendment. 58. Repeal and transitional provisions.
 
 SCHEDULE 1 Trade sanctions
 
