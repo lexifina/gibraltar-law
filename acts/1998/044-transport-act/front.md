@@ -8,9 +8,7 @@ Act. No. 1998-44 Commencement (s.69) 4.8.19991
 
 (s.76(3)) 22.9.20003 Assent 3.9.1998
 
-Amending enactments Relevant current provisions Commencement date
-
-Act. 2002-23 ss. 2, 10A, 11, 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A, 50(1), (1A), (2), 67, Sch.1
+Amending enactments Relevant current provisions Commencement date Act. 2002-23 ss. 2, 10A, 11, 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A, 50(1), (1A), (2), 67, Sch.1
 
 21.1.2003 2003-17 s. 17(4), (8)-(9) 1.8.2003 2008-19 ss. 36-41, 66A-66ZB, Schs.2-3 13.11.2008 2010-07 ss. 2, 11(4), 17(3), (8), (10)-(12), 46(2), (6), 51(1), 52(1), (4A), (5), 53, 54(1), (2), 55-56
 
@@ -28,7 +26,7 @@ Act. 2002-23 ss. 2, 10A, 11, 17(4)(b)(ii), 22, 27(1), 32(1), 46, 47(3), 47A, 50(
 
 1 Notice of Commencement (LN.1999/091) 2 Notice of Commencement (LN.2000/066) 3 Notice of Commencement (LN.2000/071)
 
-Act. 2024-08 s. 17(10)-(12) 26.3.2024
+Act. 2024-08 s. 17(10)-(12) 26.3.2024 2024-31 ss. 2(1), 17(3), 19, 19A, 72, 72A-72D 23.12.2024 2024-33 s. 17(4A)-(4G) 23.12.2024
 
 EU legislation/International Agreements involved: Regulation (EC) No. 561/2006 Regulation (EC) No 1071/2009 Regulation (EC) No 1072/2009 Regulation (EC) No 1073/2009 Regulation (EU) No 165/2014 Regulation (EU) 2016/799
 
@@ -60,7 +58,7 @@ Road Service Licences: Taxis
 
 11. Road service licence required 12. Application for licence 13. Grant or refusal of licence 14. Maximum number of road service licences 15. Matters to be considered by the Commission before determining application 16. Conditions of licence 17. Special conditions in all road service licences for taxis 18. Concessioned taxis 19. Penalties
 
-20. Revocation and suspension of licence 21. Duration of licences 22. Renewal of licences 23. Transfer of licences 24. Amendment of licences
+19A Licence holders responsible for named drivers. 20. Revocation and suspension of licence 21. Duration of licences 22. Renewal of licences 23. Transfer of licences 24. Amendment of licences
 
 Operator Licences: Buses and Lorries
 
@@ -84,9 +82,9 @@ Horse-drawn Vehicles
 
 Self-drive hire cars
 
-46. Licensing of self-drive operators and self-drive cars 47. Application for licence 47A. Renewal of licences
+46. Licensing of self-drive operators and self-drive cars 47. Application for licence
 
-48. Revocation and suspension of licence 49. Transfer of licences 50. Limitation of age of self-drive cars
+47A. Renewal of licences 48. Revocation and suspension of licence 49. Transfer of licences 50. Limitation of age of self-drive cars
 
 Chauffeur Licences
 
@@ -106,19 +104,19 @@ PART IVA
 
 Drivers’ Hours
 
-66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66CA. Authorisation of field tests. 66D. Installation and use of recording equipment - EU requirements. 66DA. Installation and use of recording equipment - AETR requirements. 66DB. Supply of recording equipment which is not type-approved. 66DBA. Manual daily record sheet. 66DC. Recording equipment system elements: security vulnerabilities.
+66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66CA. Authorisation of field tests. 66D. Installation and use of recording equipment - EU requirements. 66DA. Installation and use of recording equipment - AETR requirements. 66DB. Supply of recording equipment which is not type-approved. 66DBA. Manual daily record sheet.
 
-66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data. 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records. 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66TA. Power to stop. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66WA. Exchange of information with AETR competent authorities. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
+66DC. Recording equipment system elements: security vulnerabilities. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data. 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records. 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66TA. Power to stop. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66WA. Exchange of information with AETR competent authorities. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
 
 PART V
 
 FINAL PROVISIONS
 
-67. Appeals 68. Rules of court 69. Regulations 70. Forgery, etc., of licences and certificates 71. Duty to give information 72. General Penalty 73. Avoidance of contracts 74. Saving of rights 75. Nuisances 76. Repeals and consequential amendments 77. Transitional provisions
+67. Appeals 68. Rules of court 69. Regulations 70. Forgery, etc., of licences and certificates 71. Duty to give information 72. General Penalty 72A. Administrative penalties. 72B. Notice of administrative penalty. 72C. Issue of notice or penalty. 72D. Appeal. 73. Avoidance of contracts 74. Saving of rights
 
-SCHEDULE 1
+75. Nuisances 76. Repeals and consequential amendments 77. Transitional provisions
 
-Supplementary provisions as to qualifications for operator licences.
+SCHEDULE 1 Supplementary provisions as to qualifications for operator licences.
 
 SCHEDULE 2 Deleted
 
