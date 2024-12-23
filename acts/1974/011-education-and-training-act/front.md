@@ -14,7 +14,7 @@ Act. 1976-24 s. 73
 
 14.6.2007 2009-09 s. 73(2), (v)-(vi), (2D) 15.1.2009 LN. 2012/202 ss. 53A-53C 29.11.2012 Act. 2023-19 ss. 2(1)-(3), (3A), (4)-(5), 3-5, 6(1)-(2), 8(2)(d), (f)- (g), (i)-(k), 8A, 9, 14(1), (2)(b), 16(1)-(2), 17, (b), (d), (g), 17A 19, 20A, 22-23, 24A-24E, 25, 25A- 25E, 27(c), 29(1), 30(3), 35, 37-38, 40, 41(1), (2), (d)-(g), (4), 42(1), (1A), (2)-(5), 43(1), 43A, 44A, 45-46, 47(1)-(3), (5), 47A-47D, 48, 48A-48C, 49- 50, 51(1)-(5), (5A), 52(1)-(2), (a)-(e), (3), 53(a)-(c), 53B-53C, 54(1), (1A), (2)-(3), (3A), (4), 56(1), (2A), (3)-(4), (4A), (5), 58(1), (aa)-(bb), (2), 59, 81, 82(1)(ii), (xv), (xxv), (xix), (xliii)-(xlvii), (1A)(e)- (f), 83(ca), 86(1)(b)-(c), Sch
 
-27.7.2023
+27.7.2023 2024-19 ss. 2(1), 63(1)-(2), 66 23.12.2024
 
 Transposing: Directive 77/486/EEC Directive 2001/55/EC Directive 2003/9/EC Directive 2004/83/EC
 
@@ -38,9 +38,9 @@ PART III. POLICY.
 
 PART IV. THE STATUTORY SYSTEM OF EDUCATION.
 
-18. Stages of educational system. 19. Provision of primary and secondary schools. 20. Powers to establish primary and secondary schools.
+18. Stages of educational system. 19. Provision of primary and secondary schools. 20. Powers to establish primary and secondary schools. 20A. Minimum number of secondary schools.
 
-20A. Minimum number of secondary schools. 21. Use of school premises. 22. School committees. 23. Appointment, dismissal and transfer of teachers. 24. Appointment of headteachers. 24A. Responsibility for discipline. 24B. Determination by headteacher of behaviour policy. 24C. Meaning of “disciplinary penalty” 24D. Enforcement of disciplinary penalties. 24E. Enforcement of disciplinary penalties: detention outside school sessions. 25. Power of suspension. 25A. Duty of Director where pupil has been suspended or excluded. 25B. Reintegration interviews. 25C. Form of request and timing of interview 25D. Duty of parent in relation to suspended pupil. 25E. Notice to parent relating to suspended pupil. 26. Secular instruction in Government schools. 27. General duties relating to further education. 28. Powers to establish institutions of further education. 29. Committees for colleges of further education. 30. Revision of facilities for recreation, etc.
+21. Use of school premises. 22. School committees. 23. Appointment, dismissal and transfer of teachers. 24. Appointment of headteachers. 24A. Responsibility for discipline. 24B. Determination by headteacher of behaviour policy. 24C. Meaning of “disciplinary penalty” 24D. Enforcement of disciplinary penalties. 24E. Enforcement of disciplinary penalties: detention outside school sessions. 25. Power of suspension. 25A. Duty of Director where pupil has been suspended or excluded. 25B. Reintegration interviews. 25C. Form of request and timing of interview 25D. Duty of parent in relation to suspended pupil. 25E. Notice to parent relating to suspended pupil. 26. Secular instruction in Government schools. 27. General duties relating to further education. 28. Powers to establish institutions of further education. 29. Committees for colleges of further education. 30. Revision of facilities for recreation, etc.
 
 PART V. INDEPENDENT SCHOOLS.
 
@@ -52,7 +52,9 @@ PART VI. GRANTS-IN-AID.
 
 PART VII. RELIGIOUS EDUCATION.
 
-41.  Advisory Council on religious education. 42. General provisions on religious education. 43.  Ministers of religion shall be authorized to give religious instruction. 43A. Excuses from attendance at religious worship or religious instruction. 44.  Saving as to position of teachers.
+41.  Advisory Council on religious education. 42. General provisions on religious education.
+
+43.  Ministers of religion shall be authorized to give religious instruction. 43A. Excuses from attendance at religious worship or religious instruction. 44.  Saving as to position of teachers.
 
 PART VIII. SEND.
 
@@ -72,7 +74,9 @@ Measures for the education of EEA nationals
 
 PART X. HEALTH.
 
-54. Medical examination. 55. Treatment. 56. Power to ensure cleanliness. 57.  Power to close schools in interests of public health. 58.  Entry into school prohibited because of notifiable disease. 59.  Directions as to notifiable diseases.
+54. Medical examination. 55. Treatment.
+
+56. Power to ensure cleanliness. 57.  Power to close schools in interests of public health. 58.  Entry into school prohibited because of notifiable disease. 59.  Directions as to notifiable diseases.
 
 PART XI. EMPLOYMENT AND WELFARE.
 
@@ -84,7 +88,9 @@ PART XII. MISCELLANEOUS.
 
 PART XIII. TRANSITIONAL AND REPEAL.
 
-87. Omitted. 88. Omitted. 89. Omitted.
+87. Omitted.
+
+88. Omitted. 89. Omitted.
 
 SCHEDULE.
 
