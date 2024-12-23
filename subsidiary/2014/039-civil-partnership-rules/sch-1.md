@@ -28,7 +28,9 @@ Note:
 
 1.  You must complete the accompanying acknowledgement of service and send it so as to reach the Court within fourteen days after you receive this summons.
 
-In the Supreme Court of Gibraltar Application No.
+In the Supreme Court of Gibraltar
+
+Application No.
 
 Petitioner/Applicant (including ref)
 
@@ -42,29 +44,9 @@ The Supreme Court office at is open between __ am and __ pm Monday to Friday. Wh
 
 If you do not do so, your correspondence may be returned.
 
-FORMCP5 Rules 12(3), 16 and 23(3)
+FORM-CP5 Rules 12(3), 16 and 23(3)
 
-NOTICE OF APPLICATION/ PROCEEDINGS
-
-TAKE NOTICE that a petition for dissolution has been presented to the Court. A sealed copy of it [and a copy of the petitioner's statement of arrangements regarding the children] is/ are delivered with this notice.
-
-1.  You must complete and detach the acknowledgement of service in FORM- CP6 and send it so as to reach the Registry of the Supreme Court, Main Street, Gibraltar, within 14 days after you receive this notice, inclusive of the day of receipt. Delay in returning the form may add to the costs.
-
-2.  If you intend to instruct a Lawyer to act for you, you should at once give him all documents which have been served on you, so that he may send the acknowledgement to the Registrar on your behalf.  If you do not intend to instruct a Lawyer, you should nevertheless give an address for service in the acknowledgement so that any documents affecting your interests which are sent to you will in fact reach you. Any change of address should be notified to the Registrar.
-
-NOTES ON QUESTIONS IN FORM –CP6
-
-3.  If you answer Yes to Question 4 or 7, you must within 35 days after you receive this notice, inclusive of the day of receipt, file in the Registry, an answer to the petition, and deliver a copy to every other party to the proceedings. The case will then be transferred to the Supreme Court.
-
-4.  Before you answer Yes to Question 5, you should understand that
-
-(a) you are under no obligation to answer this question but you may do so if you wish;
-
-(b) the answer Yes will be treated by the Court as an admission on which the petitioner is entitled to rely and may result in an order for costs being made against you; and
-
-(c) if you are in any doubt about the answer to give you should consult a Lawyer.
-
-5.  Before you answer Yes to Question 6 you should understand that In the Supreme Court of Gibraltar
+NOTICE OF APPLICATION/PROCEEDINGS
 
 Application No.
 
@@ -72,103 +54,97 @@ Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-(a) if the petitioner satisfies the Court that the petitioner and you have lived apart for 2 years immediately before the presentation of the petition and that you consent to an order, the Court will grant one unless it considers that the dissolution has not broken down irretrievably;
+TAKE NOTICE that a petition for dissolution / judicial separation / nullity [delete as appropriate] has been presented to the Court. A sealed copy of it [and a copy of the Petitioner’s statement of arrangements regarding the children] is / are delivered with this notice.
 
-(b) a final order of dissolution will end your civil partnership so that
+1.  You must complete and detach the acknowledgment of service in FORM-CP6 and send it so as to reach the Registry of the Supreme Court, Main Street, Gibraltar, within 8 days after you receive this notice, exclusive of the day of receipt. Delay in returning the form may add to the costs.
 
-(i) any right you may have to a pension which depends on the civil partnership continuing will be affected,
+2.  If you intend to instruct a Lawyer to act for you, you should at once give him or her all documents which have been served on you, so that he or she may send the acknowledgment to the Registrar on your behalf. If you do not intend to instruct a Lawyer, you should nevertheless give an address for service in the acknowledgment so that any documents affecting your interests which are sent to you will in fact reach you. Any change of address should be notified to the Registrar.
 
-(ii) you will not be able to claim a State widow's pension when the petitioner dies,
+NOTES ON QUESTIONS IN FORM-CP6
 
-(c) once the Court grants a final order of dissolution or an order for judicial separation, you will lose your right to inherit from the petitioner if he or she dies without having made a will;
+3.  If you answer Yes to Question 6, you must within 22 days after you receive this notice, exclusive of the day of receipt, file in the Registry, an answer to the petition, and deliver a copy to every other party to the proceedings.
 
-(d) an order may have other consequences in your case depending on your particular circumstances and if you are in any doubt about these you would be well advised to consult a Lawyer.
+4.  If you answer No to Question 6 and after indicating that you do not wish to defend the case you wish to defend the case, you must immediately inform the Registry and give notice to the Petitioner. In the Supreme Court of Gibraltar
 
-6.  If after consenting you wish to withdraw your consent you must immediately inform the Registry and give notice to the petitioner.
+5.  If you answer Yes to Question 7 you must, make an application to the Court by filing and serving on the Petitioner a notice in FORM- CP13.
 
-7.  The petitioner relies in support of the petition on the fact that the parties to the civil partnership have lived apart for at least 3 years. Section 29 of the civil partnership Act provides that if in such a case the respondent applies to the Court for it to consider the respondent's financial position after the dissolution, a final order based on 3 years’ separation only cannot be made final unless the Court is satisfied that the petitioner has made or will make proper financial provision for the respondent, or else that the petitioner should not be required to make any financial provision for the respondent. The petition will tell you whether the petitioner proposes to make any financial provision for you. It is important that you should consider this information carefully before answering Question 7 in the acknowledgement.
+6.  Question 8:-
 
-8.  If you answer Yes to Question 8 you must, before the order is made final, make application to the Court by filing and serving on the petitioner a notice in FORM- CP12.
+(a) If you do not wish to defend the case but object to the claim for costs, you should answer Yes to Question 8 in the acknowledgment. You must state the grounds on which you object. An objection cannot be entertained unless grounds are given which, if established, would form a valid reason for not paying the costs. If such grounds are given, you will be notified of a date on which you must attend before the Judge if you wish to pursue your objection.
 
-9. (a) If you do not wish to defend the case but object to the claim for costs, you should answer Yes to Question 9 in the acknowledgement. You must state the grounds on which you object. An objection cannot be entertained unless grounds are given which, if established, would form a valid reason for not paying the costs. If such grounds are given, you will be notified of a date on which you must attend before the judge if you wish to pursue your objection.
+(b) If you do not object to the claim for costs but simply wish to be heard on the amount to be allowed, you should answer No to Question 8.
 
-(b) If you do not object to the claim for costs but simply wish to be heard on the amount to be allowed, you should answer No to Question 9.
+(c) If you are ordered to pay costs, the amount will, unless agreed between the Petitioner and yourself, be fixed by the Court, or will be taxed by the Commissioner of Income Tax, after lodgement of the Petitioner’s bill of costs. In the latter event, you will be sent a copy of the bill and will have the right to be heard about the amount before it is finally settled.
 
-(c) If you are ordered to pay costs, the amount will, unless agreed between the petitioner and yourself, be fixed by the Court, or will be taxed by the Commissioner of Income Tax, after lodgement of the petitioner's bill of costs. In the latter event, you will be sent a copy of the bill and will have the right to be heard about the amount before it is finally settled.
+7.  Please answer Question 9. If your answer to Question 9(b) is Yes make sure you sign the form at the end.
 
-10.  Please answer Question 10. If your answer to Question 10(b) is Yes make sure you sign the form at the end.
+8. If you wish to make an application for-
 
-11.  If you wish to make an application for–
+- A residence order - A contact order - A specific issue order - A prohibited steps order in respect of a child you will have to make a separate application in the prescribed form.
 
-— a residence order
+Before you apply for any of these orders or any other order which may be available to you under the Children Act 2009 you are advised to see a Lawyer.
 
-— a contact order
+9.  If you wish to contest the Petitioner’s financial or property claim, you will have an opportunity of doing so when you receive a notice stating that the Petitioner intends to proceed with the claim. You will then be required to file an affidavit giving particulars of your property and income and be notified of the date when the claim is to be heard.
 
-— a specific issue order
+10.  If you wish to make some financial or property claim on your own account, you will have to make a separate application. If you are in doubt as to the consequences of dissolution on your financial position, you should obtain legal advice from a Lawyer.
 
-— a prohibited steps order
+Dated this      day of
 
-in respect of a child you will have to make a separate application on the prescribed form under the Family Proceedings (Children) Rules 2010.  Before you apply for any of these orders or any other order which may be available to you under the Children Act 2009 you are advised to see a Lawyer.
-
-12.  If you wish to contest the petitioner’s financial or property claim, you will have an opportunity of doing so when you receive a notice stating that the petitioner intends to proceed with the claim. You will then be required to file an affidavit giving particulars of your property and income and be notified of the date when the claim is to be heard.
-
-13.  If you wish to make some financial or property claim on your own account, you will have to make a separate application.  If you are in doubt as to the consequences of dissolution on your financial position, you should obtain legal advice from a Lawyer.
-
-Dated this         day of          20             .
-
-The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
+The Supreme Court office at 277 Main Street, Gibraltar is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
 
-FORMCP6
+FORM-CP6
 
 Rules 11(5), 12(3), 16, 17(3), 19(c), 20 and 23(3)
 
 ACKNOWLEDGEMENT OF SERVICE
 
-If you intend to instruct a Lawyer to act for you, give him this form immediately.
-
-Read carefully the Notice of Proceedings before answering the following questions.
-
-1.  Have you received the originating summons delivered with this form?
-
-2.  On what date and at what address did you receive it?
-
-3.  Are you the person named as Respondent?
-
-4.  Do you intend to defend the case?
-
-5.  [In the case of a petition alleging adultery] Do you admit the adultery alleged in the petition?
-
-6.  [In the case of a petition alleging 2 years’ judicial separation coupled with the respondent's consent to an order being granted]. Do you consent to an order being granted?
-
-7.  [In the case of a petition asking for dissolution alleging 3 years' separation]. Do you intend to oppose the grant of an order on the ground that the dissolution will result in grave financial or other hardship to you and that in all the circumstances it would be wrong to dissolve the civil partnership?
-
-8.  In the event of an order being made final on the basis of 2 years’ separation, coupled with the respondent's consent, or 3 years’ separation, do you intend to apply to the Court for it to consider your financial position as it will be after the dissolution?
-
-9.  Even if you do not intend to defend the case, do you object to paying the costs of the proceedings?  If so, on what grounds? In the Supreme Court of Gibraltar
-
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-10.(a)  Have you received a copy of the Statement of Arrangements for Children?
+If you intend to instruct a Lawyer to act for you, give him or her, this form immediately.
 
-(b) Do you agree with the proposals in that Statement of Arrangements?  If not you may file a written statement of your own views on the present and proposed arrangements for the children. It would help if you sent that statement to the Court office with this form.
+Read carefully the Notice of Proceedings before answering the following questions.
 
-Dated this         day of           20          . Signed
+1.  Have you received the Originating Petition delivered with this form?
+
+2.  On what date and at what address did you receive it?
+
+3.  In the case of dissolution proceedings or judicial separation proceedings, have you received the notice of intention to dissolve in Form – CP27 or notice of intention of judicial separation in Form – CP28?
+
+4.  On what date and at what address did you receive it?
+
+5.  Are you the person named as Respondent?
+
+6.  In the case of nullity proceedings, do you intend to defend the case?
+
+7.  Do you intend to apply to the Court for it to consider your financial position as it will be after dissolution?
+
+8.  In the case of nullity proceedings if you do not intend to defend the case, do you object to paying the costs of the proceedings? If so, on what grounds?
+
+In the Supreme Court of Gibraltar
+
+9.(a)  Have you received a copy of the Statement of Arrangements for Children?
+
+(b) Do you agree with the proposals in that Statement of Arrangements? If not you may file a written statement of your own views on the present and proposed arrangements for the children. It would help if you sent that statement to the Court office with this form.
+
+Dated this    day of   20
+
+Signed:
 
 Address for service [unless you intend to instruct a Lawyer] give your place of residence, or if you do not reside in Gibraltar, the address of a place to which documents may be sent to you. If you subsequently wish to change your address for service, you must notify the Registry of the Supreme Court.
 
-[I am [We are] acting for the Respondent [or the above-named           in this matter].
+[I am [We are] acting for the Respondent [or the above-named                   in this matter].
 
-Signed Address for service:
+Signed:
 
-The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
+Address for service:
 
-If you do not do so, your correspondence may be returned.
+The Supreme Court office at 277 Main Street, Gibraltar is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number. If you do not do so, your correspondence may be returned.”.
 
 FORMCP7
 
@@ -194,7 +170,9 @@ Before you issue a petition for dissolution try to reach agreement with your civ
 
 If your civil partner does not agree with the proposals he/she will have an opportunity at a later stage to state why he/she does not agree and will be able to make his/her own proposals.
 
-You should take or send the completed form, signed by you (and, if agreement is reached, by your civil partner) together with a copy to the Court when you issue your petition. Please refer to the explanatory notes issued regarding completion of the prayer of the petition if you are asking the Court to make any order regarding the children.
+You should take or send the completed form, signed by you (and, if agreement is reached, by your civil partner) together with a copy to the Court when you issue your petition.
+
+Please refer to the explanatory notes issued regarding completion of the prayer of the petition if you are asking the Court to make any order regarding the children.
 
 If you wish to apply for any of the orders which may be available to you under the Children Act 2009 you are advised to see a Lawyer.
 
@@ -286,9 +264,7 @@ Yes (please give details)
 
 5. Education and training details
 
-(Please tick the appropriate boxes)
-
-(a) Give the names of the school, college or place of training attended by each child.
+(Please tick the appropriate boxes) (a) Give the names of the school, college or place of training attended by each child.
 
 (b) Do the children have any special educational needs? No
 
@@ -398,9 +374,9 @@ Yes (please give details including any Court proceedings)
 
 Yes (please give details of the local authority and the date of registration)
 
-(c) Are there or have there been any proceedings in any Court No
+(c) Are there or have there been any proceedings in any Court involving the children, for example adoption surrogacy, custody/residence, access/contact, wardship, No
 
-Yes (please give details and involving the children, for example adoption surrogacy, custody/residence, access/contact, wardship, care, supervision or maintenance? send a copy of any order to the Court)
+Yes (please give details and send a copy of any order to the Court) care, supervision or maintenance?
 
 PART III – TO THE PETITIONER
 
@@ -452,15 +428,13 @@ This statement must be sworn before an Officer of the Court, a Lawyer or a Commi
 
 PART 1- GENERAL INFORMATION
 
-In the Supreme Court of Gibraltar
+1.1 Full Name In the Supreme Court of Gibraltar
 
 Application/Case No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-1.1 Full Name
 
 1.2 Date of Birth
 
@@ -476,7 +450,7 @@ Date Month Year
 
 Tick here       if not applicable
 
-1.6 Date of the:
+1.6 Date of  the:
 
 Petition Conditional Order/Judicial Separation Order Final Order Date
 
@@ -736,9 +710,7 @@ Nature of income and date your accounti ng year begins Details of the last two a
 
 Year 1 Year 2 Ye ar 1 Year 2 Yea r 1 Year 2
 
-Net income SINCE Net Incom e Esti mate You must attach the accounts for the last two date of last accounts and estimate for the whole year
-
-completed accounting years
+Net income SINCE date of last accounts and estimate for the whole year Net Incom e Esti mate You must attach the accounts for the last two completed accounting years
 
 2.20 Investment income (e.g. dividends, interest). Give details of net income received in the last financial year, and in the current financial year, and state whether it was paid gross of net of income tax.  You are not required to calculate any tax payable that may arise.
 
@@ -766,9 +738,7 @@ Reference of the section on this statement Value Net value of your interest in t
 
 A
 
-Total current value of all your interest in the other realisable assets
-
-B
+Total current value of all your interest in the other realisable assets B
 
 Total net value of your liabilities
 
@@ -914,7 +884,9 @@ The Supreme Court office at is open between __ am and __ pm Monday to Friday. Wh
 
 If you do not do so, your correspondence may be returned.
 
-In the Supreme Court of Gibraltar Application No.
+In the Supreme Court of Gibraltar
+
+Application No.
 
 Petitioner/Applicant (including ref)
 
@@ -966,33 +938,7 @@ Where a will has already been made by either party to the civil partnership then
 
 (a) any appointment of the former civil partner as an executor or trustee is treated as if omitted; and
 
-(b) any gift in the will to the former civil partner lapses. In the Supreme Court of Gibraltar
-
-Application No.
-
-Petitioner/Applicant (including ref)
-
-Respondent/Defendant
-
-The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
-
-If you do not do so, your correspondence may be returned.
-
-FORM CP12 Rule 55(1)
-
-NOTICE OF AN APPLICATION UNDER RULE 55 TO CONSIDER THE FINANCIAL POSITION OF THE RESPONDENT AFTER DISSOLUTION.
-
-The Civil Partnership of                                    and
-
-TAKE NOTICE that the respondent applies to the Court under section 29(1) of the Civil Partnership Act for the Court to consider the financial position of the respondent after the dissolution.
-
-The application will be heard on a date to be fixed [or if, in the case of an application made after a conditional order], a date has been fixed by the Court in chambers at    on       day, the day of       20        , at        o’clock.
-
-TAKE NOTICE ALSO that you must within 14 days after you receive this notice, file in the Registry an affidavit giving full particulars of your property and income. You must at the same time send a copy of your affidavit to the [Lawyer for the] respondent.
-
-If you wish to allege that the respondent has property or income, you should say so in your affidavit.
-
-(Signed)                 Dated this                 day of             20     . [Lawyer for the] Respondent
+(b) any gift in the will to the former civil partner lapses.
 
 In the Supreme Court of Gibraltar
 
@@ -1005,6 +951,10 @@ Respondent/Defendant
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
+
+__________________________________________
+
+FORM CP12 Omitted
 
 FORM–CP13 Rules 58, 59(1) and 64(1)
 
@@ -1038,15 +988,15 @@ for a step-child or stepchildren
 
 to meet expenses arising from a child's disability;
 
-to meet expenses incurred by a child being In the Supreme Court of Gibraltar
+to meet expenses incurred by a child being educated or training for work; or
+
+In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
-Respondent/Defendant educated or training for work; or
-
-when either the child or the person with care of the child or the absent parent of the child is not habitually resident in Gibraltar.
+Respondent/Defendant when either the child or the person with care of the child or the absent parent of the child is not habitually resident in Gibraltar.
 
 on some other ground (please specify) or that
 
@@ -1084,13 +1034,13 @@ The First Appointment will be heard by
 
 on                                               20
 
-In the Supreme Court of Gibraltar
+at                                                [a.m.] [p.m.] In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
-Respondent/Defendant at                                                [a.m.] [p.m.]
+Respondent/Defendant
 
 The probable length of the hearing is
 
@@ -1282,7 +1232,9 @@ Status: Hourly Rate Claimed: £
 
 SUMMARY OF COSTS STATEMENT
 
-In the Supreme Court of Gibraltar Application No.
+In the Supreme Court of Gibraltar
+
+Application No.
 
 Petitioner/Applicant (including ref)
 
@@ -1418,9 +1370,7 @@ PART 8
 
 Prescribed rates for publicly funded services £ Indemnity Rate
 
-£ 26. TOTAL OF SECTION E
-
-(Total estimated costs of implementing proposed order)
+£ 26. TOTAL OF SECTION E (Total estimated costs of implementing proposed order)
 
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
@@ -1450,7 +1400,9 @@ If you object to the making of such a Periodical Payments Order, you must notify
 
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
-If you do not do so, your correspondence may be returned. In the Supreme Court of Gibraltar
+If you do not do so, your correspondence may be returned.
+
+In the Supreme Court of Gibraltar
 
 Application No.
 
@@ -1490,15 +1442,15 @@ A. Transferor’s Details:
 
 (iv) The Transferor’s address:
 
-B. Transferee’s Details: In the Supreme Court of Gibraltar
+B. Transferee’s Details:
+
+(i) The full name by which the Transferee is known: In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-(i) The full name by which the Transferee is known:
 
 (ii) All names by which the Transferee has been known:
 
@@ -1532,11 +1484,9 @@ or
 
 E.  Have you filed FORM-CP26 (Statement of Information for a Consent Order)* under rule 63?
 
-Yes
+If Yes delete the text opposite Yes
 
 No
-
-If Yes delete the text opposite
 
 The parties certify that:
 
@@ -1566,19 +1516,17 @@ G. In the case of external transfer only (recommended but optional information)
 
 Please complete boxes H to J where applicable.
 
-H.  Where the credit is derived from an occupational Scheme which is being wound up, has the Transferee indicated whether he wishes to transfer his pension credit rights to a qualifying arrangement.
-
-Yes
+H.  Where the credit is derived from an occupational Scheme which is being wound up, has the Transferee indicated whether he wishes to transfer his pension credit rights to a qualifying arrangement. Yes
 
 No
 
-I.  Where the pension arrangement has requested details of the Transferor’s health has that information been provided?
-
-Yes
+I.  Where the pension arrangement has requested details of the Transferor’s health has that information been provided? Yes
 
 No
 
-J.  Where the pension arrangement has requested further information has that information been provided? Yes
+J.  Where the pension arrangement has requested further information has that information been provided?
+
+Yes
 
 No
 
@@ -1596,9 +1544,7 @@ Take notice that you must discharge your liabilities within the period of 4 mont
 
 ¤ the day on which this order takes effect, or
 
-¤ the first day on which you are in receipt of
-
-a. the pension sharing order including this annex and where appropriate any attachment;
+¤ the first day on which you are in receipt of a. the pension sharing order including this annex and where appropriate any attachment;
 
 b. in a case of dissolution or annulment, a copy of the order of dissolution or nullity of the civil partnership and a copy of the certificate that the order has been made final;
 
@@ -1644,15 +1590,13 @@ The annex to the order provides the pension arrangement with the information req
 
 (ii) Policy Reference Number
 
-In the Supreme Court of Gibraltar
+(iii) if appropriate, such other details to enable the pension arrangement to be identified In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-(iii) if appropriate, such other details to enable the pension arrangement to be identified
 
 4 .
 
@@ -1730,15 +1674,13 @@ Tel
 
 Signature …………………………………………………… of Pension Scheme member or policy holder
 
-In the Supreme Court of Gibraltar
+(The scheme member’s signature is necessary to authorise the release of the requested information, unless a Court order requiring the information is attached to this form). In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-(The scheme member’s signature is necessary to authorise the release of the requested information, unless a Court order requiring the information is attached to this form).
 
 B. To be completed by the pension arrangement.
 
@@ -1802,11 +1744,11 @@ No
 
 When did the winding up commence, and give the name and address of the trustees who are dealing with the winding up.
 
-3.  In the case of an occupational pension scheme only assuming that a calculation of the member’s CETV was carried out on the day the pension scheme received modification that a pension sharing order may be made, would that CETV be reduced?
+3.  In the case of an occupational pension scheme only assuming that a calculation of the member’s CETV was carried out on the day the pension
 
 Yes
 
-No
+No scheme received modification that a pension sharing order may be made, would that CETV be reduced?
 
 4.  As far as you are aware are the member’s rights under the pension scheme subject to any of the following:
 
@@ -1912,7 +1854,9 @@ To the person responsible for the pension arrangement: *(delete as appropriate)
 
 *the day on which this order takes effect, or
 
-*the first day on which you are in receipt of a. the pension sharing order including this annex and where appropriate any attachment;
+*the first day on which you are in receipt of
+
+a. the pension sharing order including this annex and where appropriate any attachment;
 
 b. in the case of a dissolution or annulment, a copy of the order of dissolution or annulment of the civil partnership and a copy of the certificate that the order has been made final;
 
@@ -1988,13 +1932,13 @@ And
 
 3.  On the                              day of                                 20  , I entered into a civil partnership
 
-4. There is *[are] [no [ or state number] child[ren] of the family [namely [state the full name (including surname) of each child now living and his date of birth or, if it be the case, that he is over 18 and, in the case of each child over the age of 16, whether he is or will be, or if an order or provision were made would be, receiving instruction at an education establishment or undergoing training for a trade, profession or vocation] who is now residing at [state the place] with [state the person] [and [state name of any child who has died since the date of the agreement] who died on the In the Supreme Court of Gibraltar
+4. There is *[are] [no [ or state number] child[ren] of the family [namely [state the full name (including surname) of each child now living and his date of birth or, if it be the case, that he is over 18 and, in the case of each child over the age of 16, whether he is or will be, or if an order or provision were made would be, receiving instruction at an education establishment or undergoing training for a trade, profession or vocation] who is now residing at [state the place] with [state the person] [and [state name of any child who has died since the date of the agreement] who died on the day of                                 20  .] [The agreement also makes financial arrangements for [give similar particulars of any other child for whom the agreement makes such arrangements]]. In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
-Respondent/Defendant day of                                 20  .] [The agreement also makes financial arrangements for [give similar particulars of any other child for whom the agreement makes such arrangements]].
+Respondent/Defendant
 
 5. There have been no previous proceedings in any court with reference to the agreement or to the civil partnership [or to the child(ren) of the family] [or to the other child(ren) for whom the agreement makes financial arrangements] or between the applicant and the respondent with reference to any property of either or both of them [except state the nature of the proceedings and the date and effect or any order].
 
@@ -2064,15 +2008,13 @@ TAKE NOTICE that
 
 1. A copy of the affidavit to be used in support of the application is delivered herewith.
 
-In the Supreme Court of Gibraltar
+2. You must complete the accompanying acknowledgement of service and send it so as to reach the Court within eight days after you receive this summons. In the Supreme Court of Gibraltar
 
 Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
-
-2. You must complete the accompanying acknowledgement of service and send it so as to reach the Court within eight days after you receive this summons.
 
 3. [If the respondent is a personal representative of the deceased: You must also file an affidavit in answer to the applicant’s application containing full particulars of the deceased’s estate for probate, after providing for the discharge of the funeral, testamentary and administration expenses, debts and liabilities, including the amount of the estate duty and interest thereon, and the persons or classes of persons beneficially interested in the estate, with the names and addresses of all living beneficiaries and stating whether any beneficiary is a minor or incapable , by reason of mental disorder, of managing and administering his property and affairs.]
 
@@ -2110,13 +2052,15 @@ TAKE NOTICE THAT an application [in case of a failure to provide reasonable main
 
 1.  You must complete the acknowledgement of service and send it so that it reaches the Court within 14 days after you receive this notice. Delay in returning this form may add to the costs.
 
-In the Supreme Court of Gibraltar Application No.
+2.  If you intend to instruct a Lawyer to act for you, you should at once give him all the documents that have been served on you, so that he may send the acknowledgement to the In the Supreme Court of Gibraltar
+
+Application No.
 
 Petitioner/Applicant (including ref)
 
 Respondent/Defendant
 
-2.  If you intend to instruct a Lawyer to act for you, you should at once give him all the documents that have been served on you, so that he may send the acknowledgement to the Court on your behalf. If you do not intend to instruct a Lawyer, you should give an address in the acknowledgement of service so that any documents affecting your interests which are sent to you will, in fact, reach you. This address should be your place of residence or, if you do not reside in Gibraltar the address of a place in Gibraltar to which documents may be sent to you. Please make certain that you notify the Court immediately if you change your address.
+Court on your behalf. If you do not intend to instruct a Lawyer, you should give an address in the acknowledgement of service so that any documents affecting your interests which are sent to you will, in fact, reach you. This address should be your place of residence or, if you do not reside in Gibraltar the address of a place in Gibraltar to which documents may be sent to you. Please make certain that you notify the Court immediately if you change your address.
 
 3.  Where the application is for failure to provide reasonable maintenance and you wish to challenge the jurisdiction of the Court to hear the application, you must file in the Court an affidavit setting out the grounds of your challenge. Where you do not wish to challenge the jurisdiction of the Court (or where the Court decides the question of jurisdiction in the applicant's favour) you must file an affidavit stating:
 
@@ -2174,7 +2118,9 @@ Duration of civil partnership:
 
 Age of Parties:
 
-Petitioner___________ Respondent ___________ Minor (i.e. under the age of 18) or dependent children Summary of means
+Petitioner___________ Respondent ___________ Minor (i.e. under the age of 18) or dependent children
+
+Summary of means
 
 Give as the date of the statement the approximate amount or value of capital resources and net income of petitioner and respondent and, where relevant, of minor children of the family. State also the net equity in any property concerned and the effect of its proposed distribution.
 
@@ -2235,3 +2181,75 @@ Date: _________________
 The Supreme Court office at is open between __ am and __ pm Monday to Friday. When corresponding with the Court, please address forms or letters to the Registrar and quote the case number.
 
 If you do not do so, your correspondence may be returned.
+
+FORM – CP27
+
+NOTICE OF INTENTION TO DISSOLVE CIVIL PARTNERSHIP Rule 12(3)
+
+Application No.
+
+Petitioner/Applicant (including ref)
+
+Respondent/Defendant
+
+TAKE NOTICE that the Petitioner herein intends to petition for dissolution on the basis of the irretrievable breakdown of the civil partnership with the Respondent.
+
+Signed
+
+(Petitioner)
+
+Dated this           day of                20
+
+In the Supreme Court of Gibraltar
+
+FORM – CP28
+
+NOTICE OF INTENTION OF JUDICIAL SEPARATION
+
+Rule 12(3)
+
+Application No.
+
+Petitioner/Applicant (including ref)
+
+Respondent/Defendant
+
+TAKE NOTICE that the Petitioner herein intends to petition for judicial separation.
+
+Signed
+
+(Petitioner)
+
+Dated this           day of                20
+
+In the Supreme Court of Gibraltar
+
+FORM – CP29
+
+ORIGINATING SUMMONS Rule 90(1)
+
+In the matter of a proposed application for financial relief following an overseas dissolution, annulment or legal separation.
+
+Application No.
+
+Petitioner/Applicant (including ref)
+
+Respondent/Defendant
+
+Let [                     ] of [       ] attend the Judge in Chambers at [               ] on the [     ] day of [                 ] 20 [    ] at [             ] o’clock in the [    ] noon on the hearing of an application of [                   ] for an order that the said [             ] may be at liberty to file an application for financial relief following an overseas dissolution / annulment / legal separation.
+
+A copy of the affidavit to be used in support of the application is delivered herewith.
+
+If you wish to oppose the application, you must file in the Supreme Court of Gibraltar and serve on the applicant within 14 days an affidavit setting out the grounds upon which you wish to oppose the application.
+
+If you wish to be heard on the application, you must attend at the time and place above mentioned and if you do not attend, such order will be made and proceedings taken as the Judge may think just and expedient.
+
+Dated this [            ] day of [                            ] 20 [            ].
+
+THIS SUMMONS was taken out by [                       ] lawyer for the above named.
+
+In the Supreme Court of Gibraltar
+
+1. In default of you filing an affidavit setting out the grounds upon which you oppose the application, the Court will proceed to hear and determine the application and make such order thereon as it may think fit, notwithstanding your absence.
+
+2. If you intend to instruct a lawyer to act for you, you should at once give him all the documents served on you, so that he may take the necessary steps on your behalf.
