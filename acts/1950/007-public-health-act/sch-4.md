@@ -37,3 +37,5 @@ Section 310(3) the gross
 than a dwellinghouse value
 
 _____________________________
+
+SCHEDULES 5 - 11 Repealed

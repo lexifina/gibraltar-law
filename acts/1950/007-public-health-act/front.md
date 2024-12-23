@@ -158,19 +158,19 @@ LN. 2011/052 ss. 192A, 192B(2)(bb), (e), (3), (3A), 192BA, 192C(3a) (aa)-(ac), (
 
 1.1.2021 2020/531 ss. 192A(1), 192B(3)(g), 192BA(2)-(3), 192C(3)(c)(i), 192DA(5), 192JC(1), 192JD(1)- (3), 192KA(8), (8A), 192M(1B)(b), 192U, 192W(1), 192X-192Y
 
-1.1.2021 Act. 2021-20 ss. 92A, 93(3), Sch. 21 30.7.2021 2023-11 s. 218(3) 15.1.2024
+1.1.2021 Act. 2021-20 ss. 92A, 93(3), Sch. 21 30.7.2021 2023-11 s. 218(3) 15.1.2024 2024-17 ss. 180A-180X 23.12.2024 2024-29 ss. 95A-95U, Schs. 6-11 23.12.2024
 
 Power to depute: The power to depute conferred by s.41 of the Interpretation and General Clauses Act has been extended to the Accountant General in relation to the Public Health Act.
 
-English sources: Waterworks Clauses Act  1847 (10 & 11 Vict. c.17) Towns Improvement Clauses Act 1847 (10 & 11 Vict. c.34) Poor Rate Assessment and Collection Act 1869 (32 & 33 Vict. c.41) Public Health Act 1875 (38 & 39 Vict. c.55) Public Health Acts Amendment Act 1890 (53 & 54 Vict. c.59) Public Health (London) Act 1891 (54 & 55 Vict. c.76) Public Health Acts Amendment Act 1907 (7 Edw.7 c.53) Venereal Diseases Act 1917 (7 & 8 Geo.5 c.21) Public Health Act 1925 (15 & 16 Geo.5 c.71) Rating and Valuation Act 1925 (15 & 16 Geo.5 c.90) Road Traffic Act 1930 (20 & 21 Geo.5 c.43) Public Health Act 1836 (26 Geo.5 & 1 Edw.8 c.49) Housing Act 1936 (26 Geo.5 & 1 Edw.8 c.51) Water Act 1945 (8 & 9 Geo.6 c.42) Local Government Act 1948 (11 & 12 Geo.6 c.26) Veterinary Surgeons Act 1959 (11 & 12 Geo.6 c.52) National Assistance Act 1959 (7 & 8 Eliz.2 c.52)
+English sources: Waterworks Clauses Act  1847 (10 & 11 Vict. c.17) Towns Improvement Clauses Act 1847 (10 & 11 Vict. c.34) Poor Rate Assessment and Collection Act 1869 (32 & 33 Vict. c.41) Public Health Act 1875 (38 & 39 Vict. c.55) Public Health Acts Amendment Act 1890 (53 & 54 Vict. c.59) Public Health (London) Act 1891 (54 & 55 Vict. c.76) Public Health Acts Amendment Act 1907 (7 Edw.7 c.53) Venereal Diseases Act 1917 (7 & 8 Geo.5 c.21) Public Health Act 1925 (15 & 16 Geo.5 c.71) Rating and Valuation Act 1925 (15 & 16 Geo.5 c.90) Road Traffic Act 1930 (20 & 21 Geo.5 c.43) Public Health Act 1836 (26 Geo.5 & 1 Edw.8 c.49) Housing Act 1936 (26 Geo.5 & 1 Edw.8 c.51) Water Act 1945 (8 & 9 Geo.6 c.42) Local Government Act 1948 (11 & 12 Geo.6 c.26)
 
-Noise Abatement Act 1960 (8 & 9 Eliz.2 c.68) Public Health Act 1961 (9 & 10 Eliz.2 c.64)
+Veterinary Surgeons Act 1959 (11 & 12 Geo.6 c.52) National Assistance Act 1959 (7 & 8 Eliz.2 c.52) Noise Abatement Act 1960 (8 & 9 Eliz.2 c.68) Public Health Act 1961 (9 & 10 Eliz.2 c.64)
 
 Transposing:
 
-Directive 67/548/EEC Directive 75/439/EEC Directive 75/442/EEC Directive 75/716/EEC Directive 76/464/EEC Directive 78/319/EEC Directive 78/631/EEC Directive 79/831/EEC Directive 80/68/EEC Directive 80/778/EEC Directive 80/876/EEC Directive 85/337/EEC Directive 87/101/EEC Directive 88/379/EEC Directive 89/369/EEC Directive 89/429/EEC Directive 90/219/EEC Directive 90/220/EEC Directive 91/156/EEC Directive 91/l57/EEC Directive 91/271/EEC Directive 91/689/EEC Directive 91/692/EEC Directive 93/86/EEC Directive 94/15/EEC Directive 94/31/EC Directive 94/51/EEC Directive 94/67/EC Directive 96/59/EC Directive 96/61/EC Directive 96/82/EC Directive 98/83/EC Directive 1999/45/EC Directive 2000/60/EC Directive 2000/76/EC Directive 2001/80/EC Directive 2003/35/EC Directive 2003/105/EC
+Directive 67/548/EEC Directive 75/439/EEC Directive 75/442/EEC Directive 75/716/EEC Directive 76/464/EEC Directive 78/319/EEC Directive 78/631/EEC Directive 79/831/EEC Directive 80/68/EEC Directive 80/778/EEC Directive 80/876/EEC Directive 85/337/EEC Directive 87/101/EEC Directive 88/379/EEC Directive 89/369/EEC Directive 89/429/EEC Directive 90/219/EEC Directive 90/220/EEC Directive 91/156/EEC Directive 91/l57/EEC Directive 91/271/EEC Directive 91/689/EEC Directive 91/692/EEC Directive 93/86/EEC Directive 94/15/EEC Directive 94/31/EC Directive 94/51/EEC Directive 94/67/EC Directive 96/59/EC Directive 96/61/EC Directive 96/82/EC Directive 98/83/EC Directive 1999/45/EC Directive 2000/60/EC Directive 2000/76/EC Directive 2001/80/EC Directive 2003/35/EC Directive 2003/105/EC Directive 2004/35/EC Directive 2004/113/EC Directive 2006/12/EC
 
-Directive 2004/35/EC Directive 2004/113/EC Directive 2006/12/EC Directive 2006/66/EC Directive 2008/1/EC Directive 2008/99/EC Directive 2009/31/EC Directive 2012/18/EU Directive 2015/1127/EU Directive (EU) 2018/851
+Directive 2006/66/EC Directive 2008/1/EC Directive 2008/99/EC Directive 2009/31/EC Directive 2012/18/EU Directive 2015/1127/EU Directive (EU) 2018/851
 
 Implementing: Regulation (EC) No 1013/2006 Regulation (EC) No. 1418/2007
 
@@ -252,10 +252,6 @@ Offensive trades.
 
 94. Restriction on establishment of offensive trade. 95. Rules as to certain trades.
 
-PART IIA Control of major accident hazards involving dangerous substances.
-
-95A. Interpretation in respect of sections 95A to 95P and Schedules 4 to 11. 95B. Application of sections 95A to 95P and Schedules 4-11. 95C. General Duty. 95D. Major accident prevention policy. 95DA.  Domino effects. 95E. Notifications. 95F. Safety report. 95G. Review and revision of safety report. 95H. On-site emergency plan. 95I. Off-site emergency plan. 95J. Review and testing of emergency plans. 95K. Implementing emergency plans. 95L. Charge for preparation, review and testing of off-site emergency plan. 95M. Provision for information to the public. 95N. Provision of information to competent authority. 95O. Provision of information to other establishments. 95P. Functions of competent authority in relation to the safety report. 95Q. Prohibition of use. 95QA. Improvement notices. 95R. Inspections and investigations. 95S. Enforcement. 95T. Provision of information by competent authority. 95U. Penalties.
-
 Noise.
 
 96. Noise or vibration nuisance. 97. Restriction of operation on highways, etc., of loudspeakers. 98. Saving for rules.
@@ -264,9 +260,7 @@ PART IIB - Transfrontier Shipment of Waste
 
 Introduction
 
-98A. Interpretation of Part IIB. 98B. Scope of this Part. 98C. Meaning of transport and person who transports waste.
-
-98D. Competent authorities of despatch and destination. 98E. Correspondent authority of transit. 98F. Repealed. 98G. Notices. 98H. Repealed.
+98A. Interpretation of Part IIB. 98B. Scope of this Part. 98C. Meaning of transport and person who transports waste. 98D. Competent authorities of despatch and destination. 98E. Correspondent authority of transit. 98F. Repealed. 98G. Notices. 98H. Repealed.
 
 Gibraltar Plans for Shipments of Waste
 
@@ -282,13 +276,13 @@ Shipment of waste between Gibraltar and EU countries
 
 Export of waste to non-EU countries
 
-98O. Prohibition on export of waste for disposal other than to EFTA countries. 98P. Requirements for export of waste for disposal to EFTA countries. 98PA.  Requirements for export of waste listed in Annex III or IIIA to non-EU, non-OECD Decision countries. 98PB.  Requirements for export of waste classified under more than one entry in Annex III etc. to non-EU, non-OECD Decision countries. 98Q. Prohibition on export of certain waste for recovery to non-EU non-OECD Decision countries. 98R. Requirements for export of waste for recovery to non-EU OECD Decision countries. 98S. Miscellaneous prohibitions on export of waste.
+98O. Prohibition on export of waste for disposal other than to EFTA countries. 98P. Requirements for export of waste for disposal to EFTA countries. 98PA.  Requirements for export of waste listed in Annex III or IIIA to non-EU, non-OECD Decision countries.
+
+98PB.  Requirements for export of waste classified under more than one entry in Annex III etc. to non-EU, non-OECD Decision countries. 98Q. Prohibition on export of certain waste for recovery to non-EU non-OECD Decision countries. 98R. Requirements for export of waste for recovery to non-EU OECD Decision countries. 98S. Miscellaneous prohibitions on export of waste.
 
 Import of waste from third countries
 
-98T. Prohibition on the import of waste for disposal. 98U. Procedure for import of waste for disposal from a non-EU country Party to the Basel Convention. 98V. Prohibition on import of waste for recovery. 98W. Requirements for import of waste for recovery from or through a non-EU OECD Decision country.
-
-98X. Requirements for import of waste for recovery from a non-EU, non-OECD Decision country Party to the Basel Convention. 98Y. Requirements for import of waste from overseas countries or territories.
+98T. Prohibition on the import of waste for disposal. 98U. Procedure for import of waste for disposal from a non-EU country Party to the Basel Convention. 98V. Prohibition on import of waste for recovery. 98W. Requirements for import of waste for recovery from or through a non-EU OECD Decision country. 98X. Requirements for import of waste for recovery from a non-EU, non-OECD Decision country Party to the Basel Convention. 98Y. Requirements for import of waste from overseas countries or territories.
 
 Transit of waste
 
@@ -296,15 +290,15 @@ Transit of waste
 
 Additional duties
 
-98ZD. Illegal shipments of waste brought to a facility. 98ZE. Duties on operators of facilities in respect of notifiable waste. 98ZF. Interim recovery or disposal operations. 98ZG. Duties on operators of facilities in respect of waste subject to general information requirements. 98ZH. Duties on consignees in respect of notifiable waste. 98ZI. Duties on consignees in respect of waste subject to general information requirements. 98ZJ. Duties on laboratories. 98ZK. Notifier’s duty to keep documents. 98ZL. Duties on persons who arrange the shipment of waste. 98ZM. Charges by the competent authority etc.. 98ZN. Costs of take-back etc. 98ZO. Approval of a financial guarantee. 98ZP. Supply of the financial guarantee. 98ZQ. Enforcement powers. 98ZR. Compliance with notices. 98ZS. Obstruction. 98ZT. Falsely obtaining consent etc. 98ZU. Offences by bodies corporate. 98ZV. Acts of third parties. 98ZX. Penalties.
+98ZD. Illegal shipments of waste brought to a facility. 98ZE. Duties on operators of facilities in respect of notifiable waste. 98ZF. Interim recovery or disposal operations. 98ZG. Duties on operators of facilities in respect of waste subject to general information requirements. 98ZH. Duties on consignees in respect of notifiable waste. 98ZI. Duties on consignees in respect of waste subject to general information requirements. 98ZJ. Duties on laboratories. 98ZK. Notifier’s duty to keep documents. 98ZL. Duties on persons who arrange the shipment of waste. 98ZM. Charges by the competent authority etc.. 98ZN. Costs of take-back etc. 98ZO. Approval of a financial guarantee.
+
+98ZP. Supply of the financial guarantee. 98ZQ. Enforcement powers. 98ZR. Compliance with notices. 98ZS. Obstruction. 98ZT. Falsely obtaining consent etc. 98ZU. Offences by bodies corporate. 98ZV. Acts of third parties. 98ZX. Penalties.
 
 PART III. WATER SUPPLY.
 
 General duties and power of Government.
 
-99. Interpretation of Part III.
-
-100. General powers of Government for supplying water. 101. Government to keep works in repairs. 102. Water collecting areas in Upper Rock. 103. Powers and duties of Government in respect of laying and maintaining water mains. 104. Power to lay service pipes, etc. 105. Cutting off supply. 106. Laying of supply pipes. 107. Laying of communication pipes, etc. 108. Power of Government to require separate service pipes. 109. Exemption from liability.
+99. Interpretation of Part III. 100. General powers of Government for supplying water. 101. Government to keep works in repairs. 102. Water collecting areas in Upper Rock. 103. Powers and duties of Government in respect of laying and maintaining water mains. 104. Power to lay service pipes, etc. 105. Cutting off supply. 106. Laying of supply pipes. 107. Laying of communication pipes, etc. 108. Power of Government to require separate service pipes. 109. Exemption from liability.
 
 Potable water.
 
@@ -312,13 +306,13 @@ Potable water.
 
 Salt water.
 
-115. Duty of Government to provide water for fire-fighting purposes. 116. Power to require premises to be provided with sufficient salt water. 117. Salt water rate. 118. Liability to salt water rates where buildings supplied by common pipe. 119. Power to make agreed charges for salt water supplies. 120. Power to charge by meter for supply to certain premises and for certain purposes. 121. When supply may be cut off.
+115. Duty of Government to provide water for fire-fighting purposes. 116. Power to require premises to be provided with sufficient salt water. 117. Salt water rate. 118. Liability to salt water rates where buildings supplied by common pipe. 119. Power to make agreed charges for salt water supplies. 120. Power to charge by meter for supply to certain premises and for certain purposes.
+
+121. When supply may be cut off.
 
 Provisions for preventing waste, etc., of water and as to meters and other fittings.
 
-122. Power to require provision of cisterns in certain cases. 123. Power to test water fittings. 124. Power to enter premises to detect waste or misuse of water. 125. Power to repair supply pipes. 126. Penalty for waste, etc., of water by non-repair of water fittings. 127. Penalties for misuse of water. 128. Penalty for fraudulent use of water. 129. Penalty for interference with valves and apparatus. 130. Penalty for extension or alteration of pipes, etc. 131. Meters to be connected, or disconnected by Government.
-
-132. Meters, etc., to measure water or detect waste.
+122. Power to require provision of cisterns in certain cases. 123. Power to test water fittings. 124. Power to enter premises to detect waste or misuse of water. 125. Power to repair supply pipes. 126. Penalty for waste, etc., of water by non-repair of water fittings. 127. Penalties for misuse of water. 128. Penalty for fraudulent use of water. 129. Penalty for interference with valves and apparatus. 130. Penalty for extension or alteration of pipes, etc. 131. Meters to be connected, or disconnected by Government. 132. Meters, etc., to measure water or detect waste.
 
 General.
 
@@ -332,9 +326,7 @@ Notification of disease.
 
 Provisions for preventing spread of infection.
 
-147. Penalty on exposure of persons and articles liable to convey notifiable disease 148. Person suffering from or being a carrier of notifiable disease not to carry on occupation to danger of others. 149. Child liable to convey notifiable disease may be ordered not to attend school. 150. Director may require list of day-scholars at school where notifiable disease exists. 151. Restrictions on sending or taking infected articles to laundry or public wash-house, or to cleaners. 152. Power to prohibit home work on premises where notifiable disease exists. 153. Restrictions on bringing certain articles into Gibraltar. 154. Restrictions on sales, etc., by persons collecting, or dealing in, rags, old clothes or similar articles. 155. Provisions as to library books. 156. Infectious matter not to be placed in dustbins. 157. Provisions as to the letting of houses, or rooms in hotels, after recent case of notifiable disease.
-
-158. Persons ceasing to occupy house to disclose to owner any recent case of notifiable disease, and to disinfect. 159. Provisions as to use of public conveyance by persons suffering from notifiable disease. 160. Duty of owner, etc., of public conveyance in regard to case of notifiable disease. 161. Power of Government to make regulations as to disposal of dead bodies. 162. Power of justice to order dead body to be removed to mortuary or buried forthwith. 163. Restrictions in certain cases on removal of bodies of persons dying in hospital. 164. Avoidance of contact with body of person who suffered from notifiable disease. 165. Wake not to be held over body of person who suffered from notifiable disease.
+147. Penalty on exposure of persons and articles liable to convey notifiable disease 148. Person suffering from or being a carrier of notifiable disease not to carry on occupation to danger of others. 149. Child liable to convey notifiable disease may be ordered not to attend school. 150. Director may require list of day-scholars at school where notifiable disease exists. 151. Restrictions on sending or taking infected articles to laundry or public wash-house, or to cleaners. 152. Power to prohibit home work on premises where notifiable disease exists. 153. Restrictions on bringing certain articles into Gibraltar. 154. Restrictions on sales, etc., by persons collecting, or dealing in, rags, old clothes or similar articles. 155. Provisions as to library books. 156. Infectious matter not to be placed in dustbins. 157. Provisions as to the letting of houses, or rooms in hotels, after recent case of notifiable disease. 158. Persons ceasing to occupy house to disclose to owner any recent case of notifiable disease, and to disinfect. 159. Provisions as to use of public conveyance by persons suffering from notifiable disease. 160. Duty of owner, etc., of public conveyance in regard to case of notifiable disease. 161. Power of Government to make regulations as to disposal of dead bodies. 162. Power of justice to order dead body to be removed to mortuary or buried forthwith. 163. Restrictions in certain cases on removal of bodies of persons dying in hospital. 164. Avoidance of contact with body of person who suffered from notifiable disease. 165. Wake not to be held over body of person who suffered from notifiable disease.
 
 Provisions as to disinfection of premises and articles, and the removal of infected persons.
 
@@ -354,33 +346,27 @@ Miscellaneous.
 
 Laboratories, ambulances, mortuaries, etc.
 
-177. Provision of laboratories. 178. Provision of ambulances.
-
-179. Authority to keep stock of vaccines, etc.
+177. Provision of laboratories. 178. Provision of ambulances. 179. Authority to keep stock of vaccines, etc.
 
 Rules for the prevention and treatment of infectious diseases.
 
 180. Power of the Government to make rules.
 
-PART IVA GENETICALLY MODIFIED ORGANISMS
-
-180A. Interpretation of Part IVA. 180B. Meaning of “damage to the environment”, “control” and related expressions in this Part. 180C. Risk Assessment and notification requirements. 180D. General duties relating to importation, acquisition, keeping, release or marketing of organisms. 180E. Prohibition notices. 180F. Consents required by certain persons. 180G. Consents: limitations and conditions. 180H. Fees and charges. 180J. Appointment etc of inspectors. 180K. Rights of entry and inspection. 180L. Obtaining of information from persons. 180M. Power to deal with cause of imminent danger of damage to the environment. 180N. Offences. 180P. Onus of proof as regards techniques and evidence. 180Q. Power of court to order cause of offence to be remedied. 180R. Power of competent authority to remedy harm. 180S. The competent authority. 180T. Offences by bodies corporate. 180U. Offences under these Regulations due to fault of others. 180V. Application to Crown. 180W. Public Register. 180X. Power to make regulations to give effect to Community obligations.
-
 PART V. DESTRUCTION OF RATS AND MICE.
 
-181. General duty of Government. 182. Duty to report infestations to Director. 183. Powers of Director and authorized persons. 184. Powers of Government to require work and treatment to be carried out for certain purposes.
-
-185. Temporary closing of buildings. 186. Powers of demolition, etc., where infestation cannot be remedied. 187. Directions as to storage of rat-attracting material. 188. Control of rat destruction carried out otherwise than by the Government. 189. Recovery of expenses by Government. 190. Offences and penalties. 191. When owner of premises to be deemed occupier. 192. Defrayal of expenses.
+181. General duty of Government. 182. Duty to report infestations to Director. 183. Powers of Director and authorized persons. 184. Powers of Government to require work and treatment to be carried out for certain purposes. 185. Temporary closing of buildings. 186. Powers of demolition, etc., where infestation cannot be remedied. 187. Directions as to storage of rat-attracting material. 188. Control of rat destruction carried out otherwise than by the Government. 189. Recovery of expenses by Government. 190. Offences and penalties. 191. When owner of premises to be deemed occupier. 192. Defrayal of expenses.
 
 PART VA WASTE.
 
-192A. Interpretation. 192B. Application of Part VA and Schedules 11A to 18. 192BA.  End-of-waste status. 192C. Competent authority. 192D. Waste licences. 192DA. Exemption from requirement for a licence. 192E. Registration of certain establishments and undertakings. 192F. Duty of holders. 192G. Repealed. 192H. Repealed. 192J. Provisions as to PCBs. 192JA.  Provisions as to specific hazardous waste. 192JB. Waste batteries and waste accumulators. 192JC.  Reporting of recycling efficiencies. 192JD.  Export of waste batteries and accumulators. 192K. Repealed. 192KA. Meaning of hazardous waste. 192KB. Provisions as to hazardous waste. 192KC. Exemptions for household waste. 192L. Duty to keep records. 192M. Waste management plan. 192MA. Waste prevention programmes. 192MB. Evaluation and review of plans and programmes. 192MC. Bio-waste. 192N. Power to encourage waste reduction. 192P. Publicity. 192Q. Procedures for licence application. 192R. Charges by the Government etc. 192S. Offences by corporations etc. 192T. Defences. 192U. Deleted.
+192A. Interpretation.
 
-192V. Savings in respect of other provisions. 192W. Rules. 192X.  Deleted. 192Y.  Deleted.
+192B. Application of Part VA and Schedules 11A to 18. 192BA.  End-of-waste status. 192C. Competent authority. 192D. Waste licences. 192DA. Exemption from requirement for a licence. 192E. Registration of certain establishments and undertakings. 192F. Duty of holders. 192G. Repealed. 192H. Repealed. 192J. Provisions as to PCBs. 192JA.  Provisions as to specific hazardous waste. 192JB. Waste batteries and waste accumulators. 192JC.  Reporting of recycling efficiencies. 192JD.  Export of waste batteries and accumulators. 192K. Repealed. 192KA. Meaning of hazardous waste. 192KB. Provisions as to hazardous waste. 192KC. Exemptions for household waste. 192L. Duty to keep records. 192M. Waste management plan. 192MA. Waste prevention programmes. 192MB. Evaluation and review of plans and programmes. 192MC. Bio-waste. 192N. Power to encourage waste reduction. 192P. Publicity. 192Q. Procedures for licence application. 192R. Charges by the Government etc. 192S. Offences by corporations etc. 192T. Defences. 192U. Deleted. 192V. Savings in respect of other provisions. 192W. Rules. 192X.  Deleted. 192Y.  Deleted.
 
 PART VI. VACCINATION AND IMMUNIZATION.
 
-193 to 195. Repealed. 196. Notice of births to Director. 197 to 202. Repealed. 203. Immunization against diphtheria, etc. 204. Charges. 205. Payment for vaccination by certain medical practitioners.
+193 to 195. Repealed. 196. Notice of births to Director. 197 to 202. Repealed. 203. Immunization against diphtheria, etc. 204. Charges.
+
+205. Payment for vaccination by certain medical practitioners.
 
 PART VII. BATHS, WASHHOUSES, BATHING PLACES, ETC.
 
@@ -400,7 +386,9 @@ Cellar dwellings.
 
 Common lodging-houses.
 
-222. Definition of “common lodging-house”. 223. No person to keep a common lodging-house unless registered in respect thereof. 224. Register of common lodging-house keepers and their houses. 225. Provisions with respect to registration. 226. Appeals against refusal of registration. 227. Rules as to common lodging-houses. 228. Management and control of common lodging-houses. 229. Duty of keeper of common lodging-house to notify cases of infectious disease. 230. Power of justice to order medical examination of inmates of common lodging-house. 231. Power to remove to hospital inmate of common lodging-house suffering from a notifiable disease. 232. Power of court to order closing of common lodging-house on account of notifiable disease. 233. Offences in connection with common lodging-houses. 234. Power of court on conviction to cancel registration and to disqualify for re- registration. 235. Evidence in legal proceedings under Part VIII.
+222. Definition of “common lodging-house”. 223. No person to keep a common lodging-house unless registered in respect thereof. 224. Register of common lodging-house keepers and their houses. 225. Provisions with respect to registration. 226. Appeals against refusal of registration. 227. Rules as to common lodging-houses.
+
+228. Management and control of common lodging-houses. 229. Duty of keeper of common lodging-house to notify cases of infectious disease. 230. Power of justice to order medical examination of inmates of common lodging-house. 231. Power to remove to hospital inmate of common lodging-house suffering from a notifiable disease. 232. Power of court to order closing of common lodging-house on account of notifiable disease. 233. Offences in connection with common lodging-houses. 234. Power of court on conviction to cancel registration and to disqualify for re- registration. 235. Evidence in legal proceedings under Part VIII.
 
 Dwelling houses.
 
@@ -412,9 +400,9 @@ Tents, vans, caravans, sheds, etc.
 
 PART IX. PUBLIC HIGHWAYS, ETC.
 
-238. Duty of Government to maintain public highways. 239. Deleted. 240. Provisions as to extraordinary traffic. 241. The Government may declare streets to be public highways. 242. Deleted. 243. Power to purchase lands.
+238. Duty of Government to maintain public highways. 239. Deleted. 240. Provisions as to extraordinary traffic. 241. The Government may declare streets to be public highways. 242. Deleted. 243. Power to purchase lands. 244. Government to pave and repair public highways, etc. 245. Lighting of streets. 246. Refuges, etc., in streets. 247. Shelters. 248. Statues and monuments. 249. Street bins. 250. Seats, etc., in streets. 251. Government may embellish streets. 252. Power to alter names of streets. 252A. Regulations. 253. Power to grant licences for bridges over streets. 254. Restriction on placing rails, beams, wires, etc., over streets. 255. Lopping of trees overhanging highways.
 
-244. Government to pave and repair public highways, etc. 245. Lighting of streets. 246. Refuges, etc., in streets. 247. Shelters. 248. Statues and monuments. 249. Street bins. 250. Seats, etc., in streets. 251. Government may embellish streets. 252. Power to alter names of streets. 252A. Regulations. 253. Power to grant licences for bridges over streets. 254. Restriction on placing rails, beams, wires, etc., over streets. 255. Lopping of trees overhanging highways. 256. Repair of cellars, etc., under streets. 257. Unauthorized disturbance of street. 258. Penalty for leaving litter, etc. 259. Breaking open of streets. 260. Damage to footway to be made good. 261. Lighting and fencing building materials and excavations. 262. Dangerous places to be repaired or enclosed. 263. Precautions during repairs, erection of bars and placing of lights. 264. Government authorized to take stone.
+256. Repair of cellars, etc., under streets. 257. Unauthorized disturbance of street. 258. Penalty for leaving litter, etc. 259. Breaking open of streets. 260. Damage to footway to be made good. 261. Lighting and fencing building materials and excavations. 262. Dangerous places to be repaired or enclosed. 263. Precautions during repairs, erection of bars and placing of lights. 264. Government authorized to take stone.
 
 PART X. RECREATION GROUNDS, ETC.
 
@@ -424,9 +412,9 @@ PART XI. RATING AND VALUATION.
 
 Rating.
 
-270. Interpretation of Part XI. 271. Levy of and provisions as to general rates. 272. Operation and incidence of rate. 272A. Owner’s liability if occupier in default. 273. Liability to be rated in respect of certain unoccupied property. 274. Amendment of rate.
+270. Interpretation of Part XI. 271. Levy of and provisions as to general rates. 272. Operation and incidence of rate. 272A. Owner’s liability if occupier in default. 273. Liability to be rated in respect of certain unoccupied property. 274. Amendment of rate. 275. When rates due and payable. 276. Demand note for rates. 277. Late payment of rates. 277A. Discount on rates of non-domestic hereditaments. 277B.  Additional discount in certain cases following the commencement of the Smoke-Free Environment Act, 2012. 277C.  Discount on rates of hereditaments occupied by new businesses. 278. No premises exempt because belonging to the Crown. 279. Exemption from assessment. 280. Repealed. 281. Advertising stations to be separate hereditaments in certain cases. 282. Power to order exemption from rates. 283. Officers for rates and expenses.
 
-275. When rates due and payable. 276. Demand note for rates. 277. Late payment of rates. 277A. Discount on rates of non-domestic hereditaments. 277B.  Additional discount in certain cases following the commencement of the Smoke-Free Environment Act, 2012. 277C.  Discount on rates of hereditaments occupied by new businesses. 278. No premises exempt because belonging to the Crown. 279. Exemption from assessment. 280. Repealed. 281. Advertising stations to be separate hereditaments in certain cases. 282. Power to order exemption from rates. 283. Officers for rates and expenses. 284. Rating of owners. 285. Recovery of rates from tenants and lodgers. 286. Where owners omit to pay rates, the occupiers paying the same may deduct amount due from rent. 287. Proceedings for recovery of rates. 288. Penalty for leaving rates in arrears. 289. Contributions in lieu of payment of rates on premises of the United Kingdom Government.
+284. Rating of owners. 285. Recovery of rates from tenants and lodgers. 286. Where owners omit to pay rates, the occupiers paying the same may deduct amount due from rent. 287. Proceedings for recovery of rates. 288. Penalty for leaving rates in arrears. 289. Contributions in lieu of payment of rates on premises of the United Kingdom Government.
 
 Valuation.
 
@@ -440,7 +428,9 @@ PART XII. GENERAL.
 
 Supplemental as to powers of Government.
 
-309. Expenses and Contractor companies. 310. Interpretation of “provide”. 311. Power to require pipes, etc., in public highways to be moved. 312. Power of Government to execute certain work on behalf of owners or occupiers. 313. Power of Government to sell certain materials. 314. Power of Government to require information as to ownership of premises. 315. Compensation to individuals for damage resulting from exercise of powers under Act.
+309. Expenses and Contractor companies. 310. Interpretation of “provide”.
+
+311. Power to require pipes, etc., in public highways to be moved. 312. Power of Government to execute certain work on behalf of owners or occupiers. 313. Power of Government to sell certain materials. 314. Power of Government to require information as to ownership of premises. 315. Compensation to individuals for damage resulting from exercise of powers under Act.
 
 Notices, etc.
 
@@ -456,9 +446,7 @@ Recovery of expenses, etc.
 
 Prosecution of offences, etc.
 
-327. Summary proceedings for offences.
-
-328. Continuing offences and penalties. 329. Inclusion of several sums in one complaint, etc. 329A.    Liability of bodies corporate - general.
+327. Summary proceedings for offences. 328. Continuing offences and penalties. 329. Inclusion of several sums in one complaint, etc. 329A.    Liability of bodies corporate - general.
 
 Appeals against notices.
 
@@ -466,7 +454,9 @@ Appeals against notices.
 
 Other appeals to the magistrates’ court and appeals to the Supreme Court.
 
-331. Appeals and applications to magistrates’ court. 332. Appeals to Supreme Court against decision of justices. 333. Effect of decision of court upon appeal.
+331. Appeals and applications to magistrates’ court. 332. Appeals to Supreme Court against decision of justices.
+
+333. Effect of decision of court upon appeal.
 
 Judges and justices.
 
@@ -486,25 +476,7 @@ SCHEDULE 3
 
 SCHEDULE 4 General Rate
 
-SCHEDULE 5 Repealed
-
-SCHEDULE 6 Dangerous Substances to Which Part IIA Applies
-
-SCHEDULE 7
-
-Principles to be taken into account when preparing major accident prevention policy document. (This Schedule sets out the provisions of Annex III to the Directive)
-
-SCHEDULE 8 Information to be included in a notification. (This Schedule sets out the provisions of Article 6(2) of the Directive)
-
-SCHEDULE 9 Part 1 Purpose of safety reports and Part 2 Minimum information to be included in safety report. (This Part sets out the provisions of Article 9(1) of the Directive)
-
-SCHEDULE 10 Emergency Plans: (This Part sets out the provisions of Article 11(2) of the Directive) Part 2 Information to be included in on-site emergency plan (This Part sets out the provisions of Paragraph 1 of Annex IV to the Directive) and Part 3 Information to be included in off-site emergency plan (This part sets out the provisions of paragraph 2 of Annex IV to the Directive).
-
-SCHEDULE 10A Information to be supplied to the public. (This Schedule sets out the provisions of Annex V to the Directive)
-
-SCHEDULE 10B INSPECTION PLANS
-
-SCHEDULE 11 Criteria for notification of a major accident to the European Commission and information to be notified. Part 1 Criteria (This Part sets out the provisions of Annex VI to the Directive) and Part 2 Information.
+SCHEDULES 5 - 11 Repealed
 
 SCHEDULE 11A List of wastes pursuant to article 1(a) of Directive 75/442/EEC on waste and Article 1(4) of Directive 91/689/EEC on hazardous wastes
 
