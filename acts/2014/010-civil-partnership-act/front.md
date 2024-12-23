@@ -4,9 +4,9 @@ Principal Act
 
 Act. No. 2014-10 Commencement 28.3.2014 Assent 25.3.2014
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date Act. 2016-18 s. 31(2) 23.4.2018 LN. 2018/112 s. 2 21.5.2018 Act. 2023-04 Sch.2 18.4.2024 2024-26 ss. 19(1)(a)-(b), 21(4), 22(1), (3)(a), (4), 25(2)-(5), 26, 27(2)(b), (3)-(5), 28-29, 35(1)-(4), 41, 48(7)(b), Sch.5
 
-Act. 2016-18 s. 31(2) 23.4.2018 LN. 2018/112 s. 2 21.5.2018 Act. 2023-04 Sch.2 18.4.2024
+23.12.2024
 
 ARRANGEMENT OF SECTIONS
 
@@ -28,13 +28,13 @@ CHAPTER 2 DISSOLUTION, NULLITY AND OTHER PROCEEDINGS
 
 Introduction
 
-18. Powers to make orders and effect of orders. 19. The period before conditional orders may be made final. 20. Intervention of the Attorney General. 21. Proceedings before order has been made final. 22. Time bar on application for dissolution orders.
+18. Powers to make orders and effect of orders. 19. The period before conditional orders may be made final. 20. Intervention of the Attorney General. 21. Proceedings before order has been made final. 22. Time bar on application for dissolution orders. 23. Attempts at reconciliation of civil partners.
 
-23. Attempts at reconciliation of civil partners. 24. Consideration by the court of certain agreements or arrangements.
+24. Consideration by the court of certain agreements or arrangements.
 
 Dissolution of civil partnerships
 
-25. Dissolution of civil partnership which has broken down irretrievably. 26. Supplemental provisions as to facts raising presumption of breakdown. 27. Application for dissolution orders. 28. Refusal of dissolution in 3 year separation cases on ground of grave hardship. 29. Proceedings before order made final: protection for respondents in separation cases.
+25. Dissolution of civil partnership which has broken down irretrievably. 26. Repealed. 27. Application for dissolution orders. 28. Repealed. 29. Repealed.
 
 Nullity
 
@@ -50,19 +50,19 @@ Separation orders
 
 Declarations
 
-37. Declarations. 38. General provisions as to making and effect of declarations. 39. The Attorney General and proceedings for declarations. 40. Supplementary provisions as to declarations. 41. Relief for respondent in dissolution proceedings. 42. Restrictions on making of orders affecting children. 43. Parties to proceedings under this Chapter.
+37. Declarations. 38. General provisions as to making and effect of declarations. 39. The Attorney General and proceedings for declarations. 40. Supplementary provisions as to declarations. 41. Repealed. 42. Restrictions on making of orders affecting children. 43. Parties to proceedings under this Chapter.
 
 CHAPTER 3 FINANCIAL AGREEMENTS
 
-44. Interpretation and application. 45. Financial agreements before civil partnership. 46. Financial agreements during civil partnership. 47. Financial agreements after the dissolution of the civil partnership.
+44. Interpretation and application. 45. Financial agreements before civil partnership. 46. Financial agreements during civil partnership. 47. Financial agreements after the dissolution of the civil partnership. 48. Need for a declaration of separation for certain provisions of financial agreements to take effect.
 
-48. Need for a declaration of separation for certain provisions of financial agreements to take effect. 49. Whether or when certain other provisions of financial agreements take effect. 50. Certain provisions in agreements. 51. When financial agreements are binding. 52. Effect of death of party to financial agreement. 53. Termination of financial agreement. 54. Circumstances in which court may set aside a financial agreement or termination agreement. 55. Validity, enforceability and effect of financial agreements and termination agreements.
+49. Whether or when certain other provisions of financial agreements take effect. 50. Certain provisions in agreements. 51. When financial agreements are binding. 52. Effect of death of party to financial agreement. 53. Termination of financial agreement. 54. Circumstances in which court may set aside a financial agreement or termination agreement. 55. Validity, enforceability and effect of financial agreements and termination agreements.
 
 CHAPTER 4 PROPERTY AND FINANCIAL ARRANGEMENTS
 
-56. Contribution by civil partner to property improvement. 57. Disputes between civil partners about property. 58. Applications under section 45 where property not in possession etc. 59. Applications under section 57 by former civil partners. 60. Actions in tort between civil partners. 61. Married Women Act. 62. Wills, administration of estates and family provisions. 63. Financial relief abroad. 64. Power to amend enactments relating to financial and other relief in the Supreme Court. 65. Financial provision and property adjustment for parties to civil partnerships. 66. Maintenance pending suit. 67. Financial provisions orders in connection with dissolution proceedings, etc. 68. Deduction of maintenance at source. 69. Property adjustment orders in connection with dissolution proceedings, etc. 70. Orders for sale of property. 71. Matters to which court is to have regard in deciding how to exercise its powers under sections 67 to 70. 72. Exercise of court’s powers in favour of party to civil partnership of making of dissolution or nullity order. 73. Commencement of proceedings for financial relief, etc. 74. Financial provision orders, etc., in case of neglect by party to civil partnership to maintain other party or a child of the family. 75. Duration of continuing financial provision orders in favour of a party to the civil partnership and effect of entering into a subsequent civil partnership or marriage. 76. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour. 77. Direction for settlement of instrument for securing payments or effecting property adjustments. 78. Variation, discharge, etc., of certain orders for financial relief.
+56. Contribution by civil partner to property improvement. 57. Disputes between civil partners about property. 58. Applications under section 45 where property not in possession etc. 59. Applications under section 57 by former civil partners. 60. Actions in tort between civil partners. 61. Married Women Act. 62. Wills, administration of estates and family provisions. 63. Financial relief abroad. 64. Power to amend enactments relating to financial and other relief in the Supreme Court. 65. Financial provision and property adjustment for parties to civil partnerships. 66. Maintenance pending suit. 67. Financial provisions orders in connection with dissolution proceedings, etc. 68. Deduction of maintenance at source. 69. Property adjustment orders in connection with dissolution proceedings, etc. 70. Orders for sale of property. 71. Matters to which court is to have regard in deciding how to exercise its powers under sections 67 to 70. 72. Exercise of court’s powers in favour of party to civil partnership of making of dissolution or nullity order. 73. Commencement of proceedings for financial relief, etc. 74. Financial provision orders, etc., in case of neglect by party to civil partnership to maintain other party or a child of the family. 75. Duration of continuing financial provision orders in favour of a party to the civil partnership and effect of entering into a subsequent civil partnership or marriage. 76. Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour. 77. Direction for settlement of instrument for securing payments or effecting property adjustments. 78. Variation, discharge, etc., of certain orders for financial relief. 79 Orders for repayment in certain cases of sums paid after cessation of order by reason of re-entering into a subsequent civil partnership of marriage. 80. Orders for repayment in certain cases of sums paid under certain orders.
 
-79 Orders for repayment in certain cases of sums paid after cessation of order by reason of re-entering into a subsequent civil partnership of marriage. 80. Orders for repayment in certain cases of sums paid under certain orders. 81. Consent orders for financial provision on property adjustment. 82. Avoidance of transactions intended to prevent or reduce financial relief. 83. Extension of Married Women Act. 84. Vesting of possession in tenancy.
+81. Consent orders for financial provision on property adjustment. 82. Avoidance of transactions intended to prevent or reduce financial relief. 83. Extension of Married Women Act. 84. Vesting of possession in tenancy.
 
 Inheritance
 
@@ -106,7 +106,9 @@ SCHEDULE 1 PROHIBITED DEGREES OF RELATIONSHIP
 
 SCHEDULE 2 CIVIL PARTNERSHIPS OF PERSONS UNDER 18
 
-SCHEDULE 3 AMENDMENTS TO THE MARRIED WOMEN ACT
+SCHEDULE 3
+
+AMENDMENTS TO THE MARRIED WOMEN ACT
 
 SCHEDULE 4 WILLS, ADMINISTRATION OF ESTATES AND FAMILY PROVISION
 

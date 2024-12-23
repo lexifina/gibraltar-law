@@ -14,25 +14,13 @@ Case Appropriate persons
 
 Each of the following−
 
-(a) any parent of the child who has parental responsibility for that child, and
-
-(b) any guardian of the child.
-
-2.  A special guardianship order is in force with respect to the child and the circumstances do not fall within any of items 3 to 7.
-
-Each of the child’s special guardians. 3.  A care order has effect with respect to the child. Each of the following−
+(a) any parent of the child who has parental responsibility for that child, and (b) any guardian of the child. 2.  A special guardianship order is in force with respect to the child and the circumstances do not fall within any of items 3 to 7. Each of the child’s special guardians. 3.  A care order has effect with respect to the child. Each of the following−
 
 (a) the local authority designated in the order, and
 
-(b) each parent, guardian or special   guardian (in so far as their parental responsibility has not been restricted under the 2009 Act). 4. A residence order has effect with respect to the child. Each of the persons with whom the child lives, or is to live, as a result of the order.
+(b) each parent, guardian or special   guardian (in so far as their parental responsibility has not been restricted under the 2009 Act). 4. A residence order has effect with respect to the child. Each of the persons with whom the child lives, or is to live, as a result of the order. 5. An adoption agency is authorised to place the child for adoption under the Adoption Act 2023. Either– (a) the adoption agency, or (b) if a care order has effect with respect to the child, the local authority designated in the order.
 
-5. An adoption agency is authorised to place the child for adoption under the Adoption Act 2023. Either– (a) the adoption agency, or (b) if a care order has effect with respect to the child, the local authority designated in the order.
-
-6. A placement order is in force with respect to the child. The local authority authorised by the placement order to place the child for adoption.
-
-7. The child has been placed for adoption with prospective adopters. The prospective adopters (in so far as their parental responsibility has not been restricted under the Adoption Act 2023, in addition to any person specified in relation to item 5 or 6.
-
-8. The circumstances do not fall within any of items 2 to 4, but a residence order was in force with respect to the child immediately before he reached 16. The persons with whom the child lived, or was to live, as a result of the order.
+6. A placement order is in force with respect to the child. The local authority authorised by the placement order to place the child for adoption. 7. The child has been placed for adoption with prospective adopters. The prospective adopters (in so far as their parental responsibility has not been restricted under the Adoption Act 2023, in addition to any person specified in relation to item 5 or 6. 8. The circumstances do not fall within any of items 2 to 4, but a residence order was in force with respect to the child immediately before he reached 16. The persons with whom the child lived, or was to live, as a result of the order.
 
 2.  In the table−
 

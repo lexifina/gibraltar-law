@@ -128,7 +128,9 @@ Duty of the court to consider whether Gibraltar is appropriate venue for applica
 
 (i) the applicant, or
 
-(ii) a child of the family, has received, or is likely to receive, by virtue of any agreement or the operation of the law of a country outside Gibraltar;
+(ii) a child of the family,
+
+has received, or is likely to receive, by virtue of any agreement or the operation of the law of a country outside Gibraltar;
 
 (e) in a case where an order has been made by a court in a country outside Gibraltar requiring the other civil partner–
 
@@ -248,15 +250,15 @@ a relevant settlement so far as that settlement relates to an interest in the dw
 
 (5) That amount is−
 
-(a) if the interest of the paying civil partner in the dwelling-house is sold in pursuance of an order made under sub-paragraph (2)(f), the amount of the proceeds of sale of that interest after deducting from those proceeds any costs incurred in the sale of that interest;
+(a) if the interest of the paying civil partner in the dwelling-house is sold in pursuance of an order made under sub-paragraph (2)(g), the amount of the proceeds of sale of that interest after deducting from those proceeds any costs incurred in the sale of that interest;
 
 (b) if that interest is not so sold, the amount which in the opinion of the court represents the value of that interest.
 
 (6) Where the interest of one of the civil partners in the dwelling-house is held jointly or in common with any other person or persons–
 
-(a) the reference in sub-paragraph (2)(f) to the interest of one of the civil partners shall be construed as including a reference to the interest of that other person, or the interest of those other persons, in the dwelling-house, and
+(a) the reference in sub-paragraph (2)(g) to the interest of one of the civil partners shall be construed as including a reference to the interest of that other person, or the interest of those other persons, in the dwelling-house, and
 
-(b) the reference in sub-paragraph (5)(a) to the amount of the proceeds of a sale ordered under sub-paragraph (2)(f) shall be construed as a reference to that part of those proceeds which is attributable to the interest of that civil partner in the dwelling-house.
+(b) the reference in sub-paragraph (5)(a) to the amount of the proceeds of a sale ordered under sub-paragraph (2)(g) shall be construed as a reference to that part of those proceeds which is attributable to the interest of that civil partner in the dwelling-house.
 
 (7) In sub-paragraph (2)–
 
@@ -342,7 +344,9 @@ it may make an order setting aside the disposition.
 
 (a) an order under paragraph 5 or 9 has been made by the court at the instance of one of the civil partners (“A”), and
 
-(b) the court is satisfied, on application by A, that the other civil partner (“B”) has, with the intention of defeating a claim by A, made a reviewable disposition, the court may make an order setting aside the disposition.
+(b) the court is satisfied, on application by A, that the other civil partner (“B”) has, with the intention of defeating a claim by A, made a reviewable disposition,
+
+the court may make an order setting aside the disposition.
 
 (5) Where the court has jurisdiction to entertain an application for an order under paragraph 9 only under paragraph 7(4), it shall not make any order under sub-paragraph (2), (3) or (4) in respect of any property other than the dwelling-house concerned.
 

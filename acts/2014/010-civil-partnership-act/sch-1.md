@@ -74,9 +74,7 @@ The child
 
 The child’s other parent Former spouse of child The child
 
-The child’s other parent
-
-Parent of former civil partner The former civil partner
+The child’s other parent Parent of former civil partner The former civil partner
 
 The former civil partner’s other parent
 
