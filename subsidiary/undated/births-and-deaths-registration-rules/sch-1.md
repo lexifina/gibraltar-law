@@ -30,9 +30,7 @@ Entry No. 1.  Date and Place of birth                         CHILD
 
 Entry No.
 
-1
-
-FORM B– REGISTER OF DEATHS
+1 FORM B– REGISTER OF DEATHS
 
 DEATHS IN THE CITY OF GIBRALTAR.
 
@@ -60,9 +58,7 @@ Rank, profession or occupation and usual address
 
 6
 
-Cause of Death
-
-7
+Cause of Death 7
 
 Signature, Qualification and residence of informant
 
@@ -144,9 +140,7 @@ Place of Death . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Last seen alive by me . . . . . day of . . . . . . . . . . . . . 20 . . . . . .
 
-1. The certified cause of death takes account of information obtained from Post Mortem. 2. Information from Post Mortem may be available later. 3. Post Mortem not being held. 4. I have reported this death to the Coroner.
-
-}
+1. The certified cause of death takes account of information obtained from Post Mortem. 2. Information from Post Mortem may be available later. 3. Post Mortem not being held. 4. I have reported this death to the Coroner. }
 
 Please ring appropriate digits and letter {
 
@@ -166,9 +160,7 @@ I(a) Disease or condition directly leading to death*. . . . . . . . . . . .
 
 (b) Other disease or condition, if any, leading to I(a) . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . . . (c) Other disease or condition leading to I(b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-II Other significant conditions CONTRIBUTING TO THE DEATH but not related to the disease or condition causing it. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-The death might be due to or
+II Other significant conditions CONTRIBUTING TO THE DEATH but not related to the disease or condition causing it. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . The death might be due to or
 
 contributed to by the employment followed at some time by the deceased.
 
@@ -376,9 +368,7 @@ Description
 
 Residence
 
-When died
-
-FORM K.– CERTIFICATE FOR REGISTRATION OF DEATHS OF MEMBERS OF THE ARMED FORCES, ETC Section 40.
+When died FORM K.– CERTIFICATE FOR REGISTRATION OF DEATHS OF MEMBERS OF THE ARMED FORCES, ETC Section 40.
 
 I certify that the following is, to the best of my knowledge, information, and belief, a true statement of the particulars required to be registered touching the death of the person hereunder mentioned.
 
@@ -424,13 +414,9 @@ Mother) of child . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . 6 Has a certified midwife been present at the birth or examined the child's body? (Yes or No). If Yes give name of certified midwife  . . . . . . . . . . . . . . . . . . . .
 
-6 Has a certified midwife been present at the birth or examined the child's body? (Yes or No). If Yes give name of certified midwife  . . . . . . . . . . . . . . . . . . . .
-
-. . . . . . . . . . . . . . . . . . . . . . .
-
-7 If a registered medical practitioner or certified midwife was present at the birth or examined the body, state reasons why his or her certificate cannot be obtained. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . 7 If a registered medical practitioner or certified midwife was present at the birth or examined the body, state reasons why his or her certificate cannot be obtained. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 I, the undersigned, declare that the particulars above stated are true to the best of my knowledge and belief, and that the child above-mentioned was not born alive.
 
@@ -492,9 +478,7 @@ Mother’s Declaration Identity of Father of Child Born Outside Marriage
 
 Births and Deaths Registration Rules rule 3
 
-TO: The Registrar of Births and Deaths, Gibraltar
-
-Name of child
+TO: The Registrar of Births and Deaths, Gibraltar Name of child
 
 Date of birth of child
 
@@ -536,7 +520,9 @@ Name of child’s mother
 
 Address of child’s mother
 
-Please now complete part A or B of this form as appropriate. Part A Joint request by mother and father for re-registration of birth
+Please now complete part A or B of this form as appropriate.
+
+Part A Joint request by mother and father for re-registration of birth
 
 We, the mother and the father of the child named above, request the re- registration of the child’s birth to show the following person as the biological father of the child - name of child’s father
 
@@ -552,9 +538,7 @@ Dated
 
 Part B Request by mother for re-registration of birth
 
-I, the mother of the child named above, request the re-registration of the child’s birth to show the following person as the biological father of the child–
-
-name of child’s father
+I, the mother of the child named above, request the re-registration of the child’s birth to show the following person as the biological father of the child– name of child’s father
 
 address of child’s father
 
