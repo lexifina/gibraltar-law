@@ -4,9 +4,7 @@ Principal Act
 
 Act. No. 2010-21 Commencement (LN.2010/180) 1.1.2011 Assent 1.11.2010
 
-Amending enactments Relevant current provisions Commencement date
-
-Act. 2015-23 ss. 25A, Sch. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014 2015-23 ss. 77-78 22.6.2015 “ ss. 30(1)(b), (bb), Sch. 3 1.7.2015 “ ss. 6, 6A, 18A, 19, 30(1)(ca), (cb), (f), 31, 31A, 32, 32A, 33-34, 39(1)(b), (2), (4)-(6), (8), 41(10), 56A, 59, 59A, 60, 63, 63A, 64(1)(b)-(c), 65, 65A-65F, 67(2), 68, 74, Schs. 1, 3, 9-10
+Amending enactments Relevant current provisions Commencement date Act. 2015-23 ss. 25A, Sch. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6.2012 2012-14 ss. 39(3), (4)(a), Sch. 9 1.7.2012 LN. 2012/129 ss. 71, Schs. 5, 9 4.10.2012 2013/0051 ss. 4-5, 5A-5F 1.1.2013 2013/081 s. 74(a)-(b), Sch. 1 1.7.2013 2013/108 Sch. 5 1.7.2013 Act. 2015-23 ss. 29, 30(1)(b), (ba)-(bb), (c), Sch. 3 1.7.2013 2013-28 Sch. 1 1.1.2014 2015-23 ss. 13(1), Schs. 3, 7 1.7.2014 2014-24 ss.14A(2), (3)(a), (5), 14B 10.7.2014 2015-23 ss. 77-78 22.6.2015 “ ss. 30(1)(b), (bb), Sch. 3 1.7.2015 “ ss. 6, 6A, 18A, 19, 30(1)(ca), (cb), (f), 31, 31A, 32, 32A, 33-34, 39(1)(b), (2), (4)-(6), (8), 41(10), 56A, 59, 59A, 60, 63, 63A, 64(1)(b)-(c), 65, 65A-65F, 67(2), 68, 74, Schs. 1, 3, 9-10
 
 6.8.2015 LN. 2015/229 Sch. 5 31.12.2015 Act. 2015-23 ss. 16, 29(1), (3)-(4), Sch. 3 1.1.2016 LN. 2015/239  ss. 5A(3), (5), (5A), 5D(5), 5F, 1.1.2016 Act. 2015-23 ss. 28(1), Sch. 4 1.7.2016 2024-21 ss. 77(1A)-(1B), 77(2), 78(1), (1A), Schs. 3, 6 1.7.2016 LN. 2016/253 ss. 5D(5), 5F 22.12.2016 2016/246 ss. 5A(6)(b), 5B(2A), 5E(8), 5F(1), (2)(b), (3), 10A- 10K
 
@@ -18,7 +16,7 @@ Act. 2015-23 ss. 25A, Sch. 3 1.1.2011 2011-11 s. 27 5.5.2011 2012-04 s. 14A 28.6
 
 23.3.2020 LN. 2020/128 Sch.12 23.3.2020 2020/176 ss. 10L, 10O(1)(b) 7.5.2020 2020/055 ss. 5F(1), (2)(b), 10ZE-10ZL, Sch. 11 1.7.2020 2020/256 ss. 10ZI(1), (1A), (3), (3A), (9)(b), 10ZJ(2A), (7)(b), 10ZK(7)
 
-10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021 Act. 2021-22 Sch. 3 1.7.2021 2024-21 ss. 30(1)(b), (bb), (cb)(ii)-(iii), 79, Sch. 3 1.7.2022 “ Sch. 3, 13 1.7.2023 2024-07 Sch. 3 26.3.2024 2024-21 s. 30(1)(b), (bb) 1.7.2024 2024-22 s. 20(6)-(11) 31.7.2024 2024-21 s. 30(3) 23.12.2024 2024-35 s. 3(6A), (9) 23.12.2024
+10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021 Act. 2021-22 Sch. 3 1.7.2021 2024-21 ss. 30(1)(b), (bb), (cb)(ii)-(iii), 79, Sch. 3 1.7.2022 “ Sch. 3, 13 1.7.2023 2024-07 Sch. 3 26.3.2024 2024-21 s. 30(1)(b), (bb) 1.7.2024 2024-22 s. 20(6)-(11) 31.7.2024 2024-21 s. 30(3) 23.12.2024 2024-35 s. 3(6A), (9) 23.12.2024 2024-21 s. 65 1.1.2025 2024-35 Sch. 1 1.1.2025
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952 Directive (EU) 2018/822 Directive (EU) 2020/876
 
@@ -90,6 +88,8 @@ SCHEDULE 1
 
 HEADS OF CHARGE
 
+PART 1
+
 Table A
 
 (1) Trade, business, profession or vocation. (2) Income from property.
@@ -102,9 +102,13 @@ Table C
 
 Other income
 
-Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 3A Royalties
+Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income.
 
-Class 3B Income from Movable Property. Class 4 Pension, charge or annuity income. Class 5 Sweeping Up Class. Class 6 State Aid Recovery.
+Class 3 Income from rights. Class 3A Royalties Class 3B Income from Movable Property. Class 4 Pension, charge or annuity income. Class 5 Sweeping Up Class. Class 6 State Aid Recovery.
+
+PART 2
+
+PROFITS DERIVED FROM DISPOSALS OF INTEREST IN A RESIDENTIAL PROPERTY
 
 SCHEDULE 2
 
@@ -154,7 +158,9 @@ Chapter 2- Deleted
 
 Chapter 3 – First Year Allowances
 
-8.First year allowances. 9.Pool allowance. 10. Deleted. 11. Deleted. 12. Deleted. 12A. Deduction for construction costs. 12B. Deduction for construction costs: high value accommodation. 12C. Relocation costs.
+8.First year allowances. 9.Pool allowance. 10. Deleted. 11. Deleted. 12. Deleted. 12A. Deduction for construction costs.
+
+12B. Deduction for construction costs: high value accommodation. 12C. Relocation costs.
 
 Chapter 4 - Deleted
 
@@ -226,9 +232,7 @@ Part VI
 
 Controlled Foreign Company Rule
 
-19. Controlled foreign company rule.
-
-20. Computation of controlled foreign company income.
+19. Controlled foreign company rule. 20. Computation of controlled foreign company income.
 
 Part VII
 
@@ -248,7 +252,9 @@ Part II
 
 TAXATION APPLICABLE TO INTEREST AND ROYALTY PAYMENTS MADE BETWEEN ASSOCIATED COMPANIES OF DIFFERENT MEMBER STATES RULE
 
-4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
+4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer.
+
+9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
 
 TABLE A
 
@@ -300,7 +306,9 @@ Chapter 4
 
 Living accommodation
 
-12. Living accommodation to which this Chapter applies. 13. Accommodation provided for performance of duties. 14. Benefit of living accommodation treated as earnings. 15. Cash equivalent. 16. Cash equivalent: accommodation provided for more than one employee. 17. Meaning of “annual value”. 18. Disputes as to annual value. 19. Meaning of “the property”.
+12. Living accommodation to which this Chapter applies. 13. Accommodation provided for performance of duties. 14. Benefit of living accommodation treated as earnings. 15. Cash equivalent. 16. Cash equivalent: accommodation provided for more than one employee.
+
+17. Meaning of “annual value”. 18. Disputes as to annual value. 19. Meaning of “the property”.
 
 Chapter 5
 
@@ -318,7 +326,9 @@ Chapter 7
 
 Taxable benefits; residual liability to charge
 
-37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
+37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”.
+
+46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
 
 Chapter 8
 
@@ -330,7 +340,9 @@ Chapter 9
 
 Dispensations from obligations to report Benefits-in-kind
 
-70 General. 71 Commissioner’s power to give dispensation. 72 Meaning of “dispensation”. 73 Non taxable allowance in respect of benefits. 74 Employer’s payment of tax due on benefits. 75 Effect of dispensation. 76 Revocation of dispensation. 77 Effect of revocation from date given. 78 Effect of revocation from later date.
+70 General. 71 Commissioner’s power to give dispensation. 72 Meaning of “dispensation”. 73 Non taxable allowance in respect of benefits. 74 Employer’s payment of tax due on benefits. 75 Effect of dispensation. 76 Revocation of dispensation. 77 Effect of revocation from date given.
+
+78 Effect of revocation from later date.
 
 Chapter 10
 
@@ -368,9 +380,7 @@ Part III
 
 Continuity of the law
 
-13. Continuity of the law. 14. Changes in the law. 15. Subordinate legislation.
-
-16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
+13. Continuity of the law. 14. Changes in the law. 15. Subordinate legislation. 16. Reference to re-written provisions. 17. Reference to repealed provisions. 18. Interpretation and General Causes Act. 19. Application of paragraphs 17 and 18.
 
 SCHEDULE 10
 
