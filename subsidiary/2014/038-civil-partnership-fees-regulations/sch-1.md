@@ -14,10 +14,10 @@ PURPOSE FEE (£) REMARKS 1. Entry of Notice of Civil Partnership 59.00 Section 9
 
 176.50
 
-293.50 Section 5 7. General search of the indices or any register of civil partnership per day or part thereof 35.50
+293.50 Section 5 7. General search of the indices or any register of civil partnership per day or part thereof 52.00
 
-8. Certified copy of any entry in a civil partnership register 23.50
+8. Certified copy of any entry in a civil partnership register 35.00 9. Certified copy of an entry in a civil partnership register requested under Section 41(2)(b) of the Social Security (Insurance) Act 35.00
 
-9. Certified copy of an entry in a civil partnership register requested under Section 41(2)(b) of the Social Security (Insurance) Act 23.50
+10. Handling fee on an order for a copy or copies of an entry in a civil partnership register which is sent abroad through post 18.00
 
-10. Handling fee on an order for a copy or copies of an entry in a civil partnership register which is sent abroad through post 12.00
+11. Fee for changing the date of a civil partnership ceremony once it has been scheduled and paid for. 50.00
