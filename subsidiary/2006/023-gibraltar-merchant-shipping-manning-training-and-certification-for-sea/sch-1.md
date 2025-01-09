@@ -368,9 +368,7 @@ Mandatory minimum requirements for certification of GMDSS radio operators.
 
 2.2. have completed approved education and training and meet the standard of competence specified in Section A-IV/2 of the STCW Code.
 
-CHAPTER V
-
-SPECIAL TRAINING REQUIREMENTS FOR PERSONNEL ON CERTAIN TYPES OF SHIPS
+CHAPTER V SPECIAL TRAINING REQUIREMENTS FOR PERSONNEL ON CERTAIN TYPES OF SHIPS
 
 Regulation V/1-1
 
@@ -504,7 +502,9 @@ Mandatory minimum requirements for the training and qualifications of masters, o
 
 3 ships using gases or low flashpoint fuel as fuel.
 
-10.  Every Party shall compare the standards of competence which it required of persons serving on gas-fuelled ships before 1 January 2017 with the standards of competence in Section A-V/3 of the STCW Code, and shall determine the need, if any, for requiring these personnel to update their qualifications.
+10.  Every Party shall compare the standards of competence which it required of persons serving on gas-fuelled ships before 1 January 2017 with the standards of competence in Section
+
+A-V/3 of the STCW Code, and shall determine the need, if any, for requiring these personnel to update their qualifications.
 
 11.  Administrations shall ensure that a Certificate of Proficiency is issued to seafarers, who are qualified in accordance with paragraphs 4 or 7, as appropriate.
 
@@ -542,15 +542,13 @@ Transitional provisions
 
 1 having completed approved seagoing service on board a ship operating in polar waters or equivalent approved seagoing service, performing duties in the deck department at management level, for a period of at least three months in total during the preceding five years; or
 
-2 having successfully completed a training course meeting the training guidance established by the Organization for ships operating in polar waters2 and having completed approved seagoing service on board a ship operating in polar waters or equivalent approved seagoing service, performing duties in the deck department at
-
-2 Refer to section B-V/g of the STCW Code.
-
-the management level, for a  period  of  at  least two months in total during the preceding five years.
+2 having successfully completed a training course meeting the training guidance established by the Organization for ships operating in polar waters2 and having completed approved seagoing service on board a ship operating in polar waters or equivalent approved seagoing service, performing duties in the deck department at the management level, for a  period  of  at  least two months in total during the preceding five years.
 
 CHAPTER VI EMERGENCY, OCCUPATIONAL SAFETY, SECURITY, MEDICAL CARE AND SURVIVAL FUNCTIONS
 
 Regulation VI/1
+
+2 Refer to section B-V/g of the STCW Code.
 
 Mandatory minimum requirements for safety familiarisation, basic training and instruction for all seafarers.
 
