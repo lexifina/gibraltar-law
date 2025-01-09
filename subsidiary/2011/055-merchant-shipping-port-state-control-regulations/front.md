@@ -6,13 +6,11 @@ LN.2011/055
 
 Commencement 12.4.2011
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2013/102 Corrigendum 2013/120 r. 2(1) 20.8.2013 2014/214 rr. 2(1), (3), 3(4)-(6), 18(3)-(5), 18A, 19(6), 20(3A)- (3C), (8), (8A)-(8C), Schs. 1, 4-5, 10
+Amending enactments Relevant current provisions Commencement date LN. 2013/102 Corrigendum 2013/120 r. 2(1) 20.8.2013 2014/214 rr. 2(1), (3), 3(4)-(6), 18(3)-(5), 18A, 19(6), 20(3A)- (3C), (8), (8A)-(8C), Schs. 1, 4-5, 10
 
 21.11.2014 2015/044 rr. 2(1), Sch. 4 19.3.2015 2015/089 Sch. 4 1.7.2015 2020/097 rr. 2(1), 3(7), 14(1), 14A, 16(3)-(5), 17(1), (1A), (2), Sch. 15
 
-5.3.2020 2020/387 rr. 2(1), 14A(8), 21(9), 28(1), Schs. 1, 8, 12, 15 1.1.2021
+5.3.2020 2020/387 rr. 2(1), 14A(8), 21(9), 28(1), Schs. 1, 8, 12, 15 1.1.2021 2025/006 rr. 2(1)(k)-(l), 16(1)-(2), Schs. 4, 6 9.1.2025
 
 Transposing: Directive 96/40/EC Directive 2009/16/EC Directive 2013/38/EU Directive (EU) 2017/2110
 
@@ -36,7 +34,7 @@ SCHEDULE 4 LIST OF CERTIFICATES AND DOCUMENTS
 
 SCHEDULE 5 EXAMPLES OF CLEAR GROUNDS
 
-SCHEDULE 6 PROCEDURES FOR THE CONTROL OF SHIPS
+SCHEDULE 6 Omitted
 
 SCHEDULE 7 EXPANDED INSPECTION OF SHIPS
 

@@ -67,3 +67,5 @@ B.  Examples of clear grounds for the control of ships on security aspects
 2.  If clear grounds as described above are established, the inspector shall immediately inform the competent security authority. The competent security authority shall then decide on what further control measures are necessary taking into account the security level in accordance with Regulation 9 of SOLAS 74, Chapter XI.
 
 3.  Clear grounds other than those above are a matter for the competent security authority.
+
+___________________________________
