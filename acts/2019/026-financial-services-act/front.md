@@ -24,7 +24,11 @@ LN.2020/005 ss.24(3)(g), 25(2)(a), 382, 344(1)-(3), 345(2), 346- 348A, 349(2)(a)
 
 2023/104 s. 612(4), (4A) 4.5.2023 2023/141 ss. 38(1)-(3), (5)-(6), 286(1), (1A)-(1B), (2)-(3), Schs. 6-7, 21
 
-8.6.2023 2023/161 Sch. 2 23.6.2023 2023/250 ss. 83A(1)-(5) 24.8.2023 2023/260 Sch. 2 7.9.2023 2024/026 Sch. 9 14.3.2024 Act. 2024-10 s. 23A 31.5.2024
+8.6.2023 2023/161 Sch. 2 23.6.2023 2023/250 ss. 83A(1)-(5) 24.8.2023 2023/260 Sch. 2 7.9.2023 2024/026 Sch. 9 14.3.2024 Act. 2024-10 s. 23A 31.5.2024 2024-23 ss. 20, 24(3)(a)(i)-(ii), (iv), (b)-(d), (f)-(h), (k)-(o), (p)(i), (q), (s)-(u), (3A), (4), (6), 30(5), (a), 38(5), 45(1), (2)(a)(i)-(iii), 46(2)(a)(i)-(iii), 50-51, 52A, 55A-55C, 62(1)(b)-(c), 65(2)(a), 68(3)(a), 69(1)(d)(i), 70(2)(c)(i), (5)(a), 77(4)-(5), (5A)-(5B), 79(3), (a)-(b), 83A, 85, 86(1)-(2), 87(2), (2A), (b), (2B), 88(1), (5), 88A, 89(1)-(2), 91, 94(1A), (2)-(3), 94A, 97(1)-(2), 98(1)(a)-(b), (1A), 100(1)-(2), (b), (d), 101(4), 104(1)(c), 113(1), 120(2), 122(1)-(2), (4), (6), 122A, 123(1), (1A), (2)-(6), 123A, 124(5), 129(4A), (7), 130(1)-(2)131(1)(e)(iv), (f)-(h), (2), 132(2), (7), (7A)-(7B), 145(1)(a)(i)-(ii), 176(1)-(2), 286(2), 348ZA, 543(1)-(2), 544(1)(b)-(c), (4)-(5), 546(3), 612(6), 613(4), (7), 616(1), (4)-(5), 616A, 617A(1), (1A), 620(2), (b)-(d), 621(2), 626(1)-(2), 626A(1), (3)(b)(ii), (4), 626B, 627(1)-(3), Schs. 5-7, 9, 14-15
+
+10.1.20251
+
+1 Notice of Commencement – LN.2025/002
 
 ARRANGEMENT OF SECTIONS
 
@@ -130,7 +134,7 @@ Exchanging information with other authorities
 
 Provision of assistance to other regulators
 
-50. Providing assistance to other regulators. 51. Refusing to provide assistance. 52. Transitional Provision.
+50. Providing assistance to other regulators. 51. Refusing to provide assistance. 52. Transitional Provision. 52A. Offences.
 
 PART 6 AUTHORISATION AND EXEMPTION
 
@@ -140,7 +144,7 @@ Introduction
 
 Authorisation
 
-54. Authorised persons. 55. Partnerships and unincorporated associations.
+54. Authorised persons. 55. Partnerships and unincorporated associations. 55A. UK-based persons carrying on activities in Gibraltar. 55B. Gibraltar-based persons carrying on activities in the UK. 55C. Provision about market access and alignment.
 
 Ending of authorisation
 
@@ -158,9 +162,7 @@ Interpretation
 
 Initial applications for permission
 
-63. Persons who can apply for permission. 64. Meaning of “the threshold conditions”. 65. Requirement to satisfy the threshold conditions.
-
-66. Firms based outside Gibraltar. 67. Giving permission.
+63. Persons who can apply for permission. 64. Meaning of “the threshold conditions”. 65. Requirement to satisfy the threshold conditions. 66. Firms based outside Gibraltar. 67. Giving permission.
 
 Variation and cancellation of permission
 
@@ -202,11 +204,11 @@ Introduction
 
 Regulated individuals
 
-86. Regulated functions. 87. Obligation to ensure regulated functions being performed. 88. Regulated functions only to be performed by regulated individuals. 89. Significant influence. 90. Temporary position. 91. Power to amend list of regulated functions. 92. Power to issue guidance on regulated functions.
+86. Regulated functions. 87. Obligation to ensure regulated functions being performed. 88. Regulated functions only to be performed by regulated individuals. 88A. Non-executive directors. 89. Significant influence. 90. Temporary position. 91. Power to amend Schedules 14 and 15. 92. Power to issue guidance on regulated functions.
 
 Approval of regulated individuals by the GFSC
 
-93. Regulated individuals to be approved by the GFSC. 94. Criteria for approval. 95. Applications for approval. 96. Pre-application vetting of candidates by RI firms. 97. Determination of applications. 98. Period of consideration for determination of applications.
+93. Regulated individuals to be approved by the GFSC. 94. Criteria for approval. 94A. Additional requirements for outsourced providers. 95. Applications for approval. 96. Pre-application vetting of candidates by RI firms. 97. Determination of applications. 98. Period of consideration for determination of applications.
 
 Notification of changes
 
@@ -248,7 +250,9 @@ Disregarded holdings
 
 Assessment procedure
 
-118. Assessment: general. 119. Assessment criteria. 120. Approval with conditions. 121. Assessment: consultation with EEA authorities. 122. Assessment: procedure. 123. Requests for further information.
+118. Assessment: general. 119. Assessment criteria. 120. Approval with conditions.
+
+121. Assessment: consultation with EEA authorities. 122. Assessment: procedure. 122A. Duration of approval. 123. Requests for further information. 123A. Incomplete notices.
 
 Objections and enforcement
 
@@ -264,7 +268,7 @@ Offences
 
 Miscellaneous
 
-130. Power to change definitions of control etc.
+130. Power to change definitions of control etc. or deadlines.
 
 PART 10 INFORMATION GATHERING AND INVESTIGATORY POWERS
 
@@ -304,15 +308,15 @@ Sanctioning powers
 
 Sanctioning actions
 
-157. Sanctioning actions. 158. Criteria for sanctioning actions. 159. Notice procedure and appeals. 160. Dispensing with a warning notice: sanctions in urgent cases. 161. Administrative penalty a civil debt. 162. Revocation or variation of prohibition order.
+157. Sanctioning actions. 158. Criteria for sanctioning actions. 159. Notice procedure and appeals. 160. Dispensing with a warning notice: sanctions in urgent cases.
+
+161. Administrative penalty a civil debt. 162. Revocation or variation of prohibition order.
 
 Transitional and savings
 
 163. Transitional and savings.
 
-PART 12
-
-DUTIES OF AUDITORS AND ACTUARIES
+PART 12 DUTIES OF AUDITORS AND ACTUARIES
 
 Appointment of auditors and actuaries
 
@@ -410,9 +414,7 @@ Funding
 
 Deposits covered by Scheme
 
-212. Eligible deposits.
-
-213. Marking of deposits. 214. Coverage limits. 215. Determination that deposit is unavailable.
+212. Eligible deposits. 213. Marking of deposits. 214. Coverage limits. 215. Determination that deposit is unavailable.
 
 Compensation
 
@@ -442,9 +444,7 @@ The financing arrangements
 
 Funding
 
-230. Financing arrangements levy. 231. Extraordinary contributions. 232. Alternative funding.
-
-233. Omitted.
+230. Financing arrangements levy. 231. Extraordinary contributions. 232. Alternative funding. 233. Omitted.
 
 Group resolution.
 
@@ -466,13 +466,13 @@ Right of investors to compensation
 
 Participation in investor compensation scheme
 
-246. Gibraltar investor compensation scheme. 247. Participation in scheme: Gibraltar investment firms. 248. Participation in scheme: UK firms. 249. Participation in scheme: third country investment firm. 250. Omitted. 251. Omitted. 252. Omitted. 253. Omitted.
+246. Gibraltar investor compensation scheme. 247. Participation in scheme: Gibraltar investment firms. 248. Participation in scheme: UK firms. 249. Participation in scheme: third country investment firm. 250. Omitted.
+
+251. Omitted. 252. Omitted. 253. Omitted.
 
 Failure to participate
 
-254. Failure to comply with Gibraltar scheme: measures short of exclusion. 255. Failure to comply with Gibraltar scheme: exclusion.
-
-256. Failure to participate in scheme.
+254. Failure to comply with Gibraltar scheme: measures short of exclusion. 255. Failure to comply with Gibraltar scheme: exclusion. 256. Failure to participate in scheme.
 
 Co-operation with Board
 
@@ -492,13 +492,13 @@ Gibraltar Investor Compensation Board
 
 Administration of the Gibraltar scheme
 
-268. Administration of the Gibraltar scheme. 269. Establishment of fund. 270. Annual fee. 271. Levies on participating firms (in cases of default). 272. Levies on participating firms (precautionary). 273. Liquidation or receivership of participating firm in default. 274. Subrogation. 275. Information to investors.
+268. Administration of the Gibraltar scheme. 269. Establishment of fund. 270. Annual fee. 271. Levies on participating firms (in cases of default). 272. Levies on participating firms (precautionary). 273. Liquidation or receivership of participating firm in default. 274. Subrogation.
+
+275. Information to investors.
 
 Miscellaneous provisions
 
-276. Income tax treatment of participating firms. 277. Omitted. 278. Information requirements: third country investment firm with a branch in Gibraltar. 279. Co-operation with other authorities.
-
-280. Information sharing with other authorities.
+276. Income tax treatment of participating firms. 277. Omitted. 278. Information requirements: third country investment firm with a branch in Gibraltar. 279. Co-operation with other authorities. 280. Information sharing with other authorities.
 
 PART 17 RECOVERY AND RESOLUTION
 
@@ -518,9 +518,7 @@ CHAPTER 3 AUTHORISATION OF UCITS SCHEMES
 
 Applications for authorisation
 
-297. UCITS schemes: authorisation. 298. Application for authorisation of a UCITS scheme. 299. Authorisation of a UCITS scheme. 300. Omitted. 301. Determination of application: UCITS schemes. 302. Certificate of authorisation of a UCITS scheme.
-
-303.  Procedure when refusing authorisation: UCITS schemes.
+297. UCITS schemes: authorisation. 298. Application for authorisation of a UCITS scheme. 299. Authorisation of a UCITS scheme. 300. Omitted. 301. Determination of application: UCITS schemes. 302. Certificate of authorisation of a UCITS scheme. 303.  Procedure when refusing authorisation: UCITS schemes.
 
 Application for revocation of authorisation
 
@@ -546,7 +544,9 @@ Power to impose conditions
 
 CHAPTER 5 RECOGNITION OF FOREIGN SCHEMES
 
-316. Recognised schemes. 317. Application for recognition of a foreign scheme. 318. Recognition of a foreign scheme. 319. Determination of application: foreign schemes. 320. Procedure when refusing an application for recognition. 321. Application for revocation of recognition.
+316. Recognised schemes.
+
+317. Application for recognition of a foreign scheme. 318. Recognition of a foreign scheme. 319. Determination of application: foreign schemes. 320. Procedure when refusing an application for recognition. 321. Application for revocation of recognition.
 
 CHAPTER 6 Omitted
 
@@ -566,15 +566,15 @@ CHAPTER 8 MISCELLANEOUS
 
 336. Publication of information in connection with UCITS schemes. 337. Regulations for schemes authorised under Chapter 3 or 4. 338. Regulations for schemes recognised under Chapter 5. 339. Regulations for experienced investor funds. 340. Other regulations. 341. Codes of practice and guidance notes.
 
-PART 19 LISTING AND PROSPECTUSES
+PART 19
+
+LISTING AND PROSPECTUSES
 
 CHAPTER 1 PRELIMINARY
 
 342. Overview.
 
-CHAPTER 2
-
-LISTING OF SECURITIES
+CHAPTER 2 LISTING OF SECURITIES
 
 343. Official Listing Rules.
 
@@ -598,17 +598,17 @@ Prospectuses
 
 Investigations and intervention powers
 
-347. Investigations. 348. Intervention powers.
+347. Investigations. 348. Intervention powers. 348ZA. Notice: sections 347 and 348.
 
 Infringements
 
-348A. Reporting of infringements. 349. Entry of premises under warrant. 350. Sanctions for contraventions. 351. Exercise of powers.
+348A. Reporting of infringements.
+
+349. Entry of premises under warrant. 350. Sanctions for contraventions. 351. Exercise of powers.
 
 Appeals
 
-351A. Appeals. 352. Omitted. 353. Omitted.
-
-354. Omitted.
+351A. Appeals. 352. Omitted. 353. Omitted. 354. Omitted.
 
 CHAPTER 4 TRANSPARENCY REQUIREMENTS
 
@@ -702,9 +702,9 @@ CHAPTER 1 PRELIMINARY
 
 CHAPTER 2 TRANSFER OF GENERAL BUSINESS
 
-435. Application of Chapter 2. 436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required. 438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision. 444. Effect of approval.
+435. Application of Chapter 2.
 
-445. Notice of transfer. 446. Omitted. 447. Service of notices under this Chapter.
+436. Disapplication of certain provisions: reinsurance undertakings. 437. GFSC approval required. 438. Notice of proposed transfer. 439. Statement of particulars of proposed transfer. 440. Grant of approval: general. 441. Grant of approval. 442. Omitted. 443. Publication of decision. 444. Effect of approval. 445. Notice of transfer. 446. Omitted. 447. Service of notices under this Chapter.
 
 CHAPTER 3 TRANSFER OF LONG TERM BUSINESS
 
@@ -742,7 +742,9 @@ Registration
 
 Professional ethics, independence and objectivity
 
-493. Professional ethics and scepticism. 494. Independence and objectivity. 495. Employment by audited entities of former audit personnel. 496. Preparation for the statutory audit and assessment of threats to independence. 497. Independence and objectivity of the statutory auditors carrying out the statutory audit on behalf of audit firms.
+493. Professional ethics and scepticism. 494. Independence and objectivity. 495. Employment by audited entities of former audit personnel.
+
+496. Preparation for the statutory audit and assessment of threats to independence. 497. Independence and objectivity of the statutory auditors carrying out the statutory audit on behalf of audit firms.
 
 Confidentiality and professional secrecy
 
@@ -770,7 +772,9 @@ Investigations
 
 Sanctions
 
-517. Sanctioning powers. 518. Non-compliance declaration. 519. Audit prohibition order. 520. Suspension or withdrawal, etc. of approval or registration. 521. Administrative penalties. 522. Restoration. 523. Reporting of contraventions. 524. Omitted.
+517. Sanctioning powers.
+
+518. Non-compliance declaration. 519. Audit prohibition order. 520. Suspension or withdrawal, etc. of approval or registration. 521. Administrative penalties. 522. Restoration. 523. Reporting of contraventions. 524. Omitted.
 
 Public oversight and regulatory arrangements between EEA States
 
@@ -796,13 +800,13 @@ Introduction
 
 Licensing
 
-539. Application for insolvency practitioner’s licence. 540. Licensing criteria. 541. Issue or refusal of licence. 542. Disqualification from holding a licence. 543. Licence conditions. 544. Determination of applications: notice procedure.
+539. Application for insolvency practitioner’s licence. 540. Licensing criteria.
+
+541. Issue or refusal of licence. 542. Disqualification from holding a licence. 543. Licence conditions or restrictions. 544. Determination of applications: notice procedure.
 
 Control of licensees and enforcement
 
-545. Production of accounts and records. 546. Suspension and revocation of licence.
-
-547. Other sanctions. 548. Directions. 549. Procedure.
+545. Production of accounts and records. 546. Suspension and revocation of licence. 547. Other sanctions. 548. Directions. 549. Procedure.
 
 Eligibility to act as insolvency practitioner
 
@@ -832,9 +836,7 @@ Authorisation
 
 Supervision
 
-565. Prudential supervision. 566. Requirements as to procedures and mechanisms for IORPs.
-
-567. Supervisory review process. 568. Transparency and accountability.
+565. Prudential supervision. 566. Requirements as to procedures and mechanisms for IORPs. 567. Supervisory review process. 568. Transparency and accountability.
 
 Intervention
 
@@ -850,7 +852,9 @@ Professional secrecy and exchange of information
 
 Miscellaneous
 
-585. Regulations applying to IORPS. 586. Omitted. 587. Omitted. 588. Appeals. 589. Omitted. 590. Processing of personal data. 591. Transitional arrangements.
+585. Regulations applying to IORPS. 586. Omitted. 587. Omitted. 588. Appeals. 589. Omitted.
+
+590. Processing of personal data. 591. Transitional arrangements.
 
 PART 27 PERSONAL PENSION SCHEMES
 
@@ -886,9 +890,7 @@ PART 28 NOTICE PROCEDURE, APPEALS AND PUBLICATION
 
 Notices
 
-612. Warning notice.
-
-613. Decision notices.
+612. Warning notice. 613. Decision notices.
 
 Interim orders
 
@@ -898,9 +900,9 @@ Appeals
 
 615. Appeals.
 
-Publication of sanctions
+Publication of sanctions, supervisory action and other statements
 
-616. Publication of sanctioning action. 617. Restrictions on publication. 618. Limited publication while appeal is pending.
+616. Publication of sanctioning action. 616A. Publication of supervisory action. 617. Restrictions on publication. 618. Limited publication while appeal is pending.
 
 Service
 
@@ -914,7 +916,9 @@ General powers: regulated activities, audits and insolvency
 
 Miscellaneous other powers
 
-622. Consumer credit regulations. 623. Regulated markets regulations. 624. Fees regulations. 625. Penalty regulations. 626. EU withdrawal regulations. 626A. Technical standards regulations. 627. General power to make further provision by regulations.
+622. Consumer credit regulations. 623. Regulated markets regulations. 624. Fees regulations. 625. Penalty regulations.
+
+626. EU withdrawal regulations. 626A. Technical standards regulations. 626B.  Provision for international agreements. 627. General power to make further provision by regulations.
 
 Supplementary
 
@@ -940,7 +944,9 @@ SCHEDULE 2 Regulated activities
 
 SCHEDULE 3 Index of regulated activities
 
-SCHEDULE 4 Gibraltar Financial Services Commission
+SCHEDULE 4
+
+Gibraltar Financial Services Commission
 
 SCHEDULE 5 Regulatory objectives
 
@@ -962,7 +968,7 @@ SCHEDULE 13 GFSC’s power under section 69: sector-specific conditions
 
 SCHEDULE 14 Regulated functions
 
-SCHEDULE 15 Significant influence: additional regulated functions
+SCHEDULE 15 Non-Executive Directors
 
 SCHEDULE 16 Connected Persons
 

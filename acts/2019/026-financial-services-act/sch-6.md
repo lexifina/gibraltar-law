@@ -64,9 +64,13 @@ Procedure and meetings.
 
 (4)  The DMC must record any decision, including the reasons for the decisions, in writing.
 
-(5)  If at any time, as a result of members being unable to act due to conflicts of interest or otherwise unavailable, there are insufficient members available to discharge the DMC’s functions (whether generally or in relation to a particular matter), the Minister may, after consulting with the GFSC, appoint temporary members for a specified period or to make decisions in respect of a particular matter.
+(5)  If at any time, as a result of members being unable to act due to conflicts of interest or otherwise unavailable, there are insufficient members available to discharge the DMC’s functions (whether generally or in relation to a particular matter), the Minister may–
 
-(6)  If, after the Minister has appointed temporary members under sub-paragraph (5), there are insufficient members available who may decide a matter before the DMC, the Minister may make appointments under paragraph 1(4) or may direct that the decision is to be taken by the members of the GFSC.
+(a) after consulting with the DMC Chair, direct that the DMC’s functions in respect of a particular matter are to be exercised by the DMC Chair or another legally qualified member, acting alone; or
+
+(b) after consulting with the GFSC, appoint temporary members for a specified period or to make decisions in respect of a particular matter.
+
+(6)  If, after the Minister has taken any steps under sub-paragraph (5) that the Minister considers appropriate, there are insufficient members available who may decide a matter before the DMC, the Minister may make appointments under paragraph 1(4) or may direct that the decision is to be taken by the members of the GFSC.
 
 (7)  For the purpose of this Schedule, in respect of conflicts of interest, paragraph 2 of Schedule 4 applies to the DMC (with any necessary modifications) as it applies to the GFSC.
 
@@ -88,6 +92,34 @@ Urgent decisions.
 
 (2)  The DMC Chair may in writing authorise another legally qualified member to exercise the power in sub-paragraph (1) in the DMC Chair’s absence or in any case where the DMC Chair is unable to act.
 
+Exceptional cases.
+
+5A.(1)  If, due to the nature or circumstances of a particular matter before the DMC, the Minister considers that–
+
+(a) it is not feasible to appoint a panel in accordance with paragraphs 1 and 4 to decide the matter; and
+
+(b) it would be inappropriate to exercise the power in paragraph 4(6) to direct the members of the GFSC to decide the matter,
+
+the Minister, after consulting the GFSC, may appoint a suitably qualified individual to act in place of the DMC and decide the matter.
+
+(2)  An individual is suitably qualified for appointment under sub-paragraph (1) if the Minister considers that the individual has the necessary expertise to decide the matter.
+
+(3)  The Minister must not appoint an individual under sub-paragraph (1) if it appears to the Minister that the individual has a direct interest in any matter to which the matter relates or a close association with an interested party.
+
+(4)  An individual appointed under sub-paragraph (1) is to be appointed on such terms as the Minister may specify in the instrument of appointment and, in respect of the particular matter for which the individual is appointed, is to be treated as–
+
+(a) the DMC for the purposes of exercising any function conferred on the DMC by or under this Act (which the individual may do acting alone); and
+
+(b) as a member of the DMC for all relevant purposes under this Act including, in particular, immunity under paragraph 7.
+
+(5)  The following provisions of this Schedule do not apply to an appointment under sub- paragraph (1)–
+
+(a) paragraph 1(1) to (6) and (10);
+
+(b) paragraph 4(1) to (3) and 5 to (7); and
+
+(c) paragraph 5.
+
 General powers.
 
 6.  The DMC may do anything which is calculated to facilitate, or is conducive or incidental to, the discharge of any function conferred on the DMC by or under this Act.
@@ -100,7 +132,7 @@ Immunity.
 
 (2)  Sub-paragraphs (1) and (1A) do not apply to an act or omission which is shown to have been in bad faith.
 
-(3)  The GFSC must (unless bad faith is definitively found to have existed) indemnify any person to whom sub-paragraph (1A) applies for the costs of defending any action brought by a third party in respect of anything the person is alleged to have done or omitted in the discharge or purported discharge of any of the DMC’s functions.
+(3)  The GFSC must (unless bad faith is definitively found to have existed) indemnify any person to whom sub-paragraph (1A) applies for all costs and damages incurred in defending any action brought by a third party in respect of anything the person is alleged to have done or omitted in the discharge or purported discharge of any of the DMC’s functions.
 
 (4)  In this paragraph–
 

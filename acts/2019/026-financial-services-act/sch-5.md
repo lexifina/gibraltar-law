@@ -24,11 +24,17 @@ The public awareness objective is promoting public understanding of the financia
 
 4. The Protection of the Good Reputation of Gibraltar.
 
-The protection of the good reputation of Gibraltar objective is taking such action as required by the Government or is considered necessary by the GFSC in consultation with the financial sector and with the consent of the Minister to preserve Gibraltar’s good reputation as a financial services centre.
+The protection of the good reputation of Gibraltar objective is protecting and enhancing the good reputation of Gibraltar as a financial centre.
+
+In pursuit of this objective, the GFSC must take such action that–
+
+(a) the GFSC considers necessary, having considered the impact on the financial sector; or
+
+(b) the Government may require.
 
 5. The Protection of Consumers.
 
-The protection of consumers’ objective is securing the appropriate degree of protection for consumers.
+The protection of consumers objective is securing the appropriate degree of protection for consumers.
 
 In considering what degree of protection may be appropriate, the GFSC must have regard to–
 

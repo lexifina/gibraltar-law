@@ -34,6 +34,8 @@ National Coordinator for anti-money laundering and combating terrorist financing
 
 Office of Criminal Prosecutions & Litigation;
 
+Office of Fair Trading;
+
 Registrar of Friendly Societies
 
 Royal Gibraltar Police.
