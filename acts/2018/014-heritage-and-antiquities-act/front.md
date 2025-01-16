@@ -8,7 +8,7 @@ Amending enactments Relevant current provisions Commencement date
 
 LN.2020/253 Sch.2 9.7.2020 2022/325 Sch.2 24.11.2022 2023/029 Sch.5 16.2.2023 2023/084 Sch.4 6.4.2023 2023/173 Sch.1 29.6.2023 Act.2023-20 ss. 3, 27(a), 28A-29C, 49(1)-(2), (5)-(8), 50, 51(2)(f), Sch.2
 
-27.7.2023 LN.2023/269 Sch.2 14.9.2023
+27.7.2023 LN.2023/269 Sch.2 14.9.2023 Act.2024-36 s. 52 16.1.2025
 
 ARRANGEMENT OF SECTIONS
 
@@ -64,7 +64,7 @@ PART 9 THE GIBRALTAR HERITAGE TRUST
 
 PART 10 MISCELLANEOUS PROVISIONS
 
-47. Register of scheduled monuments etc. 48. Treatment and preservation of finds. 49. Restrictions on import or export of antiquity or object of interests in or from Gibraltar. 50. Repealed. 51. Regulations. 52. Legal Deposit. 53. Repeal of Gibraltar Heritage Trust Act 1989. 54. Savings and Transitional Provisions 55. Consequential Amendments
+47. Register of scheduled monuments etc. 48. Treatment and preservation of finds. 49. Restrictions on import or export of antiquity or object of interests in or from Gibraltar. 50. Repealed. 51. Regulations. 52. Repealed. 53. Repeal of Gibraltar Heritage Trust Act 1989. 54. Savings and Transitional Provisions 55. Consequential Amendments
 
 Schedule 1 Heritage and Antiquities Advisory Council.
 
