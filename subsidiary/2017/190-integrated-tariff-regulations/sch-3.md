@@ -6,19 +6,9 @@ Regulation 6(2)
 
 Description Rate of Duty
 
-1. Packing and all other items used or to be used as packing for the re-export trade provided that-
+1. Packing and all other items used or to be used as packing for the re-export trade provided that- (a) they are such as to be identifiable on exportation; and (b) if imported filled, they are declared on importation as being for exportation empty or filled; or (c) if imported empty, they are declared on importation as being for exportation filled; and (d) they are re-exported within such period as the Collector may have determined:
 
-(a) they are such as to be identifiable on exportation; and
-
-(b) if imported filled, they are declared on importation as being for exportation empty or filled; or
-
-(c) if imported empty, they are declared on importation as being for exportation filled; and
-
-(d) they are re-exported within such period as the Collector may have determined:
-
-Provided where packings temporarily imported cannot be exported as a result of a seizure, other than a seizure made at pursuit of a private person, the requirement of exportation shall be suspended for the duration of the seizure;
-
-(e) nothing in this Schedule shall preclude the application of restrictions and controls imposed under legislation relating to public security, hygiene or public health or for veterinary or phythopathological considerations
+Provided where packings temporarily imported cannot be exported as a result of a seizure, other than a seizure made at pursuit of a private person, the requirement of exportation shall be suspended for the duration of the seizure; (e) nothing in this Schedule shall preclude the application of restrictions and controls imposed under legislation relating to public security, hygiene or public health or for veterinary or phythopathological considerations
 
 Free
 
@@ -34,13 +24,7 @@ Free
 
 Provided that the provision shall apply only to those Consular Officers and Diplomatic and Consular Clerks who are-
 
-(a) nationals of the State they represent;
-
-(b) permanent and pensionable employees of the State they represent;
-
-(c) not engaged in any private occupation for gain; and
-
-(d) representing a state which grants like privileges to United Kingdom Consular Officers and Consular and Diplomatic Clerks
+(a) nationals of the State they represent; (b) permanent and pensionable employees of the State they represent; (c) not engaged in any private occupation for gain; and (d) representing a state which grants like privileges to United Kingdom Consular Officers and Consular and Diplomatic Clerks
 
 Free
 
@@ -86,29 +70,13 @@ Free
 
 15. Goods (other than motor vehicles) imported by a person entering Gibraltar if-
 
-(a) the Collector is satisfied that the person resides outside of Gibraltar;
-
-(b) the goods are intended solely for his personal use or for that of his dependants;
-
-(c) the goods have been both owned and used by him outside Gibraltar; and
-
-(d) the goods are on importation, declared to a Customs Officer:
+(a) the Collector is satisfied that the person resides outside of Gibraltar; (b) the goods are intended solely for his personal use or for that of his dependants; (c) the goods have been both owned and used by him outside Gibraltar; and (d) the goods are on importation, declared to a Customs Officer:
 
 Free
 
 16. Articles of the kind and in the quantities specified in the Note to this paragraph, carried by or with a person entering Gibraltar  as part of his personal effects  provided that-
 
-(a) he has not been in Gibraltar during the period of 24 hours immediately preceding the time of the entry; and
-
-(b) intends to remain in Gibraltar for at least 24 hours immediately following the time of the entry;
-
-(c) is not a person who regularly enters or returns to Gibraltar which expression includes a person who enters or returns to Gibraltar more than once in any calendar month;
-
-(d) is not a person who enters Gibraltar as a member of the paid crew of a ship or aircraft unless he either pays off from that ship or aircraft or proceeds on leave for a period of more than 5 days;
-
-(e) is not a person under the age of 17   years in respect of tobacco products or alcoholic beverages
-
-NOTE:
+(a) he has not been in Gibraltar during the period of 24 hours immediately preceding the time of the entry; and (b) intends to remain in Gibraltar for at least 24 hours immediately following the time of the entry; (c) is not a person who regularly enters or returns to Gibraltar which expression includes a person who enters or returns to Gibraltar more than once in any calendar month; (d) is not a person who enters Gibraltar as a member of the paid crew of a ship or aircraft unless he either pays off from that ship or aircraft or proceeds on leave for a period of more than 5 days; (e) is not a person under the age of 17   years in respect of tobacco products or alcoholic beverages NOTE:
 
 1. Tobacco Products- 200 cigarettes or 100 cigarillos (cigars with a maximum weight of 3 grammes each) or 50 cigars or 250 grammes of smoking tobacco.
 
@@ -128,39 +96,23 @@ In the case of a person who resides elsewhere than in the United Kingdom of Grea
 
 Free
 
-18. A vehicle, including the component parts, normal accessories and equipment imported with it and the lubricants and fuel contained in the standard tanks fitted by the manufacturer to a vehicle of that type and including wireless apparatus installed in that vehicle such as to be a permanent fixture thereof but not a vehicle which by its type of construction or equipment, is designed for and capable of transporting more than nine persons including the driver or goods or any special purpose vehicle or mobile workshop imported into Gibraltar by a temporary visitor:
+18. A vehicle, including the component parts, normal accessories and equipment imported with it and the lubricants and fuel contained in the standard tanks fitted by the manufacturer to a vehicle of that type and including wireless apparatus installed in that vehicle such as to be a permanent fixture thereof but not a vehicle which by its type of construction or equipment, is designed for and capable of transporting more than nine persons including the driver or goods or any special purpose vehicle or mobile workshop imported into Gibraltar by a temporary visitor: Provided that the vehicle-
 
-Provided that the vehicle-
+(a) is intended to be used and is used only by the temporary visitor for his private use and is not– (i) used for the conveyance of passengers for hire or reward between two points within Gibraltar or the industrial or commercial transportation of goods between two such points:
 
-(a) is intended to be used and is used only by the temporary visitor for his private use and is not–
-
-(i) used for the conveyance of passengers for hire or reward between two points within Gibraltar or the industrial or commercial transportation of goods between two such points:
-
-Provided that the transportation by a sales representative of the sample, hand books and tools necessary for the exercise of his occupation, shall not be treated as industrial or commercial transportation;
-
-(ii) used in the course of an activity carried on for consideration or financial gain;
-
-(iii) lent, hired out or otherwise disposed of whilst in Gibraltar;
-
-(b) is intended to be exported and is so exported from Gibraltar within the temporary importation period:
-
-Provided that where the vehicle is the subject of a hire contract which ends before the expiry of the temporary importation period, the Collector may authorise a further five days
+Provided that the transportation by a sales representative of the sample, hand books and tools necessary for the exercise of his occupation, shall not be treated as industrial or commercial transportation; (ii) used in the course of an activity carried on for consideration or financial gain; (iii) lent, hired out or otherwise disposed of whilst in Gibraltar; (b) is intended to be exported and is so exported from Gibraltar within the temporary importation period: Provided that where the vehicle is the subject of a hire contract which ends before the expiry of the temporary importation period, the Collector may authorise a further five days
 
 after the expiration of the contract for the vehicle to be exported within the five days  and on condition that it will not be re-imported into Gibraltar
 
 Free
 
-19. A vehicle imported into Gibraltar across the land frontier with the Kingdom of Spain by a temporary visitor normally resident in the Kingdom of Spain whose occupation requires him to travel regularly between his home and place of work situated in Gibraltar:
-
-Provided that the vehicle–
+19. A vehicle imported into Gibraltar across the land frontier with the Kingdom of Spain by a temporary visitor normally resident in the Kingdom of Spain whose occupation requires him to travel regularly between his home and place of work situated in Gibraltar: Provided that the vehicle–
 
 (a) is intended to be used and is used by the temporary visitor only for the outward and return journeys between his home and place of work and is not used in Gibraltar for the conveyance of passengers for hire or reward between two points within Gibraltar or the industrial or commercial transportation of goods between two such points:
 
 Provided that the transportation by a sales representative of the samples, handbooks and tools necessary for the exercise of his occupation, shall not be treated as industrial or commercial transportation;
 
-(b) is not let, hired out or otherwise disposed of whilst in Gibraltar;
-
-(c) is intended to be exported and is so exported from Gibraltar on the departure therefrom by the temporary visitor, unless in any particular case, the Collector shall have otherwise allowed; and
+(b) is not let, hired out or otherwise disposed of whilst in Gibraltar; (c) is intended to be exported and is so exported from Gibraltar on the departure therefrom by the temporary visitor, unless in any particular case, the Collector shall have otherwise allowed; and
 
 Free
 
@@ -168,59 +120,17 @@ Free
 
 20. A vehicle imported into Gibraltar by a person who satisfies and continues to satisfy the  Collector that–
 
-(a) the person is a serving and uniformed member of one of Her Majesty’s Forces posted from overseas for service in Gibraltar or the spouse of such a member; or
+(a) the person is a serving and uniformed member of one of Her Majesty’s Forces posted from overseas for service in Gibraltar or the spouse of such a member; or (b) is an officer serving in Gibraltar and recruited by, or on behalf of, the Government of Gibraltar from outside Gibraltar on contract terms approved by the Government of Gibraltar; and (c) at the date of his first arrival in Gibraltar, the vehicle had been his property for a period of not less than six months preceding such date: Provided that the Collector may, if he is satisfied that the vehicle had been driven for at least 4000 kilometres whilst in the ownership of such person, reduce such period of six months to a period of not less than three months; and
 
-(b) is an officer serving in Gibraltar and recruited by, or on behalf of, the Government of Gibraltar from outside Gibraltar on contract terms approved by the Government of Gibraltar; and
+(d) neither this person or the spouse owns any other vehicle in Gibraltar which had been imported under the provisions of this paragraph and on which duty had not been paid; and (e) the conditions of this paragraph and such other conditions as may be imposed by the Collector have and are being complied with: Provided that-
 
-(c) at the date of his first arrival in Gibraltar, the vehicle had been his property for a period of not less than six months preceding such date:
-
-Provided that the Collector may, if he is satisfied that the vehicle had been driven for at least 4000 kilometres whilst in the ownership of such person, reduce such period of six months to a period of not less than three months; and
-
-(d) neither this person or the spouse owns any other vehicle in Gibraltar which had been imported under the provisions of this paragraph and on which duty had not been paid; and
-
-(e) the conditions of this paragraph and such other conditions as may be imposed by the Collector have and are being complied with:
-
-Provided that-
-
-(i) at the time of importation, the motor vehicle is produced to a Customs Officer for examination and such sum of money or other security as the officer may require to secure the duty otherwise payable and compliance with these Regulations is deposited and such additional information relating to the vehicle and the circumstances of its importation and its intended use as the officer may require is provided;
-
-(ii) whilst in Gibraltar the vehicle–
-
-(aa) shall not be used for any industrial or commercial purpose either with or without remuneration;
-
-(bb) save as the Collector may allow, shall be operated and used only by the importer or some other person accompanying him or her or expressly authorised in writing by him or her to operate and use the vehicle and shall not be operated or used by or in the service of any other person;
-
-(cc) shall not except with the prior consent of the Collector who may in his absolute discretion, give or refuse such consent and attach such conditions as he may think fit to any such consent given, be lent, sold, pledged, hired, given away or otherwise disposed of;
-
-(iii) shall be re-exported from Gibraltar–
-
-(aa) before the expiration of three years from the date of importation; or
-
-(bb) if the importer is a member of one of Her Majesty’s Forces, on his or her being posted to duty elsewhere than in Gibraltar; or
-
-(cc) if the importer is the spouse of a member of one of Her Majesty’s Forces on the member being posted to duty elsewhere than in Gibraltar; or
-
-(dd) on the importer or the spouse of the importer, as the case may be, ceasing to be an officer serving in Gibraltar under a technical  co-operation agreement, whichever is the earlier or within such further period as the Collector may in special circumstances allow and on production of the vehicle and the relevant import documents to the Customs Officer together with such additional information and such declarations relating to the vehicle and the circumstances of its use in Gibraltar as the officer may require
+(i) at the time of importation, the motor vehicle is produced to a Customs Officer for examination and such sum of money or other security as the officer may require to secure the duty otherwise payable and compliance with these Regulations is deposited and such additional information relating to the vehicle and the circumstances of its importation and its intended use as the officer may require is provided; (ii) whilst in Gibraltar the vehicle– (aa) shall not be used for any industrial or commercial purpose either with or without remuneration; (bb) save as the Collector may allow, shall be operated and used only by the importer or some other person accompanying him or her or expressly authorised in writing by him or her to operate and use the vehicle and shall not be operated or used by or in the service of any other person; (cc) shall not except with the prior consent of the Collector who may in his absolute discretion, give or refuse such consent and attach such conditions as he may think fit to any such consent given, be lent, sold, pledged, hired, given away or otherwise disposed of; (iii) shall be re-exported from Gibraltar– (aa) before the expiration of three years from the date of importation; or (bb) if the importer is a member of one of Her Majesty’s Forces, on his or her being posted to duty elsewhere than in Gibraltar; or (cc) if the importer is the spouse of a member of one of Her Majesty’s Forces on the member being posted to duty elsewhere than in Gibraltar; or (dd) on the importer or the spouse of the importer, as the case may be, ceasing to be an officer serving in Gibraltar under a technical  co-operation agreement, whichever is the earlier or within such further period as the Collector may in special circumstances allow and on production of the vehicle and the relevant import documents to the Customs Officer together with such additional information and such declarations relating to the vehicle and the circumstances of its use in Gibraltar as the officer may require
 
 Free
 
 21. For this purpose of these Regulations, a personal water craft  commonly known  and meaning a “jet ski” imported into Gibraltar by a person who is not normally resident in Gibraltar and who at the time of importation–
 
-(a) produces the  jet ski to a Customs Officer for examination;
-
-(b) if the Collector so requires either–
-
-(i) satisfies the customs officer that security for payment of the duty payable under Part 2 and for compliance with these Regulations has been given; or
-
-(ii) deposits in accordance with the custom’s officer’s directions, such sum of money or other security as the officer may require to secure that duty and compliance with these Regulations; and
-
-(c) gives such additional information relating to the jet ski the circumstances of its importation and the intended use of it as the officer may require;
-
-(d) does not permit the  jet ski to be operated or used by any other person other than a person not normally resident in Gibraltar accompanying him or expressly authorised in writing by him to operate and use the jet ski;
-
-(e) does not use or permit the  jet ski to be used for any industrial or commercial purpose either with or without remuneration or by or in the service of a company or firm the head office of which is in Gibraltar or for the transport of persons or goods for remuneration;
-
-(f) does not lend, sell, pledge, hire, give away or exchange or otherwise dispose of such jet ski
+(a) produces the  jet ski to a Customs Officer for examination; (b) if the Collector so requires either– (i) satisfies the customs officer that security for payment of the duty payable under Part 2 and for compliance with these Regulations has been given; or (ii) deposits in accordance with the custom’s officer’s directions, such sum of money or other security as the officer may require to secure that duty and compliance with these Regulations; and (c) gives such additional information relating to the jet ski the circumstances of its importation and the intended use of it as the officer may require; (d) does not permit the  jet ski to be operated or used by any other person other than a person not normally resident in Gibraltar accompanying him or expressly authorised in writing by him to operate and use the jet ski; (e) does not use or permit the  jet ski to be used for any industrial or commercial purpose either with or without remuneration or by or in the service of a company or firm the head office of which is in Gibraltar or for the transport of persons or goods for remuneration; (f) does not lend, sell, pledge, hire, give away or exchange or otherwise dispose of such jet ski
 
 Free
 
@@ -254,9 +164,7 @@ Furniture and Furnishings; Domestic use vacuum cleaners and sewing machines; Ele
 
 Free
 
-30. Goods vehicles purchased in Gibraltar from a local dealer as defined in the Traffic Act 2005 exclusively for business or government use and being classified in Annex II to Council Directive 70/156/EEC under codes N1, 2 or 3.
-
-Free
+30. Goods vehicles purchased in Gibraltar from a local dealer as defined in the Traffic Act 2005 exclusively for business or government use and being classified in Annex II to Council Directive 70/156/EEC under codes N1, 2 or 3. Free
 
 31. Equipment for the production of sound or video recordings in the music, television,  or cinema industry.
 
@@ -330,21 +238,13 @@ NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
 “Diesel fuel” means Automotive Gasoil supplied in litres as contained in the Integrated Tariff Regulations.
 
-“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time.
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. 12p per litre
 
-12p per litre
+47. Materials, components or other goods imported for manufacture, production or processing in Gibraltar for an industrial activity in respect of which the Minister for Finance has issued a certificate. Free
 
-47. Materials, components or other goods imported for manufacture, production or processing in Gibraltar for an industrial activity in respect of which the Minister for Finance has issued a certificate.
+48. Goods liable to import duty under Chapters 29 and 30 imported by a pharmacy registered and licensed under the Medical and Health Act,1997 and regulations made under it. Free
 
-Free
-
-48. Goods liable to import duty under Chapters 29 and 30 imported by a pharmacy registered and licensed under the Medical and Health Act,1997 and regulations made under it.
-
-Free
-
-49. Bicycle accessories and spare parts.
-
-Free
+49. Bicycle accessories and spare parts. Free
 
 50. Full hybrid motor vehicle.
 

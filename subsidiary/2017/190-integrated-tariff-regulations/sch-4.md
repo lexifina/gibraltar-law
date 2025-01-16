@@ -4,15 +4,9 @@ Change of status of goods
 
 Regulation 6(3)
 
-1. On a transfer of ownership on any goods (other than motor vehicles) imported on a temporary importation procedure
+1. On a transfer of ownership on any goods (other than motor vehicles) imported on a temporary importation procedure The corresponding rate under Schedule 1 shall  apply 2. On a transfer of ownership in Gibraltar in respect of a motor vehicle classified under paragraph 20(a) and (b) of Schedule 3
 
-The corresponding rate under Schedule 1 shall  apply 2. On a transfer of ownership in Gibraltar in respect of a motor vehicle classified under paragraph 20(a) and (b) of Schedule 3
-
-with an engine capacity not exceeding 1500cc
-
-with an engine capacity exceeding 1500cc but not exceeding 2000cc
-
-with an engine capacity exceeding 2000cc
+with an engine capacity not exceeding 1500cc with an engine capacity exceeding 1500cc but not exceeding 2000cc with an engine capacity exceeding 2000cc
 
 15%
 
@@ -24,9 +18,7 @@ with an engine capacity exceeding 2000cc
 
 18%
 
-22%
-
-4. (1) Subject to paragraph (2) below, after 4 years from the date of importation a vehicle ceases to be classified as a taxi under paragraph 23 of Schedule 3
+22% 4. (1) Subject to paragraph (2) below, after 4 years from the date of importation a vehicle ceases to be classified as a taxi under paragraph 23 of Schedule 3
 
 where powered solely by an internal combustion (spark or compression) ignition engine
 
@@ -38,9 +30,7 @@ where electric motor used partially (hybrid) or solely for propulsion
 
 Nil
 
-The corresponding rate under Schedule 1 shall apply
-
-5. A vehicle ceases to operate under a Road Haulage Operators Licence under paragraph 24 of Schedule 3
+The corresponding rate under Schedule 1 shall apply 5. A vehicle ceases to operate under a Road Haulage Operators Licence under paragraph 24 of Schedule 3
 
 Tractor head
 
