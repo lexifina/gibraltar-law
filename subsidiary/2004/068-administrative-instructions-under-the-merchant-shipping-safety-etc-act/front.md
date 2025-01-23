@@ -6,7 +6,7 @@ LN.2004/068
 
 Commencement 29.7.2004
 
-Amending enactments Relevant current provisions Commencement date LN. 2006/107 Instructions & STCW – 1 to 14 5.10.2006 2020/372 Instructions & STCW – 1 29.10.2020 2023/069 Instructions & STCW – 1, 4, 14 23.3.2023
+Amending enactments Relevant current provisions Commencement date LN. 2006/107 Instructions & STCW – 1 to 14 5.10.2006 2020/372 Instructions & STCW – 1 29.10.2020 2023/069 Instructions & STCW – 1, 4, 14 23.3.2023 2025/031 Instructions & STCW – 4, 11, 13 23.1.2025
 
 ARRANGEMENT OF INSTRUCTIONS
 
