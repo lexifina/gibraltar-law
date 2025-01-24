@@ -6,7 +6,7 @@ Any airline operating an air service to Gibraltar
 
 Any dispensing chemist or pharmacy
 
-Any government department or statutory authority or agency, and any public officer or any employee or officer of any such statutory authority or agency
+Any- government department, wholly owned government company company that is wholly owned by the government jointly with a statutory authority or body statutory authority or agency, public officer or any employee or officer of any of the abovementioned entities
 
 Any operator of a route bus service
 
