@@ -16,7 +16,9 @@ LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1)
 
 24.11.2022 2023/074 rr. 199(4)-(5), 239(5)-(7) 30.3.2023 2023/163 rr. 5(1)(a)-(c), (e), 14(8), 116(1)(d)(i)-(iii), 191(1) 29.6.2023 2023/259 rr. 36(5) 7.9.2023 2023/266 r. 51A 8.9.2023 2023/305 rr. 238(1), (2)(a), (3), (a)(i), (c), (4) 7.12.2023 Act. 2024-10 r. 13A 31.5.2024 LN. 2024/134 rr. 45(5A), (6)(b)(i), 68, 68A-68D, 69, 69A-69I, 71(1)(b), (2)(b)(ii), 276A
 
-25.7.2024 2024/163 r. 281A 29.8.2024 2024/180 r. 51B 19.9.2024 2025/012 r. 41A 16.1.2025
+25.7.2024 2024/163 r. 281A 29.8.2024 2024/180 r. 51B 19.9.2024 2025/012 r. 41A 16.1.2025 2025/033 rr. 3(1), 43(5), 44(2)(a)(i), (iii), 45(1), (1A), (3)(c), (4), (4A)-(4B), (8), (11), 45A-45B, 46A, 47(1A)- (1B), (2)(a)-(c), 52(1), (2)(f), (3), (5), 54(5)-(6), 55(1A)-(1C), (3)(a), 56A-56G, 67(8), 68C(5), 69G(2), (3)(b), 70(1), 81(1)(b), 84(1), (1A)-(1B), (3)-(4), 85(3)-(4), 87(1)-(4), 88, 89(3)-(4), 89A, 93(1)-(2), 93A, 94(2A), 94A, 95(2)(c), (7)-(13), 98(3)-(7), 99(1)-(17), 101, 101A, 102, 102A-102C, 103, 104(1), 108(1A), (4)-(10), 109(1)-(2), (2A), (3A), (4), (7A)-(7B), (8)-(9), (11), (13)-(18), 111, 111A, 112(3)-(5), 113(2)(a), (c)-(e), 114(1)-(2), 116(1)(d), (1A), 190(2), 197A, 198A, 199(6), 199A, 200(5), 205(4), 207A, 210A, 211(3)-(4), 212A, 213(3), 237(5)(c), 238(1), (3)(a)(i), (6), 239(8), 276A(1), (3)(a), Schs. 1, 4
+
+31.1.2025
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -62,15 +64,25 @@ PART 4 CONDITIONS GOVERNING BUSINESS
 
 Corporate Governance
 
-42. Compliance obligation. 43. General governance requirements. 44. Fit and proper persons and proof of good repute. 45. Risk Management. 46. Own risk and solvency assessment. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities. 51A. Restriction on dividend payments. 51B. Restriction on transactions with connected persons.
+42. Compliance obligation. 43. General governance requirements. 44. Fit and proper persons and proof of good repute. 45. Risk Management. 45A. Policy on risk management. 45B. Risk management areas. 46. Own risk and solvency assessment. 46A. ORSA supervisory report. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities. 51A. Restriction on dividend payments. 51B. Restriction on transactions with connected persons.
 
-Public disclosure
+Solvency and financial condition report: structure and contents
 
-52. Report on solvency and financial conditions: contents. 53. Omitted. 54. Report on solvency and financial condition: applicable principles 55. Report on solvency and financial condition: updates and additional voluntary information. 56. Report on solvency and financial condition: policy and approval.
+52. Report on solvency and financial conditions: contents. 53. Omitted. 54. Report on solvency and financial condition: applicable principles 55. Report on solvency and financial condition: updates and additional voluntary information. 56. Report on solvency and financial condition: policy and approval. 56A. Business and performance. 56B. System of governance. 56C. Risk profile. 56D. Valuation for solvency purposes. 56E. Capital management.
+
+Solvency and financial condition report: non-disclosure of information
+
+56F. Permitted non-disclosure.
+
+Solvency and financial condition report: deadlines, means of disclosure and updates
+
+56G. External audit of relevant elements of the SFCR.
 
 Professional secrecy, exchange of information etc.
 
-57. Professional secrecy. 58. Exchange of information with other authorities. 59. Omitted. 60. Omitted. 61. Omitted.
+57. Professional secrecy.
+
+58. Exchange of information with other authorities. 59. Omitted. 60. Omitted. 61. Omitted.
 
 Accounts and statements
 
@@ -80,9 +92,7 @@ Duties of auditors
 
 62. Auditors.
 
-PART 5
-
-PURSUIT OF LIFE AND NON-LIFE ACTIVITY
+PART 5 PURSUIT OF LIFE AND NON-LIFE ACTIVITY
 
 63. Pursuit of life and non-life insurance activity. 64. Separation of life and non-life insurance management.
 
@@ -96,25 +106,27 @@ Valuation of assets and liabilities
 
 Technical provisions
 
-66. General provisions. 67. Calculation of technical provisions. 68. Application of the matching adjustment. 68A. Matching adjustment: eligible elements. 68B. Matching adjustment: mortality risks. 68C. Matching adjustment approval. 68D. On-going compliance with eligibility conditions. 69. Calculating matching adjustment. 69A. Calculation of fundamental spread. 69B. Assets with cashflows that are not fixed. 69C. Fundamental spread to reflect differences in quality by rating notch. 69D. Internal credit assessments and credit ratings. 69E. Additions to the fundamental spread: assets with highly predictable cashflows. 69F. Attestation requirements. 69G. Internal governance for attestation. 69H. Disclosure of attestation. 69I. Form of attestation. 70. Volatility adjustment to relevant risk-free interest rate term structure. 71. Use of approved technical information. 72. Omitted. 73. Other elements to be taken into account in calculation of technical provisions.
+66. General provisions. 67. Calculation of technical provisions. 68. Application of the matching adjustment. 68A. Matching adjustment: eligible elements. 68B. Matching adjustment: mortality risks.
 
-74. Valuation of financial guarantees and contractual options included in insurance and reinsurance contracts. 75. Segmentation. 76. Recoverables from reinsurance contracts and special purpose vehicles. 77. Data quality and application of approximations, including case-by-case approaches, for technical provisions. 78. Comparison against experience. 79. Appropriateness of level of technical provisions. 80. Increase of technical provisions.
+68C. Matching adjustment approval. 68D. On-going compliance with eligibility conditions. 69. Calculating matching adjustment. 69A. Calculation of fundamental spread. 69B. Assets with cashflows that are not fixed. 69C. Fundamental spread to reflect differences in quality by rating notch. 69D. Internal credit assessments and credit ratings. 69E. Additions to the fundamental spread: assets with highly predictable cashflows. 69F. Attestation requirements. 69G. Internal governance for attestation. 69H. Disclosure of attestation. 69I. Form of attestation. 70. Volatility adjustment to relevant risk-free interest rate term structure. 71. Use of approved technical information. 72. Omitted. 73. Other elements to be taken into account in calculation of technical provisions. 74. Valuation of financial guarantees and contractual options included in insurance and reinsurance contracts. 75. Segmentation. 76. Recoverables from reinsurance contracts and special purpose vehicles. 77. Data quality and application of approximations, including case-by-case approaches, for technical provisions. 78. Comparison against experience. 79. Appropriateness of level of technical provisions. 80. Increase of technical provisions.
 
 CHAPTER 2 OWN FUNDS
 
-81. Determination of own funds. 82. Basic own funds. 83. Ancillary own funds. 84. Supervisory approval of ancillary own funds. 85. Characteristics and features used to classify own funds into tiers. 86. Main criteria for classification into tiers. 87. Classification of own funds into tiers. 88. Classification of specific insurance own fund items. 89. Eligibility and limits applicable to Tiers 1, 2 and 3.
+81. Determination of own funds. 82. Basic own funds. 83. Ancillary own funds. 84. Supervisory approval of ancillary own funds. 85. Characteristics and features used to classify own funds into tiers. 86. Main criteria for classification into tiers. 87. Classification of own funds into tiers. 88. Omitted. 89. Eligibility and limits applicable to Tiers 1, 2 and 3. 89A. Notification of issue of own funds items.
 
-CHAPTER 3 SOLVENCY CAPITAL REQUIREMENT
+CHAPTER 3
+
+SOLVENCY CAPITAL REQUIREMENT
 
 90. General provisions. 91. Calculation of Solvency Capital Requirement. 92. Frequency of calculation.
 
 Solvency Capital Requirement standard formula
 
-93. Structure of the standard formula. 94. Design of Basic Solvency Capital Requirement. 95. Calculation of Basic Solvency Capital Requirement. 96. Calculation of equity risk sub-module: symmetric adjustment mechanism. 97. Duration-based equity risk sub-module. 98. Capital requirement for operational risk. 99. Adjustment for loss-absorbing capacity of technical provisions and deferred taxes. 100. Standard formula: simplification and modification.
+93. Structure of the standard formula. 93A. Look through approach. 94. Design of Basic Solvency Capital Requirement. 94A. Scenario based calculations. 95. Calculation of Basic Solvency Capital Requirement. 96. Calculation of equity risk sub-module: symmetric adjustment mechanism. 97. Duration-based equity risk sub-module. 98. Capital requirement for operational risk. 99. Adjustment for loss-absorbing capacity of technical provisions and deferred taxes. 100. Standard formula: simplification and modification.
 
 Internal models
 
-101. General provisions for approval of full and partial internal models. 102. Specific provisions for approval of partial internal models. 103. Policy for changing full and partial internal models. 104. Responsibilities of administrative, management or supervisory bodies. 105. Reversion to standard formula 106. Non-compliance of internal model. 107. Significant deviations from assumptions underlying standard formula calculation. 108. Use test. 109. Statistical quality standards. 110. Calibration standards. 111. Profit and loss attribution. 112. Validation standards. 113. Documentation standards. 114. External models and data.
+101. General provisions for approval of full and partial internal models. 101A. Specific provisions for approval of full and partial internal models. 102. Specific provisions for approval of partial internal models. 102A. Transitional plan to extend the scope of the model. 102B. Transitional plan to reduce the scope of the model. 102C. Internal model safeguards. 103. Policy for changing full and partial internal models. 104. Responsibilities of administrative, management or supervisory bodies. 105. Reversion to standard formula 106. Non-compliance of internal model. 107. Significant deviations from assumptions underlying standard formula calculation. 108. Use test. 109. Statistical quality standards. 110. Calibration standards. 111. Omitted. 111A. Analysis of change. 112. Validation standards. 113. Documentation standards. 114. External models and data.
 
 CHAPTER 4 MINIMUM CAPITAL REQUIREMENT
 
@@ -138,7 +150,9 @@ PART 8 Omitted
 
 PART 9 BRANCHES OF THIRD-COUNTRY INSURERS AND REINSURERS
 
-151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions. 155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
+151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions.
+
+155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
 
 Re-insurance
 
@@ -204,7 +218,7 @@ Levels
 
 Group solvency
 
-197. Supervision of group solvency. 198. Frequency of calculations. 199. Choice of calculation method. 200. Inclusion of proportional share. 201. Elimination of double use of eligible own funds. 202. Elimination of intra-group creation of capital. 203. Valuation. 204. Related insurance and reinsurance undertakings. 205. Intermediate insurance holding companies. 206. Equivalence concerning related third-country insurance and reinsurance undertakings. 207. Related credit institutions, investment firms and financial institutions. 208. Non-availability of necessary information. 209. Method 1 (default method): the accounting consolidation-based method. 210. Group internal model. 211. Group capital add-on. 212. Method 2 (alternative method): the deduction and aggregation method. 213. Group solvency of an insurance holding company or mixed financial holding company.
+197. Supervision of group solvency. 197A. Exclusion of special purpose vehicles. 198. Frequency of calculations. 198A Group solvency: notice of issue of own funds items by group member. 199. Choice of calculation method. 199A. Combination of methods 1 and 2: minimum consolidated group Solvency Capital Requirement. 200. Inclusion of proportional share. 201. Elimination of double use of eligible own funds. 202. Elimination of intra-group creation of capital. 203. Valuation. 204. Related insurance and reinsurance undertakings. 205. Intermediate insurance holding companies. 206. Equivalence concerning related third-country insurance and reinsurance undertakings. 207. Related credit institutions, investment firms and financial institutions. 207A. Treatment of specific related undertakings. 208. Non-availability of necessary information. 209. Method 1 (default method): the accounting consolidation-based method. 210. Group internal model. 210A. Use test for group internal models. 211. Group capital add-on. 212. Method 2 (alternative method): the deduction and aggregation method. 212A. Method 2: Elimination of intra-group creation of capital in relation to the best estimate. 213. Group solvency of an insurance holding company or mixed financial holding company.
 
 Groups with centralised risk management
 
@@ -250,9 +264,9 @@ Common provisions
 
 PART 13 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-274. The Register: insurance and reinsurance activity 275. Administrative penalties.
+274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions. 283. Swiss general insurers.
 
-276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions. 283. Swiss general insurers. 284. Revocations.
+284. Revocations.
 
 SCHEDULE 1 TRANSITIONAL PROVISIONS
 

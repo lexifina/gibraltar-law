@@ -32,33 +32,43 @@ i\j Market Default Life Health Non-life Market 1 0.25 0.25 0.25 0.25
 
 Default 0.25 1 0.25 0.25 0.5 Life 0.25 0.25 1 0.25 0 Health 0.25 0.25 0.25 1 0 Non-life 0.25 0.5 0 0 1
 
-Calculation of the non-life underwriting risk module.
-
-2.(1)  The non-life underwriting risk module set out in regulation 95(2) must be equal to the following–
+(4)  The Basic Solvency Capital Requirement must include a risk module for intangible asset risk and must be equal to the following–
 
 where–
 
-SCRi denotes the sub-module i;
+(a) the summation, Corri,j , SCRi and SCRj are specified as set out in sub-paragraph (1); and
 
-SCRj denotes the sub-module j; and
+(b) SCRintangibles denotes the capital requirement for intangible asset risk in of the Solvency 2 Technical Standards.
 
-i,j means that the sum of the different terms should cover all possible combinations of i and j.
+Calculation of the non-life underwriting risk module.
 
-(2)  In the calculation, SCRi and SCRj are replaced by the following–
+2.(1)  The non-life underwriting risk module set out in regulation 95(2) must be calculated in accordance with the following formula–
 
-SCRnl premium and reserve denotes the non-life premium and reserve risk sub-module, and
+where–
 
-SCRnl catastrophe denotes the non-life catastrophe risk sub-module.
+(a) the sum covers all possible combinations (i, j) of the sub-modules;
+
+(b) CorrNL(i,j) denotes the correlation coefficient for non-life underwriting risk for sub-modules i and j; and
+
+(c) SCRi and SCRj denote the capital requirements for risk sub-modules i and j, respectively.
+
+(2)  The correlation coefficient CorrNL(i,j) in sub-paragraph (1) denotes the item set out in row i and column j of the following correlation matrix–
+
+j i Non-life premium and reserve Non-life catastrophe Non-life lapse Non-life premium and reserve 1 0.25 0 Non-life catastrophe 0.25 1 0 Non-life lapse 0 0 1
 
 Calculation of the life underwriting risk module.
 
-3.(1)  The life underwriting risk module set out in regulation 95(3) must be equal to the following– where–
+3.(1)  The life underwriting risk module must be aggregated in accordance with the following formula–
 
-SCRi denotes the sub-module i;
+where–
 
-SCRj denotes the sub-module j; and
+(a) SCRi denotes the sub-module i;
 
-‘i,j’ means that the sum of the different terms should cover all possible combinations of i and j.
+(b) SCRj denotes the sub-module j;
+
+(c) ‘i,j’ means that the sum of the different terms should cover all possible combinations of i and j; and
+
+(d) ‘Corri,j’ denotes the correlation coefficient for life underwriting risk for sub- modules i and j.
 
 (2)  In the calculation, SCRi and SCRj are replaced by the following–
 
@@ -76,30 +86,26 @@ SCR lapse denotes the lapse risk sub-module; and
 
 SCR life catastrophe denotes the life catastrophe risk sub-module.
 
+(3)  The correlation coefficient Corri,j in sub-paragraph (1) must be equal to the item set out in row i and column j of the following correlation matrix–
+
+j i Mortalit y Longevit y Disabilit y Life expens e Revisio n Laps e Life catastroph e Mortality 1 –0.25 0.25 0.25 0 0 0.25 Longevity –0.25 1 0 0.25 0.25 0.25 0 Disability 0.25 0 1 0.5 0 0 0.25 Life expense 0.25 0.25 0.5 1 0.5 0.5 0.25 Revision 0 0.25 0 0.5 1 0 0 Lapse 0 0.25 0 0.5 0 1 0.25 Life catastroph e 0.25 0 0.25 0.25 0 0.25 1
+
 Calculation of the market risk module.
 
 Structure of the market risk module
 
-4.(1)  The market risk module, set out in regulation 95(5) must be equal to the following:
+4.(1) The market risk module, set out in regulation 95(5) must be calculated in accordance with the following formula–
 
-where–
+Where–
 
-SCRi denotes the sub-module i;
+(a) the sum covers all possible combinations i, j of sub-modules;
 
-SCRj denotes the sub-module j; and
+(b) Corr(i,j) denotes the correlation coefficient for market risk for sub-modules i and j; and
 
-‘i,j’ means that the sum of the different terms should cover all possible combinations of i and j.
+(c) SCRi and SCRj denote the capital requirements for risk sub-modules i and j, respectively.
 
-(2)  In the calculation, SCRi and SCRj are replaced by the following–
+(2) The correlation coefficient Corr( i,j) in sub-paragraph (1) must be equal to the item set out in row i and column j of the following correlation matrix–
 
-SCR interest rate denotes the interest rate risk sub-module;
+j i Intere st rate Equi ty Proper ty Sprea d Concentrat ion Curren cy Interest rate 1 A A A 0 0.25 Equity A 1 0.75 0.75 0 0.25 Property A 0.75 1 0.5 0 0.25 Spread A 0.75 0.5 1 0 0.25 Concentrat ion 0 0 0 0 1 0 Currency 0.25 0.25 0.25 0.25 0 1
 
-SCR equity denotes the equity risk sub-module;
-
-SCR property denotes the property risk sub-module;
-
-SCR spread denotes the spread risk sub-module;
-
-SCR concentration denotes the market risk concentrations sub-module; and
-
-SCR currency denotes the currency risk sub-module.
+(3) The coefficient A in the table must be equal to 0 where the capital requirement for interest-rate risk set out in Article 165 of the Solvency 2 Technical Standards is the capital requirement referred to in paragraph (1)(a) of that Article. In all other cases, the coefficient A must be equal to 0.5.

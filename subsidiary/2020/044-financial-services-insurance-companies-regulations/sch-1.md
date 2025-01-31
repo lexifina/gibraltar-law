@@ -74,7 +74,7 @@ Solvency 2 Directive but do not comply with the Solvency Capital Requirement in 
 
 Transitional measure on risk-free interest rates.
 
-2.(1)  Insurance and reinsurance undertaking may, subject to prior approval by their supervisory authority, apply a transitional adjustment to the relevant risk-free interest rate term structure with respect to admissible insurance and reinsurance obligations.
+2.(1)  An insurance and reinsurance undertaking may, with the GFSC’s prior approval given in accordance with regulation 276A, apply a transitional adjustment to the relevant risk-free interest rate term structure with respect to admissible insurance and reinsurance obligations.
 
 (2)  For each currency the adjustment must be calculated as a portion of the difference between–
 
