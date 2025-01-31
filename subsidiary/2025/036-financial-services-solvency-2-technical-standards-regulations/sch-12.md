@@ -1,0 +1,7 @@
+SCHEDULE 12 GROUPS OF OBLIGATIONS AND RISK FACTORS FOR THE SUB-MODULE FOR OTHER NON-LIFE CATASTROPHE RISK
+
+Article 135
+
+i Group of insurance and reinsurance obligations i Risk factor ci 1 Insurance and reinsurance obligations included in lines of business 6 and 18 as set out in Schedule 1 other than marine insurance and reinsurance and aviation insurance and reinsurance 100% 2 Reinsurance obligations included in line of business 27 as set out in Schedule 1 other than marine reinsurance and aviation reinsurance 250% 3 Insurance and reinsurance obligations included in lines of business 12 and 24 as set out in Schedule 1, other than extended warranty insurance and reinsurance obligations provided that the portfolio of these obligations is highly diversified and these obligation do not cover the costs of product recalls 40% 4 Reinsurance obligations included in line of business 26 as set out in Schedule 1 other than general liability reinsurance 250% 5 Non-proportional reinsurance obligations relating to insurance obligations included in lines of business 9 and 21 as set out in Schedule 1 250%
+
+For the purpose of group 3, “extended warranty insurance obligation” means insurance obligations which cover the cost of repair or replacement in the event of a breakdown of a consumer good used by the individuals in a private capacity and which may also provide additional cover against eventualities such as accidental damage, loss or theft and assistance in setting up, maintaining and operating the good.
