@@ -30,7 +30,7 @@ In the case of Export Vehicles Expiry Date
 
 Colour
 
-Retro reflecting Green
+Retro reflecting Pantone Green code 7481c
 
 Character Size Colour
 
