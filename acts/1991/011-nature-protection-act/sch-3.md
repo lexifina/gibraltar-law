@@ -20,7 +20,9 @@ Acicula norris (Gibraltar endemic snail)
 
 Osteophora calpeana (Gibraltar endemic snail)
 
-Ceciliodes spp. (Gibraltar endemic snail) Macrothele calpetana Gibraltar Funnel-web Spider Buprestis sanguinea Jewel Beetle
+Ceciliodes spp. (Gibraltar endemic snail) Rossmaessleria scherzeri (Gibraltar endemic snail) Macrothele calpetana Gibraltar Funnel-web Spider
+
+Buprestis sanguinea Jewel Beetle
 
 Paratyphlus tristancanoi (Gibraltar endemic beetle)
 
@@ -36,9 +38,9 @@ Silene tomentosa Gibraltar Sea Campion
 
 Iberis gibraltarica Gibraltar Candytuft
 
-Saxifraga globurifera var. gibraltarica Gibraltar Saxifrage
+Saxifraga globurifera var. gibraltarica Gibraltar Saxifrage Ononis natrix subsp. ramosissima Gibraltar Restharrow Limonium emarginatum Gibraltar Sea Lavender
 
-Ononis natrix subsp. ramosissima Gibraltar Restharrow Limonium emarginatum Gibraltar Sea Lavender Thymus willdenowii Gibraltar Thyme
+Thymus willdenowii Gibraltar Thyme
 
 Petroselium crispum Parsley
 

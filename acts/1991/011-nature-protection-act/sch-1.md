@@ -78,20 +78,28 @@ Osteophora calpeana
 
 Cumbium olla
 
-Cephalopoda Cephalopods Argonauto argo Paper Nautilus Eledone spp. Lesser Octopus
+Papillifera papillaris
 
-ECHINOIDEA SEA URCHINS all species all species ANTHOZOA ANEMONES, CORALS, Hexacorralia
+Pseudotachea litturata
 
-all Antipathes spp. Black Coral
+Rossmaessleria scherzeri Gibraltar endemic snail
 
-Madreporaria Balanophyllia regia Regal Coral Clodocora cespitosa Carpet Coral Dendrophyllia ramea Yellow Coral Lophelia pertusa coral Leptopsammia pruroti Yellow Cup Coral Astroides calcycularis Star Coral
+Cephalopoda Cephalopods Argonauto argo Paper Nautilus Eledone spp. Lesser Octopus ECHINOIDEA SEA URCHINS all species all species
 
-Alcyonacea Alcyonium palmatum Deadman’s fingers Parerythropodium corralloides soft coral
+ANTHOZOA ANEMONES, CORALS,
 
-Gorgonacea Eunicella cavolinii Yellow Gorgonian Eunicella clavata Violet Sea Whip Eunicella singularis gorgonian Eunicella verrucosa White Gorgonian Corallium rubrum Red Coral
+Hexacorralia all Antipathes spp. Black Coral Madreporaria
 
-PORIFERA Hippospongia communis
+Balanophyllia regia Regal Coral Clodocora cespitosa Carpet Coral Dendrophyllia ramea Yellow Coral Lophelia pertusa coral Leptopsammia pruroti Yellow Cup Coral Astroides calcycularis Star Coral Alcyonacea
 
-Spongia agaricina Spongia officinalis
+Alcyonium palmatum Deadman’s fingers Parerythropodium corralloides soft coral
 
-Spongia zimocca
+Gorgonacea
+
+Eunicella cavolinii Yellow Gorgonian Eunicella clavata Violet Sea Whip
+
+Eunicella singularis gorgonian Eunicella verrucosa White Gorgonian Corallium rubrum Red Coral PORIFERA
+
+Hippospongia communis Spongia agaricina
+
+Spongia officinalis Spongia zimocca
