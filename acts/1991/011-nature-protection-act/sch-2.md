@@ -2,11 +2,7 @@ SCHEDULE 2
 
 Section 11
 
-Name Common Name
-
-PTERIDACEAE Anogramma leptophylla Annual Gymnogram
-
-ASPLENIACEAE Asplenium ceterach
+Name Common Name PTERIDACEAE Anogramma leptophylla Annual Gymnogram ASPLENIACEAE Asplenium ceterach
 
 Asplenium trichomanes subsp quadrivalens
 
@@ -14,9 +10,7 @@ Rusty-back Fern
 
 Maidenhair Spleenwort POLYPODIACEAE Polypodium cambricum
 
-Southern Polypody
-
-MORACEAE Ficus carica
+Southern Polypody MORACEAE Ficus carica
 
 Fig URTICACEAE Urtica membranacea
 
@@ -30,9 +24,7 @@ Pellitory-of-the-wall
 
 Mediterranean Pellitory-of-the-wall
 
-Moroccan Pellitory-of-the-wall
-
-SANTALACEAE Osyris lanceolata
+Moroccan Pellitory-of-the-wall SANTALACEAE Osyris lanceolata
 
 Osyris
 
@@ -40,9 +32,7 @@ ARISTOLOCHIACEAE Aristolochia baetica Pipe Vine
 
 POLYGONACEAE Polygonum aviculare
 
-Rumex intermedius
-
-Common Knotgrass
+Rumex intermedius Common Knotgrass
 
 Intermediate Dock AMARANTHACEAE Amaranthus blitoides
 
@@ -140,9 +130,7 @@ Long-headed Poppy
 
 Corn Poppy
 
-Yellow Horned Poppy
-
-FUMARIACEAE Fumaria capreolata
+Yellow Horned Poppy FUMARIACEAE Fumaria capreolata
 
 Fumaria sepium
 
@@ -182,9 +170,7 @@ Hoary Mustard
 
 Wild Radish
 
-Lesser Swine-cress
-
-RESEDACEAE Reseda alba
+Lesser Swine-cress RESEDACEAE Reseda alba
 
 Upright Mignonette CRASSULACEAE Aeonium arboretum
 
@@ -348,9 +334,7 @@ Soft Storksbill
 
 Musk Storksbill
 
-Scarlet Pelargonium
-
-TROPAEOLACEAE All species
+Scarlet Pelargonium TROPAEOLACEAE All species
 
 LINACEAE Linum strictum
 
@@ -372,11 +356,7 @@ Prostrate Spurge
 
 Matted Sandmat
 
-Spotted Spurge
-
-RUTACEAE Ruta angustifolia
-
-Fringed Rue SIMAROUBACEAE All species
+Spotted Spurge RUTACEAE Ruta angustifolia Fringed Rue SIMAROUBACEAE All species
 
 ANACARDIACEAE Pistacia terebinthus
 
@@ -402,9 +382,7 @@ Spanish Mallow
 
 Common Mallow
 
-Smaller Tree Mallow
-
-CUCURBITACEAE Ecballium elaterium
+Smaller Tree Mallow CUCURBITACEAE Ecballium elaterium
 
 Squirting Cucumber CACTACEAE All species
 
@@ -414,9 +392,7 @@ Eucalyptus globulus
 
 Red Gum
 
-Blue Gum ARALIACEAE Hedera helix
-
-Ivy APIACEAE Smyrnium olusatrum
+Blue Gum ARALIACEAE Hedera helix Ivy APIACEAE Smyrnium olusatrum
 
 Crithmum maritimum
 
@@ -446,9 +422,7 @@ Thapsia
 
 Wild Carrot
 
-Wild Carrot
-
-PRIMULACEAE Anagallis arvensis
+Wild Carrot PRIMULACEAE Anagallis arvensis
 
 Pimpernel OLEACEAE Jasminum fruticans
 
@@ -546,9 +520,7 @@ Toothed Lavender SOLANACEAE Solanum luteum subsp. luteum
 
 Solanum alatum
 
-Nicotiana glauca
-
-Hairy Nightshade
+Nicotiana glauca Hairy Nightshade
 
 Orange Nightshade
 
@@ -604,9 +576,7 @@ Ivy-leaved Toadflax
 
 Pale Speedwell
 
-Wall Speedwell
-
-CAPRIFOLIACEAE Lonicera implexa
+Wall Speedwell CAPRIFOLIACEAE Lonicera implexa
 
 Fedia cornucopiae
 
@@ -776,9 +746,7 @@ Rabbit’s Bread XANTHORRHOEACEAE Asphodelus macrocarpus
 
 Asphodelus ramosus
 
-All species of the genus Aloe
-
-White Asphodel
+All species of the genus Aloe White Asphodel
 
 Branched Asphodel COLCHICACEAE Colchicum lusitanum
 
@@ -792,9 +760,7 @@ Ruscus hypophyllum
 
 Ruscus aculeatus
 
-All species of the genus Agave
-
-Spiny or White Asparagus
+All species of the genus Agave Spiny or White Asparagus
 
 Bridal Creeper
 
@@ -804,11 +770,7 @@ Southern Butcher’s Broom
 
 Butcher’s Broom
 
-SMILACACEAE Smilax aspera
-
-Smilax
-
-AMARYLLIDACEAE Allium roseum
+SMILACACEAE Smilax aspera Smilax AMARYLLIDACEAE Allium roseum
 
 Rose Garlic
 

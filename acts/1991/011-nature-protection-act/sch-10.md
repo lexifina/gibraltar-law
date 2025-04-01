@@ -6,35 +6,33 @@ Admission Fees.
 
 1.(1)  Subject to paragraph 2, the fee for admission to the Upper Rock Nature Reserve shall be as follows–
 
-(a) £25.00 per person aged 12 years or over entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road, Devil’s Gap Battery or any cable car station;
+(a) £30.00 per person aged 12 years or over entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road, Devil’s Gap Battery or any cable car station;
 
-(aa) £17.00 per person aged from 5 to 11 years inclusive entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road, Devil’s Gap Battery or any cable car station;
+(aa) £22.00 per person aged from 5 to 11 years inclusive entering by foot at Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road, Devil’s Gap Battery or any cable car station;
 
-(b) £25.00 per person aged 12 years or over entering via Jews’ Gate or Willis’s Road;
+(b) £30.00 per person aged 12 years or over entering via Jews’ Gate or Willis’s Road;
 
-(c) £17.00 per person aged from 5 to 11 years inclusive entering via Jews’ Gate or Willis’s Road;
+(c) £22.00 per person aged from 5 to 11 years inclusive entering via Jews’ Gate or Willis’s Road;
 
-(d) £13.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
+(d) £17.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
 
 (e) Deleted.
 
 (f) Deleted.
 
-(g) £25.00 per person aged 12 years or over entering with a bicycle via Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station;
+(g) £30.00 per person aged 12 years or over entering with a bicycle via Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station;
 
-(h) £17.00 per person aged 5 to 11 years inclusive entering with a bicycle via Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station.
+(h) £22.00 per person aged 5 to 11 years inclusive entering with a bicycle via Jews’ Gate (Engineer Road and Lathbury Barracks), Willis’s Road or Devil’s Gap Battery, or any cable car station.
 
 (2)  Subject to section 24A(2), the fees for admission to the tourist sites within the Upper Rock Nature Reserve shall be as follows–
 
-(a) £25.00 for each person aged 12 years and over who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road, Devil’s Gap Battery or any cable car station (applicable to all tourist sites with the exception of lower St Michael’s Cave);
+(a) £30.00 for each person aged 12 years and over who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road, Devil’s Gap Battery or any cable car station (applicable to all tourist sites with the exception of lower St Michael’s Cave);
 
-(b) £17.00 for each child aged from 5 to 11 years inclusive who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road, Devil’s Gap Battery or any cable car station (applicable to all tourist sites with the exception of lower St Michael’s Cave);
+(b) £22.00 for each child aged from 5 to 11 years inclusive who entered the Upper Rock Nature Reserve by foot at Jews’ Gate, Willis’s Road, Devil’s Gap Battery or any cable car station (applicable to all tourist sites with the exception of lower St Michael’s Cave);
 
 (c) £30.00 per person for entering lower St Michael’s Cave;
 
 (3)  Subject to section 24A(2), the fees in subparagraphs (1) and (2) are cumulative.
-
-(4)  The fees set out in subparagraphs (1)(a) to (h) shall be reduced by £3.00 where the person concerned has previously paid £3.00 for entry to the 100 Ton Gun on that same day.
 
 2.(1)  A person holding a valid Gibraltar identity card relating to that person may enter the Upper Rock Nature Reserve and all tourist sites within the Upper Rock Nature Reserve, with the exception of lower St Michael’s Cave (the fees for which are set out in paragraphs 1(2)(c)(ii)),  without paying a fee on production of that card.
 

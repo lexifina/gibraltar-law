@@ -4,9 +4,7 @@ Principal Act
 
 Act. No. 1991-11 Commencement 9.5.1991 Assent 9.5.1991
 
-Amending enactments Relevant current provisions Commencement date
-
-Act. 1992-08 ss. 5(1)(d)-(f), (4), 10(1)(d)-(f), (2), 3(a), (6) 9.7.1992 LN. 1995/118 ss. 2(1), (3A), 2A, 3(1)(c)-(d), 5(1)(e), (ee), 17A- 17Z, 17AA, 17BB, 17CC, 17DD, 18(1), Schs. 4-7
+Amending enactments Relevant current provisions Commencement date Act. 1992-08 ss. 5(1)(d)-(f), (4), 10(1)(d)-(f), (2), 3(a), (6) 9.7.1992 LN. 1995/118 ss. 2(1), (3A), 2A, 3(1)(c)-(d), 5(1)(e), (ee), 17A- 17Z, 17AA, 17BB, 17CC, 17DD, 18(1), Schs. 4-7
 
 1.9.1995 Act. 1997-15 Sch 5 10.4.1997 2001-23 s. 24A 12.7.2001 2005-41 ss. 2, 5(1)(e), (ee), 17S, 17W, 17XA, 17Y, 23, Schs. 5, 7-8
 
@@ -32,7 +30,7 @@ LN. 2018/251 Schs. 1, 3 8.11.2018 2019/007 Sch. 1 17.01.2019 2019/084 ss. 17Q(1)
 
 11.12.2020 LN. 2020/548 ss. 2(1), (3C)-(3D), 2ZA, 12A(4)(a)-(b), 13A, 17A(2A), 17B-17C, 17DA(2A), 17DB, 17DC, 17E(1)(b)-(d), 17K(6)(b), 17P(6)(b), 17RA(1), (3A), 17RB(1), 17T(7)(aa), 17VB(1), 17X(7)(aa), 17XA(5), 17Y(4A)-(4B), 17CC(2)(b), (3)-(4), (4A), 17DD, 17DDA, 17FF(6), 17GG(2)(b), (3)- (4), (4A), 21A(3), 23(1)-(2), 23A
 
-1.1.2021 2022/077 Sch. 10 1.4.2022 2023/245 Sch. 10 10.8.2023 2024/208 Sch. 10 15.11.2024 2025/068 Sch. 1, 3 27.3.2025
+1.1.2021 2022/077 Sch. 10 1.4.2022 2023/245 Sch. 10 10.8.2023 2024/208 Sch. 10 15.11.2024 2025/068 Sch. 1, 3 27.3.2025 2025/070 Sch. 10 1.4.2025
 
 Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC Directive 2013/17/EU
 

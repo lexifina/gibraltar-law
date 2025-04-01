@@ -4,102 +4,26 @@ Section 8
 
 SPECIFIED WILD ANIMALS
 
-NAME COMMON NAME MAMMALIA MAMMALS Insectivora Insectivores Erinaceidae hedgehogs Talpidae moles Soricidae shrews
-
-Chiroptera Bats all species all species
-
-Primates Apes & monkeys Macaca sylvanus Barbary Macaque
-
-Carnivora Carnivores Vulpes vulpes Red Fox Lutra lutra European Otter
-
-Rodentia Rodents Eliomys quercinus Garden dormouse Lagomorpha Rabbits & hares Oryctolagus cuniculus Rabbit
-
-Phocidae Seals all species all species Cetacea Whales,porpoises and dolphins all species all species
-
-AMPHIBIA AMPHIBIANS all species all species REPTILIA REPTILES all species all species
-
-PISCES FISH Sciaena umbra Brown Meagre
+NAME COMMON NAME MAMMALIA MAMMALS Insectivora Insectivores Erinaceidae hedgehogs Talpidae moles Soricidae shrews Chiroptera Bats all species all species Primates Apes & monkeys Macaca sylvanus Barbary Macaque Carnivora Carnivores Vulpes vulpes Red Fox Lutra lutra European Otter Rodentia Rodents Eliomys quercinus Garden dormouse Lagomorpha Rabbits & hares Oryctolagus cuniculus Rabbit Phocidae Seals all species all species Cetacea Whales,porpoises and dolphins all species all species AMPHIBIA AMPHIBIANS all species all species REPTILIA REPTILES all species all species PISCES FISH Sciaena umbra Brown Meagre
 
 Hippocampus spp. seahorses Syngnathus spp. pipefish Thalassoma spp. Turkish wrasse Blennius spp, blennies Gobius spp. gobies Chromogobius spp. gobies Thorogobius spp. gobies ELASMOBRANCHII
 
-(all species of elasmobranchii not limited to those set out below) SHARKS, RAYS, SKATES AND STINGRAYS (all species of sharks, rays, skates and stingrays not limited to those set out below)
+(all species of elasmobranchii not limited to those set out below) SHARKS, RAYS, SKATES AND STINGRAYS (all species of sharks, rays, skates and stingrays not limited to those set out below) HEXANCHIFORMES COW & FRILLED SHARKS Family HEXANCHIDAE SIXGILL & SEVENGILL SHARKS Heptranchias perlo Sharpnose sevengill shark Hexanchus griseus Bluntnose sixgill shark Hexanchus nakamurai Bigeye sixgill shark SQUALIFORMES DOGFISH SHARKS Family ECHINORHINIDAE BRAMBLE SHARKS Echinorhinus brucus Bramble shark Family SQUALIDAE DOGFISH SHARKS Squalus acanthias Piked dogfish Squalus blainvillei Longnose spurdog Squalus megalops Shortnose spurdog Family CENTROPHORIDAE GULPER SHARKS Centrophorus granulosus Gulper shark Centrophorus uyato Little gulper shark Family ETMOPTERIDAE LANTERN SHARKS Etmopterus spinax Velvet belly Family SOMNIOSIDAE SLEEPER SHARKS Centroscymnus coelolepis Portugese dogfish Somniosus rostratus Little sleeper shark Family OXYNOTIDAE ROUGHSHARKS Oxynotus centrina Angular roughshark Family DALATIIDAE KITEFIN SHARKS Dalatias licha Kitefin shark SQUATINIFORMES ANGEL SHARKS Family SQUATINIDAE ANGEL SHARKS Squatina aculeata Sawback angelshark Squatina oculata Smoothback angelshark Squatina squatina Angel shark
 
-HEXANCHIFORMES COW & FRILLED SHARKS Family HEXANCHIDAE SIXGILL & SEVENGILL SHARKS Heptranchias perlo Sharpnose sevengill shark Hexanchus griseus Bluntnose sixgill shark Hexanchus nakamurai Bigeye sixgill shark
+LAMNIFORMES MACKEREL SHARKS Family ODONTASPIDIDAE SAND TIGER SHARKS Carcharias taurus Sand tiger shark Odontaspis ferox Smalltooth sand tiger Family ALOPIIDAE THRESHER SHARKS Alopias superciliosus Bigeye thresher Alopias vulpinus Thresher shark Family CETORHINIDAE BASKING SHARKS Cetorhinus maximus Basking shark Family LAMNIDAE MACKEREL SHARKS Carcharodon carcharias Great white shark Isurus oxyrinchus Shortfin mako Isurus paucus Longfin mako Lamna nasus Porbeagle shark CARCHARHINIFORMES GROUND SHARKS Family SCYLIORHINIDAE CAT SHARKS Scyliorhinus stellaris Nursehound Scyliorhinus canicula Small Spotted Catshark Galeus atlanticus Atlantic catshark Galeus melastomus Blackmouth catshark Family TRIAKIDAE HOUND SHARKS Galeorhinus galeus Tope shark Mustelus asterias Starry smoothhound Mustelus mustelus Smoothhound Mustelus punctulatus Blackspot smoothhound Family CARCHARHINIDAE REQUIEM SHARKS Carcharhinus altimus Bignose shark Carcharhinus brachyurus Bronze whaler shark Carcharhinus brevipinna Spinner shark Carcharhinus falciformis Silky shark C. limbatus Blacktip shark C. melanopterus Blacktip reef shark Carcharhinus obscurus Dusky shark Carcharhinus plumbeus Sandbar shark Galeocerdo cuvier Tiger shark Prionace glauca Blue shark Rhizoprionodon acutus Milk shark Family SPHYRNIDAE HAMMERHEAD SHARKS Sphyrna (Sphyrna) lewini Scalloped hammerhead Sphyrna (Sphyrna) mokarran Great hammerhead Sphyrna (Mesozygaena) tudes Smalleye hammerhead Sphyrna (Sphyrna) zygaena Smooth hammerhead
 
-SQUALIFORMES DOGFISH SHARKS Family ECHINORHINIDAE BRAMBLE SHARKS Echinorhinus brucus Bramble shark Family SQUALIDAE DOGFISH SHARKS Squalus acanthias Piked dogfish Squalus blainvillei Longnose spurdog Squalus megalops Shortnose spurdog Family CENTROPHORIDAE GULPER SHARKS Centrophorus granulosus Gulper shark Centrophorus uyato Little gulper shark Family ETMOPTERIDAE LANTERN SHARKS Etmopterus spinax Velvet belly Family SOMNIOSIDAE SLEEPER SHARKS Centroscymnus coelolepis Portugese dogfish Somniosus rostratus Little sleeper shark Family OXYNOTIDAE ROUGHSHARKS Oxynotus centrina Angular roughshark Family DALATIIDAE KITEFIN SHARKS Dalatias licha Kitefin shark
+BATOIDS SKATES and RAYS PRISTIFORMES SAWFISHES Family PRISTIDAE SAWFISHES Pristis pectinata Smalltooth sawfish Pristis pristis Common sawfish RHINOBATIFORMES GUITARFISHES Family RHINOBATIDAE GUITARFISHES Rhinobatos (Glaucostegus) cemiculus Blackchin guitarfish Rhinobatos (Rhinobatos) rhinobatos Common guitarfish TORPEDINIFORMES ELECTRIC RAYS Family TORPEDINIDAE TORPEDO RAYS Torpedo (Tetronarce) nobiliana Great torpedo Torpedo(Torpedo) sinuspersici Variable torpedo ray Torpedo (Torpedo) marmorata Spotted torpedo Torpedo (Torpedo) torpedo Ocellate torpedo RAJIFORMES SKATES Family RAJIDAE SKATES Dipturus batis Gray skate Dipturus oxyrhynchus Sharpnose skate Dipturus nidarosiensis Norwegian skate Leucoraja circularis Sandy skate Leucoraja fullonica Shagreen skate Leucoraja melitensis Maltese skate Leucoraja naevus Cuckoo skate Raja undulata Undulate skate Raja africana African skate Raja asterias Atlantic starry skate Raja brachyura Blonde skate Raja clavata Linnaeus Thornback skate Raja montagui Fowler Spotted skate Raja polystigma Speckled skate Raja radula Rough skate Raja miraletus Brown Ray Rostroraja alba White skate MYLIOBATIFORMES STINGRAYS Family DASYATIDAE WHIPTAIL STINGRAYS Dasyatis centroura Roughtail stingray Dasyatis marmorata Marbled stingray Dasyatis pastinaca Common stingray Dasyatis tortonesei Tortonese's stingray
 
-SQUATINIFORMES ANGEL SHARKS Family SQUATINIDAE ANGEL SHARKS Squatina aculeata Sawback angelshark Squatina oculata Smoothback angelshark Squatina squatina Angel shark
+Himantura uarnak Honeycomb whipray Pteroplatytrygon violacea Pelagic stingray Taeniura grabata Round fantail stingray Family GYMNURIDAE BUTTERFLY RAYS Gymnura altavela Spiny butterfly ray Family MYLIOBATIDAE EAGLE RAYS Myliobatis aquila Common eagle ray Pteromylaeus bovinus Bullray Family RHINOPTERIDAE COWNOSE RAYS Rhinoptera marginata Lusitanian cownose ray Family MOBULIDAE DEVIL RAYS Mobula mobular Giant devilray INSECTA INSECTS Phasmatodea All stick insects
 
-LAMNIFORMES MACKEREL SHARKS Family ODONTASPIDIDAE SAND TIGER SHARKS Carcharias taurus Sand tiger shark Odontaspis ferox Smalltooth sand tiger Family ALOPIIDAE THRESHER SHARKS Alopias superciliosus Bigeye thresher Alopias vulpinus Thresher shark Family CETORHINIDAE BASKING SHARKS Cetorhinus maximus Basking shark Family LAMNIDAE MACKEREL SHARKS Carcharodon carcharias Great white shark Isurus oxyrinchus Shortfin mako Isurus paucus Longfin mako Lamna nasus Porbeagle shark
+Mantatodea All mantids Coleoptera Buprestis sanguinea Jewel beetle Paratyphlus tristancanoi (Gibraltar endemic beetle) Lusitanopsis herculeana (Gibraltar endemic beetle) Torneuma bensusani (A near-endemic beetle) Hymenoptera Technomyrmex vexatus (A rare ant) Anochetus ghilianii (A trap-jaw ant) Lepidoptera Butterflies and Moths Iphiclides podalinus Scarce Swallowtail Euchloe tagis Portuguese Dappled White Anthocaris belia Morroco Orange Tip Gonepterix rhamni Brimstone Danaus chryssipus Plain Tiger Melanargria ines Spanish Marbled White Pyronia cecilia Southern Gatekeeper Strymonidia spini Blue-spot Hairstreak Tomares ballus Provence Hairstreak Zizeenia knysna African Grass Blue Carcharodus alceae Mallow Skipper Spialia sertorius Red Underwing Skipper Gegenes nostrodamus Mediterranean Skipper Borbo borbonica Zeller’s Skipper Zygaena fausta gibraltarica Gibraltar Burnet Moth
 
-CARCHARHINIFORMES GROUND SHARKS Family SCYLIORHINIDAE CAT SHARKS Scyliorhinus stellaris Nursehound Scyliorhinus canicula Small Spotted Catshark Galeus atlanticus Atlantic catshark Galeus melastomus Blackmouth catshark Family TRIAKIDAE HOUND SHARKS Galeorhinus galeus Tope shark Mustelus asterias Starry smoothhound Mustelus mustelus Smoothhound Mustelus punctulatus Blackspot smoothhound Family CARCHARHINIDAE REQUIEM SHARKS Carcharhinus altimus Bignose shark Carcharhinus brachyurus Bronze whaler shark Carcharhinus brevipinna Spinner shark Carcharhinus falciformis Silky shark C. limbatus Blacktip shark C. melanopterus Blacktip reef shark Carcharhinus obscurus Dusky shark Carcharhinus plumbeus Sandbar shark Galeocerdo cuvier Tiger shark Prionace glauca Blue shark Rhizoprionodon acutus Milk shark Family SPHYRNIDAE HAMMERHEAD SHARKS Sphyrna (Sphyrna) lewini Scalloped hammerhead Sphyrna (Sphyrna) mokarran Great hammerhead Sphyrna (Mesozygaena) tudes Smalleye hammerhead Sphyrna (Sphyrna) zygaena Smooth hammerhead
+ARACHNIDA SPIDERS Macrothele calpeiana Gibraltar Funnel-web Spider CRUSTACEA CRUSTACEANS Pollicipes Pollicipes Goose Barnacle Maja spp. spider crabs. all Scyllarides Slipper lobsters CHILOPODA CENTIPEDES & MILLIPEDES Scolopendra cingulatus MOLLUSCA MOLLUSCS Bivalvia Bivalves Atrina pectinata Brittle Pen Shell Pinna nobilis Noble Pen Shell PINNA RUDIS Rough Pen Shell Gastropoda Gastropods Haliotis tuberculata Sea Ormer Patella ferruginea Ribbed Mediterranean Limpet Monodonta spp. toothed topshells Jujubinus spp. top shells Gibbula spp. top shells Acicula norrisi Thais haemastoma Rock Shell Aplysia spp. sea hares Onchidella celtica Lauria cylindracea Chrysalis Snails Truncatellina cylindrica Cylindrical Whorl Snail Pyramidula rupestris Rock Snail Chondrina calpica Granopupa granum Ferussacia follicula Charonia spp. tritons Epitonium spp. wentletraps Trivia spp. cowries Cypraea spp. cowries Mitra zonata Zoned Mitre Shell Bolinus brandaris Purple Dye Murex Hexaplex trunculus Banded Murex Cecilioides spp. Testacella maugei Mauge’s slug Vitrea contracta Glass Snail Oxychilus draparnaudi
 
-BATOIDS SKATES and RAYS PRISTIFORMES SAWFISHES Family PRISTIDAE SAWFISHES Pristis pectinata Smalltooth sawfish Pristis pristis Common sawfish RHINOBATIFORMES GUITARFISHES Family RHINOBATIDAE GUITARFISHES Rhinobatos (Glaucostegus) cemiculus Blackchin guitarfish Rhinobatos (Rhinobatos) rhinobatos Common guitarfish
+Oxychilus hudatinus Parmacella valencienii Milax nigricans Black slug Deroceras ponsonbyi Ponsonbyi’s slug Trichia hispida Hairy snail Helicella apicina Helicella conspurcata Candidula intersecta Wrinkled snail Cernuella virgata Striped snail Cochlicella acuta Pointed snail Caracollina lenticula Osteophora calpeana Cumbium olla Papillifera papillaris Pseudotachea litturata Rossmaessleria scherzeri Gibraltar endemic snail Cephalopoda Cephalopods Argonauto argo Paper Nautilus Eledone spp. Lesser Octopus ECHINOIDEA SEA URCHINS all species all species ANTHOZOA ANEMONES, CORALS,
 
-TORPEDINIFORMES ELECTRIC RAYS Family TORPEDINIDAE TORPEDO RAYS Torpedo (Tetronarce) nobiliana Great torpedo Torpedo(Torpedo) sinuspersici Variable torpedo ray Torpedo (Torpedo) marmorata Spotted torpedo Torpedo (Torpedo) torpedo Ocellate torpedo
+Hexacorralia all Antipathes spp. Black Coral
 
-RAJIFORMES SKATES Family RAJIDAE SKATES Dipturus batis Gray skate Dipturus oxyrhynchus Sharpnose skate Dipturus nidarosiensis Norwegian skate Leucoraja circularis Sandy skate Leucoraja fullonica Shagreen skate Leucoraja melitensis Maltese skate Leucoraja naevus Cuckoo skate Raja undulata Undulate skate Raja africana African skate Raja asterias Atlantic starry skate Raja brachyura Blonde skate Raja clavata Linnaeus Thornback skate Raja montagui Fowler Spotted skate Raja polystigma Speckled skate Raja radula Rough skate Raja miraletus Brown Ray Rostroraja alba White skate
+Madreporaria Balanophyllia regia Regal Coral Clodocora cespitosa Carpet Coral Dendrophyllia ramea Yellow Coral Lophelia pertusa coral Leptopsammia pruroti Yellow Cup Coral Astroides calcycularis Star Coral Alcyonacea Alcyonium palmatum Deadman’s fingers Parerythropodium corralloides soft coral Gorgonacea Eunicella cavolinii Yellow Gorgonian Eunicella clavata Violet Sea Whip
 
-MYLIOBATIFORMES STINGRAYS Family DASYATIDAE WHIPTAIL STINGRAYS Dasyatis centroura Roughtail stingray Dasyatis marmorata Marbled stingray Dasyatis pastinaca Common stingray Dasyatis tortonesei Tortonese's stingray
-
-Himantura uarnak Honeycomb whipray Pteroplatytrygon violacea Pelagic stingray Taeniura grabata Round fantail stingray Family GYMNURIDAE BUTTERFLY RAYS Gymnura altavela Spiny butterfly ray Family MYLIOBATIDAE EAGLE RAYS Myliobatis aquila Common eagle ray Pteromylaeus bovinus Bullray Family RHINOPTERIDAE COWNOSE RAYS Rhinoptera marginata Lusitanian cownose ray Family MOBULIDAE DEVIL RAYS Mobula mobular Giant devilray
-
-INSECTA INSECTS Phasmatodea All stick insects
-
-Mantatodea All mantids
-
-Coleoptera
-
-Buprestis sanguinea Jewel beetle Paratyphlus tristancanoi (Gibraltar endemic beetle) Lusitanopsis herculeana (Gibraltar endemic beetle) Torneuma bensusani (A near-endemic beetle)
-
-Hymenoptera Technomyrmex vexatus (A rare ant) Anochetus ghilianii (A trap-jaw ant) Lepidoptera Butterflies and Moths Iphiclides podalinus Scarce Swallowtail Euchloe tagis Portuguese Dappled White Anthocaris belia Morroco Orange Tip Gonepterix rhamni Brimstone Danaus chryssipus Plain Tiger Melanargria ines Spanish Marbled White Pyronia cecilia Southern Gatekeeper Strymonidia spini Blue-spot Hairstreak Tomares ballus Provence Hairstreak Zizeenia knysna African Grass Blue Carcharodus alceae Mallow Skipper Spialia sertorius Red Underwing Skipper Gegenes nostrodamus Mediterranean Skipper Borbo borbonica Zeller’s Skipper Zygaena fausta gibraltarica Gibraltar Burnet Moth
-
-ARACHNIDA SPIDERS Macrothele calpeiana Gibraltar Funnel-web Spider
-
-CRUSTACEA CRUSTACEANS Pollicipes Pollicipes Goose Barnacle Maja spp. spider crabs. all Scyllarides Slipper lobsters CHILOPODA CENTIPEDES & MILLIPEDES Scolopendra cingulatus
-
-MOLLUSCA MOLLUSCS Bivalvia Bivalves Atrina pectinata Brittle Pen Shell Pinna nobilis Noble Pen Shell PINNA RUDIS Rough Pen Shell
-
-Gastropoda Gastropods Haliotis tuberculata Sea Ormer Patella ferruginea Ribbed Mediterranean Limpet Monodonta spp. toothed topshells Jujubinus spp. top shells Gibbula spp. top shells Acicula norrisi
-
-Thais haemastoma Rock Shell Aplysia spp. sea hares Onchidella celtica Lauria cylindracea Chrysalis Snails Truncatellina cylindrica Cylindrical Whorl Snail Pyramidula rupestris Rock Snail Chondrina calpica Granopupa granum
-
-Ferussacia follicula Charonia spp. tritons Epitonium spp. wentletraps Trivia spp. cowries Cypraea spp. cowries Mitra zonata Zoned Mitre Shell Bolinus brandaris Purple Dye Murex Hexaplex trunculus Banded Murex Cecilioides spp.
-
-Testacella maugei Mauge’s slug Vitrea contracta Glass Snail Oxychilus draparnaudi
-
-Oxychilus hudatinus
-
-Parmacella valencienii Milax nigricans Black slug Deroceras ponsonbyi Ponsonbyi’s slug Trichia hispida Hairy snail Helicella apicina Helicella conspurcata
-
-Candidula intersecta Wrinkled snail Cernuella virgata Striped snail Cochlicella acuta Pointed snail Caracollina lenticula
-
-Osteophora calpeana
-
-Cumbium olla
-
-Papillifera papillaris
-
-Pseudotachea litturata
-
-Rossmaessleria scherzeri Gibraltar endemic snail
-
-Cephalopoda Cephalopods Argonauto argo Paper Nautilus Eledone spp. Lesser Octopus ECHINOIDEA SEA URCHINS all species all species
-
-ANTHOZOA ANEMONES, CORALS,
-
-Hexacorralia all Antipathes spp. Black Coral Madreporaria
-
-Balanophyllia regia Regal Coral Clodocora cespitosa Carpet Coral Dendrophyllia ramea Yellow Coral Lophelia pertusa coral Leptopsammia pruroti Yellow Cup Coral Astroides calcycularis Star Coral Alcyonacea
-
-Alcyonium palmatum Deadman’s fingers Parerythropodium corralloides soft coral
-
-Gorgonacea
-
-Eunicella cavolinii Yellow Gorgonian Eunicella clavata Violet Sea Whip
-
-Eunicella singularis gorgonian Eunicella verrucosa White Gorgonian Corallium rubrum Red Coral PORIFERA
-
-Hippospongia communis Spongia agaricina
-
-Spongia officinalis Spongia zimocca
+Eunicella singularis gorgonian Eunicella verrucosa White Gorgonian Corallium rubrum Red Coral PORIFERA Hippospongia communis Spongia agaricina Spongia officinalis Spongia zimocca
