@@ -2,13 +2,15 @@ SCHEDULE 1 ANNUAL FEES
 
 Fee Block A1.
 
-Regulated person Base Fee Method of Calculating Annual Fees Open market insurance companies (non- life) (insurers and reinsurers, including those structured as PCCs) £ 25,497 Base Fee + Additional Fee per Cell + (GPI Fee + GTL Fee + Passporting Fee) + Internal Capital Model Fee + Matching Adjustment Fee
+Regulated person Base Fee Method of Calculating Annual Fees Open market insurance companies (non- life) (insurers and reinsurers, including those structured as PCCs) £ 32,000 Base Fee + Additional Fee per Cell + (GPI Fee + GTL Fee + Passporting Fee) + Internal Capital Model Fee + Matching Adjustment Fee
 
-Base Fee A flat fee of £25,497.
+Base Fee A flat fee of £32,000.
 
 Additional Fee An additional fee, charged at a rate of £2,549 per Cell.
 
-GPI Fee An additional fee based on Gross Premium Income–
+GPI Fee
+
+An additional fee based on Gross Premium Income–
 
 £0 ≤ GPI ≤ £10,000,000 – additional charge at a rate of £382 per £1,000,000 or part thereof of GPI
 
@@ -16,13 +18,15 @@ GPI Fee An additional fee based on Gross Premium Income–
 
 £25,000,001 ≤ GPI ≤ £100,000,000 – additional charge at a rate of £254 per £1,000,000 or part thereof of GPI
 
-£100,000,001 ≤ GPI ≤ £250,000,000 - additional charge at a rate of £192 per £1,000,000 or part thereof of GPI
+£100,000,001 ≤ GPI ≤ £250,000,000 - additional charge at a rate of £222 per £1,000,000 or part thereof of GPI
 
-GPI ≥ £250,000,001 – additional charge at a rate of £129 per £1,000,000 or part thereof of GPI.
+GPI ≥ £250,000,001 – additional charge at a rate of £190 per £1,000,000 or part thereof of GPI.
 
 Note: In respect of GPI, where a regulated person has a reporting period that is less or greater than 12 months, the relevant amount must be converted to an annualised figure.
 
-GTL (Gross Technical Liabilities) Fee An additional fee based on the GTL–
+GTL (Gross Technical Liabilities) Fee
+
+An additional fee based on the GTL–
 
 £0 ≤ GTL ≤ £10,000,000 - additional charge at a rate of £78 per £1,000,000 or part thereof of GTL
 
@@ -30,9 +34,9 @@ GTL (Gross Technical Liabilities) Fee An additional fee based on the GTL–
 
 £25,000,001 ≤ GTL ≤ £100,000,000 - additional charge at a rate of £51 per £1,000,000 or part thereof of GTL
 
-£100,000,001 ≤ GTL ≤ £250,000,000 - additional charge at a rate of £39 per £1,000,000 or part thereof of GTL
+£100,000,001 ≤ GTL ≤ £250,000,000 - additional charge at a rate of £45 per £1,000,000 or part thereof of GTL
 
-GTL ≥ £250,000,001 - additional charge at a rate of £26 per £1,000,000 or part thereof of GTL.
+GTL ≥ £250,000,001 - additional charge at a rate of £30 per £1,000,000 or part thereof of GTL.
 
 Note: In respect of GTL, where the GFSC has reason to believe that the technical provisions have not been booked at actuarial best estimate, or that they do not fully comply with relevant accounting standards, it may adjust the reported figure for the purposes of the fee calculation.
 
@@ -46,13 +50,11 @@ An additional monitoring fee of £50,000 where an internal capital model has bee
 
 Matching Adjustment Fee
 
-An additional monitoring fee of £50,000 where a matching adjustment has been approved in respect of the regulated person.
+An additional monitoring fee of £50,000 where a matching adjustment has been approved in respect of the regulated person. Open market insurance companies (life) (insurers and reinsurers, including those structured as PCCs)
 
-Open market insurance companies (life) (insurers and reinsurers, including those structured as PCCs)
+£ 32,000 Base Fee + (GPI Fee + GTL Fee + Passporting Fee) + Internal Capital Model Fee + Matching Adjustment Fee
 
-£ 25,497 Base Fee + (GPI Fee + GTL Fee + Passporting Fee) + Internal Capital Model Fee + Matching Adjustment Fee
-
-Base Fee A flat fee of £25,497.
+Base Fee A flat fee of £32,000.
 
 GPI Fee An additional fee based on GPI–
 
@@ -92,23 +94,23 @@ An additional monitoring fee of £50,000 where an internal capital model has bee
 
 Matching Adjustment Fee
 
-An additional monitoring fee of £50,000 where a matching adjustment has been approved in respect of the regulated person.
+An additional monitoring fee of £50,000 where a matching adjustment has been approved in respect of the regulated person. Credit institutions £ 36,550 Base Fee + Customer Fee + Fund Depositary Fee + Passporting Fee + E-Money Fee + Mortgage Credit Fee + Group Supervision Fee
 
-Credit institutions £ 32,550 Base Fee + Customer Fee + Fund Depositary Fee + Passporting Fee + E-Money Fee + Mortgage Credit Fee + Group Supervision Fee
+Base Fee
 
-Base Fee A flat fee of £32,550.
+A flat fee of £36,550.
 
-Customer Fee An additional charge, based on Amounts Due To Customers (ADC)–
+Customer Fee
+
+An additional charge, based on Amounts Due To Customers (ADC)–
 
 £0 ≤ ADC ≤ £150,000,000 – additional charge at a rate of £106 per £1,000,000 or part thereof of ADC
 
-£150,000,001 ≤ ADC ≤ £300,000,000 – additional charge at a rate of £91 per £1,000,000 or part thereof of ADC
+£150,000,001 ≤ ADC ≤ £300,000,000 – additional charge at a rate of £100 per £1,000,000 or part thereof of ADC
 
-£300,000,001 ≤ ADC ≤ £600,000,000 – additional charge at a rate of £70 per £1,000,000 or part thereof of ADC
+£300,000,001 ≤ ADC ≤ £600,000,000 – additional charge at a rate of £77 per £1,000,000 or part thereof of ADC
 
-£600,000,001 ≤ ADC ≤ £900,000,000 – additional charge at a rate of £50 per £1,000,000 or part thereof of ADC
-
-ADC ≥ £900,000,001 – additional charge at a rate of £37 per £1,000,000 or part thereof of ADC.
+ADC ≥ £600,000,001 – additional charge at a rate of £65 per £1,000,000 or part thereof of ADC
 
 Note: ADC is calculated as–
 
@@ -160,15 +162,11 @@ Mortgage Credit Fee An additional fee of–
 
 mortgage book ≥ £250,000,001 – a flat fee of £11,277
 
-and (b) a fee, charged at a rate of £1,410 per exclusively tied credit intermediary and per appointed representative.
-
-Electronic money institutions £ 25,497
+and (b) a fee, charged at a rate of £1,410 per exclusively tied credit intermediary and per appointed representative. Electronic money institutions £ 25,497
 
 Base Fee + E-Money Fee + Passporting Fee + Additional Fee
 
-Base Fee
-
-A flat fee of £25,497.
+Base Fee A flat fee of £25,497.
 
 E-Money Fee An additional fee, based on AEO over the previous 6 months– £0 ≤ AEO ≤ £1,000,000 – no additional charge
 
@@ -190,25 +188,27 @@ An additional fee of £5,000 for passporting on an establishment basis.
 
 Additional Fee An additional fee, charged at a rate of £254 per agent.
 
-An additional fee, charged at a rate of £129 per distributor.
+An additional fee, charged at a rate of £129 per distributor. Incoming third country credit institution branches £ 28,000 Base Fee + Customer Fee + Fund Depository Fee + E-money Fee + Mortgage Credit Fee + Investment Services Fee
 
-Incoming third country credit £ 25,497 Base Fee + Customer Fee + Fund Depository Fee + E-money Fee + Mortgage Credit Fee + Investment Services Fee institution branches
+Base Fee
 
-Base Fee A flat fee of £25,497.
+A flat fee of £28,000.
 
-Customer Fee An additional fee, based on ADC.
+Customer Fee
+
+An additional charge, based on ADC–
 
 £0 ≤ ADC ≤ £150,000,000 – additional charge at a rate of £97 per £1,000,000 or part thereof of ADC
 
-£150,000,001 ≤ ADC ≤ £300,000,000 – additional charge at a rate of £82 per £1,000,000 or part thereof of ADC
+£150,000,001 ≤ ADC ≤ £300,000,000 – additional charge at a rate of £88 per £1,000,000 or part thereof of ADC
 
-£300,000,001 ≤ ADC ≤ £600,000,000 – additional charge at a rate of £63 per £1,000,000 or part thereof of ADC
+£300,000,001 ≤ ADC ≤ £600,000,000 – additional charge at a rate of £70 per £1,000,000 or part thereof of ADC
 
-£600,000,001 ≤ ADC ≤ £900,000,000 – additional charge at a rate of £46 per £1,000,000 or part thereof of ADC
+ADC ≥ £600,000,001 – additional charge at a rate of £55 per £1,000,000 or part thereof of ADC
 
-ADC ≥ £900,000,001 – additional charge at a rate of £33 per £1,000,000 or part thereof of ADC.
+Note: ADC is calculated as–
 
-Note: ADC is calculated as– Current Deposits + Other Deposits + Deposits from financial institutions which are not credit institutions.
+Current Deposits + Other Deposits + Deposits from financial institutions which are not credit institutions.
 
 Fund Depositary Fee An additional fee for CIS Depositaries–
 
@@ -266,9 +266,7 @@ Market operator (trading) £ 83,375 Base Fee + Additional Fee for trading activi
 
 Base Fee A flat fee of £83,375.
 
-Additional Fee A flat fee of £18,613.
-
-Clearing house £ 83,375 Base Fee + Additional Fee for clearing house activity
+Additional Fee A flat fee of £18,613. Clearing house £ 83,375 Base Fee + Additional Fee for clearing house activity
 
 Base Fee A flat fee of £83,375.
 
@@ -298,9 +296,7 @@ Additional Fee A flat fee of £4,146.
 
 Passporting Fee An additional fee of £1,000 for passporting on a services basis.
 
-Sub-fund Fee Where a scheme is an umbrella fund, the annual fee payable for each constituent sub-fund or part (however described), with the exception of the first, is 25% of the fees payable by the umbrella fund.
-
-Non-UCITS retail scheme £ 1,911 Base Fee + Additional Fee + Sub-fund Fee
+Sub-fund Fee Where a scheme is an umbrella fund, the annual fee payable for each constituent sub-fund or part (however described), with the exception of the first, is 25% of the fees payable by the umbrella fund. Non-UCITS retail scheme £ 1,911 Base Fee + Additional Fee + Sub-fund Fee
 
 Base Fee A flat fee of £1,911.
 
@@ -312,25 +308,27 @@ Fee Block A4.
 
 Regulated person Base Fee Method of Calculating Annual Fees
 
-Incoming UK credit institution branches £ 12,748 Base Fee + Customer Fee + Fund Depositary Fee + E-Money Fee + Mortgage Credit Fee
+Incoming UK credit institution branches £ 15,000 Base Fee + Customer Fee + Fund Depositary Fee + E-Money Fee + Mortgage Credit Fee
 
-Base Fee A flat fee of £12,748.
+Base Fee
 
-Customer Fee An additional charge, based on ADC.
+A flat fee of £15,000.
+
+Customer Fee
+
+An additional charge, based on ADC.
 
 £0 ≤ ADC ≤ £150,000,000 – additional charge at a rate of £48 per £1,000,000 or part thereof of ADC
 
-£150,000,001 ≤ ADC ≤ £300,000,000 – additional charge at a rate of £42 per £1,000,000 or part thereof of ADC
+£150,000,001 ≤ ADC ≤ £300,000,000 – additional charge at a rate of £45 per £1,000,000 or part thereof of ADC
 
-£300,000,001 ≤ ADC ≤ £600,000,000 – additional charge at a rate of £32 per £1,000,000 or part thereof of ADC
+£300,000,001 ≤ ADC ≤ £600,000,000 – additional charge at a rate of £38 per £1,000,000 or part thereof of ADC
 
-£600,000,001 ≤ ADC ≤ £900,000,000 – additional charge at a rate of £23 per £1,000,000 or part thereof of ADC
+ADC ≥ £600,000,001 – additional charge at a rate of £30 per £1,000,000 or part thereof of ADC
 
-ADC ≥ £900,000,001 – additional charge at a rate of £17 per £1,000,000 or part thereof of ADC.
+Note: ADC is calculated as–
 
-Note: ADC is calculated as– Current Deposits + Other Deposits + Deposits from financial institutions which are not credit institutions.
-
-Fund Depositary Fee An additional fee for CIS Depositaries–
+Current Deposits + Other Deposits + Deposits from financial institutions which are not credit institutions. Fund Depositary Fee An additional fee for CIS Depositaries–
 
 (a) holding EIF assets - £12,748
 
@@ -370,13 +368,9 @@ Mortgage Credit Fee An additional fee of–
 
 Mortgage book ≥ £250,000,001 – a flat fee of £10,199.
 
-(b) a fee, charged at a rate of £1,500 per exclusively tied credit intermediary and per appointed representative.
+(b) a fee, charged at a rate of £1,500 per exclusively tied credit intermediary and per appointed representative. Incoming UK insurance branches £ 12,748 Base Fee Only
 
-Incoming UK insurance branches £ 12,748 Base Fee Only
-
-Base Fee A flat fee of £12,748.
-
-Incoming third country insurance branches £ 12,748 Base Fee Only
+Base Fee A flat fee of £12,748. Incoming third country insurance branches £ 12,748 Base Fee Only
 
 Base Fee A flat fee of £12,748.
 
@@ -410,9 +404,7 @@ Additional Fee An additional fee based on insurers under management–
 
 £509 per captive insurer for which the regulated person is the manager;
 
-£509 per SPV for which the regulated person is the manager.
-
-Captive insurers, including those set up as a PCC £ 8,924 Base Fee + Cell Fee + (GPI Fee + GTL Fee + Passporting Fee) + Internal Capital Model Fee + Matching Adjustment Fee
+£509 per SPV for which the regulated person is the manager. Captive insurers, including those set up as a PCC £ 8,924 Base Fee + Cell Fee + (GPI Fee + GTL Fee + Passporting Fee) + Internal Capital Model Fee + Matching Adjustment Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -470,9 +462,7 @@ An additional monitoring fee of £50,000 where an internal capital model has bee
 
 Matching Adjustment Fee
 
-An additional monitoring fee of £50,000 where a matching adjustment has been approved in respect of the regulated person.
-
-Special Purpose Vehicles (including those set up as a Protected Cell Company) £ 8,924 Base Fee + Additional Fee
+An additional monitoring fee of £50,000 where a matching adjustment has been approved in respect of the regulated person. Special Purpose Vehicles (including those set up as a Protected Cell Company) £ 8,924 Base Fee + Additional Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -480,9 +470,7 @@ Additional Fee An additional fee, based on the type of entity–
 
 (a) PCC – an additional fee of £1,504 for the first Cell, and subsequently at a rate of £2,839 per subsequent Cell;
 
-(b) Non-PCC – an additional fee of £1,504 for the first transaction, and subsequently at a rate of £2,839 per subsequent transaction.
-
-Payment services institutions £ 8,924 Base Fee + Additional Fee 1 + Additional Fee 2 + Additional Fee 3 + Passporting Fee
+(b) Non-PCC – an additional fee of £1,504 for the first transaction, and subsequently at a rate of £2,839 per subsequent transaction. Payment services institutions £ 8,924 Base Fee + Additional Fee 1 + Additional Fee 2 + Additional Fee 3 + Passporting Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -518,9 +506,7 @@ Additional Fee 3 An additional fee, charged at a rate of £254 per agent.
 
 Passporting Fee An additional fee of £1,000 for passporting on a services basis.
 
-An additional fee of £5,000 for passporting on an establishment basis.
-
-Credit institutions carrying on investment business £ 8,924 Base Fee + Additional Fee 1 + Additional Fee 2 + Transaction Fee + Passporting Fee
+An additional fee of £5,000 for passporting on an establishment basis. Credit institutions carrying on investment business £ 8,924 Base Fee + Additional Fee 1 + Additional Fee 2 + Transaction Fee + Passporting Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -548,9 +534,7 @@ Transaction Fee A fee payable by firms at a rate of 3p per transaction, up to a 
 
 Passporting Fee An additional fee of £1,000 for passporting on a services basis.
 
-An additional fee of £5,000 for passporting on an establishment basis.
-
-Investment Firms £ 8,924 Base Fee + Additional Fee 1 + Additional Fee 2 + Transaction Fee + Fund Depositary Fee + Passporting Fee
+An additional fee of £5,000 for passporting on an establishment basis. Investment Firms £ 8,924 Base Fee + Additional Fee 1 + Additional Fee 2 + Transaction Fee + Fund Depositary Fee + Passporting Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -592,9 +576,7 @@ Note: The fee for holding AIF assets is only payable by an AIF Depositary.
 
 Passporting Fee An additional fee of £1,000 for passporting on a services basis.
 
-An additional fee of £5,000 for passporting on an establishment basis.
-
-Pension scheme adviser £ 8,924 Base Fee + Additional Fee
+An additional fee of £5,000 for passporting on an establishment basis. Pension scheme adviser £ 8,924 Base Fee + Additional Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -610,17 +592,13 @@ Additional Fee A flat fee of £5,101.
 
 Passporting Fee An additional fee of £1,000 for passporting on a services basis.
 
-An additional fee of £5,000 for passporting on an establishment basis.
-
-Small scheme manager £ 8,924 (Base Fee – Discount applicable) + Additional Fee
+An additional fee of £5,000 for passporting on an establishment basis. Small scheme manager £ 8,924 (Base Fee – Discount applicable) + Additional Fee
 
 Base Fee A flat fee of £8,924.
 
 Discount applicable A discount of £3,125 to be deducted from the Base Fee.
 
-Additional Fee An additional fee of £376 per AIF managed.
-
-AIFMs (In-scope) £ 8,924 Base Fee + Additional Fee 1 + Additional Fee 2 + Passporting Fee
+Additional Fee An additional fee of £376 per AIF managed. AIFMs (In-scope) £ 8,924 Base Fee + Additional Fee 1 + Additional Fee 2 + Passporting Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -656,11 +634,7 @@ Note: The services passporting fee applies to both–
 
 (b) an AIFM passporting the funds that it manages into the UK.
 
-An additional fee of £5,000 for passporting on an establishment basis.
-
-Small AIFMs
-
-£ 8,924 Base Fee – Discount Applicable + Additional Fee + EUVECA/EUSEF Designation Fee
+An additional fee of £5,000 for passporting on an establishment basis. Small AIFMs £ 8,924 Base Fee – Discount Applicable + Additional Fee + EUVECA/EUSEF Designation Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -670,9 +644,7 @@ Additional Fee An additional fee, charged at a rate of £192 per AIF managed by 
 
 EUVECA/EUSEF Designation Fee An additional fee of £957 to use the designation EUSEF.
 
-An additional fee of £957 to use the designation EUVECA.
-
-Non-credit institution mortgage credit providers £ 8,924 Base Fee + Mortgage Credit Fee + Additional Fee
+An additional fee of £957 to use the designation EUVECA. Non-credit institution mortgage credit providers £ 8,924 Base Fee + Mortgage Credit Fee + Additional Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -692,9 +664,7 @@ Fee Block B2.
 
 Regulated person Base Fee Method of Calculating Annual Fees AIFM incoming branches £ 8,924 Base Fee only
 
-Base Fee A flat fee of £8,924.
-
-Incoming UK investment firm branches £ 8,924 Base Fee + Additional Fee
+Base Fee A flat fee of £8,924. Incoming UK investment firm branches £ 8,924 Base Fee + Additional Fee
 
 Base Fee A flat fee of £8,924.
 
@@ -702,9 +672,7 @@ Additional Fee A flat fee of £3,187.
 
 Incoming UK payment services branches £ 8,924 Base Fee Only
 
-Base Fee A flat fee of £8,924.
-
-Incoming UCITS management company branches
+Base Fee A flat fee of £8,924. Incoming UCITS management company branches
 
 £ 8,924 Base Fee only
 
@@ -722,23 +690,25 @@ PIE (public-interest entity) Fee A fee, charged at a rate of £1,092 per public-
 
 Individual Statutory Auditor Fee A fee, charged at a rate of £2,184 per individual statutory auditor (excluding the first) where the audit firm is not a sole practitioner.
 
-Additional Fee An additional fee based on audit turnover–
+Additional Fee
+
+An additional fee based on audit turnover–
 
 £0 ≤ audit turnover ≤ £10,000 – no additional charge
 
-£10,001 ≤ audit turnover ≤ £100,000 – a flat fee of £2,730
+£10,001 ≤ audit turnover ≤ £100,000 – a flat fee of £4,730
 
-£100,001 ≤ audit turnover ≤ £500,000 – a flat fee of £5,460
+£100,001 ≤ audit turnover ≤ £500,000 – a flat fee of £8,460
 
-£500,001 ≤ audit turnover ≤ £1,000,000 – a flat fee of £8,736
+£500,001 ≤ audit turnover ≤ £1,000,000 – a flat fee of £12,736
 
-Audit turnover ≥ £1,000,001 – a flat fee of £12,012.
-
-Bureaux de change £ 1,911 Base Fee + Additional Fee
+Audit turnover ≥ £1,000,001 – a flat fee of £17,012. Bureaux de change £ 1,911 Base Fee + Additional Fee
 
 Base Fee A flat fee of £1,911.
 
-Additional Fee A flat fee of £2,549.
+Additional Fee
+
+A flat fee of £2,549.
 
 Fee Block C2.
 
@@ -764,9 +734,7 @@ Additional Fee An additional fee of–
 
 (b) £636 per individual permission.
 
-Note: This Additional Fee applies only to each additional company which is an affiliated undertaking of the regulated person as defined in section 237 of the Companies Act 2014.
-
-Personal pension scheme controller £ 1,276 Base Fee + Members Fee
+Note: This Additional Fee applies only to each additional company which is an affiliated undertaking of the regulated person as defined in section 237 of the Companies Act 2014. Personal pension scheme controller £ 1,276 Base Fee + Members Fee
 
 Base Fee A flat fee of £1,276.
 
@@ -810,13 +778,13 @@ Additional Fee 2 An additional fee based on turnover–
 
 (a) turnover ≤ £500,000 - no additional charge;
 
-(b) turnover ≥ £500,001 - a flat fee of £509.
-
-EIF Directors £ 1,911 Base Fee + Additional Incremental Fee
+(b) turnover ≥ £500,001 - a flat fee of £509. EIF Directors £ 1,911 Base Fee + Additional Incremental Fee
 
 Base Fee (active EIF Directors) A flat fee of £1,911.
 
-Base Fee (inactive EIF Directors) A flat fee of £536.
+Base Fee (inactive EIF Directors)
+
+A flat fee of £536.
 
 Additional Incremental Fee An additional fee, charged at a rate of £509 per EIF Directorship.
 
@@ -840,13 +808,9 @@ Additional Fee 2 An additional fee based on turnover–
 
 Turnover ≥ £20,000,001- a flat fee of £3,825.
 
-Passporting Fee
+Passporting Fee An additional fee of £1,000 for passporting on a services basis.
 
-An additional fee of £1,000 for passporting on a services basis.
-
-An additional fee of £5,000 for passporting on an establishment basis.
-
-Mortgage credit intermediaries £ 7,012 Base Fee + Additional Fee + Passporting Fee
+An additional fee of £5,000 for passporting on an establishment basis. Mortgage credit intermediaries £ 7,012 Base Fee + Additional Fee + Passporting Fee
 
 Base Fee A flat fee of £7,012.
 
@@ -860,9 +824,7 @@ Fee Block E2.
 
 Regulated person Base Fee Method of Calculating Annual Fees Incoming insurance intermediary branches £ 7,012 Base Fee Only
 
-Base Fee A flat fee of £7,012.
-
-Incoming UK mortgage credit intermediary branches £ 7,012 Base Fee Only
+Base Fee A flat fee of £7,012. Incoming UK mortgage credit intermediary branches £ 7,012 Base Fee Only
 
 Base Fee A flat fee of £7,012.
 
@@ -872,9 +834,7 @@ Regulated Person Base Fee Method of Calculating Annual Fees IORP £ 3,314 Base F
 
 Base Fee A flat fee of £3,314.
 
-Additional Fee £123 for UK cross-border activity.
-
-IORP which is a small institution £ 609 Base Fee
+Additional Fee £123 for UK cross-border activity. IORP which is a small institution £ 609 Base Fee
 
 Base Fee £609.
 
@@ -888,8 +848,8 @@ A flat fee of £11,897.
 
 Trade Activity Fee
 
-A fee equal to 0.1% of the value of the DLT provider’s reported volume of trade, up to a maximum fee of £75,000.
+A fee equal to 0.1% of the value of the DLT provider’s reported volume of trade, up to a maximum fee of £90,000.
 
 Additional Fee
 
-An additional fee of not more than £23,793, depending upon the complexity of regulating the DLT provider.
+An additional fee of £27,362.

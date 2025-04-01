@@ -1,6 +1,6 @@
 SCHEDULE 2A REGULATED INDIVIDUALS
 
-Regulated Person Application Fee (£) Annual Fee (£) Credit institution, open market insurance company (life or non-life) (insurer or reinsurer) or captive insurer (whether or not structured as a PCC) £1,050 £525 All other regulated persons £525 £263 In addition to any other fees payable under these Regulations, all regulated persons must pay–
+Regulated Person Application Fee (£) Annual Fee (£) Credit institution, open market insurance company (life or non-life) (insurer or reinsurer) or captive insurer (whether or not structured as a PCC) £1,575 £788 All other regulated persons £788 £395 In addition to any other fees payable under these Regulations, all regulated persons must pay–
 
 (a) the relevant application fee for approval of a regulated individual, where an application for approval is made separately from a Part 7 permission application; and
 
