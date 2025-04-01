@@ -6,11 +6,9 @@ LN.2016/049
 
 Commencement 10.3.2016
 
-Amending enactments Relevant current provisions Commencement date
+Amending enactments Relevant current provisions Commencement date LN. 2017/086 Sch.6 & 7 1.5.2017 2018/072 Sch.6 & 7 1.4.2018 2019/074 Sch.6 & 7 1.4.2019 2020/144 Sch.6 & 7 1.4.2020 2021/210 Sch.6 & 7 1.4.2021 2022/075 Sch.6 & 7 1.4.2022 2023/072 Sch.6 & 7 1.4.2023 2024/018 Sch.6 & 7 1.4.2024 2024/174 rr. 5(2)(b), 6(2)(b), 7(7), 13(a), 19(1), (3), 31(2), Sch.4-5
 
-LN. 2017/086 Sch.6 & 7 1.5.2017 2018/072 Sch.6 & 7 1.4.2018 2019/074 Sch.6 & 7 1.4.2019 2020/144 Sch.6 & 7 1.4.2020 2021/210 Sch.6 & 7 1.4.2021 2022/075 Sch.6 & 7 1.4.2022 2023/072 Sch.6 & 7 1.4.2023 2024/018 Sch.6 & 7 1.4.2024 2024/174 rr. 5(2)(b), 6(2)(b), 7(7), 13(a), 19(1), (3), 31(2), Sch.4-5
-
-1.10.2024
+1.10.2024 2025/064 Sch.6 & 7 1.4.2025
 
 ARRANGEMENT OF REGULATIONS
 
