@@ -14,8 +14,6 @@ Gibraltar Co-ordinating Centre for Criminal Intelligence & Drugs;
 
 Gibraltar Financial Intelligence Unit;
 
-Gibraltar Investor Compensation Board;
-
 Gibraltar Regulatory Authority;
 
 Gibraltar Resolution Authority;
