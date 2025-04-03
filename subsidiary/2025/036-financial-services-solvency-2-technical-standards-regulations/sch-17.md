@@ -649,3 +649,5 @@ Time lengths in years Credibility factor c 5 34% 6 51% 7 67% 8 81% 9 92% 10 and 
 (d) for the revision risk method, the number of financial years for which data are available; and
 
 (e) for non-proportional reinsurance method 1 and non-proportional reinsurance method 2, the number of reporting years for which data are available.
+
+_____________________________

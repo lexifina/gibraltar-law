@@ -20,7 +20,7 @@ Article 180: Specific Exposures
 
 Table 4
 
-Credit quality step 0 and 1 2 3 4 5 and 6 Durati on (duri) stressi ai bi ai bi ai bi ai bi ai bi up to 5 b ∙dur — 0.0 % — 1.1 % — 1.4 % — 2.5 % — 4.5 % More than 5 and up to 10 a + b ∙ dur −5 0.0 % 0.0 % 5.5% 0.6 % 7.0% 0.7 % 12.5 % 1.5 % 22.5 % 2.5 % More than 10 and up to 15 a + b ∙ dur −10 0.0 % 0.0 % 8.4% 0.5 % 10.5 % 0.5 % 20.0 % 1.0 % 35.0 % 1.8 % More than 15 and up to  20 a + b ∙ dur −15 0.0 % 0.0 % 10.9 % 0.5 % 13.0 % 0.5 % 25.0 % 1.0 % 44.0 % 0.5 % More than 20 min=a+b ∙ dur −20; 1> 0.0 % 0.0 % 13.4 % 0.5 % 15.5 % 0.5 % 30.0 % 0.5 % 46.5 % 0.5 %
+Credit quality step 0 and 1 2 3 4 5 and 6 Durati on (duri) stressi ai bi ai bi ai bi ai bi ai bi up to 5 b ∙dur — 0.0 % — 1.1 % — 1.4 % — 2.5 % — 4.5 % More than 5 and up to 10 a + b ∙ dur −5 0.0 % 0.0 % 5.5% 0.6 % 7.0% 0.7 % 12.5 % 1.5 % 22.5 % 2.5 % More than 10 and up to 15 a + b ∙ dur −10 0.0 % 0.0 % 8.4% 0.5 % 10.5 % 0.5 % 20.0 % 1.0 % 35.0 % 1.8 % More than 15 and up to  20 a + b ∙ dur −15 0.0 % 0.0 % 10.9 % 0.5 % 13.0 % 0.5 % 25.0 % 1.0 % 44.0 % 0.5 % More than 20 min=a+b ∙ dur −20; 1> 0.0 % 0.0 % 13.4 % 0.5 % 15.5 % 0.5 % 30.0 % 0.5 % 46.5 % 0.5 %
 
 Table 5
 
