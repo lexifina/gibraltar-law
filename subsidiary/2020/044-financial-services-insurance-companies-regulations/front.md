@@ -18,7 +18,9 @@ LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1)
 
 25.7.2024 2024/163 r. 281A 29.8.2024 2024/180 r. 51B 19.9.2024 2025/012 r. 41A 16.1.2025 2025/033 rr. 3(1), 43(5), 44(2)(a)(i), (iii), 45(1), (1A), (3)(c), (4), (4A)-(4B), (8), (11), 45A-45B, 46A, 47(1A)- (1B), (2)(a)-(c), 52(1), (2)(f), (3), (5), 54(5)-(6), 55(1A)-(1C), (3)(a), 56A-56G, 67(8), 68C(5), 69G(2), (3)(b), 70(1), 81(1)(b), 84(1), (1A)-(1B), (3)-(4), 85(3)-(4), 87(1)-(4), 88, 89(3)-(4), 89A, 93(1)-(2), 93A, 94(2A), 94A, 95(2)(c), (7)-(13), 98(3)-(7), 99(1)-(17), 101, 101A, 102, 102A-102C, 103, 104(1), 108(1A), (4)-(10), 109(1)-(2), (2A), (3A), (4), (7A)-(7B), (8)-(9), (11), (13)-(18), 111, 111A, 112(3)-(5), 113(2)(a), (c)-(e), 114(1)-(2), 116(1)(d), (1A), 190(2), 197A, 198A, 199(6), 199A, 200(5), 205(4), 207A, 210A, 211(3)-(4), 212A, 213(3), 237(5)(c), 238(1), (3)(a)(i), (6), 239(8), 276A(1), (3)(a), Schs. 1, 4
 
-31.1.2025
+31.1.2025 2025/074 rr. 36(6), 39(1), 45(4), 56E(2A), 68(14), 99(17)(c), 102B(1)(b), 103A, 276A(ga)-(gc), Sch. 5
+
+3.4.2025
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -126,7 +128,7 @@ Solvency Capital Requirement standard formula
 
 Internal models
 
-101. General provisions for approval of full and partial internal models. 101A. Specific provisions for approval of full and partial internal models. 102. Specific provisions for approval of partial internal models. 102A. Transitional plan to extend the scope of the model. 102B. Transitional plan to reduce the scope of the model. 102C. Internal model safeguards. 103. Policy for changing full and partial internal models. 104. Responsibilities of administrative, management or supervisory bodies. 105. Reversion to standard formula 106. Non-compliance of internal model. 107. Significant deviations from assumptions underlying standard formula calculation. 108. Use test. 109. Statistical quality standards. 110. Calibration standards. 111. Omitted. 111A. Analysis of change. 112. Validation standards. 113. Documentation standards. 114. External models and data.
+101. General provisions for approval of full and partial internal models. 101A. Specific provisions for approval of full and partial internal models. 102. Specific provisions for approval of partial internal models. 102A. Transitional plan to extend the scope of the model. 102B. Transitional plan to reduce the scope of the model. 102C. Internal model safeguards. 103. Policy for changing full and partial internal models. 103A. Integration of partial internal models. 104. Responsibilities of administrative, management or supervisory bodies. 105. Reversion to standard formula 106. Non-compliance of internal model. 107. Significant deviations from assumptions underlying standard formula calculation. 108. Use test. 109. Statistical quality standards. 110. Calibration standards. 111. Omitted. 111A. Analysis of change. 112. Validation standards. 113. Documentation standards. 114. External models and data.
 
 CHAPTER 4 MINIMUM CAPITAL REQUIREMENT
 
@@ -150,9 +152,9 @@ PART 8 Omitted
 
 PART 9 BRANCHES OF THIRD-COUNTRY INSURERS AND REINSURERS
 
-151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions.
+151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted.
 
-155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
+154. Technical provisions. 155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
 
 Re-insurance
 
@@ -182,7 +184,9 @@ Information for policy holders: non-life insurance
 
 Life insurance
 
-169. Life insurance: information for policy holders. 170. Cancellation period.
+169. Life insurance: information for policy holders.
+
+170. Cancellation period.
 
 Provisions specific to non-life insurance
 
@@ -264,9 +268,9 @@ Common provisions
 
 PART 13 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions. 283. Swiss general insurers.
+274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions.
 
-284. Revocations.
+283. Swiss general insurers. 284. Revocations.
 
 SCHEDULE 1 TRANSITIONAL PROVISIONS
 
@@ -275,5 +279,7 @@ SCHEDULE 2 LIQUIDATION OF GIBRALTAR INSURERS AND REINSURERS
 SCHEDULE 3 SWISS GENERAL INSURERS
 
 SCHEDULE 4 SOLVENCY CAPITAL REQUIREMENT (SCR) STANDARD FORMULA
+
+SCHEDULE 5 INTEGRATION TECHNIQUES FOR PARTIAL INTERNAL MODELS
 
 In exercise of the powers conferred on the Minister by sections 6(1), 24(3), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(7), 620(1), 621(1), 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and of all other enabling powers, the Minister and the Government have made these Regulations.
