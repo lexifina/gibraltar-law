@@ -6,15 +6,15 @@ LN.2011/057
 
 Commencement (LN.2011/083) 9.6.2011
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2011/089 r. 3(13), Sch. 3 9.6.2011 2012/015 rr. 23(2)(a), 41, 60A, Sch. 3 16.2.2012 2012/055 r. 4A 5.4.2012 2012/068 rr. 2, 23(2)(c), 26(1)-(2), 27(1), (3)-(4), 28, 29(1), 59(1)
+Amending enactments Relevant current provisions Commencement date LN. 2011/089 r. 3(13), Sch. 3 9.6.2011 2012/015 rr. 23(2)(a), 41, 60A, Sch. 3 16.2.2012 2012/055 r. 4A 5.4.2012 2012/068 rr. 2, 23(2)(c), 26(1)-(2), 27(1), (3)-(4), 28, 29(1), 59(1)
 
 26.4.2012 2013/033 r. 3(3), (3A) 14.2.2013 2013/036 r. 12(1), (1A) 21.2.2013 2013/062 rr. 17(1), (1A), 21(1)-(2), 22(1)-(2), Sch. 2 18.4.2013 2016/041 rr. 16, 18, 22(2), Sch. 3 3.3.2016 2017/105 Sch. 3 1.7.2017 2017/148 rr. 3(13), 3A, Sch. 3 13.7.2017 2018/033 rr. 10(3), 43(1), 47A, Sch. 3 1.3.2018 2018/105 Sch. 3 10.5.2018 2018/159 Sch. 3 11.9.2018 2018/275 rr. 31(1), 33A, 35A, 37(1)(d), (2), (a)-(b), (5)-(6), 40, (a)-(b), 40A, 41, 41A-41C, 42
 
 3.12.2018 2019/006 r. 3(4A)-(4C) 17.1.2019 2019/186 rr. 5(1), (1A), 10(6)-(7), 41(1A), (2)-(3), 41A(1), 41B(1A), 62(1A), Sch. 3
 
-16.9.2019 2022/005 rr. 43(1), (d), (1A), (2), (5), 44(1), 47 13.1.2022 2022/021 Sch. 3 27.1.2022 2022/167 r. 19(1)-(2), Sch.3 30.6.2022 2023/011 r. 2 26.1.2023 2023/080 rr. 2, 3(14)-(15) 30.3.2023 2024/037 r. 31(1) 1.4.2024 2024/202 Sch.3 31.10.2024
+16.9.2019 2022/005 rr. 43(1), (d), (1A), (2), (5), 44(1), 47 13.1.2022 2022/021 Sch. 3 27.1.2022 2022/167 r. 19(1)-(2), Sch.3 30.6.2022 2023/011 r. 2 26.1.2023 2023/080 rr. 2, 3(14)-(15) 30.3.2023 2024/037 r. 31(1) 1.4.2024 2024/202 Sch.3 31.10.2024 2025/081 rr. 2, 3(14)-(15), 7A, 18(2), 23(1), (2)(a), 26(1)-(2), 27(3), 28, 28A-28B, 29(1), Sch.3
+
+10.4.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -30,7 +30,7 @@ PART II GENERAL PROVISIONS RELATING TO PARKING
 
 Establishment of Parking Schemes
 
-7. Distinct Parking zones. 8. Parking Schemes.
+7. Distinct Parking zones. 7A. Prohibitions in cycle lanes. 8. Parking Schemes.
 
 Content of Parking Schemes
 
@@ -42,9 +42,9 @@ Car Parks
 
 Parking Fees – Pay and Display
 
-16.  Designation of Pay and Display Zone. 17.  Demarcation of Pay and Display Zone.
+16.  Designation of Pay and Display Zone.
 
-18.   Parking fee. 19.   Display of ticket. 20.   Unauthorised removal of ticket. 21.   Times during which parking fee payable. 22.   Maximum parking period. 23.  Offences and Penalties.
+17.  Demarcation of Pay and Display Zone. 18.   Parking fee. 19.   Display of ticket. 20.   Unauthorised removal of ticket. 21.   Times during which parking fee payable. 22.   Maximum parking period. 23.  Offences and Penalties.
 
 No Waiting
 
@@ -52,7 +52,7 @@ No Waiting
 
 Red Zones
 
-26.  Designation of Red Zones. 27.  Parking and Stopping in Red Zones. 28.   Traffic signs. 29.  Power to move vehicle. 30.   No liability for damage.
+26.  Designation of Red Zones. 27.  Parking and Stopping in Red Zones. 28.   Deleted. 28A. Red Route Clearways. 28B. Parking and Stopping in Red Route Clearways. 29.  Power to move vehicle. 30.   No liability for damage.
 
 Disabled Persons Badges
 
@@ -64,9 +64,9 @@ Issue, duration and revocation of badges
 
 Form and display of badges and parking clocks
 
-39.   Form of badge. 40.  Manner in which a badge is to be displayed. 40A. Manner in which a parking clock is to be displayed. 41.  Display of a badge when a vehicle is parked or waiting.
+39.   Form of badge.
 
-41A. Display of a parking clock when a vehicle is parked in a time restricted disabled parking bay or residential parking place. 41B. Time restrictions. 41C. Return restrictions. 42.  Deleted.
+40.  Manner in which a badge is to be displayed. 40A. Manner in which a parking clock is to be displayed. 41.  Display of a badge when a vehicle is parked or waiting. 41A. Display of a parking clock when a vehicle is parked in a time restricted disabled parking bay or residential parking place. 41B. Time restrictions. 41C. Return restrictions. 42.  Deleted.
 
 PART III REMOVAL OF VEHICLES
 

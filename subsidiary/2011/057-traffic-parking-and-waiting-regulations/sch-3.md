@@ -92,9 +92,7 @@ Issue of “Zone 2 Residents’ Parking Permit” (fee)
 
 3. Subject to paragraph 4 in this entry, provided that an applicant meets the requirements for a parking permit, Disabled Persons Badge holders will be eligible for the “First permit per household” to be free of charge.
 
-4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name.
-
-Issue of “Zone 2 Residents’ Parking Permit” for a person 60 years of age or over (fee)
+4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name. Issue of “Zone 2 Residents’ Parking Permit” for a person 60 years of age or over (fee)
 
 (a) First permit per household for a person 60 years of age or over
 
@@ -160,9 +158,7 @@ the cost of the first permit will be charged at the “Second permit per househo
 
 (b) 6/8 Scud Hill Residents’ parking permit; and
 
-(c) Belvedere, Electra Flats and No.24 Scud Hill Residents’ Parking Permit.
-
-Issue of “Zone 3 Residents’ Parking Permit” for a person 60 years of age or over (fee)
+(c) Belvedere, Electra Flats and No.24 Scud Hill Residents’ Parking Permit. Issue of “Zone 3 Residents’ Parking Permit” for a person 60 years of age or over (fee)
 
 (a) First permit per household for a person 60 years of age or over
 
@@ -224,9 +220,7 @@ the cost of the first permit will be charged at the “Second permit per househo
 
 £560 per annum
 
-4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name.
-
-Issue of “Zone 4 Residents’ Parking Permit” for a person 60 years of age or over (fee)
+4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name. Issue of “Zone 4 Residents’ Parking Permit” for a person 60 years of age or over (fee)
 
 (a) First permit per household for a person 60 years of age or over
 
@@ -270,6 +264,4 @@ Issue of All Zones Residential Parking Permit for Commercial Vehicles (fee)
 
 £280 per annum
 
-£560 per annum Issue of Heavy Goods Vehicle Parking Permit (Fee) £1800 per annum Parking in a Pay and Display car park without having paid the correct fee or without displaying the ticket as required by regulations (fee) £50
-
-Release of a vehicle that has been immobilised or removed (fee) £60 Daily fee for detention of immobilised or removed vehicle £15
+£560 per annum Issue of Heavy Goods Vehicle Parking Permit (Fee) £1800 per annum Release of a vehicle that has been immobilised or removed (fee) £80 Daily fee for detention of immobilised or removed vehicle £15
