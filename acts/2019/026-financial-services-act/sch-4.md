@@ -138,7 +138,7 @@ Common seal.
 
 9.(1)  The GFSC is to have a common seal which is to be officially and judicially noted.
 
-(2)  The seal may only be affixed to an instrument in the presence of the Chair and one other GFSC member and–
+(2)  The seal may only be affixed to an instrument in the presence of the Chair or Chief Executive and one other GFSC member and–
 
 (a) the instrument must be signed by the persons so present as witnesses to the sealing; and
 
