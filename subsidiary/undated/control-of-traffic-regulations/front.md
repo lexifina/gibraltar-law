@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/090 S
 
 2023/011 rr. 2, 3(3), 3A, 4, 5(2), 6(3), 7, 9(2), 10, 15(3), 19A, 37(1A), (2)-(3), 38, 39(3)-(4), 42, 45(2), 46(b), 47, 47B-47D, 49-52, 53A(1)
 
-26.1.2023 2023/078 rr. 2, 42A-42C 30.3.2023
+26.1.2023 2023/078 rr. 2, 42A-42C 30.3.2023 2025/081 rr. 2, 42A-42D 10.4.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -20,23 +20,21 @@ Preliminary
 
 1. Title. 2. Interpretation.
 
-General Rules of the Road
+PART 1 General Rules of the Road.
 
-3. Overtaking. 3A. Overtaking of bicycles, etc. 4. Roundabouts. 5. Turning left or right. 6. Giving way. 7. Slow traffic. 8. Unattended vehicles. 9. Driving or riding on the footpath. 9A. Tunnels 10. Driver to have proper control. 11. Maintenance of vehicle and conditions of loading so as not to be a danger. 12. Riding in a dangerous position. 13. Passengers on goods vehicles. 14. Restriction on reversing. 15. Signalling change of direction. 16. Direction indicators and brake lights. 17. Obstructing roads. 18. Obstructing entrances. 19. Vehicles excluded from City. 19A. Bomb House Lane restriction. 20. Restrictions on lamps. 21. Sound warnings. 22. Avoidable excessive noise. 23. Use and maintenance of silencer. 24. Stopping of engine when stationary. 25. Refuelling. 26. Repairing vehicles on roads. 27. Length of tow rope. 28. Trailers not to be drawn by public service vehicles. 29. Number of trailers permitted. 30. Trailer couplings.
+3. Overtaking. 3A. Overtaking of bicycles, etc. 4. Roundabouts. 5. Turning left or right. 6. Giving way. 7. Slow traffic. 8. Unattended vehicles. 9. Driving or riding on the footpath. 9A. Tunnels 10. Driver to have proper control. 11. Maintenance of vehicle and conditions of loading so as not to be a danger. 12. Riding in a dangerous position. 13. Passengers on goods vehicles. 14. Restriction on reversing. 15. Signalling change of direction. 16. Direction indicators and brake lights. 17. Obstructing roads. 18. Obstructing entrances. 19. Vehicles excluded from City. 19A. Bomb House Lane restriction. 20. Restrictions on lamps. 21. Sound warnings. 22. Avoidable excessive noise. 23. Use and maintenance of silencer. 24. Stopping of engine when stationary. 25. Refuelling. 26. Repairing vehicles on roads. 27. Length of tow rope. 28. Trailers not to be drawn by public service vehicles. 29. Number of trailers permitted.
 
-31. Trailers on motor cycles. 31A. Loads longer or wider than the vehicle. 32. Wearing of protective headgear. 33. Footrests for passengers on motor cycles. 33A. Control of motorcycle.
+30. Trailer couplings. 31. Trailers on motor cycles. 31A. Loads longer or wider than the vehicle. 32. Wearing of protective headgear. 33. Footrests for passengers on motor cycles. 33A. Control of motorcycle. 34 to 36. Revoked.
 
-34 to 36. Revoked.
-
-Bicycles and personal light electric transporters.
+PART 2 Bicycles and personal light electric transporters.
 
 37. Number of persons on a bicycle or a personal light electric transporter. 38. Control of bicycle or personal light electric transporter. 39. Bell and other warning equipment. 40. Horns, etc., prohibited. 41. Riding abreast. 42. Offences.
 
-Cycle lanes
+PART 3 Cycle lanes.
 
-42A. Cycle lanes. 42B. Motor Vehicles in Cycle lanes. 42C. Contraflow cycle lanes.
+42A. Interpretation. 42B. Cycle lanes. 42C. Motor Vehicles in Cycle lanes. 42D. Contraflow cycle lanes.
 
-Speed Limits.
+PART 4 Speed Limits.
 
 43. General speed limits. 44. Special speed limits.
 
@@ -46,9 +44,7 @@ One-way Streets
 
 Pedestrian Crossings
 
-48. Indication of crossings. 49. Precedence of foot passengers.
-
-50. Prohibition of stopping within limits of a crossing. 51. When stopping not allowed. 52. When stopping permissible. 53. Prohibition of foot-passengers remaining on crossing longer than necessary.
+48. Indication of crossings. 49. Precedence of foot passengers. 50. Prohibition of stopping within limits of a crossing. 51. When stopping not allowed. 52. When stopping permissible. 53. Prohibition of foot-passengers remaining on crossing longer than necessary.
 
 No Stopping within a Clearway
 
