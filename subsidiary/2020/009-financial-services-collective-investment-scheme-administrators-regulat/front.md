@@ -6,9 +6,7 @@ LN.2020/009
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date
-
-LN.2020/485 rr. 2(1), 25, 35, 38(1)-(3), 39, 42, Sch. 1.1.2021 2022/188 Sch. 1.1.2021 2022/153 rr. 2(1), 54, 64(2) 23.6.2022
+Amending enactments Relevant current provisions Commencement date LN.2020/485 rr. 2(1), 25, 35, 38(1)-(3), 39, 42, Sch. 1.1.2021 2022/188 Sch. 1.1.2021 2022/153 rr. 2(1), 54, 64(2) 23.6.2022 2025/077 r. 61(6) 10.4.2025
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -32,9 +30,7 @@ Advertising and marketing
 
 Customer relations
 
-15. Service agreements. 16. Where written service agreement required. 17. Customer’s rights. 18. Suitability.
-
-19. Charges.
+15. Service agreements. 16. Where written service agreement required. 17. Customer’s rights. 18. Suitability. 19. Charges.
 
 Administration 20. Complaints. 21. Compliance. 22. Supervision. 23. Cessation of business.
 
@@ -52,7 +48,9 @@ PART 5 PRUDENTIAL REQUIREMENTS
 
 Financial statements
 
-43. Duty to prepare financial statements. 44. Balance sheet to give true and fair view. 45. Profit and loss account to give true and fair view. 46. Form and content of financial statements. 47. Annual financial statements to be submitted to meeting of partners, etc. 48. Annual financial statements must be submitted to the GFSC. 49. Administrator must obtain auditor’s report, etc. 50. Contents of auditor’s report. 51. Qualified reports.
+43. Duty to prepare financial statements. 44. Balance sheet to give true and fair view.
+
+45. Profit and loss account to give true and fair view. 46. Form and content of financial statements. 47. Annual financial statements to be submitted to meeting of partners, etc. 48. Annual financial statements must be submitted to the GFSC. 49. Administrator must obtain auditor’s report, etc. 50. Contents of auditor’s report. 51. Qualified reports.
 
 Financial resources
 
@@ -76,7 +74,9 @@ Chapter 1 Investigatory and supervisory powers
 
 Chapter 2 Sanctions
 
-62. Sanctioning powers. 63. Contravention of regulatory requirements: additional categories. 64. Maximum amounts of administrative penalty.
+62. Sanctioning powers. 63. Contravention of regulatory requirements: additional categories.
+
+64. Maximum amounts of administrative penalty.
 
 PART 8 MISCELLANEOUS
 

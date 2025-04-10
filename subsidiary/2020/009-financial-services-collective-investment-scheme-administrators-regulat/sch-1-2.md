@@ -98,9 +98,7 @@ ____ ____ ____ ____ ____ ____ ____
 
 (iv) Futures, options, contracts for differences
 
-- Futures
-
-- Purchased options - Written options - Contracts for differences
+- Futures - Purchased options - Written options - Contracts for differences
 
 (v) Shares in group companies
 
