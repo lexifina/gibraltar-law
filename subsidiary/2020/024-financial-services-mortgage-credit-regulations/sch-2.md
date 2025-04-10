@@ -136,13 +136,13 @@ Your income may change. Please consider whether you will still be able to afford
 
 (Where applicable) The exchange rate used for converting your repayment in [credit currency] to sterling will be the rate published by [name of institution publishing exchange rate] on [date] or will be calculated on [date] using [insert name of benchmark or method of calculation].
 
-(Where applicable) [Details on tied savings products, deferred-interest loans] 7. (Where applicable) Illustrative repayment table
-
-This table shows the amount to be paid every [frequency].
+(Where applicable) [Details on tied savings products, deferred-interest loans] 7. (Where applicable) Illustrative repayment table This table shows the amount to be paid every [frequency].
 
 The instalments (column [relevant no.]) are the sum of interest to be paid (column [relevant no.]), where applicable, capital paid (column [relevant no.]) and, where applicable, other costs (column [relevant no.]). (Where applicable) The costs in the other costs column relate to [list of costs]. Outstanding capital (column [relevant no.]) is the amount of the loan that remains to be reimbursed (repaid) after each instalment.
 
-[Table] 8. Additional obligations The borrower must comply with the following obligations in order to benefit from the lending conditions described in this document.
+[Table]
+
+8. Additional obligations The borrower must comply with the following obligations in order to benefit from the lending conditions described in this document.
 
 [Obligations]
 
@@ -154,13 +154,13 @@ The instalments (column [relevant no.]) are the sum of interest to be paid (colu
 
 (Where applicable) [Conditions] (Where applicable) Exit charge (Early repayment charge): [insert amount or, where not possible, the method of calculation]
 
-(Where applicable) Should you decide to repay this loan early, please contact us to ascertain the exact level of the exit charge (early repayment charge) at that moment. 10. Flexible features
-
-(Where applicable) [Information on portability/subrogation] You have the possibility to (the right to) transfer this loan to another [lender][or] [property]. [Insert conditions]
+(Where applicable) Should you decide to repay this loan early, please contact us to ascertain the exact level of the exit charge (early repayment charge) at that moment. 10. Flexible features (Where applicable) [Information on portability/subrogation] You have the possibility to (the right to) transfer this loan to another [lender][or] [property]. [Insert conditions]
 
 (Where applicable) You do not have the possibility to (the right to) transfer this loan to another [lender] [or] [property].
 
-(Where applicable) Additional features: [insert explanation of additional features listed in Part 2 and, optionally, any other features offered by the lender as part of the mortgage credit agreement not referred to in previous sections]. 11. Other rights of the borrower You have [length of reflection period] after [point in time when the reflection period begins] to reflect before committing yourself to taking out this loan. 12. Complaints If you have a complaint please contact [insert internal contact point and source of information on procedure].
+(Where applicable) Additional features: [insert explanation of additional features listed in Part 2 and, optionally, any other features offered by the lender as part of the mortgage credit agreement not referred to in previous sections]. 11. Other rights of the borrower You have [length of reflection period] after [point in time when the reflection period begins] to reflect before committing yourself to taking out this loan.
+
+12. Complaints If you have a complaint please contact [insert internal contact point and source of information on procedure].
 
 (Where applicable) Maximum time for handling the complaint [period of time]
 
@@ -170,9 +170,7 @@ The instalments (column [relevant no.]) are the sum of interest to be paid (colu
 
 Should you encounter difficulties in making your [frequency] payments, please contact us straight away to explore possible solutions.
 
-(Where applicable) As a last resort, your home may be repossessed if you do not keep up with payments. (Where applicable) 14. Additional information
-
-(Where applicable) [Indication of the law applicable to the credit contract].
+(Where applicable) As a last resort, your home may be repossessed if you do not keep up with payments. (Where applicable) 14. Additional information (Where applicable) [Indication of the law applicable to the credit contract].
 
 (Where the lender intends to use a language different from the language of the ESIS) Information and contractual terms will be supplied in [language]. With your consent, we intend to communicate in [language/s] during the duration of the mortgage credit agreement.
 
@@ -296,19 +294,21 @@ In the event of a scenario in column (1) in the table immediately below, the mor
 
 NB: A mortgage creditor’s standard variable rate is not to be used as an external reference rate (ERR)
 
-Mortgage with an interest-rate cap Calculate the APRC based on the borrowing rate rising at the earliest possible opportunity to the level of the cap. Where the product is not linked to an ERR Use the benchmark rate. Mortgage creditor uses an ERR and has 20 years of data relating to the margin applied by the mortgage creditor Use the highest ERR in the previous 20 years, and apply the highest margin over that or lowest margin under it, to produce the highest additional APRC.
+Mortgage with an interest-rate cap Calculate the APRC based on the borrowing rate rising at the earliest possible opportunity to the level of the cap. Where the product is not linked to an ERR
 
-Mortgage creditor uses an ERR and has less than 20 years of data relating to the margin applied by the mortgage creditor Use the highest ERR in the previous 20 years, and apply the highest margin over that or lowest margin under it, used in the period of data available, to produce the highest additional APRC. Mortgage creditor comprises a group which contains separate legal entities or comprises distinct product brands and has 20 years of data relating to the margin applied by that legal entity or product brand. It may have similar products across entities or brands within the same group or company with different margins above or below the ERR Use the highest ERR in the previous 20 years with respect to the pricing approach for the specific legal entity or product brand and apply the highest margin over that or lowest margin under it to produce the highest additional APRC. Mortgage creditor comprises a group which contains separate legal entities or comprises distinct product brands and has less than 20 years of data relating to the margin applied by that legal entity or product brand. It may have similar products across entities or brands within the same group or company with Use the highest ERR in the previous 20 years with respect to the pricing approach for the specific legal entity or product brand and apply the highest margin over that or lowest margin under it used in the period of data available to produce the highest additional APRC.
+Use the benchmark rate. Mortgage creditor uses an ERR and has 20 years of data relating to the margin applied by the mortgage creditor Use the highest ERR in the previous 20 years, and apply the highest margin over that or lowest margin under it, to produce the highest additional APRC.
 
-different margins above or below the ERR.
+Mortgage creditor uses an ERR and has less than 20 years of data relating to the margin applied by the mortgage creditor Use the highest ERR in the previous 20 years, and apply the highest margin over that or lowest margin under it, used in the period of data available, to produce the highest additional APRC.
 
-Mortgage creditor has previously purchased a brand that uses an ERR and has 20 years of data relating to the margin applied by the mortgage creditor for the same product
+Mortgage creditor comprises a group which contains separate legal entities or comprises distinct product brands and has 20 years of data relating to the margin applied by that legal entity or product brand. It may have similar products across entities or brands within the same group or company with different margins above or below the ERR Use the highest ERR in the previous 20 years with respect to the pricing approach for the specific legal entity or product brand and apply the highest margin over that or lowest margin under it to produce the highest additional APRC. Mortgage creditor comprises a group which contains separate legal entities or comprises distinct product brands and has less than 20 years of data relating to the margin applied by that legal entity or product brand. It may have similar products across entities or brands within the same group or company with different margins above or below the ERR.
 
-Where the purchaser is carrying on new lending under the purchased brand - same as above, using previous mortgage creditor’s data where relevant and where it may be reasonably obtained. Mortgage creditor has previously purchased a brand that uses an ERR and has less than 20 years of data relating to the margin applied by the mortgage creditor for the same product
+Use the highest ERR in the previous 20 years with respect to the pricing approach for the specific legal entity or product brand and apply the highest margin over that or lowest margin under it used in the period of data available to produce the highest additional APRC. Mortgage creditor has previously purchased a brand that uses an ERR and has 20 years of data relating to the margin applied by the mortgage creditor for the same product Where the purchaser is carrying on new lending under the purchased brand - same as above, using previous mortgage creditor’s data where relevant and where it may be reasonably obtained. Mortgage creditor has previously purchased a brand that uses an ERR and has less than 20 years of data relating to the margin applied by the mortgage creditor for the same product
 
 Where the purchaser is carrying on new lending under the purchased brand - same as above, using previous mortgage creditor’s data, where relevant and where it may be reasonably obtained. Otherwise, use the benchmark rate. Mortgage creditor has different ERR calculation methods that apply over time (e.g., 0.5% over Bank of England rate for the first two years and then 2% over Bank of England rate for the rest of the mortgage lifetime).
 
-Calculate using the method which produces the highest additional APRC. Mortgage creditor has different methods that apply to different proportions of the principal (e.g., ERR + x% applies to 50% principal and SVR applies to the other 50%)
+Calculate using the method which produces the highest additional APRC.
+
+Mortgage creditor has different methods that apply to different proportions of the principal (e.g., ERR + x% applies to 50% principal and SVR applies to the other 50%)
 
 Calculate using the ERR where applicable and the benchmark rate, where applicable, and use both to calculate the additional APRC. Mortgage creditor uses an ERR where its basis has changed in the past 20 years Consider whether there was an equivalent predecessor ERR and use the ERR (and its equivalent predecessor(s), if any) provided that it (or they) have existed at least 20 years, otherwise use the benchmark rate.
 

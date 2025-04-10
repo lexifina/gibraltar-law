@@ -66,7 +66,9 @@ II. Additional assumptions for the calculation of the APRC.
 
 (ii) if the interval between the date of initial drawdown and the date of the first payment to be made by the consumer cannot be ascertained, it shall be assumed to be the shortest interval.
 
-(h) Where the date or amount of a payment to be made by the consumer cannot be ascertained on the basis of the credit agreement or the assumptions set out in points (g), (i), (j), (k), (l) and (m) it shall be assumed that the payment is made in accordance with the dates and conditions required by the creditor and, when these are unknown–
+(h) Where the date or amount of a payment to be made by the consumer cannot be ascertained on the basis of the credit agreement or the assumptions set out in points
+
+(g), (i), (j), (k), (l) and (m) it shall be assumed that the payment is made in accordance with the dates and conditions required by the creditor and, when these are unknown–
 
 (i) interest charges are paid together with the repayments of the capital;
 

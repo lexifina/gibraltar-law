@@ -12,9 +12,7 @@ B. CURRENT ASSETS
 
 I. Physical stocks
 
-II. Debtors (1) 1. Trade debtors (2) 2. Other debtors 3. Amounts due from connected and group companies
-
-4. Prepayments and accrued income
+II. Debtors (1) 1. Trade debtors (2) 2. Other debtors 3. Amounts due from connected and group companies 4. Prepayments and accrued income
 
 III. Investments (long positions)(3)
 
@@ -102,9 +100,7 @@ Units in authorised and recognised unit trust schemes Other
 
 (iv) Futures, options, contracts for differences
 
-Futures Purchased options
-
-Written options Contracts for differences
+Futures Purchased options Written options Contracts for differences
 
 (v) Shares in group companies
 
