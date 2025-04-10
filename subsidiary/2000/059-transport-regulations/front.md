@@ -6,9 +6,7 @@ LN.2000/059
 
 Commencement 22.9.2000
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1), (3), 118(1)(c), (3), 124A(1)-(9)
+Amending enactments Relevant current provisions Commencement date LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1), (3), 118(1)(c), (3), 124A(1)-(9)
 
 22.9.2000 2000/082 Sch.1 26.10.2000 2000/090 r. 118(1)(d) 30.11.2000 2003/066 rr. 38-40, 64A, 116(1), 117(1), 124A, Sch.1 29.5.2003 2005/049 r. 3(3), Sch.5 1.4.2005 2005/065 rr. 117A – 117K, Schs.1, 5 7.4.2005 2005/162 r. 117E(c)-(d) 8.12.2005 2010/017 Sch.5 21.1.2010 2010/018 Sch.5 21.1.2010 2011/004 rr. 71(1), 117E(e), 117F(e) 20.1.2011 2011/018 r. 64A(a), (e)-(g) 24.2.2011 2012/152 r. 117E(b) 1.11.2012 2016/066 rr. 12(3), 37(2), 64(1), (1A), (2)-(3), (3A), (4)-(5), 64A, 66, 67(1), (3), (3A), 71(1), 71A, 124, 126-132, Schs.3, 6
 
@@ -17,6 +15,8 @@ LN. 2000/073 rr. 45(1), 64(1), 67(2), 77(2), 91(1),117(1), (3), 118(1)(c), (3), 
 23.12.20241
 
 1 Notice of Commencement (LN.2024/233)
+
+2025/078 rr. 67(4A), (5)(b), (7)-(8), 99(3), 99A, Sch.3 10.4.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -42,9 +42,9 @@ PART III CERTIFICATE OF FITNESS
 
 REGULAR EXAMINATION
 
-13. Meaning of “examination” 14. Applications for first and subsequent examinations 15. Notice of appointment 16. Documents to be produced 17. Other conditions 18. Right to refuse examination
+13. Meaning of “examination” 14. Applications for first and subsequent examinations 15. Notice of appointment 16. Documents to be produced 17. Other conditions 18. Right to refuse examination 19. Duty of owner
 
-19. Duty of owner 20. Issue of certificate of fitness 21. Issue of notice of refusal 22. Forms of certificates of fitness and notices of refusal
+20. Issue of certificate of fitness 21. Issue of notice of refusal 22. Forms of certificates of fitness and notices of refusal
 
 RE-EXAMINATION AFTER REFUSAL OF CERTIFICATE OF FITNESS
 
@@ -62,9 +62,9 @@ PART IV SAFETY OF PUBLIC SERVICE VEHICLES
 
 PROVISIONS APPLICABLE TO ALL PUBLIC SERVICE VEHICLES
 
-37. Construction and age 38. revoked 39. revoked 40. revoked 41. Fire extinguishers 42. Luggage carrier 43. Cleanliness 44. Number of passengers 45. Obstruction of drivers
+37. Construction and age 38. revoked 39. revoked 40. revoked 41. Fire extinguishers 42. Luggage carrier 43. Cleanliness 44. Number of passengers 45. Obstruction of drivers 46. Refuelling
 
-46. Refuelling 47. Carriage of explosives 48. Ventilation.
+47. Carriage of explosives 48. Ventilation.
 
 PROVISIONS APPLICABLE TO BUSES
 
@@ -74,9 +74,9 @@ PART V REGULATIONS OF PASSENGER TRANSPORT VEHICLES
 
 TAXIS
 
-64. Distinguishing marks 64A. Advertising on taxis 65. Use of concessioned taxis 66. Plying or standing for hire and prohibition on touting. 67. Availability of taxis 68. Refusing or neglecting to be hired 69. Only fare paying passenger or licensed guide to sit along-side driver 70. No unreasonable stopping 71. Notice to be displayed 71A.  Plate to be affixed. 72. Passenger refusing to pay fare 73. Passenger damaging taxi 74. Taxis to be fitted with taximeters 75. Use of taximeters
+64. Distinguishing marks 64A. Advertising on taxis 65. Use of concessioned taxis 66. Plying or standing for hire and prohibition on touting. 67. Availability of taxis 68. Refusing or neglecting to be hired 69. Only fare paying passenger or licensed guide to sit along-side driver 70. No unreasonable stopping 71. Notice to be displayed 71A.  Plate to be affixed. 72. Passenger refusing to pay fare 73. Passenger damaging taxi 74. Taxis to be fitted with taximeters 75. Use of taximeters 76. Taximeters not to be tampered with
 
-76. Taximeters not to be tampered with 77. Fares for hire by distance and time 78. Maximum fares
+77. Fares for hire by distance and time 78. Maximum fares
 
 ROUTE BUSES
 
@@ -92,7 +92,7 @@ CHAUFFEUR-DRIVEN CARS
 
 PRIVATE HIRING VEHICLES
 
-97. Use of concessioned vehicles 98. Regulations 68 to 73 and 78 shall apply to private hiring vehicles….. 99. Hire of private hiring vehicles
+97. Use of concessioned vehicles 98. Regulations 68 to 73 and 78 shall apply to private hiring vehicles….. 99. Hire of private hiring vehicles 99A. Airport Service Requirements.
 
 COURTESY VEHICLES
 

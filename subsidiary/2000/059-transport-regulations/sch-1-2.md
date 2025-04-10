@@ -102,9 +102,7 @@ Model Number
 
 Chassis Number
 
-Date of Manufacture
-
-Registration number (if any)
+Date of Manufacture Registration number (if any)
 
 Date.....................................
 
@@ -160,9 +158,7 @@ Model Number
 
 Chassis Number
 
-Date of Manufacture
-
-Registration number (if any)
+Date of Manufacture Registration number (if any)
 
 Date.............................................................
 
