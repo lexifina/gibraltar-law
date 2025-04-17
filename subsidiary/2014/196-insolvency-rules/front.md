@@ -8,7 +8,7 @@ Commencement 1.11.2014
 
 Amending enactments Relevant current provisions Commencement date
 
-LN. 2020/092 Sch. 27.2.2020
+LN. 2020/092 Sch. 27.2.2020 2025/091 r. 320(3)-(4) 17.4.2025
 
 ARRANGEMENT OF RULES
 
@@ -36,9 +36,7 @@ Reports to Creditors
 
 Creditors’ Meeting
 
-15. General provisions to apply. 16. Chairman of creditors’ meeting. 17. Entitlement to vote and admission and rejection of claims.
-
-18. Requisite majorities at creditors’ meeting.
+15. General provisions to apply. 16. Chairman of creditors’ meeting. 17. Entitlement to vote and admission and rejection of claims. 18. Requisite majorities at creditors’ meeting.
 
 Other Matters
 
@@ -62,7 +60,9 @@ Appointment of Administrator by Court
 
 Proposal and Statement of Affairs.
 
-40. Proposal. 41. Matters to be set out in report on proposals. 42. Other matters concerning proposal. 43. Advertisement of availability of proposal for members. 44. Order for limited disclosure. 45. Statement of affairs.
+40. Proposal. 41. Matters to be set out in report on proposals.
+
+42. Other matters concerning proposal. 43. Advertisement of availability of proposal for members. 44. Order for limited disclosure. 45. Statement of affairs.
 
 Conduct of Administration
 
@@ -106,9 +106,9 @@ PART 6 LIQUIDATION Preliminary
 
 Appointment of Liquidator
 
-80. Appointment of liquidator by members. 81. Application to Court for appointment of liquidator. 82. Affidavit in support. 83. Service of application on company.
+80. Appointment of liquidator by members. 81. Application to Court for appointment of liquidator. 82. Affidavit in support. 83. Service of application on company. 84. Copies of application to be sent to other persons. 85. Application seeking appointment of supervisor as liquidator. 86. Persons entitled to a copy of the application. 87. Advertisement of application.
 
-84. Copies of application to be sent to other persons. 85. Application seeking appointment of supervisor as liquidator. 86. Persons entitled to a copy of the application. 87. Advertisement of application. 88. Notice of intention to appear. 89. List of appearances. 90. Affidavit in opposition. 91. Leave to withdraw application. 92. Appointment of Official Receiver as liquidator. 93. Notice of order. 94. Application by member of company.
+88. Notice of intention to appear. 89. List of appearances. 90. Affidavit in opposition. 91. Leave to withdraw application. 92. Appointment of Official Receiver as liquidator. 93. Notice of order. 94. Application by member of company.
 
 Interim Relief
 
@@ -128,9 +128,7 @@ Settling List of Members
 
 Claims
 
-110. Claims by unsecured creditors.
-
-111. Claim forms. 112. Application to Court expunge or amend an admitted claim. 113. Negotiable instruments. 114. Inspection of claims.
+110. Claims by unsecured creditors. 111. Claim forms. 112. Application to Court expunge or amend an admitted claim. 113. Negotiable instruments. 114. Inspection of claims.
 
 Distributions
 
@@ -150,9 +148,9 @@ PART 7 LIQUIDATION OF UNREGISTERED COMPANIES
 
 PART 8 GENERAL PROVISIONS WITH REGARD TO COMPANIES THAT ARE INSOLVENT OR IN LIQUIDATION Statement of Affairs
 
-130. Interpretation. 131. Notice requiring statement of affairs. 132. Matters to be included in statement of affairs. 133. Verification and delivery of statement of affairs.
+130. Interpretation. 131. Notice requiring statement of affairs. 132. Matters to be included in statement of affairs. 133. Verification and delivery of statement of affairs. 134. Affidavit of concurrence. 135. Filing of statement of affairs and affidavit of concurrence. 136. Release from duty to submit statement of affairs and extension of time. 137. Application to Court where office holder refuses a request under rule 136. 138. Expenses of statement of affairs. 139. Order of limited disclosure.
 
-134. Affidavit of concurrence. 135. Filing of statement of affairs and affidavit of concurrence. 136. Release from duty to submit statement of affairs and extension of time. 137. Application to Court where office holder refuses a request under rule 136. 138. Expenses of statement of affairs. 139. Order of limited disclosure. 140. Application by creditor for disclosure.
+140. Application by creditor for disclosure.
 
 INVESTIGATION OF INSOLVENT COMPANY’S AFFAIRS Office Holders Powers
 
@@ -200,9 +198,9 @@ PART 11 BANKRUPTCY Preliminary
 
 Bankruptcy Order Creditor’s Application
 
-170. Scope of and interpretation for rules 170 to 195. 171. Form of creditor’s application. 172. Identification of debtor. 173. Particulars of liability. 174. Application based on statutory demand.
+170. Scope of and interpretation for rules 170 to 195. 171. Form of creditor’s application. 172. Identification of debtor. 173. Particulars of liability. 174. Application based on statutory demand. 175. Application based on unsatisfied execution. 176. Other matters to be specified in application. 177. Filing of application. 178. Affidavit in support. 179. Affidavit of service of statutory demand. 180. Service of application for bankruptcy order. 181. Substituted service. 182. Death of debtor before service.
 
-175. Application based on unsatisfied execution. 176. Other matters to be specified in application. 177. Filing of application. 178. Affidavit in support. 179. Affidavit of service of statutory demand. 180. Service of application for bankruptcy order. 181. Substituted service. 182. Death of debtor before service. 183. Affidavit of service of application for bankruptcy order. 184. Copies of application to be sent to other persons. 185. Application seeking appointment of supervisor as trustee. 186. Application opposed by debtor. 187. Notice of intention to appear. 188. List of appearances. 189. Hearing of application. 190. Parties who may be heard. 191. Non-appearance of applicant or failure to prosecute application. 192. Extension of time for hearing. 193. Adjournments. 194. Substitution of applicant. 195. Leave to withdraw application.
+183. Affidavit of service of application for bankruptcy order. 184. Copies of application to be sent to other persons. 185. Application seeking appointment of supervisor as trustee. 186. Application opposed by debtor. 187. Notice of intention to appear. 188. List of appearances. 189. Hearing of application. 190. Parties who may be heard. 191. Non-appearance of applicant or failure to prosecute application. 192. Extension of time for hearing. 193. Adjournments. 194. Substitution of applicant. 195. Leave to withdraw application.
 
 Debtor’s Application
 
@@ -214,9 +212,7 @@ Rules Applicable to Bankruptcy Orders
 
 INTERIM RECEIVER
 
-206. Application for appointment of interim receiver. 207. Hearing of application.
-
-208. Order appointing interim receiver.
+206. Application for appointment of interim receiver. 207. Hearing of application. 208. Order appointing interim receiver.
 
 BANKRUPT’S ESTATE
 
@@ -278,7 +274,9 @@ Voting Rights and Majorities
 
 286. Entitlement to vote. 287. Resolutions and requisite majorities. 288. Secured creditors and holders of negotiable instruments. 289. Hire purchase, conditional sale and chattel leasing agreements. 290. Admission and rejection of claims. 291. Appeals. 292. Minutes. 293. Members meetings.
 
-PROXIES AND COMPANY REPRESENTATION Preliminary
+PROXIES AND COMPANY REPRESENTATION
+
+Preliminary
 
 294. Interpretation.
 
