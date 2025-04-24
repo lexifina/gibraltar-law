@@ -6,7 +6,7 @@ LN.2009/032
 
 Commencement 1.7.2009
 
-Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022 2022/332 Sch. 15.12.2022 2024/059 Sch. 18.4.2024
+Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022 2022/332 Sch. 15.12.2022 2024/059 Sch. 18.4.2024 2025/093 r. 2(3) 24.4.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -27,6 +27,8 @@ Fees, Charges and Taxes.
 2.(1)  The fees, charges and taxes shown in the Schedule shall be charged and payable in respect of the service shown.
 
 (2)  The Maritime Administrator may refuse to provide any service to a registered agent from whom any fees payable are outstanding or to a ship in respect of which any fees payable are outstanding.
+
+(3)  The Minister may in their absolute discretion waive or reduce any fee, charge or tax set out in the Schedule if such a waiver or reduction would be in the economic interests of, or promote the development of maritime services in, Gibraltar.
 
 Revocations.
 
