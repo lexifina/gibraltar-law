@@ -18,35 +18,35 @@ Vitriol. SCHEDULE 4 Rule 171
 
 1.  Tonnage dues.
 
-(a) Subject to sub-paragraphs (b), (c) and (d) below, the following tonnage dues shall be payable by all vessels except passenger vessels, arriving at, touching at, or having communication with Gibraltar, or the anchorage, port or harbour thereof in respect of each period of forty eight hours or part thereof that a vessel remains at Gibraltar
+(a) Subject to subparagraphs (b), (bb), (c) and (d), the following tonnage dues shall be payable by all vessels except passenger vessels, arriving at, touching at, or having communication with Gibraltar, or the anchorage, port or harbour thereof in respect of each period of forty eight hours or part thereof that a vessel remains at Gibraltar–
 
 GRT
 
-£ Vessels up to 1,000 GRT 52.00 Vessels 1,001 GRT and up to 5,000 101.00 Vessels 5,001 GRT and up to 10,000 210.00 Vessels 10,001 GRT and up to 15,000 278.00 Vessels 15,001 GRT and up to 30,000 528.00 Vessels 30,001 GRT and up to 50,000 963.00 Vessels 50,001 GRT and up to 70,000 1,758.00 Vessels 70,001 GRT and up to 100,000 2,275.00 Vessels 100,001 GRT and up to 150,000 2,500.00 Vessels greater than 150,001 GRT 3,000.00
+£ Vessels up to 1,000 GRT 46.20 Vessels 1,001 GRT and up to 5,000 90.20 Vessels 5,001 GRT and up to 10,000 203.50 Vessels 10,001 GRT and up to 15,000 250.80 Vessels 15,001 GRT and up to 30,000 492.80 Vessels 30,001 GRT and up to 50,000 927.30 Vessels 50,001 GRT and up to 70,000 1,680.80 Vessels 70,001 GRT and up to 100,000 2,013.00 Vessels 100,001 GRT and up to 150,000 2,250.00 Vessels greater than 150,001 GRT 3,000.00
 
-(b) the tonnage dues set out in sub-paragraph (a) above shall include
+(b) The tonnage dues set out in subparagraph (a) include any costs involved in connection with the provision of port security.
 
-(i) the component of charges set by the Minister with responsibility for the Port and Shipping for the purpose of regulation 14 of the Gibraltar Merchant Shipping (Port Waste Reception Facilities) Regulations, 2002 (Legal Notice No. 98 of 2002); and
-
-(ii) any costs involved in connection with the provision of port security;
+(bb) In addition to the tonnage fees set out in subparagraph (a), the charges set by the Minister with responsibility for the Port and Shipping for the purpose of regulation 14 of the Gibraltar Merchant Shipping (Port Waste Reception Facilities) Regulations 2002 are payable by all vessels, arriving at, touching at or having communication with Gibraltar, or its anchorage, port or harbour;
 
 (c) the component of tonnage that relates to charges or costs referred to in sub- paragraph (b) above shall only be paid once in respect of each call at Gibraltar by a vessel;
 
 (d) except in the case of the component of tonnage that relates to charges or costs referred to in sub-paragraph (b) above, the following discounts on the standard rates of tonnage shall apply to the specified classes of vessel
 
-Vessels calling to discharge/load containers 30% Bunker calls 75% Vessels calling at the Eastern Anchorage in order to take on provisions, spares or stores, or to carry out crew changes, for a maximum of 48 hours,
+Vessels calling to discharge/load containers 30%
+
+Bunker calls 75% Vessels calling at the Eastern Anchorage in order to take on provisions, spares or stores, or to carry out crew changes, for a maximum of 48 hours,
 
 75% Vessels within dry dock 100%
 
 2.  Passenger ships: tonnage dues.
 
-The following tonnage dues shall be payable by all passenger vessels arriving or touching at Gibraltar or the anchorage, port or harbour
+The following tonnage dues shall be payable by all passenger vessels arriving or touching at Gibraltar or the anchorage, port or harbour 
 
 GRT
 
 £
 
-Vessels up to 10 GRT 15.00 Vessels 10 GRT and up to 50 17.50 Vessels 50 GRT and up to 200 22.50 Vessels 200 GRT and up to 1,000 32.50 Vessels 1,000 GRT and up to 1,500 40.00 Vessels 1,500 GRT and up to 2,000 47.50 Vessels 2,000 GRT and up to 5,000 75.00 Vessels 5,000 GRT and up to 7,000 80.00 Vessels 7,000 GRT and up to 10,000 87.50 Vessels 10,000 GRT and up to 15,000 90.00 Vessels 15,000 GRT and up to 20,000 97.50 Vessels 20,000 GRT and up to 30,000 105.00 Vessels 30,000 GRT and up to 40,000 112.50 Vessels 40,000 GRT and up to 50,000 120.00 Vessels 50,000 GRT and up to 70,000 135.00 Vessels 70,000 GRT and up to 100,000 150.00 Vessels greater than 100,000 GRT 200.00
+Vessels up to 10 GRT 16.50 Vessels 10 GRT and up to 50 19.25 Vessels 50 GRT and up to 200 24.75 Vessels 200 GRT and up to 1,000 35.75 Vessels 1,000 GRT and up to 1,500 44.00 Vessels 1,500 GRT and up to 2,000 52.25 Vessels 2,000 GRT and up to 5,000 82.50 Vessels 5,000 GRT and up to 7,000 88.00 Vessels 7,000 GRT and up to 10,000 96.25 Vessels 10,000 GRT and up to 15,000 99.00 Vessels 15,000 GRT and up to 20,000 107.25 Vessels 20,000 GRT and up to 30,000 115.50 Vessels 30,000 GRT and up to 40,000 123.75 Vessels 40,000 GRT and up to 50,000 132.00 Vessels 50,000 GRT and up to 70,000 148.50 Vessels 70,000 GRT and up to 100,000 165.00 Vessels greater than 100,000 GRT 220.00
 
 3.  Passenger charges.
 
@@ -78,15 +78,9 @@ shall be aggregated, and the relevant reduction shall apply in respect of each s
 
 (e) there shall be paid in respect of every fare-paying passenger on arrival in Gibraltar by cruise ship an environmental levy of an additional £1.
 
-4. Non-touching Tonnage Dues (Off Port Limit A).
+4. Non-touching Tonnage Dues (Off Port Limit A and B).
 
-Operations that take place within British Gibraltar Territorial Waters which do not require the vessel to anchor or touch upon Gibraltar are charged at the following rates–
-
-Gross Tonnage
-
-£ Vessels up to 1,000gt 40.00 Vessels over  1,000gt up to 5,000gt
-
-75.00 Vessels over  5,000gt up to 10,000gt 145.00 Vessels over 10,000gt 155.00
+Operations which do not require the vessel to anchor or touch upon Gibraltar are charged at the rate of £250.00.
 
 5.  Berthing Charges.
 
@@ -96,17 +90,17 @@ In addition to the tonnage dues payable under paragraph 1 of this Schedule, bert
 
 other than vessels detailed under (i)
 
-6p
+9p
 
 (b) Home trade vessels over 1000 Tons Gross other
 
-than vessels detailed under (d) (e) (f) (g) or (i) 8p
+than vessels detailed under (d) (e) (f) (g) or (i) 11p
 
 Full Rate
 
 (c) Foreign going vessels other than vessels detailed under (d) (e) (f) (g) (h) or (i)
 
-8p
+11p
 
 Full Rate
 
@@ -116,7 +110,7 @@ solely and exclusively for repairs or for underwater
 
 cleaning
 
-5p
+7p
 
 (e) For every vessel berthing anywhere in the port other
 
@@ -124,7 +118,7 @@ than the detached mole solely and exclusively for
 
 repairs or for underwater cleaning
 
-11p
+16p
 
 (f) For every vessel berthing solely and exclusively for
 
@@ -134,7 +128,7 @@ discharging slops while alongside a berth
 
 whilst so bunkering or taking on supplies
 
-of fresh water or discharging slops while                      3p
+of fresh water or discharging slops while                       4p
 
 alongside a berth
 
@@ -146,9 +140,11 @@ Bunkers
 
 Cruise
 
-(h) Home trade and foreign going vessels laid up or under Admiralty arrest
+(h) Home trade and foreign going vessels laid
 
-6p
+up or under Admiralty arrest
+
+9p
 
 (i) All vessels the master, owner or agents of which          At such
 
@@ -160,7 +156,7 @@ Captain of the Port
 
 (j) For every vessel discharging any Cargo
 
-8p
+11p
 
 at the Port
 
@@ -172,19 +168,19 @@ and operating a regular service within a
 
 distance of 50 miles from Gibraltar
 
-3p
+4p
 
 (l) For every pure car carrier over 20,000 Tons
 
-6p
+9p
 
 Gross discharging at the Port
 
 (m) Any other category not listed above
 
-8p
+11p
 
-The above rates for vessels under all sub-paragraphs are chargeable from the time of arrival alongside with a minimum charge per vessel of £5 per 24 hours of part thereof – charges are per 24 hour period supplement 1p per GRT beyond.
+The above rates for vessels under all sub-paragraphs are chargeable from the time of arrival alongside with a minimum charge per vessel of £7.17 per 24 hours of part thereof – charges are per 24 hour period supplement 1p per GRT beyond.
 
 Vessels chargeable under sub-paragraph (f)–
 
@@ -228,9 +224,7 @@ For a motor boat or launch
 
 For a Licensed Bunker Barge-
 
-(i) 0........3,000   grt £6,000.00 (ii) 3,001......5,000  grt £12,000.00
-
-(iii) 5,001........7,500  grt £15,000.00 (iv) 7,501 grt onwards £18,000.00
+(i) 0........3,000   grt £6,000.00 (ii) 3,001......5,000  grt £12,000.00 (iii) 5,001........7,500  grt £15,000.00 (iv) 7,501 grt onwards £18,000.00
 
 For a Pontoon of any description
 
@@ -326,7 +320,7 @@ Fees for inspection and copies:
 
 Charge in respect of the first grant of bunkering Licence     £300,000
 
-In addition to any other charges payable under these Rules  £0.20
+In addition to any other charges payable under these Rules  £0.30
 
 there shall be payable in respect of every vessel that takes
 
@@ -344,25 +338,17 @@ Ship to ship operations:
 
 to Motherships:
 
-Tonnage transferred
+Tonnage transferred Less than 50,000 metric tonnes
 
-Less than 50,000 metric tonnes
+£7,500 50,001-100,000 metric tonnes
 
-£5,000
+£11,000 100,001-150,000 metric tonnes
 
-50,001-100,000 metric tonnes
+£15,000 150,001-200,000 metric tonnes
 
-£9,000
+£22,500
 
-100,001-150,000 metric tonnes
-
-£13,000
-
-150,001-200,000 metric tonnes
-
-£17,000
-
-(c) Charge in respect of the first grant of an LNG Bunkering Licence £300,000 In additional to any other charges payable under these Rules, there shall be payable in respect of every vessel that takes on board LNG fuel for its own use or for export, an LNG bunkering levy charge at the following rate per tonne of LNG fuel supplied £0.20
+(c) Charge in respect of the first grant of an LNG Bunkering Licence £300,000 In addition to any other charges payable under these Rules, there shall be payable in respect of every vessel that takes on board LNG fuel for its own use or for export, an LNG bunkering levy charge at the following rate per tonne of LNG fuel supplied £0.20
 
 Under a Green Initiative Scheme, there will be a discount of 50% applied at the discretion of the Captain of the Port.
 
@@ -400,7 +386,7 @@ An operator wishing to have a portacabin shall be liable to pay a fee @ £3.00 p
 
 14. Super Yacht Tariff Card
 
-DESCRIPTION RATE Berthing Fees (including at anchor) (i) Set at £5/m per day
+DESCRIPTION RATE Berthing Fees (including at anchor) (i) Set at £6.50/m per day
 
 (ii) Deleted Discounts for visits of more than 4 days shall also apply on a case by case basis
 
