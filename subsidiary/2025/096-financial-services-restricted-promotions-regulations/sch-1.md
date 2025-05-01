@@ -1,0 +1,5 @@
+SCHEDULE 1 Regulation 5
+
+EXEMPTIONS FROM THE RESTRICTION ON THE PROMOTION OF SPECULATIVE ILLIQUID SECURITIES
+
+Exemption Promotion to: Speculative illiquid security which is: Certified high net worth investor The investor or a person legally empowered to make investment decisions on the investor’s behalf. Any speculative illiquid security the firm considers is likely to be suitable for that individual, based on a preliminary assessment of the client’s profile and objectives. Certified sophisticated investor The investor, including an individual who is legally empowered (solely or jointly with others) to make investment decisions on behalf of another person who is the firm’s client. Any speculative illiquid security. Self-certified sophisticated investor The investor, including an individual who is legally empowered (solely or jointly with others) to make investment decisions on behalf of another person who is the firm’s client. Any speculative illiquid security the firm considers is likely to be suitable for that individual, based on a preliminary assessment of the client’s profile and objectives.
