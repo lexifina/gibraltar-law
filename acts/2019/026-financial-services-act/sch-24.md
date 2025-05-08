@@ -42,11 +42,11 @@ Private schemes
 
 (2)  For the purposes of sub-paragraph (1), an offer is not addressed exclusively to a restricted category of persons unless–
 
-(a) the offer is addressed to an identifiable category of persons to whom it is directly communicated by the offeror or the offeror’s appointed agent;
+(a) the offer is addressed to an identifiable category of not more than 50 persons, whether in Gibraltar or elsewhere, to whom it is directly communicated by the offeror or the offeror’s appointed agent;
 
-(b) the members of that category are the only persons who may accept the offer and they are in possession of sufficient information to be able to make a reasonable evaluation of the offer;
+(b) the members of that category are the only persons who may accept the offer and they are in possession of sufficient information to be able to make a reasonable evaluation of the offer; and
 
-(c) the number of persons, in Gibraltar or elsewhere, to whom the offer is communicated does not exceed 50; and
+(c) Omitted
 
 (d) the offer is made in respect of units in a scheme that is, or on its establishment will be, a private scheme and that will remain as a private scheme for at least one year after the date that the offer is made.
 
