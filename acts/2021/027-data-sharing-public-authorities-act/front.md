@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2021-27 Commencement 27.9.2021 Assent 24.9.2021
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date LN.2025/100 Sch.1 8.5.2025
 
 ARRANGEMENT OF SECTIONS
 
