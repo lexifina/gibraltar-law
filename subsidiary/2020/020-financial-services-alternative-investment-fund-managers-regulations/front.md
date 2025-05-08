@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date LN.2020/483 rr
 
 1.1.2021 2021/493 rr. 12(4), 15(5) 1.1.2022 2022/080 rr. 4(1), 8A-8B 30.3.2022 2022/153 rr. 3, 4(1), (5), 6(1)(b), 33(3), 35(2)(b), 36(2), 40(2), 42(2)(b), 46(1)(a), (2)(a), 48(3)(b)(i)-(ii), (13)(b)- (c), (15)(a)(iii), (15A), (24), 52(2)(a), (2A), (5)(c), (6)(a)-(b), 55(2)(c), 56(3)(c), 60(2)-(3), 62(1)(a), (4), 63(2)-(3), (4)(a)-(b), (16)(g), (19)(a)(ii), (37), 68(1)(b), (5), 69(1), (2)(d), (g), (9), 74(2), 77, 78(1), 79(1), 81(1), (3)(a), (c), (4), 87(1)(b), Sch.
 
-23.6.2022 2023/259 r. 69(4)(b), (5) 7.9.2023 2025/077 r. 69(2)(f), (3), (5) 10.4.2025
+23.6.2022 2023/259 r. 69(4)(b), (5) 7.9.2023 2025/077 r. 69(2)(f), (3), (5) 10.4.2025 2025/098 rr. 8(5), 10A, 18, 18A-18C, 20(6A), (7) 8.5.2025
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -26,7 +26,7 @@ Exemptions
 
 Principal duties of AIFMs and AIFs
 
-9. General duty of compliance. 10. Requirement to have AIFM.
+9. General duty of compliance. 10. Requirement to have AIFM. 10A. Application of certain provisions to external AIFMs.
 
 PART 2 AUTHORISATION CONDITIONS
 
@@ -34,11 +34,13 @@ PART 2 AUTHORISATION CONDITIONS
 
 PART 3 SMALL AIFMs AND SMALL SCHEME MANAGERS
 
-CHAPTER 1 SMALL AIFMs
+CHAPTER 1
+
+SMALL AIFMs
 
 General
 
-17. Interpretation. 18. Small AIFMs.
+17. Interpretation. 18. Registration of small AIFMs. 18A. Information and material changes. 18B. Local fund administrator: self-managed small AIFMs. 18C. Arrangements for safe custody of assets: self-managed small AIFMs.
 
 National private placement regime
 
@@ -132,7 +134,9 @@ Administration
 
 Information
 
-86. Transfer and retention of personal data. 87. Disclosure of information to third countries. 88. Omitted.
+86. Transfer and retention of personal data.
+
+87. Disclosure of information to third countries. 88. Omitted.
 
 Final provisions
 
