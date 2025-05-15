@@ -36,27 +36,27 @@ Part 3 Fortifications-
 
 THE LINE OF FORTIFICATIONS FACING NORTH AND WEST AND COVERING GIBRALTAR BAY AND HARBOUR, COMPRISING–
 
-Description Location Casemates Curtain including Casemates Gates Waterport Western entrance to Grand Casemates Square Chatham Counterguard, including cannon on East side Queensway from Waterport top of wall. Fountain to American War Memorial Curtain Walls to Alexandra Battery, including Alexandra Battery West of Rosia Road Devil’s Tongue Battery South side of Old Mole, Waterport Wharf Dockyard Clocktower Rosia Road Dockyard Gatehouse Ragged Staff Engineer Battery
+Description Location Casemates Curtain including Casemates Gates Waterport Western entrance to Grand Casemates Square Chatham Counterguard, including cannon on top of wall. East side Queensway from Waterport Fountain to American War Memorial Curtain Walls to Alexandra Battery, West of Rosia Road including Alexandra Battery Devil’s Tongue Battery South side of Old Mole, Waterport Wharf Dockyard Clocktower Rosia Road Dockyard Gatehouse Ragged Staff Engineer Battery
 
 Grand Battery North East side Grand Casemates Barracks & Square Grand Casemates Hesse’s Demi Bastion North corner of Moorish Castle King’s Bastion including one 12.5–38 ton Gun and two 10in–18 ton Guns Leisure Centre between Queensway and Line Wall Road Landport Gate North East corner Grand Casemates Square Line Wall Road to King’s Bastion Line Wall Road Line Wall Curtain to South Bastion West of Line Wall Road and John Mackintosh Hall Line Wall Curtain to Wellington Front West of Line Wall Road and Convent Montagu Bastion Bounded by Line Wall Road and Fish Market Road Montagu Counterguard including Chatham Wicket West of Montagu Bastion
 
 Montagu Curtain including Boyd’s Gate East of Fish Market Road Napier of Magdala Battery North side of Rosia Bay North Bastion Bounded by Smith Dorrien Avenue and Corral Road Curtain to North Jumpers Bastion West of Rosia Road North Jumpers Bastion
 
-Old Mole Head North West of Devil’s Tongue Battery Orange Bastion, incl. two 10” 18 ton RMLs and including cannon in embrasures. West of Line Wall Road Parson’s Lodge Battery and AA machine gun Rosia Bay Prince Albert’s Front, including Main Sally West of Line Wall Road from American
-
-Ports and Zoca Flank including 12.5” RML. Including 9 cannon on north and south platforms. War Memorial to Zoca Defensive Walls of Prince William South end of South Mole Ragged Staff Flank East of Gates Ragged Staff Gates By Dockyard North Gate Rosia Bay Defensive Wall and batteries including one 64pdr rifled muzzle loading gun East side of Rosia Bay
+Old Mole Head North West of Devil’s Tongue Battery Orange Bastion, incl. two 10” 18 ton RMLs and including cannon in embrasures. West of Line Wall Road Parson’s Lodge Battery and AA machine gun Rosia Bay Prince Albert’s Front, including Main Sally Ports and Zoca Flank including 12.5” RML. Including 9 cannon on north and south West of Line Wall Road from American War Memorial to Zoca platforms. Defensive Walls of Prince William South end of South Mole Ragged Staff Flank East of Gates Ragged Staff Gates By Dockyard North Gate Rosia Bay Defensive Wall and batteries including one 64pdr rifled muzzle loading gun East side of Rosia Bay
 
 South Bastion West of Southport Gate Curtain to South Jumpers Bastion
 
 South Jumpers Bastion
 
-Wellington Front East of Commonwealth Park West Place of Arms Corral Road 100 ton gun to include the two loading rammer chambers and 3.7” AA Gun North side of Rosia Bay
+Wellington Front East of Commonwealth Park West Place of Arms Corral Road 100 ton gun to include the two loading rammer chambers and 3.7” AA Gun North side of Rosia Bay Late Medieval Round Tower West of Line Wall Road between the American War Memorial and Zoca Flank Battery
 
 DEFENCES COVERING EUROPA COMPRISING–
 
 Description Location Buena Vista Battery West side of Buena Vista Parade Ground Defensive wall from Parsons Lodge to Buena Vista Barracks West Side of Buena Vista Parade Ground Defensive wall along whole Europa cliff edge From Prince George’s Battery round Europa Point to car chute at Europa Battery 1st Europa Advance Battery East of Europa Advance Road 2nd and 3rd Europa Advance Batteries East of Europa Advance Road Harding’s Battery and magazine Europa Flats Machicouli Gallery Above Camp Bay Prince George’s Battery Top of cliff on South side of Little Bay Stone tower with spiral staircase Behind (East) 2nd Europa Pass Battery
 
-LOWER CHARLES V WALL FROM SOUTH BASTION RUNNING EAST AND INCLUDING–
+LOWER CHARLES V WALL FROM SOUTH BASTION RUNNING EAST AND
+
+INCLUDING–
 
 Description Location Flat Bastion Below Green Lane Flat Bastion Magazine Above Gardiner’s Road Prince Edward’s Gate and two guardhouses Prince Edward’s Road St. Jago’s Bastion Above and East of Trafalgar Cemetery Southport Gates, including 10in. RML 18 ton gun and Coats of Arms Bottom of Trafalgar Hill
 
