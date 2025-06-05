@@ -6,7 +6,7 @@ LN.2025/060
 
 Commencement 6.3.2025
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2025/116 r. 11(4)-(5) 5.6.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -32,9 +32,7 @@ General Supervisory Powers
 
 Powers to obtain information.
 
-8. Power to require documents and information.
-
-9. Skilled person report.
+8. Power to require documents and information. 9. Skilled person report.
 
 Powers to appoint inspectors.
 
