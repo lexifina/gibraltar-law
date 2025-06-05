@@ -18,9 +18,7 @@ Seafarer’s name Date of birth Nationality Sex Preferably a photograph Relevant
 
 Competency details:
 
-STCW competency standard (e.g. regulation II/1) Capacity Function Level of responsibility Endorsements
-
-Limitations
+STCW competency standard (e.g. regulation II/1) Capacity Function Level of responsibility Endorsements Limitations
 
 Medical details:
 

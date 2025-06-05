@@ -104,9 +104,7 @@ Courses to steer allowing for Current and Leeway;
 
 Familiarity with the use of Parallel Rules, Dividers, Compasses, etc.
 
-(6) LIFE-SAVING AND FIRE-FIGHTING APPLIANCES A knowledge of the Statutory requirements and appreciation of the fact that the person in charge of a vessel must be satisfied that the Life-saving and Fire-fighting appliances are properly maintained;
-
-Use and deployment of Inflatable Liferafts and Inflatable or Rescue Boats;
+(6) LIFE-SAVING AND FIRE-FIGHTING APPLIANCES A knowledge of the Statutory requirements and appreciation of the fact that the person in charge of a vessel must be satisfied that the Life-saving and Fire-fighting appliances are properly maintained; Use and deployment of Inflatable Liferafts and Inflatable or Rescue Boats;
 
 Inflatable Liferaft and Boat Servicing requirements;
 
@@ -154,15 +152,15 @@ Administrative Instructions.
 
 (13) RADAR AND NAVIGATIONAL AIDS Knowledge of the use of Radar, Echo Sounder and any other Position-Finding Device on board the vessel.
 
-(14) BASIC KNOWLEDGE OF VESSEL CONSTRUCTION AND STABILITY
-
-General knowledge of Ship Construction and of Plans available onboard the vessel, where these are carried;
+(14) BASIC KNOWLEDGE OF VESSEL CONSTRUCTION AND STABILITY General knowledge of Ship Construction and of Plans available onboard the vessel, where these are carried;
 
 Maintaining Watertight sub-division;
 
 Main and Emergency Bilge Pumping Arrangements;
 
-General Pumping Arrangements; Outline knowledge of the effect on stability of Loading, Discharging, Weight Distribution and Slack Tanks;
+General Pumping Arrangements;
+
+Outline knowledge of the effect on stability of Loading, Discharging, Weight Distribution and Slack Tanks;
 
 Outline knowledge of Freeboard and Trim;
 
