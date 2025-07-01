@@ -66,11 +66,11 @@ LN. 1981/106 s. 20, Sch.2
 
 28.11.2013 2014-10 ss. 2(3)(a), (4)(c), 11(1)(b), 18(1)(b), 23(1), 27(2), (4), 28(2), 38(2)(d), 41(1), (2), (a), (4), 44(5), 49(1), Sch.3
 
-28.3.2014 2015-111ii ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3 30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017
+28.3.2014 2015-111ii ss. 2(4)(d), 11(1), 27(2), 41(2), Sch.3 30.6.2014 LN. 2014/139 ss. 2(1), 11B, Sch.1 24.7.2014 Act. 2017-13 ss. 5(1), (4), 6A 1.7.2015 LN. 2015/146 Sch.2 1.8.2015 2017/057 Sch.1 1.4.2017 2017/254 Sch.1 1.4.2017
 
 * Saving provision inserted at the end of this Act  Date of commencement amended by Act 2009-47  Transitional provisions inserted at the end of this Act 1 Transitional provisions inserted at the end of this Act
 
-2017/254 Sch.1 1.4.2017 2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021 LN. 2021/304 Sch.1 1.7.2021 2022/231 Sch.1 4.8.2022 “ Sch.1 1.7.2023 Act. 2023-04 s. 2(4)(c) 18.4.2024 LN. 2024/107 Sch.1 1.7.2024
+2018/151 Sch.1 1.7.2018 2020/535 s. 49(1), (3) 24.12.2020 Act. 2021-09 s. 2(4)(cc) 9.2.2021 LN. 2021/304 Sch.1 1.7.2021 2022/231 Sch.1 4.8.2022 “ Sch.1 1.7.2023 Act. 2023-04 s. 2(4)(c) 18.4.2024 LN. 2024/107 Sch.1 1.7.2024 2025/120 Sch.1 1.7.2025
 
 ARRANGEMENT OF SECTIONS.
 
@@ -128,9 +128,9 @@ Finance.
 
 Administration.
 
-31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board. 35. Appeal to Supreme Court.
+31. Social Insurance Advisory Committee. 32. Determination of claims and questions by Director. 33. Constitution of Appeals Board. 34. Appeals to the Board. 35. Appeal to Supreme Court. 36. Review. 37. Administration of benefit.
 
-36. Review. 37. Administration of benefit. 38. Interim payments, arrears and repayments. 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
+38. Interim payments, arrears and repayments. 39. Recovery of sums by deduction from benefit. 40. Inspectors. 41. Information as to, and proof of, age, marriage, civil partnership and death. 42. Exemption from stamp duty.
 
 Legal Proceedings.
 
