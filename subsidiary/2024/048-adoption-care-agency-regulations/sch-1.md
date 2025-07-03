@@ -164,7 +164,9 @@ Other information about each parent of the child
 
 29.  In this Part “parent” includes the father of the child whether or not he has parental responsibility for the child.
 
-PART 4 INFORMATION RELATING TO THE HEALTH OF THE CHILD'S NATURAL PARENTS AND BROTHERS AND SISTERS
+PART 4 INFORMATION RELATING TO THE HEALTH OF THE CHILD'S NATURAL
+
+PARENTS AND BROTHERS AND SISTERS
 
 1.  Name, date of birth, sex, weight and height of each natural parent.
 
