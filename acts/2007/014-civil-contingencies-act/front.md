@@ -6,7 +6,7 @@ Act. No. 2007-14 Commencement 26.4.2007 Assent 20.4.2007
 
 Amending enactments Relevant current provisions Commencement date LN. 2011/064 ss. 21-30, Sch. 1-2 12.5.2011 2013/012 s. 31 31.1.2013 2018/102 ss. 32-55, Sch. 3-5 10.5.2018 2018/124 s. 34 25.5.2018 Act. 2017-10 s. 18(2) 13.6.2018 2018-12 ss. 34, 38(9) 1.6.2021 LN. 2024/087 ss. 32(1)(c), (2)(a), (3)(a)-(c), (4), (6), 33-34, 35(6), (12)-(13), 36(4), 37(5)-(7), 38(5), (a), (7), (10), 39(3)(b), (d), (4), 40(3), 42(5), (8), 43(1), (6A), (9)- (10), (13), (15)-(16), 44(2), 55(1)-(2), Sch. 3
 
-23.5.2024 2025/032 Sch. 1 24.1.2025
+23.5.2024 2025/032 Sch. 1 24.1.2025 Act. 2025-08 Sch. 4 11.7.2025
 
 Transposing: Directive 2008/114/EC Directive (EU) 2016/1148
 
@@ -34,9 +34,9 @@ PART 4 Civil Contingencies Committee
 
 PART 5 European Critical Infrastructures
 
-21. Interpretation.
+21. Interpretation. 22. Identification of ECIs.
 
-22. Identification of ECIs. 23. Procedure for the identification of critical infrastructures which may be designated as an ECI. 24. Designation of ECIs. 25. Operator security plans. 26. ECI OSP Procedure. 27. Security Liaison Officers. 28. Reporting. 29. Sensitive European critical infrastructure protection-related information. 30. European critical infrastructure protection contact points.
+23. Procedure for the identification of critical infrastructures which may be designated as an ECI. 24. Designation of ECIs. 25. Operator security plans. 26. ECI OSP Procedure. 27. Security Liaison Officers. 28. Reporting. 29. Sensitive European critical infrastructure protection-related information. 30. European critical infrastructure protection contact points.
 
 PART 6
 
