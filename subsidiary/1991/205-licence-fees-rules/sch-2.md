@@ -84,7 +84,7 @@ No fee (b) For the issue of an Emergency Travel Document where the applicant is
 
 15.50 Note: No fee shall be taken in respect of the grant of a passport under paragraph 5(a) to a Minister of H.M Government of Gibraltar
 
-The Head of the Civil Status and Registration Office may remit the fee payable under paragraph 5(b) where the application is made as a matter of urgency because of bereavement or serious illness.
+The Director of the Department of Immigration and Home Affairs may remit the fee payable under paragraph 5(b) where the application is made as a matter of urgency because of bereavement or serious illness.
 
 6. DRUGS (MISUSE) £ For the issue of a licence under Part 21 of the Crimes Act 2011 0.50 7. (OMITTED).
 
@@ -172,13 +172,17 @@ PART IV.- EXMINATION FEES. For the examination of goods at the request of a memb
 
 (i) container up to 25 feet in length, the first 30 days, including the day of discharge, free, thereafter for each succeeding day or part thereof
 
-12.00 (ii) containers exceeding 25 feet in length, the first 30 days including the day of discharge free, thereafter for each succeeding day or part thereof
+12.00
+
+(ii) containers exceeding 25 feet in length, the first 30 days including the day of discharge free, thereafter for each succeeding day or part thereof
 
 23.50 Notes on the above fee.
 
 Where any container in transit has been discharged in the Port for the convenience of the carrier and not as a genuine incident of carriage, which question shall be decided by the Captain of the Port in his absolute discretion, there shall be no free days and rental charges shall be payable from the day of discharge at the rates specified.
 
-Where any container which has been discharged in the Port has been removed from the Port other by sea within 30 days after discharge, including the day of discharge and the day of removal, enters the Port, after having been outside the Port for more than twenty-four hours, no rental charges shall be payable in respect of such container for the number of days for which no charges would have been payable if it had not been so removed. 10. ARRIVAL AND DEPARTURE CHARGES. 1.(1)  Subject to the provisions of sub-paragraph (2), there shall be paid in respect of every fare-paying passenger on departure from Gibraltar by civil aircraft–
+Where any container which has been discharged in the Port has been removed from the Port other by sea within 30 days after discharge, including the day of discharge and the day of removal, enters the Port, after having been outside the Port for more than twenty-four hours, no rental charges shall be payable in respect of such container for the number of days for which no charges would have been payable if it had not been so removed.
+
+10. ARRIVAL AND DEPARTURE CHARGES. 1.(1)  Subject to the provisions of sub-paragraph (2), there shall be paid in respect of every fare-paying passenger on departure from Gibraltar by civil aircraft–
 
 (a) to a destination in Morocco, £3,
 
@@ -218,6 +222,6 @@ The fee to be paid by every visitor for each night spent in Gibraltar in hotel o
 
 13. ADMINISTRATIVE SERVICE REQUESTS
 
-Certificate of ordinarily resident in respect of a company £54.50 Certificate of ordinarily resident in respect of an individual meeting the conditions of section 74 of the Income Tax Act 2010, including an individual: - in employment; £27.00
+Certificate of ordinarily resident in respect of a company £54.50
 
-- carrying on a trade, business, profession or vocation; - who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. Certificate of compliance in respect of a company £54.50 Certificate of compliance in respect of an individual: - in employment; - carrying on a trade, business, profession or vocation; or - who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. £27.00 Statement of account: a summary listing in respect of all transactions carried out £27.00
+Certificate of ordinarily resident in respect of an individual meeting the conditions of section 74 of the Income Tax Act 2010, including an individual: - in employment; - carrying on a trade, business, profession or vocation; - who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. £27.00 Certificate of compliance in respect of a company £54.50 Certificate of compliance in respect of an individual: - in employment; - carrying on a trade, business, profession or vocation; or - who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. £27.00 Statement of account: a summary listing in respect of all transactions carried out £27.00
