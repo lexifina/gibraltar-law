@@ -6,9 +6,11 @@ LN.2008/077
 
 Commencement 2.10.2008
 
-Amending enactments Relevant current provisions Commencement date Act. 2016-18 r. 10(4)(b) 23.4.2018 LN. 2023/272 rr. 10(4), (8), 10A-10B 21.9.2023
+Amending enactments Relevant current provisions Commencement date Act. 2016-18 r. 10(4)(b) 23.4.2018 LN. 2023/272 rr. 10(4), (8), 10A-10B 21.9.2023 Act. 2025-03 r. 2(1) 11.7.20251
 
 Transposing: Directive 2003/9/EC Directive 2004/83/EC
+
+1 Notice of Commencement – LN.2025/146
 
 ARRANGEMENT OF REGULATIONS
 
