@@ -6,9 +6,11 @@ LN.2012/155
 
 Commencement 8.11.2012
 
-Amending enactments Relevant current provisions Commencement date LN. 2018/146 r. 14(2) 27.6.2018
+Amending enactments Relevant current provisions Commencement date LN. 2018/146 r. 14(2) 27.6.2018 Act. 2025-03 r. 4(1) 11.7.20251
 
 Transposing: Directive 2005/85/EC
+
+1 Notice of Commencement – LN.2025/146
 
 ARRANGEMENT OF REGULATIONS
 
