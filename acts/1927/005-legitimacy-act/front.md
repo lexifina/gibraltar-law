@@ -1,26 +1,20 @@
-Legitimacy
-
-1927-05
-
-LEGITIMACY ACT
+Legitimacy Act
 
 Principal Act
 
 Act. No. 1927-05 Commencement 1.1.1928 Assent 16.11.1927
 
-With which is consolidated Relevant current provisions Commencement date Act. 1972-06, ss.12 and 13
+With which is consolidated Relevant current provisions Commencement date Act. 1972-06, ss.12 and 13 ss.14 and 15
 
-ss.14 and 15
-
-Amending enactments Relevant current provisions Commencement date Act. 1932-10 Sch. 1934-11 ss. 2, 6(1), 10 1935-08 s. 8 1960-35 ss. 4, 5 1962-09 – 1972-06 s. 6(1), (2) 1975-31 s. 3(3) 1983-48 Sch. 2005-42 s. 10, Sch. 2.8.2005 2007-17 s. 5(4) 14.6.2007 2021-09 s. 14(3)(c) 9.2.2021
+Amending enactments Relevant current provisions Commencement date Act. 1932-10 Sch. 1934-11 ss. 2, 6(1), 10 1935-08 s. 8 1960-35 ss. 4, 5 1962-09 – 1972-06 s. 6(1), (2) 1975-31 s. 3(3) 1983-48 Sch. 2005-42 s. 10, Sch. 2.8.2005 2007-17 s. 5(4) 14.6.2007 2021-09 s. 14(3)(c) 9.2.2021 2025-03 Sch. 11.7.20251
 
 English sources
 
 Legitimacy Act 1926 (16 & 17 Geo.5 c.60) Matrimonial Causes Act 1950 (14 Geo.6 c.25) Legitimacy Act 1959 (7 & 8 Eliz.2 c.73) Family Law Reform Act 1969 (1969 c.46)
 
-Legitimacy
+1 Notice of Commencement – LN.2025/146
 
-1927-05 ARRANGEMENT OF SECTION
+ARRANGEMENT OF SECTIONS
 
 Section
 
@@ -44,9 +38,7 @@ SCHEDULE.
 
 Registration of births of legitimated persons.
 
-Legitimacy
-
-1927-05 AN ACT TO AMEND THE LAW RELATING TO CHILDREN BORN OUT OF WEDLOCK.
+AN ACT TO AMEND THE LAW RELATING TO CHILDREN BORN OUT OF WEDLOCK.
 
 Short title.
 
@@ -74,13 +66,9 @@ Legitimation by subsequent marriage of parents.
 
 (2) The legitimation of a person under this Act does not enable him or his spouse, children or remoter issue to take any interest in real or personal property save as is hereinafter in this Act expressly provided.
 
-(3) The provisions contained in the Schedule shall have effect with respect to the re-registration of the births of legitimated persons, whether or not the legitimation or the recognition thereof was effected by this Act.
+(3) The provisions contained in the Schedule shall have effect with respect to the re- registration of the births of legitimated persons, whether or not the legitimation or the recognition thereof was effected by this Act.
 
 Legitimacy of children of certain void marriages.
-
-Legitimacy
-
-1927-05
 
 4.(1) Subject to the provisions of this section, the child of a void marriage, whether born before or after the lst day of January, 1961, shall be treated as the legitimate child of his parents if at the time of the act of intercourse resulting in the birth, or at the time of the celebrating of the marriage if later, both or either of the parties reasonably believed that the marriage was valid.
 
@@ -102,9 +90,7 @@ Provided that the decree of the Supreme Court shall not prejudice any person–
 
 (a)  if it is subsequently proved to have been obtained by fraud or collusion; or
 
-Legitimacy
-
-1927-05 (b) unless that person has been cited or made a party to the proceedings or claims through a person so cited or made a party.
+(b) unless that person has been cited or made a party to the proceedings or claims through a person so cited or made a party.
 
 (4)  A copy of every petition under this section and of any affidavit accompanying the petition shall be delivered to the Minister responsible for justice at least one month before the petition is presented, and the Minister responsible for justice shall be a respondent on the hearing of the petition and on any subsequent proceedings relating thereto.
 
@@ -126,11 +112,9 @@ in like manner as if the legitimated person had been born legitimate:
 
 Provided that paragraph (b) shall not apply to a disposition made after the lst day of January 1928 except as respects any interest in relation to which the disposition refers only to persons who are, or whose relationship is deduced through, legitimate persons.
 
-(2) Where the right to any property, real or personal, depends on the relative seniority of the children of any person, and those children include one or more legitimated persons, the legitimated person or persons shall rank as if he or they had been born on the day when he or they became legitimated by virtue of this Act, and if more than one such legitimated person became legitimated at the same time, they shall rank between themselves in order of seniority :
+(2) Where the right to any property, real or personal, depends on the relative seniority of the children of any person, and those children include one or more legitimated persons, the legitimated person or persons shall rank as if he or they had been born on the day when he or they became legitimated by virtue of this Act, and if more than one such legitimated person became legitimated at the same time, they shall rank between themselves in order of seniority:
 
-Legitimacy
-
-1927-05 Provided that this subsection shall not apply in relation to any right conferred by a disposition made after the lst day of January 1928 unless the terms of the disposition are such that the children whose relative seniority is in question cannot include any illegitimate children who are not either legitimated persons within the meaning of this Act or persons recognized by virtue of this Act as having been legitimated.
+Provided that this subsection shall not apply in relation to any right conferred by a disposition made after the lst day of January 1928 unless the terms of the disposition are such that the children whose relative seniority is in question cannot include any illegitimate children who are not either legitimated persons within the meaning of this Act or persons recognized by virtue of this Act as having been legitimated.
 
 (3)  This section applies only if and so far as a contrary intention is not expressed in the disposition, and shall have effect subject to the terms of the disposition and to the provisions therein contained.
 
@@ -150,11 +134,7 @@ Personal rights and obligations of legitimated persons.
 
 Provisions as to persons legitimated by extraneous law.
 
-11.(1)  Where the parents of an illegitimate person marry or have married one another, whether before or after the commencement of this Act, and the
-
-Legitimacy
-
-1927-05 father of the illegitimate person was or is at the time of the marriage, domiciled elsewhere than in Gibraltar in a country by the law of which the illegitimate person became legitimated by virtue of such subsequent marriage, that person, if living, shall in Gibraltar be recognized as having been so legitimated from the commencement of this Act or from the date of the marriage, whichever last happens, notwithstanding that his father was not at the time of the birth of such person domiciled in a country in which legitimation by subsequent marriage was permitted by law.
+11.(1)  Where the parents of an illegitimate person marry or have married one another, whether before or after the commencement of this Act, and the father of the illegitimate person was or is at the time of the marriage, domiciled elsewhere than in Gibraltar in a country by the law of which the illegitimate person became legitimated by virtue of such subsequent marriage, that person, if living, shall in Gibraltar be recognized as having been so legitimated from the commencement of this Act or from the date of the marriage, whichever last happens, notwithstanding that his father was not at the time of the birth of such person domiciled in a country in which legitimation by subsequent marriage was permitted by law.
 
 (2)  All the provisions of this Act relating to legitimated persons and to the taking of interests in property by or in succession to a legitimated person and the spouse, children and remoter issue of a legitimated person, including those relating to the rate of death duties, shall apply in the case of a person recognized as having been legitimated under this section, or who would, had he survived the marriage of his parents, have been so recognized; and, accordingly this Act shall have effect as if references therein to a legitimated person included a person so recognized as having been legitimated.
 
@@ -176,10 +156,6 @@ Provided that nothing in this section affects any rights under the intestacy of 
 
 (3)  This section does not apply to or affect the right of any person to take any entailed interest in real or personal property.
 
-Legitimacy
-
-1927-05
-
 (4) In this section, “illegitimate child” does not include an illegitimate child who is–
 
 (a)  a legitimated person within the meaning of this Act or a person recognized by virtue of this Act or at common law as having been legitimated; or
@@ -188,7 +164,7 @@ Legitimacy
 
 (c) a person who is the subject of a parental order made in Gibraltar or in any part of the United Kingdom, the Isle of Man or the Channel Islands
 
-Presumption that in dispositions of property references to children and other relatives  include references  to, and to persons related through, illegitimate children.
+Presumption that in dispositions of property references to children and other relatives include references  to, and to persons related through, illegitimate children.
 
 15.(1). In any disposition made after the lst day of January, 1928–
 
@@ -200,16 +176,10 @@ Presumption that in dispositions of property references to children and other re
 
 (3) In this section references to an illegitimate child include references to an illegitimate child who is or becomes a legitimate person within the meaning of this ordnance or a person recognized by virtue of this Act or at common law as having been legitimated.
 
-Legitimacy
-
-1927-05 (4) Where under any disposition any real or personal property or any interest in such property is limited (whether subject to any preceding limitation or charge or not) in such a way that it would, apart from this section, devolve (as nearly as the law permits) along with a dignity or title of honour, then, whether or not the disposition contains an express reference to the dignity or title of honour, and whether or not the property or some interest in the property may in some event become severed therefrom, nothing in this section shall operate to sever the property or any interest therein from the dignity or title, but the property or interest shall devolve in all respect as if this section had not been enacted.
+(4) Where under any disposition any real or personal property or any interest in such property is limited (whether subject to any preceding limitation or charge or not) in such a way that it would, apart from this section, devolve (as nearly as the law permits) along with a dignity or title of honour, then, whether or not the disposition contains an express reference to the dignity or title of honour, and whether or not the property or some interest in the property may in some event become severed therefrom, nothing in this section shall operate to sever the property or any interest therein from the dignity or title, but the property or interest shall devolve in all respect as if this section had not been enacted.
 
 (5)  There is hereby abolished, as respects dispositions made after the 1st day of September 1972 any rule of law that a disposition in favour of illegitimate children not in being when the disposition takes effect is void as contrary to public policy.
 
 (6)  In this section “deposition” means a disposition, including an oral disposition, of real or personal property whether inter vivos or by will or codicil; and, notwithstanding any rule of law, a disposition made by will or codicil executed before the date on which this section comes into force shall not be treated for the purposes of this section as made on or after that date by reason only that the will or codicil is confirmed by a codicil executed on or after that date.
-
-Legitimacy
-
-1927-05
 
 SCHEDULE.
