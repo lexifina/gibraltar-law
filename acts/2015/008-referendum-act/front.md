@@ -8,7 +8,9 @@ Amending enactments Relevant current provisions Commencement date Act.2020-02 ss
 
 30.1.2020 2021/11 ss. 2, 8(2), 9(1), 10-60, 61(1), 62(a), 65, 66(1), 70A, 72(1), 73(1), 77(2), 78(3)(b)-(c), 79(1)-(3), (5), (8), 81, 83(2)(d)-(i), 83(3)-(4), Sch.
 
-11.5.2021
+11.5.2021 2025-03 s. 7(6) 11.7.20251
+
+1 Notice of Commencement – LN.2025/146
 
 ARRANGEMENT OF SECTIONS
 
@@ -38,9 +40,7 @@ PART 6 Deleted
 
 39. to 42. Deleted.
 
-PART 7
-
-Deleted
+PART 7 Deleted
 
 43. to 48. Deleted.
 
