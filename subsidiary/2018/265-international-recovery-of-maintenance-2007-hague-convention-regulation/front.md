@@ -8,7 +8,9 @@ Commencement 22.11.2018
 
 Amending enactment Relevant current provisions Commencement date
 
-LN.2020/552 ss. 2(1), 7 01.01.2021
+LN.2020/552 ss. 2(1), 7 01.01.2021 Act.2025-03 r. 14(1) 11.7.20251
+
+1 Notice of Commencement – LN.2025/146
 
 ARRANGEMENT OF REGULATIONS
 
@@ -32,9 +34,9 @@ PART 4 MAINTENANCE ARRANGEMENTS AND DECISIONS
 
 PART 5 INFORMATION
 
-14. Information and data protection. 15. Transmission by Central Authority of information received. 16. Processing by others of information received by the Central Authority. 17. Limitations on use of information.
+14. Information and data protection. 15. Transmission by Central Authority of information received. 16. Processing by others of information received by the Central Authority. 17. Limitations on use of information. 18. Non-disclosure to third parties.
 
-18. Non-disclosure to third parties. 19. Offences. 20. Penalties. 21. Interpretation of this Part.
+19. Offences. 20. Penalties. 21. Interpretation of this Part.
 
 PART 6 MISCELLANEOUS
 

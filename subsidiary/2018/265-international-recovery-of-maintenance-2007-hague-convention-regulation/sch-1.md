@@ -10,9 +10,7 @@ CHAPTER I – OBJECT, SCOPE AND DEFINITIONS
 
 Article 1 Object
 
-The object of the present Convention is to ensure the effective international recovery of child support and other forms of family maintenance, in particular by –
-
-a) establishing a comprehensive system of co-operation between the authorities of the Contracting States;
+The object of the present Convention is to ensure the effective international recovery of child support and other forms of family maintenance, in particular by – a) establishing a comprehensive system of co-operation between the authorities of the Contracting States;
 
 b) making available applications for the establishment of maintenance decisions;
 
@@ -62,7 +60,9 @@ Article 4 Designation of Central Authorities
 
 (1)  A Contracting State shall designate a Central Authority to discharge the duties that are imposed by the Convention on such an authority.
 
-(2)  Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and shall specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State.
+(2)  Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and shall specify the territorial or personal extent of their functions. Where a State has appointed more than one
+
+Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State.
 
 (3)  The designation of the Central Authority or Central Authorities, their contact details, and where appropriate the extent of their functions as specified in paragraph 2, shall be communicated by a Contracting State to the Permanent Bureau of the Hague Conference on Private International Law at the time when the instrument of ratification or accession is deposited or when a declaration is submitted in accordance with Article 61. Contracting States shall promptly inform the Permanent Bureau of any changes.
 
@@ -192,7 +192,9 @@ Article 12 Transmission, receipt and processing of applications and cases throug
 
 (2)  The Central Authority of the requesting State shall, when satisfied that the application complies with the requirements of the Convention, transmit the application on behalf of and with the consent of the applicant to the Central Authority of the requested State. The application shall be accompanied by the transmittal form set out in Annex 1. The Central Authority of the requesting State shall, when requested by the Central Authority of the requested State, provide a complete copy certified by the competent authority in the State of origin of any document specified under Articles 16(3), 25(1) a), b) and d) and (3) b) and 30(3).
 
-(3)  The requested Central Authority shall, within six weeks from the date of receipt of the application, acknowledge receipt in the form set out in Annex 2, and inform the Central Authority of the requesting State what initial steps have been or will be taken to deal with the application, and may request any further necessary documents and information. Within the same six-week period, the requested Central Authority shall provide to the requesting Central Authority the name and contact details of the person or unit responsible for responding to inquiries regarding the progress of the application.
+(3)  The requested Central Authority shall, within six weeks from the date of receipt of the application, acknowledge receipt in the form set out in Annex 2, and inform the Central Authority of the requesting State what initial steps have been or will be taken to deal with the application, and may request any further necessary documents and information. Within the same six-week period, the requested Central Authority shall provide to the requesting Central
+
+Authority the name and contact details of the person or unit responsible for responding to inquiries regarding the progress of the application.
 
 (4)  Within three months after the acknowledgement, the requested Central Authority shall inform the requesting Central Authority of the status of the application.
 
@@ -212,9 +214,7 @@ b) the progress of the case, and shall provide timely responses to enquiries.
 
 Article 13 Means of communication
 
-Any application made through Central Authorities of the Contracting States in accordance with this Chapter, and any document or information appended thereto or provided by a Central
-
-Authority, may not be challenged by the respondent by reason only of the medium or means of communication employed between the Central Authorities concerned.
+Any application made through Central Authorities of the Contracting States in accordance with this Chapter, and any document or information appended thereto or provided by a Central Authority, may not be challenged by the respondent by reason only of the medium or means of communication employed between the Central Authorities concerned.
 
 Article 14 Effective access to procedures
 
@@ -286,9 +286,7 @@ b) have a similar force and effect to a decision of a judicial authority on the 
 
 Article 20 Bases for recognition and enforcement
 
-(1)  A decision made in one Contracting State (“the State of origin”) shall be recognised and enforced in other Contracting States if –
-
-a) the respondent was habitually resident in the State of origin at the time proceedings were instituted;
+(1)  A decision made in one Contracting State (“the State of origin”) shall be recognised and enforced in other Contracting States if – a) the respondent was habitually resident in the State of origin at the time proceedings were instituted;
 
 b) the respondent has submitted to the jurisdiction either expressly or by defending on the merits of the case without objecting to the jurisdiction at the first available opportunity;
 
@@ -336,7 +334,9 @@ ii) when the law of the State of origin does not provide for notice of the proce
 
 f) the decision was made in violation of Article 18.
 
-Article 23 Procedure on an application for recognition and enforcement
+Article 23
+
+Procedure on an application for recognition and enforcement
 
 (1)  Subject to the provisions of the Convention, the procedures for recognition and enforcement shall be governed by the law of the State addressed.
 
@@ -488,7 +488,9 @@ d) Article 18 shall not prevent proceedings for the modification of the decision
 
 CHAPTER VI – ENFORCEMENT BY THE STATE ADDRESSED
 
-Article 32 Enforcement under internal law
+Article 32
+
+Enforcement under internal law
 
 (1)  Subject to the provisions of this Chapter, enforcement shall take place in accordance with the law of the State addressed.
 
