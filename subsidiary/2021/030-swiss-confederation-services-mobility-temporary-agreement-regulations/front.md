@@ -6,7 +6,9 @@ LN.2021/030
 
 Commencement 1.1.2021
 
-_______________________
+Amending enactments Relevant current provisions Commencement date Act. 2025-03 r. 6(3) 11.7.20251
+
+1 Notice of Commencement – LN.2025/146
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -46,7 +48,7 @@ Definitions and interpretation.
 
 (ii) has not established in Gibraltar; and
 
-(iii) has concluded a bona fide contract to supply a service to a final consumer of Gibraltar, requiring the presence on a temporary basis of its employees in Gibraltar in order to fulfil the contract to supply the service in question;1
+(iii) has concluded a bona fide contract to supply a service to a final consumer of Gibraltar, requiring the presence on a temporary basis of its employees in Gibraltar in order to fulfil the contract to supply the service in question;2
 
 “Government” means Her Majesty’s Government of Gibraltar;
 
@@ -56,7 +58,7 @@ Definitions and interpretation.
 
 (ii) have not established in Gibraltar; and
 
-(iii) have concluded a bona fide contract (other than through an agency for placement and supply services of personnel) to supply a service to a final consumer in Gibraltar, requiring the presence on a temporary basis in Gibraltar in order to fulfil the contract to supply the service in question;2
+(iii) have concluded a bona fide contract (other than through an agency for placement and supply services of personnel) to supply a service to a final consumer in Gibraltar, requiring the presence on a temporary basis in Gibraltar in order to fulfil the contract to supply the service in question;3
 
 “juridical person of Switzerland” means a juridical person that carries out substantial business activities in of Switzerland, the concept of “substantial business activities in Switzerland” requiring that the juridical person has a genuine link to the economy of Switzerland;
 
@@ -64,9 +66,9 @@ Definitions and interpretation.
 
 “natural person of Switzerland” means a national of Switzerland or a permanent resident of Switzerland, in accordance with its applicable laws and regulations; and
 
-1 The contract to supply services referred to in subparagraph (a)(iii) shall comply with the requirements of the laws and regulations that apply in the place where the contract is executed.
+2 The contract to supply services referred to in subparagraph (a)(iii) shall comply with the requirements of the laws and regulations that apply in the place where the contract is executed.
 
-2 The contract to supply services referred to in subparagraph (b)(iii) shall comply with the requirements of the laws and regulations that apply in the place where the contract is executed.
+3 The contract to supply services referred to in subparagraph (b)(iii) shall comply with the requirements of the laws and regulations that apply in the place where the contract is executed.
 
 “service supplier of Switzerland” means a natural person of Switzerland who is a contractual service supplier or an independent professional;
 
@@ -92,6 +94,6 @@ Prohibited immigrant and exclusion.
 
 (2)  The Principal Immigration Officer may declare the contractual service supplier or independent professional to be a prohibited immigrant under section 52(1)(i) of the Immigration, Asylum and Refugee Act.
 
-(3)  The Head of the Civil Status and Registration Office Section may apply section 55R of the Immigration, Asylum and Refugee Act to exclude or remove the contractual service supplier or independent professional.
+(3)  The Director of the Department of Immigration and Home Affairs Section may apply section 55R of the Immigration, Asylum and Refugee Act to exclude or remove the contractual service supplier or independent professional.
 
 Regulations 5(2) and 6(1).
