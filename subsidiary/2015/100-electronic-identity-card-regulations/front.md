@@ -6,7 +6,9 @@ LN.2015/100
 
 Commencement 29.6.2015
 
-Amending enactments Relevant current provisions Commencement date LN. 2017/130 rr. 3, 8(5), 9, (3), (a), (4)-(5) 29.6.2017 2021/152 rr. 3, 4(6), 5(2), (4)(b)-(d), (5), 17-18, Sch. 25.2.2021
+Amending enactments Relevant current provisions Commencement date LN. 2017/130 rr. 3, 8(5), 9, (3), (a), (4)-(5) 29.6.2017 2021/152 rr. 3, 4(6), 5(2), (4)(b)-(d), (5), 17-18, Sch. 25.2.2021 Act. 2025-03 rr. 6(2)(d), 10(5) 11.7.20251
+
+1 Notice of Commencement – LN.2025/146
 
 ARRANGEMENT OF REGULATIONS
 
