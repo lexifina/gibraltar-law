@@ -24,13 +24,13 @@ DESCRIPTION OF PROCEEDINGS.
 
 1B. Proceedings before the Mental Health Review Tribunal.
 
-1C. Proceedings before the Principal Immigration Officer or Head of Civil Status and Registration Office.
+1C. Proceedings before the Principal Immigration Officer or Director of the Department of Immigration and Home Affairs.
 
 2. Subject to paragraphs 3, 4 and 5, proceedings before any person to whom a case is referred in whole or in part by any courts mentioned in paragraph 1 above.
 
 3.  Proceedings subject to “scale fees” (see Legal Assistance (Scale of Fees) Rules)-
 
-(a) immigration and asylum matters before the Principal Immigration Officer or Head of Civil Status and Registration Office under the Immigration, Asylum and Refugee Act;
+(a) immigration and asylum matters before the Principal Immigration Officer or Director of the Department of Immigration and Home Affairs under the Immigration, Asylum and Refugee Act;
 
 (b) divorce proceedings (where there are no dependent children of the marriage);
 
