@@ -4,7 +4,11 @@ Principal Act
 
 Act. No. 2005-18 Commencement (LN.2005/094) 16.6.2005 Assent 10.3.2005
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date Act.2025-03 ss. 7, 13(1)-(2), 14(2), (a), (3), (a), (4), (a), (5), (a), (6)-(7), (9), 16(2)-(3), 17(2)-(3), (6), 18(1)-(3), 19(1), 20(1), 21(2)
+
+11.7.20251
+
+1 Notice of Commencement – LN.2025/146
 
 ARRANGEMENT OF SECTIONS
 
