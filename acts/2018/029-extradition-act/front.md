@@ -6,7 +6,9 @@ Act. No. 2018-29 Notice of Commencement L.N 2019/010 (except for ss.79-85, 99(3)
 
 24.1.2019 Assent 20.12.2018
 
-Amending enactments Relevant current provisions Commencement date LN. 2019/017 ss.2(3)(b), 12(1)(a), 86(2), 123(1)(b), 123(1)(c) 31.1.2019 2020/521 ss.2(3)(b), 3(1), 67(4), (6) 1.1.2021 Act. 2022-09 ss. 17(1)(e), 19A, 109A, 110A-110B 20.10.2022
+Amending enactments Relevant current provisions Commencement date LN. 2019/017 ss.2(3)(b), 12(1)(a), 86(2), 123(1)(b), 123(1)(c) 31.1.2019 2020/521 ss.2(3)(b), 3(1), 67(4), (6) 1.1.2021 Act. 2022-09 ss. 17(1)(e), 19A, 109A, 110A-110B 20.10.2022 2025-03 s. 57(4) 11.7.20251
+
+1 Notice of Commencement – LN.2025/146
 
 ARRANGEMENT OF SECTIONS
 
