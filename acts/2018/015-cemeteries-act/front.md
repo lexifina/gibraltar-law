@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2018-15 Commencement (LN. 2018/218) 18.10.2018 Assent 1.8.2018
 
-Amending enactments Relevant current provisions Commencement date LN. 2018/219 Sch. 1 18.10.2018
+Amending enactments Relevant current provisions Commencement date LN. 2018/219 Sch. 1 18.10.2018 Act. 2025-05 s.8(b)-(c) 11.7.2025
 
 ARRANGEMENT OF SECTIONS
 
