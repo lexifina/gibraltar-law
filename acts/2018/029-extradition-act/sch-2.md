@@ -98,7 +98,7 @@ Extradition claim following consent.
 
 (a)  a person consents under section 63 to his extradition to the Requesting State; and
 
-(b)  before the Magistrate orders his extradition under section 64(4), the Magistrate is informed that the conditions in subsection (2) or (3) are met.
+(b)  before the Magistrate orders his extradition under section 64(4), the Magistrate is informed that the conditions in subsection (2) are met.
 
 (2)  The conditions are that-
 
@@ -106,25 +106,21 @@ Extradition claim following consent.
 
 (b)  the other request has not been disposed of.
 
-(3)  The conditions are that-
+(3)  Deleted
 
-(a)  a European arrest warrant has been issued in respect of the person;
+(4)  The Magistrate must not make an order under section 64(4) until he is informed what order has been made under section 62(2).
 
-(b)  the European arrest warrant has not been disposed of.
-
-(4)  The Magistrate must not make an order under section 64(4) until he is informed what order has been made under section 62(2) or 103(2).
-
-(5)  If the order under section 62(2) or 103(2) is for further proceedings on the request under consideration to be deferred until the other request, or the European arrest warrant has been disposed of, the Magistrate must remand the person in custody or on bail.
+(5)  If the order under section 62(2) is for further proceedings on the request under consideration to be deferred until the other request has been disposed of, the Magistrate must remand the person in custody or on bail.
 
 (6)  If the Magistrate remands the person in custody he may later grant bail.
 
 (7)  If-
 
-(a)  the order under section 62(2) or 103(2) is for further proceedings on the request under consideration to be deferred until the other request, or the European arrest warrant, has been disposed of; and
+(a)  the order under section 62(2) is for further proceedings on the request under consideration to be deferred until the other request has been disposed of; and
 
 (b)  an order is made under section 104 for proceedings on the request under consideration to be resumed, the period specified in section 64(4) must be taken to be 10 days starting with the day on which the order under section 104 is made.
 
-(8)  If the order under section 62(2) or 103(2) is for further proceedings on the other request, or the European arrest warrant, to be deferred until the request under consideration has been disposed of, the period specified in section 64(4) must be taken to be 10 days starting with the day on which the Magistrate is informed of the order.
+(8)  If the order under section 62(2) is for further proceedings on the other request to be deferred until the request under consideration has been disposed of, the period specified in section 64(4) must be taken to be 10 days starting with the day on which the Magistrate is informed of the order.
 
 Extradition following deferral for competing claim.
 
@@ -132,7 +128,7 @@ Extradition following deferral for competing claim.
 
 (a)  an order is made under section 64(4) for a person to be extradited to the Requesting State in pursuance of a request for his extradition;
 
-(b)  before the person is extradited to the Requesting State an order is made under section 62(2) or 103(2) for the person’s extradition in pursuance of the request to be deferred;
+(b)  before the person is extradited to the Requesting State an order is made under section 62(2) for the person’s extradition in pursuance of the request to be deferred;
 
 (c)  the Magistrate makes an order under section 105(2) for the person’s extradition in pursuance of the request to cease to be deferred.
 

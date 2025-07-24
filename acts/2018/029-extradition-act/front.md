@@ -6,7 +6,9 @@ Act. No. 2018-29 Notice of Commencement L.N 2019/010 (except for ss.79-85, 99(3)
 
 24.1.2019 Assent 20.12.2018
 
-Amending enactments Relevant current provisions Commencement date LN. 2019/017 ss.2(3)(b), 12(1)(a), 86(2), 123(1)(b), 123(1)(c) 31.1.2019 2020/521 ss.2(3)(b), 3(1), 67(4), (6) 1.1.2021 Act. 2022-09 ss. 17(1)(e), 19A, 109A, 110A-110B 20.10.2022 2025-03 s. 57(4) 11.7.20251
+Amending enactments Relevant current provisions Commencement date LN. 2019/017 ss.2(3)(b), 12(1)(a), 86(2), 123(1)(b), 123(1)(c) 31.1.2019 2020/521 ss.2(3)(b), 3(1), 67(4), (6) 1.1.2021 Act. 2022-09 ss. 17(1)(e), 19A, 109A, 110A-110B 20.10.2022 2025-03 s. 57(4) 11.7.20251 LN. 2025/158 ss. 3(1), 26(1), (3), 29(4)(b), 38(4)-(6), 56(1)(b), 67, 75(1), 79-85, 103, 110A, 114(3)(b), 115, Schs.1-2
+
+24.7.2025
 
 1 Notice of Commencement – LN.2025/146
 
@@ -34,9 +36,9 @@ Arrest
 
 The extradition hearing
 
-11. Date of extradition hearing: arrest under warrant. 12. Date of extradition hearing:  arrest under provisional warrant. 13. Magistrates’ power at extradition hearing. 14. Initial stages of extradition hearing. 15. Person charged with offence in Gibraltar. 16. Person serving sentence in Gibraltar. 17. Bars to extradition. 18. Rule against double jeopardy. 19. Extraneous considerations. 19A. Age. 20. Passage of time.
+11. Date of extradition hearing: arrest under warrant. 12. Date of extradition hearing:  arrest under provisional warrant. 13. Magistrates’ power at extradition hearing. 14. Initial stages of extradition hearing. 15. Person charged with offence in Gibraltar. 16. Person serving sentence in Gibraltar. 17. Bars to extradition. 18. Rule against double jeopardy. 19. Extraneous considerations. 19A. Age. 20. Passage of time. 21. Hostage-taking considerations.
 
-21. Hostage-taking considerations. 22. Case where person has not been convicted. 23. Case where person has been convicted. 24. Conviction in person’s absence. 25. Human rights. 26. Competing extradition claim. 27. Physical or mental condition. 28. Case sent to Central Authority.
+22. Case where person has not been convicted. 23. Case where person has been convicted. 24. Conviction in person’s absence. 25. Human rights. 26. Competing extradition claim. 27. Physical or mental condition. 28. Case sent to Central Authority.
 
 Central Authority’s functions
 
@@ -48,9 +50,7 @@ Appeals
 
 Time for extradition
 
-53. Extradition where no appeal. 54. Extradition following appeal. 55. Undertaking in relation to person serving sentence in Gibraltar.
-
-56. Extradition following deferral for competing claim. 57. Asylum claim.
+53. Extradition where no appeal. 54. Extradition following appeal. 55. Undertaking in relation to person serving sentence in Gibraltar. 56. Extradition following deferral for competing claim. 57. Asylum claim.
 
 Withdrawal of extradition request
 
@@ -66,7 +66,7 @@ Consent to extradition
 
 Post-extradition matters
 
-65. Consent to other offence being dealt with. 66. Consent to further extradition to Requesting State. 67. Consent to further extradition to a Member State under a European arrest warrant. 68. Return of the person to serve remainder of sentence. 69. Costs where extradition ordered. 70. Costs where discharge ordered.
+65. Consent to other offence being dealt with. 66. Consent to further extradition to Requesting State. 67. Deleted 68. Return of the person to serve remainder of sentence. 69. Costs where extradition ordered. 70. Costs where discharge ordered.
 
 Repatriation cases
 
@@ -84,11 +84,7 @@ Extradition from a State
 
 General
 
-76. Remission of punishment for other offences. 77. Return of person acquitted or not tried. 78. Restriction on bail where undertaking given by Central Authority.
-
-Extradition to Gibraltar from Member States of the European Union
-
-79. Issue of Part 3 warrant. 80. Undertaking in relation to person serving sentence. 81 Return to extraditing Member State to serve sentence. 82. Service of sentence in Member State executing Part 3 warrant. 83. Dealing with person for other offences. 84. Effect of consent to extradition to Gibraltar. 85. Extradition offences.
+76. Remission of punishment for other offences. 77. Return of person acquitted or not tried. 78. Restriction on bail where undertaking given by Central Authority. 79. to 85. Deleted
 
 Part 4 Police powers
 
@@ -116,7 +112,7 @@ Part 5 Miscellaneous
 
 Competing extradition claims
 
-103. Competing claims to extradition. 104. Proceedings on deferred warrant or request. 105. Proceedings were extradition deferred.
+103. Deleted 104. Proceedings on deferred warrant or request. 105. Proceedings were extradition deferred.
 
 Re-extradition
 
@@ -148,7 +144,7 @@ Consequential amendments
 
 Schedule 1
 
-List of conduct constituting extradition offence
+Deleted
 
 Schedule 2
 
