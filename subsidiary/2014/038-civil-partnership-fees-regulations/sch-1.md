@@ -1,6 +1,6 @@
 SCHEDULE Regulation 2
 
-PURPOSE FEE (£) REMARKS 1. Entry of Notice of Civil Partnership 59.00 Section 9 2. Issue of Registrar’s certificate 59.00 Section 10 3. Issue of Registrar’s Special Certificate 88.00 Section 11 4. Issue of Minister’s Special license 117.50 Section 12 5. Entering a caveat 59.00 Section 13 6. Civil Partnership before Registrar (ceremony and registration)
+PURPOSE FEE (£) REMARKS 1. Entry of Notice of Civil Partnership 61.00 Section 9 2. Issue of Registrar’s certificate 61.00 Section 10 3. Issue of Registrar’s Special Certificate 90.50 Section 11 4. Issue of Minister’s Special license 121.00 Section 12 5. Entering a caveat 61.00 Section 13 6. Civil Partnership before Registrar (ceremony and registration)
 
 (a)  in the Office of the Registrar
 
@@ -10,14 +10,14 @@ PURPOSE FEE (£) REMARKS 1. Entry of Notice of Civil Partnership 59.00 Section 9
 
 (ii) weekdays after normal office hours including weekends and public holidays
 
-176.50
+182.00
 
-176.50
+182.00
 
-293.50 Section 5 7. General search of the indices or any register of civil partnership per day or part thereof 52.00
+302.00 Section 5 7. General search of the indices or any register of civil partnership per day or part thereof 53.50
 
-8. Certified copy of any entry in a civil partnership register 35.00 9. Certified copy of an entry in a civil partnership register requested under Section 41(2)(b) of the Social Security (Insurance) Act 35.00
+8. Certified copy of any entry in a civil partnership register 36.00 9. Certified copy of an entry in a civil partnership register requested under Section 41(2)(b) of the Social Security (Insurance) Act 36.00
 
-10. Handling fee on an order for a copy or copies of an entry in a civil partnership register which is sent abroad through post 18.00
+10. Handling fee on an order for a copy or copies of an entry in a civil partnership register which is sent abroad through post 18.50
 
-11. Fee for changing the date of a civil partnership ceremony once it has been scheduled and paid for. 50.00
+11. Fee for changing the date of a civil partnership ceremony once it has been scheduled and paid for. 51.50
