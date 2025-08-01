@@ -6,7 +6,7 @@ LN.2013/109
 
 Commencement 1.9.2013
 
-Amending enactments Relevant current provisions Commencement date LN. 2017/126 r. 8(1) 1.8.2017 2025/047 rr. 3, 4A, 5(1)(b), 5A, 8(1)-(2), Sch. 1-3 14.4.2025
+Amending enactments Relevant current provisions Commencement date LN. 2017/126 r. 8(1) 1.8.2017 2025/047 rr. 3, 4A, 5(1)(b), 5A, 8(1)-(2), Sch. 1-3 14.4.2025 2025/205 r. 8(1)-(2) 1.8.2025
 
 ARRANGEMENT OF REGULATIONS
 
