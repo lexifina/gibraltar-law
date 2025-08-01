@@ -84,6 +84,8 @@ ENTITLEMENT OF VALUER TO FULL DISCLOSURE
 
 (a) is misleading, false or deceptive in a material particular; and
 
-(b) is a statement to which this paragraph applies, shall be guilty of an offence and liable on summary conviction to imprisonment for a term of 6 months or to a fine up to a maximum of level 5 on the standard scale or both.
+(b) is a statement to which this paragraph applies,
+
+shall be guilty of an offence and liable on summary conviction to imprisonment for a term of 6 months or to a fine up to a maximum of level 5 on the standard scale or both.
 
 13.  Paragraph 12 applies to any statement made (whether orally or in writing) to a person carrying out a valuation or making a report under Part I or II, being a statement which conveys or purports to convey any information or explanation which that person requires, or may require, under paragraph 11.

@@ -38,11 +38,11 @@ Summary of Share Capital and Shares: 1. Nominal Share Capital  ……...........
 
 ................. 11. There has been called up on each of .................Shares....................………… ……….
 
-.................
+................. 12. Total Amount of Calls received, including Payments on Applications and Allotments
 
-12. Total Amount of Calls received, including Payments on Applications and Allotments
+…….........
 
-……......... 13. Total Amount (if any) agreed to be considered as paid on ....................................................... which have been issued as fully paid up otherwise than in Cash.......................................
+13. Total Amount (if any) agreed to be considered as paid on ....................................................... which have been issued as fully paid up otherwise than in Cash.......................................
 
 .................
 
@@ -62,9 +62,7 @@ Name Address Email
 
 List of Persons holding Shares in
 
-LIMITED
-
-on the ………………..day of …………………………….. and of Persons who have held Shares therein at any time since the date of the Last Annual Return, or (in the case of the first Return) of the Incorporation of the Company, showing their
+LIMITED on the ………………..day of …………………………….. and of Persons who have held Shares therein at any time since the date of the Last Annual Return, or (in the case of the first Return) of the Incorporation of the Company, showing their
 
 Folio in
 
@@ -106,9 +104,17 @@ Limited
 
 at the date of the Annual Return
 
-Nation-
+The Present Fore Name or Names and Surname
 
-The Present Fore Name or Names and Surname Any former Fore Name or Names or Surname Nation ality ality of Origin Usual Residen -tial Address Business Occupation
+Any former Fore Name or Names or Surname
+
+Nation ality
+
+Nation- ality of Origin
+
+Usual Residen -tial Address
+
+Business Occupation
 
 Particulars of Secretaries of
 

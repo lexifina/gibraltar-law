@@ -178,9 +178,7 @@ Alternative accounting rules.
 
 (a) at a market value determined as at the date of their last valuation; or
 
-(b) at a value determined on a basis which appears to the directors to be appropriate in the circumstances of the company,
-
-but in the latter case particulars of the method of valuation adopted and of the reasons for adopting it must be disclosed in a note to the accounts.
+(b) at a value determined on a basis which appears to the directors to be appropriate in the circumstances of the company, but in the latter case particulars of the method of valuation adopted and of the reasons for adopting it must be disclosed in a note to the accounts.
 
 (4)  Deleted
 
