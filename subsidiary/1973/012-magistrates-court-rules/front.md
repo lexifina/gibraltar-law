@@ -6,7 +6,7 @@ LN.1973/12
 
 Commencement 9.2.1973
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2025/142 Sch. 1.8.2025
 
 ARRANGEMENT OF RULES
 
