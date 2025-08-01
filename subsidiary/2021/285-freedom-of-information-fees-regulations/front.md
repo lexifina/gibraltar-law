@@ -6,13 +6,7 @@ LN.2021/285
 
 Commencement 1.6.2021
 
-Amending enactments Relevant current provisions Commencement date
-
-LN. 2022/196
-
-rr. 3(1), 3(4)
-
-21.07.2022
+Amending enactments Relevant current provisions Commencement date LN. 2022/196 rr. 3(1), 3(4) 21.07.2022 2025/159 rr. 3(1), 3(4) 1.8.2025
 
 ARRANGEMENT OF REGULATIONS.
 
