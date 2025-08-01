@@ -6,9 +6,7 @@ LN.1986/076
 
 Commencement 11.8.1986
 
-Amending enactments Relevant current provisions Commencement date LN. 1989/034 rr. 2, 4(6), 4A, Sch. 2 1.10.1989
-
-_______________________
+Amending enactments Relevant current provisions Commencement date LN. 1989/034 rr. 2, 4(6), 4A, Sch. 2 1.10.1989 2025/201 r. 4A(1), (3) 1.8.2025
 
 ARRANGEMENT OF REGULATIONS
 
