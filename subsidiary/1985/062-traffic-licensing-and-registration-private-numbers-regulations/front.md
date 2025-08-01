@@ -6,7 +6,7 @@ LN.1985/062
 
 Commencement 16.5.1985
 
-Amending enactments Relevant current provisions Commencement date LN. 1997/096 rr. 2, 4, 6(1)-(2), (4). 2.10.1997 2003/085 r. 1. 14.8.2003 2005/052 rr. 5(1), (5), 6(2) 1.4.2005 2013/125 r. 3(c) 29.8.2013 2013/152 rr. 3(c), 5(1)-(2), (4)-(5), 8-9, Schs.1-3 31.10.2013 2024/212 rr. 1, 3(a)-(e), 4-5, 5A-5D, 6-9, Schs.1, 3 28.11.2024
+Amending enactments Relevant current provisions Commencement date LN. 1997/096 rr. 2, 4, 6(1)-(2), (4). 2.10.1997 2003/085 r. 1. 14.8.2003 2005/052 rr. 5(1), (5), 6(2) 1.4.2005 2013/125 r. 3(c) 29.8.2013 2013/152 rr. 3(c), 5(1)-(2), (4)-(5), 8-9, Schs.1-3 31.10.2013 2024/212 rr. 1, 3(a)-(e), 4-5, 5A-5D, 6-9, Schs.1, 3 28.11.2024 2025/204 rr. 5B(1), 5D(2) 1.8.2025
 
 ARRANGEMENT OF REGULATIONS
 
