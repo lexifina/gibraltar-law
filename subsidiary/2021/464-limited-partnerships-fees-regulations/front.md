@@ -6,7 +6,7 @@ LN.2021/464
 
 Commencement 25.11.2021
 
-_______________________
+Amending enactments Relevant current provisions Commencement date 2025/212 Sch. 1.8.2025
 
 ARRANGEMENT OF REGULATIONS.
 
