@@ -14,7 +14,7 @@ Amending enactments Relevant current Provisions Commencement date LN. 1988/026 r
 
 20.3.2014 2016/079 Sch. 5 1.5.2016 2017/098 rr. 2-3, 4(2), 7A, 13(2)-(5), 13B-13C, 28(2)-(5), 36, 37(5)-(9), 45(c)-(e), 47, Schs. 3, 7 & 8
 
-20.5.2018 2023/077 r. 44(2)-(3) 30.3.2023
+20.5.2018 2023/077 r. 44(2)-(3) 30.3.2023 2025/203 Sch. 5 1.8.2025
 
 EU Legislation/International Agreements involved: Directive 2009/40/EC Directive 2014/45/EU
 
@@ -56,9 +56,9 @@ Fees.
 
 Offences.
 
-44. Using a vehicle in breach of regulations. 45. Other offences.
+44. Using a vehicle in breach of regulations.
 
-46. Saving. 47. Contact point and cooperation.
+45. Other offences. 46. Saving. 47. Contact point and cooperation.
 
 SCHEDULE 1. Class of vehicles to which the regulations do not apply.
 
