@@ -16,18 +16,12 @@ Signature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 2. Prescribed fee.
 
-The fee prescribed for the issuing of a permit under regulation 9(5) is £42.50.
+The fee prescribed for the issuing of a permit under regulation 9(5) is £44.00.
 
 3. Form of Permit for additional opening hours.
 
 Additional opening hours. In exercise of my powers under section 9 (5) of the Shop (Days and Times of Opening) Regulations 1990 I permit the . . . . . . . . . . . . . . . . . . . . . . . . . . . situated at . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . to be open on the following additional days— . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . during the following additional hours . . . . . . . . . . . . . . . . . . . . . . during the following days of the week . . . . . . . . . . . . . . . . . . . . .
 
 This permit expires on the . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-Shop Hours SHOPS (DAYS AND TIMES OF OPENING) REGULATIONS, 1990
-
-1922-05
-
-Subsidiary 1990/162
 
 Commissioner of Police.
