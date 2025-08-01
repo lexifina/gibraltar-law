@@ -28,12 +28,12 @@ SCHEDULE 1 Rule 7
 
 2.  The evidence which must be provided for the purposes of rules 7(2)(c)(ii), 8, 9, 10 and 11 to establish the formation of the civil partnership, is a certified copy of the entry in the Register made on the formation of the civil partnership. SCHEDULE 2
 
-PURPOSE FEE (£) REMARKS 1. Certified copy of any entry in the conversion register 18.00 Rule 6(2) 2. Standard procedure conversion 117.50 Rule 7(2) (d) 3. Procedure for housebound persons 116.50 Rule 8(3)(e) 4. Procedure for detained persons 138.00 Rule 9(3)(e) 5. Special Procedure 17.50 Rule 10(2)(c) 6. Conversion at approved premises:
+PURPOSE FEE (£) REMARKS 1. Certified copy of any entry in the conversion register 18.50 Rule 6(2) 2. Standard procedure conversion 121.00 Rule 7(2) (d) 3. Procedure for housebound persons 120.00 Rule 8(3)(e) 4. Procedure for detained persons 142.00 Rule 9(3)(e) 5. Special Procedure 18.00 Rule 10(2)(c) 6. Conversion at approved premises:
 
 (i) during normal working hours
 
 (ii) outside normal working hours
 
-176.50
+182.00
 
-293.50 Rule 12(2) 7. General search of indexes of the conversion register 52.00 Rule 15(2) 8. Fee for changing the date of a conversion after it has been scheduled and paid for. 50.00
+302.00 Rule 12(2) 7. General search of indexes of the conversion register 53.50 Rule 15(2) 8. Fee for changing the date of a conversion after it has been scheduled and paid for. 51.50
