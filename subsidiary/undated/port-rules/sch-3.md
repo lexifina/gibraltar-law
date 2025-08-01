@@ -198,61 +198,25 @@ A vessel shall be deemed to be berthed until the last mooring rope is cast off.
 
 Length of Boat
 
-Yearly Rate
+Yearly Rate Up to 15 feet £24.50 Over 15 feet but not exceeding 20 feet £48.50 Over 20 feet but not exceeding 25 feet £96.50 Over 25 feet but not exceeding 30 feet £145.00 Over 30 feet but not exceeding 40 feet £241.50 Over 40 feet but not exceeding 50 feet
 
-Up to 15 feet £23.50
+£386.50 Over 50 feet £579.00
 
-Over 15 feet but not exceeding 20 feet £47.00
+7.  Boat, Licensed Bunker Barge and Pontoon Licences for use within the Port.
 
-Over 20 feet but not exceeding 25 feet £93.50
+The following fees are payable annually in advance on January each year-
 
-Over 25 feet but not exceeding 30 feet £140.50
+For a motor boat or launch £60.50 For a licenced bunker barge-
 
-Over 30 feet but not exceeding 40 feet £234.50 Over 40 fee but not exceeding 50 feet
+(i)  0……3,000grt £6,180.00
 
-£375.00
+(ii)  3,001……5,000grt £12,360.00
 
-Over 50 feet £562.00
+(iii)  5,001……7,500grt £15,450.00
 
-7.  Boat, Licensed Bunker Barge and Pontoon licences for use within the Port.
+(iv)  7,501grt onwards £18,540.00 For a pontoon of any description £12.00 For a pleasure boat over 10 feet in length (excluding surfboards and sailboats) £30.50
 
-The following fees are payable annually in advance on 1 January each year
-
-For a motor boat or launch
-
-£58.50
-
-For a Licensed Bunker Barge-
-
-(i) 0........3,000   grt £6,000.00 (ii) 3,001......5,000  grt £12,000.00 (iii) 5,001........7,500  grt £15,000.00 (iv) 7,501 grt onwards £18,000.00
-
-For a Pontoon of any description
-
-£11.50
-
-For a Pleasure boat over 10 feet in length
-
-(excluding surfboards and sailboats)
-
-£29.50
-
-For Jet Skis
-
-£11.50
-
-For a workboat under 50 tons gross
-
-£293.00
-
-For a workboat over 50 tons gross
-
-£1,171.50
-
-For a pilot launch used only for embarking and        Free
-
-disembarking by pilots and running ships
-
-mooring lines.
+For jet skis £12.00 For a workboat under 50 tons gross £302.00 For a workboat over 50 tons gross £1206.50 For a pilot launch used only for embarking and disembarking by pilots and running ships mooring lanes. Free
 
 8.  Guards.
 
@@ -260,61 +224,47 @@ The following charges shall be payable for the services of guards supplied by th
 
 Per guard per hour or part thereof
 
-£17.50
+£18.00
 
-9.  Hire.
+9. Hire.
 
-The following hire charges shall be payable
+The following hire charges shall be payable-
 
 (a) Port Launch
 
-Weekdays (excluding public holidays) between 8.00 am and 5.00 pm
+Weekdays (excluding public holidays) between 8.00am and 5.00pm £133.00 per hour Weekdays (excluding public holidays) between 5.00 pm and 8.00 am £265.00 per hour Weekends and public holidays £265.00 per hour (b)  floating fender For the first 30 days hire
 
-£129 per hour Weekdays (excluding public holidays) between 5.00 pm and 8.00 am
+£36.00 per day or part of a day Thereafter £18.00 per day or part thereof (c)  Safety berth For the first 24 hours
 
-£257.50 per hour
+Free Thereafter £100.00 per day or part thereof
 
-Weekends and public holidays
-
-£257.50 per hour
-
-(b) Floating fender
-
-For the first 30 days hire
-
-£35 per day or part of a day
-
-Thereafter £17.50 per day or part thereof
-
-9A. Charges for Port Operations.
+9A. Charges for port operations.
 
 (a)  Registration as Port employer for an entity first registered after 3 May 2001
 
-£1,171.50 (b)  Annual re-registration as a Port employer.
+£1,207.00 (b)  Annual re-registration as a Port employer £120.50 (c)  Annual fee for a-
 
-£117.00 (c) Annual Fee for a-
-
-(i) Bunkering Licence (renewal) £60,000.00 (ii) Stevedoring Licence £3,514.00 (iii) Ship Repair Licence £1,171.50 (iv) Ship Agency Licence £1,171.50 (v) Ship Chandlery Licence £1,171.50 (vi) Tug Operator Licence (renewal)
-
-£60,000.00 (vii) Service Craft Operator Licence £1,171.50 (viii) Waste Operator Licence £1,171.50 (ix) Commercial Diving Licence £1,171.50 (x) Dock Work Licence £1,171.50 (xi) Ancillary Licence £293.00 (xii) Any other commercial or Industrial Licence £1,171.50 (xiii) LNG licence (renewal) £60,000.00
+(i)  Bunkering Licence (renewal) £61,800.00 (ii)  Stevedoring Licence £3,619.50 (iii)  Ship Repair Licence £1,207.00 (iv)  Ship Agency Licence £1,207.00 (v)  Ship Chandlery Licence £1,207.00 (vi)  Tug Operator Licence (renewal) £61,800.00 (vii)  Service Craft Operator Licence £1,207.00 (viii)  Waste Operator Licence £1,207.00 (ix)  Commercial Diving Licence £1,207.00 (x)  Dock Work Licence £1,207.00 (xi)  Ancillary Licence £302.00 (xii)  Any other commercial or Industrial Licence £1,207.00 (xiii)  LNG Licence (Renewal) £61,800.00
 
 Part 2
 
 Fees for registration and re-registration of port workers:
 
-1. Annual fee for registration of a port worker £2.50 2. Annual fee for re-registration of a port worker £2.50
+1. Annual fee for registration of a port worker £3.00 2. Annual fee for re-registration of a port worker £3.00
 
 Part 3
 
 Fees for certificates and licences:
 
-1. Fees for the issue or renewal of a certificate of registration as a port operator £6.00 2. Fees for the issue or renewal of a certificate of registration as a port worker £6.00 3. Fee for the issue of a duplicate certificate £6.00 4. Fee for the endorsement of a certificate of registration £6.00 5. Fee for the amendment of a certificate of registration £6.00
+1. Fees for the issue or renewal of a certificate of registration as a port operator
 
-Part 4
+£6.50 2. Fees for the issue or renewal of a certificate of registration as a port worker
 
-Fees for inspection and copies:
+£6.50 3. Fee for the issue of a duplicate certificate £6.50 4. Fee for the endorsement of a certificate of registration £6.50 5. Fee for the amendment of a certificate of registration £6.50
 
-1. Fee for inspection of a licence £11.50 2. Fee for a certified copy of a licence or certificate £6.00 3. Fee for inspection of an application £6.00 4. Fee for a copy of an application £6.00
+Part 4 Fees for inspection and copies: 1.  Fee for inspection of a licence £12.00 2.  Fee for a certified copy of a licence or certificate £6.50
+
+3.  Fee for inspection of an application £6.50 4.  Fee for a copy of an application £6.50
 
 10.  Bunkering charges.
 
@@ -354,35 +304,17 @@ Under a Green Initiative Scheme, there will be a discount of 50% applied at the 
 
 11.  Miscellaneous charges.
 
-Overland containers unloading at Port
+Overland containers unloading at Port £60.50 Issue of what is commonly known as a Suez Canal Certificate £500.00 Pratique certificates for yachts £500.00 Issue of harbour craft passenger certificates £121.00 Petroleum Licence £1,257.00 Pleasure boat licence £24.50 Issue of a duplicate pleasure boat licence £12.00 Amendment of a pleasure boat licence £6.50 Any other certificate £121.00
 
-£58.50 Issue of what is commonly known as a Suez Canal Certificate
-
-£500.00 Pratique certificates for Yachts
-
-£500.00 Issue of harbour craft passenger certificates
-
-£117.00 Petroleum Licence
-
-£1,220.00 Pleasure boat licence
-
-£23.50 Issue of a duplicate pleasure boat licence
-
-£11.50 Amendment of a pleasure boat licence
-
-£6.00 Any other certificate
-
-£117.00 Admin fee for incomplete Annex II waste form
-
-£234.50.
+Admin fee for incomplete Annex II waste form £242.00 Temporary fast launch licence £121.00
 
 12.  Space for storage.
 
-A person who wishes to use any space for the storage of oil drums or anything else within the confines of the Port at a location approved by the Captain of the Port shall be liable to pay a fee @ £3.00 per sq.ft.
+A person who wishes to use any space for the storage of oil drums or anything else within the confines of the Port at a location approved by the Captain of the Port shall be liable to pay a fee @ £3.50 per sq.ft.
 
 13.  Portacabins.
 
-An operator wishing to have a portacabin shall be liable to pay a fee @ £3.00 per sq. ft.
+An operator wishing to have a portacabin shall be liable to pay a fee @ £3.50 per sq. ft.
 
 14. Super Yacht Tariff Card
 
