@@ -6,7 +6,7 @@ LN.1994/110
 
 Commencement 13.10.1994
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN. 2025/140 Sch. 4 1.8.2025
 
 ARRANGEMENT OF RULES
 
