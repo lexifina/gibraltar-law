@@ -6,7 +6,7 @@ LN.2011/080
 
 Commencement 9.6.2011
 
-Amending enactments Relevant current provisions Commencement date LN. 2022/270 r. 11(1), (3) 8.9.2022 2023/240 r. 11(3) 1.8.2023 2024/148 r. 11(3), Schs. 1-2 1.8.2024
+Amending enactments Relevant current provisions Commencement date LN. 2022/270 r. 11(1), (3) 8.9.2022 2023/240 r. 11(3) 1.8.2023 2024/148 r. 11(3), Schs. 1-2 1.8.2024 2025/197 r. 11(3) 1.8.2025
 
 ARRANGEMENT OF RULES
 
