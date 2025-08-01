@@ -6,7 +6,7 @@ LN.2024/113
 
 Commencement 1.8.2024
 
-Amending enactments Relevant current provisions Commencement date LN.2024/167 r. 3, 3A 5.9.2024
+Amending enactments Relevant current provisions Commencement date LN.2024/167 r. 3, 3A 5.9.2024 2025/189 r. 3 1.8.2025
 
 ARRANGEMENT OF REGULATIONS
 
