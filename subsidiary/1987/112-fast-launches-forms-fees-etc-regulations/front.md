@@ -6,7 +6,7 @@ LN.1987/112
 
 Commencement 16.7.1987
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2025/187 r. 3(a), (c) 1.8.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -32,9 +32,9 @@ Fees.
 
 (a) application for a licence including the issue of a licence and survey
 
-£50 per annum (b) the issue of a visitor's permit under section 8
+£54.50 per annum (b) the issue of a visitor's permit under section 8
 
-£ nil (c) approval of modification of engines under section 16. £10
+£ nil (c) approval of modification of engines under section 16. £11
 
 Amendment of Port Rules.
 
