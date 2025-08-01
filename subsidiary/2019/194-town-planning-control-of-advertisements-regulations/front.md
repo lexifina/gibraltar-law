@@ -6,7 +6,7 @@ LN.2019/194
 
 Commencement 26.9.2019
 
-Amending enactments Relevant current provisions Commencement date LN.2020/388 r. 4(i) 5.11.2020 2022/271 Sch. 8.9.2022 2023/241 Sch. 1.8.2023 2024/147 Sch. 1.8.2024
+Amending enactments Relevant current provisions Commencement date LN.2020/388 r. 4(i) 5.11.2020 2022/271 Sch. 8.9.2022 2023/241 Sch. 1.8.2023 2024/147 Sch. 1.8.2024 2025/195 Sch. 1.8.2025
 
 ARRANGEMENT OF REGULATIONS.
 
