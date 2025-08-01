@@ -6,7 +6,7 @@ LN.1980/027
 
 Commencement 1.6.1980
 
-Amending enactments Relevant current provisions Commencement date LN. 1988/092 r. 4, Sch. 2 5-9-1988
+Amending enactments Relevant current provisions Commencement date LN. 1988/092 r. 4, Sch. 2 5-9-1988 2025/143 Sch. 2 1.8.2025
 
 ARRANGEMENT OF RULES
 
