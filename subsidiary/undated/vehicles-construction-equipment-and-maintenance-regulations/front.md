@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/005 r
 
 LN. 2018/254 r. 27B 9.11.2018 2022.335 r. 3A 22.12.2022 2023/011 rr. 2, 64A, 65(1)(ii)-(vi), 66(i)-(iii), 70(1)(b), (c)(ii), (d), 74(1), 75(2)
 
-26.1.2023
+26.1.2023 2025/207 r. 92(2), Sch.7 1.8.2025
 
 Transposing: Directive 89/459/EEC Directive 92/6/EEC Directive 96/53/EC Directive 2007/38/EC Directive (EU) 2015/719
 

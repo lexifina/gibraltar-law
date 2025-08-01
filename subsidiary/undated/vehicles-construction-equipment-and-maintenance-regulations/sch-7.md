@@ -40,8 +40,8 @@ nil
 
 On the issue of a duplicate certificate
 
-£10
+£10.50
 
 On the issue of an amended certificate
 
-£10
+£10.50
