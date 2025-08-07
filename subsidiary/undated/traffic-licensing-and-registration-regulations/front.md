@@ -28,7 +28,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/046 r
 
 28.11.2024 2025/046 rr. 16A, 16AZ, 16AC, 16AD(1)-(7), 16AZ, 16C(1), (4), Sch.3A-3E 13.2.2025 2025/063 r. 96D(14) 13.3.2025 2025/046 r. 84B(1) 14.4.2025 2025/202 rr. 16C(2)(c), (3), 33(a)-(b), 84A(4), 96(2), 96F(2), 96H(2), Sch.2
 
-1.8.2025
+1.8.2025 2025/216 rr. 96D(4), 96G(2) 7.8.2025
 
 Transposing:
 
