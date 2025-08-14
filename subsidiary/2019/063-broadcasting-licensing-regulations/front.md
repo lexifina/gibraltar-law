@@ -6,7 +6,7 @@ LN.2019/063
 
 Commencement 28.3.2019
 
-Amending enactments Relevant current provisions Commencement date LN.2025/062 Schs.1-3 6.3.2025
+Amending enactments Relevant current provisions Commencement date LN.2025/062 Schs.1-3 6.3.2025 2025/219 Schs.1-3 14.8.2025
 
 ARRANGEMENT OF REGULATIONS
 

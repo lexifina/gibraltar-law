@@ -8,6 +8,6 @@ Fee
 
 Audio Media Service
 
-£ 512.50 Audiovisual Media Service
+£ 528.00 Audiovisual Media Service
 
-£ 1,025.00
+£ 1,056.00
