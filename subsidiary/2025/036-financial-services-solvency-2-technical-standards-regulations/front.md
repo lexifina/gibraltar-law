@@ -8,7 +8,9 @@ Commencement 31.1.2025
 
 Amending enactments Relevant current provisions Commencement date LN.2025/074 Annex – Arts.57-61, 71(3)-(4), (7)-(10), (12), (14), 73(1)(a)-(d), (6)-(7), 77(6)-(7), 222-247, Sch.18
 
-3.4.2025
+3.4.2025 2025/221 Annex – Arts.62-67, 71(12), (14)-(17), 73(6)-(10), 77(6)-(10),, 79, 82(4), 91(a), 144(3), 148A, 218(1), (1A)-(1C), 252(11), (c), 272(1), 274(6), 328, 330(1)- (2), 331(1), (3), 332(1), 333(1), (3), 334(2), 338(1), (1A)-(1C), 376(3), Sch.27
+
+14.8.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -110,11 +112,11 @@ CHAPTER 4 OWN FUNDS
 
 Determination of own funds
 
-62. Assessment of the application. 63. Assessment of the application: status of the counterparties. 64. Assessment of the application: recoverability of the funds. 65. Assessment of the application: information on the outcome of past calls. 66. Specification of amount relating to an unlimited amount of ancillary own funds. 67. Specification of amount and timing relating to the approval of a method. 68. Treatment of participations in the determination of basic own funds.
+62. to 67. Omitted 68. Treatment of participations in the determination of basic own funds.
 
 Classification of own funds
 
-69. Tier 1: list of own funds items 70. Reconciliation reserve. 71. Tier 1: features determining classification. 72. Tier 2 basic own funds: list of own funds items. 73. Tier 2 basic own funds: features determining classification. 74. Tier 2 ancillary own funds: list of own funds items. 75. Tier 2 ancillary own funds: features determining classification. 76. Tier 3 basic own funds: list of own funds items. 77. Tier 3 basic own funds: features determining classification. 78. Tier 3 ancillary own funds: list of own funds items. 79. GFSC approval of the assessment and classification of own funds items.
+69. Tier 1: list of own funds items 70. Reconciliation reserve. 71. Tier 1: features determining classification. 72. Tier 2 basic own funds: list of own funds items. 73. Tier 2 basic own funds: features determining classification. 74. Tier 2 ancillary own funds: list of own funds items. 75. Tier 2 ancillary own funds: features determining classification. 76. Tier 3 basic own funds: list of own funds items. 77. Tier 3 basic own funds: features determining classification. 78. Tier 3 ancillary own funds: list of own funds items. 79. Omitted
 
 Eligibility of own funds
 
@@ -128,11 +130,11 @@ Preliminary
 
 Proportionality and simplifications
 
-88. Proportionality. 89. General provisions for simplifications for captives.
+88. Proportionality. 89. General provisions for simplifications for captives. 90. Simplified calculation for captives of the capital requirement for non-life premium and reserve risk. 90A. Simplified calculation for discontinuance of policies in the non-life lapse risk sub- module. 90B. Simplified calculation of the sum insured for natural catastrophe risks. 90C. Simplified calculation of the capital requirement for fire risk.
 
-90. Simplified calculation for captives of the capital requirement for non-life premium and reserve risk. 90A. Simplified calculation for discontinuance of policies in the non-life lapse risk sub- module. 90B. Simplified calculation of the sum insured for natural catastrophe risks. 90C. Simplified calculation of the capital requirement for fire risk. 91. Simplified calculation of the capital requirement for life mortality risk. 92. Simplified calculation of the capital requirement for life longevity risk. 93. Simplified calculation of the capital requirement for life disability-morbidity risk. 94. Simplified calculation of the capital requirement for life-expense risk. 95. Simplified calculation of the capital requirement for permanent changes in lapse rates. 95a. Simplified calculation of the capital requirement for risks in the life lapse risk sub- module. 96. Simplified calculation of the capital requirement for life-catastrophe risk. 96A. Simplified calculation for discontinuance of insurance policies in the NSLT health lapse risk sub-module. 97. Simplified calculation of the capital requirement for health mortality risk. 98. Simplified calculation of the capital requirement for health longevity risk. 99. Simplified calculation of the capital requirement for medical expense disability- morbidity risk. 100. Simplified calculation of the capital requirement for income protection disability- morbidity risk. 101. Simplified calculation of the capital requirement for health expense risk. 102. Simplified calculation of the capital requirement for SLT health lapse risk. 102A. Simplified calculation of the capital requirement for risks in the SLT health lapse risk sub-module. 103. Simplified calculation of the capital requirement for interest rate risk for captives. 104. Simplified calculation for spread risk on bonds and loans. 105. Simplified calculation for captives of the capital requirement for spread risk on bonds and loans. 105A. Simplified calculation for the risk factor in the spread risk sub-module and the market risk concentration sub-module. 106. Simplified calculation of the capital requirement for market risk concentration for captive insurance or reinsurance undertakings. 107. Simplified calculation of the risk mitigating effect for reinsurance arrangements or securitisation. 108. Simplified calculation of the risk mitigating effect for proportional reinsurance arrangements. 109. Simplified calculations for pooling arrangements. 110. Simplified calculation: grouping of single name exposures. 111. Simplified calculation of the risk mitigating effect.
+91. Simplified calculation of the capital requirement for life mortality risk. 92. Simplified calculation of the capital requirement for life longevity risk. 93. Simplified calculation of the capital requirement for life disability-morbidity risk. 94. Simplified calculation of the capital requirement for life-expense risk. 95. Simplified calculation of the capital requirement for permanent changes in lapse rates. 95a. Simplified calculation of the capital requirement for risks in the life lapse risk sub- module. 96. Simplified calculation of the capital requirement for life-catastrophe risk. 96A. Simplified calculation for discontinuance of insurance policies in the NSLT health lapse risk sub-module. 97. Simplified calculation of the capital requirement for health mortality risk. 98. Simplified calculation of the capital requirement for health longevity risk. 99. Simplified calculation of the capital requirement for medical expense disability- morbidity risk. 100. Simplified calculation of the capital requirement for income protection disability- morbidity risk. 101. Simplified calculation of the capital requirement for health expense risk. 102. Simplified calculation of the capital requirement for SLT health lapse risk. 102A. Simplified calculation of the capital requirement for risks in the SLT health lapse risk sub-module. 103. Simplified calculation of the capital requirement for interest rate risk for captives. 104. Simplified calculation for spread risk on bonds and loans. 105. Simplified calculation for captives of the capital requirement for spread risk on bonds and loans. 105A. Simplified calculation for the risk factor in the spread risk sub-module and the market risk concentration sub-module. 106. Simplified calculation of the capital requirement for market risk concentration for captive insurance or reinsurance undertakings. 107. Simplified calculation of the risk mitigating effect for reinsurance arrangements or securitisation. 108. Simplified calculation of the risk mitigating effect for proportional reinsurance arrangements. 109. Simplified calculations for pooling arrangements. 110. Simplified calculation: grouping of single name exposures. 111. Simplified calculation of the risk mitigating effect. 111A. Simplified calculation of the risk-mitigating effect on underwriting risk. 112. Simplified calculation of the risk adjusted value of collateral to take into account the economic effect of the collateral. 112A. Simplified calculation of the loss-given-default for reinsurance. 112B. Simplified calculation of the capital requirement for counterparty default risk on type 1 exposures.
 
-111A. Simplified calculation of the risk-mitigating effect on underwriting risk. 112. Simplified calculation of the risk adjusted value of collateral to take into account the economic effect of the collateral. 112A. Simplified calculation of the loss-given-default for reinsurance. 112B. Simplified calculation of the capital requirement for counterparty default risk on type 1 exposures. 113. [Not used]
+113. [Not used]
 
 Non-life underwriting risk module
 
@@ -140,13 +142,13 @@ Non-life underwriting risk module
 
 Life underwriting risk module
 
-136. [Not used] 137. Life mortality risk sub-module. 138. Life longevity risk sub-module. 139. Life disability-morbidity risk sub-module. 140. Life expense risk sub-module. 141. Life revision risk sub-module.
-
-142. Life lapse risk sub-module. 143. Life-catastrophe risk sub-module.
+136. [Not used] 137. Life mortality risk sub-module. 138. Life longevity risk sub-module. 139. Life disability-morbidity risk sub-module. 140. Life expense risk sub-module. 141. Life revision risk sub-module. 142. Life lapse risk sub-module. 143. Life-catastrophe risk sub-module.
 
 Health underwriting risk module
 
-144. Health underwriting risk module. 145. NSLT health underwriting risk sub-module. 146. NSLT health premium and reserve risk sub-module. 147. Volume measure for NSLT health premium and reserve risk. 147A. Segmentation of NSLT health insurance obligations and NSLT health reinsurance obligations and standard deviations for the NSLT health premium and reserve risk sub- module. 148. Standard deviation for NSLT health premium and reserve risk. 148A. Correlation matrix for NSLT health premium and reserve risk. 149. [Not used] 150. NSLT health lapse risk sub-module. 151. SLT health underwriting risk sub-module. 152. Health mortality risk sub-module. 153. Health longevity risk sub-module. 154. Health disability-morbidity risk sub-module. 155. Capital requirement for medical expense disability-morbidity risk. 156. Capital requirement for income protection disability-morbidity risk. 157. Health expense risk sub-module. 158. Health revision risk sub-module. 159. SLT health lapse risk sub-module. 160. Health catastrophe risk sub-module. 161. Mass accident risk sub-module. 162. Accident concentration risk sub-module. 163. Pandemic risk sub-module.
+144. Health underwriting risk module.
+
+145. NSLT health underwriting risk sub-module. 146. NSLT health premium and reserve risk sub-module. 147. Volume measure for NSLT health premium and reserve risk. 147A. Segmentation of NSLT health insurance obligations and NSLT health reinsurance obligations and standard deviations for the NSLT health premium and reserve risk sub- module. 148. Standard deviation for NSLT health premium and reserve risk. 148A. Correlation matrix for NSLT health premium and reserve risk. 149. [Not used] 150. NSLT health lapse risk sub-module. 151. SLT health underwriting risk sub-module. 152. Health mortality risk sub-module. 153. Health longevity risk sub-module. 154. Health disability-morbidity risk sub-module. 155. Capital requirement for medical expense disability-morbidity risk. 156. Capital requirement for income protection disability-morbidity risk. 157. Health expense risk sub-module. 158. Health revision risk sub-module. 159. SLT health lapse risk sub-module. 160. Health catastrophe risk sub-module. 161. Mass accident risk sub-module. 162. Accident concentration risk sub-module. 163. Pandemic risk sub-module.
 
 Market risk module
 
@@ -158,7 +160,9 @@ Interest rate risk sub-module
 
 Equity risk sub-module
 
-168. General provisions. 168A.  Qualifying unlisted equity portfolios. 169. Standard equity risk sub-module. 170. [Not used] 171. Strategic equity investments. 171A. Long-term equity investments. 172. Symmetric adjustment of the equity capital charge. 173. [Not used] 173A. Calculation of the equity index. 173B. Equity indices.
+168. General provisions. 168A.  Qualifying unlisted equity portfolios. 169. Standard equity risk sub-module.
+
+170. [Not used] 171. Strategic equity investments. 171A. Long-term equity investments. 172. Symmetric adjustment of the equity capital charge. 173. [Not used] 173A. Calculation of the equity index. 173B. Equity indices.
 
 Property risk sub-module
 
@@ -174,7 +178,9 @@ Market risk concentrations sub-module
 
 Currency risk sub-module
 
-188. Currency risk sub-module. 188A. Adjusted factors for currency risk where local or foreign currency is the euro. 188B. Adjusted factors for currency risk where local and foreign currency are pegged to the euro. Counterparty default risk module
+188. Currency risk sub-module. 188A. Adjusted factors for currency risk where local or foreign currency is the euro.
+
+188B. Adjusted factors for currency risk where local and foreign currency are pegged to the euro. Counterparty default risk module
 
 189. [Not used] 190. Single name exposures. 191. Mortgage loans. 192. Loss-given-default. 192A. Exposure to clearing members. 193. Loss-given-default for pool exposures of type A. 194. Loss-given-default for pool exposures of type B. 195. Loss-given-default for pool exposures of type C. 196. Risk-mitigating effect. 197. Risk-adjusted value of collateral. 198. Risk-adjusted value of mortgage.
 
@@ -192,9 +198,9 @@ Intangible asset module
 
 Risk mitigation techniques
 
-208. Methods and assumptions. 209. Qualitative criteria. 210. Effective transfer of risk.
+208. Methods and assumptions. 209. Qualitative criteria. 210. Effective transfer of risk. 210A. Material basis risk. 211. Risk-mitigation techniques using reinsurance contracts or special purpose vehicles. 212. Financial risk-mitigation techniques. 213. Status of the counterparties. 214. Collateral arrangements.
 
-210A. Material basis risk. 211. Risk-mitigation techniques using reinsurance contracts or special purpose vehicles. 212. Financial risk-mitigation techniques. 213. Status of the counterparties. 214. Collateral arrangements. 215. Guarantees.
+215. Guarantees.
 
 Ring fenced funds
 
@@ -214,9 +220,7 @@ CHAPTER 7 MINIMUM CAPITAL REQUIREMENT
 
 CHAPTER 8 INVESTMENTS IN SECURITISATION POSITIONS
 
-254. to 256. [Not used]
-
-257. Requirements for investments in securitisation that no longer comply with the risk- retention and qualitative requirements.
+254. to 256. [Not used] 257. Requirements for investments in securitisation that no longer comply with the risk- retention and qualitative requirements.
 
 CHAPTER 9 SYSTEM OF GOVERNANCE
 
@@ -232,9 +236,7 @@ CHAPTER 10 CAPITAL ADD-ON
 
 Circumstances for imposing a capital add-on
 
-276. Assessment of a significant deviation as regards the SCR. 277. Assessment of a significant deviation as regards the governance. 278. Assessment of a significant deviation as regards adjustments to the relevant risk-free rate and transitional measures.
-
-279. Add-ons in relation to deviations from Solvency Capital Requirement assumptions. 280. Assessment of the requirement to use an internal model. 281. Appropriate timeframe for adapting the internal model.
+276. Assessment of a significant deviation as regards the SCR. 277. Assessment of a significant deviation as regards the governance. 278. Assessment of a significant deviation as regards adjustments to the relevant risk-free rate and transitional measures. 279. Add-ons in relation to deviations from Solvency Capital Requirement assumptions. 280. Assessment of the requirement to use an internal model. 281. Appropriate timeframe for adapting the internal model.
 
 Methodologies for calculating capital add-ons
 
@@ -282,13 +284,13 @@ CHAPTER 1 SOLVENCY CALCULATION AT GROUP LEVEL
 
 Group solvency: choice of calculation method and general principles
 
-328. Choice of method. 329. [Not used] 330. Availability at group level of the eligible own funds of related undertakings.
+328. Omitted 329. [Not used] 330. Availability at group level of the eligible own funds of related undertakings.
 
 Group solvency: calculation methods
 
-330A. Interpretation of Articles 330 to 340. 331. Classification of own funds items of related insurance and reinsurance undertakings at group level. 332. Classification of own funds items of related third-country insurance or reinsurance undertakings at group level.
+330A. Interpretation of Articles 330 to 340. 331. Classification of own funds items of related insurance and reinsurance undertakings at group level. 332. Classification of own funds items of related third-country insurance or reinsurance undertakings at group level. 333. Classification of own funds items of insurance holding companies, mixed financial holding companies, and subsidiary ancillary services undertakings at group level. 334. Classification of own funds items of residual related undertakings. 335. Method 1: determination of consolidated data. 336. Method 1: calculation of the consolidated group Solvency Capital Requirement.
 
-333. Classification of own funds items of insurance holding companies, mixed financial holding companies, and subsidiary ancillary services undertakings at group level. 334. Classification of own funds items of residual related undertakings. 335. Method 1: determination of consolidated data. 336. Method 1: calculation of the consolidated group Solvency Capital Requirement. 337. Method 1: determination of the local currency for the purposes of the currency risk calculation. 338. Method 1: group-specific parameters. 339. Method 1: best estimate. 340. Method 1: risk margin. 341. to 342. [Not used]
+337. Method 1: determination of the local currency for the purposes of the currency risk calculation. 338. Method 1: group-specific parameters. 339. Method 1: best estimate. 340. Method 1: risk margin. 341. to 342. [Not used]
 
 CHAPTER 2 INTERNAL MODELS FOR THE CALCULATION OF THE CONSOLIDATED GROUP SOLVENCY CAPITAL REQUIREMENT
 
@@ -354,9 +356,7 @@ SCHEDULE 11 LIABILITY RISK GROUPS, RISK FACTORS AND CORRELATION COEFFICIENTS FOR
 
 SCHEDULE 12 GROUPS OF OBLIGATIONS AND RISK FACTORS FOR THE SUB-MODULE FOR OTHER NON-LIFE CATASTROPHE RISK
 
-SCHEDULE 13
-
-LIST OF REGIONS FOR WHICH NATURAL CATASTROPHE RISK IS NOT CALCULATED BASED ON PREMIUMS
+SCHEDULE 13 LIST OF REGIONS FOR WHICH NATURAL CATASTROPHE RISK IS NOT CALCULATED BASED ON PREMIUMS
 
 SCHEDULES 14 & 15 [Not used]
 

@@ -14,7 +14,7 @@ Credit quality step 0 1 2 3 4 5 and 6 Duration (duri) stressi ai bi ai bi ai bi 
 
 Table 3
 
-Credit quality step 0 1 2 3 4 5 and 6 Duration (duri) stressi ai bi ai bi ai bi ai bi ai bi ai bi up to 5 min=b ∙dur; 1> — 2.8% — 3.4% — 4.6% — 7.9% — 15.8% — 26.7% More than 5 and up to 10 min=a + b ∙ dur −5; 1> 14.0% 1.6% 17.0% 1.9% 23.0% 2.3% 39.5% 4.7% 79.0% 8.8% 100.0% 0.0% More than 10 and up to 15 a + b ∙ dur −10 22.0% 1.6% 26.5% 1.5% 34.5% 1.6% 63.0% 3.2% 100.0% 0.0% 100.0% 0.0% More than 15 and up to 20 a + b ∙ dur −15 30.0% 1.6% 34.0% 1.5% 42.5% 1.6% 79.0% 3.2% 100.0% 0.0% 100.0% 0.0% More than 20 min=a+b ∙ dur −20; 1> 38.0% 1.6% 41.5% 1.5% 50.5% 1.6% 95.0% 1.6% 100.0% 0.0% 100.0% 0.0%
+Credit quality step 0 1 2 3 4 5 and 6 stressi ai bi ai bi ai bi ai bi ai bi ai bi up to 5 min=b ∙dur; 1> — 2.8% — 3.4% — 4.6% — 7.9% — 15.8% — 26.7% More than 5 and up to 10 min=a + b ∙ dur −5; 1> 14.0% 1.6% 17.0% 1.9% 23.0% 2.3% 39.5% 4.7% 79.0% 8.8% 100.0% 0.0% More than 10 and up to 15 a + b ∙ dur −10 22.0% 1.6% 26.5% 1.5% 34.5% 1.6% 63.0% 3.2% 100.0% 0.0% 100.0% 0.0% More than 15 and up to 20 a + b ∙ dur −15 30.0% 1.6% 34.0% 1.5% 42.5% 1.6% 79.0% 3.2% 100.0% 0.0% 100.0% 0.0% More than 20 min=a+b ∙ dur −20; 1> 38.0% 1.6% 41.5% 1.5% 50.5% 1.6% 95.0% 1.6% 100.0% 0.0% 100.0% 0.0%
 
 Article 180: Specific Exposures
 
