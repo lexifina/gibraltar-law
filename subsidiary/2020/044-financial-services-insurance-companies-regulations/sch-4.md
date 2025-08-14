@@ -88,7 +88,7 @@ SCR life catastrophe denotes the life catastrophe risk sub-module.
 
 (3)  The correlation coefficient Corri,j in sub-paragraph (1) must be equal to the item set out in row i and column j of the following correlation matrix–
 
-j i Mortalit y Longevit y Disabilit y Life expens e Revisio n Laps e Life catastroph e Mortality 1 –0.25 0.25 0.25 0 0 0.25 Longevity –0.25 1 0 0.25 0.25 0.25 0 Disability 0.25 0 1 0.5 0 0 0.25 Life expense 0.25 0.25 0.5 1 0.5 0.5 0.25 Revision 0 0.25 0 0.5 1 0 0 Lapse 0 0.25 0 0.5 0 1 0.25 Life catastroph e 0.25 0 0.25 0.25 0 0.25 1
+Mortality Longevity Disability Life expense Revision Lapse Life catastrophe Mortality 1 –0.25 0.25 0.25 0 0 0.25 Longevity –0.25 1 0 0.25 0.25 0.25 0 Disability 0.25 0 1 0.5 0 0 0.25 Life expense 0.25 0.25 0.5 1 0.5 0.5 0.25 Revision 0 0.25 0 0.5 1 0 0 Lapse 0 0.25 0 0.5 0 1 0.25 Life catastrophe 0.25 0 0.25 0.25 0 0.25 1
 
 Calculation of the market risk module.
 
@@ -106,6 +106,6 @@ Where–
 
 (2) The correlation coefficient Corr( i,j) in sub-paragraph (1) must be equal to the item set out in row i and column j of the following correlation matrix–
 
-j i Intere st rate Equi ty Proper ty Sprea d Concentrat ion Curren cy Interest rate 1 A A A 0 0.25 Equity A 1 0.75 0.75 0 0.25 Property A 0.75 1 0.5 0 0.25 Spread A 0.75 0.5 1 0 0.25 Concentrat ion 0 0 0 0 1 0 Currency 0.25 0.25 0.25 0.25 0 1
+Interest rate Equity Property Spread Concentration Currency Interest rate 1 A A A 0 0.25 Equity A 1 0.75 0.75 0 0.25 Property A 0.75 1 0.5 0 0.25 Spread A 0.75 0.5 1 0 0.25 Concentration 0 0 0 0 1 0 Currency 0.25 0.25 0.25 0.25 0 1
 
 (3) The coefficient A in the table must be equal to 0 where the capital requirement for interest-rate risk set out in Article 165 of the Solvency 2 Technical Standards is the capital requirement referred to in paragraph (1)(a) of that Article. In all other cases, the coefficient A must be equal to 0.5.

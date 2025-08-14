@@ -18,7 +18,9 @@ Amending enactments Relevant current provisions Commencement date LN.2020/208 r.
 
 31.1.2025 2025/074 rr. 36(6), 39(1), 45(4), 56E(2A), 68(14), 99(17)(c), 102B(1)(b), 103A, 276A(ga)-(gc), Sch. 5
 
-3.4.2025 2025/077 r. 36(4)(a) 10.4.2025
+3.4.2025 2025/077 r. 36(4)(a) 10.4.2025 2025/221 rr. 3(1), 14(8), 39(5), 56D(2)(d)(i), 70(1), (1A)-(1C), 84(1A), (1AA)-(1AC), (5), 87(4)-(7), 101(3)-(6), 101A(1)(a), 109(4), 113(2)(a), 191A, 193(2A)-(2D), 199(4), (7)-(10), 201(5), 205(4)-(7), 206(2)-(5), 209(4A)-(4D), 210(1A), (2), (2A)-(2B), 276(1)(b)(i), (c)(i), (d)(i), (e)(i), (ea)-(ec), (fa)-(fc), (g)(i), (ga)(i)(bb), (ia), (gb)(i)(bb), (ia), (gc)(i)(bb), (ia), (h)(i), (i)(i), 276A(5)-(6), Schs. 1, 4
+
+14.8.2025
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -210,7 +212,7 @@ PART 11 SUPERVISION OF GROUP UNDERTAKINGS
 
 Preliminary
 
-191. Interpretation of Part 11. 192. Application of group supervision. 193. Scope of group supervision.
+191. Interpretation of Part 11. 191A. Classification of parent undertakings. 192. Application of group supervision. 193. Scope of group supervision.
 
 Levels
 
@@ -264,9 +266,9 @@ Common provisions
 
 PART 13 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions. 283. Swiss general insurers.
+274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions.
 
-284. Revocations.
+283. Swiss general insurers. 284. Revocations.
 
 SCHEDULE 1 TRANSITIONAL PROVISIONS
 
