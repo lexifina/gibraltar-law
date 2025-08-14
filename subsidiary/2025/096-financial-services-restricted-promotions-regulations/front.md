@@ -6,13 +6,13 @@ LN.2025/096
 
 Commencement 1.5.2025
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2025/220 rr. 3(2)(b)(ii)-(iii), (3), 5(1A), 5A 14.8.2025
 
 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title. 2. Commencement. 3. Speculative illiquid securities. 4. Restriction on the promotion of speculative illiquid securities to retail clients. 5. Exemptions from the restriction on the promotion of speculative illiquid securities. 6. High net worth and sophisticated investors. 7. Revocation.
+1. Title. 2. Commencement. 3. Speculative illiquid securities. 4. Restriction on the promotion of speculative illiquid securities to retail clients. 5. Exemptions from the restriction on the promotion of speculative illiquid securities. 5A. Exemption for collective investment schemes. 6. High net worth and sophisticated investors. 7. Revocation.
 
 SCHEDULE 1 Exemptions from the Restriction on the Promotion of Speculative Illiquid Securities
 
