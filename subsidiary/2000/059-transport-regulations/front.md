@@ -16,7 +16,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2000/073 r
 
 1 Notice of Commencement (LN.2024/233)
 
-2025/078 rr. 67(4A), (5)(b), (7)-(8), 99(3), 99A, Sch.3 10.4.2025 2025/200 rr. 107(1), (6), 107A(2)-(3), Sch.5 1.8.2025
+2025/078 rr. 67(4A), (5)(b), (7)-(8), 99(3), 99A, Sch.3 10.4.2025 2025/200 rr. 107(1), (6), 107A(2)-(3), Sch.5 1.8.2025 2025/233 Sch.5 21.8.2025
 
 ARRANGEMENT OF REGULATIONS
 

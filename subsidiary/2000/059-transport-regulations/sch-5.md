@@ -4,7 +4,7 @@ Fees
 
 ROAD SERVICE LICENCES
 
-£ 1  For every application for a road service licence 65.00 2  For every road service licence (per vehicle) 257.50 3 For every transfer of a road service licence . 257.50 4 For every duplicate road service licence 28.00 5 For every application for the amendment of a road service licence (other than an application under section 17(6)(b) of the Act) 70.00 6 For every renewal of a road service licence 110.00 7 For every application for the amendment of a road service licence under section 17(6)(b) of the Act 5.00
+£ 1  For every application for a road service licence 65.00 2  For every road service licence (per vehicle) 257.50 3 For every transfer of a road service licence . 257.50 4 For every duplicate road service licence 28.00 5 For every application for the amendment of a road service licence (other than an application under section 17(6)(b) of the Act) 70.00 6 For every renewal of a road service licence 144.00 7 For every application for the amendment of a road service licence under section 17(6)(b) of the Act 5.00
 
 HORSE DRAWN VEHICLES.
 
@@ -20,8 +20,8 @@ OPERATOR LICENCES
 
 Note.
 
-This paragraph applies to every operator licence other than a chauffeur- driven hire care operator’s licence as set out below. 110.00
+This paragraph applies to every operator licence other than a chauffeur- driven hire care operator’s licence as set out below. 144.00
 
 CHAUFFEUR-DRIVEN HIRE CAR OPERATOR’S LICENCES
 
-£ 1 For every application for a chauffeur-driven hire car operator’s licence 257.50 2 For a duplicate chauffeur-driven hire car operator’s licence 28.00 3 For every application for the amendment of a chauffeur-driven hire car operator’s licence 10.50 4 For every renewal of a chauffeur-driven hire car operator’s licence. 110.00
+£ 1 For every application for a chauffeur-driven hire car operator’s licence 257.50 2 For a duplicate chauffeur-driven hire car operator’s licence 28.00 3 For every application for the amendment of a chauffeur-driven hire car operator’s licence 10.50 4 For every renewal of a chauffeur-driven hire car operator’s licence. 144.00
