@@ -6,7 +6,7 @@ LN.2009/032
 
 Commencement 1.7.2009
 
-Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022 2022/332 Sch. 15.12.2022 2024/059 Sch. 18.4.2024 2025/093 r. 2(3) 24.4.2025
+Amending enactments Relevant current provisions Commencement date LN. 2012/039 Sch. 1.5.2012 2012/071 Sch. 1.5.2012 2022/137 Sch. 1.6.2022 2022/332 Sch. 15.12.2022 2024/059 Sch. 18.4.2024 2025/093 r. 2(3) 24.4.2025 2025/237 Sch. 11.9.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -42,9 +42,9 @@ SHIP REGISTRATION FEES Fee £ Application to register a ship (Full/Bareboat/Unde
 
 Table ‘B’ – Seafarers’ Certification & Service Fees
 
-SEAFARERS Fee £ Issue of Record of Sea Service (Discharge Book) 132 Gibraltar Endorsement for Master or Chief Engineer Officer 78 Gibraltar Endorsement for OOW (Nav) / OOW (Eng) 78
+SEAFARERS Fee £ Issue of Record of Sea Service (Discharge Book) 132 Gibraltar Endorsement for Master or Chief Engineer Officer 78 Gibraltar Endorsement for OOW (Nav) / OOW (Eng) 78 Gibraltar Endorsement for Chief Mate / Second Engineer Officer 78
 
-Gibraltar Endorsement for Chief Mate / Second Engineer Officer 78 Watch rating/Ship’s Cook/Able Seaman Certificate/Dispensation 78 Tanker Endorsement (without Gibraltar Endorsement) 48 Tanker Endorsement (with Gibraltar Endorsement) 48 Revalidation/extension of a certificate/endorsement 48 Duplicate (re-issue) of endorsement 48 Boat master Examination (full) 228 Boat master Certificate 48 Marine Engine Operator Examination 228 Marine Engine Operator Certificate 48
+Watch rating/Ship’s Cook/Able Seaman Certificate/Dispensation 78 Tanker Endorsement (without Gibraltar Endorsement) 48 Tanker Endorsement (with Gibraltar Endorsement) 48 Revalidation/extension of a certificate/endorsement 48 Duplicate (re-issue) of endorsement 48 Boat master Examination (full) 228 Boat master Certificate 48 Marine Engine Operator Examination 228 Marine Engine Operator Certificate 48
 
 Annual Tonnage Tax
 
