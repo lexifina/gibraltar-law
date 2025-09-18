@@ -6,7 +6,7 @@ LN.2017/042
 
 Commencement 9.3.2017
 
-Amending enactments Relevant current provisions Commencement date LN. 2022/142 Sch. 9.6.2022
+Amending enactments Relevant current provisions Commencement date LN. 2022/142 Sch. 9.6.2022 2025/238 Sch. 18.9.2025
 
 ARRANGEMENT OF PARAGRAPHS
 
