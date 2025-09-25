@@ -6,7 +6,7 @@ PART 1
 
 ILLUSTRATED REQUIREMENTS AS TO REGISTRATION MARKS
 
-Where the licensing authority issues a registration mark under regulation 16AC(1), the registration mark shall consist of letters and numbers enclosed by a black border. On the left- hand side there shall be distinguishing mark for Gibraltar and on the extreme right the reference “BS AU 145d”. The registration mark shall consist of any combination of numbers and letters commencing with the letter G and a minimum of 1 additional characters, or maximum of 5 additional characters in total.
+Where the licensing authority issues a registration mark under regulation 16AC(1), the registration mark shall consist of letters and numbers enclosed by a black border. On the left- hand side there shall be distinguishing mark for Gibraltar and on the extreme right the reference “BS AU 145d”. Subject to regulation 96D(4A), the registration mark shall consist of any combination of numbers and letters commencing with the letter G and a minimum of 1 additional characters, or maximum of 5 additional characters in total.
 
 The licensing authority must not allocate a combination –
 
