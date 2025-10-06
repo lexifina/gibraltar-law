@@ -12,15 +12,15 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 31.7.2003 2004-31 ss. 39(1)-(2), 41(3), 46A, 49(9), Sch.1 4.11.2004 2004-33 ss. 63A(1), (3)-(4), Sch.3 4.12.2004 2005-06 ss. 63(6), 63A-63C, Sch.3 9.2.2005 2005-19 s. 3A 16.6.2005 2006-47 s. 11A 21.12.2006 2006-30 s. 46A, Sch.1 1.1.2007 2008-12 ss. 1, 2(1), 3, 3A, 5, (2), 23, 39-50K, 55, 55A- 55X, 65, 66(1)(h), 67(c)-(d), 68, Sch.3
 
-1.10.2008*
+1.10.2008* 2009-02 ss. 2(1), 3B, 21(1)-(2), 23(2), 63(5) 2.10.2008
 
 * Notice of Commencement see LN. 2008/074
 
-2009-02 ss. 2(1), 3B, 21(1)-(2), 23(2), 63(5) 2.10.2008 “ s. 20(1)-(2), (4) 15.1.2009 2010-09 s. 52A 22.4.2010 2010-24 s. 18(3) 11.11.2010 2013-04 ss. 2(1), 6A, 11A(1), (3), (3A)-(3B), (4), (6)-(8), 17A, 52(1A), 53(1)
+“ s. 20(1)-(2), (4) 15.1.2009 2010-09 s. 52A 22.4.2010 2010-24 s. 18(3) 11.11.2010 2013-04 ss. 2(1), 6A, 11A(1), (3), (3A)-(3B), (4), (6)-(8), 17A, 52(1A), 53(1)
 
 28.2.2013 2014-10 ss. 14(1)(b), 15(1)-(2), (3)(b), (d), 18(3)(a), 26, 35(a), 55A, 55F(1)(a)-(c), (2)(a), 55G(2)-(3), (6)(a), 55H(3)(a)(iii), (5)(d)(ii)-(iii), 55I(2)(b), 55N(2)(c)(iii), 55O(4)(b)(ii)
 
-28.3.2014 LN. 2016/193 s. 55ZA 6.10.2016 2020/559 s. 55A(1), Sch.1 1.1.2021 Act. 2021-09 s. 2(2)(e) 9.2.2021 2023-12 ss. 18(1)(ef), (4), 55C(5A) 23.3.2023 2025-03 ss. 20(4), 55A(1) 11.7.20251
+28.3.2014 LN. 2016/193 s. 55ZA 6.10.2016 2020/559 s. 55A(1), Sch.1 1.1.2021 Act. 2021-09 s. 2(2)(e) 9.2.2021 2023-12 ss. 18(1)(ef), (4), 55C(5A) 23.3.2023 2025-03 ss. 20(4), 55A(1) 11.7.20251 LN. 2025/246 s. 55NA 6.10.2025
 
 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2001/55/EC Directive 2002/90/EC Decision 2002/946/JHA Directive 2004/38/EC
 
@@ -98,6 +98,10 @@ EEA Rights – Entry and Residence.
 
 55J. Right of Entry to Gibraltar. 55K.  Issue and authorisation to issue EEA Family Permits. 55L.  Entitlement to reside in Gibraltar for three months. 55M. Extended right of Residence in Gibraltar. 55N.  Right of Permanent Residence.
 
+Temporary suspension of rights
+
+55NA. Temporary suspension of residency rights and the issue of documentation.
+
 Residence Documentation.
 
 55O.  Registration Certificates for EEA Nationals. 55P.  Residence Cards for Non-EEA Family Members. 55Q.  Documents Certifying Permanent Residence and Permanent Residence Cards.
@@ -124,11 +128,11 @@ PART VII ARRESTS, DETENTION, REMOVAL AND OFFENCES Arrest, detention and removal.
 
 Offences.
 
-62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. Assisting illegal immigration into another state. 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate. 65. Offences by EEA nationals and family members. 66. Other offences.
+62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. Assisting illegal immigration into another state. 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate.
 
-PART VII
+65. Offences by EEA nationals and family members. 66. Other offences.
 
-RULES AND RULES OF COURT Rules.
+PART VII RULES AND RULES OF COURT Rules.
 
 67. Rules. 68. Rules of Court.
 
