@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2016/100 r
 
 10.3.2020 2021/424 rr. 2(1), 3(4), 6(2)-(5), 9(12)(c), 10(3), (4)(c), (6), 11(2)(b)-(c), Sch. 1
 
-1.1.2021
+1.1.2021 2025/251 r. 4(1)-(2) 16.10.2025
 
 Transposing: Directive 2010/31/EU Directive (EU) 2018/844
 
