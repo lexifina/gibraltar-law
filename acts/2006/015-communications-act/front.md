@@ -10,9 +10,11 @@ Amending enactments Relevant current provisions Commencement date Act. 2006-44 s
 
 24.12.2020 2019/245 ss. 28(1)-(2), 59(8) 1.1.2021 2023-30 s. 19A 27.7.2023 2024-16 s. 60A 31.10.2024 2025-07 ss. 2(1), (8), 4(1D, 6(2)(e), 9(1)(a), 10(1), 10A, 10D(1), 11(2), 12, 13(4)(b), 18(3)(a), (cc), 19(1)(a)(ii), (2)(b), (3)(a), (c), (5), 20(2)-(5), 21(1)-(2), 22-24, 24A, 25(2), 26, 27(5), 28(3), 29(1)-(2), 30(2)(b), 31(1)-(4), 34(1), (5), 34A(5), (7), (9), 35(11), 36A(4), (4A), (7), 38(2), (5), 39, 40(3)-(4), (6), (8)-(12), 40A, (1)-(5), 40C(6), 41, 48ZA-48ZI, 48A(1), 48B(7)-(8), 48C(3), 48D, 48E(1), 58A, (b)-(c), 59(3), (3A)-(3C), (4), (5)(b), (6), (9), (13), (15)-(16), (19)-(27), 59B(1), (3)-(4), (4A), (4C), (8)-(9), 59C-59(d), 59E(3), 61(11), 61A(9), (13), 62(4)(d), (5), (a), 65A(2), (10), 65B(5)(b), 65C, 91(1)(a), (aa), (12), 92(1)(b)(ii), 96, 98(1)(b),
 
-25.07.20251 “ s.32 7.8.20252
+25.07.20251 “ s.32 7.8.20252 “ ss. 2(1), 9(1)(b), 19(4), (6), 38(9), 57(4), 58(4A), 60A, 61(1), 85A-85H, 91(1)(a), (aa), (12)
 
-1 Notice of Commencement (LN.2025/165) 2 Notice of Commencement (LN.2025/213)
+16.10.20253
+
+1 Notice of Commencement (LN.2025/165) 2 Notice of Commencement (LN.2025/213) 3 Notice of Commencement (LN.2025/248)
 
 Transposing: Directive 2002/19/EC, Directive 2002/20/EC Directive 2002/21/EC Directive 2002/22/EC Directive 2002/58/EC Directive 2002/77/EC Directive 2009/140/EC Directive (EU) 2018/1972
 
@@ -64,9 +66,9 @@ Numbering
 
 SMP procedures
 
-38. Persons with significant market power.
+38. Persons with significant market power. 39. Market definition. 40. Market analysis and market power determinations.
 
-39. Market definition. 40. Market analysis and market power determinations. 40A. Termination Rates. 40B. Regulatory treatment of new very high capacity network elements. 40C. Wholesale-only providers. 41. Omitted.
+40A. Termination Rates. 40B. Regulatory treatment of new very high capacity network elements. 40C. Wholesale-only providers. 41. Omitted.
 
 Miscellaneous
 
@@ -82,9 +84,9 @@ PART 4A INFRINGEMENT OF PROTECTED CONTENT
 
 PART V ACQUISITION ETC OF LAND
 
-48A. Geographical surveys of network deployments. 48B. (1) The Authority may designate an area with clear territorial ….. 48C. Deployment and operation of small-area wireless access points. 48D. Omitted. 48E. Migration from legacy infrastructure. 49. Right to install facilities.
+48A. Geographical surveys of network deployments. 48B. (1) The Authority may designate an area with clear territorial ….. 48C. Deployment and operation of small-area wireless access points. 48D. Omitted. 48E. Migration from legacy infrastructure. 49. Right to install facilities. 50. Amendment of rights and obligations. 51. Compulsory purchase of land.
 
-50. Amendment of rights and obligations. 51. Compulsory purchase of land. 52. Co-location and sharing of network elements and associated facilities for providers of electronic communications networks. 53. Entry on land for exploratory purposes. 54. Electronic communications code. 55. Use of certain conduits for the purposes of electronic communications.
+52. Co-location and sharing of network elements and associated facilities for providers of electronic communications networks. 53. Entry on land for exploratory purposes. 54. Electronic communications code. 55. Use of certain conduits for the purposes of electronic communications.
 
 PART VI PROVISIONS RELATING TO THE ELECTRO-MAGNETIC SPECTRUM
 
@@ -98,9 +100,7 @@ Radiocommunications Licences
 
 Dealing in Radiocommunications Apparatus.
 
-67. Licensing of dealers. 68. Record book to be kept by dealers. 69. Disposal of radiocommunications apparatus used privately.
-
-70. Delivery on importation.
+67. Licensing of dealers. 68. Record book to be kept by dealers. 69. Disposal of radiocommunications apparatus used privately. 70. Delivery on importation.
 
 Miscellaneous
 
@@ -114,11 +114,17 @@ Regulations for the purposes of Part VI
 
 82. Regulations for the purposes of Part VI. 83. Regulations as to radiation of electro-magnetic energy etc. 84. Enforcement of regulations as to use of apparatus. 85. Enforcement of regulations as to sales, etc., by manufacturers and others.
 
+PART 6A EXCLUSIVE MOBILE PUBLIC TELEPHONE NETWORK
+
+85A. Exclusive privilege. 85B. Directions by Minister. 85C. Change of control of Company. 85D. Competition law not to apply. 85E. Other licences. 85F. Conflicting licences. 85G. Conflict between Part 6A and other provisions. 85H. Regulations under this Part.
+
 PART VII OFFENCES (GENERAL MATTERS), APPEALS AND DISPUTE RESOLUTION
 
 Offences (General Matters)
 
-86. Offences by others. 87. Offences by corporate bodies. 88. Continuation of the offence. 89. Summary proceedings. 90. Civil proceedings.
+86. Offences by others. 87. Offences by corporate bodies. 88. Continuation of the offence. 89. Summary proceedings.
+
+90. Civil proceedings.
 
 Appeals
 
