@@ -260,15 +260,15 @@ Exclusions
 
 136. Exclusions from paragraph 135. 137. Miscellaneous exclusions.
 
-PART 16 VALUE STORED OR TRANSMITTED BY DATABASE
+PART 16 VALUE STORED OR TRANSMITTED BY DATABASE AND VIRTUAL ASSET ARRANGEMENTS
 
 General
 
 138. Application of Part 16 of this Schedule.
 
-The regulated activity
+The regulated activities
 
-139. Providing distributed ledger technology services.
+139. Providing distributed ledger technology services. 139A. Providing virtual asset arrangements. 139B. Exclusions from paragraph 139A.
 
 Exclusions
 
@@ -280,7 +280,9 @@ PART 17 OTHER SPECIFIED ACTIVITIES
 
 REGULATED ACTIVITIES
 
-PART 1 GENERAL
+PART 1
+
+GENERAL
 
 Interpretation of Schedule 2.
 
@@ -2496,7 +2498,7 @@ Miscellaneous exclusions.
 
 (b) an electronically based foreign exchange trading platform.
 
-PART 16 VALUE STORED OR TRANSMITTED BY DATABASE
+PART 16 VALUE STORED OR TRANSMITTED BY DATABASE AND VIRTUAL ASSET ARRANGEMENTS
 
 General
 
@@ -2504,9 +2506,15 @@ Application of Part 16 of this Schedule.
 
 138.(1)  This Part of this Schedule–
 
-(a) has effect in relation to the item listed in section 5(2)(o) (value belonging to another which is stored or transmitted by means of a database system);
+(a) has effect in relation to the items listed in section 5(2)(o) (value belonging to another which is stored or transmitted by means of a database system and virtual asset arrangements);
 
-(b) specifies the kind of activity carried on relation to value belonging to another which is stored or transmitted by means of a database system which is to be a regulated activity.
+(b) specifies the kind of activity carried on in relation to–
+
+(i) value belonging to another which is stored or transmitted by means of a database system; or
+
+(ii) the provision of virtual asset arrangements,
+
+which is to be a regulated activity.
 
 (2)  In this Part–
 
@@ -2518,11 +2526,43 @@ Application of Part 16 of this Schedule.
 
 “value” includes assets, holdings and other forms of ownership, rights or interests, with or without related information, such as agreements or transactions for the transfer of value or its payment, clearing or settlement.
 
-The regulated activity
+“virtual asset” has the meaning given in section 7(1) of the Proceeds of Crime Act 2015.
+
+The regulated activities
 
 Providing distributed ledger technology services.
 
 139.  Using DLT for storage or transmission of value belonging to another is a specified kind of activity.
+
+Providing virtual asset arrangements.
+
+139A.(1)  Providing virtual asset arrangements is a specified kind of activity.
+
+(2)  For the purposes of sub-paragraph (1) a person provides virtual asset arrangements if the person, by way of business, exchanges or makes arrangements with a view to the exchange of–
+
+(a) virtual assets for money;
+
+(b) money for virtual assets; or
+
+(c) one virtual asset for another virtual asset.
+
+(3)  In sub-paragraph (2), “money” means–
+
+(a) money in sterling or any other fiat currency; or
+
+(b) money in any other medium of exchange,
+
+but does not include a virtual asset.
+
+Exclusions from paragraph 139A.
+
+139B.  There is excluded from paragraph 139A any dealing on own account which is carried on by–
+
+(a) collective investment schemes within the meaning of Part 18 of this Act;
+
+(b) pension funds; or
+
+(c) the depositaries and managers of entities in paragraph (a) or (b).
 
 Exclusions
 
