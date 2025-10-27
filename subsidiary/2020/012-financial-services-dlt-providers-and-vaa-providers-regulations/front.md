@@ -1,12 +1,14 @@
 Subsidiary Legislation made under ss.6(1), 24(3)(v), 44(4), 63(3), 64(3), 150(1), 166(2), 620(1), 621(1) and 627 of, and para.6 of Sch. 10.
 
-Financial Services (Distributed Ledger Technology Providers) Regulations 2020
+Financial Services (DLT Providers and VAA Providers) Regulations 2020
 
 LN.2020/012
 
 Commencement 15.1.2020
 
-Amending enactments Relevant current provisions Commencement date LN.2022/067 r. 8(2) 17.3.2022 2022/102 Sch. 27.4.2022 2023/259 r. 7(9) 7.9.2023 2025/045 r. 3 1.4.2025
+Amending enactments Relevant current provisions Commencement date LN.2022/067 r. 8(2) 17.3.2022 2022/102 Sch. 27.4.2022 2023/259 r. 7(9) 7.9.2023 2025/045 r. 3 1.4.2025 2025/254 rr. 1(1), 2, 3, (c), 4(1), 5(1)-(3), 6(1), (2)(a), 7(1), 9(1)-(3), Sch.
+
+27.10.2025
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -18,11 +20,11 @@ PART 1 PRELMINARY
 
 PART 2 AUTHORISATION CONDITIONS
 
-3. Authorisation application. 4. Authorisation of DLT Providers.
+3. Authorisation application. 4. Authorisation of relevant providers.
 
 PART 3 CONDUCT OF BUSINESS
 
-5. Ongoing obligations of DLT Providers.
+5. Ongoing obligations of relevant providers.
 
 PART 4 NOTIFICATION AND REPORTING
 
@@ -34,6 +36,6 @@ PART 5 REGULATORY POWERS
 
 PART 6 MISCELLEANEOUS
 
-9. The Register: DLT Providers.
+9. The Register: relevant providers.
 
 In exercise of the powers conferred upon the Minister under section 6(1), 24(3)(v), 44(4), 63(3), 64(3), 150(1), 166(2), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, the Minister has made the following Regulations.
