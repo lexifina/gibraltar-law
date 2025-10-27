@@ -28,7 +28,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2016/148 s
 
 2 Notice of Commencement (LN.2024/200)
 
-2024-34 ss. 10(ca), 156(3)(c), (5)(b), 157(5)(a), (c) 23.12.2024
+2024-34 ss. 10(ca), 156(3)(c), (5)(b), 157(5)(a), (c) 23.12.2024 LN.2025/254 s. 9(l)(xiii), (q), (1A) 27.10.2025
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849 Directive (EU) 2018/843
 
