@@ -10,11 +10,15 @@ Amending enactments Relevant current provisions Commencement date LN. 2018/104 N
 
 1 Supersedes regulation 4 of LN.2022/095
 
+2025/255 Sch. 1 30.10.2025
+
 ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-PART 1 Preliminary
+PART 1
+
+Preliminary
 
 1. Title. 2. Commencement. 3. Interpretation.
 
