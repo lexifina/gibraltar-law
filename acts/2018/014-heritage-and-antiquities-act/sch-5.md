@@ -42,7 +42,7 @@ General functions of the Board.
 
 Additional powers of the Board.
 
-4.(1)  The Board may make arrangements on its own behalf or enter into contracts which have any of the objects mentioned in subsection (2).
+4.(1)  The Board may make arrangements on its own behalf or enter into contracts which have any of the objects mentioned in sub-paragraph (2).
 
 (2)  The objects are–
 
@@ -50,47 +50,57 @@ Additional powers of the Board.
 
 (b) the production and sale of replicas or reproductions of works of art, craft or souvenirs relating to Gibraltar’s heritage.
 
-(3)  The Board may acquire and hold interests in any company or other body having any of the objects mentioned in subsection (2), exercise rights conferred by the holding of an interest in it, and provide financial or other assistance to or in respect of it (including assistance by way of guarantee of the obligations of such a company or body).
+(3)  The Board may acquire and hold interests in any company or other body having any of the objects mentioned in sub-paragraph (2), exercise rights conferred by the holding of an interest in it, and provide financial or other assistance to or in respect of it (including assistance by way of guarantee of the obligations of such a company or body).
 
 Staff.
 
 5.(1)  There shall be a Chief Executive Officer, secretary and a treasurer to the Trust who shall be appointed by the Board other than from among their own number.
 
-(2)  The Secretary shall be responsible to the Board for the general exercise of the Board’s functions.
+(2)  There shall be a Secretary to the Trust who will be appointed by the Board from their own number.
 
-(3)  The Board may employ such persons, who are not trustees, as the Board thinks fit as long as the board has the necessary funds to pay for the employee.
+(3)  The Secretary shall be responsible to the Board for the general exercise of the Board’s functions.
 
-(4)  The Board shall appoint their employees on such terms and conditions and shall pay them such remuneration and allowances as the Board may determine within the remit of the Laws of Gibraltar.
+(4)  The Board may employ such persons, who are not trustees, as the Board thinks fit as long as the board has the necessary funds to pay for the employee.
+
+(5)  The Board shall appoint their employees on such terms and conditions and shall pay them such remuneration and allowances as the Board may determine within the remit of the Laws of Gibraltar.
 
 Constitution of the Board.
 
-6.(1)  Subject to sub-paragraph (5) the Board shall consist of twelve trustees, 5 of whom shall be appointed by the Minister and the remaining seven trustees shall be elected at an annual general meeting of the Trust.
+6.(1)  Subject to sub-paragraph (5) the Board shall consist of nine trustees, four of whom shall be appointed by the Minister and the remaining five trustees shall be elected at an annual general meeting of the Trust.
 
-(2)  Subject to subsection (5) a chairperson and vice-chairperson shall be elected by the trustees from among themselves.
+(2)  For the purposes of sub-paragraph (1) above, a trustee appointed by the Minister shall be known as an “appointed trustee” and a trustee elected at an annual general meeting of the Trust shall be known as an “elected trustee”.
 
-(3)  If a trustee appointed by the Minister dies or resigns or otherwise ceases to be a trustee, the Minister may appoint another person in his place.
+(3)  Subject to sub-paragraph (6) a chairperson and vice-chairperson shall be elected by the trustees from among themselves.
 
-(4)  The Minister may discharge an appointed trustee from his office at any time.
+(4)  If an appointed trustee dies or resigns or otherwise ceases to be a trustee, the Minister may appoint another person in his place.
 
-(5)  If an elected trustee dies, resigns or otherwise ceases to be a trustee, the Board may appoint in his place another person and the person so appointed shall hold office until the next annual general meeting of the Trust.
+(5)  The Minister may discharge an appointed trustee from his office at any time.
 
-(6)  An elected trustee may resign his office by notice in writing addressed to the chairperson. A chairperson or vice-chairperson may resign his office by notice in writing to the Minister. A trustee who absents himself from three consecutive meetings of the Board, without leave of the Board, shall be deemed to have resigned his office.
+(6)  If an elected trustee dies, resigns or otherwise ceases to be a trustee, the Board shall appoint in his place another person and the person so appointed shall hold office until the next annual general meeting of the Trust.
 
-(7)  An appointed trustee may resign his office by notice in writing to the Minister.
+(7)  An elected trustee may resign his office by notice in writing addressed to the chairperson. A chairperson or vice-chairperson may resign his office by notice in writing to the Minister. A trustee who absents himself from three consecutive meetings of the Board, without leave of the Board, shall be deemed to have resigned his office.
 
-(8)  A trustee shall be appointed or elected, as the case may be, for a term of 3 years.  After completion of the term of 3 years, a trustee shall be eligible for re-appointment or re-election.
+(8)  An appointed trustee may resign his office by notice in writing to the Minister.
 
-(9)  A person is disqualified from the office of trustee if–
+(9)  A trustee shall be appointed or elected, as the case may be, for a term of 3 years.
+
+(10)  Subject to the provisions of sub-paragraph (11), at the end of the three year term described in sub-paragraph (9), a trustee shall be eligible for re-appointment or re-election, as the case may be, for a final three year term.
+
+(11)  A trustee may serve more than two consecutive three year terms only with the written agreement of the Minister in the case of an appointed Trustee and the written agreement of the majority of the remaining members of the Board in the case of an elected trustee.
+
+(12)  At every meeting of the Trust, the two longest serving elected trustees as at the date of that meeting, shall retire and subject to the provisions of sub-paragraph (10) shall be eligible for re-election.
+
+(13)  A person is disqualified from the office of trustee if–
 
 (a) he is an undischarged bankrupt, or
 
 (b) he has been convicted by any court of a criminal offence involving fraud or dishonesty and sentenced to a term of imprisonment without option of a fine.
 
-(10)  The validity of any proceedings of the Board shall not be affected by any vacancy among the trustees or by any defect in the appointment of the trustees.
+(14)  The validity of any proceedings of the Board shall not be affected by any vacancy among the trustees or by any defect in the appointment of the trustees.
 
-(11)  The Board may regulate its own procedure.
+(15)  The Board may regulate its own procedure.
 
-(12)  An elected trustee may be removed from office at any time by a resolution passed at a general meeting of the Trust by a majority of not less than two-thirds of the members present at the meeting.
+(16)  An elected trustee may be removed from office at any time by a resolution passed at a general meeting of the Trust by a majority of not less than two-thirds of the members present at the meeting.
 
 Membership.
 
