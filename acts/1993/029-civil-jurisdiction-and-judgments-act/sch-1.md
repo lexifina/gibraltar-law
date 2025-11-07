@@ -682,117 +682,15 @@ However, judgments given after the date of entry into force of this Convention b
 
 If the parties to a dispute concerning a contract had agreed in writing before 1st June 1988 for Ireland or before 1st January 1987 for the United Kingdom that the contract was to be governed by the law of Ireland or of a part of the United Kingdom, the courts of Ireland or of that part of the United Kingdom shall retain the right to exercise jurisdiction in the dispute.
 
-ARTICLE 54A
-
-For a period of three years from 1st November 1986 for Denmark and from 1st June 1988 from Ireland, jurisdiction in maritime matters shall be determined in these States not only in accordance with the provisions of Title II, but also in accordance with the provisions of paragraphs 1 to 6 following. However, upon the entry into force of the International Convention relating to the arrest of sea-going ships, signed at Brussels on 10th May 1952, for one these States, these provisions shall cease to have effect for that State.
-
-(1) A person who is domiciled in a Contracting State may be sued in the courts of one of the States mentioned above in respect of a maritime claim if the ship to which the claim relates or any other ship owned by him has been arrested by judicial process within the territory of the latter State to secure the claim, or could have been so arrested there but bail or other security has been given, and either:
-
-(a) the claimant is domiciled in the latter State, or
-
-(b) the claim arose in the latter State, or
-
-(c) the claim concerns the voyage during which the arrest was made or could have been made, or
-
-(d) the claim arises out of a collision or out of damage caused by a ship to another ship or to goods or persons on board either ship, either by the execution or non- execution of a manoeuvre or by the non-observance of regulations, or
-
-(e) the claim is for salvage, or
-
-(f) the claim is in respect of a mortgage or hypothecation of the ship arrested.
-
-(2) A claimant may arrest either the particular ship to which the maritime claim relates, or any other ship which is owned by the person who was, at the time when the maritime claim arose, the owner of the particular ship. However, only the particular ship to which the maritime claim relates may be arrested in respect of the maritime claims set out in 5 (o), (p) or (q) of this Article.
-
-(3) Ships shall be deemed to be in the same ownership when all the shares therein are owned by the same person or persons.
-
-(4) When in the case of a charter by demise of a ship the charterer alone is liable in respect of a maritime claim relating to that ship, the claimant may arrest that ship or any other ship owned by the charterer, but no other ship owned by the owner may be arrested in respect of such claim. The same shall apply to any case in which a person other than the owner of a ship is liable in respect of a maritime claim relating to that ship.
-
-(5) The expression “maritime claim” means a claim arising out of one or more of the following:
-
-(a) damage caused by any ship either in collision or otherwise;
-
-(b) loss of life or personal injury caused by any ship or occurring in connection with the operation on any ship;
-
-(c) salvage;
-
-(d) agreement relating to the use or hire of any ship whether by charterparty or otherwise;
-
-(e) agreement relating to the carriage of goods in any ship whether by charterparty or otherwise;
-
-(f) loss of or damage to goods including baggage carried in any ship;
-
-(g) general average;
-
-(h) bottomry;
-
-(i) towage;
-
-(j) pilotage;
-
-(k) goods or materials wherever supplied to a ship for her operation or maintenance;
-
-(l) construction, repair or equipment of any ship or dock charges and dues;
-
-(m) wages of master, officers or crew;
-
-(n) master’s disbursements, including disbursements made by shippers, charterers or agents on behalf of a ship or her owner;
-
-(o) dispute as to the title to or ownership of any ship;
-
-(p) disputes between co-owners of any ship as to the ownership, possession, employment or earnings of that ship;
-
-(q) the mortgage or hypothecation of any ship.
-
-(6) In Denmark, the expression “arrest” shall be deemed as regards the maritime claims referred to in 5(o) and (p) of this Article, to include a “forbud”, where that is the only procedure allowed in respect of such a claim under Articles 646 to 653 of the law on civil procedure (lov om rettens pleje).
+ARTICLE 54A (Deleted)
 
 TITLE VII.
 
 RELATIONSHIP TO OTHER CONVENTIONS
 
-ARTICLE 55
+ARTICLE 55 (Deleted)
 
-Subject to the provisions of the second paragraph of Article 54, and of Article 56, this Convention shall, for the States which are parties to it, supersede the following conventions concluded between two or more of them:
-
-- the Convention between Belgium and France on Jurisdiction and the Validity and Enforcement of Judgments, Arbitration Awards and Authentic Instruments, signed at Paris on 8 July 1989;
-
-- the Convention between Belgium and the Netherlands on Jurisdiction, Bankruptcy, and the Validity and Enforcement of Judgments, Arbitration Awards and Authentic Instruments, signed at Brussels on 28th March 1925;
-
-- the Convention between France and Italy on the Enforcement of Judgments in Civil and Commercial Matters, signed at Rome on 3 June 1930;
-
-- the Convention between the United Kingdom and the French Republic providing for the Reciprocal Enforcement of Judgments in Civil and Commercial Matters, with Protocol, signed at Paris on 18 January 1934;
-
-- the Convention between the United Kingdom and the Kingdom of Belgium providing for the Reciprocal Enforcement in Civil and Commercial Matters, with Protocol, signed at Brussels on 2 May 1934;
-
-- the Convention between Germany and Italy on the Recognition and Enforcement of Judgments in Civil and Commercial matters, signed at Rome on 9 March 1936;
-
-- the Convention between the Federal Republic of Germany and the Kingdom of Belgium on the Mutual Recognition and Enforcement of Judgments, Arbitration Awards and Authentic Instruments in Civil and Commercial Matters, signed at Bonn on 30 June 1958;
-
-- the Convention between the Kingdom of the Netherlands and the Italian Republic on the Recognition and Enforcement of Judgments in Civil and Commercial Matters, signed at Rome on 17 April 1959;
-
-- the Convention between the United Kingdom and the Federal Republic of Germany for the Reciprocal Recognition and Enforcement of Judgments in Civil and Commercial Matters, signed at Bonn on 14 July 1960;
-
-- the Convention between the Kingdom of Belgium and the Italian Republic on the Recognition and Enforcement of Judgments and other Enforceable Instruments in Civil and Commercial Matters signed at Rome on 6 April 1962;
-
-- the Convention between the Kingdom of the Netherlands and the Federal Republic of Germany on the Mutual Recognition and Enforcement of Judgments and other Enforceable Instruments in Civil and Commercial Matters, signed at The Hague on 30 August 1962;
-
-- the Convention between the United Kingdom and the Republic of Italy for the Reciprocal Recognition and Enforcement of Judgments in Civil and Commercial Matters, signed at Rome on 7 February 1964, with amending Protocol signed at Rome on 14 July 1970;
-
-- the Convention between the United Kingdom and the Kingdom of the Netherlands providing for the Reciprocal Recognition and Enforcement of Judgments in Civil Matters, signed at the Hague on 17th November 1967;
-
-- the Convention between Spain and France on the Recognition and Enforcement of Judgments Arbitration Awards in Civil and Commercial Matters, signed at Paris on 28 May 1969;
-
-- the Convention between Spain and Italy regarding Legal Aid and the Recognition and Enforcement of Judgments in Civil and Commercial Matters, signed at Madrid on 22 May 1973;
-
-- the Convention between Spain and the Federal Republic of Germany on the Recognition and Enforcement of Judgments, Settlements and Enforceable Authentic Instruments in Civil and Commercial Matters, signed at Bonn on 14 November 1983;
-
-and, in so far as it is in force:
-
-- the Treaty between Belgium, the Netherlands and Luxembourg on Jurisdiction, Bankruptcy, and the Validity and Enforcement of Judgments, Arbitration Awards and Authentic Instruments, signed at Brussels on 24 November 1961.
-
-ARTICLE 56
-
-The Treaty and the conventions referred to in Article 55 shall continue to have effect in relation to matters to which this Convention does not apply.
-
-They shall continue to have effect in respect of judgments given and documents formally drawn up or registered as authentic instruments before the entry into force of this Convention.
+ARTICLE 56 (Deleted)
 
 ARTICLE 57
 
@@ -808,19 +706,9 @@ Where a convention on a particular matter to which both the State of origin and 
 
 (3) This Convention shall not affect the application of provisions which, in relation to particular matters, govern jurisdiction or the recognition or enforcement of judgments and which are or will be contained in acts of the institutions of the European Communities or in national laws harmonized in implementation of such acts.
 
-ARTICLE 58
+ARTICLE 58 (Deleted)
 
-Until such time as the Convention on jurisdiction and the enforcement of judgments in civil and commercial matters, signed at Lugano on 16 September 1988, takes effect with regard to France and the Swiss Confederation, this Convention shall not affect the rights granted to Swiss nationals by the Convention between France and the Swiss Confederation on jurisdiction and enforcement of judgments in civil matters, signed at Paris on 15 June 1869.
-
-ARTICLE 59
-
-This Convention shall not prevent a Contracting State from assuming, in a convention on the recognition and enforcement of judgments, an obligation towards a third State not to recognise judgments given in other Contracting States against defendants domiciled or habitually resident in the third State where, in cases provided for in Article 4, the judgment could only be founded on a ground of jurisdiction specified in the second paragraph of Article 3.
-
-However, a Contracting State may not assume an obligation towards a third State not to recognise a judgment given in another Contracting State by a court basing its jurisdiction on the presence within the State of property belonging to the defendant, or the seizure by the plaintiff of property situated there:
-
-(1) if the action is brought to assert or declare proprietary or possessory rights in that property, seeks to obtain authority to dispose of it, or arises from another issue relating to such property, or
-
-(2) if the property constitutes the security for a debt which is the subject matter of the action.
+ARTICLE 59 (Deleted)
 
 TITLE VIII
 
@@ -828,51 +716,23 @@ FINAL PROVISIONS
 
 ARTICLE 60 (Deleted)
 
-ARTICLE 61
+ARTICLE 61 (Deleted)
 
-This Convention shall be ratified by the signatory States. The instruments of ratification shall be deposited with the Secretary-General of the Council of the European Communities.
+ARTICLE 62 (Deleted)
 
-ARTICLE 62
+ARTICLE 63 (Deleted)
 
-This Convention shall enter into force on the first day of the third month following the deposit of the instrument of ratification by the last signatory State to take this step.
-
-ARTICLE 63
-
-The Contracting States recognise that any State which becomes a member of the European Economic Community shall be required to accept this Convention as a basis for the negotiations between the Contracting States and that State necessary to ensure the implementation of the last paragraph of Article 220 of the Treaty establishing the European Economic Community.
-
-The necessary adjustments may be the subject of a special convention between the Contracting States of the one part and the new Member State of the other part.
-
-ARTICLE 64
-
-The Secretary-General of the Council of the European Communities shall notify the signatory States of:
-
-(a) the deposit of each instrument of ratification;
-
-(b) the date of entry into force of this Convention;
-
-(c) (deleted);
-
-(d) any declaration received pursuant to Article IV of the Protocol;
-
-(e) any communication made pursuant to Article VI of the Protocol.
+ARTICLE 64 (Deleted)
 
 ARTICLE 65
 
 The Protocol annexed to this Convention by common accord of the Contracting States shall form an integral part thereof.
 
-ARTICLE 66
+ARTICLE 66 (Deleted)
 
-This Convention is concluded for an unlimited period.
+ARTICLE 67 (Deleted)
 
-ARTICLE 67
-
-Any Contracting State may request the revision of this Convention. In this event, a revision conference shall be convened by the President of the Council of the European Communities.
-
-ARTICLE 68
-
-This Convention, drawn up in a single original in the Dutch, French, German and Italian languages, all four texts being equally authentic, shall be deposited in the archives of the Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy to the Government of each signatory State.
-
-(Signatures of Plenipotentiaries of the original six Contracting States).
+ARTICLE 68 (Deleted)
 
 ANNEXED PROTOCOL
 
