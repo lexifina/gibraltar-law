@@ -8,7 +8,7 @@ Act. No. 2003-02 Commencement (Parts I,  II, IV, V and VII) 1.4.2003
 
 Amending enactments Relevant current provisions Commencement date Act. 2005-74 Sch. 1 29.12.2005 2006-40 s. 25(2), (2A), (3) 14.12.2006 2009-16 Sch. 3 3.4.2009 2019-14 s. 19A, Sch. 3 10.6.2019 2019-12 ss. 2, 7(7), 10(c)-(d), 12(6), 12A, 34A, 36, 39(4), 40(2), Sch. 3
 
-10.8.2019
+10.8.2019 2025-12 ss. 38A-38E, Sch. 4 7.11.2025
 
 ARRANGEMENT OF SECTIONS
 
@@ -28,15 +28,21 @@ Part III Relations with Consumers
 
 Part IV Financial and Reporting Provisions
 
-24.  Revenues and Reserves 25.  Reports, Accounts and Audit
+24.  Revenues and Reserves
+
+25.  Reports, Accounts and Audit
 
 Part V Control of Electricity Undertakings
 
 26.  Interpretation 27.  Power of the Authority to assume control of an electricity undertaking 28.  Employees of controlled undertaking 29.  No compensation payable to owner 30.  Saving for existing legal remedies
 
-Part VI Offences
+Part VI Offences and Financial Penalties
 
 31.  Injuring works with intent to cut off supply of electricity 32.  Wilful Damage 33.  Tampering with meters 34.  Abstracting of Electricity 34A. Unauthorised supply 35.  Failing to give notice of damage 36.  Offences in relation to Controlled Undertakings 37.  Obstructing entry of authorised officer 38.  Saving of other criminal liability
+
+Causing a power outage
+
+38A. Damage causing power outage 38B. Strict liability 38C. Employer’s liability 38D. Financial penalty 38E. Payment into the Consolidated Fund
 
 Part VII Miscellaneous Provisions
 
@@ -44,9 +50,13 @@ Part VII Miscellaneous Provisions
 
 SCHEDULE 1 Transfer Provisions (section 3(3))
 
-SCHEDULE 2 Meetings and proceedings of the Authority and the Board of Management (Sections 4(4) & 8(3))
+SCHEDULE 2
+
+Meetings and proceedings of the Authority and the Board of Management (Sections 4(4) & 8(3))
 
 SCHEDULE 3 General Powers of the Authority (section 3(4))
+
+SCHEDULE 4 Financial Penalties
 
 AN ACT TO ESTABLISH THE GIBRALTAR ELECTRICITY AUTHORITY TO MAKE PROVISION FOR THE SUPPLY OF ELECTRICITY IN GIBRALTAR AND MATTERS CONNECTED THEREWITH.
 
