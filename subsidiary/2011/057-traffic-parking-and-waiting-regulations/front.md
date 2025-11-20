@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2011/089 r
 
 16.9.2019 2022/005 rr. 43(1), (d), (1A), (2), (5), 44(1), 47 13.1.2022 2022/021 Sch. 3 27.1.2022 2022/167 r. 19(1)-(2), Sch.3 30.6.2022 2023/011 r. 2 26.1.2023 2023/080 rr. 2, 3(14)-(15) 30.3.2023 2024/037 r. 31(1) 1.4.2024 2024/202 Sch.3 31.10.2024 2025/081 rr. 2, 3(14)-(15), 7A, 18(2), 23(1), (2)(a), 26(1)-(2), 27(3), 28, 28A-28B, 29(1), Sch.3
 
-10.4.2025
+10.4.2025 2025/264 rr. 43(1A), (a), (5)(b), 44(1) 20.11.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -42,9 +42,9 @@ Car Parks
 
 Parking Fees – Pay and Display
 
-16.  Designation of Pay and Display Zone.
+16.  Designation of Pay and Display Zone. 17.  Demarcation of Pay and Display Zone.
 
-17.  Demarcation of Pay and Display Zone. 18.   Parking fee. 19.   Display of ticket. 20.   Unauthorised removal of ticket. 21.   Times during which parking fee payable. 22.   Maximum parking period. 23.  Offences and Penalties.
+18.   Parking fee. 19.   Display of ticket. 20.   Unauthorised removal of ticket. 21.   Times during which parking fee payable. 22.   Maximum parking period. 23.  Offences and Penalties.
 
 No Waiting
 
@@ -64,9 +64,9 @@ Issue, duration and revocation of badges
 
 Form and display of badges and parking clocks
 
-39.   Form of badge.
+39.   Form of badge. 40.  Manner in which a badge is to be displayed. 40A. Manner in which a parking clock is to be displayed.
 
-40.  Manner in which a badge is to be displayed. 40A. Manner in which a parking clock is to be displayed. 41.  Display of a badge when a vehicle is parked or waiting. 41A. Display of a parking clock when a vehicle is parked in a time restricted disabled parking bay or residential parking place. 41B. Time restrictions. 41C. Return restrictions. 42.  Deleted.
+41.  Display of a badge when a vehicle is parked or waiting. 41A. Display of a parking clock when a vehicle is parked in a time restricted disabled parking bay or residential parking place. 41B. Time restrictions. 41C. Return restrictions. 42.  Deleted.
 
 PART III REMOVAL OF VEHICLES
 

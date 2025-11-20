@@ -80,7 +80,7 @@ Issue of “Zone 2 Residents’ Parking Permit” (fee)
 
 1. After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows.
 
-2. If a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name, the cost of the first permit will be charged at the “Second permit per
+2. If a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name, the cost of the first permit will be charged at the “Second permit per household” rate and the cost of any subsequent permit will continue from that point as set out in this entry.
 
 £70 per annum
 
@@ -88,7 +88,7 @@ Issue of “Zone 2 Residents’ Parking Permit” (fee)
 
 £280 per annum
 
-£560 per annum household” rate and the cost of any subsequent permit will continue from that point as set out in this entry.
+£560 per annum
 
 3. Subject to paragraph 4 in this entry, provided that an applicant meets the requirements for a parking permit, Disabled Persons Badge holders will be eligible for the “First permit per household” to be free of charge.
 
@@ -128,6 +128,8 @@ Issue of “Zone 3 Residents’ Parking Permit” (fee)
 
 (d) Fourth permit per household
 
+1. After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows.
+
 £70 per annum
 
 £140 per annum
@@ -135,8 +137,6 @@ Issue of “Zone 3 Residents’ Parking Permit” (fee)
 £280 per annum
 
 £560 per annum
-
-1. After the fourth permit, the fee for every subsequent permit will continue to be twice the fee of the permit it follows.
 
 2. If a household benefits from –
 
@@ -172,19 +172,17 @@ the cost of the first permit will be charged at the “Second permit per househo
 
 (a) a parking space or garage by way of ownership;
 
+(b) an individual residing at that household is renting a parking space or garage under their name; or
+
+(c) an individual residing at that household holding any of the permits listed in paragraph 5,
+
 £35 per annum
 
 £140 per annum
 
 £280 per annum
 
-£560 per annum
-
-(b) an individual residing at that household is renting a parking space or garage under their name; or
-
-(c) an individual residing at that household holding any of the permits listed in paragraph 5,
-
-the cost of the first permit will be charged at the “Second permit per household for a person 60 years of age or over” rate and the cost of any subsequent permit will continue from that point as set out in this entry.
+£560 per annum the cost of the first permit will be charged at the “Second permit per household for a person 60 years of age or over” rate and the cost of any subsequent permit will continue from that point as set out in this entry.
 
 3. Subject to paragraph 4 in this entry, provided that an applicant meets the requirements for a parking permit, Disabled Persons Badge holders will be eligible for the “First permit per household for a person 60 years of age or over” to be free of charge.
 
@@ -212,15 +210,15 @@ the cost of the first permit will be charged at the “Second permit per househo
 
 3. Subject to paragraph 4 in this entry, provided that an applicant meets the requirements for a parking permit, Disabled Persons Badge holders will be eligible for the “First permit per household” to be free of charge.
 
+4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name.
+
 £70 per annum
 
 £140 per annum
 
 £280 per annum
 
-£560 per annum
-
-4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name. Issue of “Zone 4 Residents’ Parking Permit” for a person 60 years of age or over (fee)
+£560 per annum Issue of “Zone 4 Residents’ Parking Permit” for a person 60 years of age or over (fee)
 
 (a) First permit per household for a person 60 years of age or over
 
@@ -236,9 +234,7 @@ the cost of the first permit will be charged at the “Second permit per househo
 
 3. Subject to paragraph 4 in this entry, provided that an applicant meets the requirements for a parking permit, Disabled Persons Badge holders will be eligible for the “First permit per household” to be free of charge.
 
-4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name.
-
-£35 per annum
+4. Paragraph 3 of this entry will not be applicable if a household benefits from a parking space or garage by way of ownership or an individual residing at that household is renting a parking space or garage under their name. £35 per annum
 
 £140 per annum
 
