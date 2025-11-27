@@ -10,9 +10,11 @@ Amending enactments Relevant current provisions Commencement date LN. 2017/125 r
 
 5.4.2018 2020/110 rr. 3(1), (4), 8A(1)-(2), 9(3A), (4), 25(2)-(4), 26(1), (4)-(5), (5A), (7)-(8), 26A, 27-28, 29(1), (3)-(4), 29A, 32(3), (5), 41B-41I, 45(1), 50(e)-(f)
 
-13.3.2020 Act.2021-08 rr. 1, 3(1)-(2), 6A-6B, 8, 8A(3), 8B-8C, 11C, 12(1A), 26(1), (1A), 26ZA-26ZB, 27(a), 28, 42(1)-(4), (7), 45(1), (3)-(5), Sch. 3
+13.3.2020 Act. 2021-08 rr. 1, 3(1)-(2), 6A-6B, 8, 8A(3), 8B-8C, 11C, 12(1A), 26(1), (1A), 26ZA-26ZB, 27(a), 28, 42(1)-(4), (7), 45(1), (3)-(5), Sch. 3
 
-9.2.2021
+9.2.2021 LN. 2025/267 rr. 3(1)-(2), 5(2)-(3), 8(6), 9(3A), 26(1A), (3), 26ZA(2), 26ZB(2), 27-28, 30(1)-(2), 32(4)-(5)
+
+27.11.2025
 
 Transposing – Directive (EU) 2015/849
 
@@ -52,7 +54,7 @@ Additional Statements
 
 The Register
 
-24. Documents to be submitted to the Registrar. 25. Keeping of company records by the Registrar. 26. Inspection, production and evidence of documents kept by Registrar - companies or legal entities. 26ZA. Inspection of documents kept by Registrar – nominators. 26ZB. Inspection of documents kept by Registrar – appointors. 26A. Duty to report inconsistencies. 27. GFIU disclosure to other EU FIUs. 28. Data Protection. 29. Fees. 29A. Online registration. 30. Reliance on regulation 26 by obliged entities. 31. Application for non-disclosure of ultimate beneficial owner. 32. Exemption to disclosure of ultimate beneficial owner. 33. Matters relating to an application made under regulation 31. 34. Withdrawal of an application made under regulation 31. 35. Appealing against a determination made under regulation 31. 36. Duration of determination made under regulation 31. 37. Revocation a determination made under regulation 31. 37A. Further appeal.
+24. Documents to be submitted to the Registrar. 25. Keeping of company records by the Registrar. 26. Inspection, production and evidence of documents kept by Registrar - companies or legal entities. 26ZA. Inspection of documents kept by Registrar – nominators. 26ZB. Inspection of documents kept by Registrar – appointors. 26A. Duty to report inconsistencies. 27. Disclosure to other financial intelligence units and UK relevant Government Authority. 28. Data Protection. 29. Fees. 29A. Online registration. 30. Reliance on regulation 26 by obliged entities. 31. Application for non-disclosure of ultimate beneficial owner. 32. Exemption to disclosure of ultimate beneficial owner. 33. Matters relating to an application made under regulation 31. 34. Withdrawal of an application made under regulation 31. 35. Appealing against a determination made under regulation 31. 36. Duration of determination made under regulation 31. 37. Revocation a determination made under regulation 31. 37A. Further appeal.
 
 Warning and Restrictions Notices
 
