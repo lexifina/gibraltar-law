@@ -28,7 +28,9 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/046 r
 
 28.11.2024 2025/046 rr. 16A, 16AZ, 16AC, 16AD(1)-(7), 16AZ, 16C(1), (4), Sch.3A-3E 13.2.2025 2025/063 r. 96D(14) 13.3.2025 2025/046 r. 84B(1) 14.4.2025 2025/202 rr. 16C(2)(c), (3), 33(a)-(b), 84A(4), 96(2), 96F(2), 96H(2), Sch.2
 
-1.8.2025 2025/216 rr. 96D(4), 96G(2) 7.8.2025 2025/239 r. 96D(1A), (4A), Schs.3C, 3E 25.9.2025
+1.8.2025 2025/216 rr. 96D(4), 96G(2) 7.8.2025 2025/239 r. 96D(1A), (4A), Schs.3C, 3E 25.9.2025 2025/272 rr. 16A, 16AZ, 16AC(2), 16C(1), (4), 16AE, 96B, 96D(4), (4B), (5)-(6), (8)-(9), (9A), (10), (14), Schs. 3F-3I
+
+11.12.2025
 
 Transposing:
 
@@ -46,9 +48,9 @@ PART I. VEHICLE LICENCES AND REGISTRATION.
 
 Motor Vehicles (Civilian).
 
-3. Applications for licences. 4. Duration of validity of motor vehicle licence. 4A. Licences renewed after expiry. 5. Registration. 6. Certificate of registration. 7. Transfer of vehicle. 8. Change of character or use. 9. Notification of alteration to vehicle. 10. Notification of destruction or permanent export. 11. Cancellation of registration. 11A. Vehicles to which the End-of life Rules 2004 apply. 12. Exhibition of licence on vehicle. 13. Alteration of licence, etc. 14. Application for duplicate licence or certificate of registration. 15. Surrender of licence. 16. Exhibition of registration marks. 16A. Exhibition of Registration Marks for motor vehicles registered after 6 September 2001, until IP completion day. 16AZ. Exhibition of registration marks for motor vehicles registered after IP completion day 16AA. Exhibition of registration marks - classic motor vehicles. 16AB. Registration marks in International traffic. 16AC. Personalised registration numbers. 16AD. Green distinguishing sign for Gibraltar. 16B. Voluntary change of style of licence plate. 16C. Register of vehicle licence-plate suppliers. 16D. No further marks. 17. Distinguishing sign for vehicles taken abroad. 17A. Deleted.
+3. Applications for licences. 4. Duration of validity of motor vehicle licence. 4A. Licences renewed after expiry. 5. Registration. 6. Certificate of registration. 7. Transfer of vehicle. 8. Change of character or use. 9. Notification of alteration to vehicle. 10. Notification of destruction or permanent export. 11. Cancellation of registration. 11A. Vehicles to which the End-of life Rules 2004 apply. 12. Exhibition of licence on vehicle. 13. Alteration of licence, etc. 14. Application for duplicate licence or certificate of registration. 15. Surrender of licence. 16. Exhibition of registration marks. 16A. Exhibition of Registration Marks for motor vehicles registered after 6 September 2001, until IP completion day. 16AZ. Exhibition of registration marks for motor vehicles registered after IP completion day 16AA. Exhibition of registration marks - classic motor vehicles. 16AB. Registration marks in International traffic. 16AC. Personalised registration numbers. 16AD. Green distinguishing sign for Gibraltar. 16AE. G-less personalised registration numbers. 16B. Voluntary change of style of licence plate. 16C. Register of vehicle licence-plate suppliers. 16D. No further marks. 17. Distinguishing sign for vehicles taken abroad.
 
-17B. In order to be entitled to the benefits of the Convention of 1968, a motor vehicle…. 18. Exhibition of registration marks on trailers. 19. Illumination of registration marks. 20. Vehicles belonging to bona fide visitors. 21. Vehicles to be exported from Gibraltar. 21A. Issue of licence and registration of vehicle to be exported from Gibraltar. 22. Vehicles brought temporarily into Gibraltar. 22A. Vehicles brought temporarily into Gibraltar from Spain. 22B. Road vehicles (lorries, tractors trailers or semi-trailers) routed in combined…. 23. General penalty. 24. Delegation. 25. Waiver for vehicles in transit from Spain. 26. Waiver for vehicles of visiting warships. 26A. Waiver for special events or purposes.
+17A. Deleted. 17B. In order to be entitled to the benefits of the Convention of 1968, a motor vehicle…. 18. Exhibition of registration marks on trailers. 19. Illumination of registration marks. 20. Vehicles belonging to bona fide visitors. 21. Vehicles to be exported from Gibraltar. 21A. Issue of licence and registration of vehicle to be exported from Gibraltar. 22. Vehicles brought temporarily into Gibraltar. 22A. Vehicles brought temporarily into Gibraltar from Spain. 22B. Road vehicles (lorries, tractors trailers or semi-trailers) routed in combined…. 23. General penalty. 24. Delegation. 25. Waiver for vehicles in transit from Spain. 26. Waiver for vehicles of visiting warships. 26A. Waiver for special events or purposes.
 
 Motor Vehicles (Services ).
 
@@ -80,7 +82,9 @@ ISSUE OF DRIVING LICENCES
 
 LEARNERS AND VISITORS
 
-84. Learners’ licences. 84A. Requirement for CBT Certificate. 84B. Exemption from CBT Certificate. 85. Conditions and restrictions on driving by learners. 86. Visitors’ driving permits. 87. Drivers of vehicles of visiting warships. 87A. Trailers not imported by road.
+84. Learners’ licences. 84A. Requirement for CBT Certificate. 84B. Exemption from CBT Certificate. 85. Conditions and restrictions on driving by learners. 86. Visitors’ driving permits. 87. Drivers of vehicles of visiting warships.
+
+87A. Trailers not imported by road.
 
 PART VI. LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES.
 
@@ -106,9 +110,7 @@ PART XA.
 
 96A. Application. 96B. Interpretation. 96C. Re-issue of personalised registration numbers. 96D. Sale of numbers. 96E. Assigning a personalised registration number to a vehicle. 96F. Retaining a personalised registration number. 96G. Transfer of personalised registration number. 96H. Removing a personalised registration number from a vehicle. 96I. Additional fees.
 
-PART XI
-
-STANDARDS FOR EXAMINERS
+PART XI STANDARDS FOR EXAMINERS
 
 103.  Examiners.
 
@@ -124,13 +126,19 @@ SCHEDULE 3B. VEHICLES FIRST REGISTERED ON OR AFTER IP COMPLETION DAY
 
 SCHEDULE 3C. PERSONALISED REGISTRATION NUMBER PLATES
 
-SCHEDULE 3D
+SCHEDULE 3D GREEN DISTINGUISHING SIGN FOR REGISTRATION NUMBER PLATES
 
-GREEN DISTINGUISHING SIGN FOR REGISTRATION NUMBER PLATES
+SCHEDULE 3E GREEN DISTINGUISHING SIGNS FOR PERSONALISED REGISTRATION NUMBER PLATES
 
-SCHEDULE 3E
+SCHEDULE 3F G-LESS PERSONALISED REGISTRATION NUMBER PLATES
 
-GREEN DISTINGUISHING SIGNS FOR PERSONALISED REGISTRATION NUMBER PLATES
+SCHEDULE 3G G-LESS PRIVATE NUMBER PLATES
+
+SCHEDULE 3H GREEN DISTINGUISHING SIGNS FOR G-LESS PERSONALISED REGISTRATION NUMBER PLATES
+
+SCHEDULE 3I
+
+GREEN DISTINGUISHING SIGNS FOR G-LESS PRIVATE NUMBER PLATES
 
 SCHEDULE 4. Distinguishing Sign of Vehicles in International Traffic.
 
