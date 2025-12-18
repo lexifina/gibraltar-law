@@ -16,7 +16,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2000/073 r
 
 1 Notice of Commencement (LN.2024/233)
 
-2025/078 rr. 67(4A), (5)(b), (7)-(8), 99(3), 99A, Sch.3 10.4.2025 2025/200 rr. 107(1), (6), 107A(2)-(3), Sch.5 1.8.2025 2025/233 Sch.5 21.8.2025
+2025/078 rr. 67(4A), (5)(b), (7)-(8), 99(3), 99A, Sch.3 10.4.2025 2025/200 rr. 107(1), (6), 107A(2)-(3), Sch.5 1.8.2025 2025/233 Sch.5 21.8.2025 2025/273 rr. 99B, 106(1), (1A), (2), Sch.3 18.12.2025
 
 ARRANGEMENT OF REGULATIONS
 
@@ -92,11 +92,13 @@ CHAUFFEUR-DRIVEN CARS
 
 PRIVATE HIRING VEHICLES
 
-97. Use of concessioned vehicles 98. Regulations 68 to 73 and 78 shall apply to private hiring vehicles….. 99. Hire of private hiring vehicles 99A. Airport Service Requirements.
+97. Use of concessioned vehicles 98. Regulations 68 to 73 and 78 shall apply to private hiring vehicles….. 99. Hire of private hiring vehicles 99A. Airport Service Requirements. 99B. Authorisation for Sightseeing Tours and Wheelchair Shuttle Services by Private Hiring Vehicles.
 
 COURTESY VEHICLES
 
-100. Duties of drivers of courtesy vehicles 101. Conduct of passenger 102. Powers of drivers
+100. Duties of drivers of courtesy vehicles
+
+101. Conduct of passenger 102. Powers of drivers
 
 GENERAL DUTIES OF LICENSEES
 
