@@ -1,6 +1,8 @@
 SCHEDULE
 
-PART 1 INVESTMENT MANAGEMENT AND OTHER FUNCTIONS
+PART 1
+
+INVESTMENT MANAGEMENT AND OTHER FUNCTIONS
 
 1. Investment management functions which an AIFM shall at least perform when managing an AIF–
 
@@ -34,7 +36,9 @@ PART 1 INVESTMENT MANAGEMENT AND OTHER FUNCTIONS
 
 (c) Activities related to the assets of AIFs, namely services necessary to meet the fiduciary duties of the AIFM, facilities management, real estate administration activities, advice to undertakings on capital structure, industrial strategy and related matters, advice and services relating to mergers and the purchase of undertakings and other services connected to the management of the AIF and the companies and other assets in which it has invested.
 
-PART 2 REMUNERATION POLICY
+PART 2
+
+REMUNERATION POLICY
 
 1. When establishing and applying the total remuneration policies, inclusive of salaries and discretionary pension benefits, for those categories of staff, including senior management, risk takers, control functions and any employee receiving total remuneration that takes them into the same remuneration bracket as senior management and risk takers, whose professional activities have a material impact on the risk profiles of the AIFMs or of AIFs they manage, AIFMs shall comply with the following principles in a way and to the extent that is appropriate to their size, internal organisation and the nature, scope and complexity of their activities–
 
