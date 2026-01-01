@@ -6,7 +6,7 @@ LN.2016/253
 
 Commencement 22.12.2016
 
-Amending enactments Relevant current provisions Commencement date LN. 2017/116 rr. 4(b), 5(3), Sch. 2 22.6.2017 2017/219 rr. 3(1), 7(2)(c), Sch. 1, 4 9.11.2017 2018/124 r. 13(3) 25.5.2018 2020/256 rr. 9(4), (4A), 11(2), (2A) 10.7.2020
+Amending enactments Relevant current provisions Commencement date LN. 2017/116 rr. 4(b), 5(3), Sch. 2 22.6.2017 2017/219 rr. 3(1), 7(2)(c), Sch. 1, 4 9.11.2017 2018/124 r. 13(3) 25.5.2018 2020/256 rr. 9(4), (4A), 11(2), (2A) 10.7.2020 2026/032 Sch. 4 1.1.2026
 
 Transposing: Directive 2014/107/EU Directive (EU) 2016/680 Directive (EU) 2020/876
 

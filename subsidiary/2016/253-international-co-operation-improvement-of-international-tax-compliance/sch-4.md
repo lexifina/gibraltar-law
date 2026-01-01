@@ -6,9 +6,15 @@ Section I: General Reporting Requirements
 
 A. Subject to paragraphs C through F, each Reporting Financial Institution must report the following information with respect to each Reportable Account of such Reporting Financial Institution:
 
-1. the name, address, jurisdiction(s) of residence, TIN and date and place of birth (in the case of an individual) of each Reportable Person that is an Account Holder of the account and, in the case of any Entity that is an Account Holder and that, after application of the due diligence procedures consistent with Sections V, VI and VII, is identified as having one or more Controlling Persons that is a Reportable Person, the name, address, jurisdiction(s) of residence and TIN of the Entity and the name, address, jurisdiction(s) of residence, TIN and date and place of birth of each Reportable Person;
+1.(a) in the case of any individual that is an Account Holder and a Reportable Person: the name, address, jurisdiction(s) of residence, TIN and date and place of birth (in the case of an individual), as well as whether the Account Holder has provided a valid self-certification;
 
-2. the account number (or functional equivalent in the absence of an account number);
+(b) in respect of any Entity that is an Account Holder and a Reportable Person: the name, address, jurisdiction(s) of residence and TIN of the Entity as well as whether the Account Holder has provided a valid self-certification;
+
+(c) in the case of any Entity that is an Account Holder and that, after application of the due diligence procedures consistent with Sections V, VI and VII, is identified as having one or more Controlling Persons that is a Reportable Person: (i) the name, address, jurisdiction(s) of residence, TIN of the Entity; and (ii) the name, address, jurisdiction(s) of residence , TIN and date and place of birth of each Controlling Person that is a Reportable Person, as well as the role(s) by virtue of which each Reportable Person is a Controlling Person of the Entity and whether a valid self-certification has been provided for each Reportable Person;
+
+(d) whether the account is a joint account, including the number of joint Account Holders.
+
+2. the account number (or functional equivalent in the absence of an account number), the type of account and whether the account is a Preexisting Account or a New Account;
 
 3. the name and identifying number (if any) of the Reporting Financial Institution;
 
@@ -20,41 +26,45 @@ a) the total gross amount of interest, the total gross amount of dividends, and 
 
 b) the total gross proceeds from the sale or redemption of Financial Assets paid or credited to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Financial Institution acted as a custodian, broker, nominee, or otherwise as an agent for the Account Holder;
 
-6. in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year or other appropriate reporting period; and
+6.(a) in the case of any Depository Account, the total gross amount of interest paid or credited to the account during the calendar year or other appropriate reporting period;
+
+(b) in the case of any Equity Interest held in an Investment Entity that is a legal arrangement, the role(s) by virtue of which the Reportable Person is an Equity Interest holder; and
 
 7. in the case of any account not described in subparagraph A(5) or (6), the total gross amount paid or credited to the Account Holder with respect to the account during the calendar year or other appropriate reporting period with respect to which the Reporting Financial Institution is the obligor or debtor, including the aggregate amount of any redemption payments made to the Account Holder during the calendar year or other appropriate reporting period.
 
-B. The information reported must identify the currency in which each amount is denominated.
+B.  The information reported must identify the currency in which each amount is denominated.
 
-C. Notwithstanding subparagraph A(1), with respect to each Reportable Account that is a Preexisting Account, or with respect to each Financial Account that is opened prior to becoming a Reportable Account, the TIN or date of birth is not required to be reported if such TIN or date of birth is not in the records of the Reporting Financial Institution and is not otherwise required to be collected by such Reporting Financial Institution under domestic law. However, a Reporting Financial Institution is required to use reasonable efforts to obtain the TIN and date of birth with respect to Preexisting Accounts by the end of the second calendar year following the year in which such Accounts were identified as Reportable Accounts.
+C.  Notwithstanding subparagraph A(1), with respect to each Reportable Account that is a Preexisting Account, or with respect to each Financial Account that is opened prior to becoming a Reportable Account, the TIN or date of birth is not required to be reported if such TIN or date of birth is not in the records of the Reporting Financial Institution and is not otherwise required to be collected by such Reporting Financial Institution under domestic law. However, a Reporting Financial Institution is required to use reasonable efforts to obtain the TIN and date of birth with respect to Preexisting Accounts by the end of the second calendar year following the year in which such Accounts were identified as Reportable Accounts and whenever it is required to update the information relating to the Preexisting Account pursuant to domestic AML/KYC Procedures.
 
-D. Notwithstanding subparagraph A(1), the TIN is not required to be reported if (i) a TIN is not issued by the relevant Reportable Jurisdiction or (ii) the domestic law of the relevant Reportable Jurisdiction does not require the collection of the TIN issued by such Reportable Jurisdiction.
+D.  Notwithstanding subparagraph A(1), the TIN is not required to be reported if (i) a TIN is not issued by the relevant Reportable Jurisdiction or (ii) the domestic law of the relevant Reportable Jurisdiction does not require the collection of the TIN issued by such Reportable Jurisdiction.
 
-E. Notwithstanding subparagraph A(1), the place of birth is not required to be reported unless the Reporting Financial Institution is otherwise required to obtain and report it under domestic law and it is available in the electronically searchable data maintained by the Reporting Financial Institution.
+E.  Notwithstanding subparagraph A(1), the place of birth is not required to be reported unless the Reporting Financial Institution is otherwise required to obtain and report it under domestic law and it is available in the electronically searchable data maintained by the Reporting Financial Institution.
 
-F. Notwithstanding paragraph A, the information to be reported with respect to [xxxx] is the information described in such paragraph, except for gross proceeds described in subparagraph A(5)(b).
+F.  An account with a balance or value that is negative is deemed to have a balance or value equal to nil.
+
+G.  Notwithstanding subparagraph A(5)(b) and unless the Reporting Financial Institution elects otherwise with respect to any clearly identified group of accounts, the gross proceeds from the sale or redemption of a Financial Asset are not required to be reported to the extent such gross proceeds from the sale or redemption of such Financial Asset are reported by the Reporting Financial Institution under the Crypto-Asset Reporting Framework.
 
 Section II: General Due Diligence Requirements
 
-A. An account is treated as a Reportable Account beginning as of the date it is identified as such pursuant to the due diligence procedures in Sections II through VII and, unless otherwise provided, information with respect to a Reportable Account must be reported annually in the calendar year following the year to which the information relates.
+A.  An account is treated as a Reportable Account beginning as of the date it is identified as such pursuant to the due diligence procedures in Sections II through VII and, unless otherwise provided, information with respect to a Reportable Account must be reported annually in the calendar year following the year to which the information relates.
 
-B. A Reporting Financial Institution, which pursuant to the procedures described in Sections II through VII, identifies any account as a Foreign Account that is not a Reportable Account at the time the due diligence is performed, may rely on the outcome of such procedures to comply with future reporting obligations.
+B.  A Reporting Financial Institution, which pursuant to the procedures described in Sections II through VII, identifies any account as a Foreign Account that is not a Reportable Account at the time the due diligence is performed, may rely on the outcome of such procedures to comply with future reporting obligations.
 
-C. The balance or value of an account is determined as of the last day of the calendar year or other appropriate reporting period.
+C.  The balance or value of an account is determined as of the last day of the calendar year or other appropriate reporting period.
 
-D. Where a balance or value threshold is to be determined as of the last day of a calendar year, the relevant balance or value must be determined as of the last day of the reporting period that ends with or within that calendar year.
+D.  Where a balance or value threshold is to be determined as of the last day of a calendar year, the relevant balance or value must be determined as of the last day of the reporting period that ends with or within that calendar year.
 
-E. Each Jurisdiction may allow Reporting Financial Institutions to use service providers to fulfil the reporting and due diligence obligations imposed on such Reporting Financial Institutions, as contemplated in domestic law, but these obligations shall remain the responsibility of the Reporting Financial Institutions.
+E.  Each Jurisdiction may allow Reporting Financial Institutions to use service providers to fulfil the reporting and due diligence obligations imposed on such Reporting Financial Institutions, as contemplated in domestic law, but these obligations shall remain the responsibility of the Reporting Financial Institutions.
 
-F. Each Jurisdiction may allow Reporting Financial Institutions to apply the due diligence procedures for New Accounts to Preexisting Accounts, and the due diligence procedures for High Value Accounts to Lower Value Accounts. Where a Jurisdiction allows New Account due diligence procedures to be used for Preexisting Accounts, the rules otherwise applicable to Preexisting Accounts continue to apply.
+F.  Each Jurisdiction may allow Reporting Financial Institutions to apply the due diligence procedures for New Accounts to Preexisting Accounts, and the due diligence procedures for High Value Accounts to Lower Value Accounts. Where a Jurisdiction allows New Account due diligence procedures to be used for Preexisting Accounts, the rules otherwise applicable to Preexisting Accounts continue to apply.
 
 Section III: Due Diligence for Preexisting Individual Accounts
 
 The following procedures apply with respect to Preexisting Individual Accounts.
 
-A. Accounts Not Required to be Reviewed, Identified, or Reported. A Preexisting Individual Account that is a Cash Value Insurance Contract or an Annuity Contract is not required to be reviewed, identified or reported, provided the Reporting Financial Institution is effectively prevented by law from selling such Contract to residents of a Reportable Jurisdiction.
+A.  Accounts Not Required to be Reviewed, Identified, or Reported. A Preexisting Individual Account that is a Cash Value Insurance Contract or an Annuity Contract is not required to be reviewed, identified or reported, provided the Reporting Financial Institution is effectively prevented by law from selling such Contract to residents of a Reportable Jurisdiction.
 
-B. Lower Value Accounts. The following procedures apply with respect to Lower Value Accounts.
+B.  Lower Value Accounts. The following procedures apply with respect to Lower Value Accounts.
 
 1. Residence Address. If the Reporting Financial Institution has in its records a current residence address for the individual Account Holder based on Documentary Evidence, the Reporting Financial Institution may treat the individual Account Holder as being a resident for tax purposes of the jurisdiction in which the address is located for purposes of determining whether such individual Account Holder is a Reportable Person.
 
@@ -74,9 +84,7 @@ f) A “hold mail” instruction or “in-care-of” address in a Foreign Jurisd
 
 3. If none of the indicia listed in subparagraph B(2) are discovered in the electronic search, then no further action is required until there is a change in circumstances that results in one or more indicia being associated with the account, or the account becomes a High Value Account.
 
-4. If any of the indicia listed in subparagraph B(2)(a) through (e) are discovered in the electronic search, or if there is a change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial
-
-Institution must treat the Account Holder as a resident for tax purposes of each Foreign Jurisdiction for which an indicium is identified, unless it elects to apply subparagraph B(6) and one of the exceptions in such subparagraph applies with respect to that account.
+4. If any of the indicia listed in subparagraph B(2)(a) through (e) are discovered in the electronic search, or if there is a change in circumstances that results in one or more indicia being associated with the account, then the Reporting Financial Institution must treat the Account Holder as a resident for tax purposes of each Foreign Jurisdiction for which an indicium is identified, unless it elects to apply subparagraph B(6) and one of the exceptions in such subparagraph applies with respect to that account.
 
 5. If a “hold mail” instruction or “in-care-of” address is discovered in the electronic search and no other address and none of the other indicia listed in subparagraph B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must, in the order most appropriate to the circumstances, apply the paper record search described in subparagraph C(2), or seek to obtain from the Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of such Account Holder. If the paper search fails to establish an indicium and the attempt to obtain the self-certification or Documentary Evidence is not successful, the Reporting Financial Institution must report the account as an undocumented account.
 
@@ -94,7 +102,7 @@ i. A self-certification from the Account Holder of the jurisdiction(s) of reside
 
 ii. Documentary Evidence establishing the Account Holder’s residence for tax purposes other than such Foreign Jurisdiction.
 
-C. Enhanced Review Procedures for High Value Accounts. The following enhanced review procedures apply with respect to High Value Accounts.
+C.  Enhanced Review Procedures for High Value Accounts. The following enhanced review procedures apply with respect to High Value Accounts.
 
 1. Electronic Record Search. With respect to High Value Accounts, the Reporting Financial Institution must review electronically searchable data maintained by the Reporting Financial Institution for any of the indicia described in subparagraph B(2).
 
@@ -134,7 +142,7 @@ b) If any of the indicia listed in subparagraph B(2)(a) through (e) are discover
 
 c) If a “hold mail” instruction or “in-care-of” address is discovered in the enhanced review of High Value Accounts described above and no other address and none of the other indicia listed in subparagraph B(2)(a) through (e) are identified for the Account Holder, the Reporting Financial Institution must obtain from such Account Holder a self-certification or Documentary Evidence to establish the residence(s) for tax purposes of the Account Holder. If the Reporting Financial Institution cannot obtain such self-certification or Documentary Evidence, it must report the account as an undocumented account.
 
-6. If a Preexisting Individual Account is not a High Value Account as of 31 December 2015, but becomes a High Value Account as of the last day of a subsequent calendar year, the Reporting Financial Institution must complete the enhanced review procedures described in paragraph C with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Financial Institution must report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person.
+6. If a Preexisting Individual Account is not a High Value Account as of 31 December 2015 or, if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025, but becomes a High Value Account as of the last day of a subsequent calendar year, the Reporting Financial Institution must complete the enhanced review procedures described in paragraph C with respect to such account within the calendar year following the year in which the account becomes a High Value Account. If based on this review such account is identified as a Reportable Account, the Reporting Financial Institution must report the required information about such account with respect to the year in which it is identified as a Reportable Account and subsequent years on an annual basis, unless the Account Holder ceases to be a Reportable Person.
 
 7. Once a Reporting Financial Institution applies the enhanced review procedures described in paragraph C to a High Value Account, the Reporting Financial Institution is not required to re-apply such procedures, other than the relationship manager inquiry described in subparagraph C(4), to the same High Value Account in any subsequent year unless the account is undocumented where the Reporting Financial Institution should re-apply them annually until such account ceases to be undocumented.
 
@@ -142,7 +150,7 @@ c) If a “hold mail” instruction or “in-care-of” address is discovered in
 
 9. A Reporting Financial Institution must implement procedures to ensure that a relationship manager identifies any change in circumstances of an account. For example, if a relationship manager is notified that the Account Holder has a new mailing address in a Foreign Jurisdiction, the Reporting Financial Institution is required to treat the new address as a change in circumstances and, if it elects to apply subparagraph B(6), is required to obtain the appropriate documentation from the Account Holder.
 
-D. Review of Preexisting Individual Accounts must be completed by 31 December 2017.
+D.  Review of Preexisting Individual Accounts must be completed by 31 December 2017 or, if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025.
 
 Section IV: Due Diligence for New Individual Accounts
 
@@ -158,9 +166,9 @@ Section V: Due Diligence for Preexisting Entity Accounts
 
 The following procedures apply with respect to Preexisting Entity Accounts.
 
-A. Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Financial Institution elects otherwise, either with respect to all Preexisting Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Preexisting Entity Account with an account balance or value that does not exceed $250,000 as of 31 December 2015, is not required to be reviewed, identified, or reported as a Reportable Account until the account balance or value exceeds $250,000 as of the last day of any subsequent calendar year.
+A. Entity Accounts Not Required to Be Reviewed, Identified or Reported. Unless the Reporting Financial Institution elects otherwise, either with respect to all Preexisting Entity Accounts or, separately, with respect to any clearly identified group of such accounts, a Preexisting Entity Account with an account balance or value that does not exceed $250,000 as of 31 December 2015 or, if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025, is not required to be reviewed, identified, or reported as a Reportable Account until the account balance or value exceeds $250,000 as of the last day of any subsequent calendar year.
 
-B. Entity Accounts Subject to Review. A Preexisting Entity Account that has an aggregate account balance or value that exceeds $250,000 as of 31 December 2015, and a Preexisting Entity Account that does not exceed $250,000 as of 31 December 2015 but the aggregate account balance or value of which exceeds $250,000 as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph C.
+B. Entity Accounts Subject to Review. A Preexisting Entity Account that has an aggregate account balance or value that exceeds $250,000 as of 31 December 2015 or, if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025, and a Preexisting Entity Account that does not exceed $250,000 as of 31 December 2015 or, if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025, but the aggregate account balance or value of which exceeds $250,000 as of the last day of any subsequent calendar year, must be reviewed in accordance with the procedures set forth in paragraph C.
 
 C. Review Procedures for Identifying Entity Accounts With Respect to Which Reporting may be Required. For Preexisting Entity Accounts described in paragraph B, a Reporting Financial Institution must apply the following review procedures:
 
@@ -170,9 +178,7 @@ a) Review information maintained for regulatory or customer relationship purpose
 
 b) If the information indicates that the Account Holder is a Reportable Person, the Reporting Financial Institution must treat the account as a Reportable Account unless it obtains a self-certification from the Account Holder, or reasonably determines based on information in its possession or that is publicly available, that the Account Holder is not a Reportable Person.
 
-2. Determine the Residence of the Controlling Person of a Passive NFE. With respect to an Account Holder of a Preexisting Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must identify whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Controlling Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account is treated as a Reportable Account. In making these determinations the Reporting
-
-Financial Institution must follow the guidance in subparagraphs C(2)(a) through (c) in the order most appropriate under the circumstances.
+2. Determine the Residence of the Controlling Person of a Passive NFE. With respect to an Account Holder of a Preexisting Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must identify whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Controlling Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account is treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs C(2)(a) through (c) in the order most appropriate under the circumstances.
 
 a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
 
@@ -186,9 +192,9 @@ ii. A self-certification from the Account Holder or such Controlling Person of t
 
 D. Timing of Review and Additional Procedures Applicable to Preexisting Entity Accounts.
 
-1. Review of Preexisting Entity Accounts with an account balance or value that exceeds $250,000 as of 31 December 2015 must be completed by 31 December 2017.
+1. Review of Preexisting Entity Accounts with an account balance or value that exceeds $250,000 as of 31 December 2015, or if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025, must be completed by 31 December 2017 or, if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025.
 
-2. Review of Preexisting Entity Accounts with an account balance or value that does not exceed $250,000 as of 31 December 2015, but exceeds $250,000 as of 31 December of a subsequent year, must be completed within the calendar year following the year in which the account balance or value exceeds $250,000.
+2. Review of Preexisting Entity Accounts with an account balance or value that does not exceed $250,000 as of 31 December 2015, or if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025, but exceeds $250,000 as of 31 December of a subsequent year, must be completed within the calendar year following the year in which the account balance or value exceeds $250,000.
 
 3. If there is a change of circumstances with respect to a Preexisting Entity Account that causes the Reporting Financial Institution to know, or have reason to know, that the self-certification or other documentation associated with an account is incorrect or unreliable, the Reporting Financial Institution must re-determine the status of the account in accordance with the procedures set forth in paragraph C.
 
@@ -204,9 +210,9 @@ a) Obtain a self-certification, which may be part of the account opening documen
 
 b) If the self-certification indicates that the Account Holder is resident in a Reportable Jurisdiction, the Reporting Financial Institution must treat the account as a Reportable Account unless it reasonably determines based on information in its possession or that is publicly available, that the Account Holder is not a Reportable Person with respect to such Reportable Jurisdiction.
 
-2. Determine the Residence of the Controlling Persons of a Passive NFE. With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must identify whether the
+2. Determine the Residence of the Controlling Persons of a Passive NFE. With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must identify whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Reportable Persons. If any of the Controlling
 
-Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances.
+Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances.
 
 a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must rely on a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
 
@@ -218,11 +224,27 @@ Section VII: Special Due Diligence Rules
 
 The following additional rules apply in implementing the due diligence procedures described above:
 
-A. Reliance on Self-Certifications and Documentary Evidence. A Reporting Financial Institution may not rely on a self-certification or Documentary Evidence if the Reporting Financial Institution knows or has reason to know that the self- certification or Documentary Evidence is incorrect or unreliable.
+A.(1) Reliance on Self-Certifications and Documentary Evidence. A Reporting Financial Institution may not rely on a self-certification or Documentary Evidence if the Reporting Financial Institution knows or has reason to know that the self- certification or Documentary Evidence is incorrect or unreliable, including under the following circumstances with respect to the self-certification where:
 
-B. Alternative Procedures for Financial Accounts Held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial Institution and associated with the beneficiary contains indicia of residence in a Foreign Jurisdiction as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III.
+(i) a Reporting Financial Institution has doubts as to the tax residency(ies) of an Account Holder or Controlling Person related to the fact that such person is claiming residence in a jurisdiction offering a potentially high- risk Citizenship or Residence by Investment (CBI/RBI) scheme and it has not taken further measures to ascertain the tax residency(ies) of such persosn, including through raising further questions and receiving responses accompanies by relevant supporting documentation where applicable;
 
-A Reporting Financial Institution may treat a Financial Account that is a member’s interest in a Group Cash Value Insurance Contract or Group Annuity Contract as a Financial Account that is not a Reportable Account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the Financial Account that is a member’s interest in a Group Cash Value Insurance Contract or Group Annuity Contract meets the following requirements:
+(ii) the self-certification does not contain a TIN and the information disseminated by the OECD indicates that the Reportable Jurisdiction issues TINs to all tax residents; and
+
+(iii) there is an amendment to the applicable AML/KYC Procedures and additional information obtained under the amended AML/KYC Procedures is inconsistent with the claims made by a person in a self-certification.
+
+(2) Temporary lack of a self-certification
+
+In exceptional circumstances where a self-certification cannot be obtained and validated by a Reporting Financial Institution in respect of a New Account in time to meet its due diligence and reporting obligations with respect to the reporting period during which the account was opened, the Reporting Financial Institution must apply the due diligence procedures for Preexisting Accounts, until such self- certification is obtained and validated. Notwithstanding the above, for the purposes of subparagraph A(2) of Section I, such accounts should be reported upon as New Accounts.
+
+(3) Reliance on tiebreaker rules
+
+If an Account Holder or Controlling Person is resident for tax purposes in two or more jurisdictions under the domestic laws of such jurisdictions, such person shall not rely on the tiebreaker rules contained in tax conventions (if applicable) to determine its residence for tax purposes and must declare all of its jurisdictions of residence.
+
+B. Alternative Procedures for Financial Accounts Held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial
+
+Institution and associated with the beneficiary contains indicia of residence in a Foreign Jurisdiction as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III.
+
+A Reporting Financial Institution may treat a Financial Account that is a member’s interest in a Group Cash Value Insurance Contract or Group Annuity Contract as a Financial Account that is not a Reportable Account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the Financial Account that is a member’s interest in a Group Cash Value Insurance Contract or Group Annuity Contract  meets the following requirements:
 
 (a) the Group Cash Value Insurance Contract or Group Annuity Contract is issued to an employer and covers twenty-five or more employee/certificate holders;
 
@@ -234,7 +256,9 @@ The term “Group Cash Value Insurance Contract” means a Cash Value Insurance 
 
 C. Account Balance Aggregation and Currency Rules.
 
-1. Aggregation of Individual Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
+1. Aggregation of Individual Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial
+
+Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
 
 2. Aggregation of Entity Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
 
@@ -250,29 +274,39 @@ A. Reporting Financial Institution
 
 1. The term “Reporting Financial Institution” means any Participating Jurisdiction Financial Institution that is not a Non-Reporting Financial Institution.
 
-2. The term “Participating Jurisdiction Financial Institution” means (i) any Financial Institution that is resident in a Participating Jurisdiction, but excludes any branch of that Financial Institution that is located outside such Participating Jurisdiction, and (ii) any branch of a Financial Institution that is not resident in a Participating Jurisdiction, if that branch is located in such Participating Jurisdiction.
+2. The term “Participating Jurisdiction Financial Institution” means (i) any Financial Institution that is resident in a Participating Jurisdiction, but excludes any branch of that Financial Institution that is located outside such Participating
+
+Jurisdiction, and (ii) any branch of a Financial Institution that is not resident in a Participating Jurisdiction, if that branch is located in such Participating Jurisdiction.
 
 3. The term “Financial Institution” means a Custodial Institution, a Depository Institution, an Investment Entity, or a Specified Insurance Company.
 
 4. The term “Custodial Institution” means any Entity that holds, as a substantial portion of its business, Financial Assets for the account of others. An Entity holds Financial Assets for the account of others as a substantial portion of its business if the Entity’s gross income attributable to the holding of Financial Assets and related financial services equals or exceeds 20 per cent of the Entity’s gross income during the shorter of: (i) the three-year period that ends on 31 December (or the final day of a non-calendar year accounting period) prior to the year in which the determination is being made; or (ii) the period during which the Entity has been in existence.
 
-5. The term “Depository Institution” means any Entity that accepts deposits in the ordinary course of a banking or similar business.
+For the purposes of determining whether an Entity holds Financial Assets for the account of others as a substantial portion of its business, all remuneration for the relevant activities of the Entity must be considered, independent of whether that remuneration is paid directly to the Entity or to another Entity.
+
+5. The term “Depository Institution” means any Entity that:
+
+(a) accepts deposits in the ordinary course of a banking or similar business; or
+
+(b) Holds Specified Electronic Money Products or Central Bank Digital Currencies for the benefit of customers.
 
 6. The term “Investment Entity” means any Entity:
 
-a) that primarily conducts as a business one or more of the following activities or operations for or on behalf of a customer:
+(a) that primarily conducts as a business one or more of the following activities or operations for or on behalf of a customer:
 
 i. trading in money market instruments (cheques, bills, certificates of deposit, derivatives, etc.); foreign exchange; exchange, interest rate and index instruments; transferable securities; or commodity futures trading;
 
-ii. individual and collective portfolio management; or
+ii. individual and collective portfolio management; or iii. otherwise investing, administering, or managing Financial Assets or money or Relevant Crypto-Assets on behalf of other persons; or
 
-iii. otherwise investing, administering, or managing Financial Assets or money on behalf of other persons; or b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in subparagraph A(6)(a).
+b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets or Relevant Crypto-Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in subparagraph A(6)(a).
 
-An Entity is treated as primarily conducting as a business one or more of the activities described in subparagraph A(6)(a), or an Entity’s gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets for purposes of subparagraph A(6)(b), if the Entity’s gross income attributable to the relevant activities equals or exceeds 50 per cent of the Entity’s gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence. The term “Investment Entity” does not include an Entity that is an Active NFE because it meets any of the criteria in subparagraphs D(9)(d) through (g).
+An Entity is treated as primarily conducting as a business one or more of the activities described in subparagraph A(6)(a), or an Entity’s gross income is primarily attributable to investing, reinvesting, or trading in Financial Assets or Relevant Crypto-Assets for purposes of subparagraph A(6)(b), if the Entity’s gross income attributable to the relevant activities equals or exceeds 50 per cent of the Entity’s gross income during the shorter of: (i) the three-year period ending on 31 December of the year preceding the year in which the determination is made; or (ii) the period during which the Entity has been in existence. For the purposes of this gross income test, all remuneration for the relevant activities of an Entity is to be taken into account, independent of whether that remuneration is paid directly to the Entity to which the test is applied or to another Entity. For the purposes of subparagraph A(6)(a)(iii), the term “otherwise investing, administering, or managing Financial Assets, money, or Relevant Crypto- Assets on behalf of other persons” does not include the provision of services effectuating Exchange Transactions for or on behalf of customers. The term “Investment Entity” does not include an Entity that is an Active NFE because it meets any of the criteria in subparagraphs D(9)(d) through (g).
 
 This paragraph shall be interpreted in a manner consistent with similar language set forth in the definition of “financial institution” in the Financial Action Task Force Recommendations.
 
-7. The term “Financial Asset” includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, partnership interest, commodity, swap, Insurance Contract, or Annuity Contract. The term “Financial Asset” does not include a nondebt, direct interest in real property.
+7. The term “Financial Asset” includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, partnership interest, commodity, swap,
+
+Insurance Contract, or Annuity Contract. The term “Financial Asset” does not include a nondebt, direct interest in real property.
 
 8. The term “Specified Insurance Company” means any Entity that is an insurance company (or the holding company of an insurance company) that issues, or is obligated to make payments with respect to, a Cash Value Insurance Contract or an Annuity Contract.
 
@@ -290,7 +324,9 @@ d) an Exempt Collective Investment Vehicle; or
 
 e) a trust established under the laws of a Reportable Jurisdiction to the extent that the trustee of the trust is a Reporting Financial Institution and reports all information required to be reported pursuant to Section I with respect to all Reportable Accounts of the trust.
 
-2. The term “Governmental Entity” means the government of a jurisdiction, any political subdivision of a jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a jurisdiction or of any one or more of the foregoing (each, a “Governmental Entity”). This category is comprised of the integral parts, controlled entities, and political subdivisions of a jurisdiction.
+2. The term “Governmental Entity” means the government of a jurisdiction, any political subdivision of a jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a jurisdiction or of any one or more of the foregoing (each, a
+
+“Governmental Entity”). This category is comprised of the integral parts, controlled entities, and political subdivisions of a jurisdiction.
 
 a) An “integral part” of a jurisdiction means any person, organization, agency, bureau, fund, instrumentality, or other body, however designated, that constitutes a governing authority of a jurisdiction. The net earnings of the governing authority must be credited to its own account or to other accounts of the jurisdiction, with no portion inuring to the benefit of any private person. An integral part does not include any individual who is a sovereign, official, or administrator acting in a private or personal capacity.
 
@@ -390,7 +426,7 @@ e) As a return of an advance premium or premium deposit for an Insurance Contrac
 
 9. The term “Preexisting Account” means:
 
-(a) a Financial Account maintained by a Reporting Financial Institution as of 31 December 2015;
+(a) a Financial Account maintained by a Reporting Financial Institution as of 31 December 2015, or if the account is treated as  Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025;
 
 (b) any Financial Account of an Account Holder, regardless of the date such Financial Account was opened, if
 
@@ -402,7 +438,7 @@ e) As a return of an advance premium or premium deposit for an Insurance Contrac
 
 (iv) the opening of the Financial Account does not require the provision of new, additional or amended customer information by the Account Holder other than for purposes of the Common Reporting Standard.
 
-10. The term “New Account” means a Financial Account maintained by a Reporting Financial Institution opened on or after 1 January 2016.
+10. The term “New Account” means a Financial Account maintained by a Reporting Financial Institution opened on or after 1 January 2016, or if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, on or after 1 January 2026.
 
 11. The term “Preexisting Individual Account” means a Preexisting Account held by one or more individuals.
 
@@ -410,9 +446,9 @@ e) As a return of an advance premium or premium deposit for an Insurance Contrac
 
 13. The term “Preexisting Entity Account” means a Preexisting Account held by one or more Entities.
 
-14. The term “Lower Value Account” means a Preexisting Individual Account with an aggregate balance or value as of 31 December 2015 that does not exceed $1,000,000.
+14. The term “Lower Value Account” means a Preexisting Individual Account with an aggregate balance or value as of 31 December 2015, or if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025 that does not exceed $1,000,000.
 
-15. The term “High Value Account” means a Preexisting Individual Account with an aggregate balance or value that exceeds $1,000,000 as of 31 December 2015 or 31 December of any subsequent year.
+15. The term “High Value Account” means a Preexisting Individual Account with an aggregate balance or value that exceeds $1,000,000 as of 31 December 2015, or if the account is treated as a Financial Account solely by virtue of the amendments made to the Standard in 2023, as of 31 December 2025, or 31 December of any subsequent year.
 
 16. The term “New Entity Account” means a New Account held by one or more Entities.
 
@@ -538,7 +574,7 @@ E. Miscellaneous
 
 3. The term “Entity” means a legal person or a legal arrangement, such as a corporation, partnership, trust, or foundation.
 
-4. An Entity is a “Related Entity” of another Entity if (a) either Entity controls the other Entity; (b) the two Entities are under common control; or (c) the two Entities are Investment Entities described in subparagraph A(6)(b), are under common management, and such management fulfils the due diligence obligations of such Investment Entities. For this purpose control includes direct or indirect ownership of more than 50 per cent of the vote and value in an Entity.
+4. An Entity is a “Related Entity” of another Entity if (a) either Entity controls the other Entity; (b) the two Entities are under common control; or (c) the two Entities are Investment Entities described in subparagraph A(6)(b), are under common management, and such management fulfils the due diligence obligations of such Investment Entities. For this purpose, control includes direct or indirect ownership of more than 50 per cent of the vote and value in an Entity.
 
 5. The term “TIN” means Taxpayer Identification Number (or functional equivalent in the absence of a Taxpayer Identification Number).
 
@@ -552,7 +588,7 @@ c) With respect to an Entity, any official documentation issued by an authorized
 
 d) Any audited financial statement, third-party credit report, bankruptcy filing, or securities regulator’s report.
 
-With respect to a Pre-existing Entity Account, Reporting Financial Institutions may use as Documentary Evidence any classification in the Reporting Financial Institution’s records with respect to the Account Holder that was determined based on a standardised industry coding system, that was recorded by the Reporting Financial Institution consistent with its normal business practice for purposes of AML/KYC Procedures or another regulatory purposes (other than for tax purposes) and that was implemented by the Reporting Financial Institution prior to the date used to classify the Financial Account as a Preexisting Account, provided that the Reporting Financial Institution does not know ro has reason to know that such classification is incorrect or unreliable. The term £standardised industry coding system” means a coding system used to classify establishments by business type for purposes other than tax purposes.
+With respect to a Pre-existing Entity Account, Reporting Financial Institutions may use as Documentary Evidence any classification in the Reporting Financial Institution’s records with respect to the Account Holder that was determined based on a standardised industry coding system, that was recorded by the Reporting Financial Institution consistent with its normal business practice for purposes of AML/KYC Procedures or another regulatory purposes (other than for tax purposes) and that was implemented by the Reporting Financial Institution prior to the date used to classify the Financial Account as a Preexisting Account, provided that the Reporting Financial Institution does not know or has reason to know that such classification is incorrect or unreliable. The term standardised industry coding system” means a coding system used to classify establishments by business type for purposes other than tax purposes.
 
 7. The term “Foreign Jurisdiction” means any jurisdiction other than the jurisdiction of the Reporting Financial Institution.
 
