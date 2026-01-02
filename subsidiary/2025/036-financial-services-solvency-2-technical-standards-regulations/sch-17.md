@@ -130,7 +130,9 @@ where–
 
 (e) σ(prem,s) denotes the standard parameter that is replaced by the undertaking’s undertaking-specific parameter in respect of segment s.
 
-(3)  The standard deviation function must be equal to the following function of two variables– where–
+(3)  The standard deviation function must be equal to the following function of two variables–
+
+where–
 
 (a) and  are defined in sub-paragraph (2)(c) and (d), respectively;
 
@@ -296,11 +298,15 @@ USP Method specification.
 
 (d) C(i,j) denotes the cumulative claims for accident year i and development year j.
 
-(2)  A USP undertaking using reserve risk method 2 must calculate the standard deviation for segment s in accordance with the following formula– where–
+(2)  A USP undertaking using reserve risk method 2 must calculate the standard deviation for segment s in accordance with the following formula–
+
+where–
 
 (a) c denotes the credibility factor;
 
-(b) MSEP denotes the mean squared error of prediction as specified in sub-paragraph (3); (c) for all accident years and development years, denotes the cumulative claims estimate for the specific accident year i and development year j, being defined as follows–
+(b) MSEP denotes the mean squared error of prediction as specified in sub-paragraph (3);
+
+(c) for all accident years and development years, denotes the cumulative claims estimate for the specific accident year i and development year j, being defined as follows–
 
 where for all development years denotes for development factor estimate of the specific development year j, being defined as follows–
 
@@ -308,9 +314,7 @@ where for all development years denotes for development factor estimate of the s
 
 (3)  The mean squared error of prediction must be equal to the following–
 
-where–
-
-(a) for all accident years and development years, denotes the cumulative claim estimate in the specific accident year i and development year j, as set out in sub- paragraph (2)(c).
+where– (a) for all accident years and development years, denotes the cumulative claim estimate in the specific accident year i and development year j, as set out in sub- paragraph (2)(c).
 
 (b) for all development years, Sj denotes for a specific development year j the following amount–
 
@@ -424,7 +428,9 @@ where–
 
 PART 5 NON-PROPORTIONAL REINSURANCE METHODS
 
-Chapter 1 Method 1
+Chapter 1
+
+Method 1
 
 General Provisions.
 
@@ -490,7 +496,9 @@ USP method specification.
 
 (f) where the recognisable excess of loss reinsurance contract provides compensation only up to a specified limit, b2 denotes the amount of that limit.
 
-(2)  A USP undertaking using non-proportional reinsurance method 1 must calculate the adjustment factor for non-proportional reinsurance in accordance with the following formula– where–
+(2)  A USP undertaking using non-proportional reinsurance method 1 must calculate the adjustment factor for non-proportional reinsurance in accordance with the following formula–
+
+where–
 
 (a) c denotes the credibility factor;
 
@@ -498,9 +506,7 @@ USP method specification.
 
 (c) NP denotes the standard parameter that is replaced by the insurance or reinsurance undertaking’s undertaking specific parameter.
 
-(3)  The estimated adjustment factor for non-proportional reinsurance must be equal to the following–
-
-where sub-paragraph (1)(f) applies,
+(3)  The estimated adjustment factor for non-proportional reinsurance must be equal to the following– where sub-paragraph (1)(f) applies,
 
 otherwise.
 
@@ -516,9 +522,7 @@ where–
 
 (c) the parameters θ and η are equal to the following, respectively–
 
-(5)  Despite sub-paragraph (3), where non-proportional reinsurance covers homogeneous risk groups within a segment, the estimated adjustment factor for non-proportional reinsurance must be equal to the following–
-
-where–
+(5)  Despite sub-paragraph (3), where non-proportional reinsurance covers homogeneous risk groups within a segment, the estimated adjustment factor for non-proportional reinsurance must be equal to the following– where–
 
 (a) V(prem,h) denotes the volume measure for premium risk of the homogeneous risk group h determined in accordance with Article 116(3); and
 
@@ -606,7 +610,9 @@ otherwise.
 
 where the parameters μ1 , μ2 , ω1 and ω2 are set out in sub-paragraph (4).
 
-(4)  The parameters μ 1 , μ 2 , ω 1 and ω 2 must be equal to the following, respectively– where–
+(4)  The parameters μ 1 , μ 2 , ω 1 and ω 2 must be equal to the following, respectively–
+
+where–
 
 (a) N denotes the cumulative distribution function of the normal distribution;
 
@@ -614,7 +620,9 @@ where the parameters μ1 , μ2 , ω1 and ω2 are set out in sub-paragraph (4).
 
 (c) the parameters θ and η are equal to the following, respectively–
 
-(5)  Despite sub-paragraph (3), where non-proportional reinsurance covers homogeneous risk groups within a segment, the estimated adjustment factor for non-proportional reinsurance must be equal to the following– where–
+(5)  Despite sub-paragraph (3), where non-proportional reinsurance covers homogeneous risk groups within a segment, the estimated adjustment factor for non-proportional reinsurance must be equal to the following–
+
+where–
 
 (a) V(prem,h) denotes the volume measure for premium risk of the homogeneous risk group h determined in accordance with Article 116(3); and
 
@@ -624,7 +632,9 @@ PART 6 CREDIBILITY FACTOR
 
 17.(1)  The credibility factor for segments 1, 5 and 6 set out in Schedule 2 must be equal to the following–
 
-Time lengths in years Credibility factor c 5 34% 6 43% 7 51% 8 59% 9 67% 10 74% 11 81% 12 87% 13 92% 14 96% 15 and larger 100%
+Time lengths in years Credibility factor c 5 34% 6 43% 7 51% 8 59% 9 67% 10 74% 11 81% 12 87% 13 92%
+
+14 96% 15 and larger 100%
 
 (2)  The credibility factor for–
 
