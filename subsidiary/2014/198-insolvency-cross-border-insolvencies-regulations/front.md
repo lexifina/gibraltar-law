@@ -6,7 +6,7 @@ LN.2014/198
 
 Commencement 1.11.2014
 
-Amending enactments Relevant current provisions Commencement date LN. 2015/197 r. 34, Sch. 3.11.2015 2024/194 rr. 2, 5(3)(d), 22(1)(g), 34, Sch. 24.10.2024
+Amending enactments Relevant current provisions Commencement date LN. 2015/197 r. 34, Sch. 3.11.2015 2024/194 rr. 2, 5(3)(d), 22(1)(g), 34, Sch. 24.10.2024 2026/017 rr. 2, 5(3)(b), 10, 18(2)(a)-(b), 33 22.1.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -26,7 +26,7 @@ PART 3 UNCITRAL MODEL LAW
 
 Applications
 
-9. Application under this Part. 10.   Authorisation of insolvency officer to act in a foreign country.
+9. Application under this Part. 10.   Authorisation of insolvency officer to act in a foreign jurisdiction.
 
 Access of Foreign Representatives and Creditors to Courts in Gibraltar
 
@@ -34,9 +34,9 @@ Access of Foreign Representatives and Creditors to Courts in Gibraltar
 
 Recognition of Foreign Proceeding and Relief
 
-16.  Application for recognition of foreign proceeding. 17.  Presumptions concerning recognition.
+16.  Application for recognition of foreign proceeding. 17.  Presumptions concerning recognition. 18.  Recognition of foreign proceedings.
 
-18.  Recognition of foreign proceedings. 19.  Subsequent information. 20. Interim relief. 21.  Effects of recognition of foreign main proceeding. 22.  Relief that may be granted upon recognition of foreign proceeding. 23.  Protection of creditors and other interested persons. 24.  Actions to avoid acts detrimental to creditors. 25.   Intervention by foreign representative in proceedings in Gibraltar.
+19.  Subsequent information. 20. Interim relief. 21.  Effects of recognition of foreign main proceeding. 22.  Relief that may be granted upon recognition of foreign proceeding. 23.  Protection of creditors and other interested persons. 24.  Actions to avoid acts detrimental to creditors. 25.   Intervention by foreign representative in proceedings in Gibraltar.
 
 Cooperation with Foreign Courts and Foreign Representatives
 
