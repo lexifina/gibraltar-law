@@ -16,7 +16,9 @@ rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45
 
 1.1.2021 2020/475 rr. 41, 55(1)(h)-(j), (7), (7A)-(7B), (8), (13) 28.6.2021 “ rr. 94A-94C, 95(1) 1.1.2022 2021/493 rr. 2(1), 3(a)-(b), (d), 4(1)-(4), (6), 18-23, 33(19), 43(21), 61, 82, 83(2)-(4), 84(3)-(5), 145(da), 164(1)
 
-1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022 2022/321 r. 100A 24.11.2022 2023/266 r. 98A 8.9.2023 2024/079 rr. 130-133, 150(2)(b), 155(2)(d) 9.5.2024 2024/097 r. 14(3), (a) 13.6.2024
+1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022 2022/321 r. 100A 24.11.2022 2023/266 r. 98A 8.9.2023 2024/079 rr. 130-133, 150(2)(b), 155(2)(d) 9.5.2024 2024/097 r. 14(3), (a) 13.6.2024 2026/019 rr. 16(1)(c), 25(5), 61A-61J, 150(1), (4), 155(2)(b), Schs.1-2
+
+22.1.2026
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -92,6 +94,10 @@ Chapter 4 Level of application
 
 59. Internal capital adequacy assessment process. 60. Institutions’ arrangements, processes and mechanisms. 61. Review and evaluation and supervisory measures.
 
+Chapter 5 Assessment of step-in risk
+
+61A. Definitions. 61B. Level of application. 61C. Managing step-in risk. 61D. Strategies, processes and systems. 61E. Step-in risk assessment. 61F. Identification of step-in entities. 61G. Assessment of material step-in entities. 61H. Step-in risk policy. 61I. Governance. 61J. Reporting requirements.
+
 PART 5 PRUDENTIAL REQUIREMENTS
 
 Chapter 1 Principles of prudential supervision
@@ -110,9 +116,7 @@ SECTION 2 Financial holding companies, mixed financial holding companies and mix
 
 74. Inclusion of holding companies in consolidated supervision. 75. Supervision of mixed financial holding companies. 76. Qualification of directors. 77. Requests for information and inspections. 78. Supervision. 79. Exchange of information. 80. Omitted. 81. Assessment of equivalence of third countries’ consolidated  supervision.
 
-Chapter 3
-
-Capital buffers
+Chapter 3 Capital buffers
 
 SECTION 1 Buffers
 
@@ -124,7 +128,9 @@ SECTION 2 Setting and calculating countercyclical capital buffers
 
 SECTION 3 Capital conservation measures
 
-94. Restrictions on distributions. 94A. Failure to meet the combined buffer requirement. 94B. Restriction on distributions in case of failure to meet the leverage ratio buffer requirement. 94C. Failure to meet the leverage ratio buffer requirement. 95. Capital conservation plan.
+94. Restrictions on distributions.
+
+94A. Failure to meet the combined buffer requirement. 94B. Restriction on distributions in case of failure to meet the leverage ratio buffer requirement. 94C. Failure to meet the leverage ratio buffer requirement. 95. Capital conservation plan.
 
 PART 6 REPORTING AND NOTIFICATION
 
@@ -148,7 +154,9 @@ Chapter 1 Omitted
 
 Chapter 2 Gibraltar firms
 
-113. Application of Chapter 2. 114. to 118. Omitted.
+113. Application of Chapter 2.
+
+114. to 118. Omitted.
 
 Overseas offices
 
@@ -174,7 +182,9 @@ General
 
 Intervention
 
-137. Information gathering and investigatory powers. 138. Regulatory measures: general. 139. Omitted. 140. Exercise of powers for specific purposes. 140A. Additional own funds requirement. 140B. Guidance on additional own funds. 140C. Cooperation with resolution authority. 141. Specific liquidity requirements. 142. Specific publication requirements. 143. Omitted.
+137. Information gathering and investigatory powers. 138. Regulatory measures: general. 139. Omitted. 140. Exercise of powers for specific purposes. 140A. Additional own funds requirement. 140B. Guidance on additional own funds. 140C. Cooperation with resolution authority. 141. Specific liquidity requirements. 142. Specific publication requirements.
+
+143. Omitted.
 
 Sanctions
 
@@ -210,6 +220,8 @@ Savings and revocations
 
 176. Directive 2006/48/EC and Directive 2006/49/EC. 177. Revocations.
 
-SCHEDULE ADDITIONAL ACTIVITIES
+SCHEDULE 1 ADDITIONAL ACTIVITIES
+
+SCHEDULE 2 STEP-IN REPORTING TEMPLATES
 
 In exercise of the powers conferred on the Minister under sections 6(1), 44(4), 59(3), 61(1), 64(3), 83(1), 130, 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.

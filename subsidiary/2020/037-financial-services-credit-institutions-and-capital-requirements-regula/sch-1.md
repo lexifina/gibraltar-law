@@ -1,4 +1,4 @@
-SCHEDULE Regulation 16(1)
+SCHEDULE 1 Regulation 16(1)
 
 ADDITIONAL ACTIVITIES
 
