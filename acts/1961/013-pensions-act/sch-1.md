@@ -6,7 +6,7 @@ Pensions Regulations
 
 Amending enactment Relevant current provisions Commencement date LN. 1985/100 rr. 2(1), 5(1)(d), 15(4), 16(1), 19, 20(c)(i) 16.8.1977 1986/127 r. 5(2)-(3) 1.1.1984 1989/013 r. 23A 16.2.1989 1992/144 r. 19(1) 26.4.1990 1990/046 r. 16(2)(c)-(d) 10.5.1990 1990/140 r. 19(1) 25.10.1990 1992/003 r. 16(2)(d) 9.1.1992 1994/034 r. 5(1)(b), (d)-(e), (2)(c)-(d) 31.3.1994 Act. 2007-17 rr. 2(1)-(2), 3, 5(1)-(2), 7, 16(2), 17, 19(1)-(2), (4), 20, 24(3), (6), (8)-(9), 26(2), (b), (3), 27(1), (3)
 
-14.6.2007 2013-15 rr. 4(4), 5(2), (d)-(e), (5)-(6) 1.1.2009 LN. 2018/142 r. 5(5A) 4.2.2011 2012/010 r. 26(1) 9.2.2012 Act. 2013-15 r. 19(5) 8.8.2013 2014-10 rr. 7, 14 28.3.2014 2015-20 r. 4(1), (1A) 6.8.2015 LN. 2017/238 r. 5(2)(e), (5A)-(5B) 1.12.2017 Act. 2018-05 r. 4(1) 1.1.2018 LN. 2018/142 r. 5(2)(a), (5B) 21.6.2018 LN. 2023/182 r. 19(6)(b)-(c) 6.7.2023
+14.6.2007 2013-15 rr. 4(4), 5(2), (d)-(e), (5)-(6) 1.1.2009 LN. 2018/142 r. 5(5A) 4.2.2011 2012/010 r. 26(1) 9.2.2012 Act. 2013-15 r. 19(5) 8.8.2013 2014-10 rr. 7, 14 28.3.2014 2015-20 r. 4(1), (1A) 6.8.2015 LN. 2017/238 r. 5(2)(e), (5A)-(5B) 1.12.2017 Act. 2018-05 r. 4(1) 1.1.2018 LN. 2018/142 r. 5(2)(a), (5B) 21.6.2018 LN. 2023/182 r. 19(6)(b)-(c) 6.7.2023 2026/023 r. 4(1B), (2) 23.1.2026
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -80,13 +80,15 @@ Provided that in respect of each month of pensionable service completed by a pol
 
 (1A) The provisions of regulation 4(1) do not apply to a customs officer until the 1 April 2018.
 
-(2)  Where any police officer –
+(1B) Where an officer to whom this regulation applies-
 
-(a)  served immediately before the lst day of April, 1947, in Her Majesty’s Dockyard in Gibraltar, and did not hold a pensionable office therein, whether as a member of the Dockyard Police or otherwise; and
+(a) was a police officer or a customs officer, and he  was  transferred from the police force or customs under exceptional circumstances as approved by the Government, to a Government Department, Statutory Authority,  Agency  or any wholly owned Government company or  corporation provided that the names of any such Statutory Authorities or Agencies have been so prescribed by the Government by Notice in the Gazette under section 6(1)(d); and the names of any such wholly owned Government companies or corporations have been so prescribed by the Government by notice in the Gazette under section 6(1)(e); and
 
-(b)  was appointed as a police officer in the civil police force with effect from such date,
+(b) at the time of the transfer such person is entitled to a pension, gratuity or allowance under these regulations,
 
-one half of the total period of his continuous service in such Dockyard shall be deemed to have been service as a police officer for the purposes of this Act and to have been continuous with the period of his service under the Government beginning on such date.
+subregulation (1) shall apply to that officer (as the case may be) but as if he was still in the police force or in customs, as a police officer or customs officer.
+
+(2)  Revoked.
 
 (3)  An officer who actually retires from the public service in the circumstances mentioned in section 6(1)(a)(iv) of the Act, and at an age of less than fifty-five years, and who has completed more than ten years but less than twenty years pensionable service, may be granted an additional pension at the annual rate of one six-hundredth of his pensionable emoluments for each month by which his pensionable service falls short of twenty years:
 
@@ -156,11 +158,11 @@ Gratuities where length of service does not qualify for pension.
 
 Marriage gratuities.
 
-7. Where a female officer or person retires for the reason that he or she is about to marry or enter into a civil partnership or has married or entered into a civil partnership respectively having been in public service under the Government for not less than five years and having been confirmed in a pensionable office, and is not eligible for the grant of any pension or
+7. Where a female officer or person retires for the reason that he or she is about to marry or enter into a civil partnership or has married or entered into a civil partnership respectively having been in public service under the Government for not less than five years and having been confirmed in a pensionable office, and is not eligible for the grant of any pension or otherwise eligible for gratuity under this Part, he or she may be granted, if he or she retires not
 
 3 Refer to LN.2018/142 (Deemed to have come into operation on 4th February 2011).
 
-otherwise eligible for gratuity under this Part, he or she may be granted, if he or she retires not later than six months after the date of her marriage or civil partnership, on production within six months after his or her retirement, or such longer period as the Government may in any case allow, of satisfactory evidence of her marriage or civil partnership, a gratuity of an amount not exceeding –
+later than six months after the date of her marriage or civil partnership, on production within six months after his or her retirement, or such longer period as the Government may in any case allow, of satisfactory evidence of her marriage or civil partnership, a gratuity of an amount not exceeding –
 
 (a)  one year’s annual pensionable emoluments; or
 
@@ -248,9 +250,7 @@ Marriage gratuities.
 
 (i) would have been eligible for a gratuity under regulation 7 if his or her public service had been wholly under the Government’; and
 
-(ii) is not eligible for the grant of any pension or otherwise eligible for gratuity under this Part,
-
-he or she may be granted in respect of her public service under the Government a gratuity of an amount not exceeding five times the annual amount of the pension for which she would have been eligible under regulation 10, 11 or 12 had there been no qualifying period and had regulation 10, 11 or 12, as the case may be, been applicable to her:
+(ii) is not eligible for the grant of any pension or otherwise eligible for gratuity under this Part, he or she may be granted in respect of her public service under the Government a gratuity of an amount not exceeding five times the annual amount of the pension for which she would have been eligible under regulation 10, 11 or 12 had there been no qualifying period and had regulation 10, 11 or 12, as the case may be, been applicable to her:
 
 Provided that for the purpose of computing the amount of such a gratuity –
 
@@ -296,9 +296,7 @@ And provided also that any two or more periods of service of which account is ta
 
 (i) at age 55 or over, having completed, but for such break in the service, the period of which shall not in any case be taken into account as qualifying or pensionable service, 20 years pensionable service; and
 
-(ii) on account of abolition of office or reorganisation designed to give greater efficiency or economy,
-
-may, if the Government thinks fit, be granted the pension or gratuity for which he would have been eligible if any break in his public service immediately prior to such suspension, re- employment or employment had not occurred, such pension to be in lieu of–
+(ii) on account of abolition of office or reorganisation designed to give greater efficiency or economy, may, if the Government thinks fit, be granted the pension or gratuity for which he would have been eligible if any break in his public service immediately prior to such suspension, re- employment or employment had not occurred, such pension to be in lieu of–
 
 (i) any pension previously granted to him from the funds of Gibraltar; and
 
