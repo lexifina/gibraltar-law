@@ -156,7 +156,9 @@ Section IV: Due Diligence for New Individual Accounts
 
 The following procedures apply with respect to New Individual Accounts.
 
-A. With respect to New Individual Accounts, upon account opening, the Reporting Financial Institution must obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Financial Institution to determine the Account Holder’s residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the Reporting Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures.
+A. With respect to New Individual Accounts, upon account opening, the Reporting Financial Institution must obtain a self-certification, which may be part of the account opening documentation, that allows the Reporting Financial Institution to determine the Account Holder’s residence(s) for tax purposes and confirm the reasonableness of such self-certification based on the information obtained by the
+
+Reporting Financial Institution in connection with the opening of the account, including any documentation collected pursuant to AML/KYC Procedures.
 
 B. If the self-certification establishes that the Account Holder is resident for tax purposes in a Reportable Jurisdiction, the Reporting Financial Institution must treat the account as a Reportable Account and the self-certification must also include the Account Holder’s TIN with respect to such Reportable Jurisdiction (subject to paragraph D of Section I) and date of birth.
 
@@ -182,7 +184,9 @@ b) If the information indicates that the Account Holder is a Reportable Person, 
 
 a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must obtain a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
 
-b) Determining the Controlling Persons of an Account Holder. For the purposes of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
+b) Determining the Controlling Persons of an Account Holder. For the purposes of determining the Controlling Persons of an Account Holder, a
+
+Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
 
 c) Determining the residence of a Controlling Person of a Passive NFE. For the purposes of determining the residence of a Controlling Person of a Passive NFE, a Reporting Financial Institution may rely on:
 
@@ -210,11 +214,11 @@ a) Obtain a self-certification, which may be part of the account opening documen
 
 b) If the self-certification indicates that the Account Holder is resident in a Reportable Jurisdiction, the Reporting Financial Institution must treat the account as a Reportable Account unless it reasonably determines based on information in its possession or that is publicly available, that the Account Holder is not a Reportable Person with respect to such Reportable Jurisdiction.
 
-2. Determine the Residence of the Controlling Persons of a Passive NFE. With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must identify whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Reportable Persons. If any of the Controlling
+2. Determine the Residence of the Controlling Persons of a Passive NFE. With respect to an Account Holder of a New Entity Account (including an Entity that is a Reportable Person), the Reporting Financial Institution must identify whether the Account Holder is a Passive NFE with one or more Controlling Persons and determine the residence of such Reportable Persons. If any of the Controlling Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances.
 
-Persons of a Passive NFE is a Reportable Person, then the account must be treated as a Reportable Account. In making these determinations the Reporting Financial Institution must follow the guidance in subparagraphs A(2)(a) through (c) in the order most appropriate under the circumstances.
+a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must rely on a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial
 
-a) Determining whether the Account Holder is a Passive NFE. For purposes of determining whether the Account Holder is a Passive NFE, the Reporting Financial Institution must rely on a self-certification from the Account Holder to establish its status, unless it has information in its possession or that is publicly available, based on which it can reasonably determine that the Account Holder is an Active NFE or a Financial Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
+Institution other than an Investment Entity described in subparagraph A(6)(b) of Section VIII that is not a Participating Jurisdiction Financial Institution.
 
 b) Determining the Controlling Persons of an Account Holder. For purposes of determining the Controlling Persons of an Account Holder, a Reporting Financial Institution may rely on information collected and maintained pursuant to AML/KYC Procedures.
 
@@ -240,9 +244,7 @@ In exceptional circumstances where a self-certification cannot be obtained and v
 
 If an Account Holder or Controlling Person is resident for tax purposes in two or more jurisdictions under the domestic laws of such jurisdictions, such person shall not rely on the tiebreaker rules contained in tax conventions (if applicable) to determine its residence for tax purposes and must declare all of its jurisdictions of residence.
 
-B. Alternative Procedures for Financial Accounts Held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial
-
-Institution and associated with the beneficiary contains indicia of residence in a Foreign Jurisdiction as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III.
+B. Alternative Procedures for Financial Accounts Held by Individual Beneficiaries of a Cash Value Insurance Contract or an Annuity Contract. A Reporting Financial Institution may presume that an individual beneficiary (other than the owner) of a Cash Value Insurance Contract or an Annuity Contract receiving a death benefit is not a Reportable Person and may treat such Financial Account as other than a Reportable Account unless the Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person. A Reporting Financial Institution has reason to know that a beneficiary of a Cash Value Insurance Contract or an Annuity Contract is a Reportable Person if the information collected by the Reporting Financial Institution and associated with the beneficiary contains indicia of residence in a Foreign Jurisdiction as described in paragraph B of Section III. If a Reporting Financial Institution has actual knowledge, or reason to know, that the beneficiary is a Reportable Person, the Reporting Financial Institution must follow the procedures in paragraph B of Section III.
 
 A Reporting Financial Institution may treat a Financial Account that is a member’s interest in a Group Cash Value Insurance Contract or Group Annuity Contract as a Financial Account that is not a Reportable Account until the date on which an amount is payable to the employee/certificate holder or beneficiary, if the Financial Account that is a member’s interest in a Group Cash Value Insurance Contract or Group Annuity Contract  meets the following requirements:
 
@@ -256,9 +258,7 @@ The term “Group Cash Value Insurance Contract” means a Cash Value Insurance 
 
 C. Account Balance Aggregation and Currency Rules.
 
-1. Aggregation of Individual Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial
-
-Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
+1. Aggregation of Individual Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an individual, a Reporting Financial Institution is required to aggregate all Financial Accounts maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
 
 2. Aggregation of Entity Accounts. For purposes of determining the aggregate balance or value of Financial Accounts held by an Entity, a Reporting Financial Institution is required to take into account all Financial Accounts that are maintained by the Reporting Financial Institution, or by a Related Entity, but only to the extent that the Reporting Financial Institution’s computerized systems link the Financial Accounts by reference to a data element such as client number or TIN, and allow account balances or values to be aggregated. Each holder of a jointly held Financial Account shall be attributed the entire balance or value of the jointly held Financial Account for purposes of applying the aggregation requirements described in this subparagraph.
 
@@ -274,9 +274,7 @@ A. Reporting Financial Institution
 
 1. The term “Reporting Financial Institution” means any Participating Jurisdiction Financial Institution that is not a Non-Reporting Financial Institution.
 
-2. The term “Participating Jurisdiction Financial Institution” means (i) any Financial Institution that is resident in a Participating Jurisdiction, but excludes any branch of that Financial Institution that is located outside such Participating
-
-Jurisdiction, and (ii) any branch of a Financial Institution that is not resident in a Participating Jurisdiction, if that branch is located in such Participating Jurisdiction.
+2. The term “Participating Jurisdiction Financial Institution” means (i) any Financial Institution that is resident in a Participating Jurisdiction, but excludes any branch of that Financial Institution that is located outside such Participating Jurisdiction, and (ii) any branch of a Financial Institution that is not resident in a Participating Jurisdiction, if that branch is located in such Participating Jurisdiction.
 
 3. The term “Financial Institution” means a Custodial Institution, a Depository Institution, an Investment Entity, or a Specified Insurance Company.
 
@@ -296,7 +294,9 @@ For the purposes of determining whether an Entity holds Financial Assets for the
 
 i. trading in money market instruments (cheques, bills, certificates of deposit, derivatives, etc.); foreign exchange; exchange, interest rate and index instruments; transferable securities; or commodity futures trading;
 
-ii. individual and collective portfolio management; or iii. otherwise investing, administering, or managing Financial Assets or money or Relevant Crypto-Assets on behalf of other persons; or
+ii. individual and collective portfolio management; or
+
+iii. otherwise investing, administering, or managing Financial Assets or money or Relevant Crypto-Assets on behalf of other persons; or
 
 b) the gross income of which is primarily attributable to investing, reinvesting, or trading in Financial Assets or Relevant Crypto-Assets, if the Entity is managed by another Entity that is a Depository Institution, a Custodial Institution, a Specified Insurance Company, or an Investment Entity described in subparagraph A(6)(a).
 
@@ -304,9 +304,7 @@ An Entity is treated as primarily conducting as a business one or more of the ac
 
 This paragraph shall be interpreted in a manner consistent with similar language set forth in the definition of “financial institution” in the Financial Action Task Force Recommendations.
 
-7. The term “Financial Asset” includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, partnership interest, commodity, swap,
-
-Insurance Contract, or Annuity Contract. The term “Financial Asset” does not include a nondebt, direct interest in real property.
+7. The term “Financial Asset” includes a security (for example, a share of stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture, or other evidence of indebtedness), partnership interest, commodity, swap (for example, interest rate swaps, currency swaps, basis swaps, interest rate caps, interest rate floors, commodity swaps, equity swaps, equity index swaps, and similar agreements), Insurance Contract or Annuity Contract, or any interest (including a futures or forward contract or option) in a security, partnership interest, commodity, swap, Insurance Contract, or Annuity Contract. The term “Financial Asset” does not include a nondebt, direct interest in real property.
 
 8. The term “Specified Insurance Company” means any Entity that is an insurance company (or the holding company of an insurance company) that issues, or is obligated to make payments with respect to, a Cash Value Insurance Contract or an Annuity Contract.
 
@@ -314,7 +312,9 @@ B. Non-Reporting Financial Institution
 
 1. The term “Non-Reporting Financial Institution” means any Financial Institution that is:
 
-a) a Governmental Entity, International Organization or Central Bank, other than with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged in by a Specified Insurance Company, Custodial Institution, or Depository Institution;
+a) a Governmental Entity, International Organization or Central Bank, other than with respect to a payment that is derived from an obligation held in connection with a commercial financial activity of a type engaged in by a
+
+Specified Insurance Company, Custodial Institution, or Depository Institution;
 
 b) a Broad Participation Retirement Fund; a Narrow Participation Retirement Fund; a Pension Fund of a Governmental Entity, International Organization or Central Bank; or a Qualified Credit Card Issuer;
 
@@ -324,9 +324,7 @@ d) an Exempt Collective Investment Vehicle; or
 
 e) a trust established under the laws of a Reportable Jurisdiction to the extent that the trustee of the trust is a Reporting Financial Institution and reports all information required to be reported pursuant to Section I with respect to all Reportable Accounts of the trust.
 
-2. The term “Governmental Entity” means the government of a jurisdiction, any political subdivision of a jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a jurisdiction or of any one or more of the foregoing (each, a
-
-“Governmental Entity”). This category is comprised of the integral parts, controlled entities, and political subdivisions of a jurisdiction.
+2. The term “Governmental Entity” means the government of a jurisdiction, any political subdivision of a jurisdiction (which, for the avoidance of doubt, includes a state, province, county, or municipality), or any wholly owned agency or instrumentality of a jurisdiction or of any one or more of the foregoing (each, a “Governmental Entity”). This category is comprised of the integral parts, controlled entities, and political subdivisions of a jurisdiction.
 
 a) An “integral part” of a jurisdiction means any person, organization, agency, bureau, fund, instrumentality, or other body, however designated, that constitutes a governing authority of a jurisdiction. The net earnings of the governing authority must be credited to its own account or to other accounts of the jurisdiction, with no portion inuring to the benefit of any private person. An integral part does not include any individual who is a sovereign, official, or administrator acting in a private or personal capacity.
 
@@ -380,7 +378,9 @@ a) The Financial Institution is a Financial Institution solely because it is an 
 
 b) Beginning on or before 1 January 2016, the Financial Institution implements policies and procedures either to prevent a customer from making an overpayment in excess of $50,000, or to ensure that any customer overpayment in excess of $50,000 is refunded to the customer within 60 days, in each case applying the rules set forth in paragraph C of Section VII for account aggregation and currency translation. For this purpose, a customer overpayment does not refer to credit balances to the extent of disputed charges but does include credit balances resulting from merchandise returns.
 
-9. The term “Exempt Collective Investment Vehicle” means an Investment Entity that is regulated as a collective investment vehicle, provided that all of the interests in the collective investment vehicle are held by or through one or more Entities described in subparagraph B(1), or individuals or Entities that are not Reportable Persons, except a Passive NFE with Controlling Persons who are Reportable Persons. An Investment Entity that is regulated as a collective investment vehicle does not fail to qualify under subparagraph B(9) as an Exempt Collective Investment Vehicle, solely because the collective investment vehicle has issued physical shares in bearer form, provided that:
+9. The term “Exempt Collective Investment Vehicle” means an Investment Entity that is regulated as a collective investment vehicle, provided that all of the interests in the collective investment vehicle are held by or through one or more Entities described in subparagraph B(1), or individuals or Entities that are not Reportable Persons, except a Passive NFE with Controlling Persons who are Reportable Persons. An Investment Entity that is regulated as a collective investment vehicle does not fail to qualify under subparagraph B(9) as an Exempt Collective
+
+Investment Vehicle, solely because the collective investment vehicle has issued physical shares in bearer form, provided that:
 
 a) The collective investment vehicle has not issued, and does not issue, any physical shares in bearer form after 31 December 2015;
 
@@ -430,7 +430,9 @@ e) As a return of an advance premium or premium deposit for an Insurance Contrac
 
 (b) any Financial Account of an Account Holder, regardless of the date such Financial Account was opened, if
 
-(i) the Account Holder also holds with the Reporting Financial Institution (or with a Related Entity within the same jurisdiction as the Reporting Financial Institution) a Financial Account that is a Preexisting Account under subparagraph C(9)(a);
+(i) the Account Holder also holds with the Reporting Financial Institution (or with a Related Entity within the same jurisdiction as the Reporting
+
+Financial Institution) a Financial Account that is a Preexisting Account under subparagraph C(9)(a);
 
 (ii) the Reporting Financial Institution (and, as applicable, the Related Entity within the same jurisdiction as the Reporting Financial Institution) treats both the aforementioned Financial Accounts, and any other Financial Accounts of the Account Holder that are treated as Preexisting Accounts under this subparagraph C(9)(b), as a single Financial Account for purposes of satisfying the standards of knowledge requirements set forth in paragraph A of Section VII, and for purposes of determining the balance or values of any of the Financial Accounts when applying any of the account thresholds;
 
