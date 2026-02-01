@@ -14,7 +14,9 @@ SI02.00 – Detailed reporting of material step-in entities (SI2).
 
 ENTITY OR GROUP OF ENTITIES Code Type of Code Name of Entity Entity Type Material entity group (where applicable) 0010 0020 0025 0030 0035
 
-ENTITY OR GROUP OF ENTITIES Purpose and design Total asset size of the entity Methodology used to estimate potential impact Type of support anticipated Size of support anticipated (nominal) 0040 0050 0060 0070 0080
+ENTITY OR GROUP OF ENTITIES
+
+Purpose and design Total asset size of the entity Methodology used to estimate potential impact Type of support anticipated Size of support anticipated (nominal) 0040 0050 0060 0070 0080
 
 STEP-IN RISK ESTIMATES Impact on CET1 ratio (percentage points) Impact on leverage ratio (percentage points) Impact on LCR (percentage points) Impact on NSFR (percentage points) 0090 0100 0110 0120
 
@@ -24,8 +26,6 @@ RISK INDICATOR ANALYSIS Nature and degree of sponsorship Degree of influence Imp
 
 RISK INDICATOR ANALYSIS Transparency and disclosure Investor disclosure Accounting disclosure Investor risk alignment Reputational risk (branding/cross- selling) 0220 0230 0240 0250 0260
 
-RISK INDICATOR ANALYSIS
-
-Historical dependence Regulatory restrictions Other Is step-in risk significant? Rationale for significance determination 0270 0280 0285 0290 0295
+RISK INDICATOR ANALYSIS Historical dependence Regulatory restrictions Other Is step-in risk significant? Rationale for significance determination 0270 0280 0285 0290 0295
 
 RISK MANAGEMENT Risk mitigation Next steps Mitigants employed In existing ICAAP/ILAAP 0300 0310 0320

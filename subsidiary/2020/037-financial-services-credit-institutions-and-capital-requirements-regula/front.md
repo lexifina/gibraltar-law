@@ -10,15 +10,17 @@ Amending enactments Relevant current provisions Commencement date LN.2020/475 r.
 
 rr. 2(1), (3), 5(2)-(3), 8(1), (1A), 12(2), 16A-16B, 31(1)-(2), 32(1), 42(1), 45(3A)-(3B), 46(1)-(3), (11)- (12), 49, 51(13)(a), (14), (18A)-(18B), 54(1)(a)-(c), (4A)-(4C), (6)-(8), 56(3)(b)-(c), 59(5)-(6), 60(2)-(9), 66, 68, 70(5), 74(1), 75(2), 80(2A), 82A, 83-84, 85(2), (4), (7A)-(7D), (12), (12A)-(12C), (14)-(26), 86-87, 89(5), (10)-(12), 94(1)-(9), 99(2A), 134(1A), (2), (2A), 136(3), 139, 140(1)-(2), (2A)-(2B), (3), 140A-140C, 141(1)(d), 145(g), 146(d), 167(1)(f)- (h), 168(1), 169A, 173(1)(c), 175A-175C
 
-28.12.2020 2021/250 rr. 2, 4(7), 5(1)(a), (f), (3), 7, 11(4), 12(5), 14(3)-(4), 15, 16(1)(c), (2)-(3), 16A, (1)(a)-(b), (2)-(3), (5)(b), (9), (14)-(19), 16B, 16C(1), (4)-(5), (7), 17, (a), 21, 22(1)(b), (2), (b), 25(4)-(5), 26(3), 28, 29(1)(a), (2), 31(3), 32, 33(9), 34(2), (5)-(6), 35(3)-(4), (7), (10)- (11), 40(3), 43(3), (8), (13), (18), (21), 46(1)-(3), 48(7)(b), (10), (16)-(17), 51(8)(c)(vi)-(vii), (d), (19), 54(1), (4C), (5)-(6), (7)(a), (8), 55(1)(g), (4), (8), 56(2)(c), (5), 57(1)-(2), 58(9), 59(4), (7), 60(5)-(8), 62-73, 75(1)-(4), 77(1), (3)-(4), 78(1), 79(1)-(5), 80, 81(2), (4)-(6), 82(1)-(2), 82A(1)(b), 83(5), 84(6), 85(2)-(4), (5)(e), (7A)(b), (9)(b), (10), (12A)-(12C), (13)(a), (14)-(15), (b), (17)(c), (19)-(20), (27), 86(4)(c)-(d), (7)(a), (8)-(20), (25)-(26), 87(1)(a)-(b), (2)-(3), (5), 88, 89(1), (4)(b), (5)(b), (7), (8)(a), (11)- (12), 90(1), (2)(b), 91, 92(1)-(2), (5), 93(1), (3), (6), (7)(a)-(c), (9), 96(1)-(2), (4)-(5), 99, 100(1), 105-
+28.12.2020 2021/250 rr. 2, 4(7), 5(1)(a), (f), (3), 7, 11(4), 12(5), 14(3)-(4), 15, 16(1)(c), (2)-(3), 16A, (1)(a)-(b), (2)-(3), (5)(b), (9), (14)-(19), 16B, 16C(1), (4)-(5), (7), 17, (a), 21, 22(1)(b), (2), (b), 25(4)-(5), 26(3), 28, 29(1)(a), (2), 31(3), 32, 33(9), 34(2), (5)-(6), 35(3)-(4), (7), (10)- (11), 40(3), 43(3), (8), (13), (18), (21), 46(1)-(3), 48(7)(b), (10), (16)-(17), 51(8)(c)(vi)-(vii), (d), (19), 54(1), (4C), (5)-(6), (7)(a), (8), 55(1)(g), (4), (8), 56(2)(c), (5), 57(1)-(2), 58(9), 59(4), (7), 60(5)-(8), 62-73, 75(1)-(4), 77(1), (3)-(4), 78(1), 79(1)-(5), 80, 81(2), (4)-(6), 82(1)-(2), 82A(1)(b), 83(5), 84(6), 85(2)-(4), (5)(e), (7A)(b), (9)(b), (10), (12A)-(12C), (13)(a), (14)-(15), (b), (17)(c), (19)-(20), (27), 86(4)(c)-(d), (7)(a), (8)-(20), (25)-(26), 87(1)(a)-(b), (2)-(3), (5), 88, 89(1), (4)(b), (5)(b), (7), (8)(a), (11)- (12), 90(1), (2)(b), 91, 92(1)-(2), (5), 93(1), (3), (6), (7)(a)-(c), (9), 96(1)-(2), (4)-(5), 99, 100(1), 105- 118, 120-129, 131(5), 134(1), (1A), (b), (2)-(3),
 
-118, 120-129, 131(5), 134(1), (1A), (b), (2)-(3), 135(1), (a)-(b), (2), 136(3), 140C, 141(2), 143, 146(b), 148(1)-(2), 149(1), 150(2)(a)-(c), (3), (7), 151, 154, 155(2)(a), 156(1)(a), 157(1)(b), 158-163, 164(1), (4)-(5), 165(b)-(d), 166-169, 170(4)-(6), 171, 172(1), (3), 173, 174(1), 175B-175C, 176(1)-(2), Sch.
+135(1), (a)-(b), (2), 136(3), 140C, 141(2), 143, 146(b), 148(1)-(2), 149(1), 150(2)(a)-(c), (3), (7), 151, 154, 155(2)(a), 156(1)(a), 157(1)(b), 158-163, 164(1), (4)-(5), 165(b)-(d), 166-169, 170(4)-(6), 171, 172(1), (3), 173, 174(1), 175B-175C, 176(1)-(2), Sch.
 
 1.1.2021 2020/475 rr. 41, 55(1)(h)-(j), (7), (7A)-(7B), (8), (13) 28.6.2021 “ rr. 94A-94C, 95(1) 1.1.2022 2021/493 rr. 2(1), 3(a)-(b), (d), 4(1)-(4), (6), 18-23, 33(19), 43(21), 61, 82, 83(2)-(4), 84(3)-(5), 145(da), 164(1)
 
 1.1.2022 2022/153 rr. 59(1), 101(4), Sch. 23.6.2022 2022/321 r. 100A 24.11.2022 2023/266 r. 98A 8.9.2023 2024/079 rr. 130-133, 150(2)(b), 155(2)(d) 9.5.2024 2024/097 r. 14(3), (a) 13.6.2024 2026/019 rr. 16(1)(c), 25(5), 61A-61J, 150(1), (4), 155(2)(b), Schs.1-2
 
-22.1.2026
+22.1.2026 2026/018 rr. 2(1), (1A), 16C, (1), (3)-(4), 41(3), (4)(b), 51(18A)(a)(i), (18B)(a)(i), 59(2)-(3), 140A(12)(a), (13)(c), 145(da), 176(1)
+
+1.2.2026
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -46,7 +48,7 @@ Parent undertakings
 
 Authorisation of specific credit institutions
 
-16C. Authorisation of Article 4.1(1)(b) CRR credit institutions.
+16C. Authorisation of specified firms as credit institutions.
 
 Third country firms
 
@@ -76,7 +78,9 @@ Chapter 2 Arrangements, processes and mechanisms of institutions
 
 General principles
 
-31. Internal governance and recovery and resolution plans. 32. Omitted.
+31. Internal governance and recovery and resolution plans.
+
+32. Omitted.
 
 Technical criteria concerning the organisation and treatment of risks
 
@@ -128,9 +132,7 @@ SECTION 2 Setting and calculating countercyclical capital buffers
 
 SECTION 3 Capital conservation measures
 
-94. Restrictions on distributions.
-
-94A. Failure to meet the combined buffer requirement. 94B. Restriction on distributions in case of failure to meet the leverage ratio buffer requirement. 94C. Failure to meet the leverage ratio buffer requirement. 95. Capital conservation plan.
+94. Restrictions on distributions. 94A. Failure to meet the combined buffer requirement. 94B. Restriction on distributions in case of failure to meet the leverage ratio buffer requirement. 94C. Failure to meet the leverage ratio buffer requirement. 95. Capital conservation plan.
 
 PART 6 REPORTING AND NOTIFICATION
 
@@ -154,9 +156,7 @@ Chapter 1 Omitted
 
 Chapter 2 Gibraltar firms
 
-113. Application of Chapter 2.
-
-114. to 118. Omitted.
+113. Application of Chapter 2. 114. to 118. Omitted.
 
 Overseas offices
 
@@ -182,13 +182,13 @@ General
 
 Intervention
 
-137. Information gathering and investigatory powers. 138. Regulatory measures: general. 139. Omitted. 140. Exercise of powers for specific purposes. 140A. Additional own funds requirement. 140B. Guidance on additional own funds. 140C. Cooperation with resolution authority. 141. Specific liquidity requirements. 142. Specific publication requirements.
-
-143. Omitted.
+137. Information gathering and investigatory powers. 138. Regulatory measures: general. 139. Omitted. 140. Exercise of powers for specific purposes. 140A. Additional own funds requirement. 140B. Guidance on additional own funds. 140C. Cooperation with resolution authority. 141. Specific liquidity requirements. 142. Specific publication requirements. 143. Omitted.
 
 Sanctions
 
-144. Sanctioning powers. 145. Additional persons subject to sanctioning powers. 146. Contravention of regulatory requirements. 147. Additional sanctioning power: management prohibiting order. 148. Maximum amounts of administrative penalty. 149. Publication of sanctioning action.
+144. Sanctioning powers. 145. Additional persons subject to sanctioning powers. 146. Contravention of regulatory requirements.
+
+147. Additional sanctioning power: management prohibiting order. 148. Maximum amounts of administrative penalty. 149. Publication of sanctioning action.
 
 PART 9 MISCELLANEOUS
 
