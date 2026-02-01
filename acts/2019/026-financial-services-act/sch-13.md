@@ -14,7 +14,7 @@ Accepting deposits.
 
 (a) the firm has failed, during a period of at least six months, to carry on a regulated activity for which it has permission;
 
-(aa) the firm only uses the permission to engage in the activities in Article 4.1(1)(b) of the Capital Requirements Regulation and has, for a period of five consecutive years, average total assets below the thresholds set out in that Article;
+(aa) the firm only uses the permission to engage in the activities in sub-paragraph (b) of the definition of credit institution in the Capital Requirements Regulation and has, for a period of five consecutive years, average total assets below the thresholds set out in that Article;
 
 (b) the firm obtained the permission by making a false statement or by any other irregular means;
 

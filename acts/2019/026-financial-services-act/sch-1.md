@@ -262,9 +262,9 @@ Part 2 References to EU Regulations
 
 “the Benchmarks Regulation” means Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds;
 
-“the Capital Requirements Regulation” means Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012;
+“the CSD Regulation” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European
 
-“the CSD Regulation” means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012;
+Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012;
 
 “the ELTIF Regulation” means Regulation (EU) No 760/2015 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds;
 
@@ -286,7 +286,9 @@ Part 2 References to EU Regulations
 
 “the Prospectus Regulation” means Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC;
 
-“Regulation (EU) No 231/2013” means Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision;
+“Regulation (EU) No 231/2013” means Commission Delegated Regulation (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of the
+
+European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision;
 
 “Regulation (EU) No 1031/2010” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community;
 
