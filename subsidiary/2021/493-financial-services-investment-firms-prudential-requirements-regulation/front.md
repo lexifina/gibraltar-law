@@ -6,7 +6,7 @@ LN.2021/493
 
 Commencement (Except s.4(2)) 1.1.2021 s.4(2) 1.7.2022
 
-Amending enactments Relevant current provisions Commencement date LN. 2023/074 rr. 4(5)(b), 8(4)(a)(ii), 30, 31(1)-(2), 80(1), 87(4) 30.3.2023 2024/210 r. 110(2), (12) 21.11.2024
+Amending enactments Relevant current provisions Commencement date LN. 2023/074 rr. 4(5)(b), 8(4)(a)(ii), 30, 31(1)-(2), 80(1), 87(4) 30.3.2023 2024/210 r. 110(2), (12) 21.11.2024 2026/018 rr. 3, 29(5), 33(1)(a), Sch. 2 1.2.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -52,9 +52,7 @@ Chapter 4 RtF K-factors
 
 Trading counterparty default
 
-33. Scope of counterparty default provisions. 34. Calculating K-TCD. 35. Calculation of exposure value. 36. Replacement cost (RC). 37. Potential future exposure. 38. Collateral. 39. Netting.
-
-40. Credit valuation adjustment.
+33. Scope of counterparty default provisions. 34. Calculating K-TCD. 35. Calculation of exposure value. 36. Replacement cost (RC). 37. Potential future exposure. 38. Collateral. 39. Netting. 40. Credit valuation adjustment.
 
 Daily trading flow
 
@@ -78,7 +76,9 @@ Chapter 2 ICARA Process
 
 Internal capital adequacy and risk assessment process: overview and baseline obligations
 
-59. Overall financial adequacy. 60. ICARA process. 61. Identifying harms.
+59. Overall financial adequacy.
+
+60. ICARA process. 61. Identifying harms.
 
 ICARA process: capital and liquidity planning, stress testing, wind-down planning and recovery planning
 
@@ -100,11 +100,11 @@ ICARA process: investment firm groups
 
 77. Analysis of group risk by individual firms. 78. Group ICARA process. 79. Combined ICARA documents.
 
-Chapter 3
+Chapter 3 Internal governance, transparency and remuneration
 
-Internal governance, transparency and remuneration
+80. Scope of Chapter 3. 81. Internal governance.
 
-80. Scope of Chapter 3. 81. Internal governance. 82. Country-by-country reporting. 83. Role of the management body in risk management. 84. Remuneration policies. 85. Variable remuneration. 86. Remuneration committee. 87. Oversight of remuneration policies.
+82. Country-by-country reporting. 83. Role of the management body in risk management. 84. Remuneration policies. 85. Variable remuneration. 86. Remuneration committee. 87. Oversight of remuneration policies.
 
 Chapter 4 Supervision
 
@@ -122,7 +122,9 @@ Chapter 5 Supervision of Investment Firm Groups
 
 PART 8 DISCLOSURE BY INVESTMENT FIRMS
 
-102. Scope of Part 8. 103. Risk management objectives and policies. 104. Governance. 105. Own funds. 106. Own funds requirements. 107. Remuneration policy and practices. 108. Investment policy. 109. Environmental, social and governance risks.
+102. Scope of Part 8. 103. Risk management objectives and policies. 104. Governance. 105. Own funds. 106. Own funds requirements.
+
+107. Remuneration policy and practices. 108. Investment policy. 109. Environmental, social and governance risks.
 
 PART 9 REPORTING BY INVESTMENT FIRMS
 

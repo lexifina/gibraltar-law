@@ -160,9 +160,7 @@ Write-down, write-up and conversion procedures.
 
 (a) the investment firm must inform the staff members who have been awarded the instruments as variable remuneration and the persons who continue to hold such instruments; and
 
-(b) the investment firm or institution issuing the instrument must write down the principal amount of the instruments, or convert the instruments into Common
-
-Equity Tier 1 instruments as soon as possible and within a maximum period of one month in accordance with the requirements of this paragraph.
+(b) the investment firm or institution issuing the instrument must write down the principal amount of the instruments, or convert the instruments into Common Equity Tier 1 instruments as soon as possible and within a maximum period of one month in accordance with the requirements of this paragraph.
 
 (9)  Where Additional Tier 1 instruments, Tier 2 instruments and Other Instruments include an identical trigger level, the principal amount must be written down or converted on a pro- rata basis to all holders of such instruments which are used for the purposes of variable remuneration.
 

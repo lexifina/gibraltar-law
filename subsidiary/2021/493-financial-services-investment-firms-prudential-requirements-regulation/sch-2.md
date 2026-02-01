@@ -8,7 +8,7 @@ Interpretation.
 
 1.  In this Schedule–
 
-“business unit” has the meaning given in Article 142.1(3) of the CRR;
+“business unit” has the meaning given in Article 142 of the CRR;
 
 “control function” means a function that is independent from the business units it controls and that is responsible for providing an objective assessment of the investment firm’s risks, review or report on those, including, but not limited to, the risk management function, the compliance function and the internal audit function; and
 
