@@ -10,6 +10,10 @@ The energy performance of a building shall be expressed by a numeric indicator o
 
 The competent authority shall describe its calculation methodology following applicable retained EU law and Gibraltar legislation of the overarching standards.
 
+(1A) Where measured energy use is the basis for calculating the energy performance of buildings, the calculation methodology shall be capable of identifying the influence of the behaviour of occupants and the local climate, which shall not be reflected in the result of the calculation. Measured energy use for the purpose of calculating the energy performance of buildings shall require readings of at least monthly intervals and must differentiate between energy carriers.
+
+(1B) The competent authority may use measured energy consumption under typical operating conditions to verify the correctness of the calculated energy use and enable comparison between calculated and actual performance.
+
 2.  The energy needs for space heating, space cooling, domestic hot water, ventilation, lighting and other technical building systems shall be calculated in order to optimise health, indoor air quality and comfort levels, as may be defined by the competent authority.
 
 The calculation of primary energy shall be based on primary energy factors or weighting factors per energy carrier, which may be based on national, regional or local annual, weighted averages or on more specific information made available.
@@ -48,7 +52,11 @@ In the calculation of the primary energy factors for the purpose of calculating 
 
 (h) indoor climatic conditions, including the designed indoor climate;
 
-(i) internal loads.
+(i) internal loads;
+
+(j) capacity of installed on-site renewable energy generation and energy storage;
+
+(k) building automation and control systems and their capabilities to monitor, control and optimise energy performance.
 
 4.  The positive influence of the following aspects shall be taken into account.
 
@@ -58,7 +66,11 @@ In the calculation of the primary energy factors for the purpose of calculating 
 
 (c) district or block heating and cooling systems;
 
-(d) natural lighting.
+(d) natural lighting;
+
+(e) electrical storage systems;
+
+(f) thermal storage systems;
 
 5.  For the purpose of the calculation, buildings should be adequately classified into the following categories−
 

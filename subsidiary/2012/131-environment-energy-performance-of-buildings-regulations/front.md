@@ -10,9 +10,13 @@ Amending enactments Relevant current provisions Commencement date LN. 2016/100 r
 
 10.3.2020 2021/424 rr. 2(1), 3(4), 6(2)-(5), 9(12)(c), 10(3), (4)(c), (6), 11(2)(b)-(c), Sch. 1
 
-1.1.2021 2025/251 r. 4(1)-(2) 16.10.2025
+1.1.2021 2025/251 r. 4(1)-(2) 16.10.2025 2026/048 rr. 2(1), 3(2)(f)-(p), 3A, 4(3)-(5), 5(1), (3)-(4), (6)(a)-(b), 6(1)-(2), (5), 7, 8(5)(b)-(e), 8A-8C, 9(1A)-(1D), (7), (9), (9A)-(9B), (10)-(11), (11A), (12)(d), (12A)-(12B), 10A, 11(1), (3), (3A), (3C)-(3F), 11A, 12(2)-(4), (5), (b)-(e), (10A)-(10B), 13(1), (a), (4)-(5), (8A)-(8B), 13A, 15(1A)-(1B), (2)(a)-(d), 16(1A)-(1B), (2)(a)-(d), 17(1)-(2), (2A)-(2B), 18(1)-(2), 20(1)-(3), 21(1A), (2A), (3)(b), Schs. 1-6
+
+19.3.2026
 
 Transposing: Directive 2010/31/EU Directive (EU) 2018/844
+
+Implementing: Directive (EU) 2024/1275
 
 1 13(1) to (4) shall not apply to single buildings which are rented out until 31 December 2015. 2  See r.1(4)(a) & (b)
 
@@ -20,10 +24,18 @@ ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-1. Title and commencement. 2. Interpretation. 3. Subject matter of these Regulations. 4. Adoption of a methodology for calculating the energy performance of buildings. 5. Setting of minimum energy performance requirements. 6. Calculation of cost-optimal levels of minimum energy performance requirements. 7. New buildings. 8. Existing buildings. 9. Technical building systems, electromobility and smart readiness indicator. 10. Nearly zero-energy buildings. 11. Financial incentives and market barriers. 12. Energy performance certificates. 13. Issue of energy performance certificates. 14. Display of energy performance certificates. 15. Inspection of heating systems. 16. Inspection of air-conditioning systems. 17. Reports on the inspection of heating and air-conditioning systems. 18. Energy assessors. 19. Accreditation schemes. 20. Independent Control System. 21. Information. 22. Consultation. 23. Offences and penalties. 24. Liability of bodies corporate. 25. Repeal. 26. Savings and transitional provisions. 27. Monitoring and commencement.
+1. Title and commencement. 2. Interpretation. 3. Subject matter of these Regulations. 3A. Gibraltar building renovation plans. 4. Adoption of a methodology for calculating the energy performance of buildings. 5. Setting of minimum energy performance requirements. 6. Calculation of cost-optimal levels of minimum energy performance requirements. 7. New buildings. 8. Existing buildings. 8A. Minimum energy performance standards for non-residential buildings and trajectories for progressive renovation of residential building stock. 8B. Solar energy in buildings. 8C. Renovation passports. 9. Technical building systems, electromobility and smart readiness indicator. 10. Nearly zero-energy buildings. 10A. Zero-emission buildings. 11. Financial incentives and market barriers. 11A. One-stop shops for the energy performance of buildings. 12. Energy performance certificates. 13. Issue of energy performance certificates. 13A. Databases for energy performance of buildings. 14. Display of energy performance certificates. 15. Inspection of heating systems. 16. Inspection of air-conditioning systems. 17. Reports on the inspection of heating and air-conditioning systems. 18. Energy assessors. 19. Accreditation schemes. 20. Independent Control System. 21. Information. 22. Consultation. 23. Offences and penalties. 24. Liability of bodies corporate. 25. Repeal. 26. Savings and transitional provisions. 27. Monitoring and commencement.
 
 SCHEDULE 1 Common general framework for the calculation of energy performance of buildings
 
 SCHEDULE 2 Independent control systems for energy performance certificates and inspection reports
+
+SCHEDULE 3 Template for the Gibraltar building renovation plans
+
+SCHEDULE 4 Calculation of life-cycle GWP of new buildings
+
+SCHEDULE 5 Requirements for renovation passports
+
+SCHEDULE 6 Template for energy performance certificates
 
 In exercise of the powers conferred on it by section 18(c) of the Environment Act 2005 and in order to transpose into the law of Gibraltar Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings, the Government has made the following Regulations–
