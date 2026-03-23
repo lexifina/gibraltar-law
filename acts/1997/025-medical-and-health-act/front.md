@@ -16,7 +16,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1998/041 S
 
 LN. 2020/454 Long title, ss. 2, (3)-(4), 8(1), (a)-(b), (4), (4B), (5)-(6), 9(1), (2A)-(2B), (3)(c), (3A), (4)(d)-(e), (4B)(a)-(b), (4C), (5), (6)(c)-(d), (8), (9)(b), (10), 10(1), (3)-(4), 11, (1)-(2), 12-13, 21A-21B, 22(b), 23, 23A, 24, 28, 29(3), 31, 31A, 32-34, 37(3)-(4), 44(1)(d), (2), (7), 45(3), 50, 51(1)-(2), 52, 56, Schs.7, 10
 
-1.1.2021 LN 2024/214 Sch. 1, 8 5.12.2024
+1.1.2021 LN. 2024/214 Sch. 1, 8 5.12.2024 Act. 2026-08 ss. 60(1), 64(1), 66(ka), (kc)-(kd), 72(4), 86 23.3.2026
 
 Transposing: Directive 98/21/EEC Directive 98/63/EEC Directive 1999/46/EEC Directive 2001/19/EC Directive 2006/100/EC Directive 2010/32/EC Directive 2013/55/EU
 
@@ -44,9 +44,9 @@ PART III. NURSES, MIDWIVES AND HEALTH VISITORS.
 
 PART IV. GENERAL PROVISIONS ON REGISTRATION AND DISCIPLINE.
 
-37. Evidence of qualification to be given before registration, etc. 38. Examinations. 39. Registered person may have subsequent qualifications inserted. 40. Registration to be gazetted.
+37. Evidence of qualification to be given before registration, etc. 38. Examinations. 39. Registered person may have subsequent qualifications inserted. 40. Registration to be gazetted. 41. Correction of register. 42. Inspection of register.
 
-41. Correction of register. 42. Inspection of register. 43. Evidence. 44. Persons convicted of certain offences, etc., may be suspended etc. or struck off register. 45. Appeal from decision of the Board. 46. Restoration to the register. 47. Suspension of registration of midwives. 48. Appeal against refusal to approve institution. 49. Service of notice.
+43. Evidence. 44. Persons convicted of certain offences, etc., may be suspended etc. or struck off register. 45. Appeal from decision of the Board. 46. Restoration to the register. 47. Suspension of registration of midwives. 48. Appeal against refusal to approve institution. 49. Service of notice.
 
 PART V. EFFECT OF REGISTRATION.
 
@@ -70,9 +70,7 @@ PART VIII. OFFENCES.
 
 PART IX. GENERAL AND SUPPLEMENTARY.
 
-89. Saving. 90. Continuity of the Law.
-
-91. Repeals and consequential amendments.
+89. Saving. 90. Continuity of the Law. 91. Repeals and consequential amendments.
 
 SCHEDULE 1. Medical Registration Board
 
