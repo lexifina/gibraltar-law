@@ -304,9 +304,7 @@ References to re-written provisions.
 
 (a) a rewritten provision, or
 
-(b) things done or falling to be done under or for the purpose of a rewritten provision,
-
-is to be read as including, in relation to times, circumstances or purposes in relation to which any corresponding repealed provision had effect, a reference to the repealed provision or (as the case may be) things done or falling to be done under or for the purposes of the repealed provision.
+(b) things done or falling to be done under or for the purpose of a rewritten provision, is to be read as including, in relation to times, circumstances or purposes in relation to which any corresponding repealed provision had effect, a reference to the repealed provision or (as the case may be) things done or falling to be done under or for the purposes of the repealed provision.
 
 Reference to repealed provisions.
 

@@ -112,9 +112,7 @@ Procedure in hearings.
 
 (4)  In assessing the truth and weight of any evidence, the Tribunal may take account of its nature and source, and the manner in which it is given.
 
-(5)  Evidence before the Tribunal may be given orally or, if the Tribunal so directs, by affidavit or a statement made or recorded in a document, but at any stage of the hearing the
-
-Tribunal may, on the application of any party or of its own motion, require the personal attendance as a witness of-
+(5)  Evidence before the Tribunal may be given orally or, if the Tribunal so directs, by affidavit or a statement made or recorded in a document, but at any stage of the hearing the Tribunal may, on the application of any party or of its own motion, require the personal attendance as a witness of-
 
 (a) the maker of an affidavit; or
 

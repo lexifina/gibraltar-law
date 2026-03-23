@@ -496,9 +496,7 @@ Architects fees and planning costs.
 
 (a) in respect of a development on or within its own property; and
 
-(b) within 24 months from the day on which it commenced trading,
-
-that person may claim a credit of up to 100% of the costs of the architects fees and any fees paid to the Government in respect of such an application, subject to the provisions of subparagraph (2) below.
+(b) within 24 months from the day on which it commenced trading, that person may claim a credit of up to 100% of the costs of the architects fees and any fees paid to the Government in respect of such an application, subject to the provisions of subparagraph (2) below.
 
 (2) The total amount which may be claimed under subparagraph (1)–
 
@@ -528,9 +526,7 @@ Tax credit for properties.
 
 (a) was rented for residential purposes; and
 
-(b) constructed between 1 July 2016 and 1 January 2019,
-
-the owner of such property shall be entitled to a tax credit in accordance with this paragraph.
+(b) constructed between 1 July 2016 and 1 January 2019, the owner of such property shall be entitled to a tax credit in accordance with this paragraph.
 
 (2) The tax credit shall be equal to the tax payable on any profits earned by the owner of the property during the first 24 months of rental income.
 
@@ -668,7 +664,9 @@ Thin capitalisation.
 
 (a) the company pays interest on a loan to a connected person which is not a company and the loan is not considered to be at arm’s length by reference to either the rate of interest or the terms and conditions of that loan; or
 
-(b) the company pays interest on a loan to an arm’s length party, where that loan is secured wholly or on more than 50% of the assets belonging to a connected person which is not a company and the loan is not considered to be at arm’s length by reference to either the rate of interest or the terms and conditions of that loan, then, the interest so paid, or payable, to either the connected person or to the arm’s length party, as the case may be, will be deemed to be a dividend paid by the company and received by the connected person, or the arm’s length party as the case may be, at either time of payment or at such other time as ascertained by the Commissioner and the interest shall not be deductible in computing the profits or gains of the company for that accounting period.
+(b) the company pays interest on a loan to an arm’s length party, where that loan is secured wholly or on more than 50% of the assets belonging to a connected person which is not a company and the loan is not considered to be at arm’s length by reference to either the rate of interest or the terms and conditions of that loan,
+
+then, the interest so paid, or payable, to either the connected person or to the arm’s length party, as the case may be, will be deemed to be a dividend paid by the company and received by the connected person, or the arm’s length party as the case may be, at either time of payment or at such other time as ascertained by the Commissioner and the interest shall not be deductible in computing the profits or gains of the company for that accounting period.
 
 (c) for the purposes of this subparagraph –
 
@@ -818,7 +816,9 @@ If an individual or entity holds directly or indirectly a participation of 25% o
 
 (b) buildings (or parts of buildings) that are let (or sub-let) (the “Property”); and
 
-a. the taxpayer exclusively carries on a property business in relation to the Property, being a business to let real property and/or interests in land, within or Gibraltar; and b. the borrowing costs in question are incurred in the purchase, development or renovation of the Property; and
+a. the taxpayer exclusively carries on a property business in relation to the Property, being a business to let real property and/or interests in land, within or Gibraltar; and
+
+b. the borrowing costs in question are incurred in the purchase, development or renovation of the Property; and
 
 c. the debt or financing arrangement in question is secured against the Property; and
 
@@ -1184,7 +1184,9 @@ EXIT TAXATION
 
 (7)  Subparagraph (6)(b) and (c) shall not apply to third countries that are party to the EEA Agreement if they have concluded an agreement with the jurisdiction of the taxpayer on the mutual assistance for the recovery of tax claims.
 
-(8)  Where a transfer of assets, tax residence or the business carried on by a permanent establishment is from the United Kingdom or a European Union Member State outside Gibraltar to Gibraltar, Gibraltar shall accept the value established by the United Kingdom or the Member State of the European Union of the taxpayer or of the permanent establishment as the starting value of the assets for tax purposes (in accordance with paragraph 18A(2)), unless this does not reflect the market value.
+(8)  Where a transfer of assets, tax residence or the business carried on by a permanent establishment is from the United Kingdom or a European Union Member State outside
+
+Gibraltar to Gibraltar, Gibraltar shall accept the value established by the United Kingdom or the Member State of the European Union of the taxpayer or of the permanent establishment as the starting value of the assets for tax purposes (in accordance with paragraph 18A(2)), unless this does not reflect the market value.
 
 (9)  For the purposes of this paragraph, “market value” is the amount for which an asset can be exchanged or mutual obligations can be settled between willing unrelated buyers and sellers in a direct transaction.
 

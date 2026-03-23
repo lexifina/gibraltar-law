@@ -228,9 +228,7 @@ Requirements where conditions for exemption cease to be satisfied.
 
 (a) he shall immediately notify the Commissioner and the other parties of the fact; and
 
-(b) the exemption certificate shall become ineffective,
-
-and the Commissioner shall cancel the exemption certificate by notice in writing to the person who requested it and the payer.
+(b) the exemption certificate shall become ineffective, and the Commissioner shall cancel the exemption certificate by notice in writing to the person who requested it and the payer.
 
 Recovery of tax not deducted.
 

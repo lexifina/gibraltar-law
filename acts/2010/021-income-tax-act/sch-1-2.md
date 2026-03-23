@@ -32,9 +32,7 @@ companies under Finnish law known as: “osakeyhtiö/aktiebolag, osuuskunta/ande
 
 companies under Swedish law known as “aktiebolag” and “försäkringsaktiebolag”;
 
-companies incorporated under the law of the United Kingdom.
-
-companies under Czech law known as: “akciová společnost”, “společnost s ručením omezeným”, “veřejná obchodní společnost”, “komanditní společnost”, “družstvo”;
+companies incorporated under the law of the United Kingdom. companies under Czech law known as: “akciová společnost”, “společnost s ručením omezeným”, “veřejná obchodní společnost”, “komanditní společnost”, “družstvo”;
 
 companies under Estonian law known as: “täisühing”, “usaldusühing”, “osaühing”,“aktsiaselts”, “tulundusühistu”;
 

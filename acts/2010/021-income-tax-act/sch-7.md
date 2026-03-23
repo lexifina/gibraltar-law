@@ -134,7 +134,9 @@ is to be treated for the purposes of this Chapter as having been received by the
 
 (b) equal to, or
 
-(c) not substantially less than, the expense incurred by the person at whose cost the voucher, stamp or similar document is or similar document is provided.
+(c) not substantially less than,
+
+the expense incurred by the person at whose cost the voucher, stamp or similar document is or similar document is provided.
 
 (5)  For the purposes of subparagraph (4) it does not matter whether the document–
 
@@ -334,37 +336,43 @@ by reason of the employment.
 
 (b) the provision is made in the normal course of the employer’s domestic, family or personal relationships.
 
-Accommodation provided for performance of duties.
+Accommodation provided to specific employees.
 
-13.(1)  This Chapter does not apply to living accommodation provided for by an employer if it is necessary for the proper performance of the employee’s duties that the employee should reside in it.
+13.(1)  This Chapter does not apply to living accommodation provided to a specific employee where –
 
-(2)  This Chapter does not apply to living accommodation provided for an employee if–
+(a) the employee satisfies the conditions specified in subparagraph (2); and
 
-(a) it is provided for the better performance of the duties of the employment, and
+(b) the employer has complied with the requirements in subparagraph (3).
 
-(b) the employment is one of the kinds of employment in the case of which it is customary for employers to provide living accommodation for employees.
+(2) The conditions referred to in subparagraph (1)(a) are –
 
-(3)  But if the accommodation is provided by a company and the employee (“E”) is a director of the company or of an associated company, the exception in subparagraph (1) or (2) only applies if, in the case of each company of which E is a director–
+(a) that the employee has relocated to and resides in Gibraltar as a result of one of the following –
 
-(a) E has no material interest in the company, and
+(i) becoming employed in Gibraltar;
 
-(b) either–
+(ii) an alteration of the duties of employment; or
 
-(i) E’s employment is as a full-time working director, or
+(iii) an alteration of the place where those duties are normally performed; and
 
-(ii) the company is non-profit making or is established for charitable purposes only.
+(b) that the employee’s former residence is not within a reasonable daily travelling distance of Gibraltar.
 
-(4)  “Non-profit making” means that the company does not carry on a trade and its functions do not consist wholly or mainly in the holding of investments or other property.
+(3) The employer must make an application to the Commissioner in such form and manner as the Commissioner may require.
 
-(5)  A company is “associated” with another if–
+(4) Any changes relating to the employee’s living accommodation, in respect of an approved application under this Chapter, must be notified to the Commissioner for the purpose of establishing whether subparagraph (1) continues to apply.
 
-(a) one has control of the other, or
+(5) For the purposes of this Chapter, “specific employees” means employees whose skills are –
 
-(b) both are under the control of the same person.
+(a) not readily available in Gibraltar; or
 
-(6)  Notwithstanding subparagraph (3) and subject to subparagraph (7), this Chapter does not apply to living accommodation provided for an employee whose change in residence results from the factors specified in paragraph 54(2) to (4) of this Schedule.
+(b) important for the economic development and growth of Gibraltar,
 
-(7)  Subparagraph (6) shall only apply for the seven years immediately after the date of the change of residence which invokes the provisions of paragraph 54.
+as determined by the Commissioner.
+
+(6) Subparagraph (1) only applies for the period of four years commencing on the date that the employee commences his employment in Gibraltar, and only applies once in respect of any particular employee.
+
+(7) Notwithstanding paragraph 73 of this Schedule, the Commissioner will require that the benefits arising from all successful applications be declared by employers in their annual return of benefits.
+
+(8) A person who fails to comply with subparagraph (7) commits an offence.
 
 Benefit of living accommodation treated as earnings.
 
@@ -680,9 +688,7 @@ Employment-related benefits.
 
 (a) for an employee, or
 
-(b) for a member of an employee’s family or household,
-
-by reason of the employment.
+(b) for a member of an employee’s family or household, by reason of the employment.
 
 For the definition of “excluded benefit” see paragraph 38.
 
@@ -878,7 +884,9 @@ Valuable consideration given for restrictive undertakings.
 
 (i) the giving of the undertaking, or
 
-(ii) the total or partial fulfilment of the undertaking, paragraph 49 applies as it would if a payment of an amount equal to the value of the consideration had been made instead.
+(ii) the total or partial fulfilment of the undertaking,
+
+paragraph 49 applies as it would if a payment of an amount equal to the value of the consideration had been made instead.
 
 (2)  For this purpose merely assuming an obligation to make over or provide valuable property, rights or advantages is not valuable consideration, but wholly or partially discharging such an obligation is.
 

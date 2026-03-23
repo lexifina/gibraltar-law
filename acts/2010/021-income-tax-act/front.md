@@ -8,15 +8,15 @@ Amending enactments Relevant current provisions Commencement date Act. 2015-23 s
 
 6.8.2015 LN. 2015/229 Sch. 5 31.12.2015 Act. 2015-23 ss. 16, 29(1), (3)-(4), Sch. 3 1.1.2016 LN. 2015/239  ss. 5A(3), (5), (5A), 5D(5), 5F, 1.1.2016 Act. 2015-23 ss. 28(1), Sch. 4 1.7.2016 2024-21 ss. 77(1A)-(1B), 77(2), 78(1), (1A), Schs. 3, 6 1.7.2016 LN. 2016/253 ss. 5D(5), 5F 22.12.2016 2016/246 ss. 5A(6)(b), 5B(2A), 5E(8), 5F(1), (2)(b), (3), 10A- 10K
 
-1.1.2017 Act. 2017-04 ss. 12A, 13A, 28(1), (8)-(12), 74, Schs. 1, 4 11.4.20172 LN. 2017/101 ss. 5E(8), 5F(1), (2)(b), 10L-10ZD 5.6.2017 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019
+1.1.2017 Act. 2017-04 ss. 12A, 13A, 28(1), (8)-(12), 74, Schs. 1, 4 11.4.20172 LN. 2017/101 ss. 5E(8), 5F(1), (2)(b), 10L-10ZD 5.6.2017 2017/253 s. 6B 1.1.2018 Act. 2024-21 ss. 20(5), 20A 1.7.2018 LN. 2018/228 s. 74 25.10.2018 2018/261 Sch. 1 22.11.2018 2018/287 Sch. 4 1.1.2019 2019/025 Sch. 1 7.2.2019
 
 1 Notice of corrigendum see LN. 2013/011 2 Notice of Commencement see LN. 2017/069
 
-2019/025 Sch. 1 7.2.2019 2020/056 Sch. 4 1.1.2020 2020/057 Sch. 4 1.1.2020 Act. 2020-06 Long Title, ss. 3(1), 3A-3E, 6C, 30A, 37(8A), 65G, 74, Sch.12
+2020/056 Sch. 4 1.1.2020 2020/057 Sch. 4 1.1.2020 Act. 2020-06 Long Title, ss. 3(1), 3A-3E, 6C, 30A, 37(8A), 65G, 74, Sch.12
 
 23.3.2020 LN. 2020/128 Sch.12 23.3.2020 2020/176 ss. 10L, 10O(1)(b) 7.5.2020 2020/055 ss. 5F(1), (2)(b), 10ZE-10ZL, Sch. 11 1.7.2020 2020/256 ss. 10ZI(1), (1A), (3), (3A), (9)(b), 10ZJ(2A), (7)(b), 10ZK(7)
 
-10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021 Act. 2021-22 Sch. 3 1.7.2021 2024-21 ss. 30(1)(b), (bb), (cb)(ii)-(iii), 79, Sch. 3 1.7.2022 “ Sch. 3, 13 1.7.2023 2024-07 Sch. 3 26.3.2024 2024-21 s. 30(1)(b), (bb) 1.7.2024 2024-22 s. 20(6)-(11) 31.7.2024 2024-21 s. 30(3) 23.12.2024 2024-35 s. 3(6A), (9) 23.12.2024 2024-21 s. 65 1.1.2025 2024-35 Sch. 1 1.1.2025 2025-10 s. 40 11.7.2025
+10.7.2020 2020/472 Schs. 4-5 1.1.2021 2021/078 ss. 10ZE-10ZL, Sch. 11 1.1.2021 2022/188 Sch.3 1.1.2021 Act. 2021-01 s. 3A(4A) 9.2.2021 LN. 2021/158 Sch. 12 26.2.2021 Act. 2021-22 Sch. 3 1.7.2021 2024-21 ss. 30(1)(b), (bb), (cb)(ii)-(iii), 79, Sch. 3 1.7.2022 “ Sch. 3, 13 1.7.2023 2024-07 Sch. 3 26.3.2024 2024-21 s. 30(1)(b), (bb) 1.7.2024 2024-22 s. 20(6)-(11) 31.7.2024 2024-21 s. 30(3) 23.12.2024 2024-35 s. 3(6A), (9) 23.12.2024 2024-21 s. 65 1.1.2025 2024-35 Sch. 1 1.1.2025 2025-10 s. 40 11.7.2025 2026-06 Sch. 7 23.3.2026
 
 Transposing: Directive 2011/16/EU Directive 2011/96/EU Directive 2013/13/EU Directive 2014/86/EU Directive 2014/107/EU Directive (EU) 2015/121 Directive (EU) 2015/2376 Directive (EU) 2016/881 Directive 2016/1164 Directive (EU) 2016/2258 Directive (EU) 2017/952 Directive (EU) 2018/822 Directive (EU) 2020/876
 
@@ -46,9 +46,7 @@ Part 1C- Reportable Cross-Border Arrangements
 
 Part II- Charge to tax
 
-11. The charge to taxation. 12. Taxation of beneficiaries. 12A. Taxation of Foundation Beneficiaries. 13. Taxation of trusts. 13A. Taxation of Foundations. 14. Refund of certain contributions. 14A. Pensions imported from another country, territory or jurisdiction.
-
-14B.  Pensions in connection with a statutory instrument.
+11. The charge to taxation. 12. Taxation of beneficiaries. 12A. Taxation of Foundation Beneficiaries. 13. Taxation of trusts. 13A. Taxation of Foundations. 14. Refund of certain contributions. 14A. Pensions imported from another country, territory or jurisdiction. 14B.  Pensions in connection with a statutory instrument.
 
 Part III- Computation of assessments
 
@@ -64,7 +62,9 @@ Part V- Payment of taxation
 
 Part VI- Anti-avoidance
 
-40. Anti-avoidance. 41. Notification of arrangements. 42. Procedure for clearance in advance. 43. Notification of exercise of anti-avoidance provisions
+40. Anti-avoidance. 41. Notification of arrangements.
+
+42. Procedure for clearance in advance. 43. Notification of exercise of anti-avoidance provisions
 
 Part VII- Chargeability of and acts to be done by agents and others
 
@@ -76,9 +76,9 @@ Part VIII- Assessment and withholding
 
 Part IX- Offences, surcharges, penalties and miscellaneous
 
-63. Duty to keep and preserve records and books of account. 63A.  Penalty for failure to keep and preserve records. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply with requirements on return. 65A.  Penalties for failure to comply with requirements on certain notices. 65B.  Offence for failure to comply with requirements on certain notices and returns. 65C.  Penalties for failure to comply with requirements under section 41. 65E.  Penalties where no penalty is specifically provided by this Act. 65F.  Failure to comply with requirement or notice.
+63. Duty to keep and preserve records and books of account. 63A.  Penalty for failure to keep and preserve records. 64. Statutory surcharge on late payment. 65. Penalties for failure to comply with requirements on return. 65A.  Penalties for failure to comply with requirements on certain notices. 65B.  Offence for failure to comply with requirements on certain notices and returns. 65C.  Penalties for failure to comply with requirements under section 41. 65E.  Penalties where no penalty is specifically provided by this Act. 65F.  Failure to comply with requirement or notice. 65G. Penalty for failure to comply with requirements relating to an International Tax Agreement. 66. Penalties for false returns, etc.
 
-65G. Penalty for failure to comply with requirements relating to an International Tax Agreement. 66. Penalties for false returns, etc. 66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay taxes. 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
+66A. Commissioner’s discretion. 67. Offences. 68. Publication of details of failure to pay taxes. 69. Recovery of taxation through the courts. 70. Savings for criminal proceedings. 71. European Union legislation. 72. Power to make Rules. 73. Tabling of Rules before Parliament and effects of annulment. 74. Interpretation. 75. Repeals, amendments and transitional provisions. 76. Disclosure opportunity.
 
 PART X -AMNESTY
 
@@ -102,9 +102,9 @@ Table C
 
 Other income
 
-Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights.
+Class 1 Dividends. Class 1A Inter-company loan interest. Class 2 Funds income. Class 3 Income from rights. Class 3A Royalties Class 3B Income from Movable Property. Class 4 Pension, charge or annuity income. Class 5 Sweeping Up Class.
 
-Class 3A Royalties Class 3B Income from Movable Property. Class 4 Pension, charge or annuity income. Class 5 Sweeping Up Class. Class 6 State Aid Recovery.
+Class 6 State Aid Recovery.
 
 PART 2
 
@@ -132,7 +132,9 @@ Part IV-Appeal to Supreme Court
 
 Part V- Miscellaneous
 
-17. Irregularity. 18. Form of notices. 19. Service of notices etc. 20. Penalties.
+17. Irregularity. 18. Form of notices. 19. Service of notices etc.
+
+20. Penalties.
 
 Part VI- Interpretation
 
@@ -158,9 +160,7 @@ Chapter 2- Deleted
 
 Chapter 3 – First Year Allowances
 
-8.First year allowances. 9.Pool allowance. 10. Deleted. 11. Deleted. 12. Deleted. 12A. Deduction for construction costs. 12B. Deduction for construction costs: high value accommodation.
-
-12C. Relocation costs.
+8.First year allowances. 9.Pool allowance. 10. Deleted. 11. Deleted. 12. Deleted. 12A. Deduction for construction costs. 12B. Deduction for construction costs: high value accommodation. 12C. Relocation costs.
 
 Chapter 4 - Deleted
 
@@ -252,9 +252,7 @@ Part II
 
 TAXATION APPLICABLE TO INTEREST AND ROYALTY PAYMENTS MADE BETWEEN ASSOCIATED COMPANIES OF DIFFERENT MEMBER STATES RULE
 
-4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner.
-
-10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
+4. Interpretation of Part. 5. Application of Part. 6. Scope of Part. 7. Special provisions for certain states. 8. Criterion for establishing permanent establishment as payer. 9. Criterion for establishing identity of beneficial owner. 10. Identity of payer and beneficial owner: supplementary. 11. Certificates of exemption. 12. Information to be provided in a request under Paragraph 11. 13. Requirements where conditions for exemption cease to be satisfied. 14. Recovery of tax not deducted. 15. Repayment by company of tax deducted. 16. Regulations.
 
 TABLE A
 
@@ -306,15 +304,15 @@ Chapter 4
 
 Living accommodation
 
-12. Living accommodation to which this Chapter applies. 13. Accommodation provided for performance of duties. 14. Benefit of living accommodation treated as earnings. 15. Cash equivalent. 16. Cash equivalent: accommodation provided for more than one employee. 17. Meaning of “annual value”.
-
-18. Disputes as to annual value. 19. Meaning of “the property”.
+12. Living accommodation to which this Chapter applies. 13. Accommodation provided to specific employees. 14. Benefit of living accommodation treated as earnings. 15. Cash equivalent. 16. Cash equivalent: accommodation provided for more than one employee. 17. Meaning of “annual value”. 18. Disputes as to annual value. 19. Meaning of “the property”.
 
 Chapter 5
 
 Cars, vans and related benefits
 
-20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use. 24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
+20. Application. 21. Meaning of “car” and “van”. 22. Meaning of when car or van is available to employee. 23. Availability for private use.
+
+24. Where alternative to benefit of car offered. 25. Benefit of car treated as earnings. 26. Method of calculating the cash equivalent of benefits of car. 27. Pooled cars. 28. Fuel charge.
 
 Chapter 6
 
@@ -326,15 +324,15 @@ Chapter 7
 
 Taxable benefits; residual liability to charge
 
-37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”.
-
-47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
+37. Employment-related benefits. 38. Excluded benefits. 39. Reduction of cash equivalent where car is shared. 40. Cash equivalent of benefit treated as earnings. 41. Cost of the benefit; basic rule. 42. Cost of the benefit; asset made available without transfer. 43. Cost of the benefit; transfer of used or depreciated assets. 44. Meaning of “annual rental value.” 45. Meaning of “market value”. 46. Meaning of “persons providing benefit”. 47. Power to exempt minor benefits. 48. Payments to non-approved personal pension arrangements. 49. Payments for restrictive undertakings. 50. Valuable consideration given for restrictive undertakings. 51. Annual parties and functions.
 
 Chapter 8
 
 Exemptions; removal benefits and expenses.
 
-52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies. 54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
+52. Limited exemption of removal benefits and expenses; general. 53. Removal benefits and expenses to which this Chapter applies.
+
+54. Conditions applicable to change of residence. 55. Meaning of “the limitation day”. 56. Meaning of “the employment change”. 57. Meaning of “residence”, “former residence” and “new residence”, etc. 58. Acquisition benefits and expenses. 59. Abortive acquisition benefits and expenses. 60. Disposal benefits and expenses. 61. Transporting belongings. 62. Travelling and subsistence. 63. Exclusion from paragraph 62 of benefits and expenses where deduction allowed. 64. Exclusion of car and van facilities. 65. Bridging loan expenses. 66. Replacement of domestic goods. 67. Limited exemption of certain bridging loans connected with employment moves. 68. Travel costs and expenses where duties performed abroad; employee’s travel. 69. Travel costs and expenses where duties performed abroad: visiting spouse’s or child’s travel.
 
 Chapter 9
 
