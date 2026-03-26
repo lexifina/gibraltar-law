@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date LN.2020/488 rr
 
 1.1.2021 2022/188 r. 36(1)(c) 1.1.2021 2022/153 rr. 2(5)-(6), 9(2)(b), (9)(a), 10(3), (5), 14(1)(c)(i), 18(2), 36(1)(a)-(b), (2), 56(2), Schs.2-3
 
-23.6.2022 2022/321 r. 36A 24.11.2022 2023/074 r. 18(2) 30.3.2023 2025/003 r. 31(7) 9.1.2025
+23.6.2022 2022/321 r. 36A 24.11.2022 2023/074 r. 18(2) 30.3.2023 2025/003 r. 31(7) 9.1.2025 2026/053 r. 29A 26.3.2026
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -46,7 +46,7 @@ PART 4 PRUDENTIAL REQUIREMENTS
 
 Capital requirements
 
-27. Initial capital. 28. Own funds: electronic money institutions. 29. Own funds: small e-money institutions.
+27. Initial capital. 28. Own funds: electronic money institutions. 29. Own funds: small e-money institutions. 29A. Restriction on dividend payments.
 
 Safeguarding
 
@@ -58,9 +58,7 @@ Appointment and duties of auditors
 
 PART 5 REPORTING AND NOTIFICATION
 
-41. Duty of electronic money institution to notify change in circumstances.
-
-42. Reporting requirements for electronic money issuers.
+41. Duty of electronic money institution to notify change in circumstances. 42. Reporting requirements for electronic money issuers.
 
 PART 6 Omitted
 
@@ -90,9 +88,7 @@ Revocation
 
 SCHEDULE 1 SMALL E-MONEY INSTITUTIONS
 
-SCHEDULE 2
-
-ELECTRONIC MONEY INSTITUTION: APPLICATION FOR PERMISSION
+SCHEDULE 2 ELECTRONIC MONEY INSTITUTION: APPLICATION FOR PERMISSION
 
 SCHEDULE 3 CAPITAL REQUIREMENTS
 
