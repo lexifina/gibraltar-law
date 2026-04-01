@@ -26,7 +26,9 @@ C is the power-to-heat ratio;
 
 HCHP is the amount of useful heat from cogeneration (calculated for this purpose as total heat production minus any heat produced in separate boilers or by live steam extraction from the steam generator before the turbine).
 
-The calculation of electricity from cogeneration must be based on the actual power-to-heat ratio. If the actual power-to-heat ratio of a cogeneration unit is not known, the following default values may be used, in particular for statistical purposes, for units of types (a), (b), (c), (d) and (e) referred to in Part II provided that the calculated cogeneration electricity is less or equal to total electricity production of the unit:
+The calculation of electricity from cogeneration must be based on the actual power-to-heat ratio. If the actual power-to-heat ratio of a cogeneration unit is not known, the following default values may be used, in particular for statistical purposes, for units of types (a), (b), (c), (d) and
+
+(e) referred to in Part II provided that the calculated cogeneration electricity is less or equal to total electricity production of the unit:
 
 Type of the unit Default power  to heat ratio, C Combined  cycle gas  turbine with heat recovery 0,95 Steam back pressure turbine 0,45 Steam condensing  extraction turbine 0,45 Gas turbine with heat recovery 0,55 Internal combustion engine 0,75
 

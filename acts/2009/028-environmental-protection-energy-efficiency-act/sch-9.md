@@ -10,6 +10,10 @@ The energy audits referred to in section 10 shall be based on the following guid
 
 (b) comprise a detailed review of the energy consumption profile of buildings or groups of buildings, industrial operations or installations, including transportation;
 
+(ba) identify energy efficiency measures to decrease energy consumption;
+
+(bb) identify the potential for cost-effective use or production of renewable energy;
+
 (c) build, whenever possible, on life-cycle cost analysis (LCCA) instead of Simple Payback Periods (SPP) in order to take account of long-term savings, residual values of long-term investments and discount rates;
 
 (d) be proportionate, and sufficiently representative to permit the drawing of a reliable picture of overall energy performance and the reliable identification of the most significant opportunities for improvement.

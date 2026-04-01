@@ -20,7 +20,7 @@ The competent authority shall ensure that the following information is made avai
 
 (a) current actual prices and actual consumption of energy or total heat cost and heat cost allocator readings;
 
-(b) information about the fuel mix used and the related annual greenhouse gas emissions, including for final users supplied by district heating or district cooling, and a description of the different taxes, levies and tariffs applied. Member States may limit the scope of the requirement to provide information about greenhouse gas emissions to include only supplies from district heating systems with a total rated thermal input exceeding 20 MW;
+(b) information about the fuel mix used and the related annual greenhouse gas emissions, including for final users supplied by district heating or district cooling, and a description of the different taxes, levies and tariffs applied. The competent authority may limit the scope of the requirement to provide information about greenhouse gas emissions to include only supplies from district heating systems with a total rated thermal input exceeding 20 MW;
 
 (c) comparisons of the final users current energy consumption with consumption for the same period in the previous year, in graphic form, climate corrected for heating and cooling;
 

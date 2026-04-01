@@ -34,9 +34,9 @@ B. services;
 
 (vii) electricity generation from thermal power generation;
 
-1 X= current year.
-
 (viii) electricity generation from combined heat and power;
+
+1 X= current year.
 
 (ix) heat generation from thermal power generation;
 
@@ -118,9 +118,9 @@ Energy Efficiency Action Plans shall include–
 
 (b) the number of energy audits carried out in large enterprises in the previous period;
 
-2 Recommendations on Measurement and Verification Methods in the framework of the Directive 2006/32/EC on Energy End-Use Efficiency and Energy Services.
-
 (c) the number of large companies in their territory, with an indication of the number of those to which section (10) and (11) is applicable.
+
+2 Recommendations on Measurement and Verification Methods in the framework of the Directive 2006/32/EC on Energy End-Use Efficiency and Energy Services.
 
 3.4. Promotion of efficient heating and cooling (section 13B)
 

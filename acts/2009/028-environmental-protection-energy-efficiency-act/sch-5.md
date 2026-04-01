@@ -10,7 +10,13 @@ For the purpose of this Act high-efficiency cogeneration shall fulfil the follow
 
 (a) cogeneration production from cogeneration units shall provide primary energy savings calculated according to paragraph 2 of at least 10 % compared with the references for separate production of heat and electricity; and
 
-(b) production from small-scale and micro-cogeneration units providing primary energy savings may qualify as high-efficiency cogeneration.
+(b) production from small-scale and micro-cogeneration units providing primary energy savings may qualify as high-efficiency cogeneration;
+
+(c) for cogeneration units that are built or substantially refurbished after the transposition of this Annex, direct emissions of the carbon dioxide from cogeneration production that is fuelled with fossil fuels, are less than 270 gCO2 per 1 kWh of energy output from the combined generation (including heating/cooling, power and mechanical energy);
+
+(d) cogeneration units in operation before 10 October 2023, may derogate from this requirement until 1 January 2034 provided that they have a plan to reduce progressively the emissions to meet the threshold of less than 270 gCO2 per 1 kWh by 1 January 2034 and that they have notified this plan to relevant operators and competent authorities.
+
+When a cogeneration unit is built or substantially refurbished, Member States shall ensure that there is no increase in the use of fossil fuels other than natural gas in existing heat sources compared to the annual consumption averaged over the previous three calendar years of full operation before refurbishment, and that any new heat sources in that system do not use fossil fuels other than natural gas.
 
 2.  Calculation of primary energy savings
 

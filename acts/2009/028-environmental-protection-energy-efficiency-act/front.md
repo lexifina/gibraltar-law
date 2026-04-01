@@ -12,7 +12,9 @@ Amending enactments Relevant current provisions Commencement date LN.  2014/090 
 
 “ ss. 11(1), (3)-(7), 11A-11C, 12(1), 12A, 13(2)-(4), Sch. 8
 
-25.10.2020 2020/350 Sch. 8 1.1.2021
+25.10.2020 2020/350 Sch. 8 1.1.2021 Act. 2026-16 ss. 2(1)(a), (2), (4), 3(1), 5(2)-(3), (4)(a), (c), (5)(b)- (k), 5A-5B, 6(4)(c), 7(1)-(2), (2A)-(2B), (10)-(11), (11A)-(11B), 9(1)(b), (3A)-(3C), (12), 10(9A)- (9H), 10A, 11(1), 13A(2)(a)(iii), (vi)-(x), (2A)- (2E), 13AB, 13B(1A)-(1B), (8), (8A), 13C(1), Schs. 5, 8-9, 10A-10B
+
+1.4.2026
 
 Transposing: Directive 93/76/EEC Directive 2012/27/EU Directive (EU) 2018/2002
 
@@ -26,15 +28,17 @@ PART I PRELIMINARY AND INTERPRETATION
 
 PART II ENERGY SAVINGS AND EFFICIENCY TARGETS
 
-4. Repealed 5. Energy end-use efficiency in the public sector.
+4. Repealed 5. Energy end-use efficiency in the public sector. 5A. Energy efficiency first principle. 5B. Public sector leading on energy efficiency.
 
 PART III EFFICIENCY IN ENERGY USE
 
-6. Building renovation. 7. Exemplary role of public bodies’ buildings. 8. Purchasing by public bodies. 9. Energy savings obligation. 9A. Energy efficiency obligation schemes. 9B. Alternative policy measures. 10.  Energy audits and energy management systems. 11.  Metering for gas and electricity. 11A. Metering for heating, cooling and domestic hot water. 11B. Sub-metering and cost allocation for heating, cooling and domestic hot water. 11C. Remote reading equipment. 12.  Billing information for gas and electricity. 12A. Billing and consumption information for heating, cooling and domestic hot water. 13.  Cost of access to metering, billing and consumption information for electricity, gas, heating, cooling and domestic hot water. 13A.  Consumer information and empowering programme.
+6. Building renovation. 7. Exemplary role of public bodies’ buildings. 8. Purchasing by public bodies. 9. Energy savings obligation. 9A. Energy efficiency obligation schemes. 9B. Alternative policy measures. 10.  Energy audits and energy management systems. 10A. Data centres. 11.  Metering for gas and electricity. 11A. Metering for heating, cooling and domestic hot water. 11B. Sub-metering and cost allocation for heating, cooling and domestic hot water. 11C. Remote reading equipment. 12.  Billing information for gas and electricity. 12A. Billing and consumption information for heating, cooling and domestic hot water. 13.  Cost of access to metering, billing and consumption information for electricity, gas, heating, cooling and domestic hot water. 13A.  Consumer information and empowering programme. 13AB. Empowering and protecting vulnerable customers and alleviating energy poverty.
 
 PART IIIA EFFICIENCY IN ENERGY SUPPLY
 
-13B.  Promotion of efficiency in heating and cooling. 13C.  Energy transformation, transmission and distribution.
+13B.  Promotion of efficiency in heating and cooling.
+
+13C.  Energy transformation, transmission and distribution.
 
 PART IIIB HORIZONTAL PROVISIONS
 
@@ -65,6 +69,8 @@ SCHEDULE 9 Minimum criteria for energy audits including those carried out as par
 SCHEDULE 10 Minimum requirements for billing and billing information based on actual consumption of electricity and gas
 
 SCHEDULE 10A Minimum requirements for billing and consumption information for heating, cooling and domestic hot water.
+
+SCHEDULE 10B Minimum Requirements for Monitoring and Publishing the Energy Performance of Data Centres.
 
 SCHEDULE 11 Potential for efficiency in heating and cooling
 
