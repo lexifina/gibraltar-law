@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2019-29 Commencement (LN. 2019/201) 10.10.2019 Assent 23.7.2019
 
-Amending enactments Relevant current provisions Commencement date Act.2021-04 ss. 11(2)(a), 45(5), 47(3) 9.2.2021
+Amending enactments Relevant current provisions Commencement date Act.2021-04 ss. 11(2)(a), 45(5), 47(3) 9.2.2021 2026-13 ss. 2, 3(5), (8), (q)-(r), 3A, 5, 6(1), (2), (ba), (d), (3), (4), (d), (g)-(h), (6)-(8), 8A, 9(1), 12A, 24(f)-(g), 24A, 25A, 32A, 33(2A), (3)-(4), (5)(a), (ba), 36(1)(b), 1.4.2026
 
 ARRANGEMENT OF SECTIONS
 
@@ -12,11 +12,11 @@ Section PART 1 PRELIMINARY
 
 Introductory
 
-1. Short title and commencement. 2. Interpretation. 3. Overriding Objective. 4. Establishment of the Climate Change Committee. 5. Effect of Act.
+1. Short title and commencement. 2. Interpretation. 3. Overriding Objective. 3A. Limitation of Liability. 4. Establishment of the Climate Change Committee. 5. Effect of Act.
 
-PART 2 NATIONAL LOW CARBON TRANSITION AND MITIGATION PLAN
+PART 2 NATIONAL LOW CARBON TRANSITION, MITIGATION AND ADAPTATION PLAN
 
-6. The National Mitigation Plan.
+6. The National Mitigation and Adaptation Plan.
 
 PART 3 EMISSIONS REDUCTIONS TARGETS
 
@@ -26,13 +26,19 @@ The 2045 target
 
 8. The 2045 target.
 
+The negative emissions target
+
+8A. The negative emissions target.
+
 The interim target
 
 9 The interim target.
 
 Progress targets
 
-10. Progress targets. 11. Setting progress targets. 12. Modifying progress targets. 13. Limits on use of carbon units.
+10. Progress targets. 11. Setting progress targets. 12. Modifying progress targets. 12A. Effort sharing target.
+
+13. Limits on use of carbon units.
 
 PART 4 FUNCTIONS OF CLIMATE CHANGE COMMITTEE
 
@@ -52,19 +58,19 @@ PART 5 GREENHOUSE GAS EMISSIONS
 
 Greenhouse gases
 
-24. Greenhouse gases.
+24. Greenhouse gases. 24A. Effort sharing sectors.
 
 Baseline
 
-25. The baseline. 26. Emissions from international aviation and international shipping. 27. Measurement of emissions. 28. International carbon reporting practice. 29. Carbon units, carbon accounting and units of other emission reductions.
+25. The baseline. 25A. The effort sharing baseline. 26. Emissions from international aviation and international shipping. 27. Measurement of emissions. 28. International carbon reporting practice. 29. Carbon units, carbon accounting and units of other emission reductions.
 
 PART 6 REPORTING DUTIES
 
-30. Reports on progress targets. 31. Reports on progress targets: content. 32. Reports on proposals and policies for meeting progress targets. 33. Report on the interim target. 34. Report on the 2045 target. 35. Further provision about reporting duties.
+30. Reports on progress targets.
 
-PART 7
+31. Reports on progress targets: content. 32. Reports on proposals and policies for meeting progress targets. 32A. Report on progress towards the effort sharing target. 33. Report on the interim target and the effort sharing target. 34. Report on the 2045 target. 35. Further provision about reporting duties.
 
-DUTIES OF PUBLIC BODIES RELATING TO CLIMATE CHANGE
+PART 7 DUTIES OF PUBLIC BODIES RELATING TO CLIMATE CHANGE
 
 Duties of Public Bodies
 
