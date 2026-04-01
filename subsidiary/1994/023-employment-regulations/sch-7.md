@@ -8,11 +8,11 @@ PART I.
 
 The fee and penalty payable to the Director in respect of the registration of a vacancy shall be–
 
-(a) when notification has been made in accordance with regulation 4 (1), - a vacancy fee of £8.60 only;
+(a) when notification has been made in accordance with regulation 4 (1), - a vacancy fee of £9.50 only;
 
-(b) when the notification by the employer to the Director of the vacancy is made on or within 10 working days from the commencement date of that worker,– a vacancy fee of £8.60 plus a penalty of £15;
+(b) when the notification by the employer to the Director of the vacancy is made on or within 10 working days from the commencement date of that worker,– a vacancy fee of £9.50 plus a penalty of £15;
 
-(c) when the notification by the employer to the Director of the vacancy is made after the day on which the vacancy is filled, whether that notification is made under these Regulations or otherwise, a vacancy fee of £8.60 plus a penalty of £30;
+(c) when the notification by the employer to the Director of the vacancy is made after the day on which the vacancy is filled, whether that notification is made under these Regulations or otherwise, a vacancy fee of £9.50 plus a penalty of £30;
 
 (d) when the notification–
 
@@ -24,11 +24,11 @@ PART II.
 
 £ 1. The fee payable to the Director in respect of an application for a permit under regulation 7
 
-67.00 2. The fee payable to the Director in respect of an application for a renewal of a permit under regulation 7
+68.50 2. The fee payable to the Director in respect of an application for a renewal of a permit under regulation 7
 
-34.00 3. The fee payable to the Director in respect of a notification or application under regulation 15A
+35.00 3. The fee payable to the Director in respect of a notification or application under regulation 15A
 
-88.50
+90.50
 
 PART III.
 
