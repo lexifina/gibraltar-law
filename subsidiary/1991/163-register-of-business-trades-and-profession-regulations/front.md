@@ -6,7 +6,7 @@ LN.1991/163
 
 Commencement 8.8.1991
 
-Amending enactments Relevant current provisions Commencement date LN. 1991/197 rr. 10(2), (4)(b), 12 24.10.1991 2005/046 r. 11(1)(a)-(c) 1.4.2005 2014/133 r. 5(1) 24.7.2014 2016/064 rr. 11(1)(a)-(c), 11A 1.4.2016 2019/240 r. 11A 1.4.2017 2018/069 rr. 11(1)(a) – (c), 11A(3) 1.4.2018 2022/203 rr. 11, 11A(2)-(3) 25.7.2022
+Amending enactments Relevant current provisions Commencement date LN. 1991/197 rr. 10(2), (4)(b), 12 24.10.1991 2005/046 r. 11(1)(a)-(c) 1.4.2005 2014/133 r. 5(1) 24.7.2014 2016/064 rr. 11(1)(a)-(c), 11A 1.4.2016 2019/240 r. 11A 1.4.2017 2018/069 rr. 11(1)(a) – (c), 11A(3) 1.4.2018 2022/203 rr. 11, 11A(2)-(3) 25.7.2022 2026/062 r. 11(a)-(c) 1.4.2026
 
 ARRANGEMENT OF REGULATIONS
 
