@@ -2,9 +2,9 @@ SCHEDULE 1B AML SUPERVISION FEE
 
 Regulated Person (Fee Blocks are those in Schedule 1) AML Supervision Fee (£) In Fee Block A1:
 
-Open market insurance companies (life) (insurers and reinsurers), including those structured as PCCs; Credit institutions; Electronic money institutions; Incoming third country credit institution branches. £3,900 All regulated persons in Fee Block A2. In Fee Block A4:
+Open market insurance companies (life) (insurers and reinsurers), including those structured as PCCs; Credit institutions; Electronic money institutions; Incoming third country credit institution branches. £4,017 All regulated persons in Fee Block A2. In Fee Block A4:
 
-Incoming UK credit institution branches; Incoming UK insurance (life) branches; Incoming third country insurance (life) branches; Incoming UK electronic money institution branches. In Fee Block B1: Captive insurers (life), including those set up as a PCC. In Fee Block E1: Insurance intermediaries (life). In Fee Block E2: Incoming insurance intermediary (life) branches. All regulated persons in Fee Block G1. All regulated persons in Fee Block A3. £775 In Fee Block B1:
+Incoming UK credit institution branches; Incoming UK insurance (life) branches; Incoming third country insurance (life) branches; Incoming UK electronic money institution branches. In Fee Block B1: Captive insurers (life), including those set up as a PCC. In Fee Block E1: Insurance intermediaries (life). In Fee Block E2: Incoming insurance intermediary (life) branches. All regulated persons in Fee Block G1. All regulated persons in Fee Block A3. £798 In Fee Block B1:
 
 Collective Investment Scheme administrators; Insurance managers; Special Purpose Vehicles (including those set up as a PCC);
 
