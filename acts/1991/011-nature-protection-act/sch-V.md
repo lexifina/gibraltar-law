@@ -260,9 +260,7 @@ CRUCIFERAE
 
 Alyssum pintadasilvae Dudley.
 
-Malcolmia lacera (L.) DC. subsp. graccilima (Samp.) Franco
-
-Murbeckiella pinnatifida (Lam.) Rothm. subsp. herminii (Rivas-Martinez) Greuter & Burdet
+Malcolmia lacera (L.) DC. subsp. graccilima (Samp.) Franco Murbeckiella pinnatifida (Lam.) Rothm. subsp. herminii (Rivas-Martinez) Greuter & Burdet
 
 GENTIANACEAE
 

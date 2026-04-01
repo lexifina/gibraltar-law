@@ -24,7 +24,9 @@ CICONIIFORMES
 
 Ardeidae Botaurus stellaris Ixobrychus minutus Nycticorax nycticorax Ardeola ralloides Egretta garzetta Egretta alba (Ardea alba) Ardea purpurea
 
-Ciconiidae Ciconia nigra Ciconia ciconia
+Ciconiidae Ciconia nigra
+
+Ciconia ciconia
 
 Threskiornithidae Plegadis falcinellus Platalea leucorodia
 
@@ -40,9 +42,9 @@ FALCONIFORMES
 
 Pandionidae Pandion haliaetus
 
-Accipitridae
+Accipitridae Pernis apivorus Elanus caeruleus Milvus migrans Milvus milvus Haliaeetus albicilla Gypaetus barbatus Neophron percnopterus Gyps fulvus Aegypius monachus Circaetus gallicus Circus aeruginosus Circus cyaneus
 
-Pernis apivorus Elanus caeruleus Milvus migrans Milvus milvus Haliaeetus albicilla Gypaetus barbatus Neophron percnopterus Gyps fulvus Aegypius monachus Circaetus gallicus Circus aeruginosus Circus cyaneus Circus macrourus Circus pygargus Accipiter gentilis arrigonii Accipiter nisus granti Accipiter brevipes Buteo rufinus Aquila pomarina Aquila clanga Aquila heliaca Aquila adalberti Aquila chrysaetos Hieraaetus pennatus Hieraaetus fasciatus
+Circus macrourus Circus pygargus Accipiter gentilis arrigonii Accipiter nisus granti Accipiter brevipes Buteo rufinus Aquila pomarina Aquila clanga Aquila heliaca Aquila adalberti Aquila chrysaetos Hieraaetus pennatus Hieraaetus fasciatus
 
 Falconidae Falco naumanni Falco vespertinus Falco columbarius Falco eleonorae Falco biarmicus Falco cherrug Falco rusticolus Falco peregrinus
 
@@ -56,7 +58,9 @@ GRUIFORMES
 
 Turnicidae Turnix sylvatica
 
-Gruidae Grus grus
+Gruidae
+
+Grus grus
 
 Rallidae Porzana porzana Porzana parva Porzana pusilla Crex crex Porphyrio porphyrio Fulica cristata
 
@@ -68,13 +72,13 @@ Recurvirostridae Himantopus himantopus Recurvirostra avosetta Burhinidae Burhinu
 
 Glareolidae Cursorius cursor Glareola pratincola
 
-Charadriidae Charadrius alexandrinus Charadrius morinellus (Eudromias morinellus) Pluvialis apricaria
-
-Hoplopterus spinosus
+Charadriidae Charadrius alexandrinus Charadrius morinellus (Eudromias morinellus) Pluvialis apricaria Hoplopterus spinosus
 
 Scolopacidae Calidris alpina schinzii Philomachus pugnax Gallinago media Limosa lapponica Numenius tenuirostris Tringa glareola Xenus cinereus (Tringa cinerea) Phalaropus lobatus
 
-Laridae Larus melanocephalus Larus genei Larus audouinii Larus minutus
+Laridae Larus melanocephalus
+
+Larus genei Larus audouinii Larus minutus
 
 Sternidae Gelochelidon nilotica (Sterna nilotica) Sterna caspia Sterna sandvicensis Sterna dougallii Sterna hirundo Sterna paradisaea Sterna albifrons Chlidonias hybridus Chlidonias niger
 
@@ -86,9 +90,7 @@ Pteroclididae Pterocles orientalis Pterocles alchata
 
 COLUMBIFORMES
 
-Columbidae Columba palumbus azorica Columba trocaz Columba bollii
-
-Columba junoniae
+Columbidae Columba palumbus azorica Columba trocaz Columba bollii Columba junoniae
 
 STRIGIFORMES
 
@@ -138,6 +140,8 @@ Corvidae Pyrrhocorax pyrrhocorax
 
 Fringillidae (Fringillinae) Fringilla coelebs ombriosa Fringilla teydea
 
-Fringillidae (Carduelinae) Loxia scotica Bucanetes githagineus Pyrrhula murina (Pyrrhula pyrrhula murina)
+Fringillidae (Carduelinae)
+
+Loxia scotica Bucanetes githagineus Pyrrhula murina (Pyrrhula pyrrhula murina)
 
 Emberizidae (Emberizinae) Emberiza cineracea Emberiza hortulana Emberiza caesia

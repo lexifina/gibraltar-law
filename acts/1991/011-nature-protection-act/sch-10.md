@@ -14,7 +14,7 @@ Admission Fees.
 
 (c) £22.00 per person aged from 5 to 11 years inclusive entering via Jews’ Gate or Willis’s Road;
 
-(d) £17.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
+(d) £18.00 per person for entry at Jews’ Gate or Willis’s Road in a taxi or as part of a tour group with a tour operator;
 
 (e) Deleted.
 

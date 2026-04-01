@@ -44,9 +44,9 @@ Whereas it is therefore agreed that, in this exceptional case, a contribution by
 
 Whereas land-use planning and development policies should encourage the management of features of the landscape which are of major importance for wild fauna and flora;
 
-(5) OJ No L 103, 25. 4. 1979, p. 1. Directive as last amended by Directive 91/244/ECC (OJ No L 115, 8. 5. 1991, p. 41).
-
 Whereas a system should be set up for surveillance of the conservation status of the natural habitats and species covered by this Directive;
+
+(5) OJ No L 103, 25. 4. 1979, p. 1. Directive as last amended by Directive 91/244/ECC (OJ No L 115, 8. 5. 1991, p. 41).
 
 Whereas a general system of protection is required for certain species of flora and fauna to complement Directive 79/409/EEC; whereas provision should be made for management measures for certain species, if their conservation status so warrants, including the prohibition of certain means of capture or killing, whilst providing for the possibility of derogations on certain conditions;
 
@@ -360,8 +360,6 @@ In implementing the provisions of this Directive, Member States shall:
 
 (b) ensure that the deliberate introduction into the wild of any species which is not native to their territory is regulated so as not to prejudice natural habitats within their natural range or the wild native fauna and flora and, if they consider it necessary, prohibit such introduction. The results of the assessment undertaken shall be forwarded to the committee for information;
 
-(1) Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (OJ L 184, 17.7.1999, p. 23).
-
 (c) promote education and general information on the need to protect species of wild fauna and flora and to conserve their habitats and natural habitats.
 
 Final provisions
@@ -371,6 +369,8 @@ Article 23
 1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive within two years of its notification. They shall forthwith inform the Commission thereof.
 
 2. When Member States adopt such measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.
+
+(1) Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (OJ L 184, 17.7.1999, p. 23).
 
 3. Member States shall communicate to the Commission the main provisions of national law which they adopt in the field covered by this Directive.
 

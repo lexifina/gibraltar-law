@@ -804,8 +804,6 @@ Centrostephanus longispinus
 
 Annex IV (b) contains all the plant species listed in Annex II (b)(*) plus those mentioned below:
 
-(*) Except bryophytes in Annex II (b).
-
 PTERIDOPHYTA
 
 ASPLENIACEAE
@@ -833,6 +831,8 @@ CAMPANULACEAE
 Campanula morettiana Reichenb.
 
 Physoplexis comosa (L.) Schur.
+
+(*) Except bryophytes in Annex II (b).
 
 CARYOPHYLLACEAE
 

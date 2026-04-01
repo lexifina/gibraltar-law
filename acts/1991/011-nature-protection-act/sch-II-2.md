@@ -4,9 +4,7 @@ PART A
 
 ANSERIFORMES
 
-Anatidae Anser fabalis Anser anser Branta canadensis Anas penelope Anas strepera Anas crecca Anas platyrhynchos Anas acuta Anas querquedula Anas clypeata Aythya ferina
-
-Aythya fuligula
+Anatidae Anser fabalis Anser anser Branta canadensis Anas penelope Anas strepera Anas crecca Anas platyrhynchos Anas acuta Anas querquedula Anas clypeata Aythya ferina Aythya fuligula
 
 GALLIFORMES
 
@@ -30,9 +28,7 @@ PART B
 
 ANSERIFORMES
 
-Anatidae Cygnus olor Anser brachyrhynchus Anser albifrons Branta bernicla Netta rufina Aythya marila Somateria mollissima
-
-Clangula hyemalis Melanitta nigra Melanitta fusca Bucephala clangula Mergus serrator Mergus merganser
+Anatidae Cygnus olor Anser brachyrhynchus Anser albifrons Branta bernicla Netta rufina Aythya marila Somateria mollissima Clangula hyemalis Melanitta nigra Melanitta fusca Bucephala clangula Mergus serrator Mergus merganser
 
 GALLIFORMES
 
@@ -40,7 +36,9 @@ Meleagridae Meleagris gallopavo
 
 Tetraonidae Bonasa bonasia Lagopus lagopus lagopus Tetrao tetrix Tetrao urogallus
 
-Phasianidae Francolinus francolinus Alectoris barbara Alectoris chukar Coturnix coturnix
+Phasianidae
+
+Francolinus francolinus Alectoris barbara Alectoris chukar Coturnix coturnix
 
 GRUIFORMES
 
@@ -52,15 +50,15 @@ Haematopodidae Haematopus ostralegus
 
 Charadriidae Pluvialis apricaria Pluvialis squatarola Vanellus vanellus
 
-Scolopacidae Calidris canutus Philomachus pugnax Limosa limosa
-
-Limosa lapponica Numenius phaeopus Numenius arquata Tringa erythropus Tringa totanus Tringa nebularia
+Scolopacidae Calidris canutus Philomachus pugnax Limosa limosa Limosa lapponica Numenius phaeopus Numenius arquata Tringa erythropus Tringa totanus Tringa nebularia
 
 Laridae Larus ridibundus Larus canus Larus fuscus Larus argentatus Larus cachinnans Larus marinus
 
 COLUMBIFORMES
 
-Columbidae Columba oenas Streptopelia decaocto Streptopelia turtur
+Columbidae Columba oenas Streptopelia decaocto
+
+Streptopelia turtur
 
 PASSERIFORMES
 

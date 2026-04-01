@@ -14,9 +14,7 @@ The abbreviation “spp.” after the name of a family or genus designates all t
 
 (c)  Symbols
 
-An asterisk (*) before the name of a species indicates that it is a priority species.
-
-Most species listed in this Annex are also listed in Annex IV. Where a species appears in this Annex but does not appear in either Annex IV or Annex V, the species name is followed by the symbol (o); where a species which appears in this Annex also appears in Annex V but does not appear in Annex IV, its name is followed by the symbol (V).
+An asterisk (*) before the name of a species indicates that it is a priority species. Most species listed in this Annex are also listed in Annex IV. Where a species appears in this Annex but does not appear in either Annex IV or Annex V, the species name is followed by the symbol (o); where a species which appears in this Annex also appears in Annex V but does not appear in Annex IV, its name is followed by the symbol (V).
 
 (a) ANIMALS
 
@@ -106,7 +104,9 @@ CARNIVORA
 
 Canidae
 
-* Alopex lagopus * Canis lupus (except the Estonian population; Greek populations: only south of the 39th parallel; Spanish populations: only those south of the Duero; Latvian, Lithuanian and Finnish populations).
+* Alopex lagopus
+
+* Canis lupus (except the Estonian population; Greek populations: only south of the 39th parallel; Spanish populations: only those south of the Duero; Latvian, Lithuanian and Finnish populations).
 
 Ursidae * Ursus arctos (except the Estonian, Finnish, and Swedish populations)
 
@@ -922,9 +922,7 @@ Cerastium dinaricum G. Beck & Szysz.
 
 Dianthus arenarius L. subsp. arenarius
 
-* Dianthus arenarius subsp. bohemicus (Novak) O.Schwarz
-
-Dianthus cintranus Boiss. & Reuter subsp. Cintranus Boiss. & Reuter
+* Dianthus arenarius subsp. bohemicus (Novak) O.Schwarz Dianthus cintranus Boiss. & Reuter subsp. Cintranus Boiss. & Reuter
 
 * Dianthus diutinus Kit.
 

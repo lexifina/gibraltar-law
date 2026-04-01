@@ -24,7 +24,9 @@ Anatidae Anser albifrons albifrons Anser anser Anas penelope Anas crecca Anas ac
 
 GALLIFORMES
 
-Tetraonidae Lagopus mutus Tetrao tetrix britannicus Tetrao urogallus
+Tetraonidae Lagopus mutus
+
+Tetrao tetrix britannicus Tetrao urogallus
 
 GRUIFORMES
 

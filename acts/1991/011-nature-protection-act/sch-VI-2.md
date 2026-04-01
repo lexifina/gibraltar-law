@@ -24,7 +24,9 @@ Council Directive 94/24/EC (OJ L 164, 30.6.1994, p. 9)
 
 1994 Act of Accession, Annex I, point VIII.E.1 (OJ C 241, 29.8.1994, p. 175)
 
-Commission Directive 97/49/EC (OJ L 223, 13.8.1997, p. 9)
+Commission Directive 97/49/EC
+
+(OJ L 223, 13.8.1997, p. 9)
 
 Council Regulation (EC) No 807/2003
 

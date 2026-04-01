@@ -30,7 +30,7 @@ LN. 2018/251 Schs. 1, 3 8.11.2018 2019/007 Sch. 1 17.01.2019 2019/084 ss. 17Q(1)
 
 11.12.2020 LN. 2020/548 ss. 2(1), (3C)-(3D), 2ZA, 12A(4)(a)-(b), 13A, 17A(2A), 17B-17C, 17DA(2A), 17DB, 17DC, 17E(1)(b)-(d), 17K(6)(b), 17P(6)(b), 17RA(1), (3A), 17RB(1), 17T(7)(aa), 17VB(1), 17X(7)(aa), 17XA(5), 17Y(4A)-(4B), 17CC(2)(b), (3)-(4), (4A), 17DD, 17DDA, 17FF(6), 17GG(2)(b), (3)- (4), (4A), 21A(3), 23(1)-(2), 23A
 
-1.1.2021 2022/077 Sch. 10 1.4.2022 2023/245 Sch. 10 10.8.2023 2024/208 Sch. 10 15.11.2024 2025/068 Sch. 1, 3 27.3.2025 2025/070 Sch. 10 1.4.2025 2026/021 Sch. 3 22.1.2026
+1.1.2021 2022/077 Sch. 10 1.4.2022 2023/245 Sch. 10 10.8.2023 2024/208 Sch. 10 15.11.2024 2025/068 Sch. 1, 3 27.3.2025 2025/070 Sch. 10 1.4.2025 2026/021 Sch. 3 22.1.2026 2026/044 Sch. 10 1.4.2026
 
 Transposing: Directive 79/409/EEC Directive 92/43/EEC Directive 2009/147/EC Directive 2013/17/EU
 
@@ -76,9 +76,9 @@ Surveillance
 
 Protection of animals
 
-17RB. Protection of certain animals from exploitation. 17S. Repealed. 17T. Protection of certain wild animals. 17U. Exemptions from section 17T.
+17RB. Protection of certain animals from exploitation. 17S. Repealed. 17T. Protection of certain wild animals. 17U. Exemptions from section 17T. 17V. Prohibition of certain methods of taking or killing wild animals. 17VA. Monitoring incidental capturing and killing.
 
-17V. Prohibition of certain methods of taking or killing wild animals. 17VA. Monitoring incidental capturing and killing. 17VB. Protection from incidental capture and killing. 17VC.  Minister may make Regulations. 17W. Repealed.
+17VB. Protection from incidental capture and killing. 17VC.  Minister may make Regulations. 17W. Repealed.
 
 Protection of plants
 
@@ -102,9 +102,9 @@ PART IIB APPROPRIATE ASSESSMENTS FOR LAND USE PLANS
 
 PART III. NATURE CONSERVATION.
 
-18ZA.  Protection of habitats from pollution or deterioration. 18ZB. Conservation of wild animals and plants from pollution or deterioration. 18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Scientific Authorities.
+18ZA.  Protection of habitats from pollution or deterioration. 18ZB. Conservation of wild animals and plants from pollution or deterioration. 18. Areas of special interest. 19. Penalties in relation to nature conservation areas and marine nature areas. 20. Scientific Authorities. 21. Wildlife Warden. 21A. Promotion of research etc. 22. Offences by bodies corporate etc.
 
-21. Wildlife Warden. 21A. Promotion of research etc. 22. Offences by bodies corporate etc. 23. Amendment to Schedules. 23A. Amendment to the Annexes to the Directives. 24. Regulations. 24A. Fees for entry into a nature conservation area. 24B. Fees for entry into tourist sites within a nature conservation area. 24C. Fees (Miscellaneous). 24D. Terms and conditions of entry. 24E. Offences. 24F. Exclusion Orders. 25. Amendment to Animals and Birds Act.
+23. Amendment to Schedules. 23A. Amendment to the Annexes to the Directives. 24. Regulations. 24A. Fees for entry into a nature conservation area. 24B. Fees for entry into tourist sites within a nature conservation area. 24C. Fees (Miscellaneous). 24D. Terms and conditions of entry. 24E. Offences. 24F. Exclusion Orders. 25. Amendment to Animals and Birds Act.
 
 SCHEDULE 1 – SPECIFIED WILD ANIMALS.
 
