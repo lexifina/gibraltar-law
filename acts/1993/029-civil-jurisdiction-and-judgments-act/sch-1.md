@@ -84,9 +84,9 @@ In particular the following provisions shall not be applicable as against them:
 
 in Belgium: Article 15 of the civil code (Code civil - Burgerlijk Wetboek) and Article 638 of the Judicial code (Code judiciaire Gerechtelijk Wetboek); in Denmark: Article 246 (2) and (3) of the law on civil procedure (Lov om rettens pleje); in the Federal Republic of Germany: Article 23 of the code of civil procedure (Zivilprozessordnung); in France:
 
-Articles 14 and 15 of the civil code (Code civil);
+Articles 14 and 15 of the civil code (Code civil); in Ireland: the rules which enable jurisdiction to be founded on the document instituting the proceedings having been served on the defendant during his temporary presence in Ireland;
 
-in Ireland: the rules which enable jurisdiction to be founded on the document instituting the proceedings having been served on the defendant during his temporary presence in Ireland; in Italy: Article 2 and Article 4, Nos 1 and 2 of the code of civil procedure (Codice di procedura civile); in Luxembourg: Articles 14 and 15 of the civil code (Code Civil); in the Netherlands: Article 126 (3) and Article 127 of the code of civil procedure (Wetboek van Burgerlijke Rechtsvordering); in Portugal: Article 65 (1) (c) and 65 (2) and 65A (c) of the Code of Civil Procedure (codigo de processo civil) and Article 11 of the code of labour procedure (codigo de proceso de trabalho); in the United Kingdom: the rules which enable jurisdiction to be founded on:
+in Italy: Article 2 and Article 4, Nos 1 and 2 of the code of civil procedure (Codice di procedura civile); in Luxembourg: Articles 14 and 15 of the civil code (Code Civil); in the Netherlands: Article 126 (3) and Article 127 of the code of civil procedure (Wetboek van Burgerlijke Rechtsvordering); in Portugal: Article 65 (1) (c) and 65 (2) and 65A (c) of the Code of Civil Procedure (codigo de processo civil) and Article 11 of the code of labour procedure (codigo de proceso de trabalho); in the United Kingdom: the rules which enable jurisdiction to be founded on:
 
 (a)  the document instituting the proceedings having been served on the defendant during his temporary presence in the United Kingdom; or
 
@@ -698,7 +698,9 @@ ARTICLE 57
 
 (2) With a view to its uniform interpretation, paragraph 1 shall be applied in the following manner–
 
-(a) this Convention shall not prevent a court of a Contracting State which is a party to a convention on a particular matter from assuming jurisdiction in accordance with that Convention, even where the defendant is domiciled in another Contracting State which is not a party to that Convention. The court hearing the action shall in any event, apply Article 20 of this Convention;
+(a) this Convention shall not prevent a court of a Contracting State which is a party to a convention on a particular matter from assuming jurisdiction in accordance with that Convention, even where the defendant is domiciled in another Contracting
+
+State which is not a party to that Convention. The court hearing the action shall in any event, apply Article 20 of this Convention;
 
 (b) judgments given in a Contracting State by a court in the exercise of jurisdiction provided for in a convention on a particular matter shall be recognized and enforced in the other Contracting State in accordance with his Convention.
 

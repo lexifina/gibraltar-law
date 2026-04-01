@@ -16,13 +16,13 @@ Amending enactments Relevant current provisions Commencement date Act. 1997-27 s
 
 1.1.2021 2023/116 ss. 2(1), 32(1), (3), 38A, 39(1)(b), Sch. 11 4.5.2023 Act. 2025-11 ss. 2(1)-(6), 4(1)-(4), 5-6, 6B, 7, 7A-7B, 8, 9(1), (3)-(5), 10-11, 11A(1), (a)-(b), 12-13, 13A, 14-15, 16(1), 17(1)(a)-(b), (3A)(a)-(b), 18(2), 21(4)(a), 22(2), 24(1), (3), 25(2), (4)-(5), 26-27, 28(1), 30, 32(1)-(2), (3), (a)-(b), (e), (g), 33, 38, 39—50, Sch. 1-6, 10
 
-7.11.2025
+7.11.2025 LN.2025/260 ss. 2(1), (3), (4)(a)-(b), (8)-(9), 4A, 6A(1)-(2), (4)- (5), 6ZA-6ZF, 8A-8C, 9(1), (5), 9A, 12A, 21(4)(a), 38B-38C, Sch. 6B
+
+1.4.2026
 
 Implementing: Regulation (EC) No. 44/2001 Regulation (EU) No. 1215/2012
 
-International Agreements involved: Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters The Accession Convention
-
-The 1982 Accession Convention The 1989 Accession Convention The Brussels Conventions The Hague Convention The Lugano Convention
+International Agreements involved: Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters Convention on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters The Accession Convention The 1982 Accession Convention The 1989 Accession Convention The Brussels Conventions The Hague Convention The Lugano Convention
 
 ARRANGEMENT OF SECTIONS
 
@@ -32,7 +32,9 @@ Section
 
 PART I. IMPLEMENTATION OF THE CONVENTIONS.
 
-3. Application of the Conventions. 4. Conventions to have the force of law. 5. Deleted. 6. Deleted. 6A.  Registration and enforcement of judgments under the 2005 Hague Convention. 6B. Deleted. 7. Deleted. 7A. Deleted. 7B. Deleted. 8. Deleted. 8A.  Appeals in relation to registration of judgments under the 2005 Hague Convention. 9. Interest on registered judgments. 10.  Deleted. 11.  Deleted. 11A. Proof and admissibility of certain judgments and related documents for the purposes of the 2005 Hague Convention. 12.  Copies and certificates in connection with Gibraltar judgments. 13.  Deleted. 13A. Deleted. 14.  Deleted. 15.  Deleted.
+3. Application of the Conventions. 4. Conventions to have the force of law. 4A. Interpretation of the 2019 Hague Convention. 5. Deleted. 6. Deleted. 6A.  Registration and enforcement of judgments under the 2005 Hague Convention. 6ZA. Registration and enforcement of judgments under the 2019 Hague Convention. 6ZB. Jurisdiction on rights in rem in immovable property. 6ZC. Assignment, transfer or succession. 6ZD. Article 5(1)(g) of the 2019 Hague Convention. 6ZE. Res judicata. 6ZF. Recognition and enforcement under Gibraltar law. 6B. Deleted. 7. Deleted. 7A. Deleted. 7B. Deleted. 8. Deleted. 8A.  Applications to set aside decisions on the registration of judgments under the 2005 Hague Convention. 8B. Applications to set aside decisions on registration of judgments under the 2019 Hague Convention. 8C. Grounds of refusal. 9. Interest on registered judgments. 9A. Provisions supplementary to Article 26 of the Hague Convention and Article 23 of the 2019 Hague Convention. 10.  Deleted. 11.  Deleted. 11A. Proof and admissibility of certain judgments and related documents for the purposes of the 2005 Hague Convention. 12.  Copies and certificates in connection with Gibraltar judgments. 12A. Proof and admissibility of certain judgments and related documents for the purposes of the 2019 Hague Convention. 13.  Deleted. 13A. Deleted. 14.  Deleted.
+
+15.  Deleted.
 
 PART II. PROVISIONS RELATING TO JURISDICTION.
 
@@ -44,9 +46,11 @@ PART III. PROVISIONS RELATING TO RECOGNITION AND ENFORCEMENT OF JUDGMENTS.
 
 PART IV. SUPPLEMENTARY AND GENERAL PROVISIONS.
 
-24. Domicile of individuals. 25. Domicile and seat of a corporation or association. 26. Deleted. 27. Deleted. 28. Domicile of Trusts. 29. Domicile and seat of the Crown. 30. Deleted. 31. Availability of legal assistance. 32. Matters for which rules of court may provide. 32A. Maintenance Arrangements. 33. Saving of powers to stay, sist, strike out or dismiss proceedings. 34. Application to Crown. 35. Amendments to the Maintenance Orders (Reciprocal Enforcement) Act. 36. Amendment to the Magistrates’ Court Act. 37. Amendment to the Judgments (Reciprocal Enforcement) Act. 38. Deleted. 38A. Deleted. 38B.  Application of provisions of the Civil Jurisdiction and Judgments Act 1993 to judicial settlements.
+24. Domicile of individuals. 25. Domicile and seat of a corporation or association. 26. Deleted. 27. Deleted. 28. Domicile of Trusts. 29. Domicile and seat of the Crown. 30. Deleted. 31. Availability of legal assistance. 32. Matters for which rules of court may provide. 32A. Maintenance Arrangements. 33. Saving of powers to stay, sist, strike out or dismiss proceedings. 34. Application to Crown. 35. Amendments to the Maintenance Orders (Reciprocal Enforcement) Act. 36. Amendment to the Magistrates’ Court Act. 37. Amendment to the Judgments (Reciprocal Enforcement) Act. 38. Deleted. 38A. Deleted. 38B.  Application of provisions of the Civil Jurisdiction and Judgments Act 1993 to judicial settlements under the 2005 Hague Convention. 38C. Application of this Act to judicial settlements under the 2019 Hague Convention.
 
-PART V JURISDICTION AND THE ENFORCEMENT OF JUDGMENTS BETWEEN THE UNITED KINGDOM AND GIBRALTAR
+PART V
+
+JURISDICTION AND THE ENFORCEMENT OF JUDGMENTS BETWEEN THE UNITED KINGDOM AND GIBRALTAR
 
 39. Arrangements between the United Kingdom and Gibraltar. 40. Registration and enforcement of judgments from the United Kingdom pursuant to section 39. 41. Recognition and enforcement of United Kingdom maintenance orders. 42. Appeals. 43. Interest on registered judgments. 44. Proof and admissibility of judgments and related documents. 45. Copies of, and certificates in connection with judgments to be enforced. 46. Modifications to cover authentic instruments and court settlements. 47. Interpretation.
 
@@ -67,6 +71,8 @@ SCHEDULE 5. Deleted.
 SCHEDULE 6. Deleted.
 
 SCHEDULE 6A. Convention on Choice of Court Agreements
+
+SCHEDULE 6B Text of the 2019 Hague Convention
 
 SCHEDULE 7. Amendments to the Maintenance Orders (Reciprocal Enforcement) Act.
 
