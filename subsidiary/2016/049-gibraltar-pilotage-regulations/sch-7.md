@@ -4,8 +4,4 @@ Regulation 28
 
 CHARGES FOR BOARDING AND LANDING
 
-GROSS UP TO 3000 OVER TONNAGE 3000 TO 30000
-
-30000
-
-£69.00 £140.00 £209.00
+Single band Boarding and Landing Fee - £200
