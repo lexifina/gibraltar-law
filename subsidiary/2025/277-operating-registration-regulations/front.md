@@ -6,7 +6,7 @@ LN.2025/277
 
 Notice of Commencement - (LN.2026/029) 1.2.2026
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2026/082 Sch. 23.4.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -68,13 +68,21 @@ REG.010 Registration eligibility
 
 (3) a company or trust lawfully incorporated in Gibraltar and carrying out business under the laws of Gibraltar;
 
-(4) a company lawfully incorporated in Gibraltar carrying out commercial air transport operations in accordance with the provisions of CAR OPS 1/3, as applicable;
+(4) a company lawfully incorporated in Gibraltar carrying out commercial air transport operations in accordance with the provisions of CAR OPS 1/3, as applicable; or
 
-(5) the Government; or
+(5) the Government.
 
-(6) for non-commercial air transport operations only, a foreign citizen or a company of another State that is acceptable to the Authority and has elected domicile with a representative residing or legally established in Gibraltar, who is responsible for direct communication and notifications with the Authority.
+(b) for non-commercial air transport operations, the following can also register–
 
-(b) An aircraft will not be eligible for a certificate of registration if the aircraft is registered under the laws of any other State.
+(1) a citizen or a company of the United Kingdom, its Crown Dependencies and Overseas Territories;
+
+(2) a citizen or a company of the European Union;
+
+(3) a citizen or a company of Iceland, Liechtenstein, Norway or Switzerland; or
+
+(4) a citizen or a company of a State that is acceptable to the Authority and has selected a registered agent residing or legally established in Gibraltar, who is responsible for direct communication and notifications with the Authority.
+
+(c) An aircraft will not be eligible for a certificate of registration if the aircraft is registered under the laws of any other State.
 
 REG.015 State of Registry responsibilities in respect of advising State of Design
 
@@ -180,11 +188,11 @@ REG.035 General
 
 REG.040 General requirements
 
-(a) The nationality or common mark and registration mark shall consist of a group of characters.
+(a) The nationality or common mark and registration mark shall consist of a group of characters. When the first character of the registration mark is a letter, it shall be preceded by a hyphen.
 
-(b) The nationality or common mark of “VP-G” shall precede the remainder of the registration mark.
+(b) The nationality or common mark of “ZD-A”, “ZD-B”, “ZD-C”, “ZD-D”, “ZD-E” or “VP-G” shall precede the remainder of the registration mark.
 
-Note: As the nationality mark contains a hyphen, no further hyphens shall be used in the registration mark.
+Note: As the nationality marks contains a hyphen, no further hyphens shall be used in the registration mark.
 
 (c) The nationality mark shall be selected from the series of nationality symbols included in the radio call signs allocated to Gibraltar, as the State of Registry, by the International Telecommunication Union. The nationality mark shall, and has been, notified to the International Civil Aviation Organisation.
 
@@ -276,7 +284,7 @@ REG.055 Width, spacing and thickness of marks
 
 (5) The width of the letter I shall be one-sixth of the height of the letters forming the marks.
 
-(6) Each character, including hyphens, shall be separated from that which it immediately precedes or follows by a space of not less than one-quarter of a character width. Each such space shall be equal to every other such space within the marks.
+(6) Each character, including hyphens, shall be separated from that which it immediately precedes or follows by a space of not less than one-quarter of a character width. Each such space shall be equal to every other such space within the marks. A hyphen shall be regarded as a character for this purpose.
 
 (7) The letters in each separate group of marks shall be of equal height.
 
@@ -300,7 +308,7 @@ REG.060 Identification plate
 
 (1) in the case of an unmanned free balloon, affixed conspicuously to the exterior of the payload; and
 
-(2) in the case of a remotely piloted vehicle, secured in a prominent position near the main entrance or compartment or affixed conspicuously to the exterior of the aircraft if there is no main entrance or compartment.
+(2) in the case of a remotely piloted aircraft, secured in a prominent position near the main entrance or compartment or affixed conspicuously to the exterior of the aircraft if there is no main entrance or compartment.
 
 CHAPTER 3
 
