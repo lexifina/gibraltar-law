@@ -146,7 +146,7 @@ The Authority, as the State of Registry shall;
 
 (h) ensure that sensitive aviation security information is not transmitted when distributing mandatory continuing airworthiness information.
 
-(i) ensure that sensitive aviation security information is securely transmitted to the appropriate authority in the State of Design in accordance with CAR SEC.
+(i) ensure that sensitive aviation security information is securely transmitted to the appropriate authority in the State of Design.
 
 (j) when approving a maintenance organisation or accepting the approval of a maintenance organisation issued by another Contracting State, ensure compliance with ICAO Annex 8, Part II, Chapter 6.
 
@@ -242,9 +242,11 @@ AIR 1.070 Airworthiness Directives applicability
 
 (a) Except as provided for in paragraph AIR 1.070(b), the airworthiness directives applicable under these regulations are those airworthiness directives or equivalent mandatory continuing airworthiness requirements:
 
-(1) prescribed for that aircraft or product by the State of type certification on which Type Acceptance Certification rests; and
+(1) prescribed for that aircraft or product by the State of type certification on which Type Acceptance Certification rests;
 
-(2) any prescribed by the state of certification of an applicable approved design change.
+(2) prescribed by the State of certification of an applicable approved design change; and/or
+
+(3) prescribed by the Authority.
 
 (b) Compliance with alternative or additional airworthiness directives may be required as a condition of issue or continuity of the Type Acceptance Certificate.
 

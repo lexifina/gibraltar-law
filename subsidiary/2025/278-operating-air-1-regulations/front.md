@@ -6,7 +6,7 @@ LN.2025/278
 
 Notice of Commencement - (LN.2026/029) 1.2.2026
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2026/079 Sch. 23.4.2026
 
 ARRANGEMENT OF REGULATIONS
 
