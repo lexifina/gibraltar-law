@@ -6,7 +6,7 @@ LN.2025/263
 
 Notice of Commencement - (LN.2026/029) 1.2.2026
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2026/080 Sch. 23.4.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -478,6 +478,42 @@ Calendar means discrete temporal reference system that provides the basis for de
 
 Capacitor discharge light. A lamp in which high-intensity flashes of extremely short duration are produced by the discharge of electricity at high voltage through a gas enclosed in a tube.
 
+CAR 21 means the Operating (Part 21) Regulations 2025, as amended from time to time.
+
+CAR 145 means the Operating (Part 145) Regulations 2025, as amended from time to time.
+
+CAR AIR 1 means the Operating (AIR 1) Regulations 2025, as amended from time to time.
+
+CAR AIR 2 means the Operating (AIR 2) Regulations 2025, as amended from time to time.
+
+CAR CAMO means the Operating (CAMO) Regulations 2025, as amended from time to time.
+
+CAR CNS means the Operating (Communications, Navigation and Surveillance) Regulations 2026, as amended from time to time.
+
+CAR DEF means the Operating (Definitions) Regulations 2025, as amended from time to time.
+
+CAR DG means the Operating (Dangerous Goods) Regulations 2026, as amended from time to time.
+
+CAR DOM means the Operating (Domestic Affairs) Regulations 2026, as amended from time to time.
+
+CAR LIC means the Operating (Licensing) Regulations 2026, as amended from time to time.
+
+CAR MED means the Operating (Medical) Regulations 2026, as amended from time to time.
+
+CAR OPS 0 means the Operating (Rules of the Air) Regulations 2026, as amended from time to time.
+
+CAR OPS 2A means the Operating (OPS 2A) Regulations 2026, as amended from time to time.
+
+CAR OPS 2H means the Operating (OPS 2H) Regulations 2026, as amended from time to time.
+
+CAR OPS 5 means the Operating (Aerial Work) Regulations 2026, as amended from time to time.
+
+CAR OPS 6 means the Operating (Miscellaneous Aircraft) Regulations 2026, as amended from time to time.
+
+CAR REG means the Operating (Registration) Regulations 2025, as amended from time to time.
+
+CAR SMS means the Operating (Safety Management Systems) Regulations 2026, as amended from time to time.
+
 Cargo. Any property carried on an aircraft other than mail, stores and accompanied or mishandled baggage.
 
 Cargo aircraft. Any aircraft, other than a passenger aircraft, which is carrying goods or property.
@@ -948,9 +984,7 @@ Note: Under CAR LIC, a Full Flight Simulator (FFS) means a full size replica of 
 
 Note: Under CAR LIC, a Flight Training Device’ (FTD) means a full size replica of a specific aircraft type’s instruments, equipment, panels and controls in an open flight deck area or an enclosed aircraft flight deck, including the assemblage of equipment and computer software programmes necessary to represent the aircraft in ground and flight conditions to the extent of the systems installed in the device. It does not require a force cueing motion or visual system, except in the case of helicopter FTD levels 2 and 3, where visual systems are required.
 
-(c) A basic instrument flight trainer, which is equipped with appropriate instruments, and which simulates the flight deck environment of an aircraft in flight in instrument flight conditions.
-
-Note: For RPAS, the RPS is equivalent to the “flight deck,” and may not be specific to the type of RPA being used.
+(c) A basic instrument flight trainer, which is equipped with appropriate instruments, and which simulates the flight deck environment of an aircraft in flight in instrument flight conditions. Note: For RPAS, the RPS is equivalent to the “flight deck,” and may not be specific to the type of RPA being used.
 
 (d) Under CAR LIC, a Flight and Navigation Procedures Trainer (FNPT) means a training device which represents the flight deck or cockpit environment, including the assemblage of equipment and computer programmes necessary to represent an aircraft type or class in flight operations to the extent that the systems appear to function as in an aircraft.
 
@@ -1444,9 +1478,7 @@ Operations specifications means the authorisations, including specific approvals
 
 Operator (Commercial Air Transport) means the person, organisation or enterprise engaged in or offering to engage in an aircraft operation.
 
-Operator (General Aviation/Private/RPAS) means the person or entity, not being an air carrier, who has continual effective disposal of the use or operation of the aircraft. The natural or legal person in whose name the aircraft is registered shall be presumed to be the operator, unless that person can prove that another person is the operator, or the person who at the relevant time has the management of the aircraft or exercises operational control of the aircraft.
-
-(Refer above to definition of “operational control”)
+Operator (General Aviation/Private/RPAS) means the person or entity, not being an air carrier, who has continual effective disposal of the use or operation of the aircraft. The natural or legal person in whose name the aircraft is registered shall be presumed to be the operator, unless that person can prove that another person is the operator, or the person who at the relevant time has the management of the aircraft or exercises operational control of the aircraft. (Refer above to definition of “operational control”)
 
 Note 1: Management of an aircraft will typically involve some or all of the following activities:
 
@@ -1754,9 +1786,7 @@ Note: Running water of depth greater than 3 mm is reported as standing water by 
 
 (vii)  Wet ice. Ice with water on top of it or ice that is melting.
 
-Note: Freezing precipitation can lead to runway conditions associated with wet ice from an aeroplane performance point of view. Wet ice can cause the surface to become very slippery. It is then reported appropriately as reduced braking action in line with procedures in the PANS-
-
-Aerodromes (Doc 9981).
+Note: Freezing precipitation can lead to runway conditions associated with wet ice from an aeroplane performance point of view. Wet ice can cause the surface to become very slippery. It is then reported appropriately as reduced braking action in line with procedures in the PANS- Aerodromes (Doc 9981).
 
 (viii)  Wet snow. Snow that contains enough water content to be able to make a well- compacted, solid snowball, but water will not squeeze out.
 
@@ -2432,15 +2462,15 @@ IALS - Intermediate approach light system
 
 ISA - International standard atmosphere
 
-kg - Kilogram kg/m2 - Kilogram per metre squared
+kg - Kilogram
+
+kg/m2 - Kilogram per metre squared
 
 km - Kilometre
 
 km/h - Kilometre per hour
 
-kt - Knot
-
-kt/s - Knots per second
+kt - Knot kt/s - Knots per second
 
 lb - Pound
 
