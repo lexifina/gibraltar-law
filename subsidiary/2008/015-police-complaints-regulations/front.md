@@ -6,7 +6,7 @@ LN.2008/015
 
 Commencement LN.2008/027 17.4.2008
 
-Amending enactments Relevant current provisions Commencement date LN. 2009/054 r. 15(1)-(6) 15.10.2009 2010/040 r. 2(1) 18.2.2010
+Amending enactments Relevant current provisions Commencement date LN. 2009/054 r. 15(1)-(6) 15.10.2009 2010/040 r. 2(1) 18.2.2010 2026/083 r. 2(1) 30.4.2026
 
 ARRANGEMENT OF REGULATIONS
 
