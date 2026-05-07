@@ -14,7 +14,7 @@ Amending enactments Relevant current Provisions Commencement date LN. 1988/026 r
 
 20.3.2014 2016/079 Sch. 5 1.5.2016 2017/098 rr. 2-3, 4(2), 7A, 13(2)-(5), 13B-13C, 28(2)-(5), 36, 37(5)-(9), 45(c)-(e), 47, Schs. 3, 7 & 8
 
-20.5.2018 2023/077 r. 44(2)-(3) 30.3.2023 2025/203 Sch. 5 1.8.2025
+20.5.2018 2023/077 r. 44(2)-(3) 30.3.2023 2025/203 Sch. 5 1.8.2025 2026/089 rr. 37(1A), (3), 37A 7.5.2026
 
 EU Legislation/International Agreements involved: Directive 2009/40/EC Directive 2014/45/EU
 
@@ -48,7 +48,7 @@ Appeals.
 
 Certificates, notices and records.
 
-36. Particulars to be contained in roadworthiness certificates, roadworthiness classic certificates and notices of refusal. 37. Validity of roadworthiness certificates and roadworthiness classic certificates. 38. Duplicate roadworthiness certificates and roadworthiness classic certificates. 39. Provisions as to notices. 40. Records to be kept.
+36. Particulars to be contained in roadworthiness certificates, roadworthiness classic certificates and notices of refusal. 37. Validity of roadworthiness certificates and roadworthiness classic certificates. 37A. Automatic extension of roadworthiness certificates on booking of examination. 38. Duplicate roadworthiness certificates and roadworthiness classic certificates. 39. Provisions as to notices. 40. Records to be kept.
 
 Fees.
 
@@ -564,11 +564,11 @@ Validity of roadworthiness certificates and roadworthiness classic certificates.
 
 37.(1) Subject to sub-regulation (lA), a roadworthiness certificate or a roadworthiness classic certificate issued in respect of a motor vehicle or trailer shall be valid for a period not exceeding 24 months.
 
-(1A) Subject to subregulation (2) a roadworthiness certificate or a roadworthiness classic certificate issued in respect of a motor vehicle or trailer shall be valid for the period stated on it not exceeding 24 months from the date of issue.
+(1A) Subject to subregulation (2) , and to regulation 37A, a roadworthiness certificate or a roadworthiness classic certificate issued in respect of a motor vehicle or trailer shall be valid for the period stated on it not exceeding 24 months from the date of issue.
 
 (2) Where the vehicle is an omnibus in respect of which more than 12 years have elapsed since the date of its manufacture, the roadworthiness certificate shall be valid for a period not exceeding 6 months.
 
-(3) If an application other than an application in respect of an omnibus falling within sub- regulation (2) is made within the prescribed time for a biennial or other examination, the Chief Examiner may extend the validity of the certificate to cover the period between the application and the examination.
+(3) Where a booking for a biennial or other examination of a motor vehicle or trailer, other than an omnibus falling within subregulation (2), is made at a time when the roadworthiness certificate or roadworthiness classic certificate in respect of that vehicle has not expired, the validity of such certificate shall, by virtue of this subregulation, be automatically extended until the date of the examination or, if the examination does not take place on the date for which it is booked, until such later date as may be appointed by the Chief Examiner for the examination of that vehicle, provided that in no case shall the total period of validity of the certificate, including any extension under this subregulation, exceed 24 months from the date of issue of that certificate.
 
 (4)  The Chief Examiner may, at the direction of the Licensing Authority, extend the period of validity of a roadworthiness certificate which has not, at the time the extension is granted, expired.
 
@@ -581,6 +581,32 @@ Validity of roadworthiness certificates and roadworthiness classic certificates.
 (8)  As from 20 May 2021 the Centre shall electronically provide to the licensing authority the information mentioned in the roadworthiness certificates that it issues.
 
 (9)  The information referred to in subregulation (8) shall be provided within a reasonable time after each roadworthiness certificate is issued.
+
+Automatic extension of roadworthiness certificates on booking of examination.
+
+37A.(1)  Where the owner of a motor vehicle or trailer, other than an omnibus falling within regulation 37(2), makes a booking for the examination or re-examination of that vehicle in accordance with these Regulations, and at the time of booking the roadworthiness certificate or roadworthiness classic certificate in respect of that vehicle has not expired, the validity of such certificate shall be automatically extended in accordance with this regulation.
+
+(2)  An extension under subregulation (1) shall take effect from the date on which the booking is made and shall continue until–
+
+(a)  the date on which the examination takes place; or
+
+(b) where the examination does not take place on the date for which it was booked, such later date as may be appointed by the Chief Examiner for the examination of that vehicle, provided that in no case shall the total period of validity of the certificate, including any extension under this regulation, exceed 24 months from the date of issue of that certificate.
+
+(3)  An extension under this regulation shall not cause the total period of validity of the certificate, including the extension, to exceed 24 months from the date of issue of that certificate.
+
+(4)  An extension under this regulation shall cease to have effect if–
+
+(a)  the booking for the examination is cancelled by the owner of the vehicle and no fresh booking is made within 14 days of such cancellation;
+
+(b)  the vehicle is not presented for examination on the date appointed and the owner fails to make a fresh booking within 14 days; or
+
+(c) the vehicle is found on examination not to comply with the prescribed requirements and a notice of refusal is issued under regulation 17, in which case the extension shall cease on the date of issue of the notice of refusal.
+
+(5)  Where an extension ceases to have effect under subregulation (4), the roadworthiness certificate or roadworthiness classic certificate shall be treated as having expired on the date on which it would have expired but for the extension.
+
+(6)  The Chief Examiner shall maintain a record of all extensions granted under this regulation and shall make such record available to the licensing authority and to the Commissioner of Police upon request.
+
+(7)  For the purposes of this regulation, a 'booking' means a booking for an examination or re-examination accepted by the Chief Examiner or the Centre in accordance with these Regulations.
 
 Duplicate roadworthiness certificates and roadworthiness classic certificate.
 
