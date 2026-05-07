@@ -14,7 +14,7 @@ The licensing authority must not allocate a combination –
 
 (b) if the licensing authority considers it is likely to cause offence or confusion; or
 
-(c) the combination contains any of the letters “O”, “Q”, “I”, “S” or “Z”.
+(c) the combination contains any of the letters “O”, “Q” or “I”.
 
 The lettering shall be black on a white plate at the front and yellow plate at the rear. The background surface should be reflex-reflecting but the characters must not. All number plates must be constructed using the mandatory character font set out below. Numbers and letters shall be equally spaced between the black border. No number plate fixing bolt shall alter the appearance of the letters or numbers.
 
