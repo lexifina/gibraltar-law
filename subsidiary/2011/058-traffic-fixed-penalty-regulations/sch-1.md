@@ -38,9 +38,7 @@ TRAFFIC (PARKING AND WAITING) REGULATIONS 2011 11. Parking a vehicle where prohi
 
 100 37. Waiting with or in any vehicle at a place where waiting is prohibited by traffic signs or yellow line on the ground. Regulation 24(2) 100 38. Waiting with or in any vehicle adjacent to the air terminal at a place not demarcated for alighting or unloading. Regulation 24(3) 100 39. Waiting with a vehicle at a taxi rank. Regulation 24(4) 200 40. Waiting in a place reserved for official vehicles. Regulation 24(5)
 
-100 41. Waiting in a bus stop or restricting access to a bus stop. Regulation 24(6) 200 42. Stopping in a Red Zone. Regulation 27(3) 200 42A. Stopping in a Red Route Clearway. Regulation 28B(1) 200 43. Unlawful use of a disabled person’s badge. Regulation 37(6) 500 44. Unlawfully parking or waiting in a disabled person’s parking bay. Regulation 41(3) 500
-
-45. Not displaying or not setting a parking clock to show the time in which the vehicle was parked in accordance with the regulations. Regulation 41A(2) 100 46. Parking in contravention of a time restriction specified by a traffic sign in a time restricted disabled parking bay. Regulation 41B(2) 100 47. Parking in contravention of a “no return” period specified by traffic sign in a time restricted disabled parking bay. Regulation 41C(2) 100 48. Leaving a derelict vehicle on the road or public place. Regulation 47 600
+100 41. Waiting in a bus stop or restricting access to a bus stop. Regulation 24(6) 200 42. Stopping in a Red Zone. Regulation 27(3) 200 42A. Stopping in a Red Route Clearway. Regulation 28B(1) 200 43. Unlawful use of a disabled person’s badge. Regulation 37(6) 500 44. Unlawfully parking or waiting in a disabled person’s parking bay. Regulation 41(3) 500 45. Not displaying or not setting a parking clock to show the time in Regulation 41A(2) 100 which the vehicle was parked in accordance with the regulations. 46. Parking in contravention of a time restriction specified by a traffic sign in a time restricted disabled parking bay. Regulation 41B(2) 100 47. Parking in contravention of a “no return” period specified by traffic sign in a time restricted disabled parking bay. Regulation 41C(2) 100 48. Leaving a derelict vehicle on the road or public place. Regulation 47 600
 
 TRAFFIC (PELICAN PEDESTRIAN CROSSINGS) REGULATIONS 1986 49. Stopping a vehicle or part thereof within the limits of a “pelican” crossing. Traffic (Pelican Pedestrian Crossings) Regulations 1986, Regulation 10(1) 100
 
@@ -50,7 +48,9 @@ Regulation 8(2) (50% discount) does not apply. Traffic Act 2005 Section 44(1)(in
 
 100
 
-TRAFFIC (PEDESTRIANISATION) REGULATIONS 2001 53. Driving or parking a vehicle on a road within a Pedestrianised zone established under the Traffic (Pedestrianisation) Regulations 2001 without displaying a permit or other than in accordance with the terms of a valid permit. Traffic (Pedestrianisation) Regulations 2001, Regulation 5
+TRAFFIC (PEDESTRIANISATION) REGULATIONS 2001
+
+53. Driving or parking a vehicle on a road within a Pedestrianised zone established under the Traffic (Pedestrianisation) Regulations 2001 without displaying a permit or other than in accordance with the terms of a valid permit. Traffic (Pedestrianisation) Regulations 2001, Regulation 5
 
 100 54. Riding or parking a bicycle or operating or parking a personal light electric transporter in a Pedestrianised Area in breach of an order under the Traffic (Pedestrianisation) Regulations 2001 Traffic (Pedestrianisation) Regulation 2001, Regulation 5(1ZA) 100 54A. Riding a bicycle or cargo bicycle or operates a personal light electric transporter in a manner that is unsafe to them or to other persons within a pedestrianised area. Regulation 5A 300
 
@@ -60,9 +60,9 @@ Regulation 8(2) (50% discount) does not apply. Prohibition of Use of Mobile Tele
 
 300
 
-TRAFFIC (WEARING OF SAFETY BELTS) REGULATIONS 2008 56. Failing to wear a seat belt – driver. Regulation 8(2) (50% discount) does not apply Traffic (Wearing of Safety Belts) Regulations 2008, Regulations 4(2)(a) and 7 300
+TRAFFIC (WEARING OF SAFETY BELTS) REGULATIONS 2008 56. Failing to wear a seat belt – driver. Regulation 8(2) (50% discount) does not apply Traffic (Wearing of Safety Belts) Regulations 2008, Regulations 4(2)(a) and 7 300 57. Failing to wear a seat belt – passenger. Regulation 8(2) (50% discount) does not apply. Regulations 4(2)(a) and 7 300
 
-57. Failing to wear a seat belt – passenger. Regulation 8(2) (50% discount) does not apply. Regulations 4(2)(a) and 7 300 58. Driver carrying unbelted child. Regulation 8(2) (50% discount) does not apply. Regulations 4(2)(b) and 7 300 59. Driver carrying child under 135 cms without proper restraint Regulation 8(2) (50% discount) does not apply. Regulations 4(3)(b) and 7 300
+58. Driver carrying unbelted child. Regulation 8(2) (50% discount) does not apply. Regulations 4(2)(b) and 7 300 59. Driver carrying child under 135 cms without proper restraint Regulation 8(2) (50% discount) does not apply. Regulations 4(3)(b) and 7 300
 
 TRAFFIC (TRAFFIC LIGHTS) REGULATIONS 1986 60. Contravening a traffic light Regulation 8(2) (50% discount) does not apply. Traffic (Traffic Lights) Regulations, 1986 Regulations 4(1)(a) and 6 (in conjunction with section 85(1)(b) Traffic Act 2005. 300 60A. Motor vehicle proceeding beyond the first stop line in contravention of a red light traffic signal at advanced stop lines
 
@@ -72,14 +72,30 @@ Regulation 8(2) (50% discount) does not apply. Traffic (Traffic Lights) Regulati
 
 Regulation 8(2) (50% discount) does not apply. Traffic (Traffic Lights) Regulations, 1986 Regulations 4A(1)(b) and 6 (in conjunction with section 85(1)(b) Traffic Act 2005. 300
 
-TRAFFIC (PELICAN PEDESTRIAN CROSSINGS) REGULATIONS, 1986
+TRAFFIC (PELICAN PEDESTRIAN CROSSINGS) REGULATIONS, 1986 61. Contravening a traffic light (pelican crossing) Regulation 8(2) (50% discount) does not apply. Traffic (Pelican Pedestrian Crossings) Regulations, 1986 Regulation 8 300
 
-61. Contravening a traffic light (pelican crossing) Regulation 8(2) (50% discount) does not apply. Traffic (Pelican Pedestrian Crossings) Regulations, 1986 Regulation 8 300
+VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS
 
-VEHICLES (CONSTRUCTION, EQUIPMENT AND MAINTENANCE) REGULATIONS 62. Inefficient/Defective exhaust Regulation 8(2) (50% discount) does not apply. Vehicles (Construction, Equipment and Maintenance) Regulations Regulation 30(2) 300 63. Excessive noise as a direct result of-
+62. Inefficient/Defective exhaust Regulation 8(2) (50% discount) does not apply. Vehicles (Construction, Equipment and Maintenance) Regulations Regulation 30(2) 300 63. Excessive noise as a direct result of-
 
 (a)  any defect (including a defect in design or construction), lack of repair or faulty adjustment in the motor vehicle or trailer or any part or accessory of such motor vehicle or trailer; or
 
 (b)  the faulty packing or adjustment of the load of such motor vehicle or trailer: Regulation 32 300
 
 MOTOR VEHICLES TEST REGULATIONS 1987 64. Using on a road or causing to be used on a road, a motor vehicle or trailer without being in possession of a valid roadworthiness or roadworthiness classic certificate.  Regulation 8(2) (50% discount) does not apply. Regulations 32(2)(b), 32(2)(c) and 32(4) 300
+
+PERSONAL LIGHT ELECTRIC TRANSPORTERS (REGISTRATION, INSURANCE AND MISCELLANEOUS) REGULATIONS 2026 65. Operating a transporter on a road without registration
+
+Regulation 8(2) (50% discount) does not apply Personal Light Electric Transporters (Registration, Insurance and Miscellaneous) Regulations 2026, Regulations 15(1) and (2). 300
+
+66. Failure to display registration mark or altering, obscuring, defacing or rendering illegible a registration mark
+
+Personal Light Electric Transporters (Registration, Insurance and Miscellaneous) Regulations 2026, Regulation 16. 200
+
+67. Failure to notify change of particulars Personal Light Electric Transporters (Registration, Insurance and Miscellaneous) Regulations 2026, Regulation 17. 100
+
+68. Failure to produce evidence of insurance
+
+Regulation 8(2) (50% discount) does not apply Personal Light Electric Transporters (Registration, Insurance and Miscellaneous) Regulations 2026, Regulation 19 300
+
+______________________________
