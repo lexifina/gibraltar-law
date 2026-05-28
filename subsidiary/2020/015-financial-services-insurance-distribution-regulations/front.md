@@ -8,7 +8,7 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date LN.2020/107 rr. 2(1), 9, 38(2)(c)-(g), 38A-38B,54A-54J 12.3.2020 2020/207 rr. 5(1)((b)-(c), 54(1)(a)-(b), (3)(b), 85A 11.6.2020 2020/421 rr. 37A, 54K 26.11.2020 2020/490 rr. 2(1), 5(3)(a), 10(1)(b), 13(9)(d), (11), 16(1)(c), 17(8), 18(8), 20(6), 21(6)(b)(i), (13), 30(2), (4), 31, 37(4), 38A, 54(1), (4), 54D(2), 54F(1), (3)(c), 54G(2), 54J(1), 55(11), 57, 66-78, 85(2), (5), (8), 85A(2), Sch.1
 
-1.1.2021 2022/188 Sch.2 1.1.2021 2022/153 rr. 5(3)(a), 17(8), 21(13)(b), 59, 84(2), 85(9) 23.6.2022 2023/259 r. 79(9) 7.9.2023 2024/115 rr. 54(3)(b), (4) 11.7.2024
+1.1.2021 2022/188 Sch.2 1.1.2021 2022/153 rr. 5(3)(a), 17(8), 21(13)(b), 59, 84(2), 85(9) 23.6.2022 2023/259 r. 79(9) 7.9.2023 2024/115 rr. 54(3)(b), (4) 11.7.2024 2026/110 rr. 2(1), 15(1), 18(7), (7A)-(7C), 32(2)-(5), (7), Sch.1 28.5.2026
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -34,9 +34,9 @@ PART 3 CONDUCT OF BUSINESS
 
 10. Use of intermediaries.
 
-Information requirements and conduct of business rules 11. General principle. 12. General information provided by insurance intermediary or undertaking. 13. Advice and sales where no advice is given. 14. Information provided by ancillary insurance intermediaries. 15. Information exemptions and flexibility.
+Information requirements and conduct of business rules 11. General principle. 12. General information provided by insurance intermediary or undertaking. 13. Advice and sales where no advice is given. 14. Information provided by ancillary insurance intermediaries. 15. Information exemptions and flexibility. 16. Information conditions.
 
-16. Information conditions. 17. Cross-selling. 18. Product oversight and governance requirements.
+17. Cross-selling. 18. Product oversight and governance requirements.
 
 Additional requirements: insurance-based investment products
 
@@ -62,9 +62,9 @@ PART 4 CORPORATE GOVERNANCE AND RISK MANAGEMENT
 
 Professional and organisational requirements
 
-32. Knowledge, ability and continuing development requirements. 33. Fit and proper requirements. 34. Remuneration. 35. Conflicts of interest and transparency.
+32. Knowledge, ability and continuing development requirements. 33. Fit and proper requirements. 34. Remuneration. 35. Conflicts of interest and transparency. 36. Prevention of conflicts of interest. 37. Conflicts of interest.
 
-36. Prevention of conflicts of interest. 37. Conflicts of interest. 37A. Outsourcing.
+37A. Outsourcing.
 
 Accounting records.
 
@@ -82,9 +82,9 @@ Chapter 1 Indemnity Arrangements
 
 Chapter 2 Customer Money
 
-54A. Application.
+54A. Application. 54B. Customer money. 54C. Duty to segregate. 54D. Customer money to be held on trust and kept safe.
 
-54B. Customer money. 54C. Duty to segregate. 54D. Customer money to be held on trust and kept safe. 54E. Accounting for and use of customer money. 54F. Customer bank accounts. 54G. Interest on customer money. 54H. Payment of other money into a customer bank account. 54I. Payment out of a customer bank account. 54J. Intermediary as recognised credit institution. 54K. Money held as agent of insurer.
+54E. Accounting for and use of customer money. 54F. Customer bank accounts. 54G. Interest on customer money. 54H. Payment of other money into a customer bank account. 54I. Payment out of a customer bank account. 54J. Intermediary as recognised credit institution. 54K. Money held as agent of insurer.
 
 PART 6 REPORTING AND NOTIFICATION
 

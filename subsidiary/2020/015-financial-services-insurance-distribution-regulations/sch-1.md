@@ -2,23 +2,7 @@ SCHEDULE 1
 
 MINIMUM PROFESSIONAL KNOWLEDGE AND COMPETENCE REQUIREMENTS
 
-I.  Non-life risks classified under classes 1 to 18 in paragraph 22 of Schedule 2 to the Act –
-
-(a) minimum necessary knowledge of terms and conditions of policies offered, including ancillary risks if covered by such policies;
-
-(b) minimum necessary knowledge of applicable laws governing the distribution of insurance products, such as consumer protection law, relevant tax law and relevant social and labour law;
-
-(c) minimum necessary knowledge of claims handling;
-
-(d) minimum necessary knowledge of complaints handling;
-
-(e) minimum necessary knowledge of assessing customer needs;
-
-(f) minimum necessary knowledge of the insurance market;
-
-(g) minimum necessary knowledge of business ethics standards; and
-
-(h) minimum necessary financial competency.
+I.  Omitted
 
 II.  Insurance-based investment products–
 

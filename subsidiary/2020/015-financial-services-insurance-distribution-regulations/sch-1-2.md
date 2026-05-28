@@ -22,7 +22,9 @@ III. Financial instruments (long positions)(3)
 
 IV. Cash at bank and in hand
 
-C. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE YEAR
+C. CREDITORS: AMOUNTS FALLING DUE WITHIN ONE
+
+YEAR
 
 1. Bank loans and overdrafts. 2. Eligible subordinated loans (6) 3. Other debenture loans 4. Trade creditors (4) 5. Financial instruments (short positions)(5) 6. Income tax 7. Other taxation and social security 8. Amounts due to group and connected companies 9. Other creditors 10. Accruals and deferred income
 
@@ -42,9 +44,9 @@ H. TOTAL ASSETS LESS TOTAL LIABILITIES
 
 I. CAPITAL AND RESERVES
 
-1. Called up share capital (7)
+1. Called up share capital (7) 2. Share premium account 3. Partners’ or proprietors’ capital accounts
 
-2. Share premium account 3. Partners’ or proprietors’ capital accounts 4. Partners’ or proprietors’ current accounts 5. Revaluation reserve 6. Other reserves 7. Profit and loss account.
+4. Partners’ or proprietors’ current accounts 5. Revaluation reserve 6. Other reserves 7. Profit and loss account.
 
 Approved by the directors / partners / governing body on
 
@@ -98,7 +100,9 @@ ____ ____ ___ ____ (ii)  Shares (other than in group companies)
 
 (iv)  Futures, options, contracts for differences
 
-- Futures - Purchased options - Written options - Contracts for differences
+- Futures - Purchased options - Written options
+
+- Contracts for differences
 
 (v)  Shares in group companies
 
