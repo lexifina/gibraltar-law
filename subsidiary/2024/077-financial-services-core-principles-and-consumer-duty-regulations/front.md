@@ -6,7 +6,7 @@ LN.2024/077
 
 Commencement 9.5.2024
 
-Amending enactments Relevant current provisions Commencement date LN.2024/082 Sch. 16.5.2024 2024/165 rr. 5(2), 6A-6C, 9(2)(d)-(f), 5.9.2024
+Amending enactments Relevant current provisions Commencement date LN.2024/082 Sch. 16.5.2024 2024/165 rr. 5(2), 6A-6C, 9(2)(d)-(f), 5.9.2024 2026/110 r. 9(3), (b), (5), Sch. 28.5.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -300,17 +300,17 @@ Retail customers.
 
 (f) in the case of occupational pension schemes, any person who is or would be a beneficiary in relation to investments held in the scheme.
 
-(3)  In paragraph (2)–
+(3)  In sub-regulation (2)–
 
 “excluded policy” means–
 
 (a) a contract of reinsurance;
 
-(b) a large risk contract–
+(b) an insurance product in respect of risks located outside Gibraltar or the United Kingdom which is–
 
-(i) sold to a commercial customer; or
+(i) a specialist risks contract; or
 
-(ii) where the risk is located outside of Gibraltar or the United Kingdom; or
+(ii) a general insurance contract (other than a specialist risks contract) distributed to large commercial customers;
 
 (c) activities connected to the distribution of group insurance policies or the extension of those policies to new members;
 
@@ -323,6 +323,8 @@ Retail customers.
 “professional client” means a client that meets the criteria in Schedule 1 to the Financial Services (Investment Services) Regulations 2020.
 
 (4)  In relation to a specified provider which is involved in a distribution chain, references to a “retail customer” includes a person who is not a direct client of the specified provider but who is, or would be, a retail customer at the end of that distribution chain.
+
+(5) In paragraph (3)(b) “specialist risks contract” and “large commercial customer” have the meaning given in regulation 2(1) of the Financial Services (Insurance Distribution) Regulations 2020.
 
 Regulatory oversight.
 
