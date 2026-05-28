@@ -22,6 +22,8 @@ Amending enactments Relevant current provisions Commencement date LN.2020/208 r.
 
 14.8.2025
 
+2026/110 r.3(1) 28.5.2026
+
 ARRANGEMENT OF REGULATIONS.
 
 Regulation
