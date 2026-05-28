@@ -6,7 +6,9 @@ LN.2024/078
 
 Commencement 9.5.2024
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2026/110 Annex (Arts. 1(2), (2A), (4), 3(3)-(8), 10(10A), (12)- (13), 23(1), (1A)-(1B), 28
+
+28.5.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -56,11 +58,11 @@ CHAPTER 3 PRODUCT GOVERNANCE REQUIREMENTS FOR INSURANCE DISTRIBUTORS
 
 CHAPTER 4 SPECIFIED PROVIDERS OF NON-INVESTMENT INSURANCE PRODUCTS
 
-13. Application of Chapter 4. 14. N-II product approval and fair value. 15. Fair value: N-II products and packages. 16. Fair value throughout process. 17. Meaning of value. 18. Information to be used. 19. Impact of distribution arrangements. 20. Fair value: additional provisions. 21. Target market: fair value.
+13. Application of Chapter 4. 14. N-II product approval and fair value. 15. Fair value: N-II products and packages. 16. Fair value throughout process. 17. Meaning of value. 18. Information to be used. 19. Impact of distribution arrangements. 20. Fair value: additional provisions. 21. Target market: fair value. 22. Product testing: charging structure.
 
-22. Product testing: charging structure. 23. Product monitoring and review. 24. Assessment of N-II product changes. 25. Distribution channels. 26. Selecting distribution channels for N-II products.
+23. Product monitoring and review. 24. Assessment of N-II product changes. 25. Distribution channels. 26. Selecting distribution channels for N-II products.
 
-27. Product distribution arrangements. 28. Review of distribution arrangements. 29. Information for manufacturers. 30. Informing the manufacturer. 31. Legacy N-II products. 32. Manufacturers of legacy N-II products. 33. Distributors of legacy N-II product.
+27. Product distribution arrangements. 28. Omitted. 29. Information for manufacturers. 30. Informing the manufacturer. 31. Legacy N-II products. 32. Manufacturers of legacy N-II products. 33. Distributors of legacy N-II product.
 
 CHAPTER 5 MANUFACTURERS AND DISTRIBUTORS OF VALUE MEASURES PRODUCTS
 
