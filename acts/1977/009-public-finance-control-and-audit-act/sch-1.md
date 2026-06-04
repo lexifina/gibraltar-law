@@ -58,6 +58,6 @@ FSRCC – Resolution Financing Fund
 
 HM Customs Centre of Excellence Fund
 
-(Public Finance (Control and Audit) Act) Government Insurance Fund (Public Finance (Control and Audit) Act) COVID-19 Response Fund (Public Finance (Control and Audit) Act)
+(Public Finance (Control and Audit) Act) Government Insurance Fund (Public Finance (Control and Audit) Act) Gibraltar Recovered Assets Fund (Public Finance (Control and Audit) Act) Educational Development Fund (Public Finance (Control and Audit) Act)
 
-Gibraltar Recovered Assets Fund (Public Finance (Control and Audit) Act) Educational Development Fund (Public Finance (Control and Audit) Act) Climate Action Fund (Public Finance (Control and Audit) Act)
+Climate Action Fund (Public Finance (Control and Audit) Act) Property Insurance Fund (Public Finance (Control and Audit) Act)

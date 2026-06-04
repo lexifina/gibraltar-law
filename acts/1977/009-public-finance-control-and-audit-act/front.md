@@ -18,15 +18,15 @@ LN. 1987/176 s. 12(e)(vii) 1.1.1988 1988/054 s. 12(e)(viii) 21.4.1988 Act. 1988-
 
 14.6.2007 Act. 2008-17 ss. 2, 7(1), 28(1), (3), 33(2), 41, 44(2) 13.11.2008 2011-021 ss. 17A-17D 1.4.2009
 
-* Corrigendum published see LN. 2007/118 1 Any expenditure funded out of revenue to which clause 2 applies incurred prior to the commencement of this Act and the coming into operation of new sections 17A to 17D of the Principal Act, or to be incurred prior to the
+* Corrigendum published see LN. 2007/118 1 Any expenditure funded out of revenue to which clause 2 applies incurred prior to the commencement of this Act and the coming into operation of new sections 17A to 17D of the Principal Act, or to be incurred prior to the 1st of April 2011, for a use and in a manner that would have been lawful but for this Act shall be deemed to have
 
 2009-51 ss. 76-82 1.12.2009 2011-02 ss. 18(3)-(4), 19(1), 20(d), 23(1)-(2), 52(1), 62- 64, 70(1)-(2), 74(1), Sch. 3
 
-10.2.2011 LN. 2011/062 Sch. 3 12.5.2011 2017/017 Sch. 1 2.2.2017 2017/248 Sch. 1 14.12.2017 2019/121 Sch. 1 13.6.2019 2020/161 Sch. 1 23.4.2020 2020/453 s. 75(1), (3), (j)-(k) 1.1.2021 2022/214 Sch. 1 1.7.2022 2023/070 Sch. 1 29.3.2023 2024/195 Sch. 3 24.10.2024 2025/067 Sch. 1 21.3.2025 2025/073 s. 12(e) 28.3.2025 2025/222 s. 12(e) 14.8.2025 2026/108 Sch. 1 21.5.2026
+10.2.2011 LN. 2011/062 Sch. 3 12.5.2011 2017/017 Sch. 1 2.2.2017 2017/248 Sch. 1 14.12.2017 2019/121 Sch. 1 13.6.2019 2020/161 Sch. 1 23.4.2020 2020/453 s. 75(1), (3), (j)-(k) 1.1.2021 2022/214 Sch. 1 1.7.2022 2023/070 Sch. 1 29.3.2023 2024/195 Sch. 3 24.10.2024 2025/067 Sch. 1 21.3.2025 2025/073 s. 12(e) 28.3.2025 2025/222 s. 12(e) 14.8.2025 2026/108 Sch. 1 21.5.2026 2026/116 Sch. 1 4.6.2026
 
 Transposing: Directive 2006/111/EC
 
-1st of April 2011, for a use and in a manner that would have been lawful but for this Act shall be deemed to have been appropriated by Parliament to those uses and this Act shall constitute an appropriation law of all such expenditure which shall thus be deemed to have been authorised and prescribed by this Act.
+been appropriated by Parliament to those uses and this Act shall constitute an appropriation law of all such expenditure which shall thus be deemed to have been authorised and prescribed by this Act.
 
 ARRANGEMENT OF SECTIONS
 
@@ -82,9 +82,7 @@ PART XI.–REGULATIONS.
 
 PART XII–FINANCIAL RELATIONS BETWEEN THE GOVERNMENT AND PUBLIC UNDERTAKINGS
 
-76. Interpretation of Part. 77. Transparency of financial relations. 78. Application of section 77. 79. Maintenance of separate accounts. 80. Exemptions.
-
-81. Supply of information to the European Commission concerning the information referred to in section 77. 82. Public undertakings in the manufacturing sector.
+76. Interpretation of Part. 77. Transparency of financial relations. 78. Application of section 77. 79. Maintenance of separate accounts. 80. Exemptions. 81. Supply of information to the European Commission concerning the information referred to in section 77. 82. Public undertakings in the manufacturing sector.
 
 SCHEDULE 1. Special Funds.
 
