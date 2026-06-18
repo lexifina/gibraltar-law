@@ -6,7 +6,7 @@ LN.2020/394
 
 Commencement 1.7.2019
 
-Amending enactments Relevant current provisions Commencement date LN. 2022/169 r. 3(1)(d) 7.7.2022
+Amending enactments Relevant current provisions Commencement date LN. 2022/169 r. 3(1)(d) 7.7.2022 2026/125 r. 3(1)(d) 18.6.2026
 
 ARRANGEMENT OF RULES.
 
