@@ -4,7 +4,9 @@ Principal Act
 
 Act. No. 2018-28 Commencement 27.10.2019 Assent 20.12.2018
 
-Amending enactments Relevant current provisions Commencement date Act. 2021-21 ss. 2(1)-(2), 5(3), 11A, 18 30.7.2021
+Amending enactments Relevant current provisions Commencement date Act. 2021-21 ss. 2(1)-(2), 5(3), 11A, 18 30.7.2021 2026-11 ss. 4, 5(1)(a), 6(2)-(3), 7(1)-(2), 8(1), (a), (2), (b), (3), (5)-(6), (8), 9(1), (a), (2), 10(1)-(2), 11(2), 11A, 12(1), 15 25.6.20261
+
+1 Notice of Commencement – LN.2026/129
 
 ARRANGEMENT OF SECTION
 
@@ -14,9 +16,9 @@ Part 1 Preliminary
 
 1. Title. 2. Interpretation. 3. Jurisdiction.
 
-Part 2 Judicial Authority
+Part 2 Central Authority
 
-4. Judicial Authority.
+4. Central Authority.
 
 Part 3 Requests for assistance
 
