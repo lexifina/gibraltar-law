@@ -26,9 +26,11 @@ Amending enactments Relevant current provisions Commencement date Act.   2011-18
 
 2024-32 ss. 39(3), 62(1)-(2), 63(1)(a)-(b), 63B(8), 65(1), (2)(c), 71(4), 75
 
-23.12.2024
+23.12.2024 2026-11 s. 61(1)(e), (2)-(5) 25.6.20264
 
 Transposing: Directive 2006/126/EC Directive 2014/46/EU Directive (EU) 2018/645
+
+4 Notice of Commencement - LN.2026/129
 
 ARRANGEMENT OF SECTIONS
 
