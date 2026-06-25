@@ -26,9 +26,11 @@ Amending enactments Relevant current provisions Commencement date Act. 2002-23 s
 
 1 Notice of Commencement (LN.1999/091) 2 Notice of Commencement (LN.2000/066) 3 Notice of Commencement (LN.2000/071)
 
-Act. 2024-08 s. 17(10)-(12) 26.3.2024 2024-31 ss. 2(1), 17(3), 19, 19A, 72, 72A-72D 23.12.2024 2024-33 s. 17(4A)-(4G) 23.12.2024
+Act. 2024-08 s. 17(10)-(12) 26.3.2024 2024-31 ss. 2(1), 17(3), 19, 19A, 72, 72A-72D 23.12.2024 2024-33 s. 17(4A)-(4G) 23.12.2024 2026-11 s. 78 25.6.20264
 
 EU legislation/International Agreements involved: Regulation (EC) No. 561/2006 Regulation (EC) No 1071/2009 Regulation (EC) No 1072/2009 Regulation (EC) No 1073/2009 Regulation (EU) No 165/2014 Regulation (EU) 2016/799
+
+4 Notice of Commencement (LN.2026/129)
 
 ARRANGEMENT OF SECTIONS
 
@@ -38,13 +40,13 @@ PART I
 
 PRELIMINARY
 
-1. Title and Commencement 2. Interpretation
+1. Title and Commencement. 2. Interpretation.
 
 PART II
 
 TRANSPORT COMMISSION AND TRANSPORT INSPECTORS
 
-3. Transport Commission 4. Functions of Commission 5. Procedural powers of Commission 6. Matters consequential on the removal of responsibilities from Traffic Commission 7. Transport inspectors
+3. Transport Commission. 4. Functions of Commission. 5. Procedural powers of Commission. 6. Matters consequential on the removal of responsibilities from Traffic Commission. 7. Transport inspectors.
 
 PART III
 
@@ -52,53 +54,53 @@ PUBLIC SERVICE VEHICLES
 
 General Provisions
 
-8. Certificate of fitness 9. Examination of vehicles 10. General conditions of licence 10A. Failure to renew licence
+8. Certificate of fitness. 9. Examination of vehicles. 10. General conditions of licence. 10A. Failure to renew licence.
 
 Road Service Licences: Taxis
 
-11. Road service licence required 12. Application for licence 13. Grant or refusal of licence 14. Maximum number of road service licences 15. Matters to be considered by the Commission before determining application 16. Conditions of licence 17. Special conditions in all road service licences for taxis 18. Concessioned taxis 19. Penalties
+11. Road service licence required. 12. Application for licence. 13. Grant or refusal of licence. 14. Maximum number of road service licences. 15. Matters to be considered by the Commission before determining application. 16. Conditions of licence. 17. Special conditions in all road service licences for taxis. 18. Concessioned taxis. 19. Penalties.
 
-19A Licence holders responsible for named drivers. 20. Revocation and suspension of licence 21. Duration of licences 22. Renewal of licences 23. Transfer of licences 24. Amendment of licences
+19A Licence holders responsible for named drivers. 20. Revocation and suspension of licence. 21. Duration of licences. 22. Renewal of licences. 23. Transfer of licences. 24. Amendment of licences.
 
 Operator Licences: Buses and Lorries
 
-25. Operator licence required 26. General conditions of operator licence 27. Application for operator licence
+25. Operator licence required. 26. General conditions of operator licence. 27. Application for operator licence.
 
 Grant of Operator Licences
 
-28. Criteria for grant of operator licence 29. Revocation and suspension of operator licence 30. Duration of operator licence 31. Issue of certificate of professional competence for relevant States 31A. Issue of other documents and certificates for relevant States 32. Renewal of operator licences 33. Non-transferability of operator licences 34. Amendment of operator licences
+28. Criteria for grant of operator licence. 29. Revocation and suspension of operator licence. 30. Duration of operator licence. 31. Issue of certificate of professional competence for relevant States. 31A. Issue of other documents and certificates for relevant States. 32. Renewal of operator licences. 33. Non-transferability of operator licences. 34. Amendment of operator licences.
 
 Operator Licences: Suitability and equipment of Vehicles
 
-35. Suitability of vehicles 36-41   Repealed
+35. Suitability of vehicles. 36-41   Repealed
 
 Operator Licences: Supplementary and Final
 
-42. Transitional provisions 43. Supplementary provisions in respect of road haulage operator licences and road passenger transport operator licences
+42. Transitional provisions. 43. Supplementary provisions in respect of road haulage operator licences and road passenger transport operator licences.
 
 Horse-drawn Vehicles
 
-44. Licensing of horse-drawn vehicles 45. Licensing of horse-drawn vehicle drivers
+44. Licensing of horse-drawn vehicles. 45. Licensing of horse-drawn vehicle drivers.
 
 Self-drive hire cars
 
-46. Licensing of self-drive operators and self-drive cars 47. Application for licence
+46. Licensing of self-drive operators and self-drive cars. 47. Application for licence.
 
-47A. Renewal of licences 48. Revocation and suspension of licence 49. Transfer of licences 50. Limitation of age of self-drive cars
+47A. Renewal of licences. 48. Revocation and suspension of licence. 49. Transfer of licences. 50. Limitation of age of self-drive cars.
 
 Chauffeur Licences
 
-51. Licensing of chauffeurs
+51. Licensing of chauffeurs.
 
 Chauffeur-driven hire-cars
 
-52. Licensing of chauffeur-driven hire car operators and chauffeur driven hire cars 53. Application for licence 54. Revocation and suspension of licence 55. Transfer of licence 56. Repealed
+52. Licensing of chauffeur-driven hire car operators and chauffeur driven hire cars. 53. Application for licence. 54. Revocation and suspension of licence. 55. Transfer of licence. 56. Repealed
 
 PART IV
 
 COMMUNITY LICENCES
 
-57. Purpose and interpretation 58. Use of goods vehicle without Community Licence 59. Entitlement to the issue of Community Licence 60. Rights of appeal 61. Effect of failure to comply with conditions governing use of Community Licence 62. Authorised inspecting officers 63. Return of documents 64. Supply of information 65. Death, bankruptcy etc. of holder of Community Licence 66. Offences by corporations etc
+57. Purpose and interpretation. 58. Use of goods vehicle without Community Licence. 59. Entitlement to the issue of Community Licence. 60. Rights of appeal. 61. Effect of failure to comply with conditions governing use of Community Licence. 62. Authorised inspecting officers. 63. Return of documents. 64. Supply of information. 65. Death, bankruptcy etc. of holder of Community Licence. 66. Offences by corporations etc.
 
 PART IVA
 
@@ -112,9 +114,9 @@ PART V
 
 FINAL PROVISIONS
 
-67. Appeals 68. Rules of court 69. Regulations 70. Forgery, etc., of licences and certificates 71. Duty to give information 72. General Penalty 72A. Administrative penalties. 72B. Notice of administrative penalty. 72C. Issue of notice or penalty. 72D. Appeal. 73. Avoidance of contracts 74. Saving of rights
+67. Appeals. 68. Rules of court. 69. Regulations. 70. Forgery, etc., of licences and certificates. 71. Duty to give information. 72. General Penalty. 72A. Administrative penalties. 72B. Notice of administrative penalty. 72C. Issue of notice or penalty. 72D. Appeal. 73. Avoidance of contracts. 74. Saving of rights.
 
-75. Nuisances 76. Repeals and consequential amendments 77. Transitional provisions
+75. Nuisances. 76. Repeals and consequential amendments. 77. Transitional provisions. 78. Power to make regulations: conventions, treaties and international agreements.
 
 SCHEDULE 1 Supplementary provisions as to qualifications for operator licences.
 
