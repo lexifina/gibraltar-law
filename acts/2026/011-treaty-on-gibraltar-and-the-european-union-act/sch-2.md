@@ -62,9 +62,9 @@ DESCRIPTION OF GOODS RATE 1 Goods of a kind normally intended for use in agricul
 
 (3)  The “super reduced rate” specified in column 3 applies to the goods described in column 2-
 
-DESCRIPTION OF GOODS RATE 1 Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs (1). 0% 2 Supply of water (2). 0%
+DESCRIPTION OF GOODS RATE 1 Foodstuffs (including beverages but excluding alcoholic beverages) for human and animal consumption; live animals, seeds, plants and ingredients normally intended for use in the preparation of foodstuffs; products normally used to supplement foodstuffs or as a substitute for foodstuffs (1). 0% 2 Supply of water (2). 0% 3 Pharmaceutical products used for medical and veterinary purposes, including products used for contraception and female sanitary protection, and absorbent hygiene products (3). 0%
 
-3 Pharmaceutical products used for medical and veterinary purposes, including products used for contraception and female sanitary protection, and absorbent hygiene products (3). 0% 4 Medical equipment, appliances, devices, items, aids and protective gear, including health protection masks, normally intended for use in health care or for the use of the disabled, goods essential to compensate and overcome disability (4). 0% 5 Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically, or both, (including brochures, leaflets and similar printed matter, children’s picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music; production of publications of non-profit-making organisations (6). 0% 6 Supply of solar panels to be installed on and adjacent to private dwellings, housing and public and other buildings used for activities in the public interest (10c). 0%
+4 Medical equipment, appliances, devices, items, aids and protective gear, including health protection masks, normally intended for use in health care or for the use of the disabled, goods essential to compensate and overcome disability (4). 0% 5 Supply, including on loan by libraries, of books, newspapers and periodicals either on physical means of support or supplied electronically, or both, (including brochures, leaflets and similar printed matter, children’s picture, drawing or colouring books, music printed or in manuscript form, maps and hydrographic or similar charts), other than publications wholly or predominantly devoted to advertising and other than publications wholly or predominantly consisting of video content or audible music; production of publications of non-profit-making organisations (6). 0% 6 Supply of solar panels to be installed on and adjacent to private dwellings, housing and public and other buildings used for activities in the public interest (10c). 0%
 
 PART 3
 
@@ -152,9 +152,11 @@ Section 2: electricity and energy products
 
 Table A - Minimum levels of taxation applicable to motor fuels
 
-Excise goods Quantity Leaded petrol CN codes 2710 12 31, 2710 12 51 and 2710 12 59 in euro per 1 000 l
+Excise goods Quantity Leaded petrol CN codes 2710 12 31, 2710 12 51 and 2710 12 59 in euro per 1 000 l Unleaded petrol CN codes 2710 12 31, 2710 12 41, 2710 12 45 and 2710 12 49 in euro per 1 000 l Gas oil CN codes 2710 19 43 to 2710 19 48 and 2710 20 11 to 2710 20 19 in euro per 1 000 l Kerosene in euro per 1 000 l
 
-Unleaded petrol CN codes 2710 12 31, 2710 12 41, 2710 12 45 and 2710 12 49 in euro per 1 000 l Gas oil CN codes 2710 19 43 to 2710 19 48 and 2710 20 11 to 2710 20 19 in euro per 1 000 l Kerosene CN codes 2710 19 21 and 2710 19 25 in euro per 1 000 l LPG CN codes 2711 12 11 to 2711 19 00 in euro per 1 000 kg Natural gas CN codes 2711 11 00 and 2711 21 00 in euro per gigajoule gross calorific value
+CN codes 2710 19 21 and 2710 19 25
+
+LPG CN codes 2711 12 11 to 2711 19 00 in euro per 1 000 kg Natural gas CN codes 2711 11 00 and 2711 21 00 in euro per gigajoule gross calorific value
 
 Table B - Minimum levels of taxation applicable to motor fuels used for the following industrial and commercial purposes-
 
@@ -172,9 +174,9 @@ Table C - Minimum levels of taxation applicable to heating fuels and electricity
 
 Goods
 
-Minimal tax Quantity Business use  Non-business use
+Minimal tax Quantity Business use  Non-business use Gas oil CN codes 2710 19 43 to 2710 19 48 and 2710 20 11 to 2710 20 19 in euro per 1 000 l 21 21 Heavy fuel oil in euro per 1 000 kg 15 15
 
-Gas oil CN codes 2710 19 43 to 2710 19 48 and 2710 20 11 to 2710 20 19 in euro per 1 000 l 21 21 Heavy fuel oil CN codes   2710 19 62 to 2710 19 68 and 2710 20 31 to 2710 20 39 in euro per 1 000 kg 15 15 Kerosene CN codes 2710 19 21 and 2710 19 25 in euro per 1 000 l 0 0 LPG CN codes 2711 12 11 to 2711 19 00 in euro per 1 000 kg 0 0 Natural gas CN codes 2711 11 00 and 2711 21 00 in euro per gigajoule gross calorific value 0,15 0.3 Coal and coke CN codes 2701, 2702 and 2704 in euro per gigajoule gross calorific value 0,15 0.3 Electricity CN code 2716 in euro per MWh 0,5 1,0
+CN codes   2710 19 62 to 2710 19 68 and 2710 20 31 to 2710 20 39 Kerosene CN codes 2710 19 21 and 2710 19 25 in euro per 1 000 l 0 0 LPG CN codes 2711 12 11 to 2711 19 00 in euro per 1 000 kg 0 0 Natural gas CN codes 2711 11 00 and 2711 21 00 in euro per gigajoule gross calorific value 0,15 0.3 Coal and coke CN codes 2701, 2702 and 2704 in euro per gigajoule gross calorific value 0,15 0.3 Electricity CN code 2716 in euro per MWh 0,5 1,0
 
 11.  For energy products specified in the tables, with levels of taxation based on volumes, the volume is measured at a temperature of 15° C.
 

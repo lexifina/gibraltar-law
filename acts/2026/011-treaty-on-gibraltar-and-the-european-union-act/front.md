@@ -2,7 +2,11 @@ Treaty on Gibraltar and the European Union Act 2026
 
 Principal Act
 
-Act. No. 2026-11 Commencement (ss.1-10, 13-15, 17-26) 1.4.2026 Assent 1.4.2026
+Act. No. 2026-11 Commencement (ss.1-10, 13-15, 17-26) 1.4.2026
+
+Notice of Commencement (LN.2026/129) (ss. 16, 43(7), 72(2), Sch.1 Paras. 15-16, 18-20)
+
+25.6.2026 Assent 1.4.2026
 
 _______________________________
 
@@ -26,9 +30,9 @@ Chapter 1 General legal effects
 
 Chapter 2 Implementation powers
 
-13. Implementation Regulations. 14. Subordinate legislation, etc. 15. Exercise of functions.
+13. Implementation Regulations.
 
-16. Consequential amendments and modifications.
+14. Subordinate legislation, etc. 15. Exercise of functions. 16. Consequential amendments and modifications.
 
 Chapter 3 Implementation mechanisms and processes
 
@@ -50,9 +54,9 @@ Chapter 2 Crossing points
 
 Chapter 3 Border control
 
-32. Checks and surveillance. 33. Schengen controls. 34. Follow up actions to border checks: alerts.
+32. Checks and surveillance. 33. Schengen controls.
 
-35. Follow up actions to border control – refusal of entry. 36. Carriers’ liability. 37. Advance Passenger Information. 38. Entry and exit of armed forces personnel.
+34. Follow up actions to border checks: alerts. 35. Follow up actions to border control – refusal of entry. 36. Carriers’ liability. 37. Advance Passenger Information. 38. Entry and exit of armed forces personnel.
 
 Chapter 4 Residence in Gibraltar
 
@@ -114,9 +118,9 @@ Chapter 3 Movement of Goods
 
 Chapter 4 Transaction tax
 
-98. Liability to transaction tax and payment into consolidated fund. 99. Transaction tax rates. 100. Persons liable to pay the transaction tax.
+98. Liability to transaction tax and payment into consolidated fund. 99. Transaction tax rates. 100. Persons liable to pay the transaction tax. 101. Exemptions from transaction tax.
 
-101. Exemptions from transaction tax. 102. Refund of the transaction tax where goods are exported from Gibraltar in commercial quantities.
+102. Refund of the transaction tax where goods are exported from Gibraltar in commercial quantities.
 
 Chapter 5 Excise duty
 
@@ -136,9 +140,9 @@ Chapter 8 Goods produced or placed on the market in Gibraltar
 
 Chapter 9 Tobacco
 
-118. Interpretation. 119. Specific measures on monitoring and tracking of tobacco. 120. Information sharing.
+118. Interpretation. 119. Specific measures on monitoring and tracking of tobacco. 120. Information sharing. 121. Cooperation and enforcement. 122. Tobacco traceability.
 
-121. Cooperation and enforcement. 122. Tobacco traceability. 123. Price differential. 124. Additional measure.
+123. Price differential. 124. Additional measure.
 
 Chapter 10 Provision applicable to certain categories of goods
 
@@ -158,11 +162,11 @@ PART 8 FRONTIER WORKERS
 
 PART 9 CIVIL NUCLEAR COOPERATION
 
-139. Introductory and general principles. 140. Protections. 141. Third party liability. 142. Accidents.
+139. Introductory and general principles. 140. Protections. 141. Third party liability. 142. Accidents. 143. Radioactive material and sources.
 
-143. Radioactive material and sources.
+PART 10
 
-PART 10 FINAL PROVISIONS
+FINAL PROVISIONS
 
 Dispute resolution
 
