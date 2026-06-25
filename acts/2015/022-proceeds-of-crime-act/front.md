@@ -28,9 +28,11 @@ Amending enactments Relevant current provisions Commencement date LN. 2016/148 s
 
 2 Notice of Commencement (LN.2024/200)
 
-2024-34 ss. 10(ca), 156(3)(c), (5)(b), 157(5)(a), (c) 23.12.2024 LN.2025/254 s. 9(l)(xiii), (q), (1A) 27.10.2025
+2024-34 ss. 10(ca), 156(3)(c), (5)(b), 157(5)(a), (c) 23.12.2024 LN.2025/254 s. 9(l)(xiii), (q), (1A) 27.10.2025 Act.2026-11 s. 184ZB 25.6.20263
 
 Transposing: Directive 91/308/EEC Directive (EU) 2015/849 Directive (EU) 2018/843
+
+3 Notice of Commencement (LN.2026/129)
 
 ARRANGEMENT OF SECTIONS
 
@@ -208,13 +210,11 @@ Supplementary and Interpretation 181. “Document” and “excluded material”
 
 PART VII GENERAL
 
-184. Power to make subordinate legislation. 184ZA. Power to amend the Act, and to make subordinate legislation, to implement conventions and international agreement 184A. Power to make subordinate legislation regarding external requests and orders. 184B. Power to make subordinate legislation regarding external investigations. 184C. Rules of court. 184D. Interpretation for the purposes of sections 184A, 184B and 184C.
+184. Power to make subordinate legislation. 184ZA. Power to amend the Act, and to make subordinate legislation, to implement conventions and international agreement. 184ZB. Power to amend or modify the Act, and to make subordinate legislation, to implement the Treaty on Gibraltar and the European Union and other instruments. 184A. Power to make subordinate legislation regarding external requests and orders. 184B. Power to make subordinate legislation regarding external investigations. 184C. Rules of court. 184D. Interpretation for the purposes of sections 184A, 184B and 184C.
 
 PART VIII REPEALS, SAVINGS AND TRANSITIONAL PROVISIONS, CONSEQUENTIAL AMENDMENTS
 
-185. Repeals.
-
-186. Savings and transitional provisions. 187. Consequential amendments.
+185. Repeals. 186. Savings and transitional provisions. 187. Consequential amendments.
 
 SCHEDULE 1 Repealed
 
