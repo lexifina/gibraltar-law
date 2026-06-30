@@ -28,9 +28,9 @@ SCRdefault denotes the counterparty default risk module.
 
 (3)  The factor Corri,j denotes the item set out in row i and column j of the following correlation matrix–
 
-i\j Market Default Life Health Non-life Market 1 0.25 0.25 0.25 0.25
+i\j Market Default Life Health Non-life Market 1 0.25 0.25 0.25 0.25 Default 0.25 1 0.25 0.25 0.5
 
-Default 0.25 1 0.25 0.25 0.5 Life 0.25 0.25 1 0.25 0 Health 0.25 0.25 0.25 1 0 Non-life 0.25 0.5 0 0 1
+Life 0.25 0.25 1 0.25 0 Health 0.25 0.25 0.25 1 0 Non-life 0.25 0.5 0 0 1
 
 (4)  The Basic Solvency Capital Requirement must include a risk module for intangible asset risk and must be equal to the following–
 
@@ -52,9 +52,7 @@ where–
 
 (c) SCRi and SCRj denote the capital requirements for risk sub-modules i and j, respectively.
 
-(2)  The correlation coefficient CorrNL(i,j) in sub-paragraph (1) denotes the item set out in row i and column j of the following correlation matrix–
-
-j i Non-life premium and reserve Non-life catastrophe Non-life lapse Non-life premium and reserve 1 0.25 0 Non-life catastrophe 0.25 1 0 Non-life lapse 0 0 1
+(2)  The correlation coefficient CorrNL(i,j) in sub-paragraph (1) denotes the item set out in row i and column j of the following correlation matrix– j i Non-life premium and reserve Non-life catastrophe Non-life lapse Non-life premium and reserve 1 0.25 0 Non-life catastrophe 0.25 1 0 Non-life lapse 0 0 1
 
 Calculation of the life underwriting risk module.
 

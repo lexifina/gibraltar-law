@@ -20,7 +20,9 @@ Regulation 281 General measures.
 
 (b) the undertaking must provide its supervisory authority with an annual report setting out what progress has been made in terminating its activity;
 
-(c) the undertaking has notified the GFSC that it applies the transitional measures, but sub-paragraphs (1) and (2) must not prevent any undertaking from operating in accordance with Parts 1 to 11 of these Regulations.
+(c) the undertaking has notified the GFSC that it applies the transitional measures,
+
+but sub-paragraphs (1) and (2) must not prevent any undertaking from operating in accordance with Parts 1 to 11 of these Regulations.
 
 (4)  Omitted.
 
@@ -54,9 +56,7 @@ Regulation 281 General measures.
 
 (b) the standard parameter to be used when calculating the equity risk sub-module in accordance with the standard formula without the option set out in that regulation, and the weight for the parameter expressed in paragraph (b) of the first sub- paragraph must increase at least linearly at the end of each year from 0% during the year starting on 1 January 2016 to 100% on 1 January 2023.
 
-(9)  Despite regulation 122(3) and without limiting sub-regulation (5) of that regulation, where insurance and reinsurance undertakings comply with the Required Solvency Margin referred to in  Article 16a of Directive 73/239/EEC, Article 28 of Directive 2002/83/EC or Article 37, 38 or 39 of Directive 2005/68/EC respectively as applicable in the law of the Gibraltar on the day before those Directives are repealed pursuant to Article 310 of the
-
-Solvency 2 Directive but do not comply with the Solvency Capital Requirement in the first year of application of the Solvency 2 Directive–
+(9)  Despite regulation 122(3) and without limiting sub-regulation (5) of that regulation, where insurance and reinsurance undertakings comply with the Required Solvency Margin referred to in  Article 16a of Directive 73/239/EEC, Article 28 of Directive 2002/83/EC or Article 37, 38 or 39 of Directive 2005/68/EC respectively as applicable in the law of the Gibraltar on the day before those Directives are repealed pursuant to Article 310 of the Solvency 2 Directive but do not comply with the Solvency Capital Requirement in the first year of application of the Solvency 2 Directive–
 
 (a) the GFSC must require the insurance or reinsurance undertaking concerned to take the necessary measures to achieve the establishment of the level of eligible own funds covering the Solvency Capital Requirement or the reduction of its risk profile to ensure compliance with the Solvency Capital Requirement by 31 December 2017;
 

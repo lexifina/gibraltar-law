@@ -72,7 +72,9 @@ However, where none of the sub-modules of a module of the standard formula are w
 
 (c) for all items i from the aggregation list the correlation parameter Corr(i,i) must be equal to 1;
 
-(d) for any assignment of real numbers to the items of the aggregation list the following must hold– where–
+(d) for any assignment of real numbers to the items of the aggregation list the following must hold–
+
+where–
 
 (i) the sum covers all possible combinations (i,j) of the aggregation list; and
 

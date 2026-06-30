@@ -8,9 +8,9 @@ Commencement 15.1.2020
 
 Amending enactments Relevant current provisions Commencement date LN.2020/208 r. 70(6) 30.6.2020 2020/421 rr. 61A-61C 26.11.2020 2021/040 rr. 3(1), 4(1), 5(5), (8), 8, 11(1), (3), 14(8), 16(1)(a), (3)(b), (g), 18(2)(a), 21(3)(a)-(b), (4), 23-24, 26(1), 28(1), (4)-(5), 29(2)(d), (3), 31, 33(1)(c), (2)(b), 34(2)(b), (f), (j), (5), (a), 37(3), (10), 38(1), 39(7), 41, 44(3), 46(9), 47(2)(a), 51(1)-(6), 53, 57(1), (3), 58(1), (f), (2)(a), (b)(ii), (4)(b)-(c), (7), 59-61, 66(3)(d), 67(8), 69(1)(d), (2)(b)-(c), 71-72, 87(2), 94(1), 95(2)(c), (3)(b), (5)(c), 97(1), (3), 118(2), 119, 119A, 121(1), 122(5)-(6), (8), (11), 123(3), (5), 124(1), 127(6)-(8), 128-150, 151(1)(a), (2)(a), (g), 153, 155(6), 156, 157(1)-(2), 158(4), 159-160, 161(1)(a), 162, 163(4)-(5), 164, 168, 169(1)(b), (7), 172-178, 179(2)(c), (4), 186, 190(2), 191(1), 192(3)(a)-(d), (4)-(7), 193(2)-(4), 194-196, 197(4)- (5), 198(1)-(2), (4)-(5), 199(3), 200(4)-(5), (a)-(c), 201(5), (7), 204(1)-(2), 205(4), 206(2), (b), (3), 207(1)-(2), (4), 208, 210(1)-(7), (c), 211(1), (b), (2), 212(7), 213(1), 214-220, 221(1)-(3), (b), (5)-(6), 222(1)-(2), (4), (b), (6)-(7), 223(1), (5), (6)(a), (7)- (8), 224-232, 233(4), 236(1)-(4), 237-240, 241(1)- (2), 242, 243(1)-(2), 244(1)-(5), 245(1)-(2), 246(1)- (3), (5), 247, 248(1)-(5), (7), 249, 251(6), 255, 256(1), 257(1)-(2), 258, 259(1)-(2), 260-262, 263(1), 264(1)-(2), 265-267, 268(1)-(4), 269-273, 274(2)(b)- (d), 279, 281, Sch.2-4
 
-1.1.2021 2021/496 rr. 237(1), 240(2) 23.12.2021
+1.1.2021 2021/496 rr. 237(1), 240(2) 23.12.2021 2022/067 rr. 3(1), 61A(1), 275(2), Sch.1 17.3.2022
 
-2022/067 rr. 3(1), 61A(1), 275(2), Sch.1 17.3.2022 2022/322 rr. 14(8), 192(3), (3A), (4), 197(1), 198(1), 200(5), 221(1), 222(1), 223(6), 224(1)-(2), 225(1), 225A, 240(3)
+2022/322 rr. 14(8), 192(3), (3A), (4), 197(1), 198(1), 200(5), 221(1), 222(1), 223(6), 224(1)-(2), 225(1), 225A, 240(3)
 
 24.11.2022 2023/074 rr. 199(4)-(5), 239(5)-(7) 30.3.2023 2023/163 rr. 5(1)(a)-(c), (e), 14(8), 116(1)(d)(i)-(iii), 191(1) 29.6.2023 2023/259 rr. 36(5) 7.9.2023 2023/266 r. 51A 8.9.2023 2023/305 rr. 238(1), (2)(a), (3), (a)(i), (c), (4) 7.12.2023 Act. 2024-10 r. 13A 31.5.2024 LN. 2024/134 rr. 45(5A), (6)(b)(i), 68, 68A-68D, 69, 69A-69I, 71(1)(b), (2)(b)(ii), 276A
 
@@ -20,9 +20,7 @@ Amending enactments Relevant current provisions Commencement date LN.2020/208 r.
 
 3.4.2025 2025/077 r. 36(4)(a) 10.4.2025 2025/221 rr. 3(1), 14(8), 39(5), 56D(2)(d)(i), 70(1), (1A)-(1C), 84(1A), (1AA)-(1AC), (5), 87(4)-(7), 101(3)-(6), 101A(1)(a), 109(4), 113(2)(a), 191A, 193(2A)-(2D), 199(4), (7)-(10), 201(5), 205(4)-(7), 206(2)-(5), 209(4A)-(4D), 210(1A), (2), (2A)-(2B), 276(1)(b)(i), (c)(i), (d)(i), (e)(i), (ea)-(ec), (fa)-(fc), (g)(i), (ga)(i)(bb), (ia), (gb)(i)(bb), (ia), (gc)(i)(bb), (ia), (h)(i), (i)(i), 276A(5)-(6), Schs. 1, 4
 
-14.8.2025
-
-2026/110 r.3(1) 28.5.2026
+14.8.2025 2026/110 r.3(1) 28.5.2026 2026/128 r. 51C 30.6.2026
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -54,9 +52,9 @@ Exclusions from scope: reinsurance
 
 PART 2 THRESHOLD CONDITIONS
 
-12. Introduction. 13. Permission required to carry on insurance or reinsurance activity. 13A. Requirement to consult Minister on certain permissions. 14. Scope of permission.
+12. Introduction. 13. Permission required to carry on insurance or reinsurance activity. 13A. Requirement to consult Minister on certain permissions. 14. Scope of permission. 15. Ancillary risks.
 
-15. Ancillary risks. 16. Additional conditions for permission. 17. Scheme of operations. 18. Close links. 19. Policy conditions and scales of premiums. 20. Economic requirements of the market. 21. Shareholders and members with qualifying holdings. 22. Qualifying holdings: reporting of acquisitions and disposals. 23. Omitted. 24. Omitted.
+16. Additional conditions for permission. 17. Scheme of operations. 18. Close links. 19. Policy conditions and scales of premiums. 20. Economic requirements of the market. 21. Shareholders and members with qualifying holdings. 22. Qualifying holdings: reporting of acquisitions and disposals. 23. Omitted. 24. Omitted.
 
 PART 3 SUPERVISION
 
@@ -68,9 +66,13 @@ PART 4 CONDITIONS GOVERNING BUSINESS
 
 Corporate Governance
 
-42. Compliance obligation.
+42. Compliance obligation. 43. General governance requirements. 44. Fit and proper persons and proof of good repute.
 
-43. General governance requirements. 44. Fit and proper persons and proof of good repute. 45. Risk Management. 45A. Policy on risk management. 45B. Risk management areas. 46. Own risk and solvency assessment. 46A. ORSA supervisory report. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities. 51A. Restriction on dividend payments. 51B. Restriction on transactions with connected persons.
+45. Risk Management. 45A. Policy on risk management. 45B. Risk management areas. 46. Own risk and solvency assessment. 46A. ORSA supervisory report. 47. Internal control. 48. Internal audit. 49. Actuarial function. 50. Outsourcing. 51. Supervision of outsourced functions and activities. 51A. Restriction on dividend payments. 51B. Restriction on transactions with connected persons.
+
+Solvent exit
+
+51C. Solvent exit preparations.
 
 Solvency and financial condition report: structure and contents
 
@@ -86,9 +88,9 @@ Solvency and financial condition report: deadlines, means of disclosure and upda
 
 Professional secrecy, exchange of information etc.
 
-57. Professional secrecy. 58. Exchange of information with other authorities.
+57. Professional secrecy.
 
-59. Omitted. 60. Omitted. 61. Omitted.
+58. Exchange of information with other authorities. 59. Omitted. 60. Omitted. 61. Omitted.
 
 Accounts and statements
 
@@ -154,9 +156,9 @@ PART 8 Omitted
 
 PART 9 BRANCHES OF THIRD-COUNTRY INSURERS AND REINSURERS
 
-151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions.
+151. Taking up of business: principle of permission and conditions. 152. Scheme of operations of branch. 153. Omitted. 154. Technical provisions. 155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty.
 
-155. Solvency Capital Requirement and Minimum Capital Requirement. 156. Omitted. 157. Accounting, prudential and statistical information and undertakings in difficulty. 158. Separation of non-life and life business. 159. Omitted.
+158. Separation of non-life and life business. 159. Omitted.
 
 Re-insurance
 
@@ -260,7 +262,9 @@ Reorganisation measures
 
 Winding-up proceedings
 
-248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register. 252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets. 254. Cancellation of permission. 255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
+248. Commencement of winding-up proceedings. 249. Omitted. 250. Treatment of insurance claims. 251. Special register.
+
+252. Subrogation to a guarantee scheme. 253. Representation of preferential claims by assets. 254. Cancellation of permission. 255. Publication of decisions on winding-up proceedings. 256. Information to known creditors. 257. Right to lodge claims. 258. Omitted. 259. Regular information to creditors.
 
 Common provisions
 
@@ -268,9 +272,7 @@ Common provisions
 
 PART 13 MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions.
-
-283. Swiss general insurers. 284. Revocations.
+274. The Register: insurance and reinsurance activity 275. Administrative penalties. 276. Additional persons subject to powers. 276A. Notices: specified decisions. 277. Appeals. 278. Restriction on use of the words “insurance”, “assurance” and “reinsurance”. 279. Omitted. 280. Rights acquired by existing reinsurance undertakings. 281. Transitional Provisions. 281A. Delegated acts and technical standards. 282. Liquidation: supplementary provisions. 283. Swiss general insurers. 284. Revocations.
 
 SCHEDULE 1 TRANSITIONAL PROVISIONS
 
