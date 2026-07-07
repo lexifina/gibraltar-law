@@ -8,7 +8,7 @@ Commencement 4.5.2000
 
 Amending enactments Relevant current provisions Commencement date LN. 2003/044 Sch. 6 10.4.2003 2004/039 rr. 10, 13, 14(1), 15(1)-(2), 18(1)(b), 20-23, 24(1), (a)-(c), (2)
 
-1.9.2004 2010/156 r. 6(2)(b) 21.10.2010 2011/091 rr. 4(2)-(3), 5(1)(b), (3) 9.6.2011 2014/076 rr. 5(1)(a), (b)(ii) 12.5.2014 Act. 2014-14 rr. 6(2)-(4), 7(a), (c) 1.11.2014 LN. 2015/062 r. 49, Sch. 6 13.4.2015 2025/139 Sch. 6 1.8.2025
+1.9.2004 2010/156 r. 6(2)(b) 21.10.2010 2011/091 rr. 4(2)-(3), 5(1)(b), (3) 9.6.2011 2014/076 rr. 5(1)(a), (b)(ii) 12.5.2014 Act. 2014-14 rr. 6(2)-(4), 7(a), (c) 1.11.2014 LN. 2015/062 r. 49, Sch. 6 13.4.2015 2025/139 Sch. 6 1.8.2025 2026/151 r. 6(1A) 7.7.2026
 
 ARRANGEMENT OF RULES
 
@@ -30,9 +30,9 @@ PART IV APPEALS IN CIVIL MATTERS
 
 Appeals from a Master
 
-13. Application for leave to appeal. 14. Notice of appeal. 15. Appeal record. 16. Memorandum of appeal. 17. Failure to lodge memorandum. 18. Notice of cross-appeal. 19. Addition of parties. 20. Setting down and notice of hearing.
+13. Application for leave to appeal. 14. Notice of appeal. 15. Appeal record. 16. Memorandum of appeal. 17. Failure to lodge memorandum. 18. Notice of cross-appeal. 19. Addition of parties. 20. Setting down and notice of hearing. 21. Evidence.
 
-21. Evidence. 22. Arguments at hearing. 23. Death of party. 24. Failure of parties to appear.
+22. Arguments at hearing. 23. Death of party. 24. Failure of parties to appear.
 
 Appeals by case stated from the magistrates' court
 

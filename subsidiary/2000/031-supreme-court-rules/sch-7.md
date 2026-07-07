@@ -12,4 +12,6 @@ Item No
 
 for every £100 or fraction of £100 - (a) up to £2,500 5.00 (b) above £2,500 up to £10,000 2.50 (c) above £10,000 1.00 4. For supervising a special manager or the carrying on of a debtor's business, if the value of the gross assets as estimated by the official trustee -
 
-(a) exceeds £100 but does not exceed £500, per week 1.50 (b) exceeds £500 but does not exceed £5,000, per week 3.00 (c) exceeds £5,000 but does not exceed £10,000, per week 5.00 (d) exceeds £10,000, per week 7.50
+(a) exceeds £100 but does not exceed £500, per week 1.50
+
+(b) exceeds £500 but does not exceed £5,000, per week 3.00 (c) exceeds £5,000 but does not exceed £10,000, per week 5.00 (d) exceeds £10,000, per week 7.50

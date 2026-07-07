@@ -12,8 +12,6 @@ Divisional Court Court England or England and Wales Gibraltar
 
 High Court Supreme Court Judge Chief Justice or an additional judge
 
-London Gibraltar London Gazette Gibraltar Gazette Lord Chancellor Chief Justice Master Registrar Official Receiver (a) Registrar or the official trustee In bankruptcy matters, as the context requires (b) Official receiver In the winding-up of companies Official Solicitor Attorney-General Except in relation to criminal matters
-
-President of the Family Division Chief Justice
+London Gibraltar London Gazette Gibraltar Gazette Lord Chancellor Chief Justice Master Registrar Official Receiver (a) Registrar or the official trustee In bankruptcy matters, as the context requires (b) Official receiver In the winding-up of companies Official Solicitor Attorney-General Except in relation to criminal matters President of the Family Division Chief Justice
 
 Queen’s Proctor Attorney-General Senior Registrar Registrar United Kingdom Gibraltar Treasury Solicitor Attorney-General

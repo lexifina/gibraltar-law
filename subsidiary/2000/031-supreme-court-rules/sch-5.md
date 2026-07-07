@@ -8,6 +8,6 @@ An appearance book for Chancery and Queen’s Bench matters (other than Admiralt
 
 PART II.
 
-An action book for Chancery and Queen's Bench matters (other than Admiralty matters) An action book for Admiralty matters An action book for matrimonial causes An action book for probate matters
+An action book for Chancery and Queen's Bench matters (other than Admiralty matters) An action book for Admiralty matters An action book for matrimonial causes An action book for probate matters An action book for company matters
 
-An action book for company matters A proceedings book for the Court of Protection A proceedings book for bankruptcy matters A caveat book for Admiralty matters A register of wards of court A miscellaneous matters book A civil appeals book A criminal appeals book A fines book
+A proceedings book for the Court of Protection A proceedings book for bankruptcy matters A caveat book for Admiralty matters A register of wards of court A miscellaneous matters book A civil appeals book A criminal appeals book A fines book
