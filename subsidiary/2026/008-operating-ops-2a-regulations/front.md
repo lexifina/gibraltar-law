@@ -6,7 +6,7 @@ LN.2026/008
 
 Notice of Commencement - (LN.2026/029) 1.2.2026
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2026/155 Sch. 9.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -212,7 +212,9 @@ OPS 2A.106 Specific Approvals
 
 OPS 2A.107 Protection of Safety Data and Safety Information
 
-(a) The Authority shall not allow the use of recordings or transcripts of CVR, CARS, Class A AIR and Class A AIRS for purposes other than the investigation of an accident or incident as per ICAO Annex 13, except where the recordings or transcripts are;
+(a) The Authority shall not allow the use of recordings or transcripts of CVR, CARS, Class
+
+A AIR and Class A AIRS for purposes other than the investigation of an accident or incident as per ICAO Annex 13, except where the recordings or transcripts are;
 
 (1) related to a safety-related event identified in the context of a safety management system; are restricted to the relevant portions of a de-identified transcript of the recording; and are subject to the protections accorded by CAR SMS Appendix 3;
 
@@ -920,9 +922,7 @@ Every aeroplane engaged in international navigation shall carry the following do
 
 Note 1:The procedures for the carriage of an electronic version of the documents listed in (a), (b) and (e) above must be acceptable to the Authority.
 
-Note 2:The Certificates and Radio Licence may be presented in digital format. The certificates, when issued by the Authority, are rendered valid as the original documents in their digital form. They satisfy the on-board carriage requirements for aircraft engaged in international air navigation in accordance with Articles 29 and 31 of the Convention on International Civil
-
-Aviation as well as the requirements of Annex 7 and 8 to the same Convention.
+Note 2:The Certificates and Radio Licence may be presented in digital format. The certificates, when issued by the Authority, are rendered valid as the original documents in their digital form. They satisfy the on-board carriage requirements for aircraft engaged in international air navigation in accordance with Articles 29 and 31 of the Convention on International Civil Aviation as well as the requirements of Annex 7 and 8 to the same Convention.
 
 Appendix 1 to OPS 2A.407 Lights To Be Displayed By Aeroplanes (See OPS 2A.407)
 
@@ -972,8 +972,6 @@ The International Regulations for Preventing Collisions at Sea require different
 
 (b) when towing another vessel or aeroplane;
 
-Figure 1
-
 (c) when being towed;
 
 (d) when not under command and not making way;
@@ -994,7 +992,7 @@ As illustrated in Figure 2, the following appearing as steady, unobstructed ligh
 
 (b) a green light projected above and below the horizontal through angle of coverage R;
 
-(c) a white light projected above and below the horizontal through angle of coverage A; and
+(c) a white light projected above and below the horizontal through angle of coverage A; Figure 1 and
 
 (d) a white light projected through angle of coverage F.
 
@@ -1020,15 +1018,13 @@ As illustrated in Figure 4, two steady red lights placed where they can best be 
 
 3.6 When making way but not under command
 
+Figure Figure
+
 As illustrated in Figure 5, the lights described in 3.5 plus the lights described in 3.2 (a), (b) and (c).
 
 Note: The display of lights prescribed in 3.5 and 3.6 is to be taken by other aircraft as signals that the aeroplane showing them is not under command and cannot therefore get out of the way. They are not signals of aeroplanes in distress and requiring assistance.
 
 3.7 When at anchor
-
-Figure Figure
-
-Figure
 
 (a) If less than 50 m in length, where it can best be seen, a steady white light (Figure 6), visible all around the horizon at a distance of at least 3.7 km (2 NM).
 
@@ -1039,6 +1035,8 @@ Figure
 3.8 When aground
 
 The lights prescribed in 3.7 and in addition two steady red lights in vertical line, at least 1 m apart so placed as to be visible all around the horizon.
+
+Figure
 
 CHAPTER 6
 
