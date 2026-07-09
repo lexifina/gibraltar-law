@@ -1526,7 +1526,7 @@ Gibraltar Gazette, No. 5320, Friday 3rd July 2026
 
 “point (b) of Article 2 of Section 3 of Part B of Annex 27 of the TGEU”;
 
-(d) in paragraph 5(b)(v) substitute “point (b) of Article 3 of Directive 2002/15/EC” for-
+(d) in paragraph 5(b)(v) substitute “Article 9 of Regulation (EC) No 561/2006” for-
 
 “paragraph 12 of article 6 of Section 2 of Part B of Annex 27 of the TGEU”;
 
