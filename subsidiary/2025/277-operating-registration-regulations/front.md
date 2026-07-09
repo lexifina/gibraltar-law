@@ -6,7 +6,7 @@ LN.2025/277
 
 Notice of Commencement - (LN.2026/029) 1.2.2026
 
-Amending enactments Relevant current provisions Commencement date LN.2026/082 Sch. 23.4.2026
+Amending enactments Relevant current provisions Commencement date LN.2026/082 Sch. 23.4.2026 2026/154 Sch. 9.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -68,9 +68,15 @@ REG.010 Registration eligibility
 
 (3) a company or trust lawfully incorporated in Gibraltar and carrying out business under the laws of Gibraltar;
 
-(4) a company lawfully incorporated in Gibraltar carrying out commercial air transport operations in accordance with the provisions of CAR OPS 1/3, as applicable; or
+(4)  the Government;
 
-(5) the Government.
+(5) a citizen or a company of the United Kingdom, its Crown Dependencies and Overseas Territories;
+
+(6) a citizen or a company of the European Union;
+
+(7) a citizen or a company of Iceland, Liechtenstein, Norway and Switzerland; or
+
+(8) a citizen or a company of a State that is acceptable to the Authority and has selected a registered agent residing or legally established in Gibraltar, who is responsible for direct communication and notifications with the Authority.
 
 (b) for non-commercial air transport operations, the following can also register–
 
