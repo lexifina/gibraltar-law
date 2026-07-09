@@ -140,9 +140,7 @@ The Authority, as the State of Registry shall;
 
 (3) Where a continuing airworthiness safety issue is associated with a modification or repair, the State of Registry shall ensure that there exists a system whereby the above information is transmitted to the individual or organisation responsible for the design of the modification or repair.
 
-(g) (1) until 25 November, 2026, establish, in respect of aeroplanes over 5700 kg and helicopters over 3175 kg maximum certificated take-off mass, the type of service information that is to be reported to its airworthiness authority by operators, organisations responsible for type design and maintenance organisations. Procedures for reporting this information shall also be established.
-
-(2) as of 26 November, 2026, establish, in respect of aeroplanes over 5700 kg and helicopters over 3175 kg maximum certificated take-off mass and remotely piloted aircraft systems, the type of service information that is to be reported to its airworthiness authority by operators, organisations responsible for type design and maintenance organisations. Procedures for reporting this information shall also be established.
+(g) establish, in respect of aeroplanes over 5700 kg and helicopters over 3175 kg maximum certificated take-off mass and remotely piloted aircraft systems, the type of service information that is to be reported to its airworthiness authority by operators, organisations responsible for type design and maintenance organisations. Procedures for reporting this information shall also be established.
 
 (h) ensure that sensitive aviation security information is not transmitted when distributing mandatory continuing airworthiness information.
 
@@ -256,13 +254,19 @@ An aircraft shall not be released to service unless for each applicable airworth
 
 (a) compliance can be demonstrated with the specified compliance criteria; or
 
-(b) an alternative method of compliance has been approved or accepted under paragraph AIR 1.080.
+(b) an alternative method of compliance has been approved or accepted under paragraph
 
-AIR 1.080 Alternative methods of compliance with mandatory continuing airworthiness
+AIR 1.080.
 
-(a) An alternative method of compliance for mandatory continuing airworthiness requirements shall be accepted by the Authority when the holder is the Type Certificate Holder or Supplemental Type Certificate Holder and the method has been approved by the State of Design; or
+AIR 1.080 Alternative methods of compliance with mandatory continuing information
 
-(b) An alternative method of compliance for mandatory continuing airworthiness requirements may be proposed for approval by the Authority, provided that the regulatory authority of the State that issued the original requirement has accepted the alternative compliance proposal.
+(a) The Authority shall accept an alternative method of compliance (AMOC) to a mandatory continuing airworthiness requirement if the approval is granted to the design approval holder of the relevant product, design change, article, or part and the AMOC has been approved by either:
+
+(i) the State of Design; or
+
+(ii) the State identified on the Type Acceptance Certificate for the individual aircraft, where that State issued the applicable mandatory continuing airworthiness requirement.
+
+(b) An AMOC may also be submitted to the Authority for acceptance where the regulatory authority that issued the original mandatory continuing airworthiness requirement has accepted the proposed alternative method of compliance.
 
 AIR 1.085 Mass and Balance
 
@@ -368,9 +372,7 @@ AIR 1.110 Certificate of Release to Service
 
 Each person authorised to certify an aircraft or component for release to service after maintenance shall enter in the log book or other record required by paragraph CAR AIR 1.055(b)(1) a release to service statement that;
 
-“certifies that the work specified except as otherwise specified was carried out in accordance with Gibraltar CAR AIR 1, Chapter 3 and in respect to that work the aircraft/aircraft component is considered ready for release to service.”
-
-and enter beside the statement of release to service:
+“certifies that the work specified except as otherwise specified was carried out in accordance with Gibraltar CAR AIR 1, Chapter 3 and in respect to that work the aircraft/aircraft component is considered ready for release to service.” and enter beside the statement of release to service:
 
 (a)  their signature; and
 
@@ -454,7 +456,7 @@ AIR 1.140 Airworthiness and maintenance
 
 Arrangements for the airworthiness management and maintenance for aircraft operating in the following circumstances shall be;
 
-(a) an aircraft granted a Permit to Fly as prescribed in CAR 21.703(a) because the Certificate of Airworthiness is not in force shall have maintenance arrangements in accordance with CAR 145 and in compliance with this Chapter or as otherwise approved by the Authority and airworthiness management arrangements in compliance with CAR CAMO, CAR AIR 2 or CAR OPS 1/3, Chapter 13, as appropriate.
+(a) an aircraft granted a Permit to Fly as prescribed in CAR 21.703(a) because the Certificate of Airworthiness is not in force shall have maintenance arrangements in accordance with CAR 145 or CAR AIR 1.015 and in compliance with this Chapter or as otherwise approved by the Authority and airworthiness management arrangements in compliance with CAR CAMO, CAR AIR 2 or CAR OPS 1/3, Chapter 13, as appropriate.
 
 (b) an aircraft granted a Permit to Fly as prescribed in CAR 21.703(b) because the aircraft does not qualify for a Certificate of Airworthiness, shall have maintenance arrangements as approved by the Authority and airworthiness management arrangements as specified on the Permit to Fly Certificate.
 
@@ -464,7 +466,7 @@ AIR 1.145 Permit Flight Release Authorisation
 
 (b) For an aircraft referred to in paragraph CAR AIR 1.140(a) the person issuing Permit Flight Release(s) shall first be satisfied that;
 
-(1)  any maintenance has been carried out in conformance with requirements of CAR 145;
+(1)  any maintenance has been carried out in conformance with requirements of CAR 145 or CAR AIR 1.015;
 
 (2)  the aircraft is configured to the conditions prescribed on the Permit to Fly Certificate; and
 
@@ -484,7 +486,9 @@ AIRWORTHINESS REVIEW DECLARATION
 
 AIR 1.150 Aircraft airworthiness review declaration
 
-(a) An aircraft operating in accordance with CAR OPS 2A/H or RPA operating under CAR OPS 4, with a current certificate of airworthiness, shall not fly beyond 12 months from the date of issue or reissue, of the certificate of airworthiness, unless there is a valid Airworthiness Review Declaration in respect of that aircraft.
+(a) An aircraft operating in accordance with CAR OPS 2A/H or RPA operating under CAR
+
+OPS 4, with a current certificate of airworthiness, shall not fly beyond 12 months from the date of issue or reissue, of the certificate of airworthiness, unless there is a valid Airworthiness Review Declaration in respect of that aircraft.
 
 (b) An aircraft operating in accordance with CAR OPS 2A/H with a current certificate of airworthiness issued for a period greater than 24 months, shall not fly unless there is a current Airworthiness Review Declaration in respect of that aircraft that has been certified:
 
@@ -492,7 +496,7 @@ AIR 1.150 Aircraft airworthiness review declaration
 
 (2) within 24 months of the certificate of airworthiness being issued or renewed.
 
-(c) An Airworthiness Review Declaration shall be issued by the owner/operator’s Airworthiness Coordinator or the CAR CAMO’s Continuing Airworthiness Manager (postholder for continuing airworthiness) as applicable, when satisfied that;
+(c) An Airworthiness Review Declaration shall be issued by the owner/operator’s Airworthiness Coordinator, when satisfied that;
 
 (1) all maintenance has been carried out on the aircraft in accordance with the Maintenance Programme accepted by the Authority;
 
