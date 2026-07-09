@@ -102,7 +102,7 @@ An applicant for the grant of a Type Acceptance Certificate for an aircraft type
 
 (i) the Type Design has been approved by the Israeli Civil Aviation Authority (CAAI)  and currently considered valid;
 
-(ii) as of 26 November 2026, the Type Certification of the remotely piloted aircraft shall include the remote pilot station and the C2 Link; and
+(ii) the Type Certification of the remotely piloted aircraft shall include the remote pilot station and the C2 Link; and
 
 (iii) the Remotely Piloted Aircraft System complies with CAR 21, Chapter 5.
 
@@ -136,11 +136,11 @@ This Chapter details the requirements for the approval of design changes.
 
 (c) Changes in type design are classified as minor and major. A ‘minor change’ is one that has no appreciable effect on the mass, balance, structural strength, reliability, operational characteristics, noise, fuel venting, exhaust emission, or other characteristics affecting the airworthiness of the product, all other changes are ‘major changes’ under this Chapter.
 
-21.73 Approval of major design changes
+21.73 Acceptance of major design changes
 
 (a) Design changes that are classified as Major shall be designed to the applicable Type Certification standards identified on the Type Acceptance Certificate against which the Certificate of Airworthiness was issued.
 
-(b) The applicant for approval of a design change to an aircraft shall demonstrate to the satisfaction of the Authority that the design change:
+(b) The applicant for acceptance of a design change to an aircraft shall demonstrate to the satisfaction of the Authority that the design change:
 
 (1) has been certified, approved or accepted by an NAA specified in paragraph 21.25(a)(1) or (2) that issued the type certificate identified on the Type Acceptance Certificate, against which the C of A for the aircraft has been issued; or
 
@@ -172,13 +172,13 @@ This Chapter details the requirements for the approval of design changes.
 
 (d) The applicant shall make the aircraft and associated data available for any inspections as the Authority may require.
 
-(e) Except as provided for in paragraphs 21.79 and 21.81, approval of the design change is signified by the issue of an approval document by the Authority.
+(e) Except as provided for in paragraphs 21.79 and 21.81, the Authority shall signify acceptance of the design change through the issuance of an acceptance document.
 
-21.75 Approval of minor design changes
+21.75 Acceptance of minor design changes
 
-(a) The applicant for approval of a minor design change shall provide, to the satisfaction of the Authority, evidence that;
+(a) The applicant for acceptance of a minor design change shall provide, to the satisfaction of the Authority, evidence that;
 
-(1) the minor design change is to a standard identified in the Type Acceptance Certificate for the aircraft and approved by an organisation approved by an NAA identified in CAR 21.25(a)(1), (2) or (5), as applicable; or
+(1) the minor design change is to a standard identified in the Type Acceptance Certificate for the aircraft and approved by an organisation approved by an NAA identified in 21.25(a)(1), (2) or (5), as applicable; or
 
 (2) the design change has been accepted or approved in accordance with the respective procedures of the applicable Type Certification NAA identified in CAR 21.25(a)(1), (2) or (5), as applicable; or
 
@@ -190,7 +190,7 @@ This Chapter details the requirements for the approval of design changes.
 
 (d) The applicant shall make the aircraft and associated data available for any inspections as the Authority may require.
 
-(e) Except as provided for in paragraphs 21.79 and 21.81, approval of the design change is signified by the issue of an approval document by the Authority.
+(e) Except as provided for in paragraphs 21.79 and 21.81, the Authority shall signify acceptance of the design change through the issuance of an acceptance document.
 
 21.77 Continued airworthiness responsibilities
 
@@ -208,7 +208,7 @@ For the initial issue of a Certificate of Airworthiness, design changes already 
 
 21.81  Acceptable design changes
 
-A design change covered by the issue of a Service Bulletin or equivalent document issued by the Type Certificate Holder is deemed to be approved by the Authority without the need for a formal approval document to be issued provided that:
+A design change covered by the issue of a Service Bulletin or equivalent document issued by the Type Certificate Holder is deemed to be accepted by the Authority without the need for a formal document to be issued provided that:
 
 (a) the design change is approved by an NAA specified in paragraph 21.25(a)(1), (2) or (5) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft against which the Certificate of Airworthiness is issued; or
 
@@ -244,9 +244,7 @@ Note: Unless specifically stated, any reference to Certificate of Airworthiness 
 
 (d) Each aircraft processing a Certificate of Airworthiness shall be provided with a flight manual, placards or other documents stating the approved limitations within which the aircraft is considered airworthy as defined by the appropriate airworthiness requirements and additional instructions and information necessary for the safe operation of the aircraft.
 
-Note: As of 26 November 2026, information necessary for the safe operation of the RPA includes those applicable to RPS and C2 Link.
-
-(e) As of 26 November 2026, the Certificate of Airworthiness issued to a remotely piloted aircraft shall convey evidence of the airworthy status of the remotely piloted aircraft system (RPAS), as a complete system, to ensure it conforms to the type design and is in a condition for safe operation.
+(e) the Certificate of Airworthiness issued to a remotely piloted aircraft shall convey evidence of the airworthy status of the remotely piloted aircraft system (RPAS), as a complete system, to ensure it conforms to the type design and is in a condition for safe operation.
 
 21.173 Certification standard
 
@@ -306,9 +304,11 @@ Note: As of 26 November 2026, information necessary for the safe operation of th
 
 (b) A Restricted Certificate of Airworthiness may be issued to a RPAS provided it conforms to either a design accepted under a restricted type certificate, or STANAG 4617, and is in a condition for safe operation.
 
-(c) Until 25 November 2026, the Certificate of Airworthiness or Restricted Certificate of Airworthiness shall contain the information in ICAO Annex 8, Part II, Chapter 3, Figure 1 and be in the English language.
+(c) The Certificate of Airworthiness for all aircraft except remotely piloted aircraft (RPA) shall contain the information shown in ICAO Annex 8, Part II, Chapter 3, Figure 1 and shall be generally similar to itguage.
 
-(d) As of 26 November 2026, the Certificate of Airworthiness for all aircraft except remotely piloted aircraft (RPA) shall contain the information shown in ICAO Annex 8, Part II, Chapter 3, Figure 1  and shall be generally similar to it. (e) As of 26 November 2026, the Certificate of Airworthiness for all RPA shall contain the information shown in ICAO Annex 8, Part II, Chapter 3 Figure 2 and shall be generally similar to it.
+(d) The Certificate of Airworthiness for all RPA shall contain the information shown in ICAO Annex 8, Part II, Chapter 3 Figure 2 and shall be generally similar to it.
+
+(e) Any aircraft or part thereof with respect to which there exists an international standard of airworthiness or performance, and which failed in any respect to satisfy that standard at the time of its certification, shall have endorsed on its Certificate of Airworthiness a complete enumeration of the details in respect of which it so failed.
 
 (f) Any aircraft or part thereof with respect to which there exists an international standard of airworthiness or performance, and which failed in any respect to satisfy that standard at the time of its certification, shall have endorsed on its Certificate of Airworthiness a complete enumeration of the details in respect of which it so failed.
 
@@ -380,7 +380,7 @@ from the date of issue or re-issue unless it is suspended or revoked, provided t
 
 (c) Except when operating under a Permit to Fly in accordance with CAR 21 Chapter 9, any failure to maintain an aircraft in an airworthy condition as defined by the appropriate airworthiness requirements shall cause the Certificate of Airworthiness or Restricted Certificate of Airworthiness to become invalid and render the aircraft ineligible for operation until the aircraft is restored to an airworthy condition.
 
-Note: As of 26 November 2026, for remotely piloted aircraft, that which must be restored to an airworthy condition includes the RPS controlling the RPA, the required C2 Link(s) or any other components defined by the appropriate airworthiness regulations.
+Note: for remotely piloted aircraft, that which must be restored to an airworthy condition includes the RPS controlling the RPA, the required C2 Link(s) or any other components defined by the appropriate airworthiness regulations.
 
 21.187 Damage to aircraft
 
@@ -404,9 +404,7 @@ These regulations cover the certification standards relevant to the granting of 
 
 (a) The provisions of (b) to (f) shall apply to all aircraft included in the classifications defined for noise certification purposes in ICAO Annex 16, Volume I, Chapters 2, 3, 4, 5, 6, 8, 10, 11 and 12 where such aircraft are engaged in international air navigation.
 
-(b) Noise certification shall be granted or validated by the Authority, as the State of
-
-Registry of an aircraft, on the basis of satisfactory evidence that the aircraft complies with requirements that are at least equal to the applicable Standards specified in the current version of ICAO Annex 16, Volume I and Volume II.
+(b) Noise certification shall be granted or validated by the Authority, as the State of Registry of an aircraft, on the basis of satisfactory evidence that the aircraft complies with requirements that are at least equal to the applicable Standards specified in the current version of ICAO Annex 16, Volume I and Volume II.
 
 (c) If noise recertification is requested, it shall be granted or validated by the Authority, as the State of Registry of an aircraft, on the basis of satisfactory evidence that the aircraft complies with requirements that are at least equal to the applicable Standards specified in ICAO Annex 16, Volume I and Volume II. The date used by the Authority to determine the recertification basis shall be the date of acceptance of the first application for recertification.
 
@@ -460,9 +458,7 @@ Item 20. Signature of the officer issuing it.
 
 (h) The Authority shall recognise as valid a noise certification granted by another Contracting State provided that the requirements under which such certification was granted are at least equal to the applicable Standards specified in ICAO Annex 16, Volume I.
 
-(i) The Authority shall suspend or revoke the noise certification of an aircraft on its register if the aircraft ceases to comply with the applicable noise Standards. The
-
-Authority, as the State of Registry, shall not remove the suspension of a noise certification or grant a new noise certification unless the aircraft is found on reassessment, to comply with the applicable noise Standards.
+(i) The Authority shall suspend or revoke the noise certification of an aircraft on its register if the aircraft ceases to comply with the applicable noise Standards. The Authority, as the State of Registry, shall not remove the suspension of a noise certification or grant a new noise certification unless the aircraft is found on reassessment, to comply with the applicable noise Standards.
 
 (j) The amendment of Annex 16, Volume 1 to be used by the Authority, shall be that which is applicable on the date of submission to the Authority for;
 
@@ -700,13 +696,13 @@ REPAIR DESIGN CHANGES
 
 21.431 General
 
-(a) This Chapter details the requirements for the approval of repair designs.
+(a) This Chapter details the requirements for the acceptance of repair designs.
 
-(b) The approval of a repair design by the Authority is a process based on the acceptance of the certification process by a NAA specified in paragraphs 21.25(a)(1), (2) or (5).
+(b) The acceptance of a repair design by the Authority is a process based on the acceptance of the certification process by a NAA specified in paragraphs 21.25(a)(1), (2) or (5).
 
-(c) The applicant for a repair design approval shall apply in a manner acceptable to the Authority.
+(c) The applicant for acceptance of a repair design shall apply in a manner acceptable to the Authority.
 
-(d) A repair design covered by the issue of a Service Bulletin or equivalent document issued by the Type Certificate Holder is deemed to be approved by the Authority without the need for a formal approval document.
+(d) A repair design covered by the issue of a Service Bulletin or equivalent document issued by the Type Certificate Holder is deemed to be accepted by the Authority without the need for a formal approval document.
 
 (e) The repair design is classified in CAR 21.72.
 
@@ -728,9 +724,9 @@ Note 2: The Operator is responsible under Operational Regulations for updating a
 
 21.435 Approval of Minor Repairs
 
-(a) A repair design that is not covered by an existing type certificate holder’s approved data in accordance with CAR 21.431(c), shall be designed and subject to approval as a design change in accordance with CAR 21 Chapter 3.
+(a) A repair design that is not covered by an existing type certificate holder’s approved data in accordance with CAR 21.431(c), shall be designed and subject to acceptance as a design change in accordance with CAR 21 Chapter 3.
 
-(b) A repair design that is not covered by an existing type certificate holder’s approved data in accordance with CAR 21.431(c), shall be designed and subject to approval as a design change in accordance with CAR 21 Chapter 3.
+(b) A repair design that is not covered by an existing type certificate holder’s approved data in accordance with CAR 21.431(c), shall be designed and subject to acceptance as a design change in accordance with CAR 21 Chapter 3.
 
 (c) The installer of a Type Certificate holder’s repair design shall ensure that:
 
@@ -754,7 +750,7 @@ Note: A No Technical Objection or Recommended Repair Scheme is not considered to
 
 (1) An application for the evaluation of the damage shall be made to the Authority in an acceptable manner.
 
-(2) The applicant for approval of an unrepaired damage to an aircraft shall demonstrate to the satisfaction of the Authority that the unrepaired damage;
+(2) The applicant for acceptance of unrepaired damage to an aircraft shall demonstrate to the satisfaction of the Authority that the unrepaired damage;
 
 (i) has been certified, approved, or accepted by an NAA specified in paragraph 21.25(a)(1), (2) or (5) that issued the type certificate identified on the Type Acceptance Certificate, against which the C of A for the aircraft has been issued;
 
@@ -766,11 +762,11 @@ Note: A No Technical Objection or Recommended Repair Scheme is not considered to
 
 Note:  The Operator is responsible under Operational Regulations for updating and approval of operational manuals due to introduction of ICA, FMS, MMEL of any other operational data due to design change.
 
-(4) A type certificate holder’s approved unrepaired damage is acceptable under provisions of CAR 21.431 provided that;
+(4) A type certificate holder’s approval of unrepaired damage is acceptable under provisions of CAR 21.431 provided that;
 
-(i) The operator will notify the Authority of the unrepaired damage prior to issue of CRS and;
+(i) The operator notifies the Authority of the unrepaired damage prior to issue of CRS and;
 
-(ii) The operator will provide the data for unrepaired damage approved by the type certificate holder with the notification required in CAR 21.439(a)(4)(i).
+(ii) The operator provides the data for unrepaired damage approved by the type certificate holder with the notification required in CAR 21.439(a)(4)(i).
 
 CHAPTER 9
 
@@ -846,9 +842,7 @@ The Permit to Fly may be renewed subject to the Authority remaining satisfied by
 
 (b) The following limitations shall apply to all permits to fly;
 
-(1) a copy of the permit shall be on board the aircraft at all times when operating under the terms of the permit;
-
-(2) persons or property shall not be carried for compensation or hire;
+(1) a copy of the permit shall be on board the aircraft at all times when operating under the terms of the permit; (2) persons or property shall not be carried for compensation or hire;
 
 (3) the registration marks assigned to the aircraft by the Authority, as the State of Registry, shall be displayed on the aircraft in conformity with the requirements of CAR AIR 1, Chapters 7 and 8;
 
