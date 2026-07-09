@@ -44,13 +44,13 @@ AIR 2.020 General continued airworthiness arrangements
 
 AIR 2.025 Management responsibilities
 
-The personnel identified in paragraph AIR 2.015 are responsible for ensuring that the certificate of airworthiness continues to remain valid by suitable arrangements made in accordance with paragraph AIR 2.020 that also ensure that;
+The person identified in paragraph AIR 2.015 is responsible for ensuring that the certificate of airworthiness continues to remain valid by suitable arrangements made in accordance with paragraph AIR 2.020 that also ensure that;
 
 (a) the aircraft, including its airframe, engines(s), propellers, appliances, emergency equipment and operational equipment, is maintained in an airworthy condition;
 
 (b) all scheduled maintenance is performed in accordance with a maintenance programme accepted by the Authority;
 
-(c) appropriate contracted maintenance arrangements are made acceptable to the Authority;
+(c) maintenance arrangements are made that are acceptable to the Authority;
 
 (d) no person certifies maintenance on the aircraft other than as prescribed in CAR AIR 1;
 
@@ -86,9 +86,7 @@ The personnel identified in paragraph AIR 2.015 are responsible for ensuring tha
 
 (m) any required technical despatch procedures for special operations approved by the Authority are complied with; and
 
-(n) for any aircraft having systems utilising Field Loadable Software and Database Field
-
-Loadable Data, controlling procedures are in place to ensure that:
+(n) for any aircraft having systems utilising Field Loadable Software and Database Field Loadable Data, controlling procedures are in place to ensure that:
 
 (1) Field Loadable Software uploads are accomplished in accordance with the approval requirements of CAR 21 Chapter 3;
 
@@ -110,11 +108,17 @@ Loadable Data, controlling procedures are in place to ensure that:
 
 AIR 2.030 General maintenance arrangements
 
-(a) For large or turbo-jet aircraft subject to CAR OPS 2, Part II, maintenance arrangements shall be established by a suitable contract with an appropriately approved CAR 145 maintenance organisation for defect rectification, line and base maintenance. A completed Airworthiness Review Declaration shall be submitted to the Authority periodically in accordance with CAR AIR 1.115(d)
+(a) For large or turbo-jet aircraft subject to CAR OPS 2A, Part II, maintenance arrangements shall be established by a suitable contract with an appropriately approved CAR 145 maintenance organisation for defect rectification, line and base maintenance. A completed Airworthiness Review Declaration shall be submitted to the Authority periodically in accordance with CAR AIR 1.115(d);
 
-(b) For aircraft not subject to CAR OPS 2, Part II, suitable maintenance arrangements shall be established with appropriately licensed aircraft engineers or an appropriately approved CAR 145 maintenance organisation for defect rectification, line and base maintenance. A completed Airworthiness Review Declaration shall be submitted to the Authority periodically in accordance with CAR AIR 1.115(d)
+(1) with appropriately validated licensed aircraft engineers for minor defect rectification and line maintenance and an appropriately approved maintenance organisation in accordance with CAR 145 or accepted in accordance with CAR AIR 1.015 for base Maintenance; or
 
-(c) The maintenance contracts required by CAR AIR 2.25(c) and CAR AIR 2.30(a) shall specify;
+(2) with an appropriately approved maintenance organisation in accordance with CAR 145 or accepted in accordance with CAR AIR 1.015 for defect rectification, line and base Maintenance
+
+(b) For aircraft not subject to CAR OPS 2, Part II, suitable maintenance arrangements shall be established with appropriately licensed aircraft engineers or an appropriately approved maintenance organisation in accordance with CAR 145 or accepted in accordance with CAR AIR 1.015 for defect rectification, line and base maintenance.
+
+(c) For all aircraft a completed Airworthiness Review Declaration shall be submitted to the Authority periodically in accordance with CAR AIR 1.150(e);
+
+(d) The maintenance arrangements required by CAR AIR 2.025(c) and CAR AIR 2.030(a) and (b) shall specify;
 
 (1) a clear description of the work required of the maintenance organisation or person that takes account of human factors;
 
@@ -126,15 +130,17 @@ AIR 2.030 General maintenance arrangements
 
 (5) details for the acceptance of materials, parts, components and appliances.
 
-(d) Persons signing a Certificate of Release to Service shall be appropriately authorised in accordance with the requirements specified in CAR AIR 1, Chapter 3.
+(e) Persons signing a Certificate of Release to Service shall be appropriately authorised in accordance with the requirements specified in CAR AIR 1, Chapter 3.
 
 AIR 2.035 Maintenance Control Manual
 
-(a) The Maintenance Control Manual (MCM), where required by CAR OPS 2A.620 or CAR OPS 4.702, shall be in the English language, the content shall be representative of the organisation and address compliance in accordance with CAR OPS 2A.810 or CAR OPS 4.804, as applicable.
+(a) The Maintenance Control Manual (MCM), when implemented in accordance with CAR OPS 2A.620 or CAR OPS 4.702, shall be in the English language, the contents be representative of the organisation and address compliance in accordance with CAR OPS 2A.810 or CAR OPS 4.804, as applicable.
 
-(b) The Maintenance Control Manual shall contain the necessary procedures for applicable continued airworthiness management functions prescribed in paragraphs AIR 2.25 and AIR 2.30 to ensure the continued airworthiness of the managed aircraft and ensure the continued validity of the Certificates of Airworthiness. (c) Procedures shall be established for a regular review of the Maintenance Control Manual to ensure that it remains effective in maintaining aircraft in an airworthy condition.
+(b) The Maintenance Control Manual, when implemented, should contain procedures for applicable continued airworthiness management functions prescribed in paragraphs AIR 2.025 and AIR 2.030 to ensure the continued airworthiness of the managed aircraft and ensure the continued validity of the Certificates of Airworthiness.
 
-(d) All amendments shall be made in a timely manner and the amendment status of each document shall be readily identifiable by personnel. Obsolete material shall be removed promptly from all points of issue or use, and controls shall be in place to preclude the use by personnel of superseded material.
+(c) Procedures should be established for a regular review of the Maintenance Control Manual to ensure that it remains effective in maintaining aircraft in an airworthy condition.
+
+(d) Deleted
 
 CHAPTER 3
 
@@ -164,7 +170,7 @@ AIR 2.040 Maintenance programme
 
 (3) The aircraft system checks required by Appendix 2 are accomplished as prescribed by the Authority.
 
-(f) The periods prescribed by the Authority’s accepted maintenance programme may be varied by the owner/operator provided that such variations are within the limits specified in AIR 2.040(f). Variations are only permitted when the periods prescribed by the maintenance programme, or documents in support of the maintenance programme, cannot be complied with due to circumstances which could not reasonably have been foreseen by the owner/lessee. Particulars of every variation so made shall be entered in the appropriate aircraft records. The variations permitted do not include:
+(f) The periods prescribed by the Authority’s accepted maintenance programme may be varied by the owner/operator provided that such variations are within the limits specified in AIR2.040(g). Variations are only permitted when the periods prescribed by the maintenance programme, or documents in support of the maintenance programme, cannot be complied with due to circumstances which could not reasonably have been foreseen by the owner/lessee. Particulars of every variation so made shall be entered in the appropriate aircraft records. The variations permitted do not include:
 
 (1) Those components for which an ultimate, finite or retirement life has been prescribed.
 
@@ -172,7 +178,7 @@ AIR 2.040 Maintenance programme
 
 (3) Certification Maintenance Requirements.
 
-(g) The permitted variations to the maintenance programme in accordance with AIR 2.040(e) are;
+(g) The permitted variations to the maintenance programme are;
 
 (1) Items Controlled by Flying Hours:
 
@@ -222,7 +228,7 @@ AIR 2.065 Maintenance and continued airworthiness records
 
 (4) the total time in service by the specified time control basis of the airframe, each engine, each propeller, each rotor and installed equipment; and
 
-(5) the current status of lifed parts/components of each airframe, engine, propeller, rotor and appliance with referenced to the specified time interval basis required by paragraph AIR 2.040(h)(3);
+(5) the current status of lifed parts/components of each airframe, engine, propeller, rotor and appliance with referenced to the specified time interval basis required by paragraph AIR 2.040(g)(3);
 
 (6) the time since last overhaul of all items installed on the aircraft which are required to be overhauled on a specified time basis;
 
