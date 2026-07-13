@@ -4,10 +4,12 @@ Section 2.
 
 DESCRIPTION OF THE PORT OF GIBRALTAR.
 
-The Port of Gibraltar shall include–
+“The Port of Gibraltar shall consist of-
 
-(a)  that area of water and the foreshore adjacent thereto as is commonly known and recognized as the port, roadstead, and anchorage ground of Gibraltar;
+(a) Port Waters;
 
-(b)  Port Waters;
+(b) the foreshore adjacent thereto, roadstead, and anchorage ground of Gibraltar;
 
-(c)  the area known as North Mole commencing adjacent to the entrance to the Electricity Generating Station and extending to the Western Arm together with the Passenger Wharf and the Yacht Reporting Berth.
+(c) all that area of land delineated in black and shaded in green in Plan A in this Schedule, as more particularly shown in Plans B, C, D, E, F and G;
+
+(d) all those berths adjacent to the land referred to in (c), to the extent they are not situated within Port Waters.
