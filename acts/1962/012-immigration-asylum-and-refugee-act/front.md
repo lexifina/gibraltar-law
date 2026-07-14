@@ -20,7 +20,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 28.2.2013 2014-10 ss. 14(1)(b), 15(1)-(2), (3)(b), (d), 18(3)(a), 26, 35(a), 55A, 55F(1)(a)-(c), (2)(a), 55G(2)-(3), (6)(a), 55H(3)(a)(iii), (5)(d)(ii)-(iii), 55I(2)(b), 55N(2)(c)(iii), 55O(4)(b)(ii)
 
-28.3.2014 LN. 2016/193 s. 55ZA 6.10.2016 2020/559 s. 55A(1), Sch.1 1.1.2021 Act. 2021-09 s. 2(2)(e) 9.2.2021 2023-12 ss. 18(1)(ef), (4), 55C(5A) 23.3.2023 2025-03 ss. 20(4), 55A(1) 11.7.20251 LN. 2025/246 s. 55NA 6.10.2025
+28.3.2014 LN. 2016/193 s. 55ZA 6.10.2016 2020/559 s. 55A(1), Sch.1 1.1.2021 Act. 2021-09 s. 2(2)(e) 9.2.2021 2023-12 ss. 18(1)(ef), (4), 55C(5A) 23.3.2023 2025-03 ss. 20(4), 55A(1) 11.7.20251 LN. 2025/246 s. 55NA 6.10.2025 2026/166 ss. 18-34, 55ZA, 55A-55X 14.7.2026
 
 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2001/55/EC Directive 2002/90/EC Decision 2002/946/JHA Directive 2004/38/EC
 
@@ -52,15 +52,7 @@ Entitlement to permits of residence.
 
 Issue of frontier worker certificates and permits of residence.
 
-17. Issue of frontier worker certificates. 17A.  Entry permits. 18. Issue of permits of residence. 19. Governor’s power to order issue of permits. 20. Cancellation of permits. 21. Appeal from refusal or cancellation of permit. 22. Renewal of permits. 23. No appeal to court. 24. Omitted
-
-Entitlement to certificates of permanent residence.
-
-25. Rights of children of Gibraltarian women.
-
-Discretionary grants of certificates of permanent residence.
-
-26. Grants to men married to Gibraltarian women. 27. Grants to children of Gibraltarian women. 28. Grants to other non-Gibraltarians. 29. Application for discretionary grants. 30. Conditions attached to certificates. 31. Grants in lieu of registration. 32. Function of Advisory Committee. 33. Quota of certificates. 34. No appeal to court.
+17. Issue of frontier worker certificates. 17A.  Entry permits. 18. to 34. Repealed
 
 Subsidiary certificates.
 
@@ -74,7 +66,7 @@ Cancellation and duration of certificates.
 
 37. Cancellation of certificate. 38. Duration of certificates.
 
-39-50K Repealed.
+39. to 50K. Repealed.
 
 51. Repealed.
 
@@ -90,35 +82,13 @@ Political refugees.
 
 55. Asylum, Refugees and Persons seeking International Protection.
 
-PART IV EEA NATIONALS AND FAMILY MEMBERS, SWISS POSTED WORKERS”
+PART IV Repealed
 
-55ZA. Persons to whom this Part applies. 55A. Interpretation. 55B.  Continuity of Residence. 55C.  Definition of worker, job seeker, self employed person, self-sufficient person and student. 55D.  Definition of worker or self-employed person who has ceased economic activity. 55E.  Definition of Qualified person. 55F.  Definition of Family Member. 55G.  Definition of Extended Family Member. 55H.  Definition of “family member who has retained the right of residence”. 55I. Family members of Gibraltarians.
+55ZA. Repealed 55A. to 55X. Repealed
 
-EEA Rights – Entry and Residence.
+PART V
 
-55J. Right of Entry to Gibraltar. 55K.  Issue and authorisation to issue EEA Family Permits. 55L.  Entitlement to reside in Gibraltar for three months. 55M. Extended right of Residence in Gibraltar. 55N.  Right of Permanent Residence.
-
-Temporary suspension of rights
-
-55NA. Temporary suspension of residency rights and the issue of documentation.
-
-Residence Documentation.
-
-55O.  Registration Certificates for EEA Nationals. 55P.  Residence Cards for Non-EEA Family Members. 55Q.  Documents Certifying Permanent Residence and Permanent Residence Cards.
-
-Restrictions on the right of entry and residence.
-
-55R.  Exclusion and removal from Gibraltar. 55S.  Refusal to issue or renew and revocation of residence documentation. 55T.  Decisions taken on the grounds of public policy, public security or public heath. 55U.  Notification of EEA decisions.
-
-Appeals.
-
-55V.  Appeals.
-
-Special Cases - Swiss Posted Workers & Central and European Accession State Nationals.
-
-55W.  Swiss Posted Workers. 55X.  Nationals of Central and Eastern European States.
-
-PART V HOTELS AND LODGING HOUSES Provisions relating to hotels and lodging-houses.
+HOTELS AND LODGING HOUSES Provisions relating to hotels and lodging-houses.
 
 56. Duty to keep registers of lodgers. 57. Registration of lodging-houses.
 
@@ -128,9 +98,7 @@ PART VII ARRESTS, DETENTION, REMOVAL AND OFFENCES Arrest, detention and removal.
 
 Offences.
 
-62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. Assisting illegal immigration into another state. 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate.
-
-65. Offences by EEA nationals and family members. 66. Other offences.
+62. Unlawful presence in Gibraltar. 63. Harbouring persons unlawfully. 63A. Assisting illegal immigration into another state. 63B. Foreiture of vehicle, ship or aircraft. 63C. Definition of British person. 64. Landing without permit or certificate. 65. Offences by EEA nationals and family members. 66. Other offences.
 
 PART VII RULES AND RULES OF COURT Rules.
 
