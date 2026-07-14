@@ -6,7 +6,7 @@ Act. No. 1950-18 Commencement 1.1.1951 Assent 31.8.1950
 
 Amending enactments Relevant current provisions Commencement date Act.1993-04 ss. 2(1)-(3), 3(1)-(3), 4, 6(1)-(3), 7(1)(b), (e), (g), (j), (l), 8(1), (2)(ii), (4), Schs.1-2
 
-25.3.1993 LN.1993/058 Sch.2 25.3.1993 Act.2007-17 ss. 2(2), 3(2), 7(1) 14.6.2007 LN.2021/152 ss. 6(2), 7(1)(l)-(m), Sch.2 25.2.2021
+25.3.1993 LN.1993/058 Sch.2 25.3.1993 Act.2007-17 ss. 2(2), 3(2), 7(1) 14.6.2007 LN.2021/152 ss. 6(2), 7(1)(l)-(m), Sch.2 25.2.2021 2026/166 Sch.1 14.7.2026
 
 ARRANGEMENT OF SECTIONS
 
