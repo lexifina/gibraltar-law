@@ -8,6 +8,8 @@ Column1 Item Column 2 Class of vehicle Column 3 Maximum overall length in metres
 
 (1A)  The maximum lengths laid down in items 1 to 9 of Table 1, subject where applicable to Article 9a(1) of Directive 1996/53/EC, and the maximum distance laid down in point 1.6 of Annex I of Directive 1996/53/EC, may be exceeded by 15 cm for vehicles or vehicle combinations engaged in the transport of 45-foot containers or 45-foot swap bodies, empty or loaded, provided that the road transport of the container or swap body in question is part of an intermodal transport operation.
 
+(1B) The maximum distance between the axis of the fifth-wheel king pin and the rear of a semi-trailer must be 12.00m.
+
 (2)  In calculating the maximum overall length under paragraph (1) removable superstructures and standardised freight items (such as containers) shall be included.
 
 (3)  In items 6, 7 and 8 the maximum overall length includes any removable attachment that is fitted to a bus (such as a ski-box).
@@ -27,6 +29,8 @@ Column1 Item Column 2 Class of vehicle Column 3 Maximum overall length in metres
 1B.  The aerodynamic devices referred to in paragraph 1A shall fulfil the following operational conditions-
 
 (a) in circumstances where the safety of other road users or of the driver is at risk, they shall be folded, retracted or removed by the driver;
+
+(aa) when the aerodynamic devices and equipment exceed 500 mm in length in the “in use” position they shall be retractable or foldable.
 
 (b) their use on urban and inter urban road infrastructures shall take into account the special characteristics of areas where the speed limit is less than or equal to 50 km/h and where vulnerable road users are more likely to be present; and
 
