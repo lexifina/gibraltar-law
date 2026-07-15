@@ -18,9 +18,11 @@ Amending enactments Relevant current provisions Commencement date Act. 1987-06 s
 
 2006-46 ss. 25A, 92(1) 21.12.2006 2007-16 ss. 76-78 6.6.2007 2007-17 ss. 12, 16(1), 20(1), 50, 62, 66, 71(1), 72(1), 74, 79(1), 96(1)-(2), 118, 129, 130, Sch. 3, Part XI heading
 
-14.6.2007 2009-26 s. 64(d) 26.6.2007 2013-19 s. 64(d) 24.6.2013 LN. 2017/223 ss. 91C-91O 16.11.2017 Act. 2020-03 s. 129(g) 27.2.2020 LN. 2020/212 ss. 2(1), 121(a), (aa), 121A 30.6.2020 Act. 2021-18 ss. 2, 64, 70(1), 119A(1) 20.7.2021 2024-14 s. 121A 31.10.2024
+14.6.2007 2009-26 s. 64(d) 26.6.2007 2013-19 s. 64(d) 24.6.2013 LN. 2017/223 ss. 91C-91O 16.11.2017 Act. 2020-03 s. 129(g) 27.2.2020 LN. 2020/212 ss. 2(1), 121(a), (aa), 121A 30.6.2020 Act. 2021-18 ss. 2, 64, 70(1), 119A(1) 20.7.2021 2024-14 s. 121A 31.10.2024 2026-11 ss. 2A, 20(1)(c) 15.7.20264
 
 English Sources: Customs and Excise Act, 1952 (1952 c.44)
+
+4 Notice of Commencement – LN.2026/148
 
 ARRANGEMENT OF SECTIONS
 
@@ -28,7 +30,7 @@ Section
 
 PART I. PRELIMINARY.
 
-1. Short title and commencement. 2. Interpretation.
+1. Short title and commencement. 2. Interpretation. 2A. Primacy of the Treaty on Gibraltar and the European Union.
 
 PART II. ADMINISTRATION.
 
@@ -80,7 +82,9 @@ Deposit of Goods in Stores.
 
 Operations in Stores.
 
-37. Sorting, repacking, etc., of goods in stores. 38. Taking samples. 39. Time limit for storage. 40. Conditions in relation to storage. 41. Duty to produce goods in private bonded stores.
+37. Sorting, repacking, etc., of goods in stores.
+
+38. Taking samples. 39. Time limit for storage. 40. Conditions in relation to storage. 41. Duty to produce goods in private bonded stores.
 
 Sales and Disposals of Goods by the Collector.
 
@@ -106,9 +110,9 @@ Valuation for Duty.
 
 Exemptions.
 
-62. Goods about to be exported.
+62. Goods about to be exported. 63. Exemption from duty of goods in transit, etc. 64. Exemption from duty for aircraft and their parts and certain fuel oils.
 
-63. Exemption from duty of goods in transit, etc. 64. Exemption from duty for aircraft and their parts and certain fuel oils. 65. Exemption from duty of goods imported for Crown contracts. 66. Regulations for the granting of other exemptions.
+65. Exemption from duty of goods imported for Crown contracts. 66. Regulations for the granting of other exemptions.
 
 Remission and Refund and Draw Backs.
 
@@ -134,11 +138,11 @@ Report of Cargo.
 
 Other Provisions.
 
-82. Return of oils exported. 83. Unloading of goods loaded for export. 84. Opening of receptacles for examination.
+82. Return of oils exported. 83. Unloading of goods loaded for export. 84. Opening of receptacles for examination. 85. Time of exportation.
 
-85. Time of exportation.
+PART VIII.
 
-PART VIII. SPECIAL PROVISIONS RELATING TO WINES, SPIRITS AND TOBACCO.
+SPECIAL PROVISIONS RELATING TO WINES, SPIRITS AND TOBACCO.
 
 86. Description and designation of casks. 87. Estimated contents of casks. 88. Spirits for infusion. 89. Owner may take samples. 90. Repealed. 91. Repealed. 91A. Export of tobacco by sea and air. 91B. Exports by land.
 
@@ -170,9 +174,7 @@ Rewards.
 
 Forfeiture.
 
-119. Prohibited imports forfeit to the Crown. 119A. Forfeiture of ships and vessels used or suspected of being used for carrying controlled drugs. 120. Mandatory forfeiture of goods. 121. Discretionary forfeiture of goods. 121A. Repealed. 122. Forfeiture of receptacles. 123. Mandatory forfeiture of ships, etc.
-
-124. Discretionary forfeiture of ships. etc. 125. Seizure of goods liable to forfeiture. 126. Procedure in connection with forfeiture.
+119. Prohibited imports forfeit to the Crown. 119A. Forfeiture of ships and vessels used or suspected of being used for carrying controlled drugs. 120. Mandatory forfeiture of goods. 121. Discretionary forfeiture of goods. 121A. Repealed. 122. Forfeiture of receptacles. 123. Mandatory forfeiture of ships, etc. 124. Discretionary forfeiture of ships. etc. 125. Seizure of goods liable to forfeiture. 126. Procedure in connection with forfeiture.
 
 Stay and Compounding of Proceedings.
 

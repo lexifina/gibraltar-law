@@ -50,9 +50,7 @@ Proceedings for condemnation by court.
 
 11. Where the thing seized is a living creature or is of a perishable nature the Collector may at any time if he sees fit, sell or destroy the same notwithstanding that the thing has not yet been condemned as forfeited.
 
-12. (1) If, where any thing is sold or destroyed as aforesaid, it is held in proceedings taken under this Schedule that the thing was not liable to forfeiture at the time of its seizure, the
-
-Collector shall on demand by the claimant tender to him an amount equal to the market value of the thing at the time of its seizure.
+12. (1) If, where any thing is sold or destroyed as aforesaid, it is held in proceedings taken under this Schedule that the thing was not liable to forfeiture at the time of its seizure, the Collector shall on demand by the claimant tender to him an amount equal to the market value of the thing at the time of its seizure.
 
 (2) If the claimant accepts any amount tendered to him under the foregoing sub-paragraphs, he shall not be entitled to maintain any action on account of the seizure, detention, sale or destruction of the thing.
 
