@@ -6,7 +6,7 @@ Act. No. 2018-14 Commencement LN.2018/182 16.8.2018 Assent 1.8.2018
 
 Amending enactments Relevant current provisions Commencement date LN.2020/253 Sch.2 9.7.2020 2022/325 Sch.2 24.11.2022 2023/029 Sch.5 16.2.2023 2023/084 Sch.4 6.4.2023 2023/173 Sch.1 29.6.2023 Act.2023-20 ss. 3, 27(a), 28A-29C, 49(1)-(2), (5)-(8), 50, 51(2)(f), Sch.2
 
-27.7.2023 LN.2023/269 Sch.2 14.9.2023 Act.2024-36 s. 52 16.1.2025 LN.2025/069 Sch.2 27.3.2025 2025/107 Sch.2 15.5.2025 2025/145 Sch.5 1.11.2025 2026/041 Sch.4 12.2.2026
+27.7.2023 LN.2023/269 Sch.2 14.9.2023 Act.2024-36 s. 52 16.1.2025 LN.2025/069 Sch.2 27.3.2025 2025/107 Sch.2 15.5.2025 2025/145 Sch.5 1.11.2025 2026/041 Sch.4 12.2.2026 2026/222 Sch.2 15.7.2026
 
 ARRANGEMENT OF SECTIONS
 
@@ -32,9 +32,7 @@ PART 4 HISTORICAL CONSERVATION AREAS
 
 conservation areas. 22. Modification of scheduled historical conservation area consent.
 
-PART 5
-
-ARCHAEOLOGICAL AREAS AND FINDINGS
+PART 5 ARCHAEOLOGICAL AREAS AND FINDINGS
 
 23. Interpretation of operations on any site on land, etc. 24. Scheduled archaeological areas. 25. Operations in scheduled archaeological areas. 26. Qualifications for archaeological operations. 27. Control of archaeological operations. 28. Modification of scheduled archaeological area consent.
 
@@ -52,9 +50,7 @@ PART 7 THE GIBRALTAR NATIONAL MUSEUM
 
 PART  8 GIBRALTAR NATIONAL ARCHIVES
 
-38. Interpretation 39. Archivist. 40. General responsibility. 41. Selection and preservation of public records and archives. 42. Place of deposit of public records and archives. 43. Access to public records.
-
-44. Destruction of public records. 45. Legal validity of public records and authenticated copies.
+38. Interpretation 39. Archivist. 40. General responsibility. 41. Selection and preservation of public records and archives. 42. Place of deposit of public records and archives. 43. Access to public records. 44. Destruction of public records. 45. Legal validity of public records and authenticated copies.
 
 PART 9 THE GIBRALTAR HERITAGE TRUST
 
