@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2017/125 r
 
 9.2.2021 LN. 2025/267 rr. 3(1)-(2), 5(2)-(3), 8(6), 9(3A), 26(1A), (3), 26ZA(2), 26ZB(2), 27-28, 30(1)-(2), 32(4)-(5)
 
-27.11.2025
+27.11.2025 2026/147 rr. 3(1), 15.7.2026 2026/220 r. 26 15.7.2026
 
 Transposing – Directive (EU) 2015/849
 
@@ -46,7 +46,9 @@ Listed Entity
 
 Information Gathering
 
-12. Duty to investigate and obtain information. 13. Duty to keep information up-to-date. 14. Enforcement of disclosure requirements.
+12. Duty to investigate and obtain information.
+
+13. Duty to keep information up-to-date. 14. Enforcement of disclosure requirements.
 
 Additional Statements
 
@@ -58,7 +60,9 @@ The Register
 
 Warning and Restrictions Notices
 
-38. Content of a warning notice. 39. Content of a restrictions notice. 40. Failure to comply with a regulation 12 or 13 notice: valid reason. 41. Withdrawal of restrictions notice.
+38. Content of a warning notice.
+
+39. Content of a restrictions notice. 40. Failure to comply with a regulation 12 or 13 notice: valid reason. 41. Withdrawal of restrictions notice.
 
 Requests
 
@@ -76,6 +80,4 @@ SCHEDULE 1 Failure to comply with notice under regulation 12 or 13.
 
 SCHEDULE 2 Supplementary Interpretation.
 
-SCHEDULE 3 Deleted
-
-In exercise of the powers conferred upon it by section 184 of the Proceeds of Crime Act 2015, and for the purpose of transposing, in part, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, and as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018, the Government has made the following Regulations—
+SCHEDULE 3 Deleted In exercise of the powers conferred upon it by section 184 of the Proceeds of Crime Act 2015, and for the purpose of transposing, in part, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, and as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018, the Government has made the following Regulations—
