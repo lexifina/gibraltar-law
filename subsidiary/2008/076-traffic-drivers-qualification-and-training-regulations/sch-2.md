@@ -18,9 +18,9 @@ Side 1 contains:
 
 (c) the distinguishing sign of the relevant state issuing the card, printed in negative in a blue rectangle and encircled by 12 yellow stars; the distinguishing signs are as follows
 
-B : Belgium BG : Bulgaria CZ : The Czech Republic DK : Denmark D : Germany EST : Estonia GR : Greece E : Spain F : France HR : Croatia IRL : Ireland I : Italy CY : Cyprus
+B : Belgium BG : Bulgaria CZ : The Czech Republic DK : Denmark D : Germany EST : Estonia GR : Greece E : Spain F : France HR : Croatia IRL : Ireland I : Italy CY : Cyprus LV : Latvia
 
-LV : Latvia LT : Lithuania L : Luxembourg H : Hungary M : Malta NL : The Netherlands A : Austria PL : Poland P : Portugal RO : Romania SLO : Slovenia SK : Slovakia FIN : Finland S : Sweden UK : The United Kingdom (also being the distinguishing sign for the purposes of cards issued by Gibraltar given that the United Kingdom is the Member State responsible for Gibraltar’s external affairs);
+LT : Lithuania L : Luxembourg H : Hungary M : Malta NL : The Netherlands A : Austria PL : Poland P : Portugal RO : Romania SLO : Slovenia SK : Slovakia FIN : Finland S : Sweden UK : The United Kingdom (also being the distinguishing sign for the purposes of cards issued by Gibraltar given that the United Kingdom is the Member State responsible for Gibraltar’s external affairs);
 
 (d) information specific to the card, numbered as follows
 
@@ -100,9 +100,7 @@ yrkeskompetensbevis för förare;
 
 (f) the reference colours
 
-- blue : Pantone Reflex blue,
-
-- yellow : Pantone yellow;
+- blue : Pantone Reflex blue, - yellow : Pantone yellow;
 
 Side 2 contains:
 
