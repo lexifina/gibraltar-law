@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1987/145 S
 
 2020/213 rr. 5(3)-(4), 6(1)-(2), 9(1A)-(1B), (4), 11(1)-(2), 11B, Schs.1-2, 7
 
-30.6.2020 2020/310 Sch.2 11.9.2020 2021/179 Sch.1 12.3.2021 2022/007 Sch.1 1.2.2022 2022/082 Sch.1 30.3.2022 2022/141 Sch.1 1.6.2022 2022/347 Sch.1 1.1.2023 2023/055 Sch.1 16.3.2023 2023/154 Sch.1 8.6.2023 “ Sch.1 1.7.2023 Act.2023-20 Schs.1-2 27.7.2023 LN.2025/215 Sch.1 30.6.2025
+30.6.2020 2020/310 Sch.2 11.9.2020 2021/179 Sch.1 12.3.2021 2022/007 Sch.1 1.2.2022 2022/082 Sch.1 30.3.2022 2022/141 Sch.1 1.6.2022 2022/347 Sch.1 1.1.2023 2023/055 Sch.1 16.3.2023 2023/154 Sch.1 8.6.2023 “ Sch.1 1.7.2023 Act.2023-20 Schs.1-2 27.7.2023 LN.2025/215 Sch.1 30.6.2025 2026/160 Sch.1 15.7.2026 2026/174 Sch.1 15.7.2026
 
 Transposing: Directive 92/3/Euratom
 
@@ -44,9 +44,7 @@ Saving.
 
 SCHEDULE 1. Prohibited imports.
 
-SCHEDULE 2.
-
-Goods the importation of which is not licensed under regulation 3.
+SCHEDULE 2. Goods the importation of which is not licensed under regulation 3.
 
 SCHEDULE 3. Conditions of import licences.
 
@@ -122,9 +120,7 @@ Conditions of import licences.
 
 Circumstances in which goods may be forfeit.
 
-6A.  Where in respect of any ship, as defined in the Act, or any vessel, as defined in the Seaside Pleasure Boats Rules 1989 made under the Public Health Act, which is liable to duty the
-
-Collector of Customs is not satisfied that duty has been paid and the ship or vessel, as the case may be, is in Gibraltar the ship or vessel, as the case may be, shall be forfeit to the Crown whether or not any person is charged with any offence in connection with the ship or vessel and in such circumstances section 119(2) shall apply as if for the reference therein to subsection (1) there is substituted reference to this regulation:
+6A.  Where in respect of any ship, as defined in the Act, or any vessel, as defined in the Seaside Pleasure Boats Rules 1989 made under the Public Health Act, which is liable to duty the Collector of Customs is not satisfied that duty has been paid and the ship or vessel, as the case may be, is in Gibraltar the ship or vessel, as the case may be, shall be forfeit to the Crown whether or not any person is charged with any offence in connection with the ship or vessel and in such circumstances section 119(2) shall apply as if for the reference therein to subsection (1) there is substituted reference to this regulation:
 
 Provided that this regulation shall not apply where the Collector of Customs is satisfied that the ship or vessel, as the case may be, entered territorial waters only for the purpose of maintaining safety at sea and the ship or vessel is surrendered to the custody of the Collector until such time as the ship or vessel leaves territorial waters, being a period of time no longer than is in the opinion of the Collector, acting on the advice of the Captain of the Port, necessary for safety purposes.
 
