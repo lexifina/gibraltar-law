@@ -58,9 +58,9 @@ Regs. of 28.5.1970
 
 Acts 1971-02 s. 282
 
-1972-05 ss.13(12), 21(3), 25(3), 29(2), 30(3), 31(2), 32, 33(6), 37(4), 38(1), 39(2), 40(4), 41(2), 42(2), 43(2), 55(2), 61(3), 65(2), 66(3), 72(2), 77(1),
+1972-05 ss.13(12), 21(3), 25(3), 29(2), 30(3), 31(2), 32, 33(6), 37(4), 38(1), 39(2), 40(4), 41(2), 42(2), 43(2), 55(2), 61(3), 65(2), 66(3), 72(2), 77(1), 78(2), 83(2), 84(1), 94, 111, 124, 126(1), 127, 128(1), 129, 130(1), 131(2), 141, 143(4), 144(2),
 
-78(2), 83(2), 84(1), 94, 111, 124, 126(1), 127, 128(1), 129, 130(1), 131(2), 141, 143(4), 144(2), 147, 154(2), 156(1), 157, 158(1), 159(3), 160(4), 163(3), 164, 165, 170(3), 173(4), 174(2), 190, 207, 233, 253(2), 254(2), 257, 259(2), 261(2)- (3), 263(3), 314, 321, 322(2), 330(6) 1973-08 –
+147, 154(2), 156(1), 157, 158(1), 159(3), 160(4), 163(3), 164, 165, 170(3), 173(4), 174(2), 190, 207, 233, 253(2), 254(2), 257, 259(2), 261(2)- (3), 263(3), 314, 321, 322(2), 330(6) 1973-08 –
 
 1973-18 s. 242
 
@@ -106,9 +106,11 @@ Acts 1971-02 s. 282
 
 1983-32 –
 
-1985-03 s. 280 24.1.1985 1985-04 Sch. 2 1.4.1985 1985-14 s. 294, Sch. 4 26.4.1985 “ s. 272(5) 1.7.1985 1986-08 s. 279 1.5.1986 “ Sch. 1 1.6.1986 1987-09 ss. 301A, 302, 302A, 303(5), 306(2) 19.2.1987 “ ss. 272(4) and 297(1A) 1.4.1987 1987-34 ss. 2, 72-74, 87, 144, 149-152, 155-158, 160, 162- 163, 167-168, 168, 173(3), 174, 178(1), (1A),
+1985-03 s. 280 24.1.1985 1985-04 Sch. 2 1.4.1985 1985-14 s. 294, Sch. 4 26.4.1985 “ s. 272(5) 1.7.1985 1986-08 s. 279 1.5.1986 “ Sch. 1 1.6.1986 1987-09 ss. 301A, 302, 302A, 303(5), 306(2) 19.2.1987 “ ss. 272(4) and 297(1A) 1.4.1987 1987-34 ss. 2, 72-74, 87, 144, 149-152, 155-158, 160, 162- 163, 167-168, 168, 173(3), 174, 178(1), (1A), 182-185, 187-188, 190, 193-195, 197-204, 223- 226, 228-230, 235,
 
-182-185, 187-188, 190, 193-195, 197-204, 223- 226, 228-230, 235, 1.2.1988 “ s. 178(1), (1A), (2) 31.3.1988 1988-07 ss. 110, 213A 23.6.1988 “ s. 272(3) 1.7.1988 1988-36 ss. 117(2), 271(1), 272A, 275, 289(2)-(3), 291(2), 294(4), 297(1), (1A), 300(1)
+1.2.1988 “ s. 178(1), (1A), (2) 31.3.1988 1988-07 ss. 110, 213A 23.6.1988
+
+“ s. 272(3) 1.7.1988 1988-36 ss. 117(2), 271(1), 272A, 275, 289(2)-(3), 291(2), 294(4), 297(1), (1A), 300(1)
 
 15.12.1988 1989-21 s. 218(1)(b) 1.7.1989 1989-37 s. 48(5) 21.12.1989 1990-11 ss. 271(3), 273(1)-(2), (3)(a)-(b), (3)(d)-(f), (6), 279(j), 282(1), 294(4)
 
@@ -120,11 +122,11 @@ Acts 1971-02 s. 282
 
 3.12.1994 1995/003 Sch. 1 1.2.1995 1995/008 ss. 69(1)(b)-(c), 70(f)-(g) 18.2.1995 1995/092 ss. 98A-98S. 15.6.1995 1991-12 ss. 42(1), 45(2)(b)-(c) 17.8.1995 1995/117 ss. 192A-192H, 192J-192N, 192P-192W, Schs. 12- 17
 
-1.9.1995 1995/154 ss. 180A-180H, 180J-180N, 180P- 180X 8.1.1996
+1.9.1995 1995/154 ss. 180A-180H, 180J-180N, 180P- 180X 8.1.1996 1996/020 ss. 5(1)-(3), 13(1) 1.3.1996 Act. 1997-02 ss. 192A, 192B(1), (2)(bb), (4), 192D(2)(c), 192KA-192KB, 192L(aa), 192M(2)(e), 320(1)(aa), Sch.11A
 
-1996/020 ss. 5(1)-(3), 13(1) 1.3.1996 Act. 1997-02 ss. 192A, 192B(1), (2)(bb), (4), 192D(2)(c), 192KA-192KB, 192L(aa), 192M(2)(e), 320(1)(aa), Sch.11A
+1.6.1997 1997-03 ss. 93A-93F, Schs. 5A-5G 1.6.1997
 
-1.6.1997 1997-03 ss. 93A-93F, Schs. 5A-5G 1.6.1997 1997-30 ss. 270, 277A, 289 1.7.1997 1997-25 ss. 2, 144, 149-150, 162-163, 168, 173(3), 174, 196, 203, 229-230.
+1997-30 ss. 270, 277A, 289 1.7.1997 1997-25 ss. 2, 144, 149-150, 162-163, 168, 173(3), 174, 196, 203, 229-230.
 
 21.8.1997 1997-30 ss. 271(4), 279(i),293(3) 1.7.1998 1998-32 ss. 192A, 192B(bbb), 192D(2)(d), 192JA. 13.8.1998 1999-02 Sch. 12 25.3.1999 1999-11 s. 250(4). 6.5.1999 1999-24 Sch. 3 1.7.1999 2000-12 ss. 192A, 192B(2), 192J(1), 192J(3)-(4), 192L(2)- (6).
 
@@ -136,9 +138,9 @@ Acts 1971-02 s. 282
 
 20.4.2006 2007-23 ss. 117(7), 272(5), 277A 1.7.2006 2006-27 s. 95S(1) 9.11.2006 2007-23 Sch. 3 1.1.2007 2007-17 ss. 242-243, 271(3), 272(1)-(2), (4), 273(3), (7), 274(1)-(2), 275, 277(6), 282(1), 284(2)-(3), 289(1), (3), 293(4)-(6), 294(4), 296, 297(1), (3), 298(1), 299(1)-(3), 300(1), 301(1), 302(4), 302A(2), (5), 303(1)-(5), 308(4)
 
-14.6.2007 2007-23 s. 19(1)(b) 28.6.2007 2009-36 s. 277A 1.7.2009 LN. 2010/092 s. 76(1)(b) 13.5.2010 Act. 2010-19 s. 277A(a)-(c), Sch. 3 1.7.2010
+14.6.2007 2007-23 s. 19(1)(b) 28.6.2007 2009-36 s. 277A 1.7.2009 LN. 2010/092 s. 76(1)(b) 13.5.2010 Act. 2010-19 s. 277A(a)-(c), Sch. 3 1.7.2010 LN. 2011/052 ss. 192A, 192B(2)(bb), (e), (3), (3A), 192BA, 192C(3a) (aa)-(ac), (4)(a)-(d), 192D(2)(a)(ii), (1A), (2)(c)(iii), (iv), (3), (6), (6A), (8)(a)-(d), (9)- (10), 192DA, 192E(2), 192G-192H, 192KA(8). (8A)-(8B), 192KB-192KC, 192L, 192M(1), (1A)- (1C), (2)-(3), 192MA-192MC, 192U, 192W(1),
 
-LN. 2011/052 ss. 192A, 192B(2)(bb), (e), (3), (3A), 192BA, 192C(3a) (aa)-(ac), (4)(a)-(d), 192D(2)(a)(ii), (1A), (2)(c)(iii), (iv), (3), (6), (6A), (8)(a)-(d), (9)- (10), 192DA, 192E(2), 192G-192H, 192KA(8). (8A)-(8B), 192KB-192KC, 192L, 192M(1), (1A)- (1C), (2)-(3), 192MA-192MC, 192U, 192W(1), (3), 192X-192Y, Schs. 11A-11B, 12-14, 14A- 14C, 15
+(3), 192X-192Y, Schs. 11A-11B, 12-14, 14A- 14C, 15
 
 12.4.2011 Act. 2011-10 ss. 2, 36(2), 44-45, 47, 48(5)(a), 52, 54, 62(2), 63(1), 70, 76(2), 85(1)(a), 93(1), 94(1)(c), 95(1)- (3), 98C, 140(1), 143(3), 146, 152,(1), (5), 161, 174(1), 180, 192(5), 192J(5), 192N(1), 192W(1), 208(1), 211(1), 213, 213A, 214(1), 218(1), 219(1), 227, 236(1), 237(4), 238-239, 241-245, 264, 265(2)-(3), 269(a), 279(k), 290(1), (4), 305(1), 316(2), 319, 320(7), 323(3), 336, 337, (d), Sch. 5G
 
@@ -146,31 +148,33 @@ LN. 2011/052 ss. 192A, 192B(2)(bb), (e), (3), (3A), 192BA, 192C(3a) (aa)-(ac), (
 
 27.10.2011 2011/226 ss. 98A, 98M(1), 98PA-98PB 3.11.2011 LN. 2013/010 s. 98A(1) 31.1.2012 Act. 2013-06 ss. 277A(b)-(c), 277C 1.7.2012 2012-07 s. 277B 1.10.2012 2013-06 ss. 277B(1)(a), (2) 1.10.2012 LN. 2013/042 ss. 192A(1), 192B(2)(bbb), 192D(11), Schs. 5A-5G 28.2.2013 2014/008 Sch. 6 15.2.2014 Act. 2014-18 ss. 269 12.6.2014 2014-27 s. 252A 23.10.2014 LN. 2015/078 ss. 95A(1), (3), (4), (7), 95B(1), (3), 95D, 95DA, 95E-95F, 95G(2), 95H, 95I(1)-(2), 95L(1), 95M, 95N(2), (4), 95O(3)(a)-(b), 95R(2A), (3), (3A)- (3B), (4), 95T-95U, Schs. 6, 8-10, 10A-10B, 11
 
-1.6.2015 2015/204 ss. 99(1), 110A 12.11.2015 2016/098 Sch. 13 31.7.2016 Act. 2017-01 ss. 39(1), 192A(1), 192C(3)(a), 192D(2)(a)(iv), (2)(d), (4)(e), (f)(ii), (g), (6A), (7A), (8), (11),
+1.6.2015 2015/204 ss. 99(1), 110A 12.11.2015 2016/098 Sch. 13 31.7.2016 Act. 2017-01 ss. 39(1), 192A(1), 192C(3)(a), 192D(2)(a)(iv), (2)(d), (4)(e), (f)(ii), (g), (6A), (7A), (8), (11), 192E(1A), (6), (6A), (9), 192JA, 192KB(4),(7), 192KC(2), 192P, 192Q(3), (5A)-(5C), (6), (7)(b)
+
+23.2.2017 2018-14 ss. 273(3)(b), 279(j) 16.8.2018 2019-15 ss. 95QA, 95S(1) 10.6.2019 2018-19 ss. 192V(b), 273(4) 26.9.2019 LN. 2020/226 ss. 192A(1)-(3), 192B(3)(g)(v), 192BA(1)-(2), (2A)-(2B), (3)-(4), 192(3)(ab)-(ae), (4)(a)-(c),
 
 1Commencement Notice LN. 2011/076
 
-192E(1A), (6), (6A), (9), 192JA, 192KB(4),(7), 192KC(2), 192P, 192Q(3), (5A)-(5C), (6), (7)(b)
-
-23.2.2017 2018-14 ss. 273(3)(b), 279(j) 16.8.2018 2019-15 ss. 95QA, 95S(1) 10.6.2019 2018-19 ss. 192V(b), 273(4) 26.9.2019 LN. 2020/226 ss. 192A(1)-(3), 192B(3)(g)(v), 192BA(1)-(2), (2A)-(2B), (3)-(4), 192(3)(ab)-(ae), (4)(a)-(c), 192KC(3), 192L(1), (a), (aa), 192M(1B)(b)-(c), (ca)-(cb), (f)-(g), (2), 192MA(1)-(4), 192MC, 192W, Schs. 11B-11C, 13, 14A-14C
+192KC(3), 192L(1), (a), (aa), 192M(1B)(b)-(c), (ca)-(cb), (f)-(g), (2), 192MA(1)-(4), 192MC, 192W, Schs. 11B-11C, 13, 14A-14C
 
 18.6.2020 2019/216 ss. 98D-98F, 98H-98J, 98M(1), 98N(1), 98O, 98PA(2)-(3), 98PB(1)(a), 98Q, 98R(1), 98U(1), 98W(1)-(2), 98X(1)(a)-(b), (2), 98Z(1)(a), (2), 98ZA(1)(a), 98ZB(1)(a), 98ZC(1), 98ZX, Sch. 19
 
 1.1.2021 2020/531 ss. 192A(1), 192B(3)(g), 192BA(2)-(3), 192C(3)(c)(i), 192DA(5), 192JC(1), 192JD(1)- (3), 192KA(8), (8A), 192M(1B)(b), 192U, 192W(1), 192X-192Y
 
-1.1.2021 Act. 2021-20 ss. 92A, 93(3), Sch. 21 30.7.2021 2023-11 s. 218(3) 15.1.2024 2024-17 ss. 180A-180X 23.12.2024 2024-29 ss. 95A-95U, Schs. 6-11 23.12.2024
+1.1.2021 Act. 2021-20 ss. 92A, 93(3), Sch. 21 30.7.2021 2023-11 s. 218(3) 15.1.2024 2024-17 ss. 180A-180X 23.12.2024 2024-29 ss. 95A-95U, Schs. 6-11 23.12.2024 LN. 2026/162 ss. 98A(1)-(2), 98AB, 98B(3), 98DA-98DB, 98I(3)(a), (4), 98J, 98K, 98KA, 98L(b)-(c), 98LA, 98M(2)(e)(i), (4)-(5), 98N(3)-(4), 98O, 98P(2)(a)- (c), 98PA(1)-(2), 98PAA-98PAB, 98S(c)-(e), 98T, 98U(3), 98W(3), 98X(3), 98Y(3), 98YA, 98ZE(2)(a), (e), (g), 98ZF(2)(a)-(b), 98ZG(2)(a)- (c), 98ZH(2), 98ZI(2)(b)-(d), 98ZK(b), 98ZL(2)(a), (c), 98ZLA-98ZLC, 98ZN(a)-(c), Sch. 20-21
+
+15.7.2026 2026/173 s. 98ZX(b) 15.7.2026
 
 Power to depute: The power to depute conferred by s.41 of the Interpretation and General Clauses Act has been extended to the Accountant General in relation to the Public Health Act.
 
-English sources: Waterworks Clauses Act  1847 (10 & 11 Vict. c.17) Towns Improvement Clauses Act 1847 (10 & 11 Vict. c.34) Poor Rate Assessment and Collection Act 1869 (32 & 33 Vict. c.41) Public Health Act 1875 (38 & 39 Vict. c.55) Public Health Acts Amendment Act 1890 (53 & 54 Vict. c.59) Public Health (London) Act 1891 (54 & 55 Vict. c.76) Public Health Acts Amendment Act 1907 (7 Edw.7 c.53) Venereal Diseases Act 1917 (7 & 8 Geo.5 c.21) Public Health Act 1925 (15 & 16 Geo.5 c.71) Rating and Valuation Act 1925 (15 & 16 Geo.5 c.90) Road Traffic Act 1930 (20 & 21 Geo.5 c.43) Public Health Act 1836 (26 Geo.5 & 1 Edw.8 c.49) Housing Act 1936 (26 Geo.5 & 1 Edw.8 c.51) Water Act 1945 (8 & 9 Geo.6 c.42) Local Government Act 1948 (11 & 12 Geo.6 c.26)
+English sources: Waterworks Clauses Act  1847 (10 & 11 Vict. c.17) Towns Improvement Clauses Act 1847 (10 & 11 Vict. c.34) Poor Rate Assessment and Collection Act 1869 (32 & 33 Vict. c.41) Public Health Act 1875 (38 & 39 Vict. c.55) Public Health Acts Amendment Act 1890 (53 & 54 Vict. c.59) Public Health (London) Act 1891 (54 & 55 Vict. c.76) Public Health Acts Amendment Act 1907 (7 Edw.7 c.53) Venereal Diseases Act 1917 (7 & 8 Geo.5 c.21) Public Health Act 1925 (15 & 16 Geo.5 c.71) Rating and Valuation Act 1925 (15 & 16 Geo.5 c.90) Road Traffic Act 1930 (20 & 21 Geo.5 c.43) Public Health Act 1836 (26 Geo.5 & 1 Edw.8 c.49) Housing Act 1936 (26 Geo.5 & 1 Edw.8 c.51)
 
-Veterinary Surgeons Act 1959 (11 & 12 Geo.6 c.52) National Assistance Act 1959 (7 & 8 Eliz.2 c.52) Noise Abatement Act 1960 (8 & 9 Eliz.2 c.68) Public Health Act 1961 (9 & 10 Eliz.2 c.64)
+Water Act 1945 (8 & 9 Geo.6 c.42) Local Government Act 1948 (11 & 12 Geo.6 c.26) Veterinary Surgeons Act 1959 (11 & 12 Geo.6 c.52) National Assistance Act 1959 (7 & 8 Eliz.2 c.52) Noise Abatement Act 1960 (8 & 9 Eliz.2 c.68) Public Health Act 1961 (9 & 10 Eliz.2 c.64)
 
 Transposing:
 
-Directive 67/548/EEC Directive 75/439/EEC Directive 75/442/EEC Directive 75/716/EEC Directive 76/464/EEC Directive 78/319/EEC Directive 78/631/EEC Directive 79/831/EEC Directive 80/68/EEC Directive 80/778/EEC Directive 80/876/EEC Directive 85/337/EEC Directive 87/101/EEC Directive 88/379/EEC Directive 89/369/EEC Directive 89/429/EEC Directive 90/219/EEC Directive 90/220/EEC Directive 91/156/EEC Directive 91/l57/EEC Directive 91/271/EEC Directive 91/689/EEC Directive 91/692/EEC Directive 93/86/EEC Directive 94/15/EEC Directive 94/31/EC Directive 94/51/EEC Directive 94/67/EC Directive 96/59/EC Directive 96/61/EC Directive 96/82/EC Directive 98/83/EC Directive 1999/45/EC Directive 2000/60/EC Directive 2000/76/EC Directive 2001/80/EC Directive 2003/35/EC Directive 2003/105/EC Directive 2004/35/EC Directive 2004/113/EC Directive 2006/12/EC
+Directive 67/548/EEC Directive 75/439/EEC Directive 75/442/EEC Directive 75/716/EEC Directive 76/464/EEC Directive 78/319/EEC Directive 78/631/EEC Directive 79/831/EEC Directive 80/68/EEC Directive 80/778/EEC Directive 80/876/EEC Directive 85/337/EEC Directive 87/101/EEC Directive 88/379/EEC Directive 89/369/EEC Directive 89/429/EEC Directive 90/219/EEC Directive 90/220/EEC Directive 91/156/EEC Directive 91/l57/EEC Directive 91/271/EEC Directive 91/689/EEC Directive 91/692/EEC Directive 93/86/EEC Directive 94/15/EEC Directive 94/31/EC Directive 94/51/EEC Directive 94/67/EC Directive 96/59/EC Directive 96/61/EC Directive 96/82/EC Directive 98/83/EC Directive 1999/45/EC Directive 2000/60/EC Directive 2000/76/EC Directive 2001/80/EC Directive 2003/35/EC Directive 2003/105/EC Directive 2004/35/EC Directive 2004/113/EC Directive 2006/12/EC Directive 2006/66/EC
 
-Directive 2006/66/EC Directive 2008/1/EC Directive 2008/99/EC Directive 2009/31/EC Directive 2012/18/EU Directive 2015/1127/EU Directive (EU) 2018/851
+Directive 2008/1/EC Directive 2008/99/EC Directive 2009/31/EC Directive 2012/18/EU Directive 2015/1127/EU Directive (EU) 2018/851
 
 Implementing: Regulation (EC) No 1013/2006 Regulation (EC) No. 1418/2007
 
@@ -208,9 +212,9 @@ Provisions with respect to buildings.
 
 Rules with respect to buildings and sanitation.
 
-44. Rules for the construction of buildings. 45. Rules as to buildings and sanitation. 46. Application of certain rules to existing buildings. 47. Power of Government to relax requirements of rules.
+44. Rules for the construction of buildings. 45. Rules as to buildings and sanitation. 46. Application of certain rules to existing buildings. 47. Power of Government to relax requirements of rules. 48. Passing or rejection of plans, and power to retain plans, etc.
 
-48. Passing or rejection of plans, and power to retain plans, etc. 49. Power to require removal or alteration of work not in conformity with rules, or executed notwithstanding rejection of plans, etc. 50. Deposit of plans to be of no effect after certain interval. 51. Determination of question by the magistrates’ court. 52. Temporary operation of building rules. 53. Exemption of certain buildings from building rules. 54. Buildings, etc., not to be erected without Governor’s consent. 55. Restriction on the letting of new buildings.
+49. Power to require removal or alteration of work not in conformity with rules, or executed notwithstanding rejection of plans, etc. 50. Deposit of plans to be of no effect after certain interval. 51. Determination of question by the magistrates’ court. 52. Temporary operation of building rules. 53. Exemption of certain buildings from building rules. 54. Buildings, etc., not to be erected without Governor’s consent. 55. Restriction on the letting of new buildings.
 
 Removal of refuse, scavenging, keeping of animals, etc.
 
@@ -222,9 +226,7 @@ Filthy or verminous premises or articles, and verminous persons.
 
 Public sanitary conveniences.
 
-76. Provision of public conveniences. 77. Control over conveniences in, or accessible from, streets.
-
-78. Power to require sanitary conveniences to be provided at inns, refreshment houses, etc.
+76. Provision of public conveniences. 77. Control over conveniences in, or accessible from, streets. 78. Power to require sanitary conveniences to be provided at inns, refreshment houses, etc.
 
 PART II. NUISANCES AND OFFENSIVE TRADES AND TRADES LIKELY TO GIVE RISE TO MAJOR ACCIDENT HAZARDS.
 
@@ -260,7 +262,7 @@ PART IIB - Transfrontier Shipment of Waste
 
 Introduction
 
-98A. Interpretation of Part IIB. 98B. Scope of this Part. 98C. Meaning of transport and person who transports waste. 98D. Competent authorities of despatch and destination. 98E. Correspondent authority of transit. 98F. Repealed. 98G. Notices. 98H. Repealed.
+98A. Interpretation of Part IIB. 98AB. Meaning of the 2024 Regulation. 98B. Scope of this Part. 98C. Meaning of transport and person who transports waste. 98D. Competent authorities of despatch and destination. 98DA. Competent authority: additional functions. 98DB. Designation of correspondents. 98E. Correspondent authority of transit. 98F. Repealed. 98G. Notices. 98H. Repealed.
 
 Gibraltar Plans for Shipments of Waste
 
@@ -268,7 +270,7 @@ Gibraltar Plans for Shipments of Waste
 
 General requirements for shipment of waste
 
-98K. Protection of the environment. 98L. Compliance with notification etc.
+98K. Environmentally sound management. 98KA. Environmentally sound management: additional duties. 98L. Compliance with notification etc. 98LA. Electronic submission of information.
 
 Shipment of waste between Gibraltar and EU countries
 
@@ -278,11 +280,11 @@ Export of waste to non-EU countries
 
 98O. Prohibition on export of waste for disposal other than to EFTA countries. 98P. Requirements for export of waste for disposal to EFTA countries. 98PA.  Requirements for export of waste listed in Annex III or IIIA to non-EU, non-OECD Decision countries.
 
-98PB.  Requirements for export of waste classified under more than one entry in Annex III etc. to non-EU, non-OECD Decision countries. 98Q. Prohibition on export of certain waste for recovery to non-EU non-OECD Decision countries. 98R. Requirements for export of waste for recovery to non-EU OECD Decision countries. 98S. Miscellaneous prohibitions on export of waste.
+98PAA. Prohibition on export of non-hazardous waste to non-OECD countries. 98PAB. Prohibition on export of plastic waste to non-OECD countries. 98PB.  Requirements for export of waste classified under more than one entry in Annex III etc. to non-EU, non-OECD Decision countries. 98Q. Prohibition on export of certain waste for recovery to non-EU non-OECD Decision countries. 98R. Requirements for export of waste for recovery to non-EU OECD Decision countries. 98S. Miscellaneous prohibitions on export of waste.
 
 Import of waste from third countries
 
-98T. Prohibition on the import of waste for disposal. 98U. Procedure for import of waste for disposal from a non-EU country Party to the Basel Convention. 98V. Prohibition on import of waste for recovery. 98W. Requirements for import of waste for recovery from or through a non-EU OECD Decision country. 98X. Requirements for import of waste for recovery from a non-EU, non-OECD Decision country Party to the Basel Convention. 98Y. Requirements for import of waste from overseas countries or territories.
+98T. Prohibition on the import of waste for disposal. 98U. Procedure for import of waste for disposal from a non-EU country Party to the Basel Convention. 98V. Prohibition on import of waste for recovery. 98W. Requirements for import of waste for recovery from or through a non-EU OECD Decision country. 98X. Requirements for import of waste for recovery from a non-EU, non-OECD Decision country Party to the Basel Convention. 98Y. Requirements for import of waste from overseas countries or territories. 98YA. Obligations of competent authority of destination.
 
 Transit of waste
 
@@ -290,9 +292,9 @@ Transit of waste
 
 Additional duties
 
-98ZD. Illegal shipments of waste brought to a facility. 98ZE. Duties on operators of facilities in respect of notifiable waste. 98ZF. Interim recovery or disposal operations. 98ZG. Duties on operators of facilities in respect of waste subject to general information requirements. 98ZH. Duties on consignees in respect of notifiable waste. 98ZI. Duties on consignees in respect of waste subject to general information requirements. 98ZJ. Duties on laboratories. 98ZK. Notifier’s duty to keep documents. 98ZL. Duties on persons who arrange the shipment of waste. 98ZM. Charges by the competent authority etc.. 98ZN. Costs of take-back etc. 98ZO. Approval of a financial guarantee.
+98ZD. Illegal shipments of waste brought to a facility. 98ZE. Duties on operators of facilities in respect of notifiable waste. 98ZF. Interim recovery or disposal operations. 98ZG. Duties on operators of facilities in respect of waste subject to general information requirements. 98ZH. Duties on consignees in respect of notifiable waste. 98ZI. Duties on consignees in respect of waste subject to general information requirements. 98ZJ. Duties on laboratories. 98ZK. Notifier’s duty to keep documents. 98ZL. Duties on persons who arrange the shipment of waste. 98ZLA. Duties on carriers.
 
-98ZP. Supply of the financial guarantee. 98ZQ. Enforcement powers. 98ZR. Compliance with notices. 98ZS. Obstruction. 98ZT. Falsely obtaining consent etc. 98ZU. Offences by bodies corporate. 98ZV. Acts of third parties. 98ZX. Penalties.
+98ZLB. Enhanced inspection plans. 98ZLC. Penalties for infringement. 98ZM. Charges by the competent authority etc.. 98ZN. Costs of take-back etc. 98ZO. Approval of a financial guarantee. 98ZP. Supply of the financial guarantee. 98ZQ. Enforcement powers. 98ZR. Compliance with notices. 98ZS. Obstruction. 98ZT. Falsely obtaining consent etc. 98ZU. Offences by bodies corporate. 98ZV. Acts of third parties. 98ZX. Penalties.
 
 PART III. WATER SUPPLY.
 
@@ -306,9 +308,9 @@ Potable water.
 
 Salt water.
 
-115. Duty of Government to provide water for fire-fighting purposes. 116. Power to require premises to be provided with sufficient salt water. 117. Salt water rate. 118. Liability to salt water rates where buildings supplied by common pipe. 119. Power to make agreed charges for salt water supplies. 120. Power to charge by meter for supply to certain premises and for certain purposes.
+115. Duty of Government to provide water for fire-fighting purposes. 116. Power to require premises to be provided with sufficient salt water.
 
-121. When supply may be cut off.
+117. Salt water rate. 118. Liability to salt water rates where buildings supplied by common pipe. 119. Power to make agreed charges for salt water supplies. 120. Power to charge by meter for supply to certain premises and for certain purposes. 121. When supply may be cut off.
 
 Provisions for preventing waste, etc., of water and as to meters and other fittings.
 
@@ -358,9 +360,7 @@ PART V. DESTRUCTION OF RATS AND MICE.
 
 PART VA WASTE.
 
-192A. Interpretation.
-
-192B. Application of Part VA and Schedules 11A to 18. 192BA.  End-of-waste status. 192C. Competent authority. 192D. Waste licences. 192DA. Exemption from requirement for a licence. 192E. Registration of certain establishments and undertakings. 192F. Duty of holders. 192G. Repealed. 192H. Repealed. 192J. Provisions as to PCBs. 192JA.  Provisions as to specific hazardous waste. 192JB. Waste batteries and waste accumulators. 192JC.  Reporting of recycling efficiencies. 192JD.  Export of waste batteries and accumulators. 192K. Repealed. 192KA. Meaning of hazardous waste. 192KB. Provisions as to hazardous waste. 192KC. Exemptions for household waste. 192L. Duty to keep records. 192M. Waste management plan. 192MA. Waste prevention programmes. 192MB. Evaluation and review of plans and programmes. 192MC. Bio-waste. 192N. Power to encourage waste reduction. 192P. Publicity. 192Q. Procedures for licence application. 192R. Charges by the Government etc. 192S. Offences by corporations etc. 192T. Defences. 192U. Deleted. 192V. Savings in respect of other provisions. 192W. Rules. 192X.  Deleted. 192Y.  Deleted.
+192A. Interpretation. 192B. Application of Part VA and Schedules 11A to 18. 192BA.  End-of-waste status. 192C. Competent authority. 192D. Waste licences. 192DA. Exemption from requirement for a licence. 192E. Registration of certain establishments and undertakings. 192F. Duty of holders. 192G. Repealed. 192H. Repealed. 192J. Provisions as to PCBs. 192JA.  Provisions as to specific hazardous waste. 192JB. Waste batteries and waste accumulators. 192JC.  Reporting of recycling efficiencies. 192JD.  Export of waste batteries and accumulators. 192K. Repealed. 192KA. Meaning of hazardous waste. 192KB. Provisions as to hazardous waste. 192KC. Exemptions for household waste. 192L. Duty to keep records. 192M. Waste management plan. 192MA. Waste prevention programmes. 192MB. Evaluation and review of plans and programmes. 192MC. Bio-waste. 192N. Power to encourage waste reduction. 192P. Publicity. 192Q. Procedures for licence application. 192R. Charges by the Government etc. 192S. Offences by corporations etc. 192T. Defences. 192U. Deleted. 192V. Savings in respect of other provisions. 192W. Rules. 192X.  Deleted. 192Y.  Deleted.
 
 PART VI. VACCINATION AND IMMUNIZATION.
 
@@ -386,9 +386,9 @@ Cellar dwellings.
 
 Common lodging-houses.
 
-222. Definition of “common lodging-house”. 223. No person to keep a common lodging-house unless registered in respect thereof. 224. Register of common lodging-house keepers and their houses. 225. Provisions with respect to registration. 226. Appeals against refusal of registration. 227. Rules as to common lodging-houses.
+222. Definition of “common lodging-house”. 223. No person to keep a common lodging-house unless registered in respect thereof. 224. Register of common lodging-house keepers and their houses. 225. Provisions with respect to registration. 226. Appeals against refusal of registration. 227. Rules as to common lodging-houses. 228. Management and control of common lodging-houses.
 
-228. Management and control of common lodging-houses. 229. Duty of keeper of common lodging-house to notify cases of infectious disease. 230. Power of justice to order medical examination of inmates of common lodging-house. 231. Power to remove to hospital inmate of common lodging-house suffering from a notifiable disease. 232. Power of court to order closing of common lodging-house on account of notifiable disease. 233. Offences in connection with common lodging-houses. 234. Power of court on conviction to cancel registration and to disqualify for re- registration. 235. Evidence in legal proceedings under Part VIII.
+229. Duty of keeper of common lodging-house to notify cases of infectious disease. 230. Power of justice to order medical examination of inmates of common lodging-house. 231. Power to remove to hospital inmate of common lodging-house suffering from a notifiable disease. 232. Power of court to order closing of common lodging-house on account of notifiable disease. 233. Offences in connection with common lodging-houses. 234. Power of court on conviction to cancel registration and to disqualify for re- registration. 235. Evidence in legal proceedings under Part VIII.
 
 Dwelling houses.
 
@@ -400,9 +400,9 @@ Tents, vans, caravans, sheds, etc.
 
 PART IX. PUBLIC HIGHWAYS, ETC.
 
-238. Duty of Government to maintain public highways. 239. Deleted. 240. Provisions as to extraordinary traffic. 241. The Government may declare streets to be public highways. 242. Deleted. 243. Power to purchase lands. 244. Government to pave and repair public highways, etc. 245. Lighting of streets. 246. Refuges, etc., in streets. 247. Shelters. 248. Statues and monuments. 249. Street bins. 250. Seats, etc., in streets. 251. Government may embellish streets. 252. Power to alter names of streets. 252A. Regulations. 253. Power to grant licences for bridges over streets. 254. Restriction on placing rails, beams, wires, etc., over streets. 255. Lopping of trees overhanging highways.
+238. Duty of Government to maintain public highways. 239. Deleted. 240. Provisions as to extraordinary traffic. 241. The Government may declare streets to be public highways. 242. Deleted. 243. Power to purchase lands. 244. Government to pave and repair public highways, etc. 245. Lighting of streets. 246. Refuges, etc., in streets. 247. Shelters. 248. Statues and monuments. 249. Street bins. 250. Seats, etc., in streets. 251. Government may embellish streets. 252. Power to alter names of streets. 252A. Regulations. 253. Power to grant licences for bridges over streets. 254. Restriction on placing rails, beams, wires, etc., over streets. 255. Lopping of trees overhanging highways. 256. Repair of cellars, etc., under streets. 257. Unauthorized disturbance of street.
 
-256. Repair of cellars, etc., under streets. 257. Unauthorized disturbance of street. 258. Penalty for leaving litter, etc. 259. Breaking open of streets. 260. Damage to footway to be made good. 261. Lighting and fencing building materials and excavations. 262. Dangerous places to be repaired or enclosed. 263. Precautions during repairs, erection of bars and placing of lights. 264. Government authorized to take stone.
+258. Penalty for leaving litter, etc. 259. Breaking open of streets. 260. Damage to footway to be made good. 261. Lighting and fencing building materials and excavations. 262. Dangerous places to be repaired or enclosed. 263. Precautions during repairs, erection of bars and placing of lights. 264. Government authorized to take stone.
 
 PART X. RECREATION GROUNDS, ETC.
 
@@ -412,9 +412,9 @@ PART XI. RATING AND VALUATION.
 
 Rating.
 
-270. Interpretation of Part XI. 271. Levy of and provisions as to general rates. 272. Operation and incidence of rate. 272A. Owner’s liability if occupier in default. 273. Liability to be rated in respect of certain unoccupied property. 274. Amendment of rate. 275. When rates due and payable. 276. Demand note for rates. 277. Late payment of rates. 277A. Discount on rates of non-domestic hereditaments. 277B.  Additional discount in certain cases following the commencement of the Smoke-Free Environment Act, 2012. 277C.  Discount on rates of hereditaments occupied by new businesses. 278. No premises exempt because belonging to the Crown. 279. Exemption from assessment. 280. Repealed. 281. Advertising stations to be separate hereditaments in certain cases. 282. Power to order exemption from rates. 283. Officers for rates and expenses.
+270. Interpretation of Part XI. 271. Levy of and provisions as to general rates. 272. Operation and incidence of rate. 272A. Owner’s liability if occupier in default. 273. Liability to be rated in respect of certain unoccupied property. 274. Amendment of rate. 275. When rates due and payable. 276. Demand note for rates. 277. Late payment of rates. 277A. Discount on rates of non-domestic hereditaments. 277B.  Additional discount in certain cases following the commencement of the Smoke-Free Environment Act, 2012. 277C.  Discount on rates of hereditaments occupied by new businesses. 278. No premises exempt because belonging to the Crown. 279. Exemption from assessment. 280. Repealed. 281. Advertising stations to be separate hereditaments in certain cases. 282. Power to order exemption from rates. 283. Officers for rates and expenses. 284. Rating of owners. 285. Recovery of rates from tenants and lodgers.
 
-284. Rating of owners. 285. Recovery of rates from tenants and lodgers. 286. Where owners omit to pay rates, the occupiers paying the same may deduct amount due from rent. 287. Proceedings for recovery of rates. 288. Penalty for leaving rates in arrears. 289. Contributions in lieu of payment of rates on premises of the United Kingdom Government.
+286. Where owners omit to pay rates, the occupiers paying the same may deduct amount due from rent. 287. Proceedings for recovery of rates. 288. Penalty for leaving rates in arrears. 289. Contributions in lieu of payment of rates on premises of the United Kingdom Government.
 
 Valuation.
 
@@ -428,9 +428,9 @@ PART XII. GENERAL.
 
 Supplemental as to powers of Government.
 
-309. Expenses and Contractor companies. 310. Interpretation of “provide”.
+309. Expenses and Contractor companies. 310. Interpretation of “provide”. 311. Power to require pipes, etc., in public highways to be moved. 312. Power of Government to execute certain work on behalf of owners or occupiers. 313. Power of Government to sell certain materials.
 
-311. Power to require pipes, etc., in public highways to be moved. 312. Power of Government to execute certain work on behalf of owners or occupiers. 313. Power of Government to sell certain materials. 314. Power of Government to require information as to ownership of premises. 315. Compensation to individuals for damage resulting from exercise of powers under Act.
+314. Power of Government to require information as to ownership of premises. 315. Compensation to individuals for damage resulting from exercise of powers under Act.
 
 Notices, etc.
 
@@ -454,9 +454,7 @@ Appeals against notices.
 
 Other appeals to the magistrates’ court and appeals to the Supreme Court.
 
-331. Appeals and applications to magistrates’ court. 332. Appeals to Supreme Court against decision of justices.
-
-333. Effect of decision of court upon appeal.
+331. Appeals and applications to magistrates’ court. 332. Appeals to Supreme Court against decision of justices. 333. Effect of decision of court upon appeal.
 
 Judges and justices.
 

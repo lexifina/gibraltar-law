@@ -34,7 +34,7 @@ Powers to seize waste.
 
 4.(1)  This paragraph applies if an authorised person has reasonable grounds to suspect that–
 
-(a) the provisions of the TSW Regulation or this Part are not being, have not been or are not likely to be complied with in respect of any waste; or
+(a) the provisions of the TSW Regulation or this Part or any regulations made under section 98LA or section 98AB are not being, have not been or are not likely to be complied with in respect of any waste; or
 
 (b) the shipment, recovery or disposal of any waste cannot be completed in accordance with the notification and movement documents or the contract between the notifier and consignee.
 
@@ -98,7 +98,7 @@ PART 3 Take-back etc. of waste
 
 Shipments of waste that cannot be completed.
 
-9.  If the competent authority in Gibraltar, acting as competent authority of dispatch, receives notification from another competent authority under Article 22 (take-back when a shipment cannot be completed as intended), it may serve a notice on the notifier of the shipment requiring him to act in accordance with Article 22 within a specified time.
+9.  If the competent authority in Gibraltar, acting as competent authority of dispatch, receives notification from another competent authority under Article 22 (or the corresponding provision of the 2024 Regulation) (take-back when a shipment cannot be completed as intended), it may serve a notice on the notifier of the shipment requiring him to act in accordance with Article 22 (or the corresponding provision of the 2024 Regulation) within a specified time.
 
 Illegal shipments of waste.
 

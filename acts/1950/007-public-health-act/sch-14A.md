@@ -62,7 +62,9 @@ SEPARATE COLLECTION CERTAIN WASTE AND COLLECTION TARGETS
 
 19. Waste sent by the Government to another Member State for the purposes of preparing for re-use, recycling or backfilling in that other Member State may only be counted towards the attainment of the targets laid down in paragraphs 4,5,6 and 7 of this Schedule if that waste was collected in Gibraltar.
 
-20. Waste exported from the European Union for preparing for re-use or recycling shall count towards the attainment of the targets laid down in paragraphs 4,5,6 and 7 of this Schedule if the requirements of paragraphs 12 and 13 of this Schedule are met and if, in accordance with Regulation (EC) No 1013/2006, the exporter can prove that the shipment of waste complies with the requirements of that Regulation and that the treatment of waste outside the European Union took place in conditions that are broadly equivalent to the requirements of the relevant European Union environmental legislation.
+20. Waste exported from the European Union for preparing for re-use or recycling shall count towards the attainment of the targets laid down in paragraphs 4,5,6 and 7 of this Schedule if the requirements of paragraphs 12 and 13 of this Schedule are met and if, in accordance with
+
+Regulation (EC) No 1013/2006, the exporter can prove that the shipment of waste complies with the requirements of that Regulation and that the treatment of waste outside the European Union took place in conditions that are broadly equivalent to the requirements of the relevant European Union environmental legislation.
 
 21. The implementation plan to be submitted pursuant to paragraph 7(c) shall contain the following:
 

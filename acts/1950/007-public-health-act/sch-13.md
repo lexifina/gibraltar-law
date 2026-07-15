@@ -66,7 +66,9 @@ CCF = – (0,12/1 200) × HDD + 1,335 when 2 150 < HDD < 3 350
 
 (The resulting value of CCF will be rounded at three decimal places).
 
-The value of HDD (Heating Degree Days) should be taken as the average of annual HDD values for the incineration facility location, calculated for a period of 20 consecutive years before the year for which CCF is calculated. For the calculation of the value of HDD the following method established by Eurostat should be applied: HDD is equal to (18 °C — Tm) × d if Tm is lower than or equal to 15 °C (heating threshold) and is nil if Tm is greater than 15 °C; where Tm is the mean (Tmin + Tmax)/2 outdoor temperature over a period of d days. Calculations are to be executed on a daily basis (d = 1), added up to a year.
+The value of HDD (Heating Degree Days) should be taken as the average of annual HDD values for the incineration facility location, calculated for a period of 20 consecutive years before the year for which CCF is calculated. For the calculation of the value of HDD the following method established by Eurostat should be applied: HDD is equal to (18 °C — Tm)
+
+× d if Tm is lower than or equal to 15 °C (heating threshold) and is nil if Tm is greater than 15 °C; where Tm is the mean (Tmin + Tmax)/2 outdoor temperature over a period of d days. Calculations are to be executed on a daily basis (d = 1), added up to a year.
 
 (2) This includes preparing for re-use, gasification and pyrolysis using the components as chemicals and recovery of organic materials in the form of backfilling.
 

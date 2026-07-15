@@ -6,7 +6,7 @@ Interpretation.
 
 Shipment of waste from Gibraltar.
 
-2.(1) The following procedure applies to the application for an approval of a financial guarantee or equivalent insurance for the purposes of Article 6(4), first paragraph.
+2.(1) The following procedure applies to the application for an approval of a financial guarantee or equivalent insurance for the purposes of Article 6(4), first paragraph and Article 7(4) of the 2024 Regulation as applied by the TSW Regulation.
 
 (2)  Only the notifier may apply for approval of a financial guarantee or equivalent insurance.
 

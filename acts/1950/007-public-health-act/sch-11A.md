@@ -732,7 +732,9 @@ Index of Chapters of the list.
 
 08 04 09* waste adhesives and sealants containing organic solvents or other dangerous substances
 
-08 04 10 waste adhesives and sealants other than those mentioned in 08 04 09
+08 04 10 waste adhesives and sealants other than those mentioned in
+
+08 04 09
 
 08 04 11* adhesive and sealant sludges containing organic solvents or other dangerous substances
 
@@ -2082,4 +2084,6 @@ THRESHOLDS FOR CERTAIN HAZARDOUS PROPERTIES
 
 In the waste:
 
-- the total concentration of substances classified as irritant and having assigned to them any of the risk phrases R36 (“irritating to the eyes”), R37 (“irritating to the respiratory system”) or R38 (“irritating to the skin”) is equal to or greater than 20%; - the total concentration of substances classified as irritant and having assigned to them the risk phrase R41 (“risk of serious damage to eyes”) is equal to or greater than 10%; - the total concentration of substances classified as harmful is equal to or greater than 25%; - the total concentration of substances classified as very toxic is equal to or greater than 0.1%; - the total concentration of substances classified as toxic is equal to or greater than 3%; - the total concentration of substances classified as carcinogenic and placed by the approved classification and labelling guide in category 1 or 2 of that classification is equal to or greater than 0.1%; - the total concentration of substances classified as corrosive and having assigned to them the risk phrase R34 (“causes burns”) is equal to or greater than 5%; and - the total concentration of substances classified as corrosive and having assigned to them the risk phrase R35 (“causes severe burns”) is equal to or greater than 1%.”.
+- the total concentration of substances classified as irritant and having assigned to them any of the risk phrases R36 (“irritating to the eyes”), R37 (“irritating to the respiratory system”) or R38 (“irritating to the skin”) is equal to or greater than 20%; - the total concentration of substances classified as irritant and having assigned to them the risk phrase R41 (“risk of serious damage to eyes”) is equal to or greater than 10%;
+
+- the total concentration of substances classified as harmful is equal to or greater than 25%; - the total concentration of substances classified as very toxic is equal to or greater than 0.1%; - the total concentration of substances classified as toxic is equal to or greater than 3%; - the total concentration of substances classified as carcinogenic and placed by the approved classification and labelling guide in category 1 or 2 of that classification is equal to or greater than 0.1%; - the total concentration of substances classified as corrosive and having assigned to them the risk phrase R34 (“causes burns”) is equal to or greater than 5%; and - the total concentration of substances classified as corrosive and having assigned to them the risk phrase R35 (“causes severe burns”) is equal to or greater than 1%.”.
