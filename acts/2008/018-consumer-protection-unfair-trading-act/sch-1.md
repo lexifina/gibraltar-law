@@ -1,4 +1,4 @@
-SCHEDULE  1
+SCHEDULE 1
 
 Section 5(5)
 
@@ -10,9 +10,17 @@ Misleading commercial practices.
 
 2.  Displaying a trust mark, quality mark or equivalent without having obtained the necessary authorisation.
 
+2A. Displaying a sustainability label that is not based on a certification scheme or not established by public authorities.
+
 3.  Claiming that a code of conduct has an endorsement from a public or other body which it does not have.
 
 4.  Claiming that a trader (including his commercial practices) or a service has been approved, endorsed or authorised by a public or private body when he/it has not or making such a claim without complying with the terms of the approval, endorsement or authorisation.
+
+4A. Making a generic environmental claim for which the trader is not able to demonstrate recognised excellent environmental performance relevant to the claim.
+
+4B. Making an environmental claim about the entire product or the trader’s entire business when it concerns only a certain aspect of the product or a specific activity of the trader’s business.
+
+4C. Claiming, based on the offsetting of greenhouse gas emissions, that a product has a neutral, reduced or positive impact on the environment in terms of greenhouse gas emissions.
 
 5.  Making an invitation to purchase services at a specified price without disclosing the existence of any reasonable grounds the trader may have for believing that he will not be able to offer for supply or to procure another trader to supply, those services or equivalent services at that price for a period that is, and in quantities that are, reasonable having regard to the service, the scale of advertising of the service and the price offered (bait advertising).
 
@@ -33,6 +41,8 @@ with the intention of promoting a different service (bait and switch).
 9.  Stating or otherwise creating the impression that a service can legally be provided when it cannot.
 
 10.  Presenting rights given to consumers in law as a distinctive feature of the trader's offer.
+
+10A. Presenting requirements imposed by law on all products within the relevant product category on the Union market as a distinctive feature of the trader’s offer.
 
 11.  Using editorial content in the media to promote a service where a trader has paid for the promotion without making that clear in the content or by images or sounds clearly identifiable by the consumer (advertorial). This is without prejudice to Council Directive 89/552/EEC and such legislation as from time to time implements that Directive, or any successor thereto, in Gibraltar.
 
@@ -59,6 +69,20 @@ with the intention of promoting a different service (bait and switch).
 22.  Falsely claiming or creating the impression that the trader is not acting for purposes relating to his trade, business, craft or profession, or falsely representing oneself as a consumer.
 
 23.  Creating the false impression that after-sales service in relation to a service is available in a Member State other than the one from which the service is provided.
+
+23A. Withholding information from the consumer about the fact that a software update will negatively impact the functioning of goods with digital elements or the use of digital content or digital services.
+
+23B. Presenting a software update as necessary when it only enhances functionality features.
+
+23C. Any commercial communication in relation to a good containing a feature introduced to limit its durability despite information on the feature and its effects on the durability of the good being available to the trader.
+
+23D. Falsely claiming that under normal conditions of use a good has a certain durability in terms of usage time or intensity.
+
+23E. Presenting a good as allowing repair when it does not.
+
+23F. Inducing the consumer to replace or replenish the consumables of a good earlier than necessary for technical reasons.
+
+23G. Withholding information concerning the impairment of the functionality of a good when consumables, spare parts or accessories not supplied by the original producer are used, or falsely claiming that such impairment will happen.
 
 Aggressive commercial practices.
 

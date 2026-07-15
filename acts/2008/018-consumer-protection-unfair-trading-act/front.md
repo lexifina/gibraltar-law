@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2008-18 Commencement 13.11.2008 Assent 11.11.2008
 
-Amending enactments Relevant current provisions Commencement date LN. 2013/176 ss. 2, 14A, Sch. 13.6.2014
+Amending enactments Relevant current provisions Commencement date LN. 2013/176 ss. 2, 14A, Sch. 13.6.2014 2026/197 ss. 2, 6(1)(b), (2)(a), (b)(ii), (c)-(d), 7(7), Sch.1 15.7.2026
 
 Transposing: Directive 2005/29/EC Directive 2011/83/EU
 
@@ -40,9 +40,9 @@ PART VI CODES OF CONDUCT
 
 PART VII ENFORCEMENT
 
-11. Enforcement by way of injunction. 12. Offences.
+11. Enforcement by way of injunction. 12. Offences. 13. Powers of investigation.
 
-13. Powers of investigation. 14. Burden of proof. 14A.  Inertia selling.
+14. Burden of proof. 14A.  Inertia selling.
 
 PART IX MISCELLANEOUS
 
