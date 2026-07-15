@@ -6,7 +6,7 @@ LN.2011/046
 
 Commencement 12.4.2011
 
-Amending enactments Relevant current provisions Commencement date LN. 2021/197 rr. 2, 4(a)-(b), 7(1A) 25.3.2021 2026/046 rr. 2-3, 4, (a)-(c), 5-6, 6A, 7, Sch 19.3.2026
+Amending enactments Relevant current provisions Commencement date LN. 2021/197 rr. 2, 4(a)-(b), 7(1A) 25.3.2021 2026/046 rr. 2-3, 4, (a)-(c), 5-6, 6A, 7, Sch 19.3.2026 2026/174 r. 2 15.7.2026
 
 Transposing: Directive 2009/33/EC
 
