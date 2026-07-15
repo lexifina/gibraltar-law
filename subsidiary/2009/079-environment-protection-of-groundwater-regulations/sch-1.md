@@ -36,9 +36,9 @@ PART II Minimum list of pollutants and their indicators for establishing thresho
 
 4.  Substances or ions or indicators which may occur naturally or as a result of human activities or both
 
-Arsenic Cadmium Lead
+Arsenic Cadmium Lead Mercury Ammonium Chloride
 
-Mercury Ammonium Chloride Sulphate Nitrites Phosphorus (total)/Phosphates1
+Sulphate Nitrites Phosphorus (total)/Phosphates1
 
 5.  Man-made synthetic substances-
 
@@ -60,11 +60,9 @@ PART III Information to be provided with regard to the pollutants and their indi
 
 (ii) each pollutant or indicator of pollution which characterises bodies of groundwater as being at risk;
 
-(iii) the environmental quality objectives to which the risk is related, including the actual or potential legitimate uses or functions of the groundwater body,
+(iii) the environmental quality objectives to which the risk is related, including the actual or potential legitimate uses or functions of the groundwater body, and the relationship between the bodies of groundwater and the associated surface waters and directly dependent terrestrial ecosystems;
 
 1 The Competent Authority may establish threshold values either for phosphorus (total) or for phosphates. *With regard to saline concentrations resulting from human activities, the Competent Authority may decide to establish threshold values either for sulphate and chloride or for conductivity.
-
-and the relationship between the bodies of groundwater and the associated surface waters and directly dependent terrestrial ecosystems;
 
 (iv) in the case of naturally-occurring substances, the natural background levels in the bodies of groundwater;
 
