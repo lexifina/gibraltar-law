@@ -6,9 +6,17 @@ Act. No. 2026-11 Commencement (ss.1-10, 13-15, 17-26) 1.4.2026
 
 Notice of Commencement (LN.2026/129) (ss. 16, 43(7), 72(2), Sch.1 Paras. 15-16, 18-20)
 
-25.6.2026 Assent 1.4.2026
+25.6.2026
 
-_______________________________
+Notice of Commencement (LN.2026/148) (All other remaining provisions)
+
+15.7.2026 Assent 1.4.2026
+
+Amending enactments Relevant current provisions Commencement date LN.2026/150 ss. 3(1), (3), 36(2), (c)-(d), 45(4), (8), 46(9), 69(2)(a), 72(8), 80(2), 81(1), 126(4), 133(2), 149
+
+15.7.2026 2026/177 ss. 113(3), (4)(b), 116(9), 118, 119(1), 120-122, 138(1), (6), Sch.2
+
+15.7.2026 2026/204 Sch.2 15.7.2026
 
 ARRANGEMENT OF SECTIONS
 
@@ -30,13 +38,13 @@ Chapter 1 General legal effects
 
 Chapter 2 Implementation powers
 
-13. Implementation Regulations.
-
-14. Subordinate legislation, etc. 15. Exercise of functions. 16. Consequential amendments and modifications.
+13. Implementation Regulations. 14. Subordinate legislation, etc. 15. Exercise of functions. 16. Consequential amendments and modifications.
 
 Chapter 3 Implementation mechanisms and processes
 
-17. Cooperation Council. 18. Consistent interpretation. 19. Decisions on, and proof of, Treaties and EU instruments, etc. 20. Provision of funds for implementation purposes. 21. Annual Report. 22. Guidance and Explanatory Material.
+17. Cooperation Council.
+
+18. Consistent interpretation. 19. Decisions on, and proof of, Treaties and EU instruments, etc. 20. Provision of funds for implementation purposes. 21. Annual Report. 22. Guidance and Explanatory Material.
 
 Chapter 4 Transitional implementation
 
@@ -54,9 +62,7 @@ Chapter 2 Crossing points
 
 Chapter 3 Border control
 
-32. Checks and surveillance. 33. Schengen controls.
-
-34. Follow up actions to border checks: alerts. 35. Follow up actions to border control – refusal of entry. 36. Carriers’ liability. 37. Advance Passenger Information. 38. Entry and exit of armed forces personnel.
+32. Checks and surveillance. 33. Schengen controls. 34. Follow up actions to border checks: alerts. 35. Follow up actions to border control – refusal of entry. 36. Carriers’ liability. 37. Advance Passenger Information. 38. Entry and exit of armed forces personnel.
 
 Chapter 4 Residence in Gibraltar
 
@@ -82,7 +88,9 @@ Notifications and declarations
 
 62. Notifications and declarations
 
-Chapter 7 Surrender
+Chapter 7
+
+Surrender
 
 63. Central Authority. 64. Judicial authority.
 
@@ -98,15 +106,15 @@ Chapter 2 State Aid Control
 
 Chapter 3 Taxation and Labour and Social Standards
 
-78. Taxation.
-
-79. Labour and Social Standards.
+78. Taxation. 79. Labour and Social Standards.
 
 PART 6 ARRANGEMENTS ON CUSTOMS, INDIRECT TAXATION AND TRADE RELATED ISSUES
 
 Chapter 1 General Provisions
 
-80. Purpose of Part 6. 81. Interpretation. 82. Access to IT systems. 83. Exceptions and safeguards. 84. Ceuta and Melilla. 85. Specialised Committee on Economy and Trade. 86. Implementation, application, supervision and enforcement. 87. References to certain Union acts.
+80. Purpose of Part 6. 81. Interpretation.
+
+82. Access to IT systems. 83. Exceptions and safeguards. 84. Ceuta and Melilla. 85. Specialised Committee on Economy and Trade. 86. Implementation, application, supervision and enforcement. 87. References to certain Union acts.
 
 Chapter 2 Customs Union
 
@@ -118,13 +126,13 @@ Chapter 3 Movement of Goods
 
 Chapter 4 Transaction tax
 
-98. Liability to transaction tax and payment into consolidated fund. 99. Transaction tax rates. 100. Persons liable to pay the transaction tax. 101. Exemptions from transaction tax.
-
-102. Refund of the transaction tax where goods are exported from Gibraltar in commercial quantities.
+98. Liability to transaction tax and payment into consolidated fund. 99. Transaction tax rates. 100. Persons liable to pay the transaction tax. 101. Exemptions from transaction tax. 102. Refund of the transaction tax where goods are exported from Gibraltar in commercial quantities.
 
 Chapter 5 Excise duty
 
-103. Liability to excise duty and payment into consolidated fund. 104. Excise duty rates. 105. Person liable to pay excise duty. 106. Exemptions from excise duty. 107. Refund of excise duty where goods are exported from Gibraltar in commercial quantities. 108. Refund of excise duty in case of total destruction or irretrievable loss. 109. New Union excise duties. 110. Registration of excise duty operators.
+103. Liability to excise duty and payment into consolidated fund. 104. Excise duty rates. 105. Person liable to pay excise duty. 106. Exemptions from excise duty. 107. Refund of excise duty where goods are exported from Gibraltar in commercial quantities.
+
+108. Refund of excise duty in case of total destruction or irretrievable loss. 109. New Union excise duties. 110. Registration of excise duty operators.
 
 Chapter 6 Common provision
 
@@ -140,15 +148,15 @@ Chapter 8 Goods produced or placed on the market in Gibraltar
 
 Chapter 9 Tobacco
 
-118. Interpretation. 119. Specific measures on monitoring and tracking of tobacco. 120. Information sharing. 121. Cooperation and enforcement. 122. Tobacco traceability.
-
-123. Price differential. 124. Additional measure.
+118. Interpretation. 119. Specific measures on monitoring and tracking of tobacco. 120. Information sharing. 121. Cooperation and enforcement. 122. Tobacco traceability. 123. Price differential. 124. Additional measure.
 
 Chapter 10 Provision applicable to certain categories of goods
 
 125. Interpretation. 126. Rules applicable to certain categories of goods. 127. Military technology and equipment. 128. Dual use goods and technologies. 129. Special procedure.
 
-Chapter 11 Transitional arrangements
+Chapter 11
+
+Transitional arrangements
 
 130. Goods placed on the market in Gibraltar. 131. Ending of temporary storage or special customs procedures.
 
@@ -164,9 +172,7 @@ PART 9 CIVIL NUCLEAR COOPERATION
 
 139. Introductory and general principles. 140. Protections. 141. Third party liability. 142. Accidents. 143. Radioactive material and sources.
 
-PART 10
-
-FINAL PROVISIONS
+PART 10 FINAL PROVISIONS
 
 Dispute resolution
 
@@ -181,6 +187,10 @@ Chapter 2 Consultations
 Chapter 3 Arbitrations
 
 148. Arbitrations.
+
+Chapter 4 Withdrawal Agreement
+
+149. Withdrawal Agreement.
 
 SCHEDULE 1 CONSEQUENTIAL AMENDMENTS AND MODIFICATIONS
 
