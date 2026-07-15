@@ -22,6 +22,8 @@ Note.
 
 This paragraph applies to every operator licence other than a chauffeur- driven hire care operator’s licence as set out below. 144.00
 
+7 For every application for a licence under section 66ZF of the Act 65.00 8 For every licence under section 66ZF of the Act 257.50 9 For a duplicate licence under section 66ZF of the Act 28.00 10 For every renewal of a licence under section 66ZF of the Act 144.00
+
 CHAUFFEUR-DRIVEN HIRE CAR OPERATOR’S LICENCES
 
 £ 1 For every application for a chauffeur-driven hire car operator’s licence 257.50 2 For a duplicate chauffeur-driven hire car operator’s licence 28.00 3 For every application for the amendment of a chauffeur-driven hire car operator’s licence 10.50 4 For every renewal of a chauffeur-driven hire car operator’s licence. 144.00
