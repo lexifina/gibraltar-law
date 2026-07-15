@@ -6,7 +6,7 @@ LN.2009/080
 
 Commencement 26.11.2009
 
-Amending enactments Relevant current provisions Commencement date LN. 2011/155 r. 21A 22.9.2011 2014/061 rr. 2, 3(3)(c), 5(3)(g), 8(2), (b), 11(1), (2)(a) 2.5.2014 2015/083 r. 3(3) 11.6.2015
+Amending enactments Relevant current provisions Commencement date LN. 2011/155 r. 21A 22.9.2011 2014/061 rr. 2, 3(3)(c), 5(3)(g), 8(2), (b), 11(1), (2)(a) 2.5.2014 2015/083 r. 3(3) 11.6.2015 2026/173 r. 4(1)(b) 15.7.2026
 
 EU Legislation/International Agreements involved: Directive 67/548/EEC Directive 76/464/EEC Directive 80/68/EEC Directive 1999/45/EC Directive 2000/60/EC Directive 2004/35/EC Directive 2006/21/EC Directive 2008/99/EC
 
