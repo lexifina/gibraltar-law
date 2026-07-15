@@ -6,7 +6,7 @@ LN.1997/146
 
 Commencement 27.11.1997
 
-Amending enactments Relevant current provisions Commencement date LN. 1997/147 Corrigendum 1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019 2020/216 r. 7(2)(d), (3)(f) 30.6.2020 2022/213 r. 7 28.7.2022 2023/217 r. 7 1.8.2023 2024/128 r. 7 1.8.2024 2025/172 r. 7 1.8.2025
+Amending enactments Relevant current provisions Commencement date LN. 1997/147 Corrigendum 1997/162 Sch. 23.12.1997 1998/099 r. 8, Sch. 29.10.1998 2005/044 r. 7(1)(c), (3)(c) 1.4.2005 2014/119 Sch. 10.7.2014 2018/156 r. 7(1)(b)-(c), (2)(a), (c), (3)(b)-(c), (e) 2.7.2018 2019/125 r. 7(1)(d), (3)(d) 10.6.2019 2020/216 r. 7(2)(d), (3)(f) 30.6.2020 2022/213 r. 7 28.7.2022 2023/217 r. 7 1.8.2023 2024/128 r. 7 1.8.2024 2025/172 r. 7 1.8.2025 2026/205 r. 7(2)(a), Sch. 15.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -141,6 +141,8 @@ agent or ship chandler
 (2)  The fees payable to the Government in relation to the other matters provided for by the Act shall be–
 
 (a) application for an import permit - £1,211.00
+
+(i) supplement for the import of premium cigarettes to which the licence relates £30 per 1000 cigarettes (ii) supplement for the import of mid-high cigarettes to which the licence relates £7.50 per 1000 cigarettes (iii) supplement for the import of mid-ordinary cigarettes to which the licence relates Nil (iv) supplement for the import of ordinary cigarettes to which the licence relates Nil
 
 (b) application for an export permit - £182.00
 

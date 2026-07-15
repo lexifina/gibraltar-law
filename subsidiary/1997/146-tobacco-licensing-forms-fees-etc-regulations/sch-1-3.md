@@ -124,13 +124,17 @@ TOBACCO ACT 1997
 
 TOBACCO LICENSING (FORMS, FEES, ETC) REGULATIONS 1997 Regulation 4(2)
 
+Brand Category as per Regulation 7(2)(a) Number of Units Per 1000 Supplement fee for the import of cigarettes
+
 IMPORT PERMIT
 
-No................................. ... The importation of the above tobacco is accordingly authorised subject to the conditions appearing below.
+No....................................
 
-Date................ Collector of Customs CONDITIONS: 1. Goods to be dispatched within               months from date of permit 2. Distribution on arrival to be subject to requirements of the Collector of Customs. 3. This licence is surrendered to the Customs Authorities for their retention at the time importation is effected. 4. Goods to be placed in bonded stores.
+Receipt No………………. The importation of the above tobacco is accordingly authorised subject to the conditions appearing below.
 
-* Please continue on another sheet if necessary and attach it securely to this form
+Date................                                             Collector of Customs CONDITIONS: 1. Goods to be dispatched within               months from date of permit 2. Distribution on arrival to be subject to requirements of the Collector of Customs. 3. This licence is surrendered to the Customs Authorities for their retention at the time importation is effected.
+
+4. Goods to be placed in authorised warehouse.
 
 FORM 4
 
