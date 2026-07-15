@@ -6,7 +6,7 @@ LN.2019/192
 
 Commencement 26.9.2019
 
-Amending enactments Relevant current provisions Commencement date LN. 2022/267 Sch. 4 8.9.2022 2023/242 Sch. 4 1.8.2023 2024/149 Sch. 4 8.8.2024 2025/196 Sch. 4 1.8.2025
+Amending enactments Relevant current provisions Commencement date LN. 2022/267 Sch. 4 8.9.2022 2023/242 Sch. 4 1.8.2023 2024/149 Sch. 4 8.8.2024 2025/196 Sch. 4 1.8.2025 2026/169 rr. 2(3), 5A, 7(3), 9(4A), 12(6) 15.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -22,7 +22,7 @@ PART II Applications
 
 PART III Notification
 
-5. Classes of development for purposes of section 23. 6. Size of notice. 7. Notice of Commission’s decision. 8. Notice of appeal.
+5. Classes of development for purposes of section 23. 5A. Exemptions. 6. Size of notice. 7. Notice of Commission’s decision. 8. Notice of appeal.
 
 PART IV Register
 
