@@ -6,13 +6,11 @@ Act. No. 1962-08 Commencement 31.5.1962 Assent
 
 Amending enactments Relevant current provisions Commencement date Act. 1965-14 s. 4 1968-06 s. 55 1968-30 s. 3 Order of 16.9.1969 s. 2 Regs. of 28.5.1970 s. 2 LN. 1971/020 s. 2 Act. 1972-06 s. 2 1972-18 s. 5 1973-20 s. 55(1) 1976-31 s. 43(2) 1982-14 s. 54(2) 1991-04 ss. 2, 23(b) 4.4.1991 1992-12 s. 23 31.12.1992 1993-26 s. 8A 1.12.1993 1993-25 s. 23 9.12.1993 1997-35 s. 24 30.10.1997 2004-22 s. 5A 1.5.2004 2007-17 ss. 2, 44(1), 70, 73 14.6.2007 2007-32 ss. 2-3, 8A, 13, 23, heading to Part V, 36-38, 40- 41, 43-45, 46(2), 48-49, 57(2), 58(1), 64, 67
 
-5.7.2007 LN. 2013/133 s. 44(1) 26.9.2013 Act. 2019-01 ss. 2, 2A 31.1.2019 2020-01 s. 2 21.1.2020 2019-01 s. 23(h)-(j) 31.1.2020 2020-01 s. 23(h), (i) 31.1.2020 2019-01 ss. 2, 5, 5A, 23(g) 1.1.2021 LN. 2020/002 s. 17(2)-(4) 1.1.2021 2020/447 ss. 17(1A), (2), (4)-(5) 1.1.2021 Act. 2020-01 ss. 2, 17(2) 1.1.2021
+5.7.2007 LN. 2013/133 s. 44(1) 26.9.2013 Act. 2019-01 ss. 2, 2A 31.1.2019 2020-01 s. 2 21.1.2020 2019-01 s. 23(h)-(j) 31.1.2020 2020-01 s. 23(h), (i) 31.1.2020 2019-01 ss. 2, 5, 5A, 23(g) 1.1.2021 LN. 2020/002 s. 17(2)-(4) 1.1.2021 2020/447 ss. 17(1A), (2), (4)-(5) 1.1.2021 Act. 2020-01 ss. 2, 17(2) 1.1.2021 2026-11 s. 2 15.7.20261
 
 NOTE. Orders declaring public and bank holidays made under the Banking and Financial Dealings Act and the Interpretation and General Clauses Act appear under the title “Banking and Financial Dealings.” Public holidays are also prescribed by the Employment (Annual and Public Holidays) Order, which appears under the title “Employment.”
 
-RENUMBERING OF SECTIONS
-
-Previous number New number Previous number New number 1 1 35 38 1A 4 36 39 2 2 37 40 2A 3 38 41 2B 5 39 42 3 6 40 43 4 7 41 44 5 8 42 45 6 9 43 46 7 10 44 47 8 11 45 48 9 12 46 49 10 13 47 50 11 14 48 51 12 15 49 52 13 16 50 53 14 17 51 54 15 18 52 55 16 19 53 56 17 20 54 57 18 21 55 58 19 22 56 59 20 23 57 60 21 24 58 61 22 25 59 62 23 26 60 63 24 27 61 64 25 28 62 65 26 29 63 66 27 30 64 67 28 31 65 68 29 32 66 69 30 33 67 70 31 34 68 71 32 35 69 72 33 36 70 73 34 37 71 74
+1 Notice of Commencement – LN.2026/148
 
 ARRANGEMENT OF SECTIONS
 
@@ -30,9 +28,9 @@ PART II. GENERAL PROVISIONS AS TO ACTS.
 
 PART III. SUBSIDIARY LEGISLATION.
 
-21. Construction of subsidiary legislation. 22. Exercise of statutory powers between passing and commencement of Act. 23. Provisions respecting the making of subsidiary legislation. 24. Retrospective effect of subsidiary legislation. 25. Acts done under subsidiary legislation to be deemed done under Act by which subsidiary legislation authorised.
+21. Construction of subsidiary legislation. 22. Exercise of statutory powers between passing and commencement of Act. 23. Provisions respecting the making of subsidiary legislation. 24. Retrospective effect of subsidiary legislation. 25. Acts done under subsidiary legislation to be deemed done under Act by which subsidiary legislation authorised. 26. Fees.
 
-26. Fees. 27. References to Acts to include references to subsidiary legislation. 28. Power of Parliament in relation to subsidiary legislation.
+27. References to Acts to include references to subsidiary legislation. 28. Power of Parliament in relation to subsidiary legislation.
 
 PART IV. COMMENCEMENT AND REPEALS.
 
@@ -48,9 +46,7 @@ PART VI. PUBLIC OFFICERS.
 
 PART VII. POWERS AND APPOINTMENTS.
 
-45. Appointment of officers by name of office. 46. Power to appoint to include power to suspend or dismiss. 47. Construction of provisions as to exercise of powers and duties. 48. Power of Governor, Government or a Minister to delegate authority. 49. Appointments to boards, etc. 50. Power of boards, etc., not affected by vacancy, etc. 51. Power of majority of more than two persons. 52. Construction of enabling words.
-
-53. Act for which payment is required.
+45. Appointment of officers by name of office. 46. Power to appoint to include power to suspend or dismiss. 47. Construction of provisions as to exercise of powers and duties. 48. Power of Governor, Government or a Minister to delegate authority. 49. Appointments to boards, etc. 50. Power of boards, etc., not affected by vacancy, etc. 51. Power of majority of more than two persons. 52. Construction of enabling words. 53. Act for which payment is required.
 
 PART VIII. TIME, DISTANCE AND PUBLIC HOLIDAYS.
 
