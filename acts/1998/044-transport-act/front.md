@@ -26,7 +26,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2002-23 s
 
 1 Notice of Commencement (LN.1999/091) 2 Notice of Commencement (LN.2000/066) 3 Notice of Commencement (LN.2000/071)
 
-Act. 2024-08 s. 17(10)-(12) 26.3.2024 2024-31 ss. 2(1), 17(3), 19, 19A, 72, 72A-72D 23.12.2024 2024-33 s. 17(4A)-(4G) 23.12.2024 2026-11 s. 78 25.6.20264
+Act. 2024-08 s. 17(10)-(12) 26.3.2024 2024-31 ss. 2(1), 17(3), 19, 19A, 72, 72A-72D 23.12.2024 2024-33 s. 17(4A)-(4G) 23.12.2024 2026-11 s. 78 25.6.20264 LN.2026/140 s. 66C(11A)-(11B) 15.7.2026 2026/141 ss. 66ZC-66ZX 15.7.2026
 
 EU legislation/International Agreements involved: Regulation (EC) No. 561/2006 Regulation (EC) No 1071/2009 Regulation (EC) No 1072/2009 Regulation (EC) No 1073/2009 Regulation (EU) No 165/2014 Regulation (EU) 2016/799
 
@@ -110,17 +110,33 @@ Drivers’ Hours
 
 66DC. Recording equipment system elements: security vulnerabilities. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data. 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records. 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66TA. Power to stop. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66WA. Exchange of information with AETR competent authorities. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
 
+PART IVB
+
+LICENCES UNDER THE TGEU
+
+66ZC. Interpretation. 66ZD. Purpose. 66ZE. Use of goods without a licence. 66ZF. Entitlement to a licence. 66ZG. Rights of appeal. 66ZH. Effect of failure to comply with the conditions governing the use of the licence. 66ZI. Exemption. 66ZJ. Authorised inspecting officers. 66ZK. Return of documents. 66ZL. Supply of information.
+
+PART IVC.
+
+ROAD TRANSPORT UNDER THE TGEU
+
+66ZM. Interpretation. 66ZN. Purpose. 66ZO. Article 276 road haulage operation. 66ZP. Use of licence under section 66ZF. 66ZQ. Requirements for drivers. 66ZR. Vehicle Requirements. 66ZS. Application of law. 66ZT. New measures. 66ZU. Remedial measures.
+
+Ambulance services.
+
+66ZV. Ambulance services from Gibraltar. 66ZW. Ambulance services from the contiguous frontier zone. 66ZX. Taxes and duties.
+
 PART V
 
 FINAL PROVISIONS
 
-67. Appeals. 68. Rules of court. 69. Regulations. 70. Forgery, etc., of licences and certificates. 71. Duty to give information. 72. General Penalty. 72A. Administrative penalties. 72B. Notice of administrative penalty. 72C. Issue of notice or penalty. 72D. Appeal. 73. Avoidance of contracts. 74. Saving of rights.
-
-75. Nuisances. 76. Repeals and consequential amendments. 77. Transitional provisions. 78. Power to make regulations: conventions, treaties and international agreements.
+67. Appeals. 68. Rules of court. 69. Regulations. 70. Forgery, etc., of licences and certificates. 71. Duty to give information. 72. General Penalty. 72A. Administrative penalties. 72B. Notice of administrative penalty. 72C. Issue of notice or penalty. 72D. Appeal. 73. Avoidance of contracts. 74. Saving of rights. 75. Nuisances. 76. Repeals and consequential amendments. 77. Transitional provisions. 78. Power to make regulations: conventions, treaties and international agreements.
 
 SCHEDULE 1 Supplementary provisions as to qualifications for operator licences.
 
-SCHEDULE 2 Deleted
+SCHEDULE 2
+
+Deleted
 
 SCHEDULE 3 EXEMPTION LISTINGS
 
