@@ -6,9 +6,9 @@ LN. 2020/058
 
 Commencement 31.1.2020
 
-Implementing: Regulation (EU) No 1143/2014
+Amending enactments Relevant current provisions Commencement date LN.2026/173 rr. 5A, 18(1), (3) 15.7.2026
 
-_______________________
+Implementing: Regulation (EU) No 1143/2014
 
 ARRANGEMENT OF REGULATIONS
 
@@ -20,7 +20,7 @@ PART 1 INTRODUCTORY PROVISIONS
 
 PART 2 OFFENCES
 
-5. Import, keeping, breeding, purchase, release etc. of invasive alien species. 6. False statements. 7. Misuse of permits or licences. 8. Compliance with permits and licences. 9. Obstruction and deception. 10. Attempts to commit offences etc. 11. Offences by bodies corporate. 12. Offences by partnerships and unincorporated associations.
+5. Import, keeping, breeding, purchase, release etc. of invasive alien species. 5A. Aggravated offence: environmental damage. 6. False statements. 7. Misuse of permits or licences. 8. Compliance with permits and licences. 9. Obstruction and deception. 10. Attempts to commit offences etc. 11. Offences by bodies corporate. 12. Offences by partnerships and unincorporated associations.
 
 PART 3 DEFENCES
 
