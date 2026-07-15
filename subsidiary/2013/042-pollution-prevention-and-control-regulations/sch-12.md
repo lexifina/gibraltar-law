@@ -38,9 +38,9 @@ They are standardised at 11% oxygen in waste gas except in  case of incineration
 
 1.1. Daily average emission limit values for the following polluting substances (mg/Nm3)
 
-Total dust 10 Gaseous and vaporous organic substances, expressed as total organic carbon (TOC) 10 Hydrogen chloride (HCl) 10
+Total dust 10 Gaseous and vaporous organic substances, expressed as total organic carbon (TOC) 10 Hydrogen chloride (HCl) 10 Hydrogen fluoride (HF) 1
 
-Hydrogen fluoride (HF) 1 Sulphur dioxide (SO2) 50 Nitrogen monoxide (NO) and nitrogen dioxide (NO2), expressed as NO2 for existing waste incineration installations with a nominal capacity exceeding 6 tonnes per hour or new waste incineration installations 200 Nitrogen monoxide (NO) and nitrogen dioxide (NO2), expressed as NO2 for existing waste incineration installations with a nominal  capacity of 6 tonnes per hour or less 400
+Sulphur dioxide (SO2) 50 Nitrogen monoxide (NO) and nitrogen dioxide (NO2), expressed as NO2 for existing waste incineration installations with a nominal capacity exceeding 6 tonnes per hour or new waste incineration installations 200 Nitrogen monoxide (NO) and nitrogen dioxide (NO2), expressed as NO2 for existing waste incineration installations with a nominal  capacity of 6 tonnes per hour or less 400
 
 1.2.  Half-hourly average emission limit values for  the following polluting substances (mg/Nm3)
 
@@ -48,9 +48,7 @@ Hydrogen fluoride (HF) 1 Sulphur dioxide (SO2) 50 Nitrogen monoxide (NO) and nit
 
 1.3. Average emission limit values (mg/Nm3) for the following heavy metals over a sampling period of a minimum of 30 minutes and a maximum of 8 hours
 
-Cadmium and its compounds, expressed as cadmium (Cd) Total: 0.05 Thallium and its compounds, expressed as thallium (Tl) Mercury and its compounds, expressed as mercury (Hg) 0.5 Antimony and its compounds, expressed as antimony (Sb) Total: 0.05
-
-Arsenic and its compounds, expressed as arsenic (As)
+Cadmium and its compounds, expressed as cadmium (Cd) Total: 0.05 Thallium and its compounds, expressed as thallium (Tl) Mercury and its compounds, expressed as mercury (Hg) 0.5 Antimony and its compounds, expressed as antimony (Sb) Total: 0.05 Arsenic and its compounds, expressed as arsenic (As)
 
 Lead  and its compounds, expressed as lead (Pb)
 
@@ -102,9 +100,7 @@ If the resulting heat release from the incineration of hazardous waste amounts t
 
 Cwaste: emission limit values for waste incineration installations set out in Part 3
 
-Vproc: waste gas volume resulting from the installation process including the combustion of the authorised fuels normally used in the installation
-
-(wastes excluded) determined on the basis of oxygen contents at which the emissions must be standardised as set out in Union or national law. In the absence of legislation for this kind of installation, the real oxygen content in the waste gas without being thinned by addition of air unnecessary for the process must be used.
+Vproc: waste gas volume resulting from the installation process including the combustion of the authorised fuels normally used in the installation (wastes excluded) determined on the basis of oxygen contents at which the emissions must be standardised as set out in Union or national law. In the absence of legislation for this kind of installation, the real oxygen content in the waste gas without being thinned by addition of air unnecessary for the process must be used.
 
 Cproc: emission limit values as set out in this Part for certain industrial activities or in case of the absence of such values, emission limit values of installations which comply with the national laws, regulations and administrative provisions for such installations while burning the normally authorised fuels (wastes excluded).  In the absence of these measures the emission limit values set out in the permit are used. In the absence of such permit values the real mass concentrations are used.
 
@@ -124,7 +120,9 @@ Half-hourly average values shall only be needed in view of calculating the daily
 
 2.2.  C – total emission limit values (mg/Nm3 except for dioxins and furans) for the following –polluting substances
 
-Polluting  substance C Total dust 30 HCl 10 HF 1 NOx 500 (1) Cd + Tl 0.05 Hg 0.05 Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V 0.5 Dioxins and furans (ng/Nm3) 0.1
+Polluting  substance C Total dust 30 HCl 10
+
+HF 1 NOx 500 (1) Cd + Tl 0.05 Hg 0.05 Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V 0.5 Dioxins and furans (ng/Nm3) 0.1
 
 (1) Until 1 January 2016, the Agency may authorise exemptions from the limit value for NOx for Lepol kilns and long rotary kilns provided that the permit sets a total emission limit value for NOx of not more than 800 mg/Nm3.
 
@@ -190,7 +188,9 @@ Cproc for solid fuels with the exception of biomass (O2 content 6%):
 
 Polluting substance < 50 MWth 50-100 MWth 100 to 300 MWth > 300 MWth SO2 — 400 for peat: 300 200 200
 
-Polluting substance < 50 MWth 50-100 MWth 100 to 300 MWth > 300 MWth NOx — 300 for pulverised lignite: 400 200 200 Dust 50 30 25 for peat: 20 20
+Polluting substance < 50 MWth 50-100 MWth 100 to 300 MWth > 300 MWth
+
+NOx — 300 for pulverised lignite: 400 200 200 Dust 50 30 25 for peat: 20 20
 
 Cproc for biomass (O2 content 6%):
 
@@ -204,9 +204,9 @@ Polluting substance < 50 MWth 50 to 100 MWth 100 to 300  MWth > 300 MWth SO2 —
 
 Cproc for solid fuels with the exception of biomass (O2 content 6%):
 
-Polluting substance < 50 MWth 50-100 MWth 100 to 300  MWth > 300 MWth
+Polluting substance < 50 MWth 50-100 MWth 100 to 300  MWth > 300 MWth SO2 — 400 for peat: 300 200 for peat: 300, except in the case of fluidised bed combustion: 250 150 for circulating or pressurised fluidised bed combustion or, in case of peat firing, for all fluidised bed combustion: 200 NOx — 300 for peat: 250 200 150 for pulverised lignite combustion: 200
 
-SO2 — 400 for peat: 300 200 for peat: 300, except in the case of fluidised bed combustion: 250 150 for circulating or pressurised fluidised bed combustion or, in case of peat firing, for all fluidised bed combustion: 200 NOx — 300 for peat: 250 200 150 for pulverised lignite combustion: 200 Dust 50 20 20 10 for peat: 20
+Dust 50 20 20 10 for peat: 20
 
 Cproc for biomass (O2 content 6%):
 
@@ -218,9 +218,7 @@ Polluting substance < 50 MWth 50 to 100  MWth 100 to 300  MWth> 300 MWth SO2 —
 
 3.3.  C — total emission limit values for heavy metals (mg/Nm3) expressed as average values over the sampling period of a minimum of 30 minutes and a maximum of 8 hours (O2 content 6% for solid fuels and 3% for liquid fuels)
 
-Polluting substances C Cd + Tl 0.05 Hg 0.05
-
-Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V 0.5
+Polluting substances C Cd + Tl 0.05 Hg 0.05 Sb + As + Pb + Cr + Co + Cu + Mn + Ni + V 0.5
 
 3.4. C — total emission limit value (ng/Nm3) for dioxins and furans expressed as average value measured over the sampling period of a minimum of 6 hours and a maximum of 8 hours (O2 content 6% for solid fuels and 3% for liquid fuels)
 
@@ -250,7 +248,9 @@ Monitoring of emissions
 
 1.2. Sampling and analysis of all polluting substances including dioxins and furans as well as the quality assurance of automated measuring systems and the reference measurement methods to calibrate them shall be carried out according to CEN-standards. If CEN standards are not available, ISO, national or other international standards which ensure the provision of data of an equivalent scientific quality shall apply. Automated measuring systems shall be subject to control by means of parallel measurements with the reference methods at least once per year.
 
-1.3. At the daily emission limit value level, the values of the 95% confidence intervals of a single measured result shall not exceed the following percentages of the emission limit values: Polluting substances Emission limit values for unfiltered samples (mg/l except for dioxins and f ) 1. Total suspended solids as defined in Annex I of Directive 91/271/EEC (95%)
+1.3. At the daily emission limit value level, the values of the 95% confidence intervals of a single measured result shall not exceed the following percentages of the emission limit values:
+
+Polluting substances Emission limit values for unfiltered samples (mg/l except for dioxins and f ) 1. Total suspended solids as defined in Annex I of Directive 91/271/EEC (95%)
 
 30 (100%)
 
@@ -324,9 +324,9 @@ x  EM
 
 21-OM
 
-ES = calculated emission concentration at the standard percentage oxygen concentration
+ES = calculated emission concentration at the standard percentage oxygen concentration EM = measured emission concentration OS = standard oxygen concentration
 
-EM = measured emission concentration OS = standard oxygen concentration OM = measured oxygen concentration
+OM = measured oxygen concentration
 
 PART 8
 

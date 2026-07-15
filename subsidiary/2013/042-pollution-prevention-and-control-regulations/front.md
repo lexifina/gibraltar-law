@@ -6,7 +6,7 @@ LN.2013/042
 
 Commencement 28.2.2013
 
-Amending enactments Relevant current provisions Commencement date LN. 2016/123 r. 2(1), Sch. 4 16.6.2016 2018/024 r. 2 6.2.2018 Act. 2018-19 r. 18(1)(b) 26.9.2019
+Amending enactments Relevant current provisions Commencement date LN. 2016/123 r. 2(1), Sch. 4 16.6.2016 2018/024 r. 2 6.2.2018 Act. 2018-19 r. 18(1)(b) 26.9.2019 LN. 2026/173 r. 63(2)(b), (5A) 15.7.2026
 
 Transposing: Directive 2010/75/EU Directive 2013/59/EURATOM
 
@@ -30,9 +30,9 @@ CHAPTER 1 General
 
 CHAPTER 2 Schedule 1 activities
 
-20. Schedule 1 activities.
+20. Schedule 1 activities. 21. Schedule 1: general principles.
 
-21. Schedule 1: general principles. 22. Schedule 1 conditions: best available techniques. 23. Schedule 1 conditions: general provisions. 24. Schedule 1 conditions: emission limit values and environmental quality standards. 25. Schedule 1 conditions: large combustion plants. 26. Schedule 1 conditions: titanium dioxide. 27. Schedule 1 conditions: mixing separately collected waste. 28. Schedule 1 conditions: incineration and co-incineration of waste. 29. Schedule 1 conditions: incineration of batteries. 30. Schedule 1 conditions: waste oils.
+22. Schedule 1 conditions: best available techniques. 23. Schedule 1 conditions: general provisions. 24. Schedule 1 conditions: emission limit values and environmental quality standards. 25. Schedule 1 conditions: large combustion plants. 26. Schedule 1 conditions: titanium dioxide. 27. Schedule 1 conditions: mixing separately collected waste. 28. Schedule 1 conditions: incineration and co-incineration of waste. 29. Schedule 1 conditions: incineration of batteries. 30. Schedule 1 conditions: waste oils.
 
 CHAPTER 3 Schedule 2 activities
 
@@ -48,7 +48,9 @@ PART V REVIEW, VARIATION AND CESSATION OF PERMITS
 
 PART VI COMPLIANCE
 
-48. The Agency: duty to ensure compliance. 49. Operators: duty to report breach of permit. 50. The Agency: environmental inspection plan. 51. The Agency: environmental inspection of installations. 52. The Agency: enforcement notices. 53. The Agency: suspension notices. 54. The Agency: power to prevent or remedy pollution.
+48. The Agency: duty to ensure compliance.
+
+49. Operators: duty to report breach of permit. 50. The Agency: environmental inspection plan. 51. The Agency: environmental inspection of installations. 52. The Agency: enforcement notices. 53. The Agency: suspension notices. 54. The Agency: power to prevent or remedy pollution.
 
 PART VII APPEALS
 
@@ -68,9 +70,7 @@ PART X PROVISION AS TO OFFENCES
 
 PART XI CROWN APPLICATION, ETC
 
-67. Application to the Crown. 68. Transitional provisions.
-
-69. Consequential amendments. 70. Revocations.
+67. Application to the Crown. 68. Transitional provisions. 69. Consequential amendments. 70. Revocations.
 
 PART XII FEES
 

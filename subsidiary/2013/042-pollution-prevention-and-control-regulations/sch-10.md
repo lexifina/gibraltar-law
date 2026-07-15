@@ -40,9 +40,7 @@ Liquid fuels
 
 450
 
-100-300 200 250 200(1)
-
-> 300 200 200 150(1)
+100-300 200 250 200(1) > 300 200 200 150(1)
 
 Note:
 
@@ -124,9 +122,9 @@ Total rated thermal input (MW) Coal and lignite and other solid fuels Biomass
 
 Peat
 
-Liquid fuels 50-100 400 200 300 350 100-300
+Liquid fuels 50-100 400 200 300 350 100-300 200 200 300 200
 
-200 200 300 250 in the case of fluidised bed combustion 200 > 300
+250 in the case of fluidised bed combustion > 300
 
 150 200 in case of circu- lating or pressurised fluidised bed combustion 150 150 200 in case of fluidised bed combustion 150
 
@@ -208,9 +206,7 @@ The concentration of CO in waste gases from each combustion plant firing gaseous
 
 The automated measuring systems shall be subject to control by means of parallel measurements with the reference methods at least once per year.
 
-The operator shall inform the Agency about the results of the checking of the automated measuring systems.
-
-9. At the emission limit value level, the values of the 95% confidence intervals of a single measured result shall not exceed the following percentages of the emission limit values−
+The operator shall inform the Agency about the results of the checking of the automated measuring systems. 9. At the emission limit value level, the values of the 95% confidence intervals of a single measured result shall not exceed the following percentages of the emission limit values−
 
 Carbon monoxide 10% Sulphur dioxide 20% Nitrogen oxides 20% Dust 30%
 
