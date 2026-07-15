@@ -60,7 +60,9 @@ WASTE ACCEPTABLE AT LANDFILLS FOR INERT WASTE
 
 European Waste Catalogue Code Description Exclusions 10 11 03 Waste glass based fibrous materials 15 01 07 Glass packaging 17 01 01 Concrete 17 01 02 Bricks 17 01 03 Tiles and ceramics 17 02 02 Glass 17 05 04 Soil and stones Excluding topsoil, peat 20 01 02 Glass 20 02 02 Soil and stones Excluding topsoil, peat
 
-5.  In this Schedule, “the Commission Decision on Wastes” means the Commission Decision 2000/532/EC replacing Decision 94/3 establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EC on hazardous waste.
+5.  In this Schedule, “the Commission Decision on Wastes” means the Commission Decision 2000/532/EC replacing Decision 94/3 establishing a list of wastes pursuant to Article 1(a) of
+
+Council Directive 75/442/EC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EC on hazardous waste.
 
 Specific requirements for metallic mercury.
 

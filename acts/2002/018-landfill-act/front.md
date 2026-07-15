@@ -6,7 +6,7 @@ Act. No. 2002-18 Commencement (LN.2003/026) 20.2.2003 Assent 16.12.2002
 
 Amending enactments Relevant current provisions Commencement date Act. 2007-35 ss. 6(3), (6)-(7), 11(8), Sch. 4 5.7.2007 LN. 2011/214 ss. 2(1), (2B), 5(1)(f), (fa), (2A)-(2D), Sch. 5 27.10.2011 2013/042 s. 8(2)(c) 28.2.2013 2013/043 ss. 2(1), 5(1A), 6(3), Schs. 1-3 15.3.2013 2020/225 ss. 2(1), (6)(c), (7), 5(1)(fa)-(fb), (2E)-(2I), 6(2A), Sch. 6
 
-18.6.2020
+18.6.2020 2026/173 s. 16(1) 15.7.2026
 
 Transposing: Directive 1999/31/EC Decision 2003/33/EC Directive 2006/66/EC Directive 2011/97/EU Directive (EU) 2018/850
 
