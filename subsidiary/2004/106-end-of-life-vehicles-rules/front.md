@@ -6,7 +6,7 @@ LN.2004/106
 
 Commencement 18.11.2004
 
-Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011 2012/018 rr. 2, 5A 23.2.2012 2016/204 r. 5A(2), Sch.8 17.11.2016 2018/089 Sch. 8 6.6.2018 2020/223 r. 25(1)(b)(iii), (c)-(d), (2)(b)(iii), (c)(iv), (d) 18.6.2020 2020/320 Sch. 8 17.9.2020
+Amending enactments Relevant current provisions Commencement date LN. 2010/136 r. 2 1.12.2010 2011/151 r. 40A 22.9.2011 2012/018 rr. 2, 5A 23.2.2012 2016/204 r. 5A(2), Sch.8 17.11.2016 2018/089 Sch. 8 6.6.2018 2020/223 r. 25(1)(b)(iii), (c)-(d), (2)(b)(iii), (c)(iv), (d) 18.6.2020 2020/320 Sch. 8 17.9.2020 2026/173 r. 40(2)(a)-(b) 15.7.2026
 
 Transposing: Directive 2000/53/EC Directive 2008/99/EC Directive 2008/112/EC Directive 2011/37/EU Directive (EU) 2016/774 Directive (EU) 2017/2096 Directive (EU) 2018/849 Commission Decision 2002/151/EC Commission Decision 2002/525/EC Commission Delegated Directive (EU) 2020/362
 
@@ -46,7 +46,9 @@ Schedule 1 Minimum requirements for the certificate of destruction issued in acc
 
 Schedule 2 Specimen form of compliance notice.
 
-Schedule 3 Technical requirements for the treatment and storage of end-of life vehicles.
+Schedule 3
+
+Technical requirements for the treatment and storage of end-of life vehicles.
 
 Schedule 4 General rules (as required to be adopted further to article 11(1) of the waste directive).
 

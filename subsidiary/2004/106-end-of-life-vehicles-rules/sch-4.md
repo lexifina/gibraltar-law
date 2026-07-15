@@ -40,6 +40,4 @@ GOVERNING ANY TREATMENTS, AS APPLICABLE
 
 (b) shall carry out a monthly audit to confirm compliance with the terms and conditions of the registration;
 
-(c) shall keep records showing, for each calendar month, the total quantity of depolluted end-of life vehicles and, if applicable, scrap metal of a type listed in Table 1 recovered during that month at that place, and shall send details each
-
-January of the total quantities of all such vehicles and scrap metal recovered at that place during the preceding year to the Enforcement Authority.
+(c) shall keep records showing, for each calendar month, the total quantity of depolluted end-of life vehicles and, if applicable, scrap metal of a type listed in Table 1 recovered during that month at that place, and shall send details each January of the total quantities of all such vehicles and scrap metal recovered at that place during the preceding year to the Enforcement Authority.
