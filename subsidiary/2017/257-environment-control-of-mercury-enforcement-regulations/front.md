@@ -6,9 +6,9 @@ LN.2017/257
 
 Commencement 1.1.2018
 
-Implementing: Regulation (EU) 2017/852
+Amending enactments Relevant current provisions Commencement date LN.2026/173 r. 23A 15.7.2026
 
-_______________________
+Implementing: Regulation (EU) 2017/852
 
 ARRANGEMENT OF REGULATIONS
 
@@ -20,9 +20,7 @@ Part 1 Preliminary
 
 Part 2 Civil enforcement
 
-6. Application of this Part. 7. Enforcement notices. 8. Taking action to secure compliance with enforcement notices. 9. Civil penalties. 10. Further provisions about civil penalties. 11. Civil penalties: late payment interest. 12. Recovery of enforcement costs. 13. Enforcement costs: late payment interest. 14. Further provision about appeals. 15. Multiple enforcement. 16. Publication of civil enforcement.
-
-17. Civil proceedings.
+6. Application of this Part. 7. Enforcement notices. 8. Taking action to secure compliance with enforcement notices. 9. Civil penalties. 10. Further provisions about civil penalties. 11. Civil penalties: late payment interest. 12. Recovery of enforcement costs. 13. Enforcement costs: late payment interest. 14. Further provision about appeals. 15. Multiple enforcement. 16. Publication of civil enforcement. 17. Civil proceedings.
 
 Part 3 Further provision about enforcement
 
@@ -30,7 +28,9 @@ Part 3 Further provision about enforcement
 
 Part 4 Criminal enforcement
 
-22. Offences in respect of laws relating to mercury, enforcement notices and information. 23. Offences relating to the import and exports of mercury. 24. Proceedings: partnerships etc. 25. Offences by bodies corporate etc. 26. Offences: penalties.
+22. Offences in respect of laws relating to mercury, enforcement notices and information. 23. Offences relating to the import and exports of mercury.
+
+23A. Mercury: environmental damage offence. 24. Proceedings: partnerships etc. 25. Offences by bodies corporate etc. 26. Offences: penalties.
 
 SCHEDULE Provisions relating to mercury
 
