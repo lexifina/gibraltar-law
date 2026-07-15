@@ -64,9 +64,7 @@ to the extent that the application of those provisions would be likely to prejud
 
 (c) Article 15(1) to (3) (confirmation of processing, access to data and safeguards for third country transfers); and
 
-(d) Article 5 (general principles) so far as its provisions correspond to the rights and obligations provided for in the provisions mentioned in subsubparagraphs (a) to (c),
-
-to the same extent that Controller 1 is exempt from those obligations by virtue of subparagraph (1).
+(d) Article 5 (general principles) so far as its provisions correspond to the rights and obligations provided for in the provisions mentioned in subsubparagraphs (a) to (c), to the same extent that Controller 1 is exempt from those obligations by virtue of subparagraph (1).
 
 Crime and taxation: risk assessment systems.
 
@@ -150,23 +148,21 @@ TABLE
 
 Description of function design Condition 1. The function is designed to protect members of the public against-
 
-(a) financial loss due to dishonesty, malpractice or other seriously improper conduct by, or the unfitness or incompetence of, persons concerned in the provision of banking, insurance, investment or other financial services or in the management of bodies corporate; or The function is-
+(a) financial loss due to dishonesty, malpractice or other seriously improper conduct by, or the unfitness or incompetence of, persons concerned in the provision of banking, insurance, investment or other financial services or in the management of bodies corporate; or
+
+(b) financial loss due to the conduct of discharged or undischarged bankrupts. The function is-
 
 (a) conferred on a person by an enactment;
 
 (b) a function of the Crown, a Minister or a government department; or
 
-(c) of a public nature, and is exercised in the public interest.
+(c) of a public nature, and is exercised in the public interest. 2. The function is designed to protect members of the public against-
 
-(b) financial loss due to the conduct of discharged or undischarged bankrupts. 2. The function is designed to protect members of the public against-
-
-(a) dishonesty, malpractice or other seriously improper conduct; or
-
-(b) unfitness or incompetence.
-
-The function is-
+(a) dishonesty, malpractice or other seriously improper conduct; or The function is-
 
 (a) conferred on a person by an enactment;
+
+(b) unfitness or incompetence.
 
 (b) a function of the Crown, a Minister or a government department; or
 
@@ -196,23 +192,21 @@ The function is-
 
 (a) maladministration by public bodies;
 
-(b) failures in services provided by public bodies; or The function is-
+(b) failures in services provided by public bodies; or
+
+(c) a failure of a public body to provide a service which it is a function of the body to provide. The function is-
 
 (a) conferred on a person by an enactment; or
 
 (b) of a public nature, and is exercised in the public interest.
 
-(c) a failure of a public body to provide a service which it is a function of the body to provide.
-
-6. The function is designed-
+6. The function is designed- The function is-
 
 (a) to protect members of the public against conduct which may adversely affect their interests by persons carrying on a business;
 
 (b) to regulate agreements or conduct which have as their object or effect the prevention, restriction or distortion of competition in connection with any commercial activity; or
 
-(c) to regulate conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market. The function is-
-
-(a) conferred on a person by an enactment;
+(c) to regulate conduct on the part of one or more undertakings which amounts to the abuse of a dominant position in a market. (a) conferred on a person by an enactment;
 
 (b) a function of the Crown, a Minister or a government department; or
 
@@ -542,9 +536,7 @@ Research and statistics.
 
 (a) scientific or historical research purposes; or
 
-(b) statistical purposes,
-
-to the extent that the application of those provisions would prevent or seriously impair the achievement of the purposes in question.
+(b) statistical purposes, to the extent that the application of those provisions would prevent or seriously impair the achievement of the purposes in question.
 
 (2)  For the purposes of this paragraph, the listed GDPR provisions are the following provisions of the Gibraltar GDPR-
 

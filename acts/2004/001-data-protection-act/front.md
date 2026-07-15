@@ -38,7 +38,7 @@ Amending enactments Relevant current provisions Commencement date LN. 2006/039 C
 
 24.10.2019 2019/211 ss. 2, (1A)-(1C), (2)(a)-(d), 3(1)-(4), (8)-(9), 6(2)-(3), 7(1)(7), 8(1)-(2), 9(1)-(3), 10-11, 12(1)-(3), (5), 13(1)-(2), 14(2)-(3), 15(1)(a)-(b), 16(1)-(2),  17(1), (3)(c), (5)-(6), 19(1), (2)(a)-(f), (3), (5), 20(1)(a)- (c), (2)(a)(ii), (b)-(c), 21(1)(b), (3), (6)-(9), 21A, 22(1), (2)(a), (3), 23(2), 24-27, 28(1)-(2), 29(5), 30(1)-(3), (5), 31-37, 42(7), 57(8), 76(8), 82(3)(a)- (c), (5)(a), 83, 83A, 85(1)(c), 86(4), 87(5)(a), 89(1)- (2), (4)-(7), 124(1)-(10), 125(A1), (1)(a), (2), 126- 127, 128A, 129(2), (2A), (4), 132(6), 136(1), 140(2)(d), 143(4), 144(1)(b), 147(2), 150(9), 151(9), 155(2)(a)-(c), (e), (3), (4)(a), (c), 157(1)(b), (8)(a), 162(2)(a), 164(1), (2)(a), (5)-(7), 166(1)-(2), 170(1), (5)(b), (6)-(7), 171(1), 172(4), 173(1)-(2), 174(1), 175(7), 176(8)(a)-(b), 179(2)(a)-(b), 182(c), (d), 183, 184(1)(b)(ii)-(iv), (3)(a), 185(2)(d), (3), 187(4)(a)-(b), 188(2)(a), (3)(b), 189(1), (a)-(b), (2)(a), (5), 190(2), 191, 198, (1), (1A), (2)-(4), (6)- (7), 199(2)_(3), 200(2), Schs. 1-3, 5-6, 12-14, 17-18
 
-1.1.2021 Act.2018-12 ss. 2(1), 123(1) 1.6.2021
+1.1.2021 Act.2018-12 ss. 2(1), 123(1) 1.6.2021 LN.2026/096 ss. 22(1)(a), (3), 82(3)(a)-(c), 83A, (1)-(2) 15.7.2026
 
 Transposing: Directive 95/46/EC Council Decision 2000/365/EC Regulation (EU) 2016/679 Directive (EU) 2016/680
 
@@ -70,9 +70,9 @@ Special categories of personal data
 
 Rights of the data subject
 
-14. Right to protection of personal data. 15. Limits on fees that may be charged by controllers. 16. Obligations of credit reference agencies.
+14. Right to protection of personal data. 15. Limits on fees that may be charged by controllers. 16. Obligations of credit reference agencies. 17. Automated decision-making authorised by law: safeguards.
 
-17. Automated decision-making authorised by law: safeguards. 18. Data subject access requests.
+18. Data subject access requests.
 
 Exemptions etc
 
@@ -104,9 +104,7 @@ Exemptions etc
 
 Part III Law Enforcement Processing
 
-Chapter 1 Scope And Definitions
-
-Scope
+Chapter 1 Scope And Definitions Scope
 
 38. Processing to which this Part applies.
 
@@ -136,7 +134,9 @@ Data subject's rights to rectification or erasure etc
 
 Automated individual decision-making
 
-58. Right not to be subject to automated decision-making. 59. Automated decision-making authorised by law: safeguards.
+58. Right not to be subject to automated decision-making.
+
+59. Automated decision-making authorised by law: safeguards.
 
 Supplementary
 
@@ -160,17 +160,17 @@ Obligations relating to personal data breaches
 
 Data protection officers
 
-78. Designation of a data protection officer. 79. Position of data protection officer.
+78. Designation of a data protection officer. 79. Position of data protection officer. 80. Tasks of data protection officer.
 
-80. Tasks of data protection officer.
+Chapter 5 Transfers Of Personal Data To Third Countries Etc
 
-Chapter 5 Transfers Of Personal Data To Third Countries Etc Overview and interpretation
+Overview and interpretation
 
 81. Overview and interpretation.
 
 General principles for transfers
 
-82. General principles for transfers of personal data. 83. Deleted. 83A. Transfers based on adequacy regulations. 84. Transfers on the basis of appropriate safeguards. 85. Transfers on the basis of special circumstances.
+82. General principles for transfers of personal data. 83. Deleted. 83A. Transfers based on an adequacy decision. 84. Transfers on the basis of appropriate safeguards. 85. Transfers on the basis of special circumstances.
 
 Transfers to particular recipients
 
@@ -194,9 +194,7 @@ Part V The Commissioner The Commissioner
 
 General functions
 
-124. General functions under the Gibraltar GDPR and safeguards.
-
-125. Other general functions. 126. Competence in relation to courts etc.
+124. General functions under the Gibraltar GDPR and safeguards. 125. Other general functions. 126. Competence in relation to courts etc.
 
 International role
 
@@ -252,9 +250,7 @@ Powers of entry and inspection
 
 Penalties
 
-162. Penalty notices. 163. Penalty notices: restrictions.
-
-164. Maximum amount of penalty. 165. Fixed penalties for non-compliance with charges regulations. 166. Amount of penalties: supplementary.
+162. Penalty notices. 163. Penalty notices: restrictions. 164. Maximum amount of penalty. 165. Fixed penalties for non-compliance with charges regulations. 166. Amount of penalties: supplementary.
 
 Guidance
 
@@ -876,7 +872,7 @@ Transfers of personal data to third countries etc: public interest.
 
 22.(1)  The Minister may by regulations specify, for the purposes of Article 49(1)(d) of the Gibraltar GDPR-
 
-(a) the transfer cannot take place based on adequacy regulations; and
+(a) the transfer cannot take place based on an adequacy decision; and
 
 (b) circumstances in which a transfer of personal data to a third country or international organisation which is not required by an enactment is not to be taken to be necessary for important reasons of public interest.
 
@@ -886,7 +882,7 @@ Transfers of personal data to third countries etc: public interest.
 
 (b) the Minister considers the restriction to be necessary for important reasons of public interest.
 
-(3)  In this section “based on adequacy regulations” means a transfer in accordance with Article 45 of the Gibraltar GDPR.
+(3)  In this section “based on an adequacy decision” means a transfer in accordance with Article 45 of the Gibraltar GDPR.
 
 Specific processing situations
 
@@ -1118,9 +1114,7 @@ Meaning of “controller” and “processor”.
 
 (a) for purposes for which it is required by an enactment to be processed; and
 
-(b) by means by which it is required by an enactment to be processed,
-
-the competent authority on which the obligation to process the data is imposed by the enactment (or, if different, one of the enactments) is the controller.
+(b) by means by which it is required by an enactment to be processed, the competent authority on which the obligation to process the data is imposed by the enactment (or, if different, one of the enactments) is the controller.
 
 (3)  In this Part, “processor” means any person who processes personal data on behalf of the controller (other than a person who is an employee of the controller).
 
@@ -2180,11 +2174,11 @@ General principles for transfers of personal data.
 
 (3)  Condition 2 is that the transfer-
 
-(a) is based on adequacy regulations (see section 83A);
+(a) is based on an adequacy decision (see section 83A);
 
-(b) if not based on adequacy regulations, is based on there being appropriate safeguards as per section 84; or
+(b) if not based on an adequacy decision, is based on there being appropriate safeguards as per section 84; or
 
-(c) if not based on adequacy regulations or on there being appropriate safeguards, is based on special circumstances as per section 85.
+(c) if not based on an adequacy decision or on there being appropriate safeguards, is based on special circumstances as per section 85.
 
 (4)  Condition 3 is that-
 
@@ -2208,17 +2202,19 @@ General principles for transfers of personal data.
 
 83.  Deleted.
 
-Transfers based on adequacy regulations.
+Transfers based on an adequacy decision.
 
-83A.(1)  A transfer to a third country or an international organisation may be made if it is based on adequacy regulations.
+83A.(1)  A transfer to a third country or an international organisation may be made if it is based on an adequacy decision.
 
-(2)  For the purposes of this Part, a transfer of personal data to a third country or an international organisation is based on adequacy regulations if-
+(2) For the purposes of this Part, a transfer of personal data to a third country or an international organisation is based on an adequacy decision if it is a transfer to-
 
-(a) it is a transfer which, if made from the United Kingdom to that third country or international organisation, would at the time when it is made be based on adequacy regulations for the purposes of Part 3 of the UK Data Protection Act 2018; or
+(a) a third country or international organisation that has an adequacy decision from the European Commission pursuant to the Law Enforcement Directive;
 
-(b) it is a transfer to the United Kingdom,
+(b) the United Kingdom; or
 
-and such a transfer does not require specific authorisation.”
+(c) a Member State of the European Union,
+
+and such a transfer does not require specific authorisation.
 
 Transfers on the basis of appropriate safeguards.
 
@@ -2888,9 +2884,7 @@ Guidance about privileged communications.
 
 141.(1)  The Commissioner must produce and publish guidance about-
 
-(a) how the Commissioner proposes to secure that privileged communications which the Commissioner obtains or has access to in the course of carrying out the
-
-Commissioner’s functions are used or disclosed only so far as necessary for carrying out those functions; and
+(a) how the Commissioner proposes to secure that privileged communications which the Commissioner obtains or has access to in the course of carrying out the Commissioner’s functions are used or disclosed only so far as necessary for carrying out those functions; and
 
 (b) how the Commissioner proposes to comply with restrictions and prohibitions on obtaining or having access to privileged communications which are imposed by an enactment.
 
@@ -4482,9 +4476,9 @@ Duty to review provision for representation of data subjects.
 
 (b) the operation of section 189;
 
-(c) the merits of exercising the power under Article 80(2) of the Gibraltar GDPR (power to enable a body or other organisation which meets the conditions in Article 80(1) of the Gibraltar GDPR to exercise some or all of a data subject’s rights under
+(c) the merits of exercising the power under Article 80(2) of the Gibraltar GDPR (power to enable a body or other organisation which meets the conditions in Article
 
-Articles 77, 78 and 79 of the Gibraltar GDPR without being authorised to do so by the data subject);
+80(1) of the Gibraltar GDPR to exercise some or all of a data subject’s rights under Articles 77, 78 and 79 of the Gibraltar GDPR without being authorised to do so by the data subject);
 
 (d) the merits of making equivalent provision in relation to data subjects’ rights under Article 82 of the Gibraltar GDPR (right to compensation);
 
