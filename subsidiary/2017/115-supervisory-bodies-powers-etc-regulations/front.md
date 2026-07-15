@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2019-05 r
 
 30.6.2022 2022/177 rr. 3, 8, 9(1), (2)(a)-(b), 11(1)(a), (3), 12(1)(a)-(b), 13(1), (5)-(6), 14, 18(1), (2), (b), 19(1), 20(1), 21(1), (a), 22(1)(a)-(b), 23, 24(1)(a), (2),
 
-7.7.2022 2025/059 rr. 9(1)(a)-(c), 20, 29A 6.3.2025 2025/116 r. 15(3)-(4) 5.6.2025
+7.7.2022 2025/059 rr. 9(1)(a)-(c), 20, 29A 6.3.2025 2025/116 r. 15(3)-(4) 5.6.2025 2026/147 rr. 3, 8A-8C, 9B 15.7.2026
 
 Transposing – Directive (EU) 2015/849
 
@@ -24,9 +24,13 @@ Part 1 General
 
 1. Title. 2 Commencement. 3. Interpretation. 4. Relationship with other enactments. 5. Risk based approach. 6. Periodical review of risk profiles. 7. Discretion to be taken account of. 8. Regard for FATF guidance.
 
+Supervisory arrangements
+
+8A. Supervisory methodology. 8B. Supervisory convergence assessments. 8C. Thematic reviews.
+
 Part 2 Cooperation
 
-9. Cooperation with competent authorities outside Gibraltar. 9A. Cooperation between supervisory bodies and equivalent authorities. 10. Omitted.
+9. Cooperation with competent authorities outside Gibraltar. 9A. Cooperation between supervisory bodies and equivalent authorities. 9B. Guidance and recommendations. 10. Omitted.
 
 Part 2a Confidentiality
 
@@ -60,10 +64,10 @@ Appeals and Miscellaneous
 
 30. Appeals. 31. Public statement. 32. Omitted. 32A. Reporting offences to law enforcement authorities.
 
-Part 5 Offences
+Part 5
 
-33. Wilfully making a statement or furnishing information knowing it to be untrue. 34. Unwillingness to cooperate and protection of legal privilege. 34A. Breach of confidentiality
+Offences
 
-35. Offences by body corporate, partnerships and unincorporated associations.
+33. Wilfully making a statement or furnishing information knowing it to be untrue. 34. Unwillingness to cooperate and protection of legal privilege. 34A. Breach of confidentiality 35. Offences by body corporate, partnerships and unincorporated associations.
 
 In exercise of the powers conferred upon it by section 184 of the Proceeds of Crime Act 2015, and in order to provide powers to supervisory authorities designated under the Proceeds of Crime Act 2015 and to transpose, in part, into the law of Gibraltar, Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC, and as amended by Directive (EU) 2018/843 of the European Parliament and of the Council of 30 May 2018,the Government has made the following Regulations-
