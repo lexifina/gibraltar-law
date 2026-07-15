@@ -32,7 +32,7 @@ GROUP ITEMS QUANTITY OF UNITS (number of individual items) WEIGHT (KG) 1.  Large
 
 10.  Automatic dispensers
 
-11.  Batteries (all types)
+11.  Batteries: (a) Portable batteries (b) LMT batteries (c) SLI batteries (d) Industrial batteries (e) Electric vehicle batteries
 
 I/WE DECLARE THAT ALL THE INFORMATION AND PARTICULARS MENTIONED HEREIN ARE TRUE AND CORRECT.
 

@@ -12,7 +12,9 @@ Amending enactments Relevant current provisions Commencement date LN. 2010/050 r
 
 14.2.2014 2015/096 rr. 14O(4)-(6), 14P(1), (7)-(8), Sch. 8 1.7.2015 2017/094 r. 2A 18.5.2017 2018/024 Sch. 2 6.2.2018 2020/224 rr. 11(3), 14J(7), 14L(4), 14T 18.6.2020 2020/531 rr. 2(1), (3), 2ZA-2ZC, 2A(1), 3(6), 3A(1)(a), 5(2)(e), (3A), 5C(6)-(7), 6(6), 6B(1), 7(1)(c), 10(a), 11(3)-(4), 11A(1)-(2), 11B(1)-(2), 12, 13(1), (2)(b)- (c), 14C, 14J(7), 14L(1)(b), (4), 14O(6), 14U(1)(f), (3)
 
-1.1.2021
+1.1.2021 2026/159 rr. 2(1)-(2), 2A(1), 9(2), 10(d), 14B-14Z, 14ZA- 14ZL, Schs. 6-8
+
+15.7.2026 2026/173 r. 14(3) 15.7.2026
 
 EU Legislation/International Agreements involved:
 
@@ -34,9 +36,33 @@ PART III ENFORCEMENT NOTICES
 
 14. Enforcement Notices. 14A.  Liability of bodies corporate - general.
 
-PART IV BATTERIES AND ACCUMULATORS
+PART IV BATTERIES AND WASTE BATTERIES
 
-14B.  Scope of Part. 14C.  Interpretation of Part. 14D.  Overarching objective. 14E.  Waste portable batteries and accumulators. 14F.  Exemption from permit requirements. 14G.  Waste industrial batteries and accumulators. 14H.  Waste automotive batteries and accumulators. 14I. Participation in collection schemes. 14J. Collection rates and target dates. 14K.  Removal of waste batteries and accumulators. 14L.  Treatment and recycling. 14M.  Participation in treatment and recycling schemes. 14N.  Increased environmental performance. 14O.  Financing of collection, treatment, recycling and public information. 14P.  Registration of producers. 14R.  Information for end-users. 14S.  New recycling technologies. 14T.  Deleted. 14U.  Voluntary agreements. 14V.  Offence – failing to register.
+14B.  Application of Part IV. 14C.  Interpretation of Part IV.
+
+Competent Authorities and Related Provisions
+
+14D.  Waste Batteries Competent Authority. 14E.  Notifying Authority. 14F.  Market Surveillance Authority. 14G.  Appeals against decisions of notified bodies.
+
+Producer Registration and Authorisation
+
+14H.  Register of producers. 14I. Authorisation on fulfilment of extended producer responsibility.
+
+Collection And Treatment of Waste Batteries
+
+14J. Overarching objective. 14K.  Exemption from permit requirements. 14L.  Collection targets. 14M.  Collection. 14N.  Compositional survey. 14O.  Treatment and recycling. 14P.  Financing of collection, treatment and recycling. 14Q. Shipment of waste batteries. 14R.  Preparation for re-use or preparation for repurposing.
+
+Reporting
+
+14S.  Reporting requirements. 14T.  Information for end-users. 14U.  Obligations of distributors. 14V.  Obligations of end-users. 14W. Green public procurement.
+
+Offences and Penalties
+
+14X. General offence. 14Y. Offence of placing non-compliant batteries on the market. 14Z. Offence of failure to register. 14ZA. Offence of failure to obtain authorisation. 14ZB. Offence of failure to comply with collection obligations. 14ZC. Offence of improper treatment or disposal of waste batteries. 14ZD. Offence of failure to comply with CE marking requirements. 14ZE. Offence of failure to draw up or maintain documentation. 14ZF. Offence of failure to comply with due diligence obligations. 14ZG. Offence of failure to report or providing false information. 14ZH. Offence of failure to comply with battery passport requirements. 14ZI. Penalties to be effective, proportionate and dissuasive. 14ZJ. Liability of bodies corporate. 14ZK. Offence of failure to comply with removability and replaceability requirements.
+
+Miscellaneous
+
+14ZL. Power to amend Schedules.
 
 PART V WASTE CONTRIBUTION
 
@@ -48,7 +74,9 @@ PART VI DECLARATIONS
 
 SCHEDULE 1 Categories of electrical and electronic equipment
 
-SCHEDULE 1A Part I Categories of EEE covered by these Regulations
+SCHEDULE 1A Part I
+
+Categories of EEE covered by these Regulations
 
 SCHEDULE 2 Selective treatment for materials and components of waste electrical and electronic equipment
 

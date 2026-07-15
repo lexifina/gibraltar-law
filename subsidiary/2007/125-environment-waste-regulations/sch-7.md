@@ -1,5 +1,25 @@
-SCHEDULE 7 Regulation 14J(3)
+SCHEDULE 7 Regulation 14L COLLECTION RATES
 
-COLLECTION RATES
+PART A — COLLECTION TARGETS FOR WASTE PORTABLE BATTERIES
 
-YEAR DATA COLLECTION CALCULATION 2009 2009 sales (S1) 2010 2010 sales (S2) - - 2011 2011 sales (S3) 2011 collection (C3) 3 x C3/(S1+S2+S3) 2012 2012 sales (S4) 2012 collection (C4) 3 x C4/(S2+S3+S4) 2013 2013 sales (S5) 2013 collection (C5) 3 x C5/(S3+S4+S5) 2014 2014 sales (S6) 2014 collection (C6) 3 x C6/(S4+S5+S6) 2015 2015 sales (S7) 2015 collection (C7) 3 x C7/(S5+S6+S7) 2016 2016 sales (S8) 2016 collection (C8) 3 x C8/(S6+S7+S8) 2017 2017 sales (S9) 2017 collection (C9) 3 x C9/(S7+S8+S9) 2018 2018 sales (S10) 2018 collection (C10) 3 x C10/(S8+S9+S10) 2019 2019 sales (S11) 2019 collection (C11) 3 x C11/(S9+S10+S11)
+Producers of portable batteries or, where appointed in accordance with Article 57(1) of the Batteries Regulation, producer responsibility organisations, shall attain and maintain durably at least the following minimum collection targets for waste portable batteries:
+
+(a) 45% by 31 December 2023;
+
+(b) 63% by 31 December 2027;
+
+(c) 73% by 31 December 2030.
+
+PART B — COLLECTION TARGETS FOR WASTE LMT BATTERIES
+
+Producers of LMT batteries or, where appointed in accordance with Article 57(1) of the Batteries Regulation, producer responsibility organisations, shall attain and maintain durably at least the following minimum collection targets for waste LMT batteries:
+
+(a) 51% by 31 December 2028;
+
+(b) 61% by 31 December 2031.
+
+PART C — CALCULATION OF COLLECTION RATES
+
+The collection rate shall be calculated as the percentage obtained by dividing the weight of waste batteries collected in accordance with the Batteries Regulation in a given calendar year by the average weight of batteries made available on the market for the first time in the preceding three calendar years.
+
+The collection rate shall be calculated separately for portable batteries and for LMT batteries in accordance with Annex XI to the Batteries Regulation.
