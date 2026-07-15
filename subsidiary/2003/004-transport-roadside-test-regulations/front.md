@@ -8,7 +8,7 @@ Commencement 20.3.2003
 
 Amending enactments Relevant current provisions Commencement date LN. 2012/078 rr. 2, 3(3)(b)(iii)(aa), (7), Schs.1-2 24.5.2012 2017/099 rr. 2, 2A, 3, 3A-3C, 4(1)-(6), 5(1)-(4), 5A, 7A-7B, Schs.1-4
 
-20.5.2018
+20.5.2018 2026/174 Sch.2 15.7.2026
 
 Transposing: Directive 2000/30/EC Directive 2010/47/EU Directive 2014/47/EU
 
@@ -154,9 +154,7 @@ Driver responsibilities.
 
 (a) the most recent periodic roadworthiness certificate or a copy thereof or, in the case of an electronically produced roadworthiness certificate, a certified or original printout of that certificate; and
 
-(b) the report of the most recent technical roadside inspection,
-
-are kept on board the vehicle when they are available.
+(b) the report of the most recent technical roadside inspection, are kept on board the vehicle when they are available.
 
 (2)  The driver of a vehicle that is subject to an initial roadside inspection or technical roadside inspection shall cooperate with the police officer or transport inspector by providing access to the vehicle, its parts and all relevant documentation needed for the purposes of the inspection.
 
@@ -466,7 +464,11 @@ Visual inspection (a) Number plate(s) missing or so insecurely fixed that it is 
 
 X
 
-(b) Inscription missing or illegible. X (c) Not in accordance with vehicle documents or records.
+(b) Inscription missing or illegible.
+
+X
+
+(c) Not in accordance with vehicle documents or records.
 
 X
 

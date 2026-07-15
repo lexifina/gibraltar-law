@@ -80,9 +80,7 @@ Azerbaijan
 
 Belarus
 
-Bosnia & Herzegovina
-
-Georgia
+Bosnia & Herzegovina Georgia
 
 Kazakhstan
 
