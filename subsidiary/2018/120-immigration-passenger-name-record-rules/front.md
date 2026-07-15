@@ -8,7 +8,7 @@ Commencement 24.5.2018
 
 Amending enactments Relevant current provisions Commencement date LN. 2019/211 r. 2(1) 1.1.2021 2020/513 rr. 2(1), 3(2)(b), 5(2)(a)-(b), 7-8, 9(5), 10(5)(b), 13
 
-1.1.2021 Act.2018-12 r. 2(1) 1.6.2021
+1.1.2021 Act.2018-12 r. 2(1) 1.6.2021 LN. 2026/203 rr. 2(1), 6(1A), (2A), (5)-(6) 15.7.2026
 
 Transposing- Directive 2016/681/EU
 
