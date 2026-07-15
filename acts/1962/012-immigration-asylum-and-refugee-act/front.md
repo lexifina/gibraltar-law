@@ -20,11 +20,11 @@ Amending enactments Relevant current provisions Commencement date Act. 1963-20 s
 
 28.2.2013 2014-10 ss. 14(1)(b), 15(1)-(2), (3)(b), (d), 18(3)(a), 26, 35(a), 55A, 55F(1)(a)-(c), (2)(a), 55G(2)-(3), (6)(a), 55H(3)(a)(iii), (5)(d)(ii)-(iii), 55I(2)(b), 55N(2)(c)(iii), 55O(4)(b)(ii)
 
-28.3.2014 LN. 2016/193 s. 55ZA 6.10.2016 2020/559 s. 55A(1), Sch.1 1.1.2021 Act. 2021-09 s. 2(2)(e) 9.2.2021 2023-12 ss. 18(1)(ef), (4), 55C(5A) 23.3.2023 2025-03 ss. 20(4), 55A(1) 11.7.20251 LN. 2025/246 s. 55NA 6.10.2025 2026/166 ss. 18-34, 55ZA, 55A-55X 14.7.2026
+28.3.2014 LN. 2016/193 s. 55ZA 6.10.2016 2020/559 s. 55A(1), Sch.1 1.1.2021 Act. 2021-09 s. 2(2)(e) 9.2.2021 2023-12 ss. 18(1)(ef), (4), 55C(5A) 23.3.2023 2025-03 ss. 20(4), 55A(1) 11.7.20251 LN. 2025/246 s. 55NA 6.10.2025 2026/166 ss. 18-34, 55ZA, 55A-55X 14.7.2026 Act. 2026-11 s. 2A 15.7.20262
 
 Transposing: Directive 64/221/EEC Directive 68/360/EEC Directive 72/194/EEC Directive 73/148/EEC Directive 75/34/EEC Directive 75/35/EEC Directive 90/364/EEC Directive 90/365/EEC Directive 93/96/EEC Directive 2001/55/EC Directive 2002/90/EC Decision 2002/946/JHA Directive 2004/38/EC
 
-1 Notice of Commencement – LN.2025/146
+1 Notice of Commencement – LN.2025/146 2 Notice of Commencement – LN.2026/148
 
 ARRANGEMENT OF SECTIONS
 
@@ -32,7 +32,7 @@ Section
 
 PART I GENERAL Preliminary
 
-1. Short title. 2. Interpretation. 3. Application: EEA Nationals and their family members. 3A. Application: Persons enjoying temporary protection. 3B. Application: asylum applicants, refugees, persons with subsidiary protection and dependant family members.
+1. Short title. 2. Interpretation. 2A. Primacy of the Treaty on Gibraltar and the European Union. 3. Application: EEA Nationals and their family members. 3A. Application: Persons enjoying temporary protection. 3B. Application: asylum applicants, refugees, persons with subsidiary protection and dependant family members.
 
 Appointment and powers of immigration officers.
 
@@ -86,9 +86,9 @@ PART IV Repealed
 
 55ZA. Repealed 55A. to 55X. Repealed
 
-PART V
+PART V HOTELS AND LODGING HOUSES
 
-HOTELS AND LODGING HOUSES Provisions relating to hotels and lodging-houses.
+Provisions relating to hotels and lodging-houses.
 
 56. Duty to keep registers of lodgers. 57. Registration of lodging-houses.
 
