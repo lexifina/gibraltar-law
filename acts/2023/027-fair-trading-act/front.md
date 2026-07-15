@@ -8,7 +8,9 @@ Act. No. 2023-27 Commencement (LN.2023/279) (ss. 25(1)(f), 51, 110(10), 111-112)
 
 (All remaining sections) 1.10.2023 Assent 24.7.2023
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date LN.2026/187 ss. 25(5)-(7), 32(i), 15.7.2026 Act.2026-11 s. 32A 15.7.20261
+
+1 Notice of Commencement – LN.2026/148
 
 ARRANGEMENT OF SECTIONS
 
@@ -28,9 +30,7 @@ Establishment and functions of Decision Making Committee
 
 Disclosure of information
 
-13. General restriction on disclosure of information. 14. Disclosure of information with consent. 15. Offences relating to disclosure of information. 16. Defamation.
-
-17. Immunity.
+13. General restriction on disclosure of information. 14. Disclosure of information with consent. 15. Offences relating to disclosure of information. 16. Defamation. 17. Immunity.
 
 PART 3 COMPLAINTS TO THE OFT
 
@@ -38,9 +38,7 @@ PART 3 COMPLAINTS TO THE OFT
 
 PART 4 BUSINESS LICENSING
 
-22. Definitions. 23. Presumption to carry on business. 24. Requirement to obtain a business licence. 25. Persons who are deemed not to carry on business. 26. Issue of licences. 27. Premises. 28. Grounds on which the OFT may refuse a licence. 29. Grounds on which the OFT shall refuse a licence. 30. Money laundering and financing of terrorism. 31. Principles in considering applications. 32. Conditions applicable to all licences. 33. Issue of licences subject to other conditions and imposition of conditions on an existing licence. 34. Applications for the removal or alteration of licence conditions. 35. Provisional approval of licence. 36. Persons licensed under separate legislation. 37. Renewal of licences. 38. No term or condition may be imposed on the renewal of a licence. 39. Revocation of licence. 40. Display and production of licences. 41. Extension to scope of existing licences. 42. Transfer of licence to another person. 43. Death of the licence holder. 44. Bankruptcy of licence holder. 45. Licence holder with legal disability. 46. Insolvency of licence holder. 47. Refusal of transfer. 48. Transfer of a licence to another premises. 49. Re-issue of licence following transfer or extension. 50. Duplicate licences.
-
-51. Fees. 52. Register of licences and changes to information provided.
+22. Definitions. 23. Presumption to carry on business. 24. Requirement to obtain a business licence. 25. Persons who are deemed not to carry on business. 26. Issue of licences. 27. Premises. 28. Grounds on which the OFT may refuse a licence. 29. Grounds on which the OFT shall refuse a licence. 30. Money laundering and financing of terrorism. 31. Principles in considering applications. 32. Conditions applicable to all licences. 32A. EU compliance conditions applicable to all licences. 33. Issue of licences subject to other conditions and imposition of conditions on an existing licence. 34. Applications for the removal or alteration of licence conditions. 35. Provisional approval of licence. 36. Persons licensed under separate legislation. 37. Renewal of licences. 38. No term or condition may be imposed on the renewal of a licence. 39. Revocation of licence. 40. Display and production of licences. 41. Extension to scope of existing licences. 42. Transfer of licence to another person. 43. Death of the licence holder. 44. Bankruptcy of licence holder. 45. Licence holder with legal disability. 46. Insolvency of licence holder. 47. Refusal of transfer. 48. Transfer of a licence to another premises. 49. Re-issue of licence following transfer or extension. 50. Duplicate licences. 51. Fees. 52. Register of licences and changes to information provided.
 
 Business Licence Applications
 
@@ -64,7 +62,9 @@ Inspectors
 
 Legal safeguards
 
-79. Self-incrimination. 80. Legal privilege. 81. Liens on documents.
+79. Self-incrimination. 80. Legal privilege.
+
+81. Liens on documents.
 
 Offences under this Part
 
@@ -80,9 +80,7 @@ Sanctioning actions
 
 Procedure for sanctioning action
 
-98. Requirement for warning notice and decision notice. 99. Warning notices.
-
-100. Decision notices. 101. Dispensing with a warning notice in urgent cases. 102. Injunctions. 103. Register of sanctioning action. 104. Publication of register of sanctioning action. 105. Right to enforce sanctioning action. 106. Notice of convictions to OFT.
+98. Requirement for warning notice and decision notice. 99. Warning notices. 100. Decision notices. 101. Dispensing with a warning notice in urgent cases. 102. Injunctions. 103. Register of sanctioning action. 104. Publication of register of sanctioning action. 105. Right to enforce sanctioning action. 106. Notice of convictions to OFT.
 
 PART 7 BUSINESS SUPPORT AND COOPERATION
 
