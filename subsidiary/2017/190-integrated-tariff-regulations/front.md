@@ -6,11 +6,11 @@ LN.2017/190
 
 Commencement 14.9.2017
 
-Amending enactments Relevant current provisions Commencement date LN. 2018/104 Notice of Corrigendum 2018/155 Sch. 1 & 3 2.7.2018 “ Sch. 1 3.7.2018 2019/123 Sch. 1 & 3 10.6.2019 2019/156 Sch. 1 8.8.2019 2019/182 Sch. 1 16.9.2019 2020/049 Sch. 1 23.1.2020 2020/160 Sch. 1 & 3 23.4.2020 2020/254 Sch. 1 & 3 2.7.2020 2020/311 Sch. 1 11.9.2020 2020/418 Sch. 3 20.11.2020 2021/219 Sch. 3 1.4.2021 Act. 2021-18 Sch. 1 & 3 20.7.2021 LN. 2022/095 Sch. 1 14.4.2022 2022/158 Sch. 1 29.6.2022 “ Sch. 1 1.7.20221 2022/311 Sch. 1 & 3 11.11.2022 2023/133 Sch. 1 1.6.2023 2023/187 Schs. 1, 3-4 12.7.2023 2022/158 Sch. 1 31.12.2023 2024/020 Sch. 4 22.2.2024 2024/021 Sch. 1 & 3 22.2.2024 “ Sch. 1 23.2.2024 2024/183 Sch. 1 & 3 1.10.2024 2024/205 Sch. 1 31.10.2024 2024/021 Sch. 1 1.1.2025 2024/235 Sch. 1 1.1.2025 2025/016 Sch. 1 16.1.2025
+Amending enactments Relevant current provisions Commencement date LN. 2018/104 Notice of Corrigendum 2018/155 Sch. 1 & 3 2.7.2018 “ Sch. 1 3.7.2018 2019/123 Sch. 1 & 3 10.6.2019 2019/156 Sch. 1 8.8.2019 2019/182 Sch. 1 16.9.2019 2020/049 Sch. 1 23.1.2020 2020/160 Sch. 1 & 3 23.4.2020 2020/254 Sch. 1 & 3 2.7.2020 2020/311 Sch. 1 11.9.2020 2020/418 Sch. 3 20.11.2020 2021/219 Sch. 3 1.4.2021 Act. 2021-18 Sch. 1 & 3 20.7.2021 LN. 2022/095 Sch. 1 14.4.2022 2022/158 Sch. 1 29.6.2022 “ Sch. 1 1.7.20221 2022/311 Sch. 1 & 3 11.11.2022 2023/133 Sch. 1 1.6.2023 2023/187 Schs. 1, 3-4 12.7.2023 2022/158 Sch. 1 31.12.2023 2024/020 Sch. 4 22.2.2024 2024/021 Sch. 1 & 3 22.2.2024 “ Sch. 1 23.2.2024 2024/183 Sch. 1 & 3 1.10.2024 2024/205 Sch. 1 31.10.2024 2024/021 Sch. 1 1.1.2025 2024/235 Sch. 1 1.1.2025 2025/016 Sch. 1 16.1.2025 2025/255 Sch. 1 30.10.2025
 
 1 Supersedes regulation 4 of LN.2022/095
 
-2025/255 Sch. 1 30.10.2025 2026/052 Sch. 1 24.3.2026
+2026/052 Sch. 1 24.3.2026 2026/160 Sch. 1 15.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -380,7 +380,9 @@ Kilogram, gross
 
 kg H2O2
 
-Kilogram of hydrogen peroxide kg K2O
+Kilogram of hydrogen peroxide
+
+kg K2O
 
 Kilogram of potassium oxide
 
@@ -406,9 +408,7 @@ Kilogram, net
 
 kg/net eda
 
-Kilogram drained net weight
-
-kg/net mas
+Kilogram drained net weight kg/net mas
 
 Kilogram net, of dry matter
 
@@ -768,9 +768,9 @@ Section IV
 
 Prepared foodstuffs; beverages, spirits and vinegar; tobacco and manufactured tobacco substitutes
 
-16. Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates
+16. Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates 17. Sugars and sugar confectionery
 
-17. Sugars and sugar confectionery 18. Cocoa and cocoa preparations 19. Preparations of cereals, flour, starch or milk; pastrycooks’ products 20. Preparations of vegetables, fruit, nuts or other parts of plants 21. Miscellaneous edible preparations 22. Beverages, spirits and vinegar 23. Residues and waste from the food industries; prepared animal fodder 24. Tobacco and manufactured tobacco substitutes
+18. Cocoa and cocoa preparations 19. Preparations of cereals, flour, starch or milk; pastrycooks’ products 20. Preparations of vegetables, fruit, nuts or other parts of plants 21. Miscellaneous edible preparations 22. Beverages, spirits and vinegar 23. Residues and waste from the food industries; prepared animal fodder 24. Tobacco and manufactured tobacco substitutes
 
 Section V
 
@@ -812,9 +812,9 @@ Section XI
 
 Textiles and textile articles
 
-50. Silk
+50. Silk 51. Wool, fine or coarse animal hair; horsehair yarn and woven fabric 52. Cotton 53. Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn
 
-51. Wool, fine or coarse animal hair; horsehair yarn and woven fabric 52. Cotton 53. Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn 54. Man-made filaments; strip and the like of man-made textile materials 55. Man-made staple fibres 56. Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof 57. Carpets and other textile floor coverings 58. Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery 59. Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use 60. Knitted or crocheted fabrics 61. Articles of apparel and clothing accessories, knitted or crocheted 62. Articles of apparel and clothing accessories, not knitted or crocheted 63. Other made-up textile articles; sets; worn clothing and worn textile articles; rags
+54. Man-made filaments; strip and the like of man-made textile materials 55. Man-made staple fibres 56. Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof 57. Carpets and other textile floor coverings 58. Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery 59. Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use 60. Knitted or crocheted fabrics 61. Articles of apparel and clothing accessories, knitted or crocheted 62. Articles of apparel and clothing accessories, not knitted or crocheted 63. Other made-up textile articles; sets; worn clothing and worn textile articles; rags
 
 Section XII
 
@@ -882,9 +882,7 @@ Section I
 
 LIVE ANIMALS; ANIMAL PRODUCTS
 
-Notes.
-
-1. Any reference in this Section to a particular genus or species of an animal, except where the context otherwise requires, includes a reference to the young of that genus or species.
+Notes. 1. Any reference in this Section to a particular genus or species of an animal, except where the context otherwise requires, includes a reference to the young of that genus or species.
 
 2. Except where the context otherwise requires, throughout the Nomenclature any reference to “dried” products also covers products which have been dehydrated, evaporated or freeze-dried.
 
@@ -918,9 +916,7 @@ R 0101 30 00 - Asses NAR 12
 
 R 0101 90 00 - Other NAR 12
 
-R
-
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0102 Live bovine animals
+R 0102 Live bovine animals
 
 - Cattle
 
@@ -930,7 +926,9 @@ CN code Description Supplementary unit Conventional rate of duty (%) Particular 
 
 R 0102 21 30 --- Cows NAR 12
 
-R 0102 21 90 --- Other NAR 12
+R
+
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0102 21 90 --- Other NAR 12
 
 R 0102 29 -- Other
 
@@ -1016,7 +1014,7 @@ R
 
 - Other
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0103 91 -- Weighing less than 50 kg
+0103 91 -- Weighing less than 50 kg
 
 0103 91 10 --- Domestic species NAR 12
 
@@ -1028,7 +1026,9 @@ R 0103 92 -- Weighing 50 kg or more
 
 0103 92 11 ---- Sows having farrowed at least once, of a weight of not less than 160 kg NAR 12
 
-R 0103 92 19 ---- Other NAR 12
+R
+
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0103 92 19 ---- Other NAR 12
 
 R 0103 92 90 --- Other NAR 12
 
@@ -1100,7 +1100,7 @@ R 0106 Other live animals
 
 - Mammals
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0106 11 00 -- Primates NAR 12
+0106 11 00 -- Primates NAR 12
 
 R 0106 12 00 -- Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses (mammals of the suborder Pinnipedia) NAR 12
 
@@ -1112,7 +1112,9 @@ R 0106 14 -- Rabbits and hares
 
 R 0106 14 90 --- Other - 12
 
-R 0106 19 00 -- Other - 12
+R
+
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0106 19 00 -- Other - 12
 
 R 0106 20 00 - Reptiles (including snakes and turtles) NAR 12
 
@@ -1152,9 +1154,7 @@ Note 1.This chapter does not cover: (a) products of the kinds described in headi
 
 (c) animal fat, other than products of heading 0209 (Chapter 15).
 
-Additional notes 1.A. The following expressions have the meanings hereby assigned to them:
-
-(a) ‘carcases of bovine animals’, for the purposes of subheadings 0201 10 and 0202 10: whole carcases of the slaughtered animals after having been bled, eviscerated and skinned, imported with or without the heads, with or without the feet and with or without the other offals attached. Where carcases are imported without the heads, the latter must have been separated from the carcase at the atloido-occipital joint. When imported without the feet, the latter must have been cut off at the carpo-metacarpal or tarso-metatarsal joints; ‘carcase’ includes the front part of the carcase comprising all the bones and the scrag, neck and shoulder, having more than 10 pairs of ribs;
+Additional notes 1.A. The following expressions have the meanings hereby assigned to them: (a) ‘carcases of bovine animals’, for the purposes of subheadings 0201 10 and 0202 10: whole carcases of the slaughtered animals after having been bled, eviscerated and skinned, imported with or without the heads, with or without the feet and with or without the other offals attached. Where carcases are imported without the heads, the latter must have been separated from the carcase at the atloido-occipital joint. When imported without the feet, the latter must have been cut off at the carpo-metacarpal or tarso-metatarsal joints; ‘carcase’ includes the front part of the carcase comprising all the bones and the scrag, neck and shoulder, having more than 10 pairs of ribs;
 
 (b) ‘half-carcases of bovine animals’, for the purposes of subheadings 0201 10 and 0202 10: the product resulting from the symmetrical division of the whole carcase through the centre of each cervical, dorsal, lumbar and sacral vertebra and through the centre of the sternum and of the ischio-pubic symphysis; ‘half-carcase’ includes the front part of the half-carcase comprising all the bones and the scrag, neck and shoulder, having more than 10 ribs;
 
@@ -1206,9 +1206,7 @@ The loin is separated from the lower part of the half-carcase by a cut just belo
 
 (k) ‘middles’, for the purposes of subheading 0210 19 20: the bacon side without the ham and the fore-end, whether or not boned.
 
-The subheading also includes cuts of middles containing tissue of loin and belly in natural proportion to the entire middles. B. The parts of the cuts defined in paragraph 2(A)(f) fall in the same subheadings, only if they contain rind and subcutaneous fat. If the cuts falling in subheadings 0210 11 11, 0210 11 19, 0210 11 31, 0210 11 39, 0210 19 30 and 0210 19 60 are derived from a bacon side from which the bones indicated under paragraph 2(A)(g) have already been removed, the lines of cutting must follow those defined under paragraph 2(A)(b), (c) and (d) accordingly; in any case, these cuts or parts thereof must contain bones. C. Subheadings 0206 49 00 and 0210 99 49, include, in particular, heads or halves of heads of domestic swine, with or without the brains, cheeks or tongues, and parts thereof. The head is separated from the rest of the half-carcase as follows: — by a straight cut parallel to the cranium; or — by a cut parallel to the cranium up to the level of the eyes and then inclined to the front of the head, thereby causing the chaps to remain attached to the half-carcase. The cheeks, snouts and ears as well as the meat attached to the head, particularly to the rear part, are considered parts of heads. However, the cuts of boneless meat of the fore- end, presented alone (jowls, chaps, or chaps and jowls together), fall in subheading 0203 19 55, 0203 29 55, 0210 19 50 or 0210 19 81, as the case may be. D. For the purposes of subheadings 0209 10 11 and 0209 10 19, ‘subcutaneous pig fat’ has the meaning of the fatty tissue which accumulates under the rind of the pig and adheres to it, irrespective of the part of the pig from which it comes; in any case, the weight of the fatty tissue must exceed the weight of the rind.
-
-These subheadings also include subcutaneous pig fat from which the rind has been removed. E.  For the purposes of subheadings 0210 11 31, 0210 11 39, 0210 12 19 and 0210 19 60 to 0210 19 89, products in which the water/protein ratio in the meat (nitrogen content × 6,25) is 2,8 or less is considered as ‘dried or smoked’. The nitrogen content is determined in accordance with ISO method 937-1978. 3.A. For the purposes of heading 0204, the following expressions have the meanings hereby assigned to them: (a) ‘carcases’, for the purposes of subheadings 0204 10, 0204 21, 0204 30, 0204 41, 0204 50 11 and 0204 50 51: whole carcases of the slaughtered animals after having been bled, eviscerated and skinned, imported with or without the heads, with or without the feet and with or without the other offals attached. Where carcases are imported without the heads, the latter must have been separated from the carcase at the atloido-occipital joint. When imported without the feet, the latter must have been cut off at the carpo-metacarpal or tarso-metatarsal joints;
+The subheading also includes cuts of middles containing tissue of loin and belly in natural proportion to the entire middles. B. The parts of the cuts defined in paragraph 2(A)(f) fall in the same subheadings, only if they contain rind and subcutaneous fat. If the cuts falling in subheadings 0210 11 11, 0210 11 19, 0210 11 31, 0210 11 39, 0210 19 30 and 0210 19 60 are derived from a bacon side from which the bones indicated under paragraph 2(A)(g) have already been removed, the lines of cutting must follow those defined under paragraph 2(A)(b), (c) and (d) accordingly; in any case, these cuts or parts thereof must contain bones. C. Subheadings 0206 49 00 and 0210 99 49, include, in particular, heads or halves of heads of domestic swine, with or without the brains, cheeks or tongues, and parts thereof. The head is separated from the rest of the half-carcase as follows: — by a straight cut parallel to the cranium; or — by a cut parallel to the cranium up to the level of the eyes and then inclined to the front of the head, thereby causing the chaps to remain attached to the half-carcase. The cheeks, snouts and ears as well as the meat attached to the head, particularly to the rear part, are considered parts of heads. However, the cuts of boneless meat of the fore- end, presented alone (jowls, chaps, or chaps and jowls together), fall in subheading 0203 19 55, 0203 29 55, 0210 19 50 or 0210 19 81, as the case may be. D. For the purposes of subheadings 0209 10 11 and 0209 10 19, ‘subcutaneous pig fat’ has the meaning of the fatty tissue which accumulates under the rind of the pig and adheres to it, irrespective of the part of the pig from which it comes; in any case, the weight of the fatty tissue must exceed the weight of the rind. These subheadings also include subcutaneous pig fat from which the rind has been removed. E.  For the purposes of subheadings 0210 11 31, 0210 11 39, 0210 12 19 and 0210 19 60 to 0210 19 89, products in which the water/protein ratio in the meat (nitrogen content × 6,25) is 2,8 or less is considered as ‘dried or smoked’. The nitrogen content is determined in accordance with ISO method 937-1978. 3.A. For the purposes of heading 0204, the following expressions have the meanings hereby assigned to them: (a) ‘carcases’, for the purposes of subheadings 0204 10, 0204 21, 0204 30, 0204 41, 0204 50 11 and 0204 50 51: whole carcases of the slaughtered animals after having been bled, eviscerated and skinned, imported with or without the heads, with or without the feet and with or without the other offals attached. Where carcases are imported without the heads, the latter must have been separated from the carcase at the atloido-occipital joint. When imported without the feet, the latter must have been cut off at the carpo-metacarpal or tarso-metatarsal joints;
 
 (b) ‘half-carcases’, for the purposes of subheadings 0204 10, 0204 21, 0204 30, 0204 41, 0204 50 11 and 0204 50 51: the product resulting from the symmetrical division of the whole carcase through the centre of each cervical, dorsal, lumbar and sacral vertebra and through the centre of the sternum and of the ischio-pubic symphysis;
 
@@ -1254,7 +1252,9 @@ Poultry cuts as referred to in (a) which have been partly boned fall in subheadi
 
 National Notes
 
-Items subject to the endangered species legislation may be prohibited from importation or may only be imported when covered by a licence issued by the Collector of Customs under the Endangered Species Act, 1990 or the EC Regulations on implementation in the community of CITES (the Convention on International Trade in Endangered Species of Wild Flora and Fauna).
+Items subject to the endangered species legislation may be prohibited from importation or may only be imported when covered by a licence issued by the Collector of Customs under the Endangered Species Act, 1990 or the EC Regulations on implementation in the community of
+
+CITES (the Convention on International Trade in Endangered Species of Wild Flora and Fauna).
 
 Fresh meat and meat products imported otherwise than for sale for human consumption whose country of origin does not, at the time of importation, have its health marks recognised by the Environmental  Agency is a prohibited import under the Imports and Exports (Control) Regulations 1987.
 
@@ -1282,7 +1282,7 @@ P, R 0202 Meat of bovine animals, frozen
 
 R 0202 20 - Other cuts with bone in
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0202 20 10 -- ‘Compensated’ quarters - Free
+0202 20 10 -- ‘Compensated’ quarters - Free
 
 R 0202 20 30 -- Unseparated or separated forequarters - Free
 
@@ -1314,7 +1314,9 @@ P, R 0203 12 -- Hams, shoulders and cuts thereof, with bone in
 
 0203 12 11 ---- Hams and cuts thereof - Free
 
-P, R 0203 12 19 ---- Shoulders and cuts thereof - Free
+P, R
+
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0203 12 19 ---- Shoulders and cuts thereof - Free
 
 P, R 0203 12 90 --- Other - Free
 
@@ -1360,8 +1362,6 @@ R 0203 22 90 --- Other - Free
 
 R 0203 29 -- Other
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions
-
 --- Of domestic swine
 
 0203 29 11 ---- Fore-ends and cuts thereof - Free
@@ -1405,6 +1405,8 @@ P, R 0204 23 00 -- Boneless - Free
 P, R 0204 30 00 - Carcases and half-carcases of lamb, frozen - Free
 
 R
+
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions
 
 - Other meat of sheep, frozen
 
@@ -1450,7 +1452,7 @@ P, R
 
 -- Frozen
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0204 50 51 --- Carcases and half-carcases - Free
+0204 50 51 --- Carcases and half-carcases - Free
 
 R 0204 50 53 --- Short forequarters - Free
 
@@ -1496,7 +1498,7 @@ P, R 0206 22 00 -- Livers - Free
 
 P, R 0206 29 -- Other
 
-0206 29 10 --- For the manufacture of pharmaceutical products - Free
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0206 29 10 --- For the manufacture of pharmaceutical products - Free
 
 P, R
 
@@ -1542,8 +1544,6 @@ R 0206 90 99 --- Of sheep and goats - Free
 
 R 0207 Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions
-
 - Of fowls of the species Gallus domesticus
 
 0207 11 -- Not cut in pieces, fresh or chilled
@@ -1586,7 +1586,7 @@ P, R
 
 --- Offal
 
-0207 13 91 ---- Livers - Free
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0207 13 91 ---- Livers - Free
 
 P, R 0207 13 99 ---- Other - Free
 
@@ -1628,9 +1628,7 @@ R
 
 0207 24 10 --- Plucked and drawn, without heads and feet but with necks, hearts, livers and gizzards, known as ‘80 % turkeys’ - Free
 
-P, R
-
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0207 24 90 --- Plucked and drawn, without heads and feet and without necks, hearts, livers and gizzards, known as ‘73 % turkeys’, or otherwise presented - Free
+P, R 0207 24 90 --- Plucked and drawn, without heads and feet and without necks, hearts, livers and gizzards, known as ‘73 % turkeys’, or otherwise presented - Free
 
 P, R 0207 25 -- Not cut in pieces, frozen
 
@@ -1676,6 +1674,8 @@ P, R 0207 26 99 ---- Other - Free
 
 P, R 0207 27 -- Cuts and offal, frozen
 
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions
+
 --- Cuts
 
 0207 27 10 ---- Boneless - Free
@@ -1718,9 +1718,7 @@ R
 
 0207 41 20 --- Plucked, bled, gutted but not drawn, with heads and feet, known as ‘85 % ducks’ - Free
 
-P, R
-
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0207 41 30 --- Plucked and drawn, without heads and feet but with necks, hearts, livers and gizzards, known as ‘70 % ducks’ - Free
+P, R 0207 41 30 --- Plucked and drawn, without heads and feet but with necks, hearts, livers and gizzards, known as ‘70 % ducks’ - Free
 
 P, R 0207 41 80 --- Plucked and drawn, without heads and feet and without necks, hearts, livers and gizzards, known as ‘63 % ducks’, or otherwise presented - Free
 
@@ -1766,6 +1764,8 @@ P, R 0207 44 99 ---- Other - Free
 
 P, R 0207 45 -- Other, frozen
 
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions
+
 --- Cuts
 
 0207 45 10 ---- Boneless - Free
@@ -1804,7 +1804,7 @@ R
 
 - Of geese
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0207 51 -- Not cut in pieces, fresh or chilled
+0207 51 -- Not cut in pieces, fresh or chilled
 
 0207 51 10 --- Plucked, bled, not drawn, with heads and feet, known as ‘82 % geese’ - Free
 
@@ -1854,7 +1854,7 @@ P, R 0207 55 -- Other, frozen
 
 --- Cuts
 
-0207 55 10 ---- Boneless - Free
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0207 55 10 ---- Boneless - Free
 
 R
 
@@ -1888,7 +1888,7 @@ R 0207 55 99 ---- Other - Free
 
 R 0207 60 - Of guinea fowls
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0207 60 05 -- Not cut in pieces, fresh, chilled or frozen - Free
+0207 60 05 -- Not cut in pieces, fresh, chilled or frozen - Free
 
 P, R
 
@@ -1942,7 +1942,9 @@ P, R 0208 40 80 -- Other - Free
 
 P, R 0208 50 00 - Of reptiles (including snakes and turtles) - Free
 
-P, R 0208 60 00 - Of camels and other camelids (Camelidae) - Free
+P, R
+
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0208 60 00 - Of camels and other camelids (Camelidae) - Free
 
 P, R 0208 90 - Other
 
@@ -1968,7 +1970,7 @@ P, R 0209 Pig fat, free of lean meat, and poultry fat, not rendered or otherwise
 
 0209 10 90 -- Pig fat, other than that of subheading 02091011 or 02091019 - Free
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0209 90 00 - Other - Free
+0209 90 00 - Other - Free
 
 0210 Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal
 
@@ -2024,7 +2026,7 @@ R
 
 ---- Dried or smoked
 
-0210 19 60 ----- Fore-ends and cuts thereof - Free
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0210 19 60 ----- Fore-ends and cuts thereof - Free
 
 R 0210 19 70 ----- Loins and cuts thereof - Free
 
@@ -2050,9 +2052,9 @@ P, R
 
 0210 91 00 -- Of primates - Free
 
-P, R 0210 92 -- Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order
+P, R 0210 92 -- Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia)
 
-CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia) 0210 92 10 --- Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia) - Free
+0210 92 10 --- Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia) - Free
 
 R
 
@@ -2114,7 +2116,9 @@ R 0210 99 79 ------ Other - Free
 
 R 0210 99 85 ----- Other - Free
 
-R 0210 99 90 --- Edible flours and meals of meat or meat offal - Free
+R
+
+CN code Description Supplementary unit Conventional rate of duty (%) Particular rates of duty Prohibitions & Restrictions 0210 99 90 --- Edible flours and meals of meat or meat offal - Free
 
 R
 

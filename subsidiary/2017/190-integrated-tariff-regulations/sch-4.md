@@ -30,7 +30,9 @@ where electric motor used partially (hybrid) or solely for propulsion
 
 Nil
 
-The corresponding rate under Schedule 1 shall apply 5. A vehicle ceases to operate under a Road Haulage Operators Licence under paragraph 24 of Schedule 3
+The corresponding rate under Schedule 1 shall apply
+
+5. A vehicle ceases to operate under a Road Haulage Operators Licence under paragraph 24 of Schedule 3
 
 Tractor head
 

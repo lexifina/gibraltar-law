@@ -40,9 +40,7 @@ Free
 
 Free
 
-8. Dutiable goods imported into Gibraltar by a contractor or sub-contractor for the purpose of a contract awarded by the Crown
-
-Free
+8. Dutiable goods imported into Gibraltar by a contractor or sub-contractor for the purpose of a contract awarded by the Crown Free
 
 9. Goods in respect of which a certificate for the economic and social interest of Gibraltar  has been issued by the Government under regulation 8
 
@@ -84,9 +82,9 @@ Free
 
 3. Perfume – 50 grammes (60 cc. or 2 fl. ozs).
 
-Free
-
 4. Toilet water  – 250 c.c. or 9 fl. ozs.
+
+Free
 
 5. Other articles – articles of any description to a total value not exceeding £390.00
 
@@ -112,11 +110,9 @@ Free
 
 Provided that the transportation by a sales representative of the samples, handbooks and tools necessary for the exercise of his occupation, shall not be treated as industrial or commercial transportation;
 
-(b) is not let, hired out or otherwise disposed of whilst in Gibraltar; (c) is intended to be exported and is so exported from Gibraltar on the departure therefrom by the temporary visitor, unless in any particular case, the Collector shall have otherwise allowed; and
+(b) is not let, hired out or otherwise disposed of whilst in Gibraltar; (c) is intended to be exported and is so exported from Gibraltar on the departure therefrom by the temporary visitor, unless in any particular case, the Collector shall have otherwise allowed; and (d) the vehicle has complied at its place of registration with the customs or other duties and taxes to which vehicles of that class or description are normally liable and has not, by reason of its exportation been subject to any exemption from or refund of, such duties and taxes or any turnover tax, excise duty or other consumption tax
 
 Free
-
-(d) the vehicle has complied at its place of registration with the customs or other duties and taxes to which vehicles of that class or description are normally liable and has not, by reason of its exportation been subject to any exemption from or refund of, such duties and taxes or any turnover tax, excise duty or other consumption tax
 
 20. A vehicle imported into Gibraltar by a person who satisfies and continues to satisfy the  Collector that–
 
@@ -130,9 +126,11 @@ Free
 
 21. For this purpose of these Regulations, a personal water craft  commonly known  and meaning a “jet ski” imported into Gibraltar by a person who is not normally resident in Gibraltar and who at the time of importation–
 
-(a) produces the  jet ski to a Customs Officer for examination; (b) if the Collector so requires either– (i) satisfies the customs officer that security for payment of the duty payable under Part 2 and for compliance with these Regulations has been given; or (ii) deposits in accordance with the custom’s officer’s directions, such sum of money or other security as the officer may require to secure that duty and compliance with these Regulations; and (c) gives such additional information relating to the jet ski the circumstances of its importation and the intended use of it as the officer may require; (d) does not permit the  jet ski to be operated or used by any other person other than a person not normally resident in Gibraltar accompanying him or expressly authorised in writing by him to operate and use the jet ski; (e) does not use or permit the  jet ski to be used for any industrial or commercial purpose either with or without remuneration or by or in the service of a company or firm the head office of which is in Gibraltar or for the transport of persons or goods for remuneration; (f) does not lend, sell, pledge, hire, give away or exchange or otherwise dispose of such jet ski
+(a) produces the  jet ski to a Customs Officer for examination;
 
 Free
+
+(b) if the Collector so requires either– (i) satisfies the customs officer that security for payment of the duty payable under Part 2 and for compliance with these Regulations has been given; or (ii) deposits in accordance with the custom’s officer’s directions, such sum of money or other security as the officer may require to secure that duty and compliance with these Regulations; and (c) gives such additional information relating to the jet ski the circumstances of its importation and the intended use of it as the officer may require; (d) does not permit the  jet ski to be operated or used by any other person other than a person not normally resident in Gibraltar accompanying him or expressly authorised in writing by him to operate and use the jet ski; (e) does not use or permit the  jet ski to be used for any industrial or commercial purpose either with or without remuneration or by or in the service of a company or firm the head office of which is in Gibraltar or for the transport of persons or goods for remuneration; (f) does not lend, sell, pledge, hire, give away or exchange or otherwise dispose of such jet ski
 
 22. A vehicle purchased new in Gibraltar from a local dealer and licensed under the Transport Act 1988 and registered as a self-drive vehicle, not having been previously registered in Gibraltar or elsewhere ,provided  the date of commencement of the licence is less than two years after the date of manufacture of the vehicle A vehicle shall remain registered as a self drive vehicle for a maximum of two years since the date of registration.
 
@@ -164,15 +162,17 @@ Furniture and Furnishings; Domestic use vacuum cleaners and sewing machines; Ele
 
 Free
 
-30. Goods vehicles purchased in Gibraltar from a local dealer as defined in the Traffic Act 2005 exclusively for business or government use and being classified in Annex II to Council Directive 70/156/EEC under codes N1, 2 or 3. Free
+30. Goods vehicles purchased in Gibraltar from a local dealer as defined in the Traffic Act 2005 exclusively for business or government use and being classified in Annex II to Council Directive 70/156/EEC under codes N1, 2 or 3.
+
+Free
 
 31. Equipment for the production of sound or video recordings in the music, television,  or cinema industry.
 
 Free
 
-32. Paper which is recycled,  approved environmentally or eco (paper from renewable forests) and stationery made predominantly from recycled materials
-
 Free
+
+32. Paper which is recycled,  approved environmentally or eco (paper from renewable forests) and stationery made predominantly from recycled materials
 
 33. All LED lightning, including LED torches
 
@@ -224,21 +224,19 @@ Free
 
 45. Duty on motor spirit supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
 
-NOTE:
-
-£0.12p per litre
-
-“Vessels” as defined in the Imports and Exports Act, 1986.
+NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
 “Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time.
 
-46. Diesel fuel supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length
+£0.12p per litre
+
+46. Diesel fuel supplied from land or otherwise to vessels, used for non-commercial purposes, less than 18 metres in length 12p per litre
 
 NOTE: “Vessels” as defined in the Imports and Exports Act, 1986.
 
 “Diesel fuel” means Automotive Gasoil supplied in litres as contained in the Integrated Tariff Regulations.
 
-“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time. 12p per litre
+“Non-commercial purposes” does not include vessels used by HMGOG departments, authorities, agencies, law enforcement agencies or such other persons as HMGOG may designate from time to time.
 
 47. Materials, components or other goods imported for manufacture, production or processing in Gibraltar for an industrial activity in respect of which the Minister for Finance has issued a certificate. Free
 
