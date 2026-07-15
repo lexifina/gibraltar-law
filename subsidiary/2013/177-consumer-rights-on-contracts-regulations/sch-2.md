@@ -22,7 +22,7 @@ The information referred to in regulations 6(1) and 9(1) is (subject to the note
 
 (h) the cost of using the means of distance communication for the conclusion of the contract where that cost is calculated other than at the basic rate;
 
-(i) the arrangements for payment, delivery, performance, and the time by which the trader undertakes to deliver the goods or to perform the services;
+(i) the arrangements for payment, delivery, including environmentally friendly delivery options where available, performance, the time by which the trader undertakes to deliver the goods or to perform the services and, where applicable, the trader’s complaint handling policy;
 
 (j) where applicable, the trader’s complaint handling policy;
 
@@ -34,7 +34,17 @@ The information referred to in regulations 6(1) and 9(1) is (subject to the note
 
 (n) where a right to cancel is not provided for in accordance with regulation 15, the information that the consumer will not benefit from a right to cancel or, where applicable, the circumstances under which the consumer loses the right to cancel;
 
-(o) in the case of a sales contract, a reminder that the trader is under a legal duty to supply goods that are in conformity with the contract;
+(o) a reminder of the existence of the legal guarantee of conformity for goods and its main elements, including its minimum duration of two years as provided in Directive (EU) 2019/771, in a prominent manner and, if applicable, using the harmonised label referred to in Directive (EU) 2024/825;
+
+(oa) where the producer offers the consumer a commercial guarantee of durability at no additional cost, covering the entire good and with a duration of more than two years, and makes that information available to the trader, the information that that good benefits from such a guarantee, its duration and a reminder of the existence of the legal guarantee of conformity, in a prominent manner and, if applicable, using the harmonised label referred to in Directive (EU) 2024/825;
+
+(ob) a reminder of the existence of the legal guarantee of conformity for digital content and digital services;
+
+(oc) for goods with digital elements, for digital content and for digital services, where the producer or the provider makes the information available to the trader, the minimum period, whether expressed as a period of time or by reference to a date, during which the producer or the provider provides software updates;
+
+(od) where applicable, the reparability score for the goods;
+
+(oe) where paragraph (od) is not applicable and provided that the producer makes the information available to the trader, information about the availability and estimated cost of, and procedure for ordering, spare parts that are necessary to keep the goods in conformity, about the availability of repair and maintenance instructions and about repair restrictions;
 
 (p) where applicable, the existence and the conditions of after-sale customer assistance, after-sales services and commercial guarantees;
 

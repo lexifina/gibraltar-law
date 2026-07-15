@@ -16,12 +16,26 @@ The information referred to in regulation 5(1) is-
 
 (e) where applicable, the trader’s complaint handling policy;
 
-(f) in the case of a sales contract, a reminder that the trader is under a legal duty to supply goods that are in conformity with the contract;
+(ea) a reminder of the existence of the legal guarantee of conformity for goods and its main elements, including its minimum duration of two years as provided in Directive (EU) 2019/771, in a prominent manner and, if applicable, using the harmonised label referred to in Directive (EU) 2024/825;
 
-(g) where applicable, the existence and the conditions of after-sales services and commercial guarantees;
+(eb) where the producer offers the consumer a commercial guarantee of durability at no additional cost, covering the entire good and with a duration of more than two years and makes that information available to the trader, the information that that good benefits from such a guarantee, its duration and a reminder of the existence of the legal guarantee of conformity, in a prominent manner and, if applicable, using the harmonised label referred to in Directive (EU) 2024/825;
+
+(ec) a reminder of the existence of the legal guarantee of conformity for digital content and digital services;
+
+(ed) where applicable, the existence and the conditions of after-sales services and commercial guarantees;
+
+(ef) for goods with digital elements, for digital content and for digital services, where the producer or provider makes the information available to the trader, the minimum period, whether expressed as a period of time or by reference to a date, during which the producer or the provider provides software updates;
+
+(f) Deleted
+
+(g) Deleted
 
 (h) the duration of the contract, where applicable, or, if the contract is of indeterminate duration or is to be extended automatically, the conditions for terminating the contract;
 
 (i) where applicable, the functionality, including applicable technical protection measures, of digital content;
 
-(j) where applicable, any relevant compatibility of digital content with hardware and software that the trader is aware of or can reasonably be expected to have been aware of.
+(j) where applicable, any relevant compatibility of digital content with hardware and software that the trader is aware of or can reasonably be expected to have been aware of;
+
+(k) where applicable, the reparability score for the goods;
+
+(l) where paragraph (k) is not applicable and provided that the producer makes the information available to the trader, information about the availability and estimated cost of, and procedure for ordering, spare parts that are necessary to keep the goods in conformity, about the availability of repair and maintenance instructions and about repair restrictions.

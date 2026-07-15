@@ -6,7 +6,7 @@ LN.2013/177
 
 Commencement 13.6.2014
 
-Amending enactments Relevant current provisions Commencement date LN. 2017/250 r. 3(4)(g), (6) 1.7.2018
+Amending enactments Relevant current provisions Commencement date LN. 2017/250 r. 3(4)(g), (6) 1.7.2018 2026/198 rr. 2, 10(2), Sch.1-2 15.7.2026
 
 Transposing: Directive 2011/83/EU Directive (EU) 2015/2302
 
@@ -26,9 +26,7 @@ PART 3 RIGHT TO CANCEL
 
 14. Application of Part 3. 15. Limits of application: circumstances excluding cancellation. 16. Right to cancel. 17. Normal cancellation period. 18. Cancellation period extended for breach of information requirement. 19. Exercise of the right to withdraw or cancel. 20. Effect of withdrawal or cancellation. 21. Reimbursement by trader in the event of withdrawal or cancellation. 22. Return of goods in the event of cancellation. 23. Provision of service in cancellation period. 24. Provision of digital content in cancellation period. 25. Effects of withdrawal or cancellation on ancillary contracts.
 
-PART 4
-
-GOODS
+PART 4 GOODS
 
 26. Application and scope of Part 4. 27. Goods to be as described. 28. Other pre-contract information included in contract. 29. Time for delivery of goods. 30. Passing of risk. 31. Other pre-contract information included in contract (digital content). 32. Information about the trader or service to be binding. 33. Right to refund. 34. Additional payments under a contract. 35. Excessive charges prohibited. 36. Charges for communication by telephone.
 
