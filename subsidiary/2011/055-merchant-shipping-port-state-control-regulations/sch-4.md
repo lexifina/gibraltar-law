@@ -120,6 +120,8 @@ LIST OF CERTIFICATES AND DOCUMENTS
 
 58. International Energy Efficiency Certificate (MARPOL/ANVI/Reg.6).
 
+58A. FuelEU Document of Compliance issued in accordance with the Gibraltar Merchant Shipping (Renewable and Low-Carbon Fuels in Maritime Transport) Regulations 2026 or an equivalent document issued by an EU Member State or an EEA State under Regulation (EU) 2023/1805.
+
 59. Ship Energy Efficiency Management Plan (SEEMP) (MARPOL/ANVI/Reg.22).
 
 60. EEDI Technical File (MARPOL/ANVI/Reg. 20).
