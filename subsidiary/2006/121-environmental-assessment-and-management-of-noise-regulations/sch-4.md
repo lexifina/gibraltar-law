@@ -43,3 +43,5 @@ MINIMUM REQUIREMENTS FOR ACTION PLANS
 (f) regulatory or economic measures or incentives.
 
 3. Each action plan should contain estimates in terms of the reduction of the number of people affected (annoyed, sleep disturbed, or other).
+
+__________________________

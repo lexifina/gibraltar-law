@@ -1,23 +1,31 @@
-SCHEDULE 2 Regulation 7(2)
+SCHEDULE 2 (Regulation 7)
 
 ASSESSMENT METHODS FOR HARMFUL EFFECTS
 
-1. Dose-effect relations should be used to assess the effect of noise on populations. The dose- effect relations introduced by future revisions of this Schedule will concern in particular:
+1. The assessment of harmful effects of environmental noise shall use the dose-effect relations for the following health endpoints-
 
-(a) the relation between annoyance and Lden for road and industrial noise,
+(a) ischaemic heart disease (IHD) attributable to long-term exposure to road traffic noise, assessed by reference to the Lden indicator and using the relative risk function specified in Annex III to the Directive;
 
-(b) the relation between sleep disturbance and Lnight for road and for industrial noise.
+(b) high annoyance (HA) from road traffic noise, assessed by reference to the Lden indicator; and
 
-2. If necessary, specific dose-effect relations could be presented for:
+(c) high sleep disturbance (HSD) from road traffic noise, assessed by reference to the Lnight indicator.
 
-(a) dwellings with special insulation against noise as defined in Schedule 3,
+2. The percentage of highly annoyed persons (%HA) and the percentage of highly sleep- disturbed persons (%HSD) shall be calculated using the formulas set out in Annex III to the Directive as replaced by Commission Directive (EU) 2020/367.
 
-(b) dwellings with a quiet façade as defined in Schedule 3,
+3. The Competent Authority shall calculate the total number of persons affected and, where appropriate, the attributable number of cases of harmful effects.
 
-(c) different climates/different cultures,
+4. Specific dose-effect relations may be applied where available for-
 
-(d) vulnerable groups of the population,
+(a) dwellings with special insulation against noise;
 
-(e) tonal industrial noise,
+(b) dwellings with a quiet facade;
 
-(f) impulsive industrial noise and other special cases.
+(c) different climates or cultures;
+
+(d) vulnerable groups of the population;
+
+(e) tonal noise; or
+
+(f) impulsive noise.
+
+5. Exposure shall be assessed independently for each noise source and harmful effect.
