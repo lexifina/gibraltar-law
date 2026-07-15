@@ -56,9 +56,7 @@ Hearings.
 
 6.(1)  Hearings before the Tribunal shall be conducted in such manner as the members of the Tribunal consider most suitable for the clarification and determination of the issues before the Tribunal and generally to the just handling of the proceedings.
 
-(2)  Evidence before the Tribunal may be given orally or, if the Tribunal so directs, by affidavit or a statement made or recorded in a document, but at any stage of the hearing, the
-
-Tribunal may, on the application of any party or of its own motion, require the personal attendance as a witness of–
+(2)  Evidence before the Tribunal may be given orally or, if the Tribunal so directs, by affidavit or a statement made or recorded in a document, but at any stage of the hearing, the Tribunal may, on the application of any party or of its own motion, require the personal attendance as a witness of–
 
 (a) the maker of an affidavit;
 

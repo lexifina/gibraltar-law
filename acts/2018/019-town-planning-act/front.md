@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2018-19 Commencement (LN. 2019/191) 26.9.2019 Assent 1.8.2018
 
-Amending enactments Relevant current provisions Commencement date LN. 2019/196 Sch. 1 26.9.2019 2020/184 Sch. 1 21.5.2020
+Amending enactments Relevant current provisions Commencement date LN. 2019/196 Sch. 1 26.9.2019 2020/184 Sch. 1 21.5.2020 2026/169 ss. 33A-33J 15.7.2026 2026/173 s. 49A 15.7.2026
 
 ARRANGEMENT OF SECTIONS
 
@@ -52,9 +52,15 @@ Determination of applications
 
 30. Determination of applications: general considerations. 31. Refusal of planning permission. 32. Large Combustion Plants. 33. Regulations as to method of dealing with applications.
 
+Applications relating to renewable energy plants
+
+33A. Interpretation and scope of sections 33B to 33I. 33B. Validation of renewable energy applications. 33C. Maximum duration of planning permission -granting procedure in renewables acceleration areas. 33D. Maximum duration of planning permission -granting procedure outside renewables acceleration areas. 33E. Planning permission -granting procedure for installation of solar energy equipment. 33F. Repowering. 33G. Heat pumps. 33H. Overriding public interest. 33I. Time exclusions from the planning permission -granting procedure. 33J. Contact point.
+
 Duration and effect of planning permission
 
-34. Duration of planning permission. 35. Effect of planning permission.
+34. Duration of planning permission.
+
+35. Effect of planning permission.
 
 Power to modify planning permission
 
@@ -68,7 +74,7 @@ PART V
 
 Enforcement
 
-42. Breach of planning control. 43. Enforcement Notices. 44. Variation and withdrawal of an enforcement notice. 45. Appeal against an enforcement notice. 46. Execution and cost of works required by an enforcement notice. 47. Stoppage orders. 48. Appeal against stoppage order. 49. Offences.
+42. Breach of planning control. 43. Enforcement Notices. 44. Variation and withdrawal of an enforcement notice. 45. Appeal against an enforcement notice. 46. Execution and cost of works required by an enforcement notice. 47. Stoppage orders. 48. Appeal against stoppage order. 49. Offences. 49A. Environmental damage caused by development without consent.
 
 Miscellaneous
 
@@ -78,7 +84,9 @@ PART VI
 
 Government Developments
 
-54. Application of Part. 55. Government to seek approval from Commission. 56. Information to be provided to Commission. 57. Public consultation. 58. Representations on the proposed development. 59. Response from Commission. 60. Urgent cases.
+54. Application of Part. 55. Government to seek approval from Commission. 56. Information to be provided to Commission. 57. Public consultation. 58. Representations on the proposed development. 59. Response from Commission.
+
+60. Urgent cases.
 
 PART VII
 
