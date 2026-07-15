@@ -1,12 +1,12 @@
 Subsidiary Legislation made under s. 11 of and paragraph (1) of Schedule 3.
 
-Gibraltar Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide) (EU Exit) (Amendment) Regulations 2020
+Gibraltar Merchant Shipping (Monitoring, Reporting and Verification of Emissions of Additional Greenhouse Gases and Emissions from Additional Ships) (EU Exit) Regulations 2020
 
 LN.2020/412
 
 Commencement 1.1.2021
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN2026/229 rr. 1, 3(1A), 6(2)(a) 15.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
