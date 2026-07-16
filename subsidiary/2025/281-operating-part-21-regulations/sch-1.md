@@ -62,7 +62,7 @@ Additional special conditions for the aircraft may be prescribed if the Authorit
 
 A Type Acceptance Certificate shall remain in force until it is suspended or revoked provided that;
 
-(a) the foreign Type Design Type Certificate identified in compliance with paragraph 21.25(a)(1), (2) or (5), as applicable, and referenced on the Type Acceptance Certificate remains valid; and
+(a) the foreign Type Design Type Certificate identified in compliance with paragraph 21.25(a)(1) or (4), as applicable, and referenced on the Type Acceptance Certificate remains valid; and
 
 (b) the Type Certificate holder continues to supply information to the Authority to support continued airworthiness and safe operation of the aircraft covered by the Type Acceptance Certificate.
 
@@ -124,13 +124,15 @@ DESIGN CHANGES
 
 This Chapter details the requirements for the approval of design changes.
 
-(a) The approval of the installation of a design change by the Authority is a process based on the acceptance of the certification process by an NAA specified in paragraph 21.25(a)(1), (2) or (5).
+(a) The approval of the installation of a design change by the Authority is a process based on the acceptance of the certification process by an NAA specified in paragraph
+
+21.25(a)(1) or (4).
 
 (b) The applicant for a design change approval shall apply in a manner acceptable to the Authority.
 
 21.72 Classification of design changes
 
-(a) The design change classification definition by the NAA specified in 21.25(a)(1), (2) or (5) is acceptable for the overseas design approvals issued by the respective NAA.
+(a) The design change classification definition by the NAA specified in 21.25(a)(1) or (4) is acceptable for the overseas design approvals issued by the respective NAA.
 
 (b) The applicant shall provide evidence of classification of the design change to the Authority at the time of the application for the approval of a design change.
 
@@ -142,13 +144,13 @@ This Chapter details the requirements for the approval of design changes.
 
 (b) The applicant for acceptance of a design change to an aircraft shall demonstrate to the satisfaction of the Authority that the design change:
 
-(1) has been certified, approved or accepted by an NAA specified in paragraph 21.25(a)(1) or (2) that issued the type certificate identified on the Type Acceptance Certificate, against which the C of A for the aircraft has been issued; or
+(1) has been certified, approved or accepted by an NAA specified in paragraph 21.25(a)(1) that issued the type certificate identified on the Type Acceptance Certificate, against which the C of A for the aircraft has been issued; or
 
-(2) has been certified, approved or accepted by an NAA specified in paragraph 21.25(a)(1) or (2) that is not the issuing State of the Type Certificate identified on the Type Acceptance Certificate against which the C of A for the aircraft was issued and has been declared to comply with the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft by a suitably approved design organisation or individual; or
+(2) has been certified, approved or accepted by an NAA specified in paragraph 21.25(a)(1) that is not the issuing State of the Type Certificate identified on the Type Acceptance Certificate against which the C of A for the aircraft was issued and has been declared to comply with the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft by a suitably approved design organisation or individual; or
 
-(3) through an internationally recognised bilateral agreement that the design change has been certified, approved, validated or accepted by an NAA specified in paragraph 21.25(a)(1) or (2) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft against which the Certificate of Airworthiness is issued.
+(3) through an internationally recognised bilateral agreement that the design change has been certified, approved, validated or accepted by an NAA specified in paragraph 21.25(a)(1) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft against which the Certificate of Airworthiness is issued.
 
-(4) for Remotely Piloted Aircraft Systems the applicant demonstrating to the satisfaction of the Authority that the design change has been approved by the National Aviation Authority specified in paragraph 21.25(a)(5) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft.
+(4) for Remotely Piloted Aircraft Systems the applicant demonstrating to the satisfaction of the Authority that the design change has been approved by the National Aviation Authority specified in paragraph 21.25(a)(4) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft.
 
 (c) The applicant shall provide to the satisfaction of the Authority:
 
@@ -178,11 +180,11 @@ This Chapter details the requirements for the approval of design changes.
 
 (a) The applicant for acceptance of a minor design change shall provide, to the satisfaction of the Authority, evidence that;
 
-(1) the minor design change is to a standard identified in the Type Acceptance Certificate for the aircraft and approved by an organisation approved by an NAA identified in 21.25(a)(1), (2) or (5), as applicable; or
+(1) the minor design change is to a standard identified in the Type Acceptance Certificate for the aircraft and approved by an organisation approved by an NAA identified in 21.25(a)(1) or (4), as applicable; or
 
-(2) the design change has been accepted or approved in accordance with the respective procedures of the applicable Type Certification NAA identified in CAR 21.25(a)(1), (2) or (5), as applicable; or
+(2) the design change has been accepted or approved in accordance with the respective procedures of the applicable Type Certification NAA identified in CAR 21.25(a)(1) or (4), as applicable; or
 
-(3) the design change is approved by an organisation approved by an NAA other than an NAA identified in paragraph 21.25(a)(1), (2) or (5) that has entered into a bilateral arrangement with an NAA identified in 21.25(a)(1), (2) or (5) provided that the bilateral arrangement covers such matters, including the applicable Type Certificate standards identified on the Type Acceptance Certificate against which the Certificate of Airworthiness was issued.
+(3) the design change is approved by an organisation approved by an NAA other than an NAA identified in paragraph 21.25(a)(1) or (4) that has entered into a bilateral arrangement with an NAA identified in 21.25(a)(1) or (4) provided that the bilateral arrangement covers such matters, including the applicable Type Certificate standards identified on the Type Acceptance Certificate against which the Certificate of Airworthiness was issued.
 
 (b) Continued airworthiness information for design changes shall be available.
 
@@ -210,7 +212,7 @@ For the initial issue of a Certificate of Airworthiness, design changes already 
 
 A design change covered by the issue of a Service Bulletin or equivalent document issued by the Type Certificate Holder is deemed to be accepted by the Authority without the need for a formal document to be issued provided that:
 
-(a) the design change is approved by an NAA specified in paragraph 21.25(a)(1), (2) or (5) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft against which the Certificate of Airworthiness is issued; or
+(a) the design change is approved by an NAA specified in paragraph 21.25(a)(1) or (4) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft against which the Certificate of Airworthiness is issued; or
 
 (b) through an internationally recognised bilateral agreement that the design change has been certified, approved, validated or accepted by an NAA specified in paragraph 21.25(a)(1) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft against which the Certificate of Airworthiness is issued; and
 
@@ -264,15 +266,17 @@ Note: Unless specifically stated, any reference to Certificate of Airworthiness 
 
 (2) each design change and repair to the aircraft conforms to design changes as required by Chapter 3;
 
-(3) the aircraft complies with any applicable airworthiness directives required to be complied with under CAR AIR 2, Chapter 3 or CAR OPS 1/3, as appropriate;
+(3) the aircraft complies with any applicable airworthiness directives required to be complied with under CAR AIR 1.075 or CAR OPS 1/3, as appropriate;
 
 (4) the aircraft is issued with the appropriate flight manual that is current for the type and model and which includes limitations, identifies any required placards, supplements and appendices as required by the aircraft design standard;
 
 (5) the aircraft’s maintenance and continued airworthiness records are in the English language, complete and up-to-date and maintained in accordance with CAR AIR 1.055; and
 
-(6) when an aircraft possessing a valid certificate of airworthiness issued by an EASA Member State or the United Kingdom Civil Aviation Authority is entered on the register of Gibraltar, the Authority when issuing its certificate of Airworthiness may consider the previous certificate of airworthiness and valid Airworthiness Review Certificate as satisfactory evidence, in whole or in part, that the aircraft complies with CAR 21.179. In all other cases a valid Export Certificate of Airworthiness issued by the exporting State’s National Aviation Authority shall be required. Any exceptions to the foregoing shall be agreed in writing by the Authority on a case-by-case basis.
+(6) when an aircraft possessing a valid certificate of airworthiness issued by an EASA Member State or the United Kingdom Civil Aviation Authority is entered on the register of Gibraltar, the Authority when issuing its certificate of Airworthiness may consider the previous certificate of airworthiness and valid Airworthiness Review Certificate as satisfactory evidence, in whole or in part, that the aircraft complies with CAR 21.179. In all other cases a valid Export Certificate of
 
-(7) the Type Design is approved as specified in paragraph 21.25(a)(1), (2) or (5), as applicable;
+Airworthiness issued by the exporting State’s National Aviation Authority shall be required. Any exceptions to the foregoing shall be agreed in writing by the Authority on a case-by-case basis.
+
+(7) the Type Design is approved as specified in paragraph 21.25(a)(1) or (4), as applicable;
 
 (8) the aircraft is appropriately registered in Gibraltar and displays nationality and registration marks in accordance with CAR REG, Chapter 2;
 
@@ -284,7 +288,7 @@ Note: Unless specifically stated, any reference to Certificate of Airworthiness 
 
 (12) the aircraft has undergone an acceptable check flight if prescribed by the Authority.
 
-(b) The Authority may require an Aircraft Airworthiness Review to determine the aircraft’s build, modification and repair standard to be conducted by an appropriately approved organisation or an organisation having an appropriate design approval granted by a National Aviation Authority identified in paragraph 21.25(a)(1) or (5), as applicable.
+(b) The Authority may require an Aircraft Airworthiness Review to determine the aircraft’s build, modification and repair standard to be conducted by an appropriately approved organisation or an organisation having an appropriate design approval granted by a National Aviation Authority identified in paragraph 21.25(a)(1) or (4), as applicable.
 
 (c) The aircraft shall be made available and the records presented for inspection at a location/s acceptable to the Authority.
 
@@ -388,7 +392,9 @@ Note: for remotely piloted aircraft, that which must be restored to an airworthy
 
 (b) If the damage is sustained or ascertained when the aircraft is in the territory of another Contracting State, the authorities of the other Contracting State shall be entitled to prevent the aircraft from resuming its flight on the condition that they shall advise the Authority, as the State of Registry immediately, communicating to it all details necessary to formulate the judgment referred to in (a) above.
 
-(c) When the Authority, as the State of Registry, considers that the damage sustained is of a nature such that the aircraft is no longer airworthy, it shall prohibit the aircraft from resuming flight until it is restored to an airworthy condition. The Authority, as the State of Registry may, however, in exceptional circumstances, prescribe particular limiting conditions to permit the aircraft to fly a non-commercial air transport operation to an aerodrome at which it will be restored to an airworthy condition. In prescribing particular limiting conditions, the Authority, as the State of Registry, shall consider all limitations proposed by the Contracting State that had originally, in accordance with (b) above, prevented the aircraft from resuming its flight. That Contracting State shall permit such flight or flights within the prescribed limitations.
+(c) When the Authority, as the State of Registry, considers that the damage sustained is of a nature such that the aircraft is no longer airworthy, it shall prohibit the aircraft from resuming flight until it is restored to an airworthy condition. The Authority, as the State of Registry may, however, in exceptional circumstances, prescribe particular limiting conditions to permit the aircraft to fly a non-commercial air transport operation to an aerodrome at which it will be restored to an airworthy condition. In prescribing particular limiting conditions, the Authority, as the State of Registry, shall consider all limitations proposed by the Contracting State that had originally, in accordance with
+
+(b) above, prevented the aircraft from resuming its flight. That Contracting State shall permit such flight or flights within the prescribed limitations.
 
 (d) When the Authority, as the State of Registry, considers that the damage sustained is of a nature such that the aircraft is still airworthy, the aircraft shall be allowed to resume its flight.
 
@@ -594,7 +600,7 @@ This Chapter details requirements for the acceptance of materials, parts, compon
 
 A replacement or the design change of a part, component or appliance to be installed in an aircraft registered in Gibraltar shall;
 
-(a) be supported by an authorised internationally accepted release certificate issued by an organisation approved by a National Aviation Authority listed in paragraph 21.25(a)(1), (2) or (5), or accepted by the Authority in a particular case in exceptional circumstances, as applicable; and
+(a) be supported by an authorised internationally accepted release certificate issued by an organisation approved by a National Aviation Authority listed in paragraph 21.25(a)(1) or (4), or accepted by the Authority in a particular case in exceptional circumstances, as applicable; and
 
 (b) conform to the certification standards of the applicable Type Acceptance Certificate and any applicable Supplemental Type Certificate.
 
@@ -664,7 +670,9 @@ The applicant for an Export Certificate of Airworthiness shall be the owner of t
 
 (8) the applicable airworthiness directives have been complied with;
 
-(9) up-to-date and complete logbooks, design change and repair records, and other such historical records required to support the continued airworthiness of the aircraft; (10) a description of any methods used, including the method’s duration of effectiveness, for the preservation and packaging of aircraft to protect them against corrosion and damage while in transit or storage;
+(9) up-to-date and complete logbooks, design change and repair records, and other such historical records required to support the continued airworthiness of the aircraft;
+
+(10) a description of any methods used, including the method’s duration of effectiveness, for the preservation and packaging of aircraft to protect them against corrosion and damage while in transit or storage;
 
 (11) details of any special instructions for inspection, maintenance and operation for the aircraft;
 
@@ -698,7 +706,7 @@ REPAIR DESIGN CHANGES
 
 (a) This Chapter details the requirements for the acceptance of repair designs.
 
-(b) The acceptance of a repair design by the Authority is a process based on the acceptance of the certification process by a NAA specified in paragraphs 21.25(a)(1), (2) or (5).
+(b) The acceptance of a repair design by the Authority is a process based on the acceptance of the certification process by a NAA specified in paragraphs 21.25(a)(1) or (4).
 
 (c) The applicant for acceptance of a repair design shall apply in a manner acceptable to the Authority.
 
@@ -752,11 +760,11 @@ Note: A No Technical Objection or Recommended Repair Scheme is not considered to
 
 (2) The applicant for acceptance of unrepaired damage to an aircraft shall demonstrate to the satisfaction of the Authority that the unrepaired damage;
 
-(i) has been certified, approved, or accepted by an NAA specified in paragraph 21.25(a)(1), (2) or (5) that issued the type certificate identified on the Type Acceptance Certificate, against which the C of A for the aircraft has been issued;
+(i) has been certified, approved, or accepted by an NAA specified in paragraph 21.25(a)(1) or (4) that issued the type certificate identified on the Type Acceptance Certificate, against which the C of A for the aircraft has been issued;
 
-(ii) has been certified, approved or accepted by an NAA specified in paragraph 21.25(a)(1), (2) or (5) that is not the issuing State of the Type Certificate identified on the Type Acceptance Certificate against which the C of A for the aircraft was issued and has been declared to comply with the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft by a suitably approved design organisation or individual; or
+(ii) has been certified, approved or accepted by an NAA specified in paragraph 21.25(a)(1) or (4) that is not the issuing State of the Type Certificate identified on the Type Acceptance Certificate against which the C of A for the aircraft was issued and has been declared to comply with the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft by a suitably approved design organisation or individual; or
 
-(iii) through an internationally recognised bilateral agreement that the design change has been certified, approved, validated, or accepted by an NAA specified in paragraph 21.25(a)(1) or (5) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft against which the Certificate of Airworthiness is issued.
+(iii) through an internationally recognised bilateral agreement that the design change has been certified, approved, validated, or accepted by an NAA specified in paragraph 21.25(a)(1) or (4) to the applicable Type Certification standards identified on the Type Acceptance Certificate for the aircraft against which the Certificate of Airworthiness is issued.
 
 (3) Any instructions and limitations associated with the unrepaired damage shall be available to the operator.
 
@@ -786,7 +794,7 @@ Subject to paragraph 21.705, a Permit to Fly may be issued in the following circ
 
 (1) that does not qualify for the issue of a Certificate of Airworthiness as specified in Chapter 4; and
 
-(2) for an aircraft less than 800 kg MTOW, the aircraft or aircraft design has been previously certified for flight by a National Aviation Authority identified in paragraph 21.25(a)(1), (2) or (5), as applicable.
+(2) for an aircraft less than 800 kg MTOW, the aircraft or aircraft design has been previously certified for flight by a National Aviation Authority identified in paragraph 21.25(a)(1) or (4), as applicable.
 
 21.705 Issue of Permit to Fly
 
