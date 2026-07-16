@@ -48,6 +48,4 @@ and evidence that they are of good repute and that they possess appropriate know
 
 (a) the audit arrangements of the electronic money institution; and
 
-(b) the organisational arrangements that the institution has set up,
-
-with a view to the institution taking all reasonable steps to protect the interests of its electronic money holders and payment service users and to ensuring continuity and reliability in the performance of the issuance of electronic money and payment services activities.
+(b) the organisational arrangements that the institution has set up, with a view to the institution taking all reasonable steps to protect the interests of its electronic money holders and payment service users and to ensuring continuity and reliability in the performance of the issuance of electronic money and payment services activities.

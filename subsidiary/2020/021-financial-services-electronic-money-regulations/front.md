@@ -10,7 +10,7 @@ Amending enactments Relevant current provisions Commencement date LN.2020/488 rr
 
 1.1.2021 2022/188 r. 36(1)(c) 1.1.2021 2022/153 rr. 2(5)-(6), 9(2)(b), (9)(a), 10(3), (5), 14(1)(c)(i), 18(2), 36(1)(a)-(b), (2), 56(2), Schs.2-3
 
-23.6.2022 2022/321 r. 36A 24.11.2022 2023/074 r. 18(2) 30.3.2023 2025/003 r. 31(7) 9.1.2025 2026/053 r. 29A 26.3.2026
+23.6.2022 2022/321 r. 36A 24.11.2022 2023/074 r. 18(2) 30.3.2023 2025/003 r. 31(7) 9.1.2025 2026/053 r. 29A 26.3.2026 2026/225 rr. 30(1)-(2), (5), 32(3), 32A, 39(4), 39A, Schs.4-5 16.7.2026
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -50,11 +50,11 @@ Capital requirements
 
 Safeguarding
 
-30. Safeguarding requirements. 31. Safeguarding option 1. 32. Safeguarding option 2. 33. Power of GFSC to exclude assets. 34. Insolvency events. 35. Record keeping.
+30. Safeguarding requirements. 31. Safeguarding option 1. 32. Safeguarding option 2. 32A. Safeguarding returns. 33. Power of GFSC to exclude assets. 34. Insolvency events. 35. Record keeping.
 
 Appointment and duties of auditors
 
-36. Accounting and statutory audit. 36A. Submission of accounts, etc. to GFSC. 37. Appointment of auditors. 38. Notification in respect of auditors. 39. Communications by auditors to GFSC. 40. Auditor to notify GFSC of adverse occurrences etc.
+36. Accounting and statutory audit. 36A. Submission of accounts, etc. to GFSC. 37. Appointment of auditors. 38. Notification in respect of auditors. 39. Communications by auditors to GFSC. 39A. Safeguarding audit requirements. 40. Auditor to notify GFSC of adverse occurrences etc.
 
 PART 5 REPORTING AND NOTIFICATION
 
@@ -88,9 +88,15 @@ Revocation
 
 SCHEDULE 1 SMALL E-MONEY INSTITUTIONS
 
-SCHEDULE 2 ELECTRONIC MONEY INSTITUTION: APPLICATION FOR PERMISSION
+SCHEDULE 2
+
+ELECTRONIC MONEY INSTITUTION: APPLICATION FOR PERMISSION
 
 SCHEDULE 3 CAPITAL REQUIREMENTS
+
+SCHEDULE 4 SAFEGUARDING RELEVANT FUNDS
+
+SCHEDULE 5 SAFEGUARDING AUDIT REQUIREMENTS
 
 In exercise of the powers conferred upon the Minister by sections 6(1), 44(4), 59(3), 61(1), 63(3), 64(3), 83(1), 150(1), 164(1), 166(2), 167(3), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and upon the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made these Regulations.
 

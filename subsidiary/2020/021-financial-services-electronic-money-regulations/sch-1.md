@@ -60,7 +60,9 @@ Registration
 
 (a) robust governance arrangements for its electronic money and payment services business, including a clear organisational structure with well-defined, transparent and consistent lines of responsibility; and
 
-(b) effective procedures to identify, manage, monitor and report any risks to which it might be exposed, that are comprehensive and proportionate to the nature, scale and complexity of electronic money to be issued and payment services to be provided by the institution.
+(b) effective procedures to identify, manage, monitor and report any risks to which it might be exposed,
+
+that are comprehensive and proportionate to the nature, scale and complexity of electronic money to be issued and payment services to be provided by the institution.
 
 (7)  The applicant must satisfy the GFSC that–
 
