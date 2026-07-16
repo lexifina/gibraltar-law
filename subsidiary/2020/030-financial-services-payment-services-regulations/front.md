@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date LN.2020/498 rr
 
 15.4.2021 2022/153 rr. 1(3)-(4), 2, 8(1)(k), (3)(c), 10(7), 11(3), 14(2)(b), (11)(c)(i), 43(1), 44(1), 78(4), 80(1)(a)-(c), 81(3)(a), 82(1)(a)-(b), 84(1), 85(1)(a)-(b), (2), 87(6), 104(2), 106(2)(d), Schs. 1, 3
 
-23.6.2022 2022/321 r. 85A.(1)-(2) 24.11.2022 2024/166 r. 79(1), (a), (2) 5.9.2024
+23.6.2022 2022/321 r. 85A.(1)-(2) 24.11.2022 2024/166 r. 79(1), (a), (2) 5.9.2024 2026/224 rr. 84(1), (1A), (11)-(12), 84A, 85B-85C, Schs. 4-5 16.7.2026
 
 ARRANGEMENT OF REGULATIONS.
 
@@ -58,9 +58,7 @@ Chapter 2 Rights and obligations in relation to provision and use of payment ser
 
 Common provisions for Chapter 2 of Part 3
 
-38. Scope of Chapter 2 of Part 3. 39. Charges applicable.
-
-40. Derogation of low-value payment instruments and electronic money.
+38. Scope of Chapter 2 of Part 3. 39. Charges applicable. 40. Derogation of low-value payment instruments and electronic money.
 
 Authorisation of payment transactions
 
@@ -76,9 +74,9 @@ Execution time and value date
 
 Liability
 
-64. Incorrect unique identifiers. 65. Payment service providers: liability for non-execution, defective or late execution of payment transactions.
+64. Incorrect unique identifiers. 65. Payment service providers: liability for non-execution, defective or late execution of payment transactions. 66. Payment initiation services: liability for non-execution, defective or late execution of payment transactions. 67. Additional financial compensation.
 
-66. Payment initiation services: liability for non-execution, defective or late execution of payment transactions. 67. Additional financial compensation. 68. Right of recourse. 69. Abnormal and unforeseeable circumstances.
+68. Right of recourse. 69. Abnormal and unforeseeable circumstances.
 
 Data protection
 
@@ -102,9 +100,9 @@ Prudential requirements 80. Initial capital. 81. Own funds. 82. Calculation of o
 
 Safeguarding
 
-84. Safeguarding of funds.
+84. Safeguarding of funds. 84A. Safeguarding returns. 85. Accounting and statutory audit. 85A. Submission of accounts, etc. to GFSC. 85B. Communications by auditors to GFSC. Separate accounting information.
 
-85. Accounting and statutory audit. 85A. Submission of accounts, etc. to GFSC. 86. Record-keeping.
+85C. Safeguarding audit requirements. 86. Record-keeping.
 
 PART 6 REPORTING AND NOTIFICATION
 
@@ -130,8 +128,14 @@ PART 9 MISCELLANEOUS
 
 SCHEDULE 1 ACCOUNT INFORMATION SERVICE PROVIDERS
 
-SCHEDULE 2 PRIOR GENERAL INFORMATION FOR FRAMEWORK CONTRACTS
+SCHEDULE 2
+
+PRIOR GENERAL INFORMATION FOR FRAMEWORK CONTRACTS
 
 SCHEDULE 3 OWN FUNDS
+
+SCHEDULE 4 SAFEGUARDING RELEVANT FUNDS
+
+SCHEDULE 5 SAFEGUARDING AUDIT REQUIREMENTS
 
 In exercise of the powers conferred on the Minister under sections 6(1), 44(4), 59(3), 61(1), 63(3), 64(3),  83(1), 150(1), 164(1), 620(1), 621(1) and 627 of, and paragraph 6 of Schedule 10 to, the Financial Services Act 2019, as read with section 23(g)(i) of the Interpretation and General Clauses Act, and on the Government by section 23(g)(ii) of that Act and by all other enabling powers, the Minister and the Government have made the following Regulations.
