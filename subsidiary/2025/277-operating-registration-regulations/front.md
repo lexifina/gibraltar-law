@@ -6,7 +6,7 @@ LN.2025/277
 
 Notice of Commencement - (LN.2026/029) 1.2.2026
 
-Amending enactments Relevant current provisions Commencement date LN.2026/082 Sch. 23.4.2026 2026/154 Sch. 9.7.2026
+Amending enactments Relevant current provisions Commencement date LN.2026/082 Sch. 23.4.2026 2026/154 Sch. 9.7.2026 2026/227 Sch. 16.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -78,17 +78,7 @@ REG.010 Registration eligibility
 
 (8) a citizen or a company of a State that is acceptable to the Authority and has selected a registered agent residing or legally established in Gibraltar, who is responsible for direct communication and notifications with the Authority.
 
-(b) for non-commercial air transport operations, the following can also register–
-
-(1) a citizen or a company of the United Kingdom, its Crown Dependencies and Overseas Territories;
-
-(2) a citizen or a company of the European Union;
-
-(3) a citizen or a company of Iceland, Liechtenstein, Norway or Switzerland; or
-
-(4) a citizen or a company of a State that is acceptable to the Authority and has selected a registered agent residing or legally established in Gibraltar, who is responsible for direct communication and notifications with the Authority.
-
-(c) An aircraft will not be eligible for a certificate of registration if the aircraft is registered under the laws of any other State.
+(b) An aircraft will not be eligible for a certificate of registration if the aircraft is registered under the laws of any other State.
 
 REG.015 State of Registry responsibilities in respect of advising State of Design
 
