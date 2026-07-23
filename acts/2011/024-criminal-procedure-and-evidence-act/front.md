@@ -18,11 +18,11 @@ Amending enactments Relevant current provisions Commencement date Act. 2012-13 s
 
 24.1.2019 LN. 2019/017 ss. 107(9), 108(1) 31.1.2019 Act. 2018-25 ss. 2(1), 77(1), 84(8), 85(3), 94A, 685(3), Sch. 14 22.2.2019 LN. 2020/511 ss. 144(4A)-(4B), 211(5)-(6), 351(3), 352(1), (4)(c), 371(6)-(7), 376(1A)-(1B), 480(4), (4A), (5)
 
-1.1.2021 2020/521 s. 77(1) 1.1.2021 Act. 2021-19 Sch. 14 30.7.2021 LN. 2022/257 Sch. 12 1.9.2022 Act. 2017-15 s. 616(11) 30.12.20223 2023-06 ss. 429(4), 438(4)(a), 450, 451(3)(a) 6.7.2023 LN. 2026/165 s. 48(10) 15.7.2026
-
-Transposing: Directive 2010/64/EU Directive 2011/36/EU Decision 2008/675/JHA
+1.1.2021 2020/521 s. 77(1) 1.1.2021 Act. 2021-19 Sch. 14 30.7.2021 LN. 2022/257 Sch. 12 1.9.2022 Act. 2017-15 s. 616(11) 30.12.20223 2023-06 ss. 429(4), 438(4)(a), 450, 451(3)(a) 6.7.2023 LN. 2026/165 s. 48(10) 15.7.2026 Act. 2026-30 ss. 110(5), 129(4), 129A, 692A 23.7.2026
 
 1 Commencement notice see LN. 2012/186 2 Commencement notice see LN. 2013/136 3 Commencement notice see LN. 2022/348
+
+Transposing: Directive 2010/64/EU Directive 2011/36/EU Decision 2008/675/JHA
 
 ARRANGEMENT OF SECTIONS
 
@@ -120,7 +120,7 @@ Offences
 
 Miscellaneous provisions
 
-128. Calculating terms of imprisonment. 129. Bail in cases of treason, etc. 130. Bail in cases of murder. 131. Warrant of arrest may be endorsed for bail.
+128. Calculating terms of imprisonment. 129. Bail in cases of treason, etc. 129A. Detention following conviction for a specified offence. 130. Bail in cases of murder. 131. Warrant of arrest may be endorsed for bail.
 
 PART 8 – MAGISTRATES’ COURT PROCEEDINGS
 
@@ -142,9 +142,9 @@ Summary trial
 
 Remands by the Magistrates’ Court
 
-167. Remand: General principles. 168. Remand in custody. 169. Remand on bail. 170. Remands in custody for more than 8 days. 171. Further remand.
+167. Remand: General principles. 168. Remand in custody. 169. Remand on bail. 170. Remands in custody for more than 8 days.
 
-172. Remand of defendant already in custody.
+171. Further remand. 172. Remand of defendant already in custody.
 
 Recognizances for good behaviour
 
@@ -174,9 +174,7 @@ Committal or sending for trial: Supplementary
 
 Taking of depositions
 
-202. Taking of depositions by a magistrate.
-
-203. Use of depositions as evidence.
+202. Taking of depositions by a magistrate. 203. Use of depositions as evidence.
 
 Reporting restrictions
 
@@ -260,9 +258,9 @@ Pleas
 
 Attendance of witnesses
 
-298. Issue of witness summons on application to Supreme Court. 299. Power to require advance production. 300. Directions if summons no longer needed. 301. Application to make summons under section 298 ineffective. 302. Issue of witness summons of court’s own motion.
+298. Issue of witness summons on application to Supreme Court. 299. Power to require advance production. 300. Directions if summons no longer needed. 301. Application to make summons under section 298 ineffective.
 
-303. Application to make summons under section 302 ineffective. 304. Penalty for disobeying a witness summons or requirement. 305. Further process to ensure attendance of witness. 306. Expenses of witnesses.
+302. Issue of witness summons of court’s own motion. 303. Application to make summons under section 302 ineffective. 304. Penalty for disobeying a witness summons or requirement. 305. Further process to ensure attendance of witness. 306. Expenses of witnesses.
 
 Tainted acquittals
 
@@ -290,9 +288,7 @@ Principles for admission of evidence
 
 Summoning and calling of witnesses
 
-334. General power to examine witnesses, etc.
-
-335. Witnesses in custody. 336. Arrest and punishment of recalcitrant witnesses. 337 Calling of persons charged. 338. Time for taking defendant’s evidence.
+334. General power to examine witnesses, etc. 335. Witnesses in custody. 336. Arrest and punishment of recalcitrant witnesses. 337 Calling of persons charged. 338. Time for taking defendant’s evidence.
 
 Competence and compellability
 
@@ -312,9 +308,9 @@ Inferences from silence
 
 Evidence of bad character
 
-365. Interpretation of sections 366 to 379. 366. “Bad character”. 367 Abolition of common law rules. 368. Non-defendant’s bad character. 369. Defendant’s bad character. 370. “Important explanatory evidence”. 371. “Matter in issue between the defendant and the prosecution”. 372. “Matter in issue between the defendant and a co-defendant”. 373. Evidence to correct a false impression.
+365. Interpretation of sections 366 to 379. 366. “Bad character”. 367 Abolition of common law rules. 368. Non-defendant’s bad character. 369. Defendant’s bad character. 370. “Important explanatory evidence”. 371. “Matter in issue between the defendant and the prosecution”. 372. “Matter in issue between the defendant and a co-defendant”.
 
-374. Attack on another person’s character. 375. Stopping the case if evidence contaminated. 376. Offences committed by defendant when a child. 377. Assumption of truth in assessment of relevance or probative value. 378. Court’s duty to give reasons for rulings. 379. Rules of court.
+373. Evidence to correct a false impression. 374. Attack on another person’s character. 375. Stopping the case if evidence contaminated. 376. Offences committed by defendant when a child. 377. Assumption of truth in assessment of relevance or probative value. 378. Court’s duty to give reasons for rulings. 379. Rules of court.
 
 Derogatory assertions
 
@@ -342,9 +338,9 @@ Hearsay: Supplementary
 
 Documents
 
-405. Proof by written statement. 406. Evidence by certificate.
+405. Proof by written statement.
 
-407. Proof of identity of driver of vehicle. 408. Proof of statements in documents. 409. Use of documents to refresh memory. 410. Microfilm copies.
+406. Evidence by certificate. 407. Proof of identity of driver of vehicle. 408. Proof of statements in documents. 409. Use of documents to refresh memory. 410. Microfilm copies.
 
 Video recordings
 
@@ -404,9 +400,7 @@ Reporting restrictions: Identity of victims
 
 Anonymity of witnesses
 
-469. Witness anonymity orders.
-
-470. Applications for orders. 471. Conditions for making order. 472. Relevant considerations. 473. Warning to jury. 474. Discharge or variation of order. 475. Discharge or variation after proceedings. 476. Discharge or variation on appeal.
+469. Witness anonymity orders. 470. Applications for orders. 471. Conditions for making order. 472. Relevant considerations. 473. Warning to jury. 474. Discharge or variation of order. 475. Discharge or variation after proceedings. 476. Discharge or variation on appeal.
 
 Miscellaneous provisions
 
@@ -438,7 +432,9 @@ PART 21 – CUSTODIAL SENTENCES
 
 Duration of sentences
 
-497. Duration of terms of imprisonment. 498. Time in custody pending appeal.
+497. Duration of terms of imprisonment.
+
+498. Time in custody pending appeal.
 
 Restrictions on sentences of imprisonment
 
@@ -470,9 +466,9 @@ Discharge
 
 Community sentences
 
-521. Community orders. 522. Youth rehabilitation orders. 523. Unpaid work requirement. 524. Activity requirement. 525. Programme requirement. 526. Prohibited activity requirement. 527. Curfew requirement. 528. Exclusion requirement.
+521. Community orders. 522. Youth rehabilitation orders. 523. Unpaid work requirement. 524. Activity requirement. 525. Programme requirement. 526. Prohibited activity requirement. 527. Curfew requirement.
 
-529. Residence requirement. 530. Mental health treatment requirement. 531. Mental health treatment at place other than as specified in order. 532. Drug rehabilitation requirement. 533. Drug rehabilitation requirement: Provision for review by court. 534. Periodic review of drug rehabilitation requirement. 535. Alcohol treatment requirement. 536. Intoxicating substance treatment requirement. 537. Supervision requirement.
+528. Exclusion requirement. 529. Residence requirement. 530. Mental health treatment requirement. 531. Mental health treatment at place other than as specified in order. 532. Drug rehabilitation requirement. 533. Drug rehabilitation requirement: Provision for review by court. 534. Periodic review of drug rehabilitation requirement. 535. Alcohol treatment requirement. 536. Intoxicating substance treatment requirement. 537. Supervision requirement.
 
 Further provisions about relevant orders
 
@@ -492,7 +488,9 @@ Powers of court following subsequent conviction
 
 Supplementary
 
-562. Restrictions on imposing community sentences. 563. No relevant order to be made while appeal pending. 564. Issue of summons or warrant under certain sections. 565. Regulations. 566. Hearing by Magistrates’ Court. 567. Power to provide for court review of relevant orders.
+562. Restrictions on imposing community sentences. 563. No relevant order to be made while appeal pending. 564. Issue of summons or warrant under certain sections. 565. Regulations. 566. Hearing by Magistrates’ Court.
+
+567. Power to provide for court review of relevant orders.
 
 PART 23 – FINES AND RECOGNIZANCES
 
@@ -550,9 +548,9 @@ Juvenile Courts
 
 Imprisonment or detention of young offenders
 
-628. Restrictions on reports of proceedings in which juveniles are concerned. 629. Juveniles who commit murder, etc. to be detained at Her Majesty’s pleasure. 630. Juveniles who commit certain serious offences to be detained for specified period.
+628. Restrictions on reports of proceedings in which juveniles are concerned. 629. Juveniles who commit murder, etc. to be detained at Her Majesty’s pleasure.
 
-631. Duty to impose imprisonment for life in certain cases where offender under 21. 632. Duty to remit young offenders to the Juvenile Court for sentence. 633. Remitting an offender who attains the age of 18 to the Magistrates’ Court for sentence.
+630. Juveniles who commit certain serious offences to be detained for specified period. 631. Duty to impose imprisonment for life in certain cases where offender under 21. 632. Duty to remit young offenders to the Juvenile Court for sentence. 633. Remitting an offender who attains the age of 18 to the Magistrates’ Court for sentence.
 
 Reparation orders on young offenders
 
@@ -580,7 +578,9 @@ PART 28 – MENTALLY DISORDERED OFFENDERS
 
 Fitness to be tried
 
-658. Finding of unfitness to be tried. 659. Appeals against finding of unfitness. 660. Finding that the defendant did the act or made the omission charged against him. 661. Acquittal on ground of mental disorder. 662. Powers to deal with persons not guilty by reason of mental disorder or unfit to be tried. 663. Resumption of trial if defendant fit to be tried.
+658. Finding of unfitness to be tried. 659. Appeals against finding of unfitness. 660. Finding that the defendant did the act or made the omission charged against him. 661. Acquittal on ground of mental disorder. 662. Powers to deal with persons not guilty by reason of mental disorder or unfit to be tried.
+
+663. Resumption of trial if defendant fit to be tried.
 
 Remands to hospital
 
@@ -610,9 +610,7 @@ Codes of practice
 
 PART 30 – MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
-693. Police officers performing duties of higher rank.
-
-694. Power of police officer to use reasonable force. 695. Application of Act to other public officers. 696. Rules of court. 697. Regulations. 698. Amendment of Schedules. 699. Repeals and savings. 700. Transitional provisions. 701. Consequential amendments. 702. Service of documents. 703. Amendment of the Criminal Procedure Act (Police Detention).
+692A. Restrictions on use of cautions. 693. Police officers performing duties of higher rank. 694. Power of police officer to use reasonable force. 695. Application of Act to other public officers. 696. Rules of court. 697. Regulations. 698. Amendment of Schedules. 699. Repeals and savings. 700. Transitional provisions. 701. Consequential amendments. 702. Service of documents. 703. Amendment of the Criminal Procedure Act (Police Detention).
 
 SCHEDULES
 
