@@ -4,7 +4,7 @@ Licence conditions Section 57 Standard conditions.
 
 1.  A person released on licence shall
 
-(a) report to the Care Agency upon release;
+(a) report to the probation officer upon release;
 
 (b) keep in touch with the probation officer as instructed by him;
 

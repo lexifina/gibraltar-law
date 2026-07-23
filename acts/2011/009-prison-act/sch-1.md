@@ -6,15 +6,13 @@ Matters to be taken into consideration by the Parole Board.
 
 Prisoners serving a sentence for a determinate period.
 
-1.(1)  In deciding whether or not to advise the Minister to release a prisoner on licence, the Parole Board shall–
+1.(1)  The Parole Board cannot advise the Minister to release a person serving a sentence for a determinate period on licence unless it is satisfied that it is no longer necessary for the protection of the public that the prisoner be confined.
 
-(a) consider primarily the risk to the public of a further offence being committed at a time when the prisoner would otherwise be in prison and whether any such risk is acceptable and this must be balanced against the benefit, both to the public and the prisoner, of early release back into the community under a degree of supervision and which might help rehabilitation and so lessen the risk of re-offending in the future; and
-
-(b) take into account that safeguarding the public may often outweigh the benefits to the prisoner of early release.
+(1A) The test to be applied by the Parole Board in satisfying itself that it is no longer necessary for the protection of the public that the prisoner should be confined, is whether the risk to the public of a further offence being committed at a time when the prisoner would otherwise be in prison is considered to be more than minimal.
 
 (2)  Before advising the Minister to release a prisoner on licence, the Parole Board shall consider the following factors and information, where relevant and available, recognising that the weight and relevance attached to particular information may vary according to circumstances
 
-(a) whether the safety of the public would be placed unacceptably at risk and in assessing such risk the Board shall take into account
+(a) whether the safety of the public would be placed at risk and in assessing such risk the Board shall take into account
 
 (i) the nature and circumstances of the offence including any information provided in relation to its impact on the victim or victim’s family;
 
@@ -34,7 +32,7 @@ Prisoners serving a sentence for a determinate period.
 
 (iv) that a risk of violent or sexual offending is more serious than a risk of other types of offending;
 
-(b) whether the longer period of supervision that the release on licence would provide is likely to reduce the risk of further offences being committed;
+(b) whether the longer period of supervision that the release on licence would provide is likely to reduce the risk of further offences being committed taking into consideration the potential benefit, both to the public and the prisoner, of early release back into the community under a degree of supervision which might help rehabilitation and so lessen the risk of re-offending in the future;
 
 (c) whether the person released on licence is likely to comply with the conditions of his licence and the requirements of supervision, taking into account occasions where he has breached trust in the past or in considering re-release any previous breaches of licence conditions;
 

@@ -8,7 +8,9 @@ Amending enactments Relevant current provisions Commencement date Act 2014-16 ss
 
 12.6.2014 2019-23 ss. 51, 51A-51B, 53(a)-(d), 54(1)(a), 55, 56(1), (1A)- (1B), 57(1), (2)(a), 61A, 70(1)-(3), 71(1)(e),
 
-25.7.20191
+25.7.20191 2026-30 ss. 2(1), 51ª(4), 51B(1)(b), 54(1)(za), (a), (1A), (9), 55, 56(1C), 61ZA, 71(n)-(o), 72(1)-(2), Schs.1-3
+
+23.7.2026
 
 1 Notice of Commencement LN. 2019/142
 
@@ -34,9 +36,9 @@ GENERAL PRINCIPLES
 
 CONFINEMENT OF PRISONERS
 
-19. Place of confinement. 20. Legal custody of prisoner 21. Cells. 22. Marking of cells. 23. Certificate relating to cells. 24. Men and women. 25. Classification of prisoners.
+19. Place of confinement. 20. Legal custody of prisoner 21. Cells. 22. Marking of cells. 23. Certificate relating to cells. 24. Men and women. 25. Classification of prisoners. 26. Custody outside prison.
 
-26. Custody outside prison. 27. Special removal of prisoners. 28. Persons unlawfully at large.
+27. Special removal of prisoners. 28. Persons unlawfully at large.
 
 ADMISSION OF PRISONERS
 
@@ -60,11 +62,11 @@ AUTOMATIC RELEASE
 
 APPLICATION TO PRISONERS IN DEFAULT OF PAYMENT
 
-51B. Application of sections 51 and 51A.
+51B. Application of sections 51, 51A and 54.
 
 PAROLE BOARD AND RELEASE ON LICENCE
 
-52. Parole Board. 53. Functions of Parole Board. 54. Release on licence. 55. Determination of sentence. 56. Duration of Licence. 57. Licence conditions. 58. Duty to comply with licence. 59. Recall of prisoners while on licence. 60. Date of review. 61. Release on licence: drug testing requirements.
+52. Parole Board. 53. Functions of Parole Board. 54. Release on licence. 55. Determination of sentence. 56. Duration of Licence. 57. Licence conditions. 58. Duty to comply with licence. 59. Recall of prisoners while on licence. 60. Date of review. 61. Release on licence: drug testing requirements. 61ZA. Consecutive and concurrent terms.
 
 EXPIRATION OF SENTENCE
 
@@ -81,5 +83,9 @@ GENERAL
 SCHEDULE 1 Matters to be taken into consideration by the Parole Board
 
 SCHEDULE 2 Licence conditions
+
+SCHEDULE 3
+
+Specified Offences
 
 AN ACT TO MAKE PROVISION FOR THE REGULATION AND MANAGEMENT OF PRISONS AND PRISONERS; AND FOR CONNECTED PURPOSES.
