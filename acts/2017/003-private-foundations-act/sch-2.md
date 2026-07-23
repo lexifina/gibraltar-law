@@ -82,7 +82,9 @@ shall not be de-registered under section 67A or this Schedule..
 
 (a) on being satisfied that the requirements of paragraphs 1 and 2 are satisfied, and
 
-(b) having received notice in writing from the Registrar of Foundations appointed under the Private Foundations Act 2017 that, on receipt of confirmation from the Registrar that the requirements of this Schedule have been met in respect of the body, the body shall be registered as a foundation under Schedule 1 of that Act, shall confirm to the Registrar of Foundations that the requirements of this Schedule have been complied with by that company and shall de-register the body as a company registered under this Act with effect from the date and the time which the Registrar of Foundations notifies to the Registrar as the date and time at which the registration of the body under Schedule 1 to the Private Foundations Act 2017 is to take effect.
+(b) having received notice in writing from the Registrar of Foundations appointed under the Private Foundations Act 2017 that, on receipt of confirmation from the Registrar that the requirements of this Schedule have been met in respect of the body, the body shall be registered as a foundation under Schedule 1 of that Act,
+
+shall confirm to the Registrar of Foundations that the requirements of this Schedule have been complied with by that company and shall de-register the body as a company registered under this Act with effect from the date and the time which the Registrar of Foundations notifies to the Registrar as the date and time at which the registration of the body under Schedule 1 to the Private Foundations Act 2017 is to take effect.
 
 5.  For the avoidance of doubt it is hereby declared that a foundation registered under Schedule 1 of the Private Foundations Act 2017 as a result of the procedures contained in–
 

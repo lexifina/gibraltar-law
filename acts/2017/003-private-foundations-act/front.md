@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2017-03 Commencement (LN.2017/068) 11.4.2017 Assent 6.4.2017
 
-Amending enactments Relevant current provisions Commencement date LN. 2022/188 ss.2, 40, 41(1) 1.1.2021 Act. 2021-08 s. 12(2) 9.2.2021
+Amending enactments Relevant current provisions Commencement date LN. 2022/188 ss.2, 40, 41(1) 1.1.2021 Act. 2021-08 s. 12(2) 9.2.2021 2026-21 ss. 40, 41(1) 23.7.2026
 
 ARRANGEMENT OF SECTIONS
 
@@ -24,9 +24,9 @@ PART III REGISTRATION
 
 PART IV PARTIES
 
-23. Powers and obligations of Founder. 24. Appointment and qualification of councillors. 25. Duties, etc. of councillors.
+23. Powers and obligations of Founder. 24. Appointment and qualification of councillors. 25. Duties, etc. of councillors. 26. Limitation of a Councillor’s Liability.
 
-26. Limitation of a Councillor’s Liability. 27. Powers of Foundation Council. 28. Appointment of Guardian. 29. Duties of Guardian. 30. Limitation of Guardian’s liability. 31. Powers of Guardian. 32. Beneficiaries. 33. Enfranchised Beneficiaries. 34. Disenfranchised Beneficiaries. 35. Disclaimer of interest. 36. Power of accumulation and advancement.
+27. Powers of Foundation Council. 28. Appointment of Guardian. 29. Duties of Guardian. 30. Limitation of Guardian’s liability. 31. Powers of Guardian. 32. Beneficiaries. 33. Enfranchised Beneficiaries. 34. Disenfranchised Beneficiaries. 35. Disclaimer of interest. 36. Power of accumulation and advancement.
 
 PART V ACCOUNTS
 
@@ -38,9 +38,7 @@ PART VI JURISDICTION AND POWERS OF THE COURT
 
 PART VII CAPACITY AND EXECUTION
 
-56. Power to contract not restricted by Constitutional Documents. 57. Contracts prior to formation.
-
-58. Bills of exchange and promissory notes. 59. Execution of deeds.
+56. Power to contract not restricted by Constitutional Documents. 57. Contracts prior to formation. 58. Bills of exchange and promissory notes. 59. Execution of deeds.
 
 PART VIII REGISTRATION OF OVERSEAS FOUNDATION
 
@@ -54,11 +52,11 @@ PART X DISSOLUTION AND TERMINATION
 
 83. Dissolution and termination. 84. Winding up of Foundation by Supreme Court. 85. General provisions as to winding up of Foundations. 86. Personal liability for certain defaults in event of bankruptcy. 87. Distribution of assets upon winding up.
 
-PART XI
+PART XI MISCELLANEOUS
 
-MISCELLANEOUS
+88. Consequential amendments to the Companies Act 2014.
 
-88. Consequential amendments to the Companies Act 2014. 89. Regulations.
+89. Regulations.
 
 SCHEDULE 1 DE-REGISTRATION OF COMPANIES LIMITED BY GUARANTEE OR BY SHARES AND GUARANTEE ON BECOMING A REGISTERED FOUNDATION
 
