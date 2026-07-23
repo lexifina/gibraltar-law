@@ -22,11 +22,11 @@ Amending enactments Relevant current provisions Commencement date Act. 2002-23 s
 
 28.11.2019 2019/048 s. 31(1) 1.1.2021 2019/236 ss. 66A, 66B(1)-(2), 66C(11), 66CA(1)(a), 66D(1)(a)(i), (b), (6A), 66DB(5)(a)(ii), (b)(ii), 66M(5)(b)
 
-1.1.2021 2019/237 ss. 2(1), 69(1)(u) 1.1.2021
+1.1.2021
 
 1 Notice of Commencement (LN.1999/091) 2 Notice of Commencement (LN.2000/066) 3 Notice of Commencement (LN.2000/071)
 
-Act. 2024-08 s. 17(10)-(12) 26.3.2024 2024-31 ss. 2(1), 17(3), 19, 19A, 72, 72A-72D 23.12.2024 2024-33 s. 17(4A)-(4G) 23.12.2024 2026-11 s. 78 25.6.20264 LN.2026/140 s. 66C(11A)-(11B) 15.7.2026 2026/141 ss. 66ZC-66ZX 15.7.2026
+2019/237 ss. 2(1), 69(1)(u) 1.1.2021 Act. 2024-08 s. 17(10)-(12) 26.3.2024 2024-31 ss. 2(1), 17(3), 19, 19A, 72, 72A-72D 23.12.2024 2024-33 s. 17(4A)-(4G) 23.12.2024 2026-11 s. 78 25.6.20264 LN.2026/140 s. 66C(11A)-(11B) 15.7.2026 2026/141 ss. 66ZC-66ZX 15.7.2026 Act. 2026-24 ss. 17(1A), (7A), 23(1A) 23.7.2026
 
 EU legislation/International Agreements involved: Regulation (EC) No. 561/2006 Regulation (EC) No 1071/2009 Regulation (EC) No 1072/2009 Regulation (EC) No 1073/2009 Regulation (EU) No 165/2014 Regulation (EU) 2016/799
 
@@ -58,9 +58,9 @@ General Provisions
 
 Road Service Licences: Taxis
 
-11. Road service licence required. 12. Application for licence. 13. Grant or refusal of licence. 14. Maximum number of road service licences. 15. Matters to be considered by the Commission before determining application. 16. Conditions of licence. 17. Special conditions in all road service licences for taxis. 18. Concessioned taxis. 19. Penalties.
+11. Road service licence required. 12. Application for licence. 13. Grant or refusal of licence. 14. Maximum number of road service licences. 15. Matters to be considered by the Commission before determining application. 16. Conditions of licence. 17. Special conditions in all road service licences for taxis. 18. Concessioned taxis. 19. Penalties. 19A Licence holders responsible for named drivers.
 
-19A Licence holders responsible for named drivers. 20. Revocation and suspension of licence. 21. Duration of licences. 22. Renewal of licences. 23. Transfer of licences. 24. Amendment of licences.
+20. Revocation and suspension of licence. 21. Duration of licences. 22. Renewal of licences. 23. Transfer of licences. 24. Amendment of licences.
 
 Operator Licences: Buses and Lorries
 
@@ -84,9 +84,9 @@ Horse-drawn Vehicles
 
 Self-drive hire cars
 
-46. Licensing of self-drive operators and self-drive cars. 47. Application for licence.
+46. Licensing of self-drive operators and self-drive cars. 47. Application for licence. 47A. Renewal of licences. 48. Revocation and suspension of licence.
 
-47A. Renewal of licences. 48. Revocation and suspension of licence. 49. Transfer of licences. 50. Limitation of age of self-drive cars.
+49. Transfer of licences. 50. Limitation of age of self-drive cars.
 
 Chauffeur Licences
 
@@ -106,9 +106,9 @@ PART IVA
 
 Drivers’ Hours
 
-66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66CA. Authorisation of field tests. 66D. Installation and use of recording equipment - EU requirements. 66DA. Installation and use of recording equipment - AETR requirements. 66DB. Supply of recording equipment which is not type-approved. 66DBA. Manual daily record sheet.
+66A.  Interpretation, supplementary provisions, etc, for Part IVA. 66B.  Vehicles and drivers subject to control under this Part. 66C. Permitted driving time and periods of duty. 66CA. Authorisation of field tests. 66D. Installation and use of recording equipment - EU requirements. 66DA. Installation and use of recording equipment - AETR requirements. 66DB. Supply of recording equipment which is not type-approved. 66DBA. Manual daily record sheet. 66DC. Recording equipment system elements: security vulnerabilities. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence.
 
-66DC. Recording equipment system elements: security vulnerabilities. 66E.  Forgery, etc. of seals on recording equipment. 66F.  Records etc produced by equipment may be used in evidence. 66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data. 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records. 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66TA. Power to stop. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66WA. Exchange of information with AETR competent authorities. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
+66G.  Delivery of record sheets and other documents. 66H.  Vehicle units: downloading data. 66I. Driver cards: downloading data. 66J. Downloading data: requirement imposed by an officer. 66K.  Downloading and retaining data: offences. 66L.  Access to downloaded data. 66M.  Written records. 66N.  Inspection of records and other documents. 66O.  Inspection of records and other documents and data relating to recording equipment. 66P.  Power of entry. 66Q.  Sections 66O and 66P: supplementary. 66R.  Offence of failing to comply with requirements or obstructing an officer. 66S.  Offences: false records and data etc. 66T.  Power to seize documents. 66TA. Power to stop. 66U.  Power to prohibit driving of vehicle. 66V.  Duration and removal of prohibition. 66W.  Failure to comply with prohibition. 66WA. Exchange of information with AETR competent authorities. 66X.  Power to give effect to international agreements. 66Y.  Application to the Crown and exemption for police and fire brigade. 66Z.  Offences by bodies corporate etc. 66ZA.  Schedule 3. 66ZB.  Regulations.
 
 PART IVB
 
@@ -120,7 +120,9 @@ PART IVC.
 
 ROAD TRANSPORT UNDER THE TGEU
 
-66ZM. Interpretation. 66ZN. Purpose. 66ZO. Article 276 road haulage operation. 66ZP. Use of licence under section 66ZF. 66ZQ. Requirements for drivers. 66ZR. Vehicle Requirements. 66ZS. Application of law. 66ZT. New measures. 66ZU. Remedial measures.
+66ZM. Interpretation.
+
+66ZN. Purpose. 66ZO. Article 276 road haulage operation. 66ZP. Use of licence under section 66ZF. 66ZQ. Requirements for drivers. 66ZR. Vehicle Requirements. 66ZS. Application of law. 66ZT. New measures. 66ZU. Remedial measures.
 
 Ambulance services.
 
@@ -134,9 +136,7 @@ FINAL PROVISIONS
 
 SCHEDULE 1 Supplementary provisions as to qualifications for operator licences.
 
-SCHEDULE 2
-
-Deleted
+SCHEDULE 2 Deleted
 
 SCHEDULE 3 EXEMPTION LISTINGS
 

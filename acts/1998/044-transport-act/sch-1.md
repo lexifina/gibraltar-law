@@ -236,9 +236,7 @@ Qualification of applicants– Professional competence.
 
 (b) ceases to work for the business; or
 
-(c) ceases to be of good repute,
-
-the holder shall, nevertheless, not be treated as failing to satisfy that requirement until the expiry of such period (not exceeding 18 months) as, in the opinion of the Commission, is reasonably required for the appointment of a new transport manager.
+(c) ceases to be of good repute, the holder shall, nevertheless, not be treated as failing to satisfy that requirement until the expiry of such period (not exceeding 18 months) as, in the opinion of the Commission, is reasonably required for the appointment of a new transport manager.
 
 (5) Where the holder of a licence is a company with two or more transport managers, and any of them ceases to be of good repute, the company shall, nevertheless, not be treated as failing to satisfy the requirement as to professional competence until the expiry of such period as, in the opinion of the Commission, is reasonably required for his removal or the appointment of a transport manager in his place.
 
@@ -586,7 +584,9 @@ Return of licences and discs.
 
 (a) the licence, and
 
-(b) the disc relating to any vehicle which the Commission may specify for cancellation, retention during the time of suspension, or alteration as the case may be.
+(b) the disc relating to any vehicle which the Commission may specify
+
+for cancellation, retention during the time of suspension, or alteration as the case may be.
 
 Expiry of licences.
 
