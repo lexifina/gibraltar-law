@@ -6,7 +6,7 @@ LN.2024/077
 
 Commencement 9.5.2024
 
-Amending enactments Relevant current provisions Commencement date LN.2024/082 Sch. 16.5.2024 2024/165 rr. 5(2), 6A-6C, 9(2)(d)-(f), 5.9.2024 2026/110 r. 9(3), (b), (5), Sch. 28.5.2026
+Amending enactments Relevant current provisions Commencement date LN.2024/082 Sch. 16.5.2024 2024/165 rr. 5(2), 6A-6C, 9(2)(d)-(f), 5.9.2024 2026/110 r. 9(3), (b), (5), Sch. 28.5.2026 2026/231 rr. 6A, 7(2)(a) 23.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -18,7 +18,7 @@ PART 1 PRELIMINARY
 
 PART 2 CORE PRINCIPLES
 
-6. The core principles. 6A. Application to DLT Providers.
+6. The core principles. 6A. Application to DLT Providers and VAA Providers.
 
 Specific requirements consistent with core principles
 
@@ -34,7 +34,9 @@ PART 4 REVOCATION
 
 SCHEDULE RETAIL CUSTOMER OUTCOMES
 
-PART 1 PRELIMINARY
+PART 1
+
+PRELIMINARY
 
 PART 2 PRODUCTS AND SERVICES OUTCOME
 
@@ -154,9 +156,9 @@ Governance consistent with core principles
 
 13. A financial service provider must ensure that its governance is consistent with compliance with principles 1 to 12.
 
-Application to DLT Providers.
+Application to DLT Providers and VAA Providers.
 
-6A.  The core principles apply to a DLT provider as they apply to other financial services providers but, in the event of any conflict between a core principle and the regulatory principles in the Schedule to the Financial Services (Distributed Ledger Technology Providers) Regulations 2020, the latter principles are to prevail.
+6A.  The core principles apply to a DLT provider or VAA Provider as they apply to other financial services providers but, in the event of any conflict between a core principle and the regulatory principles in the Schedule to the Financial Services (DLT Providers and VAA Providers) Regulations 2020, the latter principles are to prevail.
 
 Specific requirements consistent with core principles
 
@@ -228,7 +230,7 @@ Compliance with consumer duty.
 
 (2)  The obligation to comply with sub-regulation (1) applies–
 
-(a) in the case of a financial service provider (other than a DLT provider) which carries on regulated activity in the United Kingdom (whether by virtue of a market access right or otherwise)–
+(a) in the case of a financial service provider (other than a DLT provider or VAA provider) which carries on regulated activity in the United Kingdom (whether by virtue of a market access right or otherwise)–
 
 (i) in respect of retail customers in the United Kingdom, from the date these Regulations comes into operation; and
 
