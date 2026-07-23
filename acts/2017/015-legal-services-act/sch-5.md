@@ -216,9 +216,7 @@ CESSATION OF MEMBERSHIP
 
 2.8.2 Without prejudice to the generality of Section 2.8.1 there shall be four committees of the Law Council which shall be called the Finance Committee, the Law Reform Committee, the Education, Communication and Member Services and Representation Committee, the Committee for Non-Contentious work and the Court Users and Professional Conduct Committee each of which shall have, among others, the powers and functions conferred in or under the Constitution.
 
-2.8.3 The Law Council Board may, at any time, resolve to exercise some or all of the powers and functions of the Standing Committees referred to in Section 2.8.2 in place of such
-
-Committees or any of them and it may at any time delegate the exercise of any of such powers and functions to some other committee or committees of the Law Council.
+2.8.3 The Law Council Board may, at any time, resolve to exercise some or all of the powers and functions of the Standing Committees referred to in Section 2.8.2 in place of such Committees or any of them and it may at any time delegate the exercise of any of such powers and functions to some other committee or committees of the Law Council.
 
 2.9 STANDING ORDERS
 
@@ -328,9 +326,7 @@ Annual General Meetings and Ballots of Authorised Persons/Members of Law Council
 
 4.1 Not less than one month’s notice of an Annual General Meeting shall be given by giving notice individually to every person who is entitled to attend.    Such notices shall specify the place, the day and the hour of the meeting, and the general nature of any matter which is to be brought forward for discussion.   The accidental omission to give such notice in manner provided to any person entitled to same shall not invalidate the proceedings of any meeting.
 
-4.2 Any member of the Law Council shall be at liberty to bring forward any resolution (not disallowable under Section 4.7 of this Part) for discussion and decision to any Annual General
-
-Meeting provided that prior notice of his intention to do so shall have been given in writing to the Secretary not less than 14 clear days before the day of the meeting and provided that the resolution is seconded by another Authorised Person.    The Secretary shall thereupon give notice of all such resolutions in the manner prescribed under Paragraph 1 of this Part not less than 7 clear days before the day of the meeting.   Notwithstanding any failure to comply with all or any of these requirements the chairperson of the meeting may at his or her discretion allow a resolution to be brought forward for discussion and decision upon such terms as he considers reasonable.
+4.2 Any member of the Law Council shall be at liberty to bring forward any resolution (not disallowable under Section 4.7 of this Part) for discussion and decision to any Annual General Meeting provided that prior notice of his intention to do so shall have been given in writing to the Secretary not less than 14 clear days before the day of the meeting and provided that the resolution is seconded by another Authorised Person.    The Secretary shall thereupon give notice of all such resolutions in the manner prescribed under Paragraph 1 of this Part not less than 7 clear days before the day of the meeting.   Notwithstanding any failure to comply with all or any of these requirements the chairperson of the meeting may at his or her discretion allow a resolution to be brought forward for discussion and decision upon such terms as he considers reasonable.
 
 4.3 No business shall be transacted at an Annual General Meeting unless a quorum is present at the time when the meeting proceeds to business and, save as hereinafter otherwise provided, 20 members of the Law Council personally present shall constitute a quorum.
 
