@@ -98,7 +98,9 @@ Class B Drugs
 
 1.  The following substances and products, namely
 
-(a) Acetyldihydrocodeine Amphetamine Cannabis and cannabis resin Codeine Dihydrocodeine Ethylmorphine (3-ethylmorphine) Flunitrazepam Glutethimide Lefetamine Mecloqualone Methaqualone Methcathinone Methylamphetamine a-Methylphenethylhydroxylamine Methylphenidate Methylphenobarbitone Nicodine Nicodicodine (6-nicotinoyldihydrocodeine) Norcodeine Pentazocine Phenmetrazine Pholcodine Propiram Zipeprol.
+(a)
+
+Acetyldihydrocodeine Amphetamine Cannabis and cannabis resin Codeine Dihydrocodeine Ethylmorphine (3-ethylmorphine) Flunitrazepam Glutethimide Lefetamine Mecloqualone Methaqualone Methcathinone Methylamphetamine a-Methylphenethylhydroxylamine Methylphenidate Methylphenobarbitone Nicodine Nicodicodine (6-nicotinoyldihydrocodeine) Norcodeine Pentazocine Phenmetrazine Pholcodine Propiram Zipeprol.
 
 (aa) Any compound (not being bupropion, cathinone, diethylpropion, pyrovalerone or a compound for the time being specified in sub–paragraph (a) above) structurally derived from 2–amino–1–phenyl–1–propanone by modification in any of the following ways, that is to say,
 

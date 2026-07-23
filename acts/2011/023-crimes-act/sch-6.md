@@ -10,9 +10,9 @@ N-Acetylanthranilic acid 4-Anilino-N-phenethylpiperidine (ANPP) tert-Butyl 4-oxo
 
 The stereoisomeric forms of the substances listed above not being cathine, whenever the existence of such forms is possible.
 
-The salts of the substances listed above, whenever the existence of such salts is possible and not being the salts of cathine.
+The salts of the substances listed above, whenever the existence of such salts is possible and not being the salts of cathine. (1R,2S)-(-)-chloroephedrine
 
-(1R,2S)-(-)-chloroephedrine (1S,2R)-(+)-chloroephedrine (1S,2S)-(+)-chloropseudoephedrine (1R,2R)-(-)-chloropseudoephedrine
+(1S,2R)-(+)-chloroephedrine (1S,2S)-(+)-chloropseudoephedrine (1R,2R)-(-)-chloropseudoephedrine
 
 1 Methyl, ethyl, propyl, isopropyl, butyl, isobutyl, sec-butyl, and tert-butyl esters of 3,4- MDP-2-P methyl glycidic acid. 2 Methyl, ethyl, propyl, isopropyl, butyl, isobutyl, sec-butyl, and tert-butyl esters of P-2-P methyl glycidic acid.
 
