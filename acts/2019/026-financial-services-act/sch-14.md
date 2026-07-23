@@ -54,7 +54,7 @@ Non-bank mortgage creditor firms
 
 Head of Credit
 
-DLT providers
+DLT providers or VAA providers
 
 Head of Security Head of Technology Head of Risk Management Head of Finance
 
@@ -76,11 +76,11 @@ Chief Operating Officer
 
 Head of Credit (if regulated firm is a Credit institution)
 
-Head of Trading (if regulated firm is an Investment firm or a DLT provider)
+Head of Trading (if regulated firm is an Investment firm or a DLT provider or VAA provider)
 
-Head of Markets (if regulated firm is a DLT provider)
+Head of Markets (if regulated firm is a DLT provider or VAA provider)
 
-Head of operations (if regulated firm is a Regulated market or a DLT provider)
+Head of operations (if regulated firm is a Regulated market or a DLT provider or VAA provider)
 
 Head of underwriting (if regulated firm is an insurance or reinsurance undertaking or intermediary)
 
@@ -88,6 +88,6 @@ Head of claims (if regulated firm is an insurance or reinsurance undertaking or 
 
 Head of Client Asset Oversight
 
-Head of Customer Care (if regulated firm is a DLT provider)
+Head of Customer Care (if regulated firm is a DLT provider or VAA provider)
 
-Head of Business Continuity (if regulated firm is a DLT provider)
+Head of Business Continuity (if regulated firm is a DLT provider or VAA provider)

@@ -28,7 +28,7 @@ Requirement to have non-executive directors.
 
 (d) an electronic money institution; or
 
-(e) a DLT provider,
+(e) a DLT provider or VAA provider,
 
 must have not less than two independent non-executive directors who must be approved as regulated individuals.
 

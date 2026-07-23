@@ -268,11 +268,11 @@ General
 
 The regulated activities
 
-139. Providing distributed ledger technology services. 139A. Providing virtual asset arrangements. 139B. Exclusions from paragraph 139A.
+139. Providing distributed ledger technology services. 139A. Providing virtual asset arrangements. 139B. Omitted
 
 Exclusions
 
-140. Exclusions from paragraph 139. 141. Activities incidental to carrying on other regulated activities. 142. Activities of persons subject to other forms of statutory regulation.
+140. Exclusions from paragraph 139. 141. Activities incidental to carrying on other regulated activities. 142. Activities of persons subject to other forms of statutory regulation. 142A. Exclusions from paragraph 139A.
 
 PART 17 OTHER SPECIFIED ACTIVITIES
 
@@ -280,9 +280,7 @@ PART 17 OTHER SPECIFIED ACTIVITIES
 
 REGULATED ACTIVITIES
 
-PART 1
-
-GENERAL
+PART 1 GENERAL
 
 Interpretation of Schedule 2.
 
@@ -1666,7 +1664,7 @@ Administration of employee-participation schemes.
 
 Collective investment undertakings.
 
-65.  There is excluded from paragraphs 48 to 56 any activity which is carried on by–
+65.  There is excluded from paragraphs 48 to 56 any activity which is carried on in the course of the business for which they are authorised by–
 
 (a) collective investment undertakings and pension funds; or
 
@@ -2554,15 +2552,7 @@ Providing virtual asset arrangements.
 
 but does not include a virtual asset.
 
-Exclusions from paragraph 139A.
-
-139B.  There is excluded from paragraph 139A any dealing on own account which is carried on by–
-
-(a) collective investment schemes within the meaning of Part 18 of this Act;
-
-(b) pension funds; or
-
-(c) the depositaries and managers of entities in paragraph (a) or (b).
+139B.  Omitted
 
 Exclusions
 
@@ -2593,6 +2583,16 @@ Activities of persons subject to other forms of statutory regulation.
 (iv) such other enactments as the Minister may by regulations prescribe; and
 
 (b) uses DLT only in the course of carrying on that activity.
+
+Exclusions from paragraph 139A.
+
+142A.  There is excluded from paragraph 139A any activity which is carried on in the course of the business for which they are authorised by–
+
+(a) collective investment schemes within the meaning of Part 18 of this Act;
+
+(b) pension funds; or
+
+(c) the depositaries and managers of entities in paragraph (a) or (b).
 
 PART 17 OTHER SPECIFIED ACTIVITIES
 
