@@ -6,7 +6,7 @@ LN.2026/066
 
 Commencement 15.7.2026
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2026/250 rr. 3, 4(1), 5(3)-(6), 9(1)-(3), 22(1), (4) 23.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -14,7 +14,7 @@ Regulation
 
 PART 1 GENERAL PROVISIONS
 
-1. Title. 2. Commencement. 3. Interpretation. 4. Establishment and dissolution. 5. Regulation of procedure. 6. Disbursements. 7. Liability of members. 8. Powers and Competence of the Board. 9. Fund to be kept solvent. 10. Sub-fund.
+1. Title. 2. Commencement. 3. Interpretation. 4. Establishment and dissolution. 5. Regulation of procedure. 6. Disbursements. 7. Liability of members. 8. Powers and Competence of the Board. 9. Funding. 10. Sub-fund.
 
 PART 2 EMISSIONS REDUCTIONS OF GENERATING STATION
 
