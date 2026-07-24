@@ -52,7 +52,9 @@ Act. 1971-14 s. 28(2)
 
 1.7.20153 2015-19 ss. 29 6.8.2015 2016-18 s. 16, Sch. 2 23.4.2018 2017-10 Sch. 2 13.6.2018 LN. 2020/523 ss. 72A-72G 1.1.2021 2020/528 ss. 41, 42(1), 64(1), 67 1.1.2021 2021/481 Sch. 4 9.12.2021 Act. 2017-15 ss. 2, 27W(5), (10), 28(1)(d), (3), 29(1)(c), 31(1)-(2), 32, 34(1)(aa), 35
 
-30.12.20221 LN. 2023/216 ss, 39-72 27.7.2023 “ ss. 35A-35H 1.9.2023
+30.12.20221 LN. 2023/216 ss, 39-72 27.7.2023 “ ss. 35A-35H 1.9.2023 Act. 2026-22 ss. 2, 27W(9)(b), 28(1), (c), 29(1), (a), (ba), 29(1A)
+
+24.7.20262
 
 The Supreme Court (Admiralty Practice) Rules and the Supreme Court (Prize Court Fees) Rules 1940 are printed under the title Colonial Courts of Admiralty Act 1890.
 
@@ -64,7 +66,7 @@ Implementing: Regulation (EU) No 1215/2012
 
 English sources: Juries Act 1825 (6 Geo.4 c.50) County Courts Act 1934 (24 & 25 Geo.5 c.53)
 
-2 See LN. 2010/183 3 See LN. 2015/102 1 Commencement Notice (LN.2022/348)
+2 See LN. 2010/183 3 See LN. 2015/102 1 Notice of Commencement (LN.2022/348) 2 Notice of Commencement (LN.2026/254)
 
 ARRANGEMENT OF SECTIONS
 
@@ -82,15 +84,15 @@ PART II. JURISDICTION AND POWERS.
 
 PART III. TRIAL BY JURY.
 
-19. Repealed 19A.  Qualification for jury service. 19B.  Jury list. 19C.  Service of summons. 19D.   Withdrawal or alteration of summons. 19E.  Attendance and service. 19F.  Excusal for previous jury service.
+19. Repealed 19A.  Qualification for jury service. 19B.  Jury list. 19C.  Service of summons. 19D.   Withdrawal or alteration of summons. 19E.  Attendance and service. 19F.  Excusal for previous jury service. 19G.  Excusal for certain persons.
 
-19G.  Excusal for certain persons. 19H.  Discretionary excusal. 19I. Discretionary deferral. 19J.   Discharge of summons in case of doubt as to capacity. 20. Repealed 20A.  Number of jurors. 20B.  Choosing the jury. 20C.   Summoning in exceptional circumstances. 20D.  Challenge. 21. Repealed 21A.  Swearing of juror. 21B.  Appointment of foreman. 21C.  Continuation of trial on death or discharge of juror. 21D.  Discharge of jury: General power. 21E.  Discharge of jury for jury tampering. 21F.  Delivery of verdicts. 21G.  Majority verdicts. 21H.  Jury unable to reach verdict. 21I. Stay or reversal of judgment. 22. Repealed 22A.  Views. 22B  Separation. 22C.  Documents produced as exhibits. 22D.   Refreshment. 22E.  Payment for jury service. 22F.  Offences and penalties. 22G.  Application of Part III to civil actions. 22H.  Jurors may be required to stand by. 22I. Verdicts in civil actions. 23 to 27 Repealed
+19H.  Discretionary excusal. 19I. Discretionary deferral. 19J.   Discharge of summons in case of doubt as to capacity. 20. Repealed 20A.  Number of jurors. 20B.  Choosing the jury. 20C.   Summoning in exceptional circumstances. 20D.  Challenge. 21. Repealed 21A.  Swearing of juror. 21B.  Appointment of foreman. 21C.  Continuation of trial on death or discharge of juror. 21D.  Discharge of jury: General power. 21E.  Discharge of jury for jury tampering. 21F.  Delivery of verdicts. 21G.  Majority verdicts. 21H.  Jury unable to reach verdict. 21I. Stay or reversal of judgment. 22. Repealed 22A.  Views. 22B  Separation. 22C.  Documents produced as exhibits. 22D.   Refreshment. 22E.  Payment for jury service. 22F.  Offences and penalties. 22G.  Application of Part III to civil actions. 22H.  Jurors may be required to stand by. 22I. Verdicts in civil actions. 23 to 27 Repealed
 
 PART IIIA TRIAL WITH LAY ASSESSORS
 
-27A. 27B.  Application by prosecution for case to be conducted with lay assessors. 27C.  Procedure for applications under section 27B. 27D.  Effect of an order for trial with lay assessors. 27E.  Lay assessors list. 27F.  Procedure for approval as a lay assessor. 27G.  Inclusion on the lay assessors list. 27H.  Service of summons. 27I. Attendance and excusal. 27J. Number of lay assessors.
+27A. 27B.  Application by prosecution for case to be conducted with lay assessors. 27C.  Procedure for applications under section 27B. 27D.  Effect of an order for trial with lay assessors. 27E.  Lay assessors list. 27F.  Procedure for approval as a lay assessor. 27G.  Inclusion on the lay assessors list. 27H.  Service of summons. 27I. Attendance and excusal. 27J. Number of lay assessors. 27K.  Selection of lay assessors. 27L.  Challenge to lay assessors.
 
-27K.  Selection of lay assessors. 27L.  Challenge to lay assessors. 27M.  Discharge of assessors. 27N.  Commencing or continuing trial without assessors. 27O. Role of lay assessors. 27P.  Verdict in trial with lay assessors. 27Q.  Judgment in trial by judge alone. 27R.  Stay or reversal of judgment. 27S.  Refreshment and payment. 27T.  Offences by lay assessors. 27U.  Rules of court. 27V.   Amendment of Schedule 4.
+27M.  Discharge of assessors. 27N.  Commencing or continuing trial without assessors. 27O. Role of lay assessors. 27P.  Verdict in trial with lay assessors. 27Q.  Judgment in trial by judge alone. 27R.  Stay or reversal of judgment. 27S.  Refreshment and payment. 27T.  Offences by lay assessors. 27U.  Rules of court. 27V.   Amendment of Schedule 4.
 
 PART IV. BARRISTERS AND SOLICITORS.
 
