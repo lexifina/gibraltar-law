@@ -6,9 +6,7 @@ Newspapers (Fees) Regulations
 
 Commencement 1.11.1946
 
-Amending enactments Relevant current provisions Commencement date LN. 1992/009 Sch. 13.2.1992
-
-___________________________
+Amending enactments Relevant current provisions Commencement date LN. 1992/009 Sch. 13.2.1992 2026/258 Sch. 30.7.2026
 
 ARRANGEMENT OF REGULATIONS
 
