@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2019-20 Commencement (LN.2021/355) 4.8.2021 Assent 23.7.2019
 
-Amending enactments Relevant current provisions Commencement date Act.2021-17 ss. 2, 4(2)-(3), (5A), 11(1)(a), (c), (1A), (2)-(4), (6), 13(1), 14(2), 15, 16(h)-(i), 17, 18A-18C, 19, 20A, 22(2), 23(1)(m), (t)-(u), (2)-(5) 4.8.20211
+Amending enactments Relevant current provisions Commencement date Act.2021-17 ss. 2, 4(2)-(3), (5A), 11(1)(a), (c), (1A), (2)-(4), (6), 13(1), 14(2), 15, 16(h)-(i), 17, 18A-18C, 19, 20A, 22(2), 23(1)(m), (t)-(u), (2)-(5) 4.8.20211 LN.2026/257 s. 3A 30.7.2026
 
 1 Notice of Commencement (LN.2021/356)
 
@@ -20,7 +20,7 @@ PRELIMINARY
 
 2. Interpretation.
 
-3. Restrictions on application of Act.
+3. Restrictions on application of Act. 3A. The obligation in subsection (1) does not apply to ….
 
 PART II
 
