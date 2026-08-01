@@ -6,7 +6,7 @@ Private Letter Box Regulations
 
 Commencement 22.12.1961
 
-Amending enactments Relevant current provisions Commencement date LN. 1985/024 r. 8. 1.4.1985 1988/142 rr. 7(1)-(2), 8(a)-(c) 1.4.1989 1999/029 rr. 7(1)-(2), 8(a)-(c) 1.4.1999 2019/166 r. 8 15.8.2019 2022/038 r. 8 1.4.2022
+Amending enactments Relevant current provisions Commencement date LN. 1985/024 r. 8. 1.4.1985 1988/142 rr. 7(1)-(2), 8(a)-(c) 1.4.1989 1999/029 rr. 7(1)-(2), 8(a)-(c) 1.4.1999 2019/166 r. 8 15.8.2019 2022/038 r. 8 1.4.2022 2026/274 rr. 7(1)-(2), 8 1.8.2026
 
 ARRANGEMENT OF REGULATIONS
 
