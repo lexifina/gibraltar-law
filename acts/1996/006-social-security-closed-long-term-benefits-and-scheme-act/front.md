@@ -14,7 +14,7 @@ Amending enactments Relevant current provisions Commencement date Act. 1997-13 s
 
 28.3.2014 LN. 2015/086 s. 16(a), Sch.1 1.8.2014 2015/156 s. 16(a), Sch.1 1.8.2015 2016/155 s. 16(a), Sch.1 1.8.2016 2017/183 s. 16(a), Sch.1 1.8.2017 2018/186 s. 16(a), Sch.1 1.8.2018 2019/161 s. 16(a), Sch.1 1.8.2019 2020/535 s. 37(1), (3) 24.12.2020 “ s. 3(3)(a), (8) 1.1.2021 Act. 2021-09 ss. 2(4)(cc), 11(2)(i) 9.2.2021 LN. 2021/346 s. 16(a), Sch.1 1.8.2021 2022/207 s. 16(a), Sch.1 1.8.2022 2023/234 s. 16(a), Sch.1 1.8.2023
 
-Act. 2023-04 s. 2(4)(c) 18.4.2024 LN. 2024/131 s. 16(a), Sch.1 1.8.2024 2025/162 s. 16(a), Sch.1 1.8.2025
+Act. 2023-04 s. 2(4)(c) 18.4.2024 LN. 2024/131 s. 16(a), Sch.1 1.8.2024 2025/162 s. 16(a), Sch.1 1.8.2025 2026/245 s. 16(a), Sch.1 1.8.2026
 
 ARRANGEMENT OF SECTIONS
 
@@ -34,9 +34,9 @@ PART III INSURANCE AND BENEFITS PRELIMINARY.
 
 Miscellaneous provisions as to benefit.
 
-18.  Claims and notices. 19.  Disqualification for imprisonment. 20.  Overlapping benefits. 21.  Disqualification etc. to be disregarded for certain purposes.
+18.  Claims and notices. 19.  Disqualification for imprisonment. 20.  Overlapping benefits. 21.  Disqualification etc. to be disregarded for certain purposes. 22.  Benefit to be inalienable.
 
-22.  Benefit to be inalienable. 22A. Termination of Benefits. 23.  Provisions as to maintenance and incapacity for self-support.
+22A. Termination of Benefits. 23.  Provisions as to maintenance and incapacity for self-support.
 
 PART IV ADMINISTRATION AND LEGAL PROCEEDINGS.
 
