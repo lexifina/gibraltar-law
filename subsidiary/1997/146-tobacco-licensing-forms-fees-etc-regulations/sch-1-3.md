@@ -132,9 +132,7 @@ No....................................
 
 Receipt No………………. The importation of the above tobacco is accordingly authorised subject to the conditions appearing below.
 
-Date................                                             Collector of Customs CONDITIONS: 1. Goods to be dispatched within               months from date of permit 2. Distribution on arrival to be subject to requirements of the Collector of Customs. 3. This licence is surrendered to the Customs Authorities for their retention at the time importation is effected.
-
-4. Goods to be placed in authorised warehouse.
+Date................                                             Collector of Customs CONDITIONS: 1. Goods to be dispatched within               months from date of permit 2. Distribution on arrival to be subject to requirements of the Collector of Customs. 3. This licence is surrendered to the Customs Authorities for their retention at the time importation is effected. 4. Goods to be placed in authorised warehouse.
 
 FORM 4
 
