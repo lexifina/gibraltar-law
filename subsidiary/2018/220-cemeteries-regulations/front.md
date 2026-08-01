@@ -6,7 +6,7 @@ LN.2018/220
 
 Commencement 18.10.2018
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN. 2026/270 Sch. 1.8.2026
 
 ARRANGEMENT OF REGULATIONS
 
