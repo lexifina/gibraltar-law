@@ -6,7 +6,7 @@ LN.1990/162
 
 Commencement 22.11.1990
 
-Amending enactments Relevant current provisions Commencement date LN. 1990/179 r. 9 and Sch. 22.11.1990 1991/212 r. 9(5) and Sch. 21.11.1991 1996/048 r. 2 4.4.1996 2022/201 Sch. 21.7.2022 2023/208 Sch. 1.8.2023 2025/190 Sch. 1.8.2025
+Amending enactments Relevant current provisions Commencement date LN. 1990/179 r. 9 and Sch. 22.11.1990 1991/212 r. 9(5) and Sch. 21.11.1991 1996/048 r. 2 4.4.1996 2022/201 Sch. 21.7.2022 2023/208 Sch. 1.8.2023 2025/190 Sch. 1.8.2025 2026/298 Sch. 1.8.2026
 
 ARRANGEMENT OF REGULATIONS
 
