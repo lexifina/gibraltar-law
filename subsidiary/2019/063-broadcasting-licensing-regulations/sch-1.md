@@ -8,14 +8,14 @@ Fee
 
 FM Radio
 
-£528.00 MW Radio
+£541.00 MW Radio
 
-£528.00 Audio Media Service
+£541.00 Audio Media Service
 
-£105.00 Restricted FM Radio
+£107.50 Restricted FM Radio
 
-£528.00 Audiovisual Media Service
+£541.00 Audiovisual Media Service
 
-£105.50 Digital Audio Broadcasting (DAB+) £528.00 Digital Terrestrial Television (DTT) £1,056.00
+£108.00 Digital Audio Broadcasting (DAB+) £541.00 Digital Terrestrial Television (DTT) £1,082.50
 
 _________________________
