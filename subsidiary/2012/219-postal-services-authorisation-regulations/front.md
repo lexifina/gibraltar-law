@@ -6,7 +6,7 @@ LN.2012/219
 
 Commencement 13.12.2012
 
-Amending enactments Relevant current provisions Commencement date LN.2025/209 r. 12(1)(a)-(b) 1.8.2025
+Amending enactments Relevant current provisions Commencement date LN. 2025/209 r. 12(1)(a)-(b) 1.8.2025 2026/273 r. 12(1)(a)-(b) 1.8.2026
 
 Transposing: Directive 97/67/EC
 
