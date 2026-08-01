@@ -6,7 +6,7 @@ LN.1990/158
 
 Commencement 1.12.1990
 
-Amending enactments Relevant current provisions Commencement date Act. 2007-17 rr. 3(1)-(3), 4(b)-(d), 5(4)-(5), 6(b), 8(a), 9(1) 14.6.2007 LN. 2011/033 r. 7 1.4.2011 2012/045 r. 7 1.4.2012 2023/222 r. 7 1.8.2023 2024/129 r. 7 1.8.2024 2025/175 r. 7 1.8.2025
+Amending enactments Relevant current provisions Commencement date Act. 2007-17 rr. 3(1)-(3), 4(b)-(d), 5(4)-(5), 6(b), 8(a), 9(1) 14.6.2007 LN. 2011/033 r. 7 1.4.2011 2012/045 r. 7 1.4.2012 2023/222 r. 7 1.8.2023 2024/129 r. 7 1.8.2024 2025/175 r. 7 1.8.2025 2026/233 r. 7 1.8.2026
 
 ARRANGEMENT OF REGULATIONS
 
