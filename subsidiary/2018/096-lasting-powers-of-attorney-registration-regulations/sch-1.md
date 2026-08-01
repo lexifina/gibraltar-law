@@ -1,0 +1,95 @@
+SCHEDULE 1 Regulation 4(1)(a) PART 1
+
+APPLICATION FORM FOR AN ENTRY IN THE REGISTER Applicant’s Ref. ………………………….
+
+To the Registrar Application on behalf of ................................................................................................................ for the entry in the Register of an LPA of Type …………………………. (If applying to register two LPAs, you must complete a separate cover page for each LPA). Type 1 - Property and Financial Type 2 - Health and Welfare Date of LPA  ...........................................………………………………… made by (name of donor) …………………………………………………. Dated the ..................... day of .............................................................. Name and address of applicant ............................................................ ............................................ ................................................................... ................................................................................................................ Signature of applicant or applicant’s representative ............................................. Notes:
+
+An application must be accompanied by–
+
+1. An LPA of the type referred to above; and 2. Payment of the registration fee.
+
+Regulation 4(2) PART 2(a)
+
+PRESCRIBED INFORMATION
+
+Lasting Power of Attorney – Property and Affairs
+
+You must read this information carefully to understand the purpose and legal consequences of making an LPA. Your donee(s) and certificate provider(s) should also read this.
+
+A Lasting Power of Attorney (LPA) is a legal document that allows you to authorise someone (the donee(s)) to make decisions on your behalf. Your donee(s) can only use the LPA after it is registered at the LPA Register at the Supreme Court of Gibraltar.
+
+Your donee(s) must follow the principles set out in sections 86 to 89 of the Mental Health Act 2016, which are:
+
+ a person must be assumed to have capacity unless it is established that the person lacks capacity;
+
+ a person is not to be treated as unable to make a decision unless all practicable steps to help the person to do so have been taken without success;
+
+ a person is not to be treated as unable to make a decision merely because the person makes an unwise decision;
+
+ an act done, or decision made, under the Lasting Powers of Attorney and Capacity Act 2018 for or on behalf of a person who lacks capacity must be done, or made, in the person’s best interests; and
+
+ before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person’s rights and freedom of action.
+
+Your donee(s) also has a binding duty to have regard to the Code of Practice issued in accordance with section 16 of the Lasting Powers of Attorney and Capacity Act 2018.
+
+Before this LPA can be used it must be registered at the LPA Register at the Supreme Court of Gibraltar.
+
+You can allow your donees to make decisions either:
+
+ As soon as the LPA has been registered; or
+
+ Only when you do not have mental capacity.
+
+Cancelling your LPA: You can cancel this LPA at any time, as long as you have the mental capacity to do so. It does not matter if the LPA has been registered or not.
+
+Your Will and your LPA: Your donee cannot use this LPA to change your Will (if you have one). This LPA will expire when you pass away. Your donee must then send the registered LPA, any certified copies and a copy of your death certificate to the Registrar.
+
+PART 2(b)
+
+PRESCRIBED INFORMATION
+
+Lasting Power of Attorney – Health and Welfare
+
+You must read this information carefully to understand the purpose and legal consequences of making an LPA. Your donee(s) and certificate provider(s) should also read this.
+
+A Lasting Power of Attorney (LPA) is a legal document that allows you to authorise someone (the donee(s)) to make decisions on your behalf. Your donee(s) can only use the LPA after it is registered at the LPA Register at the Supreme Court of Gibraltar.
+
+Your donee(s) must follow the principles set out in sections 86 to 89 of the Mental Health Act 2016, which are:
+
+ a person must be assumed to have capacity unless it is established that the person lacks capacity;
+
+ a person is not to be treated as unable to make a decision unless all practicable steps to help the person to do so have been taken without success;
+
+ a person is not to be treated as unable to make a decision merely because the person makes an unwise decision;
+
+ an act done, or decision made, under the Lasting Powers of Attorney and Capacity Act 2018 for or on behalf of a person who lacks capacity must be done, or made, in the person’s best interests; and
+
+ before the act is done, or the decision is made, regard must be had to whether the purpose for which it is needed can be as effectively achieved in a way that is less restrictive of the person’s rights and freedom of action.
+
+Your donee(s) also has a binding duty to have regard to the Code of Practice issued in accordance with section 16 of the Lasting Powers of Attorney and Capacity Act 2018.
+
+Before this LPA can be used it must be registered at the LPA Register at the Supreme Court of Gibraltar.
+
+Your donee(s) can only use this LPA if you do not have mental capacity.
+
+Life-sustaining treatment: You must choose whether your donee can give or refuse consent to life-sustaining treatment on your behalf. Life-sustaining treatment means care, surgery, medicine or other help from doctors that is required to keep you alive, for example:
+
+ a serious operation, such as a heart bypass or organ transplant;
+
+ cancer treatment; or
+
+ artificial nutrition or hydration, (food or water given other than by mouth).
+
+Cancelling your LPA: You can cancel this LPA at any time, as long as you have the mental capacity to do so. It does not matter if the LPA has been registered or not.
+
+Your Will and your LPA: Your donee(s) cannot use this LPA to change your Will, (if you have one). This LPA will expire when you pass away. Your donee(s) must then send the registered LPA, any certified copies and a copy of your death certificate to the Registrar.
+
+PART 3 Regulation 7(2) DEFECTS NOTICE Pursuant to Regulation 7(2) of the Lasting Powers of Attorney (Registration) Regulations 2018, I hereby issue you with notice that your application dated the …….. day of ……………………….. 20…. cannot be processed further for the following reasons: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………..
+
+Please note that you are entitled to respond, within 14 days of the date of service of this notice, with written representations to the Registrar addressing any material defects and including any supporting documentation. Dated the ……… day of …………………. 20……. Signed: ……………… Registrar
+
+PART 4 Regulation 8(2) REJECTION NOTICE Pursuant to Regulation 8(2) of the Lasting Powers of Attorney (Registration) Regulations 2018, I hereby issue you with notice that your application dated the………….day of ……………………..20……... cannot be processed for the following reasons: ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………………………………………………………………………………………… ………………..
+
+Dated the ……… day of …………………. 20……. Signed:
+
+……………… Registrar
