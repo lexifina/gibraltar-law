@@ -48,9 +48,9 @@ The same (h) Supplying a certified or other copy of a notice, certificate, order
 
 The same (i) Administering the oath of allegiance for the purposes of the British Nationality Act, 1981.
 
-If the oath is administered by a Commissioner for Oaths or Notary
+If the oath is administered by a Commissioner for Oaths or Notary Public, to the Commissioner for
 
-Public, to the Commissioner for Oaths or Notary Public.
+Oaths or Notary Public.
 
 4. OFFICE FEES.
 
@@ -108,7 +108,9 @@ A fee shall be charged for the attendance of a revenue officer to supervise the 
 
 Provided that in the case of a container which has not been removed from the Port no proceedings shall be instituted unless and until rental charges of more than five times the daily charge in respect of that container are due or would have been due but for the fact that they have been reduced below that figure by reason of a sale under paragraph (5).
 
-(5) The Captain of the Port may, without prejudice to his powers under paragraph (4), sell or otherwise dispose of any container in the Port in respect of which rental or charges of more than five times the daily charge in respect of that container are due and if the Captain of the Port sells any such container the sum received therefor, less the costs of sale thereof, shall be set-off against any sum due in respect of such container for rental or charges.
+(5) The Captain of the Port may, without prejudice to his powers under paragraph (4), sell or otherwise dispose of any container in the Port in respect of which rental or charges of more than five times the daily charge in respect of that container are due and if the Captain of the
+
+Port sells any such container the sum received therefor, less the costs of sale thereof, shall be set-off against any sum due in respect of such container for rental or charges.
 
 (6) The Captain of the Port may, in respect of any container brought into or removed from the Port by sea or land, require of any person whom he considers able to give him such evidence, such evidence as he may deem necessary to enable him to assess the charges payable or which may become payable, in respect of such container.
 
@@ -170,9 +172,7 @@ There shall be paid to the Chief Executive Health office in respect of every per
 
 £50.00
 
-3. Abstract of police road traffic accident report
-
-£25.00
+3. Abstract of police road traffic accident report £25.00
 
 4. Abstract of police crime report form
 
@@ -232,6 +232,6 @@ Administrative Service Requests.
 
 16. The prescribed fees shall be payable for the provision of the following administrative services by the Income Tax Office-
 
-Certificate of ordinarily resident  In respect of a company Certificate of ordinarily resident In respect of an individual meeting the conditions of section 74 of the Income Tax Act 2010, including an individual: - in employment; - carrying on a trade, business, profession or vocation;
+Certificate of ordinarily resident  In respect of a company Certificate of ordinarily resident In respect of an individual meeting the conditions of section 74 of the Income Tax Act 2010, including an individual: - in employment; - carrying on a trade, business, profession or vocation; - who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. Certificate of compliance In respect of a company Certificate of compliance In respect of an individual:
 
-- who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. Certificate of compliance In respect of a company Certificate of compliance In respect of an individual: - in employment; - carrying on a trade, business, profession or vocation; or - who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. Statement of account A summary listing in respect of all transactions carried out
+- in employment; - carrying on a trade, business, profession or vocation; or - who has a certificate issued under the Qualifying Category 2 Individuals Rules 2004 or the High Executive Possessing Specialist Skills Rules 2008. Statement of account A summary listing in respect of all transactions carried out Certificate A certificate and processing of overseas double taxation forms
