@@ -28,6 +28,4 @@ Dated this. . . . ., day of . . . . . . . . . 20. . .
 
 Signature of Applicant. . . . . . . . . . . . . . . .
 
-To
-
-The Chief Environmental Health Officer, Gibraltar.
+To The Chief Environmental Health Officer, Gibraltar.
