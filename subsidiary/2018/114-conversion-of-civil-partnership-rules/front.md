@@ -6,7 +6,7 @@ LN.2018/114
 
 Commencement 24.5.2018
 
-Amending enactments Relevant current provisions Commencement date LN. 2020/353 Sch. 2 15.10.2020 2022/243 Sch. 2 11.8.2022 2023/205 Sch. 2 21.7.2023 2024/125 Sch. 2 1.8.2024 2024/219 Sch. 2 1.1.2025 2025/179 Sch. 2 1.8.2025
+Amending enactments Relevant current provisions Commencement date LN. 2020/353 Sch. 2 15.10.2020 2022/243 Sch. 2 11.8.2022 2023/205 Sch. 2 21.7.2023 2024/125 Sch. 2 1.8.2024 2024/219 Sch. 2 1.1.2025 2025/179 Sch. 2 1.8.2025 2026/240 Sch. 2 1.8.2026
 
 ARRANGEMENT OF REGULATIONS.
 
