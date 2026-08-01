@@ -6,7 +6,7 @@ LN.2001/142
 
 Commencement 11.12.2001
 
-Amending enactments Relevant current provisions Commencement date LN.2020/402 Sch. 1 12.11.2020 2022/219 Sch. 1 28.7.2022 2023/202 Sch. 1 21.7.2023 2024/126 Sch. 1 1.8.2024 2025/183 Sch. 1 1.8.2025
+Amending enactments Relevant current provisions Commencement date LN.2020/402 Sch. 1 12.11.2020 2022/219 Sch. 1 28.7.2022 2023/202 Sch. 1 21.7.2023 2024/126 Sch. 1 1.8.2024 2025/183 Sch. 1 1.8.2025 2026/278 Sch. 1 1.8.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -46,29 +46,29 @@ licences for places of entertainment (reg.2) - - per annum
 
 liquor manufacturing licences (reg. 2)
 
-£48.00
+£49.00
 
 licences to sell food, drink or intoxicating liquor to be consumed off the premises (reg.2)
 
-£97.50
+£100.00
 
 licences to sell food, drink or intoxicating liquor to be consumed on the premises (reg.2) –
 
 - for any premises whose net annual value is rated from £501 to £1000
 
-£315.00
+£323.00
 
 - for any premises whose net annual value is rated from £1001 to £1500
 
-£387.50
+£397.00
 
 - for any premises whose net annual value is rated above £1501
 
-£484.50
+£496.50
 
 Licence to sell food, drink or intoxicating liquor for consumption in an external area (reg.6)
 
-£0.71 per
+£0.73 per
 
 square metre
 
