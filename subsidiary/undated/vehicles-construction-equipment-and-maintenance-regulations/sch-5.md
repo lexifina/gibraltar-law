@@ -22,13 +22,17 @@ In the case of vehicle combinations including alternatively fuelled or zero emis
 
 (c) two-axle motor vehicle with three-axle semi-trailer carrying, in intermodal transport operations, one or more containers or swap bodies, up to a total maximum length of 45 feet
 
-(d) three-axle motor vehicle with two- or three-axle semi-trailer carrying, in intermodal transport operations,
+(d) three-axle motor vehicle with two- or three-axle semi-trailer carrying, in intermodal transport operations, one or more containers or swap bodies, up to a total maximum length of 45 feet
 
 40
 
 40
 
-42 one or more containers or swap bodies, up to a total maximum length of 45 feet 44 2.3 Road trains with four axles consisting of a two-axle motor vehicle and a two-axle trailer
+42
+
+44
+
+2.3 Road trains with four axles consisting of a two-axle motor vehicle and a two-axle trailer
 
 36 2.4 Articulated vehicles with four axles consisting of a two-axle motor vehicle and a two-axle semi-trailer, if the distance between the axles of the semi-trailer:
 
@@ -46,11 +50,7 @@ Two-axle buses 19,5 tonnes Three-axle motor vehicles
 
 —25 tonnes —26 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognized as being equivalent within the Community as defined in Schedule 7, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9,5 tonnes
 
-Three-axle alternatively fuelled motor vehicles the maximum authorised weight of 25 tonnes, or 26 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognised as being equivalent within the European Union as defined in Schedule 7, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9,5 tonnes, is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne 2.3.3
-
-Four-axle motor vehicles with two steering axles
-
-—32 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognized as being equivalent within the Community as defined in Schedule 7, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9.5 tonnes 2.4.1 Three-axle articulated buses 28 tonnes 2.4.2 Three-axle articulated buses alternatively fuelled: the maximum authorised weight of 28 tonnes is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne
+Three-axle alternatively fuelled motor vehicles the maximum authorised weight of 25 tonnes, or 26 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognised as being equivalent within the European Union as defined in Schedule 7, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9,5 tonnes, is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne 2.3.3 Four-axle motor vehicles with two steering axles —32 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognized as being equivalent within the Community as defined in Schedule 7, or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9.5 tonnes 2.4.1 Three-axle articulated buses 28 tonnes 2.4.2 Three-axle articulated buses alternatively fuelled: the maximum authorised weight of 28 tonnes is increased by the additional weight required for the alternative fuel technology with a maximum of 1 tonne
 
 Table 2
 

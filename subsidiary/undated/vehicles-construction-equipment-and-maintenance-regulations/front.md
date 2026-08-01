@@ -10,11 +10,11 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/005 r
 
 1.4.1987 1987/122 rr. 3A, 84 20.8.1987 1988/069 r. 6(2)(a) 23.6.1988 1989/101 r. 30(3) 30.11.1989 1989/104 rr. 2, 42(4), 44(4), 48 30.11.1989 1991/066 r. 68 18.4.1991 1991/211 r. 29 21.11.1991 1995/035 r. 32A 1.4.1995 1996/002 r. 16 1.3.1996 Act. 1998-44 rr. 35-54, 56-60 22.9.2000 LN. 2006/149 r. 82 7.12.2006 Act. 2007-17 r. 6(4) 14.6.2007 LN. 2009/075 rr. 2, 24(1), 24A, Sch.3 26.11.2009 2011/177 r. 20(8) 29.9.2011 2012/161 rr. 85-92 15.11.2012 2013/016 rr. 2, (5), 5A-5I, 6(1)(a)-(f),  (2)-(4), 8, 9(1), (4), 10, 12-13, 13A-13F, Schs. 4-8
 
-31.1.2013 2017/088 rr. 2(1), 5B(5), 5D, 54A, Sch. 4-5 7.5.2017 Act. 2017-10 r. 17(3)(d) 13.6.2018
+31.1.2013 2017/088 rr. 2(1), 5B(5), 5D, 54A, Sch. 4-5 7.5.2017 Act. 2017-10 r. 17(3)(d) 13.6.2018 LN. 2018/254 r. 27B 9.11.2018
 
-LN. 2018/254 r. 27B 9.11.2018 2022.335 r. 3A 22.12.2022 2023/011 rr. 2, 64A, 65(1)(ii)-(vi), 66(i)-(iii), 70(1)(b), (c)(ii), (d), 74(1), 75(2)
+2022.335 r. 3A 22.12.2022 2023/011 rr. 2, 64A, 65(1)(ii)-(vi), 66(i)-(iii), 70(1)(b), (c)(ii), (d), 74(1), 75(2)
 
-26.1.2023 2025/207 r. 92(2), Sch.7 1.8.2025 2026/139 rr. 2, 29, 68 3.7.2026 2026/140 Schs.4-5 15.7.2026 2026/174 13B(1A) 15.7.2026
+26.1.2023 2025/207 r. 92(2), Sch.7 1.8.2025 2026/139 rr. 2, 29, 68 3.7.2026 2026/140 Schs.4-5 15.7.2026 2026/174 13B(1A) 15.7.2026 2026/291 r. 92(2), Sch.7 1.8.2026
 
 Transposing: Directive 89/459/EEC Directive 92/6/EEC Directive 96/53/EC Directive 2007/38/EC Directive (EU) 2015/719
 
@@ -34,11 +34,9 @@ Motor Vehicles Generally
 
 Certificates of conformity
 
-13B.  Certificate of conformity. 13C.  Alterations to be notified.
+13B.  Certificate of conformity. 13C.  Alterations to be notified. 13D. Requirement to carry certificate of conformity.
 
-13D. Requirement to carry certificate of conformity. 13E.  Checks. 13F.  Offences - certificate of conformity. 14. Springs. 15. Tracks. 16. Condition of tyres and tracks. 16A. Maintenance of steering gear. 17. Brakes. 17A. Dual systems of operation. 17B. Vacuum or pressure braking. 17C. Motor cycle brakes. 17D. Invalid carriage brakes. 17E. Trailer brakes. 17F. Other vehicles. 17G. Parking brake. 17H. Maintenance of brakes. 18. Revoked. 19. Stop lights. 20. Direction indicators. 20A. Maintenance of direction indicators. 21. Speed indicator. 22. Maintenance of speed indicator. 23. View to front. 24. Mirrors. 24A. Mirrors: vehicles in N2 and N3 categories. 25. Maintenance of glass. 26. Safety glass. 27. Windscreen wipers. 27A. Maintenance of wind-screen wiper. 27B. Wind-screen washer. 28. Revoked. 29. Warning instruments. 29A. Maintenance of fuel tanks. 30. Silencers and exhaust pipes. 31. Emission of smoke, and vapours. 31A. Maintenance of vehicles so as to prevent emissions. 32. Excessive noise from faulty adjustment, etc. 32A. Restraint of loads. 33. Wings. 34. Mascots. 35 to 54 Revoked.
-
-54A. Additional requirements for the transport of containers and swap bodies.
+13E.  Checks. 13F.  Offences - certificate of conformity. 14. Springs. 15. Tracks. 16. Condition of tyres and tracks. 16A. Maintenance of steering gear. 17. Brakes. 17A. Dual systems of operation. 17B. Vacuum or pressure braking. 17C. Motor cycle brakes. 17D. Invalid carriage brakes. 17E. Trailer brakes. 17F. Other vehicles. 17G. Parking brake. 17H. Maintenance of brakes. 18. Revoked. 19. Stop lights. 20. Direction indicators. 20A. Maintenance of direction indicators. 21. Speed indicator. 22. Maintenance of speed indicator. 23. View to front. 24. Mirrors. 24A. Mirrors: vehicles in N2 and N3 categories. 25. Maintenance of glass. 26. Safety glass. 27. Windscreen wipers. 27A. Maintenance of wind-screen wiper. 27B. Wind-screen washer. 28. Revoked. 29. Warning instruments. 29A. Maintenance of fuel tanks. 30. Silencers and exhaust pipes. 31. Emission of smoke, and vapours. 31A. Maintenance of vehicles so as to prevent emissions. 32. Excessive noise from faulty adjustment, etc. 32A. Restraint of loads. 33. Wings. 34. Mascots. 35 to 54 Revoked. 54A. Additional requirements for the transport of containers and swap bodies.
 
 Special Provisions relating to Motor Cycles.
 
@@ -62,7 +60,9 @@ Rear Lamps.
 
 Obligatory Reflectors.
 
-77. Position of obligatory reflectors. 78. Character of reflectors. 79. Group of reflectors.
+77. Position of obligatory reflectors. 78. Character of reflectors.
+
+79. Group of reflectors.
 
 Exceptions.
 
@@ -82,8 +82,8 @@ SCHEDULE 4
 
 SCHEDULE 5
 
-SCHEDULE 6
+SCHEDULE 6 Conditions relating to equivalence between certain non-air suspension systems and air suspension for vehicle driving axle(s)
 
-Conditions relating to equivalence between certain non-air suspension systems and air suspension for vehicle driving axle(s)
+SCHEDULE 7
 
-SCHEDULE 7 Certificate of conformity
+Certificate of conformity

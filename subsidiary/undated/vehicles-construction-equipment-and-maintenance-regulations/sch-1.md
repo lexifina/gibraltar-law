@@ -34,9 +34,7 @@ As set out in relation to category O2 vehicles in Annexes I, II and VII to the C
 
 Trailers which have a gross weight exceeding 3,500 kilograms but not exceeding 10,000 kilo- grams.
 
-As set out in relation to category O3 vehicles in Annexes I, II and VII to the Council Directive and, if relevant, in Annexes III,
-
-IV, V, VI and VIII to the Council Directive.
+As set out in relation to category O3 vehicles in Annexes I, II and VII to the Council Directive and, if relevant, in Annexes III, IV, V, VI and VIII to the Council Directive.
 
 10
 
