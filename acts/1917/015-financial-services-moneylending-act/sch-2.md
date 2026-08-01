@@ -18,9 +18,9 @@ The type of credit The total amount of credit This means the ceiling or the tota
 
 The conditions governing the drawdown This means how and when you will obtain the money.
 
-The duration of the credit agreement Instalments and, where appropriate, the order in which instalments will be allocated You will have to pay the following:
+The duration of the credit agreement Instalments and, where appropriate, the order in which instalments will be allocated You will have to pay the following: [The amount, number and frequency of payments to be made by the consumer]
 
-[The amount, number and frequency of payments to be made by the consumer] Interest and/or charges will be payable in the following manner: The total amount you will have to pay This means the amount of borrowed capital plus interest and possible costs related to your credit. [Sum of total amount of credit and total cost of credit] If applicable The credit is granted in the form of a deferred payment for a good or service or is linked to the supply of specific goods or the provision of a service Name of good/service Cash price
+Interest and/or charges will be payable in the following manner: The total amount you will have to pay This means the amount of borrowed capital plus interest and possible costs related to your credit. [Sum of total amount of credit and total cost of credit] If applicable The credit is granted in the form of a deferred payment for a good or service or is linked to the supply of specific goods or the provision of a service Name of good/service Cash price
 
 If applicable Sureties required This is a description of the security to be provided by you in relation to the credit agreement [Kind of sureties] If applicable Repayments do not give rise to immediate amortisation of the capital
 
@@ -30,11 +30,11 @@ The borrowing rate or, if applicable, different borrowing rates which apply to t
 
 [% — fixed or, — variable (with the index or reference rate applicable to the initial borrowing rate), — periods], Annual Percentage Rate of Charge (APR) This is the total cost expressed as an annual percentage of the total amount of credit. The APR is there to help you compare different offers. [% A representative example mentioning all the assumptions used for calculating the rate to be set out here]
 
-Is it compulsory, in order to obtain the credit or to obtain it on the terms and conditions marketed, to take out - — an insurance policy securing the credit, or — another ancillary service contract,
+Is it compulsory, in order to obtain the credit or to obtain it on the terms and conditions marketed, to take out - — an insurance policy securing the credit, or — another ancillary service contract, If the costs of these services are not known by the creditor they are not included in the APR.
 
 Yes/no [if yes, specify the kind of insurance]
 
-If the costs of these services are not known by the creditor they are not included in the APR. Yes/no [if yes, specify the kind of ancillary service]
+Yes/no [if yes, specify the kind of ancillary service]
 
 Related costs
 
@@ -68,6 +68,8 @@ If applicable
 
 If applicable Registration [The trade register in which the creditor is entered and his registration number or an equivalent means of identification in that register] If applicable The supervisory authority
 
-(b) concerning the credit agreement If applicable Exercise of the right of withdrawal [Practical instructions for exercising the right of withdrawal indicating, inter alia, the period for exercising the right, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable
+(b) concerning the credit agreement If applicable Exercise of the right of withdrawal [Practical instructions for exercising the right of withdrawal indicating, inter alia, the period for exercising the right, the address to which notification of exercise of the right of withdrawal should be sent and the consequences of non-exercise of that right] If applicable The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract
 
-The law taken by the creditor as a basis for the establishment of relations with you before the conclusion of the credit contract If applicable Clause stipulating the governing law applicable to the credit agreement and/or the competent court [Relevant clause to be set out here] If applicable Language regime Information and contractual terms will be supplied in [specific language]. With your consent, we intend to communicate in [specific language/languages] during the duration of the credit agreement. (c) concerning redress Existence of and access to out-of-court complaint and redress mechanism [Whether or not there is an out-of-court complaint and redress mechanism for the consumer who is party to the distance contract and, if so, the methods of access to it] (*) This information is optional for the creditor.
+If applicable [Relevant clause to be set out here]
+
+Clause stipulating the governing law applicable to the credit agreement and/or the competent court If applicable Language regime Information and contractual terms will be supplied in [specific language]. With your consent, we intend to communicate in [specific language/languages] during the duration of the credit agreement. (c) concerning redress Existence of and access to out-of-court complaint and redress mechanism [Whether or not there is an out-of-court complaint and redress mechanism for the consumer who is party to the distance contract and, if so, the methods of access to it] (*) This information is optional for the creditor.

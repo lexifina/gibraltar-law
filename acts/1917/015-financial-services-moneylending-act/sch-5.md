@@ -4,8 +4,8 @@ section 33(1)
 
 Moneylender’s Licence duty
 
-- £190
+- £194.50
 
 Moneylender’s Licence duty (if taken out not more than six months before the expiration thereof)
 
-- £126.50
+- £129.50

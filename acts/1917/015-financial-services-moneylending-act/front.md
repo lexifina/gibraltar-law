@@ -16,7 +16,7 @@ Act. 1934- 27 ss. 2, 3(2), (5), 4, 10-13, 15, 17-18, Sch.
 
 1995-15 ss. 4, 5(1), (3), 12, 13(1), 16-17, 19(2) 1.2.1996 2007-04 s. 1 19.4.2007 2008-06 ss. 2(1), (e), 4, 5(1)-(2), 6(2), (5), (7), 9, 19(1) 29.5.2008 LN. 2011/031 ss. 2-29, 30(1)-(2), 31(2), (5), 32, 33(2), 34(3)(c), 36(2), 38(2), 39, 41(1)(a)-(b), 43(1)-(2), 47(1), Schs. 1-4.
 
-24.3.2011 2021/105 ss. 2, 3(1)-(3), 4(2)(i), 14(5), 20, Schs. 2-3 1.1.2021 Act. 2022-13 s. 33(1), (1A), Sch. 5 1.12.2022 LN. 2023/218 Sch. 5 1.8.2023 2024/130 Sch. 5 1.8.2024 2025/174 Sch. 5 1.8.2025
+24.3.2011 2021/105 ss. 2, 3(1)-(3), 4(2)(i), 14(5), 20, Schs. 2-3 1.1.2021 Act. 2022-13 s. 33(1), (1A), Sch. 5 1.12.2022 LN. 2023/218 Sch. 5 1.8.2023 2024/130 Sch. 5 1.8.2024 2025/174 Sch. 5 1.8.2025 2026/234 Sch. 5 1.8.2026
 
 Transposing: Directive 2008/48/EC
 
@@ -46,9 +46,9 @@ Rights of the consumer
 
 Supplementary provisions
 
-19. Advertisements. 20. Omitted. 21. Calculation of the annual percentage rate of charge.
+19. Advertisements. 20. Omitted. 21. Calculation of the annual percentage rate of charge. 22. Enforcement and monitoring.
 
-22. Enforcement and monitoring. 23. Offences. 24. Act to prevail. 25. Application of existing law. 26. Continuity of the law. 27. Regulations. 28. Codes of practice. 29. Alternative dispute resolution.
+23. Offences. 24. Act to prevail. 25. Application of existing law. 26. Continuity of the law. 27. Regulations. 28. Codes of practice. 29. Alternative dispute resolution.
 
 PART II MISCELANEOUS PROVISIONS
 
