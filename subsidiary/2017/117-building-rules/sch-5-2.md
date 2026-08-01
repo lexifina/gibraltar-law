@@ -36,9 +36,9 @@ Table 2: Materials to which the provisions of section 53 of the Public Health Ac
 
 Table 3: Species of timber for use in natural state
 
-Hardwoods Softwoods (1) (2) Afrormosia Keruing, Indonesian Cedar, western red Afzelia Keruing, Malayan Sequoia Agba Keruing, Saban Dahoma Keruing, Sarawak Danta Mahogany, African Gedu nohor Makoni Guarea Meranti, dark red Gurjun, Andaman Meranti, light red Gurjun, Burma Niangon
+Hardwoods Softwoods (1) (2) Afrormosia Keruing, Indonesian Cedar, western red Afzelia Keruing, Malayan Sequoia Agba Keruing, Saban Dahoma Keruing, Sarawak Danta Mahogany, African Gedu nohor Makoni Guarea Meranti, dark red Gurjun, Andaman Meranti, light red Gurjun, Burma Niangon Gurjun, Indian Oak, European Idigbo Opepe Iroko Sapele Kapur Teak
 
-Gurjun, Indian Oak, European Idigbo Opepe Iroko Sapele Kapur Teak Kempas Utile
+Kempas Utile
 
 Schedule 5 Table 4: Species of timber for use after being subjected to a preservative treatment prescribed In Table 5 Hardwoods Softwoods (1) (2) Abura Fir, Douglas Elm Hemlock, western Larch, European Larch, japanese Redwood (European) or Scots pine Spruce, Sitka
 

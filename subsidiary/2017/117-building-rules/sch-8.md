@@ -88,7 +88,9 @@ Loadbearing Non–loadbearing
 
 100 75 (b) 12.5 mm gypsum-sand plaster
 
-100 75 (c) 12.5 mm vermiculite- gypsum plaster
+100 75
+
+(c) 12.5 mm vermiculite- gypsum plaster
 
 200 100 100 100 62 10. Cavity wall with outer leaf of bricks or blocks of clay, composition, concrete or sand-lime, not less than 100 mm thick and–
 
@@ -102,15 +104,17 @@ B. Framed and composite construction (non-loabearing) Construction and materials
 
 9 mm asbestos insulating board 1/2 16 mm gypsum plaster on metal lathing 1 5. Steel or timber frame with facings on each side of– (a) metal lathing with cement-sand or gypsum plaster of thickness of– 19 mm 1 12.5 mm 1/2 (b) metal lathing with vermiculite-gypsum or perlite-gypsum plaster of thickness of–
 
-25mm 2
+25mm 2 19 mm 11/2 12.5 mm 1 (c) 9.5 mm plasterboard with gypsum plaster of thickness of 5 mm 1/2 (d) 9.5 mm plasterboard with vermiculite-gypsum plaster of thickness of–
 
-19 mm 11/2 12.5 mm 1 (c) 9.5 mm plasterboard with gypsum plaster of thickness of 5 mm 1/2 (d) 9.5 mm plasterboard with vermiculite-gypsum plaster of thickness of– 25 mm 2 16 mm 11/2 10 mm 1 5 mm 1/2 (e) 12.5 mm plasterboard– unplastered 1/2 with gypsum plaster of thick ness of 12.5 mm 1 (f) 12.5 mm plasterboard with vermiculite-gypsum plaster of thickness of– 25 mm 2 16 mm 11/2 10 mm 1 (g) 19 mm plasterboard (or two layers of 9.5 mm fixed to break joint) without finish 1 (h) 19 mm plasterboard (or two layers of 9.5 mm) with vermiculite-gypsum plaster of thickness of–
+25 mm 2 16 mm 11/2 10 mm 1 5 mm 1/2 (e) 12.5 mm plasterboard– unplastered 1/2 with gypsum plaster of thick ness of 12.5 mm 1 (f) 12.5 mm plasterboard with vermiculite-gypsum plaster of thickness of– 25 mm 2 16 mm 11/2 10 mm 1 (g) 19 mm plasterboard (or two layers of 9.5 mm fixed to break joint) without finish 1 (h) 19 mm plasterboard (or two layers of 9.5 mm) with vermiculite-gypsum plaster of thickness of–
 
 16 mm 2 10 mm 11/2 (j) 12.5 mm fibre insulating board with gypsum plaster of thickness of 12.5 mm 1/2 (k)  asbestos insulating board not less than 9 mm thick with 9 mm fillets to face of studs 1/2 (1) asbestos insulating board not less than 12 mm thick 1/2 (m) 25 mm wood wool slabs with gypsum plaster of thickness of 12.5 mm 1 6. Compressed straw slabs in timber frames finished on both faces with gypsum plaster of thickness of 5 mm 1 7. Plasterboard 9.5 mm cellular core partition– (a) unplastered 1/2 (b) 12.5 mm gypsum plaster 1/2 (c) 22 mm vermiculite-gypsum plaster 2 8. Plasterboard 12.5 mm cellular core partition– (a) unplastered 1/2 (b) 12.5 mm gypsum plaster 1 (c) 16 mm vermiculite-gypsum plaster 2 9. Plasterboard 19 mm finished on both faces with 16 mm gypsum plaster 1 10. Plasterboard 12.5 mm bonded with neat gypsum plaster to each side of 19 mm plasterboard 11/2 11. Three layers of 19 mm plasterboard bonded with neat gypsum plaster 2 12. Wood wool slab with 12.5 mm rendering or plaster of thickness of– 75 mm 2 50 mm 1 13. Compressed straw slabs, with 75 mm by 12.5 mm wood cover strips to joints, of thickness of 50 mm 1/2
 
 Part I: Walls – continued
 
-C. External walls (non-loadbearing) more than 1 m from the relevant boundary Construction and materials Period of fire resistance (in hours) 1. Steel frame with external cladding of noncombustible sheets and internal lining of– (a) 9 mm asbestos insulating board 4 (b) 12.5 mm cement-sand or gypsum plaster on metal lathing 4 (c) sprayed asbestos of thickness of 12.5 mm 4 (d) two layers of 9.5 mm plasterboard 1/2 (e) 9.5 mm plasterboard finished with gypsum plaster of thickness of 12.5 mm 1/2 (f) 12.5 mm plasterboard finished with 5 mm gypsum plaster 1/2 (g) 50 mm compressed straw slabs 1/2 (h) 50 mm compressed straw slabs finished with 5 mm gypsum plaster 1 2.† Timber frame with external cladding of 10 mm cement-sand or cement-lime rendering and internal lining of–
+C. External walls (non-loadbearing) more than 1 m from the relevant boundary Construction and materials Period of fire resistance (in hours) 1. Steel frame with external cladding of noncombustible sheets and internal lining of– (a) 9 mm asbestos insulating board 4
+
+(b) 12.5 mm cement-sand or gypsum plaster on metal lathing 4 (c) sprayed asbestos of thickness of 12.5 mm 4 (d) two layers of 9.5 mm plasterboard 1/2 (e) 9.5 mm plasterboard finished with gypsum plaster of thickness of 12.5 mm 1/2 (f) 12.5 mm plasterboard finished with 5 mm gypsum plaster 1/2 (g) 50 mm compressed straw slabs 1/2 (h) 50 mm compressed straw slabs finished with 5 mm gypsum plaster 1 2.† Timber frame with external cladding of 10 mm cement-sand or cement-lime rendering and internal lining of–
 
 (a) 9 mm asbestos insulating board 1 (b) 16 mm gypsum plaster on metal lathing 1 (c) 9.5 mm plasterboard finished with 12.5 mm gypsum plaster 1 (d) 12.5 mm plasterboard finished with 5 mm gypsum plaster 1 (e) 50 mm compressed straw slabs 1 (f) aerated concrete block– 50 mm 3 62 mm 4 75 mm 4 10 mm 4 3. Timber frame with external cladding of 100 mm clay, concrete or sand-lime bricks or blocks, finished internally with–
 
@@ -118,13 +122,13 @@ C. External walls (non-loadbearing) more than 1 m from the relevant boundary Con
 
 (a) 9 mm asbestos insulating board 1/2 (b) 16 mm gypsum plaster on metal lathing 1/2 (c) 9.5 mm plasterboard finished with 12.5 mm gypsum plaster 1/2 (d) 12.5 mm plasterboard finished with 5 mm gypsum plaster 1/2 (e) 50 mm compressed straw slabs 1/2 (f) 75 mm wood wool slabs faced each side with asbestos-cement 2 (g) aerated concrete block– 50 mm 3 62 mm 4 75 mm 4 100mm 4
 
-Part U: Reinforced concrete columns
+Part U: Reinforced concrete columns Construction and materials Minimum dimension (in mm) of concrete column* above, excluding finish, for a fire resistance of–
+
+4 hours 2 hours 11/2 hours 1 hour 1/2 hour 1. (a) without plaster 450 300 250 200 150
 
 † The presence of a combustible vapour barrier within the thickness of these constructions shall not be regarded as affecting these periods of fire resistance.
 
-Construction and materials Minimum dimension (in mm) of concrete column* above, excluding finish, for a fire resistance of–
-
-4 hours 2 hours 11/2 hours 1 hour 1/2 hour 1. (a) without plaster 450 300 250 200 150 (b) with 12.5 mm cement-sand or gypsum-sand plaster on mesh reinforcement fixed around column 300 225 150 150 150 (c) finished with 12.5 mm encasement of vermiculite- gypsum plaster 275 200 150 120 120 (d) with 2.5 mm hard drawn steel wire fabric, of maximum pitch 150 mm in each direction, placed in concrete cover to main reinforcement 300 225 200 150 150 (e) with limestone or light-weight aggregate as coarse aggregate 300 225 200 200 150 2. Built into any separating wall†, compartment wall or external wall‡:–
+(b) with 12.5 mm cement-sand or gypsum-sand plaster on mesh reinforcement fixed around column 300 225 150 150 150 (c) finished with 12.5 mm encasement of vermiculite- gypsum plaster 275 200 150 120 120 (d) with 2.5 mm hard drawn steel wire fabric, of maximum pitch 150 mm in each direction, placed in concrete cover to main reinforcement 300 225 200 150 150 (e) with limestone or light-weight aggregate as coarse aggregate 300 225 200 200 150 2. Built into any separating wall†, compartment wall or external wall‡:–
 
 (a) without plaster 180 100 100 75 75 (b) finished with 12.5 mm of vermiculite-gypsum plaster 125 75 75 63 63
 
@@ -150,7 +154,9 @@ Part IV: Prestressed concrete beams with post-tensioned steel Cover reinforcemen
 
 (d) vermiculite-gypsum plaster 12.5 mm thick or sprayed asbestos 10 mm thick
 
-38 25 25 Light mesh reinforcement (having a minimum concrete cover of 25 mm) to retain the concrete in position around the tendons (a) none 100 63 63 (b)  plaster 12.5 mm thick on mesh reinforcement 90
+38 25 25 Light mesh reinforcement (a) none 100 63 63
+
+(having a minimum concrete cover of 25 mm) to retain the concrete in position around the tendons (b)  plaster 12.5 mm thick on mesh reinforcement 90
 
 (c)  vermiculite concrete slabs (permanent shuttering) 12.5 mm thick 75
 
@@ -166,11 +172,11 @@ Part V: Structural steel A. Encased steel stanchions (mass per metre not less th
 
 4 hours 2 hours 11/2 hours 1 hour 1/2 hours (A) Solid protection* (unplastered) 1. Concrete not leaner than 1:2:4 mix with natural aggregates–
 
-(a) concrete not assumed to be loadbearing, reinforced † 50 25 25 25 25 (b) concrete assumed to be loadbearing, reinforced in accordance with BS449: Part 2:1969¶ 75 50 50 50 50 2. Solid bricks of clay, composition or sand-lime 75 50 50 50 50 3. Solid blocks of foamed slag or pumice concrete reinforced in every horizontal joint 62 50 50 50 50 4. Sprayed asbestos of density 140-240 kg/m3 (70) (30) (25) (20) (10) 5. Sprayed vermiculite-cement 38 32 19 12.5
+(a) concrete not assumed to be loadbearing, reinforced † 50 25 25 25 25 (b) concrete assumed to be loadbearing, reinforced in accordance with BS449: Part 2:1969¶ 75 50 50 50 50 2. Solid bricks of clay, composition or sand-lime 75 50 50 50 50 3. Solid blocks of foamed slag or pumice concrete reinforced in every horizontal joint 62 50 50 50 50 4. Sprayed asbestos of density 140-240 kg/m3 (70) (30) (25) (20) (10) 5. Sprayed vermiculite-cement 38 32 19 12.5 (B) Hollow protection‡ 1. Solid bricks of clay, composition or sand-lime reinforced in every horizontal joint, unplastered 115 50 50 50 50 2. Solid blocks of foamed slag or pumice concrete reinforced § in every horizontal joint, unplastered 75 50 50 50 50 3. Metal lathing with gypsum or cement-lime plaster of thickness of
 
-(B) Hollow protection‡ 1. Solid bricks of clay, composition or sand-lime reinforced in every horizontal joint, unplastered 115 50 50 50 50 2. Solid blocks of foamed slag or pumice concrete reinforced § in every horizontal joint, unplastered 75 50 50 50 50 3. Metal lathing with gypsum or cement-lime plaster of thickness of
+38§ 25 19 12.5
 
-38§ 25 19 12.5 4.(a) Metal lathing with vermicu1ite-gypsum or perlite-gypsum plaster of thickness of 50§ 19 16 12.5 12.5 (b) Metal lathing spaced 25 mm from flanges with vemiculite-gypsum or perlite-gypsum plaster of thickness of 44 19 12.5 12.5 12.5 5. Gypsum plasterboard with 1.6 mm wire binding at 100 mm pitch–
+4.(a) Metal lathing with vermicu1ite-gypsum or perlite-gypsum plaster of thickness of 50§ 19 16 12.5 12.5 (b) Metal lathing spaced 25 mm from flanges with vemiculite-gypsum or perlite-gypsum plaster of thickness of 44 19 12.5 12.5 12.5 5. Gypsum plasterboard with 1.6 mm wire binding at 100 mm pitch–
 
 (a) 9.5 mm plasterboard with gypsum plaster of thickness of
 
@@ -186,9 +192,7 @@ Part V: Structural steel A. Encased steel stanchions (mass per metre not less th
 
 B Encased steel beams (mass per metre not less than 30 kg) (Note: In the following table, figures in brackets are applicable only in relation to universal beams of serial size 254 x 146 (10 x 53/4) as designated in BS 4: Part 1:1972) (A) Solid protection* (unplastered) 1. Concrete not leaner than 1:2:4 mix with natural aggregates–
 
-(a) concrete not assumed to be loadbearing, reinforced† 63 25 25 25 25 (b) concrete assumed to be loadbearing, reinforced in accordance with BS 449: Part 2:1969¶ 75 50 50 50 50 2. Sprayed asbestos of density l40-240 kg/m3 (70) (30) (25) (20) (10) 3. Sprayed vermiculite-cement 38 32 19 12.5
-
-(B) Hollow protection‡ 1.Metal lathing– (a) with cement–lime plaster of thickness of 38 25 19 12.5 (b) with gypsum plaster of thickness of 22 19 16 12.5 (c) with vermiculite-gypsum or perlite-gypsum plaster of thickness of 32 12.5 12.5 12.5 12.5 2. Gypsum plasterboard with 1.6 mm wire binding at 100 mm pitch–
+(a) concrete not assumed to be loadbearing, reinforced† 63 25 25 25 25 (b) concrete assumed to be loadbearing, reinforced in accordance with BS 449: Part 2:1969¶ 75 50 50 50 50 2. Sprayed asbestos of density l40-240 kg/m3 (70) (30) (25) (20) (10) 3. Sprayed vermiculite-cement 38 32 19 12.5 (B) Hollow protection‡ 1.Metal lathing– (a) with cement–lime plaster of thickness of 38 25 19 12.5 (b) with gypsum plaster of thickness of 22 19 16 12.5 (c) with vermiculite-gypsum or perlite-gypsum plaster of thickness of 32 12.5 12.5 12.5 12.5 2. Gypsum plasterboard with 1.6 mm wire binding at 100 mm pitch–
 
 (a) 9.5 mm plasterboard with gypsum plaster of thickness of
 
@@ -220,7 +224,9 @@ Notes to all sections of Part V. * SOLID PROTECTION means a casing which is bedd
 
 ¶ As read with Addendum No.1 (April 1975) to BS 449: Part 2:1969 and Supplement No.1 (PD 3343) to BS 449: Part 1:1970.
 
-Part VI: Structural aluminium Encased aluminium alloy stanchions and beams (mass per metre not less than 16kg) Construction and materials Minimum thickness (in mm) of protection for a fire resistance of–
+Part VI: Structural aluminium Encased aluminium alloy stanchions and beams (mass per metre not less than 16kg)
+
+Construction and materials Minimum thickness (in mm) of protection for a fire resistance of–
 
 4 hours 2 hours 11/2 hours 1 hour 1/2 hour (A) Solid protection* 1. Sprayed vermiculite-cement 44 19 (B) Hollow protection‡ 1. Metal lathing with vermiculite-gypsum or perlite- gypsum plaster of thickness of
 
@@ -244,9 +250,7 @@ Part VII: Timber floors Construction and materials Minimum thickness (in mm) of 
 
 12.5
 
-(iii) metal lathing and plaster-thickness of plaster– (a) gypsum 16 (b) vermiculite 12.5 (iv) one layer of plasterboard of thickness 12.5
-
-(v) one layer of plasterboard of minimum thickness of 9.5 mm finished with gypsum plaster of thickness
+(iii) metal lathing and plaster-thickness of plaster– (a) gypsum 16 (b) vermiculite 12.5 (iv) one layer of plasterboard of thickness 12.5 (v) one layer of plasterboard of minimum thickness of 9.5 mm finished with gypsum plaster of thickness
 
 12.5 (vi) one layer of plasterboard of minimum thickness of 12.5 mm finished with gypsum plaster of thickness
 
@@ -260,7 +264,9 @@ Part VII: Timber floors Construction and materials Minimum thickness (in mm) of 
 
 12.5
 
-(x) one layer of asbestos insulating board of minimum thickness 12 (xi) wood wool slab 25 mm thick finished with gypsum plaster of thickness
+(x) one layer of asbestos insulating board of minimum thickness 12
+
+(xi) wood wool slab 25 mm thick finished with gypsum plaster of thickness
 
 5
 
@@ -282,9 +288,7 @@ Part VII: Timber floors Construction and materials Minimum thickness (in mm) of 
 
 (xi) wood wool slab 25 mm thick finished with– (a) gypsum plaster of thickness 5 (b) vermiculite-gypsum plaster of thickness 10 (C) Tongued and grooved boarding of not less than 21 mm (finished) thickness† on timber joists not less than 175 mm deep by 50 mm wide with ceiling of–
 
-(i) timber lath and plaster– thickness of plaster 16 (ii) metal lathing and plaster– thickness of plaster 16 (iii) metal lathing and sprayed asbestos‡ to thickness of 19 12.5
-
-(iv) one layer of plasterboard of thickness 9.5 (v) one layer of plasterboard of minimum thickness of 9.5 mm finished with–
+(i) timber lath and plaster– thickness of plaster 16 (ii) metal lathing and plaster– thickness of plaster 16 (iii) metal lathing and sprayed asbestos‡ to thickness of 19 12.5 (iv) one layer of plasterboard of thickness 9.5 (v) one layer of plasterboard of minimum thickness of 9.5 mm finished with–
 
 (a) gypsum plaster of thickness (b) vermiculite-gypsum plaster of thickness 12.5 (vi) one layer of plasterboard of minimum thickness of 12.5 mm finished with gypsum plaster of thickness 12.5 5
 
