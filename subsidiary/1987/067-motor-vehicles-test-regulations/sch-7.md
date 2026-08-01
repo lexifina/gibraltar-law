@@ -70,6 +70,4 @@ Up to 3 500 kg M1,M2 P x x x x x x x x x Up to 3 500 kg M1,M2 D x x x x x x x x 
 
 Up to 3 500 kg N1 P x x x x x x x x x Up to 3 500 kg N1 D x x x x x x x x > 3 500 kg N2,N3 P x x x x x x x x x x x x x > 3 500 kg N2,N3 D x x x x x x x x x x x x 4.Special vehicles derived from a category N vehicle, T5
 
-Up to 3 500 kg N1 P x x x x x x x x x Up to 3 500 kg N1 D x x x x x x x x > 3 500 kg N2,N3,T5 P x x x x x x x x x x x x x > 3 500 kg N2,N3,T5 D x x x x x x x x x x x x 5. Trailers Up to 750 kg O1 x x > 750 to 3 500 kg O2 x x x x > 3 500 kg O3,O4 x x x x x x x
-
-1 = P…petrol (positive ignition); D…diesel (compression ignition)
+Up to 3 500 kg N1 P x x x x x x x x x Up to 3 500 kg N1 D x x x x x x x x > 3 500 kg N2,N3,T5 P x x x x x x x x x x x x x > 3 500 kg N2,N3,T5 D x x x x x x x x x x x x 5. Trailers Up to 750 kg O1 x x > 750 to 3 500 kg O2 x x x x > 3 500 kg O3,O4 x x x x x x x 1 = P…petrol (positive ignition); D…diesel (compression ignition)

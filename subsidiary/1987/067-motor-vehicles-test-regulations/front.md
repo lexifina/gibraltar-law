@@ -14,7 +14,7 @@ Amending enactments Relevant current Provisions Commencement date LN. 1988/026 r
 
 20.3.2014 2016/079 Sch. 5 1.5.2016 2017/098 rr. 2-3, 4(2), 7A, 13(2)-(5), 13B-13C, 28(2)-(5), 36, 37(5)-(9), 45(c)-(e), 47, Schs. 3, 7 & 8
 
-20.5.2018 2023/077 r. 44(2)-(3) 30.3.2023 2025/203 Sch. 5 1.8.2025 2026/089 rr. 37(1A), (3), 37A 7.5.2026
+20.5.2018 2023/077 r. 44(2)-(3) 30.3.2023 2025/203 Sch. 5 1.8.2025 2026/089 rr. 37(1A), (3), 37A 7.5.2026 2026/299 Sch. 5 1.8.2026
 
 EU Legislation/International Agreements involved: Directive 2009/40/EC Directive 2014/45/EU
 
@@ -56,9 +56,9 @@ Fees.
 
 Offences.
 
-44. Using a vehicle in breach of regulations.
+44. Using a vehicle in breach of regulations. 45. Other offences. 46. Saving.
 
-45. Other offences. 46. Saving. 47. Contact point and cooperation.
+47. Contact point and cooperation.
 
 SCHEDULE 1. Class of vehicles to which the regulations do not apply.
 
@@ -712,9 +712,9 @@ SCHEDULE 1.
 
 CLASSES OF VEHICLES TO WHICH THE REGULATIONS DO NOT APPLY.
 
-1. Mobile cranes. 2. Road rollers. 3. Motor vehicles or trailers (not constructed primarily to carry loads) especially designed and constructed for the special purposes of engineering operations. 4. Road construction vehicles. 5. Vehicles designed for fire fighting purposes. 6. Works trucks, that is to say motor vehicles designed for use in private premises and used on a road only for delivering goods from or to such premises, to or from a vehicle on a road in the immediate neighbourhood or in passing from one part of any such premises to another or to other private premises in the immediate neighbourhood or in connection with road works while at or in the immediate neighbourhood of the site of such works, straddle carriers used solely as works trucks, and works trailers. 7. Trailers which have no other brakes than a parking brake and brakes which automatically come into operation on the over-run of the trailer and whose maximum permitted mass does not exceed 3,500 kilogrammes. 8. Revoked. 9. Vehicles equipped with new or improved equipment or types of equipment and used solely by an importer of vehicles for or in connection with the test or trial of any such equipment. 10. Vehicles to which any of the prescribed construction and condition requirements to not apply by virtue of either of the following regulations of the Traffic (Licensing and Registration) Regulations namely– (a)  Regulation 21 (which relates to vehicles to be exported from Gibraltar) (b)  Regulation 22 (which relates to vehicles brought temporarily into Gibraltar) (c)  Regulation 25 (which relates to waiver for vehicles in transit from Spain) (d)  Regulation 26 (which relates to waiver for vehicles of visiting warships) 11.  Track laying vehicles. 12.  Steam propelled vehicles. 13.  Three wheeled motor vehicles designed for the purpose of street cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies. 14.  Vehicles designed and used for the purpose of servicing or controlling or loading or unloading aircraft, while so used– (a)  on an aerodrome; (b)  on roads outside such aerodrome if, except when proceeding directly from one part of such an aerodrome to another part thereof, the vehicles are unladen and are not drawing a laden trailer.
+1. Mobile cranes. 2. Road rollers. 3. Motor vehicles or trailers (not constructed primarily to carry loads) especially designed and constructed for the special purposes of engineering operations. 4. Road construction vehicles. 5. Vehicles designed for fire fighting purposes. 6. Works trucks, that is to say motor vehicles designed for use in private premises and used on a road only for delivering goods from or to such premises, to or from a vehicle on a road in the immediate neighbourhood or in passing from one part of any such premises to another or to other private premises in the immediate neighbourhood or in connection with road works while at or in the immediate neighbourhood of the site of such works, straddle carriers used solely as works trucks, and works trailers. 7. Trailers which have no other brakes than a parking brake and brakes which automatically come into operation on the over-run of the trailer and whose maximum permitted mass does not exceed 3,500 kilogrammes. 8. Revoked. 9. Vehicles equipped with new or improved equipment or types of equipment and used solely by an importer of vehicles for or in connection with the test or trial of any such equipment. 10. Vehicles to which any of the prescribed construction and condition requirements to not apply by virtue of either of the following regulations of the Traffic (Licensing and Registration) Regulations namely– (a)  Regulation 21 (which relates to vehicles to be exported from Gibraltar) (b)  Regulation 22 (which relates to vehicles brought temporarily into Gibraltar) (c)  Regulation 25 (which relates to waiver for vehicles in transit from Spain) (d)  Regulation 26 (which relates to waiver for vehicles of visiting warships) 11.  Track laying vehicles. 12.  Steam propelled vehicles. 13.  Three wheeled motor vehicles designed for the purpose of street cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies. 14.  Vehicles designed and used for the purpose of servicing or controlling or loading or unloading aircraft, while so used– (a)  on an aerodrome; (b)  on roads outside such aerodrome if, except when proceeding directly from one part of such an aerodrome to another part thereof, the vehicles are unladen and are not drawing a laden trailer. 15.  Vehicles designed for use and used on an aerodrome solely for the purpose of road cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies or cesspools.
 
-15.  Vehicles designed for use and used on an aerodrome solely for the purpose of road cleansing, the collection or disposal of refuse or the collection or disposal of the contents of gullies or cesspools. 16.  Vehicles provided for police purposes and maintained in workshops approved by the licensing authority as suitable for such maintenance. 17.  Pedestrian controlled vehicles. 18.  Invalid carriages (including a cycle with an attachment for propelling it by mechanical power) which do not exceed 250 kilograms. 19.  Motor vehicles brought into Gibraltar and displaying a registration mark specified in a period of twelve months not having elapsed since the vehicle in question was last brought into Gibraltar. 20.  Hackney carriages in respect of which there is in force a licence granted under the provisions of the Transport Act 1998 to ply for hire.
+16.  Vehicles provided for police purposes and maintained in workshops approved by the licensing authority as suitable for such maintenance. 17.  Pedestrian controlled vehicles. 18.  Invalid carriages (including a cycle with an attachment for propelling it by mechanical power) which do not exceed 250 kilograms. 19.  Motor vehicles brought into Gibraltar and displaying a registration mark specified in a period of twelve months not having elapsed since the vehicle in question was last brought into Gibraltar. 20.  Hackney carriages in respect of which there is in force a licence granted under the provisions of the Transport Act 1998 to ply for hire.
 
 SCHEDULE 2. Regulation 13
 
@@ -766,9 +766,9 @@ Rear lamps
 
 Yes
 
-Yes
+Yes 30 76 Reversing lights Yes No
 
-30 76 Reversing lights Yes No 31 66, 77, 78, 79
+31 66, 77, 78, 79
 
 Reflectors
 

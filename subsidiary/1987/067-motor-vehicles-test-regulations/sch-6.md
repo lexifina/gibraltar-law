@@ -14,9 +14,9 @@ APPLICATION FOR THE EXAMINATION OR RE-EXAMINATION OF A VEHICLE MANUFACTURED BEFO
 
 PLEASE READ ALL THE NOTES BEFORE COMPLETING THE FORM PLEASE USE BLOCK LETTERS
 
-1.   REGISTRATION NO     . . . . . . . . . . . . . . . . . . . . 2.   CLASS OF VEHICLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.   TYPE OF BODY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.   MEANS OF PROPULSION . . . . . . . . . . . . . . . . . . . . . . . . 5.   MAKE . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . 6.   MODEL . . . . . . . . . . . . . . . . . . . . . . . . 7.   CHASSIS NO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8.   SERIAL NO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.   DATE OF FIRST REGISTRATION . . . . . . . . . . . . . . . . . . 10. DATE OF MANUFACTURE . . . . . . . . . . . . . . . . . . . . . . . 11. NO OF AXLES . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . 12. UNLADEN WEIGHT . . . . . . . . . . . . .. . . . . .  .KG 13. GVW . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . .KG 14. TYPE OF BRAKING SYSTEM: (a)  Service Brake . . . . . . . . . . . . . . . . . . . .
+1.   REGISTRATION NO     . . . . . . . . . . . . . . . . . . . . 2.   CLASS OF VEHICLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3.   TYPE OF BODY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.   MEANS OF PROPULSION . . . . . . . . . . . . . . . . . . . . . . . . 5.   MAKE . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . 6.   MODEL . . . . . . . . . . . . . . . . . . . . . . . . 7.   CHASSIS NO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8.   SERIAL NO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.   DATE OF FIRST REGISTRATION . . . . . . . . . . . . . . . . . . 10. DATE OF MANUFACTURE . . . . . . . . . . . . . . . . . . . . . . . 11. NO OF AXLES . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . 12. UNLADEN WEIGHT . . . . . . . . . . . . .. . . . . .  .KG 13. GVW . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . .KG 14. TYPE OF BRAKING SYSTEM: (a)  Service Brake . . . . . . . . . . . . . . . . . . . . (b)  Secondary brake . . . . . . . . . . . . . . . . . .
 
-(b)  Secondary brake . . . . . . . . . . . . . . . . . . (c)  Parking brake . . . . . . . . . . . . . . . . . . . . _____________________________________________
+(c)  Parking brake . . . . . . . . . . . . . . . . . . . . _____________________________________________
 
 *I . . . . . . . . . . . . . . . . . . . . . . . hereby declare that to the best of my knowledge and belief all the statements in this application are true.
 
@@ -38,7 +38,9 @@ DATE . . . . . . . . . . . . . . . . SIGNATURE . . . . . . . . . . . . . . . ___
 
 The above vehicle was at the date of re-examination found NOT to comply with the statutory requirements.
 
-SIGNATURE . . . . . . . . . . . . . . . . Examiner ___________________________________________
+SIGNATURE . . . . . . . . . . . . . . . . Examiner
+
+___________________________________________
 
 I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . hereby apply for a further re-examination of the above vehicle.
 
@@ -64,7 +66,9 @@ DATE OF FURTHER RE-EXAMINATION . . . . TIME . . . . . . . . . . . . . . . . . . 
 
 FOR COMPLETION AT THE CENTRE
 
-For the purpose of the test the vehicle must/may* *Be presented without a load *Delete as necessary. PART II
+For the purpose of the test the vehicle must/may* *Be presented without a load *Delete as necessary.
+
+PART II
 
 PRESCRIBED REQUIREMENTS – ROADWORTHINESS CLASSIC CERTIFICATE
 
@@ -90,7 +94,9 @@ ROADWORTHINESS CLASSIC CERTIFICATE
 
 The vehicle, of which the registration number is…………………............. has been examined under the regulation 13A of the Motor Vehicles Test Regulations 1987.  It is hereby certified that at the date of the examination the statutory requirements prescribed by the regulations were complied with in relation to the vehicle.
 
-Class of Vehicle..................................................... Make....................................................................... Chassis No............................................................... Serial No.................................................................. Unladen weight ....................................................... Gross weight............................................................ Recorded mileage.................................................... Date of manufacture...............................................
+Class of Vehicle..................................................... Make....................................................................... Chassis No............................................................... Serial No..................................................................
+
+Unladen weight ....................................................... Gross weight............................................................ Recorded mileage.................................................... Date of manufacture...............................................
 
 Restrictions imposed as to permitted use of vehicle:
 
@@ -150,9 +156,7 @@ Name and Address of Appellant . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 Indicate day of the week on which it will be convenient for the vehicle to be submitted for the appeal test.
 
-PARTICULARS OF VEHICLE Registration No . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Class . . . . . . . . . . . . . . . . . . . . . . Type . . . . . . . . . . . . . . . . . . . . .
-
-Make . . . . . . . . . . . . . . . . . . . . . . Model . . . . . . . . . . . . . . . . . . . . Chassis no . . . . . . . . . . . . . . . . . . Trailer Serial No. . . . . . . . . . . . Date of manufacture ……………………. . . . . . . . . . . . . . . . . . .
+PARTICULARS OF VEHICLE Registration No . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Class . . . . . . . . . . . . . . . . . . . . . . Type . . . . . . . . . . . . . . . . . . . . . Make . . . . . . . . . . . . . . . . . . . . . . Model . . . . . . . . . . . . . . . . . . . . Chassis no . . . . . . . . . . . . . . . . . . Trailer Serial No. . . . . . . . . . . . Date of manufacture ……………………. . . . . . . . . . . . . . . . . . .
 
 I/We, being aggrieved by the refusal of a roadworthiness classic certificate, or the grounds upon which the roadworthiness classic certificate was refused, or the suspension of a licence, in respect of the vehicle, particulars of which are given above, hereby appeal to the Licensing Authority against such refusal or suspension.
 

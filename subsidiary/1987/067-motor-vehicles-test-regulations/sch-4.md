@@ -52,7 +52,9 @@ DATE . . . . . . . . . . . . . . . . * NAME OF OWNER
 
 The above vehicle was at the date of its examination . . . . . . . . . . . . . . . . . . . . found to comply with the statutory requirements relating to the construction and condition of the motor vehicle/trailer or their accessories and equipment and was issued with a roadworthiness certificate which expires on  . . . . . . . . . . . . . . . .
 
-SIGNATURE . . . . . . . . . . . . . . . . Examiner
+SIGNATURE . . . . . . . . . . . . . . . .
+
+Examiner
 
 The above vehicle was at the date of its examination . . . . . . . . . . . . . . . . . . . . found NOT to comply with the statutory requirements relating to the construction and condition of the motor vehicle/trailer or their accessories and equipment and was issued with a Notice of Refusal of a roadworthiness certificate serial No . . . . . . . . . . . . . . . .
 
@@ -70,9 +72,9 @@ DATE . . . . . . . . . . . . . . . . SIGNATURE . . . . . . . . . . . . . . . The
 
 SIGNATURE . . . . . . . . . . . . . . . . Examiner
 
-NOTES: 1.Registration number of motor vehicle or trailer plate number. 2.State whether the vehicle is a Motor Cycle, Private Motor Vehicle, Goods Vehicle, Public Service Vehicle, Self Drive Vehicle, Industrial Vehicle or Trailer 3.State whether the type of body is Articulated, Bowser, Camper, Convertible, Dumper, Estate, Flat Lorry, Fork Lift, Hatchback, Motor Cycle, Omnibus, Pick-up, Refrigerated, Refuse
+NOTES: 1.Registration number of motor vehicle or trailer plate number. 2.State whether the vehicle is a Motor Cycle, Private Motor Vehicle, Goods Vehicle, Public Service Vehicle, Self Drive Vehicle, Industrial Vehicle or Trailer 3.State whether the type of body is Articulated, Bowser, Camper, Convertible, Dumper, Estate, Flat Lorry, Fork Lift, Hatchback, Motor Cycle, Omnibus, Pick-up, Refrigerated, Refuse Collector, Saloon, Sided Lorry, Skip Lorry, Taxi, Tipper, Tractor, Van, Drawbar Trailer, Semi Trailer, etc.
 
-Collector, Saloon, Sided Lorry, Skip Lorry, Taxi, Tipper, Tractor, Van, Drawbar Trailer, Semi Trailer, etc. 4.State whether means of propulsion runs on Diesel, Electricity, Petrol, Petrol Mixture. 8.Trailer Manufacturer's Serial Number. 13. Gross vehicle weight means the weight the vehicle is designed or adapted not to exceed when travelling on the road laden. 14. State whether braking system is a split-system, Hydraulic, Air, Vacuum, Air/Hydraulic, Mechanical, Servo Motors, Power Assisted, Multi-Pull etc.
+4.State whether means of propulsion runs on Diesel, Electricity, Petrol, Petrol Mixture. 8.Trailer Manufacturer's Serial Number. 13. Gross vehicle weight means the weight the vehicle is designed or adapted not to exceed when travelling on the road laden. 14. State whether braking system is a split-system, Hydraulic, Air, Vacuum, Air/Hydraulic, Mechanical, Servo Motors, Power Assisted, Multi-Pull etc.
 
 FOR OFFICE USE ONLY
 
@@ -142,9 +144,7 @@ Warning: A roadworthiness certificate should not be accepted as evidence of the 
 
 NOTES:
 
-1.It is an offence under Section 7 of the Traffic Act to use on a road any motor vehicle or trailer which is subject to a periodical test under the Motor Vehicles Test Regulations 1978 unless a Test Certificate is in force for the vehicle. This certificate must be renewed on or before its expiry date. You cannot be issued with a vehicle licence unless a valid roadworthiness certificate in respect of it is produced.
-
-An application for a periodical test should be made at least 60 days before the certificate expires.
+1.It is an offence under Section 7 of the Traffic Act to use on a road any motor vehicle or trailer which is subject to a periodical test under the Motor Vehicles Test Regulations 1978 unless a Test Certificate is in force for the vehicle. This certificate must be renewed on or before its expiry date. You cannot be issued with a vehicle licence unless a valid roadworthiness certificate in respect of it is produced. An application for a periodical test should be made at least 60 days before the certificate expires.
 
 2.You are advised to keep this certificate readily available. It need not be carried on the vehicle but it must be produced if required by a Police Officer and on renewal of the vehicle licence.
 
@@ -178,7 +178,9 @@ DATE OF ISSUE . . . . . . . . DATE OF EXPIRY . . . . . . . . . . .
 
 Signature . . . . . . . . . . . . . Examiner
 
-(See notes overleaf) Keep this Notice save you may need it when your vehicle is re-tested.
+(See notes overleaf)
+
+Keep this Notice save you may need it when your vehicle is re-tested.
 
 NOTES:
 
@@ -270,9 +272,7 @@ The grounds on which the appeal is made are:
 
 The Notice of Refusal or a Roadworthiness Certificate Serial No. TC . . . . . . . . . . .was issued on . . . . . . . . . . . . . . . . . . . . . .
 
-I have read Note 6 overleaf and declare that the following changes have taken place in the condition of the vehicle since that date:–
-
-(If the vehicle’s condition has remained unchanged since the test please write unchanged”):
+I have read Note 6 overleaf and declare that the following changes have taken place in the condition of the vehicle since that date:– (If the vehicle’s condition has remained unchanged since the test please write unchanged”):
 
 DATE . . . . . . . . . . . . . . .  SIGNATURE. . . . . . . . . . . . . . . .
 
