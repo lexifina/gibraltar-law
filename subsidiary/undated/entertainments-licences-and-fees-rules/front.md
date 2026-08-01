@@ -6,7 +6,7 @@ Entertainments (Licences and Fees) Rules
 
 Commencement 1.1.1950
 
-Amending enactments Relevant current provisions Commencement date rules of 30.4.1953 Sch. 1 regs. of 28.5.1970 Sch. 1 LN.2021/272 Sch. 2 1.7.2021 2024/177 Sch. 2 12.9.2024
+Amending enactments Relevant current provisions Commencement date rules of 30.4.1953 Sch. 1 regs. of 28.5.1970 Sch. 1 LN.2021/272 Sch. 2 1.7.2021 2024/177 Sch. 2 12.9.2024 2026/267 Sch. 2 1.8.2026
 
 ARRANGEMENT OF RULES
 
