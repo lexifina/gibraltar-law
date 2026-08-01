@@ -6,7 +6,7 @@ LN.1995/037
 
 Commencement 14.3.1995
 
-Amending enactments Relevant current provisions Commencement date LN. 2005/058 Sch. 1.4.2005 2022/341 Sch. 22.12.2022
+Amending enactments Relevant current provisions Commencement date LN. 2005/058 Sch. 1.4.2005 2022/341 Sch. 22.12.2022 2026/284 Sch. 1.8.2026
 
 ARRANGEMENT OF RULES
 
