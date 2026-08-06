@@ -30,11 +30,11 @@ Quarters:
 
 Potable water
 
+Sewage
+
 1 Provide evidence of infection or contamination, including: vectors in all stages of growth; animal reservoirs for vectors; rodents or other species that could carry human disease, microbiological, chemical and other risks to human health; signs of inadequate sanitary measures (Information concerning any human cases should be included in the Maritime Declaration of Health).
 
 2 Results from samples taken on board. Analysis to be provided to ship’s master by most expedient means and, if re-inspection is required, to the next appropriate port of call coinciding with the re-inspection date specified in this certificate.
-
-Sewage
 
 Ballast tanks
 

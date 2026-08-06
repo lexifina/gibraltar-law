@@ -6,7 +6,7 @@ LN.2014/115
 
 Commencement (LN.2014/170) 2.10.2014
 
-Amending enactments Relevant current provisions Commencement date LN. 2022/342 Sch.7 22.12.2022 2024/173 Sch.7 5.9.2024 2025/163 Sch.7 1.8.2025
+Amending enactments Relevant current provisions Commencement date LN. 2022/342 Sch.7 22.12.2022 2024/173 Sch.7 5.9.2024 2025/163 Sch.7 1.8.2025 2026/313 Sch.7 6.8.2026
 
 ARRANGEMENT OF RULES
 
@@ -26,6 +26,6 @@ SCHEDULE 5 MODEL MARITIME DECLARATION OF HEALTH
 
 SCHEDULE 6 AIRCRAFT GENERAL DECLARATION ATTACHMENT
 
-SCHEDULE 7
+SCHEDULE 7 FEES CHARGED FOR SHIP SANITATION CERTIFICATES
 
-FEES CHARGED FOR SHIP SANITATION CERTIFICATES In exercise of the powers conferred upon it by section 337 of the Public Health Act, the Government has made the following Rules–
+In exercise of the powers conferred upon it by section 337 of the Public Health Act, the Government has made the following Rules–
