@@ -26,9 +26,9 @@ Passengers Crew Total
 
 NOTE. – One passenger to be deducted for every three square feet of passenger accommodation occupied by baggage or cargo.
 
-LIFE-SAVING APPLIANCES.
+LIFE-SAVING APPLIANCES. apparatus capable of supporting persons.
 
-apparatus capable of supporting persons. Life-bouys
+Life-bouys
 
 Life-jackets
 
@@ -46,4 +46,4 @@ Issued at the Port Office, Gibraltar, this........... day of ...................
 
 4. A similar report is to be forwarded as soon as possible after any alteration or renewal in the ship's hull equipment or machinery which affects the efficiency thereof or the seaworthiness of the ship.
 
-5.  A fee of £60.00 shall be charged for a passenger certificate issued pursuant to rule 72.
+5.  A fee of £61.50 shall be charged for a passenger certificate issued pursuant to rule 72.
