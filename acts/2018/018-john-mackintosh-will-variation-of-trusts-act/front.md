@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2018-18 Commencement 2.8.2018 Assent 1.8.2018
 
-_______________________________
+Amending enactments Relevant current provisions Commencement date Act. 2026-28 s. 3(3) 13.8.2026
 
 ARRANGEMENT OF SECTIONS
 
