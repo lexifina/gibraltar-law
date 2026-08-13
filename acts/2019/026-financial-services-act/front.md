@@ -32,7 +32,7 @@ Amending enactments Relevant current provisions Commencement date LN.2020/005 ss
 
 2026/018 ss. 2, 196(1), 212(2)(b), 227, 282(1), 363(10), 473, Schs. 1, 13
 
-1.2.2026 2026/231 s. 122A(3)(a), Schs. 2-3, 14-15 23.7.2026
+1.2.2026 2026/231 s. 122A(3)(a), Schs. 2-3, 14-15 23.7.2026 Act. 2026-28 Sch. 24 13.8.2026
 
 ARRANGEMENT OF SECTIONS
 

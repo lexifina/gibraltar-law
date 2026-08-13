@@ -20,7 +20,7 @@ Persons exempted from section 293(1)
 
 (f) a person acting in the person’s capacity as manager of any fund established under–
 
-(i) the Charities Act;
+(i) the Charities Act 2026;
 
 (ii) the Trustee Act;
 
