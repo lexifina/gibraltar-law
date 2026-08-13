@@ -24,6 +24,8 @@ SUMMARY OFFENCES IN RESPECT OF WHICH AN APPLICATION UNDER SECTION 12 MAY BE MADE
 
 11. An offence under section 63 of the Traffic Act 2005 (Driving or being in charge of a motor vehicle with alcohol concentration above prescribed limit.
 
+12. An offence under section 9 of the Charities Act 2025 (power to call for documents).
+
 12. A summary offence under the Terrorism Act 2018 which falls within the definition of “terrorist investigation” as defined in section 3 of the Terrorism Act 2018.
 
 12. An offence under section 4 of the Small Unmanned Aircraft (Offences) Act 2020 (Power of authorised person to require an unmanned aircraft to be grounded).
