@@ -2,7 +2,7 @@ APPENDIX 2
 
 AIRCRAFT SYSTEM CHECKS REQUIRED BY CAR AIR 2.040(e)(3)
 
-(a) Unless otherwise authorised by the Authority, no person may operate a Gibraltar civil aircraft unless it has had the following inspections and evidence of those inspections are carried on the aircraft:
+(a) Unless otherwise authorised by the Authority, no person may operate a Gibraltar registered aircraft unless it has had the following inspections and evidence of those inspections are carried on the aircraft:
 
 (1) For IFR operations, an altimeter and pitot-static system inspection in the past 24 calendar months;
 

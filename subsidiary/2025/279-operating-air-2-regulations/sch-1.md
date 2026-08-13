@@ -32,7 +32,9 @@ CONTINUED AIRWORTHINESS MANAGEMENT
 
 AIR 2.015 Management personnel
 
-The owner or operator of an aircraft registered in Gibraltar, to whom these regulations apply, shall nominate a person acceptable to the Authority and known as the Airworthiness Coordinator who will ensure that appropriate arrangements for continued airworthiness management required by these regulations are in place.
+The owner or operator of an aircraft registered in Gibraltar, to whom these regulations apply, shall nominate a person acceptable to the Authority and known as the Airworthiness
+
+Coordinator who will ensure that appropriate arrangements for continued airworthiness management required by these regulations are in place.
 
 AIR 2.020 General continued airworthiness arrangements
 
@@ -284,7 +286,7 @@ AIR 2.075 Transfer of maintenance records
 
 AIR 2.080 Technical log
 
-(a) The owner or operator of a large or turbo-jet aircraft as defined in CAR OPS 2, Part II or a RPA greater than 150 kg operating under CAR OPS 4 shall provide a technical log for the aircraft which has provision for recording;
+(a) The owner or operator of a large or turbo-jet aircraft as defined in CAR OPS 2A, Part II, a helicopter certificated for maximum take-off mass exceeding 3175 kg or a RPA greater than 150 kg operating under CAR OPS 4 shall provide a technical log for the aircraft which has provision for recording;
 
 (1) the name of the operator;
 
