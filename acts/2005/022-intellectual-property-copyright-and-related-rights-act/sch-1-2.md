@@ -112,7 +112,9 @@ First ownership of copyright
 
 (a) section 4(3) of the 1956 Act or paragraph (a) of the proviso to section 5(1) of the 1911 Act (photographs, portraits and engravings); or
 
-(b) the proviso to section 12(4) of the 1956 Act (sound recordings), those provisions apply to determine first ownership of copyright in any work made in pursuance of the commission after commencement.
+(b) the proviso to section 12(4) of the 1956 Act (sound recordings),
+
+those provisions apply to determine first ownership of copyright in any work made in pursuance of the commission after commencement.
 
 Duration of copyright in existing works
 
@@ -602,7 +604,9 @@ Extended copyright: existing licences, agreements etc.
 
 (a) subsists immediately before commencement in relation to an existing copyright work; and
 
-(b) is not to expire before the end of the copyright period under the provisions of the 1956 Act, shall continue to have effect during the period of any extended copyright, subject to any agreement to the contrary.
+(b) is not to expire before the end of the copyright period under the provisions of the 1956 Act,
+
+shall continue to have effect during the period of any extended copyright, subject to any agreement to the contrary.
 
 (2)  Any copyright licence, or term or condition relating to the exploitation of a copyright work, imposed by order of the Court which–
 

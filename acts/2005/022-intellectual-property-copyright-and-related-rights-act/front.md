@@ -12,7 +12,7 @@ Amending enactments Relevant current provisions Commencement date Act. 2006-21 s
 
 11.12.2020 LN. 2019/210 ss. 15(6), (8)(c), 16(3), 17(7)-(8), 20(4)(a)-(b), 23(2), 33(5), 34(4), 39B(1), (9A), 39C(9), 166(1), 167(1), 182, (2), 188, 195(1)-(2), 201(1), 217(2), 254(1), 259(4)(b), 262(3)(a)-(b), Sch. A1, 1, 5
 
-1.1.2021 2019/245 ss. 10, (1)-(3), (b), (4), 18(3), 164(1), 168(1), Sch. 1 1.1.2021
+1.1.2021 2019/245 ss. 10, (1)-(3), (b), (4), 18(3), 164(1), 168(1), Sch. 1 1.1.2021 Act. 2026-28 s. 259(4)(a) 13.8.2026
 
 Transposing: Directive 91/250/EEC Directive 92/100/EEC Directive 93/83/EEC Directive 93/98/EEC Directive 96/9/EC Directive 2001/29/EC Directive 2001/84/EC Directive 2011/77/EU Directive 2012/28/EU Directive 2014/26/EU Directive 2017/1564/EU
 
@@ -40,9 +40,7 @@ Duration of copyright
 
 15. Duration of copyright in literary, dramatic, musical or artistic works. 16. Duration of copyright in sound recordings. 17. Duration of copyright in films. 18. Duration of copyright in broadcasts. 19. Duration of copyright in typographical arrangement of published editions. 20. Meaning of country of origin.
 
-CHAPTER II
-
-RIGHTS OF COPYRIGHT OWNER
+CHAPTER II RIGHTS OF COPYRIGHT OWNER
 
 The acts restricted by copyright
 
@@ -68,9 +66,9 @@ General
 
 Visual impairment
 
-39A. Making a single accessible copy for personal use. 39B. Multiple copies for visually impaired persons. 39C. Intermediate copies and records.
+39A. Making a single accessible copy for personal use. 39B. Multiple copies for visually impaired persons. 39C. Intermediate copies and records. 39D. Licensing schemes. 39E. Limitations, etc. following infringement of copyright.
 
-39D. Licensing schemes. 39E. Limitations, etc. following infringement of copyright. 39F. Definitions and other supplementary provision for sections 39A to 39E
+39F. Definitions and other supplementary provision for sections 39A to 39E
 
 Education
 
@@ -90,9 +88,7 @@ Public administration
 
 Computer programs: lawful users
 
-61. Back up copies. 62. Decompilation.
-
-63. Observing, studying and testing of computer programs. 64. Other acts permitted to lawful users.
+61. Back up copies. 62. Decompilation. 63. Observing, studying and testing of computer programs. 64. Other acts permitted to lawful users.
 
 Databases: permitted acts
 
@@ -120,9 +116,9 @@ Miscellaneous: lending of works and playing of sound recordings
 
 Miscellaneous: broadcasts
 
-84. Incidental recording for purposes of broadcast.
+84. Incidental recording for purposes of broadcast. 85. Recording for purposes of supervision and control of broadcasts and other services. 86. Recording for the purposes of time-shifting. 87. Photographs of broadcasts. 88. Free public showing or playing of broadcast.
 
-85. Recording for purposes of supervision and control of broadcasts and other services. 86. Recording for the purposes of time-shifting. 87. Photographs of broadcasts. 88. Free public showing or playing of broadcast. 89. Reception and re-transmission of wireless broadcast by cable. 90. Royalty or other sum payable in pursuance of section 89(4). 91. Provision of sub-titled copies of broadcast. 92. Recording for archival purposes.
+89. Reception and re-transmission of wireless broadcast by cable. 90. Royalty or other sum payable in pursuance of section 89(4). 91. Provision of sub-titled copies of broadcast. 92. Recording for archival purposes.
 
 Adaptations
 
@@ -184,7 +180,9 @@ Remedies for infringement of moral rights
 
 Presumptions
 
-125. Presumptions relevant to literary, dramatic, musical and artistic works. 126. Presumptions relevant to sound recordings and films. 127. Presumptions relevant to works subject to Crown copyright.
+125. Presumptions relevant to literary, dramatic, musical and artistic works.
+
+126. Presumptions relevant to sound recordings and films. 127. Presumptions relevant to works subject to Crown copyright.
 
 Offences
 
@@ -206,9 +204,7 @@ Licensing schemes and licensing bodies
 
 References and applications with respect to licensing by licensing bodies
 
-145. Licences to which the following sections apply.
-
-146. Reference to Court of proposed licence. 147. Reference to Court of expiring licence. 148. Application for review of order as to licence. 149. Effect of order of Court as to licence.
+145. Licences to which the following sections apply. 146. Reference to Court of proposed licence. 147. Reference to Court of expiring licence. 148. Application for review of order as to licence. 149. Effect of order of Court as to licence.
 
 Factors to be taken into account in certain classes of case
 
@@ -234,9 +230,7 @@ CHAPTER VIII QUALIFICATION FOR AND EXTENT OF COPYRIGHT PROTECTION
 
 Qualification for copyright protection
 
-165. Qualification for copyright protection. 166. Qualification by reference to author. 167. Qualification by reference to country of first publication. 168. Qualification by reference to place of transmission.
-
-169. Application of this Part to foreign countries. 170. Denial of copyright protection to citizens of countries not giving adequate protection to Gibraltarian works.
+165. Qualification for copyright protection. 166. Qualification by reference to author. 167. Qualification by reference to country of first publication. 168. Qualification by reference to place of transmission. 169. Application of this Part to foreign countries. 170. Denial of copyright protection to citizens of countries not giving adequate protection to Gibraltarian works.
 
 Supplementary
 
@@ -254,9 +248,7 @@ Interpretation
 
 PART II DATABASE RIGHT
 
-189. Interpretation. 190. Database right. 191. The maker of a database. 192. First ownership of database right. 193. Acts infringing database right. 194. Term of protection. 195. Qualification for database right.
-
-196. Avoidance of certain terms affecting lawful users. 197. Exceptions to database right. 197A. Exceptions to database right: Marrakesh beneficiaries. 198. Acts permitted on assumption as to expiry of database right. 199. Presumptions relevant to database right. 200. Application of copyright provisions.
+189. Interpretation. 190. Database right. 191. The maker of a database. 192. First ownership of database right. 193. Acts infringing database right. 194. Term of protection. 195. Qualification for database right. 196. Avoidance of certain terms affecting lawful users. 197. Exceptions to database right. 197A. Exceptions to database right: Marrakesh beneficiaries. 198. Acts permitted on assumption as to expiry of database right. 199. Presumptions relevant to database right. 200. Application of copyright provisions.
 
 PART III RIGHTS IN PERFORMANCES
 
@@ -284,7 +276,9 @@ Duration of rights
 
 Performer’s property rights
 
-218. Performers’ property rights. 219. Assignments and licences. 220. Prospective ownership of a performer’s property rights. 221. Exclusive licences. 222. Performer’s property rights to pass under will with unpublished original recording. 223. Presumption of transfer of rental right in case of film production agreement. 224. Right to equitable remuneration where rental right transferred. 225. Equitable remuneration: reference of amount to Court. 225A. Assignment of performer’s property rights in a sound recording. 225B. Payment in consideration of assignment. 226. Infringement actionable by rights owner. 227. Provisions as to damages in infringement action. 228. Rights and remedies of exclusive licensee. 229. Exercise of concurrent rights. 230. Requirement for signatures and its application in relation to body corporate.
+218. Performers’ property rights. 219. Assignments and licences. 220. Prospective ownership of a performer’s property rights.
+
+221. Exclusive licences. 222. Performer’s property rights to pass under will with unpublished original recording. 223. Presumption of transfer of rental right in case of film production agreement. 224. Right to equitable remuneration where rental right transferred. 225. Equitable remuneration: reference of amount to Court. 225A. Assignment of performer’s property rights in a sound recording. 225B. Payment in consideration of assignment. 226. Infringement actionable by rights owner. 227. Provisions as to damages in infringement action. 228. Rights and remedies of exclusive licensee. 229. Exercise of concurrent rights. 230. Requirement for signatures and its application in relation to body corporate.
 
 Non-property rights
 
@@ -306,7 +300,9 @@ CHAPTER III MORAL RIGHTS
 
 Right to be identified as performer
 
-244. The right to be identified as the performer. 245. Requirement that right be asserted. 246. Exceptions to right.
+244. The right to be identified as the performer. 245. Requirement that right be asserted.
+
+246. Exceptions to right.
 
 Right to object to derogatory treatment of work
 
@@ -322,15 +318,15 @@ Remedies for infringement of rights
 
 PART IV ARTISTS RESALE RIGHT
 
-254.  Interpretation. 255. Artist’s resale right. 256. Works covered. 257.  Joint authorship. 258. Proof of authorship. 259. Assignment etc. 260. Waiver etc. 261. Persons entitled on succession. 262. Requirements as to nationality etc. 263.  Trusts. 264.  “Resale”. 265. Liability to pay resale royalty.
-
-266. Collective management. 267. Right to information. 268. Transitional provisions. 269. Sales before 1st January 2010.
+254.  Interpretation. 255. Artist’s resale right. 256. Works covered. 257.  Joint authorship. 258. Proof of authorship. 259. Assignment etc. 260. Waiver etc. 261. Persons entitled on succession. 262. Requirements as to nationality etc. 263.  Trusts. 264.  “Resale”. 265. Liability to pay resale royalty. 266. Collective management. 267. Right to information. 268. Transitional provisions. 269. Sales before 1st January 2010.
 
 PART V MISCELLANEOUS AND GENERAL
 
 Circumvention of protection measures
 
-270. Circumvention of technical devices applied to computer programs. 271. Circumvention of technological measures. 272. Devices and services designed to circumvent technological measures. 273. Rights and remedies in respect of devices and services designed to circumvent technological measures. 274. Remedy where effective technological measures prevent permitted acts. 275. Interpretation of sections 271 to 274.
+270. Circumvention of technical devices applied to computer programs. 271. Circumvention of technological measures.
+
+272. Devices and services designed to circumvent technological measures. 273. Rights and remedies in respect of devices and services designed to circumvent technological measures. 274. Remedy where effective technological measures prevent permitted acts. 275. Interpretation of sections 271 to 274.
 
 Rights management information
 
