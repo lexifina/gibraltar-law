@@ -52,9 +52,9 @@ The International Regulations for Preventing Collisions at Sea require different
 
 (b) when towing another vessel, or aircraft;
 
-(c) when being towed; 110º Red L R 110º Green 140º A White Figure 1
+(c) when being towed;
 
-(d) when not under command and not making way;
+(d) when not under command and not making way; 110º Red L R 110º Green 140º A White Figure 1
 
 (e) when making way but not under command;
 
@@ -80,15 +80,13 @@ The lights described in 3.2 (a), (b) and (c) should be visible at a distance of 
 
 3.3 When towing another vessel or aircraft
 
-F
+As illustrated in Figure 3, the following appearing as steady, unobstructed lights:
+
+(a) the lights described in 3.2; F
 
 R
 
 A
-
-As illustrated in Figure 3, the following appearing as steady, unobstructed lights:
-
-(a) the lights described in 3.2;
 
 (b) a second light having the same characteristics as the light described in 3.2 (d) and mounted in a vertical line at least 2 m above or below it; and
 

@@ -6,7 +6,7 @@ LN.2026/007
 
 Notice of Commencement - (LN.2026/029) 1.2.2026
 
-_______________________
+Amending enactments Relevant current provisions Commencement date LN.2026/318 Sch. 13.8.2026
 
 ARRANGEMENT OF REGULATIONS
 
@@ -628,7 +628,9 @@ OPS 0.245 Unlawful Interference
 
 (i) attempt to broadcast warnings on the VHF channel in use or the VHF emergency frequency, and other appropriate channels, unless considerations aboard the aircraft dictate otherwise. Other equipment such as on-board transponders and data links should also be used when it is advantageous to do so and circumstances permit; and
 
-(ii) proceed in accordance with applicable special procedures for in-flight contingencies, where such procedures have been established and promulgated in the Regional Supplementary Procedures (ICAO Doc 7030); or
+(ii) proceed in accordance with applicable special procedures for in-flight contingencies, where such procedures have been established and promulgated in the Regional Supplementary Procedures (ICAO Doc
+
+7030); or
 
 (iii) if no applicable regional procedures have been established, proceed at a level which differs from the cruising levels normally used for IFR flight by:
 
