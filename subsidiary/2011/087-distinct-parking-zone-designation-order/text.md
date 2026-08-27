@@ -6,11 +6,11 @@ LN.2011/087
 
 Commencement 9.6.2011
 
-Amending enactments Relevant current provisions Commencement date LN. 2015/187 15.10.2015 2017/106 1.7.2017 2022/318 17.11.2022 2024/015 8.2.2024 2024/204 31.10.2024
+Amending enactments Relevant current provisions Commencement date LN. 2015/187 15.10.2015 2017/106 1.7.2017 2022/318 17.11.2022 2024/015 8.2.2024 2024/204 31.10.2024 2026/329 27.8.2026
 
 In exercise of the powers conferred on me by regulation 7 of the Traffic (Parking and Waiting) Regulations 2011 and all other enabling powers the North District is designated a Distinct Parking Zone for the purposes of the Regulations.
 
-For the purposes of the preceding paragraph, the North District consists of the following areas, that is to say, Laguna Estate, Devil’s Tower Road and all adjacent and parallel streets excluding 4 Stirling Lane and 92 Devil’s Tower Road, Catalan Bay and Both Worlds as more particularly set out below–
+For the purposes of the preceding paragraph, the North District consists of the following areas, that is to say, Laguna Estate, Devil’s Tower Road and all adjacent and parallel streets, excluding the roads and areas listed in the Schedule, as more particularly set out below–
 
 Residents’ Permit Holders only :
 
@@ -22,9 +22,7 @@ Free Parking Motorcycles Only (available to everyone):
 
 Free Parking Cars Only (available to everyone):
 
- Cemetery Road  Eastern Beach Road  Flint Road  Garrod Road  Halifax Road  Corral Road
-
- Landport Ditch  Catalan Bay Beach Car Park
+ Cemetery Road  Eastern Beach Road  Flint Road  Garrod Road  Halifax Road  Corral Road  Landport Ditch  Catalan Bay Beach Car Park
 
 Pay Parking:
 
@@ -33,3 +31,9 @@ Pay Parking:
 Heavy Goods Vehicle Parking:
 
  Halifax Road
+
+SCHEDULE
+
+Roads and areas excluded from the North District
+
+4 Stirling Lane 3 Devil’s Tower Road 9 Devil’s Tower Road 24-30 Devil’s Tower Road and 5 Forbes Road 27-29 Devil’s Tower Road 33-37 Devil’s Tower Road 44-46 Devil’s Tower Road 45-55 Devil’s Tower Road 80 Devil’s Tower Road 90 Devil’s Tower Road 92 Devil’s Tower Road Catalan Bay Both Worlds
