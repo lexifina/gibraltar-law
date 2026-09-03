@@ -20,80 +20,104 @@ Distinguishing Sign for Gibraltar
 
 Colour
 
-Retro reflecting Pantone Green code 7481c
+Retro reflecting Pantone Green code 7481c Distinguishing Letters in Capitals GBZ
 
-Distinguishing Letters in Capitals
+Dimensions
 
-GBZ Dimensions Length 111mm Width 45mm
+Length Width
+
+111mm 45mm
 
 Character Size Colour
 
-Height 20mm white Width 11mm white Stroke 4mm white Space between letters 3mm green
+Height 20mm white Width 11mm white Stroke 4mm white Space between letters
 
-DIAGRAM  1
+3mm green
+
+DIAGRAM 1
 
 Dimensions
 
 Black Border
 
-Length 520mm Width 1.5mm Width 111mm
+Length Width 520mm 111mm Width 1.5mm Character Size Characters to BlackBorder
 
-Character Size Characters to BlackBorder 10mm Height 79mm Space between Characters 11mm Width 50mm
+10mm
 
-Stroke 14mm
+Height Width Stroke Side Margin
 
-Side Margin 5mm
+79mm 50mm 14mm 5mm
+
+Space between Characters
+
+11mm Top & Bottom
+
+Dimensions (GBZ) Length Width
+
+111mm 45mm Margin 4.5mm
+
+DIAGRAM 1 b MAXIMUM 3 CHARACTERS AND ONLY FRONT PLATE (WHITE)
+
+Dimensions
+
+Length                                           260mm Width                                            111mm
+
+Character                                     Size
+
+Height                                            79mm Width                                             50mm Stroke                                            14mm Side Margin                                    5mm
 
 Top & Bottom
 
-Dimensions (GBZ) Length
+Minimum Margin                        4.5mm Black Border
 
-111mm
+Width                                               1.5mm
 
-Width 45mm Margin 4.5mm
+Characters to Black Border              10mm
 
-DIAGRAM  2 (MAXIMUM 5 NUMBERS)
+Space between Characters                11mm
 
-Dimensions
+Dimensions (GBZ) Length                                               111mm Width                                                   45mm
 
-Black Border
-
-Length 325mm Width 3mm
-
-Width 200mm Characters to Black Border
-
-5mm
-
-Character Size Space between Characters 11mm Height 79mm
-
-Width 50mm
-
-Stroke 14mm
-
-Top & Bottom Minimum Margins
-
-Dimensions (GBZ)
-
-Top 90mm
-
-Bottom 13mm Length 90mm Width 45mm
-
-DIAGRAM  3 (MAXIMUM 5 NUMBERS) (REAR PLATE OF MOTORCYCLES ONLY)
+DIAGRAM 2 (MAXIMUM 5 NUMBERS)
 
 Dimensions
 
 Black Border
 
-Length 228mm Width 3mm Width 165mm
+Length 325mm Width 3mm Width 200mm Characters To Black Border
+
+5mm Character Size Space between Characters 11mm Height Width Stroke 79mm 50mm 14mm
+
+Top & Bottom Minimum Margins Top Bottom
+
+90mm 13mm Dimensions (GBZ)
+
+Length Width
+
+90mm 45mm
+
+DIAGRAM 3 (MAXIMUM 5 NUMBERS) (REAR PLATE OF MOTORCYCLES ONLY)
+
+Dimensions
+
+Black Border
+
+Length Width 228mm 165mm Width 3mm
 
 Characters to Black Border
 
-10mm Character Size Height 45mm Space between Width 30mm Characters 10mm Stroke 9mm Top & Bottom Minimum Margins
+10mm Character Height Width Stroke Size 45mm 30mm 9mm
 
-Dimensions (GBZ)
+Space between Characters
 
-Top 75mm Bottom 13mm Length 75mm Width 45mm
+10mm Top & Bottom Minimum Margins
 
-PART 2
+Top Bottom
 
-MANADATORY CHARACTER FONTS
+75mm 13mm Dimensions (GBZ)
+
+Length Width
+
+75mm 45mm
+
+PART 2 MANADATORY CHARACTER FONTS

@@ -28,9 +28,9 @@ Distinguishing Letters in Capitals
 
 GBZ
 
-Dimensions
+Dimensions Length 111mm
 
-Length 111mm Width 45mm
+Width 45mm
 
 Character Size Colour Height 20mm white Width 11mm white Stroke 4mm white Space between letters 3mm blue
 

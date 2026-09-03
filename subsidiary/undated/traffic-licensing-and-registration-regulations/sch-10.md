@@ -122,9 +122,7 @@ MINIMUM STANDARDS FOR PERSONS WHO CONDUCT PRACTICAL DRIVING TESTS
 
 4.1.3. EEA states must provide that each examiner is subject to yearly supervision making use of quality assurance arrangements listed in point
 
-4.1.2. Moreover, the EEA states must provide that each examiner is observed conducting tests once every 5 years, for a minimum period cumulatively of at least half a day, allowing the observation of several tests. When issues are identified corrective action should be put in place.
-
-The person undertaking the supervision must be a person authorised by the EEA state for that purpose.
+4.1.2. Moreover, the EEA states must provide that each examiner is observed conducting tests once every 5 years, for a minimum period cumulatively of at least half a day, allowing the observation of several tests. When issues are identified corrective action should be put in place. The person undertaking the supervision must be a person authorised by the EEA state for that purpose.
 
 4.1.4 EEA states may provide that where an examiner is authorised to conduct driving tests in more than one category, satisfying the supervision requirement in relation to tests for one category satisfies the requirement for more than one category.
 

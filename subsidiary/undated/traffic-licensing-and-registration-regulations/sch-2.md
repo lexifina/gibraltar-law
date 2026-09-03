@@ -14,15 +14,13 @@ SECTION III.–MOTOR TRACTORS AND GOODS VEHICLES OTHER THAN VEHICLES SPECIFIED I
 
 Weight of vehicle (other than a trailer) unladen
 
-Fee
+Fee 1 2 3 4 5
 
-1
+Exceeding
 
-Exceeding 2
+Not Exceeding
 
-Not Exceeding 3
-
-Initial 4 Additional for every 254 kgs. or part of 254 kgs. in excess of weight in Column 1. 5 Further addition  if used for drawing a trailer – 610 kgs £20.50 – £20.50 610 kgs 812 kgs £25.50 – £20.50 812 kgs 1 tonne £30.50 – £20.50 1 tonne 2 tonnes £30.50 £5 £20.50 2 tonnes – £46 £5 £36
+Initial Additional for every 254 kgs. or part of 254 kgs. in excess of weight in Column 1. Further addition  if used for drawing a trailer – 610 kgs £20.50 – £20.50 610 kgs 812 kgs £25.50 – £20.50 812 kgs 1 tonne £30.50 – £20.50 1 tonne 2 tonnes £30.50 £5 £20.50 2 tonnes – £46 £5 £36
 
 Trailers £34
 
@@ -66,9 +64,9 @@ Fee No. £ 1. For the issue or renewal of a driving licence:
 
 Provided that where a licence or a renewal is issued for a period of less than 10 years the fee shall be £3 for each year or part of the year for which it is expressed to be valid. 51.00 1A. For the renewal of a driving licence to any person aged 70 or over. Nil 2. For the issue of a duplicate driving licence:
 
-Provided that where at the date of the application the licence had less than 10 years to run, the fee payable shall be £3 for each year or part of the year for which it is expressed to be valid. 51.00 3. For the issue of an advanced driving licence. 30.50 4. For the issue of a duplicate advanced driving licence. 20.50 5. For inspecting the register, for each hour or part thereof. 20.50
+Provided that where at the date of the application the licence had less than 10 years to run, the fee payable shall be £3 for each year or part of the year for which it is expressed to be valid. 51.00 3. For the issue of an advanced driving licence. 30.50 4. For the issue of a duplicate advanced driving licence. 20.50 5. For inspecting the register, for each hour or part thereof. 20.50 6. For a copy or extract from the register, for each folio of 72 words or part thereof. 20.50 7. For the addition of a further category. 30.50 8. For a change in particulars. 30.50
 
-6. For a copy or extract from the register, for each folio of 72 words or part thereof. 20.50 7. For the addition of a further category. 30.50 8. For a change in particulars. 30.50 9. For the exchange of an EEA licence. 51.00
+9. For the exchange of an EEA licence. 51.00
 
 PART VII–DRIVING TESTS
 

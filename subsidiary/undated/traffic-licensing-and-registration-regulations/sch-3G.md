@@ -20,80 +20,108 @@ Distinguishing Sign for Gibraltar
 
 Colour
 
-Retro reflecting Pantone Blue code 2935C
-
-Distinguishing Letters in Capitals
-
-GBZ
-
-Dimensions Length 111mm Width 45mm
-
-Character Size Colour Height 20mm white Width 11mm white Stroke 4mm white Space between letters 3mm blue
-
-DIAGRAM  1
+Retro reflecting Pantone Blue code 2935C Distinguishing Letters in Capitals GBZ
 
 Dimensions
 
-Black Border
+Length Width
 
-Length 520mm Width 1.5mm Width 111mm
+111mm 45mm Character Size Colour
 
-Character Size Characters to BlackBorder 10mm Height 79mm Space between Characters 11mm Width 50mm
+Height 20mm white Width 11mm white Stroke 4mm white Space between letters
 
-Stroke 14mm
+3mm Blue
 
-Side Margin 5mm
+DIAGRAM 1
+
+Dimensions
+
+Length                                           520mm Width                                            111mm
+
+Character                                     Size
+
+Height                                            79mm Width                                             50mm Stroke                                            14mm Side Margin                                    5mm
 
 Top & Bottom
 
-Dimensions (GBZ) Length
+Minimum Margin                        4.5mm Black Border
 
-111mm
+Width                                               1.5mm
 
-Width 45mm Margin 4.5mm
+Characters to Black Border              10mm
 
-DIAGRAM  2 (MAXIMUM 5 NUMBERS)
+Space between Characters                11mm
+
+Dimensions (GBZ) Length                                               111mm Width                                                   45mm
+
+DIAGRAM 1 b MAXIMUM 3 NUMBERS AND ONLY FRONT PLATE (WHITE)
 
 Dimensions
 
-Black Border
+Length                                             260mm Width                                              111mm
 
-Length 325mm Width 3mm
+Character                                      Size
 
-Width 200mm Characters to Black Border
+Height                                           79mm Width                                            50mm Stroke                                            14mm Side Margin                                     5mm
 
-5mm
+Top and Bottom
 
-Character Size Space between Characters 11mm Height 79mm
+Minimum Margin                             4.5mm Black Border
 
-Width 50mm
+Width                                                        1.5mm
 
-Stroke 14mm
+Characters to Black Border                 10mm
 
-Top & Bottom Minimum Margins
+Space between Characters                   11mm
+
+Dimensions (GBZ) Length                                               111mm Width                                                  45mm
+
+DIAGRAM 2 (MAXIMUM 5 NUMBERS)
+
+Dimensions
+
+Length                                           325mm Width                                            200mm
+
+Character                                     Size
+
+Height                                            79mm Width                                             50mm Stroke                                            14mm Side Margin                                    5mm
+
+Top & Bottom Minimum Margin Top                                                 90mm Bottom                                            13mm Black Border
+
+Width                                                3mm
+
+Characters to Black Border               5mm
+
+Space between Characters                11mm
 
 Dimensions (GBZ)
 
-Top 90mm
+Length                                                 90mm Width                                                   45mm
 
-Bottom 13mm Length 90mm Width 45mm
-
-DIAGRAM  3 (MAXIMUM 5 NUMBERS) (REAR PLATE OF MOTORCYCLES ONLY)
+DIAGRAM 3 (MAXIMUM 5 NUMBERS) (REAR PLATE OF MOTORCYCLES ONLY)
 
 Dimensions
 
 Black Border
 
-Length 228mm Width 3mm Width 165mm
+Length Width 228mm 165mm Width 3mm
 
 Characters to Black Border
 
-10mm Character Size Height 45mm Space between Width 30mm Characters 10mm Stroke 9mm Top & Bottom Minimum Margins
+10mm Character Height Width Stroke Size 45mm 30mm 9mm
+
+Space between Characters
+
+10mm Top & Bottom Minimum Margins
+
+Top Bottom
+
+75mm 13mm
 
 Dimensions (GBZ)
 
-Top 75mm Bottom 13mm Length 75mm Width 45mm
+Length Width
 
-PART 2
+75mm 45mm
 
-MANADATORY CHARACTER FONTS
+PART 2 MANADATORY CHARACTER FONTS

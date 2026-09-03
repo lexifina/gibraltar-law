@@ -6,7 +6,7 @@ PART 1
 
 ILLUSTRATED REQUIREMENTS AS TO REGISTRATION MARKS
 
-Where the licensing authority issues a registration mark under regulation 16AE(3), the registration mark shall consist of letters and numbers enclosed by a black border. On the left- hand side there shall be distinguishing mark for Gibraltar and on the extreme right the reference “BS AU 145d”. The registration mark shall consist of any combination of numbers and letters with a minimum of 1 character, or a maximum of 5 characters in total.
+Where the licensing authority issues a registration mark under regulation 16AE(3), the registration mark shall consist of letters and numbers enclosed by a black border. On the left- hand side there shall be distinguishing mark for Gibraltar and on the extreme right the reference “BS AU 145d”. The registration mark shall consist of any combination of numbers and letters with a minimum of 1 character, or a maximum of 7 characters in total.
 
 The licensing authority must not allocate a combination –
 
@@ -26,75 +26,109 @@ Retro reflecting Pantone Green code 7481c
 
 Distinguishing Letters in Capitals
 
-GBZ Dimensions Length 111mm
-
-Width 45mm
-
-Character Size Colour Height 20mm white Width 11mm white Stroke 4mm white Space between letters 3mm green
-
-DIAGRAM  1
+GBZ
 
 Dimensions
 
-Black Border
+Length 111mm Width 45mm
 
-Length 520mm Width 1.5mm Width 111mm
+Character
 
-Character Size Characters to BlackBorder 10mm Height 79mm Space between Characters 11mm Width 50mm
+Size Colour Height Width Stroke Space between letters
 
-Stroke 14mm
+20mm 11mm 4mm 3mm white white white green
 
-Side Margin 5mm
-
-Dimensions (GBZ) Length
-
-111mm Top & Bottom
-
-Width 45mm
-
-Margin 4.5mm
-
-DIAGRAM  2 (MAXIMUM 5 CHARACTERS)
+DIAGRAM 1
 
 Dimensions
 
-Black Border
+Length                                           520mm Width                                            111mm
 
-Length 325mm Width 3mm
+Character                                     Size
 
-Width 200mm Characters to Black Border
+Height                                            79mm Width                                             50mm Stroke                                            14mm Side Margin                                    5mm
 
-5mm
+Top & Bottom
 
-Character Size Space between Characters 11mm Height 79mm
+Minimum Margin                        4.5mm Black Border
 
-Width 50mm
+Width                                               1.5mm
 
-Stroke 14mm
+Characters to Black Border              10mm
 
-Top & Bottom Minimum Margins
+Space between Characters                11mm
 
 Dimensions (GBZ)
 
-Top 90mm
+Length                                               111mm Width                                                   45mm
 
-Bottom 13mm Length 90mm Width 45mm
+DIAGRAM 1 b MAXIMUM 3 CHARACTERS AND ONLY FRONT PLATE (WHITE)
 
-DIAGRAM  3 (MAXIMUM 5 CHARACTERS) (REAR PLATE OF MOTORCYCLES ONLY)
+Dimensions
+
+Length                                           260mm Width                                            111mm
+
+Character                                     Size
+
+Height                                            79mm Width                                             50mm Stroke                                            14mm Side Margin                                    5mm
+
+Top & Bottom
+
+Minimum Margin                            4.5mm Black Border
+
+Width                                               1.5mm
+
+Characters to Black Border              10mm
+
+Space between Characters                11mm
+
+Dimensions (GBZ)
+
+Length                                               111mm Width                                                   45mm
+
+DIAGRAM 2 (MAXIMUM 5 CHARACTERS)
 
 Dimensions
 
 Black Border
 
-Length 228mm Width 3mm Width 165mm
+Length 325mm Width 3mm Width 200mm
 
 Characters to Black Border
 
-10mm Character Size Height 45mm Space between Width 30mm Characters 10mm Stroke 9mm Top & Bottom Minimum Margins
+5mm Character Size Space between Characters 11mm Height Width Stroke 79mm 50mm 14mm
 
-Dimensions (GBZ)
+Top & Bottom Minimum Margins Top Bottom
 
-Top 75mm Bottom 13mm Length 75mm Width 45mm
+90mm 13mm Dimensions (GBZ)
+
+Length Width
+
+90mm 45mm
+
+DIAGRAM 3 (MAXIMUM 5 CHARACTERS) (REAR PLATE OF MOTORCYCLES ONLY)
+
+Dimensions
+
+Black Border
+
+Length Width 228mm 165mm Width 3mm
+
+Characters to Black Border
+
+10mm Character Height Width Stroke Size 45mm 30mm 9mm
+
+Space between Characters
+
+10mm Top & Bottom Minimum Margins
+
+Top Bottom
+
+75mm 13mm Dimensions (GBZ)
+
+Length Width
+
+75mm 45mm
 
 PART 2
 

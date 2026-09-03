@@ -10,9 +10,9 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/046 r
 
 1.12.1990 1991/103 r. 84, Schs.1-3 1.12.1990 1991/210 r. 21 21.11.1991 1992/079 r. 5 18.6.1992 1993/062 rr. 16(3), 21(1)(c) 1.4.1993 1993/167 r. 21(3)-(4), (7) 2.12.1993 1994/053 r. 3, Sch.2 9.6.1994 1994/056 Sch.2 9.6.1994 1996/035 Sch.1 1.4.1996 1996/120 rr. 65(2), 67(2), 68(1)(b), 69-70, 70A, 71(1), 72(1), 74(2), 79A, 80(1), (4), 81, Sch.1, Sch.4A
 
-16.1.1997 1997/037 rr. 20(2)(b),  21(2)(b), Sch.3 1.5.1997 1997/078 Sch.2 24.7.1997 1999/037 Sch.2 1.6.1999 2000/069 rr. 21(1)(b), 21A(1)(d)-(e) 7.9.2000 2000/059 rr. 36-42, 44, 56-58, 63, Sch.1-2 22.9.2000 2000/084 rr. 21(1)(b)(ii), 21A(1)(e) 2.11.2000 2001/046 rr. 3(2)-(3), 4, Sch.1 17.5.2001
+16.1.1997 1997/037 rr. 20(2)(b),  21(2)(b), Sch.3 1.5.1997 1997/078 Sch.2 24.7.1997 1999/037 Sch.2 1.6.1999 2000/069 rr. 21(1)(b), 21A(1)(d)-(e) 7.9.2000 2000/059 rr. 36-42, 44, 56-58, 63, Sch.1-2 22.9.2000 2000/084 rr. 21(1)(b)(ii), 21A(1)(e) 2.11.2000 2001/046 rr. 3(2)-(3), 4, Sch.1 17.5.2001 2001/047 r. 15 17.5.2001
 
-2001/047 r. 15 17.5.2001 2001/110 r. 4A, 16(1)-(2), (4), 16A-16D, 17, 17A, 20(3)-(4), 21(3), (3A), 21(5)(b)-(c), 21A(2)(b), 21A(2)(bb), Sch.3A
+2001/110 r. 4A, 16(1)-(2), (4), 16A-16D, 17, 17A, 20(3)-(4), 21(3), (3A), 21(5)(b)-(c), 21A(2)(b), 21A(2)(bb), Sch.3A
 
 6.9.2001 2002/015 Sch. 2 7.2.2002 2003/054 r. 22B 8.5.2003 2004/106 rr. 11, 11A 18.11.2004 2005/050 r. 51, Sch. 2 1.4.2005 2005/064 rr. 47-49, 53-55, 70A, 71(2)(b), 73(2)-(3), 75(1), 76, 78, 88–93, 95(1), Sch.1-Sch.2
 
@@ -20,7 +20,9 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/046 r
 
 24.12.2020
 
-“ rr. 2, 16A, 16AZ, 16AA(1)-(2), (2A), (3)(a), 16AB, 16B, 16C(1), (4), 20(3)-(5), 21(3A)-(3B), (5)(a)-(d), 21A(2)(b), (bb)-(bc), 79A, 80(1)-(2), 80A(1)-(3), 103(1)-(2), Schs.1, 3A- 3B, 4, 4A- 4C, 7-10
+“ rr. 2, 16A, 16AZ, 16AA(1)-(2), (2A), (3)(a), 16AB, 16B, 16C(1), (4), 20(3)-(5), 21(3A)-(3B), (5)(a)-(d),
+
+21A(2)(b), (bb)-(bc), 79A, 80(1)-(2), 80A(1)-(3), 103(1)-(2), Schs.1, 3A- 3B, 4, 4A- 4C, 7-10
 
 1.1.2021 2021/410 rr. 6(2), 7(2), 8(2), 9, 14(1), 33(a)-(b), Sch. 2 30.9.2021 2022/119 Sch.2 12.5.2022 2023/158 Sch.2 16.6.2023 2024/212 rr. 16A, 16AZ, 16AC, 16C(1), (4), 97-102, 96A-96I, Schs.3C,
 
@@ -32,7 +34,7 @@ Amending enactments Relevant current provisions Commencement date LN. 1986/046 r
 
 11.12.2025 2026/060 rr. 16AD(7), 16AE(6) 27.3.2026 2026/090 r. 16E, Schs.3C, 3E-3F, 3G 7.5.2026 2026/286 rr. 16C(2)(c), (3), 33(a)-(b), 84A(4), 96(2), 96D(4), (4B), 96F(2), 96G(2), 96H(2), Sch.2
 
-1.8.2026
+1.8.2026 2026/331 rr. 16C(1), (4), 16AF, Schs.3F-3I 3.9.2026
 
 Transposing:
 
@@ -50,7 +52,7 @@ PART I. VEHICLE LICENCES AND REGISTRATION.
 
 Motor Vehicles (Civilian).
 
-3. Applications for licences. 4. Duration of validity of motor vehicle licence. 4A. Licences renewed after expiry. 5. Registration. 6. Certificate of registration. 7. Transfer of vehicle. 8. Change of character or use. 9. Notification of alteration to vehicle. 10. Notification of destruction or permanent export. 11. Cancellation of registration. 11A. Vehicles to which the End-of life Rules 2004 apply. 12. Exhibition of licence on vehicle. 13. Alteration of licence, etc. 14. Application for duplicate licence or certificate of registration. 15. Surrender of licence. 16. Exhibition of registration marks. 16A. Exhibition of Registration Marks for motor vehicles registered after 6 September 2001, until IP completion day. 16AZ. Exhibition of registration marks for motor vehicles registered after IP completion day 16AA. Exhibition of registration marks - classic motor vehicles. 16AB. Registration marks in International traffic. 16AC. Personalised registration numbers. 16AD. Green distinguishing sign for Gibraltar. 16AE. G-less personalised registration numbers. 16B. Voluntary change of style of licence plate. 16C. Register of vehicle licence-plate suppliers. 16D. No further marks. 16E. Change of licence plate for vehicles situated outside Gibraltar.
+3. Applications for licences. 4. Duration of validity of motor vehicle licence. 4A. Licences renewed after expiry. 5. Registration. 6. Certificate of registration. 7. Transfer of vehicle. 8. Change of character or use. 9. Notification of alteration to vehicle. 10. Notification of destruction or permanent export. 11. Cancellation of registration. 11A. Vehicles to which the End-of life Rules 2004 apply. 12. Exhibition of licence on vehicle. 13. Alteration of licence, etc. 14. Application for duplicate licence or certificate of registration. 15. Surrender of licence. 16. Exhibition of registration marks. 16A. Exhibition of Registration Marks for motor vehicles registered after 6 September 2001, until IP completion day. 16AZ. Exhibition of registration marks for motor vehicles registered after IP completion day 16AA. Exhibition of registration marks - classic motor vehicles. 16AB. Registration marks in International traffic. 16AC. Personalised registration numbers. 16AD. Green distinguishing sign for Gibraltar. 16AE. G-less personalised registration numbers. 16AF. Shorter plate format for G-less registration marks. 16B. Voluntary change of style of licence plate. 16C. Register of vehicle licence-plate suppliers. 16D. No further marks. 16E. Change of licence plate for vehicles situated outside Gibraltar.
 
 17. Distinguishing sign for vehicles taken abroad. 17A. Deleted. 17B. In order to be entitled to the benefits of the Convention of 1968, a motor vehicle…. 18. Exhibition of registration marks on trailers. 19. Illumination of registration marks. 20. Vehicles belonging to bona fide visitors. 21. Vehicles to be exported from Gibraltar. 21A. Issue of licence and registration of vehicle to be exported from Gibraltar. 22. Vehicles brought temporarily into Gibraltar. 22A. Vehicles brought temporarily into Gibraltar from Spain. 22B. Road vehicles (lorries, tractors trailers or semi-trailers) routed in combined…. 23. General penalty. 24. Delegation. 25. Waiver for vehicles in transit from Spain. 26. Waiver for vehicles of visiting warships. 26A. Waiver for special events or purposes.
 
@@ -84,9 +86,7 @@ ISSUE OF DRIVING LICENCES
 
 LEARNERS AND VISITORS
 
-84. Learners’ licences. 84A. Requirement for CBT Certificate. 84B. Exemption from CBT Certificate. 85. Conditions and restrictions on driving by learners. 86. Visitors’ driving permits.
-
-87. Drivers of vehicles of visiting warships. 87A. Trailers not imported by road.
+84. Learners’ licences. 84A. Requirement for CBT Certificate. 84B. Exemption from CBT Certificate. 85. Conditions and restrictions on driving by learners. 86. Visitors’ driving permits. 87. Drivers of vehicles of visiting warships. 87A. Trailers not imported by road.
 
 PART VI. LICENCES TO DRIVE AND CONDUCT PUBLIC SERVICE VEHICLES.
 
@@ -140,7 +140,9 @@ SCHEDULE 3H GREEN DISTINGUISHING SIGNS FOR G-LESS PERSONALISED REGISTRATION NUMB
 
 SCHEDULE 3I GREEN DISTINGUISHING SIGNS FOR G-LESS PRIVATE NUMBER PLATES
 
-SCHEDULE 4. Distinguishing Sign of Vehicles in International Traffic.
+SCHEDULE 4.
+
+Distinguishing Sign of Vehicles in International Traffic.
 
 SCHEDULE 4A MINIMUM STANDARDS OF PHYSICAL AND MENTAL FITNESS FOR DRIVING A POWER-DRIVEN VEHICLE
 

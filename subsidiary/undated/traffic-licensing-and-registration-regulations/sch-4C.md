@@ -474,9 +474,7 @@ With the specific written agreement of the holder, information which is not rela
 
 (b)  an explanation of the numbered items which appear on pages 1 and 2 of the licence (at least items 1, 2, 3, 4 (a), 4 (b), 4 (c), 5, 10, 11 and 12).
 
-If an EEA state wishes to make the entries in a national language other than one of the following languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish,
-
-French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovak, Slovenian, Spanish or Swedish, it shall draw up a bilingual version of the licence using one of the aforementioned languages, without prejudice to the other provisions of this Schedule;
+If an EEA state wishes to make the entries in a national language other than one of the following languages: Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Slovak, Slovenian, Spanish or Swedish, it shall draw up a bilingual version of the licence using one of the aforementioned languages, without prejudice to the other provisions of this Schedule;
 
 (c)  a space shall be reserved on the European Union model driving licence to allow for the possible introduction of a microchip or similar computer device.
 
@@ -778,7 +776,9 @@ a left
 
 b right
 
-c hand d foot
+c hand
+
+d foot
 
 e middle
 

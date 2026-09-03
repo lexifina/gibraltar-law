@@ -352,7 +352,9 @@ Receipt Numbers:
 
 Date Paid:
 
-Officers Initials: FORM 19.
+Officers Initials:
+
+FORM 19.
 
 Regulation 78
 
