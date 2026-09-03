@@ -94,7 +94,9 @@ An additional monitoring fee of £51,500 where an internal capital model has bee
 
 Matching Adjustment Fee
 
-An additional monitoring fee of £51,500 where a matching adjustment has been approved in respect of the regulated person. Credit institutions £ 37,647 Base Fee + Customer Fee + Fund Depositary Fee + Passporting Fee + E-Money Fee + Mortgage Credit Fee + Group Supervision Fee
+An additional monitoring fee of £51,500 where a matching adjustment has been approved in respect of the regulated person.
+
+Credit institutions £ 37,647 Base Fee + Customer Fee + Fund Depositary Fee + Passporting Fee + E-Money Fee + Mortgage Credit Fee + Group Supervision Fee
 
 Base Fee
 
@@ -228,8 +230,6 @@ E-Money Fee An additional fee, based on AEO over the previous 6 months–
 
 £1,000,001 ≤ AEO ≤ £2,000,000 – a flat fee of £13,130
 
-Fee Block A2.
-
 £2,000,001 ≤ AEO ≤ £5,000,000 – a flat fee of £23,635
 
 £5,000,001 ≤ AEO ≤ £10,000,000 – a flat fee of £32,828
@@ -237,6 +237,16 @@ Fee Block A2.
 £10,000,001 ≤ AEO ≤ £20,000,000 – a flat fee of £39,392
 
 AEO ≥ £20,000,000 – a flat fee of £45,959.
+
+Fee Block A2.
+
+Regulated person Base Fee Method of Calculating Annual Fees Market operator (non-trading) £ 85,876 Base Fee only
+
+Base Fee A flat fee of £85,876.
+
+Market operator (trading) £ 85,876 Base Fee + Additional Fee for trading activity
+
+Base Fee
 
 Note: AEO is calculated on the basis of supervisory returns submitted to the GFSC.
 
@@ -258,13 +268,7 @@ and
 
 Investment Services Fee A flat fee of £10,505 in respect of investment services activity.
 
-Regulated person Base Fee Method of Calculating Annual Fees Market operator (non-trading) £ 85,876 Base Fee only
-
-Base Fee A flat fee of £85,876.
-
-Market operator (trading) £ 85,876 Base Fee + Additional Fee for trading activity
-
-Base Fee A flat fee of £85,876.
+A flat fee of £85,876.
 
 Additional Fee A flat fee of £19,171. Clearing house £ 85,876 Base Fee + Additional Fee for clearing house activity
 
@@ -286,7 +290,9 @@ Base Fee A flat fee of £1,968.
 
 Additional Fee 1 A flat rate of £920.
 
-Additional Fee 2 An additional fee (not applicable to the first sub-fund), charged at a rate of £655 per additional sub-fund. UCITS scheme £ 1,968 Base Fee + Additional Fee + Passporting Fee + Sub- fund Fee
+Additional Fee 2 An additional fee (not applicable to the first sub-fund), charged at a rate of £655 per additional sub-fund.
+
+UCITS scheme £ 1,968 Base Fee + Additional Fee + Passporting Fee + Sub- fund Fee
 
 Base Fee A flat fee of £1,968.
 
@@ -304,7 +310,9 @@ Sub-fund Fee Where a scheme is an umbrella fund, the annual fee payable for each
 
 Fee Block A4.
 
-Regulated person Base Fee Method of Calculating Annual Fees Incoming UK credit institution branches £ 15,450 Base Fee + Customer Fee + Fund Depositary Fee + E-Money Fee + Mortgage Credit Fee
+Regulated person Base Fee Method of Calculating Annual Fees
+
+Incoming UK credit institution branches £ 15,450 Base Fee + Customer Fee + Fund Depositary Fee + E-Money Fee + Mortgage Credit Fee
 
 Base Fee
 
@@ -352,9 +360,7 @@ AEO ≥ £20,000,001 – a flat fee of £45,960.
 
 Note: AEO is calculated on the basis of the supervisory returns submitted to the GFSC.
 
-Mortgage Credit Fee
-
-An additional fee of–
+Mortgage Credit Fee An additional fee of–
 
 (a) a fee based on the mortgage book–
 
@@ -378,9 +384,7 @@ Base Fee A flat fee of £13,130.
 
 Fee Block B1.
 
-Regulated person Base Fee Method of Calculating Annual Fees
-
-Collective Investment Scheme administrators £ 9,192 Base Fee + Additional Fee
+Regulated person Base Fee Method of Calculating Annual Fees Collective Investment Scheme administrators £ 9,192 Base Fee + Additional Fee
 
 Base Fee A flat fee of £9,192.
 
@@ -520,7 +524,9 @@ Additional Fee 3 An additional fee, charged at a rate of £262 per agent.
 
 Passporting Fee An additional fee of £1,030 for passporting on a services basis.
 
-An additional fee of £5,150 for passporting on an establishment basis. Credit institutions carrying on investment business £ 9,192 Base Fee + Additional Fee 1 + Additional Fee 2 + Transaction Fee + Passporting Fee
+An additional fee of £5,150 for passporting on an establishment basis.
+
+Credit institutions carrying on investment business £ 9,192 Base Fee + Additional Fee 1 + Additional Fee 2 + Transaction Fee + Passporting Fee
 
 Base Fee A flat fee of £9,192.
 
@@ -654,15 +660,15 @@ Base Fee A flat fee of £9,192.
 
 Discount applicable A discount of £8,863 to be deducted from the Base Fee
 
-Additional Fee An additional fee, charged at a rate of £197 per AIF managed by the small AIFM (excluding itself).
+Additional Fee
+
+An additional fee, charged at a rate of £197 per AIF managed by the small AIFM (excluding itself).
 
 EUVECA/EUSEF Designation Fee An additional fee of £986 to use the designation EUSEF.
 
 An additional fee of £986 to use the designation EUVECA. Non-credit institution mortgage credit providers £ 9,192 Base Fee + Mortgage Credit Fee + Additional Fee
 
-Base Fee
-
-A flat fee of £9,192.
+Base Fee A flat fee of £9,192.
 
 Mortgage Credit Fee An additional fee based on the mortgage book–
 
@@ -778,7 +784,9 @@ Additional Fee 1 An additional fee, based on licence type–
 
 (b) restricted licence- a flat fee of £655.
 
-Additional Fee 2 An additional fee based on turnover–
+Additional Fee 2
+
+An additional fee based on turnover–
 
 (a) turnover ≤ £500,000 - no additional charge;
 
@@ -826,7 +834,9 @@ Fee Block E2.
 
 Regulated person Base Fee Method of Calculating Annual Fees Incoming insurance intermediary branches £ 7,222 Base Fee Only
 
-Base Fee A flat fee of £7,222. Incoming UK mortgage credit intermediary branches £ 7,222 Base Fee Only
+Base Fee A flat fee of £7,222.
+
+Incoming UK mortgage credit intermediary branches £ 7,222 Base Fee Only
 
 Base Fee A flat fee of £7,222.
 
