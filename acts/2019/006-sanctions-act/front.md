@@ -4,7 +4,7 @@ Principal Act
 
 Act. No. 2019-06 Commencement 28.3.2019 Assent 28.3.2019
 
-Amending enactments Relevant current provisions Commencement date Act.2021-08 ss. 4(1), 8(3A) 9.2.2021 2024-34 ss. 8(3), (3A), (4), 8A, Sch.4 23.12.2024
+Amending enactments Relevant current provisions Commencement date Act.2021-08 ss. 4(1), 8(3A) 9.2.2021 2024-34 ss. 8(3), (3A), (4), 8A, Sch.4 23.12.2024 2026-19 ss. 50(1)(b), (c), 51A-51D, 52(1)-(2) 9.9.2026
 
 ARRANGEMENT OF SECTIONS
 
@@ -30,7 +30,9 @@ Power to make sanctions regulations.
 
 Types of sanction
 
-21. Financial sanctions. 22. Immigration sanctions. 23. Trade sanctions. 24. Aircraft sanctions. 25. Shipping sanctions. 26. Other sanctions for purposes of international obligations.
+21. Financial sanctions.
+
+22. Immigration sanctions. 23. Trade sanctions. 24. Aircraft sanctions. 25. Shipping sanctions. 26. Other sanctions for purposes of international obligations.
 
 Designation of persons
 
@@ -58,9 +60,9 @@ Review of regulations
 
 Procedure for requests and reviews
 
-42. Procedure for requests and reviews. 43. Suspension of prohibitions and requirements.
+42. Procedure for requests and reviews. 43. Suspension of prohibitions and requirements. 44. Revocation and amendment of regulations under section 16. 45. Protection for acts done for the purpose of compliance.
 
-44. Revocation and amendment of regulations under section 16. 45. Protection for acts done for the purpose of compliance. 46. Power to amend Act so as to authorise additional sanctions. 47. Power to amend Act so as to comply with international standards.
+46. Power to amend Act so as to authorise additional sanctions. 47. Power to amend Act so as to comply with international standards.
 
 PART 4 COURT REVIEWS
 
@@ -69,6 +71,10 @@ PART 4 COURT REVIEWS
 PART 5 GENERAL
 
 51. General penalty.
+
+Civil enforcement
+
+51A. Power to impose monetary penalties. 51B. Officers of corporate bodies. 51C. Other civil enforcement. 51D. Sanctions Civil Enforcement Regulations.
 
 Supplementary
 
@@ -82,6 +88,8 @@ SCHEDULE 3 Temporary powers in relation to EU sanctions lists and related matter
 
 SCHEDULE 4 International sanctions: Information provisions
 
-SCHEDULE 5 PART 1 Designation of a person by name under a designation power PART 2 Designation of persons by description under a designation power
+SCHEDULE 5
+
+PART 1 Designation of a person by name under a designation power PART 2 Designation of persons by description under a designation power
 
 AN ACT TO MAKE PROVISION ENABLING APPROPRIATE SANCTIONS TO BE IMPOSED INCLUDING IN RESPECT OF ANY PERSONS, ENTITIES, GROUPS, ORGANISATIONS, STATES AND TERRITORIES FOR THE PURPOSES OF THE SECURITY OF GIBRALTAR OR INTERNATIONAL PEACE AND SECURITY OR IN ANY OTHER CIRCUMSTANCES WHERE IT WOULD BE APPROPRIATE TO DO SO AND FOR IMPLEMENTING IN GIBRALTAR ANY RESTRICTIVE MEASURES IMPOSED OUTSIDE GIBRALTAR; AND FOR CONNECTED PURPOSES.
